@@ -4,7 +4,7 @@ identifier: "TAR.369CF9E97755"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-28"
-last_updated: "2001-10-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.369CF9E97755"
 department: "Lietuvos Respublikos Seimas"
@@ -19,9 +19,25 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymas
 
-LIETUVOS RESPUBLIKOS SLAUGOS PRAKTIKOS Į S T A T Y M A S
+Suvestinė redakcija nuo 2010-01-01 iki 2010-12-31
 
-2001 m. birželio 28 d. Nr. IX-413 Vilnius
+Įstatymas paskelbtas: Žin. 2001, Nr. 62-2224, i. k. 1011010ISTA00IX-413
+
+Nauja redakcija nuo 2010-01-01:
+
+Nr. XI-343, 2009-07-14, Žin. 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA00XI-343
+
+LIETUVOS RESPUBLIKOS SLAUGOS PRAKTIKOS IR AKUŠERIJOS PRAKTIKOS ĮSTATYMAS
+
+2001 m. birželio 28 d. Nr. IX-413
+
+Vilnius
+
+TAR pastaba. Iki įstatymo Nr. XI-343 įsigaliojimo (2010-01-01) asmenims išduotos bendrosios praktikos slaugytojo licencijos atitinka bendrosios slaugos praktikos licencijas.
+
+Iki įstatymo Nr. XI-343 įsigaliojimo (2010-01-01) asmenims išduotos specialiosios praktikos slaugytojo licencijos, suteikiančios teisę verstis akušerijos praktika, atitinka akušerijos praktikos licencijas.
+
+Iki įstatymo Nr. XI-343 įsigaliojimo (2010-01-01) asmenims, turintiems specialiosios praktikos slaugytojo licencijas (išskyrus suteikiančias teisę verstis akušerijos praktika), iki 2018-01-01 leidžiama verstis specialiąja slaugos praktika be bendrosios slaugos praktikos ar akušerijos praktikos licencijos. Nuo 2018-01-01 šie asmenys gali verstis specialiąja slaugos praktika tik įgiję bendrosios slaugos praktikos ar akušerijos praktikos licencijas.
 
 PIRMASIS SKIRSNIS
 
@@ -29,171 +45,319 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato slaugos praktikos teisinius pagrindus, slaugytojų pareigas ir teises.
+Šis įstatymas nustato bendrosios praktikos slaugytojų ir akušerių profesinės kvalifikacijos įgijimą, praktikos sąlygas, teises, pareigas ir atsakomybę.
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Slauga – asmens sveikatos priežiūros dalis, apimanti sveikatos ugdymą, stiprinimą ir išsaugojimą, ligų ir rizikos veiksnių profilaktiką, sveikų ir sergančių asmenų fizinę, psichinę ir socialinę priežiūrą.
+1. Akušeris – asmuo, šio įstatymo ir kitų teisės aktų nustatyta tvarka įgijęs akušerio profesinę kvalifikaciją.
 
-2. Slaugytojas – asmuo, įgijęs slaugos studijų baigimo diplomą, taip pat bendrosios praktikos ir (ar) atitinkamą specialiosios praktikos slaugytojo profesinę kvalifikaciją.
+2. Akušerijos praktika – šio įstatymo ir kitų teisės aktų reglamentuotos akušerio, turinčio galiojančią akušerijos praktikos licenciją, teikiamos asmens sveikatos priežiūros paslaugos.
 
-3. Slaugos paslaugos – teisės aktų reglamentuota slaugytojo atliekama asmens sveikatos priežiūra.
+3. Akušerijos praktikos licencija – dokumentas, patvirtinantis akušeriui suteiktą teisę verstis akušerijos praktika.
 
-4. Pagrindinės slaugos studijos – slaugos studijos aukštesniojoje medicinos mokykloje ar kolegijoje, kurių trukmė ne mažesnė kaip 3 metai ir mokymo programos apimtis – ne mažiau kaip 120 kreditų, arba pirmosios pakopos nuosekliosios universitetinės studijos, kurias baigus suteikiama slaugos bakalauro kvalifikacinis laipsnis ir (ar) slaugytojo profesinė kvalifikacija.
+4. Bendroji slaugos praktika – šio įstatymo ir kitų teisės aktų reglamentuotos bendrosios praktikos slaugytojo, turinčio galiojančią bendrosios slaugos praktikos licenciją, teikiamos asmens sveikatos priežiūros paslaugos.
 
-5. Specialiosios slaugos studijos – slaugos studijos aukštesniojoje medicinos mokykloje, kolegijoje ar universitete, kurias baigus slaugytojui suteikiama atitinkama specialiosios praktikos slaugytojo profesinė kvalifikacija.
+5. Bendrosios praktikos slaugytojas – asmuo, šio įstatymo ir kitų teisės aktų nustatyta tvarka įgijęs bendrosios praktikos slaugytojo profesinę kvalifikaciją.
 
-6. Tęstinės slaugos studijos – aukštosiose ir (ar) aukštesniosiose medicinos mokyklose organizuojamos slaugos studijos, skirtos slaugytojams perkvalifikuoti.
+6. Bendrosios slaugos praktikos licencija – dokumentas, patvirtinantis bendrosios praktikos slaugytojui suteiktą teisę verstis slaugos praktika.
 
-7. Slaugos praktika – teisės aktų reglamentuota slaugytojo, įgijusio bendrosios ir (ar) atitinkamą specialiosios praktikos slaugytojo licenciją bei sertifikatą (kai jis privalomas), atliekama asmens sveikatos priežiūra.
+61. Išplėstinė slaugos praktika – šio įstatymo ir kitų teisės aktų reglamentuotos bendrosios praktikos slaugytojo, turinčio galiojančią bendrosios slaugos praktikos licenciją, kurioje teisės aktų nustatyta tvarka yra įrašas apie įgytą išplėstinės praktikos slaugytojo profesinę kvalifikaciją, teikiamos asmens sveikatos priežiūros paslaugos.
 
-8. Bendrosios praktikos slaugytojo licencija – dokumentas, suteikiantis slaugytojui teisę verstis bendrąja slaugos praktika.
+Papildyta straipsnio dalimi:
 
-9. Specialiosios praktikos slaugytojo licencija – dokumentas, suteikiantis slaugytojui teisę verstis atitinkama specialiąja slaugos praktika.
+Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA00XI-343
 
-10. Slaugos praktikos sertifikatas (toliau – sertifikatas) – dokumentas, suteikiantis slaugytojui teisę teikti tam tikras slaugos paslaugas.
+62. Išplėstinės praktikos slaugytojas – bendrosios praktikos slaugytojas, šio įstatymo ir kitų teisės aktų nustatyta tvarka įgijęs išplėstinės praktikos slaugytojo profesinę kvalifikaciją.
 
-11. Licencijų registras – Sveikatos apsaugos ministerijos tvarkomas ir saugomas sąrašas, kuriame registruojami duomenys apie licencijų išdavimą, perregistravimą, galiojimo sustabdymą ir panaikinimą.
+Papildyta straipsnio dalimi:
+
+Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA00XI-343
+
+7. Grubi slaugos ar akušerijos praktikos klaida – slaugytojo ar akušerio veika, kai dėl jų kaltės paciento sveikatai buvo padaryta žala, sukėlusi paciento neįgalumą arba mirtį.
+
+8. Slaugos ar akušerijos praktikos klaida – slaugytojo ar akušerio veika, kai dėl jų kaltės kyla pavojus arba padaroma žala paciento sveikatai.
+
+9. Slaugos praktika – bendroji ir (ar) specialioji slaugos praktika.
+
+10. Specialioji slaugos praktika – šio įstatymo ir kitų teisės aktų reglamentuotos bendrosios praktikos slaugytojo, turinčio galiojančią bendrosios slaugos praktikos licenciją, arba akušerio, turinčio galiojančią akušerijos praktikos licenciją, ir turinčių įgytą atitinkamą slaugos specializaciją patvirtinantį dokumentą, teikiamos asmens sveikatos priežiūros paslaugos.
+
+11. Slaugos specializacija – papildoma sveikatos apsaugos ministro nustatytos specializuotos slaugos srities bendrosios praktikos slaugytojo arba akušerio kompetencija.
+
+12. Valstybė narė – Europos Sąjungos valstybė narė, Europos ekonominės erdvės valstybė arba Šveicarijos Konfederacija.
+
+13. Valstybės narės pilietis – Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės arba Šveicarijos Konfederacijos pilietis.
 
 ANTRASIS SKIRSNIS
 
-SLAUGOS PRAKTIKOS TEISINIAI PAGRINDAI
+SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 
-3 straipsnis. Teisė verstis slaugos praktika
+3 straipsnis. Bendrosios praktikos slaugytojų ir akušerių profesinės kvalifikacijos ir slaugos specializacijos įgijimas
 
-1. Verstis slaugos praktika Lietuvos Respublikoje turi teisę nuolatiniai Lietuvos Respublikos gyventojai ir laikinai į Lietuvos Respubliką atvykę asmenys, turintys šio įstatymo nustatyta tvarka išduotą bendrosios ir (ar) specialiosios praktikos slaugytojo licenciją ir sertifikatą (kai jis privalomas).
+1. Bendrosios praktikos slaugytojo ar akušerio profesinė kvalifikacija įgyjama aukštojoje mokykloje baigus slaugos ar akušerijos studijų programas.
 
-2. Bendruosius reikalavimus bendrosios ir (ar) specialiosios praktikos slaugytojo licencijai ir sertifikatui (kai jis privalomas) gauti nustato šio įstatymo 4 ir 8 straipsniai.
+2. Slaugos specializaciją aukštojoje mokykloje įgyja bendrosios praktikos slaugytojai arba akušeriai, baigę pasirinktos specializuotos slaugos srities neformaliojo švietimo programą. Specializuotų slaugos sričių sąrašą ir specializuotų slaugos sričių neformaliojo švietimo programų reikalavimus nustato sveikatos apsaugos ministras.
 
-3. Laikinai į Lietuvos Respubliką atvykusiems asmenims bendrosios ir (ar) specialiosios praktikos slaugytojo licencijų ir sertifikatų (kai jie privalomi) išdavimo ypatumus nustato šio įstatymo 5 straipsnis.
+5 straipsnis. Bendrosios slaugos praktikos ir akušerijos praktikos licencijavimo tvarka
 
-4 straipsnis. Bendrieji reikalavimai bendrosios ir (ar) specialiosios praktikos slaugytojo licencijoms gauti
+1. Bendrosios slaugos praktikos ir akušerijos praktikos licencijas (toliau – licencija) išduoda, atsisako išduoti, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, galiojimą panaikina, licencijos duomenis tikslina, dublikatą išduoda ir prižiūri, kaip laikomasi licencijuojamos veiklos sąlygų, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – Licencijavimo institucija), vadovaudamasi šiuo įstatymu ir sveikatos apsaugos ministro patvirtintomis Slaugos praktikos licencijavimo taisyklėmis ir Akušerijos praktikos licencijavimo taisyklėmis (toliau – Taisyklės).
 
-1. Bendrosios praktikos slaugytojo licencija išduodama asmenims, baigusiems pagrindines slaugos studijas, įgijusiems slaugos bakalauro kvalifikacinį laipsnį ir (ar) slaugytojo profesinę kvalifikaciją.
+2. Licencija išduodama asmeniui, pateikusiam Licencijavimo institucijai Taisyklėse nurodytus dokumentus (toliau – dokumentai).
 
-2. Specialiosios praktikos slaugytojo licencija išduodama slaugytojams, baigusiems atitinkamas specialiosios slaugos studijas ir įgijusiems atitinkamą specialiosios praktikos slaugytojo profesinę kvalifikaciją.
+3. Užsienio valstybėse išduoti dokumentai, teikiami Licencijavimo institucijai, turi būti legalizuoti ar patvirtinti pažyma (Apostille), išskyrus Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos teisės aktų nustatytus atvejus. Šie dokumentai turi būti pateikti išversti į lietuvių kalbą, o vertimas turi būti patvirtintas dokumentus išvertusio asmens parašu teisės aktų nustatyta tvarka.
 
-6 straipsnis. Bendrosios ir (ar) specialiosios praktikos slaugytojo licencijų išdavimo, perregistravimo, galiojimo sustabdymo, atnaujinimo ar panaikinimo tvarka
+4. Licencija išduodama neterminuotam laikui. Licencijos turėtojas privalo sveikatos apsaugos ministro nustatyta tvarka kas 5 metus pranešti Licencijavimo institucijai apie profesinės kvalifikacijos tobulinimą ir slaugos ar akušerijos praktiką.
 
-1. Bendrosios ir (ar) specialiosios praktikos slaugytojo licencijas išduoda, perregistruoja, sustabdo jų galiojimą, jas atnaujina ar panaikina, taip pat licencijų dublikatus išduoda Sveikatos apsaugos ministerija ar jos įgaliota institucija pagal Sveikatos apsaugos ministerijos patvirtintas Slaugos praktikos licencijavimo taisykles.
+5. Už licencijos išdavimą, licencijos duomenų tikslinimą ar dublikato išdavimą imama nustatyto dydžio valstybės rinkliava.
 
-2. Slaugos paslaugų, kurioms teikti yra būtina licencija, sąrašą tvirtina Sveikatos apsaugos ministerija.
+6. Bendrosios praktikos slaugytojas ar akušeris, kurio licencijos galiojimas buvo panaikintas, dėl naujos licencijos išdavimo gali kreiptis:
 
-3. Už bendrosios ir (ar) specialiosios praktikos slaugytojo licencijų išdavimą, perregistravimą, galiojimo atnaujinimą ar dublikatų išdavimą imama nustatyto dydžio valstybės rinkliava.
+1) praėjus trims mėnesiams nuo licencijos galiojimo panaikinimo dienos, jei licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo 8 straipsnio 1 dalies 5 punktu;
 
-4. Bendrosios ir (ar) specialiosios praktikos slaugytojo licencijos išduodamos neterminuotam laikotarpiui ir perregistruojamos kas 5 metai.
+2) praėjus šešiems mėnesiams nuo licencijos galiojimo panaikinimo dienos, jei licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo 8 straipsnio 1 dalies 2 punktu;
 
-5. Sveikatos apsaugos ministerijos ar jos įgaliotos institucijos atsisakymą bendrosios ir (ar) specialiosios praktikos slaugytojo licencijas išduoti, perregistruoti ar atnaujinti jų galiojimą, taip pat sprendimą sustabdyti ar panaikinti bendrosios ir (ar) specialiosios praktikos slaugytojo licencijų galiojimą slaugytojas turi teisę apskųsti teismui įstatymų nustatyta tvarka.
+3) praėjus vieniems metams nuo licencijos galiojimo panaikinimo dienos, jei licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo 8 straipsnio 1 dalies 3 ir 4 punktais.
 
-6. Sveikatos apsaugos ministerija šio straipsnio 1 dalyje nurodytai veiklai sudaro nuolatinę komisiją. Šios komisijos sudėtį, sudarymo tvarką ir veiklą reglamentuoja Sveikatos apsaugos ministerijos patvirtintos Slaugos praktikos licencijavimo taisyklės.
+7. Licencijavimo institucija duomenis apie licencijos išdavimą, atsisakymą išduoti licenciją, licencijos galiojimo sustabdymą, licencijos galiojimo sustabdymo panaikinimą, licencijos galiojimo panaikinimą, licencijos duomenų tikslinimą, dublikato išdavimą ir kitus su licencijuojama veikla susijusius duomenis įrašo į Sveikatos priežiūros ir farmacijos specialistų praktikos licencijų registro (toliau – Registras) duomenų bazę Registro nuostatų nustatyta tvarka.
 
-7 straipsnis. Licencijų galiojimo panaikinimo pagrindai
+8. Licencijavimo institucija informaciją apie sprendimus išduoti licenciją, sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą arba panaikinti licencijos galiojimą skelbia leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ ir interneto svetainėje.
 
-Licencijos galiojimas panaikinamas, jeigu:
+9. Licencijavimo institucija motyvuotą sprendimą dėl licencijos išdavimo ar atsisakymo ją išduoti priima ne vėliau kaip per 30 dienų nuo visų dokumentų gavimo dienos.
 
-1) asmuo, kreipdamasis dėl licencijos išdavimo, pateikė suklastotus ar netinkamus dokumentus;
+4 straipsnis. Slaugos praktikos ir akušerijos praktikos sąlygos
 
-2) asmens kvalifikacija neatitinka licencijoje nurodytos specialybės reikalavimų;
+1. Slaugos praktika ir akušerijos praktika yra licencijuojama veikla.
 
-3) asmuo padarė šiurkščią slaugos praktikos klaidą ar dažnai pasikartojančių slaugos praktikos klaidų;
+2. Bendrąja slaugos praktika Lietuvos Respublikoje galima verstis tik turint galiojančią bendrosios slaugos praktikos licenciją, išskyrus šio įstatymo 9 straipsnyje nurodytus atvejus.
 
-4) asmuo šiurkščiai pažeidė paciento teises;
+3. Specialiąja slaugos praktika Lietuvos Respublikoje galima verstis tik turint galiojančią bendrosios slaugos praktikos licenciją ar akušerijos praktikos licenciją ir įgytą atitinkamą slaugos specializaciją patvirtinantį dokumentą, išskyrus šio įstatymo 9 straipsnyje nurodytus atvejus.
 
-5) asmeniui įsigaliojusiu teismo nuosprendžiu yra uždrausta verstis slaugos praktika;
+4. Išplėstine slaugos praktika Lietuvos Respublikoje galima verstis tik turint galiojančią bendrosios slaugos praktikos licenciją, kurioje sveikatos apsaugos ministro nustatyta tvarka yra įrašas apie įgytą išplėstinės praktikos slaugytojo profesinę kvalifikaciją.
 
-6) kitais įstatymų numatytais atvejais.
+Papildyta straipsnio dalimi:
 
-8 straipsnis. Sertifikatų išdavimo, perregistravimo, galiojimo sustabdymo, atnaujinimo ar panaikinimo tvarka
+Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA00XI-343
 
-1. Sertifikatus išduoda, perregistruoja, sustabdo jų galiojimą, juos atnaujina ar panaikina, taip pat sertifikatų dublikatus išduoda Sveikatos apsaugos ministerija ar jos įgaliota institucija pagal Sveikatos apsaugos ministerijos patvirtintas Slaugos paslaugų sertifikavimo taisykles.
+4. Akušerijos praktika Lietuvos Respublikoje galima verstis tik turint galiojančią akušerijos praktikos licenciją, išskyrus šio įstatymo 9 straipsnyje nurodytus atvejus.
 
-2. Už sertifikatų išdavimą, perregistravimą, galiojimo atnaujinimą ar dublikatų išdavimą imama nustatyto dydžio valstybės rinkliava.
+5. Slaugos ir (ar) akušerijos paslaugas asmenims teikia juridiniai asmenys, turintys asmens sveikatos priežiūros licenciją atitinkamoms sveikatos priežiūros paslaugoms teikti.
 
-3. Slaugos paslaugų, kurioms teikti yra būtinas sertifikatas, sąrašą tvirtina Sveikatos apsaugos ministerija.
+6. Bendrosios praktikos slaugytojai ir akušeriai, užsienyje įgiję Lietuvos Respublikoje pripažįstamą profesinę kvalifikaciją, profesine veikla Lietuvos Respublikoje verčiasi tokiomis pačiomis sąlygomis kaip ir asmenys, įgiję atitinkamą profesinę kvalifikaciją Lietuvos Respublikoje.
 
-4. Sertifikatai išduodami neterminuotam laikotarpiui ir perregistruojami kas 5 metai.
+6 straipsnis. Atsisakymo išduoti licenciją pagrindai
 
-5. Sveikatos apsaugos ministerijos ar jos įgaliotos institucijos atsisakymą sertifikatus išduoti, perregistruoti ar atnaujinti jų galiojimą, taip pat sprendimą sustabdyti ar panaikinti sertifikatų galiojimą slaugytojas turi teisę apskųsti teismui įstatymų nustatyta tvarka.
+1. Licenciją išduoti atsisakoma, kai:
 
-9 straipsnis. Neteisėta slaugos praktika
+1) pateikti netinkamai įforminti ar ne visi dokumentai;
 
-1. Neteisėta slaugos praktika – tai veikla, kai asmuo:
+2) pateikti klaidingi duomenys;
 
-1) verčiasi slaugos praktika neturėdamas licencijos arba ši yra negaliojanti;
+3) teismo sprendimu asmeniui uždrausta verstis slaugos ar akušerijos praktika;
 
-2) teikia slaugos praktikos paslaugas neturėdamas sertifikato, kai jis yra būtinas;
+4) asmuo serga trukdančiomis teikti slaugos ar akušerijos paslaugas ligomis, kurių sąrašą nustato sveikatos apsaugos ministras.
 
-3) neteisėtai pasisavina slaugytojo vardą.
+2. Pašalinęs priežastis, dėl kurių buvo atsisakyta išduoti licenciją, arba joms išnykus, pareiškėjas gali pakartotinai kreiptis dėl licencijos išdavimo Taisyklių nustatyta tvarka.
 
-2. Asmuo už vertimąsi neteisėta slaugos praktika atsako įstatymų nustatyta tvarka.
+7 straipsnis. Licencijos galiojimo sustabdymas
 
-10 straipsnis. Profesinis tobulinimas
+1. Licencijos galiojimas sustabdomas:
 
-1. Slaugytojų profesiniu tobulinimu rūpinasi sveikatos priežiūros įstaigos, įmonės, jų steigėjai, profesinės sveikatos priežiūros įstaigų organizacijos bei patys slaugytojai.
+1) licencijos turėtojo prašymu;
 
-2. Slaugytojų profesinio tobulinimo, privalomo bendrosios ir (ar) specialiosios praktikos slaugytojų licencijų ir sertifikatų (kai jie privalomi) perregistravimui ar galiojimo atnaujinimui, tvarką ir mastą nustato Sveikatos apsaugos ministerija ar jos įgaliota institucija.
+2) kai licencijos turėtojas nevykdo licencijuojamos veiklos sąlygų;
+
+3) kai sveikatos apsaugos ministro sudaryta Profesinės kompetencijos vertinimo komisija (toliau – Profesinės kompetencijos vertinimo komisija) nustato, kad licencijos turėtojo profesinė kompetencija nepakankama;
+
+4) kai teismas priima sprendimą dėl laikino nušalinimo nuo pareigų ar laikino teisės verstis slaugos ar akušerijos praktika sustabdymo;
+
+5) kai yra šio įstatymo 6 straipsnio 1 dalies 4 punkte nurodytos priežastys.
+
+2. Licencijos galiojimo sustabdymo terminą, kuris gali būti ne ilgesnis kaip vieni metai, išskyrus šio straipsnio 1 dalies 4 punkte nurodytą atvejį, nustato Licencijavimo institucija Taisyklėse nustatyta tvarka.
+
+3. Sustabdžius licencijos galiojimą, licencijos turėtojas negali verstis slaugos ar akušerijos praktika.
+
+4. Vykdydamas Licencijavimo institucijos sprendimą sustabdyti licencijos galiojimą, darbdavys privalo licencijos galiojimo sustabdymo laikotarpiu nušalinti licencijos turėtoją nuo pareigų Lietuvos Respublikos darbo kodekso nustatyta tvarka.
+
+5. Licencijavimo institucija apie priimtą sprendimą sustabdyti licencijos galiojimą nedelsdama raštu praneša licencijos turėtojui ir slaugos ar akušerijos paslaugas teikiančio juridinio asmens, su kuriuo licencijos turėtojas yra susijęs darbo santykiais, vadovui arba jo įgaliotam atstovui, nurodydama priežastis.
+
+6. Licencijavimo institucija, vadovaudamasi Taisyklėmis, sustabdo licencijos galiojimą savo iniciatyva arba kai dėl to kreipiasi licencijos turėtojas, teisėsaugos institucijos, Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, juridinių asmenų, turinčių asmens sveikatos priežiūros licenciją atitinkamoms slaugos ar akušerijos paslaugoms teikti, vadovai.
+
+7. Licencijos galiojimo sustabdymas panaikinamas Taisyklių nustatyta tvarka.
+
+8 straipsnis. Licencijos galiojimo panaikinimas
+
+1. Licencijos galiojimas panaikinamas:
+
+1) licencijos turėtojo prašymu;
+
+2) kai paaiškėja, kad licencijai gauti pateikti suklastoti dokumentai;
+
+3) kai licencijos turėtojas padaro grubią slaugos ar akušerijos praktikos klaidą, kurią nustato Profesinės kompetencijos vertinimo komisija;
+
+4) kai Profesinės kompetencijos vertinimo komisija nustato, kad licencijos turėtojas per kalendorinius metus padarė dvi ar daugiau slaugos ar akušerijos praktikos klaidų ir jos sukėlė arba galėjo sukelti paciento sveikatos pablogėjimą ar grėsmę jo gyvybei;
+
+5) kai licencijos turėtojas šiurkščiai pažeidžia paciento teises: šiurkščiai elgiasi ir žemina paciento orumą; seksualiai priekabiauja prie paciento; būdamas neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų teikia pacientui asmens sveikatos priežiūros paslaugas;
+
+6) kai įsiteisėjusiu teismo sprendimu licencijos turėtojui uždrausta verstis slaugos praktika ar akušerijos praktika;
+
+7) kai per Licencijavimo institucijos nustatytą terminą nepašalintos ar neišnyko priežastys, dėl kurių buvo sustabdytas licencijos galiojimas;
+
+8) licencijos turėtojui mirus.
+
+2. Licencijos galiojimą, vadovaudamasi Taisyklėmis, Licencijavimo institucija panaikina savo iniciatyva arba kai dėl to kreipiasi licencijos turėtojas, teisėsaugos institucijos, Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, juridinių asmenų, turinčių asmens sveikatos priežiūros licenciją atitinkamoms slaugos ar akušerijos paslaugoms teikti, vadovai.
+
+3. Licencijavimo institucija apie priimtą sprendimą panaikinti licencijos galiojimą nedelsdama raštu praneša licencijos turėtojui ir slaugos ar akušerijos paslaugas teikiančio juridinio asmens, su kuriuo licencijos turėtojas yra susijęs darbo santykiais, vadovui arba jo įgaliotam atstovui, nurodydama priežastis, išskyrus šio straipsnio 1 dalies 8 punkte nurodytą atvejį.
+
+4. Licencijos turėtojas, gavęs rašytinį Licencijavimo institucijos pranešimą apie licencijos galiojimo panaikinimą, per 3 darbo dienas privalo jai grąžinti licencijos originalą.
+
+9 straipsnis. Kitų valstybių narių bendrosios praktikos slaugytojų ir akušerių teisės teikti laikinas ar vienkartines slaugos ar akušerijos paslaugas Lietuvos Respublikoje įgijimo sąlygos
+
+1. Bendrosios praktikos slaugytojas ar akušeris, kuris yra kitos valstybės narės pilietis, vadovaudamasis Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu ir kitų teisės aktų nustatyta tvarka, turi teisę teikti laikinas ar vienkartines slaugos ar akušerijos paslaugas Lietuvos Respublikoje ir neturėdamas licencijos.
+
+2. Bendrosios praktikos slaugytojas ar akušeris, kuris yra kitos valstybės narės pilietis, teikdamas laikinas ar vienkartines slaugos ar akušerijos paslaugas Lietuvos Respublikoje, turi tokias pačias teises ir pareigas kaip ir Lietuvos Respublikoje išduotos licencijos turėtojas.
+
+3. Informacija apie šio straipsnio 1 dalyje nurodytus kitų valstybių narių bendrosios praktikos slaugytojus ir akušerius kaupiama Registre.
+
+10 straipsnis. Neteisėta slaugos ar akušerijos praktika
+
+1. Neteisėta slaugos ar akušerijos praktika – veikla, kai asmuo:
+
+1) verčiasi bendrąja slaugos ar akušerijos praktika neturėdamas galiojančios licencijos, išskyrus šio įstatymo 9 straipsnyje nurodytus atvejus;
+
+2) verčiasi specialiąja slaugos praktika neturėdamas galiojančios bendrosios slaugos praktikos ar akušerijos praktikos licencijos, išskyrus šio įstatymo 9 straipsnyje nurodytus atvejus;
+
+3) verčiasi specialiąja slaugos praktika turėdamas galiojančią bendrosios slaugos praktikos ar galiojančią akušerijos praktikos licenciją, bet neturėdamas įgytą atitinkamą slaugos specializaciją patvirtinančio dokumento;
+
+4) teikia slaugos ar akušerijos paslaugas, būdamas susijęs darbo santykiais su juridiniu asmeniu, neturinčiu asmens sveikatos priežiūros licencijos atitinkamoms slaugos ar akušerijos paslaugoms teikti;
+
+5) teikia slaugos ar akušerijos paslaugas, nebūdamas susijęs darbo santykiais su juridiniu asmeniu, teikiančiu asmens sveikatos priežiūros paslaugas.
+
+2. Asmuo už neteisėtą vertimąsi slaugos ar akušerijos praktika atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
 
 TREČIASIS SKIRSNIS
 
-SLAUGYTOJŲ TEISĖS IR PAREIGOS
+BENDROSIOS PRAKTIKOS SLAUGYTOJO IR AKUŠERIO
 
-11 straipsnis. Slaugytojų teisės
+TEISĖS, PAREIGOS IR ATSAKOMYBĖ
 
-Slaugytojai turi teisę:
+11 straipsnis. Bendrosios praktikos slaugytojo teisės
 
-1) verstis slaugos praktika įstatymų ir kitų teisės aktų nustatyta tvarka;
+1. Bendrosios praktikos slaugytojas turi šias teises:
 
-2) atsisakyti taikyti slaugymo metodus, gydymo procedūras, kurie prieštarauja medicinos etikai, jeigu tai nesukelia pavojaus paciento gyvybei ar sveikatai;
+1) verstis slaugos praktika;
 
-3) įgyti profesinę slaugytojo kvalifikaciją tęstinėse slaugos studijose;
+2) atsisakyti teikti slaugos paslaugas, jeigu darbo sąlygos kelia realų pavojų paciento, bendrosios praktikos slaugytojo sveikatai ar gyvybei, išskyrus atvejus, kai teikiama būtinoji medicinos pagalba;
 
-4) kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas teises.
+3) dalyvauti bendrosios praktikos slaugytojų profesinio rengimo, tobulinimo, slaugos paslaugų kokybės gerinimo ir vertinimo procese;
 
-12 straipsnis. Slaugytojų pareigos
+4) dalyvauti slaugos moksliniuose tyrimuose;
 
-Slaugytojai privalo:
+2. Bendrosios praktikos slaugytojas turi ir kitų teisių, nustatytų kituose Lietuvos Respublikos teisės aktuose.
 
-1) pagal savo kompetenciją teikti būtinąją medicinos pagalbą;
+12 straipsnis. Akušerio teisės
 
-2) verstis bendrąja ir (ar) specialiąja slaugos praktika šio įstatymo ir kitų teisės aktų nustatyta tvarka;
+1. Akušeris turi šias teises:
 
-3) tobulinti savo profesines žinias;
+1) verstis akušerijos praktika;
 
-4) laikytis profesinės etikos reikalavimų Lietuvos Respublikos teisės aktų nustatyta tvarka;
+2) atsisakyti teikti akušerijos paslaugas, jeigu darbo sąlygos kelia realų pavojų paciento arba akušerio sveikatai ar gyvybei, išskyrus atvejus, kai teikiama būtinoji medicinos pagalba;
 
-5) gerbti pacientų teises;
+3) dalyvauti akušerių profesinio rengimo, tobulinimo, akušerijos paslaugų kokybės gerinimo ir vertinimo procese;
 
-6) suteikti informaciją apie paciento sveikatos būklę įstatymų nustatyta tvarka;
+4) dalyvauti akušerijos moksliniuose tyrimuose;
 
-7 ) tinkamai tvarkyti slaugos (medicinos) dokumentaciją;
+2. Akušeris turi ir kitų teisių, nustatytų kituose Lietuvos Respublikos teisės aktuose.
 
-8) teikdami pacientams slaugos paslaugas, bendradarbiauti su kitais sveikatos priežiūros bei socialinį darbą atliekančiais specialistais;
+13 straipsnis. Bendrosios praktikos slaugytojo pareigos
 
-9) vykdyti kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas pareigas.
+Bendrosios praktikos slaugytojas privalo:
 
-13 straipsnis. Slaugos praktikos kontrolė
+1) versdamasis slaugos praktika laikytis šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų;
 
-Slaugytojų profesinę veiklą kontroliuoja Sveikatos apsaugos ministerija ir kitos įstatymų įgaliotos valstybės institucijos.
+2) pagal kompetenciją pacientams teikti asmens sveikatos priežiūros paslaugas;
 
-KETVIRTASIS SKIRSNIS
+3) tobulinti profesinę kvalifikaciją sveikatos apsaugos ministro nustatyta tvarka;
 
-BAIGIAMOSIOS NUOSTATOS
+4) laikytis Taisyklėse nustatytų licencijuojamos veiklos sąlygų;
 
-14 straipsnis. Bendrosios ir (ar) specialiosios praktikos slaugytojų profesinės kvalifikacijos pripažinimas
+5) gerbti pacientų teises ir jų nepažeisti;
 
-Asmenims, baigusiems slaugos studijas ir įgijusiems medicinos sesers, vaikų įstaigų medicinos sesers, medicinos felčerio ar akušerio diplomą ir atitinkamą profesinę kvalifikaciją, bendrosios ir (ar) atitinkama specialiosios praktikos slaugytojo profesinė kvalifikacija pripažįstama Vyriausybės įgaliotos institucijos nustatyta tvarka.
+6) teikti informaciją apie paciento sveikatą Lietuvos Respublikos teisės aktų nustatyta tvarka;
 
-15 straipsnis. Įstatymo įsigaliojimas
+7) teikdamas slaugos paslaugas bendradarbiauti su sveikatos priežiūros ir kitais specialistais;
 
-1. Šis įstatymas įsigalioja nuo 2001 m. spalio 1 d., išskyrus 9 straipsnį, kuris įsigalioja nuo 2003 m. spalio 1 d., ir 16 straipsnį.
+8) Lietuvos Respublikos teisės aktų nustatyta tvarka pranešti teisėsaugos ir kitoms valstybės institucijoms apie sužalotus ar smurtą patyrusius asmenis, kuriems dėl nusikalstamos veikos galėjo būti padaryta žala;
 
-2. Slaugytojai, pradėję verstis bendrąja slaugos praktika iki 2001 m. spalio 1 d., bendrosios praktikos slaugytojo licenciją ir sertifikatą (kai jis privalomas) turi įgyti iki 2003 m. spalio 1 d. Šiuo laikotarpiu išduodant jiems licencijas, nėra taikomi šio įstatymo 4 straipsnio reikalavimai. Licencijos šiems asmenims išduodamos pateikus dokumentą, patvirtinantį atitinkamos profesinės kvalifikacijos pripažinimą šio įstatymo 14 straipsnio nustatyta tvarka.
+9) nepriimti kyšių ir elgtis taip, kad savo veiksmais neprovokuotų paciento, jo artimųjų giminaičių ar kitų paciento atstovų duoti kyšį;
 
-3. Nuo 2001 m. spalio 1 d. iki 2003 m. spalio 1 d. slaugytojams netaikomi šio įstatymo 3 straipsnio 1 dalies reikalavimai turėti bendrosios praktikos slaugytojo licenciją ir sertifikatą (kai jis privalomas). Nuo 2003 m. spalio 1 d. bendroji slaugos praktika be bendrosios praktikos slaugytojo licencijos ir sertifikato (kai jis privalomas) yra neteisėta.
+10) atlikti kitas Lietuvos Respublikos teisės aktų nustatytas pareigas.
 
-4. Slaugytojai, pradėję verstis specialiąja slaugos praktika iki 2001 m. spalio 1 d., atitinkamą specialiosios praktikos slaugytojo licenciją ir sertifikatą (kai jis privalomas) turi įgyti iki 2005 m. spalio 1 d.
+14 straipsnis. Akušerio pareigos
 
-5. Nuo 2001 m. spalio 1 d. iki 2005 m. spalio 1 d. slaugytojams netaikomi šio įstatymo 3 straipsnio 1 dalies reikalavimai turėti specialiosios praktikos slaugytojo licenciją ir sertifikatą (kai jis privalomas). Nuo 2005 m. spalio 1 d. specialioji slaugos praktika be atitinkamos specialiosios praktikos slaugytojo licencijos ir sertifikato (kai jis privalomas) yra neteisėta.
+Akušeris privalo:
+
+1) versdamasis akušerijos praktika laikytis šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų;
+
+2) pagal kompetenciją teikti akušerinę priežiūrą ir pagalbą moterims, vykdyti sveikatos profilaktiką ir naujagimių priežiūrą, konsultuoti šeimas ir moteris;
+
+3) tobulinti profesinę kvalifikaciją sveikatos apsaugos ministro nustatyta tvarka;
+
+4) laikytis Taisyklėse nustatytų licencijuojamos veiklos sąlygų;
+
+5) gerbti pacientų teises ir jų nepažeisti;
+
+6) teikti informaciją apie paciento sveikatą Lietuvos Respublikos teisės aktų nustatyta tvarka;
+
+7) teikdamas akušerijos paslaugas bendradarbiauti su sveikatos priežiūros ir kitais specialistais;
+
+8) Lietuvos Respublikos teisės aktų nustatyta tvarka pranešti teisėsaugos ir kitoms valstybės institucijoms apie sužalotus ar smurtą patyrusius asmenis, kuriems dėl nusikalstamos veikos galėjo būti padaryta žala;
+
+9) nepriimti kyšių ir elgtis taip, kad savo veiksmais neprovokuotų paciento, jo artimųjų giminaičių ar kitų paciento atstovų duoti kyšį;
+
+10) atlikti kitas Lietuvos Respublikos teisės aktų nustatytas pareigas.
+
+15 straipsnis. Bendrosios praktikos slaugytojo ir akušerio profesinės kompetencijos vertinimas ir atsakomybė
+
+1. Bendrosios praktikos slaugytojo ar akušerio profesinę kompetenciją vertina ir slaugos ar akušerijos praktikos klaidas nustato Profesinės kompetencijos vertinimo komisija, vadovaudamasi sveikatos apsaugos ministro patvirtintu Sveikatos priežiūros specialistų profesinės kompetencijos patikrinimo tvarkos aprašu.
+
+2. Bendrosios praktikos slaugytojas ar akušeris už profesinių pareigų nevykdymą arba netinkamą vykdymą atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA00XI-343
+
+Lietuvos Respublikos slaugos praktikos įstatymo pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-885, 2010-06-08, Žin., 2010, Nr. 71-3557 (2010-06-19), i. k. 1101010ISTA00XI-885
+
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo 5 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2373, 2012-11-06, Žin., 2012, Nr. 135-6864 (2012-11-22), i. k. 1121010ISTA0XI-2373
+
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
+
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 2, 3, 4, 8, 11, 12, 13 straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
 
 16 straipsnis. Pasiūlymai Vyriausybei ar jos įgaliotai institucijai
 
@@ -202,20 +366,4 @@ Pasiūlyti Vyriausybei ar jos įgaliotai institucijai iki 2001 m. spalio 1 d. pa
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
-
-111 straipsnis. Išplėstinės praktikos slaugytojo teisės
-
-1. Išplėstinės praktikos slaugytojas turi šias teises:
-
-1) išrašyti receptus sveikatos apsaugos ministro nustatyta tvarka;
-
-2) išduoti asmens sveikatos pažymėjimus (pažymas) sveikatos apsaugos ministro nustatyta tvarka;
-
-3) atlikti asmens sveikatos būklės tikrinimą, ligų profilaktiką sveikatos apsaugos ministro nustatyta tvarka.
-
-2. Išplėstinės praktikos slaugytojas turi ir kitų teisių, nustatytų kituose Lietuvos Respublikos teisės aktuose.
-
-Papildyta straipsniu:
-
-Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA00XI-343
 
