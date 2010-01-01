@@ -4,7 +4,7 @@ identifier: "TAR.B2F1F575D794"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "2008-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
 department: "Lietuvos Respublikos Seimas"
@@ -127,9 +127,9 @@ laiko pratęsimą;
 
 dėl teisės į Lietuvos Respublikos pilietybę išsaugojimo priėmimą ir perdavimą;
 
-5) dokumentų dėl paso išdavimo ir keitimo priėmimą ir
+5) paso išdavimą, keitimą arba dokumentų dėl paso
 
-perdavimą;
+išdavimo ir keitimo priėmimą ir perdavimą;
 
 6) dokumentų dėl leidimo gyventi Lietuvos Respublikoje
 
@@ -167,6 +167,12 @@ nukentėjusiam asmeniui dėl svarbių priežasčių negalima pervesti pinigų ki
 
 būdais.
 
+Straipsnio pakeitimas:
+
+Nr. XI-468,
+
+2009-11-12, Žin., 2009, Nr. 141-6191 (2009-11-28)
+
 4 straipsnis. Mokesčio dydis
 
 1. Konsulinis mokestis yra ne mažesnis kaip 2 eurai ir ne didesnis kaip
@@ -181,9 +187,9 @@ kurias patiria Lietuvos Respublikos valstybės ir savivaldybių institucijos ar
 
 teikimo;
 
-2) išlaidas darbui, susijusiam su
+2) išlaidas darbui, susijusiam su konsulinių
 
-konsulinių įstaigų atliekamais konsuliniais veiksmais, apmokėti;
+įstaigų atliekamais konsuliniais veiksmais, apmokėti;
 
 3) Europos Sąjungos teisės aktų
 
@@ -223,9 +229,9 @@ atsižvelgdama į tai, kokio dydžio mokestį šios valstybės ima iš Lietuvos
 
 Respublikos juridinių ir fizinių asmenų.
 
-6 straipsnis. Mokesčio
+6 straipsnis. Mokesčio lengvatos
 
-lengvatos
+1.
 
 Konsulinis mokestis neimamas už:
 
@@ -245,9 +251,9 @@ iš Lietuvos Respublikos ar buvimo valstybių institucijų, pinigų pasinaudojan
 
 Lietuvos Respublikos užsienio reikalų ministerijos ar konsulinių įstaigų
 
-sąskaitomis pervedimą) asmenims, kurie dėl svarbių priežasčių (nelaimingas
+sąskaitomis pervedimą) asmenims, kurie dėl svarbių priežasčių (nelaimingo
 
-atsitikimas, liga, nukentėjimas nuo nusikalstamos veikos) negali sumokėti
+atsitikimo, ligos, nukentėjimo nuo nusikalstamos veikos) negali sumokėti
 
 konsulinio mokesčio ir pateikia šių svarbių priežasčių buvimo faktą
 
@@ -373,11 +379,11 @@ Respublikoje išdavimo priėmimą ir perdavimą lietuvių kilmės asmenims ir
 
 asmenims, išsaugojusiems teisę į Lietuvos Respublikos pilietybę, pateikusiems
 
-tai patvirtinančius dokumentus (tarp jų ir šios dalies 11 punkte nurodytą dokumentą),
+tai patvirtinančius dokumentus (tarp jų ir šios dalies 11 punkte nurodytą
 
-ir kartu gyventi į Lietuvos Respubliką atvykstantiems šių asmenų šeimos
+dokumentą), ir kartu gyventi į Lietuvos Respubliką atvykstantiems šių asmenų
 
-nariams;
+šeimos nariams;
 
 18) mirties įregistravimą ir mirties liudijimo
 
@@ -391,7 +397,41 @@ pareikalavimą ir legalizavimą;
 
 notarinius veiksmus ir konsulinės pažymos, kad asmens, kuris kreipėsi į
 
-konsulinę įstaigą, prašymas netenkintinas, išdavimą.
+konsulinę įstaigą, prašymas netenkintinas, išdavimą;
+
+21) paso išdavimą, keitimą arba dokumentų dėl paso
+
+išdavimo ir keitimo priėmimą ir perdavimą vaikams, kuriems nustatyta globa ar
+
+rūpyba, užsienio valstybių išlaikomiems stacionariose globos įstaigose
+
+asmenims, vienišiems asmenims, sukakusiems senatvės pensijos amžių, asmenims,
+
+kuriems nustatytas 0–40 procentų darbingumo lygis, asmenims iki 18 metų,
+
+kuriems nustatytas neįgalumo lygis, asmenims, kuriems pagal Lietuvos
+
+Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso
+
+įstatymą pripažįstamas nuo okupacijų nukentėjusio – represuoto asmens teisinis
+
+statusas.
+
+2. Konsulinio mokesčio už paso išdavimą, keitimą arba
+
+dokumentų dėl paso išdavimo ir keitimo priėmimą ir perdavimą bendra tvarka
+
+Lietuvos Respublikos piliečiams, kuriems nesukako 18 metų, taip pat kuriems
+
+sukako senatvės pensijos amžius, nustatytas Lietuvos Respublikos valstybinių
+
+socialinio draudimo pensijų įstatyme, dydis sumažinamas 50 procentų.
+
+Straipsnio pakeitimas:
+
+Nr. XI-468,
+
+2009-11-12, Žin., 2009, Nr. 141-6191 (2009-11-28)
 
 7 straipsnis. Mokesčio
 
@@ -471,11 +511,11 @@ priedas
 
 nustatantis specialų supaprastinto tranzito dokumentą (STD) ir supaprastinto
 
-tranzito geležinkeliu dokumentą (STGD) ir iš dalies pakeičiantis Bendrąją konsulinę
+tranzito geležinkeliu dokumentą (STGD) ir iš dalies pakeičiantis Bendrąją
 
-instrukciją ir Bendrąjį vadovą (OL 2004 m. specialusis leidimas, 19 skyrius, 6
+konsulinę instrukciją ir Bendrąjį vadovą (OL 2004 m. specialusis leidimas, 19
 
-tomas, p. 138).
+skyrius, 6 tomas, p. 138).
 
 2. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva
 
@@ -497,7 +537,7 @@ Bendrojo vadovo 14a priedą dėl taikytinų mokesčių, atitinkančių prašymų
 
 vizą tvarkymo administracines išlaidas (OL 2006 L 175, p. 77).
 
-__________________
+_______________
 
 Pakeitimai:
 
@@ -577,9 +617,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-2139, 2004-04-15,
+IX-2139,
 
-Žin., 2004, Nr. 61-2188 (2004-04-27)
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
 
 ĮMONIŲ
 
@@ -653,13 +693,29 @@ Nauja
 
 įstatymo redakcija
 
-***
+9.
 
-Pabaiga ***
+Lietuvos
 
-Redagavo:
+Respublikos Seimas, Įstatymas
 
-Aušrinė Trapinskienė (2007-11-08)
+Nr. XI-468,
+
+2009-11-12, Žin., 2009, Nr. 141-6191 (2009-11-28)
+
+KONSULINIO
+
+MOKESČIO ĮSTATYMO 3, 6 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas, išskyrus 4 straipsnį, įsigalioja 2010 m.
+
+sausio 1 d.
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2009-12-03)
 
 autrap@lrs.lt
 
