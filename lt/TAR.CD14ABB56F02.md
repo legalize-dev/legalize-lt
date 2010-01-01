@@ -4,7 +4,7 @@ identifier: "TAR.CD14ABB56F02"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-12-18"
-last_updated: "2009-03-05"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CD14ABB56F02"
 department: "Lietuvos Respublikos Seimas"
@@ -425,9 +425,9 @@ straipsnio 4 dalyje numatytą atvejį;
 
 paskutinius 24 mėnesius iki pirmosios vaiko priežiūros atostogų dienos turi ne
 
-trumpesnį kaip 7 mėnesių ligos ir motinystės socialinio draudimo stažą,
+trumpesnį kaip 7 mėnesių ligos ir motinystės socialinio draudimo stažą, išskyrus
 
-išskyrus atvejus, numatytus šio straipsnio 2 ir 3 dalyse. Nuo 2009 m. liepos 1 d. – ne trumpesnį kaip 9 mėnesių per paskutinius 24 mėnesius, nuo 2009 m. spalio 1 d. – ne trumpesnį kaip 12 mėnesių per paskutinius 24 mėnesius ligos ir motinystės
+atvejus, numatytus šio straipsnio 2 ir 3 dalyse. Nuo 2009 m. liepos 1 d. – ne trumpesnį kaip 9 mėnesių per paskutinius 24 mėnesius, nuo 2009 m. spalio 1 d. – ne trumpesnį kaip 12 mėnesių per paskutinius 24 mėnesius ligos ir motinystės
 
 socialinio draudimo stažą, išskyrus šio straipsnio 2 ir 3 dalyse numatytus
 
@@ -461,61 +461,67 @@ neatsižvelgiant į kintančio stažo reikalavimą.
 
 gavusių pajamas iš sporto veiklos, asmenų, gavusių pajamas iš atlikėjo veiklos,
 
-ir asmenų, gavusių pajamas pagal autorines sutartis, nuo kurių 2009 ir 2010
+ir asmenų, gavusių pajamas pagal autorines sutartis, nuo kurių 2009 metais
 
-metais įmokėtos sumažinto tarifo privalomojo ligos ir motinystės socialinio
+įmokėtos sumažinto tarifo privalomojo ligos ir motinystės socialinio draudimo
 
-draudimo įmokos, tų metų draudžiamosiomis pajamomis laikomos gautos pajamų
+įmokos, taip pat šių asmenų, gavusių minėtąsias pajamas iš draudėjo, su kuriuo
 
-sumos, apskaičiuotos proporcingai mokėtoms valstybinio socialinio draudimo
+jie yra susiję darbo santykiais arba jų esmę atitinkančiais santykiais, nuo
 
-įmokoms: atitinkamais metais gauta pajamų suma dauginama iš dydžio, kuris
+kurių 2010 metais įmokėtos sumažinto tarifo privalomojo ligos ir motinystės
 
-apskaičiuojamas atitinkamų metų sumažintą draudėjų ir apdraustųjų ligos ir
+socialinio draudimo įmokos, tų metų draudžiamosiomis pajamomis laikomos gautos
 
-motinystės socialinio draudimo įmokos tarifą, taikomą pajamoms, gautoms iš
+pajamų sumos, apskaičiuotos proporcingai mokėtoms valstybinio socialinio
+
+draudimo įmokoms: atitinkamais metais gauta pajamų suma dauginama iš dydžio,
+
+kuris apskaičiuojamas atitinkamų metų sumažintą draudėjų ir apdraustųjų ligos
+
+ir motinystės socialinio draudimo įmokos tarifą, taikomą pajamoms, gautoms iš
 
 sporto bei atlikėjo veiklos, ar pajamoms, gautoms pagal autorines sutartis
 
 (atitinkamai gautoms iš savo darbdavio arba ne iš savo darbdavio), dalijant iš
 
-tų metų draudėjų bendrojo ligos ir motinystės socialinio draudimo įmokų tarifo,
+tų metų ligos ir motinystės socialinio draudimo įmokų tarifo, nustatyto
 
-nustatyto pajamoms, gautoms pagal autorines sutartis (atitinkamai gautoms iš
+pajamoms, gautoms pagal autorines sutartis (atitinkamai gautoms iš savo
 
-savo darbdavio arba ne iš savo darbdavio), ar sportininkų bei atlikėjų gautoms
+darbdavio arba ne iš savo darbdavio), ar sportininkų bei atlikėjų gautoms
 
 pajamoms.
 
-*4.
+4. Savarankiškai
 
-Savarankiškai dirbančių asmenų draudžiamosiomis pajamomis laikomos pajamos, nuo
+dirbančių asmenų draudžiamosiomis pajamomis laikomos pajamos, nuo kurių 2009
 
-kurių 2009 ir 2010 metais įmokėtos sumažinto tarifo privalomojo ligos ir
+metais, o ūkininkų ir jų partnerių – ir 2010 metais, įmokėtos sumažinto tarifo
 
-motinystės socialinio draudimo įmokos ir kurios apskaičiuotos proporcingai
+privalomojo ligos ir motinystės socialinio draudimo įmokos ir kurios
 
-mokėtoms valstybinio socialinio draudimo įmokoms: atitinkamais metais gauta
+apskaičiuotos proporcingai mokėtoms valstybinio socialinio draudimo įmokoms:
 
-pajamų suma dauginama iš dydžio, kuris apskaičiuojamas atitinkamų metų
+atitinkamais metais gauta pajamų suma dauginama iš dydžio, kuris
 
-sumažintą ligos ir motinystės socialinio draudimo įmokos tarifą, taikomą
+apskaičiuojamas atitinkamų metų sumažintą ligos ir motinystės socialinio
 
-savarankiškai dirbančių asmenų gautoms pajamoms, dalijant iš tų metų bendrojo
+draudimo įmokos tarifą, taikomą savarankiškai dirbančių asmenų gautoms
 
-ligos ir motinystės socialinio draudimo įmokų tarifo, nustatyto savarankiškai
+pajamoms, dalijant iš tų metų bendrojo ligos ir motinystės socialinio draudimo
 
-dirbantiems asmenims.
-
-*Pastaba. 4
-
-dalies nuostatos taikomos nuo 2009 m. sausio 1 d.
+įmokų tarifo, nustatyto savarankiškai dirbantiems asmenims.
 
 Straipsnio pakeitimai:
 
 Nr. XI-167,
 
 2009-02-17, Žin., 2009, Nr. 25-969 (2009-03-05)
+
+Nr. XI-526,
+
+2009-12-08, Žin., 2009, Nr. 151-6773 (2009-12-22)
 
 11
 
@@ -553,11 +559,29 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Šio įstatymo nuostatos taikomos nuo 2009 m. sausio 1 d.
 
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-526,
+
+2009-12-08, Žin., 2009, Nr. 151-6773 (2009-12-22)
+
+LIGOS IR
+
+MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 6, 8, 9, 16, 18(1), 19
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja 2010 m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo Aušrinė
+Redagavo Aušrinė Trapinskienė
 
-Trapinskienė (2009-03-05)
+(2009-12-22)
 
 autrap@lrs.lt
 
