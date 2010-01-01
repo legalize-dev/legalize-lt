@@ -4,7 +4,7 @@ identifier: "TAR.47CDD06DC042"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-11-06"
-last_updated: "2008-05-24"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.47CDD06DC042"
 department: "Lietuvos Respublikos Seimas"
@@ -35,15 +35,15 @@ Vilnius
 
 nustato valstybinių socialinio draudimo senatvės ir invalidumo pensijų dalies
 
-išmokėjimo sąlygas ir tvarką tiems šių pensijų
+išmokėjimo sąlygas ir tvarką tiems šių pensijų gavėjams, kurie po pensijos
 
-gavėjams, kurie po pensijos paskyrimo laikotarpiu nuo 1995 m. sausio 1 d. iki 2002 m. gruodžio 31 d. (toliau – nurodytasis laikotarpis) turėjo draudžiamųjų
+paskyrimo laikotarpiu nuo 1995 m. sausio 1 d. iki 2002 m. gruodžio 31 d. (toliau – nurodytasis laikotarpis) turėjo draudžiamųjų pajamų, dėl kurių
 
-pajamų, dėl kurių dydžio pagal tuo metu galiojusias Lietuvos Respublikos
+dydžio pagal tuo metu galiojusias Lietuvos Respublikos valstybinių socialinio
 
-valstybinių socialinio draudimo pensijų įstatymo nuostatas jiems buvo mokama ne
+draudimo pensijų įstatymo nuostatas jiems buvo mokama ne visa paskirta
 
-visa paskirta valstybinė socialinio draudimo senatvės ar invalidumo pensija.
+valstybinė socialinio draudimo senatvės ar invalidumo pensija.
 
 2 straipsnis. Valstybinės socialinio draudimo
 
@@ -135,7 +135,7 @@ straipsnis. Senatvės ar invalidumo pensijos dalies sumos išmokėjimo tvarka
 
 1. Apskaičiuota
 
-senatvės ar invalidumo pensijos dalies suma asmeniui išmokama 2008–2010 metais
+senatvės ar invalidumo pensijos dalies suma asmeniui išmokama 2008–2012 metais
 
 Vyriausybės nustatyta tvarka. Valstybinio socialinio draudimo fondo valdybos
 
@@ -154,6 +154,12 @@ sumas pradeda išmokėti nuo 2008 m. liepos 1 d.
 pensijos dalies suma pervedama į asmens, turinčio teisę gauti šią sumą,
 
 sąskaitą Lietuvos Respublikos teritorijoje esančiame banke.
+
+Straipsnio pakeitimai:
+
+Nr. XI-530,
+
+2009-12-08, Žin., 2009, Nr. 151-6777 (2009-12-22)
 
 6
 
@@ -219,13 +225,15 @@ straipsnis. Senatvės ir invalidumo pensijų dalies sumų išmokėjimo finansavi
 
 Senatvės ir invalidumo pensijų dalies sumoms išmokėti reikiamos lėšos finansuojamos iš Valstybinio socialinio draudimo fondo biudžeto.  9 straipsnis. Baigiamosios nuostatosVyriausybė ne vėliau kaip iki 2008 m. kovo 1 d. nustato senatvės ir invalidumo pensijų dalies sumų išmokėjimo tvarką. 10 straipsnis. Įstatymo įsigaliojimasŠis įstatymas įsigalioja 2008 m. sausio 1 d.
 
-Skelbiu
+Skelbiu šį
 
-šį Lietuvos Respublikos Seimo priimtą įstatymą.
+Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 
-________________
+ADAMKUS
+
+_____________
 
 Pakeitimai:
 
@@ -237,9 +245,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1532,
+X-1532, 2008-05-08,
 
-2008-05-08, Žin., 2008, Nr. 59-2204 (2008-05-24)
+Žin., 2008, Nr. 59-2204 (2008-05-24)
 
 VALSTYBINIŲ
 
@@ -247,13 +255,31 @@ SOCIALINIO DRAUDIMO SENATVĖS IR INVALIDUMO PENSIJŲ DALIES IŠMOKĖJIMO ĮSTATY
 
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-***
+2.
 
-Pabaiga ***
+Lietuvos
 
-Redagavo:
+Respublikos Seimas, Įstatymas
 
-Aušrinė Trapinskienė (2008-05-26)
+Nr. XI-530,
+
+2009-12-08, Žin., 2009, Nr. 151-6777 (2009-12-22)
+
+VALSTYBINIŲ
+
+SOCIALINIO DRAUDIMO SENATVĖS IR INVALIDUMO PENSIJŲ DALIES IŠMOKĖJIMO ĮSTATYMO 5
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas,
+
+išskyrus šio straipsnio 1 dalį, įsigalioja 2010 m. sausio 1 d.
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2009-12-22)
 
 autrap@lrs.lt
 
