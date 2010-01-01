@@ -4,7 +4,7 @@ identifier: "TAR.75AEE262F357"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2008-07-05"
+last_updated: "2010-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.75AEE262F357"
 department: "Lietuvos Respublikos Seimas"
@@ -41,8 +41,6 @@ nustato asmens tapatybės kortelės paskirtį, jos išdavimo, keitimo, naudojimo
 
 galiojimo sąlygas, joje įrašomus duomenis.
 
-Įstatymas papildomas 11 straipsniu nuo 2009 m. sausio 1 d.:
-
 11 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 1. Asmens
@@ -69,9 +67,9 @@ techniniai duomenys.
 
 Įstatymas papildytas straipsniu:
 
-Nr. X-1639, 2008-06-26, Žin., 2008, Nr. 76-3007
+Nr. X-1639,
 
-(2008-07-05)
+2008-06-26, Žin., 2008, Nr. 76-3007 (2008-07-05)
 
 2
 
@@ -89,19 +87,7 @@ valstybes, su kuriomis yra sudarytos atitinkamos tarptautinės sutartys ar
 
 susitarimai.
 
-3
-
-dalies redakcija iki 2009 m. sausio 1 d.:
-
-3. Asmens tapatybės kortelėje gali būti techninė sudedamoji dalis,
-
-kurios naudojimą nustato kiti Lietuvos Respublikos įstatymai.
-
-3
-
-dalies redakcija nuo 2009 m. sausio 1 d.:
-
-*3. Asmens
+3. Asmens
 
 tapatybės kortelė gali būti naudojama asmens tapatybei elektroninėje erdvėje
 
@@ -109,9 +95,9 @@ patvirtinti ar nustatyti
 
 ir elektroniniams duomenims pasirašyti.
 
-*Pastaba. 3
+Pastaba. 3 dalies
 
-dalies nuostatos netaikomos asmens tapatybės kortelėms, išduotoms iki nurodytų
+nuostatos netaikomos asmens tapatybės kortelėms, išduotoms iki nurodytų
 
 nuostatų įsigaliojimo dienos, t.y. iki 2009 m. sausio 1 d.
 
@@ -125,9 +111,9 @@ būti išduota ir piliečiui, nesulaukusiam 16 metų.
 
 Straipsnio pakeitimai:
 
-Nr. X-1639, 2008-06-26, Žin., 2008, Nr. 76-3007
+Nr. X-1639,
 
-(2008-07-05)
+2008-06-26, Žin., 2008, Nr. 76-3007 (2008-07-05)
 
 3
 
@@ -171,10 +157,6 @@ parašas. Piliečiui, kuris nesugeba pasirašyti dėl fizinės negalios ar yra
 
 neveiksnus, asmens tapatybės kortelė gali būti išduota be jo parašo.
 
-Straipsnis
-
-papildomas nauja 3 dalimi nuo 2009 m. sausio 1 d.:
-
 3.
 
 Asmens tapatybės kortelėje elektroniniu būdu fiksuojami šio straipsnio 1 dalyje
@@ -183,9 +165,9 @@ nurodyti duomenys, piliečio veido atvaizdas ir pirštų atspaudai, asmens
 
 atpažinimo elektroninėje erdvėje sertifikatas ir kvalifikuotas sertifikatas.
 
-*Pastaba. 3
+Pastaba. 3 dalies
 
-dalies nuostatos netaikomos asmens tapatybės kortelėms, išduotoms iki nurodytų
+nuostatos netaikomos asmens tapatybės kortelėms, išduotoms iki nurodytų
 
 nuostatų įsigaliojimo dienos, t.y. iki 2009 m. sausio 1 d.
 
@@ -199,9 +181,9 @@ pat įrašoma:
 
 tapatybės kortelės išrašymo data;
 
-2) asmens tapatybės
+2) asmens
 
-kortelę išdavusios įstaigos pavadinimas;
+tapatybės kortelę išdavusios įstaigos pavadinimas;
 
 3) data, iki kurios
 
@@ -221,9 +203,9 @@ pavardžių rašymą asmens dokumentuose, nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
-Nr. X-1639, 2008-06-26, Žin., 2008, Nr. 76-3007
+Nr. X-1639,
 
-(2008-07-05)
+2008-06-26, Žin., 2008, Nr. 76-3007 (2008-07-05)
 
 5
 
@@ -235,15 +217,15 @@ tapatybės kortelę išduoda ir keičia vidaus reikalų ministro įgaliotos
 
 institucijos (toliau – įgaliota institucija).
 
-2. Pilietis dėl asmens tapatybės kortelės išdavimo ar keitimo turi pats
+2. Pilietis dėl
 
-atvykti į įgaliotą instituciją pagal gyventojų registre įrašytą jo
+asmens tapatybės kortelės išdavimo ar keitimo turi pats atvykti į įgaliotą
 
-gyvenamąją vietą (toliau – gyvenamoji vieta). Neveiksnus pilietis dėl asmens
+instituciją, kur jam yra patogiausia tai padaryti. Neveiksnus pilietis dėl
 
-tapatybės kortelės išdavimo ar keitimo kreipiasi per savo globėją ar
+asmens tapatybės kortelės išdavimo ar keitimo kreipiasi per savo globėją
 
-kitą teisėtą atstovą, o pilietis, kuris dėl fizinės negalios negali pats
+ar kitą teisėtą atstovą, o pilietis, kuris dėl fizinės negalios negali pats
 
 atvykti, – per įgaliotą asmenį.
 
@@ -261,11 +243,11 @@ prašymo, tarpininkaujant valstybinei vaiko teisių apsaugos institucijai.
 
 4. Pilietis dokumentus dėl asmens tapatybės kortelės išdavimo įgaliotai
 
-institucijai pagal gyvenamąją vietą turi pateikti ne vėliau kaip per vieną
+institucijai šio straipsnio 2 dalyje nustatyta tvarka turi pateikti ne vėliau
 
-mėnesį po to, kai jam sukako 16 metų. Jeigu yra svarbių priežasčių, šį terminą
+kaip per vieną mėnesį po to, kai jam sukako 16 metų. Jeigu yra svarbių
 
-Vyriausybės įgaliota institucija gali pratęsti.
+priežasčių, šį terminą Vyriausybės įgaliota institucija gali pratęsti.
 
 5. Asmens tapatybės kortelė keičiama, jeigu:
 
@@ -311,11 +293,11 @@ piliečiui arba jo įgaliotam asmeniui, o jeigu pilietis neveiksnus, – jo
 
 globėjui ar kitam teisėtam atstovui. Jeigu paimti grąžinamą negaliojančią
 
-asmens tapatybės kortelę atsisakoma, ji sunaikinama pagal vidaus reikalų ministro
+asmens tapatybės kortelę atsisakoma, ji sunaikinama pagal vidaus reikalų
 
-nustatytą asmens tapatybės kortelės išdavimo, keitimo, paskelbimo negaliojančia
+ministro nustatytą asmens tapatybės kortelės išdavimo, keitimo, paskelbimo
 
-ir naikinimo tvarką.
+negaliojančia ir naikinimo tvarką.
 
 9. Praradęs
 
@@ -363,9 +345,13 @@ nustatyto dydžio valstybės rinkliava.
 
 Straipsnio pakeitimai:
 
-Nr. X-1639, 2008-06-26, Žin., 2008, Nr. 76-3007
+Nr. X-1639,
 
-(2008-07-05)
+2008-06-26, Žin., 2008, Nr. 76-3007 (2008-07-05)
+
+Nr. XI-472,
+
+2009-11-12, Žin., 2009, Nr. 141-6195 (2009-11-28)
 
 6 straipsnis. Asmens tapatybės kortelės negaliojimas
 
@@ -475,7 +461,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1639, 2008-06-26, Žin., 2008, Nr. 76-3007 (2008-07-05)
+X-1639,
+
+2008-06-26, Žin., 2008, Nr. 76-3007 (2008-07-05)
 
 ASMENS
 
@@ -493,13 +481,27 @@ straipsnio 2 dalis įsigalioja 2009 m. sausio 1 d.
 
 tapatybės kortelėms, išduotoms iki nurodytų nuostatų įsigaliojimo dienos.
 
-***
+2.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas, Įstatymas
 
-Redagavo:
+Nr. XI-472, 2009-11-12,
 
-Aušrinė Trapinskienė (2008-07-08)
+Žin., 2009, Nr. 141-6195 (2009-11-28)
+
+ASMENS TAPATYBĖS KORTELĖS ĮSTATYMO 5
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2010 m. sausio
+
+1 d.
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2009-12-03)
 
 autrap@lrs.lt
 
