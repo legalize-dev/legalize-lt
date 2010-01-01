@@ -4,7 +4,7 @@ identifier: "TAR.B8B6AFC2BFF1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-03-23"
-last_updated: "2009-04-25"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2009-04-25 iki 2009-12-31
+Suvestinė redakcija nuo 2010-01-01 iki 2011-05-02
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
 
@@ -89,7 +89,11 @@ Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA
 
 10. Susitarimas – bet kuria forma (raštu ar žodžiu) dviejų ar daugiau ūkio subjektų sudarytos sutartys arba ūkio subjektų suderinti veiksmai, įskaitant bet kurio ūkio subjektų junginio (asociacijos, susivienijimo, konsorciumo ir pan.) arba šio junginio atstovų priimtą sprendimą.
 
-11. Dominuojanti padėtis – vieno ar daugiau ūkio subjektų padėtis atitinkamoje rinkoje, kai tiesiogiai nesusiduriama su konkurencija arba kuri įgalina daryti vienpusę lemiamą įtaką atitinkamoje rinkoje veiksmingai ribojant konkurenciją. Jeigu neįrodoma priešingai, laikoma, kad ūkio subjektas užima dominuojančią padėtį atitinkamoje rinkoje, jeigu jo rinkos dalis sudaro ne mažiau kaip 40 procentų. Jeigu neįrodoma priešingai, laikoma, kad kiekvienas iš trijų ar mažesnio skaičiaus ūkio subjektų, kuriems tenka didžiausios atitinkamos rinkos dalys, kartu sudarančios 70 procentų ar didesnę atitinkamos rinkos dalį, užima dominuojančią padėtį.
+11. Dominuojanti padėtis – vieno ar daugiau ūkio subjektų padėtis atitinkamoje rinkoje, kai tiesiogiai nesusiduriama su konkurencija arba kuri įgalina daryti vienpusę lemiamą įtaką atitinkamoje rinkoje veiksmingai ribojant konkurenciją. Jeigu neįrodoma priešingai, laikoma, kad ūkio subjektas (išskyrus mažmenine prekyba besiverčiantį ūkio subjektą) užima dominuojančią padėtį atitinkamoje rinkoje, jeigu jo rinkos dalis sudaro ne mažiau kaip 40 procentų. Jeigu neįrodoma priešingai, laikoma, kad kiekvienas iš trijų ar mažesnio skaičiaus ūkio subjektų (išskyrus mažmenine prekyba besiverčiančius ūkio subjektus), kuriems tenka didžiausios atitinkamos rinkos dalys, kartu sudarančios 70 procentų ar didesnę atitinkamos rinkos dalį, užima dominuojančią padėtį. Jeigu neįrodoma priešingai, laikoma, kad mažmenine prekyba besiverčiantis ūkio subjektas užima dominuojančią padėtį atitinkamoje rinkoje, jeigu jo rinkos dalis sudaro ne mažiau kaip 30 procentų. Jeigu neįrodoma priešingai, laikoma, kad kiekvienas iš trijų ar mažesnio skaičiaus mažmenine prekyba besiverčiančių ūkio subjektų, kuriems tenka didžiausios atitinkamos rinkos dalys, kartu sudarančios 55 procentų ar didesnę atitinkamos rinkos dalį, užima dominuojančią padėtį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-434, 2009-09-24, Žin., 2009, Nr. 121-5195 (2009-10-10), i. k. 1091010ISTA00XI-434
 
 12. Susijusių ūkio subjektų grupė – du ar daugiau ūkio subjektų, kurie dėl savitarpio kontrolės ar priklausomybės ir galimų suderintų veiksmų yra laikomi vienu ūkio subjektu apskaičiuojant bendrąsias pajamas ir rinkos dalį. Jeigu neįrodoma priešingai, laikoma, kad susijusių ūkio subjektų grupę sudaro kiekvienas nagrinėjamas ūkio subjektas ir:
 
@@ -1180,4 +1184,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA00XI-216
 
 Lietuvos Respublikos konkurencijos įstatymo 1, 3, 4, 10, 13, 14, 19, 20, 23, 24, 26, 28, 29, 30, 31, 40, 41, 42, 43, 44, 49 straipsnių ir priedo pakeitimo ir papildymo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-434, 2009-09-24, Žin., 2009, Nr. 121-5195 (2009-10-10), i. k. 1091010ISTA00XI-434
+
+Lietuvos Respublikos konkurencijos įstatymo 3 straipsnio pakeitimo įstatymas
 
