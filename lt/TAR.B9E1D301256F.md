@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2009-08-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -331,9 +331,9 @@ o jei tai ne skysti produktai, – etilo alkoholis sudaro daugiau kaip 1 procent
 
 jų masės.
 
-11. Elektros energija – energija, klasifikuojama KN
+11. Elektros energija – energija,
 
-2716 pozicijoje.
+klasifikuojama KN 2716 pozicijoje.
 
 12. Energetiniai
 
@@ -657,15 +657,15 @@ apmokestinimą.
 
 straipsnis. Akcizais apmokestinamų prekių sandėlio steigimas
 
-1. Šio Įstatymo 2
+1. Šio Įstatymo 2 straipsnio 1 dalyje nurodytos
 
-straipsnio 1 dalyje nurodytos akcizais apmokestinamos prekės (o jeigu tai
+akcizais apmokestinamos prekės (o jeigu tai energetiniai produktai, – tik šio
 
-energetiniai produktai, – tik šio Įstatymo 2 priede nurodytos prekės), už
+Įstatymo 2 priede nurodytos prekės), už kurias akcizai dar nesumokėti, privalo
 
-kurias akcizai dar nesumokėti, privalo būti gaminamos, perdirbamos, maišomos,
+būti gaminamos, perdirbamos, maišomos, saugomos akcizais apmokestinamų prekių
 
-saugomos akcizais apmokestinamų prekių sandėlyje.
+sandėlyje.
 
 2. Leidimas
 
@@ -1783,9 +1783,11 @@ kuriame buvo vykdoma didmeninė prekyba naftos dujomis ir dujiniais
 
 angliavandeniliais, ir pageidaujantys panaikinti leidimą steigti akcizais
 
-apmokestinamų prekių sandėlį, privalo raštu kreiptis į vietos mokesčio administratorių
+apmokestinamų prekių sandėlį, privalo raštu kreiptis į vietos mokesčio
 
-dėl leidimo steigti akcizais apmokestinamų prekių sandėlį panaikinimo.
+administratorių dėl leidimo steigti akcizais apmokestinamų prekių sandėlį
+
+panaikinimo.
 
 7.
 
@@ -1885,13 +1887,13 @@ Iki 2006 m. birželio 30 d. akcizais neapmokestinami dyzeliniai degalai, skirti 
 
 Jeigu
 
-Vyriausybės nustatyta tvarka registruotas žemės ūkio veiklos subjektas nuo 2006 m. sausio 1 d. iki šio įstatymo įsigaliojimo įsigijo daugiau negu 60 litrų vienam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės ūkio
+Vyriausybės nustatyta tvarka registruotas žemės ūkio veiklos subjektas nuo 2006 m. sausio 1 d. iki šio įstatymo įsigaliojimo įsigijo daugiau negu 60 litrų vienam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės ūkio naudmenų
 
-naudmenų hektarui akcizais neapmokestinamų dyzelinių degalų, akcizais
+hektarui akcizais neapmokestinamų dyzelinių degalų, akcizais neapmokestinamų
 
-neapmokestinamų dyzelinių degalų kiekis, kurį šis žemės ūkio veiklos subjektas
+dyzelinių degalų kiekis, kurį šis žemės ūkio veiklos subjektas turi teisę
 
-turi teisę įsigyti ūkiniais metais, prasidedančiais nuo 2006 m. liepos 1 d., mažinamas kiekiu, viršijančiu 60 litrų vienam Vyriausybės ar jos įgaliotos
+įsigyti ūkiniais metais, prasidedančiais nuo 2006 m. liepos 1 d., mažinamas kiekiu, viršijančiu 60 litrų vienam Vyriausybės ar jos įgaliotos
 
 institucijos nustatyta tvarka deklaruotam žemės ūkio naudmenų hektarui.
 
@@ -2439,15 +2441,29 @@ AKCIZŲ
 
 ĮSTATYMO 35 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-***
+16.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas, Įstatymas
 
-Redagavo
+Nr. XI-542,
 
-Aušra Bodin (2009-08-03)
+2009-12-09, Žin., 2009, Nr. 151-6784 (2009-12-22)
 
-aubodi@lrs.lt
+AKCIZŲ ĮSTATYMO 38 STRAIPSNIO PAKEITIMO
+
+IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2010 m. sausio
+
+1 d.
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2009-12-22)
+
+autrap@lrs.lt
 
 9 straipsnis. Mokestinis
 
@@ -5407,32 +5423,6 @@ kainos) elementai. Kombinuoto akcizo tarifo apskaičiavimo tvarką nustato
 
 Vyriausybė ar jos įgaliota institucija.
 
-2. Cigaretėms taikomas toks akcizo tarifas:1) specifinis elementas – 79 litai ir
-
-2) vertybinis
-
-elementas – 20 procentų.
-
-2 dalies redakcija nuo 2009 m. kovo 1 d.:
-
-2. Cigaretėms
-
-taikomas toks akcizo tarifas:
-
-1) specifinis
-
-elementas – 95 litai;
-
-2) vertybinis
-
-elementas –25 procentai.
-
-2. Cigaretėms
-
-taikomas toks akcizo tarifas:
-
-2 dalies redakcija nuo 2009 m. rugsėjo 1 d.:
-
 2. Cigaretėms
 
 taikomas toks akcizo tarifas:
@@ -5677,15 +5667,15 @@ tabakas, jeigu jis sunaikintas prižiūrint kompetentingai institucijai. Šios
 
 nuostatos įgyvendinamos Valstybinės mokesčių inspekcijos prie Finansų
 
-ministerijos (dėl Valstybinės mokesčių inspekcijos kontroliuojamų prekių) bei
+ministerijos (dėl Valstybinės mokesčių inspekcijos kontroliuojamų prekių) bei Europos
 
-Europos Sąjungos reglamentų (dėl muitinės kontroliuojamų prekių) nustatyta
+Sąjungos reglamentų (dėl muitinės kontroliuojamų prekių) nustatyta tvarka.
 
-tvarka. Jeigu už šioje dalyje nustatyta tvarka sunaikintą apdorotą tabaką
+Jeigu už šioje dalyje nustatyta tvarka sunaikintą apdorotą tabaką akcizai jau
 
-akcizai jau buvo sumokėti, akcizų suma įskaitoma arba  grąžinama Mokesčių
+buvo sumokėti, akcizų suma įskaitoma arba  grąžinama Mokesčių administravimo
 
-administravimo įstatymo nustatyta tvarka.
+įstatymo nustatyta tvarka.
 
 2.
 
@@ -5733,9 +5723,9 @@ ENERGETINIAI PRODUKTAI
 
 33 straipsnis. Variklių benzinui taikomi akcizo tarifaiVariklių benzinui taikomi tokie akcizų tarifai:1) bešviniam benzinui – 1500 litų už 1000 litrų produkto;
 
-2)
+2) benzinui,
 
-benzinui, turinčiam švino, – 2000 litų už 1000 litrų produkto.
+turinčiam švino, – 2000 litų už 1000 litrų produkto.
 
 Straipsnio pakeitimai:
 
@@ -6069,19 +6059,39 @@ subpozicija).
 
 biodegalų ir bioalyvų įstatymo reikalavimus biokurui.
 
-4.
+4. Šio
 
-Šio straipsnio reikalavimus atitinkantiems produktams taikomas šio Įstatymo 33–37
+straipsnio reikalavimus atitinkantiems produktams, kuriuose biologinės kilmės
+
+priemaišų dalis yra 30 procentų arba didesnė, taikomas šio Įstatymo 33–37
 
 straipsniuose nustatytas akcizo tarifas, sumažintas dalimi, proporcingai
 
 atitinkančia biologinės kilmės priemaišų dalį (procentais) produkto tonoje.
 
-Šioje dalyje nurodytas akcizo tarifas taikomas tik centrinio mokesčio
+5. Kitiems šio
 
-administratoriaus nustatyta tvarka išduotą atitinkamą leidimą turinčių asmenų
+straipsnio reikalavimus atitinkantiems produktams, nenurodytiems šio straipsnio
 
-pagamintiems mišiniams, nurodytiems šiame leidime.
+4 dalyje, taikomas šio Įstatymo 33–37 straipsniuose nustatytas akcizo
+
+tarifas, sumažintas dalimi, proporcingai atitinkančia biologinės kilmės
+
+priemaišų dalį (procentais), viršijančią teisės aktuose nustatytą privalomų
+
+biologinės kilmės priemaišų dalį (procentais).
+
+6. Šiame straipsnyje nurodytas akcizo tarifas taikomas
+
+tik centrinio mokesčio administratoriaus nustatyta tvarka išduotą atitinkamą
+
+leidimą turinčių asmenų pagamintiems mišiniams, nurodytiems šiame leidime.
+
+Straipsnio pakeitimai:
+
+Nr. XI-542,
+
+2009-12-09, Žin., 2009, Nr. 151-6784 (2009-12-22)
 
 39 straipsnis. Energetiniams produktams taikomų
 
@@ -6105,9 +6115,9 @@ Kitiems energetiniams produktams taikomi akcizų tarifai
 
 nenurodytiems energetiniams produktams taikomi akcizų tarifai, šiuose
 
-straipsniuose nustatyti atitinkamiems ekvivalentiškiems produktams, vietoj kurių
+straipsniuose nustatyti atitinkamiems ekvivalentiškiems produktams, vietoj
 
-jie gali būti ar yra parduodami arba naudojami.
+kurių jie gali būti ar yra parduodami arba naudojami.
 
 40 straipsnis. Kitiems
 
@@ -6947,11 +6957,11 @@ pateikti akcizų už elektros energiją deklaraciją. Deklaracijos formą ir pil
 
 taisykles nustato centrinis mokesčio administratorius. Joje privalo būti
 
-deklaruota akcizų suma, apskaičiuota už elektros energiją, už kurią prievolė mokėti
+deklaruota akcizų suma, apskaičiuota už elektros energiją, už kurią prievolė
 
-akcizus šio Įstatymo 43 straipsnyje nustatyta tvarka atsirado tą mokestinį
+mokėti akcizus šio Įstatymo 43 straipsnyje nustatyta tvarka atsirado tą
 
-laikotarpį. Akcizai privalo būti sumokėti iki šioje dalyje nustatyto
+mokestinį laikotarpį. Akcizai privalo būti sumokėti iki šioje dalyje nustatyto
 
 deklaracijos pateikimo termino pabaigos.
 
@@ -7177,11 +7187,11 @@ taisykles nustato centrinis mokesčio administratorius. Joje privalo būti
 
 deklaruota akcizų suma, apskaičiuota už akmens anglis, koksą ir (arba) lignitą,
 
-už kuriuos šio Įstatymo 49 straipsnio 1 dalyje nustatyta tvarka prievolė
+už kuriuos šio Įstatymo 49 straipsnio 1 dalyje nustatyta tvarka prievolė sumokėti
 
-sumokėti akcizus atsirado tą mokestinį laikotarpį. Akcizai sumokami iki šioje
+akcizus atsirado tą mokestinį laikotarpį. Akcizai sumokami iki šioje dalyje
 
-dalyje nustatyto deklaracijos pateikimo termino pabaigos.
+nustatyto deklaracijos pateikimo termino pabaigos.
 
 2. Jeigu asmuo
 
@@ -7381,9 +7391,7 @@ apmokestinamais produktais, ir dėl tokių produktų laikymo, judėjimo ir
 
 kontrolės (pakeista 1992 m. gruodžio 14 d. Tarybos direktyva 92/108/EEB, 1994 m. gruodžio 22 d. Tarybos direktyva 94/74/EEB, 1996 m. gruodžio 30 d. Tarybos direktyva
 
-96/99/EB, 2000 m. birželio 30 d. Tarybos direktyva 2000/44/EB, 2000 m. liepos 20 d. Tarybos direktyva 2000/47/EB ir 2004 m. lapkričio 16 d. Tarybos direktyva
-
-2004/106/EB).
+96/99/EB, 2000 m. birželio 30 d. Tarybos direktyva 2000/44/EB, 2000 m. liepos 20 d. Tarybos direktyva 2000/47/EB ir 2004 m. lapkričio 16 d. Tarybos direktyva 2004/106/EB).
 
 2. 1992 m. spalio 19 d. Tarybos direktyva 92/79/EEB dėl mokesčių už cigaretes derinimo (pakeista 1999 m. liepos 29 d. Tarybos direktyva 1999/81/EB, 2002 m. vasario 12 d. Tarybos direktyva
 
