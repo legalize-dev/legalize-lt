@@ -4,7 +4,7 @@ identifier: "TAR.915C6D6EB2A5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-13"
-last_updated: "2009-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.915C6D6EB2A5"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 19 straipsnis įsigalioja 2006-06-30."
 ---
 # Lietuvos Respublikos socialinės paramos mokiniams įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2009-12-31
+Suvestinė redakcija nuo 2010-01-01 iki 2010-06-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 73-2755, i. k. 1061010ISTA000X-686
 
@@ -74,11 +74,17 @@ Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010IST
 
 3 straipsnis. Socialinės paramos mokiniams rūšys
 
-Nustatomos šios socialinės paramos mokiniams rūšys:
+1. Nustatomos šios socialinės paramos mokiniams rūšys:
 
-1) mokinių nemokamas maitinimas (pietūs, pusryčiai, maitinimas mokyklose organizuojamose dieninėse vasaros poilsio stovyklose);
+1) mokinių nemokamas maitinimas;
 
 2) parama mokinio reikmenims įsigyti.
+
+2. Vyriausybė ar jos įgaliota institucija mokinių nemokamo maitinimo mokyklose tvarkos apraše mokyklų steigėjams nustato rekomenduojamas mokinių nemokamo maitinimo rūšis (pusryčiai, pietūs, pavakariai, maitinimas mokyklose organizuojamose dieninėse vasaros poilsio stovyklose).
+
+Straipsnio pakeitimai:
+
+Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010ISTA00XI-546
 
 4 straipsnis. Socialinės paramos mokiniams finansavimas
 
@@ -110,19 +116,17 @@ SOCIALINĖ PARAMA MOKINIAMS
 
 5 straipsnis. Mokinių teisė į socialinę paramą
 
-1. Mokiniai turi teisę:
+1. Mokiniai turi teisę į nemokamą maitinimą ir į paramą mokinio reikmenims įsigyti, jeigu vidutinės pajamos vienam šeimos nariui per mėnesį yra mažesnės kaip 1,5 valstybės remiamų pajamų (toliau – VRP) dydžio.
 
-1) į nemokamus pietus ir į paramą mokinio reikmenims įsigyti, jeigu vidutinės pajamos vienam šeimos nariui per mėnesį yra mažesnės kaip 1,5 valstybės remiamų pajamų (toliau – VRP) dydžio;
-
-2) į nemokamus pusryčius, nemokamus pietus ir į paramą mokinio reikmenims įsigyti, jeigu vidutinės pajamos vienam šeimos nariui per mėnesį yra mažesnės kaip 1 VRP dydis.
-
-2. Kitais savivaldybės, kurioje priimamas sprendimas dėl socialinės paramos mokiniams skyrimo, tarybos nustatytais atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, mokiniui iš tris ir daugiau vaikų auginančios ar neįgaliųjų tėvų šeimos ir kt.), atsižvelgiant į šeimos gyvenimo sąlygas, mokiniai turi teisę:
-
-1) į nemokamus pietus, jeigu vidutinės pajamos vienam šeimos nariui per mėnesį yra mažesnės kaip 2 VRP dydžiai;
-
-2) į nemokamus pusryčius ir į nemokamus pietus, jeigu vidutinės pajamos vienam šeimos nariui per mėnesį yra mažesnės kaip 1,5 VRP dydžio.
+2. Kitais savivaldybės, kurioje priimamas sprendimas dėl socialinės paramos mokiniams skyrimo, tarybos nustatytais atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, mokiniui iš tris ir daugiau vaikų auginančios ar neįgalių tėvų šeimos ir kt.), atsižvelgiant į šeimos gyvenimo sąlygas, mokiniai turi teisę į nemokamą maitinimą, jeigu vidutinės pajamos vienam šeimos nariui per mėnesį yra mažesnės kaip 2 VRP dydžiai.
 
 3. Šio straipsnio 1 ir 2 dalyse nurodytiems mokiniams skiriamas nemokamas maitinimas vasaros atostogų metu mokyklose organizuojamose dieninėse vasaros poilsio stovyklose.
+
+Straipsnio pakeitimai:
+
+Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010ISTA00XI-103
+
+Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010ISTA00XI-546
 
 6 straipsnis. Šeimos pajamų socialinei paramai mokiniams gauti apskaičiavimas
 
@@ -144,21 +148,15 @@ Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010IST
 
 4. Jei šeima gauna piniginę socialinę paramą pagal Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymą, šeimos pajamos socialinei paramai mokiniams gauti apskaičiuojamos pagal pajamas, kurios paskutinį kartą buvo nurodytos skiriant piniginę socialinę paramą, įskaitant paskirtos socialinės pašalpos dydį ir neįskaitant būsto šildymo išlaidų, išlaidų šaltam vandeniui ir karštam vandeniui kompensacijų dydžio.
 
-7 straipsnis. Produktams įsigyti skiriamų lėšų dydžio nustatymas
+7 straipsnis. Nemokamam maitinimui skirtiems produktams įsigyti skiriamų lėšų dydžio nustatymas
 
-1. Nemokamų pietų, pusryčių ir maitinimo vasaros atostogų metu mokyklose organizuojamose dieninėse vasaros poilsio stovyklose (atsižvelgiant į mokinio buvimo stovykloje dienos laiko trukmę) produktams įsigyti skiriamų lėšų dydis vienai dienai vienam mokiniui nustatomas vadovaujantis Vyriausybės ar jos įgaliotos institucijos patvirtintu pusryčių, pietų ir pavakarių patiekalų gamybai reikalingų produktų rinkinių sąrašu pagal mokinių amžiaus grupes.
+1. Nemokamam maitinimui skirtiems produktams įsigyti skiriamų lėšų dydis vienai dienai vienam mokiniui nustatomas vadovaujantis Vyriausybės ar jos įgaliotos institucijos patvirtintu pusryčių, pietų ir pavakarių patiekalų gamybai reikalingų produktų rinkinių sąrašu pagal mokinių amžiaus grupes Vyriausybės ar jos įgaliotos institucijos nustatyta mokinių nemokamo maitinimo mokyklose tvarka.
 
-2. Produktams įsigyti (įskaitant pirkimo pridėtinės vertės mokestį) skiriama:
+2. Nemokamam maitinimui skirtiems produktams įsigyti (įskaitant prekių pirkimo pridėtinės vertės mokestį) skiriama nuo 1,2 iki 7 procentų bazinės socialinės išmokos dydžio suma.
 
-1) nuo 2,6 iki 3,6 procento bazinės socialinės išmokos dydžio suma pietums;
+Straipsnio pakeitimai:
 
-2) nuo 1,2 iki 2 procentų bazinės socialinės išmokos dydžio suma pusryčiams;
-
-3) nuo 6 iki 7 procentų bazinės socialinės išmokos dydžio suma maitinimui (pusryčiams, pietums, pavakariams) mokyklose organizuojamose dieninėse vasaros poilsio stovyklose.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010ISTA00XI-103
+Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010ISTA00XI-546
 
 8 straipsnis. Mokinio reikmenims įsigyti skiriamų lėšų dydžio nustatymas ir mokinio reikmenų rinkinių sudarymas
 
@@ -220,9 +218,17 @@ SOCIALINĖS PARAMOS MOKINIAMS ADMINISTRAVIMAS
 
 3. Mokiniams vietoj nemokamo maitinimo negali būti išmokami pinigai.
 
-4. Nemokami pietūs ir pusryčiai poilsio, švenčių bei atostogų dienomis per mokslo metus gali būti teikiami valstybinių mokyklų mokiniams vadovaujantis apskričių viršininkų administracijų ar švietimo ir mokslo ministro patvirtinta mokinių nemokamo maitinimo mokyklose tvarka, o savivaldybių ir nevalstybinių mokyklų mokiniams – savivaldybių tarybų patvirtinta mokinių nemokamo maitinimo mokyklose tvarka.
+4. Nemokamas maitinimas poilsio, švenčių ir atostogų dienomis per mokslo metus gali būti teikiamas valstybinių mokyklų mokiniams vadovaujantis švietimo ir mokslo ministro patvirtinta mokinių nemokamo maitinimo mokyklose tvarka, o savivaldybių ir nevalstybinių mokyklų mokiniams – savivaldybių tarybų patvirtinta mokinių nemokamo maitinimo mokyklose tvarka.
 
-5. Pakeitus mokyklą, mokiniui nemokamas maitinimas naujoje mokykloje pradedamas teikti nuo pirmos mokymosi joje dienos. Ankstesnė mokykla pateikia pažymą apie mokinio teisę gauti nemokamą maitinimą.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010ISTA00XI-546
+
+5. Pakeitus mokyklą, mokiniui nemokamas maitinimas naujoje mokykloje pradedamas teikti nuo pirmos mokymosi joje dienos. Ankstesnė mokykla pateikia pažymą apie mokinio teisę gauti nemokamą maitinimą ir informuoja mokinio gyvenamosios vietos savivaldybės administraciją apie tai, kad mokinys pakeitė mokyklą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010ISTA00XI-546
 
 6. Parama mokinio reikmenims įsigyti teikiama pagal mokinio gyvenamąją vietą, vadovaujantis savivaldybės tarybos patvirtinta paramos mokinio reikmenims įsigyti tvarka.
 
@@ -242,7 +248,11 @@ SOCIALINĖS PARAMOS MOKINIAMS ADMINISTRAVIMAS
 
 1. Mokyklų steigėjai, išskyrus nevalstybinių mokyklų steigėjus:
 
-1) skirsto šiam įstatymui įgyvendinti gautas valstybės ir savo biudžeto lėšas mokykloms bei įstatymų nustatyta tvarka gautas kitas lėšas;
+1) skirsto šiam įstatymui įgyvendinti gautas valstybės ir savo biudžeto lėšas bei įstatymų nustatyta tvarka gautas kitas lėšas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010ISTA00XI-546
 
 2) tvirtina mokinių nemokamo maitinimo mokyklose tvarką, kurios apraše turi teisę numatyti atvejus iš savo bei įstatymų nustatyta tvarka gautų kitų lėšų skirti socialinę paramą mokiniams ir kitais, šio įstatymo nenustatytais, atvejais.
 
@@ -288,7 +298,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010ISTA00XI-103
 
-3) sudaro mokinio reikmenų rinkinius vadovaudamosi šio įstatymo 8 straipsniu.
+3) sudaro mokinio reikmenų rinkinius vadovaudamosi šio įstatymo 8 straipsniu;
+
+4) savivaldybės, kurioje priimamas sprendimas dėl socialinės paramos mokiniams skyrimo, tarybos nustatytais atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, mokiniui iš tris ir daugiau vaikų auginančios ar neįgalių tėvų šeimos ir kt.), patikrinus šeimos gyvenimo sąlygas ir surašius buities tyrimo aktą, turi teisę skirti nemokamą maitinimą savivaldybės nustatyta tvarka. Tam tikslui gali būti panaudojama iki 2 procentų šio įstatymo 4 straipsnio 1, 2 ir 4 dalyse numatytoms išlaidoms finansuoti skirtų valstybės biudžeto lėšų.
+
+Papildyta straipsnio punktu:
+
+Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010ISTA00XI-546
 
 5. Nevalstybinių mokyklų administracijos:
 
@@ -367,6 +383,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010ISTA00XI-103
 
 Lietuvos Respublikos socialinės paramos mokiniams įstatymo 1, 5, 6, 7, 8, 10, 11 ir 14 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010ISTA00XI-546
+
+Lietuvos Respublikos socialinės paramos mokiniams įstatymo 3, 4, 5, 7, 9, 12, 13 ir 14 straipsnių pakeitimo įstatymas
 
 19 straipsnis. Įstatymo įgyvendinimas
 
