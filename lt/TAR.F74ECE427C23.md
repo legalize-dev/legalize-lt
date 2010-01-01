@@ -4,7 +4,7 @@ identifier: "TAR.F74ECE427C23"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-07-02"
-last_updated: "2007-07-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F74ECE427C23"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas
 
-Suvestinė redakcija nuo 2007-07-01 iki 2009-12-31
+Suvestinė redakcija nuo 2010-01-01 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 66-1910, i. k. 0981010ISTAVIII-840
 
@@ -99,11 +99,15 @@ Nr. X-961, 2006-12-07, Žin., 2006, Nr. 141-5395 (2006-12-28), i. k. 1061010ISTA
 
 5. Asmenų, kuriems yra įsteigta globa ar rūpyba, gyvenamąją vietą deklaruoja globėjai, rūpintojai, socialinės globos, sveikatos priežiūros įstaigų, kurioms pavesta eiti globėjų, rūpintojų pareigas, administracija.
 
-6. Užsienio valstybėse gyvenantys asmenys, kurie iš Lietuvos Respublikos išvyko trumpesniam kaip šešių mėnesių laikotarpiui, tačiau liko užsienio valstybėje ilgiau negu šešis mėnesius, apie gyvenamosios vietos pakeitimą deklaruoja per Lietuvos Respublikos diplomatines atstovybes ir konsulines įstaigas užsienio valstybėse. Šių asmenų pateikta gyvenamosios vietos deklaracija persiunčiama deklaravimo įstaigai.
+6. Užsienio valstybėse gyvenantys asmenys, kurie iš Lietuvos Respublikos išvyko trumpesniam kaip šešių mėnesių laikotarpiui, tačiau liko užsienio valstybėje ilgiau negu šešis mėnesius, apie gyvenamosios vietos pakeitimą deklaruoja Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose užsienio valstybėse.
 
 Papildyta straipsnio dalimi:
 
 Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010ISTA0IX-2216
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-469, 2009-11-12, Žin., 2009, Nr. 141-6192 (2009-11-28), i. k. 1091010ISTA00XI-469
 
 7. Gyvenamosios vietos neturintys asmenys Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka į apskaitą įtraukiami pagal savivaldybę, kurioje jie gyvena. Gyvenamosios vietos neturintys asmenys deklaravimo įstaigai pateikia šio įstatymo 6 straipsnio 2 dalies 1–6 punktuose nustatytus duomenis ir nurodo,  kurioje savivaldybėje jie gyvena ir iš kur atvyko.
 
@@ -215,7 +219,11 @@ Papildyta straipsnio dalimi:
 
 Nr. IX-2552, 2004-11-09, Žin., 2004, Nr. 171-6306 (2004-11-26), i. k. 1041010ISTA0IX-2552
 
-5. Sprendimas dėl deklaravimo duomenų taisymo, keitimo ir panaikinimo gali būti skundžiamas gyvenamosios vietos deklaravimo duomenų valdytojui arba teismui.
+5. Sprendimas dėl deklaravimo duomenų taisymo, keitimo ir panaikinimo gali būti skundžiamas teismui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-469, 2009-11-12, Žin., 2009, Nr. 141-6192 (2009-11-28), i. k. 1091010ISTA00XI-469
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -249,7 +257,11 @@ Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA
 
 11 straipsnis. Deklaravimo įstaiga
 
-Deklaravimo įstaiga yra gyvenamosios vietos deklaravimo duomenis bei gyvenamosios vietos neturinčių asmenų apskaitą tvarkanti institucija. Gyvenamosios vietos deklaravimo duomenų ir gyvenamosios vietos neturinčių asmenų apskaitos tvarkymo funkciją atlieka savivaldybės. Savivaldybėse, kuriose yra įsteigtos seniūnijos, deklaravimo įstaigos funkciją įgyvendina seniūnija, o savivaldybėse, kuriose seniūnijos neįsteigtos, arba savivaldybių teritorijose, kurios nepriskirtos seniūnijoms, deklaravimo įstaigos funkciją įgyvendina kitas savivaldybės administracijos padalinys. Deklaravimo įstaiga asmens prašymu išduoda jo deklaruotą gyvenamąją vietą patvirtinantį dokumentą, o gyvenamosios vietos neturinčio asmens, į apskaitą įtraukto Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka, prašymu – pažymą, patvirtinančią, kad šis asmuo yra įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą. Šioje pažymoje nurodoma savivaldybė, kurioje tas asmuo gyvena.
+1. Deklaravimo įstaiga yra gyvenamosios vietos deklaravimo duomenis arba (ir) neturinčių gyvenamosios vietos asmenų apskaitą tvarkanti institucija. Gyvenamosios vietos deklaravimo duomenų ir neturinčių gyvenamosios vietos asmenų apskaitos tvarkymo funkciją atlieka savivaldybės. Savivaldybėse, kuriose yra įsteigtos seniūnijos, deklaravimo įstaigos funkciją įgyvendina seniūnija, o savivaldybėse, kuriose seniūnijos neįsteigtos, arba savivaldybių teritorijose, kurios nepriskirtos seniūnijoms, deklaravimo įstaigos funkciją įgyvendina kitas savivaldybės administracijos padalinys.
+
+2. Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos užsienio valstybėse yra deklaravimo įstaigos, atliekančios asmenų, kurie iš Lietuvos Respublikos išvyko trumpesniam kaip šešių mėnesių laikotarpiui, tačiau liko užsienio valstybėje ilgesniam laikotarpiui, gyvenamosios vietos deklaravimo duomenų tvarkymo funkciją.
+
+3. Deklaravimo įstaiga asmens prašymu išduoda jo deklaruotą gyvenamąją vietą patvirtinantį dokumentą, o neturinčio gyvenamosios vietos asmens, į apskaitą įtraukto Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka, prašymu – pažymą, patvirtinančią, kad šis asmuo yra įtrauktas į neturinčių gyvenamosios vietos asmenų apskaitą. Šioje pažymoje nurodoma savivaldybė, kurioje tas asmuo gyvena.
 
 Straipsnio pakeitimai:
 
@@ -258,6 +270,8 @@ Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA
 Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010ISTA0IX-2216
 
 Nr. X-395, 2005-11-17, Žin., 2005, Nr. 143-5169 (2005-12-08), i. k. 1051010ISTA000X-395
+
+Nr. XI-469, 2009-11-12, Žin., 2009, Nr. 141-6192 (2009-11-28), i. k. 1091010ISTA00XI-469
 
 III SKYRIUS
 
@@ -378,4 +392,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-961, 2006-12-07, Žin., 2006, Nr. 141-5395 (2006-12-28), i. k. 1061010ISTA000X-961
 
 Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 1, 4 straipsnių papildymo ir pakeitimo ir įstatymo papildymo priedu įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-469, 2009-11-12, Žin., 2009, Nr. 141-6192 (2009-11-28), i. k. 1091010ISTA00XI-469
+
+Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 4, 8 ir 11 straipsnių pakeitimo įstatymas
 
