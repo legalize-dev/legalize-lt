@@ -4,7 +4,7 @@ identifier: "TAR.E17A6C7BB3AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-15"
-last_updated: "2009-12-05"
+last_updated: "2010-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF"
 department: "Lietuvos Respublikos Seimas"
@@ -373,31 +373,19 @@ tvarka rengia sąlygas apskrities ir savivaldybių teritorijų planavimo
 
 dokumentams;
 
-5) nustatyta tvarka organizuoja savivaldybių
-
-teritorijų planavimo, statinių projektavimo, statybos, statinių
-
-pripažinimo tinkamais naudoti ir griovimo valstybinės priežiūros
-
-vykdymą; nustatyta tvarka išduoda statybos leidimus (išskyrus tuos, kurių
-
-išdavimas įstatymų pavestas savivaldybės administracijos direktoriui);
-
-5 punktas netenka galios nuo
-
-2010 m. sausio 1 d.
+5) (neteko galios nuo 2010 m. sausio 1 d.);
 
 6) nustatyta
 
 tvarka organizuoja teritorijų planavimo priežiūrą;
 
-7) koordinuoja savivaldybių
+7) koordinuoja
 
-ir valstybės institucijų veiklą vykdant geodezijos, topografijos, kartografijos
+savivaldybių ir valstybės institucijų veiklą vykdant geodezijos, topografijos,
 
-ir geoinformatikos darbus, nustatyta tvarka organizuoja šių darbų
+kartografijos ir geoinformatikos darbus, nustatyta tvarka organizuoja šių
 
-valstybinės priežiūros vykdymą;
+darbų valstybinės priežiūros vykdymą;
 
 8) atlieka
 
@@ -409,15 +397,9 @@ paminklotvarkos priežiūrą;
 
 užsakovo funkcijas;
 
-10) atlieka
+10) (neteko galios
 
-ypatingų statinių, taip pat valstybinės reikšmės ir rizikos objektuose esančių
-
-statinių naudojimo priežiūrą Statybos įstatymo nustatyta tvarka.
-
-10 punktas netenka galios nuo
-
-2010 m. sausio 1 d.
+nuo 2010 m. sausio 1 d.).
 
 Straipsnio pakeitimai:
 
@@ -511,13 +493,13 @@ turtui, kuris teisės aktų nustatyta tvarka įtrauktas į Vyriausybės patvirti
 
 atnaujinamo valstybės nekilnojamojo turto sąrašą ir perduotas Valstybės ir
 
-savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme nustatytam
+savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme nustatytam valstybės
 
-valstybės nekilnojamojo turto atnaujinimo organizatoriui patikėjimo teise,
+nekilnojamojo turto atnaujinimo organizatoriui patikėjimo teise, priskirtus
 
-priskirtus žemės sklypus; atstovauja valstybei paveldint žemę pagal įstatymus
+žemės sklypus; atstovauja valstybei paveldint žemę pagal įstatymus ar
 
-ar testamentą ir perleidžiant privačią žemę valstybės nuosavybėn, išskyrus
+testamentą ir perleidžiant privačią žemę valstybės nuosavybėn, išskyrus
 
 atvejus, kai Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo
 
@@ -525,9 +507,9 @@ juo įstatyme nustatytas valstybės nekilnojamojo turto atnaujinimo
 
 organizatorius veikia valstybės vardu įsigyjant privačią žemę valstybės
 
-nuosavybėn, kai privati žemė įsigyjama valstybės nekilnojamojo turto
+nuosavybėn, kai privati žemė įsigyjama valstybės nekilnojamojo turto atnaujinimo
 
-atnaujinimo tikslais;
+tikslais;
 
 9) sprendžia
 
@@ -605,11 +587,11 @@ išteklių naudojimo limitams nustatyti;
 
 programas, investicijų projektus, organizuoja, koordinuoja jų įgyvendinimą;
 
-4) pagal savo kompetenciją organizuoja vandens
+4) pagal savo kompetenciją organizuoja vandens telkinių
 
-telkinių apsaugos zonų ir pakrantės apsaugos juostų tvarkymą bei vandens
+apsaugos zonų ir pakrantės apsaugos juostų tvarkymą bei vandens telkinių
 
-telkinių valdymą;
+valdymą;
 
 5) pagal savo kompetenciją atlieka valstybinę miškų
 
@@ -669,11 +651,9 @@ teritorijoje;
 
 5) (neteko galios);
 
-6) organizuoja
+6) (neteko
 
-stichinių nelaimių, avarijų padarinių likvidavimą, paieškos ir gelbėjimo
-
-darbus;
+galios nuo 2010 m. sausio 1 d.);
 
 7) steigia,
 
@@ -699,11 +679,9 @@ plėtros įstatymo nustatyta tvarka vykdo regionų plėtros institucijos funkcij
 
 11) kartu su
 
-savivaldybėmis organizuoja apskrities informacinės visuomenės plėtros
+savivaldybėmis organizuoja apskrities informacinės visuomenės plėtros programos,
 
-programos, kurią tvirtina regiono plėtros taryba, rengimą ir koordinuoja jos
-
-įgyvendinimą.
+kurią tvirtina regiono plėtros taryba, rengimą ir koordinuoja jos įgyvendinimą.
 
 Apskrities
 
@@ -746,6 +724,10 @@ Nr.
 IX-1413,
 
 2003-04-01, Žin., 2003, Nr. 38-1659 (2003-04-24)
+
+Nr. XI-636,
+
+2009-12-22, Žin., 2009, Nr. 159-7210 (2009-12-31)
 
 13 straipsnis. Apskrities viršininko
 
@@ -843,9 +825,9 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 
 92-2886 (2000 10 31)
 
-Nr. IX-619,
+Nr. IX-619, 2001-11-27,
 
-2001-11-27, Žin., 2001, Nr. 104-3702 (2001-12-12)
+Žin., 2001, Nr. 104-3702 (2001-12-12)
 
 14 straipsnis. Neteko galios.
 
@@ -937,11 +919,13 @@ valstybės valdymo institucijų padalinių apskrityje veiklą ir sprendimus, jei
 
 jie neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba
 
-pažeidžia piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina ar
+pažeidžia piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina
 
-nepakeičia jį priėmęs valstybės valdymo institucijos padalinys ar aukštesnioji
+ar nepakeičia jį priėmęs valstybės valdymo institucijos padalinys ar
 
-valstybės valdymo institucija, galutinį sprendimą priima Vyriausybė.
+aukštesnioji valstybės valdymo institucija, galutinį sprendimą priima
+
+Vyriausybė.
 
 Straipsnio žymėjimas
 
@@ -1391,9 +1375,9 @@ Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 
 92-2886 (2000 10 31)
 
-APSKRITIES VALDYMO ĮSTATYMO 5, 10, 12, 13, 16, 17, 19, 20 STRAIPSNIŲ PAKEITIMO
+APSKRITIES VALDYMO ĮSTATYMO 5, 10, 12, 13, 16, 17, 19, 20 STRAIPSNIŲ
 
-IR PAPILDYMO ĮSTATYMAS
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 14.
 
