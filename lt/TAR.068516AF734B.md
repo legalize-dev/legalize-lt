@@ -4,7 +4,7 @@ identifier: "TAR.068516AF734B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-12-21"
-last_updated: "2009-10-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 department: "Lietuvos Respublikos Seimas"
@@ -2611,13 +2611,19 @@ draudimo pašalpą, motinystės (tėvystės) socialinio draudimo pašalpa skiria
 
 neatsižvelgiant į kintančio stažo reikalavimą.
 
-3.
+3. Asmenų,
 
-Asmenų, gavusių pajamas iš sporto veiklos, asmenų, gavusių pajamas iš atlikėjo
+gavusių pajamas iš sporto veiklos, asmenų, gavusių pajamas iš atlikėjo veiklos,
 
-veiklos, ir asmenų, gavusių pajamas pagal autorines sutartis, nuo kurių 2009 ir
+ir asmenų, gavusių pajamas pagal autorines sutartis, nuo kurių 2009 metais
 
-2010 metais įmokėtos sumažinto tarifo privalomojo ligos ir motinystės
+įmokėtos sumažinto tarifo privalomojo ligos ir motinystės socialinio draudimo
+
+įmokos, taip pat šių asmenų, gavusių minėtąsias pajamas iš draudėjo, su kuriuo
+
+jie yra susiję darbo santykiais arba jų esmę atitinkančiais santykiais, nuo
+
+kurių 2010 metais įmokėtos sumažinto tarifo privalomojo ligos ir motinystės
 
 socialinio draudimo įmokos, tų metų draudžiamosiomis pajamomis laikomos gautos
 
@@ -2633,23 +2639,25 @@ sporto bei atlikėjo veiklos, ar pajamoms, gautoms pagal autorines sutartis
 
 (atitinkamai gautoms iš savo darbdavio arba ne iš savo darbdavio), dalijant iš
 
-tų metų draudėjų bendrojo ligos ir motinystės socialinio draudimo įmokų tarifo,
+tų metų ligos ir motinystės socialinio draudimo įmokų tarifo, nustatyto
 
-nustatyto pajamoms, gautoms pagal autorines sutartis (atitinkamai gautoms iš
+pajamoms, gautoms pagal autorines sutartis (atitinkamai gautoms iš savo
 
-savo darbdavio arba ne iš savo darbdavio), ar sportininkų bei atlikėjų gautoms
+darbdavio arba ne iš savo darbdavio), ar sportininkų bei atlikėjų gautoms
 
 pajamoms.
 
-4. Savarankiškai dirbančių asmenų draudžiamosiomis
+4.
 
-pajamomis laikomos pajamos, nuo kurių 2009 ir 2010 metais įmokėtos sumažinto
+Savarankiškai dirbančių asmenų draudžiamosiomis pajamomis laikomos pajamos, nuo
 
-tarifo privalomojo ligos ir motinystės socialinio draudimo įmokos ir kurios
+kurių 2009 metais, o ūkininkų ir jų partnerių – ir 2010 metais, įmokėtos
 
-apskaičiuotos proporcingai mokėtoms valstybinio socialinio draudimo įmokoms:
+sumažinto tarifo privalomojo ligos ir motinystės socialinio draudimo įmokos ir
 
-atitinkamais metais gauta pajamų suma dauginama iš dydžio, kuris
+kurios apskaičiuotos proporcingai mokėtoms valstybinio socialinio draudimo
+
+įmokoms: atitinkamais metais gauta pajamų suma dauginama iš dydžio, kuris
 
 apskaičiuojamas atitinkamų metų sumažintą ligos ir motinystės socialinio
 
@@ -2663,6 +2671,8 @@ pajamoms, dalijant iš tų metų bendrojo ligos ir motinystės socialinio draudi
 
 įstatymo baigiamosios nuostatos pakeistos:
 
+1)
+
 Lietuvos
 
 Respublikos Seimas, Įstatymas
@@ -2671,15 +2681,35 @@ Nr. XI-167,
 
 2009-02-17, Žin., 2009, Nr. 25-969 (2009-03-05)
 
-LIGOS IR MOTINYSTĖS
+LIGOS IR
 
-SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 6, 8, 9, 16, 18(1), 19 STRAIPSNIŲ
+MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 6, 8, 9, 16, 18(1), 19
 
-PAKEITIMO IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Šio
 
 įstatymo nuostatos taikomos nuo 2009 m. sausio 1 d.
+
+2)
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-526,
+
+2009-12-08, Žin., 2009, Nr. 151-6773 (2009-12-22)
+
+LIGOS
+
+IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 6, 8, 9, 16, 18(1), 19
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2010 m. sausio 1 d.
 
 18.
 
@@ -2749,7 +2779,7 @@ MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 21 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Redagavo Aušrinė Trapinskienė
 
-(2009-10-01)
+(2009-12-22)
 
 autrap@lrs.lt
 
