@@ -4,7 +4,7 @@ identifier: "TAR.B4FAA1DD73CF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2005-06-07"
-last_updated: "2009-03-05"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2009-03-05 iki 2009-12-31
+Suvestinė redakcija nuo 2010-01-01 iki 2010-12-31
 
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
 
@@ -142,7 +142,11 @@ Nr. X-878, 2006-10-24, Žin., 2006, Nr. 119-4549 (2006-11-07), i. k. 1061010ISTA
 
 9) nekilnojamasis turtas (ar jo dalis), naudojamas laidojimo paslaugoms arba esantis kapinių teritorijoje;
 
-10) neįgaliųjų draugijų ir jų įmonių nekilnojamasis turtas;
+10) neįgaliųjų asociacijų, įmonių ir įstaigų, kurių dalyviai yra tik neįgaliųjų asociacijos, nekilnojamasis turtas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-576, 2009-12-17, Žin., 2009, Nr. 154-6954 (2009-12-28), i. k. 1091010ISTA00XI-576
 
 11) juridinių asmenų, kurių daugiau kaip 50 procentų pajamų per mokestinį laikotarpį sudaro pajamos iš žemės ūkio veiklos, kaip tai apibrėžta Lietuvos Respublikos pelno mokesčio įstatymo 2 straipsnio 281 dalyje, nekilnojamasis turtas;
 
@@ -397,6 +401,14 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio papild
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XI-177, 2009-02-19, Žin., 2009, Nr. 25-979 (2009-03-05), i. k. 1091010ISTA00XI-177
+
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-576, 2009-12-17, Žin., 2009, Nr. 154-6954 (2009-12-28), i. k. 1091010ISTA00XI-576
 
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas
 
