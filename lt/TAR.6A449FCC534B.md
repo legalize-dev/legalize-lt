@@ -4,7 +4,7 @@ identifier: "TAR.6A449FCC534B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-10"
-last_updated: "2006-07-27"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos koncesijų įstatymas
 
-Suvestinė redakcija nuo 2006-07-27 iki 2009-12-31
+Suvestinė redakcija nuo 2010-01-01 iki 2011-06-27
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
 
@@ -660,6 +660,14 @@ Nr. X-749, 2006-07-11, Žin., 2006, Nr. 82-3251 (2006-07-27), i. k. 1061010ISTA0
 
 Lietuvos Respublikos koncesijų įstatymo, Vietos savivaldos įstatymo pakeitimo ir papildymo įstatymas
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-302, 2009-06-16, Žin., 2009, Nr. 77-3167 (2009-06-30), i. k. 1091010ISTA00XI-302
+
+Lietuvos Respublikos koncesijų įstatymo 28-1 straipsnio pakeitimo įstatymas
+
 201 straipsnis. Viešosios darbų koncesijos suteikimo ypatumai
 
 1. Kai koncesijos sutarties dalykas yra darbai ir viešųjų paslaugų teikimas, tokia koncesija laikoma viešąja darbų koncesija, jei pagrindinis tokios koncesijos dalykas yra darbai, o paslaugų teikimas tik papildo koncesininko įsipareigojimą atlikti darbus. Viešąja darbų koncesija nelaikoma koncesija, kurios sutarties pagrindinis dalykas yra viešųjų paslaugų teikimas, o darbai tik papildo koncesininko įsipareigojimą teikti viešąsias paslaugas.
@@ -738,7 +746,21 @@ Nr. X-749, 2006-07-11, Žin., 2006, Nr. 82-3251 (2006-07-27), i. k. 1061010ISTA0
 
 281 straipsnis. Koncesijų suteikimą kontroliuojančios institucijos
 
-Koncesijų suteikimo kontrolę ir koncesijos sutarčių vykdymą prižiūri Lietuvos Respublikos Vyriausybės įgaliota institucija ir įstatymų įgaliotos valstybės, savivaldybės institucijos pagal savo kompetenciją. Vyriausybės įgaliotos institucijos teises ir pareigas atliekant šiame straipsnyje nurodytas funkcijas nustato Vyriausybė. Vyriausybės įgaliota valstybės institucija privalo teikti metodinę pagalbą suteikiančiosioms institucijoms koncesijų suteikimo klausimais.
+1. Už koncesijos sutarties sudarymą ir jos sąlygų vykdymą yra atsakinga suteikiančioji institucija, kuri Lietuvos Respublikos Vyriausybės patvirtintų Viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo taisyklių nustatyta tvarka privalo:
+
+1) gauti Finansų ministerijos pritarimą dėl koncesijos sutarties finansinių sąlygų – jei koncesija suteikiama valstybės vardu. Jei koncesija suteikiama savivaldybės vardu, Finansų ministerija savivaldybės suteikiančiajai institucijai teikia atskirąją nuomonę dėl numatomų koncesijos finansinių sąlygų;
+
+2) pateikti Finansų ministerijai informaciją apie suteiktas koncesijas ir koncesijos sutarčių vykdymą.
+
+2. Finansų ministerija sistemina, kaupia ir saugo duomenis apie valstybės ir savivaldybės vardu suteiktas koncesijas, teikia Lietuvos Respublikos Vyriausybei sudarytų koncesijų sutarčių ir jų vykdymo ataskaitą.
+
+3. Valstybės arba savivaldybės lėšų ir turto, reikiamų koncesijų sutartims įgyvendinti, panaudojimą, taip pat koncesijos sutarčių sudarymą ir įgyvendinimą teisės aktų nustatyta tvarka tikrina valstybės ir savivaldybės kontrolės institucijos.
+
+4. Metodinę ir konsultacinę pagalbą suteikiančioms institucijoms koncesijų suteikimo klausimais teikia Lietuvos Respublikos Vyriausybės įgaliotas viešasis juridinis asmuo, kurio funkcijas nustato Vyriausybė.
+
+Straipsnio pakeitimai:
+
+Nr. XI-302, 2009-06-16, Žin., 2009, Nr. 77-3167 (2009-06-30), i. k. 1091010ISTA00XI-302
 
 Papildyta skyriumi:
 
