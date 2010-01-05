@@ -4,7 +4,7 @@ identifier: "TAR.1E52802BE548"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-03"
-last_updated: "2009-05-12"
+last_updated: "2010-01-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1E52802BE548"
 department: "Lietuvos Respublikos Seimas"
@@ -25,9 +25,7 @@ Neoficialus
 
 įstatymo tekstas
 
-LIETUVOS
-
-RESPUBLIKOS
+LIETUVOS RESPUBLIKOS
 
 VIEŠŲJŲ ĮSTAIGŲ
 
@@ -45,9 +43,9 @@ Nauja
 
 Nr.
 
-IX-1977,
+IX-1977, 2004-01-27,
 
-2004-01-27, Žin., 2004, Nr. 25-752 (2004-02-14)
+Žin., 2004, Nr. 25-752 (2004-02-14)
 
 1
 
@@ -55,15 +53,15 @@ straipsnis. Įstatymo paskirtis
 
 1. Šis Įstatymas
 
-reglamentuoja viešųjų įstaigų steigimą, valdymą, veiklą, reorganizavimą,
+reglamentuoja viešųjų įstaigų steigimą, valdymą, veiklą, reorganizavimą, pertvarkymą
 
-pertvarkymą ir likvidavimą.
+ir likvidavimą.
 
-2. Šio Įstatymo nuostatos valstybinėms mokslo ir
+2. Šio Įstatymo nuostatos valstybinėms mokslo ir studijų
 
-studijų institucijoms, kurių teisinė forma yra viešoji įstaiga, taikomos tiek,
+institucijoms, kurių teisinė forma yra viešoji įstaiga, taikomos tiek, kiek jos
 
-kiek jos neprieštarauja Lietuvos Respublikos mokslo ir studijų įstatymui.
+neprieštarauja Lietuvos Respublikos mokslo ir studijų įstatymui.
 
 Straipsnio
 
@@ -71,395 +69,593 @@ pakeitimai:
 
 Nr.
 
-XI-243,
+XI-243, 2009-04-30,
 
-2009-04-30, Žin., 2009, Nr. 54-2141 (2009-05-12)(papildyta 2 dalimi)
+Žin., 2009, Nr. 54-2141 (2009-05-12)(papildyta 2 dalimi)
 
 2
 
 straipsnis. Viešosios įstaigos samprata
 
-1. Viešoji
+1. Viešoji įstaiga
 
-įstaiga − tai pagal šį ir kitus įstatymus įsteigtas pelno nesiekiantis ribotos
+− tai pagal šį ir kitus įstatymus įsteigtas pelno nesiekiantis ribotos civilinės
 
-civilinės atsakomybės viešasis juridinis asmuo, kurio tikslas − tenkinti
+atsakomybės viešasis juridinis asmuo, kurio tikslas − tenkinti viešuosius interesus
 
-viešuosius interesus vykdant švietimo, mokymo ir mokslinę, kultūrinę, sveikatos
+vykdant švietimo, mokymo ir mokslinę, kultūrinę, sveikatos priežiūros, aplinkos
 
-priežiūros, aplinkos apsaugos, sporto plėtojimo, socialinės ar teisinės
+apsaugos, sporto plėtojimo, socialinės ar teisinės pagalbos teikimo, taip pat kitokią
 
-pagalbos teikimo, taip pat kitokią visuomenei naudingą veiklą.
+visuomenei naudingą veiklą.
 
-2. Viešoji
+2. Viešoji įstaiga
 
-įstaiga turi turėti bent vieną sąskaitą banke.
+turi turėti bent vieną sąskaitą banke.
 
-3. Viešosios
+3. Viešosios įstaigos
 
-įstaigos buveinė turi būti Lietuvos Respublikoje.
+buveinė turi būti Lietuvos Respublikoje.
 
-4. Viešoji
+4. Viešoji įstaiga
 
-įstaiga savo veikloje vadovaujasi savo įstatais, Civiliniu kodeksu, šiuo ir
+savo veikloje vadovaujasi savo įstatais, Civiliniu kodeksu, šiuo ir kitais įstatymais
 
-kitais įstatymais bei kitais teisės aktais.
+bei kitais teisės aktais.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. X-1048,
+Nr. X-1048, 2007-01-18,
 
-2007-01-18, Žin., 2007, Nr. 17-631 (2007-02-08)
+Žin., 2007, Nr. 17-631 (2007-02-08)
 
 3
 
 straipsnis. Viešosios įstaigos teisės ir pareigos
 
-1. Viešoji
+1. Viešoji įstaiga
 
-įstaiga gali turėti ir įgyti tik tokias civilines teises ir pareigas, kurios
+gali turėti ir įgyti tik tokias civilines teises ir pareigas, kurios neprieštarauja
 
-neprieštarauja įstatymams, viešosios įstaigos įstatams ir veiklos tikslams.
+įstatymams, viešosios įstaigos įstatams ir veiklos tikslams.
 
-2. Viešajai
+2. Viešajai įstaigai
 
-įstaigai neleidžiama:
+neleidžiama:
 
-1) gauto
+1) gauto pelno skirti
 
-pelno skirti kitiems veiklos tikslams, negu nustatyta viešosios įstaigos
+kitiems veiklos tikslams, negu nustatyta viešosios įstaigos įstatuose;
 
-įstatuose;
+2) neatlygintinai
 
-2) neatlygintinai
+perduoti viešosios įstaigos turtą nuosavybėn, pagal patikėjimo ar panaudos sutartį
 
-perduoti viešosios įstaigos turtą nuosavybėn, pagal patikėjimo ar panaudos
+viešosios įstaigos dalininkui ar su juo susijusiam asmeniui, išskyrus šio Įstatymo
 
-sutartį viešosios įstaigos dalininkui ar su juo susijusiam asmeniui, išskyrus
+17 straipsnio 9 dalyje numatytą atvejį;
 
-šio Įstatymo 17 straipsnio 9 dalyje numatytą atvejį;
+3) skolintis pinigų
 
-3) skolintis
-
-pinigų už palūkanas iš savo dalininko ar su juo susijusio asmens;
+už palūkanas iš savo dalininko ar su juo susijusio asmens;
 
 4)
 
 užtikrinti kitų asmenų prievolių įvykdymą.
 
-3. Šio
+3. Šio straipsnio
 
-straipsnio 2 dalies 2 ir 3 punktuose nurodytas su dalininku susijęs asmuo yra:
+2 dalies 2 ir 3 punktuose nurodytas su dalininku susijęs asmuo yra:
 
-1) dalininko
+1) dalininko fizinio
 
-fizinio asmens artimasis giminaitis, sutuoktinis, sutuoktinio artimasis
+asmens artimasis giminaitis, sutuoktinis, sutuoktinio artimasis giminaitis, dalininko
 
-giminaitis, dalininko sugyventinis, kai partnerystė įregistruota įstatymų
+sugyventinis, kai partnerystė įregistruota įstatymų nustatyta tvarka;
 
-nustatyta tvarka;
+2) juridinis asmuo,
 
-2) juridinis
+kuris turi daugiau kaip pusę balsų viešosios įstaigos dalininko juridinio asmens
 
-asmuo, kuris turi daugiau kaip pusę balsų viešosios įstaigos dalininko
+dalyvių susirinkime;
 
-juridinio asmens dalyvių susirinkime;
+3) juridinis asmuo,
 
-3) juridinis
+kurio dalyvių susirinkime daugiau kaip pusę balsų turi viešosios įstaigos dalininkas,
 
-asmuo, kurio dalyvių susirinkime daugiau kaip pusę balsų turi viešosios
+šios dalies 1 ir 2 punktuose nurodyti asmenys atskirai ar kartu.
 
-įstaigos dalininkas, šios dalies 1 ir 2 punktuose nurodyti asmenys atskirai ar
+4. Viešoji įstaiga
 
-kartu.
+turi teisę verstis įstatymų nedraudžiama ūkine komercine veikla, kuri yra neatsiejamai
 
-4. Viešoji
+susijusi su jos veiklos tikslais.
 
-įstaiga turi teisę verstis įstatymų nedraudžiama ūkine komercine veikla, kuri
+5. Viešoji įstaiga
 
-yra neatsiejamai susijusi su jos veiklos tikslais.
+turi teisę steigti filialus ir atstovybes Lietuvos Respublikoje ir užsienio valstybėse.
 
-5. Viešoji
-
-įstaiga turi teisę steigti filialus ir atstovybes Lietuvos Respublikoje ir
-
-užsienio valstybėse. Viešosios įstaigos filialų ir atstovybių skaičius
-
-neribojamas.
+Viešosios įstaigos filialų ir atstovybių skaičius neribojamas.
 
 4
 
 straipsnis. Viešosios įstaigos steigimas
 
-1. Viešosios
+1. Viešosios įstaigos
 
-įstaigos steigėjai gali būti valstybė, savivaldybės ir kiti iš įstaigos veiklos
+steigėjai gali būti valstybė, savivaldybės ir kiti iš įstaigos veiklos nesiekiantys
 
-nesiekiantys sau naudos asmenys, sudarę viešosios įstaigos steigimo sutartį.
+sau naudos asmenys, sudarę viešosios įstaigos steigimo sutartį. Steigėjų skaičius
 
-Steigėjų skaičius neribojamas.
+neribojamas.
 
-2. Viešosios
+2. Viešosios įstaigos
 
-įstaigos steigimo teisinis pagrindas yra šio Įstatymo nustatyta tvarka steigėjų
+steigimo teisinis pagrindas yra šio Įstatymo nustatyta tvarka steigėjų sudaryta
 
-sudaryta viešosios įstaigos steigimo sutartis.
+viešosios įstaigos steigimo sutartis.
 
-3. Viešosios
+3. Viešosios įstaigos
 
-įstaigos steigimo sutartį pasirašo visi steigėjai.
+steigimo sutartį pasirašo visi steigėjai.
 
-4. Jeigu
+4. Jeigu steigėjas
 
-steigėjas yra vienas asmuo, vietoj steigimo sutarties jis surašo ir pasirašo
+yra vienas asmuo, vietoj steigimo sutarties jis surašo ir pasirašo steigimo aktą.
 
-steigimo aktą. Jeigu steigėjas yra valstybė ar savivaldybė, Vyriausybė ar
+Jeigu steigėjas yra valstybė ar savivaldybė, Vyriausybė ar savivaldybės taryba
 
-savivaldybės taryba priima sprendimą steigti viešąją įstaigą.
+priima sprendimą steigti viešąją įstaigą.
 
-5. Jeigu
+5. Jeigu viešosios
 
-viešosios įstaigos steigėjas ar bent vienas iš steigėjų yra valstybė ar
+įstaigos steigėjas ar bent vienas iš steigėjų yra valstybė ar savivaldybė, sprendimą
 
-savivaldybė, sprendimą dėl viešosios įstaigos steigimo ir valstybei ar
+dėl viešosios įstaigos steigimo ir valstybei ar savivaldybei nuosavybės teise priklausančio
 
-savivaldybei nuosavybės teise priklausančio turto investavimo priima
+turto investavimo priima atitinkamai Vyriausybė ar savivaldybės taryba. Šiame sprendime
 
-atitinkamai Vyriausybė ar savivaldybės taryba. Šiame sprendime taip pat turi
+taip pat turi būti nurodyta valstybės ar savivaldybės institucija, kuriai pavedama
 
-būti nurodyta valstybės ar savivaldybės institucija, kuriai pavedama atstovauti
+atstovauti steigėjui, bei valstybės ar savivaldybės institucija, kuriai pavedama
 
-steigėjui, bei valstybės ar savivaldybės institucija, kuriai pavedama
+įgyvendinti valstybės ar savivaldybės, kaip viešosios įstaigos savininko ar dalininko,
 
-įgyvendinti valstybės ar savivaldybės, kaip viešosios įstaigos savininko ar
+teises ir pareigas.
 
-dalininko, teises ir pareigas.
+6. Asmenys, kurie
 
-6. Asmenys,
+turi teisę atstovauti steigiamai viešajai įstaigai, gali steigiamos viešosios įstaigos
 
-kurie turi teisę atstovauti steigiamai viešajai įstaigai, gali steigiamos
+vardu ir dėl jos interesų sudaryti sandorius. Pagal šiuos sandorius viešajai įstaigai
 
-viešosios įstaigos vardu ir dėl jos interesų sudaryti sandorius. Pagal šiuos
+prievolės atsiranda tuomet, kai juos po viešosios įstaigos įsteigimo patvirtina
 
-sandorius viešajai įstaigai prievolės atsiranda tuomet, kai juos po viešosios
+viešosios įstaigos vadovas ar įstatuose nustatytas kitas organas. Jeigu viešosios
 
-įstaigos įsteigimo patvirtina viešosios įstaigos vadovas ar įstatuose
+įstaigos organas šių sandorių nepatvirtina, už šiais sandoriais pagrįstas prievoles
 
-nustatytas kitas organas. Jeigu viešosios įstaigos organas šių sandorių
+juos sudarę asmenys atsako solidariai.
 
-nepatvirtina, už šiais sandoriais pagrįstas prievoles juos sudarę asmenys
+7. Iki viešosios
 
-atsako solidariai.
+įstaigos įregistravimo turi būti sušauktas steigiamasis susirinkimas. Jis turi paskirti
 
-7. Iki
+viešosios įstaigos vadovą, taip pat sudaryti kolegialius organus, jeigu jie yra
 
-viešosios įstaigos įregistravimo turi būti sušauktas steigiamasis susirinkimas.
+numatyti viešosios įstaigos įstatuose. Steigiamajame susirinkime turi teisę balsuoti
 
-Jis turi paskirti viešosios įstaigos vadovą, taip pat sudaryti kolegialius
+visi viešosios įstaigos steigėjai. Vienas steigėjas steigiamajame susirinkime turi
 
-organus, jeigu jie yra numatyti viešosios įstaigos įstatuose. Steigiamajame
+vieną balsą, jei viešosios įstaigos steigimo sutartyje nenustatyta kitaip. Kai steigėjas
 
-susirinkime turi teisę balsuoti visi viešosios įstaigos steigėjai. Vienas
-
-steigėjas steigiamajame susirinkime turi vieną balsą, jei viešosios įstaigos
-
-steigimo sutartyje nenustatyta kitaip. Kai steigėjas yra vienas asmuo, jo
-
-raštiški sprendimai prilyginami steigiamojo susirinkimo sprendimams.
+yra vienas asmuo, jo raštiški sprendimai prilyginami steigiamojo susirinkimo sprendimams.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. X-1048,
+Nr. X-1048, 2007-01-18,
 
-2007-01-18, Žin., 2007, Nr. 17-631 (2007-02-08)
+Žin., 2007, Nr. 17-631 (2007-02-08)
 
 5
 
 straipsnis. Viešosios įstaigos steigimo sutartis
 
-1. Viešosios
+1. Viešosios įstaigos
 
-įstaigos steigimo sutartyje turi būti nurodyta:
+steigimo sutartyje turi būti nurodyta:
 
-1) steigėjai
+1) steigėjai (fizinių
 
-(fizinių asmenų vardai, pavardės, asmens kodai ir adresai; juridinių asmenų
+asmenų vardai, pavardės, asmens kodai ir adresai; juridinių asmenų pavadinimai,
 
-pavadinimai, buveinės, kodai, jų atstovų vardai ir pavardės). Jeigu steigėjas
+buveinės, kodai, jų atstovų vardai ir pavardės). Jeigu steigėjas yra valstybė ar
 
-yra valstybė ar savivaldybė, turi būti nurodyta valstybės ar savivaldybės
+savivaldybė, turi būti nurodyta valstybės ar savivaldybės institucija, kuriai pavedama
 
-institucija, kuriai pavedama atstovauti steigėjui;
+atstovauti steigėjui;
 
-2) viešosios
+2) viešosios
 
-įstaigos pavadinimas;
+įstaigos pavadinimas ir buveinė;
 
-3) viešosios
+3) viešosios įstaigos
 
-įstaigos veiklos sritis (sritys) ir tikslai;
+veiklos sritis (sritys) ir tikslai;
 
-4) steigėjų
+4) steigėjų turtiniai
 
-turtiniai ir neturtiniai įsipareigojimai, jų vykdymo tvarka ir terminai;
+ir neturtiniai įsipareigojimai, jų vykdymo tvarka ir terminai;
 
-5) steigimo
+5) steigimo išlaidų
 
-išlaidų kompensavimo tvarka;
+kompensavimo tvarka;
 
-6) ginčų
+6) ginčų tarp steigėjų
 
-tarp steigėjų sprendimo tvarka;
+sprendimo tvarka;
 
-7) asmenys,
+7) asmenys, kurie
 
-kurie turi teisę atstovauti steigiamai viešajai įstaigai, jų teisės ir
+turi teisę atstovauti steigiamai viešajai įstaigai, jų teisės ir įgaliojimai;
 
-įgaliojimai;
+8) steigiamojo susirinkimo
 
-8) steigiamojo
+sušaukimo ir sprendimų priėmimo jame tvarka;
 
-susirinkimo sušaukimo ir sprendimų priėmimo jame tvarka;
+9) steigimo sutarties
 
-9) steigimo
+sudarymo data.
 
-sutarties sudarymo data.
+2. Viešosios įstaigos
 
-2. Viešosios
+steigimo sutartyje gali būti ir kitų šiam ir kitiems įstatymams neprieštaraujančių
 
-įstaigos steigimo sutartyje gali būti ir kitų šiam ir kitiems įstatymams
+nuostatų.
 
-neprieštaraujančių nuostatų.
+3. Steigimo aktui
 
-3. Steigimo
+taikomi steigimo sutarties reikalavimai, išskyrus šio straipsnio 1 dalies 6 ir 8
 
-aktui taikomi steigimo sutarties reikalavimai, išskyrus šio straipsnio 1 dalies
-
-6 ir 8 punktuose nurodytus reikalavimus.
+punktuose nurodytus reikalavimus.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. X-1048,
+Nr. X-1048, 2007-01-18,
 
-2007-01-18, Žin., 2007, Nr. 17-631 (2007-02-08)
+Žin., 2007, Nr. 17-631 (2007-02-08)
+
+Nr. XI-606,
+
+2009-12-22, Žin., 2010, Nr. 1-17 (2010-01-05)
 
 6
 
 straipsnis. Viešosios įstaigos įstatai
 
-1. Įstatai
+1. Įstatai yra steigimo
 
-yra steigimo dokumentas, kuriuo viešoji įstaiga vadovaujasi savo veikloje.
+dokumentas, kuriuo viešoji įstaiga vadovaujasi savo veikloje.
 
-2. Viešosios
+2. Viešosios įstaigos
 
-įstaigos įstatuose turi būti nurodyta:
+įstatuose turi būti nurodyta:
 
-1) viešosios
+1) viešosios įstaigos
 
-įstaigos pavadinimas;
+pavadinimas;
 
-2) teisinė
+2) teisinė forma;
 
-forma;
+3) (neteko
 
-3) viešosios
+galios nuo 2010 m. sausio 5 d.);
 
-įstaigos buveinė;
+4) veiklos laikotarpis,
 
-4) veiklos
+jeigu jis ribotas;
 
-laikotarpis, jeigu jis ribotas;
+5) veiklos tikslai
 
-5) veiklos
+(jie turi būti apibūdinti aiškiai ir išsamiai, nurodant veiklos sritis bei rūšis);
 
-tikslai (jie turi būti apibūdinti aiškiai ir išsamiai, nurodant veiklos sritis
+6) naujų dalininkų
 
-bei rūšis);
+priėmimo tvarka;
 
-6) naujų
+7) dalininko teisių
 
-dalininkų priėmimo tvarka;
+perleidimo kitiems asmenims tvarka;
 
-7) dalininko
+8) dalininkų įnašų
 
-teisių perleidimo kitiems asmenims tvarka;
+perdavimo viešajai įstaigai tvarka;
 
-8) dalininkų
+9) visuotinio dalininkų
 
-įnašų perdavimo viešajai įstaigai tvarka;
+susirinkimo kompetencija, sušaukimo tvarka, sprendimų priėmimo tvarka;
 
-9) visuotinio
+10) kolegialių organų,
 
-dalininkų susirinkimo kompetencija, sušaukimo tvarka, sprendimų priėmimo
+jei tokie organai sudaromi, kompetencija, jų sudarymo ir atšaukimo tvarka;
 
-tvarka;
+11) viešosios įstaigos
 
-10) kolegialių
+vadovo skyrimo ir atleidimo tvarka, jo kompetencija;
 
-organų, jei tokie organai sudaromi, kompetencija, jų sudarymo ir atšaukimo
-
-tvarka;
-
-11) viešosios
-
-įstaigos vadovo skyrimo ir atleidimo tvarka, jo kompetencija;
-
-12) įstatų
-
-keitimo tvarka;
-
-13) filialų
-
-ir atstovybių steigimo bei jų veiklos nutraukimo tvarka;
-
-14) dokumentų
-
-ir kitos informacijos apie viešosios įstaigos veiklą pateikimo dalininkams
+12) įstatų keitimo
 
 tvarka;
 
-15) pranešimų
+13) filialų ir atstovybių
 
-ir skelbimų paskelbimo tvarka; leidinys, kuriame skelbiama vieša informacija;
+steigimo bei jų veiklos nutraukimo tvarka;
 
-16) informacijos
+14) dokumentų ir
+
+kitos informacijos apie viešosios įstaigos veiklą pateikimo dalininkams tvarka;
+
+15) pranešimų ir
+
+skelbimų paskelbimo tvarka; leidinys, kuriame skelbiama vieša informacija;
+
+16) informacijos
 
 apie viešosios įstaigos veiklą pateikimo visuomenei tvarka.
 
-3. Įstatuose gali būti ir kitų šiam ir kitiems
+3. Viešosios
+
+įstaigos visuotinio dalininkų susirinkimo kompetencijos ir šaukimo tvarkos,
+
+vadovo skyrimo ir atleidimo tvarkos ir jo kompetencijos, įstatų keitimo tvarkos
+
+nurodyti nereikia, jeigu tai nesiskiria nuo šiame Įstatyme nustatytųjų ir apie
+
+tai nurodoma pačiuose įstatuose. Įstatuose gali būti ir kitų šiam ir kitiems
 
 įstatymams neprieštaraujančių nuostatų. Paaiškėjus, kad įstatuose yra nuostatų,
 
 prieštaraujančių šiam ir kitiems įstatymams, įstatai turi būti pakeisti.
 
-4. Viešosios įstaigos įstatus iki steigiamojo
+4. Viešosios įstaigos įstatus iki steigiamojo susirinkimo
 
-susirinkimo turi pasirašyti visi steigėjai. Pakeistus viešosios įstaigos
+turi pasirašyti visi steigėjai. Pakeistus viešosios įstaigos įstatus pasirašo visuotinio
 
-įstatus pasirašo visuotinio dalininkų susirinkimo, priėmusio sprendimą pakeisti
+dalininkų susirinkimo, priėmusio sprendimą pakeisti įstatus, įgaliotas asmuo.
 
-įstatus, įgaliotas asmuo.
+5. Steigiamos viešosios
 
-5. Steigiamos
+įstaigos įstatai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui
 
-viešosios įstaigos įstatai netenka galios, jeigu jie nebuvo pateikti juridinių
+per šešis mėnesius nuo jų pasirašymo dienos.
 
-asmenų registrui per šešis mėnesius nuo jų pasirašymo dienos.
+6. Viešosios
 
-6. Viešosios
+įstaigos įstatus pasirašiusių fizinių asmenų parašų tikrumas notaro
 
-įstaigos įstatus pasirašiusių fizinių asmenų parašų tapatumą turi patvirtinti
+netvirtinamas.
 
-notaras. Ši nuostata netaikoma, kai pakeistus įstatus pasirašo visuotinio
+Straipsnio
 
-dalininkų susirinkimo įgaliotas asmuo.
+pakeitimai:
+
+Nr. XI-606,
+
+2009-12-22, Žin., 2010, Nr. 1-17 (2010-01-05)
+
+7
+
+straipsnis. Viešosios įstaigos dalininkai
+
+1. Viešosios įstaigos
+
+dalininkas yra fizinis ar juridinis asmuo, kuris šio Įstatymo ir įstatų nustatyta
+
+tvarka yra perdavęs viešajai įstaigai įnašą ir turi šio Įstatymo ir įstatų nustatytas
+
+dalininko teises, taip pat asmuo, kuriam dalininko teisės yra perleistos įstatų
+
+ar įstatymų nustatyta tvarka.
+
+2. Viešosios įstaigos
+
+steigėjai, šio Įstatymo ir įstatų nustatyta tvarka perdavę viešajai įstaigai įnašą,
+
+tampa jos dalininkais.
+
+3. Jeigu viešosios
+
+įstaigos dalininkas yra vienas asmuo, jis vadinamas viešosios įstaigos savininku.
+
+Šio Įstatymo nuostatos, kurios taikomos dalininkams, taikomos ir savininkui.
+
+4. Viešosios įstaigos
+
+dalininkas turi teisę gauti likviduojamos viešosios įstaigos turto dalį šio Įstatymo
+
+17 straipsnio 9 dalyje nustatyta tvarka.
+
+5. Viešosios įstaigos
+
+dalininkas turi šias neturtines teises:
+
+1) dalyvauti ir balsuoti
+
+viešosios įstaigos visuotiniuose dalininkų susirinkimuose;
+
+2) susipažinti su
+
+viešosios įstaigos dokumentais ir gauti viešosios įstaigos turimą informaciją apie
+
+jos veiklą;
+
+3) kreiptis į teismą
+
+su ieškiniu prašydamas panaikinti viešosios įstaigos visuotinio dalininkų susirinkimo
+
+ir kitų viešosios įstaigos organų sprendimus, taip pat pripažinti negaliojančiais
+
+valdymo organų sudarytus sandorius, jeigu jie prieštarauja imperatyviosioms įstatymų
+
+normoms, viešosios įstaigos įstatams arba protingumo ar sąžiningumo principams;
+
+4) kreiptis į teismą
+
+su ieškiniu prašydamas uždrausti viešosios įstaigos valdymo organams ateityje sudaryti
+
+sandorius, prieštaraujančius viešosios įstaigos veiklos tikslams ar pažeidžiančius
+
+viešosios įstaigos valdymo organo kompetenciją;
+
+5) kitas įstatymuose
+
+ir įstatuose nustatytas neturtines teises.
+
+6. Viešosios įstaigos
+
+dalininkas turi teisę įstatų ir įstatymų nustatyta tvarka perleisti kitam asmeniui
+
+dalininko teises, išskyrus atvejus, kai dalininkas yra valstybė ar savivaldybė.
+
+Valstybės ar savivaldybės viešosios įstaigos dalininko teisės gali būti perduotos
+
+kitiems juridiniams asmenims šio Įstatymo ir įstatymų, reglamentuojančių valstybės
+
+ir savivaldybių turto valdymą, naudojimą ir disponavimą juo, nustatytais atvejais
+
+ir būdais.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. X-1048, 2007-01-18,
+
+Žin., 2007, Nr. 17-631 (2007-02-08)
+
+8
+
+straipsnis. Viešosios įstaigos registravimas ir juridinių asmenų registro duomenys
+
+1. Viešoji įstaiga
+
+turi būti įregistruota juridinių asmenų registre.
+
+2. Viešajai įstaigai
+
+įregistruoti juridinių asmenų registrui turi būti pateikta steigimo sutartis, įstatai
+
+ir kiti viešajai įstaigai įregistruoti įstatymų nustatyti dokumentai.
+
+3. Įregistruojant
+
+viešąją įstaigą įregistruojami ir jos įstatai.
+
+4. Nuo įregistravimo
+
+juridinių asmenų registre viešoji įstaiga laikoma įsteigta.
+
+5. Be Civilinio
+
+kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų registre nurodomas
+
+viešosios įstaigos veiklos laikotarpis, jei jis yra ribotas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-606,
+
+2009-12-22, Žin., 2010, Nr. 1-17 (2010-01-05)
+
+9
+
+straipsnis. Viešosios įstaigos organai
+
+1. Viešoji įstaiga
+
+įgyja civilines teises, prisiima civilines pareigas ir jas įgyvendina per savo valdymo
+
+organus.
+
+2. Viešoji įstaiga
+
+negali įgyti civilinių teisių ir pareigų per savo dalininkus.
+
+3. Viešoji įstaiga turi
+
+turėti organą – visuotinį dalininkų susirinkimą ir vienasmenį valdymo organą − viešosios
+
+įstaigos vadovą.
+
+4. Viešosios įstaigos
+
+vadovas organizuoja viešosios įstaigos veiklą ir veikia viešosios įstaigos vardu
+
+santykiuose su kitais asmenimis, sudaro ir nutraukia darbo sutartis su viešosios
+
+įstaigos darbuotojais. Viešosios įstaigos vadovas atsako už finansinės atskaitomybės
+
+sudarymą, visuotinio dalininkų susirinkimo sušaukimą, duomenų ir dokumentų pateikimą
+
+juridinių asmenų registrui, pranešimą dalininkams apie įvykius, turinčius esminės
+
+reikšmės viešosios įstaigos veiklai, viešosios įstaigos dalininkų registravimą,
+
+informacijos apie viešosios įstaigos veiklą pateikimą visuomenei, viešos informacijos
+
+paskelbimą, kitus veiksmus, kurie yra vadovui numatyti teisės aktuose bei viešosios
+
+įstaigos įstatuose.
+
+5. Visuotinio dalininkų
+
+susirinkimo įgaliotas asmuo viešosios įstaigos vardu sudaro darbo sutartį su viešosios
+
+įstaigos vadovu ir ją nutraukia. Su viešosios įstaigos vadovu gali būti sudaryta
+
+jo visiškos materialinės atsakomybės sutartis. Darbo ginčai tarp viešosios įstaigos
+
+vadovo ir viešosios įstaigos nagrinėjami teisme.
+
+6. Viešosios įstaigos
+
+įstatuose gali būti numatytas ir kolegialus viešosios įstaigos valdymo organas,
+
+taip pat kiti kolegialūs organai. Kolegialių viešosios įstaigos organų narių
+
+skaičius, kompetencija, šių organų sudarymo ir atšaukimo tvarka nustatoma viešosios
+
+įstaigos įstatuose. Kolegialūs viešosios įstaigos organai veikia pagal jų patvirtintus
+
+darbo reglamentus. Už veiklą viešosios įstaigos kolegialiuose organuose šių organų
+
+nariams neatlyginama, jei viešosios įstaigos įstatuose nenustatyta kitaip.
+
+7. Viešosios įstaigos
+
+įstatuose gali būti nustatytas kiekybinis atstovavimas. Šiuo atveju, laikantis Civilinio
+
+kodekso nuostatų, reglamentuojančių kiekybinį atstovavimą, įstatuose turi būti nustatytos
+
+konkrečios tokio atstovavimo taisyklės, tačiau visais atvejais viešosios įstaigos
+
+vardu turi veikti ir viešosios įstaigos vadovas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. X-1048, 2007-01-18,
+
+Žin., 2007, Nr. 17-631 (2007-02-08)
 
 1 straipsnis.
 
@@ -1129,231 +1325,223 @@ laikantis Civilinio kodekso nuostatų, reglamentuojančių kiekybinį atstovavim
 
 visais atvejais viešosios įstaigos vardu turi veikti ir viešosios įstaigos vadovas.
 
-10 straipsnis.
+10 straipsnis. Viešosios
 
-Viešosios įstaigos visuotinis dalininkų susirinkimas
+įstaigos visuotinis dalininkų susirinkimas
 
-1. Visuotinis
+1. Visuotinis dalininkų
 
-dalininkų susirinkimas:
+susirinkimas:
 
-1) keičia
+1) keičia viešosios
 
-viešosios įstaigos įstatus;
+įstaigos įstatus;
 
-2) nustato
+2) priima
 
-paslaugų, darbų bei produkcijos kainas ir tarifus ar jų nustatymo
+sprendimą pakeisti viešosios įstaigos buveinę;
 
-taisykles;
+3) nustato paslaugų,
 
-3) skiria
+darbų bei produkcijos kainas ir tarifus ar jų nustatymo taisykles;
 
-ir atleidžia viešosios įstaigos vadovą, nustato jo darbo sutarties sąlygas;
+4) skiria ir atleidžia
 
-4) sudaro
+viešosios įstaigos vadovą, nustato jo darbo sutarties sąlygas;
 
-kolegialius organus, jei tokie numatyti viešosios įstaigos įstatuose;
+5) sudaro kolegialius
 
-5) tvirtina
+organus, jei tokie numatyti viešosios įstaigos įstatuose;
 
-metinę finansinę atskaitomybę;
+6) tvirtina metinę
 
-6) nustato
+finansinę atskaitomybę;
 
-informaciją, kuri pateikiama visuomenei apie viešosios įstaigos veiklą;
+7) nustato informaciją,
 
-7) priima
+kuri pateikiama visuomenei apie viešosios įstaigos veiklą;
 
-sprendimą dėl viešajai įstaigai nuosavybės teise priklausančio ilgalaikio turto
+8) priima sprendimą
 
-perleidimo, nuomos, perdavimo pagal panaudos sutartį ar įkeitimo;
+dėl viešajai įstaigai nuosavybės teise priklausančio ilgalaikio turto perleidimo,
 
-8) priima
+nuomos, perdavimo pagal panaudos sutartį ar įkeitimo;
 
-sprendimą dėl viešosios įstaigos reorganizavimo ir reorganizavimo sąlygų
+9) priima sprendimą
 
-tvirtinimo;
+dėl viešosios įstaigos reorganizavimo ir reorganizavimo sąlygų tvirtinimo;
 
-9) priima
+10) priima sprendimą
 
-sprendimą pertvarkyti viešąją įstaigą;
+pertvarkyti viešąją įstaigą;
 
-10) priima
+11) priima sprendimą
 
-sprendimą likviduoti viešąją įstaigą ar atšaukti jos likvidavimą;
+likviduoti viešąją įstaigą ar atšaukti jos likvidavimą;
 
-11) skiria
+12) skiria ir atleidžia
 
-ir atleidžia likvidatorių, kai šio Įstatymo nustatytais atvejais sprendimą
+likvidatorių, kai šio Įstatymo nustatytais atvejais sprendimą likviduoti viešąją
 
-likviduoti viešąją įstaigą priima visuotinis dalininkų susirinkimas;
+įstaigą priima visuotinis dalininkų susirinkimas;
 
-12) nustato
+13) nustato viešosios
 
-viešosios įstaigos vidaus kontrolės tvarką;
+įstaigos vidaus kontrolės tvarką;
 
-13) priima
+14) priima sprendimą
 
-sprendimą dėl viešosios įstaigos audito ir renka audito įmonę;
+dėl viešosios įstaigos audito ir renka audito įmonę;
 
-14) sprendžia
+15) sprendžia kitus
 
-kitus šiame Įstatyme ir viešosios įstaigos įstatuose visuotinio dalininkų
+šiame Įstatyme ir viešosios įstaigos įstatuose visuotinio dalininkų susirinkimo
 
-susirinkimo kompetencijai priskirtus klausimus.
+kompetencijai priskirtus klausimus.
 
-2. Visuotinio
+2. Visuotinio dalininkų
 
-dalininkų susirinkimo sprendimai priimami paprasta visų susirinkime
+susirinkimo sprendimai priimami paprasta visų susirinkime dalyvaujančių dalininkų
 
-dalyvaujančių dalininkų balsų dauguma, išskyrus šio straipsnio 1 dalies 8, 9 ir
+balsų dauguma, išskyrus šio straipsnio 1 dalies 8, 9 ir 10 punktuose nurodytus
 
-10 punktuose nurodytus sprendimus, kurie priimami kvalifikuota balsų
+sprendimus, kurie priimami kvalifikuota balsų dauguma. Ją nustato viešosios
 
-dauguma. Ją nustato viešosios įstaigos įstatai ir ji negali būti mažesnė kaip
+įstaigos įstatai ir ji negali būti mažesnė kaip 2/3 visų susirinkime dalyvaujančių
 
-2/3 visų susirinkime dalyvaujančių dalininkų balsų.
+dalininkų balsų.
 
-3. Visuotiniame
+3. Visuotiniame dalininkų
 
-dalininkų susirinkime sprendžiamojo balso teisę turi visi viešosios įstaigos
+susirinkime sprendžiamojo balso teisę turi visi viešosios įstaigos dalininkai. Vienas
 
-dalininkai. Vienas dalininkas visuotiniame dalininkų susirinkime turi vieną
+dalininkas visuotiniame dalininkų susirinkime turi vieną balsą, jei viešosios įstaigos
 
-balsą, jei viešosios įstaigos įstatuose nenustatyta kitaip. Viešosios įstaigos
+įstatuose nenustatyta kitaip. Viešosios įstaigos vadovas ir kitų organų nariai,
 
-vadovas ir kitų organų nariai, jeigu jie nėra dalininkai, gali dalyvauti
+jeigu jie nėra dalininkai, gali dalyvauti visuotiniame dalininkų susirinkime be
 
-visuotiniame dalininkų susirinkime be balso teisės. Visuotiniame dalininkų
+balso teisės. Visuotiniame dalininkų susirinkime dalininkų pritarimu gali dalyvauti
 
-susirinkime dalininkų pritarimu gali dalyvauti ir kiti asmenys.
+ir kiti asmenys.
 
-4. Visuotinis
+4. Visuotinis dalininkų
 
-dalininkų susirinkimas šaukiamas viešosios įstaigos įstatų nustatyta tvarka.
+susirinkimas šaukiamas viešosios įstaigos įstatų nustatyta tvarka.
 
-5. Kasmet
+5. Kasmet per keturis
 
-per keturis mėnesius nuo viešosios įstaigos finansinių metų pabaigos turi
+mėnesius nuo viešosios įstaigos finansinių metų pabaigos turi įvykti eilinis visuotinis
 
-įvykti eilinis visuotinis dalininkų susirinkimas. Viešosios įstaigos vadovas
+dalininkų susirinkimas. Viešosios įstaigos vadovas eiliniam visuotiniam dalininkų
 
-eiliniam visuotiniam dalininkų susirinkimui privalo pateikti viešosios įstaigos
+susirinkimui privalo pateikti viešosios įstaigos metinę finansinę atskaitomybę ir
 
-metinę finansinę atskaitomybę ir praėjusių finansinių metų viešosios įstaigos
+praėjusių finansinių metų viešosios įstaigos veiklos ataskaitą.
 
-veiklos ataskaitą.
+6. Viešosios įstaigos
 
-6. Viešosios
+visuotinis dalininkų susirinkimas gali būti šaukiamas teismo sprendimu, jei jis
 
-įstaigos visuotinis dalininkų susirinkimas gali būti šaukiamas teismo
+nebuvo sušauktas šio Įstatymo ir viešosios įstaigos įstatų nustatyta tvarka ir dėl
 
-sprendimu, jei jis nebuvo sušauktas šio Įstatymo ir viešosios įstaigos įstatų
+to į teismą kreipėsi viešosios įstaigos dalininkas ar organo narys.
 
-nustatyta tvarka ir dėl to į teismą kreipėsi viešosios įstaigos dalininkas ar
+7. Visuotiniai dalininkų
 
-organo narys.
+susirinkimai turi būti protokoluojami.
 
-7. Visuotiniai
+8. Viešosios įstaigos
 
-dalininkų susirinkimai turi būti protokoluojami.
-
-8. Viešosios
-
-įstaigos savininko raštiški sprendimai prilyginami visuotinio dalininkų
-
-susirinkimo sprendimams.
+savininko raštiški sprendimai prilyginami visuotinio dalininkų susirinkimo sprendimams.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. X-1048,
+Nr. X-1048, 2007-01-18,
 
-2007-01-18, Žin., 2007, Nr. 17-631 (2007-02-08)
+Žin., 2007, Nr. 17-631 (2007-02-08)
 
-11 straipsnis. Viešosios įstaigos buhalterinė
+Nr. XI-606,
 
-apskaita, finansinė atskaitomybė ir auditas
+2009-12-22, Žin., 2010, Nr. 1-17 (2010-01-05)
 
-1. Viešosios
+11 straipsnis. Viešosios įstaigos buhalterinė apskaita,
 
-įstaigos buhalterinę apskaitą, jos organizavimą bei tvarkymą ir finansinės
+finansinė atskaitomybė ir auditas
 
-atskaitomybės sudarymą nustato įstatymai ir kiti teisės aktai.
+1. Viešosios įstaigos
 
-2. Viešosios
+buhalterinę apskaitą, jos organizavimą bei tvarkymą ir finansinės atskaitomybės
 
-įstaigos auditas atliekamas, kai visuotinis dalininkų susirinkimas priima
+sudarymą nustato įstatymai ir kiti teisės aktai.
 
-sprendimą atlikti auditą ir išrenka audito įmonę. Auditas atliekamas teisės
+2. Viešosios įstaigos
 
-aktų, reglamentuojančių auditą, nustatytais atvejais ir tvarka.
+auditas atliekamas, kai visuotinis dalininkų susirinkimas priima sprendimą atlikti
 
-3. Valstybės ir
+auditą ir išrenka audito įmonę. Auditas atliekamas teisės aktų, reglamentuojančių
 
-savivaldybių kontrolės institucijos turi teisę įstatymų nustatyta tvarka
+auditą, nustatytais atvejais ir tvarka.
 
-tikrinti viešosios įstaigos veiklą.
+3. Valstybės ir savivaldybių
 
-4. Viešosios
+kontrolės institucijos turi teisę įstatymų nustatyta tvarka tikrinti viešosios įstaigos
 
-įstaigos vidaus kontrolės tvarką nustato visuotinis dalininkų susirinkimas.
+veiklą.
+
+4. Viešosios įstaigos
+
+vidaus kontrolės tvarką nustato visuotinis dalininkų susirinkimas.
 
 12
 
 straipsnis. Viešosios įstaigos veiklos ataskaita
 
-1. Viešosios
+1. Viešosios įstaigos
 
-įstaigos vadovas turi parengti ir pateikti eiliniam visuotiniam dalininkų
+vadovas turi parengti ir pateikti eiliniam visuotiniam dalininkų susirinkimui praėjusių
 
-susirinkimui praėjusių finansinių metų viešosios įstaigos veiklos ataskaitą. Ši
+finansinių metų viešosios įstaigos veiklos ataskaitą. Ši ataskaita yra vieša. Bet
 
-ataskaita yra vieša. Bet kurio fizinio ar juridinio asmens reikalavimu viešoji
+kurio fizinio ar juridinio asmens reikalavimu viešoji įstaiga turi sudaryti sąlygas
 
-įstaiga turi sudaryti sąlygas jos buveinėje ar kitais įstatuose nurodytais
+jos buveinėje ar kitais įstatuose nurodytais būdais su šia ataskaita susipažinti.
 
-būdais su šia ataskaita susipažinti.
+2. Viešosios įstaigos
 
-2. Viešosios
+veiklos ataskaitoje turi būti nurodyta:
 
-įstaigos veiklos ataskaitoje turi būti nurodyta:
+1) informacija apie
 
-1) informacija
+viešosios įstaigos veiklą įgyvendinant jos įstatuose nustatytus veiklos tikslus;
 
-apie viešosios įstaigos veiklą įgyvendinant jos įstatuose nustatytus veiklos
+2) viešosios įstaigos
 
-tikslus;
+dalininkai finansinių metų pradžioje ir pabaigoje;
 
-2) viešosios
+3) viešosios įstaigos
 
-įstaigos dalininkai finansinių metų pradžioje ir pabaigoje;
+gautos lėšos ir jų šaltiniai per finansinius metus;
 
-3) viešosios
+4) informacija apie
 
-įstaigos gautos lėšos ir jų šaltiniai per finansinius metus;
+viešosios įstaigos įsigytą ir perleistą ilgalaikį turtą per finansinius metus;
 
-4) informacija
+5) viešosios įstaigos
 
-apie viešosios įstaigos įsigytą ir perleistą ilgalaikį turtą per finansinius
+išlaidos per finansinius metus;
 
-metus;
+6) viešosios įstaigos
 
-5) viešosios
+darbuotojų skaičius finansinių metų pradžioje ir pabaigoje.
 
-įstaigos išlaidos per finansinius metus;
+3. Viešosios įstaigos
 
-6) viešosios
+veiklos ataskaitoje gali būti ir kita informacija, kurią nustato visuotinis dalininkų
 
-įstaigos darbuotojų skaičius finansinių metų pradžioje ir pabaigoje.
-
-3. Viešosios
-
-įstaigos veiklos ataskaitoje gali būti ir kita informacija, kurią nustato
-
-visuotinis dalininkų susirinkimas.
+susirinkimas.
 
 12 straipsnis.
 
@@ -1413,597 +1601,553 @@ visuotinis dalininkų susirinkimas.
 
 ir negrąžintinai gautos lėšos
 
-1. Viešosios
+1. Viešosios įstaigos
 
-įstaigos nuosavą kapitalą sudaro:
+nuosavą kapitalą sudaro:
 
-1) dalininkų
+1) dalininkų kapitalas;
 
-kapitalas;
+2) pelnas (nuostolis);
 
-2) pelnas
+3) perkainojimo rezervas;
 
-(nuostolis);
+4)  rezervai iš pelno.
 
-3) perkainojimo
+2. Viešosios įstaigos
 
-rezervas;
+dalininkų kapitalas yra lygus dalininkų įnašų vertei. Viešosios įstaigos dalininkai
 
-4)  rezervai iš
+ir jų įnašų vertė yra įrašomi viešosios įstaigos dokumentuose, o dalininkui išduodamas
 
-pelno.
+jo įnašų vertę patvirtinantis dokumentas. Jeigu dalininkas papildomai perduoda viešajai
 
-2. Viešosios
+įstaigai įnašus, parduoda ar kitaip perleidžia dalininko teises kitam asmeniui,
 
-įstaigos dalininkų kapitalas yra lygus dalininkų įnašų vertei. Viešosios
+turi būti atitinkamai pakeičiami įrašai viešosios įstaigos dokumentuose ir pakeičiami
 
-įstaigos dalininkai ir jų įnašų vertė yra įrašomi viešosios įstaigos
+įnašų vertę patvirtinantys dokumentai.
 
-dokumentuose, o dalininkui išduodamas jo įnašų vertę patvirtinantis dokumentas.
+3. Dalininkų įnašai
 
-Jeigu dalininkas papildomai perduoda viešajai įstaigai įnašus, parduoda ar
+gali būti pinigai, taip pat pagal Turto ir verslo vertinimo pagrindų įstatymą įvertintas
 
-kitaip perleidžia dalininko teises kitam asmeniui, turi būti atitinkamai
+materialusis ir nematerialusis turtas.
 
-pakeičiami įrašai viešosios įstaigos dokumentuose ir pakeičiami įnašų vertę
+4. Dalininkų kapitalas
 
-patvirtinantys dokumentai.
+gali būti didinamas tik dalininkų įnašais.
 
-3. Dalininkų
+5. Viešojoje įstaigoje
 
-įnašai gali būti pinigai, taip pat pagal Turto ir verslo vertinimo pagrindų
+gali būti sudaromi rezervai iš pelno, gauto iš ūkinės komercinės veiklos, susietos
 
-įstatymą įvertintas materialusis ir nematerialusis turtas.
+su įstaigos įstatuose nustatytais veiklos tikslais, taip pat perkainojimo rezervas.
 
-4. Dalininkų
+6. Rezervai iš pelno
 
-kapitalas gali būti didinamas tik dalininkų įnašais.
+sudaromi, keičiami, naudojami ir panaikinami visuotinio dalininkų susirinkimo sprendimu.
 
-5. Viešojoje
+7. Iš perkainojimo
 
-įstaigoje gali būti sudaromi rezervai iš pelno, gauto iš ūkinės komercinės
+rezervo negali būti mažinami viešosios įstaigos nuostoliai.
 
-veiklos, susietos su įstaigos įstatuose nustatytais veiklos tikslais, taip pat
+8. Viešoji įstaiga
 
-perkainojimo rezervas.
+lėšas, gautas kaip paramą, taip pat kitas negrąžintinai gautas lėšas naudoja jas
 
-6. Rezervai
+perdavusio asmens nurodytiems (jei perduodamas šias lėšas asmuo davė tokius nurodymus)
 
-iš pelno sudaromi, keičiami, naudojami ir panaikinami visuotinio dalininkų
+tikslams. Viešoji įstaiga tokias lėšas privalo laikyti atskiroje sąskaitoje ir sudaryti
 
-susirinkimo sprendimu.
+išlaidų sąmatą, jei tai numatyta teisės aktuose arba lėšas perdavęs asmuo to reikalauja.
 
-7. Iš
+Viešoji įstaiga negali priimti lėšų, jei jas perduodantis asmuo nurodo šias lėšas
 
-perkainojimo rezervo negali būti mažinami viešosios įstaigos nuostoliai.
-
-8. Viešoji
-
-įstaiga lėšas, gautas kaip paramą, taip pat kitas negrąžintinai gautas lėšas
-
-naudoja jas perdavusio asmens nurodytiems (jei perduodamas šias lėšas asmuo
-
-davė tokius nurodymus) tikslams. Viešoji įstaiga tokias lėšas privalo laikyti
-
-atskiroje sąskaitoje ir sudaryti išlaidų sąmatą, jei tai numatyta teisės
-
-aktuose arba lėšas perdavęs asmuo to reikalauja. Viešoji įstaiga negali priimti
-
-lėšų, jei jas perduodantis asmuo nurodo šias lėšas naudoti kitiems tikslams,
-
-negu nustatyta viešosios įstaigos įstatuose.
+naudoti kitiems tikslams, negu nustatyta viešosios įstaigos įstatuose.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. X-1048,
+Nr. X-1048, 2007-01-18,
 
-2007-01-18, Žin., 2007, Nr. 17-631 (2007-02-08)
+Žin., 2007, Nr. 17-631 (2007-02-08)
 
 14
 
 straipsnis. Viešosios įstaigos pelno naudojimas
 
-1. Viešosios
+1. Viešosios įstaigos
 
-įstaigos gautas pelnas gali būti naudojamas tik viešosios įstaigos įstatuose
+gautas pelnas gali būti naudojamas tik viešosios įstaigos įstatuose nustatytiems
 
-nustatytiems viešosios įstaigos veiklos tikslams siekti.
+viešosios įstaigos veiklos tikslams siekti.
 
-2. Viešosios
+2. Viešosios įstaigos
 
-įstaigos pelnas negali būti skiriamas dalininkams, viešosios įstaigos organų
+pelnas negali būti skiriamas dalininkams, viešosios įstaigos organų nariams, darbuotojų
 
-nariams, darbuotojų premijoms.
+premijoms.
 
 15
 
 straipsnis. Viešosios įstaigos reorganizavimas
 
-1. Viešosios
+1. Viešosios įstaigos
 
-įstaigos gali būti reorganizuojamos Civilinio kodekso nustatytais jungimo ir
+gali būti reorganizuojamos Civilinio kodekso nustatytais jungimo ir skaidymo būdais.
 
-skaidymo būdais.
+2. Visų reorganizavime
 
-2. Visų
+dalyvaujančių viešųjų įstaigų vadovai arba kiti valdymo organai privalo parengti
 
-reorganizavime dalyvaujančių viešųjų įstaigų vadovai arba kiti valdymo organai
+viešosios įstaigos reorganizavimo sąlygas, kuriose turi būti numatyta:
 
-privalo parengti viešosios įstaigos reorganizavimo sąlygas, kuriose turi būti
+1) kiekvienos reorganizavime
 
-numatyta:
+dalyvaujančios viešosios įstaigos pavadinimas, buveinė, kodas, registras, kuriame
 
-1) kiekvienos
+kaupiami ir saugomi duomenys apie šias viešąsias įstaigas;
 
-reorganizavime dalyvaujančios viešosios įstaigos pavadinimas, buveinė, kodas,
+2) reorganizavimo
 
-registras, kuriame kaupiami ir saugomi duomenys apie šias viešąsias įstaigas;
+būdas, pasibaigiančios viešosios įstaigos, po reorganizavimo tęsiančios veiklą viešosios
 
-2) reorganizavimo
+įstaigos, kuriamos naujos viešosios įstaigos;
 
-būdas, pasibaigiančios viešosios įstaigos, po reorganizavimo tęsiančios veiklą
+3) pasibaigiančios
 
-viešosios įstaigos, kuriamos naujos viešosios įstaigos;
+viešosios įstaigos dalininko tapimo po reorganizavimo veiksiančios viešosios įstaigos
 
-3) pasibaigiančios
+dalininku tvarka, sąlygos ir terminai;
 
-viešosios įstaigos dalininko tapimo po reorganizavimo veiksiančios viešosios
+4) momentas, nuo
 
-įstaigos dalininku tvarka, sąlygos ir terminai;
+kurio pasibaigiančios viešosios įstaigos teisės ir pareigos pereina po reorganizavimo
 
-4) momentas,
+veiksiančiai viešajai įstaigai;
 
-nuo kurio pasibaigiančios viešosios įstaigos teisės ir pareigos pereina po
+5) asmenys, kurie
 
-reorganizavimo veiksiančiai viešajai įstaigai;
+turi teisę veikti kuriamų naujų viešųjų įstaigų vardu. Kuriamų naujų viešųjų įstaigų
 
-5) asmenys,
+vardu gali būti atliekami tik su viešosios įstaigos registravimu susiję veiksmai;
 
-kurie turi teisę veikti kuriamų naujų viešųjų įstaigų vardu. Kuriamų naujų viešųjų
+6) asmenys, kurie
 
-įstaigų vardu gali būti atliekami tik su viešosios įstaigos registravimu susiję
+turi pasirašyti po reorganizavimo veiksiančių viešųjų įstaigų įstatus;
 
-veiksmai;
+7) viešosios įstaigos
 
-6) asmenys,
+vadovui ir kitiems organams reorganizavimo metu suteikiamos papildomos teisės.
 
-kurie turi pasirašyti po reorganizavimo veiksiančių viešųjų įstaigų įstatus;
+3. Apie parengtas
 
-7) viešosios
+reorganizavimo sąlygas turi būti paskelbta visų reorganizavime dalyvaujančių viešųjų
 
-įstaigos vadovui ir kitiems organams reorganizavimo metu suteikiamos papildomos
+įstaigų įstatuose nurodytuose leidiniuose tris kartus ne mažesniais kaip trisdešimties
 
-teisės.
+dienų intervalais arba paskelbta vieną kartą ne vėliau kaip prieš trisdešimt dienų
 
-3. Apie
+iki visuotinio dalininkų susirinkimo, kurio darbotvarkėje numatyta priimti sprendimą
 
-parengtas reorganizavimo sąlygas turi būti paskelbta visų reorganizavime
+dėl reorganizavimo, ir pranešta raštu visiems viešosios įstaigos kreditoriams. Pranešime
 
-dalyvaujančių viešųjų įstaigų įstatuose nurodytuose leidiniuose tris kartus ne
+turi būti nurodyta:
 
-mažesniais kaip trisdešimties dienų intervalais arba paskelbta vieną kartą ne
-
-vėliau kaip prieš trisdešimt dienų iki visuotinio dalininkų susirinkimo, kurio
-
-darbotvarkėje numatyta priimti sprendimą dėl reorganizavimo, ir pranešta raštu
-
-visiems viešosios įstaigos kreditoriams. Pranešime turi būti nurodyta:
-
-1) šio straipsnio
+1) šio straipsnio
 
 2 dalies 1, 2 ir 4 punktuose nurodyta informacija;
 
-2) kur ir
+2) kur ir nuo kada
 
-nuo kada galima susipažinti su reorganizavimo sąlygomis, po reorganizavimo
+galima susipažinti su reorganizavimo sąlygomis, po reorganizavimo veiksiančių viešųjų
 
-veiksiančių viešųjų įstaigų įstatų projektais ir reorganizavime dalyvaujančių
+įstaigų įstatų projektais ir reorganizavime dalyvaujančių viešųjų įstaigų praėjusių
 
-viešųjų įstaigų praėjusių trejų finansinių metų metinėmis finansinėmis
+trejų finansinių metų metinėmis finansinėmis atskaitomybėmis.
 
-atskaitomybėmis.
+4. Reorganizavimo
 
-4. Reorganizavimo
+sąlygos ne vėliau kaip pirmą viešo paskelbimo dieną turi būti pateiktos juridinių
 
-sąlygos ne vėliau kaip pirmą viešo paskelbimo dieną turi būti pateiktos
+asmenų registrui.
 
-juridinių asmenų registrui.
+5. Ne vėliau kaip
 
-5. Ne
+likus trisdešimčiai dienų iki visuotinio dalininkų susirinkimo, kurio darbotvarkėje
 
-vėliau kaip likus trisdešimčiai dienų iki visuotinio dalininkų susirinkimo, kurio
+numatyta priimti sprendimą dėl reorganizavimo, reorganizavime dalyvaujančių viešųjų
 
-darbotvarkėje numatyta priimti sprendimą dėl reorganizavimo, reorganizavime
+įstaigų dalininkai turi teisę susipažinti su reorganizavimo sąlygomis, po reorganizavimo
 
-dalyvaujančių viešųjų įstaigų dalininkai turi teisę susipažinti su
+veiksiančių viešųjų įstaigų įstatų projektais, taip pat visų reorganizavime dalyvaujančių
 
-reorganizavimo sąlygomis, po reorganizavimo veiksiančių viešųjų įstaigų įstatų
+viešųjų įstaigų praėjusių trejų finansinių metų metinėmis finansinėmis atskaitomybėmis.
 
-projektais, taip pat visų reorganizavime dalyvaujančių viešųjų įstaigų
+Kiekvienas viešosios įstaigos dalininkas turi teisę gauti visų šioje dalyje išvardytų
 
-praėjusių trejų finansinių metų metinėmis finansinėmis atskaitomybėmis.
+dokumentų kopijas.
 
-Kiekvienas viešosios įstaigos dalininkas turi teisę gauti visų šioje dalyje
+6. Reorganizuojamos
 
-išvardytų dokumentų kopijas.
+viešosios įstaigos kreditorius turi teisę reikalauti prievolę nutraukti ar įvykdyti
 
-6. Reorganizuojamos
+prieš terminą, taip pat atlyginti nuostolius, jei tai numatyta sandoryje ar yra
 
-viešosios įstaigos kreditorius turi teisę reikalauti prievolę nutraukti ar
+pagrindas manyti, kad prievolės įvykdymas dėl reorganizavimo pasunkės, ir jei kreditoriaus
 
-įvykdyti prieš terminą, taip pat atlyginti nuostolius, jei tai numatyta
+reikalavimu viešoji įstaiga nesuteikė papildomo prievolių įvykdymo užtikrinimo.
 
-sandoryje ar yra pagrindas manyti, kad prievolės įvykdymas dėl reorganizavimo
+Reorganizuojamos viešosios įstaigos kreditorius savo reikalavimus gali pateikti
 
-pasunkės, ir jei kreditoriaus reikalavimu viešoji įstaiga nesuteikė papildomo
+ne vėliau kaip per du mėnesius nuo viešo paskelbimo apie viešosios įstaigos reorganizavimo
 
-prievolių įvykdymo užtikrinimo. Reorganizuojamos viešosios įstaigos kreditorius
+sąlygų parengimą pirmos dienos. Reorganizuojamos viešosios įstaigos kreditoriai
 
-savo reikalavimus gali pateikti ne vėliau kaip per du mėnesius nuo viešo
+turi teisę susipažinti su šio straipsnio 5 dalyje nurodytais dokumentais ir gauti
 
-paskelbimo apie viešosios įstaigos reorganizavimo sąlygų parengimą pirmos dienos.
+jų kopijas.
 
-Reorganizuojamos viešosios įstaigos kreditoriai turi teisę susipažinti su šio
+7.
 
-straipsnio 5 dalyje nurodytais dokumentais ir gauti jų kopijas.
+Sprendimą dėl viešosios įstaigos reorganizavimo priima ir kartu reorganizavimo
 
-7. Sprendimą
+sąlygas tvirtina bei priima po reorganizavimo veiksiančių viešųjų įstaigų
 
-dėl viešosios įstaigos reorganizavimo priima ir kartu reorganizavimo sąlygas
-
-tvirtina bei priima po reorganizavimo veiksiančių viešųjų įstaigų įstatus
-
-kiekvienos reorganizavime dalyvaujančios viešosios įstaigos visuotinis
+įstatus kiekvienos reorganizavime dalyvaujančios viešosios įstaigos visuotinis
 
 dalininkų susirinkimas kvalifikuota balsų dauguma. Įstatus turi pasirašyti
 
-reorganizavimo sąlygose nurodyti asmenys. Šių asmenų parašų tapatumas
+reorganizavimo sąlygose nurodyti asmenys. Šių asmenų parašų tikrumas notaro
 
-notariškai netvirtinamas.
+netvirtinamas.
 
-8. Sprendimo
+8.
 
-dėl viešosios įstaigos reorganizavimo priėmimą patvirtinantis dokumentas turi
+Sprendimo dėl viešosios įstaigos reorganizavimo priėmimą patvirtinantis dokumentas
 
-būti pateiktas juridinių asmenų registrui. Juridinių asmenų registro
+turi būti pateiktas juridinių asmenų registrui. Juridinių asmenų registro tvarkytojas
 
-tvarkytojas apie sprendimą dėl viešosios įstaigos reorganizavimo turi paskelbti
+apie sprendimą dėl viešosios įstaigos reorganizavimo turi paskelbti teisės aktų
 
-teisės aktų nustatyta tvarka.
+nustatyta tvarka.
 
-9. Reorganizavimas
+9. Reorganizavimas
 
-laikomas baigtu, kai juridinių asmenų registre įregistruojamos po
+laikomas baigtu, kai juridinių asmenų registre įregistruojamos po reorganizavimo
 
-reorganizavimo sukurtos naujos viešosios įstaigos ir jų įstatai ar
+sukurtos naujos viešosios įstaigos ir jų įstatai ar įregistruojami tęsiančių veiklą
 
-įregistruojami tęsiančių veiklą viešųjų įstaigų pakeisti įstatai.
-
-16
-
-straipsnis. Viešosios įstaigos pertvarkymas
-
-1. Viešoji
-
-įstaiga gali būti pertvarkoma į biudžetinę įstaigą, taip pat labdaros ir
-
-paramos fondą Civilinio kodekso, šio Įstatymo ir kitų teisės aktų nustatyta
-
-tvarka. Į labdaros ir paramos fondą negali būti pertvarkoma viešoji
-
-įstaiga, kurios dalininkas arba savininkas yra valstybė ar savivaldybė. Po
-
-pertvarkymo veiksiančiam viešajam juridiniam asmeniui pereina visos
-
-pertvarkomos viešosios įstaigos teisės ir pareigos.
-
-2. Viešoji
-
-įstaiga gali būti pertvarkoma į biudžetinę įstaigą, kai viešosios
-
-įstaigos savininkas yra valstybė arba savivaldybė, jeigu po pertvarkymo
-
-veiksianti valstybės ar savivaldybės biudžetinė įstaiga gali įgyvendinti
-
-pertvarkytosios viešosios įstaigos įstatuose nurodytus tikslus ir įgyti
-
-civilines teises ir pareigas, atitinkančias Biudžetinių įstaigų įstatymo
-
-reikalavimus.
-
-3. Sprendimas
-
-pertvarkyti viešąją įstaigą į biudžetinę įstaigą, išlaikomą iš Lietuvos
-
-valstybės biudžeto, turi būti suderintas su Finansų ministerija.
-
-4. Sprendimą
-
-pertvarkyti viešąją įstaigą ir kartu po pertvarkymo veiksiančio juridinio
-
-asmens steigimo dokumentus priima visuotinis dalininkų susirinkimas
-
-kvalifikuota balsų dauguma.
-
-5. Apie
-
-sprendimą pertvarkyti viešąją įstaigą turi būti paskelbta viešai teisės aktų ir
-
-įstatų nustatyta tvarka ir įstatuose nurodytame leidinyje tris kartus ne
-
-mažesniais kaip trisdešimties dienų intervalais arba paskelbta vieną kartą ir
-
-pranešta raštu visiems kreditoriams. Pranešime turi būti nurodyta:
-
-1) viešosios
-
-įstaigos pavadinimas;
-
-2) viešosios
-
-įstaigos buveinė;
-
-3) viešosios
-
-įstaigos kodas;
-
-4) registras,
-
-kuriame kaupiami ir saugomi duomenys apie pertvarkomą viešąją įstaigą;
-
-5) juridinio
-
-asmens, į kurį pertvarkoma viešoji įstaiga, teisinė forma;
-
-6) pertvarkomos
-
-viešosios įstaigos dalininko tapimo po pertvarkymo tęsiančio veiklą juridinio
-
-asmens dalyviu tvarka, sąlygos ir terminai;
-
-7) kur ir
-
-nuo kada galima susipažinti su veiksiančių po pertvarkymo juridinių asmenų
-
-steigimo dokumentais.
-
-6. Sprendimą
-
-pertvarkyti viešąją įstaigą patvirtinantis dokumentas turi būti pateiktas
-
-juridinių asmenų registrui. Juridinių asmenų registro tvarkytojas apie
-
-sprendimą pertvarkyti viešąją įstaigą turi paskelbti teisės aktų nustatyta
-
-tvarka.
-
-7. Pertvarkymas
-
-laikomas baigtu nuo veiksiančio po pertvarkymo juridinio asmens steigimo
-
-dokumentų įregistravimo juridinių asmenų registre.
-
-8. Steigimo
-
-dokumentai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui
-
-per šešis mėnesius nuo sprendimo dėl viešosios įstaigos pertvarkymo priėmimo.
-
-9. Vienu
-
-metu viešoji įstaiga negali būti ir reorganizuojama, ir pertvarkoma.
+viešųjų įstaigų pakeisti įstatai.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. X-1048,
+Nr. XI-606,
 
-2007-01-18, Žin., 2007, Nr. 17-631 (2007-02-08)
+2009-12-22, Žin., 2010, Nr. 1-17 (2010-01-05)
+
+16
+
+straipsnis. Viešosios įstaigos pertvarkymas
+
+1. Viešoji įstaiga
+
+gali būti pertvarkoma į biudžetinę įstaigą, taip pat labdaros ir paramos fondą Civilinio
+
+kodekso, šio Įstatymo ir kitų teisės aktų nustatyta tvarka. Į labdaros ir paramos
+
+fondą negali būti pertvarkoma viešoji įstaiga, kurios dalininkas arba savininkas
+
+yra valstybė ar savivaldybė. Po pertvarkymo veiksiančiam viešajam juridiniam
+
+asmeniui pereina visos pertvarkomos viešosios įstaigos teisės ir pareigos.
+
+2. Viešoji įstaiga
+
+gali būti pertvarkoma į biudžetinę įstaigą, kai viešosios įstaigos savininkas yra valstybė
+
+arba savivaldybė, jeigu po pertvarkymo veiksianti valstybės ar savivaldybės biudžetinė
+
+įstaiga gali įgyvendinti pertvarkytosios viešosios įstaigos įstatuose nurodytus
+
+tikslus ir įgyti civilines teises ir pareigas, atitinkančias Biudžetinių įstaigų
+
+įstatymo reikalavimus.
+
+3. Sprendimas pertvarkyti
+
+viešąją įstaigą į biudžetinę įstaigą, išlaikomą iš Lietuvos valstybės biudžeto,
+
+turi būti suderintas su Finansų ministerija.
+
+4. Sprendimą pertvarkyti
+
+viešąją įstaigą ir kartu po pertvarkymo veiksiančio juridinio asmens steigimo dokumentus
+
+priima visuotinis dalininkų susirinkimas kvalifikuota balsų dauguma.
+
+5. Apie sprendimą
+
+pertvarkyti viešąją įstaigą turi būti paskelbta viešai teisės aktų ir įstatų nustatyta
+
+tvarka ir įstatuose nurodytame leidinyje tris kartus ne mažesniais kaip trisdešimties
+
+dienų intervalais arba paskelbta vieną kartą ir pranešta raštu visiems kreditoriams.
+
+Pranešime turi būti nurodyta:
+
+1) viešosios įstaigos
+
+pavadinimas;
+
+2) viešosios įstaigos
+
+buveinė;
+
+3) viešosios įstaigos
+
+kodas;
+
+4) registras, kuriame
+
+kaupiami ir saugomi duomenys apie pertvarkomą viešąją įstaigą;
+
+5) juridinio asmens,
+
+į kurį pertvarkoma viešoji įstaiga, teisinė forma;
+
+6) pertvarkomos viešosios
+
+įstaigos dalininko tapimo po pertvarkymo tęsiančio veiklą juridinio asmens dalyviu
+
+tvarka, sąlygos ir terminai;
+
+7) kur ir nuo kada
+
+galima susipažinti su veiksiančių po pertvarkymo juridinių asmenų steigimo dokumentais.
+
+6.
+
+Sprendimą pertvarkyti viešąją įstaigą patvirtinantis dokumentas turi būti pateiktas
+
+juridinių asmenų registrui. Juridinių asmenų registro tvarkytojas apie sprendimą
+
+pertvarkyti viešąją įstaigą turi paskelbti teisės aktų nustatyta tvarka.
+
+7. Pertvarkymas laikomas
+
+baigtu nuo veiksiančio po pertvarkymo juridinio asmens steigimo dokumentų įregistravimo
+
+juridinių asmenų registre.
+
+8. Steigimo dokumentai
+
+netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per šešis mėnesius
+
+nuo sprendimo dėl viešosios įstaigos pertvarkymo priėmimo.
+
+9. Vienu metu viešoji
+
+įstaiga negali būti ir reorganizuojama, ir pertvarkoma.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. X-1048, 2007-01-18,
+
+Žin., 2007, Nr. 17-631 (2007-02-08)
 
 17
 
 straipsnis. Viešosios įstaigos likvidavimas
 
-1. Viešoji
+1. Viešoji įstaiga
 
-įstaiga gali būti likviduojama Civilinio kodekso nustatytais juridinių asmenų
+gali būti likviduojama Civilinio kodekso nustatytais juridinių asmenų likvidavimo
 
-likvidavimo pagrindais.
+pagrindais.
 
-2. Visuotinis
+2. Visuotinis dalininkų
 
-dalininkų susirinkimas ar teismas, priėmę sprendimą likviduoti viešąją įstaigą,
+susirinkimas ar teismas, priėmę sprendimą likviduoti viešąją įstaigą, arba juridinių
 
-arba juridinių asmenų registro tvarkytojas, kai jo iniciatyva teismas priima
+asmenų registro tvarkytojas, kai jo iniciatyva teismas priima sprendimą likviduoti
 
-sprendimą likviduoti viešąją įstaigą, privalo paskirti likvidatorių.
+viešąją įstaigą, privalo paskirti likvidatorių.
 
-3. Jei
+3. Jei likvidavimo
 
-likvidavimo pagrindas yra laikotarpio, kuriam buvo įsteigta viešoji įstaiga,
+pagrindas yra laikotarpio, kuriam buvo įsteigta viešoji įstaiga, pabaiga, likus
 
-pabaiga, likus ne mažiau kaip trims mėnesiams iki šio laikotarpio pabaigos,
+ne mažiau kaip trims mėnesiams iki šio laikotarpio pabaigos, visuotinis dalininkų
 
-visuotinis dalininkų susirinkimas privalo paskirti likvidatorių arba priimti
+susirinkimas privalo paskirti likvidatorių arba priimti sprendimą pratęsti veiklos
 
-sprendimą pratęsti veiklos laikotarpį ir pakeisti viešosios įstaigos įstatus.
+laikotarpį ir pakeisti viešosios įstaigos įstatus. Šiuo atveju priėmus nutarimą
 
-Šiuo atveju priėmus nutarimą dėl likvidavimo, viešoji įstaiga įgyja
+dėl likvidavimo, viešoji įstaiga įgyja likviduojamos viešosios įstaigos statusą
 
-likviduojamos viešosios įstaigos statusą ir likvidatorius įgyja valdymo organų
+ir likvidatorius įgyja valdymo organų teises ir pareigas ne vėliau kaip pirmą dieną
 
-teises ir pareigas ne vėliau kaip pirmą dieną po įstatuose nustatyto veiklos
+po įstatuose nustatyto veiklos laikotarpio pabaigos. Jei visuotinis dalininkų susirinkimas
 
-laikotarpio pabaigos. Jei visuotinis dalininkų susirinkimas nepriima sprendimo
+nepriima sprendimo pratęsti viešosios įstaigos veiklos laikotarpį ir nepaskiria
 
-pratęsti viešosios įstaigos veiklos laikotarpį ir nepaskiria likvidatoriaus,
+likvidatoriaus, bet kuris viešosios įstaigos dalininkas, taip pat juridinių asmenų
 
-bet kuris viešosios įstaigos dalininkas, taip pat juridinių asmenų registro
+registro tvarkytojas turi teisę kreiptis į teismą, kad šis paskirtų likvidatorių.
 
-tvarkytojas turi teisę kreiptis į teismą, kad šis paskirtų likvidatorių.
+4. Jei likvidavimo
 
-4. Jei
+pagrindas yra teismo ar kreditorių susirinkimo sprendimas likviduoti bankrutavusią
 
-likvidavimo pagrindas yra teismo ar kreditorių susirinkimo sprendimas
+viešąją įstaigą, ji likviduojama Įmonių bankroto įstatymo nustatyta tvarka.
 
-likviduoti bankrutavusią viešąją įstaigą, ji likviduojama Įmonių bankroto
+5. Nuo likvidatoriaus
 
-įstatymo nustatyta tvarka.
+paskyrimo dienos viešosios įstaigos valdymo organai netenka įgaliojimų. Visuotinis
 
-5. Nuo
+dalininkų susirinkimas gali būti sušauktas įstatuose nustatyta tvarka.
 
-likvidatoriaus paskyrimo dienos viešosios įstaigos valdymo organai netenka
+6. Viešosios įstaigos
 
-įgaliojimų. Visuotinis dalininkų susirinkimas gali būti sušauktas įstatuose
+visuotinis dalininkų susirinkimas gali pakeisti likvidatorių ar atšaukti viešosios
 
-nustatyta tvarka.
+įstaigos likvidavimą, kai viešoji įstaiga likviduojama visuotinio dalininkų susirinkimo
 
-6. Viešosios
+sprendimu ar pasibaigus laikotarpiui, kuriam ji buvo įsteigta.
 
-įstaigos visuotinis dalininkų susirinkimas gali pakeisti likvidatorių ar
+7. Apie viešosios
 
-atšaukti viešosios įstaigos likvidavimą, kai viešoji įstaiga likviduojama
+įstaigos likvidavimą turi būti paskelbta teisės aktų ir įstatų nustatyta tvarka
 
-visuotinio dalininkų susirinkimo sprendimu ar pasibaigus laikotarpiui, kuriam
+įstatuose nurodytame leidinyje tris kartus ne mažesniais kaip trisdešimties dienų
 
-ji buvo įsteigta.
+intervalais arba paskelbta vieną kartą ir pranešta visiems viešosios įstaigos kreditoriams
 
-7. Apie
+raštu. Pranešime turi būti nurodyta:
 
-viešosios įstaigos likvidavimą turi būti paskelbta teisės aktų ir įstatų
+1) viešosios įstaigos
 
-nustatyta tvarka įstatuose nurodytame leidinyje tris kartus ne mažesniais kaip
+pavadinimas;
 
-trisdešimties dienų intervalais arba paskelbta vieną kartą ir pranešta visiems
+2) viešosios įstaigos
 
-viešosios įstaigos kreditoriams raštu. Pranešime turi būti nurodyta:
+buveinė;
 
-1) viešosios
+3) viešosios įstaigos
 
-įstaigos pavadinimas;
+kodas;
 
-2) viešosios
+4) registras, kuriame
 
-įstaigos buveinė;
+kaupiami ir saugomi duomenys apie likviduojamą viešąją įstaigą;
 
-3) viešosios
+5) sprendimo likviduoti
 
-įstaigos kodas;
+viešąją įstaigą priėmimo data.
 
-4) registras,
+8.
 
-kuriame kaupiami ir saugomi duomenys apie likviduojamą viešąją įstaigą;
+Likvidatorius turi pateikti juridinių asmenų registrui sprendimą likviduoti viešąją
 
-5) sprendimo
-
-likviduoti viešąją įstaigą priėmimo data.
-
-8. Likvidatorius
-
-turi pateikti juridinių asmenų registrui sprendimą likviduoti viešąją įstaigą
-
-patvirtinantį dokumentą ir duomenis apie save. Juridinių asmenų registro
+įstaigą patvirtinantį dokumentą ir duomenis apie save. Juridinių asmenų registro
 
 tvarkytojas apie šį nutarimą turi paskelbti teisės aktų nustatyta tvarka.
 
-9. Likviduojamos
+9. Likviduojamos
 
 viešosios įstaigos kreditorių reikalavimai tenkinami įstatymų nustatyta tvarka.
 
-Patenkinus visus kreditorių reikalavimus, iš likusio viešosios įstaigos turto
+Patenkinus visus kreditorių reikalavimus, iš likusio viešosios įstaigos turto dalininkams
 
-dalininkams grąžinamas turtas, kurio bendra vertė negali būti didesnė nei
+grąžinamas turtas, kurio bendra vertė negali būti didesnė nei dalininkų kapitalas.
 
-dalininkų kapitalas. Dalininkams grąžinamas turtas paskirstomas proporcingai jų
+Dalininkams grąžinamas turtas paskirstomas proporcingai jų įnašų vertei. Likus nepaskirstyto
 
-įnašų vertei. Likus nepaskirstyto turto, jis perduodamas kitiems juridinių
+turto, jis perduodamas kitiems juridinių asmenų registre įregistruotiems viešiesiems
 
-asmenų registre įregistruotiems viešiesiems juridiniams asmenims, kuriuos
+juridiniams asmenims, kuriuos nustato visuotinis dalininkų susirinkimas ar teismas,
 
-nustato visuotinis dalininkų susirinkimas ar teismas, priėmę sprendimą
+priėmę sprendimą likviduoti viešąją įstaigą. Jeigu viešosios įstaigos dalininkas
 
-likviduoti viešąją įstaigą. Jeigu viešosios įstaigos dalininkas yra valstybė ir
+yra valstybė ir (ar) savivaldybė, likusi nepaskirstyta turto dalis, proporcinga
 
-(ar) savivaldybė, likusi nepaskirstyta turto dalis, proporcinga valstybės ir
+valstybės ir (ar) savivaldybės įnašo vertei, likvidavus viešąją įstaigą, atitenka
 
-(ar) savivaldybės įnašo vertei, likvidavus viešąją įstaigą, atitenka valstybei
+valstybei ir (ar) savivaldybei.
 
-ir (ar) savivaldybei.
+10. Priimtas sprendimas
 
-10. Priimtas
+dėl viešosios įstaigos likvidavimo negali būti atšauktas, jei bent vienas dalininkas
 
-sprendimas dėl viešosios įstaigos likvidavimo negali būti atšauktas, jei bent
-
-vienas dalininkas gavo dalį likviduojamos viešosios įstaigos turto.
+gavo dalį likviduojamos viešosios įstaigos turto.
 
 18
 
 straipsnis. Likvidatoriaus kompetencija
 
-1. Likvidatorius turi viešosios įstaigos vadovo
+1. Likvidatorius turi viešosios įstaigos vadovo ir kito
 
-ir kito valdymo organo, jei šis sudaromas, teises ir pareigas. Likvidatoriui
+valdymo organo, jei šis sudaromas, teises ir pareigas. Likvidatoriui keliami tie
 
-keliami tie patys reikalavimai kaip ir viešosios įstaigos vadovui.
+patys reikalavimai kaip ir viešosios įstaigos vadovui.
 
-2. Be kitų
+2. Be kitų šiame
 
-šiame Įstatyme ir Civiliniame kodekse nustatytų pareigų, viešosios įstaigos
+Įstatyme ir Civiliniame kodekse nustatytų pareigų, viešosios įstaigos likvidatoriui
 
-likvidatoriui priskiriamos šios pareigos:
+priskiriamos šios pareigos:
 
-1) pranešti
+1) pranešti juridinių
 
-juridinių asmenų registrui apie sprendimą likviduoti viešąją įstaigą ir
+asmenų registrui apie sprendimą likviduoti viešąją įstaigą ir duomenis apie likvidatorių;
 
-duomenis apie likvidatorių;
+2) paskelbti šio
 
-2) paskelbti
+Įstatymo 17 straipsnio 7 dalyje nurodytą informaciją;
 
-šio Įstatymo 17 straipsnio 7 dalyje nurodytą informaciją;
+3) sudaryti likvidavimo
 
-3) sudaryti
+laikotarpio pradžios viešosios įstaigos balansą;
 
-likvidavimo laikotarpio pradžios viešosios įstaigos balansą;
+4) baigti vykdyti
 
-4) baigti
+viešosios įstaigos prievoles, atsiskaityti su viešosios įstaigos kreditoriais;
 
-vykdyti viešosios įstaigos prievoles, atsiskaityti su viešosios įstaigos
+5) pareikšti reikalavimus
 
-kreditoriais;
+viešosios įstaigos skolininkams;
 
-5) pareikšti
+6) perduoti likusį
 
-reikalavimus viešosios įstaigos skolininkams;
+viešosios įstaigos turtą šio Įstatymo nustatyta tvarka;
 
-6) perduoti
+7) sudaryti viešosios
 
-likusį viešosios įstaigos turtą šio Įstatymo nustatyta tvarka;
+įstaigos likvidavimo aktą;
 
-7) sudaryti
+8) perduoti dokumentus
 
-viešosios įstaigos likvidavimo aktą;
+saugoti Archyvų įstatymo nustatyta tvarka;
 
-8) perduoti
+9) pateikti juridinių
 
-dokumentus saugoti Archyvų įstatymo nustatyta tvarka;
+asmenų registrui viešosios įstaigos likvidavimo aktą bei kitus dokumentus, kurių
 
-9) pateikti
+reikia likviduotai viešajai įstaigai išregistruoti.
 
-juridinių asmenų registrui viešosios įstaigos likvidavimo aktą bei kitus
+Skelbiu šį Lietuvos Respublikos
 
-dokumentus, kurių reikia likviduotai viešajai įstaigai išregistruoti.
+Seimo priimtą įstatymą.
 
-Skelbiu šį Lietuvos
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 
-Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS
-
-PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
+BRAZAUSKAS
 
 _________________
 
@@ -2029,25 +2173,23 @@ RESPUBLIKOS VIEŠŲJŲ ĮSTAIGŲ ĮSTATYMO 16 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1687, 00.05.18, Žin., 2000,
+Nr. VIII-1687, 00.05.18, Žin., 2000, Nr.47-1341
 
-Nr.47-1341 (00.06.09)
+(00.06.09)
 
-VIEŠŲJŲ ĮSTAIGŲ ĮSTATYMO 5 STRAIPSNIO PAPILDYMO
+VIEŠŲJŲ ĮSTAIGŲ ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
-ĮSTATYMAS
+Šis įstatymas
 
-Šis
-
-įstatymas įsigalioja nuo 2000 m. liepos 1 d.
+įsigalioja nuo 2000 m. liepos 1 d.
 
 3.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1921, 00.09.12, Žin., 2000,
+Nr. VIII-1921, 00.09.12, Žin., 2000, Nr.83-2513
 
-Nr.83-2513 (00.10.04)
+(00.10.04)
 
 VIEŠŲJŲ ĮSTAIGŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
@@ -2057,9 +2199,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-686,
+Nr. IX-686, 2001-12-21,
 
-2001-12-21, Žin., 2001, Nr. 112-4092 (2001-12-30)
+Žin., 2001, Nr. 112-4092 (2001-12-30)
 
 VIEŠŲJŲ
 
@@ -2071,9 +2213,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1731,
+Nr. IX-1731, 2003-09-16,
 
-2003-09-16, Žin., 2003, Nr. 90-4063 (2003-09-24)
+Žin., 2003, Nr. 90-4063 (2003-09-24)
 
 VIEŠŲJŲ
 
@@ -2085,9 +2227,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1977,
+Nr. IX-1977, 2004-01-27,
 
-2004-01-27, Žin., 2004, Nr. 25-752 (2004-02-14)
+Žin., 2004, Nr. 25-752 (2004-02-14)
 
 VIEŠŲJŲ
 
@@ -2105,15 +2247,13 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1048,
+X-1048, 2007-01-18,
 
-2007-01-18, Žin., 2007, Nr. 17-631 (2007-02-08)
+Žin., 2007, Nr. 17-631 (2007-02-08)
 
 VIEŠŲJŲ
 
-ĮSTAIGŲ ĮSTATYMO 2, 4, 5, 7, 9, 10, 13, 16 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-
-ĮSTATYMAS
+ĮSTAIGŲ ĮSTATYMO 2, 4, 5, 7, 9, 10, 13, 16 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 8.
 
@@ -2121,13 +2261,29 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. XI-243,
+Nr. XI-243, 2009-04-30,
 
-2009-04-30, Žin., 2009, Nr. 54-2141 (2009-05-12)
+Žin., 2009, Nr. 54-2141 (2009-05-12)
 
 VIEŠŲJŲ
 
 ĮSTAIGŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-606,
+
+2009-12-22, Žin., 2010, Nr. 1-17 (2010-01-05)
+
+VIEŠŲJŲ
+
+ĮSTAIGŲ ĮSTATYMO 5, 6, 8, 10, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 ***
 
@@ -2135,9 +2291,9 @@ Pabaiga ***
 
 Redagavo
 
-Aušra Bodin (2009-05-12)
+Aušrinė Trapinskienė (2010-01-14)
 
-aubodi@lrs.lt
+autrap@lrs.lt
 
 14 straipsnis.
 
