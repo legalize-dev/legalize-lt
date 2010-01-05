@@ -4,7 +4,7 @@ identifier: "TAR.FF00B0EA2F0E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-01-22"
-last_updated: "2004-02-14"
+last_updated: "2010-01-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF00B0EA2F0E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asociacijų įstatymas
+
+Suvestinė redakcija nuo 2010-01-05 iki 2010-12-27
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 25-745, i. k. 1041010ISTA0IX-1969
 
 LIETUVOS RESPUBLIKOS
 
@@ -76,7 +80,13 @@ ASOCIACIJOS STEIGIMAS IR REGISTRAVIMAS
 
 2) steigiamos asociacijos pavadinimas;
 
-3) steigimo sutarties sudarymo data.
+3) steigimo sutarties sudarymo data;
+
+4) steigiamos asociacijos buveinė.
+
+Papildyta straipsnio punktu:
+
+Nr. XI-610, 2009-12-22, Žin., 2010, Nr. 1-21 (2010-01-05), i. k. 1091010ISTA00XI-610
 
 2. Asociacijos steigimo sutartyje taip pat gali būti nurodyta:
 
@@ -102,11 +112,11 @@ ASOCIACIJOS STEIGIMAS IR REGISTRAVIMAS
 
 4. Asociacija laikoma įsteigta nuo įregistravimo juridinių asmenų registre.
 
-5. Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų registre nurodomi šie asociacijos duomenys:
+5. Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų registre nurodomas asociacijos veiklos laikotarpis, jei jis yra ribotas.
 
-1) veiklos laikotarpis, jei jis yra ribotas;
+Straipsnio dalies pakeitimai:
 
-2) finansinių metų pradžios ir pabaigos datos.
+Nr. XI-610, 2009-12-22, Žin., 2010, Nr. 1-21 (2010-01-05), i. k. 1091010ISTA00XI-610
 
 TREČIASIS SKIRSNIS
 
@@ -216,7 +226,11 @@ ASOCIACIJOS VEIKLA
 
 2) asociacijos teisinė forma – asociacija;
 
-3) asociacijos buveinė;
+3) asociacijos buveinės keitimo tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-610, 2009-12-22, Žin., 2010, Nr. 1-21 (2010-01-05), i. k. 1091010ISTA00XI-610
 
 4) asociacijos veiklos tikslai, kurie turi būti apibūdinti aiškiai ir išsamiai, nurodant veiklos sritis bei rūšis;
 
@@ -394,41 +408,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
 
-101 straipsnis. Metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir metinės ataskaitos pasirašymas, skelbimas ir teikimas
+Pakeitimai:
 
-1. Metinių finansinių ataskaitų rinkinys, veiklos ataskaita ir metinė ataskaita turi būti pasirašyti asociacijos įstatuose nurodyto valdymo organo nario. Šiuose dokumentuose turi būti nurodytos pasirašančio asmens pareigos, vardas ir pavardė.
+1.
 
-2. Metinių finansinių ataskaitų rinkinys, veiklos ataskaita kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas), taip pat metinė ataskaita yra vieši dokumentai. Šie dokumentai, išskyrus fizinių asmenų asmens duomenis, kurie pagal įstatymus, reglamentuojančius fizinių asmenų asmens duomenų apsaugą, viešai neskelbiami, turi būti paskelbti asociacijos interneto svetainėje, jeigu asociacija ją turi. Be to, tretiesiems asmenims turi būti sudarytos sąlygos su šiais dokumentais susipažinti asociacijos buveinėje.
+Lietuvos Respublikos Seimas, Įstatymas
 
-3. Asociacijos veiklos ataskaita turi būti pateikta Juridinių asmenų registro tvarkytojui kartu su metinių finansinių ataskaitų rinkiniu, o tais atvejais, kai yra atliktas finansinių ataskaitų auditas, kartu su audituotu metinių finansinių ataskaitų rinkiniu turi būti pateikta ir auditoriaus išvada. Asociacija, kuri turi teisę rengti metinę ataskaitą šio Įstatymo 10 straipsnio 6 dalyje nurodytu atveju, metinę ataskaitą turi pateikti Juridinių asmenų registro tvarkytojui. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai skelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
+Nr. XI-610, 2009-12-22, Žin., 2010, Nr. 1-21 (2010-01-05), i. k. 1091010ISTA00XI-610
 
-TAR pastaba. 101 straipsnio nuostatos taikomos rengiant 2019-01-01 vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
-
-Papildyta straipsniu:
-
-Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
-
-KETVIRTASIS SKIRSNIS
-
-ASOCIACIJOS VEIKLA
-
-102 straipsnis. Finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėsena
-
-1. Atliekant finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėseną, vertinama Juridinių asmenų registro tvarkytojui pateiktų finansinių ataskaitų ir (arba) veiklos ataskaitos atitiktis reikalavimams, nustatytiems šių ataskaitų rengimą reglamentuojančiuose teisės aktuose.
-
-2. Finansų ministras nustato Juridinių asmenų registro tvarkytojui pateiktų finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėsenos tvarką ir paskiria instituciją šiai stebėsenai atlikti (toliau šiame straipsnyje – stebėsenos institucija).
-
-3. Stebėsenos institucija, atlikdama asociacijos finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėseną, turi teisę kreiptis į asociaciją su prašymu pateikti papildomą informaciją, reikalingą finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėsenai atlikti.
-
-4. Gavusi stebėsenos institucijos prašymą pateikti papildomą informaciją, reikalingą finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėsenai atlikti, asociacija šią informaciją turi pateikti per 10 darbo dienų.
-
-5. Jeigu stebėsenos institucija, atlikdama asociacijos finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėseną, nustato reikšmingų finansinių ataskaitų ir (arba) veiklos ataskaitos trūkumų, Juridinių asmenų registro tvarkytojui pateikia pranešimą apie tai. Šio pranešimo pagrindu Juridinių asmenų registre įregistruojamas faktas, kad atliekant stebėseną buvo nustatyta reikšmingų finansinių ataskaitų ir (arba) veiklos ataskaitos trūkumų. Šis faktas neturi būti išregistruotas iš Juridinių asmenų registro, kol atitinkamos ataskaitos tvarkomos šiame registre. Reikšmingų trūkumų kriterijus nustato stebėsenos institucija.
-
-Papildyta straipsniu:
-
-Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
-
-KETVIRTASIS SKIRSNIS
-
-ASOCIACIJOS VEIKLA
+Lietuvos Respublikos asociacijų įstatymo 5, 6, 12 straipsnių pakeitimo ir papildymo įstatymas
 
