@@ -4,7 +4,7 @@ identifier: "TAR.FD474D5CE327"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-18"
-last_updated: "2009-06-06"
+last_updated: "2010-01-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FD474D5CE327"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos sodininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2009-06-06 iki 2010-01-04
+Suvestinė redakcija nuo 2010-01-05 iki 2010-09-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-40, i. k. 1031010ISTA0IX-1934
 
@@ -201,7 +201,11 @@ BENDRIJOS STEIGIMAS
 
 4. Steigiamajam susirinkimui (taip pat pakartotiniam susirinkimui) taikomos šio Įstatymo nuostatos bendrijos narių susirinkimui dėl kvorumo, sprendimų priėmimo bei protokolo surašymo.
 
-5. Steigiamasis susirinkimas turi patvirtinti bendrijos įstatus, išrinkti bendrijos narių susirinkimo renkamų bendrijos organų narius.
+5. Steigiamasis susirinkimas turi patvirtinti bendrijos įstatus, išrinkti bendrijos narių susirinkimo renkamų bendrijos organų narius, priimti sprendimą dėl bendrijos buveinės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-603, 2009-12-22, Žin., 2010, Nr. 1-14 (2010-01-05), i. k. 1091010ISTA00XI-603
 
 6. Steigiamojo susirinkimo sprendimai priimami kvalifikuota 2/3 susirinkime dalyvavusių mėgėjiško sodo teritorijos sodininkų balsų dauguma.
 
@@ -217,7 +221,11 @@ BENDRIJOS STEIGIMAS
 
 2) teisinė forma – bendrija;
 
-3) bendrijos buveinė;
+3) bendrijos buveinės keitimo tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-603, 2009-12-22, Žin., 2010, Nr. 1-14 (2010-01-05), i. k. 1091010ISTA00XI-603
 
 4) bendrijos veiklos tikslai;
 
@@ -734,4 +742,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-266, 2009-05-21, Žin., 2009, Nr. 67-2684 (2009-06-06), i. k. 1091010ISTA00XI-266
 
 Lietuvos Respublikos sodininkų bendrijų įstatymo 15, 16, 18 straipsnių pakeitimo ir papildymo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-603, 2009-12-22, Žin., 2010, Nr. 1-14 (2010-01-05), i. k. 1091010ISTA00XI-603
+
+Lietuvos Respublikos sodininkų bendrijų įstatymo 10 ir 11 straipsnių pakeitimo įstatymas
 
