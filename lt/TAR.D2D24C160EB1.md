@@ -4,7 +4,7 @@ identifier: "TAR.D2D24C160EB1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-14"
-last_updated: "2004-01-13"
+last_updated: "2010-01-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D2D24C160EB1"
 department: "Lietuvos Respublikos Seimas"
@@ -26,19 +26,17 @@ Neoficialus
 
 įstatymo tekstas
 
-LIETUVOS
+LIETUVOS RESPUBLIKOS
 
-RESPUBLIKOS
+LABDAROS IR PARAMOS
 
-LABDAROS IR
-
-PARAMOS FONDŲ
+FONDŲ
 
 ĮSTATYMAS
 
-1996 m. kovo 14
+1996 m. kovo 14 d.
 
-d. Nr. I-1232
+Nr. I-1232
 
 Vilnius
 
@@ -50,15 +48,13 @@ nuo 2004 m. sausio 13 d.:
 
 Nr.
 
-IX-1940,
+IX-1940, 2003-12-22,
 
-2003-12-22, Žin., 2004, Nr. 7-128 (2004-01-13)
+Žin., 2004, Nr. 7-128 (2004-01-13)
 
 PIRMASIS SKIRSNIS
 
-BENDROSIOS
-
-NUOSTATOS
+BENDROSIOS NUOSTATOS
 
 18 straipsnis. Baigiamosios
 
@@ -172,27 +168,27 @@ Aušrinė Trapinskienė (2001-12-05)
 
 autrap@lrs.lt
 
-1 straipsnis.
+1 straipsnis. Įstatymo
 
-Įstatymo paskirtis
+paskirtis
 
 1. Šis Įstatymas
 
 reglamentuoja juridinių asmenų, kurių teisinė forma yra labdaros ir paramos fondas
 
-(toliau – fondas), steigimą, valdymą, veiklą, pertvarkymo, pabaigos
+(toliau – fondas), steigimą, valdymą, veiklą, pertvarkymo, pabaigos (reorganizavimo
 
-(reorganizavimo ir likvidavimo) ypatumus.
+ir likvidavimo) ypatumus.
 
 2. Šis Įstatymas
 
-netaikomas kredito ir draudimo organizacijoms, turinčioms fondo pavadinimą,
+netaikomas kredito ir draudimo organizacijoms, turinčioms fondo pavadinimą, taip
 
-taip pat fondams, kurie steigiami pagal atskirus įstatymus arba tarptautines
+pat fondams, kurie steigiami pagal atskirus įstatymus arba tarptautines sutartis
 
-sutartis su kitomis valstybėmis bei tarptautinėmis organizacijomis ir
+su kitomis valstybėmis bei tarptautinėmis organizacijomis ir reglamentuojami sutarties
 
-reglamentuojami sutarties sąlygomis.
+sąlygomis.
 
 2
 
@@ -200,53 +196,49 @@ straipsnis. Fondo samprata
 
 1. Fondas – savo
 
-pavadinimą turintis ribotos civilinės atsakomybės viešasis juridinis asmuo,
+pavadinimą turintis ribotos civilinės atsakomybės viešasis juridinis asmuo, kurio
 
-kurio pagrindiniai veiklos tikslai – labdaros arba (ir) paramos bei kitokios
+pagrindiniai veiklos tikslai – labdaros arba (ir) paramos bei kitokios pagalbos
 
-pagalbos teikimas Lietuvos Respublikos labdaros ir paramos įstatymo (toliau –
+teikimas Lietuvos Respublikos labdaros ir paramos įstatymo (toliau – Labdaros ir
 
-Labdaros ir paramos įstatymas) ir šio Įstatymo nustatyta tvarka fiziniams ir
+paramos įstatymas) ir šio Įstatymo nustatyta tvarka fiziniams ir juridiniams asmenims
 
-juridiniams asmenims mokslo, kultūros, švietimo, meno, religijos, sporto,
+mokslo, kultūros, švietimo, meno, religijos, sporto, sveikatos apsaugos, socialinės
 
-sveikatos apsaugos, socialinės globos ir rūpybos, aplinkos apsaugos ir kitose
+globos ir rūpybos, aplinkos apsaugos ir kitose visuomenei naudingomis ir nesavanaudiškomis
 
-visuomenei naudingomis ir nesavanaudiškomis pripažįstamose srityse.
+pripažįstamose srityse.
 
-2. Fondo
+2. Fondo pavadinime
 
-pavadinime turi būti žodžiai „labdaros“ ar „paramos“ arba „labdaros ir
-
-paramos“.
+turi būti žodžiai „labdaros“ ar „paramos“ arba „labdaros ir paramos“.
 
 3. Fondo buveinė
 
 turi būti Lietuvos Respublikoje.
 
-4. Fondas
+4. Fondas privalo
 
-privalo turėti bent vieną sąskaitą banke.
+turėti bent vieną sąskaitą banke.
 
 3
 
 straipsnis. Fondo veiklos pagrindai
 
-Fondas veikia
+Fondas veikia pagal
 
-pagal Lietuvos Respublikos Konstituciją (toliau – Konstitucija), Lietuvos
+Lietuvos Respublikos Konstituciją (toliau – Konstitucija), Lietuvos Respublikos
 
-Respublikos civilinį kodeksą (toliau – Civilinis kodeksas), Labdaros ir paramos
+civilinį kodeksą (toliau – Civilinis kodeksas), Labdaros ir paramos įstatymą, šį
 
-įstatymą, šį bei kitus įstatymus, Vyriausybės nutarimus ir savo įstatus.
+bei kitus įstatymus, Vyriausybės nutarimus ir savo įstatus.
 
-ANTRASIS
+ANTRASIS SKIRSNIS
 
-SKIRSNIS
+FONDO STEIGIMAS IR
 
-FONDO STEIGIMAS
-
-IR REGISTRAVIMAS
+REGISTRAVIMAS
 
 4
 
@@ -258,133 +250,135 @@ gali būti fiziniai bei juridiniai asmenys, sudarę fondo steigimo sutartį ir i
 
 fondo įregistravimo juridinių asmenų registre įsipareigoję skirti fondui įnašus
 
-pinigais ar turtu, teikti fondui paslaugas. Jeigu fondą steigia vienas asmuo,
+pinigais ar turtu, teikti fondui paslaugas. Jeigu fondą steigia vienas asmuo, vietoj
 
-vietoj steigimo sutarties jis surašo steigimo aktą, kuriam taikomi steigimo
+steigimo sutarties jis surašo steigimo aktą, kuriam taikomi steigimo sutarties reikalavimai.
 
-sutarties reikalavimai.
+2. Fondo steigėjais
 
-2. Fondo
+negali būti asmenys, kurie pagal Labdaros ir paramos įstatymą negali būti paramos
 
-steigėjais negali būti asmenys, kurie pagal Labdaros ir paramos įstatymą negali
+teikėjais.
 
-būti paramos teikėjais.
+3. Fondo steigimo
 
-3. Fondo
+sutartį (steigimo aktą) pasirašo visi steigėjai.
 
-steigimo sutartį (steigimo aktą) pasirašo visi steigėjai.
+4. Visi fondo steigėjai
 
-4. Visi fondo
+nuo fondo įregistravimo juridinių asmenų registre tampa
 
-steigėjai nuo fondo įregistravimo juridinių asmenų
+jo dalininkais.
 
-registre tampa jo dalininkais.
+5. Fondo steigėjai iki fondo įregistravimo parengia įstatų
 
-5. Fondo steigėjai iki fondo įregistravimo parengia
+projektą ir sušaukia steigiamąjį susirinkimą, kuriame priimami įstatai ir sudaromas
 
-įstatų projektą ir sušaukia steigiamąjį susirinkimą, kuriame priimami įstatai
+bent vienas valdymo organas.
 
-ir sudaromas bent vienas valdymo organas.
+6. Steigiamo fondo
 
-6. Steigiamo
+vardu veikia steigimo sutartyje (steigimo akte) nurodytas arba steigiamojo susirinkimo
 
-fondo vardu veikia steigimo sutartyje (steigimo akte) nurodytas arba
-
-steigiamojo susirinkimo įgaliotas asmuo.
+įgaliotas asmuo.
 
 5
 
 straipsnis. Fondo steigimo sutartis
 
-1. Fondo steigimo sutartyje (steigimo akte) turi
+1. Fondo steigimo sutartyje (steigimo akte) turi būti
 
-būti nurodyta:
+nurodyta:
 
-1) steigėjai
+1) steigėjai (fizinių
 
-(fizinių asmenų vardai, pavardės, asmens kodai, adresai, juridinių asmenų
+asmenų vardai, pavardės, asmens kodai, adresai, juridinių asmenų pavadinimai, kodai,
 
-pavadinimai, kodai, buveinės, steigėjų atstovų vardai ir pavardės ar
+buveinės, steigėjų atstovų vardai ir pavardės ar pavadinimai, asmens kodai (kodai);
 
-pavadinimai, asmens kodai (kodai);
+2) steigiamo fondo
 
-2) steigiamo
+pavadinimas ir buveinė;
 
-fondo pavadinimas;
+3) steigėjų turtiniai
 
-3) steigėjų
-
-turtiniai ir neturtiniai įsipareigojimai, jų vykdymo tvarka ir terminai;
+ir neturtiniai įsipareigojimai, jų vykdymo tvarka ir terminai;
 
 4) fondo veiklos
 
 tikslai;
 
-5) steigimo
+5) steigimo sutarties
 
-sutarties (steigimo akto) sudarymo data.
+(steigimo akto) sudarymo data.
 
-2. Fondo
+2. Fondo steigimo
 
-steigimo sutartyje (steigimo akte) taip pat gali būti nurodyta:
+sutartyje (steigimo akte) taip pat gali būti nurodyta:
 
-1) steigimo
+1) steigimo išlaidų
 
-išlaidų kompensavimo tvarka;
+kompensavimo tvarka;
 
 2) ginčų tarp steigėjų
 
 sprendimo tvarka;
 
-3) asmenys,
+3) asmenys, kurie
 
-kurie turi teisę atstovauti steigiamam fondui, jų teisės ir įgaliojimai;
+turi teisę atstovauti steigiamam fondui, jų teisės ir įgaliojimai;
 
-4) steigiamojo
+4) steigiamojo susirinkimo
 
-susirinkimo sušaukimo ir jo sprendimų priėmimo tvarka;
+sušaukimo ir jo sprendimų priėmimo tvarka;
 
 5) kitos šiam ir
 
 kitiems įstatymams neprieštaraujančios nuostatos.
 
+Straipsnio
+
+pakeitimas:
+
+Nr. XI-598, 2009-12-22, Žin., 2010, Nr. 1-9 (2010-01-05)
+
 6
 
 straipsnis. Fondo registravimas ir juridinių asmenų registro duomenys
 
-1. Fondas turi
+1. Fondas turi būti
 
-būti įregistruotas juridinių asmenų registre teisės aktų nustatyta tvarka.
+įregistruotas juridinių asmenų registre teisės aktų nustatyta tvarka.
 
-2. Fondą registruoti galima, jei sudaryta steigimo
+2. Fondą registruoti galima, jei sudaryta steigimo sutartis
 
-sutartis (steigimo aktas), sušauktas fondo steigiamasis susirinkimas, priimti
+(steigimo aktas), sušauktas fondo steigiamasis susirinkimas, priimti jo įstatai
 
-jo įstatai ir sudarytas bent vienas valdymo organas bei įvykdytos kitos
+ir sudarytas bent vienas valdymo organas bei įvykdytos kitos steigimo sutartyje
 
-steigimo sutartyje (steigimo akte) nustatytos prievolės.
+(steigimo akte) nustatytos prievolės.
 
-3. Fondui įregistruoti juridinių asmenų registre
+3. Fondui įregistruoti juridinių asmenų registre šiam
 
-šiam registrui pateikiami fondo steigimo sutartis (steigimo aktas), įstatai ir
+registrui pateikiami fondo steigimo sutartis (steigimo aktas), įstatai ir kiti Civilinio
 
-kiti Civilinio kodekso 2.64 straipsnyje nurodyti dokumentai.
+kodekso 2.64 straipsnyje nurodyti dokumentai.
 
 4. Nuo fondo įregistravimo juridinių asmenų registre
 
 fondas laikomas įsteigtu.
 
-5. Be Civilinio kodekso 2.66 straipsnyje išvardytų
+5. Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų,
 
-duomenų, juridinių asmenų registre nurodomi šie fondo duomenys:
+juridinių asmenų registre nurodomas fondo veiklos laikotarpis, jei jis yra ribotas.
 
-1) veiklos laikotarpis, jei jis yra ribotas;
+Straipsnio
 
-2) finansinių metų pradžios ir pabaigos datos.
+pakeitimas:
 
-TREČIASIS
+Nr. XI-598, 2009-12-22, Žin., 2010, Nr. 1-9 (2010-01-05)
 
-SKIRSNIS
+TREČIASIS SKIRSNIS
 
 FONDO VALDYMAS
 
@@ -392,313 +386,285 @@ FONDO VALDYMAS
 
 straipsnis. Fondo organai
 
-1. Fondas turi
+1. Fondas turi turėti
 
-turėti dalininkų susirinkimą ir valdymo organą (vienasmenį ar (ir) kolegialų).
+dalininkų susirinkimą ir valdymo organą (vienasmenį ar (ir) kolegialų).
 
-2. Fonde gali
+2. Fonde gali būti
 
-būti sudaromi kiti organai.
+sudaromi kiti organai.
 
-3. Fondo organų
+3. Fondo organų struktūra,
 
-struktūra, kompetencija, sušaukimo ir sprendimų priėmimo tvarka nustatomi fondo
+kompetencija, sušaukimo ir sprendimų priėmimo tvarka nustatomi fondo įstatuose.
 
-įstatuose.
+4. Fondo įstatuose
 
-4. Fondo
+nustatytų kolegialių organų, kurie nėra valdymo organai, nariams už veiklą neatlyginama.
 
-įstatuose nustatytų kolegialių organų, kurie nėra valdymo organai, nariams už
+5. Dalininkų susirinkimai ir
 
-veiklą neatlyginama.
-
-5.
-
-Dalininkų
-
-susirinkimai ir kolegialių organų posėdžiai turi būti protokoluojami.
+kolegialių organų posėdžiai turi būti protokoluojami.
 
 8
 
 straipsnis. Visuotinis dalininkų susirinkimas
 
-1. Visuotinis
+1. Visuotinis dalininkų
 
-dalininkų susirinkimas yra aukščiausiasis fondo organas. Jeigu fondo dalininkas
+susirinkimas yra aukščiausiasis fondo organas. Jeigu fondo dalininkas yra vienas
 
-yra vienas asmuo, jo rašytiniai sprendimai prilygsta visuotinio dalininkų
+asmuo, jo rašytiniai sprendimai prilygsta visuotinio dalininkų susirinkimo sprendimams.
 
-susirinkimo sprendimams.
+2. Visuotinis dalininkų
 
-2. Visuotinis
+susirinkimas:
 
-dalininkų susirinkimas:
+1) keičia fondo įstatus;
 
-1) keičia fondo
+2) priima sprendimus
 
-įstatus;
+dėl dalininkų pašalinimo iš fondo, taip pat dėl dalininko teisių suteikimo rėmėjams;
 
-2) priima
+3) renka (skiria)
 
-sprendimus dėl dalininkų pašalinimo iš fondo, taip pat dėl dalininko teisių
+kolegialaus valdymo organo narius bei vienasmenį valdymo organą, kolegialaus valdymo
 
-suteikimo rėmėjams;
+organo pirmininką ir revizorių bei juos atšaukia, jeigu fondo įstatai nenustato
 
-3) renka
+kitaip;
 
-(skiria) kolegialaus valdymo organo narius bei vienasmenį valdymo organą,
+4) renka (skiria)
 
-kolegialaus valdymo organo pirmininką ir revizorių bei juos atšaukia, jeigu
+ir atšaukia kitų kolegialių organų, jei tokie organai numatyti fondo įstatuose,
 
-fondo įstatai nenustato kitaip;
+narius, jeigu fondo įstatai nenustato kitaip;
 
-4) renka
+5) tvirtina fondo
 
-(skiria) ir atšaukia kitų kolegialių organų, jei tokie organai numatyti fondo
+finansinę metinę atskaitomybę;
 
-įstatuose, narius, jeigu fondo įstatai nenustato kitaip;
+6) priima sprendimą
 
-5) tvirtina
+dėl fondo pertvarkymo ar pabaigos (reorganizavimo ar likvidavimo);
 
-fondo finansinę metinę atskaitomybę;
+7) priima sprendimą
 
-6) priima
+dėl kitų juridinių asmenų steigimo ar dėl tapimo kitų juridinių asmenų dalyviu,
 
-sprendimą dėl fondo pertvarkymo ar pabaigos (reorganizavimo ar likvidavimo);
+jei fondo įstatai nenustato kitaip.
 
-7) priima
+3. Visuotinis dalininkų susirinkimas sprendžia ir kitus
 
-sprendimą dėl kitų juridinių asmenų steigimo ar dėl tapimo kitų juridinių
+šiame Įstatyme ir fondo įstatuose visuotinio dalininkų susirinkimo kompetencijai
 
-asmenų dalyviu, jei fondo įstatai nenustato kitaip.
+priskirtus klausimus, jei pagal šį Įstatymą tai nepriskirta kitų fondo organų kompetencijai
 
-3. Visuotinis dalininkų susirinkimas sprendžia ir
+ir jei pagal esmę tai nėra valdymo organo funkcijos.
 
-kitus šiame Įstatyme ir fondo įstatuose visuotinio dalininkų susirinkimo
+4. Visuotinis dalininkų susirinkimas neturi
 
-kompetencijai priskirtus klausimus, jei pagal šį Įstatymą tai nepriskirta kitų
+teisės pavesti kitiems fondo organams spręsti visuotinio dalininkų susirinkimo kompetencijai
 
-fondo organų kompetencijai ir jei pagal esmę tai nėra valdymo organo funkcijos.
+priklausančių klausimų, išskyrus šio straipsnio 2 dalies 3, 4 ir 7 punktuose numatytus
 
-4. Visuotinis dalininkų susirinkimas
+atvejus.
 
-neturi teisės pavesti kitiems fondo organams spręsti visuotinio dalininkų
+5. Visuotiniame dalininkų susirinkime sprendžiamojo balso
 
-susirinkimo kompetencijai priklausančių klausimų, išskyrus šio straipsnio 2
+teisę turi visi fondo dalininkai. Vienas dalininkas visuotiniame dalininkų susirinkime
 
-dalies 3, 4 ir 7 punktuose numatytus atvejus.
+turi vieną balsą. Jeigu fondo dalininkas yra vienas asmuo, jo rašytiniai sprendimai
 
-5. Visuotiniame dalininkų susirinkime sprendžiamojo
+prilygsta visuotinio dalininkų susirinkimo sprendimams.
 
-balso teisę turi visi fondo dalininkai. Vienas dalininkas visuotiniame
+6. Fondo valdymo organų ir kitų kolegialių organų nariai,
 
-dalininkų susirinkime turi vieną balsą. Jeigu fondo dalininkas yra vienas
+jeigu jie nėra fondo dalininkai, gali dalyvauti visuotiniame
 
-asmuo, jo rašytiniai sprendimai prilygsta visuotinio dalininkų susirinkimo
+dalininkų susirinkime be balso teisės.
 
-sprendimams.
+7. Visuotinis dalininkų
 
-6. Fondo valdymo organų ir kitų kolegialių organų
+susirinkimas šaukiamas fondo įstatuose nustatyta tvarka.
 
-nariai, jeigu jie nėra fondo dalininkai, gali dalyvauti
+8. Visuotinis dalininkų
 
-visuotiniame dalininkų susirinkime be balso teisės.
+susirinkimas gali priimti sprendimus, kai jame dalyvauja daugiau kaip 1/2 fondo
 
-7. Visuotinis
+dalininkų, jeigu fondo įstatuose nenustatyta kitaip. Visuotinio dalininkų susirinkimo
 
-dalininkų susirinkimas šaukiamas fondo įstatuose nustatyta tvarka.
+sprendimas, išskyrus šio straipsnio 2 dalies 1 ir 6 punktuose nurodytus sprendimus,
 
-8. Visuotinis
+ir tais atvejais, kai renkami kolegialių organų nariai, laikomas priimtu, kai už
 
-dalininkų susirinkimas gali priimti sprendimus, kai jame dalyvauja daugiau kaip
+jį gauta daugiau balsavimo metu dalyvaujančių fondo dalininkų balsų „už“ negu „prieš“
 
-1/2 fondo dalininkų, jeigu fondo įstatuose nenustatyta kitaip.
+(asmenys, balsuodami susilaikę, neskaičiuojami, tai yra jie laikomi balsuojant nedalyvavusiais
 
-Visuotinio dalininkų susirinkimo sprendimas, išskyrus šio straipsnio 2 dalies 1
+asmenimis), jeigu fondo įstatai nenustato didesnės daugumos. Šio straipsnio 2 dalies
 
-ir 6 punktuose nurodytus sprendimus, ir tais atvejais, kai renkami kolegialių
-
-organų nariai, laikomas priimtu, kai už jį gauta daugiau balsavimo metu dalyvaujančių
-
-fondo dalininkų balsų „už“ negu „prieš“ (asmenys, balsuodami susilaikę,
-
-neskaičiuojami, tai yra jie laikomi balsuojant nedalyvavusiais asmenimis),
-
-jeigu fondo įstatai nenustato didesnės daugumos. Šio straipsnio 2 dalies 1 ir 6
-
-punktuose nurodytiems visuotinio dalininkų susirinkimo sprendimams priimti
+1 ir 6 punktuose nurodytiems visuotinio dalininkų susirinkimo sprendimams priimti
 
 reikia ne mažiau kaip 2/3 susirinkime dalyvaujančių fondo dalininkų balsų. Tais
 
-atvejais, kai skiriami (renkami) kolegialių organų nariai, sprendimai priimami
+atvejais, kai skiriami (renkami) kolegialių organų nariai, sprendimai priimami fondo
 
-fondo įstatų nustatyta tvarka.
+įstatų nustatyta tvarka.
 
 9. Jeigu visuotiniame
 
-dalininkų susirinkime nėra kvorumo, fondo įstatų nustatyta tvarka turi būti
+dalininkų susirinkime nėra kvorumo, fondo įstatų nustatyta tvarka turi būti šaukiamas
 
-šaukiamas pakartotinis susirinkimas, kuris turi teisę priimti sprendimus
+pakartotinis susirinkimas, kuris turi teisę priimti sprendimus neįvykusio visuotinio
 
-neįvykusio visuotinio dalininkų susirinkimo darbotvarkės klausimais, nepaisant
+dalininkų susirinkimo darbotvarkės klausimais, nepaisant dalyvaujančių jame dalininkų
 
-dalyvaujančių jame dalininkų skaičiaus.
+skaičiaus.
 
-10. Fondo
+10. Fondo visuotinis
 
-visuotinis dalininkų susirinkimas gali būti šaukiamas teismo sprendimu, jei jis
+dalininkų susirinkimas gali būti šaukiamas teismo sprendimu, jei jis nebuvo sušauktas
 
-nebuvo sušauktas fondo įstatų nustatyta tvarka ir dėl to į teismą kreipėsi
+fondo įstatų nustatyta tvarka ir dėl to į teismą kreipėsi fondo dalininkas ar valdymo
 
-fondo dalininkas ar valdymo organas.
+organas.
 
 9
 
 straipsnis. Valdymo organai
 
-1. Valdymo
+1. Valdymo organas
 
-organas veikia fondo vardu, esant santykiams su kitais asmenimis, taip pat
+veikia fondo vardu, esant santykiams su kitais asmenimis, taip pat sudaro sandorius
 
-sudaro sandorius fondo vardu.
+fondo vardu.
 
-2. Valdymo
+2. Valdymo organas,
 
-organas, be Civilinio kodekso 2.82 straipsnyje numatytų funkcijų, priima į
+be Civilinio kodekso 2.82 straipsnyje numatytų funkcijų, priima į darbą ir iš jo
 
-darbą ir iš jo atleidžia darbuotojus, sudaro su jais darbo sutartis, rengia ir
+atleidžia darbuotojus, sudaro su jais darbo sutartis, rengia ir pateikia visuotiniam
 
-pateikia visuotiniam dalininkų susirinkimui fondo veiklos ataskaitą, skirsto
+dalininkų susirinkimui fondo veiklos ataskaitą, skirsto lėšas labdarai ir paramai,
 
-lėšas labdarai ir paramai, tvirtina turtinių įnašų įvertinimą, analizuoja fondo
+tvirtina turtinių įnašų įvertinimą, analizuoja fondo veiklos rezultatus, pajamų
 
-veiklos rezultatus, pajamų ir išlaidų sąmatas, revizijų, inventorizacijos ir
+ir išlaidų sąmatas, revizijų, inventorizacijos ir kitus vertybių apskaitos duomenis,
 
-kitus vertybių apskaitos duomenis, skelbia ar organizuoja viešos informacijos
+skelbia ar organizuoja viešos informacijos paskelbimą, organizuoja savanoriškus
 
-paskelbimą, organizuoja savanoriškus darbus Vyriausybės nustatyta tvarka,
+darbus Vyriausybės nustatyta tvarka, sprendžia kitus šiame Įstatyme ir fondo įstatuose
 
-sprendžia kitus šiame Įstatyme ir fondo įstatuose valdymo organo kompetencijai
+valdymo organo kompetencijai priskirtus klausimus. Valdymo organas taip pat priima
 
-priskirtus klausimus. Valdymo organas taip pat priima sprendimus dėl filialų ir
+sprendimus dėl filialų ir atstovybių steigimo bei jų veiklos nutraukimo ir tvirtina
 
-atstovybių steigimo bei jų veiklos nutraukimo ir tvirtina jų nuostatus, jeigu
+jų nuostatus, jeigu fondo įstatai nenustato kitaip.
 
-fondo įstatai nenustato kitaip.
+3. Jeigu fonde sudaromi keli valdymo organai, fondo įstatuose
 
-3. Jeigu fonde sudaromi keli valdymo organai,
+turi būti atskirai nustatyta kiekvieno valdymo organo kompetencija.
 
-fondo įstatuose turi būti atskirai nustatyta kiekvieno valdymo organo
+4. Už veiklą valdymo
 
-kompetencija.
+organuose jo nariui gali būti atlyginama.
 
-4. Už veiklą
+5. Kolegialaus valdymo
 
-valdymo organuose jo nariui gali būti atlyginama.
+organo nariais gali būti fiziniai asmenys – fondo nariai ir fondo dalininkų – juridinių
 
-5. Kolegialaus
+asmenų pasiūlyti fiziniai asmenys. Fondo įstatuose gali būti nustatyti papildomi
 
-valdymo organo nariais gali būti fiziniai asmenys – fondo nariai ir fondo
+reikalavimai kolegialaus valdymo organo nariui.
 
-dalininkų – juridinių asmenų pasiūlyti fiziniai asmenys. Fondo įstatuose gali
+6. Kolegialus valdymo organas gali
 
-būti nustatyti papildomi reikalavimai kolegialaus valdymo organo nariui.
-
-6. Kolegialus valdymo organas
-
-gali priimti sprendimus, kai jo posėdyje dalyvauja daugiau kaip 1/2 narių.
+priimti sprendimus, kai jo posėdyje dalyvauja daugiau kaip 1/2 narių.
 
 10
 
 straipsnis. Finansinės veiklos kontrolė
 
-1. Fondas privalo įstatuose nustatytu periodiškumu
+1. Fondas privalo įstatuose nustatytu periodiškumu atlikti
 
-atlikti finansinės veiklos patikrinimus. Juos atlieka revizorius arba
+finansinės veiklos patikrinimus. Juos atlieka revizorius arba auditorius, kuriuos
 
-auditorius, kuriuos fondo įstatuose nustatytam laikotarpiui renka dalininkų
+fondo įstatuose nustatytam laikotarpiui renka dalininkų susirinkimas. Revizoriumi
 
-susirinkimas. Revizoriumi (auditoriumi) gali būti fizinis arba juridinis asmuo,
+(auditoriumi) gali būti fizinis arba juridinis asmuo, bet ne steigėjas ar dalininkas
 
-bet ne steigėjas ar dalininkas ir ne valdymo organo narys ar fondo darbuotojas.
+ir ne valdymo organo narys ar fondo darbuotojas.
 
-2. Revizorius
+2. Revizorius (auditorius)
 
-(auditorius) privalo:
+privalo:
 
-1) tikrinti
+1) tikrinti fondo
 
-fondo metinę finansinę atskaitomybę ir kitus finansinės veiklos dokumentus;
+metinę finansinę atskaitomybę ir kitus finansinės veiklos dokumentus;
 
-2) dalininkų
+2) dalininkų susirinkimo
 
-susirinkimo ir valdymo organo pavedimu atlikti fondo finansinės veiklos
-
-patikrinimus;
+ir valdymo organo pavedimu atlikti fondo finansinės veiklos patikrinimus;
 
 3) artimiausiame
 
-visuotiniame dalininkų susirinkime ar valdymo organo posėdyje pranešti apie
+visuotiniame dalininkų susirinkime ar valdymo organo posėdyje pranešti apie patikrinimų
 
-patikrinimų metu nustatytus pažeidimus.
+metu nustatytus pažeidimus.
 
 3. Fondo valdymo
 
-organas privalo pateikti revizoriui (auditoriui) jo reikalaujamus buhalterinės
+organas privalo pateikti revizoriui (auditoriui) jo reikalaujamus buhalterinės apskaitos
 
-apskaitos dokumentus.
+dokumentus.
 
-4. Už darbą
+4. Už darbą revizoriui
 
-revizoriui (auditoriui) fondas gali mokėti atlyginimą. Atlyginimo dydį arba
+(auditoriui) fondas gali mokėti atlyginimą. Atlyginimo dydį arba apmokėjimo už darbą
 
-apmokėjimo už darbą sąlygas nustato visuotinis dalininkų susirinkimas.
+sąlygas nustato visuotinis dalininkų susirinkimas.
 
 11
 
 straipsnis. Fondo veiklos ataskaita
 
-1. Fondo
+1. Fondo įstatuose
 
-įstatuose nurodytas valdymo organas įstatuose nustatytu terminu turi parengti
+nurodytas valdymo organas įstatuose nustatytu terminu turi parengti ir pateikti
 
-ir pateikti visuotiniam dalininkų susirinkimui kiekvienų praėjusių finansinių
+visuotiniam dalininkų susirinkimui kiekvienų praėjusių finansinių metų fondo veiklos
 
-metų fondo veiklos ataskaitą. Ši ataskaita yra vieša. Kiekvieno fizinio ar
+ataskaitą. Ši ataskaita yra vieša. Kiekvieno fizinio ar juridinio asmens pareikalavimu
 
-juridinio asmens pareikalavimu fondas turi sudaryti jam sąlygas fondo buveinėje
+fondas turi sudaryti jam sąlygas fondo buveinėje ar kitais būdais su šia ataskaita
 
-ar kitais būdais su šia ataskaita susipažinti.
+susipažinti.
 
-2. Fondo veiklos ataskaitoje turi būti
+2. Fondo veiklos ataskaitoje turi būti nurodyta:
 
-nurodyta:
+1) informacija apie
 
-1) informacija
+fondo veiklą įgyvendinant jo įstatuose nustatytus veiklos tikslus;
 
-apie fondo veiklą įgyvendinant jo įstatuose nustatytus veiklos tikslus;
+2) fondo dalininkų
 
-2) fondo
+skaičius finansinių metų pabaigoje;
 
-dalininkų skaičius finansinių metų pabaigoje;
+3) fondo metinė finansinė
 
-3) fondo
+atskaitomybė;
 
-metinė finansinė atskaitomybė;
+4) samdomų fondo
 
-4) samdomų
+darbuotojų skaičius finansinių metų pabaigoje.
 
-fondo darbuotojų skaičius finansinių metų pabaigoje.
+3. Fondo veiklos
 
-3. Fondo
+ataskaitoje gali būti ir kita informacija, kurią nustato visuotinis dalininkų susirinkimas.
 
-veiklos ataskaitoje gali būti ir kita informacija, kurią nustato visuotinis
-
-dalininkų susirinkimas.
-
-KETVIRTASIS
-
-SKIRSNIS
+KETVIRTASIS SKIRSNIS
 
 FONDO VEIKLA
 
@@ -1196,19 +1162,17 @@ susirinkimo nutarimu gali būti sudaroma patikėtinių taryba.
 
 12 straipsnis. Fondo teisės ir pareigos
 
-1. Fondas gali turėti ir įgyti
+1. Fondas gali turėti ir įgyti tik
 
-tik tokias civilines teises ir pareigas, kurios neprieštarauja fondo tikslams,
+tokias civilines teises ir pareigas, kurios neprieštarauja fondo tikslams, numatytiems
 
-numatytiems Civiliniame kodekse, šiame Įstatyme ir fondo įstatuose.
+Civiliniame kodekse, šiame Įstatyme ir fondo įstatuose.
 
-2. Fondas turi teisę vykdyti įstatymų nedraudžiamą ūkinę komercinę
+2. Fondas turi teisę vykdyti įstatymų nedraudžiamą ūkinę komercinę veiklą,
 
-veiklą, kuri
+kuri
 
-neprieštarauja jo įstatams bei veiklos tikslams ir reikalinga jo tikslams
-
-pasiekti.
+neprieštarauja jo įstatams bei veiklos tikslams ir reikalinga jo tikslams pasiekti.
 
 13
 
@@ -1218,63 +1182,61 @@ straipsnis. Fondo įstatai
 
 yra fondo steigimo dokumentas, kuriuo fondas vadovaujasi savo veikloje.
 
-2. Fondo
+2. Fondo įstatuose
 
-įstatuose turi būti nurodyta:
+turi būti nurodyta:
 
-1) fondo
-
-pavadinimas;
+1) fondo pavadinimas;
 
 2) fondo teisinė
 
 forma – labdaros ir paramos fondas;
 
-3) fondo
+3) fondo buveinės
 
-buveinė;
+keitimo tvarka;
 
 4) fondo veiklos
 
-tikslai, kurie turi būti apibūdinti aiškiai ir išsamiai, nurodant veiklos
+tikslai, kurie turi būti apibūdinti aiškiai ir išsamiai, nurodant veiklos sritis
 
-sritis bei rūšis;
+bei rūšis;
 
-5) fondo
+5) fondo dalininkų
 
-dalininkų teisės ir pareigos;
+teisės ir pareigos;
 
-6) dalininkų
+6) dalininkų išstojimo
 
-išstojimo (pašalinimo) ir steigėjo teisių suteikimo rėmėjams tvarka;
+(pašalinimo) ir steigėjo teisių suteikimo rėmėjams tvarka;
 
-7) visuotinio
+7) visuotinio dalininkų
 
-dalininkų susirinkimo šaukimo tvarka ir kompetencija;
+susirinkimo šaukimo tvarka ir kompetencija;
 
-8) valdymo
+8) valdymo organai,
 
-organai, jų kompetencija, kolegialaus valdymo organo,
+jų kompetencija, kolegialaus valdymo organo, jei toks
 
-jei toks organas sudaromas, narių ir pirmininko (prezidento) skyrimo ar
+organas sudaromas, narių ir pirmininko (prezidento) skyrimo ar rinkimo bei
 
-rinkimo bei atšaukimo tvarka, laikotarpis, kuriam
+atšaukimo tvarka, laikotarpis, kuriam kolegialus valdymo
 
-kolegialus valdymo organas sudaromas;
+organas sudaromas;
 
-9)
+9) kiti
 
-kiti kolegialūs organai, jei tokie organai sudaromi, jų kompetencija, narių bei pirmininko
+kolegialūs organai, jei tokie organai sudaromi, jų kompetencija, narių bei pirmininko (prezidento)
 
-(prezidento) skyrimo ar rinkimo ir atšaukimo tvarka,
+skyrimo ar rinkimo ir atšaukimo tvarka, laikotarpis, kuriam
 
-laikotarpis, kuriam kolegialūs organai sudaromi;
+kolegialūs organai sudaromi;
 
 10) dokumentų ir
 
-kitos informacijos apie fondo veiklą pateikimo dalininkams tvarka, jeigu fondo
+kitos informacijos apie fondo veiklą pateikimo dalininkams tvarka, jeigu fondo įstatuose
 
-įstatuose nėra nurodyta, kad ji bus patvirtinta atskiru dokumentu;
+nėra nurodyta, kad ji bus patvirtinta atskiru dokumentu;
 
 11) pranešimų ir
 
@@ -1284,59 +1246,63 @@ skelbimų paskelbimo tvarka, kuria vadovaujantis skelbiama vieša informacija;
 
 šaltiniai, lėšų, pajamų bei turto naudojimo tvarka;
 
-13) lėšų ir
+13) lėšų ir pajamų
 
-pajamų naudojimo, fondo veiklos kontrolės tvarka;
+naudojimo, fondo veiklos kontrolės tvarka;
 
 14) fondo įstatų
 
 keitimo tvarka;
 
-15) filialų ir
+15) filialų ir atstovybių
 
-atstovybių steigimo ir likvidavimo tvarka;
+steigimo ir likvidavimo tvarka;
 
-16) fondo
+16) fondo veiklos
 
-veiklos laikotarpis, jei jis yra ribotas;
+laikotarpis, jei jis yra ribotas;
 
-17) fondo
+17) fondo reorganizavimo,
 
-reorganizavimo, pertvarkymo ir likvidavimo tvarka.
+pertvarkymo ir likvidavimo tvarka.
 
-3. Fondo
+3. Fondo įstatuose
 
-įstatuose gali būti numatytos ir kitos fondo veiklos nuostatos, jeigu jos
+gali būti numatytos ir kitos fondo veiklos nuostatos, jeigu jos neprieštarauja Konstitucijai,
 
-neprieštarauja Konstitucijai, Civiliniam kodeksui, šiam ar kitiems įstatymams.
+Civiliniam kodeksui, šiam ar kitiems įstatymams.
 
-4. Steigiamo
+4. Steigiamo fondo
 
-fondo įstatus turi pasirašyti steigimo sutartyje (steigimo akte) nurodytas ar
+įstatus turi pasirašyti steigimo sutartyje (steigimo akte) nurodytas ar steigiamojo
 
-steigiamojo susirinkimo įgaliotas asmuo. Šis asmuo turi pasirašyti įstatus ne
+susirinkimo įgaliotas asmuo. Šis asmuo turi pasirašyti įstatus ne vėliau kaip per
 
-vėliau kaip per tris dienas nuo steigiamojo susirinkimo sušaukimo (įvykimo)
+tris dienas nuo steigiamojo susirinkimo sušaukimo (įvykimo) dienos.
 
-dienos.
+5. Įsteigto fondo
 
-5. Įsteigto
+pakeistus įstatus pasirašo valdymo organas arba visuotinio dalininkų susirinkimo
 
-fondo pakeistus įstatus pasirašo valdymo organas arba visuotinio dalininkų
+įgaliotas asmuo.
 
-susirinkimo įgaliotas asmuo.
+6. Fondo įstatų pakeitimai
 
-6. Fondo įstatų
+įsigalioja nuo jų įregistravimo juridinių asmenų registre. Kartu su įstatų pakeitimais
 
-pakeitimai įsigalioja nuo jų įregistravimo juridinių asmenų registre. Kartu su
+fondas juridinių asmenų registrui turi pateikti visą pakeistų įstatų tekstą (naują
 
-įstatų pakeitimais fondas juridinių asmenų registrui turi pateikti visą
+redakciją).
 
-pakeistų įstatų tekstą (naują redakciją).
+7. Įstatus pasirašiusių
 
-7. Įstatus
+fizinių asmenų parašų tikrumas notaro netvirtinamas.
 
-pasirašiusių fizinių asmenų parašų tikrumas notaro netvirtinamas.
+Straipsnio
+
+pakeitimas:
+
+Nr. XI-598, 2009-12-22, Žin., 2010, Nr. 1-9 (2010-01-05)
 
 14
 
@@ -1344,47 +1310,43 @@ straipsnis. Fondo dalininkai
 
 1. Fondo dalininkas turi teisę:
 
-1) dalyvauti ir balsuoti visuotiniame dalininkų
+1) dalyvauti ir balsuoti visuotiniame dalininkų susirinkime;
 
-susirinkime;
+2) susipažinti su fondo dokumentais ir gauti visą fondo
 
-2) susipažinti su fondo dokumentais ir gauti visą
+turimą informaciją apie jo veiklą;
 
-fondo turimą informaciją apie jo veiklą;
+3) bet kada išstoti
 
-3) bet kada
+iš fondo. Tokiu atveju dalininko įnašai ar kitaip fondo nuosavybėn perduotos lėšos
 
-išstoti iš fondo. Tokiu atveju dalininko įnašai ar kitaip fondo nuosavybėn
+ir turtas negrąžinami;
 
-perduotos lėšos ir turtas negrąžinami;
+4) kitas teisės aktuose
 
-4) kitas teisės
+ir fondo įstatuose nustatytas teises.
 
-aktuose ir fondo įstatuose nustatytas teises.
+2. Fondo dalininkai,
 
-2. Fondo
+nevykdę įsipareigojimų, gali būti pašalinti iš fondo dalininkų, o fondo rėmėjams,
 
-dalininkai, nevykdę įsipareigojimų, gali būti pašalinti iš fondo dalininkų, o
+įsipareigojantiems skirti fondui lėšų ar teikti fondui paslaugas, gali būti suteiktos
 
-fondo rėmėjams, įsipareigojantiems skirti fondui lėšų ar teikti fondui
+fondo dalininko teisės. Dalininką pašalinti bei rėmėjui suteikti dalininko teises
 
-paslaugas, gali būti suteiktos fondo dalininko teisės. Dalininką pašalinti bei
+gali tik visuotinis dalininkų susirinkimas. Jeigu dalininkas yra vienas asmuo, jis
 
-rėmėjui suteikti dalininko teises gali tik visuotinis dalininkų susirinkimas.
+gali atsisakyti dalininko statuso ir dalininko teises suteikti rėmėjui (rėmėjams).
 
-Jeigu dalininkas yra vienas asmuo, jis gali atsisakyti dalininko statuso ir
+Toks dalininko atsisakymas būti dalininku ir dalininko statuso suteikimas rėmėjui
 
-dalininko teises suteikti rėmėjui (rėmėjams). Toks dalininko atsisakymas būti
+(rėmėjams) turi būti įforminami rašytine forma. Dalininko pašalinimo ir dalininko
 
-dalininku ir dalininko statuso suteikimas rėmėjui (rėmėjams) turi būti
+teisių suteikimo rėmėjams tvarka turi būti nustatyta fondo įstatuose.
 
-įforminami rašytine forma. Dalininko pašalinimo ir dalininko teisių suteikimo
+3. Fondo dalininkas
 
-rėmėjams tvarka turi būti nustatyta fondo įstatuose.
-
-3. Fondo
-
-dalininkas privalo laikytis fondo įstatų.
+privalo laikytis fondo įstatų.
 
 13 straipsnis. Valdyba
 
@@ -1612,253 +1574,237 @@ padarytus nuostolius.
 
 1. Fondui
 
-leidžiama nuosavybės ar bet kokiomis kitomis teisėmis valdomą turtą ir lėšas
+leidžiama nuosavybės ar bet kokiomis kitomis teisėmis valdomą turtą ir lėšas perleisti,
 
-perleisti, užtikrinti juo prievolių įvykdymą ar kitaip apriboti savo valdymo,
+užtikrinti juo prievolių įvykdymą ar kitaip apriboti savo valdymo, naudojimo ir
 
-naudojimo ir disponavimo teises į jį tik tuo atveju, kai tuo siekiama
+disponavimo teises į jį tik tuo atveju, kai tuo siekiama įgyvendinti fondo įstatuose
 
-įgyvendinti fondo įstatuose nustatytus veiklos tikslus (įskaitant ir labdaros,
+nustatytus veiklos tikslus (įskaitant ir labdaros, ir paramos tikslus, nustatytus
 
-ir paramos tikslus, nustatytus fondo įstatuose pagal Labdaros ir paramos
+fondo įstatuose pagal Labdaros ir paramos įstatymą).
 
-įstatymą).
+2. Net ir šio straipsnio
 
-2. Net ir šio
+1 dalyje nurodytais tikslais fondui draudžiama:
 
-straipsnio 1 dalyje nurodytais tikslais fondui draudžiama:
+1) neatlygintinai
 
-1)
+perduoti fondo turtą nuosavybėn, pagal patikėjimo
 
-neatlygintinai perduoti fondo turtą nuosavybėn, pagal patikėjimo ar panaudos sutartis fondo dalininkui, valdymo
+ar panaudos sutartis fondo dalininkui, valdymo ir kolegialių organų nariui,
 
-ir kolegialių organų nariui, fonde darbo sutarties pagrindu dirbančiam asmeniui
+fonde darbo sutarties pagrindu dirbančiam asmeniui ar su jais susijusiam asmeniui,
 
-ar su jais susijusiam asmeniui, ar trečiajam asmeniui, išskyrus labdaros ar
+ar trečiajam asmeniui, išskyrus labdaros ar paramos tikslus, nustatytus fondo įstatuose
 
-paramos tikslus, nustatytus fondo įstatuose pagal Labdaros ir paramos įstatymą;
+pagal Labdaros ir paramos įstatymą;
 
-2) mokėti fondo
+2) mokėti fondo steigėjui
 
-steigėjui ar dalininkui išmokas iš pelno dalies ar perduoti likviduojamo fondo
+ar dalininkui išmokas iš pelno dalies ar perduoti likviduojamo fondo turto dalį,
 
-turto dalį, viršijančią dalininko įnašą;
+viršijančią dalininko įnašą;
 
-3) fondo turtą
+3) fondo turtą ir
 
-ir lėšas, įskaitant pelną, jokia forma, išskyrus labdarą ir paramą pagal
+lėšas, įskaitant pelną, jokia forma, išskyrus labdarą ir paramą pagal Labdaros ir
 
-Labdaros ir paramos įstatymą, skirstyti to fondo dalininkams ir (ar) jo valdymo
+paramos įstatymą, skirstyti to fondo dalininkams ir (ar) jo valdymo organų nariams,
 
-organų nariams, fonde darbo sutarties pagrindu dirbantiems asmenims, išskyrus
+fonde darbo sutarties pagrindu dirbantiems asmenims, išskyrus atvejus, kai yra mokamas
 
-atvejus, kai yra mokamas darbo užmokestis, kitos su darbo teisiniais santykiais
+darbo užmokestis, kitos su darbo teisiniais santykiais susijusios išmokos bei autorinės
 
-susijusios išmokos bei autorinės sutarties pagrindu mokamas autorinis
+sutarties pagrindu mokamas autorinis atlyginimas bei atlyginama už suteiktas paslaugas
 
-atlyginimas bei atlyginama už suteiktas paslaugas ar parduotas prekes;
+ar parduotas prekes;
 
-4) suteikti
+4) suteikti paskolas,
 
-paskolas, įkeisti fondo turtą (išskyrus atvejus, kai turtas įkeičiamas fondo
+įkeisti fondo turtą (išskyrus atvejus, kai turtas įkeičiamas fondo prievolėms užtikrinti),
 
-prievolėms užtikrinti), garantuoti, laiduoti ar kitaip užtikrinti kitų asmenų
+garantuoti, laiduoti ar kitaip užtikrinti kitų asmenų prievolių įvykdymą. Ši nuostata
 
-prievolių įvykdymą. Ši nuostata netaikoma, kai skolinamasi iš kredito įstaigų,
+netaikoma, kai skolinamasi iš kredito įstaigų, taip pat jei Lietuvos Respublikos
 
-taip pat jei Lietuvos Respublikos tarptautinės sutartys ar Lietuvos Respublikos
+tarptautinės sutartys ar Lietuvos Respublikos įstatymai, ar jų pagrindu priimti
 
-įstatymai, ar jų pagrindu priimti kiti teisės aktai numato kitaip;
+kiti teisės aktai numato kitaip;
 
-5) skolintis
+5) skolintis pinigų
 
-pinigų iš fondo steigėjo ar dalininko ar su juo susijusio asmens, mokant
+iš fondo steigėjo ar dalininko ar su juo susijusio asmens, mokant palūkanas. Ši
 
-palūkanas. Ši nuostata netaikoma, kai skolinamasi iš kredito įstaigų;
+nuostata netaikoma, kai skolinamasi iš kredito įstaigų;
 
-6) skolintis iš
+6) skolintis iš kitų
 
-kitų asmenų, mokant neprotingai dideles palūkanas;
+asmenų, mokant neprotingai dideles palūkanas;
 
 7) pirkti prekes
 
 ir paslaugas už akivaizdžiai per didelę kainą, išskyrus atvejus, kai tokiu būdu
 
-yra suteikiama labdara asmeniui, kuris pagal Labdaros ir paramos įstatymą yra
+yra suteikiama labdara asmeniui, kuris pagal Labdaros ir paramos įstatymą yra labdaros
 
-labdaros gavėjas;
+gavėjas;
 
-8) parduoti
+8) parduoti fondo
 
-fondo turtą už akivaizdžiai per mažą kainą, išskyrus atvejus, kai tokiu būdu
+turtą už akivaizdžiai per mažą kainą, išskyrus atvejus, kai tokiu būdu yra suteikiama
 
-yra suteikiama labdara asmeniui, kuris pagal Labdaros ir paramos įstatymą yra
-
-labdaros gavėjas;
+labdara asmeniui, kuris pagal Labdaros ir paramos įstatymą yra labdaros gavėjas;
 
 9) steigti juridinį
 
-asmenį, kurio civilinė atsakomybė už juridinio asmens prievoles yra neribota,
+asmenį, kurio civilinė atsakomybė už juridinio asmens prievoles yra neribota, arba
 
-arba būti jo dalyviu;
+būti jo dalyviu;
 
-10) vykdyti
+10) vykdyti valstybės
 
-valstybės ar savivaldybių, jų institucijų ar pareigūnų bei valstybės tarnautojų
+ar savivaldybių, jų institucijų ar pareigūnų bei valstybės tarnautojų viešojo administravimo
 
-viešojo administravimo funkcijas, jeigu to nenumato kiti įstatymai;
+funkcijas, jeigu to nenumato kiti įstatymai;
 
-11) vykdyti profesinių
+11) vykdyti profesinių sąjungų,
 
-sąjungų, religinių bendruomenių, bendrijų ir centrų bei pagal jų kanonus,
+religinių bendruomenių, bendrijų ir centrų bei pagal jų kanonus, statutus ar kitas
 
-statutus ar kitas normas tos pačios religijos tikslams įgyvendinti įsteigtų
+normas tos pačios religijos tikslams įgyvendinti įsteigtų juridinių asmenų, kredito
 
-juridinių asmenų, kredito unijų ir kitų juridinių asmenų, kurie yra kitos
+unijų ir kitų juridinių asmenų, kurie yra kitos teisinės formos, funkcijas, jei
 
-teisinės formos, funkcijas, jei šias funkcijas pagal įstatymų nuostatas gali
+šias funkcijas pagal įstatymų nuostatas gali vykdyti tik tam tikros teisinės formos
 
-vykdyti tik tam tikros teisinės formos juridiniai asmenys;
+juridiniai asmenys;
 
-12) dalyvauti politinėje veikloje, teikti paramą
+12) dalyvauti politinėje veikloje, teikti paramą politinėms
 
-politinėms partijoms ir politinėms organizacijoms.
+partijoms ir politinėms organizacijoms.
 
-3. Šio
+3. Šio straipsnio
 
-straipsnio 2 dalies 1 ir 5 punktuose numatytas su dalininku susijęs asmuo yra:
+2 dalies 1 ir 5 punktuose numatytas su dalininku susijęs asmuo yra:
 
-1) dalininko –
+1) dalininko – fizinio
 
-fizinio asmens artimasis giminaitis, sutuoktinis (sugyventinis), sutuoktinio
+asmens artimasis giminaitis, sutuoktinis (sugyventinis), sutuoktinio (sugyventinio)
 
-(sugyventinio) artimasis giminaitis;
+artimasis giminaitis;
 
-2) juridinis
+2) juridinis asmuo,
 
-asmuo, kuris turi daugiau kaip pusę fondo dalininko – juridinio asmens organo
+kuris turi daugiau kaip pusę fondo dalininko – juridinio asmens organo balsų;
 
-balsų;
+3) juridinis asmuo,
 
-3) juridinis
+kurio daugiau kaip pusę organo balsų turi fondo dalininkas, šios dalies 1 ir 2 punktuose
 
-asmuo, kurio daugiau kaip pusę organo balsų turi fondo dalininkas, šios dalies
+nurodytas asmuo ar šie asmenys kartu.
 
-1 ir 2 punktuose nurodytas asmuo ar šie asmenys kartu.
+4. Fondas pinigus, gautus kaip paramą, taip pat kitus
 
-4. Fondas pinigus, gautus kaip paramą, taip pat
+negrąžintinai gautus pinigus ir kitą turtą naudoja juos davusio asmens nurodytiems
 
-kitus negrąžintinai gautus pinigus ir kitą turtą naudoja juos davusio asmens
+tikslams, jeigu asmuo tokius tikslus nurodė. Fondas
 
-nurodytiems tikslams, jeigu asmuo tokius tikslus nurodė.
+šiuos gautus pinigus privalo laikyti atskiroje sąskaitoje, taip pat sudaryti išlaidų
 
-Fondas šiuos gautus pinigus privalo laikyti atskiroje sąskaitoje, taip pat
+sąmatą, jei tai numatyta teisės aktuose arba pinigus davęs
 
-sudaryti išlaidų sąmatą, jei tai numatyta teisės
+asmuo to reikalauja. Fondas negali priimti pinigų ar kito turto, jei duodantis asmuo
 
-aktuose arba pinigus davęs asmuo to reikalauja. Fondas negali priimti pinigų ar
+nurodo juos naudoti kitiems tikslams, negu fondo įstatuose yra nustatyta.
 
-kito turto, jei duodantis asmuo nurodo juos naudoti kitiems tikslams, negu
+5. Fondas atsisako priimti iš potencialių rėmėjų lėšas
 
-fondo įstatuose yra nustatyta.
+ar turtą, jeigu tuo naudodamiesi rėmėjai ar jų grupė gali daryti įtaką fondo veiklai
 
-5. Fondas atsisako priimti iš potencialių rėmėjų
+savo ar kitų asmenų naudai.
 
-lėšas ar turtą, jeigu tuo naudodamiesi rėmėjai ar jų grupė gali daryti įtaką
+6. Fondo rėmėjas gali nustatyti jo skirtų lėšų (turto) naudojimo sritis,
 
-fondo veiklai savo ar kitų asmenų naudai.
+bet tik fondo įstatuose numatytai veiklai. Rėmėjo prašymu fondas privalo teikti
 
-6. Fondo rėmėjas gali nustatyti jo skirtų lėšų (turto) naudojimo
+informaciją, reikalingą kontroliuoti, kaip fondas vykdo rėmėjo nustatytas sąlygas.
 
-sritis, bet tik fondo įstatuose numatytai veiklai. Rėmėjo prašymu fondas
+7. Fondo lėšos kaupiamos ir saugomos bankuose
 
-privalo teikti informaciją, reikalingą kontroliuoti, kaip fondas vykdo rėmėjo
+ar kitose kredito įstaigose.
 
-nustatytas sąlygas.
+PENKTASIS SKIRSNIS
 
-7. Fondo lėšos kaupiamos ir saugomos
+FONDO PERTVARKYMO
 
-bankuose ar kitose kredito įstaigose.
-
-PENKTASIS
-
-SKIRSNIS
-
-FONDO
-
-PERTVARKYMO IR PABAIGOS YPATUMAI
+IR PABAIGOS YPATUMAI
 
 16
 
 straipsnis. Fondų pertvarkymo ir pabaigos ypatumai
 
-1. Fondai
+1. Fondai pertvarkomi
 
-pertvarkomi ir pasibaigia (reorganizuojami ar likviduojami) Civilinio kodekso
+ir pasibaigia (reorganizuojami ar likviduojami) Civilinio kodekso nustatyta tvarka.
 
-nustatyta tvarka.
+2. Tuo pačiu metu
 
-2. Tuo pačiu
-
-metu fondas negali būti ir reorganizuojamas, ir pertvarkomas.
+fondas negali būti ir reorganizuojamas, ir pertvarkomas.
 
 3. Fondas negali
 
 būti pertvarkomas į politinę partiją ar politinę organizaciją.
 
-4. Likęs fondo
+4. Likęs fondo turtas
 
-turtas ir lėšos, įstatymų nustatyta tvarka patenkinus visus kreditorių
+ir lėšos, įstatymų nustatyta tvarka patenkinus visus kreditorių reikalavimus ir
 
-reikalavimus ir fondo dalininkų reikalavimus dėl fondo turto dalies,
+fondo dalininkų reikalavimus dėl fondo turto dalies, neviršijančios dalininko įnašo
 
-neviršijančios dalininko įnašo į fondą, iki fondo išregistravimo iš juridinių
+į fondą, iki fondo išregistravimo iš juridinių asmenų registro perduodami kitam
 
-asmenų registro perduodami kitam ar kitiems viešiesiems juridiniams asmenims,
+ar kitiems viešiesiems juridiniams asmenims, kuriuos nustato dalininkų susirinkimas
 
-kuriuos nustato dalininkų susirinkimas ar teismas, priėmę sprendimą likviduoti
+ar teismas, priėmę sprendimą likviduoti fondą.
 
-fondą.
+5. Be kitų šiame Įstatyme ir
 
-5. Be kitų šiame Įstatyme
+Civiliniame kodekse nustatytų pareigų, fondo likvidatorius privalo:
 
-ir Civiliniame kodekse nustatytų pareigų, fondo likvidatorius privalo:
+1) viešai paskelbti fondo įstatuose nurodytame dienraštyje
 
-1) viešai paskelbti fondo įstatuose nurodytame
+apie fondo likvidavimą ir pateikti juridinių asmenų registrui dokumentus, patvirtinančius
 
-dienraštyje apie fondo likvidavimą ir pateikti juridinių asmenų registrui
+sprendimą likviduoti fondą bei duomenis apie likvidatorių;
 
-dokumentus, patvirtinančius sprendimą likviduoti fondą bei duomenis apie
+2) sudaryti likvidavimo
 
-likvidatorių;
-
-2) sudaryti
-
-likvidavimo laikotarpio pradžios balansą;
+laikotarpio pradžios balansą;
 
 3) perduoti likusį
 
 fondo turtą šio Įstatymo nustatyta tvarka;
 
-4) sudaryti
+4) sudaryti fondo
 
-fondo likvidavimo aktą. Likvidavimo akte aprašoma likvidavimo eiga ir
+likvidavimo aktą. Likvidavimo akte aprašoma likvidavimo eiga ir patvirtinama, kad
 
-patvirtinama, kad atlikti visi su likvidavimu susiję veiksmai;
+atlikti visi su likvidavimu susiję veiksmai;
 
-5)
+5) perduoti
 
-perduoti dokumentus saugoti Archyvų įstatymo nustatyta tvarka;
+dokumentus saugoti Archyvų įstatymo nustatyta tvarka;
 
-6)
+6) pateikti
 
-pateikti juridinių asmenų registro tvarkytojui fondo likvidavimo aktą ir kitus
+juridinių asmenų registro tvarkytojui fondo likvidavimo aktą ir kitus dokumentus,
 
-dokumentus, reikalingus fondui išregistruoti.
+reikalingus fondui išregistruoti.
 
-Skelbiu šį Lietuvos
+Skelbiu šį Lietuvos Respublikos
 
-Respublikos Seimo priimtą įstatymą.
+Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS
 
@@ -1876,15 +1822,13 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-VIII-211, 1997
+VIII-211, 1997 04
 
-04 30, Žin., 1997, Nr. 41-994 (1997 05 14)
+30, Žin., 1997, Nr. 41-994 (1997 05 14)
 
 LIETUVOS
 
-RESPUBLIKOS LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 18 STRAIPSNIO PAKEITIMO
-
-ĮSTATYMAS
+RESPUBLIKOS LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 18 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 2.
 
@@ -1894,33 +1838,33 @@ Nr. VIII-1539, 2000 02 15, Žin., 2000, Nr. 18-430 (2000 02 29)
 
 LIETUVOS
 
-RESPUBLIKOS LABDAROS IR PARAMOS FONDŲ
+RESPUBLIKOS LABDAROS IR PARAMOS FONDŲ ĮSTATYMO
 
-ĮSTATYMO 1 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+1 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 3.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-261,
+Nr. IX-261, 2001
 
-2001 04 17, Žin., 2001, Nr. 39-1332 (2001 05 09)
+04 17, Žin., 2001, Nr. 39-1332 (2001 05 09)
 
-LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 1 STRAIPSNIO
+LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO
 
-PAKEITIMO ĮSTATYMAS
+ĮSTATYMAS
 
 4.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-357, 2001-06-05, Žin., 2001, Nr.
+Nr. IX-357, 2001-06-05, Žin., 2001, Nr. 52-1816
 
-52-1816 (2001-06-20)
+(2001-06-20)
 
-LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 14 STRAIPSNIO
+LABDAROS IR PARAMOS FONDŲ ĮSTATYMO 14 STRAIPSNIO PAKEITIMO
 
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+IR PAPILDYMO ĮSTATYMAS
 
 5.
 
@@ -1928,9 +1872,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-609,
+Nr. IX-609, 2001-11-15,
 
-2001-11-15, Žin., 2001, Nr. 102-3627 (2001-12-05)
+Žin., 2001, Nr. 102-3627 (2001-12-05)
 
 LABDAROS
 
@@ -1942,9 +1886,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1940,
+Nr. IX-1940, 2003-12-22,
 
-2003-12-22, Žin., 2004, Nr. 7-128 (2004-01-13)
+Žin., 2004, Nr. 7-128 (2004-01-13)
 
 LABDAROS
 
@@ -1952,37 +1896,51 @@ IR PARAMOS FONDŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 Fondų,
 
-įregistruotų iki šio Įstatymo įsigaliojimo, įstatai galioja tiek, kiek jie
+įregistruotų iki šio Įstatymo įsigaliojimo, įstatai galioja tiek, kiek jie neprieštarauja
 
-neprieštarauja Civiliniam kodeksui, šiam ir kitiems įstatymams.
+Civiliniam kodeksui, šiam ir kitiems įstatymams.
 
 Fondams,
 
-įregistruotiems iki šio Įstatymo įsigaliojimo, Labdaros ir paramos fondų
+įregistruotiems iki šio Įstatymo įsigaliojimo, Labdaros ir paramos fondų įstatymo
 
-įstatymo 2 straipsnio 2 dalies reikalavimas netaikomas.
+2 straipsnio 2 dalies reikalavimas netaikomas.
 
 Fondus,
 
 taip pat jų duomenų ir dokumentų pakeitimus, dėl kurių registravimo pareiškimai
 
-registro tvarkytojui buvo pateikti iki šio Įstatymo įsigaliojimo nustatyta
+registro tvarkytojui buvo pateikti iki šio Įstatymo įsigaliojimo nustatyta tvarka
 
-tvarka ir nebaigta jų registravimo procedūra, registruoja valstybės įmonė
+ir nebaigta jų registravimo procedūra, registruoja valstybės įmonė Registrų centras
 
-Registrų centras pagal iki šio Įstatymo įsigaliojimo galiojusią tvarką.
+pagal iki šio Įstatymo įsigaliojimo galiojusią tvarką.
 
 Nauja
 
 įstatymo redakcija
 
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-598, 2009-12-22, Žin., 2010, Nr. 1-9 (2010-01-05)
+
+LABDAROS
+
+IR PARAMOS FONDŲ ĮSTATYMO 5, 6 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2004-01-13)
+Aušrinė Trapinskienė (2010-01-18)
 
 autrap@lrs.lt
 
