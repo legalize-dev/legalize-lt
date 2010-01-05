@@ -4,7 +4,7 @@ identifier: "TAR.3A756D83A99B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2008-11-29"
+last_updated: "2010-01-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3A756D83A99B"
 department: "Lietuvos Respublikos Seimas"
@@ -171,47 +171,63 @@ Nr.83-2511 (00.10.04)
 
 5
 
-straipsnis. Biudžetinių įstaigų nuostatai
+straipsnis. Biudžetinių įstaigų
+
+nuostatai
 
 Biudžetinių įstaigų
 
-nuostatus tvirtina jų steigėjai.
+nuostatus tvirtina jų steigėjai. Nuostatai yra teisinis dokumentas, kuriuo biudžetinė įstaiga vadovaujasi savo veikloje.
 
-Nuostatai yra teisinis
+Biudžetinės įstaigos
 
-dokumentas, kuriuo biudžetinė įstaiga vadovaujasi savo veikloje. Biudžetinės
+nuostatuose turi būti nurodyta:
 
-įstaigos nuostatuose turi būti nurodyta:
+įstaigos
 
-įstaigos pavadinimas;
+pavadinimas;
 
-adresas;
+įstaigos veiklos
 
-įstaigos veiklos pobūdis ir
+pobūdis ir tikslai;
 
-tikslai;
+valdymo
 
-valdymo institucijų sudarymo
+institucijų sudarymo tvarka, jų kompetencija, funkcijos ir atsakomybė;
 
-tvarka, jų kompetencija, funkcijos ir atsakomybė;
+darbuotojų
 
-darbuotojų priėmimo į darbą
+priėmimo į darbą tvarka;
+
+darbo apmokėjimo
 
 tvarka;
 
-darbo apmokėjimo tvarka;
+lėšų šaltiniai
 
-lėšų šaltiniai ir lėšų
+ir lėšų naudojimo tvarka;
 
-naudojimo tvarka;
+finansinės
 
-finansinės veiklos kontrolė;
+veiklos kontrolė;
 
-nuostatos, susijusios su
+nuostatos, susijusios
 
-biudžetinės įstaigos ypatybėmis (specifika), neprieštaraujančios Lietuvos
+su biudžetinės įstaigos ypatybėmis (specifika),
 
-Respublikos įstatymams.
+neprieštaraujančios Lietuvos Respublikos įstatymams.
+
+Biudžetinės
+
+įstaigos buveinė turi būti nurodyta steigimo akte. Sprendimą dėl biudžetinės
+
+įstaigos buveinės pakeitimo priima steigėjas.
+
+Straipsnio pakeitimai:
+
+Nr. XI-609,
+
+2009-12-22, Žin., 2010, Nr. 1-20 (2010-01-05)
 
 6
 
@@ -236,254 +252,6 @@ tai, kas yra steigėjas, pagal asignavimų valdytojų patvirtintas sąmatas,
 laikantis Finansų ministerijos nustatytų finansavimo taisyklių ir iždo
 
 procedūrų.
-
-8 straipsnio redakcija iki tų metų, kurių ataskaitų
-
-rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
-
-sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
-
-8
-
-straipsnis. Biudžetinių įstaigų asignavimų valdymas
-
-Biudžetinių įstaigų
-
-asignavimų valdytojai turi teisę naudoti biudžeto lėšas savo vadovaujamai
-
-įstaigai išlaikyti ir sąmatose numatytoms priemonėms finansuoti, taip pat
-
-paskirstyti jiems skirtas biudžeto lėšas pavaldžioms įstaigoms.
-
-Asignavimų valdytojai
-
-organizuoja socialinių ekonominių programų finansavimą ir tvirtina jų išlaidų
-
-apmokėjimo įkainius, normas bei sąlygas.
-
-Biudžetinių
-
-įstaigų asignavimų valdytojai yra atsakingi už teisingą pavaldžių įstaigų
-
-išlaidų sąmatų bei nebiudžetinių lėšų sąmatų sudarymą. Jie turi užtikrinti, kad
-
-biudžetinės įstaigos laiku išmokėtų darbuotojams apskaičiuotus atlyginimus,
-
-laiku atsiskaitytų su biudžetu ir valstybinio socialinio draudimo fondo administravimo
-
-įstaigomis, taip pat už įstaigose sunaudotą visų rūšių energiją ir kitas
-
-paslaugas.
-
-Valstybės biudžeto
-
-asignavimų valdytojai turi:
-
-rengti pavaldžioms įstaigoms
-
-darbų, paslaugų, valdymo ir aptarnaujančio personalo etatų normatyvus,
-
-materialinių vertybių atsargų, inventoriaus, mitybos, medikamentų finansinius
-
-normatyvus ir, suderinę su Finansų ministerija, juos tvirtinti bei taikyti;
-
-prižiūrėti apskaitos
-
-tvarkymą, kontroliuoti įsiskolinimus bei imtis visų priemonių jiems išvengti ir
-
-analizuoti pavaldžių įstaigų apyskaitas;
-
-garantuoti pavaldžių įstaigų
-
-bei savo finansinių ir statistinių ataskaitų teisingumą.
-
-Iš asignavimų valdytojų
-
-gautus biudžeto asignavimus įstaigos naudoja racionaliai ir taupiai ir tik
-
-pagal asignavimų valdytojų patvirtintas išlaidų sąmatas.
-
-Valstybės ir savivaldybių
-
-biudžetų asignavimų valdytojai, taip pat jiems pavaldžių biudžetinių įstaigų
-
-vadovai, pažeidę biudžetų asignavimų paskirstymo ir naudojimo tvarką, atsako
-
-pagal Lietuvos Respublikos įstatymus.
-
-8 straipsnio redakcija nuo tų metų, kurių ataskaitų
-
-rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
-
-sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
-
-8
-
-straipsnis. Biudžetinių įstaigų asignavimų valdymas
-
-Biudžetinių
-
-įstaigų asignavimų valdytojai turi teisę naudoti biudžeto lėšas savo
-
-vadovaujamai įstaigai išlaikyti ir sąmatose numatytoms priemonėms finansuoti,
-
-taip pat paskirstyti jiems skirtas biudžeto lėšas pavaldžioms įstaigoms.
-
-Asignavimų
-
-valdytojai organizuoja socialinių ekonominių programų finansavimą ir tvirtina
-
-jų išlaidų apmokėjimo įkainius, normas bei sąlygas.
-
-Biudžetinių
-
-įstaigų asignavimų valdytojai yra atsakingi už teisingą pavaldžių įstaigų
-
-išlaidų sąmatų bei  piniginių lėšų, gautų ne kaip biudžeto asignavimai,  sąmatų
-
-sudarymą. Jie turi užtikrinti, kad biudžetinės įstaigos laiku išmokėtų
-
-darbuotojams apskaičiuotus atlyginimus, laiku atsiskaitytų su biudžetu ir
-
-valstybinio socialinio draudimo fondo administravimo įstaigomis, taip pat už
-
-įstaigose sunaudotą visų rūšių energiją ir kitas paslaugas.
-
-Valstybės
-
-biudžeto asignavimų valdytojai turi:
-
-rengti
-
-pavaldžioms įstaigoms darbų, paslaugų, valdymo ir aptarnaujančio personalo
-
-etatų normatyvus, materialinių vertybių atsargų, inventoriaus, mitybos,
-
-medikamentų finansinius normatyvus ir, suderinę su Finansų ministerija, juos
-
-tvirtinti bei taikyti;
-
-prižiūrėti
-
-apskaitos tvarkymą, kontroliuoti įsiskolinimus bei imtis visų priemonių jiems
-
-išvengti ir analizuoti pavaldžių įstaigų  finansinių ir biudžeto vykdymo
-
-ataskaitų rinkinius;
-
-garantuoti
-
-pavaldžių įstaigų bei savo finansinių ir biudžeto vykdymo ataskaitų rinkinių
-
-ir statistinių ataskaitų teisingumą.
-
-Iš asignavimų
-
-valdytojų gautus biudžeto asignavimus įstaigos naudoja racionaliai ir taupiai
-
-ir tik pagal asignavimų valdytojų patvirtintas išlaidų sąmatas.
-
-Valstybės ir savivaldybių biudžetų
-
-asignavimų valdytojai, taip pat jiems pavaldžių biudžetinių įstaigų vadovai,
-
-pažeidę biudžetų asignavimų paskirstymo ir naudojimo tvarką, atsako pagal
-
-Lietuvos Respublikos įstatymus.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-127,
-
-97.02.25, Žin., 1997, Nr.20-449 (97.03.07)
-
-Nr. IX-2536,
-
-2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
-
-Nr.
-
-X-1216,
-
-2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
-
-Nr. X-1824,
-
-2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
-
-9
-
-straipsnis. Biudžetinių įstaigų išlaidos
-
-1 dalies redakcija iki tų metų, kurių ataskaitų
-
-rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
-
-sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
-
-Išlaidų sandarą nustato
-
-asignavimų valdytojai, neviršydami jiems patvirtintų bendrųjų asignavimų, tarp
-
-jų - darbo užmokesčio, paprastųjų ir nepaprastųjų išlaidų.
-
-1 dalies redakcija nuo tų metų, kurių ataskaitų
-
-rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
-
-sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
-
-Išlaidų sandarą
-
-nustato asignavimų valdytojai, neviršydami jiems patvirtintų bendrųjų
-
-asignavimų, tarp jų – išlaidoms, iš jų – darbo užmokesčiui ir turtui įsigyti.
-
-Biudžetinių įstaigų
-
-darbuotojų tarnybiniai atlyginimai ir darbo apmokėjimo sąlygos tvirtinamos
-
-Lietuvos Respublikos įstatymų ir Vyriausybės nutarimų nustatyta tvarka.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-X-1216,
-
-2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
-
-Nr. X-1824,
-
-2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
-
-10 straipsnio redakcija iki tų metų, kurių ataskaitų
-
-rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
-
-sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
-
-10
-
-straipsnis. Biudžetinių įstaigų buhalterinė apskaita ir atskaitomybė
-
-Biudžetinės įstaigos
-
-buhalterinę apskaitą organizuoja ir atskaitomybę tvarko Finansų ministerijos
-
-nustatyta tvarka.
-
-10 straipsnio redakcija nuo tų metų, kurių ataskaitų
-
-rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
-
-sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 
 1 straipsnis. Įstatymo
 
@@ -691,95 +459,79 @@ laikantis Finansų ministerijos nustatytų finansavimo taisyklių ir iždo
 
 procedūrų.
 
-8 straipsnis. Biudžetinių
+8 straipsnis. Biudžetinių įstaigų
 
-įstaigų asignavimų valdymas
+asignavimų valdymas
 
-Biudžetinių įstaigų
+Biudžetinių
 
-asignavimų valdytojai turi teisę naudoti biudžeto lėšas savo vadovaujamai
+įstaigų asignavimų valdytojai turi teisę naudoti biudžeto lėšas savo
 
-įstaigai išlaikyti ir sąmatose numatytoms priemonėms finansuoti, taip pat
+vadovaujamai įstaigai išlaikyti ir sąmatose numatytoms priemonėms finansuoti,
 
-paskirstyti jiems skirtas biudžeto lėšas pavaldžioms įstaigoms.
+taip pat paskirstyti jiems skirtas biudžeto lėšas pavaldžioms įstaigoms.
 
-Asignavimų valdytojai
+Asignavimų
 
-organizuoja socialinių ekonominių programų finansavimą ir tvirtina jų išlaidų
+valdytojai organizuoja socialinių ekonominių programų finansavimą ir tvirtina
 
-apmokėjimo įkainius, normas bei sąlygas.
-
-3
-
-dalies redakcija iki 2005 m. sausio 1 d.:
-
-Biudžetinių įstaigų
-
-asignavimų valdytojai yra atsakingi už teisingą pavaldžių įstaigų išlaidų
-
-sąmatų bei nebiudžetinių lėšų sąmatų sudarymą. Jie turi užtikrinti, kad
-
-biudžetinės įstaigos laiku išmokėtų darbuotojams apskaičiuotus atlyginimus,
-
-laiku atsiskaitytų su biudžetu ir valstybinio socialinio draudimo fondo
-
-įstaigomis, taip pat už įstaigose sunaudotą visų rūšių energiją ir kitas
-
-paslaugas.
-
-3
-
-dalies redakcija nuo 2005 m. sausio 1 d.:
+jų išlaidų apmokėjimo įkainius, normas bei sąlygas.
 
 Biudžetinių
 
 įstaigų asignavimų valdytojai yra atsakingi už teisingą pavaldžių įstaigų
 
-išlaidų sąmatų bei nebiudžetinių lėšų sąmatų sudarymą. Jie turi užtikrinti, kad
+išlaidų sąmatų bei  piniginių lėšų, gautų ne kaip biudžeto asignavimai,  sąmatų
 
-biudžetinės įstaigos laiku išmokėtų darbuotojams apskaičiuotus atlyginimus,
+sudarymą. Jie turi užtikrinti, kad biudžetinės įstaigos laiku išmokėtų darbuotojams
 
-laiku atsiskaitytų su biudžetu ir valstybinio socialinio draudimo fondo
+apskaičiuotus atlyginimus, laiku atsiskaitytų su biudžetu ir valstybinio
 
-administravimo įstaigomis, taip pat už įstaigose sunaudotą visų rūšių energiją
+socialinio draudimo fondo administravimo įstaigomis, taip pat už įstaigose
 
-ir kitas paslaugas.
+sunaudotą visų rūšių energiją ir kitas paslaugas.
 
-Valstybės biudžeto
+Valstybės
 
-asignavimų valdytojai turi:
+biudžeto asignavimų valdytojai turi:
 
-rengti pavaldžioms įstaigoms
+rengti
 
-darbų, paslaugų, valdymo ir aptarnaujančio personalo etatų normatyvus,
+pavaldžioms įstaigoms darbų, paslaugų, valdymo ir aptarnaujančio personalo
 
-materialinių vertybių atsargų, inventoriaus, mitybos, medikamentų finansinius
+etatų normatyvus, materialinių vertybių atsargų, inventoriaus, mitybos,
 
-normatyvus ir, suderinę su Finansų ministerija, juos tvirtinti bei taikyti;
+medikamentų finansinius normatyvus ir, suderinę su Finansų ministerija, juos
 
-prižiūrėti apskaitos
+tvirtinti bei taikyti;
 
-tvarkymą, kontroliuoti įsiskolinimus bei imtis visų priemonių jiems išvengti ir
+prižiūrėti
 
-analizuoti pavaldžių įstaigų apyskaitas;
+apskaitos tvarkymą, kontroliuoti įsiskolinimus bei imtis visų priemonių jiems
 
-garantuoti pavaldžių įstaigų
+išvengti ir analizuoti pavaldžių įstaigų  finansinių ir biudžeto vykdymo
 
-bei savo finansinių ir statistinių ataskaitų teisingumą.
+ataskaitų rinkinius;
 
-Iš asignavimų valdytojų
+garantuoti
 
-gautus biudžeto asignavimus įstaigos naudoja racionaliai ir taupiai ir tik
+pavaldžių įstaigų bei savo finansinių ir biudžeto vykdymo ataskaitų rinkinių
 
-pagal asignavimų valdytojų patvirtintas išlaidų sąmatas.
+ir statistinių ataskaitų teisingumą.
 
-Valstybės ir savivaldybių
+Iš asignavimų
 
-biudžetų asignavimų valdytojai, taip pat jiems pavaldžių biudžetinių įstaigų
+valdytojų gautus biudžeto asignavimus įstaigos naudoja racionaliai ir taupiai
 
-vadovai, pažeidę biudžetų asignavimų paskirstymo ir naudojimo tvarką, atsako
+ir tik pagal asignavimų valdytojų patvirtintas išlaidų sąmatas.
 
-pagal Lietuvos Respublikos įstatymus.
+Valstybės ir savivaldybių biudžetų
+
+asignavimų valdytojai, taip pat jiems pavaldžių biudžetinių įstaigų vadovai,
+
+pažeidę biudžetų asignavimų paskirstymo ir naudojimo tvarką, atsako pagal
+
+Lietuvos Respublikos įstatymus.
 
 Straipsnio
 
@@ -794,6 +546,46 @@ VIII-127,
 Nr. IX-2536,
 
 2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
+
+Nr.
+
+X-1216,
+
+2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
+
+Nr. X-1824,
+
+2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
+
+9
+
+straipsnis. Biudžetinių įstaigų išlaidos
+
+Išlaidų sandarą
+
+nustato asignavimų valdytojai, neviršydami jiems patvirtintų bendrųjų
+
+asignavimų, tarp jų – išlaidoms, iš jų – darbo užmokesčiui ir turtui įsigyti.
+
+Biudžetinių įstaigų
+
+darbuotojų tarnybiniai atlyginimai ir darbo apmokėjimo sąlygos tvirtinamos
+
+Lietuvos Respublikos įstatymų ir Vyriausybės nutarimų nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-1216,
+
+2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
+
+Nr. X-1824,
+
+2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
 
 9 straipsnis. Biudžetinių
 
@@ -811,11 +603,11 @@ darbuotojų tarnybiniai atlyginimai ir darbo apmokėjimo sąlygos tvirtinamos
 
 Lietuvos Respublikos įstatymų ir Vyriausybės nutarimų nustatyta tvarka.
 
-10 straipsnis. Biudžetinių įstaigų buhalterinė
+10 straipsnis.
 
-apskaita, finansinių
+Biudžetinių įstaigų buhalterinė apskaita, finansinių ir
 
-ir biudžeto vykdymo ataskaitų rinkiniai
+biudžeto vykdymo ataskaitų rinkiniai
 
 Biudžetinės
 
@@ -839,37 +631,9 @@ Nr. X-1824,
 
 2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
 
-11 straipsnio redakcija iki tų metų, kurių ataskaitų rinkinius
+11 straipsnis.
 
-viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus
-
-atskaitomybės įstatymą, sausio 1 dieną:
-
-11
-
-straipsnis. Biudžetinių įstaigų nebiudžetinės lėšos
-
-Biudžetinės įstaigos gali
-
-turėti nebiudžetinių lėšų.
-
-Įstaigoms, finansuojamoms iš
-
-Lietuvos valstybės biudžeto, nebiudžetinių lėšų sudarymo ir naudojimo taisykles
-
-nustato Lietuvos Respublikos Vyriausybė, o įstaigoms, finansuojamoms iš
-
-savivaldybių biudžetų, - savivaldybių vykdomosios institucijos.
-
-11 straipsnio redakcija nuo nuo tų metų, kurių ataskaitų
-
-rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
-
-sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
-
-11 straipsnis. Biudžetinių įstaigų piniginės lėšos,
-
-gautos ne kaip biudžeto asignavimai
+Biudžetinių įstaigų piniginės lėšos, gautos ne kaip biudžeto asignavimai
 
 Biudžetinės
 
@@ -923,9 +687,9 @@ straipsnis. Biudžetinių įstaigų registravimas
 
 Biudžetinės įstaigos
 
-įregistruojamos, perregistruojamos ir išregistruojamos Lietuvos Respublikos įstatymų
+įregistruojamos, perregistruojamos ir išregistruojamos Lietuvos Respublikos
 
-nustatyta tvarka.
+įstatymų nustatyta tvarka.
 
 14
 
@@ -1047,11 +811,11 @@ BIUDŽETINIŲ
 
 Šis
 
-įstatymas įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai
+įstatymas įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus
 
-privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1
+subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą,
 
-dieną.
+sausio 1 dieną.
 
 Šio įstatymo įsigaliojimas keistas:
 
@@ -1067,13 +831,29 @@ BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8,
 
 9, 10, 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-609,
+
+2009-12-22, Žin., 2010, Nr. 1-20 (2010-01-05)
+
+BIUDŽETINIŲ
+
+ĮSTAIGŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2008-12-01)
+Aušrinė Trapinskienė (2010-01-11)
 
 autrap@lrs.lt
 
