@@ -4,7 +4,7 @@ identifier: "TAR.97094B63FD95"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-11-06"
-last_updated: "2004-01-01"
+last_updated: "2010-01-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.97094B63FD95"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
+
+Suvestinė redakcija nuo 2010-01-05 iki 2011-12-31
+
+Įstatymas paskelbtas: Žin. 2003, Nr. 112-4990, i. k. 1031010ISTA0IX-1804
 
 LIETUVOS RESPUBLIKOS
 
@@ -150,7 +154,11 @@ Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų r
 
 3) veiklos laikotarpis, jeigu jis yra ribotas;
 
-4) finansinių metų pradžios ir pabaigos datos.
+4) Neteko galios nuo 2010-01-05
+
+Straipsnio punkto naikinimas:
+
+Nr. XI-602, 2009-12-22, Žin. 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI-602
 
 7 straipsnis. Bendrijos dalyviai
 
@@ -387,4 +395,14 @@ Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų r
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-602, 2009-12-22, Žin., 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI-602
+
+Lietuvos Respublikos ūkinių bendrijų įstatymo 6 straipsnio pakeitimo įstatymas
 
