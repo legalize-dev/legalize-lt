@@ -4,7 +4,7 @@ identifier: "TAR.708F524D8B62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-07-03"
-last_updated: "2005-03-05"
+last_updated: "2010-02-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.708F524D8B62"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2005-03-05 iki 2010-02-01
+Suvestinė redakcija nuo 2010-02-02 iki 2016-04-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1528, i. k. 0951010ISTA000I-996
 
@@ -48,85 +48,67 @@ Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA00
 
 Įstatyme vartojamos sąvokos:
 
-taurieji metalai – auksas, sidabras, platinos grupės metalai (rutenis, rodis, paladis, platina, osmis ir iridis) visokio pavidalo: lydiniai, žaliava, pusfabrikačiai, pramoniniai gaminiai, jų laužas bei atliekos ir cheminiai junginiai;
+1) taurieji metalai – auksas, sidabras, platinos grupės metalai (rutenis, rodis, paladis, platina, osmis ir iridis) visokio pavidalo: lydiniai, žaliava, pusfabrikačiai, pramoniniai gaminiai, jų laužas bei atliekos ir cheminiai junginiai;
 
-brangakmeniai – natūralūs apdirbti bei neapdirbti brangieji akmenys: deimantai, smaragdai, rubinai, safyrai ir kiti juvelyriniai bei puošnieji akmenys ir organinės kilmės brangakmeniai (išskyrus gintarą) (pagal Juvelyrinių akmenų, sidabro dirbinių, deimantų ir perlų tarptautinės konfederacijos CIBJO patvirtintą klasifikaciją). Brangakmeniais taip pat laikomi deimantų laužas ir atliekos;
+2) brangakmeniai – natūralūs apdirbti ir neapdirbti brangieji akmenys: deimantai, smaragdai, rubinai, safyrai ir kiti juvelyriniai bei puošnieji akmenys ir organinės kilmės brangakmeniai (išskyrus gintarą) (pagal Juvelyrinių akmenų, sidabro dirbinių, deimantų ir perlų tarptautinės konfederacijos CIBJO patvirtintą klasifikaciją). Brangakmeniais taip pat laikomi deimantų laužas ir atliekos;
 
-tauriųjų metalų laužas – tauriųjų metalų turintys įvairios paskirties gaminiai, pusfabrikačiai, netinkami naudoti pagal ankstesnę tiesioginę paskirtį, taip pat lydiniai, žaliava, įvairaus pavidalo cheminiai junginiai;
+3) tauriųjų metalų laužas – tauriųjų metalų turintys įvairios paskirties gaminiai, pusfabrikačiai, netinkami naudoti pagal ankstesnę tiesioginę paskirtį, taip pat lydiniai, žaliava, įvairaus pavidalo cheminiai junginiai;
 
-brangakmenių laužas – įvairios paskirties gaminiai, turintys brangakmenių ir netinkami naudoti pagal ankstesnę tiesioginę paskirtį;
+4) brangakmenių laužas – įvairios paskirties gaminiai, turintys brangakmenių ir netinkami naudoti pagal ankstesnę tiesioginę paskirtį;
 
-tauriųjų metalų ir brangakmenių atliekos – technologinių gamybos procesų metu susidarančios atliekos, turinčios tauriųjų metalų ir brangakmenių, tinkamų rekuperacijai;
+5) tauriųjų metalų ir brangakmenių atliekos – technologinių gamybos procesų metu susidarančios atliekos, turinčios tauriųjų metalų ir brangakmenių, tinkamų rekuperacijai;
 
-tauriųjų metalų perdirbimas – tauriųjų metalų išgavimas iš cheminių junginių, koncentratų ir pusfabrikačių, laužo bei atliekų;
+6) tauriųjų metalų perdirbimas – tauriųjų metalų išgavimas iš cheminių junginių, koncentratų ir pusfabrikačių, laužo ir atliekų;
 
-tauriųjų metalų ir brangakmenių naudojimas – šių metalų ir brangakmenių apdirbimas, vartojimas gamybinėms, mokslinėms, socialinėms ir kultūrinėms reikmėms;
+7) tauriųjų metalų ir brangakmenių naudojimas – tauriųjų metalų ir brangakmenių apdirbimas, vartojimas gamybinėms, mokslinėms, socialinėms ir kultūrinėms reikmėms;
 
-prabavimas – tauriųjų metalų, jų lydinių kokybės bei kiekybės, taip pat brangakmenių tapatybės ir charakteristikų nustatymas;
+8) prabavimas – tauriųjų metalų, jų lydinių kokybės ir kiekybės, taip pat brangakmenių tapatybės ir charakteristikų nustatymas;
 
-praba – Tarptautinės standartizacijos organizacijos (ISO) arba valstybės nustatytas standartas, kuris rodo lydinio, iš kurio pagamintas gaminys, vertingumą ir santykinį tauriųjų metalų kiekį lydinio masės tūkstantyje dalių. Šio santykio ženklas įspaudžiamas gaminyje;
+9) praba – Tarptautinės standartizacijos organizacijos (ISO) arba valstybės nustatytas standartas, kuris rodo lydinio, iš kurio pagamintas gaminys, vertingumą ir santykinį tauriųjų metalų kiekį lydinio masės tūkstantyje dalių. Šio santykio ženklas įspaudžiamas gaminyje;
 
-tauriųjų metalų ir brangakmenių valstybinė priežiūra – organizacinių-techninių ir teisinių priemonių sistema, užtikrinanti tauriųjų metalų ir brangakmenių gamybos, perdirbimo, supirkimo ir realizavimo, naudojimo, saugojimo ir pervežimo, taip pat tauriųjų metalų bei brangakmenių išvežimo ir įvežimo valstybinę kontrolę;
+10) tauriųjų metalų ir brangakmenių valstybinė priežiūra – organizacinių-techninių ir teisinių priemonių sistema, užtikrinanti tauriųjų metalų ir brangakmenių gamybos, perdirbimo, supirkimo ir realizavimo, naudojimo, saugojimo ir pervežimo, taip pat tauriųjų metalų ir brangakmenių išvežimo ir įvežimo valstybinę kontrolę;
 
-Straipsnio dalies pakeitimai:
+11) Lietuvos valstybinis kontrolinis prabavimo ženklas – Lietuvos Respublikos nustatytas ženklas, kuris patvirtina, kad jį turintis gaminys yra Lietuvos prabavimo rūmų patikrintas ir paženklintas ir atitinka ženkle arabišku skaičiumi išreikštą prabą, rodančią tauriojo metalo dalių skaičių lydinio masės tūkstantyje dalių;
 
-Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+12) įspaudavimas – prabavimo technologinė operacija, kurios metu tauriųjų metalų gaminiuose įspaudžiamas Lietuvos valstybinis kontrolinis prabavimo ženklas ir praba;
 
-Lietuvos valstybinis kontrolinis prabavimo ženklas – nustatytas vieno pavyzdžio ženklas, patvirtinantis prabą;
+13) ūkio subjektas – juridinis asmuo, užsienio juridinis asmuo ar organizacija, neturinti juridinio asmens statuso, ir jų filialai, taip pat fizinis asmuo, kurie Lietuvos Respublikos teisės aktų nustatyta tvarka verčiasi ūkine komercine veikla, susijusia su tauriaisiais metalais ir brangakmeniais;
 
-įspaudavimas – prabavimo technologinė operacija, kurios metu tauriųjų metalų gaminiuose įspaudžiamas Lietuvos valstybinis kontrolinis prabavimo ženklas ir praba;
+14) atsakomybės ženklas – specialus simbolis ar abreviatūra, patvirtinanti asmenį, pateikusį gaminį rinkai;
 
-ūkio subjektas – Lietuvos Respublikoje įsteigtas ir veikiantis juridinis asmuo, užsienio juridinis asmuo ar jo padalinys, taip pat fizinis asmuo, kurie Lietuvos Respublikos teisės aktų nustatyta tvarka verčiasi ūkine komercine veikla, susijusia su tauriaisiais metalais ir brangakmeniais;
+15) pagaminimo metų šifras – tauriųjų metalų ir brangakmenių valstybinės priežiūros institucijos nustatytas metų šifras, nurodantis, kada pagamintas gaminys;
 
-Straipsnio dalies pakeitimai:
+16) tauriųjų metalų ir brangakmenių gaminiai – juvelyriniai gaminiai su brangakmeniais ar be jų, dekoratyviniai ir buities dirbiniai, taip pat gamybai ir mokslui naudojami gaminiai iš aukso, sidabro ir platinos grupės metalų lydinių;
 
-Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+17) kokybės pažymėjimas – dokumentas, patvirtinantis tauriųjų metalų prabą, masę, kiekį bei brangakmenių tapatybę ir charakteristikas;
 
-atsakomybės ženklas – specialus simbolis ar abreviatūra, patvirtinanti asmenį, pateikusį gaminį į rinką;
+18) bendrasis kontrolės ženklas – ženklas, numatytas Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijoje;
 
-Straipsnio dalies pakeitimai:
+19) įvežimas – tauriųjų metalų ir brangakmenių gaminių įvežimas į Lietuvos Respubliką;
 
-Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+20) išvežimas – tauriųjų metalų ir brangakmenių gaminių išvežimas iš Lietuvos Respublikos;
 
-pagaminimo metų šifras – tauriųjų metalų ir brangakmenių valstybinės priežiūros institucijos nustatytas metų šifras, nurodantis, kada pagamintas gaminys;
-
-tauriųjų metalų ir brangakmenių gaminiai – juvelyriniai gaminiai su brangakmeniais ar be jų, dekoratyviniai bei buities dirbiniai, taip pat gamybai ir mokslui naudojami gaminiai iš aukso, sidabro ir platinos grupės metalų lydinių;
-
-18. Neteko galios nuo 2005-03-05
-
-Straipsnio dalies naikinimas:
-
-Nr. X-114, 2005-02-15, Žin. 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
-
-kokybės pažymėjimas – dokumentas, patvirtinantis tauriųjų metalų prabą, masę, kiekį bei brangakmenių tapatybę ir charakteristikas;
-
-bendrasis kontrolės ženklas – ženklas, numatytas Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijoje;
-
-Papildyta straipsnio dalimi:
-
-Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
-
-įvežimas – tauriųjų metalų ir brangakmenių gaminių įvežimas į Lietuvos Respubliką;
-
-Papildyta straipsnio dalimi:
-
-Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
-
-išvežimas – tauriųjų metalų ir brangakmenių gaminių išvežimas iš Lietuvos Respublikos.
-
-Papildyta straipsnio dalimi:
-
-Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+21) valstybinis kontrolinis prabavimo ženklas – Europos ekonominės erdvės valstybės ir Turkijos nustatytas ženklas, kuris patvirtina, kad jį turintis gaminys yra tos valstybės įgaliotos ir nepriklausomos prabavimo priežiūros institucijos patikrintas ir paženklintas ir atitinka ženkle arabišku skaičiumi išreikštą prabą, rodančią tauriojo metalo dalių skaičių lydinio masės tūkstantyje dalių.
 
 Straipsnio pakeitimai:
 
 Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010ISTAVIII-710
 
+Nr. XI-669, 2010-01-21, Žin., 2010, Nr. 13-625 (2010-02-02), i. k. 1101010ISTA00XI-669
+
 4 straipsnis
 
-1. Visi tauriųjų metalų ir brangakmenių gaminiai, skirti realizuoti Lietuvos Respublikoje, taip pat įvežti į Lietuvos Respubliką, turi atitikti šio įstatymo nustatytas prabas. Tauriųjų metalų ir brangakmenių gaminiuose turi būti įspauduotas Lietuvos valstybinis kontrolinis prabavimo ženklas, praba, atsakomybės ženklas, išskyrus šio įstatymo 17 straipsnio 2 dalyje nurodytus atvejus, o Lietuvoje pagamintuose gaminiuose – ir pagaminimo metų šifras.
+1. Visi tauriųjų metalų ir brangakmenių gaminiai, skirti realizuoti Lietuvos Respublikoje, taip pat įvežti į Lietuvos Respubliką, turi atitikti šio įstatymo nustatytas prabas. Tauriųjų metalų ir brangakmenių gaminiuose turi būti įspaustas Lietuvos valstybinis kontrolinis prabavimo ženklas ir atsakomybės ženklas, išskyrus šio įstatymo 17 straipsnio 2 dalyje nurodytus atvejus. Ūkio subjekto pageidavimu gaminiuose gali būti įspaustas ir pagaminimo metų šifras.
 
-2. Jeigu yra Lietuvos Respublikos tarptautinė sutartis ar susitarimas dėl abipusio įspaudavimo bei kokybės pažymėjimo pripažinimo, tauriųjų metalų ir brangakmenių gaminiai iš susitarusiųjų šalių gali būti išvežami arba į jas įvežami be papildomo kontrolinio įspaudavimo ir kokybės pažymėjimo. Taurieji metalai ir brangakmeniai, kurie yra laikinai įvežti į Lietuvos Respubliką perdirbti ir kuriuos numatoma išvežti pakeitus jų pavidalą, išvežami be papildomo kontrolinio įspaudavimo.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-669, 2010-01-21, Žin., 2010, Nr. 13-625 (2010-02-02), i. k. 1101010ISTA00XI-669
+
+2. Lietuvos Respublikoje įsteigti ūkio subjektai, pateikiantys rinkai atsakomybės ženklu nepaženklintus tauriųjų metalų ir brangakmenių gaminius, privalo turėti atsakomybės ženklą, kuris registruojamas Lietuvos prabavimo rūmuose, ir šiuo ženklu paženklinti gaminius, skirtus realizuoti Lietuvos Respublikos rinkoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-669, 2010-01-21, Žin., 2010, Nr. 13-625 (2010-02-02), i. k. 1101010ISTA00XI-669
 
 Straipsnio pakeitimai:
 
@@ -280,11 +262,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
 
-2. Gamintojas, prieš pateikdamas gaminius prabuoti, įspaudžia savo atsakomybės ženklą ir pagaminimo metų šifrą, kurį nustato Lietuvos prabavimo rūmai, o asmuo, įvežantis gaminius iš užsienio, – tik savo atsakomybės ženklą.
+2. Pateikiami prabuoti gaminiai, išskyrus šio įstatymo 8 straipsnio 1 dalies 2, 3 ir 4 punktuose nurodytų asmenų pateiktus prabuoti gaminius, privalo būti paženklinti registruotu atsakomybės ženklu. Jeigu ūkio subjektas pageidauja, pateikiami prabuoti gaminiai gali būti paženklinti pagaminimo metų šifru, kurį Lietuvoje pagamintiems gaminiams nustato Lietuvos prabavimo rūmai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
+
+Nr. XI-669, 2010-01-21, Žin., 2010, Nr. 13-625 (2010-02-02), i. k. 1101010ISTA00XI-669
 
 3. Brangakmeniams, kai yra nustatyta jų tapatybė ir charakteristikos, išduodami nustatytos formos kokybės pažymėjimai.
 
@@ -326,7 +310,11 @@ Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA00
 
 1) jeigu įvežanti šalis yra pasirašiusi su Lietuvos Respublika tarptautinę sutartį ar susitarimą dėl įspaudavimo ir kokybės pažymėjimo abipusio pripažinimo;
 
-2) jeigu tauriųjų metalų ir brangakmenių gaminiai, įvežami iš kitos valstybės – priklausančios Europos ekonominei erdvei ir Turkijos, kuriose juos leidžiama teikti rinkai, – yra patikrinti ir paženklinti įgaliotos ir nepriklausomos institucijos, turi savo gaminyje įspaustą toje valstybėje registruotą atsakomybės ženklą;
+2) jeigu tauriųjų metalų ir brangakmenių gaminiai, įvežami iš kitos valstybės –Europos ekonominės erdvės valstybės ir Turkijos, kuriose juos leidžiama teikti rinkai, – yra valstybės įgaliotos ir nepriklausomos prabavimo priežiūros institucijos patikrinti ir paženklinti tos valstybės valstybiniu kontroliniu prabavimo ženklu ir turi gaminyje įspaustą toje valstybėje registruotą privalomą atsakomybės ženklą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-669, 2010-01-21, Žin., 2010, Nr. 13-625 (2010-02-02), i. k. 1101010ISTA00XI-669
 
 3) jeigu tauriųjų metalų gaminiai paženklinti bendruoju kontrolės ženklu pagal Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos reikalavimus;
 
@@ -362,7 +350,13 @@ Nr. VIII-710, 1998-04-21, Žin., 1998, Nr. 44-1197 (1998-05-13), i. k. 0981010IS
 
 19 straipsnis
 
-Lietuvos Respublikoje ūkio subjektams yra draudžiama prekiauti tauriųjų metalų ir brangakmenių gaminiais, kurių prabos neatitinka šio įstatymo 7 straipsnyje nustatytų prabų ar be kokybės pažymėjimo.
+1. Lietuvos Respublikoje realizuojami tauriųjų metalų ir brangakmenių gaminiai turi atitikti šio įstatymo 7 straipsnyje nustatytas prabas.
+
+2. Iš netauriųjų metalų pagaminti gaminiai, padengti tauriaisiais metalais, taip pat gaminiai, neatitinkantys žemiausios šio įstatymo 7 straipsnyje nustatytos prabos, Lietuvos Respublikoje negali būti realizuojami kaip tauriųjų metalų gaminiai.
+
+Straipsnio pakeitimai:
+
+Nr. XI-669, 2010-01-21, Žin., 2010, Nr. 13-625 (2010-02-02), i. k. 1101010ISTA00XI-669
 
 20 straipsnis
 
@@ -515,4 +509,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-114, 2005-02-15, Žin., 2005, Nr. 31-972 (2005-03-05), i. k. 1051010ISTA000X-114
 
 Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo 2, 3, 4, 6, 7, 9, 13, 15, 17, 18, 22, 23, 24 straipsnių ir III skyriaus pavadinimo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-669, 2010-01-21, Žin., 2010, Nr. 13-625 (2010-02-02), i. k. 1101010ISTA00XI-669
+
+Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo 3, 4, 6, 15, 17 ir 19 straipsnių pakeitimo įstatymas
 
