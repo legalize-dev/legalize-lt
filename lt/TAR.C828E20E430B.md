@@ -4,7 +4,7 @@ identifier: "TAR.C828E20E430B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2003-11-19"
+last_updated: "2010-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C828E20E430B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 8 straipsnio 2 dalies 1, 2 ir 3 punktai 
 ---
 # Lietuvos Respublikos kino įstatymas
 
-Suvestinė redakcija nuo 2003-11-19 iki 2010-02-28
+Suvestinė redakcija nuo 2010-03-01 iki 2012-04-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 31-1107, i. k. 1021010ISTA00IX-752
 
@@ -244,6 +244,12 @@ FILMŲ PLATINIMAS, RODYMAS
 
 2. Filmai Lietuvoje gali būti platinami ir viešai rodomi tik įstatymų nustatyta tvarka, įgijus teises pagal autorines, licencines ar kitas su autorių teisių turėtojais sudarytas sutartis, kuriose suteikiamos ar perduodamos šios teisės.
 
+3. Kino organizacijos, kurios verčiasi viešu filmų rodymu, privalo užtikrinti, kad filmo rodymo metu į kino salę (videosalę) negalėtų patekti jaunesni, nei numatyta pagal filmo indeksą, žiūrovai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-296, 2009-06-16, Žin., 2009, Nr. 77-3163 (2009-06-30), i. k. 1091010ISTA00XI-296
+
 11 straipsnis. Filmų registras
 
 1. Visi filmai, pagaminti Lietuvoje, taip pat įvežti į Lietuvos Respubliką platinti ir viešai rodyti, išskyrus filmus, kurie rodomi festivaliuose, seminaruose, retrospektyvose ir kituose renginiuose, turi būti užregistruoti filmų registre. Jį steigia Vyriausybė. Filmai užregistruojami per 7 darbo dienas.
@@ -306,6 +312,12 @@ Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010IS
 
 5) „S“ – filmai, skirti tik suaugusiesiems nuo 18 metų.
 
+6. Kino organizacijos, kurios verčiasi viešu filmų rodymu, privalo užtikrinti, kad filmų, skirtų žiūrovams nuo 18, 16 ir 7 metų, pristatymas (anonsas) kino salėse nebūtų rodomas prieš filmus, skirtus jaunesniems nei pristatomų (anonsuojamų) filmų žiūrovams, ir po šių filmų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-296, 2009-06-16, Žin., 2009, Nr. 77-3163 (2009-06-30), i. k. 1091010ISTA00XI-296
+
 13 straipsnis. Atsakomybė už šio Įstatymo pažeidimus
 
 Už šio Įstatymo pažeidimus taikoma atsakomybė įstatymų nustatyta tvarka.
@@ -365,4 +377,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
 
 Lietuvos Respublikos kino įstatymo 6, 8 ir 12 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-296, 2009-06-16, Žin., 2009, Nr. 77-3163 (2009-06-30), i. k. 1091010ISTA00XI-296
+
+Lietuvos Respublikos kino įstatymo 10 ir 12 straipsnių papildymo įstatymas
 
