@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "2007-06-21"
+last_updated: "2010-03-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -2331,11 +2331,31 @@ Notaro
 
 Respublikos teisingumo ministro įsakymu.
 
-Notaro
+Notaro įgaliojimai gali būti pratęsti Lietuvos
 
-įgaliojimai gali būti pratęsti Lietuvos Respublikos teisingumo ministro įsakymu
+Respublikos teisingumo ministro įsakymu Notarų rūmų teikimu, iki notarui sukaks
 
-Notarų rūmų teikimu, iki notarui sukaks 70 metų.
+70 metų.
+
+Pastaba. Pripažinti, kad Lietuvos
+
+Respublikos notariato įstatymo 23 straipsnio 3 dalis (2003 m.
+
+sausio 23 d. redakcija; Žin., 2003, Nr. 15-598) prieštarauja
+
+Lietuvos Respublikos Konstitucijos 29 straipsniui, 48 straipsnio 1 dalies
+
+nuostatai „Kiekvienas žmogus gali laisvai pasirinkti darbą bei verslą“,
+
+konstituciniam teisinės valstybės principui.
+
+Lietuvos Respublikos Konstitucinis Teismas,
+
+Nutarimas
+
+2010-03-22, Žin., 2010, Nr.
+
+34-1620 (2010-03-25)
 
 Straipsnio
 
@@ -2357,9 +2377,9 @@ Nr. VIII-1225,
 
 99.06.15, Žin., 1999, Nr.57-1831 (99.06.30)
 
-Nr. IX-1311, 2003-01-23,
+Nr. IX-1311,
 
-Žin., 2003, Nr. 15-598 (2003-02-12)
+2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
 
 Nr. X-1164,
 
@@ -2451,9 +2471,9 @@ parašo dokumentuose tikrumą;
 
 dokumentų vertimo iš vienos kalbos į kitą tikrumą;
 
-7) tvirtina faktą,
+7) tvirtina
 
-kad fizinis asmuo yra gyvas ir yra tam tikroje vietovėje;
+faktą, kad fizinis asmuo yra gyvas ir yra tam tikroje vietovėje;
 
 8) priima
 
@@ -4069,11 +4089,11 @@ laikinai apsigyventi Lietuvos Respublikoje arba leidimą nuolat gyventi Lietuvos
 
 Respublikoje. Užsieniečių, kurie pateikė prašymą suteikti pabėgėlio Lietuvos
 
-Respublikoje statusą ir kuriems suteikta teisė naudotis laikinu teritoriniu prieglobsčiu
+Respublikoje statusą ir kuriems suteikta teisė naudotis laikinu teritoriniu
 
-Lietuvos Respublikoje, asmens tapatybė nustatoma pagal pateiktą užsieniečio
+prieglobsčiu Lietuvos Respublikoje, asmens tapatybė nustatoma pagal pateiktą
 
-registracijos pažymėjimą.
+užsieniečio registracijos pažymėjimą.
 
 Tvirtinant
 
@@ -4271,25 +4291,25 @@ užsienio kalba surašyto dokumento nuorašo tikrumą, notaras tvirtinamąjį į
 
 parašo valstybine kalba.
 
-Jeigu tvirtinamasis
+Jeigu
 
-įrašas ar notarinis liudijimas netelpa sudaromame notariniame dokumente, jis
+tvirtinamasis įrašas ar notarinis liudijimas netelpa sudaromame notariniame
 
-gali būti surašytas pridedamame prie dokumento popieriaus lape. Šiuo atveju
+dokumente, jis gali būti surašytas pridedamame prie dokumento popieriaus lape.
 
-lapai su dokumento tekstu ir lapas su tvirtinamuoju įrašu ar notariniu
+Šiuo atveju lapai su dokumento tekstu ir lapas su tvirtinamuoju įrašu ar
 
-liudijimu susiuvami, sunumeruojami, susiūtų lapų skaičius patvirtinamas notaro
+notariniu liudijimu susiuvami, sunumeruojami, susiūtų lapų skaičius
 
-parašu ir antspaudu.
+patvirtinamas notaro parašu ir antspaudu.
 
 Notaro bylose saugomų dokumentų, kuriais remiantis
 
 atlikti notariniai veiksmai, kopijų tikrumas liudijamas pagal bendrąsias
 
-dokumentų rengimo ir įforminimo taisykles, nustatytas Lietuvos archyvų
+dokumentų rengimo ir įforminimo taisykles, nustatytas Lietuvos archyvų departamento
 
-departamento prie Lietuvos Respublikos Vyriausybės.
+prie Lietuvos Respublikos Vyriausybės.
 
 Straipsnio
 
@@ -4319,11 +4339,11 @@ veiksmo registracijos numeris;
 
 veiksmo atlikimo data;
 
-3) fizinio asmens
+3) fizinio
 
-vardas, pavardė, asmens kodas arba gimimo data, juridinio asmens pavadinimas,
+asmens vardas, pavardė, asmens kodas arba gimimo data, juridinio asmens
 
-kodas, atstovo vardas, pavardė, asmens kodas arba gimimo data;
+pavadinimas, kodas, atstovo vardas, pavardė, asmens kodas arba gimimo data;
 
 4) dokumentas,
 
@@ -4333,9 +4353,9 @@ patvirtinantis asmens tapatybę;
 
 veiksmo arba suteiktos teisinės paslaugos turinys;
 
-6) notaro
+6) notaro atlyginimo
 
-atlyginimo dydis už notarinio veiksmo atlikimą;
+dydis už notarinio veiksmo atlikimą;
 
 7) notaro
 
@@ -4959,9 +4979,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. IX-1311,
+Nr. IX-1311, 2003-01-23,
 
-2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
+Žin., 2003, Nr. 15-598 (2003-02-12)
 
 42
 
@@ -5113,15 +5133,15 @@ sutartyse taip pat nurodoma, kad nuosavybės teisė į nekilnojamąjį daiktą
 
 trečiuosius asmenis nuosavybės teisės į nekilnojamąjį daiktą perleidimo sutartį
 
-gali panaudoti tik tuo atveju, jei nuosavybės teisės perėjimo faktas daikto priėmimo-perdavimo
+gali panaudoti tik tuo atveju, jei nuosavybės teisės perėjimo faktas daikto
 
-akto ar kito dokumento pagrindu įstatymų nustatyta tvarka įregistruotas viešame
+priėmimo-perdavimo akto ar kito dokumento pagrindu įstatymų nustatyta tvarka
 
-registre. Duomenis apie patvirtintą sutartį notaras perduoda viešo registro
+įregistruotas viešame registre. Duomenis apie patvirtintą sutartį notaras
 
-tvarkytojui per 24 valandas nuo sutarties patvirtinimo momento teisės aktų
+perduoda viešo registro tvarkytojui per 24 valandas nuo sutarties patvirtinimo
 
-nustatyta tvarka.
+momento teisės aktų nustatyta tvarka.
 
 Straipsnio
 
@@ -6329,9 +6349,9 @@ VIII-737,
 
 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
 
-56 straipsnis. Kandidatai į notarus
+56 straipsnis. Kandidatai į
 
-(asesoriai)
+notarus (asesoriai)
 
 Kandidatas
 
@@ -6441,9 +6461,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. IX-1311, 2003-01-23,
+Nr. IX-1311,
 
-Žin., 2003, Nr. 15-598 (2003-02-12)
+2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
 
 58 straipsnis. Neteko galios
 
@@ -6683,9 +6703,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. VIII-1045, 99.02.09,
+Nr. VIII-1045,
 
-Žin., 1999, Nr.19-509 (99.02.24)
+99.02.09, Žin., 1999, Nr.19-509 (99.02.24)
 
 LIETUVOS
 
