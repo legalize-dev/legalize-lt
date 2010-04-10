@@ -4,7 +4,7 @@ identifier: "TAR.ABF3AEE57087"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-11-21"
-last_updated: "2010-01-05"
+last_updated: "2010-04-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ABF3AEE57087"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -247,550 +247,6 @@ susivienijimai gali būti kuriami tik laisvu profesinių sąjungų susitarimu ir
 
 iniciatyva.
 
-8
-
-straipsnis. Profesinės sąjungos įstatai (statutas) ir jų registracija
-
-Profesinės sąjungos arba jų
-
-susivienijimai, turi šio įstatymo nustatyta tvarka įregistruoti savo įstatus
-
-(statutus).
-
-Profesinės sąjungos
-
-įstatuose (statute) turi būti nurodoma:
-
-1) profesinės
-
-sąjungos pavadinimas;
-
-2) profesinės
-
-sąjungos buveinės keitimo tvarka;
-
-3) profesinės sąjungos
-
-organizacinė struktūra;
-
-4) vadovaujantieji organai;
-
-5) veiklos nutraukimo
-
-tvarka;
-
-6) profesinei sąjungai
-
-priklausančio turto valdymo, disponavimo ir naudojimo tvarka.
-
-Profesinių sąjungų, kurios nesijungia į teritorinius
-
-ir nacionalinius susivienijimus ir yra vienos savivaldybės teritorijoje,
-
-įstatus (statutą) registruoja savivaldybės vykdomoji institucija.
-
-Profesinių sąjungų, jų
-
-susivienijimų, kurie pagal savo įstatus (statutą) veikia daugiau kaip vienos
-
-savivaldybės teritorijoje ir kurių buveinė yra apskrities centre ar kitoje
-
-apskrities teritorijoje - miesto ar kaimo gyvenamojoje vietovėje, įstatus registruoja
-
-apskrities viršininkas.
-
-Profesinių sąjungų, jų
-
-susivienijimų, kurių veikla apima daugiau kaip vienos apskrities teritoriją,
-
-įstatus (statutą) registruoja Lietuvos Respublikos teisingumo ministerija.
-
-Profesinių sąjungų, jų
-
-susivienijimų įstatai (statutas) registruojami ne vėliau kaip per mėnesį nuo
-
-kreipimosi dėl registravimo pagal šį įstatymą gavimo dienos, pateikus
-
-profesinės sąjungos įstatus (statutą) ir susirinkimo (konferencijos,
-
-suvažiavimo) protokolą (arba protokolo išrašą) dėl profesinės sąjungos,
-
-susivienijimo įsteigimo.
-
-Profesinės sąjungos, jų
-
-susivienijimai įgyja juridinio asmens teises nuo jų įstatų (statuto)
-
-įregistravimo dienos.
-
-Atsisakius registruoti
-
-profesinės sąjungos, jų susivienijimo įstatus (statutą), apie tai ne vėliau kaip
-
-per tris dienas nuo sprendimo priėmimo raštu pranešama steigėjams ir nurodoma,
-
-kokio Lietuvos Respublikos įstatymų akto neatitinka profesinės sąjungos, jų
-
-susivienijimo įstatai (statutas).
-
-Atsisakymas registruoti
-
-profesinės sąjungos, jų susivienijimų įstatus (statutą) gali būti apskųstas
-
-apylinkės teismui, kuris skundą išnagrinėja per dešimt dienų.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-474,
-
-94.05.24, Žin., 1994, Nr.42-758
-
-Nr.
-
-I-640,
-
-94.11.08., Žin., 1994, Nr.91-1764
-
-Nr.
-
-I-933,
-
-95.06.08, Žin., 1995, Nr.52-1276 (95.06.23)
-
-Nr. VIII-308,
-
-97.06.26, Žin., 1997, Nr.65-1539 (97.07.09)
-
-Nr. IX-230,
-
-2001 03 27, Žin., 2001, Nr. 28-901 (2001 03 30)
-
-Nr. XI-599,
-
-2009-12-22, Žin., 2010, Nr. 1-10 (2010-01-05)
-
-9
-
-straipsnis. Profesinės sąjungos, jų susivienijimų veiklos sustabdymas ar
-
-nutraukimas
-
-Profesinės sąjungos, jų
-
-susivienijimų veikla gali būti sustabdyta ir nutraukta:
-
-1) jų įstatuose (statute)
-
-nustatyta tvarka;
-
-2) teismo sprendimu.
-
-Profesinei sąjungai, jų
-
-susivienijimui pažeidus Lietuvos Respublikos Laikinąjį Pagrindinį Įstatymą
-
-(Konstituciją) ir šį įstatymą, ją įregistravęs organas apie pažeidimą raštu
-
-praneša profesinės sąjungos, susivienijimo vadovaujantiems organams ir nurodo
-
-terminą, per kurį pažeidimai turi būti pašalinti. Jei pažeidimai nepašalinti,
-
-profesinės sąjungos, jų susivienijimo įstatus (statutą) registravęs organas, taip
-
-pat prokuroras turi teisę kreiptis į teismą dėl profesinės sąjungos, jų
-
-susivienijimo veiklos sustabdymo.
-
-Teismo sprendimu profesinių
-
-sąjungų, jų susivienijimų veikla gali būti sustabdyta ne ilgesniam kaip 3
-
-mėnesių laikotarpiui. Jei per šį laiką nepašalinamas nurodytas pažeidimas,
-
-teismo sprendimu profesinių sąjungų, jų susivienijimų veikla gali būti
-
-nutraukta.
-
-Profesinių sąjungų, jų
-
-susivienijimų veikla teismo sprendimu taip pat gali būti nutraukta, kai
-
-profesinės sąjungos, jų susivienijimai per metus nuo tos dienos,kai jų veikla
-
-teismo sprendimu buvo sustabdyta, vėl pažeidžia Lietuvos Respublikos Laikinąjį
-
-Pagrindinį Įstatymą (Konstituciją) ar šį įstatymą.
-
-III skirsnis.
-
-Profesinių sąjungų santykiai su darbdaviais
-
-10
-
-straipsnis. Profesinės sąjungos ir darbdavys
-
-Profesinės sąjungos yra
-
-nepriklausomos nuo darbdavio, jo įgaliotojo atstovo.
-
-Darbdaviui, jo įgaliotajam
-
-atstovui draudžiama sąlygoti priėmimą į darbą arba siūlyti išlaikyti darbo
-
-vietą, reikalaujant, kad darbuotojas nestotų į profesinę sąjungą ar išstotų iš
-
-jos.
-
-Darbdaviui, jo įgaliotajam
-
-atstovui draudžiama organizuoti ir finansuoti organizacijas, siekiančias
-
-trukdyti profesinių sąjungų veiklą, ją nutraukti ar kontroliuoti.
-
-Profesinės sąjungos
-
-atstovauja profesinės sąjungos nariams santykiuose su darbdaviu, jo įgaliotuoju
-
-atstovu. Profesinės sąjungos gina savo narių darbo ir ekonomines socialines
-
-teises bei interesus.
-
-Darbdavys gali pervesti
-
-profesinei sąjungai kolektyvinėje sutartyje nustatytą pinigų sumą.
-
-Jeigu yra profesinės
-
-sąjungos nario prašymas, darbdavys privalo kiekvieną mėnesį išskaičiuoti iš
-
-profesinės sąjungos nario darbo užmokesčio nustatyto dydžio nario mokestį ir
-
-pervesti jį į profesinės sąjungos sąskaitą.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-474,
-
-94.05.24, Žin., 1994, Nr.42-758
-
-11
-
-straipsnis. Profesinių sąjungų teisė sudaryti kolektyvines ir kitas sutartis
-
-Profesinės sąjungos
-
-atstovauja savo nariams (taip pat gali būti darbuotojų kolektyvo atstovais),
-
-sudarydamos su darbdaviu kolektyvinę ir kitokias sutartis.
-
-12
-
-straipsnis. Profesinių sąjungų teisė sudaryti sutartis su darbdavių
-
-organizacijomis
-
-Profesinės sąjungos, jų
-
-susivienijimai turi teisę vesti derybas ir sudaryti sutartis (susitarimus) su
-
-darbdaviais, jų organizacijomis, susivienijimais dėl darbuotojų užimtumo,
-
-perkvalifikavimo, darbo organizavimo ir apmokėjimo, darbo ir gyvenimo sąlygų
-
-gerinimo bei kitų klausimų.
-
-13
-
-straipsnis. Darbdavio pareigos santykiuose su profesinėmis sąjungomis
-
-Darbo, ekonominius,
-
-socialinius klausimus įstatymų numatytais atvejais darbdavys privalo spręsti,
-
-suderinęs su profesinės sąjungos organais.
-
-Darbdavys privalo užtikrinti
-
-profesinių sąjungų veiklos sąlygas, numatytas kolektyvinėse ir kitose jų
-
-tarpusavio sutartyse.
-
-Darbdavys sudaro sąlygas
-
-darbuotojų profesinės sąjungos narių švietimui. Kolektyvinėje sutartyje šiam
-
-tikslui gali būti numatomas tam tikras lėšų procentas nuo darbo užmokesčio
-
-fondo. Darbuotojo ir profesinės sąjungos prašymu darbdavys suteikia darbuotojui
-
-nemokamas iki 3 dienų atostogas per metus švietimui ir mokymuisi.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. IX-230,
-
-2001 03 27, Žin., 2001, Nr. 28-901 (2001 03 30)
-
-IV skirsnis.
-
-Profesinės sąjungos ir valstybės organai
-
-14
-
-straipsnis. Profesinių sąjungų teisės norminių aktų leidyboje
-
-Profesinės sąjungos ir jų
-
-susivienijimai teikia pasiūlymus valstybinės valdžios ir valdymo organams dėl
-
-norminių aktų darbo, ekonominiais ir socialiniais klausimais priėmimo,
-
-pakeitimo ar panaikinimo.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-474,
-
-94.05.24, Žin., 1994, Nr.42-758
-
-15
-
-straipsnis. Profesinių sąjungų teisių gynimas
-
-Profesinės sąjungos
-
-atstovauja savo nariams ir įstatymų nustatyta tvarka gina savo ir savo narių
-
-teises ir teisėtus interesus valstybės organuose.
-
-Profesinės sąjungos,
-
-gindamos savo narių teises ir teisėtus interesus, gali sudaryti susitarimus su
-
-valstybės valdžios ir valdymo organais.
-
-16
-
-straipsnis. Valstybės organų ir organizacijų teikiama pagalba profesinėms
-
-sąjungoms
-
-Profesinės sąjungos ir jų
-
-susivienijimai iš valstybės organų ir organizacijų turi teisę gauti savo
-
-veiklai reikalingą informaciją darbo, ekonominiais ir socialiniais klausimais,
-
-kurią valstybės organai ir organizacijos privalo pateikti įstatymų nustatytais
-
-terminais.
-
-Valstybės organai skatina
-
-derybas tarp profesinių sąjungų ir darbdavių ar jų organizacijų.
-
-Valstybės organai,
-
-organizacijos gali teikti profesinėms sąjungoms paramą socialiniams ir kitiems
-
-tyrimams vykdyti.
-
-V skirsnis.
-
-Profesinių sąjungų teisės.
-
-Profesinių
-
-sąjungų ir jų narių veiklos garantijos
-
-17
-
-straipsnis. Profesinių sąjungų teisė kontroliuoti darbo ir profesinių sąjungų
-
-įstatymų
-
-laikymąsi
-
-Profesinės sąjungos turi
-
-teisę kontroliuoti, kaip darbdavys laikosi ir vykdo su jų atstovaujamų
-
-darbuotojų teisėmis ir interesais susijusius darbo, ekonominius ir socialinius
-
-įstatymus, kolektyvines sutartis ir susitarimus. Šiems tikslams profesinės
-
-sąjungos gali turėti inspekcijas, teisinės pagalbos tarnybas ir kitas
-
-institucijas.
-
-Profesinės sąjungos įgalioti
-
-asmenys, vykdydami šio straipsnio pirmojoje dalyje numatytas kontrolės
-
-funkcijas, turi teisę nekliudomai lankytis įmonėse, įstaigose, organizacijose,
-
-kuriose dirba tos profesinės sąjungos atstovaujami darbuotojai, ir susipažinti
-
-su dokumentais apie darbo, ekonomines ir socialines sąlygas.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-474,
-
-94.05.24, Žin., 1994, Nr.42-758
-
-18
-
-straipsnis. Profesinių sąjungų teisė reikalauti panaikinti darbdavio sprendimus
-
-Profesinės sąjungos turi
-
-teisę reikalauti iš darbdavio panaikinti jo sprendimus, kurie pažeidžia
-
-Lietuvos Respublikos įstatymų numatytas darbo, ekonomines bei socialines
-
-profesinių sąjungų narių teises.
-
-Šiuos reikalavimus darbdavys
-
-turi išnagrinėti ne vėliau kaip per 10 dienų, dalyvaujant juos pateikusios
-
-profesinės sąjungos atstovams.
-
-Jeigu darbdavys laiku
-
-neišnagrinėja profesinių sąjungų reikalavimo panaikinti tokį sprendimą arba
-
-atsisako jį patenkinti, profesinė sąjunga turi teisę kreiptis į teismą.
-
-19
-
-straipsnis. Profesinių sąjungų teisė siūlyti traukti atsakomybėn pareigūnus
-
-Profesinės sąjungos turi
-
-teisę siūlyti traukti atsakomybėn pareigūnus, kurie pažeidžia darbo įstatymus,
-
-neužtikrina saugių darbo sąlygų, nevykdo kolektyvinės sutarties ar kitokių
-
-tarpusavio susitarimų.
-
-20
-
-straipsnis. Profesinių sąjungų ir jų narių teisių gynimas
-
-Profesinių sąjungų ir jų
-
-narių teises ir teisėtus interesus įstatymų nustatyta tvarka gina valstybiniai
-
-valdžios ir valdymo organai, teismai bei kiti teisėsaugos organai.
-
-Valstybės organai,
-
-pareigūnai, fiziniai ar juridiniai asmenys, neteisėtais veiksmais padarę žalą
-
-profesinei sąjungai, privalo ją atlyginti įstatymų nustatyta tvarka.
-
-21
-
-straipsnis. Profesinių sąjungų narių darbo teisių garantijos
-
-Darbdavys negali atleisti iš darbo darbuotojo
-
-įmonėje veikiančios profesinės sąjungos renkamojo organo nario pagal Darbo
-
-sutarties įstatymo 29 straipsnio pirmosios dalies 2 punktą ir savo valia,
-
-negavęs tos profesinės sąjungos įmonėje renkamojo organo išankstinio sutikimo.
-
-Šio straipsnio pirmojoje dalyje
-
-nurodytiems darbuotojams skiriant drausmines nuobaudas, išskyrus drausminę
-
-nuobaudą – atleidimą iš darbo, taip pat reikalingas išankstinis profesinės
-
-sąjungos renkamojo organo sutikimas.
-
-Profesinių
-
-sąjungų nariams, atleistiems iš darbo dėl jų išrinkimo į renkamąsias pareigas
-
-profesinių sąjungų organizacijose, pasibaigus renkamųjų pareigų įgaliojimams,
-
-suteikiamas pirmesnis darbas (pareigos), o jeigu jo nėra, – kitas lygiavertis
-
-darbas (pareigos) toje pačioje arba darbuotojo sutikimu kitoje įmonėje,
-
-įstaigoje, organizacijoje.
-
-Įmonės, įstaigos, organizacijos
-
-darbuotojas, išrinktas į renkamuosius tos įmonės, įstaigos, organizacijos
-
-profesinės sąjungos organus ir dėl to nutraukęs darbo santykius, prilyginamas
-
-tos įmonės, įstaigos, organizacijos darbuotojui ir jam taikomos socialinės
-
-garantijos visą renkamųjų pareigų ėjimo laiką.
-
-Kitos garantijos
-
-darbuotojams, išrinktiems į renkamuosius profesinės sąjungos organus, gali būti
-
-nustatytos kolektyvinėse ir kitose sutartyse.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-474,
-
-94.05.24, Žin., 1994, Nr.42-758
-
-Nr.
-
-I-933,
-
-95.06.08, Žin., 1995, Nr.52-1276 (95.06.23)
-
-22
-
-straipsnis. Profesinių sąjungų dalyvavimas sprendžiant darbo ginčus įstatymų
-
-nustatyta tvarka
-
-Profesinės sąjungos,
-
-sprendžiant individualius ir kolektyvinius darbo ginčus, dalyvauja įstatymų
-
-nustatyta tvarka.
-
-Ginčus, kilusius tarp
-
-profesinių sąjungų ir darbdavio dėl įstatymų ar sutartimis numatytų pareigų ir
-
-prievolių nevykdymo, nagrinėja teismas.
-
 1 straipsnis. Teisė jungtis
 
 į profesines sąjungas
@@ -943,93 +399,137 @@ susivienijimai gali būti kuriami tik laisvu profesinių sąjungų susitarimu ir
 
 iniciatyva.
 
-8 straipsnis. Profesinės
+8 straipsnis. Profesinės sąjungos įstatai (statutas)
 
-sąjungos įstatai (statutas) ir jų registracija
+ir dokumentų pateikimas Juridinių asmenų registrui
 
-Profesinės sąjungos arba jų
+Profesinės
 
-susivienijimai, turi šio įstatymo nustatyta tvarka įregistruoti savo įstatus
+sąjungos arba jų susivienijimai teisės aktų nustatyta tvarka turi pateikti
 
-(statutus).
+Juridinių asmenų registrui profesinės sąjungos įstatus (statutą) ir kitus
 
-Profesinės sąjungos
+dokumentus, patvirtinančius šio įstatymo 6 straipsnio 2 dalyje nurodytų
 
-įstatuose (statute) turi būti nurodoma:
+aplinkybių buvimą.
 
-1) profesinės sąjungos
+Profesinės
 
-pavadinimas ir buveinė;
+sąjungos įstatuose (statute) turi būti nurodyta:
 
-2) profesinės sąjungos
+1) profesinės
 
-organizacinė struktūra;
+sąjungos pavadinimas;
 
-3) vadovaujantieji organai;
+2) profesinės
 
-4) veiklos nutraukimo
+sąjungos teisinė forma;
 
-tvarka;
+3) profesinės
 
-5) profesinei sąjungai
+sąjungos veiklos tikslai, įvardijant veiklos sritis ir rūšis;
 
-priklausančio turto valdymo, disponavimo ir naudojimo tvarka.
+4) profesinės
 
-Profesinių sąjungų, kurios nesijungia į teritorinius
+sąjungos
 
-ir nacionalinius susivienijimus ir yra vienos savivaldybės teritorijoje,
+narių teisės ir pareigos;
 
-įstatus (statutą) registruoja savivaldybės vykdomoji institucija.
+5) naujų narių
 
-Profesinių sąjungų, jų susivienijimų,
+priėmimo, narių išstojimo ir pašalinimo iš profesinės sąjungos tvarka ir
 
-kurie pagal savo įstatus (statutą) veikia daugiau kaip vienos savivaldybės
+sąlygos;
 
-teritorijoje ir kurių buveinė yra apskrities centre ar kitoje apskrities
+6) visuotinio
 
-teritorijoje - miesto ar kaimo gyvenamojoje vietovėje, įstatus registruoja
+narių susirinkimo (konferencijos) kompetencija, sušaukimo tvarka, sprendimų
 
-apskrities viršininkas.
+priėmimo tvarka;
 
-Profesinių sąjungų, jų
+7) valdymo
 
-susivienijimų, kurių veikla apima daugiau kaip vienos apskrities teritoriją,
+organai, jų kompetencija, sudarymo tvarka, kolegialaus valdymo organo (jei jis
 
-įstatus (statutą) registruoja Lietuvos Respublikos teisingumo ministerija.
+sudaromas) narių ir pirmininko skyrimo (rinkimo) ir atšaukimo tvarka;
 
-Profesinių sąjungų, jų
+8) kiti
 
-susivienijimų įstatai (statutas) registruojami ne vėliau kaip per mėnesį nuo
+kolegialūs organai (jei jie sudaromi), jų kompetencija, sudarymo tvarka, narių
 
-kreipimosi dėl registravimo pagal šį įstatymą gavimo dienos, pateikus
+ir pirmininko skyrimo (rinkimo) ir atšaukimo tvarka;
 
-profesinės sąjungos įstatus (statutą) ir susirinkimo (konferencijos,
+9) dokumentų ir
 
-suvažiavimo) protokolą (arba protokolo išrašą) dėl profesinės sąjungos,
+kitos informacijos apie profesinės sąjungos veiklą pateikimo nariams tvarka,
 
-susivienijimo įsteigimo.
+jeigu įstatuose (statute) nenurodyta, kad ši tvarka bus patvirtinta atskiru
 
-Profesinės sąjungos, jų
+dokumentu;
 
-susivienijimai įgyja juridinio asmens teises nuo jų įstatų (statuto)
+10) viešos
 
-įregistravimo dienos.
+informacijos skelbimo ar pranešimo apie ją tvarka;
 
-Atsisakius registruoti
+11) profesinės
 
-profesinės sąjungos, jų susivienijimo įstatus (statutą), apie tai ne vėliau
+sąjungos filialų ir atstovybių steigimo ir jų veiklos nutraukimo tvarka;
 
-kaip per tris dienas nuo sprendimo priėmimo raštu pranešama steigėjams ir
+12) profesinės
 
-nurodoma, kokio Lietuvos Respublikos įstatymų akto neatitinka profesinės
+sąjungos įstatų (statuto) keitimo tvarka;
 
-sąjungos, jų susivienijimo įstatai (statutas).
+13) profesinės
 
-Atsisakymas registruoti
+sąjungos veiklos laikotarpis, jei jis yra ribotas;
 
-profesinės sąjungos, jų susivienijimų įstatus (statutą) gali būti apskųstas
+14) profesinei
 
-apylinkės teismui, kuris skundą išnagrinėja per dešimt dienų.
+sąjungai priklausančio turto valdymo, naudojimo ir disponavimo juo tvarka, taip
+
+pat profesinės sąjungos veiklos kontrolės tvarka;
+
+15) profesinės
+
+sąjungos buveinės keitimo tvarka;
+
+16) profesinės
+
+sąjungos veiklos nutraukimo tvarka.
+
+Profesinės
+
+sąjungos įstatuose (statute) gali būti ir kitų profesinės sąjungos veiklos
+
+nuostatų, jeigu jos neprieštarauja Lietuvos Respublikos Konstitucijai, Lietuvos
+
+Respublikos civiliniam kodeksui, šiam ar kitiems įstatymams.
+
+Steigiamos
+
+profesinės sąjungos įstatus (statutą) turi pasirašyti steigiamojo susirinkimo
+
+įgaliotas asmuo ne vėliau kaip per tris dienas nuo steigiamojo susirinkimo
+
+dienos.
+
+Įsteigtos
+
+profesinės sąjungos pakeistus įstatus (statutą) pasirašo šios profesinės
+
+sąjungos valdymo organas arba visuotinio narių susirinkimo įgaliotas asmuo.
+
+Kartu su įstatų (statuto) pakeitimais profesinė sąjunga Juridinių asmenų
+
+registrui turi pateikti visą pakeistų profesinės sąjungos įstatų (statuto)
+
+tekstą (naują redakciją).
+
+Profesinės
+
+sąjungos įstatus (statutą) pasirašiusių fizinių asmenų parašų tikrumas notaro
+
+netvirtinamas.
 
 Straipsnio
 
@@ -1049,9 +549,9 @@ I-640,
 
 Nr.
 
-I-933, 95.06.08,
+I-933,
 
-Žin., 1995, Nr.52-1276 (95.06.23)
+95.06.08, Žin., 1995, Nr.52-1276 (95.06.23)
 
 Nr. VIII-308,
 
@@ -1060,6 +560,432 @@ Nr. VIII-308,
 Nr. IX-230,
 
 2001 03 27, Žin., 2001, Nr. 28-901 (2001 03 30)
+
+Nr. XI-599,
+
+2009-12-22, Žin., 2010, Nr. 1-10 (2010-01-05)
+
+Nr. XI-712, 2010-03-30, Žin., 2010, Nr. 41-1937
+
+(2010-04-10)
+
+9
+
+straipsnis. Profesinės sąjungos, jų susivienijimų veiklos sustabdymas ar
+
+nutraukimas
+
+Profesinės sąjungos, jų
+
+susivienijimų veikla gali būti sustabdyta ir nutraukta:
+
+1) jų įstatuose (statute)
+
+nustatyta tvarka;
+
+2) teismo sprendimu.
+
+Profesinei sąjungai, jų
+
+susivienijimui pažeidus Lietuvos Respublikos Laikinąjį Pagrindinį Įstatymą
+
+(Konstituciją) ir šį įstatymą, ją įregistravęs organas apie pažeidimą raštu
+
+praneša profesinės sąjungos, susivienijimo vadovaujantiems organams ir nurodo
+
+terminą, per kurį pažeidimai turi būti pašalinti. Jei pažeidimai nepašalinti,
+
+profesinės sąjungos, jų susivienijimo įstatus (statutą) registravęs organas,
+
+taip pat prokuroras turi teisę kreiptis į teismą dėl profesinės sąjungos, jų
+
+susivienijimo veiklos sustabdymo.
+
+Teismo sprendimu profesinių
+
+sąjungų, jų susivienijimų veikla gali būti sustabdyta ne ilgesniam kaip 3
+
+mėnesių laikotarpiui. Jei per šį laiką nepašalinamas nurodytas pažeidimas,
+
+teismo sprendimu profesinių sąjungų, jų susivienijimų veikla gali būti
+
+nutraukta.
+
+Profesinių sąjungų, jų
+
+susivienijimų veikla teismo sprendimu taip pat gali būti nutraukta, kai
+
+profesinės sąjungos, jų susivienijimai per metus nuo tos dienos,kai jų veikla
+
+teismo sprendimu buvo sustabdyta, vėl pažeidžia Lietuvos Respublikos Laikinąjį
+
+Pagrindinį Įstatymą (Konstituciją) ar šį įstatymą.
+
+III skirsnis.
+
+Profesinių sąjungų santykiai su darbdaviais
+
+10
+
+straipsnis. Profesinės sąjungos ir darbdavys
+
+Profesinės sąjungos yra
+
+nepriklausomos nuo darbdavio, jo įgaliotojo atstovo.
+
+Darbdaviui, jo įgaliotajam
+
+atstovui draudžiama sąlygoti priėmimą į darbą arba siūlyti išlaikyti darbo
+
+vietą, reikalaujant, kad darbuotojas nestotų į profesinę sąjungą ar išstotų iš
+
+jos.
+
+Darbdaviui, jo įgaliotajam
+
+atstovui draudžiama organizuoti ir finansuoti organizacijas, siekiančias
+
+trukdyti profesinių sąjungų veiklą, ją nutraukti ar kontroliuoti.
+
+Profesinės sąjungos
+
+atstovauja profesinės sąjungos nariams santykiuose su darbdaviu, jo įgaliotuoju
+
+atstovu. Profesinės sąjungos gina savo narių darbo ir ekonomines socialines
+
+teises bei interesus.
+
+Darbdavys gali pervesti
+
+profesinei sąjungai kolektyvinėje sutartyje nustatytą pinigų sumą.
+
+Jeigu yra profesinės
+
+sąjungos nario prašymas, darbdavys privalo kiekvieną mėnesį išskaičiuoti iš
+
+profesinės sąjungos nario darbo užmokesčio nustatyto dydžio nario mokestį ir pervesti
+
+jį į profesinės sąjungos sąskaitą.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-474,
+
+94.05.24, Žin., 1994, Nr.42-758
+
+11
+
+straipsnis. Profesinių sąjungų teisė sudaryti kolektyvines ir kitas sutartis
+
+Profesinės sąjungos
+
+atstovauja savo nariams (taip pat gali būti darbuotojų kolektyvo atstovais),
+
+sudarydamos su darbdaviu kolektyvinę ir kitokias sutartis.
+
+12
+
+straipsnis. Profesinių sąjungų teisė sudaryti sutartis su darbdavių
+
+organizacijomis
+
+Profesinės sąjungos, jų
+
+susivienijimai turi teisę vesti derybas ir sudaryti sutartis (susitarimus) su
+
+darbdaviais, jų organizacijomis, susivienijimais dėl darbuotojų užimtumo,
+
+perkvalifikavimo, darbo organizavimo ir apmokėjimo, darbo ir gyvenimo sąlygų
+
+gerinimo bei kitų klausimų.
+
+13
+
+straipsnis. Darbdavio pareigos santykiuose su profesinėmis sąjungomis
+
+Darbo, ekonominius,
+
+socialinius klausimus įstatymų numatytais atvejais darbdavys privalo spręsti,
+
+suderinęs su profesinės sąjungos organais.
+
+Darbdavys privalo užtikrinti
+
+profesinių sąjungų veiklos sąlygas, numatytas kolektyvinėse ir kitose jų
+
+tarpusavio sutartyse.
+
+Darbdavys sudaro sąlygas
+
+darbuotojų profesinės sąjungos narių švietimui. Kolektyvinėje sutartyje šiam
+
+tikslui gali būti numatomas tam tikras lėšų procentas nuo darbo užmokesčio
+
+fondo. Darbuotojo ir profesinės sąjungos prašymu darbdavys suteikia darbuotojui
+
+nemokamas iki 3 dienų atostogas per metus švietimui ir mokymuisi.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-230,
+
+2001 03 27, Žin., 2001, Nr. 28-901 (2001 03 30)
+
+IV skirsnis.
+
+Profesinės sąjungos ir valstybės organai
+
+14
+
+straipsnis. Profesinių sąjungų teisės norminių aktų leidyboje
+
+Profesinės sąjungos ir jų
+
+susivienijimai teikia pasiūlymus valstybinės valdžios ir valdymo organams dėl
+
+norminių aktų darbo, ekonominiais ir socialiniais klausimais priėmimo,
+
+pakeitimo ar panaikinimo.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-474,
+
+94.05.24, Žin., 1994, Nr.42-758
+
+15
+
+straipsnis. Profesinių sąjungų teisių gynimas
+
+Profesinės sąjungos
+
+atstovauja savo nariams ir įstatymų nustatyta tvarka gina savo ir savo narių
+
+teises ir teisėtus interesus valstybės organuose.
+
+Profesinės sąjungos,
+
+gindamos savo narių teises ir teisėtus interesus, gali sudaryti susitarimus su
+
+valstybės valdžios ir valdymo organais.
+
+16
+
+straipsnis. Valstybės organų ir organizacijų teikiama pagalba profesinėms
+
+sąjungoms
+
+Profesinės sąjungos ir jų
+
+susivienijimai iš valstybės organų ir organizacijų turi teisę gauti savo
+
+veiklai reikalingą informaciją darbo, ekonominiais ir socialiniais klausimais,
+
+kurią valstybės organai ir organizacijos privalo pateikti įstatymų nustatytais
+
+terminais.
+
+Valstybės organai skatina
+
+derybas tarp profesinių sąjungų ir darbdavių ar jų organizacijų.
+
+Valstybės organai, organizacijos
+
+gali teikti profesinėms sąjungoms paramą socialiniams ir kitiems tyrimams
+
+vykdyti.
+
+V skirsnis.
+
+Profesinių sąjungų teisės.
+
+Profesinių
+
+sąjungų ir jų narių veiklos garantijos
+
+17
+
+straipsnis. Profesinių sąjungų teisė kontroliuoti darbo ir profesinių sąjungų
+
+įstatymų
+
+laikymąsi
+
+Profesinės sąjungos turi
+
+teisę kontroliuoti, kaip darbdavys laikosi ir vykdo su jų atstovaujamų
+
+darbuotojų teisėmis ir interesais susijusius darbo, ekonominius ir socialinius
+
+įstatymus, kolektyvines sutartis ir susitarimus. Šiems tikslams profesinės
+
+sąjungos gali turėti inspekcijas, teisinės pagalbos tarnybas ir kitas
+
+institucijas.
+
+Profesinės sąjungos įgalioti
+
+asmenys, vykdydami šio straipsnio pirmojoje dalyje numatytas kontrolės
+
+funkcijas, turi teisę nekliudomai lankytis įmonėse, įstaigose, organizacijose,
+
+kuriose dirba tos profesinės sąjungos atstovaujami darbuotojai, ir susipažinti
+
+su dokumentais apie darbo, ekonomines ir socialines sąlygas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-474,
+
+94.05.24, Žin., 1994, Nr.42-758
+
+18
+
+straipsnis. Profesinių sąjungų teisė reikalauti panaikinti darbdavio sprendimus
+
+Profesinės sąjungos turi
+
+teisę reikalauti iš darbdavio panaikinti jo sprendimus, kurie pažeidžia
+
+Lietuvos Respublikos įstatymų numatytas darbo, ekonomines bei socialines
+
+profesinių sąjungų narių teises.
+
+Šiuos reikalavimus darbdavys
+
+turi išnagrinėti ne vėliau kaip per 10 dienų, dalyvaujant juos pateikusios
+
+profesinės sąjungos atstovams.
+
+Jeigu darbdavys laiku
+
+neišnagrinėja profesinių sąjungų reikalavimo panaikinti tokį sprendimą arba
+
+atsisako jį patenkinti, profesinė sąjunga turi teisę kreiptis į teismą.
+
+19
+
+straipsnis. Profesinių sąjungų teisė siūlyti traukti atsakomybėn pareigūnus
+
+Profesinės sąjungos turi teisę
+
+siūlyti traukti atsakomybėn pareigūnus, kurie pažeidžia darbo įstatymus,
+
+neužtikrina saugių darbo sąlygų, nevykdo kolektyvinės sutarties ar kitokių
+
+tarpusavio susitarimų.
+
+20
+
+straipsnis. Profesinių sąjungų ir jų narių teisių gynimas
+
+Profesinių sąjungų ir jų
+
+narių teises ir teisėtus interesus įstatymų nustatyta tvarka gina valstybiniai
+
+valdžios ir valdymo organai, teismai bei kiti teisėsaugos organai.
+
+Valstybės organai,
+
+pareigūnai, fiziniai ar juridiniai asmenys, neteisėtais veiksmais padarę žalą
+
+profesinei sąjungai, privalo ją atlyginti įstatymų nustatyta tvarka.
+
+21
+
+straipsnis. Profesinių sąjungų narių darbo teisių garantijos
+
+Darbdavys negali atleisti iš darbo darbuotojo
+
+įmonėje veikiančios profesinės sąjungos renkamojo organo nario pagal Darbo sutarties
+
+įstatymo 29 straipsnio pirmosios dalies 2 punktą ir savo valia, negavęs tos
+
+profesinės sąjungos įmonėje renkamojo organo išankstinio sutikimo.
+
+Šio straipsnio pirmojoje dalyje
+
+nurodytiems darbuotojams skiriant drausmines nuobaudas, išskyrus drausminę
+
+nuobaudą – atleidimą iš darbo, taip pat reikalingas išankstinis profesinės
+
+sąjungos renkamojo organo sutikimas.
+
+Profesinių
+
+sąjungų nariams, atleistiems iš darbo dėl jų išrinkimo į renkamąsias pareigas
+
+profesinių sąjungų organizacijose, pasibaigus renkamųjų pareigų įgaliojimams,
+
+suteikiamas pirmesnis darbas (pareigos), o jeigu jo nėra, – kitas lygiavertis
+
+darbas (pareigos) toje pačioje arba darbuotojo sutikimu kitoje įmonėje,
+
+įstaigoje, organizacijoje.
+
+Įmonės, įstaigos, organizacijos
+
+darbuotojas, išrinktas į renkamuosius tos įmonės, įstaigos, organizacijos
+
+profesinės sąjungos organus ir dėl to nutraukęs darbo santykius, prilyginamas
+
+tos įmonės, įstaigos, organizacijos darbuotojui ir jam taikomos socialinės
+
+garantijos visą renkamųjų pareigų ėjimo laiką.
+
+Kitos garantijos
+
+darbuotojams, išrinktiems į renkamuosius profesinės sąjungos organus, gali būti
+
+nustatytos kolektyvinėse ir kitose sutartyse.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-474,
+
+94.05.24, Žin., 1994, Nr.42-758
+
+Nr.
+
+I-933,
+
+95.06.08, Žin., 1995, Nr.52-1276 (95.06.23)
+
+22
+
+straipsnis. Profesinių sąjungų dalyvavimas sprendžiant darbo ginčus įstatymų
+
+nustatyta tvarka
+
+Profesinės sąjungos,
+
+sprendžiant individualius ir kolektyvinius darbo ginčus, dalyvauja įstatymų
+
+nustatyta tvarka.
+
+Ginčus, kilusius tarp
+
+profesinių sąjungų ir darbdavio dėl įstatymų ar sutartimis numatytų pareigų ir
+
+prievolių nevykdymo, nagrinėja teismas.
 
 9 straipsnis. Profesinės
 
@@ -1795,9 +1721,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1803,
+IX-1803, 2003-11-03,
 
-2003-11-03, Žin., 2003, Nr. 108-4816 (2003-11-19)
+Žin., 2003, Nr. 108-4816 (2003-11-19)
 
 PROFESINIŲ
 
@@ -1817,13 +1743,27 @@ PROFESINIŲ SĄJUNGŲ ĮSTATYMO 6, 8
 
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-712, 2010-03-30, Žin., 2010, Nr. 41-1937 (2010-04-10)
+
+PROFESINIŲ
+
+SĄJUNGŲ ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2010-01-19)
+Aušrinė Trapinskienė (2010-04-12)
 
 autrap@lrs.lt
 
