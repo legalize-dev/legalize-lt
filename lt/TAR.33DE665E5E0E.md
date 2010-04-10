@@ -4,7 +4,7 @@ identifier: "TAR.33DE665E5E0E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-14"
-last_updated: "2009-05-26"
+last_updated: "2010-04-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.33DE665E5E0E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2009-05-26 iki 2010-04-09
+Suvestinė redakcija nuo 2010-04-10 iki 2019-07-01
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 51-1392; Žin. 2004, Nr.98-3626, i. k. 0981010ISTAVIII-730
 
@@ -99,7 +99,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XI-251, 2009-05-12, Žin., 2009, Nr. 61-2403 (2009-05-26), i. k. 1091010ISTA00XI-251
 
-8. Vyriausybės atstovas nenagrinėja fizinių ir juridinių asmenų skundų dėl savivaldybės administravimo subjektų priimamų individualių teisės aktų, kurių apskundimo specialią tvarką nustato konkrečią sritį reglamentuojantys įstatymai.
+8. Vyriausybės atstovas nenagrinėja fizinių ir juridinių asmenų skundų dėl savivaldybės administravimo subjektų neveikimo ar priimtų individualių teisės aktų, kurių apskundimo tvarką nustato Administracinių bylų teisenos įstatymas ar konkrečią sritį reglamentuojantys įstatymai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-710, 2010-03-30, Žin., 2010, Nr. 41-1935 (2010-04-10), i. k. 1101010ISTA00XI-710
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -181,7 +185,11 @@ Vyriausybė arba Ministras Pirmininkas gali pavesti Vyriausybės atstovui ištir
 
 8 straipsnis. Informacijos teikimas
 
-Vyriausybės atstovas kiekvieną pusmetį Vyriausybės nustatyta tvarka pateikia informaciją apie savo veiklą Vyriausybei, Vidaus reikalų ministerijai, apskrities viršininkui, prižiūrimoms savivaldybėms.
+Vyriausybės atstovas kiekvieną pusmetį Vyriausybės nustatyta tvarka pateikia informaciją apie savo veiklą Vyriausybei ir Lietuvos savivaldybių asociacijai ir viešai šią informaciją paskelbia savo interneto tinklalapyje.
+
+Straipsnio pakeitimai:
+
+Nr. XI-710, 2010-03-30, Žin., 2010, Nr. 41-1935 (2010-04-10), i. k. 1101010ISTA00XI-710
 
 9 straipsnis. Vyriausybės atstovų veiklos koordinavimas ir priežiūra
 
@@ -256,6 +264,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-251, 2009-05-12, Žin., 2009, Nr. 61-2403 (2009-05-26), i. k. 1091010ISTA00XI-251
 
 Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo 3, 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-710, 2010-03-30, Žin., 2010, Nr. 41-1935 (2010-04-10), i. k. 1101010ISTA00XI-710
+
+Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo 4 ir 8 straipsnių pakeitimo įstatymas
 
 12 straipsnis. Vyriausybės atstovo atsakomybė
 
