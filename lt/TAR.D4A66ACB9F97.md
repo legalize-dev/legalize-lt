@@ -4,7 +4,7 @@ identifier: "TAR.D4A66ACB9F97"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2010-03-02"
+last_updated: "2010-04-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97"
 department: "Lietuvos Respublikos Seimas"
@@ -788,63 +788,119 @@ straipsnis. Deklaracijos duomenų paskelbimo tvarka
 
 duomenys gali būti skelbiami, kai yra gyventojo rašytinis sutikimas.
 
+2
+
+dalies redakcija iki 2010 m. liepos 1 d.:
+
 2. Kalendorinių
 
-metų, už kuriuos deklaruojamas turimas turtas, gruodžio 31
+metų, už kuriuos deklaruojamas turimas turtas, gruodžio 31 dieną ėjusių
 
-dieną ėjusių pareigas Respublikos Prezidento, Lietuvos Respublikos Seimo narių,
+pareigas Respublikos Prezidento, Lietuvos Respublikos Seimo narių, Europos
 
-Europos Parlamento narių, Ministro Pirmininko, ministrų, Ministro Pirmininko
+Parlamento narių, Ministro Pirmininko, ministrų, Ministro Pirmininko kanclerio,
 
-kanclerio, Ministro Pirmininko kanclerio pavaduotojų, Ministro Pirmininko
+Ministro Pirmininko kanclerio pavaduotojų, Ministro Pirmininko tarnybos
 
-tarnybos departamentų direktorių, Ministro Pirmininko patarėjų, viceministrų,
+departamentų direktorių, Ministro Pirmininko patarėjų, viceministrų,
 
 savivaldybių tarybų narių, ministerijų kanclerių, Lietuvos Respublikos teismų
 
 pirmininkų, teismų pirmininkų pavaduotojų, teismų skyrių pirmininkų, teisėjų,
 
-Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės narių,
+Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės narių, Vyriausiosios
 
-Vyriausiosios administracinių ginčų komisijos narių, generalinio prokuroro,
+administracinių ginčų komisijos narių, generalinio prokuroro, generalinio
 
-generalinio prokuroro pavaduotojų, Generalinės prokuratūros struktūrinių
+prokuroro pavaduotojų, Generalinės prokuratūros struktūrinių padalinių, taip
 
-padalinių, taip pat apygardų ir apylinkių prokuratūrų vadovų, valstybės
+pat apygardų ir apylinkių prokuratūrų vadovų, valstybės kontrolieriaus,
 
-kontrolieriaus, valstybės kontrolieriaus pavaduotojų, Valstybės kontrolės
+valstybės kontrolieriaus pavaduotojų, Valstybės kontrolės valstybės tarnautojų,
 
-valstybės tarnautojų, apskričių viršininkų, apskričių viršininkų pavaduotojų,
+apskričių viršininkų, apskričių viršininkų pavaduotojų, Lietuvos Respublikos
 
-Lietuvos Respublikos Vyriausybės įstaigų (departamentų,
+Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų), prie
 
-agentūrų, tarnybų, inspekcijų), prie ministerijų įsteigtų
+ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės valdymo
 
-departamentų, tarnybų, inspekcijų, kitų valstybės valdymo institucijų vadovų
+institucijų vadovų (generalinių direktorių, direktorių, viršininkų) ir vadovų
 
-(generalinių direktorių, direktorių, viršininkų) ir vadovų pavaduotojų,
+pavaduotojų, Lietuvos banko valdybos pirmininko ir valdybos pirmininko
 
-Lietuvos banko valdybos pirmininko ir valdybos pirmininko pavaduotojų, Muitinės
+pavaduotojų, Muitinės departamento prie Finansų ministerijos ir teritorinių muitinių
 
-departamento prie Finansų ministerijos ir teritorinių muitinių valstybės
+valstybės tarnautojų, Valstybinės mokesčių inspekcijos prie Finansų
 
-tarnautojų, Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir
+ministerijos ir teritorinių mokesčių inspekcijų valstybės tarnautojų, Vidaus
 
-teritorinių mokesčių inspekcijų valstybės tarnautojų, Vidaus reikalų
+reikalų ministerijos valdymo srities statutinių įstaigų valstybės tarnautojų,
 
-ministerijos valdymo srities statutinių įstaigų valstybės
+Seimo kontrolierių, valstybės saugumo sistemos valstybės tarnautojų ir jų
 
-tarnautojų, Seimo kontrolierių, valstybės saugumo sistemos valstybės tarnautojų
+šeimos narių deklaracijų duomenys, išskyrus operatyvinės veiklos subjektų
 
-ir jų šeimos narių deklaracijų duomenys, išskyrus operatyvinės
+teises turinčių valstybės institucijų valstybės tarnautojų ir pareigūnų, kurių
 
-veiklos subjektų teises turinčių valstybės institucijų valstybės tarnautojų ir
+veiklą reglamentuoja Operatyvinės veiklos įstatymas, ir jų šeimos narių
 
-pareigūnų, kurių veiklą reglamentuoja Operatyvinės veiklos
+deklaracijų duomenis, yra skelbiami be šių gyventojų rašytinio sutikimo.
 
-įstatymas, ir jų šeimos narių deklaracijų duomenis, yra
+2
 
-skelbiami be šių gyventojų rašytinio sutikimo.
+dalies redakcija nuo 2010 m. liepos 1 d.:
+
+2. Kalendorinių metų, už kuriuos
+
+deklaruojamas turimas turtas, gruodžio 31 dieną ėjusių pareigas Respublikos
+
+Prezidento, Lietuvos Respublikos Seimo narių, Europos Parlamento narių,
+
+Ministro Pirmininko, ministrų, Ministro Pirmininko kanclerio, Ministro
+
+Pirmininko kanclerio pavaduotojų, Ministro Pirmininko tarnybos departamentų
+
+direktorių, Ministro Pirmininko patarėjų, viceministrų, savivaldybių tarybų
+
+narių, ministerijų kanclerių, Lietuvos Respublikos teismų pirmininkų, teismų
+
+pirmininkų pavaduotojų, teismų skyrių pirmininkų, teisėjų, Mokestinių ginčų
+
+komisijos prie Lietuvos Respublikos Vyriausybės narių, Vyriausiosios administracinių
+
+ginčų komisijos narių, generalinio prokuroro, generalinio prokuroro
+
+pavaduotojų, Generalinės prokuratūros struktūrinių padalinių, taip pat apygardų
+
+ir apylinkių prokuratūrų vadovų, valstybės kontrolieriaus, valstybės
+
+kontrolieriaus pavaduotojų, Valstybės kontrolės valstybės tarnautojų, Lietuvos
+
+Respublikos Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų),
+
+prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės
+
+valdymo institucijų vadovų (generalinių direktorių, direktorių, viršininkų) ir
+
+vadovų pavaduotojų, Lietuvos banko valdybos pirmininko ir valdybos pirmininko
+
+pavaduotojų, Muitinės departamento prie Finansų ministerijos ir teritorinių
+
+muitinių valstybės tarnautojų, Valstybinės mokesčių inspekcijos prie Finansų ministerijos
+
+ir teritorinių mokesčių inspekcijų valstybės tarnautojų, Vidaus reikalų
+
+ministerijos valdymo srities statutinių įstaigų valstybės tarnautojų, Seimo
+
+kontrolierių, valstybės saugumo sistemos valstybės tarnautojų ir jų šeimos
+
+narių deklaracijų duomenys, išskyrus operatyvinės veiklos subjektų teises
+
+turinčių valstybės institucijų valstybės tarnautojų ir pareigūnų, kurių veiklą
+
+reglamentuoja Operatyvinės veiklos įstatymas, ir jų šeimos narių deklaracijų
+
+duomenis, yra skelbiami be šių gyventojų rašytinio sutikimo.
 
 3. Centrinis
 
@@ -852,33 +908,33 @@ mokesčio administratorius šio straipsnio 2 dalyje išvardytų gyventojų
 
 deklaracijų duomenis skelbia „Valstybės žinių“ specialiame priede. Pagrindinių
 
-deklaracijos duomenų išrašą nustato Lietuvos Respublikos Vyriausybė arba jos
+deklaracijos duomenų išrašą nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota
 
-įgaliota institucija. Šių gyventojų deklaracijų, taip pat patikslintų
+institucija. Šių gyventojų deklaracijų, taip pat patikslintų paskutinių
 
-paskutinių kalendorinių metų pagrindinių deklaracijos duomenų išrašus
+kalendorinių metų pagrindinių deklaracijos duomenų išrašus „Valstybės žinių“
 
-„Valstybės žinių“ redakcijai kasmet iki rugsėjo 1 dienos pateikia centrinis
+redakcijai kasmet iki rugsėjo 1 dienos pateikia centrinis mokesčio
 
-mokesčio administratorius. „Valstybės žinios“ deklaracijų išrašų duomenis,
+administratorius. „Valstybės žinios“ deklaracijų išrašų duomenis, įskaitant
 
-įskaitant paskutinių kalendorinių metų deklaracijų patikslintus duomenis,
+paskutinių kalendorinių metų deklaracijų patikslintus duomenis, kasmet
 
-kasmet paskelbia iki spalio 1 dienos.
+paskelbia iki spalio 1 dienos.
 
 4. Kiti
 
-valstybės tarnautojai ir jų šeimos nariai gali skelbti ,,Valstybės žinių“ specialiame
+valstybės tarnautojai ir jų šeimos nariai gali skelbti ,,Valstybės žinių“
 
-priede savo deklaracijų duomenis valstybės lėšomis. Patvirtintą pagrindinių
+specialiame priede savo deklaracijų duomenis valstybės lėšomis. Patvirtintą
 
-deklaracijos duomenų išrašą ir rašytinį sutikimą skelbti deklaracijos duomenis
+pagrindinių deklaracijos duomenų išrašą ir rašytinį sutikimą skelbti
 
-,,Valstybės žinių“ redakcijai pateikia pats gyventojas. Pagrindinių
+deklaracijos duomenis ,,Valstybės žinių“ redakcijai pateikia pats gyventojas.
 
-deklaracijos duomenų išrašų pristatymo ir skelbimo terminai yra tokie pat, kaip
+Pagrindinių deklaracijos duomenų išrašų pristatymo ir skelbimo terminai yra
 
-nurodyta šio straipsnio 3 dalyje.
+tokie pat, kaip nurodyta šio straipsnio 3 dalyje.
 
 Straipsnio
 
@@ -887,6 +943,10 @@ pakeitimai:
 Nr. XI-322,
 
 2009-07-07, Žin., 2009, Nr. 85-3579 (2009-07-18)
+
+Nr. XI-711,
+
+2010-03-30, Žin., 2010, Nr. 41-1936 (2010-04-10)
 
 11
 
@@ -1020,9 +1080,9 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1887, 00.07.20, Žin., 2000, Nr.67-2017
+Nr. VIII-1887, 00.07.20, Žin., 2000,
 
-(00.08.09)
+Nr.67-2017 (00.08.09)
 
 GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 2, 3, 5,
 
@@ -1088,7 +1148,9 @@ IX-944,
 
 GYVENTOJŲ
 
-TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 11 STRAIPSNIO IR 2 PRIEDĖLIO PAPILDYMO ĮSTATYMAS
+TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 11 STRAIPSNIO IR 2 PRIEDĖLIO PAPILDYMO
+
+ĮSTATYMAS
 
 11.
 
@@ -1240,9 +1302,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. XI-684,
+Nr. XI-684, 2010-02-11,
 
-2010-02-11, Žin., 2010, Nr. 25-1178 (2010-03-02)
+Žin., 2010, Nr. 25-1178 (2010-03-02)
 
 GYVENTOJŲ TURTO DEKLARAVIMO
 
@@ -1282,11 +1344,33 @@ straipsnio 1 dalyje nurodyti gyventojai iki 2010 m. gegužės 1 d. turi
 
 deklaruoti 2009 m. gruodžio 31 d. turėtą savo turtą.
 
-*** Pabaiga ***
+20.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-711,
+
+2010-03-30, Žin., 2010, Nr. 41-1936 (2010-04-10)
+
+GYVENTOJŲ
+
+TURTO DEKLARAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2010 m. liepos 1 d.
+
+***
+
+Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2010-03-02)
+Aušrinė Trapinskienė (2010-04-13)
 
 autrap@lrs.lt
 
