@@ -4,7 +4,7 @@ identifier: "TAR.3EB53577EFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-13"
-last_updated: "2009-10-01"
+last_updated: "2010-04-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -1131,9 +1131,19 @@ pagal Teismų įstatymą atlieka teismų administracinės veiklos priežiūrą, 
 
 atvejus, kai teismas nesiima reikiamų priemonių bylai tinkamai išnagrinėti.
 
+3 dalies redakcija iki 2010 m. liepos 1 d.:
+
 3. Teritorinių prokuratūrų vyriausieji prokurorai turi teisę dalyvauti apskričių viršininkų
 
 ir savivaldybių institucijų posėdžiuose.
+
+3 dalies redakcija nuo 2010 m. liepos 1 d.:
+
+3. Teritorinių
+
+prokuratūrų vyriausieji prokurorai turi
+
+teisę dalyvauti savivaldybių institucijų posėdžiuose.
 
 4. Generalinis prokuroras (jo pavaduotojai) turi teisę dalyvauti rengiamuose Seimo,
 
@@ -1156,6 +1166,12 @@ prokurorų teisės ir pareigos bei kompetencija atliekant pavestas prokuratūros
 funkcijas nustatomos generalinio prokuroro (jo pavaduotojo) leidžiamuose
 
 norminiuose aktuose ir Kompetencijos nuostatuose.
+
+Straipsnio pakeitimai:
+
+Nr. XI-744, 2010-04-13, Žin., 2010, Nr. 48-2294
+
+(2010-04-27)
 
 21 straipsnis. Prokurorų visuomeninė veikla
 
@@ -1187,21 +1203,19 @@ skyrimo ir atleidimo tvarka
 
 1. Generaliniu
 
-prokuroru ir jo pavaduotoju gali būti skiriamas asmuo, kuris yra ne jaunesnis kaip
+prokuroru ir jo pavaduotoju gali būti skiriamas asmuo, kuris yra ne jaunesnis
 
-35 metų, nepriekaištingos reputacijos, moka valstybinę lietuvių kalbą, turi
+kaip 35 metų, nepriekaištingos reputacijos, moka valstybinę lietuvių kalbą,
 
-Lietuvos Respublikos pilietybę, turi aukštąjį universitetinį teisinį
+turi Lietuvos Respublikos pilietybę, turi aukštąjį universitetinį teisinį
 
-išsilavinimą ir yra įgijęs teisės magistro ar teisininko profesinį
+išsilavinimą ir yra įgijęs teisės magistro ar teisininko profesinį kvalifikacinį
 
-kvalifikacinį laipsnį, ne mažesnį kaip dešimties metų tarnybos prokuroru ar
+laipsnį, ne mažesnį kaip dešimties metų tarnybos prokuroru ar teisėjo darbo
 
-teisėjo darbo stažą arba ne mažesnį kaip dešimties metų teisinio pedagoginio
+stažą arba ne mažesnį kaip dešimties metų teisinio pedagoginio darbo turint
 
-darbo turint teisės krypties socialinių mokslų daktaro ar habilituoto daktaro
-
-laipsnį stažą.
+teisės krypties socialinių mokslų daktaro ar habilituoto daktaro laipsnį stažą.
 
 2. Generalinį prokurorą septyneriems metams skiria ir iš pareigų
 
@@ -1321,13 +1335,13 @@ tarnybą prokuratūroje ir skyrimo į prokuroro pareigas reikalavimai
 
 prokuroro pareigas, jei jis yra nepriekaištingos reputacijos Lietuvos
 
-Respublikos pilietis, mokantis valstybinę lietuvių kalbą, turi aukštąjį
+Respublikos pilietis, mokantis valstybinę lietuvių kalbą, turi aukštąjį universitetinį
 
-universitetinį teisinį išsilavinimą ir yra įgijęs teisės bakalauro bei teisės
+teisinį išsilavinimą ir yra įgijęs teisės bakalauro bei teisės magistro ar
 
-magistro ar teisininko profesinį kvalifikacinį laipsnį, išlaikė pretendentų į
+teisininko profesinį kvalifikacinį laipsnį, išlaikė pretendentų į prokurorus
 
-prokurorus egzaminą ir turi Atrankos komisijos teikimą.
+egzaminą ir turi Atrankos komisijos teikimą.
 
 2. Užsienio mokymo įstaigose asmens įgytas išsilavinimas pripažįstamas
 
@@ -1345,9 +1359,9 @@ už šiurkštų drausmės pažeidimą arba nuo jo atleidimo yra praėję penkeri
 
 ir jo elgesys atitinka Prokurorų etikos kodekso nuostatas.
 
-4. Asmuo negali būti priimtas į tarnybą
+4. Asmuo negali būti priimtas į tarnybą prokuratūroje
 
-prokuratūroje ir eiti prokuroro pareigas, jeigu:
+ir eiti prokuroro pareigas, jeigu:
 
 1) jis neatitinka priėmimo į tarnybą prokuratūroje
 
@@ -1417,9 +1431,9 @@ mokesčio deklaracijas;
 
 4. Nuo pretendentų į prokurorus egzamino atleidžiamas asmuo:
 
-1) išlaikęs pretendento į teisėjus egzaminą, jei nuo šio egzamino
+1) išlaikęs pretendento į teisėjus egzaminą, jei nuo šio egzamino išlaikymo
 
-išlaikymo nepraėjo treji metai;
+nepraėjo treji metai;
 
 2) turintis ne mažiau kaip trejų metų tarnybos prokuroru ar teisėjo
 
@@ -1527,9 +1541,9 @@ respublikos prokuroro (jo pavaduotojo), miesto, rajono, tarprajoninės,
 
 transporto prokuratūros prokuroro (jo pavaduotojo, jo padėjėjo), prokuratūros
 
-stažuotojo, prokuratūros tardytojo (jo padėjėjo) pareigas, tarnybos prokuratūroje
+stažuotojo, prokuratūros tardytojo (jo padėjėjo) pareigas, tarnybos
 
-laikas yra įskaitomas į tarnybos prokuroru stažą.
+prokuratūroje laikas yra įskaitomas į tarnybos prokuroru stažą.
 
 5. Asmens darbo (tarnybos) laikas, numatytas šio straipsnio 2 ir 3
 
@@ -1617,9 +1631,9 @@ negali eiti kitų renkamų ar skiriamų pareigų ir dirbti kitose įstaigose,
 
 įmonėse ar organizacijose, išskyrus mokslinį, pedagoginį darbą, kūrybinę veiklą
 
-arba atvejus, kai nustatyta tvarka deleguojamas į tarptautines, Europos Sąjungos
+arba atvejus, kai nustatyta tvarka deleguojamas į tarptautines, Europos
 
-ar užsienio valstybių  institucijas.
+Sąjungos ar užsienio valstybių  institucijas.
 
 2. Prokuroras
 
@@ -1649,9 +1663,9 @@ X-1661,
 
 30 straipsnis. Prokuroro priesaika
 
-1. Prieš
+1.
 
-pradėdamas eiti prokuroro pareigas asmuo prisiekia Lietuvos valstybei. Prisiekiantis
+Prieš pradėdamas eiti prokuroro pareigas asmuo prisiekia Lietuvos valstybei. Prisiekiantis
 
 asmuo turi teisę pasirinkti vieną iš šių priesaikų tekstų:
 
@@ -1901,9 +1915,9 @@ Straipsnio pakeitimai:
 
 Nr.
 
-X-1661,
+X-1661, 2008-07-01,
 
-2008-07-01, Žin., 2008, Nr. 81-3173 (2008-07-17)
+Žin., 2008, Nr. 81-3173 (2008-07-17)
 
 31 straipsnis.
 
@@ -2113,13 +2127,13 @@ pareigas skiriamas asmuo, kuris turi ne mažesnį kaip septynerių metų tarnybo
 
 prokuroru ar darbo teisėju stažą, jei bent dvejus metus jis yra ėjęs
 
-Generalinės prokuratūros, apygardos prokuratūros prokuroro, apylinkės
+Generalinės prokuratūros, apygardos prokuratūros prokuroro, apylinkės vyriausiojo
 
-vyriausiojo prokuroro (jo pavaduotojo) pareigas arba dirbęs apygardos teismo,
+prokuroro (jo pavaduotojo) pareigas arba dirbęs apygardos teismo, apygardos
 
-apygardos administracinio teismo teisėju, Lietuvos Respublikos Konstitucinio
+administracinio teismo teisėju, Lietuvos Respublikos Konstitucinio Teismo,
 
-Teismo, Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo ar Lietuvos
+Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo ar Lietuvos
 
 vyriausiojo administracinio teismo teisėju, arba asmuo, kuris turėdamas teisės
 
@@ -2127,19 +2141,17 @@ krypties socialinių mokslų daktaro ar habilituoto daktaro laipsnį ne mažiau
 
 kaip septynerius metus yra dirbęs teisinį pedagoginį darbą.
 
-6. Į Generalinės prokuratūros prokuroro, apygardos prokuratūros
+6. Į Generalinės prokuratūros prokuroro, apygardos prokuratūros struktūrinio
 
-struktūrinio padalinio vyriausiojo prokuroro (jo pavaduotojo), apylinkės
+padalinio vyriausiojo prokuroro (jo pavaduotojo), apylinkės vyriausiojo
 
-vyriausiojo prokuroro (jo pavaduotojo) pareigas skiriamas asmuo, kuris turi ne
+prokuroro (jo pavaduotojo) pareigas skiriamas asmuo, kuris turi ne mažesnį kaip
 
-mažesnį kaip penkerių metų tarnybos prokuroru ar darbo teisėju stažą, arba
+penkerių metų tarnybos prokuroru ar darbo teisėju stažą, arba asmuo, kuris
 
-asmuo, kuris turėdamas teisės krypties socialinių mokslų daktaro ar habilituoto
+turėdamas teisės krypties socialinių mokslų daktaro ar habilituoto daktaro
 
-daktaro laipsnį ne mažiau kaip penkerius metus yra dirbęs teisinį pedagoginį
-
-darbą.
+laipsnį ne mažiau kaip penkerius metus yra dirbęs teisinį pedagoginį darbą.
 
 7. Į apygardos prokuratūros prokuroro, apylinkės prokuratūros
 
@@ -2221,9 +2233,7 @@ prokuroro pareigas Generalinėje prokuratūroje arba apygardos vyriausiojo
 
 prokuroro (jo pavaduotojo), apylinkės vyriausiojo prokuroro (jo pavaduotojo)
 
-pareigas – ne aukštesnį kaip vyriausiojo justicijos patarėjo kvalifikacinį
-
-rangą;
+pareigas – ne aukštesnį kaip vyriausiojo justicijos patarėjo kvalifikacinį rangą;
 
 2) einančiam
 
@@ -2699,13 +2709,15 @@ remiantis Generalinės prokuratūros ar teritorinės prokuratūros vyriausiojo
 
 prokuroro tarnybiniu pranešimu.
 
-4. Tarnybinis patikrinimas
+4. Tarnybinis
 
-pradedamas nedelsiant, kai gaunama generalinio prokuroro (jo pavaduotojo)
+patikrinimas pradedamas nedelsiant, kai gaunama generalinio prokuroro (jo
 
-rezoliucija pradėti tarnybinį patikrinimą, ir atliekamas ne ilgiau kaip 30 kalendorinių dienų šio Įstatymo ir
+pavaduotojo) rezoliucija pradėti tarnybinį patikrinimą, ir atliekamas ne ilgiau
 
-generalinio prokuroro nustatyta tvarka.
+kaip 30 kalendorinių dienų šio
+
+Įstatymo ir generalinio prokuroro nustatyta tvarka.
 
 5. Prokuroras
 
@@ -2807,13 +2819,13 @@ nusikalstamos veikos požymių.
 
 generalinis prokuroras (jo pavaduotojas) arba jų pavedimu teritorinės
 
-prokuratūros vyriausiasis prokuroras (jo pavaduotojas) įsakymu ne ilgiau kaip
+prokuratūros vyriausiasis prokuroras (jo pavaduotojas) įsakymu ne ilgiau kaip iki
 
-iki 45 dienų, o kai yra pagrindas manyti, kad prokuroras padarė nusikalstamą
+45 dienų, o kai yra pagrindas manyti, kad prokuroras padarė nusikalstamą veiką,
 
-veiką, ir generalinis prokuroras pradėjo ikiteisminį tyrimą, – iki galutinio
+ir generalinis prokuroras pradėjo ikiteisminį tyrimą, – iki galutinio sprendimo
 
-sprendimo baudžiamojoje byloje.
+baudžiamojoje byloje.
 
 3. Iš prokuroro,
 
@@ -3063,13 +3075,13 @@ savo prašymu;
 
 tarnybinė nuobauda – atleidimas iš tarnybos;
 
-3) įsiteisėja
+3) įsiteisėja apkaltinamasis
 
-apkaltinamasis teismo nuosprendis;
+teismo nuosprendis;
 
-4) netenka Lietuvos
+4) netenka
 
-Respublikos pilietybės;
+Lietuvos Respublikos pilietybės;
 
 5) nenutraukia
 
@@ -3225,9 +3237,9 @@ data nukeliama iki įspėjimo termino pabaigos.
 
 įstatymų nustatyta tvarka paskelbti mirusiais ar pripažinti nežinia kur
 
-esančiais prokurorai generalinio prokuroro įsakymu išbraukiami iš Prokurorų
+esančiais prokurorai generalinio prokuroro įsakymu išbraukiami iš Prokurorų pareigybių
 
-pareigybių sąrašo.
+sąrašo.
 
 7. Prokurorą
 
@@ -3235,9 +3247,9 @@ atleidžiant iš tarnybos arba išbraukiant iš Prokurorų pareigybių sąrašo,
 
 paimami jo tarnybinis ginklas, šaudmenys, asmens apsaugos priemonės, prokuroro
 
-pažymėjimas, prokuroro ženklas, proceso dokumentai ir jam patikėtas
+pažymėjimas, prokuroro ženklas, proceso dokumentai ir jam patikėtas prokuratūros
 
-prokuratūros turtas.
+turtas.
 
 46
 
@@ -3649,11 +3661,11 @@ komandiruotės išlaidos atlyginamos Vyriausybės nustatyta tvarka.
 
 kurio materialinė būklė sunki dėl jo paties ligos, jo šeimos nario ligos ar
 
-mirties, stichinės nelaimės, turto netekimo, taip pat kitais ypatingais
+mirties, stichinės nelaimės, turto netekimo, taip pat kitais ypatingais atvejais,
 
-atvejais, gali būti skiriama iki penkių minimalių mėnesinių algų dydžio
+gali būti skiriama iki penkių minimalių mėnesinių algų dydžio pašalpa. Pašalpa
 
-pašalpa. Pašalpa mokama iš prokuratūrai darbo užmokesčiui skirtų lėšų.
+mokama iš prokuratūrai darbo užmokesčiui skirtų lėšų.
 
 11. Prokurorai į privalomąją karo tarnybą nešaukiami.
 
@@ -4009,9 +4021,9 @@ panaudodamas šaunamąjį ginklą, šaudmenis ir specialiąsias asmens apsaugos
 
 priemones, turi siekti išvengti sunkių padarinių žmogaus gyvybei ir sveikatai
 
-ar asmenų turtui. Panaudojęs šaunamąjį ginklą, šaudmenis ir specialiąsias
+ar asmenų turtui. Panaudojęs šaunamąjį ginklą, šaudmenis ir specialiąsias asmens
 
-asmens apsaugos priemones, prokuroras turi:
+apsaugos priemones, prokuroras turi:
 
 1) imtis
 
@@ -4113,9 +4125,9 @@ atskiras teritorinių prokuratūrų išlaidų sąmatas.
 
 2. Svarstant Seime, Vyriausybėje ir kitose valstybės
 
-institucijose valstybės biudžetą ar prokuratūrai skiriamus asignavimus, prokuratūrai atstovauja generalinis prokuroras
+institucijose valstybės biudžetą ar prokuratūrai skiriamus asignavimus, prokuratūrai atstovauja generalinis
 
-(jo pavaduotojas).
+prokuroras (jo pavaduotojas).
 
 3. Valstybė finansinėmis, organizacinėmis ir techninėmis
 
@@ -4233,9 +4245,9 @@ pasižymėjimo ženklai. Jų išdavimo ir naudojimo tvarką nustato generalinis
 
 prokuroras.
 
-2. Prokuroro
+2. Prokuroro asmens
 
-asmens tapatybę patvirtina ir teisę veikti pagal įstatymus suteikia prokuroro
+tapatybę patvirtina ir teisę veikti pagal įstatymus suteikia prokuroro
 
 pažymėjimas ir prokuroro ženklas.
 
@@ -4343,15 +4355,15 @@ Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 
 64-2328 (2001-07-25)
 
-VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO,
+VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO, KONSTITUCINIO
 
-KONSTITUCINIO TEISMO ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO
+TEISMO ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO SĄLYGŲ
 
-SĄLYGŲ ĮSTATYMO, PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS
+ĮSTATYMO, PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE
 
-PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ
+STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS
 
-APSAUGOS KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 6.
 
@@ -4459,9 +4471,9 @@ PROKURATŪROS
 
 ĮSTATYMO 50 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-Šis įstatymas
+Šis
 
-įsigalioja nuo 2006 m. liepos 1 d.
+įstatymas įsigalioja nuo 2006 m. liepos 1 d.
 
 11.
 
@@ -4501,9 +4513,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. X-1690,
+Nr. X-1690, 2008-07-03,
 
-2008-07-03, Žin., 2008, Nr. 81-3190 (2008-07-17)
+Žin., 2008, Nr. 81-3190 (2008-07-17)
 
 PROKURATŪROS
 
@@ -4539,9 +4551,25 @@ PROKURATŪROS
 
 ĮSTATYMO 37(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-Šis įstatymas
+Šis
 
-įsigalioja nuo 2009 m. spalio 1 d.
+įstatymas įsigalioja nuo 2009 m. spalio 1 d.
+
+16.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-744, 2010-04-13, Žin., 2010, Nr. 48-2294 (2010-04-27)
+
+PROKURATŪROS
+
+ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2010 m. liepos 1 d.
 
 ***
 
@@ -4549,9 +4577,9 @@ Pabaiga ***
 
 Redagavo
 
-Vilija Tamaliūnienė (2009-07-28)
+Aušrinė Trapinskienė (2010-04-27)
 
-vitama@lrs.lt
+autrap@lrs.lt
 
 371 straipsnis. Prokuroro delegavimas į
 
@@ -4589,9 +4617,9 @@ X-1661,
 
 Straipsnio pakeitimai:
 
-Nr. XI-338, 2009-07-14,
+Nr. XI-338,
 
-Žin., 2009, Nr. 89-3800 (2009-07-28)
+2009-07-14, Žin., 2009, Nr. 89-3800 (2009-07-28)
 
 38
 
