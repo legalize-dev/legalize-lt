@@ -4,7 +4,7 @@ identifier: "TAR.55B9E4E382B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-04-10"
-last_updated: "2009-07-18"
+last_updated: "2010-04-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.55B9E4E382B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -202,9 +202,11 @@ religinės, socialinės ar kitokios nesantaikos ar neapykantos skleidimu, taip
 
 pat prieštarauja moralei ar viešajai tvarkai, visuomenės dorovės normoms.
 
-4. Kai naudojamas
+4. Kai
 
-Lietuvos valstybės herbas, jam turi būti skiriama garbingiausia vieta.
+naudojamas Lietuvos valstybės herbas, jam turi būti skiriama garbingiausia
+
+vieta.
 
 5. Naudoti herbus,
 
@@ -242,9 +244,9 @@ kairiojo peties kabo mėlynas skydas su dvigubu geltonu (auksiniu) kryžiumi.
 
 balno kilpa ir pentinas, makšties bei žirgo aprangos metaliniai sutvirtinimai
 
-ir pasagos geltoni (auksiniai). Lietuvos valstybės herbo etalono piešinys
+ir pasagos geltoni (auksiniai). Lietuvos valstybės herbo etalono piešinys pateiktas
 
-pateiktas šio įstatymo 1 priede.
+šio įstatymo 1 priede.
 
 2. Lietuvos heraldikos komisija rengia ir teikia
 
@@ -298,11 +300,27 @@ kanceliarija;
 
 Prezidentas ir Respublikos Prezidento kanceliarija;
 
+3
+
+punkto redakcija iki 2010 m. liepos 1 d.:
+
 3) Lietuvos Respublikos
 
 Vyriausybė, ministerijos, Vyriausybės įstaigos, įstaigos prie ministerijų,
 
 apskričių viršininkų administracijos, Vyriausybės atstovai ir
+
+Vyriausybės įgaliotiniai;
+
+3
+
+punkto redakcija nuo 2010 m. liepos 1 d.:
+
+3) Lietuvos
+
+Respublikos Vyriausybė, Ministro Pirmininko tarnyba, ministerijos,
+
+Vyriausybės įstaigos, įstaigos prie ministerijų, Vyriausybės atstovai ir
 
 Vyriausybės įgaliotiniai;
 
@@ -498,15 +516,23 @@ kitų Lietuvos valstybės herbo naudojimo atvejų.
 
 įstatymas.
 
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-745,
+
+2010-04-13, Žin., 2010, Nr. 48-2295 (2010-04-27)
+
 6
 
 straipsnis. Lietuvos nacionaliniai simboliai
 
-1. Lietuvos
+1. Lietuvos istoriniai
 
-istoriniai nacionaliniai simboliai yra dvigubas kryžius ir Gediminaičių
+nacionaliniai simboliai yra dvigubas kryžius ir Gediminaičių stulpai. Jų
 
-stulpai. Jų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos
+etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos
 
 Prezidentas.
 
@@ -535,6 +561,10 @@ TREČIASIS SKIRSNIS
 KITI
 
 HERBAI IR HERBINIAI ŽENKLAI
+
+7 straipsnio redakcija iki 2010
+
+m. liepos 1 d.:
 
 4 straipsnis.
 
@@ -732,15 +762,33 @@ vėliava – teisės aktų nustatyta tvarka sukurta ir patvirtinta vėliava,
 
 kurios pagrindą sudaro herbas arba herbo figūra ir jų spalvos.
 
+6
+
+dalies redakcija iki 2010 m. liepos 1 d.:
+
 6. Herbinis
 
 antspaudas
 
 – šio įstatymo nustatyta tvarka patvirtintas ženklas su Lietuvos valstybės,
 
-apskrities, savivaldybės, miesto,  miestelio ar kaimo herbu, skirtas šių
+apskrities, savivaldybės, miesto, miestelio ar kaimo herbu, skirtas šių
 
 subjektų dokumentų tikrumui ir juos išdavusiam subjektui patvirtinti.
+
+6
+
+dalies redakcija nuo 2010 m. liepos 1 d.:
+
+6. Herbinis
+
+antspaudas – šio įstatymo nustatyta tvarka patvirtintas ženklas su Lietuvos
+
+valstybės, apskrities, savivaldybės, miesto, miestelio ar kaimo herbu, skirtas
+
+valstybės ar savivaldybės subjektų dokumentų tikrumui ir juos išdavusiam
+
+subjektui patvirtinti.
 
 7. Herbinis
 
@@ -758,9 +806,15 @@ pavyzdys, kurio pagrindu gaminamos herbų kopijos, kuriami kitų heraldikos
 
 objektų projektai.
 
-7 straipsnis.
+Straipsnio
 
-Apskrities herbas
+pakeitimai:
+
+Nr. XI-745,
+
+2010-04-13, Žin., 2010, Nr. 48-2295 (2010-04-27)
+
+7 straipsnis. Apskrities herbas
 
 1. Apskrities herbą apskrities
 
@@ -776,63 +830,9 @@ sutikimą, išskyrus atvejus, kai apskrities herbas ar jo atvaizdas naudojami
 
 leidybos, mokslo ir visuomenės informavimo srityse.
 
-8
+7
 
-straipsnis. Savivaldybės, miesto, miestelio ir kaimo herbas
-
-1. Savivaldybės herbą savivaldybės tarybos nustatyta tvarka
-
-naudoja savivaldybės institucijos, įstaigos, savivaldybių administracijos
-
-padaliniai ir valstybės tarnautojai bei darbuotojai.
-
-2. Savivaldybės herbas yra jos
-
-centro herbas. Kai savivaldybės centras nėra savivaldybės teritorijoje,
-
-savivaldybės herbas yra didžiausio savivaldybės teritorijoje esančio miesto
-
-herbas arba kitas patvirtintas herbas. Šiuo atveju sprendimą dėl savivaldybės
-
-herbo priima savivaldybės taryba.
-
-3. Savivaldybės herbas naudojamas savivaldybės institucijų,
-
-įstaigų ir savivaldybės administracijos padalinių, kurie neturi įstatymo
-
-nustatyta tvarka patvirtintų herbų, savivaldybės vėliavoje, herbiniuose
-
-antspauduose, dokumentų blankuose, iškabose, merų ir seniūnų ženkluose.
-
-Savivaldybės institucijos, įstaigos pavadinimas herbiniame antspaude, dokumentų
-
-blanke ir iškaboje turi sutapti.
-
-4. Savivaldybės
-
-herbas yra savivaldybės nematerialusis turtas. Kiti asmenys jį gali
-
-naudoti tik savivaldybės tarybos nustatyta tvarka, išskyrus atvejus, kai herbas
-
-ar jo atvaizdas naudojami leidybos, mokslo ir visuomenės informavimo srityse.
-
-5. Miesto, miestelio ir kaimo
-
-herbo naudojimo tvarką nustato savivaldybės taryba.
-
-6. Mero ženkle ir seniūno ženkle
-
-atvaizduojamas atitinkamos savivaldybės miesto, miestelio ar kaimo herbas.
-
-7. Antspaudų su
-
-savivaldybės herbu apyvartos kontrolę nustato įstatymas.
-
-KETVIRTASIS SKIRSNIS
-
-HERBŲ IR
-
-HERBINIŲ ŽENKLŲ ETALONAI IR PROJEKTAI
+straipsnio redakcija nuo 2010 m. liepos 1 d.:
 
 9 straipsnis. Herbų, herbinių vėliavų, herbinių
 
@@ -842,13 +842,13 @@ HERBINIŲ ŽENKLŲ ETALONAI IR PROJEKTAI
 
 ir kitų teisės aktų nustatyta tvarka patvirtinti herbų, herbinių vėliavų,
 
-herbinių ženklų, herbinių antspaudų etalonai ir projektai yra oficialūs
+herbinių ženklų, herbinių antspaudų etalonai ir projektai yra oficialūs dokumentai,
 
-dokumentai, patvirtinantys herbų, herbinių vėliavų, herbinių ženklų, herbinių
+patvirtinantys herbų, herbinių vėliavų, herbinių ženklų, herbinių antspaudų
 
-antspaudų tapatumą jų etalonams ir projektams. Jų  pagrindu gaminami atitinkami
+tapatumą jų etalonams ir projektams. Jų  pagrindu gaminami atitinkami herbai,
 
-herbai, herbinės vėliavos, herbiniai ženklai, herbiniai antspaudai.
+herbinės vėliavos, herbiniai ženklai, herbiniai antspaudai.
 
 2. Vienas
 
@@ -920,13 +920,13 @@ heraldikos komisija.
 
 savivaldybių institucijos, įstaigos ar kiti subjektai, savo uniformų
 
-skiriamuosiuose ženkluose naudojantys Lietuvos valstybės herbą, nacionalinius
+skiriamuosiuose ženkluose naudojantys Lietuvos valstybės herbą, nacionalinius simbolius,
 
-simbolius, kitus herbinius ženklus, taip pat garbės ar pasižymėjimo ženklus,
+kitus herbinius ženklus, taip pat garbės ar pasižymėjimo ženklus, numatytus
 
-numatytus įstatymuose ar kituose institucijų veiklą reglamentuojančiuose teisės
+įstatymuose ar kituose institucijų veiklą reglamentuojančiuose teisės aktuose,
 
-aktuose, derina jų projektus su Lietuvos heraldikos komisija.
+derina jų projektus su Lietuvos heraldikos komisija.
 
 11
 
@@ -966,9 +966,9 @@ sudaryta ir jam atskaitinga valstybės institucija.
 
 Komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija,
 
-įstatymais, kitais teisės aktais ir Respublikos Prezidento patvirtintais Komisijos
+įstatymais, kitais teisės aktais ir Respublikos Prezidento patvirtintais
 
-nuostatais.
+Komisijos nuostatais.
 
 3. Kalendoriniams metams
 
@@ -1028,7 +1028,9 @@ kai jiems įsiteisėja apkaltinamasis teismo nuosprendis.
 
 5.
 
-Komisijos nariams už darbą mokama įstatymų ir kitų teisės aktų nustatyta tvarka.
+Komisijos nariams už darbą mokama įstatymų ir kitų teisės aktų nustatyta
+
+tvarka.
 
 14
 
@@ -1170,6 +1172,10 @@ savarankiškuose kariniuose daliniuose ir padaliniuose – atitinkamai krašto
 
 apsaugos ministras ar vidaus reikalų ministras arba jų įgalioti asmenys.
 
+2
+
+dalies redakcija iki 2010 m. liepos 1 d.:
+
 2. Už Lietuvos
 
 valstybės herbo, herbinių ženklų ir herbinių antspaudų naudojimą valstybės
@@ -1183,18 +1189,6 @@ Respublikos Seime – Seimo kancleris;
 2) Respublikos Prezidento
 
 institucijoje – Respublikos Prezidento kanceliarijos kancleris;
-
-2
-
-dalies 3 punkto redakcija iki 2009 m. rugsėjo 15 d.:
-
-3) Lietuvos
-
-Respublikos Vyriausybėje – Vyriausybės kancleris;
-
-2
-
-dalies 3 punkto redakcija iki 2009 m. rugsėjo 15 d.:
 
 3) Lietuvos
 
@@ -1212,6 +1206,46 @@ valstybės institucijose ir įstaigose, Lietuvos Respublikos diplomatinėse
 
 atstovybėse, konsulinėse įstaigose ir specialiosiose misijose – jų vadovai.
 
+2
+
+dalies redakcija nuo 2010 m. liepos 1 d.:
+
+2. Už Lietuvos
+
+valstybės herbo, herbinių ženklų ir herbinių antspaudų naudojimą valstybės ir
+
+savivaldybių institucijose, įstaigose yra atsakingi:
+
+1) Lietuvos
+
+Respublikos Seime – Seimo kancleris;
+
+2) Respublikos
+
+Prezidento institucijoje – Respublikos Prezidento kanceliarijos kancleris;
+
+3) Lietuvos
+
+Respublikos Vyriausybėje – Ministro Pirmininko kancleris;
+
+4) Lietuvos
+
+Respublikos Konstituciniame Teisme, Lietuvos Aukščiausiajame Teisme, Lietuvos
+
+vyriausiajame administraciniame teisme – teismo kancleris, kituose teismuose –
+
+teismo pirmininkas;
+
+5) kitose
+
+valstybės institucijose ir įstaigose, Lietuvos Respublikos diplomatinėse
+
+atstovybėse, konsulinėse įstaigose ir specialiosiose misijose – jų vadovai;
+
+6) savivaldybių
+
+institucijose – savivaldybės vadovas.
+
 3. Herbų gamybą kontroliuoja
 
 Lietuvos Respublikos Vyriausybės įgaliotos institucijos, vadovaudamosi šiuo
@@ -1223,6 +1257,10 @@ Punkto pakeitimai:
 Nr. XI-324,
 
 2009-07-07, Žin., 2009, Nr. 85-3581 (2009-07-18)
+
+Nr. XI-745,
+
+2010-04-13, Žin., 2010, Nr. 48-2295 (2010-04-27)
 
 16
 
@@ -1318,9 +1356,9 @@ Valstybės
 
 įstaigų blankams ir leidimams
 
-V. Lietuvos valstybės
+V. Lietuvos
 
-herbo adaptacija
+valstybės herbo adaptacija
 
 be skydo
 
@@ -1440,6 +1478,10 @@ Nauja
 
 įstatymo redakcija
 
+Keistas
+
+įstatymo pavadinimas
+
 7.
 
 Lietuvos
@@ -1456,13 +1498,31 @@ VALSTYBĖS
 
 HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-***
+8.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. XI-745,
+
+2010-04-13, Žin., 2010, Nr. 48-2295 (2010-04-27)
+
+VALSTYBĖS HERBO, KITŲ HERBŲ IR
+
+HERBINIŲ ŽENKLŲ ĮSTATYMO 2, 5, 7, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
+Šis įstatymas, išskyrus 5
+
+straipsnį, įsigalioja 2010 m. liepos 1 d.
+
+*** Pabaiga ***
 
 Redagavo
 
-Vilija Tamaliūnienė (2009-07-20)
+Aušrinė Trapinskienė (2010-04-29)
 
-vitama@lrs.lt
+autrap@lrs.lt
 
