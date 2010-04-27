@@ -4,7 +4,7 @@ identifier: "TAR.E79004684F4D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-28"
-last_updated: "2004-11-26"
+last_updated: "2010-04-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E79004684F4D"
 department: "Lietuvos Respublikos Seimas"
@@ -73,9 +73,9 @@ naujas darbo vietas.
 
 straipsnis. Laisvoji ekonominė zona
 
-1. Laisvoji ekonominė zona
+1. Laisvoji ekonominė zona (toliau
 
-(toliau - zona) - tai ūkinei- komercinei ir finansinei veiklai skirta teritorija,
+- zona) - tai ūkinei- komercinei ir finansinei veiklai skirta teritorija,
 
 kurioje yra šio įstatymo nustatytos ūkio subjektams specialios ekonominės ir
 
@@ -281,9 +281,9 @@ Nr.I-1268,
 
 96.04.02, Žin., 1996, Nr.35-871
 
-Nr. IX-668,
+Nr. IX-668, 2001-12-18,
 
-2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
+Žin., 2001, Nr. 112-4084 (2001-12-30)
 
 7
 
@@ -487,9 +487,9 @@ klausimų tvarkymas.
 
 2. Licencijuojamai veiklai turi
 
-būti gauta Lietuvos Respublikos Vyriausybės arba jos įgaliotos valstybės
+būti gauta Lietuvos Respublikos Vyriausybės arba jos įgaliotos valstybės institucijos
 
-institucijos išduota licencija.
+išduota licencija.
 
 3.
 
@@ -521,33 +521,33 @@ LAISVOSIOS EKONOMINĖS ZONOS STEIGIMAS
 
 straipsnis. Zonos steigimo tvarka
 
-1. Zonos steigimo
+1. Zonos
 
-iniciatoriais gali būti Respublikos miestų ir rajonų savivaldybės ir apskritys,
+steigimo iniciatoriai gali būti savivaldybių tarybos ir Lietuvos Respublikos
 
-kurios Lietuvos Respublikos Vyriausybei pateikia pasiūlymą įsteigti zoną. Šiame
+ūkio ministerija, kurios Lietuvos Respublikos Vyriausybei pateikia siūlymą
 
-siūlyme turi būti:
+įsteigti zoną. Šiame siūlyme turi būti:
 
-nurodyta zonos veiklos rūšis
+nurodyta zonos
 
-(rūšys);
+veiklos rūšis (rūšys);
 
-zonos teritorinių ribų
+zonos
 
-aprašymas ir jos teritorijos planas;
+teritorinių ribų aprašymas ir jos teritorijos planas;
 
-apskrities viršininko
+subjekto, kuriam
 
-pritarimas išnuomoti zonai skiriamą teritoriją, suderintas su vietos
+valstybinė žemė yra perduota patikėjimo teise ar kuriam žemė priklauso
 
-savivaldybe;
+nuosavybės teise, pritarimas išnuomoti zonai skiriamą teritoriją;
 
-žinios apie zonos
+žinios apie
 
-funkcionavimui reikalingą infrastruktūrą, nurodant objektus, komunikacijas ir
+zonos funkcionavimui reikalingą infrastruktūrą, nurodant objektus,
 
-preliminarius jų įrengimo kaštus;
+komunikacijas ir preliminarius jų įrengimo kaštus;
 
 zonos įstatymo projektas.
 
@@ -569,13 +569,13 @@ valdymo bendrove dėl šių objektų naudojimo zonai aptarnauti pagrindai,
 
 rinkliavų iš zonos įmonių bendriems zonos reikalams nustatymo tvarka.
 
-3. Lietuvos Respublikos Seimui
+3. Lietuvos Respublikos
 
-priėmus įstatymą dėl zonos steigimo, Lietuvos Respublikos Vyriausybė priima
+Seimui priėmus įstatymą dėl zonos steigimo, Lietuvos Respublikos Vyriausybė
 
-sprendimą dėl tarptautinio konkurso geriausiam zonos verslo planui ir zonos
+priima sprendimą dėl tarptautinio konkurso geriausiam zonos verslo planui ir
 
-statutui parengti bei steigėjų grupei parinkti.
+zonos statutui parengti bei steigėjų grupei parinkti.
 
 Tarptautinį konkursą
 
@@ -626,6 +626,10 @@ Nr. IX-668,
 Nr. IX-2014,
 
 2004-02-12, Žin., 2004, Nr. 32-1006 (2004-02-28)
+
+Nr. XI-737,
+
+2010-04-13, Žin., 2010, Nr. 48-2287 (2010-04-27)
 
 III SKYRIUS.
 
@@ -763,15 +767,15 @@ organizuoti
 
 zonos ūkinę veiklą;
 
-užtikrinti, kad zonoje registruoti
+užtikrinti, kad zonoje
 
-ūkio subjektai laikytųsi zonos statuto, neužsiimtų veikla, draudžiama Lietuvos
+registruoti ūkio subjektai laikytųsi zonos statuto, neužsiimtų veikla,
 
-Respublikos įstatymų, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi
+draudžiama Lietuvos Respublikos įstatymų, veiktų pagal sutartyje nustatytas
 
-Lietuvos Respublikos aplinkos apsaugos įstatymo bei kitų teisės aktų aplinkos
+sąlygas, laikytųsi Lietuvos Respublikos aplinkos apsaugos įstatymo bei kitų
 
-apsaugos srityje reikalavimų;
+teisės aktų aplinkos apsaugos srityje reikalavimų;
 
 užtikrinti laisvųjų teritorijų ribų
 
@@ -2279,9 +2283,9 @@ ATVYKIMAS Į LAISVĄJĄ EKONOMINĘ ZONĄ
 
 26
 
-straipsnis. (Neteko
+straipsnis.
 
-galios nuo 2004 m. gegužės 1 d.)
+Neteko galios nuo 2004 m. gegužės 1 d.
 
 Straipsnio
 
@@ -2437,7 +2441,7 @@ RESPUBLIKOS PREZIDENTAS
 
 ALGIRDAS BRAZAUSKAS
 
-__________
+_____________
 
 Pakeitimai:
 
@@ -2643,13 +2647,29 @@ LAISVŲJŲ
 
 EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 15 IR 17 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+13.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-737,
+
+2010-04-13, Žin., 2010, Nr. 48-2287 (2010-04-27)
+
+LAISVŲJŲ
+
+EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2004-11-30)
+Aušrinė Trapinskienė (2010-04-27)
 
 autrap@lrs.lt
 
