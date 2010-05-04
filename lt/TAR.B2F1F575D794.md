@@ -4,7 +4,7 @@ identifier: "TAR.B2F1F575D794"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "2010-01-01"
+last_updated: "2010-05-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
 department: "Lietuvos Respublikos Seimas"
@@ -299,15 +299,15 @@ mokslinių tyrimų vykdymo tikslais, pateikusiems tai patvirtinančius dokumentu
 
 nagrinėjimą;
 
-8) prašymų išduoti vizas užsieniečiams, turintiems
+8) prašymų išduoti nacionalines vizas užsieniečiams,
 
-diplomatinius ar tarnybinius pasus ar jiems prilygintus kelionės dokumentus,
+turintiems diplomatinius ar tarnybinius pasus ar jiems prilygintus kelionės
 
-nagrinėjimą, kai jų atvykimas į Lietuvos Respubliką yra susijęs su kultūrinių,
+dokumentus, nagrinėjimą, kai jų atvykimas į Lietuvos Respubliką yra susijęs su
 
-užsienio politikos srities, vystomojo bendradarbiavimo politikos ar kitų
+kultūrinių, užsienio politikos srities, vystomojo bendradarbiavimo politikos ar
 
-visuomenei svarbių sričių interesų skatinimu;
+kitų visuomenei svarbių sričių interesų skatinimu;
 
 9) prašymų išduoti vizas užsieniečiams, vykstantiems į
 
@@ -415,7 +415,57 @@ Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio s
 
 įstatymą pripažįstamas nuo okupacijų nukentėjusio – represuoto asmens teisinis
 
-statusas.
+statusas;
+
+22) prašymų išduoti Šengeno vizas pelno nesiekiančių
+
+organizacijų atstovams, jaunesniems negu 25 metų, dalyvaujantiems seminaruose,
+
+konferencijose, sporto, kultūriniuose ar švietimo renginiuose, kuriuos
+
+organizuoja pelno nesiekiančios organizacijos, nagrinėjimą;
+
+23) prašymų išduoti Šengeno vizas vaikams nuo 6 iki 12
+
+metų nagrinėjimą, jeigu Europos Sąjungos valstybės narės, vykdydamos
+
+bendradarbiavimą Šengeno klausimais vietos lygiu, numatytą 2009 m. liepos 13 d.
+
+Europos Parlamento ir Tarybos reglamente (EB) Nr. 810/2009, nustatančiame
+
+Bendrijos vizų kodeksą (Vizų kodeksas), nėra priėmusios sprendimo imti
+
+konsulinį mokestį;
+
+24) prašymų išduoti Šengeno vizas užsieniečiams,
+
+turintiems diplomatinius ar tarnybinius pasus arba jiems prilygintus kelionės
+
+dokumentus, nagrinėjimą, jeigu Europos Sąjungos valstybės narės, vykdydamos
+
+bendradarbiavimą Šengeno klausimais vietos lygiu, numatytą 2009 m. liepos 13 d.
+
+Europos Parlamento ir Tarybos reglamente (EB) Nr. 810/2009, nustatančiame
+
+Bendrijos vizų kodeksą (Vizų kodeksas), nėra priėmusios sprendimo imti
+
+konsulinį mokestį;
+
+25) prašymų išduoti Šengeno vizas užsieniečiams,
+
+jaunesniems negu 25 metų, dalyvaujantiems seminaruose, konferencijose, sporto,
+
+kultūriniuose ar švietimo renginiuose, kuriuos organizuoja pelno nesiekiančios
+
+organizacijos, nagrinėjimą, jeigu Europos Sąjungos valstybės narės, vykdydamos
+
+bendradarbiavimą Šengeno klausimais vietos lygiu, numatytą 2009 m. liepos 13 d.
+
+Europos Parlamento ir Tarybos reglamente (EB) Nr. 810/2009, nustatančiame
+
+Bendrijos vizų kodeksą (Vizų kodeksas), yra priėmusios sprendimą neimti
+
+konsulinio mokesčio.
 
 2. Konsulinio mokesčio už paso išdavimą, keitimą arba
 
@@ -432,6 +482,10 @@ Straipsnio pakeitimas:
 Nr. XI-468,
 
 2009-11-12, Žin., 2009, Nr. 141-6191 (2009-11-28)
+
+Nr. XI-773,
+
+2010-04-20, Žin., 2010, Nr. 51-2482 (2010-05-04)
 
 7 straipsnis. Mokesčio
 
@@ -529,13 +583,17 @@ gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą Nr.
 
 m. specialusis leidimas, 5 skyrius, 5 tomas, p. 46).
 
-3. 2006 m. birželio 1 d. Tarybos sprendimas
+3. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos
 
-2006/440/EB, iš dalies keičiantis Bendrųjų konsulinių instrukcijų 12 priedą ir
+reglamentas (EB)
 
-Bendrojo vadovo 14a priedą dėl taikytinų mokesčių, atitinkančių prašymų išduoti
+Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas) (OL 2009 L 243, p. 1).
 
-vizą tvarkymo administracines išlaidas (OL 2006 L 175, p. 77).
+Priedo pakeitimas:
+
+Nr. XI-773,
+
+2010-04-20, Žin., 2010, Nr. 51-2482 (2010-05-04)
 
 _______________
 
@@ -711,11 +769,25 @@ MOKESČIO ĮSTATYMO 3, 6 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 sausio 1 d.
 
+10.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. XI-773,
+
+2010-04-20, Žin., 2010, Nr. 51-2482 (2010-05-04)
+
+KONSULINIO
+
+MOKESČIO ĮSTATYMO 6 STRAIPSNIO IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2009-12-03)
+(2010-05-04)
 
 autrap@lrs.lt
 
