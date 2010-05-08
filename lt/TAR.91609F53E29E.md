@@ -4,7 +4,7 @@ identifier: "TAR.91609F53E29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-01-19"
-last_updated: "2009-01-01"
+last_updated: "2010-05-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,9 +18,17 @@ entry_into_force_conditions: "Įstatymo 36 straipsnis ir 39 straipsnio 2 ir 3 da
 ---
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2010-05-07
+Suvestinė redakcija nuo 2010-05-08 iki 2012-08-31
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
+
+TAR pastaba. Socialinės globos įstaigos privalo įgyti licencijas iki 2015 m. sausio 1 d. Apskrities viršininko socialinių paslaugų įstaigų savininko teisės ir pareigos perduodamos savivaldybėms nuo 2010 m. liepos 1 d. pagal šio įstatymo priede nurodytą sąrašą. Valstybei nuosavybės teise priklausantis ir šių įstaigų patikėjimo teise valdomas turtas perduodamas savivaldybių nuosavybėn.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+Lietuvos Respublikos socialinių paslaugų įstatymo 2, 9, 10, 11, 13, 19, 26, 30, 34, 36, 38, 39 straipsnių pakeitimo ir papildymo ir 12 straipsnio pripažinimo netekusiu galios įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -54,23 +62,65 @@ BENDROSIOS NUOSTATOS
 
 3. Senyvo amžiaus asmuo – sukakęs senatvės pensijos amžių asmuo, kuris dėl amžiaus iš dalies ar visiškai yra netekęs gebėjimų savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
 
-4. Socialinės globos įstaiga – šio įstatymo nustatyta tvarka turinti teisę teikti socialinę globą įmonė (akcinė bendrovė, uždaroji akcinė bendrovė, individuali įmonė), įstaiga (viešoji įstaiga, biudžetinė įstaiga), šeimyna.
+4. Sielovados darbuotojas – pagal darbo sutartį socialinių paslaugų įstaigoje dirbantis asmuo, turintis tradicinės religinės bendruomenės ar bendrijos leidimą arba siuntimą religinės bendruomenės ar bendrijos pavedimu teikti religinius patarnavimus ir sielovados pagalbą.
 
-5. Socialinės globos norma – Vyriausybės ar jos įgaliotos institucijos patvirtinti socialinės globos teikimo likusiems be tėvų globos vaikams, vaikams su negalia, socialinės rizikos vaikams, suaugusiems asmenims su negalia, senyvo amžiaus asmenims, socialinės rizikos suaugusiems asmenims principai ir charakteristikos.
+Papildyta straipsnio dalimi:
 
-6. Socialinės rizikos suaugęs asmuo – darbingo amžiaus asmuo, esantis socialiai atskirtas dėl to, kad elgetauja, valkatauja, piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar toksinėmis medžiagomis, yra priklausomas nuo azartinių lošimų, yra įsitraukęs ar linkęs įsitraukti į nusikalstamą veiklą, yra patyręs ar kuriam kyla pavojus patirti psichologinę, fizinę ar seksualinę prievartą, smurtą šeimoje ir yra iš dalies ar visiškai netekęs gebėjimų savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
-7. Socialinės rizikos šeima – šeima, kurioje auga vaikų iki 18 metų ir kurioje bent vienas iš tėvų piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar toksinėmis medžiagomis, yra priklausomas nuo azartinių lošimų, dėl socialinių įgūdžių stokos nemoka ar negali tinkamai prižiūrėti vaikų, naudoja prieš juos psichologinę, fizinę ar seksualinę prievartą, gaunamą valstybės paramą panaudoja ne šeimos interesams ir todėl iškyla pavojus vaikų fiziniam, protiniam, dvasiniam, doroviniam vystymuisi bei saugumui. Socialinės rizikos šeimai priskiriama ir šeima, kurios vaikui įstatymų nustatyta tvarka yra nustatyta laikinoji globa (rūpyba).
+5. Socialinės globos įstaiga – šio įstatymo nustatyta tvarka turinti teisę teikti socialinę globą įmonė (akcinė bendrovė, uždaroji akcinė bendrovė, individuali įmonė), įstaiga (viešoji įstaiga, biudžetinė įstaiga), šeimyna.
 
-8. Socialinės rizikos vaikas – vaikas iki 18 metų, kuris valkatauja, elgetauja, nelanko mokyklos ar turi elgesio problemų mokykloje, piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar toksinėmis medžiagomis, yra priklausomas nuo azartinių lošimų, yra įsitraukęs ar linkęs įsitraukti į nusikalstamą veiklą, yra patyręs ar kuriam kyla pavojus patirti psichologinę, fizinę ar seksualinę prievartą, smurtą šeimoje ir dėl šių priežasčių jo galimybės ugdytis ir dalyvauti visuomenės gyvenime yra ribotos.
+Straipsnio dalies numeracijos pakeitimas:
 
-9. Socialinių paslaugų įstaiga – socialines paslaugas teikianti įmonė (akcinė bendrovė, uždaroji akcinė bendrovė, individuali įmonė), įstaiga (viešoji įstaiga, biudžetinė įstaiga), organizacija (asociacija, labdaros ir paramos fondas, religinė bendruomenė ar bendrija (centras), šeimyna.
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
-10. Suaugęs asmuo su negalia – darbingo amžiaus asmuo, kuris dėl neįgalumo yra iš dalies ar visiškai netekęs gebėjimų savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
+6. Socialinės globos norma – Vyriausybės ar jos įgaliotos institucijos patvirtinti socialinės globos teikimo likusiems be tėvų globos vaikams, vaikams su negalia, socialinės rizikos vaikams, suaugusiems asmenims su negalia, senyvo amžiaus asmenims, socialinės rizikos suaugusiems asmenims principai ir charakteristikos.
 
-11. Vaikas su negalia – vaikas iki 18 metų, kuris dėl neįgalumo yra iš dalies ar visiškai neįgijęs jo amžių atitinkančio savarankiškumo ir kurio galimybės ugdytis bei dalyvauti visuomenės gyvenime yra ribotos.
+Straipsnio dalies numeracijos pakeitimas:
 
-12. Vaikus globojanti šeima – sutuoktiniai (ar vienas gyvenantis vyresnis kaip 21 metų asmuo), įstatymų ir kitų teisės aktų nustatyta tvarka prižiūrintys ar globojantys (besirūpinantys) nesusietus giminystės ryšiais likusius be tėvų globos vaikus, socialinės rizikos vaikus, vaikus su negalia.
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+7. Socialinės rizikos suaugęs asmuo – darbingo amžiaus asmuo, esantis socialiai atskirtas dėl to, kad elgetauja, valkatauja, piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar toksinėmis medžiagomis, yra priklausomas nuo azartinių lošimų, yra įsitraukęs ar linkęs įsitraukti į nusikalstamą veiklą, yra patyręs ar kuriam kyla pavojus patirti psichologinę, fizinę ar seksualinę prievartą, smurtą šeimoje ir yra iš dalies ar visiškai netekęs gebėjimų savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+8. Socialinės rizikos šeima – šeima, kurioje auga vaikų iki 18 metų ir kurioje bent vienas iš tėvų piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar toksinėmis medžiagomis, yra priklausomas nuo azartinių lošimų, dėl socialinių įgūdžių stokos nemoka ar negali tinkamai prižiūrėti vaikų, naudoja prieš juos psichologinę, fizinę ar seksualinę prievartą, gaunamą valstybės paramą panaudoja ne šeimos interesams ir todėl iškyla pavojus vaikų fiziniam, protiniam, dvasiniam, doroviniam vystymuisi bei saugumui. Socialinės rizikos šeimai priskiriama ir šeima, kurios vaikui įstatymų nustatyta tvarka yra nustatyta laikinoji globa (rūpyba).
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+9. Socialinės rizikos vaikas – vaikas iki 18 metų, kuris valkatauja, elgetauja, nelanko mokyklos ar turi elgesio problemų mokykloje, piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar toksinėmis medžiagomis, yra priklausomas nuo azartinių lošimų, yra įsitraukęs ar linkęs įsitraukti į nusikalstamą veiklą, yra patyręs ar kuriam kyla pavojus patirti psichologinę, fizinę ar seksualinę prievartą, smurtą šeimoje ir dėl šių priežasčių jo galimybės ugdytis ir dalyvauti visuomenės gyvenime yra ribotos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+10. Socialinių paslaugų įstaiga – socialines paslaugas teikianti įmonė (akcinė bendrovė, uždaroji akcinė bendrovė, individuali įmonė), įstaiga (viešoji įstaiga, biudžetinė įstaiga), organizacija (asociacija, labdaros ir paramos fondas, religinė bendruomenė ar bendrija (centras), šeimyna.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+11. Suaugęs asmuo su negalia – darbingo amžiaus asmuo, kuris dėl neįgalumo yra iš dalies ar visiškai netekęs gebėjimų savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+12. Vaikas su negalia – vaikas iki 18 metų, kuris dėl neįgalumo yra iš dalies ar visiškai neįgijęs jo amžių atitinkančio savarankiškumo ir kurio galimybės ugdytis bei dalyvauti visuomenės gyvenime yra ribotos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+13. Vaikus globojanti šeima – sutuoktiniai (ar vienas gyvenantis vyresnis kaip 21 metų asmuo), įstatymų ir kitų teisės aktų nustatyta tvarka prižiūrintys ar globojantys (besirūpinantys) nesusietus giminystės ryšiais likusius be tėvų globos vaikus, socialinės rizikos vaikus, vaikus su negalia.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
 3 straipsnis. Socialinių paslaugų samprata ir tikslai
 
@@ -150,7 +200,11 @@ SOCIALINIŲ PASLAUGŲ RŪŠYS
 
 9 straipsnis. Pagalbos pinigai
 
-1. Atskirais savivaldybės nustatytais atvejais, kai bendrąsias socialines paslaugas ir socialinę priežiūrą asmeniui (šeimai) yra veiksmingiau organizuoti pinigais, šios paslaugos gali būti keičiamos į piniginę išmoką – pagalbos pinigus.
+1. Atskirais savivaldybės institucijos nustatytais atvejais, kai vaikus prižiūri ar juos globoja (jais rūpinasi) vaikus globojančios šeimos arba kai bendrąsias socialines paslaugas ir socialinę priežiūrą asmeniui (šeimai) yra veiksmingiau organizuoti pinigais, vaikus globojančiai šeimai arba asmeniui (šeimai) gali būti mokama piniginė išmoka – pagalbos pinigai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
 2. Pagalbos pinigų mokėjimą reglamentuoja Vyriausybės ar jos įgaliotos institucijos patvirtintas mokėjimo už socialines paslaugas tvarkos aprašas.
 
@@ -236,11 +290,19 @@ Socialinės apsaugos ir darbo ministerija įgyvendina valstybės socialinių pas
 
 8) rengia ir įgyvendina savivaldybės socialinių paslaugų programas ir projektus.
 
-5. Savivaldybė steigia savo socialinių paslaugų įstaigas tik tais atvejais, kai veikiančios socialinių paslaugų įstaigos neteikia ar teikia nepakankamai, ar neverta teikti tų socialinių paslaugų, kurioms yra nustatytas savivaldybės teritorijos gyventojų poreikis.
+5. Savivaldybė steigia savo naujas socialinių paslaugų įstaigas tik tais atvejais, kai kitos socialinių paslaugų įstaigos neteikia ar teikia nepakankamai, ar negali teikti gyventojams ekonomiškai ir geros kokybės tų socialinių paslaugų, kurioms yra nustatytas savivaldybės teritorijos gyventojų poreikis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
 6. Savivaldybė kontroliuoja jos teritorijoje teikiamų bendrųjų socialinių paslaugų ir socialinės priežiūros kokybę.
 
-7. Savivaldybė informuoja Socialinės apsaugos ir darbo ministeriją ir apskrities viršininką apie jos teritorijoje teikiamas socialines paslaugas.
+7. Savivaldybė informuoja Socialinės apsaugos ir darbo ministeriją ir gyventojus apie jos teritorijoje teikiamas socialines paslaugas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
 8. Kiekvienos savivaldybės administracijoje turi veikti padalinys, planuojantis socialines paslaugas, administruojantis socialinių paslaugų organizavimą ir bendrųjų socialinių paslaugų bei socialinės priežiūros kokybės kontrolę.
 
@@ -334,9 +396,23 @@ SOCIALINIŲ PASLAUGŲ TEIKIMAS
 
 2. Socialinę globą teikia tos socialinės globos įstaigos, kurių veiklos sritis yra socialinių paslaugų teikimas, o jų teikiama socialinė globa atitinka socialinės globos normas, jos turi licenciją teikti socialinę globą (toliau – licencija).
 
-3. Socialinę globą teikia tos vaikus globojančios šeimos, kurios atitinka teisės aktų joms nustatytus reikalavimus, o jų teikiama socialinė globa – socialinės globos normas.
+3. Vaikus globojanti šeima turi atitikti teisės aktų nustatytus reikalavimus ir turėti savivaldybės Vaiko teisių apsaugos tarnybos išvadą apie vaikus globojančios šeimos tinkamumą globoti (rūpintis) vaikus (vaikais).
 
-4. Europos Sąjungos valstybėse išduoti leidimai, licencijos, kvalifikacijos reikalavimus patvirtinantys dokumentai teisės aktų nustatyta tvarka pripažįstami tinkamais verstis socialinėmis paslaugomis Lietuvos Respublikoje.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+4. Socialinių paslaugų įstaigoje gali dirbti sielovados darbuotojas. Sielovados darbuotojas netenka teisės dirbti sielovados darbą, kai tradicinė religinė bendruomenė ar bendrija atšaukia leidimą arba siuntimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+6. Europos Sąjungos valstybėse išduoti leidimai, licencijos, kvalifikacijos reikalavimus patvirtinantys dokumentai teisės aktų nustatyta tvarka pripažįstami tinkamais verstis socialinėmis paslaugomis Lietuvos Respublikoje.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
 20 straipsnis. Socialiniai darbuotojai, socialinių darbuotojų padėjėjai
 
@@ -630,7 +706,17 @@ SOCIALINIŲ PASLAUGŲ FINANSAVIMAS
 
 5. Socialinė globa likusiems be tėvų globos vaikams finansuojama iš savivaldybės biudžeto lėšų ir iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, skirtų vaikų globos (rūpybos) išmokoms mokėti.
 
-6. Valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams panaudojimą socialinėms paslaugoms finansuoti reglamentuoja Vyriausybės ar jos įgaliotos institucijos patvirtinta socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodika.
+6. Vaikų priežiūra ar globa (rūpyba) vaikus globojančioje šeimoje finansuojama iš savivaldybių biudžetų lėšų ir iš valstybės biudžeto lėšų, skirtų išmokoms vaikams, o kai vaikui nustatyta nuolatinė ar laikinoji globa (rūpyba), – ir vaikų globos (rūpybos) išmokoms pagal Išmokų vaikams įstatymą mokėti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+7. Valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams panaudojimą socialinėms paslaugoms finansuoti reglamentuoja Vyriausybės ar jos įgaliotos institucijos patvirtinta socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodika.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
 DEVINTASIS SKIRSNIS
 
@@ -684,7 +770,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 4) socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodiką.
 
-3. Vyriausybė ar jos įgaliota institucija iki 2009 m. sausio 1 d. patvirtina socialinės globos įstaigų licencijavimo taisykles.
+3. Neteko galios nuo 2010-05-08
+
+Straipsnio dalies naikinimas:
+
+Nr. XI-777, 2010-04-22, Žin. 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
 37 straipsnis. Reikalavimai socialiniams darbuotojams
 
@@ -702,7 +792,17 @@ BAIGIAMOSIOS NUOSTATOS
 
 3. Šio įstatymo septintojo skirsnio nuostatos, susijusios su mokėjimu už socialines paslaugas asmenims, pradėjusiems gauti šias paslaugas iki šio įstatymo įsigaliojimo, netaikomos, išskyrus tuos atvejus, kai mokėjimo už socialines paslaugas dydis asmeniui pagal teisės aktus, galiojusius iki 2006 m. liepos 1 d., buvo didesnis, negu nustatytas šiame įstatyme.
 
-4. Ilgalaikė socialinė globa senyvo amžiaus asmenims, suaugusiems asmenims su negalia, vaikams su negalia, likusiems be tėvų globos vaikams, iki šio įstatymo įsigaliojimo pradėjusiems ją gauti apskričių viršininkų socialinių paslaugų įstaigose, finansuojama netaikant šio įstatymo aštuntojo skirsnio nuostatų.
+4. Ilgalaikė socialinė globa senyvo amžiaus asmenims, suaugusiems asmenims su negalia, vaikams su negalia, likusiems be tėvų globos vaikams, iki 2007 m. sausio 1 d. pradėjusiems ją gauti apskričių viršininkų socialinių paslaugų įstaigose, finansuojama iš valstybės biudžeto lėšų, netaikant šio įstatymo aštuntojo skirsnio nuostatų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+5. Socialinės paslaugos asmenims, iki 2007 m. sausio 1 d. pradėjusiems jas gauti apskrities viršininko socialinių paslaugų įstaigose, kurių savininko teisės ir pareigos yra perduotos savivaldybėms, 2011 m. ir 2012 m. finansuojamos iš valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, netaikant šio įstatymo aštuntojo skirsnio nuostatų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
 39 straipsnis. Įstatymo įsigaliojimas
 
@@ -710,7 +810,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 2. Šio įstatymo trečiojo skirsnio nuostatos, susijusios su socialinių paslaugų planavimo metodikos taikymu, ir aštuntojo skirsnio nuostatos, susijusios su socialinių paslaugų finansavimu, taip pat šio įstatymo nuostatos, susijusios su socialinės globos normų taikymu ir Socialinių paslaugų priežiūros departamento veikla, įsigalioja nuo 2007 m. sausio 1 d.
 
-3. Šio įstatymo šeštojo skirsnio nuostatos, susijusios su socialinės globos įstaigų licencijavimu, įsigalioja nuo 2010 m. sausio 1 d.
+3. Šio įstatymo šeštojo skirsnio nuostatos, susijusios su socialinės globos įstaigų licencijavimu, taikomos nuo 2013 m. sausio 1 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
 40 straipsnis. Netekę galios teisės aktai
 
@@ -737,4 +841,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1573, 2008-06-05, Žin., 2008, Nr. 71-2702 (2008-06-21), i. k. 1081010ISTA00X-1573
 
 Lietuvos Respublikos socialinių paslaugų įstatymo 32 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+Lietuvos Respublikos socialinių paslaugų įstatymo 2, 9, 10, 11, 13, 19, 26, 30, 34, 36, 38, 39 straipsnių pakeitimo ir papildymo ir 12 straipsnio pripažinimo netekusiu galios įstatymas
 
