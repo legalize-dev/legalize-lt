@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2008-10-18"
+last_updated: "2010-05-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -445,21 +445,47 @@ rengia šias schemas ir priemones, numato jų įgyvendinimo (taikymo) mechanizm�
 
 kontroliuoja, kaip jos vykdomos (taikomos);
 
+3 punkto redakcija iki 2010 m.
+
+liepos 1 d.:
+
 3) rengia įstatymų, Lietuvos Respublikos Vyriausybės
 
-nutarimų ir kitų teisės aktų aplinkos apsaugos ir gamtos išteklių naudojimo klausimais
+nutarimų ir kitų teisės aktų aplinkos apsaugos ir gamtos išteklių naudojimo
 
-projektus, organizuoja bendrųjų, specialiųjų bei detaliųjų teritorinio
+klausimais projektus, organizuoja bendrųjų, specialiųjų bei detaliųjų
 
-planavimo dokumentų aplinkos apsaugos klausimais rengimą, pagal savo
+teritorinio planavimo dokumentų aplinkos apsaugos klausimais rengimą, pagal
 
-kompetenciją derina ministerijų, kitų Vyriausybės įstaigų, apskrities, vietos
+savo kompetenciją derina ministerijų, kitų Vyriausybės įstaigų, apskrities,
 
-savivaldos, kitų institucijų teisės aktų, reguliuojančių ūkinę ir kitokią
+vietos savivaldos, kitų institucijų teisės aktų, reguliuojančių ūkinę ir
 
-veiklą, galinčią turėti poveikio aplinkai, projektus bei teritorinio planavimo
+kitokią veiklą, galinčią turėti poveikio aplinkai, projektus bei teritorinio
 
-dokumentus, kad jie atitiktų aplinkos apsaugos įstatymus ir kitus teisės aktus;
+planavimo dokumentus, kad jie atitiktų aplinkos apsaugos įstatymus ir kitus
+
+teisės aktus;
+
+3 punkto redakcija nuo 2010 m.
+
+liepos 1 d.:
+
+3) rengia įstatymų, Lietuvos Respublikos Vyriausybės
+
+nutarimų ir kitų teisės aktų aplinkos apsaugos ir gamtos išteklių naudojimo
+
+klausimais projektus, organizuoja bendrųjų, specialiųjų bei detaliųjų
+
+teritorinio planavimo dokumentų aplinkos apsaugos klausimais rengimą, pagal
+
+savo kompetenciją derina valstybės ir savivaldybių institucijų ir įstaigų
+
+teisės aktų, reguliuojančių ūkinę ir kitokią veiklą, galinčią turėti poveikio
+
+aplinkai, projektus bei teritorinio planavimo dokumentus, kad jie atitiktų
+
+aplinkos apsaugos įstatymus ir kitus teisės aktus;
 
 4) pagal savo kompetenciją rengia ir tvirtina aplinkos
 
@@ -471,11 +497,11 @@ taisykles;
 
 kompetenciją nustato gamtos išteklių naudojimo limitus ir sąlygas, leidimų
 
-išdavimo tvarką, reglamentuoja ir kontroliuoja gamtos išteklių apskaitą, organizuoja
+išdavimo tvarką, reglamentuoja ir kontroliuoja gamtos išteklių apskaitą,
 
-valstybinių kadastrų bei registrų, priskirtų ministerijos kompetencijai,
+organizuoja valstybinių kadastrų bei registrų, priskirtų ministerijos
 
-sudarymą bei tvarkymą;
+kompetencijai, sudarymą bei tvarkymą;
 
 6) teikia Lietuvos Respublikos Vyriausybei saugomų
 
@@ -537,15 +563,15 @@ programos lėšas;
 
 15) nustatyta tvarka pagal savo kompetenciją palaiko
 
-ryšius su užsienio valstybių atitinkamomis institucijomis ir tarptautinėmis
+ryšius su užsienio valstybių atitinkamomis institucijomis ir tarptautinėmis organizacijomis,
 
-organizacijomis, rengia tarptautinių sutarčių projektus, pasirašo šias
+rengia tarptautinių sutarčių projektus, pasirašo šias sutartis, organizuoja jų
 
-sutartis, organizuoja jų įgyvendinimą, taip pat Lietuvos Respublikos
+įgyvendinimą, taip pat Lietuvos Respublikos Vyriausybės ar Ministro Pirmininko
 
-Vyriausybės ar Ministro Pirmininko pavedimu atstovauja Lietuvos Respublikai
+pavedimu atstovauja Lietuvos Respublikai užsienio valstybėse ar tarptautinėse
 
-užsienio valstybėse ar tarptautinėse organizacijose;
+organizacijose;
 
 16) rengia ataskaitas apie aplinkos būklę Lietuvos Respublikoje,
 
@@ -587,9 +613,9 @@ norminių aktų aplinkos apsaugos klausimais įgyvendinimą:
 
 išteklius ir aplinkosaugos objektus;
 
-2) paskirsto pagal savivaldybėms nustatytus limitus valstybinius
+2) paskirsto pagal savivaldybėms nustatytus limitus
 
-gamtos išteklius;
+valstybinius gamtos išteklius;
 
 3) rengia, tvirtina ir įgyvendina savivaldybių
 
@@ -662,6 +688,12 @@ Nr. IX-2113,
 Nr. X-147, 2005-03-24,
 
 Žin., 2005, Nr. 47-1558 (2005-04-12)
+
+Nr.
+
+XI-783, 2010-04-27,
+
+Žin., 2010, Nr. 54-2646 (2010-05-11)
 
 II SKYRIUS. LIETUVOS RESPUBLIKOS PILIEČIŲ,
 
@@ -1093,9 +1125,9 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-Nr. VIII-1637, 00.04.18, Žin., 2000,
+Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093
 
-Nr.39-1093 (00.05.12)
+(00.05.12)
 
 17 straipsnis. Ūkinės veiklos objektų
 
@@ -1533,9 +1565,9 @@ Aplinkos apsaugos rėmimo programos lėšos ir
 
 Savivaldybių aplinkos apsaugos rėmimo specialiosios programos lėšos yra
 
-papildomi aplinkos apsaugos finansavimo šaltiniai. Papildomas finansavimo
+papildomi aplinkos apsaugos finansavimo šaltiniai. Papildomas finansavimo šaltinis
 
-šaltinis gali būti užsienio kreditai.
+gali būti užsienio kreditai.
 
 Aplinkos apsaugos rėmimo programos lėšas bei jų
 
@@ -1577,9 +1609,9 @@ apsaugos kontrolė
 
 Lietuvos Respublikoje valstybinę aplinkos apsaugos ir
 
-gamtos išteklių naudojimo kontrolę vykdo Aplinkos ministerijos sistemos
+gamtos išteklių naudojimo kontrolę vykdo Aplinkos ministerijos sistemos pareigūnai
 
-pareigūnai – valstybiniai aplinkos apsaugos inspektoriai.
+– valstybiniai aplinkos apsaugos inspektoriai.
 
 Vykdydami
 
@@ -1677,9 +1709,9 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-Nr. IX-2113, 2004-04-13,
+Nr. IX-2113,
 
-Žin., 2004, Nr. 60-2121 (2004-04-24)
+2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 
 Nr. X-147, 2005-03-24,
 
@@ -1917,9 +1949,9 @@ Pareikšti ieškinius dėl padarytos žalos turi teisę:
 
 padaryta žalos;
 
-2) Aplinkos ministerijos pareigūnai, kiti įstatymų
+2) Aplinkos ministerijos pareigūnai, kiti įstatymų įgalioti
 
-įgalioti pareigūnai, kai padaryta žalos valstybės interesams.
+pareigūnai, kai padaryta žalos valstybės interesams.
 
 Aplinkos ministerija, jai pavaldžios ar kitos valstybės ar savivaldybių institucijos pagal kompetenciją ieškinius dėl žalos
 
@@ -2261,15 +2293,33 @@ APLINKOS
 
 APSAUGOS ĮSTATYMO PAPILDYMO 13(1) STRAIPSNIU ĮSTATYMAS
 
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-783,
+
+2010-04-27, Žin., 2010, Nr. 54-2646 (2010-05-11)
+
+APLINKOS
+
+APSAUGOS ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Įstatymas
+
+įsigalioja 2010-07-01.
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2008-10-20)
+Aušra Bodin (2010-05-11)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
 27 straipsnis. Planų ir
 
@@ -2299,9 +2349,9 @@ Nr. VIII-1637, 00.04.18, Žin., 2000,
 
 Nr.39-1093 (00.05.12)
 
-Nr. IX-2032, 2004-02-19,
+Nr. IX-2032,
 
-Žin., 2004, Nr. 36-1179 (2004-03-07)
+2004-02-19, Žin., 2004, Nr. 36-1179 (2004-03-07)
 
 VI SKYRIUS. EKONOMINIS APLINKOS
 
@@ -2417,7 +2467,7 @@ straipsniu:
 
 Nr.
 
-X-1744, 2008-10-06,
+X-1744,
 
-Žin., 2008, Nr. 120-4550 (2008-10-18)
+2008-10-06, Žin., 2008, Nr. 120-4550 (2008-10-18)
 
