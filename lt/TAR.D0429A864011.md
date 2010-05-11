@@ -4,7 +4,7 @@ identifier: "TAR.D0429A864011"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-09"
-last_updated: "2004-02-21"
+last_updated: "2010-05-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0429A864011"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos melioracijos įstatymas
 
-Suvestinė redakcija nuo 2004-02-21 iki 2010-05-10
+Suvestinė redakcija nuo 2010-05-11 iki 2010-06-30
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 71-1326, i. k. 0931010ISTA000I-323
 
@@ -124,7 +124,11 @@ MELIORACIJOS PROJEKTAVIMAS, STATYBA, EKSPERTIZĖ, MELIORUOTOS ŽEMĖS IR MELIORA
 
 2. Melioracijos statinių projektų, įrašytų į valstybės investicijų programą arba finansuojamų iš Europos Sąjungos struktūrinių ar kitų fondų, ekspertizė privaloma.
 
-3. Melioracijos statinių projektavimą, melioracijos statinių ir jų projektų ekspertizę (išskyrus avarinių gedimų šalinimo darbus), melioracijos statinių statybą turi teisę atlikti įmonė, turinti Žemės ūkio ministerijos išduotą ar pripažintą kvalifikacinį atestatą verstis konkrečia technine veikla.
+3. Melioracijos statinių projektavimą, melioracijos statinių ir jų projektų ekspertizę (išskyrus avarinių gedimų šalinimo darbus), melioracijos statinių statybą turi teisę atlikti Lietuvos Respublikos ar Europos Sąjungos valstybės narės ar kitos Europos ekonominės erdvės valstybės (toliau – valstybė narė) pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktų jam suteiktomis judėjimo valstybėse narėse teisėmis, arba Lietuvos Respublikoje ar valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija, taip pat jų filialai, turintys Žemės ūkio ministerijos išduotą arba pripažintą kvalifikacinį atestatą verstis konkrečia technine veikla. Kvalifikacinis atestatas verstis konkrečia technine veikla išduodamas arba pripažįstamas Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-787, 2010-04-27, Žin., 2010, Nr. 54-2650 (2010-05-11), i. k. 1101010ISTA00XI-787
 
 9 straipsnis. Melioruotos žemės ir melioracijos statinių apskaita
 
@@ -187,6 +191,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2009, 2004-02-05, Žin., 2004, Nr. 28-877 (2004-02-21), i. k. 1041010ISTA0IX-2009
 
 Lietuvos Respublikos melioracijos įstatymo pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-787, 2010-04-27, Žin., 2010, Nr. 54-2650 (2010-05-11), i. k. 1101010ISTA00XI-787
+
+Lietuvos Respublikos melioracijos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas
 
 11 straipsnis. Žemės savininkų pareigos
 
