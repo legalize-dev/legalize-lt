@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2008-12-30"
+last_updated: "2010-05-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -2594,15 +2594,9 @@ pamainos trukmė kartu su viršvalandžiais negali būti ilgesnė kaip 26 valand
 
 o vieno pareigūno viršvalandžiai per metus negali viršyti 164 valandų.
 
-5. Šio
+5. Neteko galios
 
-straipsnio 3 dalyje nurodytiems pareigūnams, į kurių pareigas įeina nuolat
-
-pasikartojantis darbas nakties metu, poilsio ir švenčių dienomis, priemokos
-
-mokamos šio Statuto 38 straipsnio 1 dalyje nustatyta tvarka.
-
-5 dalis netenka galios nuo 2009 m. sausio 1 d.
+nuo 2009 m. sausio 1 d.
 
 Straipsnio
 
@@ -2634,9 +2628,9 @@ kelią stichinėms nelaimėms, gaisrams, avarijoms ar katastrofoms, taip pat
 
 likviduoti jų padarinius;
 
-3) užkirsti
+3) užkirsti kelią
 
-kelią masinėms riaušėms ar jas nutraukti;
+masinėms riaušėms ar jas nutraukti;
 
 4) užtikrinti
 
@@ -2693,20 +2687,6 @@ laikas negali trukti ilgiau kaip 96 valandas per mėnesį. Pareigūno budėjimo
 laikas įstaigoje prilyginamas darbo laikui, o budėjimas namuose ar iš anksto
 
 aptartoje tarnybos vietovės vietoje – ne mažiau kaip pusei darbo laiko.
-
-3 dalies redakcija iki 2009 m. sausio 1 d.:
-
-3. Už budėjimą,
-
-kai viršijama darbo laiko trukmė, per artimiausią mėnesį pareigūnui privalo
-
-būti suteiktas poilsio laikas tokios pat trukmės kaip viršytas darbo laikas
-
-arba pareigūno pageidavimu šis poilsio laikas gali būti pridedamas prie
-
-kasmetinių atostogų, arba apmokama kaip už viršvalandinį darbą.
-
-3 dalies redakcija nuo 2009 m. sausio 1 d.:
 
 3. Už budėjimą,
 
@@ -2804,9 +2784,9 @@ atostogų metu atveju gavusiam iš asmens sveikatos priežiūros įstaigų nusta
 
 formos laikinojo nedarbingumo pažymėjimą ir pateikusiam jį tiesioginiam vadovui
 
-(arba pranešusiam kitu būdu), kasmetinės atostogos pratęsiamos ar perkeliamos
+(arba pranešusiam kitu būdu), kasmetinės atostogos pratęsiamos ar perkeliamos visam
 
-visam laikinojo nedarbingumo laikui.
+laikinojo nedarbingumo laikui.
 
 33
 
@@ -2846,9 +2826,9 @@ jaunesnysis policininkas – 0,1 bazinio dydžio;
 
 puskarininkis, policininkas – 0,15 bazinio dydžio;
 
-3) puskarininkis,
+3)
 
-vyresnysis policininkas – 0,2 bazinio dydžio;
+puskarininkis, vyresnysis policininkas – 0,2 bazinio dydžio;
 
 4) vyresnysis
 
@@ -2948,13 +2928,9 @@ procentų pareiginės algos;
 
 procentų pareiginės algos.
 
-6. Priedų už
+6. Neteko galios
 
-kvalifikacinę kategoriją ir laipsnį suma negali viršyti 55 procentų pareiginės
-
-algos.
-
-6 dalis netenka galios nuo 2009 m. sausio 1 d.
+nuo 2009 m. sausio 1 d.
 
 Straipsnio
 
@@ -2978,11 +2954,11 @@ vidaus tarnybos stažą papildomai įskaitant (tarp jų ir laikotarpius, buvusiu
 
 iki 1990 m. kovo 11 d.):
 
-1) faktinį tarnybos
+1) faktinį
 
-vidaus reikalų, krašto apsaugos, valstybės saugumo, prokuratūros sistemose,
+tarnybos vidaus reikalų, krašto apsaugos, valstybės saugumo, prokuratūros
 
-Specialiųjų tyrimų tarnyboje, Kalėjimų departamente prie Teisingumo
+sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente prie Teisingumo
 
 ministerijos, jam pavaldžiose įstaigose ir valstybės įmonėse bei Lietuvos
 
@@ -2994,11 +2970,11 @@ dienos;
 
 įstaigose bei organizacijose laiką, jeigu pareigūnas buvo nusiųstas dirbti į
 
-jas būdamas įtrauktas į Vidaus reikalų ministerijos, Valstybės saugumo
+jas būdamas įtrauktas į Vidaus reikalų ministerijos, Valstybės saugumo departamento
 
-departamento ar Krašto apsaugos ministerijos kadrų rezervą bei Specialiųjų
+ar Krašto apsaugos ministerijos kadrų rezervą bei Specialiųjų tyrimų tarnybos
 
-tyrimų tarnybos personalo rezervą;
+personalo rezervą;
 
 3) nuteisto
 
@@ -3090,13 +3066,13 @@ priverstinės pravaikštos dėl neteisėto atleidimo laiką, taip pat buvimo Vid
 
 reikalų ministerijos personalo žinioje laiką;
 
-11) vieną tarnybos
+11) vieną
 
-dieną tarptautinių organizacijų misijose Vyriausybės siuntimu į vidaus tarnybos
+tarnybos dieną tarptautinių organizacijų misijose Vyriausybės siuntimu į vidaus
 
-stažą įskaitant: taikos įvedimo misijose – kaip tris dienas, taikos palaikymo
+tarnybos stažą įskaitant: taikos įvedimo misijose – kaip tris dienas, taikos
 
-misijose ir patarėjų bei stebėtojų misijose – kaip dvi dienas.
+palaikymo misijose ir patarėjų bei stebėtojų misijose – kaip dvi dienas.
 
 2. Pagal šio
 
@@ -3120,9 +3096,9 @@ pakeitimai:
 
 Nr.
 
-X-665, 2006-06-08,
+X-665,
 
-Žin., 2006, Nr. 72-2681 (2006-06-28)
+2006-06-08, Žin., 2006, Nr. 72-2681 (2006-06-28)
 
 Nr.
 
@@ -3134,63 +3110,15 @@ Nr. X-1705,
 
 2008-07-15, Žin., 2008, Nr. 87-3465 (2008-07-31)
 
-38 straipsnio redakcija iki 2009 m. sausio 1 d.:
+38 straipsnis. Priemokos ir apmokėjimas
 
-38 straipsnis.
+pareigūnams už darbą poilsio ir švenčių dienomis, nakties bei viršvalandinį
 
-Priemokos
+darbą ir budėjimą
 
-1. Pareigūnams mokamos šios priemokos:
+1. Pareigūnams priemokos mokamos ir už darbą
 
-1) už darbą poilsio bei švenčių dienomis
-
-ir nakties metu;
-
-2) už darbą kenksmingomis, labai
-
-kenksmingomis ir pavojingomis darbo sąlygomis;
-
-3) už įprastą darbo krūvį viršijančią
-
-veiklą ar papildomų užduočių, atliekamų viršijant nustatytą darbo trukmę,
-
-atlikimą. Papildomos užduotys pareigūnui turi būti suformuluotos raštu.
-
-2. Pareigūnams, tarnaujantiems šio Statuto
-
-19 straipsnio 1 dalyje nurodytose misijose už Lietuvos Respublikos ribų, mokama
-
-priemoka. Jos dydį nustato Vyriausybė.
-
-3. Pareigūnams, kurių darbas tiesiogiai
-
-susijęs su tarnybinių gyvūnų priežiūra ir dresavimu, gali būti mokama iki 20
-
-procentų pareiginės algos dydžio priemoka.
-
-4. Šio straipsnio 1 ir 3 dalyse
-
-nustatytų priemokų mokėjimo tvarką nustato atitinkamos vidaus reikalų centrinės
-
-įstaigos vadovas.
-
-5. Pareigūnams
-
-mokamos priemokos negali viršyti 60 procentų
-
-pareiginės algos.
-
-38 straipsnio redakcija nuo 2009 m. sausio 1 d.:
-
-38
-
-straipsnis. Priemokos ir apmokėjimas pareigūnams už darbą poilsio ir švenčių
-
-dienomis, nakties bei viršvalandinį darbą ir budėjimą
-
-1. Pareigūnams priemokos mokamos ir už
-
-darbą poilsio ir švenčių dienomis, nakties bei viršvalandinį darbą ir budėjimą
+poilsio ir švenčių dienomis, nakties bei viršvalandinį darbą ir budėjimą
 
 apmokama Valstybės tarnybos įstatymo nustatyta tvarka.
 
@@ -3200,11 +3128,11 @@ Statuto 19 straipsnio 1 dalyje nurodytose misijose už Lietuvos Respublikos
 
 ribų, mokama priemoka. Jos dydį nustato Vyriausybė.
 
-3. Valstybės tarnybos
+3. Valstybės
 
-įstatymo 26 straipsnio 1 dalyje nustatytų priemokų pareigūnams mokėjimo tvarką
+tarnybos įstatymo 26 straipsnio 1 dalyje nustatytų priemokų pareigūnams
 
-nustato atitinkamos vidaus reikalų centrinės įstaigos vadovas.
+mokėjimo tvarką nustato atitinkamos vidaus reikalų centrinės įstaigos vadovas.
 
 Straipsnio
 
@@ -3212,9 +3140,9 @@ pakeitimai:
 
 Nr.
 
-X-804, 2006-07-19,
+X-804,
 
-Žin., 2006, Nr. 87-3412 (2006-08-08)
+2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08)
 
 Nr.
 
@@ -3226,9 +3154,9 @@ AŠTUNTASIS
 
 SKIRSNIS
 
-PAREIGŪNŲ
+PAREIGŪNŲ SVEIKATOS
 
-SVEIKATOS PRIEŽIŪRA IR SU TUO SUSIJUSIOS SOCIALINĖS GARANTIJOS
+PRIEŽIŪRA IR SU TUO SUSIJUSIOS SOCIALINĖS GARANTIJOS
 
 40 straipsnis. Kompensacijos pareigūno ar kursanto
 
@@ -3348,7 +3276,9 @@ Pastaba.
 
 Pareigūnui, kuris buvo sužalotas, susižalojo arba jo sveikata buvo sutrikdyta
 
-iki šio įstatymo Nr. XI-122 įsigaliojimo,
+iki šio įstatymo Nr.
+
+XI-122 įsigaliojimo,
 
 taikomos Vidaus tarnybos statuto 40 straipsnio 3 dalies nuostatos, galiojusios
 
@@ -3432,13 +3362,13 @@ nustatyta tvarka.
 
 8. Pareigūno ar
 
-kursanto sveikatos sutrikdymo sunkumo mastą nustato Centrinė medicinos
+kursanto sveikatos sutrikdymo sunkumo mastą nustato Centrinė medicinos ekspertizės
 
-ekspertizės komisija, vadovaudamasi Vyriausybės tvirtinamu Vidaus tarnybos
+komisija, vadovaudamasi Vyriausybės tvirtinamu Vidaus tarnybos sistemos
 
-sistemos pareigūnų ar kursantų sunkių, apysunkių ir lengvų sužeidimų, traumų
+pareigūnų ar kursantų sunkių, apysunkių ir lengvų sužeidimų, traumų bei kitų
 
-bei kitų sveikatos sutrikdymų sąrašu Vyriausybės nustatyta tvarka.
+sveikatos sutrikdymų sąrašu Vyriausybės nustatyta tvarka.
 
 Straipsnio
 
@@ -3592,9 +3522,9 @@ biudžeto Vidaus reikalų ministerijai ar atitinkamų vidaus reikalų centrinėm
 
 medicininė reabilitacija, sveikatos grąžinamasis ir antirecidyvinis gydymas po
 
-sužalojimo vykdant tarnybines pareigas, kai šis gydymas neapmokamas iš Privalomojo
+sužalojimo vykdant tarnybines pareigas, kai šis gydymas neapmokamas iš
 
-sveikatos draudimo fondo biudžeto;
+Privalomojo sveikatos draudimo fondo biudžeto;
 
 2) pareigūnų
 
@@ -3610,9 +3540,9 @@ medicininės reabilitacijos, prevencinės medicininės ir psichologinės
 
 reabilitacijos, sveikatos grąžinamojo, antirecidyvinio gydymo, kai jis
 
-apmokamas iš dalies arba neapmokamas iš Privalomojo sveikatos draudimo fondo biudžeto,
+apmokamas iš dalies arba neapmokamas iš Privalomojo sveikatos draudimo fondo
 
-tvarką nustato Vyriausybė ar jos įgaliota institucija.
+biudžeto, tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 DEVINTASIS SKIRSNIS
 
@@ -3860,11 +3790,11 @@ kuris neaprūpintas tarnybiniu butu šio straipsnio 1 dalyje nustatyta tvarka
 
 (viengungis – atskira tarnybine gyvenamąja patalpa), gyvenamosios patalpos
 
-tarnybos vietovėje išlaikymo išlaidoms kompensuoti iš Vidaus reikalų ministerijai
+tarnybos vietovėje išlaikymo išlaidoms kompensuoti iš Vidaus reikalų
 
-ar vidaus reikalų centrinei įstaigai skirtų lėšų mokami Vyriausybės nustatyto
+ministerijai ar vidaus reikalų centrinei įstaigai skirtų lėšų mokami
 
-dydžio butpinigiai.
+Vyriausybės nustatyto dydžio butpinigiai.
 
 Straipsnio
 
@@ -3990,17 +3920,17 @@ tarnybinės rizikos ribas ir tuo padariusiam nusikalstamą veiką ar kitokį tei
 
 pažeidimą arba nukentėjusiam vykdant tarnybines funkcijas ar dėl vidaus
 
-tarnybos, iš vidaus reikalų įstaigai darbo užmokesčiui
+tarnybos, iš vidaus reikalų įstaigai darbo
 
-skirtų lėšų gali būti kompensuojamos teisinės pagalbos išlaidos ar jų
+užmokesčiui skirtų lėšų gali būti kompensuojamos teisinės pagalbos
 
-dalis. Kompensaciją skiria vidaus reikalų
+išlaidos ar jų dalis. Kompensaciją skiria
 
-įstaigos vadovas iš vidaus reikalų įstaigai darbo užmokesčiui skirtų lėšų.
+vidaus reikalų įstaigos vadovas iš vidaus reikalų įstaigai darbo užmokesčiui
 
-Vidaus reikalų įstaigos vadovui pašalpa skiriama iš jo vadovaujamos vidaus
+skirtų lėšų. Vidaus reikalų įstaigos vadovui pašalpa skiriama iš jo
 
-reikalų įstaigos darbo užmokesčiui skirtų lėšų.
+vadovaujamos vidaus reikalų įstaigos darbo užmokesčiui skirtų lėšų.
 
 54 straipsnis.
 
@@ -4024,15 +3954,19 @@ aukštesniosios grandies pareigūnai – kol sukaks 60 metų;
 
 4)
 
-aukščiausiosios grandies pareigūnai – kol sukaks 62 metus ir 6 mėnesius.
+aukščiausiosios grandies pareigūnai – kol sukaks 65 metus.
 
 2. Pareigūno
 
 prašymu, vidaus reikalų įstaigos vadovo teikimu vidaus reikalų ministras turi
 
-teisę pratęsti vidaus tarnybos trukmę iki trejų metų, tačiau ne ilgiau, negu
+teisę pratęsti vidaus tarnybos trukmę iki penkerių metų.
 
-kol pareigūnas sukaks 65 metus.
+Straipsnio pakeitimai:
+
+Nr. XI-795,
+
+2010-04-29, Žin., 2010, Nr. 57-2810 (2010-05-18)
 
 55 straipsnis.
 
@@ -4232,19 +4166,19 @@ informacija valdymui, analizei, statistinei vidaus tarnybos personalo
 
 apskaitai, pareigybių komplektavimui ir poreikio nustatymui.
 
-3. Vidaus reikalų
+3. Vidaus
 
-pareigūnų registras steigiamas ir tvarkomas Lietuvos Respublikos valstybės
+reikalų pareigūnų registras steigiamas ir tvarkomas Lietuvos Respublikos
 
-registrų, Asmens duomenų teisinės apsaugos įstatymų, kitų teisės aktų nustatyta
+valstybės registrų, Asmens duomenų teisinės apsaugos įstatymų, kitų teisės aktų
 
-tvarka. Vidaus reikalų pareigūnų registro paskirtį, jo objektus, registro
+nustatyta tvarka. Vidaus reikalų pareigūnų registro paskirtį, jo objektus,
 
-tvarkymo įstaigas, jų teises ir pareigas, registro tvarkymą, reorganizavimą ir
+registro tvarkymo įstaigas, jų teises ir pareigas, registro tvarkymą,
 
-likvidavimą reglamentuoja Vidaus reikalų pareigūnų registro nuostatai. Šiuos
+reorganizavimą ir likvidavimą reglamentuoja Vidaus reikalų pareigūnų registro
 
-nuostatus vidaus reikalų ministro teikimu tvirtina Vyriausybė.
+nuostatai. Šiuos nuostatus vidaus reikalų ministro teikimu tvirtina Vyriausybė.
 
 ________________
 
@@ -4276,9 +4210,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-2263,
+Nr. IX-2263, 2004-06-08,
 
-2004-06-08, Žin., 2004, Nr. 98-3625 (2004-06-24)
+Žin., 2004, Nr. 98-3625 (2004-06-24)
 
 VIDAUS
 
@@ -4376,15 +4310,15 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-163,
+X-163, 2005-04-21,
 
-2005-04-21, Žin., 2005, Nr. 58-2001 (2005-05-07)
+Žin., 2005, Nr. 58-2001 (2005-05-07)
 
 DARBO
 
-KODEKSO, ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO, BAUSMIŲ VYKDYMO KODEKSO, SEIMO
+KODEKSO, ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO, BAUSMIŲ VYKDYMO KODEKSO,
 
-NARIŲ DARBO SĄLYGŲ ĮSTATYMO, VIDAUS TARNYBOS STATUTO, SVEIKATOS DRAUDIMO
+SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO, VIDAUS TARNYBOS STATUTO, SVEIKATOS DRAUDIMO
 
 ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
@@ -5526,13 +5460,13 @@ taikymą, taip pat neapmokamą iš Privalomojo sveikatos draudimo fondo biudžet
 
 asmens sveikatos priežiūrą asmens sveikatos priežiūros įstaigose, kurių
 
-steigėja yra Vidaus reikalų ministerija, papildomai per programas remiama iš valstybės
+steigėja yra Vidaus reikalų ministerija, papildomai per programas remiama iš
 
-biudžeto lėšų, skirtų Vidaus reikalų ministerijai. Papildomai per programas iš
+valstybės biudžeto lėšų, skirtų Vidaus reikalų ministerijai. Papildomai per
 
-valstybės biudžeto remiamos pareigūnų sveikatos priežiūros mastą nustato vidaus
+programas iš valstybės biudžeto remiamos pareigūnų sveikatos priežiūros mastą
 
-reikalų ministras, suderinęs su sveikatos apsaugos ministru.
+nustato vidaus reikalų ministras, suderinęs su sveikatos apsaugos ministru.
 
 3. Vidaus
 
