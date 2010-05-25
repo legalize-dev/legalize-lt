@@ -4,7 +4,7 @@ identifier: "TAR.8A719A97956F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-05-25"
-last_updated: "2006-07-01"
+last_updated: "2010-05-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A719A97956F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ entry_into_force_conditions: "Šis įstatymas, išskyrus 25 straipsnį, įsigali
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas
+
+Suvestinė redakcija nuo 2010-05-25 iki 2012-12-31
+
+Įstatymas paskelbtas: Žin. 2006, Nr. 65-2380, i. k. 1061010ISTA000X-614
 
 LIETUVOS RESPUBLIKOS INFORMACINĖS VISUOMENĖS PASLAUGŲ ĮSTATYMAS
 
@@ -119,7 +123,11 @@ BENDROSIOS NUOSTATOS
 
 1) tokios priemonės yra būtinos viešojo intereso (ypač tai susiję su nusikaltimų prevencija, tyrimu, atskleidimu ir asmenų baudžiamuoju persekiojimu, įskaitant nepilnamečių apsaugą ir kovą su rasinės, lytinės, religinės ar tautinės neapykantos kurstymu bei asmenų žmogiškojo orumo pažeidimu), visuomenės sveikatos apsaugai, visuomenės saugumo, įskaitant nacionalinį saugumą ir gynybą, interesų, vartotojų, tarp jų ir investuotojų, apsaugai. Šios priemonės taikomos tai informacinės visuomenės paslaugai, kuri pažeidžia šiuos interesus arba kelia grėsmę, kad jie bus pažeisti. Taikomos priemonės turi atitikti siekiamus tikslus;
 
-2) Informacinės visuomenės plėtros komitetas prie Lietuvos Respublikos Vyriausybės (toliau – Informacinės visuomenės plėtros komitetas), gavęs kompetentingos institucijos prašymą (jei tokia institucija nėra pats Informacinės visuomenės plėtros komitetas), prieš kompetentingai institucijai kreipiantis į teismą su prašymu imtis tokių priemonių arba įstatymų numatytais atvejais prieš kompetentingai institucijai pačiai imantis tokių priemonių, kreipiasi į Europos Sąjungos valstybę narę, kurioje paslaugų teikėjas yra įsisteigęs, su prašymu imtis priemonių, jeigu ši tokių priemonių nesiėmė arba jos priemonės, kompetentingos institucijos nuomone, yra nepakankamos, taip pat kai Informacinės visuomenės plėtros komitetas pranešė Europos Bendrijų Komisijai ir Europos Sąjungos valstybei narei, kurioje paslaugų teikėjas yra įsisteigęs, apie kompetentingos institucijos ketinimą kreiptis į teismą su prašymu imtis priemonių arba ketinimą imtis priemonių.
+2) Informacinės visuomenės plėtros komitetas prie Susisiekimo ministerijos (toliau – Informacinės visuomenės plėtros komitetas), gavęs kompetentingos institucijos prašymą (jei tokia institucija nėra pats Informacinės visuomenės plėtros komitetas), prieš kompetentingai institucijai kreipiantis į teismą su prašymu imtis tokių priemonių arba įstatymų nustatytais atvejais prieš kompetentingai institucijai pačiai imantis tokių priemonių, kreipiasi į Europos Sąjungos valstybę narę, kurioje paslaugų teikėjas yra įsisteigęs, su prašymu imtis priemonių, jeigu ši tokių priemonių nesiėmė arba jos priemonės, kompetentingos institucijos nuomone, yra nepakankamos, taip pat kai Informacinės visuomenės plėtros komitetas pranešė Europos Bendrijų Komisijai ir Europos Sąjungos valstybei narei, kurioje paslaugų teikėjas yra įsisteigęs, apie kompetentingos institucijos ketinimą kreiptis į teismą su prašymu imtis priemonių arba ketinimą imtis priemonių.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-800, 2010-05-11, Žin., 2010, Nr. 60-2959 (2010-05-25), i. k. 1101010ISTA00XI-800
 
 4. Skubiu atveju, taip pat kai imamasi priemonių pagal teisės normas, reglamentuojančias teismo procesą ir (ar) kitas teisės pažeidimų tyrimo, ginčų sprendimo ir (ar) kitas panašias procedūras, šio straipsnio 3 dalies 2 punktas netaikomas. Tokiu atveju apie kreipimąsi į teismą su prašymu imtis tokių priemonių arba tokių priemonių ėmimąsi kompetentinga institucija nedelsdama praneša Informacinės visuomenės plėtros komitetui, o Informacinės visuomenės plėtros komitetas praneša Europos Bendrijų Komisijai ir Europos Sąjungos valstybei narei, kurioje paslaugų teikėjas yra įsisteigęs, nurodydama priežastis, kodėl tai yra skubus atvejis.
 
@@ -311,15 +319,25 @@ VIII SKYRIUS
 
 INFORMACINĖS VISUOMENĖS PASLAUGŲ REGLAMENTAVIMAS IR PRIEŽIŪRA
 
-18 straipsnis. Informacinės visuomenės paslaugų teikimo politikos formavimo bei reguliavimo institucijos
+18 straipsnis. Informacinės visuomenės paslaugų teikimo politikos formavimo ir reguliavimo institucijos
 
-Informacinės visuomenės paslaugų teikimo ir kitos paslaugų teikėjų veiklos politiką Lietuvos Respublikoje formuoja Vyriausybė ar jos įgaliota institucija. Informacinės visuomenės paslaugų teikimą ir kitą paslaugų teikėjų veiklą reguliuoja Informacinės visuomenės plėtros komitetas.
+Informacinės visuomenės paslaugų teikimo ir kitos paslaugų teikėjų veiklos politiką Lietuvos Respublikoje formuoja ir įgyvendina bei tarpinstitucinį koordinavimą atlieka Susisiekimo ministerija. Informacinės visuomenės paslaugų teikimą ir kitą paslaugų teikėjų veiklą reguliuoja Informacinės visuomenės plėtros komitetas.
+
+Straipsnio pakeitimai:
+
+Nr. XI-800, 2010-05-11, Žin., 2010, Nr. 60-2959 (2010-05-25), i. k. 1101010ISTA00XI-800
 
 19 straipsnis. Informacinės visuomenės plėtros komitetas
 
-1. Informacinės visuomenės plėtros komitetas -Lietuvos Respublikos Vyriausybės įstaiga, dalyvaujanti formuojant valstybės informacinės visuomenės plėtros politiką ir koordinuojanti jos įgyvendinimą pagal Lietuvos Respublikos Vyriausybės patvirtintus informacinės visuomenės plėtros planavimo dokumentus, koordinuojanti informacinės visuomenės plėtrą valstybėje, elektroninio turinio, informacinių ir ryšių technologijų infrastruktūros ir informacinių ir ryšių technologijų naujovių kūrimą ir diegimą bei prižiūrinti, kaip laikomasi šio įstatymo ir su jo įgyvendinimu susijusių teisės aktų.
+1. Informacinės visuomenės plėtros komitetas – įstaiga prie Susisiekimo ministerijos, dalyvaujanti formuojant valstybės informacinės visuomenės plėtros bei valstybės informacinių išteklių kūrimo ir funkcinio suderinamumo politiką ir koordinuojanti jos įgyvendinimą ir efektyvų informacinių išteklių panaudojimą pagal Lietuvos Respublikos Vyriausybės patvirtintus informacinės visuomenės plėtros planavimo dokumentus, koordinuojanti informacinės visuomenės plėtrą valstybėje, elektroninio turinio, informacinių ir ryšių technologijų infrastruktūros ir informacinių ir ryšių technologijų naujovių kūrimą ir diegimą bei prižiūrinti, kaip laikomasi šio įstatymo ir su jo įgyvendinimu susijusių teisės aktų reikalavimų.
 
-2. Informacinės visuomenės plėtros komitetas veikia pagal šį ir kitus Lietuvos Respublikos įstatymus, teisės aktus, tarptautinius įsipareigojimus, savo nuostatus, kuriuos tvirtina Lietuvos Respublikos Vyriausybė, ir yra finansuojamas iš valstybės biudžeto.
+2. Informacinės visuomenės plėtros komitetas veikia pagal šį ir kitus Lietuvos Respublikos įstatymus, teisės aktus, tarptautinius įsipareigojimus, savo nuostatus, kuriuos tvirtina Lietuvos Respublikos Vyriausybė ar jos pavedimu susisiekimo ministras, ir yra finansuojamas iš valstybės biudžeto.
+
+3. Informacinės visuomenės plėtros komitete sudaromas kolegialus patariamasis organas – Informacinės visuomenės plėtros komiteto taryba, kurios personalinę sudėtį tvirtina susisiekimo ministras.
+
+Straipsnio pakeitimai:
+
+Nr. XI-800, 2010-05-11, Žin., 2010, Nr. 60-2959 (2010-05-25), i. k. 1101010ISTA00XI-800
 
 20 straipsnis. Informacinės visuomenės plėtros komiteto funkcijos
 
@@ -397,400 +415,6 @@ priedas
 
 ______________
 
-111 straipsnis. Elektroninės siuntos išsiuntimas, pristatymas ir gavimas
-
-1. Elektroninės siuntos išsiuntimo ir pristatymo gavėjui laikas turi būti patvirtinamas elektroniniais duomenimis, logiškai susietais su elektronine siunta, kurie įrašomi į elektroninį voką. Elektroninės siuntos išsiuntimo metu užfiksuoti elektroniniai duomenys patvirtina, kad elektroninė siunta buvo išsiųsta nurodytu laiku. Elektroninės siuntos pristatymo gavėjui metu užfiksuoti elektroniniai duomenys patvirtina, kad elektroninė siunta buvo pristatyta gavėjui nurodytu laiku.
-
-2. Elektroninė siunta yra laikoma gauta nuo to momento, kai gavėjas, kuriam elektroninė siunta adresuota, gali šią elektroninę siuntą pasiekti, tai yra nuo to momento, kai gavėjas, kuriam elektroninė siunta adresuota, pirmą kartą po elektroninės siuntos pristatymo jam prisijungia prie informacinės sistemos, kurioje elektroninė siunta yra pristatyta, jeigu kiti įstatymai nenustato kitaip. Elektroninės siuntos gavimo laikas turi būti patvirtinamas elektroniniais duomenimis, logiškai susietais su elektronine siunta, kurie įrašomi į elektroninį voką. Elektroninės siuntos gavimo metu užfiksuoti elektroniniai duomenys patvirtina, kad elektroninė siunta buvo gauta nurodytu laiku. Siuntėjo prašymu elektroninio pristatymo paslaugos teikėjas pateikia įrodymus, kad gavėjas, kuriam elektroninė siunta adresuota, elektroninę siuntą gavo.
-
-3. Elektroninės siuntos išsiuntimo, pristatymo ir gavimo laiko patvirtinimo tvarką nustato Vyriausybė.
-
-112 straipsnis. Elektroninės siuntos galia
-
-Elektroninė siunta turi tokią pat teisinę ir įrodomąją galią kaip ir registruotoji pašto siunta.
-
-113 straipsnis. Žalos atlyginimas
-
-Žala dėl prarastų, sugadintų elektroninių siuntų atlyginama vadovaujantis šiuo įstatymu, jeigu elektroninio pristatymo paslaugos teikėjo ir siuntėjo sudarytoje sutartyje nenumatyta kitaip. Jeigu elektroninė siunta dingsta, būna pavogta ar sugadinta dėl elektroninio pristatymo paslaugos teikėjo kaltės, elektroninio pristatymo paslaugos teikėjas atlygina siuntėjui tik elektroninės siuntos siuntimo išlaidas. Jeigu elektroninio pristatymo paslaugos teikėjo ir siuntėjo sudaryta sutartis pablogina siuntėjo padėtį, taikomos šio straipsnio nuostatos.
-
-114 straipsnis. Elektroninės siuntos duomenų slaptumas ir saugumas
-
-1. Elektroninio pristatymo paslaugos teikėjas privalo siuntėjui ir gavėjui garantuoti elektroninės siuntos turinio konfidencialumą ir susirašinėjimo slaptumą.
-
-2. Elektroninio pristatymo paslaugai taikomus saugos reikalavimus nustato Vyriausybė.
-
-3. Reikalavimus, taikomus elektroninio pristatymo paslaugai teikti naudojamai informacinei sistemai ir vartotojo, prisijungiančio prie tokios sistemos, identifikavimui, nustato Vyriausybė.
-
-4. Siuntėjas ar gavėjas neturi teisės perleisti kitam asmeniui prisijungimo prie elektroninio pristatymo paslaugai teikti naudojamos informacinės sistemos duomenų. Siuntėjas ar gavėjas yra atsakingas už prisijungimo prie elektroninio pristatymo paslaugai teikti naudojamos informacinės sistemos duomenų saugojimą.
-
-5. Elektroninio pristatymo paslaugos teikėjui draudžiama teikti informaciją apie siuntėjų ar gavėjų siunčiamas ar gaunamas elektronines siuntas arba sudaryti sąlygas gauti šią informaciją, išskyrus turimą ir reikalingą nusikalstamoms veikoms užkardyti, tirti, nustatyti informaciją, kurią elektroninio pristatymo paslaugos teikėjas privalo pateikti kriminalinės žvalgybos pagrindinėms institucijoms, Vyriausybės nurodytoms ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui teisės aktų nustatyta tvarka ir atvejais, kurie yra taikomi informacijos perdavimui elektroninių ryšių tinklais ir elektroninių ryšių tinklų ir (ar) paslaugų teikėjams.
-
-Papildyta skyriumi:
-
-Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
-
-V SKYRIUS
-
-PASLAUGŲ TEIKĖJŲ ATSAKOMYBĖ
-
-26 straipsnis. Ekonomikos ir inovacijų ministro įgaliotos institucijos funkcijos
-
-Ekonomikos ir inovacijų ministro įgaliota institucija:
-
-1) pagal kompetenciją įgyvendina valstybės informacinės visuomenės plėtros politiką;
-
-2) prižiūri informacinės visuomenės paslaugų teikimą ir paslaugų teikėjų veiklą įgyvendinant šio įstatymo 3, 5, 6 straipsnių, III ir IV skyrių nuostatas;
-
-3) atlieka tyrimus dėl galimo šio įstatymo 3, 5, 6 straipsnių, III ir IV skyrių nuostatų pažeidimo bei už šių nuostatų pažeidimus skiria baudas Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka;
-
-4) Europos Sąjungos teisės aktų, reglamentuojančių informacinės visuomenės paslaugų teikimą ir vartotojų apsaugą, nustatyta tvarka ir sąlygomis bendradarbiauja su Europos Komisija ir reikiamomis Europos Sąjungos valstybių narių institucijomis, kontaktinius duomenis pateikia Europos Komisijai ir Europos Sąjungos valstybėms narėms;
-
-5) teikia (taip pat ir elektroninėmis priemonėmis) prašomą informaciją Europos Komisijai ir reikiamoms Europos Sąjungos valstybių narių institucijoms ir kitą reikiamą pagalbą;
-
-6) informuoja Europos Komisiją apie sutarčių, kurių negalima sudaryti elektroninėmis priemonėmis, rūšis; kartą per 5 metus parengia teisės sudaryti sutartis elektroninėmis priemonėmis išimčių ataskaitą, kurioje nurodoma, kodėl šios išimtys būtinos, šią ataskaitą pateikia Europos Komisijai;
-
-7) elektroninėmis priemonėmis (taip pat turi teisę naudoti ir kitus būdus) teikia bendrą informaciją (tačiau ne teisines konsultacijas) apie paslaugų teikėjų ir paslaugos gavėjų teises ir pareigas, susijusias su elektroninėmis priemonėmis sudaromomis sutartimis, galimus paslaugų teikėjų ir paslaugos gavėjų ginčų sprendimo ir žalos atlyginimo būdus bei jų naudojimo praktinius aspektus, valstybės ir savivaldybių institucijas ar įstaigas, kurios gali suteikti papildomos informacijos ir (ar) praktinę pagalbą; savo interneto svetainėje skelbia apie būdus susisiekti su ekonomikos ir inovacijų ministro įgaliota institucija elektroninėmis priemonėmis;
-
-8) pagal kompetenciją įgyvendina Reglamentą (ES) 2017/2394;
-
-9) atlieka kitas šio įstatymo ir kitų teisės aktų, reglamentuojančių informacinės visuomenės paslaugų teikimą, nustatytas funkcijas.
-
-27 straipsnis. Ekonomikos ir inovacijų ministro įgaliotos institucijos teisės
-
-1. Ekonomikos ir inovacijų ministro įgaliota institucija turi teisę teikti pagrįstą prašymą paslaugų teikėjams ir kitiems asmenims, taip pat valstybės ir savivaldybių institucijoms ir įstaigoms suteikti informaciją, reikalingą jos funkcijoms atlikti. Paslaugų teikėjai ir kiti asmenys, taip pat valstybės ir savivaldybių institucijos ir įstaigos teikia informaciją ekonomikos ir inovacijų ministro įgaliotos institucijos nustatytais terminais, kurie negali būti trumpesni kaip 10 darbo dienų, o skubos atveju, kai atliekamas tyrimas dėl didelę žalą keliančio pažeidimo visuomenei, – 3 darbo dienos. Ekonomikos ir inovacijų ministro įgaliota institucija saugo konfidencialią informaciją teisės aktų, reglamentuojančių informacinės visuomenės paslaugų teikimą, asmens duomenų ir privatumo apsaugą, nustatyta tvarka ir sąlygomis.
-
-2. Ekonomikos ir inovacijų ministro įgaliota institucija turi teisę imtis tikslingų, skaidrių, proporcingų ir nediskriminacinių veiksmų ir (ar) priemonių, kad būtų įgyvendintos šiame įstatyme jai pavestos funkcijos.
-
-28 straipsnis. Ekonomikos ir inovacijų ministro įgaliotos institucijos pareigūnų teisės
-
-Ekonomikos ir inovacijų ministro įgaliotos institucijos įgalioti pareigūnai, prižiūrėdami, kaip yra laikomasi šio įstatymo 3, 5, 6 straipsnių, III ir IV skyrių reikalavimų, turi šias teises:
-
-1) savo funkcijoms atlikti pagal šio ir kitų įstatymų, taip pat kitų teisės aktų, reglamentuojančių informacinės visuomenės paslaugų teikimą, nustatytas sąlygas ir procedūras iš paslaugų teikėjų gauti reikalingą informaciją;
-
-2) pateikę tarnybinį pažymėjimą ir ekonomikos ir inovacijų ministro įgaliotos institucijos išduotą dokumentą, kuriuo patvirtinami jų įgaliojimai ir atliekamos funkcijos, įeiti ir atlikti patikrinimą paslaugų teikėjo naudojamose patalpose, teritorijoje ir transporto priemonėse, peržiūrėti tyrimui reikalingus paslaugų teikėjo dokumentus, gauti jų kopijas ir išrašus, kompiuteriuose ir magnetinėse laikmenose esančią informaciją;
-
-3) gauti žodinius ir rašytinius paaiškinimus iš asmenų, susijusių su tikrinamų paslaugų teikėjų veikla, reikalauti, kad jie atvyktų į tyrimą atliekančio pareigūno tarnybines patalpas pateikti paaiškinimų;
-
-4) gauti duomenis ir dokumentus arba jų nuorašus apie paslaugų teikėjo ūkines operacijas iš kitų asmenų, nepaisant jų pavaldumo, taip pat iš valstybės valdymo ir savivaldos institucijų;
-
-5) laikinai – iki 30 kalendorinių dienų – paimti dokumentus ir daiktus, kurie būtini ar turi įrodomąją reikšmę tiriant galimą pažeidimą. Šiuo atveju paliekamas motyvuotas sprendimas dėl dokumentų ir (ar) daiktų paėmimo ir paimtų dokumentų ir (ar) daiktų aprašas; išreikalauti padaryti nurodytų dokumentų, kurie būtini ar turi įrodomąją reikšmę tiriant pažeidimą, kopijas;
-
-6) tyrimui pasitelkti specialistų ir ekspertų.
-
-IX SKYRIUS
-
-REGLAMENTO (ES) 2022/2065 VYKDYMO UŽTIKRINIMO PRIEMONIŲ NAUDOJIMO TVARKA
-
-29 straipsnis. Tyrimai ir (ar) patikrinimai ir jų atlikimo tvarka
-
-1. Kompetentingos institucijos turi teisę savo iniciatyva pradėti tyrimą dėl Lietuvos Respublikos kompetencijai priskiriamo tarpininkavimo paslaugų teikėjo galimo Reglamento (ES) 2022/2065 ir (ar) šio įstatymo pažeidimo. Kompetentingos institucijos informuoja tarpininkavimo paslaugų teikėją apie pradėtą tyrimą ne vėliau kaip per 5 darbo dienas nuo sprendimo atlikti tyrimą priėmimo dienos. Kompetentingų institucijų sprendimu tyrimai gali būti laikomi konfidencialiais tol, kol išnyksta grėsmė tyrimo eigai. Tyrimo metu esant pagrįstam poreikiui, kompetentingos institucijos gali priimti sprendimą atlikti patikrinimą tarpininkavimo paslaugų teikėjo patalpose, įskaitant nuomojamas ir (ar) kitais pagrindais naudojamas patalpas. Kompetentingų institucijų įgalioti pareigūnai, prižiūrintys, kaip vykdomas Reglamentas (ES) 2022/2065 ir šis įstatymas, pateikę tarnybinį pažymėjimą ir kompetentingos institucijos išduotą dokumentą, kuriuo patvirtinami jų įgaliojimai ir atliekamos funkcijos, turi teisę atlikti patikrinimą tarpininkavimo paslaugų teikėjo patalpose, įskaitant nuomojamas ir (ar) kitais pagrindais naudojamas patalpas.
-
-2. Kompetentingos institucijos taip pat turi teisę pradėti tyrimą ir (ar) patikrinimą, remdamosi visuomenės, paslaugos gavėjų, valstybės institucijų ir įstaigų, kitų Europos Sąjungos valstybių narių skaitmeninių paslaugų koordinatorių, Europos Komisijos, tarptautinių organizacijų, Lietuvos Respublikos ir tarptautinių nevyriausybinių organizacijų ar kitų šaltinių pateikta informacija tarpininkavimo paslaugų klausimais.
-
-3. Kompetentingos institucijos, priėmusios sprendimą atlikti tyrimą dėl galimo Reglamento (ES) 2022/2065 ir (ar) šio įstatymo pažeidimo, per 5 darbo dienas nuo sprendimo atlikti tyrimą priėmimo dienos informuoja Ryšių reguliavimo tarnybą, jeigu kompetentinga institucija, priėmusi sprendimą atlikti tyrimą, nėra pati Ryšių reguliavimo tarnyba.
-
-4. Ryšių reguliavimo tarnyba turi teisę teikti prašymus Valdybai arba kartu su kitų Europos Sąjungos valstybių narių skaitmeninių paslaugų koordinatoriais pradėti bendrus tyrimus dėl galimo tarpininkavimo paslaugų teikėjo Reglamento (ES) 2022/2065 pažeidimo pagal Reglamento (ES) 2022/2065 58 ir 60 straipsnius.
-
-5. Kompetentingos institucijos tyrimus ir (ar) patikrinimus dėl galimo Reglamento (ES) 2022/2065 ir (ar) šio įstatymo pažeidimo atlieka vadovaudamosi Reglamentu (ES) 2022/2065, šio įstatymo ir savo nustatyta tvarka.
-
-30 straipsnis. Tyrimų dėl Reglamento (ES) 2022/2065 ir šio įstatymo galimo pažeidimo atlikimo terminai
-
-1. Tyrimas dėl Reglamento (ES) 2022/2065 ir (ar) šio įstatymo galimo pažeidimo turi būti atliktas ne vėliau kaip per 3 mėnesius nuo sprendimo atlikti šį tyrimą priėmimo dienos.
-
-2. Šio straipsnio 1 dalyje nurodytas terminas kompetentingos institucijos motyvuotu sprendimu gali būti pratęsiamas iki 3 mėnesių, bet ne ilgiau kaip 6 mėnesiams nuo sprendimo atlikti šį tyrimą priėmimo dienos. Sprendimas dėl tyrimo atlikimo termino pratęsimo priimamas, atsižvelgiant į tyrimo sudėtingumą, mastą, tarpininkavimo paslaugų teikėjo vengimą vykdyti kompetentingų institucijų reikalavimus, atliekant tyrimą paaiškėjusias naujas aplinkybes ar kitas objektyvias priežastis. Priėmusi sprendimą pratęsti tyrimo atlikimo terminą, kompetentinga institucija ne vėliau kaip per 3 darbo dienas apie tai informuoja tarpininkavimo paslaugų teikėją ir nurodo termino pratęsimo priežastis.
-
-31 straipsnis. Kompetentingų institucijų sprendimai, atlikus tyrimą ir (ar) patikrinimą
-
-1. Kompetentingos institucijos, atlikusios tyrimą ir (ar) patikrinimą, priima sprendimą:
-
-1) konstatuoti, kad pažeidimų nenustatyta;
-
-2) nustatyti Reglamento (ES) 2022/2065 ir (ar) šio įstatymo pažeidimą (-us).
-
-2. Kompetentinga institucija, nustačiusi Reglamento (ES) 2022/2065 ir (ar) šio įstatymo pažeidimą (-us), teikia tarpininkavimo paslaugų teikėjui privalomus nurodymus nutraukti pažeidimą (-us), skiria įspėjimą ir (ar) taiko kitas vykdymo užtikrinimo priemones, nurodytas Reglamento (ES) 2022/2065 51 straipsnio 2 ir 3 dalyse, šio įstatymo 24 straipsnio 1–4 dalyse, 5 dalies 1–3 ir 6, 7 punktuose ir 25 straipsnyje. Kompetentinga institucija turi teisę priimti sprendimą dėl baudos skyrimo šio įstatymo XI skyriuje nustatyta tvarka.
-
-3. Kompetentinga institucija apie priimtą šio straipsnio 1 dalyje nurodytą sprendimą ne vėliau kaip per 3 darbo dienas informuoja tarpininkavimo paslaugų teikėją, kurio atžvilgiu buvo atliktas tyrimas ir (ar) patikrinimas, išskyrus šio įstatymo XI skyriuje nurodytus atvejus, kai ketinama skirti baudą.
-
-4. Kompetentingos institucijos sprendimas gali būti skundžiamas Regionų administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-32 straipsnis. Teismo leidimų įeiti į fizinių asmenų gyvenamąsias patalpas išdavimo tvarka
-
-1. Kai kompetentinga institucija, nagrinėdama galimą pažeidimą, priima motyvuotą sprendimą atlikti patikrinimą fizinio asmens gyvenamosiose patalpose, įskaitant nuomojamas ir (ar) kitais pagrindais naudojamas patalpas, ji Regionų administraciniam teismui pateikia prašymą išduoti teismo leidimą įeiti į fizinio asmens gyvenamąsias patalpas.
-
-2. Prašyme išduoti teismo leidimą įeiti į fizinio asmens gyvenamąsias patalpas turi būti nurodomas fizinio asmens vardas, pavardė, gyvenamųjų patalpų adresas, įtariamo pažeidimo pobūdis ir numatomi atlikti veiksmai.
-
-3. Išnagrinėjęs prašymą išduoti teismo leidimą įeiti į fizinio asmens gyvenamąsias patalpas, Regionų administracinis teismas priima motyvuotą nutartį šį prašymą patenkinti arba atmesti.
-
-4. Prašymas išduoti teismo leidimą įeiti į fizinio asmens gyvenamąsias patalpas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento.
-
-5. Jeigu kompetentinga institucija nesutinka su Regionų administracinio teismo nutartimi atmesti prašymą išduoti teismo leidimą įeiti į fizinio asmens gyvenamąsias patalpas, ji turi teisę per 7 kalendorines dienas nuo šios nutarties priėmimo dienos šią nutartį apskųsti Lietuvos vyriausiajam administraciniam teismui.
-
-6. Lietuvos vyriausiasis administracinis teismas kompetentingos institucijos skundą dėl Regionų administracinio teismo nutarties turi išnagrinėti ne vėliau kaip per 7 kalendorines dienas nuo šio skundo gavimo dienos. Kompetentingos institucijos atstovas turi teisę dalyvauti, nagrinėjant skundą Lietuvos vyriausiajame administraciniame teisme, kai skundas nagrinėjamas žodinio proceso tvarka.
-
-7. Lietuvos vyriausiojo administracinio teismo priimta nutartis dėl kompetentingos institucijos skundo dėl Regionų administracinio teismo nutarties yra galutinė ir neskundžiama.
-
-33 straipsnis. Paslaugų teikėjų ir paslaugos gavėjų teisės ir pareigos, nagrinėjant galimus pažeidimus
-
-1. Tarpininkavimo paslaugų teikėjai, kurių atžvilgiu atliekamas tyrimas ir (ar) patikrinimas, atliekama baudos skyrimo procedūra, skundžiami tarpininkavimo paslaugų teikėjai, skundą pateikę paslaugos gavėjai turi Reglamente (ES) 2022/2065 nurodytas teises ir pareigas.
-
-2. Šio straipsnio 1 dalyje nurodyti asmenys taip pat turi teisę:
-
-1) gauti paaiškinimą apie atliekamo tyrimo ir (ar) patikrinimo arba nagrinėjamo skundo dalyką ir pagrindą;
-
-2) pateikti papildomą paaiškinimą, duomenis ir informaciją, susijusią su atliekamu tyrimu ir (ar) patikrinimu arba nagrinėjamu skundu;
-
-3) Administracinių bylų teisenos įstatymo nustatyta tvarka apskųsti kompetentingos institucijos veiksmus ar neveikimą, taip pat šių institucijų sprendimus, kuriais įforminti tyrimo ir (ar) patikrinimo rezultatai;
-
-4) susipažinti su atliekant tyrimą ir (ar) patikrinimą, nagrinėjant skundą surinkta medžiaga, išskyrus medžiagą, kuri sudaro valstybės ar tarnybos paslaptį arba paslaugų teikėjų komercines ar profesines paslaptis.
-
-X SKYRIUS
-
-SKUNDŲ NAGRINĖJIMAS
-
-34 straipsnis. Skundų teikimas
-
-1. Paslaugos gavėjas ar kitas subjektas, nurodytas Reglamento (ES) 2022/2065 53 straipsnyje, turi teisę Ryšių reguliavimo tarnybai pateikti skundą dėl galimų tarpininkavimo paslaugų teikėjų padarytų Reglamento (ES) 2022/2065 pažeidimų (toliau – skundas). Jei skundo nagrinėjimas priskirtas kitos kompetentingos institucijos kompetencijai, Ryšių reguliavimo tarnyba šį skundą perduoda nagrinėti atitinkamai kompetentingai institucijai. Paslaugos gavėjas taip pat turi teisę pateikti skundą tiesiogiai Valstybinei vartotojų teisių apsaugos tarnybai, Valstybinei duomenų apsaugos inspekcijai, Žurnalistų etikos inspektoriaus tarnybai dėl galimų tarpininkavimo paslaugų teikėjų padarytų Reglamento (ES) 2022/2065 pažeidimų, priskirtų šių institucijų kompetencijai. Skundą išnagrinėjusios Valstybinė vartotojų teisių apsaugos tarnyba, Valstybinė duomenų apsaugos inspekcija, Žurnalistų etikos inspektoriaus tarnyba ne vėliau kaip per 5 darbo dienas informuoja Ryšių reguliavimo tarnybą apie gautą skundą ir dėl jo priimtą sprendimą. Jei gautame skunde nurodytos aplinkybės ar jų dalis nepatenka į Valstybinės vartotojų teisių apsaugos tarnybos, Valstybinės duomenų apsaugos inspekcijos, Žurnalistų etikos inspektoriaus tarnybos kompetenciją, skundas ar jo dalis kartu su visais reikalingais dokumentais yra perduodamas kitai kompetentingai institucijai. Jei skunde dėl galimo Reglamento (ES) 2022/2065 pažeidimo nurodytos aplinkybės patenka į kitos Europos Sąjungos valstybės narės kompetencijos sritį, kompetentingos institucijos perduoda skundą ar jo dalį įsisteigimo valstybės narės skaitmeninių paslaugų koordinatoriui. Kompetentingos institucijos apie skundo perdavimą informuoja paslaugos gavėją ir Ryšių reguliavimo tarnybą, jei skundą ar jo dalį perdavusi kompetentinga institucija nėra pati Ryšių reguliavimo tarnyba. Kompetentingų institucijų skundų perdavimo ir informavimo terminai nustatomi Lietuvos Respublikos viešojo administravimo įstatymo 11 straipsnio 4 dalyje.
-
-2. Rašytinį skundą galima pateikti elektroninėmis priemonėmis, atsiųsti paštu arba pateikti tiesiogiai, atvykus į kompetentingą instituciją. Elektroninėmis priemonėmis pateiktas skundas turi būti pasirašytas kvalifikuotu elektroniniu parašu arba suformuotas elektroninėmis priemonėmis, kuriomis užtikrinamas teksto vientisumas ir nepakeičiamumas.
-
-3. Skunde turi būti nurodoma:
-
-1) kompetentinga institucija, į kurią kreipiamasi;
-
-2) skundo surašymo data ir paslaugos gavėjo, pateikusio skundą, parašas;
-
-3) paslaugos gavėjo vardas, pavardė (jei kreipiasi fizinis asmuo) arba pavadinimas, kodas (jei kreipiasi juridinis asmuo, kita organizacija ar jų padalinys) ir kontaktiniai duomenys;
-
-4) skundžiamo tarpininkavimo paslaugų teikėjo – juridinio asmens, kitos organizacijos ar jų padalinio – pavadinimas ir kodas arba tarpininkavimo paslaugų teikėjo – fizinio asmens – vardas ir pavardė, kontaktiniai duomenys, jei jie žinomi;
-
-5) skundžiamų veiksmų aprašymas, įskaitant faktines aplinkybes dėl tarpininkavimo paslaugų teikėjo pažeidimo ar neveikimo;
-
-6) paskyros pavadinimas ir (ar) universalusis ištekliaus adresas (URL), kuriuose yra su skundu susijusi informacija, jei tokia informacija turima;
-
-7) paslaugos gavėjo prašymas kompetentingai institucijai.
-
-4. Kartu su skundu pateikiami visi dokumentai, reikalingi skundui nagrinėti.
-
-5. Jei skundą teikia paslaugos gavėjo atstovas, jis taip pat nurodo savo duomenis pagal šio straipsnio 3 dalies 3 punktą, pateikia skundą pasirašiusio atstovo įgaliojimą, kuriuo patvirtinamas atstovavimo pagrindas.
-
-35 straipsnis. Sprendimas dėl skundo nagrinėjimo
-
-1. Kompetentinga institucija ne vėliau kaip per 5 darbo dienas nuo skundo gavimo dienos raštu informuoja paslaugos gavėją apie priimtą sprendimą pradėti skundo nagrinėjimą arba atsisakyti nagrinėti skundą.
-
-2. Jeigu skunde nėra pateikta šio įstatymo 34 straipsnio 3 dalyje nurodytų duomenų, kompetentinga institucija apie tai informuoja skundą pateikusį paslaugos gavėją ir nustato ne ilgesnį kaip 10 darbo dienų terminą trūkumams pašalinti. Paslaugos gavėjui per kompetentingos institucijos nustatytą terminą pašalinus kompetentingos institucijos nurodytus trūkumus, priimamas sprendimas dėl skundo nagrinėjimo, o jo pateikimo data laikoma ta diena, kai buvo gautas pagal reikalavimus parengtas skundas.
-
-3. Kompetentinga institucija turi teisę motyvuotai reikalauti, kad skundą pateikęs paslaugos gavėjas pateiktų papildomus duomenis, reikalingus skundui ar jo daliai nagrinėti. Skundą pateikęs paslaugos gavėjas kompetentingos institucijos reikalavimu privalo pateikti skundui ar jo daliai nagrinėti reikalingus papildomus duomenis per kompetentingos institucijos nurodytą terminą, bet ne vėliau kaip per 10 darbo dienų nuo kompetentingos institucijos reikalavimo gavimo dienos.
-
-4. Kompetentinga institucija, priėmusi sprendimą dėl skundo nagrinėjimo, ne vėliau kaip per 3 darbo dienas išsiunčia tarpininkavimo paslaugų teikėjui, dėl kurio veiksmų (neveikimo) pateiktas skundas, pranešimą apie gautą paslaugos gavėjo skundą, reikalaudama per savo nustatytą ne trumpesnį kaip 10 darbo dienų terminą raštu pateikti išsamų paaiškinimą ir jį pagrindžiančius dokumentus. Kompetentingos institucijos sprendimu paslaugos gavėjo skundas gali būti laikomas konfidencialiu ir pranešimas tarpininkavimo paslaugų teikėjui apie gautą paslaugos gavėjo skundą išsiunčiamas tik tada, kai išnyksta grėsmė skundo nagrinėjimo eigai.
-
-5. Kompetentingos institucijos priima sprendimą atsisakyti nagrinėti skundą ir per šio straipsnio 1 dalyje nurodytą terminą apie tai informuoja skundą pateikusį paslaugos gavėją, jeigu:
-
-1) skunde nėra pateikta šio įstatymo 34 straipsnio 3 dalyje nurodytų duomenų ir paslaugos gavėjas per kompetentingos institucijos nustatytą terminą trūkumų nepašalina;
-
-2) skundas neatitinka Reglamento (ES) 2022/2065 53 straipsnio reikalavimų, t. y. skundas pateiktas ne dėl tarpininkavimo paslaugų teikėjo veiksmų ar neveikimo ir (ar) ne dėl galimo Reglamento (ES) 2022/2065 pažeidimo;
-
-3) skunde nurodytų aplinkybių nagrinėjimas nėra priskirtas nė vienos kompetentingos institucijos kompetencijai;
-
-4) skunde pateiktos aplinkybės buvo patikrintos, dėl jų priimtas kompetentingos institucijos sprendimas ir skunde nėra pateikta naujų faktinių duomenų;
-
-5) skundas tuo pačiu klausimu buvo išnagrinėtas arba yra nagrinėjamas Lietuvos Respublikos arba kitos Europos Sąjungos valstybės narės teisme;
-
-6) skundas tuo pačiu klausimu buvo išnagrinėtas arba yra nagrinėjamas kitos Lietuvos Respublikos kompetentingos institucijos arba kitos Europos Sąjungos valstybės narės institucijos;
-
-7) skundas yra neįskaitomas, jame nesuprantamai išdėstytos aplinkybės ir neaiškiai suformuluotas prašymas kompetentingai institucijai;
-
-8) nuo galimo Reglamento (ES) 2022/2065 pažeidimo iki skundo pateikimo kompetentingai institucijai dienos praėjo daugiau kaip 2 metai.
-
-36 straipsnis. Skundo nagrinėjimo nutraukimas
-
-Kompetentinga institucija priima sprendimą nutraukti skundo nagrinėjimą, jeigu nagrinėjant skundą:
-
-1) paaiškėja, kad yra šio įstatymo 35 straipsnio 5 dalies 2–6 ar 8 punktuose nurodytas (-i) pagrindas (-ai) atsisakyti nagrinėti skundą;
-
-2) skundą pateikęs paslaugos gavėjas be pagrįstos priežasties per 10 darbo dienų nepateikia kompetentingai institucijai reikalingų papildomų duomenų, be kurių neįmanoma išnagrinėti skundo;
-
-3) paaiškėja, kad neįmanoma patikrinti faktinių duomenų, aplinkybių ar informacijos ir išnagrinėti pateiktą paslaugos gavėjo skundą;
-
-4) pasibaigia skundą pateikęs juridinis asmuo, išregistravus jį iš Juridinių asmenų registro, arba miršta skundą pateikęs fizinis asmuo.
-
-37 straipsnis. Skundo nagrinėjimo terminai ir informavimas
-
-1. Skundas turi būti išnagrinėtas ne vėliau kaip per 3 mėnesius nuo skundo gavimo kompetentingoje institucijoje dienos. Šis terminas dėl sudėtingų skundo nagrinėjimo aplinkybių, informacijos apimties, tarpininkavimo paslaugų teikėjo nebendradarbiavimo ir kompetentingų institucijų reikalavimų nevykdymo arba dėl kitų objektyvių priežasčių kompetentingos institucijos motyvuotu sprendimu gali būti pratęsiamas, bet ne ilgiau kaip 3 mėnesiams. Bendras skundo nagrinėjimo terminas negali būti ilgesnis kaip 6 mėnesiai nuo skundo gavimo dienos.
-
-2. Jei skundo nagrinėjimas pratęsiamas pagal šio straipsnio 1 dalį, kompetentingos institucijos ne vėliau kaip per 3 darbo dienas apie tai informuoja paslaugos gavėją ir nurodo skundo nagrinėjimo termino pratęsimo priežastis. Kompetentingos institucijos turi išnagrinėti skundą per trumpiausią įmanomą laiką.
-
-38 straipsnis. Kompetentingų institucijų sprendimai, išnagrinėjus skundą
-
-1. Kompetentinga institucija, išnagrinėjusi skundą, priima vieną iš šių sprendimų:
-
-1) patenkinti skundą ar jo dalį;
-
-2) atmesti skundą ar jo dalį kaip nepagrįstą.
-
-2. Kai skundas ar jo dalis pripažįstami pagrįstais, kompetentinga institucija teikia tarpininkavimo paslaugų teikėjui privalomus nurodymus nutraukti pažeidimą, skiria įspėjimą ir (ar) taiko kitas vykdymo užtikrinimo priemones, nurodytas Reglamento (ES) 2022/2065 51 straipsnio 2 ir 3 dalyse, šio įstatymo 24 straipsnio 1–4 dalyse, 5 dalies 1–3 ir 6, 7 punktuose ir 25 straipsnyje. Jei kompetentinga institucija nusprendžia skirti baudą, ji tai atlieka šio įstatymo XI skyriuje nustatyta tvarka.
-
-3. Kompetentinga institucija apie priimtą sprendimą ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos informuoja skundą pateikusį paslaugos gavėją ir skundžiamą tarpininkavimo paslaugų teikėją, išskyrus šio straipsnio 2 dalyje nurodytus atvejus, kai ketinama skirti baudą.
-
-4. Kompetentingos institucijos sprendimas gali būti skundžiamas Regionų administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-XI SKYRIUS
-
-BAUDŲ SKYRIMAS IR SPRENDIMŲ DĖL JŲ SKYRIMO VYKDYMAS
-
-39 straipsnis. Baudų skyrimo tvarka
-
-1. Kompetentingos institucijos baudas už Reglamento (ES) 2022/2065 ir šio įstatymo pažeidimus skiria, vadovaudamosi Reglamentu (ES) 2022/2065 ir šiuo įstatymu.
-
-2. Bauda gali būti skiriama ne vėliau kaip per 5 metus nuo pažeidimo padarymo dienos, o kai padarytas trunkamasis pažeidimas, – nuo jo paaiškėjimo dienos. Jei kompetentingos institucijos sprendimas skirti baudą tarpininkavimo paslaugų teikėjui yra nagrinėjamas teisme, baudos skyrimo terminas šiuo atveju sustabdomas nuo skundo padavimo teismui dienos iki teismo sprendimo įsiteisėjimo dienos.
-
-40 straipsnis. Baudų skyrimas
-
-1. Ryšių reguliavimo tarnyba skiria iki 6 procentų tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą už Reglamento (ES) 2022/2065 pažeidimus, išskyrus Reglamento (ES) 2022/2065 14 straipsnio 3 dalies, 26, 27, 28, 30, 31 ir 32 straipsnių pažeidimus.
-
-2. Valstybinė duomenų apsaugos inspekcija skiria iki 6 procentų tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą už Reglamento (ES) 2022/2065 26 straipsnio 1 dalies d punkto ir 3 dalies, 27 straipsnio, 28 straipsnio 2 ir 3 dalių pažeidimus.
-
-3. Valstybinė vartotojų teisių apsaugos tarnyba skiria iki 6 procentų tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą už Reglamento (ES) 2022/2065 25 straipsnio (kai paslaugos gavėjai yra fiziniai asmenys), 26 straipsnio 1 dalies a–c punktų ir 2 dalies, 30–32 straipsnių pažeidimus.
-
-4. Žurnalistų etikos inspektoriaus tarnyba skiria iki 6 procentų tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą už Reglamento (ES) 2022/2065 14 straipsnio 3 dalies, 28 straipsnio 1 dalies pažeidimus.
-
-5. Kompetentingos institucijos taip pat skiria iki 6 procentų tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą ir už šiuos pažeidimus:
-
-1) tarpininkavimo paslaugų teikėjo prisiimtų įsipareigojimų nesilaikymą pagal šio įstatymo 24 straipsnio 3 dalies 1 punktą;
-
-2) tarpininkavimo paslaugų teikėjui pateiktų nurodymų įgyvendinti taisomuosius veiksmus nevykdymą pagal šio įstatymo 24 straipsnio 3 dalies 2 punktą.
-
-6. Kompetentingos institucijos taip pat skiria iki 1 procento tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą ir už šiuos Reglamento (ES) 2022/2065 pažeidimus:
-
-1) neteisingos, neišsamios ar klaidinančios informacijos pateikimą;
-
-2) atsakymo kompetentingai institucijai nepateikimą;
-
-3) neteisingos, neišsamios ar klaidinančios informacijos neištaisymą ir nepateikimą patikrinti;
-
-4) kompetentingos institucijos reikalavimų nesilaikymą, atliekant patikrinimą pagal šio įstatymo IX skyrių.
-
-7. Kai pažeidimas yra mažareikšmis, kompetentingos institucijos, atsižvelgdamos į atliekant tyrimą nustatytų aplinkybių visumą ir vadovaudamosi teisingumo ir protingumo kriterijais, vietoj baudos gali skirti įspėjimą ir kartu nurodyti nutraukti pažeidimą ir įgyvendinti taisomuosius veiksmus, jei pažeidimas nėra nutrauktas.
-
-41 straipsnis. Periodinių baudų skyrimas
-
-1. Kompetentingos institucijos gali priimti sprendimą skirti tarpininkavimo paslaugos teikėjui periodinę iki 5 procentų bendrųjų metinių pajamų per dieną praėjusiais finansiniais metais už kiekvieną šių Reglamento (ES) 2022/2065 pažeidimų vykdymo (tęsimo) dieną dydžio baudą už:
-
-1) tarpininkavimo paslaugų teikėjo pagal šio įstatymo 24 straipsnio 3 dalies 1 punktą prisiimtų įsipareigojimų nesilaikymą;
-
-2) tarpininkavimo paslaugų teikėjui pateiktų nurodymų pagal šio įstatymo 24 straipsnio 3 dalies 2 punktą įgyvendinti taisomuosius veiksmus nevykdymą;
-
-3) pagal šio įstatymo 24 straipsnio 3 dalies 5 punktą nustatytų laikinųjų priemonių nevykdymą;
-
-4) tarpininkavimo paslaugų teikėjo kliudymą atlikti tyrimą ir (ar) patikrinimą.
-
-2. Šio straipsnio 1 dalyje nurodytos baudos skiriamos už laikotarpį, kuris prasideda nuo kompetentingos institucijos sprendimo skirti baudą priėmimo dienos ir baigiasi tą dieną, kai baigiasi pažeidimo vykdymas (tęsimas).
-
-42 straipsnis. Baudos dydžio nustatymas
-
-1. Tarpininkavimo paslaugų teikėjams skiriamos baudos diferencijuojamos atsižvelgiant į:
-
-1) pažeidimo pobūdį, sunkumą, nukentėjusių paslaugos gavėjų ir (ar) kitų asmenų skaičių ir jų patirtos žalos dydį;
-
-2) pažeidimo pavojingumą paslaugos gavėjams ir visuomenei;
-
-3) pažeidimo trukmę;
-
-4) tarpininkavimo paslaugų teikėjo atsakomybę lengvinančias ar sunkinančias aplinkybes;
-
-5) kiekvieno tarpininkavimo paslaugų teikėjo įtaką pažeidimo padarymui, kai pažeidimą padaro keli tarpininkavimo paslaugų teikėjai;
-
-6) tarpininkavimo paslaugų teikėjui dėl pažeidimo tekusių pajamų dydį.
-
-2. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad tarpininkavimo paslaugų teikėjai, padarę pažeidimą:
-
-1) savo noru užkirto kelią žalingoms pažeidimo pasekmėms;
-
-2) savo noru atlygino paslaugos gavėjams padarytus nuostolius ir (ar) pašalino padarytą žalą;
-
-3) ėmėsi veiksmų žalai sumažinti;
-
-4) savo valia nutraukė pažeidimą;
-
-5) padėjo kompetentingai institucijai išaiškinti pažeidimo aplinkybes;
-
-6) bendradarbiavo su kompetentinga institucija;
-
-7) laikėsi nacionaliniu ir Europos Sąjungos lygmeniu patvirtintų elgesio kodeksų, susijusių su padarytu pažeidimu, įskaitant elgesio kodeksus pagal Reglamento (ES) 2022/2065 45–47 straipsnius, ir pagal Reglamento (ES) 2022/2065 48 straipsnį patvirtintų krizės protokolų.
-
-3. Atsakomybę lengvinančiomis aplinkybėmis gali būti laikomos ir kitos, šio straipsnio 2 dalyje nenurodytos, aplinkybės, kurias kompetentingos institucijos pripažįsta atsakomybę lengvinančiomis aplinkybėmis.
-
-4. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad tarpininkavimo paslaugų teikėjai, padarę pažeidimą:
-
-1) kliudė atlikti tyrimą ir (ar) patikrinimą;
-
-2) slėpė padarytą pažeidimą;
-
-3) pažeidimą padarė tyčia;
-
-4) tęsė pažeidimą, nepaisydami kompetentingų institucijų nurodymo nutraukti pažeidimą ir įgyvendinti pažeidimui proporcingas taisomąsias priemones;
-
-5) nevykdė prisiimtų ir kompetentingos institucijos patvirtintų įsipareigojimų pašalinti pažeidimą.
-
-5. Atsakomybę sunkinančiomis aplinkybėmis gali būti laikomas toks pat Reglamento (ES) 2022/2065 ir šio įstatymo pažeidimas, padarytas pakartotinai, nepraėjus 2 metams nuo kompetentingos institucijos sprendimo dėl ankstesnio Reglamento (ES) 2022/2065 ir šio įstatymo pažeidimo įsigaliojimo dienos.
-
-6. Baudos dydis nustatomas pagal šio įstatymo 40 straipsnio 1–6 dalyse ir 41 straipsnio 1 dalyje nustatytas maksimalias baudų dydžių ribas. Pirmiausia apskaičiuojamas pradinis baudos dydis, lygus 50 procentų maksimalaus už pažeidimą galimos skirti baudos dydžio. Bazinis baudos dydis nustatomas, mažinant arba didinant pradinį baudos dydį, atsižvelgiant į šio straipsnio 1 dalyje nurodytas aplinkybes. Jeigu yra pagrindas, bazinis baudos dydis mažinamas arba didinamas, atsižvelgiant į atsakomybę lengvinančias ir sunkinančias aplinkybes. Jeigu nustatomos vien tik atsakomybę lengvinančios aplinkybės, bazinis baudos dydis mažinamas iki 50 procentų, o jeigu nustatomos vien tik atsakomybę sunkinančios aplinkybės, bazinis baudos dydis didinamas iki 50 procentų. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, baudos dydis nustatomas, atsižvelgiant į jų kiekį ir reikšmingumą.
-
-43 straipsnis. Baudų skyrimo procedūra
-
-1. Kompetentinga institucija pažeidimo padarymu įtariamam tarpininkavimo paslaugų teikėjui ne vėliau kaip per 3 darbo dienas nuo preliminaraus sprendimo skirti baudą priėmimo dienos išsiunčia dokumentą, kuriame išdėstytas siūlymas skirti baudą. Pažeidimo padarymu įtariamas tarpininkavimo paslaugų teikėjas per kompetentingos institucijos nustatytą terminą, kuris negali būti trumpesnis kaip 10 darbo dienų nuo šio dokumento gavimo dienos, turi teisę raštu pateikti savo paaiškinimą dėl šiame dokumente išdėstytų aplinkybių ir nurodyti informaciją, kuri yra reikšminga kompetentingai institucijai priimant sprendimą dėl baudos skyrimo. Paaiškinimo ir kitos informacijos nepateikimas per šioje dalyje nurodytą terminą kompetentingoms institucijoms netrukdo priimti sprendimo dėl baudos skyrimo.
-
-2. Kompetentinga institucija bylą dėl baudos skyrimo nagrinėja rašytinės procedūros tvarka pagal pateiktą paaiškinimą ir kitą savo turimą medžiagą. Bylą nagrinėjant rašytinės procedūros tvarka, posėdis nerengiamas. Byla gali būti nagrinėjama žodinės procedūros tvarka, jeigu kompetentinga institucija pažeidimo padarymu įtariamo tarpininkavimo paslaugų teikėjo prašymu arba savo iniciatyva dėl aplinkybių sudėtingumo ar kitų svarbių aplinkybių nusprendžia bylą nagrinėti žodinės procedūros tvarka, nes būtina išklausyti žodinį pažeidimo padarymu įtariamo asmens paaiškinimą, arba jeigu byla gali būti geriau išnagrinėta žodinės procedūros tvarka. Nagrinėjant bylą žodinės procedūros tvarka, pažeidimo padarymu įtariamam tarpininkavimo paslaugų teikėjui, skundą pateikusiam paslaugos gavėjui ir kitiems suinteresuotiems asmenims apie posėdžio, kuriame nagrinėjama byla, vietą, datą ir laiką turi būti pranešta ne vėliau kaip prieš 10 darbo dienų iki posėdžio dienos.
-
-3. Pažeidimo padarymu įtariamo tarpininkavimo paslaugų teikėjo ar jo atstovo neatvykimas į žodinį bylos nagrinėjimą netrukdo nagrinėti bylą, jeigu pažeidimo padarymu įtariamam tarpininkavimo paslaugų teikėjui apie posėdį dėl bylos nagrinėjimo buvo tinkamai pranešta ir jis nėra pateikęs įrodymų, kad negali atvykti dėl svarbių priežasčių, trukdančių dalyvauti posėdyje.
-
-4. Posėdžiai, kuriuose išklausomi pažeidimo padarymu įtariami asmenys ir kiti suinteresuoti asmenys, yra vieši. Kompetentinga institucija savo iniciatyva, pažeidimo padarymu įtariamų tarpininkavimo paslaugų teikėjų arba kitų suinteresuotų asmenų prašymu posėdį gali paskelbti uždarą, jeigu tai būtina, siekiant apsaugoti valstybės ar tarnybos paslaptis arba paslaugų teikėjų komercines ar profesines paslaptis.
-
-5. Kompetentingos institucijos sprendimas skirti baudą ne vėliau kaip per 3 darbo dienas nuo šio sprendimo priėmimo dienos išsiunčiamas tarpininkavimo paslaugų teikėjui, dėl kurio šis sprendimas priimtas, ir skundą pateikusiam paslaugos gavėjui, jei toks yra.
-
-6. Informaciją, susijusią su priimtu sprendimu skirti baudą tarpininkavimo paslaugų teikėjui, kompetentingos institucijos ne vėliau kaip per 3 darbo dienas perduoda Ryšių reguliavimo tarnybai, jeigu sprendimą dėl baudos skyrimo priimanti kompetentinga institucija nėra pati Ryšių reguliavimo tarnyba.
-
-7. Kompetentingos institucijos sprendimas skirti baudą gali būti skundžiamas Regionų administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-44 straipsnis. Sprendimo dėl baudos skyrimo vykdymas
-
-1. Kompetentingos institucijos sprendimas dėl baudos skyrimo turi būti įvykdytas ne vėliau kaip per 3 mėnesius nuo dienos, kurią pažeidimą įvykdęs tarpininkavimo paslaugų teikėjas gavo sprendimą dėl baudos paskyrimo.
-
-2. Kompetentingos institucijos sprendimas dėl baudos skyrimo yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Jis gali būti pateiktas vykdyti ne vėliau kaip per 5 metus nuo jo priėmimo dienos.
-
-XII SKYRIUS
-
-BAIGIAMOSIOS NUOSTATOS
-
-45 straipsnis. Atsakomybė už šio įstatymo pažeidimus
-
-Šio įstatymo reikalavimus pažeidę paslaugų teikėjai ir kiti asmenys atsako šio įstatymo ir Administracinių nusižengimų kodekso nustatyta tvarka ir sąlygomis
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
-
-Lietuvos Respublikos
-
-informacinės visuomenės paslaugų įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2000 m. birželio 8 d. Europos Parlamento ir Tarybos direktyva 2000/31/EB dėl kai kurių informacinės visuomenės paslaugų, ypač elektroninės komercijos, teisinių aspektų vidaus rinkoje (Elektroninės komercijos direktyva).
-
-2. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771.
-
-3. 2022 m. spalio 19 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2065 dėl bendrosios skaitmeninių paslaugų rinkos, kuriuo iš dalies keičiama Direktyva 2000/31/EB (Skaitmeninių paslaugų aktas).
-
-____________________
-
-Priedo pakeitimai:
-
-Nr. XIII-2518, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18822
-
-Nr. XIV-2702, 2024-06-13, paskelbta TAR 2024-06-27, i. k. 2024-11769
-
 Pakeitimai:
 
 1.
@@ -800,52 +424,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-800, 2010-05-11, Žin., 2010, Nr. 60-2959 (2010-05-25), i. k. 1101010ISTA00XI-800
 
 Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo 4, 18, 19 straipsnių pakeitimo ir papildymo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
-
-Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo 2 straipsnio papildymo ir pakeitimo ir Įstatymo papildymo IV-1 skyriumi įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
-
-Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 1, 4, 16, 17, 18, 20 straipsnių pakeitimo ir 19 straipsnio pripažinimo netekusiu galios įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
-
-Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 2 straipsnio pakeitimo ir IV-1 skyriaus pripažinimo netekusiu galios įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
-
-Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 4, 15, 16, 17, 18, 20, 21 ir 22 straipsnių pakeitimo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2518, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18822
-
-Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 20 straipsnio ir priedo pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIV-2702, 2024-06-13, paskelbta TAR 2024-06-27, i. k. 2024-11769
-
-Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 pakeitimo įstatymas
 
