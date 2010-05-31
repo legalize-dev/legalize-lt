@@ -4,7 +4,7 @@ identifier: "TAR.D4A66ACB9F97"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2010-04-10"
+last_updated: "2010-05-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97"
 department: "Lietuvos Respublikos Seimas"
@@ -64,19 +64,45 @@ BENDROSIOS
 
 NUOSTATOS
 
+1 straipsnio redakcija iki 2010 m. rugsėjo 15 d.:
+
 1
 
 straipsnis. Įstatymo paskirtis
 
 Šis Įstatymas nustato
 
-gyventojams nuosavybės teise priklausančio turto ir turimų piniginių lėšų
+gyventojams nuosavybės teise priklausančio turto ir turimų piniginių lėšų (toliau
 
-(toliau – turtas) deklaravimą, taip pat turto (įskaitant gautas pajamas)
+– turtas) deklaravimą, taip pat turto (įskaitant gautas pajamas) deklaravimą,
 
-deklaravimą, kreipiantis dėl valstybės garantuojamos teisinės pagalbos
+kreipiantis dėl valstybės garantuojamos teisinės pagalbos suteikimo arba
 
-suteikimo arba piniginės socialinės paramos skyrimo.
+piniginės socialinės paramos skyrimo.
+
+1 straipsnio redakcija nuo 2010 m. rugsėjo 15 d.:
+
+1 straipsnis. Įstatymo paskirtis
+
+Šis Įstatymas
+
+nustato gyventojams nuosavybės teise priklausančio turto ir turimų piniginių
+
+lėšų (toliau – turtas) deklaravimą, taip pat turto (įskaitant gautas pajamas)
+
+deklaravimą, aukojant politinėms partijoms ar politinės kampanijos dalyviams,
+
+kreipiantis dėl valstybės garantuojamos teisinės pagalbos suteikimo arba
+
+piniginės socialinės paramos skyrimo.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-819,
+
+2010-05-18, Žin., 2010, Nr. 63-3097 (2010-05-31)
 
 II SKYRIUS
 
@@ -160,9 +186,9 @@ Operatyvinės veiklos įstatymas, profesinės karo tarnybos karininkai ir jų
 
 šeimos nariai;
 
-15) Lietuvos banko
+15) Lietuvos
 
-valdybos nariai ir jų šeimos nariai;
+banko valdybos nariai ir jų šeimos nariai;
 
 16) žurnalistų
 
@@ -208,7 +234,7 @@ Lietuvos gyventojai, taip pat sulaukę 18 metų ir vyresni asmenys, Lietuvos
 
 Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka įgiję
 
-teisę nuolat gyventi Lietuvoje.
+teisę nuolat gyventi Lietuvoje;
 
 Pastaba. 22 punkte nurodyti
 
@@ -216,9 +242,35 @@ gyventojai iki 2010 m. gegužės 1 d. turi deklaruoti 2009 m. gruodžio 31 d.
 
 turėtą savo turtą.
 
+1 dalis papildoma 23 punktu nuo 2010 m. rugsėjo 15 d.:
+
+23) asmenys,
+
+ketinantys suteikti auką politinei partijai ar politinės kampanijos dalyviui,
+
+ir jų šeimos nariai.
+
+2 dalies redakcija iki 2010 m. rugsėjo 15 d.:
+
 2. Šio
 
 straipsnio 1 dalies 1–20 punktuose nurodytais šeimos nariais laikomi
+
+sutuoktiniai ir kartu gyvenantys vaikai (įvaikiai) iki 18 metų, kurie privalo
+
+deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai.
+
+Nuolatinis Lietuvos gyventojas yra fizinis asmuo, kuris laikomas nuolatiniu
+
+Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio
+
+įstatymą.
+
+2 dalies redakcija nuo 2010 m. rugsėjo 15 d.:
+
+2. Šio straipsnio 1
+
+dalies 1–20 ir 23 punktuose nurodytais šeimos nariais laikomi
 
 sutuoktiniai ir kartu gyvenantys vaikai (įvaikiai) iki 18 metų, kurie privalo
 
@@ -236,15 +288,15 @@ Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio
 
 4. Valstybės
 
-tarnybos tvarkymo funkcijas atliekanti įstaiga, vadovaudamasi Valstybės tarnautojų
+tarnybos tvarkymo funkcijas atliekanti įstaiga, vadovaudamasi Valstybės
 
-registre esančiais duomenimis, iki kalendorinių metų vasario 1 dienos turi
+tarnautojų registre esančiais duomenimis, iki kalendorinių metų vasario 1
 
-pateikti centriniam mokesčio administratoriui gyventojų kalendoriniais metais,
+dienos turi pateikti centriniam mokesčio administratoriui gyventojų
 
-einančiais prieš kalendorinius metus, kuriais pateikiamas šis sąrašas, ėjusių
+kalendoriniais metais, einančiais prieš kalendorinius metus, kuriais
 
-valstybės tarnautojo pareigas, vardinį sąrašą.
+pateikiamas šis sąrašas, ėjusių valstybės tarnautojo pareigas, vardinį sąrašą.
 
 Straipsnio
 
@@ -256,19 +308,25 @@ X-83,
 
 2005-01-20, Žin., 2005, Nr. 18-577 (2005-02-08)
 
-Nr. X-1838, 2008-11-14,
+Nr. X-1838,
 
-Žin., 2008, Nr. 138-5445 (2008-12-02)
+2008-11-14, Žin., 2008, Nr. 138-5445 (2008-12-02)
 
 Nr. XI-684,
 
 2010-02-11, Žin., 2010, Nr. 25-1178 (2010-03-02)
+
+Nr. XI-819,
+
+2010-05-18, Žin., 2010, Nr. 63-3097 (2010-05-31)
 
 3
 
 straipsnis. Deklaruojamas
 
 turtas
+
+1 dalies redakcija iki 2010 m. rugsėjo 15 d.:
 
 1. Šio Įstatymo
 
@@ -310,6 +368,52 @@ vieneto vertė viršija 5 000 litų;
 
 popierius, jeigu jų bendra vertė viršija 5 000 litų.
 
+1 dalies redakcija nuo 2010 m. rugsėjo 15 d.:
+
+1.
+
+Šio Įstatymo 2 straipsnio 1 dalies 1–21 ir
+
+23 punktuose nurodyti gyventojai privalo
+
+deklaruoti šį savo turimą turtą:
+
+1)
+
+nekilnojamąjį daiktą, įskaitant nebaigtą statyti statinį;
+
+2)
+
+kilnojamąjį daiktą, jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės
+
+aktus privaloma teisinė registracija;
+
+3)
+
+pinigines lėšas (toliau – lėšos), turimas bankuose ir kitose kredito įstaigose
+
+ir ne bankuose ir kitose kredito įstaigose, jeigu jų bendra suma viršija 5 000
+
+litų;
+
+4)
+
+pasiskolintas ir negrąžintas lėšas, jeigu jų bendra suma viršija 5 000 litų;
+
+5)
+
+paskolintas ir nesusigrąžintas lėšas, jeigu jų bendra suma viršija 5 000 litų;
+
+6)
+
+meno kūrinius, brangakmenius, juvelyrinius dirbinius, tauriuosius metalus,
+
+kurių vieneto vertė viršija 5 000 litų;
+
+7)
+
+vertybinius popierius, jeigu jų bendra vertė viršija 5 000 litų.
+
 2. Šio Įstatymo
 
 2 straipsnio 1 dalies 22 punkte nurodyti gyventojai privalo deklaruoti šį savo
@@ -334,9 +438,9 @@ kūrinius, brangakmenius, juvelyrinius dirbinius, tauriuosius metalus, kurių
 
 vieneto vertė viršija 5 000 litų;
 
-4) šio straipsnio
+4) šio
 
-1 dalies 4, 5 ir 7 punktuose nurodytą turtą.
+straipsnio 1 dalies 4, 5 ir 7 punktuose nurodytą turtą.
 
 3. Deklaruojamas
 
@@ -350,9 +454,19 @@ gautas už suteiktą pagalbą slaptai bendradarbiaujant su operatyvinės veiklos
 
 subjektais ir kitais įstatymų nustatytais atvejais, nedeklaruojamas.
 
+5 dalies redakcija iki 2010 m. rugsėjo 15 d.:
+
 5. Šio Įstatymo
 
 2 straipsnio 1 dalies 20 ir 21 punktuose nurodyti gyventojai deklaruoja ir
+
+gautas pajamas.
+
+5 dalies redakcija nuo 2010 m. rugsėjo 15 d.:
+
+5. Šio Įstatymo
+
+2 straipsnio 1 dalies 20, 21 ir 23 punktuose nurodyti gyventojai deklaruoja ir
 
 gautas pajamas.
 
@@ -363,6 +477,10 @@ pakeitimai:
 Nr. XI-684,
 
 2010-02-11, Žin., 2010, Nr. 25-1178 (2010-03-02)
+
+Nr. XI-819,
+
+2010-05-18, Žin., 2010, Nr. 63-3097 (2010-05-31)
 
 4
 
@@ -394,13 +512,13 @@ patvirtinimuose turi būti nurodyti duomenys, leidžiantys nustatyti lėšas
 
 išmokėjusio asmens tapatybę.
 
-3. Prie užsienio
+3. Prie užsienio kalba
 
-kalba surašytų dokumentų turi būti pridėtas vertėjo patvirtintas vertimas į
+surašytų dokumentų turi būti pridėtas vertėjo patvirtintas vertimas į lietuvių
 
-lietuvių kalbą, o užsienio valstybėse išduoti dokumentai, kurių legalizavimas
+kalbą, o užsienio valstybėse išduoti dokumentai, kurių legalizavimas numatytas
 
-numatytas tarptautiniuose ir Lietuvos Respublikos teisės aktuose, privalo būti
+tarptautiniuose ir Lietuvos Respublikos teisės aktuose, privalo būti
 
 legalizuoti.
 
@@ -414,13 +532,13 @@ straipsnis. Turto deklaravimo tvarka
 
 kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija
 
-(toliau–deklaracija), gruodžio 31 dieną turimą turtą pateikdami mokesčio
+(toliau–deklaracija), gruodžio 31 dieną turimą turtą pateikdami mokesčio administratoriui
 
-administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu
+vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami
 
-gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad
+du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra
 
-deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui.
+pateikta, grąžinamas deklaraciją pateikusiam gyventojui.
 
 2. Deklaracija
 
@@ -446,11 +564,11 @@ administratorius. Gyventojai, pagal šį Įstatymą deklaruojantys turtą,
 
 nemokamai aprūpinami deklaracijos blankais ir deklaracijos pildymo taisyklėmis.
 
-5. Lietuvos Respublikos
+5. Lietuvos
 
-operatyvinės veiklos subjektų teises turinčių valstybės institucijų valstybės
+Respublikos operatyvinės veiklos subjektų teises turinčių valstybės institucijų
 
-tarnautojai ir pareigūnai, kurių veiklą reglamentuoja Operatyvinės veiklos
+valstybės tarnautojai ir pareigūnai, kurių veiklą reglamentuoja Operatyvinės veiklos
 
 įstatymas, ir jų šeimos nariai turtą deklaruoja atskirais Vyriausybės arba jos
 
@@ -508,9 +626,9 @@ tarnautojai buvo priimti arba paskirti į pareigas, gruodžio 31 dieną turimą
 
 turtą, privalo deklaruoti kalendorinių metų, einančių prieš kalendorinius
 
-metus, kuriais valstybės politikai ar Europos Parlamento nariai buvo išrinkti
+metus, kuriais valstybės politikai ar Europos Parlamento nariai buvo išrinkti arba
 
-arba paskirti į pareigas ar valstybės tarnautojai buvo priimti arba paskirti į
+paskirti į pareigas ar valstybės tarnautojai buvo priimti arba paskirti į
 
 pareigas, gruodžio 31 dieną turimą turtą. Deklaracijos pateikiamos per 30 dienų
 
@@ -720,679 +838,9 @@ Nr. XI-684,
 
 2010-02-11, Žin., 2010, Nr. 25-1178 (2010-03-02)
 
-III SKYRIUS
-
-BAIGIAMOSIOS
-
-NUOSTATOS
-
-8
-
-straipsnis. Duomenų kaupimas ir kontrolė
-
-Mokesčio
-
-administratorius tikrina, ar deklaracijose nurodyti duomenys yra teisingi,
-
-kaupia ir saugo pateiktas deklaracijas bei iš kitų šaltinių gautus duomenis
-
-apie gyventojų turimą turtą.
-
-9
-
-straipsnis. Atsakomybė
-
-už šio Įstatymo pažeidimą
-
-1. Šio Įstatymo
-
-2 straipsnio 1 dalies 1–19, 22 punktuose nurodyti turtą deklaruoti privalantys
-
-gyventojai, vengiantys pateikti deklaracijas, taip pat laiku arba iš viso jų
-
-nepateikę, neteisingai nurodę duomenis, atsako administracine ar baudžiamąja
-
-tvarka.
-
-2. Jeigu
-
-gyventojas šio Įstatymo nustatyta tvarka turto nedeklaravo, tokiu turtu negali
-
-būti pagrindžiami kito turto įsigijimo šaltiniai. Jeigu dėl šio straipsnio 1
-
-dalyje nurodytų asmenų kompetentinga valstybės institucija yra pradėjusi
-
-mokestinį patikrinimą arba kitą šio straipsnio 1 dalyje nurodyto teisės
-
-pažeidimo tyrimą, šie asmenys netenka galimybės savanoriškai pateikti arba
-
-patikslinti atitinkamo laikotarpio turto deklaracijas. Jeigu deklaracija ir
-
-būtų pateikta, kompetentinga valstybės institucija į ją neatsižvelgtų ir jos
-
-nevertintų.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. XI-684,
-
-2010-02-11, Žin., 2010, Nr. 25-1178 (2010-03-02)
-
-10
-
-straipsnis. Deklaracijos duomenų paskelbimo tvarka
-
-1. Deklaracijos
-
-duomenys gali būti skelbiami, kai yra gyventojo rašytinis sutikimas.
-
-2
-
-dalies redakcija iki 2010 m. liepos 1 d.:
-
-2. Kalendorinių
-
-metų, už kuriuos deklaruojamas turimas turtas, gruodžio 31 dieną ėjusių
-
-pareigas Respublikos Prezidento, Lietuvos Respublikos Seimo narių, Europos
-
-Parlamento narių, Ministro Pirmininko, ministrų, Ministro Pirmininko kanclerio,
-
-Ministro Pirmininko kanclerio pavaduotojų, Ministro Pirmininko tarnybos
-
-departamentų direktorių, Ministro Pirmininko patarėjų, viceministrų,
-
-savivaldybių tarybų narių, ministerijų kanclerių, Lietuvos Respublikos teismų
-
-pirmininkų, teismų pirmininkų pavaduotojų, teismų skyrių pirmininkų, teisėjų,
-
-Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės narių, Vyriausiosios
-
-administracinių ginčų komisijos narių, generalinio prokuroro, generalinio
-
-prokuroro pavaduotojų, Generalinės prokuratūros struktūrinių padalinių, taip
-
-pat apygardų ir apylinkių prokuratūrų vadovų, valstybės kontrolieriaus,
-
-valstybės kontrolieriaus pavaduotojų, Valstybės kontrolės valstybės tarnautojų,
-
-apskričių viršininkų, apskričių viršininkų pavaduotojų, Lietuvos Respublikos
-
-Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų), prie
-
-ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės valdymo
-
-institucijų vadovų (generalinių direktorių, direktorių, viršininkų) ir vadovų
-
-pavaduotojų, Lietuvos banko valdybos pirmininko ir valdybos pirmininko
-
-pavaduotojų, Muitinės departamento prie Finansų ministerijos ir teritorinių muitinių
-
-valstybės tarnautojų, Valstybinės mokesčių inspekcijos prie Finansų
-
-ministerijos ir teritorinių mokesčių inspekcijų valstybės tarnautojų, Vidaus
-
-reikalų ministerijos valdymo srities statutinių įstaigų valstybės tarnautojų,
-
-Seimo kontrolierių, valstybės saugumo sistemos valstybės tarnautojų ir jų
-
-šeimos narių deklaracijų duomenys, išskyrus operatyvinės veiklos subjektų
-
-teises turinčių valstybės institucijų valstybės tarnautojų ir pareigūnų, kurių
-
-veiklą reglamentuoja Operatyvinės veiklos įstatymas, ir jų šeimos narių
-
-deklaracijų duomenis, yra skelbiami be šių gyventojų rašytinio sutikimo.
-
-2
-
-dalies redakcija nuo 2010 m. liepos 1 d.:
-
-2. Kalendorinių metų, už kuriuos
-
-deklaruojamas turimas turtas, gruodžio 31 dieną ėjusių pareigas Respublikos
-
-Prezidento, Lietuvos Respublikos Seimo narių, Europos Parlamento narių,
-
-Ministro Pirmininko, ministrų, Ministro Pirmininko kanclerio, Ministro
-
-Pirmininko kanclerio pavaduotojų, Ministro Pirmininko tarnybos departamentų
-
-direktorių, Ministro Pirmininko patarėjų, viceministrų, savivaldybių tarybų
-
-narių, ministerijų kanclerių, Lietuvos Respublikos teismų pirmininkų, teismų
-
-pirmininkų pavaduotojų, teismų skyrių pirmininkų, teisėjų, Mokestinių ginčų
-
-komisijos prie Lietuvos Respublikos Vyriausybės narių, Vyriausiosios administracinių
-
-ginčų komisijos narių, generalinio prokuroro, generalinio prokuroro
-
-pavaduotojų, Generalinės prokuratūros struktūrinių padalinių, taip pat apygardų
-
-ir apylinkių prokuratūrų vadovų, valstybės kontrolieriaus, valstybės
-
-kontrolieriaus pavaduotojų, Valstybės kontrolės valstybės tarnautojų, Lietuvos
-
-Respublikos Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų),
-
-prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės
-
-valdymo institucijų vadovų (generalinių direktorių, direktorių, viršininkų) ir
-
-vadovų pavaduotojų, Lietuvos banko valdybos pirmininko ir valdybos pirmininko
-
-pavaduotojų, Muitinės departamento prie Finansų ministerijos ir teritorinių
-
-muitinių valstybės tarnautojų, Valstybinės mokesčių inspekcijos prie Finansų ministerijos
-
-ir teritorinių mokesčių inspekcijų valstybės tarnautojų, Vidaus reikalų
-
-ministerijos valdymo srities statutinių įstaigų valstybės tarnautojų, Seimo
-
-kontrolierių, valstybės saugumo sistemos valstybės tarnautojų ir jų šeimos
-
-narių deklaracijų duomenys, išskyrus operatyvinės veiklos subjektų teises
-
-turinčių valstybės institucijų valstybės tarnautojų ir pareigūnų, kurių veiklą
-
-reglamentuoja Operatyvinės veiklos įstatymas, ir jų šeimos narių deklaracijų
-
-duomenis, yra skelbiami be šių gyventojų rašytinio sutikimo.
-
-3. Centrinis
-
-mokesčio administratorius šio straipsnio 2 dalyje išvardytų gyventojų
-
-deklaracijų duomenis skelbia „Valstybės žinių“ specialiame priede. Pagrindinių
-
-deklaracijos duomenų išrašą nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota
-
-institucija. Šių gyventojų deklaracijų, taip pat patikslintų paskutinių
-
-kalendorinių metų pagrindinių deklaracijos duomenų išrašus „Valstybės žinių“
-
-redakcijai kasmet iki rugsėjo 1 dienos pateikia centrinis mokesčio
-
-administratorius. „Valstybės žinios“ deklaracijų išrašų duomenis, įskaitant
-
-paskutinių kalendorinių metų deklaracijų patikslintus duomenis, kasmet
-
-paskelbia iki spalio 1 dienos.
-
-4. Kiti
-
-valstybės tarnautojai ir jų šeimos nariai gali skelbti ,,Valstybės žinių“
-
-specialiame priede savo deklaracijų duomenis valstybės lėšomis. Patvirtintą
-
-pagrindinių deklaracijos duomenų išrašą ir rašytinį sutikimą skelbti
-
-deklaracijos duomenis ,,Valstybės žinių“ redakcijai pateikia pats gyventojas.
-
-Pagrindinių deklaracijos duomenų išrašų pristatymo ir skelbimo terminai yra
-
-tokie pat, kaip nurodyta šio straipsnio 3 dalyje.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. XI-322,
-
-2009-07-07, Žin., 2009, Nr. 85-3579 (2009-07-18)
-
-Nr. XI-711,
-
-2010-03-30, Žin., 2010, Nr. 41-1936 (2010-04-10)
-
-11
-
-straipsnis. Deklaracijai užpildyti reikalingų pažymų parengimas
-
-Bankai, kitos
-
-kredito įstaigos ir kiti Lietuvos Respublikos juridiniai asmenys šio Įstatymo 2
-
-straipsnio 1 dalyje nurodytų gyventojų prašymu išduoda pažymas apie gyventojo
-
-turimą šio Įstatymo 3 straipsnio 1 dalies 3–5 punktuose nurodytą turtą. Pažymos
-
-parengiamos ir išduodamos nemokamai per 10 darbo dienų nuo prašymo gavimo
-
-dienos.
-
 Įstatymas
 
-papildytas straipsniu:
-
-Nr.
-
-IX-2060,
-
-2004-03-16, Žin., 2004, Nr. 47-1551 (2004-03-30)
-
-Skelbiu šį Lietuvos
-
-Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
-
-BRAZAUSKAS
-
-_______________
-
-Pakeitimai:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-134,
-
-97.02.25, Žin., 1997, Nr. 23-542 (97.03.15)
-
-LIETUVOS
-
-RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAPILDYMO IR
-
-PAKEITIMO ĮSTATYMAS
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-623,
-
-98.02.03, Žin., 1998, Nr.16-379 (98.02.13)
-
-LIETUVOS
-
-RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 3, 6 IR 10
-
-STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-632,
-
-98.02.17, Žin., 1998, Nr.20-504 (98.02.25)
-
-LIETUVOS
-
-RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAKEITIMO IR
-
-PAPILDYMO ĮSTATYMAS
-
-4.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-714,
-
-98.04.23, Žin., 1998, Nr.41-1096 (98.05.01)
-
-LIETUVOS
-
-RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 6, 10, 11 STRAIPSNIŲ
-
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-5.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-819,
-
-98.06.30, Žin., 1998, Nr.63-1802 (98.07.15)
-
-LIETUVOS
-
-RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 2, 3, 6, 11
-
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1887, 00.07.20, Žin., 2000,
-
-Nr.67-2017 (00.08.09)
-
-GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 2, 3, 5,
-
-6, 10, 11 STRAIPSNIŲ, 1, 2 PRIEDĖLIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-96, 2000 12 20, Žin., 2000, Nr.
-
-113-3605 (2000 12 30)
-
-GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 1, 2, 3,
-
-6, 8, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 5(1)
-
-STRAIPSNIU ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2001 m. sausio 1 d.
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-334, 2001 05 22, Žin., 2001, Nr.
-
-48-1658 (2001 06 06)
-
-GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 4
-
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-9.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-916,
-
-2002-05-30, Žin., 2002, Nr. 62-2493 (2002-06-21)
-
-GYVENTOJŲ
-
-TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-10.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-944,
-
-2002-06-11, Žin., 2002, Nr. 64-2577 (2002-06-26)
-
-GYVENTOJŲ
-
-TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 11 STRAIPSNIO IR 2 PRIEDĖLIO PAPILDYMO
-
-ĮSTATYMAS
-
-11.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1193,
-
-2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
-
-AZARTINIŲ
-
-LOŠIMŲ ĮSTATYMO, DARBO SUTARTIES ĮSTATYMO, ĮSTATYMO „DĖL LIETUVOS RESPUBLIKOS
-
-GYVENTOJŲ PAJAMŲ BRANGIAM TURTUI ĮSIGYTI ARBA KITŲ ĮSIGYTŲ BEI PERLEIDŽIAMŲ
-
-LĖŠŲ DEKLARAVIMO“, GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAKEITIMO
-
-ĮSTATYMAS
-
-12.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1676,
-
-2003-07-01, Žin., 2003, Nr. 73-3353 (2003-07-23)
-
-GYVENTOJŲ
-
-TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 1, 5(1), 6, 11 STRAIPSNIŲ PAPILDYMO IR
-
-PAKEITIMO ĮSTATYMAS
-
-Šis
-
-Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
-
-13.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. IX-1911,
-
-2003-12-18, Žin., 2003, Nr. 123-5583 (2003-12-30)
-
-GYVENTOJŲ
-
-TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Šis
-
-Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
-
-Nauja
-
-įstatymo redakcija (keistas įstatymo pavadinimas)
-
-14.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. IX-2060,
-
-2004-03-16, Žin., 2004, Nr. 47-1551 (2004-03-30)
-
-GYVENTOJŲ
-
-TURTO DEKLARAVIMO ĮSTATYMO PAPILDYMO 11 STRAIPSNIU ĮSTATYMAS
-
-15.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. X-83, 2005-01-20,
-
-Žin., 2005, Nr. 18-577 (2005-02-08)
-
-GYVENTOJŲ
-
-TURTO DEKLARAVIMO ĮSTATYMO 2 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2005 m. gegužės 1 d.
-
-16.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. X-1496,
-
-2008-04-15, Žin., 2008, Nr. 50-1845 (2008-04-30)
-
-GYVENTOJŲ
-
-TURTO DEKLARAVIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-17.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-1838,
-
-2008-11-14, Žin., 2008, Nr. 138-5445 (2008-12-02)
-
-GYVENTOJŲ
-
-TURTO DEKLARAVIMO ĮSTATYMO 2 IR 6 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-18.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-XI-322,
-
-2009-07-07, Žin., 2009, Nr. 85-3579 (2009-07-18)
-
-GYVENTOJŲ
-
-TURTO DEKLARAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-19.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. XI-684, 2010-02-11,
-
-Žin., 2010, Nr. 25-1178 (2010-03-02)
-
-GYVENTOJŲ TURTO DEKLARAVIMO
-
-ĮSTATYMO 2, 3, 5, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO
-
-7(1) STRAIPSNIU ĮSTATYMAS
-
-Šio
-
-įstatymo nuostatos taip pat taikomos:
-
-1)
-
-nuolatiniams Lietuvos gyventojams, kurie 18 metų sulaukė 2004 ir vėlesniais
-
-metais iki šio įstatymo įsigaliojimo dienos ir nėra deklaravę turimo turto
-
-pagal Gyventojų turto deklaravimo įstatymą arba pagal Vienkartinio gyventojų
-
-turto deklaravimo įstatymą;
-
-2)
-
-18 metų sulaukusiems Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės
-
-padėties“ nustatyta tvarka įgijusiems teisę nuolat gyventi Lietuvoje asmenims,
-
-kurie šią teisę įgijo 2004 ir vėlesniais metais iki šio įstatymo įsigaliojimo
-
-dienos ir nėra deklaravę turimo turto pagal Gyventojų turto deklaravimo
-
-įstatymą arba pagal Vienkartinio gyventojų turto deklaravimo įstatymą.
-
-Šio
-
-straipsnio 1 dalyje nurodyti gyventojai iki 2010 m. gegužės 1 d. turi
-
-deklaruoti 2009 m. gruodžio 31 d. turėtą savo turtą.
-
-20.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-XI-711,
-
-2010-03-30, Žin., 2010, Nr. 41-1936 (2010-04-10)
-
-GYVENTOJŲ
-
-TURTO DEKLARAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja 2010 m. liepos 1 d.
-
-***
-
-Pabaiga ***
-
-Redagavo
-
-Aušrinė Trapinskienė (2010-04-13)
-
-autrap@lrs.lt
-
-1 straipsnis.
-
-Įstatymo paskirtis
-
-Šis Įstatymas nustato
-
-gyventojams nuosavybės teise priklausančio turto ir turimų piniginių lėšų
-
-(toliau – turtas) deklaravimą, taip pat turto (įskaitant gautas pajamas)
-
-deklaravimą, kreipiantis dėl valstybės garantuojamos teisinės pagalbos
-
-suteikimo arba piniginės socialinės paramos skyrimo.
-
-II SKYRIUS
-
-TURTO
-
-DEKLARAVIMAS
+papildomas 72 straipsniu nuo 2010 m. rugsėjo 15 d.:
 
 2 straipsnis.
 
@@ -2787,4 +2235,772 @@ taip pat iš pareigų atleisti valstybės tarnautojai ir jų šeimos nariai šio
 kuriais nustojo eiti pareigas arba buvo atleisti iš pareigų, gruodžio 31 dieną
 
 turimą turtą.
+
+72 straipsnis. Asmenų, ketinančių
+
+suteikti auką politinei partijai ar politinės kampanijos dalyviui, ir jų šeimos
+
+narių turto (įskaitant gautas pajamas) deklaravimas
+
+1. Asmenys,
+
+ketinantys suteikti auką politinei partijai ar politinės kampanijos dalyviui,
+
+privalo turimą turtą (įskaitant gautas pajamas) deklaruoti prieš suteikdami
+
+auką.
+
+2. Asmenys, ketinantys suteikti auką
+
+politinei partijai ar politinės kampanijos dalyviui, ir jų šeimos nariai
+
+deklaruoja mėnesio, einančio prieš mėnesį, kurį ketinama suteikti auką,
+
+paskutinę dieną turimą turtą ir gautas pajamas už praėjusius 12 mėnesių iki
+
+aukos suteikimo. Tais atvejais, kai asmuo, ketinantis suteikti auką, yra deklaravęs turimą turtą ir gautas pajamas už
+
+vienus metus (12 paskutinių mėnesių) trijų mėnesių, einančių prieš
+
+mėnesį, kurį suteikiama auka, laikotarpiu,
+
+turimo turto ir gautų pajamų už vienus
+
+metus (12 mėnesių) tam asmeniui deklaruoti nereikia.
+
+3. Gyventojai, ketinantys suteikti auką
+
+politinei partijai ar politinės kampanijos dalyviui, ir jų šeimos nariai
+
+deklaruoja turtą (įskaitant gautas pajamas) pateikdami mokesčio
+
+administratoriui du deklaracijos egzempliorius. Vietos mokesčio
+
+administratorius per 7 darbo dienas nuo deklaracijos pateikimo dienos grąžina
+
+vieną deklaracijos egzempliorių su žyma, kad deklaracija yra pateikta. Šį
+
+deklaracijos egzempliorių gyventojai pateikia politinės partijos finansininkui
+
+ar politinės kampanijos iždininkui.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr. XI-819,
+
+2010-05-18, Žin., 2010, Nr. 63-3097 (2010-05-31)
+
+III SKYRIUS
+
+BAIGIAMOSIOS
+
+NUOSTATOS
+
+8
+
+straipsnis. Duomenų kaupimas ir kontrolė
+
+Mokesčio
+
+administratorius tikrina, ar deklaracijose nurodyti duomenys yra teisingi,
+
+kaupia ir saugo pateiktas deklaracijas bei iš kitų šaltinių gautus duomenis
+
+apie gyventojų turimą turtą.
+
+9
+
+straipsnis. Atsakomybė
+
+už šio Įstatymo pažeidimą
+
+1. Šio Įstatymo
+
+2 straipsnio 1 dalies 1–19, 22 punktuose nurodyti turtą deklaruoti privalantys
+
+gyventojai, vengiantys pateikti deklaracijas, taip pat laiku arba iš viso jų
+
+nepateikę, neteisingai nurodę duomenis, atsako administracine ar baudžiamąja
+
+tvarka.
+
+2 dalies redakcija iki 2010 m. rugsėjo 15 d.:
+
+2. Jeigu
+
+gyventojas šio Įstatymo nustatyta tvarka turto nedeklaravo, tokiu turtu negali
+
+būti pagrindžiami kito turto įsigijimo šaltiniai. Jeigu dėl šio straipsnio 1
+
+dalyje nurodytų asmenų kompetentinga valstybės institucija yra pradėjusi
+
+mokestinį patikrinimą arba kitą šio straipsnio 1 dalyje nurodyto teisės
+
+pažeidimo tyrimą, šie asmenys netenka galimybės savanoriškai pateikti arba
+
+patikslinti atitinkamo laikotarpio turto deklaracijas. Jeigu deklaracija ir
+
+būtų pateikta, kompetentinga valstybės institucija į ją neatsižvelgtų ir jos
+
+nevertintų.
+
+Straipsnis papildomas nauja 2 dalimi, buvusi 2 dalis laikoma 3 dalimi nuo
+
+2010 m. rugsėjo 15 d.:
+
+2. Šio Įstatymo
+
+2 straipsnio 23 punkte nurodyti turtą privalantys deklaruoti asmenys, neteisingai
+
+nurodę deklaracijos duomenis, atsako administracine ar baudžiamąja tvarka.
+
+3. Jeigu
+
+gyventojas šio Įstatymo nustatyta tvarka turto nedeklaravo, tokiu turtu negali
+
+būti pagrindžiami kito turto įsigijimo šaltiniai. Jeigu dėl šio straipsnio 1
+
+dalyje nurodytų asmenų kompetentinga valstybės institucija yra pradėjusi
+
+mokestinį patikrinimą arba kitą šio straipsnio 1 dalyje nurodyto teisės
+
+pažeidimo tyrimą, šie asmenys netenka galimybės savanoriškai pateikti arba
+
+patikslinti atitinkamo laikotarpio turto deklaracijas. Jeigu deklaracija ir
+
+būtų pateikta, kompetentinga valstybės institucija į ją neatsižvelgtų ir jos
+
+nevertintų.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-684,
+
+2010-02-11, Žin., 2010, Nr. 25-1178 (2010-03-02)
+
+Nr. XI-819,
+
+2010-05-18, Žin., 2010, Nr. 63-3097 (2010-05-31)
+
+10
+
+straipsnis. Deklaracijos duomenų paskelbimo tvarka
+
+1. Deklaracijos
+
+duomenys gali būti skelbiami, kai yra gyventojo rašytinis sutikimas.
+
+2
+
+dalies redakcija iki 2010 m. liepos 1 d.:
+
+2. Kalendorinių
+
+metų, už kuriuos deklaruojamas turimas turtas, gruodžio 31 dieną ėjusių
+
+pareigas Respublikos Prezidento, Lietuvos Respublikos Seimo narių, Europos
+
+Parlamento narių, Ministro Pirmininko, ministrų, Ministro Pirmininko kanclerio,
+
+Ministro Pirmininko kanclerio pavaduotojų, Ministro Pirmininko tarnybos
+
+departamentų direktorių, Ministro Pirmininko patarėjų, viceministrų,
+
+savivaldybių tarybų narių, ministerijų kanclerių, Lietuvos Respublikos teismų
+
+pirmininkų, teismų pirmininkų pavaduotojų, teismų skyrių pirmininkų, teisėjų,
+
+Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės narių,
+
+Vyriausiosios administracinių ginčų komisijos narių, generalinio prokuroro,
+
+generalinio prokuroro pavaduotojų, Generalinės prokuratūros struktūrinių
+
+padalinių, taip pat apygardų ir apylinkių prokuratūrų vadovų, valstybės
+
+kontrolieriaus, valstybės kontrolieriaus pavaduotojų, Valstybės kontrolės
+
+valstybės tarnautojų, apskričių viršininkų, apskričių viršininkų pavaduotojų,
+
+Lietuvos Respublikos Vyriausybės įstaigų (departamentų, agentūrų, tarnybų,
+
+inspekcijų), prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų
+
+valstybės valdymo institucijų vadovų (generalinių direktorių, direktorių,
+
+viršininkų) ir vadovų pavaduotojų, Lietuvos banko valdybos pirmininko ir
+
+valdybos pirmininko pavaduotojų, Muitinės departamento prie Finansų
+
+ministerijos ir teritorinių muitinių valstybės tarnautojų, Valstybinės mokesčių
+
+inspekcijos prie Finansų ministerijos ir teritorinių mokesčių inspekcijų
+
+valstybės tarnautojų, Vidaus reikalų ministerijos valdymo srities statutinių
+
+įstaigų valstybės tarnautojų, Seimo kontrolierių, valstybės saugumo sistemos
+
+valstybės tarnautojų ir jų šeimos narių deklaracijų duomenys, išskyrus
+
+operatyvinės veiklos subjektų teises turinčių valstybės institucijų valstybės
+
+tarnautojų ir pareigūnų, kurių veiklą reglamentuoja Operatyvinės veiklos
+
+įstatymas, ir jų šeimos narių deklaracijų duomenis, yra skelbiami be šių
+
+gyventojų rašytinio sutikimo.
+
+2
+
+dalies redakcija nuo 2010 m. liepos 1 d.:
+
+2. Kalendorinių metų, už kuriuos
+
+deklaruojamas turimas turtas, gruodžio 31 dieną ėjusių pareigas Respublikos
+
+Prezidento, Lietuvos Respublikos Seimo narių, Europos Parlamento narių,
+
+Ministro Pirmininko, ministrų, Ministro Pirmininko kanclerio, Ministro
+
+Pirmininko kanclerio pavaduotojų, Ministro Pirmininko tarnybos departamentų
+
+direktorių, Ministro Pirmininko patarėjų, viceministrų, savivaldybių tarybų
+
+narių, ministerijų kanclerių, Lietuvos Respublikos teismų pirmininkų, teismų
+
+pirmininkų pavaduotojų, teismų skyrių pirmininkų, teisėjų, Mokestinių ginčų
+
+komisijos prie Lietuvos Respublikos Vyriausybės narių, Vyriausiosios
+
+administracinių ginčų komisijos narių, generalinio prokuroro, generalinio
+
+prokuroro pavaduotojų, Generalinės prokuratūros struktūrinių padalinių, taip
+
+pat apygardų ir apylinkių prokuratūrų vadovų, valstybės kontrolieriaus,
+
+valstybės kontrolieriaus pavaduotojų, Valstybės kontrolės valstybės tarnautojų,
+
+Lietuvos Respublikos Vyriausybės įstaigų (departamentų, agentūrų, tarnybų,
+
+inspekcijų), prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų
+
+valstybės valdymo institucijų vadovų (generalinių direktorių, direktorių,
+
+viršininkų) ir vadovų pavaduotojų, Lietuvos banko valdybos pirmininko ir
+
+valdybos pirmininko pavaduotojų, Muitinės departamento prie Finansų
+
+ministerijos ir teritorinių muitinių valstybės tarnautojų, Valstybinės mokesčių
+
+inspekcijos prie Finansų ministerijos ir teritorinių mokesčių inspekcijų
+
+valstybės tarnautojų, Vidaus reikalų ministerijos valdymo srities statutinių
+
+įstaigų valstybės tarnautojų, Seimo kontrolierių, valstybės saugumo sistemos
+
+valstybės tarnautojų ir jų šeimos narių deklaracijų duomenys, išskyrus
+
+operatyvinės veiklos subjektų teises turinčių valstybės institucijų valstybės
+
+tarnautojų ir pareigūnų, kurių veiklą reglamentuoja Operatyvinės veiklos
+
+įstatymas, ir jų šeimos narių deklaracijų duomenis, yra skelbiami be šių
+
+gyventojų rašytinio sutikimo.
+
+3. Centrinis
+
+mokesčio administratorius šio straipsnio 2 dalyje išvardytų gyventojų
+
+deklaracijų duomenis skelbia „Valstybės žinių“ specialiame priede. Pagrindinių
+
+deklaracijos duomenų išrašą nustato Lietuvos Respublikos Vyriausybė arba jos
+
+įgaliota institucija. Šių gyventojų deklaracijų, taip pat patikslintų
+
+paskutinių kalendorinių metų pagrindinių deklaracijos duomenų išrašus
+
+„Valstybės žinių“ redakcijai kasmet iki rugsėjo 1 dienos pateikia centrinis
+
+mokesčio administratorius. „Valstybės žinios“ deklaracijų išrašų duomenis,
+
+įskaitant paskutinių kalendorinių metų deklaracijų patikslintus duomenis,
+
+kasmet paskelbia iki spalio 1 dienos.
+
+4. Kiti
+
+valstybės tarnautojai ir jų šeimos nariai gali skelbti ,,Valstybės žinių“
+
+specialiame priede savo deklaracijų duomenis valstybės lėšomis. Patvirtintą
+
+pagrindinių deklaracijos duomenų išrašą ir rašytinį sutikimą skelbti
+
+deklaracijos duomenis ,,Valstybės žinių“ redakcijai pateikia pats gyventojas.
+
+Pagrindinių deklaracijos duomenų išrašų pristatymo ir skelbimo terminai yra
+
+tokie pat, kaip nurodyta šio straipsnio 3 dalyje.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-322,
+
+2009-07-07, Žin., 2009, Nr. 85-3579 (2009-07-18)
+
+Nr. XI-711,
+
+2010-03-30, Žin., 2010, Nr. 41-1936 (2010-04-10)
+
+11
+
+straipsnis. Deklaracijai užpildyti reikalingų pažymų parengimas
+
+Bankai, kitos
+
+kredito įstaigos ir kiti Lietuvos Respublikos juridiniai asmenys šio Įstatymo 2
+
+straipsnio 1 dalyje nurodytų gyventojų prašymu išduoda pažymas apie gyventojo
+
+turimą šio Įstatymo 3 straipsnio 1 dalies 3–5 punktuose nurodytą turtą. Pažymos
+
+parengiamos ir išduodamos nemokamai per 10 darbo dienų nuo prašymo gavimo
+
+dienos.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr.
+
+IX-2060, 2004-03-16,
+
+Žin., 2004, Nr. 47-1551 (2004-03-30)
+
+Skelbiu šį Lietuvos
+
+Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
+
+BRAZAUSKAS
+
+_____________
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-134,
+
+97.02.25, Žin., 1997, Nr. 23-542 (97.03.15)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAPILDYMO IR
+
+PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-623,
+
+98.02.03, Žin., 1998, Nr.16-379 (98.02.13)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 3, 6 IR 10
+
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-632,
+
+98.02.17, Žin., 1998, Nr.20-504 (98.02.25)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAKEITIMO IR
+
+PAPILDYMO ĮSTATYMAS
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-714,
+
+98.04.23, Žin., 1998, Nr.41-1096 (98.05.01)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 6, 10, 11 STRAIPSNIŲ
+
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+VIII-819,
+
+98.06.30, Žin., 1998, Nr.63-1802 (98.07.15)
+
+LIETUVOS
+
+RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 2, 3, 6, 11
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1887, 00.07.20, Žin., 2000,
+
+Nr.67-2017 (00.08.09)
+
+GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 2, 3, 5,
+
+6, 10, 11 STRAIPSNIŲ, 1, 2 PRIEDĖLIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-96, 2000 12 20, Žin., 2000, Nr.
+
+113-3605 (2000 12 30)
+
+GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 1, 2, 3,
+
+6, 8, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 5(1)
+
+STRAIPSNIU ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2001 m. sausio 1 d.
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-334, 2001 05 22, Žin., 2001, Nr.
+
+48-1658 (2001 06 06)
+
+GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 4
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-916,
+
+2002-05-30, Žin., 2002, Nr. 62-2493 (2002-06-21)
+
+GYVENTOJŲ
+
+TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 2 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-944,
+
+2002-06-11, Žin., 2002, Nr. 64-2577 (2002-06-26)
+
+GYVENTOJŲ
+
+TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 11 STRAIPSNIO IR 2 PRIEDĖLIO PAPILDYMO
+
+ĮSTATYMAS
+
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1193,
+
+2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
+
+AZARTINIŲ
+
+LOŠIMŲ ĮSTATYMO, DARBO SUTARTIES ĮSTATYMO, ĮSTATYMO „DĖL LIETUVOS RESPUBLIKOS
+
+GYVENTOJŲ PAJAMŲ BRANGIAM TURTUI ĮSIGYTI ARBA KITŲ ĮSIGYTŲ BEI PERLEIDŽIAMŲ
+
+LĖŠŲ DEKLARAVIMO“, GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAKEITIMO
+
+ĮSTATYMAS
+
+12.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1676,
+
+2003-07-01, Žin., 2003, Nr. 73-3353 (2003-07-23)
+
+GYVENTOJŲ
+
+TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 1, 5(1), 6, 11 STRAIPSNIŲ PAPILDYMO IR
+
+PAKEITIMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+
+13.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-1911,
+
+2003-12-18, Žin., 2003, Nr. 123-5583 (2003-12-30)
+
+GYVENTOJŲ
+
+TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+
+Nauja
+
+įstatymo redakcija (keistas įstatymo pavadinimas)
+
+14.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-2060,
+
+2004-03-16, Žin., 2004, Nr. 47-1551 (2004-03-30)
+
+GYVENTOJŲ
+
+TURTO DEKLARAVIMO ĮSTATYMO PAPILDYMO 11 STRAIPSNIU ĮSTATYMAS
+
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-83, 2005-01-20,
+
+Žin., 2005, Nr. 18-577 (2005-02-08)
+
+GYVENTOJŲ
+
+TURTO DEKLARAVIMO ĮSTATYMO 2 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2005 m. gegužės 1 d.
+
+16.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-1496,
+
+2008-04-15, Žin., 2008, Nr. 50-1845 (2008-04-30)
+
+GYVENTOJŲ
+
+TURTO DEKLARAVIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+17.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1838,
+
+2008-11-14, Žin., 2008, Nr. 138-5445 (2008-12-02)
+
+GYVENTOJŲ
+
+TURTO DEKLARAVIMO ĮSTATYMO 2 IR 6 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+18.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-322,
+
+2009-07-07, Žin., 2009, Nr. 85-3579 (2009-07-18)
+
+GYVENTOJŲ
+
+TURTO DEKLARAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+19.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. XI-684,
+
+2010-02-11, Žin., 2010, Nr. 25-1178 (2010-03-02)
+
+GYVENTOJŲ TURTO DEKLARAVIMO
+
+ĮSTATYMO 2, 3, 5, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO
+
+7(1) STRAIPSNIU ĮSTATYMAS
+
+Šio
+
+įstatymo nuostatos taip pat taikomos:
+
+1)
+
+nuolatiniams Lietuvos gyventojams, kurie 18 metų sulaukė 2004 ir vėlesniais
+
+metais iki šio įstatymo įsigaliojimo dienos ir nėra deklaravę turimo turto
+
+pagal Gyventojų turto deklaravimo įstatymą arba pagal Vienkartinio gyventojų
+
+turto deklaravimo įstatymą;
+
+2)
+
+18 metų sulaukusiems Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės
+
+padėties“ nustatyta tvarka įgijusiems teisę nuolat gyventi Lietuvoje asmenims,
+
+kurie šią teisę įgijo 2004 ir vėlesniais metais iki šio įstatymo įsigaliojimo
+
+dienos ir nėra deklaravę turimo turto pagal Gyventojų turto deklaravimo
+
+įstatymą arba pagal Vienkartinio gyventojų turto deklaravimo įstatymą.
+
+Šio
+
+straipsnio 1 dalyje nurodyti gyventojai iki 2010 m. gegužės 1 d. turi
+
+deklaruoti 2009 m. gruodžio 31 d. turėtą savo turtą.
+
+20.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-711, 2010-03-30,
+
+Žin., 2010, Nr. 41-1936 (2010-04-10)
+
+GYVENTOJŲ
+
+TURTO DEKLARAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2010 m. liepos 1 d.
+
+21.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. XI-819,
+
+2010-05-18, Žin., 2010, Nr. 63-3097 (2010-05-31)
+
+GYVENTOJŲ TURTO DEKLARAVIMO
+
+ĮSTATYMO 1, 2, 3, 9 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO IR ĮSTATYMO PAPILDYMO
+
+7(2) STRAIPSNIU ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2010 m. rugsėjo 15 d.
+
+***
+
+Pabaiga ***
+
+Redagavo
+
+Aušrinė Trapinskienė (2010-06-03)
+
+autrap@lrs.lt
 
