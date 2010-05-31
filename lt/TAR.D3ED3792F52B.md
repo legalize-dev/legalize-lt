@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2009-12-28"
+last_updated: "2010-05-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -3563,7 +3563,45 @@ elgesys įžeidžia žmogaus orumą ar diskredituoja valstybės ir savivaldybės
 
 ir įstaigos autoritetą;
 
+8 punkto
+
+redakcija iki 2010 m. liepos 1 d.
+
 8)
+
+kiti nusižengimai, kuriais šiurkščiai nusižengiama valstybės tarnautojo
+
+pareigoms ar valstybės tarnautojo etikos principams.
+
+6 dalis
+
+papildoma naujais 8 ir 9 punktais, buvęs 8 punktas laikomas 10 punktu nuo 2010
+
+m. liepos 1 d.:
+
+8)
+
+valstybės ar savivaldybės lėšų ir turto apskaitos pažeidimas, turėjęs
+
+reikšmingos įtakos valstybės ar savivaldybės institucijos ar įstaigos
+
+finansinių ir biudžeto vykdymo ataskaitų rinkinių, konsoliduotųjų ataskaitų
+
+rinkinių ir (ar) kitų ataskaitų duomenų teisingumui, ar reikšmingas valstybės
+
+ar savivaldybės lėšų ir turto valdymo, naudojimo ir disponavimo jais teisėtumo
+
+pažeidimas, nustatytas valstybės kontrolieriaus ar jo pavaduotojo arba
+
+savivaldybės kontrolieriaus sprendimu;
+
+9)
+
+įsiteisėjusių teismo sprendimų, susijusių su valstybės tarnautojo pareigomis ir
+
+jų atlikimu, nevykdymas;
+
+10)
 
 kiti nusižengimai, kuriais šiurkščiai nusižengiama valstybės tarnautojo
 
@@ -3573,11 +3611,19 @@ Straipsnio
 
 pakeitimai:
 
-Nr. IX-1694,
+Nr. IX-1694, 2003-07-04,
 
-2003-07-04, Žin., 2003, Nr. 73-3358 (2003-07-23)
+Žin., 2003, Nr. 73-3358 (2003-07-23)
+
+Nr. XI-811, 2010-05-13, Žin., 2010, Nr.
+
+63-3090 (2010-05-31)
 
 30 straipsnis. Tarnybinių nuobaudų skyrimas
+
+1 dalies
+
+redakcija iki 2010 m. liepos 1 d.:
 
 1. Tarnybinė nuobauda turi būti paskirta ne
 
@@ -3593,13 +3639,13 @@ du mėnesius nuo baudžiamosios bylos nutraukimo arba teismo nuosprendžio
 
 įsiteisėjimo dienos, tarnybinio ar kito kompetentingos institucijos patikrinimo
 
-užbaigimo dienos. Tarnybinio nusižengimo tyrimas pradedamas valstybės
+užbaigimo dienos. Tarnybinio nusižengimo tyrimas pradedamas valstybės tarnautoją
 
-tarnautoją į pareigas priėmusio asmens arba, jeigu valstybės tarnautoją į
+į pareigas priėmusio asmens arba, jeigu valstybės tarnautoją į pareigas priima
 
-pareigas priima Vyriausybė, savivaldybės taryba, – Ministro
+Vyriausybė, savivaldybės taryba, – Ministro Pirmininko,
 
-Pirmininko, savivaldybės mero iniciatyva arba kai jie gauna oficialią informaciją
+savivaldybės mero iniciatyva arba kai jie gauna oficialią informaciją
 
 apie valstybės tarnautojo tarnybinį nusižengimą. Negalima skirti tarnybinės
 
@@ -3612,6 +3658,60 @@ kitokių vertybių reviziją (inventorizaciją) arba tarnybinį ar kitą
 kompetentingos institucijos patikrinimą. Šiais atvejais tarnybinė nuobauda turi
 
 būti skiriama ne vėliau kaip per trejus metus nuo nusižengimo padarymo dienos.
+
+1 dalies
+
+redakcija nuo 2010 m. liepos 1 d.:
+
+1. Tarnybinė
+
+nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo tarnybinio
+
+nusižengimo paaiškėjimo dienos, neįskaitant laiko, kurį valstybės tarnautojas
+
+nebuvo darbe dėl ligos, buvo komandiruotėje arba atostogavo, o iškėlus
+
+baudžiamąją bylą arba Seimo kontrolieriui atliekant tyrimą, taip pat atliekant
+
+tarnybinį ar kitą kompetentingos institucijos patikrinimą – ne vėliau kaip per
+
+du mėnesius nuo baudžiamosios bylos nutraukimo arba teismo nuosprendžio
+
+įsiteisėjimo dienos, Seimo kontrolieriaus pažymos surašymo, tarnybinio ar kito
+
+kompetentingos institucijos patikrinimo užbaigimo dienos. Tarnybinio
+
+nusižengimo tyrimas pradedamas valstybės tarnautoją į pareigas priėmusio asmens
+
+arba, jeigu valstybės tarnautoją į pareigas priima Vyriausybė, savivaldybės
+
+taryba, – Ministro Pirmininko, savivaldybės mero iniciatyva arba kai jie gauna
+
+oficialią informaciją apie valstybės tarnautojo tarnybinį nusižengimą. Jeigu
+
+įsiteisėjusiame teismo sprendime konstatuota, kad valstybės ar savivaldybės
+
+institucija ar įstaiga pažeidė įstatymus ar kitus teisės aktus, šioje valstybės
+
+ar savivaldybės institucijoje ar įstaigoje turi būti pradėtas valstybės
+
+tarnautojų, dėl kurių galimos kaltės buvo padaryti įsiteisėjusiame teismo
+
+sprendime konstatuoti įstatymų ar kitų teisės aktų pažeidimai, tarnybinio
+
+nusižengimo tyrimas. Negalima skirti tarnybinės nuobaudos, jeigu nuo
+
+nusižengimo padarymo dienos praėjo 6 mėnesiai, išskyrus atvejus, kai tarnybinis
+
+nusižengimas nustatomas atliekant auditą, piniginių ar kitokių vertybių
+
+reviziją (inventorizaciją) arba kai Seimo kontrolierius atlieka tyrimą, taip
+
+pat kai atliekamas tarnybinis ar kitas kompetentingos institucijos
+
+patikrinimas. Šiais atvejais tarnybinė nuobauda turi būti skiriama ne vėliau
+
+kaip per trejus metus nuo nusižengimo padarymo dienos.
 
 2. (Neteko galios)
 
@@ -3662,6 +3762,10 @@ Nr. IX-2351,
 Nr. X-464, 2005-12-22,
 
 Žin., 2006, Nr. 4-97 (2006-01-12)
+
+Nr. XI-811, 2010-05-13, Žin., 2010, Nr.
+
+63-3090 (2010-05-31)
 
 straipsnio 5 ir 6 dalys, 31 straipsnis, 311
 
@@ -4085,6 +4189,10 @@ reikalavimo) teisė į žalą padariusį valstybės tarnautoją
 
 tvarka.
 
+2 dalies
+
+redakcija iki 2010 m. liepos 1 d.:
+
 2. Valstybės
 
 tarnautojo padarytą žalą atlyginusi valstybės ar savivaldybės institucija
@@ -4098,6 +4206,30 @@ tarnautojo tokio dydžio žalos atlyginimo, kiek ji sumokėjo, bet ne daugiau ka
 iš valstybės tarnautojo darbo užmokesčio ir negali viršyti 20 procentų
 
 valstybės tarnautojui priklausančio per mėnesį mokėti darbo užmokesčio.
+
+2 dalies
+
+redakcija nuo 2010 m. liepos 1 d.:
+
+2.
+
+Valstybės tarnautojo padarytą žalą atlyginusi valstybės ar savivaldybės
+
+institucija ar įstaiga turi regreso teisę reikalauti iš žalą padariusio
+
+valstybės tarnautojo tokio dydžio žalos atlyginimo, kiek ji sumokėjo, bet ne
+
+daugiau kaip 9 vidutinių valstybės tarnautojo darbo užmokesčių. Jeigu valstybės
+
+tarnautojas žalą padarė tyčia, valstybės ar savivaldybės institucija ar įstaiga
+
+į padariusį žalą valstybės tarnautoją turi tokio dydžio regreso teisę, kiek ji
+
+sumokėjo žalos atlyginimo. Žalos atlyginimas išieškomas iš valstybės tarnautojo
+
+darbo užmokesčio ir negali viršyti 20 procentų valstybės tarnautojui
+
+priklausančio per mėnesį mokėti darbo užmokesčio.
 
 3.
 
@@ -4113,13 +4245,13 @@ atleidžiami tie asmenys, kurie balsavo prieš tokį sprendimą arba nedalyvavo
 
 posėdyje jį priimant ir per 7 dienas po to, kai sužinojo ar turėjo sužinoti
 
-apie tokį sprendimą, įteikė institucijos vadovui rašytinį pareiškimą. Kolegialios
+apie tokį sprendimą, įteikė institucijos vadovui rašytinį pareiškimą.
 
-valstybės ar savivaldybės institucijos vadovo ir nario atsistatydinimas ar
+Kolegialios valstybės ar savivaldybės institucijos vadovo ir nario
 
-atšaukimas iš pareigų neatleidžia jų nuo padarytos dėl jų kaltės žalos
+atsistatydinimas ar atšaukimas iš pareigų neatleidžia jų nuo padarytos dėl jų kaltės
 
-atlyginimo. Ginčus dėl žalos atlyginimo sprendžia teismas.
+žalos atlyginimo. Ginčus dėl žalos atlyginimo sprendžia teismas.
 
 34 straipsnis. Nušalinimas nuo pareigų
 
@@ -4969,9 +5101,9 @@ sprendimu yra pasiųsti į šio Įstatymo nustatytą mokymą (išskyrus šio
 
 2) kai valstybės tarnautojai yra išsiųsti į
 
-tarnybinę komandiruotę, – darbo dienomis komandiruotėje bei komandiruotės metu kelionėje
+tarnybinę komandiruotę, – darbo dienomis komandiruotėje bei komandiruotės metu
 
-išbūtą laiką;
+kelionėje išbūtą laiką;
 
 3) kai valstybės tarnautojai pagal kvietimą ar
 
@@ -5393,9 +5525,9 @@ dienos privalo jas išklausyti;
 
 2) kvalifikacijos tobulinimas – tęstinės studijos,
 
-specialių profesinių žinių plėtimas, valstybės valdymo ir administravimo įgūdžių
+specialių profesinių žinių plėtimas, valstybės valdymo ir administravimo
 
-bei gebėjimų tobulinimas paties valstybės tarnautojo arba valstybės ar
+įgūdžių bei gebėjimų tobulinimas paties valstybės tarnautojo arba valstybės ar
 
 savivaldybės institucijos ar įstaigos iniciatyva per visą tarnybos einant
 
@@ -9235,9 +9367,9 @@ dalinio
 
 vado pavaduotojas, skyriaus viršininkas
 
-(taikoma struktūriniam padaliniui, nesančiam
+(taikoma struktūriniam padaliniui,
 
-kitame struktūrinia-me padalinyje),
+nesančiam kitame struktūrinia-me padalinyje),
 
 komisariato
 
