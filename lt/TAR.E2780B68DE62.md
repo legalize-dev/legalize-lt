@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2010-05-11"
+last_updated: "2010-06-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -233,7 +233,25 @@ tiesiogiai ar netiesiogiai atsiradęs neigiamas aplinkos ar jos elementų
 
 arba jų funkcijų, turimų savybių, naudingų aplinkai
 
-ar žmonėms (visuomenei), (toliau – funkcijos) pablogėjimas.
+ar žmonėms (visuomenei), (toliau – funkcijos) pablogėjimas;
+
+22)
+
+suinteresuota visuomenė – vienas arba daugiau fizinių ar juridinių
+
+asmenų, kuriems daro arba gali daryti poveikį sprendimai, veiksmai ar
+
+neveikimas aplinkos ir jos apsaugos bei gamtos išteklių naudojimo srityje arba
+
+kurie yra suinteresuoti šių sprendimų procesu. Pagal šią apibrėžtį asociacijos
+
+ir kiti viešieji juridiniai asmenys (išskyrus valstybės ar savivaldybės, jų
+
+institucijų įsteigtus juridinius asmenis), kurie įsteigti teisės aktų nustatyta
+
+tvarka ir skatina aplinkos apsaugą, visais atvejais laikomi suinteresuotais
+
+asmenimis.
 
 Straipsnio pakeitimai:
 
@@ -259,6 +277,10 @@ Nr. X-147, 2005-03-24,
 
 Žin., 2005, Nr. 47-1558 (2005-04-12)
 
+Nr. XI-858,
+
+2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
+
 2 straipsnis. Įstatymo paskirtis
 
 Šis
@@ -283,15 +305,17 @@ aktai.
 
 Šis įstatymas skirtas
 
-užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, įgyvendinimą.
+užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede,
+
+įgyvendinimą.
 
 Straipsnio pakeitimai:
 
 Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-Nr. IX-2032, 2004-02-19,
+Nr. IX-2032,
 
-Žin., 2004, Nr. 36-1179 (2004-03-07)
+2004-02-19, Žin., 2004, Nr. 36-1179 (2004-03-07)
 
 Nr. X-147, 2005-03-24,
 
@@ -415,11 +439,9 @@ politiką, sistemą;
 
 institucijų veiklą aplinkos apsaugos ir gamtos išteklių naudojimo srityje;
 
-4) sudaro ir įgyvendina Lietuvos Respublikos
+4) sudaro ir įgyvendina Lietuvos Respublikos tarpvalstybines
 
-tarpvalstybines sutartis aplinkos apsaugos ir gamtos išteklių naudojimo
-
-srityje;
+sutartis aplinkos apsaugos ir gamtos išteklių naudojimo srityje;
 
 5) vykdo kitas įstatymų nustatytas funkcijas.
 
@@ -563,15 +585,15 @@ programos lėšas;
 
 15) nustatyta tvarka pagal savo kompetenciją palaiko
 
-ryšius su užsienio valstybių atitinkamomis institucijomis ir tarptautinėmis organizacijomis,
+ryšius su užsienio valstybių atitinkamomis institucijomis ir tarptautinėmis
 
-rengia tarptautinių sutarčių projektus, pasirašo šias sutartis, organizuoja jų
+organizacijomis, rengia tarptautinių sutarčių projektus, pasirašo šias
 
-įgyvendinimą, taip pat Lietuvos Respublikos Vyriausybės ar Ministro Pirmininko
+sutartis, organizuoja jų įgyvendinimą, taip pat Lietuvos Respublikos
 
-pavedimu atstovauja Lietuvos Respublikai užsienio valstybėse ar tarptautinėse
+Vyriausybės ar Ministro Pirmininko pavedimu atstovauja Lietuvos Respublikai
 
-organizacijose;
+užsienio valstybėse ar tarptautinėse organizacijose;
 
 16) rengia ataskaitas apie aplinkos būklę Lietuvos Respublikoje,
 
@@ -691,13 +713,13 @@ Nr. X-147, 2005-03-24,
 
 Nr.
 
-XI-783, 2010-04-27,
+XI-783,
 
-Žin., 2010, Nr. 54-2646 (2010-05-11)
+2010-04-27, Žin., 2010, Nr. 54-2646 (2010-05-11)
 
 II SKYRIUS. LIETUVOS RESPUBLIKOS PILIEČIŲ,
 
-VISUOMENINIŲ ORGANIZACIJŲ, KITŲ JURIDINIŲ IR FIZINIŲ ASMENŲ TEISĖS IR PAREIGOS
+SUINTERESUOTOS VISUOMENĖS, KITŲ JURIDINIŲ IR FIZINIŲ ASMENŲ TEISĖS IR PAREIGOS
 
 Skyriaus pavadinimas keistas:
 
@@ -707,59 +729,87 @@ IX-677,
 
 2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
 
-7 straipsnis.
+Nr. XI-858,
 
-Piliečių, visuomeninių organizacijų, kitų juridinių ir fizinių asmenų teisės
+2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
 
-Piliečiai, visuomeninės organizacijos, kiti juridiniai ir fiziniai
+7 straipsnis. Suinteresuotos visuomenės, kitų juridinių ir
 
-asmenys turi teisę:
+fizinių asmenų teisės
 
-1) nustatyta tvarka gauti informaciją apie aplinką;
+1. Vienas arba daugiau fizinių
 
-2) nustatyta tvarka dalyvauti planuojamos ūkinės veiklos poveikio
+ar juridinių asmenų, suinteresuota visuomenė turi teisę:
 
-aplinkai vertinimo procese;
+1) nustatyta tvarka gauti
 
-3) reikalauti, kad būtų nutrauktas kenksmingas ūkinės veiklos objektų
+informaciją apie aplinką;
 
-poveikis aplinkai;
+2) nustatyta tvarka dalyvauti
 
-4) įstatymų nustatyta tvarka teikti motyvuotus pasiūlymus dėl poveikio
+planuojamos ūkinės veiklos poveikio aplinkai vertinimo procese;
 
-aplinkai vertinimo privalomumo;
+3) reikalauti, kad būtų
 
-5) atlikti visuomeninį poveikio aplinkai vertinimą;
+nutrauktas kenksmingas ūkinės veiklos objektų poveikis aplinkai;
 
-6) organizuoti ir dalyvauti vykdant visuomeninę aplinkos apsaugos
+4) įstatymų nustatyta tvarka
 
-kontrolę;
+teikti pasiūlymus dėl poveikio aplinkai vertinimo privalomumo;
 
-7) reikalauti, kad valstybės valdžios ir valdymo institucijos
+5) atlikti visuomeninį
 
-organizuotų aplinkosauginį švietimą ir mokymą, nevaržomai skleisti aplinkos
+poveikio aplinkai vertinimą;
 
-apsaugos idėjas;
+6) organizuoti ir dalyvauti
+
+vykdant visuomeninę aplinkos kontrolę;
+
+7) reikalauti, kad valstybės
+
+valdžios ir valdymo institucijos organizuotų aplinkosauginį švietimą ir mokymą,
+
+taip pat nevaržomai skleisti aplinkos apsaugos idėjas;
 
 8) Lietuvos Respublikos
 
-įstatymų nustatyta tvarka paduoti skundą (prašymą) reikalaudami imtis
+įstatymų nustatyta tvarka paduoti skundą (prašymą), reikalaudami imtis
 
 atitinkamų veiksmų, kad būtų išvengta ar sumažinta žala aplinkai arba atkurta
 
-iki pradinės aplinkos būklė, bei nubausti asmenis, kaltus dėl kenksmingo
+iki pradinės aplinkos būklė, ir reikalaudami nubausti asmenis, kaltus dėl
 
-poveikio aplinkai, ir pareigūnus, kurių priimti sprendimai ar veiksmai
+kenksmingo poveikio aplinkai, ir pareigūnus, kurių priimti sprendimai ar
 
-(neveikimas) pažeidė piliečių, visuomeninių organizacijų, kitų juridinių ir
+veiksmai (neveikimas) pažeidė piliečių, suinteresuotos visuomenės, kitų
 
-fizinių asmenų teises ar įstatymų saugomus interesus;
+juridinių ir fizinių asmenų teises ar įstatymų saugomus interesus;
 
 9) lankytis gamtinėse
 
-teritorijose, išskyrus tas, kurių lankymas draudžiamas ar ribojamas nustatyta
+teritorijose, išskyrus tas, kurių lankymas draudžiamas ar ribojamas;
 
-tvarka.
+10) Lietuvos Respublikos
+
+įstatymų nustatyta tvarka kreiptis į teismą, jei mano, kad jo (jų) prašymas,
+
+pateiktas teisės aktų, reglamentuojančių teisę gauti informaciją apie aplinką,
+
+nustatyta tvarka, buvo neteisėtai atmestas, į jį buvo iš dalies ar visiškai
+
+netinkamai atsakyta arba į prašymą deramai neatsižvelgta pagal teisės aktus,
+
+reglamentuojančius teisę gauti informaciją apie aplinką.
+
+2. Suinteresuota visuomenė turi teisę
+
+Lietuvos Respublikos įstatymų nustatyta tvarka kreiptis į teismą dėl viešojo
+
+intereso gynimo užginčijant sprendimų, veiksmų ar neveikimo aplinkos ir jos
+
+apsaugos bei gamtos išteklių naudojimo srityje materialinį ar procesinį
+
+teisėtumą.
 
 Straipsnio pakeitimai:
 
@@ -773,19 +823,27 @@ Nr.39-1093 (00.05.12)
 
 Nr.
 
-IX-677, 2001-12-20,
+IX-677,
 
-Žin., 2002, Nr. 2-49 (2002-01-09)
+2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
 
 Nr. X-147, 2005-03-24,
 
 Žin., 2005, Nr. 47-1558 (2005-04-12)
 
-8 straipsnis. Valstybės
+Nr. XI-858,
 
-valdžios, valdymo ir kontrolės institucijų pareigos užtikrinant piliečių,
+2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
 
-visuomeninių organizacijų, kitų juridinių ir fizinių asmenų teises
+8 straipsnis.
+
+Valstybės valdžios, valdymo ir kontrolės institucijų pareigos
+
+užtikrinant piliečių,
+
+suinteresuotos visuomenės, kitų juridinių ir fizinių
+
+asmenų teises
 
 Valstybės
 
@@ -799,11 +857,9 @@ ekologiškai pagrįstus ir techniniu požiūriu įgyvendinamus aplinkos kokybės
 
 normatyvus bei standartus;
 
-2) tenkinti arba motyvuotai atmesti piliečių,
+2) tenkinti arba motyvuotai atmesti piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių
 
-visuomeninių organizacijų, kitų juridinių ir fizinių asmenų pasiūlymus aplinkos
-
-apsaugos klausimais;
+asmenų pasiūlymus aplinkos apsaugos klausimais;
 
 3)
 
@@ -817,15 +873,17 @@ neleisti, kad ūkinės veiklos subjektai pažeistų aplinkos apsaugos įstatymus
 
 normatyvus ir standartus;
 
-5) atsižvelgti į motyvuotus visuomenės pasiūlymus dėl
+5) įvertinti ir deramai
 
-planuojamos ūkinės veiklos poveikio aplinkai vertinimo privalomumo;
+atsižvelgti į visuomenės pasiūlymus dėl planuojamos ūkinės veiklos poveikio
 
-6) įvertinti motyvuotus visuomenės pasiūlymus dėl
+aplinkai vertinimo privalomumo;
 
-planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir galimo planuojamos
+6) įvertinti ir deramai atsižvelgti į
 
-ūkinės veiklos poveikio aplinkai;
+visuomenės pasiūlymus dėl planuojamos ūkinės veiklos poveikio aplinkai
+
+vertinimo ir galimo planuojamos ūkinės veiklos poveikio aplinkai;
 
 7) užtikrinti, kad būtų atlyginta padaryta žala ar neigiamas poveikis aplinkai, o neteisėta veikla
 
@@ -835,11 +893,11 @@ padarę žalą aplinkai kalti asmenys – nubausti;
 
 tvarka teikti informaciją apie aplinką;
 
-9) skatinti
+9) skatinti piliečius, suinteresuotą
 
-piliečius, visuomenines organizacijas, kitus juridinius ir fizinius asmenis
+visuomenę, kitus juridinius ir fizinius asmenis dalyvauti priimant ir
 
-dalyvauti priimant ir įgyvendinant sprendimus aplinkos apsaugos srityje;
+įgyvendinant sprendimus aplinkos apsaugos srityje;
 
 10) nustatyta tvarka reikalauti, kad atsakingi asmenys
 
@@ -867,17 +925,19 @@ Nr. X-147, 2005-03-24,
 
 Žin., 2005, Nr. 47-1558 (2005-04-12)
 
-9 straipsnis.
+Nr. XI-858,
 
-Piliečių, visuomeninių organizacijų, kitų juridinių ir fizinių asmenų
+2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
 
-pareigos
+9 straipsnis. Piliečių, suinteresuotos visuomenės, kitų
 
-Piliečiai, visuomeninės organizacijos, kiti juridiniai
+juridinių ir fizinių asmenų pareigos
 
-ir fiziniai asmenys privalo saugoti aplinką, tausoti gamtos išteklius ir
+Piliečiai, suinteresuota visuomenė, kiti
 
-nepažeisti kitų gamtos išteklių naudotojų teisių bei interesų.
+juridiniai ir fiziniai asmenys privalo saugoti aplinką, tausoti gamtos
+
+išteklius ir nepažeisti kitų gamtos išteklių naudotojų teisių bei interesų.
 
 Straipsnio pakeitimai:
 
@@ -886,6 +946,10 @@ Nr.
 IX-677,
 
 2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
+
+Nr. XI-858,
+
+2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
 
 10 straipsnis. Užsienio valstybių piliečių
 
@@ -1085,9 +1149,9 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-Nr. VIII-1637, 00.04.18, Žin., 2000,
+Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093
 
-Nr.39-1093 (00.05.12)
+(00.05.12)
 
 16 straipsnis. Ūkinės veiklos, galinčios
 
@@ -1097,9 +1161,9 @@ Juridinių
 
 bei fizinių asmenų ūkinės veiklos, galinčios turėti poveikį aplinkai,
 
-teritorinis organizavimas ir aplinkos tvarkymo valstybinis reguliavimas
+teritorinis organizavimas ir aplinkos tvarkymo valstybinis reguliavimas vykdomas
 
-vykdomas pagal bendrojo ir specialiojo teritorinio planavimo dokumentus.
+pagal bendrojo ir specialiojo teritorinio planavimo dokumentus.
 
 Juridiniai
 
@@ -1125,9 +1189,9 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093
+Nr. VIII-1637, 00.04.18, Žin., 2000,
 
-(00.05.12)
+Nr.39-1093 (00.05.12)
 
 17 straipsnis. Ūkinės veiklos objektų
 
@@ -1187,9 +1251,9 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-Nr. IX-2113,
+Nr. IX-2113, 2004-04-13,
 
-2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
+Žin., 2004, Nr. 60-2121 (2004-04-24)
 
 19 straipsnis. Ūkinės veiklos objektų
 
@@ -1253,13 +1317,11 @@ Juridiniai
 
 ir fiziniai asmenys, naudodami pavojingas chemines medžiagas, privalo laikytis
 
-nustatytos šių medžiagų naudojimo, saugojimo, apskaitos, laidojimo,
+nustatytos šių medžiagų naudojimo, saugojimo, apskaitos, laidojimo, nukenksminimo,
 
-nukenksminimo, transportavimo, tranzito, įvežimo ir išvežimo tvarkos. Tokios
+transportavimo, tranzito, įvežimo ir išvežimo tvarkos. Tokios medžiagos
 
-medžiagos saugomos, laidojamos ir nukenksminamos jų gamintojo ar naudotojo
-
-lėšomis.
+saugomos, laidojamos ir nukenksminamos jų gamintojo ar naudotojo lėšomis.
 
 Pavojingų
 
@@ -1565,9 +1627,9 @@ Aplinkos apsaugos rėmimo programos lėšos ir
 
 Savivaldybių aplinkos apsaugos rėmimo specialiosios programos lėšos yra
 
-papildomi aplinkos apsaugos finansavimo šaltiniai. Papildomas finansavimo šaltinis
+papildomi aplinkos apsaugos finansavimo šaltiniai. Papildomas finansavimo
 
-gali būti užsienio kreditai.
+šaltinis gali būti užsienio kreditai.
 
 Aplinkos apsaugos rėmimo programos lėšas bei jų
 
@@ -1609,9 +1671,9 @@ apsaugos kontrolė
 
 Lietuvos Respublikoje valstybinę aplinkos apsaugos ir
 
-gamtos išteklių naudojimo kontrolę vykdo Aplinkos ministerijos sistemos pareigūnai
+gamtos išteklių naudojimo kontrolę vykdo Aplinkos ministerijos sistemos
 
-– valstybiniai aplinkos apsaugos inspektoriai.
+pareigūnai – valstybiniai aplinkos apsaugos inspektoriai.
 
 Vykdydami
 
@@ -1839,11 +1901,11 @@ Aplinkos ministerija arba jos įgaliota institucija bet
 
 kuriuo momentu turi teisę ir pareigą:
 
-1) reikalauti, kad ūkio subjektas pateiktų visą
+1) reikalauti, kad ūkio subjektas pateiktų visą informaciją
 
-informaciją apie bet kurią situaciją, kurios metu atsirado žala aplinkai arba
+apie bet kurią situaciją, kurios metu atsirado žala aplinkai arba jos grėsmė
 
-jos grėsmė arba kai įtariama, kad tokia situacija gali atsirasti;
+arba kai įtariama, kad tokia situacija gali atsirasti;
 
 2) reikalauti, kad ūkio subjektas imtųsi būtinų
 
@@ -1855,9 +1917,9 @@ atitinkamam subjektui nurodymus dėl visų veiksmų, susijusių su teršalų
 
 surinkimu ir (arba) kitokių darančių žalą aplinkai veiksnių pašalinimu,
 
-kontrole ar kitokiu jų valdymu, kad būtų išvengta žalos arba sumažinta žala
+kontrole ar kitokiu jų valdymu, kad būtų išvengta žalos arba sumažinta žala aplinkai
 
-aplinkai ir neigiamas poveikis žmonių sveikatai;
+ir neigiamas poveikis žmonių sveikatai;
 
 4) duoti ūkio subjektui privalomus vykdyti nurodymus
 
@@ -1949,9 +2011,9 @@ Pareikšti ieškinius dėl padarytos žalos turi teisę:
 
 padaryta žalos;
 
-2) Aplinkos ministerijos pareigūnai, kiti įstatymų įgalioti
+2) Aplinkos ministerijos pareigūnai, kiti įstatymų
 
-pareigūnai, kai padaryta žalos valstybės interesams.
+įgalioti pareigūnai, kai padaryta žalos valstybės interesams.
 
 Aplinkos ministerija, jai pavaldžios ar kitos valstybės ar savivaldybių institucijos pagal kompetenciją ieškinius dėl žalos
 
@@ -2083,33 +2145,41 @@ Nr.
 
 I-2223
 
-Lietuvos Respublikos
+Lietuvos
 
-1992
+Respublikos
 
-m. sausio 21 d. įstatymo
+aplinkos
 
-Nr.
-
-I-2223
+apsaugos įstatymo
 
 priedas
 
-ĮGYVENDINAMI EUROPOS SĄJUNGOS
-
-TEISĖS AKTAI
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
 1. 2001 m. birželio 27 d.
 
 Europos Parlamento ir Tarybos direktyva 2001/42/EB dėl tam tikrų planų ir
 
-programų pasekmių aplinkai vertinimo.
+programų pasekmių aplinkai vertinimo (OL 2004 m. specialusis leidimas,
 
-2. 2004 m. balandžio 21 d. Europos Parlamento ir
+15 skyrius, 6 tomas, p. 157).
 
-Tarybos direktyva 2004/35/EB dėl atsakomybės už žalą aplinkai, numatant žalos
+2. 2004 m. balandžio 21 d.
 
-aplinkai prevenciją bei jos atlyginimą.
+Europos Parlamento ir Tarybos direktyva 2004/35/EB dėl atsakomybės už aplinkos
+
+apsaugą siekiant išvengti žalos aplinkai ir ją ištaisyti (atlyginti) (OL 2004
+
+m. specialusis leidimas, 15 skyrius, 8 tomas, p. 357) su paskutiniais
+
+pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir
+
+Tarybos direktyva 2009/31/EB (OL 2009 L 140, p. 114).
+
+3. 2008 m. sausio 15 d. Europos Parlamento ir Tarybos direktyva 2008/1/EB dėl taršos integruotos prevencijos ir
+
+kontrolės (OL 2008 L 24, p. 8).
 
 Įstatymas papildytas priedu:
 
@@ -2123,15 +2193,17 @@ Nr. X-147, 2005-03-24,
 
 Žin., 2005, Nr. 47-1558 (2005-04-12)
 
+Nr. XI-858,
+
+2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
+
 ________________
 
 Pakeitimai:
 
 1.
 
-Lietuvos Respublikos Seimas,
-
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. I-1352,
 
@@ -2309,17 +2381,31 @@ APSAUGOS ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Įstatymas
 
-įsigalioja 2010-07-01.
+įsigalioja 2010 m. liepos 1 d.
 
-***
+12.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas,
 
-Redagavo
+Įstatymas
 
-Aušra Bodin (2010-05-11)
+Nr. XI-858, 2010-05-28,
 
-aubodi@lrs.lt
+Žin., 2010, Nr. 70-3472 (2010-06-17)
+
+APLINKOS
+
+APSAUGOS ĮSTATYMO 1, 7, 8, 9 STRAIPSNIŲ, II SKYRIAUS PAVADINIMO IR PRIEDO
+
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2010-06-17)
+
+autrap@lrs.lt
 
 27 straipsnis. Planų ir
 
@@ -2373,13 +2459,13 @@ neatsižvelgiant į jų kaltę, už bet kokią žalą aplinkai arba realią jos 
 
 atsiradusią dėl jų ūkinės veiklos, išskyrus šiame įstatyme numatytus atvejus.
 
-Šio straipsnio antrojoje dalyje nurodyta civilinė
+Šio straipsnio antrojoje dalyje nurodyta civilinė atsakomybė
 
-atsakomybė netaikoma asmenims, vykdantiems veiklą, kurios pagrindinė paskirtis
+netaikoma asmenims, vykdantiems veiklą, kurios pagrindinė paskirtis – krašto
 
-– krašto apsauga arba tarptautinis saugumas bei kurios vienintelė paskirtis –
+apsauga arba tarptautinis saugumas bei kurios vienintelė paskirtis – apsauga
 
-apsauga nuo stichinių nelaimių.
+nuo stichinių nelaimių.
 
 Ginčus
 
@@ -2419,21 +2505,21 @@ Lietuvos Respublikos upių,
 
 ežerų ir tvenkinių kadastras
 
-1. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastras
+1. Lietuvos Respublikos upių, ežerų ir tvenkinių
 
-yra valstybės kadastras.
+kadastras yra valstybės kadastras.
 
 2. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastras steigiamas,
 
 reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės registrų
 
-įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka. Lietuvos Respublikos
+įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka. Lietuvos
 
-upių, ežerų ir tvenkinių kadastrą tvarko vadovaujančioji kadastro tvarkymo
+Respublikos upių, ežerų ir tvenkinių kadastrą tvarko vadovaujančioji kadastro
 
-įstaiga – Lietuvos Respublikos aplinkos ministerija ir kadastro tvarkymo
+tvarkymo įstaiga – Lietuvos Respublikos aplinkos ministerija ir kadastro
 
-įstaiga – Aplinkos apsaugos agentūra.
+tvarkymo įstaiga – Aplinkos apsaugos agentūra.
 
 3. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastre Lietuvos
 
