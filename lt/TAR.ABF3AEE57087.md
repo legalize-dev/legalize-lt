@@ -4,7 +4,7 @@ identifier: "TAR.ABF3AEE57087"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-11-21"
-last_updated: "2010-04-10"
+last_updated: "2010-06-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ABF3AEE57087"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -197,25 +197,27 @@ steigtis profesiniu, pareiginiu, gamybiniu, teritoriniu ar kitais pačių
 
 profesinių sąjungų nustatytais principais.
 
-Profesinei sąjungai įsteigti
+Profesinei
 
-būtina, kad ji turėtų:
+sąjungai įsteigti būtina, kad ji turėtų:
 
-1) ne mažiau kaip 30
+1) ne mažiau
 
-steigėjų arba įmonėje, įstaigoje, organizacijoje būtų ne mažiau kaip 30
+kaip 20 steigėjų arba įmonėje, įstaigoje, organizacijoje steigėjai sudarytų ne
 
-steigėjų ar jie sudarytų ne mažiau kaip 1/5 dalį visų darbuotojų, tačiau ne
+mažiau kaip 1/10 visų darbuotojų (o 1/10 visų darbuotojų būtų ne mažiau kaip
 
-mažiau kaip 3 darbuotojai;
+trys darbuotojai), ir profesinės sąjungos susirinkime yra patvirtinti jos
 
-2) susirinkime patvirtintus
+įstatai bei išrinkti valdymo organai;
 
-įstatus (statutą);
+2) susirinkime
+
+patvirtintus įstatus;
 
 3) išrinktus
 
-vadovaujančiuosius organus;
+valdymo organus;
 
 4) priimtą sprendimą dėl buveinės.
 
@@ -232,6 +234,10 @@ pakeitimai:
 Nr. XI-599,
 
 2009-12-22, Žin., 2010, Nr. 1-10 (2010-01-05)
+
+Nr. XI-882, 2010-06-04, Žin., 2010, Nr. 71-3555
+
+(2010-06-19)
 
 7
 
@@ -409,9 +415,9 @@ sąjungos arba jų susivienijimai teisės aktų nustatyta tvarka turi pateikti
 
 Juridinių asmenų registrui profesinės sąjungos įstatus (statutą) ir kitus
 
-dokumentus, patvirtinančius šio įstatymo 6 straipsnio 2 dalyje nurodytų
+dokumentus, patvirtinančius šio įstatymo 6 straipsnio 2 dalyje nurodytų aplinkybių
 
-aplinkybių buvimą.
+buvimą.
 
 Profesinės
 
@@ -561,9 +567,9 @@ Nr. IX-230,
 
 2001 03 27, Žin., 2001, Nr. 28-901 (2001 03 30)
 
-Nr. XI-599,
+Nr. XI-599, 2009-12-22,
 
-2009-12-22, Žin., 2010, Nr. 1-10 (2010-01-05)
+Žin., 2010, Nr. 1-10 (2010-01-05)
 
 Nr. XI-712, 2010-03-30, Žin., 2010, Nr. 41-1937
 
@@ -589,15 +595,15 @@ Profesinei sąjungai, jų
 
 susivienijimui pažeidus Lietuvos Respublikos Laikinąjį Pagrindinį Įstatymą
 
-(Konstituciją) ir šį įstatymą, ją įregistravęs organas apie pažeidimą raštu
+(Konstituciją) ir šį įstatymą, ją įregistravęs organas apie pažeidimą raštu praneša
 
-praneša profesinės sąjungos, susivienijimo vadovaujantiems organams ir nurodo
+profesinės sąjungos, susivienijimo vadovaujantiems organams ir nurodo terminą,
 
-terminą, per kurį pažeidimai turi būti pašalinti. Jei pažeidimai nepašalinti,
+per kurį pažeidimai turi būti pašalinti. Jei pažeidimai nepašalinti, profesinės
 
-profesinės sąjungos, jų susivienijimo įstatus (statutą) registravęs organas,
+sąjungos, jų susivienijimo įstatus (statutą) registravęs organas, taip pat
 
-taip pat prokuroras turi teisę kreiptis į teismą dėl profesinės sąjungos, jų
+prokuroras turi teisę kreiptis į teismą dėl profesinės sąjungos, jų
 
 susivienijimo veiklos sustabdymo.
 
@@ -663,9 +669,9 @@ Jeigu yra profesinės
 
 sąjungos nario prašymas, darbdavys privalo kiekvieną mėnesį išskaičiuoti iš
 
-profesinės sąjungos nario darbo užmokesčio nustatyto dydžio nario mokestį ir pervesti
+profesinės sąjungos nario darbo užmokesčio nustatyto dydžio nario mokestį ir
 
-jį į profesinės sąjungos sąskaitą.
+pervesti jį į profesinės sąjungos sąskaitą.
 
 Straipsnio
 
@@ -699,9 +705,9 @@ susivienijimai turi teisę vesti derybas ir sudaryti sutartis (susitarimus) su
 
 darbdaviais, jų organizacijomis, susivienijimais dėl darbuotojų užimtumo,
 
-perkvalifikavimo, darbo organizavimo ir apmokėjimo, darbo ir gyvenimo sąlygų
+perkvalifikavimo, darbo organizavimo ir apmokėjimo, darbo ir gyvenimo sąlygų gerinimo
 
-gerinimo bei kitų klausimų.
+bei kitų klausimų.
 
 13
 
@@ -799,11 +805,11 @@ Valstybės organai skatina
 
 derybas tarp profesinių sąjungų ir darbdavių ar jų organizacijų.
 
-Valstybės organai, organizacijos
+Valstybės organai,
 
-gali teikti profesinėms sąjungoms paramą socialiniams ir kitiems tyrimams
+organizacijos gali teikti profesinėms sąjungoms paramą socialiniams ir kitiems
 
-vykdyti.
+tyrimams vykdyti.
 
 V skirsnis.
 
@@ -881,9 +887,9 @@ atsisako jį patenkinti, profesinė sąjunga turi teisę kreiptis į teismą.
 
 straipsnis. Profesinių sąjungų teisė siūlyti traukti atsakomybėn pareigūnus
 
-Profesinės sąjungos turi teisę
+Profesinės sąjungos turi
 
-siūlyti traukti atsakomybėn pareigūnus, kurie pažeidžia darbo įstatymus,
+teisę siūlyti traukti atsakomybėn pareigūnus, kurie pažeidžia darbo įstatymus,
 
 neužtikrina saugių darbo sąlygų, nevykdo kolektyvinės sutarties ar kitokių
 
@@ -911,11 +917,11 @@ straipsnis. Profesinių sąjungų narių darbo teisių garantijos
 
 Darbdavys negali atleisti iš darbo darbuotojo
 
-įmonėje veikiančios profesinės sąjungos renkamojo organo nario pagal Darbo sutarties
+įmonėje veikiančios profesinės sąjungos renkamojo organo nario pagal Darbo
 
-įstatymo 29 straipsnio pirmosios dalies 2 punktą ir savo valia, negavęs tos
+sutarties įstatymo 29 straipsnio pirmosios dalies 2 punktą ir savo valia,
 
-profesinės sąjungos įmonėje renkamojo organo išankstinio sutikimo.
+negavęs tos profesinės sąjungos įmonėje renkamojo organo išankstinio sutikimo.
 
 Šio straipsnio pirmojoje dalyje
 
@@ -1721,9 +1727,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1803, 2003-11-03,
+IX-1803,
 
-Žin., 2003, Nr. 108-4816 (2003-11-19)
+2003-11-03, Žin., 2003, Nr. 108-4816 (2003-11-19)
 
 PROFESINIŲ
 
@@ -1757,13 +1763,27 @@ PROFESINIŲ
 
 SĄJUNGŲ ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-882, 2010-06-04, Žin., 2010, Nr. 71-3555 (2010-06-19)
+
+PROFESINIŲ
+
+SĄJUNGŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2010-04-12)
+Aušrinė Trapinskienė (2010-06-19)
 
 autrap@lrs.lt
 
