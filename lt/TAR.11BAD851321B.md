@@ -4,7 +4,7 @@ identifier: "TAR.11BAD851321B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-15"
-last_updated: "2004-12-01"
+last_updated: "2010-06-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.11BAD851321B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 entry_into_force_conditions: "Įstatymo 14 straipsnio nuostatos įsigalioja 2004-07-31."
 ---
 # Lietuvos Respublikos mėgėjų žvejybos įstatymas
+
+Suvestinė redakcija nuo 2010-06-22 iki 2011-12-30
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 118-4395, i. k. 1041010ISTA0IX-2389
 
 LIETUVOS RESPUBLIKOS
 
@@ -117,7 +121,11 @@ VANDENS TELKINIŲ NAUDOJIMAS MĖGĖJIŠKAI ŽŪKLEI
 
 3. Vandens telkinių, į kuriuos neišduodami leidimai naudoti žūklės plotus, sąrašą tvirtina Vyriausybė.
 
-4. Sprendimus išduoti leidimus naudoti žūklės plotus vandens telkiniuose, Vyriausybės nutarimais perduotuose patikėjimo teise savivaldybėms, priima savivaldybės tarybos, o kituose vandens telkiniuose – apskrities viršininkas.
+4. Sprendimus suteikti teisę naudoti žūklės plotą priima vandens telkinio valdytojas, suderinęs su Aplinkos ministerija ar jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-896, 2010-06-10, Žin., 2010, Nr. 72-3615 (2010-06-22), i. k. 1101010ISTA00XI-896
 
 5. Leidimus naudoti žūklės plotus, vadovaudamasis vandens telkinio valdytojo sprendimu, išduoda atitinkamo regiono aplinkos apsaugos departamentas. Jei vandens telkinys yra kelių regionų aplinkos apsaugos departamentų administruojamose teritorijose, leidimą išduoda tas regiono aplinkos apsaugos departamentas, kurio administruojamoje teritorijoje yra didesnė vandens telkinio dalis.
 
@@ -292,4 +300,14 @@ Juridiniai ir fiziniai asmenys, pažeidę šio įstatymo reikalavimus, atsako Li
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-896, 2010-06-10, Žin., 2010, Nr. 72-3615 (2010-06-22), i. k. 1101010ISTA00XI-896
+
+Lietuvos Respublikos mėgėjiškos žūklės įstatymo 4 straipsnio pakeitimo įstatymas
 
