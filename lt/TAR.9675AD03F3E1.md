@@ -4,7 +4,7 @@ identifier: "TAR.9675AD03F3E1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-17"
-last_updated: "2009-12-12"
+last_updated: "2010-06-29"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9675AD03F3E1"
 department: "Lietuvos Respublikos Seimas"
@@ -31,7 +31,7 @@ Vilnius
 
 Nauja įstatymo redakcija (galioja
 
-iki 2010 m. liepos 1 d.):
+iki 2011 m. sausio 1 d.):
 
 Nr.
 
@@ -2591,11 +2591,13 @@ PILIETYBĖS
 
 Nauja įstatymo redakcija
 
-Šis įstatymas galioja iki 2010 m. liepos
+Šis įstatymas galioja iki 2011 m. sausio
 
 1 d.
 
 Įstatymo galiojimas pakeistas:
+
+1.
 
 Lietuvos
 
@@ -2609,13 +2611,29 @@ PILIETYBĖS
 
 ĮSTATYMO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-910,
+
+2010-06-18, Žin., 2010, Nr. 75-3794 (2010-06-29)
+
+PILIETYBĖS ĮSTATYMO PAKEITIMO
+
+ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 6.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XI-205,
+Nr. XI-205, 2009-03-19,
 
-2009-03-19, Žin., 2009, Nr. 38-1444 (2009-04-04)
+Žin., 2009, Nr. 38-1444 (2009-04-04)
 
 PILIETYBĖS ĮSTATYMO 15 STRAIPSNIO
 
@@ -2645,13 +2663,15 @@ TEISĖS AKTŲ, REGULIUOJANČIŲ LIETUVOS RESPUBLIKOS PILIETYBĖS SANTYKIUS, NUOS
 
 ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
-*** Pabaiga ***
+***
 
-Redagavo Aušrinė Trapinskienė
+Pabaiga ***
 
-(2009-12-14)
+Redagavo
 
-autrap@lrs.lt
+Aušra Bodin (2010-06-29)
+
+aubodi@lrs.lt
 
 29 straipsnis.
 
