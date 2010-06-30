@@ -4,7 +4,7 @@ identifier: "TAR.955166852BD7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-09-19"
-last_updated: "2006-09-26"
+last_updated: "2010-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.955166852BD7"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ entry_into_force_conditions: "Įstatymas įsigalioja 2006 m. rugsėjo 26 d.
 Kodeksas įsigalioja 2006 m. spalio 1 d."
 ---
 # Lietuvos Respublikos valstybės politikų elgesio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Valstybės politikų elgesio kodeksas
+
+Suvestinė redakcija nuo 2010-06-30 iki 2015-12-31
+
+Įstatymas paskelbtas: Žin. 2006, Nr. 102-3938, i. k. 1061010ISTA000X-816
 
 LIETUVOS RESPUBLIKOS VALSTYBĖS POLITIKŲ ELGESIO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR ĮGYVENDINIMO Į S T A T Y M A S
 
@@ -183,16 +187,6 @@ Vyriausioji tarnybinės etikos komisija:
 
 ______________
 
-10 straipsnis. Sprendimų apskundimas
-
-Komisijos sprendimai gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka per vieną mėnesį nuo sprendimo paskelbimo arba jo įteikimo valstybės politikui, dėl kurio yra priimtas sprendimas, dienos.
-
-Papildyta straipsniu:
-
-Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
-
-______________
-
 Pakeitimai:
 
 1.
@@ -202,12 +196,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-900, 2010-06-15, Žin., 2010, Nr. 76-3866 (2010-06-30), i. k. 1101010ISTA00XI-900
 
 Lietuvos Respublikos valstybės politikų elgesio kodekso 3 straipsnio pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
-
-Lietuvos Respublikos valstybės politikų elgesio kodekso 2, 5, 7 ir 9 straipsnių pakeitimo ir Kodekso papildymo 10 straipsniu įstatymas
 
