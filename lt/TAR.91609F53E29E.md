@@ -4,7 +4,7 @@ identifier: "TAR.91609F53E29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-01-19"
-last_updated: "2010-05-08"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 36 straipsnis ir 39 straipsnio 2 ir 3 da
 ---
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2010-05-08 iki 2012-08-31
+Suvestinė redakcija nuo 2010-07-01 iki 2012-08-31
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
 
@@ -220,43 +220,37 @@ SOCIALINIŲ PASLAUGŲ VALDYMAS
 
 1) Socialinės apsaugos ir darbo ministerija;
 
-2) apskričių viršininkai;
+2) savivaldybės;
 
-3) savivaldybės;
+3) Socialinių paslaugų priežiūros departamentas prie Socialinės apsaugos ir darbo ministerijos (toliau – Socialinių paslaugų priežiūros departamentas).
 
-4) Socialinių paslaugų priežiūros departamentas prie Socialinės apsaugos ir darbo ministerijos (toliau – Socialinių paslaugų priežiūros departamentas).
+Straipsnio dalies pakeitimai:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
 11 straipsnis. Socialinės apsaugos ir darbo ministerijos kompetencija
 
-Socialinės apsaugos ir darbo ministerija įgyvendina valstybės socialinių paslaugų politiką:
+1. Socialinės apsaugos ir darbo ministerija įgyvendina valstybės socialinių paslaugų politiką:
 
-1) pagal savo kompetenciją teikia Vyriausybei siūlymus dėl valstybės socialinių paslaugų sistemos ir socialinio darbo vystymo krypčių bei rengia teisės aktų projektus dėl asmens (šeimos) socialinių paslaugų poreikio nustatymo, socialinių paslaugų skyrimo, teikimo, finansavimo, mokėjimo už socialines paslaugas, socialinės globos normų, socialinės globos įstaigų licencijavimo, socialinių darbuotojų, socialinių darbuotojų padėjėjų profesinės kvalifikacijos kėlimo ir veiklos reglamentavimo ir kt.;
+1) pagal savo kompetenciją teikia Vyriausybei siūlymus dėl valstybės socialinių paslaugų sistemos ir socialinio darbo vystymo krypčių ir rengia teisės aktų projektus dėl asmens (šeimos) socialinių paslaugų poreikio nustatymo, socialinių paslaugų skyrimo, teikimo, finansavimo, mokėjimo už socialines paslaugas, socialinės globos normų, socialinės globos įstaigų licencijavimo, socialinių darbuotojų, socialinių darbuotojų padėjėjų profesinės kvalifikacijos kėlimo ir veiklos reglamentavimo ir kt.;
 
-2) teikia išvadas apskričių viršininkams dėl socialinių paslaugų įstaigų steigimo, reorganizavimo ar likvidavimo ir regioninės reikšmės socialinių paslaugų šiose įstaigose teikimo masto ir rūšių;
+2) analizuoja ir vertina socialinių paslaugų būklę šalyje ir teikia siūlymus savivaldybėms dėl socialinių paslaugų planavimo, organizavimo;
 
-3) analizuoja ir vertina socialinių paslaugų būklę šalyje ir teikia siūlymus savivaldybėms dėl socialinių paslaugų planavimo, organizavimo;
+3) analizuoja socialinių darbuotojų, socialinių darbuotojų padėjėjų poreikius kelti profesinę kvalifikaciją, organizuoja socialinių darbuotojų atestaciją;
 
-4) analizuoja socialinių darbuotojų, socialinių darbuotojų padėjėjų poreikius kelti profesinę kvalifikaciją, organizuoja socialinių darbuotojų atestaciją;
+4) rengia ir įgyvendina valstybės socialinių paslaugų programas ir projektus.
 
-5) rengia ir įgyvendina valstybės socialinių paslaugų programas ir projektus.
+2. Socialinės apsaugos ir darbo ministerija ar jos įgaliota institucija steigia, reorganizuoja ar likviduoja socialinės globos įstaigas, kurios teikia gyventojams ilgalaikę ar trumpalaikę socialinę globą, reikalingą ne kiekvienoje savivaldybės teritorijoje.
 
-12 straipsnis. Apskrities viršininko kompetencija
+Straipsnio pakeitimai:
 
-1. Apskrities viršininkas įgyvendina valstybės socialinių paslaugų politiką apskrityje:
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
-1) steigia, reorganizuoja ir likviduoja regioninės reikšmės socialinių paslaugų įstaigas bei užtikrina jų funkcionavimą;
+12 straipsnis. Neteko galios nuo 2010-07-01
 
-2) rengia ir įgyvendina apskrities socialinių paslaugų programas ir projektus.
+Straipsnio naikinimas:
 
-2. Socialinių paslaugų įstaigos, kurių steigėjas ar dalyvis yra apskrities viršininkas (toliau – apskrities viršininko socialinių paslaugų įstaiga), teikia socialines paslaugas, kurios gyventojams yra reikalingos ne kiekvienoje apskrities savivaldybės teritorijoje.
-
-3. Apskrities viršininko socialinių paslaugų įstaigų steigimą, reorganizavimą ir likvidavimą, jų teikiamų socialinių paslaugų mastą ir rūšis apskrities viršininkas derina su apskrities savivaldybėmis bei Socialinės apsaugos ir darbo ministerija vadovaudamasis Vyriausybės ar jos įgaliotos institucijos patvirtinta socialinių paslaugų planavimo metodika.
-
-4. Apskrities viršininkas teikia informaciją apskrities savivaldybėms ir Socialinės apsaugos ir darbo ministerijai apie apskrities viršininko socialinių paslaugų įstaigų teikiamas socialines paslaugas.
-
-5. Apskrities viršininkas sistemina ir analizuoja iš apskrities savivaldybių gautą informaciją apie jų teritorijose teikiamas socialines paslaugas.
-
-6. Kiekvienos apskrities viršininko administracijoje turi veikti padalinys, administruojantis socialines paslaugas.
+Nr. XI-777, 2010-04-22, Žin. 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
 13 straipsnis. Savivaldybės kompetencija
 
@@ -548,7 +542,11 @@ MOKĖJIMAS UŽ SOCIALINES PASLAUGAS
 
 3. Asmens (šeimos) mokėjimo už socialines paslaugas dydį nustato savivaldybė, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos patvirtintu mokėjimo už socialines paslaugas tvarkos aprašu.
 
-4. Asmeniui (šeimai), teisės aktų nustatyta tvarka gaunančiam socialinę pašalpą, arba asmeniui (šeimai), kurio pajamos (vidutinės šeimos pajamos, tenkančios vienam šeimos nariui) yra mažesnės už valstybės remiamų pajamų trigubą dydį, bendrosios socialinės paslaugos ir socialinė priežiūra teikiamos nemokamai.
+4. Asmeniui (šeimai), teisės aktų nustatyta tvarka gaunančiam socialinę pašalpą, arba asmeniui (šeimai), kurio pajamos (vidutinės šeimos, tenkančios vienam asmeniui) yra mažesnės už valstybės remiamų pajamų dvigubą dydį, bendrosios socialinės paslaugos ir socialinė priežiūra teikiamos nemokamai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
 5. Savivaldybė turi teisę atleisti asmenį (šeimą) nuo mokėjimo už socialines paslaugas ir kitais, šio straipsnio 4 dalyje nenustatytais, atvejais.
 
@@ -604,23 +602,23 @@ MOKĖJIMAS UŽ SOCIALINES PASLAUGAS
 
 30 straipsnis. Asmens (šeimos) pajamos ir jų apskaičiavimas
 
-1. Nustatant asmens finansines galimybes mokėti už socialines paslaugas, į asmens pajamas įskaitoma:
+1. Nustatant asmens finansines galimybes mokėti už socialines paslaugas, įskaitomos šios asmens gaunamos pajamos:
 
-1) su darbo ar tarnybos santykiais susijusios pajamos;
+1) su darbo ar tarnybos santykiais susijusios pajamos, įskaitant išeitines išmokas ir kompensacijas;
 
-2) individualios įmonės savininko pajamos, gautos iš šios įmonės apmokestinto pelno;
+2) individualios įmonės savininko ar tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos tikrojo nario pajamos, gautos iš šios įmonės ar bendrijos apmokestinto pelno;
 
-3) individualios veiklos pajamos, gautos verčiantis veikla pagal verslo liudijimą;
+3) individualios veiklos pajamos;
 
-4) pajamos iš žemės ūkio veiklos;
+4) autorinis atlyginimas;
 
-5) išmokos žemės ūkio veiklai;
+5) išmokos žemės ūkio veiklai ar pajamos iš žemės ūkio veiklos, išskyrus pajamas iš žemės ūkio naudmenų, kurių bendras plotas neviršija 1 hektaro;
 
 6) pensijos, pensijų išmokos ir vietoj pensijų mokamos kompensacijos, rentos;
 
-7) valstybinės šalpos išmokos (išskyrus slaugos ar priežiūros (pagalbos) išlaidų tikslines kompensacijas, kai teikiamos bendrosios socialinės paslaugos, socialinė priežiūra), mokamos pagal Valstybinių šalpos išmokų įstatymą;
+7) valstybinės šalpos išmokos, mokamos pagal Valstybinių šalpos išmokų įstatymą;
 
-8) motinystės ir motinystės (tėvystės) pašalpa;
+8) ligos, profesinės reabilitacijos, motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpos, statutiniams valstybės tarnautojams mokamos išmokos ligos, motinystės, tėvystės ir motinystės (tėvystės) atveju;
 
 9) nedarbo socialinio draudimo išmokos, mokamos pagal Nedarbo socialinio draudimo įstatymą;
 
@@ -630,17 +628,37 @@ MOKĖJIMAS UŽ SOCIALINES PASLAUGAS
 
 12) vaiko išlaikymo periodinės išmokos, mokamos pagal Civilinį kodeksą;
 
-13) turto nuomos pajamos;
+13) vaiko išlaikymo lėšos, mokamos pagal Vaikų išlaikymo fondo įstatymą;
 
-14) netekto darbingumo periodinės kompensacijos, mokamos pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą arba Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimo profesine liga laikinąjį įstatymą;
+14) turto nuomos pajamos;
 
-15) žalos atlyginimo periodinės išmokos, mokamos pagal Civilinį kodeksą.
+15) netekto darbingumo periodinės kompensacijos, mokamos pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą arba Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimo profesine liga laikinąjį įstatymą;
 
-2. Nustatant šeimos finansines galimybes mokėti už socialines paslaugas, kai socialinės paslaugos teikiamos šeimai, į šeimos pajamas įskaitomos šio straipsnio 1 dalies 1– 6 punktuose nurodytos šeimos narių pajamos.
+16) žalos atlyginimo periodinės išmokos, mokamos pagal Civilinį kodeksą;
+
+17) stipendija, išskyrus socialinę stipendiją;
+
+18) transporto išlaidų kompensacija (tais atvejais, kai teikiamos transporto organizavimo paslaugos ar institucinė socialinė globa);
+
+19) išmoka vaikui, mokama pagal Išmokų vaikams įstatymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+2. Nustatant šeimos finansines galimybes mokėti už socialines paslaugas, kai socialinės paslaugos teikiamos šeimai, į šeimos pajamas įskaitomos šio straipsnio 1 dalies 1–6 punktuose nurodytos šeimos narių gaunamos pajamos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
 3. Šio straipsnio 1 dalyje nurodytos pajamos imamos po apmokestinimo gyventojų pajamų mokesčiu ir išskaičius valstybinio socialinio draudimo įmokas.
 
-4. Šio straipsnio 1 dalies 4 punkte nurodytos pajamos imamos tik esant žemės ūkio veiklos apskaitos dokumentams.
+4. Šio straipsnio 1 dalies 5 punkte nurodytos pajamos įskaitomos tik esant žemės ūkio veiklos apskaitos dokumentams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
 5. Asmens (šeimos) pajamos nustatomos skaičiuojant 3 paskutinių iki kreipimosi dėl socialinių paslaugų skyrimo mėnesių pajamų vidurkį.
 
@@ -790,7 +808,11 @@ Nr. XI-777, 2010-04-22, Žin. 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA0
 
 2. Socialinių paslaugų poreikis asmenims, kuriems teisės aktų nustatyta tvarka pripažintas sunkaus neįgalumo lygis ar sunki negalia, I invalidumo grupė ar 0–25 procentų darbingumo lygis, didelių specialiųjų poreikių lygis ar specialusis nuolatinės slaugos ar specialusis nuolatinės priežiūros (pagalbos) poreikis ir kurie iki šio įstatymo įsigaliojimo pradėjo gauti socialines paslaugas savivaldybių biudžetų lėšomis finansuojamose socialinių paslaugų įstaigose, iki 2006 m. liepos 1 d. turi būti nustatytas iš naujo pagal šio įstatymo 16 straipsnio nuostatas.
 
-3. Šio įstatymo septintojo skirsnio nuostatos, susijusios su mokėjimu už socialines paslaugas asmenims, pradėjusiems gauti šias paslaugas iki šio įstatymo įsigaliojimo, netaikomos, išskyrus tuos atvejus, kai mokėjimo už socialines paslaugas dydis asmeniui pagal teisės aktus, galiojusius iki 2006 m. liepos 1 d., buvo didesnis, negu nustatytas šiame įstatyme.
+3. Šio įstatymo septintojo skirsnio nuostatos, susijusios su mokėjimu už socialines paslaugas asmenims, pradėjusiems gauti socialinę globą iki šio įstatymo įsigaliojimo, netaikomos, išskyrus atvejus, kai mokėjimo už socialines paslaugas dydis asmeniui pagal teisės aktus, galiojusius iki 2006 m. liepos 1 d., buvo didesnis, negu nustatytas šiame įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
 4. Ilgalaikė socialinė globa senyvo amžiaus asmenims, suaugusiems asmenims su negalia, vaikams su negalia, likusiems be tėvų globos vaikams, iki 2007 m. sausio 1 d. pradėjusiems ją gauti apskričių viršininkų socialinių paslaugų įstaigose, finansuojama iš valstybės biudžeto lėšų, netaikant šio įstatymo aštuntojo skirsnio nuostatų.
 
