@@ -4,7 +4,7 @@ identifier: "TAR.BAEF9ECD886E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-11"
-last_updated: "2008-06-03"
+last_updated: "2010-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BAEF9ECD886E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos įstatymas
 
-Suvestinė redakcija nuo 2008-06-03 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2010-09-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1717, i. k. 0961010ISTA00I-1485
 
@@ -23,15 +23,17 @@ Nauja redakcija nuo 2004-10-01:
 
 Nr. IX-2259, 2004-06-01, Žin. 2004, Nr. 96-3525 (2004-06-19), i. k. 1041010ISTA0IX-2259
 
-LIETUVOS RESPUBLIKOS
-
-GINKLŲ FONDO PRIE LIETUVOS RESPUBLIKOS VYRIAUSYBĖS
+LIETUVOS RESPUBLIKOS  GINKLŲ FONDO PRIE LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ MINISTERIJOS
 
 Į S T A T Y M A S
 
 Pakeistas teisės akto pavadinimas:
 
 Nr. X-184, 2005-05-12, Žin., 2005, Nr. 67-2396 (2005-05-28), i. k. 1051010ISTA000X-184
+
+Pakeistas teisės akto pavadinimas:
+
+Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
 
 PIRMASIS SKIRSNIS
 
@@ -43,21 +45,25 @@ Vilnius
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos Vyriausybės teisinį statusą, veiklos teisinius pagrindus, uždavinius, funkcijas, struktūrą ir finansavimą.
+Šis įstatymas nustato Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos teisinį statusą, veiklos teisinius pagrindus, uždavinius, funkcijas, struktūrą ir finansavimą.
 
 Straipsnio pakeitimai:
 
 Nr. X-184, 2005-05-12, Žin., 2005, Nr. 67-2396 (2005-05-28), i. k. 1051010ISTA000X-184
 
-2 straipsnis. Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos Vyriausybės
+Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
 
-1. Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos Vyriausybės (toliau – Ginklų fondas) yra Vyriausybės įsteigta Vyriausybės įstaiga, aprūpinanti valstybės institucijas, juridinius ir fizinius asmenis ginklais, šaudmenimis, sprogmenimis, specialiosiomis priemonėmis ir atliekanti kitas šiame įstatyme nustatytas funkcijas.
+2 straipsnis. Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos
 
-2. Ginklų fondas yra viešasis juridinis asmuo, turintis sąskaitų banke ir antspaudą su Lietuvos valstybės herbu bei pavadinimu „Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos Vyriausybės.
+1. Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Ginklų fondas) yra įstaiga prie Lietuvos Respublikos vidaus reikalų ministerijos, aprūpinanti valstybės institucijas ir įstaigas, juridinius asmenis ir Lietuvos Respublikoje įsteigtus Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių įmonių filialus, fizinius asmenis ginklais, šaudmenimis, sprogmenimis, specialiosiomis priemonėmis ir atliekanti kitas teisės aktuose nustatytas funkcijas.
+
+2. Ginklų fondas yra viešasis juridinis asmuo, turintis sąskaitų banke ir antspaudą su Lietuvos valstybės herbu ir savo pavadinimu „Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos.
 
 Straipsnio pakeitimai:
 
 Nr. X-184, 2005-05-12, Žin., 2005, Nr. 67-2396 (2005-05-28), i. k. 1051010ISTA000X-184
+
+Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
 
 3 straipsnis. Ginklų fondo veiklos teisiniai pagrindai
 
@@ -71,7 +77,11 @@ GINKLŲ FONDO UŽDAVINIAI, FUNKCIJOS IR TEISĖS
 
 4 straipsnis. Ginklų fondo uždaviniai
 
-Ginklų fondo uždaviniai – aprūpinti valstybės institucijas ir juridinius asmenis ginklais, šaudmenimis, sprogmenimis ar specialiosiomis priemonėmis, taip pat fizinius asmenis B, C kategorijų trumpaisiais šaunamaisiais ginklais ir šaudmenimis šiems ginklams.
+Ginklų fondo uždaviniai – aprūpinti valstybės institucijas ir įstaigas, juridinius asmenis ir Lietuvos Respublikoje įsteigtus Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių įmonių filialus ginklais, šaudmenimis, sprogmenimis ar specialiosiomis priemonėmis, taip pat fizinius asmenis B, C kategorijų trumpaisiais šaunamaisiais ginklais ir šaudmenimis šiems ginklams.
+
+Straipsnio pakeitimai:
+
+Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
 
 5 straipsnis. Ginklų fondo funkcijos ir teisės
 
@@ -79,9 +89,17 @@ Ginklų fondo uždaviniai – aprūpinti valstybės institucijas ir juridinius a
 
 1) renka, analizuoja ir kaupia informaciją apie ginklus, šaudmenis, sprogmenis, specialiąsias priemones, naujus ginklų, šaudmenų, sprogmenų ar specialiųjų priemonių tipus ir modelius, jų techninius duomenis, plėtojimo kryptis;
 
-2) teikia valstybės institucijoms, juridiniams asmenims turimą informaciją apie jiems reikalingus ginklus, šaudmenis, sprogmenis ar specialiąsias priemones;
+2) teikia valstybės institucijoms ir įstaigoms, juridiniams asmenims ir Lietuvos Respublikoje įsteigtiems Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių įmonių filialams turimą informaciją apie jiems reikalingus ginklus, šaudmenis, sprogmenis ar specialiąsias priemones, fiziniams asmenims – informaciją apie B, C kategorijų trumpuosius šaunamuosius ginklus ir šaudmenis šiems ginklams;
 
-3) kiekvienais metais pagal valstybės institucijų pateiktas paraiškas dėl joms reikalingų ginklų, šaudmenų, sprogmenų, specialiųjų priemonių įsigijimo sudaro metinius pirkimų planus ir vadovaudamasis pasitvirtintais pirkimų planais ir su valstybės institucijomis sudarytomis sutartimis perka ir perduoda valstybės institucijoms arba parduoda ginklus, šaudmenis, sprogmenis ir specialiąsias priemones;
+Straipsnio punkto pakeitimai:
+
+Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
+
+3) kiekvienais metais pagal valstybės institucijų ir įstaigų pateiktas paraiškas dėl joms reikalingų ginklų, šaudmenų, sprogmenų, specialiųjų priemonių įsigijimo sudaro metinius pirkimų planus ir vadovaudamasis patvirtintais pirkimų planais ir su valstybės institucijomis bei įstaigomis sudarytomis sutartimis perka ir perduoda valstybės institucijoms bei įstaigoms arba parduoda ginklus, šaudmenis, sprogmenis ir specialiąsias priemones;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
 
 4) Vyriausybės nustatyta tvarka tvarko Valstybinį ginklų registrą;
 
@@ -95,11 +113,19 @@ Ginklų fondo uždaviniai – aprūpinti valstybės institucijas ir juridinius a
 
 9) Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytais atvejais išduoda licencijas verstis atitinkama ūkine komercine veikla ir vykdo šios veiklos priežiūrą;
 
-10) kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+10) kitas teisės aktuose nustatytas funkcijas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
 
 2. Ginklų fondas turi šias teises:
 
-1) išimtinę teisę aprūpinti valstybės institucijas, išskyrus Krašto apsaugos ministeriją ir Lietuvos kariuomenę, A kategorijos ginklais, šaudmenimis, jų dalimis, B, C kategorijų trumpaisiais šaunamaisiais ginklais, šaudmenimis, skirtais tik trumpiesiems šaunamiesiems ginklams, jų dalimis;
+1) išimtinę teisę aprūpinti valstybės institucijas ir įstaigas, išskyrus Krašto apsaugos ministeriją ir Lietuvos kariuomenę, A kategorijos ginklais, šaudmenimis, jų dalimis, B, C kategorijų trumpaisiais šaunamaisiais ginklais, šaudmenimis, skirtais tik trumpiesiems šaunamiesiems ginklams, jų dalimis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
 
 2) išimtinę teisę Lietuvos Respublikos teritorijoje prekiauti B, C kategorijų trumpaisiais šaunamaisiais ginklais, šaudmenimis, skirtais tik trumpiesiems šaunamiesiems ginklams, jų dalimis;
 
@@ -109,13 +135,17 @@ Ginklų fondo uždaviniai – aprūpinti valstybės institucijas ir juridinius a
 
 6 straipsnis. Ginklų fondo struktūra
 
-1. Ginklų fondui vadovauja direktorius. Valstybės tarnybos įstatymo nustatyta tvarka jį skiria ir atleidžia Ministras Pirmininkas. Direktorius yra pavaldus Ministrui Pirmininkui.
+1. Ginklų fondui vadovauja direktorius. Ginklų fondo direktorių į pareigas priima ir iš jų atleidžia vidaus reikalų ministras Valstybės tarnybos įstatymo nustatyta tvarka. Ginklų fondo direktorius yra pavaldus vidaus reikalų ministrui.
 
-2. Direktorius gali turėti pavaduotoją. Jį direktorius skiria ir atleidžia Valstybės tarnybos įstatymo nustatyta tvarka.
+2. Ginklų fondo direktorius gali turėti pavaduotoją. Jį į pareigas priima ir iš jų atleidžia Ginklų fondo direktorius Valstybės tarnybos įstatymo nustatyta tvarka.
 
 3. Ginklų fondą sudaro struktūriniai padaliniai, būtini Ginklų fondo funkcijoms atlikti.
 
-4. Ginklų fondo struktūrą ir pareigybių sąrašą nustato ir tvirtina direktorius.
+4. Ginklų fondo administracijos struktūrą ir pareigybių sąrašą Ginklų fondo direktoriaus teikimu nustato ir tvirtina vidaus reikalų ministras.
+
+Straipsnio pakeitimai:
+
+Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
 
 7 straipsnis. Ginklų fondo personalas
 
@@ -129,13 +159,25 @@ GINKLŲ FONDO FINANSAVIMAS
 
 8 straipsnis. Ginklų fondo finansavimas
 
-1. Ginklų fondas yra biudžetinė įstaiga, finansuojama iš valstybės biudžeto lėšų.
+1. Ginklų fondas yra biudžetinė įstaiga, finansuojama iš valstybės biudžeto lėšų. Ginklų fondo valstybės biudžeto asignavimų valdytojas yra Ginklų fondo direktorius.
 
-2. Pagal valstybės institucijų paraiškas jų pavedimu Ginklų fondo vykdomi ginklų, šaudmenų, sprogmenų ir specialiųjų priemonių pirkimai finansuojami iš atitinkamoms valstybės institucijoms valstybės biudžete ir Valstybės investicijų programoje atitinkamiems metams patvirtintų asignavimų, kai jos perveda pirkimams skirtas lėšas Ginklų fondui.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
+
+2. Pagal valstybės institucijų ir įstaigų paraiškas jų pavedimu Ginklų fondo vykdomi ginklų, šaudmenų, sprogmenų ir specialiųjų priemonių pirkimai finansuojami iš atitinkamoms valstybės institucijoms ir įstaigoms valstybės biudžete ir Valstybės investicijų programoje atitinkamiems metams patvirtintų asignavimų, kai jos perveda pirkimams skirtas lėšas Ginklų fondui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
 
 3. Pagal kitų juridinių asmenų paraiškas pirkimai finansuojami pirkimams skirtas lėšas perdavus Ginklų fondui pirkimo-pardavimo sutartyse nustatyta tvarka.
 
-4. Valstybės institucijų pavedimai Ginklų fondui vykdyti ginklų, šaudmenų, sprogmenų ir specialiųjų priemonių pirkimus įforminami pavedimo sutartimis.
+4. Valstybės institucijų ir įstaigų pavedimai Ginklų fondui vykdyti ginklų, šaudmenų, sprogmenų ir specialiųjų priemonių pirkimus įforminami pavedimo sutartimis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -175,6 +217,14 @@ Nr. X-1550, 2008-05-20, Žin., 2008, Nr. 63-2386 (2008-06-03), i. k. 1081010ISTA
 
 Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos Vyriausybės įstatymo papildymo 5(1) straipsniu įstatymas
 
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
+
+Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos Vyriausybės įstatymo pavadinimo ir 1, 2, 4, 5, 5-1, 6, 8 straipsnių pakeitimo įstatymas
+
 9 straipsnis. Ginklų fondo pareigūnų darbo užmokestis
 
 Ginklų fondo pareigūnų tarnybinio atlyginimo, priedų, priemokų dydį ir nustatymo tvarką reglamentuoja Lietuvos Respublikos įstatymai.
@@ -207,11 +257,11 @@ Lietuvos Respublikos ginklų fondo įstatymo 2 straipsnio pakeitimo ir papildymo
 
 51 straipsnis. Pareiga teikti informaciją
 
-Ginklų fondo motyvuotu prašymu valstybės ar savivaldybių institucijos, registrai ar kiti juridiniai asmenys privalo Ginklų fondui neatlygintinai teikti duomenis, būtinus jo uždaviniams ir funkcijoms įgyvendinti.
+Ginklų fondo motyvuotu prašymu valstybės ar savivaldybių institucijos ir įstaigos, registrai, juridiniai asmenys ir Lietuvos Respublikoje įsteigti Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių įmonių filialai privalo Ginklų fondui neatlygintinai teikti duomenis, būtinus jo uždaviniams ir funkcijoms įgyvendinti.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. X-1550, 2008-05-20, Žin., 2008, Nr. 63-2386 (2008-06-03), i. k. 1081010ISTA00X-1550
+Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
 
 TREČIASIS SKIRSNIS
 
