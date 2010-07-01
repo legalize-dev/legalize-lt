@@ -4,7 +4,7 @@ identifier: "TAR.74D8B260CB90"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-11-16"
-last_updated: "2007-03-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.74D8B260CB90"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Šventosios jūrų uosto įstatymas
+
+Suvestinė redakcija nuo 2010-07-01 iki 2010-12-27
+
+Įstatymas paskelbtas: Žin. 2006, Nr. 132-4987, i. k. 1061010ISTA000X-910
 
 LIETUVOS RESPUBLIKOS
 
@@ -162,7 +166,11 @@ Uosto žemę, akvatoriją ir uosto infrastruktūrą patikėjimo teise valdo, nau
 
 9 straipsnis. Uosto plėtros taryba
 
-Uosto strategijai ir plėtros programoms parengti, santykiams tarp uosto direkcijos, Palangos miesto savivaldybės ir kitų valstybės institucijų palaikyti Lietuvos Respublikos Vyriausybės nutarimu sudaroma uosto plėtros taryba iš Susisiekimo ir kitų suinteresuotų ministerijų, Klaipėdos apskrities viršininko administracijos, Palangos miesto savivaldybės, Šventosios uosto direkcijos, mokslo įstaigų bei uosto naudotojų ir (ar) jų asociacijų atstovų. Uosto plėtros tarybos nuostatus tvirtina Lietuvos Respublikos Vyriausybė. Uosto plėtros tarybos personalinę sudėtį tvirtina susisiekimo ministras.
+Uosto strategijai ir plėtros programoms parengti, santykiams tarp uosto direkcijos, Palangos miesto savivaldybės ir kitų valstybės institucijų palaikyti Lietuvos Respublikos Vyriausybės nutarimu sudaroma uosto plėtros taryba iš Susisiekimo ir kitų suinteresuotų ministerijų, Palangos miesto savivaldybės, Šventosios uosto direkcijos, mokslo įstaigų bei uosto naudotojų ir (ar) jų asociacijų atstovų. Uosto plėtros tarybos nuostatus tvirtina Lietuvos Respublikos Vyriausybė. Uosto plėtros tarybos personalinę sudėtį tvirtina susisiekimo ministras.
+
+Straipsnio pakeitimai:
+
+Nr. XI-716, 2010-03-30, Žin., 2010, Nr. 41-1941 (2010-04-10), i. k. 1101010ISTA00XI-716
 
 10 straipsnis. Uosto kapitonas
 
@@ -389,4 +397,14 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-716, 2010-03-30, Žin., 2010, Nr. 41-1941 (2010-04-10), i. k. 1101010ISTA00XI-716
+
+Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo 9 straipsnio pakeitimo įstatymas
 
