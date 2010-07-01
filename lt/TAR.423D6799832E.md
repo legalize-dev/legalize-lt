@@ -4,7 +4,7 @@ identifier: "TAR.423D6799832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-01-28"
-last_updated: "2009-06-30"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.423D6799832E"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas
 
-Suvestinė redakcija nuo 2009-06-30 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2010-09-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 17-701, i. k. 1031010ISTA0IX-1315
 
@@ -241,9 +241,17 @@ Lietuvos standartai, reglamentuojantys sprogmenų gamybą ir savybes, turi atiti
 
 5. CE ženklu sprogmenys turi būti ženklinami tokiu būdu, kad žymuo būtų aiškiai pastebimas, lengvai įskaitomas ir nenutrinamas. CE ženklu žymimas pats sprogmuo arba, jei tai neįmanoma, prie sprogmens pritvirtinta duomenų plokštelė; tuo atveju, kai taip žymėti techniškai neįmanoma, žymima sprogmens pakuotė. Duomenų plokštelė pagaminama taip, kad jos nebūtų galima panaudoti antrą kartą. Draudžiama ženklinti sprogmenis užrašais, kuriuos galima būtų klaidingai palaikyti CE ženklu.
 
-6. Ar sprogmenys, tiekiami į šalies rinką, atitinka šiame straipsnyje nustatytus saugos ir ženklinimo reikalavimus, teisės aktų nustatyta tvarka prižiūri valstybinės rinkos priežiūros institucijos. Jei šios institucijos nustato, kad į šalies rinką tiekiami sprogmenys yra nesertifikuoti, nepažymėti CE ženklu arba CE ženklu sprogmenys buvo paženklinti neteisėtai ar netinkamai, jos privalo užtikrinti tokių sprogmenų pašalinimą iš rinkos ir įpareigoti gamintoją (pardavėją) per nurodytą laiką pašalinti nustatytus trūkumus. Jei gamintojas (pardavėjas) neįvykdo šių reikalavimų, sprogmenys paimami šio Įstatymo 21 straipsnyje nustatyta tvarka.
+6. Lietuvos Respublikoje esančioms gamybos vietoms unikalaus atpažinties žymens tris skaitmenis, žyminčius gamybos vietą, suteikia Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos.
 
-7. Ar importuojami, eksportuojami, tranzitu per Lietuvos Respublikos teritoriją gabenami sprogmenys atitinka šiame straipsnyje nustatytus reikalavimus, teisės aktų nustatyta tvarka kontroliuoja Vyriausybės įgaliota institucija.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
+
+7. Jeigu į Lietuvos Respubliką importuojamų sprogmenų gamybos vieta yra ne Europos ekonominės erdvės valstybėje narėje, tačiau gamintojas yra registruotas Europos ekonominės erdvės valstybėje narėje, Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos sprogmenų gamintojo prašymu suteikia šio gamintojo unikalaus atpažinties žymens tris skaitmenis, žyminčius jo gamybos vietą. Jei gamintojas nėra registruotas Europos ekonominės erdvės valstybėje narėje, prašymą suteikti unikalaus atpažinties žymens tris skaitmenis, žyminčius gamybos vietą, Lietuvos Respublikos ginklų fondui prie Lietuvos Respublikos vidaus reikalų ministerijos pateikia sprogmenų importuotojas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
 
 10 straipsnis. Sprogmenų gamybos ir sprogdinimo darbų saugos reikalavimai
 
@@ -303,11 +311,13 @@ Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA
 
 3) kas ketvirtį, ne vėliau kaip iki kito ketvirčio pirmojo mėnesio 5 dienos, pateikti licenciją išdavusiai institucijai ar jos įgaliotai įstaigai ūkinės komercinės veiklos, susijusios su sprogmenimis, nustatytos formos ataskaitą;
 
-4) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka teikti Lietuvos Respublikos ginklų fondui prie Lietuvos Respublikos Vyriausybės (toliau – Lietuvos Respublikos ginklų fondas) duomenis apie pagamintus, importuotus, eksportuotus, parduotus, laikomus ir sunaudotus sprogmenis;
+4) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka teikti Lietuvos Respublikos ginklų fondui prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Ginklų fondas) duomenis apie pagamintus, importuotus, eksportuotus, parduotus, laikomus ir sunaudotus sprogmenis;
 
 Straipsnio punkto pakeitimai:
 
 Nr. X-186, 2005-05-12, Žin., 2005, Nr. 67-2398 (2005-05-28), i. k. 1051010ISTA000X-186
+
+Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
 
 5) pasikeitus įmonės veiklos pobūdžiui ar kitoms sąlygoms, kurios buvo nurodytos dokumentuose, pateiktuose licencijai gauti, apie tai ne vėliau kaip per 10 darbo dienų pranešti licenciją išdavusiai institucijai;
 
@@ -415,7 +425,11 @@ Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA
 
 4) registruoti sprogmenų pirkėjus nustatytos formos žurnale. Jo formą nustato licenciją išdavusi institucija;
 
-5) pateikti Lietuvos Respublikos ginklų fondui vieną kartą per ketvirtį duomenis apie visus parduotus sprogmenis pagal šios institucijos nustatytą formą.
+5) pateikti Ginklų fondui vieną kartą per ketvirtį duomenis apie visus parduotus sprogmenis pagal šios institucijos nustatytą formą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
 
 4. Draudžiama parduoti sprogmenis:
 
@@ -525,7 +539,11 @@ Sprogmenų apskaita
 
 25 straipsnis. Duomenų apie sprogmenis rinkimas ir kaupimas
 
-Lietuvos Respublikos ginklų fondas renka ir kaupia duomenis apie pagamintus, importuotus, eksportuotus, parduotus, laikomus, sunaudotus sprogmenis ir teisės aktų nustatyta tvarka teikia šią informaciją suinteresuotoms institucijoms arba tarptautinėms organizacijoms. Šių duomenų sudėtį nustato Vyriausybė ar jos įgaliota institucija.
+Ginklų fondas renka ir kaupia duomenis apie pagamintus, importuotus, eksportuotus, parduotus, laikomus, sunaudotus sprogmenis ir teisės aktų nustatyta tvarka teikia šią informaciją suinteresuotoms institucijoms arba tarptautinėms organizacijoms. Šių duomenų sudėtį nustato Vyriausybė ar jos įgaliota institucija.
+
+Straipsnio pakeitimai:
+
+Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
 
 SEPTINTASIS SKIRSNIS
 
@@ -533,7 +551,11 @@ SPROGMENŲ APYVARTOS VALSTYBINĖ KONTROLĖ
 
 26 straipsnis. Sprogmenų apyvartos valstybinė kontrolė
 
-1. Sprogmenų apyvartos valstybinę kontrolę pagal savo kompetenciją vykdo Vidaus reikalų ministerija, Lietuvos Respublikos ginklų fondas, Valstybės saugumo departamentas, Krašto apsaugos ministerija, Ūkio ministerija ir kitos valstybės institucijos.
+1. Sprogmenų apyvartos valstybinę kontrolę pagal savo kompetenciją vykdo Vidaus reikalų ministerija, Ginklų fondas, Valstybės saugumo departamentas, Krašto apsaugos ministerija, Ūkio ministerija ir kitos valstybės institucijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
 
 2. Sprogmenų apyvartos valstybinės kontrolės tvarką ir ypatumus nustato Vyriausybė.
 
