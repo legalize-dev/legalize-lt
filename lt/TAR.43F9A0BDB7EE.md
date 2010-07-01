@@ -4,7 +4,7 @@ identifier: "TAR.43F9A0BDB7EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-15"
-last_updated: "2005-01-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.43F9A0BDB7EE"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 entry_into_force_conditions: "Įstatymo 17 straipsnis įsigalioja 2004-08-03."
 ---
 # Lietuvos Respublikos kultūros centrų įstatymas
+
+Suvestinė redakcija nuo 2010-07-01 iki 2018-07-31
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 120-4435, i. k. 1041010ISTA0IX-2395
 
 LIETUVOS RESPUBLIKOS
 
@@ -74,7 +78,11 @@ Kultūros centrų steigimo teisinis pagrindas yra įstaigos steigimo aktas, kur�
 
 1. Kultūros centrai skirstomi į valstybės kultūros centrus, savivaldybių kultūros centrus ir kitus kultūros centrus.
 
-2. Valstybės kultūros centrai – tai kultūros centrai, kurių teisinės formos yra biudžetinė įstaiga ar viešoji įstaiga ir kurių steigėjas yra ministerija, apskrities viršininkas.
+2. Valstybės kultūros centrai – tai kultūros centrai, kurių teisinė forma yra biudžetinė įstaiga arba viešoji įstaiga ir kurių savininko ar atitinkamai dalininko (savininko) teises ir pareigas įgyvendina ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-732, 2010-04-08, Žin., 2010, Nr. 48-2282 (2010-04-27), i. k. 1101010ISTA00XI-732
 
 3. Savivaldybių kultūros centrai – tai kultūros centrai, kurių teisinė forma yra biudžetinė įstaiga ar viešoji įstaiga ir kurių steigėjas yra savivaldybės taryba.
 
@@ -184,7 +192,11 @@ KULTŪROS CENTRŲ FINANSAVIMAS
 
 2. Kiti kultūros centrai finansuojami iš steigėjo lėšų.
 
-3. Kultūros centrai gali gauti valstybės ir savivaldybių biudžetų asignavimų, teisės aktų nustatyta tvarka dalyvaudami Kultūros ministerijos, apskričių, savivaldybių tarybų skelbiamuose konkursuose atitinkamoms kultūrinės veiklos programoms, finansuojamoms iš valstybės arba savivaldybių biudžetų, vykdyti.
+3. Kultūros centrai gali gauti valstybės ir savivaldybių biudžetų asignavimų, teisės aktų nustatyta tvarka dalyvaudami Kultūros ministerijos, savivaldybių tarybų skelbiamuose konkursuose atitinkamoms kultūrinės veiklos programoms, finansuojamoms iš valstybės arba savivaldybių biudžetų, vykdyti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-732, 2010-04-08, Žin., 2010, Nr. 48-2282 (2010-04-27), i. k. 1101010ISTA00XI-732
 
 4. Valstybė ir savivaldybės iš savo biudžeto lėšų gali papildomai finansuoti kultūros centrų veiklą organizuojant valstybines šventes.
 
@@ -208,7 +220,11 @@ Kultūros centrų darbuotojų darbo santykius reglamentuoja Darbo kodeksas ir ki
 
 1. Kultūros centrų darbuotojų darbo apmokėjimas nustatomas vadovaujantis Darbo kodekso ir kitų teisės aktų nustatyta tvarka.
 
-2. Valstybės ir savivaldybių kultūros centrų kultūros ir meno darbuotojus Kultūros ministerijos nustatyta tvarka atestuoja steigėjas. Į atestacijos komisijos sudėtį įeina ir Kultūros ministerijos arba apskrities atstovai.
+2. Valstybės ir savivaldybių kultūros centrų kultūros ir meno darbuotojus Kultūros ministerijos nustatyta tvarka atestuoja steigėjas. Į atestacijos komisijos sudėtį įeina ir Kultūros ministerijos atstovai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-732, 2010-04-08, Žin., 2010, Nr. 48-2282 (2010-04-27), i. k. 1101010ISTA00XI-732
 
 PENKTASIS SKIRSNIS
 
@@ -244,9 +260,9 @@ KULTŪROS CENTRŲ VEIKLOS VALSTYBINIS VALDYMAS
 
 12) rūpinasi mėgėjų meną populiarinančių renginių organizavimu.
 
-13 straipsnis. Kitų ministerijų ir apskrities viršininko įgaliojimai valstybės kultūros centrų veiklos reglamentavimo srityje
+13 straipsnis. Kitų ministerijų įgaliojimai valstybės kultūros centrų veiklos reglamentavimo srityje
 
-Kitos ministerijos ir apskrities viršininkas:
+Kitos ministerijos:
 
 1) įstatymų nustatyta tvarka steigia, reorganizuoja ir likviduoja valstybės kultūros centrus;
 
@@ -257,6 +273,10 @@ Kitos ministerijos ir apskrities viršininkas:
 4) teikia pasiūlymus Vyriausybei ir kitoms valstybės valdymo institucijoms valstybės kultūros centrų veiklos klausimais;
 
 5) suteikia valstybės kultūros centrams kategorijas.
+
+Straipsnio pakeitimai:
+
+Nr. XI-732, 2010-04-08, Žin., 2010, Nr. 48-2282 (2010-04-27), i. k. 1101010ISTA00XI-732
 
 14 straipsnis. Savivaldybės tarybos įgaliojimai savivaldybės kultūros centrų reglamentavimo srityje
 
@@ -311,4 +331,14 @@ Kultūros ministerija iki šio įstatymo įsigaliojimo dienos parengia ir patvir
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-732, 2010-04-08, Žin., 2010, Nr. 48-2282 (2010-04-27), i. k. 1101010ISTA00XI-732
+
+Lietuvos Respublikos kultūros centrų įstatymo 4, 8, 11 ir 13 straipsnių pakeitimo įstatymas
 
