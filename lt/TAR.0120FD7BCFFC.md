@@ -4,7 +4,7 @@ identifier: "TAR.0120FD7BCFFC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2010-04-10"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
-Suvestinė redakcija nuo 2010-04-10 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
 
@@ -69,7 +69,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
 
-Apskritis yra Lietuvos Respublikos teritorijos aukštesnysis administracinis vienetas, kurio valdymą organizuoja Lietuvos Respublikos Vyriausybė pagal Lietuvos Respublikos apskrities valdymo įstatymą ir kitus įstatymus.
+Apskritis yra Lietuvos Respublikos teritorijos aukštesnysis administracinis vienetas, kuriame valdymą įstatymų nustatyta tvarka organizuoja Lietuvos Respublikos Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. 1101010ISTA00XI-709
 
 Apskritis sudaroma iš savivaldybių teritorijų, pasižyminčių socialinių, ekonominių ir etnokultūrinių interesų bendrumu.
 
