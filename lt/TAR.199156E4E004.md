@@ -4,7 +4,7 @@ identifier: "TAR.199156E4E004"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-11-28"
-last_updated: "2010-05-25"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2010-05-25 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2011-07-12
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
 
@@ -148,7 +148,11 @@ Visos valstybės bei savivaldybių institucijos ir įstaigos teikia neįgaliesie
 
 2. Skiriamos šios pagrindinės socialinės reabilitacijos paslaugos: socialinių ir savarankiško gyvenimo įgūdžių ugdymas, palaikymas bei atkūrimas, motyvacijos įsigyti išsilavinimą ir dirbti didinimas, meninių, sportinių bei kitų gebėjimų lavinimas.
 
-3. Už socialinės reabilitacijos paslaugų teikimo organizavimą ir šių paslaugų kokybės užtikrinimą atsako apskričių viršininkai ir savivaldybių institucijos.
+3. Už socialinės reabilitacijos paslaugų teikimo organizavimą ir šių paslaugų kokybės užtikrinimą atsako Socialinės apsaugos ir darbo ministerija ir savivaldybių institucijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA00XI-791
 
 11 straipsnis. Aplinkos prieinamumas
 
@@ -188,7 +192,11 @@ Visos valstybės bei savivaldybių institucijos ir įstaigos teikia neįgaliesie
 
 15 straipsnis. Kultūrinė veikla, kūno kultūra ir sportas
 
-1. Už neįgaliųjų integravimą į kultūrinę veiklą, poilsį ir sportą ir lygių galimybių jiems dalyvauti šiose gyvenimo srityse kartu su kitais visuomenės nariais sudarymą atsako apskričių viršininkai ir savivaldybių institucijos. Apskričių viršininkai iš apskričių viršininkų administracijoms skirtų valstybės biudžeto lėšų, o savivaldybių institucijos iš savivaldybių biudžetų lėšų remia neįgaliųjų asociacijų įgyvendinamas kultūros, kūno kultūros ir sporto programas ir kitas priemones, skirtas visiems atitinkamoje apskrities ar savivaldybės teritorijoje gyvenantiems neįgaliesiems.
+1. Už neįgaliųjų integravimą į kultūrinę veiklą, poilsį ir sportą ir lygių galimybių jiems dalyvauti šiose gyvenimo srityse kartu su kitais visuomenės nariais sudarymą atsako Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos ir savivaldybių institucijos. Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos iš valstybės biudžeto lėšų, savivaldybių institucijos iš savivaldybių biudžetų lėšų remia neįgaliųjų asociacijų įgyvendinamas kultūros, kūno kultūros ir sporto programas ir kitas priemones, skirtas visiems atitinkamoje savivaldybės teritorijoje gyvenantiems neįgaliesiems.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA00XI-791
 
 2. Valstybės masto ir tarptautinius neįgaliųjų kūno kultūros ir sporto renginius organizuoja ir rengia neįgaliųjų sporto organizacijos kartu su kitomis neįgaliųjų asociacijomis. Šie renginiai remiami iš valstybės biudžeto lėšų.
 
@@ -210,17 +218,29 @@ NEĮGALIŲJŲ SOCIALINĘ INTEGRACIJĄ ĮGYVENDINANČIOS INSTITUCIJOS
 
 2. Pagrindinės neįgaliųjų socialinę integraciją įgyvendinančios institucijos yra:
 
-1) Lietuvos Respublikos Vyriausybė. Ji koordinuoja ir įgyvendina neįgaliųjų socialinės integracijos sistemą, tvirtina ilgalaikes valstybines neįgaliųjų socialinės integracijos programas ir strategijas;
+1) Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. Ji koordinuoja ir įgyvendina neįgaliųjų socialinės integracijos sistemą, tvirtina ilgalaikes valstybines neįgaliųjų socialinės integracijos programas ir strategijas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA00XI-791
 
 2) ministerijos. Jos pagal savo kompetenciją rengia ir teikia Lietuvos Respublikos Vyriausybei siūlymus, įstatymų ir kitų teisės aktų projektus dėl neįgaliųjų socialinės integracijos sistemos tobulinimo ir organizuoja neįgaliųjų socialinės integracijos sistemos įgyvendinimą;
 
 3) Neįgaliųjų reikalų departamentas prie Socialinės apsaugos ir darbo ministerijos (toliau – Neįgaliųjų reikalų departamentas). Jis koordinuoja ir įgyvendina Nacionalinę žmonių su negalia socialinės integracijos programą ir vykdo kitas neįgaliųjų socialinės integracijos politikos įgyvendinimo priemones;
 
-4) apskričių viršininkai. Jie rengia, koordinuoja ir įgyvendina apskrities socialines programas ir socialinius projektus neįgaliesiems, vykdo kitas Apskrities valdymo įstatyme nustatytas funkcijas;
+4) Neteko galios nuo 2010-07-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XI-791, 2010-04-29, Žin. 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA00XI-791
 
 5) savivaldybės. Jos rengia ir įgyvendina savivaldybės neįgaliųjų socialinės integracijos programas, atsako už neįgaliųjų specialiųjų poreikių tenkinimą teikiant bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymą, bendradarbiavimą su neįgaliųjų asociacijomis;
 
-6) neįgaliųjų asociacijos. Jos atstovauja neįgaliųjų interesams, padeda įgyvendinti neįgaliųjų socialinės integracijos priemones: organizuoja socialinių paslaugų teikimą neįgaliesiems, neįgaliųjų poilsį, sportą, turizmą, kultūrinę veiklą, tarptautinį bendradarbiavimą. Organizuodamos savo veiklą, neįgaliųjų asociacijos bendradarbiauja su valstybės ir savivaldybių institucijomis ir įstaigomis, gali gauti šių institucijų ir įstaigų finansinę paramą.
+6) neįgaliųjų asociacijos. Jos atstovauja neįgaliųjų interesams, padeda įgyvendinti neįgaliųjų socialinės integracijos priemones: organizuoja socialinių paslaugų teikimą neįgaliesiems, neįgaliųjų poilsį, sportą, turizmą, kultūrinę veiklą, tarptautinį bendradarbiavimą. Organizuodamos savo veiklą, neįgaliųjų asociacijos bendradarbiauja su valstybės ir savivaldybių institucijomis ir įstaigomis, gali gauti šių institucijų ir įstaigų finansinę paramą. Neįgaliųjų asociacijos dalyvauja formuojant ir vykdant šalies socialinę politiką.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA00XI-791
 
 Straipsnio pakeitimai:
 
@@ -315,6 +335,12 @@ Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA0
 3. Teisę gauti profesinės reabilitacijos pašalpą turi asmenys, kuriems Tarnyba nustatė profesinės reabilitacijos paslaugų poreikį ir kurie dalyvauja profesinės reabilitacijos programoje.
 
 4. Profesinės reabilitacijos pašalpa asmeniui skiriama nuo pirmos dalyvavimo profesinės reabilitacijos programoje dienos ir mokama kiekvieną mėnesį, bet ne ilgiau kaip 180 kalendorinių dienų. Ši pašalpa skiriama ir mokama neatsižvelgiant į kitas asmens gaunamas pajamas.
+
+TAR pastaba. 4 dalies nuostatos netaikomos asmenims, kuriems profesinės reabilitacijos pašalpa paskirta iki įstatymo Nr. XI-791 įsigaliojimo (2010-07-01).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA00XI-791
 
 5. Sprendimą dėl profesinės reabilitacijos pašalpos mokėjimo priima šią pašalpą skirianti ir mokanti institucija, vadovaudamasi Tarnybos sprendimu dėl profesinės reabilitacijos paslaugų poreikio.
 
