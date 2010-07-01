@@ -4,7 +4,7 @@ identifier: "TAR.791BF9249C9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2010-01-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2012-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
 
@@ -170,7 +170,11 @@ KŪNO KULTŪROS IR SPORTO SISTEMA IR JOS VALDYMAS
 
 4) sportininkų ugdymo centrai;
 
-5) apskričių viršininkai, už sportą atsakingi apskričių viršininkų administracijų padaliniai;
+5) Neteko galios nuo 2010-07-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XI-850, 2010-05-25, Žin. 2010, Nr. 67-3348 (2010-06-10), i. k. 1101010ISTA00XI-850
 
 6) valstybės institucijos ir jų reguliavimo sričiai priskirtos įstaigos, kurių veikla susijusi su kūno kultūros ir sporto plėtra;
 
@@ -246,7 +250,17 @@ Kūno kultūros ir sporto departamentas, plėtodamas kūno kultūrą ir sportą 
 
 10) vadovaudamasis Vyriausybės nutarimais, nustato biudžetinių kūno kultūros ir sporto įstaigų ir organizacijų darbuotojų darbo apmokėjimo tvarką;
 
-11) atlieka kitas šiame ir kituose teisės aktuose nustatytas funkcijas.
+11) Vyriausybei įgaliojus įgyvendina sporto ir medicinos centrų ir kitų iš valstybės biudžeto ar valstybės pinigų fondų išlaikomų biudžetinių įstaigų savininko teises ir pareigas ar viešųjų įstaigų dalininko (savininko) turtines ir neturtines teises;
+
+Papildyta straipsnio punktu:
+
+Nr. XI-850, 2010-05-25, Žin., 2010, Nr. 67-3348 (2010-06-10), i. k. 1101010ISTA00XI-850
+
+12) atlieka kitas šiame ir kituose teisės aktuose nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-850, 2010-05-25, Žin., 2010, Nr. 67-3348 (2010-06-10), i. k. 1101010ISTA00XI-850
 
 10 straipsnis. Ministerijų ir kitų valstybės institucijų kompetencija kūno kultūros ir sporto srityje
 
@@ -264,13 +278,11 @@ Kūno kultūros ir sporto departamentas, plėtodamas kūno kultūrą ir sportą 
 
 7. Kitos ministerijos ir valstybės institucijos pagal savo kompetenciją dalyvauja formuojant kūno kultūros ir sporto politiką, įgyvendina ją ir sudaro sąlygas plėtoti kūno kultūrą ir sportą.
 
-11 straipsnis. Apskrities viršininko kompetencija
+11 straipsnis. Neteko galios nuo 2010-07-01
 
-Apskrities viršininkas, plėtodamas kūno kultūrą ir sportą regione:
+Straipsnio naikinimas:
 
-1) teisės aktų nustatyta tvarka steigia, reorganizuoja ir likviduoja apskrities valstybines kūno kultūros ir sporto įstaigas, atsako už jų funkcionavimą ir išlaikymą, rūpinasi sporto statinių būkle ir plėtra;
-
-2) rengia ir įgyvendina kūno kultūros ir sporto plėtros programas apskrityje.
+Nr. XI-850, 2010-05-25, Žin. 2010, Nr. 67-3348 (2010-06-10), i. k. 1101010ISTA00XI-850
 
 12 straipsnis. Savivaldybių kompetencija
 
@@ -815,6 +827,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-493, 2009-11-19, Žin., 2009, Nr. 144-6346 (2009-12-05), i. k. 1091010ISTA00XI-493
 
 Lietuvos Respublikos kūno kultūros ir sporto įstatymo 7, 12, 15, 41 ir 44 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-850, 2010-05-25, Žin., 2010, Nr. 67-3348 (2010-06-10), i. k. 1101010ISTA00XI-850
+
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 5, 9 straipsnių pakeitimo ir papildymo ir 11 straipsnio pripažinimo netekusiu galios įstatymas
 
 52 straipsnis. Sporto varžybų, kitų sporto renginių transliavimas
 
