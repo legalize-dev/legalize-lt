@@ -4,7 +4,7 @@ identifier: "TAR.DEBA0718FB0F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "2010-04-10"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 department: "Lietuvos Respublikos Seimas"
@@ -148,15 +148,15 @@ priklausanti Kuršių marių dalis, kuriuose yra navigacijos ženklų arba kuri�
 
 locmano žemėlapiuose pažymėtas farvateris.
 
-2. Vidaus vandenų keliai
+2. Vidaus vandenų
 
-skirstomi į valstybinės ir vietinės reikšmės. Valstybinės reikšmės vidaus
+keliai skirstomi į valstybinės ir vietinės reikšmės. Valstybinės reikšmės
 
-vandenų kelių sąrašą tvirtina Vyriausybė, o vietinės reikšmės ir perspektyvinių
+vidaus vandenų kelių sąrašą tvirtina Vyriausybė, o vietinės reikšmės ir
 
-vidaus vandenų kelių sąrašus – Susisiekimo ministerija, suderinusi su Aplinkos
+perspektyvinių vidaus vandenų kelių sąrašus – Susisiekimo ministerija,
 
-ministerija.
+suderinusi su Aplinkos ministerija.
 
 3. Vidaus vandenų kelius valdo, tvarko,
 
@@ -188,11 +188,11 @@ ar jo valdomo uosto arba prieplaukos akvatorijos bet kokias navigacines kliūtis
 
 ar kitus objektus, trukdančius laivybai farvateryje ar akvatorijoje.
 
-7. Valstybinė vidaus vandenų laivybos
+7. Lietuvos saugios laivybos
 
-inspekcija atlieka vidaus vandenų kelių būklės ir navigacinių įrenginių juose
+administracija atlieka vidaus vandenų kelių būklės ir juose esančių navigacinių
 
-funkcionavimo valstybinę kontrolę.
+įrenginių funkcionavimo valstybinę kontrolę.
 
 Straipsnio
 
@@ -205,6 +205,10 @@ Nr. IX-1214,
 Nr. X-1790,
 
 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
+
+Nr. XI-891,
+
+2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 7 straipsnis. Vidaus vandenų kelių
 
@@ -398,53 +402,31 @@ keleivių, krovinių, bagažo ir pašto saugumą, greitą ir patogų krovinių
 
 pakrovimą bei iškrovimą.
 
-5 dalies redakcija iki 2010 m. liepos 1 d.:
-
-5. Vidaus vandenų uostai ir
-
-prieplaukos gali būti valstybės, savivaldybių ir privatūs. Valstybės vidaus
-
-vandenų uostų ir prieplaukų teritorijos ir akvatorijos ribas nustato Vyriausybė
-
-Susisiekimo ministerijos teikimu; savivaldybės vidaus vandenų uostų ir
-
-prieplaukų teritorijos ir akvatorijos ribas – savivaldybės taryba, suderinusi
-
-su apskrities viršininku; privačių vidaus vandenų uostų ir prieplaukų teritorijos
-
-ir akvatorijos ribas – steigėjas, suderinęs su apskrities viršininku ir
-
-savivaldybe. Vidaus vandenų uostus ir prieplaukas steigiant saugomose
-
-teritorijose, uostų ir prieplaukų teritorijos ir akvatorijos ribos turi būti
-
-suderintos su saugomos teritorijos administracija.
-
-5 dalies redakcija nuo 2010 m. liepos 1 d.:
-
 5. Vidaus vandenų uostai ir
 
 prieplaukos gali būti valstybės, savivaldybių ir privatūs, išskyrus Kuršių
 
-nerijos nacionalinį parką, kuriame uostai gali būti tik valstybės arba
+nerijos nacionalinį parką, kuriame uostai ir prieplaukos gali būti tik
 
-savivaldybių nuosavybė. Valstybės vidaus vandenų ir Kuršių marių akvatorijos,
+valstybės arba savivaldybių nuosavybė. Valstybės vidaus vandenų ir Kuršių marių
 
-patenkančios į Kuršių nerijos nacionalinio parko ribas, uostų ir prieplaukų
+akvatorijos, patenkančios į Kuršių nerijos nacionalinio parko ribas, uostų ir
 
-teritorijos ir akvatorijos ribas ir plotus nustato Vyriausybė Susisiekimo
+prieplaukų teritorijos ir akvatorijos ribas ir plotus nustato Vyriausybė
 
-ministerijos teikimu; savivaldybės vidaus vandenų uostų ir prieplaukų
+Susisiekimo ministerijos teikimu; savivaldybės vidaus vandenų uostų ir
 
-teritorijos ir akvatorijos ribas ir plotus – savivaldybės taryba; privačių
+prieplaukų teritorijos ir akvatorijos ribas ir plotus – savivaldybės taryba;
 
-vidaus vandenų uostų ir prieplaukų teritorijos ir akvatorijos ribas ir plotus –
+privačių vidaus vandenų uostų ir prieplaukų teritorijos ir akvatorijos ribas ir
 
-steigėjas, suderinęs su savivaldybe. Vidaus vandenų uostus ir prieplaukas steigiant
+plotus – steigėjas, suderinęs su savivaldybe. Vidaus vandenų uostus ir
 
-saugomose teritorijose, uostų ir prieplaukų teritorijos ir akvatorijos ribos ir
+prieplaukas steigiant saugomose teritorijose, uostų ir prieplaukų teritorijos
 
-plotai turi būti suderinti su saugomos teritorijos administracija.
+ir akvatorijos ribos ir plotai turi būti suderinti su saugomos teritorijos
+
+administracija.
 
 6. Vidaus vandenų uostai ir prieplaukos,
 
@@ -454,19 +436,17 @@ iškrauti, steigiami ir registruojami Vyriausybės nustatyta tvarka. Nekomercin�
 
 mažųjų, pramoginių arba sportinių laivų prieplaukos steigiamos ir
 
-registruojamos Valstybinės vidaus vandenų laivybos inspekcijos nustatyta
+registruojamos Lietuvos saugios laivybos administracijos nustatyta tvarka.
 
-tvarka.
+7. Lietuvos saugios
 
-7. Valstybinė vidaus
-
-vandenų laivybos inspekcija atlieka laivybos vidaus vandenų uostuose ir
+laivybos administracija atlieka laivybos vidaus vandenų uostuose ir
 
 prieplaukose valstybinę kontrolę.
 
-8. Vidaus vandenų uostų kapitonus steigėjo
+8. Vidaus vandenų uostų kapitonus
 
-teikimu tvirtina Susisiekimo ministerija.
+steigėjo teikimu tvirtina Lietuvos saugios laivybos administracija.
 
 9. Tarptautinio vidaus vandenų uosto
 
@@ -506,17 +486,21 @@ Nr. X-1790,
 
 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
 
-Nr. XI-720, 2010-04-01, Žin.,
+Nr. XI-720,
 
-2010, Nr. 41-1943 (2010-04-10)
+2010-04-01, Žin., 2010, Nr. 41-1943 (2010-04-10)
+
+Nr. XI-891,
+
+2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 TREČIASIS SKIRSNIS
 
 VIDAUS VANDENŲ TRANSPORTO PRIEMONĖS
 
-14 straipsnis. Vidaus
+14 straipsnis. Vidaus vandenų
 
-vandenų transporto priemonių sąvoka
+transporto priemonių sąvoka
 
 Vidaus vandenų transporto
 
@@ -666,33 +650,31 @@ nustatyta tvarka atlikus jų techninę apžiūrą arba techninį patikrinimą.
 
 5. Lietuvos
 
-Respublikos vidaus vandenų laivų registre įregistruotų vidaus vandenų
+Respublikos vidaus vandenų laivų registre įregistruotų vidaus vandenų transporto priemonių
 
-transporto priemonių technines apžiūras atlieka ir atitinkamus dokumentus bei
+technines apžiūras atlieka ir atitinkamus dokumentus bei jų dublikatus išduoda Lietuvos
 
-jų dublikatus išduoda Valstybinė vidaus vandenų laivybos inspekcija susisiekimo
+saugios laivybos administracija susisiekimo ministro
 
-ministro nustatyta tvarka. Lietuvos Respublikos vidaus vandenų laivų registre
+nustatyta tvarka. Lietuvos Respublikos vidaus vandenų laivų registre įregistruotų vidaus vandenų transporto priemonių,
 
-įregistruotų vidaus vandenų transporto priemonių, esančių ne Lietuvos
+esančių ne Lietuvos Respublikos teritorijoje, techninių apžiūrų atlikimo
 
-Respublikos teritorijoje, techninių apžiūrų atlikimo išlaidas Vyriausybės ar
+išlaidas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlygina
 
-jos įgaliotos institucijos nustatyta tvarka atlygina vidaus vandenų transporto
+vidaus vandenų transporto priemonių savininkai (valdytojai).
 
-priemonių savininkai (valdytojai).
+6. Lietuvos saugios laivybos administracija išduoda to
 
-6. Valstybinė vidaus vandenų laivybos inspekcija išduoda
+pageidaujantiems vidaus vandenų transporto priemonių, įregistruotų Lietuvos
 
-to pageidaujantiems vidaus vandenų transporto priemonių, įregistruotų Lietuvos
+Respublikos vidaus vandenų laivų registre ir atitinkančių nustatytus
 
-Respublikos vidaus vandenų laivų registre ir atitinkančių nustatytus techninius
+techninius reikalavimus, savininkams (valdytojams) Europos Bendrijos vidaus
 
-reikalavimus, savininkams (valdytojams) Europos Bendrijos vidaus vandenų
+vandenų laivybos sertifikatus, papildomus Europos Bendrijos vidaus vandenų
 
-laivybos sertifikatus, papildomus Europos Bendrijos vidaus vandenų laivybos
-
-sertifikatus ir laikinuosius Europos Bendrijos vidaus vandenų laivybos
+laivybos sertifikatus ir laikinuosius Europos Bendrijos vidaus vandenų laivybos
 
 sertifikatus. Sertifikatų išdavimo tvarką ir sertifikatų formą tvirtina susisiekimo
 
@@ -708,11 +690,19 @@ reikalavimai, nustatyti Lietuvos Respublikos vidaus vandenų laivų registre
 
 8. Lietuvos Respublikos
 
-vidaus vandenų laivų registre įregistruotų vidaus vandenų transporto priemonių
+vidaus vandenų laivų registre įregistruotų
 
-žurnalus registruoja, statybos, pertvarkymo, modernizavimo dokumentus ir
+vidaus vandenų transporto priemonių žurnalus registruoja, statybos,
 
-brėžinius tvirtina Valstybinė vidaus vandenų laivybos inspekcija.
+pertvarkymo, modernizavimo dokumentus ir brėžinius tvirtina, jų
+
+ekspertizę atlieka Lietuvos saugios laivybos
+
+administracija. Lietuvos saugios laivybos administracija atlieka vykdomų vidaus
+
+vandenų transporto priemonių statybos, pertvarkymo, rekonstrukcijos ar remonto
+
+darbų techninę priežiūrą.
 
 9. Burinių jachtų techninę priežiūrą pagal Lietuvos
 
@@ -738,9 +728,13 @@ Nr. X-224, 2005-05-26,
 
 Žin., 2005, Nr. 72-2589 (2005-06-09)
 
-Nr. X-1790, 2008-11-06,
+Nr. X-1790,
 
-Žin., 2008, Nr. 134-5177 (2008-11-22)
+2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
+
+Nr. XI-891,
+
+2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 17 straipsnis. Laivų valdytojai
 
@@ -786,9 +780,9 @@ laivavedžiai – motorinių pramoginių laivų ir kitų motorinių plaukiojimo
 
 priemonių vairuotojai, turintys motorinio pramoginio laivo laivavedžio
 
-kvalifikacijos liudijimą ar motorinio pramoginio laivo laivavedžio tarptautinį kvalifikacijos
+kvalifikacijos liudijimą ar motorinio pramoginio laivo laivavedžio tarptautinį
 
-liudijimą.
+kvalifikacijos liudijimą.
 
 3. Vidaus vandenų transporto
 
@@ -802,13 +796,13 @@ vidaus vandenų transporto specialisto laipsnio diplomus, diplomų patvirtinimus
 
 vidaus vandenų transporto specialisto laipsnio kvalifikacijos liudijimus,
 
-motorinio pramoginio laivo laivavedžio kvalifikacijos liudijimus, motorinio pramoginio
+motorinio pramoginio laivo laivavedžio kvalifikacijos liudijimus, motorinio
 
-laivo laivavedžio tarptautinius kvalifikacijos liudijimus ir šių dokumentų
+pramoginio laivo laivavedžio tarptautinius kvalifikacijos liudijimus ir šių
 
-dublikatus susisiekimo ministro nustatyta tvarka išduoda Valstybinė vidaus
+dokumentų dublikatus susisiekimo ministro nustatyta tvarka išduoda Lietuvos
 
-vandenų laivybos inspekcija.
+saugios laivybos administracija.
 
 4. Lietuvos Respublikos vidaus vandenyse
 
@@ -832,6 +826,10 @@ Nr. X-1790,
 
 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
 
+Nr. XI-891,
+
+2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
+
 19 straipsnis. Laivo įgula
 
 1. Įgula – visų grupių laivų kapitonai,
@@ -848,9 +846,9 @@ laivuose, žvejybos laivuose ir plūduriuojančiuose įrenginiuose.
 
 reikalavimus tvirtina susisiekimo ministras. Vidaus vandenų laivo įgulos
 
-minimalios sudėties liudijimus bei jų dublikatus išduoda Valstybinė vidaus
+minimalios sudėties liudijimus bei jų dublikatus išduoda Lietuvos saugios
 
-vandenų laivybos inspekcija.
+laivybos administracija.
 
 3. Laivo kapitonu (škiperiu) ir kitais
 
@@ -864,21 +862,21 @@ transporto specialisto laipsnio diplomus ir diplomų patvirtinimus arba vidaus
 
 vandenų transporto specialisto laipsnio kvalifikacijos liudijimus, kuriuos
 
-išduoda Valstybinė vidaus vandenų laivybos inspekcija susisiekimo ministro
+išduoda Lietuvos saugios laivybos administracija susisiekimo ministro nustatyta
 
-nustatyta tvarka.
+tvarka.
 
 4. Burinių jachtų laivavedžių diplomus
 
 ir kitus pažymėjimus išduoda Lietuvos buriuotojų sąjungos patvirtintos
 
-kvalifikacinės komisijos. Diplomų, kvalifikacijos liudijimų ir pažymėjimų
+kvalifikacinės komisijos. Diplomų, kvalifikacijos liudijimų ir pažymėjimų išdavimo
 
-išdavimo sąlygas ir tvarką nustato Burinių jachtų laivavedžių diplomavimo
+sąlygas ir tvarką nustato Burinių jachtų laivavedžių diplomavimo taisyklės,
 
-taisyklės. Suderinusi su Susisiekimo ministerija, jas tvirtina Lietuvos
+kurias, suderinusi su Lietuvos saugios laivybos administracija, tvirtina
 
-buriuotojų sąjunga.
+Lietuvos buriuotojų sąjunga.
 
 Straipsnio pakeitimai:
 
@@ -894,11 +892,15 @@ Nr. X-1790,
 
 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
 
+Nr. XI-891,
+
+2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
+
 20 straipsnis. Laivo kapitonas (škiperis)
 
-1. Savaeigį laivą valdo kapitonas, nesavaeigį
+1. Savaeigį laivą valdo kapitonas,
 
-laivą - škiperis.
+nesavaeigį laivą - škiperis.
 
 2. Laivo kapitonas (škiperis) vadovauja
 
@@ -1062,19 +1064,23 @@ laivybos Lietuvos Respublikos vidaus vandenyse kontrolė
 
 1. Valstybinę saugios laivybos Lietuvos
 
-Respublikos vidaus vandenyse kontrolę atlieka Valstybinė vidaus vandenų
+Respublikos vidaus vandenyse kontrolę atlieka Lietuvos saugios laivybos
 
-laivybos inspekcija.
+administracija.
 
-2. Valstybinės vidaus vandenų laivybos
+2. Lietuvos saugios laivybos
 
-inspekcijos pareigūnai, įtarę, kad vidaus vandenų transporto priemonę
+administracijos pareigūnai, įtarę, kad vidaus vandenų transporto priemonę
 
-vairuojantis asmuo yra neblaivus, specialiosiomis techninėmis priemonėmis gali
+vairuojantis asmuo yra neblaivus arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų,
 
-jį patikrinti arba Vyriausybės nustatyta tvarka siųsti neblaivumui (girtumui)
+turi nušalinti jį nuo vidaus vandenų transporto priemonės vairavimo,
 
-arba apsvaigimui nuo psichiką veikiančių medžiagų nustatyti.
+specialiosiomis techninėmis priemonėmis jį patikrinti arba Vyriausybės
+
+nustatyta tvarka siųsti neblaivumui (girtumui) arba apsvaigimui nuo psichiką
+
+veikiančių medžiagų nustatyti.
 
 Straipsnio pakeitimai:
 
@@ -1082,13 +1088,17 @@ Nr. VIII-1900, 00.08.29, Žin., 2000,
 
 Nr.75-2267 (00.09.07)
 
-Nr. VIII-1964, 00.09.26, Žin., 2000,
+Nr. VIII-1964, 00.09.26, Žin., 2000, Nr.85-2585
 
-Nr.85-2585 (00.10.11)
+(00.10.11)
 
 Nr. X-1790,
 
 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
+
+Nr. XI-891,
+
+2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 27 straipsnis. Avarijų Lietuvos
 
@@ -1098,7 +1108,7 @@ Lietuvos Respublikos vidaus vandenyse
 
 įvykusias avarijas susisiekimo ministro nustatyta tvarka registruoja ir tiria
 
-Valstybinė vidaus vandenų laivybos inspekcija.
+Lietuvos saugios laivybos administracija.
 
 Straipsnio pakeitimai:
 
@@ -1113,6 +1123,10 @@ Nr.85-2585 (00.10.11)
 Nr. X-1790,
 
 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
+
+Nr. XI-891,
+
+2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 ŠEŠTASIS SKIRSNIS
 
@@ -1126,13 +1140,11 @@ Nr. IX-289, 2001 04 19, Žin., 2001, Nr.
 
 28 straipsnis. Valstybės rinkliava
 
-Susisiekimo ministerija ir Valstybinė
+Už Susisiekimo ministerijos ir Lietuvos
 
-vidaus vandenų laivybos inspekcija ima Vyriausybės nustatyto dydžio valstybės
+saugios laivybos administracijos veiksmus, susijusius su šiame kodekse numatytų
 
-rinkliavas už veiksmus, susijusius su šiame kodekse numatytų atitinkamų
-
-dokumentų išdavimu.
+atitinkamų dokumentų išdavimu, mokama nustatyto dydžio valstybės rinkliava.
 
 Straipsnio pakeitimai:
 
@@ -1147,6 +1159,10 @@ Nr. X-224, 2005-05-26,
 Nr. X-1790,
 
 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
+
+Nr. XI-891,
+
+2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 29 straipsnis. Neteko galios nuo 2005 m. birželio 9 d.
 
@@ -1202,9 +1218,9 @@ Nr. VIII-926,
 
 98.11.17, Žin., 1998, Nr.105-2897 (98.12.02)
 
-Nr.
+Nr. XI-495,
 
-XI-495, 2009-11-19, Žin., 2009, Nr. 144-6347 (2009-12-05)
+2009-11-19, Žin., 2009, Nr. 144-6347 (2009-12-05)
 
 32 straipsnis. Keleivio bilietas
 
@@ -1664,11 +1680,13 @@ ar uždraudimas dėl nenugalimos jėgos
 
 ar kitų įvykių
 
-1. Uosto ar prieplaukos administracija gali
+1. Uosto ar prieplaukos administracija
 
-uždrausti arba apriboti krovinių vežimą, atsižvelgdama į vidaus vandens kelių
+gali uždrausti arba apriboti krovinių vežimą, atsižvelgdama į vidaus vandens
 
-techninę būklę, hidrometeorologijos tarnybų informaciją bei kitus pranešimus.
+kelių techninę būklę, hidrometeorologijos tarnybų informaciją bei kitus
+
+pranešimus.
 
 2. Jeigu dėl nenugalimos jėgos ar kitų
 
@@ -1736,9 +1754,9 @@ rašytine forma ar kitu šalių pasirinktu būdu (pasikeičiant raštais,
 
 telefonogramomis, faksogramomis ir kt.).
 
-54 straipsnis. Nesavaeigių laivų parengimas
+54 straipsnis. Nesavaeigių laivų
 
-buksyravimui
+parengimas buksyravimui
 
 Nesavaeigių laivų valdytojas privalo
 
@@ -1750,9 +1768,9 @@ pateikti buksyravimui laivus.
 
 buksyravimui
 
-Buksyruojančio laivo valdytojas, priimdamas
+Buksyruojančio laivo valdytojas,
 
-buksyravimui nesavaeigius laivus, privalo:
+priimdamas buksyravimui nesavaeigius laivus, privalo:
 
 1) patikrinti nesavaeigių laivų techninę
 
@@ -1912,7 +1930,7 @@ transporto valstybinis valdymas
 
 valdymą pagal savo kompetenciją Lietuvos Respublikoje vykdo Vyriausybė,
 
-Susisiekimo ministerija ir Valstybinė vidaus vandenų laivybos inspekcija.
+Susisiekimo ministerija ir Lietuvos saugios laivybos administracija.
 
 2. Lietuvos Respublikos Vyriausybė
 
@@ -1926,13 +1944,15 @@ aktus, reglamentuojančius vidaus vandenų transporto veiklą, ir atlieka kitas
 
 šiame kodekse ir kituose teisės aktuose nustatytas funkcijas.
 
-4. Valstybinė vidaus vandenų laivybos
+4. Lietuvos saugios laivybos
 
-inspekcija atlieka vidaus vandenų transporto veiklą reglamentuojančių teisės
+administracija nustato saugią laivybą reglamentuojančius techninius ir
 
-aktų vykdymo kontrolę ir vykdo kitas funkcijas, nustatytas šiame kodekse ir
+organizacinius reikalavimus, atlieka vidaus vandenų transporto veiklą
 
-kituose teisės aktuose.
+reglamentuojančių teisės aktų vykdymo kontrolę ir vykdo kitas funkcijas,
+
+nustatytas šiame kodekse ir kituose teisės aktuose.
 
 Straipsnio pakeitimai:
 
@@ -1947,6 +1967,10 @@ Nr.85-2585 (00.10.11)
 Nr. X-1790,
 
 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
+
+Nr. XI-891,
+
+2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 4(1)
 
@@ -1974,21 +1998,21 @@ vandenimis.
 
 2. Vežti keleivius ir
 
-krovinius laivais vidaus vandenimis tarptautiniais maršrutais turi teisę
+krovinius laivais vidaus vandenimis tarptautiniais maršrutais turi teisę įmonės,
 
-įmonės, įsteigtos Lietuvos Respublikoje ir turinčios licenciją verstis keleivių
+įsteigtos Lietuvos Respublikoje ir turinčios licenciją verstis keleivių ir
 
-ir krovinių vežimu laivais vidaus vandenimis tarptautiniais maršrutais, taip
+krovinių vežimu laivais vidaus vandenimis tarptautiniais maršrutais, taip pat
 
-pat įmonės, įsteigtos bet kurioje Europos Sąjungos ar Pasaulio prekybos
+įmonės, įsteigtos bet kurioje Europos Sąjungos ar Pasaulio prekybos
 
 organizacijos valstybėje narėje pagal šios valstybės narės įstatymus ir
 
 turinčios šios valstybės narės kompetentingų institucijų išduotą dokumentą,
 
-suteikiantį teisę vežti keleivius ir krovinius laivais vidaus vandenimis tarptautiniais
+suteikiantį teisę vežti keleivius ir krovinius laivais vidaus vandenimis
 
-maršrutais.
+tarptautiniais maršrutais.
 
 3. Licencijas verstis
 
@@ -2046,7 +2070,9 @@ jeigu:
 
 straipsnio 4 dalyje nustatytų reikalavimų;
 
-2) pateikiami ne visi dokumentai;
+2) pateikiami ne visi
+
+dokumentai;
 
 3) pateikti dokumentai
 
@@ -2090,9 +2116,9 @@ komunikacijų (kabelių linijų, diukerių ir kt.) valdytojai privalo:
 
 1) derinti su vidaus vandenų kelių valdymo
 
-institucijomis tiltų statybos, rekonstrukcijos ir remonto, antvandeninių ir povandeninių
+institucijomis tiltų statybos, rekonstrukcijos ir remonto, antvandeninių ir
 
-komunikacijų įrengimo projektus;
+povandeninių komunikacijų įrengimo projektus;
 
 2) įrengti ir aptarnauti
 
@@ -2158,11 +2184,11 @@ Nr. X-224, 2005-05-26,
 
 kapitono pareigos įvykus avarijai
 
-Įvykus avarijai, buksyruojančio laivo
+Įvykus avarijai, buksyruojančio laivo kapitonas
 
-kapitonas privalo imtis visų priemonių žmonių saugumui užtikrinti, avarijai
+privalo imtis visų priemonių žmonių saugumui užtikrinti, avarijai likviduoti,
 
-likviduoti, nesavaeigiam laivui išsaugoti.
+nesavaeigiam laivui išsaugoti.
 
 59 straipsnis. Atsakomybė už keleivio
 
@@ -2176,11 +2202,11 @@ pavojaus šaltinio, jeigu nėra įrodymų, kad žala atsirado dėl nenugalimos j
 
 arba nukentėjusiojo tyčios.
 
-2. Vežėjas atsako už žalą, kuri padaryta
+2. Vežėjas atsako už žalą, kuri padaryta keleiviui
 
-keleiviui laive arba įsodinimo ar išlaipinimo iš jo metu, neatsižvelgiant į
+laive arba įsodinimo ar išlaipinimo iš jo metu, neatsižvelgiant į tai, ar
 
-tai, ar laivas plaukė, ar stovėjo.
+laivas plaukė, ar stovėjo.
 
 60 straipsnis. Žalos, padarytos keleivio
 
@@ -2236,9 +2262,7 @@ susidūrimas.
 
 2. Žalą, padarytą keleiviams, kroviniui ar
 
-bagažui susidūrus keliems laivams, solidariai atlygina dėl to kalti laivų
-
-valdytojai.
+bagažui susidūrus keliems laivams, solidariai atlygina dėl to kalti laivų valdytojai.
 
 69 straipsnis. Pretenzijų ir ieškinių dėl
 
@@ -2304,11 +2328,11 @@ atsakomybę pagal baudžiamuosius įstatymus.
 
 ar sunaikinęs vidaus vandenų keliuose ar uostų akvatorijose navigacinius
 
-įrenginius ar hidrotechninius statinius, privalo atlyginti žalą, taip pat
+įrenginius ar hidrotechninius statinius, privalo atlyginti žalą, taip pat avarijų,
 
-avarijų, įvykusių dėl navigacinio ar uosto įrenginio sugadinimo, pasekmių
+įvykusių dėl navigacinio ar uosto įrenginio sugadinimo, pasekmių likvidavimo
 
-likvidavimo išlaidas.
+išlaidas.
 
 74 straipsnis. Neteko galios nuo 2002 m. gruodžio 24 d.
 
@@ -2316,9 +2340,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. IX-1214, 2002-12-03,
+Nr. IX-1214,
 
-Žin., 2002, Nr. 123-5510 (2002-12-24)
+2002-12-03, Žin., 2002, Nr. 123-5510 (2002-12-24)
 
 75 straipsnis. Neteko galios nuo 2002 m. gruodžio 24 d.
 
@@ -2412,7 +2436,9 @@ VIDAUS VANDENŲ TRANSPORTO KODEKSO 3, 4, 7, 10,
 
 KODEKSO PAPILDYMO 4(1) STRAIPSNIU ĮSTATYMAS
 
-Pakeistas įstatymo įsigaliojimas:
+Pakeistas įstatymo
+
+įsigaliojimas:
 
 Šis įstatymas įsigalioja nuo
 
@@ -2476,9 +2502,9 @@ Nr. IX-1942,
 
 2003-12-22, Žin., 2004, Nr. 4-45 (2004-01-07)
 
-VIDAUS VANDENŲ TRANSPORTO KODEKSO 7 STRAIPSNIO
+VIDAUS VANDENŲ TRANSPORTO KODEKSO 7 STRAIPSNIO PAKEITIMO
 
-PAKEITIMO ĮSTATYMAS
+ĮSTATYMAS
 
 6.
 
@@ -2536,9 +2562,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. XI-720, 2010-04-01, Žin.,
+Nr. XI-720,
 
-2010, Nr. 41-1943 (2010-04-10)
+2010-04-01, Žin., 2010, Nr. 41-1943 (2010-04-10)
 
 VIDAUS VANDENŲ TRANSPORTO
 
@@ -2548,11 +2574,31 @@ KODEKSO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja 2010 m. liepos 1 d.
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-891,
+
+2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
+
+VIDAUS
+
+VANDENŲ TRANSPORTO KODEKSO 4, 6, 13, 16, 18, 19, 26, 27 IR 28 STRAIPSNIŲ
+
+PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2010 m. liepos 1 d.
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2010-04-15)
+(2010-06-22)
 
 autrap@lrs.lt
 
