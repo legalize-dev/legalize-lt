@@ -4,7 +4,7 @@ identifier: "TAR.FA13E28615F6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-01-11"
-last_updated: "2009-06-25"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2009-06-25 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2012-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
 
@@ -131,7 +131,25 @@ ANTRASIS SKIRSNIS
 
 1. Įstaiga privalo turėti Vyriausybės patvirtintus reikalavimus atitinkančią interneto svetainę, kurioje teiktų informaciją apie savo funkcijas, struktūrą, informacijos teikimui skirtos informacijos rodyklę, kitą teisės aktais nustatytą informaciją.
 
-2. Visa informacija apie įstaigos veiklą vykdant teisės aktais pavestas funkcijas turi būti visiems prieinama ir teikiama neatlygintinai.
+2. Šio straipsnio 1 dalyje nurodytoje interneto svetainėje Vyriausybės nustatyta tvarka ir laikantis asmens duomenų apsaugos, valstybės, tarnybos, komercinės, profesinės ir kitų įstatymų saugomų paslapčių apsaugos reikalavimų, taip pat kitų įstatymuose nustatytų reikalavimų turi būti skelbiami:
+
+1) Seimo kontrolierių pažymos dėl įstaigoje atlikto skundo tyrimo ir informacija apie Seimo kontrolierių siūlymų (rekomendacijų) nagrinėjimo įstaigoje rezultatus;
+
+2) informacija apie įstaigos atžvilgiu priimtus valstybės kontrolieriaus ir jo pavaduotojų sprendimus pagal valstybinio audito ataskaitas, taip pat apie sprendimuose nurodytų teisės aktų pažeidimų pašalinimą, nurodymų, teikimų ir siūlymų vykdymą;
+
+3) įsiteisėję teismų sprendimai, kuriuose konstatuojami teisės aktų pažeidimai įstaigoje, taip pat informacija apie priemones, kurių buvo imtasi dėl šių teisės pažeidimų;
+
+4) informacija apie įstaigoje nustatytą šiurkštų tarnybinį nusižengimą ir už jį paskirtą galiojančią tarnybinę nuobaudą. Jeigu sprendimas dėl tarnybinės nuobaudos skyrimo buvo apskųstas įstatymų nustatyta tvarka, informacija skelbiama tik įsigaliojus teismo ar kitos tarnybinį ginčą nagrinėjusios institucijos sprendimui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-809, 2010-05-13, Žin., 2010, Nr. 63-3088 (2010-05-31), i. k. 1101010ISTA00XI-809
+
+3. Visa informacija apie įstaigos veiklą vykdant teisės aktais pavestas funkcijas turi būti visiems prieinama ir teikiama neatlygintinai.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-809, 2010-05-13, Žin., 2010, Nr. 63-3088 (2010-05-31), i. k. 1101010ISTA00XI-809
 
 7 straipsnis. Privačios informacijos gavimo tvarka
 
@@ -320,4 +338,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-285, 2009-06-11, Žin., 2009, Nr. 75-3064 (2009-06-25), i. k. 1091010ISTA00XI-285
 
 Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 2 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-809, 2010-05-13, Žin., 2010, Nr. 63-3088 (2010-05-31), i. k. 1101010ISTA00XI-809
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 6 straipsnio papildymo ir pakeitimo įstatymas
 
