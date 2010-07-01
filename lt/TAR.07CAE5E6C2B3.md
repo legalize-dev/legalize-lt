@@ -4,7 +4,7 @@ identifier: "TAR.07CAE5E6C2B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-26"
-last_updated: "2009-09-15"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2009-09-15 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2011-10-26
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
 
@@ -66,7 +66,11 @@ Nr. X-1472, 2008-04-01, Žin., 2008, Nr. 45-1680 (2008-04-19), i. k. 1081010ISTA
 
 5. Tarptautinės viešosios organizacijos vėliava – tarptautinės viešosios organizacijos institucijos teisės aktų nustatyta tvarka priimta ar patvirtinta tos organizacijos vėliava.
 
-6. Apskrities vėliava – apskrities viršininko administracijos su Lietuvos heraldikos komisija suderintas ir patvirtintas apskrities atributikos objektas.
+6. Apskrities vėliava – Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos su Lietuvos heraldikos komisija suderintas ir patvirtintas apskrities atributikos objektas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-746, 2010-04-13, Žin., 2010, Nr. 48-2296 (2010-04-27), i. k. 1101010ISTA00XI-746
 
 7. Savivaldybės vėliava – savivaldybės tarybos su Lietuvos heraldikos komisija suderintas ir patvirtintas savivaldybės atributikos objektas.
 
@@ -138,7 +142,11 @@ LIETUVOS VALSTYBĖS VĖLIAVA
 
 2) Respublikos Prezidento rezidencijos;
 
-3) Lietuvos Respublikos Vyriausybės, ministerijų ir apskričių viršininkų administracijų;
+3) Lietuvos Respublikos Vyriausybės ir ministerijų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-746, 2010-04-13, Žin., 2010, Nr. 48-2296 (2010-04-27), i. k. 1101010ISTA00XI-746
 
 4) Lietuvos Respublikos Konstitucinio Teismo ir kitų teismų;
 
@@ -376,7 +384,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 18 straipsnis. Įstatymo vykdymo priežiūra
 
-1. Už Lietuvos valstybės vėliavos, Lietuvos valstybės istorinės vėliavos, Respublikos Prezidento vėliavos, užsienio valstybių vėliavų, Europos Sąjungos vėliavos ir tarptautinių viešųjų organizacijų vėliavų, taip pat stalo ir automobilio vėliavėlių naudojimą valstybės institucijose yra atsakingi šių institucijų veiklą užtikrinančių valstybės įstaigų vadovai, t. y.:
+1. Už Lietuvos valstybės vėliavos, Lietuvos valstybės istorinės vėliavos, Respublikos Prezidento vėliavos, užsienio valstybių vėliavų, Europos Sąjungos vėliavos ir tarptautinių viešųjų organizacijų vėliavų, taip pat stalo ir automobilio vėliavėlių naudojimą valstybės ir savivaldybių institucijose yra atsakingi šių institucijų veiklą užtikrinančių įstaigų vadovai, t. y.:
 
 1) Lietuvos Respublikos Seime – Seimo kancleris;
 
@@ -384,13 +392,15 @@ BAIGIAMOSIOS NUOSTATOS
 
 3) Lietuvos Respublikos Vyriausybėje – Ministro Pirmininko kancleris;
 
-Straipsnio punkto pakeitimai:
-
-Nr. XI-325, 2009-07-07, Žin., 2009, Nr. 85-3582 (2009-07-18), i. k. 1091010ISTA00XI-325
-
 4) Lietuvos Respublikos Konstituciniame Teisme, Lietuvos Aukščiausiajame Teisme, Lietuvos vyriausiajame administraciniame teisme – teismo kancleris, kituose teismuose – teismo pirmininkas;
 
-5) kitose valstybės įstaigose, Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir specialiosiose misijose – jų vadovai.
+5) kitose valstybės įstaigose, Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir specialiosiose misijose – jų vadovai;
+
+6) savivaldybių institucijose – savivaldybės vadovas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-746, 2010-04-13, Žin., 2010, Nr. 48-2296 (2010-04-27), i. k. 1101010ISTA00XI-746
 
 2. Šio įstatymo įgyvendinimą prižiūri Lietuvos heraldikos komisija, savivaldybių administracijos, krašto apsaugos sistemos kariniuose vienetuose – krašto apsaugos ministras ar jo įgaliotas asmuo, savaeigiuose laivuose – kapitonai, nesavaeigiuose laivuose – škiperiai, Lietuvos Respublikos uostuose ir prieplaukose – jų viršininkai.
 
@@ -513,6 +523,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-325, 2009-07-07, Žin., 2009, Nr. 85-3582 (2009-07-18), i. k. 1091010ISTA00XI-325
 
 Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 18 straipsnio pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-746, 2010-04-13, Žin., 2010, Nr. 48-2296 (2010-04-27), i. k. 1101010ISTA00XI-746
+
+Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 2, 5, 18 straipsnių pakeitimo ir papildymo įstatymas
 
 101 straipsnis. Lietuvos valstybės istorinės vėliavos projekto ir etalono tvirtinimas
 
