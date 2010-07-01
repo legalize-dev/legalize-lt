@@ -4,7 +4,7 @@ identifier: "TAR.863886C4199F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-08"
-last_updated: "2003-06-20"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.863886C4199F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,17 +15,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos muziejų įstatymas
 
-Suvestinė redakcija nuo 2003-06-20 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2014-02-28
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 53-1292, i. k. 0951010ISTA000I-930
-
-TAR pastaba. Šio Įstatymo 7 straipsnio nuostatos, susijusios su Juridinių asmenų registru, įsigalioja nuo Juridinių asmenų registro veiklos pradžios.  Iki Juridinių asmenų registro veiklos pradžios muziejai, jų dokumentai ir duomenys registruojami ir kaupiami Lietuvos Respublikos kultūros įstaigų registre.  Per vienerius metus nuo šio Įstatymo įsigaliojimo muziejai turi suderinti steigimo dokumentus su šio Įstatymo nuostatomis.  Iki šio Įstatymo įsigaliojimo įsteigti muziejai, kurie nėra juridiniai asmenys, laikomi juos įsteigusių juridinių asmenų filialais, ir jų steigimo dokumentai galioja tiek, kiek neprieštarauja Civiliniam kodeksui, šiam ir kitiems įstatymams.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1593, 2003-05-29, Žin., 2003, Nr. 59-2638 (2003-06-20), i. k. 1031010ISTA0IX-1593
-
-Lietuvos Respublikos muziejų įstatymo pakeitimo įstatymas
 
 Nauja redakcija nuo 2003-06-20:
 
@@ -65,7 +57,11 @@ Muziejų sistemą sudaro visi juridiniai asmenys, kurie Lietuvos Respublikoje u�
 
 4 straipsnis. Muziejų klasifikacija
 
-1. Lietuvos Respublikoje muziejai skirstomi į nacionalinius, respublikinius, apskričių, savivaldybių, žinybinius ir kitus.
+1. Lietuvos Respublikoje muziejai skirstomi į nacionalinius, respublikinius, savivaldybių, žinybinius ir kitus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-733, 2010-04-08, Žin., 2010, Nr. 48-2283 (2010-04-27), i. k. 1101010ISTA00XI-733
 
 2. Nacionaliniai muziejai kaupia, saugo, tiria, restauruoja, konservuoja ir eksponuoja svarbiausius valstybės istorijos, meno, technikos, gamtos ir kitokių vertybių rinkinius. Nacionaliniam muziejui įstatymų nustatyta tvarka gali būti suteiktas mokslinių tyrimų įstaigos statusas. Nacionalinius muziejus, kaip biudžetines įstaigas, steigia Vyriausybė, o Kultūros ministerija įgyvendina jai pavestas steigėjo funkcijas. Sprendimą dėl nacionalinio muziejaus steigimo ar nacionalinio muziejaus statuso suteikimo respublikiniam muziejui priima Vyriausybė kultūros ministro teikimu. Nacionaliniai muziejai:
 
@@ -103,27 +99,19 @@ Muziejų sistemą sudaro visi juridiniai asmenys, kurie Lietuvos Respublikoje u�
 
 7) teikia metines veiklos ataskaitas bei darbo planus steigėjui ir Kultūros ministerijai.
 
-4. Apskričių muziejai kaupia, saugo, tiria, restauruoja, konservuoja ir eksponuoja apskrities kultūros istoriją atspindinčius muziejinių vertybių rinkinius. Apskrities muziejus steigia apskričių viršininkai. Apskričių muziejai:
+4. Neteko galios nuo 2010-07-01
 
-1) atlieka apskrityje esančių savivaldybių muziejų metodinio centro funkcijas;
+Straipsnio dalies naikinimas:
 
-2) inicijuoja bendras apskrities muziejines programas, koordinuoja jų įgyvendinimą;
-
-3) kaupia informaciją apie apskrities savivaldybių muziejuose esančius rinkinius;
-
-4) dalyvauja apskrities kultūros vertybių apsaugos pareigūnams kontroliuojant rinkinių apskaitą ir apsaugą savivaldybių muziejuose;
-
-5) prisideda prie apskrityje esančių savivaldybių muziejų darbuotojų tobulinimosi programų rengimo ir vykdymo;
-
-6) bendradarbiauja su švietimo įstaigomis ir rengia muziejines moksleivių lavinimo programas;
-
-7) vykdo parodų, švietimo ir tyrimo veiklą visoje apskrityje;
-
-8) teikia metų veiklos ataskaitas bei darbo planus steigėjui ir Kultūros ministerijai.
+Nr. XI-733, 2010-04-08, Žin. 2010, Nr. 48-2283 (2010-04-27), i. k. 1101010ISTA00XI-733
 
 5. Savivaldybių muziejai kaupia, saugo, tiria, konservuoja ir eksponuoja tam tikros savivaldybės teritorijos kultūros istoriją atspindinčius muziejinių vertybių rinkinius. Savivaldybių muziejus steigia savivaldybės. Savivaldybių muziejai:
 
-1) dalyvauja bendrose apskričių muziejinėse programose;
+1) Neteko galios nuo 2010-07-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XI-733, 2010-04-08, Žin. 2010, Nr. 48-2283 (2010-04-27), i. k. 1101010ISTA00XI-733
 
 2) bendradarbiauja su švietimo įstaigomis ir rengia muziejines moksleivių lavinimo programas;
 
@@ -203,13 +191,35 @@ MUZIEJŲ FINANSAVIMAS
 
 1. Nacionaliniai muziejai finansuojami iš Lietuvos valstybės biudžeto pagal asignavimų valdytojų patvirtintas sąmatas, laikantis Finansų ministerijos nustatytų finansavimo taisyklių ir iždo procedūrų. Nacionaliniam muziejui išlaikyti skiriami asignavimai Lietuvos valstybės biudžete atskira eilute.
 
-2. Respublikinių, apskričių ir savivaldybių muziejų lėšų šaltiniai gali būti steigėjų lėšos, valstybės biudžeto ar savivaldybių biudžetų asignavimai, kitos teisėtai įgytos lėšos.
+2. Respublikinių muziejų lėšų šaltiniai gali būti steigėjų lėšos, valstybės biudžeto asignavimai, kitos teisėtai įgytos lėšos.
 
-3. Žinybiniai ir kiti muziejai finansuojami iš steigėjų ir kitų teisėtai įgytų lėšų.
+Straipsnio dalies pakeitimai:
 
-4. Muziejai gali būti finansuojami pagal specialiąsias programas.
+Nr. XI-733, 2010-04-08, Žin., 2010, Nr. 48-2283 (2010-04-27), i. k. 1101010ISTA00XI-733
 
-5. Muziejų plėtojimo, muziejinių vertybių restauravimo bei mokslinio tyrimo programos finansuojamos iš valstybės biudžeto per Kultūros ministeriją ir iš kitų teisėtai įgytų lėšų.
+3. Savivaldybių muziejų lėšų šaltiniai gali būti steigėjų lėšos, savivaldybių biudžetų asignavimai, kitos teisėtai įgytos lėšos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-733, 2010-04-08, Žin., 2010, Nr. 48-2283 (2010-04-27), i. k. 1101010ISTA00XI-733
+
+4. Žinybiniai ir kiti muziejai finansuojami iš steigėjų ir kitų teisėtai įgytų lėšų.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-733, 2010-04-08, Žin., 2010, Nr. 48-2283 (2010-04-27), i. k. 1101010ISTA00XI-733
+
+5. Muziejai gali būti finansuojami pagal specialiąsias programas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-733, 2010-04-08, Žin., 2010, Nr. 48-2283 (2010-04-27), i. k. 1101010ISTA00XI-733
+
+6. Muziejų plėtojimo, muziejinių vertybių restauravimo bei mokslinio tyrimo programos finansuojamos iš valstybės biudžeto per Kultūros ministeriją ir iš kitų teisėtai įgytų lėšų.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-733, 2010-04-08, Žin., 2010, Nr. 48-2283 (2010-04-27), i. k. 1101010ISTA00XI-733
 
 PENKTASIS SKIRSNIS
 
@@ -219,7 +229,11 @@ MUZIEJŲ VEIKLOS VALSTYBINIS VALDYMAS
 
 Lietuvos Respublikos kultūros ministerija atlieka muziejų valstybinio valdymo institucijos funkcijas:
 
-1) nustato nacionalinių, respublikinių ir apskričių muziejų plėtotės strategiją, rengia ir finansuoja ją įgyvendinančias programas;
+1) nustato nacionalinių ir respublikinių muziejų plėtotės strategiją, rengia ir finansuoja ją įgyvendinančias programas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-733, 2010-04-08, Žin., 2010, Nr. 48-2283 (2010-04-27), i. k. 1101010ISTA00XI-733
 
 2) rengia muziejų veiklą reglamentuojančių dokumentų projektus ir teisės aktų nustatyta tvarka juos tvirtina;
 
@@ -276,6 +290,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1593, 2003-05-29, Žin., 2003, Nr. 59-2638 (2003-06-20), i. k. 1031010ISTA0IX-1593
 
 Lietuvos Respublikos muziejų įstatymo pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-733, 2010-04-08, Žin., 2010, Nr. 48-2283 (2010-04-27), i. k. 1101010ISTA00XI-733
+
+Lietuvos Respublikos muziejų įstatymo 4, 12, 13 straipsnių pakeitimo ir papildymo įstatymas
 
 15 straipsnis. Muziejinių vertybių apsauga ir apsaugos kontrolė
 
