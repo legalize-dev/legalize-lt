@@ -4,7 +4,7 @@ identifier: "TAR.90D8CF4E3E9F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-28"
-last_updated: "2008-01-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.90D8CF4E3E9F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 entry_into_force_conditions: "Įstatymo 31 ir 32 straipsniai įsigalioja 2007-07-19."
 ---
 # Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymas
+
+Suvestinė redakcija nuo 2010-07-01 iki 2010-12-31
+
+Įstatymas paskelbtas: Žin. 2007, Nr. 80-3214, i. k. 1071010ISTA00X-1238
 
 LIETUVOS RESPUBLIKOS VAIKO MINIMALIOS IR VIDUTINĖS PRIEŽIŪROS Į S T A T Y M A S
 
@@ -52,7 +56,11 @@ BENDROSIOS NUOSTATOS
 
 9. Vaikų dienos centras – įstaiga ar jos padalinys, teikiantys socialines paslaugas socialinės rizikos šeimoms ir vaikams bei organizuojantys tokių vaikų ugdymą.
 
-10. Vaikų Socializacijos centras – apskrities viršininko ar apskrities viršininko kartu su Lietuvos Respublikos juridiniais ar fiziniais asmenimis įsteigta bendrojo lavinimo mokykla, vykdanti vaiko vidutinę priežiūrą, pradinio, pagrindinio ir vidurinio ugdymo ir (ar) pirminio profesinio mokymo programas, taip pat vaiko laikinąją globą (rūpybą).
+10. Vaikų socializacijos centras – valstybinė bendrojo lavinimo mokykla, teisės aktų nustatyta tvarka vykdanti vaiko vidutinę priežiūrą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-781, 2010-04-27, Žin., 2010, Nr. 54-2644 (2010-05-11), i. k. 1101010ISTA00XI-781
 
 3 straipsnis. Vaiko minimalios ir vidutinės priežiūros uždaviniai
 
@@ -378,9 +386,17 @@ Vaikų Socializacijos centras:
 
 7) teikia siūlymus savivaldybės administracijos direktoriui ar jo įgaliotam asmeniui dėl vaikui paskirtos vidutinės priežiūros priemonės pratęsimo, pakeitimo ar panaikinimo;
 
-8) atsiskaito steigėjui už centro veiklą;
+8) atsiskaito savininko teises ir pareigas įgyvendinančiai institucijai (dalyvių susirinkimui) už centro veiklą;
 
-9) teikia siūlymus steigėjui ir suinteresuotoms institucijoms dėl vaiko vidutinės priežiūros priemonės tobulinimo.
+Straipsnio punkto pakeitimai:
+
+Nr. XI-781, 2010-04-27, Žin., 2010, Nr. 54-2644 (2010-05-11), i. k. 1101010ISTA00XI-781
+
+9) teikia siūlymus savininko teises ir pareigas įgyvendinančiai institucijai (dalyvių susirinkimui) ir suinteresuotoms institucijoms dėl vaiko vidutinės priežiūros priemonės tobulinimo.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-781, 2010-04-27, Žin., 2010, Nr. 54-2644 (2010-05-11), i. k. 1101010ISTA00XI-781
 
 22 straipsnis. Vaikui paskirtos vidutinės priežiūros priemonės vykdymo pradžia
 
@@ -458,11 +474,17 @@ VAIKO MINIMALIOS IR VIDUTINĖS PRIEŽIŪROS PRIEMONIŲ VALDYMAS
 
 1) dalyvauja formuojant ir įgyvendinant vaiko minimalios ir vidutinės priežiūros politiką;
 
-2) koordinuoja apskričių viršininkų ir savivaldybių institucijų veiklą vaiko minimalios ir vidutinės priežiūros priemonių vykdymo srityje;
+2) koordinuoja savivaldybių institucijų veiklą vaiko minimalios priežiūros priemonių vykdymo srityje;
 
-3) pagal kompetenciją teikia Lietuvos Respublikos Vyriausybei teisės aktų projektus dėl vaiko minimalios ir vidutinės priežiūros priemonių tobulinimo;
+3) teisės aktų nustatyta tvarka ir atvejais įgyvendina valstybės kaip vaikų socializacijos centro savininkės ar dalininkės teises ir pareigas, koordinuoja ir prižiūri vaiko vidutinės priežiūros priemonės vykdymą;
 
-4) bendradarbiauja su suinteresuotomis institucijomis ir teikia joms informaciją apie vaiko minimalios ir vidutinės priežiūros priemonių įgyvendinimą.
+4) pagal kompetenciją teikia Lietuvos Respublikos Vyriausybei teisės aktų projektus dėl vaiko minimalios ir vidutinės priežiūros priemonių tobulinimo;
+
+5) bendradarbiauja su suinteresuotomis institucijomis ir teikia joms informaciją apie vaiko minimalios ir vidutinės priežiūros priemonių įgyvendinimą.
+
+Straipsnio pakeitimai:
+
+Nr. XI-781, 2010-04-27, Žin., 2010, Nr. 54-2644 (2010-05-11), i. k. 1101010ISTA00XI-781
 
 27 straipsnis. Kitų suinteresuotų ministerijų įgaliojimai
 
@@ -472,21 +494,11 @@ Ministerijos:
 
 2) kartu su Lietuvos Respublikos švietimo ir mokslo ministru leidžia su vaiko minimalios ir vidutinės priežiūros įgyvendinimo politika susijusius teisės aktus.
 
-28 straipsnis. Apskrities viršininko įgaliojimai
+28 straipsnis. Neteko galios nuo 2010-07-01
 
-Apskrities viršininkas:
+Straipsnio naikinimas:
 
-1) atlieka vaikų Socializacijos centro steigėjo funkcijas;
-
-2) koordinuoja ir prižiūri vaiko vidutinės priežiūros priemonės vykdymą apskrityje;
-
-3) analizuoja vaiko vidutinės priežiūros priemonės įgyvendinimą apskrityje ir teikia siūlymus suinteresuotoms institucijoms dėl jos tobulinimo;
-
-4) teikia informaciją Švietimo ir mokslo ministerijai, kitoms suinteresuotoms institucijoms apie vaiko vidutinės priežiūros priemonės įgyvendinimą;
-
-5) siekdamas kokybiško ir veiksmingo vaiko vidutinės priežiūros priemonės įgyvendinimo, bendradarbiauja su savivaldybėmis ir kitomis institucijomis;
-
-6) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas.
+Nr. XI-781, 2010-04-27, Žin. 2010, Nr. 54-2644 (2010-05-11), i. k. 1101010ISTA00XI-781
 
 29 straipsnis. Savivaldybės administracijos įgaliojimai
 
@@ -526,7 +538,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 1. Savivaldybių institucijos pagal Vyriausybės arba jos įgaliotos institucijos nustatytus kriterijus ištiria vaiko minimalios priežiūros priemonių poreikį ir imasi veiksmų šio įstatymo nuostatoms įgyvendinti.
 
-2. Apskričių viršininkai pagal Vyriausybės arba jos įgaliotos institucijos nustatytus kriterijus ištiria vaiko vidutinės priežiūros priemonės poreikį ir imasi veiksmų šio įstatymo nuostatoms įgyvendinti.
+2. Neteko galios nuo 2010-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XI-781, 2010-04-27, Žin. 2010, Nr. 54-2644 (2010-05-11), i. k. 1101010ISTA00XI-781
 
 33 straipsnis. Įstatymo įsigaliojimas
 
@@ -535,4 +551,14 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-781, 2010-04-27, Žin., 2010, Nr. 54-2644 (2010-05-11), i. k. 1101010ISTA00XI-781
+
+Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo 2, 21, 26, 32 straipsnių pakeitimo ir 28 straipsnio pripažinimo netekusiu galios įstatymas
 
