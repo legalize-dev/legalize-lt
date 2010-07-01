@@ -4,7 +4,7 @@ identifier: "TAR.915C6D6EB2A5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-13"
-last_updated: "2010-01-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.915C6D6EB2A5"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 19 straipsnis įsigalioja 2006-06-30."
 ---
 # Lietuvos Respublikos socialinės paramos mokiniams įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2010-07-12
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 73-2755, i. k. 1061010ISTA000X-686
 
@@ -88,7 +88,7 @@ Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010IST
 
 4 straipsnis. Socialinės paramos mokiniams finansavimas
 
-1. Socialinė parama mokiniams finansuojama iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams, valstybės biudžete skirtų bendrųjų asignavimų apskričių viršininkų administracijoms ir Švietimo ir mokslo ministerijai, savivaldybių biudžetų lėšų, nevalstybinių mokyklų steigėjų skirtų lėšų ir įstatymų nustatyta tvarka gautų kitų lėšų.
+1. Socialinė parama mokiniams finansuojama iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams, valstybės biudžete skirtų bendrųjų asignavimų Švietimo ir mokslo ministerijai, savivaldybių biudžetų lėšų, nevalstybinių mokyklų steigėjų skirtų lėšų ir įstatymų nustatyta tvarka gautų kitų lėšų.
 
 2. Socialinės paramos mokiniams išlaidų rūšys:
 
@@ -100,15 +100,19 @@ Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010IST
 
 4) išlaidos socialinei paramai mokiniams administruoti (šią paramą administruojančių institucijų darbuotojų ir mokyklų darbuotojų, atsakingų už šios paramos teikimą, darbo užmokestis, valstybinio socialinio draudimo įmokos, ryšių paslaugos, pašto paslaugos ir kt.).
 
-3. Šio straipsnio 2 dalies 1 punkte nustatytos išlaidos savivaldybių ir nevalstybinių mokyklų mokiniams finansuojamos iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams, o valstybinių mokyklų mokiniams – iš apskričių viršininkų administracijoms ir Švietimo ir mokslo ministerijai valstybės biudžete skirtų bendrųjų asignavimų ir įstatymų nustatyta tvarka gautų kitų lėšų.
+3. Šio straipsnio 2 dalies 1 punkte nustatytos išlaidos savivaldybių ir nevalstybinių mokyklų mokiniams finansuojamos iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams, o valstybinių mokyklų mokiniams – iš Švietimo ir mokslo ministerijai valstybės biudžete skirtų bendrųjų asignavimų ir įstatymų nustatyta tvarka gautų kitų lėšų.
 
 4. Šio straipsnio 2 dalies 2 punkte nustatytos išlaidos finansuojamos iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams ir įstatymų nustatyta tvarka gautų kitų lėšų.
 
-5. Šio straipsnio 2 dalies 3 punkte nustatytos išlaidos finansuojamos iš savivaldybių biudžetų lėšų, nevalstybinių mokyklų steigėjų skirtų lėšų bei apskričių viršininkų administracijoms ir Švietimo ir mokslo ministerijai valstybės biudžete skirtų bendrųjų asignavimų ir įstatymų nustatyta tvarka gautų kitų lėšų.
+5. Šio straipsnio 2 dalies 3 punkte nustatytos išlaidos finansuojamos iš savivaldybių biudžetų lėšų, nevalstybinių mokyklų steigėjų skirtų lėšų ir Švietimo ir mokslo ministerijai valstybės biudžete skirtų bendrųjų asignavimų ir įstatymų nustatyta tvarka gautų kitų lėšų.
 
-6. Šio straipsnio 2 dalies 4 punkte nustatytoms išlaidoms finansuoti iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams ir iš valstybės biudžete skirtų bendrųjų asignavimų apskričių viršininkų administracijoms ir Švietimo ir mokslo ministerijai papildomai skiriami 4 procentai šio straipsnio 2 dalies 1 ir 2 punktuose nustatytoms išlaidoms finansuoti skirtų lėšų.
+6. Šio straipsnio 2 dalies 4 punkte nustatytoms išlaidoms finansuoti iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams ir iš valstybės biudžete skirtų bendrųjų asignavimų Švietimo ir mokslo ministerijai papildomai skiriami 4 procentai šio straipsnio 2 dalies 1 ir 2 punktuose nustatytoms išlaidoms finansuoti skirtų lėšų.
 
-7. Einamaisiais metais nepanaudotos šio straipsnio 2 dalies 1, 2 ar 4 punktuose nurodytoms išlaidoms apmokėti skirtos valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams ir iš valstybės biudžeto skirtos bendrųjų asignavimų lėšos apskričių viršininkų administracijoms ir Švietimo ir mokslo ministerijai gali būti skiriamos papildomai kitoms šio straipsnio 2 dalies 1 ar 2 punkte nurodytoms išlaidoms apmokėti.
+7. Einamaisiais metais nepanaudotos šio straipsnio 2 dalies 1, 2 ar 4 punktuose nurodytoms išlaidoms apmokėti skirtos valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams ir iš valstybės biudžeto skirtos bendrųjų asignavimų lėšos Švietimo ir mokslo ministerijai gali būti skiriamos papildomai kitoms šio straipsnio 2 dalies 1 ar 2 punkte nurodytoms išlaidoms apmokėti.
+
+Straipsnio pakeitimai:
+
+Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010ISTA00XI-546
 
 ANTRASIS SKIRSNIS
 
@@ -174,7 +178,11 @@ SOCIALINĖS PARAMOS MOKINIAMS ADMINISTRAVIMAS
 
 9 straipsnis. Socialinę paramą mokiniams administruojančios institucijos
 
-1. Apskričių viršininkų administracijos, Švietimo ir mokslo ministerija administruoja mokinių nemokamą maitinimą valstybinėse mokyklose. Savivaldybių administracijos administruoja mokinių nemokamą maitinimą savivaldybių įsteigtose mokyklose ir savivaldybių teritorijose įsteigtose nevalstybinėse mokyklose.
+1. Švietimo ir mokslo ministerija administruoja mokinių nemokamą maitinimą valstybinėse mokyklose, o savivaldybių administracijos – savivaldybių įsteigtose mokyklose ir savivaldybių teritorijose įsteigtose nevalstybinėse mokyklose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010ISTA00XI-546
 
 2. Savivaldybių administracijos administruoja paramą mokinio reikmenims įsigyti jų teritorijose gyvenamąją vietą deklaravusiems arba gyvenantiems mokiniams.
 
@@ -212,7 +220,11 @@ SOCIALINĖS PARAMOS MOKINIAMS ADMINISTRAVIMAS
 
 12 straipsnis. Socialinės paramos mokiniams teikimas
 
-1. Mokiniams nemokamas maitinimas teikiamas toje mokykloje, kurioje mokiniai mokosi, neatsižvelgiant į jų gyvenamąją vietą. Valstybinių mokyklų mokiniams nemokamas maitinimas teikiamas apskričių viršininkų administracijų ar švietimo ir mokslo ministro patvirtinta mokinių nemokamo maitinimo mokyklose tvarka, o savivaldybių ir nevalstybinių mokyklų mokiniams – savivaldybių tarybų patvirtinta mokinių nemokamo maitinimo mokyklose tvarka.
+1. Mokiniams nemokamas maitinimas teikiamas toje mokykloje, kurioje mokiniai mokosi, neatsižvelgiant į jų gyvenamąją vietą. Valstybinių mokyklų mokiniams nemokamas maitinimas teikiamas švietimo ir mokslo ministro patvirtinta mokinių nemokamo maitinimo mokyklose tvarka, o savivaldybių ir nevalstybinių mokyklų mokiniams – savivaldybių tarybų patvirtinta mokinių nemokamo maitinimo mokyklose tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010ISTA00XI-546
 
 2. Mokiniams nemokamas maitinimas vasaros atostogų metu teikiamas mokyklose organizuojamose dieninėse vasaros poilsio stovyklose.
 
@@ -240,7 +252,11 @@ Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010IST
 
 13 straipsnis. Lėšų poreikio socialinei paramai mokiniams teikti nustatymas
 
-1. Savivaldybės administracija lėšų poreikį šio įstatymo 4 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytoms išlaidoms finansuoti nustato vadovaudamasi Vyriausybės ar jos įgaliotos institucijos patvirtinta Valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti skirtų lėšų apskaičiavimo metodika, o apskričių viršininkų administracijos ir Švietimo ir mokslo ministerija lėšų poreikį šio įstatymo 4 straipsnio 2 dalies 1 ir 4 punktuose nurodytoms išlaidoms finansuoti nustato vadovaudamosi Vyriausybės ar jos įgaliotos institucijos patvirtinta Valstybės biudžeto lėšų poreikio mokinių nemokamam maitinimui planavimo bei jų paskirstymo metodika.
+1. Savivaldybės administracija lėšų poreikį šio įstatymo 4 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytoms išlaidoms finansuoti nustato vadovaudamasi Vyriausybės ar jos įgaliotos institucijos patvirtinta Valstybinėms (perduotoms savivaldybėms) funkcijoms atlikti skirtų lėšų apskaičiavimo metodika, o Švietimo ir mokslo ministerija lėšų poreikį šio įstatymo 4 straipsnio 2 dalies 1 ir 4 punktuose nurodytoms išlaidoms finansuoti nustato vadovaudamasi Vyriausybės ar jos įgaliotos institucijos patvirtinta Valstybės biudžeto lėšų poreikio mokinių nemokamam maitinimui planavimo bei jų paskirstymo metodika.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010ISTA00XI-546
 
 2. Mokinių nemokamą maitinimą administruojančios institucijos lėšų poreikį šio įstatymo 4 straipsnio 2 dalies 3 punkte nurodytoms išlaidoms finansuoti nustato vadovaudamosi savo patvirtinta lėšų poreikio planavimo ir paskirstymo mokykloms metodika.
 
@@ -272,7 +288,7 @@ Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010IST
 
 4) tvirtina paramos mokinio reikmenims įsigyti tvarką.
 
-3. Savivaldybių administracijos, apskričių viršininkų administracijos, Švietimo ir mokslo ministerija:
+3. Savivaldybių administracijos ir Švietimo ir mokslo ministerija:
 
 1) atsako už valstybės ir savo biudžeto lėšų, skiriamų šiam įstatymui įgyvendinti, tikslingą panaudojimą;
 
@@ -284,7 +300,11 @@ Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010IST
 
 5) teikia Socialinės apsaugos ir darbo ministerijai duomenis apie suteiktą socialinę paramą mokiniams, vadovaudamosi Vyriausybės ar jos įgaliotos institucijos patvirtinta duomenų apie suteiktą socialinę paramą mokiniams teikimo tvarka, ir, jei reikia, kitą informaciją;
 
-6) gavusios informaciją apie pasikeitusias aplinkybes, turinčias įtakos skiriant socialinę paramą mokiniams ar kilus įtarimui, kad pateikta neteisinga informacija arba ji yra nuslėpta, apie tai praneša savivaldybės, kurioje priimamas sprendimas dėl socialinės paramos mokiniams skyrimo, administracijos direktoriui arba jo įgaliotam administracijos valstybės tarnautojui.
+6) gavusios informaciją apie pasikeitusias aplinkybes, turinčias įtakos skiriant socialinę paramą mokiniams, ar kilus įtarimui, kad pateikta neteisinga informacija arba ji yra nuslėpta, apie tai praneša savivaldybės, kurioje priimamas sprendimas dėl socialinės paramos mokiniams skyrimo, administracijos direktoriui arba jo įgaliotam administracijos valstybės tarnautojui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010ISTA00XI-546
 
 4. Savivaldybių administracijos:
 
