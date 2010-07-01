@@ -4,7 +4,7 @@ identifier: "TAR.CE3B174CA7E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-30"
-last_updated: "1998-07-24"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CE3B174CA7E6"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymas
+
+Suvestinė redakcija nuo 2010-07-01 iki 2014-12-31
+
+Įstatymas paskelbtas: Žin. 1998, Nr. 66-1909, i. k. 0981010ISTAVIII-822
 
 LIETUVOS RESPUBLIKOS NEFORMALIOJO SUAUGUSIŲJŲ ŠVIETIMO ĮSTATYMAS
 
@@ -130,7 +134,11 @@ Neformaliojo suaugusiųjų švietimo vykdytojai privalo:
 
 4) rengti, tobulinti ir įgyvendinti neformaliojo suaugusiųjų švietimo programas, atsižvelgdami į dalyvių, steigėjų bei neformaliojo suaugusiųjų švietimo rėmėjų pageidavimus.
 
-13 straipsnis.       Ministerijų, kitų Vyriausybės institucijų, apskričių viršininkų ir savivaldybių funkcijos
+13 straipsnis. Ministerijų, kitų Vyriausybės institucijų ir savivaldybių funkcijos
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XI-751, 2010-04-13, Žin., 2010, Nr. 48-2301 (2010-04-27), i. k. 1101010ISTA00XI-751
 
 1. Švietimo ir mokslo ministerija:
 
@@ -156,7 +164,7 @@ Neformaliojo suaugusiųjų švietimo vykdytojai privalo:
 
 3) prireikus užsako ir remia neformaliojo suaugusiųjų švietimo, padedančio prisitaikyti prie darbo rinkos poreikių, mokslinius tyrimus.
 
-3. Kitos ministerijos, Vyriausybės institucijos, apskričių viršininkai, savivaldybės pagal savo kompetenciją:
+3. Kitos ministerijos, Vyriausybės institucijos, savivaldybės pagal savo kompetenciją:
 
 1) organizuoja ir koordinuoja savo reguliavimo sričiai priklausančių neformaliojo suaugusiųjų švietimo institucijų veiklą;
 
@@ -165,6 +173,10 @@ Neformaliojo suaugusiųjų švietimo vykdytojai privalo:
 3) prireikus užsako ir remia neformaliojo suaugusiųjų švietimo būklės mokslinius tyrimus;
 
 4) tiria neformaliojo suaugusiųjų švietimo poreikius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-751, 2010-04-13, Žin., 2010, Nr. 48-2301 (2010-04-27), i. k. 1101010ISTA00XI-751
 
 Ketvirtasis skirsnis
 
@@ -222,19 +234,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-91 straipsnis. Individualių mokymosi paskyrų sistema
+Pakeitimai:
 
-1. Individualių mokymosi paskyrų sistema – vieno langelio principu veikianti vieninga tarpinstitucinė sistema, kurioje teikiami pasiūlymai mokytis pagal neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas, galimybės pretenduoti į valstybės institucijų skiriamą finansavimą neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programoms ir profesinio orientavimo paslaugos asmenims, siekiantiems tobulinti kompetencijas ir (arba) jų įgyti. Individualių mokymosi paskyrų sistemoje subendrinamas visų neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi sistemoje veikiančių institucijų skiriamas finansavimas ir valdoma informacija apie neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas bei įgytas kompetencijas.
+1.
 
-2. Individualių mokymosi paskyrų sistemoje skelbiamos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programos, kurios atitinka šio įstatymo 10 straipsnyje nustatytos kokybės užtikrinimo tvarkos reikalavimus, įskaitant neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas, kurias baigus įgyjamos kvalifikacijos ir kompetencijos, įtrauktos į aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų sąrašą, tvirtinamą Užimtumo įstatyme nustatyta tvarka.
+Lietuvos Respublikos Seimas, Įstatymas
 
-3. Švietimo, mokslo ir sporto ministras, suderinęs su socialinės apsaugos ir darbo ministru bei ekonomikos ir inovacijų ministru, nustato Individualių mokymosi paskyrų sistemos administravimo ir asmenų, siekiančių tobulinti kompetencijas ir (arba) jų įgyti per šią sistemą, finansavimo tvarką bei konkurso gauti finansavimą, skiriamą dalyvauti neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programose, organizavimo tvarką. Individualių mokymosi paskyrų informacinę sistemą administruoja švietimo, mokslo ir sporto ministro įgaliota įstaiga.
+Nr. XI-751, 2010-04-13, Žin., 2010, Nr. 48-2301 (2010-04-27), i. k. 1101010ISTA00XI-751
 
-4. Individualių mokymosi paskyrų sistemai valdyti švietimo, mokslo ir sporto ministras sudaro valdymo grupę, tvirtina jos nuostatus ir personalinę sudėtį.
-
-5. Švietimo, mokslo ir sporto ministro siūlymu Vyriausybė, įvertinusi Vyriausybės sudarytos komisijos, koordinuojančios nacionalinės žmogiškųjų išteklių stebėsenos vykdymą, išvadą (rekomendacijas), ne rečiau nei kartą per dvejus metus, bet ne vėliau nei iki tam tikrų metų gegužės 1 dienos tvirtina ministerijų ir jų administruojamų neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi finansavimo priemonių, įtraukiamų į Individualių mokymosi paskyrų sistemą, sąrašą ir prioritetines Individualių mokymosi paskyrų sistemoje teikiamų valstybės finansuojamų programų sritis, prioritetines asmenų grupes.
-
-Papildyta straipsniu:
-
-Nr. XIV-1932, 2023-05-09, paskelbta TAR 2023-05-15, i. k. 2023-09151
+Lietuvos Respublikos neformaliojo suaugusiųjų švietimo įstatymo 13 straipsnio pakeitimo įstatymas
 
