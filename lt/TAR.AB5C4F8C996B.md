@@ -4,7 +4,7 @@ identifier: "TAR.AB5C4F8C996B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-07-05"
-last_updated: "2006-07-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB5C4F8C996B"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos strateginių prekių kontrolės įstatymas
 
-Suvestinė redakcija nuo 2006-07-01 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2012-06-29
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1533, i. k. 0951010ISTA00I-1022
 
@@ -110,7 +110,11 @@ Vyriausybė ar jos įgaliota institucija, vadovaudamasi Europos Sąjungos bendru
 
 3. Į Bendrąjį karinės įrangos sąrašą įtrauktų prekių tranzitui, kai jų siuntėjas ir gavėjas (arba bent vienas iš jų) yra užsienio valstybės karinės institucijos arba siuntėjas ir gavėjas veikia šių institucijų įgalioti, licencijas (leidimus) išduoda Vyriausybės įgaliota institucija kitų Lietuvos Respublikos teisės aktų nustatyta tvarka.
 
-4. Į Bendrąjį karinės įrangos sąrašą įtrauktų prekių importui, kai šias prekes importuoja Lietuvos Respublikos krašto apsaugos ministerija ir Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos Vyriausybės, Ūkio ministerijos licencija nereikalinga.
+4. Į Bendrąjį karinės įrangos sąrašą įtrauktų prekių importui, kai šias prekes importuoja Lietuvos Respublikos krašto apsaugos ministerija ir Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos, Ūkio ministerijos licencija nereikalinga.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-648, 2010-01-14, Žin., 2010, Nr. 13-616 (2010-02-02), i. k. 1101010ISTA00XI-648
 
 5. Eksporto licencija privaloma į Bendrąjį karinės įrangos sąrašą neįtrauktų prekių eksportui, jei Ūkio ministerija ar kitos strateginių prekių kontrolę vykdančios valstybės institucijos ir įstaigos yra raštu pranešusios juridiniam ar fiziniam asmeniui, ar užsienio juridinių asmenų ir kitų organizacijų filialui, kad atitinkamos prekės yra arba gali būti panaudotos kuriant, gaminant, tvarkant, naudojant, prižiūrint, laikant, nustatant ar platinant cheminį, biologinį, branduolinį ginklą ar kitus branduolinius sprogstamuosius įtaisus arba kuriant, gaminant, prižiūrint ar laikant tokius ginklus nešančias raketas, arba atitinkamos prekės yra ar gali būti panaudotos į Bendrąjį karinės įrangos sąrašą įtrauktoms prekėms kurti ar gaminti.
 
@@ -279,6 +283,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-545, 2006-04-06, Žin., 2006, Nr. 44-1586 (2006-04-22), i. k. 1061010ISTA000X-545
 
 Lietuvos Respublikos strateginių prekių kontrolės įstatymo 1, 3, 6, 7 straipsnių ir įstatymo priedo pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-648, 2010-01-14, Žin., 2010, Nr. 13-616 (2010-02-02), i. k. 1101010ISTA00XI-648
+
+Lietuvos Respublikos strateginių prekių kontrolės įstatymo 6 straipsnio pakeitimo įstatymas
 
 13 straipsnis. Atsakomybė už Įstatymo pažeidimus
 
