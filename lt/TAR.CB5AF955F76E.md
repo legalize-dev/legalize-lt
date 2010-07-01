@@ -4,7 +4,7 @@ identifier: "TAR.CB5AF955F76E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-04-06"
-last_updated: "2007-01-30"
+last_updated: "2010-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2007-01-30 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2011-06-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 67-0; Žin. 1993, Nr.12-296, i. k. 0931010ISTA000I-119
 
@@ -344,11 +344,19 @@ Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010IS
 
 „Valstybės žiniose“ skelbiamiems teisės aktams rašomas eilės numeris.
 
-21 straipsnis. „Valstybės žinių“ prenumeravimas
+21 straipsnis. Savivaldybių atstovaujamųjų ir vykdomųjų institucijų bei savivaldybių merų teisės aktų įsigaliojimas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XI-748, 2010-04-13, Žin., 2010, Nr. 48-2298 (2010-04-27), i. k. 1101010ISTA00XI-748
 
 1. Ministerijos, Vyriausybės įstaigos, kitos valstybės valdymo institucijos, teismai ir kitos teisėsaugos įstaigos, aukštesniųjų administracinių vienetų valdymo institucijos, savivaldybių institucijos ir įstaigos, kiti valstybės reguliavimo sričiai priklausantys juridiniai asmenys privalo prenumeruoti ir komplektuoti „Valstybės žinias“.
 
-2. Valstybinės ryšių tarnybos privalo garantuoti, kad „Valstybės žinios“ šio straipsnio 1 dalyje nurodytiems ir kitiems prenumeratoriams būtų įteikiamos ne vėliau kaip kitą dieną po jų išleidimo.
+2. Savivaldybių atstovaujamųjų ir vykdomųjų institucijų bei savivaldybių merų priimti individualūs teisės aktai įsigalioja jų pasirašymo dieną, jeigu pačiuose teisės aktuose nenustatyta vėlesnė jų įsigaliojimo data.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-748, 2010-04-13, Žin., 2010, Nr. 48-2298 (2010-04-27), i. k. 1101010ISTA00XI-748
 
 22 straipsnis. Oficialių teisės aktų rinkinių leidimas
 
@@ -459,6 +467,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1020, 2007-01-16, Žin., 2007, Nr. 12-493 (2007-01-30), i. k. 1071010ISTA00X-1020
 
 Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 3, 12 straipsnių pakeitimo ir įstatymo papildymo 3-1 straipsniu įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-748, 2010-04-13, Žin., 2010, Nr. 48-2298 (2010-04-27), i. k. 1101010ISTA00XI-748
+
+Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 12 straipsnio pakeitimo įstatymas
 
 101 straipsnis
 
