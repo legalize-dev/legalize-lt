@@ -4,7 +4,7 @@ identifier: "TAR.7E6F5E3523EA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-10-26"
-last_updated: "2006-06-30"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E6F5E3523EA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos triukšmo valdymo įstatymas
 
-Suvestinė redakcija nuo 2006-06-30 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2014-09-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 164-5971, i. k. 1041010ISTA0IX-2499
 
@@ -86,17 +86,47 @@ bendrosios nuostatos
 
 21. Triukšmo prevencija – priemonių, mažinančių triukšmo šaltinių įvairovę ir (ar) skaičių, užkertančių kelią viršyti triukšmo ribinius dydžius ir (ar) mažinančių triukšmo šaltinių garso slėgio, galios, stiprumo, energijos lygius, įgyvendinimas.
 
-22. Triukšmo rodiklis – garso, suvokiamo kaip triukšmas, duomuo, išreikštas fizikiniais garso mato vienetais.
+22. Triukšmo prevencijos zona – gyvenamosios (-ųjų) vietovės (-ių) teritorija, kurioje triukšmas viršija ribinius dydžius ir kurioje būtina įgyvendinti triukšmo prevencijos ir mažinimo priemones.
 
-23. Triukšmo ribinis dydis – Ldienos, Lvakaro arba Lnakties rodiklio vidutinis dydis, kurį viršijus triukšmo šaltinio valdytojas privalo imtis priemonių skleidžiamam triukšmui šalinti ir (ar) mažinti.
+Papildyta straipsnio dalimi:
 
-24. Triukšmo šaltinio valdytojas – triukšmo šaltinio savininkas arba kitas asmuo, teisėtai valdantis triukšmo šaltinį.
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
 
-25. Triukšmo šaltinis – bet koks įrenginys ar objektas, kuris kelia (skleidžia) triukšmą.
+23. Triukšmo rodiklis – garso, suvokiamo kaip triukšmas, duomuo, išreikštas fizikiniais garso mato vienetais.
 
-26. Urbanizuota teritorija – teritorija, užimta statinių ir jų priklausinių (su naudojamais žemės sklypais, inžinerinėmis komunikacijomis ir bendrojo naudojimo želdynais), taip pat valstybinių kelių ir geležinkelių kompleksų teritorija.
+Straipsnio dalies numeracijos pakeitimas:
 
-27. Vakaro triukšmo rodiklis (Lvakaro) – vakaro metu (nuo 18 val. iki 22 val.) triukšmo sukelto dirginimo rodiklis, t. y. vidutinis ilgalaikis A svertinis garso lygis, nustatytas vienerių metų vakaro laikotarpiui.
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
+
+24. Triukšmo ribinis dydis – Ldienos, Lvakaro arba Lnakties rodiklio vidutinis dydis, kurį viršijus triukšmo šaltinio valdytojas privalo imtis priemonių skleidžiamam triukšmui šalinti ir (ar) mažinti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
+
+25. Triukšmo šaltinio valdytojas – triukšmo šaltinio savininkas arba kitas asmuo, teisėtai valdantis triukšmo šaltinį.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
+
+26. Triukšmo šaltinis – bet koks įrenginys ar objektas, kuris kelia (skleidžia) triukšmą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
+
+27. Urbanizuota teritorija – teritorija, užimta statinių ir jų priklausinių (su naudojamais žemės sklypais, inžinerinėmis komunikacijomis ir bendrojo naudojimo želdynais), taip pat valstybinių kelių ir geležinkelių kompleksų teritorija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
+
+28. Vakaro triukšmo rodiklis (Lvakaro) – vakaro metu (nuo 18 val. iki 22 val.) triukšmo sukelto dirginimo rodiklis, t. y. vidutinis ilgalaikis A svertinis garso lygis, nustatytas vienerių metų vakaro laikotarpiui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
 
 ANTRASIS SKIRSNIS
 
@@ -146,7 +176,11 @@ Valstybinį triukšmo valdymą pagal savo kompetenciją įgyvendina:
 
 2) Lietuvos Respublikos ministerijos (Vidaus reikalų, Sveikatos apsaugos, Aplinkos, Susisiekimo, Žemės ūkio);
 
-3) apskričių viršininkai;
+3) Neteko galios nuo 2010-07-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XI-769, 2010-04-20, Žin. 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
 
 4) savivaldybių institucijos;
 
@@ -172,7 +206,17 @@ Valstybinį triukšmo valdymą pagal savo kompetenciją įgyvendina:
 
 3) triukšmo kartografavimo duomenis;
 
-4) savivaldybių, kurių teritorijos įeina į apskričių viršininkų patvirtintas triukšmo prevencijos zonas, institucijų nuomonę ir pasiūlymus.
+4) savivaldybių, kurių teritorijose yra triukšmo prevencijos zonos, institucijų nuomonę ir pasiūlymus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
+
+5) savivaldybių, kurių teritorijos patenka į saugomų teritorijų ribas, saugomų teritorijų administracijų nuomonę ir pasiūlymus.
+
+Papildyta straipsnio punktu:
+
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
 
 3. Lietuvos Respublikos Vyriausybė atlieka ir kitas šiame ir kituose įstatymuose nustatytas triukšmo valdymo funkcijas.
 
@@ -186,7 +230,17 @@ Vidaus reikalų ministerija:
 
 3) suderinusi su Sveikatos apsaugos ministerija ir Susisiekimo ministerija, tvirtina garsinės informacijos ir signalizacijos naudojimo ir priežiūros taisykles;
 
-4) atlieka kitas triukšmo valdymo funkcijas, numatytas šiame įstatyme ir kituose teisės aktuose.
+4) įtraukia triukšmo prevencijos ir mažinimo priemones į rengiamus regionų plėtros planų projektus;
+
+Papildyta straipsnio punktu:
+
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
+
+5) atlieka kitas triukšmo valdymo funkcijas, numatytas šiame įstatyme ir kituose teisės aktuose.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
 
 Straipsnio pakeitimai:
 
@@ -256,7 +310,11 @@ Susisiekimo ministerija:
 
 11 straipsnis. Triukšmo prevencijos taryba
 
-1. Triukšmo prevencijos plėtros klausimus nagrinėja ir pasiūlymus valstybės institucijoms, įgyvendinančioms valstybės politiką triukšmo prevencijos srityje ir Valstybinę triukšmo prevencijos veiksmų programą, teikia nuolatinė Triukšmo prevencijos taryba. Ši taryba sudaroma iš valstybės institucijų, Lietuvos savivaldybių asociacijos, mokslo institucijų ir visuomenės atstovų. Ne mažiau kaip pusė Triukšmo prevencijos tarybos narių turi būti mokslininkai ir specialistai, dirbantys triukšmo prevencijos srityje.
+1. Triukšmo prevencijos plėtros klausimus nagrinėja ir pasiūlymus valstybės ir savivaldybių institucijoms, įgyvendinančioms valstybės politiką triukšmo prevencijos srityje ir Valstybinę triukšmo prevencijos veiksmų programą, teikia nuolatinė Triukšmo prevencijos taryba. Ši taryba sudaroma iš valstybės institucijų, saugomų teritorijų administracijų, Lietuvos savivaldybių asociacijos, mokslo institucijų ir visuomenės atstovų. Ne mažiau kaip pusė Triukšmo prevencijos tarybos narių turi būti mokslininkai ir specialistai, dirbantys triukšmo prevencijos srityje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
 
 2. Triukšmo prevencijos tarybos sudėtį ir nuostatus tvirtina Vyriausybė arba jos įgaliota institucija.
 
@@ -270,63 +328,73 @@ Susisiekimo ministerija:
 
 4) pritaria Valstybinės triukšmo prevencijos veiksmų programos projektui ir strateginių triukšmo žemėlapių projektams;
 
-5) Vyriausybei, valstybės institucijoms, apskričių viršininkams teikia pasiūlymus dėl triukšmo valdymo problemų sprendimo;
+5) Vyriausybei, valstybės ir savivaldybių institucijoms teikia pasiūlymus dėl triukšmo valdymo problemų sprendimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
 
 6) atlieka kitas funkcijas, numatytas šiame įstatyme ir Triukšmo prevencijos tarybos nuostatuose.
 
-12 straipsnis. Apskričių viršininkų kompetencija
+12 straipsnis. Neteko galios nuo 2010-07-01
 
-Apskričių viršininkai:
+Straipsnio naikinimas:
 
-1) įgyvendina patvirtintą Valstybinę triukšmo prevencijos veiksmų programą;
-
-2) įtraukia triukšmo prevencijos ir mažinimo priemones į regioninės plėtros planus ir jas įgyvendina;
-
-3) atlieka apskrities lygmens teritorijų planavimo sprendinių, susijusių su triukšmo prevencija, analizę, vertinimą ir poveikio visuomenės sveikatai vertinimą;
-
-4) atlieka triukšmo prevenciją statybos valstybinės priežiūros metu;
-
-5) nustato pavaldžių viešojo administravimo institucijų kompetenciją triukšmo valdymo srityje ir prižiūri, kaip ji įgyvendinama;
-
-6) atlieka kitas triukšmo valdymo funkcijas, numatytas šiame įstatyme ir kituose teisės aktuose.
+Nr. XI-769, 2010-04-20, Žin. 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
 
 13 straipsnis. Savivaldybių institucijų kompetencija
 
-1. Savivaldybių institucijos, atlikdamos pirminę visuomenės sveikatos priežiūrą:
+1. Savivaldybių tarybos:
+
+1) nustato tyliąsias zonas;
+
+2) tvirtina triukšmo prevencijos viešosiose vietose taisykles;
+
+3) tvirtina triukšmo savivaldybės teritorijoje rodiklius;
+
+4) tvirtina aglomeracijų strateginius triukšmo žemėlapius;
+
+5) tvirtina triukšmo prevencijos zonas;
+
+6) tvirtina savivaldybės triukšmo prevencijos veiksmų planus;
+
+7) prižiūri, kaip savivaldybės vykdomosios institucijos, kiti pavaldūs viešojo administravimo subjektai įgyvendina funkcijas triukšmo valdymo srityje.
+
+2. Savivaldybių vykdomosios institucijos, kiti pavaldūs viešojo administravimo subjektai:
 
 1) įgyvendina patvirtintą Valstybinę triukšmo prevencijos veiksmų programą;
 
-2) nustato tyliąsias zonas;
+2) rengia teritorijų planavimo sprendinių, susijusių su triukšmo prevencija, viešą svarstymą, poveikio aplinkai vertinimo svarstymą;
 
-3) rengia teritorijų planavimo sprendinių, susijusių su triukšmo prevencija, viešą svarstymą, poveikio aplinkai vertinimo svarstymą;
+3) atlieka teritorijų planavimo sprendinių, susijusių su triukšmo prevencija, analizę, vertinimą ir poveikio visuomenės sveikatai vertinimą;
 
-4) tvirtina triukšmo prevencijos viešosiose vietose taisykles;
+4) nustato muzikinių ir kitų masinių renginių, kuriuos organizuoja juridiniai ir fiziniai asmenys, trukmę;
 
-5) tvirtina triukšmo savivaldybės teritorijoje rodiklius;
+5) rengia aglomeracijų strateginius triukšmo žemėlapius;
 
-6) nustato muzikinių ir kitų masinių renginių, kuriuos organizuoja juridiniai ir fiziniai asmenys, trukmę;
+6) rengia savivaldybės triukšmo prevencijos veiksmų planus;
 
-7) rengia aglomeracijų strateginius triukšmo žemėlapius;
+7) įgyvendina triukšmo prevencijos ir mažinimo priemones, įtrauktas į regionų plėtros planus;
 
-8) tvirtina gyvenamųjų vietovių teritorijas, kuriose būtina įgyvendinti triukšmo prevencijos ir mažinimo priemones (toliau – triukšmo prevencijos zonos);
+8) organizuoja triukšmo stebėsenos (monitoringo) tyliosiose zonose atlikimą;
 
-9) rengia ir tvirtina savivaldybės triukšmo prevencijos veiksmų planus;
+9) vykdo triukšmo, kylančio atliekant statybos, remonto darbus gyvenamosiose patalpose ir gyvenamosiose teritorijose, kontrolę, atlieka triukšmo prevencijos viešosiose vietose taisyklių vykdymo kontrolę;
 
-10) nustato pavaldžių viešojo administravimo institucijų kompetenciją triukšmo valdymo srityje ir prižiūri, kaip ji įgyvendinama;
+10) atlieka kitas triukšmo valdymo funkcijas, numatytas šiame įstatyme ir kituose teisės aktuose.
 
-11) atlieka kitas triukšmo valdymo funkcijas, numatytas šiame įstatyme ir kituose teisės aktuose.
+3. Savivaldybių institucijos privalo reikalauti, kad:
 
-2. Savivaldybių institucijos privalo reikalauti, kad:
+1) triukšmo šaltinių valdytojai tikslintų ir keistų triukšmo prevencijos veiksmų planus ir juos įgyvendintų, tikslintų ir keistų triukšmo šaltinių naudojimo trukmę ir konkretų šių šaltinių veiklos pradžios ir pabaigos laiką;
 
-1) triukšmo šaltinių valdytojai tikslintų ir keistų triukšmo šaltinių naudojimo trukmę ir konkretų šių šaltinių veiklos pradžios ir pabaigos laiką;
+2) išduodant leidimą statyti, statinių projektų sprendiniuose būtų numatytos teisės aktų nustatytos apsaugos nuo triukšmo priemonės, o užbaigtuose statiniuose būtų atliktos ekspertizės ir nustatyta, ar įgyvendinti visi triukšmo mažinimo reikalavimai.
 
-2) išduodant leidimą statyti, užbaigtuose statiniuose būtų atliktos ekspertizės ir nustatyta, ar įgyvendinti visi triukšmo mažinimo reikalavimai.
+4. Savivaldybės taryba gali 50 m atstumu aplink tyliųjų viešųjų zonų triukšmo šaltinį nustatyti žemesnį leidžiamą triukšmo lygį negu yra nustatytas triukšmo lygis tyliojoje viešojoje zonoje, jeigu ji pripažįsta, kad tyliųjų viešųjų zonų atskiros vietos dėl jose esančių triukšmo šaltinių kelia pavojų žmonių sveikatai.
 
-3. Savivaldybės taryba gali 50 m atstumu aplink tyliųjų viešųjų zonų triukšmo šaltinį nustatyti žemesnį leidžiamą triukšmo lygį, negu yra nustatytas triukšmo lygis tyliojoje viešojoje zonoje, jei ji pripažįsta, kad tyliųjų viešųjų zonų atskiros vietos dėl jose esančių triukšmo šaltinių kelia pavojų žmonių sveikatai.
+5. Triukšmo lygis dviejose ar daugiau tyliųjų viešųjų zonų ir tyliosiose gamtos zonose neturi viršyti triukšmo lygio, nustatyto bet kuriai iš tyliųjų viešųjų zonų ir tyliųjų gamtos zonų laikantis higienos normų reikalavimų.
 
-4. Triukšmo lygis dviejose ar daugiau tyliųjų viešųjų zonų ir tyliosiose gamtos zonose neturi viršyti triukšmo lygio, nustatyto bet kuriai iš tyliųjų viešųjų zonų bei tyliųjų gamtos zonų laikantis higienos normų reikalavimų.
+Straipsnio pakeitimai:
 
-5. Savivaldybės institucijos atlieka triukšmo stebėseną (monitoringą) tyliosiose zonose.
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
 
 14 straipsnis. Triukšmo šaltinių valdytojų pareigos ir teisės
 
@@ -336,15 +404,27 @@ Apskričių viršininkai:
 
 3. Triukšmo šaltinių valdytojai privalo laikytis nustatytų triukšmo ribinių dydžių ir užtikrinti, kad naudojamų įrenginių triukšmo lygis neviršytų vietovei, kurioje naudojami triukšmo šaltiniai, nustatytų triukšmo ribinių dydžių.
 
-4. Triukšmo šaltinių valdytojai, veikiantys ar vykdantys ūkinę veiklą apskrities viršininko patvirtintose triukšmo prevencijos zonose:
+4. Triukšmo šaltinių valdytojai, veikiantys ar vykdantys ūkinę veiklą savivaldybės tarybos patvirtintose triukšmo prevencijos zonose:
 
-1) per 30 dienų nuo šių zonų patvirtinimo privalo pateikti apskrities viršininkui derinti triukšmo prevencijos planus;
+1) per 30 dienų nuo šių zonų patvirtinimo privalo pateikti savivaldybės vykdomajai institucijai derinti triukšmo prevencijos veiksmų planus;
 
-2) kasmet pateikti apskrities viršininkui triukšmo prevencijos planų įgyvendinimo ataskaitas.
+2) privalo kasmet pateikti savivaldybės vykdomajai institucijai triukšmo prevencijos veiksmų planų įgyvendinimo ataskaitas.
 
-5. Bet koks asmuo, veikiantis ar vykdantis ūkinę veiklą apskrities viršininko patvirtintose triukšmo prevencijos zonose, turi teisę pateikti apskrities viršininkui motyvuotus pareiškimus dėl triukšmo šaltinių valdytojų veiklos ir dėl šioje veikloje atsirandančio triukšmo prevencijos ir mažinimo.
+Straipsnio dalies pakeitimai:
 
-6. Apskričių viršininkai turi teisę reikalauti, kad triukšmo šaltinių valdytojai patikslintų ar pakeistų triukšmo prevencijos planus, keistų triukšmo šaltinių naudojimo trukmę ir darbo laiką.
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
+
+5. Bet koks asmuo, veikiantis ar vykdantis ūkinę veiklą savivaldybės tarybos patvirtintose triukšmo prevencijos zonose, turi teisę pateikti savivaldybės vykdomajai institucijai motyvuotus pareiškimus dėl triukšmo šaltinių valdytojų veiklos ir dėl šioje veikloje atsirandančio triukšmo prevencijos ir mažinimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
+
+6. Neteko galios nuo 2010-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XI-769, 2010-04-20, Žin. 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
 
 TREČIASIS SKIRSNIS
 
@@ -502,7 +582,11 @@ informacija apie triukšmĄ
 
 25 straipsnis. Triukšmo valdymo informacijos teikimas
 
-1. Pirminė ar suvestinė triukšmo valdymo informacija Triukšmo prevencijos tarybai, valstybės institucijoms, apskričių viršininkams, visuomenei teikiama Vyriausybės nustatyta tvarka.
+1. Pirminė ar suvestinė triukšmo valdymo informacija Triukšmo prevencijos tarybai, valstybės ir savivaldybių institucijoms teikiama Vyriausybės nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
 
 2. Europos Sąjungos triukšmo valdymo sektoriaus teisės aktų reikalavimų įgyvendinimo ataskaitų teikimo Europos Bendrijų Komisijai taisykles tvirtina sveikatos apsaugos, susisiekimo ir aplinkos ministrai.
 
@@ -637,4 +721,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-692, 2006-06-15, Žin., 2006, Nr. 73-2760 (2006-06-30), i. k. 1061010ISTA000X-692
 
 Lietuvos Respublikos triukšmo valdymo įstatymo 6 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
+
+Lietuvos Respublikos triukšmo valdymo įstatymo 2, 4, 5, 6, 11, 13, 14, 25 straipsnių pakeitimo ir papildymo ir 12 straipsnio pripažinimo netekusiu galios įstatymas
 
