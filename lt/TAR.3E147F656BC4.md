@@ -4,7 +4,7 @@ identifier: "TAR.3E147F656BC4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-06-01"
-last_updated: "2006-04-29"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3E147F656BC4"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos profesionaliojo scenos meno įstatymas
 
-Suvestinė redakcija nuo 2006-04-29 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2012-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3523, i. k. 1041010ISTA0IX-2257
 
@@ -74,9 +74,17 @@ TEATRŲ IR KONCERTINIŲ ĮSTAIGŲ KLASIFIKACIJA, SCENOS MENO RŪŠYS, VEIKLOS TE
 
 2. Pagal scenos meno rūšis teatrai gali būti skirstomi į dramos, muzikinius (operos, operetės, baleto bei kiti), lėlių (marionečių, šešėlių ir kiti), pantomimos, šokio ir kitus.
 
-3. Valstybės teatrai ar koncertinės įstaigos – tai teatrai ar koncertinės įstaigos, kurių teisinė forma yra biudžetinė ar viešoji įstaiga ir kurių steigėjai yra ministerijos, apskričių viršininkai.
+3. Valstybės teatrai ar koncertinės įstaigos – tai teatrai ar koncertinės įstaigos, kurių teisinė forma yra biudžetinė įstaiga (savininkė yra valstybė) arba viešoji įstaiga (steigėja ir savininkė yra valstybė).
 
-4. Savivaldybės teatrai ar koncertinės įstaigos – tai teatrai ar koncertinės įstaigos, kurių teisinė forma yra biudžetinė ar viešoji įstaiga ir kurių steigėjai yra savivaldybių tarybos.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-734, 2010-04-08, Žin., 2010, Nr. 48-2284 (2010-04-27), i. k. 1101010ISTA00XI-734
+
+4. Savivaldybės teatrai ar koncertinės įstaigos – tai teatrai ar koncertinės įstaigos, kurių teisinė forma yra biudžetinė įstaiga (savininkė yra savivaldybė) arba viešoji įstaiga (steigėja ir savininkė yra savivaldybė).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-734, 2010-04-08, Žin., 2010, Nr. 48-2284 (2010-04-27), i. k. 1101010ISTA00XI-734
 
 5. Kiti teatrai ar koncertinės įstaigos – tai teatrai ir koncertinės įstaigos, kurie yra privatūs juridiniai asmenys, taip pat viešieji juridiniai asmenys, kurių teisinė forma yra viešoji įstaiga ir kurių steigėjai nėra šio straipsnio 3 ir 4 dalyse nurodyti subjektai.
 
@@ -319,4 +327,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-558, 2006-04-13, Žin., 2006, Nr. 48-1698 (2006-04-29), i. k. 1061010ISTA000X-558
 
 Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo 13 straipsnio pakeitimo ir papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-734, 2010-04-08, Žin., 2010, Nr. 48-2284 (2010-04-27), i. k. 1101010ISTA00XI-734
+
+Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas
 
