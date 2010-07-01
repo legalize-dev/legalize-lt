@@ -4,7 +4,7 @@ identifier: "TAR.3CD1008B88A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "1998-07-08"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
 
-Suvestinė redakcija nuo 1998-07-08 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2010-11-26
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
 
@@ -146,37 +146,53 @@ IR FUNKCIJOS RENGIANT MOBILIZACINĮ REZERVĄ BEI VYKDANT MOBILIZACIJĄ
 
 3) tvirtina kariuomenės mobilizacinį planą;
 
-4) tvirtina ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių viršininkų sudarytus mobilizacinius planus
+4) tvirtina ministerijų, Vyriausybės įstaigų, apskričių ir savivaldybių mobilizacinius planus;
 
 Straipsnio punkto pakeitimai:
 
 Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
 
-5) skiria valstybines mobilizacines užduotis ministerijoms, Vyriausybės įstaigoms, apskričių valdytojams ir savivaldybėms;
+Nr. XI-756, 2010-04-13, Žin., 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
+
+5) skiria valstybines mobilizacines užduotis pasirengimą mobilizacijai organizuojančiai ir kontroliuojančiai institucijai, ministerijoms, Vyriausybės įstaigoms ir savivaldybėms;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-756, 2010-04-13, Žin., 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
 
 6) nustato materialinių ir finansinių išteklių mobilizacinio rezervo kiekį, kaupimo, atnaujinimo, papildymo, apskaitos ir panaudojimo tvarką bei subjektus, kurie tai atlieka;
 
-7) mobilizacijai ir mobilizacinio rezervo rengimui organizuoti bei kontroliuoti įsteigia nuolatinę instituciją arba paveda šį darbą atlikti kuriai nors ministerijai.
+7) steigia pasirengimą mobilizacijai organizuojančią ir kontroliuojančią instituciją;
 
-4. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija:
+Straipsnio punkto pakeitimai:
 
-1) sudaro valstybės mobilizacinį planą;
+Nr. XI-756, 2010-04-13, Žin., 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
 
-2) duoda valstybinius mobilizacinius užsakymus visų rūšių ir nuosavybės formų įmonėms, įstaigoms ir organizacijoms;
-
-3) planuoja transporto ir kitos technikos rekvizicijas, kurių vykdymo tvarka nustatyta šiame įstatyme;
-
-4) kontroliuoja kariuomenės mobilizacinio plano vykdymą;
-
-5) užtikrina mobilizacijos ir mobilizacinio rezervo rengimo finansavimą;
-
-6) kontroliuoja mobilizacinių atsargų kaupimą ir saugojimą visose ministerijose ir Vyriausybės įstaigose;
-
-7) sudaro valstybės ūkiui svarbių pareigų (specialybių) sąrašą, pagal kurį karo prievolininkai yra atleidžiami nuo mobilizacijos.
+8) užtikrina mobilizacijos ir mobilizacinio rezervo rengimo finansavimą.
 
 Papildyta straipsnio punktu:
 
-Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
+Nr. XI-756, 2010-04-13, Žin., 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
+
+4. Pasirengimą mobilizacijai organizuojanti ir kontroliuojanti institucija:
+
+1) sudaro valstybės ir apskričių mobilizacinius planus ir teikia juos Vyriausybei;
+
+2) duoda valstybinius mobilizacinius užsakymus visų rūšių ir nuosavybės formų įmonėms, įstaigoms ir organizacijoms;
+
+3) Vyriausybės nustatyta tvarka planuoja transporto ir kitos technikos rekvizicijas;
+
+4) kontroliuoja, kaip kaupiami ir saugomi mobilizacinio rezervo materialiniai ištekliai visose ministerijose ir Vyriausybės įstaigose;
+
+5) sudaro valstybės ūkiui svarbių pareigybių (specialybių) sąrašą, pagal kurį karo prievolininkai yra atleidžiami nuo šaukimo į tikrąją karo tarnybą paskelbus mobilizaciją;
+
+6) koordinuoja ir kontroliuoja ministerijų, Vyriausybės įstaigų ir savivaldybių mobilizacinį planavimą ir šių institucijų sudarytų mobilizacinių planų vykdymą;
+
+7) organizuoja, koordinuoja ir kontroliuoja mobilizacinį mokymą valstybėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-756, 2010-04-13, Žin., 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
 
 5. Krašto apsaugos ministerija :
 
@@ -186,7 +202,11 @@ Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010IS
 
 3) atsako už karo prievolininkų karinius mokymus, ginkluotės ir technikos laikymą mobilizacinėje parengtyje, karinių dalinių parengimą vykdyti mobilizacinį planą;
 
-4) sudaro kariuomenės mobilizacinį planą ir teikia Vyriausybei tvirtinti;
+4) sudaro kariuomenės mobilizacinį planą, teikia Vyriausybei tvirtinti ir kontroliuoja šio plano vykdymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-756, 2010-04-13, Žin., 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
 
 5) tvarko atsargos karo prievolininkų apskaitą ir organizuoja jų mokymus;
 
@@ -204,13 +224,19 @@ Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010IS
 
 8) tvarko transporto ir kitos technikos mobilizacinę apskaitą;
 
-9) dalyvauja ministerijoms, Vyriausybės įstaigoms, apskričių viršininkams ir savivaldybėms sudarant mobilizacinius planus;
+9) dalyvauja pasirengimą mobilizacijai organizuojančiai ir kontroliuojančiai institucijai, ministerijoms, Vyriausybės įstaigoms ir savivaldybėms sudarant mobilizacinius planus;
 
 Straipsnio punkto pakeitimai:
 
 Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
 
-10) dalyvauja organizuojant, atliekant ir kontroliuojant Vyriausybės patvirtintuose planuose numatytus mobilizacinius mokymus ministerijose, Vyriausybės įstaigose, apskrityse ir savivaldybėse.
+Nr. XI-756, 2010-04-13, Žin., 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
+
+10) dalyvauja organizuojant, atliekant ir kontroliuojant Vyriausybės patvirtintuose planuose numatytus mobilizacinius mokymus pasirengimą mobilizacijai organizuojančioje ir kontroliuojančioje institucijoje, ministerijose, Vyriausybės įstaigose ir savivaldybėse.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-756, 2010-04-13, Žin., 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
 
 6. Vidaus reikalų ministerija:
 
@@ -252,11 +278,11 @@ Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010IS
 
 3) teikia Krašto apsaugos ministerijai duomenis apie jų reguliavimo sričiai priskirtų valstybės įmonių ir specialios paskirties akcinių bendrovių turimus materialinius ir finansinius išteklius bei gamybos pajėgumus.
 
-8. Apskričių viršininkai:
+8. Neteko galios nuo 2010-07-01
 
-1) pagal jiems pavestas valstybines mobilizacines užduotis sudaro mobilizacinį planą, suderina jį su vietine teritorine karine įstaiga ir teikia Vyriausybei tvirtinti;
+Straipsnio dalies naikinimas:
 
-2) tvarko apskrities teritorijos mobilizacinių atsargų apskaitą ir teikia vietinei teritorinei karinei įstaigai duomenis, reikalingus mobilizaciniams planams sudaryti.
+Nr. XI-756, 2010-04-13, Žin. 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
 
 Straipsnio dalies pakeitimai:
 
@@ -338,17 +364,21 @@ MOBILIZACINIS PLANAVIMAS
 
 1. Mobilizacijai organizuoti Vyriausybė arba jos įgaliota institucija sudaro valstybės mobilizacinį planą, kuris yra sudedamoji valstybės gynybos plano dalis.
 
-2. Vyriausybė mobilizacinėse užduotyse nustato ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių viršininkų kompetenciją sudarant mobilizacinius planus, šių planų sudarymo ir įgyvendinimo tvarką
+2. Vyriausybė mobilizacinėse užduotyse nustato pasirengimą mobilizacijai organizuojančios ir kontroliuojančios institucijos, ministerijų, Vyriausybės įstaigų ir savivaldybių kompetenciją sudarant mobilizacinius planus, šių planų sudarymo ir įgyvendinimo tvarką.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
 
-3. Skirdama mobilizacinio planavimo užduotis ir tvirtindama mobilizacinius planus, Vyriausybė arba jos įgaliota institucija nustato ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių viršininkų veiklos ribas.
+Nr. XI-756, 2010-04-13, Žin., 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
+
+3. Skirdama mobilizacinio planavimo užduotis ir tvirtindama mobilizacinius planus, Vyriausybė nustato pasirengimą mobilizacijai organizuojančios ir kontroliuojančios institucijos, ministerijų, Vyriausybės įstaigų ir savivaldybių veiklos ribas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
+
+Nr. XI-756, 2010-04-13, Žin., 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
 
 13 straipsnis. Mobilizacinių planų turinys
 
@@ -372,11 +402,13 @@ Paskelbus mobilizaciją:
 
 2) atsargos karo prievolininkai per nustatytą laiką atvyksta į mobilizaciniuose šaukimuose arba vietinės teritorinės karinės įstaigos vadovo mobilizaciniame įsakyme nurodytus punktus;
 
-3) apskričių viršininkai, savivaldybių merai, įstaigų, įmonių ir organizacijų savininkai bei vadovai nedelsdami perduoda vietinei teritorinei karinei įstaigai laikinai naudoti patalpas, žemę bei inventorių, numatytus mobilizaciniuose planuose;
+3) savivaldybių administracijų direktoriai, įstaigų, įmonių ir organizacijų savininkai bei vadovai nedelsdami perduoda vietinei teritorinei karinei įstaigai laikinai naudoti patalpas, žemę bei inventorių, numatytus mobilizaciniuose planuose;
 
 Straipsnio punkto pakeitimai:
 
 Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
+
+Nr. XI-756, 2010-04-13, Žin., 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
 
 4) valstybės ūkis pertvarkomas į darbą karo padėtyje pagal iš anksto parengtus mobilizacinius planus.
 
@@ -388,13 +420,15 @@ SEPTINTASIS SKIRSNIS
 
 BAIGIAMOSIOS NUOSTATOS
 
-15 straipsnis. Asmenys, atsakingi už šio įstatymo vykdymą
+15 straipsnis. Asmenys, atsakingi už šio įstatymo vykdymą
 
-Šio įstatymo vykdymą užtikrina ministerijų, Vyriausybės įstaigų vadovai, apskričių viršininkai, savivaldybių merai, karinių dalinių vadai, visų rūšių bei nuosavybės formų įmonių, įstaigų ir organizacijų vadovai bei savininkai asmeniškai.
+Šio įstatymo vykdymą užtikrina pasirengimą mobilizacijai organizuojančios ir kontroliuojančios institucijos, ministerijų, Vyriausybės įstaigų vadovai, savivaldybių administracijų direktoriai, karinių dalinių vadai, visų rūšių ir nuosavybės formų įmonių, įstaigų, organizacijų vadovai bei savininkai asmeniškai.
 
 Straipsnio pakeitimai:
 
 Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010ISTAVIII-336
+
+Nr. XI-756, 2010-04-13, Žin., 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
 
 16 straipsnis. Atsakomybė už šio įstatymo pažeidimą
 
@@ -421,4 +455,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-808, 1998-06-23, Žin., 1998, Nr. 61-1730 (1998-07-08), i. k. 0981010ISTAVIII-808
 
 Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 2, 3, 5, 6, 11, 14 straipsnių pakeitimo ir papildymo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-756, 2010-04-13, Žin., 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
+
+Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 6, 12, 14, 15 straipsnių pakeitimo ir papildymo įstatymas
 
