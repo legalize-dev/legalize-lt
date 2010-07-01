@@ -4,7 +4,7 @@ identifier: "TAR.E0EA485657C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2010-01-01"
+last_updated: "2010-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2011-08-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
 
@@ -310,7 +310,11 @@ Policijos, Valstybės sienos apsaugos tarnybos, Priešgaisrinės apsaugos ir gel
 
 1. LŠS gali padėti civilinės saugos ir gelbėjimo sistemos pajėgoms šalinti ekstremalių įvykių padarinius ir teikti pagalbą nukentėjusiesiems, taip pat padėti vykdyti atskiras užduotis ekstremalių situacijų metu.
 
-2. Šio straipsnio 1 dalyje nustatyta pagalba civilinės saugos ir gelbėjimo sistemos pajėgoms teikiama apskrityje, kurios teritorijoje įvyko ar vyksta ekstremalus įvykis ar susidarė ekstremali situacija, veikiančios rinktinės vado įsakymu, gavus Vyriausybės Ekstremalių situacijų komisijos pirmininko, atitinkamos apskrities viršininko arba atitinkamos savivaldybės administracijos direktoriaus rašytinį prašymą.
+2. Šio straipsnio 1 dalyje nustatyta pagalba civilinės saugos ir gelbėjimo sistemos pajėgoms teikiama apskrityje, kurios teritorijoje įvyko ar vyksta ekstremalus įvykis ar susidarė ekstremali situacija, veikiančios LŠS rinktinės vado įsakymu, gavus Vyriausybės Ekstremalių situacijų komisijos pirmininko arba atitinkamos savivaldybės administracijos direktoriaus rašytinį prašymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-758, 2010-04-13, Žin., 2010, Nr. 48-2307 (2010-04-27), i. k. 1101010ISTA00XI-758
 
 3. Pagal šio straipsnio 1 dalį civilinės saugos ir gelbėjimo sistemos pajėgoms padedantiems LŠS padaliniams vadovauja civilinės saugos operacijos vadovas.
 
@@ -730,7 +734,11 @@ SEPTINTASIS SKIRSNIS
 
 7. LŠS vado pavaduotojai ir rinktinių vadai yra tiesiogiai pavaldūs LŠS vadui, taip pat atskaitingi LŠS vadui ir krašto apsaugos ministrui.
 
-8. Kitoms negu LŠS vado pavaduotojo ir rinktinės vado nuolatinės šaulio tarnybos pareigoms vykdyti šauliai gali būti skiriami LŠS vado įsakymu, sudarant darbo sutartis su LŠS. Tokių pareigų sąrašą su LŠS Centro valdybos pritarimu ir suderinęs su krašto apsaugos ministru nustato LŠS vadas.
+8. Kitoms negu LŠS vado pavaduotojo ir rinktinės vado nuolatinės šaulio tarnybos pareigoms vykdyti šauliai gali būti skiriami LŠS vado įsakymu, sudarant darbo sutartis su LŠS. Nuolatinės šaulio tarnybos pareigų, kurias vykdantiems šauliams darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, sąrašą tvirtina krašto apsaugos ministras LŠS vado teikimu, kuriam pritarė LŠS Centro valdyba. Kitų nuolatinės šaulio tarnybos pareigų, kurias vykdantiems šauliams darbo užmokestis mokamas ne iš valstybės biudžeto asignavimų, sąrašą su LŠS Centro valdybos pritarimu ir suderinęs su krašto apsaugos ministru nustato LŠS vadas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-796, 2010-04-29, Žin., 2010, Nr. 57-2811 (2010-05-18), i. k. 1101010ISTA00XI-796
 
 9. LŠS statute ir LŠS vidaus teisės aktuose gali būti nustatyti LŠS vado pavaduotojų, rinktinių vadų, taip pat pagal darbo sutartis su LŠS dirbančių šaulių šaulio tarnybos ypatumai, susiję su darbo laiko struktūra, trukme ir režimu. Kai tai būtina LŠS pratyboms, mokymams ar kitiems renginiams organizuoti ar jiems vadovauti, kasdienė LŠS vado pavaduotojų, rinktinių vadų, taip pat pagal darbo sutartis su LŠS dirbančių šaulių darbo laiko trukmė gali viršyti aštuonias darbo valandas.
 
@@ -825,4 +833,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-408, 2009-07-23, Žin., 2009, Nr. 95-4033 (2009-08-08), i. k. 1091010ISTA00XI-408
 
 Lietuvos Respublikos šaulių sąjungos įstatymo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-758, 2010-04-13, Žin., 2010, Nr. 48-2307 (2010-04-27), i. k. 1101010ISTA00XI-758
+
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 18 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-796, 2010-04-29, Žin., 2010, Nr. 57-2811 (2010-05-18), i. k. 1101010ISTA00XI-796
+
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 36 straipsnio pakeitimo įstatymas
 
