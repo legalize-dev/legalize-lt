@@ -4,7 +4,7 @@ identifier: "TAR.CD14ABB56F02"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-12-18"
-last_updated: "2010-01-01"
+last_updated: "2010-07-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CD14ABB56F02"
 department: "Lietuvos Respublikos Seimas"
@@ -461,37 +461,31 @@ neatsižvelgiant į kintančio stažo reikalavimą.
 
 gavusių pajamas iš sporto veiklos, asmenų, gavusių pajamas iš atlikėjo veiklos,
 
-ir asmenų, gavusių pajamas pagal autorines sutartis, nuo kurių 2009 metais
+ir asmenų, gavusių pajamas pagal autorines sutartis, nuo kurių 2009 ir 2010
 
-įmokėtos sumažinto tarifo privalomojo ligos ir motinystės socialinio draudimo
+metais įmokėtos sumažinto tarifo privalomojo ligos ir motinystės socialinio
 
-įmokos, taip pat šių asmenų, gavusių minėtąsias pajamas iš draudėjo, su kuriuo
+draudimo įmokos, tų metų draudžiamosiomis pajamomis laikomos gautos pajamų
 
-jie yra susiję darbo santykiais arba jų esmę atitinkančiais santykiais, nuo
+sumos, apskaičiuotos proporcingai mokėtoms valstybinio socialinio draudimo
 
-kurių 2010 metais įmokėtos sumažinto tarifo privalomojo ligos ir motinystės
+įmokoms: atitinkamais metais gauta pajamų suma dauginama iš dydžio, kuris
 
-socialinio draudimo įmokos, tų metų draudžiamosiomis pajamomis laikomos gautos
+apskaičiuojamas atitinkamų metų sumažintą draudėjų ir apdraustųjų ligos ir
 
-pajamų sumos, apskaičiuotos proporcingai mokėtoms valstybinio socialinio
+motinystės socialinio draudimo įmokos tarifą, taikomą pajamoms, gautoms iš
 
-draudimo įmokoms: atitinkamais metais gauta pajamų suma dauginama iš dydžio,
-
-kuris apskaičiuojamas atitinkamų metų sumažintą draudėjų ir apdraustųjų ligos
-
-ir motinystės socialinio draudimo įmokos tarifą, taikomą pajamoms, gautoms iš
-
-sporto bei atlikėjo veiklos, ar pajamoms, gautoms pagal autorines sutartis
+sporto ir atlikėjo veiklos, ar pajamoms, gautoms pagal autorines sutartis
 
 (atitinkamai gautoms iš savo darbdavio arba ne iš savo darbdavio), dalijant iš
 
 tų metų ligos ir motinystės socialinio draudimo įmokų tarifo, nustatyto
 
-pajamoms, gautoms pagal autorines sutartis (atitinkamai gautoms iš savo
+pajamoms, gautoms iš sporto ir atlikėjo veiklos, ar pajamoms, gautoms pagal
 
-darbdavio arba ne iš savo darbdavio), ar sportininkų bei atlikėjų gautoms
+autorines sutartis (atitinkamai gautoms iš savo darbdavio arba ne iš savo
 
-pajamoms.
+darbdavio).
 
 4. Savarankiškai
 
@@ -522,6 +516,10 @@ Nr. XI-167,
 Nr. XI-526,
 
 2009-12-08, Žin., 2009, Nr. 151-6773 (2009-12-22)
+
+Nr. XI-929,
+
+2010-06-22, Žin., 2010, Nr. 81-4223 (2010-07-10)
 
 11
 
@@ -577,11 +575,27 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 įsigalioja 2010 m. sausio 1 d.
 
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-929,
+
+2010-06-22, Žin., 2010, Nr. 81-4223 (2010-07-10)
+
+LIGOS IR
+
+MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 6, 8, 9, 16, 18(1), 19
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2009-12-22)
+(2010-07-14)
 
 autrap@lrs.lt
 
