@@ -4,7 +4,7 @@ identifier: "TAR.2E4319D8A0D2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-09-23"
-last_updated: "2009-07-31"
+last_updated: "2010-07-13"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E4319D8A0D2"
 department: "Lietuvos Respublikos Seimas"
@@ -1613,7 +1613,7 @@ tarnautojų darbo užmokestį nustato Valstybės tarnybos įstatymas ir šis
 
 statutas.
 
-Dalies redakcija nuo 2009-08-01 iki 2010-12-31:
+3 dalies redakcija iki 2011-12-31:
 
 3. Statutiniams
 
@@ -1639,7 +1639,7 @@ pareiginės algos dydžio priedas;
 
 dydžio priedas.
 
-Dalies redakcija nuo 2011-01-01:
+3 dalies redakcija nuo 2012-01-01:
 
 3. Statutiniams
 
@@ -1674,6 +1674,10 @@ Nr.
 XI-368,
 
 2009-07-17, Žin., 2009, Nr. 91-3922 (2009-07-31)
+
+Nr. XI-945,
+
+2010-06-30, Žin., 2010, Nr. 82-4299 (2010-07-13)
 
 33 straipsnis. Departamento rezervas
 
@@ -1713,15 +1717,15 @@ stažą tik tuo atveju, jei karys ar statutinis tarnautojas vėl paskiriamas į
 
 pareigas Departamente ir ten išdirba ne mažiau kaip vienus metus.
 
-5. Kariai ir statutiniai tarnautojai Departamento
+5. Kariai ir statutiniai tarnautojai Departamento rezerve
 
-rezerve nepertraukiamai gali būti ne ilgiau kaip 4 metus. Esant tarnybiniam
+nepertraukiamai gali būti ne ilgiau kaip 4 metus. Esant tarnybiniam būtinumui,
 
-būtinumui, karių ir statutinių tarnautojų buvimo Departamento rezerve laikas
+karių ir statutinių tarnautojų buvimo Departamento rezerve laikas gali būti
 
-gali būti pratęstas, tačiau bendras karių ir statutinių tarnautojų buvimo
+pratęstas, tačiau bendras karių ir statutinių tarnautojų buvimo Departamento
 
-Departamento rezerve laikas per visą jų tarnybą negali viršyti 8 metų.
+rezerve laikas per visą jų tarnybą negali viršyti 8 metų.
 
 6. Rezervo sudarymo, jo veiklos, karių ir statutinių
 
