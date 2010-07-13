@@ -4,7 +4,7 @@ identifier: "TAR.915C6D6EB2A5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-13"
-last_updated: "2010-07-01"
+last_updated: "2010-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.915C6D6EB2A5"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 19 straipsnis įsigalioja 2006-06-30."
 ---
 # Lietuvos Respublikos socialinės paramos mokiniams įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2010-07-12
+Suvestinė redakcija nuo 2010-07-13 iki 2011-12-31
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 73-2755, i. k. 1061010ISTA000X-686
 
@@ -44,19 +44,19 @@ BENDROSIOS NUOSTATOS
 
 4. Šis įstatymas netaikomas mokiniams, kurie yra išlaikomi (nemokamai gauna nakvynę, maistą ir mokinio reikmenis) valstybės arba savivaldybės finansuojamose įstaigose arba kuriems įstatymų nustatyta tvarka yra skiriama globos (rūpybos) išmoka.
 
-TAR pastaba. 4 dalis galioja iki 2010 m. gruodžio 31 d.
-
 Straipsnio dalies pakeitimai:
 
 Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010ISTA00XI-103
+
+Nr. XI-969, 2010-06-30, Žin., 2010, Nr. 82-4311 (2010-07-13), i. k. 1101010ISTA00XI-969
 
 5. Šiame įstatyme nustatytas nemokamas maitinimas neskiriamas mokiniams, jei tėvai, globėjai (rūpintojai) yra atleisti nuo mokėjimo už vaikų maitinimą mokyklų bendrabučiuose.
 
-TAR pastaba. 5 dalis galioja iki 2010 m. gruodžio 31 d.
-
 Straipsnio dalies pakeitimai:
 
 Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010ISTA00XI-103
+
+Nr. XI-969, 2010-06-30, Žin., 2010, Nr. 82-4311 (2010-07-13), i. k. 1101010ISTA00XI-969
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -144,11 +144,11 @@ Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010IST
 
 3. Jei kreipimosi dėl mokinių nemokamo maitinimo mėnesį bent vieno šeimos nario pajamų šaltinis ar šeimos sudėtis, palyginti su 3 praėjusiais kalendoriniais mėnesiais, pasikeitė, mokiniams, iki kalendorinių metų ar mokslo metų pabaigos ar vasaros atostogų metu mokyklose organizuojamose dieninėse vasaros poilsio stovyklose gavusiems nemokamą maitinimą, jis teikiamas, kol bus pateikta informacija apie pasikeitusias pajamas ir priimtas naujas sprendimas dėl nemokamo maitinimo skyrimo, bet ne ilgiau kaip 2 mėnesius nuo prašymo-paraiškos pateikimo dienos.
 
-TAR pastaba. 3 dalis galioja iki 2010 m. gruodžio 31 d.
-
 Straipsnio dalies pakeitimai:
 
 Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010ISTA00XI-103
+
+Nr. XI-969, 2010-06-30, Žin., 2010, Nr. 82-4311 (2010-07-13), i. k. 1101010ISTA00XI-969
 
 4. Jei šeima gauna piniginę socialinę paramą pagal Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymą, šeimos pajamos socialinei paramai mokiniams gauti apskaičiuojamos pagal pajamas, kurios paskutinį kartą buvo nurodytos skiriant piniginę socialinę paramą, įskaitant paskirtos socialinės pašalpos dydį ir neįskaitant būsto šildymo išlaidų, išlaidų šaltam vandeniui ir karštam vandeniui kompensacijų dydžio.
 
@@ -198,6 +198,12 @@ Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010IST
 
 5. Jei socialinė parama mokiniui būtina ir mokinio tėvai, globėjai (rūpintojai) nesikreipia dėl socialinės paramos mokiniams, mokykla apie tai raštu informuoja mokinio gyvenamosios vietos savivaldybės administraciją ir pateikia turimą informaciją, reikalingą socialinei paramai mokiniams skirti. Tokiu atveju šios paramos prašo mokykla.
 
+Straipsnio pakeitimai:
+
+Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010ISTA00XI-103
+
+Nr. XI-969, 2010-06-30, Žin., 2010, Nr. 82-4311 (2010-07-13), i. k. 1101010ISTA00XI-969
+
 11 straipsnis. Socialinės paramos mokiniams skyrimas
 
 1. Sprendimas dėl socialinės paramos mokiniams skyrimo priimamas savivaldybės, kurioje pateiktas prašymas-paraiška (prašymas), nustatyta tvarka. Užpildoma Vyriausybės ar jos įgaliotos institucijos patvirtinta sprendimo dėl socialinės paramos mokiniams skyrimo forma.
@@ -217,6 +223,12 @@ Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010IST
 5. Pareiškėjas dėl socialinės paramos mokiniams skyrimo informuojamas ne vėliau kaip per 5 darbo dienas nuo sprendimo dėl socialinės paramos mokiniams priėmimo dienos. Jei socialinė parama mokiniui neskiriama, nurodoma neskyrimo priežastis ir sprendimo dėl socialinės paramos mokiniams apskundimo tvarka. Pareiškėjo pateikti dokumentai jam grąžinami, o socialinę paramą mokiniams skiriančioje institucijoje paliekamos šių dokumentų kopijos.
 
 6. Nustačius, kad per laikotarpį, kurį mokiniui teikiama socialinė parama mokiniams, pasikeitus aplinkybėms mokinys nebetenka teisės į šią paramą arba kad pareiškėjas yra pateikęs neteisingus duomenis apie gaunamas pajamas, šeimos narius ar kitus duomenis, reikalingus socialinei paramai mokiniui skirti, priimamas sprendimas dėl socialinės paramos mokiniams nutraukimo ir jis pateikiamas šio įstatymo 9 straipsnyje nurodytoms institucijoms ne vėliau kaip per 3 darbo dienas nuo šio sprendimo priėmimo dienos. Socialinė parama mokiniui neteikiama nuo kitos dienos po sprendimo dėl socialinės paramos mokiniams nutraukimo mokykloje gavimo.
+
+Straipsnio pakeitimai:
+
+Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010ISTA00XI-103
+
+Nr. XI-969, 2010-06-30, Žin., 2010, Nr. 82-4311 (2010-07-13), i. k. 1101010ISTA00XI-969
 
 12 straipsnis. Socialinės paramos mokiniams teikimas
 
@@ -280,11 +292,11 @@ Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010IST
 
 3) nustato atvejus, kuriems esant mokiniai turi teisę į socialinę paramą mokiniams pagal šio įstatymo 5 straipsnio 2 dalį;
 
-TAR pastaba. 3 punktas galioja iki 2010 m. gruodžio 31 d.
-
 Straipsnio punkto pakeitimai:
 
 Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010ISTA00XI-103
+
+Nr. XI-969, 2010-06-30, Žin., 2010, Nr. 82-4311 (2010-07-13), i. k. 1101010ISTA00XI-969
 
 4) tvirtina paramos mokinio reikmenims įsigyti tvarką.
 
@@ -312,11 +324,11 @@ Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010IST
 
 2) esant šio įstatymo 5 straipsnio 2 dalyje ar 10 straipsnio 5 dalyje nustatytoms aplinkybėms ar kilus įtarimui, kad pateikta neteisinga informacija, tikrina šeimos gyvenimo sąlygas ir surašo buities tyrimo aktą Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo nustatyta tvarka. Tokiais atvejais šis aktas yra vienas iš dokumentų teisei į socialinę paramą mokiniams nustatyti;
 
-TAR pastaba. 2 punktas galioja iki 2010 m. gruodžio 31 d.
-
 Straipsnio punkto pakeitimai:
 
 Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010ISTA00XI-103
+
+Nr. XI-969, 2010-06-30, Žin., 2010, Nr. 82-4311 (2010-07-13), i. k. 1101010ISTA00XI-969
 
 3) sudaro mokinio reikmenų rinkinius vadovaudamosi šio įstatymo 8 straipsniu;
 
@@ -411,6 +423,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010ISTA00XI-546
 
 Lietuvos Respublikos socialinės paramos mokiniams įstatymo 3, 4, 5, 7, 9, 12, 13 ir 14 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-969, 2010-06-30, Žin., 2010, Nr. 82-4311 (2010-07-13), i. k. 1101010ISTA00XI-969
+
+Lietuvos Respublikos socialinės paramos mokiniams įstatymo 1, 5, 6, 7, 8, 10, 11 ir 14 straipsnių pakeitimo įstatymo 9 straipsnio pakeitimo įstatymas
 
 19 straipsnis. Įstatymo įgyvendinimas
 
