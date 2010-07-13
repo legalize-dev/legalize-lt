@@ -4,7 +4,7 @@ identifier: "TAR.7690C98816CA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-01"
-last_updated: "2009-07-31"
+last_updated: "2010-07-13"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7690C98816CA"
 department: "Lietuvos Respublikos Seimas"
@@ -2247,9 +2247,9 @@ stebėtojų misijose – vieną tarnybos dieną kaip dvi dienas;
 
 laikotarpiai, numatyti Valstybės tarnybos įstatymo 42 straipsnyje.
 
-Dalies
+4
 
-redakcija nuo 2009-08 01 iki 2010-12-31:
+dalies redakcija iki 2011-12-31:
 
 4.
 
@@ -2261,9 +2261,9 @@ kvalifikacinę kategoriją – 20 procentų pareiginės algos, už 1-ąją kvali
 
 kategoriją – 30 procentų pareiginės algos.
 
-Dalies
+4
 
-redakcija nuo 2011-01-01:
+dalies redakcija nuo 2012-01-01:
 
 4. Tarnybos
 
@@ -2287,29 +2287,29 @@ sąlygomis mokamos Valstybės tarnybos įstatymo nustatyta tvarka.
 
 6. Laikinojo
 
-nedarbingumo laikotarpiu bei nėštumo ir gimdymo atostogų laikotarpiu tarnybos
+nedarbingumo laikotarpiu bei nėštumo ir gimdymo atostogų laikotarpiu tarnybos pareigūnams
 
-pareigūnams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų
+mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų darbo
 
-darbo užmokestis, o vaiko priežiūros atostogų laikotarpiu nuo nėštumo ir
+užmokestis, o vaiko priežiūros atostogų laikotarpiu nuo nėštumo ir gimdymo
 
-gimdymo atostogų pabaigos už kiekvieną vaiką, kol vaikui sueis vieni
+atostogų pabaigos už kiekvieną vaiką, kol vaikui sueis vieni metai, –
 
-metai, – 100 procentų, o kol vaikui sueis dveji metai, – 85 procentai
+100 procentų, o kol vaikui sueis dveji metai, – 85 procentai Vyriausybės
 
-Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų darbo užmokesčio.
+nustatyta tvarka apskaičiuoto vidutinio jų darbo užmokesčio. Išmokos vaiko
 
-Išmokos vaiko priežiūros atostogų laikotarpiu mokamos neatsižvelgiant į tai,
+priežiūros atostogų laikotarpiu mokamos neatsižvelgiant į tai, kurio vaiko
 
-kurio vaiko priežiūrai suteiktos vaiko priežiūros atostogos. Jeigu tarnybos
+priežiūrai suteiktos vaiko priežiūros atostogos. Jeigu tarnybos pareigūnui
 
-pareigūnui gimsta du ir daugiau vaikų ir jis yra šių vaikų priežiūros
+gimsta du ir daugiau vaikų ir jis yra šių vaikų priežiūros atostogose, jam
 
-atostogose, jam apskaičiuotas vidutinis darbo užmokestis didinamas
+apskaičiuotas vidutinis darbo užmokestis didinamas atsižvelgiant į vienu metu
 
-atsižvelgiant į vienu metu gimusių vaikų skaičių (gimus dvynukams – 2 kartus,
+gimusių vaikų skaičių (gimus dvynukams – 2 kartus, gimus trynukams – 3 kartus
 
-gimus trynukams – 3 kartus ir
+ir
 
 t. t.). Išmoka už nėštumo ir gimdymo laikotarpį didinama tokia pat tvarka. Kai
 
@@ -2361,6 +2361,10 @@ XI-364,
 
 2009-07-17, Žin., 2009, Nr. 91-3919 (2009-07-31)
 
+Nr. XI-949,
+
+2010-06-30, Žin., 2010, Nr. 82-4303 (2010-07-13)
+
 31
 
 straipsnis. Kompensacijos ir pašalpos
@@ -2395,11 +2399,11 @@ nedarbingiems asmenims, kurie buvo jo išlaikomi arba nurodytą dieną turėjo
 
 teisę gauti jo išlaikymą, nuo tarnybos pareigūno pripažinimo nežinia kur
 
-esančiu ar jo paskelbimo žuvusiu dienos kas mėnesį lygiomis dalimis mokama jo vidutinio
+esančiu ar jo paskelbimo žuvusiu dienos kas mėnesį lygiomis dalimis mokama jo
 
-darbo užmokesčio pašalpa, neviršijant 120 mėnesių darbo užmokesčio dydžio
+vidutinio darbo užmokesčio pašalpa, neviršijant 120 mėnesių darbo užmokesčio
 
-sumos.
+dydžio sumos.
 
 3. Kai tarnybos
 
