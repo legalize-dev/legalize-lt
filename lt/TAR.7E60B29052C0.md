@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2010-06-19"
+last_updated: "2010-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -214,7 +214,43 @@ Nr. XI-865,
 
 2010-06-03, Žin., 2010, Nr. 71-3543 (2010-06-19)
 
-įstatymo 2 straipsnis įsigalioja 2011 m. sausio 1 d.
+įstatymo 2 straipsnis įsigalioja 2012 m. sausio 1 d.
+
+Šio
+
+įstatymo pakeitimas:
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-866,
+
+2010-06-03, Žin., 2010, Nr. 71-3544 (2010-06-19)
+
+VALSTYBĖS
+
+POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
+
+ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Įstatymo Nr. XI-224 galiojimas
+
+pakeistas:
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-951,
+
+2010-06-30, Žin., 2010, Nr. 82-4305 (2010-07-13)
+
+VALSTYBĖS
+
+POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
+
+ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 28.
 
@@ -308,7 +344,7 @@ PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 Redagavo Aušrinė Trapinskienė
 
-(2010-06-19)
+(2010-07-13)
 
 autrap@lrs.lt
 
@@ -1298,7 +1334,7 @@ gyventojų genocido ir rezistencijos tyrimo centro generalinis direktorius
 
 IV skirsnis papildomas 13 punktu nuo
 
-2010 m.liepos 1 d.:
+2010 m. liepos 1 d.:
 
 Vyriausybės
 
@@ -1314,7 +1350,7 @@ apskaičiuojamas proporcingai dirbtam laikui.
 
 Priedėlio
 
-redakcija nuo 2011 m. sausio 1 d. :
+redakcija nuo 2012 m. sausio 1 d. :
 
 Lietuvos
 
@@ -1332,9 +1368,9 @@ darbo apmokėjimo
 
 priedėlis
 
-I.
+I. VALSTYBĖS
 
-VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
+POLITIKŲ PAREIGINĖS ALGOS
 
 (Baziniais dydžiais)
 
@@ -1528,63 +1564,79 @@ algos koeficientas
 
 1.
 
-Generalinė prokuratūra
+Generalinė
+
+prokuratūra
 
 1.1.
 
-Generalinis prokuroras
+Generalinis
+
+prokuroras
 
 16,7
 
 1.2.
 
-Generalinio prokuroro pavaduotojas
+Generalinio
+
+prokuroro pavaduotojas
 
 15,2
 
 1.3.
 
-Departamento vyriausiasis prokuroras
+Departamento
+
+vyriausiasis prokuroras
 
 14,7
 
 1.4.
 
-Skyriaus vyriausiasis prokuroras
+Skyriaus
+
+vyriausiasis prokuroras
 
 14,5
 
 1.5.
 
-Departamento vyriausiojo prokuroro
+Departamento
 
-pavaduotojas
+vyriausiojo prokuroro pavaduotojas
 
 14,3
 
 1.6.
 
-Skyriaus vyriausiojo prokuroro
+Skyriaus
 
-pavaduotojas
+vyriausiojo prokuroro pavaduotojas
 
 14,1
 
 1.7.
 
-ONKT departamento prokuroras
+ONKT
+
+departamento prokuroras
 
 13,8
 
 1.8.
 
-Departamento prokuroras
+Departamento
+
+prokuroras
 
 13,1
 
 1.9.
 
-Skyriaus prokuroras
+Skyriaus
+
+prokuroras
 
 13,0
 
@@ -1600,33 +1652,41 @@ Apygardų prokuratūros
 
 2.1.
 
-Vyriausiasis prokuroras
+Vyriausiasis
+
+prokuroras
 
 11,8
 
 2.2.
 
-Vyriausiojo prokuroro pavaduotojas
+Vyriausiojo
+
+prokuroro pavaduotojas
 
 10,8
 
 2.3.
 
-Skyriaus vyriausiasis prokuroras
+Skyriaus
+
+vyriausiasis prokuroras
 
 10,4
 
 2.4.
 
-Skyriaus vyriausiojo prokuroro
+Skyriaus
 
-pavaduotojas
+vyriausiojo prokuroro pavaduotojas
 
 10,1
 
 2.5.
 
-ONKT prokuroras
+ONKT
+
+prokuroras
 
 10,0
 
@@ -1638,33 +1698,39 @@ Prokuroras
 
 3.
 
-Vilniaus, Kauno ir Klaipėdos miestų
+Vilniaus,
 
-apylinkių prokuratūros
+Kauno ir Klaipėdos miestų apylinkių prokuratūros
 
 3.1.
 
-Vyriausiasis prokuroras
+Vyriausiasis
+
+prokuroras
 
 9,8
 
 3.2.
 
-Vyriausiojo prokuroro pavaduotojas
+Vyriausiojo
+
+prokuroro pavaduotojas
 
 9,3
 
 3.3.
 
-Skyriaus vyriausiasis prokuroras
+Skyriaus
+
+vyriausiasis prokuroras
 
 8,5
 
 3.4.
 
-Skyriaus vyriausiojo prokuroro
+Skyriaus
 
-pavaduotojas
+vyriausiojo prokuroro pavaduotojas
 
 8,4
 
@@ -1676,33 +1742,39 @@ Prokuroras
 
 4.
 
-Šiaulių ir Panevėžio miestų apylinkių
+Šiaulių
 
-prokuratūros
+ir Panevėžio miestų apylinkių prokuratūros
 
 4.1.
 
-Vyriausiasis prokuroras
+Vyriausiasis
+
+prokuroras
 
 9,7
 
 4.2.
 
-Vyriausiojo prokuroro pavaduotojas
+Vyriausiojo
+
+prokuroro pavaduotojas
 
 9,2
 
 4.3.
 
-Skyriaus vyriausiasis prokuroras
+Skyriaus
+
+vyriausiasis prokuroras
 
 8,5
 
 4.4.
 
-Skyriaus vyriausiojo prokuroro
+Skyriaus
 
-pavaduotojas
+vyriausiojo prokuroro pavaduotojas
 
 8,4
 
@@ -1714,19 +1786,23 @@ Prokuroras
 
 5.
 
-Kitų rajonų (miestų) apylinkių
+Kitų
 
-prokuratūros
+rajonų (miestų) apylinkių prokuratūros
 
 5.1.
 
-Vyriausiasis prokuroras
+Vyriausiasis
+
+prokuroras
 
 9,3
 
 5.2.
 
-Vyriausiojo prokuroro pavaduotojas
+Vyriausiojo
+
+prokuroro pavaduotojas
 
 8,8
 
@@ -1740,9 +1816,9 @@ Pastaba. ONKT –
 
 Organizuotų nusikaltimų ir korupcijos tyrimas.
 
-IV.
+IV. VALSTYBĖS
 
-VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
+PAREIGŪNŲ PAREIGINĖS ALGOS
 
 (Baziniais dydžiais)
 
@@ -1896,7 +1972,7 @@ komisijos:
 
 10.1.
 
-pirmininkas
+pirmininkai
 
 12
 
@@ -1937,6 +2013,14 @@ Lietuvos
 gyventojų genocido ir rezistencijos tyrimo centro generalinis direktorius
 
 12
+
+13.
+
+Vyriausybės
+
+įstaigų vadovai
+
+12,3
 
 Pastaba. Komisijų ir
 
@@ -2047,6 +2131,14 @@ XI-361,
 Nr. XI-865,
 
 2010-06-03, Žin., 2010, Nr. 71-3543 (2010-06-19)
+
+Nr. XI-866,
+
+2010-06-03, Žin., 2010, Nr. 71-3544 (2010-06-19)
+
+Nr. XI-951,
+
+2010-06-30, Žin., 2010, Nr. 82-4305 (2010-07-13)
 
 ________________
 
