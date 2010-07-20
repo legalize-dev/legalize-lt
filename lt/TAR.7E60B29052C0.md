@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2010-07-13"
+last_updated: "2010-07-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -138,10 +138,6 @@ Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
 
 (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams;
 
-3 dalis papildoma 10 punktu nuo 2010 m. liepos
-
-1 d.:
-
 10) Vyriausybės įstaigų vadovams.
 
 Straipsnio
@@ -270,7 +266,25 @@ POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEI
 
 Šis įstatymas įsigalioja 2009 m. rugpjūčio 1 d. ir
 
-galioja iki 2010 m. gruodžio 31 d.
+galioja iki 2011 m. gruodžio 31 d.
+
+Įstatymo
+
+galiojimas keistas:
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-980,
+
+2010-07-02, Žin., 2010, Nr. 86-4531 (2010-07-20)
+
+VALSTYBĖS
+
+POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
+
+ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 29.
 
@@ -314,27 +328,23 @@ VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 4 STRAIPSNIO 1 IR 2 DALIŲ, 5
 
 STRAIPSNIO 1 IR 3 DALIŲ, 7 STRAIPSNIO 3 DALIES 1 PUNKTO, 4, 5 IR 6 DALIŲ, ŠIO
 
-ĮSTATYMO PRIEDĖLIO II SKIRSNIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO
+ĮSTATYMO PRIEDĖLIO II SKIRSNIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS
 
-IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 6 PRIEDĖLIO,
+BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 6
 
-LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ
+PRIEDĖLIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ
 
-FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 9 STRAIPSNIO,
+BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 9
 
-LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499
+STRAIPSNIO, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499 "DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR
 
-"DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR TEISĖSAUGOS ORGANŲ VADOVŲ
+TEISĖSAUGOS ORGANŲ VADOVŲ BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO
 
-BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO APMOKĖJIMO TVARKOS",
+APMOKĖJIMO TVARKOS", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666 "DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS
 
-LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666
+SISTEMOS IR LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI
 
-"DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR
-
-LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ
-
-DARBUOTOJŲ DARBO APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D. NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS INSTITUCIJŲ
+KITŲ DARBUOTOJŲ DARBO APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D. NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS INSTITUCIJŲ
 
 VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO APMOKĖJIMO" DALINIO
 
@@ -344,7 +354,7 @@ PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 Redagavo Aušrinė Trapinskienė
 
-(2010-07-13)
+(2010-07-20)
 
 autrap@lrs.lt
 
@@ -424,17 +434,17 @@ pareiginės algos bazinį dydį (toliau – bazinis dydis), kurį Vyriausybės
 
 teikimu, įvertinus valstybės politikams ir valstybės pareigūnams atstovaujančių
 
-organizacijų pasiūlymus, praėjusių metų vidutinę metinę infliaciją (skaičiuojant
+organizacijų pasiūlymus, praėjusių metų vidutinę metinę infliaciją
 
-nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo užmokesčio
+(skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo
 
-viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką,
+užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių
 
-tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos pabaigos.
+įtaką, tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos
 
-Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį,
+pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį
 
-išskyrus atvejus, kai iš esmės pablogėja valstybės ekonominė ir finansinė
+dydį, išskyrus atvejus, kai iš esmės pablogėja valstybės ekonominė ir finansinė
 
 būklė.
 
@@ -484,19 +494,17 @@ Nr. XI-82, 2008-12-19,
 
 Lietuvos valstybei metus
 
-1. Valstybės politikams
+1. Valstybės
 
-ir valstybės pareigūnams mokamas priedas už ištarnautus Lietuvos valstybei
+politikams ir valstybės pareigūnams mokamas priedas už ištarnautus Lietuvos
 
-metus nuo 1990 m. kovo 11 d., einant  pareigas, nurodytas Valstybės
+valstybei metus nuo 1990 m. kovo 11 d., einant  pareigas, nurodytas Valstybės tarnybos įstatymo straipsnio 1–4 dalyse ir 5
 
-tarnybos įstatymo straipsnio 1–4 dalyse ir 5 dalies 1–4 punktuose (išskyrus
+dalies 1–4 punktuose (išskyrus savivaldybės tarybos narius, kurie nebuvo merais
 
-savivaldybės tarybos narius, kurie nebuvo merais ir mero pavaduotojais). Į
+ir mero pavaduotojais). Į ištarnautus metus įskaitomi laikotarpiai, nurodyti
 
-ištarnautus metus įskaitomi laikotarpiai, nurodyti minėto įstatymo 42
-
-straipsnio 1 dalyje.
+minėto įstatymo 42 straipsnio 1 dalyje.
 
 2. Tarnybos
 
@@ -608,9 +616,9 @@ bei tvarka.
 
 Straipsnio pakeitimai:
 
-Nr. IX-1045, 2002-07-05,
+Nr. IX-1045,
 
-Žin., 2002, Nr. 73-3104 (2002-07-19)
+2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
 
 7
 
@@ -700,7 +708,7 @@ ADAMKUS
 
 Priedėlio
 
-redakcija nuo 2009 m. rugpjūčio 1 d. iki 2010 gruodžio 31 d. :
+redakcija iki 2011 gruodžio 31 d. :
 
 Lietuvos
 
@@ -718,9 +726,9 @@ darbo apmokėjimo
 
 priedėlis
 
-I. VALSTYBĖS POLITIKŲ
+I. VALSTYBĖS
 
-PAREIGINĖS ALGOS
+POLITIKŲ PAREIGINĖS ALGOS
 
 (Baziniais dydžiais)
 
@@ -892,7 +900,9 @@ Merai
 
 5.2.
 
-Merų pavaduotojai
+Merų
+
+pavaduotojai
 
 9,45
 
@@ -1331,10 +1341,6 @@ gyventojų genocido ir rezistencijos tyrimo centro generalinis direktorius
 10,10
 
 13.
-
-IV skirsnis papildomas 13 punktu nuo
-
-2010 m. liepos 1 d.:
 
 Vyriausybės
 
@@ -2072,9 +2078,9 @@ Nr. IX-1594,
 
 2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
 
-Nr. IX-1738,
+Nr. IX-1738, 2003-09-18,
 
-2003-09-18, Žin., 2003, Nr. 94-4247 (2003-10-08)
+Žin., 2003, Nr. 94-4247 (2003-10-08)
 
 Nr. IX-1918,
 
@@ -2139,6 +2145,10 @@ Nr. XI-866,
 Nr. XI-951,
 
 2010-06-30, Žin., 2010, Nr. 82-4305 (2010-07-13)
+
+Nr. XI-980,
+
+2010-07-02, Žin., 2010, Nr. 86-4531 (2010-07-20)
 
 ________________
 
@@ -2258,9 +2268,9 @@ IX-841,
 
 VALSTYBĖS
 
-POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7 STRAIPSNIŲ
 
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
 
 8.
 
@@ -2288,9 +2298,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1045,
+IX-1045, 2002-07-05,
 
-2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
+Žin., 2002, Nr. 73-3104 (2002-07-19)
 
 VALSTYBĖS
 
