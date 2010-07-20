@@ -4,7 +4,7 @@ identifier: "TAR.28635AB7F3EB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-05"
-last_updated: "2009-03-24"
+last_updated: "2010-07-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.28635AB7F3EB"
 department: "Lietuvos Respublikos Seimas"
@@ -380,7 +380,15 @@ už pasipriešinimą okupaciniams režimams, teisių atkūrimo, siūlo naujai i�
 
 ir laisvės kovų dalyvių apdovanojimo, taip pat turėtų laipsnių ir apdovanojimų
 
-atkūrimo.
+atkūrimo;
+
+Straipsnis
+
+papildomas 23 punktu nuo 2011 m. sausio 1 d.:
+
+23)
+
+tikrina, analizuoja ir skelbia buvusios SSRS specialiųjų tarnybų dokumentus.
 
 Straipsnio
 
@@ -401,6 +409,12 @@ Nr.
 XI-189,
 
 2009-03-12, Žin., 2009, Nr. 32-1240 (2009-03-24)
+
+Nr.
+
+XI-962,
+
+2010-06-30, Žin., 2010, Nr. 86-4520 (2010-07-20)
 
 TREČIASIS SKIRSNIS
 
@@ -460,9 +474,9 @@ Centro veiklos, programų sudarymo ir jų vykdymo klausimais gali sudaryti
 
 laikinas konsultacines grupes iš Generalinės prokuratūros, Teisingumo
 
-ministerijos, Krašto apsaugos ministerijos, Valstybės saugumo departamento, Lietuvos
+ministerijos, Krašto apsaugos ministerijos, Valstybės saugumo departamento,
 
-istorijos instituto, pasipriešinimo dalyvių (rezistentų) ir asmenų,
+Lietuvos istorijos instituto, pasipriešinimo dalyvių (rezistentų) ir asmenų,
 
 nukentėjusių nuo 1939–1990 metų okupacijų, asociacijų, Pasaulio lietuvių
 
@@ -536,9 +550,9 @@ CENTRO
 
 FINANSAVIMAS
 
-7 straipsnis.
+7 straipsnis. Centro
 
-Centro finansavimas
+finansavimas
 
 1. Centras finansuojamas iš valstybės
 
@@ -616,9 +630,9 @@ tyrimo centro įstatymo įgyvendinimo tvarkos” pakeitimo” (Žin., 1993, Nr.7
 
 4) įstatymas “Dėl Lietuvos Respublikos
 
-gyventojų genocido ir rezistencijos tyrimo centro įstatymo papildymo” (Žin.,
+gyventojų genocido ir rezistencijos tyrimo centro įstatymo papildymo” (Žin., 1995,
 
-1995, Nr.57-1420).
+Nr.57-1420).
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -634,9 +648,9 @@ Pakeitimai:
 
 1.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
 Nr. VIII-514, 97.11.13,
 
@@ -724,13 +738,29 @@ GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 2, 5, 6 STRAIPSNIŲ
 
 IR TREČIOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
 
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-962,
+
+2010-06-30, Žin., 2010, Nr. 86-4520 (2010-07-20)
+
+LIETUVOS
+
+GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 5 STRAIPSNIO
+
+PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2009-03-25)
+Aušrinė Trapinskienė (2010-07-29)
 
 autrap@lrs.lt
 
