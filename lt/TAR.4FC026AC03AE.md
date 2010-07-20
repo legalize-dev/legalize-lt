@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2010-05-18"
+last_updated: "2010-07-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -3444,25 +3444,57 @@ atostogos ir ji įgyja teisę gauti išmoką nėštumo ir gimdymo atostogų
 
 laikotarpiu, jai mokamos abi šios išmokos.
 
-4. Jeigu
+3 dalies nuostatos dėl laikinojo
 
-pareigūnas, kuris buvo ar yra išleistas vaiko priežiūros atostogų, kol vaikui
+nedarbingumo laikotarpiu pareigūnams mokamų išmokų įsigalioja 2010 m. rugpjūčio
 
-sueis dveji metai, gauna darbo užmokestį, kuris yra mažesnis už vidutinį darbo
+1 d., nuostatos dėl nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko
 
-užmokestį (bendrą vidutinių darbo užmokesčių sumą), nurodytą šio straipsnio 3
+priežiūros atostogų laikotarpiais pareigūnams mokamų išmokų įsigalioja 2011 m.
 
-dalyje, laikotarpiu, kol vaikui sueis dveji metai, jam mokamas šio vidutinio
+liepos 1 d.:
 
-darbo užmokesčio (bendros jų sumos) ir jo gaunamo atitinkamo mėnesio darbo
+3. Laikinojo
 
-užmokesčio skirtumas.
+nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko
+
+priežiūros atostogų laikotarpiais pareigūnams mokamas vidutinis jų darbo užmokestis
+
+arba jo dalis. Mokamo vidutinio darbo užmokesčio ar jo dalies dydis, maksimalus
+
+kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis
+
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo
+
+nuostatomis.
+
+4. Jeigu pareigūnas,
+
+kuris buvo ar yra išleistas vaiko priežiūros atostogų, kol vaikui sueis dveji
+
+metai, gauna darbo užmokestį, kuris yra mažesnis už vidutinį darbo užmokestį
+
+(bendrą vidutinių darbo užmokesčių sumą), nurodytą šio straipsnio 3 dalyje,
+
+laikotarpiu, kol vaikui sueis dveji metai, jam mokamas šio vidutinio darbo
+
+užmokesčio (bendros jų sumos) ir jo gaunamo atitinkamo mėnesio darbo užmokesčio
+
+skirtumas.
+
+4 dalis netenka galios nuo 2011 m. liepos
+
+1 d.
 
 5. Tėvystės
 
 atostogų laikotarpiu pareigūnui mokamas Vyriausybės nustatyta tvarka
 
 apskaičiuotas vidutinis jo darbo užmokestis, jeigu jis pripažino tėvystę.
+
+5 dalis netenka galios nuo 2011 m. liepos
+
+1 d.
 
 6. Pareigūnų,
 
@@ -3486,9 +3518,9 @@ Nr. IX-2536,
 
 Nr.
 
-X-665,
+X-665, 2006-06-08,
 
-2006-06-08, Žin., 2006, Nr. 72-2681 (2006-06-28)
+Žin., 2006, Nr. 72-2681 (2006-06-28)
 
 Nr.
 
@@ -3507,6 +3539,10 @@ Nr.
 X-1621,
 
 2008-06-17, Žin., 2008, Nr. 74-2867 (2008-06-30)
+
+Nr. XI-985,
+
+2010-07-02, Žin., 2010, Nr. 86-4536 (2010-07-20)
 
 42 straipsnis. Pareigūnų medicininės reabilitacijos,
 
@@ -3762,11 +3798,11 @@ gyvenamosios patalpos nuomos mokestį ir mokesčius už energijos, ryšių bei v
 
 komunalines paslaugas pagal toje vietovėje galiojančius tarifus.
 
-2. Pareigūnas,
+2. Pareigūnas, perėjęs
 
-perėjęs tarnauti į kitą vidaus reikalų įstaigą, dėl šios priežasties
+tarnauti į kitą vidaus reikalų įstaigą, dėl šios priežasties negali būti
 
-negali būti iškeldinamas iš anksčiau suteikto tarnybinio buto.
+iškeldinamas iš anksčiau suteikto tarnybinio buto.
 
 3.
 
@@ -3862,9 +3898,9 @@ metu. Kursanto sveikatos ir gyvybės draudimo suma lygi draudiminio įvykio
 
 mėnesį Vyriausybės nustatytai minimaliai mėnesinei algai, padaugintai iš 12.
 
-3. Pareigūnų ir kursantų sveikatos ir
+3. Pareigūnų ir kursantų sveikatos ir gyvybės
 
-gyvybės draudimo, draudiminių įvykių pripažinimo tvarką, draudimo išmokų dydžio
+draudimo, draudiminių įvykių pripažinimo tvarką, draudimo išmokų dydžio
 
 nustatymo ir mokėjimo tvarką nustato Vyriausybė. Nelaimingų atsitikimų
 
@@ -4174,11 +4210,11 @@ valstybės registrų, Asmens duomenų teisinės apsaugos įstatymų, kitų teis�
 
 nustatyta tvarka. Vidaus reikalų pareigūnų registro paskirtį, jo objektus,
 
-registro tvarkymo įstaigas, jų teises ir pareigas, registro tvarkymą,
+registro tvarkymo įstaigas, jų teises ir pareigas, registro tvarkymą, reorganizavimą
 
-reorganizavimą ir likvidavimą reglamentuoja Vidaus reikalų pareigūnų registro
+ir likvidavimą reglamentuoja Vidaus reikalų pareigūnų registro nuostatai. Šiuos
 
-nuostatai. Šiuos nuostatus vidaus reikalų ministro teikimu tvirtina Vyriausybė.
+nuostatus vidaus reikalų ministro teikimu tvirtina Vyriausybė.
 
 ________________
 
@@ -4210,9 +4246,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-2263, 2004-06-08,
+Nr. IX-2263,
 
-Žin., 2004, Nr. 98-3625 (2004-06-24)
+2004-06-08, Žin., 2004, Nr. 98-3625 (2004-06-24)
 
 VIDAUS
 
@@ -4310,9 +4346,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-163, 2005-04-21,
+X-163,
 
-Žin., 2005, Nr. 58-2001 (2005-05-07)
+2005-04-21, Žin., 2005, Nr. 58-2001 (2005-05-07)
 
 DARBO
 
@@ -6194,9 +6230,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1705,
+Nr. X-1705, 2008-07-15,
 
-2008-07-15, Žin., 2008, Nr. 87-3465 (2008-07-31)
+Žin., 2008, Nr. 87-3465 (2008-07-31)
 
 52
 
