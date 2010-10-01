@@ -4,7 +4,7 @@ identifier: "TAR.BAEF9ECD886E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-11"
-last_updated: "2010-07-01"
+last_updated: "2010-10-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BAEF9ECD886E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2010-09-30
+Suvestinė redakcija nuo 2010-10-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1717, i. k. 0961010ISTA00I-1485
 
@@ -77,11 +77,13 @@ GINKLŲ FONDO UŽDAVINIAI, FUNKCIJOS IR TEISĖS
 
 4 straipsnis. Ginklų fondo uždaviniai
 
-Ginklų fondo uždaviniai – aprūpinti valstybės institucijas ir įstaigas, juridinius asmenis ir Lietuvos Respublikoje įsteigtus Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių įmonių filialus ginklais, šaudmenimis, sprogmenimis ar specialiosiomis priemonėmis, taip pat fizinius asmenis B, C kategorijų trumpaisiais šaunamaisiais ginklais ir šaudmenimis šiems ginklams.
+Ginklų fondo uždaviniai – aprūpinti valstybės institucijas ir įstaigas, fizinius ir juridinius asmenis ginklais, šaudmenimis, sprogmenimis ar specialiosiomis priemonėmis.
 
 Straipsnio pakeitimai:
 
 Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
+
+Nr. XI-841, 2010-05-25, Žin., 2010, Nr. 67-3340 (2010-06-10), i. k. 1101010ISTA00XI-841
 
 5 straipsnis. Ginklų fondo funkcijos ir teisės
 
@@ -89,11 +91,13 @@ Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA0
 
 1) renka, analizuoja ir kaupia informaciją apie ginklus, šaudmenis, sprogmenis, specialiąsias priemones, naujus ginklų, šaudmenų, sprogmenų ar specialiųjų priemonių tipus ir modelius, jų techninius duomenis, plėtojimo kryptis;
 
-2) teikia valstybės institucijoms ir įstaigoms, juridiniams asmenims ir Lietuvos Respublikoje įsteigtiems Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių įmonių filialams turimą informaciją apie jiems reikalingus ginklus, šaudmenis, sprogmenis ar specialiąsias priemones, fiziniams asmenims – informaciją apie B, C kategorijų trumpuosius šaunamuosius ginklus ir šaudmenis šiems ginklams;
+2) teikia valstybės institucijoms ir įstaigoms, fiziniams ir juridiniams asmenims turimą informaciją apie jiems reikalingus ginklus, šaudmenis, sprogmenis ar specialiąsias priemones;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
+
+Nr. XI-841, 2010-05-25, Žin., 2010, Nr. 67-3340 (2010-06-10), i. k. 1101010ISTA00XI-841
 
 3) kiekvienais metais pagal valstybės institucijų ir įstaigų pateiktas paraiškas dėl joms reikalingų ginklų, šaudmenų, sprogmenų, specialiųjų priemonių įsigijimo sudaro metinius pirkimų planus ir vadovaudamasis patvirtintais pirkimų planais ir su valstybės institucijomis bei įstaigomis sudarytomis sutartimis perka ir perduoda valstybės institucijoms bei įstaigoms arba parduoda ginklus, šaudmenis, sprogmenis ir specialiąsias priemones;
 
@@ -103,7 +107,11 @@ Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA0
 
 4) Vyriausybės nustatyta tvarka tvarko Valstybinį ginklų registrą;
 
-5) perka ir parduoda juridiniams asmenims B, C kategorijų trumpuosius šaunamuosius ginklus, šaudmenis šiems ginklams, sprogmenis ar specialiąsias priemones, taip pat fiziniams asmenims B, C kategorijų trumpuosius šaunamuosius ginklus ir šaudmenis šiems ginklams;
+5) perka ir parduoda fiziniams ir juridiniams asmenims B, C kategorijų trumpuosius šaunamuosius ginklus, šaudmenis šiems ginklams, sprogmenis ar specialiąsias priemones;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-841, 2010-05-25, Žin., 2010, Nr. 67-3340 (2010-06-10), i. k. 1101010ISTA00XI-841
 
 6) pagal kompetenciją kontroliuoja ginklų, šaudmenų, sprogmenų, specialiųjų priemonių apyvartą Lietuvos Respublikos teritorijoje ir teisės aktų nustatytais atvejais bei tvarka išduoda galutinio vartotojo sertifikatus;
 
@@ -111,7 +119,11 @@ Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA0
 
 8) teisės aktų nustatyta tvarka renka informaciją apie šaunamųjų ginklų, šaudmenų, sprogmenų apyvartą Lietuvos Respublikoje ir teikia šią informaciją suinteresuotoms institucijoms arba tarptautinėms organizacijoms;
 
-9) Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytais atvejais išduoda licencijas verstis atitinkama ūkine komercine veikla ir vykdo šios veiklos priežiūrą;
+9) Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytais atvejais išduoda licencijas verstis atitinkama ūkine komercine veikla – sprogmenų gamyba, prekyba sprogmenimis, sprogmenų naudojimu, ginklų, A kategorijos ginklų priedėlių, šaudmenų, jų dalių gamyba, ginklų taisymu, ginklų ir šaudmenų perdirbimu – ir vykdo šios veiklos priežiūrą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-841, 2010-05-25, Žin., 2010, Nr. 67-3340 (2010-06-10), i. k. 1101010ISTA00XI-841
 
 10) kitas teisės aktuose nustatytas funkcijas.
 
@@ -171,7 +183,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
 
-3. Pagal kitų juridinių asmenų paraiškas pirkimai finansuojami pirkimams skirtas lėšas perdavus Ginklų fondui pirkimo-pardavimo sutartyse nustatyta tvarka.
+3. Pagal kitų juridinių asmenų ir fizinių asmenų paraiškas pirkimai finansuojami pirkimams skirtas lėšas perdavus Ginklų fondui pirkimo–pardavimo sutartyse nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-841, 2010-05-25, Žin., 2010, Nr. 67-3340 (2010-06-10), i. k. 1101010ISTA00XI-841
 
 4. Valstybės institucijų ir įstaigų pavedimai Ginklų fondui vykdyti ginklų, šaudmenų, sprogmenų ir specialiųjų priemonių pirkimus įforminami pavedimo sutartimis.
 
@@ -225,6 +241,14 @@ Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA0
 
 Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos Vyriausybės įstatymo pavadinimo ir 1, 2, 4, 5, 5-1, 6, 8 straipsnių pakeitimo įstatymas
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-841, 2010-05-25, Žin., 2010, Nr. 67-3340 (2010-06-10), i. k. 1101010ISTA00XI-841
+
+Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos Vyriausybės įstatymo 4, 5, 5-1, 8 straipsnių pakeitimo ir Įstatymo papildymo 11 straipsniu įstatymas
+
 9 straipsnis. Ginklų fondo pareigūnų darbo užmokestis
 
 Ginklų fondo pareigūnų tarnybinio atlyginimo, priedų, priemokų dydį ir nustatymo tvarką reglamentuoja Lietuvos Respublikos įstatymai.
@@ -237,31 +261,23 @@ Ginklų fondo darbuotojų socialines garantijas nustato Lietuvos Respublikos įs
 
 BAIGIAMOSIOS NUOSTATOS
 
-11 straipsnis. Įstatymo įsigaliojimas
+11 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-Lietuvos Respublikos ginklų fondo įstatymas įsigalioja nuo 1996 m. spalio 1 d.
+Fizinio ir juridinio asmens sąvokos, išskyrus šio įstatymo 2 straipsnį, šiame įstatyme suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme.
 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+Papildyta straipsniu:
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1134, 2002-10-15, Žin., 2002, Nr. 102-4549 (2002-10-25), i. k. 1021010ISTA0IX-1134
-
-Lietuvos Respublikos ginklų fondo įstatymo 2 straipsnio pakeitimo ir papildymo įstatymas
+Nr. XI-841, 2010-05-25, Žin., 2010, Nr. 67-3340 (2010-06-10), i. k. 1101010ISTA00XI-841
 
 51 straipsnis. Pareiga teikti informaciją
 
-Ginklų fondo motyvuotu prašymu valstybės ar savivaldybių institucijos ir įstaigos, registrai, juridiniai asmenys ir Lietuvos Respublikoje įsteigti Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių įmonių filialai privalo Ginklų fondui neatlygintinai teikti duomenis, būtinus jo uždaviniams ir funkcijoms įgyvendinti.
+Ginklų fondo motyvuotu prašymu valstybės ar savivaldybių institucijos, registrai ar kiti juridiniai asmenys, taip pat fiziniai asmenys privalo Ginklų fondui neatlygintinai teikti duomenis, būtinus jo uždaviniams ir funkcijoms įgyvendinti.
 
 Straipsnio pakeitimai:
 
 Nr. XI-644, 2010-01-14, Žin., 2010, Nr. 13-612 (2010-02-02), i. k. 1101010ISTA00XI-644
+
+Nr. XI-841, 2010-05-25, Žin., 2010, Nr. 67-3340 (2010-06-10), i. k. 1101010ISTA00XI-841
 
 TREČIASIS SKIRSNIS
 
