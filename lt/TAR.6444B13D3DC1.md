@@ -4,7 +4,7 @@ identifier: "TAR.6444B13D3DC1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2004-05-11"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6444B13D3DC1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_status: "registruotas TA registre"
 eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Europos bendrovių įstatymas
+
+Suvestinė redakcija nuo 2010-10-01 iki 2011-12-31
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 78-2710, i. k. 1041010ISTA0IX-2199
 
 LIETUVOS RESPUBLIKOS
 
@@ -38,9 +42,17 @@ Vilnius
 
 1. Jeigu Europos bendrovėje yra skirtingų klasių akcijų, sprendimas dėl Europos bendrovės buveinės perkėlimo į kitą valstybę Europos bendrovės visuotiniame akcininkų susirinkime priimamas, jei jam balsuodami atskirai pritaria kiekvienos klasės akcijų savininkai (taip pat ir akcijų, nesuteikiančių balsavimo teisės, savininkai). Balsavimas priimant sprendimą dėl Europos bendrovės buveinės perkėlimo neturi būti slaptas. Dokumentas, patvirtinantis Europos bendrovės visuotinio akcininkų susirinkimo sprendimą dėl Europos bendrovės buveinės perkėlimo, ne vėliau kaip per 5 dienas nuo visuotinio akcininkų susirinkimo sprendimo priėmimo turi būti pateiktas juridinių asmenų registro tvarkytojui.
 
-2. Apie valdymo organo arba administravimo organo parengtą Europos bendrovės buveinės perkėlimo pasiūlymą turi būti paskelbta įstatuose nurodytame dienraštyje 3 kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbta įstatuose nurodytame dienraštyje vieną kartą ir pranešta visiems bendrovės kreditoriams raštu. Skelbime ir pranešime turi būti nurodyti Europos bendrovės pavadinimas, buveinė ir kodas, Reglamento 8 straipsnio 2 dalies a ir d punktuose išvardyti duomenys, kur ir kada galima susipažinti su Reglamento 8 straipsnio 4 dalyje išvardytais dokumentais.
+2. Apie valdymo organo arba administravimo organo parengtą Europos bendrovės buveinės perkėlimo pasiūlymą turi būti viešai paskelbta įstatuose nurodytame šaltinyje 3 kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbta įstatuose nurodytame šaltinyje vieną kartą ir pranešta visiems bendrovės kreditoriams raštu. Skelbime ir pranešime turi būti nurodyti Europos bendrovės pavadinimas, buveinė ir kodas, Reglamento 8 straipsnio 2 dalies a ir d punktuose išvardyti duomenys, kur ir kada galima susipažinti su Reglamento 8 straipsnio 4 dalyje išvardytais dokumentais.
 
-3. Europos bendrovės buveinės perkėlimo pasiūlymas turi būti pateiktas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo jo paskelbimo dieną įstatuose nurodytame dienraštyje.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. 1091010ISTA00XI-565
+
+3. Europos bendrovės buveinės perkėlimo pasiūlymas turi būti pateiktas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo jo paskelbimo dieną įstatuose nurodytame šaltinyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. 1091010ISTA00XI-565
 
 4. Nuo juridinių asmenų registro tvarkytojo viešo paskelbimo apie Europos bendrovės buveinės perkėlimo pasiūlymą Europos bendrovė įgyja Europos bendrovės, kurios buveinė yra perkeliama, statusą.
 
@@ -60,7 +72,11 @@ Vilnius
 
 3. Valdymo (holdingo) Europos bendrovę steigiant pagal Reglamento 2 straipsnio 2 dalį, valdymo (holdingo) Europos bendrovės steigimo sąlygų projektas turi būti įvertintas audito įmonės, su kuria sutartį sudaro kiekviena bendrovė, inicijuojanti valdymo (holdingo) Europos bendrovės steigimą.
 
-4. Valdymo (holdingo) Europos bendrovės steigimo sąlygų projektas turi būti pateiktas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo paskelbimo apie jų sudarymą dieną bendrovės, inicijuojančios valdymo (holdingo) Europos bendrovės steigimą, įstatuose nurodytame dienraštyje. Kartu su bendrovės steigimo sąlygų projektu turi būti pateikta audito įmonės parengta Europos bendrovės steigimo sąlygų projekto vertinimo ataskaita.
+4. Valdymo (holdingo) Europos bendrovės steigimo sąlygų projektas turi būti pateiktas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo paskelbimo apie jų sudarymą dieną bendrovės, inicijuojančios valdymo (holdingo) Europos bendrovės steigimą, įstatuose nurodytame šaltinyje. Kartu su bendrovės steigimo sąlygų projektu turi būti pateikta audito įmonės parengta Europos bendrovės steigimo sąlygų projekto vertinimo ataskaita.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. 1091010ISTA00XI-565
 
 5. Nuo juridinių asmenų registro tvarkytojo viešo paskelbimo apie valdymo (holdingo) Europos bendrovės steigimo sąlygų projekto sudarymą bendrovė, inicijuojanti valdymo (holdingo) Europos bendrovės steigimą, įgyja valdymo (holdingo) Europos bendrovės steigimą inicijuojančios bendrovės statusą.
 
@@ -96,7 +112,11 @@ Vilnius
 
 3. Ataskaitą, patvirtinančią, kad Europos bendrovės nuosavo kapitalo dydis atitinka Reglamente nustatytus reikalavimus, rengia audito įmonė, su kuria Europos bendrovė sudaro sutartį.
 
-4. Pertvarkymo sąlygų projektas turi būti pateikiamas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo paskelbimo apie jo sudarymą dieną įstatuose nurodytame dienraštyje. Kartu su pertvarkymo sąlygų projektu juridinių asmenų registro tvarkytojui turi būti pateikiama audito įmonės ataskaita, patvirtinanti, kad Europos bendrovės nuosavo kapitalo dydis atitinka Reglamente nustatytus reikalavimus, ir akcinės bendrovės įstatai.
+4. Pertvarkymo sąlygų projektas turi būti pateikiamas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo paskelbimo apie jo sudarymą dieną įstatuose nurodytame šaltinyje. Kartu su pertvarkymo sąlygų projektu juridinių asmenų registro tvarkytojui turi būti pateikiama audito įmonės ataskaita, patvirtinanti, kad Europos bendrovės nuosavo kapitalo dydis atitinka Reglamente nustatytus reikalavimus, ir akcinės bendrovės įstatai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. 1091010ISTA00XI-565
 
 5. Nuo juridinių asmenų registro tvarkytojo viešo paskelbimo apie pertvarkymo sąlygų projekto sudarymą Europos bendrovė įgyja pertvarkomos Europos bendrovės statusą.
 
@@ -147,4 +167,14 @@ priedas
 2001 m. spalio 8 d. Tarybos reglamentas (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto.
 
 ______________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. 1091010ISTA00XI-565
+
+Lietuvos Respublikos Europos bendrovių įstatymo 2, 3 ir 5 straipsnių pakeitimo įstatymas
 
