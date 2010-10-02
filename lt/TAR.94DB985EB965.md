@@ -4,7 +4,7 @@ identifier: "TAR.94DB985EB965"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-01"
-last_updated: "2010-01-05"
+last_updated: "2010-10-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2010-01-05 iki 2010-10-01
+Suvestinė redakcija nuo 2010-10-02 iki 2012-08-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
 
@@ -43,7 +43,11 @@ Lietuvos valstybė palaiko kooperatinį judėjimą, pripažįsta kooperatinių b
 
 1. Kooperacija – įstatymu pagrįstas veiklos ir išteklių sutelkimas dalyvių bendriems tikslams įgyvendinti. Tuo tikslu gali būti steigiamos kooperatinės bendrovės.
 
-2. Kooperatinė bendrovė – įstatymų nustatyta tvarka fizinių ir (arba) juridinių asmenų įsteigta įmonė, skirta narių ekonominiams, socialiniams bei kultūriniams poreikiams tenkinti. Jos nariai įneša lėšas kapitalui sudaryti, tarpusavyje pasiskirsto riziką bei naudą pagal narių prekių ir paslaugų apyvartą su šia bendrove ir aktyviai dalyvauja kooperatinės bendrovės valdyme.
+2. Kooperatinė bendrovė – įstatymų nustatyta tvarka fizinių ir (arba) Lietuvos Respublikoje įsteigtų juridinių asmenų, kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje įsteigtų juridinių asmenų ar kitų organizacijų ir jų filialų (toliau – juridinis asmuo) įsteigta įmonė, skirta narių ekonominiams, socialiniams ir kultūriniams poreikiams tenkinti. Jos nariai įneša lėšas kapitalui sudaryti, tarpusavyje pasiskirsto riziką ir naudą pagal narių prekių ir paslaugų apyvartą su šia bendrove ir aktyviai dalyvauja kooperatinės bendrovės valdyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1021, 2010-09-21, Žin., 2010, Nr. 118-5994 (2010-10-02), i. k. 1101010ISTA0XI-1021
 
 3. Pajaus vardinis dokumentas – dokumentas, patvirtinantis asmens dalyvavimą sudarant kooperatinės bendrovės kapitalą ir šio Įstatymo nustatytus kooperatinės bendrovės įsipareigojimus kooperatinės bendrovės nariui. Kooperatinės bendrovės pajams Vertybinių popierių įstatymas netaikomas.
 
@@ -69,7 +73,11 @@ Nr. X-1586, 2008-06-05, Žin., 2008, Nr. 71-2712 (2008-06-21), i. k. 1081010ISTA
 
 4. Kooperatinė bendrovė turi savo pavadinimą. Pavadinime turi būti žodžiai „kooperatinė bendrovė“ arba „kooperatyvas“.
 
-5. Kooperatinės bendrovės buveinė yra Lietuvos Respublikoje.
+5. Neteko galios nuo 2010-10-02
+
+Straipsnio dalies naikinimas:
+
+Nr. XI-1021, 2010-09-21, Žin. 2010, Nr. 118-5994 (2010-10-02), i. k. 1101010ISTA0XI-1021
 
 4 straipsnis. Steigėjai ir steigimo sutartis
 
@@ -115,7 +123,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
 
-6. Kooperatinės bendrovės steigimo sutartis, sudaryta šiame straipsnyje nustatyta tvarka, suteikia teisę atidaryti kaupiamąją steigiamos kooperatinės bendrovės sąskaitą Lietuvos Respublikoje įregistruotame banke.
+6. Kooperatinės bendrovės steigimo sutartis, sudaryta šiame straipsnyje nustatyta tvarka, suteikia teisę atidaryti kaupiamąją steigiamos kooperatinės bendrovės sąskaitą banke arba kitoje kredito įstaigoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1021, 2010-09-21, Žin., 2010, Nr. 118-5994 (2010-10-02), i. k. 1101010ISTA0XI-1021
 
 5 straipsnis. Įstatai
 
@@ -736,6 +748,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
 
 Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 4, 5 straipsnių pakeitimo ir papildymo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1021, 2010-09-21, Žin., 2010, Nr. 118-5994 (2010-10-02), i. k. 1101010ISTA0XI-1021
+
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 2, 3 ir 4 straipsnių pakeitimo įstatymas
 
 31 straipsnis. Žemės ūkio kooperatinė bendrovė (kooperatyvas)
 
