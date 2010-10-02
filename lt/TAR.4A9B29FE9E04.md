@@ -4,7 +4,7 @@ identifier: "TAR.4A9B29FE9E04"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-04-16"
-last_updated: "2010-01-05"
+last_updated: "2010-10-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 2010-01-05 iki 2010-10-01
+Suvestinė redakcija nuo 2010-10-02 iki 2012-08-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
 
@@ -57,11 +57,15 @@ BENDROSIOS NUOSTATOS
 
 5. Bendrovė privalo turėti savo pavadinimą, pagal kurį ją būtų galima atskirti nuo kitų juridinių asmenų.
 
-6. Bendrovės buveinė turi būti Lietuvos Respublikoje.
+6. Bendrovės buveinė turi būti Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje.
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1020, 2010-09-21, Žin., 2010, Nr. 118-5993 (2010-10-02), i. k. 1101010ISTA0XI-1020
 
 4 straipsnis. Bendrovės teisės ir pareigos
 
@@ -812,4 +816,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
 
 Lietuvos Respublikos žemės ūkio bendrovių įstatymo 3, 7, 10 straipsnių pakeitimo ir papildymo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1020, 2010-09-21, Žin., 2010, Nr. 118-5993 (2010-10-02), i. k. 1101010ISTA0XI-1020
+
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 3 straipsnio pakeitimo įstatymas
 
