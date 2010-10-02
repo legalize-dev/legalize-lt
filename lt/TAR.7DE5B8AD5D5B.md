@@ -4,7 +4,7 @@ identifier: "TAR.7DE5B8AD5D5B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-22"
-last_updated: "2006-11-04"
+last_updated: "2010-10-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7DE5B8AD5D5B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos augalų veislių apsaugos įstatymas
 
-Suvestinė redakcija nuo 2006-11-04 iki 2010-10-01
+Suvestinė redakcija nuo 2010-10-02 iki 2012-05-07
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 104-3701, i. k. 1011010ISTA00IX-618
 
@@ -80,7 +80,11 @@ Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA
 
 2) juridinis asmuo, kurio vienas ar keli darbuotojai pagal darbo sutartį arba atlikdami tarnybinę užduotį sukūrė ar atrado ir išskyrė naują augalo veislę;
 
-3) Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės valstybėse įsteigtų įmonių filialai, sukūrę ar atradę ir išskyrę naują augalo veislę;
+3) juridinis asmuo, įsteigtas kitoje Europos Sąjungos valstybėje narėje, ar kitoje Europos ekonominės erdvės valstybėje įsteigtas juridinis asmuo arba kita organizacija ir jų filialai, sukūrę ar atradę ir išskyrę naują augalo veislę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1022, 2010-09-21, Žin., 2010, Nr. 118-5995 (2010-10-02), i. k. 1101010ISTA0XI-1022
 
 4) teisių perėmėjas, įgijęs turtines teises į veislę iš šios dalies 1-3 punktuose nurodytų asmenų.
 
@@ -162,7 +166,11 @@ PARAIŠKA SUTEIKTI VEISLEI TEISINĘ APSAUGĄ
 
 3. Dėl kiekvienos veislės pateikiama atskira paraiška. Prašymas suteikti veislei teisinę apsaugą bei kiti su paraiška susiję dokumentai pateikiami lietuvių arba kita Saugomų veislių sąrašo tvarkytojo nustatyta kalba. Šiuo atveju pateikiamas oficialus vertimas į lietuvių kalbą.
 
-4. Jeigu veislę sukūrė ar atrado ir išskyrė keli fiziniai ar keli juridiniai asmenys, pateikiama viena paraiška, nurodant kiekvieno jų nuosavybės dalį. Užsienio valstybių fiziniai ar juridiniai asmenys paraiškas pateikia per savo įgaliotą atstovą Lietuvos Respublikoje.
+4. Jeigu veislę sukūrė ar atrado ir išskyrė keli fiziniai ar juridiniai asmenys, įsteigti Lietuvos Respublikoje, ar kitoje Europos Sąjungos valstybėje narėje arba Europos ekonominės erdvės valstybėje įsteigti juridiniai asmenys ar kitos organizacijos ir jų filialai, pateikiama viena paraiška.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1022, 2010-09-21, Žin., 2010, Nr. 118-5995 (2010-10-02), i. k. 1101010ISTA0XI-1022
 
 5. Paraiškos pateikimas Tarptautinės naujų augalų veislių apsaugos sąjungos šaliai narei ar Europos Sąjungos šaliai narei neapriboja pareiškėjo teisės, dar negavus atsakymo dėl veislės teisinės apsaugos suteikimo, pateikti paraišką Saugomų veislių sąrašo tvarkytojui.
 
@@ -623,6 +631,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
 
 Lietuvos Respublikos augalų veislių apsaugos įstatymo 1, 2, 4, 5, 18, 19, 24, 26, 29, 37 straipsnių, dešimtojo skirsnio pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1022, 2010-09-21, Žin., 2010, Nr. 118-5995 (2010-10-02), i. k. 1101010ISTA0XI-1022
+
+Lietuvos Respublikos augalų veislių apsaugos įstatymo 2 ir 9 straipsnių pakeitimo įstatymas
 
 411 straipsnis. Teisė gauti informaciją
 
