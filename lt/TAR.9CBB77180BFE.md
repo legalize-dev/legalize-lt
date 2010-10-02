@@ -4,7 +4,7 @@ identifier: "TAR.9CBB77180BFE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-12-05"
-last_updated: "2010-03-01"
+last_updated: "2010-10-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9CBB77180BFE"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos priešgaisrinės saugos įstatymas
 
-Suvestinė redakcija nuo 2010-03-01 iki 2010-10-01
+Suvestinė redakcija nuo 2010-10-02 iki 2010-11-22
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5518, i. k. 1021010ISTA0IX-1225
 
@@ -355,6 +355,12 @@ Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00X
 
 6. Priemonės priešgaisrinei saugai užtikrinti visų rūšių įmonėse, įstaigose, organizacijose finansuojamos iš jų arba joms skirtų lėšų.
 
+7. Neteko galios nuo 2010-10-02
+
+Straipsnio dalies naikinimas:
+
+Nr. XI-1018, 2010-09-21, Žin. 2010, Nr. 118-5992 (2010-10-02), i. k. 1101010ISTA0XI-1018
+
 Straipsnio dalies pakeitimai:
 
 Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
@@ -406,6 +412,12 @@ Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00X
 1) kontroliuojant objektų atitiktį priešgaisrinę saugą reglamentuojantiems teisės aktams;
 
 2) kontroliuojant, kaip įgyvendinti projektiniai ir techniniai sprendimai atitinka priešgaisrinę saugą reglamentuojančių teisės aktų reikalavimus, užtikrinančius objektų ir juose dirbančių arba esančių žmonių apsaugą nuo gaisrų;
+
+3) Neteko galios nuo 2010-10-02
+
+Straipsnio punkto naikinimas:
+
+Nr. XI-1018, 2010-09-21, Žin. 2010, Nr. 118-5992 (2010-10-02), i. k. 1101010ISTA0XI-1018
 
 4) vertinant produktų ir paslaugų atitiktį;
 
