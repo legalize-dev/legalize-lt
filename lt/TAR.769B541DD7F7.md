@@ -4,7 +4,7 @@ identifier: "TAR.769B541DD7F7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-04"
-last_updated: "2009-03-05"
+last_updated: "2010-10-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.769B541DD7F7"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ūkininko ūkio įstatymas
 
-Suvestinė redakcija nuo 2009-03-05 iki 2010-10-01
+Suvestinė redakcija nuo 2010-10-02 iki 2011-08-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 43-1358, i. k. 0991010ISTAIII-1159
 
@@ -66,7 +66,11 @@ Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA0
 
 2. Ūkininko statusą fizinis asmuo įgyja nuo ūkio įregistravimo Ūkininkų ūkių registre. Ūkininkas šio statuso netenka nuo ūkio išregistravimo iš Ūkininkų ūkių registro.
 
-3. Ūkininkas privalo turėti bent vieną sąskaitą Lietuvos Respublikoje įregistruotame banke ar kitoje kredito įstaigoje.
+3. Ūkininkas privalo turėti bent vieną sąskaitą Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje įregistruotame banke arba kitoje kredito įstaigoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1023, 2010-09-21, Žin., 2010, Nr. 118-5996 (2010-10-02), i. k. 1101010ISTA0XI-1023
 
 ANTRASIS SKIRSNIS
 
@@ -265,6 +269,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-178, 2009-02-19, Žin., 2009, Nr. 25-980 (2009-03-05), i. k. 1091010ISTA00XI-178
 
 Lietuvos Respublikos ūkininko ūkio įstatymo 10 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1023, 2010-09-21, Žin., 2010, Nr. 118-5996 (2010-10-02), i. k. 1101010ISTA0XI-1023
+
+Lietuvos Respublikos ūkininko ūkio įstatymo 3 straipsnio pakeitimo įstatymas
 
 12 straipsnis. Ūkio veiklos nutraukimas ir išregistravimas
 
