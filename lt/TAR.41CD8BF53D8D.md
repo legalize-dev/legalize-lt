@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2008-11-25"
+last_updated: "2010-10-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -1588,7 +1588,9 @@ Nr. X-1491,
 
 Nr.
 
-X-1811, 2008-11-13, Žin., 2008, Nr. 135-5242 (2008-11-25)
+X-1811, 2008-11-13,
+
+Žin., 2008, Nr. 135-5242 (2008-11-25)
 
 7 straipsnis. Valstybės
 
@@ -1596,13 +1598,15 @@ rinkliavos lengvatos
 
 1. Valstybės
 
-rinkliavos už paso išdavimą, keitimą bendra tvarka Lietuvos Respublikos
+rinkliavos už paso, asmens tapatybės kortelės išdavimą, keitimą bendra tvarka
 
-piliečiams, kuriems nesukako 18 metų, taip pat kuriems sukako senatvės pensijos
+Lietuvos Respublikos piliečiams, kuriems nesukako 18 metų, taip pat kuriems
 
-amžius, nustatytas Lietuvos Respublikos valstybinių socialinio draudimo pensijų
+sukako senatvės pensijos amžius, nustatytas Lietuvos Respublikos valstybinių
 
-įstatyme, dydis sumažinamas 50 procentų.
+socialinio draudimo pensijų įstatyme, dydis sumažinamas 50 procentų jų
+
+pasirinkimu tik už vieno iš šių dokumentų išdavimą, keitimą bendra tvarka.
 
 2. Savivaldybės
 
@@ -1623,6 +1627,10 @@ X-1277,
 Nr. X-1491,
 
 2008-04-15, Žin., 2008, Nr. 50-1840 (2008-04-30)
+
+Nr. XI-1061,
+
+2010-10-12, Žin., 2010, Nr. 125-6384 (2010-10-23)
 
 8
 
@@ -1666,9 +1674,9 @@ valstybės rinkliava arba jos dalis grąžinama šiais atvejais:
 
 daugiau negu Vyriausybės nustatytas rinkliavos dydis;
 
-2) jeigu paslaugos
+2) jeigu
 
-nesuteikiamos.
+paslaugos nesuteikiamos.
 
 2. Valstybės
 
@@ -1682,7 +1690,9 @@ terminą.
 
 rinkliavos grąžinimo tvarką nustato Vyriausybė.
 
-III SKYRIUS
+III
+
+SKYRIUS
 
 VIETINĖS
 
@@ -2174,9 +2184,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1301,
+X-1301, 2007-10-18,
 
-2007-10-18, Žin., 2007, Nr. 114-4632 (2007-11-08)
+Žin., 2007, Nr. 114-4632 (2007-11-08)
 
 RINKLIAVŲ
 
@@ -2208,19 +2218,33 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1811, 2008-11-13, Žin., 2008, Nr. 135-5242 (2008-11-25)
+X-1811, 2008-11-13,
+
+Žin., 2008, Nr. 135-5242 (2008-11-25)
 
 RINKLIAVŲ
 
 ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-***
+14.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas,
 
-Redagavo
+Įstatymas
 
-Aušrinė Trapinskienė (2008-11-25)
+Nr. XI-1061,
+
+2010-10-12, Žin., 2010, Nr. 125-6384 (2010-10-23)
+
+RINKLIAVŲ ĮSTATYMO 7 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2010-10-25)
 
 autrap@lrs.lt
 
