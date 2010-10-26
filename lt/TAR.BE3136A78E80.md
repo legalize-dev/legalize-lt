@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "2010-03-22"
+last_updated: "2010-10-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -2339,19 +2339,17 @@ Respublikos teisingumo ministro įsakymu Notarų rūmų teikimu, iki notarui suk
 
 Pastaba. Pripažinti, kad Lietuvos
 
-Respublikos notariato įstatymo 23 straipsnio 3 dalis (2003 m.
+Respublikos notariato įstatymo 23 straipsnio 3 dalis (2003 m. sausio
 
-sausio 23 d. redakcija; Žin., 2003, Nr. 15-598) prieštarauja
+23 d. redakcija; Žin., 2003, Nr. 15-598) prieštarauja Lietuvos
 
-Lietuvos Respublikos Konstitucijos 29 straipsniui, 48 straipsnio 1 dalies
+Respublikos Konstitucijos 29 straipsniui, 48 straipsnio 1 dalies nuostatai
 
-nuostatai „Kiekvienas žmogus gali laisvai pasirinkti darbą bei verslą“,
+„Kiekvienas žmogus gali laisvai pasirinkti darbą bei verslą“, konstituciniam
 
-konstituciniam teisinės valstybės principui.
+teisinės valstybės principui.
 
-Lietuvos Respublikos Konstitucinis Teismas,
-
-Nutarimas
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 2010-03-22, Žin., 2010, Nr.
 
@@ -2389,13 +2387,13 @@ Nr. X-1164,
 
 straipsnis. Notaro veiklos tęstinumas
 
-Pasibaigus
+Pasibaigus notaro
 
-notaro įgaliojimams, Lietuvos Respublikos teisingumo ministerija priima
+įgaliojimams, Lietuvos Respublikos teisingumo ministerija priima sprendimą dėl
 
-sprendimą dėl tolesnės biuro veiklos, neatliktų notarinių veiksmų tęsimo ir
+tolesnės biuro veiklos, neatliktų notarinių veiksmų tęsimo ir dokumentų
 
-dokumentų perdavimo.
+perdavimo.
 
 Straipsnio
 
@@ -2447,9 +2445,7 @@ Notarai atlieka
 
 šiuos notarinius veiksmus:
 
-1) tvirtina
-
-sandorius;
+1) tvirtina sandorius;
 
 2) išduoda
 
@@ -2699,9 +2695,9 @@ atliekamas iškilmingoje aplinkoje.
 
 Lietuvos Respublikos
 
-konsulinių pareigūnų atliekamų notarinių veiksmų vietą nustato Lietuvos
+konsulinių pareigūnų atliekamų notarinių veiksmų vietą nustato Lietuvos Respublikos
 
-Respublikos konsulinis statutas.
+konsulinis statutas.
 
 Seniūnų
 
@@ -4127,6 +4123,10 @@ privalo sprendimo nuorašą nusiųsti Notarų rūmams, kurie praneša notarams a
 
 ribotai veiksnius bei neveiksnius asmenis.
 
+5
+
+dalis netenka galios nuo 2011 m. sausio 1 d.
+
 Straipsnio
 
 pakeitimai:
@@ -4145,6 +4145,10 @@ Nr. IX-1311,
 
 2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
 
+Nr. XI-1033, 2010-09-23,
+
+Žin., 2010, Nr. 126-6458 (2010-10-26)
+
 32
 
 straipsnis. Notarinių dokumentų pasirašymo tvarka
@@ -4153,11 +4157,11 @@ Notaro
 
 tvirtinami sandoriai, taip pat pareiškimai ir kitokie dokumentai pasirašomi
 
-dalyvaujant notarui. Jeigu sandoris, pareiškimas arba kitoks dokumentas
+dalyvaujant notarui. Jeigu sandoris, pareiškimas arba kitoks dokumentas pasirašytas
 
-pasirašytas ne notaro akivaizdoje, pasirašęs asmuo turi asmeniškai patvirtinti,
+ne notaro akivaizdoje, pasirašęs asmuo turi asmeniškai patvirtinti, kad
 
-kad sandorį, pareiškimą arba kitokį dokumentą pasirašė jis.
+sandorį, pareiškimą arba kitokį dokumentą pasirašė jis.
 
 Jeigu fizinis
 
@@ -4307,9 +4311,9 @@ Notaro bylose saugomų dokumentų, kuriais remiantis
 
 atlikti notariniai veiksmai, kopijų tikrumas liudijamas pagal bendrąsias
 
-dokumentų rengimo ir įforminimo taisykles, nustatytas Lietuvos archyvų departamento
+dokumentų rengimo ir įforminimo taisykles, nustatytas Lietuvos archyvų
 
-prie Lietuvos Respublikos Vyriausybės.
+departamento prie Lietuvos Respublikos Vyriausybės.
 
 Straipsnio
 
@@ -4353,9 +4357,9 @@ patvirtinantis asmens tapatybę;
 
 veiksmo arba suteiktos teisinės paslaugos turinys;
 
-6) notaro atlyginimo
+6) notaro
 
-dydis už notarinio veiksmo atlikimą;
+atlyginimo dydis už notarinio veiksmo atlikimą;
 
 7) notaro
 
@@ -4979,9 +4983,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. IX-1311, 2003-01-23,
+Nr. IX-1311,
 
-Žin., 2003, Nr. 15-598 (2003-02-12)
+2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
 
 42
 
@@ -5207,9 +5211,9 @@ kodekso reikalavimus.
 
 Testamentai gali
 
-būti tvirtinami dalyvaujant asmenims, kuriems paliekamas turtas, jeigu šių
+būti tvirtinami dalyvaujant asmenims, kuriems paliekamas turtas, jeigu šių asmenų
 
-asmenų dalyvavimo prašo testatorius.
+dalyvavimo prašo testatorius.
 
 Notaras
 
@@ -5899,9 +5903,7 @@ Nr. IX-1311,
 
 54
 
-straipsnis. Dokumentų, sudarytų užsienyje, priėmimas Lietuvos Respublikos
-
-notarų
+straipsnis. Dokumentų, sudarytų užsienyje, priėmimas Lietuvos Respublikos notarų
 
 biuruose
 
@@ -6363,9 +6365,9 @@ Kandidatų
 
 į notarus (asesorių) skaičių nustato Lietuvos Respublikos teisingumo ministras,
 
-atsižvelgdamas į Notarų rūmų parengtas notariato veiklos perspektyvas ir
+atsižvelgdamas į Notarų rūmų parengtas notariato veiklos perspektyvas ir kryptis,
 
-kryptis, pateiktas Lietuvos Respublikos teisingumo ministerijai šio įstatymo 11
+pateiktas Lietuvos Respublikos teisingumo ministerijai šio įstatymo 11
 
 straipsnio pirmojoje dalyje nustatyta tvarka.
 
@@ -6659,9 +6661,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-I-1470,
+I-1470, 96.07.11,
 
-96.07.11, Žin., 1996, Nr. 68-1645 (96.07.19)
+Žin., 1996, Nr. 68-1645 (96.07.19)
 
 LIETUVOS
 
