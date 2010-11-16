@@ -4,7 +4,7 @@ identifier: "TAR.F412AFF35F51"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-12-09"
-last_updated: "2010-11-11"
+last_updated: "2010-11-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F412AFF35F51"
 department: "Lietuvos Respublikos Seimas"
@@ -1332,13 +1332,35 @@ Respublikos Vyriausybė iki 2010 m. kovo 1 d. patvirtina socialinio draudimo ir
 
 pensijų sistemos pertvarkymo koncepciją.
 
-4. Lietuvos
+*4. Lietuvos
 
 Respublikos Vyriausybė iki 2010 m. liepos 1 d. parengia ir patvirtina sumažintų
 
 valstybinių socialinio draudimo senatvės ir netekto darbingumo pensijų
 
 kompensavimo tvarkos aprašą.
+
+*Pastaba. Pripažinti, kad
+
+Lietuvos Respublikos socialinių išmokų perskaičiavimo ir mokėjimo laikinojo
+
+įstatymo 16 straipsnio 4 dalis (Žin., 2009, Nr. 152-6820)
+
+ta apimtimi, kuria Lietuvos Respublikos Vyriausybei nėra siūloma
+
+parengti ir patvirtinti dideliu mastu sumažintų valstybinių pensijų
+
+kompensavimo tvarkos aprašą, prieštarauja Lietuvos Respublikos Konstitucijos
+
+23, 52 straipsniams, konstituciniam teisinės valstybės principui.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+2010-06-29,
+
+Žin., 2010, Nr. 134-6860 (2010-11-16)
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -1542,11 +1564,11 @@ pensijų dydžių skirtumas pensijų gavėjams išmokamas nuo šio įstatymo
 
 įsigaliojimo dienos.
 
-Valstybinių socialinio
+Valstybinių
 
-draudimo pensijų įstatymo 2 straipsnio 1 dalies 8 punkte nurodytiems asmenims
+socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 8 punkte nurodytiems
 
-pateikus 2010 metų metines pajamų mokesčio ar metines pelno mokesčio
+asmenims pateikus 2010 metų metines pajamų mokesčio ar metines pelno mokesčio
 
 deklaracijas, valstybines socialinio draudimo senatvės pensijas, ištarnauto
 
@@ -1566,9 +1588,35 @@ gavėjo išieško permokėtą išmokos dydį.
 
 *** Pabaiga ***
 
+Konstitucinio Teismo nutarimai:
+
+1.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+2010-06-29,
+
+Žin., 2010, Nr. 134-6860 (2010-11-16)
+
+DĖL LIETUVOS
+
+RESPUBLIKOS TEISĖJŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 5, 6 STRAIPSNIŲ, LIETUVOS RESPUBLIKOS
+
+VALSTYBINIŲ PENSIJŲ ĮSTATYMO 3 STRAIPSNIO 3 DALIES (2009 M. GRUODŽIO 8 D.
+
+REDAKCIJA), LIETUVOS RESPUBLIKOS SOCIALINIŲ IŠMOKŲ PERSKAIČIAVIMO IR MOKĖJIMO
+
+LAIKINOJO ĮSTATYMO 1 STRAIPSNIO 2 DALIES 1 PUNKTO, 16 STRAIPSNIO 4 DALIES
+
+ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+
+*** Pabaiga ***
+
 Redagavo Aušrinė Trapinskienė
 
-(2010-11-12)
+(2010-12-03)
 
 autrap@lrs.lt
 
