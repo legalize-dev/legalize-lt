@@ -4,7 +4,7 @@ identifier: "TAR.C0FF21832A85"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-04"
-last_updated: "2006-01-12"
+last_updated: "2010-11-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2006-01-12 iki 2010-11-22
+Suvestinė redakcija nuo 2010-11-23 iki 2012-12-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
 
@@ -211,7 +211,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
 
-3. Valstybinė mokesčių inspekcija šio straipsnio 1 ir 2 dalyse nurodytose ataskaitose pateiktą informaciją Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikia Statistikos departamentui prie Lietuvos Respublikos Vyriausybės.
+3. Valstybinė mokesčių inspekcija šio straipsnio 1 ir 2 dalyse nurodytose ataskaitose pateiktą informaciją Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikia Lietuvos statistikos departamentui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1093, 2010-11-04, Žin., 2010, Nr. 137-6994 (2010-11-23), i. k. 1101010ISTA0XI-1093
 
 4. Religinės bendruomenės, bendrijos ir centrai pagal šį įstatymą gaunamos paramos apskaitą bei pačių teikiamos paramos ir (arba) labdaros apskaitą tvarko pagal savo kanonus, statutus ir kitas normas. Tradicinės Lietuvos religinės bendruomenės, bendrijos ir centrai turi teisę teikiamose ataskaitose neatsiskaityti už anonimiškai gautą paramą ir jos panaudojimą, o jeigu per ataskaitinį laikotarpį gauta ir panaudota vien tokia parama – iš viso nepateikti to laikotarpio ataskaitos. Tradicinėms Lietuvos religinėms bendruomenėms, bendrijoms ir centrams, per kalendorinius metus gavusiems paramą vien anonimiškai, netaikomi šio straipsnio 3 dalies reikalavimai dėl metinių ataskaitų pateikimo.
 
