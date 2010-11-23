@@ -4,7 +4,7 @@ identifier: "TAR.BA283DF0FB41"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-28"
-last_updated: "2008-01-01"
+last_updated: "2010-11-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BA283DF0FB41"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2007-06-28"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos želdynų įstatymas
+
+Suvestinė redakcija nuo 2010-11-23 iki 2013-12-31
+
+Įstatymas paskelbtas: Žin. 2007, Nr. 80-3215, i. k. 1071010ISTA00X-1241
 
 LIETUVOS RESPUBLIKOS
 
@@ -265,7 +269,11 @@ III SKYRIUS
 
 14) teikia fiziniams ir juridiniams asmenims informaciją medžių ir krūmų sodinimo, kirtimo, genėjimo, perkėlimo klausimais;
 
-15) Aplinkos ministerijos patvirtinta tvarka (suderinta su Statistikos departamentu prie Lietuvos Respublikos Vyriausybės) teikia Statistikos departamentui prie Lietuvos Respublikos Vyriausybės metinę statistinę ataskaitą apie savivaldybės teritorijoje esamus, sutvarkytus, įkurtus naujus želdynus.
+15) Aplinkos ministerijos patvirtinta tvarka (suderinta su Lietuvos statistikos departamentu) teikia Lietuvos statistikos departamentui metinę statistinę ataskaitą apie savivaldybės teritorijoje esamus, sutvarkytus, įkurtus naujus želdynus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1089, 2010-11-04, Žin., 2010, Nr. 137-6990 (2010-11-23), i. k. 1101010ISTA0XI-1089
 
 2. Želdynų planavimo, kūrimo, apsaugos, tvarkymo ir priežiūros darbus savivaldybėje organizuoja vienas struktūrinis padalinys arba atsakingas savivaldybės tarnautojas.
 
@@ -506,4 +514,14 @@ Fiziniai ir juridiniai asmenys, padarę žalą želdynų ir želdinių savinink�
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1089, 2010-11-04, Žin., 2010, Nr. 137-6990 (2010-11-23), i. k. 1101010ISTA0XI-1089
+
+Lietuvos Respublikos želdynų įstatymo 10 straipsnio pakeitimo įstatymas
 
