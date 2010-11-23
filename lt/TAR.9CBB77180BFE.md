@@ -4,7 +4,7 @@ identifier: "TAR.9CBB77180BFE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-12-05"
-last_updated: "2010-10-02"
+last_updated: "2010-11-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9CBB77180BFE"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos priešgaisrinės saugos įstatymas
 
-Suvestinė redakcija nuo 2010-10-02 iki 2010-11-22
+Suvestinė redakcija nuo 2010-11-23 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5518, i. k. 1021010ISTA0IX-1225
 
@@ -505,7 +505,11 @@ GYVENTOJŲ ŠVIETIMAS PRIEŠGAISRINĖS SAUGOS SRITYJE
 
 19 straipsnis. Valstybinė gaisrų ir gelbėjimo darbų apskaita
 
-Priešgaisrinės apsaugos ir gelbėjimo departamentas tarnybos veiklos analizei renka bei apibendrina statistinius duomenis apie gaisrus ir gelbėjimo darbus, žuvusius bei traumuotus asmenis ir šiuos duomenis teisės aktų nustatyta tvarka teikia Statistikos departamentui prie Lietuvos Respublikos Vyriausybės.
+Priešgaisrinės apsaugos ir gelbėjimo departamentas tarnybos veiklos analizei renka ir apibendrina statistinius duomenis apie gaisrus ir gelbėjimo darbus, žuvusius ir traumuotus asmenis ir šiuos duomenis teisės aktų nustatyta tvarka teikia Lietuvos statistikos departamentui.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1095, 2010-11-04, Žin., 2010, Nr. 137-6996 (2010-11-23), i. k. 1101010ISTA0XI-1095
 
 20 straipsnis. Švietimas priešgaisrinės saugos srityje
 
