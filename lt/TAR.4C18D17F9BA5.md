@@ -4,7 +4,7 @@ identifier: "TAR.4C18D17F9BA5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-15"
-last_updated: "2010-07-01"
+last_updated: "2010-11-27"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5"
 department: "Lietuvos Respublikos Seimas"
@@ -233,157 +233,9 @@ bei veiklą Europos Sąjungos struktūrinių
 
 fondų ir bendrojo finansavimo lėšoms panaudoti.
 
-8 straipsnio redakcija iki 2010 m.
-
-spalio 1 d.:
-
-8
-
-straipsnis. Kitų valstybės institucijų ir įstaigų bei viešųjų įstaigų
+8 straipsnis. Kitų valstybės institucijų ir įstaigų
 
 kompetencija
-
-1. Užimtumo rėmimo politiką įgyvendinančios įstaigos:
-
-1) Lietuvos darbo birža prie Socialinės apsaugos ir
-
-darbo ministerijos (toliau – Lietuvos darbo birža) ir jos teritorinės darbo
-
-biržos;
-
-2) Lietuvos darbo rinkos mokymo tarnyba prie
-
-Socialinės apsaugos ir darbo ministerijos (toliau – Lietuvos darbo rinkos
-
-mokymo tarnyba) ir jos teritorinės darbo rinkos mokymo ir konsultavimo
-
-tarnybos.
-
-2. Užimtumo rėmimo politiką įgyvendinančios įstaigos yra
-
-juridiniai asmenys, turintys sąskaitų banke, antspaudus ir savo simboliką.
-
-3. Lietuvos darbo birža:
-
-1) organizuoja teritorinių darbo biržų veiklą ir
-
-kontroliuoja, kaip jos įgyvendina užimtumo rėmimo priemones ir teikia darbo
-
-rinkos paslaugas;
-
-2) vykdo šalies darbo rinkos stebėseną;
-
-3) kartu su Lietuvos darbo rinkos mokymo tarnyba, savivaldybių
-
-institucijomis, socialiniais partneriais vertina padėtį darbo rinkoje, svarsto
-
-priemones užimtumo problemoms spręsti;
-
-4) teikia
-
-valstybės pagalbą socialinėms įmonėms Lietuvos Respublikos socialinių įmonių
-
-įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka;
-
-5) organizuoja, kad būtų įgyvendintos užimtumo ir
-
-socialinės garantijos valstybės įmonės Ignalinos atominės elektrinės
-
-atleidžiamiems darbuotojams Lietuvos Respublikos valstybės įmonės Ignalinos
-
-atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų
-
-įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka;
-
-6) organizuoja ir koordinuoja profesinės
-
-reabilitacijos paslaugų teikimą Lietuvos Respublikos neįgaliųjų socialinės
-
-integracijos įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka;
-
-7) suderinusi su Socialinės apsaugos ir darbo
-
-ministerija, steigia, likviduoja ar reorganizuoja teritorines darbo biržas,
-
-koordinuoja, kontroliuoja ir metodiškai vadovauja jų veiklai;
-
-8) atlieka kitas
-
-teisės aktų jai nustatytas funkcijas.
-
-4. Teritorinė darbo birža:
-
-1) įgyvendina
-
-užimtumo rėmimo priemones ir teikia 18 straipsnio 2 dalyje, 19 straipsnio 2
-
-dalies 1 punkte, 20 ir 21 straipsniuose nustatytas darbo rinkos paslaugas;
-
-2) vykdo jai priskirtos teritorijos darbo rinkos
-
-stebėseną;
-
-3) registruoja jai priskirtose teritorijose veikiančių
-
-įmonių grupės darbuotojų atleidimus, rengia ir įgyvendina nedarbo prevencijos
-
-programas, nurodytas šio įstatymo 34 straipsnio 1 dalies 1 punkte;
-
-4) atlieka kitas teisės aktų jai nustatytas funkcijas.
-
-5. Lietuvos darbo rinkos mokymo tarnyba:
-
-1) organizuoja
-
-teritorinių darbo rinkos mokymo ir konsultavimo tarnybų veiklą ir kontroliuoja,
-
-kaip jos teikia darbo rinkos paslaugas;
-
-2) dalyvauja įgyvendinant žmogiškųjų išteklių plėtros
-
-politikos tęstinio mokymo ir profesinio orientavimo priemones;
-
-3) atlieka bedarbių ir įspėtų apie atleidimą iš darbo
-
-asmenų neformaliojo profesinio mokymo stebėseną;
-
-4) dalyvauja rengiant profesinės reabilitacijos
-
-programas;
-
-5) suderinusi su Socialinės apsaugos ir darbo
-
-ministerija, steigia, likviduoja ar reorganizuoja teritorinės darbo rinkos
-
-mokymo ir konsultavimo tarnybas;
-
-6) atlieka kitas teisės aktų jai nustatytas
-
-funkcijas.
-
-6. Teritorinė darbo rinkos mokymo ir konsultavimo
-
-tarnyba teikia šio įstatymo 18 straipsnio 2 dalies 2 punkte ir 19 straipsnio 2
-
-dalies 2 ir 3 punktuose nustatytas darbo rinkos paslaugas ir atlieka kitas
-
-teisės aktų jai nustatytas funkcijas.
-
-7. Kitos
-
-valstybės institucijos dalyvauja, siekiant šio įstatymo nustatyto užimtumo
-
-rėmimo sistemos tikslo, įgyvendinant uždavinius ir užimtumo rėmimo priemones, vadovaudamosi
-
-šiuo įstatymu ir kitais teisės aktais.
-
-8 straipsnio redakcija nuo 2010 m.
-
-spalio 1 d.:
-
-8
-
-straipsnis. Kitų valstybės institucijų ir įstaigų kompetencija
 
 1. Užimtumo rėmimo politiką įgyvendina Lietuvos darbo
 
@@ -493,147 +345,9 @@ rėmimo sistemos tikslo, įgyvendinant uždavinius ir užimtumo rėmimo priemone
 
 Straipsnio pakeitimai:
 
-Nr. XI-879,
+Nr. XI-879, 2010-06-04,
 
-2010-06-04, Žin., 2010, Nr. 71-3552 (2010-06-19)
-
-8 straipsnis. Kitų valstybės institucijų ir įstaigų
-
-bei viešųjų įstaigų kompetencija
-
-1. Užimtumo rėmimo politiką įgyvendinančios įstaigos:
-
-1) Lietuvos darbo birža prie Socialinės apsaugos ir
-
-darbo ministerijos (toliau – Lietuvos darbo birža) ir jos teritorinės darbo
-
-biržos;
-
-2) Lietuvos darbo rinkos mokymo tarnyba prie
-
-Socialinės apsaugos ir darbo ministerijos (toliau – Lietuvos darbo rinkos
-
-mokymo tarnyba) ir jos teritorinės darbo rinkos mokymo ir konsultavimo
-
-tarnybos.
-
-2. Užimtumo rėmimo politiką įgyvendinančios įstaigos yra
-
-juridiniai asmenys, turintys sąskaitų banke, antspaudus ir savo simboliką.
-
-3. Lietuvos darbo birža:
-
-1) organizuoja teritorinių darbo biržų veiklą ir
-
-kontroliuoja, kaip jos įgyvendina užimtumo rėmimo priemones ir teikia darbo
-
-rinkos paslaugas;
-
-2) vykdo šalies darbo rinkos stebėseną;
-
-3) kartu su Lietuvos darbo rinkos mokymo tarnyba, savivaldybių
-
-institucijomis, socialiniais partneriais vertina padėtį darbo rinkoje, svarsto
-
-priemones užimtumo problemoms spręsti;
-
-4) teikia
-
-valstybės pagalbą socialinėms įmonėms Lietuvos Respublikos socialinių įmonių
-
-įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka;
-
-5) organizuoja, kad būtų įgyvendintos užimtumo ir
-
-socialinės garantijos valstybės įmonės Ignalinos atominės elektrinės
-
-atleidžiamiems darbuotojams Lietuvos Respublikos valstybės įmonės Ignalinos
-
-atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų
-
-įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka;
-
-6) organizuoja ir koordinuoja profesinės
-
-reabilitacijos paslaugų teikimą Lietuvos Respublikos neįgaliųjų socialinės integracijos
-
-įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka;
-
-7) suderinusi su Socialinės apsaugos ir darbo
-
-ministerija, steigia, likviduoja ar reorganizuoja teritorines darbo biržas,
-
-koordinuoja, kontroliuoja ir metodiškai vadovauja jų veiklai;
-
-8) atlieka kitas
-
-teisės aktų jai nustatytas funkcijas.
-
-4. Teritorinė darbo birža:
-
-1) įgyvendina
-
-užimtumo rėmimo priemones ir teikia 18 straipsnio 2 dalyje, 19 straipsnio 2
-
-dalies 1 punkte, 20 ir 21 straipsniuose nustatytas darbo rinkos paslaugas;
-
-2) vykdo jai priskirtos teritorijos darbo rinkos
-
-stebėseną;
-
-3) registruoja jai priskirtose teritorijose veikiančių
-
-įmonių grupės darbuotojų atleidimus, rengia ir įgyvendina nedarbo prevencijos
-
-programas, nurodytas šio įstatymo 34 straipsnio 1 dalies 1 punkte;
-
-4) atlieka kitas teisės aktų jai nustatytas funkcijas.
-
-5. Lietuvos darbo rinkos mokymo tarnyba:
-
-1) organizuoja
-
-teritorinių darbo rinkos mokymo ir konsultavimo tarnybų veiklą ir kontroliuoja,
-
-kaip jos teikia darbo rinkos paslaugas;
-
-2) dalyvauja įgyvendinant žmogiškųjų išteklių plėtros
-
-politikos tęstinio mokymo ir profesinio orientavimo priemones;
-
-3) atlieka bedarbių ir įspėtų apie atleidimą iš darbo
-
-asmenų neformaliojo profesinio mokymo stebėseną;
-
-4) dalyvauja rengiant profesinės reabilitacijos
-
-programas;
-
-5) suderinusi su Socialinės apsaugos ir darbo
-
-ministerija, steigia, likviduoja ar reorganizuoja teritorinės darbo rinkos
-
-mokymo ir konsultavimo tarnybas;
-
-6) atlieka kitas teisės aktų jai nustatytas
-
-funkcijas.
-
-6. Teritorinė darbo rinkos mokymo ir konsultavimo tarnyba
-
-teikia šio įstatymo 18 straipsnio 2 dalies 2 punkte ir 19 straipsnio 2 dalies 2
-
-ir 3 punktuose nustatytas darbo rinkos paslaugas ir atlieka kitas teisės aktų
-
-jai nustatytas funkcijas.
-
-7. Kitos
-
-valstybės institucijos dalyvauja, siekiant šio įstatymo nustatyto užimtumo
-
-rėmimo sistemos tikslo, įgyvendinant uždavinius ir užimtumo rėmimo priemones, vadovaudamosi
-
-šiuo įstatymu ir kitais teisės aktais.
+Žin., 2010, Nr. 71-3552 (2010-06-19)
 
 9 straipsnis. Savivaldybių institucijų
 
@@ -673,11 +387,11 @@ priemonių įgyvendinimo ir darbo rinkos paslaugų teikimo, veiklos efektyvumo
 
 didinimo.
 
-3. Trišalės tarybos
+3. Trišalės
 
-(komitetai, komisijos) gali būti nuolatinės arba sudaromos atskiriems užimtumo
+tarybos (komitetai, komisijos) gali būti nuolatinės arba sudaromos atskiriems
 
-rėmimo politikos įgyvendinimo klausimams spręsti.
+užimtumo rėmimo politikos įgyvendinimo klausimams spręsti.
 
 4.
 
@@ -839,11 +553,19 @@ rinkos paslaugų teikimo efektyvumo rezultatus;
 
 prognozę;
 
-5) Statistikos departamento prie Lietuvos Respublikos
+5) Lietuvos statistikos departamento renkamus darbo
 
-Vyriausybės renkamus darbo rinkos statistinius duomenis;
+rinkos statistinius duomenis;
 
 6) mokslinių tyrimų rezultatus.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-1123,
+
+2010-11-12, Žin., 2010, Nr. 139-7107 (2010-11-27)
 
 16
 
@@ -869,9 +591,9 @@ vertinimo rezultatai skelbiami viešai.
 
 straipsnis. Darbo rinkos stebėsenos rezultatų naudojimas
 
-Darbo rinkos
+Darbo rinkos stebėsenos
 
-stebėsenos rezultatai naudojami:
+rezultatai naudojami:
 
 1) užimtumo
 
@@ -1229,31 +951,31 @@ darbai.
 
 šio straipsnio 1 dalies 1–3
 
-punktuose nurodytas priemones, darbdaviams, įdarbinusiems teritorinės darbo biržos
+punktuose nurodytas priemones, darbdaviams, įdarbinusiems teritorinės darbo
 
-siųstus asmenis, mokama subsidija darbo užmokesčiui, nurodytam įdarbinto asmens
+biržos siųstus asmenis, mokama subsidija darbo užmokesčiui, nurodytam įdarbinto
 
-darbo sutartyje, ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo
+asmens darbo sutartyje, ir nuo šio darbo užmokesčio apskaičiuotų draudėjo
 
-valstybinio socialinio draudimo įmokoms iš dalies kompensuoti (toliau –
+privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti
 
-subsidija darbo užmokesčiui). Jeigu įdarbinto asmens darbo sutartis sudaryta ne
+(toliau – subsidija darbo užmokesčiui). Jeigu įdarbinto asmens darbo sutartis
 
-visam darbo laikui arba jis dirbo ne visą mėnesio darbo laiką, subsidijos darbo
+sudaryta ne visam darbo laikui arba jis dirbo ne visą mėnesio darbo laiką,
 
-užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą ar
+subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką
 
-darbo sutartyje nustatytą valandinį atlygį. Subsidijos darbo užmokesčiui dydis
+pagal apskaičiuotą ar darbo sutartyje nustatytą valandinį atlygį. Subsidijos
 
-negali viršyti dviejų Vyriausybės patvirtintų minimaliosios mėnesinės algos
+darbo užmokesčiui dydis negali viršyti dviejų Vyriausybės patvirtintų
 
-dydžių. Subsidijos darbo užmokesčiui dydis, kai įdarbinami šio įstatymo 4
+minimaliosios mėnesinės algos dydžių. Subsidijos darbo užmokesčiui dydis, kai
 
-straipsnio 1 dalyje nurodyti asmenys, apskaičiuojamas procentais nuo įdarbinto
+įdarbinami šio įstatymo 4 straipsnio 1 dalyje nurodyti asmenys, apskaičiuojamas
 
-asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo
+procentais nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio
 
-valstybinio socialinio draudimo įmokos lėšų:
+apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokos lėšų:
 
 1) 75 procentai
 
@@ -1861,19 +1583,9 @@ uždavinius, skiria lėšų nustatytiems tikslams pasiekti ir uždaviniams
 
 įgyvendinti, kontroliuoja, kaip naudojamos šios lėšos.
 
-4. Lietuvos
+4. (Neteko
 
-darbo rinkos mokymo tarnyba įgyvendina socialinės apsaugos ir darbo ministro
-
-nustatytus metinius veiklos tikslus ir uždavinius, organizuodama teritorinių
-
-darbo rinkos konsultavimo tarnybų veiklą, kai šios teikia darbo rinkos
-
-paslaugas.
-
-4 dalis netenka galios nuo 2010 m.
-
-spalio 1 d.
+galios nuo 2010 m. spalio 1 d.)
 
 5. Teritorinės
 
@@ -2529,9 +2241,9 @@ veiklos planavimas
 
 Bedarbiams,
 
-įsiregistravusiems teritorinėse darbo biržose, sudaromi individualūs užimtumo
+įsiregistravusiems teritorinėse darbo biržose, sudaromi individualūs užimtumo veiklos
 
-veiklos planai. Šiuose planuose nurodomi bedarbio ir teritorinės darbo biržos
+planai. Šiuose planuose nurodomi bedarbio ir teritorinės darbo biržos
 
 įsipareigojimai dėl aktyvios darbo rinkos politikos priemonių ir darbo rinkos
 
@@ -3335,9 +3047,9 @@ lėšos.
 
 1) šio įstatymo
 
-nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms teikti
+nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms
 
-ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti;
+teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti;
 
 2) Lietuvos
 
@@ -3551,9 +3263,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1116, 2007-05-10,
+X-1116,
 
-Žin., 2007, Nr. 59-2278 (2007-05-29)
+2007-05-10, Žin., 2007, Nr. 59-2278 (2007-05-29)
 
 UŽIMTUMO
 
@@ -3637,11 +3349,23 @@ ir 9 straipsniai įsigalioja 2010 m. spalio 1 d.
 
 skelbtas: Žin., 2010, Nr. 72 (2010-06-22)
 
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1123,
+
+2010-11-12, Žin., 2010, Nr. 139-7107 (2010-11-27)
+
+UŽIMTUMO RĖMIMO ĮSTATYMO 15 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2010-06-21)
+(2010-11-30)
 
 autrap@lrs.lt
 
