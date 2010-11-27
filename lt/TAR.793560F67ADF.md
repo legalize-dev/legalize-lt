@@ -4,7 +4,7 @@ identifier: "TAR.793560F67ADF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-03-21"
-last_updated: "2010-01-01"
+last_updated: "2010-11-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.793560F67ADF"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2010-11-26
+Suvestinė redakcija nuo 2010-11-27 iki 2011-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.11-274, i. k. 0911010ISTA00I-1163
 
@@ -78,7 +78,11 @@ Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA
 
 2. Už nedeklaruotą ar deklaruotą mažesnį negu išgautas gamtos išteklių kiekį ir (ar) be leidimo išgautą gamtos išteklių kiekį taikomas didesnis mokesčio tarifas. Jis apskaičiuojamas šio įstatymo 1, 2 ir 3 prieduose nustatytus tarifus dauginant iš koeficiento 10.
 
-3. Šio įstatymo 1, 2 ir 3 prieduose nustatyti tarifai mokesčio mokėtojo indeksuojami pagal Statistikos departamento prie Lietuvos Respublikos Vyriausybės skelbiamą mokestinių metų vartotojų kainų indeksą. Indeksas nustatomas palyginus mokestinių metų gruodžio mėnesio kainas su 2005 metų gruodžio mėnesio kainomis. Indeksavimo koeficientas, kurį taikant indeksuojami mokesčio už valstybinius gamtos išteklius tarifai, nustatomas vartotojų kainų indeksą dalijant iš šimto.
+3. Šio įstatymo 1, 2 ir 3 prieduose nustatyti tarifai mokesčio mokėtojo indeksuojami pagal Lietuvos statistikos departamento skelbiamą mokestinių metų vartotojų kainų indeksą. Indeksas nustatomas palyginus mokestinių metų gruodžio mėnesio kainas su 2005 metų gruodžio mėnesio kainomis. Indeksavimo koeficientas, kurį taikant indeksuojami mokesčio už valstybinius gamtos išteklius tarifai, nustatomas vartotojų kainų indeksą dalijant iš šimto.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1120, 2010-11-12, Žin., 2010, Nr. 139-7104 (2010-11-27), i. k. 1101010ISTA0XI-1120
 
 4. Indeksuoti mokesčio tarifai įsigalioja nuo kalendorinių metų, einančių po mokestinio laikotarpio, sausio 1 dienos.
 
@@ -487,4 +491,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
 
 Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo 4, 6, 7 straipsnių ir 1, 2 priedų pakeitimo bei 4 priedo pripažinimo netekusiu galios įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1120, 2010-11-12, Žin., 2010, Nr. 139-7104 (2010-11-27), i. k. 1101010ISTA0XI-1120
+
+Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo 6 straipsnio pakeitimo įstatymas
 
