@@ -4,7 +4,7 @@ identifier: "TAR.74602705CADB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-25"
-last_updated: "2010-11-23"
+last_updated: "2010-11-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.74602705CADB"
 department: "Lietuvos Respublikos Seimas"
@@ -70,6 +70,20 @@ Bendrijos valstybių įmonių nusipirktą savo vartojimo reikmėms ar pardavimui
 
 vartoti šalies viduje naftą ir naftos produktus.
 
+1 dalies redakcija
+
+nuo 2011 m. sausio 1 d.:
+
+1. Atgabenanti
+
+įmonė – Lietuvos Respublikoje registruota įmonė ar užsienio įmonės filialas,
+
+kurie atsigabena iš Europos Sąjungos valstybių įmonių nusipirktą savo vartojimo
+
+reikmėms ar pardavimui naftą ir (ar) pirmos, antros arba trečios kategorijos
+
+naftos produktus, skirtus vartoti šalies viduje.
+
 2. Atgabenimas, išgabenimas – naftos
 
 ir naftos produktų atgabenimas, išgabenimas iš kitų Europos Bendrijos muitų
@@ -84,15 +98,15 @@ atsargų kiekio, jų sukaupimo terminų, laikymo sąlygų nustatymas.
 
 kaupimas – atsargų pirkimas ir laikymas jų saugojimo vietose.
 
-5. Atsargų
+5. Atsargų tvarkymas
 
-tvarkymas – atsargų atnaujinimas, keitimas, nurašymas, apskaita, atkūrimas.
+– atsargų atnaujinimas, keitimas, nurašymas, apskaita, atkūrimas.
 
-6. Atsargų naudojimas
+6. Atsargų
 
-– atsargų panaudojimas energijai gaminti ar jų pardavimas laikantis šio ir kitų
+naudojimas – atsargų panaudojimas energijai gaminti ar jų pardavimas
 
-įstatymų nustatytos tvarkos ir apribojimų.
+laikantis šio ir kitų įstatymų nustatytos tvarkos ir apribojimų.
 
 7. Ekstremali energetikos padėtis
 
@@ -106,11 +120,43 @@ veiklos metodais, taip pat laikotarpis, kai įstatymų nustatyta tvarka įvesta
 
 nepaprastoji ar karo padėtis.
 
+Straipsnis
+
+papildomas 8 ir 9 dalimis nuo 2011 m. sausio 1 d.:
+
+8. Gaminanti
+
+įmonė – Lietuvos Respublikoje registruota įmonė ar užsienio įmonės
+
+filialas, kurie perdirbdami jiems nuosavybės teise priklausančias žaliavas ar
+
+kitokiu būdu pagamina ir parduoda Lietuvos Respublikoje pirmos, antros arba
+
+trečios kategorijos naftos produktus. Šioms įmonėms taip pat priskiriamos
+
+įmonės, kurios naudojasi naftos produktų gamybos paslauga ir parduoda Lietuvos
+
+Respublikoje pirmos, antros arba trečios kategorijos naftos produktus.
+
+9. Importuojanti
+
+įmonė – Lietuvos Respublikoje registruota įmonė ar užsienio įmonės
+
+filialas, kurie importuoja iš Europos Sąjungos muitų teritorijai nepriskirtų
+
+šalių arba teritorijų ir išleidžia į laisvą apyvartą naftą ir (ar) pirmos,
+
+antros arba trečios kategorijos naftos produktus.
+
 Straipsnio pakeitimai:
 
 Nr. IX-2145,
 
 2004-04-20, Žin., 2004, Nr. 63-2247 (2004-04-28)
+
+Nr. XI-1132, 2010-11-16, Žin., 2010, Nr.
+
+139-7113 (2010-11-27)
 
 ANTRASIS
 
@@ -124,13 +170,13 @@ SUDARYMAS, KAUPIMAS, TVARKYMAS
 
 straipsnis. Atsargas kaupiantys subjektai
 
-1. Atsargas, nurodytas
+1. Atsargas,
 
-šio Įstatymo 7 straipsnyje, privalo kaupti naftos produktus gaminančios įmonės,
+nurodytas šio Įstatymo 7 straipsnyje, privalo kaupti naftos produktus gaminančios
 
-naftos produktus importuojančios ir į šalį atgabenančios įmonės bei Vyriausybės
+įmonės, naftos produktus importuojančios ir į šalį atgabenančios įmonės bei
 
-ar jos įgaliotos institucijos paskirtos valstybės įmonės.
+Vyriausybės ar jos įgaliotos institucijos paskirtos valstybės įmonės.
 
 2. Kaupti ir
 
@@ -180,9 +226,9 @@ lėšomis sukauptos atsargos yra tų įmonių nuosavybė. Valstybės lėšomis s
 
 atsargos yra valstybės nuosavybė. Valstybės nuosavybe esančias atsargas turto
 
-patikėjimo teisės pagrindu kaupia ir tvarko Vyriausybės ar jos įgaliotos institucijos
+patikėjimo teisės pagrindu kaupia ir tvarko Vyriausybės ar jos įgaliotos
 
-paskirtos valstybės įmonės.
+institucijos paskirtos valstybės įmonės.
 
 5. Įmonės,
 
@@ -212,9 +258,9 @@ Nr. IX-2145,
 
 Nr.
 
-XI-115,
+XI-115, 2008-12-23,
 
-2008-12-23, Žin., 2008, Nr. 149-6035 (2008-12-30)
+Žin., 2008, Nr. 149-6035 (2008-12-30)
 
 5
 
@@ -260,9 +306,9 @@ atsargų kiekius bei metines kaupimo užduotis įmonėms nustato Vyriausybė ar 
 
 straipsnis. Atsargų kategorijos
 
-1. Turi būti
+1. Turi būti kaupiamos
 
-kaupiamos šių naftos produktų atsargos:
+šių naftos produktų atsargos:
 
 1) variklių
 
@@ -293,6 +339,38 @@ išeigos rodiklius. Šis pakeitimas gali būti taikomas ne daugiau kaip 40
 procentų pirmos ir antros kategorijų produktų ir ne daugiau kaip 50 procentų
 
 trečios kategorijos produktų.
+
+2 dalies redakcija
+
+nuo 2011 m. sausio 1 d.:
+
+2. Šio
+
+straipsnio 1 dalyje nurodytos atsargos taip pat gali būti kaupiamos žalios
+
+naftos, tarpinių naftos produktų ar mišinių komponentų pavidalo. Žalia
+
+nafta ar tarpiniai naftos produktai turi būti perskaičiuojami į naftos
+
+produktus pagal praėjusių kalendorinių metų naftos perdirbimo įmonių naftos
+
+perdirbimo faktinės išeigos rodiklius. Šis pakeitimas gali būti taikomas ne
+
+daugiau kaip 40 procentų pirmos ir antros kategorijų naftos produktų ir
+
+ne daugiau kaip 50 procentų trečios kategorijos naftos produktų. Mišinių
+
+komponentai, jeigu jie skirti perdirbti į šio straipsnio 1 dalyje nurodytus
+
+galutinius naftos produktus, gali pakeisti naftos produktus, kuriems jie yra
+
+skirti.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1132, 2010-11-16, Žin., 2010, Nr.
+
+139-7113 (2010-11-27)
 
 8
 
@@ -704,13 +782,13 @@ naudojamos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
 1. Vyriausybės
 
-įgaliota institucija yra atsakinga už naftos, naftos produktų importo,
+įgaliota institucija yra atsakinga už naftos, naftos produktų importo, atgabenimo,
 
-atgabenimo, eksporto, prekybos, suvartojimo būklės analizę bei įvertinimą, tam
+eksporto, prekybos, suvartojimo būklės analizę bei įvertinimą, tam reikalingos
 
-reikalingos nuolat veikiančios informacinės sistemos sudarymą, taip pat šio
+nuolat veikiančios informacinės sistemos sudarymą, taip pat šio Įstatymo
 
-Įstatymo numatytų priemonių įgyvendinimo koordinavimą.
+numatytų priemonių įgyvendinimo koordinavimą.
 
 2. Ekstremalią
 
@@ -800,13 +878,13 @@ nustatyta tvarka.
 
 tvarkymą kontroliuoja Valstybinė energetikos inspekcija prie Energetikos
 
-ministerijos (toliau – Valstybinė energetikos inspekcija). Atsargos yra
+ministerijos (toliau – Valstybinė energetikos inspekcija). Atsargos yra kontroliuojamos
 
-kontroliuojamos bet kuriuo metu, neatsižvelgiant į nuosavybę, laikymo vietą ar
+bet kuriuo metu, neatsižvelgiant į nuosavybę, laikymo vietą ar sąlygas.
 
-sąlygas. Valstybinės energetikos inspekcijos pareigūnai pagal savo kompetenciją
+Valstybinės energetikos inspekcijos pareigūnai pagal savo kompetenciją turi
 
-turi teisę įeiti į ūkio subjekto teritoriją, patalpas, tikrinti atsargas, patikrinti
+teisę įeiti į ūkio subjekto teritoriją, patalpas, tikrinti atsargas, patikrinti
 
 reikiamus dokumentus ir gauti jų kopijas. Patikrinimas įforminamas aktu. Akto
 
@@ -860,6 +938,10 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 ADAMKUS
 
+Priedo redakcija iki
+
+2011 m. sausio 1 d.:
+
 Lietuvos
 
 Respublikos
@@ -888,6 +970,36 @@ pakeitimais, padarytais 1998 m. gruodžio 14 d. Europos Tarybos direktyva
 
 98/93/EB).
 
+Priedo redakcija nuo
+
+2011 m. sausio 1 d.:
+
+Lietuvos
+
+Respublikos
+
+naftos
+
+produktų ir naftos
+
+valstybės
+
+atsargų įstatymo
+
+priedas
+
+ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS
+
+AKTAS
+
+2006 m. liepos
+
+24 d.
+
+Tarybos direktyva Nr. 2006/67/EB, įpareigojanti valstybes nares išlaikyti privalomąsias
+
+žalios naftos ir (arba) naftos produktų atsargas (OL 2006 L 217, p. 8).
+
 Įstatymas
 
 papildytas priedu:
@@ -895,6 +1007,14 @@ papildytas priedu:
 Nr. IX-2145,
 
 2004-04-20, Žin., 2004, Nr. 63-2247 (2004-04-28)
+
+Priedo
+
+pakeitimai:
+
+Nr. XI-1132, 2010-11-16, Žin., 2010, Nr.
+
+139-7113 (2010-11-27)
 
 _______________
 
@@ -912,9 +1032,9 @@ Nr. IX-1334,
 
 GAMTINIŲ
 
-DUJŲ ĮSTATYMO 20 STRAIPSNIO IR NAFTOS PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ
+DUJŲ ĮSTATYMO 20 STRAIPSNIO IR NAFTOS PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO
 
-ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 2.
 
@@ -940,9 +1060,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. XI-115, 2008-12-23,
+Nr. XI-115,
 
-Žin., 2008, Nr. 149-6035 (2008-12-30)
+2008-12-23, Žin., 2008, Nr. 149-6035 (2008-12-30)
 
 NAFTOS
 
@@ -984,11 +1104,25 @@ NAFTOS PRODUKTŲ
 
 IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1132, 2010-11-16, Žin., 2010, Nr.
+
+139-7113 (2010-11-27)
+
+NAFTOS PRODUKTŲ
+
+IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 2, 7 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR
+
+ĮSTATYMO PRIEDO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2010-11-23)
+(2010-12-01)
 
 autrap@lrs.lt
 
