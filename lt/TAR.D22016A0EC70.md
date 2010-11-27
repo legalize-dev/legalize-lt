@@ -4,7 +4,7 @@ identifier: "TAR.D22016A0EC70"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-27"
-last_updated: "2009-01-01"
+last_updated: "2010-11-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2010-11-26
+Suvestinė redakcija nuo 2010-11-27 iki 2011-05-02
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
 
@@ -52,183 +52,335 @@ BENDROSIOS NUOSTATOS
 
 3. Intervencinės žuvininkystės produktų rinkos reguliavimo priemonės – priemonės, kuriomis siekiama reguliuoti pirminio žuvininkystės produktų pardavimo rinką, užtikrinti stabilias kainas ir žuvų išteklių naudotojų pajamas.
 
-4. Jūrų vandenys – Europos Sąjungos valstybių narių vidaus vandenims, tarpiniams vandenims ir ne Europos Sąjungos valstybių narių vidaus vandenims nepriklausantys vandens telkiniai.
+4. Juridinis asmuo – šiame įstatyme ši sąvoka apima juridinį asmenį, kitą organizaciją, taip pat juridinio asmens ar kitos organizacijos filialą.
 
-5. Leidimas naudoti žvejybos plotą – dokumentas, kuriuo suteikiama teisė jame nustatytomis sąlygomis naudoti žuvų išteklius ir organizuoti mėgėjų žvejybą tam tikrame valstybiniame žuvininkystės vandens telkinyje.
+Papildyta straipsnio dalimi:
 
-6. Lietuvos Respublikos žvejybos laivas – bet kuris laivas su verslinės žvejybos įranga arba laivas, naudojamas šiai žvejybai ir įregistruotas Lietuvos Respublikos jūrų laivų registre ar Lietuvos Respublikos vidaus vandenų laivų registre, kurio dokumentuose nurodyta, kad jis yra žvejybos laivas. Lietuvos Respublikos žvejybos laivai, žvejojantys jūrų vandenyse, turi būti įtraukti į žvejojančių jūrų vandenyse laivų duomenų sistemą.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
-7. Pirminis žuvininkystės produktų pardavimas – sužvejotų, apdorotų ar laive perdirbtų žuvininkystės produktų, iškrautų uoste, pardavimas arba jų pardavimas iš žvejybos ir kitų žuvininkystės produktus vežančių laivų.
+5. Jūrų vandenys – valstybių teritorinės jūros, išskirtinės ekonominės zonos ir atviroji jūra.
 
-8. Pirminis žuvininkystės produktų supirkėjas – juridinis ar fizinis asmuo, vykdantis pirminį žuvininkystės produktų supirkimą.
+Straipsnio dalies pakeitimai:
 
-9. Pirminis žuvininkystės produktų supirkimas – sužvejotų, apdorotų ar laive perdirbtų žuvininkystės produktų, iškrautų uoste, supirkimas arba jų supirkimas iš žvejybos ir kitų žuvininkystės produktus vežančių laivų.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
-10. Pramoninis žuvininkystės tvenkinių ūkis – sistema visų kategorijų žuvininkystės tvenkinių (neršto, auginimo, ganyklinių, pirminių, žiemojimo ir karantininių), kuriuose vykdomas visas žuvų auginimo ciklas.
+6. Leidimas naudoti žvejybos plotą – dokumentas, kuriuo suteikiama teisė jame nustatytomis sąlygomis naudoti žuvų išteklius ir organizuoti mėgėjų žvejybą tam tikrame valstybiniame žuvininkystės vandens telkinyje.
 
-11. Priekrantės žvejyba – žvejyba laivais, kai laivo ilgis mažesnis kaip 12 metrų.
+Straipsnio dalies numeracijos pakeitimas:
 
-12. Privalomasis nurodymas – žuvininkystės kontrolės pareigūno įpareigojimas fiziniam ar juridiniam asmeniui per tam tikrą terminą įgyvendinti žuvų išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimus arba imtis priemonių, kad žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų arba žalos žuvų ištekliams būtų išvengta ar ji sumažinta, arba likviduoti dėl žuvų išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimo atsiradusias pasekmes, arba įgyvendinti žuvų išteklių atkūrimo priemones.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+7. Lietuvos Respublikos žvejybos laivas – bet kuris Lietuvos Respublikos jūrų laivų registre arba Lietuvos Respublikos vidaus vandenų laivų registre įregistruotas laivas, kuriame yra verslinės žvejybos įranga arba kuris naudojamas šiai žvejybai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+8. Pirminis žuvininkystės produktų pardavimas – sužvejotų, apdorotų ar laive perdirbtų žuvininkystės produktų, iškrautų uoste, pardavimas arba jų pardavimas iš žvejybos ir kitų žuvininkystės produktus vežančių laivų.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+9. Pirminis žuvininkystės produktų supirkėjas – kaip apibrėžta Reglamento (EB) Nr. 1224/2009 59 straipsnyje ir vykdantis pirminį žuvininkystės produktų supirkimą Lietuvos Respublikos teritorijoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+10. Pirminis žuvininkystės produktų supirkimas – sužvejotų, apdorotų ar laive perdirbtų žuvininkystės produktų, iškrautų uoste, supirkimas arba jų supirkimas iš žvejybos ir kitų žuvininkystės produktus vežančių laivų.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+11. Pramoninis žuvininkystės tvenkinių ūkis – sistema visų kategorijų žuvininkystės tvenkinių (neršto, auginimo, ganyklinių, pirminių, žiemojimo ir karantininių), kuriuose vykdomas visas žuvų auginimo ciklas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+12. Priekrantės žvejyba – žvejyba Žemės ūkio ministerijos nustatytoje priekrantės zonoje ne ilgesniais kaip 12 metrų laivais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+13. Privalomasis nurodymas – žuvininkystės kontrolės pareigūno įpareigojimas fiziniam ar juridiniam asmeniui per tam tikrą terminą įgyvendinti žuvų išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimus arba imtis priemonių, kad žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų arba žalos žuvų ištekliams būtų išvengta ar ji sumažinta, arba likviduoti dėl žuvų išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimo atsiradusias pasekmes, arba įgyvendinti žuvų išteklių atkūrimo priemones.
 
 Papildyta straipsnio dalimi:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-13. Specialioji žvejyba – žvejyba mokslinių ar veterinarinių tyrimų, stebėsenos, žuvivaisos, biologinės melioracijos, mokymo tikslais.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+14. Specialioji žvejyba – žvejyba mokslinių ar veterinarinių tyrimų, stebėsenos, žuvivaisos, biologinės melioracijos, mokymo tikslais.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-14. Tarpšakinė žuvininkystės produktų organizacija – Žemės ūkio ministerijos ar jos įgaliotos institucijos pripažinta asociacija, vienijanti fizinius ir juridinius asmenis, užsiimančius žuvininkystės produktų gamyba, prekyba ir (arba) perdirbimu, įsteigta žuvininkystės produktų rinkai plėtoti ir pardavimo sąlygoms gerinti.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+15. Tarpšakinė žuvininkystės organizacija – Žemės ūkio ministerijos ar jos įgaliotos institucijos pripažinta asociacija, vienijanti fizinius ir juridinius asmenis, užsiimančius žuvininkystės produktų gamyba, prekyba ir (arba) perdirbimu, įsteigta žuvininkystės produktų rinkai plėtoti ir pardavimo sąlygoms gerinti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-15. Tvenkinių žuvininkystė – žuvų veisimas, auginimas, šėrimas, gaudymas, sandėliavimas ir pardavimas.
+16. Tvenkinių žuvininkystė – žuvų veisimas, auginimas, šėrimas ir gaudymas žuvininkystės tvenkiniuose, įskaitant sandėliavimą ir pardavimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-16. Vandens telkinio valdytojas – privataus žuvininkystės vandens telkinio savininkas, taip pat valstybės ar savivaldybės nuosavybės teisę įgyvendinantis subjektas, kuriam teisės aktų nustatyta tvarka žuvininkystės vandens telkinys perduotas patikėjimo teise.
+17. Vandens telkinio valdytojas – privataus žuvininkystės vandens telkinio savininkas, taip pat valstybės ar savivaldybės nuosavybės teisę įgyvendinantis subjektas, kuriam teisės aktų nustatyta tvarka žuvininkystės vandens telkinys perduotas patikėjimo teise.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-17. Verslinė žvejyba – žvejyba verslinės žvejybos įrankiais pagal nustatytą tvarką.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+18. Vandens transporto priemonė – laivas ar kitas plaukiamasis įrenginys arba priemonė.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+19. Verslinė žvejyba – žvejyba verslinės žvejybos įrankiais pagal nustatytą tvarką.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-18. Vidaus vandenys – visi Lietuvos Respublikos sausumos teritorijoje esantys paviršiniai vandens telkiniai ir tarpiniai vandenys.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+20. Verslinės žvejybos įrankiai – žvejybos įrankiai, išvardyti Reglamento (EB) Nr. 26/2004 I priedo 3 lentelėje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+21. Vidaus vandenys – visi Lietuvos Respublikos sausumos teritorijoje esantys paviršiniai vandens telkiniai ir tarpiniai vandenys.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-19. Žuvininkystė – veikla, apimanti žuvų išteklių valdymą, išsaugojimą ir atkūrimą, žvejybą, akvakultūrą, žuvų perdirbimą, pirminį žuvininkystės produktų pardavimą ir supirkimą.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+22. Žuvininkystė – veikla, apimanti žuvų išteklių valdymą, išsaugojimą ir atkūrimą, žvejybą, akvakultūrą, žuvų perdirbimą, pirminį žuvininkystės produktų pardavimą ir supirkimą.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-20. Žuvininkystės kontrolė – valstybės įgaliotų institucijų ir pareigūnų veikla, kuria siekiama užtikrinti žuvų išteklių naudojimo teisėtumą ir tvarką ir kuri apima žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų prevenciją, pažeidimų nutraukimą, dėl padarytų pažeidimų kaltų asmenų nustatymą ir jų patraukimą atsakomybėn įstatymų nustatyta tvarka.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+23. Žuvininkystės kontrolė – valstybės įgaliotų institucijų ir pareigūnų veikla, kuria siekiama užtikrinti žuvų išteklių naudojimo teisėtumą ir tvarką ir kuri apima žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų prevenciją, pažeidimų nutraukimą, dėl padarytų pažeidimų kaltų asmenų nustatymą ir jų patraukimą atsakomybėn įstatymų nustatyta tvarka.
 
 Papildyta straipsnio dalimi:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-21. Žuvininkystės produktai – žuvys ir iš jų pagaminti gaminiai.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+24. Žuvininkystės produktai – kaip apibrėžta Reglamento (EB) Nr. 104/2000 1 straipsnyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-22. Žuvininkystės produktų gamyba – veikla, apimanti pirminę gamybą (žuvininkystės produktų gamyba, įskaitant žuvų auginimą, veisimą ir gaudymą) ir pirminį perdirbimą (apdorojimas, kurio metu iš žuvininkystės produkto nekeičiant jo cheminės sudėties taip pat gaunamas žuvininkystės produktas).
+25. Žuvininkystės produktų gamyba – veikla, apimanti pirminę gamybą (žuvininkystės produktų gamyba, įskaitant žuvų auginimą, veisimą ir gaudymą) ir apdorojimą, kurio metu nekeičiama žuvininkystės produkto cheminė sudėtis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-23. Žuvininkystės produktų gamintojų organizacija – Žemės ūkio ministerijos ar jos įgaliotos institucijos pripažinta asociacija, vienijanti fizinius ir juridinius asmenis, užsiimančius versline žvejyba arba akvakultūra ir pirminiu žuvininkystės produktų pardavimu, jei apdorojant ar perdirbant žuvininkystės produktus atitinkamos procedūros atliekamos žvejybos laivuose, ir įsteigta žuvų išteklių tausojančiai žvejybai užtikrinti bei jos narių pagamintų žuvininkystės produktų pardavimo sąlygoms gerinti.
+26. Žuvininkystės produktų gamintojų organizacija – Žemės ūkio ministerijos ar jos įgaliotos institucijos pripažinta Reglamento (EB) Nr. 104/2000 5 straipsnyje nustatytus kriterijus atitinkanti asociacija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-24. Žuvininkystės tvenkinys – hidrotechnikos statinys (pylimai, krantų stiprinimo įrenginiai, vandens padavimo, nuleidimo ir dugno sausinimo kanalai, įleistuvai, išleistuvai, šliuzai, slenksčiai, pralaidos), įrengtas žemės paviršiuje, jo įdauboje, iškasoje arba upės vagoje ir naudojamas žuvims auginti ir veisti.
+27. Žuvininkystės tvenkinys – hidrotechnikos statinys (pylimai, krantų stiprinimo įrenginiai, vandens padavimo, nuleidimo ir dugno sausinimo kanalai, įleistuvai, išleistuvai, šliuzai, slenksčiai, pralaidos), įrengtas žemės paviršiuje, jo įdauboje, iškasoje arba upės vagoje ir naudojamas žuvims auginti ir veisti.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-25. Žuvininkystės vandens telkinys – Lietuvos Respublikos išskirtinė ekonominė zona, teritorinė jūra, visi paviršiniai vidaus vandenų telkiniai, kurie naudojami arba gali būti naudojami žuvininkystei.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+28. Žuvininkystės vandens telkiniai – Lietuvos Respublikos išskirtinė ekonominė zona, teritorinė jūra, visi paviršiniai vidaus vandenų telkiniai, kurie naudojami arba gali būti naudojami žuvininkystei.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-26. Žuvys – visų rūšių žuvys, nėgės, vėžiagyviai, moliuskai ir kiti vandens bestuburiai.
+29. Žuvys – visų rūšių žuvys, nėgės, vėžiagyviai, moliuskai ir kiti vandens bestuburiai.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-27. Žuvivaisa – žuvų veisimas, paauginimas ir jų perkėlimas iš vienų žuvininkystės vandens telkinių į kitus, taip pat reproduktorių gaudymas ir laikymas žuvų išteklių atkūrimo, palaikymo ir gausinimo tikslais.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+30. Žuvivaisa – žuvų veisimas, paauginimas ir jų perkėlimas iš vienų žuvininkystės vandens telkinių į kitus, taip pat reproduktorių gaudymas ir laikymas žuvų išteklių atkūrimo, palaikymo ir gausinimo tikslais.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-28. Žuvų augintojas – fizinis ar juridinis asmuo, auginantis žuvis gėlame ar jūros vandenyje, sudarydamas joms dirbtines mitybos ir gyvenimo sąlygas.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+31. Žuvų augintojas – fizinis ar juridinis asmuo, auginantis žuvis gėlame ar jūros vandenyje, sudarydamas joms dirbtines mitybos ir gyvenimo sąlygas.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-29. Žuvų ištekliai – visos gėlavandenės ir jūrų žuvys, kurias žmogus naudoja arba gali naudoti savo poreikiams, išskyrus dirbtinai auginamas žuvis.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+32. Žuvų ištekliai – visos gėlavandenės ir jūrų žuvys, kurias žmogus naudoja arba gali naudoti savo poreikiams, išskyrus dirbtinai auginamas žuvis.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-30. Žuvų išteklių atkūrimas – teisinės, materialios ir finansinės priemonės, padedančios išlaikyti stabilias, natūraliai atsikuriančias arba atkurti nykstančias žuvų populiacijas.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+33. Žuvų išteklių atkūrimas – teisinės, materialios ir finansinės priemonės, padedančios išlaikyti stabilias, natūraliai atsikuriančias arba atkurti nykstančias žuvų populiacijas.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-31. Žuvų išteklių išsaugojimas ir kontrolė – teisinės, materialios ir finansinės priemonės žuvų ištekliams išsaugoti ir jų naudojimui kontroliuoti.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+34. Žuvų išteklių išsaugojimas ir kontrolė – teisinės, materialios ir finansinės priemonės žuvų ištekliams išsaugoti ir jų naudojimui kontroliuoti.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-32. Žuvų išteklių naudotojas – fizinis ar juridinis asmuo, turintis teisę naudoti žuvų išteklius.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+35. Žuvų išteklių naudotojas – fizinis ar juridinis asmuo, turintis Žemės ūkio ministerijos arba Aplinkos ministerijos, arba privataus žuvininkystės vandens telkinio savininko suteiktą teisę naudoti žuvų išteklius šio įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-33. Žvejyba – žuvų gaudymas, laikymas ar perdirbimas ir sugautų žuvų gabenimas nepažeidžiant teritorinės jūros leistino perplaukimo teisės ir navigacijos laisvės išskirtinėje ekonominėje zonoje.
+36. Žvejyba – kaip apibrėžta Reglamento (EB) Nr. 1224/2009 4 straipsnio 1 dalyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-34. Žvejybos kvota – žuvų išteklių naudotojams skiriama žvejybos limito dalis.
+37. Žvejybos baras – geografinėmis koordinatėmis apibrėžta žvejybos zonos dalis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+38. Žvejybos kvota – žuvų išteklių naudotojams skiriama žvejybos limito dalis.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-35. Žvejybos leidimas – dokumentas, kuriuo suteikiama teisė žvejoti.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+39. Žvejybos laivas – kaip apibrėžta Reglamento (EB) Nr. 2371/2002 3 straipsnio c punkte.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+40. Žvejybos laivyno dalis – panašių techninių charakteristikų žvejybos laivų grupė, priskiriama prie tam tikro žvejybos rajono.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+41. Žvejybos leidimas – dokumentas, kuriuo suteikiama teisė žvejoti.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-36. Žvejybos limitas – žuvininkystės vandens telkiniui nustatytas didžiausias sugaunamų žuvų kiekis arba žvejybos įrankių, arba žvejybos dienų, arba žvejybos vietų skaičius.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+42. Žvejybos limitas – žuvininkystės vandens telkiniui nustatytas arba didžiausias sugaunamų žuvų kiekis, arba žvejybos įrankių, arba žvejybos dienų, arba žvejybos vietų skaičius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-37. Žvejybos ploto naudotojas – fizinis ar juridinis asmuo, turintis Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka išduotą leidimą naudoti žvejybos plotą arba iki 2009 m. sausio 1 d. pagal vandens telkinių nuomos verslinei žūklei sutartį naudojantis valstybinį žuvininkystės vandens telkinį.
+43. Žvejybos ploto naudotojas – fizinis ar juridinis asmuo, turintis Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka išduotą leidimą naudoti žvejybos plotą arba iki 2009 m. sausio 1 d. pagal vandens telkinių nuomos verslinei žūklei sutartį naudojantis valstybinį žuvininkystės vandens telkinį.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
 
-38. Žvejybos stebėtojas – asmuo, įgaliotas stebėti, kaip Lietuvos Respublikos žvejybos laivo kapitonas ir kiti įgulos nariai laikosi žvejybos srities teisės aktų.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+44. Žvejybos stebėtojas – asmuo, Žemės ūkio ministerijos įgaliotos institucijos įgaliotas stebėti, kaip Lietuvos Respublikos žvejybos laivo kapitonas ir kiti įgulos nariai laikosi žvejybos srities teisės aktų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
+
+45. Žvejybos zona – vandens telkinys arba jo dalis, kuriuose taikomos tam tikros žvejybos taisyklės.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 Straipsnio pakeitimai:
 
@@ -238,15 +390,15 @@ ANTRASIS SKIRSNIS
 
 VALSTYBINIS ŽUVININKYSTĖS regLAMENTAvimas
 
-3 straipsnis. Žuvininkystės sektoriaus valstybinis reguliavimas
+3 straipsnis. Žuvininkystės sektoriaus valstybinis reglamentavimas
 
-1. Žuvininkystės sektoriaus valstybinį reguliavimą atlieka:
+1. Žuvininkystės sektoriaus valstybinį reglamentavimą atlieka:
 
-1) Žemės ūkio ministerija – dalyvauja formuojant Lietuvos žuvininkystės politiką ir ją įgyvendina, vykdo žuvininkystės sektoriaus valstybinį valdymą, įgyvendina Europos Sąjungos bendrąją žuvininkystės politiką bei organizuoja ir vykdo žuvų išteklių išsaugojimą ir kontrolę jūrų vandenyse;
+1) Žemės ūkio ministerija – formuoja Lietuvos žuvininkystės politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą, vykdo žuvininkystės sektoriaus valstybinį valdymą, dalyvauja formuojant Europos Sąjungos bendrąją žuvininkystės politiką ir organizuoja, koordinuoja ir kontroliuoja žuvų išteklių išsaugojimą ir kontrolę jūrų vandenyse;
 
-2) Aplinkos ministerija – dalyvauja formuojant žuvų išteklių išsaugojimo ir kontrolės politiką, ją įgyvendina, vykdo žuvininkystės sektoriaus valstybinį valdymą vidaus vandenyse;
+2) Aplinkos ministerija – formuoja žuvų išteklių išsaugojimo ir kontrolės politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą, vykdo žuvininkystės sektoriaus valstybinį valdymą vidaus vandenyse;
 
-3) Žemės ūkio ministerija ir Aplinkos ministerija – pagal kompetenciją organizuoja žuvų išteklių atkūrimą ir žuvininkystės tyrimus žuvininkystės vandens telkiniuose.
+3) Žemės ūkio ministerija ir Aplinkos ministerija – pagal kompetenciją organizuoja, koordinuoja ir kontroliuoja žuvų išteklių atkūrimą ir žuvininkystės tyrimus žuvininkystės vandens telkiniuose.
 
 2. Žemės ūkio ministrui ir aplinkos ministrui patarti ir siūlymams bei rekomendacijoms žuvininkystės politikos formavimo ir įgyvendinimo klausimais teikti steigiama Žuvininkystės taryba. Žuvininkystės tarybos nuostatus ir jos sudėtį tvirtina žemės ūkio ministras ir aplinkos ministras.
 
@@ -254,13 +406,19 @@ Straipsnio pakeitimai:
 
 Nr. X-1436, 2008-01-29, Žin., 2008, Nr. 18-629 (2008-02-12), i. k. 1081010ISTA00X-1436
 
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
 4 straipsnis. Žvejojančių jūrų vandenyse laivų duomenų sistema
 
-Lietuvos Respublikos žvejybos laivai turi būti įtraukti į žvejojančių jūrų vandenyse laivų duomenų sistemą. Įtraukimo į žvejojančių jūrų vandenyse laivų duomenų sistemą tvarką nustato Žemės ūkio ministerija ar jos įgaliota institucija.
+1. Lietuvos Respublikos žvejybos laivai, žvejojantys jūrų vandenyse, turi būti įtraukti į žvejojančių jūrų vandenyse laivų duomenų sistemą, kuri yra Bendrijos žvejybos laivyno registro dalis. Įtraukimo į žvejojančių jūrų vandenyse laivų duomenų sistemą tvarką nustato Žemės ūkio ministerija ar jos įgaliota institucija.
+
+2. Lietuvos Respublikos žvejybos laivai gali būti priskiriami žvejybos laivyno daliai. Lietuvos Respublikos žvejybos laivų priskyrimo žvejybos laivyno dalims tvarką nustato Žemės ūkio ministerija ar jos įgaliota institucija.
 
 Straipsnio pakeitimai:
 
 Nr. X-1436, 2008-01-29, Žin., 2008, Nr. 18-629 (2008-02-12), i. k. 1081010ISTA00X-1436
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 5 straipsnis. Žuvininkystės duomenų sistema
 
@@ -350,7 +508,7 @@ Nr. X-1436, 2008-01-29, Žin., 2008, Nr. 18-629 (2008-02-12), i. k. 1081010ISTA0
 
 3. Žvejybos reglamentavimo priemonės gali būti šios:
 
-1) tam tikrų rūšių žuvų sugavimo limitų nustatymas;
+1) bendro žuvų sugavimo ar tam tikrų rūšių žuvų sugavimo limitų nustatymas;
 
 2) leidžiamų žvejybos įrankių, jų kiekio ir žvejybos būdų nustatymas;
 
@@ -360,7 +518,17 @@ Nr. X-1436, 2008-01-29, Žin., 2008, Nr. 18-629 (2008-02-12), i. k. 1081010ISTA0
 
 5) žvejybos draudimas arba ribojimas tam tikru laiku ir (arba) tam tikrose vietose;
 
-6) tam tikrų rūšių žuvų žvejybos uždraudimas.
+6) tam tikrų rūšių žuvų žvejybos uždraudimas;
+
+7) priekrantės ir Kuršių marių žvejybos zonos ribų nustatymas;
+
+8) priekrantės ir Kuršių marių žvejybos barų ribų nustatymas;
+
+9) žvejybos įrankių ženklinimo tvarkos nustatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 4. Žvejybos jūrų vandenyse reglamentavimo priemones nustato Žemės ūkio ministerija ar jos įgaliota institucija. Žvejybos vidaus vandenų žuvininkystės vandens telkiniuose reglamentavimo priemones nustato Aplinkos ministerija.
 
@@ -446,7 +614,11 @@ Nr. X-1436, 2008-01-29, Žin., 2008, Nr. 18-629 (2008-02-12), i. k. 1081010ISTA0
 
 4) įstatymų ir kitų teisės aktų nustatyta tvarka atėmus šią teisę.
 
-2. Jeigu žvejybos galimybių netenkama (taip pat ir terminuotai) dėl kitų asmenų veikos, patirtų nuostolių apskaičiavimo tvarką bei įkainius nustato Vyriausybė arba jos įgaliota institucija.
+2. Jeigu žvejybos galimybių netenkama (taip pat ir terminuotai) dėl kitų asmenų veikos, patirtų nuostolių apskaičiavimo tvarką bei įkainius jūrų vandenyse nustato Žemės ūkio ministerija, vidaus vandenyse – Aplinkos ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 3. Jeigu įstatymų ir kitų teisės aktų nustatyta tvarka žvejybos teisė atimama dėl to, kad žuvų išteklių naudotojai nesilaiko įstatymų ir kitų teisės aktų reikalavimų, tai šių naudotojų patirti nuostoliai atėmus žvejybos teisę neatlyginami.
 
@@ -466,17 +638,23 @@ Nr. X-1436, 2008-01-29, Žin., 2008, Nr. 18-629 (2008-02-12), i. k. 1081010ISTA0
 
 2) laikytis žvejybą ir žuvų išsaugojimą reglamentuojančių tarptautinių sutarčių, Lietuvos Respublikos įstatymų, žvejybos taisyklių, kitų teisės aktų reikalavimų bei žvejybos leidimuose, suteikiančiuose teisę naudoti žuvų išteklius, nustatytų sąlygų;
 
-3) ištirti naudojamus žuvų išteklius (arba skirti lėšų žuvininkystės tyrimams vidaus vandenyse) ir pateikti tyrimų duomenis Aplinkos ministerijai;
+3) skirti lėšų Aplinkos apsaugos rėmimo programai žuvų ištekliams vidaus vandenyse atkurti ir išsaugoti, jeigu vykdo verslinę žvejybą vidaus vandenyse ar mėgėjų žvejybą. Šių lėšų skyrimo tvarką nustato Aplinkos ministerija;
 
 Straipsnio punkto pakeitimai:
 
 Nr. X-1436, 2008-01-29, Žin., 2008, Nr. 18-629 (2008-02-12), i. k. 1081010ISTA00X-1436
 
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
 4) paaiškėjus, kad naudojamiems žuvų ištekliams gresia pavojus, imtis priemonių jo išvengti, o atsiradus žalingiems padariniams nedelsiant juos šalinti ir apie tai informuoti Aplinkos ministeriją bei žuvininkystės vandens telkinių savininkus;
 
 5) atlyginti neteisėtais veiksmais žuvų ištekliams padarytą žalą;
 
-6) vykdyti teisėtus Vyriausybės įgaliotų institucijų bei pareigūnų reikalavimus.
+6) vykdyti teisėtus Aplinkos ministerijos ar jos įgaliotos institucijos ir Žuvininkystės tarnybos prie Lietuvos Respublikos žemės ūkio ministerijos (toliau – Žuvininkystės tarnyba) pareigūnų reikalavimus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 15 straipsnis. Žuvininkystės vandens telkinių ir žuvų išteklių išsaugojimas
 
@@ -536,7 +714,11 @@ KETVIRTASIS SKIRSNIS
 
 1. Vadovaujantis Europos Sąjungos teisės aktais, Lietuvos Respublikos žvejybos laivuose užtikrinama palydovinio ryšio Lietuvos Respublikos žvejybos laivų stebėjimo sistemos veikla.
 
-2. Palydovinio ryšio Lietuvos Respublikos žvejybos laivų stebėjimo sistemą valdo, naudoja ir ja disponuoja Žemės ūkio ministerija ar jos įgaliota institucija, kuri nustato šių teisių įgyvendinimo tvarką.
+2. Palydovinio ryšio Lietuvos Respublikos žvejybos laivų stebėjimo sistemą valdo, naudoja ir ja disponuoja Žemės ūkio ministerija ar jos įgaliota institucija, kuri nustato šių teisių įgyvendinimo tvarką. Siekiant užtikrinti Europos Sąjungos reglamentų reikalavimų taikymą, valstybei priklausantys palydovinio ryšio siųstuvai ir antenos ar kita kompiuterių ar programinė įranga ir su jomis susijusi kita įranga gali būti perduodami panaudos pagrindais laikinai neatlygintinai naudotis žuvų išteklių naudotojams tol, kol jie vykdo panaudos sutartyje nustatytą veiklą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 19 straipsnis. Žvejybos stebėtojai
 
@@ -566,7 +748,11 @@ PREKYBA žuvininkystės produktAIS iR parama žuvininkystei
 
 22 straipsnis. Pirminis žuvininkystės produktų pardavimas ir supirkimas
 
-1. Pirminio žuvininkystės produktų pardavimo, supirkimo ir kontrolės tvarką nustato Vyriausybė.
+1. Pirminio žuvininkystės produktų pardavimo, supirkimo ir kontrolės tvarką nustato Žemės ūkio ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 2. Pirminį žuvininkystės produktų supirkimą vykdo Žemės ūkio ministerijos ar jos įgaliotos institucijos registruoti pirminiai žuvininkystės produktų supirkėjai.
 
@@ -576,9 +762,17 @@ PREKYBA žuvininkystės produktAIS iR parama žuvininkystei
 
 23 straipsnis. Žuvininkystės produktų realizavimo kontrolė
 
-1. Žuvininkystės produktų kilmė, įsigijimo teisėtumas, sauga ir kokybė Vyriausybės įgaliotų institucijų kontroliuojama visais gamybos, apdorojimo, perdirbimo, laikymo, vežimo, supirkimo ir realizavimo etapais.
+1. Visais gamybos, perdirbimo, laikymo, vežimo ir realizavimo etapais žuvininkystės produktų kilmė, sauga ir kokybė kontroliuojama Valstybinės maisto ir veterinarijos tarnybos.
 
-2. Žuvininkystės produktai iš žvejybos laivų iškraunami Žemės ūkio ministerijos nustatytose vietose.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+2. Žuvininkystės produktų iškrovimo iš jūrų vandenyse žvejojančių žvejybos laivų tvarką ir vietas nustato Žemės ūkio ministerija ar jos įgaliota institucija, o iškrovimo iš vidaus vandenyse žvejojančių laivų – Aplinkos ministerija ar jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 3. Visais žuvininkystės produktų realizavimo etapais atsekamumą nuo žuvų sugavimo iki galutinio vartotojo kontroliuoja Valstybinė maisto ir veterinarijos tarnyba.
 
@@ -588,21 +782,33 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-1436, 2008-01-29, Žin., 2008, Nr. 18-629 (2008-02-12), i. k. 1081010ISTA00X-1436
 
-5. Draudžiama prekiauti specialiosios žvejybos metu mokslinių tyrimų tikslais sužvejotomis žuvimis bei iš jų pagamintais žuvininkystės produktais.
+5. Draudžiama vežti, sandėliuoti, perdirbti uždraustos žvejybos metu sužvejotas šviežias žuvis ir prekiauti jomis, išskyrus dirbtinai išaugintas žuvis, kurioms turi būti tai patvirtinantys dokumentai.
 
-6. Draudžiama gabenti, sandėliuoti, perdirbti uždraustos žvejybos metu sužvejotas šviežias žuvis ir prekiauti jomis, išskyrus dirbtinai išaugintas žuvis, kurioms turi būti tai patvirtinantys dokumentai.
+Straipsnio dalies pakeitimai:
 
-7. Draudžiamų sandėliuoti, vežti, perdirbti ar parduoti žuvų ar žuvininkystės produktų panaudojimo tvarką nustato Žemės ūkio ministerija ar jos įgaliota institucija.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
-8. Lietuvos Respublikos žvejybos laivai ir įmonės turi turėti Valstybinės maisto ir veterinarijos tarnybos patvirtinimą, kad jie atitinka teisės aktų nustatytus reikalavimus.
+6. Draudžiamų sandėliuoti, vežti, perdirbti ar parduoti žuvų ar žuvininkystės produktų panaudojimo tvarką nustato Žemės ūkio ministerija kartu su Aplinkos ministerija.
 
-24 straipsnis. Žuvininkystės produktų gamintojų organizacijų ir tarpšakinių žuvininkystės produktų organizacijų pripažinimas ir pripažinimo panaikinimas
+Straipsnio dalies pakeitimai:
 
-Žemės ūkio ministerija ar jos įgaliota institucija nustato žuvininkystės produktų gamintojų organizacijų ir tarpšakinių žuvininkystės produktų organizacijų pripažinimo ir pripažinimo panaikinimo tvarką.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+7. Lietuvos Respublikos žvejybos laivai ir įmonės turi turėti Valstybinės maisto ir veterinarijos tarnybos patvirtinimą, kad jie atitinka teisės aktų nustatytus reikalavimus.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+24 straipsnis. Žuvininkystės produktų gamintojų organizacijų ir tarpšakinių žuvininkystės organizacijų pripažinimas ir pripažinimo panaikinimas
+
+Žemės ūkio ministerija ar jos įgaliota institucija nustato žuvininkystės produktų gamintojų organizacijų ir tarpšakinių žuvininkystės organizacijų pripažinimo ir pripažinimo panaikinimo tvarką.
 
 Straipsnio pakeitimai:
 
 Nr. X-1436, 2008-01-29, Žin., 2008, Nr. 18-629 (2008-02-12), i. k. 1081010ISTA00X-1436
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 25 straipsnis. Intervencinės žuvininkystės produktų rinkos reguliavimo priemonės
 
@@ -620,15 +826,37 @@ Siekdamos palaikyti žuvų išteklių naudotojų pajamų lygį ir stabilią žuv
 
 3) lėšos, gautos Lietuvos Respublikos teisės aktų nustatyta tvarka realizavus konfiskuotus žvejybos jūrų vandenyse įrankius, priemones ir neteisėtai įgytas žuvis;
 
-4) užsienio valstybių, organizacijų ir piliečių, tarptautinių organizacijų lėšos, skirtos žuvų ištekliams jūrų vandenyse atkurti ir išsaugoti;
+4) užsienio valstybių, organizacijų ir piliečių, tarptautinių organizacijų lėšos, skirtos žuvų ištekliams atkurti ir išsaugoti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 5) asmenų, kurių ūkinė veikla daro neigiamą poveikį žvejybai jūrų vandenyse, lėšos, skirtos šiam poveikiui kompensuoti;
 
-6) lėšos, nustatyta tvarka gautos už suteiktą teisę naudoti Žuvininkystės departamento prie Lietuvos Respublikos žemės ūkio ministerijos valdomus žvejybos pajėgumus;
+6) lėšos, nustatyta tvarka gautos už suteiktą teisę naudoti Žuvininkystės tarnybos valdomus žvejybos pajėgumus;
 
-7) savanoriškos asmenų įmokos;
+Straipsnio punkto pakeitimai:
 
-8) kitos teisėtai gautos lėšos.
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+7) lėšos, gautos pardavus mokslinių tyrimų tikslais sužvejotas žuvis ir iš jų pagamintus žuvininkystės produktus;
+
+Papildyta straipsnio punktu:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+8) savanoriškos asmenų įmokos;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+9) kitos teisėtai gautos lėšos.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 3. Specialiosios žuvininkystės rėmimo programos lėšos naudojamos:
 
@@ -652,7 +880,11 @@ Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010IST
 
 27 straipsnis. Įstatymo vykdymo kontrolė
 
-Šio Įstatymo vykdymą pagal kompetenciją kontroliuoja Vyriausybės įgaliotos institucijos.
+Šio Įstatymo vykdymą pagal kompetenciją kontroliuoja Aplinkos ministerija ir Žemės ūkio ministerija.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 28 straipsnis. Atsakomybė už šio Įstatymo pažeidimus
 
@@ -662,7 +894,11 @@ Fiziniai ir juridiniai asmenys, pažeidę šį Įstatymą, atsako pagal Lietuvos
 
 1. Fiziniai ir juridiniai asmenys, padarę žalos žuvų ištekliams, privalo ją atlyginti Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
 
-2. Padarytos žalos žuvų ištekliams apskaičiavimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+2. Padarytos žalos žuvų ištekliams apskaičiavimo tvarką nustato Aplinkos ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -676,19 +912,27 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1993 m. spalio 12 d. Tarybos reglamentas (EEB) Nr. 2847/93, nustatantis bendrosios žuvininkystės politikos kontrolės sistemą (su paskutiniais pakeitimais, padarytais 2003 m. balandžio 14 d. Tarybos reglamentu (EB) Nr. 806/2003).
+1. 1993 m. spalio 12 d. Tarybos reglamentas (EEB) Nr. 2847/93, nustatantis bendrosios žuvininkystės politikos kontrolės sistemą (OL 2004 m. specialusis leidimas, 4 skyrius, 2 tomas, p. 70), su paskutiniais pakeitimais, padarytais 2008 m. rugsėjo 29 d. Tarybos reglamentu (EB) Nr. 1006/2008 (OL 2008 L 286, p. 33).
 
-2. 1999 m. birželio 21 d. Tarybos reglamentas (EB) Nr. 1263/1999 dėl Žuvininkystės orientavimo finansinio instrumento.
+2. 1996 m. lapkričio 26 d. Tarybos reglamentas (EB) Nr. 2406/96, nustatantis bendras pardavimo normas tam tikriems žuvininkystės produktams (OL 2004 m. specialusis leidimas, 4 skyrius, 2 tomas, p. 331), su paskutiniais pakeitimais, padarytais 2005 m. gegužės 25 d. Komisijos reglamentu (EB) Nr. 790/2005 (OL 2005 L 132, p. 15).
 
-3. 1999 m. gruodžio 17 d. Tarybos reglamentas (EB) Nr. 2792/1999, nustatantis išsamias Bendrijos struktūrinės paramos žuvininkystės sektoriuje taisykles ir tvarką (su paskutiniais pakeitimais, padarytais 2002 m. gruodžio 20 d. Tarybos reglamentu (EB) Nr. 2369/2002).
+3. 1999 m. gruodžio 17 d. Tarybos reglamentas (EB) Nr. 104/2000 dėl bendro žuvininkystės ir akvakultūros produktų rinkų organizavimo (OL 2004 m. specialusis leidimas, 4 skyrius, 4 tomas, p. 198) su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 28 d. Tarybos reglamentu (EB) Nr. 1759/2006 (OL 2006 L 335, p. 3).
 
-4. 1999 m. gruodžio 17 d. Tarybos reglamentas (EB) Nr. 104/2000 dėl bendro žuvininkystės ir akvakultūros produktų rinkų organizavimo.
+4. 2000 m. birželio 29 d. Tarybos reglamentas (EB) Nr. 1543/2000, nustatantis duomenų, būtinų Bendrijos bendrosios žuvininkystės politikos vykdymui, rinkimo ir tvarkymo sistemą (OL 2004 m. specialusis leidimas, 4 skyrius, 4 tomas, p. 288), su paskutiniais pakeitimais, padarytais 2007 m. lapkričio 13 d. Tarybos reglamentu (EB) Nr. 1343/2007 (OL 2007 L 300, p. 24).
 
-5. 2000 m. birželio 29 d. Tarybos reglamentas (EB) Nr. 1543/2000, nustatantis duomenų, būtinų Bendrijos bendrosios žuvininkystės politikos vykdymui, rinkimo ir tvarkymo sistemą.
+5. 2002 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 2371/2002 dėl žuvų išteklių apsaugos ir tausojančio naudojimo pagal Bendrąją žuvininkystės politiką (OL 2004 m. specialusis leidimas, 4 skyrius, 5 tomas, p. 460) su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 20 d. Tarybos reglamentu (EB) Nr. 1224/2009 (OL 2009 L 343, p. 1).
 
-6. 2002 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 2371/2002 dėl žuvų išteklių išsaugojimo ir tausojančio naudojimo pagal bendrąją žuvininkystės politiką.
+6. 2003 m. gruodžio 30 d. Komisijos reglamentas (EB) Nr. 26/2004 dėl Bendrijos žvejybos laivyno registro (OL 2004 m. specialusis leidimas, 4 skyrius, 7 tomas, p. 3) su paskutiniais pakeitimais, padarytais 2006 m. gruodžio 6 d. Komisijos reglamentu (EB) Nr. 1799/2006 (OL 2006 L 341, p. 26).
 
-7. 2003 m. gruodžio 30 d. Komisijos reglamentas (EB) Nr. 26/2004 dėl Bendrijos žvejybos laivų registro.
+7. 2008 m. vasario 25 d. Tarybos reglamentas (EB) Nr. 199/2008 dėl Bendrijos sistemos, skirtos duomenų rinkimui, tvarkymui ir naudojimui žuvininkystės sektoriuje bei paramai mokslinėms rekomendacijoms dėl bendros žuvininkystės politikos, sukūrimo (OL 2008 L 60, p. 1).
+
+8. 2008 m. rugsėjo 29 d. Tarybos reglamentas (EB) Nr. 1005/2008, nustatantis Bendrijos sistemą, kuria siekiama užkirsti kelią neteisėtai, nedeklaruojamai ir nereglamentuojamai žvejybai, atgrasyti nuo jos ir ją panaikinti, iš dalies keičiantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1936/2001 ir (EB) Nr. 601/2004 bei panaikinantis reglamentus (EB) Nr. 1093/94 ir (EB) Nr. 1447/1999 (OL 2008 L 286, p. 1), su paskutiniais pakeitimais, padarytais 2010 m. sausio 29 d. Komisijos reglamentu (ES) Nr. 86/2010 (OL 2010 L 26, p. 1).
+
+9. 2009 m. lapkričio 20 d. Tarybos reglamentas (EB) Nr. 1224/2009, nustatantis Bendrijos kontrolės sistemą, kuriai užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, iš dalies keičiantis reglamentus (EB) Nr. 847/96, (EB) Nr. 2371/2002, (EB) Nr. 811/2004, (EB) Nr. 768/2005, (EB) Nr. 2115/2005, (EB) Nr. 2166/2005, (EB) Nr. 388/2006, (EB) Nr. 509/2007, (EB) Nr. 676/2007, (EB) Nr. 1098/2007, (EB) Nr. 1300/2008, (EB) Nr. 1342/2008 ir panaikinantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1627/94 ir (EB) Nr. 1966/2006 (OL 2009 L 343, p. 1).
+
+Priedo pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 Pakeitimai:
 
@@ -732,6 +976,14 @@ Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010IST
 
 Lietuvos Respublikos žuvininkystės įstatymo 2, 26 straipsnių pakeitimo ir įstatymo papildymo nauju šeštuoju skirsniu įstatymas
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+Lietuvos Respublikos žuvininkystės įstatymo 2, 3, 4, 10, 12, 14, 18, 22, 23, 24, 26, 26-1, 26-2, 26-3, 26-5, 26-11, 26-14, 26-15, 26-17, 26-18, 26-19, 27, 29 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 22-1 straipsniu ir Įstatymo priedo pakeitimo įstatymas
+
 30 straipsnis. Ginčai dėl Žuvininkystės įstatymo pažeidimų
 
 Ginčus dėl Žuvininkystės įstatymo pažeidimų įstatymų nustatyta tvarka nagrinėja ir sprendžia Lietuvos Respublikos teismai, jeigu kitaip nenumatyta Lietuvos Respublikos tarptautinėse sutartyse.
@@ -764,11 +1016,15 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 261 straipsnis. Žuvininkystės kontrolės organizavimas
 
-Žuvininkystės kontrolę pagal kompetenciją organizuoja Aplinkos ministerija ir Žuvininkystės departamentas prie Lietuvos Respublikos žemės ūkio ministerijos (toliau – Žuvininkystės departamentas). Aplinkos ministerija, organizuodama žuvininkystės kontrolę, vadovaujasi Aplinkos apsaugos valstybinės kontrolės įstatymu, Žuvininkystės departamentas – šiuo įstatymu.
+Žuvininkystės kontrolę pagal kompetenciją organizuoja, koordinuoja ir kontroliuoja Aplinkos ministerija ar jos įgaliota institucija ir Žemės ūkio ministerija, o vykdo aplinkos apsaugos valstybinės kontrolės institucijos ir Žuvininkystės tarnyba. Vykdydamos šias funkcijas, Aplinkos ministerija ar jos įgaliota institucija ir aplinkos apsaugos valstybinės kontrolės institucijos vadovaujasi Aplinkos apsaugos valstybinės kontrolės įstatymu ir Viešojo administravimo įstatymu, o Žemės ūkio ministerija ir Žuvininkystės tarnyba – šiuo įstatymu ir Viešojo administravimo įstatymu.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 262 straipsnis. Žuvininkystės kontrolės pareigūnų funkcijos
 
-Siekdami užtikrinti teisėtumą ir teisėtvarką žuvininkystės srityje, Žuvininkystės departamento žuvininkystės kontrolės pareigūnai:
+Siekdami užtikrinti teisėtumą ir teisėtvarką žuvininkystės srityje, Žuvininkystės tarnybos žuvininkystės kontrolės pareigūnai:
 
 1) organizuoja ir vykdo prevencinę veiklą, kuria siekiama, kad fiziniai ir juridiniai asmenys laikytųsi įstatymų ir kitų teisės aktų, reglamentuojančių žuvų išteklių naudojimą, reikalavimų;
 
@@ -782,7 +1038,11 @@ Siekdami užtikrinti teisėtumą ir teisėtvarką žuvininkystės srityje, Žuvi
 
 6) kontroliuoja, ar fiziniai ir juridiniai asmenys laikosi žuvininkystės produktų iškrovimo nustatytose vietose, iškrovimo ar perkrovimo iš žvejybos laivų uostuose ar jūrų vandenyse, taip pat pirminio žuvininkystės produktų pardavimo ir supirkimo reikalavimų;
 
-7) kontroliuoja, ar sandėliuojamos, vežamos, perdirbamos, parduodamos ar superkamos ne mažesnės negu nustatyto minimalaus dydžio žuvys, ar neparduodamos, nesuperkamos specialiosios žvejybos metu mokslinių tyrimų tikslais sužvejotos žuvys, ar sandėliuojamos, vežamos, perdirbamos, parduodamos ar superkamos ne žvejybos draudimo metu sužvejotos šviežios žuvys;
+7) kontroliuoja, ar sandėliuojamos, vežamos, perdirbamos, parduodamos arba superkamos ne mažesnės negu nustatyto minimalaus dydžio žuvys, ar sandėliuojamos, vežamos, perdirbamos, parduodamos arba superkamos ne žvejybos draudimo metu sužvejotos šviežios žuvys;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 8) kontroliuoja, ar fiziniai ir juridiniai asmenys laikosi žuvininkystės produktų, draudžiamų sandėliuoti, vežti, perdirbti ar parduoti, naudojimo reikalavimų;
 
@@ -794,39 +1054,49 @@ Siekdami užtikrinti teisėtumą ir teisėtvarką žuvininkystės srityje, Žuvi
 
 12) šio įstatymo nustatytais atvejais ir tvarka duoda privalomuosius nurodymus.
 
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
 263 straipsnis. Žuvininkystės kontrolės pareigūnų statusas, teisės ir pareigos, jų atsakomybė
 
-1. Žuvininkystės kontrolės pareigūno statusą įgyja į valstybės tarnybą Žuvininkystės departamente įstatymų nustatyta tvarka priimtas asmuo, kuriam pareigybės aprašyme priskirtos žuvininkystės kontrolės funkcijos. Žuvininkystės kontrolės pareigūno statusą įrodo tarnybinis pažymėjimas.
+1. Žuvininkystės kontrolės pareigūno statusą įgyja į valstybės tarnybą Žuvininkystės tarnyboje įstatymų nustatyta tvarka priimtas asmuo, kuriam jo pareigybės aprašyme priskirtos žuvininkystės kontrolės funkcijos. Žuvininkystės kontrolės pareigūno statusą įrodo tarnybinis pažymėjimas.
 
-2. Žuvininkystės departamento pareigūnai, atliekantys žuvininkystės kontrolę, turi šias teises ir pareigas:
+2. Žuvininkystės tarnybos pareigūnai, atliekantys žuvininkystės kontrolę, turi šias teises ir pareigas:
 
-1) pateikę tarnybinį pažymėjimą, netrukdomi patekti (įeiti, įvažiuoti) į privačias teritorijas ir jose esančius objektus (statinius, įrenginius, patalpas ir kt.) darbo metu, o ne darbo metu – su tos įmonės, įstaigos, organizacijos, ūkio bei privačios teritorijos ir joje esančių objektų (statinių, įrenginių, patalpų ir kt.) administracijos atstovu, savininku arba šio atstovu ir tikrinti, ar juose laikomasi žuvininkystę reglamentuojančių įstatymų ir kitų teisės aktų reikalavimų, taip pat įstatymų nustatyta tvarka gauti informaciją ir duomenis, kurie yra valstybės ar tarnybos, komercinė ar gamybinė paslaptis, jei tai susiję su žuvų išteklių naudojimu;
+1) pateikę tarnybinį pažymėjimą, netrukdomi patekti (įeiti, įvažiuoti) į privačias teritorijas ir jose esančius objektus (statinius, įrenginius, patalpas ir kt.) darbo metu, o ne darbo metu – su tos įmonės, įstaigos, organizacijos, ūkio bei privačios teritorijos ir joje esančių objektų (statinių, įrenginių, patalpų ir kt.) administracijos atstovu, savininku arba šio atstovu ir tikrinti, ar juose laikomasi žuvininkystę reglamentuojančių įstatymų ir kitų teisės aktų reikalavimų, taip pat įstatymų nustatyta tvarka gauti informaciją ir duomenis, kurie yra valstybės ar tarnybos, komercinė ar gamybinė paslaptis, jeigu tai susiję su žuvų išteklių naudojimu;
 
 2) tikrinti dokumentus, patvirtinančius žuvininkystės produktų įsigijimo teisėtumą, ir žuvininkystės produktus (ar šių produktų kiekis, rūšis, kokybė ir kt. atitinka dokumentuose nurodytus duomenis);
 
 3) laikydamiesi tarptautinės teisės, Europos Sąjungos ir Lietuvos Respublikos teisės aktų reikalavimų, sustabdyti, tikrinti ir sulaikyti Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ir trečiųjų šalių žvejybos laivus, kitas vandens transporto priemones, esančias Lietuvos Respublikos uostuose, teritoriniuose vandenyse ir išskirtinėje ekonominėje zonoje, tikrinti Lietuvos Respublikos žvejybos laivus, esančius Europos Sąjungos, trečiųjų šalių uostuose, jų ekonominėse zonose (šalių sutikimu), regioninių žvejybos organizacijų reguliuojamose akvatorijose, kituose tarptautiniuose vandenyse, taip pat pagal tarptautinės ir Europos Sąjungos teisės aktų reikalavimus – jūrų vandenyse esančius Europos Sąjungos valstybių narių ir trečiųjų šalių žvejybos laivus;
 
-4) kad būtų užkirstas kelias žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimams, už kuriuos numatyta atsakomybė, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka sustabdyti, patekti ir apžiūrėti žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų padarymu įtariamų asmenų transporto priemones;
+4) kad būtų užkirstas kelias žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimams, už kuriuos numatyta atsakomybė, Žemės ūkio ministerijos nustatyta tvarka sustabdyti, patekti į žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų padarymu įtariamų asmenų transporto priemones ir jas apžiūrėti;
 
-5) įstatymų nustatyta tvarka atlikti asmens apžiūrą ir daiktų patikrinimą, paimti daiktus ir dokumentus, taip pat apžiūrėti teisės pažeidimo vietą, o nustačius nusikalstamos veikos požymius, pranešti apie tai kompetentingoms institucijoms;
+5) įstatymų nustatyta tvarka atlikti asmens apžiūrą ir daiktų patikrinimą, paimti daiktus ir dokumentus, taip pat apžiūrėti teisės pažeidimo vietą, o nustatę nusikalstamos veikos požymius, pranešti apie tai kompetentingoms institucijoms;
 
 6) vykdami į teisės pažeidimo vietą ar persekiodami žvejybos laivą ar transporto priemonę, kurią vairuoja arba kurioje yra asmenys, įtariami padarę žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimus, Vyriausybės nustatyta tvarka naudoti mėlynos spalvos švyturėlius;
 
 7) gauti iš fizinių ir juridinių asmenų informaciją, reikalingą užkirsti kelią žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimams, išaiškinti pažeidimus ir nustatyti pažeidėjus, traukti juos atsakomybėn;
 
-8) gavę pranešimą apie žuvų išteklių naudojimą reglamentuojančių teisės aktų pažeidimą, imtis visų priemonių, kad pažeidimas būtų išaiškintas ir nustatyti pažeidėjai, o jei patys to padaryti negali, informuoti kompetentingą valstybės instituciją, kad ši imtųsi priemonių pažeidimui išaiškinti ir pažeidėjui nustatyti;
+8) gavę pranešimą apie žuvų išteklių naudojimą reglamentuojančių teisės aktų pažeidimą, imtis visų priemonių, kad pažeidimas būtų išaiškintas ir nustatyti pažeidėjai, o jeigu patys to padaryti negali, informuoti kompetentingą valstybės instituciją, kad ši imtųsi priemonių pažeidimui išaiškinti ir pažeidėjui nustatyti;
 
 9) surašyti protokolus, aktus ir kitokius nustatytos formos dokumentus;
 
 10) įstatymų nustatyta tvarka nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas;
 
-11) įstatymų nustatytais atvejais administracinėn atsakomybėn traukiamą asmenį pristatyti į policiją arba savivaldybės seniūnijos kaimo vietovėje patalpas asmenybei nustatyti ir protokolui surašyti;
+11) įstatymų nustatytais atvejais administracinėn atsakomybėn traukiamą asmenį pristatyti į policiją arba į savivaldybės seniūnijos kaimo vietovėje patalpas asmenybei nustatyti ir administracinio teisės pažeidimo protokolui surašyti;
 
 12) dėvėti nustatyto pavyzdžio uniformą.
 
 3. Žuvininkystės kontrolės pareigūnai, nepaisant jų tarnybos vietos, turi teisę atlikti žuvininkystės kontrolę visoje Lietuvos Respublikos teritorijoje, jos teritoriniuose vandenyse ir išskirtinėje ekonominėje zonoje, Lietuvos Respublikos žvejybos laivuose, esančiuose Europos Sąjungos, trečiųjų šalių uostuose, jų ekonominėse zonose (šalių sutikimu), regioninių žvejybos organizacijų reguliuojamose akvatorijose, kituose tarptautiniuose vandenyse, taip pat pagal tarptautinės ir Europos Sąjungos teisės aktų reikalavimus – jūrų vandenyse esančiuose Europos Sąjungos valstybių narių ir trečiųjų šalių žvejybos laivuose.
 
-4. Žuvininkystės kontrolės pareigūnai, nesiimantys veiksmų, užtikrinančių žuvų išteklių naudojimą reglamentuojančiuose įstatymuose ar kituose teisės aktuose nustatytų reikalavimų laikymąsi, ar viršijantys jiems suteiktus įgaliojimus, traukiami atsakomybėn įstatymų nustatyta tvarka.
+4. Žuvininkystės kontrolės pareigūnai, nesiimantys veiksmų, užtikrinančių žuvų išteklių naudojimą reglamentuojančiuose įstatymuose ar kituose teisės aktuose nustatytų reikalavimų laikymąsi, arba viršijantys jiems suteiktus įgaliojimus, traukiami atsakomybėn įstatymų nustatyta tvarka.
+
+5. Žuvininkystės tarnybos žuvininkystės kontrolės pareigūnų atliekamų žuvininkystės kontrolės vykdymo patikrinimų tvarką nustato Žemės ūkio ministerija ar jos įgaliota institucija.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 264 straipsnis. Fizinių asmenų veiklos tikrinimo tvarka
 
@@ -852,7 +1122,11 @@ Tikrindamas juridinių asmenų veiklą, žuvininkystės kontrolės pareigūnas p
 
 3) nustatęs pažeidimą, dėl kurio yra kaltas juridinis asmuo, nurodyti juridinio asmens atstovui pažeidimo esmę ir pareikalauti nutraukti pažeidimą;
 
-4) atlikęs patikrinimą, surašyti Vyriausybės ar jos įgaliotos institucijos nustatytos formos patikrinimo aktą;
+4) atlikęs patikrinimą, surašyti Žemės ūkio ministerijos ar jos įgaliotos institucijos nustatytos formos patikrinimo aktą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 5) patikrinimo akte įrašyti tikrinamo juridinio asmens atstovo prašymus, skundus.
 
@@ -910,11 +1184,15 @@ Privalomasis nurodymas duodamas šiais atvejais:
 
 1. Privalomąjį nurodymą gali apskųsti asmuo, kuriam jis duotas, arba jo įgaliotas atstovas.
 
-2. Privalomasis nurodymas per 10 dienų nuo jo įteikimo gali būti skundžiamas Žuvininkystės departamento vadovui.
+2. Privalomasis nurodymas per 10 dienų nuo jo įteikimo gali būti skundžiamas Žuvininkystės tarnybos vadovui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 3. Skundas dėl privalomojo nurodymo turi būti išnagrinėtas per 5 darbo dienas.
 
-4. Žuvininkystės departamento vadovas, išnagrinėjęs skundą, priima vieną iš šių sprendimų:
+4. Žuvininkystės tarnybos vadovas, išnagrinėjęs skundą, priima vieną iš šių sprendimų:
 
 1) privalomąjį nurodymą palieka nepakeistą;
 
@@ -924,7 +1202,15 @@ Privalomasis nurodymas duodamas šiais atvejais:
 
 4) privalomąjį nurodymą panaikina.
 
-5. Žuvininkystės departamento vadovo sprendimas įstatymų nustatyta tvarka gali būti skundžiamas teismui.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
+
+5. Žuvininkystės tarnybos vadovo sprendimas įstatymų nustatyta tvarka gali būti skundžiamas teismui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 2612 straipsnis. Žuvininkystės kontrolės pareigūnų veiksmai, jei pasibaigus privalomojo nurodymo įvykdymo terminui jame nustatyti reikalavimai neįvykdomi
 
@@ -956,21 +1242,29 @@ Jei privalomasis nurodymas laiku neįvykdomas, žuvininkystės kontrolės pareig
 
 4. Sustabdęs transporto priemonę, vienas iš ekipaže dirbančių žuvininkystės kontrolės pareigūnų privalo nedelsdamas prieiti prie vairuotojo, pasakyti sustabdymo priežastį, savo tarnybos vietą, pareigas, pavardę, asmeniui pareikalavus, pateikti tarnybinį pažymėjimą.
 
-5. Jei transporto priemonės vairuotojas nepaklūsta reikalavimui ją sustabdyti, žuvininkystės kontrolės pareigūnas privalo persekioti transporto priemonę Žuvininkystės departamento automobiliu su įjungtais mėlynos spalvos švyturėliais ir specialiais garso signalais ir informuoti policiją apie persekiojamos transporto priemonės judėjimo kryptį.
+5. Jeigu transporto priemonės vairuotojas nepaklūsta reikalavimui ją sustabdyti, žuvininkystės kontrolės pareigūnas privalo persekioti transporto priemonę Žuvininkystės tarnybos automobiliu su įjungtais mėlynos spalvos švyturėliais ir specialiaisiais garso signalais ir nedelsdamas informuoti policiją apie persekiojamos transporto priemonės judėjimo kryptį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 6. Žuvininkystės kontrolės pareigūnai transporto priemonę ir joje esančius daiktus apžiūri transporto priemonės savininko ar jos valdytojo akivaizdoje, išskyrus atvejus, kai apžiūros atidėlioti negalima. Tokiu atveju apžiūroje privalo dalyvauti du kviestiniai asmenys.
 
-2615 straipsnis. Teisės sulaikyti laivus atsiradimo pagrindai
+2615 straipsnis. Teisės sulaikyti laivus ir kitas vandens transporto priemones atsiradimo pagrindai
 
-Žuvininkystės kontrolės pareigūnai turi teisę sulaikyti laivus ir pradėti tyrimą dėl žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimo, jeigu:
+Žuvininkystės kontrolės pareigūnai turi teisę sulaikyti laivus ar kitas vandens transporto priemones ir pradėti tyrimą dėl žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimo, jeigu:
 
-1) pagrįstai įtaria, kad Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ir trečiųjų šalių žvejybos laivas, kita vandens transporto priemonė, esanti Lietuvos Respublikos uostuose, teritoriniuose vandenyse ir išskirtinėje ekonominėje zonoje, pažeidė žuvų išteklių naudojimą reglamentuojančius įstatymus ar kitus teisės aktus;
+1) pagrįstai įtaria, kad Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ar trečiųjų šalių žvejybos laivas ar kita vandens transporto priemonė, esantys Lietuvos Respublikos uostuose, teritoriniuose vandenyse ar išskirtinėje ekonominėje zonoje, pažeidė žuvų išteklių naudojimą reglamentuojančius įstatymus ar kitus teisės aktus;
 
-2) pagrįstai įtaria, kad Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ir trečiųjų šalių žvejybos laivas, kita vandens transporto priemonė, esanti Lietuvos Respublikos uostuose, teritoriniuose vandenyse ir išskirtinėje ekonominėje zonoje, pažeidė žuvų išteklių naudojimą reglamentuojančius įstatymus ar kitus teisės aktus ir dėl to buvo padaryta didelė žala žuvų ištekliams ar kilo tokios žalos grėsmė, o pažeidimo padarymu įtariamas laivas nepateikė reikalaujamos informacijos arba laivo pateikta informacija neatitinka tikrovės;
+2) pagrįstai įtaria, kad Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ar trečiųjų šalių žvejybos laivas ar kita vandens transporto priemonė, esantys Lietuvos Respublikos uostuose, teritoriniuose vandenyse ar išskirtinėje ekonominėje zonoje, pažeidė žuvų išteklių naudojimą reglamentuojančius įstatymus ar kitus teisės aktus ir dėl to buvo padaryta didelė žala žuvų ištekliams ar kilo tokios žalos grėsmė, o pažeidimo padarymu įtariamas laivas ar kita vandens transporto priemonė nepateikė reikalaujamos informacijos arba laivo ar kitos vandens transporto priemonės pateikta informacija neatitinka tikrovės;
 
-3) yra gautas pranešimas iš užsienio valstybių, Europos Sąjungos kompetentingų institucijų ar regioninių žvejybos valdymo organizacijų, kad su Lietuvos valstybės vėliava plaukiojantis laivas įtariamas pažeidęs užsienio valstybės žuvų išteklių naudojimą reglamentuojančius įstatymus ar kitus teisės aktus šios užsienio valstybės uostuose, teritoriniuose vandenyse arba išskirtinėje ekonominėje zonoje;
+3) yra gautas pranešimas iš užsienio valstybių, Europos Sąjungos kompetentingų institucijų ar regioninių žvejybos valdymo organizacijų, kad su Lietuvos valstybės vėliava plaukiojantis laivas ar kita vandens transporto priemonė įtariami pažeidę užsienio valstybės žuvų išteklių naudojimą reglamentuojančius įstatymus ar kitus teisės aktus šios užsienio valstybės uostuose, teritoriniuose vandenyse ar išskirtinėje ekonominėje zonoje;
 
-4) yra gautas prašymas iš užsienio valstybių, Europos Sąjungos kompetentingų institucijų ar regioninių žvejybos valdymo organizacijų pradėti tyrimą dėl savanoriškai įplaukusio į Lietuvos Respublikos uostą laivo, pažeidusio prašančios valstybės teritoriniuose vandenyse ar išskirtinėje ekonominėje zonoje žuvų išteklių naudojimą reglamentuojančius įstatymus ar kitus teisės aktus.
+4) yra gautas prašymas iš užsienio valstybių, Europos Sąjungos kompetentingų institucijų ar regioninių žvejybos valdymo organizacijų pradėti tyrimą dėl savanoriškai įplaukusio į Lietuvos Respublikos uostą laivo ar kitos vandens transporto priemonės, pažeidusių prašančios valstybės teritoriniuose vandenyse ar išskirtinėje ekonominėje zonoje žuvų išteklių naudojimą reglamentuojančius įstatymus ar kitus teisės aktus.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 2616 straipsnis. Laivų stabdymas
 
@@ -992,7 +1286,11 @@ Jei privalomasis nurodymas laiku neįvykdomas, žuvininkystės kontrolės pareig
 
 3) nustatęs pažeidimą, nurodyti laivo kapitonui ar jo paskirtam įgulos nariui pažeidimo esmę ir pareikalauti nutraukti pažeidimą;
 
-4) atlikęs patikrinimą, surašyti Vyriausybės ar jos įgaliotos institucijos nustatytos formos patikrinimo aktą;
+4) atlikęs patikrinimą, surašyti Žemės ūkio ministerijos ar jos įgaliotos institucijos nustatytos formos patikrinimo aktą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 5) patikrinimo akte įrašyti tikrinamo laivo kapitono ar jo paskirto įgulos nario prašymus, skundus.
 
@@ -1000,7 +1298,11 @@ Jei privalomasis nurodymas laiku neįvykdomas, žuvininkystės kontrolės pareig
 
 1. Žuvininkystės kontrolės pareigūnas, surinkęs pakankamai duomenų, leidžiančių manyti, kad laivas padarė žuvų išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimų, turi teisę sulaikyti laivą, kad galėtų išsamiai ir objektyviai šiuos pažeidimus ištirti.
 
-2. Laivas sulaikomas žuvininkystės kontrolės pareigūno sprendimu. Sprendimo dėl laivo sulaikymo formą nustato Vyriausybės įgaliota institucija.
+2. Laivas sulaikomas žuvininkystės kontrolės pareigūno sprendimu. Sprendimo dėl laivo sulaikymo formą nustato Žemės ūkio ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 3. Žuvininkystės kontrolės pareigūnui priėmus sprendimą sulaikyti laivą, laivas privalo plaukti į uostą. Jei laivas atsisako plaukti į uostą, žuvininkystės kontrolės pareigūnas apie tai informuoja Lietuvos Respublikos institucijas, įgaliotas priverstinai atplukdyti laivus į uostą. Šios institucijos privalo imtis teisės aktuose nustatytų veiksmų, kad nepaklusęs žuvininkystės kontrolės pareigūno reikalavimui plaukti į uostą laivas būtų nuplukdytas į uostą. Apie sustabdyto laivo buvimą ar priverstinį laivo plukdymą į uostą žuvininkystės kontrolės pareigūnas nedelsdamas informuoja Valstybės sienos apsaugos tarnybą prie Lietuvos Respublikos vidaus reikalų ministerijos.
 
@@ -1016,13 +1318,17 @@ Jei privalomasis nurodymas laiku neįvykdomas, žuvininkystės kontrolės pareig
 
 2619 straipsnis. Sprendimo sulaikyti laivą panaikinimas ir galiojimas
 
-1. Žuvininkystės kontrolės pareigūnas priima Vyriausybės įgaliotos institucijos nustatytos formos nutarimą panaikinti sprendimą sulaikyti laivą, jeigu:
+1. Žuvininkystės kontrolės pareigūnas priima Žemės ūkio ministerijos nustatytos formos nutarimą panaikinti sprendimą sulaikyti laivą, jeigu:
 
 1) nepasitvirtina sprendime nurodyti įtarimai arba
 
 2) atlyginta žala, padaryta pažeidžiant žuvų išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimus, ir (arba) įvykdytos visos skirtos nuobaudos, jei tarptautinės sutartys nenustato kitaip, arba
 
 3) pateiktos garantijos, kad sankcijos už žuvų išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą bus įvykdytos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
 2. Kai žuvininkystės kontrolės pareigūnas perduoda bylos medžiagą teismui, įstatymų įgaliotam nagrinėti administracinio teisės pažeidimo bylą, teismas patikrina laivo sulaikymo pagrįstumą ir, jei reikia, priima nutartį dėl laivo sulaikymo nutraukimo.
 
@@ -1045,4 +1351,18 @@ BAIGIAMOSIOS NUOSTATOS
 Skirsnio numeracijos pakeitimas:
 
 Nr. X-1727, 2008-09-22, Žin., 2008, Nr. 117-4443 (2008-10-11), i. k. 1081010ISTA00X-1727
+
+221 straipsnis. Neregistravimo pirminiu žuvininkystės produktų supirkėju pagrindai
+
+Fizinis ar juridinis asmuo pirminiu žuvininkystės produktų supirkėju neregistruojamas, jeigu jis nepateikia bent vieno iš šių dokumentų:
+
+1) prašymo įregistruoti pirminiu žuvininkystės produktų supirkėju;
+
+2) asmens tapatybę patvirtinančio dokumento – fiziniai asmenys;
+
+3) įgaliojimo arba prokūros – pagal įgaliojimą veikiantys asmenys.
+
+Papildyta straipsniu:
+
+Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 
