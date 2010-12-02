@@ -4,7 +4,7 @@ identifier: "TAR.83DF9659EC0D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-04-09"
-last_updated: "2003-05-01"
+last_updated: "2010-12-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.83DF9659EC0D"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -17,9 +17,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Įstatymas skelbtas: Žin., 1992, Nr.
-
-13-342
+Įstatymas skelbtas: Žin., 1992, Nr. 13-342
 
 Neoficialus įstatymo tekstas
 
@@ -31,29 +29,61 @@ DĖL ATSAKOMYBĖS UŽ LIETUVOS
 
 GYVENTOJŲ GENOCIDĄ
 
-Lietuvos Respublikos
+Pastaba. Pripažinti,
 
-Aukščiausioji Taryba,
+kad Lietuvos Respublikos įstatymas „Dėl atsakomybės už Lietuvos gyventojų
 
-prisijungdama prie
+genocidą“ (1992 m. balandžio 9 d. redakcija su vėlesniais pakeitimais;
 
-1948 m. gruodžio 9 d. Konvencijos dėl kelio užkirtimo genocido nusikaltimui ir
+Žin., 1992, Nr. 13-342; 1998, Nr. 42-1140; 2003, Nr. 38-1700) ta apimtimi,
 
-nubaudimo už jį bei 1968 m. lapkričio 26 d. Konvencijos dėl senaties termino
+kuria jame nenustatyta, kad dėl genocido žalą patyrę asmenys nevaržomi jokių
 
-netaikymo už karinius nusikaltimus ir nusikaltimus žmonijai,
+terminų turi teisę reikalauti atlyginti žalą iš šį nusikaltimą padariusių
 
-pripažindama 1945 m.
+fizinių asmenų, prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 2
 
-rugpjūčio 8 d. Niurnbergo tarptautinio karinio tribunolo įstatus,
+daliai, konstituciniams teisinės valstybės, teisingumo principams.
 
-atsižvelgdama į tai, kad minėtosios tarptautinės sutartys įpareigoja priimti nacionalinius įstatymus, numatančius atsakomybę už genocidą, nusikaltimus žmoniškumui, karo nusikaltimus,
+Lietuvos Respublikos Konstitucinis
 
-konstatuodama, kad
+Teismas, Nutarimas
 
-genocido, nusikaltimų žmoniškumui politika Lietuvos gyventojų atžvilgiu buvo
+2010-11-29, Žin., 2010, Nr. 141-7217
 
-vykdoma nacistinės Vokietijos ar SSRS okupacijos ir aneksijos laikais,
+(2010-12-02), nutarimo atitaisymas
+
+skelbtas: Žin., 2011, Nr. 33
+
+Lietuvos
+
+Respublikos Aukščiausioji Taryba,
+
+prisijungdama
+
+prie 1948 m. gruodžio 9 d. Konvencijos dėl kelio užkirtimo genocido
+
+nusikaltimui ir nubaudimo už jį bei 1968 m. lapkričio 26 d. Konvencijos dėl
+
+senaties termino netaikymo už karinius nusikaltimus ir nusikaltimus žmonijai,
+
+pripažindama
+
+1945 m. rugpjūčio 8 d. Niurnbergo tarptautinio karinio tribunolo įstatus,
+
+atsižvelgdama į tai, kad
+
+minėtosios tarptautinės sutartys įpareigoja priimti nacionalinius įstatymus,
+
+numatančius atsakomybę už genocidą, nusikaltimus žmoniškumui, karo
+
+nusikaltimus,
+
+konstatuodama,
+
+kad genocido, nusikaltimų žmoniškumui politika Lietuvos gyventojų atžvilgiu
+
+buvo vykdoma nacistinės Vokietijos ar SSRS okupacijos ir aneksijos laikais,
 
 vadovaudamasi
 
@@ -67,17 +97,17 @@ Nr. IX-1455,
 
 2003-04-03, Žin., 2003, Nr. 38-1700 (2003-04-24)
 
-1 straipsnis. (Neteko
+1 straipsnis.
 
-galios)
+(Neteko galios)
 
 Straipsnio
 
 pakeitimai:
 
-Nr. VIII-708, 98.04.21,
+Nr. VIII-708, 1998.04.21,
 
-Žin., 1998, Nr.42-1140 (98.05.06)
+Žin., 1998, Nr. 42-1140 (1998.05.06)
 
 2 straipsnis.
 
@@ -89,43 +119,45 @@ aneksijos Lietuvoje metais, atitinka tarptautinės teisės normose numatyto
 
 genocido nusikaltimo požymius.
 
-3 straipsnis. (Neteko
+3 straipsnis.
 
-galios)
+(Neteko galios)
 
 Straipsnio
 
 pakeitimai:
 
-Nr. VIII-708, 98.04.21,
+Nr. VIII-708, 1998.04.21,
 
-Žin., 1998, Nr.42-1140 (98.05.06)
+Žin., 1998, Nr. 42-1140 (1998.05.06)
 
 4
 
-straipsnis. (Neteko galios)
+straipsnis.
+
+(Neteko galios)
 
 Straipsnio
 
 pakeitimai:
 
-Nr. VIII-708, 98.04.21,
+Nr. VIII-708, 1998.04.21,
 
-Žin., 1998, Nr.42-1140 (98.05.06)
+Žin., 1998, Nr. 42-1140 (1998.05.06)
 
 4 straipsnis. (Neteko galios)
 
-5 straipsnis. (Neteko
+5 straipsnis.
 
-galios)
+(Neteko galios)
 
 Straipsnio
 
 pakeitimai:
 
-Nr. VIII-708, 98.04.21,
+Nr. VIII-708, 1998.04.21,
 
-Žin., 1998, Nr.42-1140 (98.05.06)
+Žin., 1998, Nr. 42-1140 (1998.05.06)
 
 6 straipsnis.
 
@@ -163,9 +195,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. VIII-708, 98.04.21,
+Nr. VIII-708, 1998.04.21,
 
-Žin., 1998, Nr.42-1140 (98.05.06)
+Žin., 1998, Nr. 42-1140 (1998.05.06)
 
 LIETUVOS
 
@@ -197,9 +229,41 @@ Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.
 
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė
+Konstitucinio Teismo nutarimai:
 
-(2003-05-07)
+1.
+
+Lietuvos Respublikos Konstitucinis
+
+Teismas, Nutarimas
+
+2010-11-29,
+
+Žin., 2010, Nr. 141-7217 (2010-12-02)
+
+DĖL LIETUVOS
+
+RESPUBLIKOS ĮSTATYMO "DĖL SSRS OKUPACIJOS ŽALOS ATLYGINIMO", LIETUVOS
+
+RESPUBLIKOS ASMENŲ, REPRESUOTŲ UŽ PASIPRIEŠINIMĄ OKUPACINIAMS REŽIMAMS, TEISIŲ
+
+ATKŪRIMO ĮSTATYMO (1998 M. KOVO 12 D. REDAKCIJA), LIETUVOS RESPUBLIKOS ĮSTATYMO
+
+"DĖL ATSAKOMYBĖS UŽ LIETUVOS GYVENTOJŲ GENOCIDĄ" (1992 M. BALANDŽIO 9
+
+D. REDAKCIJA SU VĖLESNIAIS PAKEITIMAIS) ATITIKTIES LIETUVOS RESPUBLIKOS
+
+KONSTITUCIJAI
+
+Šio nutarimo atitaisymas
+
+skelbtas: Žin., 2011, Nr. 33 (2011-03-19)
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2010-12-02)
 
 autrap@lrs.lt
 
