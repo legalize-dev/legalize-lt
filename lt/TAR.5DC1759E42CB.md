@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2010-07-01"
+last_updated: "2010-12-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -396,9 +396,9 @@ registrą, valstybinio numerio ženklų ir transporto priemonės registravimo
 
 dokumento išdavimą.
 
-[Dalies redakcija nuo
+Dalies redakcija nuo
 
-2010-07-01 iki 2011-12-31]
+2010-07-01 iki 2011-12-31:
 
 33.
 
@@ -412,7 +412,7 @@ transporto priemonių vairuotojams, naudojantiems mėlynus ir (ar) raudonus (arb
 
 tik mėlynus) žybčiojančius švyturėlius ir (arba) specialiuosius garso signalus.
 
-[Dalies redakcija nuo 2012-01-01]
+Dalies redakcija nuo 2012-01-01:
 
 33.
 
@@ -1032,9 +1032,9 @@ pirminio mokymo tvarką;
 
 nustato pradedančiųjų vairuotojų papildomo mokymo tvarką;
 
-[Punkto redakcija iki
+Punkto redakcija iki
 
-2011-01-01]
+2011-01-01:
 
 11)
 
@@ -1048,9 +1048,9 @@ suaugusiųjų švietimu, tvarka turi būti suderinta su Švietimo ir mokslo
 
 ministerija);
 
-[Punkto redakcija nuo
+Punkto redakcija nuo
 
-2011-01-01]
+2011-01-01:
 
 11) suderinusi
 
@@ -2196,13 +2196,13 @@ priemonę, nedalyvaujant turinčiam teisę mokyti asmeniui.
 
 Pradėti mokyti vairuoti motorinę transporto priemonę, traktorių, savaeigę
 
-mašiną leidžiama tik nustatytus reikalavimus atitinkančioje aikštelėje arba teritorijoje.
+mašiną leidžiama tik nustatytus reikalavimus atitinkančioje aikštelėje arba
 
-Keliuose mokyti vairuoti leidžiama tik tada, kai mokinys yra pakankamai įgudęs
+teritorijoje. Keliuose mokyti vairuoti leidžiama tik tada, kai mokinys yra
 
-vairuoti. Mokyti vairuoti galima tik tuose keliuose, kuriuose to nėra uždraudęs
+pakankamai įgudęs vairuoti. Mokyti vairuoti galima tik tuose keliuose, kuriuose
 
-kelio savininkas.
+to nėra uždraudęs kelio savininkas.
 
 5.
 
@@ -2254,13 +2254,13 @@ vairavimą neturint tam teisės, terminas.
 
 3.
 
-Asmens teisę vairuoti tam tikrų kategorijų motorines transporto priemones patvirtina
+Asmens teisę vairuoti tam tikrų kategorijų motorines transporto priemones
 
-įrašas Kelių transporto priemonių vairuotojų registre ir valstybės įmonės
+patvirtina įrašas Kelių transporto priemonių vairuotojų registre ir valstybės
 
-„Regitra“ išduotas vairuotojo pažymėjimas, taip pat vairuotojų pažymėjimai,
+įmonės „Regitra“ išduotas vairuotojo pažymėjimas, taip pat vairuotojų
 
-išduoti policijos įstaigų.
+pažymėjimai, išduoti policijos įstaigų.
 
 4.
 
@@ -2292,13 +2292,13 @@ valdymu, transporto priemones su automatine pavarų dėže ir pan.).
 
 7.
 
-Vairavimo praktinį egzaminą asmuo gali laikyti tik sukakęs šio įstatymo 23 straipsnyje
+Vairavimo praktinį egzaminą asmuo gali laikyti tik sukakęs šio įstatymo 23
 
-nustatytą amžių, atsižvelgiant į motorinės transporto priemonės, traktoriaus ar
+straipsnyje nustatytą amžių, atsižvelgiant į motorinės transporto priemonės,
 
-savaeigės mašinos kategoriją, taip pat pasibaigus teisės vairuoti transporto
+traktoriaus ar savaeigės mašinos kategoriją, taip pat pasibaigus teisės
 
-priemones atėmimo terminui.
+vairuoti transporto priemones atėmimo terminui.
 
 8.
 
@@ -2428,17 +2428,17 @@ transporto priemone ar su dalyvavimu viešajame eisme susijusius mokesčius.
 
 2.
 
-Dalyvauti viešajame eisme Lietuvos Respublikoje leidžiama nustatyta tvarka
+Dalyvauti viešajame eisme Lietuvos Respublikoje leidžiama nustatyta tvarka įregistruotoms
 
-įregistruotoms motorinėms transporto priemonėms, priekaboms, kurioms atlikta ir
+motorinėms transporto priemonėms, priekaboms, kurioms atlikta ir galioja
 
-galioja privaloma techninė apžiūra ir kurių valdytojai yra apsidraudę
+privaloma techninė apžiūra ir kurių valdytojai yra apsidraudę transporto
 
-transporto priemonių valdytojų civilinės atsakomybės privalomuoju draudimu ir
+priemonių valdytojų civilinės atsakomybės privalomuoju draudimu ir sumokėję
 
-sumokėję valstybės nustatytus su transporto priemone ar su dalyvavimu viešajame
+valstybės nustatytus su transporto priemone ar su dalyvavimu viešajame eisme
 
-eisme susijusius mokesčius.
+susijusius mokesčius.
 
 3. Motorinės transporto priemonės, priekabos, dalyvaujančios
 
@@ -2476,19 +2476,19 @@ ir daiktus.
 
 6.
 
-Motorinėms transporto priemonėms, priekaboms, sugadintoms eismo ar kitokio
+Motorinėms transporto priemonėms, priekaboms, sugadintoms eismo ar kitokio įvykio
 
-įvykio metu, kai jos negali judėti sava eiga, nustatyta tvarka uždraudžiama
+metu, kai jos negali judėti sava eiga, nustatyta tvarka uždraudžiama dalyvauti
 
-dalyvauti viešajame eisme. Po atstatomojo motorinės transporto priemonės,
+viešajame eisme. Po atstatomojo motorinės transporto priemonės, priekabos
 
-priekabos remonto, kurio metu visiškai atkuriamos kėbulo (rėmo), važiuoklės
+remonto, kurio metu visiškai atkuriamos kėbulo (rėmo), važiuoklės konstrukcijos
 
-konstrukcijos ir jų stiprumas bei gamintojo įrengta saugos įranga, jos vėl gali
+ir jų stiprumas bei gamintojo įrengta saugos įranga, jos vėl gali dalyvauti
 
-dalyvauti viešajame eisme tik nustatyta tvarka atlikus techninę ekspertizę
+viešajame eisme tik nustatyta tvarka atlikus techninę ekspertizę ekspertizių
 
-ekspertizių įmonėse ir panaikinus tokį draudimą.
+įmonėse ir panaikinus tokį draudimą.
 
 Straipsnio pakeitimai:
 
@@ -2500,11 +2500,11 @@ Nr. XI-760,
 
 ženklai
 
-1. Kiekviena
+1.
 
-motorinė transporto priemonė, priekaba turi būti su tam skirtoje vietoje
+Kiekviena motorinė transporto priemonė, priekaba turi būti su tam skirtoje
 
-vertikalioje plokštumoje pritvirtintais, registruojant jai priskirtais
+vietoje vertikalioje plokštumoje pritvirtintais, registruojant jai priskirtais
 
 valstybinio numerio ženklais.
 
@@ -2582,25 +2582,25 @@ priemonės registruojamos Lietuvos Respublikos taktinės ir logistinės paskirti
 
 transporto priemonių registre.
 
-4. Lietuvos Respublikos kelių transporto priemonių registrą
+4.
 
-tvarko vadovaujančioji registro tvarkymo įstaiga – Vidaus reikalų ministerija
+Lietuvos Respublikos kelių transporto priemonių registrą tvarko vadovaujančioji
 
-ir registro tvarkymo įstaiga – valstybės įmonė „Regitra“. Lietuvos Respublikos
+registro tvarkymo įstaiga – Vidaus reikalų ministerija ir registro tvarkymo
 
-traktorių, savaeigių ir žemės ūkio mašinų ir jų priekabų registrą tvarko
+įstaiga – valstybės įmonė „Regitra“. Lietuvos Respublikos traktorių, savaeigių
 
-vadovaujančioji registro tvarkymo įstaiga – Žemės ūkio ministerija ir registro
+ir žemės ūkio mašinų ir jų priekabų registrą tvarko vadovaujančioji registro
 
-tvarkymo įstaigos – valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras
+tvarkymo įstaiga – Žemės ūkio ministerija ir registro tvarkymo įstaigos –
 
-ir savivaldybės. Lietuvos Respublikos taktinės ir logistinės paskirties
+valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras ir
 
-transporto priemonių registrą tvarko vadovaujančioji registro tvarkymo įstaiga
+savivaldybės. Lietuvos Respublikos taktinės ir logistinės paskirties transporto
 
-– Krašto apsaugos ministerija ir registro tvarkymo įstaiga – Lietuvos
+priemonių registrą tvarko vadovaujančioji registro tvarkymo įstaiga – Krašto
 
-kariuomenė.
+apsaugos ministerija ir registro tvarkymo įstaiga – Lietuvos kariuomenė.
 
 Straipsnio pakeitimai:
 
@@ -2656,21 +2656,55 @@ Transporto priemonės savininkas ar valdytojas rūpinasi ir atsako už jam
 
 nuosavybės ar kita teise priklausančią transporto priemonę.
 
+2 dalies redakcija iki 2011
+
+m. sausio 1 d.:
+
 2. Policijos
 
-pareigūnui pareikalavus teisės pažeidimo išaiškinimo tikslu, transporto priemonės
+pareigūnui pareikalavus teisės pažeidimo išaiškinimo tikslu, transporto
 
-savininkas (valdytojas) turi nurodyti šiam pareigūnui duomenis apie asmenį
+priemonės savininkas (valdytojas) turi nurodyti šiam pareigūnui duomenis apie
 
-(vardą, pavardę ir gyvenamąją vietą), kuris tam tikru metu valdė ar naudojosi
+asmenį (vardą, pavardę ir gyvenamąją vietą), kuris tam tikru metu valdė ar
 
-transporto priemonės savininkui (valdytojui) priklausančia transporto priemone.
+naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto
 
-Transporto priemonės savininkas (valdytojas), nepateikęs šioje dalyje nurodytų
+priemone. Transporto priemonės savininkas (valdytojas), nepateikęs šioje dalyje
 
-duomenų, atsako už transporto priemonės savininko (valdytojo) pareigų
+nurodytų duomenų, atsako už transporto priemonės savininko (valdytojo) pareigų
 
-neatlikimą Administracinių teisės pažeidimų kodekso nustatyta tvarka.
+neatlikimą Administracinių teisės pažeidimų kodekso nustatyta tvarka. Transporto
+
+priemonės savininkui (valdytojui) atsakomybė už pareigų neatlikimą netaikoma,
+
+jei jis prarado transporto priemonę prieš savo valią.
+
+2 dalies redakcija nuo 2011
+
+m. sausio 1 d.:
+
+2.
+
+Policijos pareigūnui pareikalavus teisės pažeidimo išaiškinimo tikslu, transporto
+
+priemonės savininkas (valdytojas) turi nurodyti šiam pareigūnui duomenis apie
+
+asmenį (vardą, pavardę ir gyvenamąją vietą), kuris tam tikru metu valdė ar
+
+naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto
+
+priemone, o juridinio asmens vadovas privalo nurodyti šiam pareigūnui duomenis
+
+apie asmenį (vardą, pavardę ir gyvenamąją vietą), kuris tam tikru metu
+
+naudojosi juridiniam asmeniui priklausančia transporto priemone. Transporto
+
+priemonės savininkas (valdytojas) ar juridinio asmens vadovas, nepateikę šioje
+
+dalyje nurodytų duomenų, atsako už transporto priemonės savininko (valdytojo)
+
+pareigų neatlikimą Administracinių teisės pažeidimų kodekso nustatyta tvarka.
 
 Transporto priemonės savininkui (valdytojui) atsakomybė už pareigų neatlikimą
 
@@ -2686,9 +2720,13 @@ policijos įstaigą ir turėti asmens tapatybę patvirtinantį dokumentą bei ki
 
 kvietime nurodytus dokumentus.
 
-23 straipsnis. Transporto priemonių kategorijos ir vairuotojų
+Straipsnio pakeitimai:
 
-amžius
+Nr. XI-1144,
+
+2010-11-18, Žin., 2010, Nr. 142-7259 (2010-12-04)
+
+23 straipsnis. Transporto priemonių kategorijos ir vairuotojų amžius
 
 1.
 
@@ -2830,9 +2868,9 @@ arba galios ir svorio santykis didesnis kaip 0,16 kW/kg, bei motociklus su
 
 šonine priekaba, kurių galios ir svorio santykis viršija 0,16 kW/kg, suteikiama
 
-tik turint ne trumpesnį kaip dvejų metų motociklų su žemesnėmis charakteristikomis
+tik turint ne trumpesnį kaip dvejų metų motociklų su žemesnėmis
 
-vairavimo patirtį) arba 21 metai;
+charakteristikomis vairavimo patirtį) arba 21 metai;
 
 4)
 
@@ -2924,13 +2962,13 @@ Teisė vairuoti transporto priemones atimama:
 
 2)
 
-sutrikus elgesiui, asmenybei ir (ar) susirgus ligomis, įtrauktomis į patvirtintą
+sutrikus elgesiui, asmenybei ir (ar) susirgus ligomis, įtrauktomis į
 
-sąrašą, kai dėl asmens sveikatos ar elgesio būklės asmuo negali tinkamai
+patvirtintą sąrašą, kai dėl asmens sveikatos ar elgesio būklės asmuo negali
 
-vairuoti transporto priemonių, teisė vairuoti transporto priemones atimama
+tinkamai vairuoti transporto priemonių, teisė vairuoti transporto priemones
 
-nustatyta tvarka;
+atimama nustatyta tvarka;
 
 3)
 
@@ -3092,15 +3130,15 @@ priemonių, priekabų valdytojai privalo pateikti jas privalomai neeilinei
 
 techninei apžiūrai.
 
-4.
+4. Naujos
 
-Naujos motorinės transporto priemonės ir priekabos laikotarpiu nuo pirmos
+motorinės transporto priemonės ir priekabos laikotarpiu nuo pirmos transporto
 
-transporto priemonės registravimo datos iki pirmos techninės apžiūros dalyvauja
+priemonės registravimo datos iki pirmos techninės apžiūros dalyvauja viešajame
 
-viešajame eisme be privalomos techninės apžiūros (išskyrus vienetinės gamybos
+eisme be privalomos techninės apžiūros (išskyrus vienetinės gamybos transporto
 
-transporto priemones).
+priemones).
 
 5. Privalomas technines apžiūras atlieka įmonės, atitinkančios
 
@@ -3160,17 +3198,15 @@ atsisakyta tai atlikti.
 
 Jeigu eismo įvykyje buvo sužeistas arba (ir) žuvo žmogus, jei dėl
 
-eismo įvykio susidarė transporto grūstis, jei eismo įvykyje dalyvauja
+eismo įvykio susidarė transporto grūstis, jei eismo įvykyje dalyvauja transporto
 
-transporto priemonė, kuri veža pavojingą krovinį arba krovinį, kurio išsipylė
+priemonė, kuri veža pavojingą krovinį arba krovinį, kurio išsipylė (išsiliejo)
 
-(išsiliejo) ant kelio, ir taip sudaro pavojų eismui, Vyriausybės įgaliotų
+ant kelio, ir taip sudaro pavojų eismui, Vyriausybės įgaliotų institucijų
 
-institucijų tarnybos privalo nedelsdamos atvykti į eismo įvykio vietą,
+tarnybos privalo nedelsdamos atvykti į eismo įvykio vietą, suteikti
 
-suteikti neatidėliotiną pagalbą nukentėjusiesiems, neutralizuoti įvykio
-
-padarinius.
+neatidėliotiną pagalbą nukentėjusiesiems, neutralizuoti įvykio padarinius.
 
 SEPTINTASIS SKIRSNIS
 
@@ -3200,9 +3236,9 @@ transporto priemonių stovėjimo aikštelę arba uždraudžiama važiuoti, jei
 
 transporto priemonės valdytojas, naudodamas transporto priemonę, sukelia grėsmę
 
-eismo dalyvių ar kitų asmenų sveikatai ar gyvybei arba trukdo saugiam
+eismo dalyvių ar kitų asmenų sveikatai ar gyvybei arba trukdo saugiam transporto
 
-transporto priemonių ar pėsčiųjų eismui ir pažeidžia KET ar
+priemonių ar pėsčiųjų eismui ir pažeidžia KET ar
 
 kitų teisės aktų reikalavimus.
 
@@ -3392,9 +3428,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1470, 2003-04-03,
+IX-1470, 2003-04-03, Žin.,
 
-Žin., 2003, Nr. 38-1715 (2003-04-24)
+2003, Nr. 38-1715 (2003-04-24)
 
 SAUGAUS
 
@@ -3504,9 +3540,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-973, 2006-12-12,
+X-973, 2006-12-12, Žin.,
 
-Žin., 2006, Nr. 141-5403 (2006-12-28)
+2006, Nr. 141-5403 (2006-12-28)
 
 SAUGAUS
 
@@ -3538,9 +3574,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1455,
+X-1455, 2008-03-13,
 
-2008-03-13, Žin., 2008, Nr. 36-1274 (2008-03-29)
+Žin., 2008, Nr. 36-1274 (2008-03-29)
 
 SAUGAUS
 
@@ -3660,19 +3696,33 @@ PAPILDYMO ĮSTATYMAS
 
 Šis
 
-įstatymas įsigalioja 2010-07-01; 1 straipsnio 1 dalis įsigalioja 2010-07-01
+įstatymas įsigalioja 2010-07-01; 1 straipsnio 1 dalis įsigalioja 2010-07-01 ir
 
-ir galioja iki 2011-12-31; 1 straipsnio 2 dalis įsigalioja 2012-01-01; 3
+galioja iki 2011-12-31; 1 straipsnio 2 dalis įsigalioja 2012-01-01; 3
 
 straipsnio 1 dalis įsigalioja 2011-01-01.
 
-***
+15.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas, Įstatymas
 
-Redagavo
+Nr. XI-1144,
 
-Aušra Bodin (2010-06-29)
+2010-11-18, Žin., 2010, Nr. 142-7259 (2010-12-04)
 
-aubodi@lrs.lt
+SAUGAUS EISMO
+
+AUTOMOBILIŲ KELIAIS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja 2011 m. sausio 1 d.
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2010-12-06)
+
+autrap@lrs.lt
 
