@@ -4,7 +4,7 @@ identifier: "TAR.5D6D055CC00C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-22"
-last_updated: "2009-07-01"
+last_updated: "2010-12-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C"
 department: "Lietuvos Respublikos Seimas"
@@ -1304,6 +1304,16 @@ nustatyta tvarka miškų urėdijoms nustatomi privalomieji 5 procentų atskaitym
 
 mišką.
 
+3 dalies redakcija nuo 2011 m. sausio 1 d.:
+
+3. Bendrosioms valstybės biudžeto reikmėms tenkinti Vyriausybės
+
+nustatyta tvarka miškų urėdijoms nustatomi privalomieji 10 procentų atskaitymai
+
+į valstybės biudžetą iš pajamų už parduotą žaliavinę medieną ir nenukirstą
+
+mišką.
+
 Straipsnio
 
 pakeitimai:
@@ -1313,6 +1323,10 @@ Nr.
 XI-239,
 
 2009-04-28, Žin., 2009, Nr. 54-2137 (2009-05-12)
+
+Nr. XI-1176,
+
+2010-11-25, Žin., 2010, Nr. 145-7431 (2010-12-11)
 
 8 straipsnis. Asmenų lankymasis miške
 
@@ -2818,6 +2832,24 @@ MIŠKŲ
 
 įsigalioja nuo 2009 m. liepos 1 d.
 
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1176,
+
+2010-11-25, Žin., 2010, Nr. 145-7431 (2010-12-11)
+
+MIŠKŲ ĮSTATYMO 7
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2011 m. sausio 1 d.
+
 *** Pabaiga ***
 
 Konstitucinio
@@ -2864,7 +2896,7 @@ LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO NUOSTATOMS
 
 Redagavo Aušrinė
 
-Trapinskienė (2009-06-25)
+Trapinskienė (2010-12-16)
 
 autrap@lrs.lt
 
