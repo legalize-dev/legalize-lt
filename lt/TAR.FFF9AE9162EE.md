@@ -4,7 +4,7 @@ identifier: "TAR.FFF9AE9162EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-13"
-last_updated: "2009-05-26"
+last_updated: "2010-12-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 department: "Lietuvos Respublikos Seimas"
@@ -198,20 +198,6 @@ per laiko vienetą tam tikro teršalo kiekio, nustatomo konkrečiam objektui, ko
 
 bus galima nustatyti didžiausios leistinos taršos normatyvą, rodiklis.
 
-14 dalies
-
-redakcija iki 2010 m. sausio 1 d.:
-
-14.
-
-Mobilus taršos šaltinis – motorinės transporto priemonės ir kiti judantys
-
-mechanizmai, naudojantys degalus.
-
-14 dalies
-
-redakcija nuo 2010 m. sausio 1 d.:
-
 14. Mobilus
 
 taršos šaltinis – kelių, geležinkelių, oro, vandenų, kitos transporto
@@ -236,9 +222,9 @@ Organinis perdirbimas – aerobinis (kompostavimas) ar anaerobinis
 
 apdorojimas naudojant mikroorganizmus, kurio metu gaunama stabilizuota organinė
 
-liekana arba metanas. Sąvartynas nėra gaminių ar pakuotės atliekų organinio
+liekana arba metanas. Sąvartynas nėra gaminių ar pakuotės atliekų organinio perdirbimo
 
-perdirbimo vieta.
+vieta.
 
 17.
 
@@ -372,9 +358,9 @@ kiekis sumažinamas 5 procentais, išskyrus atvejus, kai priemonei įgyvendinti
 
 yra naudojamos valstybės biudžeto lėšos, taip pat kai įgyvendinamos
 
-aplinkosaugos priemonės yra skirtos biokurui naudoti. Atleidimas nuo mokesčio
+aplinkosaugos priemonės yra skirtos biokurui naudoti. Atleidimas nuo mokesčio galioja
 
-galioja ne ilgiau kaip 3 metus nuo priemonės įgyvendinimo pradžios.
+ne ilgiau kaip 3 metus nuo priemonės įgyvendinimo pradžios.
 
 2.
 
@@ -428,19 +414,19 @@ teršimą iš stacionarių taršos šaltinių yra atleidžiami.
 
 asmenys, kurie patys arba per trečiuosius asmenis išveža iš Lietuvos
 
-Respublikos teritorijos pagal šį Įstatymą apmokestinamus gaminius ir (ar) į
+Respublikos teritorijos pagal šį Įstatymą apmokestinamus gaminius ir (ar) į apmokestinamąją
 
-apmokestinamąją pakuotę įpakuotus gaminius, yra atleidžiami nuo mokesčio už
+pakuotę įpakuotus gaminius, yra atleidžiami nuo mokesčio už aplinkos teršimą
 
-aplinkos teršimą gaminių ar pakuotės atliekomis už tokį apmokestinamųjų gaminių
+gaminių ar pakuotės atliekomis už tokį apmokestinamųjų gaminių ar pakuotės
 
-ar pakuotės kiekį, koks buvo  išvežtas iš Lietuvos Respublikos teritorijos per
+kiekį, koks buvo  išvežtas iš Lietuvos Respublikos teritorijos per mokestinį
 
-mokestinį laikotarpį, Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka
+laikotarpį, Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka pateikus
 
-pateikus dokumentus, patvirtinančius išvežtą iš Lietuvos Respublikos
+dokumentus, patvirtinančius išvežtą iš Lietuvos Respublikos teritorijos
 
-teritorijos apmokestinamųjų gaminių ar pakuotės kiekį.
+apmokestinamųjų gaminių ar pakuotės kiekį.
 
 6. Gamintojai ir
 
@@ -484,13 +470,9 @@ atliekų pakartotinai panaudotą arba perdirbtą ar panaudotą energijai gauti
 
 kiekį.
 
-7. Nuo mokesčio
+7. (Neteko
 
-už aplinkos teršimą atleidžiamas Lietuvos bankas.
-
-7 dalis netenka
-
-galios nuo 2010 m. sausio 1 d.
+galios nuo 2010 m. sausio 1 d.)
 
 Straipsnio pakeitimai:
 
@@ -548,22 +530,6 @@ laikinai leistinos taršos normatyvas, mokesčio už aplinkos teršimą tarifai,
 
 nustatyti šio Įstatymo 1 priedėlyje, didinami taikant koeficientą 1, 2.
 
-4 dalies
-
-redakcija iki 2010 m. sausio 1 d.:
-
-4.
-
-Mokesčio už aplinkos teršimą iš mobilių taršos šaltinių tarifai vienai tonai
-
-sunaudotų degalų, o lėktuvams – pakilimo ir nusileidimo ciklui pateikti šio
-
-Įstatymo 5 priedėlyje.
-
-4 dalies
-
-redakcija nuo 2010 m. sausio 1 d.:
-
 4.
 
 Mokesčio už aplinkos teršimą iš mobilių taršos šaltinių tarifai vienai tonai
@@ -614,67 +580,317 @@ Nr. XI-254,
 
 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
 
-7 straipsnio
+1 straipsnis.
 
-redakcija iki 2010 m. sausio 1 d.:
+Įstatymo paskirtis
 
-7
+1. Šis Įstatymas
 
-straipsnis. Mokestinis laikotarpis
+nustato mokesčio už aplinkos teršimą mokėjimo tvarką ir kontrolę.
 
-1. Mokesčio už
+2. Įstatymo
 
-aplinkos teršimą iš stacionarių taršos šaltinių mokestinis laikotarpis yra:
+paskirtis – ekonominėmis priemonėmis skatinti teršėjus mažinti aplinkos
 
-1) kalendorinis
+teršimą, vykdyti atliekų prevenciją ir tvarkymą, neviršyti nustatytų teršalų
 
-ketvirtis – jei už praėjusius metus mokėtina mokesčio už aplinkos teršimą iš
+išmetimo į aplinką normatyvų, taip pat iš mokesčio kaupti lėšas aplinkosaugos
 
-stacionarių taršos šaltinių suma buvo lygi 10 tūkstančių litų arba didesnė;
+priemonėms įgyvendinti.
 
-2) kalendorinis
+2 straipsnis.
 
-pusmetis – jei už praėjusius metus mokėtina mokesčio už aplinkos teršimą iš
+Pagrindinės Įstatymo sąvokos
 
-stacionarių taršos šaltinių suma buvo mažesnė kaip 10 tūkstančių litų.
+1. Apmokestinamieji
 
-2. Mokesčio už
+gaminiai – pagal šį Įstatymą apmokestinami gaminiai, nurodyti Įstatymo 3
 
-aplinkos teršimą iš mobilių taršos šaltinių mokestinis laikotarpis yra
+priedėlyje.
 
-kalendorinis pusmetis.
+2. Apmokestinamoji
 
-3. Mokesčio už
+pakuotė – pagal šį Įstatymą apmokestinama pripildyta pirminė gaminių
 
-aplinkos teršimą gaminių ar pakuotės atliekomis mokestinis laikotarpis yra
+pakuotė, nurodyta Įstatymo 4 priedėlyje.
 
-kalendoriniai metai.
+3. Didžiausios
 
-4. Mokestis už
+leistinos taršos normatyvas – tam tikro teršalo didžiausio kiekio,
 
-aplinkos teršimą sumokamas ir mokesčio už aplinkos teršimą deklaracija
+leidžiamo išmesti į aplinką per laiko vienetą, rodiklis.
 
-pateikiama ne vėliau kaip per 60 dienų nuo mokestinio laikotarpio pabaigos
+4. Energijos
 
-teritorinei valstybinei mokesčių inspekcijai, kurios veiklos teritorijoje
+gavyba – degių gaminių ir (ar) pakuotės atliekų naudojimas energijai gauti
 
-mokesčių mokėtojas yra įregistruotas mokesčių mokėtojų registre.
+jas deginant atskirai ar kartu su kitomis atliekomis ir naudojant gautą šilumą.
 
-5.
+5. Gaminių ar
 
-Pradedantys verstis savo veikla fiziniai ir juridiniai asmenys, kurie teršia iš
+pakuotės atliekos – atliekos, kurios susidaro pasibaigus apmokestinamųjų
 
-stacionarių ir (ar) mobilių taršos šaltinių, mokestį už aplinkos teršimą
+gaminių ar pakuotės naudojimo laikui.
 
-pirmaisiais mokėjimo metais moka pasibaigus kalendoriniam pusmečiui.
+6. Gaminių ar
 
-7 straipsnio
+pakuotės atliekų perdirbimas – apmokestinamųjų gaminių ar pakuotės
 
-redakcija nuo 2010 m. sausio 1 d.:
+atliekose esančių medžiagų perdirbimas gamybos proceso metu, įskaitant organinį
 
-7
+perdirbimą, bet išskyrus naudojimą energijai gauti, norint gaminių ar pakuotės
 
-straipsnis. Mokestinis laikotarpis
+atliekose esančias medžiagas panaudoti pagal pirminę ar kitokią paskirtį.
+
+7. Gaminių ar
+
+pakuotės atliekų tvarkymas – apmokestinamųjų gaminių ar pakuotės atliekų
+
+surinkimas, rūšiavimas ir perdirbimas arba naudojimas energijai gauti.
+
+8. Gaminių ar
+
+pakuotės atliekų tvarkytojas – fizinis ar juridinis asmuo, kuris pagal
+
+nustatytus reikalavimus tvarko apmokestinamųjų gaminių ar pakuotės atliekas
+
+taip, kaip nustatyta šio Įstatymo ar kitų teisės aktų.
+
+9. Gamintojas
+
+– fizinis ar juridinis asmuo, kuris gamina apmokestinamuosius gaminius ir (ar)
+
+kuris pakuoja gaminius į apmokestinamąją pakuotę.
+
+10.
+
+Importuotojas – fizinis ar juridinis asmuo, kuris importuoja į Lietuvos
+
+Respubliką apmokestinamuosius gaminius ir (ar) gaminius, supakuotus į
+
+apmokestinamąją pakuotę.
+
+11.
+
+Kombinuota pakuotė – daugiasluoksnė pakuotė, sudaryta iš kelių skirtingų
+
+rūšių medžiagų.
+
+12. Laikinai
+
+leistinos taršos normatyvas – laikinai leidžiamo išmesti į aplinką per
+
+laiko vienetą tam tikro teršalo kiekio, nustatomo konkrečiam objektui, kol bus
+
+galima nustatyti didžiausios leistinos taršos normatyvą, rodiklis.
+
+13. Mobilus
+
+taršos šaltinis – motorinės transporto priemonės ir kiti judantys
+
+mechanizmai, naudojantys degalus.
+
+14.
+
+Normatyvas – nustatyta tvarka įteisintas tam tikro teršalo kiekio,
+
+mokestiniu laikotarpiu leidžiamo išmesti į aplinką, rodiklis.
+
+15. Organinis
+
+perdirbimas – aerobinis (kompostavimas) ar anaerobinis (biometanizavimas)
+
+gaminių ar pakuotės atliekų biologiškai skylančios dalies apdorojimas naudojant
+
+mikroorganizmus, kurio metu gaunama stabilizuota organinė liekana arba metanas.
+
+Sąvartynas nėra gaminių ar pakuotės atliekų organinio perdirbimo vieta.
+
+16.
+
+Pakartotinis naudojimas – bet kokia operacija, kurios metu apmokestinamoji
+
+gaminio pakuotė (sukonstruota taip, kad per naudojimo laikotarpį atlaikytų
+
+minimalų pervežimų skaičių) yra vėl pripildoma naudojant papildomus rinkoje
+
+esančius gaminius arba be jų ar panaudojama tam pačiam tikslui, kuriam ji buvo
+
+pagaminta. Jei tokia pakartotinio naudojimo pakuotė daugiau neužpildoma, ji
+
+tampa pakuočių atlieka.
+
+17. Pirminė pakuotė
+
+– pakuotė, kuri vartotojui pateikta kartu su gaminiu sudaro prekinį
+
+vienetą.
+
+18.
+
+Stacionarus taršos šaltinis – taršos objektas, kuris negali būti perkeltas
+
+iš vienos vietos į kitą, nepakeitus jo paskirties ir iš esmės nesumažinus jo
+
+vertės.
+
+19. Teršalai –
+
+į aplinką išmetamos teršiančios medžiagos, kurios kenksmingai veikia  žmogaus
+
+sveikatą ir aplinką.
+
+3 straipsnis.
+
+Mokesčio objektas
+
+Mokesčio
+
+objektas yra:
+
+1) išmetami į
+
+aplinką teršalai;
+
+2) gaminiai,
+
+nurodyti Įstatymo 3 priedėlyje;
+
+3) pripildyta pakuotė,
+
+nurodyta Įstatymo 4 priedėlyje.
+
+4 straipsnis.
+
+Mokesčio mokėtojai
+
+1. Mokestį už
+
+aplinkos teršimą iš stacionarių taršos šaltinių moka aplinką teršiantys
+
+fiziniai ir juridiniai asmenys, kurie Vyriausybės ar jos įgaliotų institucijų
+
+nustatyta tvarka privalo turėti gamtos išteklių naudojimo leidimą su nurodytais
+
+teršalų išmetimo į aplinką normatyvais.
+
+2. Mokestį už
+
+aplinkos teršimą iš mobilių taršos šaltinių moka fiziniai ir juridiniai
+
+asmenys, teršiantys aplinką iš ūkinei komercinei veiklai naudojamų mobilių
+
+taršos šaltinių.
+
+3. Mokestį už
+
+aplinkos teršimą gaminių ir (ar) pakuotės atliekomis moka gaminių gamintojai ir
+
+importuotojai.
+
+įstatymo 1 straipsnio 1, 4 dalys, 2 straipsnio 1, 2 dalys ir 5 straipsnis
+
+įsigalioja nuo 2006 m. sausio 1 d.
+
+Įstatymo
+
+atitaisymas skelbtas: Žin., 2005, Nr. 49 (2005-04-16)
+
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-516,
+
+2006-03-16, Žin., 2006, Nr. 32-1111 (2006-03-23)
+
+MOKESČIO
+
+UŽ APLINKOS TERŠIMĄ ĮSTATYMO 11 STRAIPSNIO, 3 IR 4 PRIEDĖLIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja nuo 2007 m.sausio 1 d.
+
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1438,
+
+2008-01-29, Žin., 2008, Nr. 18-631 (2008-02-12)
+
+MOKESČIO
+
+UŽ APLINKOS TERŠIMĄ ĮSTATYMO 1, 4, 7, 9, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+
+IR 1 PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+
+Šio
+
+įstatymo 5 straipsnio 1 dalis ir 6 straipsnis įsigalioja 2010 m. sausio 1 d.
+
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-254,
+
+2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
+
+MOKESČIO UŽ
+
+APLINKOS TERŠIMĄ ĮSTATYMO 2, 5, 6, 7, 8, 9, 10 STRAIPSNIŲ IR 5 BEI 6 PRIEDĖLIŲ
+
+PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas, išskyrus 10 straipsnį,
+
+įsigalioja 2010 m. sausio 1 d.
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1169, 2010-11-23, Žin., 2010, Nr.
+
+145-7426 (2010-12-11)
+
+MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO 10
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2010-12-14)
+
+autrap@lrs.lt
+
+* Išskyrus:
+
+kietąsias
+
+daleles, susidarančias deginant kietąjį, skystąjį arba dujinį kurą;
+
+asbesto
+
+turinčias kietąsias daleles.
+
+7 straipsnis. Mokestinis laikotarpis
 
 1. Mokesčio už
 
@@ -684,11 +900,11 @@ aplinkos teršimą mokestinis laikotarpis yra kalendoriniai metai.
 
 Mokestis už aplinkos teršimą sumokamas ir mokesčio už aplinkos teršimą
 
-deklaracija pateikiama ne vėliau kaip per 60 dienų nuo mokestinio laikotarpio pabaigos
+deklaracija pateikiama ne vėliau kaip per 60 dienų nuo mokestinio laikotarpio
 
-teritorinei valstybinei mokesčių inspekcijai, kurios veiklos teritorijoje
+pabaigos teritorinei valstybinei mokesčių inspekcijai, kurios veiklos
 
-mokesčio mokėtojas yra įregistruotas mokesčių mokėtojų registre.
+teritorijoje mokesčio mokėtojas yra įregistruotas mokesčių mokėtojų registre.
 
 Straipsnio pakeitimai:
 
@@ -704,63 +920,9 @@ Nr. XI-254,
 
 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
 
-8 straipsnio
+8 straipsnis. Mokesčio už aplinkos
 
-redakcija iki 2010 m. sausio 1 d.:
-
-8
-
-straipsnis. Mokesčio už aplinkos teršimą apskaita
-
-1.
-
-Fiziniai ir juridiniai asmenys, kurie pagal šį Įstatymą privalo mokėti mokestį
-
-už aplinkos teršimą, Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka
-
-tvarko teršalų išmetimo į aplinką apskaitą.
-
-2.
-
-Mokestis už aplinkos teršimą apskaičiuojamas ir mokamas Vyriausybės ar jos
-
-įgaliotų institucijų nustatyta tvarka.
-
-3.
-
-Mokestis už aplinkos teršimą iš stacionarių taršos šaltinių mokamas pagal
-
-faktiškai per ataskaitinį laikotarpį išmestą į aplinką teršalų kiekį, už
-
-teršimą iš mobilių taršos šaltinių (išskyrus lėktuvus) – pagal sunaudotą per
-
-ataskaitinį laikotarpį degalų kiekį, už teršimą iš lėktuvų – pagal pakilimo ir
-
-nusileidimo ciklų skaičių.
-
-4. Mokestis už
-
-aplinkos teršimą gaminių ir (ar) pakuotės atliekomis mokamas pagal faktiškai
-
-per ataskaitinį laikotarpį išleistą į Lietuvos Respublikos vidaus rinką
-
-apmokestinamųjų gaminių ir (ar) pripildytos gaminių apmokestinamosios pakuotės
-
-kiekį.
-
-5.
-
-Mokesčio už aplinkos teršimą mokėtojas yra atsakingas už ataskaitoje pateiktus
-
-duomenis.
-
-8 straipsnio
-
-redakcija nuo 2010 m. sausio 1 d.:
-
-8
-
-straipsnis. Mokesčio už aplinkos teršimą apskaita
+teršimą apskaita
 
 1. Fiziniai ir
 
@@ -780,15 +942,15 @@ institucijų nustatyta tvarka.
 
 3. Mokestis už
 
-aplinkos teršimą iš stacionarių taršos šaltinių mokamas už faktiškai per
+aplinkos teršimą iš stacionarių taršos šaltinių mokamas už faktiškai per mokestinį
 
-mokestinį laikotarpį išmestą į aplinką teršalų kiekį, už teršimą iš mobilių
+laikotarpį išmestą į aplinką teršalų kiekį, už teršimą iš mobilių taršos
 
-taršos šaltinių (išskyrus oro transporto priemones) – už sunaudotą per
+šaltinių (išskyrus oro transporto priemones) – už sunaudotą per mokestinį
 
-mokestinį laikotarpį degalų kiekį, už teršimą iš oro transporto priemonių – už
+laikotarpį degalų kiekį, už teršimą iš oro transporto priemonių – už pakilimo
 
-pakilimo ir nusileidimo ciklų skaičių.
+ir nusileidimo ciklų skaičių.
 
 4. Mokestis už
 
@@ -810,9 +972,7 @@ pakuotės apskaitos tvarkymą ir mokesčio už aplinkos teršimą deklaracijoje
 
 pateiktus duomenis.
 
-Straipsnio
-
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. IX-1970,
 
@@ -825,20 +985,6 @@ Nr. XI-254,
 9
 
 straipsnis. Mokesčio už aplinkos teršimą mokėjimo kontrolė
-
-1 dalies
-
-redakcija iki 2010 m. sausio 1 d.:
-
-1.
-
-Aplinkos ministerija kontroliuoja teršalų išmetimo į aplinką apskaitą, tikrina
-
-mokesčio už aplinkos teršimą apskaičiavimą.
-
-1 dalies
-
-redakcija nuo 2010 m. sausio 1 d.:
 
 1.
 
@@ -855,22 +1001,6 @@ Fiziniams ir juridiniams asmenims, kurie netvarko privalomos teršalų išmetimo
 aplinką apskaitos, teršalų kiekis nustatomas pagal Vyriausybės ar jos įgaliotų
 
 institucijų patvirtintas metodikas.
-
-3 dalies
-
-redakcija iki 2010 m. sausio 1 d.:
-
-3.
-
-Už išmestą iš stacionarių taršos šaltinių normatyvus viršijantį teršalų kiekį ar
-
-nuslėptą teršalų ir (ar) apmokestinamųjų gaminių bei apmokestinamosios pakuotės
-
-kiekį mokestis už aplinkos teršimą mokamas taikant didesnį tarifą.
-
-3 dalies
-
-redakcija nuo 2010 m. sausio 1 d.:
 
 3. Už išmestą iš
 
@@ -936,9 +1066,9 @@ Nr. X-1438,
 
 2008-01-29, Žin., 2008, Nr. 18-631 (2008-02-12)
 
-Nr. XI-254,
+Nr. XI-254, 2009-05-12,
 
-2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
+Žin., 2009, Nr. 61-2404 (2009-05-26)
 
 10
 
@@ -954,9 +1084,11 @@ pakuotės atliekomis, paskirstomas taip:
 
 30 procentų mokama į valstybės biudžetą. Šios lėšos naudojamos pagal tikslinę
 
-paskirtį Lietuvos aplinkos apsaugos investicijų fondo programoje numatytiems
+paskirtį Lietuvos aplinkos apsaugos investicijų fondo programos lėšoms
 
-aplinkos apsaugos investiciniams projektams finansuoti;
+administruoti ir šioje programoje numatytiems aplinkos apsaugos investiciniams
+
+projektams finansuoti aplinkos ministro nustatyta tvarka;
 
 2) 70 procentų mokama į savivaldybės, kurios
 
@@ -974,26 +1106,6 @@ biudžetą. Šios lėšos naudojamos Atliekų tvarkymo įstatyme numatytiems Gam
 
 ar pakuotės atliekų tvarkymo programos tikslams įgyvendinti.
 
-3 dalies
-
-redakcija iki 2010 m. sausio 1 d.:
-
-3.
-
-Didesnio tarifo mokestis už aplinkos teršimą, kai jis taikomas už nuslėptą
-
-teršalų ir apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį, už
-
-normatyvus viršijantį teršalų kiekį, mokamas arba išieškomas iš pažeidėjo į
-
-valstybės biudžetą. Šios lėšos naudojamos Aplinkos apsaugos rėmimo programos
-
-įstatyme numatytiems tikslams įgyvendinti.
-
-3 dalies
-
-redakcija nuo 2010 m. sausio 1 d.:
-
 3.
 
 Didesnio tarifo mokestis už aplinkos teršimą, kai jis taikomas už nuslėptą
@@ -1002,19 +1114,17 @@ teršalų, sunaudotų degalų ir apmokestinamųjų gaminių bei pripildytos gami
 
 apmokestinamosios pakuotės kiekį, už normatyvus viršijantį teršalų kiekį,
 
-mokamas arba išieškomas iš pažeidėjo į valstybės biudžetą. Šios lėšos
+mokamas arba išieškomas iš pažeidėjo į valstybės biudžetą. Šios lėšos naudojamos
 
-naudojamos Aplinkos apsaugos rėmimo programos įstatyme nustatytiems tikslams
-
-įgyvendinti.
+Aplinkos apsaugos rėmimo programos įstatyme nustatytiems tikslams įgyvendinti.
 
 4.
 
-Nesumokėtas mokestis už aplinkos teršimą sumokamas arba išieškomas, delspinigiai
+Nesumokėtas mokestis už aplinkos teršimą sumokamas arba išieškomas,
 
-skaičiuojami, permokėta mokesčio suma grąžinama Mokesčių administravimo
+delspinigiai skaičiuojami, permokėta mokesčio suma grąžinama Mokesčių
 
-įstatymo nustatyta tvarka.
+administravimo įstatymo nustatyta tvarka.
 
 Straipsnio
 
@@ -1030,33 +1140,23 @@ Nr. XI-254,
 
 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
 
+Nr. XI-1169, 2010-11-23, Žin., 2010, Nr.
+
+145-7426 (2010-12-11)
+
 11
 
 straipsnis. Mokesčio tarifų galiojimo terminas
 
-1 dalies
-
-redakcija iki 2010 m. sausio 1 d.:
-
-1.
-
-Mokesčio už aplinkos teršimą tarifai, išskyrus mokesčio už aplinkos teršimą
-
-gaminių ir (ar) pakuotės atliekomis tarifus, galioja iki 2005 m. sausio 1 d.
-
-1 dalies
-
-redakcija nuo 2010 m. sausio 1 d.:
-
 1. Mokesčio už
 
-aplinkos teršimą iš stacionarių taršos šaltinių tarifai nustatyti šio Įstatymo 1
+aplinkos teršimą iš stacionarių taršos šaltinių tarifai nustatyti šio Įstatymo
 
-priedėlyje.
+1 priedėlyje.
 
 2.
 
-Neteko galios nuo 2008 m. vasario 12 d.
+(Neteko galios nuo 2008 m. vasario 12 d.)
 
 3.
 
@@ -1093,328 +1193,6 @@ Seimo priimtą įstatymą.
 RESPUBLIKOS
 
 PREZIDENTAS                                                   VALDAS ADAMKUS
-
-1 priedėlio
-
-redakcija iki 2010 m. sausio 1 d.:
-
-Lietuvos
-
-Respublikos                                                                                                              2002 m. sausio 22 d.
-
-įstatymo
-
-Nr. IX-720
-
-1
-
-priedėlis
-
-Mokesčio už
-
-aplinkos teršimą iš stacionarių taršos šaltinių tarifai 2005–2009 metų periodui
-
-(2003 m. balandžio 29 d. įstatymo Nr. IX-1547 1 priedėlis):
-
-MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ
-
-STACIONARIŲ TARŠOS ŠALTINIŲ TARIFAI
-
-I.
-
-Teršalai, išmetami į atmosferą
-
-Teršalai
-
-Mokesčio tarifai,
-
-Lt/t
-
-2005 m.
-
-2006 m.
-
-2007 m.
-
-2008 m.
-
-2009 m.
-
-SO2
-
-311
-
-311
-
-311
-
-311
-
-311
-
-NOx
-
-587
-
-587
-
-587
-
-587
-
-587
-
-Vanadžio
-
-pentoksidas
-
-11 485
-
-11 485
-
-11 485
-
-11 485
-
-11 485
-
-Kietosios
-
-dalelės (organinės ir neorganinės)(*
-
-)
-
-184
-
-184
-
-184
-
-184
-
-184
-
-Teršalų grupės
-
-I
-
-1210
-
-1210
-
-1210
-
-1210
-
-1210
-
-II
-
-570
-
-570
-
-570
-
-570
-
-570
-
-III
-
-74
-
-74
-
-74
-
-74
-
-74
-
-IV
-
-13
-
-13
-
-13
-
-13
-
-13
-
-II. Teršalai, išmetami į vandens telkinius, žemės paviršių ir gilesnius jos
-
-sluoksnius
-
-Teršalai
-
-Mokesčio tarifai, Lt/t
-
-2005
-
-m.
-
-2006
-
-m.
-
-2007
-
-m.
-
-2008
-
-m.
-
-2009
-
-m.
-
-BDS7
-
-765
-
-765
-
-765
-
-765
-
-765
-
-Bendrasis
-
-azotas
-
-600
-
-600
-
-600
-
-600
-
-600
-
-Bendrasis
-
-fosforas
-
-3000
-
-3000
-
-3000
-
-3000
-
-3000
-
-Suspenduotos
-
-medžiagos
-
-309
-
-309
-
-309
-
-309
-
-309
-
-Sulfatai
-
-2
-
-2
-
-2
-
-2
-
-2
-
-Chloridai
-
-9
-
-9
-
-9
-
-9
-
-9
-
-Teršalų grupės
-
-I
-
-8700460
-
-8700460
-
-8700460
-
-8700460
-
-8700460
-
-II
-
-792710
-
-792710
-
-792710
-
-792710
-
-792710
-
-III
-
-129250
-
-129250
-
-129250
-
-129250
-
-129250
-
-IV
-
-29290
-
-29290
-
-29290
-
-29290
-
-29290
-
-V
-
-2871
-
-2871
-
-2871
-
-2871
-
-2871
-
-1 priedėlio
-
-redakcija nuo 2010 m. sausio 1 d.:
 
 Lietuvos
 
@@ -1934,240 +1712,6 @@ Nr. X-516, 2006-03-16,
 
 Žin., 2006, Nr. 32-1111 (2006-03-23)
 
-5 priedėlio
-
-redakcija iki 2010 m. sausio 1 d.:
-
-Lietuvos
-
-Respublikos
-
-2002
-
-m. sausio 22 d.
-
-įstatymo
-
-Nr. IX-720
-
-5
-
-priedėlis
-
-Mokesčio už
-
-aplinkos teršimą iš mobilių taršos šaltinių tarifai 2005–2009 metų periodui
-
-(2003 m. balandžio 29 d. įstatymo Nr. IX-1547 2 priedėlis):
-
-MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ
-
-MOBILIŲ TARŠOS ŠALTINIŲ
-
-TARIFAI
-
-Transporto
-
-Kuro rūšis
-
-Mokesčio tarifai, Lt/t/(ciklą)
-
-priemonėms
-
-arba ciklas
-
-2005
-
-m.
-
-2006
-
-m.
-
-2007
-
-m.
-
-2008
-
-m.
-
-2009
-
-m.
-
-1.
-
-Motorinėms
-
-Benzinas
-
-21
-
-21
-
-21
-
-21
-
-21
-
-transporto
-
-Dyzelinas
-
-22
-
-22
-
-22
-
-22
-
-22
-
-priemonėms
-
-su vidaus degimo
-
-Suskystintos
-
-naftos dujos
-
-20
-
-20
-
-20
-
-20
-
-20
-
-varikliais
-
-suslėgtos
-
-gamtinės dujos
-
-16
-
-16
-
-16
-
-16
-
-16
-
-2.
-
-Laivams
-
-benzinas
-
-32
-
-32
-
-32
-
-32
-
-32
-
-dyzelinas
-
-34
-
-34
-
-34
-
-34
-
-34
-
-mazutas,
-
-kurio sieringumas £0,5%
-
-8
-
-8
-
-8
-
-8
-
-8
-
-mazutas,
-
-kurio sieringumas nuo 0,5% iki 1,5%
-
-14
-
-14
-
-14
-
-14
-
-14
-
-mazutas,
-
-kurio sieringumas nuo 1,5% iki 2,5%
-
-20
-
-20
-
-20
-
-20
-
-20
-
-3.
-
-Geležinkelių transporto priemonėms
-
-dyzelinas
-
-26
-
-26
-
-26
-
-26
-
-26
-
-4.
-
-Lėktuvų pakilimo ir nusileidimo ciklui
-
-už
-
-vieną ciklą
-
-5
-
-5
-
-5
-
-5
-
-5
-
-5 priedėlio
-
-redakcija nuo 2010 m. sausio 1 d.:
-
 Lietuvos
 
 Respublikos
@@ -2297,110 +1841,6 @@ priedėlio pakeitimai:
 Nr. XI-254,
 
 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
-
-6 priedėlio
-
-redakcija iki 2010 m. sausio 1 d.:
-
-Lietuvos
-
-Respublikos
-
-2002
-
-m. sausio 22 d.
-
-įstatymo
-
-Nr. IX-720
-
-6
-
-priedėlis
-
-MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ
-
-MOBILIŲ TARŠOS ŠALTINIŲ TARIFŲ KOEFICIENTAI
-
-Transporto priemonėms
-
-Kuro rūšis arba ciklas
-
-Koeficientas
-
-1. Motorinėms
-
-transporto priemonėms
-
-su vidaus degimo
-
-varikliais
-
-benzinas
-
-1,5
-
-dyzelinas
-
-6
-
-suskystintos
-
-naftos dujos
-
-1,5
-
-suslėgtos
-
-gamtinės dujos
-
-1,5
-
-2. Laivams
-
-benzinas
-
-2
-
-dyzelinas
-
-6
-
-mazutas,
-
-kurio sieringumas £0,5%
-
-2
-
-mazutas,
-
-kurio sieringumas nuo 0,5% iki 1,5%
-
-3
-
-mazutas,
-
-kurio sieringumas nuo 1,5% iki 2,5%
-
-3
-
-3. Geležinkelių transporto priemonėms
-
-dyzelinas
-
-4
-
-4. Lėktuvų pakilimo ir nusileidimo ciklui
-
-už
-
-vieną ciklą
-
-4
-
-6 priedėlio
-
-redakcija nuo 2010 m. sausio 1 d.:
 
 Lietuvos
 
@@ -2693,2110 +2133,6 @@ UŽ APLINKOS TERŠIMĄ ĮSTATYMO 2, 5, 7 STRAIPSNIŲ IR 3, 4 PRIEDĖLIŲ PAPILDY
 PAKEITIMO ĮSTATYMAS
 
 Šio
-
-1 straipsnis.
-
-Įstatymo paskirtis
-
-1. Šis Įstatymas
-
-nustato mokesčio už aplinkos teršimą mokėjimo tvarką ir kontrolę.
-
-2. Įstatymo
-
-paskirtis – ekonominėmis priemonėmis skatinti teršėjus mažinti aplinkos
-
-teršimą, vykdyti atliekų prevenciją ir tvarkymą, neviršyti nustatytų teršalų
-
-išmetimo į aplinką normatyvų, taip pat iš mokesčio kaupti lėšas aplinkosaugos
-
-priemonėms įgyvendinti.
-
-2 straipsnis.
-
-Pagrindinės Įstatymo sąvokos
-
-1. Apmokestinamieji
-
-gaminiai – pagal šį Įstatymą apmokestinami gaminiai, nurodyti Įstatymo 3
-
-priedėlyje.
-
-2. Apmokestinamoji
-
-pakuotė – pagal šį Įstatymą apmokestinama pripildyta pirminė gaminių
-
-pakuotė, nurodyta Įstatymo 4 priedėlyje.
-
-3. Didžiausios
-
-leistinos taršos normatyvas – tam tikro teršalo didžiausio kiekio,
-
-leidžiamo išmesti į aplinką per laiko vienetą, rodiklis.
-
-4. Energijos
-
-gavyba – degių gaminių ir (ar) pakuotės atliekų naudojimas energijai gauti
-
-jas deginant atskirai ar kartu su kitomis atliekomis ir naudojant gautą šilumą.
-
-5. Gaminių ar
-
-pakuotės atliekos – atliekos, kurios susidaro pasibaigus apmokestinamųjų
-
-gaminių ar pakuotės naudojimo laikui.
-
-6. Gaminių ar
-
-pakuotės atliekų perdirbimas – apmokestinamųjų gaminių ar pakuotės
-
-atliekose esančių medžiagų perdirbimas gamybos proceso metu, įskaitant organinį
-
-perdirbimą, bet išskyrus naudojimą energijai gauti, norint gaminių ar pakuotės
-
-atliekose esančias medžiagas panaudoti pagal pirminę ar kitokią paskirtį.
-
-7. Gaminių ar
-
-pakuotės atliekų tvarkymas – apmokestinamųjų gaminių ar pakuotės atliekų
-
-surinkimas, rūšiavimas ir perdirbimas arba naudojimas energijai gauti.
-
-8. Gaminių ar
-
-pakuotės atliekų tvarkytojas – fizinis ar juridinis asmuo, kuris pagal
-
-nustatytus reikalavimus tvarko apmokestinamųjų gaminių ar pakuotės atliekas
-
-taip, kaip nustatyta šio Įstatymo ar kitų teisės aktų.
-
-9. Gamintojas
-
-– fizinis ar juridinis asmuo, kuris gamina apmokestinamuosius gaminius ir (ar)
-
-kuris pakuoja gaminius į apmokestinamąją pakuotę.
-
-10.
-
-Importuotojas – fizinis ar juridinis asmuo, kuris importuoja į Lietuvos
-
-Respubliką apmokestinamuosius gaminius ir (ar) gaminius, supakuotus į
-
-apmokestinamąją pakuotę.
-
-11.
-
-Kombinuota pakuotė – daugiasluoksnė pakuotė, sudaryta iš kelių skirtingų
-
-rūšių medžiagų.
-
-12. Laikinai
-
-leistinos taršos normatyvas – laikinai leidžiamo išmesti į aplinką per
-
-laiko vienetą tam tikro teršalo kiekio, nustatomo konkrečiam objektui, kol bus
-
-galima nustatyti didžiausios leistinos taršos normatyvą, rodiklis.
-
-13. Mobilus
-
-taršos šaltinis – motorinės transporto priemonės ir kiti judantys
-
-mechanizmai, naudojantys degalus.
-
-14.
-
-Normatyvas – nustatyta tvarka įteisintas tam tikro teršalo kiekio,
-
-mokestiniu laikotarpiu leidžiamo išmesti į aplinką, rodiklis.
-
-15. Organinis
-
-perdirbimas – aerobinis (kompostavimas) ar anaerobinis (biometanizavimas)
-
-gaminių ar pakuotės atliekų biologiškai skylančios dalies apdorojimas naudojant
-
-mikroorganizmus, kurio metu gaunama stabilizuota organinė liekana arba metanas.
-
-Sąvartynas nėra gaminių ar pakuotės atliekų organinio perdirbimo vieta.
-
-16.
-
-Pakartotinis naudojimas – bet kokia operacija, kurios metu apmokestinamoji
-
-gaminio pakuotė (sukonstruota taip, kad per naudojimo laikotarpį atlaikytų
-
-minimalų pervežimų skaičių) yra vėl pripildoma naudojant papildomus rinkoje
-
-esančius gaminius arba be jų ar panaudojama tam pačiam tikslui, kuriam ji buvo
-
-pagaminta. Jei tokia pakartotinio naudojimo pakuotė daugiau neužpildoma, ji
-
-tampa pakuočių atlieka.
-
-17. Pirminė pakuotė
-
-– pakuotė, kuri vartotojui pateikta kartu su gaminiu sudaro prekinį
-
-vienetą.
-
-18.
-
-Stacionarus taršos šaltinis – taršos objektas, kuris negali būti perkeltas
-
-iš vienos vietos į kitą, nepakeitus jo paskirties ir iš esmės nesumažinus jo
-
-vertės.
-
-19. Teršalai –
-
-į aplinką išmetamos teršiančios medžiagos, kurios kenksmingai veikia  žmogaus
-
-sveikatą ir aplinką.
-
-3 straipsnis.
-
-Mokesčio objektas
-
-Mokesčio
-
-objektas yra:
-
-1) išmetami į
-
-aplinką teršalai;
-
-2) gaminiai,
-
-nurodyti Įstatymo 3 priedėlyje;
-
-3) pripildyta pakuotė,
-
-nurodyta Įstatymo 4 priedėlyje.
-
-4 straipsnis.
-
-Mokesčio mokėtojai
-
-1. Mokestį už
-
-aplinkos teršimą iš stacionarių taršos šaltinių moka aplinką teršiantys
-
-fiziniai ir juridiniai asmenys, kurie Vyriausybės ar jos įgaliotų institucijų
-
-nustatyta tvarka privalo turėti gamtos išteklių naudojimo leidimą su nurodytais
-
-teršalų išmetimo į aplinką normatyvais.
-
-2. Mokestį už
-
-aplinkos teršimą iš mobilių taršos šaltinių moka fiziniai ir juridiniai
-
-asmenys, teršiantys aplinką iš ūkinei komercinei veiklai naudojamų mobilių
-
-taršos šaltinių.
-
-3. Mokestį už
-
-aplinkos teršimą gaminių ir (ar) pakuotės atliekomis moka gaminių gamintojai ir
-
-importuotojai.
-
-įstatymo 1 straipsnio 1, 4 dalys, 2 straipsnio 1, 2 dalys ir 5 straipsnis
-
-įsigalioja nuo 2006 m. sausio 1 d.
-
-Įstatymo
-
-atitaisymas skelbtas: Žin., 2005, Nr. 49 (2005-04-16)
-
-9.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-516,
-
-2006-03-16, Žin., 2006, Nr. 32-1111 (2006-03-23)
-
-MOKESČIO
-
-UŽ APLINKOS TERŠIMĄ ĮSTATYMO 11 STRAIPSNIO, 3 IR 4 PRIEDĖLIŲ PAKEITIMO
-
-ĮSTATYMAS
-
-Šis įstatymas
-
-įsigalioja nuo 2007 m.sausio 1 d.
-
-10.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-1438,
-
-2008-01-29, Žin., 2008, Nr. 18-631 (2008-02-12)
-
-MOKESČIO
-
-UŽ APLINKOS TERŠIMĄ ĮSTATYMO 1, 4, 7, 9, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-
-IR 1 PRIEDĖLIO PAKEITIMO ĮSTATYMAS
-
-Šio
-
-įstatymo 5 straipsnio 1 dalis ir 6 straipsnis įsigalioja 2010 m. sausio 1 d.
-
-11.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. XI-254,
-
-2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
-
-MOKESČIO UŽ
-
-APLINKOS TERŠIMĄ ĮSTATYMO 2, 5, 6, 7, 8, 9, 10 STRAIPSNIŲ IR 5 BEI 6 PRIEDĖLIŲ
-
-PAKEITIMO ĮSTATYMAS
-
-Šis įstatymas, išskyrus 10 straipsnį,
-
-įsigalioja 2010 m. sausio 1 d.
-
-*** Pabaiga ***
-
-Redagavo Aušrinė Trapinskienė (2009-05-27)
-
-autrap@lrs.lt
-
-* Išskyrus:
-
-kietąsias daleles,
-
-susidarančias deginant kietąjį, skystąjį arba dujinį kurą;
-
-asbesto turinčias
-
-kietąsias daleles.
-
-* Išskyrus:
-
-kietąsias
-
-daleles, susidarančias deginant kietąjį, skystąjį arba dujinį kurą;
-
-asbesto
-
-turinčias kietąsias daleles.
-
-7 straipsnis.
-
-Mokestinis laikotarpis
-
-1. Mokesčio už aplinkos teršimą
-
-iš stacionarių ir mobilių taršos šaltinių mokestinis laikotarpis yra:
-
-1)
-
-ketvirtis – fiziniams ir juridiniams asmenims, kuriems privalomas gamtos
-
-išteklių naudojimo leidimas, jei už praėjusius metus mokėtina mokesčio už
-
-aplinkos teršimą suma buvo lygi 10 tūkstančių litų arba didesnė;
-
-2)
-
-pusė metų – fiziniams ir juridiniams asmenims, kuriems neprivalomas gamtos
-
-išteklių naudojimo leidimas arba kurių už praėjusius metus mokėtina mokesčio už
-
-aplinkos teršimą suma buvo mažesnė kaip 10 tūkstančių litų.
-
-2. Mokesčio už aplinkos teršimą gaminių
-
-ar pakuotės atliekomis mokestinis laikotarpis yra kalendoriniai metai.
-
-3. Mokestis už aplinkos teršimą
-
-sumokamas ir mokesčio už aplinkos teršimą deklaracijos formos Aplinkos
-
-ministerijos įgaliotai institucijai ir Valstybinei mokesčių inspekcijai
-
-pateikiamos ne vėliau kaip per 60 dienų nuo mokestinio laikotarpio pabaigos.
-
-4. Pradedantys verstis savo
-
-veikla fiziniai ir juridiniai asmenys, kurie teršia iš stacionarių ir (ar)
-
-mobilių taršos šaltinių, mokestį už aplinkos teršimą pirmaisiais mokėjimo
-
-metais moka pasibaigus kalendoriniam pusmečiui.
-
-Straipsnio pakeitimai:
-
-Nr. X-152, 2005-03-31,
-
-Žin., 2005, Nr. 47-1560 (2005-04-12)
-
-8
-
-straipsnis. Mokesčio už aplinkos teršimą apskaita
-
-1.
-
-Fiziniai ir juridiniai asmenys, kurie pagal šį Įstatymą privalo mokėti mokestį
-
-už aplinkos teršimą, Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka
-
-tvarko teršalų išmetimo į aplinką apskaitą.
-
-2.
-
-Mokestis už aplinkos teršimą apskaičiuojamas ir mokamas Vyriausybės ar jos
-
-įgaliotų institucijų nustatyta tvarka.
-
-3.
-
-Mokestis už aplinkos teršimą iš stacionarių taršos šaltinių mokamas pagal
-
-faktiškai per ataskaitinį laikotarpį išmestą į aplinką teršalų kiekį, už
-
-teršimą iš mobilių taršos šaltinių (išskyrus lėktuvus) – pagal sunaudotą per
-
-ataskaitinį laikotarpį degalų kiekį, už teršimą iš lėktuvų – pagal pakilimo ir
-
-nusileidimo ciklų skaičių.
-
-4. Mokestis už
-
-aplinkos teršimą gaminių ir (ar) pakuotės atliekomis mokamas pagal faktiškai
-
-per ataskaitinį laikotarpį išleistą į Lietuvos Respublikos vidaus rinką
-
-apmokestinamųjų gaminių ir (ar) pripildytos gaminių apmokestinamosios pakuotės
-
-kiekį.
-
-5.
-
-Mokesčio už aplinkos teršimą mokėtojas yra atsakingas už ataskaitoje pateiktus
-
-duomenis.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. IX-1970,
-
-2004-01-22, Žin., 2004, Nr. 25-746 (2004-02-14)
-
-9
-
-straipsnis. Mokesčio už aplinkos teršimą mokėjimo kontrolė
-
-1.
-
-Aplinkos ministerija kontroliuoja teršalų išmetimo į aplinką apskaitą, tikrina
-
-mokesčio už aplinkos teršimą apskaičiavimą.
-
-2.
-
-Fiziniams ir juridiniams asmenims, kurie netvarko privalomos teršalų išmetimo į
-
-aplinką apskaitos, teršalų kiekis nustatomas pagal Vyriausybės ar jos įgaliotų
-
-institucijų patvirtintas metodikas.
-
-3.
-
-Už išmestą iš stacionarių taršos šaltinių normatyvus viršijantį teršalų kiekį
-
-ar nuslėptą teršalų ir (ar) apmokestinamųjų gaminių bei apmokestinamosios
-
-pakuotės kiekį mokestis už aplinkos teršimą mokamas taikant didesnį tarifą.
-
-4.
-
-Mokestis už aplinkos teršimą taikant didesnį tarifą apskaičiuojamas:
-
-1)
-
-normatyvus viršijantį ir (ar) nuslėptą teršalų kiekį, išmestą iš
-
-stacionarių taršos šaltinių, dauginant iš mokesčio už aplinkos teršimą iš
-
-stacionarių taršos šaltinių tarifo, pateikto šio Įstatymo 1 priedėlyje, ir iš
-
-mokesčio už aplinkos teršimą iš stacionarių taršos šaltinių tarifo koeficiento,
-
-nurodyto šio Įstatymo 2 priedėlyje;
-
-2)
-
-nuslėptą degalų kiekį, sunaudotą mobiliuose taršos šaltiniuose, dauginant iš
-
-mokesčio už aplinkos teršimą iš mobilių taršos šaltinių tarifo, nurodyto šio
-
-Įstatymo 5 priedėlyje, ir iš mokesčio už aplinkos teršimą iš mobilių taršos
-
-šaltinių tarifo koeficiento, nurodyto šio Įstatymo 6 priedėlyje;
-
-3)
-
-nuslėptą apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį dauginant
-
-iš tarifo, nurodyto šio Įstatymo 3 ar 4 priedėlyje, ir koeficiento 2.
-
-10
-
-straipsnis. Mokesčio sumokėjimas, išieškojimas ir paskirstymas
-
-1.
-
-Mokestis už aplinkos teršimą, išskyrus mokestį už aplinkos teršimą gaminių ar
-
-pakuotės atliekomis, paskirstomas taip:
-
-1)
-
-30 procentų mokama į valstybės biudžetą. Šios lėšos naudojamos pagal tikslinę
-
-paskirtį Lietuvos aplinkos apsaugos investicijų fondo programoje numatytiems
-
-aplinkos apsaugos investiciniams projektams finansuoti;
-
-2) 70 procentų mokama į savivaldybės, kurios
-
-teritorijoje yra taršos objektas, biudžetą. Šios lėšos naudojamos pagal
-
-tikslinę paskirtį Savivaldybių aplinkos apsaugos rėmimo specialiojoje
-
-programoje numatytoms priemonėms finansuoti.
-
-2.
-
-Mokestis už aplinkos teršimą gaminių ar pakuotės atliekomis mokamas į valstybės
-
-biudžetą. Šios lėšos naudojamos Atliekų tvarkymo įstatyme numatytiems Gaminių
-
-ar pakuotės atliekų tvarkymo programos tikslams įgyvendinti.
-
-3.
-
-Didesnio tarifo mokestis už aplinkos teršimą, kai jis taikomas už nuslėptą
-
-teršalų ir apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį, už
-
-normatyvus viršijantį teršalų kiekį, mokamas arba išieškomas iš pažeidėjo į
-
-valstybės biudžetą. Šios lėšos naudojamos Aplinkos apsaugos rėmimo programos
-
-įstatyme numatytiems tikslams įgyvendinti.
-
-4.
-
-Nesumokėtas mokestis už aplinkos teršimą sumokamas arba išieškomas,
-
-delspinigiai skaičiuojami, permokėta mokesčio suma grąžinama Mokesčių administravimo
-
-įstatymo nustatyta tvarka.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-IX-1608,
-
-2003-06-10, Žin., 2003, Nr. 61-2761 (2003-06-27)
-
-11
-
-straipsnis. Mokesčio tarifų galiojimo terminas
-
-1.
-
-Mokesčio už aplinkos teršimą tarifai, išskyrus mokesčio už aplinkos teršimą
-
-gaminių ir (ar) pakuotės atliekomis tarifus, galioja iki 2005 m. sausio 1 d.
-
-2.
-
-Kiekvienam kitam 5 metų periodui mokesčio už aplinkos teršimą tarifai, išskyrus
-
-mokesčio už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis tarifus,
-
-nustatomi atskiru įstatymu prieš 2 metus iki jų įsigaliojimo.
-
-3 dalies redakcija iki 2007 m. sausio 1
-
-d.:
-
-3.
-
-Mokesčio už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis tarifų
-
-maksimalus galiojimo terminas neribojamas, bet yra ne trumpesnis kaip vieneri
-
-metai. Tarifai gali būti keičiami ar papildomi ne vėliau kaip prieš vienerius
-
-metus iki jų įsigaliojimo.
-
-3 dalies redakcija nuo 2007 m. sausio 1
-
-d.:
-
-3. Mokesčio už
-
-aplinkos teršimą gaminių ir (ar) pakuotės atliekomis tarifų maksimalus
-
-galiojimo terminas neribojamas, bet yra ne trumpesnis kaip vieneri metai.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. X-516, 2006-03-16,
-
-Žin., 2006, Nr. 32-1111 (2006-03-23)
-
-12
-
-straipsnis. Pasiūlymai Vyriausybei
-
-Vyriausybė
-
-ar jos įgaliota institucija iki 2002 m. spalio 1 d. parengia ir patvirtina šiam
-
-Įstatymui įgyvendinti būtinus teisės aktus.
-
-Skelbiu šį Lietuvos Respublikos
-
-Seimo priimtą įstatymą.
-
-RESPUBLIKOS
-
-PREZIDENTAS                                                   VALDAS ADAMKUS
-
-Lietuvos
-
-Respublikos                                                                                                              2002
-
-m. sausio 22 d.
-
-įstatymo
-
-Nr. IX-720
-
-1
-
-priedėlis
-
-Mokesčio už
-
-aplinkos teršimą iš stacionarių taršos šaltinių tarifai 2005–2009 metų periodui
-
-(2003 m. balandžio 29 d. įstatymo Nr. IX-1547 1 priedėlis):
-
-MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ
-
-STACIONARIŲ TARŠOS ŠALTINIŲ TARIFAI
-
-I.
-
-Teršalai, išmetami į atmosferą
-
-Teršalai
-
-Mokesčio tarifai,
-
-Lt/t
-
-2005
-
-m.
-
-2006
-
-m.
-
-2007
-
-m.
-
-2008
-
-m.
-
-2009
-
-m.
-
-SO2
-
-311
-
-311
-
-311
-
-311
-
-311
-
-NOx
-
-587
-
-587
-
-587
-
-587
-
-587
-
-Vanadžio
-
-pentoksidas
-
-11 485
-
-11 485
-
-11 485
-
-11 485
-
-11 485
-
-Kietosios
-
-dalelės (organinės ir neorganinės)(*
-
-)
-
-184
-
-184
-
-184
-
-184
-
-184
-
-Teršalų grupės
-
-I
-
-1210
-
-1210
-
-1210
-
-1210
-
-1210
-
-II
-
-570
-
-570
-
-570
-
-570
-
-570
-
-III
-
-74
-
-74
-
-74
-
-74
-
-74
-
-IV
-
-13
-
-13
-
-13
-
-13
-
-13
-
-II. Teršalai, išmetami į vandens telkinius, žemės paviršių ir gilesnius jos
-
-sluoksnius
-
-Teršalai
-
-Mokesčio tarifai, Lt/t
-
-2005
-
-m.
-
-2006
-
-m.
-
-2007
-
-m.
-
-2008
-
-m.
-
-2009
-
-m.
-
-BDS7
-
-765
-
-765
-
-765
-
-765
-
-765
-
-Bendrasis
-
-azotas
-
-600
-
-600
-
-600
-
-600
-
-600
-
-Bendrasis
-
-fosforas
-
-3000
-
-3000
-
-3000
-
-3000
-
-3000
-
-Suspenduotos
-
-medžiagos
-
-309
-
-309
-
-309
-
-309
-
-309
-
-Sulfatai
-
-2
-
-2
-
-2
-
-2
-
-2
-
-Chloridai
-
-9
-
-9
-
-9
-
-9
-
-9
-
-Teršalų grupės
-
-I
-
-8700460
-
-8700460
-
-8700460
-
-8700460
-
-8700460
-
-II
-
-792710
-
-792710
-
-792710
-
-792710
-
-792710
-
-III
-
-129250
-
-129250
-
-129250
-
-129250
-
-129250
-
-IV
-
-29290
-
-29290
-
-29290
-
-29290
-
-29290
-
-V
-
-2871
-
-2871
-
-2871
-
-2871
-
-2871
-
-Lietuvos
-
-Respublikos                                                                                                              2002
-
-m. sausio 22 d.
-
-įstatymo
-
-Nr. IX-720
-
-2
-
-priedėlis
-
-MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ
-
-STACIONARIŲ TARŠOS ŠALTINIŲ TARIFŲ KOEFICIENTAI
-
-I. Teršalai, išmetami į atmosferą
-
-Teršalai
-
-Koeficientai
-
-SO2
-
-1,5
-
-NOx
-
-1,5
-
-Vanadžio
-
-pentoksidas
-
-300
-
-Kietosios
-
-dalelės (organinės ir neorganinės)(*
-
-)
-
-1,5
-
-Teršalų grupės
-
-I
-
-300
-
-II
-
-50
-
-III
-
-30
-
-IV
-
-1,5
-
-II. Teršalai, išmetami į vandens telkinius, žemės
-
-paviršių ir gilesnius jos sluoksnius
-
-Teršalai
-
-Koeficientai
-
-BDS7
-
-10
-
-Bendrasis
-
-azotas
-
-5
-
-Bendrasis
-
-fosforas
-
-10
-
-Suspenduotos
-
-medžiagos
-
-1,5
-
-Sulfatai
-
-1,5
-
-Chloridai
-
-1,5
-
-Teršalų grupės
-
-I
-
-100
-
-II
-
-50
-
-III
-
-10
-
-IV
-
-5
-
-V
-
-2
-
-3
-
-priedėlio redakcija iki 2007 m. sausio 1 d.:
-
-Lietuvos Respublikos
-
-2002
-
-m. sausio 22 d.
-
-įstatymo
-
-Nr. IX-720
-
-3
-
-priedėlis
-
-(Lietuvos
-
-Respublikos
-
-2005
-
-m. kovo 31 d.
-
-įstatymo
-
-Nr. X-152 redakcija)
-
-APMOKESTINAMŲJŲ GAMINIŲ SĄRAŠAS
-
-IR MOKESČIO TARIFAI
-
-Gaminys
-
-Kodas(1)
-
-Tarifas
-
-1.      Padangos, sveriančios daugiau
-
-kaip 3 kg:
-
-1.1.
-
-naujos
-
-ex40.11
-
-0,30
-
-Lt už 1 kg
-
-1.2.
-
-restauruotos
-
-ex40.12
-
-0,30
-
-Lt už 1 kg
-
-1.3.
-
-naudotos
-
-ex40.12
-
-0,36
-
-Lt už 1 kg
-
-2.
-
-Akumuliatoriai,
-
-naudojami
-
-transporto
-
-priemonėse
-
-ex85.07
-
-0,50
-
-Lt už 1 kg
-
-3.
-
-Gyvsidabrio
-
-lempos
-
-8539.32.10
-
-15%
-
-lempos didmeninės kainos
-
-4.
-
-Galvaniniai
-
-elementai ir akumuliatoriai, išskyrus nurodytus 2 punkte
-
-8506.30;
-
-ex85.07
-
-4%
-
-didmeninės kainos
-
-5.
-
-Vidaus
-
-degimo variklių degalų arba tepalų filtrai
-
-8421.23
-
-1 Lt
-
-už vienetą
-
-6.
-
-Vidaus
-
-degimo variklių įsiurbimo oro filtrai
-
-8421.31
-
-1 Lt
-
-už vienetą
-
-7.
-
-Automobilių
-
-hidrauliniai (tepaliniai) amortizatoriai
-
-8708.80
-
-3 Lt
-
-už vienetą
-
-¹ Prekių kodai pateikti pagal
-
-Europos Bendrijos kombinuotosios nomenklatūros versiją, patvirtintą 2003 m.
-
-rugsėjo 11 d. Komisijos reglamentu (EB) Nr. 1789/2003, iš dalies keičiančiu
-
-Tarybos reglamento (EEB) Nr. 2658/87 dėl tarifų ir statistinės prekių
-
-nomenklatūros bei dėl bendrojo muitų tarifo I priedą.
-
-3
-
-priedėlio redakcija nuo 2007 m. sausio 1 d.:
-
-Lietuvos
-
-Respublikos
-
-1999
-
-m. gegužės 13 d.
-
-įstatymo
-
-Nr. VIII-1183
-
-3
-
-priedėlis
-
-(Lietuvos
-
-Respublikos
-
-2006
-
-m. kovo 16 d.
-
-įstatymo
-
-Nr. X-516 redakcija)
-
-APMOKESTINAMŲJŲ GAMINIŲ
-
-SĄRAŠAS IR MOKESČIO TARIFAI
-
-Gaminys
-
-Kodas(1)
-
-Tarifas
-
-1.
-
-Padangos, sveriančios daugiau kaip 3 kg:
-
-1.1.
-
-naujos
-
-ex40.11
-
-0,30
-
-Lt už 1 kg
-
-1.2.
-
-restauruotos
-
-ex40.12
-
-0,30
-
-Lt už 1 kg
-
-1.3.
-
-naudotos
-
-ex40.12
-
-0,36
-
-Lt už 1 kg
-
-2.
-
-Akumuliatoriai
-
-85.07
-
-0,50
-
-Lt už 1 kg
-
-3.
-
-Galvaniniai elementai
-
-85.06
-
-0,50
-
-Lt už 1 kg
-
-4.
-
-Vidaus degimo variklių degalų arba tepalų filtrai
-
-8421.23
-
-1
-
-Lt už vienetą
-
-5.
-
-Vidaus degimo variklių įsiurbimo oro filtrai
-
-8421.31
-
-1
-
-Lt už vienetą
-
-6.
-
-Automobilių hidrauliniai (tepaliniai) amortizatoriai
-
-8708.80
-
-3
-
-Lt už vienetą
-
-¹ Prekių kodai
-
-pateikti pagal Europos Bendrijos kombinuotosios nomenklatūros versiją,
-
-patvirtintą 2003 m. rugsėjo 11 d. Komisijos reglamentu (EB) Nr. 1789/2003, iš
-
-dalies keičiančiu Tarybos reglamento (EEB) Nr. 2658/87 dėl tarifų ir statistinės
-
-prekių nomenklatūros bei dėl bendrojo muitų tarifo I priedą.
-
-Priedėlio pakeitimai:
-
-Nr. IX-1547,
-
-2003-04-29, Žin., 2003, Nr. 48-2108 (2003-05-15)
-
-Nr. X-152, 2005-03-31,
-
-Žin., 2005, Nr. 47-1560 (2005-04-12)
-
-Nr. X-516, 2006-03-16,
-
-Žin., 2006, Nr. 32-1111 (2006-03-23)
-
-4 priedėlio redakcija iki 2007 m.
-
-sausio 1 d.:
-
-Lietuvos
-
-Respublikos
-
-2002
-
-m. sausio 22 d.
-
-įstatymo
-
-Nr. IX-720
-
-4
-
-priedėlis
-
-(Lietuvos
-
-Respublikos
-
-2005
-
-m. kovo 31 d.
-
-įstatymo
-
-Nr. X-152 redakcija)
-
-APMOKESTINAMOSIOS PAKUOTĖS RŪŠYS IR MOKESČIO TARIFAI
-
-Pakuotės
-
-rūšys
-
-Tarifai
-
-1.
-
-Stiklinė
-
-pakuotė
-
-0,09
-
-Lt/kg pakuotės svorio
-
-2.
-
-Plastmasinė
-
-pakuotė
-
-1,8
-
-Lt/kg pakuotės svorio
-
-3.
-
-Kombinuota
-
-pakuotė
-
-2
-
-Lt/kg pakuotės svorio
-
-4.
-
-Metalinė
-
-pakuotė
-
-2,60
-
-Lt/kg pakuotės svorio
-
-5.
-
-Popierinė
-
-ir kartoninė  pakuotė
-
-0,1
-
-Lt/kg pakuotės svorio
-
-6.
-
-Kita
-
-pakuotė
-
-0,2
-
-Lt/kg pakuotės svorio“
-
-4
-
-priedėlio redakcija nuo 2007 m. sausio 1 d.:
-
-Lietuvos
-
-Respublikos
-
-1999
-
-m. gegužės 13 d.
-
-įstatymo
-
-Nr. VIII-1183
-
-4
-
-priedėlis
-
-(Lietuvos
-
-Respublikos
-
-2006
-
-m. kovo 16 d.
-
-įstatymo
-
-Nr. X-516 redakcija)
-
-APMOKESTINAMOSIOS PAKUOTĖS
-
-RŪŠYS IR MOKESČIO TARIFAI
-
-Pakuotės rūšys
-
-Tarifai
-
-Stiklinė
-
-pakuotė
-
-0,2
-
-Lt/kg pakuotės svorio
-
-Plastikinė
-
-pakuotė
-
-1,8
-
-Lt/kg pakuotės svorio
-
-PET
-
-(polietileno tereftalatas) pakuotė
-
-2,0
-
-Lt/kg pakuotės svorio
-
-Kombinuota
-
-pakuotė
-
-2
-
-Lt/kg pakuotės svorio
-
-Metalinė
-
-pakuotė
-
-2,60
-
-Lt/kg pakuotės svorio
-
-Popierinė
-
-ir kartoninė pakuotė
-
-0,1
-
-Lt/kg pakuotės svorio
-
-Kita
-
-pakuotė
-
-0,2
-
-Lt/kg pakuotės svorio
-
-Priedėlio pakeitimai:
-
-Nr. X-152, 2005-03-31,
-
-Žin., 2005, Nr. 47-1560 (2005-04-12)
-
-Nr. X-516, 2006-03-16,
-
-Žin., 2006, Nr. 32-1111 (2006-03-23)
-
-Lietuvos
-
-Respublikos
-
-2002
-
-m. sausio 22 d.
-
-įstatymo
-
-Nr. IX-720
-
-5
-
-priedėlis
-
-Mokesčio už
-
-aplinkos teršimą iš mobilių taršos šaltinių tarifai 2005–2009 metų periodui
-
-(2003 m. balandžio 29 d. įstatymo Nr. IX-1547 2 priedėlis):
-
-MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ
-
-MOBILIŲ TARŠOS ŠALTINIŲ
-
-TARIFAI
-
-Transporto
-
-Kuro rūšis
-
-Mokesčio tarifai, Lt/t/(ciklą)
-
-priemonėms
-
-arba ciklas
-
-2005
-
-m.
-
-2006
-
-m.
-
-2007
-
-m.
-
-2008
-
-m.
-
-2009
-
-m.
-
-1.
-
-Motorinėms
-
-benzinas
-
-21
-
-21
-
-21
-
-21
-
-21
-
-transporto
-
-dyzelinas
-
-22
-
-22
-
-22
-
-22
-
-22
-
-priemonėms
-
-su vidaus degimo
-
-suskystintos
-
-naftos dujos
-
-20
-
-20
-
-20
-
-20
-
-20
-
-varikliais
-
-suslėgtos
-
-gamtinės dujos
-
-16
-
-16
-
-16
-
-16
-
-16
-
-2.
-
-Laivams
-
-benzinas
-
-32
-
-32
-
-32
-
-32
-
-32
-
-dyzelinas
-
-34
-
-34
-
-34
-
-34
-
-34
-
-mazutas,
-
-kurio sieringumas £0,5%
-
-8
-
-8
-
-8
-
-8
-
-8
-
-mazutas,
-
-kurio sieringumas nuo 0,5% iki 1,5%
-
-14
-
-14
-
-14
-
-14
-
-14
-
-mazutas,
-
-kurio sieringumas nuo 1,5% iki 2,5%
-
-20
-
-20
-
-20
-
-20
-
-20
-
-3.
-
-Geležinkelių transporto priemonėms
-
-dyzelinas
-
-26
-
-26
-
-26
-
-26
-
-26
-
-4.
-
-Lėktuvų pakilimo ir nusileidimo ciklui
-
-už
-
-vieną ciklą
-
-5
-
-5
-
-5
-
-5
-
-5
-
-Lietuvos
-
-Respublikos
-
-2002
-
-m. sausio 22 d.
-
-įstatymo
-
-Nr. IX-720
-
-6
-
-priedėlis
-
-MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ
-
-MOBILIŲ TARŠOS ŠALTINIŲ TARIFŲ KOEFICIENTAI
-
-Transporto priemonėms
-
-Kuro rūšis arba ciklas
-
-Koeficientas
-
-1. Motorinėms
-
-transporto priemonėms
-
-su vidaus degimo
-
-varikliais
-
-benzinas
-
-1,5
-
-dyzelinas
-
-6
-
-suskystintos
-
-naftos dujos
-
-1,5
-
-suslėgtos
-
-gamtinės dujos
-
-1,5
-
-2. Laivams
-
-benzinas
-
-2
-
-dyzelinas
-
-6
-
-mazutas,
-
-kurio sieringumas £0,5%
-
-2
-
-mazutas,
-
-kurio sieringumas nuo 0,5% iki 1,5%
-
-3
-
-mazutas,
-
-kurio sieringumas nuo 1,5% iki 2,5%
-
-3
-
-3. Geležinkelių transporto priemonėms
-
-dyzelinas
-
-4
-
-4. Lėktuvų pakilimo ir nusileidimo ciklui
-
-už
-
-vieną ciklą
-
-4
-
-__________________
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-2027, 2000 10 12, Žin., 2000, Nr.
-
-90-2774 (2000 10 27)
-
-MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis įstatymas
-
-įsigalioja nuo 2001 m. sausio 1 d.
-
-2.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. IX-720,
-
-2002-01-22, Žin., 2002, Nr. 13-474 (2002-02-06)
-
-MOKESČIO UŽ APLINKOS TERŠIMĄ
-
-ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Šis Įstatymas, išskyrus 12
-
-straipsnį, įsigalioja nuo 2003 m. sausio 1 d.
-
-Nauja įstatymo redakcija
-
-3.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. IX-1265,
-
-2002-12-10, Žin., 2002, Nr. 123-5550 (2002-12-24)
-
-MOKESČIO UŽ APLINKOS TERŠIMĄ PAKEITIMO
-
-ĮSTATYMO 1 STRAIPSNIU PAKEISTO MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO 5
-
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis Įstatymas įsigalioja nuo 2003
-
-m. sausio 1 d.
-
-4.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1547,
-
-2003-04-29, Žin., 2003, Nr. 48-2108 (2003-05-15)
-
-MOKESČIO
-
-UŽ APLINKOS TERŠIMĄ ĮSTATYMO 5 STRAIPSNIO IR 3 PRIEDĖLIO PAKEITIMO BEI 11
-
-STRAIPSNIO 2 DALIES ĮGYVENDINIMO ĮSTATYMAS
-
-Šis Įstatymas, išskyrus 1 ir 2
-
-straipsnius, įsigalioja nuo 2005 m. sausio 1 d.
-
-5.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. IX-1608,
-
-2003-06-10, Žin., 2003, Nr. 61-2761 (2003-06-27)
-
-MOKESČIO
-
-UŽ APLINKOS TERŠIMĄ ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis
-
-Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
-
-6.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1970,
-
-2004-01-22, Žin., 2004, Nr. 25-746 (2004-02-14)
-
-MOKESČIO
-
-UŽ APLINKOS TERŠIMĄ ĮSTATYMO 2, 5, 8 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-
-ĮSTATYMAS
-
-Šio Įstatymo 1,
-
-2 ir 3 straipsnių nuostatos taikomos apskaičiuojant 2004 metų mokestį už
-
-aplinkos teršimą.
-
-7.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-2139,
-
-2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
-
-ĮMONIŲ
-
-IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR
-
-PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ
-
-ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO,
-
-MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS
-
-BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis
-
-Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
-
-8.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-152,
-
-2005-03-31, Žin., 2005, Nr. 47-1560 (2005-04-12)
-
-MOKESČIO
-
-UŽ APLINKOS TERŠIMĄ ĮSTATYMO 2, 5, 7 STRAIPSNIŲ IR 3, 4 PRIEDĖLIŲ PAPILDYMO IR
-
-PAKEITIMO ĮSTATYMAS
-
-Šio
-
-8 straipsnis.
-
-Mokesčio už aplinkos teršimą apskaita
-
-1. Fiziniai ir
-
-juridiniai asmenys, kurie pagal šį Įstatymą privalo mokėti mokestį už aplinkos
-
-teršimą, Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka tvarko
-
-teršalų išmetimo į aplinką apskaitą.
-
-2. Mokestis už
-
-aplinkos teršimą apskaičiuojamas ir mokamas Vyriausybės ar jos įgaliotų
-
-institucijų nustatyta tvarka.
-
-3. Mokestis už
-
-aplinkos teršimą iš stacionarių taršos šaltinių mokamas pagal faktiškai per
-
-ataskaitinį laikotarpį išmestą į aplinką teršalų kiekį, už teršimą iš mobilių
-
-taršos šaltinių (išskyrus lėktuvus) – pagal sunaudotą per ataskaitinį
-
-laikotarpį degalų kiekį, už teršimą iš lėktuvų – pagal pakilimo ir nusileidimo
-
-ciklų skaičių.
-
-4. Mokestis už
-
-aplinkos teršimą gaminių ir (ar) pakuotės atliekomis mokamas pagal faktiškai
-
-per ataskaitinį laikotarpį pagamintą ar importuotą į Lietuvos Respubliką
-
-apmokestinamųjų gaminių ir (ar) pripildytos gaminių apmokestinamosios pakuotės
-
-kiekį.
-
-5. Mokesčio už
-
-aplinkos teršimą mokėtojas yra atsakingas už ataskaitoje pateiktus duomenis.
 
 9 straipsnis.
 
