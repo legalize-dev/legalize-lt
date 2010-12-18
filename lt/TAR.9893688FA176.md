@@ -4,7 +4,7 @@ identifier: "TAR.9893688FA176"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-07-10"
-last_updated: "2003-07-01"
+last_updated: "2010-12-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9893688FA176"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2001-07-10"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos geriamojo vandens įstatymas
+
+Suvestinė redakcija nuo 2010-12-18 iki 2015-08-31
+
+Įstatymas paskelbtas: Žin. 2001, Nr. 64-2327, i. k. 1011010ISTA00IX-433
 
 LIETUVOS RESPUBLIKOS
 
@@ -36,6 +40,12 @@ BENDROSIOS NUOSTATOS
 2. Šis įstatymas reglamentuoja pagrindines valstybės, savivaldybės institucijų, vandens tiekėjų ir vandens vartotojų funkcijas ir santykius, susijusius su geriamojo vandens gavyba, tiekimu, naudojimu, individualiu apsirūpinimu juo bei geriamojo vandens saugos ir kokybės kontrole.
 
 3. Geriamojo vandens naudojimo kitokiems, negu nurodyta šio straipsnio 1 dalyje, tikslams tvarką nustato kiti teisės aktai.
+
+4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktų, nurodytų įstatymo priede, nuostatomis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -71,7 +81,11 @@ BENDROSIOS NUOSTATOS
 
 13. Geriamojo vandens teršalai - bet kokios kilmės medžiagos, įskaitant naudojamas ruošiant geriamąjį vandenį, parazitai, patogeniniai mikroorganizmai, jų toksinai, trąšos, pesticidai, jų sudėtinės dalys ar skilimo produktai, radioaktyvieji izotopai ar kitos medžiagos, kurie būdami geriamajame vandenyje gali turėti neigiamų pasekmių žmogaus sveikatai ir pakenkti vandens saugai.
 
-14. Geriamojo vandens tiekėjai – teisės aktų nustatyta tvarka Lietuvos Respublikoje įregistravę savo veiklą vandens išteklių, vandens tiekimo ar fasavimo įrenginių naudotojai, kurie ruošdami vandenį keičia jo savybes ir tiekia geriamąjį vandenį vartotojams, įskaitant geriamąjį vandenį naudojančias maisto įmones, arba dalyvauja fasuojant geriamąjį vandenį ir jį tiekiant į rinką.
+14. Geriamojo vandens tiekėjas – Europos Sąjungos valstybės narės ir Europos ekonominės erdvės valstybės (toliau – valstybė narė) pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktų jam suteiktomis judėjimo valstybėse narėse teisėmis, turintis teisę gyventi Lietuvos Respublikoje, arba Lietuvos Respublikoje įsteigtas juridinis asmuo ar jo padalinys, taip pat valstybės narės juridinio asmens ar kitos organizacijos padalinys, įsteigti Lietuvos Respublikoje, tiekiantys geriamąjį vandenį vartotojams arba dalyvaujantys fasuojant geriamąjį vandenį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
 
 15. Geriamojo vandens tiekimas – techninių, organizacinių, ekonominių, higienos ir aplinkosaugos priemonių visuma, užtikrinanti vandens tiekimą geriamojo vandens vartotojams.
 
@@ -96,6 +110,18 @@ BENDROSIOS NUOSTATOS
 25. Geriamojo vandens viešasis tiekimas – ūkinė komercinė veikla, skirta nepertraukiamai vandentiekio skirstomuoju tinklu, tankais ar cisternomis geriamąjį vandenį tiekti gyvenamajai vietovei, jos daliai ar grupei vandens vartotojų daugiau kaip 60 parų per metus. Viešajam tiekimui priskiriama ir nekomercinė veikla, kai geriamuoju vandeniu apsirūpinama individualiai, jeigu vandens tiekimo įrenginiais per parą patiekiama daugiau kaip 10 m3 vandens arba vanduo tiekiamas 50 ir daugiau asmenų.
 
 26. Įvadas – pirma vamzdyno atkarpa, jungianti pagal vandens tekėjimo kryptį viešojo vandens tiekimo skirstomąjį tinklą su vartotojui priklausančio pastato ar teritorijos vidaus tinklais.
+
+27. Geriamojo vandens tiekimo objekto teritorija – geografiškai apibrėžta teritorija, kurioje žmonėms vartoti skirtas vanduo tiekiamas iš vieno ar daugiau vandens tiekimo šaltinių ir kurioje vandens kokybė gali būti laikoma beveik vienoda.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
+
+28. Nukrypti leidžianti nuostata (išlyga) – leidimas ribotą laikotarpį viešai tiekti geriamąjį vandenį, kurio vienas ar keli toksiniai (cheminiai) rodikliai viršija teisės aktuose nustatytas ribines rodiklių vertes.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
 
 3 straipsnis. Fizinių ir juridinių asmenų aprūpinimo geriamuoju vandeniu bendrieji principai
 
@@ -155,13 +181,17 @@ GERIAMOJO VANDENS TIEKIMAS
 
 3. Įrengiant ir eksploatuojant geriamojo vandens individualaus tiekimo sistemas, turi būti laikomasi teisės aktų nustatytų reikalavimų.
 
-7 straipsnis. Geriamojo vandens naudojimas maisto įmonėse
+7 straipsnis. Geriamojo vandens naudojimas maisto įmonėse ir visuomeniniuose pastatuose
 
-1. Vandens tiekėjai, tiekiantys geriamąjį vandenį maisto įmonėms, turi užtikrinti nepertraukiamą jo tiekimą. Už geriamojo vandens saugą ir kokybę jie atsako iki įvadų į maisto įmonėms priklausančių pastatų vidaus vandentiekį.
+1. Geriamojo vandens tiekėjai, tiekiantys geriamąjį vandenį maisto įmonėms ir visuomeniniams pastatams, turi užtikrinti nepertraukiamą jo tiekimą.
 
-2. Teikiamam į rinką maistui tvarkyti geriamąjį vandenį naudojančios maisto įmonės atsako už geriamojo vandens saugą ir kokybę jiems priklausančių pastatų vidaus vandentiekyje.
+2. Tiekiamam į rinką maistui tvarkyti geriamąjį vandenį naudojančios maisto įmonės atsako už geriamojo vandens saugą ir kokybę jiems priklausančių pastatų vidaus vandentiekyje.
 
-3. Geriamojo vandens tiekėjai, tiekiantys geriamąjį vandenį maisto įmonėms, turi stebėti ir prižiūrėti ūkio subjektų naudojamus vandens išteklius Aplinkos monitoringo įstatyme nustatyta tvarka ir saugoti vandens šaltinius nuo teršimo.
+3. Už visuomeninių pastatų vidaus vandentiekyje esančio geriamojo vandens saugą ir kokybę atsako jų steigėjai (savininkai). Jie atlieka geriamojo vandens programinę priežiūrą sveikatos apsaugos ministro nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
 
 8 straipsnis. Geriamojo vandens ruošimo priemonės
 
@@ -169,7 +199,11 @@ GERIAMOJO VANDENS TIEKIMAS
 
 2. Viešai tiekiamo geriamojo vandens ruošimo technologija turi būti pritaikyta konkrečioms vandens savybėms, atsižvelgiant į vietos hidrologines, hidrogeologines ir hidrochemines sąlygas.
 
-3. Draudžiama viršyti viešai tiekiamo geriamojo vandens mikrobiologinius, toksinius ir kitus taršos rodiklius motyvuojant, kad vartotojai dar turi galimybę užtikrinti vandens saugą individualiomis priemonėmis.
+3. Draudžiama viršyti viešai tiekiamo geriamojo vandens mikrobiologinius, toksinius (cheminius) ir kitus taršos rodiklius motyvuojant, kad vartotojai dar turi galimybę užtikrinti vandens saugą individualiomis priemonėmis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
 
 4. Individualių techninių geriamojo vandens ruošimo priemonių gamintojai, taip pat tiekėjai ir pardavėjai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo teikti vartotojams informaciją apie tokių priemonių naudojimo sąlygas, būdus, saugos garantijas, atsižvelgiant į ruošiamo vandens savybes, priemonės patikimumą ir veikimo laiką.
 
@@ -197,37 +231,29 @@ GERIAMOJO VANDENS SAUGOS IR KOKYBĖS
 
 PRIEŽIŪRA BEI KONTROLĖ
 
-10 straipsnis. Geriamojo vandens saugos ir kokybės kriterijai, jų taikymo vietos ir leidžiami nukrypimai
+10 straipsnis. Geriamojo vandens saugos ir kokybės kriterijai, jų taikymo vietos ir nukrypti leidžiančios nuostatos (išlygos)
 
 1. Teisės aktų nustatytus saugos ir kokybės reikalavimus geriamasis vanduo turi atitikti ten, iš kur jis imamas naudoti: pastatų vidaus vandentiekio čiaupuose, vandens kolonėlėse, talpyklų vandeniui gabenti ištakiuose, fasavimo į prekinę tarą ir naudojimo maisto įmonėse vietose.
 
-2. Laikinai nukrypti nuo teisės aktų reikalaujamų viešai tiekiamo geriamojo vandens kokybės rodiklių gali leisti savivaldybės meras, suderinęs su Valstybine maisto ir veterinarijos tarnyba prie Lietuvos Respublikos Vyriausybės (toliau – maisto kontrolės institucija) ir apie tai iš anksto pranešęs geriamojo vandens vartotojams, jeigu:
+2. Laikinai nukrypti nuo teisės aktų reikalaujamų viešai tiekiamo geriamojo vandens kokybės rodiklių gali leisti savivaldybės vykdomoji institucija, suderinusi su Valstybine maisto ir veterinarijos tarnyba (toliau – valstybinė maisto kontrolės institucija) ir apie tai iš anksto pranešusi geriamojo vandens vartotojams, jeigu:
 
-1) dėl to nepablogėja vandens mikrobiologiniai ir toksiniai rodikliai;
+1) dėl to nepablogėja vandens mikrobiologiniai ir toksiniai (cheminiai) rodikliai;
 
-2) nukrypimai priklauso nuo pastovių vietos gamtinių veiksnių (hidrogeologinių, hidrologinių, meteorologinių ir t.t.) arba atsirado dėl ekstremalių situacijų.
+2) nukrypimai priklauso nuo pastovių vietos gamtinių veiksnių (hidrogeologinių, hidrologinių, meteorologinių ir t. t.) arba atsirado dėl ekstremaliųjų situacijų.
 
-3. Išimtiniais atvejais, jeigu nėra kitokių būdų aprūpinti gyvenamąją vietovę ar jos dalį kokybišku geriamuoju vandeniu ir jeigu Sveikatos apsaugos ministerija nustato, kad nekils potencialus pavojus žmonių sveikatai, savivaldybės meras, pranešęs maisto kontrolės institucijai, gali leisti ribotą laiką viešai tiekti geriamąjį vandenį, kurio toksiniai rodikliai viršija teisės aktuose nustatytuosius. Apie tokį savo sprendimą savivaldybės meras turi nedelsdamas pranešti geriamojo vandens vartotojams. Sveikatos apsaugos ministerijai meras turi pateikti prašymą ir šiuos papildomus duomenis:
+3. Jeigu tam tikroje teritorijoje viešai tiekiamas geriamasis vanduo negali būti tiekiamas jokiais kitais priimtinais būdais, savivaldybės vykdomoji institucija gali leisti ribotą laikotarpį viešai tiekti geriamąjį vandenį, kurio vienas ar keli toksiniai (cheminiai) rodikliai viršija teisės aktuose nustatytus toksinius (cheminius) rodiklius, jeigu sveikatos apsaugos ministro įgaliota institucija nustato, kad tokia nukrypti leidžianti nuostata (išlyga) nekelia potencialaus pavojaus žmonių sveikatai. Nukrypti leidžianti nuostata (išlyga) taikoma (daroma) kuo trumpesnį laiką, ne ilgiau kaip trejus metus, kuriems baigiantis sveikatos apsaugos ministro įgaliota institucija atlieka patikrinimą ir nustato, ar pasiekta pakankama pažanga. Jeigu ketinama antrą kartą taikyti (daryti) nukrypti leidžiančią nuostatą (išlygą), sveikatos apsaugos ministro įgaliota institucija perduoda Europos Komisijai patikrinimo medžiagą ir nurodo savo sprendimo antrą kartą taikyti (daryti) nukrypti leidžiančią nuostatą (išlygą) motyvus. Nukrypti leidžianti nuostata (išlyga) antrą kartą netaikoma (nedaroma) ilgiau kaip trejus metus. Išskirtinėmis aplinkybėmis, gavusi savivaldybės vykdomosios institucijos prašymą, sveikatos apsaugos ministro įgaliota institucija gali prašyti Europos Komisijos leisti trečią kartą taikyti (daryti) nukrypti leidžiančią nuostatą (išlygą) ir taikyti ją ne ilgiau kaip trejus metus. Sprendimą dėl tokio prašymo Europos Komisija priima per tris mėnesius. Nukrypti leidžiančios nuostatos (išlygos) netaikomos (nedaromos) geriamajam vandeniui, kuris tiekiamas prekybai buteliuose ar kitoje taroje.
 
-1) toksinio rodiklio viršijimo priežastis;
+4. Jeigu valstybinė maisto kontrolės institucija nustato, kad toksinio (cheminio) rodiklio ribinės vertės neatitiktis yra nereikšminga ir jeigu būtinų geriamojo vandens kokybės atkuriamųjų veiksmų, kurių buvo imtasi, pakanka susidariusiai padėčiai ištaisyti per 30 dienų, nebūtina taikyti šio straipsnio 3 dalies reikalavimų. Tokiu atveju valstybinė maisto kontrolės institucija, suderinusi su sveikatos apsaugos ministro įgaliota institucija, nustato tik didžiausią leistiną tam tikrą toksinio (cheminio) rodiklio ribinę vertę ir laikotarpį, kuris reikalingas susidariusiai padėčiai ištaisyti. Tačiau jeigu per paskutiniuosius dvylika mėnesių geriamojo vandens, tiekiamo tam tikroje geriamojo vandens tiekimo objekto teritorijoje, bet kurios toksinio (cheminio) rodiklio ribinės vertės buvo nesilaikoma iš viso daugiau kaip 30 dienų, šios dalies nuostatų taikyti nebegalima.
 
-2) siūlomą laikinąjį leidžiamą rodiklio dydį;
+5. Savivaldybės vykdomoji institucija, pasinaudojusi šiame straipsnyje nurodytomis nukrypti leidžiančiomis nuostatomis (išlygomis), užtikrina, kad gyventojai, kuriems turi įtakos kiekviena tokia nukrypti leidžianti nuostata (išlyga), būtų greitai ir tinkamai informuojami apie tą nukrypti leidžiančią nuostatą (išlygą) ir jos taikymo sąlygas, kad tam tikroms gyventojų grupėms, kurioms minėtos nukrypti leidžiančios nuostatos (išlygos) taikymas (darymas) galėtų kelti ypač didelę riziką, būtų duodami reikiami patarimai. Šie įpareigojimai netaikomi šio straipsnio 4 dalyje aprašytomis sąlygomis.
 
-3) konkrečią geriamojo vandens tiekimo objekto teritoriją (jos dalį), vandenį naudojančių gyventojų skaičių ir maisto įmonių sąrašą bei per parą patiekiamo vandens kiekį;
-
-4) siūlomą riboto laiko trukmę;
-
-5) siūlomą programinės priežiūros tvarką;
-
-6) priemonių, kurių būtina imtis, kad per ribotą laiką būtų grįžta prie teisės aktų nustatyto toksinio rodiklio dydžio, kalendorinį ir finansinį planą.
-
-4. Ribotas laikas neturi trukti ilgiau kaip 3 metus, išskyrus atvejus, numatytus šio straipsnio 5 dalyje. Vyriausybės įgaliota institucija ribotam laikui nustato laikinuosius leidžiamus toksinių rodiklių dydžius, jų programinės priežiūros tvarką ir paties laikotarpio trukmę. Jeigu nustatoma, kad prie nustatyto toksinio rodiklio dydžio bus grįžta ne vėliau kaip per 30 dienų, šio straipsnio 3 dalies reikalavimas pateikti papildomus duomenis netaikomas.
-
-5. Savivaldybės meras šio straipsnio 3 ir 4 dalyse nustatyta tvarka gali leisti du kartus pratęsti leidimą viešai tiekti geriamąjį vandenį, kurio faktiški toksinių rodiklių dydžiai viršija teisės aktuose nustatytuosius. Kiekvienas toks pratęsimas negali būti ilgesnis kaip 3 metai.
-
-6. Maisto kontrolės institucija įstatymuose, tarptautinėse sutartyse ir kituose teisės aktuose nustatyta tvarka per du mėnesius turi pranešti Europos Komisijai apie kiekvieną leidimą viešai tiekti geriamąjį vandenį, kurio toksiniai rodikliai viršija leidžiamus dydžius, jei vandens tiekimo teritorijai per parą patiekiama vidutiniškai daugiau kaip 1000 m3 vandens arba jei tokiu vandeniu aprūpinama daugiau kaip 5000 asmenų.
+6. Sveikatos apsaugos ministro įgaliota institucija per du mėnesius praneša Europos Komisijai apie visas nukrypti leidžiančias nuostatas (išlygas), taikomas (daromas) kiekvienai individualiai geriamojo vandens tiekimo objekto teritorijai, tiekiančiai vidutiniškai daugiau kaip 1 000 kubinių metrų geriamojo vandens per parą arba geriamuoju vandeniu aprūpinančiai daugiau kaip 5 000 asmenų, išskyrus nukrypti leidžiančias nuostatas (išlygas), taikomas (daromas) vadovaujantis šio straipsnio 4 dalimi, ir pateikia Europos Komisijai teisės aktuose nustatytą informaciją.
 
 7. Vyriausybės įgaliota institucija parengia ir tvirtina pesticidų, jų skilimo produktų ir kitų galinčių užteršti geriamąjį vandenį kenksmingų cheminių medžiagų, kurias reikia stebėti valstybinio, savivaldybių ir ūkio subjektų aplinkos monitoringo metu, sąrašą.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
 
 11 straipsnis. Geriamojo vandens programinė priežiūra
 
@@ -235,55 +261,79 @@ PRIEŽIŪRA BEI KONTROLĖ
 
 2. Viešai tiekiamo ir maisto įmonėse naudojamo vandens programinę priežiūrą turi atlikti geriamojo vandens tiekėjai.
 
-3. Viešai tiekiantys geriamąjį vandenį vartotojams vandentiekio skirstomuoju tinklu vandens tiekėjai tiekiamo vandens programinę priežiūrą atlieka iki vandens vartojimo vietų: vandens vartotojams priklausančių pastatų vidaus vandentiekio čiaupų, vandens kolonėlių ir vandens naudojimo maisto įmonėse vietų. Programinė priežiūra atliekama pasirinktinai Vyriausybės nustatyta tvarka.
+3. Viešai tiekiantys geriamąjį vandenį vartotojams vandentiekio skirstomuoju tinklu geriamojo vandens tiekėjai tiekiamo geriamojo vandens programinę priežiūrą atlieka iki vandens vartojimo vietų: geriamojo vandens vartotojams priklausančių pastatų vidaus vandentiekio čiaupų, vandens kolonėlių ir vandens naudojimo maisto įmonėse vietų. Geriamojo vandens programinė priežiūra atliekama Vyriausybės nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
 
 4. Viešai tiekiantys geriamąjį vandenį vartotojams iš talpyklų vandens tiekėjai tiekiamo vandens programinę priežiūrą atlieka šių talpyklų ištakiuose.
 
 5. Geriamojo vandens tiekėjai, tiekiantys geriamąjį vandenį tik maisto įmonėms, vandens programinę priežiūrą atlieka iki vandens naudojimo maisto įmonėse vietų.
 
-6. Programinę priežiūrą atliekantys vandens tiekėjai turi nedelsdami pranešti vartotojams ir maisto kontrolės institucijai apie vandens saugos ir kokybės blogėjimą vartotojams priklausančių pastatų vidaus vandentiekyje, to priežastis ir veiksmus, kurių vartotojai turi imtis, kad geriamasis vanduo atitiktų teisės aktų nustatytus saugos ir kokybės reikalavimus.
+6. Geriamojo vandens programinę priežiūrą atliekantys geriamojo vandens tiekėjai turi nedelsdami pranešti vartotojams ir valstybinei maisto kontrolės institucijai apie vandens saugos ir kokybės blogėjimą geriamojo vandens vartotojams priklausančių pastatų vidaus vandentiekyje, to priežastis ir veiksmus, kurių vartotojai turi imtis, kad geriamasis vanduo atitiktų teisės aktų nustatytus saugos ir kokybės reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
 
 7. Vandens telkinių, kurie naudojami arba numatomi naudoti geriamajam vandeniui tiekti, vandens saugos ir kokybės kontrolė atliekama Žemės gelmių ir Aplinkos monitoringo įstatymuose nustatyta tvarka.
 
-8. Vandens tiekėjai, atsižvelgdami į geriamajam vandeniui tiekti naudojamo vandens saugą ir kokybę, vandens ruošimo technologijas, vandens tiekimo įrenginių būklę, rengia ir kasmet tikslina geriamojo vandens programinės priežiūros planus ir derina juos su maisto kontrolės institucija.
+8. Geriamojo vandens tiekėjai, atsižvelgdami į geriamajam vandeniui tiekti naudojamo vandens saugą ir kokybę, nustatomus ir registruojamus geriamojo vandens saugos ir kokybės rodiklius, geriamojo vandens ruošimo technologijas, geriamojo vandens tiekimo įrenginių būklę, rengia ir kasmet tikslina geriamojo vandens programinės priežiūros planus ir derina juos su valstybine maisto kontrolės institucija.
 
-9. Vandens tiekėjai programinės priežiūros metines ataskaitas per vieną mėnesį po ataskaitinio laikotarpio pabaigos turi pateikti savivaldybės merui ir maisto kontrolės institucijai, o apie programinės priežiūros rezultatus viešai pranešti geriamojo vandens vartotojams.
+Straipsnio dalies pakeitimai:
 
-10. Maisto kontrolės institucija įstatymuose, tarptautinėse sutartyse ir kituose teisės aktuose nustatyta tvarka kas 3 metai turi pateikti Europos Komisijai ataskaitą apie Lietuvos Respublikos gyventojų vartojamo geriamojo vandens saugą ir kokybę.
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
 
-11. Vandens tiekėjai privalo nustatytais terminais raštu pranešti maisto kontrolės institucijai ir vandens vartotojams (jei tai numatyta sutartyje), kai:
+9. Geriamojo vandens tiekėjai geriamojo vandens programinės priežiūros metines ataskaitas per vieną mėnesį po ataskaitinio laikotarpio pabaigos turi pateikti savivaldybės vykdomajai institucijai ir valstybinei maisto kontrolės institucijai, o apie geriamojo vandens programinės priežiūros rezultatus viešai pranešti geriamojo vandens vartotojams.
 
-1) vandens tiekimo arba vandens fasavimo įrenginiai pradedami eksploatuoti pirmą kartą ar po pertraukos arba jų dalis buvo pakeista ir tai gali pabloginti vandens saugą ir kokybę;
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
+
+10. Valstybinė maisto kontrolės institucija įstatymuose, tarptautinėse sutartyse ir kituose teisės aktuose nustatyta tvarka kas treji metai turi pateikti Europos Komisijai Lietuvos Respublikos gyventojų vartojamo geriamojo vandens saugos ir kokybės ataskaitą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
+
+11. Geriamojo vandens tiekėjai privalo nustatytais terminais raštu pranešti valstybinei maisto kontrolės institucijai ir geriamojo vandens vartotojams (jeigu tai nurodyta sutartyje), kai:
+
+1) vandens tiekimo arba vandens fasavimo įrenginiai pradedami eksploatuoti pirmą kartą ar po pertraukos arba jų dalis buvo pakeista ir tai gali pabloginti geriamojo vandens saugą ir kokybę;
 
 2) vandens tiekimo arba vandens fasavimo įrenginių nuosavybės ar naudojimo teisė pereina kitam juridiniam ar fiziniam asmeniui;
 
 3) vandens tiekimo arba vandens fasavimo įrenginiai laikinai sustabdomi;
 
-4) blogėja geriamojo vandens mikrobiologiniai ar (ir) toksiniai rodikliai vaikų ugdymo, sveikatos priežiūros, viešojo maitinimo įstaigose ar maisto įmonėse arba dėl vandentiekio avarijų sutrinka geriamojo vandens tiekimas šiems objektams;
+4) blogėja geriamojo vandens mikrobiologiniai ar (ir) toksiniai (cheminiai) rodikliai vaikų ugdymo, sveikatos priežiūros, viešojo maitinimo įstaigose ar maisto įmonėse arba dėl vandentiekio avarijų sutrinka geriamojo vandens tiekimas šiems objektams;
 
-5) keičiamos ar pradedamos naudoti naujo tipo vandens ruošimo priemonės;
+5) keičiamos ar pradedamos naudoti naujo tipo geriamojo vandens ruošimo priemonės;
 
 6) išaiškėja vandens teršimo vandentiekio skirstomajame tinkle požymiai, ypatingi įvykiai sanitarinėse apsaugos zonose ar vandenviečių mitybos srityse;
 
 7) atliekami profilaktikos darbai, galintys turėti įtakos geriamojo vandens saugai ir kokybei.
 
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
+
 12 straipsnis. Valstybinė geriamojo vandens kontrolė
 
-1. Maisto kontrolės institucija atlieka valstybinę geriamojo vandens saugos ir kokybės kontrolę, apie jos rezultatus kasmet praneša Sveikatos apsaugos ministerijai ir skelbia viešai teisės aktų nustatyta tvarka. Įgyvendindami šiuos uždavinius, maisto kontrolės institucijos įgalioti pareigūnai turi teisę:
+1. Valstybinė maisto kontrolės institucija atlieka valstybinę geriamojo vandens saugos ir kokybės kontrolę, apie jos rezultatus kiekvienais metais praneša Sveikatos apsaugos ministerijai ir skelbia viešai teisės aktų nustatyta tvarka. Įgyvendindami šiuos uždavinius, valstybinės maisto kontrolės institucijos įgalioti pareigūnai turi teisę:
 
-1) įeiti į vandens tiekimo ir maisto įmonių teritoriją, patalpas, padalinius, sanitarines apsaugos zonas, juos tikrinti, imti bandinius (taip pat ir fasuoto vandens), reikalauti visų reikalingų dokumentų ir juos tikrinti, daryti jų išrašus ar kopijas;
+1) įeiti į vandens tiekimo ir maisto įmonių bei visuomeninių pastatų teritoriją, patalpas, padalinius, sanitarines apsaugos zonas, juos tikrinti, imti bandinius (taip pat ir fasuoto vandens), reikalauti visų reikalingų dokumentų ir juos tikrinti, daryti jų išrašus ar kopijas;
 
-2) kontroliuoti, kaip vandens tiekėjai vykdo šio įstatymo 11 straipsnyje nustatytus reikalavimus;
+2) kontroliuoti, kaip geriamojo vandens tiekėjai vykdo šio įstatymo 11 straipsnyje nustatytus reikalavimus;
 
-3) jeigu reikia dėl visuomenės sveikatos saugos interesų, duoti nurodymus, kad vandens tiekėjai išplėstų programinės priežiūros metu kontroliuojamų vandens rodiklių skalę, pakeistų jų tyrimo dažnumą.
+3) jeigu reikia dėl visuomenės sveikatos saugos interesų, duoti nurodymus, kad geriamojo vandens tiekėjai išplėstų geriamojo vandens programinės priežiūros metu kontroliuojamų vandens rodiklių skalę, pakeistų jų tyrimo dažnumą.
 
-2. Valstybinė geriamojo vandens kontrolė atliekama vadovaujantis teisės aktais be išankstinio įspėjimo reguliariai pagal iš anksto sudarytas programas (kuriose numatytas tikrinimų dažnumas ir kontrolės pobūdis), taip pat įtarus, kad gali būti pažeisti šio įstatymo bei kitų teisės aktų reikalavimai, o metodai turi būti tinkami kontrolės tikslui. Valstybinės geriamojo vandens kontrolės atlikimo tvarką nustato maisto kontrolės institucija.
+2. Valstybinė geriamojo vandens kontrolė atliekama vadovaujantis teisės aktais be išankstinio įspėjimo reguliariai pagal iš anksto sudarytas programas (kuriose nustatytas tikrinimų dažnumas ir kontrolės pobūdis), taip pat įtarus, kad gali būti pažeisti šio įstatymo ir kitų teisės aktų reikalavimai, o metodai turi būti tinkami kontrolės tikslui. Valstybinės geriamojo vandens kontrolės atlikimo tvarką nustato valstybinė maisto kontrolės institucija.
 
-3. Į valstybinę geriamojo vandens kontrolę įeina visi geriamojo vandens saugos ir kokybės užtikrinimo etapai (nuo vandens viešajam tiekimui ir individualiam apsirūpinimui skirtų geriamojo vandens šaltinių saugos tikrinimo iki vandens naudojimo gyvenamuosiuose, viešuose pastatuose (ypač vaikų ugdymo, sveikatos priežiūros, viešojo maitinimo įstaigose ar maisto įmonėse) vietų, taip pat fasuoto vandens tiekimas į rinką):
+3. Į valstybinę geriamojo vandens kontrolę įeina visi geriamojo vandens saugos ir kokybės užtikrinimo etapai (nuo vandens viešajam tiekimui ir individualiam apsirūpinimui skirtų geriamojo vandens šaltinių saugos tikrinimo iki vandens naudojimo gyvenamuosiuose, viešuose pastatuose (ypač vaikų ugdymo, sveikatos priežiūros, viešojo maitinimo įstaigose ar maisto įmonėse) vietų, taip pat fasuoto vandens tiekimas rinkai):
 
 1) vandenviečių sanitarinių apsaugos zonų tikrinimas;
 
-2) centralizuotų ir individualių techninių geriamojo vandens ruošimo priemonių ir besiliečiančių su geriamuoju vandeniu medžiagų saugaus naudojimo tikrinimas;
+2) centralizuotų ir individualių techninių geriamojo vandens ruošimo priemonių ir susiliečiančių su geriamuoju vandeniu medžiagų saugaus naudojimo tikrinimas;
 
 3) vandenviečių, vandens tiekimo įrenginių, vandens ruošimo procesų tikrinimas;
 
@@ -293,15 +343,19 @@ PRIEŽIŪRA BEI KONTROLĖ
 
 6) gyventojų rizikos grupių nustatymas, dalyvavimas vykdant visuomenės sveikatos kontrolę ir monitoringą;
 
-7) geriamojo vandens saugos ir kokybės Lietuvos Respublikoje metinių ataskaitų rengimas bei skelbimas;
+7) geriamojo vandens saugos ir kokybės Lietuvos Respublikoje metinių ataskaitų rengimas ir skelbimas;
 
-8) gyventojų aprūpinimo geriamuoju vandeniu ir vartojamo vandens saugos ir kokybės ataskaitų, skirtų Europos Komisijai, rengimas įstatymų, tarptautinių sutarčių ir kitų teisės aktų nustatyta tvarka.
+8) gyventojų aprūpinimo geriamuoju vandeniu ir vartojamo geriamojo vandens saugos ir kokybės ataskaitų, teikiamų Europos Komisijai, rengimas įstatymų, tarptautinių sutarčių ir kitų teisės aktų nustatyta tvarka.
 
-4. Nustačiusi šio įstatymo ar kitų teisės aktų reikalavimų pažeidimus, maisto kontrolės institucija privalo imtis teisės aktų nustatytų priemonių, kad nebūtų viešai tiekiamas arba individualiai naudojamas geriamasis vanduo, keliantis potencialų pavojų žmonių sveikatai, ir apie tai pranešti Sveikatos apsaugos ministerijai.
+4. Nustačiusi šio įstatymo ar kitų teisės aktų reikalavimų pažeidimus, valstybinė maisto kontrolės institucija privalo imtis teisės aktų nustatytų priemonių, kuriomis remiantis geriamojo vandens tiekimo veikla sustabdoma ar uždraudžiama, kad nebūtų viešai tiekiamas arba individualiai naudojamas geriamasis vanduo, keliantis potencialų pavojų žmonių sveikatai, ir apie tai praneša Sveikatos apsaugos ministerijai.
 
-5. Maisto kontrolės institucija turi užtikrinti individualiai naudojamo geriamojo vandens saugos ir kokybės kontrolę ir kitas teisės aktuose numatytas higienos priemones, įskaitant individualiai apsirūpinančių geriamuoju vandeniu gyventojų informavimą, jei per geriamąjį vandenį plinta ar gali plisti užkrečiamosios ligos arba jei atsiranda vandens cheminio užteršimo pavojus.
+5. Valstybinė maisto kontrolės institucija turi užtikrinti individualiai naudojamo geriamojo vandens saugos ir kokybės kontrolę ir kitas teisės aktuose nustatytas higienos priemones, įskaitant individualiai apsirūpinančių geriamuoju vandeniu gyventojų informavimą, jeigu per geriamąjį vandenį plinta ar gali plisti užkrečiamosios ligos arba jeigu atsiranda geriamojo vandens cheminio užteršimo pavojus.
 
-6. Kitų valstybės institucijų bei visuomeninių vartotojų teisių gynimo organizacijų kompetenciją įgyvendinant gyventojų teisę vartoti geriamąjį vandenį nustato Vandens, Žemės gelmių, Aplinkos monitoringo, Sveikatos sistemos, Produktų saugos, Maisto, Vartotojų teisių gynimo įstatymai ir kiti teisės aktai.
+6. Kitų valstybės institucijų bei visuomeninių vartotojų teisių gynimo organizacijų kompetenciją įgyvendinant gyventojų teisę vartoti geriamąjį vandenį nustato Vandens įstatymas, Žemės gelmių įstatymas, Aplinkos monitoringo įstatymas, Sveikatos sistemos įstatymas, Produktų saugos įstatymas, Maisto įstatymas, Vartotojų teisių apsaugos įstatymas ir kiti teisės aktai.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
 
 13 straipsnis. Geriamojo vandens šaltinių apsauga ir sanitarinės apsaugos zonos
 
@@ -340,4 +394,28 @@ Vyriausybė ar jos įgaliota institucija iki 2003 m. liepos 1 d. priima šiam į
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Lietuvos Respublikos
+
+geriamojo vandens įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 1998 m. lapkričio 3 d. Europos Tarybos direktyva 98/83/EB dėl žmonėms vartoti skirto vandens kokybės (OL 2004 m. specialusis leidimas, 15 skyrius 4 tomas, p. 32).
+
+Papildyta priedu:
+
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
+
+Lietuvos Respublikos geriamojo vandens įstatymo 1, 2, 7, 8, 10, 11, 12 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas
 
