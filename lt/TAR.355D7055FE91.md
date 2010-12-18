@@ -4,7 +4,7 @@ identifier: "TAR.355D7055FE91"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-07-15"
-last_updated: "2010-06-29"
+last_updated: "2010-12-18"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.355D7055FE91"
 department: "Lietuvos Respublikos Seimas"
@@ -859,35 +859,35 @@ paduoda vidaus reikalų ministrui ar jo įgaliotai institucijai arba konsulinei
 
 suteikti Lietuvos Respublikos pilietybę pagal šio įstatymo 12 straipsnį
 
-pridedami šie dokumentai: asmens tapatybę patvirtinančio dokumento nuorašas;
+pridedami šie dokumentai: asmens tapatybę patvirtinančio dokumento nuorašas; gimimo
 
-gimimo liudijimo nuorašas; dokumentas, patvirtinantis teisę nuolat gyventi
+liudijimo nuorašas; dokumentas, patvirtinantis teisę nuolat gyventi Lietuvos
 
-Lietuvos Respublikoje šio prašymo pateikimo metu; dokumentas, patvirtinantis,
+Respublikoje šio prašymo pateikimo metu; dokumentas, patvirtinantis, kad asmuo
 
-kad asmuo gyvena Lietuvos Respublikos teritorijoje pastaruosius 10 metų;
+gyvena Lietuvos Respublikos teritorijoje pastaruosius 10 metų; dokumentas,
 
-dokumentas, patvirtinantis, kad asmuo turi teisėtą pragyvenimo šaltinį;
+patvirtinantis, kad asmuo turi teisėtą pragyvenimo šaltinį; dokumentas,
 
-dokumentas, patvirtinantis, kad asmuo išlaikė valstybinės kalbos ir Lietuvos
+patvirtinantis, kad asmuo išlaikė valstybinės kalbos ir Lietuvos Respublikos
 
-Respublikos Konstitucijos pagrindų egzaminus. Prie prašymo suteikti Lietuvos
+Konstitucijos pagrindų egzaminus. Prie prašymo suteikti Lietuvos Respublikos
 
-Respublikos pilietybę pagal šio įstatymo 14 straipsnį pridedami šie dokumentai:
+pilietybę pagal šio įstatymo 14 straipsnį pridedami šie dokumentai: asmens
 
-asmens tapatybę patvirtinančio dokumento nuorašas; gimimo liudijimo nuorašas;
+tapatybę patvirtinančio dokumento nuorašas; gimimo liudijimo nuorašas;
 
 santuokos liudijimo nuorašas; sutuoktinio Lietuvos Respublikos pilietybę
 
-patvirtinančio dokumento nuorašas; dokumento, patvirtinančio, kad asmuo yra tremtinys
+patvirtinančio dokumento nuorašas; dokumento, patvirtinančio, kad asmuo yra
 
-ar politinis kalinys, nuorašas, jei dėl Lietuvos Respublikos pilietybės
+tremtinys ar politinis kalinys, nuorašas, jei dėl Lietuvos Respublikos
 
-suteikimo asmuo kreipiasi pagal šio įstatymo 14 straipsnio 2 dalį; sutuoktinio
+pilietybės suteikimo asmuo kreipiasi pagal šio įstatymo 14 straipsnio 2 dalį;
 
-mirties liudijimo nuorašas, jei dėl Lietuvos Respublikos pilietybės suteikimo
+sutuoktinio mirties liudijimo nuorašas, jei dėl Lietuvos Respublikos pilietybės
 
-asmuo kreipiasi pagal šio įstatymo 14 straipsnio 3 dalį; dokumentas,
+suteikimo asmuo kreipiasi pagal šio įstatymo 14 straipsnio 3 dalį; dokumentas,
 
 patvirtinantis teisę nuolat gyventi Lietuvos Respublikoje šio prašymo pateikimo
 
@@ -929,31 +929,35 @@ straipsnio 3 dalies 1 ir 2 punktuose.
 
 patvirtinantys, kad asmuo iki 1940 m. birželio 15 d. turėjo Lietuvos pilietybę,
 
-yra: išlikę Lietuvos Respublikos vidaus ar užsienio pasai, išduoti iki 1940 m. birželio 15 d.; Lietuvos Respublikos užsienio pasai, išduoti Lietuvos Respublikos diplomatinių
+yra: išlikę Lietuvos Respublikos vidaus ar užsienio pasai, išduoti iki 1940 m. birželio 15 d.; Lietuvos Respublikos užsienio pasai, išduoti Lietuvos Respublikos
 
-atstovybių ar konsulinių įstaigų po 1940 m. birželio 15 d.; dokumentai apie tarnybą Lietuvos kariuomenėje ar darbą valstybės tarnyboje; gimimo liudijimai
+diplomatinių atstovybių ar konsulinių įstaigų po 1940 m. birželio 15 d.; dokumentai apie tarnybą Lietuvos kariuomenėje ar darbą valstybės tarnyboje;
 
-arba kiti dokumentai, kuriuose tiesiogiai nurodyta apie turėtą Lietuvos
+gimimo liudijimai arba kiti dokumentai, kuriuose tiesiogiai nurodyta apie
 
-pilietybę; asmens liudijimai, išduoti pagal dokumentus, išduotus iki 1940 m. birželio 15 d. Lietuvoje. Jeigu šių dokumentų nėra, gali būti pateikiami: dokumentai apie
+turėtą Lietuvos pilietybę; asmens liudijimai, išduoti pagal dokumentus,
 
-mokymąsi, darbą, gyvenimą Lietuvoje iki 1940 m. birželio 15 d.; priesaikinis pareiškimas, patvirtintas notaro arba konsulinės įstaigos pareigūno; užsienio
+išduotus iki 1940 m. birželio 15 d. Lietuvoje. Jeigu šių dokumentų nėra, gali
 
-valstybės paso patvirtintas nuorašas ir kiti dokumentai. Lietuvių kilmę
+būti pateikiami: dokumentai apie mokymąsi, darbą, gyvenimą Lietuvoje iki 1940 m. birželio 15 d.; priesaikinis pareiškimas, patvirtintas notaro arba konsulinės įstaigos
 
-patvirtina dokumentai, įrodantys, kad asmens tėvai ar seneliai, vienas iš tėvų
+pareigūno; užsienio valstybės paso patvirtintas nuorašas ir kiti dokumentai.
 
-ar senelių yra ar buvo lietuviai, taip pat asmens rašytinis pareiškimas,
+Lietuvių kilmę patvirtina dokumentai, įrodantys, kad asmens tėvai ar seneliai,
 
-kuriame jis pripažįsta save lietuviu. Jeigu nėra pakankamai dokumentų,
+vienas iš tėvų ar senelių yra ar buvo lietuviai, taip pat asmens rašytinis
 
-įrodančių asmens iki 1940 m. birželio 15 d. turėtą Lietuvos pilietybę arba
+pareiškimas, kuriame jis pripažįsta save lietuviu. Jeigu nėra pakankamai
 
-patvirtinančių lietuvių kilmę, šis klausimas gali būti svarstomas Lietuvos
+dokumentų, įrodančių asmens iki 1940 m. birželio 15 d. turėtą Lietuvos
 
-Respublikos Vyriausybės sudarytoje Komisijoje Lietuvos Respublikos pilietybės
+pilietybę arba patvirtinančių lietuvių kilmę, šis klausimas gali būti
 
-klausimams nagrinėti arba šie duomenys nustatomi teismo tvarka.
+svarstomas Lietuvos Respublikos Vyriausybės sudarytoje Komisijoje Lietuvos
+
+Respublikos pilietybės klausimams nagrinėti arba šie duomenys nustatomi teismo
+
+tvarka.
 
 5. Prie prašymo
 
@@ -965,11 +969,11 @@ asmeniui Lietuvos Respublikos pilietybę patvirtinantys dokumentai nebuvo
 
 išduoti, pateikiamas dokumentas, išduotas migracijos tarnybos arba konsulinės
 
-įstaigos, patvirtinantis, kad asmuo yra Lietuvos Respublikos pilietis ir dėl Lietuvos
+įstaigos, patvirtinantis, kad asmuo yra Lietuvos Respublikos pilietis ir dėl
 
-Respublikos pilietybę patvirtinančio dokumento gavimo nesikreipė); turimo
+Lietuvos Respublikos pilietybę patvirtinančio dokumento gavimo nesikreipė);
 
-asmens dokumento, išduoto užsienio valstybės institucijos, nuorašas;
+turimo asmens dokumento, išduoto užsienio valstybės institucijos, nuorašas;
 
 dokumentai, patvirtinantys asmens gyvenamąją vietą, arba jų nuorašai. Jeigu
 
@@ -1079,13 +1083,13 @@ suteikti Lietuvos Respublikos pilietybę ar ją grąžinti pagal šio įstatymo 
 
 straipsnio 1 dalį, taip pat prašymai suteikti Lietuvos Respublikos pilietybę
 
-išimties tvarka paduodami Respublikos Prezidentui. Prašymus suteikti ar grąžinti
+išimties tvarka paduodami Respublikos Prezidentui. Prašymus suteikti ar
 
-Lietuvos Respublikos pilietybę asmenys pateikia per migracijos tarnybą, o
+grąžinti Lietuvos Respublikos pilietybę asmenys pateikia per migracijos
 
-prašymus suteikti Lietuvos Respublikos pilietybę išimties tvarka – Respublikos
+tarnybą, o prašymus suteikti Lietuvos Respublikos pilietybę išimties tvarka –
 
-Prezidentui tiesiogiai.
+Respublikos Prezidentui tiesiogiai.
 
 13. Prašymai
 
@@ -1119,9 +1123,9 @@ Prezidentas, vidaus reikalų ministras ar jo įgaliota institucija arba užsieni
 
 reikalų ministras ar jo įgaliota institucija turi teisę iš Lietuvos Respublikos
 
-valstybės ir savivaldybių institucijų bei įstaigų gauti informaciją, kurios
+valstybės ir savivaldybių institucijų bei įstaigų gauti informaciją, kurios reikia
 
-reikia šiame įstatyme nurodytiems sprendimams priimti.
+šiame įstatyme nurodytiems sprendimams priimti.
 
 23
 
@@ -1153,11 +1157,11 @@ ministeriją, jeigu tokių aplinkybių nebuvo tikrinusi dokumentus dėl Lietuvos
 
 Respublikos pilietybės suteikimo ar jos grąžinimo pagal šio įstatymo 20
 
-straipsnio 1 dalį rengusi institucija. Jeigu Komisija nusprendžia, gali būti
+straipsnio 1 dalį rengusi institucija. Jeigu Komisija nusprendžia, gali būti kreipiamasi
 
-kreipiamasi į Lietuvos gyventojų genocido ir rezistencijos tyrimo centrą dėl
+į Lietuvos gyventojų genocido ir rezistencijos tyrimo centrą dėl informacijos
 
-informacijos apie aplinkybes, nurodytas šio įstatymo 13 straipsnyje, gavimo.
+apie aplinkybes, nurodytas šio įstatymo 13 straipsnyje, gavimo.
 
 3. Komisijos posėdžiai yra teisėti, kai
 
@@ -1189,9 +1193,9 @@ pilietybės priėmimas ir įgyvendinimas
 
 1. Lietuvos
 
-Respublikos pilietybę suteikia, ją grąžina pagal šio įstatymo 20 straipsnio 1 dalį
+Respublikos pilietybę suteikia, ją grąžina pagal šio įstatymo 20 straipsnio 1
 
-Respublikos Prezidentas ir dėl to leidžia dekretus. Respublikos Prezidento
+dalį Respublikos Prezidentas ir dėl to leidžia dekretus. Respublikos Prezidento
 
 dekretas dėl Lietuvos Respublikos pilietybės grąžinimo pagal šio įstatymo 20
 
@@ -1205,21 +1209,19 @@ dėl Lietuvos Respublikos pilietybės suteikimo, jos grąžinimo pasirašo ir vi
 
 reikalų ministras.
 
-2. Jeigu nustatoma, kad asmuo įgijo
+2. Jeigu nustatoma, kad asmuo įgijo kitos
 
-kitos valstybės pilietybę, išskyrus asmenis, nurodytus šio įstatymo 18
+valstybės pilietybę, išskyrus asmenis, nurodytus šio įstatymo 18 straipsnio 2
 
-straipsnio 2 dalyje, ar kad Lietuvos Respublikos pilietis tarnauja kitos
+dalyje, ar kad Lietuvos Respublikos pilietis tarnauja kitos valstybės karo
 
-valstybės karo tarnyboje arba dirba ne Europos Sąjungos valstybės narės
+tarnyboje arba dirba ne Europos Sąjungos valstybės narės valstybės tarnyboje
 
-valstybės tarnyboje neturėdamas Lietuvos Respublikos Vyriausybės leidimo,
+neturėdamas Lietuvos Respublikos Vyriausybės leidimo, vidaus reikalų ministras
 
-vidaus reikalų ministras ar jo įgaliota institucija priima sprendimą dėl
+ar jo įgaliota institucija priima sprendimą dėl Lietuvos Respublikos pilietybės
 
-Lietuvos Respublikos pilietybės netekimo pagal šio įstatymo 18 straipsnio 1
-
-dalies 2 ar 4 punktą.
+netekimo pagal šio įstatymo 18 straipsnio 1 dalies 2 ar 4 punktą.
 
 3. Sprendimus dėl
 
@@ -1307,13 +1309,13 @@ asmenų prašymai suteikti Lietuvos Respublikos pilietybę ar ją grąžinti pag
 
 ankstesnio sprendimo priėmimo.
 
-2. Asmenys, neprisiekę
+2. Asmenys,
 
-Lietuvos Respublikai per šio įstatymo 15 straipsnio 1 dalyje nustatytą terminą,
+neprisiekę Lietuvos Respublikai per šio įstatymo 15 straipsnio 1 dalyje
 
-prašymą ir dokumentus dėl Lietuvos Respublikos pilietybės suteikimo pateikia
+nustatytą terminą, prašymą ir dokumentus dėl Lietuvos Respublikos pilietybės
 
-pakartotinai šio įstatymo nustatyta tvarka.
+suteikimo pateikia pakartotinai šio įstatymo nustatyta tvarka.
 
 28
 
@@ -1411,7 +1413,7 @@ straipsnis. Įstatymo galiojimas
 
 Šis įstatymas
 
-galioja iki 2011 m. sausio 1 d.
+galioja iki 2011 m. balandžio 1 d.
 
 Straipsnio
 
@@ -1426,6 +1428,10 @@ Nr.
 XI-910,
 
 2010-06-18, Žin., 2010, Nr. 75-3794 (2010-06-29)
+
+Nr. XI-1207,
+
+2010-12-07, Žin., 2010, Nr. 148-7570 (2010-12-18)
 
 Skelbiu šį
 
@@ -1467,13 +1473,23 @@ PILIETYBĖS
 
 ĮSTATYMO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-***
+3.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas, Įstatymas
 
-Redagavo
+Nr. XI-1207,
 
-Aušra Bodin (2010-06-29)
+2010-12-07, Žin., 2010, Nr. 148-7570 (2010-12-18)
 
-aubodi@lrs.lt
+PILIETYBĖS ĮSTATYMO PAKEITIMO ĮSTATYMO 3
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2010-12-20)
+
+autrap@lrs.lt
 
