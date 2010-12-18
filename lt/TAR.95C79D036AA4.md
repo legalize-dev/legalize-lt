@@ -4,7 +4,7 @@ identifier: "TAR.95C79D036AA4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2010-06-01"
+last_updated: "2010-12-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.95C79D036AA4"
 department: "Lietuvos Respublikos Seimas"
@@ -6013,9 +6013,9 @@ aspektais:
 
 1) imasi priemonių,
 
-kad įmonės statiniai, kuriuose įrengtos darbo vietos, pačios darbo vietos, darbo
+kad įmonės statiniai, kuriuose įrengtos darbo vietos, pačios darbo vietos,
 
-priemonės, darbo aplinka atitiktų darbuotojų saugos ir sveikatos norminių
+darbo priemonės, darbo aplinka atitiktų darbuotojų saugos ir sveikatos norminių
 
 teisės aktų nustatytus reikalavimus;
 
@@ -6035,19 +6035,19 @@ priemonių parengimą ir įgyvendinimą;
 
 3) pagal darbuotojų
 
-saugos ir sveikatos būklę įmonėje sprendžia, kokias kolektyvines saugos
+saugos ir sveikatos būklę įmonėje sprendžia, kokias kolektyvines saugos priemones
 
-priemones naudoti, organizuoja kolektyvinių apsaugos priemonių įrengimą ir,
+naudoti, organizuoja kolektyvinių apsaugos priemonių įrengimą ir, jeigu jos
 
-jeigu jos nepakankamai apsaugo darbuotojus nuo rizikos, darbuotojus aprūpina
+nepakankamai apsaugo darbuotojus nuo rizikos, darbuotojus aprūpina asmeninėmis
 
-asmeninėmis apsaugos priemonėmis, organizuoja tokių priemonių patikrinimus,
+apsaugos priemonėmis, organizuoja tokių priemonių patikrinimus, aprūpina
 
-aprūpina darbuotojus saugiomis darbo priemonėmis, diegia saugius darbo bei
+darbuotojus saugiomis darbo priemonėmis, diegia saugius darbo bei technologijos
 
-technologijos procesus, darboviečių vietose, kur galima rizika, įrengia saugos
+procesus, darboviečių vietose, kur galima rizika, įrengia saugos ženklus,
 
-ženklus, įrengia buities, sanitarines ir asmens higienos patalpas;
+įrengia buities, sanitarines ir asmens higienos patalpas;
 
 4) užtikrina,
 
@@ -6119,6 +6119,10 @@ arba sveikatos priežiūros įstaigos, patikrinusios darbuotojų sveikatą, išv
 
 Valstybinei darbo inspekcijai apie įmonės, jos padalinių eksploatavimo pradžią;
 
+11 punktas netenka galios nuo 2011 m.
+
+kovo 1 d.
+
 12)
 
 vadovaudamasis Vyriausybės patvirtintais Nelaimingų atsitikimų darbe tyrimo ir
@@ -6131,11 +6135,11 @@ atsitikimus darbe, profesines ligas atitinkamoms valstybės institucijoms,
 
 sudaro sąlygas tirti nelaimingus atsitikimus darbe ir profesines ligas;
 
-13)
+13) kontroliuoja,
 
-kontroliuoja, kaip darbuotojai laikosi darbuotojų saugos ir sveikatos norminių
+kaip darbuotojai laikosi darbuotojų saugos ir sveikatos norminių teisės aktų
 
-teisės aktų reikalavimų,
+reikalavimų,
 
 įmonėje
 
@@ -6143,13 +6147,15 @@ nustatyta tvarka nušalina nuo darbo darbuotojus, kurie nesilaiko darbuotojų
 
 saugos ir sveikatos reikalavimų;
 
-14) Nelaimingų atsitikimų
+14) Nelaimingų
 
-darbe tyrimo ir apskaitos nuostatų bei Profesinių ligų tyrimo ir apskaitos
+atsitikimų darbe tyrimo ir apskaitos nuostatų bei Profesinių ligų tyrimo ir
 
-nuostatų nustatyta tvarka organizuoja arba paveda darbdavio įgaliotam asmeniui
+apskaitos nuostatų nustatyta tvarka organizuoja arba paveda darbdavio įgaliotam
 
-organizuoti nelaimingų atsitikimų darbe ir profesinių ligų registravimą;
+asmeniui organizuoti nelaimingų atsitikimų darbe ir profesinių ligų
+
+registravimą;
 
 15) paveda
 
@@ -6178,6 +6184,10 @@ Straipsnio pakeitimai:
 Nr. X-1169, 2007-06-07, Žin., 2007, Nr.
 
 69-2720 (2007-06-23)
+
+Nr. XI-1202,
+
+2010-12-02, Žin., 2010, Nr. 148-7567 (2010-12-18)
 
 26 straipsnis. Darbdaviui atstovaujančio asmens,
 
@@ -6289,9 +6299,9 @@ mokymą vadovaudamosi šio Įstatymo 12 straipsnio 2 dalyje nurodytais Mokymo ir
 
 atestavimo darbuotojų saugos ir sveikatos klausimais bendraisiais nuostatais.
 
-Darbuotojų instruktavimo ir mokymo tvarką įmonėje nustato darbdaviui
+Darbuotojų instruktavimo ir mokymo tvarką įmonėje nustato darbdaviui atstovaujantis
 
-atstovaujantis asmuo.
+asmuo.
 
 2. Darbuotojas,
 
@@ -6318,6 +6328,36 @@ nurodytais darbuotojų evakavimo planais. Darbuotojus, atliekančius kitose
 ar kitų norminių teisės aktų nustatytas kontrolės funkcijas, instruktuoja jų
 
 darbdaviai.
+
+2 dalies redakcija nuo 2011 m. kovo 1
+
+d.:
+
+2. Darbuotojas,
+
+darbdavių susitarimu pasiųstas laikinam darbui į įmonę iš kitos įmonės, negali
+
+pradėti dirbti tol, kol jis neinformuotas apie esančius ir galimus rizikos
+
+veiksnius įmonėje, į kurią jis pasiųstas dirbti, neinstruktuotas saugiai dirbti
+
+konkrečioje darbo vietoje, nepaisant to, kad įmonėje, kurioje jis nuolat dirba,
+
+buvo nustatyta tvarka instruktuotas ir apmokytas saugiai dirbti. Į kitą įmonę
+
+pasiųstiems dirbti darbuotojams taip pat privalo būti suteikta informacija apie
+
+įmonėje paskirtus darbuotojus, atsakingus už pirmosios medicinos pagalbos
+
+suteikimą, taip pat jie turi būti supažindinti su šio Įstatymo 22 straipsnyje
+
+nurodytais darbuotojų evakavimo planais. Darbuotojus,
+
+teikiančius kitose įmonėse ar fiziniams asmenims paslaugas ar atliekančius
+
+įstatymų ar kitų norminių teisės aktų nustatytas kontrolės funkcijas,
+
+instruktuoja jų darbdaviai.
 
 3. Darbuotojų saugos
 
@@ -6351,25 +6391,39 @@ potencialiai pavojingų įrenginių techninės būklės įstaigų tikrinimai, mo
 
 dirbančių pavojingus darbus, kurių sąrašą tvirtina Vyriausybė, mokymo ir žinių
 
+iš darbuotojų saugos ir sveikatos srities patikrinimo bei šių darbų saugaus atlikimo
+
+tvarką nustato darbdavys, išskyrus atvejus, kai įstatymai nustato kitokią šių
+
+darbuotojų mokymo, žinių tikrinimo bei saugaus darbų atlikimo tvarką.
+
+5 dalies redakcija nuo 2011 m. kovo 1
+
+d.:
+
+5. Darbuotojų,
+
+dirbančių pavojingus darbus, kurių sąrašą tvirtina Vyriausybė, mokymo ir žinių
+
 iš darbuotojų saugos ir sveikatos srities patikrinimo bei šių darbų saugaus
 
-atlikimo tvarką nustato darbdavys, išskyrus atvejus, kai įstatymai nustato
+atlikimo tvarką nustato darbdavys, išskyrus atvejus, kai įstatymai ar kiti
 
-kitokią šių darbuotojų mokymo, žinių tikrinimo bei saugaus darbų atlikimo
+norminiai teisės aktai nustato kitokią šių darbuotojų mokymo, žinių tikrinimo
 
-tvarką.
+bei saugaus darbų atlikimo tvarką.
 
 6.
 
-Atsižvelgiant į ekonominės veiklos rūšių įmonių ypatumus ir profesinę riziką, Mokymo
+Atsižvelgiant į ekonominės veiklos rūšių įmonių ypatumus ir profesinę riziką,
 
-ir atestavimo darbuotojų saugos ir sveikatos klausimais bendrųjų nuostatų
+Mokymo ir atestavimo darbuotojų saugos ir sveikatos klausimais bendrųjų
 
-pagrindu darbdaviai gali rengti ir suderinę su Valstybine darbo inspekcija
+nuostatų pagrindu darbdaviai gali rengti ir suderinę su Valstybine darbo
 
-tvirtinti atskirų ekonominės veiklos rūšių įmonių darbuotojų mokymo ir
+inspekcija tvirtinti atskirų ekonominės veiklos rūšių įmonių darbuotojų mokymo
 
-atestavimo nuostatus.
+ir atestavimo nuostatus.
 
 7. Atskiroms ekonominės veiklos
 
@@ -6391,6 +6445,10 @@ paslaugas darbuotojų saugos ir sveikatos srityje, išskyrus įstaigas, nurodyta
 
 Vyriausybė ar jos įgaliota įstaiga.
 
+8 dalis netenka galios nuo 2011 m. kovo
+
+1 d.
+
 Straipsnio pakeitimai:
 
 Nr. X-1169, 2007-06-07, Žin., 2007, Nr.
@@ -6400,6 +6458,10 @@ Nr. X-1169, 2007-06-07, Žin., 2007, Nr.
 Nr. XI-802,
 
 2010-05-11, Žin., 2010, Nr. 60-2961 (2010-05-25)
+
+Nr. XI-1202,
+
+2010-12-02, Žin., 2010, Nr. 148-7567 (2010-12-18)
 
 28
 
@@ -6429,21 +6491,21 @@ veiksnių, darbuotojams privalo būti išduodamos asmeninės apsaugos priemonės
 
 Asmeninės apsaugos priemonės darbuotojui išduodamos tik įvertinus jį
 
-veikiančius rizikos veiksnius ir turi būti parenkamos tokios, kad apsaugotų
+veikiančius rizikos veiksnius ir turi būti parenkamos tokios, kad apsaugotų darbuotoją
 
-darbuotoją nuo rizikos veiksnių poveikio. Asmeninės apsaugos priemonės turi
+nuo rizikos veiksnių poveikio. Asmeninės apsaugos priemonės turi būti
 
-būti pritaikytos darbui, patogios naudoti, neturi sudaryti papildomų pavojų
+pritaikytos darbui, patogios naudoti, neturi sudaryti papildomų pavojų
 
 darbuotojų saugai ir atitikti darbuotojų saugos ir sveikatos norminių
 
 teisės aktų reikalavimus.
 
-3. Darbdavio
+3. Darbdavio įgalioti
 
-įgalioti asmenys organizuoja asmeninių apsaugos priemonių laikymą, džiovinimą,
+asmenys organizuoja asmeninių apsaugos priemonių laikymą, džiovinimą, skalbimą,
 
-skalbimą, valymą, taisymą, tikrinimą konkrečios asmeninės apsaugos priemonės
+valymą, taisymą, tikrinimą konkrečios asmeninės apsaugos priemonės
 
 dokumentuose, kuriuos kartu su priemone pateikia asmeninės apsaugos priemonės
 
@@ -6487,15 +6549,17 @@ atsitikimų darbe, ūmių susirgimų darbe atvejais.
 
 2. Padalinio
 
-vadovas, o kai jo nėra – darbdavio įgaliotas asmuo ar darbdaviui atstovaujantis
+vadovas, o kai jo nėra – darbdavio įgaliotas asmuo ar darbdaviui
 
-asmuo privalo skubiai organizuoti darbuotojų, susirgusių darbo vietoje arba
+atstovaujantis asmuo privalo skubiai organizuoti darbuotojų, susirgusių darbo
 
-nukentėjusių nuo traumų ar ūmių ligų, gabenimą į sveikatos priežiūros įstaigas,
+vietoje arba nukentėjusių nuo traumų ar ūmių ligų, gabenimą į sveikatos
 
-kai nebūtina kviesti greitosios medicinos pagalbos arba kai dėl nenumatytų
+priežiūros įstaigas, kai nebūtina kviesti greitosios medicinos pagalbos arba
 
-priežasčių ar aplinkybių greitoji medicinos pagalba nesuteikiama.
+kai dėl nenumatytų priežasčių ar aplinkybių greitoji medicinos pagalba
+
+nesuteikiama.
 
 3. Įmonių darbuotojų saugos ir sveikatos tarnybos, įmonių darbo medicinos
 
@@ -6533,9 +6597,9 @@ organizuojant darbus toje pačioje įmonėje, darbo vietoje
 
 darbdavių, atlikdami darbus toje pačioje įmonėje, įmonės padalinyje ar darbo
 
-vietoje, organizuoja darbą taip, kad būtų garantuota visų darbuotojų sauga ir
+vietoje, organizuoja darbą taip, kad būtų garantuota visų darbuotojų sauga ir sveikata,
 
-sveikata, neatsižvelgiant į tai, kurio darbdavio žinioje darbuotojas dirba.
+neatsižvelgiant į tai, kurio darbdavio žinioje darbuotojas dirba.
 
 2. Darbdaviams
 
@@ -6561,73 +6625,9 @@ straipsnio 2 dalyje nurodyto darbdaviui atstovaujančio asmens paskyrimas
 
 įforminamas raštišku darbdaviams atstovaujančių asmenų susitarimu.
 
-31
+30 straipsnio redakcija nuo 2011 m. kovo
 
-straipsnis. Darbdavių teisės darbuotojų saugos ir sveikatos srityje
-
-Kad būtų
-
-užtikrinta darbuotojų sauga ir sveikata, darbdaviams atstovaujantys asmenys
-
-turi teisę:
-
-1) leisti
-
-įsakymus ir potvarkius dėl darbuotojų saugos ir sveikatos įmonėje ir
-
-reikalauti, kad darbuotojai dirbdami rūpintųsi savo ir kitų darbuotojų sauga
-
-bei sveikata, vykdytų jiems privalomų įmonės darbuotojų saugos ir sveikatos
-
-norminių dokumentų ir darbuotojų saugos ir sveikatos norminių teisės aktų,
-
-kuriuos vykdyti jie buvo apmokyti ir (ar) instruktuoti, reikalavimus ir
-
-laikytųsi darbo bei technologinių procesų reglamentų, darbo tvarkos taisyklių,
-
-Darbo kodekso ir kitų norminių teisės aktų nustatytų darbo ir poilsio laiko
-
-normų;
-
-2) darbuotojams,
-
-pažeidusiems darbuotojų saugos ir sveikatos reikalavimus, kuriuos jie privalo
-
-vykdyti, skirti drausmines nuobaudas, įstatymų nustatyta tvarka skirti
-
-tarnybines nuobaudas valstybės tarnautojams, įstatymų nustatyta tvarka
-
-reikalauti atlyginti pažeidimu padarytą žalą įmonei;
-
-3) gauti iš
-
-valstybės institucijų informaciją darbuotojų saugos ir sveikatos klausimais;
-
-4) gauti
-
-Valstybinės darbo inspekcijos atlikto įmonės inspektavimo medžiagą ir su ja
-
-susipažinti;
-
-5) siūlyti
-
-darbuotojų atstovams nustatyti įmonėje darbuotojų saugos ir sveikatos
-
-reikalavimus, užtikrinančius saugesnių ir sveikesnių darbo sąlygų sudarymą,
-
-negu numatyta darbuotojų saugos ir sveikatos norminiuose teisės aktuose.
-
-Darbuotojų saugos ir sveikatos reikalavimai, užtikrinantys saugesnių ir
-
-sveikesnių darbo sąlygų įmonėje sudarymą, numatomi įmonės kolektyvinėse sutartyse;
-
-6) pavesti
-
-įmonės padalinių vadovams ir kitiems darbdavių įgaliotiems asmenims, taip pat
-
-darbuotojų saugos ir sveikatos tarnybai vykdyti užduotis, susijusias su
-
-darbuotojų sauga ir sveikata.
+1 d.:
 
 32 straipsnis. Darbuotojų saugos ir sveikatos
 
@@ -6975,15 +6975,15 @@ nepaisant to, kokios rūšies darbo sutartis su jaunu asmeniu sudaryta.
 
 4. Darbdaviui atstovaujantis
 
-asmuo, priimdamas į darbą asmenis iki 18 metų ir sudarymas jiems saugias ir sveikas
+asmuo, priimdamas į darbą asmenis iki 18 metų ir sudarymas jiems saugias ir
 
-darbo sąlygas, vadovaujasi Vyriausybės patvirtinta Asmenų iki aštuoniolikos
+sveikas darbo sąlygas, vadovaujasi Vyriausybės patvirtinta Asmenų iki
 
-metų įdarbinimo, sveikatos patikrinimo ir jų galimybių dirbti konkretų darbą
+aštuoniolikos metų įdarbinimo, sveikatos patikrinimo ir jų galimybių dirbti
 
-nustatymo tvarka, darbo laiku, jiems draudžiamų dirbti darbų, sveikatai
+konkretų darbą nustatymo tvarka, darbo laiku, jiems draudžiamų dirbti darbų,
 
-kenksmingų, pavojingų veiksnių sąrašu.
+sveikatai kenksmingų, pavojingų veiksnių sąrašu.
 
 5. Prieš įdarbindamas jauną
 
@@ -7035,13 +7035,13 @@ atlikti pavedamus darbus.
 
 galinčius kilti pavojus ir priemones šiems pavojams išvengti, taip pat apie
 
-įmonėje naudojamas priemones saugai užtikrinti ir sveikatai apsaugoti darbdaviui
+įmonėje naudojamas priemones saugai užtikrinti ir sveikatai apsaugoti
 
-atstovaujantis asmuo ar darbdavio įgaliotas asmuo informuoja jaunus asmenis
+darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo informuoja jaunus
 
-jiems įsidarbinant ir bet kuriuo metu prireikus, be to, apie galimus pavojus ir
+asmenis jiems įsidarbinant ir bet kuriuo metu prireikus, be to, apie galimus
 
-priemones jiems išvengti privalo informuoti jų tėvus ar globėjus.
+pavojus ir priemones jiems išvengti privalo informuoti jų tėvus ar globėjus.
 
 7. Jauniems asmenims nustatomas
 
@@ -7093,11 +7093,11 @@ dirbti visą ar ne visą darbo laiką.
 
 pagimdžiusias ar krūtimi maitinančias moteris draudžiama skirti darbams, kurie
 
-gali turėti neigiamą poveikį moters ar kūdikio sveikatai. Nėščioms, neseniai pagimdžiusioms
+gali turėti neigiamą poveikį moters ar kūdikio sveikatai. Nėščioms, neseniai
 
-ar krūtimi maitinančioms moterims kenksmingų darbo sąlygų ir pavojingų veiksnių
+pagimdžiusioms ar krūtimi maitinančioms moterims kenksmingų darbo sąlygų ir
 
-sąrašą tvirtina Vyriausybė.
+pavojingų veiksnių sąrašą tvirtina Vyriausybė.
 
 3. Vadovaujantis
 
@@ -7159,13 +7159,13 @@ straipsnis. Darbuotojų saugos ir sveikatos būklės vertinimas
 
 1. Darbuotojų
 
-saugos ir sveikatos būklė nustatoma pagal tai, kaip darbo priemonės ir darbo sąlygos
+saugos ir sveikatos būklė nustatoma pagal tai, kaip darbo priemonės ir darbo
 
-įmonėje atitinka darbuotojų saugos ir sveikatos norminiuose teisės aktuose
+sąlygos įmonėje atitinka darbuotojų saugos ir sveikatos norminiuose teisės
 
-nustatytus reikalavimus, įvertinus profesinę riziką darbo vietose ar kitose
+aktuose nustatytus reikalavimus, įvertinus profesinę riziką darbo vietose ar
 
-įmonės vietose, kur darbuotojas gali būti darbo laiku.
+kitose įmonės vietose, kur darbuotojas gali būti darbo laiku.
 
 2. Darbo
 
@@ -7371,15 +7371,15 @@ darbdavio žinia atliekamą darbą arba vykstant į darbą ar iš darbo;
 
 2) nelaimingas
 
-atsitikimas, nesusijęs su darbu – įvykis, kurį ištyrus nustatoma, kad nukentėjusysis
+atsitikimas, nesusijęs su darbu – įvykis, kurį ištyrus nustatoma, kad
 
-patyrė traumą ar mirė: norėdamas nusižudyti ar susižaloti; kai prieš jį buvo
+nukentėjusysis patyrė traumą ar mirė: norėdamas nusižudyti ar susižaloti; kai
 
-panaudotas smurtas, jeigu smurto aplinkybės ir motyvai nesusiję su darbu; kai
+prieš jį buvo panaudotas smurtas, jeigu smurto aplinkybės ir motyvai nesusiję
 
-darė nusikalstamą veiką; kai savavališkai (be darbdavio žinios) dirbo sau (savo
+su darbu; kai darė nusikalstamą veiką; kai savavališkai (be darbdavio žinios)
 
-interesais).
+dirbo sau (savo interesais).
 
 4. Profesinės
 
@@ -7615,13 +7615,13 @@ patvirtinimo aktą pasirašo komisijos nariai, darbdavio atstovas ir darbuotojų
 
 atstovas (atstovai) saugai ir sveikatai. Profesinės ligos patvirtinimo aktas
 
-įteikiamas pasirašytinai darbdaviui atstovaujančiam asmeniui ir darbuotojui,
+įteikiamas pasirašytinai darbdaviui atstovaujančiam asmeniui ir darbuotojui, kuriam
 
-kuriam buvo įtariama ar patvirtinta profesinė liga, išsiunčiamas asmens
+buvo įtariama ar patvirtinta profesinė liga, išsiunčiamas asmens sveikatos
 
-sveikatos priežiūros įstaigai, kurioje buvo įtarta darbuotojo profesinė liga,
+priežiūros įstaigai, kurioje buvo įtarta darbuotojo profesinė liga, ir kitoms
 
-ir kitoms institucijoms.
+institucijoms.
 
 11. Jei
 
@@ -7659,21 +7659,21 @@ skundžiamas teismui.
 
 14. Ūmias profesines
 
-ligas, dėl kurių mirė 3 ir daugiau darbuotojų, tiria komisija. Šios komisijos
+ligas, dėl kurių mirė 3 ir daugiau darbuotojų, tiria komisija. Šios komisijos pirmininkas
 
-pirmininkas – vyriausiasis valstybinis darbo inspektorius, nariai – Valstybinės
+– vyriausiasis valstybinis darbo inspektorius, nariai – Valstybinės visuomenės
 
-visuomenės sveikatos priežiūros tarnybos direktorius (pavaduotojas) ar kitas
+sveikatos priežiūros tarnybos direktorius (pavaduotojas) ar kitas šios tarnybos
 
-šios tarnybos direktoriaus skirtas atstovas, Valstybinės darbo inspekcijos
+direktoriaus skirtas atstovas, Valstybinės darbo inspekcijos teritorinio
 
-teritorinio (inspektavimo) skyriaus viršininkas ir po vieną Valstybinės darbo
+(inspektavimo) skyriaus viršininkas ir po vieną Valstybinės darbo inspekcijos
 
-inspekcijos bei Valstybinės visuomenės sveikatos priežiūros tarnybos apskrities
+bei Valstybinės visuomenės sveikatos priežiūros tarnybos apskrities teritorinės
 
-teritorinės įstaigos atstovą. Tyrime dalyvauja darbdavio atstovas ir darbuotojų
+įstaigos atstovą. Tyrime dalyvauja darbdavio atstovas ir darbuotojų atstovai
 
-atstovai saugai ir sveikatai.
+saugai ir sveikatai.
 
 15. Nelaimingų atsitikimų darbe,
 
@@ -7683,17 +7683,15 @@ ekspertizes.
 
 16. Nukentėjęs asmuo arba jo
 
-atstovas (darbuotojo interesams atstovaujantis asmuo) vadovaudamasis Profesinių ligų tyrimo ir apskaitos nuostatais gali
+atstovas (darbuotojo interesams atstovaujantis asmuo) vadovaudamasis Profesinių ligų tyrimo ir apskaitos nuostatais gali dalyvauti
 
-dalyvauti tiriant nelaimingą atsitikimą darbe, turi teisę susipažinti su
+tiriant nelaimingą atsitikimą darbe, turi teisę susipažinti su nelaimingo
 
-nelaimingo atsitikimo darbe ar profesinės ligos tyrimo medžiaga, privalo gauti
+atsitikimo darbe ar profesinės ligos tyrimo medžiaga, privalo gauti nelaimingo
 
-nelaimingo atsitikimo darbe ar profesinės ligos tyrimo aktą, tyrimo rezultatus
+atsitikimo darbe ar profesinės ligos tyrimo aktą, tyrimo rezultatus ir išvadas
 
-ir išvadas gali apskųsti vyriausiajam valstybiniam darbo inspektoriui ir
-
-teismui.
+gali apskųsti vyriausiajam valstybiniam darbo inspektoriui ir teismui.
 
 Straipsnio pakeitimai:
 
@@ -7745,13 +7743,13 @@ nuostatais, Profesinių ligų tyrimo ir apskaitos nuostatais. Profesinių ligų
 
 tyrimo ir apskaitos nuostatų bei Profesinių ligų valstybės registro nuostatų
 
-nustatyta tvarka profesinės ligos taip pat registruojamos Valstybinės
+nustatyta tvarka profesinės ligos taip pat registruojamos Valstybinės visuomenės
 
-visuomenės sveikatos priežiūros tarnybos apskrities teritorinėje įstaigoje ir
+sveikatos priežiūros tarnybos apskrities teritorinėje įstaigoje ir Profesinių
 
-Profesinių ligų valstybės registre. Profesinių ligų valstybės registro
+ligų valstybės registre. Profesinių ligų valstybės registro nuostatus tvirtina
 
-nuostatus tvirtina Vyriausybė.
+Vyriausybė.
 
 4. Nelaimingų
 
@@ -7761,9 +7759,9 @@ ir tyrimo medžiaga saugomi įmonėje, kurioje įvyko nelaimingas atsitikimas ar
 
 buvo užregistruota profesinė liga, ir Valstybinėje darbo inspekcijoje
 
-vadovaujantis Lietuvos archyvų departamento prie Lietuvos Respublikos Vyriausybės
+vadovaujantis Lietuvos archyvų departamento prie Lietuvos Respublikos
 
-nustatytais dokumentų saugojimo terminais.
+Vyriausybės nustatytais dokumentų saugojimo terminais.
 
 5. Visi
 
@@ -7925,9 +7923,9 @@ Vyriausybė per 6 mėnesius nuo šio Įstatymo
 
 Įstatymo nuostatų įgyvendinimu, ir prireikus juos pakeičia.
 
-Skelbiu šį
+Skelbiu šį Lietuvos
 
-Lietuvos Respublikos Seimo priimtą įstatymą.
+Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                           ROLANDAS
 
@@ -8073,11 +8071,27 @@ STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 
 Šis įstatymas, išskyrus 8 straipsnį, įsigalioja 2010 m. birželio 1 d.
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1202,
+
+2010-12-02, Žin., 2010, Nr. 148-7567 (2010-12-18)
+
+DARBUOTOJŲ SAUGOS IR SVEIKATOS ĮSTATYMO
+
+25, 27 IR 30 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2011 m. kovo 1
+
+d.
+
 *** Pabaiga ***
 
-Redagavo Aušrinė
+Redagavo Aušrinė Trapinskienė
 
-Trapinskienė (2010-05-26)
+(2010-12-23)
 
 autrap@lrs.lt
 
