@@ -4,7 +4,7 @@ identifier: "TAR.E39827DBDE34"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-12-22"
-last_updated: "2010-05-31"
+last_updated: "2010-12-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E39827DBDE34"
 department: "Lietuvos Respublikos Seimas"
@@ -4160,40 +4160,6 @@ pretendentu būti kandidatu į Respublikos Prezidentus, o jei buvo jį
 
 į Respublikos Prezidentus, tokį registravimą panaikina.
 
-6 dalies redakcija iki 2010 m.
-
-rugsėjo 15 d.:
-
-6.
-
-Vyriausioji rinkimų komisija ne vėliau kaip per 3 kalendorines dienas nuo
-
-pareiškimo gavimo patikrina, ar nėra Konstitucijos 78 straipsnyje nurodytų
-
-aplinkybių, neleidžiančių asmeniui būti kandidatu į Respublikos Prezidentus,
-
-taip pat ar jis įvykdė šio straipsnio 3 ir 4 dalyse nurodytus reikalavimus, ir
-
-priima motyvuotą sprendimą išduoti asmeniui rinkėjų parašų rinkimo lapus su
-
-pretendento būti kandidatu į Respublikos Prezidentus vardu ir pavarde arba
-
-atsisakyti juos išduoti. Sprendimas atsisakyti išduoti rinkėjų parašų rinkimo
-
-lapus ne vėliau kaip per 3 dienas nuo jo priėmimo gali būti skundžiamas
-
-Lietuvos vyriausiajam administraciniam teismui, o šis turi išnagrinėti skundą
-
-ne vėliau kaip per 72 valandas nuo skundo gavimo. Į šį terminą įskaitomos ir ne
-
-darbo dienos. Lietuvos vyriausiojo administracinio teismo sprendimas įsiteisėja
-
-nuo paskelbimo.
-
-6 dalies redakcija nuo 2010 m.
-
-rugsėjo 15 d.:
-
 6. Vyriausioji
 
 rinkimų komisija ne vėliau kaip per 3 kalendorines dienas nuo pareiškimo gavimo
@@ -4204,15 +4170,15 @@ neleidžiančių asmeniui būti kandidatu į Respublikos Prezidentus, ar jis įv
 
 šio straipsnio 3 ir 4 dalyse nurodytus reikalavimus, taip pat ar jis yra
 
-įregistruotas savarankišku politinės kampanijos dalyviu, ir priima motyvuotą
+įregistruotas savarankišku politinės kampanijos dalyviu, ir priima motyvuotą sprendimą
 
-sprendimą išduoti asmeniui rinkėjų parašų rinkimo lapus su pretendento būti
+išduoti asmeniui rinkėjų parašų rinkimo lapus su pretendento būti kandidatu į
 
-kandidatu į Respublikos Prezidentus vardu ir pavarde arba atsisakyti juos
+Respublikos Prezidentus vardu ir pavarde arba atsisakyti juos išduoti.
 
-išduoti. Sprendimas atsisakyti išduoti rinkėjų parašų rinkimo lapus ne vėliau
+Sprendimas atsisakyti išduoti rinkėjų parašų rinkimo lapus ne vėliau kaip per 3
 
-kaip per 3 dienas nuo jo priėmimo gali būti skundžiamas Lietuvos vyriausiajam
+dienas nuo jo priėmimo gali būti skundžiamas Lietuvos vyriausiajam
 
 administraciniam teismui, o šis turi išnagrinėti skundą ne vėliau kaip per 72
 
@@ -4374,11 +4340,11 @@ Respublikos Prezidentus. Vyriausiosios rinkimų komisijos atsisakymas
 
 kalendorines dienas gali būti apskųstas Lietuvos vyriausiajam administraciniam
 
-teismui, o šis privalo skundą išnagrinėti per 72 valandas. Į šį terminą įskaitomos
+teismui, o šis privalo skundą išnagrinėti per 72 valandas. Į šį terminą
 
-ir ne darbo dienos. Lietuvos vyriausiojo administracinio teismo sprendimas
+įskaitomos ir ne darbo dienos. Lietuvos vyriausiojo administracinio teismo
 
-įsiteisėja nuo jo paskelbimo.
+sprendimas įsiteisėja nuo jo paskelbimo.
 
 5.
 
@@ -4391,28 +4357,6 @@ kandidatais į Respublikos Prezidentus ir leidinio „Valstybės žinios“ prie
 „Informaciniai pranešimai“ paskelbia kandidatais į Respublikos Prezidentus
 
 įregistruotų asmenų sąrašą.
-
-6 dalies redakcija iki 2010 m.
-
-rugsėjo 15 d.:
-
-6.
-
-Likus iki rinkimų dienos ne mažiau kaip 30 dienų, Vyriausioji rinkimų komisija
-
-oficialiai skelbia visų kandidatais į Respublikos Prezidentus įregistruotų
-
-asmenų sąrašą ir ne vėliau kaip per 24 valandas nuo sąrašo paskelbimo išduoda
-
-šiems asmenims kandidato į Respublikos Prezidentus pažymėjimus. Nuo oficialaus
-
-kandidatų į Respublikos Prezidentus sąrašo paskelbimo dienos prasideda
-
-Respublikos Prezidento rinkimų agitacijos kampanija.
-
-6 dalies redakcija nuo 2010 m.
-
-rugsėjo 15 d.:
 
 6.
 
@@ -4476,11 +4420,11 @@ Asmuo, įregistruotas kandidatu į Respublikos Prezidentus, turi teisę turėti
 
 patikėtinių. Kandidatas į Respublikos Prezidentus pateikia patikėtinių sąrašą
 
-Vyriausiajai rinkimų komisijai ir ši ne vėliau kaip per 24 valandas išduoda patikėtiniams
+Vyriausiajai rinkimų komisijai ir ši ne vėliau kaip per 24 valandas išduoda
 
-kandidato į Respublikos Prezidentus (nurodoma kandidato vardas ir pavardė)
+patikėtiniams kandidato į Respublikos Prezidentus (nurodoma kandidato vardas ir
 
-patikėtinio pažymėjimus.
+pavardė) patikėtinio pažymėjimus.
 
 2.
 
@@ -4532,11 +4476,11 @@ teritorijoje, Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse
 
 įstaigose arba tik konkrečių savivaldybių teritorijose ar rinkimų apylinkėse
 
-užsienio reikalų ministro, Respublikos Prezidento ar jo įgalioto asmens teikimu,
+užsienio reikalų ministro, Respublikos Prezidento ar jo įgalioto asmens
 
-užsienio valstybėms arba tarptautinėms institucijoms atstovaujančių asmenų
+teikimu, užsienio valstybėms arba tarptautinėms institucijoms atstovaujančių
 
-prašymu, taip pat ir savo nuožiūra;
+asmenų prašymu, taip pat ir savo nuožiūra;
 
 2)
 
@@ -4618,9 +4562,43 @@ Prezidentus organizuoti susitikimus su rinkėjais, gauti reikalingą informacij�
 
 išskyrus neskelbtiną.
 
-42 straipsnio redakcija iki 2010
+42
 
-m. rugsėjo 15 d.:
+straipsnis. Kandidatų į Respublikos Prezidentus teisė būti atleistiems nuo
+
+darbo ar tarnybinių pareigų
+
+1. Kandidatai į
+
+Respublikos Prezidentus, Vyriausiajai rinkimų komisijai paskelbus kandidatų į
+
+Respublikos Prezidentus sąrašą, ne ilgiau kaip 30 dienų jų rašytiniu prašymu
+
+atleidžiami nuo darbo ar tarnybinių pareigų. Prašymas atleisti nuo darbo ar
+
+tarnybinių pareigų pateikiamas asmeniui, turinčiam teisę suteikti atostogas.
+
+2.
+
+Šio straipsnio 1 dalies nuostatos netaikomos kandidatui į Respublikos
+
+Prezidentus, kuris eina Respublikos Prezidento ar Seimo nario pareigas.
+
+Kandidato į Respublikos Prezidentus, kuris eina Vyriausybės nario pareigas,
+
+atleidimo nuo tarnybinių pareigų tvarka nustatyta Vyriausybės įstatyme.
+
+Straipsnio
+
+pakeitimas:
+
+Nr. XI-220,
+
+2009-04-16, Žin., 2009, Nr. 46-1798 (2009-04-25)
+
+Nr. XI-816,
+
+2010-05-18, Žin., 2010, Nr. 63-3094 (2010-05-31)
 
 41 straipsnis. Rinkimų
 
@@ -4652,19 +4630,19 @@ I-1526,
 
 96.09.19, Žin., 1996, Nr.100-2256 (96.10.16)
 
-43 straipsnis. Kandidatų į Respublikos Prezidentus
+43 straipsnis.
 
-neliečiamybė
+Kandidatų į Respublikos Prezidentus neliečiamybė
 
 1.
 
-Kandidatas į Respublikos Prezidentus rinkimų agitacijos kampanijos metu, taip pat
+Kandidatas į Respublikos Prezidentus, Vyriausiajai rinkimų komisijai paskelbus
 
-iki Respublikos Prezidento priesaikos be Vyriausiosios rinkimų komisijos
+kandidatų į Respublikos Prezidentus sąrašą, taip pat iki Respublikos Prezidento
 
-sutikimo negali būti traukiamas baudžiamojon atsakomybėn, suimamas, negali būti
+priesaikos be Vyriausiosios rinkimų komisijos sutikimo negali būti traukiamas
 
-kitaip varžoma jo laisvė.
+baudžiamojon atsakomybėn, suimamas, negali būti kitaip varžoma jo laisvė.
 
 2.
 
@@ -4672,13 +4650,15 @@ kitaip varžoma jo laisvė.
 
 kuris eina Respublikos Prezidento, Seimo nario ar Vyriausybės nario pareigas.
 
-Šių asmenų neliečiamybės klausimas rinkimų agitacijos kampanijos metu
+Šių asmenų neliečiamybės klausimas sprendžiamas Konstitucijos ir įstatymų
 
-sprendžiamas Konstitucijos ir įstatymų nustatyta tvarka.
+nustatyta tvarka.
 
-43 straipsnio redakcija nuo 2010
+Straipsnio pakeitimai:
 
-m. rugsėjo 15 d.:
+Nr. XI-816,
+
+2010-05-18, Žin., 2010, Nr. 63-3094 (2010-05-31)
 
 44 straipsnis. Atsakomybė už šio įstatymo pažeidimą
 
@@ -4692,15 +4672,15 @@ Prezidentu, organizuoti ir vykdyti rinkimų agitaciją, pažeidę rinkimų
 
 agitacijos tvarką, paskelbę arba kitaip platinę melagingus duomenis apie
 
-kandidatą į Respublikos Prezidentus ar trukdę kandidatui į Respublikos
+kandidatą į Respublikos Prezidentus ar trukdę kandidatui į Respublikos Prezidentus
 
-Prezidentus susitikti su rinkėjais arba kitaip pažeidę šį įstatymą, taip pat
+susitikti su rinkėjais arba kitaip pažeidę šį įstatymą, taip pat rinkimų
 
-rinkimų komisijų nariai ar kiti pareigūnai, suklastoję, sugadinę, sunaikinę,
+komisijų nariai ar kiti pareigūnai, suklastoję, sugadinę, sunaikinę, pagrobę ar
 
-pagrobę ar paslėpę rinkimų dokumentus, neteisingai suskaičiavę balsus, pažeidę
+paslėpę rinkimų dokumentus, neteisingai suskaičiavę balsus, pažeidę balsavimo
 
-balsavimo slaptumą arba kitaip pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
+slaptumą arba kitaip pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
 
 ŠEŠTASIS SKIRSNIS
 
@@ -4708,25 +4688,19 @@ RINKIMŲ
 
 AGITACIJA
 
-45 straipsnio redakcija iki 2010
+45 straipsnis. Rinkimų
 
-m. rugsėjo 15 d.:
-
-45 straipsnis. Rinkimų agitacijos pagrindai
+agitacijos pagrindai
 
 1.
 
-Pradėti rinkimų agitaciją partijoms ir kandidatams į Respublikos Prezidentus
+Rinkimų agitaciją reglamentuojančios šio įstatymo nuostatos taikomos paskelbus
 
-sudaromos šio įstatymo nustatytos sąlygos nuo tos dienos, kurią prasideda
+rinkimų datą. Rinkimų agitacijos išlaidos ir politinės reklamos išlaidos turi
 
-rinkimų agitacijos kampanija. Rinkimų agitacijos išlaidos ir politinės reklamos
+būti deklaruojamos įstatymų nustatyta tvarka ir negali viršyti pagal įstatymus
 
-išlaidos, turėtos iki rinkimų agitacijos kampanijos pradžios, turi būti
-
-įstatymų nustatyta tvarka deklaruojamos ir negali viršyti pagal įstatymus
-
-nustatyto didžiausio leistino rinkimų agitacijos išlaidų dydžio.
+nustatyto didžiausio leistino politinės kampanijos išlaidų dydžio.
 
 2.
 
@@ -4736,55 +4710,101 @@ pažeidžia Konstituciją ir įstatymus, prieštarauja moralei, teisingumui ar
 
 visuomenės darnai, neatitinka sąžiningų ir garbingų rinkimų.
 
-45 straipsnio redakcija nuo 2010
+3.
 
-m. rugsėjo 15 d.:
+Politinės reklamos žymėjimo reikalavimai nustatomi įstatymuose, politinės
 
-46 straipsnis. Naudojimosi visuomenės informavimo
+reklamos žymėjimo tvarką nustato Vyriausioji rinkimų komisija.
 
-priemonėmis sąlygos ir tvarka
+Straipsnio pakeitimai:
+
+Nr. XI-816,
+
+2010-05-18, Žin., 2010, Nr. 63-3094 (2010-05-31)
+
+46 straipsnis. Rinkimų
+
+agitacijos sąlygos ir tvarka
 
 1.
 
-Kandidatams į Respublikos Prezidentus suteikiamos vienodos galimybės nemokamai
+Vyriausiajai rinkimų komisijai paskelbus kandidatų į Respublikos Prezidentus
 
-dalyvauti Lietuvos nacionalinio radijo ir televizijos rengiamose specialiose rinkimų
+sąrašą, kandidatams į Respublikos Prezidentus suteikiamos vienodos galimybės
 
-agitacijai skirtose laidose. Šių laidų rengimo taisykles tvirtina, konkrečią
+nemokamai dalyvauti Lietuvos nacionalinio radijo ir televizijos rengiamose
 
-Lietuvos nacionalinio radijo ir televizijos laidų apimtį ir trukmę nustato
+specialiose rinkimų agitacijai skirtose laidose. Šių laidų rengimo taisykles
 
-Vyriausioji rinkimų komisija, suderinusi su Lietuvos nacionalinio radijo ir
+tvirtina, konkrečią Lietuvos nacionalinio radijo ir televizijos laidų apimtį ir
 
-televizijos vadovu.
+trukmę nustato Vyriausioji rinkimų komisija, suderinusi su Lietuvos
+
+nacionalinio radijo ir televizijos vadovu.
 
 2.
 
-Kandidatai į Respublikos Prezidentus specialiose rinkimų agitacijai skirtose
+Kandidatų į Respublikos Prezidentus diskusijos per radiją ir televiziją
 
-laidose per Lietuvos nacionalinį radiją ir televiziją gali dalyvauti patys arba
+finansuojamos valstybės biudžeto lėšomis iš Vyriausiajai rinkimų komisijai
 
-kviesti partijų atstovus ir savo patikėtinius ar jų nurodytus kitus asmenis.
+skirtų asignavimų.
 
 3.
 
-Rinkimų agitacijos žymėjimo tvarką nurodant lėšų šaltinį arba tai, kad rinkimų
+Vyriausioji rinkimų komisija:
 
-agitacija skelbiama nemokamai, nustato Vyriausioji rinkimų komisija.
+1)
+
+įstatymų nustatyta tvarka parenka diskusijų laidų rengėjus ir transliuotojus;
+
+2)
+
+patvirtina diskusijų rengimo taisykles;
+
+3)
+
+paskirsto laidų laiką taip, kad nebūtų pažeistas kandidatų į Respublikos
+
+Prezidentus lygiateisiškumo principas.
 
 4.
 
-Visuomenės informavimo priemonės, paskelbusios kompromituojančią medžiagą apie
+Diskusijose dalyvaujančių kandidatų į Respublikos Prezidentus grupės (iš dviejų
 
-kandidatą į Respublikos Prezidentus, kandidato į Respublikos Prezidentus ar jo
+ir daugiau asmenų) sudaromos tarpusavio susitarimu, o kai jo nėra, – burtais.
 
-patikėtinio reikalavimu privalo ne vėliau kaip likus 5 dienoms iki rinkimų
+5. Savo
 
-paskelbti kandidato į Respublikos Prezidentus ar jo patikėtinio atsakomąją
+iniciatyva diskusijų laidas, laikydamiesi Politinių partijų ir politinių
 
-nuomonę.
+kampanijų finansavimo bei finansavimo kontrolės įstatymo 18 straipsnio 2 dalies
 
-5.
+nuostatų, turi teisę rengti visi transliuotojai. Jiems netaikomos kitos šiame
+
+straipsnyje nustatytos sąlygos.
+
+6. Visuomenės
+
+informavimo priemonės, paskelbusios kompromituojančią medžiagą apie kandidatą į
+
+Respublikos Prezidentus, kandidato į Respublikos Prezidentus ar jo patikėtinio
+
+reikalavimu privalo ne vėliau kaip likus 5 dienoms iki rinkimų paskelbti
+
+kandidato į Respublikos Prezidentus ar jo patikėtinio atsakomąją nuomonę.
+
+7.
+
+Išorinė politinė reklama šiame įstatyme suprantama kaip vaizdo ar garso
+
+priemonėmis viešai skleidžiama politinė reklama. Išorine politine reklama taip
+
+pat laikoma politinė reklama, skelbiama viešose vietose, pastatuose, transporto
+
+priemonėse.
+
+8.
 
 Draudžiama įrengti ir skleisti išorinę politinę reklamą:
 
@@ -4796,19 +4816,21 @@ ir savivaldybių institucijos ir įstaigos;
 
 2)
 
-ant transporto priemonių ir viešajame transporte;
+valstybės ar savivaldybių įmonėms priklausančiose transporto priemonėse ir ant
+
+jų;
 
 3)
 
-automobilių keliuose ir jų sanitarinės apsaugos zonose, taip pat gatvėse ir prie
+automobilių keliuose ir jų sanitarinės apsaugos zonose, taip pat gatvėse ir
 
-jų, jeigu ji gali užstoti technines eismo reguliavimo priemones, kelio ženklus,
+prie jų, jeigu ji gali užstoti technines eismo reguliavimo priemones, kelio
 
-pabloginti matomumą, akinti eismo dalyvius, atitraukti jų dėmesį ir taip kelti
+ženklus, pabloginti matomumą, akinti eismo dalyvius, atitraukti jų dėmesį ir
 
-pavojų eismo dalyviams, taip pat draudžiama naudoti reklamą, imituojančią kelio
+taip kelti pavojų eismo dalyviams, taip pat draudžiama naudoti reklamą,
 
-ženklus;
+imituojančią kelio ženklus;
 
 4)
 
@@ -4822,89 +4844,41 @@ ant skulptūrų ir paminklų;
 
 neturint žemės, statinių ar kitų objektų, ant kurių ar kuriuose ji įrengiama,
 
-savininko sutikimo;
-
-7)
-
-vietose, nepatvirtintose savivaldybės rinkimų komisijos, kaip tai nustatyta šio
-
-straipsnio 8 dalyje.
-
-6. Išorinė politinė reklama saugomose teritorijose ir
-
-nekilnojamosiose kultūros vertybėse, taip pat jų teritorijose leidžiama tik
-
-suderinus su valstybės įstaiga, atsakinga už kultūros vertybių apsaugą, ir
-
-saugomos teritorijos steigėjo įgaliota įstaiga.
-
-7. Išorinei politinei reklamai skelbti laikantis
-
-kandidatų į Respublikos Prezidentus lygiateisiškumo principo skiriama ne mažiau
-
-kaip po vieną specialią vietą kiekvienos rinkimų apylinkės teritorijoje.
-
-Išorinė politinė reklama šiame įstatyme suprantama kaip išorinės reklamos
-
-priemonėmis skleidžiama politinė reklama. Išorine politine reklama taip pat
-
-laikoma politinė reklama, skelbiama viešose vietose, pastatuose, transporto
-
-priemonėse. Išorinės politinės reklamos vietas savo lėšomis įrengia
-
-savivaldybė. Išorinė politinė reklama gaminama ir skelbiama kandidatų į
-
-Respublikos Prezidentus lėšomis.
-
-8. Vietas, kuriose gali
-
-būti įrengta ir skleidžiama išorinė politinė reklama, savivaldybės teritorijoje
-
-privalo parinkti ir pateikti savivaldybės rinkimų komisijai tvirtinti
-
-savivaldybės administracijos direktorius ne vėliau kaip likus 35 dienoms iki
-
-rinkimų dienos. Jeigu išorinei politinei reklamai skleisti reikalingi šio
-
-straipsnio 5 ir 6 dalyse nurodyti arba pagal kitus įstatymus būtini sutikimai
-
-ar suderinimai, jų nuorašai pateikiami kartu su savivaldybės administracijos
-
-teikimu. Jeigu stendai, skydai ar teikiamos vietos išorinei politinei reklamai
-
-netinkamos arba netinkamai įrengtos, savivaldybės rinkimų komisija pareikalauja,
-
-kad būtų teikiamos tinkamos vietos ar teikiamos vietos būtų tinkamai įrengtos.
-
-Kiekvienoje išorinei politinei reklamai skirtoje vietoje visiems kandidatams į
-
-Respublikos Prezidentus (kandidatai išdėstomi pagal abėcėlę) skiriamas vienodas
-
-reklamos plotas, kurį nurodo apylinkės rinkimų komisijos pirmininkas. Šis
-
-plotas kiekvienam turi būti ne didesnis kaip A2 formato. Išorinę politinę
-
-reklamą skelbia kandidatai į Respublikos Prezidentus ar šių įgalioti asmenys
-
-jiems skirtuose reklamos plotuose. Jeigu išorinė politinė reklama skelbiama
-
-nenustatytose vietose, savivaldybės administracijos direktorius užtikrina, kad
-
-ji būtų nedelsiant nuimta.
+savininko sutikimo.
 
 9.
+
+Išorinė politinė reklama saugomose teritorijose ir nekilnojamosiose kultūros
+
+vertybėse, taip pat jų teritorijose leidžiama tik suderinus su valstybės įstaiga,
+
+atsakinga už kultūros vertybių apsaugą, ir saugomos teritorijos steigėjo
+
+įgaliota įstaiga.
+
+10.
+
+Pareiga nuimti išorinę politinę reklamą iki prasidedant įstatymų nustatytam
+
+laikui, kai rinkimų agitacija draudžiama, tenka išorinę politinę reklamą paskelbusiam
+
+asmeniui.
+
+11.
 
 Asmenys, pažeidę šiame straipsnyje nustatytus išorinės politinės reklamos
 
 įrengimo ir skleidimo tvarkos reikalavimus, atsako įstatymų nustatyta tvarka.
 
-10.
+12. Visus ginčus
 
-Visus ginčus dėl rinkimų agitacijos sprendžia Vyriausioji rinkimų komisija.
+dėl rinkimų agitacijos sprendžia Vyriausioji rinkimų komisija.
 
-46 straipsnio redakcija nuo 2010
+Straipsnio pakeitimai:
 
-m. rugsėjo 15 d.:
+Nr. XI-816,
+
+2010-05-18, Žin., 2010, Nr. 63-3094 (2010-05-31)
 
 47 straipsnis. Draudimas vykdyti rinkimų agitaciją
 
@@ -4950,9 +4924,9 @@ rinkimų kampanijos finansavimas
 
 Respublikos Prezidento rinkimų kampanijos finansavimą
 
-reglamentuoja Politinių partijų ir politinių kampanijų finansavimo bei
+reglamentuoja Politinių partijų ir politinių kampanijų finansavimo bei finansavimo
 
-finansavimo kontrolės įstatymas.
+kontrolės įstatymas.
 
 49 straipsnis. Rinkimų
 
@@ -5352,9 +5326,9 @@ užklijuoja vidinį balsavimo paštu voką;
 
 4)
 
-vidinį balsavimo paštu voką kartu su rinkėjo pažymėjimu įdeda į išorinį balsavimo
+vidinį balsavimo paštu voką kartu su rinkėjo pažymėjimu įdeda į išorinį
 
-paštu voką;
+balsavimo paštu voką;
 
 5)
 
@@ -5446,11 +5420,11 @@ narių. Balsavimo komisiją Lietuvos Respublikos diplomatinėje atstovybėje ar
 
 konsulinėje įstaigoje sudaro jos vadovas iš Lietuvos Respublikos diplomatinės
 
-atstovybės ar konsulinės įstaigos darbuotojų arba kitų užsienio valstybėje gyvenančių
+atstovybės ar konsulinės įstaigos darbuotojų arba kitų užsienio valstybėje
 
-Lietuvos Respublikos piliečių. Balsavimo komisijų narių rašytinių pasižadėjimų
+gyvenančių Lietuvos Respublikos piliečių. Balsavimo komisijų narių rašytinių
 
-davimo tvarką nustato Vyriausioji rinkimų komisija.
+pasižadėjimų davimo tvarką nustato Vyriausioji rinkimų komisija.
 
 3.
 
@@ -5618,13 +5592,13 @@ rinkėjams būtų pranešta apie specialaus pašto darbo laiką ir vietą, taip 
 
 kad rinkėjams būtų sudarytos sąlygos į jį atvykti. Jeigu nėra sąlygų sudaryti
 
-specialų paštą arba užtikrinti, kad rinkėjai galės tinkamai atlikti balsavimo veiksmus,
+specialų paštą arba užtikrinti, kad rinkėjai galės tinkamai atlikti balsavimo
 
-karinių vienetų vadai (išskyrus užsienyje esančių karinių vienetų vadus) sudaro
+veiksmus, karinių vienetų vadai (išskyrus užsienyje esančių karinių vienetų
 
-sąlygas rinkėjams nuvykti balsuoti į kitą specialų paštą ar parvykti rinkimų
+vadus) sudaro sąlygas rinkėjams nuvykti balsuoti į kitą specialų paštą ar
 
-dieną į rinkimų apylinkę, į kurios rinkėjų sąrašą jie įrašyti.
+parvykti rinkimų dieną į rinkimų apylinkę, į kurios rinkėjų sąrašą jie įrašyti.
 
 4.
 
@@ -5706,17 +5680,17 @@ Balsuoti namuose gali tik šie rinkėjai: neįgalieji, dėl ligos laikinai
 
 nedarbingi rinkėjai, sukakę 70 metų ir vyresni rinkėjai, jeigu jie dėl
 
-sveikatos būklės patys negali atvykti balsuoti į paštą arba rinkimų dieną į rinkimų
+sveikatos būklės patys negali atvykti balsuoti į paštą arba rinkimų dieną į
 
-apylinkę ir jeigu jie pateikė Vyriausiosios rinkimų komisijos nustatytos formos
+rinkimų apylinkę ir jeigu jie pateikė Vyriausiosios rinkimų komisijos
 
-rinkėjo prašymą balsuoti namuose. Namuose balsuojančių rinkėjų sąrašus
+nustatytos formos rinkėjo prašymą balsuoti namuose. Namuose balsuojančių
 
-sudarančios ir tikslinančios rinkimų komisijos turi teisę duomenis apie
+rinkėjų sąrašus sudarančios ir tikslinančios rinkimų komisijos turi teisę
 
-neįgalius asmenis gauti iš Valstybinio socialinio draudimo fondo valdybos ar
+duomenis apie neįgalius asmenis gauti iš Valstybinio socialinio draudimo fondo valdybos
 
-jos teritorinių skyrių, o duomenis apie laikinai nedarbingus asmenis – iš
+ar jos teritorinių skyrių, o duomenis apie laikinai nedarbingus asmenis – iš
 
 sveikatos priežiūros įstaigų. Šių duomenų rinkimų komisijos negali skleisti ir
 
@@ -5730,7 +5704,7 @@ Balsuoti iš anksto gali rinkėjai, kurie rinkimų dieną negali atvykti balsuot
 
 rinkimų apylinkę. Rinkėjų balsavimą iš anksto organizuoja savivaldybės rinkimų
 
-komisijos. Balsavimas iš anksto turi vykti nuo 12 iki 20 valandos paskutinį
+komisijos. Balsavimas iš anksto turi vykti nuo 8 iki 20 valandos paskutinį
 
 trečiadienį ir ketvirtadienį iki rinkimų dienos iš anksto parengtose ir
 
@@ -5872,6 +5846,12 @@ priimti iš rinkėjo neužklijuotą išorinį balsavimo voką. Rinkėjams draud�
 
 išsinešti biuletenius ar juos perduoti kitiems asmenims.
 
+Straipsnio pakeitimai:
+
+Nr. XI-1228,
+
+2010-12-14, Žin., 2010, Nr. 153-7795 (2010-12-28)
+
 DEVINTASIS
 
 SKIRSNIS
@@ -5984,9 +5964,9 @@ apylinkės rinkimų komisijos nario nepanaudotus rinkimų biuletenius, viešai j
 
 suskaičiuoja, jų skaičių įrašo į balsų skaičiavimo protokolą ir pagal parašus
 
-rinkėjų sąraše, rinkėjo pažymėjimus patikrina, ar nėra neteisėtai išduotų rinkimų
+rinkėjų sąraše, rinkėjo pažymėjimus patikrina, ar nėra neteisėtai išduotų
 
-biuletenių.
+rinkimų biuletenių.
 
 2. Nepanaudotus ir sugadintus rinkimų biuletenius
 
@@ -6318,13 +6298,13 @@ ar į balsų skaičiavimo protokolą įrašyti visi duomenys; ar jie neprieštar
 
 vieni kitiems; ar atitinka savivaldybės rinkimų komisijai žinomus duomenis
 
-(apylinkės rinkimų komisijai išduotų rinkimų biuletenių skaičių, rinkėjų
+(apylinkės rinkimų komisijai išduotų rinkimų biuletenių skaičių, rinkėjų skaičių,
 
-skaičių, paštu gautų išorinių balsavimo vokų skaičių); ar yra visi reikalingi
+paštu gautų išorinių balsavimo vokų skaičių); ar yra visi reikalingi parašai;
 
-parašai; ar prie protokolo pridėtos visos jame nurodytos komisijos narių
+ar prie protokolo pridėtos visos jame nurodytos komisijos narių atskirosios
 
-atskirosios nuomonės, rinkimų stebėtojų pastabos;
+nuomonės, rinkimų stebėtojų pastabos;
 
 4)
 
@@ -6574,15 +6554,15 @@ už kiekvieną kandidatą į Respublikos Prezidentus paduotų balsų skaičių.
 
 Vyriausioji rinkimų komisija, nagrinėdama šio įstatymo nustatyta tvarka
 
-paduotus skundus, gali perskaičiuoti rinkimų biuletenius ir, nustačiusi skaičiavimo
+paduotus skundus, gali perskaičiuoti rinkimų biuletenius ir, nustačiusi
 
-klaidas, gali pataisyti įrašus balsų skaičiavimo protokoluose. Vyriausioji
+skaičiavimo klaidas, gali pataisyti įrašus balsų skaičiavimo protokoluose.
 
-rinkimų komisija dėl balsų skaičiavimo protokoluose nustatytų klaidų negali
+Vyriausioji rinkimų komisija dėl balsų skaičiavimo protokoluose nustatytų klaidų
 
-pripažinti negaliojančiais rinkimų apylinkių, savivaldybių rinkimų komisijų
+negali pripažinti negaliojančiais rinkimų apylinkių, savivaldybių rinkimų
 
-balsų skaičiavimo protokolų.
+komisijų balsų skaičiavimo protokolų.
 
 5.
 
@@ -6598,9 +6578,9 @@ pabaigos, taip pat balsavimo metu, ar dokumentų suklastojimas turėjo esminės
 
 Respublikos Prezidento rinkimų rezultatus negaliojančiais. Tokiu atveju
 
-rengiami pakartotiniai Respublikos Prezidento rinkimai šio įstatymo 77 straipsnio
+rengiami pakartotiniai Respublikos Prezidento rinkimai šio įstatymo 77
 
-6 dalyje nustatyta tvarka.
+straipsnio 6 dalyje nustatyta tvarka.
 
 6.
 
@@ -8522,9 +8502,9 @@ rinkimų komisijų patvirtintus balsų skaičiavimo protokolus, jeigu rinkimų
 
 komisijų sprendimai dėl šių protokolų patvirtinimo nebuvo apskųsti Lietuvos
 
-vyriausiajam administraciniam teismui ir Lietuvos vyriausiasis administracinis teismas
+vyriausiajam administraciniam teismui ir Lietuvos vyriausiasis administracinis
 
-nepanaikino rinkimų komisijų sprendimų dėl šių protokolų patvirtinimo.
+teismas nepanaikino rinkimų komisijų sprendimų dėl šių protokolų patvirtinimo.
 
 6. Pripažinus Respublikos Prezidento rinkimų
 
@@ -8838,9 +8818,9 @@ IX-2134,
 
 PREZIDENTO
 
-RINKIMŲ ĮSTATYMO 9, 13, 15, 31, 32, 33, 34, 42, 44 STRAIPSNIŲ PAPILDYMO IR
+RINKIMŲ ĮSTATYMO 9, 13, 15, 31, 32, 33, 34, 42, 44 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO
 
-PAKEITIMO ĮSTATYMAS
+ĮSTATYMAS
 
 16.
 
@@ -9016,6 +8996,22 @@ RINKIMŲ ĮSTATYMO 36, 38, 42, 43, 45 IR 46 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja 2010 m. rugsėjo 15 d.
 
+27.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-1228,
+
+2010-12-14, Žin., 2010, Nr. 153-7795 (2010-12-28)
+
+PREZIDENTO
+
+RINKIMŲ ĮSTATYMO 64 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -9048,7 +9044,7 @@ Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2010-06-04)
+Aušrinė Trapinskienė (2010-12-28)
 
 autrap@lrs.lt
 
