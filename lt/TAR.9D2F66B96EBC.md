@@ -4,7 +4,7 @@ identifier: "TAR.9D2F66B96EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2008-06-03"
+last_updated: "2010-12-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2008-06-03 iki 2010-12-27
+Suvestinė redakcija nuo 2010-12-28 iki 2011-02-28
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
 
@@ -832,7 +832,11 @@ Lietuvos Respublikos oro erdve gali skristi tik orlaiviai, kurių keliamas triuk
 
 36 straipsnis. Civilinių orlaivių, jų įrangos (komponentų) gamyba ir techninė priežiūra
 
-1. CAA nustato civilinių orlaivių ir jų įrangos (komponentų) gamybos ir techninės priežiūros reikalavimus. Lietuvos Respublikoje įmonės gali gaminti civilinius orlaivius ar jų įrangą (komponentus), taip pat atlikti civilinių orlaivių techninės priežiūros darbus tik turėdamos atitinkamą CAA išduotą pažymėjimą bei laikydamosi šiame pažymėjime nurodytų reikalavimų. Vadovaujantis 2002 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1592/2002 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančiu Europos aviacijos saugos agentūrą, Lietuvos Respublikoje gaminami orlaiviai sertifikuojami Europos aviacijos saugos agentūros (EASA) nustatyta tvarka ir sąlygomis.
+1. CAA nustato civilinių orlaivių ir jų įrangos (komponentų) gamybos ir techninės priežiūros reikalavimus. Lietuvos Respublikoje įmonės gali gaminti civilinius orlaivius ar jų įrangą (komponentus), taip pat atlikti civilinių orlaivių techninės priežiūros darbus tik turėdamos atitinkamą CAA išduotą pažymėjimą ir laikydamosi šiame pažymėjime nurodytų reikalavimų. Vadovaujantis 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančiu Europos aviacijos saugos agentūrą, panaikinančiu Tarybos direktyvą 91/670/EEB, Reglamentą (EB) Nr. 1592/2002 ir Direktyvą 2004/36/EB, Lietuvos Respublikoje gaminami civiliniai orlaiviai sertifikuojami Europos aviacijos saugos agentūros (EASA) nustatyta tvarka ir sąlygomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
 
 2. Pažymėjimų, suteikiančių civilinių orlaivių, jų įrangos (komponentų) gamybos ir techninės priežiūros darbų atlikimo teisę, išdavimo sąlygas ir tvarką nustato CAA. CAA prižiūri, kaip pažymėjimus turinčios įmonės laikosi nustatytų reikalavimų. CAA atstovai turi teisę nekliudomi apžiūrėti pažymėjimus turinčių įmonių gamybines patalpas ir įrangą, taip pat gauti visą informaciją ir dokumentus, susijusius su pažymėjime nurodytos veiklos vykdymu.
 
@@ -1425,6 +1429,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
 
 Lietuvos Respublikos aviacijos įstatymo 2, 3, 5, 30, 37, 72 straipsnių ir priedo pakeitimo ir papildymo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
+
+Lietuvos Respublikos aviacijos įstatymo 5, 6, 25, 36, 45, 46, 56, 57, 66, 67-1, 68, 71 straipsnių ir Įstatymo priedo pakeitimo ir papildymo įstatymas
 
 141 straipsnis. Oro navigacijos paslaugos
 
