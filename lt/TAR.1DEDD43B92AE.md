@@ -4,7 +4,7 @@ identifier: "TAR.1DEDD43B92AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-03"
-last_updated: "2010-05-01"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE"
 department: "Lietuvos Respublikos Seimas"
@@ -135,9 +135,9 @@ vaiko tėvui.
 
 Vaikui, kuris nuolat arba darbo dienomis išlaikomas (nakvynė ir maistas)
 
-valstybės ar savivaldybės finansuojamoje įstaigoje, ir globojamam vaikui ši išmoka
+valstybės ar savivaldybės finansuojamoje įstaigoje, ir globojamam vaikui ši
 
-neskiriama.
+išmoka neskiriama.
 
 4.
 
@@ -305,7 +305,9 @@ kuri gali būti išmokama grynaisiais pinigais pačiam išmokos gavėjui. Vienka
 
 1) būstui (gyvenamosioms patalpoms) pirkti;
 
-2) sumokėti daliai paskolos būstui statyti arba pirkti;
+2) sumokėti daliai paskolos būstui statyti arba
+
+pirkti;
 
 3) būsto nuomai;
 
@@ -619,7 +621,7 @@ mokamos iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių
 
 biudžetams, o nuo 2007 m. sausio 1 d. – iš valstybės biudžeto lėšų.
 
-*2.
+2.
 
 Išmokoms administruoti skiriama nuo 2 iki 4 procentų šio įstatymo
 
@@ -628,12 +630,6 @@ reglamentuotoms išmokoms mokėti skirtų lėšų. Konkretų išmokoms administr
 skiriamų lėšų procento dydį iki biudžetinių metų pradžios nustato socialinės
 
 apsaugos ir darbo ministras.
-
-*Pastaba. Nustatant konkretų išmokoms administruoti skiriamų lėšų
-
-procento dydį 2009 metams, netaikoma 2 dalies nuostata dėl
-
-termino iki biudžetinių metų pradžios.
 
 3. Valstybės biudžeto lėšų išmokoms
 
@@ -775,21 +771,21 @@ kvalifikacijai įgyti, bet ne ilgiau, kaip iki jam sukanka 21 metai, skiriama
 
 0,4 bazinės socialinės išmokos dydžio išmoka per mėnesį.
 
-4. Šeimoje, auginančioje tris
+4. Šeimoje,
 
-ar daugiau vaikų, kiekvienam vaikui nuo 3 iki 18 metų ir vyresniam, jei jis
+auginančioje tris ar daugiau vaikų, kiekvienam vaikui nuo 3 iki 18 metų ir
 
-mokosi pagal bendrojo lavinimo programą, pagal formaliojo profesinio mokymo
+vyresniam, jei jis mokosi pagal bendrojo lavinimo programą, pagal formaliojo
 
-programą pirmajai kvalifikacijai įgyti ar studijuoja aukštojoje mokykloje pagal
+profesinio mokymo programą pirmajai kvalifikacijai įgyti ar studijuoja
 
-dieninės studijų formos nuosekliųjų studijų programą ar nuolatinės studijų
+aukštojoje mokykloje pagal dieninės studijų formos nuosekliųjų studijų programą
 
-formos programą (įskaitant ir akademinių atostogų laikotarpį), bet ne ilgiau, kaip
+ar nuolatinės studijų formos programą (įskaitant ir akademinių atostogų
 
-iki jam sukanka 24 metai, skiriama 0,75 bazinės socialinės išmokos dydžio
+laikotarpį), bet ne ilgiau, kaip iki jam sukanka 24 metai, skiriama 0,75
 
-išmoka per mėnesį.
+bazinės socialinės išmokos dydžio išmoka per mėnesį.
 
 5. Kiekvienam
 
@@ -799,11 +795,11 @@ mėnesį nuo gimimo dienos, iki jam sukanka 3 metai, o globojamam (rūpinamam)
 
 vaikui nuo 3 iki 18 metų ir vyresniam, kuris mokosi pagal bendrojo lavinimo
 
-programą ir (ar) pagal formaliojo profesinio mokymo programą pirmajai
+programą ir (ar) pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai
 
-kvalifikacijai įgyti, bet ne ilgiau, kaip iki jam sukanka 21 metai, skiriama
+įgyti, bet ne ilgiau, kaip iki jam sukanka 21 metai, skiriama 0,4 bazinės
 
-0,4 bazinės socialinės išmokos dydžio išmoka per mėnesį.
+socialinės išmokos dydžio išmoka per mėnesį.
 
 6. Baigusiam bendrojo lavinimo programą vyresniam kaip
 
@@ -1039,9 +1035,9 @@ dėl išmokų ir jų mokėjimo terminai
 
 1. Vienkartinė išmoka gimusiam vaikui skiriama, jei
 
-dėl jos buvo kreiptasi ne vėliau kaip per 12 mėnesių nuo vaiko gimimo dienos. Vaiko
+dėl jos buvo kreiptasi ne vėliau kaip per 12 mėnesių nuo vaiko gimimo dienos.
 
-globėjui ji mokama, jei jis kreipiasi per 6 mėnesius nuo globos nustatymo
+Vaiko globėjui ji mokama, jei jis kreipiasi per 6 mėnesius nuo globos nustatymo
 
 dienos, bet ne vėliau kaip iki vaikui sukaks pusantrų metų, ir jeigu
 
@@ -1069,13 +1065,15 @@ skyrimo asmuo turi kreiptis ir pateikti būtinus dokumentus išmokai gauti, taip
 
 pat nurodyti duomenis apie šeimos pajamas už praėjusius kalendorinius metus. Socialinę
 
-pašalpą pagal Lietuvos Respublikos piniginės socialinės
+pašalpą pagal Lietuvos Respublikos piniginės
 
-paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymą ir (ar) socialinę paramą mokiniams pagal Lietuvos
+socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims
 
-Respublikos socialinės paramos mokiniams įstatymą gaunančiai šeimai
+įstatymą ir (ar) socialinę paramą mokiniams
 
-išmoka vaikui be atskiro prašymo skiriama ir mokama 12 mėnesių.
+pagal Lietuvos Respublikos socialinės paramos mokiniams įstatymą gaunančiai
+
+šeimai išmoka vaikui be atskiro prašymo skiriama ir mokama 12 mėnesių.
 
 3. Vienkartinė išmoka įsikurti skiriama, jei prašymą
 
@@ -1133,9 +1131,9 @@ XI-90,
 
 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
 
-Nr. XI-181, 2009-02-19,
+Nr. XI-181,
 
-Žin., 2009, Nr. 25-983 (2009-03-05)
+2009-02-19, Žin., 2009, Nr. 25-983 (2009-03-05)
 
 18 straipsnis. Savivaldybių administracijų teisės
 
@@ -1299,25 +1297,13 @@ skiriama pagal pajamas, kurios paskutinį kartą buvo nurodytos skiriant
 
 socialinę paramą.
 
-11.
-
-Pasibaigus kiekvienam kalendorinių metų ketvirčiui, paskyrusi išmoką
-
-vaikui savivaldybės administracija Valstybinei mokesčių inspekcijai prie
-
-Lietuvos Respublikos finansų ministerijos Išmokų vaikams skyrimo ir mokėjimo
-
-nuostatų nustatyta tvarka pateikia naujų išmokos vaikui gavėjų duomenis,
-
-išskyrus atvejus, kai išmoka vaikui skiriama vaikui iki 3 metų, vaikui iš
-
-šeimos, auginančios tris ir daugiau vaikų, arba globojamam (rūpinamam) vaikui,
-
-kuriam mokama globos (rūpybos) išmoka ir (ar) našlaičių pensija.
-
 10
 
-ir 11 dalys pripažįstamos netekusiomis galios nuo 2010 m. gruodžio 31 d.
+dalis pripažįstama netekusia galios nuo 2011 m. gruodžio 31 d.
+
+11. Neteko galios nuo 2010
+
+m. gruodžio 31 d.
 
 Straipsnio pakeitimai:
 
@@ -1351,6 +1337,10 @@ Nr. XI-708, 2010-03-30, Žin.,
 
 2010, Nr. 41-1933 (2010-04-10)
 
+Nr.
+
+XI-1238, 2010-12-16, Žin., 2010, Nr. 157-7972 (2010-12-31)
+
 14 straipsnis. Išmokų
 
 neprimokėjimas, permokėjimas ir išskaitymas iš jų
@@ -1375,13 +1365,13 @@ Iš gavėjui pagal šį įstatymą priklausančių išmokų išskaitoma ne daugi
 
 20 procentų mokėtinos išmokos sumos per mėnesį, išskyrus atvejus, kai gavėjas
 
-sutinka, kad būtų išskaičiuojama daugiau kaip 20 procentų mokėtinos išmokos sumos,
+sutinka, kad būtų išskaičiuojama daugiau kaip 20 procentų mokėtinos išmokos
 
-tol, kol bus visiškai padengta išieškoma suma. Jei išmokos mokėjimas gavėjui
+sumos, tol, kol bus visiškai padengta išieškoma suma. Jei išmokos mokėjimas
 
-nutraukiamas, o visa permokėta išmokos suma negrąžinta arba neišskaičiuota,
+gavėjui nutraukiamas, o visa permokėta išmokos suma negrąžinta arba
 
-likęs įsiskolinimas išieškomas teismo tvarka.
+neišskaičiuota, likęs įsiskolinimas išieškomas teismo tvarka.
 
 Straipsnio pakeitimai:
 
