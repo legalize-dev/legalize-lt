@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2009-08-04"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -156,6 +156,32 @@ apyvartos ar sandėliavimo vietų, kai šis turtas perleidžiamas ar likviduojam
 likvidavimas – Vyriausybės nustatyta tvarka nurašyto turto išvežimas į
 
 sąvartyną arba jo sunaikinimas.
+
+12. Institucinė
+
+viešojo ir privačiojo sektorių partnerystė – viešojo ir privačiojo sektorių
+
+partnerystės būdas, kai valstybės ar savivaldybės institucijos funkcijoms
+
+priskirtą veiklą pagal valdžios ir privataus subjektų partnerystės ar koncesijų
+
+sutartis vykdo akcinė bendrovė ar uždaroji akcinė bendrovė (privatus subjektas,
+
+jei vykdoma valdžios ir privataus subjektų partnerystės sutartis, arba
+
+koncesininkas, jei vykdoma koncesijų sutartis), kurios akcijų dalis priklauso
+
+valstybei ar savivaldybei.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XI-1258,
+
+2010-12-23, Žin., 2010, Nr. 158-8020 (2010-12-31)
 
 3
 
@@ -443,11 +469,11 @@ sprendimą perimdama netinkamai laikomas kultūros vertybes;
 
 2. Vyriausybė
 
-nustato Konfiskuoto, valstybės paveldėto, į valstybės pajamas paimto ar perduoto
+nustato Konfiskuoto, valstybės paveldėto, į valstybės pajamas paimto ar
 
-turto ir lobių apskaitos, įkainojimo, saugojimo, realizavimo ir grąžinimo
+perduoto turto ir lobių apskaitos, įkainojimo, saugojimo, realizavimo ir
 
-tvarką.
+grąžinimo tvarką.
 
 6
 
@@ -497,9 +523,9 @@ Straipsnio pakeitimai:
 
 Nr.
 
-X-771,
+X-771, 2006-07-18,
 
-2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
+Žin., 2006, Nr. 87-3397 (2006-08-08)
 
 TREČIASIS
 
@@ -1537,11 +1563,11 @@ lėšomis apdrausti gaunamą turtą ir kitos Civiliniame kodekse nustatytos
 
 panaudos sąlygos. Panaudos davėjas privalo nutraukti panaudos sutartį, jei
 
-panaudos gavėjas nesiverčia veikla, dėl kurios buvo perduotas valstybės ar savivaldybės
+panaudos gavėjas nesiverčia veikla, dėl kurios buvo perduotas valstybės ar
 
-turtas, ar šį turtą naudoja ne pagal paskirtį. Panaudos gavėjui, pagerinusiam
+savivaldybės turtas, ar šį turtą naudoja ne pagal paskirtį. Panaudos gavėjui,
 
-pagal panaudos sutartį perduotą turtą, už pagerinimą neatlyginama.
+pagerinusiam pagal panaudos sutartį perduotą turtą, už pagerinimą neatlyginama.
 
 4. Asmenys,
 
@@ -1699,9 +1725,9 @@ tvarka;
 
 valdytojo pareigos organizuojant nuomos konkursą;
 
-3) pagrindiniai nuomos sutarties reikalavimai
+3) pagrindiniai nuomos sutarties
 
-ir patvirtinta pavyzdinė nuomos sutartis.
+reikalavimai ir patvirtinta pavyzdinė nuomos sutartis.
 
 5. Nuomos sutartyje turi būti nustatyti Vyriausybės ar savivaldybės
 
@@ -1749,27 +1775,27 @@ departamentas Vyriausybės nustatyta tvarka. Kiekvienais metais iki rugpjūčio 
 
 dienos Statistikos departamentas valstybei nuosavybės teise priklausančio turto
 
-ataskaitos projektą pateikia Valstybės kontrolei, o ši iki spalio 1 dienos pateikia
+ataskaitos projektą pateikia Valstybės kontrolei, o ši iki spalio 1 dienos
 
-Statistikos departamentui preliminarias išvadas. Statistikos departamentas,
+pateikia Statistikos departamentui preliminarias išvadas. Statistikos
 
-įvertinęs Valstybės kontrolės pateiktas preliminarias išvadas, iki lapkričio 1
+departamentas, įvertinęs Valstybės kontrolės pateiktas preliminarias išvadas,
 
-dienos pateikia Valstybės kontrolei ir Vyriausybei valstybei nuosavybės teise
+iki lapkričio 1 dienos pateikia Valstybės kontrolei ir Vyriausybei valstybei
 
-priklausančio turto ataskaitą. Vyriausybė kiekvienais metais iki gruodžio 1
+nuosavybės teise priklausančio turto ataskaitą. Vyriausybė kiekvienais metais
 
-dienos, vadovaudamasi šio Įstatymo nuostatomis, privalo pateikti Seimui
+iki gruodžio 1 dienos, vadovaudamasi šio Įstatymo nuostatomis, privalo pateikti
 
-valstybės turto ataskaitą. Pagal Lietuvos Respublikos
+Seimui valstybės turto ataskaitą. Pagal Lietuvos
 
-viešojo sektoriaus atskaitomybės įstatymą Vyriausybės įgaliotos
+Respublikos viešojo sektoriaus atskaitomybės įstatymą Vyriausybės
 
-institucijos ir (ar) Finansų ministerijos rengiamas
+įgaliotos institucijos ir (ar) Finansų ministerijos
 
-metinis nacionalinis ataskaitų rinkinys apima valstybei nuosavybės teise
+rengiamas metinis nacionalinis ataskaitų rinkinys apima valstybei nuosavybės
 
-priklausančio turto ataskaitos duomenis.
+teise priklausančio turto ataskaitos duomenis.
 
 3. Savivaldybei nuosavybės teise
 
@@ -1781,11 +1807,11 @@ savivaldybės administracija teikia Vietos savivaldos įstatyme numatytoms
 
 savivaldybės institucijoms ir Statistikos departamentui.
 
-4. Valstybei ir savivaldybei nuosavybės teise
+4. Valstybei ir savivaldybei nuosavybės
 
-priklausantis registruotinas turtas turi būti teisės aktų nustatyta tvarka
+teise priklausantis registruotinas turtas turi būti teisės aktų nustatyta
 
-registruojamas viešuosiuose registruose.
+tvarka registruojamas viešuosiuose registruose.
 
 5. Užtikrinant sprendimų, susijusių su
 
@@ -1961,13 +1987,13 @@ nustato Vyriausybė.
 
 atnaujinimo organizavimo ir koordinavimo funkcijas įgyvendina akcinė bendrovė
 
-Turto bankas (valstybės nekilnojamojo turto atnaujinimo organizatorius). Valstybės
+Turto bankas (valstybės nekilnojamojo turto atnaujinimo organizatorius).
 
-nekilnojamojo turto atnaujinimo organizatoriaus veiklą reglamentuoja Lietuvos
+Valstybės nekilnojamojo turto atnaujinimo organizatoriaus veiklą reglamentuoja
 
-Respublikos akcinės bendrovės Turto banko įstatų patvirtinimo įstatymas ir kiti
+Lietuvos Respublikos akcinės bendrovės Turto banko įstatų patvirtinimo
 
-teisės aktai.
+įstatymas ir kiti teisės aktai.
 
 5. Atnaujinant valstybės nekilnojamąjį
 
@@ -1989,9 +2015,9 @@ suteikiamu valstybės funkcijoms įgyvendinti reikalingu nekilnojamuoju turtu
 
 naudosis panaudos teisėmis tol, kol atnaujintas nekilnojamasis turtas jam bus
 
-perduotas patikėjimo teise; taip pat panaudos gavėjo pareiga apdrausti
+perduotas patikėjimo teise; taip pat panaudos gavėjo pareiga apdrausti nekilnojamąjį
 
-nekilnojamąjį turtą ir aptartos kitos panaudos sąlygos ir tvarka;
+turtą ir aptartos kitos panaudos sąlygos ir tvarka;
 
 2) valstybės nekilnojamojo turto
 
@@ -2565,11 +2591,55 @@ privatus juridinis asmuo, kurio vadovai turi Vertybinių popierių komisijos
 
 patvirtintą investavimo patirtį.
 
+Straipsnis
+
+papildomas 6 dalimi nuo 2011 m. balandžio 1 d.:
+
+6. Asmuo,
+
+įsigyjantis steigiamos akcinės bendrovės ar uždarosios akcinės bendrovės, kurią
+
+steigiant dalyvauja valstybė ar savivaldybė, akcijų, atrenkamas viešo konkurso
+
+būdu Vyriausybės nustatyta tvarka.
+
+7. Šio įstatymo 19 straipsnio 6 dalis
+
+netaikoma, kai steigiama akcinė bendrovė ar uždaroji akcinė bendrovė
+
+institucinei viešojo ir privačiojo sektorių partnerystei įgyvendinti. Tokiu
+
+atveju informacija apie akcinės bendrovės ar uždarosios akcinės bendrovės
+
+steigimą institucinei viešojo ir privačiojo sektorių partnerystei įgyvendinti
+
+turi būti nurodyta konkurso koncesijai suteikti ar viešojo pirkimo,
+
+organizuojamo valdžios ir privataus subjektų partnerystei įgyvendinti, sąlygų
+
+apraše. Šiame sąlygų apraše ir akcinės bendrovės ar uždarosios akcinės
+
+bendrovės steigimo institucinei viešojo ir privačiojo sektorių partnerystei
+
+įgyvendinti sutartyje, be kituose įstatymuose nustatytų reikalavimų, turi būti
+
+nurodytas akcinės bendrovės ar uždarosios akcinės bendrovės veiklos
+
+laikotarpis, kuris negali būti ilgesnis negu koncesijos arba valdžios ir
+
+privataus subjektų partnerystės sutarties laikotarpis, ir akcinės bendrovės ar
+
+uždarosios akcinės bendrovės veiklos tęstinumo sąlygos, tarp kurių turi būti
+
+nustatytos valstybės ar savivaldybės, kaip akcininkės, dalyvavimo bendrovės
+
+veikloje sąlygos.
+
 Straipsnio pakeitimai:
 
-Nr. IX-1586,
+Nr. IX-1586, 2003-05-27,
 
-2003-05-27, Žin., 2003, Nr. 57-2534 (2003-06-13)
+Žin., 2003, Nr. 57-2534 (2003-06-13)
 
 Nr.
 
@@ -2577,9 +2647,9 @@ X-771,
 
 2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
 
-Nr. X-1440,
+Nr. X-1440, 2008-01-29,
 
-2008-01-29, Žin., 2008, Nr. 19-673 (2008-02-14)
+Žin., 2008, Nr. 19-673 (2008-02-14)
 
 Lietuvos Respublikos Konstitucinis
 
@@ -2592,6 +2662,12 @@ Nr.
 XI-374,
 
 2009-07-21, Žin., 2009, Nr. 93-3967 (2009-08-04)
+
+Nr.
+
+XI-1258,
+
+2010-12-23, Žin., 2010, Nr. 158-8020 (2010-12-31)
 
 20 straipsnis.
 
@@ -2835,11 +2911,11 @@ kultūros vertybes, nustatyta tvarka suderinus naujos statybos ar rekonstravimo
 
 projektą;
 
-8) jis
+8) jis nereikalingas
 
-nereikalingas valstybės ar savivaldybės funkcijoms įgyvendinti ir (ar) nelieka
+valstybės ar savivaldybės funkcijoms įgyvendinti ir (ar) nelieka kur jį
 
-kur jį pritaikyti.
+pritaikyti.
 
 2.
 
@@ -2915,9 +2991,9 @@ punkte nurodytą atvejį, galima šiais būdais:
 
 Įstatymo 13 straipsnyje nustatytais atvejais ir tvarka;
 
-3) investuojant šio Įstatymo 19 straipsnyje
+3) investuojant šio Įstatymo 19
 
-nustatytais atvejais ir tvarka;
+straipsnyje nustatytais atvejais ir tvarka;
 
 4) parduodant viešuose prekių
 
@@ -2961,13 +3037,13 @@ materialiojo turto negalima panaudoti nė vienu iš šio straipsnio 1 dalies 1�
 
 punktuose nurodytų būdų, jis turi būti nurašomas ir išardomas, o
 
-liekamosios medžiagos įtraukiamos į apskaitą. Likusį turtą, taip pat turtą,
+liekamosios medžiagos įtraukiamos į apskaitą. Likusį turtą, taip pat turtą, kurio
 
-kurio išardymo išlaidos viršija laukiamą liekamųjų medžiagų vertę, galima
+išardymo išlaidos viršija laukiamą liekamųjų medžiagų vertę, galima likviduoti
 
-likviduoti pašalinus kenksmingumą, jei reikia. Likviduojamas ir nereikalingu
+pašalinus kenksmingumą, jei reikia. Likviduojamas ir nereikalingu arba
 
-arba netinkamu (negalimu) naudoti pripažintas nematerialusis turtas. Jeigu
+netinkamu (negalimu) naudoti pripažintas nematerialusis turtas. Jeigu
 
 nereikalingų arba netinkamų (negalimų) naudoti valstybei ar savivaldybei
 
@@ -2991,11 +3067,11 @@ esančios valstybės ar savivaldybių institucijos bei jų steigiamos įmonės i
 
 įstaigos, kurių veikla yra susijusi su įslaptintos informacijos naudojimu ar
 
-jos apsauga ir kurioms Valstybės ir tarnybos paslapčių įstatymo nustatyta
+jos apsauga ir kurioms Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka
 
-tvarka suteikiama teisė įslaptinti bei išslaptinti informaciją, suderinusios jį
+suteikiama teisė įslaptinti bei išslaptinti informaciją, suderinusios jį su
 
-su Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija.
+Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija.
 
 4. Valstybės ar savivaldybės
 
@@ -3007,11 +3083,11 @@ dalyje, išskyrus 1 dalies 2 punktą, nurodytais būdais, turi jį nurašyti.
 
 punkte nurodytu atveju nepadengta finansinio turto (gautinų lėšų) dalis
 
-nurašoma įsiteisėjus prokuroro nutarimui ar ikiteisminio tyrimo teisėjo
+nurašoma įsiteisėjus prokuroro nutarimui ar ikiteisminio tyrimo teisėjo sprendimui
 
-sprendimui dėl ikiteisminio tyrimo nutraukimo arba teismo ar teisėjo nutarimui
+dėl ikiteisminio tyrimo nutraukimo arba teismo ar teisėjo nutarimui nutraukti
 
-nutraukti administracinio teisės pažeidimo bylą.
+administracinio teisės pažeidimo bylą.
 
 6. Valstybės ir savivaldybių turtas,
 
@@ -3049,9 +3125,9 @@ pakeitimai:
 
 Nr.
 
-X-771,
+X-771, 2006-07-18,
 
-2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
+Žin., 2006, Nr. 87-3397 (2006-08-08)
 
 Nr.
 
@@ -3387,9 +3463,9 @@ VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-383, 2001-06-19, Žin., 2001, Nr.
+Nr. IX-383, 2001-06-19, Žin., 2001, Nr. 56-1981
 
-56-1981 (2001-06-30)
+(2001-06-30)
 
 VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR
 
@@ -3449,9 +3525,7 @@ IX-900,
 
 VALSTYBĖS
 
-IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO PAKEITIMO
-
-ĮSTATYMAS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 Nauja įstatymo redakcija
 
@@ -3523,9 +3597,9 @@ IX-1586,
 
 VALSTYBĖS
 
-IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19 STRAIPSNIO
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19
 
-PAKEITIMO ĮSTATYMAS
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 11.
 
@@ -3623,9 +3697,9 @@ X-1440,
 
 VALSTYBĖS
 
-IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19 STRAIPSNIO
 
-STRAIPSNIO PAPILDYMO ĮSTATYMAS
+PAPILDYMO ĮSTATYMAS
 
 Šis
 
@@ -3665,9 +3739,9 @@ X-1714,
 
 VALSTYBĖS
 
-IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 16(1) STRAIPSNIO
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 16(1)
 
-PAKEITIMO ĮSTATYMAS
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 18.
 
@@ -3701,6 +3775,26 @@ IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 17, 19
 
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+20.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1258,
+
+2010-12-23, Žin., 2010, Nr. 158-8020 (2010-12-31)
+
+VALSTYBĖS
+
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 2 IR 19
+
+STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+
+Šio
+
+įstatymo 2 straipsnio 1 dalis įsigalioja 2011 m. balandžio 1 d.
+
 *** Pabaiga ***
 
 Konstitucinio Teismo nutarimai:
@@ -3729,9 +3823,9 @@ Pabaiga ***
 
 Redagavo
 
-Aušra Bodin (2009-08-04)
+Aušrinė Trapinskienė (2011-01-04)
 
-aubodi@lrs.lt
+autrap@lrs.lt
 
 81 straipsnis.
 
@@ -3749,11 +3843,11 @@ juo disponuojama rūpestingai, siekiant užtikrinti visuomenės interesų
 
 tenkinimą;
 
-2) efektyvumo; šis principas reiškia, kad
+2) efektyvumo; šis principas reiškia,
 
-sprendimais, susijusiais su valstybės ir savivaldybių turto valdymu, naudojimu
+kad sprendimais, susijusiais su valstybės ir savivaldybių turto valdymu,
 
-ir disponavimu juo, turi būti siekiama maksimalios naudos visuomenei;
+naudojimu ir disponavimu juo, turi būti siekiama maksimalios naudos visuomenei;
 
 3) racionalumo; šis principas reiškia,
 
@@ -3773,9 +3867,9 @@ turtu, nustatytais atvejais ir būdais.
 
 Nr.
 
-X-771,
+X-771, 2006-07-18,
 
-2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
+Žin., 2006, Nr. 87-3397 (2006-08-08)
 
 9
 
@@ -3835,39 +3929,37 @@ juridiniams asmenims priima Vyriausybė. Tokiame sprendime turi būti nurodyta
 
 valstybės institucija ar įstaiga, įgaliota sudaryti turto patikėjimo sutartį.
 
-Kiti juridiniai asmenys, kuriems valstybės turtas perduotas pagal turto
+Kiti juridiniai asmenys, kuriems valstybės turtas perduotas pagal turto patikėjimo
 
-patikėjimo sutartį, negali šio turto perduoti nuosavybės teise kitiems
+sutartį, negali šio turto perduoti nuosavybės teise kitiems asmenims, jo
 
-asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti,
+įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar
 
-laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą, jo
+kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą, jo išnuomoti,
 
-išnuomoti, suteikti panaudos pagrindais ar perduoti jį kitiems asmenims
+suteikti panaudos pagrindais ar perduoti jį kitiems asmenims naudotis kitu
 
-naudotis kitu būdu. Šis turtas gali būti naudojamas tik įstatymų jiems
+būdu. Šis turtas gali būti naudojamas tik įstatymų jiems priskirtoms funkcijoms
 
-priskirtoms funkcijoms įgyvendinti. Turto patikėjimo sutartyje gali būti
+įgyvendinti. Turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų.
 
-nustatyta ir kitų apribojimų. Turto patikėjimo sutartis pasibaigia Civilinio
+Turto patikėjimo sutartis pasibaigia Civilinio kodekso nustatytais atvejais.
 
-kodekso nustatytais atvejais. Sutartį sudariusi institucija ar įstaiga privalo
+Sutartį sudariusi institucija ar įstaiga privalo atsisakyti patikėjimo
 
-atsisakyti patikėjimo sutarties remdamasi Civilinio kodekso 6.967 straipsnio 1
+sutarties remdamasi Civilinio kodekso 6.967 straipsnio 1 dalies 5 punktu, jei
 
-dalies 5 punktu, jei juridinis asmuo (patikėtinis) nebegali įgyvendinti (ar
+juridinis asmuo (patikėtinis) nebegali įgyvendinti (ar atsisako) valstybinių
 
-atsisako) valstybinių funkcijų, kurioms įgyvendinti pagal patikėjimo sutartį
+funkcijų, kurioms įgyvendinti pagal patikėjimo sutartį buvo perduotas turtas.
 
-buvo perduotas turtas. Valstybės institucija ar įstaiga, sudariusi turto
+Valstybės institucija ar įstaiga, sudariusi turto patikėjimo sutartį, privalo
 
-patikėjimo sutartį, privalo prižiūrėti, kad sutartis būtų tinkamai vykdoma.
+prižiūrėti, kad sutartis būtų tinkamai vykdoma. Pasibaigus turto patikėjimo
 
-Pasibaigus turto patikėjimo sutarčiai, turtą patikėjimo teise valdo, naudoja ir
+sutarčiai, turtą patikėjimo teise valdo, naudoja ir disponuoja juo sutartį
 
-disponuoja juo sutartį pasirašiusi valstybės institucija ar įstaiga, jei
-
-Vyriausybė nenustato kitaip.
+pasirašiusi valstybės institucija ar įstaiga, jei Vyriausybė nenustato kitaip.
 
 5. Patikėjimo
 
@@ -3975,9 +4067,9 @@ naudotis kitu būdu. Šis turtas gali būti naudojamas tik savivaldybių funkcij
 
 Savivaldybės institucija ar įstaiga, sudariusi turto patikėjimo sutartį,
 
-privalo prižiūrėti, kad sutartis būtų tinkamai vykdoma. Turto patikėjimo
+privalo prižiūrėti, kad sutartis būtų tinkamai vykdoma. Turto patikėjimo sutartis
 
-sutartis pasibaigia Civilinio kodekso nustatytais atvejais. Sutartį sudariusi
+pasibaigia Civilinio kodekso nustatytais atvejais. Sutartį sudariusi
 
 savivaldybės institucija ar įstaiga privalo atsisakyti patikėjimo sutarties
 
