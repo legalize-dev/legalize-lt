@@ -4,7 +4,7 @@ identifier: "TAR.9665F2D6C990"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-12-19"
-last_updated: "2009-03-05"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9665F2D6C990"
 department: "Lietuvos Respublikos Seimas"
@@ -244,9 +244,9 @@ daugiau vaikų, arba globojamam (rūpinamam) vaikui, kuriam mokama globos
 
 Straipsnio pakeitimai:
 
-Nr. XI-181,
+Nr. XI-181, 2009-02-19,
 
-2009-02-19, Žin., 2009, Nr. 25-983 (2009-03-05)
+Žin., 2009, Nr. 25-983 (2009-03-05)
 
 4 straipsnis. 13 straipsnio 2 dalies pakeitimasPakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip:
 
@@ -270,9 +270,9 @@ ir pateikti būtinus dokumentus išmokai gauti, taip pat nurodyti duomenis apie
 
 nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymą ir (ar) socialinę paramą mokiniams pagal Lietuvos
 
-Respublikos socialinės paramos mokiniams įstatymą gaunančiai šeimai
+Respublikos socialinės paramos mokiniams įstatymą gaunančiai šeimai išmoka
 
-išmoka vaikui be atskiro prašymo skiriama ir mokama 12 mėnesių. “
+vaikui be atskiro prašymo skiriama ir mokama 12 mėnesių. “
 
 Straipsnio pakeitimai:
 
@@ -322,7 +322,9 @@ straipsnį, įsigalioja 2009 m. sausio 1 d.
 
 3. Šio įstatymo
 
-3 straipsnio 3 ir 4 dalis pripažinti netekusiomis galios nuo 2010 m. gruodžio 31 d.
+3 straipsnio 3 dalį pripažinti netekusia galios nuo 2011 m. gruodžio 31 d., o 3
+
+straipsnio 4 dalį – nuo 2010 m. gruodžio 31 d.
 
 4. 2009 m. kovo 1 d. socialinę pašalpą pagal Lietuvos Respublikos piniginės
 
@@ -330,19 +332,23 @@ socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims
 
 įstatymą ir (ar) nemokamą maitinimą pagal
 
-Lietuvos Respublikos socialinės paramos mokiniams įstatymą gaunančioms šeimoms
+Lietuvos Respublikos socialinės paramos mokiniams įstatymą gaunančioms
 
-išmoka vaikui nuo 2009 m. kovo 1 d. skiriama be naujo prašymo. Sprendimas dėl
+šeimoms išmoka vaikui nuo 2009 m. kovo 1 d. skiriama be naujo prašymo.
 
-išmokos vaikui skyrimo priimamas pagal pajamas, kurios paskutinį kartą buvo
+Sprendimas dėl išmokos vaikui skyrimo priimamas pagal pajamas, kurios paskutinį
 
-nurodytos skiriant socialinę paramą.
+kartą buvo nurodytos skiriant socialinę paramą.
 
 Straipsnio pakeitimai:
 
 Nr. XI-181,
 
 2009-02-19, Žin., 2009, Nr. 25-983 (2009-03-05)
+
+Nr. XI-1238,
+
+2010-12-16, Žin., 2010, Nr. 157-7972 (2010-12-31)
 
 Skelbiu šį
 
@@ -374,11 +380,25 @@ PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMO 3, 4, 7 STRAIPSNIŲ PAKEITIMO IR PAPILDY
 
 ĮSTATYMAS
 
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1238,
+
+2010-12-16, Žin., 2010, Nr. 157-7972 (2010-12-31)
+
+IŠMOKŲ VAIKAMS
+
+ĮSTATYMO 6, 8, 12, 13, 20 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR 22 STRAIPSNIO
+
+PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo Aušrinė
+Redagavo Aušrinė Trapinskienė
 
-Trapinskienė (2009-03-05)
+(2010-12-31)
 
 autrap@lrs.lt
 
