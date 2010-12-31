@@ -4,7 +4,7 @@ identifier: "TAR.7A932101FADA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-01-28"
-last_updated: "2006-07-27"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7A932101FADA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas
 
-Suvestinė redakcija nuo 2006-07-27 iki 2010-12-30
+Suvestinė redakcija nuo 2010-12-31 iki 2013-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 15-600, i. k. 1031010ISTA0IX-1314
 
@@ -70,11 +70,13 @@ Nr. X-762, 2006-07-13, Žin., 2006, Nr. 82-3259 (2006-07-27), i. k. 1061010ISTA0
 
 3 straipsnis. Valstybės parama įsigyjant žemės ūkio paskirties žemę
 
-1. Asmenims, nurodytiems šio įstatymo 2 straipsnyje, valstybės parama įsigyjant žemės ūkio paskirties žemę teikiama šiomis sąlygomis:
+1. Asmenims, nurodytiems šio įstatymo 2 straipsnyje, valstybinė žemės ūkio paskirties žemė parduodama išsimokėtinai ne ilgiau kaip per 15 metų, pradedant mokėti antraisiais metais ir iš karto sumokant 10 procentų žemės kainos. Jaunieji ūkininkai iki 40 metų, įregistravę ūkininko ūkį Ūkininko ūkio įstatymo nustatyta tvarka, valstybinę žemės ūkio paskirties žemę gali pirkti išsimokėtinai ne ilgiau kaip per 15 metų, pradėdami mokėti antraisiais metais ir iš karto sumokėdami 5 procentus žemės kainos. Valstybinės žemės ūkio paskirties žemės pirkimo–pardavimo sutartyje įrašoma sąlyga, kad valstybinės žemės pirkėjas, įgijęs šią žemę išsimokėtinai, teisę ją perleisti kitiems asmenims įgyja tik po to, kai sumoka visą šios žemės kainą. Valstybinės žemės pardavimo ir atsiskaitymo už ją tvarką nustato Vyriausybė.
 
-1) valstybinė žemės ūkio paskirties žemė parduodama išsimokėtinai ne ilgiau kaip per 15 metų, pradedant mokėti antraisiais metais ir iš karto sumokant 10 procentų žemės kainos. Jaunieji ūkininkai iki 40 metų, įregistravę ūkininko ūkį Ūkininko ūkio įstatymo nustatyta tvarka, valstybinę žemės ūkio paskirties žemę gali pirkti išsimokėtinai ne ilgiau kaip per 15 metų, pradėdami mokėti antraisiais metais ir iš karto sumokėdami 5 procentus žemės kainos. Valstybinės žemės ūkio paskirties žemės pirkimo-pardavimo sutartyje įrašoma sąlyga, kad valstybinės žemės pirkėjas, įgijęs šią žemę išsimokėtinai, teisę ją perleisti kitiems asmenims įgyja tik po to, kai sumoka visą šios žemės kainą. Atsiskaitymams už žemę gali būti įskaitomos pagal Gyventojų santaupų atkūrimo įstatymą atkurtos ir pirkėjo atkuriamojoje sąskaitoje esančios santaupos. Atsiskaitymui už žemę panaudojus atkurtas santaupas, pirkėjas nuosavybės teisę į žemę gali perleisti ne anksčiau negu pagal Gyventojų santaupų atkūrimo įstatymą nustatytos indėlininkų eilės, kuriai priskirtinas šis pirkėjas, Vyriausybės nustatyta laisvo disponavimo atkurtomis santaupomis pradžios data. Valstybinės žemės pirkimo, atsiskaitymo ir atkurtų santaupų įskaitymo tvarką nustato Vyriausybė;
+TAR pastaba. Tais atvejais, kai valstybės parama įsigyjant privačios žemės ūkio paskirties žemės sklypą buvo suteikta pagal iki įstatymo Nr. XI-1247 įsigaliojimo (2010-12-31) galiojusias Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo 3 straipsnio 1 dalies 2 punkto nuostatas, šio žemės sklypo pagrindinė žemės naudojimo paskirtis gali būti keičiama ne anksčiau kaip po 5 metų nuo žemės sklypo įsigijimo dienos. Draudimas keisti pagrindinę žemės naudojimo paskirtį taikomas ir perleidus žemės sklypą tretiesiems asmenims.
 
-2) įsigyjant privačią žemę, jeigu tai leis sustambinti žemėvaldą arba suformuoti glaustą žemės ūkio valdą, Vyriausybės nustatyta tvarka kompensuojama paskolos žemės ūkio paskirties žemei įsigyti palūkanų dalis: jauniesiems ūkininkams iki 40 metų, įregistravusiems ūkininko ūkį Ūkininko ūkio įstatymo nustatyta tvarka, – 100 procentų, kitiems šio įstatymo 2 straipsnyje nurodytiems asmenims – 50 procentų. Laikoma, kad žemėvalda sustambinama, jei įsigyjamas žemės ūkio paskirties žemės sklypas ribojasi su žemėvalda. Laikoma, kad glausta žemės ūkio valda suformuojama, jei įsigijus nuosavybėn žemės ūkio paskirties žemės sklypą asmens nuosavybės teise valdomi žemės sklypai yra greta vienas kito ir juos skiria tik keliai ar grioviai arba jie yra nutolę ne toliau kaip 2 kilometrus nuo žemės ūkio paskirties žemės sklypo, kuriame yra ūkiniai statiniai arba didžiausias žemės ūkio naudmenų plotas. Asmenys, kuriems kompensuojama paskolos žemės ūkio paskirties žemei įsigyti palūkanų dalis, teisę keisti pagrindinę tikslinę šios žemės naudojimo paskirtį įgyja ne anksčiau kaip praėjus 5 metams nuo šios žemės įsigijimo dienos.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1247, 2010-12-22, Žin., 2010, Nr. 157-7979 (2010-12-31), i. k. 1101010ISTA0XI-1247
 
 2. Šio įstatymo 2 straipsnyje nurodytiems asmenims šio įstatymo 5 straipsnio nustatytais atvejais suteikiama pirmumo teisė be aukciono pirkti parduodamus valstybinės žemės ūkio paskirties žemės sklypus už rinkos kainą, kuri apskaičiuojama pagal Turto ir verslo vertinimo pagrindų įstatymą. Jeigu jaunieji ūkininkai iki 40 metų, įregistravę ūkininko ūkį Ūkininko ūkio įstatymo nustatyta tvarka, ne mažiau kaip vienus metus naudojantys žemės ūkio paskirties žemės sklypus, už perkamą žemės sklypą sumoka iš karto, tokiu būdu nustatytai be aukciono perkamo valstybinės žemės ūkio paskirties žemės sklypo rinkos kainai taikomas 0,6 koeficientas. Jeigu jaunasis ūkininkas iki 40 metų, įregistravęs ūkininko ūkį Ūkininko ūkio įstatymo nustatyta tvarka, ne mažiau kaip vienus metus naudojamą žemės ūkio paskirties žemės sklypą perka išsimokėtinai, tokiu būdu nustatytai be aukciono perkamo valstybinės žemės ūkio paskirties žemės sklypo rinkos kainai taikomas 0,75 koeficientas.
 
@@ -120,13 +122,13 @@ Nr. X-762, 2006-07-13, Žin., 2006, Nr. 82-3259 (2006-07-27), i. k. 1061010ISTA0
 
 5. Kai tą patį žemės ūkio paskirties žemės sklypą, išskyrus žemės sklypus, nurodytus šio straipsnio 2 dalies 1 ir 2 punktuose, pageidauja pirkti keli vienodą pirmumo teisę turintys asmenys, žemės sklypas šiems asmenims parduodamas uždaro aukciono būdu. Kai nėra asmenų, turinčių pirmumo teisę pirkti valstybinę žemės ūkio paskirties žemę, prašymų pirkti žemės ūkio paskirties žemės sklypus, išskyrus žemės sklypus, nurodytus šio straipsnio 2 dalies 1 ir 2 punktuose, šie žemės sklypai parduodami atviro aukciono būdu. Uždaro ir atviro aukcionų organizavimo tvarką nustato Vyriausybė.
 
-6. Asmenys, pagal šį įstatymą pasinaudoję pirmumo teise įsigyti valstybinę žemės ūkio paskirties žemę, teisę keisti pagrindinę tikslinę šios žemės naudojimo paskirtį įgyja ne anksčiau kaip praėjus 5 metams nuo šios žemės įsigijimo dienos. Valstybinės žemės ūkio paskirties žemės pirkimo-pardavimo sutartyje įrašoma sąlyga, kad nustačius, jog pagal šį įstatymą pirmumo teise įgyta valstybinė žemės ūkio paskirties žemė naudojama ne pagal paskirtį, valstybė įgyja teisę atpirkti šią žemę už tą pačią kainą, už kurią ji buvo įsigyta iš valstybės.
-
-TAR pastaba. Įsigaliojus 6 daliai, asmenys, išskyrus asmenis, kuriems įsigyjant valstybinę žemės ūkio paskirties žemę buvo taikomas žemės kainą mažinantis koeficientas, atleidžiami nuo prievolių neperleisti pagal Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinąjį įstatymą pasinaudojus pirmumo teise įsigytos valstybinės žemės ūkio paskirties žemės anksčiau kaip praėjus 5 metams nuo šios žemės įsigijimo dienos.
+6. Žemės ūkio paskirties žemės sklypo, įgyto iš valstybės pagal šį įstatymą pasinaudojus pirmumo teise, pagrindinė žemės naudojimo paskirtis gali būti keičiama ne anksčiau kaip po 5 metų nuo žemės sklypo įsigijimo dienos. Draudimas keisti pagrindinę žemės naudojimo paskirtį taikomas ir perleidus žemės sklypą tretiesiems asmenims. Valstybinės žemės ūkio paskirties žemės pirkimo–pardavimo sutartyje įrašoma sąlyga, kad nustačius, jog pagal šį įstatymą pirmumo teise įgyta valstybinė žemės ūkio paskirties žemė naudojama ne pagal paskirtį, valstybė įgyja teisę atpirkti šią žemę už tą pačią kainą, už kurią ji buvo įsigyta iš valstybės. Valstybės teisė atpirkti ne pagal pagrindinę žemės naudojimo paskirtį naudojamą žemės sklypą už tą pačią kainą, už kurią jis buvo įsigytas iš valstybės, išlieka ir perleidus šį žemės sklypą tretiesiems asmenims.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-762, 2006-07-13, Žin., 2006, Nr. 82-3259 (2006-07-27), i. k. 1061010ISTA000X-762
+
+Nr. XI-1247, 2010-12-22, Žin., 2010, Nr. 157-7979 (2010-12-31), i. k. 1101010ISTA0XI-1247
 
 7. Jeigu pagal šį įstatymą įsigytos žemės ūkio paskirties žemės kainai buvo taikytas žemės kainą mažinantis koeficientas, asmenys, įsigiję šią žemę, teisę perleisti ją kitiems fiziniams ar juridiniams asmenims įgyja ne anksčiau kaip praėjus 5 metams nuo šios žemės įsigijimo dienos.
 
