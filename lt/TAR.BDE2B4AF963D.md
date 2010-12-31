@@ -4,7 +4,7 @@ identifier: "TAR.BDE2B4AF963D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-22"
-last_updated: "2010-03-02"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BDE2B4AF963D"
 department: "Lietuvos Respublikos Seimas"
@@ -662,7 +662,7 @@ pateikia Viešųjų pirkimų tarnybai. Viešųjų pirkimų tarnyba šio įstatym
 
 reikalavimus atitinkančius skelbimus privalo per 3 darbo dienas išsiųsti
 
-Europos Bendrijų oficialiųjų leidinių biurui paskelbti šio straipsnio 1 dalyje nurodytame
+Europos Sąjungos oficialiųjų leidinių biurui paskelbti šio straipsnio 1 dalyje nurodytame
 
 leidinyje ir Centrinėje viešųjų pirkimų informacinėje sistemoje. Skelbimo
 
@@ -680,13 +680,13 @@ Skelbimas skelbiamas perkančiosios organizacijos pasirinkta kuria nors
 
 oficialiąja Europos Sąjungos kalba ir tik šis tekstas laikomas autentišku.
 
-Europos Bendrijų oficialiųjų leidinių biuras taip pat parengia ir paskelbia
+Europos Sąjungos oficialiųjų leidinių biuras taip pat parengia ir paskelbia
 
 kiekvieno skelbimo svarbių elementų santrauką kitomis oficialiosiomis Europos
 
-Sąjungos kalbomis. Skelbimų, kuriuos skelbia Europos Bendrijų Komisija,
+Sąjungos kalbomis. Skelbimų, kuriuos skelbia Europos Komisija, išlaidas
 
-išlaidas padengia Bendrija.“
+padengia Europos Sąjunga.“
 
 4.
 
@@ -705,6 +705,10 @@ Straipsnio pakeitimai:
 Nr. XI-679,
 
 2010-02-11, Žin., 2010, Nr. 25-1175 (2010-03-02)
+
+Nr. XI-1256,
+
+2010-12-23, Žin., 2010, Nr. 158-8018 (2010-12-31)
 
 13 straipsnis. 24 straipsnio 2 dalies 5, 14 ir 22
 
@@ -742,7 +746,9 @@ laikytini konkurentais; kad tiekėjas nedalyvauja Lietuvos Respublikos
 
 konkurencijos įstatymo 5 straipsnyje nurodytuose draudžiamuose susitarimuose ir
 
-susitarimuose, pažeidžiančiuose šio įstatymo 3 straipsnyje nurodytus principus.“
+susitarimuose, pažeidžiančiuose šio įstatymo 3 straipsnyje nurodytus
+
+principus.“
 
 2. 24
 
@@ -1268,47 +1274,47 @@ Vyriausybė ar jos įgaliota institucija.“
 
 straipsnis. 86 straipsnio 1 ir 2 dalių pakeitimas
 
-1. Pakeisti 86
+1. Neteko galios
 
-straipsnio 1 dalį ir ją išdėstyti taip:
-
-„1. Perkančioji
-
-organizacija skelbimą apie supaprastintą pirkimą ir šio įstatymo 92 straipsnio
-
-2 dalyje nurodytą informacinį pranešimą, kuriuos pagal šį įstatymą ir (ar)
-
-pasitvirtintas taisykles numatyta paskelbti viešai, skelbia Centrinėje viešųjų
-
-pirkimų informacinėje sistemoje. Skelbimai ir informaciniai pranešimai gali
-
-būti papildomai skelbiami perkančiosios organizacijos tinklalapyje, kitur
-
-internete, leidiniuose ar kitomis priemonėmis. Skelbimo ar informacinio
-
-pranešimo paskelbimo diena yra jų paskelbimo Centrinėje viešųjų pirkimų
-
-informacinėje sistemoje data.“
+nuo 2010 m. gruodžio 31 d.
 
 2. Pakeisti 86
 
 straipsnio 2 dalį ir ją išdėstyti taip:
 
-„2. Centrinėje
+„2.
 
-viešųjų pirkimų informacinėje sistemoje skelbiamus skelbimus perkančiosios
+Centrinėje viešųjų pirkimų informacinėje sistemoje ir Europos Sąjungos
 
-organizacijos privalo pateikti Viešųjų pirkimų tarnybai, o ši per 3 darbo
+oficialiajame leidinyje skelbiamus skelbimus, informacinius pranešimus, pranešimus dėl savanoriško ex ante
 
-dienas juos privalo paskelbti Centrinėje viešųjų pirkimų informacinėje
+skaidrumo perkančiosios organizacijos
 
-sistemoje. Skelbimas perkančiosios organizacijos tinklalapyje, kitur internete,
+privalo pateikti Viešųjų pirkimų tarnybai, o ši per 3 darbo dienas privalo juos
 
-leidiniuose ar kitomis priemonėmis negali būti paskelbtas anksčiau negu Centrinėje
+paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje ir išsiųsti
 
-viešųjų pirkimų informacinėje sistemoje. To paties skelbimo turinys
+Europos Sąjungos oficialiųjų leidinių biurui paskelbti Europos Sąjungos
 
-visur turi būti tapatus.“
+oficialiajame leidinyje. Skelbimai, informaciniai pranešimai, pranešimai dėl
+
+savanoriško ex ante skaidrumo perkančiosios
+
+organizacijos tinklalapyje, kitur internete, leidiniuose ar kitomis priemonėmis
+
+negali būti skelbiami anksčiau negu Centrinėje viešųjų pirkimų informacinėje
+
+sistemoje ir Europos Sąjungos oficialiajame leidinyje. To paties skelbimo, informacinio pranešimo,  pranešimo dėl savanoriško ex
+
+ante skaidrumo turinys visur turi
+
+būti tapatus.“
+
+Straipsnio pakeitimai:
+
+Nr. XI-1256,
+
+2010-12-23, Žin., 2010, Nr. 158-8018 (2010-12-31)
 
 28
 
@@ -1424,19 +1430,19 @@ straipsnius, dalis ir nuostatas, įsigalioja 2009 m. rugsėjo 1 d.
 
 3. Šio įstatymo
 
-6 straipsnis, 12 straipsnio 2 ir 3 dalys, 13 straipsnio 3 dalis,
+6 straipsnis, 12 straipsnio 2 ir 3 dalys, 13 straipsnio 3 dalis, 15 straipsnio
 
-15 straipsnio 1 dalis, 27 straipsnio 1 dalies nuostata dėl nuorodos į
-
-„Valstybės žinių“ priedą „Informaciniai pranešimai“ panaikinimo ir 2 dalis
-
-įsigalioja 2011 m. sausio 1 d.
+1 dalis ir 27 straipsnio 2 dalis įsigalioja 2012 m. sausio 1 d.
 
 Straipsnio pakeitimai:
 
 Nr. XI-679,
 
 2010-02-11, Žin., 2010, Nr. 25-1175 (2010-03-02)
+
+Nr. XI-1256,
+
+2010-12-23, Žin., 2010, Nr. 158-8018 (2010-12-31)
 
 Skelbiu šį
 
@@ -1472,11 +1478,31 @@ VIEŠŲJŲ PIRKIMŲ
 
 ĮSTATYMAS
 
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1256, 2010-12-23,
+
+Žin., 2010, Nr. 158-8018 (2010-12-31)
+
+VIEŠŲJŲ PIRKIMŲ
+
+ĮSTATYMO 2, 4, 7, 8, 10, 11, 16, 18, 19, 22, 23, 24, 27, 28, 30, 33, 39, 40,
+
+43, 45, 49, 57, 62, 74, 85, 86, 89, 92 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO,
+
+ĮSTATYMO PAPILDYMO 15(1) STRAIPSNIU ĮSTATYMO 12, 27, 32 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo Aušrinė
+Redagavo Aušrinė Trapinskienė
 
-Trapinskienė (2010-03-02)
+(2011-01-04)
 
 autrap@lrs.lt
 
