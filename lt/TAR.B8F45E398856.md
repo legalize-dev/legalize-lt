@@ -4,7 +4,7 @@ identifier: "TAR.B8F45E398856"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-28"
-last_updated: "2010-07-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8F45E398856"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2010-12-31
+Suvestinė redakcija nuo 2011-01-01 iki 2012-11-21
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 35-855, i. k. 0961010ISTA00I-1246
 
@@ -69,9 +69,17 @@ BENDROSIOS NUOSTATOS
 
 5. Gydytojas odontologas specialistas – gydytojas odontologas, baigęs odontologijos rezidentūrą.
 
-6. Gydytojas odontologas rezidentas – gydytojas odontologas, studijuojantis odontologijos rezidentūroje ir prižiūrimas odontologo rezidento vadovo atliekantis gydytojo odontologo rezidento pareigas universiteto padalinyje ar įvertintoje ir atrinktoje odontologijos rezidentūros programai vykdyti įstaigoje, turinčioje teisę vykdyti asmens sveikatos priežiūrą.
+6. Gydytojas odontologas rezidentas – gydytojas odontologas, studijuojantis odontologijos rezidentūroje ir prižiūrimas odontologo rezidento vadovo dirbantis gydytoju odontologu rezidentu.
 
-7. Odontologijos rezidentūra – trečiosios pakopos universitetinės odontologijos krypties studijos, kurias baigus išduodamas rezidentūros pažymėjimas, nurodantis gydytojo odontologo specialisto profesinę kvalifikaciją. Rezidentūros metu odontologas studijuoja ir prižiūrimas odontologo rezidento vadovo atlieka nustatytas pareigas bei įgyja specialių odontologijos žinių, įgūdžių ir klinikinės patirties.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
+
+7. Odontologijos rezidentūra – trečiosios pakopos universitetinės odontologijos krypties studijos, skirtos gydytojui odontologui, norinčiam įgyti ar pakeisti odontologijos praktikos rūšies gydytojo odontologo profesinę kvalifikaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
 
 8. Odontologijos praktika – odontologo pagal įgytą profesinę kvalifikaciją ir nustatytą kompetenciją atliekama burnos ligų individuali profilaktika, diagnostika, gydymas.
 
@@ -91,9 +99,23 @@ Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA0
 
 14. Receptas – sveikatos apsaugos ministro nustatytos formos rašytinis odontologo nurodymas vaistininkui, pagal kurį vaistinė paruošia ir išduoda vaistus, odontologijos pagalbos priemones.
 
-15. Valstybė narė – Europos Sąjungos valstybė narė, Šveicarija ar valstybė, pasirašiusi Europos ekonominės erdvės susitarimą.
+15. Rezidentūros bazė – universiteto ligoninė ar kita sveikatos priežiūros įstaiga, sveikatos apsaugos ministro ir švietimo ir mokslo ministro nustatyta tvarka įgijusi teisę vykdyti rezidentūros programą ar jos dalį.
 
-16. Valstybės narės pilietis – Europos Sąjungos valstybės narės, Šveicarijos ar valstybės, pasirašiusios Europos ekonominės erdvės susitarimą, pilietis.
+Papildyta straipsnio dalimi:
+
+Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
+
+16. Valstybė narė – Europos Sąjungos valstybė narė, Šveicarija ar valstybė, pasirašiusi Europos ekonominės erdvės susitarimą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
+
+17. Valstybės narės pilietis – Europos Sąjungos valstybės narės, Šveicarijos ar valstybės, pasirašiusios Europos ekonominės erdvės susitarimą, pilietis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
 
 ANTRASIS SKIRSNIS
 
@@ -105,15 +127,27 @@ ODONTOLOGIJOS PRAKTIKA
 
 2. Gydytojo odontologo specialisto profesinė kvalifikacija įgyjama baigus odontologijos studijas ir odontologijos rezidentūrą.
 
-3. Odontologo profesinė kvalifikacija Lietuvos Respublikoje įgyjama šio Įstatymo ir kitų teisės aktų nustatyta tvarka.
+3. Odontologijos rezidentūrą sudaro teorinė dalis ir gydytojo odontologo rezidento profesinės veiklos praktika, skirstomos į dalykų ciklus (modulius, praktikumus). Rezidentūros teorinį kursą organizuoja universitetas gydytojo odontologo rezidento praktikos vietoje. Profesinės veiklos praktikos metu gydytojas odontologas dirba gydytoju odontologu rezidentu ir įgyja specialių odontologijos įgūdžių bei klinikinės patirties. Šiam tikslui rezidentūros bazė su gydytoju odontologu rezidentu vietoj profesinės veiklos praktikos sutarties sudaro terminuotą darbo sutartį ir gydytojas odontologas įdarbinamas gydytoju odontologu rezidentu rezidentūros bazėje. Gydytojo odontologo rezidento bazinei pareiginei algai mokėti Sveikatos apsaugos ministerijai skiriami valstybės biudžeto asignavimai. Lėšos rezidentūros bazėms paskirstomos sveikatos apsaugos ministro nustatyta tvarka. Gydytojo odontologo rezidento profesinės veiklos praktika skirstoma į jaunesniojo ir vyresniojo gydytojo odontologo rezidento praktiką. Gydytojo odontologo rezidento profesinės veiklos praktikos apimtį, trukmę, gydytojo odontologo rezidento teises, pareigas, kompetenciją, atsakomybę ir bazinę pareiginę algą nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. Gydytojų odontologų rengimo ir profesinių kvalifikacijų įgijimo tvarką nustato Lietuvos Respublikos teisės aktai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
 
 4. Užsienyje įgyta odontologo profesinė kvalifikacija pripažįstama Lietuvos Respublikos teisės aktų nustatyta tvarka ar tarptautinių sutarčių numatytais atvejais.
 
 4 straipsnis. Odontologo teisės verstis odontologijos praktika įgijimas ir įgyvendinimas
 
-1. Verstis odontologijos praktika Lietuvos Respublikoje turi teisę odontologas, turintis šio Įstatymo nustatyta tvarka išduotą galiojančią licenciją. Verstis odontologijos praktika odontologas gali tik sveikatos priežiūros įstaigoje, turinčioje licenciją teikti odontologijos praktikos paslaugas.
+1. Verstis odontologijos praktika Lietuvos Respublikoje turi teisę odontologas, turintis šio Įstatymo nustatyta tvarka išduotą galiojančią licenciją. Verstis odontologijos praktika odontologas gali tik sveikatos priežiūros įstaigoje, turinčioje licenciją teikti odontologijos praktikos paslaugas. Gydytojas odontologas rezidentas verstis odontologijos praktika pagal rezidentūros studijų programą gali tik įstaigoje, kurioje atlieka rezidentūrą, ir tik prižiūrimas odontologo rezidento vadovo.
 
-2. Odontologas, valstybės narės pilietis, išskyrus odontologą Lietuvos Respublikos nuolatinį gyventoją, turi teisę laikinai teikti odontologijos praktikos paslaugas Lietuvos Respublikoje teisės aktų nustatyta tvarka ir neturėdamas profesinei veiklai Lietuvoje išduotos licencijos. Prieš suteikdamas odontologijos praktikos paslaugą, jis apie šios paslaugos teikimą iš anksto privalo sveikatos apsaugos ministro nustatyta tvarka raštu informuoti licencijas išduodančią instituciją. Ypatingais atvejais, suteikus skubią odontologijos pagalbą, informacija apie tai privalo būti pateikta licencijas išduodančiai institucijai per 3 darbo dienas po šios paslaugos suteikimo. Informuojant apie teikiamas paslaugas būtina pateikti pranešimą ir dokumentus, patvirtinančius, kad paslaugos teikėjas teisėtai verčiasi odontologo veikla valstybėje narėje, kurioje jis yra įsisteigęs, ir turi odontologo diplomą, pažymėjimą ar kitą oficialų kvalifikaciją patvirtinantį dokumentą, būtiną konkrečioms paslaugoms teikti. Dokumentai turi būti pateikti ne vėliau kaip po 12 mėnesių nuo jų išdavimo dienos. Odontologas, norintis laikinai teikti odontologijos praktikos paslaugas ir apie tai informavęs licencijas išduodančią instituciją, registruojamas registre ir atleidžiamas nuo registravimo mokesčio.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
+
+2. Odontologas, valstybės narės pilietis, išskyrus odontologą, Lietuvos Respublikos nuolatinį gyventoją, turi teisę laikinai teikti odontologijos praktikos paslaugas Lietuvos Respublikoje teisės aktų nustatyta tvarka ir neturėdamas profesinei veiklai Lietuvoje išduotos licencijos. Prieš suteikdamas odontologijos praktikos paslaugą, odontologas, valstybės narės pilietis, apie šios paslaugos teikimą iš anksto privalo raštu informuoti Sveikatos apsaugos ministeriją ir pateikti deklaraciją bei Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme nurodytus dokumentus sveikatos apsaugos ministro nustatyta tvarka. Odontologas, norintis laikinai teikti odontologijos praktikos paslaugas, registruojamas registre ir atleidžiamas nuo registravimo mokesčio.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
 
 3. Odontologas, pažeidęs šio straipsnio 2 dalies reikalavimus, atsako Lietuvos Respublikos teisės aktų nustatyta tvarka.
 
@@ -137,7 +171,11 @@ ODONTOLOGIJOS PRAKTIKA
 
 11. Atsisakymas išduoti licenciją negali būti grindžiamas praktikos netikslingumu ir turi būti motyvuotas.
 
-12. Licenciją išduodanti institucija savo sprendimus išduoti licenciją, sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą ar panaikinti licencijos galiojimą skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“.
+12. Licenciją išduodanti institucija savo sprendimus išduoti licenciją, sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą ar panaikinti licencijos galiojimą skelbia savo interneto tinklalapyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-887, 2010-06-08, Žin., 2010, Nr. 71-3559 (2010-06-19), i. k. 1101010ISTA00XI-887
 
 13. Licencijas išduodanti institucija apie priimtą sprendimą dėl licencijos išdavimo, atsisakymo išduoti, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ar licencijos galiojimo panaikinimo privalo pranešti registrui registro nuostatų nustatyta tvarka.
 
@@ -173,7 +211,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XI-713, 2010-03-30, Žin., 2010, Nr. 41-1938 (2010-04-10), i. k. 1101010ISTA00XI-713
 
-5. Atsižvelgdamas į „Valstybės žinių“ priede „Informaciniai pranešimai“ paskelbtą licencijas išduodančios institucijos sprendimą panaikinti licencijos galiojimą, darbdavys privalo nutraukti darbo sutartį su odontologu be įspėjimo Lietuvos Respublikos darbo kodekso nustatyta tvarka.
+5. Atsižvelgdamas į interneto tinklalapyje paskelbtą licencijas išduodančios institucijos sprendimą panaikinti licencijos galiojimą, darbdavys privalo nutraukti darbo sutartį su odontologu be įspėjimo Lietuvos Respublikos darbo kodekso nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-887, 2010-06-08, Žin., 2010, Nr. 71-3559 (2010-06-19), i. k. 1101010ISTA00XI-887
 
 6 straipsnis.         Licencijos išdavimo sąlygos odontologui, kuriam anksčiau buvo panaikintas licencijos galiojimas
 
@@ -273,17 +315,75 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 Lietuvos Respublikos
 
-1996 m. kovo 28 d.
-
-įstatymo Nr. I-1246
+odontologijos praktikos įstatymo
 
 priedas
 
-Įgyvendinami Europos Sąjungos teisės aktai
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1978 m. liepos 25 d. Tarybos direktyvos 78/687/EEB dėl įstatymų ir kitų teisės aktų nuostatų, reglamentuojančių dantų gydytojų veiklą, suderinimo 1, 2, 5 straipsniai.
+2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/36/EB dėl profesinių kvalifikacijų pripažinimo (OL 2005 L 255, p. 22).
 
-2. 1978 m. liepos 25 d. Tarybos direktyvos 78/686/EEB dėl dantų gydytojų diplomų, pažymėjimų ir kitų oficialią kvalifikaciją patvirtinančių dokumentų abipusio pripažinimo, įskaitant priemones, padedančias veiksmingai naudotis įsisteigimo teise ir laisve teikti paslaugas 2, 4, 13, 15 straipsniai.
+Priedo pakeitimai:
+
+Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1558, 1996-09-25, Žin., 1996, Nr. 102-2316 (1996-10-23), i. k. 0961010ISTA00I-1558
+
+Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-327, 1997-06-26, Žin., 1997, Nr. 66-1602 (1997-07-11), i. k. 0971010ISTAVIII-327
+
+Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo 5 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1930, 2003-12-18, Žin., 2004, Nr. 4-36 (2004-01-07), i. k. 1031010ISTA0IX-1930
+
+Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
+
+Lietuvos Respublikos medicinos praktikos įstatymo, Odontologijos praktikos įstatymo, Sveikatos sistemos įstatymo, Psichikos sveikatos priežiūros įstatymo, Narkologinės priežiūros įstatymo pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-713, 2010-03-30, Žin., 2010, Nr. 41-1938 (2010-04-10), i. k. 1101010ISTA00XI-713
+
+Lietuvos Respublikos odontologijos praktikos įstatymo 5 ir 7 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
+
+Lietuvos Respublikos odontologijos praktikos įstatymo 2, 3, 4 straipsnių ir priedo pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-887, 2010-06-08, Žin., 2010, Nr. 71-3559 (2010-06-19), i. k. 1101010ISTA00XI-887
+
+Lietuvos Respublikos odontologijos praktikos įstatymo 4 ir 5 straipsnių pakeitimo įstatymas
 
 12 straipsnis.       Asmenys, turintys teisę į valstybės ar savivaldybių remiamas (nemokamas) stomatologinės priežiūros (pagalbos) paslaugas LNSS įstaigose
 
