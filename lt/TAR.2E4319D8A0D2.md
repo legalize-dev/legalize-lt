@@ -4,7 +4,7 @@ identifier: "TAR.2E4319D8A0D2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-09-23"
-last_updated: "2010-07-13"
+last_updated: "2011-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E4319D8A0D2"
 department: "Lietuvos Respublikos Seimas"
@@ -18,6 +18,10 @@ document_status: "registruotas TA registre"
 Įstatymas skelbtas: Žin., 2003, Nr. 92-4140
 
 Neoficialus įstatymo tekstas
+
+Statuto
+
+aktuali redakcija nuo 2011 m. sausio 1 d.
 
 LIETUVOS
 
@@ -84,6 +88,10 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS
 
 PREZIDENTAS                                                           ROLANDAS PAKSAS
+
+Statuto
+
+aktuali redakcija nuo 2011 m. sausio 1 d.
 
 PATVIRTINTA
 
@@ -645,35 +653,55 @@ Kariai skiriami tik į Departamento pareigybių sąraše nustatytas, jų karinį
 
 laipsnį atitinkančias pareigas.
 
-2.
+2. Nustatomos
 
-Kariams nustatomos šios pareigybės ir jas atitinkantys karių laipsniai:
+šios karių pareigybės ir jas atitinkantys karių laipsniai:
 
-1) direktoriaus – pulkininko, brigados generolo;
+1) direktorius –
 
-2) direktoriaus pavaduotojo – pulkininko;
+pulkininkas (jūrų kapitonas), brigados generolas (flotilės admirolas);
 
-3) tarnybos viršininko
+2) direktoriaus
 
-– pulkininko leitenanto, pulkininko;
+pavaduotojas – pulkininkas (jūrų kapitonas);
 
-4) skyriaus viršininko – majoro, pulkininko leitenanto;
+3) tarnybos
 
-5) skyriaus viršininko pavaduotojo, poskyrio viršininko –
+viršininkas – pulkininkas leitenantas (komandoras), pulkininkas (jūrų
 
-majoro;
+kapitonas);
 
-6) vyriausiojo specialisto – nuo leitenanto iki majoro imtinai;
+4) skyriaus
 
-7) vyresniojo specialisto – nuo jaunesniojo puskarininkio
+viršininkas – majoras (komandoras leitenantas), pulkininkas leitenantas
 
-iki vyresniojo puskarininkio imtinai;
+(komandoras);
 
-8) specialisto – nuo jaunesniojo seržanto iki viršilos
+5) skyriaus
 
-imtinai;
+viršininko pavaduotojas, poskyrio viršininkas – majoras (komandoras
 
-9) jaunesniojo specialisto – eilinio, grandinio.
+leitenantas);
+
+6) vyriausiasis specialistas
+
+– nuo leitenanto iki majoro (komandoro leitenanto);
+
+7) vyresnysis
+
+specialistas – nuo štabo seržanto, štabo seržanto specialisto (štabo laivūno,
+
+štabo laivūno specialisto) iki seržanto majoro (vyresniojo laivūno);
+
+8) specialistas
+
+– nuo grandinio iki vyresniojo seržanto, vyresniojo seržanto specialisto;
+
+9) jaunesnysis
+
+specialistas – nuo jaunesniojo eilinio (jaunesniojo jūreivio) iki vyresniojo
+
+eilinio (vyresniojo jūreivio).
 
 3. Statutiniai tarnautojai šio statuto nustatyta tvarka
 
@@ -727,6 +755,14 @@ organizavimo ir karo tarnybos įstatymo bei krašto apsaugos ministro įsakymų
 
 nustatytais reikalavimais ir tvarka.
 
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-1252,
+
+2010-12-23, Žin., 2010, Nr. 157-7980 (2010-12-31)
+
 ŠEŠTASIS
 
 SKIRSNIS
@@ -771,9 +807,9 @@ tarnybos ir aprūpinimo sąlygas mokymosi ar kvalifikacijos tobulinimo
 
 laikotarpiu nustato Vyriausybė ar jos įgaliota institucija.
 
-20 straipsnis. Išlaidų, susijusių
+20 straipsnis. Išlaidų,
 
-su karių ir statutinių tarnautojų mokymu, profesiniu parengimu ar
+susijusių su karių ir statutinių tarnautojų mokymu, profesiniu parengimu ar
 
 kvalifikacijos tobulinimu, atlyginimas
 
@@ -1045,9 +1081,9 @@ su Departamento direktoriumi, direktoriaus pavaduotojais ir karininkais –
 
 krašto apsaugos ministras;
 
-2)
+2) su kariais
 
-su kariais iki vyresniojo puskarininkio (įskaitytinai) ir statutiniais
+iki seržanto majoro (vyresniojo laivūno) įskaitytinai ir statutiniais
 
 tarnautojais – Departamento direktorius.
 
@@ -1127,6 +1163,14 @@ motinos ar tėvo, kurie yra vaiko (vaikų) iki trejų metų priežiūros
 
 atostogose.
 
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-1252,
+
+2010-12-23, Žin., 2010, Nr. 157-7980 (2010-12-31)
+
 24 straipsnis. Karių ir statutinių
 
 tarnautojų išeitinių kompensacijų skyrimo sąlygos ir tvarka
@@ -1145,17 +1189,17 @@ ministro arba sutartį nutraukti įgalioto Departamento direktoriaus iniciatyva
 
 (šio statuto 22 straipsnio 2 dalies 2, 7, 9, 10, 12 punktai), o statutinis
 
-tarnautojas atleidimo dieną turi teisę gauti pareigūnų ir karių valstybinę
+tarnautojas atleidimo dieną turi teisę gauti pareigūnų ir karių valstybinę pensiją,
 
-pensiją, jam išmokama 2 mėnesių vidutinio
+jam išmokama 2 mėnesių vidutinio darbo
 
-darbo užmokesčio dydžio išeitinė kompensacija. Jei statutinis tarnautojas
+užmokesčio dydžio išeitinė kompensacija. Jei statutinis tarnautojas atleidimo
 
-atleidimo dieną neturi teisės gauti pareigūnų ir karių valstybinę pensiją, jam
+dieną neturi teisės gauti pareigūnų ir karių valstybinę pensiją, jam išmokama
 
-išmokama išeitinė kompensacija, kurios dydis priklauso nuo jo tarnybos krašto
+išeitinė kompensacija, kurios dydis priklauso nuo jo tarnybos krašto apsaugos
 
-apsaugos sistemoje stažo:
+sistemoje stažo:
 
 1)
 
@@ -1201,13 +1245,13 @@ tarnautojų perkėlimas į kitą tarnybos vietą, kitas pareigas
 
 1.
 
-Esant tarnybiniam būtinumui ir vadovaujantis Krašto apsaugos sistemos
+Esant tarnybiniam būtinumui ir vadovaujantis Krašto apsaugos sistemos organizavimo
 
-organizavimo ir karo tarnybos įstatymo nuostatomis, gali būti vykdoma
+ir karo tarnybos įstatymo nuostatomis, gali būti vykdoma Departamente
 
-Departamente tarnaujančių karių rotacija. Vykdant rotaciją karys gali būti
+tarnaujančių karių rotacija. Vykdant rotaciją karys gali būti perkeliamas į
 
-perkeliamas į kitą krašto apsaugos sistemos instituciją.
+kitą krašto apsaugos sistemos instituciją.
 
 2. Sprendimą dėl kario perkėlimo į kitą
 
@@ -1281,21 +1325,21 @@ kategorijos pareigos, jis gali būti į jas perkeliamas. Tokiam perkėlimui
 
 būtinas statutinio tarnautojo raštiškas sutikimas.
 
-7. Esant
+7. Esant tarnybiniam
 
-tarnybiniam būtinumui, taip pat atsižvelgiant į kitų valstybės institucijų
+būtinumui, taip pat atsižvelgiant į kitų valstybės institucijų interesus ir
 
-interesus ir atitinkamų specialistų poreikį, kariai ir statutiniai tarnautojai
+atitinkamų specialistų poreikį, kariai ir statutiniai tarnautojai Krašto
 
-Krašto apsaugos ministro įsakymu Vyriausybės nustatyta tvarka gali būti
+apsaugos ministro įsakymu Vyriausybės nustatyta tvarka gali būti paskiriami į
 
-paskiriami į pareigas Lietuvos Respublikos diplomatinėse atstovybėse,
+pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose,
 
-konsulinėse įstaigose, atstovybėse prie tarptautinių organizacijų, taip pat
+atstovybėse prie tarptautinių organizacijų, taip pat užsienio valstybių ir
 
-užsienio valstybių ir tarptautinėse karinėse ar gynybos institucijose bei
+tarptautinėse karinėse ar gynybos institucijose bei tarptautinių operacijų
 
-tarptautinių operacijų kariniuose vienetuose.
+kariniuose vienetuose.
 
 AŠTUNTASIS
 
@@ -1393,9 +1437,9 @@ prieštarauja įstatymams ar kitiems teisės aktams;
 
 užduoties ar pavedimo vykdymas;
 
-7) nebuvimas tarnybos
+7) nebuvimas
 
-vietoje vieną ar daugiau darbo dienų be pateisinamos priežasties;
+tarnybos vietoje vieną ar daugiau darbo dienų be pateisinamos priežasties;
 
 8) buvimas tarnybos
 
@@ -1403,9 +1447,9 @@ metu apsvaigusiam nuo alkoholio, narkotinių ar toksinių medžiagų;
 
 9) kovinių ginklų ar
 
-specialiųjų priemonių praradimas ar kovinių ginklų ir specialiųjų priemonių naudojimo
+specialiųjų priemonių praradimas ar kovinių ginklų ir specialiųjų priemonių
 
-taisyklių pažeidimas;
+naudojimo taisyklių pažeidimas;
 
 10) tarnybinio
 
@@ -1465,11 +1509,9 @@ nuobaudos skyrimo procedūra pradedama, kai Departamento direktorius ar jo
 
 įgaliotas asmuo gauna informaciją apie Departamento statutinio tarnautojo
 
-tarnybinį nusižengimą. Tarnybinių nusižengimų tyrimą atlieka Departamento
+tarnybinį nusižengimą. Tarnybinių nusižengimų tyrimą atlieka Departamento direktoriaus
 
-direktoriaus įgaliotas karininkas ar statutinis tarnautojas arba jo sudaryta
-
-komisija.
+įgaliotas karininkas ar statutinis tarnautojas arba jo sudaryta komisija.
 
 2. Tarnybinė
 
@@ -1479,17 +1521,17 @@ vėliau kaip per vieną mėnesį nuo nusižengimo paaiškėjimo dienos, neįskai
 
 laiko, kurį statutinis tarnautojas nebuvo tarnyboje dėl ligos arba atostogavo.
 
-Negalima skirti tarnybinės nuobaudos praėjus vieniems metams nuo nusižengimo padarymo
+Negalima skirti tarnybinės nuobaudos praėjus vieniems metams nuo nusižengimo
 
-dienos.
+padarymo dienos.
 
 3. Prieš skiriant
 
-tarnybinę nuobaudą, reikalaujama, kad statutinis tarnautojas raštu
+tarnybinę nuobaudą, reikalaujama, kad statutinis tarnautojas raštu pasiaiškintų.
 
-pasiaiškintų. Jei statutinis tarnautojas atsisako raštu pasiaiškinti,
+Jei statutinis tarnautojas atsisako raštu pasiaiškinti, tarnybinę
 
-tarnybinę nuobaudą galima skirti be pasiaiškinimo.
+nuobaudą galima skirti be pasiaiškinimo.
 
 4. Tarnybinė
 
@@ -1645,9 +1687,9 @@ dydžio priedas.
 
 tarnautojams mokami tokie pareiginės algos priedai už kvalifikacinę kategoriją:
 
-1) už pirmą kvalifikacinę
+1) už pirmą kvalifikacinę kategoriją
 
-kategoriją – 35 procentų pareiginės algos dydžio priedas;
+– 35 procentų pareiginės algos dydžio priedas;
 
 2) už antrą kvalifikacinę
 
@@ -1717,15 +1759,15 @@ stažą tik tuo atveju, jei karys ar statutinis tarnautojas vėl paskiriamas į
 
 pareigas Departamente ir ten išdirba ne mažiau kaip vienus metus.
 
-5. Kariai ir statutiniai tarnautojai Departamento rezerve
+5. Kariai ir statutiniai tarnautojai Departamento
 
-nepertraukiamai gali būti ne ilgiau kaip 4 metus. Esant tarnybiniam būtinumui,
+rezerve nepertraukiamai gali būti ne ilgiau kaip 4 metus. Esant tarnybiniam
 
-karių ir statutinių tarnautojų buvimo Departamento rezerve laikas gali būti
+būtinumui, karių ir statutinių tarnautojų buvimo Departamento rezerve laikas
 
-pratęstas, tačiau bendras karių ir statutinių tarnautojų buvimo Departamento
+gali būti pratęstas, tačiau bendras karių ir statutinių tarnautojų buvimo
 
-rezerve laikas per visą jų tarnybą negali viršyti 8 metų.
+Departamento rezerve laikas per visą jų tarnybą negali viršyti 8 metų.
 
 6. Rezervo sudarymo, jo veiklos, karių ir statutinių
 
