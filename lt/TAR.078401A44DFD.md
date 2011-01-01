@@ -4,7 +4,7 @@ identifier: "TAR.078401A44DFD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-12"
-last_updated: "2004-03-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.078401A44DFD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 3 straipsnis, 5 straipsnio 3 dalis, 7 st
 ---
 # Lietuvos Respublikos kraujo donorystės įstatymas
 
-Suvestinė redakcija nuo 2004-03-01 iki 2010-12-31
+Suvestinė redakcija nuo 2011-01-01 iki 2012-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 115-2666, i. k. 0961010ISTA00I-1611
 
@@ -62,9 +62,23 @@ Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010IS
 
 6. Kraujo preparatai – vaistiniai preparatai, pagaminti iš žmogaus kraujo ar plazmos.
 
-7. Recipientas – asmuo, kuriam gydymo tikslu atliekama kraujo ar kraujo komponentų transfuzija.
+7. Ligoninės kraujo bankas – ligoninės padalinys, laikantis ir skirstantis kraują ir jo komponentus, turintis teisę atlikti kraujo ir jo komponentų suderinamumo tyrimus ir vykdyti transfuzinę veiklą išimtinai ligoninės reikmėms tenkinti.
 
-8. Transfuzija – kraujo ar kraujo komponentų perpylimas į žmogaus organizmą gydymo tikslu.
+Papildyta straipsnio dalimi:
+
+Nr. XI-1147, 2010-11-18, Žin., 2010, Nr. 142-7262 (2010-12-04), i. k. 1101010ISTA0XI-1147
+
+8. Recipientas – asmuo, kuriam gydymo tikslu atliekama kraujo ar kraujo komponentų transfuzija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1147, 2010-11-18, Žin., 2010, Nr. 142-7262 (2010-12-04), i. k. 1101010ISTA0XI-1147
+
+9. Transfuzija – kraujo ar kraujo komponentų perpylimas į žmogaus organizmą gydymo tikslu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1147, 2010-11-18, Žin., 2010, Nr. 142-7262 (2010-12-04), i. k. 1101010ISTA0XI-1147
 
 Straipsnio pakeitimai:
 
@@ -259,4 +273,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
 
 Lietuvos Respublikos kraujo donorystės įstatymo 1, 2, 7, 11, 16 straipsnių pakeitimo ir papildymo ir IV skyriaus bei 14 straipsnio pripažinimo netekusiais galios įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1147, 2010-11-18, Žin., 2010, Nr. 142-7262 (2010-12-04), i. k. 1101010ISTA0XI-1147
+
+Lietuvos Respublikos kraujo donorystės įstatymo 2, 3 straipsnių pakeitimo ir papildymo įstatymas
 
