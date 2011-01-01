@@ -4,7 +4,7 @@ identifier: "TAR.95C4D287AAA9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-05-25"
-last_updated: "2006-07-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.95C4D287AAA9"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Bendrojo pagalbos centro įstatymas
 
-Suvestinė redakcija nuo 2006-07-01 iki 2010-12-31
+Suvestinė redakcija nuo 2011-01-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 90-3306, i. k. 1041010ISTA0IX-2246
 
@@ -55,7 +55,11 @@ Nr. X-589, 2006-05-02, Žin., 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA0
 
 2. Nelaimės vieta – vieta, kurioje susidarė ar gali susidaryti šio straipsnio 1 dalyje nurodytos aplinkybės ir (arba) kurioje reikia suteikti pagalbą.
 
-3. Pagalba – pagalbos tarnybų pagal savo kompetenciją reaguojant į pranešimus apie pagalbos poreikį atliekami neatidėliotini veiksmai. Pagalba taip pat laikomi Centro pareigūnų, priėmusių pagalbos prašymus, telefonu teikiami patarimai, paaiškinimai ar nurodymai.
+3. Pagalba – neatidėliotini veiksmai nelaimės vietoje, atliekami pagalbos tarnybų pagal savo kompetenciją reaguojant į pranešimus apie pagalbos poreikį. Pagalba taip pat laikomi Centro pareigūnų, priėmusių pagalbos prašymus, telefonu teikiami patarimai, paaiškinimai ar nurodymai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
 
 4. Pagalbos prašymas – numeriu 112 Centre gautas prašymas suteikti pagalbą. Pagalbos prašymu nelaikomas prašymas suteikti informaciją ar pagalbą, kai akivaizdu, kad pranešama apie aplinkybes, nesusijusias su nurodytomis šio straipsnio 1 dalyje.
 
@@ -63,11 +67,25 @@ Nr. X-589, 2006-05-02, Žin., 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA0
 
 6. Pagalbos tarnybos – policija, priešgaisrinės gelbėjimo pajėgos, greitosios medicinos pagalbos tarnyba. Pagalbos tarnybomis gali būti laikomi ir kiti viešieji ir privatieji juridiniai asmenys, kai jie pasitelkiami reaguoti į pranešimus apie pagalbos poreikį įstatymų ir kitų teisės aktų nustatyta tvarka ir sąlygomis.
 
-7. Pranešimas apie pagalbos poreikį – Centro pareigūno, priėmusio pagalbos prašymą, parengtas pranešimas pagalbos tarnyboms apie šio straipsnio 1 dalyje nurodytas aplinkybes ir reikalingų atlikti veiksmų poreikį nelaimės vietoje, prireikus papildytas Centro informacinės sistemos ar kitais duomenimis.
+7. Pranešimas apie pagalbos poreikį – Centro pareigūno, priėmusio pagalbos prašymą, parengtas ir perduotas pranešimas pagalbos tarnyboms apie šio straipsnio 1 dalyje nurodytas aplinkybes ir reikalingų atlikti veiksmų poreikį nelaimės vietoje, prireikus papildytas Centro informacinės sistemos ar kitais duomenimis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
 
 8. Reagavimas į pagalbos prašymą – Centro veiksmai, apimantys pagalbos prašymo priėmimą, įvertinimą, teiktinos pagalbos poreikio nustatymą, pagalbos teikimą telefonu, pranešimo apie pagalbos poreikį parengimą ir jo perdavimą pagalbos tarnyboms bei tolesnį turimos informacijos teikimą šioms tarnyboms.
 
-9. Šio įstatymo 7 straipsnyje, 8 straipsnio 1 ir 2 dalyse, 15 straipsnio 1 dalies 4 punkte ir 16 straipsnio 1 dalies 3 punkte vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos elektroninių ryšių įstatyme.
+9. Operatyvusis pajėgų valdymas – reagavimas į pagalbos prašymą ir priešgaisrinių gelbėjimo ir greitosios medicinos pagalbos tarnybos pajėgų išsiuntimas į nelaimės vietą, jų veiksmų koordinavimas ir turimos aktualios informacijos jiems teikimas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
+
+10. Šio įstatymo 7 straipsnyje, 8 straipsnio 1 ir 2 dalyse, 15 straipsnio 1 dalies 4 punkte ir 16 straipsnio 1 dalies 3 punkte vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos elektroninių ryšių įstatyme.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
 
 3 straipsnis. Centro teisinė forma, steigimo ir veiklos teisiniai pagrindai
 
@@ -137,43 +155,95 @@ Centro funkcijos:
 
 4) perduoti pranešimus apie pagalbos poreikį atitinkamoms pagalbos tarnyboms, kai pagalba turi būti teikiama nelaimės vietoje;
 
-5) teikti pagalbą telefonu iki pagalbos tarnybų atvykimo;
+5) atlikti operatyvųjį pajėgų valdymą;
 
-6) jei reikia, pranešti apie susidariusias ar galinčias susidaryti šio įstatymo 2 straipsnio 1 dalyje nurodytas aplinkybes suinteresuotiems juridiniams ar (ir) fiziniams asmenims;
+Papildyta straipsnio punktu:
 
-7) užtikrinti tinkamą Centro informacinės sistemos veikimą ir joje tvarkomų duomenų apsaugą teisės aktų nustatyta tvarka ir sąlygomis;
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
 
-8) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka  teikti informaciją apie Centro regioninių padalinių aptarnaujamas teritorijas viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams;
+6) teikti pagalbą telefonu iki pagalbos tarnybų atvykimo;
 
-9) diegti techninius ir programinius sprendimus, leidžiančius sutrumpinti reagavimo į pagalbos prašymus laiką;
+Straipsnio punkto numeracijos pakeitimas:
 
-10) įstatymų nustatyta tvarka ir sąlygomis automatiniu ir neautomatiniu būdu tvarkyti asmens ir kitokius duomenis, jei to reikia nustatytiems uždaviniams įgyvendinti;
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
 
-11) įgyvendinti priemones, skirtas sumažinti melagingų pagalbos prašymų skaičiui;
+7) jei reikia, pranešti apie susidariusias ar galinčias susidaryti šio įstatymo 2 straipsnio 1 dalyje nurodytas aplinkybes suinteresuotiems juridiniams ar (ir) fiziniams asmenims;
 
-12) pagal kompetenciją dalyvauti valdant ekstremalias situacijas;
+Straipsnio punkto numeracijos pakeitimas:
 
-13) įstatymų ir kitų teisės aktų nustatyta tvarka ir sąlygomis teikti Centre turimą informaciją pagalbos tarnyboms bei kitoms valstybės ir savivaldybių institucijoms, įstaigoms ar įmonėms;
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
 
-14) atlikti kitas įstatymų nustatytas funkcijas.
+8) užtikrinti tinkamą Centro informacinės sistemos veikimą ir joje tvarkomų duomenų apsaugą teisės aktų nustatyta tvarka ir sąlygomis;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
+
+9) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka  teikti informaciją apie Centro regioninių padalinių aptarnaujamas teritorijas viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
+
+10) diegti techninius ir programinius sprendimus, leidžiančius sutrumpinti reagavimo į pagalbos prašymus laiką;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
+
+11) įstatymų nustatyta tvarka ir sąlygomis automatiniu ir neautomatiniu būdu tvarkyti asmens ir kitokius duomenis, jei to reikia nustatytiems uždaviniams įgyvendinti;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
+
+12) įgyvendinti priemones, skirtas sumažinti melagingų pagalbos prašymų skaičiui;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
+
+13) pagal kompetenciją dalyvauti valdant ekstremalias situacijas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
+
+14) įstatymų ir kitų teisės aktų nustatyta tvarka ir sąlygomis teikti Centre turimą informaciją pagalbos tarnyboms bei kitoms valstybės ir savivaldybių institucijoms, įstaigoms ar įmonėms;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
+
+15) atlikti kitas įstatymų nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
 
 TREČIASIS SKIRSNIS
 
-CENTRO KOMPETENCIJA REAGUOJANT Į PAGALBOS PRAŠYMUS
+CENTRO KOMPETENCIJA ATLIEKANT OPERATYVŲJĮ PAJĖGŲ VALDYMĄ
 
-11 straipsnis. Centro kompetencija reaguojant į pagalbos prašymus
+11 straipsnis. Centro kompetencija atliekant operatyvųjį pajėgų valdymą
 
-1. Esant galimybei Centras suteikia pagalbą telefonu, pranešimo apie pagalbos poreikį neperduodamas pagalbos tarnyboms.
+1. Esant galimybei Centras suteikia pagalbą telefonu, pranešimo apie pagalbos poreikį neperduodamas pagalbos tarnyboms.
 
-2. Kai nustatoma, kad pagalbą privalo suteikti pagalbos tarnybos, Centras perduoda atitinkamoms pagalbos tarnyboms pagal jų pateiktus algoritmus (informavimo schemas) pranešimą apie pagalbos poreikį ir, jei reikia, teikia pagalbą telefonu iki šių tarnybų atvykimo į nelaimės vietą.
+2. Kai nustatoma, kad pagalbą privalo suteikti pagalbos tarnybos, Centras perduoda atitinkamoms pagalbos tarnyboms pagal jų pateiktus algoritmus (informavimo schemas) pranešimą apie pagalbos poreikį ir, jei reikia, teikia pagalbą telefonu iki šių tarnybų atvykimo į nelaimės vietą.
 
-3. Pagalbos tarnybos, gavusios Centro perduotą pranešimą apie pagalbos poreikį, jų veiklą reglamentuojančių teisės aktų nustatyta tvarka privalo reaguoti į šį pranešimą ir pagal savo kompetenciją nelaimės vietoje suteikti pagalbą.
+3. Pagalbos tarnybos, gavusios Centro perduotą pranešimą apie pagalbos poreikį, jų veiklą reglamentuojančių teisės aktų nustatyta tvarka privalo reaguoti į šį pranešimą ir pagal savo kompetenciją nelaimės vietoje suteikti pagalbą.
 
-4. Pagalbos tarnyboms, reaguojančioms į pranešimą apie pagalbos poreikį, Centras teikia turimą informaciją apie padėties nelaimės vietoje pasikeitimus bei kitą informaciją, galinčią padėti šioms tarnyboms veiksmingai suteikti pagalbą ar racionaliau panaudoti jų pajėgų ir priemonių išteklius, naudojamus reaguoti į pranešimus apie pagalbos poreikį.
+4. Pagalbos tarnyboms, reaguojančioms į pranešimą apie pagalbos poreikį, Centras teikia turimą informaciją apie padėties nelaimės vietoje pasikeitimus bei kitą informaciją, galinčią padėti šioms tarnyboms veiksmingai suteikti pagalbą ar racionaliau panaudoti jų pajėgų ir priemonių išteklius, naudojamus reaguoti į pranešimus apie pagalbos poreikį.
 
-5. Pagalbos tarnybos informuoja Centrą apie pagalbos suteikimo rezultatus.
+5. Operatyviojo pajėgų valdymo tvarką nustato vidaus reikalų ministras ir sveikatos apsaugos ministras.
 
-6. Centras neatsako už pagalbos tarnybų patirtą turtinę ar neturtinę žalą (nuostolius) sureagavus į netikslius pranešimus apie pagalbos poreikį, jeigu jie buvo parengti pagal melagingus ar klaidingus pagalbos prašymus.
+6. Pagalbos tarnybos informuoja Centrą apie pagalbos suteikimo rezultatus.
+
+7. Centras neatsako už pagalbos tarnybų patirtą turtinę ar neturtinę žalą (nuostolius) sureagavus į netikslius pranešimus apie pagalbos poreikį, jeigu jie buvo parengti pagal melagingus ar klaidingus pagalbos prašymus.
+
+Skirsnio pakeitimai:
+
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
 
 4 skirsnis. Neteko galios nuo 2006-07-01
 
@@ -249,7 +319,11 @@ Centro PAREIGŪNO TEISĖS IR PAREIGOS
 
 4) pagal kompetenciją užtikrinti Centro informacinėje sistemoje esančių duomenų teisingumą ir saugumą;
 
-5) tik tarnybos tikslams naudotis Centro informacinėje sistemoje esančiais duomenimis.
+5) tik tarnybos tikslams naudoti Centro informacinėje sistemoje tvarkomus duomenis.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
 
 2. Centro pareigūnas privalo vykdyti ir kitas įstatymų bei kitų teisės aktų jam nustatytas pareigas.
 
@@ -303,7 +377,15 @@ Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. X-589, 2006-05-02, Žin., 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA000X-589
 
-Lietuvos Respublikos bendrojo pagalbos centro įstatymo 1, 3 straipsnių pakeitimo ir ketvirtojo, šeštojo bei septintojo skirsnių pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos Bendrojo pagalbos centro įstatymo 1, 3 straipsnių pakeitimo ir ketvirtojo, šeštojo bei septintojo skirsnių pripažinimo netekusiais galios įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
+
+Lietuvos Respublikos Bendrojo pagalbos centro įstatymo 2, 10, 16 straipsnių ir trečiojo skirsnio pakeitimo ir papildymo įstatymas
 
 18 straipsnis. Centro finansavimas
 
