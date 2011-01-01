@@ -4,7 +4,7 @@ identifier: "TAR.DA9157003A5B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-18"
-last_updated: "2004-01-07"
+last_updated: "2011-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DA9157003A5B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 entry_into_force_conditions: "Įstatymo 4 straipsnio 1 dalies 2 ir 3 punktai, 16 straipsnio 2 dalies 1 ir 2 punktai, 3 dalis ir 13 straipsnis įsigalioja nuo 2004-09-01"
 ---
 # Lietuvos Respublikos odontologų rūmų įstatymas
+
+Suvestinė redakcija nuo 2011-01-01 iki 2019-09-30
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 4-35, i. k. 1031010ISTA0IX-1929
 
 LIETUVOS RESPUBLIKOS
 
@@ -285,7 +289,11 @@ RŪMŲ VALDYMAS
 
 6. Rūmų komisija, priėmusi sprendimą išduoti, sustabdyti ar panaikinti licencijos galiojimą, privalo per 5 darbo dienas šį sprendimą įrašyti į licencijų registrą. Informacija apie licencijos išdavimą, jos galiojimo sustabdymą ar panaikinimą teisės aktų nustatyta tvarka perduodama juridinių asmenų registrui.
 
-7. Duomenis apie licencijų išdavimą, galiojimo sustabdymą ar panaikinimą, taip pat apie odontologinės priežiūros (pagalbos) įstaigų akreditavimą teisės aktų nustatyta tvarka „Valstybės žinių“ priede „Informaciniai pranešimai“ skelbia Rūmų taryba.
+7. Duomenis apie licencijų išdavimą, galiojimo sustabdymą ar panaikinimą, taip pat apie odontologinės priežiūros (pagalbos) įstaigų akreditavimą Rūmų taryba skelbia Rūmų interneto tinklalapyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-888, 2010-06-08, Žin., 2010, Nr. 71-3560 (2010-06-19), i. k. 1101010ISTA00XI-888
 
 8. Rūmų komisijų sprendimai gali būti skundžiami per vieną mėnesį nuo atitinkamo sprendimo gavimo dienos Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
