@@ -4,7 +4,7 @@ identifier: "TAR.369CF9E97755"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-28"
-last_updated: "2010-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.369CF9E97755"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2010-12-31
+Suvestinė redakcija nuo 2011-01-01 iki 2012-11-21
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2224, i. k. 1011010ISTA00IX-413
 
@@ -119,7 +119,11 @@ SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 
 7. Licencijavimo institucija duomenis apie licencijos išdavimą, atsisakymą išduoti licenciją, licencijos galiojimo sustabdymą, licencijos galiojimo sustabdymo panaikinimą, licencijos galiojimo panaikinimą, licencijos duomenų tikslinimą, dublikato išdavimą ir kitus su licencijuojama veikla susijusius duomenis įrašo į Sveikatos priežiūros ir farmacijos specialistų praktikos licencijų registro (toliau – Registras) duomenų bazę Registro nuostatų nustatyta tvarka.
 
-8. Licencijavimo institucija informaciją apie sprendimus išduoti licenciją, sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą arba panaikinti licencijos galiojimą skelbia leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ ir interneto svetainėje.
+8. Licencijavimo institucija informaciją apie sprendimus išduoti licenciją, sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą arba panaikinti licencijos galiojimą skelbia savo interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-885, 2010-06-08, Žin., 2010, Nr. 71-3557 (2010-06-19), i. k. 1101010ISTA00XI-885
 
 9. Licencijavimo institucija motyvuotą sprendimą dėl licencijos išdavimo ar atsisakymo ją išduoti priima ne vėliau kaip per 30 dienų nuo visų dokumentų gavimo dienos.
 
