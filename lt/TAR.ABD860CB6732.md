@@ -4,7 +4,7 @@ identifier: "TAR.ABD860CB6732"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2001-11-21"
+last_updated: "2011-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ABD860CB6732"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2001-11-06"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmens tapatybės kortelės įstatymo įgyvendinimo įstatymas
+
+Suvestinė redakcija nuo 2011-01-01 iki 2015-03-01
+
+Įstatymas paskelbtas: Žin. 2001, Nr. 97-3418, i. k. 1011010ISTA00IX-578
 
 LIETUVOS RESPUBLIKOS
 
@@ -41,6 +45,12 @@ Pasiūlyti Vyriausybei iki 2002 m. rugsėjo 1 d. peržiūrėti galiojančius įs
 
 2. Iki Asmens tapatybės kortelės įstatymo įsigaliojimo dienos išduoti Lietuvos Respublikos piliečio pasai galioja iki juose nurodytos galiojimo datos.
 
+3. Praradusiam Lietuvos Respublikos piliečio pasą piliečiui gali būti išduodamas laikinasis pažymėjimas. Jo formą ir išdavimo tvarką nustato vidaus reikalų ministras.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1057, 2010-10-12, Žin., 2010, Nr. 125-6380 (2010-10-23), i. k. 1101010ISTA0XI-1057
+
 4 straipsnis. Netenkantys galios teisės aktai
 
 Įsigaliojus Lietuvos Respublikos asmens tapatybės kortelės įstatymui, netenka galios:
@@ -62,4 +72,14 @@ Pasiūlyti Vyriausybei iki 2002 m. rugsėjo 1 d. peržiūrėti galiojančius įs
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1057, 2010-10-12, Žin., 2010, Nr. 125-6380 (2010-10-23), i. k. 1101010ISTA0XI-1057
+
+Lietuvos Respublikos asmens tapatybės kortelės įstatymo įgyvendinimo įstatymo 3 straipsnio papildymo įstatymas
 
