@@ -4,7 +4,7 @@ identifier: "TAR.A612711C3F71"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-01-12"
-last_updated: "2006-07-14"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A612711C3F71"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos tarnybinio paso įstatymas
 
-Suvestinė redakcija nuo 2006-07-14 iki 2010-12-31
+Suvestinė redakcija nuo 2011-01-01 iki 2019-09-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 7-178, i. k. 1001010ISTAIII-1527
 
@@ -56,7 +56,11 @@ Nr. X-706, 2006-06-20, Žin., 2006, Nr. 77-2958 (2006-07-14), i. k. 1061010ISTA0
 
 2. Tarnybinis pasas gali būti išduodamas kitiems asmenims, kurie atlikdami tarnybines pareigas vyksta į užsienį tarnybos tikslais. Šių asmenų pareigybių sąrašą nustato Vyriausybė.
 
-3. Tarnybinis pasas išduodamas šio straipsnio 1 ir 2 dalyse nurodytiems asmenims, turintiems asmens tapatybės kortelę.
+3. Tarnybinis pasas išduodamas šio straipsnio 1 ir 2 dalyse nurodytiems asmenims, turintiems asmens tapatybės kortelę, Lietuvos Respublikos išduotą pasą arba Lietuvos Respublikos piliečio pasą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1059, 2010-10-12, Žin., 2010, Nr. 125-6382 (2010-10-23), i. k. 1101010ISTA0XI-1059
 
 4. Tarnybinis pasas neišduodamas asmenims, kuriems pagal Diplomatinės tarnybos įstatymą gali būti išduotas diplomatinis pasas.
 
@@ -223,4 +227,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-706, 2006-06-20, Žin., 2006, Nr. 77-2958 (2006-07-14), i. k. 1061010ISTA000X-706
 
 Lietuvos Respublikos tarnybinio paso įstatymo 1, 5 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo priedu įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1059, 2010-10-12, Žin., 2010, Nr. 125-6382 (2010-10-23), i. k. 1101010ISTA0XI-1059
+
+Lietuvos Respublikos tarnybinio paso įstatymo 3 straipsnio pakeitimo įstatymas
 
