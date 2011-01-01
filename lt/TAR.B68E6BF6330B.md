@@ -4,7 +4,7 @@ identifier: "TAR.B68E6BF6330B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-08"
-last_updated: "2009-01-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B68E6BF6330B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2010-12-31
+Suvestinė redakcija nuo 2011-01-01 iki 2011-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 117-4369, i. k. 1041010ISTA0IX-2332
 
@@ -39,7 +39,11 @@ Vilnius
 
 3 straipsnis. Mokesčio mokėtojai
 
-Mokestį moka valstybės įmonės.
+Mokestį moka valstybės įmonės, išskyrus valstybės įmonę Ignalinos atominę elektrinę.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1161, 2010-11-23, Žin., 2010, Nr. 145-7418 (2010-12-11), i. k. 1101010ISTA0XI-1161
 
 4 straipsnis. Mokesčio objektas
 
@@ -59,7 +63,11 @@ Taikomi šie mokesčio tarifai:
 
 2) valstybės įmonėms prie pataisos įstaigų – 0,1 procento;
 
-3) valstybės įmonei Ignalinos atominei elektrinei – 0,5 procento;
+3) Neteko galios nuo 2011-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XI-1161, 2010-11-23, Žin. 2010, Nr. 145-7418 (2010-12-11), i. k. 1101010ISTA0XI-1161
 
 4) kitoms valstybės įmonėms – 2 procentai, tačiau mokėtinas mokestis negali būti mažesnis negu 10 procentų praėjusio mokestinio laikotarpio apmokestinamojo pelno, apskaičiuoto pagal Lietuvos Respublikos pelno mokesčio įstatymo 11 straipsnį, sumos.
 
@@ -128,4 +136,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-81, 2008-12-19, Žin., 2008, Nr. 149-6007 (2008-12-30), i. k. 1081010ISTA000XI-81
 
 Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymo 5 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1161, 2010-11-23, Žin., 2010, Nr. 145-7418 (2010-12-11), i. k. 1101010ISTA0XI-1161
+
+Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymo 3 ir 5 straipsnių pakeitimo įstatymas
 
