@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2010-10-26"
+last_updated: "2011-01-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -1437,9 +1437,9 @@ straipsnis. Kitos sąlyginio sandorio pasekmės
 
 1. Jeigu sąlyga
 
-sandorio sudarymo metu jau buvo, tai sandoris laikomas besąlyginiu, kai ta
+sandorio sudarymo metu jau buvo, tai sandoris laikomas besąlyginiu, kai ta sąlyga
 
-sąlyga atidedamoji, arba niekiniu, kai ta sąlyga naikinamoji.
+atidedamoji, arba niekiniu, kai ta sąlyga naikinamoji.
 
 2. Jeigu
 
@@ -2159,13 +2159,13 @@ pat gali būti sandorio šalies tylėjimas, t. y. aplinkybių, kurias žinodama 
 
 sandorio šalis nebūtų sudariusi sandorio, nuslėpimas, jeigu, vadovaujantis
 
-protingumo, teisingumo ir sąžiningumo principais, tos aplinkybės turėjo būti
+protingumo, teisingumo ir sąžiningumo principais, tos aplinkybės turėjo būti atskleistos
 
-atskleistos kitai šaliai, arba aktyvūs veiksmai, kuriais siekiama suklaidinti
+kitai šaliai, arba aktyvūs veiksmai, kuriais siekiama suklaidinti kitą sandorio
 
-kitą sandorio šalį dėl sandorio efekto, jo esminių sąlygų, sandorį sudarančio
+šalį dėl sandorio efekto, jo esminių sąlygų, sandorį sudarančio asmens
 
-asmens civilinio teisinio subjektiškumo bei kitų esminių aplinkybių.
+civilinio teisinio subjektiškumo bei kitų esminių aplinkybių.
 
 6. Jeigu
 
@@ -4051,15 +4051,15 @@ ir ribotai veiksnių asmenų registre registruojami asmenys, kurie teismo tvarka
 
 pripažinti neveiksniais arba kurių civilinis veiksnumas apribotas,
 
-nepilnamečiai nuo keturiolikos iki aštuoniolikos metų šio kodekso 2.8 straipsnio
+nepilnamečiai nuo keturiolikos iki aštuoniolikos metų šio kodekso 2.8
 
-3 dalyje nustatytais atvejais, šių asmenų globėjai ir rūpintojai ir tvarkomi
+straipsnio 3 dalyje nustatytais atvejais, šių asmenų globėjai ir rūpintojai ir
 
-dėl jų teismo priimtų sprendimų duomenys apie veiksnumo ar veiksnumo apribojimo
+tvarkomi dėl jų teismo priimtų sprendimų duomenys apie veiksnumo ar veiksnumo
 
-nustatymą ir panaikinimą. Neveiksnių ir ribotai veiksnių asmenų registras yra
+apribojimo nustatymą ir panaikinimą. Neveiksnių ir ribotai veiksnių asmenų
 
-neviešas valstybės registras.
+registras yra neviešas valstybės registras.
 
 2.
 
@@ -4131,9 +4131,11 @@ straipsnio 1 dalyje nurodytais veiksmais juridiniam asmeniui padarytus
 
 nuostolius, taip pat nuostolius kitiems asmenims, padarytus tvarkant juridinių
 
-asmenų registrą, atlygina valstybė. Žala išieškoma teismo tvarka. Valstybei civilinėse
+asmenų registrą, atlygina valstybė. Žala išieškoma teismo tvarka. Valstybei
 
-bylose dėl žalos atlyginimo atstovauja Vyriausybės įgaliota institucija.
+civilinėse bylose dėl žalos atlyginimo atstovauja Vyriausybės įgaliota
+
+institucija.
 
 VI SKYRIUS
 
@@ -4231,11 +4233,11 @@ vaikai privalo išlaikyti savo nedarbingus ir paramos reikalingus tėvus ir jais
 
 rūpintis.
 
-2. Išlaikymas
+2. Išlaikymas mokamas
 
-mokamas vaikų ir tėvų tarpusavio susitarimu arba pagal tėvų ieškinį teismo
+vaikų ir tėvų tarpusavio susitarimu arba pagal tėvų ieškinį teismo sprendimu
 
-sprendimu priteisus išlaikymą iš vaikų.
+priteisus išlaikymą iš vaikų.
 
 3. Išlaikymas
 
@@ -4273,15 +4275,15 @@ neturi teisės į išlaikymą.
 
 straipsnis. Nedarbingų tėvų papildomų išlaidų kompensacija
 
-1. Jeigu pilnamečiai
+1. Jeigu
 
-vaikai nesirūpina savo nedarbingais tėvais, teismas pagal tėvų ieškinį gali iš
+pilnamečiai vaikai nesirūpina savo nedarbingais tėvais, teismas pagal tėvų
 
-vaikų priteisti papildomas išlaidas, tėvų turėtas dėl sunkios jų ligos,
+ieškinį gali iš vaikų priteisti papildomas išlaidas, tėvų turėtas dėl sunkios
 
-sužalojimo ar jiems būtinos priežiūros, kurią atlygintinai atliko pašaliniai
+jų ligos, sužalojimo ar jiems būtinos priežiūros, kurią atlygintinai atliko
 
-asmenys.
+pašaliniai asmenys.
 
 2. Teismas,
 
@@ -4327,9 +4329,9 @@ leidžiama tik tuos vaikus, kurie yra įrašyti į įvaikinamų vaikų apskaitą
 
 leidžiama tik ne jaunesnius kaip trijų mėnesių nepilnamečius vaikus.
 
-4. Neleidžiama
+4. Neleidžiama įvaikinti
 
-įvaikinti savo vaikų, seserų ir brolių.
+savo vaikų, seserų ir brolių.
 
 5. Įvaikintą
 
@@ -4557,17 +4559,17 @@ straipsnis. Pasirengimo įvaikinti patikrinimas
 
 1. Valstybinės
 
-įvaikinimo institucijos atestuoti socialiniai darbuotojai išsiaiškina, ar
+įvaikinimo institucijos atestuoti socialiniai darbuotojai išsiaiškina, ar būsimiems
 
-būsimiems įtėviams nėra šio kodekso trečiojoje knygoje numatytų kliūčių
+įtėviams nėra šio kodekso trečiojoje knygoje numatytų kliūčių įvaikinti,
 
-įvaikinti, ištiria jų gyvenimo sąlygas, būdą, surenka informaciją apie
+ištiria jų gyvenimo sąlygas, būdą, surenka informaciją apie sveikatos būklę ir
 
-sveikatos būklę ir pateikia išvadą dėl būsimųjų įvaikintojų pasirengimo
+pateikia išvadą dėl būsimųjų įvaikintojų pasirengimo įvaikinti. Medicininių
 
-įvaikinti. Medicininių kontraindikacijų, kurioms esant asmenys negali būti
+kontraindikacijų, kurioms esant asmenys negali būti įvaikintojai, sąrašą
 
-įvaikintojai, sąrašą patvirtina Vyriausybė ar jos įgaliota institucija.
+patvirtina Vyriausybė ar jos įgaliota institucija.
 
 2. Jei būsimieji
 
@@ -4639,13 +4641,13 @@ tėvų valdžios apribojimas nepanaikintas, jų vaikas įtraukiamas į galimų
 
 straipsnis. Prašymų įvaikinti nagrinėjimas
 
-1. Lietuvos Respublikos
+1. Lietuvos
 
-piliečių prašymus įvaikinti nagrinėja apylinkės teismai pagal pareiškėjo arba
+Respublikos piliečių prašymus įvaikinti nagrinėja apylinkės teismai pagal
 
-įvaikinamo vaiko gyvenamąją vietą, dalyvaujant pareiškėjams ir valstybinės
+pareiškėjo arba įvaikinamo vaiko gyvenamąją vietą, dalyvaujant pareiškėjams ir
 
-įvaikinimo institucijos atstovui.
+valstybinės įvaikinimo institucijos atstovui.
 
 2. Užsienio
 
@@ -4715,13 +4717,13 @@ pasirengimą įvaikinti, būsimų įtėvių ir įvaikio bendravimo trukmę iki p
 
 įvaikintojų šeimoje.
 
-3. Teismo nutartimi
+3. Teismo
 
-vaiką perkėlus į šeimą iki įvaikinimo, vaiko ir būsimų įvaikintojų tarpusavio
+nutartimi vaiką perkėlus į šeimą iki įvaikinimo, vaiko ir būsimų įvaikintojų
 
-teisės ir pareigos, išskyrus paveldėjimo, prilyginamos vaikų ir tėvų pagal
+tarpusavio teisės ir pareigos, išskyrus paveldėjimo, prilyginamos vaikų ir tėvų
 
-kilmę tarpusavio teisėms bei pareigoms.
+pagal kilmę tarpusavio teisėms bei pareigoms.
 
 4. Įvaikinę
 
@@ -4963,9 +4965,9 @@ išskyrus daiktus, kuriuos sugyventiniai individualiai naudoja.
 
 3. Šio skyriaus
 
-normos netaikomos turtui, kurį sugyventiniai naudoja rekreacijai (sodas, vasarnamis
+normos netaikomos turtui, kurį sugyventiniai naudoja rekreacijai (sodas,
 
-ir pan.).
+vasarnamis ir pan.).
 
 3.231
 
@@ -4975,13 +4977,13 @@ straipsnis. Sugyventinių bendrai naudojamo turto teisinis režimas
 
 kodekso 3.230 straipsnyje nurodyti nekilnojamieji daiktai ar teisės į jį
 
-įregistruoti vieno sugyventinio vardu, abu sugyventiniai bendru prašymu gali nurodyti
+įregistruoti vieno sugyventinio vardu, abu sugyventiniai bendru prašymu gali
 
-atitinkamam viešam registrui įrašyti reikiamą įrašą apie tai, kad šiuos daiktus
+nurodyti atitinkamam viešam registrui įrašyti reikiamą įrašą apie tai, kad
 
-ar teises į juos abu sugyventiniai bendrai naudoja. Tokiame prašyme esančių
+šiuos daiktus ar teises į juos abu sugyventiniai bendrai naudoja. Tokiame
 
-sugyventinių parašų tikrumą turi patvirtinti notaras.
+prašyme esančių sugyventinių parašų tikrumą turi patvirtinti notaras.
 
 2. Sugyventiniai
 
@@ -5105,11 +5107,11 @@ amžiaus ar dėl kitokių svarbių aplinkybių neturi savo gyvenamosios patalpos
 
 6. Kitas turtas,
 
-nenumatytas šio kodekso 3.230 straipsnyje, kuris buvo įgytas ar prižiūrimas panaudojant
+nenumatytas šio kodekso 3.230 straipsnyje, kuris buvo įgytas ar prižiūrimas
 
-abiejų sugyventinių lėšas, dalijamas pagal bendrosios dalinės nuosavybės
+panaudojant abiejų sugyventinių lėšas, dalijamas pagal bendrosios dalinės
 
-taisykles.
+nuosavybės taisykles.
 
 3.235
 
@@ -5265,9 +5267,9 @@ turi naudoti išimtinai neveiksnaus ar ribotai veiksnaus asmens interesais.
 
 2. Sandoriams,
 
-kurių suma didesnė nei penki tūkstančiai litų, sudaryti yra reikalingas išankstinis
+kurių suma didesnė nei penki tūkstančiai litų, sudaryti yra reikalingas
 
-teismo leidimas.
+išankstinis teismo leidimas.
 
 3. Visais
 
@@ -5713,13 +5715,13 @@ visas pakeisto dokumento tekstas, jei dokumentas keičiamas.
 
 4. Juridinių
 
-asmenų registrui pateikiamas įmonės metinių finansinių ataskaitų rinkinys
+asmenų registrui pateikiamas įmonės metinių finansinių ataskaitų rinkinys (konsoliduotųjų
 
-(konsoliduotųjų finansinių ataskaitų rinkinys) ir metinis pranešimas
+finansinių ataskaitų rinkinys) ir metinis pranešimas (konsoliduotasis metinis
 
-(konsoliduotasis metinis pranešimas) kiekvienais metais per trisdešimt dienų
+pranešimas) kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo
 
-nuo jų patvirtinimo momento, jei įstatymai nenumato kitaip.
+momento, jei įstatymai nenumato kitaip.
 
 5. Šio
 
@@ -5733,9 +5735,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. XI-595,
+Nr. XI-595, 2009-12-22,
 
-2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
+Žin., 2009, Nr. 159-7202 (2009-12-31)
 
 2.65 straipsnis. Juridinio asmens kodas
 
@@ -11319,849 +11321,9 @@ atvejais dėl savo komercinės, profesinės veiklos turi teisę teikti vartojimo
 
 kreditą.
 
-6.887
+6.886 straipsnio
 
-straipsnis. Vartojimo kredito sutarties forma ir turinys
-
-1. Vartojimo
-
-kredito sutartis turi būti rašytinė.
-
-2. Vienas sutarties
-
-egzempliorius privalo būti įteiktas kredito gavėjui. Kilus ginčui, sutarties
-
-egzemplioriaus įteikimo kredito gavėjui faktą privalo įrodyti kredito davėjas.
-
-3. Vartojimo kredito
-
-sutartyje turi būti nurodyta:
-
-1) kredito suma
-
-arba kredito limitas, jeigu toks yra;
-
-2) metinė kredito grąžinimo
-
-norma, palūkanų norma, mokesčiai ir kitos su kredito gavimu bei naudojimu
-
-susijusios kredito gavėjo išlaidos;
-
-3) kredito grąžinimo
-
-terminas arba, jeigu kreditas turi būti grąžinamas dalinėmis įmokomis, –
-
-kiekvienos įmokos suma ir mokėjimo laikas;
-
-4) daiktui ar paslaugai
-
-pirkti skirto kredito atveju – daikto (paslaugos) kaina ir bendra kredito suma;
-
-5) kredito gavėjo teisė
-
-grąžinti kreditą nesibaigus jo grąžinimo laikui pagal šio kodekso 6.888
-
-straipsnio nuostatas;
-
-6) metinės kredito
-
-grąžinimo normos keitimo sąlygos ir tvarka, jeigu tokia galimybė yra nustatyta
-
-sutartyje, su sąlyga, kad pakeitimų negali daryti kredito davėjas
-
-vienašališkai.
-
-4. Jeigu kredito gavėjas
-
-privalo pateikti kredito draudimą, sutartyje taip pat privalo būti nurodyta
-
-kredito draudimo vertė ir sąlygos, kuriomis draudimo suma bus pervesta kredito davėjui.
-
-5. Sutarties sudarymo metu
-
-kredito gavėjas raštu informuojamas apie:
-
-1) teikiamo
-
-kredito apribojimus, jei tokių yra;
-
-2) metinę palūkanų normą ir
-
-mokesčius, taikomus nuo sutarties sudarymo, ir sąlygas, kurioms esant jie gali
-
-būti keičiami;
-
-3) sutarties pakeitimo
-
-procedūrą.
-
-6. Sutarties galiojimo metu
-
-kredito gavėjas informuojamas apie kiekvieną metinės palūkanų normos arba
-
-panašių išlaidų pasikeitimą tuo metu, kai tokie pasikeitimai įvyksta.
-
-7. Metinės kredito
-
-grąžinimo normos apskaičiavimo tvarką nustato Vyriausybė ir Lietuvos bankas.
-
-8. Visais atvejais,
-
-nesvarbu, kokiu būdu siūloma vartotojui sudaryti kredito sutartį (taip pat ir
-
-reklamoje), nurodoma metinė kredito grąžinimo norma. Rašytiniame pasiūlyme
-
-nurodomas bendros kredito sumos apskaičiavimo pavyzdys.
-
-6.888
-
-straipsnis. Kredito gavėjo teisės
-
-1. Jeigu
-
-sutartyje nėra numatytos šio kodekso 6.887 straipsnio 3 dalyje nurodytos
-
-privalomos jos sąlygos arba sutartyje nurodyta informacija yra klaidinanti,
-
-kredito gavėjas turi teisę sutarties atsisakyti. Šiuo atveju kredito gavėjas
-
-turi kreditą grąžinti, bet jis neprivalo mokėti sutartyje nustatytų palūkanų ir
-
-kitų mokesčių.
-
-2. Kredito
-
-gavėjas turi teisę kreditą grąžinti nesibaigus jo grąžinimo laikui, tačiau
-
-sumoka iki kredito grąžinimo dienos priskaičiuotas palūkanas ir kitus
-
-mokesčius.
-
-6.889
-
-straipsnis. Sutarties nutraukimas kredito davėjo reikalavimu
-
-Kredito davėjas turi teisę nutraukti sutartį,
-
-jeigu yra abi šios sąlygos:
-
-1) mokėjimas yra uždelstas
-
-daugiau kaip vieną mėnesį ir jo suma yra ne mažesnė kaip dešimt procentų
-
-bendros kredito sumos;
-
-2) nebuvo sumokėta per dvi
-
-savaites nuo papildomo pranešimo įteikimo kredito gavėjui.
-
-6.890
-
-straipsnis. Draudimas priimti vekselius, čekius ir skolos raštus
-
-1. Kredito davėjui draudžiama priimti įmokas
-
-iš kredito gavėjo vekseliais, čekiais ar skolos raštais.
-
-2. Jeigu kredito davėjas
-
-priėmė įmokas šio straipsnio 1 dalyje nustatytomis mokėjimo priemonėmis, jis
-
-turi atlyginti kredito gavėjui visus nuostolius, susijusius su šių mokėjimo
-
-priemonių tolesniu naudojimu.
-
-6.891
-
-straipsnis. Kredito sutartis dėl tam tikro daikto ar paslaugos pirkimo
-
-1. Jeigu kredito gavėjas ir kredito davėjas
-
-sudaro sutartį dėl tam tikrų daiktų ar paslaugų pirkimo finansavimo, o tarp
-
-kredito davėjo ir pardavėjo ar paslaugų tiekėjo yra sudaryta sutartis dėl šių
-
-daiktų pardavimo ar paslaugų teikimo finansavimo, kai pardavėjas ar paslaugos
-
-teikėjas nevykdo arba netinkamai vykdo savo sutartinius įsipareigojimus,
-
-kredito gavėjas turi teisę:
-
-1) sustabdyti
-
-savo prievolės pagal kredito sutartį vykdymą;
-
-2) reikalauti, kad kredito
-
-davėjas grąžintų jau sumokėtas įmokas.
-
-2. Kredito gavėjas gali
-
-pasinaudoti šio straipsnio 1 dalyje nustatytomis teisėmis tik po to, kai jis
-
-kreipėsi į pardavėją ar paslaugų teikėją su prašymu tinkamai įvykdyti sutartį,
-
-tačiau per protingą terminą po tokio kreipimosi pirkimo-pardavimo ar paslaugų
-
-sutarties sąlygos nebuvo įvykdytos.
-
-3. Kredito gavėjas, kurio
-
-teisės buvo pažeistos, turi teisę jas ginti teismo tvarka arba per vartotojų
-
-teises ginančias institucijas.
-
-XLiV skyrius
-
-Banko indėlis
-
-6.892
-
-straipsnis. Banko indėlio sutarties samprata
-
-1. Banko indėlio
-
-sutartimi (depozitu) viena šalis (bankas ar kita kredito įstaiga) įsipareigoja
-
-priimti iš kitos šalies (indėlininko) arba, gavusi kitai šaliai pervestą pinigų
-
-sumą (indėlį), įsipareigoja grąžinti indėlį ir sumokėti už jį palūkanas
-
-sutartyje nustatytomis sąlygomis ir tvarka.
-
-2. Banko indėlio
-
-sutartis, kai indėlininkas yra fizinis asmuo, pripažįstama vieša sutartimi.
-
-3. Banko ar kitos kredito
-
-įstaigos ir indėlininko, turinčio sąskaitą, į kurią įdėtas indėlis, santykiams
-
-taikomos šios knygos XLVI skyriaus normos, reglamentuojančios banko sąskaitos
-
-sutartį, jeigu šio skyriaus taisyklės nenustato ko kita ir tai neprieštarauja
-
-banko indėlio sutarties esmei.
-
-6.893
-
-straipsnis. Teisė priimti indėlius
-
-1. Teisę priimti
-
-indėlius turi tik bankai ir kitos kredito įstaigos, turinčios tokiai veiklai
-
-įstatymo nustatyta tvarka išduotą leidimą (licenciją).
-
-2. Jeigu indėlį
-
-priėmė asmuo, neturintis tam teisės, arba indėlis buvo priimtas pažeidžiant
-
-nustatytas bankų veiklos taisykles, indėlininkas turi teisę reikalauti
-
-nedelsiant jam grąžinti visas įmokėtas sumas, įstatymo nustatytas palūkanas ir
-
-nuostolius, kiek jų nepadengia palūkanos.
-
-3. Jeigu
-
-įstatymas nenustato ko kita, šio straipsnio 2 dalyje nustatytos teisinės
-
-pasekmės taip pat taikomos, kai:
-
-1) piniginės
-
-lėšos surenkamos parduodant akcijas ir kitus vertybinius popierius, kurių
-
-išleidimas pripažintas neteisėtu;
-
-2) piniginės
-
-lėšos surenkamos išduodant vekselius ar kitokius vertybinius popierius, o jų
-
-turėtojams nesuteikiama teisė gauti pinigines lėšas pagal pirmą pareikalavimą.
-
-6.894
-
-straipsnis. Banko indėlio sutarties forma
-
-1. Banko indėlio
-
-sutartis turi būti rašytinė.
-
-2. Rašytine
-
-sutarties forma pripažįstama indėlininko knygelė, depozito sertifikatas arba
-
-kitoks banko ar kitos kredito įstaigos išduotas dokumentas, atitinkantis
-
-nustatytas bankų ar kitų kredito įstaigų veiklos taisykles.
-
-3. Jeigu
-
-rašytinės formos nesilaikoma, banko indėlio sutartis negalioja.
-
-6.895
-
-straipsnis. Indėlių rūšys
-
-1. Banko indėlio
-
-sutartis gali būti sudaryta nustatant banko ar kitos kredito įstaigos pareigą
-
-išmokėti indėlį pagal pirmą pareikalavimą (indėlis iki pareikalavimo) arba
-
-nustatant banko ar kitos kredito įstaigos pareigą išmokėti indėlį praėjus tam
-
-tikram terminui (terminuotas indėlis).
-
-2. Bankų ar kitų
-
-kreditų įstaigų veiklą reglamentuojantys teisės aktai bei šalys susitarimu gali
-
-nustatyti ir kitokias indėlių rūšis.
-
-3. Nepaisant
-
-indėlio rūšies, bankas ar kita kredito įstaiga privalo išmokėti visą ar dalį indėlio
-
-pagal pirmą indėlininko pareikalavimą. Sutarties sąlyga, numatanti indėlininko
-
-atsisakymą teisės gauti indėlį pagal pirmą pareikalavimą, negalioja.
-
-4. Kai indėlis
-
-išmokamas indėlininkui prieš sueinant sutartyje nustatytam terminui ar prieš
-
-susidarant kitoms joje numatytoms aplinkybėms (išskyrus indėlius iki
-
-pareikalavimo), palūkanos išmokamos tokio dydžio, kuris atitinka indėliams iki
-
-pareikalavimo nustatytas palūkanas, jeigu sutartis nenustato ko kita.
-
-5. Jeigu indėlininkas
-
-nereikalauja išmokėti terminuoto indėlio pasibaigus jo terminui ar susidaro
-
-kitos sutartyje numatytos aplinkybės, tai sutartis pripažįstama pratęsta
-
-indėlio iki pareikalavimo sąlygomis, jeigu sutartis nenustato ko kita.
-
-6.896
-
-straipsnis. Palūkanos
-
-1. Bankas ar
-
-kita kredito įstaiga moka indėlininkui sutartyje nustatyto dydžio palūkanas.
-
-2. Palūkanų
-
-dydis gali būti diferencijuojamas pagal indėlio rūšį. Draudžiama nustatyti
-
-palūkanų dydį pagal indėlininko asmenines, tarnybines ar kitas savybes,
-
-nesusijusias su indėlio suma, rūšimi ar terminu.
-
-3. Jeigu
-
-palūkanų dydis sutartyje neaptartas, bankas ar kita kredito įstaiga moka
-
-vidutinę palūkanų normą, galiojusią sutarties sudarymo dieną sutarties sudarymo
-
-vietoje.
-
-4. Jeigu
-
-sutartis nenustato ko kita, bankas ar kita kredito įstaiga turi teisę
-
-vienašališkai keisti palūkanų, mokamų už indėlius iki pareikalavimo, dydį.
-
-Jeigu bankas ar kita kredito įstaiga sumažina palūkanų dydį, tai nauja palūkanų
-
-norma pradedama taikyti indėliams, kurie yra įmokėti iki pranešimo
-
-indėlininkams apie palūkanų dydžio sumažinimą, tik praėjus mėnesiui nuo šio
-
-pranešimo, jeigu ko kita nenustato sutartis.
-
-5. Palūkanų,
-
-mokamų už terminuotus ar kitokius indėlius, dydžio bankas ar kita kredito
-
-įstaiga vienašališkai mažinti neturi teisės, jeigu ko kita nenustato sutartis.
-
-6.897
-
-straipsnis. Palūkanų apskaičiavimas ir mokėjimas
-
-1. Palūkanos už
-
-indėlius pradedamos skaičiuoti nuo kitos dienos po indėlio priėmimo dienos iki
-
-dienos, einančios prieš dieną, kai indėlis buvo išmokėtas ar nurašytas iš
-
-sąskaitos kitais pagrindais.
-
-2. Jeigu
-
-sutartis nenustato ko kita, palūkanos išmokamos indėlininkui pagal jo
-
-reikalavimą, pasibaigus ketvirčiui, atskirai nuo indėlio sumos. Neišmokėtų
-
-palūkanų suma indėlis padidinamas, o palūkanos skaičiuojamos nuo padidėjusios
-
-sumos.
-
-3. Išmokant
-
-indėlį kartu išmokamos iki to momento priskaičiuotos palūkanos.
-
-6.898
-
-straipsnis. Indėlių grąžinimo užtikrinimas
-
-1. Bankas ir
-
-kita kredito įstaiga užtikrina indėlių grąžinimą įstatymų nustatyta tvarka
-
-privalomai juos drausdami, o įstatymų nustatytais atvejais – ir kitais būdais.
-
-2. Sudarant
-
-banko indėlio sutartį, bankas ar kita kredito įstaiga privalo suteikti
-
-indėlininkui informaciją apie indėlio grąžinimo užtikrinimą.
-
-3. Jeigu bankas
-
-ar kita kredito įstaiga nevykdo savo pareigos užtikrinti indėlio grąžinimą, taip
-
-pat praradus užtikrinimą arba jam pablogėjus, indėlininkas turi teisę
-
-reikalauti, kad bankas ar kita kredito įstaiga nedelsdami grąžintų indėlį,
-
-sumokėtų palūkanas ir atlygintų nuostolius.
-
-6.899
-
-straipsnis. Trečiųjų asmenų teisė įmokėti pinigus į indėlininko sąskaitą
-
-Tretieji asmenys turi teisę
-
-įmokėti pinigus į indėlininko sąskaitą, jeigu sutartis nenustato ko kita. Tokiu
-
-atveju bankas ar kita kredito įstaiga privalo visas sumas, gautas indėlininko
-
-vardu, pervesti į indėlininko sąskaitą. Šiais atvejais preziumuojama, kad
-
-indėlininkas sutiko priimti pinigų sumas iš trečiųjų asmenų ir suteikė jiems
-
-būtinus duomenis apie savo indėlio sąskaitą.
-
-6.900
-
-straipsnis. Indėliai trečiojo asmens naudai
-
-1. Indėlis gali
-
-būti įdėtas į banką ar kitą kredito įstaigą trečiojo asmens naudai. Jeigu
-
-sutartis nenustato ko kita, šis trečiasis asmuo įgyja indėlininko teises nuo
-
-savo pirmojo pareikalavimo bankui ar kitai kredito įstaigai momento arba nuo
-
-savo ketinimo naudotis indėlininko teisėmis išreiškimo kitokiu būdu momento.
-
-2. Banko indėlio
-
-sutarties trečiojo asmens naudai esminė sąlyga yra trečiojo asmens vardas ir
-
-pavardė arba pavadinimas.
-
-3. Banko indėlio
-
-sutartis trečiojo asmens, mirusio iki sutarties sudarymo momento arba
-
-neegzistuojančio sutarties sudarymo momentu, naudai negalioja.
-
-4. Asmuo,
-
-sudaręs banko indėlio sutartį trečiojo asmens naudai, turi teisę pasinaudoti
-
-indėlininko teisėmis tik iki to momento, kol trečiasis asmuo nepareiškia savo
-
-ketinimo pasinaudoti indėlininko teisėmis.
-
-5. Normos,
-
-reglamentuojančios sutartį trečiojo asmens naudai, banko ar kitos kredito
-
-įstaigos indėlio sutarčiai trečiojo asmens naudai taikomos tiek, kiek tai
-
-neprieštarauja šio straipsnio nustatytoms taisyklėms ir banko indėlio sutarties
-
-esmei.
-
-6.901
-
-straipsnis. Indėlininko knygelė
-
-1. Jeigu
-
-sutartis nenustato ko kita, banko indėlio sutartis įforminama indėlininko
-
-knygele. Indėlininko knygelė gali būti tik vardinė.
-
-2. Indėlininko
-
-knygelėje privalo būti nurodytas banko ar kitos kredito įstaigos pavadinimas,
-
-adresas ir kiti jų rekvizitai, indėlininkas, indėlio dydis, visos sutarties
-
-sąlygos, taip pat tvarkoma įmokėtų ir išmokėtų pinigų sumų apskaita, nurodomos
-
-apskaičiuotos ir išmokėtos palūkanos.
-
-3. Visos su
-
-indėliu susijusios operacijos atliekamos tik pateikus indėlininko knygelę.
-
-4. Prarasta ar
-
-netinkama naudoti knygelė keičiama banko ar kitos kredito įstaigos nustatyta
-
-tvarka.
-
-6.902
-
-straipsnis. Indėlio sertifikatas
-
-1. Indėlio
-
-sertifikatas yra vertybinis popierius, patvirtinantis indėlio sumą ir
-
-indėlininko teises į indėlį bei į palūkanas pasibaigus nustatytam indėlio
-
-terminui.
-
-2. Indėlio
-
-sertifikatas gali būti tik vardinis.
-
-XLV skyrius
-
-Faktoringas
-
-6.903
-
-straipsnis. Faktoringo sutarties samprata
-
-1. Faktoringo
-
-sutartimi viena šalis (finansuotojas) perduoda arba įsipareigoja perduoti kitai
-
-šaliai (klientui) pinigus mainais už kliento (kreditoriaus) piniginį
-
-reikalavimą, susijusį su prekių pardavimu, darbų atlikimu ar paslaugų teikimu,
-
-trečiajam asmeniui (skolininkui), o klientas perleidžia arba įsipareigoja
-
-perleisti finansuotojui piniginį reikalavimą skolininkui (finansavimas su
-
-sąlyga perleisti piniginį reikalavimą) ir mokėti sutartyje nustatytą
-
-atlyginimą.
-
-2. Piniginį
-
-reikalavimą skolininkui klientas gali perleisti finansuotojui taip pat ir
-
-siekdamas užtikrinti savo prievolių finansuotojui įvykdymą.
-
-3. Faktoringo
-
-sutartis gali nustatyti finansuotojo pareigą tvarkyti kliento veiklos
-
-buhalterinę apskaitą, teikti klientui finansines paslaugas, susijusias su
-
-piniginiais reikalavimais, esančiais perleidimo dalyku.
-
-4. Faktoringo
-
-sutartis gali būti ilgalaikė arba sudaroma atskiram atvejui.
-
-6.904
-
-straipsnis. Finansuotojas
-
-Finansuotoju
-
-pagal faktoringo sutartį gali būti tik bankas arba kitas pelno siekiantis
-
-juridinis asmuo, įstatymų nustatyta tvarka turintys teisę vykdyti faktoringo
-
-veiklą.
-
-6.905
-
-straipsnis. Faktoringo sutarties dalykas
-
-1. Faktoringo
-
-sutarties dalyku, kuriam teikiamas finansavimas, gali būti piniginis
-
-reikalavimas, pagal kurį jau yra suėjęs mokėjimo terminas (esamas
-
-reikalavimas), taip pat atsirasianti teisė gauti pinigines sumas (būsimas
-
-reikalavimas).
-
-2. Faktoringo
-
-sutarties dalyku esantis piniginis reikalavimas privalo būti apibrėžtas
-
-finansuotojo ir kliento sudarytoje sutartyje taip, kad faktoringo sutarties
-
-sudarymo momentu būtų galima identifikuoti esamą reikalavimą, o būsimą
-
-reikalavimą – ne vėliau kaip jo atsiradimo momentu.
-
-3. Perleidžiant
-
-būsimą piniginį reikalavimą pripažįstama, kad jis perėjo finansuotojui po to,
-
-kai atsirado teisė reikalauti sutartyje nustatytų pinigų sumų iš skolininko.
-
-Jeigu piniginio reikalavimo perleidimas siejamas su tam tikru įvykiu,
-
-perleidimas pripažįstamas įvykusiu, kai tas įvykis įvyksta. Tokiais atvejais
-
-papildomai įforminti piniginio reikalavimo perleidimą nereikia.
-
-6.906
-
-straipsnis. Kliento atsakomybė finansuotojui
-
-1. Jeigu
-
-faktoringo sutartis nenustato ko kita, klientas atsako finansuotojui už
-
-perleidžiamo piniginio reikalavimo, esančio sutarties dalyku, galiojimą.
-
-2. Perleidžiamas
-
-piniginis reikalavimas yra galiojantis, jeigu klientas turi teisę šį
-
-reikalavimą perleisti ir perleidimo momentu jam nėra žinomos aplinkybės, dėl
-
-kurių skolininkas turėtų teisę to reikalavimo nevykdyti.
-
-3. Jeigu
-
-finansuotojas pareikalauja įvykdyti jam perleistą piniginį reikalavimą, o
-
-skolininkas jo neįvykdo ar įvykdo netinkamai, tai klientas neatsako už tokius
-
-skolininko veiksmus, jeigu sutartis nenustato ko kita.
-
-6.907
-
-straipsnis. Draudimo perleisti piniginį reikalavimą negaliojimas
-
-1. Piniginio
-
-reikalavimo perleidimas finansuotojui galioja ir tais atvejais, kai kliento ir
-
-skolininko sudaryta sutartis tą daryti draudžia ar riboja.
-
-2. Šio straipsnio 1 dalyje
-
-nustatyta taisyklė neatleidžia kliento nuo prievolių ir atsakomybės skolininkui
-
-už sutarties sąlygos, draudžiančios ar ribojančios reikalavimo perleidimą,
-
-pažeidimą.
-
-6.908
-
-straipsnis. Pakartotinis piniginio reikalavimo perleidimas
-
-1. Jeigu
-
-faktoringo sutartis nenustato ko kita, finansuotojas neturi teisės perleisti
-
-jam perleisto piniginio reikalavimo.
-
-2. Jeigu faktoringo
-
-sutartis leidžia pakartotinį perleidimą, tai tokiam perleidimui atitinkamai
-
-taikomos šio skyriaus normos.
-
-6.909
-
-straipsnis. Piniginio reikalavimo vykdymas
-
-1. Skolininkas
-
-privalo sumokėti pinigų sumas finansuotojui, jeigu skolininkas yra gavęs iš
-
-kliento arba finansuotojo rašytinį pranešimą apie piniginio reikalavimo
-
-perleidimą finansuotojui ir pranešime nurodytas piniginis reikalavimas bei
-
-finansuotojas, kuriam turi būti įvykdyta prievolė.
-
-2. Skolininko
-
-reikalavimu finansuotojas privalo jam per protingą terminą pateikti piniginio
-
-reikalavimo perleidimo įrodymus. Jeigu finansuotojas šios pareigos neįvykdo,
-
-skolininkas turi teisę prievolę įvykdyti klientui.
-
-3. Piniginio
-
-reikalavimo įvykdymas finansuotojui pagal šio straipsnio nustatytas taisykles
-
-atleidžia skolininką nuo atitinkamos prievolės vykdymo klientui.
-
-6.910
-
-straipsnis. Finansuotojo teisės į pinigų sumas, gaunamas iš skolininko
-
-1. Jeigu kliento
-
-finansavimas pagal faktoringo sutartį pasireiškia piniginio reikalavimo pirkimu
-
-iš kliento, tai finansuotojas, nupirkęs šį reikalavimą, įgyja teisę į visas
-
-sumas, kurias jis gauna iš skolininko, kai šis vykdo reikalavimą, o klientas
-
-atsako finansuotojui už tai, kad šis iš skolininko gavo mažiau, nei sumokėjo
-
-klientui už nupirktą reikalavimą, jeigu sutartis nenustato ko kita.
-
-2. Jeigu klientas perleido
-
-piniginį reikalavimą finansuotojui norėdamas užtikrinti savo prievolių įvykdymą
-
-finansuotojui, tai finansuotojas privalo pateikti klientui ataskaitą ir
-
-perduoti jam sumą, viršijančią tokiu būdu užtikrintą kliento skolą, jeigu
-
-sutartis nenustato ko kita. Jeigu finansuotojas iš skolininko gavo mažesnę sumą
-
-nei kliento užtikrinta skola, tai klientas atsako finansuotojui už likusią
-
-nepadengtą skolos dalį.
-
-6.911
-
-straipsnis. Skolininko priešiniai reikalavimai
-
-1. Kai finansuotojas
-
-pareiškia reikalavimą skolininkui, kad šis sumokėtų pinigus, skolininkas turi teisę
-
-įskaityti savo priešinius piniginius reikalavimus, kylančius iš skolininko ir
-
-kliento sutarties, jeigu šiuos reikalavimus skolininkas jau turėjo tuo momentu,
-
-kai gavo pranešimą apie reikalavimo perleidimą finansuotojui.
-
-2.
-
-Skolininkas negali savo gynybai naudoti finansuotojui tų reikalavimų, kuriuos
-
-skolininkas galėjo pareikšti klientui dėl to, kad klientas pažeidė draudimą
-
-perleisti piniginį reikalavimą.
-
-6.912
-
-straipsnis. Skolų, kurias gavo finansuotojas, grąžinimas skolininkui
-
-1. Kai klientas
-
-pažeidžia su skolininku sudarytą sutartį, skolininkas neturi teisės reikalauti
-
-iš finansuotojo grąžinti sumas, kurias šis jau yra gavęs, jeigu skolininkas
-
-turi teisę gauti tas sumas tiesiai iš kliento.
-
-2. Skolininkas,
-
-turintis teisę išieškoti finansuotojui sumokėtas sumas tiesiai iš kliento, turi
-
-teisę reikalauti, kad tas sumas grąžintų finansuotojas, jeigu įrodo, kad
-
-finansuotojas nesumokėjo faktoringo sutartyje nustatytos sumos klientui arba ją
-
-sumokėjo žinodamas, kad klientas neįvykdė savo prievolės skolininkui.
-
-XLVI skyrius
-
-Banko sąskaita
-
-6.913
-
-straipsnis. Banko sąskaitos sutarties samprata
-
-1. Banko sąskaitos
-
-sutartimi bankas įsipareigoja priimti ir įskaityti pinigus į kliento (sąskaitos
-
-savininko) atidarytą sąskaitą, vykdyti kliento nurodymus dėl tam tikrų sumų
-
-pervedimo ir išmokėjimo iš sąskaitos bei atlikti kitokias banko atliekamas
-
-operacijas, o klientas įsipareigoja apmokėti bankui už suteiktas paslaugas ir
-
-operacijas.
-
-2. Bankas gali
-
-disponuoti kliento sąskaitoje esančiomis lėšomis su sąlyga, jeigu užtikrina
-
-kliento teisę netrukdomai disponuoti tomis lėšomis.
-
-3. Bankas neturi
-
-teisės nustatyti ir kontroliuoti kliento pinigų naudojimo ar nustatyti kitokius
-
-įstatymo ar banko sąskaitos sutarties nenumatytus kliento teisės disponuoti
-
-sąskaitoje esančiomis lėšomis savo nuožiūra apribojimus.
-
-6.914
-
-straipsnis. Banko sąskaitos sutarties sudarymas
-
-1. Sudarius
-
-banko sąskaitos sutartį, klientui ar jo nurodytam asmeniui banke atidaroma
-
-sąskaita sutartyje nustatytomis sąlygomis.
-
-2. Bankas
-
-privalo sudaryti banko sąskaitos sutartį su klientu, kuris kreipėsi su prašymu
-
-atidaryti sąskaitą, pagal banko paskelbtas tam tikros sąskaitos rūšies
-
-atidarymo sąlygas, turinčias atitikti įstatymų ir bankų veiklą nustatančių
-
-teisės aktų reikalavimus.
-
-3. Bankas neturi
-
-teisės atsisakyti atidaryti sąskaitą, jeigu jos atidarymo galimybė yra
-
-nustatyta įstatyme, banko veiklos dokumentuose arba bankui išduotoje
-
-licencijoje, išskyrus atvejus, kai tokį atsisakymą leidžia įstatymai.
+redakcija nuo 2011 m. balandžio 1 d.:
 
 2.106 straipsnis. Juridinių asmenų likvidavimo
 
@@ -12203,11 +11365,9 @@ jeigu juridinio asmens dalyvis per šešis mėnesius po tokio sumažėjimo nenut
 
 juridinio asmens reorganizuoti ar pertvarkyti;
 
-7) juridinio
+7) juridinio asmens
 
-asmens steigimo pripažinimas negaliojančiu vadovaujantis šio kodekso 2.114
-
-straipsniu.
+steigimo pripažinimas negaliojančiu vadovaujantis šio kodekso 2.114 straipsniu.
 
 Straipsnio
 
@@ -13043,9 +12203,9 @@ organų ar jų narių) veikla yra netinkama, ir teismas tam pritaria, išklausę
 
 teismas gali taikyti vieną iš šių priemonių:
 
-1) panaikinti juridinio
+1) panaikinti
 
-asmens organų sprendimus;
+juridinio asmens organų sprendimus;
 
 2) laikinai
 
@@ -13121,9 +12281,9 @@ pripažinti tėvystę su vaiko tėvu, ar tėvystės pripažinti nesutinka nepiln
 
 ar ribotai veiksnaus vyro, laikančio save vaiko tėvu, tėvai ar globėjai
 
-(rūpintojai), ar raštiškai sutikimo nepatvirtina vaikas, kuriam yra suėję
+(rūpintojai), ar raštiškai sutikimo nepatvirtina vaikas, kuriam yra suėję dešimt
 
-dešimt metų, pareiškimas dėl tėvystės pripažinimo gali būti pagrindas tėvystei
+metų, pareiškimas dėl tėvystės pripažinimo gali būti pagrindas tėvystei
 
 registruoti, jei šį pareiškimą patvirtina teismas.
 
@@ -13163,9 +12323,9 @@ vaiko gimimą.
 
 nagrinėjamą pareiškimą dėl tėvystės pripažinimo ginčija nepilnamečio, ribotai
 
-veiksnaus vyro, laikančio save vaiko tėvu, tėvai ar globėjai (rūpintojai),
+veiksnaus vyro, laikančio save vaiko tėvu, tėvai ar globėjai (rūpintojai), pareiškimas
 
-pareiškimas perduodamas nagrinėti ieškinio teisena tėvystei nustatyti.
+perduodamas nagrinėti ieškinio teisena tėvystei nustatyti.
 
 Trečiasis skirsnis
 
@@ -15929,101 +15089,17 @@ kvitą.
 
 sandėliavimo liudijimas susideda iš dviejų dalių – sandėliavimo ir įkeitimo
 
-6.887 straipsnis.
+6.887 straipsnis
 
-Vartojimo kredito sutarties forma ir turinys
+netenka galios nuo 2011 m. balandžio 1 d.
 
-1. Vartojimo
+Straipsnio
 
-kredito sutartis turi būti rašytinė.
+pakeitimai:
 
-2. Vienas sutarties
+Nr. XI-1254,
 
-egzempliorius privalo būti įteiktas kredito gavėjui. Kilus ginčui, sutarties
-
-egzemplioriaus įteikimo kredito gavėjui faktą privalo įrodyti kredito davėjas.
-
-3. Vartojimo kredito
-
-sutartyje turi būti nurodyta:
-
-1) kredito suma
-
-arba kredito limitas, jeigu toks yra;
-
-2) metinė kredito grąžinimo
-
-norma, palūkanų norma, mokesčiai ir kitos su kredito gavimu bei naudojimu
-
-susijusios kredito gavėjo išlaidos;
-
-3) kredito grąžinimo
-
-terminas arba, jeigu kreditas turi būti grąžinamas dalinėmis įmokomis, –
-
-kiekvienos įmokos suma ir mokėjimo laikas;
-
-4) daiktui ar paslaugai
-
-pirkti skirto kredito atveju – daikto (paslaugos) kaina ir bendra kredito suma;
-
-5) kredito gavėjo teisė
-
-grąžinti kreditą nesibaigus jo grąžinimo laikui pagal šio kodekso 6.888
-
-straipsnio nuostatas;
-
-6) metinės kredito
-
-grąžinimo normos keitimo sąlygos ir tvarka, jeigu tokia galimybė yra nustatyta
-
-sutartyje, su sąlyga, kad pakeitimų negali daryti kredito davėjas
-
-vienašališkai.
-
-4. Jeigu kredito gavėjas
-
-privalo pateikti kredito draudimą, sutartyje taip pat privalo būti nurodyta
-
-kredito draudimo vertė ir sąlygos, kuriomis draudimo suma bus pervesta kredito
-
-davėjui.
-
-5. Sutarties sudarymo metu
-
-kredito gavėjas raštu informuojamas apie:
-
-1) teikiamo
-
-kredito apribojimus, jei tokių yra;
-
-2) metinę palūkanų normą ir
-
-mokesčius, taikomus nuo sutarties sudarymo, ir sąlygas, kurioms esant jie gali
-
-būti keičiami;
-
-3) sutarties pakeitimo
-
-procedūrą.
-
-6. Sutarties galiojimo metu
-
-kredito gavėjas informuojamas apie kiekvieną metinės palūkanų normos arba
-
-panašių išlaidų pasikeitimą tuo metu, kai tokie pasikeitimai įvyksta.
-
-7. Metinės kredito
-
-grąžinimo normos apskaičiavimo tvarką nustato Vyriausybė ir Lietuvos bankas.
-
-8. Visais atvejais,
-
-nesvarbu, kokiu būdu siūloma vartotojui sudaryti kredito sutartį (taip pat ir
-
-reklamoje), nurodoma metinė kredito grąžinimo norma. Rašytiniame pasiūlyme
-
-nurodomas bendros kredito sumos apskaičiavimo pavyzdys.
+2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)
 
 6.888
 
@@ -16045,1857 +15121,7 @@ kitų mokesčių.
 
 gavėjas turi teisę kreditą grąžinti nesibaigus jo grąžinimo laikui, tačiau
 
-sumoka iki kredito grąžinimo dienos priskaičiuotas palūkanas ir kitus
-
-mokesčius.
-
-6.889
-
-straipsnis. Sutarties nutraukimas kredito davėjo reikalavimu
-
-Kredito davėjas turi teisę nutraukti sutartį,
-
-jeigu yra abi šios sąlygos:
-
-1) mokėjimas yra uždelstas
-
-daugiau kaip vieną mėnesį ir jo suma yra ne mažesnė kaip dešimt procentų
-
-bendros kredito sumos;
-
-2) nebuvo sumokėta per dvi
-
-savaites nuo papildomo pranešimo įteikimo kredito gavėjui.
-
-6.890
-
-straipsnis. Draudimas priimti vekselius, čekius ir skolos raštus
-
-1. Kredito davėjui draudžiama priimti įmokas
-
-iš kredito gavėjo vekseliais, čekiais ar skolos raštais.
-
-2. Jeigu kredito davėjas
-
-priėmė įmokas šio straipsnio 1 dalyje nustatytomis mokėjimo priemonėmis, jis
-
-turi atlyginti kredito gavėjui visus nuostolius, susijusius su šių mokėjimo
-
-priemonių tolesniu naudojimu.
-
-6.891
-
-straipsnis. Kredito sutartis dėl tam tikro daikto ar paslaugos pirkimo
-
-1. Jeigu kredito gavėjas ir kredito davėjas
-
-sudaro sutartį dėl tam tikrų daiktų ar paslaugų pirkimo finansavimo, o tarp
-
-kredito davėjo ir pardavėjo ar paslaugų tiekėjo yra sudaryta sutartis dėl šių
-
-daiktų pardavimo ar paslaugų teikimo finansavimo, kai pardavėjas ar paslaugos
-
-teikėjas nevykdo arba netinkamai vykdo savo sutartinius įsipareigojimus,
-
-kredito gavėjas turi teisę:
-
-1) sustabdyti
-
-savo prievolės pagal kredito sutartį vykdymą;
-
-2) reikalauti, kad kredito
-
-davėjas grąžintų jau sumokėtas įmokas.
-
-2. Kredito gavėjas gali
-
-pasinaudoti šio straipsnio 1 dalyje nustatytomis teisėmis tik po to, kai jis
-
-kreipėsi į pardavėją ar paslaugų teikėją su prašymu tinkamai įvykdyti sutartį,
-
-tačiau per protingą terminą po tokio kreipimosi pirkimo-pardavimo ar paslaugų
-
-sutarties sąlygos nebuvo įvykdytos.
-
-3. Kredito gavėjas, kurio
-
-teisės buvo pažeistos, turi teisę jas ginti teismo tvarka arba per vartotojų
-
-teises ginančias institucijas.
-
-XLiV skyrius
-
-Banko indėlis
-
-6.892
-
-straipsnis. Banko indėlio sutarties samprata
-
-1. Banko indėlio
-
-sutartimi (depozitu) viena šalis (bankas ar kita kredito įstaiga) įsipareigoja
-
-priimti iš kitos šalies (indėlininko) arba, gavusi kitai šaliai pervestą pinigų
-
-sumą (indėlį), įsipareigoja grąžinti indėlį ir sumokėti už jį palūkanas
-
-sutartyje nustatytomis sąlygomis ir tvarka.
-
-2. Banko indėlio
-
-sutartis, kai indėlininkas yra fizinis asmuo, pripažįstama vieša sutartimi.
-
-3. Banko ar kitos kredito
-
-įstaigos ir indėlininko, turinčio sąskaitą, į kurią įdėtas indėlis, santykiams
-
-taikomos šios knygos XLVI skyriaus normos, reglamentuojančios banko sąskaitos
-
-sutartį, jeigu šio skyriaus taisyklės nenustato ko kita ir tai neprieštarauja
-
-banko indėlio sutarties esmei.
-
-6.893
-
-straipsnis. Teisė priimti indėlius
-
-1. Teisę priimti
-
-indėlius turi tik bankai ir kitos kredito įstaigos, turinčios tokiai veiklai
-
-įstatymo nustatyta tvarka išduotą leidimą (licenciją).
-
-2. Jeigu indėlį
-
-priėmė asmuo, neturintis tam teisės, arba indėlis buvo priimtas pažeidžiant
-
-nustatytas bankų veiklos taisykles, indėlininkas turi teisę reikalauti
-
-nedelsiant jam grąžinti visas įmokėtas sumas, įstatymo nustatytas palūkanas ir
-
-nuostolius, kiek jų nepadengia palūkanos.
-
-3. Jeigu
-
-įstatymas nenustato ko kita, šio straipsnio 2 dalyje nustatytos teisinės
-
-pasekmės taip pat taikomos, kai:
-
-1) piniginės
-
-lėšos surenkamos parduodant akcijas ir kitus vertybinius popierius, kurių
-
-išleidimas pripažintas neteisėtu;
-
-2) piniginės
-
-lėšos surenkamos išduodant vekselius ar kitokius vertybinius popierius, o jų
-
-turėtojams nesuteikiama teisė gauti pinigines lėšas pagal pirmą pareikalavimą.
-
-6.894
-
-straipsnis. Banko indėlio sutarties forma
-
-1. Banko indėlio
-
-sutartis turi būti rašytinė.
-
-2. Rašytine
-
-sutarties forma pripažįstama indėlininko knygelė, depozito sertifikatas arba
-
-kitoks banko ar kitos kredito įstaigos išduotas dokumentas, atitinkantis
-
-nustatytas bankų ar kitų kredito įstaigų veiklos taisykles.
-
-3. Jeigu
-
-rašytinės formos nesilaikoma, banko indėlio sutartis negalioja.
-
-6.895
-
-straipsnis. Indėlių rūšys
-
-1. Banko indėlio
-
-sutartis gali būti sudaryta nustatant banko ar kitos kredito įstaigos pareigą
-
-išmokėti indėlį pagal pirmą pareikalavimą (indėlis iki pareikalavimo) arba
-
-nustatant banko ar kitos kredito įstaigos pareigą išmokėti indėlį praėjus tam
-
-tikram terminui (terminuotas indėlis).
-
-2. Bankų ar kitų
-
-kreditų įstaigų veiklą reglamentuojantys teisės aktai bei šalys susitarimu gali
-
-nustatyti ir kitokias indėlių rūšis.
-
-3. Nepaisant
-
-indėlio rūšies, bankas ar kita kredito įstaiga privalo išmokėti visą ar dalį
-
-indėlio pagal pirmą indėlininko pareikalavimą. Sutarties sąlyga, numatanti
-
-indėlininko atsisakymą teisės gauti indėlį pagal pirmą pareikalavimą,
-
-negalioja.
-
-4. Kai indėlis
-
-išmokamas indėlininkui prieš sueinant sutartyje nustatytam terminui ar prieš
-
-susidarant kitoms joje numatytoms aplinkybėms (išskyrus indėlius iki
-
-pareikalavimo), palūkanos išmokamos tokio dydžio, kuris atitinka indėliams iki
-
-pareikalavimo nustatytas palūkanas, jeigu sutartis nenustato ko kita.
-
-5. Jeigu indėlininkas
-
-nereikalauja išmokėti terminuoto indėlio pasibaigus jo terminui ar susidaro
-
-kitos sutartyje numatytos aplinkybės, tai sutartis pripažįstama pratęsta
-
-indėlio iki pareikalavimo sąlygomis, jeigu sutartis nenustato ko kita.
-
-6.896
-
-straipsnis. Palūkanos
-
-1. Bankas ar
-
-kita kredito įstaiga moka indėlininkui sutartyje nustatyto dydžio palūkanas.
-
-2. Palūkanų
-
-dydis gali būti diferencijuojamas pagal indėlio rūšį. Draudžiama nustatyti
-
-palūkanų dydį pagal indėlininko asmenines, tarnybines ar kitas savybes,
-
-nesusijusias su indėlio suma, rūšimi ar terminu.
-
-3. Jeigu
-
-palūkanų dydis sutartyje neaptartas, bankas ar kita kredito įstaiga moka
-
-vidutinę palūkanų normą, galiojusią sutarties sudarymo dieną sutarties sudarymo
-
-vietoje.
-
-4. Jeigu
-
-sutartis nenustato ko kita, bankas ar kita kredito įstaiga turi teisę
-
-vienašališkai keisti palūkanų, mokamų už indėlius iki pareikalavimo, dydį.
-
-Jeigu bankas ar kita kredito įstaiga sumažina palūkanų dydį, tai nauja palūkanų
-
-norma pradedama taikyti indėliams, kurie yra įmokėti iki pranešimo
-
-indėlininkams apie palūkanų dydžio sumažinimą, tik praėjus mėnesiui nuo šio
-
-pranešimo, jeigu ko kita nenustato sutartis.
-
-5. Palūkanų,
-
-mokamų už terminuotus ar kitokius indėlius, dydžio bankas ar kita kredito
-
-įstaiga vienašališkai mažinti neturi teisės, jeigu ko kita nenustato sutartis.
-
-6.897
-
-straipsnis. Palūkanų apskaičiavimas ir mokėjimas
-
-1. Palūkanos už
-
-indėlius pradedamos skaičiuoti nuo kitos dienos po indėlio priėmimo dienos iki
-
-dienos, einančios prieš dieną, kai indėlis buvo išmokėtas ar nurašytas iš
-
-sąskaitos kitais pagrindais.
-
-2. Jeigu
-
-sutartis nenustato ko kita, palūkanos išmokamos indėlininkui pagal jo
-
-reikalavimą, pasibaigus ketvirčiui, atskirai nuo indėlio sumos. Neišmokėtų
-
-palūkanų suma indėlis padidinamas, o palūkanos skaičiuojamos nuo padidėjusios
-
-sumos.
-
-3. Išmokant
-
-indėlį kartu išmokamos iki to momento priskaičiuotos palūkanos.
-
-6.898
-
-straipsnis. Indėlių grąžinimo užtikrinimas
-
-1. Bankas ir
-
-kita kredito įstaiga užtikrina indėlių grąžinimą įstatymų nustatyta tvarka
-
-privalomai juos drausdami, o įstatymų nustatytais atvejais – ir kitais būdais.
-
-2. Sudarant
-
-banko indėlio sutartį, bankas ar kita kredito įstaiga privalo suteikti
-
-indėlininkui informaciją apie indėlio grąžinimo užtikrinimą.
-
-3. Jeigu bankas
-
-ar kita kredito įstaiga nevykdo savo pareigos užtikrinti indėlio grąžinimą,
-
-taip pat praradus užtikrinimą arba jam pablogėjus, indėlininkas turi teisę
-
-reikalauti, kad bankas ar kita kredito įstaiga nedelsdami grąžintų indėlį,
-
-sumokėtų palūkanas ir atlygintų nuostolius.
-
-6.899
-
-straipsnis. Trečiųjų asmenų teisė įmokėti pinigus į indėlininko sąskaitą
-
-Tretieji asmenys turi teisę
-
-įmokėti pinigus į indėlininko sąskaitą, jeigu sutartis nenustato ko kita. Tokiu
-
-atveju bankas ar kita kredito įstaiga privalo visas sumas, gautas indėlininko
-
-vardu, pervesti į indėlininko sąskaitą. Šiais atvejais preziumuojama, kad
-
-indėlininkas sutiko priimti pinigų sumas iš trečiųjų asmenų ir suteikė jiems
-
-būtinus duomenis apie savo indėlio sąskaitą.
-
-6.900
-
-straipsnis. Indėliai trečiojo asmens naudai
-
-1. Indėlis gali
-
-būti įdėtas į banką ar kitą kredito įstaigą trečiojo asmens naudai. Jeigu
-
-sutartis nenustato ko kita, šis trečiasis asmuo įgyja indėlininko teises nuo
-
-savo pirmojo pareikalavimo bankui ar kitai kredito įstaigai momento arba nuo
-
-savo ketinimo naudotis indėlininko teisėmis išreiškimo kitokiu būdu momento.
-
-2. Banko indėlio
-
-sutarties trečiojo asmens naudai esminė sąlyga yra trečiojo asmens vardas ir
-
-pavardė arba pavadinimas.
-
-3. Banko indėlio
-
-sutartis trečiojo asmens, mirusio iki sutarties sudarymo momento arba
-
-neegzistuojančio sutarties sudarymo momentu, naudai negalioja.
-
-4. Asmuo,
-
-sudaręs banko indėlio sutartį trečiojo asmens naudai, turi teisę pasinaudoti
-
-indėlininko teisėmis tik iki to momento, kol trečiasis asmuo nepareiškia savo
-
-ketinimo pasinaudoti indėlininko teisėmis.
-
-5. Normos,
-
-reglamentuojančios sutartį trečiojo asmens naudai, banko ar kitos kredito
-
-įstaigos indėlio sutarčiai trečiojo asmens naudai taikomos tiek, kiek tai
-
-neprieštarauja šio straipsnio nustatytoms taisyklėms ir banko indėlio sutarties
-
-esmei.
-
-6.901
-
-straipsnis. Indėlininko knygelė
-
-1. Jeigu
-
-sutartis nenustato ko kita, banko indėlio sutartis įforminama indėlininko
-
-knygele. Indėlininko knygelė gali būti tik vardinė.
-
-2. Indėlininko
-
-knygelėje privalo būti nurodytas banko ar kitos kredito įstaigos pavadinimas,
-
-adresas ir kiti jų rekvizitai, indėlininkas, indėlio dydis, visos sutarties
-
-sąlygos, taip pat tvarkoma įmokėtų ir išmokėtų pinigų sumų apskaita, nurodomos
-
-apskaičiuotos ir išmokėtos palūkanos.
-
-3. Visos su
-
-indėliu susijusios operacijos atliekamos tik pateikus indėlininko knygelę.
-
-4. Prarasta ar
-
-netinkama naudoti knygelė keičiama banko ar kitos kredito įstaigos nustatyta
-
-tvarka.
-
-6.902
-
-straipsnis. Indėlio sertifikatas
-
-1. Indėlio
-
-sertifikatas yra vertybinis popierius, patvirtinantis indėlio sumą ir
-
-indėlininko teises į indėlį bei į palūkanas pasibaigus nustatytam indėlio terminui.
-
-2. Indėlio
-
-sertifikatas gali būti tik vardinis.
-
-XLV skyrius
-
-Faktoringas
-
-6.903
-
-straipsnis. Faktoringo sutarties samprata
-
-1. Faktoringo
-
-sutartimi viena šalis (finansuotojas) perduoda arba įsipareigoja perduoti kitai
-
-šaliai (klientui) pinigus mainais už kliento (kreditoriaus) piniginį
-
-reikalavimą, susijusį su prekių pardavimu, darbų atlikimu ar paslaugų teikimu,
-
-trečiajam asmeniui (skolininkui), o klientas perleidžia arba įsipareigoja
-
-perleisti finansuotojui piniginį reikalavimą skolininkui (finansavimas su
-
-sąlyga perleisti piniginį reikalavimą) ir mokėti sutartyje nustatytą
-
-atlyginimą.
-
-2. Piniginį
-
-reikalavimą skolininkui klientas gali perleisti finansuotojui taip pat ir
-
-siekdamas užtikrinti savo prievolių finansuotojui įvykdymą.
-
-3. Faktoringo
-
-sutartis gali nustatyti finansuotojo pareigą tvarkyti kliento veiklos
-
-buhalterinę apskaitą, teikti klientui finansines paslaugas, susijusias su
-
-piniginiais reikalavimais, esančiais perleidimo dalyku.
-
-4. Faktoringo
-
-sutartis gali būti ilgalaikė arba sudaroma atskiram atvejui.
-
-6.904
-
-straipsnis. Finansuotojas
-
-Finansuotoju
-
-pagal faktoringo sutartį gali būti tik bankas arba kitas pelno siekiantis
-
-juridinis asmuo, įstatymų nustatyta tvarka turintys teisę vykdyti faktoringo
-
-veiklą.
-
-6.905
-
-straipsnis. Faktoringo sutarties dalykas
-
-1. Faktoringo
-
-sutarties dalyku, kuriam teikiamas finansavimas, gali būti piniginis
-
-reikalavimas, pagal kurį jau yra suėjęs mokėjimo terminas (esamas
-
-reikalavimas), taip pat atsirasianti teisė gauti pinigines sumas (būsimas
-
-reikalavimas).
-
-2. Faktoringo
-
-sutarties dalyku esantis piniginis reikalavimas privalo būti apibrėžtas
-
-finansuotojo ir kliento sudarytoje sutartyje taip, kad faktoringo sutarties
-
-sudarymo momentu būtų galima identifikuoti esamą reikalavimą, o būsimą
-
-reikalavimą – ne vėliau kaip jo atsiradimo momentu.
-
-3. Perleidžiant
-
-būsimą piniginį reikalavimą pripažįstama, kad jis perėjo finansuotojui po to,
-
-kai atsirado teisė reikalauti sutartyje nustatytų pinigų sumų iš skolininko.
-
-Jeigu piniginio reikalavimo perleidimas siejamas su tam tikru įvykiu,
-
-perleidimas pripažįstamas įvykusiu, kai tas įvykis įvyksta. Tokiais atvejais
-
-papildomai įforminti piniginio reikalavimo perleidimą nereikia.
-
-6.906
-
-straipsnis. Kliento atsakomybė finansuotojui
-
-1. Jeigu
-
-faktoringo sutartis nenustato ko kita, klientas atsako finansuotojui už
-
-perleidžiamo piniginio reikalavimo, esančio sutarties dalyku, galiojimą.
-
-2. Perleidžiamas
-
-piniginis reikalavimas yra galiojantis, jeigu klientas turi teisę šį
-
-reikalavimą perleisti ir perleidimo momentu jam nėra žinomos aplinkybės, dėl
-
-kurių skolininkas turėtų teisę to reikalavimo nevykdyti.
-
-3. Jeigu
-
-finansuotojas pareikalauja įvykdyti jam perleistą piniginį reikalavimą, o
-
-skolininkas jo neįvykdo ar įvykdo netinkamai, tai klientas neatsako už tokius
-
-skolininko veiksmus, jeigu sutartis nenustato ko kita.
-
-6.907
-
-straipsnis. Draudimo perleisti piniginį reikalavimą negaliojimas
-
-1. Piniginio
-
-reikalavimo perleidimas finansuotojui galioja ir tais atvejais, kai kliento ir
-
-skolininko sudaryta sutartis tą daryti draudžia ar riboja.
-
-2. Šio straipsnio 1 dalyje
-
-nustatyta taisyklė neatleidžia kliento nuo prievolių ir atsakomybės skolininkui
-
-už sutarties sąlygos, draudžiančios ar ribojančios reikalavimo perleidimą,
-
-pažeidimą.
-
-6.908
-
-straipsnis. Pakartotinis piniginio reikalavimo perleidimas
-
-1. Jeigu faktoringo
-
-sutartis nenustato ko kita, finansuotojas neturi teisės perleisti jam perleisto
-
-piniginio reikalavimo.
-
-2. Jeigu faktoringo
-
-sutartis leidžia pakartotinį perleidimą, tai tokiam perleidimui atitinkamai
-
-taikomos šio skyriaus normos.
-
-6.909
-
-straipsnis. Piniginio reikalavimo vykdymas
-
-1. Skolininkas
-
-privalo sumokėti pinigų sumas finansuotojui, jeigu skolininkas yra gavęs iš
-
-kliento arba finansuotojo rašytinį pranešimą apie piniginio reikalavimo
-
-perleidimą finansuotojui ir pranešime nurodytas piniginis reikalavimas bei
-
-finansuotojas, kuriam turi būti įvykdyta prievolė.
-
-2. Skolininko
-
-reikalavimu finansuotojas privalo jam per protingą terminą pateikti piniginio
-
-reikalavimo perleidimo įrodymus. Jeigu finansuotojas šios pareigos neįvykdo,
-
-skolininkas turi teisę prievolę įvykdyti klientui.
-
-3. Piniginio
-
-reikalavimo įvykdymas finansuotojui pagal šio straipsnio nustatytas taisykles
-
-atleidžia skolininką nuo atitinkamos prievolės vykdymo klientui.
-
-6.910
-
-straipsnis. Finansuotojo teisės į pinigų sumas, gaunamas iš skolininko
-
-1. Jeigu kliento
-
-finansavimas pagal faktoringo sutartį pasireiškia piniginio reikalavimo pirkimu
-
-iš kliento, tai finansuotojas, nupirkęs šį reikalavimą, įgyja teisę į visas
-
-sumas, kurias jis gauna iš skolininko, kai šis vykdo reikalavimą, o klientas
-
-atsako finansuotojui už tai, kad šis iš skolininko gavo mažiau, nei sumokėjo
-
-klientui už nupirktą reikalavimą, jeigu sutartis nenustato ko kita.
-
-2. Jeigu klientas perleido
-
-piniginį reikalavimą finansuotojui norėdamas užtikrinti savo prievolių įvykdymą
-
-finansuotojui, tai finansuotojas privalo pateikti klientui ataskaitą ir
-
-perduoti jam sumą, viršijančią tokiu būdu užtikrintą kliento skolą, jeigu
-
-sutartis nenustato ko kita. Jeigu finansuotojas iš skolininko gavo mažesnę sumą
-
-nei kliento užtikrinta skola, tai klientas atsako finansuotojui už likusią
-
-nepadengtą skolos dalį.
-
-6.911
-
-straipsnis. Skolininko priešiniai reikalavimai
-
-1. Kai finansuotojas
-
-pareiškia reikalavimą skolininkui, kad šis sumokėtų pinigus, skolininkas turi
-
-teisę įskaityti savo priešinius piniginius reikalavimus, kylančius iš
-
-skolininko ir kliento sutarties, jeigu šiuos reikalavimus skolininkas jau
-
-turėjo tuo momentu, kai gavo pranešimą apie reikalavimo perleidimą
-
-finansuotojui.
-
-2.
-
-Skolininkas negali savo gynybai naudoti finansuotojui tų reikalavimų, kuriuos
-
-skolininkas galėjo pareikšti klientui dėl to, kad klientas pažeidė draudimą
-
-perleisti piniginį reikalavimą.
-
-6.912
-
-straipsnis. Skolų, kurias gavo finansuotojas, grąžinimas skolininkui
-
-1. Kai klientas
-
-pažeidžia su skolininku sudarytą sutartį, skolininkas neturi teisės reikalauti
-
-iš finansuotojo grąžinti sumas, kurias šis jau yra gavęs, jeigu skolininkas
-
-turi teisę gauti tas sumas tiesiai iš kliento.
-
-2. Skolininkas,
-
-turintis teisę išieškoti finansuotojui sumokėtas sumas tiesiai iš kliento, turi
-
-teisę reikalauti, kad tas sumas grąžintų finansuotojas, jeigu įrodo, kad
-
-finansuotojas nesumokėjo faktoringo sutartyje nustatytos sumos klientui arba ją
-
-sumokėjo žinodamas, kad klientas neįvykdė savo prievolės skolininkui.
-
-XLVI skyrius
-
-Banko sąskaita
-
-6.913
-
-straipsnis. Banko sąskaitos sutarties samprata
-
-1. Banko sąskaitos
-
-sutartimi bankas įsipareigoja priimti ir įskaityti pinigus į kliento (sąskaitos
-
-savininko) atidarytą sąskaitą, vykdyti kliento nurodymus dėl tam tikrų sumų
-
-pervedimo ir išmokėjimo iš sąskaitos bei atlikti kitokias banko atliekamas
-
-operacijas, o klientas įsipareigoja apmokėti bankui už suteiktas paslaugas ir
-
-operacijas.
-
-2. Bankas gali
-
-disponuoti kliento sąskaitoje esančiomis lėšomis su sąlyga, jeigu užtikrina
-
-kliento teisę netrukdomai disponuoti tomis lėšomis.
-
-3. Bankas neturi
-
-teisės nustatyti ir kontroliuoti kliento pinigų naudojimo ar nustatyti kitokius
-
-įstatymo ar banko sąskaitos sutarties nenumatytus kliento teisės disponuoti
-
-sąskaitoje esančiomis lėšomis savo nuožiūra apribojimus.
-
-6.914
-
-straipsnis. Banko sąskaitos sutarties sudarymas
-
-1. Sudarius
-
-banko sąskaitos sutartį, klientui ar jo nurodytam asmeniui banke atidaroma
-
-sąskaita sutartyje nustatytomis sąlygomis.
-
-2. Bankas
-
-privalo sudaryti banko sąskaitos sutartį su klientu, kuris kreipėsi su prašymu
-
-atidaryti sąskaitą, pagal banko paskelbtas tam tikros sąskaitos rūšies
-
-atidarymo sąlygas, turinčias atitikti įstatymų ir bankų veiklą nustatančių
-
-teisės aktų reikalavimus.
-
-3. Bankas neturi
-
-teisės atsisakyti atidaryti sąskaitą, jeigu jos atidarymo galimybė yra
-
-nustatyta įstatyme, banko veiklos dokumentuose arba bankui išduotoje
-
-licencijoje, išskyrus atvejus, kai tokį atsisakymą leidžia įstatymai.
-
-6.915
-
-straipsnis. Teisės disponuoti sąskaitoje esančiomis lėšomis patvirtinimas
-
-1. Asmenų,
-
-turinčių teisę kliento vardu disponuoti sąskaitoje esančiomis lėšomis, teisės
-
-patvirtinamos įstatyme ar kitame teisės akte ir banko sąskaitos sutartyje
-
-numatytais dokumentais, kurie nustatyta tvarka turi būti pateikti bankui.
-
-2. Klientas turi
-
-teisę nurodyti bankui nurašyti iš sąskaitos lėšas pagal trečiųjų asmenų
-
-reikalavimą. Tokius nurodymus bankas priima, jeigu klientas raštu nurodo
-
-būtinus duomenis, leidžiančius identifikuoti asmenį, turintį teisę nurašyti iš
-
-sąskaitos lėšas.
-
-3. Banko
-
-sąskaitos sutartyje gali būti numatyta, kad teisė disponuoti sąskaitoje
-
-esančiomis lėšomis patvirtinama elektroninėmis mokėjimo priemonėmis panaudojant
-
-asmens parašą, kodą, slaptažodį ar kitus duomenis, patvirtinančius, kad
-
-nurodymą davė šią teisę turintis asmuo.
-
-6.916
-
-straipsnis. Banko atliekamos operacijos
-
-Bankas privalo klientui
-
-atlikti operacijas, kurias atitinkamos rūšies sąskaitoms nustato įstatymas,
-
-kiti bankų veiklos teisės aktai bei bankininkystės papročiai, jeigu banko
-
-sąskaitos sutartis nenumato ko kita.
-
-6.917
-
-straipsnis. Operacijų atlikimo terminai
-
-1. Bankas
-
-privalo įskaityti į kliento sąskaitą gautas lėšas ne vėliau kaip kitą dieną po
-
-dienos, kurią gavo atitinkamą mokėjimo dokumentą, jeigu banko sąskaitos
-
-sutartis nenustato kitokio termino.
-
-2. Bankas
-
-privalo išmokėti arba pervesti lėšas kliento nurodymu ne vėliau kaip kitą dieną
-
-po dienos, kurią gavo atitinkamą mokėjimo dokumentą, jeigu banko sąskaitos
-
-sutartis nenustato ko kita.
-
-6.918
-
-straipsnis. Sąskaitos kreditavimas
-
-1. Jeigu bankas
-
-pagal banko sąskaitos sutartį išmoka pinigus iš kliento sąskaitos
-
-neatsižvelgdamas į tai, ar joje yra pinigų (sąskaitos kreditavimas), tai
-
-pripažįstama, kad bankas suteikia klientui atitinkamos sumos kreditą nuo pinigų
-
-išmokėjimo dienos.
-
-2. Banko ir
-
-kliento santykiams, susijusiems su sąskaitos kreditavimu mutatis mutandis,
-
-taikomos šios knygos XLIII normos, jeigu banko sąskaitos sutartis nenustato ko
-
-kita.
-
-6.919
-
-straipsnis. Banko paslaugų ir operacijų atlyginimas
-
-1. Klientas
-
-apmoka už banko suteiktas paslaugas ir atliktas operacijas banko sąskaitos
-
-sutartyje nustatytomis sąlygomis ir tvarka.
-
-2. Bankas turi
-
-teisę nurašyti iš kliento sąskaitos kas ketvirtį sumas, priklausančias bankui
-
-už jo suteiktas klientui paslaugas, jeigu banko sąskaitos sutartis nenustato ko
-
-kita.
-
-6.920
-
-straipsnis. Palūkanos už naudojimąsi sąskaitoje esančiomis lėšomis
-
-Bankas moka
-
-klientui sutartyje nustatytas palūkanas už naudojimąsi sąskaitoje esančiomis
-
-lėšomis, jeigu banko sąskaitos sutartis nenustato ko kita. Palūkanos pervedamos
-
-į kliento sąskaitą sutartyje nustatytais terminais, o jeigu šie terminai
-
-nenustatyti, – pasibaigus kiekvienam ketvirčiui.
-
-6.921
-
-straipsnis. Banko ir kliento tarpusavio reikalavimų įskaitymas
-
-1. Banko ir
-
-kliento piniginiai reikalavimai, susiję su sąskaitos kreditavimu, banko
-
-paslaugų apmokėjimu, palūkanų mokėjimu, pasibaigia įskaitymo būdu, jeigu banko
-
-sąskaitos sutartis nenustato ko kita.
-
-2. Šio
-
-straipsnio 1 dalyje numatytų reikalavimų įskaitymą atlieka bankas. Jis privalo
-
-informuoti apie atliktą įskaitymą klientą per sutartyje nustatytą terminą, o
-
-jeigu jis nenustatytas, – per protingą terminą.
-
-6.922
-
-straipsnis. Lėšų nurašymo iš sąskaitos pagrindai
-
-1. Lėšos iš
-
-sąskaitos nurašomos kliento nurodymu.
-
-2. Be kliento
-
-nurodymo lėšos gali būti nurašomos teismo sprendimu, taip pat kitais įstatymo ar
-
-banko sąskaitos sutarties numatytais atvejais.
-
-6.923
-
-straipsnis. Lėšų nurašymo eiliškumas
-
-1. Jeigu
-
-sąskaitoje yra pakankamai lėšų visiems pareikštiems reikalavimams patenkinti,
-
-lėšos nurašomos pagal kliento nurodymų ir kitų dokumentų gavimo eilę (kalendorinis
-
-eiliškumas), jeigu įstatymai nenustato ko kita.
-
-2. Jeigu visiems
-
-pareikštiems reikalavimams patenkinti lėšų sąskaitoje nepakanka, skolininkas
-
-privalo nurodyti lėšas nurašyti iš sąskaitos šia eile:
-
-1) pirmąja eile
-
-nurašomos lėšos pagal vykdomuosius dokumentus dėl žalos, padarytos dėl
-
-sveikatos sužalojimo ar gyvybės atėmimo, atlyginimo ir išlaikymo išieškojimo;
-
-2) antrąja eile
-
-nurašomos lėšos pagal vykdomuosius dokumentus dėl išmokų, kylančių iš darbo ir
-
-autorinių sutarčių;
-
-3) trečiąja eile
-
-nurašomos lėšos pagal mokėjimo dokumentus, nustatančius įmokas į biudžetą
-
-(valstybės, savivaldybės ar socialinio draudimo);
-
-4) ketvirtąja
-
-eile nurašomos lėšos pagal vykdomuosius dokumentus kitiems piniginiams
-
-reikalavimams patenkinti;
-
-5) penktąja eile
-
-nurašomos lėšos pagal kitus mokėjimo dokumentus kalendorinio eiliškumo tvarka.
-
-3. Lėšos pagal
-
-reikalavimus, priklausančius tai pačiai eilei, nurašomos mokėjimo dokumentų
-
-gavimo kalendorinio eiliškumo tvarka.
-
-4. Lėšų nurašymo
-
-eilę vykdymo proceso, bankroto ir kitais įstatymų numatytais atvejais nustato
-
-kiti įstatymai.
-
-6.924
-
-straipsnis. Banko atsakomybė už netinkamą operacijų atlikimą
-
-Jeigu bankas ne laiku
-
-įskaito gautas lėšas į kliento sąskaitą arba jas nepagrįstai nurašo iš
-
-sąskaitos, taip pat jei nevykdo kliento nurodymų dėl lėšų pervedimo ar
-
-išmokėjimo iš sąskaitos, bankas privalo mokėti klientui banko sąskaitos
-
-sutartyje nustatytas palūkanas, o jeigu jos nenustatytos, – šio kodekso 6.210
-
-straipsnyje nustatytas palūkanas.
-
-6.925
-
-straipsnis. Banko paslaptis
-
-1. Bankas privalo
-
-garantuoti banko sąskaitos, indėlio, visų su jais susijusių operacijų ir
-
-kliento slaptumą.
-
-2. Informacija,
-
-sudaranti banko paslaptį, gali būti atskleista tik patiems klientams ar jų
-
-atstovams, o įstatymų nustatytais atvejais ir tvarka – atitinkamoms valstybės
-
-valdžios institucijoms, pareigūnams ir kitiems asmenims.
-
-3. Jeigu bankas
-
-atskleidžia banko paslaptį, klientas turi teisę reikalauti, kad bankas
-
-atlygintų tuo padarytus nuostolius.
-
-6.926
-
-straipsnis. Disponavimo sąskaita apribojimas
-
-Draudžiama apriboti
-
-kliento galimybę disponuoti sąskaitoje esančiomis lėšomis, išskyrus atvejus,
-
-kai sąskaitoje esančios lėšos areštuojamos arba banko atliekamos operacijos
-
-sustabdomos įstatymo nustatytais atvejais ir tvarka.
-
-6.927
-
-straipsnis. Banko sąskaitos sutarties nutraukimas
-
-1. Kliento
-
-pareiškimu banko sąskaitos sutartis gali būti nutraukta bet kada.
-
-2. Banko
-
-reikalavimu banko sąskaitos sutartis gali būti nutraukta, jeigu:
-
-1) lėšų, esančių
-
-klientų sąskaitoje, suma sumažėja tiek, kad nesiekia sutartyje nustatytos minimalios
-
-sumos, ir per vieną mėnesį nuo banko išsiųsto pranešimo dienos klientas jos
-
-nepadidina;
-
-2) jeigu daugiau
-
-kaip metus su kliento sąskaita nebuvo atliekamos jokios operacijos ir jeigu
-
-banko sutartis nenustato ko kita.
-
-3. Lėšų likutis
-
-sąskaitoje išduodamas klientui arba jo nurodymu pervedamas į kitą sąskaitą ne
-
-vėliau kaip per penkias darbo dienas nuo atitinkamo rašytinio kliento
-
-pareiškimo gavimo dienos. Jeigu klientas nedavė nurodymo pervesti lėšas į kitą
-
-sąskaitą, bankas lėšas perveda į banko vidines sąskaitas.
-
-4. Banko
-
-sąskaitos sutarties nutraukimas yra pagrindas sąskaitą uždaryti. Banko
-
-sąskaitos sutartis galioja iki sąskaitos uždarymo.
-
-6.928
-
-straipsnis. Bankų sąskaitos
-
-Šio skyriaus
-
-normos atitinkamai taikomos ir bankų korespondentinėms bei kitokioms
-
-sąskaitoms, jeigu įstatymai ar bankų veiklos teisės aktai nenustato ko kita.
-
-XLVII skyrius
-
-Atsiskaitymai
-
-Pirmasis skirsnis
-
-BendrOSIOS nuostatOS
-
-6.929
-
-straipsnis. Atsiskaitymas grynaisiais ir negrynaisiais pinigais
-
-1. Atsiskaitymai
-
-dalyvaujant fiziniams asmenims, kurie nesiverčia ūkine komercine veikla, gali
-
-būti atliekami grynaisiais pinigais, neribojant sumos, arba negrynaisiais
-
-pinigais.
-
-2. Atsiskaitymai
-
-tarp juridinių asmenų, taip pat atsiskaitymai dalyvaujant fiziniams asmenims,
-
-užsiimantiems ūkine komercine veikla, vykdomi negrynaisiais pinigais, o
-
-įstatymų nustatytais atvejais ir tvarka – ir grynaisiais pinigais.
-
-3. Atsiskaitymas
-
-negrynaisiais pinigais atliekamas per bankus, kuriuose yra atidarytos
-
-atitinkamos sąskaitos, jeigu ko kita nenustatyta įstatyme arba ko neriboja
-
-naudojamos atsiskaitymų formos.
-
-4. Atsiskaitymus čekiais ir
-
-vekseliais atitinkamai reglamentuoja čekių ir vekselių įstatymai.
-
-6.930
-
-straipsnis. Atsiskaitymų negrynaisiais pinigais priemonės
-
-1. Atsiskaitymai
-
-negrynaisiais pinigais atliekami naudojant mokėjimo pavedimus, akredityvus,
-
-čekius, vekselius, inkaso ir kitas įstatymų nustatytas atsiskaitymų priemones.
-
-2. Šalys turi
-
-teisę pasirinkti ir nustatyti bet kurią tarpusavio atsiskaitymų priemonę,
-
-nustatytą šio straipsnio 1 dalyje.
-
-Antrasis skirsnis
-
-Atsiskaitymai mokėjimo pavedimais
-
-6.931
-
-straipsnis. Bendrosios nuostatos
-
-1. Atsiskaitant
-
-mokėjimo pavedimais bankas įsipareigoja pagal mokėtojo pavedimą pervesti
-
-nurodytą sumą iš mokėtojo sąskaitos į kitą mokėtojo nurodytą sąskaitą tame
-
-pačiame arba kitame banke per įstatymų ar įstatymų nustatyta tvarka nustatytus
-
-terminus, jeigu trumpesni terminai nėra nustatyti banko sąskaitos sutartyje ar
-
-banko veiklos taisyklėse.
-
-2. Šio skirsnio
-
-taisyklės taip pat taikomos atsiskaitymams, kai bankas lėšas perveda asmens,
-
-neturinčio sąskaitos tame banke, pavedimu, jeigu ko kita nenustato įstatymai ar
-
-banko veiklos taisyklės.
-
-3. Atsiskaitymus mokėjimo
-
-pavedimais reglamentuoja įstatymai ir bankų veiklos taisyklės.
-
-6.932
-
-straipsnis. Mokėjimo pavedimo vykdymo sąlygos
-
-1. Mokėjimo
-
-pavedimo turinys ir forma, taip pat kartu su juo pateiktų dokumentų turinys ir
-
-forma turi atitikti įstatymų ir banko veiklos taisyklių nustatytus
-
-reikalavimus.
-
-2. Jeigu
-
-mokėjimo pavedimas neatitinka šio straipsnio 1 dalyje nurodytų reikalavimų,
-
-bankas gali pareikalauti patikslinti mokėjimo pavedimo rekvizitus. Tokį
-
-pareikalavimą bankas privalo nusiųsti mokėtojui nedelsdamas po to, kai gaunamas
-
-mokėtojo pavedimas. Jeigu per įstatymų ar bankų veiklos taisyklių nustatytą
-
-terminą, o jeigu jis nenustatytas, – per protingą terminą bankas negauna
-
-atsakymo į savo pareikalavimą, tai jis turi teisę nevykdyti mokėjimo pavedimo
-
-ir grąžinti jį mokėtojui, jeigu ko kita nenustato įstatymas, banko veiklos
-
-taisyklės ar banko ir mokėtojo sudaryta sutartis.
-
-3. Mokėtojo
-
-pavedimą bankas vykdo, jeigu mokėtojo sąskaitoje yra pinigų, jeigu ko kita
-
-nenustato banko ir mokėtojo sudaryta sutartis. Mokėjimo pavedimai vykdomi
-
-laikantis šio kodekso 6.923 straipsnyje nustatytos lėšų nurašymo nuo sąskaitos
-
-eilės.
-
-6.933
-
-straipsnis. Pavedimo įvykdymas
-
-1. Bankas,
-
-priėmęs mokėjimo pavedimą, privalo pervesti jame nurodytą pinigų sumą į gavėjo
-
-banką, kad ją įskaitytų į pavedime nurodyto asmens sąskaitą per šio kodekso
-
-6.931 straipsnio 1 dalyje nurodytą terminą.
-
-2. Bankas turi
-
-teisę pasitelkti kitus bankus atlikti operacijas, susijusias su mokėjimo
-
-pavedimo įvykdymu.
-
-3. Bankas privalo
-
-nedelsdamas pranešti mokėtojui, kai šis pareikalauja, apie pavedimo įvykdymą.
-
-Tokio pranešimo turinį ir formą nustato banko veiklos taisyklės bei banko ir
-
-mokėtojo sudaryta sutartis.
-
-6.934
-
-straipsnis. Atsakomybė už mokėjimo pavedimo neįvykdymą ar netinkamą įvykdymą
-
-1. Bankas,
-
-neįvykdęs ar netinkamai įvykdęs mokėjimo pavedimą, atsako pagal bendrąsias
-
-sutartinės civilinės atsakomybės taisykles.
-
-2. Jeigu
-
-mokėjimo pavedimas neįvykdomas ar netinkamai įvykdomas dėl kito banko, kuris
-
-buvo pasitelktas tam tikroms operacijoms atlikti, kaltės, mokėtojui atsako
-
-bankas, priėmęs mokėjimo pavedimą, jeigu įstatymas ar sutartis nenustato ko
-
-kita.
-
-3. Jeigu dėl
-
-atsiskaitymų taisyklių pažeidimo bankas neteisėtai sulaikė lėšas, tai bankas
-
-privalo mokėti šio kodekso 6.210 straipsnyje nustatytas palūkanas.
-
-Trečiasis skirsnis
-
-Akredityvas
-
-6.935
-
-straipsnis. Bendrosios nuostatos
-
-1. Atsiskaitant
-
-akredityvais, bankas, atidaręs akredityvą ir veikiantis mokėtojo prašymu bei
-
-nurodymu arba savo vardu (bankas emitentas), įsipareigoja sumokėti pinigus lėšų
-
-gavėjui arba akceptuoti ir apmokėti įsakomąjį vekselį, išrašytą lėšų gavėjo,
-
-arba įgalioja kitą banką (vykdantįjį banką) sumokėti pinigus lėšų gavėjui arba
-
-akceptuoti ir suėjus mokėjimo terminui apmokėti įsakomąjį vekselį, arba
-
-įgalioja kitą banką pirkti dokumentus (negocijuoti), jeigu pateikti dokumentai
-
-atitinka akredityvo sąlygas.
-
-2. Paskirdamas
-
-kitą banką vykdančiuoju, bankas emitentas gali jį įgalioti nurašyti visą
-
-akredityvo dokumentuose nurodytą sumą nuo savo sąskaitos, esančios
-
-vykdančiajame banke, arba įsipareigoti pervesti, pareikalavus vykdančiajam
-
-bankui, į jo nurodytą sąskaitą, arba įgalioti vykdantįjį banką kreiptis į kitą
-
-nurodytą banką dėl apmokėjimo.
-
-3. Atsiskaitymus
-
-akredityvais reglamentuoja įstatymai ir banko veiklos taisyklės.
-
-6.936
-
-straipsnis. Atšaukiamas akredityvas
-
-1. Atšaukiamas
-
-akredityvas yra toks akredityvas, kurį gali pakeisti arba panaikinti bankas
-
-emitentas be išankstinio lėšų gavėjo įspėjimo. Akredityvo pakeitimas ar
-
-atšaukimas lėšų gavėjui nesukelia jokių banko emitento prievolių.
-
-2. Bankas
-
-emitentas ar tvirtinantysis bankas (jei toks yra) privalo kompensuoti
-
-vykdančiajam bankui pagal atšaukiamą akredityvą, jeigu iki akredityvo
-
-panaikinimo ar sąlygų pakeitimo jam buvo pateikti akredityvo sąlygas
-
-atitinkantys dokumentai.
-
-6.937
-
-straipsnis. Neatšaukiamas akredityvas
-
-1. Neatšaukiamas
-
-akredityvas yra akredityvas, kuris negali būti pakeistas ar panaikintas be
-
-banko emitento, tvirtinančiojo banko (jei toks yra) ir lėšų gavėjo sutikimo.
-
-2. Banko
-
-emitento prašymu kitas bankas, atliekantis akredityvines operacijas, gali
-
-patvirtinti neatšaukiamą akredityvą (patvirtintas akredityvas). Toks
-
-patvirtinimas reiškia, kad tvirtinantysis bankas papildomai šalia banko
-
-emitento prievolės įsipareigoja atlikti mokėjimą ar kitas operacijas pagal
-
-akredityvo sąlygas.
-
-3. Neatšaukiamas
-
-akredityvas, kurį patvirtina tvirtinantysis bankas, negali būti pakeistas ar
-
-panaikintas be tvirtinančiojo banko sutikimo.
-
-4. Jeigu
-
-akredityve nėra aiškiai nurodyta, ar jis yra atšaukiamas, ar ne, toks
-
-akredityvas yra laikomas neatšaukiamu.
-
-6.938
-
-straipsnis. Akredityvo įvykdymas
-
-1. Akredityvui
-
-įvykdyti lėšų gavėjas pateikia bankui emitentui, tvirtinančiajam bankui (jei
-
-toks yra) ar vykdančiajam bankui dokumentus, patvirtinančius, kad įvykdytos
-
-visos akredityvo sąlygos. Pažeidus bent vieną iš šių sąlygų, akredityvas
-
-nevykdomas.
-
-2. Jeigu
-
-vykdantysis bankas atliko mokėjimą arba įvykdė kitą operaciją pagal akredityvo
-
-sąlygas, bankas emitentas ar tvirtinantysis bankas (jei toks yra) privalo
-
-atlyginti jo turėtas išlaidas. Už visas su akredityvo įvykdymu susijusias
-
-išlaidas atsako mokėtojas.
-
-6.939
-
-straipsnis. Atsisakymas priimti dokumentus
-
-1. Jeigu bankas
-
-emitentas arba tvirtinantysis bankas (jei toks yra), arba jų vardu veikiantis
-
-vykdantysis bankas atsisako priimti dokumentus, kurie neatitinka akredityvo
-
-sąlygų, apie tai jis privalo nedelsdamas pranešti, nurodydamas atsisakymo
-
-priežastis, bankui, iš kurio buvo gauti dokumentai, arba lėšų gavėjui, jeigu
-
-dokumentai buvo gauti tiesiai iš jo.
-
-2. Jeigu bankas
-
-emitentas ar tvirtinantysis bankas (jei toks yra) nustato, kad dokumentai
-
-neatitinka akredityvo sąlygų, jis turi teisę atsisakyti juos priimti ir
-
-reikalauti iš vykdančiojo banko grąžinti sumą, šio sumokėtą lėšų gavėjui
-
-pažeidžiant akredityvo sąlygas, kartu su palūkanomis arba atsisakyti atlyginti
-
-išmokėtas sumas.
-
-6.940
-
-straipsnis. Banko atsakomybė už akredityvo sąlygų pažeidimą
-
-1. Už akredityvo
-
-sąlygų pažeidimą mokėtojui atsako bankas emitentas, o bankui emitentui –
-
-tvirtinantysis bankas (jei toks yra) ir (arba) vykdantysis bankas, išskyrus šio
-
-straipsnio nustatytas išimtis.
-
-2. Jeigu bankas
-
-emitentas ar tvirtinantysis bankas (jei toks yra), ar jų vardu veikiantis
-
-vykdantysis bankas nepagrįstai atsisako išmokėti lėšas po to, kai gavėjas
-
-pateikia akredityvo sąlygas atitinkančius dokumentus, tai jis atsako lėšų
-
-gavėjui.
-
-3. Jeigu
-
-tvirtinantysis bankas (jei toks yra) ir (arba) vykdantysis bankas neteisingai
-
-išmoka lėšas pagal akredityvą, pažeisdamas akredityvo sąlygas, tai mokėtojui
-
-atsako tvirtinantysis bankas (jei toks yra) ir (arba) vykdantysis bankas, jeigu
-
-mokėtojo ir banko emitento sutartis nenustato ko kita.
-
-6.941
-
-straipsnis. Akredityvo uždarymas
-
-Akredityvas
-
-uždaromas:
-
-1) kai
-
-pasibaigia akredityvo terminas;
-
-2) kai bankas
-
-emitentas panaikina akredityvą;
-
-3) kai bankas
-
-sumoka lėšų gavėjui akredityve nustatytą sumą ar atlieka kitas operacijas,
-
-nepasibaigus jo galiojimo terminui.
-
-Ketvirtasis skirsnis
-
-Inkaso
-
-6.942
-
-straipsnis. Bendrosios nuostatos
-
-1. Inkaso
-
-reiškia operacijas, kurias atlieka bankas (instruktuojantis bankas) su
-
-dokumentais pagal kliento pavedimą, turėdamas tikslą gauti apmokėjimą ir (arba)
-
-apmokėjimo akceptą arba išduoti dokumentus (gavęs apmokėjimą ir (arba)
-
-apmokėjimo akceptą arba kitomis sąlygomis).
-
-2.
-
-Instruktuojantis bankas, gavęs kliento pavedimą, jam vykdyti gali pasitelkti
-
-kitą banką (inkasuojantį banką).
-
-3. Už kliento pavedimo
-
-neįvykdymą ar netinkamą įvykdymą atsako instruktuojantis bankas, jeigu kliento
-
-ir banko sutartis nenustato ko kita.
-
-4. Atsiskaitymus
-
-inkaso reglamentuoja įstatymai ir banko veiklos taisyklės.
-
-6.943
-
-straipsnis. Inkaso pavedimo įvykdymas
-
-1. Jeigu gautos
-
-inkaso instrukcijos yra neišsamios arba dėl tam tikrų priežasčių bankas jų
-
-negali įvykdyti, arba gauti ne visi inkaso pavedime nurodyti dokumentai, arba
-
-jie neatitinka inkaso pavedimo, inkasuojantis bankas arba pateikiantis bankas
-
-nedelsdami praneša apie tai šaliai, iš kurios buvo gautas inkaso pavedimas. Jeigu
-
-banko nurodyti trūkumai nepašalinami arba negaunamos patikslintos instrukcijos,
-
-jis turi teisę grąžinti dokumentus atgal ir atsisakyti vykdyti pavedimą.
-
-2. Mokėtojui
-
-pateikiami dokumentai tokios formos, kurios jie buvo gauti, išskyrus banko
-
-žymas ir įrašus, kurie būtini inkaso operacijai įforminti.
-
-3. Jeigu
-
-dokumentai apmokami juos pateikus, inkasuojantis bankas turi pateikti juos
-
-apmokėti nedelsdamas po to, kai gauna inkaso pavedimą.
-
-4. Jeigu
-
-dokumentai apmokami per tam tikrą laiką, inkasuojantis bankas turi pateikti
-
-dokumentus mokėtojo akceptui nedelsdamas po to, kai gavo inkaso pavedimą, o
-
-reikalavimą apmokėti turi pareikšti ne vėliau kaip per dokumente nurodytą
-
-mokėjimo terminą.
-
-5. Dalinės
-
-įmokos gali būti priimamos tik įstatymų arba inkaso pavedime nustatytais
-
-atvejais.
-
-6. Inkasuojantis bankas
-
-gautas (inkasuotas) sumas turi nedelsdamas pervesti instruktuojančiam bankui,
-
-kuris jas įskaito į kliento sąskaitą. Iš inkasuotų sumų inkasuojantis bankas
-
-turi teisę išskaityti jam priklausantį atlyginimą ir turėtas išlaidas.
-
-6.944
-
-straipsnis. Pranešimas apie atliktas operacijas
-
-1. Jeigu
-
-inkasuojantis bankas negauna įmokos ir (arba) akcepto, privalo apie tai
-
-nedelsdamas pranešti instruktuojančiam bankui ir kartu nurodyti priežastis, dėl
-
-kurių įmoka negauta arba ją atsisakyta akceptuoti.
-
-2.
-
-Instruktuojantis bankas informaciją, gautą iš inkasuojančio banko, privalo
-
-nedelsdamas pranešti klientui ir pareikalauti jo nurodymų dėl tolesnių veiksmų.
-
-3. Jeigu jokių
-
-nurodymų iš instruktuojančio banko per banko veiklos taisyklėse ar sutartyje
-
-nustatytus terminus, o jeigu jie nenustatyti, – per protingą terminą negaunama,
-
-inkasuojantis bankas turi teisę visus dokumentus grąžinti instruktuojančiam
-
-bankui.
-
-XLVIII skyrius
-
-Viešas atlyginimo pažadėjimas
-
-6.945
-
-straipsnis. Pareiga sumokėti atlyginimą
-
-1. Asmuo, viešai
-
-pažadėjęs sumokėti atlyginimą tam, kas atliks skelbime nurodytą teisėtą veiksmą
-
-per skelbime nurodytą terminą (surasti prarastą daiktą ir kt.), privalo
-
-sumokėti pažadėtą atlyginimą bet kuriam asmeniui, kuris tą veiksmą atliko.
-
-2. Pareiga
-
-sumokėti atlyginimą atsiranda su sąlyga, jeigu viešo pažadėjimo turinys leidžia
-
-nustatyti asmenį, kuris pažadą duoda. Asmuo, atsiliepęs į viešą pažadėjimą,
-
-turi teisę reikalauti, kad pažadas būtų patvirtintas raštu. Jeigu asmuo tokia teise
-
-nepasinaudojo, jam tenka neigiamų pasekmių rizika, jei vėliau paaiškėtų, kad
-
-atlyginimą pažadėjo ne tas asmuo, kuris nurodytas viešame skelbime.
-
-3. Jeigu viešame
-
-skelbime atlyginimo dydis nenurodytas, jis nustatomas šalių susitarimu, o joms
-
-nesusitarus, – teismo sprendimu.
-
-4. Pareiga
-
-sumokėti atlyginimą atsiranda neatsižvelgiant į tai, ar asmuo, atlikęs skelbime
-
-nurodytą veiksmą, padarė tai dėl viešo atlyginimo pažadėjimo, ar ne.
-
-5. Jeigu
-
-skelbime nurodytą veiksmą atliko keli asmenys, teisę į atlyginimą įgyja tas iš
-
-jų, kuris tą veiksmą atliko pirmas. Kai neįmanoma nustatyti, kuris iš tų asmenų
-
-veiksmą atliko pirmas, arba kai veiksmą keli asmenys atliko kartu, atlyginimas
-
-šiems asmenims mokamas lygiomis dalimis, jeigu ko kita nenumatyta jų
-
-susitarimu.
-
-6. Ar atliktas
-
-veiksmas atitinka skelbime nurodytas sąlygas, nustato viešai atlyginimą
-
-pažadėjęs asmuo, jeigu skelbime nenumatyta ko kita. Kilus tarp asmenų ginčui,
-
-ginčą sprendžia teismas.
-
-6.946
-
-straipsnis. Viešo pažadėjimo sumokėti atlyginimą atšaukimas
-
-1. Asmuo, viešai
-
-pažadėjęs sumokėti atlyginimą, turi teisę jį tokiu pat būdu, kokiu jis buvo
-
-paskelbtas, atšaukti, išskyrus atvejus, kai:
-
-1) pačiame
-
-skelbime buvo nurodyta, kad pažadas yra neatšaukiamas;
-
-2) pagal savo
-
-esmę pažadas yra neatšaukiamas;
-
-3) skelbime
-
-nurodytam veiksmui atlikti nustatytas tam tikras terminas;
-
-4) iki atšaukimo
-
-vienas ar daugiau asmenų jau atliko skelbime nurodytą veiksmą.
-
-2. Viešo
-
-pažadėjimo sumokėti atlyginimą atšaukimas nepanaikina jį paskelbusio asmens
-
-pareigos atlyginti nuostolius asmenims, kurie juos patyrė rengdamiesi atlikti
-
-skelbime nurodytą veiksmą. Tačiau atlygintinų nuostolių dydis negali viršyti
-
-pažadėto atlyginimo sumos.
-
-XLIX skyrius
-
-Viešas konkursas
-
-6.947
-
-straipsnis. Viešo konkurso paskelbimas
-
-1. Asmens viešas
-
-pažadėjimas sumokėti specialų atlyginimą (premiją) už geriausią tam tikro darbo
-
-atlikimą arba kitokį rezultatą (konkurso paskelbimas) įpareigoja šį asmenį
-
-sumokėti pažadėtą atlyginimą asmeniui, kurio darbas ar kitoks rezultatas pagal
-
-konkurso sąlygas pripažintas konkurso nugalėtoju. Konkursu taip pat yra
-
-pripažįstamas asmens viešas pažadėjimas suteikti specialią teisę už geriausią
-
-tam tikros teisės įgyvendinimo projektą. Toks viešas pažadėjimas įpareigoja šį
-
-asmenį suteikti specialią teisę asmeniui, kurio projektas pagal konkurso
-
-sąlygas pripažintas konkurso nugalėtoju.
-
-2. Paskelbiant
-
-konkursą turi būti išdėstyta užduotis, jos įvykdymo terminas, atlyginimo
-
-(premijos) dydis ar suteikiama speciali teisė, darbų ar projektų pateikimo
-
-vieta, jų įvertinimo tvarka ir laikas, taip pat gali būti nurodytos ir kitos
-
-konkurso sąlygos.
-
-3. Viešas
-
-konkursas gali būti skelbiamas tik norint pasiekti tam tikrą viešą ar privatų
-
-tikslą, neprieštaraujantį gerai moralei ar viešajai tvarkai.
-
-4. Viešas
-
-konkursas gali būti atviras, kai konkurso organizatoriaus pasiūlymas dalyvauti
-
-konkurse skiriamas visiems norintiems jame dalyvauti ir paskelbiamas spaudoje
-
-ar kitose visuomenės informavimo priemonėse, arba uždaras, kai pasiūlymas
-
-dalyvauti konkurse siunčiamas tik tam tikriems asmenims konkurso
-
-organizatoriaus pasirinkimu.
-
-5. Atviro viešo konkurso
-
-sąlygos gali nustatyti tam tikrus jo dalyvių kvalifikacijos reikalavimus, jeigu
-
-konkurso organizatorius daro išankstinę asmenų, pareiškiančių norą dalyvauti
-
-konkurse, atranką.
-
-6.948
-
-straipsnis. Konkurso sąlygų pakeitimas ar jo atšaukimas
-
-1. Pakeisti
-
-konkurso sąlygas arba jį atšaukti leidžiama tiktai nustatyto darbams pateikti
-
-termino pirmojoje pusėje.
-
-2. Apie konkurso
-
-sąlygų pakeitimą turi būti pranešama konkurso dalyviams ta pačia tvarka, kuria
-
-buvo paskelbtas konkursas.
-
-3. Pakeitus
-
-konkurso sąlygas ar jį atšaukus, konkurso organizatorius privalo atlyginti
-
-kiekvieno asmens, įvykdžiusio konkurso sąlygose numatytą darbą iki tol, kol jis
-
-sužinojo ar turėjo sužinoti apie konkurso sąlygų pakeitimą ar jo atšaukimą,
-
-turėtas išlaidas.
-
-4. Konkurso
-
-organizatorius atleidžiamas nuo šio straipsnio 3 dalyje numatytų išlaidų
-
-atlyginimo, jeigu įrodo, kad atliktas darbas buvo nesusijęs su konkursu (dar
-
-iki konkurso paskelbimo) arba neatitinka konkurso sąlygų.
-
-5. Jeigu keičiant konkurso
-
-sąlygas ar jį atšaukiant buvo pažeisti šio straipsnio 1 ir 2 dalyse nustatyti
-
-reikalavimai, konkurso organizatorius privalo išmokėti atlyginimą tam, kuris
-
-atliko konkurso sąlygas atitinkantį darbą.
-
-6.949
-
-straipsnis. Nutarimas mokėti atlyginimą (premiją) ar suteikti specialią teisę
-
-1. Nutarimas
-
-mokėti atlyginimą (premiją) ar suteikti specialią teisę turi būti priimamas ir
-
-pranešamas konkurso dalyviams paskelbiant konkurso nustatytus terminus bei
-
-tvarką.
-
-2. Jeigu
-
-konkurso nugalėtoju pripažinti du ar daugiau asmenų (bendraautorių, atlikėjų
-
-kolektyvas), atlyginimas jiems paskirstomas šių asmenų susitarimu nustatyta
-
-tvarka, o kilus tarp jų ginčui, atlyginimą paskirsto teismas pagal kiekvieno
-
-indėlį.
-
-3. Jeigu viena
-
-premija skiriama dviem ar daugiau asmenų, tai ji padalijama konkurso taisyklėse
-
-nustatyta tvarka, o jeigu jose tokia tvarka nenustatyta, – lygiomis dalimis,
-
-jeigu patys nugalėtojai nesusitaria kitaip.
-
-6.950
-
-straipsnis. Naudojimasis pagal konkursą premijuotais mokslo, literatūros, meno
-
-ir architektūros kūriniais
-
-Jeigu viešo
-
-konkurso dalykas buvo sukurti mokslo, literatūros, meno ar architektūros
-
-kūrinį, tai viešą konkursą paskelbęs asmuo įgyja pirmenybės teisę sudaryti su
-
-konkurso nugalėtoju sutartį dėl sukurto kūrinio panaudojimo ir atlyginimo už
-
-tai kūrinio autoriui mokėjimo, jeigu konkurso sąlygos nenustato ko kita.
-
-6.951
-
-straipsnis. Pateiktų darbų ar projektų grąžinimas konkurso dalyviams
-
-Paskelbęs viešą
-
-konkursą asmuo privalo grąžinti konkurso dalyviams darbus ar projektus, už kuriuos
-
-neskirtas atlyginimas (premija) ar nesuteikta teisė, jei ko kita nenumatyta
-
-skelbiant konkursą.
-
-6.952
-
-straipsnis. Nuostolių atlyginimas konkurso dalyviams, kai konkursą paskelbęs
-
-asmuo nesilaiko konkurso taisyklių
-
-1. Jeigu
-
-paskelbęs konkursą asmuo nesilaiko paskelbtos darbų ar projektų įvertinimo
-
-tvarkos ar terminų, pateikto ir atitinkančio kitus konkurso reikalavimus darbo
-
-ar projekto autorius įgyja teisę gauti jam padarytų nuostolių atlyginimą.
-
-2. Jeigu
-
-konkurso nugalėtojui nesuteikiama speciali teisė (teisės), jam turi būti
-
-atlyginti nuostoliai.
-
-L skyrius
-
-Turto patikėjimas
-
-6.953
-
-straipsnis. Turto patikėjimo sutarties samprata
-
-1. Turto
-
-patikėjimo sutartimi viena šalis (patikėtojas) perduoda kitai šaliai
-
-(patikėtiniui) savo turtą patikėjimo teise tam tikram laikui, o kita šalis
-
-įsipareigoja tą turtą valdyti, naudoti ir juo disponuoti patikėtojo ar jo
-
-nurodyto asmens (naudos gavėjo) interesais.
-
-2. Turto perdavimas kitam
-
-asmeniui patikėjimo teise nepakeičia turto nuosavybės teisės. Perduoto turto
-
-savininku ir toliau lieka patikėtojas.
-
-6.954
-
-straipsnis. Turto patikėjimo teisės turinys
-
-1. Turto
+sumoka iki kredito grąžinimo dienos priskaičiuotas palūkanas ir kitus mokesčius.
 
 6.479 straipsnis.
 
@@ -23879,9 +21105,9 @@ steigimo dokumentų pakeitimo įregistravimą mokamas atlyginimas. Atlyginimo dy
 
 nustato Vyriausybė.
 
-6. Juridinis asmuo
+6. Juridinis
 
-gali būti išregistruotas iš juridinių asmenų registro tik tuo atveju, kai
+asmuo gali būti išregistruotas iš juridinių asmenų registro tik tuo atveju, kai
 
 juridinis asmuo pasibaigia.
 
@@ -23905,11 +21131,11 @@ asmenys gali būti reorganizuojami jungimo ir skaidymo būdu.
 
 juridinių asmenų jungimo būdai yra prijungimas ir sujungimas.
 
-3. Prijungimas – tai vieno ar daugiau juridinių asmenų
+3. Prijungimas – tai vieno ar daugiau juridinių
 
-prijungimas prie kito juridinio asmens, kuriam pereina visos reorganizuojamo
+asmenų prijungimas prie kito juridinio asmens, kuriam pereina visos
 
-juridinio asmens teisės ir pareigos.
+reorganizuojamo juridinio asmens teisės ir pareigos.
 
 4. Sujungimas –
 
@@ -24155,9 +21381,9 @@ teisių apsaugos institucija.
 
 4. Vaiko vardo
 
-ir pavardės pakeitimo pagrindus ir tvarką nustato teisingumo ministro patvirtintos
+ir pavardės pakeitimo pagrindus ir tvarką nustato teisingumo ministro
 
-Civilinės metrikacijos taisyklės.
+patvirtintos Civilinės metrikacijos taisyklės.
 
 4.230 straipsnis. Daikto sulaikymo teisės nedalumas
 
@@ -24247,13 +21473,13 @@ nenurodomi motyvai, kodėl veikla yra netinkama.
 
 3. Rengiant
 
-kreipimąsi ir pareiškimą dėl veiklos tyrimo, būtinas advokato dalyvavimas.
+kreipimąsi ir pareiškimą dėl veiklos tyrimo, būtinas advokato dalyvavimas. Advokato
 
-Advokato atstovavimas pareiškėjui būtinas teismui nagrinėjant bylą dėl veiklos
+atstovavimas pareiškėjui būtinas teismui nagrinėjant bylą dėl veiklos tyrimo.
 
-tyrimo. Šios dalies nuostatos netaikomos, jei dėl veiklos tyrimo kreipiasi
+Šios dalies nuostatos netaikomos, jei dėl veiklos tyrimo kreipiasi prokuroras,
 
-prokuroras, gindamas viešą interesą.
+gindamas viešą interesą.
 
 4. Teismas,
 
@@ -24281,11 +21507,11 @@ ugdymu. Tėvai atlikdami šias pareigas turi pirmumo teisę prieš kitus asmenis
 
 sudaryti sąlygas savo vaikams mokytis iki įstatymuose nustatyto amžiaus.
 
-3. Visus klausimus,
+3. Visus
 
-susijusius su vaikų auklėjimu, sprendžia abu tėvai tarpusavio susitarimu. Jeigu
+klausimus, susijusius su vaikų auklėjimu, sprendžia abu tėvai tarpusavio
 
-tėvai nesusitaria, ginčijamą klausimą sprendžia teismas.
+susitarimu. Jeigu tėvai nesusitaria, ginčijamą klausimą sprendžia teismas.
 
 4.186 straipsnis. Hipotekos lakšto turinys
 
@@ -34069,11 +31295,11 @@ reglamentuojančios normos. Tokiu atveju šis kodeksas taikomas tiek, kiek kiti
 
 nutarimai ir kitų valstybės institucijų teisės aktai civilinius santykius gali
 
-reglamentuoti tik tiek, kiek įstatymų nustatyta. Jeigu Vyriausybės ar kitos valstybės
+reglamentuoti tik tiek, kiek įstatymų nustatyta. Jeigu Vyriausybės ar kitos
 
-institucijos teisės aktas prieštarauja šio kodekso ar kito įstatymo normoms,
+valstybės institucijos teisės aktas prieštarauja šio kodekso ar kito įstatymo
 
-taikomos kodekso ar kito įstatymo normos.
+normoms, taikomos kodekso ar kito įstatymo normos.
 
 5. Teismas turi
 
@@ -34333,9 +31559,9 @@ remtis savo neveiksnumu pagal nuolatinės gyvenamosios vietos valstybės teisę,
 
 jeigu pagal sandorio sudarymo vietos valstybės teisę jis buvo veiksnus,
 
-išskyrus atvejus, kai kita sandorio šalis žinojo arba turėjo žinoti apie to
+išskyrus atvejus, kai kita sandorio šalis žinojo arba turėjo žinoti apie to asmens
 
-asmens neveiksnumą pagal jo nuolatinės gyvenamosios vietos valstybės teisę.
+neveiksnumą pagal jo nuolatinės gyvenamosios vietos valstybės teisę.
 
 2. Šio
 
@@ -34773,13 +31999,13 @@ konosamentą, kiti konosamento egzemplioriai netenka teisinės galios.
 
 straipsnis. Indėlių liudijimai (sertifikatai)
 
-1. Indėlio liudijimas
+1. Indėlio
 
-(sertifikatas) – tai rašytinis banko liudijimas apie piniginių lėšų indėlį,
+liudijimas (sertifikatas) – tai rašytinis banko liudijimas apie piniginių lėšų
 
-suteikiantis teisę indėlininkui, suėjus nustatytam terminui, gauti indėlį ir
+indėlį, suteikiantis teisę indėlininkui, suėjus nustatytam terminui, gauti
 
-palūkanas.
+indėlį ir palūkanas.
 
 2. Indėlio
 
@@ -35029,9 +32255,9 @@ straipsnis. Termino pradžia
 
 prasideda rytojaus dieną nuo nulis valandų nulis minučių po tos kalendorinės
 
-datos arba to įvykio, kuriais apibrėžta termino pradžia, jeigu įstatymų nenumatyta
+datos arba to įvykio, kuriais apibrėžta termino pradžia, jeigu įstatymų
 
-ko kita.
+nenumatyta ko kita.
 
 2. Valandomis
 
@@ -35413,11 +32639,11 @@ termino nutraukimo praėjęs laikas į naują terminą neįskaičiuojamas.
 
 kurį teismas paliko nenagrinėtą, pareiškimas ieškinio senaties termino
 
-nenutraukia, jeigu pareiškimas buvo paliktas nenagrinėtas dėl ieškovo kaltės.
+nenutraukia, jeigu pareiškimas buvo paliktas nenagrinėtas dėl ieškovo kaltės. Ieškinio
 
-Ieškinio senaties terminas taip pat nenutraukiamas, jeigu buvo atsisakyta
+senaties terminas taip pat nenutraukiamas, jeigu buvo atsisakyta priimti
 
-priimti ieškinio pareiškimą arba ieškovas ieškinio atsisakė.
+ieškinio pareiškimą arba ieškovas ieškinio atsisakė.
 
 5. Jeigu teismas
 
@@ -35693,9 +32919,9 @@ registruoti juridinį asmenį (duomenų ar dokumentų pakeitimus).
 
 3. Sprendimas
 
-atsisakyti registruoti juridinį asmenį (registre registruotinų duomenų ar
+atsisakyti registruoti juridinį asmenį (registre registruotinų duomenų ar dokumentų
 
-dokumentų pakeitimus) skundžiamas teismui įstatymų nustatyta tvarka.
+pakeitimus) skundžiamas teismui įstatymų nustatyta tvarka.
 
 2.69 straipsnis. Klaidų juridinių asmenų registre
 
@@ -35783,9 +33009,9 @@ likvidavimo.
 
 4. Registro
 
-tvarkytojo prašymai dėl juridinio asmens likvidavimo nagrinėjami Civilinio proceso
+tvarkytojo prašymai dėl juridinio asmens likvidavimo nagrinėjami Civilinio
 
-kodekso XXXIX skyriuje nustatyta tvarka.
+proceso kodekso XXXIX skyriuje nustatyta tvarka.
 
 Straipsnio
 
@@ -35843,9 +33069,9 @@ Nr. XI-595,
 
 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
 
-2.72 straipsnis. Juridinių asmenų registro
+2.72 straipsnis. Juridinių asmenų
 
-duomenų paskelbimo būdai ir tvarka
+registro duomenų paskelbimo būdai ir tvarka
 
 1.
 
@@ -35903,9 +33129,9 @@ IX-2172,
 
 2004-04-27, Žin., 2004, Nr. 72-2495 (2004-04-30)
 
-Nr. XI-485, 2009-11-12,
+Nr. XI-485,
 
-Žin., 2009, Nr. 141-6205 (2009-11-28)
+2009-11-12, Žin., 2009, Nr. 141-6205 (2009-11-28)
 
 Nr. XI-595,
 
@@ -35915,11 +33141,11 @@ Nr. XI-595,
 
 1. Privatieji
 
-juridiniai asmenys gali turėti ir įgyti bet kokias civilines teises ir pareigas,
+juridiniai asmenys gali turėti ir įgyti bet kokias civilines teises ir
 
-išskyrus tas, kurioms atsirasti reikalingos tokios fizinio asmens savybės kaip
+pareigas, išskyrus tas, kurioms atsirasti reikalingos tokios fizinio asmens
 
-lytis, amžius bei giminystė.
+savybės kaip lytis, amžius bei giminystė.
 
 2. Viešieji
 
@@ -35959,9 +33185,9 @@ ar privilegijas pavieniams juridiniams asmenims.
 
 1. Kiekvienai
 
-įstatymų nustatytai licencijuojamai veiklos rūšiai Vyriausybė tvirtina licencijavimo
+įstatymų nustatytai licencijuojamai veiklos rūšiai Vyriausybė tvirtina
 
-taisykles, jeigu kiti įstatymai nenustato ko kita.
+licencijavimo taisykles, jeigu kiti įstatymai nenustato ko kita.
 
 2. Licencijavimo
 
@@ -36043,13 +33269,13 @@ motyvuotas.
 
 4. Informacija
 
-apie licencijos išdavimą, jos galiojimo sustabdymą ir panaikinimą kaupiama
+apie licencijos išdavimą, jos galiojimo sustabdymą ir panaikinimą kaupiama juridinių
 
-juridinių asmenų registre. Licencijas išduodanti institucija privalo apie
+asmenų registre. Licencijas išduodanti institucija privalo apie licencijų
 
-licencijų išdavimą, galiojimo sustabdymą ar panaikinimą pranešti juridinių
+išdavimą, galiojimo sustabdymą ar panaikinimą pranešti juridinių asmenų
 
-asmenų registrui juridinių asmenų registro nuostatų nustatyta tvarka.
+registrui juridinių asmenų registro nuostatų nustatyta tvarka.
 
 5. Gavęs
 
@@ -36251,9 +33477,9 @@ formos juridinių asmenų reorganizavimas
 
 Reorganizavime gali dalyvauti tik tos pačios teisinės formos juridiniai
 
-asmenys, išskyrus įstatymų, reglamentuojančių atskiras juridinių asmenų teisines
+asmenys, išskyrus įstatymų, reglamentuojančių atskiras juridinių asmenų
 
-formas, nustatytas išimtis.
+teisines formas, nustatytas išimtis.
 
 2. Pasibaigus reorganizuojamam juridiniam asmeniui, kurio dalyviai
 
@@ -36261,15 +33487,15 @@ atsako pagal juridinio asmens prievoles, nepaisant reorganizavimo sąlygų,
 
 pasibaigusio reorganizuoto juridinio asmens dalyviai trejus metus yra
 
-subsidiariai atsakingi pagal pasibaigusio juridinio asmens prievoles,
+subsidiariai atsakingi pagal pasibaigusio juridinio asmens prievoles, atsiradusias
 
-atsiradusias iki teisių ir pareigų perėjimo tęsiančiam veiklą juridiniam
+iki teisių ir pareigų perėjimo tęsiančiam veiklą juridiniam asmeniui. Jeigu
 
-asmeniui. Jeigu juridinio asmens dalyvis netampa po reorganizavimo tęsiančio
+juridinio asmens dalyvis netampa po reorganizavimo tęsiančio veiklą juridinio
 
-veiklą juridinio asmens dalyviu tiek reorganizavimo metu, tiek vėliau, jis
+asmens dalyviu tiek reorganizavimo metu, tiek vėliau, jis neatleidžiamas nuo
 
-neatleidžiamas nuo šioje dalyje nurodytos atsakomybės.
+šioje dalyje nurodytos atsakomybės.
 
 2.99 straipsnis. Reorganizavimo sąlygos ir
 
@@ -36311,13 +33537,15 @@ asmens valdymo ir kitiems organams, administracijos darbuotojams ar šio kodekso
 
 2.100 straipsnyje nurodytiems ekspertams suteikiamos papildomos teisės.
 
-2. Reorganizavimo
+2.
 
-sąlygos turi būti paskelbtos pagal šio kodekso 2.101 straipsnio 1 dalį ir
+Reorganizavimo sąlygos turi būti paskelbtos pagal šio kodekso 2.101 straipsnio
 
-pateiktos juridinių asmenų registrui ne vėliau kaip pirmą viešo paskelbimo
+1 dalį ir pateiktos juridinių asmenų registrui ne vėliau kaip pirmą viešo
 
-dieną, taikant šio kodekso 2.66 straipsnio 3 dalį mutatis mutandis.
+paskelbimo dieną, taikant šio kodekso 2.66 straipsnio 3 dalį mutatis
+
+mutandis.
 
 3. Kiekvieno
 
@@ -36543,17 +33771,17 @@ garantija;
 
 tenkinami visi likę kreditorių reikalavimai.
 
-2. Kiekvienos paskesnės
+2. Kiekvienos
 
-eilės kreditorių (išieškotojų) reikalavimai tenkinami po to, kai visiškai
+paskesnės eilės kreditorių (išieškotojų) reikalavimai tenkinami po to, kai
 
-patenkinti pirmesnės eilės kreditorių (išieškotojų) reikalavimai. Jeigu
+visiškai patenkinti pirmesnės eilės kreditorių (išieškotojų) reikalavimai.
 
-neužtenka lėšų visiems vienos eilės reikalavimams visiškai patenkinti, šie
+Jeigu neužtenka lėšų visiems vienos eilės reikalavimams visiškai patenkinti,
 
-reikalavimai tenkinami proporcingai pagal priklausančią kiekvienam kreditoriui
+šie reikalavimai tenkinami proporcingai pagal priklausančią kiekvienam
 
-(išieškotojui) sumą.
+kreditoriui (išieškotojui) sumą.
 
 2.114 straipsnis. Juridinio asmens pripažinimas
 
@@ -36565,9 +33793,9 @@ asmuo gali būti pripažintas neteisėtai įsteigtu tik teismo ir tik tais
 
 atvejais, jei:
 
-1) visi steigėjai
+1) visi
 
-buvo neveiksnūs arba nebuvo įstatymų nustatyto steigėjų minimumo;
+steigėjai buvo neveiksnūs arba nebuvo įstatymų nustatyto steigėjų minimumo;
 
 2) nebuvo
 
@@ -36677,13 +33905,13 @@ sprendimo dėl priverstinio akcijų (dalių, pajų) pardavimo priėmimo dienos
 
 atsakovas be ieškovo sutikimo neturi teisės parduoti ar kitaip perleisti
 
-akcijas (dalis, pajus), jas įkeisti ar kitaip suvaržyti teises į jas, taip pat
+akcijas (dalis, pajus), jas įkeisti ar kitaip suvaržyti teises į jas, taip pat perleisti
 
-perleisti ar kitaip apriboti akcijų (dalių, pajų) suteikiamas teises, jeigu
+ar kitaip apriboti akcijų (dalių, pajų) suteikiamas teises, jeigu teismas
 
-teismas nenutaria kitaip. Teismas turi teisę leisti atlikti šioje dalyje
+nenutaria kitaip. Teismas turi teisę leisti atlikti šioje dalyje nurodytus
 
-nurodytus veiksmus, jeigu ieškovas tokiems veiksmams sutikimo neduoda.
+veiksmus, jeigu ieškovas tokiems veiksmams sutikimo neduoda.
 
 2. Nuo teismo
 
@@ -36749,15 +33977,15 @@ nutarties, nustatančios kainą, gali būti duodamas atskiras skundas.
 
 įsiteisėja teismo nutartis dėl kainos nustatymo, atsakovas per dvi savaites
 
-turi perduoti ieškovo nuosavybėn akcijas (dalis, pajus), o ieškovas turi priimti
+turi perduoti ieškovo nuosavybėn akcijas (dalis, pajus), o ieškovas turi
 
-akcijas (dalis, pajus) ir sumokėti nustatytą kainą. Kaina turi būti sumokama
+priimti akcijas (dalis, pajus) ir sumokėti nustatytą kainą. Kaina turi būti
 
-perduodant ieškovo nuosavybėn akcijas. Perdavimas atliekamas juridinio asmens,
+sumokama perduodant ieškovo nuosavybėn akcijas. Perdavimas atliekamas juridinio
 
-kurio akcijos (dalys, pajai) perduodamos, buveinėje arba kitoje ieškovo ir
+asmens, kurio akcijos (dalys, pajai) perduodamos, buveinėje arba kitoje ieškovo
 
-atsakovo sutartoje vietoje.
+ir atsakovo sutartoje vietoje.
 
 2. Jeigu
 
@@ -36799,9 +34027,9 @@ tokiems asmenims už teismo nustatytą kainą. Įsiteisėjus teismo sprendimui d
 
 priverstinio akcijų (dalių, pajų) pardavimo, atsakovas privalo pranešti
 
-juridiniam asmeniui apie asmenis, turinčius pirmenybės teisę įsigyti priverstinai
+juridiniam asmeniui apie asmenis, turinčius pirmenybės teisę įsigyti
 
-parduodamų akcijų (dalių, pajų) pagal ieškovo sudarytas sutartis.
+priverstinai parduodamų akcijų (dalių, pajų) pagal ieškovo sudarytas sutartis.
 
 2. Asmenys, gavę
 
@@ -37053,9 +34281,9 @@ pripažintas negaliojančiu, jeigu trečiasis asmuo apie tokį interesų konflik
 
 metu negali būti abiejų sandorio šalių atstovu. Tačiau ši nuostata netaikoma
 
-vykdant prievoles, taip pat kai abi sandorio šalys aiškiai išreiškia savo valią,
+vykdant prievoles, taip pat kai abi sandorio šalys aiškiai išreiškia savo
 
-kad atstovas veiktų dėl jų abiejų interesų.
+valią, kad atstovas veiktų dėl jų abiejų interesų.
 
 2.138 straipsnis. Įgaliojimo patvirtinimas notarine
 
@@ -37104,12 +34332,6 @@ vadovų;
 esančių tolimojo plaukiojimo metu jūrų laivuose, plaukiojančiuose su Lietuvos
 
 valstybės vėliava, patvirtinti tų laivų kapitonų.
-
-Kodeksas
-
-papildomas 2.1381 straipsniu nuo 2011 m. sausio 1
-
-d.:
 
 2.139 straipsnis. Supaprastintas įgaliojimo
 
@@ -37171,11 +34393,9 @@ nenurodytas, tai įgaliojimas galioja vienerius metus nuo jo sudarymo dienos.
 
 2. Notaro
 
-patvirtintas veiksmams atlikti užsienyje skirtas įgaliojimas, kuriame
+patvirtintas veiksmams atlikti užsienyje skirtas įgaliojimas, kuriame nenurodytas
 
-nenurodytas galiojimo laikas, galioja, kol jį panaikina įgaliojimą išdavęs
-
-asmuo.
+galiojimo laikas, galioja, kol jį panaikina įgaliojimą išdavęs asmuo.
 
 3. Įgaliojimas,
 
@@ -37309,25 +34529,69 @@ fiziniam asmeniui, kuriam duotas įgaliojimas, ar pripažinus jį neveiksniu arb
 
 ribotai veiksniu, arba nežinia kur esančiu.
 
-2. Pasibaigus
+2. Duomenys apie
+
+įgaliojimo pasibaigimą turi būti pateikti notarine tvarka patvirtintų
+
+įgaliojimų registro tvarkymo įstaigai.
+
+3. Pasibaigus
 
 įgaliojimui, netenka galios ir perįgaliojimas.
 
-3. Atstovavimo
+4. Atstovavimo
 
-pasibaigimas negali būti panaudotas prieš sąžiningus trečiuosius asmenis, išskyrus
+pasibaigimas negali būti panaudotas prieš sąžiningus trečiuosius asmenis,
 
-atvejus, kai apie atstovavimo pasibaigimo faktą šie asmenys žinojo ar turėjo
+išskyrus atvejus, kai apie atstovavimo pasibaigimo faktą šie asmenys žinojo ar
 
-sužinoti, bet nesužinojo dėl savo pačių neatidumo.
+turėjo sužinoti, bet nesužinojo dėl savo pačių neatidumo.
 
-2.147 straipsnio
+Straipsnio
 
-redakcija nuo 2011 m. sausio 1 d.:
+pakeitimai:
 
-2.149 straipsnis. Atstovavimą
+Nr. XI-1031,
 
-reglamentuojančių normų subsidiarus taikymas
+2010-09-23, Žin., 2010, Nr. 126-6456 (2010-10-26)
+
+2.148
+
+straipsnis. Įgaliotojo pareiga pranešti apie įgaliojimo pasibaigimą
+
+1. Apie
+
+įgaliojimo panaikinimą, nurodytą šio kodekso 2.147 straipsnio 1 dalies 2
+
+punkte, įgaliotojas privalo pranešti įgaliotiniui, taip pat įgaliotojui
+
+žinomiems tretiesiems asmenims, su kuriais nustatant ir palaikant santykius
+
+atstovauti duotas įgaliojimas. Tokią pat pareigą turi įgaliotojo teisių
+
+perėmėjai, kai įgaliojimas pasibaigia šio kodekso 2.147 straipsnio 1 dalies 4
+
+ir 6 punktuose numatytais pagrindais.
+
+2. Įgaliotojo ir
+
+jo teisių perėmėjų teisės ir pareigos, atsiradusios kaip įgaliotinio veiksmų
+
+rezultatas iki to laiko, kai įgaliotinis sužinojo ar turėjo sužinoti apie
+
+įgaliojimo pasibaigimą, lieka galioti tretiesiems asmenims. Ši nuostata netaikoma,
+
+jeigu trečiasis asmuo žinojo ar turėjo žinoti, kad įgaliojimas pasibaigė.
+
+3. Įgaliojimui
+
+pasibaigus, įgaliotinis ar jo teisių perėmėjai privalo tuojau grąžinti
+
+įgaliojimą įgaliotojui ar jo teisių perėmėjams.
+
+2.149 straipsnis. Atstovavimą reglamentuojančių
+
+normų subsidiarus taikymas
 
 Atstovavimą
 
@@ -37351,17 +34615,17 @@ atstovaujamajam už viską, ką yra gavęs vykdydamas pavedimą.
 
 straipsnis. Atstovaujamojo pareiga atlyginti išlaidas bei sumokėti atlyginimą
 
-1.
+1. Atstovaujamasis
 
-Atstovaujamasis turi atlyginti atstovo turėtas išlaidas, susijusias su pavedimo
+turi atlyginti atstovo turėtas išlaidas, susijusias su pavedimo vykdymu, jeigu
 
-vykdymu, jeigu sutartis ar įstatymai nenumato ko kita.
+sutartis ar įstatymai nenumato ko kita.
 
 2. Atstovui
 
-už darbą atstovaujamasis turi sumokėti atlyginimą, išskyrus atvejus, kai sutartis
+už darbą atstovaujamasis turi sumokėti atlyginimą, išskyrus atvejus, kai
 
-ar įstatymai numato, kad atstovaujama neatlygintinai.
+sutartis ar įstatymai numato, kad atstovaujama neatlygintinai.
 
 XII skyrius
 
@@ -37387,9 +34651,9 @@ sudaryti sutartis atstovaujamojo vardu ir atstovaujamojo sąskaita. Prekybos
 
 agentais nelaikomi juridinio asmens organai ir asmenys, turintys juridinio
 
-asmens organo teises ir pareigas, taip pat partneriai, veikiantys pagal
+asmens organo teises ir pareigas, taip pat partneriai, veikiantys pagal jungtinės
 
-jungtinės veiklos sutartį.
+veiklos sutartį.
 
 2.
 
@@ -37495,9 +34759,9 @@ privalo:
 
 rūpestingai vykdyti visus atstovaujamojo pavedimus ir protingumo
 
-kriterijų atitinkančias instrukcijas, būti lojalus atstovaujamajam ir veikti
+kriterijų atitinkančias instrukcijas, būti lojalus atstovaujamajam ir veikti išimtinai
 
-išimtinai dėl atstovaujamojo interesų;
+dėl atstovaujamojo interesų;
 
 2) reguliariai
 
@@ -37547,9 +34811,9 @@ sutartį ar ją vykdyti, taip pat apie sutarties sąlygų pakeitimą ar papildym
 
 3) nedelsdamas
 
-pranešti prekybos agentui apie sutarties, kurią prekybos agentas sudarė
+pranešti prekybos agentui apie sutarties, kurią prekybos agentas sudarė neturėdamas
 
-neturėdamas pavedimo, patvirtinimą ar nepatvirtinimą;
+pavedimo, patvirtinimą ar nepatvirtinimą;
 
 4) mokėti
 
@@ -37713,11 +34977,11 @@ nesusitariama dėl auditoriaus, prekybos agentas turi teisę kreiptis į teismą
 
 dėl priverstinio audito paskyrimo.
 
-7. Reikalavimams,
+7.
 
-susijusiems su prekybos agento atlyginimo išieškojimu, taikomas trejų metų
+Reikalavimams, susijusiems su prekybos agento atlyginimo išieškojimu, taikomas
 
-ieškinio senaties terminas.
+trejų metų ieškinio senaties terminas.
 
 8. Kai prekybos
 
@@ -37739,9 +35003,9 @@ užsakymas pasiekė atstovaujamąjį iki komercinio atstovavimo sutarties galioj
 
 pabaigos arba per protingumo kriterijus atitinkantį laikotarpį po to, kai
 
-komercinio atstovavimo sutartis pasibaigė, ir sandoris yra susijęs su komercinio
+komercinio atstovavimo sutartis pasibaigė, ir sandoris yra susijęs su
 
-atstovavimo sutartimi.
+komercinio atstovavimo sutartimi.
 
 10. Kai prekybos
 
@@ -37871,11 +35135,11 @@ išlyga, jeigu:
 
 1)
 
-atstovaujamasis be prekybos agento sutikimo nutraukė sutartį pažeisdamas išankstinio
+atstovaujamasis be prekybos agento sutikimo nutraukė sutartį pažeisdamas
 
-įspėjimo apie sutarties nutraukimą terminus arba nedelsdamas nepranešė prekybos
+išankstinio įspėjimo apie sutarties nutraukimą terminus arba nedelsdamas
 
-agentui apie svarbias sutarties nutraukimo priežastis;
+nepranešė prekybos agentui apie svarbias sutarties nutraukimo priežastis;
 
 2) prekybos
 
@@ -37883,19 +35147,19 @@ agentas sutartį nutraukė dėl svarbių priežasčių, už kurias atsako
 
 atstovaujamasis, ir apie šias priežastis nedelsdamas pranešė atstovaujamajam;
 
-3)
+3) atstovaujamojo
 
-atstovaujamojo ir prekybos agento sutartis nutraukta teismo sprendimu dėl
+ir prekybos agento sutartis nutraukta teismo sprendimu dėl priežasčių, už
 
-priežasčių, už kurias atsako atstovaujamasis.
+kurias atsako atstovaujamasis.
 
 7. Prekybos
 
-agento reikalavimu teismas turi teisę pripažinti visiškai ar iš dalies konkurenciją
+agento reikalavimu teismas turi teisę pripažinti visiškai ar iš dalies
 
-draudžiančią sutarties išlygą negaliojančia, jeigu atsižvelgiant į prekybos
+konkurenciją draudžiančią sutarties išlygą negaliojančia, jeigu atsižvelgiant į
 
-agento teisėtus interesus tokia išlyga daro jam didelės žalos.
+prekybos agento teisėtus interesus tokia išlyga daro jam didelės žalos.
 
 8. Susitarimai,
 
@@ -37941,15 +35205,15 @@ vienodi pranešimo terminai. Pranešta turi būti iki kalendorinio mėnesio
 
 pabaigos.
 
-3. Šalis,
+3. Šalis, nutraukusi
 
-nutraukusi sutartį be kitos šalies sutikimo ir pažeidusi išankstinio pranešimo
+sutartį be kitos šalies sutikimo ir pažeidusi išankstinio pranešimo terminus,
 
-terminus, privalo kitai šaliai atlyginti savo veiksmais padarytus nuostolius,
+privalo kitai šaliai atlyginti savo veiksmais padarytus nuostolius, išskyrus
 
-išskyrus atvejus, kai sutartis nutraukta dėl svarbių priežasčių, apie kurias
+atvejus, kai sutartis nutraukta dėl svarbių priežasčių, apie kurias nedelsiant
 
-nedelsiant buvo pranešta kitai šaliai.
+buvo pranešta kitai šaliai.
 
 4. Jeigu šalys
 
@@ -38225,9 +35489,9 @@ straipsnio 3 dalyje numatytos teisės gali būti įgyvendintos, jeigu apie
 
 ketinimą jas įgyvendinti buvo atitinkamai pranešta atstovaujamajam, atstovui ir
 
-trečiajam asmeniui. Gavę tokį pranešimą, trečiasis asmuo ar atstovaujamasis nebegali
+trečiajam asmeniui. Gavę tokį pranešimą, trečiasis asmuo ar atstovaujamasis
 
-atsisakyti prievolių, siejančių juos su atstovu.
+nebegali atsisakyti prievolių, siejančių juos su atstovu.
 
 5. Jeigu
 
@@ -38289,19 +35553,19 @@ patvirtinimo nebegalima atšaukti.
 
 2. Jeigu
 
-sandorio sudarymo metu trečiasis asmuo nežinojo ir negalėjo žinoti, kad atstovas
+sandorio sudarymo metu trečiasis asmuo nežinojo ir negalėjo žinoti, kad
 
-neturi teisių ar jas viršija, tai trečiasis asmuo neatsako atstovaujamajam,
+atstovas neturi teisių ar jas viršija, tai trečiasis asmuo neatsako
 
-jeigu iki atstovo veiksmų patvirtinimo momento jis praneša atstovaujamajam, kad
+atstovaujamajam, jeigu iki atstovo veiksmų patvirtinimo momento jis praneša
 
-sandoris jam neprivalomas net jį patvirtinus. Jeigu atstovaujamasis patvirtino
+atstovaujamajam, kad sandoris jam neprivalomas net jį patvirtinus. Jeigu
 
-atstovo veiksmus, bet tą padarė ne per protingumo kriterijų atitinkantį
+atstovaujamasis patvirtino atstovo veiksmus, bet tą padarė ne per protingumo
 
-terminą, trečiasis asmuo gali atsisakyti sandorio apie tai nedelsiant
+kriterijų atitinkantį terminą, trečiasis asmuo gali atsisakyti sandorio apie
 
-pranešdamas atstovaujamajam.
+tai nedelsiant pranešdamas atstovaujamajam.
 
 3. Jeigu
 
@@ -38523,19 +35787,21 @@ nustatyta tvarka.
 
 straipsnis. Prokuristo parašas
 
-Pasirašydamas
+Pasirašydamas atstovaujamojo
 
-atstovaujamojo vardu dokumentus, prokuristas privalo nurodyti, kad jis veikia
+vardu dokumentus, prokuristas privalo nurodyti, kad jis veikia kaip
 
-kaip prokuristas, t. y. įrašyti žodį „prokuristas“ arba jo sutrumpinimą „pp“.
+prokuristas, t. y. įrašyti žodį „prokuristas“ arba jo sutrumpinimą „pp“.
 
 2.183
 
 straipsnis. Prokuristo atsakomybė
 
-Prokuristas atsako
+Prokuristas
 
-atstovaujamajam ir tretiesiems asmenims taip pat kaip ir prekybos agentas.
+atsako atstovaujamajam ir tretiesiems asmenims taip pat kaip ir prekybos
+
+agentas.
 
 2.184
 
@@ -38575,15 +35841,13 @@ straipsnio 1 dalies 4 ir 5 punktuose numatytus atvejus.
 
 straipsnis. Veiksmai, kuriems atlikti prokūra nereikalinga
 
-1.
+1. Atstovaujamasis
 
-Atstovaujamasis gali pavesti savo darbuotojams atlikti veiksmus, kurie tam
+gali pavesti savo darbuotojams atlikti veiksmus, kurie tam tikroje verslo
 
-tikroje verslo srityje yra kasdieniai ir įprastiniai, neišduodamas prokūros.
+srityje yra kasdieniai ir įprastiniai, neišduodamas prokūros. Tokiais atvejais
 
-Tokiais atvejais prokūrą reglamentuojančios šio kodekso normos taikomos pagal
-
-analogiją.
+prokūrą reglamentuojančios šio kodekso normos taikomos pagal analogiją.
 
 2.
 
@@ -38735,115 +35999,41 @@ dėl tėvystės pripažinimo, ar su kitu vyru, gimusio vaiko tėvystės, remiant
 
 4. Jeigu vaiko
 
-motina arba vyras, padavęs pareiškimą dėl tėvystės pripažinimo iki vaikui gimstant,
+motina arba vyras, padavęs pareiškimą dėl tėvystės pripažinimo iki vaikui
 
-atšaukė jį, kol vaiko gimimas nebuvo įregistruotas civilinės metrikacijos
+gimstant, atšaukė jį, kol vaiko gimimas nebuvo įregistruotas civilinės
 
-įstaigoje, vaiko kilmė iš tėvo, remiantis pareiškimu dėl tėvystės pripažinimo,
+metrikacijos įstaigoje, vaiko kilmė iš tėvo, remiantis pareiškimu dėl tėvystės
 
-neregistruojama.
+pripažinimo, neregistruojama.
 
-2.147 straipsnis. Įgaliojimo pasibaigimas
+3.147 straipsnis. Asmenys, turintys teisę kreiptis
 
-1. Įgaliojimas
+dėl tėvystės nustatymo
 
-pasibaigia:
+1. Jei vaikas
 
-1) pasibaigus
+gimė nesusituokusiai motinai ar nuginčyti vaiko gimimo įraše duomenys apie
 
-įgaliojimo terminui;
+tėvą, ieškinį dėl tėvystės nustatymo gali pareikšti vyras, laikantis save vaiko
 
-2) įgaliotojui
+tėvu. Atsakovai pagal tokį ieškinį yra vaikas ir jo motina.
 
-panaikinus įgaliojimą;
+2. Jei vaiko
 
-3) įgaliotiniui
+tėvas atsisako pripažinti tėvystę pareiškimu dėl tėvystės pripažinimo ar vaiko
 
-atsisakius įgaliojimo;
+tėvas mirė, ieškinį dėl tėvystės nustatymo gali paduoti vaiko motina, vaikas,
 
-4) nustojus
+įgijęs visišką veiksnumą, vaiko globėjas (rūpintojas), valstybinė vaikų teisių
 
-egzistuoti juridiniam asmeniui, kuris davė įgaliojimą;
+apsaugos institucija arba mirusio vaiko palikuonys.
 
-5) nustojus
+3. Teismas,
 
-egzistuoti juridiniam asmeniui, kuriam duotas įgaliojimas, arba jam iškėlus
+nustatęs tėvystę, įsiteisėjusį teismo sprendimą per tris darbo dienas išsiunčia
 
-bankroto bylą;
-
-6) mirus
-
-davusiam įgaliojimą fiziniam asmeniui ar pripažinus jį neveiksniu arba ribotai
-
-veiksniu, arba nežinia kur esančiu;
-
-7) mirus
-
-fiziniam asmeniui, kuriam duotas įgaliojimas, ar pripažinus jį neveiksniu arba
-
-ribotai veiksniu, arba nežinia kur esančiu.
-
-2. Duomenys apie
-
-įgaliojimo pasibaigimą turi būti pateikti notarine tvarka patvirtintų
-
-įgaliojimų registro tvarkymo įstaigai.
-
-3. Pasibaigus
-
-įgaliojimui, netenka galios ir perįgaliojimas.
-
-4. Atstovavimo
-
-pasibaigimas negali būti panaudotas prieš sąžiningus trečiuosius asmenis,
-
-išskyrus atvejus, kai apie atstovavimo pasibaigimo faktą šie asmenys žinojo ar
-
-turėjo sužinoti, bet nesužinojo dėl savo pačių neatidumo.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. XI-1031,
-
-2010-09-23, Žin., 2010, Nr. 126-6456 (2010-10-26)
-
-2.148
-
-straipsnis. Įgaliotojo pareiga pranešti apie įgaliojimo pasibaigimą
-
-1. Apie
-
-įgaliojimo panaikinimą, nurodytą šio kodekso 2.147 straipsnio 1 dalies 2
-
-punkte, įgaliotojas privalo pranešti įgaliotiniui, taip pat įgaliotojui
-
-žinomiems tretiesiems asmenims, su kuriais nustatant ir palaikant santykius
-
-atstovauti duotas įgaliojimas. Tokią pat pareigą turi įgaliotojo teisių
-
-perėmėjai, kai įgaliojimas pasibaigia šio kodekso 2.147 straipsnio 1 dalies 4
-
-ir 6 punktuose numatytais pagrindais.
-
-2. Įgaliotojo ir
-
-jo teisių perėmėjų teisės ir pareigos, atsiradusios kaip įgaliotinio veiksmų
-
-rezultatas iki to laiko, kai įgaliotinis sužinojo ar turėjo sužinoti apie
-
-įgaliojimo pasibaigimą, lieka galioti tretiesiems asmenims. Ši nuostata
-
-netaikoma, jeigu trečiasis asmuo žinojo ar turėjo žinoti, kad įgaliojimas
-
-pasibaigė.
-
-3. Įgaliojimui
-
-pasibaigus, įgaliotinis ar jo teisių perėmėjai privalo tuojau grąžinti
-
-įgaliojimą įgaliotojui ar jo teisių perėmėjams.
+civilinės metrikacijos įstaigai, įregistravusiai vaiko gimimą.
 
 3.148 straipsnis. Tėvystės nustatymo pagrindai
 
@@ -38903,9 +36093,9 @@ ieškinį dėl tėvystės (motinystės) nuginčijimo gali asmuo, vaiko gimimo ak
 
 kaip motina ar tėvas, bet laikantis save vaiko motina ar tėvu, nepilnamečio
 
-vyro, vaiko gimimo įraše įrašyto kaip tėvas, tėvai ar globėjai (rūpintojai),
+vyro, vaiko gimimo įraše įrašyto kaip tėvas, tėvai ar globėjai (rūpintojai), vaikas,
 
-vaikas, sulaukęs pilnametystės, ar nepilnametis, įgijęs visišką veiksnumą.
+sulaukęs pilnametystės, ar nepilnametis, įgijęs visišką veiksnumą.
 
 2. Jei vaiko
 
@@ -38931,9 +36121,9 @@ senaties terminas. Šis terminas skaičiuojamas nuo tos dienos, kada asmuo, kuri
 
 kreipiasi į teismą, sužinojo apie ginčijamus duomenis, įrašytus vaiko gimimo
 
-įraše, arba paaiškėjo aplinkybių, duodančių pagrindą teigti, kad duomenys
+įraše, arba paaiškėjo aplinkybių, duodančių pagrindą teigti, kad duomenys neatitinka
 
-neatitinka tikrovės.
+tikrovės.
 
 2. Jeigu
 
@@ -38943,13 +36133,15 @@ nepilnamečiai ar neveiksnūs, vienerių metų terminas skaičiuojamas nuo tos
 
 dienos, kai jie sulaukė pilnametystės arba tapo veiksniais.
 
-3. Įsiteisėjęs
+3. Įsiteisėjęs teismo
 
-teismo sprendimas, kuriuo nuginčyta tėvystė (motinystė), per tris darbo dienas
+sprendimas, kuriuo nuginčyta tėvystė (motinystė), per tris darbo dienas
 
 išsiunčiamas civilinės metrikacijos įstaigai, įregistravusiai vaiko gimimą.
 
-3.154 straipsnis. Dirbtinio apvaisinimo teisinis reglamentavimas
+3.154 straipsnis. Dirbtinio apvaisinimo teisinis
+
+reglamentavimas
 
 Dirbtinio
 
@@ -39139,21 +36331,21 @@ ir dalyvauti jį auklėjant.
 
 2. Vaikas, kurio
 
-tėvai gyvena skyrium, turi teisę nuolat ir tiesiogiai bendrauti su abiem tėvais,
+tėvai gyvena skyrium, turi teisę nuolat ir tiesiogiai bendrauti su abiem
 
-nesvarbu, kur tėvai gyvena.
+tėvais, nesvarbu, kur tėvai gyvena.
 
-3. Tėvas ar
+3. Tėvas ar motina,
 
-motina, pas kurį gyvena vaikas, neturi teisės kliudyti antrajam iš tėvų
+pas kurį gyvena vaikas, neturi teisės kliudyti antrajam iš tėvų bendrauti su
 
-bendrauti su vaiku ir dalyvauti jį auklėjant.
+vaiku ir dalyvauti jį auklėjant.
 
 4. Kai tėvai
 
-nesusitaria dėl skyrium gyvenančio tėvo ar motinos dalyvavimo auklėjant vaiką ir
+nesusitaria dėl skyrium gyvenančio tėvo ar motinos dalyvavimo auklėjant vaiką
 
-bendravimo su juo, bendravimo su vaiku ir dalyvavimo jį auklėjant tvarką
+ir bendravimo su juo, bendravimo su vaiku ir dalyvavimo jį auklėjant tvarką
 
 nustato teismas.
 
@@ -39213,9 +36405,7 @@ vietos nustatymo
 
 teismą dėl vaiko gyvenamosios vietos nustatymo gali vaiko tėvas, motina, taip
 
-pat nepilnamečių tėvų, neturinčių visiško veiksnumo, tėvai, globėjai
-
-(rūpintojai).
+pat nepilnamečių tėvų, neturinčių visiško veiksnumo, tėvai, globėjai (rūpintojai).
 
 2. Teismas ginčą
 
@@ -39311,15 +36501,15 @@ Tėvų valdžios apribojimas
 
 1. Tais atvejais, kai tėvai
 
-(tėvas ar motina) negyvena kartu su vaiku dėl susiklosčiusių objektyvių
+(tėvas ar motina) negyvena kartu su vaiku dėl susiklosčiusių objektyvių aplinkybių
 
-aplinkybių (dėl ligos ir pan.) ir reikia nuspręsti, kur turi gyventi vaikas,
+(dėl ligos ir pan.) ir reikia nuspręsti, kur turi gyventi vaikas, teismas gali
 
-teismas gali nuspręsti atskirti vaiką nuo tėvų (tėvo ar motinos). Jei
+nuspręsti atskirti vaiką nuo tėvų (tėvo ar motinos). Jei nepalankios aplinkybės
 
-nepalankios aplinkybės susiklosto vienam iš tėvų, o kitas gali gyventi kartu su
+susiklosto vienam iš tėvų, o kitas gali gyventi kartu su vaiku ir auklėti jį,
 
-vaiku ir auklėti jį, vaikas atskiriamas tik nuo to iš tėvų.
+vaikas atskiriamas tik nuo to iš tėvų.
 
 2. Atskirtam nuo
 
@@ -39469,9 +36659,9 @@ nagrinėjimas
 
 vaiko atskyrimo nuo tėvų panaikinimo nagrinėjami supaprastinto proceso tvarka.
 
-Jei paaiškėja, kad yra pagrindas tėvų valdžią laikinai ar neterminuotai apriboti,
+Jei paaiškėja, kad yra pagrindas tėvų valdžią laikinai ar neterminuotai
 
-prašymas perduodamas nagrinėti ieškinio teisena.
+apriboti, prašymas perduodamas nagrinėti ieškinio teisena.
 
 2. Teismas,
 
@@ -39697,11 +36887,13 @@ straipsnis. Uzufrukto teisė, kai turtą tvarko tik vienas iš tėvų
 
 1. Jeigu tėvų
 
-valdžia priklauso tik vienam iš nepilnamečio vaiko tėvų, tai vaiko turtą uzufrukto
+valdžia priklauso tik vienam iš nepilnamečio vaiko tėvų, tai vaiko turtą
 
-teise tvarko tik šis tėvas arba motina. Ištuokos ar gyvenimo skyrium atveju
+uzufrukto teise tvarko tik šis tėvas arba motina. Ištuokos ar gyvenimo skyrium
 
-turto tvarkymo teisė priklauso tam iš tėvų, su kuriuo lieka gyventi vaikas.
+atveju turto tvarkymo teisė priklauso tam iš tėvų, su kuriuo lieka gyventi
+
+vaikas.
 
 2. Jei
 
@@ -39821,11 +37013,11 @@ straipsnis. Išlaikymo priteisimo momentas
 
 Išlaikymas
 
-priteisiamas nuo teisės į išlaikymą atsiradimo dienos, tačiau išlaikymo įsiskolinimas
+priteisiamas nuo teisės į išlaikymą atsiradimo dienos, tačiau išlaikymo
 
-negali būti išieškotas daugiau kaip už trejus metus iki ieškinio pareiškimo
+įsiskolinimas negali būti išieškotas daugiau kaip už trejus metus iki ieškinio
 
-dienos.
+pareiškimo dienos.
 
 3.201
 
@@ -39965,11 +37157,11 @@ nuo trečiųjų asmenų piktnaudžiavimo.
 
 straipsnis. Globos ir rūpybos institucijos
 
-1. Globos ir rūpybos
+1. Globos ir
 
-institucijos yra savivaldybių ar apskričių institucijos, kurios prižiūri ir
+rūpybos institucijos yra savivaldybių ar apskričių institucijos, kurios
 
-kontroliuoja globėjų ir rūpintojų veiklą.
+prižiūri ir kontroliuoja globėjų ir rūpintojų veiklą.
 
 2. Asmenų,
 
@@ -40295,9 +37487,9 @@ straipsnis. Vaiko globos (rūpybos) rūšys ir formos
 
 globa (rūpyba);
 
-2) nuolatinė globa
+2) nuolatinė
 
-(rūpyba).
+globa (rūpyba).
 
 2. Vaiko globos
 
@@ -40369,9 +37561,9 @@ globa (rūpyba) baigiasi, kai vaikas:
 
 1) grąžinamas tėvams;
 
-2) sulaukia
+2) sulaukia pilnametystės
 
-pilnametystės arba emancipuojamas;
+arba emancipuojamas;
 
 3) nustatoma
 
@@ -40461,9 +37653,9 @@ aplinkoje.
 
 2. Bendras vaikų
 
-skaičius gali būti didesnis, nei nurodyta šio straipsnio 1 dalyje, kai neišskiriami
+skaičius gali būti didesnis, nei nurodyta šio straipsnio 1 dalyje, kai
 
-broliai ir seserys.
+neišskiriami broliai ir seserys.
 
 3. Skiriant
 
@@ -40533,9 +37725,9 @@ laikinoji globa (rūpyba) nustatoma nuo prašymo įregistravimo dienos rajono
 
 valstybinės vaiko teisių apsaugos institucijos teikimą.
 
-2. Vaikų
+2. Vaikų laikinoji
 
-laikinoji globa (rūpyba) organizuojama pagal vaikų laikinosios globos (rūpybos)
+globa (rūpyba) organizuojama pagal vaikų laikinosios globos (rūpybos)
 
 nuostatus, kuriuos tvirtina Vyriausybė ar jos įgaliota valstybės institucija.
 
@@ -40577,17 +37769,17 @@ priėmimo data, vaiko globos rūšis, vaiko globėjas, globojamas vaikas, vaiko
 
 globos vieta, institucija, atsakinga už globojamam vaikui nuosavybės teise
 
-priklausančio turto apsaugą, kitos svarbios aplinkybės, turinčios reikšmės vaiko
+priklausančio turto apsaugą, kitos svarbios aplinkybės, turinčios reikšmės
 
-globai ir jos nustatymui.
+vaiko globai ir jos nustatymui.
 
-3. Jeigu
+3. Jeigu nustatoma
 
-nustatoma vaiko nuolatinė globa (rūpyba), vaiko globėjas (rūpintojas) skiriamas
+vaiko nuolatinė globa (rūpyba), vaiko globėjas (rūpintojas) skiriamas teismo
 
-teismo nutartimi pagal rajono (miesto) valstybinės vaiko teisių apsaugos
+nutartimi pagal rajono (miesto) valstybinės vaiko teisių apsaugos institucijos
 
-institucijos pareiškimą.
+pareiškimą.
 
 4. Kai steigiama
 
@@ -40969,11 +38161,11 @@ piliečių gimimą, santuoką ir mirtį.
 
 straipsnis. Civilinės būklės aktų registravimo taisyklės
 
-Civilinės būklės aktai
+Civilinės būklės aktai registruojami,
 
-registruojami, atkuriami, keičiami, papildomi ir ištaisomi, laikantis Civilinės
+atkuriami, keičiami, papildomi ir ištaisomi, laikantis Civilinės metrikacijos
 
-metrikacijos taisyklių, kurias tvirtina teisingumo ministras.
+taisyklių, kurias tvirtina teisingumo ministras.
 
 3.282
 
@@ -41075,9 +38267,9 @@ civilinės metrikacijos įstaigoje.
 
 2. Vaiko tėvų
 
-pageidavimu civilinės metrikacijos įstaiga sukuria iškilmingą gimimo registravimo
+pageidavimu civilinės metrikacijos įstaiga sukuria iškilmingą gimimo
 
-aplinką.
+registravimo aplinką.
 
 3.290
 
@@ -41089,9 +38281,9 @@ straipsnis. Pareiškimas apie gimimą
 
 mirę ar dėl kitų priežasčių negali to atlikti, pareiškia giminaičiai, kaimynai,
 
-medicinos įstaigos, kurioje motina pagimdė vaiką, administracija, taip pat
+medicinos įstaigos, kurioje motina pagimdė vaiką, administracija, taip pat valstybinė
 
-valstybinė vaiko teisių apsaugos institucija.
+vaiko teisių apsaugos institucija.
 
 2. Rasto vaiko
 
@@ -41165,9 +38357,9 @@ pripažinimo. Jeigu tėvystė pripažįstama po to, kai vaiko gimimas buvo
 
 įregistravusioje civilinės metrikacijos įstaigoje.
 
-2. Šio kodekso 3.140
+2. Šio kodekso
 
-straipsnio 5 dalyje ir 3.144 straipsnyje numatytais atvejais tėvystės
+3.140 straipsnio 5 dalyje ir 3.144 straipsnyje numatytais atvejais tėvystės
 
 pripažinimas registruojamas pateikus teismo patvirtintą prašymą dėl tėvystės
 
@@ -41189,11 +38381,11 @@ straipsnis. Duomenų apie tėvą įrašas vaiko gimimo įraše
 
 Civilinės
 
-metrikacijos įstaiga, remdamasi prašymu dėl tėvystės pripažinimo arba teismo sprendimu
+metrikacijos įstaiga, remdamasi prašymu dėl tėvystės pripažinimo arba teismo
 
-nustatyti tėvystę, įrašo į vaiko gimimo įrašą duomenis apie tėvą ir išduoda
+sprendimu nustatyti tėvystę, įrašo į vaiko gimimo įrašą duomenis apie tėvą ir
 
-naują gimimo liudijimą.
+išduoda naują gimimo liudijimą.
 
 XXIII skyrius
 
@@ -41297,9 +38489,9 @@ asmuo pateikia taip pat ištuokos liudijimą.
 
 valstybių piliečiai, paduodami prašymus įregistruoti santuoką, privalo pateikti
 
-taip pat savo valstybės kompetentingos įstaigos išduotą dokumentą,
+taip pat savo valstybės kompetentingos įstaigos išduotą dokumentą, patvirtinantį,
 
-patvirtinantį, kad santuokai nėra kliūčių.
+kad santuokai nėra kliūčių.
 
 3.301
 
@@ -41311,13 +38503,13 @@ registruojama praėjus ne mažiau kaip vienam mėnesiui nuo prašymo įregistruo
 
 santuoką padavimo dienos.
 
-2. Civilinės metrikacijos
+2. Civilinės
 
-įstaigos vadovas norinčių susituokti prašymu ir tuo atveju, kai yra svarbių
+metrikacijos įstaigos vadovas norinčių susituokti prašymu ir tuo atveju, kai
 
-priežasčių, turi teisę leisti registruoti santuoką nepraėjus vienam mėnesiui
+yra svarbių priežasčių, turi teisę leisti registruoti santuoką nepraėjus vienam
 
-nuo prašymo padavimo dienos.
+mėnesiui nuo prašymo padavimo dienos.
 
 3.302
 
@@ -41649,11 +38841,11 @@ nustatyta įstatymo arba šalių susitarimu, kai susitarimas neprieštarauja
 
 straipsnis. Pakeičiamieji ir nepakeičiamieji daiktai
 
-1. Pakeičiamaisiais
+1.
 
-daiktais laikomi rūšies požymiais apibūdinti ir individualių požymių neturintys
+Pakeičiamaisiais daiktais laikomi rūšies požymiais apibūdinti ir individualių
 
-daiktai.
+požymių neturintys daiktai.
 
 2.
 
@@ -41665,11 +38857,11 @@ daiktai.
 
 straipsnis. Individualiais ir rūšies požymiais apibūdinti daiktai
 
-1. Individualiais
+1.
 
-požymiais apibūdintais laikomi daiktai, kurie vienu ar kitu būdu atskiriami nuo
+Individualiais požymiais apibūdintais laikomi daiktai, kurie vienu ar kitu būdu
 
-kitų vienarūšių daiktų.
+atskiriami nuo kitų vienarūšių daiktų.
 
 2. Rūšies
 
@@ -59089,9 +56281,9 @@ pripažįstama, kad bankas suteikia klientui atitinkamos sumos kreditą nuo pini
 
 išmokėjimo dienos.
 
-2. Banko ir kliento
+2. Banko ir
 
-santykiams, susijusiems su sąskaitos kreditavimu mutatis mutandis,
+kliento santykiams, susijusiems su sąskaitos kreditavimu mutatis mutandis,
 
 taikomos šios knygos XLIII normos, jeigu banko sąskaitos sutartis nenustato ko
 
@@ -59227,15 +56419,15 @@ straipsnis. Banko atsakomybė už netinkamą operacijų atlikimą
 
 Jeigu bankas ne laiku
 
-įskaito gautas lėšas į kliento sąskaitą arba jas nepagrįstai nurašo iš
+įskaito gautas lėšas į kliento sąskaitą arba jas nepagrįstai nurašo iš sąskaitos,
 
-sąskaitos, taip pat jei nevykdo kliento nurodymų dėl lėšų pervedimo ar
+taip pat jei nevykdo kliento nurodymų dėl lėšų pervedimo ar išmokėjimo iš
 
-išmokėjimo iš sąskaitos, bankas privalo mokėti klientui banko sąskaitos
+sąskaitos, bankas privalo mokėti klientui banko sąskaitos sutartyje nustatytas
 
-sutartyje nustatytas palūkanas, o jeigu jos nenustatytos, – šio kodekso 6.210
+palūkanas, o jeigu jos nenustatytos, – šio kodekso 6.210 straipsnyje nustatytas
 
-straipsnyje nustatytas palūkanas.
+palūkanas.
 
 6.925
 
@@ -59305,9 +56497,9 @@ sąskaitoje išduodamas klientui arba jo nurodymu pervedamas į kitą sąskaitą
 
 vėliau kaip per penkias darbo dienas nuo atitinkamo rašytinio kliento
 
-pareiškimo gavimo dienos. Jeigu klientas nedavė nurodymo pervesti lėšas į kitą
+pareiškimo gavimo dienos. Jeigu klientas nedavė nurodymo pervesti lėšas į kitą sąskaitą,
 
-sąskaitą, bankas lėšas perveda į banko vidines sąskaitas.
+bankas lėšas perveda į banko vidines sąskaitas.
 
 4. Banko
 
@@ -59439,9 +56631,9 @@ terminą, o jeigu jis nenustatytas, – per protingą terminą bankas negauna
 
 atsakymo į savo pareikalavimą, tai jis turi teisę nevykdyti mokėjimo pavedimo
 
-ir grąžinti jį mokėtojui, jeigu ko kita nenustato įstatymas, banko veiklos taisyklės
+ir grąžinti jį mokėtojui, jeigu ko kita nenustato įstatymas, banko veiklos
 
-ar banko ir mokėtojo sudaryta sutartis.
+taisyklės ar banko ir mokėtojo sudaryta sutartis.
 
 3. Mokėtojo
 
@@ -59485,9 +56677,9 @@ pavedimo neįvykdymą ar netinkamą įvykdymą
 
 1. Bankas,
 
-neįvykdęs ar netinkamai įvykdęs mokėjimo pavedimą, atsako pagal bendrąsias sutartinės
+neįvykdęs ar netinkamai įvykdęs mokėjimo pavedimą, atsako pagal bendrąsias
 
-civilinės atsakomybės taisykles.
+sutartinės civilinės atsakomybės taisykles.
 
 2. Jeigu
 
@@ -59605,15 +56797,13 @@ akredityvas yra laikomas neatšaukiamu.
 
 straipsnis. Akredityvo įvykdymas
 
-1. Akredityvui
+1. Akredityvui įvykdyti
 
-įvykdyti lėšų gavėjas pateikia bankui emitentui, tvirtinančiajam bankui (jei
+lėšų gavėjas pateikia bankui emitentui, tvirtinančiajam bankui (jei toks yra)
 
-toks yra) ar vykdančiajam bankui dokumentus, patvirtinančius, kad įvykdytos
+ar vykdančiajam bankui dokumentus, patvirtinančius, kad įvykdytos visos
 
-visos akredityvo sąlygos. Pažeidus bent vieną iš šių sąlygų, akredityvas
-
-nevykdomas.
+akredityvo sąlygos. Pažeidus bent vieną iš šių sąlygų, akredityvas nevykdomas.
 
 2. Jeigu
 
@@ -59899,9 +57089,9 @@ paskelbtas, atšaukti, išskyrus atvejus, kai:
 
 skelbime buvo nurodyta, kad pažadas yra neatšaukiamas;
 
-2) pagal savo esmę
+2) pagal savo
 
-pažadas yra neatšaukiamas;
+esmę pažadas yra neatšaukiamas;
 
 3) skelbime
 
@@ -60055,9 +57245,9 @@ nustatyta tvarka, o jeigu jose tokia tvarka nenustatyta, – lygiomis dalimis,
 
 jeigu patys nugalėtojai nesusitaria kitaip.
 
-6.950 straipsnis. Naudojimasis pagal
+6.950 straipsnis. Naudojimasis pagal konkursą
 
-konkursą premijuotais mokslo, literatūros, meno ir architektūros kūriniais
+premijuotais mokslo, literatūros, meno ir architektūros kūriniais
 
 Jeigu viešo
 
@@ -60093,11 +57283,11 @@ tvarkos ar terminų, pateikto ir atitinkančio kitus konkurso reikalavimus darbo
 
 ar projekto autorius įgyja teisę gauti jam padarytų nuostolių atlyginimą.
 
-2. Jeigu
+2. Jeigu konkurso
 
-konkurso nugalėtojui nesuteikiama speciali teisė (teisės), jam turi būti
+nugalėtojui nesuteikiama speciali teisė (teisės), jam turi būti atlyginti
 
-atlyginti nuostoliai.
+nuostoliai.
 
 L skyrius
 
@@ -60109,13 +57299,13 @@ straipsnis. Turto patikėjimo sutarties samprata
 
 1. Turto
 
-patikėjimo sutartimi viena šalis (patikėtojas) perduoda kitai šaliai (patikėtiniui)
+patikėjimo sutartimi viena šalis (patikėtojas) perduoda kitai šaliai
 
-savo turtą patikėjimo teise tam tikram laikui, o kita šalis įsipareigoja tą
+(patikėtiniui) savo turtą patikėjimo teise tam tikram laikui, o kita šalis
 
-turtą valdyti, naudoti ir juo disponuoti patikėtojo ar jo nurodyto asmens
+įsipareigoja tą turtą valdyti, naudoti ir juo disponuoti patikėtojo ar jo
 
-(naudos gavėjo) interesais.
+nurodyto asmens (naudos gavėjo) interesais.
 
 2. Turto perdavimas kitam
 
@@ -60139,9 +57329,9 @@ partnerių turi teisę nutraukti savo sudarytą su kitais partneriais terminuot�
 
 ar sudarytą tam tikram tikslui jungtinės veiklos sutartį, jeigu:
 
-1) kiti partneriai
+1) kiti
 
-ją iš esmės pažeidžia;
+partneriai ją iš esmės pažeidžia;
 
 2) norintis
 
@@ -60153,11 +57343,11 @@ sutartį, turi atlyginti kitiems partneriams dėl sutarties nutraukimo padarytus
 
 tiesioginius nuostolius.
 
-3. Vienam iš
+3. Vienam iš partnerių
 
-partnerių sutartį nutraukus, sutartis lieka galioti kitiems partneriams,
+sutartį nutraukus, sutartis lieka galioti kitiems partneriams, išskyrus šio
 
-išskyrus šio kodekso 6.978 straipsnio 1 dalies 1 punkte nustatytas išimtis.
+kodekso 6.978 straipsnio 1 dalies 1 punkte nustatytas išimtis.
 
 6.981
 
@@ -60183,11 +57373,11 @@ straipsnis. Nevieša partnerystė
 
 veiklos sutartis gali numatyti, kad partneris (partneriai) negali būti
 
-atskleistas tretiesiems asmenims (nevieša partnerystė). Tokiai sutarčiai
+atskleistas tretiesiems asmenims (nevieša partnerystė). Tokiai sutarčiai taikomos
 
-taikomos šio skyriaus taisyklės, išskyrus sutarties ir šio straipsnio
+šio skyriaus taisyklės, išskyrus sutarties ir šio straipsnio nustatytas
 
-nustatytas išimtis.
+išimtis.
 
 2. Esant
 
@@ -60269,11 +57459,11 @@ vykdymas, kai yra ir draudėjas, ir naudos gavėjas
 
 1. Jeigu
 
-draudimo sutartis sudaryta trečiojo asmens (naudos gavėjo) naudai, tai atsakingas
+draudimo sutartis sudaryta trečiojo asmens (naudos gavėjo) naudai, tai
 
-draudikui už sutarties vykdymą yra draudėjas, jeigu draudimo sutartis nenustato
+atsakingas draudikui už sutarties vykdymą yra draudėjas, jeigu draudimo
 
-ko kita.
+sutartis nenustato ko kita.
 
 2. Draudikas
 
@@ -60311,9 +57501,11 @@ sutartis gali būti nutraukta prieš joje nustatytą jos galiojimo terminą, jei
 
 po sutarties įsigaliojimo išnyko galimybės įvykti draudiminiam įvykiui arba
 
-draudiminė rizika išnyko dėl aplinkybių, nesusijusių su draudiminiu įvykiu (draudimo
+draudiminė rizika išnyko dėl aplinkybių, nesusijusių su draudiminiu įvykiu
 
-objektas žuvo dėl priežasčių, nesusijusių su draudiminiu įvykiu ir kt.).
+(draudimo objektas žuvo dėl priežasčių, nesusijusių su draudiminiu įvykiu ir
+
+kt.).
 
 2. Draudėjas
 
@@ -60411,9 +57603,9 @@ sudarydamas perdraudimo sutartis su kitais draudikais. Šiuo atveju draudikas
 
 pagal pagrindinę draudimo sutartį tampa draudėju pagal perdraudimo sutartį.
 
-2. Perdraudimo
+2. Perdraudimo sutartims
 
-sutartims mutatis mutandis taikomos šio skyriaus taisyklės.
+mutatis mutandis taikomos šio skyriaus taisyklės.
 
 3. Perdraudimo
 
@@ -60437,9 +57629,9 @@ draugijų veiklą reglamentuoja įstatymai.
 
 3. Šio
 
-skyriaus taisyklės savitarpio draudimui taikomos tiek, kiek kiti įstatymai nenustato
+skyriaus taisyklės savitarpio draudimui taikomos tiek, kiek kiti įstatymai
 
-ko kita.
+nenustato ko kita.
 
 6.1018
 
@@ -60467,9 +57659,9 @@ Nr. IX-2172,
 
 CIVILINIO KODEKSO 1.3, 2.55,
 
-2.61, 2.72, 2.79, 2.112, 2.152, 2.160, 2.167, 4.176, 6.292, 6.298, 6.299,
+2.61, 2.72, 2.79, 2.112, 2.152, 2.160, 2.167, 4.176, 6.292, 6.298, 6.299, 6.747,
 
-6.747, 6.748, 6.751, 6.753 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+6.748, 6.751, 6.753 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 2.
 
@@ -60481,9 +57673,9 @@ Nr. IX-2571,
 
 2004-11-11, Žin., 2004, Nr. 171-6319 (2004-11-26)
 
-CIVILINIO KODEKSO 3.194 STRAIPSNIO
+CIVILINIO KODEKSO 3.194
 
-PAKEITIMO ĮSTATYMAS
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 3.
 
@@ -60569,9 +57761,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. XI-447,
+Nr. XI-447, 2009-10-22,
 
-2009-10-22, Žin., 2009, Nr. 134-5832 (2009-11-10)
+Žin., 2009, Nr. 134-5832 (2009-11-10)
 
 CIVILINIO
 
@@ -60583,9 +57775,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. XI-485,
+Nr. XI-485, 2009-11-12,
 
-2009-11-12, Žin., 2009, Nr. 141-6205 (2009-11-28)
+Žin., 2009, Nr. 141-6205 (2009-11-28)
 
 CIVILINIO KODEKSO 2.72 STRAIPSNIO
 
@@ -60699,6 +57891,26 @@ KODEKSO PAPILDYMO 2.11(1), 2.138(1) STRAIPSNIAIS IR 2.147 STRAIPSNIO PAKEITIMO
 
 įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. sausio 1 d.
 
+16.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1254,
+
+2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)
+
+CIVILINIO
+
+KODEKSO 6.886 STRAIPSNIO PAKEITIMO IR 6.887, 6.888, 6.889, 6.890, 6.891
+
+STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2011 m.
+
+balandžio 1 d.
+
 *** Pabaiga ***
 
 Konstitucinio
@@ -60723,13 +57935,13 @@ CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. LAPKRIČIO 11 D. REDAKCIJA)
 
 Redagavo Aušrinė Trapinskienė
 
-(2010-10-28)
+(2011-01-11)
 
 autrap@lrs.lt
 
-2.1381 straipsnis. Notarine tvarka
+2.1381 straipsnis. Notarine tvarka patvirtintų
 
-patvirtintų įgaliojimų registras
+įgaliojimų registras
 
 1. Notarine
 
@@ -60753,11 +57965,13 @@ dalyje nurodytus notaro patvirtintiems prilyginamus įgaliojimus, notarine
 
 tvarka patvirtintų įgaliojimų registrui pateikiami duomenys apie įgaliojimą
 
-davusį asmenį, įgaliotinį, įgaliojimą patvirtinusį asmenį, įgaliojimo
+davusį asmenį, įgaliotinį, įgaliojimą patvirtinusį asmenį, įgaliojimo patvirtinimo
 
-patvirtinimo ir pasibaigimo datas, įgaliojimo turinį ir kiti Notarine tvarka
+ir pasibaigimo datas, įgaliojimo turinį ir kiti Notarine tvarka patvirtintų
 
-patvirtintų įgaliojimų registro nuostatų nustatyti duomenys.
+įgaliojimų registro
+
+nuostatų nustatyti duomenys.
 
 3.
 
@@ -60780,4 +57994,918 @@ papildytas straipsniu:
 Nr. XI-1031,
 
 2010-09-23, Žin., 2010, Nr. 126-6456 (2010-10-26)
+
+6.886 straipsnis. Vartojimo kredito sutarties samprata
+
+1. Vartojimo
+
+kredito sutartimi kredito davėjas suteikia arba įsipareigoja suteikti kredito
+
+gavėjui vartojimo kreditą atidėto mokėjimo, paskolos forma arba kitu panašiu
+
+finansiniu būdu, išskyrus sutartis dėl nuolatinio tos pačios rūšies paslaugų
+
+teikimo ar tos pačios rūšies prekių tiekimo, kai kredito gavėjas už teikiamas
+
+paslaugas ar tiekiamas prekes moka dalimis jų teikimo ar tiekimo metu.
+
+2. Kredito
+
+davėjas, teikdamas vartojimo kredito paslaugą, privalo užtikrinti tinkamą
+
+atsakingo skolinimo principo įgyvendinimą.
+
+3. Su
+
+vartojimo kreditu susijusius santykius reglamentuoja šis kodeksas ir kiti
+
+įstatymai.
+
+4. Pagal šį straipsnį
+
+kredito davėjas yra asmuo, kuris įstatymų nustatyta tvarka ir atvejais dėl savo
+
+komercinės veiklos teikia arba įsipareigoja teikti vartojimo kreditus.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-1254,
+
+2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)
+
+6.887
+
+straipsnis. Vartojimo kredito sutarties forma ir turinys
+
+1. Vartojimo
+
+kredito sutartis turi būti rašytinė.
+
+2. Vienas sutarties
+
+egzempliorius privalo būti įteiktas kredito gavėjui. Kilus ginčui, sutarties
+
+egzemplioriaus įteikimo kredito gavėjui faktą privalo įrodyti kredito davėjas.
+
+3. Vartojimo kredito
+
+sutartyje turi būti nurodyta:
+
+1) kredito suma
+
+arba kredito limitas, jeigu toks yra;
+
+2) metinė kredito grąžinimo
+
+norma, palūkanų norma, mokesčiai ir kitos su kredito gavimu bei naudojimu
+
+susijusios kredito gavėjo išlaidos;
+
+3) kredito grąžinimo
+
+terminas arba, jeigu kreditas turi būti grąžinamas dalinėmis įmokomis, –
+
+kiekvienos įmokos suma ir mokėjimo laikas;
+
+4) daiktui ar paslaugai
+
+pirkti skirto kredito atveju – daikto (paslaugos) kaina ir bendra kredito suma;
+
+5) kredito gavėjo teisė
+
+grąžinti kreditą nesibaigus jo grąžinimo laikui pagal šio kodekso 6.888
+
+straipsnio nuostatas;
+
+6) metinės kredito
+
+grąžinimo normos keitimo sąlygos ir tvarka, jeigu tokia galimybė yra nustatyta
+
+sutartyje, su sąlyga, kad pakeitimų negali daryti kredito davėjas
+
+vienašališkai.
+
+4. Jeigu kredito gavėjas
+
+privalo pateikti kredito draudimą, sutartyje taip pat privalo būti nurodyta
+
+kredito draudimo vertė ir sąlygos, kuriomis draudimo suma bus pervesta kredito
+
+davėjui.
+
+5. Sutarties sudarymo metu
+
+kredito gavėjas raštu informuojamas apie:
+
+1) teikiamo
+
+kredito apribojimus, jei tokių yra;
+
+2) metinę palūkanų normą ir
+
+mokesčius, taikomus nuo sutarties sudarymo, ir sąlygas, kurioms esant jie gali
+
+būti keičiami;
+
+3) sutarties pakeitimo
+
+procedūrą.
+
+6. Sutarties galiojimo metu
+
+kredito gavėjas informuojamas apie kiekvieną metinės palūkanų normos arba
+
+panašių išlaidų pasikeitimą tuo metu, kai tokie pasikeitimai įvyksta.
+
+7. Metinės kredito
+
+grąžinimo normos apskaičiavimo tvarką nustato Vyriausybė ir Lietuvos bankas.
+
+8. Visais atvejais,
+
+nesvarbu, kokiu būdu siūloma vartotojui sudaryti kredito sutartį (taip pat ir
+
+reklamoje), nurodoma metinė kredito grąžinimo norma. Rašytiniame pasiūlyme
+
+nurodomas bendros kredito sumos apskaičiavimo pavyzdys.
+
+6.888 straipsnis
+
+netenka galios nuo 2011 m. balandžio 1 d.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-1254,
+
+2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)
+
+6.889
+
+straipsnis. Sutarties nutraukimas kredito davėjo reikalavimu
+
+Kredito davėjas turi teisę nutraukti sutartį,
+
+jeigu yra abi šios sąlygos:
+
+1) mokėjimas yra uždelstas
+
+daugiau kaip vieną mėnesį ir jo suma yra ne mažesnė kaip dešimt procentų
+
+bendros kredito sumos;
+
+2) nebuvo sumokėta per dvi
+
+savaites nuo papildomo pranešimo įteikimo kredito gavėjui.
+
+6.889 straipsnis
+
+netenka galios nuo 2011 m. balandžio 1 d.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-1254,
+
+2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)
+
+6.890
+
+straipsnis. Draudimas priimti vekselius, čekius ir skolos raštus
+
+1. Kredito davėjui draudžiama priimti įmokas
+
+iš kredito gavėjo vekseliais, čekiais ar skolos raštais.
+
+2. Jeigu kredito davėjas
+
+priėmė įmokas šio straipsnio 1 dalyje nustatytomis mokėjimo priemonėmis, jis
+
+turi atlyginti kredito gavėjui visus nuostolius, susijusius su šių mokėjimo
+
+priemonių tolesniu naudojimu.
+
+6.890 straipsnis
+
+netenka galios nuo 2011 m. balandžio 1 d.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-1254,
+
+2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)
+
+6.891
+
+straipsnis. Kredito sutartis dėl tam tikro daikto ar paslaugos pirkimo
+
+1. Jeigu kredito gavėjas ir kredito davėjas
+
+sudaro sutartį dėl tam tikrų daiktų ar paslaugų pirkimo finansavimo, o tarp
+
+kredito davėjo ir pardavėjo ar paslaugų tiekėjo yra sudaryta sutartis dėl šių
+
+daiktų pardavimo ar paslaugų teikimo finansavimo, kai pardavėjas ar paslaugos
+
+teikėjas nevykdo arba netinkamai vykdo savo sutartinius įsipareigojimus,
+
+kredito gavėjas turi teisę:
+
+1) sustabdyti
+
+savo prievolės pagal kredito sutartį vykdymą;
+
+2) reikalauti, kad kredito
+
+davėjas grąžintų jau sumokėtas įmokas.
+
+2. Kredito gavėjas gali
+
+pasinaudoti šio straipsnio 1 dalyje nustatytomis teisėmis tik po to, kai jis
+
+kreipėsi į pardavėją ar paslaugų teikėją su prašymu tinkamai įvykdyti sutartį,
+
+tačiau per protingą terminą po tokio kreipimosi pirkimo-pardavimo ar paslaugų
+
+sutarties sąlygos nebuvo įvykdytos.
+
+3. Kredito gavėjas, kurio
+
+teisės buvo pažeistos, turi teisę jas ginti teismo tvarka arba per vartotojų
+
+teises ginančias institucijas.
+
+6.891 straipsnis
+
+netenka galios nuo 2011 m. balandžio 1 d.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-1254,
+
+2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)
+
+XLiV skyrius
+
+Banko indėlis
+
+6.892
+
+straipsnis. Banko indėlio sutarties samprata
+
+1. Banko indėlio
+
+sutartimi (depozitu) viena šalis (bankas ar kita kredito įstaiga) įsipareigoja
+
+priimti iš kitos šalies (indėlininko) arba, gavusi kitai šaliai pervestą pinigų
+
+sumą (indėlį), įsipareigoja grąžinti indėlį ir sumokėti už jį palūkanas
+
+sutartyje nustatytomis sąlygomis ir tvarka.
+
+2. Banko indėlio
+
+sutartis, kai indėlininkas yra fizinis asmuo, pripažįstama vieša sutartimi.
+
+3. Banko ar kitos kredito
+
+įstaigos ir indėlininko, turinčio sąskaitą, į kurią įdėtas indėlis, santykiams
+
+taikomos šios knygos XLVI skyriaus normos, reglamentuojančios banko sąskaitos
+
+sutartį, jeigu šio skyriaus taisyklės nenustato ko kita ir tai neprieštarauja
+
+banko indėlio sutarties esmei.
+
+6.893
+
+straipsnis. Teisė priimti indėlius
+
+1. Teisę priimti
+
+indėlius turi tik bankai ir kitos kredito įstaigos, turinčios tokiai veiklai
+
+įstatymo nustatyta tvarka išduotą leidimą (licenciją).
+
+2. Jeigu indėlį
+
+priėmė asmuo, neturintis tam teisės, arba indėlis buvo priimtas pažeidžiant
+
+nustatytas bankų veiklos taisykles, indėlininkas turi teisę reikalauti
+
+nedelsiant jam grąžinti visas įmokėtas sumas, įstatymo nustatytas palūkanas ir
+
+nuostolius, kiek jų nepadengia palūkanos.
+
+3. Jeigu
+
+įstatymas nenustato ko kita, šio straipsnio 2 dalyje nustatytos teisinės
+
+pasekmės taip pat taikomos, kai:
+
+1) piniginės
+
+lėšos surenkamos parduodant akcijas ir kitus vertybinius popierius, kurių
+
+išleidimas pripažintas neteisėtu;
+
+2) piniginės
+
+lėšos surenkamos išduodant vekselius ar kitokius vertybinius popierius, o jų
+
+turėtojams nesuteikiama teisė gauti pinigines lėšas pagal pirmą pareikalavimą.
+
+6.894
+
+straipsnis. Banko indėlio sutarties forma
+
+1. Banko indėlio
+
+sutartis turi būti rašytinė.
+
+2. Rašytine
+
+sutarties forma pripažįstama indėlininko knygelė, depozito sertifikatas arba
+
+kitoks banko ar kitos kredito įstaigos išduotas dokumentas, atitinkantis
+
+nustatytas bankų ar kitų kredito įstaigų veiklos taisykles.
+
+3. Jeigu
+
+rašytinės formos nesilaikoma, banko indėlio sutartis negalioja.
+
+6.895
+
+straipsnis. Indėlių rūšys
+
+1. Banko indėlio
+
+sutartis gali būti sudaryta nustatant banko ar kitos kredito įstaigos pareigą
+
+išmokėti indėlį pagal pirmą pareikalavimą (indėlis iki pareikalavimo) arba
+
+nustatant banko ar kitos kredito įstaigos pareigą išmokėti indėlį praėjus tam tikram
+
+terminui (terminuotas indėlis).
+
+2. Bankų ar kitų
+
+kreditų įstaigų veiklą reglamentuojantys teisės aktai bei šalys susitarimu gali
+
+nustatyti ir kitokias indėlių rūšis.
+
+3. Nepaisant
+
+indėlio rūšies, bankas ar kita kredito įstaiga privalo išmokėti visą ar dalį
+
+indėlio pagal pirmą indėlininko pareikalavimą. Sutarties sąlyga, numatanti
+
+indėlininko atsisakymą teisės gauti indėlį pagal pirmą pareikalavimą,
+
+negalioja.
+
+4. Kai indėlis
+
+išmokamas indėlininkui prieš sueinant sutartyje nustatytam terminui ar prieš susidarant
+
+kitoms joje numatytoms aplinkybėms (išskyrus indėlius iki pareikalavimo),
+
+palūkanos išmokamos tokio dydžio, kuris atitinka indėliams iki pareikalavimo
+
+nustatytas palūkanas, jeigu sutartis nenustato ko kita.
+
+5. Jeigu indėlininkas
+
+nereikalauja išmokėti terminuoto indėlio pasibaigus jo terminui ar susidaro
+
+kitos sutartyje numatytos aplinkybės, tai sutartis pripažįstama pratęsta
+
+indėlio iki pareikalavimo sąlygomis, jeigu sutartis nenustato ko kita.
+
+6.896
+
+straipsnis. Palūkanos
+
+1. Bankas ar
+
+kita kredito įstaiga moka indėlininkui sutartyje nustatyto dydžio palūkanas.
+
+2. Palūkanų
+
+dydis gali būti diferencijuojamas pagal indėlio rūšį. Draudžiama nustatyti
+
+palūkanų dydį pagal indėlininko asmenines, tarnybines ar kitas savybes,
+
+nesusijusias su indėlio suma, rūšimi ar terminu.
+
+3. Jeigu
+
+palūkanų dydis sutartyje neaptartas, bankas ar kita kredito įstaiga moka
+
+vidutinę palūkanų normą, galiojusią sutarties sudarymo dieną sutarties sudarymo
+
+vietoje.
+
+4. Jeigu
+
+sutartis nenustato ko kita, bankas ar kita kredito įstaiga turi teisę
+
+vienašališkai keisti palūkanų, mokamų už indėlius iki pareikalavimo, dydį.
+
+Jeigu bankas ar kita kredito įstaiga sumažina palūkanų dydį, tai nauja palūkanų
+
+norma pradedama taikyti indėliams, kurie yra įmokėti iki pranešimo
+
+indėlininkams apie palūkanų dydžio sumažinimą, tik praėjus mėnesiui nuo šio
+
+pranešimo, jeigu ko kita nenustato sutartis.
+
+5. Palūkanų,
+
+mokamų už terminuotus ar kitokius indėlius, dydžio bankas ar kita kredito
+
+įstaiga vienašališkai mažinti neturi teisės, jeigu ko kita nenustato sutartis.
+
+6.897
+
+straipsnis. Palūkanų apskaičiavimas ir mokėjimas
+
+1. Palūkanos už
+
+indėlius pradedamos skaičiuoti nuo kitos dienos po indėlio priėmimo dienos iki
+
+dienos, einančios prieš dieną, kai indėlis buvo išmokėtas ar nurašytas iš
+
+sąskaitos kitais pagrindais.
+
+2. Jeigu
+
+sutartis nenustato ko kita, palūkanos išmokamos indėlininkui pagal jo
+
+reikalavimą, pasibaigus ketvirčiui, atskirai nuo indėlio sumos. Neišmokėtų
+
+palūkanų suma indėlis padidinamas, o palūkanos skaičiuojamos nuo padidėjusios
+
+sumos.
+
+3. Išmokant
+
+indėlį kartu išmokamos iki to momento priskaičiuotos palūkanos.
+
+6.898
+
+straipsnis. Indėlių grąžinimo užtikrinimas
+
+1. Bankas ir
+
+kita kredito įstaiga užtikrina indėlių grąžinimą įstatymų nustatyta tvarka
+
+privalomai juos drausdami, o įstatymų nustatytais atvejais – ir kitais būdais.
+
+2. Sudarant
+
+banko indėlio sutartį, bankas ar kita kredito įstaiga privalo suteikti
+
+indėlininkui informaciją apie indėlio grąžinimo užtikrinimą.
+
+3. Jeigu bankas
+
+ar kita kredito įstaiga nevykdo savo pareigos užtikrinti indėlio grąžinimą,
+
+taip pat praradus užtikrinimą arba jam pablogėjus, indėlininkas turi teisę
+
+reikalauti, kad bankas ar kita kredito įstaiga nedelsdami grąžintų indėlį,
+
+sumokėtų palūkanas ir atlygintų nuostolius.
+
+6.899
+
+straipsnis. Trečiųjų asmenų teisė įmokėti pinigus į indėlininko sąskaitą
+
+Tretieji asmenys turi teisę
+
+įmokėti pinigus į indėlininko sąskaitą, jeigu sutartis nenustato ko kita. Tokiu
+
+atveju bankas ar kita kredito įstaiga privalo visas sumas, gautas indėlininko
+
+vardu, pervesti į indėlininko sąskaitą. Šiais atvejais preziumuojama, kad
+
+indėlininkas sutiko priimti pinigų sumas iš trečiųjų asmenų ir suteikė jiems
+
+būtinus duomenis apie savo indėlio sąskaitą.
+
+6.900
+
+straipsnis. Indėliai trečiojo asmens naudai
+
+1. Indėlis gali
+
+būti įdėtas į banką ar kitą kredito įstaigą trečiojo asmens naudai. Jeigu
+
+sutartis nenustato ko kita, šis trečiasis asmuo įgyja indėlininko teises nuo
+
+savo pirmojo pareikalavimo bankui ar kitai kredito įstaigai momento arba nuo
+
+savo ketinimo naudotis indėlininko teisėmis išreiškimo kitokiu būdu momento.
+
+2. Banko indėlio
+
+sutarties trečiojo asmens naudai esminė sąlyga yra trečiojo asmens vardas ir
+
+pavardė arba pavadinimas.
+
+3. Banko indėlio
+
+sutartis trečiojo asmens, mirusio iki sutarties sudarymo momento arba
+
+neegzistuojančio sutarties sudarymo momentu, naudai negalioja.
+
+4. Asmuo,
+
+sudaręs banko indėlio sutartį trečiojo asmens naudai, turi teisę pasinaudoti
+
+indėlininko teisėmis tik iki to momento, kol trečiasis asmuo nepareiškia savo
+
+ketinimo pasinaudoti indėlininko teisėmis.
+
+5. Normos,
+
+reglamentuojančios sutartį trečiojo asmens naudai, banko ar kitos kredito
+
+įstaigos indėlio sutarčiai trečiojo asmens naudai taikomos tiek, kiek tai
+
+neprieštarauja šio straipsnio nustatytoms taisyklėms ir banko indėlio sutarties
+
+esmei.
+
+6.901
+
+straipsnis. Indėlininko knygelė
+
+1. Jeigu
+
+sutartis nenustato ko kita, banko indėlio sutartis įforminama indėlininko
+
+knygele. Indėlininko knygelė gali būti tik vardinė.
+
+2. Indėlininko
+
+knygelėje privalo būti nurodytas banko ar kitos kredito įstaigos pavadinimas,
+
+adresas ir kiti jų rekvizitai, indėlininkas, indėlio dydis, visos sutarties
+
+sąlygos, taip pat tvarkoma įmokėtų ir išmokėtų pinigų sumų apskaita, nurodomos
+
+apskaičiuotos ir išmokėtos palūkanos.
+
+3. Visos su
+
+indėliu susijusios operacijos atliekamos tik pateikus indėlininko knygelę.
+
+4. Prarasta ar
+
+netinkama naudoti knygelė keičiama banko ar kitos kredito įstaigos nustatyta
+
+tvarka.
+
+6.902
+
+straipsnis. Indėlio sertifikatas
+
+1. Indėlio
+
+sertifikatas yra vertybinis popierius, patvirtinantis indėlio sumą ir
+
+indėlininko teises į indėlį bei į palūkanas pasibaigus nustatytam indėlio
+
+terminui.
+
+2. Indėlio
+
+sertifikatas gali būti tik vardinis.
+
+XLV skyrius
+
+Faktoringas
+
+6.903
+
+straipsnis. Faktoringo sutarties samprata
+
+1. Faktoringo
+
+sutartimi viena šalis (finansuotojas) perduoda arba įsipareigoja perduoti kitai
+
+šaliai (klientui) pinigus mainais už kliento (kreditoriaus) piniginį
+
+reikalavimą, susijusį su prekių pardavimu, darbų atlikimu ar paslaugų teikimu,
+
+trečiajam asmeniui (skolininkui), o klientas perleidžia arba įsipareigoja
+
+perleisti finansuotojui piniginį reikalavimą skolininkui (finansavimas su
+
+sąlyga perleisti piniginį reikalavimą) ir mokėti sutartyje nustatytą
+
+atlyginimą.
+
+2. Piniginį
+
+reikalavimą skolininkui klientas gali perleisti finansuotojui taip pat ir
+
+siekdamas užtikrinti savo prievolių finansuotojui įvykdymą.
+
+3. Faktoringo
+
+sutartis gali nustatyti finansuotojo pareigą tvarkyti kliento veiklos
+
+buhalterinę apskaitą, teikti klientui finansines paslaugas, susijusias su
+
+piniginiais reikalavimais, esančiais perleidimo dalyku.
+
+4. Faktoringo
+
+sutartis gali būti ilgalaikė arba sudaroma atskiram atvejui.
+
+6.904
+
+straipsnis. Finansuotojas
+
+Finansuotoju
+
+pagal faktoringo sutartį gali būti tik bankas arba kitas pelno siekiantis
+
+juridinis asmuo, įstatymų nustatyta tvarka turintys teisę vykdyti faktoringo
+
+veiklą.
+
+6.905
+
+straipsnis. Faktoringo sutarties dalykas
+
+1. Faktoringo
+
+sutarties dalyku, kuriam teikiamas finansavimas, gali būti piniginis
+
+reikalavimas, pagal kurį jau yra suėjęs mokėjimo terminas (esamas
+
+reikalavimas), taip pat atsirasianti teisė gauti pinigines sumas (būsimas
+
+reikalavimas).
+
+2. Faktoringo
+
+sutarties dalyku esantis piniginis reikalavimas privalo būti apibrėžtas
+
+finansuotojo ir kliento sudarytoje sutartyje taip, kad faktoringo sutarties
+
+sudarymo momentu būtų galima identifikuoti esamą reikalavimą, o būsimą
+
+reikalavimą – ne vėliau kaip jo atsiradimo momentu.
+
+3. Perleidžiant
+
+būsimą piniginį reikalavimą pripažįstama, kad jis perėjo finansuotojui po to,
+
+kai atsirado teisė reikalauti sutartyje nustatytų pinigų sumų iš skolininko.
+
+Jeigu piniginio reikalavimo perleidimas siejamas su tam tikru įvykiu,
+
+perleidimas pripažįstamas įvykusiu, kai tas įvykis įvyksta. Tokiais atvejais
+
+papildomai įforminti piniginio reikalavimo perleidimą nereikia.
+
+6.906
+
+straipsnis. Kliento atsakomybė finansuotojui
+
+1. Jeigu faktoringo
+
+sutartis nenustato ko kita, klientas atsako finansuotojui už perleidžiamo
+
+piniginio reikalavimo, esančio sutarties dalyku, galiojimą.
+
+2. Perleidžiamas
+
+piniginis reikalavimas yra galiojantis, jeigu klientas turi teisę šį
+
+reikalavimą perleisti ir perleidimo momentu jam nėra žinomos aplinkybės, dėl
+
+kurių skolininkas turėtų teisę to reikalavimo nevykdyti.
+
+3. Jeigu
+
+finansuotojas pareikalauja įvykdyti jam perleistą piniginį reikalavimą, o
+
+skolininkas jo neįvykdo ar įvykdo netinkamai, tai klientas neatsako už tokius
+
+skolininko veiksmus, jeigu sutartis nenustato ko kita.
+
+6.907
+
+straipsnis. Draudimo perleisti piniginį reikalavimą negaliojimas
+
+1. Piniginio
+
+reikalavimo perleidimas finansuotojui galioja ir tais atvejais, kai kliento ir
+
+skolininko sudaryta sutartis tą daryti draudžia ar riboja.
+
+2. Šio straipsnio 1 dalyje
+
+nustatyta taisyklė neatleidžia kliento nuo prievolių ir atsakomybės skolininkui
+
+už sutarties sąlygos, draudžiančios ar ribojančios reikalavimo perleidimą,
+
+pažeidimą.
+
+6.908
+
+straipsnis. Pakartotinis piniginio reikalavimo perleidimas
+
+1. Jeigu
+
+faktoringo sutartis nenustato ko kita, finansuotojas neturi teisės perleisti
+
+jam perleisto piniginio reikalavimo.
+
+2. Jeigu faktoringo
+
+sutartis leidžia pakartotinį perleidimą, tai tokiam perleidimui atitinkamai taikomos
+
+šio skyriaus normos.
+
+6.909
+
+straipsnis. Piniginio reikalavimo vykdymas
+
+1. Skolininkas
+
+privalo sumokėti pinigų sumas finansuotojui, jeigu skolininkas yra gavęs iš
+
+kliento arba finansuotojo rašytinį pranešimą apie piniginio reikalavimo
+
+perleidimą finansuotojui ir pranešime nurodytas piniginis reikalavimas bei
+
+finansuotojas, kuriam turi būti įvykdyta prievolė.
+
+2. Skolininko
+
+reikalavimu finansuotojas privalo jam per protingą terminą pateikti piniginio
+
+reikalavimo perleidimo įrodymus. Jeigu finansuotojas šios pareigos neįvykdo,
+
+skolininkas turi teisę prievolę įvykdyti klientui.
+
+3. Piniginio
+
+reikalavimo įvykdymas finansuotojui pagal šio straipsnio nustatytas taisykles
+
+atleidžia skolininką nuo atitinkamos prievolės vykdymo klientui.
+
+6.910
+
+straipsnis. Finansuotojo teisės į pinigų sumas, gaunamas iš skolininko
+
+1. Jeigu kliento
+
+finansavimas pagal faktoringo sutartį pasireiškia piniginio reikalavimo pirkimu
+
+iš kliento, tai finansuotojas, nupirkęs šį reikalavimą, įgyja teisę į visas
+
+sumas, kurias jis gauna iš skolininko, kai šis vykdo reikalavimą, o klientas
+
+atsako finansuotojui už tai, kad šis iš skolininko gavo mažiau, nei sumokėjo
+
+klientui už nupirktą reikalavimą, jeigu sutartis nenustato ko kita.
+
+2. Jeigu klientas perleido
+
+piniginį reikalavimą finansuotojui norėdamas užtikrinti savo prievolių įvykdymą
+
+finansuotojui, tai finansuotojas privalo pateikti klientui ataskaitą ir
+
+perduoti jam sumą, viršijančią tokiu būdu užtikrintą kliento skolą, jeigu
+
+sutartis nenustato ko kita. Jeigu finansuotojas iš skolininko gavo mažesnę sumą
+
+nei kliento užtikrinta skola, tai klientas atsako finansuotojui už likusią
+
+nepadengtą skolos dalį.
+
+6.911
+
+straipsnis. Skolininko priešiniai reikalavimai
+
+1. Kai finansuotojas
+
+pareiškia reikalavimą skolininkui, kad šis sumokėtų pinigus, skolininkas turi
+
+teisę įskaityti savo priešinius piniginius reikalavimus, kylančius iš
+
+skolininko ir kliento sutarties, jeigu šiuos reikalavimus skolininkas jau
+
+turėjo tuo momentu, kai gavo pranešimą apie reikalavimo perleidimą
+
+finansuotojui.
+
+2.
+
+Skolininkas negali savo gynybai naudoti finansuotojui tų reikalavimų, kuriuos
+
+skolininkas galėjo pareikšti klientui dėl to, kad klientas pažeidė draudimą
+
+perleisti piniginį reikalavimą.
+
+6.912
+
+straipsnis. Skolų, kurias gavo finansuotojas, grąžinimas skolininkui
+
+1. Kai klientas
+
+pažeidžia su skolininku sudarytą sutartį, skolininkas neturi teisės reikalauti
+
+iš finansuotojo grąžinti sumas, kurias šis jau yra gavęs, jeigu skolininkas
+
+turi teisę gauti tas sumas tiesiai iš kliento.
+
+2. Skolininkas,
+
+turintis teisę išieškoti finansuotojui sumokėtas sumas tiesiai iš kliento, turi
+
+teisę reikalauti, kad tas sumas grąžintų finansuotojas, jeigu įrodo, kad
+
+finansuotojas nesumokėjo faktoringo sutartyje nustatytos sumos klientui arba ją
+
+sumokėjo žinodamas, kad klientas neįvykdė savo prievolės skolininkui.
+
+XLVI skyrius
+
+Banko sąskaita
+
+6.913
+
+straipsnis. Banko sąskaitos sutarties samprata
+
+1. Banko sąskaitos
+
+sutartimi bankas įsipareigoja priimti ir įskaityti pinigus į kliento (sąskaitos
+
+savininko) atidarytą sąskaitą, vykdyti kliento nurodymus dėl tam tikrų sumų
+
+pervedimo ir išmokėjimo iš sąskaitos bei atlikti kitokias banko atliekamas
+
+operacijas, o klientas įsipareigoja apmokėti bankui už suteiktas paslaugas ir
+
+operacijas.
+
+2. Bankas gali
+
+disponuoti kliento sąskaitoje esančiomis lėšomis su sąlyga, jeigu užtikrina
+
+kliento teisę netrukdomai disponuoti tomis lėšomis.
+
+3. Bankas neturi
+
+teisės nustatyti ir kontroliuoti kliento pinigų naudojimo ar nustatyti kitokius
+
+įstatymo ar banko sąskaitos sutarties nenumatytus kliento teisės disponuoti
+
+sąskaitoje esančiomis lėšomis savo nuožiūra apribojimus.
+
+6.914
+
+straipsnis. Banko sąskaitos sutarties sudarymas
+
+1. Sudarius
+
+banko sąskaitos sutartį, klientui ar jo nurodytam asmeniui banke atidaroma
+
+sąskaita sutartyje nustatytomis sąlygomis.
+
+2. Bankas
+
+privalo sudaryti banko sąskaitos sutartį su klientu, kuris kreipėsi su prašymu
+
+atidaryti sąskaitą, pagal banko paskelbtas tam tikros sąskaitos rūšies
+
+atidarymo sąlygas, turinčias atitikti įstatymų ir bankų veiklą nustatančių
+
+teisės aktų reikalavimus.
+
+3. Bankas neturi
+
+teisės atsisakyti atidaryti sąskaitą, jeigu jos atidarymo galimybė yra
+
+nustatyta įstatyme, banko veiklos dokumentuose arba bankui išduotoje
+
+licencijoje, išskyrus atvejus, kai tokį atsisakymą leidžia įstatymai.
 
