@@ -4,7 +4,7 @@ identifier: "TAR.C0E550D6ADF0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2009-06-25"
+last_updated: "2011-03-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0"
 department: "Lietuvos Respublikos Seimas"
@@ -62,17 +62,17 @@ kelią atsirasti bei plisti korupcijai valstybinėje tarnyboje.
 
 Pagrindinės šio įstatymo sąvokos
 
-1. Asmenys,
+1. Asmenys, dirbantys valstybinėje
 
-dirbantys valstybinėje tarnyboje, – valstybės politikai, valstybės
+tarnyboje, – valstybės politikai, valstybės pareigūnai, valstybės
 
-pareigūnai, valstybės tarnautojai, teisėjai, profesinės karo tarnybos kariai,
+tarnautojai, teisėjai, profesinės karo tarnybos kariai, vykdantys operatyvinę
 
-vykdantys operatyvinę veiklą, profesinės karo tarnybos karininkai, asmenys,
+veiklą, profesinės karo tarnybos karininkai, asmenys, dirbantys valstybės ir
 
-dirbantys valstybės ir savivaldybių įmonėse, biudžetinėse įstaigose ir turintys
+savivaldybių įmonėse, biudžetinėse įstaigose ir turintys administravimo
 
-administravimo įgaliojimus, asmenys, dirbantys viešosiose įstaigose, kurios
+įgaliojimus, asmenys, dirbantys viešosiose įstaigose ir asociacijose, kurios
 
 gauna lėšų iš Lietuvos valstybės ar savivaldybių biudžetų ir fondų, ir turintys
 
@@ -166,6 +166,12 @@ XI-287,
 
 2009-06-11, Žin., 2009, Nr. 75-3066 (2009-06-25)
 
+Nr.
+
+XI-1279,
+
+2011-03-15, Žin., 2011, Nr. 37-1758 (2011-03-29)
+
 3 straipsnis.
 
 Asmenų, dirbančių valstybinėje tarnyboje, prievolės
@@ -238,15 +244,15 @@ taikomos politinių partijų pirmininkams ir jų pavaduotojams.
 
 nuostatos dėl privačių interesų deklaravimo taip pat taikomos akcinių
 
-bendrovių, kuriose valstybė ar savivaldybė turi daugiau kaip 50 procentų
+bendrovių, kuriose valstybė ar savivaldybė turi įstatinio kapitalo arba akcijų,
 
-įstatinio kapitalo arba akcijų, vadovams ir jų pavaduotojams, taip pat
+vadovams ir jų pavaduotojams, taip pat kandidatams į Seimo narius, Respublikos
 
-kandidatams į Seimo narius, Respublikos Prezidentus, Vyriausybės narius,
+Prezidentus, Vyriausybės narius, savivaldybių tarybų narius ir merus, Europos
 
-savivaldybių tarybų narius ir merus, Europos Parlamento narius. Kandidatai
+Parlamento narius. Kandidatai deklaracijas pateikia rinkimų įstatymų nustatyta
 
-deklaracijas pateikia rinkimų įstatymų nustatyta tvarka.
+tvarka.
 
 Straipsnio pakeitimai:
 
@@ -267,6 +273,12 @@ Nr.
 X-1667,
 
 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
+
+Nr.
+
+XI-1279,
+
+2011-03-15, Žin., 2011, Nr. 37-1758 (2011-03-29)
 
 4 straipsnis.
 
@@ -300,9 +312,9 @@ kurioje dirba, vadovui ar šio įgaliotam atstovui.
 
 2. Šio įstatymo 10
 
-straipsnio 1 dalyje nurodytas pareigas einantis asmuo deklaraciją pateikia
+straipsnio 1 dalyje nurodytas pareigas einantis asmuo deklaraciją pateikia Vyriausiajai
 
-Vyriausiajai tarnybinės etikos komisijai.
+tarnybinės etikos komisijai.
 
 3. Deklaracija gali
 
@@ -440,9 +452,9 @@ Nr. X-316, 2005-07-05,
 
 Nr.
 
-X-1667, 2008-07-01,
+X-1667,
 
-Žin., 2008, Nr. 81-3177 (2008-07-17)
+2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
 
 7
 
@@ -484,9 +496,7 @@ straipsnis. Deklaracijos forma ir saugojimas
 
 1. Deklaracijos formą, pildymo,
 
-tikslinimo ir pateikimo taisykles nustato Vyriausioji tarnybinės etikos
-
-komisija.
+tikslinimo ir pateikimo taisykles nustato Vyriausioji tarnybinės etikos komisija.
 
 2. Deklaracijos saugomos
 
@@ -598,29 +608,27 @@ Nr. X-316, 2005-07-05,
 
 straipsnis. Privačių interesų duomenų viešumas
 
-1. Valstybės politikų, valstybės pareigūnų,
+1. Valstybės politikų, valstybės
 
-teisėjų, parlamentinių politinių partijų pirmininkų ir jų pavaduotojų,
+pareigūnų, teisėjų, parlamentinių politinių partijų pirmininkų ir jų
 
-valstybės ar savivaldybių institucijų vadovų ir jų pavaduotojų, politinio
+pavaduotojų, valstybės ar savivaldybių institucijų vadovų ir jų pavaduotojų,
 
-asmeninio pasitikėjimo valstybės tarnautojų ir karjeros valstybės tarnautojų,
+politinio asmeninio pasitikėjimo valstybės tarnautojų ir karjeros valstybės
 
-einančių institucijų ar įstaigų struktūrinių padalinių vadovų pareigas,
+tarnautojų, einančių institucijų ar įstaigų struktūrinių padalinių vadovų
 
-privačių interesų duomenys yra vieši ir skelbiami Vyriausiosios tarnybinės
+pareigas, privačių interesų duomenys yra vieši ir skelbiami Vyriausiosios
 
-etikos komisijos interneto tinklalapyje.
+tarnybinės etikos komisijos interneto tinklalapyje.
 
 2. Vyriausioji tarnybinės etikos
 
-komisija, atsižvelgdama į valstybės ir savivaldybių institucijų ir įstaigų
+komisija, atsižvelgdama į valstybės ir savivaldybių institucijų ir įstaigų vadovų
 
-vadovų oficialiai pateiktą informaciją, tvirtina ir skelbia šio straipsnio 1
+oficialiai pateiktą informaciją, tvirtina ir skelbia šio straipsnio 1 dalyje
 
-dalyje nurodytų asmenų, kurių privačių interesų duomenys yra vieši, pareigybių
-
-sąrašą.
+nurodytų asmenų, kurių privačių interesų duomenys yra vieši, pareigybių sąrašą.
 
 3. Kitų valstybinėje tarnyboje dirbančių
 
@@ -648,9 +656,9 @@ Nr. IX-1505,
 
 2003-04-17, Žin., 2003, Nr. 42-1911 (2003-05-01)
 
-Nr. IX-1809,
+Nr. IX-1809, 2003-11-06,
 
-2003-11-06, Žin., 2003, Nr. 111-4929 (2003-11-26)
+Žin., 2003, Nr. 111-4929 (2003-11-26)
 
 Nr. X-316, 2005-07-05,
 
@@ -738,9 +746,9 @@ priėmimo jis privalo nusišalinti. Šios rekomendacijos, remiantis metinėmis
 
 deklaracijomis, arba asmens prašymu yra sudaromos konkrečiai situacijai.
 
-Išankstines rekomendacijas asmuo, dirbantis valstybinėje tarnyboje, gali
+Išankstines rekomendacijas asmuo, dirbantis valstybinėje tarnyboje, gali viešinti
 
-viešinti savo nuožiūra.
+savo nuožiūra.
 
 4. Asmuo, dirbantis valstybinėje
 
@@ -1776,15 +1784,31 @@ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 2 STRAIPSNIO
 
 PAKEITIMO ĮSTATYMAS
 
+18.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1279,
+
+2011-03-15, Žin., 2011, Nr. 37-1758 (2011-03-29)
+
+VIEŠŲJŲ
+
+IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 2 IR 4 STRAIPSNIŲ
+
+PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2009-06-25)
+Aušrinė Trapinskienė (2011-03-29)
 
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 25 straipsnis. Įstatymo įgyvendinimas
 
