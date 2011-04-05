@@ -4,7 +4,7 @@ identifier: "TAR.5BA7CEA07B90"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-10-06"
-last_updated: "1998-10-21"
+last_updated: "2011-04-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5BA7CEA07B90"
 department: "Lietuvos Respublikos Seimas"
@@ -17,6 +17,14 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atitikties vertinimo įstatymas
 
+Suvestinė redakcija nuo 2011-04-05 iki 2021-04-30
+
+Įstatymas paskelbtas: Žin. 1998, Nr. 92-2542, i. k. 0981010ISTAVIII-870
+
+Nauja redakcija nuo 2011-04-05:
+
+Nr. XI-1299, 2011-03-24, Žin. 2011, Nr. 40-1919 (2011-04-05), i. k. 1111010ISTA0XI-1299
+
 LIETUVOS RESPUBLIKOS
 
 ATITIKTIES ĮVERTINIMO
@@ -27,181 +35,167 @@ ATITIKTIES ĮVERTINIMO
 
 Vilnius
 
-pirmasIS skirsnis
+PIRMASIS SKIRSNIS
 
-bendrosios nuostatos
+BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis įstatymas nustato produktų, procesų, paslaugų, kokybės sistemų ir fizinių asmenų kvalifikacijos atitikties įvertinimo sistemos struktūrą, įgaliotų institucijų, Nacionalinio akreditacijos biuro, sertifikacijos įstaigų, bandymų ir kalibravimo laboratorijų, kontrolės įstaigų ir tiekėjų pagrindines pareigas bei teises ir kitus šios sistemos pagrindus.
+1. Šis įstatymas nustato produktų, procesų, paslaugų, vadybos sistemų, fizinių asmenų kvalifikacijos atlikti tam tikrą darbą atitikties įvertinimo reglamentavimo pagrindus, atitikties įvertinimo subjektus, šių subjektų funkcijas, akreditavimo pažymėjimų galiojimo sustabdymo, akreditavimo pažymėjimų galiojimo sustabdymo panaikinimo ir akreditavimo pažymėjimų galiojimo panaikinimo procedūras, paskelbtųjų įstaigų įgaliojimų sustabdymo ir atšaukimo pagrindus.
 
-2. Šis įstatymas netaikomas akreditavimui sveikatinimo veiklai.
+2. Šio įstatymo nuostatos suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės aktais.
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Atitiktis – produkto, proceso ar paslaugos atitikimas nustatytiems reikalavimams.
+1. Akreditavimas – kaip tai apibrėžta 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 765/2008, nustatančiame su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinančiame Reglamentą (EEB) Nr. 339/93 (toliau – Reglamentas (EB) Nr. 765/2008).
 
-2. Atitikties įvertinimas – veikla, kuria tiesiogiai ar netiesiogiai nustatoma, kiek produktas, procesas ar paslauga atitinka nustatytus reikalavimus.
+2. Akreditavimo pažymėjimas – dokumentas, kuriuo patvirtinama, kad atitikties įvertinimo įstaiga atitinka teisės aktų ir (arba) standartų reikalavimus.
 
-3. Atitikties priežiūra – atitikties įvertinimas, siekiant įsitikinti, ar nuolat laikomasi nustatytų reikalavimų.
+3. Atitikties įvertinimas – kaip tai apibrėžta Reglamente (EB) Nr. 765/2008.
 
-4. Atitikties sertifikatas – pagal sertifikavimo taisykles išduotas dokumentas, liudijantis, kad reikiamu būdu identifikuotas produktas, procesas ar paslauga atitinka tam tikrą normą.
+4. Atitikties įvertinimo įstaiga – kaip tai apibrėžta Reglamente (EB) Nr. 765/2008.
 
-5. Atitikties (sertifikacijos) ženklas – tam tikru būdu apsaugotas ženklas, išduotas ir naudojamas pagal sertifikavimo taisykles. Jis rodo, kad produktas, procesas ar paslauga atitinka tam tikrą normą.
+5. Atitikties kontrolės įstaiga (toliau – kontrolės įstaiga) – juridinis asmuo ar Lietuvos Respublikoje įregistruotas Europos ekonominės erdvės valstybėje įsisteigusios įmonės filialas, įvertinantys atitiktį matuodami, stebėdami, bandydami ir tikrindami teisės aktuose ir (arba) standartuose nurodytus parametrus.
 
-6. Akreditavimas – procedūra, kuria Nacionalinis akreditacijos biuras pripažįsta, kad juridinis asmuo, taip pat įmonė, neturinti juridinio asmens teisių, gali užsiimti atitikties įvertinimu.
+6. Atitikties priežiūra (toliau – priežiūra) – periodinis tikrinimas, ar produktas, procesas, paslauga, vadybos sistema, atitikties įvertinimo įstaiga ar fizinio asmens kvalifikacija atlikti tam tikrą darbą atitinka teisės aktų ir (arba) standartų reikalavimus.
 
-7. Bandymas – techninis veiksmas, kai pagal nurodytą metodiką nustatoma konkretaus produkto, proceso ar paslaugos viena ar kelios charakteristikos.
+7. Atitikties sertifikatas – dokumentas, kuriuo patvirtinama, kad produktas, procesas, paslauga ar vadybos sistema atitinka teisės aktų ir (arba) standartų reikalavimus.
 
-8. Kalibravimas – patikrinimas, ar matavimo priemonė atitinka etalono rodmenis.
+8. Atitiktis – produkto, proceso, paslaugos, vadybos sistemos, atitikties įvertinimo įstaigos ar fizinio asmens kvalifikacijos atlikti tam tikrą darbą ir teisės aktų ir (arba) standartų reikalavimų atitikimas.
 
-9. Kontrolės įstaiga – juridinis asmuo, taip pat įmonė, neturinti juridinio asmens teisių, įvertinantys atitiktį matuodami, stebėdami, bandydami ar tikrindami tam tikras charakteristikas.
+9. Bandymas – produktų ar procesų parametrų nustatymas pagal standartais nustatyta tvarka įteisintą procedūrą.
 
-10. Kvalifikacijos sertifikatas – pagal sertifikavimo taisykles išduotas dokumentas, liudijantis, kad fizinis asmuo pagal tarptautinių ar Europos standartų nustatytus reikalavimus yra kompetentingas atlikti tam tikrus darbus.
+10. Bandymų laboratorija – bandymus atliekanti laboratorija.
 
-11. Kokybės sistema – organizacinės struktūros, procedūrų, procesų ir išteklių visuma, būtina kokybei užtikrinti.
+11. Gavinys – produktas, naudojamas kitam produktui gauti.
 
-12. Produktas – veiklos ar procesų rezultatas.
+12. Kalibravimo laboratorija – matavimo priemonių kalibravimą atliekanti laboratorija.
 
-13. Procesas – visuma veiksmų , kuriais pertvarkomas (perdirbamas) gavinys.
+13. Kvalifikacijos pažymėjimas – dokumentas, kuriuo patvirtinama, kad fizinio asmens kvalifikacija atlikti tam tikrą darbą atitinka teisės aktų ir (arba) standartų reikalavimus.
 
-14. Paslauga – tiekėjo veiklos, skirtos kliento poreikiams tenkinti, rezultatas.
+14. Matavimo priemonės kalibravimas – kaip tai apibrėžta Lietuvos Respublikos metrologijos įstatyme.
 
-15. Paskelbtoji (notifikuota) įstaiga – bandymų laboratorija, sertifikacijos ar kontrolės įstaiga, kurią valstybė paskiria atsakinga už atitikties įvertinimą ir apie ją praneša kitoms valstybėms.
+15. Nereglamentuojama veiklos sritis – teisės aktų nenustatytas privalomas procesų, paslaugų, vadybos sistemų, atitikties įvertinimo įstaigų ar fizinių asmenų kvalifikacijos atlikti tam tikrą darbą atitikties įvertinimas.
 
-16. Sertifikavimas – procedūra, kuria sertifikacijos įstaiga patvirtina, kad produktas, procesas, paslauga ar fizinio asmens kvalifikacija atitinka nustatytus reikalavimus.
+16. Paskelbtoji įstaiga – akredituota bandymų laboratorija, sertifikavimo ar kontrolės įstaiga, kurias Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) įgaliota ministerija ar kita institucija paskiria įvertinti atitiktį pagal teisės aktų, įgyvendinančių Europos Sąjungos teisę, reikalavimus ir apie kurias praneša Europos Komisijai ir Europos ekonominės erdvės valstybėms.
 
-17. Sertifikacijos įstaiga – juridinis asmuo, taip pat įmonė, neturinti juridinio asmens teisių, atliekantys sertifikavimo procedūrą.
+17. Paslauga – veikla, skirta kliento poreikiams tenkinti, ir jos rezultatas.
 
-18. Tiekėjas – fizinis ar juridinis asmuo, taip pat įmonė, neturinti juridinio asmens teisių. Ši sąvoka taikoma gamintojams, platintojams, importuotojams, montuotojams, paslaugų organizacijoms ir panašiai.
+18. Procesas – teisės aktais ir (arba) standartais nustatyti veiksmai, kai gaviniai paverčiami produktais.
 
-19. Tiekėjo deklaravimas – procedūra, kuria tiekėjas raštu patvirtina, kad produktas, procesas ar paslauga atitinka nustatytus reikalavimus.
+19. Produktas – teisės aktais ir (arba) standartais nustatytų veiksmų rezultatas.
 
-20. Privalomojo įvertinimo sritis – veiklos sritis, kurioje įgaliotos institucijos yra nustačiusios privalomai įvertinti produktų, procesų ar paslaugų saugos, nekenksmingumo sveikatai bei aplinkai atitiktį.
+20. Reglamentuojama veiklos sritis – teisės aktų nustatytas privalomas produktų, procesų, paslaugų, atitikties įvertinimo įstaigų ar fizinių asmenų kvalifikacijos atlikti tam tikrą darbą atitikties įvertinimas.
 
-21. Neprivalomojo įvertinimo sritis – veiklos sritis, kurioje įgaliotos institucijos nėra nustačiusios privalomai įvertinti produktų, procesų ar paslaugų saugos, nekenksmingumo sveikatai bei aplinkai atitiktį.
+21. Sertifikavimo įstaiga – juridinis asmuo ar Lietuvos Respublikoje įregistruotas Europos ekonominės erdvės valstybėje įsisteigusios įmonės filialas, patvirtinantys, kad produktas, procesas, paslauga, vadybos sistema ar fizinio asmens kvalifikacija atlikti tam tikrą darbą atitinka teisės aktų ir (arba) standartų reikalavimus.
 
-22. įgaliota institucija – institucija, kuriai įstatymo ar Lietuvos Respublikos Vyriausybės pavestos valdymo funkcijos, susijusios su atitikties įvertinimu.
+22. Vadybos sistema – vadybos politikos ir tikslų nustatymo, tų tikslų siekimo sistema.
 
-antrasIS skirsnis
+ANTRASIS SKIRSNIS
 
-atitikties įvertinimo sistemos struktūra
+ATITIKTIES ĮVERTINIMO OBJEKTAI. ATITIKTIES ĮVERTINIMAS REGLAMENTUOJAMOJE IR NEREGLAMENTUOJAMOJE VEIKLOS SRITYSE
 
 3 straipsnis. Atitikties įvertinimo objektai
 
-Pagal šį įstatymą atitikties įvertinimo objektai yra:
+Atitikties įvertinimo objektai yra:
 
 1) produktai, procesai ir paslaugos;
 
-2) kokybės sistemos;
+2) vadybos sistemos;
 
-3) fizinių asmenų kvalifikacija atlikti tam tikrą darbą.
+3) fizinių asmenų kvalifikacija atlikti tam tikrą darbą;
 
-4 straipsnis. Atitikties įvertinimo sistemos dalyviai
+4) atitikties įvertinimo įstaigos – bandymų ir kalibravimo laboratorijos, sertifikavimo, kontrolės ir paskelbtosios įstaigos.
 
-1. Atitikties įvertinimo sistemos dalyviai yra:
+4 straipsnis. Atitikties įvertinimas reglamentuojamoje ir nereglamentuojamoje veiklos srityse
 
-1) įgaliotos institucijos;
+1. Reglamentuojamoje veiklos srityje atitikties įvertinimą atlieka paskelbtosios, akredituotos ar kitos teisės aktų nustatyta tvarka tam įgaliotos sertifikavimo ir kontrolės įstaigos bei bandymų laboratorijos.
+
+2. Nereglamentuojamoje veiklos srityje atitikties įvertinimą atlieka akredituotos ar neakredituotos sertifikavimo ir kontrolės įstaigos, bandymų ir kalibravimo laboratorijos.
+
+TREČIASIS SKIRSNIS
+
+ATITIKTIES ĮVERTINIMO SUBJEKTAI IR JŲ FUNKCIJOS
+
+5 straipsnis. Atitikties įvertinimo subjektai
+
+1. Atitikties įvertinimo subjektai yra:
+
+1) Vyriausybės įgaliotos ministerijos ir kitos institucijos;
 
 2) Nacionalinis akreditacijos biuras;
 
-3) sertifikacijos įstaigos;
+3) sertifikavimo įstaigos;
 
 4) bandymų ir kalibravimo laboratorijos;
 
 5) kontrolės įstaigos;
 
-6) tiekėjai.
+6) paskelbtosios įstaigos.
 
-2. Atitikties įvertinimo sistemos dalyviai vadovaujasi šiuo įstatymu, kitais teisės aktais, tarptautinėmis sutartimis ir standartais, atitinkančiais tarptautinių ir Europos Sąjungos teisės aktų bei standartų reikalavimus.
+2. Atitikties įvertinimo subjektai vadovaujasi šiuo įstatymu, kitais teisės aktais ir standartais.
 
-5 straipsnis. Atitikties įvertinimas privalomojo ir neprivalomojo įvertinimo srityse
+6 straipsnis. Vyriausybės įgaliotų ministerijų ir kitų institucijų funkcijos
 
-1. Privalomojo įvertinimo srityje atitikties įvertinimo tvarką nustato įgaliotos institucijos. Atitikties įvertinimo veikloje dalyvauja tik paskelbtosios (notifikuotos) ar akredituotos sertifikacijos ir kontrolės įstaigos bei bandymų laboratorijos.
+Vyriausybės įgaliotos ministerijos ir kitos institucijos:
 
-2. Neprivalomojo įvertinimo srityje atitiktis įvertinama savanoriškai, tiekėjo iniciatyva, turint tikslą, kad būtų tenkinami rinkos poreikiai. Atitikties įvertinimo veikloje dalyvauja tik akredituotos ar neakredituotos sertifikacijos ir kontrolės įstaigos bei bandymų laboratorijos. Kalibravimo paslaugas gali teikti tik akredituotos kalibravimo laboratorijos.
+1) pagal kompetenciją įstatymų ir kitų teisės aktų nustatyta tvarka įgyvendina Europos Sąjungos teisės aktus, susijusius su atitikties įvertinimu, ir nustato atitikties įvertinimo tvarką reglamentuojamoje veiklos srityje;
 
-TREČIASIS SKIRSNIS
+2) Vyriausybės nustatyta tvarka priima sprendimus dėl akredituotų sertifikavimo ir kontrolės įstaigų bei bandymų laboratorijų, siekiančių būti paskelbtosiomis įstaigomis, paskyrimo, praneša apie jas Europos Komisijai ir Europos ekonominės erdvės valstybėms, atlieka šių įstaigų priežiūrą ir šio įstatymo ketvirtajame skirsnyje nustatyta tvarka sustabdo ir atšaukia paskelbtųjų įstaigų įgaliojimus.
 
-ATITIKTIES ĮVERTINIMO SISTEMOS DALYVIŲ
+7 straipsnis. Nacionalinis akreditacijos biuras ir jo funkcijos
 
-PAGRINDINĖS PAREIGOS IR TEISĖS
-
-6 straipsnis. Įgaliotos institucijos
-
-Įgaliotos institucijos:
-
-1) pagal tam tikrus tarptautinius ir Europos Sąjungos teisės aktus nustato konkrečius šio įstatymo 3 straipsnyje nurodytus privalomojo įvertinimo objektus ir jiems taikomus reikalavimus;
-
-2) paskelbia (notifikuoja) atsakingas už atitikties įvertinimą sertifikacijos ir kontrolės įstaigas bei bandymų laboratorijas, sustabdo ar panaikina joms suteiktus įgaliojimus, jeigu jos nesilaiko Vyriausybės nustatyta tvarka patvirtintų paskelbimo (notifikavimo) taisyklių.
-
-7 straipsnis. Nacionalinis akreditacijos biuras
-
-1. Nacionalinį akreditacijos biurą steigia ir jo nuostatus tvirtina Vyriausybė arba jos įgaliota institucija.
+1. Nacionalinis akreditacijos biuras yra biudžetinė įstaiga. Jį steigia ir jo nuostatus tvirtina Vyriausybė.
 
 2. Nacionalinis akreditacijos biuras:
 
-1) įvertina įgaliotų institucijų siūlomas paskelbti (notifikuoti) sertifikacijos ir kontrolės įstaigas bei bandymų laboratorijas;
+1) įvertina ir akredituoja sertifikavimo ir kontrolės įstaigas, bandymų ir kalibravimo laboratorijas, išduoda akreditavimo pažymėjimus Nacionalinio akreditacijos biuro nustatyta tvarka ir teikia viešai informaciją apie akredituotas atitikties įvertinimo įstaigas;
 
-2) akredituoja sertifikacijos ir kontrolės įstaigas, bandymų ir kalibravimo laboratorijas jų prašymu, išduoda akreditavimo pažymėjimus ir teikia informaciją apie jas Nacionalinio akreditacijos biuro nustatyta tvarka;
+2) atlieka akredituotų sertifikavimo ir kontrolės įstaigų, bandymų ir kalibravimo laboratorijų veiklos priežiūrą;
 
-3) atlieka akredituotų ir paskelbtųjų (notifikuotų) sertifikacijos ir kontrolės įstaigų, bandymų ir kalibravimo laboratorijų veiklos priežiūrą;
+3) sustabdo akreditavimo pažymėjimų galiojimą, panaikina akreditavimo pažymėjimų galiojimo sustabdymą ir panaikina akreditavimo pažymėjimų galiojimą šio įstatymo ketvirtajame skirsnyje nustatyta tvarka;
 
-4) panaikina akreditavimo pažymėjimus arba sustabdo jų galiojimą Nacionalinio akreditacijos biuro nustatyta tvarka, jeigu akredituota sertifikacijos ir kontrolės įstaiga ar bandymų ir kalibravimo laboratorija nesilaiko šio įstatymo 4 straipsnio 2 dalies nuostatų;
+4) užtikrina, kad akreditavimo rezultatai ir akredituotų sertifikavimo ir kontrolės įstaigų bei bandymų ir kalibravimo laboratorijų veikla būtų pripažinta tarptautiniu lygiu;
 
-5) siekia, kad akreditavimo rezultatai ir akredituotų sertifikacijos ir kontrolės įstaigų bei bandymų ir kalibravimo laboratorijų veikla būtų pripažinta tarptautiniu lygiu;
+5) pagal kompetenciją atstovauja Lietuvos Respublikos interesams atitikties įvertinimo klausimais tarptautinėse organizacijose ir kitose valstybėse;
 
-6) pagal kompetenciją atstovauja Lietuvos Respublikos interesams atitikties įvertinimo klausimais tarptautinėse organizacijose ir užsienio valstybėse.
+6) atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
 
-8 straipsnis. Sertifikacijos įstaigos ir jų rūšys
+8 straipsnis. Sertifikavimo įstaigos
 
-1. Sertifikacijos įstaigomis gali būti juridiniai asmenys, taip pat įmonės, neturinčios juridinio asmens teisių, kurie vadovaujasi šio įstatymo 4 straipsnio 2 dalies ir 5 straipsnio nuostatomis.
-
-2. Sertifikacijos įstaigos yra:
+Sertifikavimo įstaigos yra:
 
 1) produktų sertifikavimo įstaigos;
 
-2) kokybės sistemų sertifikavimo įstaigos;
+2) vadybos sistemų sertifikavimo įstaigos;
 
-3) fizinių asmenų sertifikavimo įstaigos.
+3) fizinių asmenų kvalifikacijos atlikti tam tikrą darbą sertifikavimo įstaigos.
 
-9 straipsnis. Produktų sertifikavimo įstaigos
+9 straipsnis. Produktų sertifikavimo įstaigų funkcijos
 
 Produktų sertifikavimo įstaigos:
 
 1) sertifikuoja produktus, procesus ir paslaugas ir išduoda atitikties sertifikatus;
 
-2) atlieka sertifikuotų produktų, procesų ir paslaugų priežiūrą;
+2) atlieka sertifikuotų produktų, procesų ir paslaugų priežiūrą.
 
-3) panaikina atitikties sertifikatus arba sustabdo jų galiojimą ar atitikties ženklo naudojimą teisės aktų, reglamentuojančių atitikties įvertinimą, nustatyta tvarka, jeigu tiekėjas nesilaiko sertifikavimo taisyklių;
+10 straipsnis. Vadybos sistemų sertifikavimo įstaigų funkcijos
 
-4) siekia, kad atitikties sertifikatai būtų pripažinti užsienio valstybėse, ir nustatyta tvarka pripažįsta kitų šalių atitikties sertifikatus.
+Vadybos sistemų sertifikavimo įstaigos:
 
-10 straipsnis. Kokybės sistemų sertifikavimo įstaigos
+1) sertifikuoja vadybos sistemas ir išduoda atitikties sertifikatus;
 
-Kokybės sistemų sertifikavimo įstaigos:
+2) atlieka sertifikuotų vadybos sistemų priežiūrą.
 
-1) sertifikuoja kokybės sistemas ir išduoda kokybės sistemų sertifikatus;
+11 straipsnis. Fizinių asmenų kvalifikacijos atlikti tam tikrą darbą sertifikavimo įstaigų funkcijos
 
-2) atlieka sertifikuotų kokybės sistemų priežiūrą;
+Fizinių asmenų kvalifikacijos atlikti tam tikrą darbą sertifikavimo įstaigos:
 
-3) panaikina kokybės sistemų sertifikatus arba sustabdo jų galiojimą teisės aktų, reglamentuojančių atitikties įvertinimą, nustatyta tvarka, jeigu nesilaikoma sertifikavimo taisyklių.
+1) įvertina fizinių asmenų kvalifikaciją atlikti tam tikrą darbą ir išduoda kvalifikacijos pažymėjimus;
 
-11 straipsnis. Fizinių asmenų sertifikavimo įstaigos
+2) atlieka fizinių asmenų, kuriems išduoti kvalifikacijos atlikti tam tikrą darbą pažymėjimai, veiklos priežiūrą.
 
-Fizinių asmenų sertifikavimo įstaigos:
-
-1) sertifikuoja fizinius asmenis, pripažindamos jų kvalifikaciją atlikti tam tikrą darbą;
-
-2) atlieka sertifikuotų fizinių asmenų veiklos priežiūrą;
-
-3) panaikina kvalifikacijos sertifikatus arba sustabdo jų galiojimą teisės aktų, reglamentuojančių atitikties įvertinimą, nustatyta tvarka, jeigu fizinis asmuo nesilaiko sertifikavimo taisyklių.
-
-12 straipsnis. Bandymų ir kalibravimo laboratorijos
-
-Bandymų ir kalibravimo laboratorijomis gali būti juridiniai asmenys, taip pat įmonės, neturinčios juridinio asmens teisių, kurie vadovaujasi šio įstatymo 4 straipsnio 2 dalies ir 5 straipsnio nuostatomis.
-
-13 straipsnis. Bandymų laboratorijos
+12 straipsnis. Bandymų laboratorijų funkcijos
 
 Bandymų laboratorijos:
 
@@ -209,7 +203,7 @@ Bandymų laboratorijos:
 
 2) išduoda atliktų bandymų rezultatų protokolus.
 
-14 straipsnis. Kalibravimo laboratorijos
+13 straipsnis. Kalibravimo laboratorijų funkcijos
 
 Kalibravimo laboratorijos:
 
@@ -217,49 +211,93 @@ Kalibravimo laboratorijos:
 
 2) išduoda kalibravimo liudijimus.
 
-15 straipsnis. Kontrolės įstaigos
+14 straipsnis. Kontrolės įstaigų funkcijos
 
-1. Kontrolės įstaigomis gali būti juridiniai asmenys, taip pat įmonės, neturinčios juridinio asmens teisių, kurie vadovaujasi šio įstatymo 4 straipsnio 2 dalies ir 5 straipsnio nuostatomis.
-
-2. Kontrolės įstaiga:
+Kontrolės įstaigos:
 
 1) tikrina, ar produktai, procesai ir paslaugos atitinka jiems nustatytus reikalavimus;
 
-2) pagal kompetenciją atlieka atitikties priežiūrą;
+2) išduoda kontrolės ataskaitas ir (ar) kontrolės sertifikatus.
 
-3) išduoda kontrolės ataskaitas ir (ar) kontrolės sertifikatus.
+15 straipsnis. Paskelbtųjų įstaigų funkcijos
 
-16 straipsnis. Tiekėjai
+Paskelbtosios įstaigos:
 
-1. Tiekėjai užtikrina produktų, procesų ir paslaugų atitiktį.
+1) atlieka atitikties įvertinimą pagal joms suteiktus įgaliojimus;
 
-2. Tiekėjai deklaruoja, kad produktai, procesai ar paslaugos atitinka dokumentuose, į kuriuos pateiktos nuorodos deklaracijoje, nurodytus reikalavimus.
-
-17 straipsnis. Atitikties įvertinimo darbų apmokėjimas
-
-1. Juridiniai asmenys, taip pat įmonės, neturinčios juridinio asmens teisių, pageidaujantys būti akredituoti, akreditavimo išlaidas apmoka pagal Vyriausybės nustatyta tvarka patvirtintus įkainius.
-
-2. Juridiniai ir fiziniai asmenys sertifikavimo ir jo sąlygų laikymosi priežiūros, kontrolės bei bandymų išlaidas privalomojo įvertinimo srityje apmoka pagal įkainius, patvirtintus Vyriausybės nustatyta tvarka; neprivalomojo įvertinimo srityje šias išlaidas apmoka pagal sutartis.
-
-18 straipsnis. Skundų nagrinėjimas
-
-Nacionalinio akreditacijos biuro ir jo akredituotų atitikties įvertinimo sistemos dalyvių priimtus sprendimus per 15 dienų galima apskųsti Apeliacinei komisijai, kurios nuostatai tvirtinami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Jeigu su šios komisijos sprendimu nesutinkama, jį galima apskųsti apygardos teismui.
+2) išduoda atitiktį patvirtinančius dokumentus.
 
 KETVIRTASIS SKIRSNIS
 
+AKREDITAVIMO PAŽYMĖJIMŲ GALIOJIMO SUSTABDYMAS, AKREDITAVIMO PAŽYMĖJIMŲ GALIOJIMO SUSTABDYMO PANAIKINIMAS IR AKREDITAVIMO PAŽYMĖJIMŲ GALIOJIMO PANAIKINIMAS. PASKELBTŲJŲ ĮSTAIGŲ ĮGALIOJIMŲ SUSTABDYMAS IR ATŠAUKIMAS
+
+16 straipsnis. Akreditavimo pažymėjimų galiojimo sustabdymas
+
+1. Akreditavimo pažymėjimų galiojimas sustabdomas:
+
+1) atitikties įvertinimo įstaigos prašymu arba
+
+2) kai Nacionalinis akreditacijos biuras, atlikdamas atitikties įvertinimo įstaigos priežiūrą, nustato, kad ji pažeidė šį įstatymą, kitus teisės aktus, reglamentuojančius atitikties įvertinimą, ar standartus ir per Nacionalinio akreditacijos biuro nustatytą ne ilgesnį kaip trijų mėnesių terminą nepašalino šių pažeidimų.
+
+2. Prašymą sustabdyti akreditavimo pažymėjimo galiojimą atitikties įvertinimo įstaiga pateikia Nacionaliniam akreditacijos biurui. Atitikties įvertinimo įstaigos prašymu akreditavimo pažymėjimo galiojimas sustabdomas ne ilgiau kaip šešiems mėnesiams nuo prašymo gavimo dienos.
+
+3. Sprendimą sustabdyti akreditavimo pažymėjimo galiojimą priima Nacionalinio akreditacijos biuro direktorius. Sprendime sustabdyti akreditavimo pažymėjimo galiojimą nurodomas akreditavimo pažymėjimo galiojimo sustabdymo pagrindas, terminas, kuriam sustabdomas akreditavimo pažymėjimo galiojimas, ir terminas, per kurį atitikties įvertinimo įstaiga turi pašalinti pažeidimus, dėl kurių sustabdomas akreditavimo pažymėjimo galiojimas, jeigu sprendimas sustabdyti akreditavimo pažymėjimo galiojimą priimamas šio straipsnio 1 dalies 2 punkte nurodytu atveju.
+
+4. Apie priimtą sprendimą sustabdyti akreditavimo pažymėjimo galiojimą Nacionalinis akreditacijos biuras informuoja atitikties įvertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos.
+
+17 straipsnis. Akreditavimo pažymėjimų galiojimo sustabdymo panaikinimas
+
+1. Akreditavimo pažymėjimų galiojimo sustabdymas panaikinamas, kai atitikties įvertinimo įstaigos prašymu Nacionalinis akreditacijos biuras atlieka įvertinimą ir nustato, kad atitikties įvertinimo įstaiga:
+
+1) atitinka šio įstatymo, kitų teisės aktų, reglamentuojančių atitikties įvertinimą, ar standartų reikalavimus po akreditavimo pažymėjimo galiojimo sustabdymo atitikties įvertinimo įstaigos prašymu arba
+
+2) per Nacionalinio akreditacijos biuro nustatytą terminą pašalino pažeidimus, dėl kurių buvo sustabdytas akreditavimo pažymėjimo galiojimas.
+
+2. Sprendimą panaikinti akreditavimo pažymėjimo galiojimo sustabdymą priima Nacionalinio akreditacijos biuro direktorius. Sprendime panaikinti akreditavimo pažymėjimo galiojimo sustabdymą nurodomas akreditavimo pažymėjimo galiojimo sustabdymo panaikinimo pagrindas.
+
+3. Apie priimtą sprendimą panaikinti akreditavimo pažymėjimo galiojimo sustabdymą Nacionalinis akreditacijos biuras informuoja atitikties įvertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos.
+
+18 straipsnis. Akreditavimo pažymėjimų galiojimo panaikinimas
+
+1. Akreditavimo pažymėjimų galiojimas panaikinamas:
+
+1) atitikties įvertinimo įstaigos prašymu arba
+
+2) kai atitikties įvertinimo įstaiga per Nacionalinio akreditacijos biuro nustatytą terminą nepašalino pažeidimų, dėl kurių buvo sustabdytas akreditavimo pažymėjimo galiojimas, arba
+
+3) kai atitikties įvertinimo įstaiga, kuriai jos prašymu sustabdytas akreditacijos pažymėjimo galiojimas, suėjus akreditacijos pažymėjimo galiojimo sustabdymo terminui nesikreipia į Nacionalinį akreditacijos biurą su prašymu atlikti įvertinimą ir panaikinti akreditavimo pažymėjimo galiojimo sustabdymą, arba
+
+4) kai atitikties įvertinimo įstaiga, kurios akreditavimo pažymėjimo galiojimas sustabdytas, vykdo veiklą, kuriai ji yra akredituota.
+
+2. Sprendimą panaikinti akreditavimo pažymėjimo galiojimą priima Nacionalinio akreditacijos biuro direktorius. Sprendime panaikinti akreditavimo pažymėjimo galiojimą nurodomas akreditavimo pažymėjimo galiojimo panaikinimo pagrindas.
+
+3. Apie priimtą sprendimą panaikinti akreditavimo pažymėjimo galiojimą Nacionalinis akreditacijos biuras informuoja atitikties įvertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos.
+
+19 straipsnis. Paskelbtųjų įstaigų įgaliojimų sustabdymas
+
+1. Šio įstatymo 6 straipsnyje nurodytos Vyriausybės įgaliotos ministerijos ir kitos institucijos priima sprendimus dėl prižiūrimų paskelbtųjų įstaigų įgaliojimų sustabdymo:
+
+1) paskelbtosios įstaigos prašymu;
+
+2) kai nustatoma, kad paskelbtoji įstaiga pažeidė šį įstatymą, kitus teisės aktus, reglamentuojančius atitikties įvertinimą.
+
+2. Vyriausybės įgaliota ministerija ar kita institucija paskelbtosios institucijos įgaliojimus sustabdo ne ilgesniam kaip trijų mėnesių terminui.
+
+3. Apie priimtą sprendimą sustabdyti paskelbtosios įstaigos įgaliojimus paskelbtoji įstaiga informuojama Vyriausybės nustatyta tvarka.
+
+20 straipsnis. Paskelbtųjų įstaigų įgaliojimų atšaukimas
+
+1. Šio įstatymo 6 straipsnyje nurodytos Vyriausybės įgaliotos ministerijos ir kitos institucijos priima sprendimus dėl prižiūrimų paskelbtųjų įstaigų įgaliojimų atšaukimo:
+
+1) paskelbtosios įstaigos prašymu;
+
+2) kai paskelbtoji įstaiga per terminą, kuriam buvo sustabdyti jos įgaliojamai, nesikreipia į atitinkamą Vyriausybės įgaliotą ministeriją ar kitą instituciją ir nepateikia pažeidimų pašalinimą įrodančių dokumentų, kai jos įgaliojimai buvo sustabdyti šio įstatymo 19 straipsnio 1 dalies 2 punkte nurodytu atveju.
+
+3. Apie priimtą sprendimą atšaukti paskelbtosios įstaigos įgaliojimus paskelbtoji įstaiga informuojama Vyriausybės nustatyta tvarka.
+
+PENKTASIS SKIRSNIS
+
 BAIGIAMOSIOS NUOSTATOS
-
-19 straipsnis. Užsienio valstybėse išduotų atitikties įvertinimo dokumentų pripažinimas
-
-Užsienio valstybių išduoti atitikties įvertinimo dokumentai pripažįstami tarptautinių sutarčių nustatyta tvarka.
-
-20 straipsnis. Atitikties įvertinimo sistemos dalyvių atsakomybė
-
-Šio įstatymo reikalavimus pažeidę atitikties įvertinimo sistemos dalyviai traukiami atsakomybėn Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
 21 straipsnis. Atitikties įvertinimo darbų apmokėjimas
 
@@ -308,118 +346,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1299, 2011-03-24, Žin., 2011, Nr. 40-1919 (2011-04-05), i. k. 1111010ISTA0XI-1299
 
 Lietuvos Respublikos atitikties įvertinimo įstatymo pakeitimo įstatymas
-
-141 straipsnis. Reikalavimai atitikties vertinimo įstaigoms, siekiančioms tapti notifikuotosiomis įstaigomis
-
-Atitikties vertinimo įstaiga, siekianti tapti notifikuotąja įstaiga ir Vyriausybės įgaliotai institucijai pateikusi paraišką tapti notifikuotąja įstaiga, Vyriausybės nustatyta tvarka paskiriama atlikti gaminių atitikties vertinimo procedūras ir apie ją pranešama Europos Komisijai, Europos Sąjungos ir kitoms valstybėms, kai ji atitinka šiuos kriterijus:
-
-1) ji atitinka techniniame reglamente notifikuotosioms įstaigoms ir jų personalui nustatytus reikalavimus;
-
-2) ji turi technines galimybes atlikti techniniame reglamente nustatytas atitikties vertinimo procedūras;
-
-3) ji atitinka Reglamente (EB) Nr. 765/2008 nurodytos Europos akreditacijos organizacijos išleistame vadove EA-2/17 „Dokumentas dėl akreditavimo notifikavimo tikslais“ atitikties vertinimo įstaigų akreditavimui notifikavimo tikslais nustatytus reikalavimus;
-
-4) ji yra įregistruota Lietuvos Respublikoje teisės aktų, reglamentuojančių juridinių asmenų registravimą, nustatyta tvarka;
-
-5) ji yra nešališka, nepatiria interesų konflikto ir nepriklauso nuo ekonominės veiklos vykdytojų, susijusių su gaminiu (-iais), kurio (-ių) atitikties vertinimo procedūroms atlikti siekia tapti notifikuotąja, arba nuo paties gaminio, kaip tai nustatyta Sprendime Nr. 768/2008/EB, šio straipsnio 3 punkte nurodytame Europos akreditacijos organizacijos vadove bei atitinkamame techniniame reglamente;
-
-6) ji yra akredituota šio įstatymo arba Reglamento (EB) Nr. 765/2008, jeigu akreditavimas įrodytas kitos Europos Sąjungos valstybės narės nacionalinės akreditacijos įstaigos išduotu akreditavimo pažymėjimu arba kitu akreditavimą patvirtinančiu dokumentu, nustatyta tvarka.
-
-142 straipsnis. Vyriausybės įgaliotos institucijos sprendimas dėl atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras ir pranešimas Europos Komisijai, Europos Sąjungos ir kitoms valstybėms
-
-1. Vyriausybės įgaliota institucija per 10 darbo dienų nuo atitikties vertinimo įstaigos, siekiančios tapti notifikuotąja įstaiga, paraiškos tapti notifikuotąja įstaiga ir dokumentų gavimo dienos Vyriausybės nustatyta tvarka patikrina įstaigos, siekiančios tapti notifikuotąja įstaiga, atitiktį šio įstatymo 141 straipsnyje nustatytiems reikalavimams ir priima sprendimą dėl atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras arba atsisakymo šią įstaigą paskirti atlikti gaminių atitikties vertinimo procedūras.
-
-2. Jeigu pateikta paraiška tapti notifikuotąja įstaiga ir (ar) dokumentai turi formos ar turinio trūkumų arba pateikti ne visi dokumentai ar duomenys, reikalingi sprendimui priimti, Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka turi teisę pareikalauti pašalinti trūkumus ir (ar) pateikti trūkstamus dokumentus ar duomenis. Šio straipsnio 1 dalyje nurodyto sprendimo priėmimo terminas sustabdomas iki trūkumų pašalinimo ir (ar) trūkstamų dokumentų ar duomenų pateikimo laikotarpio pabaigos.
-
-3. Vyriausybės įgaliotos institucijos sprendimas dėl atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galioja tokį terminą, koks yra nurodytas paskirtajai įstaigai šio įstatymo 9 straipsnyje nurodyta tvarka išduotame akreditavimo pažymėjime, kitos Europos Sąjungos valstybės narės nacionalinės akreditacijos įstaigos išduotame akreditavimo pažymėjime arba kitame akreditavimą patvirtinančiame dokumente, arba Vyriausybės įgaliotos institucijos nurodytą terminą Vyriausybės nustatyta tvarka, bet ne ilgiau kaip 5 metus (toliau – paskyrimo terminas).
-
-4. Vyriausybės įgaliota institucija Europos Komisijai, Europos Sąjungos ir kitoms valstybėms pateikia pranešimą apie atitikties vertinimo įstaigos paskyrimą atlikti gaminių atitikties vertinimo procedūras ir jos atitiktį techniniuose reglamentuose nustatytiems reikalavimams (toliau – notifikavimo pranešimas) Vyriausybės nustatyta tvarka.
-
-5. Atitikties vertinimo įstaiga, paskirta atlikti techniniuose reglamentuose nustatytas gaminių atitikties vertinimo procedūras (toliau – paskirtoji įstaiga), gali pradėti notifikuotosios įstaigos veiklą, jeigu per 14 kalendorinių dienų nuo notifikavimo pranešimo, grindžiamo paskirtosios įstaigos akreditavimo pažymėjimu, arba per 2 mėnesius nuo notifikavimo pranešimo, kai jos atitiktis šio įstatymo 141 straipsnio 1–3 punktuose nurodytiems reikalavimams yra įrodyta kitokiu negu šio įstatymo 9 straipsnyje nurodytu akreditavimo būdu, pateikimo Vyriausybės įgaliota institucija negauna informacijos apie Europos Komisijos, Europos Sąjungos ir kitų valstybių prieštaravimą.
-
-143 straipsnis. Notifikuotosios įstaigos veikla
-
-Notifikuotoji įstaiga atlieka gaminių atitikties vertinimo procedūras, kurioms yra notifikuota, išduoda sertifikatus ir kitus gaminio (-ių) atitiktį techniniame reglamente nustatytiems reikalavimams patvirtinančius dokumentus, pripažįstamus Europos Sąjungos ir kitose valstybėse, atlieka gaminio (-ių), kurio (-ių) atitikties vertinimo procedūroms yra notifikuota, stebėseną išdavus jo (-ų) atitiktį techniniame reglamente nustatytiems reikalavimams patvirtinantį dokumentą, taip pat atlieka kitus techniniame reglamente nurodytus veiksmus.
-
-144 straipsnis. Vyriausybės įgaliotos institucijos sprendimo dėl atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras pakeitimas
-
-1. Vyriausybės įgaliotos institucijos sprendimas dėl atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras, apie kurį pateiktas notifikavimo pranešimas (toliau šiame straipsnyje – sprendimas), pakeičiamas, kai paskirtoji įstaiga:
-
-1) pateikia prašymą pakeisti sprendimą dėl pasikeitusios informacijos, susijusios su paskirtosios įstaigos pavadinimu;
-
-2) pateikia prašymą išplėsti sprendime nustatytą paskyrimo sritį, remdamasi paskirtajai įstaigai išduotu akreditavimo pažymėjimu;
-
-3) pateikia prašymą susiaurinti sprendime nustatytą paskyrimo sritį.
-
-2. Vyriausybės įgaliota institucija sprendimą pakeičia arba motyvuotai atsisako jį keisti per 10 darbo dienų nuo šio straipsnio 1 dalyje nurodyto prašymo gavimo dienos Vyriausybės nustatyta tvarka.
-
-3. Sprendimas pakeisti Vyriausybės įgaliotos institucijos sprendimą dėl atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galioja likusiam paskyrimo terminui.
-
-4. Notifikavimo pranešimas apie pakeistą sprendimą pateikiamas mutatis mutandis šio įstatymo 142 straipsnio 4 dalyje nustatyta tvarka.
-
-5. Pradėti notifikuotosios įstaigos veiklą išplėstoje paskyrimo srityje paskirtoji įstaiga gali tik esant šio įstatymo 142 straipsnio 5 dalyje nurodytoms sąlygoms.
-
-145 straipsnis. Vyriausybės įgaliotos institucijos sprendimo dėl atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galiojimo laikinas sustabdymas
-
-1. Vyriausybės įgaliotos institucijos sprendimo dėl atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras, apie kurį pateiktas notifikavimo pranešimas, galiojimas laikinai sustabdomas:
-
-1) notifikuotosios įstaigos prašymu;
-
-2) kai Vyriausybės įgaliota institucija gauna informacijos apie notifikuotosios įstaigos akreditavimo pažymėjimo galiojimo sustabdymą;
-
-3) kai Vyriausybės įgaliota institucija nustato notifikuotosios įstaigos ar jos veiklos neatitiktį šio įstatymo 141 straipsnyje nustatytiems reikalavimams ir įspėja apie galimą atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galiojimo sustabdymą bei nustato terminą joms ištaisyti, kuris negali būti trumpesnis kaip 10 darbo dienų ir ilgesnis kaip 20 darbo dienų nuo notifikuotosios įstaigos informavimo apie neatitikties šio įstatymo 141 straipsnyje nustatytiems reikalavimams nustatymą dienos, bet jų nepašalina per nurodytą terminą ir (ar) nepraneša apie jų pašalinimą Vyriausybės įgaliotai institucijai.
-
-2. Vyriausybės įgaliotos institucijos sprendimo dėl atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras, apie kurį pateiktas notifikavimo pranešimas, galiojimas laikinai sustabdomas nedelsiant, bet ne vėliau kaip kitą darbo dieną nuo šio straipsnio 1 dalies 1 punkte nurodyto prašymo arba šio straipsnio 1 dalies 2 punkte nurodytos informacijos gavimo dienos arba kitą darbo dieną nuo šio straipsnio 1 dalies 3 punkte nurodyto įspėjimo termino pabaigos, jeigu nepašalinamos įspėjime nurodytos neatitiktys ir (ar) nepranešama apie jų pašalinimą Vyriausybės nustatyta tvarka.
-
-3. Sprendimas dėl atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galiojimo laikino sustabdymo priimamas ne ilgesniam kaip 6 mėnesių terminui nuo šio straipsnio 2 dalyje nurodyto Vyriausybės įgaliotos institucijos sprendimo priėmimo dienos.
-
-4. Vyriausybės įgaliotos institucijos notifikavimo pranešimas apie sprendimą dėl atitikties vertinimo įstaigos paskyrimo atlikti atitikties vertinimo procedūras laikino sustabdymo pateikiamas mutatis mutandis šio įstatymo 142 straipsnio 4 dalyje nustatyta tvarka.
-
-146 straipsnis. Vyriausybės įgaliotos institucijos sprendimo dėl atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galiojimo laikino sustabdymo panaikinimas
-
-1. Vyriausybės įgaliotos institucijos sprendimo dėl atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galiojimo laikinas sustabdymas panaikinamas, kai:
-
-1) notifikuotoji įstaiga pateikia prašymą atšaukti jos teiktą šio įstatymo 145 straipsnio 1 dalies 1 punkte nurodytą prašymą;
-
-2) Vyriausybės įgaliota institucija gauna informacijos, kad panaikinamas notifikuotosios įstaigos akreditavimo pažymėjimo galiojimo sustabdymas;
-
-3) Vyriausybės įgaliota institucija, Vyriausybės nustatyta tvarka šio įstatymo 145 straipsnio 3 dalyje nustatytu terminu gavusi informaciją apie notifikuotosios įstaigos ar jos veiklos neatitikčių šio įstatymo 141 straipsnyje nustatytiems reikalavimams pašalinimą, atlieka notifikuotosios įstaigos kompetencijos ir atitikties reikalavimams vertinimą ir nustato, kad atitikties vertinimo įstaiga ar jos veikla atitinka šio įstatymo 141 straipsnyje nustatytus reikalavimus. Notifikuotosios įstaigos kompetencijos ir atitikties reikalavimams vertinimas atliekamas per ne ilgesnį kaip 20 darbo dienų nuo atitinkamos informacijos gavimo dienos terminą.
-
-2. Vyriausybės įgaliota institucija sprendimą dėl atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galiojimo laikino sustabdymo panaikinimo arba motyvuotą atsisakymą panaikinti atitikties vertinimo įstaigos paskyrimo atlikti atitikties vertinimo procedūras galiojimo laikiną sustabdymą priima per 10 darbo dienų nuo šio straipsnio 1 dalies 1 punkte nurodyto prašymo, 1 dalies 2 punkte nurodytos informacijos gavimo ar šio straipsnio 1 dalies 3 punkte nurodyto notifikuotosios įstaigos kompetencijos ir atitikties reikalavimams vertinimo atlikimo dienos Vyriausybės nustatyta tvarka.
-
-3. Notifikavimo pranešimas apie atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galiojimo laikino sustabdymo panaikinimą pateikiamas mutatis mutandis šio įstatymo 142 straipsnio 4 dalyje nustatyta tvarka.
-
-4. Atnaujinti notifikuotosios įstaigos veiklą paskirtoji įstaiga gali tik esant šio įstatymo 142 straipsnio 5 dalyje nurodytoms sąlygoms.
-
-147 straipsnis. Notifikuotosios įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galiojimo panaikinimas
-
-1. Vyriausybės įgaliota institucija notifikuotosios įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galiojimą panaikina šiais atvejais:
-
-1) notifikuotosios įstaigos prašymu;
-
-2) gavusi informacijos apie notifikuotajai įstaigai išduoto akreditavimo pažymėjimo galiojimo panaikinimą arba akreditavimo srities susiaurinimą (kai notifikuotosios įstaigos akreditavimo sritis susiaurinama toje atitikties vertinimo dalyje, kuriai įstaiga yra notifikuota);
-
-3) įvertinusi notifikuotosios įstaigos per šio įstatymo 145 straipsnio 1 dalies 3 punkte nustatytą terminą Vyriausybės nustatyta tvarka pateiktus duomenis ar dokumentus apie notifikuotosios įstaigos ar jos veiklos neatitikčių šio įstatymo 141 straipsnyje nustatytiems reikalavimams pašalinimą, nustato, kad atitikties vertinimo įstaiga ar jos veikla neatitinka šio įstatymo 141 straipsnyje nustatytų reikalavimų ir būtina panaikinti notifikuotosios įstaigos paskyrimą atlikti atitikties vertinimo procedūras;
-
-4) jeigu, laikinai sustabdžius atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galiojimą, notifikuotoji įstaiga per šio įstatymo 145 straipsnio 3 dalyje nustatytą terminą Vyriausybės nustatyta tvarka nepateikė duomenų ar dokumentų apie notifikuotosios įstaigos ar jos veiklos neatitikčių šio įstatymo 141 straipsnyje nustatytiems reikalavimams pašalinimą;
-
-5) jeigu, laikinai sustabdžius atitikties vertinimo įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galiojimą ir Vyriausybės įgaliotai institucijai Vyriausybės nustatyta tvarka atlikus notifikuotosios įstaigos kompetencijos ir atitikties reikalavimams vertinimą, nustatoma, kad įstaiga ar jos veikla neatitinka šio įstatymo 141 straipsnyje nustatytų reikalavimų;
-
-6) jeigu notifikuotoji įstaiga informuoja, kad nėra galimybių ištaisyti Vyriausybės įgaliotos institucijos nustatytų notifikuotosios įstaigos ar jos veiklos neatitikčių;
-
-7) jeigu notifikuotoji įstaiga laikotarpiu, kuriuo laikinai sustabdytas jos paskyrimo atlikti gaminių atitikties vertinimo procedūras galiojimas, atlieka tas atitikties vertinimo procedūras, kurioms atlikti paskyrimo galiojimas yra laikinai sustabdytas;
-
-8) jeigu notifikuotoji įstaiga pasibaigia Civilinio kodekso nustatytais pagrindais;
-
-9) jeigu techniniame reglamente nebenustatomos notifikuotosios įstaigos funkcijos.
-
-2. Vyriausybės įgaliotos institucijos sprendimas panaikinti notifikuotosios įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galiojimą priimamas ir notifikavimo pranešimas pateikiamas mutatis mutandis šio įstatymo 142 straipsnio 1 ir 4 dalyse nustatyta tvarka.
-
-Papildyta skyriumi:
-
-Nr. XIV-1450, 2022-10-11, paskelbta TAR 2022-10-19, i. k. 2022-21165
-
-IV SKYRIUS
-
-BAIGIAMOSIOS NUOSTATOS
 
