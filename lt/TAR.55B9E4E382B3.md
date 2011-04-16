@@ -4,7 +4,7 @@ identifier: "TAR.55B9E4E382B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-04-10"
-last_updated: "2010-04-27"
+last_updated: "2011-04-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.55B9E4E382B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -300,22 +300,6 @@ kanceliarija;
 
 Prezidentas ir Respublikos Prezidento kanceliarija;
 
-3
-
-punkto redakcija iki 2010 m. liepos 1 d.:
-
-3) Lietuvos Respublikos
-
-Vyriausybė, ministerijos, Vyriausybės įstaigos, įstaigos prie ministerijų,
-
-apskričių viršininkų administracijos, Vyriausybės atstovai ir
-
-Vyriausybės įgaliotiniai;
-
-3
-
-punkto redakcija nuo 2010 m. liepos 1 d.:
-
 3) Lietuvos
 
 Respublikos Vyriausybė, Ministro Pirmininko tarnyba, ministerijos,
@@ -494,11 +478,11 @@ Respublikos generalinio prokuroro darbo kabinete;
 
 12) Lietuvos banko valdybos pirmininko darbo kabinete;
 
-13) Lietuvos Respublikos
+13) Lietuvos kariuomenės vado,
 
-kariuomenės vado, lauko pajėgų vado, Gynybos štabo viršininko ir karinių
+Jungtinio štabo viršininko, kariuomenės pajėgų rūšių ir karinių dalinių vadų
 
-dalinių vadų darbo kabinetuose;
+darbo kabinetuose;
 
 14) Lietuvos Respublikos diplomatinių atstovybių ir konsulinių įstaigų
 
@@ -524,15 +508,21 @@ Nr. XI-745,
 
 2010-04-13, Žin., 2010, Nr. 48-2295 (2010-04-27)
 
+Nr.
+
+XI-1305,
+
+2011-03-31, Žin., 2011, Nr. 46-2157 (2011-04-16)
+
 6
 
 straipsnis. Lietuvos nacionaliniai simboliai
 
-1. Lietuvos istoriniai
+1. Lietuvos
 
-nacionaliniai simboliai yra dvigubas kryžius ir Gediminaičių stulpai. Jų
+istoriniai nacionaliniai simboliai yra dvigubas kryžius ir Gediminaičių
 
-etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos
+stulpai. Jų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos
 
 Prezidentas.
 
@@ -562,9 +552,89 @@ KITI
 
 HERBAI IR HERBINIAI ŽENKLAI
 
-7 straipsnio redakcija iki 2010
+7
 
-m. liepos 1 d.:
+straipsnis. Apskrities herbas
+
+1. Apskrities
+
+herbas naudojamas reprezentacinėms reikmėms, taip pat organizuojant apskrities
+
+renginius.
+
+2. Asmenys gali
+
+naudoti apskrities herbą tik turėdami Lietuvos Respublikos Vyriausybės ar jos
+
+įgaliotos institucijos sutikimą, išskyrus atvejus, kai apskrities herbas ar jo
+
+atvaizdas naudojami leidybos, mokslo ir visuomenės informavimo srityse.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-745,
+
+2010-04-13, Žin., 2010, Nr. 48-2295 (2010-04-27)
+
+8
+
+straipsnis. Savivaldybės, miesto, miestelio ir kaimo herbas
+
+1. Savivaldybės herbą savivaldybės tarybos nustatyta tvarka
+
+naudoja savivaldybės institucijos, įstaigos, savivaldybių administracijos
+
+padaliniai ir valstybės tarnautojai bei darbuotojai.
+
+2. Savivaldybės herbas yra jos
+
+centro herbas. Kai savivaldybės centras nėra savivaldybės teritorijoje,
+
+savivaldybės herbas yra didžiausio savivaldybės teritorijoje esančio miesto
+
+herbas arba kitas patvirtintas herbas. Šiuo atveju sprendimą dėl savivaldybės
+
+herbo priima savivaldybės taryba.
+
+3. Savivaldybės herbas naudojamas savivaldybės institucijų,
+
+įstaigų ir savivaldybės administracijos padalinių, kurie neturi įstatymo
+
+nustatyta tvarka patvirtintų herbų, savivaldybės vėliavoje, herbiniuose
+
+antspauduose, dokumentų blankuose, iškabose, merų ir seniūnų ženkluose.
+
+Savivaldybės institucijos, įstaigos pavadinimas herbiniame antspaude, dokumentų
+
+blanke ir iškaboje turi sutapti.
+
+4. Savivaldybės
+
+herbas yra savivaldybės nematerialusis turtas. Kiti asmenys jį gali
+
+naudoti tik savivaldybės tarybos nustatyta tvarka, išskyrus atvejus, kai herbas
+
+ar jo atvaizdas naudojami leidybos, mokslo ir visuomenės informavimo srityse.
+
+5. Miesto, miestelio ir kaimo
+
+herbo naudojimo tvarką nustato savivaldybės taryba.
+
+6. Mero ženkle ir seniūno ženkle
+
+atvaizduojamas atitinkamos savivaldybės miesto, miestelio ar kaimo herbas.
+
+7. Antspaudų su
+
+savivaldybės herbu apyvartos kontrolę nustato įstatymas.
+
+KETVIRTASIS SKIRSNIS
+
+HERBŲ IR
+
+HERBINIŲ ŽENKLŲ ETALONAI IR PROJEKTAI
 
 4 straipsnis.
 
@@ -842,13 +912,13 @@ straipsnio redakcija nuo 2010 m. liepos 1 d.:
 
 ir kitų teisės aktų nustatyta tvarka patvirtinti herbų, herbinių vėliavų,
 
-herbinių ženklų, herbinių antspaudų etalonai ir projektai yra oficialūs dokumentai,
+herbinių ženklų, herbinių antspaudų etalonai ir projektai yra oficialūs
 
-patvirtinantys herbų, herbinių vėliavų, herbinių ženklų, herbinių antspaudų
+dokumentai, patvirtinantys herbų, herbinių vėliavų, herbinių ženklų, herbinių
 
-tapatumą jų etalonams ir projektams. Jų  pagrindu gaminami atitinkami herbai,
+antspaudų tapatumą jų etalonams ir projektams. Jų  pagrindu gaminami atitinkami
 
-herbinės vėliavos, herbiniai ženklai, herbiniai antspaudai.
+herbai, herbinės vėliavos, herbiniai ženklai, herbiniai antspaudai.
 
 2. Vienas
 
@@ -920,13 +990,13 @@ heraldikos komisija.
 
 savivaldybių institucijos, įstaigos ar kiti subjektai, savo uniformų
 
-skiriamuosiuose ženkluose naudojantys Lietuvos valstybės herbą, nacionalinius simbolius,
+skiriamuosiuose ženkluose naudojantys Lietuvos valstybės herbą, nacionalinius
 
-kitus herbinius ženklus, taip pat garbės ar pasižymėjimo ženklus, numatytus
+simbolius, kitus herbinius ženklus, taip pat garbės ar pasižymėjimo ženklus,
 
-įstatymuose ar kituose institucijų veiklą reglamentuojančiuose teisės aktuose,
+numatytus įstatymuose ar kituose institucijų veiklą reglamentuojančiuose teisės
 
-derina jų projektus su Lietuvos heraldikos komisija.
+aktuose, derina jų projektus su Lietuvos heraldikos komisija.
 
 11
 
@@ -988,9 +1058,9 @@ Prezidentas. Komisijos narių kadencijų skaičius neribojamas.
 
 reputacijos Lietuvos Respublikos piliečiai, turintys aukštąjį universitetinį
 
-išsilavinimą ir ne mažesnį kaip trejų metų heraldikos ar jai artimos srities
+išsilavinimą ir ne mažesnį kaip trejų metų heraldikos ar jai artimos srities  mokslinio
 
-mokslinio ar praktinio darbo patirtį.
+ar praktinio darbo patirtį.
 
 3.
 
@@ -1058,9 +1128,9 @@ heraldikos norminimo klausimus, atsižvelgdama į Lietuvos heraldikos tradicijas
 
 tarptautinę patirtį ir heraldikos mokslo tendencijas;
 
-4) ugdo pagarbą heraldikos
+4) ugdo pagarbą heraldikos simbolikai,
 
-simbolikai, propaguoja heraldikos žinias;
+propaguoja heraldikos žinias;
 
 5) nustato taisykles,
 
@@ -1130,11 +1200,11 @@ Respublikos institucijų, įstaigų, įmonių, organizacijų apie heraldikos obj
 
 naudojimą;
 
-2)
+2) neatlygintinai
 
-neatlygintinai naudotis valstybės archyvuose, muziejuose ir bibliotekose
+naudotis valstybės archyvuose, muziejuose ir bibliotekose saugoma istorine
 
-saugoma istorine heraldikos medžiaga istoriniams herbams atkurti;
+heraldikos medžiaga istoriniams herbams atkurti;
 
 3) teisės aktų
 
@@ -1171,44 +1241,6 @@ direktorius ar jo įgalioti asmenys, krašto apsaugos ir vidaus reikalų sistem�
 savarankiškuose kariniuose daliniuose ir padaliniuose – atitinkamai krašto
 
 apsaugos ministras ar vidaus reikalų ministras arba jų įgalioti asmenys.
-
-2
-
-dalies redakcija iki 2010 m. liepos 1 d.:
-
-2. Už Lietuvos
-
-valstybės herbo, herbinių ženklų ir herbinių antspaudų naudojimą valstybės
-
-institucijose, įstaigose yra atsakingi:
-
-1) Lietuvos
-
-Respublikos Seime – Seimo kancleris;
-
-2) Respublikos Prezidento
-
-institucijoje – Respublikos Prezidento kanceliarijos kancleris;
-
-3) Lietuvos
-
-Respublikos Vyriausybėje – Ministro Pirmininko kancleris;
-
-4) Lietuvos Respublikos Konstituciniame Teisme, Lietuvos
-
-Aukščiausiajame Teisme, Lietuvos vyriausiajame administraciniame teisme –
-
-teismo kancleris, kituose teismuose – teismo pirmininkas;
-
-5) kitose
-
-valstybės institucijose ir įstaigose, Lietuvos Respublikos diplomatinėse
-
-atstovybėse, konsulinėse įstaigose ir specialiosiose misijose – jų vadovai.
-
-2
-
-dalies redakcija nuo 2010 m. liepos 1 d.:
 
 2. Už Lietuvos
 
@@ -1518,11 +1550,27 @@ HERBINIŲ ŽENKLŲ ĮSTATYMO 2, 5, 7, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 
 straipsnį, įsigalioja 2010 m. liepos 1 d.
 
-*** Pabaiga ***
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1305, 2011-03-31,
+
+Žin., 2011, Nr. 46-2157 (2011-04-16)
+
+VALSTYBĖS
+
+HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2010-04-29)
+Aušra Bodin (2011-04-20)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
