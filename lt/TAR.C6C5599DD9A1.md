@@ -4,7 +4,7 @@ identifier: "TAR.C6C5599DD9A1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-10-28"
-last_updated: "2009-12-28"
+last_updated: "2011-05-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,17 +17,9 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2009-12-28 iki 2011-05-02
+Suvestinė redakcija nuo 2011-05-03 iki 2011-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
-
-TAR pastaba. Lietuvos Respublikos mokėjimų įstatymo 14, 15, 18, 35 straipsniai ir 36 straipsnio 2 dalis pradedami taikyti teikiant įmokų surinkimo paslaugą (kai mokėtojų sumokėtas lėšas surenka mokėtojo mokėjimo paslaugų teikėjas ir perveda gavėjui vienu mokėjimu) nuo 2010 m. birželio 15 d.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-550, 2009-12-10, Žin., 2009, Nr. 153-6888 (2009-12-28), i. k. 1091010ISTA00XI-550
-
-Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas
 
 Nauja redakcija nuo 2009-12-28:
 
@@ -49,7 +41,11 @@ BENDROSIOS NUOSTATOS
 
 1. Šis įstatymas reglamentuoja mokėjimo paslaugų teikėjų veiklą ir atsakomybę, mokėjimo paslaugas, jų teikimo sąlygas ir informavimo apie šias sąlygas reikalavimus, mokėjimo paslaugų vartotojų ir mokėjimo paslaugų teikėjų teises ir pareigas, susijusias su mokėjimo paslaugomis, kai mokėjimo paslaugų teikimas yra verslas.
 
-2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu Įstatymo priede.
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010ISTA0XI-1340
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -137,11 +133,29 @@ BENDROSIOS NUOSTATOS
 
 4. Šio įstatymo 29 ir 30 straipsniai netaikomi elektroniniams pinigams, jeigu mokėtojo mokėjimo paslaugų teikėjas negali įšaldyti mokėjimo sąskaitos ar blokuoti mokėjimo priemonės.
 
-5. Tais atvejais, kai taikomas ir Lietuvos Respublikos vartotojų teisių apsaugos įstatymas, vietoj jo 36 straipsnio 5–9 dalyse nustatytų informacijos reikalavimų, išskyrus 36 straipsnio 7 dalies 3–8 punktus, 36 straipsnio 8 dalies 1, 4 ir 5 punktus ir 36 straipsnio 9 dalies 2 punktą, taikomos šio įstatymo 10 ir 17 straipsnių nuostatos.
+5. Šio įstatymo VI skyriaus nuostatos taikomos ir įgyvendinant 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinančio Reglamentą (EB) Nr. 2560/2001 (OL 2009 L 266, p. 11), 9, 10, 11, 12 ir 13 straipsnių nuostatas.
 
-6. Šio įstatymo nuostatos, susijusios su vartotojams teikiamais kreditais, taikomos tiek, kiek kiti įstatymai, reglamentuojantys vartotojams teikiamus kreditus, nenustato kitaip.
+Papildyta straipsnio dalimi:
 
-7. Šis įstatymas netaikomas:
+Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010ISTA0XI-1340
+
+6. Tais atvejais, kai taikomas ir Lietuvos Respublikos vartotojų teisių apsaugos įstatymas, vietoj jo 36 straipsnio 5–9 dalyse nustatytų informacijos reikalavimų, išskyrus 36 straipsnio 7 dalies 3–8 punktus, 36 straipsnio 8 dalies 1, 4 ir 5 punktus ir 36 straipsnio 9 dalies 2 punktą, taikomos šio įstatymo 10 ir 17 straipsnių nuostatos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010ISTA0XI-1340
+
+7. Šio įstatymo nuostatos, susijusios su vartotojams teikiamais kreditais, taikomos tiek, kiek kiti įstatymai, reglamentuojantys vartotojams teikiamus kreditus, nenustato kitaip.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010ISTA0XI-1340
+
+8. Šis įstatymas netaikomas:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010ISTA0XI-1340
 
 1) mokėjimo operacijoms, kurios atliekamos tik grynaisiais pinigais iš mokėtojo tiesiogiai gavėjui be tarpininkų;
 
@@ -221,7 +235,11 @@ Mokėjimo paslaugas sudaro:
 
 Mokėjimo paslaugų teikėjai yra:
 
-1) kredito įstaigos;
+1) kredito įstaigos, įskaitant kredito įstaigų, kurių buveinė yra valstybėse narėse ar užsienio valstybėse, valstybėse narėse įsteigtus filialus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010ISTA0XI-1340
 
 2) mokėjimo įstaigos;
 
@@ -867,9 +885,15 @@ mokėjimų įstatymo
 
 priedas
 
-ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
+1. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1), su paskutiniais pakeitimais, padarytais 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/111/EB (OL 2009 L 302, p. 97).
+
+2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinantis Reglamentą (EB) Nr. 2560/2001 (OL 2009 L 266, p. 11).
+
+Priedo pakeitimai:
+
+Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010ISTA0XI-1340
 
 Pakeitimai:
 
@@ -904,4 +928,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-550, 2009-12-10, Žin., 2009, Nr. 153-6888 (2009-12-28), i. k. 1091010ISTA00XI-550
 
 Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010ISTA0XI-1340
+
+Lietuvos Respublikos mokėjimų įstatymo 1, 3, 6 straipsnių ir Įstatymo priedo pakeitimo ir papildymo įstatymas
 
