@@ -4,7 +4,7 @@ identifier: "TAR.779892D853B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-10"
-last_updated: "2009-12-28"
+last_updated: "2011-05-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 58 straipsnis įsigalioja 2002-09-18.
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2009-12-28 iki 2011-05-02
+Suvestinė redakcija nuo 2011-05-03 iki 2011-08-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
 
@@ -154,7 +154,11 @@ Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA0
 
 20. Įstatinio kapitalo ir (arba) balsavimo teisių dalis – bent viena akcija, pajus ar kitokia įmonės išleista priemonė, pažyminti dalyvavimą valdant įmonės kapitalą, arba kartu su šiomis priemonėmis įgyta balsavimo teisė, arba (jeigu nėra išleista priemonių, pažyminčių dalyvavimą valdant įmonės kapitalą) įmonės ar jos turto (kapitalo) dalis.
 
-21. Jungtinė (konsoliduota) priežiūra – globojančios (patronuojančios) įmonės ir jos kontroliuojamos finansinės grupės priežiūra, atliekama remiantis jungtinėmis (konsoliduotomis) finansinės atskaitomybės ir kitomis priežiūrai skirtomis ataskaitomis, kurias sudaro ir priežiūrą atliekančiai institucijai pateikia globojanti (patronuojanti) įmonė.
+21. Jungtinė (konsoliduota) priežiūra – globojančios (patronuojančios) įmonės ir jos kontroliuojamos finansinės grupės priežiūra, atliekama remiantis jungtinėmis (konsoliduotosiomis) finansinėmis ir kitomis priežiūrai skirtomis ataskaitomis, kurias sudaro ir priežiūrą atliekančiai institucijai pateikia globojanti (patronuojanti) įmonė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
 
 22. Kontroliuojama įmonė – įmonė, kurioje kitas asmuo turi įstatinio kapitalo ir (arba) balsavimo teisių dalį, suteikiančią teisę kontroliuoti įmonės veiklą. Visos kontroliuojamų įmonių kontroliuojamos įmonės taip pat laikomos pirmosios visas šias įmonės globojančios (patronuojančios) įmonės kontroliuojamomis įmonėmis.
 
@@ -244,15 +248,15 @@ Nr. X-1037, 2007-01-18, Žin. 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00
 
 38. Specialieji atidėjiniai (atidėjimai) – turto ir nebalansinių pretenzijų vertės sumažėjimo dydis, atitinkantis tikėtinų nuostolių galimybę.
 
-39. Tarpusavyje susijusių klientų grupė – du arba daugiau finansų įstaigos (arba kelių tai pačiai finansinei grupei priklausančių finansų įstaigų) klientų, kurie yra susiję tarpusavyje dėl to, kad:
+39. Tarpusavyje susijusių klientų grupė:
 
-1) vienas iš klientų tiesiogiai ir (arba) netiesiogiai gali kontroliuoti kitus klientus;
+1) du arba daugiau finansų įstaigos klientų, kurie, jeigu neįrodyta kitaip, sukelia vieną riziką, nes vienas iš jų tiesiogiai ar netiesiogiai kontroliuoja antrąjį arba kitus klientus, arba
 
-2) klientai yra susiję tokiais tarpusavio ryšiais, kad jeigu vienas iš jų negalėtų įvykdyti savo įsipareigojimų finansų įstaigai, kiltų sunkumų ir kitam arba kitiems klientams įvykdyti įsipareigojimus šiai finansų įstaigai.
+2) du arba daugiau finansų įstaigos klientų, kurie nesusiję šios dalies 1 punkte nurodytais kontrolės santykiais, bet kuriuos reikia laikyti sukeliančiais vieną riziką, kadangi jie taip tarpusavyje susiję, kad jeigu vienas iš jų turėtų finansinių problemų, visų pirma lėšų pritraukimo arba grąžinimo sunkumų, antrasis arba visi kiti klientai, pritraukdami arba grąžindami lėšas, tikriausiai taip pat susidurtų su sunkumais.
 
-Straipsnio punkto pakeitimai:
+Straipsnio dalies pakeitimai:
 
-Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
 
 40. Tauriųjų metalų prekyba – prekyba:
 
@@ -704,7 +708,11 @@ Finansų įstaigos steigimo dokumentuose privalo būti nustatyta finansų įstai
 
 2) tikrinti ir vertinti finansų įstaigos vidaus kontrolės sistemos tinkamumą ir veiksmingumą;
 
-3) vertinti, ar finansų įstaigos finansinė atskaitomybė rodo tikrąją būklę;
+3) vertinti, ar finansų įstaigos finansinių ataskaitų rinkiniai rodo tikrąją būklę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
 
 4) padėti finansų įstaigos valdybai nustatyti veiklos kryptis ir jų įgyvendinimo priemones;
 
@@ -798,7 +806,11 @@ Finansų įstaigos nepaskirstytasis pelnas (nuostolis) finansinių metų pradži
 
 3. Finansų įstaigos finansiniai metai sutampa su kalendoriniais metais.
 
-4. Per finansinius metus gautas grynasis finansinis metinės veiklos rezultatas (pelnas arba nuostolis) turi būti paskirstytas ne vėliau kaip per 3 mėnesius pasibaigus finansiniams metams, finansų įstaigos dalyviams savo sprendimu tvirtinant metinę finansinę atskaitomybę.
+4. Per finansinius metus gautas grynasis finansinis metinės veiklos rezultatas (pelnas arba nuostolis) turi būti paskirstytas ne vėliau kaip per 3 mėnesius pasibaigus finansiniams metams, finansų įstaigos dalyviams savo sprendimu tvirtinant metinių finansinių ataskaitų rinkinį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
 
 5. Finansų įstaigos dalyvių sprendime dėl grynojo finansinio metinės veiklos rezultato (pelno arba nuostolio) paskirstymo turi būti nurodyta:
 
@@ -1034,31 +1046,35 @@ FINANSŲ ĮSTAIGOS APSKAITA IR AUDITAS
 
 43 straipsnis. Apskaita
 
-1. Finansų įstaiga privalo tvarkyti buhalterinę apskaitą vadovaudamasi Lietuvos Respublikos įstatymais ir kitais teisės aktais, taip pat finansų įstaigos organų pasirinkta apskaitos politika, kuri įgyvendinama atsižvelgiant į konkrečias sąlygas, verslo pobūdį bei vadovaujantis tarptautiniais ar verslo apskaitos standartais.
+1. Finansų įstaiga privalo tvarkyti buhalterinę apskaitą vadovaudamasi Lietuvos Respublikos įstatymais ir kitais teisės aktais, taip pat finansų įstaigos organų pasirinkta apskaitos politika, įgyvendinama atsižvelgiant į konkrečias sąlygas, verslo pobūdį ir vadovaujantis tarptautiniais ar verslo apskaitos standartais.
 
 2. Finansų įstaigos veiklos apskaitos sistema privalo būti organizuota taip, kad:
 
-1) finansinė atskaitomybė rodytų tikrą finansų įstaigos finansinę būklę ir veiklos rezultatus;
+1) finansinių ataskaitų rinkiniai rodytų tikrąją finansų įstaigos finansinę būklę ir veiklos rezultatus;
 
-2) sudarytų sąlygas finansų įstaigos vadovams saugiai ir patikimai naudoti bei valdyti finansų įstaigos turtą ir juo disponuoti;
+2) sudarytų sąlygas finansų įstaigos vadovams saugiai ir patikimai finansų įstaigos turtą naudoti, valdyti ir juo disponuoti;
 
 3) sudarytų sąlygas finansų įstaigos dalyviams ir įstatymų įgaliotoms institucijoms tikrinti ir kontroliuoti finansų įstaigos, jos vadovų ir kitų darbuotojų, turinčių teisę priimti sprendimus, dėl kurių atsiranda finansų įstaigos prievolės kitiems asmenims, veiklą ir finansų įstaigos finansinę būklę.
 
 3. Pasibaigus finansiniams metams, finansų įstaiga privalo:
 
-1) per 3 mėnesius nuo finansinių metų pabaigos, bet ne vėliau kaip prieš 10 dienų iki eilinio visuotinio finansų įstaigos dalyvių susirinkimo, sudaryti sąlygas finansų įstaigos dalyviams susipažinti, o jeigu tai nustatyta Lietuvos Respublikos įstatymuose – pateikti priežiūros institucijai audito įmonės patikrintą metinę finansinę atskaitomybę (metines finansines ataskaitas), sprendimo dėl pelno paskirstymo projektą bei auditoriaus išvadą;
+1) per 3 mėnesius nuo finansinių metų pabaigos, bet ne vėliau kaip prieš 10 dienų iki eilinio visuotinio finansų įstaigos dalyvių susirinkimo sudaryti sąlygas finansų įstaigos dalyviams susipažinti, o jeigu tai nustatyta Lietuvos Respublikos įstatymuose, – pateikti priežiūros institucijai audito įmonės patikrintą metinių finansinių ataskaitų rinkinį, sprendimo dėl pelno paskirstymo projektą ir auditoriaus išvadą;
 
-2) ne vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos finansų įstaigos dalyvių visuotinio susirinkimo sprendimu patvirtinti metinę finansinę atskaitomybę ir priimti sprendimą dėl pelno paskirstymo;
+2) ne vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos finansų įstaigos dalyvių visuotinio susirinkimo sprendimu patvirtinti metinių finansinių ataskaitų rinkinį ir priimti sprendimą dėl pelno paskirstymo;
 
-3) per 3 dienas po finansų įstaigos dalyvių visuotinio susirinkimo sprendimo dėl metinės finansinės atskaitomybės patvirtinimo priėmimo pateikti priežiūros institucijai šio susirinkimo patvirtintą metinę finansinę atskaitomybę ir sprendimą dėl pelno paskirstymo, jeigu finansų įstaigos veiklos priežiūrą nustato Lietuvos Respublikos įstatymai;
+3) per 3 dienas po finansų įstaigos dalyvių visuotinio susirinkimo sprendimo dėl metinių finansinių ataskaitų rinkinio patvirtinimo priėmimo pateikti priežiūros institucijai šio susirinkimo patvirtintą metinių finansinių ataskaitų rinkinį ir sprendimą dėl pelno paskirstymo, jeigu finansų įstaigos veiklos priežiūrą nustato Lietuvos Respublikos įstatymai;
 
-4) per 4 mėnesius nuo finansinių metų pabaigos Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka pateikti visuomenei metinę finansinę atskaitomybę ir auditoriaus išvadą, jeigu to reikalauja finansinių paslaugų teikimą ir finansų įstaigų veiklą reglamentuojantys Lietuvos Respublikos įstatymai;
+4) per 4 mėnesius nuo finansinių metų pabaigos Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka pateikti visuomenei metinių finansinių ataskaitų rinkinį ir auditoriaus išvadą, jeigu to reikalauja finansinių paslaugų teikimą ir finansų įstaigų veiklą reglamentuojantys Lietuvos Respublikos įstatymai;
 
-5) finansų įstaiga, globojanti (patronuojanti) kitas į finansinę grupę įeinančias finansų įstaigas, – per 4 mėnesius nuo finansinių metų pabaigos paskelbti metinę jungtinę (konsoliduotą) finansinę atskaitomybę Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
+5) finansų įstaiga, globojanti (patronuojanti) kitas į finansinę grupę įeinančias finansų įstaigas, – per 4 mėnesius nuo finansinių metų pabaigos paskelbti finansinės grupės metinių konsoliduotųjų finansinių ataskaitų rinkinį Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
 
-4. Finansų įstaigos dalyvių visuotinis susirinkimas negali svarstyti ir tvirtinti metinės finansinės atskaitomybės, jeigu neatliktas jos auditas.
+4. Finansų įstaigos dalyvių visuotinis susirinkimas negali svarstyti ir tvirtinti metinių finansinių ataskaitų rinkinio, jeigu neatliktas jo auditas.
 
-5. Finansų įstaigos dalyvių visuotinio susirinkimo sprendimas dėl pelno paskirstymo negalioja, jeigu nėra atliktas metinės finansinės atskaitomybės auditas.
+5. Finansų įstaigos dalyvių visuotinio susirinkimo sprendimas dėl pelno paskirstymo negalioja, jeigu nėra atliktas metinių finansinių ataskaitų rinkinio auditas.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
 
 44 straipsnis. Auditas
 
@@ -1086,7 +1102,11 @@ Nr. X-1680, 2008-07-03, Žin., 2008, Nr. 82-3237 (2008-07-19), i. k. 1081010ISTA
 
 45 straipsnis. Reikalavimai auditoriui ir audito įmonei
 
-1. Finansų įstaigos metinės finansinės  atskaitomybės auditą gali atlikti tik toks auditorius, kuris atitinka šiuos reikalavimus:
+1. Finansų įstaigos metinių finansinių ataskaitų rinkinių auditą gali atlikti tik toks auditorius, kuris atitinka šiuos reikalavimus:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
 
 1) turi galiojantį atestuoto auditoriaus pažymėjimą;
 
@@ -1096,7 +1116,11 @@ Nr. X-1680, 2008-07-03, Žin., 2008, Nr. 82-3237 (2008-07-19), i. k. 1081010ISTA
 
 4) nėra veikiamas kitų Lietuvos Respublikos audito įstatymo nustatytų sąlygų, galinčių turėti įtakos jo nepriklausomybei.
 
-2. Finansų įstaigos metinės finansinės atskaitomybės auditą gali atlikti tokia audito įmonė, kuri atitinka šiuos reikalavimus:
+2. Finansų įstaigos metinių finansinių ataskaitų rinkinių auditą gali atlikti tokia audito įmonė, kuri atitinka šiuos reikalavimus:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
 
 1) jos civilinė atsakomybė yra apdrausta Lietuvos Respublikos įstatymų nustatyta tvarka;
 
@@ -1114,7 +1138,11 @@ Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010IST
 
 Nr. X-1680, 2008-07-03, Žin., 2008, Nr. 82-3237 (2008-07-19), i. k. 1081010ISTA00X-1680
 
-4. Priežiūros institucijos sprendimu finansų įstaigoms, kurių veiklos priežiūrą nustato Lietuvos Respublikos įstatymai, gali būti uždrausta sudaryti sutartis dėl finansinės atskaitomybės audito su tomis audito įmonėmis, kurios neatitinka (nevykdo) šio straipsnio reikalavimų.
+4. Priežiūros institucijos sprendimu finansų įstaigoms, kurių veiklos priežiūrą nustato Lietuvos Respublikos įstatymai, gali būti uždrausta sudaryti sutartis dėl finansinių ataskaitų rinkinių audito su tomis audito įmonėmis, kurios neatitinka (nevykdo) šio straipsnio reikalavimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
 
 46 straipsnis. Auditoriaus ir audito įmonės pareigos
 
@@ -1122,7 +1150,11 @@ Nr. X-1680, 2008-07-03, Žin., 2008, Nr. 82-3237 (2008-07-19), i. k. 1081010ISTA
 
 2. Audito įmonė nedelsdama raštiškai praneša finansų įstaigos valdymo organams ir, gavusi jų nuomonę (komentarus) šiais klausimais, – priežiūros institucijai (jei audituojamos finansų įstaigos veiklos priežiūrą nustato Lietuvos Respublikos įstatymai), jeigu nustato faktus:
 
-1) dėl kurių auditorius bus priverstas atsisakyti pareikšti nuomonę apie finansų įstaigos metinę finansinę atskaitomybę arba pareikšti sąlyginę arba neigiamą nuomonę;
+1) dėl kurių auditorius bus priverstas atsisakyti pareikšti nuomonę apie finansų įstaigos metinių finansinių ataskaitų rinkinius arba pareikšti sąlyginę arba neigiamą nuomonę;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
 
 2) liudijančius nusikalstamą veiką, padarytus arba galinčius įvykti šiurkščius vidaus tvarkos pažeidimus;
 
@@ -1144,7 +1176,11 @@ Nr. X-1680, 2008-07-03, Žin., 2008, Nr. 82-3237 (2008-07-19), i. k. 1081010ISTA
 
 47 straipsnis. Audito įmonės ir auditoriaus atsakomybė
 
-1. Audito įmonė ir auditorius už audito atlikimą, auditoriaus išvados dėl audituotoje finansų įstaigos metinėje finansinėje atskaitomybėje pateiktų duomenų išsamumo, tikrumo ir tikslumo pateikimą atsako Lietuvos Respublikos įstatymų ir audito įmonės bei užsakovo pasirašytos sutarties dėl audito atlikimo nustatyta tvarka.
+1. Audito įmonė ir auditorius už audito atlikimą, auditoriaus išvados dėl audituotuose finansų įstaigos metinių finansinių ataskaitų rinkiniuose pateiktų duomenų išsamumo, tikrumo ir tikslumo pateikimą atsako Lietuvos Respublikos įstatymuose ir audito įmonės ir užsakovo pasirašytoje sutartyje dėl audito atlikimo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
 
 2. Audito įmonė turi atlyginti užsakovo, audituotos finansų įstaigos ar trečiųjų asmenų patirtus nuostolius įstatymų ir audito įmonės bei užsakovo pasirašytos sutarties dėl audito atlikimo nustatyta tvarka.
 
@@ -1180,7 +1216,11 @@ FINANSŲ ĮSTAIGŲ, TEIKIANČIŲ LICENCINES FINANSINES PASLAUGAS, VEIKLOS PRIEŽ
 
 3) nustatyti finansų įstaigų veiklos riziką ribojančius normatyvus bei jų dydžius ir kontroliuoti, kaip finansų įstaigos jų laikosi;
 
-4) nustatyti prižiūrimoms finansų įstaigoms apskaitos reikalavimus, finansinės ir priežiūrai skirtos atskaitomybės formą, turinį ir pateikimo priežiūros institucijai terminus;
+4) nustatyti prižiūrimoms finansų įstaigoms apskaitos reikalavimus, finansinių ir priežiūrai skirtų ataskaitų formą, turinį ir pateikimo priežiūros institucijai terminus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
 
 5) vertinti finansų įstaigos priežiūros tikslais teikiamos ir pagal įstatymus ar kitus teisės aktus privalomos visuomenei teikti informacijos patikimumą ir tikslumą;
 
@@ -1234,7 +1274,11 @@ Jeigu Lietuvos Respublikos įstatymai nenustato ko kita, yra šie finansų įsta
 
 1) licencijavimas: nagrinėjami prašymai ir priimami sprendimai dėl finansų įstaigų steigimo, licencijų verstis finansinių paslaugų teikimu išdavimo, finansų įstaigos įstatinio kapitalo ir (arba) balsavimo teisių kvalifikuotosios dalies įsigijimo ar valdymo, reorganizavimo ir kitais šio Įstatymo nustatytais atvejais, susijusiais su finansų įstaigų veiklos įteisinimu;
 
-2) dokumentinė priežiūra: analizuojama ir vertinama finansų įstaigos veikla remiantis jos pateikta finansine atskaitomybe ir kita iš finansų įstaigų bei kitų šaltinių gauta informacija;
+2) dokumentinė priežiūra: analizuojama ir vertinama finansų įstaigos veikla remiantis jos pateiktais finansinių ataskaitų rinkiniais ir kita iš finansų įstaigų bei kitų šaltinių gauta informacija;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
 
 3) finansų įstaigų tikrinimas (inspektavimas). Tai vykdoma Lietuvos Respublikos įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatyta tvarka tikrinant (inspektuojant) finansų įstaigų steigimo procedūras ir veiklą.
 
@@ -1324,7 +1368,11 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/48/EB dėl kredito įstaigų veiklos pradėjimo ir vykdymo (nauja redakcija) (OL 2006 L 177, p. 1).
+1. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/48/EB dėl kredito įstaigų veiklos pradėjimo ir vykdymo (nauja redakcija) (OL 2006 L 177, p. 1) su paskutiniais pakeitimais, padarytais 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/111/EB (OL 2009 L 302, p. 97).
+
+Punkto pakeitimai:
+
+Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
 
 2. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
 
@@ -1421,6 +1469,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
 
 Lietuvos Respublikos finansų įstaigų įstatymo 1, 2, 3 straipsnių pakeitimo ir priedo papildymo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
+
+Lietuvos Respublikos finansų įstaigų įstatymo 2, 23, 30, 43, 45, 46, 47, 50, 51 straipsnių ir Įstatymo priedo pakeitimo įstatymas
 
 381 straipsnis. Finansinių grupių jungtinė (konsoliduota) priežiūra
 
