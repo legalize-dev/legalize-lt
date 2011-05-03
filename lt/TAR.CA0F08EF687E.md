@@ -4,7 +4,7 @@ identifier: "TAR.CA0F08EF687E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-11"
-last_updated: "2010-07-10"
+last_updated: "2011-05-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CA0F08EF687E"
 department: "Lietuvos Respublikos Seimas"
@@ -328,9 +328,9 @@ tvarka ar (ir) sutarčių su suinteresuotomis šalimis nustatyta tvarka;
 
 administravimo įstaigų pajamos, tiesiogiai nesusijusios su socialiniu draudimu
 
-(palūkanos; dividendai; pajamų, gautinų pardavus ilgalaikį materialųjį turtą, dalis,
+(palūkanos; dividendai; pajamų, gautinų pardavus ilgalaikį materialųjį turtą,
 
-viršijanti jo likutinę vertę, ir kt.);
+dalis, viršijanti jo likutinę vertę, ir kt.);
 
 4) pajamos iš
 
@@ -342,9 +342,7 @@ pavestų funkcijų vykdymą;
 
 pajamos.
 
-Straipsnio
-
-pakeitimas:
+Straipsnio pakeitimas:
 
 Nr. XI-475,
 
@@ -434,9 +432,7 @@ draudimo fondui priklausančios baudų ir delspinigių sumos numatomos atskirai;
 
 ankstesnių metų Fondo biudžeto išlaidas iškeltos abejotinai atgautinos sumos –
 
-atsižvelgiant į atgautas sumas ir jų kitimo per paskutinius dvejus metus
-
-tendencijas;
+atsižvelgiant į atgautas sumas ir jų kitimo per paskutinius dvejus metus tendencijas;
 
 3) Fondo veiklos
 
@@ -454,11 +450,11 @@ iš valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių Fondo bi
 
 taip pat skiriami atsižvelgiant į Fondo finansinę padėtį, kai dėl Seimo ar
 
-Vyriausybės priimtų teisės aktų padidėja Fondo išlaidos arba sumažėja jo
+Vyriausybės priimtų teisės aktų padidėja Fondo išlaidos arba sumažėja jo pajamos,
 
-pajamos, o įmokų tarifai atskiroms socialinio draudimo rūšims nekeičiami arba
+o įmokų tarifai atskiroms socialinio draudimo rūšims nekeičiami arba keičiami
 
-keičiami nepakankamai. Sprendimą dėl šių papildomų asignavimų priima Seimas,
+nepakankamai. Sprendimą dėl šių papildomų asignavimų priima Seimas,
 
 tvirtindamas Fondo biudžetą atitinkamiems biudžetiniams metams.
 
@@ -544,25 +540,25 @@ sąnaudos – Fondo administravimo įstaigų valstybės tarnautojų ir darbuotoj
 
 darbo užmokesčio ir už juos mokamų įmokų sumos, prekių ir paslaugų įsigijimo,
 
-ilgalaikio materialiojo turto ir nematerialiojo turto nusidėvėjimo (amortizacijos)
+ilgalaikio materialiojo turto ir nematerialiojo turto nusidėvėjimo
 
-sąnaudos, ilgalaikio turto likutinės vertės dalis, viršijanti pajamas, gautinas
+(amortizacijos) sąnaudos, ilgalaikio turto likutinės vertės dalis, viršijanti
 
-pardavus šį turtą, kitos Fondo sąnaudos (palūkanos, delspinigiai, nuostolis dėl
+pajamas, gautinas pardavus šį turtą, kitos Fondo sąnaudos (palūkanos,
 
-į Fondo biudžeto apskaitą įtraukto turto vertės sumažėjimo ir kt.), patiriamos
+delspinigiai, nuostolis dėl į Fondo biudžeto apskaitą įtraukto turto vertės
 
-administruojant visų rūšių socialinį draudimą, socialinio draudimo išmokas,
+sumažėjimo ir kt.), patiriamos administruojant visų rūšių socialinį draudimą,
 
-mokamas pagal tarptautines sutartis ar Europos Sąjungos reglamentus dėl
+socialinio draudimo išmokas, mokamas pagal tarptautines sutartis ar Europos
 
-socialinės apsaugos, Fondo valdybos administruojamus registrus, pensijų
+Sąjungos reglamentus dėl socialinės apsaugos, Fondo valdybos administruojamus
 
-socialinio draudimo įmokų dalies pervedimą pensijų kaupimo bendrovėms, išmokų,
+registrus, pensijų socialinio draudimo įmokų dalies pervedimą pensijų kaupimo
 
-finansuojamų iš Lietuvos Respublikos valstybės biudžeto ar kitų šaltinių,
+bendrovėms, išmokų, finansuojamų iš Lietuvos Respublikos valstybės biudžeto ar
 
-apskaičiavimą ir mokėjimą.
+kitų šaltinių, apskaičiavimą ir mokėjimą.
 
 3. Fondo
 
@@ -576,9 +572,9 @@ Straipsnio
 
 pakeitimas:
 
-Nr. XI-308,
+Nr. XI-308, 2009-06-18,
 
-2009-06-18, Žin., 2009, Nr. 77-3172 (2009-06-30)
+Žin., 2009, Nr. 77-3172 (2009-06-30)
 
 6
 
@@ -632,11 +628,11 @@ paskutinius dvejus metus;
 
 sąnaudos – atsižvelgiant į Fondo administravimo įstaigų valstybės tarnautojų ir
 
-darbuotojų darbo užmokesčio kitimo prognozes, numatomus pokyčius Fondo
+darbuotojų darbo užmokesčio kitimo prognozes, numatomus pokyčius Fondo administravimo
 
-administravimo įstaigų sistemoje ir veiklos sąnaudų kitimo per paskutinius
+įstaigų sistemoje ir veiklos sąnaudų kitimo per paskutinius dvejus metus
 
-dvejus metus tendencijas.
+tendencijas.
 
 2.
 
@@ -1424,15 +1420,15 @@ biudžetą kitiems biudžetiniams metams Seimas tvirtina ne vėliau kaip likus 1
 
 kalendorinių dienų iki einamųjų biudžetinių metų pabaigos. Jeigu Fondo
 
-biudžetas laiku nepatvirtintas, prasidėjus naujiems biudžetiniams metams
+biudžetas laiku nepatvirtintas, prasidėjus naujiems biudžetiniams metams taikomi
 
-taikomi praėjusių biudžetinių metų įmokų tarifai, o Fondo veiklos sąnaudos nuo
+praėjusių biudžetinių metų įmokų tarifai, o Fondo veiklos sąnaudos nuo naujų
 
-naujų biudžetinių metų pradžios iki Fondo biudžeto patvirtinimo kiekvieną
+biudžetinių metų pradžios iki Fondo biudžeto patvirtinimo kiekvieną mėnesį
 
-mėnesį negali viršyti 1/12 praėjusiais biudžetiniais metais Fondo veiklos
+negali viršyti 1/12 praėjusiais biudžetiniais metais Fondo veiklos sąnaudoms
 
-sąnaudoms skirtų lėšų.
+skirtų lėšų.
 
 3. Patvirtinus
 
@@ -1450,17 +1446,19 @@ biudžeto rodiklių patvirtinimo įstatymu
 
 1. Fondo
 
-biudžeto rodiklių patvirtinimo įstatymu atitinkamiems biudžetiniams metams tvirtinami:
+biudžeto rodiklių patvirtinimo įstatymu atitinkamiems biudžetiniams metams
+
+tvirtinami:
 
 1) Fondo
 
 biudžetas (pajamos, išlaidos, planuojamas metų rezultatas);
 
-2) Fondo
+2) Fondo biudžeto
 
-biudžeto atitinkamų biudžetinių metų piniginės įplaukos ir išlaidos bei kasos
+atitinkamų biudžetinių metų piniginės įplaukos ir išlaidos bei kasos apyvartos
 
-apyvartos lėšos;
+lėšos;
 
 3) įmokų tarifai
 
@@ -1482,11 +1480,11 @@ tarifai;
 
 5) įmokų dydis
 
-asmenims, turintiems teisę mokėti sumažintas įmokas valstybinės socialinio draudimo
+asmenims, turintiems teisę mokėti sumažintas įmokas valstybinės socialinio
 
-pensijos pagrindinei daliai gauti, ir valstybės lėšomis kompensuojamų įmokų
+draudimo pensijos pagrindinei daliai gauti, ir valstybės lėšomis kompensuojamų
 
-dalies dydis;
+įmokų dalies dydis;
 
 6) įmokų
 
@@ -1556,11 +1554,11 @@ ir biudžetiniams metams priskirtinos Fondo išlaidos, priskaičiuotos už
 
 laikotarpius, sutampančius su biudžetinių metų laikotarpiu.
 
-3. Fondo
+3. Fondo piniginių
 
-piniginių įplaukų ir išlaidų ataskaitoje parodomos biudžetinių metų faktinės
+įplaukų ir išlaidų ataskaitoje parodomos biudžetinių metų faktinės pinigų
 
-pinigų įplaukos ir išlaidos.
+įplaukos ir išlaidos.
 
 KETVIRTASIS
 
@@ -1623,64 +1621,6 @@ biudžetiniams metams, nepanaudoti valstybės biudžeto asignavimai, skirti Fond
 biudžeto išmokėti, Biudžeto sandaros
 
 įstatymo nustatyta tvarka grąžinami į valstybės biudžetą.
-
-15 straipsnio redakcija iki 2011 m.
-
-sausio 1 d.:
-
-15
-
-straipsnis. Fondo biudžeto vykdymo ataskaitų rinkinio rengimas ir tvirtinimas
-
-1. Fondo
-
-biudžeto vykdymo ataskaitų rinkinį, finansinių ataskaitų rinkinį ir Fondo
-
-konsoliduotųjų ataskaitų rinkinį rengia Fondo valdyba.
-
-2. Kasmet, ne
-
-vėliau kaip iki balandžio 1 dienos, audito įmonė atlieka Fondo konsoliduotųjų
-
-ataskaitų rinkinio auditą ir patikrinimą, parengdama auditoriaus išvadą ir
-
-išvadą apie Fondo biudžeto vykdymo ataskaitų rinkinio patikrinimą.
-
-3.
-
-Fondo valdyba, suderinusi su Socialinės apsaugos ir darbo, Finansų ir
-
-Teisingumo ministerijomis, metinių Fondo konsoliduotųjų ataskaitų rinkinius
-
-kartu su išvada apie Fondo biudžeto vykdymo ataskaitų patikrinimą ir
-
-auditoriaus išvada pateikia svarstyti Fondo tarybai, o ši pateikia išvadą. Fondo
-
-valdyba šiuos ataskaitų rinkinius kartu su Fondo tarybos išvada, išvada apie
-
-Fondo biudžeto vykdymo ataskaitų patikrinimą ir auditoriaus išvada teikia
-
-Socialinės apsaugos ir darbo ministerijai.
-
-4.
-
-Socialinės apsaugos ir darbo ministerija metinių Fondo konsoliduotųjų ataskaitų
-
-rinkinius kasmet, ne vėliau kaip iki balandžio 30 dienos, nustatyta tvarka
-
-teikia svarstyti Vyriausybei.
-
-5. Vyriausybė,
-
-pritarusi metinių Fondo konsoliduotųjų ataskaitų rinkiniams, nustatyta tvarka
-
-pateikia juos tvirtinti Seimui. Metinių Fondo konsoliduotųjų ataskaitų
-
-rinkiniai tvirtinami Seimo nutarimu.
-
-15 straipsnio redakcija nuo 2011 m.
-
-sausio 1 d.:
 
 12 straipsnis.
 
@@ -1808,361 +1748,11 @@ balandžio 15 dienos, Fondo valdyba pateikia svarstyti Vyriausybei. Vyriausybė,
 
 pritarusi Fondo biudžeto vykdymo metų ataskaitai, pateikia ją tvirtinti Seimui.
 
-15 straipsnis. Fondo biudžeto vykdymo
+15 straipsnis taikomas sudarant 2010
 
-ataskaitų rinkinio rengimas ir tvirtinimas
+metų Valstybinio socialinio draudimo fondo biudžeto vykdymo ataskaitų rinkinį
 
-1. Metinių Fondo
-
-konsoliduotųjų ataskaitų rinkinį rengia Fondo valdyba ir kasmet, ne vėliau kaip
-
-iki kovo 1 dienos, teikia jį Lietuvos
-
-Respublikos valstybės kontrolei.
-
-2. Metinių Fondo
-
-konsoliduotųjų ataskaitų rinkinio auditą kasmet, ne vėliau kaip iki balandžio 1
-
-dienos, atlieka Lietuvos Respublikos valstybės kontrolė, kuri parengia
-
-valstybinio audito išvadą ir audito ataskaitą.
-
-3. Fondo
-
-valdyba, suderinusi su Socialinės apsaugos ir darbo, Finansų ir Teisingumo
-
-ministerijomis, metinių Fondo konsoliduotųjų ataskaitų rinkinį kartu su
-
-valstybinio audito išvada ir audito ataskaita pateikia svarstyti Fondo tarybai.
-
-Fondo valdyba metinių Fondo konsoliduotųjų ataskaitų rinkinį kartu su Fondo
-
-tarybos nuomone dėl jo, valstybinio audito išvada ir audito ataskaita kasmet,
-
-ne vėliau kaip iki balandžio 10 dienos, teikia
-
-Socialinės apsaugos ir darbo ministerijai.
-
-4. Socialinės
-
-apsaugos ir darbo ministerija metinių Fondo konsoliduotųjų ataskaitų
-
-rinkinį kartu su valstybinio audito išvada ir audito ataskaita kasmet,
-
-ne vėliau kaip iki balandžio 15 dienos, nustatyta tvarka teikia svarstyti
-
-Vyriausybei.
-
-5. Vyriausybė,
-
-pritarusi metinių Fondo konsoliduotųjų ataskaitų rinkiniui, nustatyta tvarka
-
-pateikia jį kartu su valstybinio audito išvada ir audito ataskaita tvirtinti
-
-Seimui. Metinių Fondo konsoliduotųjų ataskaitų rinkinys tvirtinamas Seimo
-
-nutarimu.
-
-Straipsnio
-
-pakeitimas:
-
-Nr. XI-932,
-
-2010-06-22, Žin., 2010, Nr. 81-4226 (2010-07-10)
-
-Skelbiu
-
-šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS
-
-ADAMKUS
-
-_______________
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. IX-871,
-
-2002-05-07, Žin., 2002, Nr. 52-1984 (2002-05-24)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO
-
-FONDO BIUDŽETO SANDAROS ĮSTATYMO 3, 5, 6 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-Šio Įstatymo 3 straipsnyje išdėstyto 6 straipsnio 3
-
-dalies nuostata, kad Fondo biudžeto veiklos sąnaudas sudaro ir Fondo įstaigų
-
-darbuotojų darbo apmokėjimo bei jų valstybinio socialinio draudimo sąnaudos,
-
-įsigalioja nuo 2002 m. liepos 1 d.
-
-Šis Įstatymas,
-
-išskyrus 1 straipsnį, įsigalioja nuo 2004 m. sausio 1 d. (pakeistas įstatymo įsigaliojimas)
-
-Tai nusako:
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. IX-1230, 2002-12-10,
-
-Žin., 2002, Nr. 123-5522 (2002-12-24)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO
-
-FONDO BIUDŽETO SANDAROS ĮSTATYMO 3, 5, 6 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 5
-
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-2.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. IX-1266,
-
-2002-12-10, Žin., 2002, Nr. 123-5551 (2002-12-24)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO
-
-FONDO BIUDŽETO SANDAROS ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis Įstatymas
-
-įsigalioja nuo 2003 m. sausio 1 d.
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1748,
-
-2003-10-07, Žin., 2003, Nr. 101-4535 (2003-10-29)
-
-VALSTYBINIO
-
-SOCIALINIO DRAUDIMO ĮSTATYMO IR VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO
-
-SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
-
-4.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-2540,
-
-2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
-
-NELAIMINGŲ
-
-ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO, ŽALOS
-
-ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA
-
-LAIKINOJO ĮSTATYMO, SVEIKATOS DRAUDIMO ĮSTATYMO, NEDARBO SOCIALINIO DRAUDIMO
-
-ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, VALSTYBINIO
-
-SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS
-
-INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34,
-
-36, 45 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, VALSTYBINIŲ
-
-SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54
-
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR
-
-VII SKYRIUMI ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10,
-
-28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-
-BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO,
-
-LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO
-
-ĮSTATYMAS
-
-Šis Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
-
-5.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. X-667, 2006-06-08,
-
-Žin., 2006, Nr. 72-2683 (2006-06-28)
-
-VALSTYBINIO
-
-SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
-
-ĮSTATYMAS
-
-Šis Įstatymas įsigalioja nuo 2006 m. liepos 1 d.
-
-6.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-751,
-
-2006-07-11, Žin., 2006, Nr. 82-3253 (2006-07-27)
-
-VALSTYBINIO
-
-SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Nauja
-
-įstatymo redakcija
-
-Šis įstatymas,
-
-išskyrus šio straipsnio 2 dalį, įsigalioja nuo 2007 m. sausio 1 d.
-
-7.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-1213,
-
-2007-06-26, Žin., 2007, Nr. 77-3047 (2007-07-12)
-
-VALSTYBINIO
-
-SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Nauja
-
-įstatymo redakcija
-
-Šis įstatymas
-
-įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai
-
-privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1
-
-dieną.
-
-Pakeitimas:
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. X-1829, 2008-11-14,
-
-Žin., 2008, Nr. 137-5378 (2008-11-29)
-
-VALSTYBINIO SOCIALINIO DRAUDIMO
-
-FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Nauja įstatymo redakcija
-
-Naujos
-
-įstatymo redakcijos pakeitimas:
-
-1)
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-XI-308,
-
-2009-06-18, Žin., 2009, Nr. 77-3172 (2009-06-30)
-
-VALSTYBINIO
-
-SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO 1
-
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-2)
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-XI-475,
-
-2009-11-12, Žin., 2009, Nr. 141-6198 (2009-11-28)
-
-VALSTYBINIO
-
-SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO 1
-
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-932,
-
-2010-06-22, Žin., 2010, Nr. 81-4226 (2010-07-10)
-
-VALSTYBINIO
-
-SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 2, 15 STRAIPSNIŲ PAKEITIMO
-
-IR PAPILDYMO ĮSTATYMAS
-
-Šis įstatymas, išskyrus 4 straipsnį,
-
-įsigalioja 2011 m. sausio 1 d.
-
-Šis įstatymas taikomas Fondo sudarytam
-
-2011 metų ir vėlesnių metų metinių konsoliduotųjų ataskaitų rinkiniui.
-
-*** Pabaiga ***
-
-Redagavo Aušrinė Trapinskienė
-
-(2010-07-15)
-
-autrap@lrs.lt
+ir galioja iki 2011 m. gruodžio 31 d.:
 
 4 straipsnis Fondo biudžeto pajamų planavimas
 
