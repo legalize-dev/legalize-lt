@@ -4,7 +4,7 @@ identifier: "TAR.C7A984833333"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-16"
-last_updated: "2011-05-01"
+last_updated: "2011-05-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7A984833333"
 department: "Lietuvos Respublikos Seimas"
@@ -1325,15 +1325,15 @@ techninės priežiūros technologiją ir atlieka geležinkelių riedmenų techni
 
 priežiūrą, užtikrindamas, kad ji būtų atliekama šio įstatymo nustatyta tvarka.
 
-Parengti techninės priežiūros technologiją ir atlikti geležinkelių riedmenų
+Parengti techninės priežiūros technologiją ir atlikti geležinkelių riedmenų techninę
 
-techninę priežiūrą gali ir kiti asmenys, sudarę sutartį su techniniu
+priežiūrą gali ir kiti asmenys, sudarę sutartį su techniniu prižiūrėtoju.
 
-prižiūrėtoju. Visais atvejais techninis prižiūrėtojas atsako už šioje dalyje
+Visais atvejais techninis prižiūrėtojas atsako už šioje dalyje nurodytų veiklų
 
-nurodytų veiklų atlikimą ir užtikrina saugų geležinkelių riedmenų naudojimą
+atlikimą ir užtikrina saugų geležinkelių riedmenų naudojimą geležinkelių
 
-geležinkelių sistemoje.
+sistemoje.
 
 5. Techninis prižiūrėtojas, išskyrus šio
 
@@ -1343,9 +1343,7 @@ priežiūros sistemą, vadovaudamasis:
 
 1) geležinkelių riedmenų gamintojo
 
-pateiktomis geležinkelių riedmenų techninės priežiūros taisyklėmis ir (ar)
-
-instrukcijomis;
+pateiktomis geležinkelių riedmenų techninės priežiūros taisyklėmis ir (ar) instrukcijomis;
 
 2) geležinkelių infrastruktūros valdytojo
 
@@ -1397,9 +1395,9 @@ reikalavimus. Jeigu prekinių vagonų techninis prižiūrėtojas yra geležinkel
 
 infrastruktūros valdytojas ar geležinkelio įmonė (vežėjas), prekinių vagonų
 
-atitiktį šioje straipsnio dalyje nustatytiems reikalavimams patikrina eismo saugos
+atitiktį šioje straipsnio dalyje nustatytiems reikalavimams patikrina eismo
 
-institucija, teisės aktų nustatyta tvarka geležinkelių infrastruktūros
+saugos institucija, teisės aktų nustatyta tvarka geležinkelių infrastruktūros
 
 valdytojams išduodama įgaliojimus eismo saugos srityje ar geležinkelio įmonėms
 
@@ -1441,19 +1439,19 @@ taisyklėse nustatytus reikalavimus atitinkančią prekinių vagonų priežiūro
 
 sistemą ir apie tai informuoja eismo saugos instituciją, pateikdamas tai
 
-patvirtinančius dokumentus. Jeigu asmuo, pageidaujantis gauti techninio prižiūrėtojo
+patvirtinančius dokumentus. Jeigu asmuo, pageidaujantis gauti techninio
 
-sertifikatą, per eismo saugos institucijos nustatytą laiką nepašalina jo
+prižiūrėtojo sertifikatą, per eismo saugos institucijos nustatytą laiką
 
-nustatytos prekinių vagonų techninės priežiūros sistemos trūkumų ir (ar)
+nepašalina jo nustatytos prekinių vagonų techninės priežiūros sistemos trūkumų
 
-neprideda reikalaujamų dokumentų, prašymas išduoti techninio prižiūrėtojo
+ir (ar) neprideda reikalaujamų dokumentų, prašymas išduoti techninio
 
-sertifikatą paliekamas nenagrinėtas ir apie tai per 3 darbo dienas nuo
+prižiūrėtojo sertifikatą paliekamas nenagrinėtas ir apie tai per 3 darbo dienas
 
-sprendimo nenagrinėti šio prašymo dienos informuojamas techninis prižiūrėtojas,
+nuo sprendimo nenagrinėti šio prašymo dienos informuojamas techninis
 
-pageidaujantis gauti techninio prižiūrėtojo sertifikatą.
+prižiūrėtojas, pageidaujantis gauti techninio prižiūrėtojo sertifikatą.
 
 11.
 
@@ -1561,9 +1559,9 @@ riedmenų skiriamieji ženklai
 
 1. Visi geležinkelių riedmenys turi būti paženklinti
 
-tam skirtoje vietoje nurodytu Europos geležinkelių riedmenų numeriu. Geležinkelių
+tam skirtoje vietoje nurodytu Europos geležinkelių riedmenų numeriu.
 
-riedmenų ženklinimo tvarką reglamentuoja atitinkamos TSS ir kiti teisės aktai.
+Geležinkelių riedmenų ženklinimo tvarką reglamentuoja atitinkamos TSS ir kiti teisės aktai.
 
 2. Geležinkelių transporto eismui leidžiama naudoti
 
@@ -1623,15 +1621,15 @@ jiems išvykstant į reisą tvarką nustato darbdavys.
 
 6. Geležinkelių infrastruktūros valdytojai,
 
-geležinkelio įmonės (vežėjai) užtikrina, kad jų darbuotojai, kurių darbas susijęs
+geležinkelio įmonės (vežėjai) užtikrina, kad jų darbuotojai, kurių darbas
 
-su geležinkelių transporto eismu, turėtų lygias galimybes kelti kvalifikaciją.
+susijęs su geležinkelių transporto eismu, turėtų lygias galimybes kelti
 
-Geležinkelių infrastruktūros valdytojai, geležinkelio įmonės (vežėjai) atsako
+kvalifikaciją. Geležinkelių infrastruktūros valdytojai, geležinkelio įmonės
 
-už darbuotojų, kurių darbas susijęs su geležinkelių transporto eismu, mokymų
+(vežėjai) atsako už darbuotojų, kurių darbas susijęs su geležinkelių transporto
 
-lygį ir kvalifikaciją.
+eismu, mokymų lygį ir kvalifikaciją.
 
 7. Darbuotojų, kurių darbas susijęs su geležinkelių
 
@@ -1675,9 +1673,9 @@ IV
 
 SKYRIUS
 
-TEISĖS VALDYTI
+TEISĖS VALDYTI GELEŽINKELIŲ
 
-GELEŽINKELIŲ RIEDMENIS SUTEIKIMAS, ŠIOS TEISĖS ATĖMIMAS IR GRĄŽINIMAS
+RIEDMENIS SUTEIKIMAS, ŠIOS TEISĖS ATĖMIMAS IR GRĄŽINIMAS
 
 17 straipsnis. Teisės
 
@@ -1695,17 +1693,17 @@ mašinisto pažymėjimai ir traukinio mašinisto sertifikatai privalo atitikti
 
 Lietuvos Respublikos susisiekimo ministro nustatytus reikalavimus.
 
-3. Eismo saugos institucija privalo užtikrinti
+3. Eismo saugos institucija privalo užtikrinti nuolatinę
 
-nuolatinę su traukinio mašinisto mokymu, traukinio mašinisto pažymėjimų ir
+su traukinio mašinisto mokymu, traukinio mašinisto pažymėjimų ir traukinio
 
-traukinio mašinisto sertifikatų išdavimu susijusios veiklos stebėseną,
+mašinisto sertifikatų išdavimu susijusios veiklos stebėseną, atliekamą
 
-atliekamą vadovaujantis eismo saugos institucijos nustatyta kokybės valdymo
+vadovaujantis eismo saugos institucijos nustatyta kokybės valdymo sistema. Šios
 
-sistema. Šios stebėsenos eismo valdymo institucija neatlieka, jeigu atlikti
+stebėsenos eismo valdymo institucija neatlieka, jeigu atlikti tokios veiklos
 
-tokios veiklos stebėseną numatyta eismo saugos valdymo sistemose.
+stebėseną numatyta eismo saugos valdymo sistemose.
 
 Pastaba. 17 straipsnio 3 dalis
 
@@ -1789,23 +1787,23 @@ mašinisto sertifikatą, turi turėti galiojantį traukinio mašinisto pažymėj
 
 2. Traukinio mašinisto sertifikatą
 
-išduoda geležinkelių infrastruktūros valdytojas ar geležinkelio įmonė
+išduoda geležinkelių infrastruktūros valdytojas ar geležinkelio įmonė (vežėjas),
 
-(vežėjas), kurie yra sudarę su traukinio mašinistu darbo sutartį. Šis
+kurie yra sudarę su traukinio mašinistu darbo sutartį. Šis dokumentas priklauso
 
-dokumentas priklauso jį išdavusiam asmeniui, tačiau traukinio mašinistas turi
+jį išdavusiam asmeniui, tačiau traukinio mašinistas turi teisę gauti teisės
 
-teisę gauti teisės aktų nustatyta tvarka patvirtintą traukinio mašinisto
+aktų nustatyta tvarka patvirtintą traukinio mašinisto sertifikato kopiją.
 
-sertifikato kopiją. Traukinio mašinisto sertifikatas išduodamas geležinkelių
+Traukinio mašinisto sertifikatas išduodamas geležinkelių infrastruktūros
 
-infrastruktūros valdytojo, geležinkelio įmonės (vežėjo) nustatyta tvarka.
+valdytojo, geležinkelio įmonės (vežėjo) nustatyta tvarka. Išdavęs traukinio
 
-Išdavęs traukinio mašinisto sertifikatą, geležinkelių infrastruktūros
+mašinisto sertifikatą, geležinkelių infrastruktūros valdytojas, geležinkelio
 
-valdytojas, geležinkelio įmonė (vežėjas) apie
+įmonė (vežėjas) apie tai nedelsdami
 
-tai nedelsdami informuoja eismo saugos instituciją.
+informuoja eismo saugos instituciją.
 
 3. Traukinio
 
@@ -1967,11 +1965,11 @@ riedmenis suteikimą;
 
 2. Teisė valdyti geležinkelių riedmenis traukinio
 
-mašinistui, iš kurio ji buvo atimta pagal šio straipsnio 1 dalies 1 punktą,
+mašinistui, iš kurio ji buvo atimta pagal šio straipsnio 1 dalies 1 punktą, grąžinama,
 
-grąžinama, kai jo sveikatos būklė atitinka šiame įstatyme ir kituose teisės
+kai jo sveikatos būklė atitinka šiame įstatyme ir kituose teisės aktuose
 
-aktuose nustatytus reikalavimus.
+nustatytus reikalavimus.
 
 3. Teisė valdyti geležinkelių riedmenis traukinio
 
@@ -2023,23 +2021,21 @@ geležinkelių riedmenis. Prieš pradėdamas valdyti geležinkelių riedmenis,
 
 traukinio mašinistas privalo įsitikinti, ar geležinkelių riedmenys yra
 
-tvarkingi, ar juose yra visos privalomos priemonės, taip pat valdydamas
+tvarkingi, ar juose yra visos privalomos priemonės, taip pat valdydamas važiuojančius
 
-važiuojančius geležinkelių riedmenis stebėti geležinkelių riedmenų techninę
-
-būklę.
+geležinkelių riedmenis stebėti geležinkelių riedmenų techninę būklę.
 
 4. Traukinio mašinistas privalo su savimi turėti ir
 
-kompetentingos institucijos pareigūno ar valstybės tarnautojo reikalavimu pateikti
+kompetentingos institucijos pareigūno ar valstybės tarnautojo reikalavimu
 
-traukinio mašinisto pažymėjimą, traukinio mašinisto sertifikato kopiją,
+pateikti traukinio mašinisto pažymėjimą, traukinio mašinisto sertifikato
 
-patvirtintą teisės aktų nustatyta tvarka, geležinkelių riedmenų registravimo,
+kopiją, patvirtintą teisės aktų nustatyta tvarka, geležinkelių riedmenų
 
-privalomosios techninės apžiūros ir kitus Lietuvos Respublikos įstatymų ir kitų
+registravimo, privalomosios techninės apžiūros ir kitus Lietuvos Respublikos
 
-teisės aktų nustatytus dokumentus.
+įstatymų ir kitų teisės aktų nustatytus dokumentus.
 
 5. Geležinkelio įmonė (vežėjas) turi teisę
 
@@ -2139,11 +2135,11 @@ būklė nebeatitinka teisės aktų nustatytų reikalavimų, jis nedelsdamas turi
 
 tai pranešti savo darbdaviui.
 
-4. Kai traukinio mašinistas savo darbdaviui praneša,
+4. Kai traukinio mašinistas savo darbdaviui praneša, kad
 
-kad jo sveikatos būklė nebeatitinka teisės aktuose nustatytų reikalavimų, ar
+jo sveikatos būklė nebeatitinka teisės aktuose nustatytų reikalavimų, ar apie
 
-apie tai traukinio mašinisto darbdaviui praneša gydytojai, traukinio mašinisto
+tai traukinio mašinisto darbdaviui praneša gydytojai, traukinio mašinisto
 
 darbdavys nedelsdamas nušalina traukinio mašinistą nuo geležinkelių riedmenų
 
@@ -2163,9 +2159,9 @@ instituciją apie traukinio mašinistus, kurie yra nedarbingi daugiau kaip tris
 
 mėnesius.
 
-24 straipsnis. Traukinio
+24 straipsnis. Traukinio mašinistų
 
-mašinistų periodiniai patikrinimai ir jų kontrolė
+periodiniai patikrinimai ir jų kontrolė
 
 1. Eismo saugos institucija turi teisę bet kuriuo metu
 
@@ -2199,37 +2195,41 @@ priemonių:
 
 turėtojui keliamais reikalavimais, Lietuvos Respublikos susisiekimo ministro
 
-nustatyta tvarka sustabdo traukinio mašinisto pažymėjimo galiojimą. Apie tokį
+nustatyta tvarka sustabdo traukinio mašinisto pažymėjimo galiojimą. Apie tokį savo
 
-savo sprendimą eismo saugos institucija nedelsdama informuoja traukinio
+sprendimą eismo saugos institucija nedelsdama informuoja traukinio mašinistą ir
 
-mašinistą ir jo darbdavį;
+jo darbdavį;
 
-*2) jeigu tai susiję su traukinio mašinistu, kuriam
+2) jeigu tai susiję su traukinio
 
-traukinio mašinisto pažymėjimą išdavė kitos Europos Sąjungos valstybės narės
+mašinistu, kuriam traukinio mašinisto pažymėjimą išdavė kitos Europos Sąjungos
 
-kompetentinga institucija, eismo saugos institucija kreipiasi į tą instituciją
+valstybės narės kompetentinga institucija, eismo saugos institucija kreipiasi į
 
-su prašymu atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto
+tą instituciją su prašymu atlikti išsamesnį tyrimą arba sustabdyti traukinio
 
-pažymėjimo galiojimą. Eismo saugos institucija, gavusi iš kitos Europos Sąjungos
+mašinisto pažymėjimo galiojimą. Eismo saugos institucija apie savo prašymą
 
-valstybės narės kompetentingos institucijos prašymą atlikti išsamesnį tyrimą
+atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto pažymėjimo
 
-arba sustabdyti traukinio mašinisto pažymėjimo galiojimą, apie tai nedelsdama
+galiojimą nedelsdama informuoja Europos Komisiją ir kitas Europos Sąjungos
 
-informuoja Europos Komisiją ir kitas suinteresuotas kompetentingas
+valstybių narių suinteresuotas kompetentingas institucijas. Tuo atveju, kai
 
-institucijas, išnagrinėja prašymą per keturias savaites nuo prašymo gavimo
+prašymą atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto pažymėjimo
 
-dienos ir apie savo sprendimą informuoja prašymą pateikusią kompetentingą
+galiojimą iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos
 
-instituciją, Europos Komisiją ir kitas suinteresuotas Europos Sąjungos
+gauna eismo saugos institucija, šį prašymą ji išnagrinėja per keturias savaites
 
-valstybių narių kompetentingas institucijas. Eismo saugos institucija turi
+nuo prašymo gavimo dienos ir apie savo sprendimą informuoja prašymą pateikusią
 
-teisę neleisti traukinio mašinistui dirbti tol, kol bus gautas susijusios
+kompetentingą instituciją, Europos Komisiją ir kitas suinteresuotas Europos
+
+Sąjungos valstybių narių kompetentingas institucijas. Eismo saugos institucija
+
+turi teisę neleisti traukinio mašinistui dirbti tol, kol bus gautas susijusios
 
 kompetentingos institucijos, į kurią buvo kreiptasi su prašymu, atsakymas; tuo
 
@@ -2245,17 +2245,17 @@ sertifikatu, eismo saugos institucija kreipiasi į šį dokumentą išdavusį as
 
 su prašymu atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto
 
-sertifikato galiojimą. Prašymą gavęs asmuo privalo nedelsdamas imtis priemonių,
+sertifikato galiojimą. Prašymą gavęs Lietuvos Respublikoje įregistruotas asmuo
 
-per keturias savaites nuo prašymo gavimo dienos jį išnagrinėti ir apie savo
+privalo nedelsdamas imtis priemonių, per keturias savaites nuo prašymo gavimo
 
-sprendimą informuoti eismo saugos instituciją. Eismo saugos institucija turi
+dienos jį išnagrinėti ir apie savo sprendimą informuoti eismo saugos
 
-teisę neleisti traukinio mašinistui dirbti tol, kol bus gautas atsakymas, ir
+instituciją. Eismo saugos institucija turi teisę neleisti traukinio mašinistui
 
-turi apie tai informuoti Europos Komisiją ir kitas susijusias kompetentingas
+dirbti tol, kol bus gautas atsakymas, ir turi apie tai informuoti Europos
 
-institucijas.
+Komisiją ir kitas susijusias kompetentingas institucijas.
 
 Pastaba.
 
@@ -2285,6 +2285,14 @@ Pastaba.
 
 24 straipsnio 5 ir 6 dalys įsigalioja 2011 m. rugsėjo 1 d.
 
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-1333,
+
+2011-04-19, Žin., 2011, Nr. 52-2508 (2011-05-03)
+
 25 straipsnis.
 
 Traukinio mašinistų registras ir traukinio mašinisto sertifikatų sąrašai
@@ -2299,11 +2307,11 @@ susisiekimo ministras, ir kitų teisės aktų nustatyta tvarka.
 
 2. Traukinio mašinistų registrą steigia
 
-Lietuvos Respublikos susisiekimo ministerija, kuri yra ir vadovaujančioji šio
+Lietuvos Respublikos susisiekimo ministerija. Vadovaujančioji šio registro
 
-registro įstaiga. Traukinio mašinistų registro tvarkymo įstaigos funkcijas
+tvarkymo įstaiga yra Susisiekimo ministerija arba jos įgaliota institucija,
 
-atlieka eismo saugos institucija.
+Traukinio mašinistų registro tvarkymo įstaiga – eismo saugos institucija.
 
 3. Eismo saugos institucija, vykdydama
 
@@ -2359,17 +2367,17 @@ narių kompetentingoms institucijoms, kai jos tokios informacijos prašo ir kai
 
 tai reikalinga jų vykdomai tarptautinei veiklai.
 
-6. Traukinio mašinistui turi būti suteikta
+6. Traukinio mašinistui turi būti
 
-galimybė susipažinti su apie jį kaupiamais duomenimis, tvarkomais Traukinio
+suteikta galimybė susipažinti su apie jį kaupiamais duomenimis, tvarkomais
 
-mašinistų registre ir sudaromuose traukinio mašinistų sertifikatų sąrašuose.
+Traukinio mašinistų registre ir sudaromuose traukinio mašinistų sertifikatų
 
-Traukinio mašinistui pareikalavus, turi būti pateiktas išrašas iš Traukinio
+sąrašuose. Traukinio mašinistui pareikalavus, turi būti pateiktas išrašas iš
 
-mašinistų registro arba traukinio mašinistų sertifikatų sąrašo su apie jį
+Traukinio mašinistų registro arba traukinio mašinistų sertifikatų sąrašo su
 
-kaupiamais duomenimis.
+apie jį kaupiamais duomenimis.
 
 7. Eismo saugos institucija
 
@@ -2407,17 +2415,17 @@ sukelti katastrofas. Katastrofų tyrimų vadovas, priimdamas sprendimus ir
 
 atlikdamas jam priskirtas funkcijas, turi būti nepriklausomas nuo eismo saugos
 
-institucijos, bet kurios geležinkelių transporto kontrolės funkcijas
+institucijos, bet kurios geležinkelių transporto kontrolės funkcijas atliekančios
 
-atliekančios institucijos ar įstaigos, geležinkelių infrastruktūros valdytojų,
+institucijos ar įstaigos, geležinkelių infrastruktūros valdytojų, geležinkelio
 
-geležinkelio įmonių (vežėjų) rinkliavą už naudojimąsi viešąja geležinkelių
+įmonių (vežėjų) rinkliavą už naudojimąsi viešąja geležinkelių infrastruktūra
 
-infrastruktūra renkančios organizacijos, viešosios geležinkelių infrastruktūros
+renkančios organizacijos, viešosios geležinkelių infrastruktūros pajėgumus
 
-pajėgumus skiriančios organizacijos, paskelbtosios (notifikuotos) institucijos
+skiriančios organizacijos, paskelbtosios (notifikuotos) institucijos ir bet
 
-ir bet kurio asmens, kurio interesai gali nesutapti su katastrofų tyrimų vadovo
+kurio asmens, kurio interesai gali nesutapti su katastrofų tyrimų vadovo
 
 uždaviniais. Katastrofų tyrimo vadovo veiklai turi būti skiriami pakankami
 
@@ -2433,13 +2441,13 @@ eismo įvykių, katastrofų ir riktų ataskaitų rengimo tvarką, geležinkelių
 
 infrastruktūros valdytojų, geležinkelio įmonių (vežėjų) katastrofų tyrimų
 
-vadovo ir eismo saugos institucijos pareigas ir teises reglamentuoja Lietuvos Respublikos
+vadovo ir eismo saugos institucijos pareigas ir teises reglamentuoja Lietuvos
 
-susisiekimo ministro patvirtinti Geležinkelių transporto eismo įvykių,
+Respublikos susisiekimo ministro patvirtinti Geležinkelių transporto eismo
 
-katastrofų ir riktų tyrimo ir jų padarinių likvidavimo nuostatai ir kiti teisės
+įvykių, katastrofų ir riktų tyrimo ir jų padarinių likvidavimo nuostatai ir kiti
 
-aktai.
+teisės aktai.
 
 4. Eismo įvykių,
 
@@ -2557,9 +2565,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-542,
+X-542, 2006-03-30,
 
-2006-03-30, Žin., 2006, Nr. 42-1505 (2006-04-15)
+Žin., 2006, Nr. 42-1505 (2006-04-15)
 
 GELEŽINKELIŲ
 
