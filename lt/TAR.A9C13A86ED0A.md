@@ -4,7 +4,7 @@ identifier: "TAR.A9C13A86ED0A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2011-03-17"
+last_updated: "2011-05-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A9C13A86ED0A"
 department: "Lietuvos Respublikos Seimas"
@@ -2078,37 +2078,43 @@ civiliams krašto apsaugos sistemos tarnautojams, kuriuos pratybas rengianti
 
 šalis yra pakvietusi stebėtojais.
 
-*5. NVS šalių
+5. NVS šalių
 
 kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai
 
 gali dalyvauti Lietuvos Respublikos teritorijoje organizuojamuose kituose
 
-renginiuose, jeigu vienu metu bendras NVS valstybių karių ir karinėms pajėgoms
+renginiuose, kurie organizuojami plėtojant Lietuvos Respublikos tarptautinį karinį
 
-priskirtų civilių tarnautojų skaičius yra mažesnis negu Lietuvos kariuomenės
+bendradarbiavimą Lietuvos valstybės ir kitų kolektyvinės gynybos sutarties
 
-dalinio (bent dviejų kuopų) karių ir civilių krašto apsaugos sistemos
+šalių bei tarptautinio ar regioninio saugumo užtikrinimo tikslais ir yra
 
-tarnautojų skaičius. NVS šalių kariniai vienetai gali atvykti į Lietuvos
+valdomi bei kontroliuojami Lietuvos Respublikos. Bendras NVS valstybių karių ir
 
-Respublikoje organizuojamus kitus renginius ne daugiau kaip dviem savaitėms.
+karinėms pajėgoms priskirtų civilių tarnautojų, vienu metu dalyvaujančių
 
-*Pastaba. Pripažinti, kad
+kituose renginiuose Lietuvos Respublikoje, skaičius turi būti mažesnis, negu
 
-Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio
+Lietuvos kariuomenės dalinio (bent dviejų kuopų) karių ir civilių krašto
 
-bendradarbiavimo renginių įstatymo (2002 m. sausio 15 d. redakcija; Žin., 2002,
+apsaugos sistemos tarnautojų skaičius. NVS šalių kariniai vienetai gali atvykti
 
-Nr. 13-465) 14 straipsnio 5 dalis prieštarauja Lietuvos Respublikos
+į Lietuvos Respublikoje organizuojamus kitus renginius ir būti Lietuvos
 
-konstitucinio akto „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų
+Respublikos teritorijoje tik to renginio metu.
 
-sąjungas“ 3 straipsniui.
+Straipsnio
+
+pakeitimai:
 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 2011-03-15, Žin., 2011, Nr. 32-1503 (2011-03-17)
+
+Nr. XI-1331,
+
+2011-04-19, Žin., 2011, Nr. 52-2506 (2011-05-03)
 
 V SKYRIUS
 
@@ -2184,7 +2190,11 @@ TARPTAUTINĖSE OPERACIJOSE” PAKEITIMO ĮSTATYMAS
 
 Nauja
 
-įstatymo redakcija (keistas įstatymo pavadinimas)
+įstatymo redakcija
+
+Keistas
+
+įstatymo pavadinimas
 
 3.
 
@@ -2224,7 +2234,9 @@ Nauja
 
 įstatymo redakcija
 
-(keistas įstatymo pavadinimas)
+Keistas
+
+įstatymo pavadinimas
 
 5.
 
@@ -2234,9 +2246,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1994, 2004-01-29,
+IX-1994,
 
-Žin., 2004, Nr. 25-762 (2004-02-14)
+2004-01-29, Žin., 2004, Nr. 25-762 (2004-02-14)
 
 TARPTAUTINIŲ
 
@@ -2288,6 +2300,22 @@ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 4 STRAIPSNIO PAPILDYMO
 
 įsigalioja 2009 m. liepos 1 d.
 
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-1331,
+
+2011-04-19, Žin., 2011, Nr. 52-2506 (2011-05-03)
+
+TARPTAUTINIŲ OPERACIJŲ, PRATYBŲ
+
+IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -2308,11 +2336,13 @@ DĖL LIETUVOS RESPUBLIKOS
 
 TARPTAUTINIŲ OPERACIJŲ, PRATYBŲ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ
 
-ĮSTATYMO (2002 M. SAUSIO 15 D. REDAKCIJA) 5 STRAIPSNIO 1, 2, 3, 4 DALIŲ, 6 STRAIPSNIO
+ĮSTATYMO (2002 M. SAUSIO 15 D. REDAKCIJA) 5 STRAIPSNIO 1, 2, 3, 4 DALIŲ, 6
 
-2, 3, 4 DALIŲ, 10 STRAIPSNIO (2005 M. GEGUŽĖS 12 D. REDAKCIJA) 1, 2, 3 DALIŲ,
+STRAIPSNIO 2, 3, 4 DALIŲ, 10 STRAIPSNIO (2005 M. GEGUŽĖS 12 D. REDAKCIJA) 1, 2,
 
-14 STRAIPSNIO 2, 3, 5 DALIŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+3 DALIŲ, 14 STRAIPSNIO 2, 3, 5 DALIŲ ATITIKTIES LIETUVOS RESPUBLIKOS
+
+KONSTITUCIJAI
 
 ***
 
@@ -2320,7 +2350,7 @@ Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2011-03-21)
+Aušrinė Trapinskienė (2011-05-04)
 
 ausrine.trapinskiene@lrs.lt
 
