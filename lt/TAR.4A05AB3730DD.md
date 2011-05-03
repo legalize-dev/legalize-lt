@@ -4,7 +4,7 @@ identifier: "TAR.4A05AB3730DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-12-10"
-last_updated: "2009-12-28"
+last_updated: "2011-05-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A05AB3730DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,6 +17,10 @@ eu_legal_act: "true"
 # Lietuvos Respublikos mokėjimo įstaigų įstatymas
 
 LIETUVOS RESPUBLIKOS MOKĖJIMO ĮSTAIGŲ ĮSTATYMAS
+
+Suvestinė redakcija nuo 2011-05-03 iki 2013-12-31
+
+Įstatymas paskelbtas: Žin. 2009, Nr. 153-6887, i. k. 1091010ISTA00XI-549
 
 LIETUVOS RESPUBLIKOS
 
@@ -330,17 +334,21 @@ MOKĖJIMO ĮSTAIGOS NUOSAVO KAPITALO IR APSAUGOS REIKALAVIMAI
 
 1. Mokėjimo įstaigos minimalų nuosavą kapitalą sudaro:
 
-1) įstatinis kapitalas (sumažintas supirktų savų akcijų verte) be privilegijuotųjų akcijų su kaupiamuoju dividendu vertės;
+1) įstatinis kapitalas (sumažintas supirktų savų akcijų verte) be privilegijuotųjų akcijų vertės;
 
 2) atsargos kapitalas (atsargos rezervas);
 
-3) kapitalo rezervas (emisinis skirtumas);
+3) kapitalo rezervas (emisinis skirtumas) be su privilegijuotųjų akcijų išleidimu susijusios sumos;
 
-4) nepaskirstytasis pelnas arba nuostoliai;
+4) nepaskirstytasis pelnas (atėmus einamųjų metų tarpinio nepaskirstytojo pelno arba paskutinių praėjusių metų nepaskirstytojo pelno, dėl kurio dar nepriimtas eilinio visuotinio akcininkų susirinkimo sprendimas, sumą, jei audito įmonė nėra atlikusi atitinkamo laikotarpio finansinių ataskaitų rinkinių audito ir priežiūros institucijai nepateikti duomenys, įrodantys, kad pelno suma yra teisinga ir iš jos atimti visi numatomi mokesčiai ar dividendai) arba nuostoliai;
 
 5) privalomasis rezervas arba rezervinis kapitalas;
 
 6) kiti rezervai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1341, 2011-04-21, Žin., 2011, Nr. 52-2516 (2011-05-03), i. k. 1111010ISTA0XI-1341
 
 2. Mokėjimo įstaiga turi turėti minimalų nuosavą kapitalą:
 
@@ -732,70 +740,6 @@ priedas
 
 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
 
-4. Mokėjimo įstaigos paslapties apsaugai mutatis mutandis taikomas Bankų įstatymo 55 straipsnis.
-
-39 straipsnis. Neteko galios nuo 2018-08-01
-
-Straipsnio naikinimas:
-
-Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
-
-VIII SKYRIUS
-
-MOKĖJIMO ĮSTAIGOS PABAIGA IR BANKROTAS
-
-40 straipsnis. Mokėjimo įstaigos reorganizavimas ir likvidavimas
-
-1. Mokėjimo įstaiga gali būti reorganizuojama ar likviduojama jos visuotinio akcininkų susirinkimo sprendimu tik gavus išankstinį priežiūros institucijos leidimą. Prašymų išduoti leidimą reorganizuoti ar likviduoti mokėjimo įstaigą pateikimo ir nagrinėjimo tvarką bei kartu su prašymu pateikiamų dokumentų ir informacijos sąrašą nustato priežiūros institucija. Sprendimas dėl leidimo reorganizuoti arba likviduoti mokėjimo įstaigą išdavimo priimamas per 3 mėnesius nuo prašymo išduoti leidimą pateikimo priežiūros institucijai dienos, atsižvelgiant į Lietuvos banko įstatymo 431 straipsnio nuostatas.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
-
-2. Jeigu sprendimą reorganizuoti ar likviduoti mokėjimo įstaigą priima teismas, prieš priimdamas tokį sprendimą jis privalo gauti priežiūros institucijos išvadą dėl tokio sprendimo įtakos mokėjimo įstaigos ir visos mokėjimo įstaigų sistemos stabilumui ir patikimumui.
-
-3. Leidimas reorganizuoti mokėjimo įstaigą neišduodamas, jeigu:
-
-1) pateikti dokumentai neatitinka įstatymuose ir priežiūros institucijos teisės aktuose nustatytų reikalavimų, pateikti ne visi teisės aktuose nurodyti ar papildomai pareikalauti duomenys arba jie yra netikslūs;
-
-2) reorganizavus mokėjimo įstaigą jos teisės ir pareigos, susijusios su mokėjimo paslaugų teikimu, pereis juridiniam asmeniui, kuris neturi teisės teikti mokėjimo paslaugų Lietuvos Respublikoje;
-
-3) galima daryti išvadą, kad bus pažeidžiami mokėjimo paslaugų vartotojų turtiniai interesai arba gali kilti pavojus mokėjimo įstaigos ar visos mokėjimų sistemos stabilumui ir patikimumui.
-
-4. Jeigu reorganizuojant mokėjimo įstaigą įsteigiama nauja mokėjimo įstaiga, ji šio įstatymo nustatyta tvarka turi gauti licenciją.
-
-5. Leidimas likviduoti mokėjimo įstaigą neišduodamas, jeigu:
-
-1) pateikti dokumentai neatitinka įstatymuose ir priežiūros institucijos teisės aktuose nustatytų reikalavimų, pateikti ne visi teisės aktuose nurodyti ar papildomai pareikalauti duomenys arba jie yra netikslūs;
-
-2) galima daryti išvadą, kad bus pažeidžiami mokėjimo paslaugų vartotojų turtiniai interesai arba gali kilti pavojus visos mokėjimų sistemos stabilumui ir patikimumui.
-
-6. Šio straipsnio 1 ir 5 dalys netaikomos, jeigu sprendimas likviduoti mokėjimo įstaigą priimamas pagal šio įstatymo 8 straipsnio 8 dalį.
-
-41 straipsnis. Mokėjimo įstaigų bankroto proceso ypatumai
-
-1. Mokėjimo įstaigų bankroto procedūras reglamentuoja ir Lietuvos Respublikos įmonių bankroto įstatymas, jeigu šis įstatymas ir Finansų įstaigų įstatymas nenustato kitaip.
-
-2. Mokėjimo įstaigos bankroto procedūra vykdoma tik teismo tvarka.
-
-3. Priežiūros institucija turi teisę pateikti teismui pareiškimą dėl bankroto bylos iškėlimo mokėjimo įstaigai. Jeigu pareiškimą teismui dėl bankroto bylos iškėlimo pateikia kiti asmenys, teismas, prieš priimdamas sprendimą dėl bankroto bylos iškėlimo mokėjimo įstaigai, privalo gauti priežiūros institucijos išvadą dėl mokėjimo įstaigos nemokumo. Priežiūros institucija šią išvadą pateikia per 5 darbo dienas nuo prašymo pateikti išvadą gavimo dienos.
-
-4. Mokėjimo įstaigos administratorius lėšas, į kurias pagal šio įstatymo 17 straipsnį negali būti nukreipiamas išieškojimas pagal mokėjimo įstaigos prievoles, grąžina mokėjimo paslaugų vartotojams.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
-
-Lietuvos Respublikos
-
-mokėjimo įstaigų įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB (OL 2015 L 337, p. 35).
-
 Pakeitimai:
 
 1.
@@ -805,74 +749,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1341, 2011-04-21, Žin., 2011, Nr. 52-2516 (2011-05-03), i. k. 1111010ISTA0XI-1341
 
 Lietuvos Respublikos mokėjimo įstaigų įstatymo 13 straipsnio pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2332, 2012-11-06, Žin., 2012, Nr. 132-6660 (2012-11-15), i. k. 1121010ISTA0XI-2332
-
-Lietuvos Respublikos mokėjimo įstaigų įstatymo 12, 32 ir 33 straipsnių pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1034, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10872
-
-Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 4, 6 ir 8 straipsnių pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1311, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17043
-
-Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 6, 13 ir 31 straipsnių pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-103, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29415
-
-Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 5 ir 19 straipsnių pakeitimo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1244, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09858
-
-Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 21, 23, 24, 26, 29, 30, 31, 33, 34 straipsnių pakeitimo ir 22, 25 straipsnių pripažinimo netekusiais galios įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1093, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06729
-
-Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas
-
-8.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
-
-Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymo Nr. XIII-1093 1 ir 2 straipsnių pakeitimo įstatymas
-
-211 straipsnis. Mokėjimo paslaugų teikimo veiklos nutraukimo planas
-
-1. Mokėjimo įstaiga turi turėti mokėjimo paslaugų teikimo veiklos nutraukimo planą, atitinkantį šio straipsnio 2 dalyje nustatytus reikalavimus.
-
-2. Mokėjimo paslaugų teikimo veiklos nutraukimo plane nustatomos priemonės sklandžiam atskirų mokėjimo paslaugų ir visos mokėjimo paslaugų teikimo veiklos nutraukimui užtikrinti. Priežiūros institucija nustato išsamius mokėjimo paslaugų teikimo veiklos nutraukimo plano reikalavimus.
-
-3. Mokėjimo įstaiga mokėjimo paslaugų teikimo veiklos nutraukimo planą turi parengti per 6 mėnesius nuo mokėjimo paslaugų teikimo veiklos vykdymo pradžios.
-
-4. Mokėjimo įstaiga mokėjimo paslaugų teikimo veiklos nutraukimo planą turi peržiūrėti bent kartą per metus ir prireikus jį atnaujinti. Mokėjimo įstaiga taip pat turi nedelsdama šį planą peržiūrėti ir prireikus atnaujinti, keisdama mokėjimo įstaigos organizacinę struktūrą, veiklą, pasikeitus mokėjimo įstaigos finansinei būklei ar kitoms aplinkybėms, galinčioms turėti reikšmingą poveikį mokėjimo paslaugų teikimo veiklos nutraukimui.
-
-Papildyta straipsniu:
-
-Nr. XIV-3095, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20116
 
