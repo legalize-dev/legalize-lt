@@ -4,7 +4,7 @@ identifier: "TAR.CA89372D00AA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2009-10-31"
+last_updated: "2011-05-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CA89372D00AA"
 department: "Lietuvos Respublikos Seimas"
@@ -472,19 +472,19 @@ asmenis, priskirtus padidėjusios rizikos grupei ir teisės aktų nustatyta tvar
 
 viešųjų vietų bei lindynių į sveikatos priežiūros įstaigą asmenį, apsvaigusį
 
-nuo alkoholio, narkotinių, psichotropinių ar kitokių nuodingųjų ar psichiką stipriai
+nuo alkoholio, narkotinių, psichotropinių ar kitokių nuodingųjų ar psichiką
 
-veikiančių medžiagų, jeigu jis nebegali judėti arba gali padaryti žalos
+stipriai veikiančių medžiagų, jeigu jis nebegali judėti arba gali padaryti
 
-aplinkiniams ar sau.
+žalos aplinkiniams ar sau.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. XI-444,
+Nr. XI-444, 2009-10-22,
 
-2009-10-22, Žin., 2009, Nr. 130-5637 (2009-10-31)
+Žin., 2009, Nr. 130-5637 (2009-10-31)
 
 15 straipsnis. Policijos pareigūnų rengimas ir kvalifikacijos
 
@@ -518,9 +518,11 @@ Kitos švietimo įstaigos rengia policijos pareigūnus pagal nustatyta tvarka
 
 akredituotas studijų programas, suteikia atitinkamą išsilavinimą ir (ar)
 
-kvalifikacinį laipsnį, profesinių žinių, įgūdžių ir gebėjimų, būtinų policijos uždaviniams
+kvalifikacinį laipsnį, profesinių žinių, įgūdžių ir gebėjimų, būtinų policijos
 
-įgyvendinti, ir gali organizuoti policijos pareigūnų kvalifikacijos tobulinimą.
+uždaviniams įgyvendinti, ir gali organizuoti policijos pareigūnų kvalifikacijos
+
+tobulinimą.
 
 4.
 
@@ -572,7 +574,9 @@ straipsnis. Policijos pareigūno įgaliojimai
 
 uždavinius, reikalauti, kad tiesiogiai jam nepavaldūs asmenys vykdytų jo
 
-teisėtus nurodymus, o jų nevykdymo ar pasipriešinimo atveju panaudoti prievartą.
+teisėtus nurodymus, o jų nevykdymo ar pasipriešinimo atveju panaudoti
+
+prievartą.
 
 2. Policijos pareigūnai, vykdydami jiems suteiktus
 
@@ -680,23 +684,23 @@ patalpas jų asmenybei nustatyti, taip pat protokolams, aktams, pranešimams
 
 surašyti, asmenims ir jų turimiems daiktams apžiūrėti;
 
-3) persekiodamas asmenį, įtariamą padarius
+3) persekiodamas asmenį, įtariamą padarius nusikalstamą
 
-nusikalstamą veiką, ar nusikaltėlį, besislepiantį nuo teisėsaugos institucijų,
+veiką, ar nusikaltėlį, besislepiantį nuo teisėsaugos institucijų, taip pat
 
-taip pat siekdamas užkirsti kelią daromai nusikalstamai veikai, bet kuriuo
+siekdamas užkirsti kelią daromai nusikalstamai veikai, bet kuriuo paros laiku
 
-paros laiku įeiti į fiziniams ir juridiniams asmenims priklausančias
+įeiti į fiziniams ir juridiniams asmenims priklausančias gyvenamąsias ar
 
-gyvenamąsias ar negyvenamąsias patalpas, teritorijas, sustabdyti bei patekti į
+negyvenamąsias patalpas, teritorijas, sustabdyti bei patekti į transporto
 
-transporto priemones. Atsisakius paklusti, policijos pareigūnai turi teisę jėga
+priemones. Atsisakius paklusti, policijos pareigūnai turi teisę jėga atidaryti
 
-atidaryti patalpas ir transporto priemones. Ši teisė taip pat suteikiama
+patalpas ir transporto priemones. Ši teisė taip pat suteikiama stichinės
 
-stichinės nelaimės ar katastrofos atveju. Apie tokius veiksmus per 24 valandas
+nelaimės ar katastrofos atveju. Apie tokius veiksmus per 24 valandas pranešama
 
-pranešama prokurorui;
+prokurorui;
 
 4) šio įstatymo ketvirtajame skirsnyje numatytais
 
@@ -2386,9 +2390,11 @@ pažeidimo ar esančiam bejėgiškos būklės;
 
 4) imtis visų
 
-galimų priemonių asmens, valstybės, visuomeninių ar kitų organizacijų turtui gelbėti
+galimų priemonių asmens, valstybės, visuomeninių ar kitų organizacijų turtui
 
-stichinių nelaimių, katastrofų, avarijų bei kitų ypatingų situacijų atvejais;
+gelbėti stichinių nelaimių, katastrofų, avarijų bei kitų ypatingų situacijų
+
+atvejais;
 
 5) laikyti
 
@@ -2494,11 +2500,11 @@ fizinę prievartą, šaunamąjį ginklą bei sprogstamąsias medžiagas.
 
 prievarta šiame įstatyme suprantama kaip įspėjimas apie ketinimą panaudoti
 
-fizinę prievartą, šaunamąjį ginklą ar sprogstamąsias medžiagas. Psichinei prievartai
+fizinę prievartą, šaunamąjį ginklą ar sprogstamąsias medžiagas. Psichinei
 
-prilyginamas šaunamojo ginklo demonstravimas bei įspėjamieji šūviai, tačiau
+prievartai prilyginamas šaunamojo ginklo demonstravimas bei įspėjamieji šūviai,
 
-šias psichinės prievartos priemones galima naudoti tik šio įstatymo 25
+tačiau šias psichinės prievartos priemones galima naudoti tik šio įstatymo 25
 
 straipsnio 2 ir 4 dalyse išvardytomis sąlygomis.
 
@@ -2540,9 +2546,9 @@ pavojaus šaltiniui likviduoti.
 
 7. Policijos
 
-pareigūnas, panaudojęs prievartą nepažeisdamas šio įstatymo reikalavimų ir
+pareigūnas, panaudojęs prievartą nepažeisdamas šio įstatymo reikalavimų ir padaręs
 
-padaręs žalą įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
+žalą įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
 
 8. Apie
 
@@ -2610,11 +2616,11 @@ kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad j
 
 invalidai ar nepilnamečiai (jei jų amžius žinomas pareigūnui arba išvaizda
 
-atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar
+atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar sveikatai
 
-sveikatai būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas kelia
+būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei
 
-grėsmę gyvybei ar sveikatai.
+ar sveikatai.
 
 25
 
@@ -2676,11 +2682,9 @@ taip pat prieš asmenis, jei akivaizdu, kad jie invalidai, prieš nepilnamečius
 
 jei jų amžius žinomas pareigūnui arba išvaizda atitinka amžių, išskyrus
 
-atvejus, kai jie priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba
+atvejus, kai jie priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba jei
 
-jei užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar
-
-sveikatai.
+užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
 
 26
 
@@ -2824,9 +2828,9 @@ Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo 1990 m. gruodžio 11
 
 (Žin., 1991, Nr. 2-23).
 
-Skelbiu šį
+Skelbiu
 
-Lietuvos Respublikos Seimo priimtą įstatymą.
+šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
 
@@ -2954,9 +2958,9 @@ X-1704,
 
 2008-07-15, Žin., 2008, Nr. 87-3464 (2008-07-31)
 
-POLICIJOS VEIKLOS ĮSTATYMO ANTROJO
+POLICIJOS VEIKLOS ĮSTATYMO
 
-SKIRSNIO PAVADINIMO IR 11, 12, 14 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ANTROJO SKIRSNIO PAVADINIMO IR 11, 12, 14 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas, išskyrus 5
 
@@ -2978,13 +2982,25 @@ VEIKLOS ĮSTATYMO 1, 2, 3, 6(2), 7, 11, 12, 15, 16, 18, 19 STRAIPSNIŲ PAKEITIMO
 
 IR PAPILDYMO ĮSTATYMAS
 
+7.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. XI-1335,
+
+2011-04-19, Žin., 2011, Nr. 52-2510 (2011-05-03)
+
+POLICIJOS VEIKLOS ĮSTATYMO 12 IR
+
+13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo Aušrinė Trapinskienė
+Redagavo Aušrinė Trapinskienė (2011-05-04)
 
-(2009-11-02)
-
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 11 straipsnis.
 
@@ -3148,9 +3164,7 @@ vadovauja policijos generalinis komisaras.
 
 2. Policijos generalinis komisaras:
 
-1) nustato tiesiogiai jam pavaldžių policijos įstaigų vidaus struktūrą
-
-bei pareigybių sąrašus;
+1) (neteko galios nuo 2011 m. gegužės 3 d.);
 
 2) prižiūri ir
 
@@ -3160,11 +3174,13 @@ koordinuoja vadovaujamų įstaigų veiklą;
 
 vadovaujamų įstaigų veiklai būtiną materialinį techninį aprūpinimą;
 
-4)
+4) teisės aktų
 
-teisės aktų nustatyta tvarka steigia teritorines, specializuotas policijos
+nustatyta tvarka steigia teritorines, specializuotas policijos įstaigas ir
 
-įstaigas ir policijos profesinio mokymo įstaigą;
+policijos profesinio ugdymo įstaigas, tvirtina šių įstaigų vidaus struktūrą ir
+
+pareigybių sąrašus;
 
 5) įstatymų
 
@@ -3314,6 +3330,10 @@ Nr. XI-444,
 
 2009-10-22, Žin., 2009, Nr. 130-5637 (2009-10-31)
 
+Nr. XI-1335,
+
+2011-04-19, Žin., 2011, Nr. 52-2510 (2011-05-03)
+
 13
 
 straipsnis. Policijos departamentas
@@ -3348,7 +3368,21 @@ policijos įstaigose;
 
 sprendimų vykdymą bei jų kontrolę.
 
-3. Policijos departamentą steigia Vyriausybė.
+3. Policijos
+
+departamentą steigia Vyriausybė. Policijos departamento administracijos
+
+struktūrą tvirtina policijos generalinis komisaras, suderinęs su vidaus reikalų
+
+ministru.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-1335,
+
+2011-04-19, Žin., 2011, Nr. 52-2510 (2011-05-03)
 
 14 straipsnis.
 
@@ -3358,9 +3392,7 @@ Teritorinės policijos įstaigos
 
 komisariatai, atliekantys šio įstatymo ir kitų teisės aktų jiems nustatytas
 
-funkcijas, reikalingas policijos uždaviniams apskrities teritorijoje
-
-įgyvendinti.
+funkcijas, reikalingas policijos uždaviniams apskrities teritorijoje įgyvendinti.
 
 2.
 
@@ -3418,9 +3450,9 @@ viešose vietose;
 
 tvarka atlieka paiešką dingusių ar pasislėpusių
 
-asmenų, kurių buvimo vieta nežinoma ir dėl kurių teisės aktų nustatytais
+asmenų, kurių buvimo vieta nežinoma ir dėl kurių teisės aktų nustatytais pagrindais
 
-pagrindais ir tvarka priimtas sprendimas paskelbti paiešką, rastų
+ir tvarka priimtas sprendimas paskelbti paiešką, rastų
 
 neatpažintų lavonų, nežinomų ligonių ar nežinomų vaikų asmens tapatybės
 
@@ -3758,7 +3790,25 @@ Nr. X-603, 2006-05-11,
 
 Žin., 2006, Nr. 60-2118 (2006-05-27)
 
-6(1) straipsnis. Teisė gauti informaciją 1. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės privalo policijos įstaigos prašymu arba pagal atskiras duomenų teikimo sutartis policijai neatlygintinai teikti jos uždaviniams įgyvendinti būtinus šių valstybės ir savivaldybių institucijų, įstaigų ir įmonių tvarkomus valstybės registrų (kadastrų) ir žinybinių registrų, klasifikatorių, informacinių sistemų ir duomenų rinkmenų duomenis. 2. Kiti juridiniai asmenys, taip pat fiziniai asmenys jų tvarkomus duomenis, būtinus policijos uždaviniams įgyvendinti, neatlygintinai teikia policijai, jeigu tai yra nustatyta kituose įstatymuose.
+6(1) straipsnis. Teisė gauti informaciją
+
+1. Valstybės ir savivaldybių institucijos, įstaigos ir
+
+įmonės privalo policijos įstaigos prašymu arba pagal atskiras duomenų
+
+teikimo sutartis policijai neatlygintinai teikti jos uždaviniams įgyvendinti
+
+būtinus šių valstybės ir savivaldybių institucijų, įstaigų ir įmonių tvarkomus
+
+valstybės registrų (kadastrų) ir žinybinių registrų, klasifikatorių,
+
+informacinių sistemų ir duomenų rinkmenų duomenis.
+
+2. Kiti juridiniai asmenys, taip pat fiziniai asmenys
+
+jų tvarkomus duomenis, būtinus policijos uždaviniams įgyvendinti,
+
+neatlygintinai teikia policijai, jeigu tai yra nustatyta kituose įstatymuose.
 
 Įstatymas
 
