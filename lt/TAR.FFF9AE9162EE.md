@@ -4,7 +4,7 @@ identifier: "TAR.FFF9AE9162EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-13"
-last_updated: "2010-12-11"
+last_updated: "2011-05-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 department: "Lietuvos Respublikos Seimas"
@@ -48,9 +48,9 @@ straipsnis. Įstatymo paskirtis
 
 1. Šis Įstatymas
 
-nustato fizinių ir juridinių asmenų, vykdančių  ūkinę  veiklą Lietuvoje, taip
+nustato fizinių ir juridinių asmenų, vykdančių ūkinę veiklą Lietuvoje, taip pat
 
-pat Lietuvos Respublikoje įregistruotų užsienio juridinių asmenų ir kitų
+Lietuvos Respublikoje įregistruotų užsienio juridinių asmenų ir kitų
 
 organizacijų atstovybių bei filialų (toliau – fiziniai ir juridiniai asmenys)
 
@@ -222,9 +222,9 @@ Organinis perdirbimas – aerobinis (kompostavimas) ar anaerobinis
 
 apdorojimas naudojant mikroorganizmus, kurio metu gaunama stabilizuota organinė
 
-liekana arba metanas. Sąvartynas nėra gaminių ar pakuotės atliekų organinio perdirbimo
+liekana arba metanas. Sąvartynas nėra gaminių ar pakuotės atliekų organinio
 
-vieta.
+perdirbimo vieta.
 
 17.
 
@@ -296,11 +296,23 @@ išmetami į aplinką teršalai;
 
 2)
 
-gaminiai, nurodyti Įstatymo 3 priedėlyje;
+Įstatymo 3 priedėlyje nurodyti gaminiai, kurie nėra bet kokio kito pagaminto ar
+
+įvežto (importuoto) į Lietuvos Respublikos teritoriją gaminio sudedamoji dalis,
+
+be kurios gaminys negali būti naudojamas pagal paskirtį;
 
 3)
 
 pripildyta pakuotė, nurodyta Įstatymo 4 priedėlyje.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-1371,
+
+2011-04-28, Žin., 2011, Nr. 57-2706 (2011-05-12)
 
 4
 
@@ -356,11 +368,11 @@ institucijos nustatyta tvarka  atleidžiami nuo mokesčio už tuos teršalus, k
 
 kiekis sumažinamas 5 procentais, išskyrus atvejus, kai priemonei įgyvendinti
 
-yra naudojamos valstybės biudžeto lėšos, taip pat kai įgyvendinamos
+yra naudojamos valstybės biudžeto lėšos, taip pat kai įgyvendinamos aplinkosaugos
 
-aplinkosaugos priemonės yra skirtos biokurui naudoti. Atleidimas nuo mokesčio galioja
+priemonės yra skirtos biokurui naudoti. Atleidimas nuo mokesčio galioja ne
 
-ne ilgiau kaip 3 metus nuo priemonės įgyvendinimo pradžios.
+ilgiau kaip 3 metus nuo priemonės įgyvendinimo pradžios.
 
 2.
 
@@ -394,9 +406,9 @@ verčiasi individualia veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio
 
 įstatyme, ir savo veikloje naudoja asmenines transporto priemones;
 
-4) fiziniai ir juridiniai
+4) fiziniai ir juridiniai asmenys,
 
-asmenys, teršiantys iš transporto priemonių, naudojančių nustatytus standartus
+teršiantys iš transporto priemonių, naudojančių nustatytus standartus
 
 atitinkančius biodegalus, ir pateikę biodegalų sunaudojimą patvirtinančius
 
@@ -414,19 +426,19 @@ teršimą iš stacionarių taršos šaltinių yra atleidžiami.
 
 asmenys, kurie patys arba per trečiuosius asmenis išveža iš Lietuvos
 
-Respublikos teritorijos pagal šį Įstatymą apmokestinamus gaminius ir (ar) į apmokestinamąją
+Respublikos teritorijos pagal šį Įstatymą apmokestinamus gaminius ir (ar) į
 
-pakuotę įpakuotus gaminius, yra atleidžiami nuo mokesčio už aplinkos teršimą
+apmokestinamąją pakuotę įpakuotus gaminius, yra atleidžiami nuo mokesčio už
 
-gaminių ar pakuotės atliekomis už tokį apmokestinamųjų gaminių ar pakuotės
+aplinkos teršimą gaminių ar pakuotės atliekomis už tokį apmokestinamųjų gaminių
 
-kiekį, koks buvo  išvežtas iš Lietuvos Respublikos teritorijos per mokestinį
+ar pakuotės kiekį, koks buvo  išvežtas iš Lietuvos Respublikos teritorijos per
 
-laikotarpį, Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka pateikus
+mokestinį laikotarpį, Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka
 
-dokumentus, patvirtinančius išvežtą iš Lietuvos Respublikos teritorijos
+pateikus dokumentus, patvirtinančius išvežtą iš Lietuvos Respublikos
 
-apmokestinamųjų gaminių ar pakuotės kiekį.
+teritorijos apmokestinamųjų gaminių ar pakuotės kiekį.
 
 6. Gamintojai ir
 
@@ -470,15 +482,11 @@ atliekų pakartotinai panaudotą arba perdirbtą ar panaudotą energijai gauti
 
 kiekį.
 
-7. (Neteko
-
-galios nuo 2010 m. sausio 1 d.)
-
 Straipsnio pakeitimai:
 
-Nr. IX-1265,
+Nr. IX-1265, 2002-12-10,
 
-2002-12-10, Žin., 2002, Nr. 123-5550 (2002-12-24)
+Žin., 2002, Nr. 123-5550 (2002-12-24)
 
 Nr. IX-1547,
 
@@ -788,9 +796,9 @@ aplinkos teršimą gaminių ir (ar) pakuotės atliekomis moka gaminių gamintoja
 
 importuotojai.
 
-įstatymo 1 straipsnio 1, 4 dalys, 2 straipsnio 1, 2 dalys ir 5 straipsnis
+1 straipsnio 1, 4 dalys, 2 straipsnio 1, 2 dalys ir 5 straipsnis įsigalioja nuo
 
-įsigalioja nuo 2006 m. sausio 1 d.
+2006 m. sausio 1 d.
 
 Įstatymo
 
@@ -864,21 +872,33 @@ PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XI-1169, 2010-11-23, Žin., 2010, Nr.
+Nr. XI-1169,
 
-145-7426 (2010-12-11)
+2010-11-23, Žin., 2010, Nr. 145-7426 (2010-12-11)
 
 MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO 10
 
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1371,
+
+2011-04-28, Žin., 2011, Nr. 57-2706 (2011-05-12)
+
+MOKESČIO UŽ
+
+APLINKOS TERŠIMĄ ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2010-12-14)
+(2011-05-12)
 
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 * Išskyrus:
 
@@ -942,15 +962,15 @@ institucijų nustatyta tvarka.
 
 3. Mokestis už
 
-aplinkos teršimą iš stacionarių taršos šaltinių mokamas už faktiškai per mokestinį
+aplinkos teršimą iš stacionarių taršos šaltinių mokamas už faktiškai per
 
-laikotarpį išmestą į aplinką teršalų kiekį, už teršimą iš mobilių taršos
+mokestinį laikotarpį išmestą į aplinką teršalų kiekį, už teršimą iš mobilių
 
-šaltinių (išskyrus oro transporto priemones) – už sunaudotą per mokestinį
+taršos šaltinių (išskyrus oro transporto priemones) – už sunaudotą per
 
-laikotarpį degalų kiekį, už teršimą iš oro transporto priemonių – už pakilimo
+mokestinį laikotarpį degalų kiekį, už teršimą iš oro transporto priemonių – už
 
-ir nusileidimo ciklų skaičių.
+pakilimo ir nusileidimo ciklų skaičių.
 
 4. Mokestis už
 
@@ -972,7 +992,9 @@ pakuotės apskaitos tvarkymą ir mokesčio už aplinkos teršimą deklaracijoje
 
 pateiktus duomenis.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. IX-1970,
 
@@ -1058,17 +1080,15 @@ reikalinga informacija tvarką nustato Aplinkos ministerija, suderinusi su
 
 Valstybine mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos.
 
-Straipsnio
-
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. X-1438,
 
 2008-01-29, Žin., 2008, Nr. 18-631 (2008-02-12)
 
-Nr. XI-254, 2009-05-12,
+Nr. XI-254,
 
-Žin., 2009, Nr. 61-2404 (2009-05-26)
+2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
 
 10
 
@@ -1114,9 +1134,11 @@ teršalų, sunaudotų degalų ir apmokestinamųjų gaminių bei pripildytos gami
 
 apmokestinamosios pakuotės kiekį, už normatyvus viršijantį teršalų kiekį,
 
-mokamas arba išieškomas iš pažeidėjo į valstybės biudžetą. Šios lėšos naudojamos
+mokamas arba išieškomas iš pažeidėjo į valstybės biudžetą. Šios lėšos
 
-Aplinkos apsaugos rėmimo programos įstatyme nustatytiems tikslams įgyvendinti.
+naudojamos Aplinkos apsaugos rėmimo programos įstatyme nustatytiems tikslams
+
+įgyvendinti.
 
 4.
 
@@ -1140,9 +1162,9 @@ Nr. XI-254,
 
 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
 
-Nr. XI-1169, 2010-11-23, Žin., 2010, Nr.
+Nr. XI-1169,
 
-145-7426 (2010-12-11)
+2010-11-23, Žin., 2010, Nr. 145-7426 (2010-12-11)
 
 11
 
@@ -1386,11 +1408,7 @@ Vanadžio pentoksidas
 
 300
 
-Kietosios dalelės (organinės ir
-
-neorganinės)(*
-
-)
+Kietosios dalelės (organinės ir neorganinės)(* )
 
 1,5
 
@@ -1996,9 +2014,9 @@ MOKESČIO UŽ APLINKOS TERŠIMĄ
 
 ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
-Šis Įstatymas, išskyrus 12
+Šis Įstatymas, išskyrus 12 straipsnį,
 
-straipsnį, įsigalioja nuo 2003 m. sausio 1 d.
+įsigalioja nuo 2003 m. sausio 1 d.
 
 Nauja įstatymo redakcija
 
@@ -2132,7 +2150,7 @@ UŽ APLINKOS TERŠIMĄ ĮSTATYMO 2, 5, 7 STRAIPSNIŲ IR 3, 4 PRIEDĖLIŲ PAPILDY
 
 PAKEITIMO ĮSTATYMAS
 
-Šio
+Šio įstatymo
 
 9 straipsnis.
 
