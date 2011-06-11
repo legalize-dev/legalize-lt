@@ -4,7 +4,7 @@ identifier: "TAR.43178AA9832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2011-01-01"
+last_updated: "2011-06-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E"
 department: "Lietuvos Respublikos Seimas"
@@ -76,11 +76,13 @@ juridinių asmenų buhalterinės apskaitos tvarką nustato Vyriausybė arba jos
 
 jų valdymo įmonių, uždaro tipo investicinių bendrovių ir jų valdymo įmonių,
 
-pensijų fondų ir jų valdymo įmonių, investicinių fondų valdymo įmonių, draudimo
+pensijų fondų ir jų valdymo įmonių, investicinių fondų valdymo įmonių, reguliuojamos
 
-įmonių buhalterinės apskaitos tvarkymą ir organizavimą nustato šis įstatymas,
+rinkos operatoriaus, Lietuvos centrinio vertybinių popierių depozitoriumo,
 
-jei kiti Lietuvos Respublikos įstatymai nenustato kitaip.
+draudimo įmonių buhalterinės apskaitos tvarkymą ir organizavimą nustato šis
+
+įstatymas, jei kiti Lietuvos Respublikos įstatymai nenustato kitaip.
 
 4. Šio Įstatymo nuostatos suderintos su šio Įstatymo
 
@@ -136,6 +138,10 @@ Nr. XI-724,
 
 2010-04-01, Žin., 2010, Nr. 41-1944 (2010-04-10)
 
+Nr. XI-1405,
+
+2011-05-24, Žin., 2011, Nr. 71-3367 (2011-06-11)
+
 2 straipsnis.
 
 Pagrindinės Įstatymo sąvokos
@@ -160,13 +166,13 @@ ir ūkinių įvykių suvestinė, kurioje apibendrinti jų duomenys.
 
 4. Neteko galios nuo 2008 m. rugsėjo 1 d.
 
-5. Buhalterinė apskaita (toliau – apskaita) – ūkinių operacijų ir ūkinių
+5. Buhalterinė apskaita (toliau – apskaita) – ūkinių operacijų ir
 
-įvykių, išreikštų pinigais, registravimo, grupavimo ir apibendrinimo sistema,
+ūkinių įvykių, išreikštų pinigais, registravimo, grupavimo ir apibendrinimo
 
-skirta informacijai, reikalingai priimant ekonominius sprendimus, gauti ir
+sistema, skirta informacijai, reikalingai priimant ekonominius sprendimus,
 
-(arba) finansinių ataskaitų rinkiniui (toliau – finansinės
+gauti ir (arba) finansinių ataskaitų rinkiniui (toliau – finansinės
 
 ataskaitos) sudaryti.
 
@@ -204,9 +210,11 @@ dalis, likusi iš viso turto atėmus visus įsipareigojimus.
 
 12. Pinigų apskaitos dokumentas – popierinis
 
-liudijimas, kuriame nurodomos grynųjų pinigų mokėjimo ar jų pervedimo operacijos,
+liudijimas, kuriame nurodomos grynųjų pinigų mokėjimo ar jų pervedimo
 
-kai įvykdomas vieno ūkio subjekto įsipareigojimas kitam ūkio subjektui.
+operacijos, kai įvykdomas vieno ūkio subjekto įsipareigojimas kitam ūkio
+
+subjektui.
 
 13. Neteko galios nuo 2007 m. birželio 21 d.
 
@@ -214,9 +222,7 @@ kai įvykdomas vieno ūkio subjekto įsipareigojimas kitam ūkio subjektui.
 
 sąskaitų, kuriose sukaupiama informacija, parodanti ūkio subjekto turtą,
 
-nuosavą kapitalą, finansavimo sumas, įsipareigojimus, pajamas ir sąnaudas,
-
-sąrašas.
+nuosavą kapitalą, finansavimo sumas, įsipareigojimus, pajamas ir sąnaudas, sąrašas.
 
 15. Supaprastinta apskaita – apskaita, tvarkoma
 
@@ -284,11 +290,11 @@ buhalteris (buhalteris) – fizinis asmuo, tvarkantis ūkio subjekto
 
 buhalterinę apskaitą.
 
-25. Kitos šiame įstatyme vartojamos sąvokos
+25. Kitos šiame įstatyme vartojamos sąvokos suprantamos
 
-suprantamos taip, kaip jos vartojamos Įmonių finansinės atskaitomybės įstatyme,
+taip, kaip jos vartojamos Įmonių finansinės atskaitomybės įstatyme, Viešojo
 
-Viešojo sektoriaus atskaitomybės įstatyme ir kituose teisės aktuose.
+sektoriaus atskaitomybės įstatyme ir kituose teisės aktuose.
 
 Straipsnio pakeitimai:
 
@@ -442,11 +448,11 @@ vartotojams.
 
 Piniginis matas
 
-1. Apskaita tvarkoma
+1. Apskaita
 
-ir apskaitos dokumentai surašomi naudojant Lietuvos Respublikos piniginį
+tvarkoma ir apskaitos dokumentai surašomi naudojant Lietuvos Respublikos
 
-vienetą – litą, o prireikus – ir litą, ir užsienio valiutą.
+piniginį vienetą – litą, o prireikus – ir litą, ir užsienio valiutą.
 
 2. Ūkiniai įvykiai ir ūkinės operacijos, kurių buvimas
 
@@ -502,11 +508,11 @@ užsienio kalba. Gauti dokumentai, kurie surašyti užsienio kalba, prireikus tu
 
 būti išversti į lietuvių kalbą.
 
-5. Grynųjų pinigų
+5. Grynųjų
 
-priėmimo, išmokėjimo, jų apskaitos ir laikymo tvarką nustato Vyriausybė arba
+pinigų priėmimo, išmokėjimo, jų apskaitos ir laikymo tvarką nustato Vyriausybė
 
-jos įgaliota institucija.
+arba jos įgaliota institucija.
 
 6. Minimalią ilgalaikio materialiojo turto vertę
 
@@ -624,9 +630,9 @@ Nr. X-1679,
 
 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
 
-10 straipsnis.
+10 straipsnis. Apskaitos
 
-Apskaitos tvarkymas
+tvarkymas
 
 1. Ūkio subjekto apskaitą tvarko:
 
@@ -1686,13 +1692,27 @@ APSKAITOS ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 įsigalioja 2011 m. sausio 1 d.
 
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1405,
+
+2011-05-24, Žin., 2011, Nr. 71-3367 (2011-06-11)
+
+BUHALTERINĖS
+
+APSKAITOS ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė
 
-Trapinskienė (2010-12-16)
+Trapinskienė (2011-06-13)
 
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 19 straipsnis. Apskaitos dokumentų, apskaitos registrų
 
