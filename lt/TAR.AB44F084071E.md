@@ -4,7 +4,7 @@ identifier: "TAR.AB44F084071E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2010-11-23"
+last_updated: "2011-06-11"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB44F084071E"
 department: "Lietuvos Respublikos Seimas"
@@ -86,23 +86,27 @@ reglamentavimą suderinti su Europos Sąjungos teisės aktais, nurodytais šio
 
 2 straipsnis. Įstatymo taikymas
 
-1. Šis įstatymas taikomas akcinėms bendrovėms
+1. Šis
 
-ir uždarosioms akcinėms bendrovėms, galinčioms daryti tiesioginį ar
+įstatymas taikomas akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms,
 
-netiesioginį lemiamą poveikį vienam ar keliems pelno siekiantiems juridiniams asmenims (toliau – įmonės).
+galinčioms daryti tiesioginį ar netiesioginį lemiamą poveikį vienam ar keliems
 
-2. Finansų
+pelno siekiantiems juridiniams asmenims (toliau – įmonės).
 
-įstaigoms jų veiklą reglamentuojantys įstatymai ir kiti teisės aktai gali
+2. Bankams, kitoms kredito ir finansų įstaigoms,
 
-nustatyti papildomų reikalavimų dėl konsoliduotųjų finansinių ataskaitų.
+reguliuojamos rinkos operatoriui, Lietuvos centriniam vertybinių popierių
 
-3. Bankams, kitoms kredito įstaigoms, draudimo
+depozitoriumui, draudimo įmonėms ir perdraudimo įmonėms šis įstatymas taikomas
 
-įmonėms ir perdraudimo įmonėms šis įstatymas taikomas tiek, kiek
+tiek, kiek jų veiklą reglamentuojantys įstatymai nenustato kitaip.
 
-neprieštarauja jų veiklą reglamentuojantiems įstatymams.
+Straipsnio pakeitimai:
+
+Nr. XI-1404,
+
+2011-05-24, Žin., 2011, Nr. 71-3366 (2011-06-11)
 
 3 straipsnis.
 
@@ -116,11 +120,13 @@ gali daryti tiesioginį ar netiesioginį lemiamą poveikį.
 
 ir jos dukterinės įmonės.
 
-3. Įmonių grupės finansinių ataskaitų konsolidavimas
+3. Įmonių grupės finansinių ataskaitų
 
-– įmonių grupės finansinių ataskaitų sujungimas taikant verslo apskaitos
+konsolidavimas – įmonių grupės finansinių ataskaitų sujungimas taikant
 
-standartuose arba tarptautiniuose apskaitos standartuose nustatytus metodus.
+verslo apskaitos standartuose arba tarptautiniuose apskaitos standartuose
+
+nustatytus metodus.
 
 4. Įmonių grupės konsoliduotasis metinis
 
@@ -138,13 +144,13 @@ atskaitomybė – įmonių grupės finansinės būklės, veiklos rezultatų,
 
 pinigų srautų duomenų ir jų aiškinimo rengimas nustatyta forma.
 
-6. Įmonių grupės konsoliduotųjų finansinių
+6. Įmonių grupės konsoliduotųjų finansinių ataskaitų
 
-ataskaitų rinkinys (toliau – konsoliduotųjų finansinių ataskaitų
+rinkinys (toliau – konsoliduotųjų finansinių ataskaitų rinkinys) –
 
-rinkinys) – įmonių grupės finansinių ataskaitų rinkinys, sudaromas kaip
+įmonių grupės finansinių ataskaitų rinkinys, sudaromas kaip vienos įmonės
 
-vienos įmonės finansinių ataskaitų rinkinys.
+finansinių ataskaitų rinkinys.
 
 7. Įmonių grupės metinių konsoliduotųjų finansinių
 
@@ -168,7 +174,9 @@ nustatytų sąlygų.
 
 10. Tiesioginis lemiamas poveikis įmonei –
 
-lemiamas poveikis kitai įmonei, atsirandantis dėl bent vienos iš šių sąlygų:
+lemiamas poveikis kitai įmonei, atsirandantis dėl bent vienos iš šių
+
+sąlygų:
 
 1) įmonė turi kitos įmonės
 
@@ -250,9 +258,11 @@ pardavimo pajamų) – 30 mln. litų;
 
 nurodyto turto vertė (neatskaitant tarpusavio sandorių) – 18 mln. litų;
 
-3) vidutinis metinis
+3) vidutinis
 
-darbuotojų skaičius pagal sąrašą per ataskaitinius finansinius metus – 75.
+metinis darbuotojų skaičius pagal sąrašą per ataskaitinius finansinius metus –
+
+75.
 
 5. Šio straipsnio 4 dalies nuostata, leidžianti
 
@@ -374,9 +384,9 @@ finansinių ataskaitų nekonsolidavus būtų pažeistas reikšmingumo principas 
 
 reikalavimas teisingai parodyti įmonių grupės finansinę būklę, jos veiklos
 
-rezultatus ir pinigų srautus. Patronuojanti įmonė, turinti tik dukterines
+rezultatus ir pinigų srautus. Patronuojanti įmonė, turinti tik
 
-įmones, kurių kiekviena atskirai ir visos kartu yra nereikšmingos,
+dukterines įmones, kurių kiekviena atskirai ir visos kartu yra nereikšmingos,
 
 konsoliduotųjų finansinių ataskaitų gali nesudaryti.
 
@@ -712,9 +722,7 @@ sudaro šios konsoliduotosios finansinės ataskaitos:
 
 3) konsoliduotoji pinigų srautų ataskaita;
 
-4) konsoliduotoji nuosavo kapitalo pokyčių
-
-ataskaita;
+4) konsoliduotoji nuosavo kapitalo pokyčių ataskaita;
 
 5) konsoliduotųjų finansinių ataskaitų aiškinamasis
 
@@ -768,21 +776,21 @@ sąnaudas, pinigų srautus, konsoliduotojų finansinių ataskaitų aiškinamajam
 
 rašte turi būti pateikta papildoma informacija.
 
-5. Išskirtiniais atvejais, kai pagal apskaitos standartus
+5. Išskirtiniais atvejais, kai pagal apskaitos
 
-sudarytos konsoliduotosios finansinės ataskaitos prieštarauja šio straipsnio 1
+standartus sudarytos konsoliduotosios finansinės ataskaitos prieštarauja šio
 
-dalies reikalavimams, galima nukrypti nuo apskaitos standartų, kad būtų
+straipsnio 1 dalies reikalavimams, galima nukrypti nuo apskaitos standartų, kad
 
-įvykdytas šio straipsnio 1 dalies reikalavimas tikrai ir teisingai parodyti
+būtų įvykdytas šio straipsnio 1 dalies reikalavimas tikrai ir teisingai
 
-įmonių grupės turtą, nuosavą kapitalą, įsipareigojimus, pajamas ir sąnaudas,
+parodyti įmonių grupės turtą, nuosavą kapitalą, įsipareigojimus, pajamas ir
 
-pinigų srautus. Kiekvienas toks atvejis, jo priežastys ir poveikis įmonių
+sąnaudas, pinigų srautus. Kiekvienas toks atvejis, jo priežastys ir poveikis
 
-grupės turtui, nuosavam kapitalui, įsipareigojimams, pajamoms ir sąnaudoms,
+įmonių grupės turtui, nuosavam kapitalui, įsipareigojimams, pajamoms ir
 
-pinigų srautams turi būti nurodyti aiškinamajame rašte.
+sąnaudoms, pinigų srautams turi būti nurodyti aiškinamajame rašte.
 
 6. Konsoliduotosiose finansinėse
 
@@ -1278,13 +1286,25 @@ ataskaitinių laikotarpių įmonių grupės metinių konsoliduotųjų finansini�
 
 ataskaitų rinkinys.
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1404,
+
+2011-05-24, Žin., 2011, Nr. 71-3366 (2011-06-11)
+
+ĮMONIŲ GRUPIŲ KONSOLIDUOTOSIOS FINANSINĖS ATSKAITOMYBĖS ĮSTATYMO 2
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė
 
-Trapinskienė (2010-11-26)
+Trapinskienė (2011-06-13)
 
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 10 straipsnis.
 
