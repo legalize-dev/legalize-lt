@@ -4,7 +4,7 @@ identifier: "TAR.132D0D75309C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2008-09-01"
+last_updated: "2011-06-11"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo trečiasis, ketvirtasis ir penktasis ski
 ---
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2008-09-01 iki 2011-06-10
+Suvestinė redakcija nuo 2011-06-11 iki 2012-02-29
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
 
@@ -59,7 +59,11 @@ BENDROSIOS NUOSTATOS
 
 5. Šis įstatymas netaikomas pelno nesiekiantiems ribotos civilinės atsakomybės juridiniams asmenims. Jų finansinių ataskaitų sudarymo ir pateikimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija, jeigu jų veiklą reglamentuojantys įstatymai nenustato kitaip.
 
-6. Finansų įstaigoms jų veiklą reglamentuojantys įstatymai ir kiti teisės aktai gali nustatyti papildomų reikalavimų dėl finansinių ataskaitų.
+6. Šio įstatymo reikalavimai finansų įstaigoms, reguliuojamos rinkos operatoriui ir Lietuvos centriniam vertybinių popierių depozitoriumui taikomi tiek, kiek jų veiklą reglamentuojantys įstatymai nenustato kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1403, 2011-05-24, Žin., 2011, Nr. 71-3365 (2011-06-11), i. k. 1111010ISTA0XI-1403
 
 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -442,6 +446,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1633, 2008-06-26, Žin., 2008, Nr. 79-3098 (2008-07-12), i. k. 1081010ISTA00X-1633
 
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1403, 2011-05-24, Žin., 2011, Nr. 71-3365 (2011-06-11), i. k. 1111010ISTA0XI-1403
+
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 2 straipsnio pakeitimo įstatymas
 
 28 straipsnis. Atsakomybė už finansinės atskaitomybės sudarymą
 
