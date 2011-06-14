@@ -4,7 +4,7 @@ identifier: "TAR.A9C13A86ED0A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2011-05-03"
+last_updated: "2011-06-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A9C13A86ED0A"
 department: "Lietuvos Respublikos Seimas"
@@ -662,11 +662,31 @@ nustatyta tvarka Lietuvos Respublikoje gali būti įvedama karo padėtis ir
 
 skelbiama mobilizacija.
 
-2. Kolektyvinės
+1 dalies redakcija nuo 2011 m. liepos 1 d.:
 
-gynybos operacijos atveju taip pat taikomas Ginkluotos gynybos ir
+1.
 
-pasipriešinimo agresijai įstatymas.
+Priimant sprendimus dėl Lietuvos Respublikos dalyvavimo tarptautinėse
+
+operacijose, prireikus pagal Lietuvos Respublikos Konstituciją ir
+
+įstatymų nustatyta tvarka Lietuvos Respublikoje gali būti įvedama karo padėtis
+
+ir (ar) skelbiama mobilizacija.
+
+2. Kolektyvinės gynybos
+
+operacijos atveju taip pat taikomas Ginkluotos gynybos ir pasipriešinimo
+
+agresijai įstatymas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-1416,
+
+2011-05-26, Žin., 2011, Nr. 72-3467 (2011-06-14)
 
 III SKYRIUS
 
@@ -680,27 +700,27 @@ straipsnis. Pratybų ir kitų renginių organizavimas
 
 su kitomis valstybėmis ar (ir) tarptautinėmis institucijomis:
 
-1) Lietuvos Respublikos
+1) Lietuvos
 
-teritorijoje gali būti rengiamos bendros Lietuvos Respublikos ir kitų valstybių
+Respublikos teritorijoje gali būti rengiamos bendros Lietuvos Respublikos ir kitų
 
-karinių vienetų pratybos arba kitų valstybių karinių vienetų pratybos Lietuvos
+valstybių karinių vienetų pratybos arba kitų valstybių karinių vienetų pratybos
 
-Respublikos krašto apsaugos sistemai skirtuose infrastruktūros objektuose ir
+Lietuvos Respublikos krašto apsaugos sistemai skirtuose infrastruktūros
 
-karinio mokymo teritorijose, taip pat organizuojami kiti renginiai, kuriuose
+objektuose ir karinio mokymo teritorijose, taip pat organizuojami kiti
 
-dalyvauja kitų valstybių kariniai vienetai, kariai ir karinėms pajėgoms
+renginiai, kuriuose dalyvauja kitų valstybių kariniai vienetai, kariai ir
 
-priskirti civiliai tarnautojai;
+karinėms pajėgoms priskirti civiliai tarnautojai;
 
 2) Lietuvos
 
-Respublikos kariniai vienetai, kariai ir civiliai krašto apsaugos sistemos tarnautojai
+Respublikos kariniai vienetai, kariai ir civiliai krašto apsaugos sistemos
 
-gali būti siunčiami dalyvauti pratybose bei kituose renginiuose kitų valstybių
+tarnautojai gali būti siunčiami dalyvauti pratybose bei kituose renginiuose
 
-teritorijose.
+kitų valstybių teritorijose.
 
 2. Šio Įstatymo
 
@@ -1748,9 +1768,9 @@ Respublikos karinių vienetų, karių ir civilių krašto apsaugos sistemos
 
 tarnautojų vykimas per valstybės sieną bei jų statusas
 
-1. Siunčiamam į
+1. Siunčiamam į kitą
 
-kitą valstybę Lietuvos Respublikos kariniam vienetui, kariui ar civiliui krašto
+valstybę Lietuvos Respublikos kariniam vienetui, kariui ar civiliui krašto
 
 apsaugos sistemos tarnautojui krašto apsaugos ministro nustatyta tvarka
 
@@ -1958,9 +1978,9 @@ tarnautojų vykimas per Lietuvos Respublikos teritoriją
 
 tranzitu
 
-1. Tos valstybės,
+1. Tos valstybės, kurios
 
-kurios kariniam vienetui, kariams ir karinėms pajėgoms priskirtiems civiliams
+kariniam vienetui, kariams ir karinėms pajėgoms priskirtiems civiliams
 
 tarnautojams pagal šį Įstatymą gali būti leidžiama atvykti į Lietuvos
 
@@ -2068,13 +2088,13 @@ kariniams pareigūnams, kuriuos Lietuvos Respublika yra pakvietusi stebėtojais.
 
 Respublikos kariniai vienetai, kariai ir civiliai krašto apsaugos sistemos
 
-tarnautojai gali dalyvauti NVS šalių teritorijose tik pagal NATO Partnerystės taikos
+tarnautojai gali dalyvauti NVS šalių teritorijose tik pagal NATO Partnerystės
 
-labui programą arba kartu su NATO, Europos Sąjungos ar Vakarų Europos Sąjungos
+taikos labui programą arba kartu su NATO, Europos Sąjungos ar Vakarų Europos
 
-valstybėmis rengiamose pratybose. Ši sąlyga netaikoma Lietuvos kariams ir
+Sąjungos valstybėmis rengiamose pratybose. Ši sąlyga netaikoma Lietuvos kariams
 
-civiliams krašto apsaugos sistemos tarnautojams, kuriuos pratybas rengianti
+ir civiliams krašto apsaugos sistemos tarnautojams, kuriuos pratybas rengianti
 
 šalis yra pakvietusi stebėtojais.
 
@@ -2084,25 +2104,25 @@ kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai
 
 gali dalyvauti Lietuvos Respublikos teritorijoje organizuojamuose kituose
 
-renginiuose, kurie organizuojami plėtojant Lietuvos Respublikos tarptautinį karinį
+renginiuose, kurie organizuojami plėtojant Lietuvos Respublikos tarptautinį
 
-bendradarbiavimą Lietuvos valstybės ir kitų kolektyvinės gynybos sutarties
+karinį bendradarbiavimą Lietuvos valstybės ir kitų kolektyvinės gynybos
 
-šalių bei tarptautinio ar regioninio saugumo užtikrinimo tikslais ir yra
+sutarties šalių bei tarptautinio ar regioninio saugumo užtikrinimo tikslais ir
 
-valdomi bei kontroliuojami Lietuvos Respublikos. Bendras NVS valstybių karių ir
+yra valdomi bei kontroliuojami Lietuvos Respublikos. Bendras NVS valstybių
 
-karinėms pajėgoms priskirtų civilių tarnautojų, vienu metu dalyvaujančių
+karių ir karinėms pajėgoms priskirtų civilių tarnautojų, vienu metu
 
-kituose renginiuose Lietuvos Respublikoje, skaičius turi būti mažesnis, negu
+dalyvaujančių kituose renginiuose Lietuvos Respublikoje, skaičius turi būti
 
-Lietuvos kariuomenės dalinio (bent dviejų kuopų) karių ir civilių krašto
+mažesnis, negu Lietuvos kariuomenės dalinio (bent dviejų kuopų) karių ir
 
-apsaugos sistemos tarnautojų skaičius. NVS šalių kariniai vienetai gali atvykti
+civilių krašto apsaugos sistemos tarnautojų skaičius. NVS šalių kariniai
 
-į Lietuvos Respublikoje organizuojamus kitus renginius ir būti Lietuvos
+vienetai gali atvykti į Lietuvos Respublikoje organizuojamus kitus renginius ir
 
-Respublikos teritorijoje tik to renginio metu.
+būti Lietuvos Respublikos teritorijoje tik to renginio metu.
 
 Straipsnio
 
@@ -2314,7 +2334,29 @@ XI-1331,
 
 TARPTAUTINIŲ OPERACIJŲ, PRATYBŲ
 
-IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 14 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-1416,
+
+2011-05-26, Žin., 2011, Nr. 72-3467 (2011-06-14)
+
+TARPTAUTINIŲ OPERACIJŲ, PRATYBŲ
+
+IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2011 m. liepos 1 d.
 
 ***
 
@@ -2336,13 +2378,11 @@ DĖL LIETUVOS RESPUBLIKOS
 
 TARPTAUTINIŲ OPERACIJŲ, PRATYBŲ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ
 
-ĮSTATYMO (2002 M. SAUSIO 15 D. REDAKCIJA) 5 STRAIPSNIO 1, 2, 3, 4 DALIŲ, 6
+ĮSTATYMO (2002 M. SAUSIO 15 D. REDAKCIJA) 5 STRAIPSNIO 1, 2, 3, 4 DALIŲ, 6 STRAIPSNIO
 
-STRAIPSNIO 2, 3, 4 DALIŲ, 10 STRAIPSNIO (2005 M. GEGUŽĖS 12 D. REDAKCIJA) 1, 2,
+2, 3, 4 DALIŲ, 10 STRAIPSNIO (2005 M. GEGUŽĖS 12 D. REDAKCIJA) 1, 2, 3 DALIŲ,
 
-3 DALIŲ, 14 STRAIPSNIO 2, 3, 5 DALIŲ ATITIKTIES LIETUVOS RESPUBLIKOS
-
-KONSTITUCIJAI
+14 STRAIPSNIO 2, 3, 5 DALIŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 ***
 
@@ -2350,7 +2390,7 @@ Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2011-05-04)
+Aušrinė Trapinskienė (2011-06-27)
 
 ausrine.trapinskiene@lrs.lt
 
