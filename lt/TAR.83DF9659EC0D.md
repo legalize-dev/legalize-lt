@@ -4,7 +4,7 @@ identifier: "TAR.83DF9659EC0D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-04-09"
-last_updated: "2010-12-02"
+last_updated: "2011-06-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.83DF9659EC0D"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -99,7 +99,9 @@ Nr. IX-1455,
 
 1 straipsnis.
 
-(Neteko galios)
+Atsakomybę už Lietuvos gyventojų
+
+genocidą nustato Lietuvos Respublikos įstatymai.
 
 Straipsnio
 
@@ -109,15 +111,19 @@ Nr. VIII-708, 1998.04.21,
 
 Žin., 1998, Nr. 42-1140 (1998.05.06)
 
+Nr. XI-1440,
+
+2011-06-09, Žin., 2011, Nr. 74-3544 (2011-06-18)
+
 2 straipsnis.
 
-Lietuvos žmonių žudymas ar kankinimas, jos
+Lietuvos žmonių žudymas ar kankinimas, jos gyventojų
 
-gyventojų deportavimas, padaryti nacistinės Vokietijos ar SSRS okupacijos ir
+deportavimas, padaryti nacistinės Vokietijos ar SSRS okupacijos ir aneksijos
 
-aneksijos Lietuvoje metais, atitinka tarptautinės teisės normose numatyto
+Lietuvoje metais, atitinka tarptautinės teisės normose numatyto genocido
 
-genocido nusikaltimo požymius.
+nusikaltimo požymius.
 
 3 straipsnis.
 
@@ -227,6 +233,18 @@ Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.
 
 2003 m. gegužės 1 d.
 
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1440,
+
+2011-06-09, Žin., 2011, Nr. 74-3544 (2011-06-18)
+
+ĮSTATYMO "DĖL ATSAKOMYBĖS UŽ
+
+LIETUVOS GYVENTOJŲ GENOCIDĄ" PAPILDYMO 1 STRAIPSNIU ĮSTATYMAS
+
 *** Pabaiga ***
 
 Konstitucinio Teismo nutarimai:
@@ -263,7 +281,7 @@ skelbtas: Žin., 2011, Nr. 33 (2011-03-19)
 
 Redagavo Aušrinė Trapinskienė
 
-(2010-12-02)
+(2011-06-20)
 
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
