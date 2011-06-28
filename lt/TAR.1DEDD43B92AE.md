@@ -4,7 +4,7 @@ identifier: "TAR.1DEDD43B92AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-03"
-last_updated: "2010-12-31"
+last_updated: "2011-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE"
 department: "Lietuvos Respublikos Seimas"
@@ -269,9 +269,9 @@ XI-90,
 
 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
 
-Nr. XI-708, 2010-03-30, Žin.,
+Nr. XI-708,
 
-2010, Nr. 41-1933 (2010-04-10)
+2010-03-30, Žin., 2010, Nr. 41-1933 (2010-04-10)
 
 9
 
@@ -371,9 +371,13 @@ rūšis, jų dydžius, asmenų, turinčių teisę gauti išmokas, kategorijas, �
 
 išmokų skyrimo ir mokėjimo sąlygas, tvarką ir finansavimą.
 
-2. Šis įstatymas taikomas nuolat Lietuvos Respublikoje
+2.
 
-gyvenantiems asmenims ir Lietuvos Respublikoje gyvenantiems užsieniečiams,
+Šio įstatymo nuostatos taikomos:
+
+1) Lietuvos Respublikoje nuolat gyvenantiems asmenims;
+
+2) Lietuvos Respublikoje gyvenantiems užsieniečiams,
 
 įstatymų nustatyta tvarka paskirtiems vaiko, Lietuvos Respublikos piliečio,
 
@@ -383,23 +387,55 @@ užsieniečiams, kuriems įstatymų nustatyta tvarka globa (rūpyba) nustatyta
 
 Lietuvos Respublikoje arba kurių globos (rūpybos) vykdymą perėmė Lietuvos
 
-Respublikos kompetentinga institucija.
+Respublikos kompetentinga institucija;
 
-3. Vienkartinė
+3) skiriant išmoką vaikui, Lietuvos Respublikoje
 
-išmoka vaikui ir išmoka vaikui skiriama, jei šio straipsnio 2 dalies nuostatą
+gyvenantiems užsieniečiams, kuriems leidimas laikinai gyventi išduotas kaip
 
-atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas
+ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos
 
-nuolat gyvena Lietuvos Respublikoje. Išmoka privalomosios pradinės karo
+reikalaujantį darbą, kaip ši sąvoka apibrėžta tai
 
-tarnybos kario vaikui (toliau – privalomosios tarnybos kario vaikui) skiriama,
+reglamentuojančiuose Lietuvos Respublikos teisės aktuose;
 
-jei šio straipsnio 2 dalies nuostatą atitinka nors vienas iš vaiko tėvų ir
+4) skiriant išmoką vaikui, asmenims, kuriems
 
-vaikas nuolat gyvena Lietuvos Respublikoje. Vienkartinė išmoka įsikurti
+vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo
 
-skiriama tik nuolat Lietuvos Respublikoje gyvenantiems asmenims.
+reglamentais turi būti taikomas šis įstatymas.
+
+3. Vienkartinė išmoka vaikui skiriama, jei nors vienas
+
+iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas yra Lietuvos Respublikoje
+
+nuolat gyvenantys asmenys. Išmoka vaikui skiriama, jei šio straipsnio 2 dalies
+
+1 ar 3 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų
+
+(rūpintojų) ir vaikas nuolat gyvena ar turi leidimą laikinai gyventi Lietuvos
+
+Respublikoje arba jei šio straipsnio 2 dalies 4 punkto nuostatą atitinka nors
+
+vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas gyvena Europos
+
+Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar
+
+Šveicarijos Konfederacijoje. Išmoka privalomosios pradinės karo tarnybos kario
+
+vaikui (toliau – privalomosios tarnybos kario vaikui) skiriama, jei nors vienas
+
+iš vaiko tėvų ir vaikas yra Lietuvos Respublikoje nuolat gyvenantys
+
+asmenys. Vienkartinė išmoka įsikurti skiriama tik Lietuvos Respublikoje
+
+nuolat gyvenantiems asmenims.
+
+4. Šio įstatymo
+
+nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo
+
+priede.
 
 Straipsnio pakeitimai:
 
@@ -410,6 +446,10 @@ Nr. X-641, 2006-06-01,
 Nr. X-1664,
 
 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+
+Nr. XI-1434,
+
+2011-06-09, Žin., 2011, Nr. 77-3721 (2011-06-28)
 
 2
 
@@ -439,17 +479,15 @@ moterims, vienam iš vaiko tėvų ar globėjų (rūpintojų) šio įstatymo nust
 
 ir tvarka.
 
-4. Nuolat
+4. Lietuvos Respublikoje nuolat gyvenantys asmenys
 
-Lietuvos Respublikoje gyvenantys asmenys
+– Lietuvos Respublikos piliečiai ir Lietuvos Respublikoje nuolat gyvenantys
 
-– Lietuvos Respublikos piliečiai, kurių duomenys apie gyvenamąją vietą Lietuvos
+užsieniečiai, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje, o
 
-Respublikoje, o neturinčių gyvenamosios vietos – apie savivaldybę, kurioje
+neturinčių gyvenamosios vietos – apie savivaldybę, kurios teritorijoje gyvena,
 
-gyvena, yra įrašyti į Lietuvos Respublikos gyventojų registrą, arba nuolat
-
-Lietuvos Respublikoje gyvenantys užsieniečiai bei asmenys be pilietybės.
+yra įrašyti į Lietuvos Respublikos gyventojų registrą.
 
 5. Socialinės
 
@@ -510,6 +548,10 @@ Nr. X-496, 2006-01-19,
 Nr. X-1664,
 
 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+
+Nr. XI-1434,
+
+2011-06-09, Žin., 2011, Nr. 77-3721 (2011-06-28)
 
 įstatymo 2 straipsnis įsigalioja nuo 2005 m. sausio 1 d.
 
@@ -623,13 +665,13 @@ biudžetams, o nuo 2007 m. sausio 1 d. – iš valstybės biudžeto lėšų.
 
 2.
 
-Išmokoms administruoti skiriama nuo 2 iki 4 procentų šio įstatymo
+Išmokoms administruoti skiriama nuo 2 iki 4 procentų šio įstatymo reglamentuotoms
 
-reglamentuotoms išmokoms mokėti skirtų lėšų. Konkretų išmokoms administruoti
+išmokoms mokėti skirtų lėšų. Konkretų išmokoms administruoti skiriamų lėšų
 
-skiriamų lėšų procento dydį iki biudžetinių metų pradžios nustato socialinės
+procento dydį iki biudžetinių metų pradžios nustato socialinės apsaugos ir
 
-apsaugos ir darbo ministras.
+darbo ministras.
 
 3. Valstybės biudžeto lėšų išmokoms
 
@@ -781,11 +823,11 @@ profesinio mokymo programą pirmajai kvalifikacijai įgyti ar studijuoja
 
 aukštojoje mokykloje pagal dieninės studijų formos nuosekliųjų studijų programą
 
-ar nuolatinės studijų formos programą (įskaitant ir akademinių atostogų
+ar nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį),
 
-laikotarpį), bet ne ilgiau, kaip iki jam sukanka 24 metai, skiriama 0,75
+bet ne ilgiau, kaip iki jam sukanka 24 metai, skiriama 0,75 bazinės socialinės
 
-bazinės socialinės išmokos dydžio išmoka per mėnesį.
+išmokos dydžio išmoka per mėnesį.
 
 5. Kiekvienam
 
@@ -795,11 +837,11 @@ mėnesį nuo gimimo dienos, iki jam sukanka 3 metai, o globojamam (rūpinamam)
 
 vaikui nuo 3 iki 18 metų ir vyresniam, kuris mokosi pagal bendrojo lavinimo
 
-programą ir (ar) pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai
+programą ir (ar) pagal formaliojo profesinio mokymo programą pirmajai
 
-įgyti, bet ne ilgiau, kaip iki jam sukanka 21 metai, skiriama 0,4 bazinės
+kvalifikacijai įgyti, bet ne ilgiau, kaip iki jam sukanka 21 metai, skiriama
 
-socialinės išmokos dydžio išmoka per mėnesį.
+0,4 bazinės socialinės išmokos dydžio išmoka per mėnesį.
 
 6. Baigusiam bendrojo lavinimo programą vyresniam kaip
 
@@ -857,9 +899,9 @@ Nr. XI-182,
 
 2009-02-19, Žin., 2009, Nr. 25-984 (2009-03-05)
 
-Nr. XI-708, 2010-03-30, Žin.,
+Nr. XI-708,
 
-2010, Nr. 41-1933 (2010-04-10)
+2010-03-30, Žin., 2010, Nr. 41-1933 (2010-04-10)
 
 15 straipsnis. Informacijos
 
@@ -933,9 +975,9 @@ XI-90,
 
 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
 
-Nr. XI-708, 2010-03-30, Žin.,
+Nr. XI-708,
 
-2010, Nr. 41-1933 (2010-04-10)
+2010-03-30, Žin., 2010, Nr. 41-1933 (2010-04-10)
 
 21 straipsnis. Įstatymo
 
@@ -955,9 +997,9 @@ X-1158,
 
 2007-06-05, Žin., 2007, Nr. 68-2648 (2007-06-21)
 
-Nr. X-1664,
+Nr. X-1664, 2008-07-01,
 
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+Žin., 2008, Nr. 81-3175 (2008-07-17)
 
 Nr.
 
@@ -972,6 +1014,28 @@ Skelbiu
 RESPUBLIKOS
 
 PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
+
+Lietuvos Respublikos
+
+išmokų
+
+vaikams įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB
+
+dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti
+
+aukštos kvalifikacijos darbą (OL 2009 L 155, p. 17).
+
+Įstatymas papildytas priedu:
+
+Nr. XI-1434,
+
+2011-06-09, Žin., 2011, Nr. 77-3721 (2011-06-28)
 
 ______________
 
@@ -1207,11 +1271,11 @@ moka tos savivaldybės, kurios vaiko teisių apsaugos institucijos teikimu vaiku
 
 buvo nustatyta globa (rūpyba) arba po 2007 m. sausio 1 d. imtinai buvo globėju
 
-(rūpintoju) paskirta apskrities viršininko įsteigta vaikų socialinės globos
+(rūpintoju) paskirta apskrities viršininko įsteigta vaikų socialinės globos įstaiga,
 
-įstaiga, administracija. Tais atvejais, kai besimokantis vyresnis kaip 18 metų
+administracija. Tais atvejais, kai besimokantis vyresnis kaip 18 metų asmuo
 
-asmuo lieka gyventi ir yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas
+lieka gyventi ir yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas
 
 paslaugas) socialinės globos įstaigoje, kurioje iki pilnametystės jam buvo
 
@@ -1333,13 +1397,13 @@ Nr. XI-181,
 
 2009-02-19, Žin., 2009, Nr. 25-983 (2009-03-05)
 
-Nr. XI-708, 2010-03-30, Žin.,
+Nr. XI-708,
 
-2010, Nr. 41-1933 (2010-04-10)
+2010-03-30, Žin., 2010, Nr. 41-1933 (2010-04-10)
 
-Nr.
+Nr. XI-1238,
 
-XI-1238, 2010-12-16, Žin., 2010, Nr. 157-7972 (2010-12-31)
+2010-12-16, Žin., 2010, Nr. 157-7972 (2010-12-31)
 
 14 straipsnis. Išmokų
 
