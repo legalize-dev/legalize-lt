@@ -4,7 +4,7 @@ identifier: "TAR.B2F1F575D794"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "2010-05-04"
+last_updated: "2011-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
 department: "Lietuvos Respublikos Seimas"
@@ -213,21 +213,39 @@ metams pasibaigus patikslinti konkretų konsulinio mokesčio dydį, atsižvelgda
 
 sumažėjimą.
 
-5 straipsnis. Mokesčio
+5 straipsnis.
 
-dydžio ir lengvatų taikymas pariteto pagrindais
+Mokesčio dydžio ir lengvatų taikymas pariteto pagrindais ir įgyvendinant
 
-Lietuvos Respublikos Vyriausybė tiek, kiek tai neprieštarauja Europos
+Lietuvos Respublikos Seimo priimtus teisės aktus
 
-Sąjungos teisės aktams, turi teisę pariteto pagrindais padidinti, sumažinti
+Lietuvos Respublikos Vyriausybė tiek, kiek tai
 
-arba neimti konsulinio mokesčio už vizas, dokumentų pareikalavimą ir jų
+neprieštarauja Europos Sąjungos teisės aktams, turi teisę padidinti, sumažinti
 
-legalizavimą užsienio valstybių juridiniams ir fiziniams asmenims,
+arba neimti pagal šio įstatymo 4 straipsnį nustatyto konsulinio mokesčio:
 
-atsižvelgdama į tai, kokio dydžio mokestį šios valstybės ima iš Lietuvos
+1) pariteto pagrindais už prašymų išduoti vizas
 
-Respublikos juridinių ir fizinių asmenų.
+nagrinėjimą, dokumentų pareikalavimą ir jų legalizavimą užsienio valstybių
+
+juridiniams ir fiziniams asmenims, atsižvelgiant į tai, kokio dydžio mokestį
+
+šios valstybės ima iš Lietuvos Respublikos juridinių ir fizinių asmenų;
+
+2) už prašymų išduoti vizas nagrinėjimą, kai tai
+
+būtina įgyvendinant Lietuvos Respublikos Seimo priimtuose teisės aktuose
+
+numatytus užsienio politikos ar nacionalinio saugumo tikslus. Jeigu konsulinis
+
+mokestis didinamas, jis negali būti didesnis kaip 500 eurų.
+
+Straipsnio pakeitimas:
+
+Nr. XI-1461,
+
+2011-06-20, Žin., 2011, Nr. 78-3800 (2011-06-30)
 
 6 straipsnis. Mokesčio lengvatos
 
@@ -345,11 +363,11 @@ dokumentus, nagrinėjimą;
 
 išimtiniais, kitais, negu numatyta šio straipsnio 8–12 punktuose, atvejais, kai
 
-užsieniečiai atvyksta į Lietuvos Respubliką kultūros, užsienio politikos,
+užsieniečiai atvyksta į Lietuvos Respubliką kultūros, užsienio politikos, vystomojo
 
-vystomojo bendradarbiavimo skatinimo ar kitais visuomenei svarbiais tikslais
+bendradarbiavimo skatinimo ar kitais visuomenei svarbiais tikslais arba dėl
 
-arba dėl humanitarinių priežasčių;
+humanitarinių priežasčių;
 
 14) prašymų išduoti (D) vizas užsieniečiams, dėl kurių
 
@@ -373,13 +391,13 @@ instrukciją ir Bendrąjį vadovą, nagrinėjimą;
 
 Respublikoje išdavimo priėmimą ir perdavimą vaikams iki 16 metų;
 
-17) dokumentų dėl leidimo gyventi Lietuvos
+17) dokumentų dėl leidimo gyventi Lietuvos Respublikoje
 
-Respublikoje išdavimo priėmimą ir perdavimą lietuvių kilmės asmenims ir
+išdavimo priėmimą ir perdavimą lietuvių kilmės asmenims ir asmenims,
 
-asmenims, išsaugojusiems teisę į Lietuvos Respublikos pilietybę, pateikusiems
+išsaugojusiems teisę į Lietuvos Respublikos pilietybę, pateikusiems tai
 
-tai patvirtinančius dokumentus (tarp jų ir šios dalies 11 punkte nurodytą
+patvirtinančius dokumentus (tarp jų ir šios dalies 11 punkte nurodytą
 
 dokumentą), ir kartu gyventi į Lietuvos Respubliką atvykstantiems šių asmenų
 
@@ -783,13 +801,27 @@ KONSULINIO
 
 MOKESČIO ĮSTATYMO 6 STRAIPSNIO IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1461,
+
+2011-06-20, Žin., 2011, Nr. 78-3800 (2011-06-30)
+
+KONSULINIO
+
+MOKESČIO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2010-05-04)
+(2011-06-30)
 
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 11 straipsnis. Baigiamosios nuostatos
 
