@@ -4,7 +4,7 @@ identifier: "TAR.1E52802BE548"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-03"
-last_updated: "2010-01-05"
+last_updated: "2011-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1E52802BE548"
 department: "Lietuvos Respublikos Seimas"
@@ -71,7 +71,7 @@ Nr.
 
 XI-243, 2009-04-30,
 
-Žin., 2009, Nr. 54-2141 (2009-05-12)(papildyta 2 dalimi)
+Žin., 2009, Nr. 54-2141 (2009-05-12)
 
 2
 
@@ -1537,11 +1537,99 @@ išlaidos per finansinius metus;
 
 darbuotojų skaičius finansinių metų pradžioje ir pabaigoje.
 
+2
+
+dalies redakcija nuo 2011 m. lapkričio 1 d.:
+
+2. Viešosios
+
+įstaigos veiklos ataskaitoje turi būti nurodyta:
+
+1) informacija
+
+apie viešosios įstaigos veiklos tikslus, pobūdį ir veiklos rezultatus per
+
+finansinius metus;
+
+2) viešosios
+
+įstaigos dalininkai ir kiekvieno jų įnašų vertė finansinių metų pradžioje ir
+
+pabaigoje;
+
+3) viešosios
+
+įstaigos gautos lėšos ir jų šaltiniai per finansinius metus ir šių lėšų
+
+panaudojimas pagal išlaidų rūšis;
+
+4) informacija
+
+apie viešosios įstaigos įsigytą ir perleistą ilgalaikį turtą per finansinius
+
+metus;
+
+5) viešosios
+
+įstaigos sąnaudos per finansinius metus, iš jų – išlaidos darbo užmokesčiui;
+
+6) viešosios
+
+įstaigos darbuotojų skaičius finansinių metų pradžioje ir pabaigoje;
+
+7) viešosios
+
+įstaigos sąnaudos valdymo išlaidoms;
+
+8) duomenys apie
+
+viešosios įstaigos vadovą, įstaigos išlaidos vadovo darbo užmokesčiui ir kitoms
+
+viešosios įstaigos vadovo išmokoms;
+
+9) viešosios
+
+įstaigos išlaidos kolegialių organų kiekvieno nario darbo užmokesčiui ir kitoms
+
+įstaigos kolegialių organų narių išmokoms;
+
+10) viešosios
+
+įstaigos išlaidos išmokoms su viešosios įstaigos dalininku susijusiems
+
+asmenims, nurodytiems šio įstatymo 3 straipsnio 3 dalyje.
+
 3. Viešosios įstaigos
 
 veiklos ataskaitoje gali būti ir kita informacija, kurią nustato visuotinis dalininkų
 
 susirinkimas.
+
+Straipsnis
+
+papildomas 4 dalimi nuo 2011 m. lapkričio 1 d.:
+
+4. Viešosios
+
+įstaigos veiklos ataskaita yra viešas dokumentas. Ne vėliau kaip per 5 darbo
+
+dienas nuo eilinio visuotinio dalininkų susirinkimo viešosios įstaigos veiklos
+
+ataskaita turi būti pateikta Juridinių asmenų registrui ir paskelbta viešosios
+
+įstaigos interneto svetainėje. Jeigu viešoji įstaiga interneto svetainės neturi,
+
+tretiesiems asmenims turi būti sudarytos sąlygos su šia ataskaita susipažinti
+
+viešosios įstaigos buveinėje.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-1446,
+
+2011-06-16, Žin., 2011, Nr. 78-3794 (2011-06-30)
 
 12 straipsnis.
 
@@ -2285,15 +2373,35 @@ VIEŠŲJŲ
 
 ĮSTAIGŲ ĮSTATYMO 5, 6, 8, 10, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-1446,
+
+2011-06-16, Žin., 2011, Nr. 78-3794 (2011-06-30)
+
+VIEŠŲJŲ
+
+ĮSTAIGŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+įstatymas, išskyrus 3 straipsnį, įsigalioja 2011 m. lapkričio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2010-01-14)
+Aušrinė Trapinskienė (2011-07-01)
 
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 14 straipsnis.
 
