@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2010-10-23"
+last_updated: "2011-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -200,19 +200,33 @@ X-1277,
 
 2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
 
-8 straipsnis.
+8 straipsnis. Valstybės
 
-Valstybės rinkliavos keitimas ar panaikinimas pariteto pagrindais
+rinkliavos keitimas ar neėmimas
 
 Tais atvejais,
 
-kai pariteto pagrindais didinamas, mažinamas ar panaikinamas konsulinis
+kai pariteto pagrindais, taip pat kai tai būtina įgyvendinant
 
-mokestis už vizų išdavimą užsienio valstybių piliečiams bei asmenims be
+Lietuvos Respublikos Seimo priimtuose teisės aktuose numatytus užsienio
 
-pilietybės, taip pat keičiama ar panaikinama ir valstybės rinkliava už vizų
+politikos ar nacionalinio saugumo tikslus, didinamas,
 
-išdavimą.
+mažinamas ar neimamas konsulinis mokestis už prašymų išduoti vizas ar joms
+
+prilygintus dokumentus priėmimą ir svarstymą, sprendimų dėl vizų ar joms
+
+prilyginto dokumento išdavimo ar atsisakymo išduoti priėmimą užsienio valstybių
+
+piliečiams bei asmenims be pilietybės, taip pat keičiama ar neimama ir
+
+valstybės rinkliava už vizų išdavimą.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1462,
+
+2011-06-20, Žin., 2011, Nr. 78-3801 (2011-06-30)
 
 9
 
@@ -258,7 +272,9 @@ terminą.
 
 rinkliavos grąžinimo tvarką nustato Vyriausybė.
 
-III SKYRIUS
+III
+
+SKYRIUS
 
 VIETINĖS
 
@@ -300,9 +316,7 @@ prekybai pritaikytų automobilių ar priekabų, lauko kavinių);
 
 3) leidimo
 
-įrengti išorinę reklamą ant savivaldybei priklausančių ar valdytojo teise
-
-valdomų objektų išdavimą;
+įrengti išorinę reklamą savivaldybės teritorijoje išdavimą;
 
 4) leidimo
 
@@ -332,9 +346,9 @@ vietas automobiliams statyti prie valstybinės reikšmės kelių, 5–15 m pažy
 
 atkarpoje prie valstybės įstaigų, institucijų ir tarnybų, taip pat vietas,
 
-kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar
+kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar kitus
 
-kitus viešuosius interesus užtikrinančius reikalavimus);
+viešuosius interesus užtikrinančius reikalavimus);
 
 7) gyvūnų (šunų,
 
@@ -360,15 +374,17 @@ išdavimą;
 
 11) naudojimąsi
 
-gyvenamųjų vietovių, turinčių kurorto statusą, viešąja infrastruktūra (viešoji
+gyvenamųjų vietovių, turinčių kurorto ar kurortinės teritorijos statusą,
 
-kurorto infrastruktūra – valstybei ar savivaldybei nuosavybės teise
+viešąja infrastruktūra (viešoji kurorto ar kurortinės teritorijos
 
-priklausantys statiniai, įranga ir bendro naudojimo želdynai, sudarantys
+infrastruktūra – valstybei ar savivaldybei nuosavybės teise priklausantys
 
-visuomenei galimybę naudoti kurorte esančius gamtinius išteklius sveikatinimo,
+statiniai, įranga ir bendro naudojimo želdynai, sudarantys visuomenei galimybę
 
-turizmo ir poilsio reikmėms).
+naudoti kurorte esančius gamtinius išteklius sveikatinimo, turizmo ir poilsio
+
+reikmėms).
 
 2. Iš vietinės
 
@@ -390,6 +406,12 @@ Nr. X-431, 2005-12-08,
 
 Žin., 2005, Nr. 149-5416 (2005-12-22)
 
+Nr.
+
+X-1277,
+
+2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
+
 12
 
 straipsnis. Vietinių rinkliavų nustatymas
@@ -398,9 +420,9 @@ Savivaldybės
 
 taryba savo sprendimu:
 
-1) nustato
+1) nustato vietinę
 
-vietinę rinkliavą;
+rinkliavą;
 
 2) tvirtina
 
@@ -434,7 +456,9 @@ indeksuoti, taikydama metinį vartojimo kainų indeksą, jeigu jis didesnis negu
 
 1,1.
 
-IV SKYRIUS
+IV
+
+SKYRIUS
 
 RINKLIAVŲ
 
@@ -472,7 +496,9 @@ Asmenys, pažeidę šį įstatymą ar su juo susijusius kitus teisės aktus,
 
 atsako įstatymų nustatyta tvarka.
 
-V SKYRIUS
+V
+
+SKYRIUS
 
 ĮSKAITYMAS Į
 
@@ -492,7 +518,9 @@ teikiamas paslaugas įskaitoma į valstybės biudžetą.
 
 rinkliava įskaitoma į savivaldybės, nustačiusios vietinę rinkliavą, biudžetą.
 
-VI SKYRIUS
+VI
+
+SKYRIUS
 
 BAIGIAMOSIOS
 
@@ -710,15 +738,111 @@ RINKLIAVŲ
 
 įstatymas, išskyrus 3 straipsnį, įsigalioja nuo 2007 m. liepos 1 d.
 
-***
+10.
 
-Pabaiga ***
+Lietuvos
 
-Redagavo:
+Respublikos Seimas, Įstatymas
 
-Aušrinė Trapinskienė (2007-06-04)
+Nr.
 
-autrap@lrs.lt
+X-1277,
+
+2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
+
+RINKLIAVŲ
+
+ĮSTATYMO 4, 5, 6, 7, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+įstatymas, išskyrus 5 ir 6 straipsnius, įsigalioja nuo 2008 m. sausio 1 d.
+
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1301,
+
+2007-10-18, Žin., 2007, Nr. 114-4632 (2007-11-08)
+
+RINKLIAVŲ
+
+ĮSTATYMO PAPILDYMO 6(1) STRAIPSNIU ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2008 m. sausio 1 d.
+
+12.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. X-1491,
+
+2008-04-15, Žin., 2008, Nr. 50-1840 (2008-04-30)
+
+RINKLIAVŲ ĮSTATYMO 6, 6(1), 7
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+13.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1811,
+
+2008-11-13, Žin., 2008, Nr. 135-5242 (2008-11-25)
+
+RINKLIAVŲ
+
+ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+14.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. XI-1061,
+
+2010-10-12, Žin., 2010, Nr. 125-6384 (2010-10-23)
+
+RINKLIAVŲ ĮSTATYMO 7 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+15.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. XI-1462,
+
+2011-06-20, Žin., 2011, Nr. 78-3801 (2011-06-30)
+
+RINKLIAVŲ ĮSTATYMO 8 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2011-06-30)
+
+ausrine.trapinskiene@lrs.lt
 
 10 straipsnis.
 
@@ -1632,622 +1756,6 @@ Nr. XI-1061,
 
 2010-10-12, Žin., 2010, Nr. 125-6384 (2010-10-23)
 
-8
-
-straipsnis. Valstybės rinkliavos keitimas ar panaikinimas pariteto pagrindais
-
-Tais atvejais,
-
-kai pariteto pagrindais didinamas, mažinamas ar panaikinamas konsulinis
-
-mokestis už vizų išdavimą užsienio valstybių piliečiams bei asmenims be
-
-pilietybės, taip pat keičiama ar panaikinama ir valstybės rinkliava už vizų
-
-išdavimą.
-
-9
-
-straipsnis. Valstybės rinkliavos mokėjimas
-
-1. Valstybės
-
-rinkliavos mokėjimo tvarką nustato Vyriausybė.
-
-2. Neteko galios (2002-05-04).
-
-Straipsnio pakeitimai:
-
-Nr.IX-847,
-
-2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04)
-
-10
-
-straipsnis. Valstybės rinkliavos grąžinimas
-
-1. Sumokėta
-
-valstybės rinkliava arba jos dalis grąžinama šiais atvejais:
-
-1) kai sumokėta
-
-daugiau negu Vyriausybės nustatytas rinkliavos dydis;
-
-2) jeigu
-
-paslaugos nesuteikiamos.
-
-2. Valstybės
-
-rinkliava grąžinama, jeigu prašymas dėl jos grąžinimo vietos mokesčio
-
-administratoriui pateiktas per Mokesčių administravimo įstatyme nustatytą
-
-terminą.
-
-3. Valstybės
-
-rinkliavos grąžinimo tvarką nustato Vyriausybė.
-
-III
-
-SKYRIUS
-
-VIETINĖS
-
-RINKLIAVOS
-
-11
-
-straipsnis. Vietinių rinkliavų objektai
-
-1. Savivaldybės
-
-taryba turi teisę savivaldybės teritorijoje nustatyti vietines rinkliavas tik
-
-už:
-
-1) leidimo
-
-atlikti kasinėjimo darbus savivaldybės viešojo naudojimo teritorijoje (gatvėse,
-
-vietinės reikšmės keliuose, aikštėse, žaliuosiuose plotuose), atitverti ją ar
-
-jos dalį arba apriboti eismą joje išdavimą;
-
-2) leidimo
-
-prekiauti ar teikti paslaugas savivaldybės tarybos nustatytose viešosiose
-
-vietose išdavimą (viešąja vieta, kurioje vykdoma prekyba, teikiamos paslaugos,
-
-laikytina savivaldybės teritorijoje esanti savivaldybei ar valstybei nuosavybės
-
-teise priklausanti ar patikėjimo teise valdoma teritorija (išskyrus
-
-išnuomotą ar perduotą naudotis teritoriją), kurioje teikiamos paslaugos, taip
-
-pat vykdoma prekyba nuo (iš) laikinųjų prekybos įrenginių, kioskų paviljonų,
-
-prekybai pritaikytų automobilių ar priekabų, lauko kavinių);
-
-3) leidimo
-
-įrengti išorinę reklamą savivaldybės teritorijoje išdavimą;
-
-4) leidimo
-
-organizuoti komercinius renginius savivaldybei priklausančiose ar valdytojo
-
-teise valdomose viešojo naudojimo teritorijose išdavimą;
-
-5) leidimo įvažiuoti mechaninėmis transporto priemonėmis į
-
-valstybės saugomas teritorijas, savivaldybių įsteigtus saugomus draustinius, jų
-
-paskelbtų kraštovaizdžio objektų teritorijas ir nustatytas vietinės reikšmės
-
-apsaugines zonas išdavimą (išskyrus važiavimą per šias teritorijas valstybinės
-
-reikšmės keliais, naudojimąsi jų statiniais, stovėjimo ir poilsio aikštelėmis,
-
-terminalais ir pasienio kontrolės punktais; šios išimtys netaikomos Neringos
-
-miestui);
-
-6) naudojimąsi
-
-savivaldybių tarybos nustatytomis vietomis automobiliams statyti (išskyrus
-
-vietas automobiliams statyti prie valstybinės reikšmės kelių, 5–15 m pažymėtoje
-
-atkarpoje prie valstybės įstaigų, institucijų ir tarnybų, taip pat vietas,
-
-kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar
-
-kitus viešuosius interesus užtikrinančius reikalavimus);
-
-7) gyvūnų (šunų,
-
-kačių) registravimą ir laikymą daugiabučiuose namuose;
-
-8) komunalinių
-
-atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą;
-
-9) leidimo
-
-įrengti laikinus kilnojamus įrenginius savivaldybės teritorijoje (išskyrus prie
-
-valstybinės reikšmės kelių, privačiuose ir išnuomotuose valstybinės
-
-žemės sklypuose) išdavimą;
-
-10)
-
-leidimo pardavinėti I, II ir TO klasės civilines pirotechnikos priemones
-
-išdavimą;
-
-11) naudojimąsi
-
-gyvenamųjų vietovių, turinčių kurorto ar kurortinės teritorijos statusą,
-
-viešąja infrastruktūra (viešoji kurorto ar kurortinės teritorijos
-
-infrastruktūra – valstybei ar savivaldybei nuosavybės teise priklausantys
-
-statiniai, įranga ir bendro naudojimo želdynai, sudarantys visuomenei galimybę
-
-naudoti kurorte esančius gamtinius išteklius sveikatinimo, turizmo ir poilsio
-
-reikmėms).
-
-2. Iš vietinės
-
-rinkliavos mokėtojo negali būti reikalaujama atlyginti už objektą, už kurį
-
-pagal šį įstatymą nustatyta vietinė rinkliava, kitaip negu sumokant vietinę
-
-rinkliavą.
-
-Straipsnio pakeitimai:
-
-Nr.
-
-IX-857,
-
-2002-04-23, Žin., 2002, Nr. 45-1710 (2002-05-04)
-
-Nr. X-431, 2005-12-08,
-
-Žin., 2005, Nr. 149-5416 (2005-12-22)
-
-Nr.
-
-X-1277,
-
-2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
-
-12
-
-straipsnis. Vietinių rinkliavų nustatymas
-
-Savivaldybės
-
-taryba savo sprendimu:
-
-1) nustato
-
-vietinę rinkliavą;
-
-2) tvirtina
-
-vietinės rinkliavos nuostatus;
-
-3) nustato
-
-lengvatas vietinių rinkliavų mokėtojams;
-
-4) nustato
-
-vietinės rinkliavos grąžinimo atvejus.
-
-13
-
-straipsnis. Vietinių rinkliavų dydžiai
-
-1. Vietinės
-
-rinkliavos dydis nustatomas vietinės rinkliavos nuostatuose.
-
-2. Vietinės
-
-rinkliavos dydis nustatomas litais be centų.
-
-3. Savivaldybės
-
-taryba atskiru sprendimu gali vietinės rinkliavos dydį kartą per metus
-
-indeksuoti, taikydama metinį vartojimo kainų indeksą, jeigu jis didesnis negu
-
-1,1.
-
-IV
-
-SKYRIUS
-
-RINKLIAVŲ
-
-RINKIMO KONTROLĖ IR ATSAKOMYBĖ
-
-14
-
-straipsnis. Rinkliavų rinkimo kontrolė
-
-1. Rinkliavų
-
-rinkimą kontroliuoja vietos mokesčio administratorius, Valstybės kontrolė, o
-
-vietinių rinkliavų - dar ir savivaldybės kontrolieriai.
-
-2. Jeigu
-
-patikrinimo metu nustatyta, kad valstybės rinkliavos buvo paimta per mažai arba
-
-ji iš viso nebuvo paimta, tai trūkstama arba visa valstybės rinkliavos suma
-
-išieškoma į atitinkamą biudžetą iš institucijos, dėl kurios kaltės paimta per
-
-maža arba visai nepaimta valstybės rinkliava, Mokesčių administravimo įstatymo
-
-nustatyta tvarka. Institucijai žalą atlygina atsakingi valstybės tarnautojai
-
-įstatymų nustatyta tvarka.
-
-15
-
-straipsnis. Atsakomybė už rinkliavų rinkimo tvarkos pažeidimus
-
-Asmenys, pažeidę šį įstatymą ar su juo susijusius kitus teisės aktus,
-
-atsako įstatymų nustatyta tvarka.
-
-V
-
-SKYRIUS
-
-ĮSKAITYMAS Į
-
-BIUDŽETUS
-
-16
-
-straipsnis. Rinkliavų įskaitymas į biudžetus
-
-1. Valstybės rinkliava įskaitoma į tą biudžetą, iš kurio išlaikoma
-
-paslaugą suteikianti institucija. Valstybės rinkliava už Lietuvos banko
-
-teikiamas paslaugas įskaitoma į valstybės biudžetą.
-
-2. Vietinė
-
-rinkliava įskaitoma į savivaldybės, nustačiusios vietinę rinkliavą, biudžetą.
-
-VI
-
-SKYRIUS
-
-BAIGIAMOSIOS
-
-NUOSTATOS
-
-17
-
-straipsnis. Pasiūlymai Vyriausybei ir savivaldybių taryboms
-
-1. Vyriausybė:
-
-1) ne vėliau
-
-kaip iki 2000 m. spalio 1 d. pagal šio įstatymo nuostatas nustato konkretų
-
-valstybės rinkliavos objektų sąrašą bei šios rinkliavos dydžius, taip pat
-
-patvirtina valstybės rinkliavos mokėjimo ir grąžinimo tvarką;
-
-2) iki šio
-
-įstatymo įsigaliojimo panaikina šiam įstatymui prieštaraujančias rinkliavas;
-
-3) pateikia
-
-Seimui svarstyti Mokesčių administravimo įstatymo 5 straipsnio pakeitimo
-
-įstatymo projektą, kuriuo būtų patikslintas Valstybinės mokesčių inspekcijos
-
-administruojamų mokesčių sąrašas.
-
-2. Savivaldybių
-
-tarybos apsvarsto iki šio įstatymo įsigaliojimo priimtus sprendimus dėl
-
-vietinių rinkliavų nustatymo ir prieštaraujančius šiam įstatymui sprendimus
-
-panaikina.
-
-18
-
-straipsnis. Įstatymo įsigaliojimas
-
-1. Šis įstatymas
-
-įsigalioja nuo 2001 m. sausio 1 d., išskyrus 17 straipsnį.
-
-2. Įsigaliojus
-
-šiam įstatymui, netenka galios:
-
-1) Lietuvos
-
-Respublikos žyminio mokesčio įstatymas (Žin., 1994, Nr.51-950, Nr.89-1712; 1995, Nr.47-1135; 1996, Nr.18-462, Nr.46-1112, Nr.116-2691; 1997, Nr.33-810, Nr.97-2443; 1998, Nr.98-2714);
-
-2) Lietuvos
-
-Respublikos vietinių rinkliavų įstatymas (Žin., 1996, Nr.57-1339; 1997, Nr.58-1329; 1998, Nr.38-998).
-
-Skelbiu
-
-šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
-
-_________________
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-435, 2001-07-10, Žin., 2001, Nr.
-
-62-2233 (2001-07-18)
-
-RINKLIAVŲ ĮSTATYMO 3 IR 4 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-847,
-
-2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04)
-
-RINKLIAVŲ
-
-ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-857, 2002-04-23, Žin., 2002, Nr. 45-1710 (2002-05-04)
-
-RINKLIAVŲ
-
-ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-4.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1077,
-
-2002-09-17, Žin., 2002, Nr. 95-4086 (2002-10-02)
-
-RINKLIAVŲ
-
-ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis
-
-Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
-
-5.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. IX-2139,
-
-2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
-
-ĮMONIŲ IR ORGANIZACIJŲ
-
-NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS
-
-FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO, MOKESČIŲ
-
-UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS
-
-TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO
-
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis
-
-Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
-
-6.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. X-359, 2005-09-29,
-
-Žin., 2005, Nr. 121-4333 (2005-10-11)
-
-RINKLIAVŲ ĮSTATYMO 4 IR 6
-
-STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-7.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. X-431, 2005-12-08,
-
-Žin., 2005, Nr. 149-5416 (2005-12-22)
-
-RINKLIAVŲ ĮSTATYMO 11 STRAIPSNIO
-
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-8.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. X-925, 2006-11-28,
-
-Žin., 2006, Nr. 137-5200 (2006-12-16)
-
-RINKLIAVŲ ĮSTATYMO 4 IR 6
-
-STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-9.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-1155,
-
-2007-05-24, Žin., 2007, Nr. 61-2343 (2007-06-02)
-
-RINKLIAVŲ
-
-ĮSTATYMO 4 IR 6 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas, išskyrus 3 straipsnį, įsigalioja nuo 2007 m. liepos 1 d.
-
-10.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-1277,
-
-2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
-
-RINKLIAVŲ
-
-ĮSTATYMO 4, 5, 6, 7, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis
-
-įstatymas, išskyrus 5 ir 6 straipsnius, įsigalioja nuo 2008 m. sausio 1 d.
-
-11.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-1301, 2007-10-18,
-
-Žin., 2007, Nr. 114-4632 (2007-11-08)
-
-RINKLIAVŲ
-
-ĮSTATYMO PAPILDYMO 6(1) STRAIPSNIU ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2008 m. sausio 1 d.
-
-12.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. X-1491,
-
-2008-04-15, Žin., 2008, Nr. 50-1840 (2008-04-30)
-
-RINKLIAVŲ ĮSTATYMO 6, 6(1), 7
-
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-13.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-1811, 2008-11-13,
-
-Žin., 2008, Nr. 135-5242 (2008-11-25)
-
-RINKLIAVŲ
-
-ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-14.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. XI-1061,
-
-2010-10-12, Žin., 2010, Nr. 125-6384 (2010-10-23)
-
-RINKLIAVŲ ĮSTATYMO 7 STRAIPSNIO
-
-PAKEITIMO ĮSTATYMAS
-
-*** Pabaiga ***
-
-Redagavo Aušrinė Trapinskienė
-
-(2010-10-25)
-
-autrap@lrs.lt
-
 61 straipsnis.
 
 Atleidimas nuo valstybės rinkliavos, kai yra sumokėtas konsulinis mokestis
@@ -2272,11 +1780,11 @@ rinkliavos už dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublik
 
 tvarkymą yra atleidžiami asmenys, kurie dėl dokumentų dėl leidimo gyventi
 
-Lietuvos Respublikoje išdavimo priėmimo ir perdavimo kreipiasi per Lietuvos Respublikos
+Lietuvos Respublikoje išdavimo priėmimo ir perdavimo kreipiasi per Lietuvos
 
-diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję
+Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra
 
-konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos
+sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos
 
 konsulinio mokesčio įstatymo 3 straipsnio 6 punkte, atlikimą.
 
