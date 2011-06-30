@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2011-06-07"
+last_updated: "2011-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -4685,6 +4685,86 @@ juose dalyvaujantiems sveikatos priežiūros ir (ar) farmacijos specialistams, i
 
 vaistų kontrolės tarnybai.
 
+Straipsnis papildomas nauja 4 dalimi,
+
+buvusios 4–8 dalys laikomos atitinkamai 5–9 dalimis nuo 2011 m. rugsėjo 1 d.:
+
+4. Vaistų
+
+reklamuotojai gali teikti informaciją apie reklamuojamą vaistinį preparatą
+
+asmens sveikatos priežiūros įstaigoje vykstančiuose reklaminiuose renginiuose,
+
+kurie turi būti organizuojami asmens sveikatos priežiūros įstaigos vadovo
+
+nustatyta tvarka. Vaistų reklamuotojo vizitas į asmens sveikatos priežiūros
+
+įstaigą, siekiant asmeniškai susitikti su sveikatos priežiūros specialistu,
+
+turinčiu teisę skirti vaistinius preparatus, ir suteikti jam informaciją apie
+
+reklamuojamą vaistinį preparatą, sveikatos priežiūros specialisto darbo laiku,
+
+skirtu pacientams priimti, draudžiamas.
+
+5. Reklamuodami vaistinius
+
+preparatus sveikatos priežiūros specialistams, turintiems teisę išrašyti
+
+vaistinių preparatų, vaistų reklamuotojai gali naudoti vaistinių preparatų
+
+neparduodamus pavyzdžius. Vaistinio preparato neparduodamas pavyzdys turi
+
+atitikti mažiausią rinkoje esančią to paties pavadinimo, formos ir stiprumo
+
+vaistinio preparato pakuotę ir ant pakuotės turi būti užrašas „Neparduodamas
+
+pavyzdys“. Vaistinių preparatų neparduodamus pavyzdžius palikti sveikatos
+
+priežiūros specialistams, platinti farmacijos specialistams ir gyventojams bei
+
+vartoti sveikatos priežiūros tikslais draudžiama.
+
+6. Skatinant
+
+sveikatos priežiūros ir farmacijos specialistus skirti, tiekti ar parduoti
+
+(išduoti) vaistinius preparatus, draudžiama duoti atlygį pinigais ar natūra, o
+
+šiems specialistams – jo prašyti ar jį priimti.
+
+7. Vaistinių
+
+preparatų reklaminiuose renginiuose vaišingumas turi neužgožti renginio
+
+pagrindinio tikslo ir gali būti rodomas tik dalyvaujantiems sveikatos
+
+priežiūros ir (ar) farmacijos specialistams. Draudžiama apmokėti šių
+
+specialistų kelionės, apgyvendinimo ir kitas išlaidas.
+
+8. Profesiniuose
+
+(moksliniuose) renginiuose vaišingumui neturi būti suteikiama tiek reikšmės,
+
+kiek pagrindiniam renginio tikslui. Leidžiama apmokėti tik sveikatos priežiūros
+
+ir (ar) farmacijos specialistų, dalyvaujančių šiuose renginiuose, kelionės,
+
+apgyvendinimo, maitinimo ir (ar) registracijos mokestį.
+
+9. Rinkodaros
+
+teisės turėtojas arba jo atstovas Lietuvos Respublikoje turi kaupti informaciją
+
+apie išlaidas, skirtas reklaminiams, profesiniams (moksliniams) renginiams ir
+
+juose dalyvaujantiems sveikatos priežiūros ir (ar) farmacijos specialistams, ir
+
+šią informaciją sveikatos apsaugos ministro nustatyta tvarka teikti Valstybinei
+
+vaistų kontrolės tarnybai.
+
 Straipsnio
 
 pakeitimai:
@@ -4692,6 +4772,10 @@ pakeitimai:
 Nr. XI-1235,
 
 2010-12-14, Žin., 2010, Nr. 153-7800 (2010-12-28)
+
+Nr. XI-1459,
+
+2011-06-16, Žin., 2011, Nr. 78-3799 (2011-06-30)
 
 VIENUOLIKTASIS
 
@@ -4705,19 +4789,19 @@ BUDRUMAS
 
 straipsnis. Bendrieji farmakologinio budrumo reikalavimai
 
-1. Farmakologinis budrumas
+1. Farmakologinis budrumas įgyvendinamas
 
-įgyvendinamas vadovaujantis šiuo įstatymu, sveikatos apsaugos ministro
+vadovaujantis šiuo įstatymu, sveikatos apsaugos ministro nustatyta tvarka ir
 
-nustatyta tvarka ir Europos Komisijos rekomendacijomis dėl vaistinių preparatų
+Europos Komisijos rekomendacijomis dėl vaistinių preparatų reglamentavimo
 
-reglamentavimo Europos Bendrijoje taisyklių. Įgyvendinant farmakologinį
+Europos Bendrijoje taisyklių. Įgyvendinant farmakologinį budrumą, taip pat turi
 
-budrumą, taip pat turi būti atsižvelgiama į informaciją apie netinkamą vaistinių
+būti atsižvelgiama į informaciją apie netinkamą vaistinių preparatų vartojimą
 
-preparatų vartojimą ir piktnaudžiavimą jais, nes tai gali turėti įtakos
+ir piktnaudžiavimą jais, nes tai gali turėti įtakos vertinant vaistinių
 
-vertinant vaistinių preparatų naudą ir riziką.
+preparatų naudą ir riziką.
 
 2. Sveikatos
 
@@ -5017,9 +5101,9 @@ PRIEMONIŲ
 
 KAINODARA
 
-Skirsnio
+Skirsnio pavadinimas
 
-pavadinimas keistas:
+keistas:
 
 Nr. XI-664,
 
@@ -5039,15 +5123,15 @@ apsaugos ministras tvirtina bazines ir didžiausias mažmenines kompensuojamųj�
 
 vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių kainas.
 
-Vieną kartą per metus jos skelbiamos Kompensuojamųjų vaistinių preparatų kainyne
+Vieną kartą per metus jos skelbiamos Kompensuojamųjų vaistinių preparatų
 
-ir Kompensuojamųjų medicinos pagalbos priemonių kainyne. Prireikus sveikatos
+kainyne ir Kompensuojamųjų medicinos pagalbos priemonių kainyne. Prireikus
 
-apsaugos ministras šiuos kainynus papildo ir (ar) patikslina. Visi kainynai ir
+sveikatos apsaugos ministras šiuos kainynus papildo ir (ar) patikslina. Visi
 
-jų papildymai skelbiami „Valstybės žiniose“ ir įsigalioja po vieno mėnesio nuo
+kainynai ir jų papildymai skelbiami „Valstybės žiniose“ ir įsigalioja po vieno
 
-jų paskelbimo.
+mėnesio nuo jų paskelbimo.
 
 2.
 
@@ -5195,13 +5279,13 @@ priimamas neigiamas sprendimas, ne vėliau kaip per 14 dienų nuo tokio sprendim
 
 priėmimo dienos pareiškėjas informuojamas raštu ir nurodomos objektyviais ir
 
-patikrinamais kriterijais pagrįstos tokio sprendimo priežastys. Jeigu per šio
+patikrinamais kriterijais pagrįstos tokio sprendimo priežastys. Jeigu per šio straipsnio
 
-straipsnio 3 dalyje numatytą laiką sprendimas dėl kainos nustatymo ir (ar)
+3 dalyje numatytą laiką sprendimas dėl kainos nustatymo ir (ar) padidinimo nėra
 
-padidinimo nėra priimamas, pareiškėjo siūloma vaistinio preparato kaina įrašoma
+priimamas, pareiškėjo siūloma vaistinio preparato kaina įrašoma į artimiausią
 
-į artimiausią Kompensuojamųjų vaistinių preparatų kainyną ar jo papildymą.
+Kompensuojamųjų vaistinių preparatų kainyną ar jo papildymą.
 
 Straipsnio pakeitimai:
 
@@ -5255,9 +5339,7 @@ mokestį.
 
 5. Šio straipsnio 1, 2, 3 ir 4 dalyse nustatyti reikalavimai
 
-netaikomi nekompensuojamiesiems receptiniams vardiniams vaistiniams
-
-preparatams.
+netaikomi nekompensuojamiesiems receptiniams vardiniams vaistiniams preparatams.
 
 6. Nekompensuojamosios medicinos pagalbos priemonės
 
@@ -5271,9 +5353,7 @@ Nr. XI-664,
 
 2010-01-20, Žin., 2010, Nr. 13-624 (2010-02-02)
 
-TRYLIKTASIS
-
-SKIRSNIS
+TRYLIKTASIS SKIRSNIS
 
 Tryliktasis
 
@@ -5431,9 +5511,9 @@ Nr. XI-59, 2008-12-16,
 
 Žin., 2008, Nr. 149-5991 (2008-12-30)
 
-Nr. XI-1383, 2011-05-19,
+Nr. XI-1383,
 
-Žin., 2011, Nr. 69-3291 (2011-06-07)
+2011-05-19, Žin., 2011, Nr. 69-3291 (2011-06-07)
 
 63 straipsnis. Valstybinės vaistų kontrolės tarnybos
 
@@ -5453,9 +5533,9 @@ ar vykdoma veikla atitinka nustatytus reikalavimus;
 
 2) pateikę
 
-pažymėjimą ir pavedimą, laisvai ir be išankstinio perspėjimo licencijos
+pažymėjimą ir pavedimą, laisvai ir be išankstinio perspėjimo licencijos turėtojo
 
-turėtojo darbo valandomis, o kitu laiku – įstatymų nustatyta tvarka pasitelkus
+darbo valandomis, o kitu laiku – įstatymų nustatyta tvarka pasitelkus
 
 kompetentingų teisėsaugos įstaigų pareigūnus, įeiti į visas patalpas, esančias
 
@@ -5499,17 +5579,17 @@ imti bandinius tyrimams.
 
 atvejais, kai reikia patekti į juridinio asmens patalpas ne darbo valandomis
 
-arba kai tikrinamas juridinis asmuo nevykdo teisėtų Valstybinės vaistų kontrolės
+arba kai tikrinamas juridinis asmuo nevykdo teisėtų Valstybinės vaistų
 
-tarnybos darbuotojų, atliekančių kontrolės veiksmus, nurodymų, arba kai
+kontrolės tarnybos darbuotojų, atliekančių kontrolės veiksmus, nurodymų, arba
 
-patikrinimo metu būtina atlikti tam tikrus veiksmus, kurių Valstybinės vaistų
+kai patikrinimo metu būtina atlikti tam tikrus veiksmus, kurių Valstybinės
 
-kontrolės tarnybos darbuotojai pagal galiojančius įstatymus neturi teisės
+vaistų kontrolės tarnybos darbuotojai pagal galiojančius įstatymus neturi
 
-atlikti, Valstybinė vaistų kontrolės tarnyba privalo įstatymų nustatyta tvarka
+teisės atlikti, Valstybinė vaistų kontrolės tarnyba privalo įstatymų nustatyta
 
-kreiptis į kompetentingas teisėsaugos institucijas su prašymu padėti
+tvarka kreiptis į kompetentingas teisėsaugos institucijas su prašymu padėti
 
 įgyvendinti savo teises ar tinkamai atlikti funkcijas.
 
@@ -5531,9 +5611,11 @@ informuoti teisėsaugos arba atitinkamas kontroliuojančias įstaigas ar
 
 institucijas.
 
-4. Šiame straipsnyje
+4. Šiame
 
-nurodytų darbuotojų veiksmai teisės aktų nustatyta tvarka gali būti skundžiami.
+straipsnyje nurodytų darbuotojų veiksmai teisės aktų nustatyta tvarka gali būti
+
+skundžiami.
 
 64
 
@@ -5555,17 +5637,17 @@ atliekantiems kontrolės veiksmus, ir tai pažymima tikrinimo pažymoje.
 
 2. Surašant pažymą licencijos verstis farmacine veikla siekiančiam
 
-juridiniam asmeniui ar šios licencijos turėtojui, nurodoma, ar jo vykdoma
+juridiniam asmeniui ar šios licencijos turėtojui, nurodoma, ar jo vykdoma veikla
 
-veikla atitinka gerą gamybos ar platinimo praktiką, ar geros vaistinės
+atitinka gerą gamybos ar platinimo praktiką, ar geros vaistinės praktikos
 
-praktikos nuostatus. Tikrinant klinikinių tyrimų vykdymą, įvertinama, ar jie
+nuostatus. Tikrinant klinikinių tyrimų vykdymą, įvertinama, ar jie atitinka
 
-atitinka gerą klinikinę praktiką. Pažymos turinys turi būti praneštas
+gerą klinikinę praktiką. Pažymos turinys turi būti praneštas juridiniam
 
-juridiniam asmeniui ar, jei reikia, vaistinio preparato rinkodaros teisės
+asmeniui ar, jei reikia, vaistinio preparato rinkodaros teisės turėtojui, kuris
 
-turėtojui, kuris buvo patikrintas.
+buvo patikrintas.
 
 2 dalies redakcija nuo 2012 m. sausio 1
 
@@ -5581,15 +5663,15 @@ geros vaistinės praktikos nuostatus. Surašant tikrinimo pažymą juridiniam
 
 asmeniui, pateikusiam paraišką gauti gamybos ar didmeninio platinimo licenciją,
 
-nurodoma, ar jis pasirengęs vykdyti farmacinę veiklą pagal gerą gamybos ar
+nurodoma, ar jis pasirengęs vykdyti farmacinę veiklą pagal gerą gamybos ar platinimo
 
-platinimo praktiką. Tikrinant klinikinių tyrimų vykdymą, įvertinama, ar jie
+praktiką. Tikrinant klinikinių tyrimų vykdymą, įvertinama, ar jie atitinka gerą
 
-atitinka gerą klinikinę praktiką. Pažymos turinys turi būti praneštas
+klinikinę praktiką. Pažymos turinys turi būti praneštas juridiniam asmeniui ar,
 
-juridiniam asmeniui ar, jei reikia, vaistinio preparato rinkodaros teisės
+jei reikia, vaistinio preparato rinkodaros teisės turėtojui, kuris buvo
 
-turėtojui, kuris buvo patikrintas.
+patikrintas.
 
 3. Jei atlikus
 
@@ -5953,13 +6035,13 @@ praktikos, informacija apie tai taip pat turi būti pateikiama Europos vaistų
 
 agentūrai ir paskelbiama Bendrijos duomenų bazėje;
 
-2) Europos Komisijos
+2) Europos
 
-ar bet kurios EEE valstybės prašymu pateikti visą reikiamą informaciją apie
+Komisijos ar bet kurios EEE valstybės prašymu pateikti visą reikiamą
 
-didmeninio platinimo licencijas, kurios išduotos vadovaujantis šiuo įstatymu ir
+informaciją apie didmeninio platinimo licencijas, kurios išduotos vadovaujantis
 
-kitais teisės aktais;
+šiuo įstatymu ir kitais teisės aktais;
 
 3) nedelsdama
 
@@ -6127,9 +6209,9 @@ vaistas Veterinarinių vaistų registre neregistruojamas, jo registracija
 
 sustabdoma arba panaikinama, jeigu:
 
-1) veterinarinio vaisto naudos ir rizikos santykis leistinomis naudojimo
+1) veterinarinio vaisto naudos ir rizikos santykis leistinomis
 
-sąlygomis yra nepalankus;
+naudojimo sąlygomis yra nepalankus;
 
 2) veterinarinis
 
@@ -6195,9 +6277,11 @@ gaminti ar importuoti veterinarinius vaistus, privalo:
 
 1) turėti
 
-patalpas, techninę įrangą ir galimybę atlikti tinkamą ir pakankamą kontrolę, kuri
+patalpas, techninę įrangą ir galimybę atlikti tinkamą ir pakankamą kontrolę,
 
-atitiktų Valstybinės maisto ir veterinarijos tarnybos nustatytus reikalavimus;
+kuri atitiktų Valstybinės maisto ir veterinarijos tarnybos nustatytus
+
+reikalavimus;
 
 2) įdarbinti
 
@@ -6321,11 +6405,11 @@ juridinis asmuo, norėdamas gauti veterinarinės farmacijos licenciją, turi
 
 pateikti paraišką ir kitus dokumentus, nustatytus Juridinių asmenų
 
-veterinarinės farmacijos licencijavimo ir Fizinių asmenų veterinarinės farmacijos
+veterinarinės farmacijos licencijavimo ir Fizinių asmenų veterinarinės
 
-licencijavimo taisyklėse. Už paraiškos pateiktų duomenų ir informacijos
+farmacijos licencijavimo taisyklėse. Už paraiškos pateiktų duomenų ir
 
-teisingumą atsako pareiškėjas.
+informacijos teisingumą atsako pareiškėjas.
 
 7. Valstybinė
 
@@ -6375,9 +6459,9 @@ rinkliava.
 
 12.
 
-Veterinarinės farmacijos licencija juridiniams ir fiziniams asmenims
+Veterinarinės farmacijos licencija juridiniams ir fiziniams asmenims neišduodama
 
-neišduodama (nepatikslinama ar nepapildoma), jeigu:
+(nepatikslinama ar nepapildoma), jeigu:
 
 1) pateikti ne
 
@@ -6535,11 +6619,11 @@ maisto ir veterinarijos tarnyba sustabdo veterinarinės farmacijos licencijos
 
 galiojimą:
 
-1) jeigu juridinis
+1) jeigu
 
-ar fizinis asmuo nesilaiko licencijuojamos veiklos sąlygų ir veterinarinės
+juridinis ar fizinis asmuo nesilaiko licencijuojamos veiklos sąlygų ir
 
-farmacijos licencijos turėtojo pareigų;
+veterinarinės farmacijos licencijos turėtojo pareigų;
 
 2) juridiniam
 
@@ -6821,9 +6905,9 @@ pirmenybę suteikia kitų įstatymų ar kitų teisės aktų nuostatoms.
 
 9. Kitų Lietuvos
 
-Respublikos įstatymų nuostatos šio įstatymo reglamentuojamiems teisiniams
+Respublikos įstatymų nuostatos šio įstatymo reglamentuojamiems teisiniams santykiams
 
-santykiams taikomos tiek, kiek jų nereglamentuoja šis įstatymas.
+taikomos tiek, kiek jų nereglamentuoja šis įstatymas.
 
 77 straipsnis. Pasiūlymai
 
@@ -6873,11 +6957,11 @@ Respublikos farmacinės veiklos įstatymo 10, 14 straipsnių pakeitimo ir
 
 papildymo įstatymas (Žin., 1997, Nr. 58-1332);
 
-5) Lietuvos
+5) Lietuvos Respublikos
 
-Respublikos farmacinės veiklos įstatymo 17, 21, 22, 23, 24 straipsnių pakeitimo
+farmacinės veiklos įstatymo 17, 21, 22, 23, 24 straipsnių pakeitimo įstatymas
 
-įstatymas (Žin., 2000, Nr. 61-1813);
+(Žin., 2000, Nr. 61-1813);
 
 6) Lietuvos
 
@@ -6947,11 +7031,13 @@ vaistų kainų nustatymą ir šių vaistų įtraukimą į nacionalinių sveikato
 
 draudimo sistemų sritį, skaidrumo (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 345).
 
-2. 2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/20/EB dėl valstybių narių įstatymų
+2. 2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/20/EB dėl valstybių narių
 
-ir kitų teisės aktų, susijusių su geros klinikinės praktikos įgyvendinimu
+įstatymų ir kitų teisės aktų, susijusių su geros klinikinės praktikos
 
-atliekant žmonėms skirtų vaistų klinikinius tyrimus, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 26 tomas, p. 299).
+įgyvendinimu atliekant žmonėms skirtų vaistų klinikinius tyrimus, suderinimo
+
+(OL 2004 m. specialusis leidimas, 13 skyrius, 26 tomas, p. 299).
 
 3. 2001 m. lapkričio 6 d. Europos Parlamento ir Tarybos direktyva 2001/83/EB dėl Bendrijos kodekso,
 
@@ -6981,13 +7067,13 @@ leidimų dėl žmonėms skirtų ir veterinarinių vaistų išdavimo ir priežiū
 
 tvarką ir įsteigiantis Europos vaistų agentūrą (tekstas svarbus EEE) (OL 2004 m. specialusis leidimas, 13 skyrius, 34 tomas, p. 229).
 
-8. 2005 m. balandžio 8 d. Europos Komisijos direktyva 2005/28/EB,
+8. 2005 m. balandžio 8 d. Europos Komisijos direktyva 2005/28/EB, nustatanti
 
-nustatanti geros klinikinės praktikos, susijusios su tiriamaisiais žmonėms
+geros klinikinės praktikos, susijusios su tiriamaisiais žmonėms skirtais
 
-skirtais vaistais, principus bei išsamias gaires ir leidimui gaminti ir
+vaistais, principus bei išsamias gaires ir leidimui gaminti ir importuoti
 
-importuoti tokius vaistus keliamus reikalavimus (tekstas svarbus EEE) (OL 2005 L 091, p. 13).
+tokius vaistus keliamus reikalavimus (tekstas svarbus EEE) (OL 2005 L 091, p. 13).
 
 Priedas papildomas 9 punktu nuo 2012 m.
 
@@ -7041,11 +7127,11 @@ FARMACIJOS
 
 SKIRSNIO, 68 STRAIPSNIO PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 
-Šio įstatymo 1, 2, 4, 6, 7 ir 8 straipsniai
+Šio įstatymo 1, 2, 4, 6, 7 ir 8
 
-įsigalioja po 6 mėnesių nuo šio įstatymo paskelbimo leidinyje „Valstybės
+straipsniai įsigalioja po 6 mėnesių nuo šio įstatymo paskelbimo leidinyje
 
-žinios“.
+„Valstybės žinios“.
 
 Iki šio įstatymo įsigaliojimo
 
@@ -7053,9 +7139,9 @@ išduoti medicininės paskirties produktų registracijos pažymėjimai galioja i
 
 termino, kuriam jie išduoti, pabaigos arba kol jų galiojimas nustatyta tvarka
 
-panaikinamas, bet ne ilgiau kaip 6 mėnesius nuo šio įstatymo paskelbimo
+panaikinamas, bet ne ilgiau kaip 6 mėnesius nuo šio įstatymo paskelbimo leidinyje
 
-leidinyje „Valstybės žinios“.
+„Valstybės žinios“.
 
 Šio
 
