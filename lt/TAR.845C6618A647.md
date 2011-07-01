@@ -4,7 +4,7 @@ identifier: "TAR.845C6618A647"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-06"
-last_updated: "2010-07-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2011-06-30
+Suvestinė redakcija nuo 2011-07-01 iki 2012-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
 
@@ -353,7 +353,11 @@ Nr. XI-650, 2010-01-14, Žin., 2010, Nr. 13-618 (2010-02-02), i. k. 1101010ISTA0
 
 10) transporto priemonių ir asmenų bei jų bagažo tikrinimas siekiant surasti ir paimti neteisėtai laikomus šaunamuosius ginklus, šaudmenis, sprogstamąsias, radioaktyviąsias, nuodingąsias ir kitokias pavojingas medžiagas bei priemones, nustatyti bei sulaikyti įstatymų pažeidėjus, užtikrinti viešąją tvarką ir visuomenės rimtį, apsaugoti gyventojų gyvybę, sveikatą ir turtą;
 
-11) Vyriausybės nustatyta tvarka transporto priemonių ar kito turto laikinas atlygintinas panaudojimas arba rekvizicija siekiant užkirsti kelią itin pavojingiems bei sunkiems padariniams arba jiems likviduoti, žmonių gyvybei, sveikatai ar turtui gelbėti;
+11) Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo nustatyta tvarka transporto priemonių ar kito turto laikinasis paėmimas arba rekvizicija siekiant užkirsti kelią itin pavojingiems ir sunkiems padariniams arba jiems likviduoti, žmonių gyvybei, sveikatai ar turtui gelbėti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1418, 2011-05-26, Žin., 2011, Nr. 72-3469 (2011-06-14), i. k. 1111010ISTA0XI-1418
 
 12) nepaprastosios padėties metu teritorijoje įvedamas medicininis ar veterinarinis karantinas;
 
@@ -462,4 +466,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
 
 Lietuvos Respublikos nepaprastosios padėties įstatymo 2, 13, 14, 15, 16, 21, 22 ir 27 straipsnių pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1418, 2011-05-26, Žin., 2011, Nr. 72-3469 (2011-06-14), i. k. 1111010ISTA0XI-1418
+
+Lietuvos Respublikos nepaprastosios padėties įstatymo 28 straipsnio pakeitimo įstatymas
 
