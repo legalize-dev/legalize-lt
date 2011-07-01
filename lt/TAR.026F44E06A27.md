@@ -4,7 +4,7 @@ identifier: "TAR.026F44E06A27"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-10-12"
-last_updated: "2010-11-23"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.026F44E06A27"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymas
 
-Suvestinė redakcija nuo 2010-11-23 iki 2011-06-30
+Suvestinė redakcija nuo 2011-07-01 iki 2018-05-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 54-1048, i. k. 0931010ISTA000I-270
 
@@ -70,7 +70,7 @@ Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA
 
 9. Respondentas – fizinis ar juridinis asmuo bei juridinio asmens teisių neturinti įmonė, teikiantys ar privalantys teikti duomenis apie save statistiką tvarkančioms institucijoms ir įstaigoms.
 
-10. Oficialiosios statistikos darbų programa – statistikos darbų (tyrimų), būtinų valstybės valdymui ir visuomenės reikmėms, pavedamų vykdyti Lietuvos statistikos departamentui (toliau – Statistikos departamentas), jo teritorinėms įstaigoms, kitoms valstybės ir savivaldybių institucijoms bei įstaigoms, sąrašas, kuriame nurodoma už darbo atlikimą atsakinga institucija, darbo pavadinimas, atlikimo periodiškumas, būdas ir rezultatų pateikimo laikas.
+10. Oficialiosios statistikos darbų programa – statistikos darbų (tyrimų), būtinų valstybės valdymui ir visuomenės reikmėms, pavedamų vykdyti Lietuvos statistikos departamentui (toliau – Statistikos departamentas), kitoms valstybės ir savivaldybių institucijoms bei įstaigoms, sąrašas, kuriame nurodoma už darbo atlikimą atsakinga institucija, darbo pavadinimas, atlikimo periodiškumas, būdas ir rezultatų pateikimo laikas.
 
 Straipsnio dalies pakeitimai:
 
@@ -140,7 +140,11 @@ Oficialiąją statistiką Lietuvos Respublikoje tvarko:
 
 1) Statistikos departamentas;
 
-2) Statistikos departamento teritorinės įstaigos;
+2) Neteko galios nuo 2011-07-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XI-1085, 2010-11-04, Žin. 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
 
 3) ministerijos, kitos valstybės ir savivaldybių institucijos, įstaigos, taip pat Lietuvos bankas, jeigu tai numatyta Oficialiosios statistikos darbų programoje.
 
@@ -186,29 +190,11 @@ Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA
 
 7) statistinių duomenų patikimumui įvertinti reikiamais atvejais kviesti ekspertus.
 
-9 straipsnis. Statistikos departamento teritorinės statistikos įstaigos
+9 straipsnis. Neteko galios nuo 2011-07-01
 
-1. Teritorines statistikos įstaigas steigia ir jų nuostatus tvirtina Statistikos departamentas. Teritorinės statistikos įstaigos yra juridiniai asmenys, išlaikomi iš valstybės biudžeto.
+Straipsnio naikinimas:
 
-2. Statistikos departamento teritorinės statistikos įstaigos:
-
-1) atlieka statistikos darbus, numatytus Oficialiosios statistikos darbų programoje, taip pat gali atlikti kitus statistikos darbus, kuriuos užsako ir finansuoja savivaldybės institucija;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
-
-2) rengia teritorijos administracinio vieneto statistinę informaciją apie gyventojų skaičių ir sudėtį, administracinį suskirstymą, ūkio subjektų gamybinį pajėgumą ir veiklos rezultatus, ekonomiką, aplinką, memorialinius objektus ir tam naudoja savo ir kitų oficialiosios statistikos institucijų ir įstaigų sukauptą informaciją bei statistinius duomenis;
-
-3) teikia savivaldybių institucijoms bei įstaigoms statistinę informaciją;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
-
-4) informuoja visuomenę apie teritorijos administracinio vieneto ekonominę ir socialinę būklę, demografinius bei aplinkos procesus.
-
-3. Teritorinės statistikos įstaigos, vykdydamos Oficialiosios statistikos darbų programą, turi teisę gauti iš jų teritorijos administracinio vieneto respondentų Statistikos departamento generalinio direktoriaus patvirtintas ataskaitas, anketas, duomenis iš administracinių tvarkomųjų dokumentų, tvarkyti ir skelbti statistinę informaciją.
+Nr. XI-1085, 2010-11-04, Žin. 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
 
 10 straipsnis. Kitos statistiką tvarkančios įstaigos ir organizacijos
 
@@ -320,11 +306,19 @@ Fiziniai asmenys, įmonių, įstaigų ar organizacijų vadovai ir kiti atsakingi
 
 18 straipsnis. Oficialiąją statistiką tvarkančių institucijų ir įstaigų valstybės tarnautojų atsakomybė
 
-1. Statistikos departamento, jo teritorinių statistikos įstaigų, kitų oficialiąją statistiką tvarkančių institucijų ir įstaigų valstybės tarnautojai privalo užtikrinti darbe naudojamų respondentų pateiktų duomenų konfidencialumą visą duomenų įslaptinimo terminą.
+1. Statistikos departamento, kitų oficialiąją statistiką tvarkančių institucijų ir įstaigų valstybės tarnautojai privalo užtikrinti darbe naudojamų respondentų pateiktų duomenų konfidencialumą visą duomenų įslaptinimo terminą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
 
 2. Oficialiąją statistiką tvarkančių institucijų ir įstaigų valstybės tarnautojai, kuriems leista dirbti su konfidencialia informacija, įsipareigoja iš respondentų gautus duomenis naudoti tik statistikos reikmėms ir juos saugoti. Darbo santykių nutraukimas neatleidžia asmens nuo įsipareigojimo saugoti jam patikėtą konfidencialią informaciją bei nuo atsakomybės už tokios informacijos atskleidimą.
 
-3. Statistikos departamento, jo teritorinių statistikos įstaigų, kitų oficialiąją statistiką tvarkančių institucijų ir įstaigų valstybės tarnautojai, pažeidę šio įstatymo ir kitų su statistika susijusių teisės aktų reikalavimus, atsako pagal Lietuvos Respublikos įstatymus.
+3. Statistikos departamento, kitų oficialiąją statistiką tvarkančių institucijų ir įstaigų valstybės tarnautojai, pažeidę šio įstatymo ir kitų su statistika susijusių teisės aktų reikalavimus, atsako pagal Lietuvos Respublikos įstatymus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
 
 19 straipsnis. Pasiūlymas Vyriausybei
 
