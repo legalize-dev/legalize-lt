@@ -4,7 +4,7 @@ identifier: "TAR.5368B592234C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-11"
-last_updated: "2009-01-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,17 +17,9 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2011-06-30
+Suvestinė redakcija nuo 2011-07-01 iki 2011-08-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
-
-TAR pastaba. Duomenų valdytojai, kurie įsigaliojus šiam įstatymui tęsia ypatingų asmens duomenų apie sveikatą tvarkymą automatiniu būdu  Asmens duomenų teisinės apsaugos įstatymo 10 straipsnyje nurodytais tikslais, privalo apie tai pranešti Valstybinei duomenų apsaugos inspekcijai Asmens duomenų teisinės apsaugos įstatymo 31 ir 33 straipsnių nustatyta tvarka ne vėliau kaip per 2 metus nuo šio įstatymo įsigaliojimo dienos (2009-01-01). Duomenų valdytojų pranešimas nesustabdo ir nenutraukia asmens duomenų tvarkymo veiksmų, jeigu Valstybinė duomenų apsaugos inspekcija nenustato kitaip.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1444, 2008-02-01, Žin., 2008, Nr. 22-804 (2008-02-23), i. k. 1081010ISTA00X-1444
-
-Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo pakeitimo įstatymas
 
 Nauja redakcija nuo 2009-01-01:
 
@@ -115,7 +107,7 @@ ASMENS DUOMENŲ TVARKYMAS
 
 4) tapatūs, tinkami ir tik tokios apimties, kuri būtina jiems rinkti ir toliau tvarkyti;
 
-5) saugomi tokia forma, kad duomenų subjektų tapatybę būtų galima nustatyti ne ilgiau, negu to reikia tiems tikslams, dėl kurių šie duomenys buvo surinkti ir tvarkomi.
+5) saugomi tokia forma, kad duomenų subjektų tapatybę būtų galima nustatyti ne ilgiau, negu to reikia tiems tikslams, dėl kurių šie duomenys buvo surinkti ir tvarkomi;
 
 2. Asmens duomenys, surinkti kitais tikslais, gali būti tvarkomi statistikos, istoriniais ar mokslinio tyrimo tikslais tik įstatymų nustatytais atvejais, kai įstatymuose nustatytos tinkamos duomenų apsaugos priemonės.
 
@@ -246,10 +238,6 @@ Socialinio draudimo ir socialinės paramos tikslais Valstybinio socialinio draud
 15 straipsnis. Asmens duomenų tvarkymas elektroninių ryšių srityje
 
 Asmens duomenys elektroninių ryšių srityje tvarkomi vadovaujantis Elektroninių ryšių įstatymu ir šiuo įstatymu.
-
-TREČIASIS SKIRSNIS
-
-VAIZDO STEBĖJIMAS
 
 16 straipsnis. Vaizdo stebėjimo sąlygos
 
@@ -739,7 +727,7 @@ Anoniminiai skundai nenagrinėjami, jeigu Valstybinės duomenų apsaugos inspekc
 
 4) dėl skundo dalyko yra priimtas procesinis sprendimas pradėti ikiteisminį tyrimą;
 
-5) skundo tekstas yra neįskaitomas.
+5) skundo tekstas yra neįskaitomas;
 
 2. Jeigu priimamas sprendimas atsisakyti nagrinėti skundą, turi būti nurodyti atsisakymo jį nagrinėti pagrindai.
 
@@ -872,4 +860,24 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1444, 2008-02-01, Žin., 2008, Nr. 22-804 (2008-02-23), i. k. 1081010ISTA00X-1444
 
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1372, 2011-05-12, Žin., 2011, Nr. 65-3046 (2011-05-28), i. k. 1111010ISTA0XI-1372
+
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 1, 2, 3, 6, 20, 21, 22, 24, 25, 26, 27, 29, 33, 35, 36, 38, 40, 45, 53 straipsnių, ketvirtojo ir devintojo skirsnių pavadinimų pakeitimo ir papildymo ir Įstatymo papildymo 13-1, 15-1, 35-1, 41-1 straipsniais įstatymas
+
+151 straipsnis. Asmens duomenų tvarkymas vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, numatytą Sutarties dėl Europos Sąjungos veikimo trečiosios dalies V antraštinėjedalyje
+
+Asmens duomenys vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, numatytą Sutarties dėl Europos Sąjungos veikimo trečiosios dalies V antraštinėje dalyje, tvarkomi vadovaujantis Asmens duomenų, tvarkomų vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, teisinės apsaugos įstatymu ir šiuo įstatymu.
+
+Papildyta straipsniu:
+
+Nr. XI-1372, 2011-05-12, Žin., 2011, Nr. 65-3046 (2011-05-28), i. k. 1111010ISTA0XI-1372
+
+TREČIASIS SKIRSNIS
+
+VAIZDO STEBĖJIMAS
 
