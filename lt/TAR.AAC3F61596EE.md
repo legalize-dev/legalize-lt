@@ -4,7 +4,7 @@ identifier: "TAR.AAC3F61596EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-20"
-last_updated: "2011-05-28"
+last_updated: "2011-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AAC3F61596EE"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymo 10 straipsnio 11 dalis įsigalioja nuo 2
 ---
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 2011-05-28 iki 2011-06-30
+Suvestinė redakcija nuo 2011-07-01 iki 2012-04-06
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2633, i. k. 1021010ISTA00IX-965
 
@@ -717,13 +717,35 @@ Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA
 
 2. Įslaptinta operatyvinė informacija gali būti panaudojama baudžiamajame procese. Jeigu tokia informacija panaudojama baudžiamajame procese, turi būti surašomas protokolas dėl operatyvinių veiksmų atlikimo. Operatyvinių veiksmų atlikimo protokolo turinys turi atitikti Baudžiamojo proceso kodekso 179 straipsnio 2 dalyje nustatytus reikalavimus.
 
-3. Įslaptinta operatyvinė informacija teikiama susipažinti Lietuvos Respublikos Prezidentui, Seimo Pirmininkui, Ministrui Pirmininkui, taip pat operatyvinės veiklos kontrolę vykdančioms valstybės institucijoms ar šios veiklos kontrolę vykdyti įgaliotiems asmenims, esant motyvuotam jų rašytiniam prašymui, jeigu jiems teisės aktuose nustatytoms funkcijoms įgyvendinti ar sprendimams priimti nepakanka pateiktos susipažinti įslaptintos informacijos, parengtos operatyvinės informacijos pagrindu.
+3. Jeigu įslaptinta operatyvinė informacija apie asmens padarytą korupcinio pobūdžio nusikalstamos veikos požymių turinčią veiką nebuvo panaudota šio straipsnio 2 dalyje nustatyta tvarka, operatyvinės veiklos subjekto pagrindinės institucijos vadovo sprendimu ji gali būti išslaptinama ir panaudojama drausminio ir (ar) tarnybinio nusižengimo tyrime.
 
-4. Kitoms valstybės institucijoms ar asmenims, nevykdantiems operatyvinės veiklos, Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka gali būti teikiama tik įslaptinta informacija, parengta operatyvinės informacijos pagrindu.
+Papildyta straipsnio dalimi:
 
-5. Detalūs duomenys, galintys atskleisti įslaptintus operatyvinės veiklos metodus ir priemones, operatyvinių veiksmų atlikimo taktiką, sutrikdyti operatyvinę veiklą ar padaryti žalą nebaigtiems operatyviniams tyrimams, taip pat duomenys, galintys atskleisti operatyvinės veiklos slaptuosius dalyvius, neteikiami.
+Nr. XI-1368, 2011-04-28, Žin., 2011, Nr. 57-2704 (2011-05-12), i. k. 1111010ISTA0XI-1368
 
-6. Įslaptintos operatyvinės informacijos pateikimo tvarką nustato Vyriausybė.
+4. Įslaptinta operatyvinė informacija teikiama susipažinti Lietuvos Respublikos Prezidentui, Seimo Pirmininkui, Ministrui Pirmininkui, taip pat operatyvinės veiklos kontrolę vykdančioms valstybės institucijoms ar šios veiklos kontrolę vykdyti įgaliotiems asmenims, esant motyvuotam jų rašytiniam prašymui, jeigu jiems teisės aktuose nustatytoms funkcijoms įgyvendinti ar sprendimams priimti nepakanka pateiktos susipažinti įslaptintos informacijos, parengtos operatyvinės informacijos pagrindu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1368, 2011-04-28, Žin., 2011, Nr. 57-2704 (2011-05-12), i. k. 1111010ISTA0XI-1368
+
+5. Kitoms valstybės institucijoms ar asmenims, nevykdantiems operatyvinės veiklos, Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka gali būti teikiama tik įslaptinta informacija, parengta operatyvinės informacijos pagrindu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1368, 2011-04-28, Žin., 2011, Nr. 57-2704 (2011-05-12), i. k. 1111010ISTA0XI-1368
+
+6. Detalūs duomenys, galintys atskleisti įslaptintus operatyvinės veiklos metodus ir priemones, operatyvinių veiksmų atlikimo taktiką, sutrikdyti operatyvinę veiklą ar padaryti žalą nebaigtiems operatyviniams tyrimams, taip pat duomenys, galintys atskleisti operatyvinės veiklos slaptuosius dalyvius, neteikiami.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1368, 2011-04-28, Žin., 2011, Nr. 57-2704 (2011-05-12), i. k. 1111010ISTA0XI-1368
+
+7. Įslaptintos operatyvinės informacijos pateikimo tvarką nustato Vyriausybė.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1368, 2011-04-28, Žin., 2011, Nr. 57-2704 (2011-05-12), i. k. 1111010ISTA0XI-1368
 
 Straipsnio pakeitimai:
 
@@ -940,4 +962,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
 
 Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 7, 9, 10, 11, 12, 13, 21, 23 straipsnių pakeitimo ir papildymo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1368, 2011-04-28, Žin., 2011, Nr. 57-2704 (2011-05-12), i. k. 1111010ISTA0XI-1368
+
+Lietuvos Respublikos operatyvinės veiklos įstatymo 17 straipsnio papildymo ir pakeitimo įstatymas
 
