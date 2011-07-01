@@ -4,7 +4,7 @@ identifier: "TAR.391A759D9506"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-15"
-last_updated: "2009-09-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.391A759D9506"
 department: "Lietuvos Respublikos Seimas"
@@ -19,6 +19,10 @@ entry_into_force_conditions: "Šio įstatymo 4 straipsnio 1 dalis įsigalioja 20
 LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO 2, 48 IR 69 STRAIPSNIŲ PAKEITIMO
 
 ĮSTATYMAS
+
+Suvestinė redakcija nuo 2011-07-01
+
+Įstatymas paskelbtas: Žin. 2009, Nr. 89-3802, i. k. 1091010ISTA00XI-346
 
 LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO 2, 48 IR 69 STRAIPSNIŲ PAKEITIMO  ĮSTATYMAS
 
@@ -84,17 +88,11 @@ Pakeisti 69 straipsnio 7 dalį ir ją išdėstyti taip:
 
 „7. Vaikų muzikos, dailės, meno ir sporto mokykloms, neformaliojo švietimo programoms teisės aktų nustatyta tvarka skiriama lėšų iš valstybės ir savivaldybių biudžetų. Nevalstybinės tradicinės religinės bendruomenės ar bendrijos mokyklos, vykdančios formaliojo švietimo programas, finansuojamos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, skiriant iš biudžeto mokymo lėšų ir mokyklos ūkio lėšų tiek, kiek ir to paties tipo valstybinėms ar savivaldybės mokykloms, jeigu tai numatyta Lietuvos Respublikos tarptautinėje sutartyje.“
 
-4 straipsnis. Įstatymo įgyvendinimas
+4 straipsnis. Neteko galios nuo 2011-07-01
 
-1. Švietimo ir mokslo ministerija iki 2009 m. rugpjūčio 1 d. parengia ir patvirtina teisės aktą, reikalingą šio įstatymo 2 straipsnyje išdėstyto Švietimo įstatymo 48 straipsnio 2 dalies nuostatoms įgyvendinti.
+Straipsnio naikinimas:
 
-2. Mokytojai, šio įstatymo įsigaliojimo metu ugdantys pagal ikimokyklinio ugdymo, priešmokyklinio ugdymo ir bendrojo lavinimo programas, turintys aukštąjį arba aukštesnįjį (specialųjį vidurinį, įgytą iki 1995 metų) išsilavinimą ir neturintys pedagogo kvalifikacijos, ją privalo įgyti per 2 metus nuo šio įstatymo įsigaliojimo.
-
-3. Mokytojai, ugdantys pagal ikimokyklinio ugdymo, priešmokyklinio ugdymo ir bendrojo lavinimo programas ir studijuojantys aukštojoje mokykloje, aukštąjį išsilavinimą ir pedagogo kvalifikaciją privalo įgyti per 2 metus nuo šio įstatymo įsigaliojimo.
-
-4. Mokytojai per šio straipsnio 2 ir 3 dalyse nustatytą laikotarpį neįgiję pedagogo kvalifikacijos ir aukštojo išsilavinimo, atleidžiami Darbo kodekso nustatyta tvarka.
-
-5. Šio straipsnio 2–4 dalių reikalavimai netaikomi mokytojams, kuriems šio įstatymo įsigaliojimo dieną iki teisės gauti visą senatvės pensiją yra likę ne daugiau kaip 5 metai.
+Nr. XI-1281, 2011-03-17, Žin. 2011, Nr. 38-1804 (2011-03-31), i. k. 1111010ISTA0XI-1281
 
 5 straipsnis. Įstatymo įsigaliojimas
 
@@ -103,4 +101,14 @@ Pakeisti 69 straipsnio 7 dalį ir ją išdėstyti taip:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1281, 2011-03-17, Žin., 2011, Nr. 38-1804 (2011-03-31), i. k. 1111010ISTA0XI-1281
+
+Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas
 
