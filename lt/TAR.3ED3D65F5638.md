@@ -4,7 +4,7 @@ identifier: "TAR.3ED3D65F5638"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-31"
-last_updated: "2006-10-06"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3ED3D65F5638"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės rezervo įstatymas
 
-Suvestinė redakcija nuo 2006-10-06 iki 2011-06-30
+Suvestinė redakcija nuo 2011-07-01 iki 2012-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 78-2359, i. k. 1001010ISTAIII-1908
 
@@ -44,11 +44,13 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Valstybės rezervas – piniginės lėšos (nacionaline bei užsienio valiuta) ir valstybės lėšomis įsigytos materialinių išteklių atsargos bei privalomosios materialinių išteklių atsargos mobilizaciniams poreikiams, ūkio ir civilinės saugos sistemos funkcionavimo poreikiams patenkinti mobilizacijos, ekstremalių situacijų bei ekonominės grėsmės sąlygomis ar kitais šio įstatymo nustatytais atvejais.
+1. Valstybės rezervas – piniginės lėšos (nacionaline ir užsienio valiuta) ir valstybės lėšomis įsigytos materialinių išteklių atsargos bei privalomosios materialinių išteklių atsargos mobilizaciniams poreikiams, ūkio ir civilinės saugos sistemos funkcionavimo poreikiams patenkinti paskelbus mobilizaciją, įvedus nepaprastąją ar karo padėtį, ekstremaliųjų situacijų, ekonominės grėsmės sąlygomis ar kitais šio įstatymo nustatytais atvejais.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA000X-807
+
+Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
 
 2. Materialiniai ištekliai – žaliavos, medžiagos, pagrindiniai energijos ištekliai, žemės ūkio produktai, maisto produktai ir jų pusgaminiai, vaistai ir medicinos reikmenys, mašinos, įrenginiai, ryšių, sanitarijos ir civilinės saugos priemonės.
 
@@ -76,7 +78,11 @@ Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA
 
 3 straipsnis. Valstybės rezervo sudarymo, kaupimo ir tvarkymo teisiniai pagrindai
 
-Sudarant, kaupiant ir tvarkant valstybės rezervą, privalo dalyvauti valstybės ir savivaldybės institucijos, valstybės ir savivaldybės įstaigos, taip pat visų rūšių bei nuosavybės formų įmonės, užsienio valstybių įmonių filialai ir atstovybės, biudžetinės ir viešosios įstaigos, kitos ne pelno organizacijos (toliau – ūkio subjektai), vadovaudamiesi šiuo, Mobilizacijos ir mobilizacinio rezervo rengimo bei Civilinės saugos įstatymais.
+Sudarant, kaupiant ir tvarkant valstybės rezervą, privalo dalyvauti valstybės, savivaldybės institucijos ir įstaigos, taip pat visų rūšių ir nuosavybės formų įmonės, užsienio valstybių įmonių filialai ir atstovybės (toliau – ūkio subjektai), vadovaudamiesi šiuo, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos ir Civilinės saugos įstatymais.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
 
 4 straipsnis. Valstybės rezervo sudėtis
 
@@ -84,9 +90,17 @@ Sudarant, kaupiant ir tvarkant valstybės rezervą, privalo dalyvauti valstybės
 
 2. Valstybės rezervo piniginės lėšos yra skirtos materialiniams ištekliams įsigyti, gelbėjimo bei atstatymo darbams ir kitoms reikmėms finansuoti ekstremalių situacijų ir ekonominės grėsmės metu.
 
-3. Valstybės rezervo materialinių išteklių atsargas sudaro mobilizacinio rezervo materialinių išteklių atsargos, civilinės saugos priemonių atsargos ir ūkio atsargos.
+3. Valstybės rezervo materialinių išteklių atsargas sudaro civilinės saugos priemonių atsargos ir ūkio atsargos.
 
-4. Mobilizacinio rezervo materialinių išteklių atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama Lietuvos Respublikos ūkio mobilizaciniams poreikiams tenkinti paskelbus mobilizaciją arba įvedus nepaprastąją padėtį. Mobilizacinio rezervo materialinių išteklių atsargų sudarymo, kaupimo ir tvarkymo principus nustato šis bei Mobilizacijos ir mobilizacinio rezervo rengimo įstatymai.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
+
+4. Neteko galios nuo 2011-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XI-1417, 2011-05-26, Žin. 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
 
 5. Civilinės saugos priemonių atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama civilinės saugos sistemos funkcionavimui užtikrinti mobilizacijos ir ekstremalių situacijų metu bei civilinės saugos treniruotėms ir pratyboms.
 
@@ -94,7 +108,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA000X-807
 
-6. Ūkio atsargos – valstybės rezervo materialinių išteklių atsargų dalis, įskaitant privalomąsias materialinių išteklių atsargas, skiriama būtiniausiems ūkio subjektų bei gyventojų poreikiams tenkinti mobilizacijos, ekstremalių situacijų ir ekonominės grėsmės metu.
+6. Ūkio atsargos – valstybės rezervo materialinių išteklių atsargų dalis, įskaitant privalomąsias materialinių išteklių atsargas, skiriama būtiniausiems valstybės, savivaldybių institucijų ir įstaigų, taip pat ūkio subjektų ir gyventojų poreikiams tenkinti ekstremaliųjų situacijų, mobilizacijos, karo padėties, ekonominės grėsmės metu ir teikiant priimančiosios šalies paramą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
 
 5 straipsnis. Valstybės rezervo nuosavybė
 
@@ -194,13 +212,21 @@ valstybės rezervO SUDARYMAS, KAUPIMAS IR TVARKYMAS
 
 1. Valstybės rezervas gali būti naudojamas:
 
-1) valstybės reikmėms užtikrinti paskelbus mobilizaciją ir (ar) įvedus nepaprastąją padėtį;
+1) valstybės reikmėms užtikrinti įvedus nepaprastąją padėtį;
 
-2) valstybės reikmėms užtikrinti ekstremalių situacijų metu bei ekstremalių situacijų padariniams likviduoti;
+2) valstybės reikmėms užtikrinti ekstremaliųjų situacijų metu ir ekstremaliųjų situacijų padariniams likviduoti;
 
-3) ūkio funkcionavimui palaikyti ekonominės grėsmės atvejais;
+3) valstybės reikmėms užtikrinti paskelbus mobilizaciją ir (ar) įvedus karo padėtį ir jų padariniams likviduoti;
 
-4) pagalbai kitoms valstybėms suteikti pagal galiojančias Lietuvos Respublikos tarptautines sutartis.
+4) ūkio funkcionavimui palaikyti ekonominės grėsmės atvejais;
+
+5) pagalbai kitoms valstybėms suteikti pagal galiojančias Lietuvos Respublikos tarptautines sutartis;
+
+6) teikiant priimančiosios šalies paramą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
 
 2. Ūkio atsargos Vyriausybės nustatytais atvejais ir tvarka taip pat gali būti naudojamos ekonomikai stabilizuoti, kai materialinių išteklių rinkoje nepalankiai pasikeičia pasiūla ir (ar) paklausa.
 
@@ -208,11 +234,19 @@ valstybės rezervO SUDARYMAS, KAUPIMAS IR TVARKYMAS
 
 1) priima sprendimą panaudoti valstybės rezervo pinigines lėšas ir materialinių išteklių atsargas;
 
-2) nustato ūkio subjektus, kuriems paskirstomos valstybės rezervo piniginės lėšos ir materialinių išteklių atsargos;
+2) nustato valstybės, savivaldybės institucijas ir įstaigas, taip pat ūkio subjektus, kuriems paskirstomos valstybės rezervo piniginės lėšos ir materialinių išteklių atsargos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
 
 3) nurodo valstybės rezervo atsakingiesiems saugotojams, tvarkantiems privalomąsias materialinių išteklių atsargas, atlygintinai perduoti jas nustatytiems ūkio subjektams.
 
-4. Susidarius ekstremaliai situacijai, valstybės rezervo tvarkytojas turi teisę priimti sprendimą panaudoti jo tvarkomas valstybei nuosavybės teise priklausančias valstybės rezervo pinigines lėšas ir materialinių išteklių atsargas. Valstybės rezervo tvarkytojo sprendimai panaudoti valstybės rezervą turi būti nedelsiant pateikti Vyriausybei. Jeigu Vyriausybė šiems sprendimams nepritaria, žalą, atsiradusią dėl nepagrįsto valstybės rezervo panaudojimo, valstybės rezervo tvarkytojas atlygina įstatymų nustatyta tvarka.
+4. Susidarius ekstremaliajai situacijai, paskelbus mobilizaciją ir (ar) įvedus karo padėtį, valstybės rezervo tvarkytojas institucijų, atsakingų už šių padėčių administravimą, prašymu turi teisę priimti sprendimą panaudoti jo tvarkomas valstybei nuosavybės teise priklausančias valstybės rezervo pinigines lėšas ir materialinių išteklių atsargas. Valstybės rezervo tvarkytojo sprendimai panaudoti valstybės rezervą turi būti nedelsiant pateikti Vyriausybei. Jeigu Vyriausybė šiems sprendimams nepritaria, žalą, atsiradusią dėl nepagrįsto valstybės rezervo panaudojimo, valstybės rezervo tvarkytojas atlygina įstatymų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
 
 5. Šio straipsnio 1 dalyje numatytais atvejais naudojamų valstybės rezervo materialinių išteklių atsargų gabenimą organizuoja ūkio subjektai, Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka paskirti atsakingais už gelbėjimo darbų bei kitų neatidėliotinų darbų atlikimą ir (ar) ūkio funkcionavimo užtikrinimą bei pagalbos suteikimą.
 
@@ -220,11 +254,15 @@ valstybės rezervO SUDARYMAS, KAUPIMAS IR TVARKYMAS
 
 7. Valstybės rezervo energijos išteklių atsargos naudojamos vadovaujantis Vyriausybės patvirtintu planu.
 
-8. Valstybės rezervo civilinės saugos priemonių atsargos gali būti naudojamos civilinės saugos treniruočių ir pratybų metu Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+8. Valstybės rezervo materialinių išteklių atsargos, išskyrus privalomąsias materialinių išteklių atsargas, gali būti naudojamos civilinės saugos treniruočių ir pratybų metu ar vykdant mobilizacinio ar priimančiosios šalies paramos mokymo pratybas Vyriausybės nustatyta tvarka.
 
 Papildyta straipsnio dalimi:
 
 Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA000X-807
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
 
 14 straipsnis. Valstybės rezervo atkūrimas
 
@@ -373,4 +411,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA000X-807
 
 Lietuvos Respublikos valstybės rezervo įstatymo 2, 4 ir 13 straipsnių pakeitimo ir papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
+
+Lietuvos Respublikos valstybės rezervo įstatymo 2, 3, 4 ir 13 straipsnių pakeitimo įstatymas
 
