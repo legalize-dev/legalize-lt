@@ -4,7 +4,7 @@ identifier: "TAR.00D176C81058"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-02-11"
-last_updated: "2010-07-01"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.00D176C81058"
 department: "Lietuvos Respublikos Seimas"
@@ -17,6 +17,10 @@ entry_into_force_conditions: "Šio įstatymo 22 straipsnis įsigalioja 2010 m. k
 # Lietuvos Respublikos šeimynų įstatymas
 
 LIETUVOS RESPUBLIKOS ŠEIMYNŲ ĮSTATYMAS
+
+Suvestinė redakcija nuo 2011-07-01 iki 2013-07-12
+
+Įstatymas paskelbtas: Žin. 2010, Nr. 25-1176, i. k. 1101010ISTA00XI-681
 
 LIETUVOS RESPUBLIKOS ŠEIMYNŲ ĮSTATYMAS
 
@@ -76,7 +80,11 @@ ANTRASIS SKIRSNIS
 
 1) gauti vaiko globą reglamentuojančių teisės aktų nustatyta tvarka savivaldybės administracijos vaiko teisių apsaugos institucijos išvadą apie steigiamos šeimynos tinkamumą tapti vaikų globėju (rūpintoju);
 
-2) raštu kreiptis į savivaldybės administraciją dėl likusių be tėvų globos vaikų apgyvendinimo būsimojoje šeimynoje ir per 3 mėnesius gauti savivaldybės administracijos rašytinį patvirtinimą apgyvendinti būsimojoje šeimynoje likusius be tėvų globos vaikus ir užtikrinti jų socialinės globos finansavimą;
+2) raštu kreiptis į savivaldybės, kurios teritorijoje šeimyna steigiama, administraciją dėl likusių be tėvų globos vaikų apgyvendinimo būsimojoje šeimynoje ir per 3 mėnesius gauti šios savivaldybės administracijos rašytinį patvirtinimą apgyvendinti būsimojoje šeimynoje likusius be tėvų globos vaikus ir užtikrinti jų socialinės globos finansavimą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1471, 2011-06-21, Žin., 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010ISTA0XI-1471
 
 3) patvirtinti šeimynos įstatus, kurie kartu yra ir steigimo sandoris;
 
@@ -220,7 +228,11 @@ KETVIRTASIS SKIRSNIS
 
 4) sudaryti darbo sutartis su socialinę globą teikiančiais ir kitais darbuotojais;
 
-5) patvirtinti pagal Vyriausybės ar jos įgaliotos institucijos nustatytą Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodiką šeimynos socialinės globos kainą;
+5) Neteko galios nuo 2011-07-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XI-1471, 2011-06-21, Žin. 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010ISTA0XI-1471
 
 6) priimti sprendimą likviduoti šeimyną.
 
@@ -282,11 +294,25 @@ PENKTASIS SKIRSNIS
 
 15 straipsnis. Šeimynos finansavimas
 
-1. Šeimyna sudaro sutartį su savivaldybės, kurios teritorijoje steigiama (veikia), administracija dėl socialinės globos finansavimo. Sutartyje gali būti aptarti klausimai dėl kitos finansinės ir materialinės paramos šeimynai skyrimo.
+1. Šeimyna sudaro sutartį su savivaldybės, kuri apgyvendino likusį be tėvų globos vaiką šeimynoje, administracija dėl socialinės globos finansavimo. Sutartyje gali būti aptartos kitos finansinės ir materialinės paramos šeimynai skyrimo sąlygos.
 
-2. Šeimynos globojamų (rūpinamų) vaikų išlaikymas finansuojamas išmokų vaikams skyrimą reglamentuojančių teisės aktų, o socialinė globa – Vyriausybės ar jos įgaliotos institucijos patvirtintoje Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1471, 2011-06-21, Žin., 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010ISTA0XI-1471
+
+2. Vaikų globa (rūpyba) ir socialinė globa šeimynoje finansuojamos išmokų vaikams skyrimą reglamentuojančiuose teisės aktuose ir Vyriausybės ar jos įgaliotos institucijos patvirtintoje Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1471, 2011-06-21, Žin., 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010ISTA0XI-1471
 
 3. Šeimynos globojamų (rūpinamų) vaikų socialinė globa finansuojama iš valstybės ir savivaldybės biudžetų lėšų.
+
+4. Sumažėjus šeimynoje šiame įstatyme nustatytam globojamų (rūpinamų) vaikų skaičiui, šeimynos dalyvio išlaikymo pajamų skirtumą iki šio įstatymo 12 straipsnio 1 dalyje nustatyto minimalaus šeimynos dalyvio išlaikymo pajamų dydžio proporcingai finansuoja kiekviena savivaldybė, kurios vaikas, likęs be tėvų globos, yra apgyvendintas šeimynoje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1471, 2011-06-21, Žin., 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010ISTA0XI-1471
 
 16 straipsnis. Šeimynos lėšų ir turto naudojimas
 
@@ -385,4 +411,14 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1471, 2011-06-21, Žin., 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010ISTA0XI-1471
+
+Lietuvos Respublikos šeimynų įstatymo 5, 10, 15 straipsnių pakeitimo ir papildymo įstatymas
 
