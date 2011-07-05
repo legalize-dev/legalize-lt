@@ -4,7 +4,7 @@ identifier: "TAR.9C9FA25983BC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-02"
-last_updated: "2008-01-01"
+last_updated: "2011-07-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2008-01-01 iki 2011-07-04
+Suvestinė redakcija nuo 2011-07-05 iki 2011-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
 
@@ -43,7 +43,11 @@ BENDROSIOS NUOSTATOS
 
 2. Korupcija – valstybės tarnautojo ar jam prilyginto asmens tiesioginis ar netiesioginis siekimas, reikalavimas arba priėmimas turtinės ar kitokios asmeninės naudos (dovanos, paslaugos, pažado, privilegijos) sau ar kitam asmeniui už atlikimą arba neatlikimą veiksmų pagal einamas pareigas, taip pat valstybės tarnautojo ar jam prilyginto asmens veiksmai arba neveikimas siekiant, reikalaujant turtinės ar kitokios asmeninės naudos sau arba kitam asmeniui ar šią naudą priimant, taip pat tiesioginis ar netiesioginis siūlymas ar suteikimas valstybės tarnautojui, jam prilygintam asmeniui turtinės ar kitokios asmeninės naudos (dovanos, paslaugos, pažado, privilegijos) už atlikimą arba neatlikimą veiksmų pagal valstybės tarnautojo ar jam prilyginto asmens einamas pareigas, taip pat tarpininkavimas darant šioje dalyje nurodytas veikas.
 
-3. Korupcinio pobūdžio nusikalstamos veikos – kyšininkavimas, tarpininko kyšininkavimas, papirkimas, kitos nusikalstamos veikos, jeigu jos padarytos viešojo administravimo sektoriuje arba teikiant viešąsias paslaugas siekiant sau ar kitiems asmenims naudos: piktnaudžiavimas tarnybine padėtimi arba įgaliojimų viršijimas, piktnaudžiavimas oficialiais įgaliojimais, dokumentų ar matavimo priemonių suklastojimas, sukčiavimas, turto pasisavinimas ar iššvaistymas, tarnybos paslapties atskleidimas, komercinės paslapties atskleidimas, neteisingų duomenų apie pajamas, pelną ar turtą pateikimas, nusikalstamu būdu įgytų pinigų ar turto legalizavimas, kišimasis į valstybės tarnautojo ar viešojo administravimo funkcijas atliekančio asmens veiklą ar kitos nusikalstamos veikos, kai tokių veikų padarymu siekiama ar reikalaujama kyšio, papirkimo arba nuslėpti ar užmaskuoti kyšininkavimą ar papirkimą.
+3. Korupcinio pobūdžio nusikalstamos veikos – kyšininkavimas, prekyba poveikiu, papirkimas, kitos nusikalstamos veikos, jeigu jos padarytos viešojo administravimo sektoriuje arba teikiant viešąsias paslaugas siekiant sau ar kitiems asmenims naudos: piktnaudžiavimas tarnybine padėtimi arba įgaliojimų viršijimas, piktnaudžiavimas oficialiais įgaliojimais, dokumentų ar matavimo priemonių suklastojimas, sukčiavimas, turto pasisavinimas ar iššvaistymas, tarnybos paslapties atskleidimas, komercinės paslapties atskleidimas, neteisingų duomenų apie pajamas, pelną ar turtą pateikimas, nusikalstamu būdu įgytų pinigų ar turto legalizavimas, kišimasis į valstybės tarnautojo ar viešojo administravimo funkcijas atliekančio asmens veiklą ar kitos nusikalstamos veikos, kai tokių veikų padarymu siekiama ar reikalaujama kyšio, papirkimo arba nuslėpti ar užmaskuoti kyšininkavimą ar papirkimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1476, 2011-06-21, Žin., 2011, Nr. 81-3963 (2011-07-05), i. k. 1111010ISTA0XI-1476
 
 4. Šiame straipsnyje vartojama valstybės tarnautojo, jam prilyginto asmens sąvoka atitinka Lietuvos Respublikos baudžiamajame kodekse įtvirtintą šios sąvokos išaiškinimą.
 
@@ -416,4 +420,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1271, 2007-07-04, Žin., 2007, Nr. 81-3328 (2007-07-21), i. k. 1071010ISTA00X-1271
 
 Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 6 ir 11 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1476, 2011-06-21, Žin., 2011, Nr. 81-3963 (2011-07-05), i. k. 1111010ISTA0XI-1476
+
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 2 straipsnio pakeitimo įstatymas
 
