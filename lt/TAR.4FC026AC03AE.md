@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2011-06-14"
+last_updated: "2011-07-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -2506,19 +2506,21 @@ sustabdoma ir tarnybinio patikrinimo medžiaga perduodama tirti kompetentingai
 
 institucijai. Jeigu atsisakoma pradėti ikiteisminį tyrimą, bylos dėl
 
-administracinio teisės pažeidimo teiseną arba asmuo nėra patraukiamas baudžiamojon
+administracinio teisės pažeidimo teiseną arba asmuo nėra patraukiamas
 
-ar administracinėn atsakomybėn ir procesas yra pasibaigęs, tarnybinės nuobaudos
+baudžiamojon ar administracinėn atsakomybėn ir procesas yra pasibaigęs,
 
-skyrimo procedūra tęsiama ir tarnybinė nuobauda turi būti paskirta ne vėliau
+tarnybinės nuobaudos skyrimo procedūra tęsiama ir tarnybinė nuobauda turi būti
 
-kaip per vieną mėnesį nuo šių sąlygų atsiradimo, jei po kompetentingos
+paskirta ne vėliau kaip per vieną mėnesį nuo šių sąlygų atsiradimo, jei po
 
-institucijos sprendimo atlikti ikiteisminį tyrimą ar tirti administracinio
+kompetentingos institucijos sprendimo atlikti ikiteisminį tyrimą ar tirti
 
-teisės pažeidimo bylą priėmimo nepraėjo daugiau kaip vieni metai. Jei šis
+administracinio teisės pažeidimo bylą priėmimo nepraėjo daugiau kaip vieni
 
-terminas praėjo, tarnybinės nuobaudos skyrimo procedūra nutraukiama.
+metai. Jei šis terminas praėjo, tarnybinės nuobaudos skyrimo procedūra
+
+nutraukiama.
 
 7 dalies redakcija nuo 2011 m.
 
@@ -2614,7 +2616,7 @@ tarnybinę nuobaudą pirma laiko, apie tai padaroma žyma pareigūno tarnybos
 
 byloje bei Vidaus reikalų pareigūnų registre.
 
-28
+*28
 
 straipsnis. Pareigūno nušalinimas nuo pareigų
 
@@ -2706,293 +2708,9 @@ sprendimus nušalinti pareigūną nuo pareigų įtraukiamos į pareigūno tarnyb
 
 bylą.
 
-Straipsnio
+*Pastaba.
 
-pakeitimai:
-
-Nr.
-
-X-1127,
-
-2007-05-15, Žin., 2007, Nr. 59-2282 (2007-05-29)
-
-ŠEŠTASIS
-
-SKIRSNIS
-
-DARBO LAIKAS IR
-
-ATOSTOGOS
-
-29
-
-straipsnis. Pareigūnų darbo laikas
-
-1. Pareigūnų,
-
-išskyrus šio straipsnio 3–5 dalyse nurodytus pareigūnus, darbo laiko norma
-
-negali būti ilgesnė kaip 40 valandų per savaitę (7 dienų laikotarpį). Esant šio
-
-Statuto 30 straipsnyje nurodytiems pagrindams, vidaus reikalų įstaigos vadovas
-
-savo sprendimu pareigūnui gali pavesti dirbti ilgiau nei nustatyta savaitės
-
-darbo laiko norma.
-
-2. Pareigūnui
-
-negalima pavesti dirbti daugiau kaip 8 valandas viršvalandžių per vieną dieną.
-
-Pamainos trukmė kartu su viršvalandžiais negali būti ilgesnė kaip 24 valandos.
-
-Į pamainos trukmę įskaičiuojamas laikas, skirtas pareigūnams instruktuoti,
-
-apsiginkluoti ir atsiskaityti už tarnybos rezultatus. Vieno pareigūno
-
-viršvalandžiai per metus negali viršyti 250 valandų.
-
-3. Nustatytas
-
-funkcijas nepertraukiamai vykdančiose vidaus reikalų įstaigose tam tikras
-
-pareigas einantiems pareigūnams, dirbantiems pamainomis, vidaus reikalų
-
-centrinės įstaigos vadovo sprendimu gali būti nustatyta ne ilgesnė kaip 24
-
-valandų pamainos trukmė, viršijanti šio straipsnio 1 dalyje nustatytą 40
-
-valandų per savaitę (7 dienų laikotarpį) darbo laiko normą, bet ne ilgesnė kaip
-
-48 valandų per savaitę (7 dienų laikotarpį) darbo laiko norma. Šių pareigūnų
-
-darbas, kiekvieną savaitę (7 dienų laikotarpį) neviršijantis 48 valandų darbo
-
-laiko normos, nelaikomas viršvalandiniu. Šioje dalyje nurodytų pareigūnų
-
-pareigybių sąrašą bei šių pareigūnų darbo ir poilsio laiko apskaitos ypatumus
-
-nustato Vyriausybė.
-
-4. Šio
-
-straipsnio 3 dalyje nurodytiems pareigūnams dirbti viršvalandžius galima
-
-pavesti tik šio Statuto 30 straipsnyje nustatytais atvejais. Tokiais atvejais
-
-pamainos trukmė kartu su viršvalandžiais negali būti ilgesnė kaip 26 valandos,
-
-o vieno pareigūno viršvalandžiai per metus negali viršyti 164 valandų.
-
-5. Neteko galios
-
-nuo 2009 m. sausio 1 d.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-X-1820,
-
-2008-11-14, Žin., 2008, Nr. 137-5369 (2008-11-29)
-
-30
-
-straipsnis. Atvejai, kai privalomas viršvalandinis darbas
-
-1. Pareigūnas
-
-privalo vykdyti vadovo, turinčio teisę skirti į pareigas, įsakymą ar nurodymą
-
-dirbti viršvalandinį darbą, kai būtina:
-
-1) gelbėti
-
-žmonių gyvybę ar sveikatą;
-
-2) užkirsti
-
-kelią stichinėms nelaimėms, gaisrams, avarijoms ar katastrofoms, taip pat
-
-likviduoti jų padarinius;
-
-3) užkirsti
-
-kelią masinėms riaušėms ar jas nutraukti;
-
-4) užtikrinti
-
-viešąją tvarką masinių renginių metu;
-
-5) įvykdyti
-
-tarnybinę užduotį, kurios vykdymas dėl jos ypatumų negali būti sustabdytas ar
-
-nutrauktas;
-
-6) sustiprinti
-
-valstybės sienos apsaugą;
-
-7) ruoštis
-
-ginkluotai krašto gynybai;
-
-8) sustiprinti
-
-strateginių objektų apsaugą;
-
-9) kai būtina
-
-užtikrinti oficialių užsienio svečių saugumą;
-
-10) kitais
-
-įstatymų nustatytais atvejais.
-
-2. Vidaus reikalų įstaigos vadovas šio straipsnio 1 dalyje nurodytais
-
-atvejais gali pavesti pareigūnams dirbti poilsio ir švenčių dienomis.
-
-31
-
-straipsnis. Budėjimo laikas
-
-1. Pareigūno
-
-budėjimo laikas yra laikas, kurį jis pagal teisės aktų nustatyta tvarka iš
-
-anksto patvirtintą grafiką turi būti iš anksto aptartoje vietoje laisvu nuo
-
-tarnybos metu tam, kad vidaus reikalų įstaigos vadovas ar budėtojų tarnyba
-
-galėtų jį iškviesti atlikti neatidėliotinų veiksmų.
-
-2. Budėjimo
-
-laikas negali trukti ilgiau kaip 96 valandas per mėnesį. Pareigūno budėjimo
-
-laikas įstaigoje prilyginamas darbo laikui, o budėjimas namuose ar iš anksto
-
-aptartoje tarnybos vietovės vietoje – ne mažiau kaip pusei darbo laiko.
-
-3. Už budėjimą,
-
-kai viršijama darbo laiko trukmė, per artimiausią mėnesį pareigūnui privalo
-
-būti suteiktas poilsio laikas tokios pat trukmės kaip viršytas darbo laikas
-
-arba pareigūno pageidavimu šis poilsio laikas gali būti pridedamas prie
-
-kasmetinių atostogų, arba apmokama Valstybės tarnybos įstatymo nustatyta tvarka.
-
-4. Nėščios
-
-moterys, neseniai pagimdžiusios moterys ir krūtimi maitinančios moterys,
-
-pareigūnai, auginantys vaiką iki 3 metų, ir pareigūnai, vieni auginantys vaiką
-
-iki 14 metų arba neįgalų vaiką iki 18 metų, neįgalųjį slaugantys pareigūnai
-
-budėti gali būti skiriami tik jų sutikimu.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-X-804,
-
-2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08)
-
-Nr.
-
-X-1820, 2008-11-14,
-
-Žin., 2008, Nr. 137-5369 (2008-11-29)
-
-32
-
-straipsnis. Kasmetinės atostogos
-
-1. Pareigūnams
-
-kasmetinių atostogų trukmė nustatoma atsižvelgiant į pareigūnų vidaus tarnybos
-
-stažą:
-
-1) iki 10 metų –
-
-30 kalendorinių dienų;
-
-2) nuo 10 iki 15
-
-metų – 35 kalendorinės dienos;
-
-3) nuo 15 iki 20
-
-metų – 40 kalendorinių dienų;
-
-4) 20 metų ir
-
-daugiau – 45 kalendorinės dienos.
-
-2.
-
-Pareigūnams kasmetinių atostogų trukmė pirmaisiais kalendoriniais tarnybos
-
-metais nustatoma skaičiuojant po dvi su puse kalendorinės dienos už kiekvieną
-
-visą dirbtą mėnesį nuo priėmimo dienos iki metų pabaigos. Jeigu šių atostogų
-
-trukmė mažesnė negu 10 kalendorinių dienų, pareigūno prašymu jos gali būti
-
-suteikiamos kartu su kitų metų kasmetinėmis atostogomis.
-
-3. Pareigūnui
-
-kasmetinės atostogos gali būti suteikiamos visos iš karto arba, suderinus su
-
-vadovu, turinčiu teisę skirti į pareigas, dalimis, iš kurių viena negali būti
-
-trumpesnė kaip 14 kalendorinių dienų.
-
-4. Pareigūnui,
-
-kuriam kalendoriniais metais nebuvo suteiktos kasmetinės atostogos, jos
-
-suteikiamos ne vėliau kaip kitų metų I ketvirtį.
-
-5. Pareigūnui, ligos, nelaimingo atsitikimo ar slaugos kasmetinių
-
-atostogų metu atveju gavusiam iš asmens sveikatos priežiūros įstaigų nustatytos
-
-formos laikinojo nedarbingumo pažymėjimą ir pateikusiam jį tiesioginiam vadovui
-
-(arba pranešusiam kitu būdu), kasmetinės atostogos pratęsiamos ar perkeliamos
-
-visam laikinojo nedarbingumo laikui.
-
-33
-
-straipsnis. Kasmetinių atostogų nutraukimas
-
-1. Pareigūno
-
-sutikimu kasmetinės atostogos gali būti nutrauktos ir jis vadovo, turinčio
-
-teisę skirti į pareigas, įsakymu gali būti iškviestas tęsti tarnybos ne daugiau
-
-kaip du kartus per vienas atostogas.
-
-2. Šio Statuto
-
-30 straipsnio 1 dalies nustatytais atvejais pareigūną iš atostogų be jo
-
-sutikimo gali atšaukti vidaus reikalų įstaigos vadovas savo įsakymu.
+Pripažinti, kad Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo
 
 35 straipsnis. Pareigūnų pareiginės algos priedų už
 
@@ -3038,9 +2756,9 @@ komisaras inspektorius – 0,6 bazinio dydžio;
 
 komisaras – 0,7 bazinio dydžio;
 
-9) pulkininkas
+9) pulkininkas leitenantas,
 
-leitenantas, vyresnysis komisaras – 0,8 bazinio dydžio;
+vyresnysis komisaras – 0,8 bazinio dydžio;
 
 10) pulkininkas,
 
@@ -3080,9 +2798,9 @@ kvalifikacinė kategorija gali būti suteikta pareigūnui, turinčiam ne mažesn
 
 kaip penkerių metų vidaus tarnybos stažą. 1-oji kvalifikacinė kategorija gali
 
-būti suteikta pareigūnui, turinčiam ne mažesnį kaip dešimties metų vidaus
+būti suteikta pareigūnui, turinčiam ne mažesnį kaip dešimties metų vidaus tarnybos
 
-tarnybos stažą.
+stažą.
 
 2. Pareigūnui
 
@@ -3126,9 +2844,9 @@ pakeitimai:
 
 Nr.
 
-X-1820,
+X-1820, 2008-11-14,
 
-2008-11-14, Žin., 2008, Nr. 137-5369 (2008-11-29)
+Žin., 2008, Nr. 137-5369 (2008-11-29)
 
 37
 
@@ -3190,17 +2908,17 @@ pareigoms;
 
 6) darbo laiką,
 
-išdirbtą profesionaliosios priešgaisrinės apsaugos padalinių vadovais,
+išdirbtą profesionaliosios priešgaisrinės apsaugos padalinių vadovais, operatyviniais
 
-operatyviniais budinčiais, profilaktikos instruktoriais, sargybos viršininkais,
+budinčiais, profilaktikos instruktoriais, sargybos viršininkais, skyrininkais,
 
-skyrininkais, ugniagesiais (gaisrininkais), vairuotojais, dispečeriais,
+ugniagesiais (gaisrininkais), vairuotojais, dispečeriais, dujų-dūmų apsaugos
 
-dujų-dūmų apsaugos tarnybos meistrais (priešdūminės ir priešdujinės tarnybos
+tarnybos meistrais (priešdūminės ir priešdujinės tarnybos meistrais) Darbo
 
-meistrais) Darbo sutarties įstatymo pagrindais, jeigu vėliau šie darbuotojai
+sutarties įstatymo pagrindais, jeigu vėliau šie darbuotojai buvo paskirti
 
-buvo paskirti statutiniais priešgaisrinės apsaugos pareigūnais;
+statutiniais priešgaisrinės apsaugos pareigūnais;
 
 7) vieną
 
@@ -3250,9 +2968,9 @@ laikinojo nedarbingumo laiką, kasmetinių, papildomų, nėštumo ir gimdymo,
 
 tėvystės, vaiko priežiūros, mokymosi, persikėlimo ir nemokamų atostogų laiką,
 
-priverstinės pravaikštos dėl neteisėto atleidimo laiką, taip pat buvimo Vidaus
+priverstinės pravaikštos dėl neteisėto atleidimo laiką, taip pat buvimo Vidaus reikalų
 
-reikalų ministerijos personalo žinioje laiką;
+ministerijos personalo žinioje laiką;
 
 11) vieną
 
@@ -3402,11 +3120,11 @@ valstybė. Valstybės apmokamų laidojimo išlaidų aprašą nustato Vyriausybė
 
 kuris buvo sužalotas, susižalojo arba jo sveikata buvo sutrikdyta atliekant
 
-tarnybines pareigas, jei tarnybinių pareigų atlikimas buvo susijęs su
+tarnybines pareigas, jei tarnybinių pareigų atlikimas buvo susijęs su padidėjusiu
 
-padidėjusiu pavojumi ar padidėjusia rizika pareigūno gyvybei ar sveikatai, arba
+pavojumi ar padidėjusia rizika pareigūno gyvybei ar sveikatai, arba kai jo
 
-kai jo sužalojimas, susižalojimas ar sveikatos sutrikdymas yra susijęs su jo
+sužalojimas, susižalojimas ar sveikatos sutrikdymas yra susijęs su jo
 
 tarnybinių pareigų atlikimu, jei tarnybinių pareigų atlikimas buvo susijęs su
 
@@ -3530,9 +3248,9 @@ sveikata buvo sutrikdyta eismo įvykio metu, jei šis pareigūnas ar kursantas
 
 vairavo transporto priemonę neturėdamas teisės jos vairuoti arba perdavė ją
 
-vairuoti asmeniui, apsvaigusiam nuo alkoholio, narkotinių, psichotropinių ar
+vairuoti asmeniui, apsvaigusiam nuo alkoholio, narkotinių, psichotropinių ar kitų
 
-kitų svaigiųjų medžiagų arba neturinčiam teisės jos vairuoti;
+svaigiųjų medžiagų arba neturinčiam teisės jos vairuoti;
 
 5) pareigūno ar
 
@@ -3620,17 +3338,17 @@ vaiko priežiūros atostogos. Jeigu pareigūnui gimsta du ir daugiau vaikų ir j
 
 yra šių vaikų priežiūros atostogose, jam apskaičiuotas vidutinis darbo
 
-užmokestis didinamas atsižvelgiant į vienu metu gimusių vaikų skaičių (gimus
+užmokestis didinamas atsižvelgiant į vienu metu gimusių vaikų skaičių (gimus dvynukams
 
-dvynukams – 2 kartus, gimus trynukams – 3 kartus ir t. t.). Išmoka už nėštumo
+– 2 kartus, gimus trynukams – 3 kartus ir t. t.). Išmoka už nėštumo ir gimdymo
 
-ir gimdymo laikotarpį didinama tokia pat tvarka. Kai pareigūnei, gaunančiai
+laikotarpį didinama tokia pat tvarka. Kai pareigūnei, gaunančiai išmoką vaiko
 
-išmoką vaiko priežiūros atostogų laikotarpiu, suteikiamos nėštumo ir gimdymo
+priežiūros atostogų laikotarpiu, suteikiamos nėštumo ir gimdymo atostogos ir ji
 
-atostogos ir ji įgyja teisę gauti išmoką nėštumo ir gimdymo atostogų
+įgyja teisę gauti išmoką nėštumo ir gimdymo atostogų laikotarpiu, jai mokamos
 
-laikotarpiu, jai mokamos abi šios išmokos.
+abi šios išmokos.
 
 3 dalies nuostatos dėl laikinojo
 
@@ -3650,11 +3368,11 @@ priežiūros atostogų laikotarpiais pareigūnams mokamas vidutinis jų darbo
 
 užmokestis arba jo dalis. Mokamo vidutinio darbo užmokesčio ar jo dalies dydis,
 
-maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis
+maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi
 
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo
+vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo
 
-nuostatomis.
+įstatymo nuostatomis.
 
 4. Jeigu
 
@@ -3728,9 +3446,9 @@ X-1621,
 
 2008-06-17, Žin., 2008, Nr. 74-2867 (2008-06-30)
 
-Nr. XI-985,
+Nr. XI-985, 2010-07-02,
 
-2010-07-02, Žin., 2010, Nr. 86-4536 (2010-07-20)
+Žin., 2010, Nr. 86-4536 (2010-07-20)
 
 42 straipsnis. Pareigūnų medicininės reabilitacijos,
 
@@ -3800,21 +3518,19 @@ vykdoma veikla prieštarauja įstatymams ir trukdo įgyvendinti funkcijas siekia
 
 užtikrinti žmogaus teises ir viešąjį saugumą.
 
-4. Profesinių sąjungų nariams (išskyrus išimtį, nustatytą šio
+4. Profesinių sąjungų nariams (išskyrus išimtį, nustatytą šio straipsnio
 
-straipsnio 5 dalyje ir šio Statuto 53 straipsnio 1 dalies 13 punkte) negali
+5 dalyje ir šio Statuto 53 straipsnio 1 dalies 13 punkte) negali būti taikomos
 
-būti taikomos tarnybinės nuobaudos ir atleidimas iš vidaus tarnybos dėl jų
+tarnybinės nuobaudos ir atleidimas iš vidaus tarnybos dėl jų narystės
 
-narystės profesinėse sąjungose, dėl atstovavimo vidaus reikalų įstaigų
+profesinėse sąjungose, dėl atstovavimo vidaus reikalų įstaigų profesinių
 
-profesinių sąjungų nariams arba dėl veiklos profesinėse sąjungose. Skiriant
+sąjungų nariams arba dėl veiklos profesinėse sąjungose. Skiriant tarnybines
 
-tarnybines nuobaudas, išskyrus tarnybinę nuobaudą – atleidimą iš vidaus
+nuobaudas, išskyrus tarnybinę nuobaudą – atleidimą iš vidaus tarnybos, taip pat
 
-tarnybos, taip pat reikalingas išankstinis profesinės sąjungos renkamojo organo
-
-sutikimas.
+reikalingas išankstinis profesinės sąjungos renkamojo organo sutikimas.
 
 5. Pareigūnas, išrinktas į renkamuosius vidaus reikalų įstaigos
 
@@ -3966,25 +3682,25 @@ Pareigūnas, kuris pats, jo sutuoktinis, sugyventinis (partneris) vaikai ir
 
 techninius ir sanitarinius reikalavimus atitinkančio buto, namo ar jo dalies ir
 
-pastaruosius 5 metus nėra jo perleidę (išskyrus perleidimą dėl santuokos nutraukimo),
+pastaruosius 5 metus nėra jo perleidę (išskyrus perleidimą dėl santuokos
 
-iš Vidaus reikalų ministerijos ar atitinkamos vidaus reikalų centrinės įstaigos
+nutraukimo), iš Vidaus reikalų ministerijos ar atitinkamos vidaus reikalų
 
-atitinkamoje vietovėje turimo tarnybinių butų fondo aprūpinami pagal tos
+centrinės įstaigos atitinkamoje vietovėje turimo tarnybinių butų fondo
 
-gyvenamosios vietovės sąlygas įrengtu, techninius ir higienos reikalavimus
+aprūpinami pagal tos gyvenamosios vietovės sąlygas įrengtu, techninius ir
 
-atitinkančiu ir suremontuotu tarnybiniu butu (viengungis arba pareigūnas, kurio
+higienos reikalavimus atitinkančiu ir suremontuotu tarnybiniu butu (viengungis
 
-šeima negali persikelti į pareigūno tarnybos vietą – atskira tarnybine
+arba pareigūnas, kurio šeima negali persikelti į pareigūno tarnybos vietą –
 
-gyvenamąja patalpa). Už suteiktą tarnybinį butą (gyvenamąsias patalpas)
+atskira tarnybine gyvenamąja patalpa). Už suteiktą tarnybinį butą (gyvenamąsias
 
-pareigūnas moka Vyriausybės nustatyta tvarka apskaičiuotą gyvenamosios patalpos
+patalpas) pareigūnas moka Vyriausybės nustatyta tvarka apskaičiuotą
 
-nuomos mokestį ir mokesčius už energijos, ryšių bei visas komunalines paslaugas
+gyvenamosios patalpos nuomos mokestį ir mokesčius už energijos, ryšių bei visas
 
-pagal toje vietovėje galiojančius tarifus.
+komunalines paslaugas pagal toje vietovėje galiojančius tarifus.
 
 2. Pareigūnas,
 
@@ -4030,9 +3746,9 @@ X-804,
 
 2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08)
 
-48 straipsnis. Pareigūnų, vykdančių specialias
+48 straipsnis. Pareigūnų, vykdančių specialias tarnybines
 
-tarnybines užduotis ar dirbančių lauko sąlygomis, aprūpinimas maistu
+užduotis ar dirbančių lauko sąlygomis, aprūpinimas maistu
 
 Pareigūnai specialių tarnybinių užduočių, susijusių su apribojimu
 
@@ -4042,11 +3758,11 @@ lauko sąlygomis aprūpinami maistu pagal Vyriausybės ar jos įgaliotos
 
 institucijos nustatytas fiziologines mitybos normas arba jiems mokama
 
-Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė kompensacija. Aprūpinimo
+Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė kompensacija.
 
-maistu tvarką ir maitinimosi išlaidų piniginės kompensacijos mokėjimo tvarką
+Aprūpinimo maistu tvarką ir maitinimosi išlaidų piniginės kompensacijos
 
-nustato vidaus reikalų centrinių įstaigų vadovai.
+mokėjimo tvarką nustato vidaus reikalų centrinių įstaigų vadovai.
 
 Straipsnio
 
@@ -4142,19 +3858,19 @@ vykdžiusiam pavestus vidaus tarnybos uždavinius ir funkcijas bei viršijusiam
 
 tarnybinės rizikos ribas ir tuo padariusiam nusikalstamą veiką ar kitokį teisės
 
-pažeidimą arba nukentėjusiam vykdant tarnybines funkcijas ar dėl vidaus tarnybos,
+pažeidimą arba nukentėjusiam vykdant tarnybines funkcijas ar dėl vidaus
 
-iš vidaus reikalų įstaigai darbo užmokesčiui
+tarnybos, iš vidaus reikalų įstaigai darbo
 
-skirtų lėšų gali būti kompensuojamos teisinės pagalbos išlaidos ar jų
+užmokesčiui skirtų lėšų gali būti kompensuojamos teisinės pagalbos
 
-dalis. Kompensaciją skiria vidaus reikalų
+išlaidos ar jų dalis. Kompensaciją skiria
 
-įstaigos vadovas iš vidaus reikalų įstaigai darbo užmokesčiui skirtų lėšų.
+vidaus reikalų įstaigos vadovas iš vidaus reikalų įstaigai darbo užmokesčiui
 
-Vidaus reikalų įstaigos vadovui pašalpa skiriama iš jo vadovaujamos vidaus
+skirtų lėšų. Vidaus reikalų įstaigos vadovui pašalpa skiriama iš jo
 
-reikalų įstaigos darbo užmokesčiui skirtų lėšų.
+vadovaujamos vidaus reikalų įstaigos darbo užmokesčiui skirtų lėšų.
 
 54 straipsnis.
 
@@ -4236,25 +3952,25 @@ nebegali tęsti tarnybos. Esant šiems pagrindams, pareigūną galima atleisti i
 
 vidaus tarnybos ir jo laikinojo nedarbingumo bei atostogų metu.
 
-2. Esant šio
+2. Esant šio Statuto
 
-Statuto 53 straipsnio 1 dalies 11 punkte nurodytam pagrindui, pareigūnas
+53 straipsnio 1 dalies 11 punkte nurodytam pagrindui, pareigūnas atleidžiamas
 
-atleidžiamas iš vidaus tarnybos, apie galimą jo atleidimą jį įspėjus raštu ne vėliau kaip prieš 2 mėnesius
+iš vidaus tarnybos, apie galimą jo atleidimą
 
-iki atleidimo dienos. Nėščia moteris (kai vidaus reikalų įstaiga likviduojama),
+jį įspėjus raštu ne vėliau kaip prieš 2 mėnesius iki atleidimo dienos. Nėščia
 
-moteris ar vyras, vieni auginantys vaikus (vaiką) iki 14 metų, asmuo,
+moteris (kai vidaus reikalų įstaiga likviduojama), moteris ar vyras, vieni
 
-kuriam iki teisės gauti visą senatvės pensiją liko ne daugiau kaip 5 metai, apie galimą jų atleidimą turi būti įspėti raštu ne
+auginantys vaikus (vaiką) iki 14 metų, asmuo, kuriam iki teisės gauti
 
-vėliau kaip prieš 4 mėnesius iki atleidimo dienos. Įspėjimas apie galimą
+visą senatvės pensiją liko ne daugiau kaip 5 metai, apie galimą jų atleidimą turi būti įspėti raštu ne vėliau kaip prieš 4
 
-atleidimą netenka galios, jei nuo jo termino pabaigos praeina daugiau
+mėnesius iki atleidimo dienos. Įspėjimas apie galimą atleidimą netenka
 
-kaip vienas mėnuo, neįskaitant pareigūno laikinojo nedarbingumo ir atostogų
+galios, jei nuo jo termino pabaigos praeina daugiau kaip vienas mėnuo,
 
-laiko.
+neįskaitant pareigūno laikinojo nedarbingumo ir atostogų laiko.
 
 3. Pareigūnas
 
@@ -4318,9 +4034,9 @@ pakeitimai:
 
 Nr.
 
-X-804, 2006-07-19,
+X-804,
 
-Žin., 2006, Nr. 87-3412 (2006-08-08)
+2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08)
 
 58
 
@@ -4396,13 +4112,13 @@ reikalų pareigūnų registras steigiamas ir tvarkomas Lietuvos Respublikos
 
 valstybės registrų, Asmens duomenų teisinės apsaugos įstatymų, kitų teisės aktų
 
-nustatyta tvarka. Vidaus reikalų pareigūnų registro paskirtį, jo objektus,
+nustatyta tvarka. Vidaus reikalų pareigūnų registro paskirtį, jo objektus, registro
 
-registro tvarkymo įstaigas, jų teises ir pareigas, registro tvarkymą,
+tvarkymo įstaigas, jų teises ir pareigas, registro tvarkymą, reorganizavimą ir
 
-reorganizavimą ir likvidavimą reglamentuoja Vidaus reikalų pareigūnų registro
+likvidavimą reglamentuoja Vidaus reikalų pareigūnų registro nuostatai. Šiuos
 
-nuostatai. Šiuos nuostatus vidaus reikalų ministro teikimu tvirtina Vyriausybė.
+nuostatus vidaus reikalų ministro teikimu tvirtina Vyriausybė.
 
 ________________
 
@@ -6606,9 +6322,9 @@ iš eilės arba daugiau kaip 140 kalendorinių dienų per paskutinius 12 mėnesi
 
 jeigu įstatymų nenustatyta, kad tam tikros ligos atveju pareigos paliekamos
 
-ilgesnį laiką, jei susirgimas nesusijęs su sužeidimu, suluošinimu ar kitu
+ilgesnį laiką, jei susirgimas nesusijęs su sužeidimu, suluošinimu ar kitu sveikatos
 
-sveikatos sutrikimu vykdant tarnybos pareigas;
+sutrikimu vykdant tarnybos pareigas;
 
 16) jeigu jis
 
@@ -6642,7 +6358,329 @@ Nr. X-163, 2005-04-21,
 
 Žin., 2005, Nr. 58-2001 (2005-05-07)
 
-Nr. X-1705,
+Nr. X-1705, 2008-07-15,
 
-2008-07-15, Žin., 2008, Nr. 87-3465 (2008-07-31)
+Žin., 2008, Nr. 87-3465 (2008-07-31)
+
+įstatymu patvirtinto Vidaus tarnybos statuto 28 straipsnis
+
+(2007 m. gegužės 15 d. redakcija) (Žin., 2007, Nr. 59-2282)
+
+tiek, kiek jame nėra nustatyti vadovo, turinčio teisę skirti asmenį į
+
+pareigas, įgaliojimai nušalinti pareigūną nuo pareigų, kurioms eiti būtinas
+
+leidimas dirbti ar susipažinti su įslaptinta informacija arba asmens patikimumo
+
+pažymėjimas, tuo atveju, kai asmuo yra traukiamas baudžiamojon atsakomybėn už
+
+tyčinę nusikalstamą veiką arba jam dėl tokios veikos atliekamas ikiteisminis ar
+
+operatyvinis tyrimas, prieštarauja Lietuvos Respublikos Konstitucijos
+
+33 straipsnio 1 dalies nuostatai „piliečiai turi <...> teisę lygiomis
+
+sąlygomis stoti į Lietuvos Respublikos valstybinę tarnybą“, 48 straipsnio
+
+1 dalies nuostatai „kiekvienas žmogus gali laisvai pasirinkti darbą“,
+
+konstituciniam teisinės valstybės principui.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+2011-07-07,
+
+Žin., 2011, Nr. 84-4106 (2011-07-12)
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-1127,
+
+2007-05-15, Žin., 2007, Nr. 59-2282 (2007-05-29)
+
+ŠEŠTASIS
+
+SKIRSNIS
+
+DARBO LAIKAS IR
+
+ATOSTOGOS
+
+29
+
+straipsnis. Pareigūnų darbo laikas
+
+1. Pareigūnų,
+
+išskyrus šio straipsnio 3–5 dalyse nurodytus pareigūnus, darbo laiko norma
+
+negali būti ilgesnė kaip 40 valandų per savaitę (7 dienų laikotarpį). Esant šio
+
+Statuto 30 straipsnyje nurodytiems pagrindams, vidaus reikalų įstaigos vadovas
+
+savo sprendimu pareigūnui gali pavesti dirbti ilgiau nei nustatyta savaitės
+
+darbo laiko norma.
+
+2. Pareigūnui
+
+negalima pavesti dirbti daugiau kaip 8 valandas viršvalandžių per vieną dieną.
+
+Pamainos trukmė kartu su viršvalandžiais negali būti ilgesnė kaip 24 valandos.
+
+Į pamainos trukmę įskaičiuojamas laikas, skirtas pareigūnams instruktuoti,
+
+apsiginkluoti ir atsiskaityti už tarnybos rezultatus. Vieno pareigūno
+
+viršvalandžiai per metus negali viršyti 250 valandų.
+
+3. Nustatytas
+
+funkcijas nepertraukiamai vykdančiose vidaus reikalų įstaigose tam tikras
+
+pareigas einantiems pareigūnams, dirbantiems pamainomis, vidaus reikalų
+
+centrinės įstaigos vadovo sprendimu gali būti nustatyta ne ilgesnė kaip 24
+
+valandų pamainos trukmė, viršijanti šio straipsnio 1 dalyje nustatytą 40
+
+valandų per savaitę (7 dienų laikotarpį) darbo laiko normą, bet ne ilgesnė kaip
+
+48 valandų per savaitę (7 dienų laikotarpį) darbo laiko norma. Šių pareigūnų
+
+darbas, kiekvieną savaitę (7 dienų laikotarpį) neviršijantis 48 valandų darbo
+
+laiko normos, nelaikomas viršvalandiniu. Šioje dalyje nurodytų pareigūnų
+
+pareigybių sąrašą bei šių pareigūnų darbo ir poilsio laiko apskaitos ypatumus
+
+nustato Vyriausybė.
+
+4. Šio
+
+straipsnio 3 dalyje nurodytiems pareigūnams dirbti viršvalandžius galima
+
+pavesti tik šio Statuto 30 straipsnyje nustatytais atvejais. Tokiais atvejais
+
+pamainos trukmė kartu su viršvalandžiais negali būti ilgesnė kaip 26 valandos,
+
+o vieno pareigūno viršvalandžiai per metus negali viršyti 164 valandų.
+
+5. Neteko galios
+
+nuo 2009 m. sausio 1 d.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-1820,
+
+2008-11-14, Žin., 2008, Nr. 137-5369 (2008-11-29)
+
+30
+
+straipsnis. Atvejai, kai privalomas viršvalandinis darbas
+
+1. Pareigūnas
+
+privalo vykdyti vadovo, turinčio teisę skirti į pareigas, įsakymą ar nurodymą
+
+dirbti viršvalandinį darbą, kai būtina:
+
+1) gelbėti
+
+žmonių gyvybę ar sveikatą;
+
+2) užkirsti
+
+kelią stichinėms nelaimėms, gaisrams, avarijoms ar katastrofoms, taip pat
+
+likviduoti jų padarinius;
+
+3) užkirsti
+
+kelią masinėms riaušėms ar jas nutraukti;
+
+4) užtikrinti
+
+viešąją tvarką masinių renginių metu;
+
+5) įvykdyti
+
+tarnybinę užduotį, kurios vykdymas dėl jos ypatumų negali būti sustabdytas ar
+
+nutrauktas;
+
+6) sustiprinti
+
+valstybės sienos apsaugą;
+
+7) ruoštis
+
+ginkluotai krašto gynybai;
+
+8) sustiprinti
+
+strateginių objektų apsaugą;
+
+9) kai būtina
+
+užtikrinti oficialių užsienio svečių saugumą;
+
+10) kitais
+
+įstatymų nustatytais atvejais.
+
+2. Vidaus reikalų įstaigos vadovas šio straipsnio 1 dalyje nurodytais
+
+atvejais gali pavesti pareigūnams dirbti poilsio ir švenčių dienomis.
+
+31
+
+straipsnis. Budėjimo laikas
+
+1. Pareigūno
+
+budėjimo laikas yra laikas, kurį jis pagal teisės aktų nustatyta tvarka iš
+
+anksto patvirtintą grafiką turi būti iš anksto aptartoje vietoje laisvu nuo
+
+tarnybos metu tam, kad vidaus reikalų įstaigos vadovas ar budėtojų tarnyba
+
+galėtų jį iškviesti atlikti neatidėliotinų veiksmų.
+
+2. Budėjimo
+
+laikas negali trukti ilgiau kaip 96 valandas per mėnesį. Pareigūno budėjimo
+
+laikas įstaigoje prilyginamas darbo laikui, o budėjimas namuose ar iš anksto
+
+aptartoje tarnybos vietovės vietoje – ne mažiau kaip pusei darbo laiko.
+
+3. Už budėjimą,
+
+kai viršijama darbo laiko trukmė, per artimiausią mėnesį pareigūnui privalo
+
+būti suteiktas poilsio laikas tokios pat trukmės kaip viršytas darbo laikas
+
+arba pareigūno pageidavimu šis poilsio laikas gali būti pridedamas prie
+
+kasmetinių atostogų, arba apmokama Valstybės tarnybos įstatymo nustatyta
+
+tvarka.
+
+4. Nėščios
+
+moterys, neseniai pagimdžiusios moterys ir krūtimi maitinančios moterys,
+
+pareigūnai, auginantys vaiką iki 3 metų, ir pareigūnai, vieni auginantys vaiką
+
+iki 14 metų arba neįgalų vaiką iki 18 metų, neįgalųjį slaugantys pareigūnai
+
+budėti gali būti skiriami tik jų sutikimu.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+X-804,
+
+2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08)
+
+Nr.
+
+X-1820,
+
+2008-11-14, Žin., 2008, Nr. 137-5369 (2008-11-29)
+
+32
+
+straipsnis. Kasmetinės atostogos
+
+1. Pareigūnams
+
+kasmetinių atostogų trukmė nustatoma atsižvelgiant į pareigūnų vidaus tarnybos
+
+stažą:
+
+1) iki 10 metų –
+
+30 kalendorinių dienų;
+
+2) nuo 10 iki 15
+
+metų – 35 kalendorinės dienos;
+
+3) nuo 15 iki 20
+
+metų – 40 kalendorinių dienų;
+
+4) 20 metų ir
+
+daugiau – 45 kalendorinės dienos.
+
+2.
+
+Pareigūnams kasmetinių atostogų trukmė pirmaisiais kalendoriniais tarnybos
+
+metais nustatoma skaičiuojant po dvi su puse kalendorinės dienos už kiekvieną
+
+visą dirbtą mėnesį nuo priėmimo dienos iki metų pabaigos. Jeigu šių atostogų
+
+trukmė mažesnė negu 10 kalendorinių dienų, pareigūno prašymu jos gali būti
+
+suteikiamos kartu su kitų metų kasmetinėmis atostogomis.
+
+3. Pareigūnui
+
+kasmetinės atostogos gali būti suteikiamos visos iš karto arba, suderinus su
+
+vadovu, turinčiu teisę skirti į pareigas, dalimis, iš kurių viena negali būti
+
+trumpesnė kaip 14 kalendorinių dienų.
+
+4. Pareigūnui,
+
+kuriam kalendoriniais metais nebuvo suteiktos kasmetinės atostogos, jos
+
+suteikiamos ne vėliau kaip kitų metų I ketvirtį.
+
+5. Pareigūnui, ligos, nelaimingo atsitikimo ar slaugos kasmetinių
+
+atostogų metu atveju gavusiam iš asmens sveikatos priežiūros įstaigų nustatytos
+
+formos laikinojo nedarbingumo pažymėjimą ir pateikusiam jį tiesioginiam vadovui
+
+(arba pranešusiam kitu būdu), kasmetinės atostogos pratęsiamos ar perkeliamos
+
+visam laikinojo nedarbingumo laikui.
+
+33
+
+straipsnis. Kasmetinių atostogų nutraukimas
+
+1. Pareigūno
+
+sutikimu kasmetinės atostogos gali būti nutrauktos ir jis vadovo, turinčio
+
+teisę skirti į pareigas, įsakymu gali būti iškviestas tęsti tarnybos ne daugiau
+
+kaip du kartus per vienas atostogas.
+
+2. Šio Statuto
+
+30 straipsnio 1 dalies nustatytais atvejais pareigūną iš atostogų be jo
+
+sutikimo gali atšaukti vidaus reikalų įstaigos vadovas savo įsakymu.
 
