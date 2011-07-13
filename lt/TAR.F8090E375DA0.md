@@ -4,7 +4,7 @@ identifier: "TAR.F8090E375DA0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2010-12-11"
+last_updated: "2011-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0"
 department: "Lietuvos Respublikos Seimas"
@@ -615,47 +615,7 @@ poveikį žmonių sveikatai, įskaitant priklausomybę lemiantį poveikį.
 
 gauta vykdant šio straipsnio reikalavimus, pateikiama Europos Bendrijų Komisijai.
 
-III SKYRIUS
-
-VEIKLos
-
-RŪŠIŲ, SUSIJUSIŲ SU TABAKU IR TABAKO GAMINIAIS, VALSTYBINIS TEISINIS REGLamentavimas
-
-PIRMASIS SKIRSNIS
-
-VEIKLOS RŪŠIŲ LICENCIJAVIMAS
-
-10
-
-straipsnis. Veiklos rūšių licencijavimas ir licencijų rūšys
-
-1. Lietuvos
-
-Respublikoje verstis tabako auginimu, tabako gaminių gamyba, didmenine ir
-
-mažmenine prekyba leidžiama tik turint nustatyta tvarka išduotas licencijas.
-
-2. Licencijos
-
-verstis tabako auginimu nereikia, kai tabaką asmeniniam naudojimui augina
-
-fizinis asmuo iki 100 kvadratinių metrų žemės plote.
-
-3. Šio
-
-straipsnio 1 dalyje nurodytų rūšių veiklos licencijavimo taisykles,
-
-vadovaudamasi šiuo Įstatymu, Lietuvos Respublikos civiliniu kodeksu ir kitais
-
-teisės aktais, tvirtina Lietuvos Respublikos Vyriausybė.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. X-1637,
-
-2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
+Papildyta straipsniu nuo 2011-08-01
 
 2 straipsnis.
 
@@ -2703,24 +2663,6 @@ Lietuvos Respublikoje ūkininko ūkius įregistravusiems ūkininkams (toliau –
 
 2. Licencijas verstis tabako auginimu, tabako
 
-gaminių gamyba ir didmenine prekyba tabako gaminiais, vadovaudamasi Lietuvos
-
-Respublikos Vyriausybės patvirtintomis licencijavimo taisyklėmis, išduoda, apie
-
-galimą licencijos galiojimo sustabdymą ar panaikinimą įspėja, licencijos
-
-galiojimą sustabdo, licencijos galiojimo sustabdymą ar licencijos galiojimą
-
-naikina Valstybinė tabako ir alkoholio kontrolės tarnyba prie Lietuvos
-
-Respublikos Vyriausybės (toliau – Valstybinė tabako ir alkoholio kontrolės
-
-tarnyba).
-
-2 dalies redakcija nuo 2011 m. balandžio 1 d.:
-
-2. Licencijas verstis tabako auginimu, tabako
-
 gaminių gamyba ir didmenine prekyba tabako gaminiais, vadovaudamasis Lietuvos
 
 Respublikos Vyriausybės patvirtintomis licencijavimo taisyklėmis, išduoda, apie
@@ -2733,25 +2675,25 @@ naikina Narkotikų, tabako ir alkoholio kontrolės departamentas.
 
 3. Licencijas verstis mažmenine prekyba tabako
 
-gaminiais (įskaitant mažmeninę prekybą tabako gaminiais iš automobilių-parduotuvių),
+gaminiais (įskaitant mažmeninę prekybą tabako gaminiais iš
 
-vadovaudamasi Lietuvos Respublikos Vyriausybės patvirtintomis licencijavimo
+automobilių-parduotuvių), vadovaudamasi Lietuvos Respublikos Vyriausybės
 
-taisyklėmis, išduoda, apie galimą licencijos galiojimo sustabdymą ar
+patvirtintomis licencijavimo taisyklėmis, išduoda, apie galimą licencijos
 
-panaikinimą įspėja, licencijos galiojimą sustabdo, licencijos galiojimo
+galiojimo sustabdymą ar panaikinimą įspėja, licencijos galiojimą sustabdo, licencijos
 
-sustabdymą ar licencijos galiojimą naikina savivaldybės, kurios teritorijoje
+galiojimo sustabdymą ar licencijos galiojimą naikina savivaldybės, kurios
 
-įmonė versis mažmenine prekyba tabako gaminiais, vykdomoji institucija, o
+teritorijoje įmonė versis mažmenine prekyba tabako gaminiais, vykdomoji
 
-verstis mažmenine prekyba tabako gaminiais keleiviams vežti skirtose transporto
+institucija, o verstis mažmenine prekyba tabako gaminiais keleiviams vežti
 
-priemonėse – savivaldybės, kurios teritorijoje yra įmonės, pageidaujančios
+skirtose transporto priemonėse – savivaldybės, kurios teritorijoje yra įmonės,
 
-verstis mažmenine prekyba tabako gaminiais keleiviams vežti skirtose transporto
+pageidaujančios verstis mažmenine prekyba tabako gaminiais keleiviams vežti
 
-priemonėse, buveinė, vykdomoji institucija.
+skirtose transporto priemonėse, buveinė, vykdomoji institucija.
 
 4. Išduodamos licencijos yra neterminuotos.
 
@@ -2762,12 +2704,6 @@ kitose savivaldybės tarybos nustatytose poilsio bei turizmo teritorijose
 išduodamos savivaldybės tarybos nustatyto kurortinio, poilsio bei turizmo
 
 sezonui.
-
-5. Licencijų įmonėms išdavimą savivaldybėse
-
-kontroliuoja Valstybinė tabako ir alkoholio kontrolės tarnyba.
-
-5 dalies redakcija nuo 2011 m. balandžio 1 d.:
 
 5. Licencijų
 
@@ -2813,57 +2749,35 @@ mokesčių, delspinigių, baudų vyksta mokestinis ginčas), ir įmonė yra skol
 
 Valstybinio socialinio draudimo fondo biudžetui;
 
-5) įmonei, įmonės
-
-steigėjams ar vadovams yra įsiteisėjęs apkaltinamasis teismo nuosprendis,
-
-įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs atitinkamas muitinės,
-
-Valstybinės mokesčių inspekcijos, policijos ar Valstybinės tabako ir alkoholio
-
-kontrolės tarnybos prie Lietuvos Respublikos Vyriausybės nutarimas dėl bausmės
-
-ar nuobaudos skyrimo už tabako gaminių kontrabandą, falsifikuotų tabako gaminių
-
-pardavimą, laikymą ar gabenimą, tabako gaminių pardavimą, laikymą ar gabenimą
-
-be tabako gaminių įsigijimą patvirtinančių juridinę galią turinčių dokumentų,
-
-taip pat už tabako gaminių be specialių ženklų – banderolių neteisėtą laikymą,
-
-gabenimą ar pardavimą (licencijos visai neišduodamos);
-
-5 punkto redakcija nuo 2011 m. balandžio 1 d.:
-
 5) įmonei,
 
-įmonės steigėjams ar vadovams yra įsiteisėjęs apkaltinamasis teismo nuosprendis,
+įmonės steigėjams ar vadovams yra įsiteisėjęs apkaltinamasis teismo
 
-įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs atitinkamas muitinės,
+nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs atitinkamas
 
-Valstybinės mokesčių inspekcijos, policijos, Valstybinės ne maisto produktų
+muitinės, Valstybinės mokesčių inspekcijos, policijos, Valstybinės ne maisto
 
-inspekcijos prie Ūkio ministerijos ar Narkotikų, tabako ir alkoholio kontrolės
+produktų inspekcijos prie Ūkio ministerijos ar Narkotikų, tabako ir alkoholio
 
-departamento nutarimas dėl bausmės ar nuobaudos skyrimo už tabako gaminių
+kontrolės departamento nutarimas dėl bausmės ar nuobaudos skyrimo už tabako
 
-kontrabandą, falsifikuotų tabako gaminių pardavimą, laikymą ar gabenimą, tabako
+gaminių kontrabandą, falsifikuotų tabako gaminių pardavimą, laikymą ar
 
-gaminių pardavimą, laikymą ar gabenimą be tabako gaminių įsigijimą
+gabenimą, tabako gaminių pardavimą, laikymą ar gabenimą be tabako gaminių
 
-patvirtinančių juridinę galią turinčių dokumentų, taip pat už tabako gaminių be
+įsigijimą patvirtinančių juridinę galią turinčių dokumentų, taip pat už tabako
 
-specialių ženklų – banderolių neteisėtą laikymą, gabenimą ar pardavimą
+gaminių be specialių ženklų – banderolių neteisėtą laikymą, gabenimą ar
 
-(licencijos visai neišduodamos);
+pardavimą (licencijos visai neišduodamos);
 
 6) įmonės steigėjai ar vadovai yra (buvo) įmonių,
 
 kurioms buvo panaikintas licencijos galiojimas šio straipsnio 8 dalies 3 punkte
 
-ar šio Įstatymo 26 straipsnio 5 dalyje nustatytais pagrindais, steigėjai,
+ar šio Įstatymo 26 straipsnio 5 dalyje nustatytais pagrindais, steigėjai, vadovai
 
-vadovai ar kiti darbuotojai, jeigu jie veikė įmonės vardu ar dėl jos interesų
+ar kiti darbuotojai, jeigu jie veikė įmonės vardu ar dėl jos interesų
 
 (licencijos visai neišduodamos);
 
@@ -2912,30 +2826,6 @@ reorganizuojama įmonė baigia veiklą kaip savarankiškas juridinis asmuo;
 įmonėms, įmonių vadovams ar kitiems įmonių darbuotojams (veikusiems įmonės
 
 vardu ar dėl jos interesų) yra įsiteisėjęs apkaltinamasis teismo nuosprendis,
-
-įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs atitinkamas muitinės,
-
-Valstybinės mokesčių inspekcijos, policijos ar Valstybinės tabako ir alkoholio
-
-kontrolės tarnybos prie Lietuvos Respublikos Vyriausybės nutarimas dėl bausmės
-
-ar nuobaudos skyrimo už tabako ar tabako gaminių kontrabandą, falsifikuotų
-
-tabako gaminių pardavimą, laikymą ar gabenimą, tabako gaminių pardavimą,
-
-laikymą ar gabenimą be tabako gaminių įsigijimą patvirtinančių juridinę galią
-
-turinčių dokumentų, taip pat už tabako gaminių be specialių ženklų – banderolių
-
-neteisėtą laikymą, gabenimą ar pardavimą;
-
-3 punkto redakcija nuo 2011 m. balandžio 1 d.:
-
-3) jeigu pačioms
-
-įmonėms, įmonių vadovams ar kitiems įmonių darbuotojams (veikusiems įmonės vardu
-
-ar dėl jos interesų) yra įsiteisėjęs apkaltinamasis teismo nuosprendis,
 
 įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs atitinkamas muitinės,
 
@@ -3025,13 +2915,13 @@ licenciją verstis didmenine prekyba tabako gaminiais, įsigyti tabako gaminius
 
 Lietuvos Respublikoje leidžiama tik iš įmonių, turinčių licencijas verstis
 
-tabako gaminių gamyba ar didmenine prekyba tabako gaminiais, ir ši nuostata neuždraudžia
+tabako gaminių gamyba ar didmenine prekyba tabako gaminiais, ir ši nuostata
 
-įmonėms, turinčioms licenciją verstis didmenine prekyba tabako gaminiais,
+neuždraudžia įmonėms, turinčioms licenciją verstis didmenine prekyba tabako
 
-licencijoje nurodytai veiklai pačioms importuoti ar įsivežti tabako gaminius iš
+gaminiais, licencijoje nurodytai veiklai pačioms importuoti ar įsivežti tabako
 
-kitų valstybių.
+gaminius iš kitų valstybių.
 
 5. Įmonėms, turinčioms licenciją verstis tabako
 
@@ -3183,9 +3073,9 @@ straipsnio 2 dalyje nustatytus kiekius;
 
 6) jeigu tabako
 
-gaminių ženklinimas neatitinka šiame Įstatyme ir kituose teisės aktuose nustatytų
+gaminių ženklinimas neatitinka šiame Įstatyme ir kituose teisės aktuose
 
-tabako gaminių ženklinimo reikalavimų;
+nustatytų tabako gaminių ženklinimo reikalavimų;
 
 7) jeigu tabako
 
@@ -3559,17 +3449,17 @@ PRIEMONĖS
 
 rūkyti ar pasiruošti rūkyti, pardavimo ribojimas
 
-Lietuvos Respublikoje
+Lietuvos
 
-parduoti prekes, skirtas tabako gaminiams rūkyti (ar pasiruošti rūkyti), t.y.
+Respublikoje parduoti prekes, skirtas tabako gaminiams rūkyti (ar pasiruošti
 
-pypkes, kandiklius, pypkių ir kandiklių valiklius (grandiklius), buitines
+rūkyti), t.y. pypkes, kandiklius, pypkių ir kandiklių valiklius (grandiklius),
 
-cigarečių sukimo mašinas, bet kokį rūkomąjį (cigarečių) popierių (supjaustytą
+buitines cigarečių sukimo mašinas, bet kokį rūkomąjį (cigarečių) popierių
 
-ar nepjaustytą, suklijuotą į tūteles, su pritvirtintais filtrais ar be jų),
+(supjaustytą ar nepjaustytą, suklijuotą į tūteles, su pritvirtintais filtrais
 
-asmenims iki 18 metų draudžiama.
+ar be jų), asmenims iki 18 metų draudžiama.
 
 TREČIASIS
 
@@ -4645,38 +4535,6 @@ visuomenės sveikatos priežiūros tarnyba prie Lietuvos Respublikos sveikatos
 
 apsaugos ministerijos – už 9 straipsnio 1 dalies pažeidimą;
 
-2) Valstybės
-
-tabako ir alkoholio kontrolės tarnyba – už 10 straipsnio 1 dalies, 12
-
-straipsnio 1, 3, 4, 5 ir 7 dalių, 13 straipsnio, 14 straipsnio 1 dalies, 14
-
-straipsnio 3 dalies 1, 2, 3, 4 ir 6 punktų, 14 straipsnio 5 dalies, 15, 16
-
-straipsnių, 17 straipsnio 1 dalies (išskyrus pažeidimus visuomenės informavimo
-
-priemonėse), 4 ir 5 dalių, 18 straipsnio, 19 straipsnio 1 dalies 5
-
-punkto nuostatų pažeidimus;
-
-3) Valstybinė
-
-vartotojų teisių apsaugos tarnyba – už 14 straipsnio 3 dalies 5 punkto (kai
-
-Valstybinė ne maisto produktų inspekcija prie Lietuvos Respublikos ūkio
-
-ministerijos pateikia pažeidimo protokolą) ir už 17 straipsnio 1 dalies
-
-nuostatų pažeidimus visuomenės informavimo priemonėse;
-
-4) Valstybinė ne
-
-maisto produktų inspekcija prie Lietuvos Respublikos ūkio ministerijos – už 14
-
-straipsnio 3 dalies 6 ir 7 punktų nuostatų pažeidimus;
-
-2, 3 ir 4 punktų redakcija nuo 2011 m. balandžio 1 d.:
-
 2) Narkotikų,
 
 tabako ir alkoholio kontrolės departamentas – už 10 straipsnio 1 dalies,
@@ -4695,11 +4553,11 @@ nuostatų pažeidimus;
 
 vartotojų teisių apsaugos tarnyba – už 14 straipsnio 3 dalies 5 punkto (kai
 
-Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos pateikia
+Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos pateikia pažeidimo
 
-pažeidimo protokolą) ir už 17 straipsnio 1 dalies nuostatų pažeidimus
+protokolą) ir už 17 straipsnio 1 dalies nuostatų pažeidimus visuomenės
 
-visuomenės informavimo priemonėse;
+informavimo priemonėse;
 
 4) Valstybinė ne
 
@@ -4757,15 +4615,15 @@ padarytą pažeidimą vidurkis. Kai yra atsakomybę lengvinančių ir sunkinanč
 
 aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos
 
-mažinimas ar didinimas motyvuojamas institucijos, skiriančios baudą už šiame
+mažinimas ar didinimas motyvuojamas institucijos, skiriančios baudą už šiame Įstatyme
 
-Įstatyme nustatytų reikalavimų pažeidimus, nutarime. Skundą nagrinėjantis
+nustatytų reikalavimų pažeidimus, nutarime. Skundą nagrinėjantis teismas,
 
-teismas, atsižvelgdamas į atsakomybę lengvinančias ir kitas aplinkybes (dėl
+atsižvelgdamas į atsakomybę lengvinančias ir kitas aplinkybes (dėl kurių
 
-kurių atitinkama piniginė bauda teisės pažeidėjui būtų akivaizdžiai per didelė,
+atitinkama piniginė bauda teisės pažeidėjui būtų akivaizdžiai per didelė, nes
 
-nes neproporcinga padarytam teisės pažeidimui, ir dėl to neteisinga) ir
+neproporcinga padarytam teisės pažeidimui, ir dėl to neteisinga) ir
 
 vadovaudamasis teisingumo, protingumo kriterijais, turi teisę skirti mažesnę
 
@@ -5015,13 +4873,13 @@ dienos.
 
 straipsnis. Nutarimų dėl ekonominių sankcijų taikymo apskundimas
 
-*1. Asmenys, nesutinkantys su
+*1. Asmenys, nesutinkantys su nutarimu
 
-nutarimu taikyti ekonominę sankciją, turi teisę per vieną mėnesį nuo nutarimo
+taikyti ekonominę sankciją, turi teisę per vieną mėnesį nuo nutarimo įteikimo
 
-įteikimo dienos apskųsti jį teismui Lietuvos Respublikos administracinių bylų
+dienos apskųsti jį teismui Lietuvos Respublikos administracinių bylų teisenos
 
-teisenos įstatymo nustatyta tvarka.
+įstatymo nustatyta tvarka.
 
 2. Kreipimasis į
 
@@ -5335,6 +5193,24 @@ KONTROLĖS ĮSTATYMO 11 IR 26 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 įstatymas, išskyrus 4 straipsnį, įsigalioja 2011 m. balandžio 1 d.
 
+14.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1566,
+
+2011-06-30, Žin., 2011, Nr. 86-4178 (2011-07-13)
+
+TABAKO
+
+KONTROLĖS ĮSTATYMO PAPILDYMO 9(1) STRAIPSNIU ĮSTATYMAS
+
+Šis įstatymas, išskyrus 3 straipsnį, įsigalioja 2011 m.
+
+rugpjūčio 1 d.
+
 *** Pabaiga ***
 
 Konstitucinio
@@ -5411,9 +5287,9 @@ Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2011-04-06)
+Aušra Bodin (2011-07-15)
 
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
 
 26 straipsnis.
 
@@ -6340,4 +6216,80 @@ Redagavo:
 Aušrinė Trapinskienė (2006-06-02)
 
 autrap@lrs.lt
+
+91 straipsnis. Tabako gaminių
+
+gamybos ir realizavimo ataskaitos
+
+1. Tabako
+
+gaminių gamintojai kas ketvirtį iki kito ketvirčio pirmo mėnesio 10 dienos
+
+Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka
+
+privalo pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui tabako
+
+gaminių gamybos ir realizavimo per ketvirtį ataskaitą.
+
+2. Įmonės,
+
+vykdančios didmeninę prekybą tabako gaminiais, kas ketvirtį iki kito ketvirčio
+
+pirmo mėnesio 10 dienos Lietuvos Respublikos Vyriausybės įgaliotos institucijos
+
+nustatyta tvarka privalo pateikti Narkotikų, tabako ir alkoholio kontrolės
+
+departamentui tabako gaminių realizavimo per ketvirtį ataskaitą.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr.
+
+XI-1566,
+
+2011-06-30, Žin., 2011, Nr. 86-4178 (2011-07-13)
+
+III SKYRIUS
+
+VEIKLos
+
+RŪŠIŲ, SUSIJUSIŲ SU TABAKU IR TABAKO GAMINIAIS, VALSTYBINIS TEISINIS REGLamentavimas
+
+PIRMASIS SKIRSNIS
+
+VEIKLOS RŪŠIŲ LICENCIJAVIMAS
+
+10
+
+straipsnis. Veiklos rūšių licencijavimas ir licencijų rūšys
+
+1. Lietuvos
+
+Respublikoje verstis tabako auginimu, tabako gaminių gamyba, didmenine ir
+
+mažmenine prekyba leidžiama tik turint nustatyta tvarka išduotas licencijas.
+
+2. Licencijos
+
+verstis tabako auginimu nereikia, kai tabaką asmeniniam naudojimui augina
+
+fizinis asmuo iki 100 kvadratinių metrų žemės plote.
+
+3. Šio
+
+straipsnio 1 dalyje nurodytų rūšių veiklos licencijavimo taisykles,
+
+vadovaudamasi šiuo Įstatymu, Lietuvos Respublikos civiliniu kodeksu ir kitais
+
+teisės aktais, tvirtina Lietuvos Respublikos Vyriausybė.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. X-1637,
+
+2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 
