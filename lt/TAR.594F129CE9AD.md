@@ -4,7 +4,7 @@ identifier: "TAR.594F129CE9AD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2010-07-01"
+last_updated: "2011-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2011-07-12
+Suvestinė redakcija nuo 2011-07-13 iki 2016-06-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
 
@@ -45,11 +45,13 @@ Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0I
 
 2 straipsnis. Administracinių ginčų komisijos
 
-1. Savivaldybių tarybos gali sudaryti savivaldybių visuomenines administracinių ginčų komisijas su sprendžiamojo balso teise. Išskyrus išimtis, kurias nustato Lietuvos Respublikos administracinių bylų teisenos įstatymas arba kiti įstatymai, savivaldybių visuomeninės administracinių ginčų komisijos ikiteismine tvarka nagrinėja asmenų skundus dėl savivaldybių viešojo administravimo subjektų priimtų individualių administracinių aktų arba valstybės tarnautojų veiksmų (neveikimo).
+1. Savivaldybių tarybos sudaro savivaldybių visuomenines administracinių ginčų komisijas su sprendžiamojo balso teise. Išskyrus išimtis, kurias nustato Lietuvos Respublikos administracinių bylų teisenos įstatymas arba kiti įstatymai, savivaldybių visuomeninės administracinių ginčų komisijos ikiteismine tvarka nagrinėja asmenų skundus dėl savivaldybių viešojo administravimo subjektų priimtų individualių administracinių aktų arba valstybės tarnautojų veiksmų (neveikimo).
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
+
+Nr. XI-1534, 2011-06-23, Žin., 2011, Nr. 86-4173 (2011-07-13), i. k. 1111010ISTA0XI-1534
 
 2. Skundus (prašymus) dėl priimtų individualių administracinių aktų ar viešojo administravimo subjektų veiksmų (neveikimo) viešojo administravimo srityje ikiteismine tvarka nagrinėja Vyriausioji administracinių ginčų komisija.
 
@@ -308,4 +310,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
 
 Lietuvos Respublikos administracinių ginčų komisijų įstatymo 2, 3, 5, 6, 18 straipsnių pakeitimo ir 4 straipsnio pripažinimo netekusiu galios įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1534, 2011-06-23, Žin., 2011, Nr. 86-4173 (2011-07-13), i. k. 1111010ISTA0XI-1534
+
+Lietuvos Respublikos administracinių ginčų komisijų įstatymo 2 straipsnio pakeitimo įstatymas
 
