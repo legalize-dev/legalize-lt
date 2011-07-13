@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2011-01-06"
+last_updated: "2011-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -72,6 +72,8 @@ BENDROSIOS NUOSTATOS
 
 įstatymo reikalavimai netaikomi:
 
+1 punkto redakcija iki 2011-08-21
+
 1) pirkimams, susijusiems su įstatymų nustatyta
 
 valstybės ar tarnybos paslaptimi, kai prekių tiekimui, paslaugų teikimui ar
@@ -98,6 +100,16 @@ užtikrinančiomis valstybės ir tarnybos paslapčių bei kitų valstybės inter
 
 apsaugą;
 
+1 punkto redakcija nuo 2011-08-21
+
+1) pirkimams, kuriems turi
+
+būti taikomi specialūs informacijos apsaugos reikalavimai, nustatyti Lietuvos
+
+Respublikos įstatymuose ar
+
+Lietuvos Respublikos Vyriausybės teisės aktuose;“
+
 2) pirkimams, atliekamiems pagal kitas procedūrines
 
 taisykles, vadovaujantis tarptautiniu susitarimu, sudarytu laikantis principų,
@@ -120,11 +132,19 @@ paslaugų ar darbų, skirtų bendram susitarimą pasirašiusių šalių projektu
 
 įgyvendinti ar naudoti;
 
+4 punkto redakcija iki 2011-08-21
+
 4) pirkimams, susijusiems su Lietuvos kariuomenės
 
 karinių vienetų dislokavimu užsienio valstybėse pagal tarptautinį susitarimą.
 
 Šių pirkimų tvarką nustato Lietuvos Respublikos Vyriausybė;
+
+4 punkto redakcija nuo 2011-08-21
+
+4) pirkimams, susijusiems su Lietuvos kariuomenės
+
+karinių vienetų dislokavimu užsienio valstybėse pagal tarptautinį susitarimą;
 
 5) pirkimams pagal tarptautinių organizacijų
 
@@ -138,23 +158,27 @@ finansinėmis priemonėmis, tačiau šio įstatymo reikalavimai taikomi finansin
 
 paslaugų sandoriams, atliekamiems tuo pačiu metu, prieš arba po įsigijimo ir
 
-nuomos sutarčių sudarymo. Žemės, esamų pastatų ar kitų nekilnojamųjų
+nuomos sutarčių sudarymo. Žemės, esamų pastatų ar kitų nekilnojamųjų daiktų
 
-daiktų pirkimų arba nuomos ar teisių į šiuos daiktus įsigijimų tvarką nustato
+pirkimų arba nuomos ar teisių į šiuos daiktus įsigijimų tvarką nustato Lietuvos
 
-Lietuvos Respublikos Vyriausybė;
+Respublikos Vyriausybė;
 
-7) pirkimams, kurių pagrindinis tikslas yra sudaryti galimybę perkančiosioms organizacijoms
+7) pirkimams, kurių pagrindinis tikslas yra sudaryti galimybę perkančiosioms
 
-teikti ir eksploatuoti viešuosius ryšių tinklus arba teikti visuomenei vieną ar
+organizacijoms teikti ir eksploatuoti viešuosius ryšių tinklus arba teikti
 
-kelias elektroninių ryšių paslaugas. Šiame punkte vartojamos sąvokos „viešasis
+visuomenei vieną ar kelias elektroninių ryšių paslaugas. Šiame punkte
 
-ryšių tinklas“ ir „elektroninių ryšių paslauga“ bei su jomis susijusios sąvokos
+vartojamos sąvokos „viešasis ryšių tinklas“ ir „elektroninių ryšių paslauga“
 
-„tinklo galinis taškas“ ir „viešoji elektroninių ryšių paslauga“ suprantamos
+bei su jomis susijusios sąvokos „tinklo galinis taškas“ ir „viešoji
 
-taip, kaip jos apibrėžtos Lietuvos Respublikos elektroninių ryšių įstatyme;
+elektroninių ryšių paslauga“ suprantamos taip, kaip jos apibrėžtos Lietuvos
+
+Respublikos elektroninių ryšių įstatyme;
+
+8 punkto redakcija iki 2011-08-21
 
 8) pirkimams
 
@@ -165,6 +189,14 @@ pirkimų tvarką, taip pat kompensavimo tvarką perkant ginklus, šaudmenis,
 sprogmenis ar kitas karinės paskirties prekes nustato Lietuvos
 
 Respublikos Vyriausybė.
+
+8 punkto redakcija nuo 2011-08-21
+
+8) pirkimams, kuriems taikomas Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje,
+
+įstatymas ir kuriems Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje,
+
+įstatymas netaikomas vadovaujantis jo 3 straipsnio nuostatomis.
 
 2. Perkant
 
@@ -202,11 +234,11 @@ eteryje laiko pirkimams, kai juos atlieka šio įstatymo 4 straipsnio 1 dalies 1
 
 2 ar 3 punktuose nurodytai perkančiajai organizacijai nustatytus reikalavimus
 
-atitinkantis transliuotojas. Šiame įstatyme vartojama sąvoka „transliuotojas“ suprantama
+atitinkantis transliuotojas. Šiame įstatyme vartojama sąvoka „transliuotojas“
 
-taip, kaip ji apibrėžta Lietuvos Respublikos visuomenės informavimo įstatyme.
+suprantama taip, kaip ji apibrėžta Lietuvos Respublikos visuomenės informavimo
 
-Šių pirkimų tvarką nustato Lietuvos Respublikos Vyriausybė;
+įstatyme. Šių pirkimų tvarką nustato Lietuvos Respublikos Vyriausybė;
 
 7) mokslinių tyrimų
 
@@ -220,13 +252,13 @@ sumoka perkančioji organizacija, pirkimams. Šių pirkimų tvarką nustato Liet
 
 Respublikos Vyriausybė ar jos įgaliota institucija;
 
-8) paslaugų pirkimams, kai juos perkančioji
+8) paslaugų pirkimams, kai juos perkančioji organizacija
 
-organizacija atlieka iš kitos perkančiosios organizacijos arba iš perkančiųjų
+atlieka iš kitos perkančiosios organizacijos arba iš perkančiųjų organizacijų
 
-organizacijų asociacijos, turinčių tokioms paslaugoms teikti išimtinę teisę,
+asociacijos, turinčių tokioms paslaugoms teikti išimtinę teisę, suteiktą teisės
 
-suteiktą teisės akto, atitinkančio Europos Sąjungos steigiamąsias sutartis.
+akto, atitinkančio Europos Sąjungos steigiamąsias sutartis.
 
 3. Šio įstatymo reikalavimai taip pat netaikomi
 
@@ -274,13 +306,15 @@ skirtiems vandeniui, kuris reikalingas geriamajam vandeniui gaminti,
 
 paskirstyti ar tiekti, įsigyti;
 
-6) atliekamiems energetikos srityje veikiančių perkančiųjų
+6) atliekamiems energetikos srityje veikiančių
 
-organizacijų ir skirtiems energijai ar kurui, reikalingam energijai gaminti,
+perkančiųjų organizacijų ir skirtiems energijai ar kurui, reikalingam energijai
 
-įsigyti. Lietuvos Respublikos Vyriausybė nustato šių pirkimų tvarką, kurios
+gaminti, įsigyti. Lietuvos Respublikos Vyriausybė nustato šių pirkimų tvarką,
 
-įgyvendinimą ir taikymo kontrolę užtikrina Vyriausybės įgaliota institucija;
+kurios įgyvendinimą ir taikymo kontrolę užtikrina Vyriausybės įgaliota
+
+institucija;
 
 7) kuriuos atlieka įmonė, teikianti visuomenei
 
@@ -368,6 +402,8 @@ Nr. XI-1255, 2010-12-23, Žin., 2011, Nr.
 
 2-36 (2011-01-06)
 
+Nr. XI-1494, 2011-06-21, Žin., 2011, Nr. 85-4137 (2011-07-13)
+
 30 straipsnis. Pasiūlymo galiojimo ir sutarties įvykdymo
 
 užtikrinimas
@@ -376,15 +412,15 @@ užtikrinimas
 
 Perkančioji organizacija gali pareikalauti, kad pasiūlymų galiojimas būtų
 
-užtikrinamas, ir privalo pareikalauti, kad pirkimo sutarties įvykdymas būtų užtikrinamas
+užtikrinamas, ir privalo pareikalauti, kad pirkimo sutarties įvykdymas būtų
 
-Lietuvos Respublikos civilinio kodekso nustatytais prievolių įvykdymo
+užtikrinamas Lietuvos Respublikos civilinio kodekso nustatytais prievolių
 
-užtikrinimo būdais. Perkančioji organizacija, atlikdama viešąjį pirkimą
+įvykdymo užtikrinimo būdais. Perkančioji organizacija, atlikdama viešąjį
 
-elektroninėmis priemonėmis, gali nustatyti, kad pasiūlymo galiojimo ir pirkimo
+pirkimą elektroninėmis priemonėmis, gali nustatyti, kad pasiūlymo galiojimo ir
 
-sutarties įvykdymo užtikrinimas pateikiamas elektroniniu būdu.
+pirkimo sutarties įvykdymo užtikrinimas pateikiamas elektroniniu būdu.
 
 2. Perkančioji organizacija negali atmesti pasiūlymo
 
@@ -432,9 +468,9 @@ Nr. X-1673,
 
 Nr.
 
-XI-395,
+XI-395, 2009-07-22,
 
-2009-07-22, Žin., 2009, Nr. 93-3986 (2009-08-04)
+Žin., 2009, Nr. 93-3986 (2009-08-04)
 
 1 straipsnis. Įstatymo paskirtis
 
@@ -1772,35 +1808,33 @@ pirkimo vertę.
 
 4. Jeigu
 
-perkančioji organizacija tiesiogiai dotuoja daugiau kaip 50 procentų atskirai perkamų
+perkančioji organizacija tiesiogiai dotuoja daugiau kaip 50 procentų atskirai
 
-su šio straipsnio 3 dalyje nurodytais darbų pirkimais susijusių paslaugų
+perkamų su šio straipsnio 3 dalyje nurodytais darbų pirkimais susijusių
 
-vertės, visos tokios paslaugos turi būti perkamos vadovaujantis šiuo įstatymu,
+paslaugų vertės, visos tokios paslaugos turi būti perkamos vadovaujantis šiuo
 
-neatsižvelgiant į tai, ar pirkimą atlieka vienas ar keli dotuojami ūkio
+įstatymu, neatsižvelgiant į tai, ar pirkimą atlieka vienas ar keli dotuojami
 
-subjektai, ar pati perkančioji organizacija šių ūkio subjektų naudai ar jų
+ūkio subjektai, ar pati perkančioji organizacija šių ūkio subjektų naudai ar jų
 
 vardu. Šis reikalavimas taikomas neatsižvelgiant į pirkimo vertę.
 
-5. Jei pirkimas gali būti
+5. Jei pirkimas gali būti reglamentuotas
 
-reglamentuotas ir šio įstatymo II ir III skyriaus nuostatomis, o pirkimo
+ir šio įstatymo II ir III skyriaus nuostatomis, o pirkimo objektas negali būti
 
-objektas negali būti suskaidytas, toks pirkimas reglamentuojamas šio įstatymo
+suskaidytas, toks pirkimas reglamentuojamas šio įstatymo II arba III skyriaus
 
-II arba III skyriaus nuostatomis, atsižvelgiant į tai, kuri pirkimo objekto
+nuostatomis, atsižvelgiant į tai, kuri pirkimo objekto panaudojimo sritis yra
 
-panaudojimo sritis yra pagrindinė. Šio reikalavimo perkančioji
+pagrindinė. Šio reikalavimo perkančioji organizacija privalo laikytis
 
-organizacija privalo laikytis neatsižvelgdama į tai, ar sudaroma viena, ar kelios
+neatsižvelgdama į tai, ar sudaroma viena, ar kelios pirkimo sutartys. Tačiau
 
-pirkimo sutartys. Tačiau pasirinkimo sudaryti vieną ar kelias atskiras pirkimo
+pasirinkimo sudaryti vieną ar kelias atskiras pirkimo sutartis negali nulemti
 
-sutartis negali nulemti siekis išvengti šio įstatymo nustatytos pirkimų
-
-tvarkos.
+siekis išvengti šio įstatymo nustatytos pirkimų tvarkos.
 
 6. Jei
 
@@ -1898,11 +1932,11 @@ Pirkimų įgaliojimų suteikimas kitai perkančiajai organizacijai
 
 1.
 
-Perkančioji organizacija pirkimams organizuoti ir pirkimo procedūroms iki pirkimo
+Perkančioji organizacija pirkimams organizuoti ir pirkimo procedūroms iki
 
-sutarties sudarymo atlikti gali įgalioti kitą perkančiąją organizaciją (toliau
+pirkimo sutarties sudarymo atlikti gali įgalioti kitą perkančiąją organizaciją
 
-– įgaliotoji organizacija). Tam ji privalo įgaliotajai organizacijai nustatyti
+(toliau – įgaliotoji organizacija). Tam ji privalo įgaliotajai organizacijai nustatyti
 
 užduotis ir suteikti visus įgaliojimus toms užduotims vykdyti. Įgaliojimai
 
@@ -1968,15 +2002,15 @@ organizacija, išskyrus Lietuvos Respublikos diplomatines atstovybes, konsulines
 
 organizacijų, turi užtikrinti, kad prekių, paslaugų ir darbų viešieji pirkimai,
 
-atliekami Centrinės viešųjų pirkimų informacinės sistemos priemonėmis (kai pirkimo
+atliekami Centrinės viešųjų pirkimų informacinės sistemos priemonėmis (kai
 
-atveju elektroninėmis priemonėmis pateikiamas skelbimas apie pirkimą
+pirkimo atveju elektroninėmis priemonėmis pateikiamas skelbimas apie pirkimą
 
-(neskelbiamų pirkimų atveju – kvietimas), kiti pirkimo dokumentai ir priimami
+(neskelbiamų pirkimų atveju – kvietimas), kiti pirkimo dokumentai ir priimami tiekėjų
 
-tiekėjų pasiūlymai) kiekvienais kalendoriniais metais sudarytų ne mažiau kaip
+pasiūlymai) kiekvienais kalendoriniais metais sudarytų ne mažiau kaip 50
 
-50 procentų perkančiosios organizacijos viešųjų pirkimų bendrosios vertės.
+procentų perkančiosios organizacijos viešųjų pirkimų bendrosios vertės.
 
 Papildyta
 
@@ -2004,9 +2038,11 @@ jiems atlikti įgalioja kitą perkančiąją organizaciją, šiuos veiksmus atli
 
 įgaliotoji organizacija. Komisija dirba pagal ją sudariusios organizacijos
 
-patvirtintą darbo reglamentą, yra jai atskaitinga ir vykdo tik raštiškas jos užduotis
+patvirtintą darbo reglamentą, yra jai atskaitinga ir vykdo tik raštiškas jos
 
-ir įpareigojimus. Už Komisijos veiksmus atsako ją sudariusi organizacija.
+užduotis ir įpareigojimus. Už Komisijos veiksmus atsako ją sudariusi
+
+organizacija.
 
 2. Komisija
 
@@ -2146,9 +2182,9 @@ saugiu elektroniniu parašu, atitinkančiu teisės aktų reikalavimus;
 
 ar paraiškų pateikimo termino pabaigos pateikti šio įstatymo 33–38
 
-straipsniuose nurodytus dokumentus, sertifikatus ir deklaracijas, kurių
+straipsniuose nurodytus dokumentus, sertifikatus ir deklaracijas, kurių elektroninės
 
-elektroninės formos neturi.
+formos neturi.
 
 6. Siekiant kelti elektroninių prietaisų sertifikavimo
 
@@ -2196,9 +2232,9 @@ duomenys būtų peržiūrimi tik vienu metu ir tik įgaliotų asmenų;
 
 7) tik suderintais ir tuo pat metu atliekamais
 
-įgaliotų asmenų veiksmais po nustatyto termino būtų sudaroma galimybė susipažinti
+įgaliotų asmenų veiksmais po nustatyto termino būtų sudaroma galimybė
 
-su gautais duomenimis;
+susipažinti su gautais duomenimis;
 
 8) gauti ir remiantis šiais reikalavimais peržiūrėti
 
@@ -2508,15 +2544,13 @@ kalendoriniams metams.
 
 Perkančioji organizacija privalo Viešųjų pirkimų tarnybai raštu pateikti
 
-kiekvienos įvykdytos ar nutrauktos pirkimo sutarties (preliminariosios
+kiekvienos įvykdytos ar nutrauktos pirkimo sutarties (preliminariosios sutarties)
 
-sutarties) ataskaitą, išskyrus ataskaitą, sudarytą atliekant mažos vertės
+ataskaitą, išskyrus ataskaitą, sudarytą atliekant mažos vertės pirkimus ar
 
-pirkimus ar atliekant pirkimus pagal sudarytą preliminariąją sutartį, ne vėliau
+atliekant pirkimus pagal sudarytą preliminariąją sutartį, ne vėliau kaip per 14
 
-kaip per 14 dienų, įvykdžius ar nutraukus pirkimo sutartį (preliminariąją
-
-sutartį).
+dienų, įvykdžius ar nutraukus pirkimo sutartį (preliminariąją sutartį).
 
 6. Šio
 
@@ -2858,9 +2892,9 @@ rengimas ir skelbimas
 
 skelbimai apie pirkimo sutarties sudarymą, skelbimai apie projekto konkurso
 
-rezultatus, pranešimai dėl savanoriško ex ante skaidrumo) skelbiami
+rezultatus, pranešimai dėl savanoriško ex ante skaidrumo) skelbiami Europos
 
-Europos Sąjungos oficialiajame leidinyje, leidinio „Valstybės žinios“ priede
+Sąjungos oficialiajame leidinyje, leidinio „Valstybės žinios“ priede
 
 „Informaciniai pranešimai“ ir Centrinėje viešųjų pirkimų informacinėje
 
@@ -2974,13 +3008,13 @@ laikomas autentišku. Europos Sąjungos oficialiųjų leidinių biuras taip pat
 
 parengia ir spausdina kiekvieno skelbimo svarbių elementų santrauką kitomis
 
-oficialiosiomis Europos Sąjungos kalbomis. Skelbimų, kuriuos skelbia Europos
+oficialiosiomis Europos Sąjungos kalbomis. Skelbimų, kuriuos skelbia
 
-Komisija, išlaidas padengia Europos Sąjunga. Skelbimų, kuriuos skelbia
+Europos Komisija, išlaidas padengia Europos Sąjunga. Skelbimų, kuriuos skelbia
 
-valstybės įmonė Seimo leidykla „Valstybės žinios“, išlaidas padengia
+valstybės įmonė Seimo leidykla „Valstybės žinios“, išlaidas padengia perkančioji
 
-perkančioji organizacija.
+organizacija.
 
 8 dalies redakcija nuo 2012 m. sausio 1 d.:
 
@@ -3026,9 +3060,9 @@ Nr. XI-678, 2010-02-11, Žin., 2010, Nr.
 
 Nr. XI-1256, 2010-12-23, Žin., 2010, Nr. 158-8018 (2010-12-31)
 
-Nr. XI-1257, 2010-12-23, Žin., 2010, Nr.
+Nr. XI-1257, 2010-12-23, Žin., 2010, Nr. 158-8019
 
-158-8019 (2010-12-31)
+(2010-12-31)
 
 Nr. XI-1255, 2010-12-23, Žin., 2011, Nr.
 
@@ -3076,17 +3110,17 @@ neketina duoti Komisijos nariams, ekspertams, perkančiosios organizacijos
 
 (įgaliotosios organizacijos) vadovams, valstybės tarnautojams (darbuotojams) ar
 
-kitų tiekėjų atstovams pinigų, dovanų, nesuteikė jokių paslaugų ar kitokio atlygio
+kitų tiekėjų atstovams pinigų, dovanų, nesuteikė jokių paslaugų ar kitokio
 
-už sudarytas ar nesudarytas sąlygas, susijusias su palankiais veiksmais laimėti
+atlygio už sudarytas ar nesudarytas sąlygas, susijusias su palankiais veiksmais
 
-pirkimus; su kokiais ūkio subjektais tiekėjas yra susijęs Lietuvos Respublikos
+laimėti pirkimus; su kokiais ūkio subjektais tiekėjas yra susijęs Lietuvos
 
-konkurencijos įstatymo 3 straipsnio 12 dalyje nustatytais būdais, ir
+Respublikos konkurencijos įstatymo 3 straipsnio 12 dalyje nustatytais būdais,
 
-patvirtinama, kad jeigu vienas ar keli iš jo nurodytų ūkio subjektų, su kuriais
+ir patvirtinama, kad jeigu vienas ar keli iš jo nurodytų ūkio subjektų, su
 
-jis yra susijęs, dalyvauja pirkime ir pateikia savarankišką pasiūlymą
+kuriais jis yra susijęs, dalyvauja pirkime ir pateikia savarankišką pasiūlymą
 
 (pasiūlymus), tiekėjas šiame pirkime veikia nepriklausomai nuo jų ir jie
 
@@ -3320,17 +3354,17 @@ kiek jie neprieštarauja Europos Sąjungos teisei, techninė specifikacija gali
 
 būti parengta šiais būdais arba šių būdų deriniu:
 
-1) nurodant standartą, techninį liudijimą ar bendrąsias
+1) nurodant standartą, techninį liudijimą ar
 
-technines specifikacijas. Techninėje specifikacijoje turi būti taikoma tokia
+bendrąsias technines specifikacijas. Techninėje specifikacijoje turi būti
 
-pirmumo tvarka: pirmiausia nurodomas Europos standartą perimantis Lietuvos
+taikoma tokia pirmumo tvarka: pirmiausia nurodomas Europos standartą perimantis
 
-standartas, Europos techninis liudijimas, bendrosios techninės specifikacijos,
+Lietuvos standartas, Europos techninis liudijimas, bendrosios techninės
 
-tarptautinis standartas, kitos Europos standartizacijos įstaigų nustatytos
+specifikacijos, tarptautinis standartas, kitos Europos standartizacijos įstaigų
 
-techninių normatyvų sistemos arba, jeigu tokių nėra, – nacionaliniai
+nustatytos techninių normatyvų sistemos arba, jeigu tokių nėra, – nacionaliniai
 
 standartai, nacionaliniai techniniai liudijimai arba nacionalinės techninės
 
@@ -3390,17 +3424,17 @@ Europos techninį liudijimą, bendrą techninę specifikaciją, tarptautinį
 
 standartą arba Europos standartizacijos įstaigos nustatytą techninių normatyvų
 
-sistemą, jei juose yra nurodyti perkančiosios organizacijos keliami norimo
+sistemą, jei juose yra nurodyti perkančiosios organizacijos keliami
 
-rezultato ir funkciniai reikalavimai ir jeigu dalyvis savo pasiūlyme bet
+norimo rezultato ir funkciniai reikalavimai ir jeigu dalyvis savo
 
-kokiomis perkančiajai organizacijai tinkamomis priemonėmis įrodo, kad jo
+pasiūlyme bet kokiomis perkančiajai organizacijai tinkamomis priemonėmis įrodo,
 
-siūlomos technines specifikacijas atitinkančios prekės, paslaugos ar darbai
+kad jo siūlomos technines specifikacijas atitinkančios prekės, paslaugos ar
 
-atitinka perkančiosios organizacijos keliamus norimo rezultato ir funkcinius
+darbai atitinka perkančiosios organizacijos keliamus norimo rezultato ir
 
-reikalavimus.
+funkcinius reikalavimus.
 
 6. Kai perkančioji organizacija nustato aplinkos
 
@@ -3434,19 +3468,19 @@ kitas tinkamas įrodymo priemones, pavyzdžiui, gamintojo techninius dokumentus
 
 arba paskelbtosios (notifikuotos) įstaigos atlikto bandymo protokolą.
 
-7. Šio straipsnio 4
+7. Šio straipsnio 4 ir
 
-ir 5 dalyse nurodytos tinkamos priemonės gali būti gamintojo techniniai
+5 dalyse nurodytos tinkamos priemonės gali būti gamintojo techniniai dokumentai
 
-dokumentai arba paskelbtosios (notifikuotos) įstaigos atlikto bandymo
+arba paskelbtosios (notifikuotos) įstaigos atlikto bandymo protokolas.
 
-protokolas. Paskelbtąja (notifikuota) įstaiga laikoma Europos standartus
+Paskelbtąja (notifikuota) įstaiga laikoma Europos standartus atitinkanti
 
-atitinkanti bandymų ir kalibravimo laboratorija, sertifikavimo ir inspektavimo
+bandymų ir kalibravimo laboratorija, sertifikavimo ir inspektavimo institucija.
 
-institucija. Perkančioji organizacija turi priimti kitose Europos Sąjungos
+Perkančioji organizacija turi priimti kitose Europos Sąjungos šalyse įsteigtų
 
-šalyse įsteigtų paskelbtųjų (notifikuotų) įstaigų sertifikatus.
+paskelbtųjų (notifikuotų) įstaigų sertifikatus.
 
 8. Apibūdinant pirkimo objektą, techninėje
 
@@ -3624,15 +3658,15 @@ Nr. XI-1255, 2010-12-23, Žin., 2011, Nr.
 
 Paraiškų ir pasiūlymų pateikimas
 
-1. Perkančioji organizacija privalo pirkimo dokumentuose
+1. Perkančioji organizacija privalo pirkimo
 
-nustatyti paraiškų ir pasiūlymų pateikimo terminus, nurodyti datą, valandą ir
+dokumentuose nustatyti paraiškų ir pasiūlymų pateikimo terminus, nurodyti datą,
 
-minutę. Jeigu pasiūlymas gaunamas pavėluotai, neatplėštas vokas su pasiūlymu
+valandą ir minutę. Jeigu pasiūlymas gaunamas pavėluotai, neatplėštas vokas su
 
-grąžinamas jį atsiuntusiam tiekėjui. Vokas su pasiūlymu grąžinamas ir tuo
+pasiūlymu grąžinamas jį atsiuntusiam tiekėjui. Vokas su pasiūlymu grąžinamas ir
 
-atveju, jeigu pasiūlymas pateiktas neužklijuotame voke, kaip nurodyta šio
+tuo atveju, jeigu pasiūlymas pateiktas neužklijuotame voke, kaip nurodyta šio
 
 straipsnio 5 dalyje.
 
@@ -3738,11 +3772,11 @@ asmens parašu, nurodyti tiekėjo ar jo įgalioto asmens vardą, pavardę, parei
 
 (jei yra) ir pasiūlymą sudarančių lapų skaičių, kartu su kitais pasiūlymo
 
-lapais įsiūti ir sunumeruoti pasiūlymo galiojimo užtikrinimą patvirtinančio
+lapais įsiūti ir sunumeruoti pasiūlymo galiojimo užtikrinimą patvirtinančio dokumento
 
-dokumento kopiją netaikomi, jeigu perkančioji organizacija priima
+kopiją netaikomi, jeigu perkančioji organizacija priima elektroninėmis
 
-elektroninėmis priemonėmis pateiktus pasiūlymus.
+priemonėmis pateiktus pasiūlymus.
 
 6. Šio
 
@@ -3788,9 +3822,9 @@ Nr. X-1673,
 
 Nr.
 
-XI-395,
+XI-395, 2009-07-22,
 
-2009-07-22, Žin., 2009, Nr. 93-3986 (2009-08-04)
+Žin., 2009, Nr. 93-3986 (2009-08-04)
 
 29 straipsnis. Pasiūlymų galiojimo terminai, jų
 
@@ -3838,73 +3872,73 @@ organizacija jį gavo prieš pasiūlymų pateikimo terminą.
 
 31 straipsnis. Vokų su pasiūlymais atplėšimas
 
-1. Vokai su pasiūlymais
+1. Vokai su
 
-atplėšiami Komisijos posėdyje. Posėdis vyksta pirkimo dokumentuose nurodytoje
+pasiūlymais atplėšiami Komisijos posėdyje. Posėdis vyksta pirkimo dokumentuose
 
-vietoje, prasideda nurodytą dieną, valandą ir minutę. Pradinis susipažinimas su
+nurodytoje vietoje, prasideda nurodytą dieną, valandą ir minutę. Pradinis susipažinimas
 
-elektroninėmis priemonėmis gautais pasiūlymais pagal šį įstatymą prilyginamas
+su elektroninėmis priemonėmis gautais pasiūlymais pagal šį įstatymą
 
-vokų atplėšimui. Posėdžio diena ir valanda turi sutapti su pasiūlymų pateikimo
+prilyginamas vokų atplėšimui. Posėdžio diena ir valanda turi sutapti su
 
-termino pabaiga. Pakeitus terminą, atitinkamai turi būti pakeistas ir vokų su
+pasiūlymų pateikimo termino pabaiga. Pakeitus terminą, atitinkamai turi būti
 
-pasiūlymais atplėšimo laikas. Nustatytu laiku turi būti atplėšti visi vokai su
+pakeistas ir vokų su pasiūlymais atplėšimo laikas. Nustatytu laiku turi būti
 
-pasiūlymais, gauti nepasibaigus jų pateikimo terminui. Vokų atplėšimo
+atplėšti visi vokai su pasiūlymais, gauti nepasibaigus jų pateikimo terminui.
 
-procedūroje, išskyrus atvejus, kai pirkimas atliekamas derybų ar konkurencinio
+Vokų atplėšimo procedūroje, išskyrus atvejus, kai pirkimas atliekamas derybų ar
 
-dialogo būdu, turi teisę dalyvauti visi pasiūlymus pateikę tiekėjai arba jų
+konkurencinio dialogo būdu, turi teisę dalyvauti visi pasiūlymus pateikę
 
-atstovai. Derybų atveju vokų su galutinėmis tiekėjų siūlomomis kainomis ir
+tiekėjai arba jų atstovai. Derybų atveju vokų su galutinėmis tiekėjų siūlomomis
 
-galutiniais techniniais duomenimis atplėšimo procedūroje turi teisę dalyvauti
+kainomis ir galutiniais techniniais duomenimis atplėšimo procedūroje turi teisę
 
-visi derybose dalyvavę tiekėjai arba jų atstovai.
+dalyvauti visi derybose dalyvavę tiekėjai arba jų atstovai.
 
-2. Jeigu
+2. Jeigu perkančioji
 
-perkančioji organizacija pasiūlymus vertina pagal ekonomiškai naudingiausio
+organizacija pasiūlymus vertina pagal ekonomiškai naudingiausio pasiūlymo
 
-pasiūlymo vertinimo kriterijų, vokai su pasiūlymais (išskyrus derybų atvejį)
+vertinimo kriterijų, vokai su pasiūlymais (išskyrus derybų atvejį) turi būti
 
-turi būti atplėšiami dviejuose Komisijos posėdžiuose. Pirmame posėdyje
+atplėšiami dviejuose Komisijos posėdžiuose. Pirmame posėdyje atplėšiami tik tie
 
-atplėšiami tik tie vokai, kuriuose yra pateikti techniniai pasiūlymo duomenys
+vokai, kuriuose yra pateikti techniniai pasiūlymo duomenys ir kita informacija
 
-ir kita informacija bei dokumentai, antrame posėdyje – vokai, kuriuose
+bei dokumentai, antrame posėdyje – vokai, kuriuose nurodytos kainos. Antras
 
-nurodytos kainos. Antras posėdis gali įvykti tik tada, kai perkančioji
+posėdis gali įvykti tik tada, kai perkančioji organizacija patikrina, ar
 
-organizacija patikrina, ar pateiktų pasiūlymų techniniai duomenys ir tiekėjų
+pateiktų pasiūlymų techniniai duomenys ir tiekėjų kvalifikacija atitinka
 
-kvalifikacija atitinka pirkimo dokumentuose keliamus reikalavimus, ir pagal
+pirkimo dokumentuose keliamus reikalavimus, ir pagal pirkimo dokumentuose
 
-pirkimo dokumentuose nustatytus reikalavimus įvertina pasiūlymų techninius
+nustatytus reikalavimus įvertina pasiūlymų techninius duomenis, o šio įstatymo
 
-duomenis, o šio įstatymo nustatytais atvejais – ir tiekėjų kvalifikaciją. Apie
+nustatytais atvejais – ir tiekėjų kvalifikaciją. Apie šio patikrinimo ir
 
-šio patikrinimo ir įvertinimo rezultatus perkančioji organizacija privalo raštu
+įvertinimo rezultatus perkančioji organizacija privalo raštu pranešti visiems
 
-pranešti visiems tiekėjams, kartu nurodyti antro vokų su pasiūlymais atplėšimo
+tiekėjams, kartu nurodyti antro vokų su pasiūlymais atplėšimo posėdžio laiką ir
 
-posėdžio laiką ir vietą. Jeigu perkančioji organizacija, patikrinusi ir
+vietą. Jeigu perkančioji organizacija, patikrinusi ir įvertinusi pirmame voke
 
-įvertinusi pirmame voke tiekėjo pateiktus duomenis, atmeta jo pasiūlymą,
+tiekėjo pateiktus duomenis, atmeta jo pasiūlymą, neatplėštas vokas su pasiūlyta
 
-neatplėštas vokas su pasiūlyta kaina saugomas kartu su kitais tiekėjo pateiktais
+kaina saugomas kartu su kitais tiekėjo pateiktais dokumentais šio įstatymo 21
 
-dokumentais šio įstatymo 21 straipsnyje nustatyta tvarka.
+straipsnyje nustatyta tvarka.
 
 3. Vokus
 
-atplėšia vienas iš Komisijos narių pasiūlymus pateikusių ir dalyvaujančių
+atplėšia vienas iš Komisijos narių pasiūlymus pateikusių ir dalyvaujančių Komisijos
 
-Komisijos posėdyje tiekėjų ar jų atstovų akivaizdoje. Vokai atplėšiami ir tuo
+posėdyje tiekėjų ar jų atstovų akivaizdoje. Vokai atplėšiami ir tuo atveju, jei
 
-atveju, jei į šį posėdį tiekėjas ar jo atstovas neatvyksta.
+į šį posėdį tiekėjas ar jo atstovas neatvyksta.
 
 4. Atplėšus
 
@@ -3966,13 +4000,13 @@ tiekėjo pavadinimas, pasiūlyme nurodyta kaina ir pranešama, ar yra pateiktas
 
 pasiūlymo galiojimo užtikrinimas (jei jo reikalaujama), ar pateiktas
 
-pasiūlymas yra susiūtas, sunumeruotas ir paskutinio lapo antrojoje pusėje
+pasiūlymas yra susiūtas, sunumeruotas ir paskutinio lapo antrojoje pusėje patvirtintas
 
-patvirtintas tiekėjo ar jo įgalioto asmens parašu, ar nurodytas įgalioto asmens
+tiekėjo ar jo įgalioto asmens parašu, ar nurodytas įgalioto asmens vardas,
 
-vardas, pavardė, pareigos ir pasiūlymą sudarančių lapų skaičius. Tuo atveju,
+pavardė, pareigos ir pasiūlymą sudarančių lapų skaičius. Tuo atveju, kai
 
-kai pasiūlyme nurodyta kaina, išreikšta skaičiais, neatitinka kainos, nurodytos
+pasiūlyme nurodyta kaina, išreikšta skaičiais, neatitinka kainos, nurodytos
 
 žodžiais, teisinga laikoma kaina, nurodyta žodžiais.
 
@@ -4168,11 +4202,11 @@ pasiūlymus, jei tiekėjas, kuris yra fizinis asmuo, arba tiekėjo, kuris yra
 
 juridinis asmuo, vadovas ar ūkinės bendrijos tikrasis narys (nariai), turintis
 
-(turintys) teisę juridinio asmens vardu sudaryti sandorį, ar buhalteris (buhalteriai)
+(turintys) teisę juridinio asmens vardu sudaryti sandorį, ar buhalteris
 
-ar kitas (kiti) asmuo (asmenys), turintis (turintys) teisę surašyti ir
+(buhalteriai) ar kitas (kiti) asmuo (asmenys), turintis (turintys) teisę
 
-pasirašyti tiekėjo apskaitos dokumentus, turi neišnykusį ar nepanaikintą
+surašyti ir pasirašyti tiekėjo apskaitos dokumentus, turi neišnykusį ar nepanaikintą
 
 teistumą arba dėl tiekėjo (juridinio asmens) per pastaruosius 5 metus buvo
 
@@ -4238,6 +4272,8 @@ valstybės tarnybai ir viešiesiems interesams, išskyrus šio straipsnio 1 daly
 
 išvardytas veikas;
 
+4 punkto redakcija iki 2011-08-21
+
 4) yra
 
 padaręs rimtą profesinį pažeidimą, kurį perkančioji organizacija gali įrodyti
@@ -4260,6 +4296,38 @@ kuris yra juridinis asmuo, pažeidė Lietuvos Respublikos konkurencijos įstatym
 
 5 straipsnį, toks pažeidimas pagal šį punktą laikomas profesiniu, jeigu nuo
 
+sprendimo paskirti Lietuvos Respublikos konkurencijos įstatyme nustatytą ekonominę
+
+sankciją įsiteisėjimo dienos praėjo mažiau kaip 3 metai;
+
+4 punkto redakcija nuo 2011-08-21
+
+4) yra
+
+padaręs rimtą profesinį pažeidimą, kurį perkančioji organizacija gali įrodyti
+
+bet kokiomis teisėtomis priemonėmis. Šiame punkte vartojama sąvoka „profesinis
+
+pažeidimas“ suprantama kaip profesinės etikos pažeidimas, kai nuo tiekėjo
+
+pripažinimo nesilaikančiu profesinės etikos normų momento praėjo mažiau kaip
+
+vieni metai, arba kaip konkurencijos, darbo, darbuotojų saugos ir sveikatos,
+
+aplinkosaugos teisės aktų pažeidimas, už kurį tiekėjui, kuris yra fizinis
+
+asmuo, yra paskirta administracinė nuobauda, o tiekėjui, kuris yra juridinis
+
+asmuo, – ekonominė sankcija, nustatyta Lietuvos Respublikos įstatymuose, kai
+
+nuo sprendimo, kuriuo buvo paskirta ši sankcija, įsiteisėjimo dienos praėjo
+
+mažiau kaip vieni metai. Jeigu pirkime dalyvaujantis tiekėjas, kuris yra
+
+juridinis asmuo, pažeidė Lietuvos Respublikos konkurencijos įstatymo 5
+
+straipsnį, toks pažeidimas pagal šį punktą laikomas profesiniu, jeigu nuo
+
 sprendimo paskirti Lietuvos Respublikos konkurencijos įstatyme nustatytą
 
 ekonominę sankciją įsiteisėjimo dienos praėjo mažiau kaip 3 metai;
@@ -4281,6 +4349,18 @@ perkančioji organizacija, reikalavimus;
 melagingą informaciją, kurią perkančioji organizacija gali įrodyti bet kokiomis
 
 teisėtomis priemonėmis.
+
+Papildyta 8 punktu nuo 2011-08-01
+
+8) yra baustas už leidimą dirbti nelegalų darbą, jeigu
+
+nuo administracinės nuobaudos paskyrimo praėjo mažiau kaip vieni metai, arba
+
+tiekėjas, kuris yra fizinis asmuo, turi neišnykusį ar nepanaikintą teistumą,
+
+arba dėl tiekėjo, kuris yra juridinis asmuo, per pastaruosius 5 metus yra
+
+įsiteisėjęs apkaltinamasis teismo nuosprendis.
 
 3. Perkančioji organizacija pirkimo dokumentuose
 
@@ -4308,33 +4388,65 @@ tiekėju iš kitos valstybės narės nei perkančioji organizacija, ji gali krei
 
 į atitinkamas tos valstybės narės kompetentingas institucijas.
 
+5 dalies redakcija iki 2011-08-01
+
 5. Jeigu
 
 tiekėjas negali pateikti šio straipsnio 3 dalyje nurodytų dokumentų, nes
 
 atitinkamoje šalyje tokie dokumentai neišduodami arba toje šalyje išduodami
 
-dokumentai neapima visų šio straipsnio 1 dalyje ir 2 dalies 1, 2 ar 3 punkte
+dokumentai neapima visų šio straipsnio 1 dalyje ir 2 dalies 1, 2 ar 3
 
-keliamų klausimų, jie gali būti pakeisti priesaikos deklaracija arba šalyse,
+punkte keliamų klausimų, jie gali būti pakeisti priesaikos deklaracija arba
 
-kuriose ji netaikoma, – oficialia tiekėjo deklaracija, kurią jis yra pateikęs
+šalyse, kuriose ji netaikoma, – oficialia tiekėjo deklaracija, kurią jis yra
 
-kompetentingai teisinei arba administracinei institucijai, notarui arba
+pateikęs kompetentingai teisinei arba administracinei institucijai, notarui
 
-kompetentingai profesinei ar prekybos organizacijai savo kilmės šalyje arba
+arba kompetentingai profesinei ar prekybos organizacijai savo kilmės šalyje
 
-šalyje, iš kurios jis atvyko, o šio straipsnio 2 dalies 1 punkte
+arba šalyje, iš kurios jis atvyko, o šio straipsnio 2 dalies
 
-nurodytais atvejais, kai tiekėjas su kreditoriais nėra sudaręs taikos
+1 punkte nurodytais atvejais, kai tiekėjas su kreditoriais nėra sudaręs
 
-sutarties, sustabdęs ar apribojęs veiklos, šio straipsnio 2 dalies 2 punkte
+taikos sutarties, sustabdęs ar apribojęs veiklos, šio straipsnio 2 dalies 2
 
-nurodytu atveju, kai nesiekiama priverstinio likvidavimo procedūros ar
+punkte nurodytu atveju, kai nesiekiama priverstinio likvidavimo procedūros ar
 
 susitarimo su kreditoriais, ir šio straipsnio 2 dalies 4 punkte nurodytu atveju
 
 – ir laisvos formos tiekėjo deklaracija.
+
+5 dalies redakcija nuo 2011-08-01
+
+5. Jeigu
+
+tiekėjas negali pateikti šio straipsnio 3 dalyje nurodytų dokumentų, nes
+
+atitinkamoje šalyje tokie dokumentai neišduodami arba toje šalyje išduodami
+
+dokumentai neapima visų šio straipsnio 1 dalyje ir 2 dalies 1, 2 ar 3
+
+punkte keliamų klausimų, jie gali būti pakeisti priesaikos deklaracija arba
+
+šalyse, kuriose ji netaikoma, – oficialia tiekėjo deklaracija, kurią jis yra
+
+pateikęs kompetentingai teisinei arba administracinei institucijai, notarui
+
+arba kompetentingai profesinei ar prekybos organizacijai savo kilmės šalyje
+
+arba šalyje, iš kurios jis atvyko, o šio straipsnio 2 dalies
+
+1 punkte nurodytais atvejais, kai tiekėjas su kreditoriais nėra sudaręs
+
+taikos sutarties, sustabdęs ar apribojęs veiklos, šio straipsnio 2 dalies 2
+
+punkte nurodytu atveju, kai nesiekiama priverstinio likvidavimo procedūros ar
+
+susitarimo su kreditoriais, ir šio straipsnio 2 dalies 4 ir 8 punktuose
+
+nurodytais atvejais – ir laisvos formos tiekėjo deklaracija.
 
 6. Viešųjų pirkimų tarnyba privalo sudaryti Lietuvos
 
@@ -4363,6 +4475,10 @@ XI-395,
 Nr. XI-1255,
 
 2010-12-23, Žin., 2011, Nr. 2-36 (2011-01-06)
+
+Nr. XI-1494, 2011-06-21,
+
+Žin., 2011, Nr. 85-4137 (2011-07-13)
 
 33 straipsnis. Sąlygos, draudžiančios ir ribojančios tiekėjų dalyvavimą pirkime
 
@@ -4528,19 +4644,19 @@ reikalavimus ir prašyti pateikti šiuos (vieną ar kelis) ekonominę ir finansi
 
 kandidato ar dalyvio būklę apibūdinančius dokumentus:
 
-1) atitinkamas
+1)
 
-banko pažymas arba, jei reikia, atitinkamus įrodymus, kad kandidatas ar dalyvis
+atitinkamas banko pažymas arba, jei reikia, atitinkamus įrodymus, kad kandidatas
 
-yra apsidraudęs nuo profesinės rizikos;
+ar dalyvis yra apsidraudęs nuo profesinės rizikos;
 
 2) paskutinių finansinių metų įmonės balansą ar jo
 
 išrašą, jei šalyje, kurioje registruotas ūkio subjektas, įstatymai reikalauja skelbti balansą;
 
-3) daugiausia paskutinių 3 finansinių metų, o jeigu
+3) daugiausia paskutinių 3 finansinių metų, o jeigu įmonė
 
-įmonė įregistruota ar veiklą atitinkamoje srityje pradėjo vėliau, – nuo įmonės
+įregistruota ar veiklą atitinkamoje srityje pradėjo vėliau, – nuo įmonės
 
 įregistravimo ar veiklos su pirkimu susijusioje srityje pradžios kandidato ar
 
@@ -4632,19 +4748,19 @@ ir priemonių, naudojamų kokybei
 
 užtikrinti, ir galimybių atlikti studijas ir tyrimus aprašymą;
 
-5) jeigu reikalingos prekės ar paslaugos yra sudėtingos
+5) jeigu reikalingos prekės ar paslaugos yra
 
-arba jeigu jos išimtiniais atvejais skirtos ypatingiems tikslams, – patikrinti
+sudėtingos arba jeigu jos išimtiniais atvejais skirtos ypatingiems tikslams, –
 
-kandidato ar dalyvio prekių gamybos pajėgumų ar paslaugų teikimo technines
+patikrinti kandidato ar dalyvio prekių gamybos pajėgumų ar paslaugų teikimo
 
-galimybes ir, jei reikia, galimybes atlikti mokslo darbus ir mokslinius tyrimus
+technines galimybes ir, jei reikia, galimybes atlikti mokslo darbus ir
 
-bei jo turimas priemones kokybei įvertinti, kuriomis jis naudosis. Tikrina
+mokslinius tyrimus bei jo turimas priemones kokybei įvertinti, kuriomis jis
 
-perkančioji organizacija arba jos vardu šalies, kurioje registruotas kandidatas
+naudosis. Tikrina perkančioji organizacija arba jos vardu šalies, kurioje
 
-ar dalyvis, kompetentinga oficiali institucija;
+registruotas kandidatas ar dalyvis, kompetentinga oficiali institucija;
 
 6) paslaugų teikėjo ar rangovo personalo ir (ar) jų vadovaujančio personalo, ypač asmenų,
 
@@ -4676,11 +4792,11 @@ pavyzdžius, aprašymus, nuotraukas, kurių autentiškumą perkančiosios
 
 organizacijos pageidavimu kandidatas ar dalyvis turi patvirtinti;
 
-12) oficialių kokybės kontrolės institucijų ar
+12) oficialių kokybės kontrolės institucijų ar pripažintą
 
-pripažintą kompetenciją turinčių agentūrų išduotas pažymas, kurios liudija, kad
+kompetenciją turinčių agentūrų išduotas pažymas, kurios liudija, kad prekių
 
-prekių kokybė tiksliai atitinka nurodytas specifikacijas ir standartus. Perkančioji
+kokybė tiksliai atitinka nurodytas specifikacijas ir standartus. Perkančioji
 
 organizacija turi pripažinti valstybėse narėse akredituotų kompetentingų
 
@@ -4690,9 +4806,9 @@ organizacija turi pripažinti valstybėse narėse akredituotų kompetentingų
 
 įrengti, tiekėjo sugebėjimai suteikti tokias paslaugas arba atlikti įrengimo
 
-bei kitus darbus gali būti įvertinti atsižvelgiant pirmiausia į jo
+bei kitus darbus gali būti įvertinti atsižvelgiant pirmiausia į jo kvalifikaciją,
 
-kvalifikaciją, našumą, patirtį ir patikimumą.
+našumą, patirtį ir patikimumą.
 
 37 straipsnis. Kokybės vadybos ir aplinkos apsaugos
 
@@ -4826,9 +4942,9 @@ organizacija pripažįsta kompetentingos institucijos išduotą pažymą, taip p
 
 kitų valstybių narių kompetentingų institucijų išduotas lygiavertes pažymas ir
 
-be pagrindo negali jomis abejoti. Tiekėjas taip pat gali pateikti ir kitus dokumentus,
+be pagrindo negali jomis abejoti. Tiekėjas taip pat gali pateikti ir kitus
 
-įrodančius, kad jo kvalifikacija atitinka perkančiosios organizacijos
+dokumentus, įrodančius, kad jo kvalifikacija atitinka perkančiosios organizacijos
 
 nustatytus reikalavimus.
 
@@ -4976,19 +5092,21 @@ datos, pristatymo laiko arba užbaigimo laiko, arba
 
 5. Šio
 
-straipsnio 4 dalies 1 punkte nurodytu atveju
+straipsnio 4 dalies 1 punkte nurodytu atveju perkančioji organizacija nurodo
 
-perkančioji organizacija nurodo pirkimo dokumentuose kiekvienam ekonomiškai
+pirkimo dokumentuose kiekvienam ekonomiškai
 
 naudingiausiam pasiūlymui nustatyti pasirinkto kriterijaus lyginamąjį svorį.
 
-Kriterijų lyginamasis svoris gali būti išreikštas konkrečiu dydžiu arba nustatant intervalą, į kurį patenka kiekviena
+Kriterijų lyginamasis svoris gali būti išreikštas konkrečiu dydžiu arba
 
-kriterijui priskiriama reikšmė. Tais atvejais, kai dėl pirkimo objekto ypatybių
+nustatant intervalą, į kurį patenka kiekviena kriterijui priskiriama reikšmė. Tais atvejais, kai dėl pirkimo objekto ypatybių
 
 neįmanoma nustatyti kriterijų lyginamojo svorio, perkančioji organizacija turi
 
-nurodyti pirkimo dokumentuose taikomų kriterijų svarbos eiliškumą mažėjančia tvarka.
+nurodyti pirkimo dokumentuose taikomų kriterijų svarbos eiliškumą mažėjančia
+
+tvarka.
 
 6. Jeigu perkančioji organizacija pasiūlymus vertina
 
@@ -5002,29 +5120,29 @@ atsižvelgdama į pasiūlymo kainą, atlikti bendrą pasiūlymo įvertinimą.
 
 7. Perkančioji organizacija, norėdama priimti sprendimą sudaryti
 
-pirkimo sutartį, turi pagal pirkimo dokumentuose nustatytus vertinimo kriterijus
+pirkimo sutartį, turi pagal pirkimo dokumentuose nustatytus vertinimo
 
-ir tvarką nedelsdama įvertinti pateiktus dalyvių pasiūlymus, šio įstatymo 32
+kriterijus ir tvarką nedelsdama įvertinti pateiktus dalyvių pasiūlymus, šio
 
-straipsnio 8 dalyje nustatytu atveju patikrinti tiekėjo, kurio pasiūlymas pagal
+įstatymo 32 straipsnio 8 dalyje nustatytu atveju patikrinti tiekėjo, kurio
 
-vertinimo rezultatus gali būti pripažintas laimėjusiu, atitiktį minimaliems
+pasiūlymas pagal vertinimo rezultatus gali būti pripažintas laimėjusiu,
 
-kvalifikaciniams reikalavimams, nustatyti pasiūlymų eilę (išskyrus atvejus, kai
+atitiktį minimaliems kvalifikaciniams reikalavimams, nustatyti pasiūlymų eilę
 
-pasiūlymą pateikti kviečiamas tik vienas tiekėjas arba pasiūlymą pateikia tik
+(išskyrus atvejus, kai pasiūlymą pateikti kviečiamas tik vienas tiekėjas arba
 
-vienas tiekėjas) ir laimėjusį pasiūlymą. Pasiūlymų eilė nustatoma ekonominio
+pasiūlymą pateikia tik vienas tiekėjas) ir laimėjusį pasiūlymą. Pasiūlymų eilė
 
-naudingumo mažėjimo arba kainų didėjimo tvarka. Tais atvejais, kai taikomas
+nustatoma ekonominio naudingumo mažėjimo arba kainų didėjimo tvarka. Tais
 
-ekonomiškai naudingiausio pasiūlymo vertinimo kriterijus ir kelių tiekėjų
+atvejais, kai taikomas ekonomiškai naudingiausio pasiūlymo vertinimo kriterijus
 
-pasiūlymų ekonominis naudingumas yra vienodas arba kai pasiūlymų vertinimo
+ir kelių tiekėjų pasiūlymų ekonominis naudingumas yra vienodas arba kai
 
-kriterijus yra pasiūlyta mažiausia kaina ir keli pasiūlymai pateikiami
+pasiūlymų vertinimo kriterijus yra pasiūlyta mažiausia kaina ir keli pasiūlymai
 
-vienodomis kainomis, sudarant pasiūlymų eilę pirmesnis į šią eilę įrašomas
+pateikiami vienodomis kainomis, sudarant pasiūlymų eilę pirmesnis į šią eilę įrašomas
 
 tiekėjas, kurio vokas su pasiūlymais įregistruotas ar pasiūlymas elektroninėmis
 
@@ -5070,15 +5188,15 @@ Nr. XI-678, 2010-02-11, Žin., 2010, Nr.
 
 pateiktame pasiūlyme nurodyta prekių, paslaugų ar darbų kaina yra neįprastai
 
-maža, perkančioji organizacija privalo pareikalauti, kad dalyvis pagrįstų
+maža, perkančioji organizacija privalo pareikalauti, kad dalyvis pagrįstų siūlomą
 
-siūlomą kainą, o jeigu dalyvis nepateikia tinkamų kainos pagrįstumo įrodymų,
+kainą, o jeigu dalyvis nepateikia tinkamų kainos pagrįstumo įrodymų, pasiūlymą
 
-pasiūlymą privalo atmesti. Lietuvos Respublikos Vyriausybė ar jos įgaliota
+privalo atmesti. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija
 
-institucija turi teisę apibrėžti pasiūlyme nurodytos prekių, paslaugų ar darbų
+turi teisę apibrėžti pasiūlyme nurodytos prekių, paslaugų ar darbų neįprastai
 
-neįprastai mažos kainos sąvoką.
+mažos kainos sąvoką.
 
 2. Perkančioji organizacija, siekdama, kad neįprastai
 
@@ -5092,17 +5210,19 @@ pagrindimą, atsižvelgia į:
 
 1) gamybos proceso, teikiamų paslaugų ar statybos metodo ekonomiškumą;
 
-2) pasirinktus techninius sprendimus ir (arba) išskirtinai
+2) pasirinktus techninius sprendimus ir (arba)
 
-palankias sąlygas tiekti prekes, teikti paslaugas ar atlikti darbus;
+išskirtinai palankias sąlygas tiekti prekes, teikti paslaugas ar atlikti
+
+darbus;
 
 3) dalyvio siūlomų prekių, paslaugų ar darbų originalumą;
 
 4) norminių dokumentų dėl darbų saugos ir darbo
 
-sąlygų, galiojančių prekių tiekimo, paslaugų pateikimo ar darbų atlikimo vietoje,
+sąlygų, galiojančių prekių tiekimo, paslaugų pateikimo ar darbų atlikimo
 
-laikymąsi;
+vietoje, laikymąsi;
 
 5) dalyvio galimybę gauti valstybės pagalbą.
 
@@ -5196,9 +5316,9 @@ Perkančioji organizacija šio straipsnio 2 dalyje nurodytais atvejais negali
 
 teikti informacijos, jei jos atskleidimas prieštarauja teisės aktams, kenkia
 
-visuomenės interesams, teisėtiems tiekėjų komerciniams interesams arba trukdo užtikrinti
+visuomenės interesams, teisėtiems tiekėjų komerciniams interesams arba trukdo
 
-sąžiningą konkurenciją.
+užtikrinti sąžiningą konkurenciją.
 
 4. Jeigu perkančioji organizacija pirkimo dokumentuose
 
@@ -5546,11 +5666,13 @@ kiek mažiausia ir, jei reikia, kiek daugiausia kandidatų bus pakviesta pateikt
 
 pasiūlymus ir kokie yra kandidatų kvalifikacinės atrankos kriterijai ir tvarka.
 
-2. Perkančioji
+2.
 
-organizacija, nustatydama atrenkamų kandidatų skaičių, kvalifikacinės atrankos
+Perkančioji organizacija, nustatydama atrenkamų kandidatų skaičių,
 
-kriterijus ar tvarką, privalo laikytis visų šių reikalavimų:
+kvalifikacinės atrankos kriterijus ar tvarką, privalo laikytis visų šių
+
+reikalavimų:
 
 1) turi būti
 
@@ -5810,9 +5932,9 @@ tiekėjo paaiškinti pasiūlymo aspektus arba patvirtinti pasiūlyme pateiktus
 
 įsipareigojimus su sąlyga, kad dėl to nebus pakeisti esminiai pasiūlymo ar
 
-kvietimo pateikti pasiūlymą reikalavimai ir tai nesukels pavojaus iškreipti
+kvietimo pateikti pasiūlymą reikalavimai ir tai nesukels pavojaus iškreipti konkurenciją
 
-konkurenciją ar neturės įtakos diskriminacijai atsirasti.
+ar neturės įtakos diskriminacijai atsirasti.
 
 7.
 
@@ -5922,19 +6044,19 @@ skaičius. Jei minimalius kvalifikacijos reikalavimus atitinkančių kandidatų
 
 skaičius yra mažesnis už nurodytą skelbime apie pirkimą, perkančioji
 
-organizacija gali tęsti procedūrą ir kviesti dialogo visus paraiškas pateikusius
+organizacija gali tęsti procedūrą ir kviesti dialogo visus paraiškas
 
-ir minimalius kvalifikacinius reikalavimus atitinkančius kandidatus. Šios
+pateikusius ir minimalius kvalifikacinius reikalavimus atitinkančius
 
-procedūros metu perkančioji organizacija negali kviesti dalyvauti pirkime kitų,
+kandidatus. Šios procedūros metu perkančioji organizacija negali kviesti
 
-paraiškų nepateikusių tiekėjų arba kandidatų, kurie neatitinka minimalių
+dalyvauti pirkime kitų, paraiškų nepateikusių tiekėjų arba kandidatų, kurie
 
-kvalifikacijos reikalavimų.
+neatitinka minimalių kvalifikacijos reikalavimų.
 
-54 straipsnis.
+54 straipsnis. Kvietimas
 
-Kvietimas dalyvauti konkurenciniame dialoge
+dalyvauti konkurenciniame dialoge
 
 1. Perkančioji organizacija šio įstatymo 53
 
@@ -6100,11 +6222,11 @@ prekių masine gamyba sustiprinti komercinio pajėgumo arba padengti mokslinio
 
 tyrimo ir plėtros išlaidų;
 
-2) jeigu perkančioji organizacija pagal ankstesnę
+2) jeigu perkančioji organizacija pagal ankstesnę pirkimo
 
-pirkimo sutartį iš kokio nors tiekėjo pirko prekių ir nustatė, kad iš jo verta
+sutartį iš kokio nors tiekėjo pirko prekių ir nustatė, kad iš jo verta pirkti
 
-pirkti papildomai, siekiant iš dalies pakeisti turimas ir įprastines prekes ar
+papildomai, siekiant iš dalies pakeisti turimas ir įprastines prekes ar
 
 įrenginius arba padidinti turimų prekių kiekius ar įrenginius, kai, pakeitus
 
@@ -6146,19 +6268,19 @@ paaiškėja, kad yra reikalingi papildomi darbai arba paslaugos, kurie nebuvo
 
 įrašyti į pradinį projektą ar sudarytą pirkimo sutartį ir kurių techniškai ar
 
-ekonomiškai neįmanoma atskirti nuo pradinės pirkimo sutarties, nesukeliant
+ekonomiškai neįmanoma atskirti nuo pradinės pirkimo sutarties, nesukeliant didelių
 
-didelių nepatogumų perkančiajai organizacijai, arba kai tokie darbai ar
+nepatogumų perkančiajai organizacijai, arba kai tokie darbai ar paslaugos, nors
 
-paslaugos, nors ir gali būti atskirti nuo pradinės pirkimo sutarties, yra
+ir gali būti atskirti nuo pradinės pirkimo sutarties, yra būtinai reikalingi
 
-būtinai reikalingi jai užbaigti. Tokia papildomų darbų ar paslaugų pirkimo
+jai užbaigti. Tokia papildomų darbų ar paslaugų pirkimo sutartis gali būti
 
-sutartis gali būti sudaroma tik su tuo tiekėju, su kuriuo buvo sudaryta pradinė
+sudaroma tik su tuo tiekėju, su kuriuo buvo sudaryta pradinė pirkimo sutartis,
 
-pirkimo sutartis, o visų kitų papildomai sudarytų pirkimo sutarčių kaina neturi
+o visų kitų papildomai sudarytų pirkimo sutarčių kaina neturi viršyti 50
 
-viršyti 50 procentų pagrindinės pirkimo sutarties vertės;
+procentų pagrindinės pirkimo sutarties vertės;
 
 2) perkant iš to paties tiekėjo naujas paslaugas ar
 
@@ -6176,9 +6298,7 @@ sudaromų pirkimo sutarčių trukmė negali būti ilgesnė kaip 3 metai skaičiu
 
 nuo pradinės pirkimo sutarties sudarymo momento.
 
-Straipsnio
-
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. XI-1255, 2010-12-23, Žin., 2011, Nr.
 
@@ -6250,9 +6370,9 @@ rezultato. Neskelbiamų derybų atveju, kai į derybas kviečiamas tik vienas
 
 kandidatas, perkančioji organizacija šiam kandidatui turi teisę pateikti ne
 
-visą šio įstatymo 24 straipsnyje nurodytą informaciją, jeigu mano, kad kita
+visą šio įstatymo 24 straipsnyje nurodytą informaciją, jeigu mano, kad kita informacija
 
-informacija yra nereikalinga.
+yra nereikalinga.
 
 3. Vertinant pasiūlymus, kuriuose nurodytos
 
@@ -6298,9 +6418,9 @@ susitarimus, pasiektus su kitais tiekėjais;
 
 reikalavimai, suteikiamos vienodos galimybės ir pateikiama vienoda informacija;
 
-teikdama informaciją perkančioji organizacija neturi diskriminuoti vienų tiekėjų
+teikdama informaciją perkančioji organizacija neturi diskriminuoti vienų
 
-kitų naudai;
+tiekėjų kitų naudai;
 
 4) derybos turi būti protokoluojamos. Derybų protokolą
 
@@ -6350,9 +6470,9 @@ terminai
 
 1.
 
-Perkančioji organizacija paraiškų ir pasiūlymų pateikimo terminus nustato
+Perkančioji organizacija paraiškų ir pasiūlymų pateikimo terminus nustato vadovaudamasi
 
-vadovaudamasi šio įstatymo 28 straipsnio nuostatomis.
+šio įstatymo 28 straipsnio nuostatomis.
 
 2. Paraiškų
 
@@ -6656,11 +6776,11 @@ pirkimo sistema;
 
 2) be kitų dalykų, pirkimo dokumentuose nurodo
 
-numatomą pirkimo objektą pagal šią sistemą ir būtiną informaciją apie pirkimo
+numatomą pirkimo objektą pagal šią sistemą ir būtiną informaciją apie pirkimo sistemą,
 
-sistemą, naudojamą elektroninę įrangą, techninio prisijungimo priemones
+naudojamą elektroninę įrangą, techninio prisijungimo priemones ir jų
 
-ir jų specifikacijas;
+specifikacijas;
 
 3) skelbime apie pirkimą nurodo interneto adresą,
 
@@ -6952,9 +7072,9 @@ Projekto konkurso sąlygos
 
 Projekto konkursas
 
-gali būti vykdomas, kai yra perkamos teritorijų planavimo, architektūros,
+gali būti vykdomas, kai yra perkamos teritorijų planavimo,
 
-inžinerijos, duomenų apdorojimo ar panašaus pobūdžio paslaugos.
+architektūros, inžinerijos, duomenų apdorojimo ar panašaus pobūdžio paslaugos.
 
 68 straipsnis.
 
@@ -7172,17 +7292,17 @@ paskirstymu susijusi nuotekų
 
 4) tinklų,
 
-skirtų teikti visuomenei geležinkelio, automatinių transporto sistemų,
+skirtų teikti visuomenei geležinkelio, automatinių transporto sistemų, tramvajų,
 
-tramvajų, troleibusų, autobusų ar funikulierių transporto paslaugas, teikimas
+troleibusų, autobusų ar funikulierių transporto paslaugas, teikimas naudoti ir
 
-naudoti ir eksploatavimas. Transporto paslaugų srityje tinklu laikoma, kai
+eksploatavimas. Transporto paslaugų srityje tinklu laikoma, kai paslauga yra
 
-paslauga yra teikiama pagal kompetentingos institucijos nustatytas veiklos
+teikiama pagal kompetentingos institucijos nustatytas veiklos sąlygas, tokias
 
-sąlygas, tokias kaip paslaugos teikimo maršrutai, dažnumas, privalomi pervežimų
+kaip paslaugos teikimo maršrutai, dažnumas, privalomi pervežimų kiekiai.
 
-kiekiai. Autobusų transporto paslaugų teikimas nėra laikomas šio įstatymo
+Autobusų transporto paslaugų teikimas nėra laikomas šio įstatymo
 
 reglamentuojama veikla, jeigu bet kuris ūkio subjektas gali laisvai teikti
 
@@ -7198,13 +7318,13 @@ geografinės teritorijos eksploatavimas naftos, dujų, anglių arba kitokio
 
 kietojo kuro žvalgymo ir gavybos tikslais;
 
-6) geografinės
+6)
 
-teritorijos eksploatavimas siekiant teikti oro, jūrų ar vidaus vandenų uostų
+geografinės teritorijos eksploatavimas siekiant teikti oro, jūrų ar vidaus
 
-arba kitų terminalų paslaugas vežėjams, užsiimantiems vežimu oro, jūrų ar
+vandenų uostų arba kitų terminalų paslaugas vežėjams, užsiimantiems vežimu oro,
 
-vidaus vandenų keliais;
+jūrų ar vidaus vandenų keliais;
 
 7) pašto
 
@@ -7256,13 +7376,13 @@ stacionariuosius tinklus perduodama:
 
 1) dujos ar
 
-šiluma, jeigu jų gamybą lemia kita veikla, negu nurodyta šio straipsnio 2
+šiluma, jeigu jų gamybą lemia kita veikla, negu nurodyta šio straipsnio 2 dalyje,
 
-dalyje, ir į viešąjį tinklą tiekiama tik siekiant ekonomiškumo, o tiekimo
+ir į viešąjį tinklą tiekiama tik siekiant ekonomiškumo, o tiekimo kiekiai
 
-kiekiai neviršija 20 procentų įmonės vidutinių pardavimo pajamų per paskutinius
+neviršija 20 procentų įmonės vidutinių pardavimo pajamų per paskutinius 3
 
-3 metus, įskaitant ir einamuosius metus;
+metus, įskaitant ir einamuosius metus;
 
 2) elektros
 
@@ -7296,9 +7416,9 @@ Nr. 81-3179 (2008-07-17)
 
 71
 
-straipsnis. Nustatymo, ar konkrečią veiklą tiesiogiai veikia
+straipsnis. Nustatymo, ar konkrečią veiklą tiesiogiai veikia konkurencija,
 
-konkurencija, procedūra
+procedūra
 
 1. Šio įstatymo reikalavimai netaikomi pirkimams,
 
@@ -7336,19 +7456,17 @@ dėl šio straipsnio 1 dalies taikymo Europos Komisijai gali pateikti pati
 
 perkančioji organizacija ar įgaliotos valstybės institucijos pagal savo
 
-kompetenciją. Prašymas pateikiamas laikantis tvarkos, kuri yra nustatyta 2005 m. sausio 7 d. Europos Komisijos sprendime Nr. 2005/15/EB dėl Europos Parlamento ir Tarybos
+kompetenciją. Prašymas pateikiamas laikantis tvarkos, kuri yra nustatyta 2005 m. sausio 7 d. Europos Komisijos sprendime Nr. 2005/15/EB dėl Europos Parlamento ir Tarybos direktyvos
 
-direktyvos 2004/17/EB, numatančios pirkimų tvarkos derinimą vandentvarkos,
+2004/17/EB, numatančios pirkimų tvarkos derinimą vandentvarkos, energetikos,
 
-energetikos, transporto ir pašto paslaugų sektoriuose, 30 straipsnyje numatytos
+transporto ir pašto paslaugų sektoriuose, 30 straipsnyje numatytos procedūros
 
-procedūros taikymo būdų. Europos Komisija taip pat gali pradėti sprendimo,
+taikymo būdų. Europos Komisija taip pat gali pradėti sprendimo, nustatančio šio
 
-nustatančio šio straipsnio 1 dalies taikymą konkrečiai veiklai, priėmimo
+straipsnio 1 dalies taikymą konkrečiai veiklai, priėmimo procedūrą savo
 
-procedūrą savo iniciatyva. Tokiu atveju Europos Komisija nedelsdama informuoja
-
-valstybę narę.
+iniciatyva. Tokiu atveju Europos Komisija nedelsdama informuoja valstybę narę.
 
 Straipsnio
 
@@ -7460,9 +7578,7 @@ Perkančioji organizacija pirkimą atviro, riboto konkurso ar skelbiamų derybų
 
 būdu gali atlikti visais atvejais, jei skelbimas apie pirkimą buvo paskelbtas
 
-pagal šio įstatymo 74 straipsnyje nustatytus
-
-reikalavimus.
+pagal šio įstatymo 74 straipsnyje nustatytus reikalavimus.
 
 3. Pirkimas
 
@@ -7512,9 +7628,9 @@ ribotame konkurse ar skelbiamose derybose nebuvo pateikta nė vienos paraiškos
 
 arba nė vieno pasiūlymo arba nebuvo nė vieno tinkamo (atitinkančio keliamus
 
-reikalavimus, kurie būtini patenkinti perkančiosios organizacijos poreikiams) pasiūlymo, o pirkimo sąlygos
+reikalavimus, kurie būtini patenkinti perkančiosios organizacijos poreikiams) pasiūlymo, o pirkimo
 
-iš esmės nekeičiamos;
+sąlygos iš esmės nekeičiamos;
 
 2) jeigu perkamos prekės, paslaugos ar darbai reikalingi tik mokslo,
 
@@ -7540,9 +7656,7 @@ kiek tai neišvengiamai būtina pirkimą atlikti ypač skubiai dėl įvykio, kur
 
 perkančioji organizacija negalėjo numatyti, kai tokio pirkimo neįmanoma atlikti
 
-atviro, riboto konkurso ar skelbiamų derybų būdais šiame įstatyme nustatytais
-
-terminais;
+atviro, riboto konkurso ar skelbiamų derybų būdais šiame įstatyme nustatytais terminais;
 
 5) pirkimai
 
@@ -7582,11 +7696,11 @@ daug mažesnę negu rinkos kainą;
 
 4) jeigu ypač palankiomis sąlygomis perkama iš tiekėjo, kuris yra
 
-likviduojamas, restruktūrizuojamas, bankrutuojantis, bankrutavęs ar su
+likviduojamas, restruktūrizuojamas, bankrutuojantis, bankrutavęs ar su kreditoriais
 
-kreditoriais sudaręs taikos sutartį, arba taikomos panašios procedūros pagal
+sudaręs taikos sutartį, arba taikomos panašios procedūros pagal šalies, kurioje
 
-šalies, kurioje jis registruotas, teisės aktus.
+jis registruotas, teisės aktus.
 
 3.
 
@@ -7692,17 +7806,17 @@ Be to, perkančioji organizacija turi laikytis šio įstatymo 75 straipsnyje
 
 nustatytų paraiškų ir pasiūlymų pateikimo terminų.
 
-5. Perkančioji
+5.
 
-organizacija, nusprendusi taikyti kvalifikacinę sistemą, kaip nustatyta šio
+Perkančioji organizacija, nusprendusi taikyti kvalifikacinę sistemą, kaip
 
-įstatymo 77 straipsnyje, privalo apie tai paskelbti skelbime, nurodydama
+nustatyta šio įstatymo 77 straipsnyje, privalo apie tai paskelbti skelbime,
 
-kvalifikacinės sistemos tikslą ir reikalavimus. Kai kvalifikacinė sistema
+nurodydama kvalifikacinės sistemos tikslą ir reikalavimus. Kai kvalifikacinė
 
-numatoma taikyti ilgiau kaip 3 metus, skelbiama kasmet, o kai trumpiau –
+sistema numatoma taikyti ilgiau kaip 3 metus, skelbiama kasmet, o kai trumpiau
 
-skelbiama vieną kartą.
+– skelbiama vieną kartą.
 
 6. Dinaminės
 
@@ -7796,7 +7910,9 @@ per 48 dienas po sprendimo nesudaryti pirkimo sutarties priėmimo. Šis
 
 reikalavimas netaikomas, kai pirkimas atliekamas neskelbiamų derybų būdu.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr.
 
@@ -7884,11 +8000,9 @@ pirkimų tarnybos dienos.
 
 elektroninėmis priemonėmis, laikantis šio įstatymo nustatytų reikalavimų,
 
-paraiškų priėmimo terminai riboto konkurso ir skelbiamų derybų atveju ir
+paraiškų priėmimo terminai riboto konkurso ir skelbiamų derybų atveju ir pasiūlymų
 
-pasiūlymų priėmimo terminai atviro konkurso atveju gali būti sutrumpinti 7
-
-dienomis.
+priėmimo terminai atviro konkurso atveju gali būti sutrumpinti 7 dienomis.
 
 7. Kai perkančioji organizacija nuo skelbimo
 
@@ -7900,13 +8014,13 @@ papildomais dokumentais, pasiūlymų pateikimo terminai atviro, riboto konkursų
 
 ir skelbiamų derybų atvejais gali būti sutrumpinti dar 5 dienomis, išskyrus
 
-atvejus, kai atliekant pirkimą riboto konkurso ar skelbiamų derybų būdu
+atvejus, kai atliekant pirkimą riboto konkurso ar skelbiamų derybų būdu pasiūlymų
 
-pasiūlymų pateikimo terminas nustatomas perkančiosios organizacijos ir atrinktų
+pateikimo terminas nustatomas perkančiosios organizacijos ir atrinktų kandidatų
 
-kandidatų susitarimu. Skelbime turi būti nurodytas interneto adresas, kuriuo
+susitarimu. Skelbime turi būti nurodytas interneto adresas, kuriuo galima
 
-galima susipažinti su šiais dokumentais.
+susipažinti su šiais dokumentais.
 
 8. Vykdant atvirą konkursą, dėl visų šio straipsnio 5,
 
@@ -7930,11 +8044,11 @@ terminų paraiškų pateikimo terminas negali būti trumpesnis kaip 15 dienų
 
 nuo skelbimo ar kvietimo išsiuntimo dienos, o pasiūlymų pateikimo terminas,
 
-išskyrus terminus, nustatytus perkančiosios organizacijos ir atrinktų tiekėjų abipusiu
+išskyrus terminus, nustatytus perkančiosios organizacijos ir atrinktų tiekėjų
 
-susitarimu, jokiu būdu negali būti trumpesnis kaip 10 dienų nuo kvietimo
+abipusiu susitarimu, jokiu būdu negali būti trumpesnis kaip 10 dienų nuo
 
-pateikti pasiūlymus išsiuntimo dienos.
+kvietimo pateikti pasiūlymus išsiuntimo dienos.
 
 10. Jeigu dėl kokių nors priežasčių pirkimo dokumentai
 
@@ -7952,9 +8066,9 @@ suinteresuoti tiekėjai turėtų galimybę susipažinti su visa pasiūlymui pare
 
 reikalinga informacija, ir apie tai paskelbti šio įstatymo 23 straipsnyje
 
-nustatyta tvarka. Pasiūlymų pateikimo terminas, nustatytas perkančiosios organizacijos
+nustatyta tvarka. Pasiūlymų pateikimo terminas, nustatytas perkančiosios
 
-ir atrinktų tiekėjų abipusiu susitarimu, gali būti nepratęsiamas.
+organizacijos ir atrinktų tiekėjų abipusiu susitarimu, gali būti nepratęsiamas.
 
 Straipsnio
 
@@ -7990,9 +8104,9 @@ Perkančioji organizacija turi teisę apriboti kandidatų skaičių tiek, kad
 
 tokį skaičiaus sumažinimą būtų galima pateisinti pusiausvyra tarp pirkimo
 
-procedūrų ypatumų ir išteklių, kurių reikia tokiai procedūrai taikyti, tačiau
+procedūrų ypatumų ir išteklių, kurių reikia tokiai procedūrai taikyti, tačiau atrinktų
 
-atrinktų kandidatų skaičius turi būti pakankamas konkurencijai užtikrinti.
+kandidatų skaičius turi būti pakankamas konkurencijai užtikrinti.
 
 3. Perkančioji organizacija, atlikdama pirkimą, gali
 
@@ -8046,39 +8160,39 @@ kvalifikacija sudarant kvalifikacinę sistemą gali būti kelių kvalifikacijos
 
 vertinimo pakopų.
 
-3.
+3. Kvalifikacinė
 
-Kvalifikacinė sistema sudaroma taikant perkančiosios organizacijos nustatytus
+sistema sudaroma taikant perkančiosios organizacijos nustatytus kriterijus ir
 
-kriterijus ir taisykles. Kai į šiuos kriterijus įtraukiamos techninės
+taisykles. Kai į šiuos kriterijus įtraukiamos techninės specifikacijos,
 
-specifikacijos, vadovaujamasi ir šio įstatymo 25 straipsnio reikalavimais.
+vadovaujamasi ir šio įstatymo 25 straipsnio reikalavimais.
 
-4. Į kvalifikacijos
+4. Į
 
-vertinimo kriterijus turi būti įrašyti atmetimo kriterijai, išvardyti šio
+kvalifikacijos vertinimo kriterijus turi būti įrašyti atmetimo kriterijai,
 
-įstatymo 33 straipsnyje, laikantis tame straipsnyje nurodytų sąlygų ir
+išvardyti šio įstatymo 33 straipsnyje, laikantis tame straipsnyje nurodytų
 
-reikalavimų.
+sąlygų ir reikalavimų.
 
 5. Kai
 
-kvalifikacijų vertinimo kriterijų reikalavimai yra susiję su tiekėjų ekonominiais
+kvalifikacijų vertinimo kriterijų reikalavimai yra susiję su tiekėjų
 
-ir finansiniais pajėgumais bei techniniais ir (arba) profesiniais gebėjimais,
+ekonominiais ir finansiniais pajėgumais bei techniniais ir (arba) profesiniais
 
-tiekėjas prireikus gali remtis kitų ūkio subjektų pajėgumais ar gebėjimais,
+gebėjimais, tiekėjas prireikus gali remtis kitų ūkio subjektų pajėgumais ar
 
-nesvarbu, kokio teisinio pobūdžio būtų jo ryšiai su tokiais ūkio subjektais.
+gebėjimais, nesvarbu, kokio teisinio pobūdžio būtų jo ryšiai su tokiais ūkio
 
-Šiuo atveju tiekėjas privalo įrodyti perkančiajai organizacijai, kad tie
+subjektais. Šiuo atveju tiekėjas privalo įrodyti perkančiajai organizacijai,
 
-ištekliai jam bus prieinami visą kvalifikacinės sistemos galiojimo laiką. Tomis
+kad tie ištekliai jam bus prieinami visą kvalifikacinės sistemos galiojimo
 
-pačiomis sąlygomis ūkio subjektų grupė gali remtis grupės dalyvių arba kitų
+laiką. Tomis pačiomis sąlygomis ūkio subjektų grupė gali remtis grupės dalyvių
 
-ūkio subjektų pajėgumais ar gebėjimais.
+arba kitų ūkio subjektų pajėgumais ar gebėjimais.
 
 6. Tiekėjų
 
@@ -8126,19 +8240,19 @@ sistemos buvimą kviečiama varžytis dėl sutarties;
 
 techninių ar finansinių sąlygų ir sertifikatų, bandymų ir įrodymų pripažinimo,
 
-kaip nurodyta šio įstatymo 76 straipsnio 5 dalyje, ir šio įstatymo 37 straipsnio
+kaip nurodyta šio įstatymo 76 straipsnio 5 dalyje, ir šio įstatymo 37
 
-reikalavimų, atrinkdama dalyvius ribotam konkursui ir deryboms, priimdama
+straipsnio reikalavimų, atrinkdama dalyvius ribotam konkursui ir deryboms,
 
-sprendimą dėl kvalifikacijos arba atnaujindama kriterijus ir taisykles.
+priimdama sprendimą dėl kvalifikacijos arba atnaujindama kriterijus ir
+
+taisykles.
 
 9. Perkančioji organizacija gali išbraukti tiekėją iš
 
-kvalifikuotų tiekėjų sąrašų tik tais atvejais, kai tiekėjo kvalifikacija
+kvalifikuotų tiekėjų sąrašų tik tais atvejais, kai tiekėjo kvalifikacija neatitinka
 
-neatitinka perkančiosios organizacijos nustatytų kvalifikacinės sistemos
-
-kriterijų.
+perkančiosios organizacijos nustatytų kvalifikacinės sistemos kriterijų.
 
 78 straipsnis.
 
@@ -8208,7 +8322,9 @@ arba atitinkamais atvejais – tokių kriterijų seka pagal svarbą, jeigu ši
 
 informacija nebuvo pateikta kituose pirkimo dokumentuose.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. XI-678, 2010-02-11, Žin., 2010, Nr.
 
@@ -8406,9 +8522,9 @@ informuoja Lietuvos Respublikos socialinės apsaugos ir darbo ministeriją apie
 
 visus teisinius ir praktinius sunkumus, su kuriais jie susiduria siekdami
 
-sudaryti pirkimo sutartis trečiosiose šalyse ir kurie iškyla dėl to, kad
+sudaryti pirkimo sutartis trečiosiose šalyse ir kurie iškyla dėl to, kad nesilaikoma
 
-nesilaikoma šių tarptautinės darbo organizacijos teisės aktų normų:
+šių tarptautinės darbo organizacijos teisės aktų normų:
 
 1) Konvencijos Nr. 87 dėl asociacijų laisvės ir teisės
 
@@ -8492,6 +8608,8 @@ pirkimai.
 
 tvarka
 
+1 dalies redakcija iki 2011-08-21
+
 1. Perkančioji organizacija, išskyrus šio straipsnio 5
 
 dalyje nurodytas organizacijas, atlikdama supaprastintus pirkimus,
@@ -8511,6 +8629,28 @@ yra nereikalinga), 27 straipsnio
 vertės pirkimus, neprivalo vadovautis šio įstatymo 17 straipsnio 1, 2, 5, 7, 8 dalių, 18 straipsnio 1, 2,
 
 3, 6 dalių, 24 straipsnio 2 dalies 5, 9, 23 punktų, 3 ir 5 dalių, 27 straipsnio 1 dalies reikalavimais).
+
+1 dalies redakcija nuo 2011-08-21
+
+1. Perkančioji organizacija, išskyrus šio straipsnio 5
+
+dalyje nurodytas organizacijas, atlikdama supaprastintus pirkimus,
+
+privalo vadovautis šio įstatymo I skyriaus, 24 straipsnio 2 dalies 5, 9, 23 punktų,
+
+3 ir 5 dalių (išskyrus neskelbiamą pirkimą, kai pateikti pasiūlymą kviečiamas
+
+tik vienas tiekėjas, jeigu perkančioji organizacija mano, kad tokia informacija
+
+yra nereikalinga), 27 straipsnio 1 dalies, 40 straipsnio, 41 straipsnio
+
+1 dalies, IV ir V skyrių reikalavimais (atlikdama mažos vertės pirkimus,
+
+neprivalo vadovautis šio įstatymo 17 straipsnio 1, 2, 5, 7, 8 dalių, 18
+
+straipsnio 1, 2, 3, 6 dalių, 24 straipsnio 2 dalies 5, 9, 23 punktų, 3 ir
+
+5 dalių, 27 straipsnio 1 dalies, 40 straipsnio reikalavimais).
 
 2. Perkančioji organizacija, išskyrus nurodytas šio
 
@@ -8573,6 +8713,8 @@ Nr. XI-678, 2010-02-11, Žin., 2010, Nr.
 Nr. XI-1255, 2010-12-23, Žin., 2011, Nr.
 
 2-36 (2011-01-06)
+
+Nr. XI-1494, 2011-06-21, Žin., 2011, Nr. 85-4137 (2011-07-13)
 
 86 straipsnis. Supaprastintų pirkimų paskelbimas
 
@@ -8758,9 +8900,9 @@ Nr. XI-1255,
 
 2010-12-23, Žin., 2011, Nr. 2-36 (2011-01-06)
 
-87 straipsnis. Supaprastintų pirkimų
+87 straipsnis. Supaprastintų
 
-tiekėjų kvalifikacija
+pirkimų tiekėjų kvalifikacija
 
 1. Parinkdama
 
@@ -8808,9 +8950,9 @@ paskelbimo „Valstybės žinių“ priede „Informaciniai pranešimai“ dieno
 
 89 straipsnio redakcija nuo 2012 m. sausio 1 d.:
 
-90 straipsnis.
+90 straipsnis. Pasiūlymų
 
-Pasiūlymų vertinimas
+vertinimas
 
 Prekės, paslaugos ar darbai perkami iš to tiekėjo,
 
@@ -9024,21 +9166,45 @@ Nr. XI-678,
 
 Perkančioji organizacija šio įstatymo 86 straipsnyje nustatyta tvarka privalo
 
-paskelbti apie kiekvieną supaprastintą pirkimą, išskyrus šio straipsnio 2
+paskelbti apie kiekvieną supaprastintą pirkimą, išskyrus šio straipsnio 2 dalyje
 
-dalyje nustatytus atvejus.
+nustatytus atvejus.
+
+2 dalies redakcija iki 2011-08-21
 
 2. Perkančioji
 
-organizacija apie supaprastintą pirkimą gali neskelbti, jeigu yra bent viena iš šio straipsnio 3–7 dalyse nurodytų sąlygų. Tokiu atveju
+organizacija apie supaprastintą pirkimą gali neskelbti, jeigu yra bent viena iš
 
-(išskyrus šio straipsnio 3 dalies 3, 4 punktuose, 4 dalies 2, 3 punktuose, 5
+šio straipsnio 3–7 dalyse nurodytų sąlygų. Tokiu atveju (išskyrus šio straipsnio 3 dalies
 
-dalies 3 punkte, 6 dalies 2–5 punktuose, 7 dalies 2 punkte nurodytus pirkimus) perkančioji
+3, 4 punktuose, 4 dalies 2, 3 punktuose, 5
 
-organizacija, priėmusi sprendimą pirkti
+dalies 3 punkte, 6 dalies 2–5 punktuose, 7 dalies 2 punkte
 
-prekių, paslaugų ar darbų neskelbdama apie pirkimą, apie tai privalo paskelbti
+nurodytus pirkimus) perkančioji organizacija, priėmusi sprendimą pirkti prekių,
+
+paslaugų ar darbų neskelbdama apie pirkimą, apie tai privalo paskelbti
+
+informacinį pranešimą šio įstatymo 86
+
+straipsnyje nustatyta tvarka, o pirkimo sutartį sudaryti ne anksčiau kaip po 5
+
+darbo dienų nuo informacinio pranešimo paskelbimo dienos.
+
+2 dalies redakcija nuo 2011-08-21
+
+2. Perkančioji organizacija apie supaprastintą pirkimą
+
+gali neskelbti, jeigu yra bent viena iš šio straipsnio 3–7 dalyse
+
+nurodytų sąlygų. Atlikdama supaprastintą neskelbiamą pirkimą šio straipsnio 3
+
+dalies 1, 2, 6 punktuose, 4 dalies 1 punkte, 5 dalies 1, 2, 4, 5 punktuose, 6
+
+dalies 1, 5 punktuose, 7 dalies 1 punkte nurodytais atvejais ir priėmusi
+
+sprendimą dėl laimėjusio pasiūlymo, perkančioji organizacija privalo paskelbti
 
 informacinį pranešimą šio įstatymo 86 straipsnyje nustatyta tvarka, o pirkimo
 
@@ -9062,9 +9228,9 @@ dokumentų reikalavimų arba buvo pasiūlytos per didelės perkančiajai
 
 organizacijai nepriimtinos kainos, o pirkimo sąlygos iš esmės nekeičiamos ir į
 
-neskelbiamą pirkimą kviečiami visi pasiūlymus pateikę tiekėjai, atitinkantys
+neskelbiamą pirkimą kviečiami visi pasiūlymus pateikę tiekėjai, atitinkantys perkančiosios
 
-perkančiosios organizacijos nustatytus minimalius kvalifikacijos reikalavimus;
+organizacijos nustatytus minimalius kvalifikacijos reikalavimus;
 
 3) dėl įvykių, kurių perkančioji organizacija negalėjo
 
@@ -9104,23 +9270,23 @@ sutartį iš tam tikro tiekėjo pirko prekių arba paslaugų ir nustatė, kad i�
 
 tikslinga pirkti papildomai, techniniu požiūriu derinant su jau turimomis
 
-prekėmis ir suteiktomis paslaugomis, ir jeigu ankstesnieji pirkimai buvo
+prekėmis ir suteiktomis paslaugomis, ir jeigu ankstesnieji pirkimai buvo efektyvūs,
 
-efektyvūs, iš esmės nesikeičia prekių ar paslaugų kainos ir kitos sąlygos, o
+iš esmės nesikeičia prekių ar paslaugų kainos ir kitos sąlygos, o alternatyvūs
 
-alternatyvūs pirkimai dėl techninio nesuderinamumo su ankstesniaisiais būtų
+pirkimai dėl techninio nesuderinamumo su ankstesniaisiais būtų nepriimtini, nes
 
-nepriimtini, nes perkančiajai organizacijai įsigijus skirtingų techninių
+perkančiajai organizacijai įsigijus skirtingų techninių charakteristikų prekių
 
-charakteristikų prekių ar paslaugų, ji negalėtų naudotis anksčiau pirktomis
+ar paslaugų, ji negalėtų naudotis anksčiau pirktomis prekėmis ar paslaugomis
 
-prekėmis ar paslaugomis ar patirtų didelių nuostolių. Jeigu papildomai
+ar patirtų didelių nuostolių. Jeigu papildomai perkamų prekių ar paslaugų
 
-perkamų prekių ar paslaugų kaina viršija 30 procentų ankstesnės pirkimų kainos,
+kaina viršija 30 procentų ankstesnės pirkimų kainos, turi būti atliekama
 
-turi būti atliekama ekspertizė dėl papildomai perkamų prekių ar paslaugų
+ekspertizė dėl papildomai perkamų prekių ar paslaugų techninių charakteristikų
 
-techninių charakteristikų suderinamumo;
+suderinamumo;
 
 2) prekių ir paslaugų, skirtų Lietuvos Respublikos
 
@@ -9160,9 +9326,9 @@ bankrutuojančių, likviduojamų ar restruktūrizuojamų ūkio subjektų;
 
 perkamos paslaugos, kai:
 
-1) perkamos licencijos naudotis bibliotekiniais dokumentais
+1) perkamos licencijos naudotis bibliotekiniais
 
-ar duomenų (informacinėmis) bazėmis;
+dokumentais ar duomenų (informacinėmis) bazėmis;
 
 2) perkamos teisėjų, prokurorų, profesinės karo
 
@@ -9202,11 +9368,9 @@ pirkimo sutartį, tačiau be kurių negalima užbaigti sutarties vykdymo. Tokia
 
 pirkimo sutartis gali būti sudaroma tik su tuo tiekėju, su kuriuo buvo sudaryta
 
-pradinė pirkimo sutartis, o jos ir visų kitų papildomai sudarytų pirkimo
+pradinė pirkimo sutartis, o jos ir visų kitų papildomai sudarytų pirkimo sutarčių
 
-sutarčių kaina neturi viršyti 30 procentų pradinės pirkimo sutarties
-
-kainos;
+kaina neturi viršyti 30 procentų pradinės pirkimo sutarties kainos;
 
 2) perkant iš esamo tiekėjo naujas paslaugas ar
 
@@ -9242,6 +9406,10 @@ Nr. XI-1255,
 
 2010-12-23, Žin., 2011, Nr. 2-36 (2011-01-06)
 
+Nr. XI-1494,
+
+2011-06-21, Žin., 2011, Nr. 85-4137 (2011-07-13)
+
 V SKYRIUS
 
 GINČŲ NAGRINĖJIMAS, ŽALOS ATLYGINIMAS, PIRKIMO
@@ -9274,11 +9442,17 @@ interesus, šiame skyriuje nustatyta tvarka gali kreiptis į apygardos teismą,
 
 kaip pirmosios instancijos teismą, dėl:
 
+1 punkto redakcija iki 2011-10-01
+
 1) laikinųjų apsaugos priemonių
 
 taikymo, įskaitant pirkimo procedūros sustabdymą ar perkančiosios organizacijos
 
 priimto sprendimo vykdymo sustabdymą;
+
+1 punkto redakcija nuo 2011-10-01
+
+1) (neteko galios nuo 2011-10-01);
 
 2) perkančiosios organizacijos
 
@@ -9291,6 +9465,8 @@ sprendimų, kurie neatitinka šio įstatymo reikalavimų, panaikinimo ar pakeiti
 negaliojančia;
 
 5) alternatyvių sankcijų taikymo.
+
+2 dalies redakcija iki 2011-08-21
 
 2. Tiekėjas, norėdamas iki pirkimo sutarties
 
@@ -9306,17 +9482,21 @@ išnagrinėjus tiekėjo pretenziją, gali būti skundžiamas teismui šiame skyr
 
 nustatyta tvarka.
 
-Straipsnio
+2 dalies redakcija nuo 2011-08-21 iki 2011-10-01
 
-pakeitimai:
+2. Tiekėjas, norėdamas iki pirkimo sutarties
 
-Nr. X-1673,
+sudarymo ginčyti perkančiosios organizacijos sprendimus ar veiksmus, pirmiausia
 
-2008-07-03, Žin., 2008, Nr. 81-3179 (2008-07-17)
+turi pateikti pretenziją perkančiajai organizacijai šiame skyriuje nustatyta
 
-Nr. XI-678,
+tvarka. Pretenzija turi būti pateikta faksu, elektroninėmis priemonėmis ar
 
-2010-02-11, Žin., 2010, Nr. 25-1174 (2010-03-02)
+pasirašytinai per kurjerį. Perkančiosios organizacijos sprendimas, priimtas
+
+išnagrinėjus tiekėjo pretenziją, gali būti skundžiamas teismui šiame skyriuje
+
+nustatyta tvarka.
 
 93 straipsnis.
 
@@ -9400,6 +9580,8 @@ priimtą sprendimą dienos, jeigu šiame įstatyme nėra reikalavimo raštu
 
 informuoti tiekėjus apie perkančiosios organizacijos priimtus sprendimus.
 
+2 dalies redakcija iki 2011-10-01
+
 2. Jeigu perkančioji organizacija per nustatytą
 
 terminą neišnagrinėja jai pateiktos pretenzijos, tiekėjas turi teisę pareikšti
@@ -9410,11 +9592,25 @@ turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekė
 
 suinteresuotiems kandidatams ir suinteresuotiems dalyviams.
 
-3.
+2 dalies redakcija nuo 2011-10-01
 
-Tiekėjas turi teisę pareikšti ieškinį dėl pirkimo sutarties pripažinimo
+2. Jeigu perkančioji organizacija per nustatytą
 
-negaliojančia per 6 mėnesius nuo pirkimo sutarties sudarymo dienos.
+terminą neišnagrinėja jai pateiktos pretenzijos, tiekėjas turi teisę pateikti
+
+prašymą ar pareikšti ieškinį teismui per 15 dienų nuo tos dienos, kurią
+
+perkančioji organizacija turėjo raštu pranešti apie priimtą sprendimą
+
+pretenziją pateikusiam tiekėjui, suinteresuotiems kandidatams ir
+
+suinteresuotiems dalyviams
+
+3. Tiekėjas turi teisę pareikšti ieškinį
+
+dėl pirkimo sutarties pripažinimo negaliojančia per 6 mėnesius nuo pirkimo
+
+sutarties sudarymo dienos.
 
 4. Tais atvejais, kai tiekėjui padaryta žala kildinama
 
@@ -9432,9 +9628,9 @@ Straipsnio
 
 numeracijos pakeitimas:
 
-Nr. X-1673,
+Nr. X-1673, 2008-07-03,
 
-2008-07-03, Žin., 2008, Nr. 81-3179 (2008-07-17)
+Žin., 2008, Nr. 81-3179 (2008-07-17)
 
 Straipsnio
 
@@ -9447,6 +9643,10 @@ Nr. XI-678,
 Nr. XI-1255,
 
 2010-12-23, Žin., 2011, Nr. 2-36 (2011-01-06)
+
+Nr. XI-1487,
+
+2011-06-21, Žin., 2011, Nr. 85-4133 (2011-07-13)
 
 95 straipsnis.
 
@@ -9514,9 +9714,9 @@ naudą.
 
 Lietuvos Respublikos civilinio proceso kodekse nustatyta rašytinio arba žodinio
 
-proceso tvarka. Ieškinys ar apeliacinis skundas turi būti išnagrinėtas ne
+proceso tvarka. Ieškinys ar apeliacinis skundas turi būti išnagrinėtas ne vėliau
 
-vėliau kaip per 45 dienas nuo jo priėmimo dienos.
+kaip per 45 dienas nuo jo priėmimo dienos.
 
 7. Perkančioji organizacija, sužinojusi apie teismo
 
@@ -9524,229 +9724,7 @@ sprendimą dėl tiekėjo prašymo ar ieškinio, nedelsdama raštu informuoja sui
 
 apie teismo priimtus sprendimus.
 
-Straipsnio pakeitimai:
-
-Nr. X-1673, 2008-07-03, Žin., 2008,
-
-Nr. 81-3179 (2008-07-17)
-
-Nr. XI-678, 2010-02-11, Žin., 2010, Nr.
-
-25-1174 (2010-03-02)
-
-951
-
-straipsnis. Pirkimo sutarties pripažinimas negaliojančia
-
-1.
-
-Teismas pripažįsta pirkimo sutartį negaliojančia bet kuriuo iš šių atvejų:
-
-1)
-
-perkančioji organizacija sudarė pirkimo sutartį nepaskelbusi apie tarptautinės
-
-vertės pirkimą Europos Sąjungos oficialiajame leidinyje arba nepaskelbusi apie
-
-supaprastintą pirkimą, kai tai nėra leidžiama pagal šio įstatymo reikalavimus;
-
-2)
-
-perkančioji organizacija pažeidė šio įstatymo 941 straipsnio 2
-
-dalies, 95 straipsnio 2 dalies ar 18 straipsnio 9 dalies reikalavimus ir kitus
-
-šio įstatymo reikalavimus ir tai turėjo neigiamą įtaką teismui prašymą
-
-pateikusio ar ieškinį pareiškusio dalyvio galimybėms sudaryti pirkimo sutartį,
-
-ir šis dalyvis neturėjo galimybės pasinaudoti teisių gynimo priemonėmis iki
-
-pirkimo sutarties sudarymo;
-
-3)
-
-perkančioji organizacija, atlikdama tarptautinės vertės pirkimą, pažeidė šio
-
-įstatymo 63 straipsnio 9 dalies 2 punkto ar 64 straipsnio 5, 6 ir 7 dalių
-
-nuostatas ir, sudarydama pirkimo sutartį, pasinaudojo išimtimi, leidžiančia
-
-netaikyti atidėjimo termino.
-
-2.
-
-Teismas gali pripažinti pirkimo sutartį negaliojančia ir kitų, šio straipsnio 1
-
-dalyje nenurodytų, šio įstatymo imperatyvių nuostatų pažeidimo atvejais.
-
-3. Teismas negali pripažinti pirkimo
-
-sutarties negaliojančia pagal šio straipsnio
-
-1 dalies 1 punktą, jeigu yra visos šios sąlygos:
-
-1) perkančioji organizacija nusprendė,
-
-kad šiuo įstatymu leidžiama nepaskelbti apie tarptautinės vertės pirkimą
-
-Europos Sąjungos oficialiajame leidinyje arba nepaskelbti apie supaprastintą
-
-pirkimą;
-
-2) perkančioji organizacija paskelbė
-
-pranešimą dėl savanoriško ex ante skaidrumo (tarptautinės vertės pirkimo
-
-atveju) ar informacinį pranešimą;
-
-3) pirkimo sutartis buvo sudaryta ne anksčiau kaip po
-
-10 dienų nuo pranešimo dėl savanoriško ex ante skaidrumo paskelbimo
-
-dienos arba ne anksčiau kaip po 5 darbo dienų nuo informacinio pranešimo
-
-paskelbimo dienos.
-
-4. Teismas negali pripažinti pirkimo
-
-sutarties negaliojančia pagal šio straipsnio
-
-1 dalies 3 punktą, jeigu yra visos šios sąlygos:
-
-1) perkančioji organizacija mano, kad,
-
-sudarydama pirkimo sutartį, ji laikėsi šio įstatymo 63 straipsnio 9 dalies 2
-
-punkto ar 64 straipsnio 5, 6 ir 7 dalių nuostatų;
-
-2)
-
-perkančioji organizacija suinteresuotiems dalyviams išsiuntė pranešimus apie
-
-sprendimą sudaryti pirkimo sutartį pagal šio įstatymo 41 straipsnio 1 dalies
-
-reikalavimus;
-
-3)
-
-pirkimo sutartis buvo sudaryta ne anksčiau kaip po 15 dienų nuo pranešimų apie
-
-sprendimą sudaryti pirkimo sutartį išsiuntimo suinteresuotiems dalyviams
-
-dienos.
-
-5. Viešųjų pirkimų tarnyba privalo
-
-kiekvienais metais pateikti Europos Komisijai visų sprendimų, kuriuos priėmė
-
-teismas pagal šio įstatymo 952 straipsnio 2 dalį, kopijas ir tuos
-
-sprendimus viešai paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje.
-
-Įstatymas
-
-papildytas straipsniu:
-
-Nr. XI-678,
-
-2010-02-11, Žin., 2010, Nr. 25-1174 (2010-03-02)
-
-Straipsnio
-
-pakeitimai:
-
-Nr. XI-1255,
-
-2010-12-23, Žin., 2011, Nr. 2-36 (2011-01-06)
-
-952
-
-straipsnis. Alternatyvios sankcijos ir jų taikymas
-
-1.
-
-Teismas taiko alternatyvias sankcijas pagal šio straipsnio 4 dalį, jeigu
-
-perkančioji organizacija pažeidė šio įstatymo 941 straipsnio 2
-
-dalies, 95 straipsnio 2 dalies ar 18 straipsnio 9 dalies reikalavimus, tačiau
-
-nėra kitų šio įstatymo 951 straipsnio 1 dalies 2 punkte nurodytų
-
-aplinkybių.
-
-2.
-
-Teismas gali nepripažinti pirkimo sutarties negaliojančia ir taikyti
-
-alternatyvias sankcijas pagal šio straipsnio 4 dalį, nors pirkimo sutartis buvo
-
-sudaryta neteisėtai pagal šio įstatymo 951 straipsnio 1 dalies
-
-nuostatas, jeigu dėl viešojo intereso, įskaitant su pirkimo sutartimi
-
-nesusijusius ekonominius interesus, dėl kurių pirkimo sutarties pripažinimas
-
-negaliojančia turėtų neproporcingų pasekmių, būtina išsaugoti pirkimo sutarties
-
-pasekmes. Tiesiogiai su pirkimo sutartimi susiję ekonominiai interesai apima inter
-
-alia išlaidas, susidariusias dėl vėlavimo vykdyti pirkimo sutartį, naujos
-
-pirkimo procedūros pradėjimo, pirkimo sutartį vykdančio tiekėjo pakeitimo,
-
-teisinių pareigų, kurios atsirado pripažinus pirkimo sutartį negaliojančia.
-
-3.
-
-Teismas, pripažindamas pirkimo sutartį negaliojančia tik nuo jo sprendimo
-
-įsiteisėjimo, papildomai turi taikyti alternatyvias sankcijas pagal šio
-
-straipsnio 4 dalies
-
-2 punktą, atsižvelgdamas į likusius neįvykdytus pirkimo sutarties
-
-įsipareigojimus.
-
-4. Teismo skiriamos alternatyvios
-
-sankcijos turi būti veiksmingos, proporcingos ir atgrasančios. Teismo taikomos
-
-alternatyvios sankcijos:
-
-1) pirkimo sutarties trukmės
-
-sutrumpinimas arba
-
-2) perkančiajai organizacijai skiriama
-
-bauda, kuri turi būti ne didesnė negu 10 procentų pirkimo sutarties vertės,
-
-arba šio straipsnio 3 dalyje nurodytu atveju – nuo įvykdytos pirkimo sutarties
-
-dalies vertės.
-
-5. Teismas, skirdamas alternatyvias sankcijas, turi atsižvelgti
-
-į visus reikšmingus aspektus, įskaitant pažeidimo rimtumą, perkančiosios
-
-organizacijos elgesį ir šio straipsnio 3 dalyje nurodytais atvejais – į
-
-likusius neįvykdytus pirkimo sutarties įsipareigojimus. Teismo skirta
-
-alternatyvi sankcija, įskaitant perkančiajai organizacijai skirtos baudos dydį,
-
-turi būti motyvuojama teismo sprendime.
-
-Įstatymas
-
-papildytas straipsniu:
-
-Nr. XI-678,
-
-2010-02-11, Žin., 2010, Nr. 25-1174 (2010-03-02)
+Straipsnio redakcija nuo 2011-10-01
 
 96 straipsnis.
 
@@ -9906,9 +9884,9 @@ Nr. XI-678,
 
 99 straipsnis. Neteko galios nuo 2010 m. kovo 2 d.
 
-Straipsnio
+Straipsnio numeracijos
 
-numeracijos pakeitimas:
+pakeitimas:
 
 Nr. X-1673,
 
@@ -10568,9 +10546,9 @@ apdailos darbai
 
 garais, smėliasraučiu ir panašius pastatų išorės darbus
 
-– kitus pastatų apdailos
+– kitus pastatų
 
-ir užbaigimo darbus
+apdailos ir užbaigimo darbus
 
 Ši klasė neapima:
 
@@ -10674,9 +10652,9 @@ Nuo 50100000-6 iki
 
 50884000-5 (išskyrus nuo 50310000-1 iki 50324200-4 ir 50116510-9,
 
-50190000-3, 50229000-6,
+50190000-3,
 
-50243000-0) ir nuo 51000000-9 iki 51900000-1
+50229000-6, 50243000-0) ir nuo 51000000-9 iki 51900000-1
 
 2.
 
@@ -10752,7 +10730,9 @@ Finansinės
 
 paslaugos:
 
-a) draudimo paslaugos;
+a) draudimo
+
+paslaugos;
 
 b) bankų ir
 
@@ -10936,15 +10916,13 @@ nuo 90910000-9 iki
 
 90920000-2 ir
 
-50190000-3,
-
-50229000-6
+50190000-3, 50229000-6
 
 50243000-0
 
-1CPC naudojamas Viešųjų pirkimų įstatymo reglamentuojamai
+1CPC naudojamas Viešųjų pirkimų įstatymo
 
-paslaugų sričiai nustatyti.
+reglamentuojamai paslaugų sričiai nustatyti.
 
 2Išskyrus 18 kategorijai priskirtas geležinkelių transporto paslaugas.
 
@@ -11254,9 +11232,9 @@ nustatantis techninius produkto reikalavimus;
 
 specifikacija – techninė specifikacija, sudaryta laikantis valstybių narių
 
-pripažintos procedūros, paskelbta Europos Sąjungos oficialiajame leidinyje,
+pripažintos procedūros, paskelbta Europos Sąjungos oficialiajame leidinyje, siekiant
 
-siekiant užtikrinti jos vienodą taikymą visose valstybėse narėse;
+užtikrinti jos vienodą taikymą visose valstybėse narėse;
 
 6) techninis etalonas – bet kuris Europos
 
@@ -11432,9 +11410,9 @@ dėl viešųjų pirkimų (OL 2005 L 257, p. 127).
 
 pirkimų procedūromis susijusius pranešimus, pagal Europos Parlamento ir Tarybos
 
-direktyvas 2004/17/EB ir 2004/18/EB (OL 2005 L 257, p. 1) su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 10 d. Komisijos reglamentu (EB) Nr. 1150/2009
+direktyvas 2004/17/EB ir 2004/18/EB (OL 2005 L 257, p. 1) su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 10 d. Komisijos reglamentu (EB) Nr.
 
-(OL 2009 L 313, p. 3).
+1150/2009 (OL 2009 L 313, p. 3).
 
 9. 2005 m. lapkričio 16 d. Europos Parlamento ir Tarybos direktyva 2005/75/EB, pataisanti Direktyvą
 
@@ -11572,9 +11550,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1173, 2002-11-05,
+IX-1173,
 
-Žin., 2002, Nr. 112-4977 (2002-11-22)
+2002-11-05, Žin., 2002, Nr. 112-4977 (2002-11-22)
 
 VIEŠŲJŲ
 
@@ -14437,4 +14415,50 @@ papildytas straipsniu:
 Nr. XI-678,
 
 2010-02-11, Žin., 2010, Nr. 25-1174 (2010-03-02)
+
+Straipsnio redakcija iki 2011-10-01
+
+Nuo 2011-10-01 straipsnis papildytas nauja 2 dalimi, buvusi 2 dalis
+
+laikoma 3 dalimi
+
+2. Tiekėjas gali pateikti prašymą teismui dėl
+
+laikinųjų apsaugos priemonių taikymo Lietuvos Respublikos civilinio proceso
+
+kodekso nustatyta tvarka.
+
+3. Tiekėjas, norėdamas iki pirkimo sutarties
+
+sudarymo ginčyti perkančiosios organizacijos sprendimus ar veiksmus, pirmiausia
+
+turi pateikti pretenziją perkančiajai organizacijai šiame skyriuje nustatyta
+
+tvarka. Pretenzija turi būti pateikta faksu, elektroninėmis priemonėmis ar
+
+pasirašytinai per kurjerį. Perkančiosios organizacijos sprendimas, priimtas
+
+išnagrinėjus tiekėjo pretenziją, gali būti skundžiamas teismui šiame skyriuje
+
+nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. X-1673,
+
+2008-07-03, Žin., 2008, Nr. 81-3179 (2008-07-17)
+
+Nr. XI-678,
+
+2010-02-11, Žin., 2010, Nr. 25-1174 (2010-03-02)
+
+Nr. XI-1487,
+
+2011-06-21, Žin., 2011, Nr. 85-4133 (2011-07-13)(papildyta nauja 2 dalimi)
+
+Nr. XI-1494,
+
+2011-06-21, Žin., 2011, Nr. 85-4137 (2011-07-13)
 
