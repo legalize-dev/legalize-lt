@@ -4,7 +4,7 @@ identifier: "TAR.FDF42614DE52"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-16"
-last_updated: "2009-08-01"
+last_updated: "2011-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 department: "Lietuvos Respublikos Seimas"
@@ -158,7 +158,9 @@ Nr. X-1398,
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
 
 4
 
@@ -182,11 +184,27 @@ tyrimų tarnybos ir Kalėjimų departamento prie Lietuvos Respublikos teisingumo
 
 ministerijos bei jam pavaldžių įstaigų ir įmonių pareigūnai;
 
+4 punkto redakcija iki 2011-09-01
+
 4) krašto apsaugos sistemos profesinės karo tarnybos kariai ir
 
 Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos
 
 civilinę krašto apsaugos tarnybą atliekantys statutiniai tarnautojai;
+
+4 punkto redakcija nuo 2011-09-01
+
+4) krašto
+
+apsaugos sistemos profesinės karo tarnybos kariai, taip pat kariai
+
+savanoriai, kiti aktyviojo rezervo kariai, parengtojo rezervo kariai, pašaukti
+
+į pratybas, mokymus ar vykdyti tarnybos užduočių, ir Antrajame operatyvinių
+
+tarnybų departamente prie Krašto apsaugos ministerijos civilinę krašto apsaugos
+
+tarnybą atliekantys statutiniai tarnautojai;
 
 5) nesukakę
 
@@ -204,11 +222,11 @@ atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie
 
 tarptautinės organizacijos, tarptautinėje ar Europos Sąjungos institucijoje
 
-arba užsienio valstybės institucijoje, pasiųstas dirbti į specialiąją misiją,
+arba užsienio valstybės institucijoje, pasiųstas dirbti į specialiąją misiją, ar
 
-ar kai jie gyvena kartu su profesinės karo tarnybos kariu, jeigu profesinės
+kai jie gyvena kartu su profesinės karo tarnybos kariu, jeigu profesinės karo
 
-karo tarnybos karys paskirtas atlikti karo tarnybą Lietuvos Respublikos
+tarnybos karys paskirtas atlikti karo tarnybą Lietuvos Respublikos
 
 diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos
 
@@ -292,7 +310,15 @@ X-1802,
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
+
+Nr.
+
+XI-1527,
+
+2011-06-23, Žin., 2011, Nr. 86-4169 (2011-07-13)
 
 ANTRASIS SKIRSNIS
 
@@ -686,11 +712,11 @@ laikotarpį:
 
 nurodytomis sąlygomis;
 
-2) be pateisinamos
+2) be
 
-priežasties bedarbis atsisakė dalyvauti jo užimtumo plane numatytose aktyvios
+pateisinamos priežasties bedarbis atsisakė dalyvauti jo užimtumo plane
 
-darbo rinkos politikos priemonėse;
+numatytose aktyvios darbo rinkos politikos priemonėse;
 
 3) be
 
@@ -718,7 +744,9 @@ Straipsnio pakeitimai:
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
 
 12 straipsnis. Pakartotinis nedarbo draudimo išmokos
 
@@ -764,11 +792,9 @@ taikomas tik vieną kartą.
 
 išmokos mokėjimą, jis tęsiamas likusį šio Įstatymo nustatytą laikotarpį taikant
 
-šio Įstatymo 8 straipsnio 4 dalies nuostatas pagal tuos pačius bedarbio
+šio Įstatymo 8 straipsnio 4 dalies nuostatas pagal tuos pačius bedarbio draudžiamųjų
 
-draudžiamųjų pajamų duomenis, kurie buvo nedarbo draudimo išmokos paskyrimo
-
-metu.
+pajamų duomenis, kurie buvo nedarbo draudimo išmokos paskyrimo metu.
 
 14 straipsnis. Nedarbo draudimo išmokos mokėjimo
 
@@ -860,7 +886,9 @@ Nr. X-65, 2004-12-22,
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
 
 15 straipsnis. Nedarbo
 
@@ -888,7 +916,9 @@ Nr. X-1398,
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
 
 17 straipsnis.
 
@@ -988,19 +1018,43 @@ Nr. IX-2540,
 
 20 straipsnis.
 
-Įstaigų, mokančių nedarbo draudimo išmokas, atsakomybė
+Įstaigos, skiriančios ir mokančios nedarbo draudimo išmokas, ir jų atsakomybė
 
-1. Lietuvos darbo birža nedarbo draudimo išmokas
+1. Lietuvos darbo
 
-skiria ir išmoka per teritorines darbo biržas Nedarbo draudimo išmokų
+birža nedarbo draudimo išmokas apskaičiuoja ir skiria per teritorines darbo
+
+biržas Nedarbo draudimo išmokų nuostatuose nustatyta tvarka.
+
+2. Nedarbo draudimo
+
+išmokas moka Valstybinio socialinio draudimo fondo valdybos teritoriniai
+
+skyriai (toliau – Fondo valdybos teritoriniai skyriai) Nedarbo draudimo išmokų
 
 nuostatuose nustatyta tvarka.
 
-2. Lietuvos darbo birža ir jos teritorinės darbo
+3. Valstybinio socialinio draudimo fondo valdyba prie Socialinės
 
-biržos yra atsakingos už nedarbo draudimo išmokų apskaičiavimą ir mokėjimą.
+apsaugos ir darbo ministerijos ir Fondo valdybos teritoriniai skyriai yra
 
-Neteisingai išmokėtos sumos išieškomos įstatymų nustatyta tvarka.
+atsakingi už nedarbo draudimo išmokų mokėjimą.
+
+4. Lietuvos darbo birža ir jos teritorinės darbo biržos yra atsakingos
+
+už nedarbo draudimo išmokų apskaičiavimą ir skyrimą.
+
+5. Neteisingai apskaičiuotos ir išmokėtos nedarbo
+
+socialinio draudimo išmokos išieškomos įstatymų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
 
 KETVIRTASIS SKIRSNIS
 
@@ -1016,7 +1070,9 @@ Straipsnio pakeitimai:
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
 
 22 straipsnis. Išmokų,
 
@@ -1034,13 +1090,13 @@ pašalpos skyrimo dienos pagal šio Įstatymo 8 straipsnį, atsižvelgiant į 5
 
 straipsnyje nustatytus nedarbo draudimo stažo reikalavimus;
 
-2) jei šios dalies 1 punkte nustatyta tvarka
+2) jei šios dalies 1 punkte nustatyta tvarka apskaičiuota
 
-apskaičiuota nedarbo draudimo išmoka nuo 2005 m. sausio 1 d. mokėtina didesnė
+nedarbo draudimo išmoka nuo 2005 m. sausio 1 d. mokėtina didesnė negu asmeniui
 
-negu asmeniui mokėtina pagal anksčiau galiojusį įstatymą bedarbio pašalpa, jam
+mokėtina pagal anksčiau galiojusį įstatymą bedarbio pašalpa, jam mokama ši
 
-mokama ši nedarbo draudimo išmoka;
+nedarbo draudimo išmoka;
 
 3) jei apskaičiuota nedarbo draudimo išmoka nuo 2005
 
@@ -1058,9 +1114,9 @@ išmokos dalies;
 
 4) šiuo būdu apskaičiuota nedarbo draudimo išmoka
 
-mokama šio Įstatymo nustatytą laiką, pradedant jo atskaitą nuo bedarbio pašalpos
+mokama šio Įstatymo nustatytą laiką, pradedant jo atskaitą nuo bedarbio
 
-skyrimo dienos;
+pašalpos skyrimo dienos;
 
 5) šio straipsnio 3 punkte nurodytu atveju kintama
 
@@ -1160,7 +1216,9 @@ Nr. X-65, 2004-12-22,
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
 
 24 straipsnis. Pasiūlymai
 
@@ -1190,7 +1248,9 @@ Straipsnio pakeitimai:
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
 
 25
 
@@ -1346,9 +1406,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-594, 2006-05-04,
+X-594,
 
-Žin., 2006, Nr. 57-2024 (2006-05-20)
+2006-05-04, Žin., 2006, Nr. 57-2024 (2006-05-20)
 
 VALSTYBINIO
 
@@ -1380,13 +1440,13 @@ PAPILDYMO ĮSTATYMAS
 
 įstatymo 3 straipsnio 3 ir 8 dalių bei 6 straipsnio 4 dalies pakeitimas
 
-įsigalioja nuo 2006 m. liepos 1 d. Šio įstatymo 4 straipsnio papildymas 7
+įsigalioja nuo 2006 m. liepos 1 d. Šio įstatymo 4 straipsnio papildymas 7 punktu,
 
-punktu, 5 straipsnio 1, 2 ir 3 dalių papildymas ir pakeitimas, 8 straipsnio 5
+5 straipsnio 1, 2 ir 3 dalių papildymas ir pakeitimas, 8 straipsnio 5 dalies
 
-dalies pakeitimas bei 18 straipsnio 1 ir 2 dalių pakeitimas įsigalioja nuo 2008
+pakeitimas bei 18 straipsnio 1 ir 2 dalių pakeitimas įsigalioja nuo 2008 m.
 
-m. sausio 1 d.
+sausio 1 d.
 
 Šis įstatymas keistas:
 
@@ -1464,9 +1524,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr.
+Nr. XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+(2009-06-30)
 
 NEDARBO
 
@@ -1658,21 +1718,21 @@ autrap@lrs.lt
 
 5 straipsnis. Teisė į nedarbo draudimo išmoką
 
-1. Teisę į nedarbo
+1. Teisę į
 
-draudimo išmoką turi bedarbiais teritorinėje darbo biržoje įsiregistravę šio
+nedarbo draudimo išmoką turi bedarbiais teritorinėje darbo biržoje
 
-Įstatymo 4 straipsnyje nurodyti apdraustieji, kuriems teritorinė darbo birža
+įsiregistravę šio Įstatymo 4 straipsnyje nurodyti apdraustieji, kuriems
 
-nepasiūlė tinkamo darbo ar aktyvios darbo rinkos politikos priemonių ir jeigu
+teritorinė darbo birža nepasiūlė tinkamo darbo ar aktyvios darbo rinkos
 
-jie:
+politikos priemonių ir jeigu jie:
 
-1) iki įsiregistravimo
+1) iki
 
-teritorinėje darbo biržoje turi ne mažesnį kaip 18 mėnesių nedarbo draudimo
+įsiregistravimo teritorinėje darbo biržoje turi ne mažesnį kaip 18 mėnesių
 
-stažą per paskutinius 36 mėnesius;
+nedarbo draudimo stažą per paskutinius 36 mėnesius;
 
 2) įstatymų nustatyta tvarka buvo atleisti iš darbo ar valstybės
 
@@ -1682,13 +1742,25 @@ nepriklausančių nuo darbuotojo ar valstybės tarnautojo aplinkybių ir darbdav
 
 bankroto atveju;
 
+3 punkto redakcija iki 2011-09-01
+
 3) baigė privalomąją nuolatinę pradinę karo tarnybą ar alternatyviąją
 
 krašto apsaugos tarnybą arba buvo atleisti iš šių tarnybų ištarnavę ne mažiau
 
 kaip pusę nustatyto laiko.
 
+3 punkto redakcija nuo 2011-09-01
+
+3) baigė
+
+privalomąją pradinę karo tarnybą ar alternatyviąją krašto apsaugos tarnybą arba
+
+buvo atleisti iš šių tarnybų ištarnavę ne mažiau kaip pusę nustatyto laiko.
+
 2. Neteko galios nuo 2008 m. sausio 1 d.
+
+3 dalies redakcija iki 2011-09-01
 
 3. Šio straipsnio 1 dalies 2 ir 3 punktuose nurodyti bedarbiai turi
 
@@ -1699,6 +1771,20 @@ biržoje, ne vėliau kaip per 6 kalendorinius mėnesius po atleidimo iš darbo a
 valstybės tarnautojų pareigų bei paleidimo iš privalomosios nuolatinės pradinės
 
 karo tarnybos ar alternatyviosios krašto apsaugos tarnybos.
+
+3 dalies redakcija nuo 2011-09-01
+
+3. Šio
+
+straipsnio 1 dalies 2 ir 3 punktuose nurodyti bedarbiai turi teisę gauti
+
+nedarbo draudimo išmoką, kai jie įsiregistruoja teritorinėje darbo biržoje, ne
+
+vėliau kaip per 6 kalendorinius mėnesius po atleidimo iš darbo ar valstybės
+
+tarnautojų pareigų bei paleidimo iš privalomosios pradinės karo tarnybos ar
+
+alternatyviosios krašto apsaugos tarnybos.
 
 Straipsnio pakeitimai:
 
@@ -1712,9 +1798,9 @@ X-657,
 
 2006-06-08, Žin., 2006, Nr. 72-2674 (2006-06-28)
 
-Nr. X-1398, 2007-12-20,
+Nr. X-1398,
 
-Žin., 2007, Nr. 138-5653 (2007-12-29)
+2007-12-20, Žin., 2007, Nr. 138-5653 (2007-12-29)
 
 Nr. X-1399,
 
@@ -1722,7 +1808,15 @@ Nr. X-1399,
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
+
+Nr.
+
+XI-1527,
+
+2011-06-23, Žin., 2011, Nr. 86-4169 (2011-07-13)
 
 6
 
@@ -1774,7 +1868,9 @@ X-657,
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
 
 7
 
@@ -1804,7 +1900,9 @@ Straipsnio pakeitimai:
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
 
 8
 
@@ -1818,9 +1916,9 @@ išmoka apskaičiuojama kaip pastovios ir kintamos dalių suma.
 
 galiojančių valstybės remiamų pajamų dydis.
 
-3. Kintama nedarbo
+3. Kintama nedarbo draudimo
 
-draudimo išmokos dalis apskaičiuojama taip:
+išmokos dalis apskaičiuojama taip:
 
 1) apskaičiuojamos
 
@@ -1906,11 +2004,11 @@ numatytose aktyvios darbo rinkos politikos priemonėse;
 
 3) be pateisinamų priežasčių, nurodytų Nedarbo draudimo išmokų
 
-nuostatuose, nustatytu laiku neatvyko į teritorinę darbo biržą priimti pasiūlymo
+nuostatuose, nustatytu laiku neatvyko į teritorinę darbo biržą priimti
 
-dirbti arba dalyvauti jo užimtumo plane numatytose aktyvios darbo rinkos
+pasiūlymo dirbti arba dalyvauti jo užimtumo plane numatytose aktyvios darbo
 
-politikos priemonėse;
+rinkos politikos priemonėse;
 
 4) atsisakė teritorinės darbo biržos siūlomo sveikatos patikrinimo, kad
 
@@ -1920,7 +2018,9 @@ Straipsnio pakeitimai:
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
 
 10
 
@@ -1950,7 +2050,9 @@ Nr. X-65, 2004-12-22,
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
 
 16 straipsnis. Nedarbo draudimo išmokos išmokėjimas
 
@@ -1962,9 +2064,7 @@ draudimo išmoka, negauta iki turėjusio į ją teisę asmens mirties dienos,
 
 išmokama asmeniui, pateikusiam paveldėjimo dokumentus.
 
-TREČIASIS
-
-SKIRSNIS
+TREČIASIS SKIRSNIS
 
 NEDARBO DRAUDIMO
 
@@ -2016,7 +2116,9 @@ Nr. IX-2540,
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
 
 18
 
@@ -2096,7 +2198,9 @@ Nr. IX-2540,
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+
+77-3170 (2009-06-30)
 
 Straipsnio redakcija iki 2013 m. sausio
 
@@ -2121,48 +2225,4 @@ Neteisingai išmokėtos sumos išieškomos įstatymų nustatyta tvarka.
 Straipsnio redakcija nuo 2013 m. sausio
 
 1 d.:
-
-20
-
-straipsnis. Įstaigos, skiriančios ir mokančios nedarbo draudimo išmokas, ir jų
-
-atsakomybė
-
-1. Lietuvos darbo birža
-
-nedarbo draudimo išmokas apskaičiuoja ir skiria per teritorines darbo biržas
-
-Nedarbo draudimo išmokų nuostatuose nustatyta tvarka.
-
-2. Nedarbo draudimo
-
-išmokas moka Valstybinio socialinio draudimo fondo valdybos teritoriniai
-
-skyriai (toliau – Fondo valdybos teritoriniai skyriai) Nedarbo draudimo išmokų
-
-nuostatuose nustatyta tvarka.
-
-3. Valstybinio socialinio draudimo fondo valdyba prie Socialinės
-
-apsaugos ir darbo ministerijos ir Fondo valdybos teritoriniai skyriai yra
-
-atsakingi už nedarbo draudimo išmokų mokėjimą.
-
-4. Lietuvos darbo birža ir jos teritorinės darbo biržos yra atsakingos
-
-už nedarbo draudimo išmokų apskaičiavimą ir skyrimą.
-
-5. Neteisingai apskaičiuotos ir išmokėtos nedarbo
-
-socialinio draudimo išmokos išieškomos įstatymų nustatyta tvarka.
-
-Straipsnio pakeitimai:
-
-Nr.
-
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170 (2009-06-30)
-
-KETVIRTASIS SKIRSNIS
-
-BAIGIAMOSIOS NUOSTATOS
 
