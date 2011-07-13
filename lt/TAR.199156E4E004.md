@@ -4,7 +4,7 @@ identifier: "TAR.199156E4E004"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-11-28"
-last_updated: "2010-07-01"
+last_updated: "2011-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2011-07-12
+Suvestinė redakcija nuo 2011-07-13 iki 2013-06-27
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
 
@@ -34,7 +34,17 @@ BENDROSIOS NUOSTATOS
 
 1. Šio Įstatymo tikslas – užtikrinti neįgaliųjų lygias teises ir galimybes visuomenėje, nustatyti neįgaliųjų socialinės integracijos principus, apibrėžti socialinės integracijos sistemą ir jos prielaidas bei sąlygas, neįgaliųjų socialinę integraciją įgyvendinančias institucijas, neįgalumo lygio ir darbingumo lygio nustatymą, profesinės reabilitacijos paslaugų teikimą, specialiųjų poreikių nustatymo ir tenkinimo principus.
 
-2. Šis Įstatymas taikomas Lietuvos Respublikoje nuolat gyvenantiems neįgaliesiems.
+2. Šis Įstatymas taikomas Lietuvos Respublikoje nuolat gyvenantiems asmenims.
+
+3. Šio Įstatymo 20 ir 23 straipsniai taip pat taikomi Lietuvos Respublikoje gyvenantiems užsieniečiams, kuriems leidimas laikinai gyventi išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą, kaip ši sąvoka apibrėžta tai reglamentuojančiuose Lietuvos Respublikos teisės aktuose.
+
+4. Šio Įstatymo 19, 20, 23 ir 24 straipsniai taip pat taikomi kitiems asmenims, kuriems, įgyvendinant Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentus, turi būti taikomi šiame Įstatyme nurodyti straipsniai.
+
+5. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktų, nurodytų šio Įstatymo priede, nuostatomis.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1488, 2011-06-21, Žin., 2011, Nr. 85-4134 (2011-07-13), i. k. 1111010ISTA0XI-1488
 
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
@@ -134,11 +144,19 @@ Visos valstybės bei savivaldybių institucijos ir įstaigos teikia neįgaliesie
 
 9 straipsnis. Profesinės reabilitacijos paslaugos
 
-1. Profesinės reabilitacijos paslaugomis siekiama ugdyti ar atkurti neįgaliųjų darbingumą ir didinti jų įsidarbinimo galimybes.
+1. Profesinės reabilitacijos paslaugomis siekiama ugdyti arba atkurti asmenų darbingumą ir didinti jų įsidarbinimo galimybes.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1488, 2011-06-21, Žin., 2011, Nr. 85-4134 (2011-07-13), i. k. 1111010ISTA0XI-1488
 
 2. Skiriamos šios pagrindinės profesinės reabilitacijos paslaugos: profesinis orientavimas, konsultavimas, profesinių gebėjimų įvertinimas, atkūrimas arba naujų išugdymas, perkvalifikavimas. Šios paslaugos skirtos asmens darbingumui atkurti ir galimybėms savarankiškai įsidarbinti ar dalyvauti įdarbinimo programose didinti.
 
-3. Už profesinės reabilitacijos paslaugų teikimo organizavimą atsako Socialinės apsaugos ir darbo ministerija. Šią funkciją ji įgyvendina pasitelkdama Lietuvos darbo biržą prie Socialinės apsaugos ir darbo ministerijos bei Lietuvos darbo rinkos mokymo tarnybą prie Socialinės apsaugos ir darbo ministerijos.
+3. Už profesinės reabilitacijos paslaugų teikimo organizavimą atsako Socialinės apsaugos ir darbo ministerija. Šią funkciją ji įgyvendina pasitelkdama Lietuvos darbo biržą prie Socialinės apsaugos ir darbo ministerijos ir kitas valstybės institucijas ir įstaigas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1488, 2011-06-21, Žin., 2011, Nr. 85-4134 (2011-07-13), i. k. 1111010ISTA0XI-1488
 
 4. Už profesinės reabilitacijos specialistų, gebančių įvertinti ir skatinti asmens darbingumą, rengimą ir kvalifikacijos tobulinimą atsako Švietimo ir mokslo ministerija. Šią funkciją ji įgyvendina bendradarbiaudama su Sveikatos apsaugos ministerija bei Socialinės apsaugos ir darbo ministerija.
 
@@ -506,6 +524,18 @@ Vilnius, 1991 m. lapkričio 28 d.
 
 Nr. I-2044
 
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą (OL 2009 L 155, p. 17).
+
+Papildyta priedu:
+
+Nr. XI-1488, 2011-06-21, Žin., 2011, Nr. 85-4134 (2011-07-13), i. k. 1111010ISTA0XI-1488
+
 Pakeitimai:
 
 1.
@@ -619,4 +649,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA00XI-791
 
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 2, 10, 15, 16 ir 22 straipsnių pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1488, 2011-06-21, Žin., 2011, Nr. 85-4134 (2011-07-13), i. k. 1111010ISTA0XI-1488
+
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 1, 9 straipsnių pakeitimo ir papildymo ir įstatymo papildymo priedu įstatymas
 
