@@ -4,7 +4,7 @@ identifier: "TAR.A0BAB27D768C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-12-19"
-last_updated: "2011-04-16"
+last_updated: "2011-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 department: "Lietuvos Respublikos Seimas"
@@ -2205,6 +2205,26 @@ laipsnio vyresniųjų karininkų, generolų ir admirolų skaičių, nuolatinių
 
 junginių, dalinių ir jiems prilygintų karinių vienetų skaičių.
 
+Antrosios
+
+pastraipos redakcija nuo 2011 m. rugsėjo 1 d.:
+
+Seimas, atsižvelgdamas į
+
+ilgalaikius nacionalinio saugumo užtikrinimo poreikius, įstatymu reglamentuoja
+
+krašto apsaugos sistemą, taip pat kiekvienais metais įstatymu nustato kitų metų
+
+principinę kariuomenės struktūrą ir ribinius karių, statutinių krašto apsaugos
+
+sistemos tarnautojų ir kiekvieno laipsnio vyresniųjų karininkų, generolų ir
+
+admirolų skaičius, taip pat principinės kariuomenės struktūros 6 metų
+
+planavimo gaires, karių ir civilinę krašto apsaugos tarnybą atliekančių
+
+statutinių valstybės tarnautojų ribinius skaičius.
+
 Seimas įgyvendina nacionalinio
 
 saugumo pagrindų nuostatas sukurdamas teisinę nacionalinio saugumo ir gynybos
@@ -2230,6 +2250,12 @@ IX-1524,
 Nr. IX-2030,
 
 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+
+Nr.
+
+XI-1515,
+
+2011-06-23, Žin., 2011, Nr. 86-4157 (2011-07-13)
 
 AntrasIS
 
@@ -2327,9 +2353,9 @@ pakeitimai:
 
 Nr.
 
-IX-1524,
+IX-1524, 2003-04-22,
 
-2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
+Žin., 2003, Nr. 42-1922 (2003-05-01)
 
 Nr. IX-2030,
 
@@ -2405,9 +2431,9 @@ IX-1524,
 
 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
-Nr. IX-2030,
+Nr. IX-2030, 2004-02-19,
 
-2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 18 skyrius
 
@@ -2767,13 +2793,13 @@ detalus biudžetas, ištekliai ir kita įstatymų numatyta informacija yra
 
 valstybės paslaptis.
 
-Seimas atlieka parlamentinę
+Seimas atlieka
 
-Valstybės saugumo departamento veiklos kontrolę. Ši kontrolė atliekama
+parlamentinę Valstybės saugumo departamento veiklos kontrolę. Ši kontrolė
 
-laikantis valstybės paslapčių apsaugos reikalavimų ir Seimo nustatytų specialių
+atliekama laikantis valstybės paslapčių apsaugos reikalavimų ir Seimo nustatytų
 
-procedūrų.
+specialių procedūrų.
 
 Skyriaus
 
@@ -2877,11 +2903,11 @@ Specialiųjų tyrimų tarnybos
 
 veiklą reglamentuoja įstatymai ir kiti teisės aktai.
 
-Seimas, laikydamasis
+Seimas,
 
-valstybės paslapčių apsaugos reikalavimų ir jo nustatytų specialių procedūrų,
+laikydamasis valstybės paslapčių apsaugos reikalavimų ir jo nustatytų specialių
 
-atlieka parlamentinę Specialiųjų tyrimų tarnybos veiklos kontrolę.
+procedūrų, atlieka parlamentinę Specialiųjų tyrimų tarnybos veiklos kontrolę.
 
 Skyriaus
 
@@ -2889,9 +2915,9 @@ pakeitimai:
 
 Nr.
 
-IX-1524, 2003-04-22,
+IX-1524,
 
-Žin., 2003, Nr. 42-1922 (2003-05-01)
+2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
 23 SKYRIUS
 
@@ -3075,9 +3101,9 @@ NACIONALINIO SAUGUMO PAGRINDŲ
 
 Šis Įstatymas įsigalioja kartu su Lietuvos
 
-Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
+Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
 
-Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
 
 2003 m. gegužės 1 d.
 
@@ -3129,9 +3155,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. IX-2554,
+Nr. IX-2554, 2004-11-09,
 
-2004-11-09, Žin., 2004, Nr. 171-6308 (2004-11-26)
+Žin., 2004, Nr. 171-6308 (2004-11-26)
 
 NACIONALINIO SAUGUMO PAGRINDŲ
 
@@ -3273,13 +3299,35 @@ NACIONALINIO
 
 SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 19 SKYRIAUS PAKEITIMO ĮSTATYMAS
 
-*** Pabaiga ***
+19.
 
-Redagavo Aušra
+Lietuvos
 
-Bodin (2011-04-20)
+Respublikos Seimas, Įstatymas
 
-aubodi@lrs.lt
+Nr.
+
+XI-1515,
+
+2011-06-23, Žin., 2011, Nr. 86-4157 (2011-07-13)
+
+NACIONALINIO
+
+SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 15 SKYRIAUS PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2011 m. rugsėjo 1 d.
+
+***
+
+Pabaiga ***
+
+Redagavo
+
+Aušrinė Trapinskienė (2011-07-26)
+
+ausrine.trapinskiene@lrs.lt
 
 – Konstitucijos 135 straipsnis, įpareigojantis Lietuvos Respubliką
 
