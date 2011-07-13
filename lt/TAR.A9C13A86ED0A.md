@@ -4,7 +4,7 @@ identifier: "TAR.A9C13A86ED0A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2011-06-14"
+last_updated: "2011-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A9C13A86ED0A"
 department: "Lietuvos Respublikos Seimas"
@@ -372,6 +372,10 @@ tarnautojų skaičių šiuose vienetuose nustato Lietuvos Respublikos tarptautin
 
 sutartys ar susitarimai dėl bendrų karinių vienetų steigimo.
 
+5
+
+dalies redakcija iki 2011-09-01
+
 5. Atlikti
 
 tarnybą tarptautinių operacijų kariniame vienete įstatymų ir kitų teisės
@@ -385,6 +389,24 @@ Pagrindinį karinį parengimą įgiję privalomosios karo tarnybos kariai
 tarptautinių operacijų kariniam vienetui gali būti priskirti jų mokymo ir
 
 rengimo tarptautinėms operacijoms tikslais.
+
+5
+
+dalies redakcija nuo 2011-09-01
+
+5. Atlikti
+
+tarnybą tarptautinių operacijų kariniame vienete įstatymų ir kitų teisės aktų
+
+nustatyta tvarka skiriami profesinės karo tarnybos kariai, kariai savanoriai ir
+
+kiti aktyviojo rezervo kariai, taip pat asmenys, atliekantys civilinę krašto
+
+apsaugos tarnybą. Pagrindinį karinį parengtumą įgiję privalomosios karo
+
+tarnybos kariai tarptautinių operacijų kariniam vienetui gali būti priskirti jų
+
+mokymo ir rengimo tarptautinėms operacijoms tikslais.
 
 6. Lietuvos
 
@@ -452,6 +474,12 @@ Nr. XI-288,
 
 2009-06-11, Žin., 2009, Nr. 75-3067 (2009-06-25)
 
+Nr.
+
+XI-1513,
+
+2011-06-23, Žin., 2011, Nr. 86-4155 (2011-07-13)
+
 5
 
 straipsnis. Kolektyvinės gynybos operacijos
@@ -492,13 +520,13 @@ Respublikos Seimas, Respublikos Prezidento teikimu priimdamas nutarimą.
 
 Respublikos, kitos arba kitų kolektyvinės gynybos sutarties šalių ginkluoto
 
-užpuolimo atveju Respublikos Prezidentas nedelsdamas priima sprendimą dėl gynybos
+užpuolimo atveju Respublikos Prezidentas nedelsdamas priima sprendimą dėl
 
-nuo ginkluotos agresijos, įskaitant sprendimą dalyvauti kolektyvinės gynybos
+gynybos nuo ginkluotos agresijos, įskaitant sprendimą dalyvauti kolektyvinės
 
-operacijoje, prireikus išsiųsti ir panaudoti Lietuvos karinius vienetus kitų
+gynybos operacijoje, prireikus išsiųsti ir panaudoti Lietuvos karinius vienetus
 
-valstybių teritorijose, leisti atvykti į Lietuvą ir joje panaudoti kitų
+kitų valstybių teritorijose, leisti atvykti į Lietuvą ir joje panaudoti kitų
 
 valstybių karinius vienetus bei imtis kitų priemonių, reikalingų kolektyvinės
 
@@ -534,9 +562,7 @@ Respublikos teritorijoje laikas nustatomas pagal Lietuvos Respublikos ir kitų
 
 kolektyvinės gynybos sutarties šalių ar kitų Lietuvos Respublikos sąjungininkių
 
-sutartis ar susitarimus bei bendrus kolektyvinės gynybos sutarties šalių
-
-sprendimus.
+sutartis ar susitarimus bei bendrus kolektyvinės gynybos sutarties šalių sprendimus.
 
 6
 
@@ -614,23 +640,23 @@ Lietuvos Respublikos teritorijoje laiką nustato Lietuvos Respublikos Seimas,
 
 Respublikos Prezidento teikimu priimdamas šio straipsnio 2 dalyje nurodytą
 
-nutarimą, arba šio straipsnio 3 dalyje nurodytu atveju – Respublikos
+nutarimą, arba šio straipsnio 3 dalyje nurodytu atveju – Respublikos Prezidentas
 
-Prezidentas ir Seimas, pagal šio straipsnio 4 dalį tvirtindamas Respublikos
+ir Seimas, pagal šio straipsnio 4 dalį tvirtindamas Respublikos Prezidento
 
-Prezidento sprendimą. Tikslų kitų valstybių teritorijose naudojamų kitos
+sprendimą. Tikslų kitų valstybių teritorijose naudojamų kitos operacijos
 
-operacijos tikslais Lietuvos Respublikos karinių vienetų dydį ir buvimo kitų
+tikslais Lietuvos Respublikos karinių vienetų dydį ir buvimo kitų valstybių
 
-valstybių teritorijose laiką, taip pat kitos operacijos tikslais Lietuvos
+teritorijose laiką, taip pat kitos operacijos tikslais Lietuvos Respublikos
 
-Respublikos teritorijoje naudojamų kitų valstybių karinių vienetų dydį ir
+teritorijoje naudojamų kitų valstybių karinių vienetų dydį ir buvimo Lietuvos
 
-buvimo Lietuvos Respublikos teritorijoje laiką nustato krašto apsaugos
+Respublikos teritorijoje laiką nustato krašto apsaugos ministras, neviršydamas
 
-ministras, neviršydamas Seimo nutarimu nustatyto ar patvirtinto maksimalaus
+Seimo nutarimu nustatyto ar patvirtinto maksimalaus dydžio ir maksimalios
 
-dydžio ir maksimalios trukmės.
+trukmės.
 
 6. Pagal šio
 
@@ -652,18 +678,6 @@ sutartį bei bendrus šios sutarties šalių sprendimus.
 
 straipsnis. Karo padėtis ir mobilizacija
 
-1. Priimant
-
-sprendimus dėl Lietuvos Respublikos dalyvavimo tarptautinėse operacijose,
-
-prireikus pagal Lietuvos Respublikos Konstituciją ir įstatymų
-
-nustatyta tvarka Lietuvos Respublikoje gali būti įvedama karo padėtis ir
-
-skelbiama mobilizacija.
-
-1 dalies redakcija nuo 2011 m. liepos 1 d.:
-
 1.
 
 Priimant sprendimus dėl Lietuvos Respublikos dalyvavimo tarptautinėse
@@ -674,11 +688,11 @@ operacijose, prireikus pagal Lietuvos Respublikos Konstituciją ir
 
 ir (ar) skelbiama mobilizacija.
 
-2. Kolektyvinės gynybos
+2. Kolektyvinės
 
-operacijos atveju taip pat taikomas Ginkluotos gynybos ir pasipriešinimo
+gynybos operacijos atveju taip pat taikomas Ginkluotos gynybos ir
 
-agresijai įstatymas.
+pasipriešinimo agresijai įstatymas.
 
 Straipsnio
 
@@ -702,11 +716,11 @@ su kitomis valstybėmis ar (ir) tarptautinėmis institucijomis:
 
 1) Lietuvos
 
-Respublikos teritorijoje gali būti rengiamos bendros Lietuvos Respublikos ir kitų
+Respublikos teritorijoje gali būti rengiamos bendros Lietuvos Respublikos ir
 
-valstybių karinių vienetų pratybos arba kitų valstybių karinių vienetų pratybos
+kitų valstybių karinių vienetų pratybos arba kitų valstybių karinių vienetų
 
-Lietuvos Respublikos krašto apsaugos sistemai skirtuose infrastruktūros
+pratybos Lietuvos Respublikos krašto apsaugos sistemai skirtuose infrastruktūros
 
 objektuose ir karinio mokymo teritorijose, taip pat organizuojami kiti
 
@@ -2358,6 +2372,28 @@ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO
 
 Šis įstatymas įsigalioja 2011 m. liepos 1 d.
 
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-1513,
+
+2011-06-23, Žin., 2011, Nr. 86-4155 (2011-07-13)
+
+TARPTAUTINIŲ
+
+OPERACIJŲ, PRATYBŲ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 4
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2011-09-01.
+
 ***
 
 Pabaiga ***
@@ -2378,11 +2414,13 @@ DĖL LIETUVOS RESPUBLIKOS
 
 TARPTAUTINIŲ OPERACIJŲ, PRATYBŲ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ
 
-ĮSTATYMO (2002 M. SAUSIO 15 D. REDAKCIJA) 5 STRAIPSNIO 1, 2, 3, 4 DALIŲ, 6 STRAIPSNIO
+ĮSTATYMO (2002 M. SAUSIO 15 D. REDAKCIJA) 5 STRAIPSNIO 1, 2, 3, 4 DALIŲ, 6
 
-2, 3, 4 DALIŲ, 10 STRAIPSNIO (2005 M. GEGUŽĖS 12 D. REDAKCIJA) 1, 2, 3 DALIŲ,
+STRAIPSNIO 2, 3, 4 DALIŲ, 10 STRAIPSNIO (2005 M. GEGUŽĖS 12 D. REDAKCIJA) 1, 2,
 
-14 STRAIPSNIO 2, 3, 5 DALIŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+3 DALIŲ, 14 STRAIPSNIO 2, 3, 5 DALIŲ ATITIKTIES LIETUVOS RESPUBLIKOS
+
+KONSTITUCIJAI
 
 ***
 
@@ -2390,7 +2428,7 @@ Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2011-06-27)
+Aušra Bodin (2011-07-15)
 
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
 
