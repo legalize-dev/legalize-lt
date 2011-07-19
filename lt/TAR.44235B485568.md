@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2010-06-10"
+last_updated: "2011-07-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -2661,9 +2661,9 @@ licencijuojamos veiklos sąlygų pažeidimus ir apie galimą licencijos, leidimo
 
 atestato galiojimo sustabdymą energetikos įmonė buvo įspėta šio straipsnio 16
 
-dalyje nustatyta tvarka ir per licenciją, leidimą ar atestatą išduodančios
+dalyje nustatyta tvarka ir per licenciją, leidimą ar atestatą
 
-institucijos nustatytą laikotarpį nepašalina nurodytų pažeidimų;
+išduodančios institucijos nustatytą laikotarpį nepašalina nurodytų pažeidimų;
 
 3) energetikos įmonės technologiniai, kvalifikaciniai
 
@@ -2737,29 +2737,29 @@ nepanaikintą teistumą arba dėl juridinio asmens dalyvio – juridinio asmens,
 
 turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per
 
-pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis
+pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo
 
-už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime,
+nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame
 
-nusikalstamų susivienijimų organizavimą arba vadovavimą jiems, kyšininkavimą,
+susivienijime, nusikalstamų susivienijimų organizavimą arba vadovavimą jiems,
 
-tarpininko kyšininkavimą, papirkimą, sukčiavimą, kreditinį sukčiavimą,
+kyšininkavimą, tarpininko kyšininkavimą, papirkimą, sukčiavimą, kreditinį
 
-nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi
+sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą
 
-ūkine, komercine, finansine ar profesine veikla, jeigu šios nusikalstamos
+vertimąsi ūkine, komercine, finansine ar profesine veikla, jeigu šios
 
-veikos padarytos disponuojant naftos produktais;
+nusikalstamos veikos padarytos disponuojant naftos produktais;
 
 7) energetikos
 
-įmonė, turinti licenciją verstis mažmenine prekyba nefasuotais naftos produktais,
+įmonė, turinti licenciją verstis mažmenine prekyba nefasuotais naftos
 
-nuosavybės teisę į degalinę perduoda kitiems asmenims arba pasibaigia sutartis,
+produktais, nuosavybės teisę į degalinę perduoda kitiems asmenims arba
 
-kurios pagrindu buvo naudojamasi degaline, arba nebevykdo veiklos šioje
+pasibaigia sutartis, kurios pagrindu buvo naudojamasi degaline, arba nebevykdo
 
-degalinėje;
+veiklos šioje degalinėje;
 
 8) energetikos įmonė pateikė prašymą panaikinti
 
@@ -3069,11 +3069,11 @@ kontrolė atliekama visoje Lietuvos Respublikos teritorijoje neatsižvelgiant į
 
 nuosavybės valdymo formą.
 
-2. Valstybinę energetikos kontrolę nustatyta
+2. Valstybinę energetikos kontrolę
 
-tvarka atlieka Valstybinė energetikos inspekcija prie Energetikos ministerijos
+nustatyta tvarka atlieka Valstybinė energetikos inspekcija prie Energetikos
 
-(toliau – Valstybinė energetikos inspekcija).
+ministerijos (toliau – Valstybinė energetikos inspekcija).
 
 3. Valstybinė energetikos inspekcija yra
 
@@ -3149,6 +3149,22 @@ Valstybinės atominės energetikos saugos inspekcijos kompetenciją nustato
 
 Branduolinės energijos įstatymas.
 
+6 dalies redakcija nuo 2011 m. spalio 1
+
+d.:
+
+6. Branduolinės
+
+energetikos objektų saugos ir branduolinių medžiagų apskaitos kontrolę ir
+
+valstybinę priežiūrą atlieka Valstybinė atominės energetikos saugos inspekcija.
+
+Valstybinės atominės energetikos saugos inspekcijos kompetenciją nustato
+
+Branduolinės energijos įstatymas, Branduolinės saugos įstatymas, Radiacinės
+
+saugos įstatymas ir Radioaktyviųjų atliekų tvarkymo įstatymas.
+
 7. Valstybinė
 
 energetikos inspekcija nekontroliuoja, ar darbuotojai laikosi saugos ir
@@ -3161,9 +3177,13 @@ Nr. IX-1644,
 
 2003-06-24, Žin., 2003, Nr. 69-3118 (2003-07-10)
 
-Nr. XI-130, 2009-01-12,
+Nr. XI-130,
 
-Žin., 2009, Nr. 10-352 (2009-01-27)
+2009-01-12, Žin., 2009, Nr. 10-352 (2009-01-27)
+
+Nr. XI-1542,
+
+2011-06-28, Žin., 2011, Nr. 91-4319 (2011-07-19)
 
 19
 
@@ -3181,15 +3201,17 @@ institucijoms, įstaigoms, atitinkamoms asociacijoms ir trečiosioms šalims.
 
 2. Vyriausybė ar
 
-jos įgaliotos institucijos teikia informaciją apie energetiką Europos
+jos įgaliotos institucijos teikia informaciją apie energetiką Europos Komisijai,
 
-Komisijai, kitoms šalims ir tarptautinėms organizacijoms.
+kitoms šalims ir tarptautinėms organizacijoms.
 
-3. Apie valstybinės svarbos energetikos objektų statybos ir
+3. Apie
 
-naudojimo pradžią šiuos objektus nuosavybės teise turinčios ar kitais būdais
+valstybinės svarbos energetikos objektų statybos ir naudojimo pradžią šiuos
 
-valdančios energetikos įmonės privalo informuoti Energetikos ministeriją.
+objektus nuosavybės teise turinčios ar kitais būdais valdančios energetikos
+
+įmonės privalo informuoti Energetikos ministeriją.
 
 4. Energetikos
 
@@ -3289,9 +3311,7 @@ sistemų, kuriose įrengti 20 kW ir didesnės vardinės atiduodamosios galios
 
 kartą, kai šildymo sistemoje įrengto katilo tikrinimo pagal šios dalies 1 ir 2
 
-punktų reikalavimus metu nuo šio katilo pagaminimo yra praėję daugiau kaip 15
-
-metų;
+punktų reikalavimus metu nuo šio katilo pagaminimo yra praėję daugiau kaip 15 metų;
 
 4) pastatuose įrengtų didesnės kaip 12 kW vardinės
 
@@ -3709,11 +3729,9 @@ Energetikos įmonės, turinčios daugiau kaip 5 MW galios
 
 atsargas. Energijos išteklių rezervinės atsargos kaupiamos, laikomos,
 
-atnaujinamos energetikos įmonių bei kitomis lėšomis. Energijos išteklių
+atnaujinamos energetikos įmonių bei kitomis lėšomis. Energijos išteklių rezervinių
 
-rezervinių atsargų kiekis turi būti ne mažesnis, negu yra suvartojama per 1
-
-mėnesį.
+atsargų kiekis turi būti ne mažesnis, negu yra suvartojama per 1 mėnesį.
 
 23 straipsnis. Energijos apskaita
 
@@ -3737,13 +3755,13 @@ ir eksploatuoja perdavimo, skirstymo ar laikymo energetikos objektus
 
 nuosavybės teise turinčios ar kitais būdais juos valdančios energetikos įmonės.
 
-4. Energijos matavimo priemones tarp energetikos
+4. Energijos matavimo priemones tarp energetikos objektų
 
-objektų įrengia ir eksploatuoja energiją perduodančios energetikos objektus
+įrengia ir eksploatuoja energiją perduodančios energetikos objektus nuosavybės
 
-nuosavybės teise turinčios ar kitais būdais juos valdančios energetikos įmonės
+teise turinčios ar kitais būdais juos valdančios energetikos įmonės savo
 
-savo lėšomis.
+lėšomis.
 
 24 straipsnis. Energijos tranzitas
 
@@ -3765,9 +3783,9 @@ energetikos įmonės teikia Komisijai ir Energetikos ministerijai informaciją
 
 apie kiekvieną tranzito pareikalavimą, sudarytas tranzito sutartis ir
 
-atsisakymus jas sudaryti. Atsisakymas sudaryti tranzito sutartį turi būti
+atsisakymus jas sudaryti. Atsisakymas sudaryti tranzito sutartį
 
-tinkamai motyvuotas.
+turi būti tinkamai motyvuotas.
 
 Straipsnio pakeitimai:
 
@@ -3799,11 +3817,13 @@ atskiro Vyriausybės nutarimo įvedama ir ekstremali
 
 energetikos padėtis.
 
-3. Energetikos įmonės nustatyta tvarka
+3. Energetikos
 
-privalo pranešti savivaldybėms, Energetikos ministerijai apie energijos tiekimo
+įmonės nustatyta tvarka privalo pranešti savivaldybėms, Energetikos
 
-sumažėjimą ir priemones tiekimui atnaujinti.
+ministerijai apie energijos tiekimo sumažėjimą ir priemones tiekimui
+
+atnaujinti.
 
 4. Įvedus ekstremalią energetikos padėtį, energijos
 
@@ -3997,15 +4017,15 @@ užkirto kelią žalingoms pažeidimo pasekmėms, padėjo išaiškinti pažeidim
 
 aplinkybes, nedelsdama ėmėsi priemonių pašalinti pažeidimą.
 
-4. Atsakomybę sunkinančiomis aplinkybėmis
+4. Atsakomybę sunkinančiomis
 
-laikoma tai, kad energetikos įmonė kliudė nustatyti pažeidimo aplinkybes, slėpė
+aplinkybėmis laikoma tai, kad energetikos įmonė kliudė nustatyti pažeidimo
 
-įvykdytą pažeidimą, tęsė pažeidimą, nepaisydama Komisijos nurodymo nutraukti
+aplinkybes, slėpė įvykdytą pažeidimą, tęsė pažeidimą, nepaisydama Komisijos
 
-neteisėtą veiklą, arba įvykdė pažeidimą, dėl kurio energetikos įmonė buvo
+nurodymo nutraukti neteisėtą veiklą, arba įvykdė pažeidimą, dėl kurio energetikos
 
-bausta pinigine bauda.
+įmonė buvo bausta pinigine bauda.
 
 5. Komisija, nustatydama piniginės
 
@@ -4073,9 +4093,9 @@ kurios nevykdymą paskirta piniginė bauda, vykdymo.
 
 valstybės biudžetą sumokama Komisijos nustatyta tvarka ir terminais. Komisijos
 
-nutarimas per 30 dienų nuo jo priėmimo dienos įstatymų nustatyta tvarka gali
+nutarimas per 30 dienų nuo jo priėmimo dienos įstatymų nustatyta tvarka gali būti
 
-būti apskundžiamas teismui. Komisijos nutarimas dėl piniginės baudos skyrimo
+apskundžiamas teismui. Komisijos nutarimas dėl piniginės baudos skyrimo
 
 įsigalioja po 30 dienų nuo nutarimo priėmimo dienos, jei per tą laiką įstatymų
 
@@ -4099,9 +4119,9 @@ protingumo kriterijais, turi teisę skirti mažesnę piniginę baudą.
 
 Straipsnio pakeitimai:
 
-Nr. X-1767, 2008-11-06,
+Nr. X-1767,
 
-Žin., 2008, Nr. 135-5228 (2008-11-25)
+2008-11-06, Žin., 2008, Nr. 135-5228 (2008-11-25)
 
 SEPTINTASIS
 
@@ -4939,9 +4959,9 @@ Nr. X-1108,
 
 2007-05-03, Žin., 2007, Nr. 55-2124 (2007-05-19)
 
-Nr. X-1767,
+Nr. X-1767, 2008-11-06,
 
-2008-11-06, Žin., 2008, Nr. 135-5228 (2008-11-25)
+Žin., 2008, Nr. 135-5228 (2008-11-25)
 
 ________________
 
@@ -5057,11 +5077,27 @@ ENERGETIKOS
 
 ĮSTATYMO 2, 6, 7(1), 16, 19, 21, 26 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1542,
+
+2011-06-28, Žin., 2011, Nr. 91-4319 (2011-07-19)
+
+ENERGETIKOS ĮSTATYMO 18 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2011 m. spalio
+
+1 d.
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2010-06-11)
+(2011-07-29)
 
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
