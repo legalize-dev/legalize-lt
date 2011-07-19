@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2010-06-17"
+last_updated: "2011-07-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -467,32 +467,6 @@ rengia šias schemas ir priemones, numato jų įgyvendinimo (taikymo) mechanizm�
 
 kontroliuoja, kaip jos vykdomos (taikomos);
 
-3 punkto redakcija iki 2010 m.
-
-liepos 1 d.:
-
-3) rengia įstatymų, Lietuvos Respublikos Vyriausybės
-
-nutarimų ir kitų teisės aktų aplinkos apsaugos ir gamtos išteklių naudojimo
-
-klausimais projektus, organizuoja bendrųjų, specialiųjų bei detaliųjų
-
-teritorinio planavimo dokumentų aplinkos apsaugos klausimais rengimą, pagal
-
-savo kompetenciją derina ministerijų, kitų Vyriausybės įstaigų, apskrities,
-
-vietos savivaldos, kitų institucijų teisės aktų, reguliuojančių ūkinę ir
-
-kitokią veiklą, galinčią turėti poveikio aplinkai, projektus bei teritorinio
-
-planavimo dokumentus, kad jie atitiktų aplinkos apsaugos įstatymus ir kitus
-
-teisės aktus;
-
-3 punkto redakcija nuo 2010 m.
-
-liepos 1 d.:
-
 3) rengia įstatymų, Lietuvos Respublikos Vyriausybės
 
 nutarimų ir kitų teisės aktų aplinkos apsaugos ir gamtos išteklių naudojimo
@@ -550,6 +524,18 @@ paskleidžiamų) į aplinką teršalų (ir radioaktyviųjų medžiagų) normas b
 apskaitos tvarką, nustato leidimų išmesti (išleisti, paskleisti) teršalus (ir
 
 radioaktyvąsias medžiagas) išdavimo tvarką;
+
+8 punkto redakcija nuo 2011 m.
+
+spalio 1 d.:
+
+8) nustato ir kontroliuoja išmetamų (išleidžiamų,
+
+paskleidžiamų) į aplinką teršalų (išskyrus radionuklidus) normas bei apskaitos
+
+tvarką, nustato leidimų išmesti (išleisti, paskleisti) teršalus (išskyrus
+
+radionuklidus) išdavimo tvarką;
 
 9) nustato pavojingų cheminių medžiagų ir pavojingų
 
@@ -717,6 +703,10 @@ XI-783,
 
 2010-04-27, Žin., 2010, Nr. 54-2646 (2010-05-11)
 
+Nr. XI-1538,
+
+2011-06-28, Žin., 2011, Nr. 91-4315 (2011-07-19)
+
 II SKYRIUS. LIETUVOS RESPUBLIKOS PILIEČIŲ,
 
 SUINTERESUOTOS VISUOMENĖS, KITŲ JURIDINIŲ IR FIZINIŲ ASMENŲ TEISĖS IR PAREIGOS
@@ -807,9 +797,7 @@ Lietuvos Respublikos įstatymų nustatyta tvarka kreiptis į teismą dėl viešo
 
 intereso gynimo užginčijant sprendimų, veiksmų ar neveikimo aplinkos ir jos
 
-apsaugos bei gamtos išteklių naudojimo srityje materialinį ar procesinį
-
-teisėtumą.
+apsaugos bei gamtos išteklių naudojimo srityje materialinį ar procesinį teisėtumą.
 
 Straipsnio pakeitimai:
 
@@ -1149,9 +1137,9 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093
+Nr. VIII-1637, 00.04.18, Žin., 2000,
 
-(00.05.12)
+Nr.39-1093 (00.05.12)
 
 16 straipsnis. Ūkinės veiklos, galinčios
 
@@ -1161,9 +1149,9 @@ Juridinių
 
 bei fizinių asmenų ūkinės veiklos, galinčios turėti poveikį aplinkai,
 
-teritorinis organizavimas ir aplinkos tvarkymo valstybinis reguliavimas vykdomas
+teritorinis organizavimas ir aplinkos tvarkymo valstybinis reguliavimas
 
-pagal bendrojo ir specialiojo teritorinio planavimo dokumentus.
+vykdomas pagal bendrojo ir specialiojo teritorinio planavimo dokumentus.
 
 Juridiniai
 
@@ -1207,15 +1195,13 @@ projektinę dokumentaciją.
 
 Ūkinės
 
-veiklos objektų statyba, rekonstravimas ar plėtimas be projektinės
+veiklos objektų statyba, rekonstravimas ar plėtimas be projektinės dokumentacijos,
 
-dokumentacijos, numatytos šio įstatymo 16 straipsnyje, arba nesilaikant joje
+numatytos šio įstatymo 16 straipsnyje, arba nesilaikant joje nustatytų aplinkos
 
-nustatytų aplinkos apsaugos reikalavimų, pažeidžiant statybos, rekonstravimo ar
+apsaugos reikalavimų, pažeidžiant statybos, rekonstravimo ar plėtimo darbų
 
-plėtimo darbų aplinkosauginius apribojimus užtraukia įstatymų numatytą
-
-atsakomybę.
+aplinkosauginius apribojimus užtraukia įstatymų numatytą atsakomybę.
 
 Atsakomybės
 
@@ -1251,9 +1237,9 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-Nr. IX-2113, 2004-04-13,
+Nr. IX-2113,
 
-Žin., 2004, Nr. 60-2121 (2004-04-24)
+2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 
 19 straipsnis. Ūkinės veiklos objektų
 
@@ -1317,11 +1303,11 @@ Juridiniai
 
 ir fiziniai asmenys, naudodami pavojingas chemines medžiagas, privalo laikytis
 
-nustatytos šių medžiagų naudojimo, saugojimo, apskaitos, laidojimo, nukenksminimo,
+nustatytos šių medžiagų naudojimo, saugojimo, apskaitos, laidojimo,
 
-transportavimo, tranzito, įvežimo ir išvežimo tvarkos. Tokios medžiagos
+nukenksminimo, transportavimo, tranzito, įvežimo ir išvežimo tvarkos. Tokios
 
-saugomos, laidojamos ir nukenksminamos jų gamintojo ar naudotojo lėšomis.
+medžiagos saugomos, laidojamos ir nukenksminamos jų gamintojo ar naudotojo lėšomis.
 
 Pavojingų
 
@@ -1343,9 +1329,9 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-Nr. IX-2113,
+Nr. IX-2113, 2004-04-13,
 
-2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
+Žin., 2004, Nr. 60-2121 (2004-04-24)
 
 21 straipsnis.
 
@@ -1375,11 +1361,9 @@ Respublikoje draudžiama branduolinio ginklo gamyba, dislokavimas, tranzitas ir
 
 įvežimas.
 
-Straipsnio pakeitimai:
+Straipsnio redakcija nuo 2011
 
-Nr. I-1352,
-
-96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
+m. spalio 1 d.:
 
 22 straipsnis. Biologiniai taršos
 
@@ -1467,9 +1451,9 @@ Nr. VIII-310,
 
 97.06.26, Žin., 1997, Nr.65-1540 (97.07.09)
 
-Nr. IX-2113,
+Nr. IX-2113, 2004-04-13,
 
-2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
+Žin., 2004, Nr. 60-2121 (2004-04-24)
 
 Nr. X-147, 2005-03-24,
 
@@ -1901,11 +1885,11 @@ Aplinkos ministerija arba jos įgaliota institucija bet
 
 kuriuo momentu turi teisę ir pareigą:
 
-1) reikalauti, kad ūkio subjektas pateiktų visą informaciją
+1) reikalauti, kad ūkio subjektas pateiktų visą
 
-apie bet kurią situaciją, kurios metu atsirado žala aplinkai arba jos grėsmė
+informaciją apie bet kurią situaciją, kurios metu atsirado žala aplinkai arba
 
-arba kai įtariama, kad tokia situacija gali atsirasti;
+jos grėsmė arba kai įtariama, kad tokia situacija gali atsirasti;
 
 2) reikalauti, kad ūkio subjektas imtųsi būtinų
 
@@ -1917,9 +1901,9 @@ atitinkamam subjektui nurodymus dėl visų veiksmų, susijusių su teršalų
 
 surinkimu ir (arba) kitokių darančių žalą aplinkai veiksnių pašalinimu,
 
-kontrole ar kitokiu jų valdymu, kad būtų išvengta žalos arba sumažinta žala aplinkai
+kontrole ar kitokiu jų valdymu, kad būtų išvengta žalos arba sumažinta žala
 
-ir neigiamas poveikis žmonių sveikatai;
+aplinkai ir neigiamas poveikis žmonių sveikatai;
 
 4) duoti ūkio subjektui privalomus vykdyti nurodymus
 
@@ -1933,11 +1917,11 @@ Jeigu ūkio subjektas nevykdo šiame straipsnyje
 
 numatytų pareigų ar neprivalo atlyginti prevencinių ir (arba) aplinkos atkūrimo
 
-priemonių išlaidų arba nėra nustatytas atsakingas už žalą aplinkai asmuo,
+priemonių išlaidų arba nėra nustatytas atsakingas už žalą aplinkai asmuo, savivaldybės
 
-savivaldybės ir (arba) valstybės įgaliotos institucijos pagal kompetenciją
+ir (arba) valstybės įgaliotos institucijos pagal kompetenciją pačios ar per
 
-pačios ar per trečiuosius asmenis vykdo būtinas priemones.
+trečiuosius asmenis vykdo būtinas priemones.
 
 Aplinkos atkūrimo priemonės vykdomos tik turint
 
@@ -2055,9 +2039,9 @@ Nr. X-147, 2005-03-24,
 
 Žin., 2005, Nr. 47-1558 (2005-04-12)
 
-35 straipsnis. Lietuvos Respublikos
+35 straipsnis. Lietuvos Respublikos tarptautinis
 
-tarptautinis bendradarbiavimas aplinkos
+bendradarbiavimas aplinkos
 
 apsaugos  klausimais
 
@@ -2119,9 +2103,9 @@ apsaugos normas.
 
 Lietuvos Respublikos
 
-tarptautinėse sutartyse aplinkos apsaugos klausimais įtvirtinamos taisyklės
+tarptautinėse sutartyse aplinkos apsaugos klausimais įtvirtinamos taisyklės turi
 
-turi atitikti Lietuvos Respublikoje nustatytus aplinkos kokybės normatyvus ir
+atitikti Lietuvos Respublikoje nustatytus aplinkos kokybės normatyvus ir
 
 standartus.
 
@@ -2203,7 +2187,9 @@ Pakeitimai:
 
 1.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+
+Įstatymas
 
 Nr. I-1352,
 
@@ -2277,9 +2263,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1610,
+Nr. IX-1610, 2003-06-10,
 
-2003-06-10, Žin., 2003, Nr. 61-2763 (2003-06-27)
+Žin., 2003, Nr. 61-2763 (2003-06-27)
 
 APLINKOS
 
@@ -2389,9 +2375,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. XI-858, 2010-05-28,
+Nr. XI-858,
 
-Žin., 2010, Nr. 70-3472 (2010-06-17)
+2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
 
 APLINKOS
 
@@ -2399,13 +2385,31 @@ APSAUGOS ĮSTATYMO 1, 7, 8, 9 STRAIPSNIŲ, II SKYRIAUS PAVADINIMO IR PRIEDO
 
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+13.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. XI-1538,
+
+2011-06-28, Žin., 2011, Nr. 91-4315 (2011-07-19)
+
+APLINKOS APSAUGOS ĮSTATYMO 6 IR
+
+21 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2011 m.
+
+spalio 1 d.
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2010-06-17)
+(2011-08-02)
 
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 27 straipsnis. Planų ir
 
@@ -2459,13 +2463,13 @@ neatsižvelgiant į jų kaltę, už bet kokią žalą aplinkai arba realią jos 
 
 atsiradusią dėl jų ūkinės veiklos, išskyrus šiame įstatyme numatytus atvejus.
 
-Šio straipsnio antrojoje dalyje nurodyta civilinė atsakomybė
+Šio straipsnio antrojoje dalyje nurodyta civilinė
 
-netaikoma asmenims, vykdantiems veiklą, kurios pagrindinė paskirtis – krašto
+atsakomybė netaikoma asmenims, vykdantiems veiklą, kurios pagrindinė paskirtis
 
-apsauga arba tarptautinis saugumas bei kurios vienintelė paskirtis – apsauga
+– krašto apsauga arba tarptautinis saugumas bei kurios vienintelė paskirtis –
 
-nuo stichinių nelaimių.
+apsauga nuo stichinių nelaimių.
 
 Ginčus
 
