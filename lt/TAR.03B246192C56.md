@@ -4,7 +4,7 @@ identifier: "TAR.03B246192C56"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-12-02"
-last_updated: "2010-07-20"
+last_updated: "2011-07-19"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.03B246192C56"
 department: "Lietuvos Respublikos Seimas"
@@ -1400,6 +1400,8 @@ komisijos ar tarybos administracijos
 
 direktorius,
 
+generalinis inspektorius,
+
 gynybos
 
 patarėjas,
@@ -1411,8 +1413,6 @@ teismo pirmininko patarėjas
 ambasadorius
 
 ypatingiems pavedimams,
-
-generalinis inspektorius,
 
 įgaliotasis ministras,
 
@@ -2522,6 +2522,8 @@ komisijos ar tarybos administracijos
 
 direktorius,
 
+generalinis inspektorius,
+
 gynybos
 
 patarėjas,
@@ -2533,8 +2535,6 @@ teismo pirmininko patarėjas
 ambasadorius
 
 ypatingiems pavedimams,
-
-generalinis inspektorius,
 
 įgaliotasis ministras,
 
@@ -3454,6 +3454,10 @@ Nr. XI-979,
 
 2010-07-02, Žin., 2010, Nr. 86-4530 (2010-07-20)
 
+Nr. XI-1555,
+
+2011-06-28, Žin., 2011, Nr. 91-4330 (2011-07-19)
+
 2
 
 straipsnis. Įstatymo įgyvendinimas
@@ -3502,9 +3506,9 @@ valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2012 m. s
 
 Straipsnio pakeitimai:
 
-Nr. XI-979,
+Nr. XI-979, 2010-07-02,
 
-2010-07-02, Žin., 2010, Nr. 86-4530 (2010-07-20)
+Žin., 2010, Nr. 86-4530 (2010-07-20)
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -3552,13 +3556,31 @@ TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1, 2 IR 3 STRAIPSNIŲ PAKEITIMO
 
 ĮSTATYMAS
 
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1555,
+
+2011-06-28, Žin., 2011, Nr. 91-4330 (2011-07-19)
+
+VALSTYBĖS
+
+TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šio įstatymo 1
+
+straipsnio 1 dalis įsigalioja 2012 m. sausio 1 d.
+
+Šio įstatymo 1 straipsnio 2 dalis
+
+įsigalioja 2013 m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo Aušrinė Trapinskienė
+Redagavo Aušrinė Trapinskienė (2011-07-25)
 
-(2010-07-20)
-
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 2 straipsnis. Įstatymo įgyvendinimas
 
