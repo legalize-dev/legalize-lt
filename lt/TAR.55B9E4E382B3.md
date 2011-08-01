@@ -4,7 +4,7 @@ identifier: "TAR.55B9E4E382B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-04-10"
-last_updated: "2011-04-16"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.55B9E4E382B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -244,9 +244,9 @@ kairiojo peties kabo mėlynas skydas su dvigubu geltonu (auksiniu) kryžiumi.
 
 balno kilpa ir pentinas, makšties bei žirgo aprangos metaliniai sutvirtinimai
 
-ir pasagos geltoni (auksiniai). Lietuvos valstybės herbo etalono piešinys pateiktas
+ir pasagos geltoni (auksiniai). Lietuvos valstybės herbo etalono piešinys
 
-šio įstatymo 1 priede.
+pateiktas šio įstatymo 1 priede.
 
 2. Lietuvos heraldikos komisija rengia ir teikia
 
@@ -452,9 +452,9 @@ Respublikos Aukščiausiojo Teismo, jo senato ir kitų teismų posėdžių salė
 
 Respublikos vyriausiosios rinkimų komisijos posėdžių salėje;
 
-6) Lietuvos
+6) Lietuvos Respublikos
 
-Respublikos Seimo Pirmininko darbo kabinete;
+Seimo Pirmininko darbo kabinete;
 
 7) Respublikos
 
@@ -490,19 +490,19 @@ bei jų padalinių, specialiųjų misijų, esančių užsienio valstybėse, vado
 
 kabinetuose.
 
-5. Lietuvos Respublikos įstatymuose gali būti numatyta ir kitų
+5. Lietuvos Respublikos įstatymuose gali būti numatyta ir kitų juridinių
 
-juridinių asmenų, turinčių teisę naudoti Lietuvos valstybės herbą, taip pat
+asmenų, turinčių teisę naudoti Lietuvos valstybės herbą, taip pat kitų Lietuvos
 
-kitų Lietuvos valstybės herbo naudojimo atvejų.
+valstybės herbo naudojimo atvejų.
 
-6. Antspaudų su Lietuvos valstybės herbu apyvartos kontrolę nustato
+6. Antspaudų su Lietuvos
+
+valstybės herbu apyvartą reglamentuoja Lietuvos Respublikos antspaudų apyvartos
 
 įstatymas.
 
-Straipsnio
-
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. XI-745,
 
@@ -514,15 +514,21 @@ XI-1305,
 
 2011-03-31, Žin., 2011, Nr. 46-2157 (2011-04-16)
 
+Nr.
+
+XI-1396,
+
+2011-05-19, Žin., 2011, Nr. 68-3225 (2011-06-04)
+
 6
 
 straipsnis. Lietuvos nacionaliniai simboliai
 
 1. Lietuvos
 
-istoriniai nacionaliniai simboliai yra dvigubas kryžius ir Gediminaičių
+istoriniai nacionaliniai simboliai yra dvigubas kryžius ir Gediminaičių stulpai.
 
-stulpai. Jų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos
+Jų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos
 
 Prezidentas.
 
@@ -628,7 +634,19 @@ atvaizduojamas atitinkamos savivaldybės miesto, miestelio ar kaimo herbas.
 
 7. Antspaudų su
 
-savivaldybės herbu apyvartos kontrolę nustato įstatymas.
+savivaldybės herbu apyvartą reglamentuoja Lietuvos Respublikos antspaudų
+
+apyvartos įstatymas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XI-1396,
+
+2011-05-19, Žin., 2011, Nr. 68-3225 (2011-06-04)
 
 KETVIRTASIS SKIRSNIS
 
@@ -831,24 +849,6 @@ išskirti subjektą, kuriam jis sukurtas.
 vėliava – teisės aktų nustatyta tvarka sukurta ir patvirtinta vėliava,
 
 kurios pagrindą sudaro herbas arba herbo figūra ir jų spalvos.
-
-6
-
-dalies redakcija iki 2010 m. liepos 1 d.:
-
-6. Herbinis
-
-antspaudas
-
-– šio įstatymo nustatyta tvarka patvirtintas ženklas su Lietuvos valstybės,
-
-apskrities, savivaldybės, miesto, miestelio ar kaimo herbu, skirtas šių
-
-subjektų dokumentų tikrumui ir juos išdavusiam subjektui patvirtinti.
-
-6
-
-dalies redakcija nuo 2010 m. liepos 1 d.:
 
 6. Herbinis
 
@@ -1058,9 +1058,9 @@ Prezidentas. Komisijos narių kadencijų skaičius neribojamas.
 
 reputacijos Lietuvos Respublikos piliečiai, turintys aukštąjį universitetinį
 
-išsilavinimą ir ne mažesnį kaip trejų metų heraldikos ar jai artimos srities  mokslinio
+išsilavinimą ir ne mažesnį kaip trejų metų heraldikos ar jai artimos srities
 
-ar praktinio darbo patirtį.
+mokslinio ar praktinio darbo patirtį.
 
 3.
 
@@ -1128,9 +1128,9 @@ heraldikos norminimo klausimus, atsižvelgdama į Lietuvos heraldikos tradicijas
 
 tarptautinę patirtį ir heraldikos mokslo tendencijas;
 
-4) ugdo pagarbą heraldikos simbolikai,
+4) ugdo pagarbą heraldikos
 
-propaguoja heraldikos žinias;
+simbolikai, propaguoja heraldikos žinias;
 
 5) nustato taisykles,
 
@@ -1200,11 +1200,11 @@ Respublikos institucijų, įstaigų, įmonių, organizacijų apie heraldikos obj
 
 naudojimą;
 
-2) neatlygintinai
+2)
 
-naudotis valstybės archyvuose, muziejuose ir bibliotekose saugoma istorine
+neatlygintinai naudotis valstybės archyvuose, muziejuose ir bibliotekose
 
-heraldikos medžiaga istoriniams herbams atkurti;
+saugoma istorine heraldikos medžiaga istoriniams herbams atkurti;
 
 3) teisės aktų
 
@@ -1284,7 +1284,7 @@ Lietuvos Respublikos Vyriausybės įgaliotos institucijos, vadovaudamosi šiuo
 
 įstatymu ir kitais norminiais teisės aktais.
 
-Punkto pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. XI-324,
 
@@ -1556,13 +1556,33 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. XI-1305, 2011-03-31,
+Nr. XI-1305,
 
-Žin., 2011, Nr. 46-2157 (2011-04-16)
+2011-03-31, Žin., 2011, Nr. 46-2157 (2011-04-16)
 
 VALSTYBĖS
 
 HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1396,
+
+2011-05-19, Žin., 2011, Nr. 68-3225 (2011-06-04)
+
+VALSTYBĖS
+
+HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMO 5 IR 8 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2011 m. rugpjūčio 1 d.
 
 ***
 
@@ -1570,7 +1590,7 @@ Pabaiga ***
 
 Redagavo
 
-Aušra Bodin (2011-04-20)
+Aušra Bodin (2011-06-06)
 
 aubodi@lrs.lt
 
