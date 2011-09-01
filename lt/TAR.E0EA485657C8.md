@@ -4,7 +4,7 @@ identifier: "TAR.E0EA485657C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2010-07-01"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2011-08-31
+Suvestinė redakcija nuo 2011-09-01 iki 2012-05-02
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
 
@@ -168,7 +168,11 @@ Siekdama šio įstatymo 7 straipsnyje nustatytų tikslų, LŠS įgyvendina šiuo
 
 1) rengia šaulius ginkluotai valstybės gynybai ir pilietiniam pasipriešinimui, o ginkluotos gynybos nuo agresijos (karo) metu dalyvauja ginkluotoje valstybės gynyboje ir pilietiniame pasipriešinime;
 
-2) prisideda prie savanoriško Lietuvos Respublikos piliečių karinio rengimo ir padeda kariuomenei atrinkti Lietuvos Respublikos piliečius į profesinę ir savanorių karo tarnybą;
+2) prisideda prie savanoriško Lietuvos Respublikos piliečių karinio rengimo ir padeda kariuomenei atrinkti Lietuvos Respublikos piliečius į profesinę karo tarnybą ir savanorių karo tarnybą ar kitą tarnybą aktyviajame rezerve;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
 
 3) stiprina visuomenės ryšius su krašto apsaugos sistemos institucijomis, prisideda prie kariuomenės autoriteto ir karo tarnybos prestižo didinimo;
 
@@ -402,7 +406,11 @@ LŠS centrinės institucijos yra:
 
 1. LŠS vadas yra aukščiausiasis LŠS pareigūnas, vadovaujantis LŠS veiklai ir atstovaujantis LŠS. LŠS vadas užtikrina LŠS tikslų ir uždavinių įgyvendinimą ir funkcijų vykdymą, taip pat LŠS veiklos strategijos ir kitų LŠS suvažiavimo sprendimų vykdymą, LŠS vidaus tvarką, teisėtą ir ekonomišką LŠS turto ir lėšų naudojimą.
 
-2. LŠS vadu gali būti skiriamas aukštąjį išsilavinimą ir ne žemesnį kaip majoro (komandoro leitenanto) laipsnį turintis profesinės ar savanorių karo tarnybos arba atsargos karys LŠS narys.
+2. LŠS vadu gali būti skiriamas aukštąjį išsilavinimą ir ne žemesnį kaip majoro (komandoro leitenanto) laipsnį turintis profesinės karo tarnybos, tarnybą rezerve atliekantis ar atsargos karys LŠS narys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
 
 3. LŠS vadu paskirtas asmuo privalo sustabdyti narystę politinėje partijoje.
 
@@ -414,11 +422,23 @@ LŠS centrinės institucijos yra:
 
 7. Jeigu į LŠS vado pareigas skiriamas šaulys yra profesinės karo tarnybos karys, jis perkeliamas į šias pareigas ir pasibaigus įgaliojimų terminui atleidžiamas iš jų Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka. Nesibaigus įgaliojimų terminui, LŠS vadas, kuris yra profesinės karo tarnybos karys, atleidžiamas iš LŠS vado pareigų krašto apsaugos ministro įsakymu, nutraukus su juo profesinės karo tarnybos sutartį Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytais pagrindais, taip pat LŠS vadui išstojus iš LŠS, pašalinus jį iš LŠS ar LŠS suvažiavimui pareiškus nepasitikėjimą LŠS vadu.
 
-8. Jeigu į LŠS vado pareigas skiriamas šaulys yra savanorių karo tarnybos ar atsargos karys, LŠS vado įgaliojimų terminui jis sudaro terminuotą darbo sutartį su Krašto apsaugos ministerija. Pasibaigus įgaliojimų terminui, darbo sutartis su LŠS vadu nutraukiama ir krašto apsaugos ministro įsakymu jis atleidžiamas iš pareigų. Nepasibaigus įgaliojimų terminui, darbo sutartis su LŠS vadu gali būti nutraukta ir jis atleidžiamas iš pareigų krašto apsaugos ministro įsakymu Darbo kodekse nustatytais pagrindais, taip pat LŠS vadui išstojus iš LŠS, pašalinus jį iš LŠS ar LŠS suvažiavimui pareiškus nepasitikėjimą LŠS vadu.
+8. Jeigu į LŠS vado pareigas skiriamas šaulys yra tarnybą rezerve atliekantis ar atsargos karys, LŠS vado įgaliojimų terminui jis sudaro terminuotą darbo sutartį su Krašto apsaugos ministerija. Pasibaigus įgaliojimų terminui, darbo sutartis su LŠS vadu nutraukiama ir krašto apsaugos ministro įsakymu jis atleidžiamas iš pareigų. Nepasibaigus įgaliojimų terminui, darbo sutartis su LŠS vadu gali būti nutraukta ir jis atleidžiamas iš pareigų krašto apsaugos ministro įsakymu Darbo kodekse nustatytais pagrindais, taip pat LŠS vadui išstojus iš LŠS, pašalinus jį iš LŠS ar LŠS suvažiavimui pareiškus nepasitikėjimą LŠS vadu.
 
-9. Jeigu LŠS vadas yra profesinės karo tarnybos karys, jis gali būti nušalintas nuo pareigų krašto apsaugos ministro įsakymu Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytais atvejais. Jeigu LŠS vadas yra karys savanoris arba atsargos karys, jis krašto apsaugos ministro įsakymu gali būti nušalintas nuo pareigų Darbo kodekse nustatytais atvejais.
+Straipsnio dalies pakeitimai:
 
-10. Jeigu LŠS vadas yra karys savanoris arba atsargos karys, jam mokamo pagrindinio darbo užmokesčio dydis yra lygus atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui, tačiau jis negali būti mažesnis, negu mokamas bet kuriam rinktinės vadui.
+Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
+
+9. Jeigu LŠS vadas yra profesinės karo tarnybos karys, jis gali būti nušalintas nuo pareigų krašto apsaugos ministro įsakymu Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytais atvejais. Jeigu LŠS vadas yra tarnybą rezerve atliekantis arba atsargos karys, jis krašto apsaugos ministro įsakymu gali būti nušalintas nuo pareigų Darbo kodekse nustatytais atvejais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
+
+10. Jeigu LŠS vadas yra tarnybą rezerve atliekantis arba atsargos karys, jam mokamo pagrindinio darbo užmokesčio dydis yra lygus atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui, tačiau jis negali būti mažesnis, negu mokamas bet kuriam rinktinės vadui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
 
 11. Kai LŠS vado nėra arba jis negali eiti pareigų, arba yra nušalintas nuo pareigų, LŠS vado pareigas laikinai eina vienas iš jo pavaduotojų. Kai LŠS vadas atleidžiamas ar nušalinamas nuo pareigų, LŠS vado pavaduotojui laikinai eiti LŠS vado pareigas paveda krašto apsaugos ministras, kitais atvejais – LŠS vadas.
 
@@ -564,7 +584,11 @@ PENKTASIS SKIRSNIS
 
 5) teisti už tyčinius nusikaltimus;
 
-6) per paskutinius penkerius metus dėl priežasčių, susijusių su priesaikos sulaužymu, pašalinti iš valstybės politiko pareigų, atleisti iš profesinės karo tarnybos, savanorių karo tarnybos ar valstybės tarnybos arba pašalinti iš karo mokymo įstaigos;
+6) per paskutinius penkerius metus dėl priežasčių, susijusių su priesaikos sulaužymu, pašalinti iš valstybės politiko pareigų, atleisti iš tikrosios karo tarnybos ar valstybės tarnybos arba pašalinti iš karo mokymo įstaigos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
 
 7) per paskutinius 10 metų pašalinti iš LŠS už šiurkščius drausminius nusižengimus.
 
@@ -720,7 +744,11 @@ SEPTINTASIS SKIRSNIS
 
 36 straipsnis. LŠS vado pavaduotojų, rinktinių vadų, kitų nuolatinės šaulio tarnybos pareigas vykdančių šaulių statuso ypatybės
 
-1. LŠS vado pavaduotojais ir rinktinių vadais 3 metams skiriami turintys aukštąjį išsilavinimą šauliai, kurie yra ne žemesnio kaip leitenanto laipsnio profesinės ar savanorių karo tarnybos arba atsargos kariai. Krašto apsaugos ministrui sutikus, LŠS vado pavaduotoju ir rinktinės vadu gali būti skiriamas šaulys, turintis aukštąjį išsilavinimą, bet nesantis profesinės ar savanorių karo tarnybos arba atsargos kariu.
+1. LŠS vado pavaduotojais ir rinktinių vadais 3 metams skiriami turintys aukštąjį išsilavinimą šauliai, kurie yra ne žemesnio kaip leitenanto laipsnio profesinės karo tarnybos, tarnybą rezerve atliekantys ar atsargos kariai. Krašto apsaugos ministrui sutikus, LŠS vado pavaduotoju ir rinktinės vadu gali būti skiriamas šaulys, turintis aukštąjį išsilavinimą, bet nesantis profesinės, tarnybą rezerve atliekančiu ar atsargos kariu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
 
 2. Skiriant į LŠS vado pavaduotojo ar rinktinės vado pareigas šaulį, kuris yra profesinės karo tarnybos karys, būtinas krašto apsaugos ministro įsakymas LŠS vado prašymu Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka perkelti profesinės karo tarnybos karį į šias pareigas. Pasibaigus įgaliojimų laikui, LŠS vado pavaduotojas ar rinktinės vadas, kuris yra profesinės karo tarnybos karys, atleidžiamas iš pareigų ir Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka perkeliamas į kitas profesinės karo tarnybos kario pareigas ar laikinąjį profesinės karo tarnybos personalo rezervą. Nepasibaigus įgaliojimų terminui, LŠS vado pavaduotojas ar rinktinės vadas, kuris yra profesinės karo tarnybos karys, atleidžiamas iš pareigų nutraukus su juo profesinės karo tarnybos sutartį Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytais pagrindais, taip pat jam išstojus iš LŠS, pašalinus jį iš LŠS ar praradus LŠS vado pasitikėjimą. Jeigu LŠS vado pavaduotojas ar rinktinės vadas, kuris yra profesinės karo tarnybos karys, atleidžiamas iš pareigų nepasibaigus jo įgaliojimų terminui, bet jo profesinės karo tarnybos sutartis nenutraukiama, jis Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka perkeliamas į kitas profesinės karo tarnybos kario pareigas ar laikinąjį profesinės karo tarnybos personalo rezervą.
 
@@ -728,7 +756,11 @@ SEPTINTASIS SKIRSNIS
 
 4. Jeigu LŠS vado pavaduotojas ar rinktinės vadas yra profesinės karo tarnybos karys, jis gali būti nušalinamas nuo pareigų Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytais atvejais. Jeigu LŠS vado pavaduotojas ar rinktinės vadas nėra profesinės karo tarnybos karys, jis gali būti nušalinamas nuo pareigų Darbo kodekse nustatytais atvejais ar krašto apsaugos ministro iniciatyva.
 
-5. Jeigu LŠS vado pavaduotojas ar rinktinės vadas yra karys savanoris arba atsargos karys, turintis ne žemesnį kaip leitenanto laipsnį, jam mokamo atlyginimo dydis yra lygus atitinkamą laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui.
+5. Jeigu LŠS vado pavaduotojas ar rinktinės vadas yra tarnybą rezerve atliekantis ar atsargos karys, turintis ne žemesnį kaip leitenanto laipsnį, jam mokamo atlyginimo dydis yra lygus atitinkamą laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
 
 6. Jeigu LŠS vado pavaduotojas ar rinktinės vadas yra atsargos karys, turintis žemesnį kaip leitenanto laipsnį, arba yra civilis, neturintis atsargos kario laipsnio, jam mokamo pagrindinio darbo užmokesčio dydis yra lygus leitenanto laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui.
 
@@ -849,4 +881,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-796, 2010-04-29, Žin., 2010, Nr. 57-2811 (2010-05-18), i. k. 1101010ISTA00XI-796
 
 Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 36 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
+
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 8, 26, 30 ir 36 straipsnių pakeitimo įstatymas
 
