@@ -4,7 +4,7 @@ identifier: "TAR.29CFE27F6B13"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-20"
-last_updated: "2006-02-11"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29CFE27F6B13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2006-02-11 iki 2011-08-31
+Suvestinė redakcija nuo 2011-09-01 iki 2011-11-25
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 51-1635, i. k. 0991010ISTAIII-1191
 
@@ -94,9 +94,17 @@ Drausmės pažeidimas laikomas padarytu dėl neatsargumo, jeigu jį padaręs kar
 
 8 straipsnis. Drausminės atsakomybės subjektai
 
-1. Drausminėn atsakomybėn traukiami kariai, atliekantys privalomąją (pradinę ar aktyviajame rezerve), profesinę arba savanorių karo tarnybą, taip pat kariūnai.
+1. Drausminėn atsakomybėn traukiami kariai, atliekantys privalomąją ir profesinę karo tarnybą, taip pat kariūnai.
 
-2. Kariai savanoriai, pagal vado (viršininko) įsakymą atvykę į tarnybos vietą, tiesiogiai vykdydami jiems pavestą užduotį, dalyvaudami karinėse operacijose, pratybose ir mokymuose, drausminėn atsakomybėn traukiami tokia pat tvarka kaip ir profesinės karo tarnybos kariai, atsižvelgiant į turimą kario laipsnį. Kitais atvejais kariai savanoriai drausminėn atsakomybėn traukiami tokia pat tvarka kaip ir atsargos kariai.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1512, 2011-06-23, Žin., 2011, Nr. 86-4154 (2011-07-13), i. k. 1111010ISTA0XI-1512
+
+2. Kariai savanoriai ir kiti aktyviojo rezervo kariai, taip pat parengtojo rezervo kariai, pagal vado (viršininko) įsakymą atvykę į tarnybos vietą, tiesiogiai vykdydami jiems pavestą užduotį, dalyvaudami karinėse operacijose, pratybose ir mokymuose, drausminėn atsakomybėn traukiami tokia pat tvarka kaip ir profesinės karo tarnybos kariai, atsižvelgiant į turimą kario laipsnį. Kitais atvejais kariai savanoriai ir kiti aktyviojo rezervo kariai, taip pat parengtojo rezervo kariai drausminėn atsakomybėn traukiami tokia pat tvarka kaip ir atsargos kariai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1512, 2011-06-23, Žin., 2011, Nr. 86-4154 (2011-07-13), i. k. 1111010ISTA0XI-1512
 
 3. Atsargos arba dimisijos kariai drausminėn atsakomybėn traukiami tik tais atvejais, kai drausmės pažeidimus padaro dėvėdami kario uniformą arba kai pažeidžia Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme jiems nustatytus apribojimus.
 
@@ -524,7 +532,11 @@ Papeikimas yra švelniausia drausminė nuobauda, kuria neigiamai įvertinamas ka
 
 1. Atleidimas iš tarnybos yra drausminė nuobauda, skiriama kariui už šiurkštų drausmės pažeidimą.
 
-2. Atleidžiant iš tarnybos, nutraukiama profesinės karo tarnybos ar kario savanorio tarnybos sutartis.
+2. Atleidžiant iš tarnybos, nutraukiama profesinės karo tarnybos, kario savanorio ar aktyviojo rezervo kario sutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1512, 2011-06-23, Žin., 2011, Nr. 86-4154 (2011-07-13), i. k. 1111010ISTA0XI-1512
 
 39 straipsnis. Pašalinimas iš karo mokymo įstaigos
 
@@ -1017,6 +1029,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-508, 2006-01-20, Žin., 2006, Nr. 17-603 (2006-02-11), i. k. 1061010ISTA000X-508
 
 Lietuvos Respublikos kariuomenės drausmės statuto pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1512, 2011-06-23, Žin., 2011, Nr. 86-4154 (2011-07-13), i. k. 1111010ISTA0XI-1512
+
+Lietuvos Respublikos kariuomenės drausmės statuto 8 ir 38 straipsnių pakeitimo įstatymas
 
 98 straipsnis. Rikiuotės statuto taisyklių pažeidimas
 
