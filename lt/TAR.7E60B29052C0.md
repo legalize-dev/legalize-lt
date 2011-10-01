@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2010-07-20"
+last_updated: "2011-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
 
-Įstatymas skelbtas: Žin., 2000, Nr. 75-2271
+Įstatymas
+
+skelbtas: Žin., 2000, Nr. 75-2271
 
 Neoficialus įstatymo tekstas
 
@@ -264,9 +266,9 @@ POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEI
 
 ĮSTATYMAS
 
-Šis įstatymas įsigalioja 2009 m. rugpjūčio 1 d. ir
+Šis įstatymas įsigalioja 2009 m. rugpjūčio 1 d. ir galioja
 
-galioja iki 2011 m. gruodžio 31 d.
+iki 2011 m. gruodžio 31 d.
 
 Įstatymo
 
@@ -305,6 +307,24 @@ POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2 STRAIPSNIO IR
 Šis
 
 įstatymas įsigalioja 2010 m. liepos 1 d.
+
+30.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1581,
+
+2011-09-15, Žin., 2011, Nr. 119-5614 (2011-10-01)
+
+VALSTYBĖS
+
+POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO IV SKIRSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2012 m. kovo 1
+
+d.
 
 ***Pabaiga***
 
@@ -354,9 +374,9 @@ PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 Redagavo Aušrinė Trapinskienė
 
-(2010-07-20)
+(2011-10-04)
 
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 3 straipsnis. Valstybės politikų ir
 
@@ -1896,6 +1916,10 @@ Vaiko teisių apsaugos kontrolierius
 
 7.
 
+7 punkto redakcija iki 2011 m. kovo 1
+
+d.:
+
 Seimo, Seimo Pirmininko, Respublikos
 
 Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
@@ -1923,6 +1947,40 @@ pavaduotojai
 nariai
 
 9,5
+
+7.
+
+7 punkto redakcija nuo 2011 m. kovo 1
+
+d.:
+
+Seimo, Seimo Pirmininko, Respublikos
+
+Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
+
+tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vertybinių
+
+popierių komisijos, Vyriausiosios rinkimų komisijos ir Vyriausiosios
+
+tarnybinės etikos komisijos:
+
+7.1.
+
+pirmininkai
+
+10,10
+
+7.2.
+
+pavaduotojai
+
+9,44
+
+7.3.
+
+nariai
+
+8,57
 
 8.
 
@@ -2078,9 +2136,9 @@ Nr. IX-1594,
 
 2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
 
-Nr. IX-1738, 2003-09-18,
+Nr. IX-1738,
 
-Žin., 2003, Nr. 94-4247 (2003-10-08)
+2003-09-18, Žin., 2003, Nr. 94-4247 (2003-10-08)
 
 Nr. IX-1918,
 
@@ -2146,9 +2204,13 @@ Nr. XI-951,
 
 2010-06-30, Žin., 2010, Nr. 82-4305 (2010-07-13)
 
-Nr. XI-980,
+Nr. XI-980, 2010-07-02,
 
-2010-07-02, Žin., 2010, Nr. 86-4531 (2010-07-20)
+Žin., 2010, Nr. 86-4531 (2010-07-20)
+
+Nr. XI-1581,
+
+2011-09-15, Žin., 2011, Nr. 119-5614 (2011-10-01)
 
 ________________
 
@@ -2268,9 +2330,9 @@ IX-841,
 
 VALSTYBĖS
 
-POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7 STRAIPSNIŲ
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7
 
-PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
 
 8.
 
@@ -2298,9 +2360,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1045, 2002-07-05,
+IX-1045,
 
-Žin., 2002, Nr. 73-3104 (2002-07-19)
+2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
 
 VALSTYBĖS
 
@@ -2400,9 +2462,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1594,
+IX-1594, 2003-06-03,
 
-2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
+Žin., 2003, Nr. 59-2639 (2003-06-20)
 
 VALSTYBĖS
 
@@ -2492,9 +2554,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1253,
+X-1253, 2007-07-03,
 
-2007-07-03, Žin., 2007, Nr. 80-3223 (2007-07-19)
+Žin., 2007, Nr. 80-3223 (2007-07-19)
 
 VALSTYBĖS
 
