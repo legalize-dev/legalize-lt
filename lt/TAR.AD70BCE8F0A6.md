@@ -4,7 +4,7 @@ identifier: "TAR.AD70BCE8F0A6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-08"
-last_updated: "2005-01-01"
+last_updated: "2011-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AD70BCE8F0A6"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 entry_into_force_conditions: "Įstatymo 21 straipsnis įsigalioja 2004-07-27"
 ---
 # Lietuvos Respublikos asmens ir turto apsaugos įstatymas
+
+Suvestinė redakcija nuo 2011-10-01 iki 2012-12-31
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 116-4317, i. k. 1041010ISTA0IX-2327
 
 LIETUVOS RESPUBLIKOS
 
@@ -217,7 +221,17 @@ ASMENS IR TURTO SAUGOS ORGANIZAVIMO PAGRINDAI
 
 1. Asmeniui, priimtam dirbti apsaugos darbuotoju, išduodamas apsaugos darbuotojo pažymėjimas. Vykdant asmens ir turto saugą, privaloma šį pažymėjimą nešiotis.
 
-2. Apsaugos darbuotojo pažymėjimų išdavimo ir panaikinimo tvarką, reikalavimus pažymėjimui nustato Vyriausybė ar jos įgaliota institucija.
+2. Apsaugos darbuotojo pažymėjimus teritorinės policijos įstaigos išduoda per 20 darbo dienų nuo visų reikiamų dokumentų gavimo dienos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1533, 2011-06-23, Žin., 2011, Nr. 86-4172 (2011-07-13), i. k. 1111010ISTA0XI-1533
+
+3. Apsaugos darbuotojo pažymėjimų išdavimo ir panaikinimo tvarką, reikalavimus pažymėjimui nustato Vyriausybė ar jos įgaliota institucija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1533, 2011-06-23, Žin., 2011, Nr. 86-4172 (2011-07-13), i. k. 1111010ISTA0XI-1533
 
 13 straipsnis. Asmens ir turto saugos teikimo pagrindas
 
@@ -235,7 +249,11 @@ FIZINĖS PRIEVARTOS, SPECIALIŲJŲ PRIEMONIŲ IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 
 1. Apsaugos darbuotojas turi teisę šio įstatymo nustatytais pagrindais panaudoti fizinę prievartą, laikyti, nešiotis ir panaudoti specialiąsias priemones bei šaunamuosius ginklus.
 
-2. Apsaugos darbuotojui, panaudojusiam fizinę prievartą, specialiąsias priemones ar šaunamąjį ginklą, taikomi įstatymų, reglamentuojančių būtinąją gintį ir būtinąjį reikalingumą, reikalavimai.
+2. Apsaugos darbuotojui, panaudojusiam fizinę prievartą, specialiąsias priemones ar šaunamąjį ginklą, taikomi įstatymų, reglamentuojančių aplinkybes, šalinančias administracinę arba baudžiamąją atsakomybę, reikalavimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1533, 2011-06-23, Žin., 2011, Nr. 86-4172 (2011-07-13), i. k. 1111010ISTA0XI-1533
 
 3. Atsiradus pagrindui panaudoti fizinę prievartą, specialiąsias priemones ar šaunamąjį ginklą, apsaugos darbuotojas privalo įspėti įtariamą teisės pažeidėją apie ketinimą panaudoti fizinę prievartą, specialiąsias priemones ar šaunamąjį ginklą, jei šis nevykdys apsaugos darbuotojo nurodymų, duodamų įgyvendinant šio įstatymo jam suteiktas teises ir pareigas, išskyrus atvejus, kai delsimas kelia grėsmę apsaugos darbuotojo ar saugomo subjekto, ar saugomame objekte esančių asmenų gyvybei ar sveikatai arba įspėti yra neįmanoma.
 
@@ -311,132 +329,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-91 straipsnis. Tarpvalstybinis grynųjų pinigų vežimas kelių transportu
-
-1. Tarpvalstybinio grynųjų pinigų vežimo licencijos, išduotos Reglamento (ES) Nr. 1214/2011 nustatytomis sąlygomis, turėtojas ne vėliau kaip prieš 10 darbo dienų iki planuojamos vykdyti tarpvalstybinio grynųjų pinigų vežimo operacijos pateikia Vyriausybės įgaliotai institucijai Reglamento (ES) Nr. 1214/2011 12 straipsnio 2 dalyje nurodytą informaciją apie ketinamą vykdyti grynųjų pinigų vežimą Lietuvos Respublikoje.
-
-2. Užsienio valstybių, kurios yra ES narės ir kurių valiuta yra euras, grynųjų pinigų vežimo apsaugos darbuotojams išduotos profesinės licencijos ar profesiniai leidimai nešiotis ginklą pripažįstami Lietuvos Respublikoje.
-
-Papildyta straipsniu:
-
-Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
-
-KETVIRTASIS SKIRSNIS
-
-ASMENS IR TURTO SAUGOS ORGANIZAVIMO PAGRINDAI
-
-22 straipsnis. Apsaugininko ir apsaugos darbuotojo dokumentai
-
-1. Apsaugininkas ar apsaugos darbuotojas, apsaugos vadovas privalo turėti apsaugos darbuotojo pažymėjimą. Vykdant asmens ir turto apsaugą, privaloma šį pažymėjimą turėti su savimi.
-
-2. Apsaugos darbuotojas, vykdantis tarpvalstybinį grynųjų pinigų vežimą, privalo turėti tarptautinį inkasatoriaus pažymėjimą. Vykdant tarpvalstybinį grynųjų pinigų vežimą, privaloma šį pažymėjimą turėti su savimi.
-
-3. Apsaugos darbuotojo ir tarptautinių inkasatoriaus pažymėjimų išdavimo ir galiojimo panaikinimo tvarką ir reikalavimus šiems pažymėjimams nustato Lietuvos Respublikos Vyriausybės įgaliota institucija.
-
-4. Asmeniui, pageidaujančiam tapti apsaugos darbuotoju ar apsaugos vadovu, apsaugos darbuotojo ar tarptautinis inkasatoriaus pažymėjimas išduodamas ne vėliau kaip per 20 darbo dienų nuo visų Apsaugos darbuotojo ir tarptautinių inkasatoriaus pažymėjimų išdavimo ir galiojimo panaikinimo tvarkos apraše nurodytų dokumentų, reikalingų apsaugos darbuotojo ir tarptautiniam inkasatoriaus pažymėjimui išduoti, gavimo apsaugos darbuotojo ir tarptautinius inkasatoriaus pažymėjimus išduodančioje įstaigoje dienos.
-
-5. Apsaugininkui apsaugos darbuotojo pažymėjimas išduodamas kartu su šio įstatymo 8 straipsnio 1 dalies 2 punkte nurodyta licencija. Panaikinus licencijos galiojimą, apsaugininkui išduoto apsaugos darbuotojo pažymėjimo galiojimas taip pat panaikinamas.
-
-6. Asmeniui, pageidaujančiam tapti apsaugos darbuotoju ar apsaugos vadovu, apsaugos darbuotojo ar tarptautinis inkasatoriaus pažymėjimas neišduodamas, jeigu:
-
-1) pateiktas neišsamus prašymas arba pateikti ne visi dokumentai ar informacija, reikalingi apsaugos darbuotojo ar tarptautiniam inkasatoriaus pažymėjimui išduoti, ir šie trūkumai nepašalinami per apsaugos darbuotojo ir tarptautinius inkasatoriaus pažymėjimus išduodančios įstaigos nustatytą ne trumpesnį kaip 5 darbo dienų terminą;
-
-2) apsaugos darbuotojo ar tarptautiniam inkasatoriaus pažymėjimui gauti pateikta klaidinga informacija, suklastoti ar netikri dokumentai;
-
-3) asmuo neatitinka šio įstatymo 3 straipsnio 1 dalyje nustatytų reikalavimų arba jam taikomi šio įstatymo 3 straipsnio 2 dalyje nustatyti apribojimai.
-
-7. Apsaugos darbuotojui ar apsaugos vadovui išduotas apsaugos darbuotojo ar tarptautinio inkasatoriaus pažymėjimo galiojimas panaikinamas, jeigu:
-
-1) nustatoma, kad apsaugos darbuotojo ar tarptautiniam inkasatoriaus pažymėjimui gauti buvo pateikta klaidinga informacija, suklastoti ar netikri dokumentai;
-
-2) nustatoma, kad asmuo neatitinka šio įstatymo 3 straipsnio 1 dalyje nustatytų reikalavimų arba jam taikomi šio įstatymo 3 straipsnio 2 dalyje nustatyti apribojimai;
-
-3) apsaugos darbuotojo ar tarptautinio inkasatoriaus pažymėjimo turėtojas pateikia prašymą dėl pažymėjimo galiojimo panaikinimo.
-
-8. Apsaugos darbuotojo pažymėjimo galiojimas taip pat panaikinamas asmeniui, neperlaikiusiam egzamino šio įstatymo 21 straipsnio 6 dalyje numatytu atveju.
-
-23 straipsnis. Asmens ir turto apsaugos paslaugų teikimo pagrindas
-
-1. Asmens ir turto apsaugos paslaugų teikimo pagrindas yra rašytinė licencijos turėtojo ir kliento sutartis.
-
-2. Licencijos turėtojo ir kliento sutartyje turi būti nurodyta, kokios šio įstatymo 7 straipsnio 1 dalyje nustatytos licencijuojamos veiklos paslaugos bus teikiamos.
-
-VI SKYRIUS
-
-FIZINĖS PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ PANAUDOJIMAS
-
-24 straipsnis. Fizinės prievartos ir šaunamųjų ginklų panaudojimo bendrosios sąlygos
-
-1. Apsaugininkas ar apsaugos darbuotojas turi teisę šio įstatymo nustatytais pagrindais panaudoti fizinę prievartą, viešai nešiotis specialiąsias priemones bei ilguosius lygiavamzdžius ir (ar) trumpuosius B, C kategorijos šaunamuosius ginklus. Lietuvos banko apsaugos darbuotojai taip pat gali viešai nešiotis A kategorijos automatinius šaunamuosius ginklus.
-
-2. Atsiradus pagrindui panaudoti fizinę prievartą ar šaunamąjį ginklą, apsaugininkas ar apsaugos darbuotojas privalo įspėti įtariamą teisės pažeidėją apie ketinimą panaudoti fizinę prievartą ar šaunamąjį ginklą, jeigu šis nevykdys apsaugininko ar apsaugos darbuotojo nurodymų, duodamų įgyvendinant šio įstatymo jam suteiktas teises ir pareigas, išskyrus atvejus, kai delsimas kelia grėsmę apsaugininko ar apsaugos darbuotojo, ar saugomo asmens gyvybei ar sveikatai arba įspėti dėl susidariusios situacijos yra neįmanoma.
-
-3. Apsaugininkas ar apsaugos darbuotojas, atsižvelgdamas į konkrečios situacijos pavojingumą, turi užtikrinti, kad prieš įtariamą teisės pažeidėją būtų panaudota tiek šiame straipsnyje nurodytų priemonių ir tokiu mastu, kiek yra būtina neteisėtiems veiksmams nutraukti ir sulaikomo įtariamo teisės pažeidėjo pasipriešinimui neutralizuoti.
-
-4. Apsaugininkas ar apsaugos darbuotojas, naudodamas fizinę prievartą ar šaunamąjį ginklą, privalo stengtis išvengti įtariamo teisės pažeidėjo sveikatos sutrikdymo ar mirties.
-
-5. Draudžiama apsaugos darbuotojui vykdyti ginkluotą asmens ir turto apsaugą su ne profesinei veiklai įgytu (asmeniniu) šaunamuoju ginklu.
-
-25 straipsnis. Fizinės prievartos panaudojimo pagrindai
-
-1. Apsaugininkas ar apsaugos darbuotojas fizinę prievartą turi teisę panaudoti šiais atvejais:
-
-1) atremdamas pasikėsinimą, gresiantį jo sveikatai ar gyvybei, taip pat pasikėsinimą, kuriuo siekiama atimti iš jo specialiąją priemonę ir (ar) šaunamąjį ginklą;
-
-2) gindamas saugomą asmenį nuo užpuolimo, gresiančio šio asmens sveikatai ar gyvybei;
-
-3) atremdamas saugomų objektų užpuolimą;
-
-4) sulaikydamas įtariamą teisės pažeidėją, jeigu šis aktyviais veiksmais vengia sulaikymo;
-
-5) pašalindamas iš saugomų objektų asmenis, nesilaikančius nustatytų taisyklių, jeigu šie asmenys nevykdo teisėtų apsaugininko ar apsaugos darbuotojo reikalavimų.
-
-2. Draudžiama specialiąsias priemones naudoti prieš moteris, jeigu akivaizdu, kad jos nėščios, taip pat prieš asmenis, jeigu akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius yra žinomas arba išvaizda atitinka amžių, išskyrus atvejus, kai šie asmenys priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę žmogaus gyvybei ar sveikatai.
-
-3. Apsaugininkas ar apsaugos darbuotojas gali naudoti antrankius sulaikydamas ar pristatydamas į policiją įtariamą teisės pažeidėją, jeigu šis asmuo sulaikomas priešinasi arba jeigu kyla reali grėsmė, kad jis gali pasipriešinti ar pakenkti sau ar kitiems asmenims.
-
-4. Apsaugos darbuotojas stažuotojas, neviršydamas bendrųjų fizinės prievartos panaudojimo sąlygų, turi teisę panaudoti fizinę prievartą padėdamas apsaugos darbuotojams, pareigūnams ar kitiems asmenims sulaikyti įtariamus teisės pažeidėjus.
-
-26 straipsnis. Šaunamojo ginklo panaudojimo pagrindai
-
-1. Apsaugininkas ar apsaugos darbuotojas turi teisę panaudoti šaunamąjį ginklą, kai tai neišvengiamai būtina, gindamasis ar gindamas kitą asmenį, nuosavybę, būsto neliečiamybę, kitas teises, visuomenės ar valstybės interesus nuo pradėto ar tiesiogiai gresiančio pavojingo kėsinimosi, nepaisydamas to, ar galėjo išvengti kėsinimosi, arba kreiptis pagalbos į kitus asmenis ar valdžios institucijas, taip pat siekdamas pašalinti jam pačiam, kitiems asmenims ar jų teisėms, visuomenės ar valstybės interesams gresiantį pavojų, jeigu šis pavojus negalėjo būti pašalintas kitomis priemonėmis ir padaryta žala yra mažesnė už tą, kurios siekta išvengti.
-
-2. Šaunamasis ginklas, išskyrus įspėjamuosius šūvius, negali būti naudojamas prieš įtariamą teisės pažeidėją, kuris vengia sulaikymo nesukeldamas grėsmės nei jo, nei aplinkinių, nei saugomo asmens gyvybei.
-
-3. Draudžiama panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, prieš moteris, jeigu akivaizdu, kad jos nėščios, taip pat prieš asmenis, jeigu akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius yra žinomas arba išvaizda atitinka amžių, išskyrus atvejus, kai šie asmenys priešinasi pavojingu žmogaus gyvybei būdu arba kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę žmogaus gyvybei.
-
-VII SKYRIUS
-
-BAIGIAMOSIOS NUOSTATOS
-
-27 straipsnis. Asmens ir turto apsaugos priežiūra
-
-Asmens ir turto apsaugos priežiūrą šiame įstatyme, Asmens ir turto apsaugos licencijavimo taisyklėse nustatyta tvarka atlieka Lietuvos Respublikos Vyriausybės įgaliota institucija. Ši institucija turi teisę iš apsaugininkų ir apsaugos tarnybų gauti informaciją, reikalingą licencijavimo sąlygų laikymosi priežiūrai atlikti.
-
-28 straipsnis. Ginčai dėl šio įstatymo pažeidimų
-
-Ginčai dėl šio įstatymo pažeidimų sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-29 straipsnis. Atsakomybė už šio įstatymo pažeidimus
-
-Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
-Lietuvos Respublikos
-
-asmens ir turto apsaugos įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1214/2011 dėl profesionalaus tarpvalstybinio grynųjų eurų vežimo kelių transportu iš vienos euro zonos valstybės narės į kitą (OL 2011 L 316, p. 1).
-
-2. 2012 m. gruodžio 17 d. Tarybos reglamentas (ES) Nr. 55/2013 dėl Europos Parlamento ir Tarybos reglamento (ES) Nr. 1214/2011 dėl profesionalaus tarpvalstybinio grynųjų eurų vežimo kelių transportu iš vienos euro zonos valstybės narės į kitą taikymo srities išplėtimo (OL 2013 L 21, p. 1).
-
 Pakeitimai:
 
 1.
@@ -446,36 +338,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1533, 2011-06-23, Žin., 2011, Nr. 86-4172 (2011-07-13), i. k. 1111010ISTA0XI-1533
 
 Lietuvos Respublikos asmens ir turto saugos įstatymo 12, 15 straipsnių pakeitimo ir papildymo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2236, 2012-10-02, Žin., 2012, Nr. 122-6095 (2012-10-20), i. k. 1121010ISTA0XI-2236
-
-Lietuvos Respublikos asmens ir turto saugos įstatymo 6 straipsnio pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1235, 2014-10-16, paskelbta TAR 2014-10-30, i. k. 2014-15177
-
-Lietuvos Respublikos asmens ir turto saugos įstatymo Nr. IX-2327 2, 6, 7, 8, 11 ir 12 straipsnių pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
-
-Lietuvos Respublikos asmens ir turto saugos įstatymo Nr. IX-2327 1, 2, 5, 6, 7, 9, 11, 18 straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 9-1 straipsniu ir priedu įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-537, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11934
-
-Lietuvos Respublikos asmens ir turto saugos įstatymo Nr. IX-2327 pakeitimo įstatymas
 
