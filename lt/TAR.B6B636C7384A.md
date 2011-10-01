@@ -4,7 +4,7 @@ identifier: "TAR.B6B636C7384A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-30"
-last_updated: "2011-05-03"
+last_updated: "2011-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 department: "Lietuvos Respublikos Seimas"
@@ -5463,6 +5463,30 @@ rinkinius ir auditoriaus išvadą, kuriuos pagal teisės aktus bankas turi
 
 pateikti visuomenei.
 
+4. Klientų prašymus (skundus) dėl su
+
+banku sudarytų kreditavimo sutarčių vykdymo ar banko veiksmų, kuriais bankas
+
+galėjo pažeisti sutarties su klientu ar teisės aktų reikalavimus, nagrinėja
+
+bankas. Bankas privalo išnagrinėti rašytinius kliento prašymus (skundus) ir
+
+raštu jam atsakyti ne vėliau kaip per 30 kalendorinių dienų nuo jų gavimo
+
+dienos. Esant sudėtingam atvejui, bankas privalo leisti klientui dalyvauti
+
+svarstyme, raštu informuoti klientą apie ilgesnį nagrinėjimo  terminą, tačiau
+
+šis terminas negali viršyti 45 kalendorinių dienų nuo prašymo (skundo) gavimo
+
+dienos. Jeigu kliento prašymas (skundas) nesusijęs su kliento kreditavimo
+
+sutartimi, bankas privalo atsakyti klientui ne vėliau kaip per 30 kalendorinių
+
+dienų nuo prašymo (skundo) gavimo dienos, jeigu įstatymai nenustato kitaip.
+
+Bankas klientų prašymus (skundus) nagrinėja neatlygintinai.
+
 Straipsnio
 
 pakeitimai:
@@ -5470,6 +5494,10 @@ pakeitimai:
 Nr. XI-1337,
 
 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
+
+Nr. XI-1598,
+
+2011-09-22, Žin., 2011, Nr. 119-5616 (2011-10-01)
 
 AŠTUNTASIS
 
@@ -5487,13 +5515,13 @@ straipsnis. Jungtinės (konsoliduotos) priežiūros objektas
 
 (konsoliduota) priežiūra taikoma finansinei grupei, kurią sudaro globojantis
 
-(patronuojantis) bankas ar globojanti (patronuojanti) finansų
+(patronuojantis) bankas ar globojanti (patronuojanti) finansų kontroliuojančioji
 
-kontroliuojančioji (holdingo) bendrovė (toliau šiame skirsnyje – globojanti grupės įstaiga) ir finansų įstaigos, kurias
+(holdingo) bendrovė (toliau šiame skirsnyje – globojanti
 
-kontroliuoja globojanti grupės įstaiga arba kuriose globojanti grupės įstaiga
+grupės įstaiga) ir finansų įstaigos, kurias kontroliuoja globojanti grupės
 
-dalyvauja valdant kapitalą.
+įstaiga arba kuriose globojanti grupės įstaiga dalyvauja valdant kapitalą.
 
 2. Priežiūros
 
@@ -5547,9 +5575,9 @@ konsoliduotųjų finansinių ataskaitų rinkinius ir atliekant jungtinę
 
 Straipsnio pakeitimai:
 
-Nr. X-1038, 2007-01-18,
+Nr. X-1038,
 
-Žin., 2007, Nr. 12-499 (2007-01-30)
+2007-01-18, Žin., 2007, Nr. 12-499 (2007-01-30)
 
 Nr. XI-1337,
 
@@ -5727,9 +5755,7 @@ Nr. XI-1337,
 
 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
 
-DEVINTASIS
-
-SKIRSNIS
+DEVINTASIS SKIRSNIS
 
 BANKO APSKAITA,
 
@@ -6343,19 +6369,19 @@ pelno paskirstymo projektą ir auditoriaus išvadą;
 
 mėnesius nuo finansinių metų pabaigos, bet ne vėliau kaip prieš 10 dienų iki
 
-eilinio visuotinio akcininkų susirinkimo sudaryti sąlygas banko akcininkams susipažinti
+eilinio visuotinio akcininkų susirinkimo sudaryti sąlygas banko akcininkams
 
-su audito įmonės patikrintu metinių finansinių ataskaitų rinkiniu, sprendimo
+susipažinti su audito įmonės patikrintu metinių finansinių ataskaitų rinkiniu,
 
-dėl pelno paskirstymo projektu ir auditoriaus išvada;
+sprendimo dėl pelno paskirstymo projektu ir auditoriaus išvada;
 
 3) ne
 
 vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos banko visuotinio
 
-akcininkų susirinkimo sprendimu patvirtinti metinių finansinių ataskaitų
+akcininkų susirinkimo sprendimu patvirtinti metinių finansinių ataskaitų rinkinį
 
-rinkinį ir priimti sprendimą dėl pelno paskirstymo;
+ir priimti sprendimą dėl pelno paskirstymo;
 
 4) per 3
 
@@ -6447,15 +6473,15 @@ ir patikimai valdo nuosavybę ir užtikrina saugią ir patikimą banko veiklą;
 
 vidaus kontrolės ir informacines sistemas.
 
-2. Banko
+2. Banko visuotinis
 
-visuotinis akcininkų susirinkimas renka audito įmonę metinėms finansinėms
+akcininkų susirinkimas renka audito įmonę metinėms finansinėms ataskaitoms
 
-ataskaitoms patikrinti. Auditorius, taip pat kitas asmuo, dalyvaujantis kartu
+patikrinti. Auditorius, taip pat kitas asmuo, dalyvaujantis kartu su
 
-su auditoriumi atliekant auditą, negali atlikti to paties banko audito ilgiau
+auditoriumi atliekant auditą, negali atlikti to paties banko audito ilgiau kaip
 
-kaip 3 finansinius metus iš eilės.
+3 finansinius metus iš eilės.
 
 3. Bankas iki
 
@@ -6475,9 +6501,9 @@ X-1678,
 
 2008-07-03, Žin., 2008, Nr. 82-3235 (2008-07-19)
 
-Nr. XI-1337, 2011-04-21,
+Nr. XI-1337,
 
-Žin., 2011, Nr. 52-2512 (2011-05-03)
+2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
 
 64 straipsnis.
 
@@ -6505,13 +6531,11 @@ perduoti įgaliojimus atlikti tokio banko priežiūrą Europos Sąjungos valstyb
 
 narės priežiūros institucijai, kuri globojančiam (patronuojančiam) užsienio
 
-bankui yra išdavusi leidimą veiklai ir kuri atlieka globojančio
+bankui yra išdavusi leidimą veiklai ir kuri atlieka globojančio (patronuojančio)
 
-(patronuojančio) užsienio banko priežiūrą tokiu būdu, kad yra prisiimama
+užsienio banko priežiūrą tokiu būdu, kad yra prisiimama atsakomybė už šio
 
-atsakomybė už šio Įstatymo nustatyta tvarka išduotą licenciją turinčio banko
-
-priežiūrą.
+Įstatymo nustatyta tvarka išduotą licenciją turinčio banko priežiūrą.
 
 3. Bankų filialų
 
@@ -6525,13 +6549,13 @@ priežiūros institucija.
 
 4. Europos Sąjungos valstybėse narėse
 
-licencijuotų užsienio bankų, teikiančių paslaugas Lietuvos Respublikoje
+licencijuotų užsienio bankų, teikiančių paslaugas Lietuvos Respublikoje neįsteigus
 
-neįsteigus filialo, bei Europos Sąjungos valstybėse narėse licencijuotų
+filialo, bei Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų
 
-užsienio bankų Lietuvos Respublikoje įsteigtų filialų priežiūra atliekama
+Lietuvos Respublikoje įsteigtų filialų priežiūra atliekama atsižvelgiant į šio
 
-atsižvelgiant į šio Įstatymo 70 straipsnio nuostatas.
+Įstatymo 70 straipsnio nuostatas.
 
 5. Atlikdama
 
@@ -6663,9 +6687,9 @@ investicijų draudimas, jei ji reikalinga jos funkcijoms atlikti;
 
 6) banko ar
 
-finansinės grupės, kuriai priklauso bankas, įmonių auditoriams, jei ji
+finansinės grupės, kuriai priklauso bankas, įmonių auditoriams, jei ji reikalinga
 
-reikalinga jų funkcijoms atlikti;
+jų funkcijoms atlikti;
 
 7) Europos
 
@@ -6789,9 +6813,9 @@ kitos banko veiklos sritys. Šių asmenų darbą ir kitas su tuo susijusias jų
 
 išlaidas apmoka bankas. Pagal sutartis su priežiūros institucija veikiantys
 
-šiame punkte nurodyti asmenys turi teises, nustatytas šio Įstatymo 69
+šiame punkte nurodyti asmenys turi teises, nustatytas šio Įstatymo 69 straipsnio
 
-straipsnio 2 ir 3 dalyse;
+2 ir 3 dalyse;
 
 4) reikalauti,
 
@@ -6861,13 +6885,13 @@ pažeidimai ar banko veiklos trūkumai arba kad banko veikla būtų stabili ir
 
 patikima.
 
-3. Priežiūros institucija,
+3. Priežiūros
 
-nustačiusi teisės aktų pažeidimus ar banko veiklos trūkumus arba jei banko
+institucija, nustačiusi teisės aktų pažeidimus ar banko veiklos trūkumus arba
 
-veikla kelia grėsmę banko veiklos stabilumui ir patikimumui, turi teisę
+jei banko veikla kelia grėsmę banko veiklos stabilumui ir patikimumui, turi
 
-laikinai bankui nustatyti individualius banko veiklos riziką ribojančių
+teisę laikinai bankui nustatyti individualius banko veiklos riziką ribojančių
 
 normatyvų dydžius ar papildomus reikalavimus dėl banko veiklos rizikos
 
@@ -6881,13 +6905,13 @@ poveikio priemones.
 
 5. Priežiūros
 
-institucijos nustatyta tvarka priežiūros institucijos darbuotojai turi teisę dalyvauti
+institucijos nustatyta tvarka priežiūros institucijos darbuotojai turi teisę
 
-banko organų ir banko komitetų darbe – dalyvauti susirinkimuose ar posėdžiuose
+dalyvauti banko organų ir banko komitetų darbe – dalyvauti susirinkimuose ar
 
-stebėtojų teisėmis ar kitaip stebėti banko organų, banko komitetų ir banko
+posėdžiuose stebėtojų teisėmis ar kitaip stebėti banko organų, banko komitetų
 
-vadovų veiklą.
+ir banko vadovų veiklą.
 
 6. Priežiūros
 
@@ -6911,9 +6935,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. XI-1337,
+Nr. XI-1337, 2011-04-21,
 
-2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
+Žin., 2011, Nr. 52-2512 (2011-05-03)
 
 68
 
@@ -7017,21 +7041,21 @@ nurodytus asmenis, taip pat mišrią veiklą vykdančią kontroliuojančiąją
 
 (holdingo) bendrovę ir jos kontroliuojamas įmones. Jei jungtinės
 
-(konsoliduotos) priežiūros tikslais reikia patikrinti šio Įstatymo 58 straipsnio
+(konsoliduotos) priežiūros tikslais reikia patikrinti šio Įstatymo 58
 
-2 dalyje nurodytus asmenis, taip pat mišrią veiklą vykdančią kontroliuojančiąją
+straipsnio 2 dalyje nurodytus asmenis, taip pat mišrią veiklą vykdančią
 
-(holdingo) bendrovę ir jos kontroliuojamas įmones, kurie priklauso kitos
+kontroliuojančiąją (holdingo) bendrovę ir jos kontroliuojamas įmones, kurie
 
-Europos Sąjungos valstybės narės jurisdikcijai, tai priežiūros institucija
+priklauso kitos Europos Sąjungos valstybės narės jurisdikcijai, tai priežiūros
 
-prašo, kad patikrinimą atliktų šios Europos Sąjungos valstybės narės priežiūros
+institucija prašo, kad patikrinimą atliktų šios Europos Sąjungos valstybės
 
-institucija, arba, jeigu ši priežiūros institucija leidžia, patikrinimą atlieka
+narės priežiūros institucija, arba, jeigu ši priežiūros institucija leidžia,
 
-pati Lietuvos priežiūros institucija ar šio straipsnio 9 dalyje nurodyti
+patikrinimą atlieka pati Lietuvos priežiūros institucija ar šio straipsnio 9
 
-asmenys.
+dalyje nurodyti asmenys.
 
 7. Užsienio
 
@@ -7069,17 +7093,17 @@ institucija turi teisę dalyvauti atliekant tokį tikrinimą.
 
 valstybės, kuri nėra Europos Sąjungos valstybė narė, priežiūros institucija
 
-turi teisę inspektuoti (tikrinti) užsienio banko padalinius Lietuvos Respublikoje
+turi teisę inspektuoti (tikrinti) užsienio banko padalinius Lietuvos
 
-ir šio Įstatymo 58 straipsnio 2 dalyje nurodytus asmenis, taip pat mišrią
+Respublikoje ir šio Įstatymo 58 straipsnio 2 dalyje nurodytus asmenis, taip pat
 
-veiklą vykdančią kontroliuojančiąją (holdingo) bendrovę ir jos kontroliuojamas
+mišrią veiklą vykdančią kontroliuojančiąją (holdingo) bendrovę ir jos
 
-įmones, kurie priklauso Lietuvos Respublikos jurisdikcijai, jei tarp jos ir
+kontroliuojamas įmones, kurie priklauso Lietuvos Respublikos jurisdikcijai, jei
 
-Lietuvos priežiūros institucijos yra sudaryta sutartis, numatanti tokią teisę
+tarp jos ir Lietuvos priežiūros institucijos yra sudaryta sutartis, numatanti
 
-ir reglamentuojanti inspektavimo (tikrinimo) organizavimo tvarką.
+tokią teisę ir reglamentuojanti inspektavimo (tikrinimo) organizavimo tvarką.
 
 9. Priežiūros
 
@@ -7299,11 +7323,9 @@ filialo ar kito padalinio veiklą;
 
 apribojimą (moratoriumą);
 
-7) laikinai apriboti teisę disponuoti lėšomis,
+7) laikinai apriboti teisę disponuoti lėšomis, esančiomis
 
-esančiomis sąskaitose Lietuvos banke bei kitose kredito įstaigose, ir kitu
-
-turtu;
+sąskaitose Lietuvos banke bei kitose kredito įstaigose, ir kitu turtu;
 
 8) atšaukti išduotą licenciją ar laikinai sustabdyti
 
@@ -7375,15 +7397,13 @@ atsižvelgia į nustatytų pažeidimų ir veiklos trūkumų turinį, apimtį,
 
 kartotinumą, jų įtaką indėlininkų ir kitų kreditorių interesams, asmens, kuriam
 
-taikoma poveikio priemonė, finansinę būklę, steigėjo, akcininkų ir vadovų
+taikoma poveikio priemonė, finansinę būklę, steigėjo, akcininkų ir vadovų pasirengimą
 
-pasirengimą bei galimybes pašalinti pažeidimus ir trūkumus, nustatytų pažeidimų
+bei galimybes pašalinti pažeidimus ir trūkumus, nustatytų pažeidimų bei veiklos
 
-bei veiklos trūkumų ir numatomos taikyti poveikio priemonės (priemonių)
+trūkumų ir numatomos taikyti poveikio priemonės (priemonių) pasekmes asmens,
 
-pasekmes asmens, kuriam taikoma poveikio priemonė, ir bankų sistemos stabilumui
-
-ir patikimumui.
+kuriam taikoma poveikio priemonė, ir bankų sistemos stabilumui ir patikimumui.
 
 7. Priežiūros institucijos sprendimas taikyti bankui
 
@@ -7515,13 +7535,13 @@ institucija sprendimą dėl poveikio priemonės taikymo,
 
 kuris pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą laikomas
 
-draudžiamuoju įvykiu, priima ne vėliau kaip per 5 darbo dienas po to, kai
+draudžiamuoju įvykiu, priima ne vėliau kaip per 5 darbo dienas po to, kai nustato,
 
-nustato, kad priežiūros institucijos išduotą licenciją turintis bankas ar
+kad priežiūros institucijos išduotą licenciją turintis bankas ar užsienio banko
 
-užsienio banko filialas negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir
+filialas negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir yra pagrindas
 
-yra pagrindas manyti, kad to negalės padaryti artimiausiu metu.
+manyti, kad to negalės padaryti artimiausiu metu.
 
 Straipsnio
 
@@ -7751,17 +7771,15 @@ nustato priežiūros institucija. Šis terminas negali būti ilgesnis kaip 6
 
 mėnesiai. Jei priežiūros institucija pritaria laikinojo administratoriaus
 
-pateiktoms išvadoms ir pasiūlymams dėl banko veiklos stabilumo ir patikimumo
+pateiktoms išvadoms ir pasiūlymams dėl banko veiklos stabilumo ir patikimumo atkūrimo,
 
-atkūrimo, banko veiklos apribojimo (moratoriumo) terminas priežiūros
+banko veiklos apribojimo (moratoriumo) terminas priežiūros institucijos
 
-institucijos sprendimu gali būti pratęstas dar iki 6 mėnesių.
+sprendimu gali būti pratęstas dar iki 6 mėnesių.
 
 4. Priežiūros institucija, priimdama sprendimą skelbti
 
-banko veiklos apribojimą (moratoriumą), paskiria banko laikinąjį
-
-administratorių.
+banko veiklos apribojimą (moratoriumą), paskiria banko laikinąjį administratorių.
 
 5. Laikinuoju administratoriumi gali būti paskirtas
 
@@ -7801,9 +7819,11 @@ ir administracijos vadovų įgaliojimai. Jie pereina banko laikinajam
 
 administratoriui. Visi šiame punkte nurodytų banko organų sprendimai, priimti
 
-po sprendimo paskelbti banko veiklos apribojimą (moratoriumą) ir paskirti laikinąjį
+po sprendimo paskelbti banko veiklos apribojimą (moratoriumą) ir paskirti
 
-administratorių įsigaliojimo dienos, yra negaliojantys ir nevykdytini;
+laikinąjį administratorių įsigaliojimo dienos, yra negaliojantys ir
+
+nevykdytini;
 
 2) banko visuotinio akcininkų susirinkimo sprendimai
 
@@ -7935,11 +7955,11 @@ veikti;
 
 2) pratęsti banko veiklos apribojimo (moratoriumo)
 
-terminą ar atšaukti banko veiklos apribojimą (moratoriumą), jei priežiūros institucija
+terminą ar atšaukti banko veiklos apribojimą (moratoriumą), jei priežiūros
 
-pritaria laikinojo administratoriaus pateiktoms išvadoms ir pasiūlymams dėl
+institucija pritaria laikinojo administratoriaus pateiktoms išvadoms ir
 
-banko veiklos stabilumo ir patikimumo atkūrimo;
+pasiūlymams dėl banko veiklos stabilumo ir patikimumo atkūrimo;
 
 3) atšaukti licenciją.
 
@@ -8223,11 +8243,11 @@ Banko likvidavimas
 
 likviduojamas akcininkų sprendimu ar kitais įstatymų nustatytais pagrindais.
 
-2. Banko
+2. Banko visuotinis
 
-visuotinis akcininkų susirinkimas gali priimti sprendimą nutraukti banko veiklą
+akcininkų susirinkimas gali priimti sprendimą nutraukti banko veiklą ir jį
 
-ir jį likviduoti tik gavęs priežiūros institucijos leidimą likviduoti banką.
+likviduoti tik gavęs priežiūros institucijos leidimą likviduoti banką.
 
 3. Leidimą likviduoti banką išduoda
 
@@ -8241,15 +8261,15 @@ norėdamas gauti leidimą likviduoti banką, priežiūros institucijai pateikia
 
 prašymą ir priežiūros institucijos teisės aktų nustatytus dokumentus bei
 
-duomenis, taip pat banko valdybos parengtą ir su banko stebėtojų taryba
+duomenis, taip pat banko valdybos parengtą ir su banko stebėtojų taryba suderintą
 
-suderintą banko likvidavimo ir atsiskaitymo su kreditoriais planą, kuriame, be
+banko likvidavimo ir atsiskaitymo su kreditoriais planą, kuriame, be kita ko,
 
-kita ko, turi būti nurodyti atsiskaitymo su kreditoriais terminai ir šaltiniai,
+turi būti nurodyti atsiskaitymo su kreditoriais terminai ir šaltiniai, taip pat
 
-taip pat ekspertų išvadas dėl banko turto vertės. Kartu turi būti pateiktas
+ekspertų išvadas dėl banko turto vertės. Kartu turi būti pateiktas prašymas
 
-prašymas atšaukti licenciją.
+atšaukti licenciją.
 
 5. Priežiūros institucija privalo
 
@@ -8339,11 +8359,13 @@ BANKO BANKROTAS
 
 straipsnis. Bankų bankroto procedūros teisinis reglamentavimas
 
-Bankų bankroto procedūras
+Bankų bankroto
 
-reglamentuoja šis Įstatymas, Finansų įstaigų įstatymas ir Įmonių bankroto
+procedūras reglamentuoja šis Įstatymas, Finansų įstaigų įstatymas ir Įmonių
 
-įstatymas, jeigu šis Įstatymas bei Finansų įstaigų įstatymas nenustato kitaip.
+bankroto įstatymas, jeigu šis Įstatymas bei Finansų įstaigų įstatymas nenustato
+
+kitaip.
 
 84
 
@@ -8719,13 +8741,13 @@ toje valstybėje įsteigto banko ar užsienio banko, įskaitant jo filialus
 
 Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, ar toje
 
-Europos Sąjungos valstybėje narėje įsteigto kitos užsienio valstybės banko filialo
+Europos Sąjungos valstybėje narėje įsteigto kitos užsienio valstybės banko
 
-stabilumą ir patikimumą ir jei šie apribojimai gali turėti įtakos trečiųjų
+filialo stabilumą ir patikimumą ir jei šie apribojimai gali turėti įtakos
 
-asmenų, išskyrus banko akcininkus ir banko vadovus, teisėms, turėtoms iki
+trečiųjų asmenų, išskyrus banko akcininkus ir banko vadovus, teisėms, turėtoms
 
-veiklą ribojančios priemonės pritaikymo, įgyvendinti.
+iki veiklą ribojančios priemonės pritaikymo, įgyvendinti.
 
 2. Šiame skirsnyje banko likvidavimo
 
@@ -8819,9 +8841,9 @@ priemones.
 
 2. Priežiūros
 
-institucija privalo informuoti kitų priimančiųjų Europos Sąjungos valstybių
+institucija privalo informuoti kitų priimančiųjų Europos Sąjungos valstybių narių
 
-narių priežiūros institucijas apie teismo ar priežiūros institucijos numatomas
+priežiūros institucijas apie teismo ar priežiūros institucijos numatomas
 
 taikyti banko veiklą ribojančias priemones, o jei tai neįmanoma, privalo
 
@@ -8859,9 +8881,9 @@ adresas.
 
 5. Banko veiklą
 
-ribojančios priemonės taikomos ir galioja neatsižvelgiant į tai, ar šio straipsnio
+ribojančios priemonės taikomos ir galioja neatsižvelgiant į tai, ar šio
 
-nustatyta tvarka yra apie jas paskelbta informacija.
+straipsnio nustatyta tvarka yra apie jas paskelbta informacija.
 
 Straipsnio
 
@@ -8909,15 +8931,15 @@ Europos Sąjungos oficialiame leidinyje ir dviejuose šalies laikraščiuose
 
 kiekvienoje kitoje priimančiojoje Europos Sąjungos valstybėje narėje.
 
-4. Jeigu Lietuvos
+4. Jeigu
 
-Respublikos įstatymai nustato pareigą banko likvidavimo bylą pradėjusiai
+Lietuvos Respublikos įstatymai nustato pareigą banko likvidavimo bylą
 
-institucijai ar banko likvidatoriui (administratoriui) informuoti banko
+pradėjusiai institucijai ar banko likvidatoriui (administratoriui) informuoti
 
-kreditorius apie sprendimą pradėti banko likvidavimo bylą, taip pat turi būti
+banko kreditorius apie sprendimą pradėti banko likvidavimo bylą, taip pat turi
 
-informuojami ir banko kreditoriai kitose priimančiosiose Europos Sąjungos
+būti informuojami ir banko kreditoriai kitose priimančiosiose Europos Sąjungos
 
 valstybėse narėse. Pranešime apie sprendimą pradėti banko likvidavimo bylą
 
@@ -8957,9 +8979,9 @@ priemones.
 
 7. Banko
 
-likvidatorius (administratorius) privalo tinkamai ir laiku informuoti banko
+likvidatorius (administratorius) privalo tinkamai ir laiku informuoti banko kreditorius
 
-kreditorius apie banko likvidavimo eigą.
+apie banko likvidavimo eigą.
 
 Straipsnio
 
@@ -9029,13 +9051,13 @@ banko reikalavimus, jei tai leidžia banko reikalavimą reglamentuojantys
 
 5. Šio
 
-straipsnio 1-4 dalių nuostatos
+straipsnio 1-4 dalių
 
-neriboja teisės Lietuvos Respublikos įstatymų nustatytais būdais teismo tvarka
+nuostatos neriboja teisės Lietuvos Respublikos įstatymų nustatytais būdais
 
-spręsti klausimus dėl sandorių, pažeidžiančių banko kreditorių interesus,
+teismo tvarka spręsti klausimus dėl sandorių, pažeidžiančių banko kreditorių
 
-negaliojimo, pripažinimo negaliojančiais ar uždraudimo juos vykdyti.
+interesus, negaliojimo, pripažinimo negaliojančiais ar uždraudimo juos vykdyti.
 
 6. Šio
 
@@ -9069,9 +9091,11 @@ išduoti sprendimo jį paskirti patvirtintą kopiją. Kitos Europos Sąjungos
 
 valstybės narės institucijos išduotas sprendimas paskirti likvidatorių
 
-(administratorių) galioja ir Lietuvos Respublikoje, tačiau kartu turi būti pateikiamas
+(administratorių) galioja ir Lietuvos Respublikoje, tačiau kartu turi būti
 
-sprendimo vertimas į lietuvių kalbą. Šis vertimas neprivalo būti legalizuotas.
+pateikiamas sprendimo vertimas į lietuvių kalbą. Šis vertimas neprivalo būti
+
+legalizuotas.
 
 2. Lietuvos Respublikos teismo paskirtas
 
@@ -9281,19 +9305,19 @@ padaliniams
 
 griežtesnius ar papildomus reikalavimus veikiantiems bankams ar užsienio bankų
 
-padaliniams, negu nustatė teisės aktai iki šio Įstatymo įsigaliojimo, ir remiantis
+padaliniams, negu nustatė teisės aktai iki šio Įstatymo įsigaliojimo, ir
 
-šiais reikalavimais reikia pertvarkyti banko ar užsienio banko padalinio
+remiantis šiais reikalavimais reikia pertvarkyti banko ar užsienio banko
 
-veiklą, šie reikalavimai privalo būti įvykdyti ne vėliau kaip per vienus metus
+padalinio veiklą, šie reikalavimai privalo būti įvykdyti ne vėliau kaip per
 
-nuo šio Įstatymo įsigaliojimo dienos. Kol banko veikla nėra pertvarkyta pagal
+vienus metus nuo šio Įstatymo įsigaliojimo dienos. Kol banko veikla nėra
 
-visus šio Įstatymo reikalavimus, bankas neturi teisės šio Įstatymo nustatyta
+pertvarkyta pagal visus šio Įstatymo reikalavimus, bankas neturi teisės šio
 
-tvarka kitoje Europos Sąjungos valstybėje narėje steigti filialo ar teikti
+Įstatymo nustatyta tvarka kitoje Europos Sąjungos valstybėje narėje steigti
 
-finansinių paslaugų neįsteigęs filialo.
+filialo ar teikti finansinių paslaugų neįsteigęs filialo.
 
 2. Šio Įstatymo normos,
 
@@ -9303,9 +9327,9 @@ taikomos procedūroms, pradėtoms įsigaliojus šiam Įstatymui. Iki šio Įstat
 
 įsigaliojimo galiojęs Komercinių bankų įstatymas taikomas bankų reorganizavimo,
 
-likvidavimo ir bankroto procedūroms, jei sprendimai dėl banko reorganizavimo, likvidavimo
+likvidavimo ir bankroto procedūroms, jei sprendimai dėl banko reorganizavimo,
 
-ar bankroto priimti iki šio Įstatymo įsigaliojimo.
+likvidavimo ar bankroto priimti iki šio Įstatymo įsigaliojimo.
 
 3. Jei iki šio Įstatymo įsigaliojimo
 
@@ -9343,21 +9367,21 @@ banko išduotą leidimą veikti Lietuvos Respublikoje turintys Europos Sąjungos
 
 valstybėse narėse licencijuotų užsienio bankų filialai turi teisę teikti
 
-finansines paslaugas ir yra prižiūrimi taip pat kaip ir užsienio bankų filialai,
+finansines paslaugas ir yra prižiūrimi taip pat kaip ir užsienio bankų
 
-įsteigti pagal šio Įstatymo 20 straipsnį, o turimas Lietuvos banko išduotas
+filialai, įsteigti pagal šio Įstatymo 20 straipsnį, o turimas Lietuvos banko
 
-leidimas veikti Lietuvos Respublikoje netenka galios. Jei, atsižvelgiant į
+išduotas leidimas veikti Lietuvos Respublikoje netenka galios. Jei,
 
-Europos Sąjungos institucijų priimtus sprendimus, priežiūros institucijos
+atsižvelgiant į Europos Sąjungos institucijų priimtus sprendimus, priežiūros
 
-teisės aktai nenustato kitaip, tai per 6 mėnesius nuo šio Įstatymo įsigaliojimo
+institucijos teisės aktai nenustato kitaip, tai per 6 mėnesius nuo šio Įstatymo
 
-dienos toks Europos Sąjungos valstybėje narėje licencijuotas užsienio bankas
+įsigaliojimo dienos toks Europos Sąjungos valstybėje narėje licencijuotas
 
-privalo atlikti veiksmus, kad būtų įvykdytos šio Įstatymo 20 straipsnio 2
+užsienio bankas privalo atlikti veiksmus, kad būtų įvykdytos šio Įstatymo 20
 
-dalyje nustatytos sąlygos.
+straipsnio 2 dalyje nustatytos sąlygos.
 
 96 straipsnis.
 
@@ -9661,13 +9685,13 @@ ir Tarybos direktyva 2009/111/EB (OL 2009 L 302, p. 97).
 
 9. 2006 m.
 
-birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/49/EB dėl
+birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/49/EB dėl investicinių
 
-investicinių įmonių ir kredito įstaigų kapitalo pakankamumo (nauja redakcija)
+įmonių ir kredito įstaigų kapitalo pakankamumo (nauja redakcija) (OL 2006 L
 
-(OL 2006 L 177, p. 201) su paskutiniais pakeitimais, padarytais 2009 m. rugsėjo
+177, p. 201) su paskutiniais pakeitimais, padarytais 2009 m. rugsėjo 16 d.
 
-16 d. Europos Parlamento ir Tarybos direktyva 2009/111/EB (OL 2009 L 302, p. 97).
+Europos Parlamento ir Tarybos direktyva 2009/111/EB (OL 2009 L 302, p. 97).
 
 10. 2007 m. rugsėjo 5 d. Europos Parlamento ir Tarybos direktyva 2007/44/EB, iš dalies keičianti Tarybos
 
@@ -9695,9 +9719,9 @@ Nr. X-273, 2005-06-23,
 
 Žin., 2005, Nr. 84-3110 (2005-07-12)
 
-Nr. X-1038,
+Nr. X-1038, 2007-01-18,
 
-2007-01-18, Žin., 2007, Nr. 12-499 (2007-01-30)
+Žin., 2007, Nr. 12-499 (2007-01-30)
 
 Nr. XI-201,
 
@@ -9753,9 +9777,9 @@ X-273,
 
 BANKŲ
 
-ĮSTATYMO 2, 14, 20, 46, 53, 55, 65, 69, 72, 90, 91, 92 STRAIPSNIŲ IR PRIEDO
+ĮSTATYMO 2, 14, 20, 46, 53, 55, 65, 69, 72, 90, 91, 92 STRAIPSNIŲ IR PRIEDO PAKEITIMO
 
-PAKEITIMO ĮSTATYMAS
+ĮSTATYMAS
 
 3.
 
@@ -9905,11 +9929,23 @@ DEVINTOJO SKIRSNIO PAVADINIMO, ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO BEI
 
 ĮSTATYMO PAPILDYMO 70(1) STRAIPSNIU ĮSTATYMAS
 
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1598,
+
+2011-09-22, Žin., 2011, Nr. 119-5616 (2011-10-01)
+
+BANKŲ ĮSTATYMO 56 STRAIPSNIO PAPILDYMO
+
+ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2011-05-05)
+(2011-10-04)
 
 ausrine.trapinskiene@lrs.lt
 
@@ -10663,21 +10699,19 @@ reikalavimus nustato priežiūros institucijos teisės aktai.
 
 išduoti leidimą išnagrinėjamas ir sprendimas priimamas per šiame Įstatyme
 
-nustatytus terminus, o jei terminai šiame Įstatyme nenustatyti, – per
+nustatytus terminus, o jei terminai šiame Įstatyme nenustatyti, – per priežiūros
 
-priežiūros institucijos teisės aktuose  nustatytus  terminus. Priežiūros
+institucijos teisės aktuose  nustatytus  terminus. Priežiūros institucija turi
 
-institucija turi teisę  pareikalauti  papildomų dokumentų ir informacijos,
+teisę  pareikalauti  papildomų dokumentų ir informacijos, reikalingų sprendimui
 
-reikalingų sprendimui priimti. Jei priežiūros institucija pareikalauja papildomų
+priimti. Jei priežiūros institucija pareikalauja papildomų dokumentų ir
 
-dokumentų ir informacijos arba juos savarankiškai pateikia leidimo prašantis
+informacijos arba juos savarankiškai pateikia leidimo prašantis asmuo, prašymo
 
-asmuo, prašymo išnagrinėjimo ir sprendimo priėmimo terminas, jeigu šiame
+išnagrinėjimo ir sprendimo priėmimo terminas, jeigu šiame Įstatyme nenustatyta
 
-Įstatyme nenustatyta kitaip, skaičiuojamas nuo papildomų dokumentų ir
-
-informacijos gavimo dienos.
+kitaip, skaičiuojamas nuo papildomų dokumentų ir informacijos gavimo dienos.
 
 3. Priežiūros
 
@@ -10731,9 +10765,9 @@ vykdymo.
 
 licencijuotų užsienio  bankų, teikiančių paslaugas Lietuvos Respublikoje
 
-neįsteigus filialo, bei Europos Sąjungos valstybėse narėse licencijuotų užsienio
+neįsteigus filialo, bei Europos Sąjungos valstybėse narėse licencijuotų
 
-bankų Lietuvos Respublikoje įsteigtų filialų priežiūra
+užsienio bankų Lietuvos Respublikoje įsteigtų filialų priežiūra
 
 1. Europos Sąjungos valstybėse narėse
 
@@ -10809,15 +10843,15 @@ jungtinę (konsoliduotą) priežiūrą atsakingos priežiūros institucijos, jei
 
 Lietuvos Respublikoje filialą įsteigęs Europos Sąjungos valstybėje narėje
 
-licencijuotas užsienio bankas priklauso tokiai finansinei grupei, arba Europos
+licencijuotas užsienio bankas priklauso tokiai finansinei grupei, arba Europos Sąjungos
 
-Sąjungos valstybės narės, kurioje licencijuotas Lietuvos Respublikoje filialą
+valstybės narės, kurioje licencijuotas Lietuvos Respublikoje filialą įsteigęs
 
-įsteigęs užsienio bankas, priežiūros institucijos prašyti Europos Sąjungos
+užsienio bankas, priežiūros institucijos prašyti Europos Sąjungos valstybėje
 
-valstybėje narėje licencijuoto užsienio banko Lietuvos Respublikoje įsteigtą
+narėje licencijuoto užsienio banko Lietuvos Respublikoje įsteigtą filialą
 
-filialą pripažinti svarbiu. Teikiant prašymą, jame nurodomos priežastys Europos
+pripažinti svarbiu. Teikiant prašymą, jame nurodomos priežastys Europos
 
 Sąjungos valstybėje narėje licencijuoto užsienio banko Lietuvos Respublikoje
 
@@ -10877,11 +10911,11 @@ kuriai priklauso svarbiu pripažintą filialą įsteigęs bankas) ir atlieka kit
 
 papildomas užduotis. Priežiūros institucija, sužinojusi apie su jos
 
-licencijuotu banku, kuris kitoje Europos Sąjungos valstybėje narėje yra įsteigęs
+licencijuotu banku, kuris kitoje Europos Sąjungos valstybėje narėje yra
 
-svarbiu pripažintą filialą, susijusią kritinę situaciją, kuri kelia galimą
+įsteigęs svarbiu pripažintą filialą, susijusią kritinę situaciją, kuri kelia
 
-grėsmę rinkos likvidumui ir finansinės sistemos stabilumui toje Europos
+galimą grėsmę rinkos likvidumui ir finansinės sistemos stabilumui toje Europos
 
 Sąjungos valstybėje narėje, iš karto, kai tik praktiškai tai įmanoma padaryti,
 
@@ -10935,11 +10969,11 @@ likvidavimo procedūrų teisinis reglamentavimas
 
 1. Bankas
 
-reorganizuojamas, pertvarkomas ir likviduojamas Civilinio kodekso, šio Įstatymo,
+reorganizuojamas, pertvarkomas ir likviduojamas Civilinio kodekso, šio
 
-Finansų įstaigų įstatymo ir, jei šis Įstatymas nenustato kitaip, Akcinių
+Įstatymo, Finansų įstaigų įstatymo ir, jei šis Įstatymas nenustato kitaip,
 
-bendrovių įstatymo nustatyta tvarka.
+Akcinių bendrovių įstatymo nustatyta tvarka.
 
 2. Šio skirsnio
 
@@ -10959,11 +10993,11 @@ banką jungimo būdu, kitas reorganizavime dalyvaujantis ar reorganizuojamas
 
 subjektas gali būti tik bankas ar kita finansų įstaiga.
 
-2. Reorganizuojant
+2.
 
-banką skaidymo būdu, bent vienas iš juridinių asmenų, kuriems išdalijamos banko
+Reorganizuojant banką skaidymo būdu, bent vienas iš juridinių asmenų, kuriems
 
-teisės ir pareigos ar kurie įsteigiami, turi būti bankas.
+išdalijamos banko teisės ir pareigos ar kurie įsteigiami, turi būti bankas.
 
 3. Jei
 
@@ -11029,9 +11063,9 @@ reorganizuoti banką.
 
 2. Leidimą reorganizuoti banką išduoda
 
-priežiūros institucija įstatymų ir priežiūros institucijos teisės aktų
+priežiūros institucija įstatymų ir priežiūros institucijos teisės aktų nustatyta
 
-nustatyta tvarka.
+tvarka.
 
 3. Priėmus sprendimą dėl banko
 
@@ -11057,11 +11091,11 @@ projekto) įvertinimą;
 
 reorganizavimo;
 
-5) dokumentus ir duomenis,
+5) dokumentus ir duomenis, patvirtinančius,
 
-patvirtinančius, kad bankas atitinka reikalavimus, nustatytus leidimui steigti
+kad bankas atitinka reikalavimus, nustatytus leidimui steigti banką gauti, jei
 
-banką gauti, jei reorganizavimo metu steigiamas naujas bankas;
+reorganizavimo metu steigiamas naujas bankas;
 
 6) dokumentus ir duomenis,
 
@@ -11075,9 +11109,9 @@ išnagrinėti pateiktus dokumentus ir priimti sprendimą dėl leidimo reorganizu
 
 banką išdavimo ne vėliau kaip per 3 mėnesius nuo prašymo gavimo dienos.
 
-5. Priežiūros institucija gali
+5. Priežiūros institucija gali atsisakyti
 
-atsisakyti išduoti leidimą reorganizuoti banką, jei:
+išduoti leidimą reorganizuoti banką, jei:
 
 1) pateikti dokumentai neatitinka
 
@@ -11095,11 +11129,11 @@ dalyje nustatyti pagrindai, kai reorganizavimo metu steigiamas naujas bankas;
 
 dalyje nustatyti pagrindai, kai bankas tęs veiklą po reorganizavimo.
 
-6. Apie priimtą sprendimą išduoti
+6. Apie priimtą sprendimą išduoti leidimą
 
-leidimą reorganizuoti banką ar jo neišduoti priežiūros institucija raštu
+reorganizuoti banką ar jo neišduoti priežiūros institucija raštu praneša
 
-praneša juridinių asmenų registrui.
+juridinių asmenų registrui.
 
 90 straipsnis. Sprendimas taikyti banko veiklą
 
@@ -11137,11 +11171,11 @@ pritaikytos banko veiklą ribojančios priemonės ar teismo sprendimas įsigalio
 
 toje kitoje Europos Sąjungos valstybėje narėje. Tokios banko veiklą ribojančios
 
-priemonės taikomos ir pradėtos likvidavimo bylos procedūros atliekamos
+priemonės taikomos ir pradėtos likvidavimo bylos procedūros atliekamos vadovaujantis
 
-vadovaujantis tos kitos Europos Sąjungos valstybės narės teise, išskyrus šio
+tos kitos Europos Sąjungos valstybės narės teise, išskyrus šio straipsnio 6
 
-straipsnio 6 dalyje nustatytas išimtis.
+dalyje nustatytas išimtis.
 
 4. Šio straipsnio 3 dalies nuostatos
 
@@ -11213,7 +11247,9 @@ tokius susitarimus reglamentuojančioje sutartyje nurodyta teisė;
 
 4 punkto nuostatų, atpirkimo sandoriams bei reguliuojamoje rinkoje sudaromiems
 
-sandoriams taikoma tokius sandorius reglamentuojančioje sutartyje nurodyta teisė;
+sandoriams taikoma tokius sandorius reglamentuojančioje sutartyje nurodyta
+
+teisė;
 
 7) jei po
 
@@ -11245,13 +11281,13 @@ teisė;
 
 8) sprendimo
 
-taikyti banko veiklą ribojančias priemones ar sprendimo pradėti banko likvidavimo
+taikyti banko veiklą ribojančias priemones ar sprendimo pradėti banko
 
-bylą poveikį teisme nagrinėjamam ieškiniui dėl banko turto ar reikalavimo
+likvidavimo bylą poveikį teisme nagrinėjamam ieškiniui dėl banko turto ar
 
-teisės reglamentuoja tos Europos Sąjungos valstybės narės, kurioje yra
+reikalavimo teisės reglamentuoja tos Europos Sąjungos valstybės narės, kurioje
 
-nagrinėjamas ieškinys, teisė.
+yra nagrinėjamas ieškinys, teisė.
 
 Straipsnio
 
