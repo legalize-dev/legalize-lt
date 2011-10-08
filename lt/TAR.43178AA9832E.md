@@ -4,7 +4,7 @@ identifier: "TAR.43178AA9832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2011-06-11"
+last_updated: "2011-10-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E"
 department: "Lietuvos Respublikos Seimas"
@@ -372,15 +372,47 @@ nusprendžia sudaryti finansines ataskaitas arba kai Įmonių finansinės
 
 atskaitomybės įstatymas įpareigoja jas sudaryti.
 
+4 dalies
+
+redakcija nuo 2012-05-01:
+
+4. Ribotos civilinės atsakomybės juridiniai asmenys,
+
+savo veikla siekiantys pelno, išskyrus šio straipsnio 3 dalyje nurodytus ūkio
+
+subjektus, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais arba
+
+tarptautiniais apskaitos standartais. Pasirinkus tvarkyti apskaitą pagal verslo
+
+apskaitos standartus arba tarptautinius apskaitos standartus, toks pasirinkimas
+
+negali būti keičiamas anksčiau negu po 5 metų (išskyrus atvejį, kai ribotos civilinės
+
+atsakomybės juridinis asmuo, savo veikla siekiantis pelno, tampa įmonių grupės
+
+įmone). Verslo apskaitos standartus rengia, tvirtina ir „Valstybės žiniose“
+
+skelbia Lietuvos Respublikos Vyriausybės įgaliota įstaiga. Verslo apskaitos standartai turi būti parengti
+
+remiantis Europos Sąjungos teise ir tarptautiniais apskaitos
+
+standartais. Neribotos civilinės atsakomybės juridiniai asmenys, tvarkydami
+
+apskaitą, vadovaujasi verslo apskaitos standartais
+
+tuo atveju, kai savo nuožiūra nusprendžia sudaryti finansines ataskaitas arba
+
+kai Įmonių finansinės atskaitomybės įstatymas įpareigoja jas sudaryti.
+
 5. Viešojo
 
 sektoriaus subjektai, tvarkydami apskaitą, vadovaujasi viešojo sektoriaus
 
-apskaitos ir finansinės atskaitomybės standartais, kuriuos tvirtina ir
+apskaitos ir finansinės atskaitomybės standartais, kuriuos tvirtina ir „Valstybės
 
-„Valstybės žiniose“ skelbia Finansų ministerija. Viešojo sektoriaus apskaitos
+žiniose“ skelbia Finansų ministerija. Viešojo sektoriaus apskaitos ir
 
-ir finansinės atskaitomybės standartai turi būti parengti pagal tarptautinius
+finansinės atskaitomybės standartai turi būti parengti pagal tarptautinius
 
 viešojo sektoriaus apskaitos standartus ir kitą Tarptautinės buhalterių
 
@@ -396,9 +428,23 @@ ir apskaitos tarnybos savininko teises ir pareigas įgyvendina ir nuostatus
 
 tvirtina Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
 
+6 dalis netenka
+
+galios nuo 2012-05-01.
+
 7. Verslo apskaitos standartų paaiškinimus teikia
 
-Audito ir apskaitos tarnyba. Verslo apskaitos standartų paaiškinimas neturi
+Audito ir apskaitos tarnyba. Verslo apskaitos standartų paaiškinimas neturi teisės
+
+akto galios ir išreiškia verslo apskaitos standartų rengėjų nuomonę.
+
+7 dalies
+
+redakcija nuo 2012-05-01:
+
+7. Verslo apskaitos standartų paaiškinimus teikia Lietuvos Respublikos
+
+Vyriausybės įgaliota įstaiga. Verslo apskaitos standartų paaiškinimas neturi
 
 teisės akto galios ir išreiškia verslo apskaitos standartų rengėjų nuomonę.
 
@@ -427,6 +473,10 @@ Nr. X-1679,
 Nr. X-1823,
 
 2008-11-14, Žin., 2008, Nr. 137-5372 (2008-11-29)
+
+Nr. XI-1601,
+
+2011-09-22, Žin., 2011, Nr. 121-5707 (2011-10-08)
 
 4 straipsnis.
 
@@ -552,6 +602,16 @@ savo veikla siekiantiems pelno, pavyzdinį sąskaitų planą rengia, tvirtina ir
 
 „Valstybės žiniose“ skelbia Audito ir apskaitos tarnyba.
 
+1 dalies
+
+redakcija nuo 2012-05-01:
+
+1. Ribotos civilinės atsakomybės juridiniams asmenims,
+
+savo veikla siekiantiems pelno, pavyzdinį sąskaitų planą rengia, tvirtina ir
+
+„Valstybės žiniose“ skelbia Lietuvos Respublikos Vyriausybės įgaliota įstaiga.
+
 2. Viešojo sektoriaus subjektams, išskyrus įmones, priskiriamas
 
 viešojo sektoriaus subjektams, ir Lietuvos banką, privalomąjį bendrąjį
@@ -581,6 +641,10 @@ Nr. X-1178,
 Nr. X-1679,
 
 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
+
+Nr. XI-1601,
+
+2011-09-22, Žin., 2011, Nr. 121-5707 (2011-10-08)
 
 8 straipsnis.
 
@@ -630,9 +694,9 @@ Nr. X-1679,
 
 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
 
-10 straipsnis. Apskaitos
+10 straipsnis.
 
-tvarkymas
+Apskaitos tvarkymas
 
 1. Ūkio subjekto apskaitą tvarko:
 
@@ -858,9 +922,9 @@ pasirašyti arba tik pasirašyti apskaitos dokumentus, vardas (-ai) arba pirmoji
 
 dokumentams gali būti papildomai nustatyti privalomi rekvizitai. Reikalavimus
 
-mokesčiams apskaičiuoti naudojamiems apskaitos dokumentams, įskaitant šių
+mokesčiams apskaičiuoti naudojamiems apskaitos dokumentams, įskaitant šių dokumentų
 
-dokumentų gaminimo ir platinimo tvarką, nustato Vyriausybė.
+gaminimo ir platinimo tvarką, nustato Vyriausybė.
 
 3. Įrašai
 
@@ -994,9 +1058,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1178,
+Nr. X-1178, 2007-06-07,
 
-2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
+Žin., 2007, Nr. 68-2654 (2007-06-21)
 
 15 straipsnis.
 
@@ -1040,9 +1104,9 @@ Nr. XI-1188,
 
 2010-11-30, Žin., 2010, Nr. 145-7438 (2010-12-11)
 
-16 straipsnis.
+16 straipsnis. Apskaitos
 
-Apskaitos registrai
+registrai
 
 1. Ūkinių operacijų ir ūkinių įvykių duomenys
 
@@ -1104,29 +1168,33 @@ dokumento surašymo datą.
 
 3. Apskaitos dokumentuose galima taisyti kiekį, sumą
 
-ir tekstą, išskyrus šio straipsnio 2 dalyje numatytą apskaitos dokumento
+ir tekstą, išskyrus šio straipsnio 2 dalyje numatytą apskaitos
 
-rekvizitą. Taisant klaidą, klaidingas tekstas arba skaičius perbraukiamas taip,
+dokumento rekvizitą. Taisant klaidą, klaidingas tekstas arba skaičius
 
-kad galima būtų juos perskaityti, ir įrašomas teisingas tekstas arba skaičius.
+perbraukiamas taip, kad galima būtų juos perskaityti, ir įrašomas teisingas
 
-Šalia ištaisyto įrašo pasirašo taisomą apskaitos dokumentą pasirašę asmenys ir
+tekstas arba skaičius. Šalia ištaisyto įrašo pasirašo taisomą apskaitos
 
-nurodoma taisymo data. Tokie taisymai daromi tik dokumento surašymo metu.
+dokumentą pasirašę asmenys ir nurodoma taisymo data. Tokie taisymai daromi tik
+
+dokumento surašymo metu.
 
 4. Klaidos apskaitos registruose, pastebėtos iki
 
 metinių finansinių ataskaitų sudarymo ir patvirtinimo, gali būti taisomos
 
-perbraukiant klaidingą tekstą ir skaičių taip, kad būtų galima juos perskaityti,
+perbraukiant klaidingą tekstą ir skaičių taip, kad būtų galima juos
 
-ir įrašant teisingą skaičių ar tekstą arba surašant buhalterinę pažymą. Šalia
+perskaityti, ir įrašant teisingą skaičių ar tekstą arba surašant buhalterinę
 
-ištaisyto įrašo pasirašo taisomą dokumentą pasirašę asmenys ir nurodoma taisymo
+pažymą. Šalia ištaisyto įrašo pasirašo taisomą dokumentą pasirašę asmenys ir
 
-data. Klaidos apskaitos registruose, pastebėtos po metinių finansinių ataskaitų
+nurodoma taisymo data. Klaidos apskaitos registruose, pastebėtos po metinių
 
-sudarymo ir patvirtinimo, taisomos tik surašant buhalterinę pažymą.
+finansinių ataskaitų sudarymo ir patvirtinimo, taisomos tik surašant
+
+buhalterinę pažymą.
 
 Straipsnio pakeitimai:
 
@@ -1284,9 +1352,9 @@ pagrindų įstatymo 1 straipsnio pakeitimo įstatymas (Žin., 1999, Nr. 90-2644)
 
 pagrindų įstatymo 1 straipsnio papildymo įstatymas (Žin., 1999, Nr. 108-3130);
 
-10) Lietuvos Respublikos buhalterinės apskaitos
+10) Lietuvos Respublikos buhalterinės apskaitos pagrindų
 
-pagrindų įstatymo 2 straipsnio pakeitimo įstatymas (Žin., 2000, Nr. 52-1488);
+įstatymo 2 straipsnio pakeitimo įstatymas (Žin., 2000, Nr. 52-1488);
 
 11) Lietuvos Respublikos buhalterinės apskaitos
 
@@ -1466,7 +1534,9 @@ BUHALTERINĖS APSKAITOS ĮSTATYMO
 
 5.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+
+Įstatymas
 
 Nr. IX-1668,
 
@@ -1548,9 +1618,9 @@ Lietuvos Respublikos
 
 Seimas, Įstatymas
 
-Nr. X-1823, 2008-11-14,
+Nr. X-1823,
 
-Žin., 2008, Nr. 137-5372 (2008-11-29)
+2008-11-14, Žin., 2008, Nr. 137-5372 (2008-11-29)
 
 BUHALTERINĖS APSKAITOS
 
@@ -1706,11 +1776,29 @@ BUHALTERINĖS
 
 APSKAITOS ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+16.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1601,
+
+2011-09-22, Žin., 2011, Nr. 121-5707 (2011-10-08)
+
+BUHALTERINĖS
+
+APSKAITOS ĮSTATYMO 3 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja 2012 m. gegužės 1 d.
+
 *** Pabaiga ***
 
 Redagavo Aušrinė
 
-Trapinskienė (2011-06-13)
+Trapinskienė (2011-10-11)
 
 ausrine.trapinskiene@lrs.lt
 
@@ -1732,9 +1820,9 @@ tvarka, laikantis Archyvų departamento prie Lietuvos Respublikos Vyriausybės
 
 nustatytų dokumentų saugojimo terminų.
 
-3. Likviduotų ūkio subjektų apskaitos dokumentai ir
+3. Likviduotų ūkio subjektų apskaitos dokumentai ir apskaitos
 
-apskaitos registrai saugomi Dokumentų ir archyvų įstatymo nustatyta tvarka.
+registrai saugomi Dokumentų ir archyvų įstatymo nustatyta tvarka.
 
 4. Jei pasikeičia ūkio subjekto vadovas, apskaitos
 
