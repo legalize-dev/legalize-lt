@@ -4,7 +4,7 @@ identifier: "TAR.73F76F9D2EF1"
 country: "lt"
 rank: "konstitucinis_istatymas"
 publication_date: "1996-06-20"
-last_updated: "2003-04-09"
+last_updated: "2011-11-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.73F76F9D2EF1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinis įstatymas
 
-Suvestinė redakcija nuo 2003-04-09 iki 2011-11-11
+Suvestinė redakcija nuo 2011-11-12 iki 2018-01-18
 
 Konstitucinis įstatymas paskelbtas: Žin. 1996, Nr. 64-1503, i. k. 0961010KIST00I-1392
 
@@ -207,7 +207,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 1. Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinio įstatymo trečiasis skirsnis galioja iki Lietuvos Respublikos įstojimo į Europos Sąjungą dienos. Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinio įstatymo antrasis skirsnis įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos, išskyrus šio straipsnio 2 dalyje nustatytą išimtį dėl žemės ūkio paskirties ir miškų ūkio paskirties žemės įsigijimo.
 
-2. Šio Įstatymo 4 straipsnyje nustatytus kriterijus atitinkantys užsienio subjektai, išskyrus tuos užsieniečius, kurie ne mažiau kaip 3 metus Lietuvoje nuolat gyveno ir vertėsi žemės ūkio veikla, ir užsienio juridinius asmenis bei kitas užsienio organizacijas, įsteigusius Lietuvoje atstovybes ar filialus, negali įsigyti žemės ūkio paskirties ir miškų ūkio paskirties žemės iki Lietuvos Respublikos stojimo į Europos Sąjungą sutartyje apibrėžto 7 metų pereinamojo laikotarpio pabaigos.
+2. Šio Įstatymo 4 straipsnyje nustatytus kriterijus atitinkantys užsienio subjektai, išskyrus tuos užsieniečius, kurie ne mažiau kaip 3 metus Lietuvoje nuolat gyveno ir vertėsi žemės ūkio veikla, ir užsienio juridinius asmenis bei kitas užsienio organizacijas, įsteigusius Lietuvoje atstovybes ar filialus, negali įsigyti žemės ūkio paskirties ir miškų ūkio paskirties žemės iki 2014 m. balandžio 30 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1626, 2011-11-03, Žin., 2011, Nr. 135-6404 (2011-11-12), i. k. 1111010ISTA0XI-1626
 
 3. Nuo tos dienos, kurią Lietuvos Respublika taps Europos Sąjungos nare, galios tik tos šio Įstatymo nuostatos, kurios neprieštaraus Lietuvos Respublikos stojimo į Europos Sąjungą sutarčiai.
 
@@ -224,6 +228,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1381, 2003-03-20, Žin., 2003, Nr. 34-1418 (2003-04-09), i. k. 1031010ISTA0IX-1381
 
 Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų konstitucinio įstatymo pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+
+Nr. XI-1626, 2011-11-03, Žin., 2011, Nr. 135-6404 (2011-11-12), i. k. 1111010ISTA0XI-1626
+
+Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinio įstatymo 17 straipsnio pakeitimo konstitucinis įstatymas
 
 18 straipsnis. Įstatymo galiojimas
 
