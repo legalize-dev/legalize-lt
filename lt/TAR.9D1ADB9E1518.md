@@ -4,7 +4,7 @@ identifier: "TAR.9D1ADB9E1518"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-09-25"
-last_updated: "2008-06-21"
+last_updated: "2011-11-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 department: "Lietuvos Respublikos Seimas"
@@ -47,11 +47,9 @@ sveikatai, taip pat gamintojų, importuotojų, pardavėjų, vartotojų, atliekų
 
 tvarkytojų teises ir pareigas tvarkant pakuotes ir pakuočių atliekas.
 
-2.
+2. Šis įstatymas taikomas visiems pakuočių
 
-Šis įstatymas taikomas visiems gamintojams, importuotojams, pakuočių
-
-gamintojams, pardavėjams, vartotojams bei atliekų tvarkytojams.
+vartotojams ir ūkinės veiklos vykdytojams.
 
 3. Šis įstatymas skirtas Įstatymo priede
 
@@ -65,6 +63,12 @@ Nr. X-286, 2005-06-30,
 
 Žin., 2005, Nr. 86-3206 (2005-07-16)
 
+Nr.
+
+XI-1627,
+
+2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
+
 2 straipsnis.
 
 Pagrindinės šio Įstatymo sąvokos
@@ -73,19 +77,35 @@ Pagrindinės šio Įstatymo sąvokos
 
 atliekas pagal Atliekų tvarkymo įstatymo ir kitų teisės aktų reikalavimus.
 
-2. Energijos gavyba – degių pakuočių
+2.
+
+Daugkartinis pakuočių naudojimas (toliau – pakartotinis naudojimas)
+
+– operacija, kai pakuotės (sukonstruotos taip, kad naudojimo laikotarpiu galima
+
+būtų transportuoti daugiau nei vieną kartą) yra vėl pripildomos naudojant
+
+pripildant reikalingus papildomus rinkoje esančius produktus ar jų
+
+nenaudojant ar panaudojamos tam pačiam tikslui, kuriam jos buvo
+
+pagamintos. Jei tokios daugkartinės pakuotės daugiau nebenaudojamos pagal
+
+paskirtį, jos tampa pakuočių atliekomis.
+
+3. Energijos gavyba – degių pakuočių
 
 atliekų naudojimas energijai gauti, jas deginant atskirai ar kartu su kitomis
 
 atliekomis ir naudojant gautą šilumą.
 
-3. Gamintojas (pakuočių
+4. Gamintojas (pakuočių
 
 naudotojas) – asmuo, gaminantis ir (ar) pakuojantis gaminius, net jeigu
 
 pakavimo operacijas sutartiniais pagrindais atlieka kitas asmuo.
 
-4. Grupinė, arba antrinė, pakuotė (toliau – grupinė
+5. Grupinė, arba antrinė, pakuotė (toliau – grupinė
 
 pakuotė) – pakuotė, kurioje vartotojams ar gaminio naudotojams pateikiama
 
@@ -93,13 +113,13 @@ tam tikra grupė prekinių vienetų ar kuri naudojama prekių atsargoms papildyt
 
 Grupinę pakuotę galima pašalinti nepažeidus gaminio.
 
-5. Importuotojas – asmuo, kuris įveža į Lietuvos Respublikos
+6. Importuotojas – asmuo, kuris įveža į Lietuvos Respublikos
 
 teritoriją Lietuvos Respublikos vidaus rinkai skirtus į pakuotę supakuotus
 
 gaminius.
 
-6. Organinis perdirbimas – aerobinis
+7. Organinis perdirbimas – aerobinis
 
 (kompostavimas) ar anaerobinis (biometanizavimas) pakuočių atliekų biologiškai
 
@@ -108,18 +128,6 @@ skylančios dalies apdorojimas naudojant mikroorganizmus, kurio metu gaunama
 stabilizuota organinė liekana arba metanas. Šalinimas į sąvartyną negali būti
 
 laikomas pakuočių atliekų organinio perdirbimo būdu.
-
-7. Pakartotinis naudojimas – bet kokia
-
-operacija, kurios metu pakuotė (sukonstruota taip, kad per naudojimo laikotarpį
-
-atlaikytų tam tikrą gabenimų skaičių) yra vėl pripildoma naudojant papildomus
-
-rinkoje esančius gaminius arba be jų ar panaudojama tam pačiam tikslui, kuriam
-
-ji buvo pagaminta. Jei tokia pakartotinio naudojimo pakuotė daugiau nebegali
-
-būti panaudota pagal paskirtį, ji tampa pakuotės atlieka.
 
 8. Pakuočių atliekos – pakuotės ir pakuočių
 
@@ -133,11 +141,31 @@ atliekų tvarkymo būdas, numatytas atliekų naudojimo būdų sąraše, parengta
 
 pagal Atliekų tvarkymo įstatymo reikalavimus.
 
-10. Pakuočių atliekų tvarkymas – pakuočių
+10. Pakuočių
 
-atliekų surinkimo, vežimo, naudojimo ir šalinimo veikla.
+atliekų prevencija – pakuotes ir pakuočių atliekas sudarančių medžiagų,
 
-11. Pakuočių gamintojas
+taip pat pakuočių ir pakuočių atliekų, susidarančių gaminant, parduodant,
+
+kitaip platinant, naudojant ar šalinant supakuotus (sufasuotus) produktus,
+
+kiekio ir kenksmingumo aplinkai mažinimas, pirmiausia siekiant kurti aplinkos
+
+neteršiančius produktus ir technologijas.
+
+11. Pakuočių atliekų tvarkymas – pakuočių
+
+atliekų surinkimas,
+
+vežimas, naudojimas ir šalinimas,
+
+tokios veiklos organizavimas ir stebėsena, šalinimo vietų vėlesnė priežiūra,
+
+įskaitant minėtus
+
+veiksmus, atliekamus prekiautojo atliekomis ar tarpininko.
+
+12. Pakuočių gamintojas
 
 – asmuo,
 
@@ -145,61 +173,85 @@ kuris gamina ir (ar) įveža į Lietuvos Respublikos teritoriją tuščias pakuo
 
 skirtas Lietuvos Respublikos vidaus rinkai.
 
-12.
+13. Pakuočių
 
-Pakuotė –
+pardavėjas – asmuo,
 
-gaminys, pagamintas iš bet kokių medžiagų ir skirtas gaminiams pakuoti,
+parduodantis kitiems asmenims gamintojų ir importuotojų Lietuvos
 
-apsaugoti, tvarkyti, gabenti ir pateikti vartotojams ar gaminių naudotojams:
+Respublikos vidaus rinkai tiekiamas pakuotes ir supakuotus (sufasuotus)
 
-1)
+produktus.
 
-gaminys nėra pakuotė, jei jis yra neatskiriama kito gaminio dalis, yra skirtas
+14. Pakuočių
 
-tam gaminiui laikyti bei apsaugoti visą jo gyvavimo laikotarpį ir visos jo
+platintojas –
 
-dalys naudojamos, vartojamos bei pašalinamos kartu (pavyzdžiui, ne pakuotė – kompaktinių
+asmuo, platinantis (perduodantis kitiems asmenims) gamintojų ir importuotojų
 
-diskų, vaizdo kasečių dėklai, vazonai, kuriuose augalas auga visą savo
+Lietuvos Respublikos vidaus rinkai tiekiamas pakuotes ir supakuotus
 
-gyvavimą, įrankių dėžės, arbatos maišeliai, sūrius dengiantis vaško sluoksnis,
+(sufasuotus) produktus.
 
-dešrų apvalkalai; pakuotė – dėžutė saldainiams);
+15. Pakuočių vartotojas – fizinis
 
-2) gaminys yra pakuotė, skirtas užpildyti pardavimo vietoje, taip
+ar juridinis asmuo, naudojantis ar vartojantis supakuotus (sufasuotus)
 
-pat vienkartiniai gaminiai, kurie parduodant užpildomi ir (ar) skirti užpildyti
+produktus.
 
-pardavimo vietoje, jei jie atlieka pakuotės funkciją (pavyzdžiui, pakuotė –
+16. Pakuotė – grąžintinas
 
-maišeliai, skirti prekėms nešti, vienkartiniai puodeliai ir lėkštės, maistui vynioti
+ar negrąžintinas gaminys iš bet kokių medžiagų, skirtas daiktams, pradedant
 
-skirta plėvelė, maišeliai sumuštiniams, aliuminio folija; ne pakuotė –
+žaliavomis ir baigiant perdirbtais produktais, pakuoti (fasuoti), apsaugoti,
 
-maišiklis, vienkartiniai stalo įrankiai);
+tvarkyti, transportuoti ir pateikti vartotojams ar produktų naudotojams:
+
+1) gaminys nėra
+
+pakuotė, jeigu jis yra neatskiriama kito gaminio dalis, yra skirtas tam
+
+gaminiui laikyti ir apsaugoti visą jo gyvavimo laikotarpį ir visos jo dalys
+
+naudojamos, vartojamos ir pašalinamos kartu (pavyzdžiui, ne pakuotė –
+
+kompaktinių diskų, vaizdo kasečių dėklai, vazonai, kuriuose augalas auga visą
+
+savo gyvavimą, įrankių dėžės, arbatos maišeliai, sūrius dengiantis vaško
+
+sluoksnis, dešrų apvalkalai; pakuotė – dėžutė saldainiams);
+
+2) gaminys yra
+
+pakuotė, skirtas užpildyti pardavimo vietoje, taip pat vienkartiniai gaminiai,
+
+kurie parduodant užpildomi ir (ar) skirti užpildyti pardavimo vietoje, jei jie
+
+atlieka pakuotės funkciją (pavyzdžiui, pakuotė – maišeliai, skirti prekėms
+
+nešti, vienkartiniai puodeliai ir lėkštės, maistui vynioti skirta plėvelė,
+
+maišeliai sumuštiniams, aliuminio folija; ne pakuotė – maišiklis, vienkartiniai
+
+stalo įrankiai);
 
 3) pakuotę sudarantys pakuotės komponentai ir
 
-pagalbiniai elementai yra pakuotės dalys. Pagalbiniai elementai, tiesiogiai
+pagalbiniai elementai yra šios pakuotės dalys. Pagalbiniai elementai,
 
-pritvirtinti prie gaminio bei atliekantys pakuotės funkciją, yra pakuotė,
+tiesiogiai prikabinti ar pritvirtinti prie gaminio ir atliekantys pakuotės funkciją,
 
-išskyrus atvejus, kai jie yra gaminio sudėtinė dalis ir visos dalys yra skirtos
+yra pakuotė, išskyrus atvejus, kai jie yra gaminio sudedamoji dalis ir visos
 
-kartu naudoti bei pašalinti (pavyzdžiui, pakuotė – etiketės, pritvirtintos prie
+dalys yra skirtos kartu naudoti ir pašalinti (pavyzdžiui, pakuotė – etiketės,
 
-gaminio; pakuotės dalys – blakstienų tušo šepetėlis, lipnios etiketės,
+pritvirtintos prie gaminio; pakuotės dalys – blakstienų tušo šepetėlis, lipnios
 
-priklijuotos prie gaminio, sąsagėlės, plastikiniai dėklai, ploviklių pakuotės
+etiketės, priklijuotos prie gaminio, sąsagėlės, plastikiniai dėklai, ploviklių
 
-dangtelyje esantis dozatorius).
+pakuotės dangtelyje esantis dozatorius).
 
-13. Pardavėjas – Lietuvos Respublikos teisės
-
-aktų nustatyta tvarka įregistravęs savo veiklą asmuo, realizuojantis gaminius.
-
-14. Perdirbimas – pakuočių atliekas
+17. Perdirbimas – pakuočių atliekas
 
 sudarančių medžiagų perdirbimas gamybos proceso metu, įskaitant organinį
 
@@ -207,13 +259,13 @@ perdirbimą, bet išskyrus naudojimą energijai gauti, norint pakuočių atlieka
 
 sudarančias medžiagas panaudoti pagal pirminę ar kitokią paskirtį.
 
-15. Prekinė, arba pirminė, pakuotė (toliau – prekinė
+18. Prekinė, arba pirminė, pakuotė (toliau – prekinė
 
 pakuotė) – pakuotė, kuri kartu su gaminiu sudaro prekinį vienetą ir
 
 pateikiama vartotojams ar gaminio naudotojams.
 
-16. Transporto, arba tretinė, pakuotė (toliau
+19. Transporto, arba tretinė, pakuotė (toliau
 
 – transporto pakuotė) – pakuotė, kuri palengvina prekinėje ar grupinėje
 
@@ -223,7 +275,29 @@ apsaugo juos nuo pažeidimo. Transporto pakuotėms nepriklauso kelių,
 
 geležinkelių, laivų ir lėktuvų konteineriai.
 
-17. Užstatas – pinigų suma, pateikta už
+20.
+
+Ūkinės veiklos vykdytojai – teisės aktų nustatyta tvarka savo veiklą
+
+įregistravę asmenys:
+
+1)
+
+pakuočių medžiagų tiekėjai, pakuočių gamintojai, supakuotų (sufasuotų) produktų
+
+gamintojai (pakuočių naudotojai), importuotojai, pardavėjai,
+
+platintojai, pakuočių atliekų tvarkytojai, kitos šiame ir
+
+kituose įstatymuose numatytos organizacijos;
+
+2) pakuočių
+
+tiekimą Lietuvos Respublikos vidaus rinkai ir pakuočių atliekų tvarkymą
+
+koordinuojančios Vyriausybės įgaliotos institucijos.
+
+21. Užstatas – pinigų suma, pateikta už
 
 gaminio pakuotę siekiant užtikrinti, kad pakuotė bus grąžinta gamintojui ir
 
@@ -231,19 +305,11 @@ gaminio pakuotę siekiant užtikrinti, kad pakuotė bus grąžinta gamintojui ir
 
 Įstatymo 3 straipsnyje nustatytų pakuočių atliekų tvarkymo prioritetų.
 
-18. Ūkinės veiklos vykdytojai – pakuočių
+22. Kitos šiame įstatyme vartojamos
 
-medžiagų tiekėjai, pakuočių gamintojai, importuotojai ir naudotojai, supakuotų
+sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos atliekų
 
-gaminių importuotojai, pardavėjai, atliekų tvarkytojai.
-
-19. Prevencija – pakuotę sudarančių
-
-dalių ir medžiagų bei pakuočių atliekose esančių dalių ir medžiagų, taip pat
-
-pakuočių ir pakuočių atliekų, susidarančių gamybos proceso, pardavimo,
-
-naudojimo ir pašalinimo metu, kiekio ir kenksmingumo aplinkai mažinimas.
+tvarkymo įstatyme.
 
 Straipsnio
 
@@ -252,6 +318,222 @@ pakeitimai:
 Nr. X-286, 2005-06-30,
 
 Žin., 2005, Nr. 86-3206 (2005-07-16)
+
+Nr.
+
+XI-1627,
+
+2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
+
+3
+
+straipsnis. Pakuočių ir pakuočių atliekų tvarkymo prioritetai
+
+Ūkinės veiklos
+
+vykdytojai, nurodyti šio įstatymo 2 straipsnio 20 dalies 1 punkte, privalo
+
+vadovautis šiais pagal svarbą išdėstytais prioritetais:
+
+1) naudoti visas
+
+galimas pakuočių atliekų prevencijos priemones pakuočių atliekų susidarymui
+
+mažinti;
+
+2) pakartotinai naudoti
+
+pakuotes;
+
+3) perdirbti
+
+susidariusias pakuočių atliekas ir gauti iš jų naudoti tinkamus gaminius arba
+
+antrines žaliavas, tinkamas tokiems gaminiams gaminti;
+
+4) naudoti
+
+pakuočių atliekas energijai gauti;
+
+5) šio įstatymo ir
+
+kitų teisės aktų nustatyta tvarka saugiai šalinti susidariusias pakuočių
+
+atliekas, kad jos nekeltų pavojaus aplinkai ir žmonių sveikatai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XI-1627,
+
+2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
+
+4
+
+straipsnis. Pagrindiniai pakuočių reikalavimai
+
+1. Pakuotės turi
+
+būti projektuojamos ir gaminamos taip, kad jų tūris ir masė būtų kuo mažesni,
+
+atsižvelgiant į būtinybę nepažeisti pakuojamo gaminio ir vartotojo saugumo,
+
+higienos ir transportavimo reikalavimų, ir kad pakuotės būtų priimtinos
+
+pakuočių vartotojui,
+
+atsižvelgiant į pakuočių ir pakuočių atliekų tvarkymo prioritetus, išvardytus
+
+šio įstatymo 3 straipsnyje.
+
+2. Pakuotės turi
+
+būti projektuojamos, gaminamos, parduodamos taip, kad jas būtų galima pakartotinai
+
+naudoti, perdirbti ar kitaip panaudoti ir sumažinti neigiamą poveikį
+
+aplinkai šalinant pakuočių atliekas ir (ar) pakuočių atliekų apdorojimo
+
+liekanas.
+
+3. Pakuotės turi
+
+būti pagamintos taip, kad kuo didesnę pakuotės masės dalį būtų galima perdirbti
+
+į produktus, atitinkančius tiems produktams Europos Sąjungoje ir (ar) Lietuvos
+
+Respublikoje taikomus standartus. Perdirbama pakuotės masės dalis priklauso nuo
+
+pakuotės medžiagų savybių.
+
+4. Pakuotės turi
+
+būti gaminamos taip, kad pakuotes, pakuočių atliekas ar jų tvarkymo liekanas
+
+deginant ar šalinant sąvartyne į išmetamus teršalus, pelenus ar filtratą
+
+patektų kiek galima mažiau pakuotėse ar jų sudedamosiose dalyse esančių
+
+kenksmingų ir kitų pavojingų medžiagų. Ribinį leistiną kenksmingų medžiagų
+
+kiekį pakuotėse ir kenksmingų medžiagų kiekio kontrolės tvarką nustato
+
+Vyriausybė arba jos įgaliota institucija.
+
+5. Lietuvos
+
+Respublikos vidaus rinkai gali būti tiekiamos tik tos pakuotės, kurios atitinka
+
+visus šiame
+
+įstatyme pakuotėms
+
+(įskaitant
+
+pakartotinai
+
+naudojamas pakuotes)
+
+nustatytus reikalavimus.
+
+6. Lietuvos
+
+Respublikos vidaus rinkai tiekiamų pakuočių atitikties šiame įstatyme nurodytų
+
+pakuočių reikalavimams įgyvendinimo tvarką nustato Vyriausybės įgaliota
+
+institucija.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XI-1627,
+
+2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
+
+41
+
+straipsnis.
+
+Pakartotinio
+
+naudojimo pakuočių
+
+reikalavimai
+
+1. Pakartotinio
+
+naudojimo pakuotės turi būti pagamintos taip, kad įprastomis naudojimo
+
+sąlygomis būtų įmanoma jas transportuoti ir naudoti keletą kartų.
+
+2. Turi būti įmanoma panaudotas pakartotinio
+
+naudojimo pakuotes paruošti
+
+pakartotiniam naudojimui (išplauti, dezinfekuoti) nesukeliant pavojaus aplinkai
+
+ir šiuos darbus atliekančių žmonių saugai ir sveikatai.
+
+3. Pakartotinio
+
+naudojimo pakuotėms tapus atliekomis, šios turi atitikti šio įstatymo 42
+
+straipsnyje nustatytus pakuočių atliekų naudojimo reikalavimus.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr.
+
+XI-1627,
+
+2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
+
+42
+
+straipsnis. Pakuočių
+
+atliekų naudojimo
+
+reikalavimai
+
+1. Energijai
+
+gauti gali būti naudojamos tos pakuočių atliekos, kurios turi bent minimalų
+
+kaloringumą, leidžiantį optimizuoti energijos išgavimą.
+
+2. Pakuočių
+
+atliekos gali būti kompostuojamos, jeigu joms biologiškai skylant neigiamai
+
+neveikiamas atskiras atliekų surinkimas, kompostavimas ar kita veikla.
+
+3. Biologiškai
+
+skaidžios pakuočių atliekos turi fiziškai, chemiškai, termiškai ir biologiškai
+
+suirti taip, kad didžioji pagaminto komposto dalis galėtų skaidytis į anglies
+
+dioksidą, biomasę ir vandenį.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr.
+
+XI-1627,
+
+2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
 
 3 straipsnis. Pakuočių
 
@@ -359,6 +641,28 @@ Nr. X-286, 2005-06-30,
 
 Žin., 2005, Nr. 86-3206 (2005-07-16)
 
+6
+
+straipsnis. Pakuočių ir pakuočių atliekų apskaita
+
+Ūkinės veiklos
+
+vykdytojai, nurodyti šio įstatymo 2 straipsnio 20 dalies 1 punkte, pakuočių ir
+
+pakuočių atliekų apskaitą tvarko ir ataskaitas teikia Vyriausybės įgaliotos
+
+institucijos nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XI-1627,
+
+2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
+
 6 straipsnis. Pakuočių ir
 
 pakuočių atliekų apskaita
@@ -381,9 +685,9 @@ pakuočių atliekos būtų tvarkomos vadovaujantis šio įstatymo 3 straipsnyje
 
 nustatytais prioritetais ir kad būtų įvykdytos Vyriausybės ar jos įgaliotos
 
-institucijos nustatytos pakuočių atliekų, perdirbimo ir kitokio naudojimo
+institucijos nustatytos pakuočių atliekų, perdirbimo ir kitokio naudojimo užduotys
 
-užduotys ir (ar) pakuočių surinkimo ir pakartotinio naudojimo užduotys.
+ir (ar) pakuočių surinkimo ir pakartotinio naudojimo užduotys.
 
 2. Gamintojai ir importuotojai gali patys tvarkyti savo pakuočių
 
@@ -425,31 +729,33 @@ Nr. X-286, 2005-06-30,
 
 Žin., 2005, Nr. 86-3206 (2005-07-16)
 
-8 straipsnis. Pardavėjų pareiga
+8 straipsnis. Pakuočių pardavėjų ir platintojų pareiga surinkti
 
-surinkti pakuotes ir pakuočių atliekas
+pakuotes ir pakuočių atliekas
 
-1. Pardavėjai
+1. Pakuočių
 
-privalo priimti parduodamų gaminių pakuotes, už kurias nustatytas užstatas,
+pardavėjai privalo priimti parduodamų gaminių pakuotes, už kurias nustatytas
 
-išskyrus pardavėjus, prekiaujančius smulkiose parduotuvėse, kurių bendrasis
+užstatas, išskyrus pakuočių pardavėjus, prekiaujančius smulkiose parduotuvėse,
 
-plotas neviršija 90 kv. m (neskaitant kaimo parduotuvių), bei prekyvietėse,
+kurių bendrasis plotas neviršija 90 kv. m (neskaitant kaimo parduotuvių), ir
 
-kioskuose, degalinėse, viešojo maitinimo įstaigose.
+prekyvietėse, kioskuose, degalinėse, viešojo maitinimo įstaigose.
 
-2. Pardavėjai gali patys organizuoti pakuočių ir
+2. Pakuočių
 
-pakuočių atliekų surinkimo ir rūšiavimo sistemas arba pagal sutartis naudotis
+pardavėjai ir platintojai gali patys organizuoti pakuočių ir pakuočių atliekų
 
-organizuotomis atliekų tvarkymo sistemomis.
+surinkimo ir rūšiavimo sistemas arba pagal sutartis naudotis organizuotomis
 
-3. Pardavėjai prekybos vietoje turi teikti
+atliekų tvarkymo sistemomis.
 
-informaciją apie tai, kaip vartotojai gali grąžinti pakuotes ir pakuočių
+3. Pakuočių
 
-atliekas.
+pardavėjai prekybos vietose turi teikti informaciją apie tai, kaip pakuočių
+
+vartotojai gali grąžinti pakuotes ir pakuočių atliekas.
 
 Straipsnio
 
@@ -458,6 +764,16 @@ pakeitimai:
 Nr. X-1565,
 
 2008-06-03, Žin., 2008, Nr. 71-2699 (2008-06-21)
+
+Nr.
+
+XI-1627,
+
+2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
+
+Įstatymas papildomas
+
+81 straipsniu nuo 2012-01-01:
 
 9 straipsnis. Vartotojų pareiga
 
@@ -619,13 +935,65 @@ PAKUOČIŲ
 
 IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 8 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-***
+3.
 
-Pabaiga ***
+Lietuvos
 
-Redagavo:
+Respublikos Seimas, Įstatymas
 
-Aušrinė Trapinskienė (2008-06-25)
+Nr.
 
-autrap@lrs.lt
+XI-1627,
+
+2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
+
+PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO
+
+ĮSTATYMO 1, 2, 3, 4, 6, 8 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO
+
+4(1), 4(2), 8(1) STRAIPSNIAIS ĮSTATYMAS
+
+81 straipsnis. Informacija pakuočių vartotojams ir
+
+kitiems pakuočių atliekų turėtojams
+
+1.
+
+Pakuočių gamintojai, gamintojai ir (ar) importuotojai per visuomenės
+
+informavimo priemones ir kitais būdais turi informuoti pakuočių vartotojus ir
+
+kitus pakuočių atliekų turėtojus apie:
+
+1)
+
+jiems prieinamas grąžinimo, surinkimo ir naudojimo sistemas;
+
+2) pakuočių vartotojų ir
+
+kitų pakuočių atliekų turėtojų vaidmenį skatinant pakuočių ir pakuočių atliekų
+
+naudojimą, pakartotinį naudojimą ir perdirbimą;
+
+3)
+
+pakuočių ženklų reikšmes.
+
+2.
+
+Aplinkos ministerija savo
+
+interneto svetainėje turi skelbti Valstybiniame atliekų tvarkymo plane
+
+nustatytus pakuočių ir pakuočių atliekų tvarkymo reikalavimus ir užduotis.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr.
+
+XI-1627,
+
+2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
 
