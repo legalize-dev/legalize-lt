@@ -4,7 +4,7 @@ identifier: "TAR.3BAADED2C30B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-20"
-last_updated: "2009-08-04"
+last_updated: "2011-11-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3BAADED2C30B"
 department: "Lietuvos Respublikos Seimas"
@@ -945,9 +945,9 @@ Nr. X-84, 2005-01-20,
 
 Nr.
 
-XI-376, 2009-07-21,
+XI-376,
 
-Žin., 2009, Nr. 93-3969 (2009-08-04)
+2009-07-21, Žin., 2009, Nr. 93-3969 (2009-08-04)
 
 19
 
@@ -1005,9 +1005,9 @@ iš draudėjo informaciją, reikalingą funkcijoms atlikti;
 
 7)
 
-tikrinti, ar draudėjai yra pasirengę pateikti draudimo įmonei duomenis,
+tikrinti, ar draudėjai yra pasirengę pateikti draudimo įmonei duomenis, reikalingus
 
-reikalingus draudimo išmokoms apskaičiuoti;
+draudimo išmokoms apskaičiuoti;
 
 8) gauti
 
@@ -1039,19 +1039,15 @@ sudaryti turto vertinimo sutartis su asmenimis, turinčiais teisę vertinti
 
 vertybinius popierius;
 
-12)
+12) šio
 
-įstatymų nustatytais atvejais ir tvarka priimti sprendimą paimti banko akcijas
+Įstatymo 121 straipsnyje nustatytais būdais ir sąlygomis dalyvauti
 
-iš banko akcininkų visuomenės poreikiams, taip pat teisės aktų nustatyta tvarka
+banko turto, teisių, sandorių ir įsipareigojimų perdavimo finansavime;
 
-patikėjimo teise valdyti, naudoti ir disponuoti paimtomis akcijomis;
+13) (neteko
 
-13) jei
-
-priimamas sprendimas paimti banko akcijas iš banko akcininkų visuomenės
-
-poreikiams, gauti iš Centrinio depozitoriumo banko akcijų savininkų sąrašą;
+galios nuo 2011-11-18);
 
 14)
 
@@ -1088,6 +1084,10 @@ Nr.
 XI-376,
 
 2009-07-21, Žin., 2009, Nr. 93-3969 (2009-08-04)
+
+Nr. XI-1712,
+
+2011-11-17, Žin., 2011, Nr. 139-6552 (2011-11-18)
 
 21
 
@@ -1185,17 +1185,15 @@ draudimo įmonės savininko teises ir pareigas įgyvendinančiai institucijai sa
 
 veiklos metinę ataskaitą;
 
-10) įstatymų
+10) suderinusi
 
-nustatytais atvejais ir tvarka, suderinusi su draudimo įmonės savininko
+su draudimo įmonės savininko teises ir pareigas įgyvendinančia
 
-teises ir pareigas įgyvendinančia institucija, priima sprendimą paimti
+institucija, priima sprendimą šio Įstatymo 121 straipsnyje
 
-banko akcijas iš banko akcininkų visuomenės poreikiams ir sprendžia dėl šių
+nustatytais būdais ir sąlygomis dalyvauti banko turto, teisių, sandorių ir
 
-akcijų apmokėjimo, nustato lėšų, skiriamų banko veiklos saugumui ir patikimumui
-
-atkurti, dydį;
+įsipareigojimų perdavimo finansavime;
 
 11) atlieka
 
@@ -1226,6 +1224,10 @@ Nr.
 XI-376,
 
 2009-07-21, Žin., 2009, Nr. 93-3969 (2009-08-04)
+
+Nr. XI-1712,
+
+2011-11-17, Žin., 2011, Nr. 139-6552 (2011-11-18)
 
 22
 
@@ -1285,9 +1287,9 @@ jų yra, draudimo išmokos gali būti mokamos iš fondo, kuriame yra lėšų, ta
 
 prieš naudojant kitą fondą, visų pirma panaudojamas privalomasis rezervas. Po
 
-to draudimo įmokos, mokamos į fondą, kuriame trūko lėšų draudimo išmokoms
+to draudimo įmokos, mokamos į fondą, kuriame trūko lėšų draudimo išmokoms išmokėti,
 
-išmokėti, pirmiausia naudojamos lėšoms grąžinti į kitą fondą.
+pirmiausia naudojamos lėšoms grąžinti į kitą fondą.
 
 Straipsnio pakeitimai:
 
@@ -2071,22 +2073,6 @@ XI-376,
 
 straipsnis. Draudimo išmokos mokėjimo tvarka
 
-1 dalies
-
-redakcija iki 2010 m. gruodžio 31 d.:
-
-1.
-
-Draudimo išmokos išmokamos litais per 3 mėnesius nuo draudžiamojo įvykio
-
-dienos. Draudimo įmonės taryba gali pratęsti šį terminą ne ilgiau kaip 3
-
-mėnesiams (indėlių draudimo atveju – ne daugiau kaip du kartus po 3 mėnesius).
-
-1 dalies
-
-redakcija nuo 2010 m. gruodžio 31 d.:
-
 1.
 
 Draudimo išmokos indėlininkams išmokamos litais per 20 darbo dienų nuo
@@ -2101,11 +2087,11 @@ per 3 mėnesius nuo draudžiamojo įvykio dienos. Draudimo įmonės taryba gali
 
 pratęsti šį terminą ne ilgiau kaip 3 mėnesiams.
 
-2.
+2. Indėlininko
 
-Indėlininko ar investuotojo teisė gauti draudimo išmoką galioja 5 metus nuo
+ar investuotojo teisė gauti draudimo išmoką galioja 5 metus nuo draudžiamojo
 
-draudžiamojo įvykio dienos.
+įvykio dienos.
 
 3.
 
@@ -2225,13 +2211,13 @@ banko, kredito unijos ar įmonės paskolos gavėjams, jeigu indėliai ar
 
 paskolas su palūkanomis). Jeigu banko, kredito unijos ar įmonės paskolos gavėjo
 
-indėlis ar įsipareigojimai investuotojui yra didesni už šio gavėjo įsipareigojimus
+indėlis ar įsipareigojimai investuotojui yra didesni už šio gavėjo
 
-(negrąžintas paskolas su palūkanomis), draudimo suma skaičiuojama iš indėlio ar
+įsipareigojimus (negrąžintas paskolas su palūkanomis), draudimo suma skaičiuojama
 
-įsipareigojimų investuotojui atimant gavėjo įsipareigojimus, bet negali būti
+iš indėlio ar įsipareigojimų investuotojui atimant gavėjo įsipareigojimus, bet
 
-didesnė, negu nurodyta šio Įstatymo 9 straipsnio 3 dalyje;
+negali būti didesnė, negu nurodyta šio Įstatymo 9 straipsnio 3 dalyje;
 
 5) už
 
@@ -2265,155 +2251,23 @@ Nr. X-1429,
 
 2008-01-18, Žin., 2008, Nr. 15-512 (2008-02-05)
 
-KETVIRTASIS SKIRSNISINFORMAVIMAS APIE DRAUDIMĄ IR DRAUDIMO NUTRAUKIMAS
-
-13
-
-straipsnis. Informavimas apie draudimą
-
-1.
-
-Draudėjas esamus ir būsimus indėlininkus ir investuotojus lietuvių kalba
-
-aiškiai ir lengvai suprantamai turi informuoti apie draudimo įmonę
-
-arba užsienio
-
-draudimo įmonę, kurioje apdrausti indėliai ir (arba) įsipareigojimai
-
-investuotojams, draudimo sąlygas, įskaitant draudimo sumą, draudimo objektą ir
-
-šio Įstatymo 3 straipsnio 4 dalyje išvardytus atvejus, kai indėliai ir
-
-įsipareigojimai investuotojams nėra draudžiami. Be to, jeigu indėlininkas ar
-
-investuotojas pageidauja, jam turi būti suteikiama informacija apie draudimo
-
-išmokų mokėjimo sąlygas ir tvarką.
-
-2. Draudimo
-
-sąlygos negali būti konkurencijos priemonė, naudojama reklamoje. Reklamoje
-
-leidžiama nurodyti tik draudimo įmonę arba užsienio
-
-draudimo įmonę, kurioje apdrausti indėliai ir įsipareigojimai investuotojams.
-
-Straipsnio pakeitimai:
-
-Nr.
-
-XI-376,
-
-2009-07-21, Žin., 2009, Nr. 93-3969 (2009-08-04)
-
-14
-
-straipsnis. Draudimo nutraukimo tvarka
-
-1.
-
-Jeigu
-
-draudėjo priežiūros institucija atšaukia draudėjui teisę laikinai ar visam
-
-laikui priimti indėlius, tokiam draudėjui draudimo įmonės taryba be išankstinio
-
-įspėjimo atitinkamai laikinai ar visam laikui nutraukia indėlių draudimą. Jeigu
-
-priežiūros institucija panaikina laikinai ar visam laikui draudėjui teisę
-
-teikti investicines paslaugas, tokio draudėjo įsipareigojimų investuotojams
-
-draudimas nutraukiamas atitinkamai laikinai ar visam laikui.
-
-2.
-
-Apie
-
-teisės priimti indėlius ar teikti investicines paslaugas atšaukimą priežiūros
-
-institucija nedelsdama privalo informuoti draudimo įmonės tarybą.
-
-3. Jeigu
-
-draudėjas pažeidžia draudimo tvarką ir (arba) jo veikla kelia pavojų draudimo
-
-įmonės sugebėjimui vykdyti įsipareigojimus, draudimo įmonės taryba,
-
-pranešusi apie tai priežiūros institucijai, įspėja draudėją apie
-
-galimą draudimo nutraukimą ne vėliau kaip prieš 12 mėnesių. Jeigu per 12
-
-mėnesių po įspėjimo draudėjas nepašalina draudimo tvarkos pažeidimų, draudimo
-
-įmonės tarybos sprendimu, suderintu su draudėjo priežiūros institucija,
-
-draudėjo priimamų indėlių ar įsipareigojimų investuotojams draudimas gali būti
-
-nutrauktas.
-
-4. Apie
-
-indėlių ir įsipareigojimų investuotojams draudimo nutraukimą draudimo įmonė
-
-paskelbia „Valstybės žinių“ priede „Informaciniai pranešimai“.
-
-Straipsnio pakeitimai:
-
-Nr. X-1429,
-
-2008-01-18, Žin., 2008, Nr. 15-512 (2008-02-05)
-
-15
-
-straipsnis. Draudimo nutraukimo pasekmės
-
-Jeigu draudėjui,
-
-kuriam buvo nutrauktas draudimas, įvyksta draudžiamasis įvykis, draudimo įmonė
-
-išmoka draudimo išmokas tik už tuos indėlius bei įsipareigojimus, kurie buvo
-
-prisiimti iki sprendimo apie draudimo nutraukimą įsigaliojimo ir
-
-nebuvo grąžinti ar įvykdyti iki draudžiamojo įvykio dienos.
-
-Straipsnio pakeitimai:
-
-Nr. X-1429,
-
-2008-01-18, Žin., 2008, Nr. 15-512 (2008-02-05)
-
 25 straipsnis. Indėlių draudimo fondo ir
 
 Įsipareigojimų investuotojams draudimo fondo pajamos ir sąnaudos
 
-1. Indėlių draudimo
+1. Indėlių
 
-fondo ir Įsipareigojimų investuotojams draudimo fondo pajamas sudaro draudimo
+draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo pajamas sudaro
 
-įmokos, sumos, įstatymų nustatyta tvarka išieškotos iš likviduojamo draudėjo,
+draudimo įmokos, sumos, įstatymų nustatyta tvarka išieškotos iš likviduojamo
 
-pajamos iš Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo
+draudėjo, pajamos iš Indėlių draudimo fondo ir Įsipareigojimų investuotojams
 
-fondo investicijų, lėšos, gautos pardavus banko, kurio akcijos iš akcininkų
+draudimo fondo investicijų, lėšos, gautos pardavus laikinojo banko akcijas ar po
 
-paimtos visuomenės poreikiams, akcijas ar turtą, taip pat kitos sumos.
+laikinojo banko likvidavimo likusį turtą, taip pat kitos sumos.
 
-2. Indėlių
-
-draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo sąnaudas sudaro
-
-draudimo išmokos, Indėlių draudimo fondo ir Įsipareigojimų investuotojams
-
-draudimo fondo administravimo sąnaudos, sumos paimtoms banko akcijoms iš banko
-
-akcininkų visuomenės poreikiams apmokėti, taip pat sumos, skirtos banko, kurio
-
-akcijos iš akcininkų paimtos visuomenės poreikiams, veiklos saugumui ir
-
-patikimumui atkurti.
+2. Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo sąnaudas sudaro draudimo išmokos, Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo administravimo sąnaudos, sumos, skirtos dalyvauti banko turto, teisių, sandorių ir įsipareigojimų perdavimo finansavime.
 
 3. Indėlių
 
@@ -2436,6 +2290,10 @@ Nr. IX-2068,
 Nr. X-1429,
 
 2008-01-18, Žin., 2008, Nr. 15-512 (2008-02-05)
+
+Nr. XI-1712,
+
+2011-11-17, Žin., 2011, Nr. 139-6552 (2011-11-18)
 
 25(1) straipsnis. Draudimo įmonės pajamos ir sąnaudos
 
@@ -2519,9 +2377,9 @@ Nr. X-84, 2005-01-20,
 
 Nr.
 
-XI-376, 2009-07-21,
+XI-376,
 
-Žin., 2009, Nr. 93-3969 (2009-08-04)
+2009-07-21, Žin., 2009, Nr. 93-3969 (2009-08-04)
 
 26(1)
 
@@ -2819,9 +2677,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. X-1429, 2008-01-18,
+Nr. X-1429,
 
-Žin., 2008, Nr. 15-512 (2008-02-05)
+2008-01-18, Žin., 2008, Nr. 15-512 (2008-02-05)
 
 INDĖLIŲ IR ĮSIPAREIGOJIMŲ
 
@@ -2871,15 +2729,29 @@ NETEKUSIU GALIOS ĮSTATYMAS
 
 d.
 
-***
+6.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas,
 
-Redagavo
+Įstatymas
 
-Aušra Bodin (2009-08-04)
+Nr. XI-1712,
 
-aubodi@lrs.lt
+2011-11-17, Žin., 2011, Nr. 139-6552 (2011-11-18)
+
+INDĖLIŲ IR ĮSIPAREIGOJIMŲ
+
+INVESTUOTOJAMS DRAUDIMO ĮSTATYMO 20, 21, 25 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO
+
+PAPILDYMO 12(1) STRAIPSNIU ĮSTATYMAS
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2011-11-18)
+
+ausrine.trapinskiene@lrs.lt
 
 28 straipsnis. Draudimo įmonės atleidimas nuo palūkanų už valstybės įmonės savininko kapitalo naudojimą mokėjimoDraudimo įmonė atleidžiama nuo palūkanų už valstybės įmonės savininko kapitalo naudojimą mokėjimo į valstybės biudžetą.
 
@@ -2998,4 +2870,194 @@ Redagavo:
 Aušrinė Trapinskienė (2005-02-11)
 
 autrap@lrs.lt
+
+121 straipsnis. Banko turto,
+
+teisių, sandorių ir įsipareigojimų perdavimo finansavimas
+
+1. Draudimo
+
+įmonė, iš priežiūros institucijos gavusi informaciją apie pagal Lietuvos
+
+Respublikos bankų įstatymo 761 straipsnio nuostatas numatomą vykdyti
+
+banko turto, teisių, sandorių ir įsipareigojimų perdavimą kitam bankui,
+
+sprendžia klausimą dėl dalyvavimo banko turto, teisių ir įsipareigojimų
+
+perdavimo finansavime.
+
+2. Draudimo
+
+įmonė dalyvauja banko turto, teisių, sandorių ir įsipareigojimų perdavimo
+
+finansavime vienu ar abiem šiais būdais:
+
+1) apmokėdama
+
+pagal Lietuvos Respublikos finansinio tvarumo įstatymo 71 straipsnio
+
+nuostatas steigiamo laikinojo banko akcijas;
+
+2) pervesdama
+
+lėšas laikinajam bankui ar kitam bankui, kuris pagal Lietuvos Respublikos bankų
+
+įstatymo 761 straipsnio nuostatas perima banko turtą, teises ir
+
+įsipareigojimus, tam, kad būtų padengta perduodamų įsipareigojimų vertės ir
+
+kartu perduodamo turto, teisių ir sandorių vertės skirtumo suma.
+
+3. Jeigu
+
+draudimo įmonė dalyvauja banko turto, teisių, sandorių ir įsipareigojimų
+
+perdavimo finansavime, bendra draudimo įmonės mokama suma neturi viršyti sumos,
+
+kurią, įvykus draudžiamajam įvykiui, draudimo įmonė pagal šį Įstatymą privalėtų
+
+išmokėti banko, kurio turtas, teisės ir įsipareigojimai perduodami,
+
+indėlininkams ir investuotojams.
+
+4. Draudimo
+
+įmonės dalyvavimas banko turto, teisių, sandorių ir įsipareigojimų perdavimo
+
+finansavime šio straipsnio 2 dalies 2 punkte nurodytu būdu prilyginamas
+
+draudimo išmokos banko indėlininkams ir investuotojams išmokėjimui, ir bankas,
+
+kurio turtas, teisės ir įsipareigojimai perduodami, panaudota finansavimui suma
+
+privalo padidinti įsipareigojimus draudimo įmonei.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr. XI-1712,
+
+2011-11-17, Žin., 2011, Nr. 139-6552 (2011-11-18)
+
+KETVIRTASIS SKIRSNISINFORMAVIMAS APIE DRAUDIMĄ IR DRAUDIMO NUTRAUKIMAS
+
+13
+
+straipsnis. Informavimas apie draudimą
+
+1.
+
+Draudėjas esamus ir būsimus indėlininkus ir investuotojus lietuvių kalba
+
+aiškiai ir lengvai suprantamai turi informuoti apie draudimo įmonę
+
+arba užsienio
+
+draudimo įmonę, kurioje apdrausti indėliai ir (arba) įsipareigojimai
+
+investuotojams, draudimo sąlygas, įskaitant draudimo sumą, draudimo objektą ir
+
+šio Įstatymo 3 straipsnio 4 dalyje išvardytus atvejus, kai indėliai ir
+
+įsipareigojimai investuotojams nėra draudžiami. Be to, jeigu indėlininkas ar
+
+investuotojas pageidauja, jam turi būti suteikiama informacija apie draudimo
+
+išmokų mokėjimo sąlygas ir tvarką.
+
+2. Draudimo
+
+sąlygos negali būti konkurencijos priemonė, naudojama reklamoje. Reklamoje
+
+leidžiama nurodyti tik draudimo įmonę arba užsienio
+
+draudimo įmonę, kurioje apdrausti indėliai ir įsipareigojimai investuotojams.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XI-376,
+
+2009-07-21, Žin., 2009, Nr. 93-3969 (2009-08-04)
+
+14
+
+straipsnis. Draudimo nutraukimo tvarka
+
+1.
+
+Jeigu
+
+draudėjo priežiūros institucija atšaukia draudėjui teisę laikinai ar visam
+
+laikui priimti indėlius, tokiam draudėjui draudimo įmonės taryba be išankstinio
+
+įspėjimo atitinkamai laikinai ar visam laikui nutraukia indėlių draudimą. Jeigu
+
+priežiūros institucija panaikina laikinai ar visam laikui draudėjui teisę
+
+teikti investicines paslaugas, tokio draudėjo įsipareigojimų investuotojams
+
+draudimas nutraukiamas atitinkamai laikinai ar visam laikui.
+
+2.
+
+Apie
+
+teisės priimti indėlius ar teikti investicines paslaugas atšaukimą priežiūros
+
+institucija nedelsdama privalo informuoti draudimo įmonės tarybą.
+
+3. Jeigu
+
+draudėjas pažeidžia draudimo tvarką ir (arba) jo veikla kelia pavojų draudimo
+
+įmonės sugebėjimui vykdyti įsipareigojimus, draudimo įmonės taryba,
+
+pranešusi apie tai priežiūros institucijai, įspėja draudėją apie
+
+galimą draudimo nutraukimą ne vėliau kaip prieš 12 mėnesių. Jeigu per 12
+
+mėnesių po įspėjimo draudėjas nepašalina draudimo tvarkos pažeidimų, draudimo
+
+įmonės tarybos sprendimu, suderintu su draudėjo priežiūros institucija,
+
+draudėjo priimamų indėlių ar įsipareigojimų investuotojams draudimas gali būti
+
+nutrauktas.
+
+4. Apie
+
+indėlių ir įsipareigojimų investuotojams draudimo nutraukimą draudimo įmonė
+
+paskelbia „Valstybės žinių“ priede „Informaciniai pranešimai“.
+
+Straipsnio pakeitimai:
+
+Nr. X-1429,
+
+2008-01-18, Žin., 2008, Nr. 15-512 (2008-02-05)
+
+15
+
+straipsnis. Draudimo nutraukimo pasekmės
+
+Jeigu draudėjui,
+
+kuriam buvo nutrauktas draudimas, įvyksta draudžiamasis įvykis, draudimo įmonė
+
+išmoka draudimo išmokas tik už tuos indėlius bei įsipareigojimus, kurie buvo
+
+prisiimti iki sprendimo apie draudimo nutraukimą įsigaliojimo ir
+
+nebuvo grąžinti ar įvykdyti iki draudžiamojo įvykio dienos.
+
+Straipsnio pakeitimai:
+
+Nr. X-1429,
+
+2008-01-18, Žin., 2008, Nr. 15-512 (2008-02-05)
 
