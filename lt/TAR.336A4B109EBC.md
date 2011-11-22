@@ -4,7 +4,7 @@ identifier: "TAR.336A4B109EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2011-05-15"
+last_updated: "2011-11-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -11316,7 +11316,7 @@ netekimas dėl rinkėjams nepaskelbtos turėtos teismo nuosprendžiu (sprendimu)
 
 paskirtos bausmės
 
-1. Kiekvienas kandidatas
+*1. Kiekvienas kandidatas
 
 turi viešai paskelbti, jeigu jis po 1990 m. kovo 11 d. Lietuvos Respublikos ar
 
@@ -11336,9 +11336,9 @@ plakate su kandidatų sąrašu, prie kandidato pavardės turi būti pažymėta:
 
 „Teismo nuosprendžiu buvo pripažintas kaltu dėl nusikalstamos veikos“. Tai
 
-pažymėti neprivaloma, jeigu asmuo okupacinio režimo teismo buvo pripažintas
+pažymėti neprivaloma, jeigu asmuo okupacinio režimo teismo buvo pripažintas kaltu
 
-kaltu dėl nusikaltimo valstybei.
+dėl nusikaltimo valstybei.
 
 2. Jeigu kandidatas neįvykdė šio
 
@@ -11368,6 +11368,42 @@ ir rinkimų komisijos atitinkamų veiksmų nesiima, jeigu asmuo okupacinio reži
 
 teismo buvo pripažintas kaltu dėl nusikaltimo valstybei.
 
+*Pastaba. Pripažinti, kad Lietuvos
+
+Respublikos savivaldybių tarybų rinkimų įstatymo (2010 m. birželio
+
+30 d. redakcija; Žin., 2010, Nr. 86-4523, Nr. 141) 89 straipsnio
+
+1 dalis tiek, kiek joje nenustatyta, kad savivaldybės rinkimų
+
+komisijos leidžiamame kandidato plakate ar plakate su kandidatų sąrašu prie
+
+kandidato pavardės neturi būti pažymėta: „Teismo nuosprendžiu buvo pripažintas
+
+kaltu dėl nusikalstamos veikos“, jeigu asmuo įsiteisėjusiu teismo nuosprendžiu
+
+(sprendimu) buvo pripažintas kaltu dėl nusikalstamos veikos, kuri vėliau
+
+dekriminalizuota, arba jeigu asmuo užsienio valstybės teismo buvo pripažintas
+
+kaltu dėl veikos, kuri pagal Lietuvos Respublikos teisę nėra ir nebuvo laikoma
+
+nusikalstama arba už kurią patraukimas baudžiamojon atsakomybėn laikomas
+
+politinio pobūdžio persekiojimu, prieštarauja Lietuvos Respublikos
+
+Konstitucijos 29 straipsniui, 34 straipsnio 2 daliai, konstituciniam teisinės
+
+valstybės principui.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+2011-11-17,
+
+Žin., 2011, Nr. 141-6634 (2011-11-22)
+
 90
 
 straipsnis. Pareigos, nesuderinamos su savivaldybės tarybos nario pareigomis,
@@ -11380,9 +11416,9 @@ tarybos nario pareigos nesuderinamos su Respublikos Prezidento, Seimo nario,
 
 Europos Parlamento nario, Vyriausybės nario pareigomis, su Vyriausybės įstaigos
 
-ar įstaigos prie ministerijos vadovo, kurio veikla susijusi su savivaldybių
+ar įstaigos prie ministerijos vadovo, kurio veikla susijusi su savivaldybių veiklos
 
-veiklos priežiūra ir kontrole, pareigomis, su Vyriausybės atstovo apskrityje
+priežiūra ir kontrole, pareigomis, su Vyriausybės atstovo apskrityje
 
 pareigomis, su valstybės kontrolieriaus ir jo pavaduotojo pareigomis. Be to,
 
@@ -11416,11 +11452,11 @@ savivaldybės tarybos nario pareigomis, išrenkamas savivaldybės tarybos nariu,
 
 jis turi apsispręsti ir atsisakyti tų pareigų arba išrinkto savivaldybės
 
-tarybos nario mandato. Išrinktas savivaldybės tarybos narys, apsisprendęs
+tarybos nario mandato. Išrinktas savivaldybės tarybos narys, apsisprendęs atsisakyti
 
-atsisakyti savivaldybės tarybos nario mandato, ne vėliau kaip likus 10 dienų
+savivaldybės tarybos nario mandato, ne vėliau kaip likus 10 dienų iki
 
-iki savivaldybės tarybos pirmojo posėdžio dienos paduoda Vyriausiajai rinkimų
+savivaldybės tarybos pirmojo posėdžio dienos paduoda Vyriausiajai rinkimų
 
 komisijai asmeniškai arba išsiunčia jai notarine tvarka patvirtintą pareiškimą
 
@@ -11467,6 +11503,32 @@ tos savivaldybės administracijos darbuotojo, dirbančio pagal darbo sutartį,
 pareigomis taikoma po šio įstatymo įsigaliojimo išrinktiems savivaldybių tarybų
 
 nariams.
+
+*Pastaba. Pripažinti, kad
+
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo (2010 m. birželio
+
+30 d. redakcija; Žin., 2010, Nr. 86-4523, Nr. 141) 90 straipsnio
+
+1 dalis tiek, kiek joje nenustatyta, kad savivaldybės tarybos nario
+
+pareigos yra nesuderinamos su tos savivaldybės tarybos sekretoriato vadovo, tos
+
+savivaldybės tarybos sekretoriato karjeros valstybės tarnautojo ir pagal darbo
+
+sutartį dirbančio darbuotojo pareigomis, prieštarauja Lietuvos Respublikos
+
+Konstitucijos 119 straipsnio 1, 4 dalims, konstituciniam teisinės
+
+valstybės principui.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+2011-11-17,
+
+Žin., 2011, Nr. 141-6634 (2011-11-22)
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -11570,9 +11632,7 @@ I-795,
 
 DĖL
 
-LIETUVOS RESPUBLIKOS SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 41 IR 45 STRAIPSNIŲ
-
-PAKEITIMO
+LIETUVOS RESPUBLIKOS SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 41 IR 45 STRAIPSNIŲ PAKEITIMO
 
 5.
 
@@ -11706,9 +11766,9 @@ Nr. IX-274, 2001 04 19, Žin., 2001, Nr.
 
 39-1345 (2001 05 09)
 
-SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 21 STRAIPSNIO
+SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 21 STRAIPSNIO PAKEITIMO
 
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+IR PAPILDYMO ĮSTATYMAS
 
 13.
 
@@ -11774,9 +11834,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1340, 2003-01-28,
+IX-1340,
 
-Žin., 2003, Nr. 17-711 (2003-02-19)
+2003-01-28, Žin., 2003, Nr. 17-711 (2003-02-19)
 
 SAVIVALDYBIŲ
 
@@ -12046,9 +12106,9 @@ X-1045,
 
 SAVIVALDYBIŲ
 
-TARYBŲ RINKIMŲ ĮSTATYMO 2, 14, 16, 29, 31, 55, 62, 64, 65, 67, 69, 73
+TARYBŲ RINKIMŲ ĮSTATYMO 2, 14, 16, 29, 31, 55, 62, 64, 65, 67, 69, 73 STRAIPSNIŲ
 
-STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 28.
 
@@ -12242,11 +12302,29 @@ SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO (2010 M. BIRŽELIO 30 D. REDAKCIJA) 34
 
 STRAIPSNIO, 83 STRAIPSNIO 2, 3, 4, 5 DALIŲ, LIETUVOS RESPUBLIKOS POLITINIŲ
 
-PARTIJŲ IR POLITINIŲ KAMPANIJŲ FINANSAVIMO BEI FINANSAVIMO KONTROLĖS ĮSTATYMO
+PARTIJŲ IR POLITINIŲ KAMPANIJŲ FINANSAVIMO BEI FINANSAVIMO KONTROLĖS ĮSTATYMO (2010
 
-(2010 M. GEGUŽĖS 18 D. REDAKCIJA) 3 STRAIPSNIO 2 DALIES ATITIKTIES LIETUVOS
+M. GEGUŽĖS 18 D. REDAKCIJA) 3 STRAIPSNIO 2 DALIES ATITIKTIES LIETUVOS
 
 RESPUBLIKOS KONSTITUCIJAI
+
+3.
+
+Lietuvos
+
+Respublikos Konstitucinis Teismas, Nutarimas
+
+2011-11-17,
+
+Žin., 2011, Nr. 141-6634 (2011-11-22)
+
+DĖL
+
+LIETUVOS RESPUBLIKOS SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO (2010 M. BIRŽELIO 30
+
+D. REDAKCIJA) 89 STRAIPSNIO 1 DALIES, 90 STRAIPSNIO 1 DALIES ATITIKTIES
+
+LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 ***
 
@@ -12254,7 +12332,7 @@ Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2011-05-16)
+Aušrinė Trapinskienė (2011-11-22)
 
 ausrine.trapinskiene@lrs.lt
 
