@@ -4,7 +4,7 @@ identifier: "TAR.AB0E44DE47D8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-01"
-last_updated: "2010-11-23"
+last_updated: "2011-11-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB0E44DE47D8"
 department: "Lietuvos Respublikos Seimas"
@@ -379,6 +379,22 @@ metų, o jeigu jie mokosi ar studijuoja pagal formaliojo švietimo programų die
 
 ar nuolatines mokymo (studijų) formas, – iki jiems sukanka 24 metai;
 
+1 punkto
+
+redakcija nuo 2011-12-30:
+
+1) nepilnamečiams – iki jiems sukanka 18
+
+metų, o jeigu jie mokosi ar studijuoja pagal nustatyta tvarka įregistruotas
+
+švietimo įstaigų bendrojo ugdymo programas, formaliojo profesinio mokymo
+
+programas ir dieninių ar nuolatinių studijų programas, – iki mokymosi ar
+
+studijų pagal šias programas baigimo, bet ne ilgiau, iki jiems sukanka
+
+24 metai;
+
 2) asmenims,
 
 sulaukusiems senatvės pensijos amžiaus, – iki gyvos galvos;
@@ -387,13 +403,13 @@ sulaukusiems senatvės pensijos amžiaus, – iki gyvos galvos;
 
 kurie pripažinti neįgaliaisiais, – jų neįgalumo laikotarpiu;
 
-4) mirusiojo sutuoktiniui ar tėvui (motinai),
+4) mirusiojo sutuoktiniui ar tėvui
 
-įtėviui, nepaisant amžiaus ir darbingumo, jeigu jis nedirba ir prižiūri
+(motinai), įtėviui, nepaisant amžiaus ir darbingumo, jeigu jis nedirba ir
 
-mirusiojo vaikus, vaikaičius, įvaikius, brolius ar seseris, – iki šiems sukanka
+prižiūri mirusiojo vaikus, vaikaičius, įvaikius, brolius ar seseris, – iki
 
-8 metai.
+šiems sukanka 8 metai.
 
 2. Šio straipsnio 1 dalyje nurodytiems
 
@@ -420,6 +436,12 @@ Nr.
 XI-752,
 
 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
+
+Nr.
+
+XI-1645,
+
+2011-11-10, Žin., 2011, Nr. 144-6754 (2011-11-29)
 
 8
 
@@ -551,15 +573,15 @@ TVARKA
 
 straipsnis. Vidutinis darbo užmokestis
 
-1. Nukentėjusiojo vidutinis darbo
+1. Nukentėjusiojo vidutinis darbo užmokestis
 
-užmokestis apskaičiuojamas laikantis Vyriausybės patvirtinto Darbuotojo ir
+apskaičiuojamas laikantis Vyriausybės patvirtinto Darbuotojo ir valstybės
 
-valstybės tarnautojo vidutinio darbo užmokesčio apskaičiavimo tvarkos aprašo
+tarnautojo vidutinio darbo užmokesčio apskaičiavimo tvarkos aprašo pagal darbo
 
-pagal darbo užmokestį, gautą iki nelaimingo atsitikimo darbe arba susirgimo
+užmokestį, gautą iki nelaimingo atsitikimo darbe arba susirgimo profesine liga
 
-profesine liga nustatymo.
+nustatymo.
 
 2. Profesinės
 
@@ -583,15 +605,15 @@ mažiau apmokamą darbą toje pačioje darbovietėje, vidutinis darbo užmokesti
 
 nukentėjusiojo pageidavimu apskaičiuojamas pagal toje darbovietėje, kurioje
 
-darbas sukėlė profesinę ligą, gautą darbo užmokestį iš nukentėjusiojo
+darbas sukėlė profesinę ligą, gautą darbo užmokestį iš nukentėjusiojo pasirinktų
 
-pasirinktų paeiliui einančių 6 mėnesių per 24 mėnesių laikotarpį iki jo
+paeiliui einančių 6 mėnesių per 24 mėnesių laikotarpį iki jo perkėlimo į kitą
 
-perkėlimo į kitą mažiau apmokamą darbą ar atleidimo iš tos darbovietės dienos,
+mažiau apmokamą darbą ar atleidimo iš tos darbovietės dienos, laikantis
 
-laikantis Vyriausybės patvirtinto Darbuotojo ir valstybės tarnautojo vidutinio
+Vyriausybės patvirtinto Darbuotojo ir valstybės tarnautojo vidutinio darbo
 
-darbo užmokesčio apskaičiavimo tvarkos aprašo.
+užmokesčio apskaičiavimo tvarkos aprašo.
 
 Straipsnio
 
@@ -615,17 +637,15 @@ XI-752,
 
 Vienkartinė netekto darbingumo kompensacija
 
-1. Jeigu nukentėjusysis neteko iki 20
+1. Jeigu nukentėjusysis neteko iki 20 procentų
 
-procentų (imtinai) darbingumo, jam išmokama 10 procentų jo 24 mėnesių
+(imtinai) darbingumo, jam išmokama 10 procentų jo 24 mėnesių kompensuojamojo
 
-kompensuojamojo uždarbio dydžio vienkartinė kompensacija; jei nukentėjusysis
+uždarbio dydžio vienkartinė kompensacija; jei nukentėjusysis neteko daugiau
 
-neteko daugiau negu 20, bet mažiau negu 30 procentų darbingumo, jam išmokama 20
+negu 20, bet mažiau negu 30 procentų darbingumo, jam išmokama 20 procentų jo 24
 
-procentų jo 24 mėnesių kompensuojamojo uždarbio dydžio vienkartinė
-
-kompensacija.
+mėnesių kompensuojamojo uždarbio dydžio vienkartinė kompensacija.
 
 2. Kompensuojamasis uždarbis
 
