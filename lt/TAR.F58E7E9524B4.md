@@ -4,7 +4,7 @@ identifier: "TAR.F58E7E9524B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-10-26"
-last_updated: "2008-06-03"
+last_updated: "2011-12-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F58E7E9524B4"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,15 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos darbo tarybų įstatymas
 
-Suvestinė redakcija nuo 2008-06-03 iki 2011-11-30
+Įstatymas netenka galios 2017-07-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2603, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23709
+
+Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
+
+Suvestinė redakcija nuo 2011-12-01 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 164-5972, i. k. 1041010ISTA0IX-2500
 
@@ -75,7 +83,11 @@ DARBO TARYBOS SUDARYMAS
 
 2. Darbo taryba sudaroma trejų metų kadencijai, kuri pradedama skaičiuoti nuo darbo tarybos įgaliojimų pradžios.
 
-3. Darbo tarybos nariais gali būti renkami visi darbuotojai, sulaukę šešiolikos metų ir išdirbę įmonėje ne mažiau kaip šešis mėnesius, išskyrus darbuotojus, dirbančius pagal laikinąją darbo sutartį. Darbuotojai, įmonėje išdirbę trumpiau kaip šešis mėnesius, darbo tarybos nariais gali būti renkami tik tuo atveju, kai įmonėje visi darbuotojai dirba trumpiau nei šešis mėnesius.
+3. Darbo tarybos nariais gali būti renkami visi darbuotojai, sulaukę šešiolikos metų ir išdirbę įmonėje ne mažiau kaip šešis mėnesius, išskyrus darbuotojus, dirbančius pagal trumpalaikę darbo sutartį. Darbuotojai, įmonėje išdirbę trumpiau kaip šešis mėnesius, darbo tarybos nariais gali būti renkami tik tuo atveju, kai įmonėje visi darbuotojai dirba trumpiau nei šešis mėnesius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1382, 2011-05-19, Žin., 2011, Nr. 69-3290 (2011-06-07), i. k. 1111010ISTA0XI-1382
 
 4. Darbdavys ir pagal įstatymus, įgaliojimus ar steigimo dokumentus jam atstovaujantys asmenys negali būti darbo tarybos nariais.
 
@@ -91,7 +103,11 @@ DARBO TARYBOS SUDARYMAS
 
 2) darbuotojai, atliekantys tikrąją krašto apsaugos tarnybą;
 
-3) darbuotojai, dirbantys pagal laikinąsias darbo sutartis;
+3) darbuotojai, dirbantys pagal trumpalaikes darbo sutartis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1382, 2011-05-19, Žin., 2011, Nr. 69-3290 (2011-06-07), i. k. 1111010ISTA0XI-1382
 
 4) asmenys, nurodyti šio įstatymo 4 straipsnio 4 dalyje.
 
@@ -482,4 +498,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1536, 2008-05-13, Žin., 2008, Nr. 63-2377 (2008-06-03), i. k. 1081010ISTA00X-1536
 
 Lietuvos Respublikos darbo tarybų įstatymo 6 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1382, 2011-05-19, Žin., 2011, Nr. 69-3290 (2011-06-07), i. k. 1111010ISTA0XI-1382
+
+Lietuvos Respublikos darbo tarybų įstatymo 4 ir 5 straipsnių pakeitimo įstatymas
 
