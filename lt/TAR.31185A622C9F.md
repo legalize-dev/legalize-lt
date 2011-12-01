@@ -4,7 +4,7 @@ identifier: "TAR.31185A622C9F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-04"
-last_updated: "2011-07-13"
+last_updated: "2011-12-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.31185A622C9F"
 department: "Lietuvos Respublikos Seimas"
@@ -2195,13 +2195,13 @@ darbuotojų. Ne vėliau kaip prieš darbo pradžią kartu su antruoju darbo
 
 sutarties egzemplioriumi darbdavys įteikia darbuotojui pastarojo tapatybę
 
-patvirtinantį dokumentą (darbo pažymėjimą). Darbo sutarties pavyzdinę formą,
+patvirtinantį dokumentą (darbo pažymėjimą). Darbo sutarties pavyzdinę formą, registravimo
 
-registravimo taisykles, taip pat darbuotojo tapatybę patvirtinančio dokumento
+taisykles, taip pat darbuotojo tapatybę patvirtinančio dokumento formą, jo
 
-formą, jo išdavimo, nešiojimo bei pateikimo kontroliuojančioms institucijoms
+išdavimo, nešiojimo bei pateikimo kontroliuojančioms institucijoms tvarką
 
-tvarką nustato Vyriausybė.
+nustato Vyriausybė.
 
 3. Darbdavys
 
@@ -2333,13 +2333,13 @@ reikalaujančius specialių žinių, išlaikytų kvalifikacinius egzaminus.
 
 Kvalifikacinius reikalavimus ir egzaminų tvarką valstybės ir savivaldybių
 
-įmonėse, įstaigose ir organizacijose nustato Vyriausybė ar jos įgaliota institucija.
+įmonėse, įstaigose ir organizacijose nustato Vyriausybė ar jos įgaliota
 
-Kitose darbovietėse kvalifikacinius reikalavimus nustato darbdavys, o
+institucija. Kitose darbovietėse kvalifikacinius reikalavimus nustato
 
-kvalifikacinių egzaminų tvarką nustato darbdavys, atsižvelgdamas į darbuotojų
+darbdavys, o kvalifikacinių egzaminų tvarką nustato darbdavys, atsižvelgdamas į
 
-atstovų nuomonę.
+darbuotojų atstovų nuomonę.
 
 104
 
@@ -2401,9 +2401,9 @@ norint patikrinti, ar darbuotojas tinka sulygtam darbui, nenustatomas priimant
 
 į darbą asmenis:
 
-1) iki
+1) iki aštuoniolikos
 
-aštuoniolikos metų;
+metų;
 
 2) pareigoms
 
@@ -2494,34 +2494,6 @@ RŪŠYS
 108
 
 straipsnis. Darbo sutarčių rūšys
-
-[1 dalies redakcija iki 2011-12-01]
-
-1. Darbo
-
-sutartys gali būti:
-
-1)
-
-neterminuotos;
-
-2) terminuotos,
-
-laikinosios, sezoninės;
-
-3) dėl
-
-antraeilių pareigų;
-
-4) nuotolinio darbo;
-
-5) patarnavimo
-
-darbams;
-
-6) kitos.
-
-[1 dalies redakcija nuo 2011-12-01]
 
 1. Darbo sutartys gali būti:
 
@@ -2627,13 +2599,13 @@ Nr. X-188, 2005-05-12,
 
 Nr.
 
-XI-404,
+XI-404, 2009-07-23,
 
-2009-07-23, Žin., 2009, Nr. 93-3993 (2009-08-04)
+Žin., 2009, Nr. 93-3993 (2009-08-04)
 
-Nr. XI-927, 2010-06-22,
+Nr. XI-927,
 
-Žin., 2010, Nr. 81-4221 (2010-07-10)
+2010-06-22, Žin., 2010, Nr. 81-4221 (2010-07-10)
 
 110
 
@@ -2713,27 +2685,131 @@ nutraukimo, taip pat darbo ir poilsio laiko ir darbo apmokėjimo ypatybes
 
 remdamasi šiuo Kodeksu nustato Vyriausybė.
 
-[Straipsnio redakcija iki 2011-12-01]
-
 113
 
-straipsnis. Laikinoji darbo sutartis
+straipsnis. Trumpalaikė darbo sutartis
 
-1. Laikinoji
+1. Trumpalaikė
 
-darbo sutartis yra darbo sutartis, sudaryta ne ilgesniam kaip dviejų
+darbo sutartis yra darbo sutartis, sudaryta ne ilgesniam kaip dviejų mėnesių
 
-mėnesių laikui.
+laikui.
 
-2. Laikinosios
+2. Trumpalaikės
 
-darbo sutarties sudarymo pagrindus (aplinkybes, kurioms esant gali būti sudaroma
+darbo sutarties sudarymo pagrindus (aplinkybes, kurioms esant gali būti
 
-laikinoji darbo sutartis), tokios sutarties pakeitimo ir pasibaigimo, taip pat
+sudaroma trumpalaikė darbo sutartis), tokios sutarties pakeitimo ir pasibaigimo
 
-laikinųjų darbuotojų darbo ir poilsio laiko ypatybes nustato Vyriausybė.
+aplinkybes, taip pat darbuotojų, dirbančių pagal šias sutartis, darbo ir
 
-[Straipsnio redakcija nuo 2011-12-01]
+poilsio laiko ypatybes nustato Vyriausybė.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XI-1380,
+
+2011-05-19, Žin., 2011, Nr. 69-3288 (2011-06-07)
+
+114
+
+straipsnis. Papildomas darbas ir antraeilės pareigos
+
+1. Darbuotojas
+
+gali susitarti, jeigu to nedraudžia įstatymai, kad jis toje pačioje
+
+darbovietėje eis tam tikras papildomas pareigas arba dirbs tam tikrą papildomą
+
+(sutartyje nesulygtą) darbą.
+
+2. Darbuotojas
+
+gali eiti antraeiles pareigas arba dirbti darbus kitoje darbovietėje, jeigu to
+
+nedraudžia įstatymai ar kiti norminiai teisės aktai. Darbo sutarties dėl
+
+antraeilių pareigų (darbo) ypatumus nustato Vyriausybė ir kolektyvinės
+
+sutartys.
+
+Straipsnio pakeitimai:
+
+Nr. X-188, 2005-05-12,
+
+Žin., 2005, Nr. 67-2400 (2005-05-28)
+
+115
+
+straipsnis. Nuotolinio darbo sutartis
+
+Nuotolinio darbo
+
+sutartyje gali būti nustatyta, kad sutartyje sulygtą darbo funkciją arba dalį
+
+sulygtų darbo funkcijų darbuotojas atliks kitose negu darbovietė darbuotojui
+
+priimtinose vietose. Nuotolinio darbo sutarties ypatumus nustato Vyriausybė ir
+
+kolektyvinės sutartys.
+
+Straipsnio pakeitimai:
+
+Nr. XI-927,
+
+2010-06-22, Žin., 2010, Nr. 81-4221 (2010-07-10)
+
+116
+
+straipsnis. Patarnavimo sutartis
+
+Patarnavimo
+
+sutartis yra darbo sutartis, kuria darbuotojas įsipareigoja teikti darbdaviui
+
+asmenines namų ūkio paslaugas. Šios rūšies darbo sutarties ypatumus nustato
+
+Vyriausybė.
+
+117
+
+straipsnis. Kitų darbo sutarties rūšių ypatumai
+
+Darbo sutarčių
+
+su ūkininkų ūkių ir kitų žemės ūkio subjektų darbuotojais, specialiosios
+
+paskirties įmonių darbuotojais, kurių veikla gali sukelti šių įmonių veiklos
+
+sutrikimų, susijusių su itin sunkiomis pasekmėmis žmonėms ir gamtai, taip pat
+
+sutarčių, sudaromų kitais įstatymų nustatytais atvejais, ypatumus šio Kodekso,
+
+kitų įstatymų nustatyta tvarka nustato kolektyvinės sutartys ir tų rūšių darbo
+
+sutartis reglamentuojantys norminiai teisės aktai.
+
+TREČIASIS
+
+SKIRSNIS
+
+DARBO SUTARTIES
+
+VYKDYMAS
+
+118
+
+straipsnis. Darbuotojo pareiga pačiam atlikti jam pavestą darbą
+
+Darbuotojas
+
+neturi teisės be darbdavio ar jo įgalioto asmens sutikimo savo darbą pavesti
+
+atlikti kitam asmeniui.
 
 119 straipsnis. Draudimas reikalauti atlikti darbą,
 
@@ -2869,15 +2945,15 @@ užmokesčio. Kitais atvejais nušalinti darbuotoją nuo darbo (pareigų) darbda
 
 gali tik įstatymų nustatytais pagrindais.
 
-2. Darbdavys
+2. Darbdavys nušalina
 
-nušalina darbuotoją nuo darbo, nemoka jam darbo užmokesčio pagal pareigūnų arba
+darbuotoją nuo darbo, nemoka jam darbo užmokesčio pagal pareigūnų arba organų,
 
-organų, kuriems įstatymas suteikia nušalinimo teisę, rašytinį reikalavimą. Jame
+kuriems įstatymas suteikia nušalinimo teisę, rašytinį reikalavimą. Jame turi
 
-turi būti nurodyta, kuriam laikui darbuotojas nušalinamas, nušalinimo
+būti nurodyta, kuriam laikui darbuotojas nušalinamas, nušalinimo priežastis ir
 
-priežastis ir teisinis pagrindas.
+teisinis pagrindas.
 
 3. Nušalintas
 
@@ -2899,9 +2975,9 @@ nušalintas nuo darbo (pareigų) nepagrįstai, jis turi teisę reikalauti, kad
 
 įstatymų nustatyta tvarka jam būtų atlyginta žala.
 
-128 straipsnis. Darbo
+128 straipsnis. Darbo sutarties
 
-sutarties nutraukimas dėl nepriklausančių nuo darbuotojo aplinkybių
+nutraukimas dėl nepriklausančių nuo darbuotojo aplinkybių
 
 1. Darbuotojas turi teisę nutraukti
 
@@ -2923,9 +2999,9 @@ sutartis turi būti nutraukiama nuo darbuotojo prašyme nurodytos datos. Ši dat
 
 turi būti ne ankstesnė kaip trys dienos nuo prašymo padavimo dienos.
 
-129 straipsnis. Darbo sutarties nutraukimas
+129 straipsnis. Darbo sutarties nutraukimas darbdavio
 
-darbdavio iniciatyva, kai nėra darbuotojo kaltės
+iniciatyva, kai nėra darbuotojo kaltės
 
 1. Darbdavys
 
@@ -3129,16 +3205,6 @@ kaip dešimt procentų darbuotojų įmonėse, kuriose dirba nuo šimto iki dviej
 
 daugiau darbuotojų įmonėse, kuriose dirba trys šimtai ir daugiau darbuotojų.
 
-[2 dalies redakcija iki 2011-12-01]
-
-2. Grupės
-
-darbuotojų atleidimais nelaikomi atvejai, kai darbuotojai atleidžiami iš darbo
-
-suėjus darbo sutarties (terminuotos, sezoninės, laikinosios) terminui.
-
-[2 dalies redakcija nuo 2011-12-01]
-
 2. Grupės
 
 darbuotojų atleidimais nelaikomi atvejai, kai darbuotojai atleidžiami iš darbo
@@ -3155,13 +3221,13 @@ atstovais ir ne vėliau kaip prieš įteikdamas įspėjimus apie darbo sutarties
 
 nutraukimą.
 
-4. Darbo sutartis
+4. Darbo
 
-negali būti nutraukiama pažeidus pareigą pranešti teritorinei darbo biržai apie
+sutartis negali būti nutraukiama pažeidus pareigą pranešti teritorinei darbo
 
-numatomą grupės darbuotojų atleidimą ar pareigą konsultuotis su darbuotojų
+biržai apie numatomą grupės darbuotojų atleidimą ar pareigą konsultuotis su
 
-atstovais.
+darbuotojų atstovais.
 
 Kodeksas papildytas straipsniu:
 
@@ -3193,13 +3259,11 @@ laikotarpiu, kuriam jie išrinkti, negali būti atleisti iš darbo pagal šio
 
 Kodekso 129 straipsnį be išankstinio to organo sutikimo. Profesinės sąjungos ar
 
-darbo tarybos pirmininkas jų kadencijos laikotarpiu taip pat negali būti
+darbo tarybos pirmininkas jų kadencijos laikotarpiu taip pat negali būti atleisti
 
-atleisti iš darbo pagal Darbo kodekso 136 straipsnio 3 dalies 1 punktą be
+iš darbo pagal Darbo kodekso 136 straipsnio 3 dalies 1 punktą be išankstinio
 
-išankstinio profesinės sąjungos atstovaujamojo organo ar darbo tarybos
-
-sutikimo.
+profesinės sąjungos atstovaujamojo organo ar darbo tarybos sutikimo.
 
 2. Ar patenkinti
 
@@ -3259,16 +3323,6 @@ metu, išskyrus šio Kodekso 136 straipsnio 1 dalyje nustatytus atvejus;
 
 2) darbuotoją,
 
-pašauktą atlikti tikrąją krašto apsaugos tarnybą arba kitas Lietuvos
-
-Respublikos piliečio pareigas, išskyrus šio Kodekso 136 straipsnio 1 dalyje
-
-nustatytus atvejus;
-
-2 punkto redakcija nuo 2011-09-01:
-
-2) darbuotoją,
-
 pašauktą atlikti privalomąją karo tarnybą arba alternatyviąją krašto
 
 apsaugos tarnybą, arba kitas Lietuvos Respublikos piliečio pareigas, išskyrus
@@ -3290,20 +3344,6 @@ nustatytais darbo sutarties nutraukimo pagrindais.
 132 straipsnis. Garantijos nėščioms moterims ir
 
 darbuotojams, auginantiems vaikus
-
-1. Darbo
-
-sutartis negali būti nutraukta su nėščia moterimi nuo tos dienos, kai
-
-darbdaviui buvo pateikta medicinos pažyma apie nėštumą, ir dar vieną mėnesį
-
-pasibaigus nėštumo ir gimdymo atostogoms, išskyrus šio Kodekso 136 straipsnio 1
-
-ir 2 dalyse nustatytus atvejus, taip pat laikinąją darbo sutartį pasibaigus jos
-
-terminui.
-
-1 dalies redakcija nuo 2011-12-01:
 
 1. Darbo
 
@@ -3385,9 +3425,9 @@ dienomis; kai darbo aplinkos veiksniai viršija leistinus dydžius ir kitais
 
 įstatymų bei kolektyvinės sutarties nustatytais atvejais.
 
-4. Nėščios moterys,
+4. Nėščios
 
-neseniai pagimdžiusios moterys, krūtimi maitinančios moterys, darbuotojai,
+moterys, neseniai pagimdžiusios moterys, krūtimi maitinančios moterys, darbuotojai,
 
 auginantys vaiką iki trejų metų, darbuotojai, vieni auginantys vaiką iki
 
@@ -3449,13 +3489,15 @@ Vyriausybė.
 
 užmokestis už kasmetines atostogas mokamas ne vėliau kaip prieš tris
 
-kalendorines dienas iki kasmetinių atostogų pradžios. Jeigu darbuotojui priklausantis
+kalendorines dienas iki kasmetinių atostogų pradžios. Jeigu darbuotojui
 
-darbo užmokestis nustatytu laiku nesumokamas ne dėl darbuotojo kaltės,
+priklausantis darbo užmokestis nustatytu laiku nesumokamas ne dėl darbuotojo
 
-kasmetinės atostogos pratęsiamos tiek dienų, kiek buvo delsiama sumokėti darbo
+kaltės, kasmetinės atostogos pratęsiamos tiek dienų, kiek buvo delsiama
 
-užmokestį, ir už pratęstą laiką mokama kaip už kasmetines atostogas.
+sumokėti darbo užmokestį, ir už pratęstą laiką mokama kaip už kasmetines
+
+atostogas.
 
 177
 
@@ -3975,7 +4017,9 @@ atleistiems nuo darbo valstybinėms arba visuomeninėms pareigoms atlikti, darbo
 
 užmokestį, ne mažesnį už vidutinį, moka ar kompensuoja ta įstaiga ar
 
-organizacija, kurios įpareigojimus jie vykdo, jeigu ko kita nenustato įstatymas.
+organizacija, kurios įpareigojimus jie vykdo, jeigu ko kita nenustato
+
+įstatymas.
 
 3. Įmonėje
 
@@ -3983,9 +4027,9 @@ veikiančios profesinės sąjungos renkami darbuotojai atleidžiami nuo darbo ik
 
 šešių darbo dienų per metus kvalifikacijai kelti, dalyvauti profesinės sąjungos
 
-renginiuose ir kt. Atleidimo nuo darbo ir apmokėjimo tvarka nustatoma kolektyvinėje
+renginiuose ir kt. Atleidimo nuo darbo ir apmokėjimo tvarka nustatoma
 
-sutartyje.
+kolektyvinėje sutartyje.
 
 Straipsnio pakeitimai:
 
@@ -4083,11 +4127,11 @@ Kodeksas. Šios lengvatos, išskyrus papildomą lengvatą pasirinkti kasmetinių
 
 atostogų laiką, negali būti nustatytos kolektyvinėse ir darbo sutartyse,
 
-sudaromose įstaigose, organizacijose, kurios yra išlaikomos iš valstybės, savivaldybių
+sudaromose įstaigose, organizacijose, kurios yra išlaikomos iš valstybės,
 
-ir valstybinio socialinio draudimo fondo biudžetų bei kitų valstybės įsteigtų
+savivaldybių ir valstybinio socialinio draudimo fondo biudžetų bei kitų valstybės
 
-fondų lėšų, taip pat sutartyse, sudaromose Lietuvos banke.
+įsteigtų fondų lėšų, taip pat sutartyse, sudaromose Lietuvos banke.
 
 XV SKYRIUS
 
@@ -4099,9 +4143,9 @@ UŽMOKESTIS. GARANTIJOS IR KOMPENSACIJOS
 
 straipsnis. Darbo užmokestis
 
-1. Darbo užmokestis
+1. Darbo
 
-yra atlyginimas už darbą, darbuotojo atliekamą pagal darbo sutartį.
+užmokestis yra atlyginimas už darbą, darbuotojo atliekamą pagal darbo sutartį.
 
 2. Darbo užmokestis apima
 
@@ -4111,13 +4155,11 @@ tiesiogiai darbdavio išmokamus darbuotojui už jo atliktą darbą.
 
 3. Darbuotojo
 
-darbo užmokestis priklauso nuo darbo kiekio ir kokybės, įmonės, įstaigos,
+darbo užmokestis priklauso nuo darbo kiekio ir kokybės, įmonės, įstaigos, organizacijos
 
-organizacijos veiklos rezultatų bei darbo paklausos ir pasiūlos darbo rinkoje.
+veiklos rezultatų bei darbo paklausos ir pasiūlos darbo rinkoje. Vyrams ir
 
-Vyrams ir moterims už tokį pat ar lygiavertį darbą mokamas vienodas darbo
-
-užmokestis.
+moterims už tokį pat ar lygiavertį darbą mokamas vienodas darbo užmokestis.
 
 4. Darbo užmokestis
 
@@ -4219,9 +4261,9 @@ užtikrinimas
 
 Darbdavys turi
 
-užtikrinti normalias darbo sąlygas, kad darbuotojai galėtų įvykdyti darbo normas.
+užtikrinti normalias darbo sąlygas, kad darbuotojai galėtų įvykdyti darbo
 
-Tokiomis sąlygomis laikoma:
+normas. Tokiomis sąlygomis laikoma:
 
 1) tinkama
 
@@ -4285,9 +4327,9 @@ straipsnis. Mokėjimas už viršvalandinį ir nakties darbą
 
 Už viršvalandinį
 
-darbą ir darbą naktį mokama ne mažiau kaip pusantro darbuotojo darbo
+darbą ir darbą naktį mokama ne mažiau kaip pusantro darbuotojo darbo užmokesčio,
 
-užmokesčio, nurodyto Darbo kodekso 186 straipsnio 2 dalyje.
+nurodyto Darbo kodekso 186 straipsnio 2 dalyje.
 
 Straipsnio pakeitimai:
 
@@ -4339,9 +4381,9 @@ du trečdaliai jam nustatytos kategorijos tarifinio atlygio (algos) ir ne
 
 mažesnis už Vyriausybės nustatytą minimalųjį mėnesinį darbo užmokestį.
 
-2. Neįvykdžius išdirbio
+2. Neįvykdžius
 
-normų dėl darbuotojo kaltės, mokama už faktiškai atliktą darbą.
+išdirbio normų dėl darbuotojo kaltės, mokama už faktiškai atliktą darbą.
 
 201
 
@@ -4371,9 +4413,9 @@ darbuotojams darbdavys turi įteikti atsiskaitymo lapelius.
 
 2. Į atsiskaitymo
 
-lapelius įrašoma informacija apie darbuotojui apskaičiuotas, išmokėtas ir
+lapelius įrašoma informacija apie darbuotojui apskaičiuotas, išmokėtas ir išskaičiuotas
 
-išskaičiuotas sumas ir apie
+sumas ir apie
 
 dirbto laiko trukmę, atskirai nurodant viršvalandinių darbų trukmę.
 
@@ -4471,9 +4513,9 @@ straipsnis. Duomenys apie darbo užmokestį
 
 1. Duomenys apie
 
-darbuotojo darbo užmokestį teikiami ar skelbiami tik įstatymų nustatytais atvejais
+darbuotojo darbo užmokestį teikiami ar skelbiami tik įstatymų nustatytais
 
-arba darbuotojo sutikimu.
+atvejais arba darbuotojo sutikimu.
 
 2. Darbuotojo
 
@@ -4595,9 +4637,9 @@ specialios pertraukos įskaitomos į darbo laiką ir už jas mokamas darbuotojo
 
 vidutinis darbo užmokestis.
 
-215 straipsnis. Garantijos darbuotojams, siunčiamiems
+215 straipsnis. Garantijos darbuotojams,
 
-į medicinos įstaigas pasitikrinti sveikatos
+siunčiamiems į medicinos įstaigas pasitikrinti sveikatos
 
 Darbuotojams,
 
@@ -4637,13 +4679,15 @@ straipsnis. Garantijos donorams
 
 Kraujo ar kraujo
 
-sudėtinių dalių davimo dieną donoras turi būti atleistas nuo darbo. Apie neatvykimą
+sudėtinių dalių davimo dieną donoras turi būti atleistas nuo darbo. Apie
 
-į darbą donoras privalo pranešti ne vėliau kaip prieš vieną dieną. Įmonių,
+neatvykimą į darbą donoras privalo pranešti ne vėliau kaip prieš vieną dieną.
 
-įstaigų ar organizacijų administracija neturi kliudyti darbuotojui kraujo ar
+Įmonių, įstaigų ar organizacijų administracija neturi kliudyti darbuotojui
 
-kraujo sudėtinių dalių davimo dieną išvykti į kraujo donorystės įstaigą.
+kraujo ar kraujo sudėtinių dalių davimo dieną išvykti į kraujo donorystės
+
+įstaigą.
 
 219 straipsnis. Kompensacija už darbuotojams
 
@@ -4787,9 +4831,7 @@ dėl persikėlimo dirbti į kitą vietovę.
 
 dėl svarbios priežasties neatvykęs į darbą arba atsisakęs pradėti dirbti,
 
-privalo grąžinti jam išmokėtas sumas, išskaičiavus iš jų jau turėtas kelionės
-
-išlaidas.
+privalo grąžinti jam išmokėtas sumas, išskaičiavus iš jų jau turėtas kelionės išlaidas.
 
 223
 
@@ -4841,9 +4883,9 @@ kurią baigėsi avanso grąžinimo ar įsiskolinimo padengimo nustatytas termina
 
 buvo išmokėta suma, permokėta dėl skaičiavimo klaidų, arba paaiškėjo darbuotojo
 
-padaryta žala, jei darbuotojo įsiskolinimas neviršija jo vieno mėnesio vidutinio
+padaryta žala, jei darbuotojo įsiskolinimas neviršija jo vieno mėnesio
 
-darbo užmokesčio;
+vidutinio darbo užmokesčio;
 
 2) darbuotoją
 
@@ -4903,9 +4945,9 @@ Nr. X-188, 2005-05-12,
 
 Žin., 2005, Nr. 67-2400 (2005-05-28)
 
-226 straipsnis. Draudimas daryti išskaitas iš išeitinės
+226 straipsnis. Draudimas daryti išskaitas iš
 
-išmokos, kompensacinių ir kai kurių kitų išmokų
+išeitinės išmokos, kompensacinių ir kai kurių kitų išmokų
 
 Neleidžiama
 
@@ -4941,9 +4983,9 @@ dirbti dorai ir sąžiningai, laikytis darbo drausmės, laiku ir tiksliai vykdyt
 
 teisėtus darbdavio ir administracijos nurodymus, darbo normas, laikytis
 
-technologinės drausmės, darbuotojų saugos ir sveikatos reikalavimų, tausoti darbdavio
+technologinės drausmės, darbuotojų saugos ir sveikatos reikalavimų, tausoti
 
-turtą.
+darbdavio turtą.
 
 229
 
@@ -4971,13 +5013,11 @@ suderinęs su darbuotojų atstovais.
 
 straipsnis. Specialūs teisės aktai, reglamentuojantys darbo drausmę
 
-Kai kuriose šalies
+Kai kuriose
 
-ūkio šakose ir srityse atskirų darbuotojų kategorijų darbo drausmę
+šalies ūkio šakose ir srityse atskirų darbuotojų kategorijų darbo drausmę reglamentuoja
 
-reglamentuoja įstatymai, drausmės statutai ir nuostatai ar kiti specialūs
-
-teisės aktai.
+įstatymai, drausmės statutai ir nuostatai ar kiti specialūs teisės aktai.
 
 232
 
@@ -5023,11 +5063,11 @@ straipsnis. Šiurkštus darbo pareigų pažeidimas
 
 1. Šiurkštus
 
-darbo pareigų pažeidimas yra darbo drausmės pažeidimas, kuriuo šiurkščiai pažeidžiamos
+darbo pareigų pažeidimas yra darbo drausmės pažeidimas, kuriuo šiurkščiai
 
-tiesiogiai darbuotojo darbą reglamentuojančių įstatymų ir kitų norminių teisės
+pažeidžiamos tiesiogiai darbuotojo darbą reglamentuojančių įstatymų ir kitų norminių
 
-aktų nuostatos arba kitaip šiurkščiai nusižengiama darbo pareigoms ar
+teisės aktų nuostatos arba kitaip šiurkščiai nusižengiama darbo pareigoms ar
 
 nustatytai darbo tvarkai.
 
@@ -5085,21 +5125,19 @@ atlyginimo paėmimo požymių, nors už šias veikas darbuotojas ir nebuvo
 
 traukiamas baudžiamojon ar administracinėn atsakomybėn;
 
-8) tai, kad
+8) tai, kad darbuotojas
 
-darbuotojas darbo metu darbe yra neblaivus, apsvaigęs nuo narkotinių ar
+darbo metu darbe yra neblaivus, apsvaigęs nuo narkotinių ar toksinių medžiagų,
 
-toksinių medžiagų, išskyrus atvejus, kai apsvaigimą sukėlė įmonėje vykstantys
-
-gamybos procesai;
+išskyrus atvejus, kai apsvaigimą sukėlė įmonėje vykstantys gamybos procesai;
 
 9) neatvykimas į
 
 darbą be svarbių priežasčių visą darbo dieną (pamainą);
 
-10) atsisakymas
+10) atsisakymas tikrintis
 
-tikrintis sveikatą, kai tokie patikrinimai darbuotojui yra privalomi;
+sveikatą, kai tokie patikrinimai darbuotojui yra privalomi;
 
 11) kiti
 
@@ -5499,19 +5537,19 @@ straipsnis. Visiškos materialinės atsakomybės sutartis
 
 materialinės atsakomybės sutartis gali būti sudaroma su darbuotojais, kurių
 
-darbas yra tiesiogiai susijęs su materialinių vertybių saugojimu,
+darbas yra tiesiogiai susijęs su materialinių vertybių saugojimu, priėmimu,
 
-priėmimu, išdavimu, pardavimu, pirkimu, gabenimu, ir dėl priemonių, perduotų
+išdavimu, pardavimu, pirkimu, gabenimu, ir dėl priemonių, perduotų darbuotojui
 
-darbuotojui naudotis darbe. Konkrečių darbų ir pareigų sąrašas nustatomas
+naudotis darbe. Konkrečių darbų ir pareigų sąrašas nustatomas kolektyvinėje
 
-kolektyvinėje sutartyje. Ši sutartis įforminama raštu. Joje turi būti
+sutartyje. Ši sutartis įforminama raštu. Joje turi būti nustatyta, už kokias
 
-nustatyta, už kokias materialines vertybes darbuotojas prisiima visišką
+materialines vertybes darbuotojas prisiima visišką materialinę atsakomybę ir
 
-materialinę atsakomybę ir kokius įsipareigojimus prisiima darbdavys,
+kokius įsipareigojimus prisiima darbdavys, užtikrindamas sąlygas, kad žala
 
-užtikrindamas sąlygas, kad žala neatsirastų.
+neatsirastų.
 
 2. Tais
 
@@ -5839,9 +5877,9 @@ dirbdami – tikrintis periodiškai, pagal įmonėje, įstaigoje, organizacijoje
 
 patvirtintą darbuotojų sveikatos pasitikrinimų grafiką.
 
-5. Darbdavys tvirtina darbuotojų,
+5. Darbdavys tvirtina
 
-kuriems privaloma pasitikrinti sveikatą, sąrašą ir su sveikatos priežiūros
+darbuotojų, kuriems privaloma pasitikrinti sveikatą, sąrašą ir su sveikatos priežiūros
 
 įstaiga suderintą sveikatos pasitikrinimų grafiką; su juo pasirašytinai
 
@@ -5867,9 +5905,9 @@ pažeidimu.
 
 8. Profesijų,
 
-darbų, kuriuos dirbantys asmenys įsidarbindami ir vėliau privalo periodiškai tikrintis
+darbų, kuriuos dirbantys asmenys įsidarbindami ir vėliau privalo periodiškai
 
-sveikatą, sąrašą, sveikatos pasitikrinimų tvarką nustato Vyriausybė.
+tikrintis sveikatą, sąrašą, sveikatos pasitikrinimų tvarką nustato Vyriausybė.
 
 266
 
@@ -6069,9 +6107,9 @@ atsižvelgiant į darbo pobūdį, naudojamas medžiagas, darbuotojų skaičių.
 
 3. Įmonės darbo
 
-medicinos punktai, maitinimo patalpos įmonėje įrengiamos atsižvelgiant į darbuotojų
+medicinos punktai, maitinimo patalpos įmonėje įrengiamos atsižvelgiant į
 
-skaičių pagal tokių patalpų įrengimo reikalavimus.
+darbuotojų skaičių pagal tokių patalpų įrengimo reikalavimus.
 
 4. Buities,
 
@@ -6213,15 +6251,13 @@ jo darbas gali būti pavojingas kitiems, jo sutikimu turi būti perkeltas
 
 į jo sveikatą ir esant galimybei kvalifikaciją atitinkantį darbą.
 
-2. Jeigu
+2. Jeigu darbuotojas
 
-darbuotojas nesutinka būti perkeltas į siūlomą darbą arba įmonėje nėra darbo, į
+nesutinka būti perkeltas į siūlomą darbą arba įmonėje nėra darbo, į kurį jis
 
-kurį jis galėtų būti perkeltas, darbdavys šio Kodekso nustatyta tvarka
+galėtų būti perkeltas, darbdavys šio Kodekso nustatyta tvarka atleidžia
 
-atleidžia darbuotoją iš darbo, išskyrus atvejį, nustatytą Kodekso 212
-
-straipsnyje.
+darbuotoją iš darbo, išskyrus atvejį, nustatytą Kodekso 212 straipsnyje.
 
 Straipsnio pakeitimai:
 
@@ -6469,9 +6505,9 @@ ir gimdymo atostogų perkelti į kitą darbą (darbo vietą), neturintį neigiam
 
 poveikio jos ar kūdikio sveikatai, tokiai moteriai jos sutikimu suteikiamos
 
-vaiko priežiūros atostogos, kol vaikui sueis vieneri metai, ir jai per tą
+vaiko priežiūros atostogos, kol vaikui sueis vieneri metai, ir jai per tą laikotarpį
 
-laikotarpį mokamos įstatymų nustatytos motinystės socialinio draudimo pašalpos.
+mokamos įstatymų nustatytos motinystės socialinio draudimo pašalpos.
 
 7. Kai nėščiai,
 
@@ -6567,17 +6603,17 @@ darbe, profesinių ligų tyrimo ir apskaitos tvarka. Nelaimingų atsitikimų dar
 
 ir profesinių ligų tyrimo bei apskaitos nuostatus tvirtina Vyriausybė.
 
-2. Nukentėjęs
+2. Nukentėjęs asmuo
 
-asmuo arba jo atstovas nustatyta tvarka gali dalyvauti tiriant nelaimingą
+arba jo atstovas nustatyta tvarka gali dalyvauti tiriant nelaimingą atsitikimą
 
-atsitikimą darbe, turi teisę susipažinti su nelaimingo atsitikimo darbe ar
+darbe, turi teisę susipažinti su nelaimingo atsitikimo darbe ar profesinės
 
-profesinės ligos tyrimo medžiaga, privalo gauti nelaimingo atsitikimo darbe ar
+ligos tyrimo medžiaga, privalo gauti nelaimingo atsitikimo darbe ar profesinės
 
-profesinės ligos tyrimo aktą, tyrimo rezultatus ir išvadas gali apskųsti
+ligos tyrimo aktą, tyrimo rezultatus ir išvadas gali apskųsti vyriausiajam
 
-vyriausiajam valstybiniam darbo inspektoriui ir teismui.
+valstybiniam darbo inspektoriui ir teismui.
 
 283
 
@@ -6717,9 +6753,9 @@ atstovus savo įsakymu (potvarkiu) skiria darbdavys.
 
 Jeigu įmonėje, įstaigoje, organizacijoje nebuvo sudaryta darbo ginčų komisija,
 
-darbdavys, gavęs darbo ginčų komisijai adresuotą prašymą, nepažeisdamas šio Kodekso
+darbdavys, gavęs darbo ginčų komisijai adresuotą prašymą, nepažeisdamas šio
 
-291 straipsnio 1 dalyje nustatytų terminų, privalo paskirti darbo ginčų
+Kodekso 291 straipsnio 1 dalyje nustatytų terminų, privalo paskirti darbo ginčų
 
 komisijos raštvedį ir inicijuoti darbo ginčų komisijos sudarymą.
 
@@ -6873,11 +6909,13 @@ terminą, darbuotojas raštu kreipiasi į teismą, kad šis sprendimas būtų
 
 įvykdytas priverstinai pagal nustatytą teismo sprendimų vykdymo tvarką.
 
-3. Darbo ginčų komisijos
+3. Darbo ginčų
 
-sprendimas nevykdomas, jeigu jis šio Kodekso 293 straipsnio 1 dalyje nustatyta
+komisijos sprendimas nevykdomas, jeigu jis šio Kodekso 293 straipsnio 1 dalyje
 
-tvarka yra apskundžiamas teismui ir apie tai yra raštu informuotas atsakovas.
+nustatyta tvarka yra apskundžiamas teismui ir apie tai yra raštu informuotas
+
+atsakovas.
 
 Straipsnio pakeitimai:
 
@@ -7225,9 +7263,9 @@ papildytas priedu:
 
 Nr.
 
-IX-2293, 2004-06-22,
+IX-2293,
 
-Žin., 2004, Nr. 103-3756 (2004-07-01)
+2004-06-22, Žin., 2004, Nr. 103-3756 (2004-07-01)
 
 Priedo
 
@@ -7255,9 +7293,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1656,
+Nr. IX-1656, 2003-06-26,
 
-2003-06-26, Žin., 2003, Nr. 70-3167 (2003-07-16)
+Žin., 2003, Nr. 70-3167 (2003-07-16)
 
 DARBO
 
@@ -7369,9 +7407,9 @@ KODEKSO 170 IR 178 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 179(1) STRAIPSNIU
 
 ĮSTATYMAS
 
-Šis
+Šis įstatymas
 
-įstatymas įsigalioja nuo 2006 m. liepos 1 d.
+įsigalioja nuo 2006 m. liepos 1 d.
 
 8.
 
@@ -7399,9 +7437,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-761, 2006-07-13,
+X-761,
 
-Žin., 2006, Nr. 82-3258 (2006-07-27)
+2006-07-13, Žin., 2006, Nr. 82-3258 (2006-07-27)
 
 DARBO
 
@@ -7637,9 +7675,9 @@ redakcijos.
 
 22.
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos Seimas, Įstatymas
+Seimas, Įstatymas
 
 Nr. XI-589,
 
@@ -9261,9 +9299,9 @@ darbo laikas dviem valandomis per savaitę), o auginantiems tris ir daugiau
 
 vaikų iki dvylikos metų, − dvi dienos per mėnesį (arba atitinkamai
 
-sutrumpinamas darbo laikas keturiomis valandomis per savaitę), mokant darbuotojui
+sutrumpinamas darbo laikas keturiomis valandomis per savaitę), mokant
 
-jo vidutinį darbo užmokestį. Darbuotojų,
+darbuotojui jo vidutinį darbo užmokestį. Darbuotojų,
 
 dirbančių ilgesnėmis negu aštuonios darbo valandos pamainomis, prašymu
 
@@ -9343,9 +9381,9 @@ pakeitimai:
 
 Nr.
 
-X-695,
+X-695, 2006-06-15,
 
-2006-06-15, Žin., 2006, Nr. 73-2763 (2006-06-30)
+Žin., 2006, Nr. 73-2763 (2006-06-30)
 
 Nr. XI-880,
 
@@ -9405,35 +9443,35 @@ pareigas paklusdamas darbovietėje nustatytai darbo tvarkai, o darbdavys
 
 įsipareigoja suteikti darbuotojui sutartyje nustatytą darbą, mokėti darbuotojui
 
-sulygtą darbo užmokestį ir užtikrinti darbo sąlygas, nustatytas darbo įstatymuose,
+sulygtą darbo užmokestį ir užtikrinti darbo sąlygas, nustatytas darbo
 
-kituose norminiuose teisės aktuose, kolektyvinėje sutartyje ir šalių
+įstatymuose, kituose norminiuose teisės aktuose, kolektyvinėje sutartyje ir
 
-susitarimu.
+šalių susitarimu.
 
 94
 
 straipsnis. Darbo sutarties turinys
 
-1. Darbo
+1. Darbo sutarties
 
-sutarties turinys yra jos šalių sulygtos sutarties sąlygos, apibrėžiančios
+turinys yra jos šalių sulygtos sutarties sąlygos, apibrėžiančios šalių teises
 
-šalių teises ir pareigas.
+ir pareigas.
 
-2. Šalys negali nustatyti
+2. Šalys negali
 
-tokių darbo sąlygų, kurios pablogina darbuotojo padėtį, palyginti su ta, kurią
+nustatyti tokių darbo sąlygų, kurios pablogina darbuotojo padėtį, palyginti su
 
-nustato šis Kodeksas, įstatymai, kiti norminiai teisės aktai ir kolektyvinė
+ta, kurią nustato šis Kodeksas, įstatymai, kiti norminiai teisės aktai ir
 
-sutartis. Jei darbo sutarties sąlygos prieštarauja šiam Kodeksui, įstatymui
+kolektyvinė sutartis. Jei darbo sutarties sąlygos prieštarauja šiam Kodeksui,
 
-arba kolektyvinei sutarčiai, taikomos šio Kodekso, įstatymų, norminių teisės
+įstatymui arba kolektyvinei sutarčiai, taikomos šio Kodekso, įstatymų, norminių
 
-aktų arba kolektyvinės sutarties nuostatos. Ginčą dėl darbo sutarties sąlygų
+teisės aktų arba kolektyvinės sutarties nuostatos. Ginčą dėl darbo sutarties
 
-taikymo sprendžia darbo ginčų nagrinėjimo organai.
+sąlygų taikymo sprendžia darbo ginčų nagrinėjimo organai.
 
 95
 
@@ -9547,9 +9585,9 @@ sutuoktiniai, vaikai, įvaikiai, jų sutuoktiniai ir jų vaikai, taip pat
 
 sutuoktinių tėvai, broliai, seserys ir jų vaikai), jeigu jų tarnyba kartu yra
 
-susijusi su vieno iš jų tiesioginiu pavaldumu kitam arba su vieno teise
+susijusi su vieno iš jų tiesioginiu pavaldumu kitam arba su vieno teise kontroliuoti
 
-kontroliuoti kitą. Išimtis iš šios taisyklės gali nustatyti Vyriausybė.
+kitą. Išimtis iš šios taisyklės gali nustatyti Vyriausybė.
 
 3. Šio
 
@@ -10654,158 +10692,6 @@ valstybėse narėse teisėmis, padedantys ieškančiam darbo asmeniui įsidarbin
 Valstybė narė – bet kuri Europos Sąjungos valstybė narė ar Europos ekonominės
 
 erdvės valstybė.
-
-Straipsnio pakeitimai:
-
-Nr. XI-589,
-
-2009-12-21, Žin., 2010, Nr. 1-4 (2010-01-05)
-
-[Straipsnio redakcija iki 2011-12-01]
-
-88
-
-straipsnis. Tarpininkavimo įdarbinant paslaugų teikimas
-
-1.
-
-Tarpininkavimo įdarbinant paslaugas ieškantiems darbo asmenims nemokamai
-
-teikia:
-
-1) Lietuvos
-
-darbo birža prie Socialinės apsaugos ir darbo ministerijos;
-
-2) Lietuvos
-
-Respublikoje įsteigtas juridinis asmuo ar jo filialai, kurių steigimo
-
-dokumentuose nurodytas veiklos tikslas – tarpininkavimo įdarbinant paslaugų
-
-teikimas;
-
-3) valstybėje
-
-narėje įsteigtas juridinis asmuo ar kita organizacija, ar jo filialai, įsteigti
-
-Lietuvos Respublikoje ar kitoje valstybėje narėje, kuriems tokia teisė suteikta
-
-pagal tos valstybės narės teisės aktus;
-
-4) Lietuvos
-
-Respublikos ar kitos valstybės narės pilietis, kitas fizinis asmuo, kuris
-
-naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse
-
-narėse teisėmis ir verčiasi šia veikla.
-
-2. Šio
-
-straipsnio 1 dalies 2, 3 ir 4 punktuose nurodyti asmenys turi teikti Lietuvos
-
-darbo biržai prie Socialinės apsaugos ir darbo ministerijos jos nustatyta tvarka
-
-ir terminais informaciją apie savo statusą ir veiklą, fiziniams asmenims
-
-suteiktas tarpininkavimo įdarbinant paslaugas.
-
-[Straipsnio redakcija nuo 2011-12-01]
-
-88
-
-straipsnis. Tarpininkavimo įdarbinant paslaugų teikimas ir įdarbinimas per
-
-laikinojo įdarbinimo įmones
-
-1.
-
-Tarpininkavimo įdarbinant paslaugas ieškantiems darbo asmenims nemokamai
-
-teikia:
-
-1) Lietuvos
-
-darbo birža prie Socialinės apsaugos ir darbo ministerijos;
-
-2) Lietuvos
-
-Respublikoje įsteigtas juridinis asmuo ar jo filialai, kurių steigimo dokumentuose
-
-nurodytas veiklos tikslas – tarpininkavimo įdarbinant paslaugų teikimas;
-
-3) valstybėje
-
-narėje įsteigtas juridinis asmuo ar kita organizacija, ar jo filialai, įsteigti
-
-Lietuvos Respublikoje ar kitoje valstybėje narėje, kuriems tokia teisė suteikta
-
-pagal tos valstybės narės teisės aktus;
-
-4) Lietuvos
-
-Respublikos ar kitos valstybės narės pilietis, kitas fizinis asmuo, kuris
-
-naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse
-
-narėse teisėmis ir verčiasi šia veikla.
-
-2. Šio straipsnio
-
-1 dalies 2, 3 ir 4 punktuose nurodyti asmenys turi teikti Lietuvos darbo biržai
-
-prie Socialinės apsaugos ir darbo ministerijos jos nustatyta tvarka ir
-
-terminais informaciją apie savo statusą ir veiklą, fiziniams asmenims suteiktas
-
-tarpininkavimo įdarbinant paslaugas.
-
-3. Įdarbinimo
-
-per laikinojo įdarbinimo įmones ypatumus nustato specialus Lietuvos Respublikos
-
-įstatymas.
-
-Straipsnio pakeitimai:
-
-Nr. X-188, 2005-05-12,
-
-Žin., 2005, Nr. 67-2400 (2005-05-28)
-
-Nr. XI-589,
-
-2009-12-21, Žin., 2010, Nr. 1-4 (2010-01-05)
-
-Nr.
-
-XI-1380,
-
-2011-05-19, Žin., 2011, Nr. 69-3288 (2011-06-07)(papildyta 3 dalimi)
-
-89
-
-straipsnis. Informacija apie laisvas darbo vietas
-
-1. Ieškantys
-
-darbuotojų darbdaviai turi informuoti teritorines darbo biržas apie laisvas
-
-darbo vietas, darbo funkcijas ir darbo pobūdį, darbo apmokėjimo ir kitas
-
-sąlygas bei pretendentams įsidarbinti keliamus kvalifikacinius reikalavimus.
-
-2. Teritorinės
-
-darbo biržos registruoja laisvas darbo vietas, viešai jas skelbia ir siūlo
-
-ieškantiems darbo asmenims.
-
-90
-
-straipsnis. Neteko galios nuo
-
-2010 m. sausio 5 d.
 
 Straipsnio pakeitimai:
 
@@ -11937,11 +11823,9 @@ straipsnis. Vidutinis darbo užmokestis
 
 1. Vidutinis
 
-darbo užmokestis darbuotojams garantuojamas įstatymų, kolektyvinių arba darbo
+darbo užmokestis darbuotojams garantuojamas įstatymų, kolektyvinių arba darbo sutarčių
 
-sutarčių nustatytais atvejais ir yra apskaičiuojamas Vyriausybės nustatyta
-
-tvarka.
+nustatytais atvejais ir yra apskaičiuojamas Vyriausybės nustatyta tvarka.
 
 2. Jeigu darbuotojas
 
@@ -12053,9 +11937,9 @@ straipsnis. Darbo sutarties nutraukimas šalių susitarimu
 
 sutarties šalis gali raštu pasiūlyti kitai šaliai nutraukti darbo sutartį šalių
 
-susitarimu. Jei ši sutinka su pasiūlymu, per septynias dienas turi apie tai pranešti
+susitarimu. Jei ši sutinka su pasiūlymu, per septynias dienas turi apie tai
 
-šaliai, pateikusiai pasiūlymą nutraukti darbo sutartį. Sutarusios nutraukti
+pranešti šaliai, pateikusiai pasiūlymą nutraukti darbo sutartį. Sutarusios nutraukti
 
 sutartį, šalys sudaro raštišką susitarimą dėl sutarties nutraukimo. Susitarime
 
@@ -12155,9 +12039,9 @@ XI-404,
 
 2009-07-23, Žin., 2009, Nr. 93-3993 (2009-08-04)
 
-Nr. XI-927, 2010-06-22,
+Nr. XI-927,
 
-Žin., 2010, Nr. 81-4221 (2010-07-10)
+2010-06-22, Žin., 2010, Nr. 81-4221 (2010-07-10)
 
 113 straipsnis.
 
@@ -12284,4 +12168,600 @@ Darbuotojas
 neturi teisės be darbdavio ar jo įgalioto asmens sutikimo savo darbą pavesti
 
 atlikti kitam asmeniui.
+
+88 straipsnis. Tarpininkavimo įdarbinant
+
+paslaugų teikimas ir įdarbinimas per
+
+laikinojo
+
+įdarbinimo įmones
+
+1.
+
+Tarpininkavimo įdarbinant paslaugas ieškantiems darbo asmenims nemokamai
+
+teikia:
+
+1) Lietuvos
+
+darbo birža prie Socialinės apsaugos ir darbo ministerijos;
+
+2) Lietuvos
+
+Respublikoje įsteigtas juridinis asmuo ar jo filialai, kurių steigimo
+
+dokumentuose nurodytas veiklos tikslas – tarpininkavimo įdarbinant paslaugų
+
+teikimas;
+
+3) valstybėje
+
+narėje įsteigtas juridinis asmuo ar kita organizacija, ar jo filialai, įsteigti
+
+Lietuvos Respublikoje ar kitoje valstybėje narėje, kuriems tokia teisė suteikta
+
+pagal tos valstybės narės teisės aktus;
+
+4) Lietuvos
+
+Respublikos ar kitos valstybės narės pilietis, kitas fizinis asmuo, kuris
+
+naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse
+
+narėse teisėmis ir verčiasi šia veikla.
+
+2. Šio
+
+straipsnio 1 dalies 2, 3 ir 4 punktuose nurodyti asmenys turi teikti Lietuvos
+
+darbo biržai prie Socialinės apsaugos ir darbo ministerijos jos nustatyta
+
+tvarka ir terminais informaciją apie savo statusą ir veiklą, fiziniams asmenims
+
+suteiktas tarpininkavimo įdarbinant paslaugas.
+
+3. Įdarbinimo
+
+per laikinojo įdarbinimo įmones ypatumus nustato specialus Lietuvos Respublikos
+
+įstatymas.
+
+Straipsnio pakeitimai:
+
+Nr. X-188, 2005-05-12,
+
+Žin., 2005, Nr. 67-2400 (2005-05-28)
+
+Nr. XI-589,
+
+2009-12-21, Žin., 2010, Nr. 1-4 (2010-01-05)
+
+Nr.
+
+XI-1380,
+
+2011-05-19, Žin., 2011, Nr. 69-3288 (2011-06-07)(papildyta 3 dalimi)
+
+89
+
+straipsnis. Informacija apie laisvas darbo vietas
+
+1. Ieškantys
+
+darbuotojų darbdaviai turi informuoti teritorines darbo biržas apie laisvas
+
+darbo vietas, darbo funkcijas ir darbo pobūdį, darbo apmokėjimo ir kitas
+
+sąlygas bei pretendentams įsidarbinti keliamus kvalifikacinius reikalavimus.
+
+2. Teritorinės
+
+darbo biržos registruoja laisvas darbo vietas, viešai jas skelbia ir siūlo
+
+ieškantiems darbo asmenims.
+
+90
+
+straipsnis. Neteko galios nuo
+
+2010 m. sausio 5 d.
+
+Straipsnio pakeitimai:
+
+Nr. XI-589,
+
+2009-12-21, Žin., 2010, Nr. 1-4 (2010-01-05)
+
+140 straipsnis. Išeitinė
+
+išmoka
+
+1. Nutraukus darbo sutartį
+
+pagal šio Kodekso 129 straipsnį ir 136 straipsnio 1 dalies 6 punktą,
+
+atleistam darbuotojui išmokama jo vidutinio mėnesinio darbo užmokesčio dydžio
+
+išeitinė išmoka atsižvelgiant į to darbuotojo nepertraukiamąjį stažą toje
+
+darbovietėje:
+
+1) iki dvylikos mėnesių –
+
+vieno mėnesio vidutinio darbo užmokesčio dydžio;
+
+2) nuo dvylikos iki
+
+trisdešimt šešių mėnesių – dviejų mėnesių vidutinio darbo užmokesčio dydžio;
+
+3) nuo trisdešimt šešių iki
+
+šešiasdešimties mėnesių – trijų mėnesių vidutinio darbo užmokesčio dydžio;
+
+4) nuo šešiasdešimties iki
+
+šimto dvidešimties mėnesių – keturių mėnesių vidutinio darbo užmokesčio dydžio;
+
+5) nuo šimto dvidešimties
+
+iki dviejų šimtų keturiasdešimties mėnesių – penkių mėnesių vidutinio darbo
+
+užmokesčio dydžio;
+
+6) daugiau kaip dviejų šimtų
+
+keturiasdešimties mėnesių – šešių mėnesių vidutinio darbo užmokesčio dydžio.
+
+*2. Darbuotojui, pagal šio Kodekso 129 straipsnį ir 136
+
+straipsnio 1 dalies 6 punktą atleistam iš darbo valstybės ar savivaldybės
+
+įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio
+
+socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų,
+
+valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra
+
+valstybė arba savivaldybė, ar Lietuvos banke, šio straipsnio 1 dalyje nustatyta
+
+išeitinė išmoka pradedama mokėti praėjus mėnesiui nuo darbuotojo atleidimo
+
+dienos ir mokama kas mėnesį lygiomis dalimis. Išeitinės išmokos mokėjimas
+
+nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ar
+
+priimamas į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės
+
+ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš
+
+kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje,
+
+viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos
+
+banke. Jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ar priimamas į
+
+darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar
+
+savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš
+
+kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje,
+
+viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos
+
+banke ne pirmą mėnesio dieną, išeitinė išmoka mokama tik už to mėnesio dienas
+
+iki priėmimo į valstybės tarnautojo pareigas ar priėmimo į darbą valstybės ar
+
+savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto,
+
+Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų
+
+fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių
+
+savininkė yra valstybė arba savivaldybė, ar Lietuvos banke dienos.
+
+3. Nutraukus darbo sutartį
+
+kitais šiame skirsnyje (išskyrus šio Kodekso 125 ir 126 straipsniuose bei 127
+
+straipsnio 1 dalyje nustatytus atvejus) ir kituose įstatymuose nustatytais
+
+atvejais, kai nėra darbuotojo kaltės, jam išmokama jo dviejų mėnesių vidutinio
+
+darbo užmokesčio dydžio išeitinė išmoka, jeigu įstatymai ar kolektyvinės
+
+sutartys nenustato kitaip.
+
+*Pastaba. 2 dalis taikoma asmenims, atleistiems iš
+
+darbo po įstatymo (Nr. XI-1702)
+
+įsigaliojimo.
+
+Straipsnio pakeitimai:
+
+Nr. X-188, 2005-05-12,
+
+Žin., 2005, Nr. 67-2400 (2005-05-28)
+
+Nr.
+
+XI-1702,
+
+2011-11-17, Žin., 2011, Nr. 146-6848 (2011-12-01)
+
+141
+
+straipsnis. Atsiskaitymo su atleidžiamu darbuotoju tvarka
+
+*1. Darbdavys
+
+privalo visiškai atsiskaityti su atleidžiamu iš darbo darbuotoju jo atleidimo
+
+dieną, jeigu šiuo Kodeksu ar kitais įstatymais ar darbdavio ir darbuotojo
+
+susitarimu nenustatyta kitokia atsiskaitymo tvarka.
+
+2. Darbdavys
+
+atsiskaitymo su darbuotoju dieną privalo išmokėti visas jam priklausančias
+
+pinigų sumas, nustatyta tvarka užpildyti darbuotojo darbo sutartį.
+
+3. Kai uždelsiama atsiskaityti ne dėl darbuotojo
+
+kaltės, darbuotojui sumokamas jo vidutinis darbo užmokestis už uždelsimo laiką.
+
+4. Jeigu
+
+darbuotojas pageidauja, darbdavys privalo išduoti jam pažymą apie darbą,
+
+nurodydamas darbo funkcijas (pareigas), jo pradžios ir pabaigos datas, o
+
+darbuotojo prašymu - darbo
+
+užmokesčio dydį ir darbo įvertinimą (charakteristiką).
+
+*Pastaba. 1 dalis taikoma asmenims, atleistiems iš
+
+darbo po įstatymo (Nr. XI-1702)
+
+įsigaliojimo.
+
+Straipsnio pakeitimai:
+
+Nr. X-163, 2005-04-21,
+
+Žin., 2005, Nr. 58-2001 (2005-05-07)
+
+Nr. X-188, 2005-05-12,
+
+Žin., 2005, Nr. 67-2400 (2005-05-28)
+
+Nr.
+
+XI-404,
+
+2009-07-23, Žin., 2009, Nr. 93-3993 (2009-08-04)
+
+Nr.
+
+XI-1702,
+
+2011-11-17, Žin., 2011, Nr. 146-6848 (2011-12-01)
+
+XIII SKYRIUS
+
+DARBO LAIKAS
+
+142
+
+straipsnis. Darbo laiko sąvoka
+
+Darbo laikas - tai laikas, kurį darbuotojas
+
+privalo dirbti jam pavestą darbą, ir kiti jam prilyginti laikotarpiai.
+
+143
+
+straipsnis. Darbo laiko struktūra
+
+1. Į darbo laiką
+
+įeina:
+
+1) faktiškai
+
+dirbtas laikas, budėjimas darbe ir namuose;
+
+2) tarnybinės
+
+komandiruotės, tarnybinės kelionės į kitą vietovę laikas;
+
+3) laikas,
+
+reikalingas darbo vietai, darbo įrankiams, saugos priemonėms paruošti ir
+
+sutvarkyti;
+
+4) pertraukos
+
+darbe, pagal norminius teisės aktus įskaitomos į darbo laiką;
+
+5) privalomų
+
+medicininių apžiūrų laikas;
+
+6) stažuotė,
+
+kvalifikacijos kėlimas darbovietėje ar mokymo centruose;
+
+7) nušalinimo nuo
+
+darbo laikas, jeigu nušalintas darbuotojas privalo laikytis nustatytos
+
+darbovietėje tvarkos;
+
+8) prastovos
+
+laikas;
+
+9) kiti norminių
+
+teisės aktų nustatyti laikotarpiai.
+
+2. Į darbo laiką
+
+neįeina:
+
+1) pravaikšta;
+
+2) neatvykimas į
+
+darbą administracijos leidimu;
+
+3) valstybinių,
+
+visuomeninių ar piliečio pareigų atlikimas, karinė tarnyba arba mokomosios
+
+karinės pratybos;
+
+4) nedarbingumo
+
+laikas;
+
+5) pertraukos
+
+pailsėti ir pavalgyti, kasdieninis (tarp pamainų), kassavaitinis poilsis,
+
+šventės, atostogos;
+
+6) kiti norminių teisės aktų
+
+nustatyti laikotarpiai.
+
+144
+
+straipsnis. Darbo laiko trukmė
+
+1. Darbo laikas
+
+negali būti ilgesnis kaip keturiasdešimt valandų per savaitę.
+
+2.
+
+Kasdieninė
+
+darbo laiko trukmė neturi viršyti aštuonių darbo valandų. Išimtis gali
+
+nustatyti įstatymai, Vyriausybės nutarimai ir kolektyvinės sutartys.
+
+3. Maksimalus darbo laikas,
+
+įskaitant viršvalandžius, per septynias dienas neturi viršyti keturiasdešimt
+
+aštuonių valandų.
+
+4. Tam tikrų
+
+kategorijų (gydymo, globos (rūpybos), vaikų auklėjimo įstaigų, energetikos,
+
+ryšių specializuotų tarnybų bei avarijų likvidavimo specializuotų tarnybų ir
+
+kitų tarnybų, dirbančių nepertraukiamo budėjimo režimu) darbuotojams,
+
+budėtojams patalpose darbo laikas gali būti iki dvidešimt keturių valandų per
+
+parą. Tokių darbuotojų vidutinis darbo laikas per septynių dienų laikotarpį
+
+neturi viršyti keturiasdešimt aštuonių valandų, o poilsio tarp darbo dienų
+
+laikas privalo būti ne trumpesnis kaip dvidešimt keturios valandos. Tokių darbų
+
+sąrašą tvirtina Vyriausybė.
+
+5. Darbuotojų,
+
+dirbančių ne vienoje darbovietėje arba vienoje darbovietėje, bet pagal dvi ar
+
+daugiau darbo sutarčių, darbo dienos trukmė negali būti ilgesnė kaip dvylika
+
+valandų.
+
+Straipsnio pakeitimai:
+
+Nr. X-188, 2005-05-12,
+
+Žin., 2005, Nr. 67-2400 (2005-05-28)
+
+145
+
+straipsnis. Sutrumpintas darbo laikas
+
+1. Sutrumpintas
+
+darbo laikas nustatomas:
+
+1) asmenims iki
+
+aštuoniolikos metų - pagal
+
+Darbuotojų saugos ir sveikatos įstatymo nuostatas;
+
+2) asmenims,
+
+dirbantiems darbo aplinkoje, kurioje įvertinus riziką nustatyta, kad sveikatai
+
+kenksmingų veiksnių dydžiai viršija darbuotojų saugos ir sveikatos teisės aktų
+
+leistinus dydžius (kiekius) ir kai techninėmis ar kitomis priemonėmis jų kiekio
+
+darbo aplinkoje sumažinti iki sveikatai nekenksmingų dydžių neįmanoma, darbo
+
+laikas nustatomas atsižvelgiant į darbo aplinką, bet ne ilgesnis kaip
+
+trisdešimt šešios valandos per savaitę. Konkreti darbuotojų, dirbančių tokioje
+
+darbo aplinkoje, kasdienė ir savaitės darbo laiko trukmė nustatoma įvertinant
+
+darbo aplinkos tyrimo rezultatus, vadovaujantis Vyriausybės patvirtintais
+
+sutrumpinto darbo laiko trukmės nustatymo pagal darbo aplinkos veiksnius
+
+kriterijais ir tvarka;
+
+3) asmenims,
+
+dirbantiems naktį.
+
+2. Darbuotojų,
+
+kurių darbo pobūdis yra susijęs su didesne protine, emocine įtampa, darbo laiko
+
+sutrumpinimo tvarką nustato Vyriausybė.
+
+Straipsnio pakeitimai:
+
+Nr. X-188, 2005-05-12,
+
+Žin., 2005, Nr. 67-2400 (2005-05-28)
+
+146
+
+straipsnis. Ne visas darbo laikas
+
+1. Ne visas
+
+darbo dienos arba darbo savaitės darbo laikas nustatomas:
+
+1) darbuotojo ir
+
+darbdavio susitarimu;
+
+2) darbuotojo
+
+reikalavimu dėl jo sveikatos būklės pagal sveikatos įstaigos išvadą;
+
+3) pareikalavus
+
+nėščiai moteriai, neseniai pagimdžiusiai moteriai (motinos, pateikusios
+
+darbdaviui sveikatos priežiūros įstaigos pažymą apie gimdymą ir auginančios
+
+vaiką, kol jam sukaks vieneri metai, toliau Kodekse – neseniai pagimdžiusios
+
+moterys), krūtimi maitinančiai moteriai (motinos, pateikusios darbdaviui
+
+sveikatos priežiūros įstaigos pažymą, kad augina ir maitina krūtimi savo vaiką,
+
+toliau Kodekse – krūtimi maitinanti moteris), darbuotojui, auginančiam vaiką
+
+iki trejų metų, bei darbuotojui, vienam auginančiam vaiką iki keturiolikos metų
+
+arba neįgalų vaiką iki aštuoniolikos metų;
+
+4) darbuotojo
+
+iki aštuoniolikos metų reikalavimu;
+
+5) neįgaliojo
+
+reikalavimu pagal Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės
+
+apsaugos ir darbo ministerijos išduotą išvadą;
+
+6) darbuotojo,
+
+slaugančio sergantį šeimos narį, reikalavimu pagal sveikatos įstaigos
+
+išvadą.
+
+2. Jeigu kitaip
+
+nenustatyta sveikatos priežiūros įstaigos išvadoje, susitarus ne visas darbo
+
+laikas gali būti nustatomas sumažinant savaitės darbo dienų skaičių arba
+
+sutrumpinant darbo dieną (pamainą), arba darant ir viena, ir kita. Ne visas
+
+darbo laikas darbo dieną gali būti suskaidomas dalimis. Kitas su ne viso darbo
+
+laiko nustatymo tvarka susijusias sąlygas nustato Vyriausybė. Vyriausybės
+
+nustatytos sąlygos gali būti netaikomos, kai dėl to susitariama kolektyvinėje
+
+sutartyje.
+
+3. Darbas ne
+
+viso darbo laiko sąlygomis dirbantiems darbuotojams nesukelia jokių apribojimų
+
+nustatant kasmetinių atostogų trukmę, apskaičiuojant darbo stažą, skiriant į
+
+aukštesnes pareigas, keliant kvalifikaciją, neapriboja kitų darbuotojo darbo
+
+teisių, palyginti su darbuotojais, kurie dirba tokį patį ar lygiavertį darbą
+
+viso darbo laiko sąlygomis, atsižvelgiant į darbo stažą, kvalifikaciją
+
+ir kitas aplinkybes. Darbas apmokamas proporcingai dirbtam laikui arba atliktam
+
+darbui.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-2293,
+
+2004-06-22, Žin., 2004, Nr. 103-3756 (2004-07-01)
+
+Nr. X-188, 2005-05-12,
+
+Žin., 2005, Nr. 67-2400 (2005-05-28)
+
+Nr. X-294, 2005-06-30,
+
+Žin., 2005, Nr. 85-3138 (2005-07-14)
+
+Nr. XI-1332,
+
+2011-04-19, Žin., 2011, Nr. 52-2507 (2011-05-03)
+
+147
+
+straipsnis. Darbo laiko režimas
+
+1. Kiekvieno
+
+darbuotojo darbo ir poilsio laiko paskirstymas (kaita) per parą, savaitę ar
+
+apskaitinį laikotarpį, taip pat kasdieninio darbo (pamainos) pradžia ir pabaiga
+
+nustatoma pagal įmonės, įstaigos, organizacijos darbo tvarkos taisykles. Darbo
+
+(pamainų) grafikus tvirtina administracija, suderinusi su įmonės, įstaigos,
 
