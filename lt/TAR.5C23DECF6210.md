@@ -4,7 +4,7 @@ identifier: "TAR.5C23DECF6210"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-22"
-last_updated: "2011-01-01"
+last_updated: "2011-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210"
 department: "Lietuvos Respublikos Seimas"
@@ -642,7 +642,11 @@ numatytoms valstybės investicijoms finansuoti;
 
 perskolinamoms paskoloms, naudojamoms valstybės investicijų projektams
 
-finansuoti, teikti;
+finansuoti ir Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams
+
+draudimo įstatyme numatytų indėlių ir (ar) įsipareigojimų investuotojams draudimo
+
+išmokų mokėjimui finansuoti, teikti;
 
 4) valstybės
 
@@ -686,9 +690,9 @@ tikslams įgyvendinti;
 
 3) Mokslo ir
 
-studijų įstatyme nurodytų valstybės remiamų paskolų. Asmenims, gavusiems šiame punkte
+studijų įstatyme nurodytų valstybės remiamų paskolų. Asmenims, gavusiems šiame
 
-nurodytas paskolas, šio įstatymo 9 straipsnio nuostatos netaikomos;
+punkte nurodytas paskolas, šio įstatymo 9 straipsnio nuostatos netaikomos;
 
 4) Lietuvos
 
@@ -733,6 +737,12 @@ jos dalies sumokėjimo pagal naujos (nenaudotos) gamybinės įrangos ir (arba)
 naujų (nenaudotų) įrenginių finansinės nuomos (lizingo) sutartis, sudarytas su
 
 finansinės nuomos (lizingo) bendrovėmis.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1749,
+
+2011-11-29, Žin., 2011, Nr. 146-6855 (2011-12-01)
 
 5
 
@@ -894,17 +904,23 @@ sudaro Valstybinę paskolų komisiją. Valstybinė paskolų komisija teikia
 
 pasiūlymus Vyriausybei dėl:
 
-1) perskolinamų paskolų
+1) perskolinamų
 
-teikimo valstybės investicijoms finansuoti, valstybės socialinės apsaugos fondų
+paskolų teikimo valstybės investicijoms finansuoti, valstybės socialinės
 
-skoliniams įsipareigojimams dengti ir šių fondų pinigų srautams subalansuoti,
+apsaugos fondų skoliniams įsipareigojimams dengti ir šių fondų pinigų srautams
 
-valstybės nekilnojamajam turtui atnaujinti, valstybės garantijų, nurodytų šio
+subalansuoti, valstybės nekilnojamajam turtui atnaujinti, Lietuvos Respublikos
 
-įstatymo 4 straipsnio 2 dalies 1, 2, 4 punktuose ir 3 dalyje, teikimo valstybės
+indėlių ir įsipareigojimų investuotojams draudimo įstatyme numatytų indėlių ir
 
-investicijoms finansuoti, taip pat tokių valstybės garantijų sąlygų keitimo;
+(ar) įsipareigojimų investuotojams draudimo išmokų mokėjimui finansuoti,
+
+valstybės garantijų, nurodytų šio įstatymo 4 straipsnio 2 dalies 1, 2, 4 punktuose
+
+ir 3 dalyje, teikimo valstybės investicijoms finansuoti, taip pat tokių
+
+valstybės garantijų sąlygų keitimo;
 
 2) suteiktų
 
@@ -947,6 +963,12 @@ paskolų komisijos sudėtį tvirtina Vyriausybė.
 paskolų komisijos darbo tvarką nustato Vyriausybė arba jos įgaliota
 
 institucija.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1749, 2011-11-29,
+
+Žin., 2011, Nr. 146-6855 (2011-12-01)
 
 5 straipsnis. Užsienio paskola
 
@@ -1312,11 +1334,11 @@ finansinės nuomos (lizingo) bendrovėms pagal garantijas įvykdymą garantuoja
 
 valstybė. Vyriausybė kiekvienais metais kiekvienai garantijų institucijai
 
-nustato įsipareigojimų pagal garantijas limitus. Šie limitai negali viršyti
+nustato įsipareigojimų pagal garantijas limitus. Šie limitai negali viršyti Lietuvos
 
-Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių
+Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų
 
-biudžetų finansinių rodiklių patvirtinimo įstatyme nustatyto limito.
+finansinių rodiklių patvirtinimo įstatyme nustatyto limito.
 
 3. Garantijų
 
@@ -1468,11 +1490,11 @@ sustabdyti delspinigių skaičiavimą valstybės skolininkui arba valstybės
 
 garantuojamam skolininkui, taip pat atleisti šiuos skolininkus nuo nesumokėto
 
-valiutų kursų skirtumo, kuris apskaičiuotas, kai jie praleido prievolės
+valiutų kursų skirtumo, kuris apskaičiuotas, kai jie praleido prievolės įvykdymo
 
-įvykdymo terminą, o po šio termino pabaigos – kai dėl valiutų kursų pasikeitimo
+terminą, o po šio termino pabaigos – kai dėl valiutų kursų pasikeitimo valiuta,
 
-valiuta, kuria turi būti mokama, nuvertėjo, mokėjimo. Atleidimo nuo delspinigių
+kuria turi būti mokama, nuvertėjo, mokėjimo. Atleidimo nuo delspinigių
 
 mokėjimo, nuo valiutų kursų skirtumo mokėjimo, taip pat delspinigių skaičiavimo
 
@@ -1486,15 +1508,15 @@ visos skolos, įskaitant delspinigius ir (arba) valiutų kursų skirtumą, tači
 
 atsižvelgiant į skolos išieškojimo galimybes, išlaidas ir galimas neigiamas
 
-priverstinio skolos išieškojimo pasekmes valstybės ar atskiro regiono mastu, atleidus
+priverstinio skolos išieškojimo pasekmes valstybės ar atskiro regiono mastu,
 
-valstybės skolininką arba valstybės garantuojamą skolininką nuo apskaičiuotų,
+atleidus valstybės skolininką arba valstybės garantuojamą skolininką nuo
 
-bet nesumokėtų delspinigių ar jų dalies ir (arba) nuo nesumokėto valiutų kursų
+apskaičiuotų, bet nesumokėtų delspinigių ar jų dalies ir (arba) nuo nesumokėto
 
-skirtumo mokėjimo, jis įsipareigoja padengti likusią skolos dalį ir esant
+valiutų kursų skirtumo mokėjimo, jis įsipareigoja padengti likusią skolos dalį
 
-galimybei pateikia skolos grąžinimą užtikrinančias priemones;
+ir esant galimybei pateikia skolos grąžinimą užtikrinančias priemones;
 
 2) valstybės skolininko arba valstybės
 
@@ -1542,17 +1564,17 @@ pabaigos dėl valiutų kursų pasikeitimo valiuta, kuria turi būti mokama,
 
 nuvertėjo, šie skolininkai privalo sumokėti Finansų ministerijai arba Mokslo ir
 
-studijų įstatyme nurodytų valstybės remiamų paskolų atveju – Vyriausybės
+studijų įstatyme nurodytų valstybės remiamų paskolų atveju – Vyriausybės įgaliotai
 
-įgaliotai institucijai ar įstaigai valiutos kurso, buvusio prievolės įvykdymo
+institucijai ar įstaigai valiutos kurso, buvusio prievolės įvykdymo termino
 
-termino suėjimo metu, ir mokėjimo metu esančio kurso skirtumą. Finansų
+suėjimo metu, ir mokėjimo metu esančio kurso skirtumą. Finansų ministerijos
 
-ministerijos sprendimai dėl skolos išieškojimo iš valstybės skolininko arba
+sprendimai dėl skolos išieškojimo iš valstybės skolininko arba valstybės
 
-valstybės garantuojamo skolininko perduodami antstoliams vykdyti Civilinio
+garantuojamo skolininko perduodami antstoliams vykdyti Civilinio proceso
 
-proceso kodekso nustatyta tvarka.
+kodekso nustatyta tvarka.
 
 3. Kai akcinė bendrovė Turto bankas
 
@@ -1594,11 +1616,11 @@ ekonominiu požiūriu netikslinga šiam skolininkui keisti perskolinamos paskolo
 
 ir (arba) skolos grąžinimo sąlygas arba priimti ir pateikti vykdyti Finansų
 
-ministerijos sprendimą išieškoti skolą, Finansų ministerija arba akcinė
+ministerijos sprendimą išieškoti skolą, Finansų ministerija arba akcinė bendrovė
 
-bendrovė Turto bankas, kai ši bendrovė administruoja Finansų ministerijos
+Turto bankas, kai ši bendrovė administruoja Finansų ministerijos perduotas
 
-perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius
+perskolinamas paskolas, valstybės garantijas ir kitus turtinius
 
 įsipareigojimus, turi teisę teisės aktų nustatyta tvarka kreiptis į teismą su
 
@@ -1716,15 +1738,15 @@ straipsnis. Atskaitomybė
 
 pasibaigus biudžetiniams metams, kartu su metiniu valstybės biudžeto vykdymo
 
-ataskaitų rinkiniu privalo pateikti Seimui valstybės skolos, suteiktų
+ataskaitų rinkiniu privalo pateikti Seimui valstybės skolos, suteiktų perskolinamų
 
-perskolinamų paskolų ir suteiktų valstybės garantijų ataskaitas. Ataskaitų
+paskolų ir suteiktų valstybės garantijų ataskaitas. Ataskaitų formas,
 
-formas, atitinkančias šio įstatymo ir Lietuvos Respublikos atitinkamų metų
+atitinkančias šio įstatymo ir Lietuvos Respublikos atitinkamų metų valstybės
 
-valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
 
-įstatymo nuostatas, nustato finansų ministras.
+nuostatas, nustato finansų ministras.
 
 2. Valstybės kontrolė įvertina
 
@@ -1904,11 +1926,9 @@ VALSTYBĖS SKOLOS ĮSTATYMO 3, 8,
 
 Šis įstatymas įsigalioja tų metų, kurių ataskaitų
 
-rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
 
-atskaitomybės įstatymą, sausio
-
-1 dieną.
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
 
 Šio įstatymo
 
@@ -1950,9 +1970,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-XI-393,
+XI-393, 2009-07-22,
 
-2009-07-22, Žin., 2009, Nr. 93-3985 (2009-08-04)
+Žin., 2009, Nr. 93-3985 (2009-08-04)
 
 FINANSINIO
 
@@ -2002,11 +2022,23 @@ Nauja
 
 įstatymo redakcija
 
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1749,
+
+2011-11-29, Žin., 2011, Nr. 146-6855 (2011-12-01)
+
+VALSTYBĖS SKOLOS ĮSTATYMO 4 IR 7 STRAIPSNIŲ
+
+PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo Aušrinė Trapinskienė (2010-12-15)
+Redagavo Aušra Bodin (2011-12-12)
 
-autrap@lrs.lt
+aubodi@lrs.lt
 
 11 straipsnis. Atskaitomybė
 
