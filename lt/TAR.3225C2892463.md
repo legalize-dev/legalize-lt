@@ -4,7 +4,7 @@ identifier: "TAR.3225C2892463"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-06"
-last_updated: "2010-07-13"
+last_updated: "2011-12-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3225C2892463"
 department: "Lietuvos Respublikos Seimas"
@@ -187,17 +187,21 @@ Nr. XI-956,
 
 Šis Įstatymas
 
-įsigalioja 2012 m. sausio 1 d.
+įsigalioja 2013 m. sausio 1 d.
 
 Straipsnio pakeitimai:
 
-Nr. XI-88, 2008-12-19,
+Nr. XI-88, 2008-12-19, Žin., 2008, Nr.
 
-Žin., 2008, Nr. 149-6014 (2008-12-30)
+149-6014 (2008-12-30)
 
 Nr. XI-532,
 
 2009-12-08, Žin., 2009, Nr. 151-6779 (2009-12-22)
+
+Nr. XI-1730,
+
+2011-11-22, Žin., 2011, Nr. 150-7045 (2011-12-08)
 
 Skelbiu šį
 
@@ -219,9 +223,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-XI-88,
+XI-88, 2008-12-19, Žin., 2008, Nr.
 
-2008-12-19, Žin., 2008, Nr. 149-6014 (2008-12-30)
+149-6014 (2008-12-30)
 
 VALSTYBINIŲ
 
@@ -233,9 +237,9 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XI-532,
+Nr. XI-532, 2009-12-08,
 
-2009-12-08, Žin., 2009, Nr. 151-6779 (2009-12-22)
+Žin., 2009, Nr. 151-6779 (2009-12-22)
 
 VALSTYBINIŲ
 
@@ -259,11 +263,21 @@ PENSIJŲ ĮSTATYMO 4, 5, 6 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 3
 
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1730,
+
+2011-11-22, Žin., 2011, Nr. 150-7045 (2011-12-08)
+
+VALSTYBINIŲ PENSIJŲ ĮSTATYMO 4, 5, 6
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo Aušrinė Trapinskienė
+Redagavo Aušra Bodin (2011-12-13)
 
-(2010-07-13)
-
-autrap@lrs.lt
+aubodi@lrs.lt
 
