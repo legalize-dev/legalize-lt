@@ -4,7 +4,7 @@ identifier: "TAR.9E05750F05D3"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-17"
-last_updated: "2010-07-13"
+last_updated: "2011-12-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E05750F05D3"
 department: "Lietuvos Respublikos Seimas"
@@ -82,9 +82,9 @@ tarnautojams nustatomi šie priedai už kvalifikacinę kategoriją:
 
 kvalifikacinę kategoriją – 15 procentų pareiginės algos;
 
-2) už antrąją
+2) už antrąją kvalifikacinę
 
-kvalifikacinę kategoriją – 25 procentai pareiginės algos;
+kategoriją – 25 procentai pareiginės algos;
 
 3) už trečiąją
 
@@ -110,7 +110,7 @@ straipsnis. Įstatymo
 
 2. Šio įstatymo 2 straipsnis įsigalioja
 
-2012 m. sausio 1 d.
+2013 m. sausio 1 d.
 
 Straipsnio
 
@@ -120,9 +120,13 @@ Nr. XI-946,
 
 2010-06-30, Žin., 2010, Nr. 82-4300 (2010-07-13)
 
-Skelbiu šį Lietuvos Respublikos Seimo
+Nr. XI-1717,
 
-priimtą įstatymą.
+2011-11-22, Žin., 2011, Nr. 150-7032 (2011-12-08)
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą
+
+įstatymą.
 
 RESPUBLIKOS
 
@@ -146,15 +150,25 @@ Nr. XI-946,
 
 CIVILINĖS KRAŠTO
 
-APSAUGOS TARNYBOS STATUTO 20 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
+APSAUGOS TARNYBOS STATUTO 20 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO
 
-ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1717,
+
+2011-11-22, Žin., 2011, Nr. 150-7032 (2011-12-08)
+
+CIVILINĖS KRAŠTO APSAUGOS TARNYBOS
+
+STATUTO 20 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 *** Pabaiga ***
 
-Redagavo Aušrinė
+Redagavo Aušra Bodin (2011-12-12)
 
-Trapinskienė (2010-07-15)
-
-autrap@lrs.lt
+aubodi@lrs.lt
 
