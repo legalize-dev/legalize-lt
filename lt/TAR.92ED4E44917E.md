@@ -4,7 +4,7 @@ identifier: "TAR.92ED4E44917E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-07-03"
-last_updated: "2009-12-28"
+last_updated: "2011-12-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.92ED4E44917E"
 department: "Lietuvos Respublikos Seimas"
@@ -97,7 +97,9 @@ straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1.
 
-Šio įstatymo 1 straipsnis ir 2 straipsnio 1 ir 2 dalys įsigalioja 2012 m. sausio 1 d.
+Šio įstatymo 1 straipsnis ir 2 straipsnio 1 ir 2 dalys įsigalioja 2015 m.
+
+sausio 1 d.
 
 2. Šio įstatymo 2 straipsnio 3
 
@@ -129,6 +131,10 @@ Nr. XI-588,
 
 2009-12-21, Žin., 2009, Nr. 154-6958 (2009-12-28)
 
+Nr. XI-1755,
+
+2011-12-01, Žin., 2011, Nr. 150-7054 (2011-12-08)
+
 Skelbiu šį
 
 Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -157,13 +163,21 @@ TARNYBOS ĮSTATYMO 8, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 3 STRAIPSN
 
 PAKEITIMO ĮSTATYMAS
 
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1755,
+
+2011-12-01, Žin., 2011, Nr. 150-7054 (2011-12-08)
+
+VALSTYBĖS TARNYBOS ĮSTATYMO 8, 10
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo Aušrinė
+Redagavo Aušra Bodin (2011-12-14)
 
-Trapinskienė (2009-12-29)
-
-autrap@lrs.lt
-
-3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+aubodi@lrs.lt
 
