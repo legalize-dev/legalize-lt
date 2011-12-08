@@ -4,7 +4,7 @@ identifier: "TAR.5BC3DE5B9DD4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-06"
-last_updated: "2010-07-13"
+last_updated: "2011-12-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5BC3DE5B9DD4"
 department: "Lietuvos Respublikos Seimas"
@@ -2251,7 +2251,7 @@ direktorius.
 
 straipsnis. Pareigūnų darbo užmokestis
 
-1 ir 2 dalių redakcija iki 2011 m.
+1 ir 2 dalių redakcija iki 2012 m.
 
 gruodžio 31 d.:
 
@@ -2275,7 +2275,7 @@ viršvalandinį darbą ir budėjimą mokama Valstybės tarnybos įstatymo ir ši
 
 statuto nustatyta tvarka.
 
-3 dalies redakcija iki 2011 m. gruodžio
+3 dalies redakcija iki 2012 m. gruodžio
 
 31 d.:
 
@@ -2329,7 +2329,7 @@ vyriausiojo pareigūno rangą – 0,7 bazinio dydžio;
 
 generalinio pareigūno rangą – 0,8 bazinio dydžio.
 
-3 dalies redakcija nuo 2012 m. sausio 1
+3 dalies redakcija nuo 2013 m. sausio 1
 
 d.:
 
@@ -2383,7 +2383,7 @@ vyriausiojo pareigūno rangą – 0,9 bazinio dydžio;
 
 generalinio pareigūno rangą – 1 bazinio dydžio.
 
-4 dalies redakcija iki 2011 m. gruodžio
+4 dalies redakcija iki 2012 m. gruodžio
 
 31 d.:
 
@@ -2405,7 +2405,7 @@ už 2 kategoriją – 20 procentų pareiginės algos;
 
 už 1 kategoriją – 30 procentų pareiginės algos.
 
-4 dalies redakcija nuo 2012 m. sausio 1
+4 dalies redakcija nuo 2013 m. sausio 1
 
 d.:
 
@@ -2437,17 +2437,25 @@ XI-370,
 
 2009-07-17, Žin., 2009, Nr. 91-3924 (2009-07-31)
 
-Nr. XI-535, 2009-12-08,
+Nr. XI-947, 2010-06-30,
 
-Žin., 2009, Nr. 151-6782 (2009-12-22)
+Žin., 2010, Nr. 82-4301 (2010-07-13)
 
-Nr. XI-947,
+Nr. XI-1725,
 
-2010-06-30, Žin., 2010, Nr. 82-4301 (2010-07-13)
+2011-11-22, Žin., 2011, Nr. 150-7040 (2011-12-08)
+
+Nr. XI-535,
+
+2009-12-08, Žin., 2009, Nr. 151-6782 (2009-12-22)
 
 Nr. XI-948,
 
 2010-06-30, Žin., 2010, Nr. 82-4302 (2010-07-13)
+
+Nr. XI-1724,
+
+2011-11-22, Žin., 2011, Nr. 150-7039 (2011-12-08)
 
 42
 
@@ -2587,9 +2595,9 @@ paskyrimo, profesinių sąjungų atstovas į komisijos narius neskiriamas.
 
 tarnybinės veiklos vertinimą Teisingumo ministerijoje, Kalėjimų departamente ar
 
-jam pavaldžioje įstaigoje ne vėliau kaip prieš 10 darbo dienų iki tarnybinės
+jam pavaldžioje įstaigoje ne vėliau kaip prieš 10 darbo dienų iki tarnybinės veiklos
 
-veiklos vertinimo pradžios pranešama pareigūnui.
+vertinimo pradžios pranešama pareigūnui.
 
 9.
 
@@ -2671,9 +2679,9 @@ veiklą labai gerai, teisingumo ministrui, Kalėjimų departamento direktoriui a
 
 jam pavaldžios įstaigos direktoriui siūlo:
 
-1) suteikti pareigūnui
+1) suteikti
 
-3 kvalifikacinę kategoriją;
+pareigūnui 3 kvalifikacinę kategoriją;
 
 2) palikti
 
@@ -2693,9 +2701,9 @@ tarnybinę veiklą vertina tik jų prašymu.
 
 sprendimus, priimtus pagal kvalifikacijos vertinimo komisijos pasiūlymus, ir
 
-sprendimus dėl kvalifikacinių kategorijų, nurodytus šio straipsnio 5 dalyje,
+sprendimus dėl kvalifikacinių kategorijų, nurodytus šio straipsnio 5 dalyje, per
 
-per vieną mėnesį nuo supažindinimo su šiais sprendimais dienos gali apskųsti
+vieną mėnesį nuo supažindinimo su šiais sprendimais dienos gali apskųsti
 
 teismui Administracinių bylų teisenos įstatymo
 
@@ -2825,11 +2833,11 @@ tarnybos vidaus reikalų, krašto apsaugos, valstybės saugumo, prokuratūros
 
 sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente (Pataisos
 
-reikalų departamente prie Vidaus reikalų ministerijos ir jam pavaldžiose
+reikalų departamente prie Vidaus reikalų ministerijos ir jam pavaldžiose įstaigose
 
-įstaigose ir valstybės įmonėse), jam pavaldžiose įstaigose ir valstybės įmonėse
+ir valstybės įmonėse), jam pavaldžiose įstaigose ir valstybės įmonėse ir
 
-ir Lietuvos muitinėje laiką nuo paskyrimo į pareigūno pareigas ar kario statuso
+Lietuvos muitinėje laiką nuo paskyrimo į pareigūno pareigas ar kario statuso
 
 įgijimo dienos;
 
@@ -3017,11 +3025,9 @@ sveikatos sutrikdymo atveju – 24 jo vidutinių mėnesinių darbo užmokesčių
 
 dydžio;
 
-5) apysunkio
+5) apysunkio sveikatos
 
-sveikatos sutrikdymo atveju – 18 jo vidutinių mėnesinių darbo užmokesčių
-
-dydžio;
+sutrikdymo atveju – 18 jo vidutinių mėnesinių darbo užmokesčių dydžio;
 
 6) lengvo
 
@@ -3155,7 +3161,7 @@ direktorius iš įstaigai skirtų lėšų. Įstaigos direktoriui pašalpa skiria
 
 jo vadovaujamai įstaigai skirtų lėšų.
 
-3 dalies redakcija iki 2011 m. gruodžio
+3 dalies redakcija iki 2012 m. gruodžio
 
 31 d.:
 
@@ -3169,7 +3175,7 @@ Pareigūnų važiavimo išlaidų kompensavimo taisykles ir maksimalų važiavimo
 
 išlaidų kompensacijos dydį nustato Vyriausybė arba jos įgaliota institucija.
 
-3 dalies redakcija nuo 2012 m. sausio 1
+3 dalies redakcija nuo 2013 m. sausio 1
 
 d.:
 
@@ -3203,6 +3209,10 @@ Nr. XI-948,
 
 2010-06-30, Žin., 2010, Nr. 82-4302 (2010-07-13)
 
+Nr. XI-1724,
+
+2011-11-22, Žin., 2011, Nr. 150-7039 (2011-12-08)
+
 51 straipsnis.
 
 Pareigūnų sveikatos priežiūra
@@ -3219,9 +3229,9 @@ nustatyta tvarka apmokamos iš Privalomojo sveikatos draudimo fondo, valstybės
 
 ir savivaldybių biudžetų, savivaldybių sveikatos fondų lėšų. Pareigūnų
 
-papildomo asmens sveikatos priežiūros rėmimo programos finansuojamos iš
+papildomo asmens sveikatos priežiūros rėmimo programos finansuojamos iš valstybės
 
-valstybės biudžeto.
+biudžeto.
 
 2. Pareigūnų
 
@@ -3319,15 +3329,15 @@ būti skiriami tik jų sutikimu.
 
 5. Kalėjimų
 
-departamento pareigūnų darbo laiko ir poilsio laiko režimą nustato šio
+departamento pareigūnų darbo laiko ir poilsio laiko režimą nustato šio departamento
 
-departamento direktorius, o Kalėjimų departamentui pavaldžių įstaigų pareigūnų
+direktorius, o Kalėjimų departamentui pavaldžių įstaigų pareigūnų – šių įstaigų
 
-– šių įstaigų direktoriai.
+direktoriai.
 
-6. Kitus pareigūnų
+6. Kitus
 
-darbo ir poilsio laiko klausimus, kurių nereglamentuoja šis
+pareigūnų darbo ir poilsio laiko klausimus, kurių nereglamentuoja šis
 
 straipsnis, reglamentuoja Darbo kodeksas ir kiti teisės aktai.
 
@@ -3377,9 +3387,9 @@ atostogos, kol vaikui sueis 2 metai, gauna darbo užmokestį, kuris yra mažesni
 
 už vidutinį darbo užmokestį, nurodytą šio straipsnio 2 ir 3 dalyse,
 
-laikotarpiu, kol vaikui sueis 2 metai, jam mokamas šio vidutinio darbo užmokesčio
+laikotarpiu, kol vaikui sueis 2 metai, jam mokamas šio vidutinio darbo
 
-ir gaunamo atitinkamo mėnesio darbo užmokesčio skirtumas.
+užmokesčio ir gaunamo atitinkamo mėnesio darbo užmokesčio skirtumas.
 
 5. Tėvystės
 
@@ -3391,9 +3401,9 @@ TRYLIKTASIS
 
 SKIRSNIS
 
-KALĖJIMŲ DEPARTAMENTO
+KALĖJIMŲ
 
-IR JAM PAVALDŽIŲ
+DEPARTAMENTO IR JAM PAVALDŽIŲ
 
 ĮSTAIGŲ
 
@@ -3461,9 +3471,9 @@ išskyrus 3 straipsnio 2 dalį, įsigalioja 2010 m. sausio 1 d.
 
 Straipsnio pakeitimas:
 
-Nr. XI-123, 2008-12-23,
+Nr. XI-123,
 
-Žin., 2008, Nr. 149-6043 (2008-12-30)
+2008-12-23, Žin., 2008, Nr. 149-6043 (2008-12-30)
 
 4 straipsnis. Kalėjimų departamento ir jam pavaldžių
 
@@ -3471,15 +3481,15 @@ Nr. XI-123, 2008-12-23,
 
 1. Iki šio
 
-įstatymo įsigaliojimo Kalėjimų departamento ir jam pavaldžių įstaigų
+įstatymo įsigaliojimo Kalėjimų departamento ir jam pavaldžių įstaigų pareigūnams
 
-pareigūnams suteikti laipsniai prilyginami šiems bausmių vykdymo sistemos
+suteikti laipsniai prilyginami šiems bausmių vykdymo sistemos pareigūnų
 
-pareigūnų tarnybiniams rangams:
+tarnybiniams rangams:
 
-1) prižiūrėtojo laipsnis
+1) prižiūrėtojo
 
-– pataisos jaunesniojo pareigūno III rangui;
+laipsnis – pataisos jaunesniojo pareigūno III rangui;
 
 2) vyresniojo
 
@@ -3559,8 +3569,6 @@ RESPUBLIKOS PREZIDENTAS                             
 
 ADAMKUS
 
-_____________
-
 Pakeitimai:
 
 1.
@@ -3599,11 +3607,13 @@ PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Šio įstatymo 2 straipsnis
 
-įsigalioja 2012 m. sausio 1 d.
+įsigalioja 2013 m. sausio 1 d.
 
 Įstatymo
 
 galiojimo pakeitimas:
+
+1)
 
 Lietuvos
 
@@ -3621,6 +3631,22 @@ PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
 
 ĮSTATYMAS
 
+2)
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1725,
+
+2011-11-22, Žin., 2011, Nr. 150-7040 (2011-12-08)
+
+TARNYBOS
+
+KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+
+1 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 3.
 
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3637,15 +3663,17 @@ PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Šio įstatymo 1 ir 3 straipsniai
 
-įsigalioja 2010 m. sausio 1 d. ir galioja iki 2011 m. gruodžio 31 d.
+įsigalioja 2010 m. sausio 1 d. ir galioja iki 2012 m. gruodžio 31 d.
 
 Šio įstatymo 2 ir 4 straipsniai
 
-įsigalioja 2012 m. sausio 1 d.
+įsigalioja 2013 m. sausio 1 d.
 
 Įstatymo
 
 galiojimo pakeitimas:
+
+1)
 
 Lietuvos
 
@@ -3663,9 +3691,27 @@ PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
 
 ĮSTATYMAS
 
+2)
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1724,
+
+2011-11-22, Žin., 2011, Nr. 150-7039 (2011-12-08)
+
+TARNYBOS
+
+KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+
+1 STRAIPSNIO PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo Aušrinė Trapinskienė (2010-07-13)
+Redagavo Aušrinė Trapinskienė
 
-autrap@lrs.lt
+(2013-01-09)
+
+ausrine.trapinskiene@lrs.lt
 
