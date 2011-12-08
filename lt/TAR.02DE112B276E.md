@@ -4,7 +4,7 @@ identifier: "TAR.02DE112B276E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-23"
-last_updated: "2010-07-13"
+last_updated: "2011-12-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.02DE112B276E"
 department: "Lietuvos Respublikos Seimas"
@@ -35,9 +35,9 @@ VALSTYBĖS TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO
 
 Vilnius
 
-(Žin.,
+(Žin., 1999,
 
-1999, Nr. 66-2130;
+Nr. 66-2130;
 
 2006, Nr. 87-3400;
 
@@ -45,13 +45,13 @@ Vilnius
 
 Nr. 135-5453)
 
-1
+3 straipsnis. Įstatymo galiojimas
 
-straipsnis. Įstatymo 1 priedo pakeitimas
+1. Šio įstatymo
 
-Pakeisti
+1 straipsnis. Įstatymo 1 priedo pakeitimas
 
-Įstatymo 1 priedą ir jį išdėstyti taip:
+Pakeisti Įstatymo 1 priedą ir jį išdėstyti taip:
 
 „Lietuvos
 
@@ -161,13 +161,9 @@ algų koeficientai
 
 11,4“
 
-2
+2 straipsnis. Įstatymo 1 priedo pakeitimas
 
-straipsnis. Įstatymo 1 priedo pakeitimas
-
-Pakeisti Įstatymo 1
-
-priedą ir jį išdėstyti taip:
+Pakeisti Įstatymo 1 priedą ir jį išdėstyti taip:
 
 „Lietuvos
 
@@ -181,11 +177,9 @@ tarnybos įstatymo
 
 priedas
 
-LIETUVOS
+LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ
 
-RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ KATEGORIJOS IR PAREIGINIŲ ALGŲ
-
-KOEFICIENTAI
+PAREIGYBIŲ KATEGORIJOS IR PAREIGINIŲ ALGŲ KOEFICIENTAI
 
 (Baziniais
 
@@ -276,54 +270,4 @@ algų koeficientai
 20
 
 13,0“
-
-3 straipsnis. Įstatymo galiojimas
-
-1.
-
-Šio įstatymo 1 straipsnis įsigalioja 2009 m. gegužės 1 d.
-
-2.
-
-Šio įstatymo 2 straipsnis įsigalioja 2012 m. sausio 1 d.
-
-Straipsnio pakeitimai:
-
-Nr. XI-943, 2010-06-30,
-
-Žin., 2010, Nr. 82-4297 (2010-07-13)
-
-Skelbiu
-
-šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS
-
-ADAMKUS
-
-________________
-
-Pakeitimai:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. XI-943,
-
-2010-06-30, Žin., 2010, Nr. 82-4297 (2010-07-13)
-
-VALSTYBĖS
-
-TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-*** Pabaiga ***
-
-Redagavo Aušrinė
-
-Trapinskienė (2010-07-13)
-
-autrap@lrs.lt
 
