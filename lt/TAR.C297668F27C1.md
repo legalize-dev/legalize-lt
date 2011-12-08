@@ -4,7 +4,7 @@ identifier: "TAR.C297668F27C1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-07-03"
-last_updated: "2009-12-28"
+last_updated: "2011-12-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C297668F27C1"
 department: "Lietuvos Respublikos Seimas"
@@ -24,7 +24,7 @@ LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 33, 34, 36, 38, 39, 42, 43, 47, 51,
 
 107, 108, 119, 120, 122,
 
-Suvestinė redakcija nuo 2009-12-28 iki 2011-12-07
+Suvestinė redakcija nuo 2011-12-08 iki 2014-12-29
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 81-3186, i. k. 1081010ISTA00X-1685
 
