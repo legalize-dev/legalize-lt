@@ -4,7 +4,7 @@ identifier: "TAR.55627FB64864"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-20"
-last_updated: "2005-07-21"
+last_updated: "2011-12-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.55627FB64864"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymas pradedamas taikyti nuo 1995 m. sausio 1
 ---
 # Lietuvos Respublikos valstybės iždo įstatymas
 
-Suvestinė redakcija nuo 2005-07-21 iki 2011-12-07
+Suvestinė redakcija nuo 2011-12-08 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 100-2001, i. k. 0941010ISTA000I-712
 
@@ -70,6 +70,18 @@ VALSTYBĖS IŽDO BENDROJI SĄSKAITA
 2. Tais atvejais, kai teisės aktai nustato kitaip ir valstybės piniginiai ištekliai laikomi kitose Lietuvos banko sąskaitose, negu nustatyta šio straipsnio 1 dalyje, arba valstybės piniginiai ištekliai yra paskolinti ar kitaip investuoti, jų duomenys įtraukiami į valstybės iždo bendrosios sąskaitos lėšų apskaitą.
 
 3. Lietuvos bankas yra Lietuvos Respublikos finansų ministerijos fiskalinis tarpininkas, vykdantis veiklą, susijusią su valstybės iždo bendrosios sąskaitos tvarkymu.
+
+4. Į valstybės iždo bendrąją sąskaitą negali būti nukreiptas:
+
+1) bet koks išieškojimas, išskyrus atvejus, kai valstybė teisės aktų nustatyta tvarka ir terminais neįvykdo arba netinkamai įvykdo savo įsipareigojimus pagal arbitražo ar teismo sprendimus, kuriais iš Lietuvos valstybės priteistos mokėtinos sumos turtinei ir neturtinei žalai atlyginti;
+
+2) bet kokių laikinųjų apsaugos priemonių taikymas.
+
+TAR pastaba. 4 dalies nuostatos, be kita ko, taikomos ir arbitražo ar teismo sprendimų vykdymo procesui, kai antstoliai jau yra nukreipę išieškojimą į valstybės iždo bendrąją sąskaitą, bet dar nėra paskirstę ar išmokėję lėšų išieškotojams.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1715, 2011-11-22, Žin., 2011, Nr. 150-7031 (2011-12-08), i. k. 1111010ISTA0XI-1715
 
 4 straipsnis. Įmokos į valstybės iždo bendrąją sąskaitą ir išmokos iš jos
 
@@ -180,4 +192,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-321, 2005-07-05, Žin., 2005, Nr. 88-3289 (2005-07-21), i. k. 1051010ISTA000X-321
 
 Lietuvos Respublikos valstybės iždo įstatymo pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1715, 2011-11-22, Žin., 2011, Nr. 150-7031 (2011-12-08), i. k. 1111010ISTA0XI-1715
+
+Lietuvos Respublikos valstybės iždo įstatymo 3 straipsnio papildymo įstatymas
 
