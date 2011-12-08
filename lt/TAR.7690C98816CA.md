@@ -4,7 +4,7 @@ identifier: "TAR.7690C98816CA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-01"
-last_updated: "2011-07-13"
+last_updated: "2011-12-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7690C98816CA"
 department: "Lietuvos Respublikos Seimas"
@@ -2385,7 +2385,7 @@ kategoriją – 30 procentų pareiginės algos.
 
 4
 
-dalies redakcija nuo 2012-01-01:
+dalies redakcija nuo 2013-01-01:
 
 4. Tarnybos
 
@@ -2463,9 +2463,15 @@ XI-364,
 
 2009-07-17, Žin., 2009, Nr. 91-3919 (2009-07-31)
 
-Nr. XI-949,
+Nr.
+
+XI-949,
 
 2010-06-30, Žin., 2010, Nr. 82-4303 (2010-07-13)
+
+Nr. XI-1719,
+
+2011-11-22, Žin., 2011, Nr. 150-7034 (2011-12-08)
 
 Nr. XI-986,
 
@@ -2543,9 +2549,9 @@ užmokesčio dydžio;
 
 užmokesčio dydžio;
 
-6) lengvo sveikatos sužalojimo atveju – 12 mėnesių darbo užmokesčio
+6) lengvo sveikatos sužalojimo atveju – 12 mėnesių darbo
 
-dydžio.
+užmokesčio dydžio.
 
 4. Tarnybos pareigūno sveikatos sužalojimo sunkumo laipsnį, taip pat jei
 
@@ -2571,11 +2577,11 @@ atlyginama materialinė žala, kurią jie patiria dėl tarnybos.
 
 atleidžiamiems iš Specialiųjų tyrimų tarnybos
 
-1. Atleidžiant tarnybos pareigūnus
+1. Atleidžiant tarnybos
 
-iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo 12
+pareigūnus iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo
 
-straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
+12 straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
 
 straipsnio 1 dalies 6 punkto, 2 dalies 3, 4 arba 5 punkto nustatytais
 
@@ -2587,11 +2593,11 @@ išeitinė pašalpa.
 
 redakcija nuo 2012 m. sausio 1 d.:
 
-1. Atleidžiant tarnybos
+1. Atleidžiant tarnybos pareigūnus
 
-pareigūnus iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo
+iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo 12
 
-12 straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
+straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
 
 straipsnio 1 dalies 6 punkto, 2 dalies 3, 4, 5 arba 7 punkto nustatytais
 
@@ -2689,9 +2695,9 @@ socialinio draudimo įstatyme nustatytos socialinės garantijos. Joms įgyvendin
 
 naudojami Specialiųjų tyrimų tarnybai skiriami biudžeto asignavimai.
 
-3. Tarnybos pareigūnui, panaudojusiam tarnybinį ginklą
+3. Tarnybos pareigūnui, panaudojusiam tarnybinį
 
-prieš asmenį, suteikiama psichologo konsultacija. Esant specialisto
+ginklą prieš asmenį, suteikiama psichologo konsultacija. Esant specialisto
 
 rekomendacijai, pareigūnas siunčiamas medicininės-psichologinės reabilitacijos.
 
@@ -2705,9 +2711,9 @@ minimaliųjų mėnesinių algų dydžio pašalpa. Pašalpa mokama iš Specialių
 
 tarnybai darbo užmokesčiui skirtų lėšų.
 
-5. Tarnybos pareigūnai privalomuoju sveikatos draudimu
+5. Tarnybos pareigūnai privalomuoju sveikatos
 
-draudžiami valstybės lėšomis.
+draudimu draudžiami valstybės lėšomis.
 
 6. Tarnybos pareigūnai turi teisę į nemokamą iš
 
