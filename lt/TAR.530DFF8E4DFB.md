@@ -4,7 +4,7 @@ identifier: "TAR.530DFF8E4DFB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-17"
-last_updated: "2010-07-13"
+last_updated: "2011-12-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.530DFF8E4DFB"
 department: "Lietuvos Respublikos Seimas"
@@ -80,9 +80,7 @@ Pakeisti
 
 „4.
 
-Pareigūnams nustatomi tokie pareiginės algos priedai už kvalifikacines
-
-kategorijas:
+Pareigūnams nustatomi tokie pareiginės algos priedai už kvalifikacines kategorijas:
 
 1)
 
