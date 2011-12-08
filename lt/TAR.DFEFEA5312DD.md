@@ -4,7 +4,7 @@ identifier: "TAR.DFEFEA5312DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2011-09-01"
+last_updated: "2011-12-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DFEFEA5312DD"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2011-09-01 iki 2011-12-07
+Suvestinė redakcija nuo 2011-12-08 iki 2012-12-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3348, i. k. 1031010ISTA0IX-1669
 
@@ -341,7 +341,7 @@ DARBO UŽMOKESTIS IR DARBO TRUKMĖ,  SOCIALINĖS IR KITOS GARANTIJOS
 
 5) už penktąją kvalifikacinę kategoriją – 30 procentų pareiginės algos.
 
-3 dalies redakcija nuo 2012-01-01:
+3 dalies redakcija nuo 2013-01-01:
 
 3. Statutiniams tarnautojams nustatomi šie priedai už kvalifikacinę kategoriją:
 
@@ -358,6 +358,8 @@ DARBO UŽMOKESTIS IR DARBO TRUKMĖ,  SOCIALINĖS IR KITOS GARANTIJOS
 Straipsnio dalies pakeitimai:
 
 Nr. XI-946, 2010-06-30, Žin., 2010, Nr. 82-4300 (2010-07-13), i. k. 1101010ISTA00XI-946
+
+Nr. XI-1717, 2011-11-22, Žin., 2011, Nr. 150-7032 (2011-12-08), i. k. 1111010ISTA0XI-1717
 
 4. Statutiniams tarnautojams mokamos Valstybės tarnybos įstatymo nustatytos priemokos už darbą poilsio ir švenčių dienomis, nakties metu, kenksmingomis, labai kenksmingomis ir pavojingomis darbo sąlygomis, taip pat už įprastą darbo krūvį viršijančią veiklą ar papildomų užduočių, atliekamų viršijant nustatytą darbo trukmę, atlikimą. Papildomos užduotys statutiniam tarnautojui turi būti suformuluotos raštu. Priemokos už šioje dalyje nurodytas sąlygas negali viršyti 60 procentų pareiginės algos.
 
@@ -448,4 +450,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1522, 2011-06-23, Žin., 2011, Nr. 86-4164 (2011-07-13), i. k. 1111010ISTA0XI-1522
 
 Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 3 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1717, 2011-11-22, Žin., 2011, Nr. 150-7032 (2011-12-08), i. k. 1111010ISTA0XI-1717
+
+Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas
 
