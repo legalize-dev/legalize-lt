@@ -4,7 +4,7 @@ identifier: "TAR.B101247E0E6C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-05"
-last_updated: "2011-07-13"
+last_updated: "2011-12-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B101247E0E6C"
 department: "Lietuvos Respublikos Seimas"
@@ -1939,9 +1939,9 @@ ištarnavusiems saugumo majorais ne mažiau kaip 4 metus;
 
 inspektoriams, specialios paskirties įstaigų skyrių viršininkams ir jų
 
-pavaduotojams, poskyrių viršininkams, vyriausiesiems specialistams, ištarnavusiems
+pavaduotojams, poskyrių viršininkams, vyriausiesiems specialistams,
 
-saugumo kapitonais ne mažiau kaip 3 metus;
+ištarnavusiems saugumo kapitonais ne mažiau kaip 3 metus;
 
 4) saugumo kapitono laipsnis - vyresniesiems inspektoriams, inspektoriams, vyresniesiems
 
@@ -2007,11 +2007,11 @@ Nr. X-1740,
 
 straipsnis. Kvalifikacinės kategorijos ir jų suteikimo tvarka
 
-1. Saugumo
+1. Saugumo pareigūnams
 
-pareigūnams kvalifikacines kategorijas suteikia Saugumo departamento
+kvalifikacines kategorijas suteikia Saugumo departamento generalinis
 
-generalinis direktorius.
+direktorius.
 
 2. Kvalifikacinių
 
@@ -2025,7 +2025,9 @@ pareigūnams gali būti suteikiamos šios kvalifikacinės kategorijos: penktoji
 
 (V), ketvirtoji (IV), trečioji (III), antroji (II), pirmoji (I). Aukščiausia
 
-yra pirmoji kvalifikacinė kategorija, žemiausia – penktoji kvalifikacinė kategorija.
+yra pirmoji kvalifikacinė kategorija, žemiausia – penktoji kvalifikacinė
+
+kategorija.
 
 4. Saugumo departamento generaliniam direktoriui pagal
 
@@ -2093,9 +2095,9 @@ apdovanojimui.
 
 3. Saugumo
 
-pareigūnų skatinimo tvarka nustatoma Saugumo departamento generalinio direktoriaus
+pareigūnų skatinimo tvarka nustatoma Saugumo departamento generalinio
 
-įsakymu.
+direktoriaus įsakymu.
 
 4. Saugumo
 
@@ -2323,9 +2325,9 @@ PAREIGŲ
 
 straipsnis. Nušalinimo nuo pareigų pagrindai ir terminai
 
-1. Saugumo
+1. Saugumo pareigūnas
 
-pareigūnas nušalinamas nuo pareigų:
+nušalinamas nuo pareigų:
 
 1) jeigu jis yra
 
@@ -2493,11 +2495,11 @@ sveikatai arba toks įspėjimas neįmanomas.
 
 7. Atitinkamų
 
-padalinių saugumo pareigūnai turi būti specialiai parengti ir periodiškai tikrinami,
+padalinių saugumo pareigūnai turi būti specialiai parengti ir periodiškai
 
-ar gali veikti situacijose, kuriose naudojama fizinė prievarta, šaunamasis
+tikrinami, ar gali veikti situacijose, kuriose naudojama fizinė prievarta,
 
-ginklas.
+šaunamasis ginklas.
 
 8. Saugumo
 
@@ -2521,9 +2523,9 @@ departamento generalinis direktorius, jo pavaduotojai, tiesioginis vadovas arba
 
 kitas generalinio direktoriaus įgaliotas pareigūnas, neaiškindami paėmimo
 
-priežasčių. Jei šaunamąjį ginklą ir specialiąsias priemones paėmė ne Saugumo departamento
+priežasčių. Jei šaunamąjį ginklą ir specialiąsias priemones paėmė ne Saugumo
 
-generalinis direktorius, jam apie tai nedelsiant pranešama raštu.
+departamento generalinis direktorius, jam apie tai nedelsiant pranešama raštu.
 
 40
 
@@ -2575,9 +2577,7 @@ pareigūnui yra žinomi arba aiškiai matomi, išskyrus atvejus, kai tokie asmen
 
 užpuola arba priešinasi ginklu, kitu pavojingu gyvybei ar sveikatai būdu arba
 
-kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar
-
-sveikatai.
+kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
 
 41
 
@@ -3367,11 +3367,11 @@ persikėlimo išlaidos.
 
 pareigūno prašymu dėl šeiminių aplinkybių ar kitų svarbių priežasčių kartą per
 
-kalendorinius metus gali būti suteikiamos ne ilgesnės kaip 30 kalendorinių
+kalendorinius metus gali būti suteikiamos ne ilgesnės kaip 30 kalendorinių dienų
 
-dienų nemokamos atostogos. Saugumo pareigūnas, kuriam suteiktos nemokamos
+nemokamos atostogos. Saugumo pareigūnas, kuriam suteiktos nemokamos atostogos,
 
-atostogos, nepraranda teisės į kasmetines ar tikslines atostogas.
+nepraranda teisės į kasmetines ar tikslines atostogas.
 
 Straipsnio
 
@@ -3425,7 +3425,7 @@ skaičiuojami nuo pareiginės algos bazinio dydžio:
 
 9) saugumo generolui - 4.
 
-3 dalies redakcija iki 2011-12-31:
+3 dalies redakcija iki 2012-12-31:
 
 3.
 
@@ -3451,7 +3451,7 @@ kvalifikacinės kategorijos – 25 procentai pareiginės algos dydžio;
 
 pareiginės algos dydžio.
 
-3 dalies redakcija nuo 2012-01-01:
+3 dalies redakcija nuo 2013-01-01:
 
 3.
 
@@ -3491,9 +3491,9 @@ pavaduotojams pareigybės kategoriją suteikia Respublikos Prezidentas, skirdama
 
 juos į pareigas.
 
-6. Laikinojo nedarbingumo, nėštumo ir gimdymo atostogų,
+6. Laikinojo nedarbingumo, nėštumo ir gimdymo
 
-tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais saugumo
+atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais saugumo
 
 pareigūnams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų
 
@@ -3555,9 +3555,13 @@ Nr. XI-950,
 
 2010-06-30, Žin., 2010, Nr. 82-4304 (2010-07-13)
 
-Nr. XI-984,
+Nr. XI-1720,
 
-2010-07-02, Žin., 2010, Nr. 86-4535 (2010-07-20)
+2011-11-22, Žin., 2011, Nr. 150-7035 (2011-12-08)
+
+Nr. XI-984, 2010-07-02,
+
+Žin., 2010, Nr. 86-4535 (2010-07-20)
 
 44
 
@@ -3599,13 +3603,13 @@ lygiomis dalimis mokama jo vidutinio darbo užmokesčio kompensacija, neviršija
 
 3. Pareigūnui, kuris buvo sužalotas, susižalojo arba
 
-kurio sveikata buvo sutrikdyta atliekant tarnybines pareigas, arba kurio
+kurio sveikata buvo sutrikdyta atliekant tarnybines pareigas, arba kurio sveikata
 
-sveikata buvo sutrikdyta dėl tarnybinių pareigų atlikimo ar pareigūno statuso,
+buvo sutrikdyta dėl tarnybinių pareigų atlikimo ar pareigūno statuso, išmokama
 
-išmokama nuo 1 iki 5 metų (nuo 12 iki 60 mėnesių) jo vidutinio darbo užmokesčio
+nuo 1 iki 5 metų (nuo 12 iki 60 mėnesių) jo vidutinio darbo užmokesčio dydžio
 
-dydžio kompensacija.
+kompensacija.
 
 4. Nustatomos šios kompensacijos:
 
@@ -3659,9 +3663,9 @@ direktoriaus nustatyta tvarka atlikus tarnybinį tyrimą.
 
 nemokamos, jeigu:
 
-1) pareigūnas žuvo arba susižalojo darydamas nusikaltimą
+1) pareigūnas žuvo arba susižalojo darydamas
 
-ar baudžiamąjį nusižengimą;
+nusikaltimą ar baudžiamąjį nusižengimą;
 
 2) pareigūno žuvimo arba susižalojimo priežastis buvo
 
@@ -4041,9 +4045,9 @@ ir generalinio direktoriaus pavaduotojus, Saugumo departamente tarnauja:
 
 kol sukanka 50 metų;
 
-2) saugumo
+2) saugumo pulkininkai
 
-pulkininkai ir generolai, kol sukanka 55 metai.
+ir generolai, kol sukanka 55 metai.
 
 3. Saugumo
 
