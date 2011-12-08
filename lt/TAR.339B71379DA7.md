@@ -4,7 +4,7 @@ identifier: "TAR.339B71379DA7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-17"
-last_updated: "2010-07-13"
+last_updated: "2011-12-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.339B71379DA7"
 department: "Lietuvos Respublikos Seimas"
@@ -241,7 +241,21 @@ straipsnis. Įstatymo galiojimas
 
 Šis įstatymas
 
-įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2011 m. gruodžio 31 d.
+įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2012 m. gruodžio 31 d.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-953,
+
+2010-06-30, Žin., 2010, Nr. 82-4307 (2010-07-13)
+
+Nr.
+
+XI-1728,
+
+2011-11-22, Žin., 2011, Nr. 150-7043 (2011-12-08)
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -271,11 +285,29 @@ ATLYGINIMŲ ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO
 
 ĮSTATYMAS
 
-*** Pabaiga ***
+2.
 
-Redagavo Aušrinė Trapinskienė
+Lietuvos
 
-(2010-07-13)
+Respublikos Seimas, Įstatymas
 
-autrap@lrs.lt
+Nr.
+
+XI-1728,
+
+2011-11-22, Žin., 2011, Nr. 150-7043 (2011-12-08)
+
+TEISĖJŲ ATLYGINIMŲ ĮSTATYMO PRIEDĖLIO
+
+PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo
+
+Aušra Bodin (2011-12-13)
+
+aubodi@lrs.lt
 
