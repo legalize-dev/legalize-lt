@@ -4,7 +4,7 @@ identifier: "TAR.2E4319D8A0D2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-09-23"
-last_updated: "2011-01-01"
+last_updated: "2011-12-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E4319D8A0D2"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ Neoficialus įstatymo tekstas
 
 Statuto
 
-aktuali redakcija nuo 2011 m. sausio 1 d.
+aktuali redakcija nuo 2011-01-01 iki 2012-12-31
 
 LIETUVOS
 
@@ -151,13 +151,13 @@ sąvokos
 
 1.
 
-Departamentas – krašto apsaugos ministrui pavaldi žvalgybą,
+Departamentas – krašto apsaugos ministrui pavaldi žvalgybą, kontržvalgybą
 
-kontržvalgybą ir kitas šiame statute nustatytas funkcijas atliekanti krašto
+ir kitas šiame statute nustatytas funkcijas atliekanti krašto apsaugos sistemos
 
-apsaugos sistemos institucija, kurios paskirtis – stiprinti krašto
+institucija, kurios paskirtis – stiprinti krašto apsaugos sistemos saugumą
 
-apsaugos sistemos saugumą ir šalies gynybinę galią.
+ir šalies gynybinę galią.
 
 2. Tarnybinis
 
@@ -459,9 +459,9 @@ laikotarpis, skaičiuojamas nuo tarnybos Departamente pradžios.
 
 straipsnis. Reikalavimai asmenims, priimamiems į tarnybą Departamente
 
-1. Asmenims,
+1. Asmenims, priimamiems
 
-priimamiems į tarnybą Departamente, taikomi šie reikalavimai:
+į tarnybą Departamente, taikomi šie reikalavimai:
 
 1) kariams
 
@@ -541,9 +541,9 @@ nepraėjo 5 metai;
 
 neatitinkantys šio statuto 13 straipsnyje nustatytų reikalavimų;
 
-7) neatitinkantys kitų įstatymų
+7) neatitinkantys kitų įstatymų nustatytų
 
-nustatytų reikalavimų.
+reikalavimų.
 
 15 straipsnis. Asmenų, priimamų į
 
@@ -683,9 +683,9 @@ viršininko pavaduotojas, poskyrio viršininkas – majoras (komandoras
 
 leitenantas);
 
-6) vyriausiasis specialistas
+6) vyriausiasis
 
-– nuo leitenanto iki majoro (komandoro leitenanto);
+specialistas – nuo leitenanto iki majoro (komandoro leitenanto);
 
 7) vyresnysis
 
@@ -849,9 +849,9 @@ ligos ar netekto darbingumo arba dėl kitų nuo jo nepriklausančių ir
 
 nepašalinamų priežasčių.
 
-21 straipsnis. Karių ir statutinių
+21 straipsnis. Karių ir statutinių tarnautojų
 
-tarnautojų atestavimas
+atestavimas
 
 1.
 
@@ -875,9 +875,9 @@ viršininkas.
 
 Statutiniai tarnautojai atestuojami kas 12 mėnesių, taip pat tais
 
-atvejais, kai sprendžiama, ar statutinis tarnautojas tinka civilinei
+atvejais, kai sprendžiama, ar statutinis tarnautojas tinka civilinei krašto
 
-krašto apsaugos tarnybai.
+apsaugos tarnybai.
 
 5.
 
@@ -1003,11 +1003,11 @@ dėl sveikatos būklės;
 
 11)
 
-netenka pasitikėjimo, ir įstatymų įgaliotos institucijos ar pareigūnai
+netenka pasitikėjimo, ir įstatymų įgaliotos institucijos ar pareigūnai motyvuotai
 
-motyvuotai reikalauja atleisti jį iš tarnybos arba motyvuotai nerekomenduoja
+reikalauja atleisti jį iš tarnybos arba motyvuotai nerekomenduoja išduoti
 
-išduoti leidimo (siūlo panaikinti leidimą) statutiniam tarnautojui dirbti ar
+leidimo (siūlo panaikinti leidimą) statutiniam tarnautojui dirbti ar
 
 susipažinti su įslaptinta informacija, jeigu šia informacija reikia naudotis
 
@@ -1655,7 +1655,7 @@ tarnautojų darbo užmokestį nustato Valstybės tarnybos įstatymas ir šis
 
 statutas.
 
-3 dalies redakcija iki 2011-12-31:
+3 dalies redakcija iki 2012-12-31:
 
 3. Statutiniams
 
@@ -1681,7 +1681,7 @@ pareiginės algos dydžio priedas;
 
 dydžio priedas.
 
-3 dalies redakcija nuo 2012-01-01:
+3 dalies redakcija nuo 2013-01-01:
 
 3. Statutiniams
 
@@ -1720,6 +1720,14 @@ XI-368,
 Nr. XI-945,
 
 2010-06-30, Žin., 2010, Nr. 82-4299 (2010-07-13)
+
+Nr.
+
+XI-1718,
+
+2011-11-22, Žin., 2011, Nr. 150-7033
+
+(2011-12-08)
 
 33 straipsnis. Departamento rezervas
 
@@ -1765,9 +1773,9 @@ rezerve nepertraukiamai gali būti ne ilgiau kaip 4 metus. Esant tarnybiniam
 
 būtinumui, karių ir statutinių tarnautojų buvimo Departamento rezerve laikas
 
-gali būti pratęstas, tačiau bendras karių ir statutinių tarnautojų buvimo
+gali būti pratęstas, tačiau bendras karių ir statutinių tarnautojų buvimo Departamento
 
-Departamento rezerve laikas per visą jų tarnybą negali viršyti 8 metų.
+rezerve laikas per visą jų tarnybą negali viršyti 8 metų.
 
 6. Rezervo sudarymo, jo veiklos, karių ir statutinių
 
