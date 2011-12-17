@@ -4,7 +4,7 @@ identifier: "TAR.C81BD50A27C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-06"
-last_updated: "2011-12-15"
+last_updated: "2011-12-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6"
 department: "Lietuvos Respublikos Seimas"
@@ -1491,6 +1491,110 @@ nuostatus tvirtina atitinkamos įstaigos steigėjas arba visuotinis dalininkų
 
 susirinkimas.
 
+1
+
+dalies redakcija nuo 2012-07-01:
+
+1. LNSS
+
+valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų vadovai į darbą
+
+priimami viešo konkurso būdu. LNSS valstybės ir savivaldybių biudžetinių ir
+
+viešųjų įstaigų, išskyrus įstaigas, kuriose dirba dešimt ar mažiau sveikatos
+
+priežiūros specialistų, turinčių medicinos praktikos licenciją, vadovai į darbą
+
+priimami viešo konkurso būdu penkeriems metams. Viešą konkursą organizuoja ir
+
+jo nuostatus tvirtina atitinkamos įstaigos steigėjas arba visuotinis dalininkų
+
+susirinkimas.“
+
+***Pastaba. 1. Iki įstatymo Nr. XI-1770 įsigaliojimo
+
+(2011-12-17) į Lietuvos nacionalinės sveikatos sistemos valstybės ir savivaldybių
+
+biudžetinių ir viešųjų įstaigų vadovų pareigas
+
+tam tikram laikui (kadencijai) priimti asmenys
+
+toliau eina atitinkamos įstaigos vadovo
+
+pareigas iki kadencijos pabaigos.
+
+2. 1 dalyje nenurodyti Lietuvos
+
+nacionalinės sveikatos sistemos valstybės ir savivaldybių biudžetinių ir
+
+viešųjų įstaigų vadovai, kurie šio įstatymo įsigaliojimo dieną tos įstaigos
+
+vadovų pareigas ėjo penkerius ar mažiau metų, toliau eina atitinkamos įstaigos
+
+vadovo pareigas penkerius metus nuo šio įstatymo įsigaliojimo dienos.
+
+3. 1 dalyje nenurodyti Lietuvos
+
+nacionalinės sveikatos sistemos valstybės ir savivaldybių biudžetinių ir
+
+viešųjų įstaigų vadovai, kurie šio įstatymo įsigaliojimo dieną tos įstaigos
+
+vadovų pareigas ėjo daugiau kaip penkerius metus, bet mažiau kaip dešimt metų,
+
+toliau eina atitinkamos įstaigos vadovo pareigas, kol sueis dešimt metų nuo
+
+darbo tos įstaigos vadovu pradžios. Išimtį sudaro atvejai,
+
+kai dešimt metų sueina per vienus metus nuo šio įstatymo įsigaliojimo dienos;
+
+tokie Lietuvos nacionalinės sveikatos sistemos
+
+valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų vadovai toliau
+
+eina įstaigos vadovo pareigas vienus metus nuo šio įstatymo įsigaliojimo
+
+dienos.
+
+4. 1 dalyje nenurodyti Lietuvos
+
+nacionalinės sveikatos sistemos valstybės ir savivaldybių biudžetinių ir
+
+viešųjų įstaigų vadovai, kurie šio įstatymo įsigaliojimo dieną tos įstaigos
+
+vadovų pareigas ėjo dešimt ar daugiau metų, toliau eina atitinkamos įstaigos
+
+vadovo pareigas vienus metus nuo šio įstatymo įsigaliojimo dienos.
+
+5. Kai pasibaigia 1, 2, 3 ar 4
+
+dalyse nustatytas terminas, Lietuvos nacionalinės sveikatos sistemos valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų
+
+vadovas atleidžiamas iš darbo. Įstaigos steigėjas arba visuotinis
+
+dalininkų susirinkimas likus trims mėnesiams iki vadovo atleidimo dienos
+
+organizuoja viešąjį konkursą vadovo pareigoms eiti.
+
+6. Tais atvejais, kai vyko Lietuvos nacionalinės sveikatos sistemos valstybės ir
+
+savivaldybių biudžetinių ir viešųjų įstaigų reorganizavimas ar pasikeitė
+
+įstaigos dalininkas ar savininkas arba jo teises įgyvendinantis subjektas, tai
+
+skaičiuojant Lietuvos nacionalinės sveikatos sistemos valstybės ir savivaldybių
+
+biudžetinių ir viešųjų įstaigų
+
+vadovų, dirbančių po nurodytų aplinkybių, darbo stažą 2, 3 ar 4 dalyse
+
+nustatytais atvejais įskaičiuojamas ir darbo vienos iš reorganizuotų įstaigų
+
+vadovu stažas iki reorganizavimo ar darbo įstaigos vadovu stažas iki įstaigos
+
+dalininko ar savininko arba jo teises įgyvendinančio
+
+subjekto pasikeitimo. ***
+
 2. Valstybės ir
 
 savivaldybių biudžetinių ir viešųjų įstaigų padalinių ir filialų vadovai į
@@ -1503,17 +1607,17 @@ organizuoja ir jo nuostatus tvirtina atitinkamos įstaigos vadovas. Įstaigos
 
 vadovas turi teisę organizuoti padalinių ir filialų vadovų atestaciją.
 
-3. LNSS biudžetinių
+3. LNSS
 
-ir viešųjų įstaigų, jų padalinių ir filialų vadovais gali būti asmenys, kurie
+biudžetinių ir viešųjų įstaigų, jų padalinių ir filialų vadovais gali būti
 
-atitinka Sveikatos apsaugos ministerijos patvirtintus kvalifikacinius
+asmenys, kurie atitinka Sveikatos apsaugos ministerijos patvirtintus
 
-reikalavimus. LNSS biudžetinių ir viešųjų įstaigų vadovai privalo periodiškai
+kvalifikacinius reikalavimus. LNSS biudžetinių ir viešųjų įstaigų vadovai
 
-tobulinti vadovavimo įstaigai gebėjimus. Privalomo tobulinimosi tvarka
+privalo periodiškai tobulinti vadovavimo įstaigai gebėjimus. Privalomo
 
-nustatoma sveikatos apsaugos ministro įsakymu.
+tobulinimosi tvarka nustatoma sveikatos apsaugos ministro įsakymu.
 
 4. Valstybės ir
 
@@ -1559,11 +1663,13 @@ X-1204,
 
 2007-06-26, Žin., 2007, Nr. 72-2834 (2007-06-30)
 
+Nr. XI-1770,
+
+2011-12-01, Žin., 2011, Nr. 154-7261 (2011-12-17)
+
 Įstatymas
 
-papildomas 151 straipsniu nuo 2012
-
-m. sausio 1 d.:
+papildomas 151 straipsniu nuo 2012-01-01:
 
 16 straipsnis.
 
@@ -1781,11 +1887,11 @@ Nr. XI-767,
 
 21 straipsnis. Lietuvos Respublikos teisės aktai,
 
-nustatantys biudžetinių įstaigų steigimą,
+nustatantys biudžetinių įstaigų
 
-veiklą,
+steigimą,
 
-reorganizavimą ir likvidavimą
+veiklą, reorganizavimą ir likvidavimą
 
 Biudžetinių
 
@@ -1911,9 +2017,9 @@ yra Sveikatos apsaugos ministerija:
 
 visuomenės sveikatos priežiūros tarnyba ir jai pavaldžios teritorinės įstaigos;
 
-24
+1
 
-straipsnio 1 dalies 1 punkto redakcija nuo 2012-07-01
+dalies 1 punkto redakcija nuo 2012-07-01:
 
 1) visuomenės
 
@@ -1947,11 +2053,11 @@ mokymo ir ligų prevencijos centras;
 
 institutas;
 
-9) kitos
+9) kitos visuomenės
 
-visuomenės sveikatos priežiūros įstaigos, įsteigtos kitų įstatymų ir teisės
+sveikatos priežiūros įstaigos, įsteigtos kitų įstatymų ir teisės aktų nustatyta
 
-aktų nustatyta tvarka.
+tvarka.
 
 3. LNSS
 
@@ -2131,9 +2237,9 @@ Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
 
 narių ir revizoriaus atlyginimus;
 
-9) steigti LNSS viešosios įstaigos
+9) steigti LNSS viešosios
 
-filialus, reorganizuoti ir likviduoti LNSS viešąją įstaigą;
+įstaigos filialus, reorganizuoti ir likviduoti LNSS viešąją įstaigą;
 
 10) turėti kitokių teisių ir
 
@@ -2213,7 +2319,9 @@ terminai;
 
 17) kitos su įstaigos
 
-veiklos ypatumais (specifika) susijusios nuostatos, neprieštaraujančios įstatymams.
+veiklos ypatumais (specifika) susijusios nuostatos, neprieštaraujančios
+
+įstatymams.
 
 3. Iniciatyvos teisę keisti
 
@@ -2655,15 +2763,13 @@ taryba savo pasiūlymą gali pateikti steigėjui (steigėjams).
 
 5. Gydymo ar slaugos tarybai
 
-pirmininkauja įstaigos administracijos vadovas arba jo įgaliotas
+pirmininkauja įstaigos administracijos vadovas arba jo įgaliotas administracijos
 
-administracijos darbuotojas. Gydymo tarybos, slaugos tarybos sudarymą, šių
+darbuotojas. Gydymo tarybos, slaugos tarybos sudarymą, šių tarybų teises ir
 
-tarybų teises ir pareigas, darbo tvarką, narių teises, pareigas, jų paskyrimo
+pareigas, darbo tvarką, narių teises, pareigas, jų paskyrimo ir atšaukimo,
 
-ir atšaukimo, darbo apmokėjimo sąlygas bei atsakomybę nustato viešųjų įstaigų
-
-įstatai.
+darbo apmokėjimo sąlygas bei atsakomybę nustato viešųjų įstaigų įstatai.
 
 35
 
@@ -3021,9 +3127,9 @@ atšaukimo, darbo apmokėjimo sąlygas ir atsakomybę nustato įstatymai ir įst
 
 valstybės asmens sveikatos priežiūros viešųjų įstaigų nomenklatūra
 
-1. LNSS
+1. LNSS savivaldybių
 
-savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūra:
+asmens sveikatos priežiūros viešųjų įstaigų nomenklatūra:
 
 1) pirminės
 
@@ -3129,29 +3235,13 @@ nelegalių imigrantų asmens ir visuomenės sveikatos priežiūra;
 
 4) finansuojamos Sveikatos
 
-apsaugos ministerijos kartu su Vidaus reikalų ministerija ar Krašto apsaugos
+apsaugos ministerijos kartu su Vidaus reikalų ministerija ar Krašto apsaugos ministerija
 
-ministerija nustatytos visuomenės sveikatos priežiūros priemonės Krašto
+nustatytos visuomenės sveikatos priežiūros priemonės Krašto apsaugos
 
-apsaugos ministerijai ir Vidaus reikalų ministerijai pavaldžiuose daliniuose ir
+ministerijai ir Vidaus reikalų ministerijai pavaldžiuose daliniuose ir
 
 įstaigose;
-
-5) finansuojamos visuomenės
-
-sveikatos priežiūros priemonės, skirtos užkirsti kelią pavojingoms ir ypač
-
-pavojingoms užkrečiamosioms ligoms atsirasti ir paplisti, užkrečiamųjų ligų
-
-protrūkiams ir epidemijoms likviduoti, taip pat užkirsti kelią radiacinių
-
-avarijų ir ekologinių nelaimių medicininėms pasekmėms atsirasti ir priemonės
-
-joms likviduoti;
-
-5
-
-punkto redakcija nuo 2011 m. spalio 1d.:
 
 5) finansuojamos
 
@@ -4509,13 +4599,13 @@ specialistų kvalifikacijos kėlimo LNSS įstaigose finansavimo tvarka
 
 1. LNSS įstaigų,
 
-kuriose vyksta studentų ir rezidentų studijos ir kuriose rezidentai dirba
+kuriose vyksta studentų ir rezidentų studijos ir kuriose rezidentai dirba gydytojais
 
-gydytojais rezidentais, išlaidos, susijusios su studentų ir gydytojų rezidentų
+rezidentais, išlaidos, susijusios su studentų ir gydytojų rezidentų studijomis
 
-studijomis ir darbo užmokesčiu, kompensuojamos Vyriausybės ar jos įgaliotos
+ir darbo užmokesčiu, kompensuojamos Vyriausybės ar jos įgaliotos institucijos
 
-institucijos nustatyta tvarka.
+nustatyta tvarka.
 
 2. LNSS įstaigos
 
@@ -4527,9 +4617,9 @@ užtikrinti Sveikatos apsaugos ministerijos nustatyta tvarka.
 
 3. LNSS įstaigų
 
-sveikatos priežiūros specialistų profesinio tobulinimosi išlaidos apmokamos
+sveikatos priežiūros specialistų profesinio tobulinimosi išlaidos apmokamos Sveikatos
 
-Sveikatos apsaugos ministerijos nustatyta tvarka.
+apsaugos ministerijos nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
@@ -4573,9 +4663,7 @@ patvirtintą sąrašą;
 
 3) teikti tik tas asmens
 
-sveikatos priežiūros paslaugas, kurios nurodytos įstaigai išduotoje
-
-licencijoje;
+sveikatos priežiūros paslaugas, kurios nurodytos įstaigai išduotoje licencijoje;
 
 4) naudoti tik tas sveikatos
 
@@ -4615,9 +4703,9 @@ skelbti informaciją apie jo sveikatos būklę;
 
 nustatyta tvarka Sveikatos apsaugos ministeriją, įstaigų steigėjus ar
 
-savininkus apie įstaigoje įvykusius vidaus infekcijų atvejus ir protrūkius,
+savininkus apie įstaigoje įvykusius vidaus infekcijų atvejus ir protrūkius, kitus
 
-kitus žalos pacientų sveikatai padarymo atvejus;
+žalos pacientų sveikatai padarymo atvejus;
 
 10) teikti nemokamas
 
@@ -4967,17 +5055,17 @@ socialinės globos ir rūpybos  įstaigų valstybinę visuomenės sveikatos sau
 
 kontrolę.
 
-52
+1
 
-straipsnio 1 dalies 5 punkto redakcija nuo 2012-07-01
+dalies 5 punkto redakcija nuo 2012-07-01:
 
 5) visuomenės
 
-sveikatos centrai apskrityse – paslaugų, teikiamų visuomenės sveikatos
+sveikatos centrai apskrityse – paslaugų, teikiamų visuomenės sveikatos priežiūros
 
-priežiūros įstaigose, prieinamumo, tinkamumo ir efektyvumo valstybinę kontrolę,
+įstaigose, prieinamumo, tinkamumo ir efektyvumo valstybinę kontrolę, sveikatos
 
-sveikatos priežiūros, švietimo, socialinės globos ir rūpybos įstaigų valstybinę
+priežiūros, švietimo, socialinės globos ir rūpybos įstaigų valstybinę
 
 visuomenės sveikatos saugos kontrolę.
 
@@ -6309,17 +6397,17 @@ jos padalinio patalpos, jų eksploatavimas, sveikatos priežiūros technologijos
 
 neatitinka teisės aktų ar normatyvinių dokumentų reikalavimų.
 
-54
+1
 
-straipsnio 1 dalies redakcija nuo 2012-07-01
+dalies redakcija nuo 2012-07-01:
 
 1. Akreditavimo
 
 tarnyba, Valstybinė medicininio audito inspekcija, visuomenės sveikatos centrai
 
-apskrityse pagal kompetenciją priimtais sprendimais turi teisę sustabdyti įstaigoje
+apskrityse pagal kompetenciją priimtais sprendimais turi teisę sustabdyti
 
-visų ar tam tikrų paslaugų teikimą, jeigu:
+įstaigoje visų ar tam tikrų paslaugų teikimą, jeigu:
 
 1) įstaiga arba
 
@@ -6339,9 +6427,11 @@ fiziniams asmenims;
 
 3) įstaiga nėra
 
-įregistruota Įstaigų registre arba įregistruota pažeidžiant šio įstatymo reikalavimus
+įregistruota Įstaigų registre arba įregistruota pažeidžiant šio įstatymo
 
-ir daugiau kaip tris mėnesius nevykdo Įstaigų registro tvarkytojo reikalavimų;
+reikalavimus ir daugiau kaip tris mėnesius nevykdo Įstaigų registro tvarkytojo
+
+reikalavimų;
 
 4) įstaigoje
 
@@ -6401,9 +6491,9 @@ Nr. VIII-1800, 2000.07.04, Žin., 2000,
 
 Nr.61-1811 (2000.07.26)
 
-Nr. XI-1758,
+Nr. XI-1758, 2011-12-01,
 
-2011-12-01, Žin., 2011, Nr. 153-7195 (2011-12-15)
+Žin., 2011, Nr. 153-7195 (2011-12-15)
 
 54 straipsnis. Asmens sveikatos priežiūros
 
@@ -6497,13 +6587,13 @@ tvarka
 
 valdymo organai nušalinami ir laikinasis administratorius skiriamas, jeigu:
 
-1) įstaiga nepašalina
+1) įstaiga nepašalina nustatytų
 
-nustatytų pažeidimų ar trūkumų ir dėl to iškyla grėsmė, kad jos teikiamos
+pažeidimų ar trūkumų ir dėl to iškyla grėsmė, kad jos teikiamos paslaugos bus
 
-paslaugos bus netinkamos bei kenks pacientų sveikatai, tačiau dar yra reali
+netinkamos bei kenks pacientų sveikatai, tačiau dar yra reali galimybė
 
-galimybė pataisyti padėtį;
+pataisyti padėtį;
 
 2) įstaigoje tais pačiais
 
@@ -6581,13 +6671,13 @@ ministrą, Akreditavimo tarnybą ir įstaigos steigėją ar savininką jų nusta
 
 terminais ir tvarka.
 
-7. Laikinasis administratorius
+7. Laikinasis
 
-privalo paskirti įstaigos reviziją ir atlikti higienos, epidemiologinę, darbų
+administratorius privalo paskirti įstaigos reviziją ir atlikti higienos,
 
-saugos ir medicininio audito ekspertizę. Ekspertizės turi būti atliktos per 3
+epidemiologinę, darbų saugos ir medicininio audito ekspertizę. Ekspertizės turi
 
-mėnesius nuo laikinojo administratoriaus paskyrimo dienos.
+būti atliktos per 3 mėnesius nuo laikinojo administratoriaus paskyrimo dienos.
 
 8. Revizijos metu nustačius
 
@@ -6883,9 +6973,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1931, 2003-12-18,
+Nr. IX-1931,
 
-Žin., 2004, Nr. 4-37 (2004-01-07)
+2003-12-18, Žin., 2004, Nr. 4-37 (2004-01-07)
 
 SVEIKATOS
 
@@ -6965,11 +7055,11 @@ Nr. XI-767,
 
 2010-04-20, Žin., 2010, Nr. 51-2477 (2010-05-04)
 
-SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO
+SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ
 
-13, 20, 23, 24, 27, 39, 41 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR 40 STRAIPSNIO
+ĮSTATYMO 13, 20, 23, 24, 27, 39, 41 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR 40
 
-PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 
 Šis
 
@@ -7055,9 +7145,9 @@ PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XI-1758,
+Nr. XI-1758, 2011-12-01,
 
-2011-12-01, Žin., 2011, Nr. 153-7195 (2011-12-15)
+Žin., 2011, Nr. 153-7195 (2011-12-15)
 
 SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 24, 52 IR 54
 
@@ -7067,11 +7157,27 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 įsigalioja 2012 m. liepos 1 d.
 
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1770,
+
+2011-12-01, Žin., 2011, Nr. 154-7261 (2011-12-17)
+
+SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 15 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2012 m. liepos 1 d.
+
 *** Pabaiga ***
 
-Redagavo Aušra Bodin (2011-12-16)
+Redagavo Aušrinė Trapinskienė (2011-12-19)
 
-aubodi@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 56 straipsnis. Visuomenės sveikatos
 
@@ -8191,15 +8297,13 @@ rezultatai yra neigiami.
 
 7. LNSS viešųjų
 
-įstaigų vadovaujančiajam darbuotojui už gerus darbo rezultatus ir gerą darbo
+įstaigų vadovaujančiajam darbuotojui už gerus darbo rezultatus ir gerą darbo pareigų
 
-pareigų atlikimą paskutinį kalendorinių metų mėnesį iš sutaupytų viešosios
+atlikimą paskutinį kalendorinių metų mėnesį iš sutaupytų viešosios įstaigos
 
-įstaigos lėšų, skirtų darbo užmokesčiui, gali būti išmokama premija, kuri
+lėšų, skirtų darbo užmokesčiui, gali būti išmokama premija, kuri negali būti
 
-negali būti didesnė už tą mėnesį mokamos mėnesinės algos pastoviosios dalies
-
-dydį.
+didesnė už tą mėnesį mokamos mėnesinės algos pastoviosios dalies dydį.
 
 8. LNSS viešųjų
 
