@@ -4,7 +4,7 @@ identifier: "TAR.38E82AA2664C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "2007-07-21"
+last_updated: "2011-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.38E82AA2664C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymas
 
-Suvestinė redakcija nuo 2007-07-21 iki 2011-12-21
+Suvestinė redakcija nuo 2011-12-22 iki 2012-01-09
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2261, i. k. 0961010ISTA00I-1539
 
@@ -554,6 +554,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1239, 2007-06-28, Žin., 2007, Nr. 81-3314 (2007-07-21), i. k. 1071010ISTA00X-1239
 
 Lietuvos Respublikos nekilnojamojo turto registro įstatymo 5 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+2011-06-09, Žin., 2011, Nr. 156-7405 (2011-12-22), i. k. 1111000NUTARG117405
+
+Dėl Lietuvos Respublikos nekilnojamojo turto registro įstatymo (2001 m. birželio 21 d. redakcija) 42 straipsnio atitikties Lietuvos Respublikos Konstitucijai ir Lietuvos Respublikos Vyriausybės 2002 m. liepos 12 d. nutarimu Nr. 1129 "Dėl Nekilnojamojo turto registro nuostatų patvirtinimo" patvirtintų Nekilnojamojo turto registro nuostatų 88 punkto (2007 m. vasario 27 d. redakcija), 97 punkto (2007 m. vasario 27 d., 2008 m. spalio 22 d., 2010 m. kovo 3 d., 2011 m. gegužės 4 d. redakcijos) atitikties Lietuvos Respublikos Konstitucijai
 
 47 straipsnis. Nekilnojamojo turto registro integravimas į Lietuvos Respublikos kadastrų ir registrų informacinę infrastruktūrą
 
