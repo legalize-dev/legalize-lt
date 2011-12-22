@@ -4,7 +4,7 @@ identifier: "TAR.585F264186E1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-23"
-last_updated: "2011-12-08"
+last_updated: "2011-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.585F264186E1"
 department: "Lietuvos Respublikos Seimas"
@@ -1258,11 +1258,9 @@ Seimo, Seimo Pirmininko, Respublikos
 
 Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
 
-tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vertybinių
+tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vyriausiosios
 
-popierių komisijos, Vyriausiosios rinkimų komisijos ir Vyriausiosios
-
-tarnybinės etikos komisijos:
+rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
 
 7.1.
 
@@ -1348,27 +1346,9 @@ nariai
 
 11.
 
-Lietuvos Respublikos draudimo
+(neteko galios nuo 2011 m. gruodžio 22
 
-priežiūros komisijos:
-
-11.1.
-
-pirmininkas
-
-12
-
-11.2.
-
-pavaduotojai
-
-11
-
-11.3.
-
-nariai
-
-9,5
+d.)
 
 12.
 
@@ -1401,6 +1381,10 @@ Nr. XI-866,
 Nr. XI-1582,
 
 2011-09-15, Žin., 2011, Nr. 119-5615 (2011-10-01)
+
+Nr. XI-1789,
+
+2011-12-09, Žin., 2011, Nr. 156-7386 (2011-12-22)
 
 3 straipsnis. Įstatymo galiojimas
 
