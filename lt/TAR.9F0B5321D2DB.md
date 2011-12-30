@@ -4,7 +4,7 @@ identifier: "TAR.9F0B5321D2DB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-10-16"
-last_updated: "2010-12-18"
+last_updated: "2011-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F0B5321D2DB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymas
 
-Suvestinė redakcija nuo 2010-12-18 iki 2011-12-29
+Suvestinė redakcija nuo 2011-12-30 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 101-4543, i. k. 1031010ISTA0IX-1789
 
@@ -112,11 +112,13 @@ Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010IS
 
 9 straipsnis. Valstybinė signataro našlių ir našlaičių renta
 
-1. Valstybinę signataro našlių ir našlaičių rentą turi teisę gauti mirusio signataro (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) sutuoktinis, vaikai bei įvaikiai iki 18 metų, vyresni kaip 18 metų, jeigu jie tapo neįgaliaisiais (iki 2005 m. liepos 1 d. - invalidais) iki 18 metų ir visą laiką nuo 18 metų sukakties yra nedarbingi ar iš dalies darbingi (iki 2005 m. liepos 1 d. - invalidai), taip pat vidurinių bei nustatyta tvarka įregistruotų aukštųjų, aukštesniųjų ir profesinių mokyklų dieninių skyrių studentai ir moksleiviai iki šių mokyklų baigimo, bet ne ilgiau, negu jiems sukaks 24 metai.
+1. Valstybinę signataro našlių ir našlaičių rentą turi teisę gauti mirusio signataro (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) sutuoktinis, vaikai ir įvaikiai iki 18 metų, vyresni kaip 18 metų, jeigu jie tapo neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų ir visą laiką nuo 18 metų sukakties yra nedarbingi ar iš dalies darbingi (iki 2005 m. liepos 1 d. – invalidai), taip pat nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokiniai ir dieninių ar nuolatinių studijų programų studentai iki mokymosi arba studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, kurie turi teisę gauti valstybinę signataro našlaičių rentą iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), bet ne ilgiau, iki jiems sukaks 24 metai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
+
+Nr. XI-1647, 2011-11-10, Žin., 2011, Nr. 144-6756 (2011-11-29), i. k. 1111010ISTA0XI-1647
 
 2. Valstybinę signataro našlių ir našlaičių rentą turi teisę tomis pačiomis sąlygomis gauti ir šio Įstatymo 6 straipsnio 2 dalyje nurodytų Lietuvos Respublikos Aukščiausiosios Tarybos-Atkuriamojo Seimo deputatų našlės ir našlaičiai.
 
@@ -513,4 +515,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1197, 2010-12-02, Žin., 2010, Nr. 148-7565 (2010-12-18), i. k. 1101010ISTA0XI-1197
 
 Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų statuso įstatymo pavadinimo, 1, 2 straipsnių ir priedėlio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1647, 2011-11-10, Žin., 2011, Nr. 144-6756 (2011-11-29), i. k. 1111010ISTA0XI-1647
+
+Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo 9 straipsnio pakeitimo įstatymas
 
