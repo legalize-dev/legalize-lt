@@ -4,7 +4,7 @@ identifier: "TAR.2CE6CFE9E2EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-29"
-last_updated: "2010-01-01"
+last_updated: "2011-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2011-12-29
+Suvestinė redakcija nuo 2011-12-30 iki 2011-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
 
@@ -160,9 +160,17 @@ TREČIASIS SKIRSNIS
 
 1) nesukakę 18 metų;
 
-2) sukakę 18 metų ir mokosi nustatyta tvarka įregistruotų aukštųjų, aukštesniųjų, profesinių bei bendrojo lavinimo mokyklų dieniniuose skyriuose, tačiau ne vyresni negu 24 metų;
+2) sukakę 18 metų nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokiniai ir dieninių ar nuolatinių studijų programų studentai, – iki mokymosi ar studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, turinčius teisę gauti šalpos našlaičių pensiją iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), tačiau ne vyresni negu 24 metų;
 
-3) sukakę 18 metų ir yra pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki dienos (įskaitytinai), kurią jiems sukako 18 metų, jeigu jie visą laiką nuo 18 metų sukakties yra nedarbingi ar iš dalies darbingi (invalidai).
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1648, 2011-11-10, Žin., 2011, Nr. 144-6757 (2011-11-29), i. k. 1111010ISTA0XI-1648
+
+3) sukakę 18 metų ir yra pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki dienos (įskaitytinai), kurią jiems sukako 18 metų, jeigu jie visą laiką nuo 18 metų sukakties yra nedarbingi ar iš dalies darbingi (invalidai), taip pat iki 2005 m. liepos 1 d. pripažinti invalidais nuo vaikystės po 18 metų sukakties dienos, tačiau ne vėliau kaip iki dienos, kurią jiems sukako 24 metai, jeigu jie nuo jų pripažinimo invalidais dienos nuolat yra nedarbingi ar iš dalies darbingi (invalidai).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1648, 2011-11-10, Žin., 2011, Nr. 144-6757 (2011-11-29), i. k. 1111010ISTA0XI-1648
 
 2. Našlaičiams, netekusiems abiejų tėvų (įtėvių), šalpos našlaičių pensijos skiriamos už kiekvieną iš mirusių tėvų (įtėvių). Mirusiojo vaikams (įvaikiams), turintiems teisę gauti šalpos našlaičių pensiją, ši teisė išlieka ir juos įvaikinus.
 
@@ -370,21 +378,21 @@ Nr. X-1394, 2007-12-20, Žin., 2007, Nr. 138-5649 (2007-12-29), i. k. 1071010IST
 
 22 straipsnis. Šalpos išmokų skyrimo ir mokėjimo ypatumai
 
-1. Asmenims iki 18 metų, kurie teisę į šalpos pensiją ar (ir) šalpos našlaičių pensiją įgijo gyvendami ar slaugomi iš valstybės ar (ir) savivaldybės biudžeto visiškai finansuojamose stacionariose globos, auklėjimo ar slaugos įstaigose, šios pensijos neskiriamos ir nemokamos, išskyrus šio straipsnio 3 dalyje numatytus atvejus.
+1. Asmenims iki 18 metų, kurie teisę į šalpos pensiją ar (ir) šalpos našlaičių pensiją įgijo gyvendami ar slaugomi stacionariose globos, auklėjimo ar slaugos įstaigose, šios pensijos neskiriamos ir nemokamos, išskyrus šio straipsnio 3 dalyje numatytus atvejus.
 
-2. Asmenims iki 18 metų, kuriems buvo paskirtos šalpos pensijos ar (ir) šalpos našlaičių pensijos ir kurie po to apgyvendinami ar pradedami slaugyti iš valstybės ar (ir) savivaldybės biudžeto visiškai finansuojamose stacionariose globos, auklėjimo ar slaugos įstaigose, šios pensijos nemokamos nuo dienos, einančios po tos dienos, kurią jie apgyvendinti ar pradėti slaugyti šiose įstaigose.
+2. Asmenims iki 18 metų, kuriems buvo paskirtos šalpos pensijos ar (ir) šalpos našlaičių pensijos ir kurie po to apgyvendinami ar pradedami slaugyti stacionariose globos, auklėjimo ar slaugos įstaigose, šios pensijos nemokamos nuo dienos, einančios po tos dienos, kurią jie apgyvendinti ar pradėti slaugyti šiose įstaigose.
 
-3. Kai šio straipsnio 1 ir 2 dalyse nurodyti asmenys laikinai ar visam laikui išvyksta (paimami) iš stacionarių globos, auklėjimo ar slaugos įstaigų, kurios visiškai finansuojamos iš valstybės ar (ir) savivaldybės biudžeto, šalpos pensijos ar (ir) šalpos našlaičių pensijos jų pačių ar vieno iš jų tėvų (įtėvių), globėjų ar rūpintojų prašymu skiriamos, o paskirtos pradedamos mokėti nuo dienos, einančios po tos dienos, kurią jie išvyko (buvo paimti) iš šių įstaigų. Jei šie asmenys vėl grįžta į nurodytas įstaigas, šalpos pensijos ar (ir) šalpos našlaičių pensijos nemokamos nuo dienos, einančios po tos dienos, kurią jie vėl apgyvendinti ar pradėti slaugyti šiose įstaigose.
+3. Kai šio straipsnio 1 ir 2 dalyse nurodyti asmenys laikinai ar visam laikui išvyksta (paimami) iš stacionarių globos, auklėjimo ar slaugos įstaigų, šalpos pensijos ar (ir) šalpos našlaičių pensijos jų pačių ar vieno iš jų tėvų (įtėvių), globėjų ar rūpintojų prašymu skiriamos, o paskirtos pradedamos mokėti nuo dienos, einančios po tos dienos, kurią jie išvyko (buvo paimti) iš šių įstaigų. Jeigu šie asmenys vėl grįžta į nurodytas įstaigas, šalpos pensijos ar (ir) šalpos našlaičių pensijos nemokamos nuo dienos, einančios po tos dienos, kurią jie vėl apgyvendinti ar pradėti slaugyti šiose įstaigose.
 
-4. Slaugos ar priežiūros (pagalbos) išlaidų tikslinės kompensacijos neįgaliesiems, gyvenantiems ar slaugomiems (prižiūrimiems) iš valstybės ar (ir) savivaldybės biudžeto visiškai finansuojamose stacionariose globos, auklėjimo ar slaugos įstaigose, neskiriamos ir nemokamos. Kai šie neįgalieji laikinai ar visam laikui išvyksta (paimami) iš šių įstaigų, slaugos ar priežiūros (pagalbos) išlaidų tikslinės kompensacijos neįgalaus asmens arba vieno iš jo tėvų (įtėvių), globėjo ar rūpintojo prašymu skiriamos, o paskirtos pradedamos mokėti nuo dienos, einančios po tos dienos, kurią jie išvyko (buvo paimti) iš stacionarių globos, auklėjimo ar slaugos įstaigų. Jei šie neįgalieji vėl grįžta į nurodytas įstaigas, slaugos ar priežiūros (pagalbos) išlaidų tikslinės kompensacijos nemokamos nuo dienos, einančios po tos dienos, kurią jie vėl apgyvendinti ar pradėti slaugyti šiose įstaigose.
+4. Slaugos ar priežiūros (pagalbos) išlaidų tikslinės kompensacijos neįgaliesiems, gyvenantiems ar slaugomiems (prižiūrimiems) stacionariose globos, auklėjimo ar slaugos įstaigose, neskiriamos ir nemokamos. Kai šie neįgalieji laikinai ar visam laikui išvyksta (paimami) iš šių įstaigų, slaugos ar priežiūros (pagalbos) išlaidų tikslinės kompensacijos neįgalaus asmens arba vieno iš jo tėvų (įtėvių), globėjo ar rūpintojo prašymu skiriamos, o paskirtos pradedamos mokėti nuo dienos, einančios po tos dienos, kurią jie išvyko (buvo paimti) iš stacionarių globos, auklėjimo ar slaugos įstaigų. Jeigu šie neįgalieji vėl grįžta į nurodytas įstaigas, slaugos ar priežiūros (pagalbos) išlaidų tikslinės kompensacijos nemokamos nuo dienos, einančios po tos dienos, kurią jie vėl apgyvendinti ar pradėti slaugyti šiose įstaigose.
 
-5. Šalpos išmokos neskiriamos, o paskirtosios nemokamos asmenims kardomojo kalinimo (suėmimo) metu, taip pat asmenims, nuteistiems laisvės atėmimo bausmėmis, ir asmenims, kuriems Baudžiamojo kodekso nustatyta tvarka teismo nuosprendžiu paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės ar auklėjamojo poveikio priemonės. Šiems asmenims paskirtos šalpos išmokos nemokamos nuo mėnesio, einančio po to mėnesio, kurį jie buvo suimti, nuteisti, pasiųsti priverstinai gydyti ar auklėti, pirmos dienos. Kai pasibaigia kardomasis kalinimas (suėmimas), taip pat asmuo paleidžiamas iš įkalinimo vietos, iš priverstinio gydymo įstaigos, iš specialios auklėjimo įstaigos, paskirta šalpos išmoka, gavus reikiamą prašymą, vėl pradedama mokėti nuo dienos, einančios po paleidimo dienos, jeigu asmuo turi teisę gauti šalpos išmoką.
+5. Šalpos išmokos neskiriamos, o paskirtosios nemokamos asmenims kardomojo kalinimo (suėmimo) metu, taip pat asmenims, nuteistiems laisvės atėmimo bausmėmis, ir asmenims, kuriems Baudžiamojo proceso kodekso nustatyta tvarka paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės ar auklėjamojo poveikio priemonė – atidavimas į specialią auklėjimo įstaigą. Šiems asmenims paskirtos šalpos išmokos nemokamos nuo mėnesio, einančio po to mėnesio, kurį jie buvo suimti, nuteisti, pasiųsti priverstinai gydyti ar auklėti, pirmos dienos. Kai pasibaigia kardomasis kalinimas (suėmimas), taip pat kai asmuo paleidžiamas iš įkalinimo vietos, iš priverstinio gydymo įstaigos, iš specialios auklėjimo įstaigos, paskirta šalpos išmoka, gavus reikiamą prašymą, vėl pradedama mokėti nuo dienos, einančios po jo paleidimo dienos, jeigu asmuo turi teisę gauti šalpos išmoką.
 
 6. Asmens, kuriam buvo paskirta šalpos išmoka, mirties atveju jį laidojusiems fiziniams ar juridiniams asmenims (toliau šioje dalyje – laidoję asmenys) išmokama šalpos išmoka už tą mėnesį, kurį šalpos gavėjas mirė. Laidojusiems asmenims taip pat išmokama iki mirties dienos asmens negauta praėjusio mėnesio šalpos išmoka. Šalpos pensijų, šalpos našlaičių pensijų, šalpos kompensacijų ir socialinių pensijų gavėjų mirties atvejais juos laidojusiems asmenims dar išmokama mirusiajam asmeniui mirties mėnesį priklausiusio atitinkamos pensijos ar šalpos kompensacijos dydžio vieno mėnesio suma. Kai miręs asmuo laidojamas valstybės ar savivaldybės biudžeto lėšomis, šalpos pensijos, šalpos našlaičių pensijos, šalpos kompensacijos ir socialinės pensijos vieno mėnesio dydžio suma nemokama.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. XI-533, 2009-12-08, Žin., 2009, Nr. 151-6780 (2009-12-22), i. k. 1091010ISTA00XI-533
+Nr. XI-1648, 2011-11-10, Žin., 2011, Nr. 144-6757 (2011-11-29), i. k. 1111010ISTA0XI-1648
 
 23 straipsnis. Išskaitos iš šalpos išmokų
 
@@ -414,7 +422,11 @@ TEISIŲ, ĮGYTŲ IKI 2005 M. LIEPOS 1 D., IŠSAUGOJIMAS
 
 2. Vaikams invalidams ir I grupės invalidams iki 18 metų, kuriems iki 2005 m. liepos 1 d. buvo nustatyta visiška negalia, slaugos išlaidų tikslinės kompensacijos skiriamos ir mokamos netaikant reikalavimo nustatyti specialųjį nuolatinės slaugos poreikį. Šiems invalidams skiriamos ir mokamos slaugos išlaidų tikslinės kompensacijos yra 2,5 bazinių pensijų dydžio. Vaikams invalidams, kuriems sukanka 18 metų, slaugos išlaidų tikslinės kompensacijos mokamos, jeigu jie pripažįstami netekusiais 75–100 procentų darbingumo ir jiems nustatomas specialusis nuolatinės slaugos poreikis.
 
-3. Asmenims nuo 16 iki 18 metų, I, II ar III grupės invalidais pripažintiems iki 2004 m. balandžio 1 d. ir iki šios datos apgyvendintiems stacionariose globos, auklėjimo ar slaugos įstaigose, kurios visiškai finansuojamos iš valstybės ar (ir) savivaldybės biudžeto, šalpos pensijos už jų buvimo šiose įstaigose laiką mokamos Valstybinių šalpos išmokų skyrimo ir mokėjimo nuostatuose nustatyta tvarka.
+3. Asmenims nuo 16 iki 18 metų, I, II ar III grupės invalidais pripažintiems iki 2004 m. balandžio 1 d. ir iki šios datos apgyvendintiems stacionariose globos, auklėjimo ar slaugos įstaigose, šalpos pensijos už jų buvimo šiose įstaigose laiką mokamos Valstybinių šalpos išmokų skyrimo ir mokėjimo nuostatuose nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1648, 2011-11-10, Žin., 2011, Nr. 144-6757 (2011-11-29), i. k. 1111010ISTA0XI-1648
 
 25 straipsnis. Sukakusių 18 metų asmenų įgytų teisių išsaugojimas
 
@@ -452,7 +464,11 @@ TEISIŲ, ĮGYTŲ IKI 2005 M. LIEPOS 1 D., IŠSAUGOJIMAS
 
 3) namuose slaugomiems vaikams invalidams iki 16 metų sukanka 16 metų;
 
-4) namuose slaugomi invalidai toliau namuose neslaugomi, nes jie apgyvendinami ar slaugomi iš valstybės ar (ir) savivaldybės biudžeto visiškai finansuojamose stacionariose globos, auklėjimo ar slaugos įstaigose. Tokiais atvejais šalpos pensijos šių invalidų buvimo stacionariose globos, auklėjimo ar slaugos įstaigose laiku nemokamos, o jiems išvykus (juos paėmus) iš stacionarių įstaigų, vėl pradedamos mokėti šio įstatymo 22 straipsnio 2 ir 3 dalyse nustatyta tvarka.
+4) namuose slaugomi invalidai toliau namuose neslaugomi, nes jie apgyvendinami ar slaugomi stacionariose globos, auklėjimo ar slaugos įstaigose. Tokiais atvejais šalpos pensijos šių invalidų buvimo stacionariose globos, auklėjimo ar slaugos įstaigose laiku nemokamos, o jiems išvykus (juos paėmus) iš stacionarių įstaigų, vėl pradedamos mokėti šio įstatymo 22 straipsnio 2 ir 3 dalyse nustatyta tvarka.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1648, 2011-11-10, Žin., 2011, Nr. 144-6757 (2011-11-29), i. k. 1111010ISTA0XI-1648
 
 3. Jeigu nepasibaigus šalpos pensijos skyrimo ar mokėjimo terminui vienas iš tėvų (įtėvių), globėjas ar rūpintojas, kuriam buvo mokama šio straipsnio 1 dalyje nurodyta šalpos pensija, miršta arba jeigu teisės aktų nustatyta tvarka paskirtas globėju ar rūpintoju asmuo atleidžiamas ar nušalinamas nuo globėjo (rūpintojo) pareigų, šalpos pensija toliau mokama kitam likusiam iš tėvų (įtėvių), kitam globėjui ar rūpintojui.
 
@@ -579,4 +595,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-533, 2009-12-08, Žin., 2009, Nr. 151-6780 (2009-12-22), i. k. 1091010ISTA00XI-533
 
 Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 22 straipsnio pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1648, 2011-11-10, Žin., 2011, Nr. 144-6757 (2011-11-29), i. k. 1111010ISTA0XI-1648
+
+Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 8, 22, 24 ir 26 straipsnių pakeitimo įstatymas
 
