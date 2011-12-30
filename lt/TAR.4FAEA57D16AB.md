@@ -4,7 +4,7 @@ identifier: "TAR.4FAEA57D16AB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-12-12"
-last_updated: "2009-01-01"
+last_updated: "2011-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FAEA57D16AB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Prezidento valstybinės rentos įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2011-12-29
+Suvestinė redakcija nuo 2011-12-30 iki 2014-07-02
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 141-5405, i. k. 1061010ISTA000X-980
 
@@ -47,7 +47,11 @@ Vilnius
 
 1. Teisę gauti Respublikos Prezidento valstybinę našlių rentą turi mirusio Respublikos Prezidento sutuoktinis Lietuvos Respublikos pilietis (toliau – našlys (našlė).
 
-2. Teisę gauti Respublikos Prezidento valstybinę našlaičių rentą turi mirusio Respublikos Prezidento vaikai, įvaikiai Lietuvos Respublikos piliečiai (toliau – našlaičiai) iki 18 metų, vyresni kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų ir visą laiką nuo 18 metų sukakties yra nedarbingi ar iš dalies darbingi (iki 2005 m. liepos 1 d. – invalidai), taip pat nustatyta tvarka įregistruotų aukštųjų, profesinių ir bendrojo lavinimo mokyklų, dieninių skyrių studentai ir mokiniai – iki šių mokyklų baigimo, bet ne ilgiau, negu jiems sukaks 24 metai.
+2. Teisę gauti Respublikos Prezidento valstybinę našlaičių rentą turi mirusio Respublikos Prezidento vaikai, įvaikiai Lietuvos Respublikos piliečiai (toliau – našlaičiai) iki 18 metų, vyresni kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų ir visą laiką nuo 18 metų sukakties yra nedarbingi ar iš dalies darbingi (iki 2005 m. liepos 1 d. – invalidai), taip pat nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokiniai ir dieninių ar nuolatinių studijų programų studentai – iki mokymosi arba studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, kurie turi teisę gauti Respublikos Prezidento valstybinę našlaičių rentą iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), bet ne ilgiau, iki jiems sukaks 24 metai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1649, 2011-11-10, Žin., 2011, Nr. 144-6758 (2011-11-29), i. k. 1111010ISTA0XI-1649
 
 3. Našlaičius įvaikinus, jų teisė gauti Respublikos Prezidento valstybinę našlaičių rentą išlieka.
 
@@ -130,4 +134,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1799, 2008-11-11, Žin., 2008, Nr. 135-5235 (2008-11-25), i. k. 1081010ISTA00X-1799
 
 Lietuvos Respublikos Prezidento valstybinės rentos įstatymo 7 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1649, 2011-11-10, Žin., 2011, Nr. 144-6758 (2011-11-29), i. k. 1111010ISTA0XI-1649
+
+Lietuvos Respublikos Prezidento valstybinės rentos įstatymo 4 straipsnio pakeitimo įstatymas
 
