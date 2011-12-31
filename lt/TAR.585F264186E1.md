@@ -4,7 +4,7 @@ identifier: "TAR.585F264186E1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-23"
-last_updated: "2011-12-22"
+last_updated: "2011-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.585F264186E1"
 department: "Lietuvos Respublikos Seimas"
@@ -78,637 +78,15 @@ Nr. 135-5245;
 
 1
 
-straipsnis. Įstatymo priedėlio pakeitimas
+straipsnis. Neteko
 
-Pakeisti
+galios nuo 2011 m. gruodžio 31 d.
 
-Įstatymo priedėlį ir jį išdėstyti taip:
+Straipsnio pakeitimas:
 
-„Lietuvos
+Nr. XI-1839,
 
-Respublikos
-
-valstybės
-
-politikų ir valstybės
-
-pareigūnų
-
-darbo apmokėjimo
-
-įstatymo
-
-priedėlis
-
-I. VALSTYBĖS
-
-POLITIKŲ PAREIGINĖS ALGOS
-
-(Baziniais dydžiais)
-
-Eil. Nr.
-
-Pareigų
-
-pavadinimas
-
-Pareiginės
-
-algos koeficientas
-
-1.
-
-Seimo Pirmininkas
-
-22,7
-
-2.
-
-Seimo pareigūnai:
-
-2.1.
-
-Pirmininko pirmasis pavaduotojas
-
-20,42
-
-2.2.
-
-Pirmininko pavaduotojai, Seimo opozicijos
-
-lyderis
-
-19,71
-
-2.3.
-
-Komitetų pirmininkai
-
-19,1
-
-2.4.
-
-Komitetų pirmininkų pavaduotojai
-
-18,04
-
-2.5.
-
-Pakomitečių pirmininkai, nuolatinių
-
-komisijų pirmininkai
-
-17,78
-
-2.6.
-
-Nuolatinių komisijų pirmininkų
-
-pavaduotojai
-
-17,25
-
-2.7.
-
-Frakcijų
-
-vadovai, kai frakcijos dydis:
-
-Seniūnai
-
-Seniūnų
-
-pavaduotojai
-
-2.7.1.
-
-nuo 7 iki 10 narių
-
-17,6
-
-17,25
-
-2.7.2.
-
-nuo 11 iki 20 narių
-
-17,78
-
-17,51
-
-2.7.3.
-
-nuo 21 iki 30 narių
-
-18,22
-
-17,69
-
-2.7.4.
-
-nuo 31 iki 40 narių
-
-18,83
-
-18,22
-
-2.7.5.
-
-daugiau kaip 40 narių
-
-19,27
-
-18,66
-
-3.
-
-Seimo nariai
-
-17,07
-
-4.
-
-Vyriausybė:
-
-4.1.
-
-Ministras Pirmininkas
-
-22,7
-
-4.2.
-
-Ministrai
-
-20,94
-
-5.
-
-Savivaldybių merai ir
-
-merų pavaduotojai
-
-Savivaldybės
-
-teritorijoje gyvena
-
-per 100 tūkst.
-
-gyventojų
-
-iki 100 tūkst.
-
-gyventojų
-
-5.1.
-
-Merai
-
-12,2
-
-10,5
-
-5.2.
-
-Merų
-
-pavaduotojai
-
-10,5
-
-8,8
-
-III. Prokurorų pareiginės algos
-
-(Baziniais
-
-dydžiais)
-
-Eil. Nr.
-
-Pareigų
-
-pavadinimas
-
-Pareiginės
-
-algos koeficientas
-
-1.
-
-Generalinė prokuratūra
-
-1.1.
-
-Generalinis prokuroras
-
-14,7
-
-1.2.
-
-Generalinio prokuroro pavaduotojas
-
-13,38
-
-1.3.
-
-Departamento vyriausiasis prokuroras
-
-12,94
-
-1.4.
-
-Skyriaus vyriausiasis prokuroras
-
-12,76
-
-1.5.
-
-Departamento vyriausiojo prokuroro
-
-pavaduotojas
-
-12,58
-
-1.6.
-
-Skyriaus vyriausiojo prokuroro
-
-pavaduotojas
-
-12,4
-
-1.7.
-
-ONKT departamento prokuroras
-
-12,14
-
-1.8.
-
-Departamento prokuroras
-
-11,53
-
-1.9.
-
-Skyriaus prokuroras
-
-11,44
-
-1.10.
-
-Prokuroras
-
-11,35
-
-2.
-
-Apygardų prokuratūros
-
-2.1.
-
-Vyriausiasis prokuroras
-
-11,8
-
-2.2.
-
-Vyriausiojo prokuroro pavaduotojas
-
-10,8
-
-2.3.
-
-Skyriaus vyriausiasis prokuroras
-
-10,4
-
-2.4.
-
-Skyriaus vyriausiojo prokuroro
-
-pavaduotojas
-
-10,1
-
-2.5.
-
-ONKT prokuroras
-
-10,0
-
-2.6.
-
-Prokuroras
-
-9,5
-
-3.
-
-Vilniaus, Kauno ir Klaipėdos miestų
-
-apylinkių prokuratūros
-
-3.1.
-
-Vyriausiasis prokuroras
-
-9,8
-
-3.2.
-
-Vyriausiojo prokuroro pavaduotojas
-
-9,3
-
-3.3.
-
-Skyriaus vyriausiasis prokuroras
-
-8,5
-
-3.4.
-
-Skyriaus vyriausiojo prokuroro
-
-pavaduotojas
-
-8,4
-
-3.5.
-
-Prokuroras
-
-8,3
-
-4.
-
-Šiaulių ir Panevėžio miestų apylinkių
-
-prokuratūros
-
-4.1.
-
-Vyriausiasis prokuroras
-
-9,7
-
-4.2.
-
-Vyriausiojo prokuroro pavaduotojas
-
-9,2
-
-4.3.
-
-Skyriaus vyriausiasis prokuroras
-
-8,5
-
-4.4.
-
-Skyriaus vyriausiojo prokuroro
-
-pavaduotojas
-
-8,4
-
-4.5.
-
-Prokuroras
-
-8,3
-
-5.
-
-Kitų rajonų (miestų) apylinkių
-
-prokuratūros
-
-5.1.
-
-Vyriausiasis prokuroras
-
-9,3
-
-5.2.
-
-Vyriausiojo prokuroro pavaduotojas
-
-8,8
-
-5.3.
-
-Prokuroras
-
-8,0
-
-Pastaba. ONKT –
-
-Organizuotų nusikaltimų ir korupcijos tyrimas.
-
-IV.
-
-VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
-
-(Baziniais dydžiais)
-
-Eil. Nr.
-
-Pareigų
-
-pavadinimas
-
-Pareiginės
-
-algos koeficientas
-
-1.
-
-Valstybės kontrolė:
-
-1.1.
-
-valstybės kontrolierius
-
-13,64
-
-1.2.
-
-valstybės kontrolieriaus pavaduotojai
-
-12,14
-
-2.
-
-Seimo kontrolieriai:
-
-2.1.
-
-įstaigos vadovas
-
-13,64
-
-2.2.
-
-Seimo kontrolieriai
-
-12,76
-
-3.
-
-(neteko galios nuo 2009 m. vasario 1 d.)
-
-4.
-
-Lygių galimybių kontrolierius
-
-11,44
-
-5.
-
-Vaiko teisių apsaugos kontrolierius
-
-11,44
-
-6.
-
-Žurnalistų etikos inspektorius
-
-10,8
-
-7.
-
-Seimo, Seimo Pirmininko, Respublikos
-
-Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
-
-tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės
-
-lošimų priežiūros komisijos, Vertybinių popierių komisijos, Vyriausiosios
-
-rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
-
-7.1.
-
-pirmininkai
-
-10,8
-
-7.2.
-
-pavaduotojai
-
-9,99
-
-7.3.
-
-nariai
-
-8,93
-
-8.
-
-Seimo, Respublikos Prezidento, kitų
-
-pagal specialius įstatymus paskirtų valstybinių (nuolatinių) komisijų ir
-
-tarybų:
-
-8.1.
-
-pirmininkai
-
-8,5
-
-8.2.
-
-pavaduotojai
-
-7,3
-
-8.3.
-
-nariai
-
-7
-
-9.
-
-Kiti Seimo ar Respublikos Prezidento
-
-paskirti institucijų ir įstaigų:
-
-9.1.
-
-vadovai
-
-7,7
-
-9.2.
-
-pareigūnai
-
-7
-
-10.
-
-Mokestinių ginčų komisijos prie
-
-Lietuvos Respublikos Vyriausybės, Vyriausiosios administracinių ginčų
-
-komisijos:
-
-10.1.
-
-pirmininkas
-
-10,8
-
-10.2.
-
-Nariai
-
-8,93
-
-11.
-
-Lietuvos Respublikos draudimo
-
-priežiūros komisijos:
-
-11.1.
-
-Pirmininkas
-
-10,8
-
-11.2.
-
-Pavaduotojai
-
-9,99
-
-11.3.
-
-Nariai
-
-8,93
-
-12.
-
-Lietuvos
-
-gyventojų genocido ir rezistencijos tyrimo centro generalinis direktorius
-
-10,8
-
-Pastaba. Komisijų ir
-
-tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
-
-apskaičiuojamas proporcingai dirbtam laikui.“
+2011-12-21, Žin., 2011, Nr. 163-7749 (2011-12-31)
 
 2 straipsnis. Įstatymo priedėlio pakeitimas
 
@@ -928,87 +306,69 @@ algos koeficientas
 
 1.
 
-Generalinė
-
-prokuratūra
+Generalinė prokuratūra
 
 1.1.
 
-Generalinis
-
-prokuroras
+Generalinis prokuroras
 
 16,7
 
 1.2.
 
-Generalinio
-
-prokuroro pavaduotojas
+Generalinio prokuroro pavaduotojas
 
 15,2
 
 1.3.
 
-Departamento
-
-vyriausiasis prokuroras
+Departamento vyriausiasis prokuroras
 
 14,7
 
 1.4.
 
-Skyriaus
-
-vyriausiasis prokuroras
+Skyriaus vyriausiasis prokuroras
 
 14,5
 
 1.5.
 
-Departamento
+Departamento vyriausiojo prokuroro
 
-vyriausiojo prokuroro pavaduotojas
+pavaduotojas, departamento skyriaus vyriausiasis prokuroras
 
 14,3
 
 1.6.
 
-Skyriaus
+Skyriaus vyriausiojo prokuroro
 
-vyriausiojo prokuroro pavaduotojas
+pavaduotojas
 
 14,1
 
 1.7.
 
-ONKT
+Departamento skyriaus vyriausiojo
 
-departamento prokuroras
+prokuroro pavaduotojas
 
-13,8
+14,0
 
 1.8.
 
-Departamento
+ONKT prokuroras
 
-prokuroras
-
-13,1
+13,8
 
 1.9.
 
-Skyriaus
+Departamento prokuroras, departamento
 
-prokuroras
+skyriaus prokuroras, skyriaus prokuroras, prokuroras
 
-13,0
-
-1.10.
-
-Prokuroras
-
-12,9
+13,1
 
 2.
 
@@ -1016,173 +376,83 @@ Apygardų prokuratūros
 
 2.1.
 
-Vyriausiasis
+Vyriausiasis prokuroras
 
-prokuroras
-
-11,8
+14,7
 
 2.2.
 
-Vyriausiojo
+Vyriausiojo prokuroro pavaduotojas
 
-prokuroro pavaduotojas
-
-10,8
+14,3
 
 2.3.
 
-Skyriaus
+Specializuoto skyriaus vyriausiasis
 
-vyriausiasis prokuroras
+prokuroras
 
 10,4
 
 2.4.
 
-Skyriaus
+Specializuoto skyriaus vyriausiojo
 
-vyriausiojo prokuroro pavaduotojas
+prokuroro pavaduotojas
 
 10,1
 
 2.5.
 
-ONKT
-
-prokuroras
+Specializuoto skyriaus prokuroras
 
 10,0
 
-2.6.
-
-Prokuroras
-
-9,5
-
 3.
 
-Vilniaus,
+Apygardų
 
-Kauno ir Klaipėdos miestų apylinkių prokuratūros
+prokuratūrų apylinkių prokuratūros
 
 3.1.
 
-Vyriausiasis
+Vyriausiasis prokuroras
 
-prokuroras
-
-9,8
+11,97
 
 3.2.
 
-Vyriausiojo
+Vyriausiojo prokuroro pavaduotojas
 
-prokuroro pavaduotojas
-
-9,3
+11,64
 
 3.3.
 
-Skyriaus
+Skyriaus vyriausiasis prokuroras
 
-vyriausiasis prokuroras
-
-8,5
+9,72
 
 3.4.
 
-Skyriaus
+Skyriaus vyriausiojo prokuroro
 
-vyriausiojo prokuroro pavaduotojas
+pavaduotojas
 
-8,4
+9,62
 
 3.5.
 
 Prokuroras
 
-8,3
-
-4.
-
-Šiaulių
-
-ir Panevėžio miestų apylinkių prokuratūros
-
-4.1.
-
-Vyriausiasis
-
-prokuroras
-
-9,7
-
-4.2.
-
-Vyriausiojo
-
-prokuroro pavaduotojas
-
-9,2
-
-4.3.
-
-Skyriaus
-
-vyriausiasis prokuroras
-
-8,5
-
-4.4.
-
-Skyriaus
-
-vyriausiojo prokuroro pavaduotojas
-
-8,4
-
-4.5.
-
-Prokuroras
-
-8,3
-
-5.
-
-Kitų
-
-rajonų (miestų) apylinkių prokuratūros
-
-5.1.
-
-Vyriausiasis
-
-prokuroras
-
-9,3
-
-5.2.
-
-Vyriausiojo
-
-prokuroro pavaduotojas
-
-8,8
-
-5.3.
-
-Prokuroras
-
-8,0
+9,5
 
 Pastaba. ONKT –
 
 Organizuotų nusikaltimų ir korupcijos tyrimas.
 
-IV. VALSTYBĖS
+IV.
 
-PAREIGŪNŲ PAREIGINĖS ALGOS
+VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
 
 (Baziniais dydžiais)
 
@@ -1230,9 +500,7 @@ Seimo kontrolieriai
 
 3.
 
-(neteko galios nuo 2009 m. vasario 1
-
-d.)
+(neteko galios)
 
 4.
 
@@ -1320,7 +588,7 @@ vadovai
 
 9.2.
 
-Pareigūnai
+pareigūnai
 
 7
 
@@ -1346,9 +614,9 @@ nariai
 
 11.
 
-(neteko galios nuo 2011 m. gruodžio 22
+(neteko
 
-d.)
+galios)
 
 12.
 
@@ -1386,9 +654,17 @@ Nr. XI-1789,
 
 2011-12-09, Žin., 2011, Nr. 156-7386 (2011-12-22)
 
+Nr. XI-1839,
+
+2011-12-21, Žin., 2011, Nr. 163-7749 (2011-12-31)
+
 3 straipsnis. Įstatymo galiojimas
 
-1. Šio įstatymo
+1. Neteko galios
+
+nuo 2011 m. gruodžio 31 d.
+
+2. Šio įstatymo
 
 1 straipsnis įsigalioja 2009 m. gegužės 1 d.
 
