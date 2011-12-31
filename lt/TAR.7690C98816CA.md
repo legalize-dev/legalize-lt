@@ -4,7 +4,7 @@ identifier: "TAR.7690C98816CA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-01"
-last_updated: "2011-12-08"
+last_updated: "2011-12-31"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7690C98816CA"
 department: "Lietuvos Respublikos Seimas"
@@ -145,33 +145,17 @@ TYRIMŲ TARNYBOJE ORGANIZAVIMAS
 
 skiriamiems į Specialiųjų tyrimų tarnybą
 
-1. Tarnybos pareigūnais gali būti skiriami nepriekaištingos reputacijos, ne jaunesni
-
-kaip 18 metų Lietuvos Respublikos piliečiai, Karo prievolės įstatymo nustatyta
-
-tvarka atlikę privalomąją pradinę karo tarnybą arba nustatyta tvarka atleisti
-
-nuo jos, mokantys valstybinę kalbą, taip pat tinkantys konkrečioms pareigoms
-
-pagal išsilavinimą, intelekto, asmenines ir moralines savybes, dalykinį ir
-
-fizinį pasirengimą bei sveikatos būklę.
-
-1 dalies
-
-redakcija nuo 2011 m. rugsėjo 1 d.:
-
 1. Tarnybos
 
 pareigūnais gali būti skiriami nepriekaištingos reputacijos, ne jaunesni kaip
 
-18 metų Lietuvos Respublikos piliečiai, Karo prievolės įstatymo nustatyta tvarka
+18 metų Lietuvos Respublikos piliečiai, Karo prievolės įstatymo nustatyta
 
-atlikę privalomąją pradinę karo tarnybą, kuriems ši tarnyba įskaityta, atidėta
+tvarka atlikę privalomąją pradinę karo tarnybą, kuriems ši tarnyba įskaityta,
 
-arba kurie atleisti nuo karo prievolės, mokantys valstybinę kalbą, taip pat
+atidėta arba kurie atleisti nuo karo prievolės, mokantys valstybinę kalbą, taip
 
-tinkantys konkrečioms pareigoms pagal išsilavinimą, intelekto, asmenines ir
+pat tinkantys konkrečioms pareigoms pagal išsilavinimą, intelekto, asmenines ir
 
 moralines savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę.
 
@@ -231,13 +215,13 @@ medicininės ekspertizės komisiją. Komisija pateikia išvadą apie asmens
 
 sveikatos būklę.
 
-7. Asmenys, pareiškę
+7. Asmenys,
 
-norą tarnauti Specialiųjų tyrimų tarnyboje, bei jų tėvai, vaikai, sutuoktinis
+pareiškę norą tarnauti Specialiųjų tyrimų tarnyboje, bei jų tėvai, vaikai,
 
-tikrinami pagal valstybės ar savivaldybės institucijų ir įstaigų turimas
+sutuoktinis tikrinami pagal valstybės ar savivaldybės institucijų ir įstaigų
 
-įskaitas bei asmenų registrus.
+turimas įskaitas bei asmenų registrus.
 
 Straipsnio pakeitimai:
 
@@ -591,9 +575,9 @@ nedarbingumo laikas į bandomąjį laikotarpį neįskaitomas. Jeigu bandomuoju
 
 laikotarpiu asmuo neatleidžiamas iš pareigų, laikoma, kad jo tarnyba įvertinta
 
-teigiamai. Respublikos Prezidento skiriamiems tarnybos pareigūnams bandomasis laikotarpis
+teigiamai. Respublikos Prezidento skiriamiems tarnybos pareigūnams bandomasis
 
-nenustatomas.
+laikotarpis nenustatomas.
 
 8
 
@@ -633,9 +617,9 @@ dėl tarnybos organizavimo pakeitimų;
 
 4) dėl sveikatos būklės, trukdančios tinkamai atlikti einamas pareigas.
 
-4. Tarnybos
+4. Tarnybos pareigūnas
 
-pareigūnas į žemesnes pareigas gali būti perkeltas:
+į žemesnes pareigas gali būti perkeltas:
 
 1) savo prašymu
 
@@ -849,11 +833,11 @@ Specialiųjų tyrimų tarnybos direktorius.
 
 2. Asmenys į
 
-tarnybos pareigūnų pareigas priimami atrankos būdu. Atranka atliekama
+tarnybos pareigūnų pareigas priimami atrankos būdu. Atranka atliekama Specialiųjų
 
-Specialiųjų tyrimų tarnybos direktoriaus įsakymo nustatyta tvarka, siekiant
+tyrimų tarnybos direktoriaus įsakymo nustatyta tvarka, siekiant nustatyti, ar
 
-nustatyti, ar asmuo tinkamas tarnauti tarnybos pareigūnu.
+asmuo tinkamas tarnauti tarnybos pareigūnu.
 
 5
 
@@ -861,11 +845,9 @@ straipsnis. Tarnybos pareigūno priesaika
 
 1.
 
-Asmuo, paskirtas į Specialiųjų tyrimų tarnybą, prieš pradėdamas eiti pareigas,
+Asmuo, paskirtas į Specialiųjų tyrimų tarnybą, prieš pradėdamas eiti pareigas, prisiekia
 
-prisiekia Lietuvos valstybei. Prisiekiantis
-
-asmuo turi teisę pasirinkti vieną iš šiame straipsnyje nustatytų
+Lietuvos valstybei. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šiame straipsnyje nustatytų
 
 priesaikos tekstų. Nustatomi šie priesaikos
 
@@ -1289,9 +1271,9 @@ tarnybos pareigūną iš tarnybos pagal šio Statuto 11 straipsnio 2 dalies 4
 
 punktą galima tik įspėjus jį raštu prieš 2 mėnesius. Nėščiai tarnybos
 
-pareigūnei (kai likviduojama Specialiųjų tyrimų tarnyba ar jos įstaiga),
+pareigūnei (kai likviduojama Specialiųjų tyrimų tarnyba ar jos įstaiga), tarnybos
 
-tarnybos pareigūnui, auginančiam vaiką (vaikus) iki 14 metų, taip pat tarnybos
+pareigūnui, auginančiam vaiką (vaikus) iki 14 metų, taip pat tarnybos
 
 pareigūnui, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją liko
 
@@ -1381,9 +1363,9 @@ jo vidutinių mėnesinių darbo užmokesčių dydžio ir vidutinį darbo užmoke
 
 priverstinės pravaikštos laiką nuo atleidimo iš darbo iki teismo sprendimo
 
-įsigaliojimo dienos. Šiuo atveju tarnybos pareigūnas laikomas atleistu iš tarnybos
+įsigaliojimo dienos. Šiuo atveju tarnybos pareigūnas laikomas atleistu iš
 
-pagal šio Statuto 11 straipsnio 1 dalies 1 punktą nuo teismo sprendimo
+tarnybos pagal šio Statuto 11 straipsnio 1 dalies 1 punktą nuo teismo sprendimo
 
 įsigaliojimo dienos.
 
@@ -1439,9 +1421,7 @@ Vyriausybė.
 
 3. Uniforma
 
-išduodama ir dėvima Specialiųjų tyrimų tarnybos direktoriaus patvirtinta
-
-tvarka.
+išduodama ir dėvima Specialiųjų tyrimų tarnybos direktoriaus patvirtinta tvarka.
 
 4. Specialiųjų tyrimų tarnybos direktoriaus
 
@@ -1509,9 +1489,9 @@ specialusis agentas;
 
 specialusis agentas;
 
-3) vyresnysis specialusis
+3) vyresnysis
 
-agentas;
+specialusis agentas;
 
 4) specialusis
 
@@ -1623,9 +1603,9 @@ PAREIGŪNŲ PASKATINIMAI, TARNYBINIAI NUSIŽENGIMAI, NUOBAUDOS IR ATSAKOMYBĖ
 
 skatinimai ir apdovanojimai
 
-1. Specialiųjų
+1. Specialiųjų tyrimų
 
-tyrimų tarnybos direktorius už pavyzdingą tarnybą pareigūnus gali skatinti:
+tarnybos direktorius už pavyzdingą tarnybą pareigūnus gali skatinti:
 
 1) pareikšdamas
 
@@ -1639,9 +1619,9 @@ piniginę išmoką;
 
 3) įteikdamas vardinę dovaną;
 
-4) įteikdamas Specialiųjų
+4) įteikdamas
 
-tyrimų tarnybos garbės ženklą.
+Specialiųjų tyrimų tarnybos garbės ženklą.
 
 2. Tarnybos
 
@@ -1965,11 +1945,11 @@ priemonių, panaudojimas.
 
 ginklą, tarnybos pareigūnas privalo įspėti apie tokį ketinimą, suteikdamas
 
-asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas
+asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai
 
-kelia grėsmę pareigūno ar kito asmens gyvybei ar sveikatai arba toks įspėjimas
+delsimas kelia grėsmę pareigūno ar kito asmens gyvybei ar sveikatai arba toks
 
-yra neįmanomas.
+įspėjimas yra neįmanomas.
 
 6. Tarnybos
 
@@ -2091,17 +2071,17 @@ priemones bei gyvūnus būtinojo reikalingumo, būtinosios ginties atvejais ir
 
 4. Draudžiama
 
-panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti
+panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali
 
-pašaliniai asmenys, prieš moteris, jei akivaizdu, kad jos nėščios, taip pat
+nukentėti pašaliniai asmenys, prieš moteris, jei akivaizdu, kad jos nėščios,
 
-prieš asmenis, jei akivaizdu, kad jie invalidai, prieš nepilnamečius, jeigu jų
+taip pat prieš asmenis, jei akivaizdu, kad jie invalidai, prieš nepilnamečius,
 
-amžius pareigūnui žinomas arba išvaizda atitinka amžių, išskyrus
+jeigu jų amžius pareigūnui žinomas arba išvaizda atitinka amžių,
 
-atvejus, kai tokie asmenys užpuola arba priešinasi pavojingu gyvybei ar
+išskyrus atvejus, kai tokie asmenys užpuola arba priešinasi pavojingu gyvybei
 
-sveikatai būdu.
+ar sveikatai būdu.
 
 5. Tarnybos
 
@@ -2111,11 +2091,11 @@ naudojimui, jeigu jis mano, kad konkrečioje situacijoje gali tekti jį
 
 panaudoti.
 
-6. Tarnybos pareigūnas, nesukeldamas
+6. Tarnybos pareigūnas,
 
-grėsmės įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo,
+nesukeldamas grėsmės įstatymų saugomoms vertybėms, turi teisę iššauti iš
 
-kai būtina duoti pavojaus signalą arba išsikviesti pagalbą.
+šaunamojo ginklo, kai būtina duoti pavojaus signalą arba išsikviesti pagalbą.
 
 7. Tarnybos
 
@@ -2283,11 +2263,9 @@ reabilituotas;
 
 policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos,
 
-valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas Darbo
+valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas Darbo sutarties
 
-sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno
-
-pareigoms;
+įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms;
 
 5) darbo laikas,
 
@@ -2319,17 +2297,17 @@ dienas;
 
 pradėjusiems tarnauti ar dirbti Lietuvos Respublikos krašto apsaugos sistemoje,
 
-ir asmenims, pradėjusiems tarnauti ar dirbti Lietuvos Respublikos Aukščiausiosios
+ir asmenims, pradėjusiems tarnauti ar dirbti Lietuvos Respublikos
 
-Tarybos Apsaugos skyriuje iki 1991 m. gruodžio 31 d., taip pat Valstybės
+Aukščiausiosios Tarybos Apsaugos skyriuje iki 1991 m. gruodžio 31 d., taip pat
 
-saugumo departamente prie Lietuvos Respublikos Vyriausybės nuo 1990 m. kovo 26
+Valstybės saugumo departamente prie Lietuvos Respublikos Vyriausybės nuo 1990
 
-d. iki 1991 m. gruodžio 2 d. ir Lietuvos Respublikos nacionalinio saugumo
+m. kovo 26 d. iki 1991 m. gruodžio 2 d. ir Lietuvos Respublikos nacionalinio
 
-tarnyboje nuo 1991 m. gruodžio 2 d. iki 1991 m. gruodžio 31 d., – 80 procentų
+saugumo tarnyboje nuo 1991 m. gruodžio 2 d. iki 1991 m. gruodžio 31 d., – 80
 
-iki šio laiko turėto darbo stažo;
+procentų iki šio laiko turėto darbo stažo;
 
 8) mokymosi
 
@@ -2391,37 +2369,61 @@ dalies redakcija nuo 2013-01-01:
 
 pareigūnams priedas pagal Valstybės tarnybos įstatymą už 3-iąją kvalifikacinę
 
-kategoriją sudaro 15 procentų pareiginės algos, už 2-ąją kvalifikacinę
+kategoriją sudaro 15 procentų pareiginės algos, už 2-ąją kvalifikacinę kategoriją
 
-kategoriją – 30 procentų pareiginės algos, už 1-ąją kvalifikacinę kategoriją –
+– 30 procentų pareiginės algos, už 1-ąją kvalifikacinę kategoriją – 45
 
-45 procentus pareiginės algos.
+procentus pareiginės algos.
 
 5. Priemokos už pareigybės aprašyme nenurodytą ar
 
-įprastą darbo krūvį viršijančią veiklą ar papildomų užduočių, atliekamų viršijant
+įprastą darbo krūvį viršijančią veiklą ar papildomų užduočių, atliekamų
 
-nustatytą darbo trukmę, atlikimą, taip pat darbą naktį, poilsio ir švenčių
+viršijant nustatytą darbo trukmę, atlikimą, taip pat darbą naktį, poilsio ir
 
-dienomis, kenksmingomis, labai kenksmingomis ir pavojingomis darbo sąlygomis
+švenčių dienomis, kenksmingomis, labai kenksmingomis ir pavojingomis darbo
 
-mokamos Valstybės tarnybos įstatymo nustatyta tvarka.
+sąlygomis mokamos Valstybės tarnybos įstatymo nustatyta tvarka.
 
 6. Laikinojo
 
-nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko
+nedarbingumo (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo darbe
 
-priežiūros atostogų laikotarpiais tarnybos pareigūnams mokamas Vyriausybės
+(tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat
 
-nustatyta tvarka apskaičiuotas vidutinis jų darbo užmokestis arba jo dalis.
+dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
 
-Mokamo vidutinio darbo užmokesčio ar jo dalies dydis, maksimalus
+ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos vykdymo),
+
+nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų
+
+laikotarpiais pareigūnams mokamas vidutinis jų darbo užmokestis arba jo dalis.
+
+Mokamo vidutinio darbo užmokesčio arba jo dalies dydis, maksimalus
 
 kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis
 
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo
 
-nuostatomis.
+nuostatomis. Laikinojo nedarbingumo dėl nelaimingo atsitikimo darbe
+
+(tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat
+
+dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
+
+ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos
+
+vykdymo, atveju pareigūnams mokama 100 procentų jų vidutinio darbo užmokesčio,
+
+taikant maksimalaus ir minimalaus kompensuojamojo uždarbio dydžius
+
+vadovaujantis Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių
+
+ligų socialinio draudimo įstatymo nuostatomis dėl ligos pašalpos skaičiavimo.
+
+Pastaba. 6 dalies nuostatos taikomos
+
+apskaičiuojant ligos išmokas nuo 2012 m. sausio 1 d.
 
 7. Neteko galios
 
@@ -2463,9 +2465,7 @@ XI-364,
 
 2009-07-17, Žin., 2009, Nr. 91-3919 (2009-07-31)
 
-Nr.
-
-XI-949,
+Nr. XI-949,
 
 2010-06-30, Žin., 2010, Nr. 82-4303 (2010-07-13)
 
@@ -2476,6 +2476,12 @@ Nr. XI-1719,
 Nr. XI-986,
 
 2010-07-02, Žin., 2010, Nr. 86-4537 (2010-07-20)
+
+Nr.
+
+XI-1856,
+
+2011-12-22, Žin., 2011, Nr. 163-7754 (2011-12-31)
 
 31
 
@@ -2593,11 +2599,11 @@ išeitinė pašalpa.
 
 redakcija nuo 2012 m. sausio 1 d.:
 
-1. Atleidžiant tarnybos pareigūnus
+1. Atleidžiant tarnybos
 
-iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo 12
+pareigūnus iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo
 
-straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
+12 straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
 
 straipsnio 1 dalies 6 punkto, 2 dalies 3, 4, 5 arba 7 punkto nustatytais
 
