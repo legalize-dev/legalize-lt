@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2010-11-27"
+last_updated: "2011-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -575,11 +575,31 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-XI-1127, 2010-11-12, Žin., 2010, Nr. 139-7111 (2010-11-27)
+XI-1127,
+
+2010-11-12, Žin., 2010, Nr. 139-7111 (2010-11-27)
 
 VYRIAUSYBĖS
 
 ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+34.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1838,
+
+2011-12-21, Žin., 2011, Nr. 164-7795 (2011-12-31)
+
+VYRIAUSYBĖS
+
+ĮSTATYMO 26 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2012 m. kovo 1 d.
 
 ***
 
@@ -605,15 +625,15 @@ DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4 DALIŲ IR 6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4
 
 DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
-***
+*** Pabaiga
 
-Pabaiga ***
+***
 
 Redagavo
 
-Aušrinė Trapinskienė (2010-11-29)
+Aušrinė Trapinskienė (2012-01-11)
 
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 2 straipsnis.
 
@@ -1371,9 +1391,9 @@ Nr. XI-511, 2009-12-02,
 
 Žin., 2009, Nr. 147-6554 (2009-12-12)
 
-Nr. XI-1127, 2010-11-12, Žin., 2010, Nr. 139-7111
+Nr. XI-1127,
 
-(2010-11-27)
+2010-11-12, Žin., 2010, Nr. 139-7111 (2010-11-27)
 
 14
 
@@ -1675,11 +1695,11 @@ ar drausmines nuobaudas, juos skatina;
 
 sudaro Vyriausybės komitetus ir Vyriausybės komisijas;
 
-16) vykdo kitas pareigas,
+16) vykdo kitas
 
-kurias Vyriausybei numato Lietuvos Respublikos Konstitucija, šis ir kiti
+pareigas, kurias Vyriausybei numato Lietuvos Respublikos Konstitucija, šis ir
 
-įstatymai.
+kiti įstatymai.
 
 Straipsnio pakeitimai:
 
@@ -1743,9 +1763,7 @@ straipsnis. Ministras Pirmininkas
 
 Pirmininkas atstovauja Vyriausybei ir vadovauja jos veiklai.
 
-2. Ministras
-
-Pirmininkas:
+2. Ministras Pirmininkas:
 
 1) sudaro
 
@@ -1757,17 +1775,17 @@ siūlymus Respublikos Prezidentui dėl ministrų skyrimo ir atleidimo;
 
 3) Valstybės
 
-tarnybos įstatymo nustatyta tvarka priima į pareigas ir atleidžia iš jų
+tarnybos įstatymo nustatyta tvarka priima į pareigas ir atleidžia iš jų Ministro
 
-Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus,
+Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus, kitus
 
-kitus įstatymų nustatytus valstybės tarnautojus ir pareigūnus; Ministro
+įstatymų nustatytus valstybės tarnautojus ir pareigūnus; Ministro Pirmininko
 
-Pirmininko kancleriui gali pavesti priimti į pareigas ir atleisti iš jų
+kancleriui gali pavesti priimti į pareigas ir atleisti iš jų Ministro
 
-Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus,
+Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus, tvirtinti
 
-tvirtinti jų pareigybių aprašymus;
+jų pareigybių aprašymus;
 
 4) skiria
 
@@ -1775,13 +1793,13 @@ Ministro Pirmininko priimtiems į pareigas valstybės tarnautojams ir pareigūna
 
 tarnybines ar drausmines nuobaudas, skatina Ministro Pirmininko priimtus į
 
-pareigas valstybės tarnautojus ir pareigūnus, skiria jiems pašalpas, jei įstatymai
+pareigas valstybės tarnautojus ir pareigūnus, skiria jiems pašalpas, jei
 
-nenumato kitaip; gali pavesti Ministro Pirmininko kancleriui skatinti Ministro
+įstatymai nenumato kitaip; gali pavesti Ministro Pirmininko kancleriui skatinti
 
-Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus, skirti
+Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus,
 
-jiems tarnybines ar drausmines nuobaudas ir pašalpas;
+skirti jiems tarnybines ar drausmines nuobaudas ir pašalpas;
 
 5) (neteko
 
@@ -2919,9 +2937,9 @@ Nr. VIII-1980,
 
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
-25 straipsnis. Ministro, einančio Ministro Pirmininko
+25 straipsnis. Ministro, einančio Ministro
 
-pareigas ar pavaduojančio
+Pirmininko pareigas ar pavaduojančio
 
 Ministrą
 
@@ -2955,9 +2973,9 @@ Nr. VIII-1980,
 
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
-Nr. X-1182,
+Nr. X-1182, 2007-06-14,
 
-2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+Žin., 2007, Nr. 72-2831 (2007-06-30)
 
 26 straipsnis. Ministrai
 
@@ -2971,9 +2989,19 @@ atsakingi už jiems pavestas valdymo sritis, kurias nustato šis ir kiti
 
 Ministrą laikinai pavaduoti gali tik Ministro Pirmininko paskirtas kitas
 
-Vyriausybės narys. Pavaduojantis ministras neatlieka funkcijų, nurodytų šio straipsnio
+Vyriausybės narys. Pavaduojantis ministras neatlieka funkcijų, nurodytų šio
 
-3 dalies 6, 9, 13, 14 ir 15 punktuose.
+straipsnio 3 dalies 6, 9, 13, 14 ir 15 punktuose.
+
+2 dalies redakcija nuo 2012-03-01:
+
+2.
+
+Ministrą laikinai pavaduoti gali tik Ministro Pirmininko paskirtas kitas Vyriausybės narys. Pavaduojantis ministras
+
+neatlieka šio straipsnio 3 dalies 6, 9, 13, 14, 15, 16 ir 17 punktuose nurodytų
+
+funkcijų.
 
 3. Ministras:
 
@@ -3089,11 +3117,11 @@ juos skatina, skiria jiems tarnybines ar drausmines nuobaudas ir pašalpas arba
 
 14)
 
-įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų įstaigų prie
+įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų įstaigų prie ministerijos
 
-ministerijos vadovus, juos skatina ir skiria jiems tarnybines ar drausmines
+vadovus, juos skatina ir skiria jiems tarnybines ar drausmines nuobaudas ir
 
-nuobaudas ir pašalpas, jei įstatymai nenustato kitaip;
+pašalpas, jei įstatymai nenustato kitaip;
 
 15) siūlo
 
@@ -3125,6 +3153,32 @@ administravimo sritis;
 
 kitas įstatymų ir Vyriausybės nutarimų pavestas funkcijas.
 
+3 dalis papildoma nauju 17 punktu, buvęs 17 punktas laikomas 18
+
+punktu nuo 2012-03-01:
+
+17) tvirtina didžiausią leistiną valstybės
+
+tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo
+
+užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių
+
+jo valdymo sritims priskirtose atskirose įstaigose prie ministerijos ir kitose
+
+institucijose ir įstaigose, neviršydamas Vyriausybės patvirtinto bendro
+
+didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo
+
+sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų
+
+fondų, pareigybių skaičiaus jo valdymo sritims priskirtose įstaigose prie
+
+ministerijos ir kitose priskirtose institucijose ir įstaigose;
+
+18) atlieka
+
+kitas įstatymų ir Vyriausybės nutarimų pavestas funkcijas.
+
 4. Ministras,
 
 turintis atskirąją nuomonę apie Vyriausybės nutarimus ar atskirų jos
@@ -3151,9 +3205,9 @@ Nr. IX-1293,
 
 Nr.
 
-X-500, 2006-01-19,
+X-500,
 
-Žin., 2006, Nr. 17-596 (2006-02-11)
+2006-01-19, Žin., 2006, Nr. 17-596 (2006-02-11)
 
 Nr. X-1182,
 
@@ -3172,6 +3226,10 @@ Nr. XI-185,
 Nr. XI-863,
 
 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
+
+Nr. XI-1838,
+
+2011-12-21, Žin., 2011, Nr. 164-7795 (2011-12-31)
 
 27 straipsnis. Vyriausybės
 
@@ -3193,13 +3251,13 @@ prireikus derinti ministrų pozicijas sprendžiant valstybės valdymo reikalus.
 
 3.
 
-Vyriausybės komitetai sudaromi iš Vyriausybės narių,
+Vyriausybės komitetai sudaromi iš Vyriausybės narių, Ministro
 
-Ministro Pirmininko kanclerio arba Ministro Pirmininko kanclerio pirmojo
+Pirmininko kanclerio arba Ministro Pirmininko kanclerio pirmojo pavaduotojo.
 
-pavaduotojo. Sudarydama Vyriausybės komitetus, Vyriausybė
+Sudarydama Vyriausybės komitetus, Vyriausybė nustato jų
 
-nustato jų uždavinius, funkcijas, sudėtį, skiria pirmininką. Vyriausybės
+uždavinius, funkcijas, sudėtį, skiria pirmininką. Vyriausybės
 
 komitetų darbo organizavimo tvarką nustato Vyriausybės darbo
 
@@ -3225,11 +3283,11 @@ nustato jų užduotis, personalinę sudėtį. Vyriausybė gali pavesti Ministrui
 
 Pirmininkui, ministrui, Ministro Pirmininko kancleriui ar Vyriausybės
 
-įstaigos vadovui patvirtinti Vyriausybės komisijos
+įstaigos vadovui patvirtinti Vyriausybės
 
-personalinę sudėtį. Vyriausybės komisijų darbo organizavimo
+komisijos personalinę sudėtį. Vyriausybės komisijų darbo
 
-tvarką nustato Vyriausybės darbo reglamentas.
+organizavimo tvarką nustato Vyriausybės darbo reglamentas.
 
 Straipsnio pakeitimai:
 
@@ -3275,7 +3333,9 @@ vadovauja Ministro Pirmininko paskirtas asmuo.
 
 darbo grupės užduotis nustato Ministras Pirmininkas. Ministro Pirmininko
 
-sudarytų darbo grupių darbo organizavimo tvarką nustato Vyriausybės darbo reglamentas.
+sudarytų darbo grupių darbo organizavimo tvarką nustato Vyriausybės darbo
+
+reglamentas.
 
 4. Lėšų darbo
 
