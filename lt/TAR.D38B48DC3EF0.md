@@ -4,7 +4,7 @@ identifier: "TAR.D38B48DC3EF0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-06-05"
-last_updated: "2011-06-30"
+last_updated: "2011-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D38B48DC3EF0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas
 
-Suvestinė redakcija nuo 2011-06-30 iki 2011-12-30
+Suvestinė redakcija nuo 2011-12-31 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2754, i. k. 1031010ISTA0IX-1597
 
@@ -254,9 +254,17 @@ KETVIRTASIS SKIRSNIS
 
 BAIGIAMOSIOS NUOSTATOS
 
-10 straipsnis. Europos Komisijos informavimas ir bendradarbiavimas su Europos vertybinių popierių ir rinkų institucija
+10 straipsnis. Europos vertybinių popierių ir rinkų institucijos informavimas ir bendradarbiavimas 1. Lietuvos bankas privalo teikti Europos vertybinių popierių ir rinkų institucijai informaciją apie sistemas ir jų operatorius, šio įstatymo nustatyta tvarka įregistruotus Lietuvos banke, ir sistemas, kurių operatorius yra pats Lietuvos bankas, taip pat nurodyti, kad jis yra šiame įstatyme nurodyta atsakinga institucija Lietuvoje.
 
-1. Lietuvos bankas privalo teikti Europos Komisijai informaciją apie sistemas ir jų operatorius, šio įstatymo nustatyta tvarka įregistruotus Lietuvos banke, ir sistemas, kurių operatorius yra pats Lietuvos bankas, taip pat nurodyti, kad jis yra šiame įstatyme nurodyta atsakinga institucija Lietuvoje.
+Pakeistas straipsnio pavadinimas:
+
+Nr. XI-1428, 2011-06-07, Žin., 2011, Nr. 74-3539 (2011-06-18), i. k. 1111010ISTA0XI-1428
+
+1. Lietuvos bankas privalo teikti Europos vertybinių popierių ir rinkų institucijai informaciją apie sistemas ir jų operatorius, šio įstatymo nustatyta tvarka įregistruotus Lietuvos banke, ir sistemas, kurių operatorius yra pats Lietuvos bankas, taip pat nurodyti, kad jis yra šiame įstatyme nurodyta atsakinga institucija Lietuvoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1428, 2011-06-07, Žin., 2011, Nr. 74-3539 (2011-06-18), i. k. 1111010ISTA0XI-1428
 
 2. Šio įstatymo tikslais Lietuvos bankas bendradarbiauja su Europos vertybinių popierių ir rinkų institucija pagal Reglamentą (ES) 1095/2010.
 
