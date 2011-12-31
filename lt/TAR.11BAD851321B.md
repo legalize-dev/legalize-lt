@@ -4,7 +4,7 @@ identifier: "TAR.11BAD851321B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-15"
-last_updated: "2010-06-22"
+last_updated: "2011-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.11BAD851321B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymo 14 straipsnio nuostatos įsigalioja 2004
 ---
 # Lietuvos Respublikos mėgėjų žvejybos įstatymas
 
-Suvestinė redakcija nuo 2010-06-22 iki 2011-12-30
+Suvestinė redakcija nuo 2011-12-31 iki 2012-12-19
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 118-4395, i. k. 1041010ISTA0IX-2389
 
@@ -43,11 +43,19 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Intensyviai veisiamos žuvys – žuvys, įveistos pagal Žemės ūkio ministerijos ir Aplinkos ministerijos nustatytas žuvų įveisimo licencinei žūklei normas.
+1. Intensyviai veisiamos žuvys – žuvys, įveistos pagal Žemės ūkio ministerijos ir Aplinkos ministerijos nustatytas žuvų įveisimo limituotai žvejybai normas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
 
 2. Leidimas naudoti žūklės plotą – dokumentas, kuris šio įstatymo nustatyta tvarka suteikia teisę naudoti žuvų išteklius ir organizuoti mėgėjišką žūklę tam tikrame valstybiniame vandens telkinyje.
 
-3. Licencinė žūklė – saugomų ir globojamų žuvų rūšių ar intensyviai veisiamų žuvų žūklė, taip pat žūklė vandens telkiniuose, kuriuose mėgėjiška žūklė draudžiama ar ribojama, arba žūklė nestandartiniais įrankiais ir būdais, kurie numatyti Mėgėjiškos žūklės taisyklėse, turint nustatyta tvarka išduotus leidimus (licencijas).
+3. Limituota žvejyba – saugomų ir globojamų žuvų rūšių ar intensyviai veisiamų žuvų žvejyba, taip pat žvejyba vandens telkiniuose, kuriuose mėgėjiška žūklė ribojama, arba žvejyba nestandartiniais įrankiais ir būdais pagal Aplinkos ministerijos nustatytą tvarką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
 
 4. Mėgėjiška žūklė (mėgėjiška žvejyba) – žuvų gaudymas mėgėjiškos žūklės įrankiais ir būdais laikantis mėgėjiškai žūklei nustatytos tvarkos, sugautų žuvų laikymas ir gabenimas.
 
@@ -73,11 +81,23 @@ BENDROSIOS NUOSTATOS
 
 15. Žuvų išteklių naudotojai – fiziniai ir juridiniai asmenys, turintys teisę naudoti žuvų išteklius.
 
-16. Žūklės leidimas – šio įstatymo nustatyta tvarka žūklės ploto naudotojo ar vandens telkinio valdytojo išduotas dokumentas, suteikiantis teisę naudoti žuvų išteklius mėgėjiškai žūklei.
+16. Žūklės leidimas – šio įstatymo nustatyta tvarka vandens telkinio savininko ar žūklės ploto naudotojo išduotas dokumentas, kuriuo suteikiama teisė naudoti žuvų išteklius mėgėjiškai žūklei.
 
-17. Žūklės limitas – vandens telkiniui nustatytas didžiausias žuvų sugavimo arba žūklės įrankių kiekis, arba žūklės leidimų ar žūklės dienų skaičius, arba nustatytos žūklės vietos.
+Straipsnio dalies pakeitimai:
 
-18. Žūklės ploto naudotojas – fizinis ar juridinis asmuo, pagal leidimą naudoti žūklės plotą arba iki 2005 m. sausio 1 d. pagal vandens telkinio nuomos sutartį naudojantis valstybinį vandens telkinį.
+Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
+
+17. Žūklės limitas – vandens telkiniui nustatytas didžiausias žuvų sugavimo arba žūklės įrankių kiekis, arba žūklės dienų skaičius, arba nustatytos žūklės vietos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
+
+18. Žūklės ploto naudotojas – fizinis ar juridinis asmuo, kita organizacija, taip pat juridinio asmens ar kitos organizacijos filialas, pagal leidimą naudoti žūklės plotą naudojantys valstybinį vandens telkinį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
 
 ANTRASIS SKIRSNIS
 
@@ -189,49 +209,59 @@ TREČIASIS SKIRSNIS
 
 ŽUVŲ IŠTEKLIŲ NAUDOJIMAS MĖGĖJIŠKAI ŽŪKLEI
 
-9 straipsnis. Žuvų išteklių naudojimas
+9 straipsnis. Teisės mėgėjiškai žūklei suteikimas
 
-1. Teisė naudoti žuvų išteklius mėgėjiškai žūklei suteikiama nustatyta tvarka išduodant žūklės leidimus.
+1. Teisė mėgėjiškai žūklei valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žūklės plotą, įgyjama Vyriausybės įgaliotos institucijos nustatyta tvarka sumokėjus įmoką žuvų ištekliams atkurti ir išsaugoti (toliau – įmoka) ir turint įmokos sumokėjimo patvirtinimą, išskyrus atvejus, nustatytus šio straipsnio 3 dalyje. Įmoka sumokama į Valstybinės mokesčių inspekcijos sąskaitą ir įskaitoma į valstybės iždo sąskaitą, kurioje kaupiamos Aplinkos apsaugos rėmimo programos lėšos.
 
-2. Žūklės leidimus išduoda:
+2. Įmokos dydžiai yra:
 
-1) vandens telkinių savininkai – žvejoti jiems privačios nuosavybės teise priklausančiuose vandens telkiniuose;
+1) už teisę mėgėjiškai žūklei valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žūklės plotą: dvi paras – 5 litai; mėnesį – 20 litų; metus – 50 litų;
 
-2) žūklės plotų naudotojai – žvejoti vandens telkiniuose, kuriuose jiems išduoti leidimai naudoti žūklės plotus;
+2) už teisę mėgėjiškai žūklei valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žūklės plotą ir kuriuose organizuota limituota žvejyba: parą – 10 litų; savaitę – 30 litų; mėnesį – 50 litų.
 
-3) Vyriausybės įgaliotos institucijos – žvejoti valstybiniuose vandens telkiniuose, kuriuose neišduoti leidimai naudoti žūklės plotus.
+3. Žvejoti nesumokėjus įmokos turi teisę asmenys iki 16 metų, asmenys, vyresni negu 62 metų, ir neįgalūs asmenys.
 
-3. Maksimalias žūklės leidimų kainas nustato Vyriausybė, išskyrus žuvis, žvejojamas pagal licencijas. Invalidams, vietiniams gyventojams, gyvenantiems kaimuose, esančiuose ne toliau kaip už 1 kilometro nuo vandens telkinio, žūklės leidimai turi būti išduodami taikant ne mažesnę kaip 50 proc. nuolaidą.
+4. Teisė naudoti žuvų išteklius mėgėjiškai žūklei valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos išduotas leidimas naudoti žūklės plotą, privalo būti suteikiama Aplinkos ministerijos nustatyta tvarka išduodant žūklės leidimus, išskyrus atvejus, nustatytus šio straipsnio 6 dalyje.
 
-4. Žvejoti be žūklės leidimų, turėdami šią teisę patvirtinančius dokumentus, gali:
+5. Žūklės leidimus išduoda:
 
-1) vandens telkinių savininkai jiems privačios nuosavybės teise priklausančiuose vandens telkiniuose;
+1) vandens telkinių savininkai – žvejoti jiems nuosavybės teise priklausančiuose vandens telkiniuose;
 
-2) žūklės plotų naudotojai – fiziniai asmenys vandens telkiniuose, kuriuose jiems išduoti leidimai naudoti žūklės plotus, laikydamiesi leidimo sąlygų;
+2) žūklės plotų naudotojai – žvejoti vandens telkiniuose, kuriuose jiems išduoti leidimai naudoti žūklės plotus.
 
-3) vaikai iki 16 metų;
+6. Žvejoti be žūklės leidimų, turėdami šią teisę patvirtinančius dokumentus, gali:
 
-4) pensininkai;
+1) vandens telkinių savininkai jiems nuosavybės teise priklausančiuose vandens telkiniuose;
 
-5) kiti asmenys, Vyriausybės nustatyta tvarka turintys nemokamą žvejybos teisę.
+2) žūklės plotų naudotojai – fiziniai asmenys vandens telkiniuose, kuriuose jiems išduoti leidimai naudoti žūklės plotus;
 
-5. Žūklės leidimai, suteikiantys teisę žvejoti valstybiniuose vandens telkiniuose, išduodami, naudojami, jų apskaita tvarkoma Aplinkos ministerijos nustatyta tvarka.
+3) asmenys iki 16 metų, asmenys, vyresni negu 62 metų, ir neįgalūs asmenys.
 
-6. Už žūklės leidimus valstybiniuose vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žūklės plotus, mokama valstybės rinkliava.
+7. Žūklės leidimo kaina už teisę mėgėjiškai žūklei valstybiniame žuvininkystės vandens telkinyje, į kurį išduotas leidimas naudoti žūklės plotą ir kuriame neorganizuota limituota žvejyba, negali būti didesnė negu įmoka atitinkamam laikotarpiui už teisę mėgėjiškai žūklei valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žūklės plotą ir kuriuose neorganizuota limituota žvejyba.
 
-7. Leidimai platinami vadovaujantis Vyriausybės įgaliotos institucijos patvirtintomis žūklės leidimų išdavimo taisyklėmis, suteikiant galimybę leidimų platinimo vietose įsigyti leidimus į visus valstybinius vandens telkinius, kuriuose leidžiama mėgėjiška žūklė, o privačių vandens telkinių savininkų sutikimu – ir į privačius vandens telkinius.
+8. Žūklės leidimo kaina už teisę mėgėjiškai žūklei valstybiniame žuvininkystės vandens telkinyje, į kurį išduotas leidimas naudoti žūklės plotą ir kuriame organizuota limituota žvejyba, negali būti daugiau kaip 5 kartus didesnė negu įmoka atitinkamam laikotarpiui už teisę mėgėjiškai žūklei valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žūklės plotą ir kuriuose organizuota limituota žvejyba.
 
-10 straipsnis. Licencinė žūklė
+9. Žūklės plotų naudotojai turi teisę sumažinti žūklės leidimo kainą ar suteikti teisę žvejoti nemokamai.
 
-1. Licencinė žūklė organizuojama ir vyksta Aplinkos ministerijos nustatyta tvarka.
+10. Privačiame žuvininkystės vandens telkinyje žūklės leidimo kainą nustato ar nemokamą žvejybos teisę suteikia vandens telkinio savininkas.
 
-2. Vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žūklės plotus, licencinę žūklę organizuoja telkinių valdytojai, vandens telkiniuose, į kuriuos išduoti leidimai naudoti žūklės plotus, – žūklės plotų naudotojai, privačiuose vandens telkiniuose – savininkai.
+Straipsnio pakeitimai:
 
-3. Atsižvelgiant į žuvų išteklių būklę bei mokslininkų rekomendacijas, licencinės žūklės ruožuose nustatomas žūklės limitas ir leidžiamų išduoti licencijų skaičius.
+Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
 
-4. Žvejojant su licencijomis, kol sugaunamas licencijoje nurodytas žuvų kiekis, galima papildomai sužvejoti Mėgėjiškos žūklės taisyklių nustatytą leistiną kitų žuvų kiekį.
+10 straipsnis. Limituotos žvejybos organizavimas
 
-5. Iš asmenų, nesilaikančių licencinės žūklės sąlygų, licencija paimama neatlygintinai.
+1. Limituota žvejyba organizuojama ir vykdoma Aplinkos ministerijos nustatyta tvarka.
+
+2. Organizuojant limituotą žvejybą valstybiniame žuvininkystės vandens telkinyje, turi būti atlikti žuvų išteklių tyrimai ir gautos žuvų išteklių tyrimus atlikusių fizinių ar juridinių asmenų rekomendacijos, kad jame tikslinga organizuoti limituotą žvejybą.
+
+3. Atsižvelgdama į žuvų išteklių būklę ir žuvų išteklių tyrimus atlikusių fizinių ar juridinių asmenų rekomendacijas, Aplinkos ministerija nustato limituotos žvejybos reguliavimo priemones ir sąlygas žuvininkystės vandens telkiniuose.
+
+4. Limituotą žvejybą leidžiama organizuoti tik paskelbus limituotos žvejybos reguliavimo priemones ir sąlygas. Limituotos žvejybos reguliavimo priemonės ir sąlygos skelbiamos ir atšaukiamos Aplinkos ministerijos nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
 
 11 straipsnis. Žuvų išteklių apsauga, kontrolė ir atkūrimas
 
@@ -310,4 +340,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-896, 2010-06-10, Žin., 2010, Nr. 72-3615 (2010-06-22), i. k. 1101010ISTA00XI-896
 
 Lietuvos Respublikos mėgėjiškos žūklės įstatymo 4 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
+
+Lietuvos Respublikos mėgėjiškos žūklės įstatymo 2, 9 ir 10 straipsnių pakeitimo įstatymas
 
