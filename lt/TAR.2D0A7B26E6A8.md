@@ -4,7 +4,7 @@ identifier: "TAR.2D0A7B26E6A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-12-03"
-last_updated: "2011-12-28"
+last_updated: "2012-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pensijų sistemos reformos įstatymas
 
-Suvestinė redakcija nuo 2011-12-28 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2012-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5511, i. k. 1021010ISTA0IX-1215
 
@@ -195,27 +195,39 @@ Straipsnio dalies pakeitimai:
 
 Nr. IX-2541, 2004-11-04, Žin., 2004, Nr. 171-6301 (2004-11-26), i. k. 1041010ISTA0IX-2541
 
-3. Valdymo įmonių pensijų kaupimo veiklos valstybinę priežiūrą įstatymų nustatyta tvarka atlieka Vertybinių popierių komisija. Gyvybės draudimo įmonių pensijų kaupimo veiklos valstybinę priežiūrą įstatymų nustatyta tvarka atlieka pagal Draudimo įstatymą draudimo veiklos priežiūrą vykdanti institucija (toliau – draudimo priežiūros institucija).
+3. Pensijų kaupimo bendrovių valstybinę priežiūrą įstatymų nustatyta tvarka atlieka Lietuvos bankas (toliau – priežiūros institucija).
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
 
+Nr. XI-1679, 2011-11-17, Žin., 2011, Nr. 146-6825 (2011-12-01), i. k. 1111010ISTA0XI-1679
+
 4. Atskaitymų iš pensijų turto pensijų kaupimo bendrovės naudai struktūrą ir apribojimus nustato įstatymai.
 
-5. Pensijų kaupimo bendrovių veiklą prižiūrinčios institucijos įstatymų nustatyta tvarka turi teikti Socialinės apsaugos ir darbo ministerijai informaciją apie pensijų kaupimo veiklą.
+5. Pensijų kaupimo bendrovių veiklos priežiūros institucija įstatymų nustatyta tvarka turi teikti Socialinės apsaugos ir darbo ministerijai informaciją apie pensijų kaupimo veiklą.
 
-6. Atliekant pensijų kaupimo bendrovių priežiūrą, šiame straipsnyje nurodytos institucijos turi keistis joms prieinama informacija Vyriausybės nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1679, 2011-11-17, Žin., 2011, Nr. 146-6825 (2011-12-01), i. k. 1111010ISTA0XI-1679
+
+6. Neteko galios nuo 2012-01-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1679, 2011-11-17, Žin., 2011, Nr. 146-6825 (2011-12-01), i. k. 1111010ISTA0XI-1679
 
 8 straipsnis. Pensijų kaupimo bendrovių veiklos saugumo užtikrinimo priemonės
 
 1. Pensijų kaupimo bendrovės finansinę veiklą turi kasmet patikrinti audito įmonė.
 
-2. Pensijų kaupimo bendrovė privalo pateikti atitinkamai Vertybinių popierių komisijai ar draudimo priežiūros institucijai ir viešai skelbti savo veiklos ir finansinės būklės ataskaitas šių institucijų nustatyta tvarka.
+2. Pensijų kaupimo bendrovė privalo pateikti priežiūros institucijai ir viešai skelbti savo veiklos ir finansinės būklės ataskaitas priežiūros institucijos nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
+
+Nr. XI-1679, 2011-11-17, Žin., 2011, Nr. 146-6825 (2011-12-01), i. k. 1111010ISTA0XI-1679
 
 3. Pensijų kaupimo bendrovė privalo ne rečiau kaip kartą per kalendorinius metus pranešti kiekvienam dalyviui apie jo asmeninėje pensijų sąskaitoje apskaičiuoto pensijų turto dydį. Bendrovė privalo sudaryti sąlygas dalyviui pagal pareikalavimą gauti informaciją apie savo pensijų kaupimo sąskaitos būklę, lėšų investavimo strategiją ir pagal ją gautą investicinę grąžą bei bendrovės finansinės veiklos audito išvadas.
 
@@ -326,4 +338,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1822, 2011-12-20, Žin., 2011, Nr. 160-7574 (2011-12-28), i. k. 1111010ISTA0XI-1822
 
 Lietuvos Respublikos pensijų sistemos reformos įstatymo 4 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1679, 2011-11-17, Žin., 2011, Nr. 146-6825 (2011-12-01), i. k. 1111010ISTA0XI-1679
+
+Lietuvos Respublikos pensijų sistemos reformos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas
 
