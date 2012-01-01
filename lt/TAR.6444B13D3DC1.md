@@ -4,7 +4,7 @@ identifier: "TAR.6444B13D3DC1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2010-10-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6444B13D3DC1"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Europos bendrovių įstatymas
 
-Suvestinė redakcija nuo 2010-10-01 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2024-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 78-2710, i. k. 1041010ISTA0IX-2199
 
@@ -62,7 +62,11 @@ Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. 1091010IST
 
 7. Teisingumo ministerija Vyriausybės nustatyta tvarka turi teisę prieštarauti Europos bendrovės buveinės perkėlimui į kitą valstybę, jei toks bendrovės buveinės perkėlimas pažeistų viešuosius interesus. Ginčai dėl buveinės perkėlimo į kitą valstybę sprendžiami teismo tvarka.
 
-8. Lietuvos Respublikos vertybinių popierių komisija arba Lietuvos bankas jų veiklą reglamentuojančių teisės aktų nustatyta tvarka turi teisę prieštarauti Europos bendrovės buveinės perkėlimui į kitą valstybę, jeigu Europos bendrovės vykdoma veikla priskirta šių institucijų priežiūrai.
+8. Lietuvos bankas jo veiklą reglamentuojančių teisės aktų nustatyta tvarka turi teisę prieštarauti Europos bendrovės buveinės perkėlimui į kitą valstybę, jeigu Europos bendrovės vykdoma veikla priskirta Lietuvos banko priežiūrai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1694, 2011-11-17, Žin., 2011, Nr. 146-6840 (2011-12-01), i. k. 1111010ISTA0XI-1694
 
 3 straipsnis. Europos bendrovės steigimas
 
@@ -177,4 +181,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. 1091010ISTA00XI-565
 
 Lietuvos Respublikos Europos bendrovių įstatymo 2, 3 ir 5 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1694, 2011-11-17, Žin., 2011, Nr. 146-6840 (2011-12-01), i. k. 1111010ISTA0XI-1694
+
+Lietuvos Respublikos Europos bendrovių įstatymo 2 straipsnio pakeitimo įstatymas
 
