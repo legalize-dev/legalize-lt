@@ -4,7 +4,7 @@ identifier: "TAR.9A3BDFB862EA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-09-25"
-last_updated: "2008-06-21"
+last_updated: "2012-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3BDFB862EA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,15 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos hipotekinių obligacijų ir hipotekinio kreditavimo įstatymas
 
-Suvestinė redakcija nuo 2008-06-21 iki 2011-12-31
+Įstatymas netenka galios 2022-07-22:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1345, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15419
+
+Lietuvos Respublikos hipotekinių obligacijų ir hipotekinio kreditavimo įstatymo Nr. IX-1746 pripažinimo netekusiu galios įstatymas
+
+Suvestinė redakcija nuo 2012-01-01 iki 2022-07-21
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 97-4317, i. k. 1031010ISTA0IX-1746
 
@@ -168,13 +176,39 @@ Hipotekinių obligacijų išpirkimui užtikrinti įkeistos reikalavimo teisės p
 
 11 straipsnis. Kredito įstaigų priežiūra
 
-1. Kredito įstaigų veiklą prižiūri Lietuvos bankas.
+Kredito įstaigų veiklą, hipotekinių obligacijų leidimą, informacijos atskleidimą jas įsigyjantiems investuotojams, šių obligacijų viešąją antrinę apyvartą ir jų apskaitą Lietuvos centriniame vertybinių popierių depozitoriume ir vertybinių popierių viešosios apyvartos tarpininkų veiklą prižiūri Lietuvos bankas.
 
-2. Hipotekinių obligacijų leidimą, informacijos atskleidimą jas įsigyjantiems investuotojams, šių obligacijų viešąją antrinę apyvartą bei jų apskaitą Lietuvos centriniame vertybinių popierių depozitoriume ir vertybinių popierių viešosios apyvartos tarpininkų veiklą prižiūri Lietuvos Respublikos vertybinių popierių komisija.
+Straipsnio pakeitimai:
 
-PENKTASIS SKIRSNIS
+Nr. XI-1683, 2011-11-17, Žin., 2011, Nr. 146-6829 (2011-12-01), i. k. 1111010ISTA0XI-1683
 
-BAIGIAMOSIOS NUOSTATOS
+5 skirsnis. Neteko galios nuo 2012-01-01
+
+Skirsnio naikinimas:
+
+Nr. XI-1683, 2011-11-17, Žin. 2011, Nr. 146-6829 (2011-12-01), i. k. 1111010ISTA0XI-1683
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                                   ROLANDAS PAKSAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1584, 2008-06-05, Žin., 2008, Nr. 71-2710 (2008-06-21), i. k. 1081010ISTA00X-1584
+
+Lietuvos Respublikos hipotekinių obligacijų ir hipotekinio kreditavimo įstatymo 3 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1683, 2011-11-17, Žin., 2011, Nr. 146-6829 (2011-12-01), i. k. 1111010ISTA0XI-1683
+
+Lietuvos Respublikos hipotekinių obligacijų ir hipotekinio kreditavimo įstatymo 11 straipsnio pakeitimo ir penktojo skirsnio pripažinimo netekusiu galios įstatymas
 
 12 straipsnis.       Pasiūlymai Lietuvos bankui ir Lietuvos Respublikos vertybinių popierių komisijai
 
