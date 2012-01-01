@@ -1,0 +1,55 @@
+---
+title: "Lietuvos Respublikos pensijų sistemos reformos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas"
+identifier: "TAR.B7713C47C1CB"
+country: "lt"
+rank: "istatymas"
+publication_date: "2011-11-17"
+last_updated: "2012-01-01"
+status: "repealed"
+source: "https://e-tar.lt/portal/lt/legalAct/TAR.B7713C47C1CB"
+department: "Lietuvos Respublikos Seimas"
+tar_code: "1111010ISTA0XI-1679"
+document_number: "XI-1679"
+published_in_tar: "2011-11-17"
+document_status: "registruotas TA registre"
+---
+# Lietuvos Respublikos pensijų sistemos reformos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS PENSIJŲ SISTEMOS REFORMOS ĮSTATYMO 7 IR 8
+
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+LIETUVOS RESPUBLIKOS  PENSIJŲ SISTEMOS REFORMOS ĮSTATYMO 7 IR 8 STRAIPSNIŲ PAKEITIMO  ĮSTATYMAS
+
+2011 m. lapkričio 17 d. Nr. XI-1679
+
+Vilnius
+
+(Žin., 2002, Nr. 123-5511; 2003, Nr. 75-3474; 2004, Nr. 171-6301)
+
+1 straipsnis. 7 straipsnio 3, 5 dalių pakeitimas ir 6 dalies pripažinimas netekusia galios
+
+1. Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
+
+„3. Pensijų kaupimo bendrovių valstybinę priežiūrą įstatymų nustatyta tvarka atlieka Lietuvos bankas (toliau – priežiūros institucija).“
+
+2. Pakeisti 7 straipsnio 5 dalį ir ją išdėstyti taip:
+
+„5. Pensijų kaupimo bendrovių veiklos priežiūros institucija įstatymų nustatyta tvarka turi teikti Socialinės apsaugos ir darbo ministerijai informaciją apie pensijų kaupimo veiklą.“
+
+3. 7 straipsnio 6 dalį pripažinti netekusia galios.
+
+2 straipsnis. 8 straipsnio 2 dalies pakeitimas
+
+Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
+
+„2. Pensijų kaupimo bendrovė privalo pateikti priežiūros institucijai ir viešai skelbti savo veiklos ir finansinės būklės ataskaitas priežiūros institucijos nustatyta tvarka.“
+
+3 straipsnis. Įstatymo įsigaliojimas
+
+Šis įstatymas įsigalioja 2012 m. sausio 1 d.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
