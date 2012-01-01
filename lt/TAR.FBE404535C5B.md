@@ -4,7 +4,7 @@ identifier: "TAR.FBE404535C5B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-10-08"
-last_updated: "2006-07-04"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FBE404535C5B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -25,6 +25,10 @@ paskelbtas: Žin., 1991, Nr. 30-804
 Neoficialus
 
 įstatymo tekstas
+
+Aktuali
+
+įstatymo redakcija nuo 2012-01-01
 
 LIETUVOS RESPUBLIKOS
 
@@ -58,9 +62,9 @@ NUOSTATOS
 
 Šis Įstatymas nustato Lietuvos Respublikos transporto viešojo
 
-administravimo, vežėjų (operatorių) ir transporto infrastruktūros valdytojų
+administravimo, vežėjų ir transporto infrastruktūros valdytojų veiklos,
 
-veiklos, valstybės pagalbos plėtojant transporto infrastruktūrą ir jos valdymo
+valstybės pagalbos plėtojant transporto infrastruktūrą ir jos valdymo
 
 bendruosius principus, transporto infrastruktūros valdytojų teisinį statusą, jų
 
@@ -75,20 +79,6 @@ veikla susijusių santykių reglamentavimo pagrindus.
 Įstatymas nereglamentuoja karinio, bevariklio ir vamzdynų transporto veiklos,
 
 jeigu kiti įstatymai nenustato ko kita.
-
-3
-
-dalies redakcija iki 2006 m. rugsėjo 1 d.:
-
-3.
-
-Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu šio
-
-Įstatymo priede.
-
-3
-
-dalies redakcija nuo 2006 m. rugsėjo 1 d.:
 
 3.
 
@@ -105,6 +95,208 @@ Nr. X-214, 2005-05-19,
 Nr. X-747, 2006-07-04,
 
 Žin., 2006, Nr. 82-3250 (2006-07-27)
+
+Nr.
+
+XI-1744,
+
+2011-11-29, Žin., 2011, Nr. 150-7049 (2011-12-08)
+
+Nr.
+
+XI-1832,
+
+2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
+
+2
+
+straipsnis. Pagrindinės šio Įstatymo sąvokos
+
+1.
+
+Intelektinės transporto
+
+sistemos – informacinėmis ir
+
+elektroninių ryšių technologijomis grindžiamos sistemos, skirtos geležinkelių,
+
+kelių, jūrų, oro ir vidaus vandenų transporto eismui, įskaitant infrastruktūrą,
+
+transporto priemones ir naudotojus, elektroninį keleivinio transporto bilietą,
+
+valdyti, taip pat sąsajoms tarp šių transporto rūšių užtikrinti.
+
+2.
+
+Intelektinių transporto sistemų
+
+paslauga – intelektinių transporto
+
+sistemų prietaikos veikimo užtikrinimas tinkamai parengtoje organizacinėje ir
+
+operacinėje sistemoje, siekiant padidinti naudotojo saugumą ir patogumą ir
+
+(arba) palengvinti transporto ir kelionių operacijas, padidinti jų veiksmingumą
+
+arba padėti jas atlikti.
+
+3.
+
+Intelektinių transporto sistemų
+
+prietaika – intelektinių transporto
+
+sistemų taikymo operacinė priemonė.
+
+4. Kelionių duomenys – viešojo transporto
+
+tvarkaraščiai, tarifai ir kiti duomenys, būtini informacijai apie keliones
+
+daugiarūšiu transportu teikti prieš keliones ir jų metu, siekiant sudaryti
+
+palankesnes kelionių planavimo, užsakymo ir pritaikymo sąlygas.
+
+5. Rinkliava
+
+už naudojimąsi transporto infrastruktūros objektu (toliau – rinkliava)
+
+– už naudojimąsi transporto infrastruktūros objektu jo savininko nustatytas
+
+užmokestis, kurį to objekto naudotojas moka jo valdytojui ar savininkui.
+
+6. Transportas
+
+– sudėtinė Lietuvos Respublikos ūkio dalis, skirta viešiesiems ir ūkio
+
+subjektų poreikiams tenkinti – keleiviams, bagažui ir (arba) kroviniams vežti.
+
+7. Transporto
+
+infrastruktūra – sausumos ir vandens, oro kelių, eismo valdymo sistemų, su
+
+jais susijusių statinių, specialiai įrengtų teritorijų, įrenginių ir
+
+konstrukcijų visuma, skirta transporto veiklai užtikrinti.
+
+8. Transporto
+
+infrastruktūros objektas – atskiras transporto infrastruktūros elementas,
+
+kuris gali savarankiškai funkcionuoti.
+
+9. Transporto
+
+infrastruktūros objekto naudotojas – transporto priemonių savininkas arba
+
+valdytojas, taip pat ūkio subjektas, kurio veikla galima tik naudojantis
+
+transporto infrastruktūros objektu.
+
+10. Transporto
+
+infrastruktūros objekto valdytojas – fizinis asmuo, juridinis asmuo
+
+ar kita organizacija ar jų padalinys (toliau – fizinis asmuo ar juridinis asmuo),
+
+teisėtai valdantys transporto infrastruktūros objektą.
+
+11. Transporto
+
+objektai – transporto infrastruktūra, transporto priemonės ir kitos su
+
+transporto veikla susijusios priemonės.
+
+12. Transporto
+
+priemonė – bet koks savaeigis mechanizmas ar mechanizmų junginys
+
+keleiviams, bagažui ir (arba) kroviniams vežti.
+
+13. Transporto
+
+priemonės valstybinė techninė apžiūra (priežiūra) – Lietuvos Respublikoje
+
+įregistruotos transporto priemonės privalomas periodinis techninės būklės
+
+patikrinimas Lietuvos Respublikos teisės aktų nustatyta tvarka.
+
+14.
+
+Transporto veikla – keleivių, bagažo ir (arba) krovinių vežimas transporto
+
+priemonėmis, geležinkelių, kelių, oro ir vandens transporto infrastruktūros
+
+valdymas, plėtra ir priežiūra, kelių tiesimas ir priežiūra, taip pat kita
+
+veikla, tiesiogiai susijusi su transporto infrastruktūra, keleivių, bagažo ir
+
+(arba) krovinių vežimu.
+
+15. Vežėjas
+
+– fizinis arba juridinis asmuo, kuris verčiasi keleivių, bagažo ir (arba)
+
+krovinių vežimu ir atitinka Lietuvos Respublikos įstatymų nustatytas sąlygas
+
+bei reikalavimus.
+
+16. Viešasis transportas –
+
+keleivių, bagažo ir (arba) krovinių vežimo nustatytais maršrutais nustatytu
+
+laiku paslauga, teikiama visiems, kurie kreipiasi.
+
+17. Viešoji
+
+transporto infrastruktūra – transporto infrastruktūra, nuosavybės teise
+
+priklausanti valstybei ar savivaldybėms ir skirta keleiviams, bagažui ir (arba)
+
+kroviniams vežti.
+
+18. Visuomenės aptarnavimo
+
+įsipareigojimai – įsipareigojimai organizuoti darbą, vežti ir laikytis
+
+nustatytų tarifų, kurių vežėjas, atsižvelgdamas į komercinius interesus,
+
+neprisiimtų arba neprisiimtų tokiu mastu ar tokiomis pačiomis sąlygomis;
+
+įsipareigojimas organizuoti darbą – įsipareigojimas, nustatytas vežėjui, kuris
+
+turi teisę dirbti pagal licenciją ar leidimą bet kokio maršruto ar įrangos atžvilgiu,
+
+kad būtų užtikrintas transporto paslaugų teikimo nenutrūkstamumas, reguliarumas
+
+ir atitinkamas mastas; įpareigojimas vežti – įpareigojimas, nustatytas vežėjui
+
+priimti ir vežti keleivius ar krovinius, taikant konkrečius tarifus ir pagal
+
+nustatytas sąlygas; įsipareigojimas dėl tarifų – įpareigojimas, nustatytas
+
+vežėjui, kad jis tam tikroms keleivių kategorijoms, tam tikros kategorijos
+
+kroviniams arba atitinkamiems maršrutams taikytų valstybės ar savivaldybių
+
+institucijų patvirtintus tarifus, kurie neatitinka vežėjo komercinių interesų.
+
+Straipsnio pakeitimai:
+
+Nr. X-214, 2005-05-19,
+
+Žin., 2005, Nr. 71-2560 (2005-06-07)
+
+Nr.
+
+XI-1744,
+
+2011-11-29, Žin., 2011, Nr. 150-7049 (2011-12-08)
+
+Nr.
+
+XI-1832,
+
+2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 
 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
@@ -208,37 +400,35 @@ nuosavybės teise priklausanti valstybei ar savivaldybėms ir skirta visuomenės
 
 poreikiams tenkinti vežti keleivius, bagažą, krovinius.
 
-13. Visuomenės
+13. Kitos
 
-aptarnavimo įsipareigojimai - įsipareigojimai organizuoti
+šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2007 m.
 
-darbą, vežti ir laikytis nustatytų tarifų, kurių vežėjas (operatorius), atsižvelgdamas į komercinius interesus, neprisiimtų arba
+spalio 23 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1370/2007 dėl
 
-neprisiimtų tokiu mastu ar tokiomis pačiomis sąlygomis; įsipareigojimas
+keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinančiame
 
-organizuoti darbą - įsipareigojimas nustatytas vežėjui (operatoriui), kuris turi teisę dirbti pagal licenciją ar leidimą bet
+Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 (toliau –
 
-kokio maršruto ar įrangos atžvilgiu, kad būtų užtikrintas transporto paslaugų
+Reglamentas (EB) Nr. 1370/2007) ir 2008 m. rugsėjo 24 d. Europos Parlamento
 
-teikimo nenutrūkstamumas, reguliarumas ir atitinkamas mastas; įpareigojimas
+ir Tarybos reglamente (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo
 
-vežti - įpareigojimas, nustatytas vežėjui (operatoriui) priimti ir vežti keleivius ar krovinius, taikant
+Bendrijoje bendrųjų taisyklių (toliau – Reglamentas
 
-konkrečius tarifus ir pagal nustatytas sąlygas; įsipareigojimas dėl tarifų -
-
-įpareigojimas, nustatytas vežėjui (operatoriui), kad
-
-jis tam tikroms keleivių kategorijoms, tam tikros kategorijos kroviniams arba
-
-atitinkamiems maršrutams taikytų valstybės ar savivaldybių institucijų
-
-patvirtintus tarifus, kurie neatitinka vežėjo (operatoriaus)  komercinių interesų.
+(EB) Nr. 1008/2008).
 
 Straipsnio pakeitimai:
 
 Nr. X-214, 2005-05-19,
 
 Žin., 2005, Nr. 71-2560 (2005-06-07)
+
+Nr.
+
+XI-1744,
+
+2011-11-29, Žin., 2011, Nr. 150-7049 (2011-12-08)
 
 3 straipsnis. Transporto veiklos užtikrinimas
 
@@ -256,21 +446,15 @@ infrastruktūros objektų naudotojams, taip pat šios infrastruktūros naudotoja
 
 iš užsienio, remiantis tarptautinėmis sutartimis ir susitarimais;
 
-2)
+2) transporto
 
-transporto infrastruktūros valdymo ir vežėjo (operatoriaus) veiklos atskyrimą;
+infrastruktūros valdymo ir vežėjo veiklos atskyrimą;
 
-3)
+3) vežėjų
 
-vežėjų (operatorių) patekimo į transporto paslaugų rinką nediskriminacinių
+patekimo į transporto paslaugų rinką nediskriminacinių sąlygų nustatymą;
 
-sąlygų nustatymą;
-
-4)
-
-vežėjų (operatorių) veiklos savarankiškumą, taip pat  laisvą ir sąžiningą
-
-konkurenciją transporto paslaugų rinkoje;
+4) vežėjų veiklos savarankiškumą, taip pat laisvą ir sąžiningą konkurenciją transporto paslaugų rinkoje;
 
 5)
 
@@ -284,6 +468,14 @@ kombinuotų vežimų sistemos kūrimo ir plėtojimo skatinimą, taip pat šiuo
 
 pagrindu remiantis ir tranzito skatinimą.
 
+Straipsnio pakeitimai:
+
+Nr.
+
+XI-1832,
+
+2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
+
 4 straipsnis. Transporto viešasis administravimas
 
 1.
@@ -292,19 +484,17 @@ Transporto viešąjį administravimą vykdo Vyriausybė, Susisiekimo ministerija
 
 savivaldybių institucijos.
 
-2.
+2. (Neteko
 
-Vyriausybė formuoja subalansuotą valstybės transporto politiką ir koordinuoja
-
-jos įgyvendinimą.
+galios nuo 2012-01-01)
 
 3.
 
 Susisiekimo ministerija:
 
-1)
+1) formuoja valstybės transporto
 
-įgyvendina valstybės transporto politiką;
+politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
 
 2)
 
@@ -348,6 +538,14 @@ Savivaldybių institucijos formuoja viešojo vietinio transporto veiklos
 
 strategiją ir organizuoja jos įgyvendinimą.
 
+Straipsnio pakeitimai:
+
+Nr.
+
+XI-1832,
+
+2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
+
 5 straipsnis. Transporto rūšys
 
 Transporto rūšys pagal šį Įstatymą yra šios: geležinkelių, kelių,
@@ -364,9 +562,7 @@ kombinuotų vežimų veiklos ypatumus nustato specialieji transporto rūšių
 
 priklausyti Lietuvos valstybei, savivaldybėms, Lietuvos Respublikos ir užsienio
 
-fiziniams bei juridiniams asmenims, užsienio juridinių asmenų filialams arba
-
-atstovybėms.
+fiziniams asmenims ir juridiniams asmenims.
 
 2.
 
@@ -376,23 +572,23 @@ uostų infrastruktūra, skrydžių valdymo sistemos įrenginiai, valstybinės
 
 reikšmės vidaus vandenų keliai, valstybinių jūrų uostų infrastruktūra yra Lietuvos valstybės nuosavybė.
 
-3. Viešosios
+3.
 
-transporto infrastruktūros objektais negali būti užtikrinami trečiųjų asmenų
+Viešosios transporto infrastruktūros objektais negali būti užtikrinami trečiųjų
 
-įsipareigojimai. Į juos negali būti nukreipti išieškojimai pagal kreditorių
+asmenų įsipareigojimai. Į juos negali būti nukreipti išieškojimai pagal
 
-reikalavimus.
+kreditorių reikalavimus.
 
 4.
 
-Viešosios transporto infrastruktūros objektus, žemę, akvatoriją (vandens plotus),
+Viešosios transporto infrastruktūros objektus, žemę, akvatoriją (vandens
 
-kitą priskirtą ar sukurtą turtą viešosios transporto infrastruktūros valdytojas
+plotus), kitą priskirtą ar sukurtą turtą viešosios transporto infrastruktūros
 
-valdo, naudoja bei disponuoja turto patikėjimo teisėmis vadovaudamasis šiuo ir
+valdytojas valdo, naudoja bei disponuoja turto patikėjimo teisėmis
 
-kitais įstatymais, administraciniu aktu ar sutartimi.
+vadovaudamasis šiuo ir kitais įstatymais, administraciniu aktu ar sutartimi.
 
 Straipsnio
 
@@ -408,6 +604,12 @@ Nr. IX-2196,
 
 2004-04-29, Žin., 2004, Nr. 73-2530 (2004-04-30)
 
+Nr.
+
+XI-1832,
+
+2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
+
 7 straipsnis. Transporto teisinių  santykių reglamentavimas
 
 1.
@@ -418,9 +620,9 @@ sutartys, šis Įstatymas, specialieji transporto rūšių įstatymai ir kodeksa
 
 bei kiti teisės aktai. Jeigu specialiuosiuose transporto rūšių įstatymuose ir
 
-kodeksuose numatytos kitokios nuostatos negu šiame Įstatyme, taikomos
+kodeksuose numatytos kitokios nuostatos negu šiame Įstatyme, taikomos specialiųjų
 
-specialiųjų transporto rūšių įstatymų ir kodeksų nuostatos.
+transporto rūšių įstatymų ir kodeksų nuostatos.
 
 2.
 
@@ -458,11 +660,11 @@ rūšies  ypatumus.
 
 1.
 
-Transporto veiklos paslaugų tarifai ir kainos grindžiamos laisvosios rinkos
+Transporto veiklos paslaugų tarifai ir kainos grindžiamos laisvosios rinkos kainodaros
 
-kainodaros principais ir nustatomi sutartyse tarp šalių, jeigu kiti įstatymai
+principais ir nustatomi sutartyse tarp šalių, jeigu kiti įstatymai nenustato ko
 
-nenustato ko kita.
+kita.
 
 2.
 
@@ -506,19 +708,17 @@ apžiūros (priežiūros) taisykles nustato ir jų vykdymą kontroliuoja Vyriaus
 
 arba jos įgaliota institucija. Transporto priemonių valstybinę techninę apžiūrą
 
-(priežiūrą) vykdančių įmonių skaičių, jų išdėstymą šalies teritorijoje,
+(priežiūrą) vykdančių įmonių skaičių, jų išdėstymą šalies teritorijoje, atsižvelgiant
 
-atsižvelgiant į transporto priemonių valstybinės techninės apžiūros
+į transporto priemonių valstybinės techninės apžiūros (priežiūros) poreikį,
 
-(priežiūros) poreikį, nustato Vyriausybės įgaliota institucija pagal jos
+nustato Vyriausybės įgaliota institucija pagal jos patvirtintą metodiką. Įmonės
 
-patvirtintą metodiką. Įmonės gali atlikti transporto priemonių valstybinę
+gali atlikti transporto priemonių valstybinę techninę apžiūrą (priežiūrą) tik
 
-techninę apžiūrą (priežiūrą) tik turėdamos įgaliotos institucijos suteiktus
+turėdamos įgaliotos institucijos suteiktus įgaliojimus (leidimus). Įgaliojimai
 
-įgaliojimus (leidimus). Įgaliojimai (leidimai) suteikiami sutartimi arba
-
-administraciniu aktu.
+(leidimai) suteikiami sutartimi arba administraciniu aktu.
 
 4. Transporto priemonių registravimo tvarką nustato,
 
@@ -566,6 +766,8 @@ Viešojo transporto objektai, skirti keleiviams aptarnauti, turi būti nuoseklia
 
 pritaikomi patogiai ir saugiai jais naudotis neįgaliesiems.
 
+Straipsnio redakcija nuo 2012-02-27:
+
 15 straipsnis. Viešosios transporto
 
 infrastruktūros valdytojo veiklos ypatumai
@@ -604,9 +806,17 @@ nuomą, kelių priežiūros ir plėtros programos lėšas), valdytojas naudoja p
 
 viešosios transporto infrastruktūros savininko ar jo įgaliotos institucijos
 
-patvirtintą pajamų ir išlaidų sąmatą bei patvirtintas specialiąsias programas
+patvirtintą pajamų ir išlaidų sąmatą bei patvirtintas programas šio straipsnio
 
-šio straipsnio 1 dalyje numatytiems tikslams vykdyti.
+1 dalyje numatytiems tikslams vykdyti.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XI-1832,
+
+2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 
 18 straipsnis. Viešosios transporto
 
@@ -668,23 +878,21 @@ vežant užsieniečius
 
 1.
 
-Jeigu asmuo, kuris nėra Europos Sąjungos valstybės narės pilietis (toliau –
+Jeigu asmuo, kuris nėra Europos Sąjungos valstybės narės pilietis (toliau – užsienietis),
 
-užsienietis), neįleidžiamas į Lietuvos Respubliką arba vežėjas, kuris verčiasi
+neįleidžiamas į Lietuvos Respubliką arba vežėjas, kuris verčiasi keleivių
 
-keleivių vežimu, įsipareigojęs nuvežti užsienietį tranzitu per Lietuvos Respubliką
+vežimu, įsipareigojęs nuvežti užsienietį tranzitu per Lietuvos Respubliką į
 
-į paskirties valstybę, atsisako jį vežti, arba paskirties valstybės
+paskirties valstybę, atsisako jį vežti, arba paskirties valstybės institucijos
 
-institucijos neleidžia užsieniečiui, važiavusiam per Lietuvos Respubliką
+neleidžia užsieniečiui, važiavusiam per Lietuvos Respubliką tranzitu, įvažiuoti
 
-tranzitu, įvažiuoti ir išsiunčia jį į Lietuvos Respubliką, vežėjas, kuris
+ir išsiunčia jį į Lietuvos Respubliką, vežėjas, kuris verčiasi keleivių vežimu,
 
-verčiasi keleivių vežimu, atvežęs užsienietį iki Lietuvos Respublikos valstybės
+atvežęs užsienietį iki Lietuvos Respublikos valstybės sienos, privalo
 
-sienos, privalo nedelsdamas įvykdyti šio straipsnio 2 arba 3 dalyje numatytus
-
-reikalavimus.
+nedelsdamas įvykdyti šio straipsnio 2 arba 3 dalyje numatytus reikalavimus.
 
 2.
 
@@ -731,10 +939,6 @@ Vyriausybė arba jos įgaliota institucija nustato lėšų, susijusių su užsie
 buvimu pasienio kontrolės punkte ir sugrąžinimu į užsienio valstybę, padengimo
 
 tvarką ir šių lėšų dydį.
-
-Įstatymas papildomas 19(1)
-
-straipsniu nuo 2006 m. rugsėjo 1 d.:
 
 19(1) straipsnis.
 
@@ -874,10 +1078,6 @@ Valstybės sienos apsaugos tarnyba nustato, kad užsieniečio kelionės dokument
 
 kuris reikalingas įvažiuoti į Lietuvos Respubliką, yra suklastotas.
 
-20
-
-straipsnis papildomas 4 dalimi nuo 2006 m. rugsėjo 1 d.:
-
 4.
 
 Jeigu Valstybės sienos apsaugos tarnyba nustato, kad šio Įstatymo 19(1)
@@ -892,9 +1092,9 @@ vienuolikos tūkstančių iki aštuoniolikos tūkstančių litų bauda už kiekv
 
 reisą, kuriuo buvo vežami užsieniečiai, apie kuriuos vežėjas nepateikė šio
 
-Įstatymo 19(1) straipsnio 2 dalyje nurodytos informacijos arba pateikė
+Įstatymo 19(1) straipsnio 2 dalyje nurodytos informacijos arba
 
-ne visą ar neteisingą informaciją.
+pateikė ne visą ar neteisingą informaciją.
 
 Straipsnio pakeitimai:
 
@@ -905,32 +1105,6 @@ Nr. X-747, 2006-07-04,
 21 straipsnis. Įstatymo pažeidimo
 
 protokolas ir bylų nagrinėjimo terminai
-
-1
-
-dalies redakcija iki 2006 m. rugsėjo 1 d.:
-
-1.
-
-Valstybės sienos apsaugos tarnybos įgalioti darbuotojai (pareigūnai), nustatę,
-
-kad pažeisti šio Įstatymo 20 straipsnio 1 dalies reikalavimai, surašo įstatymo
-
-pažeidimo protokolą. Protokole nurodoma jo surašymo data ir vieta, protokolą
-
-surašiusio asmens pareigos, pavardė, vardas, žinios apie šį Įstatymą pažeidusį
-
-asmenį, šio Įstatymo pažeidimo padarymo vieta, laikas ir esmė, šio Įstatymo
-
-straipsnis, straipsnio dalis, kurios reikalavimus pažeidė asmuo, liudytojų ir
-
-nukentėjusiųjų, jeigu jų yra, pavardės, adresai, šį Įstatymą pažeidusio asmens
-
-paaiškinimas, kitokios žinios, būtinos bylai išspręsti.
-
-1
-
-dalies redakcija nuo 2006 m. rugsėjo 1 d.:
 
 1.
 
@@ -967,38 +1141,6 @@ Nr. X-747, 2006-07-04,
 22
 
 straipsnis. Bylos nagrinėjimo proceso dalyviai
-
-1
-
-dalies redakcija iki 2006 m. rugsėjo 1 d.:
-
-1. Nagrinėjant
-
-bylas dėl šio Įstatymo 20 straipsnio 1 dalyje numatytų pažeidimų, dalyvauja šie
-
-proceso dalyviai:
-
-1) šį Įstatymą
-
-pažeidęs asmuo;
-
-2) Valstybės
-
-sienos apsaugos tarnybos sprendimu – kiti asmenys, su kurių interesais
-
-tiesiogiai susijusi nagrinėjama byla;
-
-3) valstybės ir
-
-savivaldybių institucijų atstovai – šių institucijų prašymu;
-
-4) Valstybės
-
-sienos apsaugos tarnybos sprendimu – ekspertai, specialistai bei kiti asmenys.
-
-1
-
-dalies redakcija nuo 2006 m. rugsėjo 1 d.:
 
 1. Nagrinėjant
 
@@ -1042,7 +1184,27 @@ Nr. X-747, 2006-07-04,
 
 23
 
-straipsnio redakcija iki 2006 m. rugsėjo 1 d.:
+straipsnis. Pranešimas apie bylos nagrinėjimą
+
+Proceso
+
+šalims ne vėliau kaip prieš 5 darbo dienas iki bylos nagrinėjimo raštu
+
+pranešama apie nustatytus šio Įstatymo 19(1) straipsnio 1 dalyje
+
+arba 20 straipsnio 1 dalyje numatytus pažeidimus, bylos nagrinėjimo vietą ir
+
+laiką, taip pat pasiūloma susipažinti su bylos medžiaga, raštu pateikti
+
+paaiškinimus. Apie bylos nagrinėjimo vietą ir laiką kitiems proceso dalyviams
+
+pranešama raštu ne vėliau kaip prieš 3 darbo dienas iki bylos nagrinėjimo.
+
+Straipsnio pakeitimai:
+
+Nr. X-747, 2006-07-04,
+
+Žin., 2006, Nr. 82-3250 (2006-07-27)
 
 22 straipsnis.
 
@@ -1142,20 +1304,6 @@ sienos apsaugos tarnyba, išnagrinėjusi bylą, turi teisę priimti sprendimą:
 
 Įstatymo nustatytą baudą;
 
-1
-
-dalies 2 punkto redakcija iki 2006 m. rugsėjo 1 d.:
-
-2) atsisakyti
-
-skirti baudą ir bylą nutraukti, kai nėra šio Įstatymo 20 straipsnio 1 dalyje
-
-numatyto pažeidimo.
-
-1
-
-dalies 2 punkto redakcija nuo 2006 m. rugsėjo 1 d.:
-
 2)
 
 atsisakyti skirti baudą ir bylą nutraukti, kai nėra šio Įstatymo 19(1)
@@ -1174,9 +1322,9 @@ nurodytas sprendimas, papildomai nurodomi duomenys apie pažeidėją, pažeidimo
 
 padarymo aplinkybės, pažeidėjo kaltės įrodymai, kuriais grindžiamas sprendimas,
 
-šio Įstatymo straipsnis, nustatantis atsakomybę už pažeidimą, pažeidėjo paaiškinimai
+šio Įstatymo straipsnis, nustatantis atsakomybę už pažeidimą, pažeidėjo
 
-ir jų įvertinimas.
+paaiškinimai ir jų įvertinimas.
 
 3. Valstybės sienos apsaugos
 
@@ -1284,21 +1432,17 @@ PIRMININKO PAVADUOTOJAS                             
 
 MOTIEKA
 
-Vilnius, 1991 m. spalio 8 d.
+Vilnius,
+
+1991 m. spalio 8 d.
 
 Nr. I-1863
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos
+transporto veiklos
 
-transporto
-
-veiklos
-
-pagrindų
-
-įstatymo
+pagrindų įstatymo
 
 priedas
 
@@ -1312,17 +1456,25 @@ EUROPOS SĄJUNGOS TEISĖS AKTAI
 
 įgyvendinančios 1985 m. birželio 14 d. Šengeno susitarimą, 26 straipsnio
 
-nuostatų papildymo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p.
+nuostatų papildymo (OL 2004 m. specialusis leidimas, 19 skyrius, 4
 
-160).
+tomas, p. 160).
 
 2. 2004 m.
 
 balandžio 29 d. Tarybos direktyva 2004/82/EB dėl vežėjų įpareigojimo perduoti
 
-keleivių duomenis (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p.
+keleivių duomenis (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas,
 
-74).
+p. 74).
+
+3. 2010 m. liepos 7 d. Europos
+
+Parlamento ir Tarybos direktyva 2010/40/ES dėl kelių transporto ir jo sąsajų su
+
+kitų rūšių transportu srities intelektinių transporto sistemų diegimo sistemos
+
+(OL 2010 L 207, p. 1).
 
 Įstatymas papildytas priedu:
 
@@ -1335,6 +1487,18 @@ Priedo pakeitimai:
 Nr. X-747, 2006-07-04,
 
 Žin., 2006, Nr. 82-3250 (2006-07-27)
+
+Nr.
+
+XI-1744,
+
+2011-11-29, Žin., 2011, Nr. 150-7049 (2011-12-08)
+
+Nr.
+
+XI-1832,
+
+2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 
 ________________
 
@@ -1492,53 +1656,157 @@ VEIKLOS PAGRINDŲ ĮSTATYMO 1 STRAIPSNIO, TREČIOJO SKIRSNIO PAVADINIMO, 20, 21,
 
 išskyrus 11 straipsnį, įsigalioja nuo 2006 m. rugsėjo 1 d.
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-1744,
+
+2011-11-29, Žin., 2011, Nr. 150-7049 (2011-12-08)
+
+TRANSPORTO
+
+VEIKLOS PAGRINDŲ ĮSTATYMO 1, 2, 13 STRAIPSNIŲ IR ĮSTATYMO PRIEDO PAKEITIMO
+
+ĮSTATYMAS
+
+Šis
+
+įstatymas, išskyrus 6 straipsnį, įsigalioja 2012 m. sausio 1 d.
+
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-1832,
+
+2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
+
+TRANSPORTO
+
+VEIKLOS PAGRINDŲ ĮSTATYMO 1, 2, 3, 4, 6, 11, 13, 15 STRAIPSNIŲ PAKEITIMO IR
+
+PAPILDYMO, ĮSTATYMO PAPILDYMO 13(1) STRAIPSNIU IR ĮSTATYMO PRIEDO PAPILDYMO
+
+ĮSTATYMAS
+
+Šis įstatymas,
+
+išskyrus 6, 8, 10 ir 12 straipsnius, įsigalioja 2012 m. sausio 1 d.
+
+Šio įstatymo 6, 8 ir 10 straipsniai įsigalioja 2012 m. vasario 27
+
+d.
+
 ***
 
 Pabaiga ***
 
-Redagavo:
+Redagavo
 
-Aušrinė Trapinskienė (2006-09-04)
+Aušrinė Trapinskienė (2012-01-11)
 
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
-13 straipsnis. Visuomenės aptarnavimo organizavimas
+13 straipsnis. Viešųjų keleivinio transporto paslaugų teikimas
 
-1. Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybių
+1.
 
-institucijos užtikrina socialiai būtinų transporto paslaugų teikimą visuomenei.
+Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybių institucijos užtikrina
 
-Patiriami dėl šių paslaugų teikimo nuostoliai vežėjams (operatoriams) yra
+socialiai būtinų transporto paslaugų teikimą visuomenei. Patiriami dėl šių
 
-kompensuojami Vyriausybės ar jos įgaliotos institucijos ir (ar) savivaldybių.
+paslaugų teikimo nuostoliai vežėjams yra kompensuojami Vyriausybės ar jos
 
-Šiems visuomenės aptarnavimo įsipareigojimams vykdyti vežėjai (operatoriai) parenkami
+įgaliotos institucijos ir (ar) savivaldybių. Šiems visuomenės aptarnavimo
 
-konkurso tvarka.
+įsipareigojimams vykdyti vežėjai parenkami konkurso tvarka.
 
 2.
 
-Konkurso organizavimo bei visuomenės aptarnavimo sutarčių sudarymo ir
+Viešųjų paslaugų sutarčių turinį, trukmę, jų sudarymo sąlygas ir tvarką, vežėjo
 
-nutraukimo tvarką nustato Vyriausybė. Su konkurso nugalėtoju Vyriausybė ar jos
+(operatoriaus) nuostolių, patirtų vykdant viešųjų paslaugų įsipareigojimus,
 
-įgaliota institucija ir (ar) savivaldybės institucija sudaro visuomenės
+kompensavimo tvarką nustato Reglamentas (EB) Nr. 1370/2007 ir Reglamentas (EB)
 
-aptarnavimo sutartis, kuriose nustatomos keleivių vežimo sąlygos (paslaugų
-
-kokybė, veiklos nenutrūkstamumas, reguliarumas, mastas ir kiti reikalavimai),
-
-taip pat atlyginimo už suteikiamas paslaugas dydis ir tvarka. Visuomenės
-
-aptarnavimo sutarties galiojimo terminas – iki 5 metų.
+Nr. 1008/2008.
 
 3.
 
+Nuostolių, patirtų vykdant viešųjų paslaugų įsipareigojimą, kompensacijos
+
+apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+4.
+
 Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybės institucija,
 
-priėmusi sprendimą nutraukti visuomenės aptarnavimo sutartį, privalo sudaryti
+priėmusi sprendimą nutraukti viešųjų paslaugų sutartį, privalo sudaryti
 
 galimybę visuomenei naudotis alternatyvia transporto paslauga.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XI-1744,
+
+2011-11-29, Žin., 2011, Nr. 150-7049 (2011-12-08)
+
+Nr.
+
+XI-1832,
+
+2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
+
+Įstatymas papildomas straipsniu nuo 2012-02-27:
+
+131
+
+straipsnis. Intelektinių transporto sistemų koordinavimas
+
+1. Susisiekimo ministerija koordinuoja
+
+intelektinių transporto sistemų diegimą ir naudojimą.
+
+2. Susisiekimo ministras pagal
+
+kompetenciją leidžia teisės aktus, kuriuose nustatoma intelektinių transporto
+
+sistemų diegimo ir naudojimo tvarka Lietuvos Respublikoje.
+
+3. Viešojo keleivinio transporto
+
+kelionių duomenys kaupiami viešojo transporto kelionių duomenų informacinėje
+
+sistemoje, kurios valdytoją paskiria Vyriausybė ar jos įgaliota institucija.
+
+Viešojo transporto kelionių duomenų kaupimo tvarką nustato Vyriausybė ar jos
+
+įgaliota institucija. Vežėjai ir savivaldybės teikia viešojo transporto
+
+kelionių duomenis, susijusius su tvarkaraščiais ir tarifais, ir informuoja
+
+duomenų tvarkytoją apie jų pasikeitimus.
+
+Įstatymas papildytas straipsniu:
+
+Nr.
+
+XI-1832,
+
+2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 
 ANTRASIS
 
