@@ -4,7 +4,7 @@ identifier: "TAR.E72CF0A14EC1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-06-17"
-last_updated: "2010-12-11"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E72CF0A14EC1"
 department: "Lietuvos Respublikos Seimas"
@@ -19,6 +19,8 @@ entry_into_force_conditions: "1 straipsnio 2 dalis įsigalioja 2011 m. sausio 1 
 Įstatymas skelbtas: Žin., 2010, Nr. 76-3867
 
 Neoficialus įstatymo tekstas
+
+Aktuali įstatymo redakcija nuo 2012-01-01
 
 LIETUVOS RESPUBLIKOS
 
@@ -148,13 +150,15 @@ straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 „2) krašto
 
-apsaugos sistemos profesinės karo tarnybos kariai, kariai savanoriai ir aktyviojo
+apsaugos sistemos profesinės karo tarnybos kariai, kariai savanoriai ir
 
-rezervo kariai, pašaukti į pratybas, mokymus ar vykdyti tarnybos užduočių,
+aktyviojo rezervo kariai, pašaukti į pratybas, mokymus ar vykdyti tarnybos
 
-Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos
+užduočių, Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos
 
-civilinę krašto apsaugos tarnybą atliekantys statutiniai tarnautojai;“.
+ministerijos civilinę krašto apsaugos tarnybą atliekantys statutiniai
+
+tarnautojai;“.
 
 2. Pakeisti 4
 
@@ -186,77 +190,27 @@ atitinkančiais santykiais susijusias pajamas iš savo individualios įmonės ar
 
 papildomai pensijos dalims (šio įstatymo 3 straipsnio 1 punktas).“
 
-3. Pakeisti 4
+3. Neteko galios
 
-straipsnio 3 dalį ir ją išdėstyti taip:
+nuo 2012-01-01
 
-„3. Savarankiškai
+Straipsnio pakeitimai:
 
-dirbantys asmenys, išskyrus tuos, kurie verčiasi individualia veikla turėdami
+Nr. XI-1794,
 
-verslo liudijimus, privalomai draudžiami pensijų socialiniu draudimu
-
-pagrindinei ir papildomai pensijos dalims (šio įstatymo 3 straipsnio 1
-
-punktas), ligos ir motinystės socialiniu draudimu, kai draudžiama tik
-
-motinystės, tėvystės ir motinystės (tėvystės) išmokoms gauti (šio įstatymo 3
-
-straipsnio 2 punktas), ir sveikatos draudimu (šio įstatymo 3 straipsnio 5
-
-punktas).“
+2011-12-13, Žin., 2011, Nr. 160-7563 (2011-12-28)
 
 3
 
 straipsnis. 7 straipsnio 2 dalies 1 ir 2 punktų pakeitimas
 
-1. Pakeisti 7
+1 Neteko galios
 
-straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
+nuo 2012-01-01
 
-„1)
+2. Neteko galios
 
-individualios įmonės savininko, taip pat ūkinės bendrijos tikrojo nario
-
-socialinio draudimo įmokų bazę sudaro individualios įmonės ar ūkinės bendrijos
-
-išsiimama individualios įmonės savininko ar ūkinės bendrijos tikrojo nario
-
-asmeniniams poreikiams lėšų suma, kuri deklaruojama Valstybinei mokesčių
-
-inspekcijai, kaip su darbo santykiais ar jų esmę atitinkančiais santykiais
-
-susijusios pajamos. Šiame punkte nurodytų asmenų privalomojo sveikatos draudimo
-
-įmokų bazę sudaro minimalioji mėnesinė alga;“.
-
-2. Pakeisti 7
-
-straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
-
-„1)
-
-individualios įmonės savininko, taip pat ūkinės bendrijos tikrojo nario
-
-socialinio draudimo įmokų bazę sudaro individualios įmonės ar ūkinės bendrijos
-
-Fondo valdybos su Valstybine mokesčių inspekcija prie Finansų ministerijos
-
-nustatyta tvarka deklaruoto ir su Fondo valdybos teritoriniu skyriumi bei
-
-teritorine valstybine mokesčių inspekcija suderinto dydžio lėšų suma, kuri kalendoriniais
-
-metais išsiimama individualios įmonės savininko ar ūkinės bendrijos tikrojo
-
-nario asmeniniams poreikiams ir kuri kalendorinių metų mėnesį negali būti
-
-mažesnė kaip minimalioji mėnesinė alga. Šios nuostatos netaikomos, jeigu
-
-individuali įmonė ar ūkinė bendrija veiklos laikinai nevykdo ir yra tai
-
-deklaravusi Mokesčių administravimo įstatymo ir jo įgyvendinamųjų teisės aktų
-
-nustatyta tvarka;“.
+nuo 2012-01-01
 
 3. Pakeisti 7
 
@@ -266,23 +220,23 @@ straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 
 kurie verčiasi individualia veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio
 
-įstatyme, socialinio draudimo įmokų bazę sudaro 50 procentų individualios
+įstatyme, socialinio draudimo įmokų bazę sudaro 50 procentų individualios veiklos
 
-veiklos apmokestinamųjų pajamų (neatėmus privalomojo sveikatos draudimo ir
+apmokestinamųjų pajamų (neatėmus privalomojo sveikatos draudimo ir valstybinio
 
-valstybinio socialinio draudimo įmokų) suma. Ūkininkų ir jų partnerių, kai
+socialinio draudimo įmokų) suma. Ūkininkų ir jų partnerių, kai žemės ūkio
 
-žemės ūkio valdos ekonominis dydis už praėjusių metų mokestinį laikotarpį nuo
+valdos ekonominis dydis už praėjusių metų mokestinį laikotarpį nuo sausio 1
 
-sausio 1 dienos iki gruodžio 31 dienos yra didesnis negu 14 europinio dydžio
+dienos iki gruodžio 31 dienos yra didesnis negu 14 europinio dydžio vienetų,
 
-vienetų, socialinio draudimo įmokų bazę sudaro kiekvieno asmens žemės ūkio
+socialinio draudimo įmokų bazę sudaro kiekvieno asmens žemės ūkio veiklos
 
-veiklos apmokestinamųjų pajamų (neatėmus privalomojo sveikatos draudimo ir
+apmokestinamųjų pajamų (neatėmus privalomojo sveikatos draudimo ir valstybinio
 
-valstybinio socialinio draudimo įmokų) suma, tačiau ne mažesnė negu 12
+socialinio draudimo įmokų) suma, tačiau ne mažesnė negu 12 minimaliųjų
 
-minimaliųjų mėnesinių algų ir ne didesnė negu 12 Lietuvos Respublikos Vyriausybės
+mėnesinių algų ir ne didesnė negu 12 Lietuvos Respublikos Vyriausybės
 
 patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma. Ūkininkų ir jų
 
@@ -295,6 +249,12 @@ dydžio vienetų arba mažesnis, socialinio draudimo įmokų baze laikoma 12
 minimaliųjų mėnesinių algų suma. Šeimynos dalyvių socialinio draudimo įmokų
 
 bazę sudaro šeimynos dalyvio išlaikymo pajamos, numatytos Šeimynų įstatyme.“
+
+Straipsnio pakeitimai:
+
+Nr. XI-1794,
+
+2011-12-13, Žin., 2011, Nr. 160-7563 (2011-12-28)
 
 4
 
@@ -412,23 +372,11 @@ straipsnis. Baigiamosios nuostatos
 
 3. Šio įstatymo
 
-2 straipsnio 2 dalis, 3 straipsnio 1 dalis ir 4 straipsnio 1 dalis
-
-įsigalioja 2010 m. liepos 1 d. ir galioja iki 2011 m. gruodžio 31 d.
-
-3 dalies redakcija nuo 2011 m. sausio 1
-
-d.:
-
-3. Šio įstatymo
-
-2 straipsnio 2 dalis ir 3 straipsnio 1 dalis įsigalioja 2010 m. liepos 1 d. ir
-
-galioja iki 2011 m. gruodžio 31 d.
+2 straipsnio 2 dalis įsigalioja 2010 m. liepos 1 d. ir galioja iki 2011 m. gruodžio 31 d.
 
 4. Šio įstatymo
 
-2 straipsnio 3 dalis, 3 straipsnio 2 dalis ir 4 straipsnio 2 dalis įsigalioja 2012 m. sausio 1 d.
+4 straipsnio 2 dalis įsigalioja 2012 m. sausio 1 d.
 
 5. Motinystės,
 
@@ -447,6 +395,10 @@ Straipsnio pakeitimai:
 Nr. XI-1166,
 
 2010-11-23, Žin., 2010, Nr. 145-7423 (2010-12-11)
+
+Nr. XI-1794,
+
+2011-12-13, Žin., 2011, Nr. 160-7563 (2011-12-28)
 
 Skelbiu šį
 
@@ -480,11 +432,29 @@ SOCIALINIO DRAUDIMO ĮSTATYMO 2, 4, 7 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 1, 4 
 
 Šio įstatymo 3 straipsnis įsigalioja 2011 m. sausio 1 d.
 
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1794,
+
+2011-12-13, Žin., 2011, Nr. 160-7563 (2011-12-28)
+
+VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
+
+2, 4, 7 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 2, 3 IR 5 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2012 m. sausio
+
+1 d.
+
 *** Pabaiga ***
 
-Redagavo Aušrinė
+Redagavo Aušrinė Trapinskienė
 
-Trapinskienė (2010-12-15)
+(2011-12-28)
 
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
