@@ -4,7 +4,7 @@ identifier: "TAR.779892D853B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-10"
-last_updated: "2011-09-01"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 58 straipsnis įsigalioja 2002-09-18.
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2011-09-01 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2013-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
 
@@ -80,11 +80,13 @@ Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010IST
 
 6. Finansinė garantija – finansų įstaigos įstatymų nustatyta tvarka suteikta garantija, kuria neatšaukiamai įsipareigojama išmokėti garantijoje nustatytą pinigų sumą, jeigu bus įvykdytos visos garantijoje nurodytos sąlygos.
 
-7. Finansų įmonė – Lietuvos Respublikos įmonė arba užsienio valstybės įmonės padalinys, kuris veikia Lietuvos Respublikoje įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatyta tvarka ir verčiasi vienos arba daugiau šio Įstatymo 3 straipsnio 1 dalies 2, 3, 5–17, 19 punktuose nurodytų finansinių paslaugų teikimu.
+7. Finansų įmonė – Lietuvos Respublikos įmonė arba užsienio valstybės įmonės padalinys, kurie veikia Lietuvos Respublikoje įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatyta tvarka ir kurių pagrindinę veiklos dalį sudaro vienos arba daugiau šio Įstatymo 3 straipsnio 1 dalyje, išskyrus 1 punktą, nurodytų finansinių paslaugų teikimas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1306, 2007-10-25, Žin., 2007, Nr. 117-4775 (2007-11-15), i. k. 1071010ISTA00X-1306
+
+Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
 
 8. Finansų įstaigos klientas – asmuo, kuriam finansų įstaiga teikia finansines paslaugas.
 
@@ -172,13 +174,15 @@ Papildyta straipsnio dalimi:
 
 Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
 
-24. Kredito įstaiga – įmonė, kuri turi licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionalių rinkos dalyvių ir jų skolinimu arba elektroninių pinigų išleidimu ir tvarkymu.
+24. Kredito įstaiga – įmonė, kuri turi licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionaliųjų rinkos dalyvių ir jų skolinimu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
 
 Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+
+Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -346,15 +350,11 @@ Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010IST
 
 4) numizmatikos tikslais monetomis iš tauriųjų metalų, nebuvusiomis arba buvusiomis apyvartoje.
 
-42. Valiutos keitimas (grynaisiais pinigais):
+42. Neteko galios nuo 2012-01-01
 
-Straipsnio dalies numeracijos pakeitimas:
+Straipsnio dalies naikinimas:
 
-Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
-
-1) užsienio valiutos pirkimas už litus;
-
-2) užsienio valiutos pardavimas už litus.
+Nr. XI-1872, 2011-12-22, Žin. 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
 
 43. Vertimasis finansinių paslaugų teikimu:
 
@@ -420,7 +420,11 @@ Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010IST
 
 17) su vertybinių popierių emisijomis susijusių paslaugų teikimas;
 
-18) elektroninių pinigų išleidimas ir tvarkymas;
+18) elektroninių pinigų leidimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
 
 19) investicinių fondų, uždaro tipo investicinių bendrovių, pensijų fondų ar investicinių kintamojo kapitalo bendrovių valdymas;
 
@@ -454,17 +458,23 @@ Straipsnio punkto naikinimas:
 
 Nr. XI-554, 2009-12-10, Žin. 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
 
-4) išleisti ir tvarkyti elektroninius pinigus.
+4) Neteko galios nuo 2012-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XI-1872, 2011-12-22, Žin. 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
 
 5. Finansų įstaigos gali teikti finansines paslaugas užsienio valiuta, jeigu tai nustatyta Lietuvos Respublikos įstatymuose.
 
 4 straipsnis. Finansų įstaiga
 
-1. Finansų įstaiga – finansų įmonė arba kredito įstaiga, kuri atitinka abu šio Įstatymo 2 straipsnio 43 dalyje nustatytus reikalavimus ir verčiasi bent vienos iš šio Įstatymo 3 straipsnyje nurodytų finansinių paslaugų teikimu.
+1. Finansų įstaiga – finansų įmonė arba kredito įstaiga.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+
+Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
 
 2. Neteko galios nuo 2004-05-01.
 
@@ -472,7 +482,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
 
-3. Finansų įstaigos, kuri verčiasi licencinių finansinių paslaugų teikimu, veiklą prižiūri Lietuvos Respublikos įstatymuose, reglamentuojančiuose tokių įstaigų veiklą, nustatytos priežiūros institucijos.
+3. Finansų įstaigos, kuri verčiasi licencinių finansinių paslaugų teikimu, veiklą prižiūri Lietuvos bankas (toliau – priežiūros institucija).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1675, 2011-11-17, Žin., 2011, Nr. 146-6821 (2011-12-01), i. k. 1111010ISTA0XI-1675
 
 4. Finansų įstaigos savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo Įstatymu, Lietuvos Respublikos įstatymais, reglamentuojančiais finansinių paslaugų teikimą ir finansų įstaigų veiklą, taip pat atitinkamos teisinės formos, kurios pagrindu finansų įstaiga yra įsteigta ir veikia, juridinį asmenį, ir kitais teisės aktais.
 
@@ -481,6 +495,12 @@ Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010IST
 Papildyta straipsnio dalimi:
 
 Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
+
+6. Šio įstatymo 20 straipsnio 2 dalyje, 44 straipsnio 3 dalyje, 45 straipsnio 4 dalyje ir 46 straipsnio 2 dalyje nustatyta tvarka netaikoma finansų įstaigoms, kurios teikia tik nelicencines finansines paslaugas, nustatytas Lietuvos Respublikos vartojimo kredito įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1675, 2011-11-17, Žin., 2011, Nr. 146-6821 (2011-12-01), i. k. 1111010ISTA0XI-1675
 
 ANTRASIS SKIRSNIS
 
@@ -1042,7 +1062,11 @@ FINANSŲ ĮSTAIGOS LIKVIDUMAS IR MOKUMAS
 
 3. Finansų įstaiga privalo turėti rašytines likvidumo ir mokumo užtikrinimo vidaus taisykles, smulkiai apibrėžiančias likvidumo ir mokumo kontrolės bei valdymo procedūras.
 
-4. Finansų įstaigų likvidumo ir mokumo reikalavimus nustato Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, bei priežiūros institucijų priimti teisės aktai.
+4. Finansų įstaigų likvidumo ir mokumo reikalavimus nustato Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, bei priežiūros institucijos priimti teisės aktai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1675, 2011-11-17, Žin., 2011, Nr. 146-6821 (2011-12-01), i. k. 1111010ISTA0XI-1675
 
 DEVINTASIS SKIRSNIS
 
@@ -1280,15 +1304,55 @@ Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010IST
 
 DVYLIKTASIS SKIRSNIS
 
-FINANSŲ ĮSTAIGŲ, TEIKIANČIŲ LICENCINES FINANSINES PASLAUGAS, VEIKLOS PRIEŽIŪRA
+FINANSŲ RINKOS POLITIKOS FORMAVIMO PATARIAMOJI KOMISIJA
 
-48 straipsnis. Finansų įstaigų, teikiančių licencines finansines paslaugas, veiklos priežiūra
+48 straipsnis. Finansų rinkos politikos formavimo patariamoji komisija
 
-1. Finansų įstaigų, teikiančių licencines finansines paslaugas, veiklą prižiūri Lietuvos Respublikos įstatymų nustatytos priežiūros institucijos.
+1. Finansų rinkos politikos formavimo klausimais finansų ministrui pataria ir finansų rinkos politikos įgyvendinimą stebi Finansų rinkos politikos formavimo patariamoji komisija (toliau – Komisija).
 
-2. Finansų įstaigų veiklos priežiūros institucijų steigimą ir veiklą, teises ir pareigas, atskaitomybę bei atsakomybę nustato Lietuvos Respublikos įstatymai ir kiti teisės aktai.
+2. Komisiją sudaro:
 
-3. Finansų įstaigų veiklos valstybinę priežiūrą atliekančių priežiūros institucijų tarpusavio bendradarbiavimą bei sąveiką prižiūrint finansų įstaigas koordinuoja Finansų įstaigų veiklos reglamentavimo ir priežiūros koordinavimo komisija.
+1) finansų ministras (Komisijos pirmininkas);
+
+2) finansų viceministras, atsakingas už finansų rinką;
+
+3) Lietuvos banko valdybos pirmininkas;
+
+4) Lietuvos banko už finansų rinkos priežiūrą atsakingo padalinio vadovas.
+
+3. Komisijos sprendimu, nagrinėjant atitinkamus Komisijos posėdžių darbotvarkės klausimus, patariamojo balso teise gali būti kviečiami posėdžiuose dalyvauti asocijuotų verslo struktūrų atstovai.
+
+4. Komisijos darbo reglamentą tvirtina Komisija.
+
+5. Komisijos funkcijos:
+
+1) teikti pasiūlymus finansų ministrui dėl finansų rinkos politikos formavimo;
+
+2) stebėti ir analizuoti finansų rinkos plėtros, priežiūros ir reglamentavimo tendencijas ir teikti patarimus finansų ministrui šioje srityje;
+
+3) teikti savo nuomonę Lietuvos bankui teisinio reglamentavimo derinimo atskiruose finansų rinkos sektoriuose klausimais;
+
+4) teikti pasiūlymus finansų ministrui dėl pozicijos formavimo Europos Sąjungos institucijose svarstomų klausimų finansinių paslaugų srityje.
+
+6. Komisija, atlikdama jai pavestas funkcijas, turi teisę:
+
+1) gauti iš valstybės institucijų ir įstaigų, kitų įstaigų, organizacijų paaiškinimus, statistinius duomenis ir šių duomenų analitinius apibendrinimus, kitokią informaciją, būtiną Komisijos funkcijoms atlikti, jeigu tokios informacijos teikimo neriboja įstatymai ir kiti teisės aktai;
+
+2) kviestis specialistus tam tikriems klausimams spręsti;
+
+3) bendradarbiauti ir keistis informacija su užsienio institucijomis.
+
+7. Lietuvos bankas bent du kartus per metus Komisijai pateikia informaciją apie finansų rinkos raidą ir priežiūros funkcijos vykdymą.
+
+8. Komisija, Komisijos nariai ir Komisijos veikloje dalyvaujantys specialistai privalo laikyti paslaptyje duomenis ar informaciją, kuriuos jie sužinojo Komisijai įgyvendinant savo teises ir atliekant funkcijas, jeigu tokie duomenys ar informacija sudaro įstatymų saugomą paslaptį.
+
+Skirsnio pakeitimai:
+
+Nr. XI-1675, 2011-11-17, Žin., 2011, Nr. 146-6821 (2011-12-01), i. k. 1111010ISTA0XI-1675
+
+TRYLIKTASIS SKIRSNIS
+
+FINANSŲ ĮSTAIGOS PABAIGA, PERTVARKYMAS IR BANKROTO BYLOS IŠKĖLIMAS
 
 49 straipsnis. Finansų įstaigų bei draudimo įmonių veiklos reglamentavimo ir priežiūros koordinavimo komisija
 
@@ -1470,6 +1534,12 @@ Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010IST
 
 2. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
 
+3. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB (OL 2009 L 267, p. 7).
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
+
 Priedo pakeitimai:
 
 Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
@@ -1579,6 +1649,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
 
 Lietuvos Respublikos finansų įstaigų įstatymo 2, 3, 4 straipsnių papildymo ir pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1675, 2011-11-17, Žin., 2011, Nr. 146-6821 (2011-12-01), i. k. 1111010ISTA0XI-1675
+
+Lietuvos Respublikos finansų įstaigų įstatymo 4, 33 straipsnių ir dvyliktojo skirsnio pakeitimo ir papildymo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
+
+Lietuvos Respublikos finansų įstaigų įstatymo 2, 3 ir 4 straipsnių pakeitimo ir priedo papildymo įstatymas
 
 381 straipsnis. Finansinių grupių jungtinė (konsoliduota) priežiūra
 
