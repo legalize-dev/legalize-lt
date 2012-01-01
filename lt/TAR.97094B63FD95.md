@@ -4,7 +4,7 @@ identifier: "TAR.97094B63FD95"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-11-06"
-last_updated: "2010-01-05"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.97094B63FD95"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 2010-01-05 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2012-08-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 112-4990, i. k. 1031010ISTA0IX-1804
 
@@ -334,7 +334,11 @@ Nr. XI-602, 2009-12-22, Žin. 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI
 
 5. Apie sprendimą pertvarkyti bendriją turi būti viešai paskelbta jungtinės veiklos sutartyje nurodytame dienraštyje tris kartus ne mažesniais kaip trisdešimties dienų intervalais arba viešai paskelbta jungtinės veiklos sutartyje nurodytame dienraštyje vieną kartą ir raštu pranešta visiems bendrijos kreditoriams. Pranešime turi būti Civilinio kodekso 2.44 straipsnyje nustatyta informacija apie bendriją, taip pat turi būti nurodyta juridinio asmens, į kurį pertvarkoma bendrija, teisinė forma, kur ir nuo kada galima susipažinti su naujos teisinės formos juridinio asmens steigimo dokumentais.
 
-6. Bendrija gali būti pertvarkoma į akcinę bendrovę arba uždarąją akcinę bendrovę, jeigu bendrijos turtas, atėmus visus bendrijos įsipareigojimus, yra ne mažesnis už Akcinių bendrovių įstatyme akcinei bendrovei ar uždarajai akcinei bendrovei nustatytą minimalų įstatinio kapitalo dydį. Iki sprendimo pertvarkyti bendriją į akcinę bendrovę arba uždarąją akcinę bendrovę priėmimo bendrijos turtas, kuris perduodamas už bendrovės akcijas, turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka. Turto vertinimo ataskaita turi atitikti Akcinių bendrovių įstatymo nustatytus reikalavimus, taikomus nepiniginio įnašo vertinimo ataskaitai, ir ne vėliau kaip likus dešimčiai dienų iki sprendimo pertvarkyti bendriją priėmimo turi būti pateikta bendrijai ir juridinių asmenų registrui. Sprendime pertvarkyti bendriją į akcinę bendrovę ar uždarąją akcinę bendrovę, be kita ko, turi būti nurodyta po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatinio kapitalo dydis, akcijų skaičius, akcijų nominali vertė. Kai bendrija pertvarkoma į akcinę bendrovę, be kitų šiame ir kituose įstatymuose nustatytų veiksmų, akcinės bendrovės akcijos vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka turi būti įregistruotos Lietuvos Respublikos vertybinių popierių komisijoje ir išrinkta audito įmonė.
+6. Bendrija gali būti pertvarkoma į akcinę bendrovę arba uždarąją akcinę bendrovę. Sprendime pertvarkyti bendriją į akcinę bendrovę ar uždarąją akcinę bendrovę turi būti nurodyta po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatinio kapitalo dydis, akcijų skaičius, akcijų nominali vertė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1700, 2011-11-17, Žin., 2011, Nr. 146-6846 (2011-12-01), i. k. 1111010ISTA0XI-1700
 
 7. Bendrija gali būti pertvarkoma į žemės ūkio bendrovę, jeigu bendrijoje yra ne mažiau kaip du dalyviai ir jos pajamos už žemės ūkio produkciją ir suteiktas paslaugas žemės ūkiui per praėjusius finansinius metus sudarė daugiau kaip penkiasdešimt procentų visų realizavimo pajamų.
 
@@ -405,4 +409,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-602, 2009-12-22, Žin., 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI-602
 
 Lietuvos Respublikos ūkinių bendrijų įstatymo 6 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1700, 2011-11-17, Žin., 2011, Nr. 146-6846 (2011-12-01), i. k. 1111010ISTA0XI-1700
+
+Lietuvos Respublikos ūkinių bendrijų įstatymo 17 straipsnio pakeitimo įstatymas
 
