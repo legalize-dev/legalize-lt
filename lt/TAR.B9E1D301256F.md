@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2011-12-08"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -24,6 +24,8 @@ eu_legal_act: "true"
 Įstatymas skelbtas: Žin., 2001, Nr. 98-3482
 
 Neoficialus įstatymo tekstas
+
+Aktuali įstatymo redakcija nuo 2012-01-01
 
 LIETUVOS RESPUBLIKOS
 
@@ -223,15 +225,15 @@ apmokestinamų prekių sandėlis – patalpa ir (arba) teritorija, kuriose šio
 
 įstatymo ir kitų teisės aktų nustatyta tvarka leidžiama laikyti, gaminti,
 
-perdirbti, maišyti, taip pat į jas atgabenti ar iš jų išgabenti akcizais apmokestinamas
+perdirbti, maišyti, taip pat į jas atgabenti ar iš jų išgabenti akcizais
 
-prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas. Akcizais
+apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo
 
-apmokestinamų prekių sandėliais laikomos ir kitose valstybėse narėse esančios
+režimas. Akcizais apmokestinamų prekių sandėliais laikomos ir kitose valstybėse
 
-patalpos ir (arba) teritorijos, kurias akcizais apmokestinamų prekių sandėliais
+narėse esančios patalpos ir (arba) teritorijos, kurias akcizais apmokestinamų
 
-pripažino tų valstybių narių kompetentingos institucijos.
+prekių sandėliais pripažino tų valstybių narių kompetentingos institucijos.
 
 5. Akcizais
 
@@ -285,9 +287,9 @@ alkoholinis gėrimas, kurio faktinė tūrinė alkoholio koncentracija procentais
 
 yra didesnė kaip 0,5 procento, taip pat bet koks gėrimas, kuris yra pagamintas
 
-maišant alų su nealkoholiniais gėrimais, klasifikuojamas KN 2206 pozicijoje ir
+maišant alų su nealkoholiniais gėrimais, klasifikuojamas KN 2206 pozicijoje ir kurio
 
-kurio faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 0,5
+faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 0,5
 
 procento.
 
@@ -301,9 +303,9 @@ apibrėžta šiame straipsnyje.
 
 ir cigarilės – šie produktai:
 
-1) paruošti
+1) paruošti rūkyti
 
-rūkyti tabako ritinėliai, įvynioti į išorinį apvalkalą, pagamintą iš natūralaus
+tabako ritinėliai, įvynioti į išorinį apvalkalą, pagamintą iš natūralaus
 
 tabako;
 
@@ -311,9 +313,9 @@ tabako;
 
 rūkyti, užpildyti smulkinto tabako mišiniu tabako ritinėliai, kuriuos visiškai
 
-dengia įprastos cigaro spalvos išorinis apvalkalas, pagamintas iš regeneruoto
+dengia įprastos cigaro spalvos išorinis apvalkalas, pagamintas iš regeneruoto tabako
 
-tabako ir dengiantis filtrą, jei jis yra, bet ne kandiklį (kai cigarai yra su
+ir dengiantis filtrą, jei jis yra, bet ne kandiklį (kai cigarai yra su
 
 kandikliais), jeigu jų vieneto svoris (be filtro ar kandiklio) yra ne mažesnis
 
@@ -455,9 +457,9 @@ gėrimais arba alumi);
 
 jų faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 1,2
 
-procento, bet ne didesnė kaip 15 procentų, o jeigu ji yra didesnė kaip 5,5
+procento, bet ne didesnė kaip 15 procentų, o jeigu ji yra didesnė kaip 5,5 procento,
 
-procento, ji turi būti gauta tik fermentuojant.
+ji turi būti gauta tik fermentuojant.
 
 23. Putojantis
 
@@ -549,9 +551,11 @@ tabakas – šie produktai:
 
 1) suplėšytas,
 
-supjaustytas ar kitaip susmulkintas ir suspaustas į briketus (kubelius) arba nesuspaustas
+supjaustytas ar kitaip susmulkintas ir suspaustas į briketus (kubelius) arba
 
-tabakas, tinkamas rūkyti jo papildomai neapdorojus pramoniniu būdu;
+nesuspaustas tabakas, tinkamas rūkyti jo papildomai neapdorojus pramoniniu
+
+būdu;
 
 2) mažmeninei
 
@@ -589,17 +593,17 @@ apmokestinamų prekių vežimo dokumento forma, naudojimo ir užpildymo taisykl�
 
 nustatytos 1992 m. gruodžio 17 d. Komisijos reglamente (EEB) 3649/92 dėl
 
-supaprastinto administracinio lydraščio, skirto Bendrijos viduje judantiems akcizu
+supaprastinto administracinio lydraščio, skirto Bendrijos viduje judantiems
 
-apmokestinamiems produktams, kurie išleisti vartojimui išsiuntimo valstybėje
+akcizu apmokestinamiems produktams, kurie išleisti vartojimui išsiuntimo
 
-narėje, tačiau centrinis mokesčių administratorius turi teisę nustatyti
+valstybėje narėje, tačiau centrinis mokesčių administratorius turi teisę
 
-papildomus Lietuvos Respublikoje išrašomų supaprastintų akcizais apmokestinamų
+nustatyti papildomus Lietuvos Respublikoje išrašomų supaprastintų akcizais
 
-prekių vežimo dokumentų reikalavimus, kai šioje dalyje nurodytas reglamentas
+apmokestinamų prekių vežimo dokumentų reikalavimus, kai šioje dalyje nurodytas
 
-valstybei narei suteikia tokią teisę.
+reglamentas valstybei narei suteikia tokią teisę.
 
 30.
 
@@ -607,9 +611,9 @@ Tarpiniai produktai – alkoholiniai gėrimai (įskaitant stiprintuosius
 
 pridėjus bet kokį kiekį etilo alkoholio), kurie atitinka visus šiuos požymius:
 
-1) klasifikuojami
+1)
 
-KN 2204, 2205 arba 2206 pozicijose;
+klasifikuojami KN 2204, 2205 arba 2206 pozicijose;
 
 2) jų faktinė
 
@@ -645,13 +649,13 @@ narės teritorija – atitinkamos Europos Sąjungos valstybės narės teritorija
 
 kaip ji apibrėžta Sutarties dėl Europos Sąjungos veikimo 355 straipsnyje,
 
-išskyrus trečiąsias teritorijas. Valstybės narės teritorija laikomos ir
+išskyrus trečiąsias teritorijas. Valstybės narės teritorija laikomos ir teritorijos,
 
-teritorijos, kuriose, remiantis Direktyvos 2008/118/EB nuostatomis, sudaryti ar
+kuriose, remiantis Direktyvos 2008/118/EB nuostatomis, sudaryti ar kurioms
 
-kurioms skirti sandoriai laikomi atitinkamoje valstybėje narėje sudarytais ar
+skirti sandoriai laikomi atitinkamoje valstybėje narėje sudarytais ar jai
 
-jai skirtais sandoriais.
+skirtais sandoriais.
 
 34. Vynas iš šviežių vynuogių –
 
@@ -733,13 +737,13 @@ kita, negu šio straipsnio 1 dalyje nurodyta, veikla, gali būti išduotas:
 
 1) jeigu
 
-vidutinė akcizų suma, apskaičiuota už pageidaujamame steigti akcizais
+vidutinė akcizų suma, apskaičiuota už pageidaujamame steigti akcizais apmokestinamų
 
-apmokestinamų prekių sandėlyje numatomą vienu metu laikyti akcizais
+prekių sandėlyje numatomą vienu metu laikyti akcizais apmokestinamų prekių
 
-apmokestinamų prekių kiekį, bus ne mažesnė, negu nustatyta Lietuvos Respublikos
+kiekį, bus ne mažesnė, negu nustatyta Lietuvos Respublikos Vyriausybės (toliau
 
-Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos institucijos;
+– Vyriausybė) ar jos įgaliotos institucijos;
 
 2) kitais
 
@@ -813,7 +817,51 @@ atskiri identifikaciniai numeriai, kurie nurodomi išduotame leidime steigti
 
 akcizais apmokestinamų prekių sandėlį.
 
-įstatymo 1 straipsnio 1 ir 2 dalys ir 2 straipsnis
+įstatymo 1 straipsnio 1 ir 2 dalys ir 2 straipsnis įsigalioja 2012-03-01; 3
+
+straipsnis įsigalioja 2012-01-01.
+
+22.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1801,
+
+2011-12-15, Žin., 2011, Nr. 160-7568 (2011-12-28)
+
+AKCIZŲ
+
+ĮSTATYMO 34 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. kovo 1 d.
+
+***
+
+Pabaiga ***
+
+Redagavo
+
+Aušrinė Trapinskienė (2012-01-23)
+
+ausrine.trapinskiene@lrs.lt
+
+* Jeigu
+
+yra centrinio mokesčių administratoriaus ir kitos valstybės narės
+
+kompetentingos institucijos susitarimas, visiems arba kai kuriems šiame priede
+
+nurodytiems tarp Lietuvos Respublikos ir kitos valstybės narės gabenamiems
+
+energiniams produktams gali būti netaikomi visi Lietuvos Respublikos akcizų
+
+įstatyme nustatyti akcizais apmokestinamų prekių gabenimo tarp valstybių narių
+
+reikalavimai arba jų dalis.
 
 4 straipsnis. Akcizais
 
@@ -933,33 +981,33 @@ apmokestinamų prekių sandėlį.
 
 apmokestinamų prekių sandėlio savininko veiklos reikalavimai
 
-1. Jeigu centrinio
+1. Jeigu
 
-mokesčių administratoriaus nustatyta tvarka priimamas sprendimas išduoti
+centrinio mokesčių administratoriaus nustatyta tvarka priimamas sprendimas
 
-leidimą steigti akcizais apmokestinamų prekių sandėlį, jo savininkas vietos
+išduoti leidimą steigti akcizais apmokestinamų prekių sandėlį, jo savininkas
 
-mokesčių administratoriui, kurio veiklos teritorijoje bus šis sandėlis, privalo
+vietos mokesčių administratoriui, kurio veiklos teritorijoje bus šis sandėlis,
 
-pateikti piniginį užstatą arba akcizais apmokestinamų prekių sandėlio savininko
+privalo pateikti piniginį užstatą arba akcizais apmokestinamų prekių sandėlio
 
-prievolių įvykdymo užtikrinimo dokumentą. Piniginio užstato arba prievolių
+savininko prievolių įvykdymo užtikrinimo dokumentą. Piniginio užstato arba
 
-įvykdymo užtikrinimo sumos dydį apskaičiuoja mokesčių administratorius,
+prievolių įvykdymo užtikrinimo sumos dydį apskaičiuoja mokesčių
 
-priimdamas sprendimą išduoti leidimą steigti akcizais apmokestinamų prekių
+administratorius, priimdamas sprendimą išduoti leidimą steigti akcizais
 
-sandėlį. Jeigu akcizais apmokestinamų prekių sandėlyje numatoma verstis
+apmokestinamų prekių sandėlį. Jeigu akcizais apmokestinamų prekių sandėlyje
 
-licencijuojama veikla, šio sandėlio savininkas privalo turėti atitinkamą
+numatoma verstis licencijuojama veikla, šio sandėlio savininkas privalo turėti
 
-licenciją (atitinkamas licencijas). Leidimas akcizais apmokestinamų prekių
+atitinkamą licenciją (atitinkamas licencijas). Leidimas akcizais apmokestinamų
 
-sandėlio savininkui išduodamas ir sandėlis veiklą pradėti gali tik tada, kai
+prekių sandėlio savininkui išduodamas ir sandėlis veiklą pradėti gali tik tada,
 
-yra pateikiamas piniginis užstatas arba akcizais apmokestinamų prekių sandėlio
+kai yra pateikiamas piniginis užstatas arba akcizais apmokestinamų prekių
 
-savininko prievolių įvykdymo užtikrinimo dokumentas ir kai savininkas turi
+sandėlio savininko prievolių įvykdymo užtikrinimo dokumentas ir kai savininkas turi
 
 nustatytos formos licenciją (licencijas). Piniginio užstato ir akcizais
 
@@ -967,11 +1015,11 @@ apmokestinamų prekių sandėlio savininko prievolių įvykdymo užtikrinimo sum
 
 dydžio apskaičiavimo ir tikslinimo tvarką, taip pat atvejus, kada
 
-nereikalaujama pateikti piniginio užstato ir (arba) akcizais apmokestinamų prekių
+nereikalaujama pateikti piniginio užstato ir (arba) akcizais apmokestinamų
 
-sandėlio savininko prievolių įvykdymo užtikrinimo dokumento, nustato Vyriausybė
+prekių sandėlio savininko prievolių įvykdymo užtikrinimo dokumento, nustato
 
-ar jos įgaliota institucija.
+Vyriausybė ar jos įgaliota institucija.
 
 2. Akcizais
 
@@ -1053,11 +1101,11 @@ panaudojimo apskaitos pažeidimų;
 
 3) kai
 
-nustatoma, kad akcizais apmokestinamų prekių sandėlyje specialūs dažai ir
+nustatoma, kad akcizais apmokestinamų prekių sandėlyje specialūs dažai ir cheminiai
 
-cheminiai reagentai, skirti kurui žymėti, prarasti, taip pat nustačius
+reagentai, skirti kurui žymėti, prarasti, taip pat nustačius apskaitos tvarkymo
 
-apskaitos tvarkymo pažeidimų;
+pažeidimų;
 
 4) kai nustatomi
 
@@ -1121,13 +1169,13 @@ apmokestinamų prekių sandėlio savininko rašytiniu prašymu;
 
 2) mokesčių
 
-administratoriaus sprendimu, jeigu akcizais apmokestinamų prekių sandėlio savininkas
+administratoriaus sprendimu, jeigu akcizais apmokestinamų prekių sandėlio
 
-per mokesčių administratoriaus nustatytą terminą neištaisė nustatytų trūkumų,
+savininkas per mokesčių administratoriaus nustatytą terminą neištaisė nustatytų
 
-dėl kurių šio straipsnio 5 dalyje nustatyta tvarka buvo nustatyti papildomi šio
+trūkumų, dėl kurių šio straipsnio 5 dalyje nustatyta tvarka buvo nustatyti
 
-sandėlio savininko veiklos reikalavimai;
+papildomi šio sandėlio savininko veiklos reikalavimai;
 
 3) mokesčių
 
@@ -1189,9 +1237,9 @@ apmokestinamų prekių sandėlį išdavimo dienos akcizais apmokestinamų preki�
 
 sandėlio savininkas nepateikia piniginio užstato ar akcizais apmokestinamų
 
-prekių sandėlio savininko prievolių įvykdymo užtikrinimo dokumento, jeigu teisės
+prekių sandėlio savininko prievolių įvykdymo užtikrinimo dokumento, jeigu
 
-aktų nustatyta tvarka toks dokumentas turėjo būti pateiktas;
+teisės aktų nustatyta tvarka toks dokumentas turėjo būti pateiktas;
 
 9) mokesčių
 
@@ -1303,11 +1351,11 @@ užtikrinimo dokumento pateikti nereikalaujama, nustato Vyriausybė ar jos
 
 įgaliota institucija.
 
-3. Registruotas gavėjas turi teisę gauti tik tų rūšių akcizais
+3. Registruotas gavėjas turi teisę gauti tik tų rūšių akcizais apmokestinamų
 
-apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo
+prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas ir kurios
 
-režimas ir kurios nurodytos registruoto gavėjo pažymėjime.
+nurodytos registruoto gavėjo pažymėjime.
 
 4. Registruotas gavėjas privalo
 
@@ -1339,9 +1387,9 @@ taikomas akcizų mokėjimo laikino atidėjimo režimas;
 
 gavėjas per nustatytą terminą nepateikia registruoto gavėjo prievolių įvykdymo
 
-užtikrinimo dokumento, kai toks dokumentas turi būti pateiktas teisės aktų
+užtikrinimo dokumento, kai toks dokumentas turi būti pateiktas teisės aktų nustatyta
 
-nustatyta tvarka;
+tvarka;
 
 3) registruotam
 
@@ -1433,11 +1481,11 @@ sąrašo šiais atvejais:
 
 1) registruotas
 
-siuntėjas per 6 mėnesius nuo įregistravimo registruotu siuntėju dienos neišgabeno
+siuntėjas per 6 mėnesius nuo įregistravimo registruotu siuntėju dienos
 
-importuotų akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo
+neišgabeno importuotų akcizais apmokestinamų prekių, kurioms taikomas akcizų
 
-laikino atidėjimo režimas;
+mokėjimo laikino atidėjimo režimas;
 
 2) registruotas
 
@@ -1467,31 +1515,31 @@ mokėti akcizus Lietuvos Respublikoje atsiranda už:
 
 1) akcizais
 
-apmokestinamas prekes, kurioms Lietuvos Respublikoje panaikintas akcizų
+apmokestinamas prekes, kurioms Lietuvos Respublikoje panaikintas akcizų mokėjimo
 
-mokėjimo laikino atidėjimo režimas (t. y. už iš akcizais apmokestinamų prekių
+laikino atidėjimo režimas (t. y. už iš akcizais apmokestinamų prekių sandėlio
 
-sandėlio išgabentas prekes, kurioms netaikomas akcizų mokėjimo laikino
+išgabentas prekes, kurioms netaikomas akcizų mokėjimo laikino atidėjimo
 
-atidėjimo režimas, už prekes, registruoto gavėjo gautas iš kitos valstybės
+režimas, už prekes, registruoto gavėjo gautas iš kitos valstybės narės, už
 
-narės, už akcizais apmokestinamas prekes, pristatytas į akcizais apmokestinamų
+akcizais apmokestinamas prekes, pristatytas į akcizais apmokestinamų prekių
 
-prekių sandėlio savininko, gaunančio akcizais apmokestinamas prekes, ar
+sandėlio savininko, gaunančio akcizais apmokestinamas prekes, ar registruoto
 
-registruoto gavėjo nurodytą tiesioginio pristatymo vietą, taip pat už šio
+gavėjo nurodytą tiesioginio pristatymo vietą, taip pat už šio įstatymo 19
 
-įstatymo 19 straipsnio 1 dalies 2, 3, 6, 7 ir 8 punktuose nurodytiems asmenims
+straipsnio 1 dalies 2, 3, 6, 7 ir 8 punktuose nurodytiems asmenims skirtas iš
 
-skirtas iš kitų valstybių narių atgabentas akcizais apmokestinamas prekes,
+kitų valstybių narių atgabentas akcizais apmokestinamas prekes, kurioms
 
-kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas). Šio punkto
+taikomas akcizų mokėjimo laikino atidėjimo režimas). Šio punkto nuostatos
 
-nuostatos taikomos ir toms akcizais apmokestinamoms prekėms, kurioms akcizų
+taikomos ir toms akcizais apmokestinamoms prekėms, kurioms akcizų mokėjimo
 
-mokėjimo laikino atidėjimo režimas panaikinamas pažeidžiant teisės aktų
+laikino atidėjimo režimas panaikinamas pažeidžiant teisės aktų nustatytus
 
-nustatytus reikalavimus;
+reikalavimus;
 
 2) akcizais
 
@@ -1519,11 +1567,11 @@ jos įgaliotos institucijos nustatytų natūralios netekties normų, taip pat u�
 
 prekes, prarastas dėl nenugalimos jėgos (force majeure)
 
-aplinkybių, taip pat už kitas negrįžtamai prarastas ar visiškai sunaikintas prekes
+aplinkybių, taip pat už kitas negrįžtamai prarastas ar visiškai sunaikintas
 
-(jeigu jų negalima panaudoti kaip akcizais apmokestinamų prekių), jeigu tai
+prekes (jeigu jų negalima panaudoti kaip akcizais apmokestinamų prekių), jeigu
 
-įrodyta Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
+tai įrodyta Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
 
 3) akcizais
 
@@ -1533,9 +1581,9 @@ prekių sandėlyje, išskyrus atvejus, kai šios prekės panaudotos kitoms prek�
 
 kurios pagal šį įstatymą yra akcizų objektas, gaminti arba šio įstatymo
 
-nustatytiems tikslams, kuriems naudojamos prekės atleidžiamos nuo akcizų, taip
+nustatytiems tikslams, kuriems naudojamos prekės atleidžiamos nuo akcizų, taip pat
 
-pat už energinius produktus, sunaudotus akcizais apmokestinamų prekių sandėlio,
+už energinius produktus, sunaudotus akcizais apmokestinamų prekių sandėlio,
 
 kuriame šie energiniai produktai gaminami, teritorijoje šių energinių produktų
 
@@ -1577,41 +1625,41 @@ Respublikoje ne akcizais apmokestinamų prekių sandėlyje;
 
 7) akcizais
 
-apmokestinamas prekes, kurioms netaikomas akcizų mokėjimo laikino atidėjimo
+apmokestinamas prekes, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas,
 
-režimas, atgabentas į Lietuvos Respubliką ir laikomas joje komerciniams
+atgabentas į Lietuvos Respubliką ir laikomas joje komerciniams tikslams, taip
 
-tikslams, taip pat už akcizais apmokestinamas prekes, į Lietuvos Respubliką
+pat už akcizais apmokestinamas prekes, į Lietuvos Respubliką atgabentas iš
 
-atgabentas iš kitos valstybės narės, kai jos prekių pardavėjo ar jo užsakymu
+kitos valstybės narės, kai jos prekių pardavėjo ar jo užsakymu kito asmens
 
-kito asmens atgabenamos asmeniui, kuris nėra registruotas gavėjas ir nevykdo
+atgabenamos asmeniui, kuris nėra registruotas gavėjas ir nevykdo ekonominės
 
-ekonominės veiklos, kaip ji apibrėžta Lietuvos Respublikos pridėtinės vertės
+veiklos, kaip ji apibrėžta Lietuvos Respublikos pridėtinės vertės mokesčio
 
-mokesčio įstatyme (toliau – Pridėtinės vertės mokesčio įstatymas), arba ne į
+įstatyme (toliau – Pridėtinės vertės mokesčio įstatymas), arba ne į akcizais
 
-akcizais apmokestinamų prekių sandėlį. Laikoma, kad atgabentos akcizais
+apmokestinamų prekių sandėlį. Laikoma, kad atgabentos akcizais apmokestinamos
 
-apmokestinamos prekės laikomos komerciniams tikslams, kai jas laiko kitas nei
+prekės laikomos komerciniams tikslams, kai jas laiko kitas nei fizinis asmuo
 
-fizinis asmuo arba kai jas laiko fizinis asmuo kitiems nei asmeninio naudojimo
+arba kai jas laiko fizinis asmuo kitiems nei asmeninio naudojimo tikslams. Siekiant
 
-tikslams. Siekiant nustatyti, ar akcizais apmokestinamos prekės yra skirtos
+nustatyti, ar akcizais apmokestinamos prekės yra skirtos fizinio asmens
 
-fizinio asmens asmeniniam naudojimui, turi būti atsižvelgiama į šių prekių
+asmeniniam naudojimui, turi būti atsižvelgiama į šių prekių laikytojo komercinį
 
-laikytojo komercinį statusą, šių prekių pobūdį, kiekį, laikymo priežastis, šių
+statusą, šių prekių pobūdį, kiekį, laikymo priežastis, šių prekių apskaitos
 
-prekių apskaitos dokumentus, laikymo vietą ar gabenimo būdą. Mokesčių
+dokumentus, laikymo vietą ar gabenimo būdą. Mokesčių administratorius,
 
-administratorius, siekdamas įvertinti, ar prekės skirtos asmeniniam naudojimui,
+siekdamas įvertinti, ar prekės skirtos asmeniniam naudojimui, turi teisę
 
-turi teisę atsižvelgti ir į kitas aplinkybes, susijusias su prekių atgabenimu
+atsižvelgti ir į kitas aplinkybes, susijusias su prekių atgabenimu ir laikymu.
 
-ir laikymu. Jeigu gabenant akcizais apmokestinamas prekes, kurioms netaikomas
+Jeigu gabenant akcizais apmokestinamas prekes, kurioms netaikomas akcizų
 
-akcizų mokėjimo laikino atidėjimo režimas, komerciniams tikslams per Lietuvos
+mokėjimo laikino atidėjimo režimas, komerciniams tikslams per Lietuvos
 
 Respubliką į kitą valstybę narę yra laikomasi šio įstatymo 15 straipsnio 11
 
@@ -1767,13 +1815,13 @@ tenka akcizais apmokestinamų prekių sandėlio savininkui, registruotam gavėju
 
 arba bet kuriam kitam asmeniui, kuris arba kurio vardu akcizais apmokestinamoms
 
-prekėms panaikinamas akcizų mokėjimo laikino atidėjimo režimas, o tais
+prekėms panaikinamas akcizų mokėjimo laikino atidėjimo režimas, o tais atvejais,
 
-atvejais, kai akcizais apmokestinamoms prekėms, kurioms akcizų mokėjimo laikino
+kai akcizais apmokestinamoms prekėms, kurioms akcizų mokėjimo laikino atidėjimo
 
-atidėjimo režimas panaikinamas pažeidžiant teisės aktų nustatytus reikalavimus,
+režimas panaikinamas pažeidžiant teisės aktų nustatytus reikalavimus, – bet
 
-– bet kuriam kitam asmeniui, dalyvavusiam darant šį pažeidimą.
+kuriam kitam asmeniui, dalyvavusiam darant šį pažeidimą.
 
 5.
 
@@ -1821,23 +1869,23 @@ kai akcizais apmokestinamos prekės, kurioms netaikomas akcizų mokėjimo laikin
 
 atidėjimo režimas, atgabenamos į Lietuvos Respubliką iš kitos valstybės narės
 
-ir laikomos joje komerciniams tikslams, – asmeniui, pristatančiam arba laikančiam
+ir laikomos joje komerciniams tikslams, – asmeniui, pristatančiam arba
 
-pristatymui skirtas akcizais apmokestinamas prekes, arba asmeniui, gaunančiam
+laikančiam pristatymui skirtas akcizais apmokestinamas prekes, arba asmeniui,
 
-šias prekes;
+gaunančiam šias prekes;
 
 2)
 
 kai prekės iš kitos valstybės narės į Lietuvos Respubliką atgabenamos prekių
 
-pardavėjo arba jo užsakymu kito asmens asmeniui, kuris nėra registruotas gavėjas
+pardavėjo arba jo užsakymu kito asmens asmeniui, kuris nėra registruotas
 
-ir kuris nevykdo ekonominės veiklos, kaip ji apibrėžta Pridėtinės vertės
+gavėjas ir kuris nevykdo ekonominės veiklos, kaip ji apibrėžta Pridėtinės
 
-mokesčio įstatyme, arba ne į akcizais apmokestinamų prekių sandėlį, – prekių
+vertės mokesčio įstatyme, arba ne į akcizais apmokestinamų prekių sandėlį, –
 
-pardavėjui. Ne Lietuvos Respublikoje įsikūręs prekių pardavėjas privalo
+prekių pardavėjui. Ne Lietuvos Respublikoje įsikūręs prekių pardavėjas privalo
 
 Lietuvos Respublikoje paskirti fiskalinį agentą, kuriam pereina prievolė
 
@@ -2003,9 +2051,9 @@ registruotą siuntėją iš registruotų siuntėjų sąrašo, ne vėliau kaip pe
 
 dienų nuo išregistravimo dienos asmuo privalo pateikti akcizų deklaraciją,
 
-kurioje būtų deklaruojama mokėtina akcizų suma už akcizais apmokestinamas
+kurioje būtų deklaruojama mokėtina akcizų suma už akcizais apmokestinamas prekes,
 
-prekes, kurių pristatymo į paskirties vietą faktas nebuvo patvirtintas iki
+kurių pristatymo į paskirties vietą faktas nebuvo patvirtintas iki
 
 išregistravimo datos. Ši mokėtina akcizų suma turi būti apskaičiuojama taikant
 
@@ -2047,9 +2095,9 @@ deklaraciją ir joje deklaruoti mokėtiną už taip pagamintas prekes akcizų su
 
 apskaičiuotą taikant akcizų tarifus, galiojusius prekių pagaminimo dieną.
 
-Akcizų deklaracija pateikiama vietos mokesčių administratoriui, kurio veiklos
+Akcizų deklaracija pateikiama vietos mokesčių administratoriui, kurio veiklos teritorijoje
 
-teritorijoje asmuo registruotas mokesčių mokėtoju.
+asmuo registruotas mokesčių mokėtoju.
 
 8. Bet kuris asmuo, kuriam prievolė
 
@@ -2065,13 +2113,13 @@ administratoriui, kurio veiklos teritorijoje asmuo registruotas mokesčių
 
 mokėtoju.
 
-9. Tais atvejais, kai prievolė mokėti
+9. Tais atvejais, kai prievolė mokėti akcizus
 
-akcizus už gabenant Lietuvos Respublikoje prarastas akcizais apmokestinamas
+už gabenant Lietuvos Respublikoje prarastas akcizais apmokestinamas prekes
 
-prekes tenka asmeniui, kuris laidavo arba garantavo, kad akcizai bus sumokėti,
+tenka asmeniui, kuris laidavo arba garantavo, kad akcizai bus sumokėti, ir
 
-ir kuris nėra akcizais apmokestinamų prekių sandėlio savininkas, registruotas
+kuris nėra akcizais apmokestinamų prekių sandėlio savininkas, registruotas
 
 gavėjas ar registruotas siuntėjas, šis asmuo ne vėliau kaip kitą darbo dieną
 
@@ -2087,17 +2135,17 @@ kuriam prievolė apskaičiuoti akcizus už cigaretes atsiranda vadovaujantis ši
 
 įsigaliojimo dieną (jeigu tai yra ne darbo diena, – artimiausią po jos einančią
 
-darbo dieną) privalo centrinio mokesčių administratoriaus nustatyta tvarka
+darbo dieną) privalo centrinio mokesčių administratoriaus nustatyta tvarka inventorizuoti
 
-inventorizuoti dienos pradžioje jam nuosavybės teise priklausančias šio
+dienos pradžioje jam nuosavybės teise priklausančias šio įstatymo 9 straipsnio
 
-įstatymo 9 straipsnio 1 dalies 9 punkte nurodytas cigaretes ir per 5 darbo
+1 dalies 9 punkte nurodytas cigaretes ir per 5 darbo dienas pateikti
 
-dienas pateikti inventorizacijos aktą vietos mokesčių administratoriui, kurio
+inventorizacijos aktą vietos mokesčių administratoriui, kurio veiklos
 
-veiklos teritorijoje yra akcizais apmokestinamų prekių sandėlis, o jeigu asmuo
+teritorijoje yra akcizais apmokestinamų prekių sandėlis, o jeigu asmuo nėra
 
-nėra akcizais apmokestinamų prekių sandėlio savininkas, – vietos mokesčių
+akcizais apmokestinamų prekių sandėlio savininkas, – vietos mokesčių
 
 administratoriui, kurio veiklos teritorijoje asmuo registruotas mokesčių
 
@@ -2145,19 +2193,19 @@ Nr. XI-1185,
 
 straipsnis. Mokėtinos Lietuvos Respublikoje akcizų sumos apskaičiavimas
 
-Už akcizais
+Už akcizais apmokestinamas
 
-apmokestinamas prekes, už kurias pagal šį įstatymą Lietuvos Respublikoje
+prekes, už kurias pagal šį įstatymą Lietuvos Respublikoje atsiranda prievolė
 
-atsiranda prievolė mokėti akcizus, mokėtina akcizų suma apskaičiuojama taikant
+mokėti akcizus, mokėtina akcizų suma apskaičiuojama taikant akcizų tarifus,
 
-akcizų tarifus, galiojusius prievolės atsiradimo dieną. Tuo atveju, kai
+galiojusius prievolės atsiradimo dieną. Tuo atveju, kai akcizais apmokestinamos
 
-akcizais apmokestinamos prekės prarandamos ir jų praradimo dienos nustatyti neįmanoma,
+prekės prarandamos ir jų praradimo dienos nustatyti neįmanoma, mokėtina akcizų
 
-mokėtina akcizų suma apskaičiuojama taikant akcizų tarifus, galiojusius prekių
+suma apskaičiuojama taikant akcizų tarifus, galiojusius prekių praradimo
 
-praradimo nustatymo dieną.
+nustatymo dieną.
 
 12
 
@@ -2179,11 +2227,13 @@ teritorijoje jis (ar jo paskirtas fiskalinis agentas) įregistruotas mokesčių
 
 mokėtoju. Jeigu šio įstatymo ar jo įgyvendinamųjų teisės aktų nustatytais
 
-atvejais asmuo, kuriam tenka prievolė mokėti akcizus, prieš gaudamas, atsigabendamas
+atvejais asmuo, kuriam tenka prievolė mokėti akcizus, prieš gaudamas,
 
-ar atsiųsdamas akcizais apmokestinamas prekes buvo sumokėjęs piniginį užstatą,
+atsigabendamas ar atsiųsdamas akcizais apmokestinamas prekes buvo sumokėjęs
 
-mokėtina akcizų suma visų pirma įskaitoma iš piniginio užstato.
+piniginį užstatą, mokėtina akcizų suma visų pirma įskaitoma iš piniginio
+
+užstato.
 
 2. Vyriausybė ar
 
@@ -2215,13 +2265,13 @@ mokestinio laikotarpio dalį – iki akcizų deklaracijos pateikimo termino
 
 pabaigos.
 
-3. Šio
+3. Šio straipsnio
 
-straipsnio 2 dalies nuostatos netaikomos akcizais apmokestinamų prekių sandėlio
+2 dalies nuostatos netaikomos akcizais apmokestinamų prekių sandėlio savininko
 
-savininko arba registruoto gavėjo šio įstatymo 10 straipsnio 10 dalyje
+arba registruoto gavėjo šio įstatymo 10 straipsnio 10 dalyje nustatyta
 
-nustatyta tvarka apskaičiuotai mokėtinai akcizų sumai.
+tvarka apskaičiuotai mokėtinai akcizų sumai.
 
 4. Už
 
@@ -2443,9 +2493,9 @@ dalys, 9 straipsnis, 10 straipsnio 1 ir 2 dalys, 11, 13 ir 14 straipsniai
 
 įsigalioja 2013 m. sausio 1 d.
 
-Šio įstatymo 10 straipsnio 4 dalis
+Šio įstatymo 10 straipsnio 4 dalis įsigalioja
 
-įsigalioja 2015 m. sausio 1 d.
+2015 m. sausio 1 d.
 
 Šio įstatymo 10
 
@@ -3579,19 +3629,19 @@ režimas, jeigu šiame straipsnyje nenustatyta kitaip.
 
 2. Išgabenant
 
-akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino
+akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo
 
-atidėjimo režimas, iš vieno Lietuvos Respublikos akcizais apmokestinamų prekių
+režimas, iš vieno Lietuvos Respublikos akcizais apmokestinamų prekių sandėlio į
 
-sandėlio į kitą Lietuvos Respublikos akcizais apmokestinamų prekių sandėlį arba
+kitą Lietuvos Respublikos akcizais apmokestinamų prekių sandėlį arba į akcizais
 
-į akcizais apmokestinamų prekių sandėlio savininko, gaunančio akcizais
+apmokestinamų prekių sandėlio savininko, gaunančio akcizais apmokestinamas
 
-apmokestinamas prekes, nurodytą tiesioginio pristatymo vietą, esančią Lietuvos
+prekes, nurodytą tiesioginio pristatymo vietą, esančią Lietuvos Respublikoje,
 
-Respublikoje, centrinio mokesčių administratoriaus nustatyta tvarka turi būti
+centrinio mokesčių administratoriaus nustatyta tvarka turi būti parengtas
 
-parengtas elektroninio akcizais apmokestinamų prekių vežimo dokumento (toliau –
+elektroninio akcizais apmokestinamų prekių vežimo dokumento (toliau –
 
 elektroninis vežimo dokumentas) projektas vadovaujantis Reglamento (EB) Nr.
 
@@ -3625,49 +3675,49 @@ apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo
 
 režimas.
 
-3. Gavęs akcizais
+3. Gavęs
 
-apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo
+akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino
 
-režimas, akcizais apmokestinamų prekių sandėlio savininkas ne vėliau kaip per 5
+atidėjimo režimas, akcizais apmokestinamų prekių sandėlio savininkas ne vėliau
 
-darbo dienas nuo tokių prekių gabenimo pabaigos (dėl objektyvių aplinkybių šis
+kaip per 5 darbo dienas nuo tokių prekių gabenimo pabaigos (dėl objektyvių
 
-terminas gali būti pratęstas) centrinio mokesčių administratoriaus nustatyta
+aplinkybių šis terminas gali būti pratęstas) centrinio mokesčių
 
-tvarka turi parengti pranešimą apie akcizais apmokestinamų prekių gavimą
+administratoriaus nustatyta tvarka turi parengti pranešimą apie akcizais
 
-(toliau – pranešimas apie gavimą). Kai akcizais apmokestinamos prekės
+apmokestinamų prekių gavimą (toliau – pranešimas apie gavimą). Kai akcizais
 
-atgabenamos į akcizais apmokestinamų prekių sandėlio savininko, gaunančio
+apmokestinamos prekės atgabenamos į akcizais apmokestinamų prekių sandėlio
 
-akcizais apmokestinamas prekes, nurodytą tiesioginio pristatymo vietą,
+savininko, gaunančio akcizais apmokestinamas prekes, nurodytą tiesioginio
 
-pranešimą apie gavimą turi parengti Lietuvos Respublikos akcizais apmokestinamų
+pristatymo vietą, pranešimą apie gavimą turi parengti Lietuvos Respublikos
 
-prekių sandėlio savininkas, nurodęs tiesioginio pristatymo vietą. Akcizais
+akcizais apmokestinamų prekių sandėlio savininkas, nurodęs tiesioginio
 
-apmokestinamų prekių sandėlio savininko, gaunančio akcizais apmokestinamas
+pristatymo vietą. Akcizais apmokestinamų prekių sandėlio savininko, gaunančio
 
-prekes, vietos mokesčių administratoriaus įgalioti asmenys centrinio mokesčių
+akcizais apmokestinamas prekes, vietos mokesčių administratoriaus įgalioti
 
-administratoriaus nustatyta tvarka turi patvirtinti pranešime apie gavimą
+asmenys centrinio mokesčių administratoriaus nustatyta tvarka turi patvirtinti
 
-pateiktus duomenis ir šį pranešimą persiųsti akcizais apmokestinamų prekių
+pranešime apie gavimą pateiktus duomenis ir šį pranešimą persiųsti akcizais
 
-siuntėjui. Laikoma, kad akcizais apmokestinamų prekių, kurioms taikomas akcizų
+apmokestinamų prekių siuntėjui. Laikoma, kad akcizais apmokestinamų prekių,
 
-mokėjimo laikino atidėjimo režimas, gabenimas pasibaigia, kai šias prekes
+kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimas
 
-priima šių prekių gavėjas. Jeigu gautas akcizais apmokestinamų prekių kiekis
+pasibaigia, kai šias prekes priima šių prekių gavėjas. Jeigu gautas akcizais
 
-nesutampa su išgabenant šias prekes parengtame elektroniniame vežimo dokumente
+apmokestinamų prekių kiekis nesutampa su išgabenant šias prekes parengtame
 
-nurodytu kiekiu, akcizais apmokestinamų prekių gavėjas centrinio mokesčių
+elektroniniame vežimo dokumente nurodytu kiekiu, akcizais apmokestinamų prekių
 
-administratoriaus nustatyta tvarka privalo nurodyti pranešime apie gavimą gautų
+gavėjas centrinio mokesčių administratoriaus nustatyta tvarka privalo nurodyti
 
-prekių kiekio neatitikimus.
+pranešime apie gavimą gautų prekių kiekio neatitikimus.
 
 4. Jeigu per 5
 
@@ -3675,29 +3725,29 @@ darbo dienas nuo tos dienos, kada akcizais apmokestinamos prekės, kurioms
 
 taikomas akcizų mokėjimo laikino atidėjimo režimas, turėjo būti gautos, šio
 
-įstatymo nustatyta tvarka negaunamas pranešimas apie gavimą, negalima Vyriausybės
+įstatymo nustatyta tvarka negaunamas pranešimas apie gavimą, negalima
 
-ar jos įgaliotos institucijos nustatyta tvarka įrodyti, kad išgabentos akcizais
+Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka įrodyti, kad
 
-apmokestinamos prekės gabenimo metu prarastos dėl nenugalimos jėgos (force
+išgabentos akcizais apmokestinamos prekės gabenimo metu prarastos dėl
 
-majeure) aplinkybių arba yra negrįžtamai prarastos ar visiškai
+nenugalimos jėgos (force majeure) aplinkybių arba yra negrįžtamai
 
-sunaikintos, taip pat šios prekės nėra grąžintos, akcizų deklaracijoje,
+prarastos ar visiškai sunaikintos, taip pat šios prekės nėra grąžintos, akcizų
 
-pateikiamoje už mokestinį laikotarpį, einantį po to laikotarpio, kurį šios
+deklaracijoje, pateikiamoje už mokestinį laikotarpį, einantį po to laikotarpio,
 
-prekės buvo išgabentos, privaloma deklaruoti šias prekes kaip akcizais
+kurį šios prekės buvo išgabentos, privaloma deklaruoti šias prekes kaip
 
-apmokestinamas prekes, kurioms buvo panaikintas akcizų mokėjimo laikino
+akcizais apmokestinamas prekes, kurioms buvo panaikintas akcizų mokėjimo
 
-atidėjimo režimas, ir apskaičiuoti už jas akcizus taikant akcizų tarifus,
+laikino atidėjimo režimas, ir apskaičiuoti už jas akcizus taikant akcizų
 
-galiojusius prekių išgabenimo dieną. Jeigu nurodytas pranešimas apie gavimą
+tarifus, galiojusius prekių išgabenimo dieną. Jeigu nurodytas pranešimas apie
 
-gaunamas vėliau, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka
+gavimą gaunamas vėliau, Vyriausybės ar jos įgaliotos institucijos nustatyta
 
-įrodoma, kad prekės gabenimo metu prarastos dėl nenugalimos jėgos (force
+tvarka įrodoma, kad prekės gabenimo metu prarastos dėl nenugalimos jėgos (force
 
 majeure) aplinkybių arba yra negrįžtamai prarastos ar visiškai
 
@@ -3819,43 +3869,43 @@ režimas, į šio straipsnio 1 dalyje nurodytas paskirties vietas, centrinio
 
 mokesčių administratoriaus nustatyta tvarka turi būti parengtas elektroninio
 
-vežimo dokumento projektas vadovaujantis Reglamento (EB) Nr. 684/2009
+vežimo dokumento projektas vadovaujantis Reglamento (EB) Nr. 684/2009 nuostatomis.
 
-nuostatomis. Šį elektroninio vežimo dokumento projektą akcizais apmokestinamų
+Šį elektroninio vežimo dokumento projektą akcizais apmokestinamų prekių
 
-prekių siuntėjas, naudodamasis kompiuterine akcizais apmokestinamų
+siuntėjas, naudodamasis kompiuterine akcizais apmokestinamų prekių
 
-prekių gabenimo ir kontrolės sistema, turi pateikti vietos mokesčių
+gabenimo ir kontrolės sistema, turi pateikti vietos mokesčių administratoriui.
 
-administratoriui. Vietos mokesčių administratoriaus įgalioti asmenys centrinio
+Vietos mokesčių administratoriaus įgalioti asmenys centrinio mokesčių
 
-mokesčių administratoriaus nustatyta tvarka turi patvirtinti elektroninio
+administratoriaus nustatyta tvarka turi patvirtinti elektroninio vežimo
 
-vežimo dokumento projekte pateiktus duomenis, suteikti elektroniniam vežimo
+dokumento projekte pateiktus duomenis, suteikti elektroniniam vežimo dokumentui
 
-dokumentui unikalų administracinį nuorodos kodą ir pranešti jį akcizais
+unikalų administracinį nuorodos kodą ir pranešti jį akcizais apmokestinamų
 
-apmokestinamų prekių siuntėjui. Vietos mokesčių administratoriaus įgalioti
+prekių siuntėjui. Vietos mokesčių administratoriaus įgalioti asmenys šį
 
-asmenys šį elektroninį vežimo dokumentą turi išsiųsti paskirties valstybės
+elektroninį vežimo dokumentą turi išsiųsti paskirties valstybės narės
 
-narės kompetentingoms institucijoms. Šioje dalyje nurodyto elektroninio vežimo
+kompetentingoms institucijoms. Šioje dalyje nurodyto elektroninio vežimo
 
-dokumento spausdintinis variantas ar kitas dokumentas, kuriame nurodytas unikalus
+dokumento spausdintinis variantas ar kitas dokumentas, kuriame nurodytas
 
-administracinis nuorodos kodas, turi lydėti gabenamas akcizais apmokestinamas
-
-prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas. Šio
-
-straipsnio 1 dalies 5, 6 ir 7 punktuose nurodytiems asmenims gabenamas akcizais
+unikalus administracinis nuorodos kodas, turi lydėti gabenamas akcizais
 
 apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo
 
-režimas, turi lydėti kitos valstybės narės kompetentingų institucijų įgaliotų
+režimas. Šio straipsnio 1 dalies 5, 6 ir 7 punktuose nurodytiems asmenims
 
-asmenų patvirtintas dokumentas, kuriuo suteikiama teisė šias prekes įsigyti
+gabenamas akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo
 
-taikant akcizų lengvatą.
+laikino atidėjimo režimas, turi lydėti kitos valstybės narės kompetentingų
+
+institucijų įgaliotų asmenų patvirtintas dokumentas, kuriuo suteikiama teisė
+
+šias prekes įsigyti taikant akcizų lengvatą.
 
 3. Tuo atveju,
 
@@ -3883,19 +3933,19 @@ mokesčių administratoriaus įgalioti asmenys centrinio mokesčių
 
 administratoriaus nustatyta tvarka turi persiųsti šių prekių siuntėjui.
 
-4. Akcizais apmokestinamų
+4. Akcizais
 
-prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, siuntėjas
+apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo
 
-gali atšaukti šių prekių gabenimą, jeigu šių prekių gabenimas dar
+režimas, siuntėjas gali atšaukti šių prekių gabenimą, jeigu šių prekių
 
-neprasidėjo. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo
+gabenimas dar neprasidėjo. Akcizais apmokestinamų prekių, kurioms taikomas
 
-laikino atidėjimo režimas, gabenimo pradžiai nustatyti ir gabenimui atšaukti
+akcizų mokėjimo laikino atidėjimo režimas, gabenimo pradžiai nustatyti ir
 
-mutatis mutandis taikomos šio įstatymo 14 straipsnio 5 ir 8 dalių
+gabenimui atšaukti mutatis mutandis taikomos šio įstatymo 14 straipsnio
 
-nuostatos.
+5 ir 8 dalių nuostatos.
 
 5. Akcizais
 
@@ -4029,9 +4079,9 @@ apmokestinamų prekių vežimo dokumento atitinkamo egzemplioriaus kompetentingo
 
 institucijos tvirtinti neprivalo, pakanka prekių gavėjo įgaliotų asmenų
 
-patvirtinimo. Šiuo atveju akcizais apmokestinamų prekių siuntėjas centrinio mokesčių
+patvirtinimo. Šiuo atveju akcizais apmokestinamų prekių siuntėjas centrinio
 
-administratoriaus nustatyta tvarka turi informuoti vietos mokesčių
+mokesčių administratoriaus nustatyta tvarka turi informuoti vietos mokesčių
 
 administratorių apie numatomą akcizais apmokestinamų prekių išsiuntimą.
 
@@ -4389,15 +4439,15 @@ režimas ir kurios į Lietuvos Respubliką atgabenamos šio straipsnio 1 dalyje
 
 nurodytais atvejais, privalo būti atgabentos su parengtu elektroniniu vežimo
 
-dokumentu, kurio spausdintinis variantas ar kitas dokumentas, kuriame aiškiai nurodytas
+dokumentu, kurio spausdintinis variantas ar kitas dokumentas, kuriame aiškiai
 
-unikalus administracinis nuorodos kodas, turi lydėti gabenamas akcizais
+nurodytas unikalus administracinis nuorodos kodas, turi lydėti gabenamas
 
-apmokestinamas prekes. Akcizais apmokestinamų prekių, kurioms taikomas akcizų
+akcizais apmokestinamas prekes. Akcizais apmokestinamų prekių, kurioms taikomas
 
-mokėjimo laikino atidėjimo režimas, gabenimas laikomas pasibaigusiu, kai šias
+akcizų mokėjimo laikino atidėjimo režimas, gabenimas laikomas pasibaigusiu, kai
 
-prekes priima šių prekių gavėjas, o eksportuojant prekes – kai prekės
+šias prekes priima šių prekių gavėjas, o eksportuojant prekes – kai prekės
 
 išgabenamos iš Europos Sąjungos teritorijos. Gavęs akcizais apmokestinamas
 
@@ -4429,17 +4479,17 @@ kai akcizais apmokestinamos prekės eksportuojamos iš Europos Sąjungos
 
 teritorijos, centrinio mokesčių administratoriaus nustatyta tvarka, remiantis
 
-muitinės išvežimo įstaigos pranešimu apie eksportą, turi būti parengtas ir patvirtintas
+muitinės išvežimo įstaigos pranešimu apie eksportą, turi būti parengtas ir
 
-pranešimas apie gavimą, kuris turi būti nusiųstas išsiuntimo valstybės narės
+patvirtintas pranešimas apie gavimą, kuris turi būti nusiųstas išsiuntimo
 
-kompetentingoms institucijoms. Tais atvejais, kai akcizais apmokestinamos
+valstybės narės kompetentingoms institucijoms. Tais atvejais, kai akcizais
 
-prekės atgabenamos į Lietuvos Respubliką šio straipsnio 1 dalies 5 punkte
+apmokestinamos prekės atgabenamos į Lietuvos Respubliką šio straipsnio 1 dalies
 
-nurodytiems asmenims, šių prekių gavimas patvirtinamas centrinio mokesčių
+5 punkte nurodytiems asmenims, šių prekių gavimas patvirtinamas centrinio
 
-administratoriaus nustatyta tvarka.
+mokesčių administratoriaus nustatyta tvarka.
 
 3. Jeigu į
 
@@ -4583,11 +4633,11 @@ jo fiskalinis agentas centrinio mokesčių administratoriaus nustatyta tvarka,
 
 prieš prekes atgabendamas į Lietuvos Respubliką, privalo įsiregistruoti
 
-akcizais apmokestinamų prekių pardavėju ir Vyriausybės nustatyta tvarka užtikrinti,
+akcizais apmokestinamų prekių pardavėju ir Vyriausybės nustatyta tvarka
 
-kad už iš kitos valstybės narės numatomas gauti prekes Lietuvos Respublikoje
+užtikrinti, kad už iš kitos valstybės narės numatomas gauti prekes Lietuvos
 
-mokėtini akcizai bus sumokėti.
+Respublikoje mokėtini akcizai bus sumokėti.
 
 8. Už Lietuvos
 
@@ -4643,9 +4693,9 @@ gabenimo prekėms taikant akcizų mokėjimo laikino atidėjimo režimą metu,
 
 įvykdymo užtikrinimo dokumentą, centrinio mokesčių administratoriaus nustatyta
 
-tvarka ir terminais privalo deklaruoti ir sumokėti šį mokestį, jeigu nuo akcizais
+tvarka ir terminais privalo deklaruoti ir sumokėti šį mokestį, jeigu nuo
 
-apmokestinamų prekių išgabenimo dienos praėjo ne ilgiau kaip 3 metai.
+akcizais apmokestinamų prekių išgabenimo dienos praėjo ne ilgiau kaip 3 metai.
 
 Straipsnio pakeitimai:
 
@@ -4699,23 +4749,21 @@ teritorijoje akcizais apmokestinamų prekių sandėlis ar registruotas siuntėja
 
 yra registruotas, nurodytą sąskaitą;
 
-2) su centriniu
+2) su centriniu mokesčių
 
-mokesčių administratoriumi sudariusios bendradarbiavimo sutartį Europos
+administratoriumi sudariusios bendradarbiavimo sutartį Europos Sąjungos
 
-Sąjungos teritorijoje veikiančios kredito įstaigos arba draudimo įmonės,
+teritorijoje veikiančios kredito įstaigos arba draudimo įmonės, kurioms
 
-kurioms kompetentingos institucijos suteikė teisę verstis atitinkamai
+kompetentingos institucijos suteikė teisę verstis atitinkamai kreditavimo arba
 
-kreditavimo arba draudimo veikla, išduotu Europos Sąjungos teritorijoje
+draudimo veikla, išduotu Europos Sąjungos teritorijoje galiojančiu laidavimo
 
-galiojančiu laidavimo (garantijos) dokumentu. Šį dokumentą akcizais
+(garantijos) dokumentu. Šį dokumentą akcizais apmokestinamų prekių siuntėjas
 
-apmokestinamų prekių siuntėjas pateikia vietos mokesčių administratoriui, kurio
+pateikia vietos mokesčių administratoriui, kurio veiklos teritorijoje akcizais
 
-veiklos teritorijoje akcizais apmokestinamų prekių sandėlis ar registruotas
-
-siuntėjas yra registruotas.
+apmokestinamų prekių sandėlis ar registruotas siuntėjas yra registruotas.
 
 2. Vyriausybės
 
@@ -4767,9 +4815,9 @@ aplinkybių:
 
 akcizais apmokestinamų prekių sandėlio savininko ar registruoto siuntėjo
 
-gautame pranešime apie gavimą paskirties vietoje nėra žymų apie nustatytus
+gautame pranešime apie gavimą paskirties vietoje nėra žymų apie nustatytus prekių
 
-prekių kiekio trūkumus;
+kiekio trūkumus;
 
 2) tuo atveju,
 
@@ -4903,9 +4951,9 @@ apribojimai;
 
 4) atgabenamos į
 
-Lietuvos Respubliką ne iš Europos Sąjungos teritorijos keleivių asmeniniame
+Lietuvos Respubliką ne iš Europos Sąjungos teritorijos keleivių asmeniniame bagaže
 
-bagaže ir neviršija Vyriausybės nustatytų kiekių, kuriuos fiziniams asmenimis
+ir neviršija Vyriausybės nustatytų kiekių, kuriuos fiziniams asmenimis
 
 (keleiviams) leista įvežti be importo akcizų;
 
@@ -4979,11 +5027,9 @@ akcizų, nustatyti šio įstatymo specialiosiose nuostatose.
 
 4. Jeigu už šio
 
-straipsnio 1 dalyje nurodytas akcizais apmokestinamas prekes akcizai buvo
+straipsnio 1 dalyje nurodytas akcizais apmokestinamas prekes akcizai buvo sumokėti,
 
-sumokėti, jie grąžinami Vyriausybės ar jos įgaliotos institucijos nustatyta
-
-tvarka.
+jie grąžinami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
 5.
 
@@ -5153,11 +5199,11 @@ formalumai, kokie yra taikomi eksportuojant prekes iš Europos Sąjungos muitų
 
 teritorijos. Tuo atveju, kai prekės laikinai išvežamos iš Europos Sąjungos
 
-teritorijos į trečiąsias teritorijas, jas grąžinus, joms taikomos tos pačios nuostatos,
+teritorijos į trečiąsias teritorijas, jas grąžinus, joms taikomos tos pačios
 
-kurios būtų taikomos, jei šios prekės būtų laikinai išvežtos iš Europos
+nuostatos, kurios būtų taikomos, jei šios prekės būtų laikinai išvežtos iš
 
-Sąjungos muitų teritorijos.
+Europos Sąjungos muitų teritorijos.
 
 7.
 
@@ -5487,67 +5533,39 @@ procentais, yra didesnė kaip 15 procentų tūrio, – 230 litų už produkto
 
 hektolitrą.
 
-24 straipsnis. Vynui iš šviežių vynuogių ir kitiems
+24 straipsnis.
 
-fermentuotiems gėrimams taikomi akcizų tarifai
+Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi akcizų
+
+tarifai
 
 Vynui iš šviežių
 
-vynuogių ir kitiems fermentuotiems gėrimams taikomi tokie akcizų
+vynuogių ir kitiems fermentuotiems gėrimams taikomi tokie akcizų tarifai:
 
-tarifai:
+1) vynui ir
 
-1) vynui, kurio
+kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio
 
-faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 8,5
+koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant)
 
-procento, – 53 litai už produkto hektolitrą;
+procentais yra ne didesnė kaip 8,5 procento, – 58 litai už produkto hektolitrą;
 
 2) šio
 
-straipsnio 1 punkte nenurodytam vynui – 198 litai už produkto hektolitrą;
+straipsnio 1 punkte nenurodytiems gėrimams – 198 litai už produkto hektolitrą.
 
-3) kitiems
+Straipsnio pakeitimai:
 
-fermentuotiems gėrimams, kurių faktinė tūrinė alkoholio koncentracija procentais,
+Nr.
 
-gauta tik fermentuojant, yra ne didesnė kaip 8,5 procento, – 58 litai už
+XI-1633,
 
-produkto hektolitrą;
-
-4) šio
-
-straipsnio 3 punkte nenurodytiems kitiems fermentuotiems gėrimams – 216 litų už
-
-produkto hektolitrą.
-
-Straipsnio redakcija nuo 2012-01-01:
+2011-11-08, Žin., 2011, Nr. 141-6614 (2011-11-22)
 
 25 straipsnis. Tarpiniams produktams
 
 taikomi akcizų tarifai
-
-Tarpiniams
-
-produktams taikomi tokie akcizų tarifai:
-
-1) tarpiniams
-
-produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne
-
-didesnė kaip 15 procentų, – 198 litai už produkto hektolitrą;
-
-2) tarpiniams
-
-produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė
-
-kaip 15 procentų, – 304 litai už produkto hektolitrą.
-
-Straipsnio redakcija nuo 2012-01-01:
-
-25
-
-straipsnis. Tarpiniams produktams taikomi akcizų tarifai
 
 Tarpiniams
 
@@ -5625,9 +5643,9 @@ alkoholio denatūravimo procedūrų tarpusavio pripažinimo atleidimo nuo akciz�
 
 tikslais.
 
-27 straipsnis. Specialūs atvejai, kai etilo
+27 straipsnis. Specialūs atvejai, kai etilo alkoholis
 
-alkoholis ir alkoholiniai gėrimai atleidžiami nuo akcizų
+ir alkoholiniai gėrimai atleidžiami nuo akcizų
 
 1. Be šio
 
@@ -5763,13 +5781,11 @@ Vyriausybė ar jos įgaliota institucija.
 
 taikomas toks akcizų tarifas:
 
-1 punkto redakcija iki 2012-03-01
-
 1) specifinis
 
 elementas – 132 litai;
 
-1 punkto redakcija nuo 2012-03-01
+1 punkto redakcija nuo 2012-03-01:
 
 1) specifinis
 
@@ -5779,15 +5795,13 @@ elementas – 140 litų;
 
 elementas – 25 procentai.
 
-3 dalies redakcija iki 2012-03-01
-
 3. Šio
 
 straipsnio 1 dalyje cigaretėms nurodytas kombinuotasis akcizų tarifas turi būti
 
 ne mažesnis kaip 221 litas už 1 000 cigarečių.
 
-3 dalies redakcija nuo 2012-03-01
+3 dalies redakcija nuo 2012-03-01:
 
 3. Šio
 
@@ -5835,13 +5849,11 @@ XI-1740,
 
 straipsnis. Kitam apdorotam tabakui taikomi akcizų tarifai
 
-1 dalies redakcija iki 2012-03-01
-
 1. Cigarams ir
 
 cigarilėms taikomas 80 litų už kilogramą produkto akcizų tarifas.
 
-1 dalies redakcija nuo 2012-03-01
+1 dalies redakcija nuo 2012-03-01:
 
 1. Cigarams ir
 
@@ -5851,25 +5863,19 @@ cigarilėms taikomas 84 litų už kilogramą produkto akcizų tarifas.
 
 tabakui taikomas 139 litų už kilogramą produkto akcizų tarifas.
 
-2 dalies redakcija nuo 2013 m. sausio 1
-
-d.:
+2 dalies redakcija nuo 2013-01-01:
 
 2. Rūkomajam
 
 tabakui taikomas 163 litų už kilogramą produkto akcizų tarifas.
 
-2 dalies redakcija nuo 2015 m. sausio 1
-
-d.:
+2 dalies redakcija nuo 2015-01-01:
 
 2. Rūkomajam
 
 tabakui taikomas 187 litų už kilogramą produkto akcizų tarifas.
 
-2 dalies redakcija nuo 2018 m. sausio 1
-
-d.:
+2 dalies redakcija nuo 2018-01-01:
 
 2. Rūkomajam
 
@@ -5883,9 +5889,9 @@ Nr. XI-1185,
 
 Nr.
 
-XI-1740, 2011-11-29,
+XI-1740,
 
-Žin., 2011, Nr. 150-7047 (2011-12-08)
+2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
 
 32
 
@@ -5895,9 +5901,9 @@ Skirtas
 
 parduoti Lietuvos Respublikoje apdorotas tabakas turi būti paženklintas
 
-specialiais ženklais – banderolėmis. Ženklinimo tvarką ir atvejus, kai ženklinti
+specialiais ženklais – banderolėmis. Ženklinimo tvarką ir atvejus, kai
 
-nereikalaujama, nustato Vyriausybė.
+ženklinti nereikalaujama, nustato Vyriausybė.
 
 28 straipsnis.
 
@@ -6097,9 +6103,9 @@ suma įskaitoma arba grąžinama Mokesčių administravimo
 
 įstatymo nustatyta tvarka. Šios dalies nuostatos netaikomos sunaikintam
 
-apdorotam tabakui, kuris pagamintas ar laikomas pažeidžiant teisės aktų
+apdorotam tabakui, kuris pagamintas ar laikomas pažeidžiant teisės aktų reikalavimus
 
-reikalavimus arba yra neteisėtai atgabentas ar importuotas.
+arba yra neteisėtai atgabentas ar importuotas.
 
 2.
 
@@ -6126,6 +6132,28 @@ Cigaretės
 negali būti parduodamos už didesnę kainą negu didžiausia mažmeninė kaina,
 
 nurodyta ant banderolės, kuria paženklinta jų pakuotė.
+
+Straipsnio
+
+redakcija nuo 2012-03-01:
+
+34
+
+straipsnis. Didžiausia cigarečių pardavimo kaina
+
+Cigaretės negali
+
+būti parduodamos už didesnę kainą negu didžiausia mažmeninė kaina, nurodyta ant
+
+pakuotės.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XI-1801,
+
+2011-12-15, Žin., 2011, Nr. 160-7568 (2011-12-28)
 
 TREČIASIS SKIRSNIS
 
@@ -6271,13 +6299,13 @@ Akcizais taip pat neapmokestinami gazoliai, skirti naudoti Vyriausybės
 
 nustatyta tvarka registruotiems žemės ūkio veiklos subjektams tvenkinių ir kitų
 
-vidaus vandenų žuvininkystėje, per vienus kalendorinius metus neviršijant 275 litrų
+vidaus vandenų žuvininkystėje, per vienus kalendorinius metus neviršijant 275
 
-vienai tonai sugautų ir realizuotų žuvų. Šioje dalyje gazolių kiekis nurodytas
+litrų vienai tonai sugautų ir realizuotų žuvų. Šioje dalyje gazolių kiekis
 
-esant jų 15 °C temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką
+nurodytas esant jų 15 °C temperatūrai. Šioje dalyje nustatytos lengvatos
 
-nustato Vyriausybė ar jos įgaliota institucija.
+taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 Straipsnio pakeitimai:
 
@@ -6485,11 +6513,11 @@ orlaivių degalai, kurie tiekiami oro navigacijos tikslams (įskaitant orlaivių
 
 degalus, naudojamus orlaivių gamybai, remontui, bandymams, eksploatacijai ir
 
-aptarnavimui), išskyrus orlaivių degalus, tiekiamus į asmeniniams poreikiams
+aptarnavimui), išskyrus orlaivių degalus, tiekiamus į asmeniniams poreikiams naudojamus
 
-naudojamus orlaivius. Orlaivis laikomas naudojamu asmeniniams poreikiams, kai
+orlaivius. Orlaivis laikomas naudojamu asmeniniams poreikiams, kai juo
 
-juo naudojasi orlaivio savininkas ar kitas asmuo (nuomos ar kitais teisiniais
+naudojasi orlaivio savininkas ar kitas asmuo (nuomos ar kitais teisiniais
 
 pagrindais) kitiems negu komerciniams tikslams. Energinių produktų, kuriems
 
@@ -6527,15 +6555,15 @@ arba kaip šildymui skirtas kuras, kuriems akcizai taikomi bendra tvarka;
 
 angliavandeniliai, išpilstyti į buitinius dujų balionus;
 
-6) neišpilstytos naftos dujos ir dujiniai angliavandeniliai, įsigyjami
+6) neišpilstytos naftos dujos ir dujiniai angliavandeniliai, įsigyjami arba
 
-arba importuojami centrinio mokesčių administratoriaus nustatyta tvarka
+importuojami centrinio mokesčių administratoriaus nustatyta tvarka registruotų
 
-registruotų vartotojų, tiekiančių (naudojančių) jas (juos) buitinėms reikmėms
+vartotojų, tiekiančių (naudojančių) jas (juos) buitinėms reikmėms (šildymui,
 
-(šildymui, maisto ruošimui ir pan.), įskaitant asmenis, kurie išpilsto naftos
+maisto ruošimui ir pan.), įskaitant asmenis, kurie išpilsto naftos dujas į
 
-dujas į buitinius dujų balionus;
+buitinius dujų balionus;
 
 7) neišpilstytos naftos dujos ir dujiniai angliavandeniliai,
 
@@ -6645,13 +6673,13 @@ nelicencijuoto asmens, arba
 
 asmens, turinčio veiklos licencijas, nustatytas Elektros energetikos įstatyme
 
-(toliau – licencijuotas asmuo), ar elektros energijos gamintojo savoms
+(toliau – licencijuotas asmuo), ar elektros energijos gamintojo savoms reikmėms.
 
-reikmėms. Elektros energijos suvartojimu savoms reikmėms yra laikomas elektros
+Elektros energijos suvartojimu savoms reikmėms yra laikomas elektros energijos
 
-energijos sunaudojimas kitiems tikslams negu elektros energijos gamybos
+sunaudojimas kitiems tikslams negu elektros energijos gamybos procesams ir
 
-procesams ir gamybos procesui palaikyti.
+gamybos procesui palaikyti.
 
 46
 
@@ -7013,11 +7041,11 @@ formą ir pildymo taisykles nustato centrinis mokesčių administratorius. Joje
 
 privalo būti deklaruota akcizų suma, apskaičiuota už elektros energiją, už
 
-kurią prievolė mokėti akcizus šio įstatymo 45 straipsnyje nustatyta tvarka atsirado
+kurią prievolė mokėti akcizus šio įstatymo 45 straipsnyje nustatyta tvarka
 
-tą mokestinį laikotarpį. Akcizai privalo būti sumokėti iki šioje dalyje
+atsirado tą mokestinį laikotarpį. Akcizai privalo būti sumokėti iki šioje
 
-nustatyto deklaracijos pateikimo termino pabaigos.
+dalyje nustatyto deklaracijos pateikimo termino pabaigos.
 
 2. Jeigu asmuo
 
@@ -7096,48 +7124,6 @@ ir (arba) lignito tiekėjai, importuotojai (kiti negu registruoti akmens anglių
 kokso ir (arba) lignito tiekėjai), taip pat kiti asmenys, jeigu jie gavo akmens
 
 anglis, koksą ir (arba) lignitą iš kitos valstybės narės.
-
-Straipsnio redakcija iki 2012-01-01
-
-53
-
-straipsnis. Akmens anglių atleidimas nuo akcizų
-
-Nuo akcizų už akmens
-
-anglis atleidžiamos akmens anglys, kai jos parduodamos ar kitaip perduodamos
-
-nuosavybėn gyventojams, taip pat viešiesiems juridiniams asmenims, kurie
-
-pagal Labdaros ir paramos įstatymą yra paramos gavėjai.
-
-Straipsnio redakcija nuo 2012-01-01
-
-53
-
-straipsnis. Akmens
-
-anglių, kokso ir lignito atleidimas nuo akcizų
-
-Nuo
-
-akcizų už akmens anglis, koksą ir
-
-lignitą atleidžiami akmens anglys, koksas ir lignitas, kai jie parduodami ar
-
-kitaip perduodami nuosavybėn gyventojams, taip pat viešiesiems juridiniams asmenims, kurie pagal Labdaros ir paramos įstatymą
-
-yra paramos gavėjai.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-XI-1740,
-
-2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
 
 51 straipsnis.
 
@@ -7549,29 +7535,29 @@ naudojimas verslo tikslams suprantamas kaip jų naudojimas asmens, kuris vykdo
 
 ekonominę veiklą, kaip ji suprantama Pridėtinės vertės mokesčio įstatyme.
 
-53 straipsnis. Akcizų už koksą ir lignitą tarifai
+53 straipsnis. Akmens anglių,
 
-1.
+kokso ir lignito atleidimas nuo akcizų
 
-Koksui ir lignitui, išskyrus koksą ir lignitą, nurodytą šio straipsnio 2
+Nuo
 
-dalyje, taikomas 31 lito už toną produkto akcizo tarifas.
+akcizų už akmens anglis, koksą ir
 
-2. Koksui ir
+lignitą atleidžiami akmens anglys, koksas ir lignitas, kai jie parduodami ar
 
-lignitui, naudojamam verslo reikmėms, taikomas 16 litų už toną produkto akcizo
+kitaip perduodami nuosavybėn gyventojams, taip pat viešiesiems juridiniams asmenims, kurie pagal Labdaros ir paramos įstatymą
 
-tarifas. Šioje dalyje nurodytas akcizo tarifas taikomas tik koksui ir lignitui,
+yra paramos gavėjai.
 
-parduodamam ar kitaip perduodamam asmeniui, turinčiam centrinio mokesčio
+Straipsnio
 
-administratoriaus nustatyta tvarka išduotą atitinkamą leidimą. Šiame Įstatyme
+pakeitimai:
 
-kokso ir lignito naudojimas verslo tikslams suprantamas kaip jų naudojimas
+Nr.
 
-asmens, kuris savarankiškai vykdo ekonominę veiklą, kaip ji suprantama
+XI-1740,
 
-Pridėtinės vertės mokesčio įstatyme.
+2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
 
 56 straipsnis. Akcizų už
 
@@ -7585,21 +7571,21 @@ pasibaigus iki kito mėnesio 15 dienos registruotas akmens anglių, kokso ir
 
 (arba) lignito tiekėjas, taip pat kitas asmuo, gavęs iš kitos valstybės narės
 
-akmens anglių, kokso ir (arba) lignito, privalo vietos mokesčių administratoriui,
+akmens anglių, kokso ir (arba) lignito, privalo vietos mokesčių
 
-kurio veiklos teritorijoje jis registruotas, pateikti akcizų už akmens anglis,
+administratoriui, kurio veiklos teritorijoje jis registruotas, pateikti akcizų
 
-koksą, lignitą deklaraciją. Deklaracijos formą ir užpildymo taisykles nustato
+už akmens anglis, koksą, lignitą deklaraciją. Deklaracijos formą ir užpildymo
 
-centrinis mokesčių administratorius. Joje privalo būti deklaruota akcizų suma,
+taisykles nustato centrinis mokesčių administratorius. Joje privalo būti
 
-apskaičiuota už akmens anglis, koksą ir (arba) lignitą, už kuriuos šio įstatymo
+deklaruota akcizų suma, apskaičiuota už akmens anglis, koksą ir (arba) lignitą,
 
-51 straipsnio 1 dalyje nustatyta tvarka prievolė sumokėti akcizus atsirado tą
+už kuriuos šio įstatymo 51 straipsnio 1 dalyje nustatyta tvarka prievolė
 
-mokestinį laikotarpį. Akcizai sumokami iki šioje dalyje nustatyto deklaracijos
+sumokėti akcizus atsirado tą mokestinį laikotarpį. Akcizai sumokami iki šioje
 
-pateikimo termino pabaigos.
+dalyje nustatyto deklaracijos pateikimo termino pabaigos.
 
 2. Jeigu asmuo
 
@@ -7695,15 +7681,15 @@ kurio veiklos teritorijoje jis registruotas, pateikti akcizų už gamtines dujas
 
 kurios naudojamos kaip variklių degalai, deklaraciją. Deklaracijos formą ir
 
-užpildymo taisykles nustato centrinis mokesčių administratorius. Joje privalo
+užpildymo taisykles nustato centrinis mokesčių administratorius. Joje privalo būti
 
-būti deklaruota akcizų suma, apskaičiuota už gamtines dujas, už kurias šio
+deklaruota akcizų suma, apskaičiuota už gamtines dujas, už kurias šio įstatymo
 
-įstatymo 57 straipsnyje nustatyta tvarka prievolė sumokėti akcizus
+57 straipsnyje nustatyta tvarka prievolė sumokėti akcizus atsirado tą
 
-atsirado tą mokestinį laikotarpį. Akcizai sumokami iki šioje dalyje nustatyto
+mokestinį laikotarpį. Akcizai sumokami iki šioje dalyje nustatyto deklaracijos
 
-deklaracijos pateikimo termino pabaigos.
+pateikimo termino pabaigos.
 
 III SKYRIUS
 
@@ -7991,11 +7977,11 @@ leidimas, 9 skyrius, 2 tomas, p. 21).
 
 gruodžio 16 d. Tarybos direktyva 2008/118/EB dėl bendros akcizų tvarkos,
 
-panaikinanti Direktyvą 92/12/EEB (OL 2009 L 9, p. 12), su paskutiniais
+panaikinanti Direktyvą 92/12/EEB (OL 2009 L 9, p. 12), su paskutiniais pakeitimais,
 
-pakeitimais, padarytais 2010 m. vasario 16 d. Tarybos direktyva 2010/12/ES (OL
+padarytais 2010 m. vasario 16 d. Tarybos direktyva 2010/12/ES (OL 2010 L 50, p.
 
-2010 L 50, p. 1).
+1).
 
 12. 2009 m.
 
@@ -8059,9 +8045,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-993, 2002-06-27,
+IX-993,
 
-Žin., 2002, Nr. 66-2706 (2002-06-29)
+2002-06-27, Žin., 2002, Nr. 66-2706 (2002-06-29)
 
 AKCIZŲ
 
@@ -8119,7 +8105,7 @@ mokesčių administratoriaus nustatyta tvarka.
 
 Įstatymas papildytas straipsniu:
 
-Nr. XI-1185,
+Nr. XI-1185, 2010-11-30,
 
-2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
+Žin., 2010, Nr. 148-7560 (2010-12-18)
 
