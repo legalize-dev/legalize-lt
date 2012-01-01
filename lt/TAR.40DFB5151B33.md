@@ -4,7 +4,7 @@ identifier: "TAR.40DFB5151B33"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-22"
-last_updated: "2011-12-31"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.40DFB5151B33"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2011-12-31 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2014-10-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7759, i. k. 1111010ISTA0XI-1868
 
@@ -818,140 +818,4 @@ priedas
 1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB (OL 2009 L 267, p. 7).
 
 _________________
-
-4. Elektroninių pinigų įstaigos paslapties apsaugai mutatis mutandis taikomas Bankų įstatymo 55 straipsnis.
-
-45 straipsnis. Neteko galios nuo 2018-08-01
-
-Straipsnio naikinimas:
-
-Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
-
-IX SKYRIUS
-
-ELEKTRONINIŲ PINIGŲ ĮSTAIGOS PABAIGA IR BANKROTAS
-
-46 straipsnis. Elektroninių pinigų įstaigos reorganizavimas ir likvidavimas
-
-1. Elektroninių pinigų įstaiga gali būti reorganizuojama ar likviduojama jos visuotinio akcininkų susirinkimo sprendimu tik gavus išankstinį priežiūros institucijos leidimą. Prašymų išduoti leidimą reorganizuoti ar likviduoti elektroninių pinigų įstaigą pateikimo ir nagrinėjimo tvarką bei kartu su prašymu pateikiamų dokumentų ir informacijos sąrašą nustato priežiūros institucija. Sprendimas dėl leidimo reorganizuoti arba likviduoti elektroninių pinigų įstaigą išdavimo priimamas per 3 mėnesius nuo prašymo išduoti leidimą pateikimo priežiūros institucijai dienos, atsižvelgiant į Lietuvos banko įstatymo 431 straipsnio nuostatas.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
-
-2. Jeigu sprendimą reorganizuoti ar likviduoti elektroninių pinigų įstaigą priima teismas, tai prieš priimdamas tokį sprendimą jis privalo gauti priežiūros institucijos išvadą dėl tokio sprendimo įtakos elektroninių pinigų įstaigos ir visos elektroninių pinigų įstaigų sistemos stabilumui ir patikimumui.
-
-3. Leidimas reorganizuoti elektroninių pinigų įstaigą neišduodamas, jeigu:
-
-1) pateikti dokumentai neatitinka įstatymuose ir priežiūros institucijos teisės aktuose nustatytų reikalavimų, pateikti ne visi teisės aktuose nurodyti ar papildomai pareikalauti duomenys arba jie netikslūs;
-
-2) reorganizavus elektroninių pinigų įstaigą jos teisės ir pareigos, susijusios su elektroninių pinigų leidimu, pereis juridiniam asmeniui, kuris neturi teisės leisti elektroninių pinigų Lietuvos Respublikoje;
-
-3) galima daryti išvadą, kad bus pažeidžiami elektroninių pinigų turėtojų turtiniai interesai arba gali kilti pavojus elektroninių pinigų įstaigos ar visos mokėjimų sistemos stabilumui ir patikimumui.
-
-4. Jeigu reorganizuojant elektroninių pinigų įstaigą įsteigiama nauja elektroninių pinigų įstaiga, ji šio įstatymo nustatyta tvarka turi gauti licenciją.
-
-5. Teismas priima sprendimą dėl elektroninių pinigų įstaigos likvidavimo, jeigu per nustatytus terminus neatliekami šio įstatymo 15 straipsnio 8 dalyje nurodyti veiksmai. Kreiptis į teismą dėl elektroninių pinigų įstaigos likvidavimo turi teisę priežiūros institucija ir elektroninių pinigų įstaigos vadovas.
-
-6. Elektroninių pinigų įstaiga ar teismas, priėmę sprendimą reorganizuoti ar likviduoti elektroninių pinigų įstaigą, privalo apie tai pranešti priežiūros institucijai.
-
-7. Leidimas likviduoti elektroninių pinigų įstaigą neišduodamas, jeigu:
-
-1) pateikti dokumentai neatitinka įstatymuose ir priežiūros institucijos teisės aktuose nustatytų reikalavimų, pateikti ne visi teisės aktuose nurodyti ar papildomai pareikalauti duomenys arba jie yra netikslūs;
-
-2) galima daryti išvadą, kad bus pažeidžiami elektroninių pinigų turėtojų turtiniai interesai arba gali kilti pavojus visos mokėjimų sistemos stabilumui ir patikimumui.
-
-8. Šio straipsnio 1 ir 7 dalys netaikomos, jeigu sprendimas likviduoti elektroninių pinigų įstaigą priimamas pagal šio įstatymo 15 straipsnio 8 dalį.
-
-47 straipsnis. Elektroninių pinigų įstaigų bankroto proceso ypatumai
-
-1. Elektroninių pinigų įstaigų bankroto procedūras reglamentuoja ir Lietuvos Respublikos įmonių bankroto įstatymas, jeigu šis įstatymas ir Finansų įstaigų įstatymas nenustato kitaip.
-
-2. Elektroninių pinigų įstaigos bankroto procedūra vykdoma tik teismo tvarka.
-
-3. Priežiūros institucija turi teisę pateikti teismui pareiškimą dėl bankroto bylos iškėlimo elektroninių pinigų įstaigai. Jeigu pareiškimą teismui dėl bankroto bylos iškėlimo pateikia kiti asmenys, teismas, prieš priimdamas sprendimą dėl bankroto bylos iškėlimo elektroninių pinigų įstaigai, privalo gauti priežiūros institucijos išvadą dėl elektroninių pinigų įstaigos nemokumo. Priežiūros institucija šią išvadą pateikia per 5 darbo dienas nuo prašymo pateikti išvadą gavimo dienos.
-
-4. Elektroninių pinigų įstaigos administratorius lėšas, į kurias pagal šio įstatymo 25 straipsnį negali būti nukreipiamas išieškojimas pagal elektroninių pinigų įstaigos prievoles, grąžina elektroninių pinigų turėtojams.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
-
-Lietuvos Respublikos
-
-elektroninių pinigų ir elektroninių
-
-pinigų įstaigų įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB (OL 2009 L 267, p. 7), su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 (OL 2015 L 337, p. 35).
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1036, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10869
-
-Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 10 straipsnio pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1107, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13430
-
-Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 12, 20 ir 37 straipsnių pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2563, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20317
-
-Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 8 straipsnio pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1242, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09856
-
-Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 27, 29, 30, 32, 35, 36, 37, 39, 40 straipsnių pakeitimo ir 28, 31 straipsnių pripažinimo netekusiais galios įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1094, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06730
-
-Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
-
-Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymo Nr. XIII-1094 1 ir 2 straipsnių pakeitimo įstatymas
-
-271 straipsnis. Elektroninių pinigų leidimo veiklos nutraukimo planas
-
-1. Elektroninių pinigų įstaiga turi turėti elektroninių pinigų leidimo veiklos nutraukimo planą, atitinkantį šio straipsnio 2 dalyje nustatytus reikalavimus.
-
-2. Elektroninių pinigų leidimo veiklos nutraukimo plane nustatomos priemonės sklandžiam elektroninių pinigų leidimo veiklos nutraukimui užtikrinti. Priežiūros institucija nustato išsamius elektroninių pinigų leidimo veiklos nutraukimo plano reikalavimus.
-
-3. Elektroninių pinigų įstaiga elektroninių pinigų leidimo veiklos nutraukimo planą turi parengti per 6 mėnesius nuo elektroninių pinigų leidimo veiklos vykdymo pradžios.
-
-4. Elektroninių pinigų įstaiga elektroninių pinigų leidimo veiklos nutraukimo planą turi peržiūrėti bent kartą per metus ir prireikus jį atnaujinti. Elektroninių pinigų įstaiga taip pat turi nedelsdama šį planą peržiūrėti ir prireikus atnaujinti, keisdama elektroninių pinigų įstaigos organizacinę struktūrą, veiklą, pasikeitus elektroninių pinigų įstaigos finansinei būklei ar kitoms aplinkybėms, galinčioms turėti reikšmingą poveikį elektroninių pinigų leidimo veiklos nutraukimui.
-
-5. Šio straipsnio nuostatos mutatis mutandis taikomos užsienio valstybės elektroninių pinigų įstaigos filialui.
-
-Papildyta straipsniu:
-
-Nr. XIV-3096, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20117
 
