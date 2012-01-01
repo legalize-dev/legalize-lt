@@ -4,7 +4,7 @@ identifier: "TAR.C6C5599DD9A1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-10-28"
-last_updated: "2011-05-03"
+last_updated: "2012-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2011-05-03 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2013-05-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
 
@@ -55,73 +55,203 @@ Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010IST
 
 3. Darbo diena – mokėjimo paslaugų teikėjo nustatyta diena, kurią mokėtojo mokėjimo paslaugų teikėjas arba gavėjo mokėjimo paslaugų teikėjas, dalyvaujantis vykdant mokėjimo operaciją, dirba vykdydamas mokėjimo operacijai atlikti būtiną veiklą.
 
-4. Elektroniniai pinigai – išleidžiami gavus lėšų pinigai, išreikšti kaip reikalavimas jų emitentui ir atitinkantys šiuos požymius:
+4. Elektroniniai pinigai – kaip ši sąvoka apibrėžta Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme.
 
-1) yra laikomi elektroninėse ar magnetinėse laikmenose kaip piniginė vertė;
+Straipsnio dalies pakeitimai:
 
-2) vykdant mokėjimo operacijas priimami asmenų, kurie nėra tų elektroninių pinigų emitentai.
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
-5. Gavėjas – fizinis arba juridinis asmuo, kuris gauna mokėjimo operacijos lėšas.
+5. Elektroninių pinigų įstaiga – Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme apibrėžta elektroninių pinigų įstaiga, kitos valstybės narės elektroninių pinigų įstaiga, jų filialai ir užsienio valstybės elektroninių pinigų įstaigos filialas, įsteigtas Lietuvos Respublikoje.
 
-6. Grupė – kaip ši sąvoka apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme.
+Papildyta straipsnio dalimi:
 
-7. Įskaitymo arba nurašymo data (toliau – įskaitymo data arba nurašymo data) – data, kurią naudoja mokėjimo paslaugų teikėjas apskaičiuodamas palūkanas už lėšas, įskaitomas į mokėjimo sąskaitą arba nurašomas iš jos.
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
-8. Komisinis atlyginimas – mokėjimo paslaugų teikėjo imamas atlyginimas už mokėjimo operaciją ir (ar) su ja susijusias paslaugas.
+6. Gavėjas – fizinis arba juridinis asmuo, kuris gauna mokėjimo operacijos lėšas.
 
-9. Kredito įstaiga – kaip ši sąvoka apibrėžta Lietuvos Respublikos finansų įstaigų įstatyme.
+Straipsnio dalies numeracijos pakeitimas:
 
-10. Kredito pervedimas – mokėjimo paslauga, kai mokėtojo iniciatyva lėšos pervedamos į gavėjo mokėjimo sąskaitą.
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
-11. Lėšos – grynieji pinigai (banknotai ir monetos), pinigai sąskaitoje ir elektroniniai pinigai.
+7. Grupė – kaip ši sąvoka apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme.
 
-12. Mokėjimo įstaiga – Lietuvos Respublikos mokėjimo įstaigų įstatyme apibrėžta mokėjimo įstaiga ir kitos valstybės narės mokėjimo įstaiga.
+Straipsnio dalies numeracijos pakeitimas:
 
-13. Mokėjimo nurodymas – mokėtojo arba gavėjo nurodymas savo mokėjimo paslaugų teikėjui įvykdyti mokėjimo operaciją.
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
-14. Mokėjimo operacija – mokėtojo arba gavėjo inicijuotas lėšų įmokėjimas, pervedimas arba išėmimas neatsižvelgiant į mokėtojo ir gavėjo pareigas, kuriomis grindžiama operacija.
+8. Įskaitymo arba nurašymo data (toliau – įskaitymo data arba nurašymo data) – data, kurią naudoja mokėjimo paslaugų teikėjas apskaičiuodamas palūkanas už lėšas, įskaitomas į mokėjimo sąskaitą arba nurašomas iš jos.
 
-15. Mokėjimo operacijos autentiškumo patvirtinimas (toliau – autentiškumo patvirtinimas) – procedūra, kurią atlikdamas mokėjimo paslaugų teikėjas tikrina mokėjimo priemonės, įskaitant jos personalizuotus saugumo požymius, naudojimą.
+Straipsnio dalies numeracijos pakeitimas:
 
-16. Mokėjimo paslauga – bet kuri šio įstatymo 5 straipsnyje nurodyta paslauga.
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
-17. Mokėjimo paslaugų teikėjai – šio įstatymo 6 straipsnyje nurodyti subjektai, kurie teikia šio įstatymo 5 straipsnyje nustatytas mokėjimo paslaugas.
+9. Komisinis atlyginimas – mokėjimo paslaugų teikėjo imamas atlyginimas už mokėjimo operaciją ir (ar) su ja susijusias paslaugas.
 
-18. Mokėjimo paslaugų teikėjo ir mokėjimo paslaugų vartotojo susitarimas (toliau – susitarimas) – rašytine ar kita forma sudarytas šalių susitarimas, nustatytas bendrojoje mokėjimo paslaugų sutartyje, vienkartinio mokėjimo sutartyje, mokėjimo paslaugų teikėjo nustatytose mokėjimo paslaugų teikimo sąlygose arba kituose dokumentuose, įpareigojančiuose mokėjimo paslaugų teikėją ir kitą susitariančią šalį.
+Straipsnio dalies numeracijos pakeitimas:
 
-19. Mokėjimo paslaugų vartotojas – fizinis arba juridinis asmuo, kuris naudojasi mokėjimo paslaugomis kaip mokėtojas ir (arba) gavėjas.
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
-20. Mokėjimo priemonė – personalizuota priemonė ir (arba) tam tikros procedūros, dėl kurių susitaria mokėjimo paslaugų vartotojas ir mokėjimo paslaugų teikėjas ir kurias mokėjimo paslaugų vartotojas naudoja mokėjimo nurodymui inicijuoti.
+10. Kredito įstaiga – kaip ši sąvoka apibrėžta Lietuvos Respublikos finansų įstaigų įstatyme.
 
-21. Mokėjimo sąskaita – vieno ar kelių mokėjimo paslaugų vartotojų vardu atidaryta sąskaita, naudojama mokėjimo operacijoms vykdyti.
+Straipsnio dalies numeracijos pakeitimas:
 
-22. Mokėjimo sistema – lėšų pervedimo sistema, kuri tvarkoma pagal bendras tos sistemos taisykles ir kuriai nustatyta standartizuota mokėjimo operacijų apdorojimo, tarpuskaitos ir (arba) atsiskaitymų tvarka.
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
-23. Mokėtojas – fizinis arba juridinis asmuo, kuris turi mokėjimo sąskaitą ir leidžia vykdyti mokėjimo nurodymą iš tos mokėjimo sąskaitos arba, nesant mokėjimo sąskaitos, fizinis arba juridinis asmuo, kuris pateikia mokėjimo nurodymą.
+11. Kredito pervedimas – mokėjimo paslauga, kai mokėtojo iniciatyva lėšos pervedamos į gavėjo mokėjimo sąskaitą.
 
-24. Nuotolinio ryšio priemonė – priemonė, kurią galima naudoti mokėjimo paslaugų sutarčiai per atstumą sudaryti, kai mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas sudarydami sutartį kartu fiziškai nedalyvauja.
+Straipsnio dalies numeracijos pakeitimas:
 
-25. Pagrindinė palūkanų norma – palūkanų norma, kurią nurodo abiem mokėjimo paslaugų sutarties šalims viešai prieinamas šaltinis ir pagal kurią apskaičiuojama palūkanų suma.
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
-26. Pagrindinis valiutos keitimo kursas – valiutos keitimo kursas, kurį nurodo mokėjimo paslaugų teikėjas arba skelbia viešai prieinamas šaltinis ir pagal kurį keičiama valiuta.
+12. Lėšos – grynieji pinigai (banknotai ir monetos), pinigai sąskaitoje ir elektroniniai pinigai.
 
-27. Patvarioji laikmena – laikmena, kurioje asmeniškai mokėjimo paslaugų vartotojui skirta informacija saugoma taip, kad su ta informacija būtų galima susipažinti informacijos paskirtį atitinkančiu laikotarpiu ir iš kurios laikoma informacija atgaminama jos nepakeičiant.
+Straipsnio dalies numeracijos pakeitimas:
 
-28. Pinigų perlaida – mokėjimo paslauga, kai lėšos gaunamos iš mokėtojo, neatidarant mokėjimo sąskaitos mokėtojo arba gavėjo vardu, tam, kad tam tikra suma būtų pervesta gavėjui ar gavėjo vardu veikiančiam mokėjimo paslaugų teikėjui, ir (ar) kai tokios lėšos gaunamos gavėjo vardu ir tampa jam prieinamos.
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
-29. Priimančioji valstybė narė – valstybė narė, kuri nėra buveinės valstybė narė ir kurioje mokėjimo paslaugų teikėjas yra įsteigęs filialą, turi tarpininką arba teikia mokėjimo paslaugas nesteigdamas filialo.
+13. Mokėjimo įstaiga – Lietuvos Respublikos mokėjimo įstaigų įstatyme apibrėžta mokėjimo įstaiga ir kitos valstybės narės mokėjimo įstaiga.
 
-30. Tiesioginis debetas – mokėjimo paslauga, kurią teikiant lėšos nurašomos iš mokėtojo mokėjimo sąskaitos, kai mokėjimo operaciją inicijuoja gavėjas, remdamasis gavėjui, gavėjo mokėjimo paslaugų teikėjui arba mokėtojo mokėjimo paslaugų teikėjui duotu mokėtojo sutikimu.
+Straipsnio dalies numeracijos pakeitimas:
 
-31. Unikalus identifikatorius – raidžių, skaičių ar simbolių derinys, kurį mokėjimo paslaugų teikėjas suteikia mokėjimo paslaugų vartotojui ir pagal kurį vienareikšmiškai atpažįstamas mokėjimo operacijoje dalyvaujantis mokėjimo paslaugų vartotojas ir (arba) mokėjimo operacijoje naudojama jo mokėjimo sąskaita.
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
-32. Užsienio valstybė – valstybė ne Europos Sąjungos valstybė narė ir ne Europos ekonominės erdvės valstybė.
+14. Mokėjimo nurodymas – mokėtojo arba gavėjo nurodymas savo mokėjimo paslaugų teikėjui įvykdyti mokėjimo operaciją.
 
-33. Valstybė narė – Europos Sąjungos valstybė narė, taip pat Europos ekonominės erdvės valstybė.
+Straipsnio dalies numeracijos pakeitimas:
 
-34. Vartotojas – fizinis asmuo, kuris pagal mokėjimo paslaugų sutartis, kurioms taikomas šis įstatymas, veikia siekdamas tikslų, nesusijusių su jo verslu ar profesine veikla.
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
-35. Vienkartinio mokėjimo sutartis – sutartis, kuria reglamentuojamas vienkartinių mokėjimo operacijų vykdymas. Vienkartinėms mokėjimo operacijoms vykdyti nesudaroma bendroji sutartis.
+15. Mokėjimo operacija – mokėtojo arba gavėjo inicijuotas lėšų įmokėjimas, pervedimas arba išėmimas neatsižvelgiant į mokėtojo ir gavėjo pareigas, kuriomis grindžiama operacija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+16. Mokėjimo operacijos autentiškumo patvirtinimas (toliau – autentiškumo patvirtinimas) – procedūra, kurią atlikdamas mokėjimo paslaugų teikėjas tikrina mokėjimo priemonės, įskaitant jos personalizuotus saugumo požymius, naudojimą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+17. Mokėjimo paslauga – bet kuri šio įstatymo 5 straipsnyje nurodyta paslauga.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+18. Mokėjimo paslaugų teikėjai – šio įstatymo 6 straipsnyje nurodyti subjektai, kurie teikia šio įstatymo 5 straipsnyje nustatytas mokėjimo paslaugas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+19. Mokėjimo paslaugų teikėjo ir mokėjimo paslaugų vartotojo susitarimas (toliau – susitarimas) – rašytine ar kita forma sudarytas šalių susitarimas, nustatytas bendrojoje mokėjimo paslaugų sutartyje, vienkartinio mokėjimo sutartyje, mokėjimo paslaugų teikėjo nustatytose mokėjimo paslaugų teikimo sąlygose arba kituose dokumentuose, įpareigojančiuose mokėjimo paslaugų teikėją ir kitą susitariančią šalį.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+20. Mokėjimo paslaugų vartotojas – fizinis arba juridinis asmuo, kuris naudojasi mokėjimo paslaugomis kaip mokėtojas ir (arba) gavėjas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+21. Mokėjimo priemonė – personalizuota priemonė ir (arba) tam tikros procedūros, dėl kurių susitaria mokėjimo paslaugų vartotojas ir mokėjimo paslaugų teikėjas ir kurias mokėjimo paslaugų vartotojas naudoja mokėjimo nurodymui inicijuoti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+22. Mokėjimo sąskaita – vieno ar kelių mokėjimo paslaugų vartotojų vardu atidaryta sąskaita, naudojama mokėjimo operacijoms vykdyti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+23. Mokėjimo sistema – lėšų pervedimo sistema, kuri tvarkoma pagal bendras tos sistemos taisykles ir kuriai nustatyta standartizuota mokėjimo operacijų apdorojimo, tarpuskaitos ir (arba) atsiskaitymų tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+24. Mokėtojas – fizinis arba juridinis asmuo, kuris turi mokėjimo sąskaitą ir leidžia vykdyti mokėjimo nurodymą iš tos mokėjimo sąskaitos arba, nesant mokėjimo sąskaitos, fizinis arba juridinis asmuo, kuris pateikia mokėjimo nurodymą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+25. Nuotolinio ryšio priemonė – priemonė, kurią galima naudoti mokėjimo paslaugų sutarčiai per atstumą sudaryti, kai mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas sudarydami sutartį kartu fiziškai nedalyvauja.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+26. Pagrindinė palūkanų norma – palūkanų norma, kurią nurodo abiem mokėjimo paslaugų sutarties šalims viešai prieinamas šaltinis ir pagal kurią apskaičiuojama palūkanų suma.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+27. Pagrindinis valiutos keitimo kursas – valiutos keitimo kursas, kurį nurodo mokėjimo paslaugų teikėjas arba skelbia viešai prieinamas šaltinis ir pagal kurį keičiama valiuta.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+28. Patvarioji laikmena – laikmena, kurioje asmeniškai mokėjimo paslaugų vartotojui skirta informacija saugoma taip, kad su ta informacija būtų galima susipažinti informacijos paskirtį atitinkančiu laikotarpiu ir iš kurios laikoma informacija atgaminama jos nepakeičiant.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+29. Pinigų perlaida – mokėjimo paslauga, kai lėšos gaunamos iš mokėtojo, neatidarant mokėjimo sąskaitos mokėtojo arba gavėjo vardu, tam, kad tam tikra suma būtų pervesta gavėjui ar gavėjo vardu veikiančiam mokėjimo paslaugų teikėjui, ir (ar) kai tokios lėšos gaunamos gavėjo vardu ir tampa jam prieinamos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+30. Priimančioji valstybė narė – valstybė narė, kuri nėra buveinės valstybė narė ir kurioje mokėjimo paslaugų teikėjas yra įsteigęs filialą, turi tarpininką arba teikia mokėjimo paslaugas nesteigdamas filialo.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+31. Tiesioginis debetas – mokėjimo paslauga, kurią teikiant lėšos nurašomos iš mokėtojo mokėjimo sąskaitos, kai mokėjimo operaciją inicijuoja gavėjas, remdamasis gavėjui, gavėjo mokėjimo paslaugų teikėjui arba mokėtojo mokėjimo paslaugų teikėjui duotu mokėtojo sutikimu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+32. Unikalus identifikatorius – raidžių, skaičių ar simbolių derinys, kurį mokėjimo paslaugų teikėjas suteikia mokėjimo paslaugų vartotojui ir pagal kurį vienareikšmiškai atpažįstamas mokėjimo operacijoje dalyvaujantis mokėjimo paslaugų vartotojas ir (arba) mokėjimo operacijoje naudojama jo mokėjimo sąskaita.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+33. Užsienio valstybė – valstybė ne Europos Sąjungos valstybė narė ir ne Europos ekonominės erdvės valstybė.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+34. Valstybė narė – Europos Sąjungos valstybė narė, taip pat Europos ekonominės erdvės valstybė.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+35. Vartotojas – fizinis asmuo, kuris pagal mokėjimo paslaugų sutartis, kurioms taikomas šis įstatymas, veikia siekdamas tikslų, nesusijusių su jo verslu ar profesine veikla.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+36. Vienkartinio mokėjimo sutartis – sutartis, kuria reglamentuojamas vienkartinių mokėjimo operacijų vykdymas. Vienkartinėms mokėjimo operacijoms vykdyti nesudaroma bendroji sutartis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
 3 straipsnis. Įstatymo taikymo sritis
 
@@ -169,7 +299,11 @@ Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010IST
 
 6) pinigų keitimo veiklai – grynųjų pinigų operacijoms, kai lėšos nelaikomos mokėjimo sąskaitoje;
 
-7) mokėjimo operacijoms, vykdomoms pagal bet kurį iš šių mokėjimo paslaugų teikėją įpareigojančių popierinių dokumentų siekiant perduoti lėšas gavėjui: čekius, kuriuos reglamentuoja Lietuvos Respublikos čekių įstatymas arba valstybių narių, kurios nėra 1931 m. Ženevos konvencijos dėl Vieningo čekių įstatymo šalys, teisės aktai; vekselius, kuriuos reglamentuoja Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymas arba valstybių narių, kurios nėra 1930 m. birželio 7 d. Ženevos konvencijos dėl Vieningo įsakomųjų ir paprastųjų vekselių įstatymo šalys, teisės aktai; pagrindimo dokumentus; kelionių čekius; pašto perlaidas, kaip jas apibrėžusi Pasaulinė pašto sąjunga;
+7) mokėjimo operacijoms, vykdomoms pagal bet kurį iš šių mokėjimo paslaugų teikėją įpareigojančių popierinių dokumentų siekiant perduoti lėšas gavėjui: čekius, kuriuos reglamentuoja Lietuvos Respublikos čekių įstatymas arba valstybių narių, kurios nėra 1931 m. Ženevos konvencijos dėl Vieningo čekių įstatymo šalys, teisės aktai; vekselius, kuriuos reglamentuoja Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymas arba valstybių narių, kurios nėra 1930 m. birželio 7 d. Ženevos konvencijos dėl Vieningo įsakomųjų ir paprastųjų vekselių įstatymo šalys, teisės aktai; pagrindimo dokumentus; kelionių čekius; pašto perlaidas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
 8) mokėjimo operacijoms, vykdomoms mokėjimo arba vertybinių popierių atsiskaitymo sistemoje arba tarp atsiskaitymų tarpininkų, pagrindinių sandorio šalių, tarpuskaitos namų ir (arba) centrinių bankų, kitų sistemos dalyvių ir mokėjimo paslaugų teikėjų, išskyrus šio įstatymo 8 straipsnį, kuris taikomas šiame punkte nurodytoms mokėjimo operacijoms;
 
@@ -241,19 +375,45 @@ Straipsnio punkto pakeitimai:
 
 Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010ISTA0XI-1340
 
-2) mokėjimo įstaigos;
+2) elektroninių pinigų įstaigos;
 
-3) pašto pinigų persiuntimo sistemų (žiro) įstaigos, įstatymų nustatyta tvarka turinčios teisę teikti mokėjimo paslaugas;
+Papildyta straipsnio punktu:
 
-4) Europos centrinis bankas ir valstybių narių centriniai bankai, kai jie teikia mokėjimo paslaugas, nesusijusias su jų, kaip pinigų ar valstybės institucijų, funkcijomis;
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
-5) valstybių narių valstybės, regionų ir savivaldybių institucijos, kai jos teikia mokėjimo paslaugas, nesusijusias su jų, kaip valstybės, regionų ar savivaldybių institucijų, funkcijomis.
+3) mokėjimo įstaigos;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+4) pašto pinigų persiuntimo sistemų (žiro) įstaigos, įstatymų nustatyta tvarka turinčios teisę teikti mokėjimo paslaugas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+5) Europos centrinis bankas ir valstybių narių centriniai bankai, kai jie teikia mokėjimo paslaugas, nesusijusias su jų, kaip pinigų ar valstybės institucijų, funkcijomis;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+6) valstybių narių valstybės, regionų ir savivaldybių institucijos, kai jos teikia mokėjimo paslaugas, nesusijusias su jų, kaip valstybės, regionų ar savivaldybių institucijų, funkcijomis.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
 7 straipsnis. Draudimas ne mokėjimo paslaugų teikėjams teikti mokėjimo paslaugas
 
 1. Fiziniams arba juridiniams asmenims, kurie nėra mokėjimo paslaugų teikėjai, draudžiama teikti šio įstatymo 5 straipsnyje nustatytas mokėjimo paslaugas.
 
-2. Šio įstatymo 6 straipsnio 3, 4 ir 5 punktuose nurodyti mokėjimo paslaugų teikėjai turi teisę teikti mokėjimo paslaugas be licencijos, suteikiančios teisę teikti mokėjimo paslaugas.
+2. Šio įstatymo 6 straipsnio 4, 5 ir 6 punktuose nurodyti mokėjimo paslaugų teikėjai turi teisę teikti mokėjimo paslaugas be licencijos, suteikiančios teisę teikti mokėjimo paslaugas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 
 8 straipsnis. Teisė naudotis mokėjimo sistemomis
 
@@ -285,7 +445,11 @@ Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010IST
 
 1. Mokėjimo paslaugų teikėjas negali iš mokėjimo paslaugų vartotojo imti komisinio atlyginimo už informacijos pateikimą pagal šio įstatymo III skyrių. Mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti dėl komisinio atlyginimo už mokėjimo paslaugų vartotojo prašymu teikiamą papildomą ar dažnesnį informavimą arba už informacijos perdavimą kitomis ryšio priemonėmis, negu nurodytos bendrojoje sutartyje. Tokiu atveju komisinis atlyginimas turi būti pagrįstas ir atitikti mokėjimo paslaugų teikėjo išlaidas.
 
-2. Mokėjimo paslaugų teikėjas negali iš mokėjimo paslaugų vartotojo imti komisinio atlyginimo už informavimo pareigų vykdymą ar taisomąsias ir prevencines priemones pagal šio įstatymo IV, V ir VI skyrius, išskyrus atvejus, numatytus šio įstatymo 33 straipsnio 2 dalyje, 34 straipsnio 4 dalyje ir 40 straipsnio 2 dalyje. Tokiais atvejais mokėjimo paslaugų vartotojas ir mokėjimo paslaugų teikėjas turi susitarti dėl komisinio atlyginimo, kuris turi būti pagrįstas ir atitikti mokėjimo paslaugų teikėjo išlaidas.
+2. Mokėjimo paslaugų teikėjas negali iš mokėjimo paslaugų vartotojo imti komisinio atlyginimo už informavimo pareigų vykdymą ar taisomąsias ir prevencines priemones pagal šio įstatymo IV, V, VI ir VII skyrius, išskyrus atvejus, numatytus šio įstatymo 33 straipsnio 2 dalyje, 34 straipsnio 4 dalyje ir 40 straipsnio 2 dalyje. Tokiais atvejais mokėjimo paslaugų vartotojas ir mokėjimo paslaugų teikėjas turi susitarti dėl komisinio atlyginimo, kuris turi būti pagrįstas ir atitikti mokėjimo paslaugų teikėjo išlaidas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1685, 2011-11-17, Žin., 2011, Nr. 146-6831 (2011-12-01), i. k. 1111010ISTA0XI-1685
 
 3. Jeigu vykdant mokėjimo operaciją valiuta nėra keičiama, gavėjas moka jo mokėjimo paslaugų teikėjo nustatytą komisinį atlyginimą, o mokėtojas moka jo mokėjimo paslaugų teikėjo nustatytą komisinį atlyginimą.
 
@@ -721,75 +885,145 @@ Mokėjimo sistemų operatoriai ir mokėjimo paslaugų teikėjai turi teisę tvar
 
 VI SKYRIUS
 
-ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS IR PRAŠYMŲ (SKUNDŲ) NAGRINĖJIMO TVARKA
+ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS IR ŠIO ĮSTATYMO PAŽEIDIMŲ NAGRINĖJIMO TVARKA
 
 45 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
-Asmenys, pažeidę šio įstatymo reikalavimus, atsako šio ir kitų įstatymų nustatyta tvarka.
+1. Asmenys, pažeidę šio įstatymo reikalavimus, atsako šio ir kitų įstatymų nustatyta tvarka.
 
-46 straipsnis. Už prašymų (skundų) nagrinėjimą ir poveikio priemonių taikymą atsakinga institucija
+2. Už šio įstatymo nuostatų pažeidimus mokėjimo paslaugų teikėjams Lietuvos bankas gali skirti nuo vieno tūkstančio iki 30 tūkstančių litų baudą. Tais atvejais, kai pažeidimai buvo padaryti šio straipsnio 5 dalyje nurodytomis atsakomybę sunkinančiomis aplinkybėmis, mokėjimo paslaugų teikėjams gali būti skiriama didesnė – nuo 30 iki 120 tūkstančių litų – bauda. Tais atvejais, kai pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems mokėjimo paslaugų vartotojų interesams, Lietuvos bankas, vadovaudamasis teisingumo ir protingumo kriterijais, mokėjimo paslaugų teikėjams gali taikyti nuobaudą – įspėjimą, neskirdamas baudos.
 
-1. Vartotojų prašymus (skundus) dėl Lietuvos Respublikoje įsisteigusių, turinčių tarpininką arba filialą mokėjimo paslaugų teikėjų teikiamų mokėjimo paslaugų Lietuvos Respublikoje nagrinėja ir šio įstatymo 52 straipsnyje nustatytas poveikio priemones taiko Valstybinė vartotojų teisių apsaugos tarnyba (toliau – Tarnyba).
+3. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudų, nustatytų šio straipsnio 2 dalies pirmame sakinyje, vidurkį. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio 4 ir 5 dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Baudos dydžio mažinimas ar didinimas turi būti motyvuojamas Lietuvos banko sprendime.
 
-2. Prašymų (skundų) nagrinėjimo ir šio įstatymo 52 straipsnyje nustatytų poveikio priemonių taikymo tvarką nustato šis įstatymas ir Tarnybos patvirtintos taisyklės.
+4. Atsakomybę lengvinančiomis aplinkybėmis laikomos aplinkybės, kai padarę pažeidimą mokėjimo paslaugų teikėjai savo noru užkirto kelią žalingoms pažeidimo pasekmėms, bendradarbiavo su Lietuvos banku tyrimo metu, atlygino nuostolius ir (ar) pašalino padarytą žalą.
 
-47 straipsnis. Tarnybos funkcijos
+5. Atsakomybę sunkinančiomis aplinkybėmis laikomos aplinkybės, kai padarę pažeidimą mokėjimo paslaugų teikėjai kliudė atlikti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą, nepaisydami Lietuvos banko sprendimu paskirtos baudos, įspėjimo, arba pakartotinai padarė pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda.
 
-Tarnyba, kiek tai susiję su vartotojų teisių apsauga:
+6. Mokėjimo paslaugų teikėjui, kuris nepateikia informacijos ar dokumentų, reikalingų šio įstatymo pažeidimui tirti (neteisingos informacijos pateikimas taip pat laikomas informacijos nepateikimu), Lietuvos bankas gali skirti iki 10 tūkstančių litų baudą.
 
-1) stebi, ar mokėjimo paslaugų teikėjai tinkamai laikosi šiame įstatyme nustatytų reikalavimų;
+46 straipsnis. Lietuvos banko sprendimo vykdymas
 
-2) taiko šio įstatymo 52 straipsnyje nustatytas poveikio priemones mokėjimo paslaugų teikėjams, pažeidusiems šį įstatymą;
+1. Lietuvos banko sprendimas turi būti įvykdytas ne vėliau kaip per 30 dienų nuo tos dienos, kurią šio įstatymo reikalavimus pažeidusiam asmeniui jis buvo įteiktas. Apskundus Lietuvos banko sprendimą dėl baudos skyrimo, bauda turi būti sumokėta ne vėliau kaip per 30 dienų nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos.
 
-3) nagrinėja šio įstatymo 49 straipsnio 1 dalyje nurodytus prašymus (skundus) dėl šio įstatymo pažeidimo (toliau – prašymas (skundas);
+2. Lietuvos banko sprendimas yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Lietuvos banko sprendimas gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo jo priėmimo dienos.
 
-4) savo iniciatyva nagrinėja galimus šio įstatymo pažeidimus;
+47 straipsnis. Lietuvos banko sprendimo apskundimas
 
-5) bendradarbiauja su mokėjimo paslaugų teikėjų priežiūros institucija;
+1. Mokėjimo paslaugų teikėjai, nesutinkantys su Lietuvos banko sprendimu, turi teisę per trisdešimt dienų nuo sprendimo priėmimo dienos apskųsti sprendimą teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-6) iškilus tarptautiniams ginčams, bendradarbiauja su valstybių narių ir užsienio valstybių atitinkamomis institucijomis;
+2. Kreipimasis į teismą sustabdo Lietuvos banko sprendimo dėl baudos skyrimo vykdymą.
 
-7) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas.
+48 straipsnis. Šio įstatymo pažeidimų nagrinėjimo tvarka
 
-48 straipsnis. Mokėjimo paslaugų vartotojų ir mokėjimo paslaugų teikėjų ginčų sprendimas
+Lietuvos Respublikos vartojimo kredito įstatymo šeštajame skirsnyje nustatyta pažeidimų nagrinėjimo tvarka mutatis mutandis taikoma šio įstatymo pažeidimams nagrinėti.
 
-1. Mokėjimo paslaugų vartotojų prašymus (skundus) dėl mokėjimo paslaugų teikėjo veiksmų, kuriais mokėjimo paslaugų teikėjas galėjo pažeisti šio įstatymo reikalavimus ir (ar) mokėjimo paslaugų vartotojo teisėtus interesus, nagrinėja mokėjimo paslaugų teikėjas. Mokėjimo paslaugų teikėjas privalo išnagrinėti rašytinius mokėjimo paslaugų vartotojo prašymus (skundus) ir raštu jam atsakyti per trisdešimt kalendorinių dienų nuo prašymo (skundo) gavimo dienos.
+Skyriaus pakeitimai:
 
-2. Mokėjimo paslaugų vartotojų prašymus (skundus) mokėjimo paslaugų teikėjas nagrinėja nemokamai.
+Nr. XI-1685, 2011-11-17, Žin., 2011, Nr. 146-6831 (2011-12-01), i. k. 1111010ISTA0XI-1685
 
-3. Jeigu mokėjimo paslaugų teikėjo atsakymas į mokėjimo paslaugų vartotojo prašymą (skundą) netenkina mokėjimo paslaugų vartotojo ar jam nebuvo atsakyta, mokėjimo paslaugų vartotojas turi teisę kreiptis į teismą įstatymų nustatyta tvarka arba, jei mokėjimo paslaugų vartotojas yra vartotojas, – į Tarnybą šio įstatymo nustatyta tvarka.
+VII SKYRIUS
 
-49 straipsnis. Šio įstatymo pažeidimų nagrinėjimo iniciatyvos teisė
+GINČŲ NAGRINĖJIMO TVARKA
 
-1. Teisę kreiptis į Tarnybą su prašymu (skundu) turi:
+49 straipsnis. Kreipimasis į ginčus nagrinėjančias institucijas
 
-1) vartotojai;
+Mokėjimo paslaugų vartotojas, manydamas, kad mokėjimo paslaugų teikėjas pažeidė jo teises ar įstatymų saugomus interesus, turi teisę kreiptis į teismą arba į išankstinio ginčų sprendimo ne teisme instituciją – Lietuvos banką – Lietuvos Respublikos Lietuvos banko įstatymo nustatyta tvarka.
 
-2) vartotojų asociacijos;
+Papildyta skyriumi:
 
-3) valstybės ir savivaldybių institucijos ir įstaigos – dėl vartotojų prašymų (skundų).
+Nr. XI-1685, 2011-11-17, Žin., 2011, Nr. 146-6831 (2011-12-01), i. k. 1111010ISTA0XI-1685
 
-2. Jeigu Tarnyba, nagrinėdama prašymus (skundus) kitų įstatymų nustatyta tvarka, nustato pakankamai duomenų apie galimą šio įstatymo pažeidimą, ji privalo pradėti šio įstatymo pažeidimo nagrinėjimo procedūrą.
+VIII SKYRIUS
 
-3. Tarnyba turi teisę pradėti galimų šio įstatymo pažeidimų nagrinėjimą savo iniciatyva. Tokiu atveju mutatis mutandis taikomos šio įstatymo 50 straipsnio 4 dalies, 51 ir 52 straipsnių nuostatos.
+BAIGIAMOSIOS NUOSTATOS
 
-50 straipsnis. Prašymo (skundo) pateikimas Tarnybai ir jo nagrinėjimo tvarka
+50 straipsnis. Mokėjimo paslaugų teikėjų teisė nustatyti palankesnes sąlygas mokėjimo paslaugų vartotojams ir komisinių bei kitų atlyginimų nustatymas
 
-1. Prašymas (skundas) Tarnybai pateikiamas raštu, jame turi būti nurodytas pareiškėjo vardas, pavardė ir adresas. Prašymas (skundas) turi būti pasirašytas pareiškėjo arba jo atstovo. Prašyme (skunde) nurodomos pareiškėjui žinomos įtariamo šio įstatymo nuostatų pažeidimo faktinės aplinkybės. Prie prašymo (skundo) pridedami pareiškėjo turimi jų patvirtinimo dokumentai.
+1. Mokėjimo paslaugų teikėjai turi teisę nustatyti palankesnes sąlygas mokėjimo paslaugų vartotojams, negu nustatytos šiame įstatyme.
 
-2. Pradėti prašymo (skundo) nagrinėjimo procedūrą atsisakoma, jeigu:
+2. Mokėjimo paslaugų teikėjai nustato komisinius ir kitus atlyginimus nepiktnaudžiaudami ir taip, kad jie atitiktų teikiamos mokėjimo paslaugos pobūdį, būtų ekonomiškai pagrįsti ir teisingi.
 
-1) prašyme (skunde) nurodyti faktiniai duomenys jau buvo patikrinti ir dėl jų priimtas nutarimas, ginčą nagrinėja teismas arba yra įsigaliojęs teismo sprendimas dėl tų pačių šalių ginčo, dėl to paties dalyko ir tuo pačiu pagrindu;
+Skyriaus pakeitimai:
 
-2) nėra faktinių duomenų, kurie leistų pagrįstai įtarti šio įstatymo pažeidimą;
+Nr. XI-1685, 2011-11-17, Žin., 2011, Nr. 146-6831 (2011-12-01), i. k. 1111010ISTA0XI-1685
 
-3) nuo dienos, kai šio įstatymo 49 straipsnio 1 dalyje nurodytas asmuo sužinojo arba turėjo sužinoti apie prašyme (skunde) nurodytą šio įstatymo pažeidimą, iki prašymo (skundo) padavimo yra praėję daugiau kaip šeši mėnesiai, bet visais atvejais – daugiau kaip treji metai nuo pažeidimo padarymo dienos;
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-4) Tarnyba teisės aktų nustatyta tvarka nėra įgaliota priimti sprendimo dėl prašyme (skunde) nurodyto reikalavimo.
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
-3. Tarnyba per trisdešimt kalendorinių dienų nuo prašymo (skundo) pateikimo dienos informuoja pareiškėją apie prašymo (skundo) nagrinėjimo procedūrą arba apie priežastis, dėl kurių atsisakoma pradėti prašymo (skundo) nagrinėjimo procedūrą.
+Lietuvos Respublikos
 
-4. Tarnyba šio įstatymo pažeidimus nagrinėja ir baudas arba įspėjimus skiria ne vėliau kaip per keturis mėnesius nuo prašymo (skundo) pateikimo dienos.
+mokėjimų įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1), su paskutiniais pakeitimais, padarytais 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/111/EB (OL 2009 L 302, p. 97).
+
+2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinantis Reglamentą (EB) Nr. 2560/2001 (OL 2009 L 266, p. 11).
+
+Priedo pakeitimai:
+
+Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010ISTA0XI-1340
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1596, 2003-06-05, Žin., 2003, Nr. 61-2753 (2003-06-27), i. k. 1031010ISTA0IX-1596
+
+Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2404, 2004-07-15, Žin., 2004, Nr. 116-4336 (2004-07-27), i. k. 1041010ISTA0IX-2404
+
+Lietuvos Respublikos mokėjimų įstatymo 7 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1351, 2007-12-05, Žin., 2007, Nr. 132-5355 (2007-12-15), i. k. 1071010ISTA00X-1351
+
+Lietuvos Respublikos mokėjimų įstatymo 3 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-550, 2009-12-10, Žin., 2009, Nr. 153-6888 (2009-12-28), i. k. 1091010ISTA00XI-550
+
+Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010ISTA0XI-1340
+
+Lietuvos Respublikos mokėjimų įstatymo 1, 3, 6 straipsnių ir Įstatymo priedo pakeitimo ir papildymo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1685, 2011-11-17, Žin., 2011, Nr. 146-6831 (2011-12-01), i. k. 1111010ISTA0XI-1685
+
+Lietuvos Respublikos mokėjimų įstatymo 9 straipsnio, VI ir VII skyrių pakeitimo ir papildymo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
+
+Lietuvos Respublikos mokėjimų įstatymo 2, 3, 6, 7 straipsnių pakeitimo ir papildymo įstatymas
 
 51 straipsnis. Prašymo (skundo) nagrinėjimo procedūroje dalyvaujantys asmenys
 
