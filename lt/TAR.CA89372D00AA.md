@@ -4,7 +4,7 @@ identifier: "TAR.CA89372D00AA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2011-05-03"
+last_updated: "2012-01-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CA89372D00AA"
 department: "Lietuvos Respublikos Seimas"
@@ -482,9 +482,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. XI-444, 2009-10-22,
+Nr. XI-444,
 
-Žin., 2009, Nr. 130-5637 (2009-10-31)
+2009-10-22, Žin., 2009, Nr. 130-5637 (2009-10-31)
 
 15 straipsnis. Policijos pareigūnų rengimas ir kvalifikacijos
 
@@ -684,23 +684,23 @@ patalpas jų asmenybei nustatyti, taip pat protokolams, aktams, pranešimams
 
 surašyti, asmenims ir jų turimiems daiktams apžiūrėti;
 
-3) persekiodamas asmenį, įtariamą padarius nusikalstamą
+3) persekiodamas asmenį, įtariamą padarius
 
-veiką, ar nusikaltėlį, besislepiantį nuo teisėsaugos institucijų, taip pat
+nusikalstamą veiką, ar nusikaltėlį, besislepiantį nuo teisėsaugos institucijų,
 
-siekdamas užkirsti kelią daromai nusikalstamai veikai, bet kuriuo paros laiku
+taip pat siekdamas užkirsti kelią daromai nusikalstamai veikai, bet kuriuo
 
-įeiti į fiziniams ir juridiniams asmenims priklausančias gyvenamąsias ar
+paros laiku įeiti į fiziniams ir juridiniams asmenims priklausančias
 
-negyvenamąsias patalpas, teritorijas, sustabdyti bei patekti į transporto
+gyvenamąsias ar negyvenamąsias patalpas, teritorijas, sustabdyti bei patekti į
 
-priemones. Atsisakius paklusti, policijos pareigūnai turi teisę jėga atidaryti
+transporto priemones. Atsisakius paklusti, policijos pareigūnai turi teisę jėga
 
-patalpas ir transporto priemones. Ši teisė taip pat suteikiama stichinės
+atidaryti patalpas ir transporto priemones. Ši teisė taip pat suteikiama
 
-nelaimės ar katastrofos atveju. Apie tokius veiksmus per 24 valandas pranešama
+stichinės nelaimės ar katastrofos atveju. Apie tokius veiksmus per 24 valandas
 
-prokurorui;
+pranešama prokurorui;
 
 4) šio įstatymo ketvirtajame skirsnyje numatytais
 
@@ -2424,21 +2424,19 @@ straipsnis. Policijos pareigūno atsakomybė
 
 pareigūnas asmeniškai atsako už savo veiksmus ir sprendimus bei jų padarinius.
 
-2. Policijos
+2. Policijos pareigūnas,
 
-pareigūnas, vykdydamas jam patikėtas pareigas ir pažeidęs įstatymo
+vykdydamas jam patikėtas pareigas ir pažeidęs įstatymo reikalavimus, įstatymų
 
-reikalavimus, įstatymų ir kitų teisės aktų nustatyta tvarka, atsižvelgiant į
+ir kitų teisės aktų nustatyta tvarka, atsižvelgiant į pažeidimo pobūdį,
 
-pažeidimo pobūdį, traukiamas tarnybinėn, administracinėn, materialinėn ar
+traukiamas tarnybinėn, administracinėn, materialinėn ar baudžiamojon
 
-baudžiamojon atsakomybėn.
+atsakomybėn.
 
-3. Žinomai
+3. Žinomai neteisėto
 
-neteisėto įsakymo ar nurodymo vykdymas policijos pareigūno nuo atsakomybės
-
-neatleidžia.
+įsakymo ar nurodymo vykdymas policijos pareigūno nuo atsakomybės neatleidžia.
 
 4. Neteisėta
 
@@ -2546,9 +2544,9 @@ pavojaus šaltiniui likviduoti.
 
 7. Policijos
 
-pareigūnas, panaudojęs prievartą nepažeisdamas šio įstatymo reikalavimų ir padaręs
+pareigūnas, panaudojęs prievartą nepažeisdamas šio įstatymo reikalavimų ir
 
-žalą įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
+padaręs žalą įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
 
 8. Apie
 
@@ -2616,11 +2614,11 @@ kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad j
 
 invalidai ar nepilnamečiai (jei jų amžius žinomas pareigūnui arba išvaizda
 
-atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar sveikatai
+atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar
 
-būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei
+sveikatai būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas kelia
 
-ar sveikatai.
+grėsmę gyvybei ar sveikatai.
 
 25
 
@@ -2682,9 +2680,11 @@ taip pat prieš asmenis, jei akivaizdu, kad jie invalidai, prieš nepilnamečius
 
 jei jų amžius žinomas pareigūnui arba išvaizda atitinka amžių, išskyrus
 
-atvejus, kai jie priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba jei
+atvejus, kai jie priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba
 
-užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
+jei užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar
+
+sveikatai.
 
 26
 
@@ -2996,9 +2996,29 @@ POLICIJOS VEIKLOS ĮSTATYMO 12 IR
 
 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-*** Pabaiga ***
+8.
 
-Redagavo Aušrinė Trapinskienė (2011-05-04)
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-1900,
+
+2011-12-22, Žin., 2012, Nr. 5-140 (2012-01-07)
+
+POLICIJOS
+
+VEIKLOS ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo
+
+Aušrinė Trapinskienė (2012-01-10)
 
 ausrine.trapinskiene@lrs.lt
 
@@ -3392,7 +3412,11 @@ Teritorinės policijos įstaigos
 
 komisariatai, atliekantys šio įstatymo ir kitų teisės aktų jiems nustatytas
 
-funkcijas, reikalingas policijos uždaviniams apskrities teritorijoje įgyvendinti.
+funkcijas, reikalingas policijos uždaviniams apskričių teritorijose įgyvendinti.
+
+Teritorinės policijos įstaigos veiklos ribas nustato policijos generalinis
+
+komisaras.
 
 2.
 
@@ -3436,9 +3460,9 @@ sveikatai ar turtui išsaugoti reikalingą pagalbą;
 
 generalinio komisaro nustatyta tvarka saugo rastus ir
 
-perduotus policijai dokumentus, daiktus, vertybes ir kitokį turtą ir imasi
+perduotus policijai dokumentus, daiktus, vertybes ir kitokį turtą ir imasi priemonių
 
-priemonių grąžinti juos teisėtiems savininkams ar valdytojams;
+grąžinti juos teisėtiems savininkams ar valdytojams;
 
 6) atlieka eismo automobilių keliais priežiūrą
 
@@ -3450,9 +3474,9 @@ viešose vietose;
 
 tvarka atlieka paiešką dingusių ar pasislėpusių
 
-asmenų, kurių buvimo vieta nežinoma ir dėl kurių teisės aktų nustatytais pagrindais
+asmenų, kurių buvimo vieta nežinoma ir dėl kurių teisės aktų nustatytais
 
-ir tvarka priimtas sprendimas paskelbti paiešką, rastų
+pagrindais ir tvarka priimtas sprendimas paskelbti paiešką, rastų
 
 neatpažintų lavonų, nežinomų ligonių ar nežinomų vaikų asmens tapatybės
 
@@ -3480,9 +3504,13 @@ vykdo teismų nuosprendžius, nutarimus ir nutartis;
 
 planus;
 
-13) atlieka kitas teisės aktuose nustatytas
+13) atlieka kitas teisės
 
-funkcijas, reikalingas policijos uždaviniams apskrities teritorijoje įgyvendinti.
+aktuose nustatytas funkcijas, reikalingas policijos uždaviniams apskričių
+
+teritorijose pagal policijos generalinio komisaro įsakymu nustatytas
+
+teritorinės policijos įstaigos veiklos ribas įgyvendinti.
 
 4. Teritorinės policijos įstaigos joms priskirtas
 
@@ -3525,6 +3553,12 @@ Nr.
 X-1704,
 
 2008-07-15, Žin., 2008, Nr. 87-3464 (2008-07-31)
+
+Nr.
+
+XI-1900,
+
+2011-12-22, Žin., 2012, Nr. 5-140 (2012-01-07)
 
 1 straipsnis. Įstatymo paskirtis
 
