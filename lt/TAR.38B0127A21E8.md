@@ -4,7 +4,7 @@ identifier: "TAR.38B0127A21E8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-12"
-last_updated: "2011-05-03"
+last_updated: "2012-01-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.38B0127A21E8"
 department: "Lietuvos Respublikos Seimas"
@@ -1528,19 +1528,17 @@ organizatorius išduoda kruizo dalyviui.
 
 2.
 
-Kruizo dalyvis iki kruizo pradžios turi teisę nutraukti          sutartį.
+Kruizo dalyvis iki kruizo pradžios turi teisę nutraukti sutartį. Kruizo
 
-Kruizo dalyvis, pranešęs          kruizo organizatoriui apie jūrų kruizo
+dalyvis, pranešęs       kruizo organizatoriui apie jūrų kruizo sutarties
 
-sutarties nutraukimą, turi teisę gauti visą arba dalį sumokėtos už kruizą sumos
+nutraukimą, turi teisę gauti visą arba dalį sumokėtos už kruizą sumos sutartyje
 
-sutartyje nustatyta tvarka. Jei kruizo organizatorius negali aprūpinti kruizo
+nustatyta tvarka. Jei kruizo organizatorius negali aprūpinti kruizo dalyvio
 
-dalyvio vieta jūrų kruizo sutartyje nurodytame arba kitame analogiškame laive,
+vieta jūrų kruizo sutartyje nurodytame arba kitame analogiškame laive, kruizo
 
-kruizo dalyvis turi teisę nutraukti jūrų kruizo sutartį ir gauti visą sumokėtą
-
-sumą.
+dalyvis turi teisę nutraukti jūrų kruizo sutartį ir gauti visą sumokėtą sumą.
 
 3.
 
@@ -1892,11 +1890,9 @@ susidūrimo šalies kaltės dydžio, atsakomybė paskirstoma lygiomis dalimis.
 
 5.
 
-Šio straipsnio 4 dalyje nurodytu atveju laivų valdytojai solidariai atsako
+Šio straipsnio 4 dalyje nurodytu atveju laivų valdytojai solidariai atsako tretiesiems
 
-tretiesiems asmenims už nuostolius dėl žmonių mirties arba jų sveikatos
-
-sužalojimo.
+asmenims už nuostolius dėl žmonių mirties arba jų sveikatos sužalojimo.
 
 6.
 
@@ -1914,11 +1910,11 @@ siekiant išvengti povandeninio kabelio ar vamzdyno pažeidimo, atlyginimas
 
 1. Povandeninio kabelio ar
 
-vamzdyno savininkas privalo atlyginti nuostolius, patirtus laivų savininkų, kurie
+vamzdyno savininkas privalo atlyginti nuostolius, patirtus laivų savininkų,
 
-įrodo, jog patyrė nuostolius (prarado inkarą, tinklą ar kitą žvejybos įrangą)
+kurie įrodo, jog patyrė nuostolius (prarado inkarą, tinklą ar kitą žvejybos
 
-siekdami išvengti povandeninio kabelio ar vamzdyno pažeidimo.
+įrangą) siekdami išvengti povandeninio kabelio ar vamzdyno pažeidimo.
 
 2. Šio straipsnio 1 dalyje nustatyta prievolė
 
@@ -2114,15 +2110,13 @@ bendrosios avarijos įnašų, priklausančių krovinių savininkui.
 
 1.
 
-Jeigu laivui plaukiojant jūroje arba stovint uoste įvyko įvykis, kuris gali
+Jeigu laivui plaukiojant jūroje arba stovint uoste įvyko įvykis, kuris gali būti
 
-būti pagrindu pareikšti laivo valdytojui turtinius reikalavimus, laivo
+pagrindu pareikšti laivo valdytojui turtinius reikalavimus, laivo kapitonas,
 
-kapitonas, norėdamas užtikrinti įrodymus laivo valdytojo teisėms ir teisėtiems
+norėdamas užtikrinti įrodymus laivo valdytojo teisėms ir teisėtiems interesams
 
-interesams ginti, pasirūpina, kad nustatyta tvarka būtų surašytas jūrinio
-
-protesto aktas.
+ginti, pasirūpina, kad nustatyta tvarka būtų surašytas jūrinio protesto aktas.
 
 2.
 
@@ -2338,19 +2332,9 @@ Lietuvos Respublikos civiliniame kodekse ar Lietuvos Respublikos hipotekos
 
 įstatyme, taikomos šio Įstatymo nuostatos.
 
-Straipsnio pakeitimai:
+Straipsnio redakcija nuo
 
-Nr. VIII-1899, 00.08.29, Žin., 2000,
-
-Nr.75-2266 (00.09.07)
-
-Nr. VIII-1963, 00.09.26, Žin., 2000,
-
-Nr.85-2584 (00.10.11)
-
-Nr. IX-595, 2001-11-13,
-
-Žin., 2001, Nr. 99-3527 (2001-11-28)
+2012-07-01:
 
 79 straipsnis. Laivo
 
@@ -2374,6 +2358,10 @@ bei krovinio, priklausančių laivo savininkui ar kitam asmeniui.
 
 sudarymo momentu gali būti nenurodyta.
 
+Straipsnio redakcija nuo
+
+2012-07-01:
+
 80 straipsnis. Laivo
 
 hipotekos registravimas
@@ -2382,9 +2370,13 @@ Prašymas įregistruoti, pakeisti ar baigti laivo
 
 hipoteką pateikiamas Klaipėdos miesto apylinkės teismo Hipotekos skyriui.
 
-81 straipsnis. Įkeisto laivo
+Straipsnio redakcija nuo
 
-išregistravimas
+2012-07-01:
+
+81 straipsnis. Įkeisto
+
+laivo išregistravimas
 
 1. Įkeistas laivas negali būti išregistruotas iš
 
@@ -2412,15 +2404,41 @@ išregistruotas anksčiau negu po 3 mėnesių nuo hipotekos kreditorių įspėji
 
 visų hipotekos kreditorių sutikimas tai padaryti anksčiau.
 
+2 dalies redakcija nuo
+
+2012-07-01:
+
+2. Jeigu pagal Laivų registravimo taisykles įkeistas
+
+laivas privalo būti išregistruotas iš Lietuvos Respublikos jūrų laivų registro
+
+kitais negu laivo pardavimas atvejais, apie tai turi būti pranešta visiems
+
+Hipotekos registre nurodytiems hipotekos kreditoriams, kad šie turėtų laiko
+
+imtis veiksmų savo interesams apsaugoti. Šioje dalyje nurodytu atveju įkeistas
+
+laivas negali būti išregistruotas anksčiau negu po 3 mėnesių nuo hipotekos
+
+kreditorių įspėjimo. Šio reikalavimo galima nepaisyti, jei yra pateiktas
+
+notariškai patvirtintas visų hipotekos kreditorių sutikimas tai padaryti
+
+anksčiau.
+
 Straipsnio pakeitimai:
 
-Nr. VIII-1899, 00.08.29, Žin., 2000, Nr.75-2266
+Nr. VIII-1899, 00.08.29, Žin., 2000,
 
-(00.09.07)
+Nr.75-2266 (00.09.07)
 
 Nr. VIII-1963, 00.09.26, Žin., 2000,
 
 Nr.85-2584 (00.10.11)
+
+Nr. XI-1847,
+
+2011-12-22, Žin., 2012, Nr. 6-183 (2012-01-10)
 
 82 straipsnis. Laikinas
 
@@ -2460,17 +2478,33 @@ Nr.85-2584 (00.10.11)
 
 įkeisto laivo pardavimas
 
+1. Sprendimas priverstinai parduoti Lietuvos Respublikoje
+
+įkeistą laivą priimamas Lietuvos Respublikos hipotekos įstatymo nustatyta
+
+tvarka.
+
+1 dalies redakcija nuo
+
+2012-07-01:
+
 1. Sprendimas priverstinai parduoti Lietuvos
 
-Respublikoje įkeistą laivą priimamas Lietuvos Respublikos hipotekos įstatymo
+Respublikoje įkeistą laivą priimamas Lietuvos Respublikos civilinio proceso
 
-nustatyta tvarka.
+kodekso nustatyta tvarka.
 
 2. Priverstinis įkeisto laivo pardavimas išlaisvina jį
 
 nuo visų hipotekų ar apsunkinimų tik tuo atveju, jei pardavimo metu įkeistas
 
 laivas buvo Lietuvos Respublikos teritorijoje.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1847,
+
+2011-12-22, Žin., 2012, Nr. 6-183 (2012-01-10)
 
 PENKIOLIKTASIS SKIRSNIS
 
@@ -2494,9 +2528,9 @@ jūrininko knygelė.
 
 2.
 
-Laivo valdytojas gali suteikti teisę laivo kapitonui laivo valdytojo vardu pasirašyti
+Laivo valdytojas gali suteikti teisę laivo kapitonui laivo valdytojo vardu
 
-darbo sutartis su jūrininkais.
+pasirašyti darbo sutartis su jūrininkais.
 
 3.
 
@@ -2756,9 +2790,7 @@ LAIVYBOS ĮSTATYMO KETURIOLIKTOJO SKIRSNIO PAKEITIMO ĮSTATYMAS
 
 2.
 
-Lietuvos Respublikos Seimas,
-
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. VIII-1255,
 
@@ -2870,11 +2902,11 @@ LAIVYBOS ĮSTATYMO 1, 2, 3, 4, 8, 11, 14, 15, 21, 27, 70, 75, 85, 86 STRAIPSNIŲ
 
 PAKEITIMO IR PAPILDYMO, 16, 17, 18, 19, 28, 30, 69, 71, 72, 73, 74, 77
 
-STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS, ŠEŠTOJO IR DEVINTOJO SKIRSNIŲ PAVADINIMŲ
+STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS, ŠEŠTOJO IR DEVINTOJO SKIRSNIŲ
 
-PAKEITIMO, ĮSTATYMO PAPILDYMO 40(1) IR 57(1) STRAIPSNIAIS BEI ĮSTATYMO
+PAVADINIMŲ PAKEITIMO, ĮSTATYMO PAPILDYMO 40(1) IR 57(1) STRAIPSNIAIS BEI
 
-PAPILDYMO PRIEDU ĮSTATYMAS
+ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
 
 13 straipsnis. Laivo kapitono teisės,
 
@@ -3052,7 +3084,9 @@ Nr. IX-1680,
 
 35 straipsnis. Vežėjo atsakomybė už
 
-keleivio gyvybės atėmimą arba jo sveikatos
+keleivio gyvybės atėmimą arba
+
+jo sveikatos
 
 sužalojimą,
 
@@ -3288,9 +3322,9 @@ numatytu laiku;
 
 2)
 
-dėl trūkumų, atsiradusių iki laivo perdavimo išperkamosios nuomos gavėjui,
+dėl trūkumų, atsiradusių iki laivo perdavimo išperkamosios nuomos gavėjui, laivas
 
-laivas negali būti panaudotas pagal laivo išperkamosios nuomos sutartį.
+negali būti panaudotas pagal laivo išperkamosios nuomos sutartį.
 
 2.
 
@@ -3452,7 +3486,9 @@ kroviniai iš laivo buvo išmesti.
 
 48 straipsnis. Papildomos išlaidos,
 
-priskiriamos arba prilyginamos bendrajai avarijai
+priskiriamos arba prilyginamos bendrajai
+
+avarijai
 
 1.
 
@@ -3464,9 +3500,9 @@ išlaidos, kurios susidarė dėl laivo priverstinio įplaukimo į prieglobsčio 
 
 arba laivo grįžimo į išvykimo uostą dėl nelaimingo atsitikimo, arba kokių nors
 
-kitų nepaprastų aplinkybių, dėl kurių prireikė priverstinai įplaukti arba
+kitų nepaprastų aplinkybių, dėl kurių prireikė priverstinai įplaukti arba grįžti
 
-grįžti į laivo išvykimo uostą saugios laivybos tikslais;
+į laivo išvykimo uostą saugios laivybos tikslais;
 
 2)
 
@@ -3616,11 +3652,11 @@ krovinių, kuro arba aprūpinimo reikmenų perkėlimo laive arba iškrovimo iš 
 
 išplaukimo ar įplaukimo uoste arba laivo prieglobsčio vietoje išlaidos, kai
 
-laivo pažeidimas nustatytas išvykimo arba įplaukimo uoste, jeigu reiso metu neįvyko
+laivo pažeidimas nustatytas išvykimo arba įplaukimo uoste, jeigu reiso metu
 
-jokių nelaimingų atsitikimų arba ypatingų įvykių, susijusių su tokiu laivo
+neįvyko jokių nelaimingų atsitikimų arba ypatingų įvykių, susijusių su tokiu
 
-pažeidimu, taip pat kai tokios išlaidos padarytos dėl laivo reiso metu
+laivo pažeidimu, taip pat kai tokios išlaidos padarytos dėl laivo reiso metu
 
 pasistūmusio iš vietos krovinio perkėlimo, jeigu toks perkėlimas nebuvo būtinas
 
@@ -3936,13 +3972,11 @@ reikalavimų dydžiui.
 
 Reikalavimai, atsiradę dėl laivo paskutinio reiso, tenkinami pirmiau už tokius
 
-pat reikalavimus, atsiradusius dėl laivo ankstesnių reisų. Šio straipsnio 2
+pat reikalavimus, atsiradusius dėl laivo ankstesnių reisų. Šio straipsnio 2 dalies
 
-dalies 1 punkte nurodyti reikalavimai, atsiradę dėl kelių laivo reisų,
+1 punkte nurodyti reikalavimai, atsiradę dėl kelių laivo reisų, prilyginami
 
-prilyginami tokiems pat reikalavimams, atsiradusiems dėl laivo paskutinio
-
-reiso.
+tokiems pat reikalavimams, atsiradusiems dėl laivo paskutinio reiso.
 
 64 straipsnis. Privilegijuotų reikalavimų
 
@@ -4000,9 +4034,9 @@ Pretenzijos vežėjui dėl keleivių ar bagažo vežimų pareiškiamos per pirmu
 
 3.
 
-Pretenzijos dėl krovinių vežimo pareiškiamos prieš perduodant krovinį ar krovinio
+Pretenzijos dėl krovinių vežimo pareiškiamos prieš perduodant krovinį ar
 
-perdavimo metu. Tais atvejais, kai krovinio trūkumas ar sužalojimas
+krovinio perdavimo metu. Tais atvejais, kai krovinio trūkumas ar sužalojimas
 
 neakivaizdus, – per tris dienas.
 
@@ -4088,9 +4122,9 @@ Nr. VIII-1899, 00.08.29, Žin., 2000,
 
 Nr.75-2266 (00.09.07)
 
-Nr. VIII-1963, 00.09.26, Žin., 2000, Nr.85-2584
+Nr. VIII-1963, 00.09.26, Žin., 2000,
 
-(00.10.11)
+Nr.85-2584 (00.10.11)
 
 Nr. IX-1680,
 
