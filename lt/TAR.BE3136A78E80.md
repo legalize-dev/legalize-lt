@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "2012-01-06"
+last_updated: "2012-01-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -1165,9 +1165,11 @@ IX-778,
 
 straipsnis. Notarų rūmai ir jų statuto priėmimo tvarka
 
-Lietuvos Respublikos notarai
+Lietuvos
 
-vienijasi į Notarų rūmus, kurie yra Lietuvos Respublikos sostinėje Vilniuje.
+Respublikos notarai vienijasi į Notarų rūmus, kurie yra Lietuvos Respublikos
+
+sostinėje Vilniuje.
 
 Kiekvienas
 
@@ -1177,9 +1179,11 @@ Notarų rūmai yra
 
 juridinis asmuo.
 
-Notarų rūmų statutą priima
+Notarų rūmų
 
-Notarų rūmų susirinkimas ir tvirtina Lietuvos Respublikos teisingumo ministras.
+statutą priima Notarų rūmų susirinkimas ir tvirtina Lietuvos Respublikos
+
+teisingumo ministras.
 
 Straipsnio
 
@@ -1309,9 +1313,7 @@ kitas Notarų rūmų statute numatytas funkcijas.
 
 Notarų rūmų
 
-funkcijoms atlikti iš notarų imamas mokestis, kurio dydį nustato Notarų rūmų
-
-susirinkimas.
+funkcijoms atlikti iš notarų imamas mokestis, kurio dydį nustato Notarų rūmų susirinkimas.
 
 Straipsnio
 
@@ -1819,11 +1821,9 @@ jis nėra perduotas šio straipsnio trečiojoje dalyje nurodytam archyvui. Notar
 
 atsako už savo veiklos metu sudarytų dokumentų tvarkymą, saugojimą ir
 
-naudojimą. Pasibaigus notaro įgaliojimams arba sustabdžius notaro įgaliojimus,
+naudojimą. Pasibaigus notaro įgaliojimams arba sustabdžius notaro įgaliojimus, už
 
-už jo veiklos metu sudarytų dokumentų saugojimą ir naudojimą atsako Notarų
-
-rūmai.
+jo veiklos metu sudarytų dokumentų saugojimą ir naudojimą atsako Notarų rūmai.
 
 Notaro profesinės
 
@@ -2135,11 +2135,11 @@ Asmuo gali būti
 
 skiriamas tik vieno notaro atstovu. Notaro atstovo pareigas gali eiti asmuo,
 
-paskirtas notaro atstovu ir prisiekęs šio įstatymo 5 straipsnio nustatyta tvarka.
+paskirtas notaro atstovu ir prisiekęs šio įstatymo 5 straipsnio nustatyta
 
-Jeigu asmuo iki paskyrimo notaro atstovu buvo davęs notaro priesaiką šio
+tvarka. Jeigu asmuo iki paskyrimo notaro atstovu buvo davęs notaro priesaiką
 
-įstatymo nustatyta tvarka, jam prisiekti iš naujo nereikia. Atstovaujamasis
+šio įstatymo nustatyta tvarka, jam prisiekti iš naujo nereikia. Atstovaujamasis
 
 notaras atstovavimo metu negali atlikti notarinių veiksmų.
 
@@ -2367,11 +2367,11 @@ sistemingai daugiau kaip 4 mėnesius iš eilės nemoka mokesčių Notarų
 
 rūmams.
 
-Notaro įgaliojimų
+Notaro
 
-pasibaigimas (atleidimas iš pareigų) įforminamas Lietuvos Respublikos
+įgaliojimų pasibaigimas (atleidimas iš pareigų) įforminamas Lietuvos
 
-teisingumo ministro įsakymu.
+Respublikos teisingumo ministro įsakymu.
 
 *Notaro įgaliojimai gali būti pratęsti Lietuvos
 
@@ -2393,9 +2393,9 @@ teisinės valstybės principui.
 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
-2010-03-22, Žin., 2010, Nr. 34-1620
+2010-03-22, Žin., 2010, Nr.
 
-(2010-03-25)
+34-1620 (2010-03-25)
 
 Straipsnio
 
@@ -2459,9 +2459,9 @@ straipsnis. Notarinių veiksmų atlikimas užsienyje
 
 Šio įstatymo
 
-numatytus notarinius veiksmus Lietuvos Respublikos piliečiams, esantiems užsienyje,
+numatytus notarinius veiksmus Lietuvos Respublikos piliečiams, esantiems
 
-atlieka Lietuvos Respublikos konsuliniai pareigūnai.
+užsienyje, atlieka Lietuvos Respublikos konsuliniai pareigūnai.
 
 Straipsnio
 
@@ -2573,6 +2573,100 @@ juridinių asmenų steigimo dokumentų atitikimą įstatymų reikalavimams;
 
 kitus įstatymų numatytus notarinius veiksmus.
 
+1
+
+dalies redakcija nuo 2012-07-01:
+
+Notarai atlieka
+
+šiuos notarinius veiksmus:
+
+1) tvirtina
+
+sandorius;
+
+2) išduoda
+
+paveldėjimo teisės liudijimus;
+
+3) išduoda
+
+nuosavybės teisės į dalį sutuoktinių bendro turto liudijimus;
+
+4) liudija
+
+dokumentų nuorašų ir jų išrašų tikrumą;
+
+5) liudija
+
+parašo dokumentuose tikrumą;
+
+6) liudija
+
+dokumentų vertimo iš vienos kalbos į kitą tikrumą;
+
+7) tvirtina
+
+faktą, kad fizinis asmuo yra gyvas ir yra tam tikroje vietovėje;
+
+8) priima
+
+saugoti oficialiesiems testamentams prilyginamus testamentus ir asmeninius
+
+testamentus;
+
+9) tvirtina
+
+dokumentų pateikimo laiką;
+
+10) perduoda
+
+vienų fizinių ir juridinių asmenų pareiškimus kitiems fiziniams ir juridiniams
+
+asmenims;
+
+11) priima į
+
+depozitinę sąskaitą pinigines sumas;
+
+12) priima
+
+jūrinius protestus;
+
+13) protestuoja
+
+vekselius ir čekius;
+
+14) atlieka
+
+vykdomuosius įrašus užprotestuotuose arba neprotestuotinuose vekseliuose ir
+
+čekiuose;
+
+15) atlieka
+
+vykdomuosius įrašus dėl priverstinio skolos išieškojimo pagal hipotekos
+
+(įkeitimo) kreditoriaus prašymą;
+
+16) surašo ar
+
+tvirtina dokumentus dėl juridinių asmenų registrui pateikiamų duomenų tikrumo
+
+ir tvirtina, kad juridinį asmenį registruoti galima, nes įstatymuose ar
+
+steigimo sandoryje nustatytos prievolės yra įvykdytos ir atsirado įstatymuose
+
+ar steigimo dokumentuose numatytos aplinkybės;
+
+17) tvirtina
+
+juridinių asmenų steigimo dokumentų atitiktį įstatymų reikalavimams;
+
+18) atlieka
+
+kitus įstatymų numatytus notarinius veiksmus.
+
 Pripažįstama,
 
 kad notarine forma patvirtintuose dokumentuose esantys faktai yra nustatyti ir
@@ -2604,6 +2698,10 @@ Nr. VIII-1097,
 Nr. IX-371, 2001-06-12, Žin., 2001, Nr.
 
 55-1943 (2001-06-27)
+
+Nr. XI-1848,
+
+2011-12-22, Žin., 2012, Nr. 6-184 (2012-01-10)
 
 27
 
@@ -4151,13 +4249,13 @@ privalo jame nurodyti, kad jis įsitikino testatoriaus veiksnumu. Jeigu sandorį
 
 sudaro atstovas, patikrinami jo įgaliojimai.
 
-Tvirtinant sandorius
+Tvirtinant
 
-ir atliekant kai kuriuos kitus notarinius veiksmus, Lietuvos Respublikos
+sandorius ir atliekant kai kuriuos kitus notarinius veiksmus, Lietuvos
 
-įstatymų nustatytais atvejais patikrinamas sandorių dalyvių ir kitų asmenų,
+Respublikos įstatymų nustatytais atvejais patikrinamas sandorių dalyvių ir kitų
 
-kurie prašo atlikti notarinius veiksmus, parašų tikrumas.
+asmenų, kurie prašo atlikti notarinius veiksmus, parašų tikrumas.
 
 Asmens tapatybės
 
@@ -4249,11 +4347,11 @@ Notaro
 
 dokumentai turi būti parašyti aiškiai ir tiksliai, su dokumento turiniu susiję
 
-terminai, datos ir skaičiai parašyti nors vieną kartą žodžiais. Juridinių
+terminai, datos ir skaičiai parašyti nors vieną kartą žodžiais. Juridinių asmenų
 
-asmenų pavadinimai turi būti ne mažiau kaip kartą parašyti nesutrumpinti ir
+pavadinimai turi būti ne mažiau kaip kartą parašyti nesutrumpinti ir nurodyti
 
-nurodyti jų adresai.
+jų adresai.
 
 Notaras turi
 
@@ -5059,11 +5157,33 @@ tvarka.
 
 Straipsnio
 
+redakcija nuo 2012-07-01:
+
+43
+
+straipsnis. Notarų vykdomųjų įrašų vykdymas
+
+Notaro
+
+vykdomieji įrašai pagal užprotestuotus arba neprotestuotinus vekselius ar
+
+čekius, taip pat notaro vykdomieji įrašai dėl priverstinio skolos išieškojimo
+
+pagal hipotekos (įkeitimo) kreditoriaus pareiškimą yra vykdytini ir vykdomieji
+
+dokumentai, vykdomi civilinio proceso tvarka.
+
+Straipsnio
+
 pakeitimai:
 
 Nr. IX-1311,
 
 2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
+
+Nr. XI-1848,
+
+2011-12-22, Žin., 2012, Nr. 6-184 (2012-01-10)
 
 44
 
@@ -5189,6 +5309,20 @@ perduoda viešo registro tvarkytojui per 24 valandas nuo sutarties patvirtinimo
 
 momento teisės aktų nustatyta tvarka.
 
+Straipsnis
+
+papildomas 6 dalimi nuo 2012-07-01:
+
+Tvirtindamas hipotekos (įkeitimo) sandorius, notaras nurodo sandorio sudarymo laiką
+
+(valandą ir minutes). Patvirtinęs hipotekos (įkeitimo) sandorį, hipotekos
+
+(įkeitimo) pabaigą, nustatęs priverstinę hipoteką (įkeitimą), notaras duomenis
+
+apie hipoteką (įkeitimą) perduoda Hipotekos registrui įregistruoti Hipotekos
+
+registro nuostatų nustatyta tvarka.
+
 Straipsnio
 
 pakeitimai:
@@ -5208,6 +5342,10 @@ VIII-1108,
 Nr. IX-371, 2001-06-12, Žin., 2001, Nr.
 
 55-1943 (2001-06-27)
+
+Nr. XI-1848,
+
+2011-12-22, Žin., 2012, Nr. 6-184 (2012-01-10)
 
 47
 
@@ -5287,95 +5425,9 @@ patvirtinti įgaliojimą vieno ar kelių asmenų vardu, išduodamą vienam asmen
 
 arba keliems asmenims.
 
-50
+Įstatymas
 
-straipsnis. Dokumentų, kuriuose išdėstomas sandorių turinys,
-
-egzempliorių
-
-skaičius
-
-Notarui
-
-pateikiama ne mažiau kaip du egzemplioriai tvirtinamų sutarčių, testamentų,
-
-įgaliojimų ir kitų dokumentų, kuriuose išdėstytas sandorių turinys, ir vienas
-
-iš jų lieka notaro biuro bylose.
-
-51
-
-straipsnis. Notarų ryšys su valstybės registrais
-
-Notaras,
-
-tvirtindamas sandorius, privalo patikrinti valstybės registrų centriniuose
-
-duomenų bankuose esančius duomenis, turinčius esminės reikšmės notarinio
-
-veiksmo atlikimui ir asmenų teisėtų interesų apsaugai.
-
-Notaras teisės
-
-aktų nustatytais atvejais ir tvarka turi pateikti valstybės registrams duomenis
-
-apie patvirtintus sandorius, palikimo priėmimo faktus.
-
-Notarai duomenis
-
-iš valstybės registrų centrinių duomenų bankų kompiuterių tinklais gauna pagal
-
-keitimosi duomenimis sutartis.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. IX-371, 2001-06-12, Žin., 2001, Nr.
-
-55-1943 (2001-06-27)
-
-Nr. IX-1311,
-
-2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
-
-52
-
-straipsnis. Liudijimo išdavimas vienam sutuoktiniui mirus
-
-Nuosavybės teisės
-
-į dalį bendro sutuoktinių turto liudijimas gali būti išduotas pagal rašytinį
-
-pareiškimą pergyvenusiajam sutuoktiniui dėl pusės bendro turto, įgyto santuokos
-
-metu.
-
-Jeigu turtas,
-
-kuris yra bendroji jungtinė sutuoktinių nuosavybė, įregistruotas likusio gyvo
-
-sutuoktinio vardu, šiam sutinkant gali būti išduotas mirusiojo sutuoktinio dalį
-
-nustatantis liudijimas.
-
-Nuosavybės
-
-teisės liudijimą, mirus vienam sutuoktiniui, išduoda palikimo atsiradimo vietos
-
-notaras.
-
-V
-
-SKYRIUS
-
-NOTARIATO
-
-ĮSTATYMO TAIKYMAS UŽSIENIEČIAMS.
-
-TARPTAUTINĖS
-
-SUTARTYS
+papildomas 491 straipsniu nuo 2012-07-01:
 
 41 straipsnis.
 
@@ -5697,25 +5749,91 @@ vardu, išduodamą
 
 vienam asmeniui arba keliems asmenims.
 
-50 straipsnis.
+50 straipsnis. Dokumentų, kuriuose išdėstomas
 
-Dokumentų, kuriuose išdėstomas sandorių
-
-turinys, egzempliorių skaičius
+sandorių turinys, egzempliorių skaičius
 
 Notarui
 
-pateikiama   ne  mažiau   kaip   du   egzemplioriai
+pateikiama ne mažiau kaip du egzemplioriai tvirtinamų sutarčių, testamentų,
 
-tvirtinamų
+įgaliojimų ir kitų dokumentų, kuriuose išdėstytas sandorių turinys, ir vienas
 
-sutarčių,  testamentų, įgaliojimų  ir kitų  dokumentų,
+iš jų lieka notaro biuro bylose.
 
-kuriuose išdėstytas
+51
 
-sandorių turinys,  ir  vienas  iš  jų  lieka
+straipsnis. Notarų ryšys su valstybės registrais
 
-notaro biuro bylose.
+Notaras,
+
+tvirtindamas sandorius, privalo patikrinti valstybės registrų centriniuose
+
+duomenų bankuose esančius duomenis, turinčius esminės reikšmės notarinio
+
+veiksmo atlikimui ir asmenų teisėtų interesų apsaugai.
+
+Notaras teisės
+
+aktų nustatytais atvejais ir tvarka turi pateikti valstybės registrams duomenis
+
+apie patvirtintus sandorius, palikimo priėmimo faktus.
+
+Notarai duomenis
+
+iš valstybės registrų centrinių duomenų bankų kompiuterių tinklais gauna pagal
+
+keitimosi duomenimis sutartis.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-371, 2001-06-12, Žin., 2001, Nr.
+
+55-1943 (2001-06-27)
+
+Nr. IX-1311,
+
+2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
+
+52
+
+straipsnis. Liudijimo išdavimas vienam sutuoktiniui mirus
+
+Nuosavybės
+
+teisės į dalį bendro sutuoktinių turto liudijimas gali būti išduotas pagal
+
+rašytinį pareiškimą pergyvenusiajam sutuoktiniui dėl pusės bendro turto, įgyto
+
+santuokos metu.
+
+Jeigu turtas,
+
+kuris yra bendroji jungtinė sutuoktinių nuosavybė, įregistruotas likusio gyvo
+
+sutuoktinio vardu, šiam sutinkant gali būti išduotas mirusiojo sutuoktinio dalį
+
+nustatantis liudijimas.
+
+Nuosavybės
+
+teisės liudijimą, mirus vienam sutuoktiniui, išduoda palikimo atsiradimo vietos
+
+notaras.
+
+V
+
+SKYRIUS
+
+NOTARIATO
+
+ĮSTATYMO TAIKYMAS UŽSIENIEČIAMS.
+
+TARPTAUTINĖS
+
+SUTARTYS
 
 51 straipsnis.
 
@@ -5955,11 +6073,11 @@ biuruose
 
 Dokumentus,
 
-sudarytus užsienyje dalyvaujant užsienio valstybės valdžiai, Lietuvos
+sudarytus užsienyje dalyvaujant užsienio valstybės valdžiai, Lietuvos Respublikos
 
-Respublikos notarai priima, jei juos legalizuoja Lietuvos Respublikos užsienio
+notarai priima, jei juos legalizuoja Lietuvos Respublikos užsienio reikalų
 
-reikalų ministerijos įstaigos.
+ministerijos įstaigos.
 
 Nelegalizuotus
 
@@ -6597,9 +6715,9 @@ stipendiją.
 
 Notarų rūmai
 
-kandidatus į notarus (asesorius) draudžia valstybiniu socialiniu draudimu
+kandidatus į notarus (asesorius) draudžia valstybiniu socialiniu draudimu Lietuvos
 
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka.
+Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka.
 
 Kandidatams į
 
@@ -6639,9 +6757,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. IX-1311, 2003-01-23,
+Nr. IX-1311,
 
-Žin., 2003, Nr. 15-598 (2003-02-12)
+2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
 
 64
 
@@ -7166,4 +7284,74 @@ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 6(1), 6(2), 15(1), 22(1), 27(1)
 STRAIPSNIAIS IR 58, 63, 64 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 
 Šio
+
+491 straipsnis. Vykdomųjų įrašų dėl
+
+priverstinio išieškojimo pagal hipotekos (įkeitimo) kreditoriaus prašymą
+
+atlikimo ir apskundimo tvarka
+
+Notaras, gavęs
+
+hipotekos (įkeitimo) kreditoriaus prašymą dėl vykdomojo įrašo atlikimo,
+
+patikrina, ar vykdomąjį įrašą dėl priverstinio išieškojimo pagal hipotekos
+
+(įkeitimo) kreditoriaus prašymą pateikia asmuo, kuris yra hipotekos (įkeitimo)
+
+kreditorius; ar hipotekos (įkeitimo) kreditoriaus prašyme dėl vykdomojo įrašo
+
+atlikimo nurodyti duomenys atitinka Hipotekos registre nurodytus duomenis; ar
+
+pasibaigęs hipoteka (įkeitimu) užtikrintos prievolės įvykdymo terminas, o tuo
+
+atveju, kai kreditorius reikalauja prieš terminą patenkinti hipoteka (įkeitimu)
+
+užtikrintą reikalavimą, ar kreditoriaus nurodyti pagrindai yra nustatyti
+
+įstatymuose. Patikrinęs šiuos duomenis, notaras, prieš atlikdamas vykdomąjį
+
+įrašą, išsiunčia skolininkui pranešimą, kuriame turi būti nurodyti hipotekos
+
+(įkeitimo) kreditoriaus pateikti duomenys ir siūlymas ne vėliau kaip per
+
+dvidešimt dienų nuo pranešimo skolininkui išsiuntimo dienos sumokėti
+
+kreditoriui skolą ir apie prievolės įvykdymą raštu pranešti notarui arba
+
+pateikti notarui duomenis dėl hipotekos (įkeitimo) kreditoriaus reikalavimo
+
+nepagrįstumo. Atsižvelgdamas į hipotekos (įkeitimo) kreditoriaus ir skolininko
+
+pateiktus duomenis, notaras atlieka vykdomąjį įrašą arba motyvuotai atsisako jį
+
+atlikti. Notaras turi teisę įstatymų numatytais atvejais panaikinti vykdomąjį
+
+įrašą.
+
+Notaras
+
+netikrina kitų, negu nurodyta šio straipsnio 1 dalyje, duomenų atitikties ir
+
+neatsako už juos.
+
+Notaro
+
+vykdomieji įrašai arba atsisakymas atlikti vykdomąjį įrašą dėl šio straipsnio 1
+
+dalyje numatytų duomenų atitikties skundžiami Civilinio proceso kodekso 511
+
+straipsnyje nustatyta tvarka. Kilus ginčui dėl priverstinio skolos išieškojimo
+
+kitais pagrindais, skolininkas, kreditorius ar įkaito davėjas turi teisę
+
+kreiptis į teismą ieškinio teisenos tvarka.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr. XI-1848,
+
+2011-12-22, Žin., 2012, Nr. 6-184 (2012-01-10)
 
