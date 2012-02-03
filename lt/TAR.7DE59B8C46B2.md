@@ -4,7 +4,7 @@ identifier: "TAR.7DE59B8C46B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-05"
-last_updated: "2007-05-29"
+last_updated: "2012-02-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7DE59B8C46B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymas
 
-Suvestinė redakcija nuo 2007-05-29 iki 2012-02-02
+Suvestinė redakcija nuo 2012-02-03 iki 2013-05-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 52-1811, i. k. 1011010ISTA00IX-352
 
@@ -162,7 +162,9 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-Lietuvos Respublikos 2001 m. birželio 5 d.
+Lietuvos Respublikos
+
+2001 m. birželio 5 d.
 
 įstatymo Nr. IX-352
 
@@ -170,41 +172,41 @@ Lietuvos Respublikos 2001 m. birželio 5 d.
 
 MOKESČIŲ UŽ IŠRADIMO PATENTAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ BEI IŠRADIMO PATENTO GALIOJIMO TERMINO PRATĘSIMĄ DYDŽIAI (LITAIS)
 
-1. Už patentinės paraiškos (toliau – paraiška) padavimą
+1. Už patento paraiškos (toliau – paraiška) padavimą
 
 400
 
-1.1. Už kiekvieną po dešimtojo einantį išradimo apibrėžties punktą
+1.1. už kiekvieną po penkioliktojo einantį išradimo apibrėžties punktą
 
-40
+50
 
 2. Už ankstesnį paraiškos skelbimą (kai to prašo pareiškėjas)
 
 120
 
-3. Už tarptautinės patentinės paraiškos vertimo padavimą
+3. Už tarptautinės patento paraiškos vertimo padavimą
 
 400
 
-3.1. Už kiekvieną po dešimtojo einantį tarptautinės patentinės paraiškos išradimo apibrėžties punktą
+3.1. už kiekvieną po penkioliktojo einantį tarptautinės patento paraiškos išradimo apibrėžties punktą TAR pastaba. 3 ir 3.1 punktai netenka galios praėjus 31 mėnesiui nuo Patentų teisės sutarties įsigaliojimo Lietuvos Respublikai dienos (2012-02-03)
 
-40
+50
 
-4. Už Europos patento paraiškos išradimo apibrėžties vertimo paskelbimą
+4. Už Europos patento paraiškos išradimo apibrėžties vertimo  paskelbimą
 
 160
 
-4.1. Už kiekvieną po dešimtojo einantį Europos patento paraiškos išradimo apibrėžties punktą
+4.1. už kiekvieną po penkioliktojo einantį Europos patento paraiškos išradimo apibrėžties punktą
 
-40
+50
 
 5. Už Europos patento išradimo apibrėžties vertimo paskelbimą
 
 160
 
-5.1. Už kiekvieną po dešimtojo einantį Europos patento išradimo apibrėžties punktą
+5.1. už kiekvieną po penkioliktojo einantį Europos patento išradimo apibrėžties punktą
 
-40
+50
 
 6. Už Europos patento pakeistos išradimo apibrėžties vertimo paskelbimą
 
@@ -218,7 +220,7 @@ MOKESČIŲ UŽ IŠRADIMO PATENTAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ
 
 120
 
-9. Už pakeitimo įrašymą Lietuvos Respublikos patentų registre
+9. Už pakeitimo įrašymą patento paraiškoje arba Lietuvos Respublikos patentų registre
 
 120
 
@@ -230,7 +232,7 @@ MOKESČIŲ UŽ IŠRADIMO PATENTAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ
 
 120
 
-12. Už patentinės paraiškos ar patento nuosavybės teisės pakeitimo registravimą
+12. Už teisės į patento paraišką ar patentą perdavimo registravimą
 
 400
 
@@ -238,105 +240,125 @@ MOKESČIŲ UŽ IŠRADIMO PATENTAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ
 
 240
 
-14. Metų mokesčiai už patento galiojimą:
+14. Už prašymo suteikti prioritetą taisymą arba pildymą
 
-14.1. trečiaisiais metais
+120
+
+15. Už prioriteto teisės atkūrimą pagal Patentų įstatymo 23 straipsnio 1 dalį
+
+400
+
+16. Už prioriteto teisės atkūrimą pagal Patentų įstatymo 23 straipsnio 2 dalį
+
+240
+
+17. Už paraiškos nagrinėjimo tęsimą
+
+240
+
+18. Už teisių atkūrimą
+
+600
+
+19. Metų mokesčiai už patento galiojimą:
+
+19.1. trečiaisiais metais
 
 280
 
-14.2. ketvirtaisiais metais
+19.2. ketvirtaisiais metais
 
 320
 
-14.3. penktaisiais metais
+19.3. penktaisiais metais
 
 400
 
-14.4. šeštaisiais metais
+19.4. šeštaisiais metais
 
 480
 
-14.5. septintaisiais metais
+19.5. septintaisiais metais
 
 560
 
-14.6. aštuntaisiais metais
+19.6. aštuntaisiais metais
 
 640
 
-14.7. devintaisiais metais
+19.7. devintaisiais metais
 
 720
 
-14.8. dešimtaisiais metais
+19.8. dešimtaisiais metais
 
 800
 
-14.9. vienuoliktaisiais metais
+19.9. vienuoliktaisiais metais
 
-1000
+1 000
 
-14.10. dvyliktaisiais metais
+19.10. dvyliktaisiais metais
 
-1000
+1 000
 
-14.11. tryliktaisiais metais
+19.11. tryliktaisiais metais
 
-1000
+1 000
 
-14.12. keturioliktaisiais metais
+19.12. keturioliktaisiais metais
 
-1000
+1 000
 
-14.13. penkioliktaisiais metais
+19.13. penkioliktaisiais metais
 
-1000
+1 000
 
-14.14. šešioliktaisiais metais
+19.14. šešioliktaisiais metais
 
-1200
+1 200
 
-14.15. septynioliktaisiais metais
+19.15. septynioliktaisiais metais
 
-1200
+1 200
 
-14.16. aštuonioliktaisiais metais
+19.16. aštuonioliktaisiais metais
 
-1200
+1 200
 
-14.17. devynioliktaisiais metais
+19.17. devynioliktaisiais metais
 
-1200
+1 200
 
-14.18. dvidešimtaisiais metais
+19.18. dvidešimtaisiais metais
 
-1200
+1 200
 
-15. Už paraiškos papildomos apsaugos liudijimui gauti padavimą
+20. Už paraiškos papildomos apsaugos liudijimui gauti padavimą
 
 400
 
-16. Metų mokesčiai už papildomos apsaugos liudijimo galiojimą:
+21. Metų mokesčiai už papildomos apsaugos liudijimo galiojimą:
 
-16.1. pirmaisiais metais
+21.1. pirmaisiais metais
 
-1200
+1 200
 
-16.2. antraisiais metais
+21.2. antraisiais metais
 
-1200
+1 200
 
-16.3. trečiaisiais metais
+21.3. trečiaisiais metais
 
-1200
+1 200
 
-16.4. ketvirtaisiais metais
+21.4. ketvirtaisiais metais
 
-1200
+1 200
 
-16.5. penktaisiais metais
+21.5. penktaisiais metais
 
-1200
+1 200
 
 Pastaba. Metų mokestis už išradimo patento galiojimo termino pratęsimą, mokamas pasibaigus šio įstatymo 6 straipsnio 2 dalies 1 punkte nustatytam laikui, bet ne vėliau kaip per 6 mėnesius, didinamas 50 procentų.
 
@@ -347,6 +369,8 @@ Priedo pakeitimai:
 Nr. IX-688, 2001-12-21, Žin., 2001, Nr. 110-3996 (2001-12-29), i. k. 1011010ISTA00IX-688
 
 Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
+
+Nr. XI-1262, 2010-12-23, Žin., 2011, Nr. 4-128 (2011-01-10), i. k. 1101010ISTA0XI-1262
 
 Lietuvos Respublikos 2001 m. birželio 5 d.
 
@@ -617,4 +641,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
 
 Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo 1, 2, 3, 4, 5, 6, 7 straipsnių ir 1, 2, 3, 4 priedėlių pakeitimo ir papildymo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1262, 2010-12-23, Žin., 2011, Nr. 4-128 (2011-01-10), i. k. 1101010ISTA0XI-1262
+
+Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo 1 priedėlio pakeitimo ir papildymo įstatymas
 
