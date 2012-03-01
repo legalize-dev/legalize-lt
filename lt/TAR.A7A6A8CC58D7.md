@@ -4,7 +4,7 @@ identifier: "TAR.A7A6A8CC58D7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-05-17"
-last_updated: "2009-01-01"
+last_updated: "2012-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7A6A8CC58D7"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2012-02-29
+Suvestinė redakcija nuo 2012-03-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1496, i. k. 1011010ISTA00IX-326
 
@@ -88,7 +88,11 @@ LOTERIJŲ IR LOŠIMŲ MOKESČIO APSKAIČIAVIMO IR MOKĖJIMO TVARKA
 
 2. Juridiniai asmenys, organizuojantys 4 straipsnio 3 punkte nurodytus lošimus, už kiekvieną lošimų veiklos leidime mėnesio 1 dieną nurodytą lošimo įrenginį (lošimo automatą, ruletės, kortų arba kauliukų stalą) loterijų ir lošimų mokestį apskaičiuoja kas mėnesį, taikydami šio įstatymo 5 straipsnio 3 dalyje nustatytus fiksuotus loterijų ir lošimų mokesčio dydžius, ir sumoka į biudžetą ne vėliau kaip per 5 darbo dienas nuo to mėnesio pradžios. Tą mėnesį, kai išduodamas lošimų veiklos leidimas arba papildomas turimas lošimų veiklos leidimas padidinti lošimo įrenginių skaičių, loterijų ir lošimų mokestis už kiekvieną lošimų veiklos leidime nurodytą naują lošimo įrenginį apskaičiuojamas už visą mėnesį, taikant šio įstatymo 5 straipsnio 3 dalyje nustatytą fiksuotą loterijų ir lošimų mokesčio dydį, ir sumokamas ne vėliau kaip per 5 darbo dienas nuo lošimų veiklos leidimo išdavimo arba papildymo dienos.
 
-3. Lošimų įrenginiai, už kuriuos mokamas fiksuoto dydžio loterijų ir lošimų mokestis, už kiekvieną mokestinį laikotarpį sumokėjus šį mokestį, paženklinami specialiu ženklu Valstybinės lošimų priežiūros komisijos nustatyta tvarka.
+3. Lošimų įrenginiai, už kuriuos mokamas fiksuoto dydžio loterijų ir lošimų mokestis, už kiekvieną mokestinį laikotarpį sumokėjus šį mokestį, paženklinami specialiu ženklu Lošimų priežiūros tarnybos prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1579, 2011-09-15, Žin., 2011, Nr. 119-5612 (2011-10-01), i. k. 1111010ISTA0XI-1579
 
 7 straipsnis. Loterijų ir lošimų mokesčio deklaracijų užpildymo tvarka ir pateikimo terminai
 
@@ -143,6 +147,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-80, 2008-12-19, Žin., 2008, Nr. 149-6006 (2008-12-30), i. k. 1081010ISTA000XI-80
 
 Lietuvos Respublikos loterijų ir azartinių lošimų mokesčio įstatymo pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1579, 2011-09-15, Žin., 2011, Nr. 119-5612 (2011-10-01), i. k. 1111010ISTA0XI-1579
+
+Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas
 
 9 straipsnis. Atsakomybė už šio Įstatymo pažeidimus
 
