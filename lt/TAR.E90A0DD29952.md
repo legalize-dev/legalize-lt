@@ -4,7 +4,7 @@ identifier: "TAR.E90A0DD29952"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2004-01-01"
+last_updated: "2012-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E90A0DD29952"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2003-07-01"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos loterijų įstatymas
+
+Suvestinė redakcija nuo 2012-03-01 iki 2014-12-31
+
+Įstatymas paskelbtas: Žin. 2003, Nr. 73-3341, i. k. 1031010ISTA0IX-1661
 
 LIETUVOS RESPUBLIKOS
 
@@ -97,7 +101,11 @@ LOTERIJŲ ORGANIZAVIMO REIKALAVIMAI
 
 4 straipsnis. Institucijos, išduodančios licencijas organizuoti loterijas
 
-1. Licencijas organizuoti didžiąsias loterijas išduoda Valstybinė lošimų priežiūros komisija.
+1. Licencijas organizuoti didžiąsias loterijas išduoda Lošimų priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos (toliau – Priežiūros tarnyba).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
 
 2. Licencijas organizuoti mažąsias loterijas išduoda savivaldybės, kurios teritorijoje numatoma organizuoti loterijas, vykdomoji institucija.
 
@@ -137,15 +145,27 @@ Loterijos laimėjimų fondas turi sudaryti ne mažiau kaip 50 procentų nominali
 
 3. Piniginiai laimėjimai, viršijantys 5000 litų, išmokami tik išrašant banko čekį arba pervedami į laimėjusio asmens nurodytą sąskaitą kredito įstaigoje. Piniginiai laimėjimai, neviršijantys 5000 litų, laimėjusio asmens prašymu turi būti išmokami grynaisiais pinigais.
 
-4. Didžiosios ir mažosios loterijos organizatorius privalo registruoti laimėjusius asmenis Valstybinės lošimų priežiūros komisijos nustatyta tvarka.
+4. Didžiosios ir mažosios loterijų organizatorius privalo registruoti laimėjusius asmenis Priežiūros tarnybos nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
 
 5. Laimėjusio asmens reikalavimu loterijos organizatorius privalo jam išduoti Valstybinės mokesčių inspekcijos prie Finansų ministerijos nustatytos formos pažymą apie šiam asmeniui išmokėtus (išduotus) laimėjimus.
 
-6. Loterijos organizatorius informaciją apie šio straipsnio 4 dalyje nurodytus laimėjusius asmenis ir su jais susijusius dokumentus, išskyrus šio Įstatymo 13 straipsnio 3 dalyje nustatytus atvejus, Valstybinės lošimų priežiūros komisijos nustatyta tvarka saugo 5 metus ir įstatymų nustatyta tvarka privalo pateikti tik Valstybinei lošimų priežiūros komisijai, ikiteisminio tyrimo pareigūnams, teismui ir kitoms institucijoms.
+6. Loterijos organizatorius informaciją apie šio straipsnio 4 dalyje nurodytus laimėjusius asmenis ir su jais susijusius dokumentus, išskyrus šio Įstatymo 13 straipsnio 3 dalyje nustatytus atvejus, Priežiūros tarnybos nustatyta tvarka saugo 5 metus ir įstatymų nustatyta tvarka privalo pateikti tik Priežiūros tarnybai, ikiteisminio tyrimo pareigūnams, teismui ir kitoms institucijoms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
 
 11 straipsnis. Loterijų organizatorių teisė verstis kita ūkine ar komercine veikla
 
-1. Didžiosios loterijos organizatorius neturi teisės verstis kita ūkine ar komercine veikla, išskyrus veiklą, susijusią su loterijos bilietų platinimu (įstatymų ir kitų teisės aktų nustatyta tvarka sudaryti sutartis su fiziniais ir juridiniais asmenimis dėl loterijos bilietų platinimo) ir su savo loterijos organizavimu (reklama, laikraščių ir žurnalų apie loterijas leidimas ir pardavimas, televizijos filmų, televizijos ir radijo laidų apie savo loteriją kūrimas ir gamyba), bei tiesioginio ryšio kompiuterinės loterijos sistemos nuomą. Jeigu licencija organizuoti didžiąją loteriją išduodama loterijos organizatoriui, kuris verčiasi kita ūkine ar komercine veikla, loterijos organizatorius per 60 kalendorinių dienų nuo licencijos gavimo dienos privalo įvykdyti minėtą reikalavimą ir apie tai pranešti Valstybinei lošimų priežiūros komisijai.
+1. Didžiosios loterijos organizatorius neturi teisės verstis kita ūkine ar komercine veikla, išskyrus veiklą, susijusią su loterijos bilietų platinimu (įstatymų ir kitų teisės aktų nustatyta tvarka sudaryti sutartis su fiziniais ir juridiniais asmenimis dėl loterijos bilietų platinimo) ir su savo loterijos organizavimu (reklama, laikraščių ir žurnalų apie loterijas leidimas ir pardavimas, televizijos filmų, televizijos ir radijo laidų apie savo loteriją kūrimas ir gamyba), ir tiesioginio ryšio kompiuterinės loterijos sistemos nuomą. Jeigu licencija organizuoti didžiąją loteriją išduodama loterijos organizatoriui, kuris verčiasi kita ūkine ar komercine veikla, loterijos organizatorius per 60 kalendorinių dienų nuo licencijos gavimo dienos privalo įvykdyti minėtą reikalavimą ir apie tai pranešti Priežiūros tarnybai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
 
 2. Neįvykdžius šio straipsnio 1 dalies reikalavimo, licencija organizuoti didžiąją loteriją panaikinama.
 
@@ -165,7 +185,11 @@ Loterijos laimėjimų fondas turi sudaryti ne mažiau kaip 50 procentų nominali
 
 2. Išspausdintame loterijos biliete turi būti nurodyta jo kaina, loterijos pavadinimas, loterijos organizatoriaus pavadinimas, teisinė forma, kodas, būstinės adresas, telefono numeris, registras, kuriame kaupiami ir saugomi duomenys apie loterijos organizatorių, adresas, kur galima atsiimti laimėjimus, palikta vieta įrašyti laimėjusio asmens vardui ir pavardei, taip pat nurodomas laimėjimų fondas procentais. Išspausdintame loterijos biliete neleidžiami jokie taisymai.
 
-3. Didžiųjų ir mažųjų loterijų bilietus, išrašus iš loterijos kompiuterinės sistemos duomenų bazės, pagal kuriuos buvo išmokėti (išduoti) laimėjimai, loterijos organizatorius saugo Valstybinės lošimų priežiūros komisijos nustatyta tvarka. Panaikinus licenciją, neišplatinti didžiųjų ir mažųjų loterijų bilietai per 60 kalendorinių dienų po sprendimo panaikinti licenciją priėmimo dienos turi būti surinkti iš visų platinimo vietų ir sunaikinti Valstybinės lošimų priežiūros komisijos nustatyta tvarka.
+3. Didžiųjų ir mažųjų loterijų bilietus, išrašus iš loterijos kompiuterinės sistemos duomenų bazės, pagal kuriuos buvo išmokėti (išduoti) laimėjimai, loterijos organizatorius saugo Priežiūros tarnybos nustatyta tvarka. Panaikinus licenciją, neišplatinti didžiųjų ir mažųjų loterijų bilietai per 60 kalendorinių dienų po sprendimo panaikinti licenciją priėmimo dienos turi būti surinkti iš visų platinimo vietų ir sunaikinti Priežiūros tarnybos nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
 
 4. Didžiųjų momentinių loterijų bilietai privalo turėti ne mažiau kaip 5 apsaugos priemones, mažųjų – ne mažiau kaip 2 apsaugos priemones. Loterijos kompiuterinės sistemos duomenų bazė, kurioje registruojami žaidėjų įrašai, turi būti dubliuojama. Už duomenų saugumą atsako loterijos organizatorius.
 
@@ -181,9 +205,13 @@ Loterijos laimėjimų fondas turi sudaryti ne mažiau kaip 50 procentų nominali
 
 4. Šio straipsnio 1, 2 arba 3 dalies reikalavimus loterijos organizatorius privalo būti įvykdęs iki dokumentų licencijai gauti pateikimo.
 
-15 straipsnis. Reikalavimai rengiant skaitmeninės ir klasikinės loterijos tiražus
+15 straipsnis. Reikalavimai rengiant skaitmeninės ir klasikinės loterijų tiražus
 
-Skaitmeninės ir klasikinės loterijos tiražų metu turi dalyvauti komisija. Komisijos narių skaičių ir sudarymo tvarką nustato Valstybinė lošimų priežiūros komisija.
+Skaitmeninės ir klasikinės loterijų tiražų metu turi dalyvauti komisija. Komisijos narių skaičių ir sudarymo tvarką nustato Priežiūros tarnyba.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
 
 16 straipsnis. Žaidėjų teisės
 
@@ -267,13 +295,21 @@ Skaitmeninės ir klasikinės loterijos tiražų metu turi dalyvauti komisija. Ko
 
 19) televizijos žaidimo aprašymas ir taisyklės (jeigu rengiamas televizijos žaidimas).
 
-3. Didžiųjų loterijų taisykles, jų papildymus ir pakeitimus tvirtina loterijos organizatorius, suderinęs su Valstybine lošimų priežiūros komisija.
+3. Didžiųjų loterijų taisykles, jų papildymus ir pakeitimus tvirtina loterijos organizatorius, suderinęs su Priežiūros tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
 
 4. Mažųjų loterijų taisykles, jų papildymus ir pakeitimus tvirtina loterijos organizatorius, suderinęs su savivaldybės, kurios teritorijoje organizuojamos loterijos, vykdomąja institucija.
 
 20 straipsnis. Didžiųjų loterijų ataskaita
 
-Kiekvienam kalendorinių metų ketvirčiui pasibaigus, ne vėliau kaip iki kito kalendorinių metų ketvirčio pirmojo mėnesio 25 dienos ir, kalendoriniams metams pasibaigus, ne vėliau kaip per 4 mėnesius didžiosios loterijos organizatorius privalo pateikti Valstybinei lošimų priežiūros komisijai loterijų ataskaitas. Jų formas ir pildymo tvarką nustato Valstybinė lošimų priežiūros komisija.
+Kiekvienam kalendorinių metų ketvirčiui pasibaigus, ne vėliau kaip iki kito kalendorinių metų ketvirčio pirmojo mėnesio 25 dienos ir, kalendoriniams metams pasibaigus, ne vėliau kaip per 4 mėnesius didžiosios loterijos organizatorius privalo pateikti Priežiūros tarnybai loterijų ataskaitas. Jų formas ir pildymo tvarką nustato Priežiūros tarnyba.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
 
 TREČIASIS SKIRSNIS
 
@@ -293,7 +329,11 @@ VALSTYBINĖ LOTERIJŲ ORGANIZAVIMO PRIEŽIŪRA IR KONTROLĖ
 
 23 straipsnis. Priežiūros ir kontrolės institucijos
 
-1. Didžiųjų loterijų organizatorių veiklą prižiūri ir kontroliuoja Valstybinė lošimų priežiūros komisija, o mažųjų loterijų organizatorių veiklą – savivaldybės, kurios teritorijoje organizuojamos mažosios loterijos, vykdomoji institucija (toliau – priežiūros ir kontrolės institucijos).
+1. Didžiųjų loterijų organizatorių veiklą prižiūri ir kontroliuoja Priežiūros tarnyba, o mažųjų loterijų organizatorių veiklą – savivaldybės, kurios teritorijoje organizuojamos mažosios loterijos, vykdomoji institucija (toliau – priežiūros ir kontrolės institucijos).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
 
 2. Pagrindinis priežiūros ir kontrolės institucijų uždavinys yra teisės aktų nustatyta tvarka prižiūrėti ir kontroliuoti loterijų organizavimą, kad būtų užtikrinta žaidėjų ir loterijų organizatorių interesų ir jų teisių apsauga.
 
@@ -335,7 +375,11 @@ Priežiūros ir kontrolės institucijos, įgyvendindamos šio Įstatymo nuostata
 
 26 straipsnis. Auditas
 
-Didžiosios loterijos organizatorius ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos privalo pateikti Valstybinei lošimų priežiūros komisijai audito įmonės patikrintą metinę finansinę atskaitomybę kartu su auditoriaus išvada ir viešai paskelbti balansą ir pelno (nuostolio) ataskaitą.
+Didžiosios loterijos organizatorius ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos privalo pateikti Priežiūros tarnybai audito įmonės patikrintą metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada ir viešai paskelbti balansą ir pelno (nuostolių) ataskaitą.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
 
 PENKTASIS SKIRSNIS
 
@@ -345,7 +389,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 1. Šis Įstatymas, išskyrus 29 straipsnį, įsigalioja nuo 2004 m. sausio 1 d.
 
-2. Loterijų organizatoriai, kuriems yra išduotos terminuotos licencijos rengti pinigines ir pinigines-daiktines loterijas iki šio Įstatymo įsigaliojimo dienos, vykdo savo veiklą, kol pasibaigs licencijų galiojimo laikas. Loterijos vykdomos pagal Lošimų komisijos prie Finansų ministerijos patvirtintus reglamentus. Šių reglamentų papildymus arba pakeitimus tvirtina Valstybinė lošimų priežiūros komisija.
+2. Loterijų organizatoriai, kuriems yra išduotos terminuotos licencijos rengti pinigines ir pinigines-daiktines loterijas iki šio Įstatymo įsigaliojimo dienos, vykdo savo veiklą, kol pasibaigs licencijų galiojimo laikas. Loterijos vykdomos pagal Lošimų komisijos prie Finansų ministerijos patvirtintus reglamentus. Šių reglamentų papildymus arba pakeitimus tvirtina Priežiūros tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
 
 3. Loterijų organizatoriai, kuriems yra išduotos neterminuotos licencijos rengti pinigines ir pinigines-daiktines loterijas iki šio Įstatymo įsigaliojimo dienos, privalo pertvarkyti savo veiklą pagal šio Įstatymo nuostatas Didžiųjų ir mažųjų loterijų licencijavimo taisyklių nustatyta tvarka.
 
@@ -367,186 +415,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
 
-30 straipsnis. Loterijos taisyklės
-
-1. Loterijų organizatorius gali pradėti platinti kiekvienos loterijos bilietus tik tada, kai yra patvirtintos su priežiūros institucija suderintos tos loterijos taisyklės. Priežiūros institucija, įvertinusi  naujų loterijos taisyklių ar jau suderintų loterijos taisyklių pakeitimų projektą ir nustačiusi naujų loterijos taisyklių ar jau suderintų loterijos taisyklių pakeitimų atitiktį šio straipsnio 3 ir 4 dalyse nustatytiems reikalavimams, išduodama ar patikslindama licenciją suderina loterijos taisykles ar jų pakeitimus.
-
-2. Jeigu didžiųjų loterijų organizatorius, organizuodamas didžiąją loteriją, ketina naudoti loterijos įrenginio ar įrenginių programinę įrangą, kartu su šio įstatymo 11 straipsnio 1 ir 2 dalyse ir 13 straipsnio 1 dalies 2 punkte nurodytais dokumentais pateikiami šie dokumentai ir informacija:
-
-1) loterijos įrenginio ar įrenginių pavadinimas;
-
-2) mokėjimo sąskaitos, kuri bus naudojama loterijų organizatoriaus ir žaidėjo tarpusavio atsiskaitymams, rekvizitai, interneto adresai, telefono ryšio numeriai ar kita kontaktinė informacija, kuri bus naudojama organizuojant loterijas;
-
-3) loterijos įrenginio ar įrenginių programinės įrangos serverių skaitinis kompiuterio (IP) ir prisijungimo adresai, prisijungimo prie loterijos įrenginio ar įrenginių programinės įrangos duomenys, suteikiantys galimybę priežiūros institucijai nekliudomai patikrinti loterijos įrenginio ar įrenginių programinę įrangą ir joje saugomą informaciją;
-
-4) sertifikavimo įstaigos išduotas loterijos įrenginio programinės įrangos atitikties sertifikatas.
-
-3. Loterijos taisyklėse turi būti nurodyta:
-
-1) duomenys apie loterijų organizatorių (pavadinimas, teisinė forma, buveinė, kodas, registras, kuriame kaupiami ir saugomi duomenys apie loterijų organizatorių);
-
-2) loterijos rūšis ir pavadinimas;
-
-3) loterijos organizavimo vieta;
-
-4) loterijos esmė;
-
-5) loterijos laimėtojų nustatymo tvarka;
-
-6) loterijos bilieto aprašymas;
-
-7) loterijos bilieto arba loterijos kompiuterinės sistemos duomenų bazėje atpažįstamo įrašo kaina;
-
-8) numatomų išplatinti loterijos bilietų skaičius (jeigu organizuojama mažoji loterija);
-
-9) loterijos bilietų arba loterijos kompiuterinės sistemos duomenų bazėje atpažįstamo įrašo numeracijos tvarka (nurodomos bilietų serijos ir numeriai);
-
-10) loterijos bilieto pavyzdys;
-
-11) laimėjimų formos, momentinės loterijos taisyklėse – daiktinių laimėjimų ir neatlyginamai suteikiamų paslaugų vertė, piniginių laimėjimų sumos, laimėjimų skaičius ir bendra laimėjimų suma, tiražinės loterijos taisyklėse – laimėjimų suformavimo ir apskaičiavimo tvarka;
-
-12) laimėjimų fondas procentais;
-
-13) mažosios loterijos organizavimo laikotarpis (jeigu organizuojama mažoji loterija);
-
-14) loterijos bilietų arba loterijos kompiuterinės sistemos duomenų bazėje atpažįstamo įrašo platinimo tvarka;
-
-15) loterijos bilietų tikrinimo tvarka;
-
-16) laimėjimų atsiėmimo tvarka;
-
-17) žaidėjų ir loterijų organizatoriaus teisės ir pareigos;
-
-18) pretenzijų pateikimo ir nagrinėjimo tvarka;
-
-19) televizijos žaidimo aprašymas ir taisyklės (jeigu rengiamas televizijos žaidimas).
-
-4. Loterijos taisyklių nuostatos turi neprieštarauti šiam įstatymui, kitiems Lietuvos Respublikos teisės aktams, reglamentuojantiems loterijų organizavimą, būti išsamios, tikslios, aiškios ir suderintos viena su kita.
-
-5. Loterijos taisyklių pakeitimai gali būti taikomi tik po šių pakeitimų išspausdintai ir (ar) išleistai momentinės loterijos bilietų serijai arba loterijos bilietams, įgytiems kitam artimiausiam po šių pakeitimų loterijos tiražui ar sporto varžyboms, kurių baigtį spėja žaidėjas.
-
-6. Kai priežiūros institucija išduoda ar patikslina licenciją, loterijų organizatorius patvirtina su priežiūros institucija suderintas loterijos taisykles ar jų pakeitimus ir ne vėliau kaip per 5 darbo dienas priežiūros institucijai pateikia patvirtintų loterijos taisyklių ar jų pakeitimų kopiją.
-
-31 straipsnis. Didžiųjų loterijų ataskaita
-
-Kiekvienam kalendorinių metų ketvirčiui pasibaigus, ne vėliau kaip iki kito kalendorinių metų ketvirčio pirmo mėnesio 25 dienos, ir kalendoriniams metams pasibaigus, ne vėliau kaip per 4 mėnesius nuo kalendorinių metų pabaigos, didžiųjų loterijų organizatorius privalo pateikti priežiūros institucijai loterijų ataskaitas apie išplatintų loterijos bilietų skaičių, loterijos bilietų apyvartą, išmokėtus laimėjimus ir suteiktą paramą už praėjusius ketvirčius ir už metus. Ataskaitų formas, pildymo ir pateikimo tvarką nustato priežiūros institucija.
-
-32 straipsnis. Loterijos pabaiga
-
-1. Loterija turi būti pabaigta, kai:
-
-1) loterijų organizatorius nusprendžia paskelbti loterijos pabaigą;
-
-2) panaikinamas licencijos organizuoti loteriją galiojimas;
-
-3) pasibaigia loterijos organizavimo laikotarpis.
-
-2. Nusprendęs pabaigti loteriją, loterijų organizatorius priežiūros institucijai turi pateikti prašymą, išskyrus šio straipsnio 1 dalies 2 punkte nurodytą atvejį, patikslinti licenciją.
-
-3. Jeigu baigiamos loterijos išplatintų loterijos bilietų vertės ir žaidėjų atsiimtų laimėjimų santykis yra mažesnis, negu loterijos taisyklėse nustatytas laimėjimų fondas, loterijų organizatorius privalo:
-
-1) paskelbti apie momentinės loterijos pabaigą bendrovės interneto svetainėje ir nacionaliniame laikraštyje ir nurodyti terminą, per kurį žaidėjai gali atsiimti laimėjimą. Suėjus laimėjimų atsiėmimo terminui, loterijų organizatorius Labdaros ir paramos įstatyme nustatytiems paramos gavėjams turi pervesti pinigų sumą, kuri nebuvo išmokėta kaip laimėjimas, ir užtikrinti, kad išmokėtų laimėjimų suma kartu su pervesta paramai suma bei išplatintų loterijos bilietų vertės santykis būtų ne mažesnis, negu loterijos taisyklėse nustatytas laimėjimų fondas;
-
-2) organizuoti papildomą loterijos tiražą ar tiražus, kad laimėjimams išmokėta pinigų suma iki paskelbtos loterijos pabaigos būtų ne mažesnė, negu loterijos taisyklėse nustatytas laimėjimų fondas. Jeigu, organizavus papildomą loterijos tiražą ar tiražus, nustatoma, kad išplatintų loterijos bilietų vertės ir žaidėjų atsiimtų laimėjimų santykis vis dar yra mažesnis, negu loterijos taisyklėse nustatytas laimėjimų fondas, loterijų organizatorius Labdaros ir paramos įstatyme nustatytiems paramos gavėjams turi pervesti pinigų sumą, kuri nebuvo išmokėta kaip laimėjimas, ir užtikrinti, kad išmokėtų laimėjimų suma kartu su pervesta paramai suma bei išplatintų loterijos bilietų vertės santykis būtų ne mažesni, negu loterijos taisyklėse nustatytas laimėjimų fondas.
-
-4. Didžiųjų loterijų organizatorius privalo saugoti didžiųjų loterijų taisykles, jų pakeitimus, su loterijos bilietų platinimu susijusias sutartis ir kitus dokumentus ne trumpiau kaip vienus metus nuo didžiosios loterijos pabaigos.
-
-III SKYRIUS
-
-LOTERIJOS BILIETŲ PLATINIMO INTERNETU IR TELEFONO RYŠIU REIKALAVIMAI
-
-33 straipsnis. Loterijos bilietų platinimo internetu ir telefono ryšiu reikalavimai
-
-Loterijų organizatorius, platinantis loterijos bilietus interneto ir (ar) telefono ryšiu, privalo techninėmis ir organizacinėmis priemonėmis užtikrinti, kad:
-
-1) asmenys, kuriems dalyvauti loterijoje draudžiama pagal šio įstatymo 28 straipsnio 2 dalyje nustatytus reikalavimus, negalėtų įsigyti interneto ir (ar) telefono ryšiu platinamų loterijos bilietų;
-
-2) būtų nustatoma interneto ir (ar) telefono ryšiu loterijos bilietus įsigyjančių asmenų tapatybė ir jie būtų registruojami;
-
-3) tiražinės loterijos tiražo metu galėtų dalyvauti ne mažiau kaip dviejų žaidėjų įsigyti loterijos bilietai;
-
-4) nebūtų siūlomi bandomieji interneto ryšio loterijų žaidimai, kurių metu žaidėjas nepirkdamas loterijos bilieto gali išbandyti loterijos žaidimą;
-
-5) organizuojant interneto ryšio momentines loterijas, žaidėjas negalėtų atidengti visų paslėptų loterijos biliete esančių skaičių ir (ar) kitų ženklų vienu metu;
-
-6) būtų vykdoma žaidėjo įmokamų loterijos bilietams įsigyti skirtų sumų ir žaidėjams išmokamų laimėjimų apskaita.
-
-34 straipsnis. Interneto ryšiu platinamų loterijos bilietų įsigijimas ir laimėjimų išmokėjimas
-
-1. Loterijų organizatoriaus duomenų bazėje registruojama viena žaidėjo paskyros sąskaita, kurioje į apskaitą traukiamos žaidėjo iš anksto įmokėtos interneto ryšiu platinamiems loterijos bilietams įsigyti skirtos pinigų sumos ir žaidėjui išmokami laimėjimai.
-
-2. Loterijų organizatorius, nepažeisdamas šio įstatymo 22 straipsnio 2, 3 ir 4 dalyse nustatytų reikalavimų, interneto ryšiu laimėtus laimėjimus perveda į loterijų organizatoriaus ar loterijos bilietų platintojo tvarkomą žaidėjo paskyros sąskaitą arba žaidėjo prašymu į žaidėjo nurodytą jam priklausančią mokėjimo sąskaitą.
-
-3. Loterijų organizatorius, nustatęs, kad interneto ryšiu loterijoje dalyvauja asmuo, nurodytas šio įstatymo 28 straipsnio 2, 7 dalyse ir 35 straipsnio 1 dalyje, privalo neleisti tokiam asmeniui dalyvauti loterijoje ir grąžinti jam už loterijos bilietą ar bilietus sumokėtą pinigų sumą.
-
-35 straipsnis. Interneto ryšiu loterijose dalyvaujančių žaidėjų apsauga
-
-1. Interneto ryšiu loterijoje dalyvaujantis žaidėjas turi teisę prisijungęs prie savo paskyros sąskaitos loterijų organizatoriui arba loterijos bilietų platintojui pateikti prašymą, kuriame būtų nurodyti vienas ar keli apribojimai, taikomi prašymą pateikusiam žaidėjui dalyvaujant loterijose interneto ryšiu. Žaidėjas gali prašyti:
-
-1) riboti didžiausią pinigų sumą, kurią jis gali išleisti loterijos bilietams per tam tikrą laikotarpį;
-
-2) leisti pasirinkti dalyvavimo loterijose laiko limitą, kuriam suėjus turi būti nutraukta galimybė dalyvauti loterijose.
-
-2. Pakeisti prašymą (išskyrus prašymą dėl dar didesnio pinigų sumos ir arba laiko limito ribojimo) žaidėjas gali ne anksčiau kaip praėjus mėnesiui nuo prašymo pateikimo dienos.
-
-3. Loterijų organizatorius privalo užtikrinti šio straipsnio 1 ir 2 dalyse nurodytų apribojimų įgyvendinimą.
-
-4. Interneto ryšiu loterijose dalyvaujančiam žaidėjui nuolat privalo būti aiškiai rodoma informacija apie jo paskyros sąskaitos likutį ir periodiškai, ne rečiau kaip vieną kartą per valandą, rodoma informacija, kiek laiko jis nepertraukiamai žaidžia loterijoje. Informacija apie bendrą už loterijos bilietus sumokėtų pinigų sumą ir laimėjimų sumą žaidėjui turi būti lengvai prieinama.
-
-IV SKYRIUS
-
-VALSTYBINĖ LOTERIJŲ ORGANIZAVIMO PRIEŽIŪRA
-
-36 straipsnis. Priežiūros institucija
-
-1. Didžiųjų ir mažųjų loterijų organizatorių loterijų veiklą prižiūri priežiūros institucija.
-
-2. Pagrindinis priežiūros institucijos uždavinys yra prižiūrėti loterijų organizavimą, kad būtų užtikrinta žaidėjų ir loterijų organizatorių interesų ir jų teisių apsauga.
-
-37 straipsnis. Priežiūros institucijos pagrindinės funkcijos
-
-Priežiūros institucija, įgyvendindama šio įstatymo nuostatas:
-
-1) nagrinėja dokumentus, kurių reikia licencijoms organizuoti loterijas išduoti;
-
-2) išduoda licencijas, jas patikslina, atsisako išduoti licencijas, įspėja apie galimą licencijų galiojimo sustabdymą, sustabdo licencijų galiojimą, panaikina galiojimo sustabdymą ir panaikina licencijų galiojimą;
-
-3) prižiūri, kaip loterijų organizatoriai laikosi teisės aktų, reglamentuojančių loterijų organizavimą, reikalavimų;
-
-4) kelia licencijų duomenis į Licencijų informacinę sistemą.
-
-38 straipsnis. Priežiūros institucijos teisės
-
-1. Priežiūros institucija, įgyvendindama jai pavestą uždavinį ir atlikdama jai nustatytas funkcijas, turi teisę:
-
-1) gauti iš loterijų organizatorių informaciją, kurios reikia priežiūros funkcijoms atlikti;
-
-2) atlikti patikrinimus loterijų organizavimo ir loterijos bilietų platinimo vietose;
-
-3) tikrinti loterijų organizatorių finansinę veiklą, susijusią su loterijų organizavimu;
-
-4) reikalauti, kad loterijų organizatoriai pateiktų paaiškinimus apie loterijų organizavimą;
-
-5) nustatyti ataskaitų, kurias turi pateikti loterijų organizatorius, formas ir teikimo tvarką;
-
-6) taikyti loterijų organizatoriams šio įstatymo nustatytas poveikio priemones: licencijos galiojimo sustabdymą, panaikinimą ir kitas priemones, numatytas loterijų organizavimą reglamentuojančiuose teisės aktuose;
-
-7) skirti administracines nuobaudas.
-
-2. Priežiūros institucijos valstybės tarnautojai ir kiti darbuotojai, atlikdami jiems pavestas užduotis, turi ir kitas loterijų organizavimą reglamentuojančių teisės aktų suteiktas teises.
-
-39 straipsnis. Finansinių dokumentų pateikimas priežiūros institucijai
-
-1. Didžiųjų loterijų organizatorius kiekvienam kalendorinių metų ketvirčiui pasibaigus, ne vėliau kaip iki kito kalendorinių metų ketvirčio pirmo mėnesio paskutinės dienos, privalo priežiūros institucijai pateikti tarpinių finansinių ataskaitų rinkinį ir priežiūros institucijos prašomus apskaitos registro duomenis.
-
-2. Didžiųjų loterijų organizatoriaus metinis finansinių ataskaitų rinkinys turi būti audituotas ir ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos kartu su auditoriaus išvada paskelbtas bendrovės interneto svetainėje.
-
-3. Didžiųjų loterijų organizatorius turi užtikrinti, kad priežiūros institucijos prašymu apskaitos dokumentai priežiūros institucijai būtų pateikiami nedelsiant, bet ne vėliau kaip per 2 darbo dienas.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                             ROLANDAS PAKSAS
-
 Pakeitimai:
 
 1.
@@ -556,32 +424,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
 
 Lietuvos Respublikos loterijų įstatymo 4, 10, 11, 13, 15, 19, 20, 23, 26 ir 27 straipsnių pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-1111, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13427
-
-Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 2, 10 ir 14 straipsnių pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2598, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20557
-
-Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 pakeitimo įstatymas
-
-281 straipsnis. Atsiskaitymai už dalyvavimą loterijose, kurių bilietai platinami interneto ryšiu
-
-1. Mokėjimo paslaugų teikėjas privalo vykdyti tik su į subjektų, turinčių teisę vykdyti loterijų veiklą Lietuvos Respublikoje, ir (ar) jų pasirinktų loterijos bilietų platintojų sąrašą (toliau šiame straipsnyje – Sąrašas) įtrauktais subjektais mokėjimo kortele inicijuojamas mokėjimo operacijas ir (ar) mokėjimo kortele inicijuojamas nuotolines mokėjimo operacijas, skirtas laimėjimams išmokėti ir (ar) įmokoms už loterijos bilietų, kurie platinami interneto ryšiu, įsigijimą priimti. Ši nuostata netaikoma, kai Lietuvos Respublikoje veikiantis mokėjimo paslaugų teikėjas vykdo kitose negu Lietuvos Respublikos jurisdikciją turinčiose teritorijose mokėjimo kortele inicijuotas mokėjimo operacijas ir (ar) mokėjimo kortele inicijuotas nuotolines mokėjimo operacijas, skirtas laimėjimams išmokėti ir (ar) įmokoms už loterijos bilietų, kurie platinami interneto ryšiu, įsigijimą priimti.
-
-2. Subjektas į Sąrašą įtraukiamas licencijos išdavimo jam dieną, o iš Sąrašo išbraukiamas licencijos panaikinimo dieną. Sąrašą, kuriame nurodomas juridinio asmens pavadinimas, juridinio asmens kodas, sąskaitos numeris, mokėjimo kortelių schemose, kaip jos apibrėžiamos 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 2015/751 dėl tarpbankinių mokesčių už kortelėmis grindžiamas mokėjimo operacijas, priskirtas unikalus prekybininko identifikavimo numeris, sudaro ir savo interneto svetainėje skelbia priežiūros institucija. Priežiūros institucija atnaujina Sąrašą tą pačią dieną, kurią subjektui išduodama arba panaikinama licencija ir (ar) loterijos organizatorius apie pasikeitusį savo pasirinktą loterijos bilietų platintoją informuoja priežiūros instituciją.
-
-3. Atsiskaitymo už dalyvavimą loterijoje, kurios bilietai platinami interneto ryšiu, per Lietuvos Respublikoje veikiančius mokėjimo paslaugų teikėjus ribojimo tvarką detalizuoja priežiūros institucija, suderinusi šią tvarką su Lietuvos banku.
-
-Papildyta straipsniu:
-
-Nr. XV-108, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00695
 
