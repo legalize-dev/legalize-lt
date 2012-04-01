@@ -4,7 +4,7 @@ identifier: "TAR.2A38153C928F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-06-10"
-last_updated: "2011-12-31"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2A38153C928F"
 department: "Lietuvos Respublikos Seimas"
@@ -270,15 +270,11 @@ straipsnis. Įstatymo įsigaliojimas
 
 straipsnio 1 dalį, įsigalioja 2010 m. liepos 1 d.
 
-2.
+2. Šio įstatymo 1 straipsnio 1 dalis įsigalioja 2010 m. liepos 1 d. ir
 
-Šio įstatymo 1 straipsnio 1 dalis įsigalioja 2010 m.
+galioja iki 2012 m. gruodžio 31 d.
 
-liepos 1 d. ir galioja iki 2012 m. kovo 31 d.
-
-3. Šio įstatymo 1 straipsnio 2 dalis įsigalioja 2012 m.
-
-balandžio 1 d.
+3. Šio įstatymo 1 straipsnio 2 dalis įsigalioja 2013 m. sausio 1 d.
 
 4. Šio įstatymo
 
@@ -291,6 +287,10 @@ Nr.
 XI-1808,
 
 2011-12-15, Žin., 2011, Nr. 156-7389 (2011-12-22)
+
+Nr. XI-1942,
+
+2012-03-27, Žin., 2012, Nr. 38-1892 (2012-03-31)
 
 7
 
@@ -308,9 +308,11 @@ iki 2011 m. birželio 30 d. parengia teisės aktus, kuriuose būtų numatyta
 
 papildomo vairuotojų mokymo tvarka, įskaitant dvejų ir daugiau metų vairavimo
 
-stažą turinčių vairuotojų, nuolat pažeidžiančių Kelių eismo taisykles, papildomą
+stažą turinčių vairuotojų, nuolat pažeidžiančių Kelių eismo taisykles,
 
-mokymą ir galimybę sukurti balų už Kelių eismo taisyklių pažeidimus sistemą.
+papildomą mokymą ir galimybę sukurti balų už Kelių eismo taisyklių pažeidimus
+
+sistemą.
 
 Skelbiu šį Lietuvos Respublikos
 
@@ -344,13 +346,31 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja 2011 m. gruodžio 31 d.
 
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1942,
+
+2012-03-27, Žin., 2012, Nr. 38-1892 (2012-03-31)
+
+SAUGAUS EISMO AUTOMOBILIŲ KELIAIS
+
+ĮSTATYMO 2, 7, 10, 19, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 6
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja 2012 m. balandžio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2011-12-23)
+Aušrinė Trapinskienė (2012-04-02)
 
 ausrine.trapinskiene@lrs.lt
 
