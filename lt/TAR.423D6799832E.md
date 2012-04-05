@@ -4,7 +4,7 @@ identifier: "TAR.423D6799832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-01-28"
-last_updated: "2010-10-01"
+last_updated: "2012-04-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.423D6799832E"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas
 
-Suvestinė redakcija nuo 2010-10-01 iki 2012-04-04
+Suvestinė redakcija nuo 2012-04-05 iki 2012-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 17-701, i. k. 1031010ISTA0IX-1315
 
@@ -37,7 +37,11 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis, tikslas ir taikymas
 
-1. Šio Įstatymo tikslas – reglamentuoti ir suderinti su šio Įstatymo priede nurodytu Europos Sąjungos teisės aktu sprogmenų, sprogstamųjų medžiagų ir sprogdinimo priemonių (toliau – sprogmenų) apyvartą siekiant užtikrinti žmogaus, visuomenės ir valstybės saugumą.
+1. Šio įstatymo tikslas – reguliuoti sprogmenų, sprogstamųjų medžiagų ir sprogdinimo priemonių (toliau – sprogmenų) apyvartą siekiant užtikrinti žmogaus, visuomenės ir valstybės saugumą ir įgyvendinti civiliniam naudojimui skirtų sprogmenų atpažinties ir susekamumo sistemą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
 
 2. Įstatymo paskirtis yra įtvirtinti sprogmenų apyvartos bei jos kontrolės teisinius pagrindus, taip pat nustatyti subjektų, kurių veikla susijusi su sprogmenimis, teises ir pareigas.
 
@@ -281,11 +285,53 @@ Lietuvos standartai, reglamentuojantys sprogmenų gamybą ir savybes, turi atiti
 
 4. CE ženklu turi būti paženklinti visi importuojami sprogmenys. Tranzitu gabenami sprogmenys turi būti paženklinti CE ženklu, jeigu jie gabenami į Europos Sąjungos valstybę narę arba bus toliau gabenami per Europos Sąjungos valstybės narės teritoriją.
 
-5. CE ženklu sprogmenys turi būti ženklinami tokiu būdu, kad žymuo būtų aiškiai pastebimas, lengvai įskaitomas ir nenutrinamas. CE ženklu žymimas pats sprogmuo arba, jei tai neįmanoma, prie sprogmens pritvirtinta duomenų plokštelė; tuo atveju, kai taip žymėti techniškai neįmanoma, žymima sprogmens pakuotė. Duomenų plokštelė pagaminama taip, kad jos nebūtų galima panaudoti antrą kartą. Draudžiama ženklinti sprogmenis užrašais, kuriuos galima būtų klaidingai palaikyti CE ženklu.
+5. Sprogmenų gamintojai, importuotojai, eksportuotojai privalo sprogmenis paženklinti unikaliu atpažinties žymeniu, išskyrus:
+
+1) sprogmenis, kurie vežami nesupakuoti arba hidrauliniuose krautuvuose ir iš karto iškraunami į sprogdinimo ertmes;
+
+2) sprogmenis, kurie gaminami sprogdinimo vietose ir ką tik pagaminti (in situ gamyba) užtaisomi.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+
+6. Lietuvos Respublikoje esančioms gamybos vietoms unikalaus atpažinties žymens tris skaitmenis, žyminčius gamybos vietą, suteikia Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
+
+7. Jeigu į Lietuvos Respubliką importuojamų sprogmenų gamybos vieta yra ne Europos ekonominės erdvės valstybėje narėje, tačiau gamintojas yra registruotas Europos ekonominės erdvės valstybėje narėje, Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos sprogmenų gamintojo prašymu suteikia šio gamintojo unikalaus atpažinties žymens tris skaitmenis, žyminčius jo gamybos vietą. Jei gamintojas nėra registruotas Europos ekonominės erdvės valstybėje narėje, prašymą suteikti unikalaus atpažinties žymens tris skaitmenis, žyminčius gamybos vietą, Lietuvos Respublikos ginklų fondui prie Lietuvos Respublikos vidaus reikalų ministerijos pateikia sprogmenų importuotojas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
+
+8. Iš Lietuvos Respublikos eksportuojami sprogmenys gali būti neženklinami unikaliu atpažinties žymeniu, jeigu pagal importuojančios šalies reikalavimus jie yra paženklinti kitokiu atpažinties žymeniu, leidžiančiu atpažinti sprogmenis ir atsekti jų judėjimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+
+9. CE ženklu ir unikaliu atpažinties žymeniu sprogmenys turi būti ženklinami tokiu būdu, kad žymenys būtų aiškiai pastebimi, lengvai įskaitomi ir patvarūs. CE ženklu žymimas pats sprogmuo arba, jei tai neįmanoma, prie sprogmens pritvirtinta duomenų plokštelė; tuo atveju, kai taip žymėti techniškai neįmanoma, žymima sprogmens pakuotė. Duomenų plokštelė pagaminama taip, kad jos nebūtų galima panaudoti antrą kartą. Draudžiama ženklinti sprogmenis užrašais, kuriuos būtų galima klaidingai palaikyti CE ženklu ir unikaliu atpažinties žymeniu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
 
 6. Lietuvos Respublikoje esančioms gamybos vietoms unikalaus atpažinties žymens tris skaitmenis, žyminčius gamybos vietą, suteikia Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos.
 
 Straipsnio dalies pakeitimai:
+
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
 
 Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
 
@@ -294,6 +340,10 @@ Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA0
 Straipsnio dalies pakeitimai:
 
 Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
 
 10 straipsnis. Sprogmenų gamybos ir sprogdinimo darbų saugos reikalavimai
 
@@ -401,6 +451,12 @@ Straipsnio punkto pakeitimai:
 
 Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
 
+11) pranešti licenciją išdavusiai institucijai asmens, galinčio ne darbo valandomis suteikti informaciją apie kiekvieno turimo sprogmens kilmę ir jo buvimo vietą per visą laiką nuo įsigijimo iki perdavimo (pardavimo) ar sunaudojimo, vardą, pavardę, ryšių duomenis.
+
+Papildyta straipsnio punktu:
+
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+
 2. Licencijos turėtojui draudžiama:
 
 1) pavesti, įgalioti ar kitaip perleisti teisę verstis licencijoje nurodyta veikla kitam asmeniui;
@@ -423,7 +479,11 @@ Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA
 
 1) gaminti tik tuos sprogmenis, kurių gamybai buvo išduota licencija;
 
-2) ženklinti sprogmenis žymenimis, leidžiančiais nustatyti gamintoją;
+2) ženklinti sprogmenis pagal šio įstatymo 9 straipsnio reikalavimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
 
 3) užtikrinti saugos sąlygas, šalinančias ar kiek įmanoma mažinančias sprogmenų, žaliavų, komponentų ir gavinių savaiminio užsidegimo ar sprogimo tikimybę;
 
@@ -589,11 +649,19 @@ Sprogmenų apskaita
 
 23 straipsnis. Sprogmenų apskaita
 
-1. Gamintojai, importuotojai, eksportuotojai, pardavėjai privalo tvarkyti sprogmenų apskaitą, leidžiančią nustatyti importuotų, pagamintų, eksportuotų, laikomų, parduotų sprogmenų pavadinimus, įgijimo datas ir šaltinius, pagaminimo datas ir vietas, patiekimo į rinką datas ir gavėjus, kiekius.
+1. Gamintojai, importuotojai, eksportuotojai, pardavėjai privalo tvarkyti sprogmenų apskaitą, sprogmenų apskaitos žurnaluose registruoti, saugoti, atnaujinti, tikrinti įrašus apie sprogmenų unikalius atpažinties žymenis, duomenis apie sprogmenų rūšis, sprogmenų buvimo vietą, kam jie buvo panaudoti ar perduoti, taip pat kitą su sprogmenų atpažintimi ir susekamumu susijusią informaciją Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
 
 2. Naudotojai, įgiję sprogmenų, privalo juos įtraukti į apskaitą. Apskaitoje nurodoma sprogmenų pavadinimai, kiekiai, įgijimo data ir šaltinis, pagaminimo data, sunaudojimo data ir vieta.
 
-3. Apskaitos duomenys turi būti nustatyta tvarka pateikiami valstybinę sprogmenų apyvartos kontrolę atliekantiems pareigūnams.
+3. Apskaitos duomenys turi būti nustatyta tvarka pateikiami valstybinę sprogmenų apyvartos kontrolę atliekantiems pareigūnams, jų prašymu turi būti pateikta informacija apie kiekvieno turimo sprogmens kilmę ir jo buvimo vietą per visą laiką nuo įsigijimo iki perdavimo (pardavimo) ar sunaudojimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
 
 4. Sprogmenų apskaitos tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
