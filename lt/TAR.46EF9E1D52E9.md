@@ -4,7 +4,7 @@ identifier: "TAR.46EF9E1D52E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-29"
-last_updated: "2011-07-19"
+last_updated: "2012-04-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 department: "Lietuvos Respublikos Seimas"
@@ -5938,11 +5938,11 @@ Lietuvos Respublikos diplomatinės tarnybos.
 
 turintį Lietuvos Respublikos nepaprastojo ir įgaliotojo ambasadoriaus ar
 
-Lietuvos Respublikos nepaprastojo pasiuntinio ir įgaliotojo ministro
+Lietuvos Respublikos nepaprastojo pasiuntinio ir įgaliotojo ministro diplomatinį
 
-diplomatinį rangą), dirbęs pagal terminuotą diplomato tarnybos sutartį,
+rangą), dirbęs pagal terminuotą diplomato tarnybos sutartį, diplomatinio rango
 
-diplomatinio rango netenka pasibaigus terminuotai diplomato tarnybos sutarčiai.
+netenka pasibaigus terminuotai diplomato tarnybos sutarčiai.
 
 3. Diplomato statusas užsienio
 
@@ -6948,21 +6948,43 @@ tarnybinių pareigų atlikimu, Vyriausybės nustatyta tvarka iš Lietuvos
 
 Respublikos valstybės biudžeto vaikams (įvaikiams, taip pat vaikams, gimusiems
 
-po jo mirties), iki jiems sukaks 18 metų, taip pat vaikams (įvaikiams), kurie
+po jo mirties), iki jiems sukaks 18 metų, taip pat vyresniems vaikams
 
-mokosi nustatyta tvarka įregistruotų mokymo įstaigų dieniniuose skyriuose, –
+(įvaikiams), jeigu jie mokosi pagal bendrojo ugdymo programą, pagal formaliojo
 
-iki jiems sukaks 24 metai, sutuoktiniui, tėvui (įtėviui), motinai (įmotei) ir
+profesinio mokymo programą pirmajai kvalifikacijai įgyti ar studijuoja
 
-dėl amžiaus ar neįgalumo nedarbingiems asmenims, kurie buvo diplomato išlaikomi
+aukštojoje mokykloje pagal dieninės studijų formos nuosekliųjų studijų programą
 
-arba jo mirties dieną turėjo teisę gauti jo išlaikymą, lygiomis dalimis
+ar nuolatinės studijų formos programą (įskaitant ir akademinių atostogų
 
-išmokama 48 mėnesių diplomato gauto vidutinio darbo užmokesčio dydžio
+laikotarpį), – iki jiems sukaks 24 metai, sutuoktiniui, tėvui (įtėviui),
 
-kompensacija. Kompensacija gali būti išmokama dalimis, bet ne ilgiau kaip per 2
+motinai (įmotei) ir dėl amžiaus ar neįgalumo nedarbingiems asmenims, kurie buvo
 
-metus.
+diplomato išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą,
+
+lygiomis dalimis išmokama 48 mėnesių diplomato gauto vidutinio darbo užmokesčio
+
+dydžio kompensacija, o jeigu diplomatas žuvo atlikdamas tarnybines pareigas
+
+arba mirė
+
+dėl priežasčių, susijusių su tarnybinių pareigų atlikimu užsienio
+
+valstybėje, kurioje vyksta ginkluotas konfliktas, ar dėl užsienio valstybėje
+
+įvykdyto teroro akto, – 100 mėnesių jo gauto vidutinio darbo
+
+užmokesčio dydžio kompensacija. Visais atvejais bendra diplomatui žuvus
+
+atliekant tarnybines pareigas arba mirus dėl priežasčių, susijusių su
+
+tarnybinių pareigų atlikimu, išmokamos kompensacijos suma negali
+
+viršyti 350 000 litų. Kompensacija gali būti išmokama dalimis, bet ne
+
+ilgiau kaip per 3 metus.
 
 2. Diplomatas pripažįstamas
 
@@ -6982,9 +7004,9 @@ narkotinių, psichotropinių ar toksinių medžiagų arba jeigu diplomatas nusi�
 
 dėl priežasčių, nesusijusių su tarnyba. Diplomatas pripažįstamas žuvusiu
 
-atliekant tarnybines pareigas arba mirusiu dėl priežasčių, susijusių su tarnybinių
+atliekant tarnybines pareigas arba mirusiu dėl priežasčių, susijusių su
 
-pareigų užsienyje atlikimu, Vyriausybės nustatyta tvarka.
+tarnybinių pareigų užsienyje atlikimu, Vyriausybės nustatyta tvarka.
 
 3. Diplomatas, žuvęs atlikdamas
 
@@ -6994,15 +7016,27 @@ atlikimu, laidojamas valstybės lėšomis. Valstybės apmokamų laidojimo išlai
 
 aprašą tvirtina Vyriausybė ar jos įgaliota institucija.
 
-4. Diplomatui, kuris buvo
+4. Diplomatui,
 
-sužalotas arba susirgo sunkia liga atlikdamas tarnybines pareigas arba dėl
+kuris buvo sužalotas atlikdamas tarnybines pareigas arba susirgo sunkia liga
 
-priežasčių, susijusių su tarnybinių pareigų atlikimu, atsižvelgiant į jo
+dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, atsižvelgiant į jo
 
 sveikatos sutrikimo laipsnį Vyriausybės nustatyta tvarka išmokama vienkartinė
 
-nuo 12 iki 48 mėnesių jo vidutinio darbo užmokesčio dydžio kompensacija.
+nuo 12 iki 48 mėnesių jo vidutinio darbo užmokesčio dydžio kompensacija, o diplomatui, kuris buvo
+
+sužalotas atlikdamas tarnybines pareigas arba susirgo sunkia liga dėl
+
+priežasčių, susijusių su tarnybinių pareigų atlikimu užsienio valstybėje,
+
+kurioje vyksta ginkluotas konfliktas, ar dėl užsienio valstybėje įvykdyto
+
+teroro akto, –
+
+nuo
+
+30 iki 50 mėnesių jo vidutinio darbo užmokesčio dydžio kompensacija.
 
 5. Paskirto dirbti į Lietuvos
 
@@ -7018,6 +7052,18 @@ straipsnyje, palaikų pervežimo į Lietuvą išlaidas apmoka valstybė teisės 
 
 nustatyta tvarka.
 
+6. Išmokėjusi kompensaciją
+
+Užsienio reikalų ministerija įgyja reikalavimo (regreso) teisę iš žalą
+
+padariusių juridinių ir fizinių asmenų. Kompensacija įskaitoma į atlygintinos
+
+žalos dydį. Tais atvejais, kai žalos dydis yra mažesnis negu išmokėta
+
+kompensacija, Užsienio reikalų ministerija regreso tvarka iš kalto dėl žalos
+
+asmens gali reikalauti tos kompensacijos dalies, kuria atlyginta žala.
+
 Straipsnio
 
 pakeitimai:
@@ -7025,6 +7071,10 @@ pakeitimai:
 Nr. XI-870,
 
 2010-06-03, Žin., 2010, Nr. 71-3548 (2010-06-19)
+
+Nr. XI-1947,
+
+2012-03-29, Žin., 2012, Nr. 44-2141 (2012-04-14)
 
 XI SKYRIUS
 
@@ -7066,9 +7116,9 @@ straipsnis. Įstatymo įgyvendinimas
 
 Šio įstatymo įgyvendinimo tvarką
 
-ir sąlygas nustato Lietuvos Respublikos diplomatinės tarnybos įstatymo
+ir sąlygas nustato Lietuvos Respublikos diplomatinės tarnybos įstatymo įgyvendinimo
 
-įgyvendinimo įstatymas.
+įstatymas.
 
 Skelbiu šį
 
@@ -7122,9 +7172,9 @@ garantijos, kompensacijos ir kt.)
 
 kurie neprivalomi pagal teisės aktus, bet jiems neprieštarauja
 
-____________________________________________________________________________
+___________________________________________________________________________
 
-______________________________________________________________________________.
+___________________________________________________________________________.
 
 6. Ši diplomato tarnybos sutartis įsigalioja ________________________________.                                                                                   (nurodyti datą)7. Diplomatas pradeda dirbti __________________________________________.                                                                                   (nurodyti datą)8. Ginčai dėl šios diplomato tarnybos sutarties nagrinėjami Lietuvos Respublikos įstatymų nustatyta tvarka.9. Ši diplomato tarnybos sutartis gali būti nutraukta Lietuvos Respublikos diplomatinės tarnybos įstatymo nustatytais pagrindais.10. Diplomato tarnybos sutartis sudaroma dviem egzemplioriais: vienas duodamas darbdaviui, kitas – diplomatui. Darbdavio atstovas           __________________               ____________________                                          (parašas)                                  (vardas ir pavardė)A. V.Diplomatas                        __________________              _______________________                                              (parašas)                                            (vardas ir pavardė) Diplomato tarnybos sutartis nutraukta __________________________________________                                                             (nurodyti datą ir teisinį pagrindą)________________________________________________________________________. Darbdavio atstovas               __________________               ________________________                                              (parašas)                                                  (vardas ir pavardė)A. V. Diplomatas                            __________________              ________________________                                              (parašas)                                                     (vardas ir pavardė)
 
@@ -7136,17 +7186,7 @@ Nr. XI-870,
 
 2010-06-03, Žin., 2010, Nr. 71-3548 (2010-06-19)
 
-Lietuvos Respublikos                                                                                                        diplomatinės tarnybos                                                                                                        įstatymo                                                                                                        2 priedėlis  TERMINUOTA DIPLOMATO TARNYBOS SUTARTIS  ______m. ____________d. Nr._____________________(sudarymo vieta) Užsienio reikalų ministerija, ______________________________________________________                                                                                                        (adresas)___________________________________________________________________________,
-
-(toliau – darbdavys),
-
-atstovaujama ____________________________________________,                                                                         (atstovo
-
-pareigos, vardas ir pavardė)
-
-____________________________________________________________________________
-
-ir priimamas į Lietuvos Respublikos diplomatinę tarnybą Lietuvos Respublikos pilietis _____________________________, gyvenantis ______________________________________               (vardas ir pavardė)                                                                            ____________________________________, asmens kodas______________________________,(toliau – diplomatas) sudarė šią terminuotą diplomato tarnybos sutartį:1. ________________________________________________________________(vardas ir pavardė) priimamas į Lietuvos Respublikos diplomatinę tarnybą dirbti:1.1. ______________________________________________________________;      (nurodyti Lietuvos Respublikos diplomatinę atstovybę/konsulinę įstaigą/valstybės instituciją, padalinį ir pareigas)1.2. ______________________________________________________________;                     (nurodyti sutarties terminą, jei asmuo skiriamas į pareigas apibrėžtam terminui)
+Lietuvos Respublikos                                                                                                        diplomatinės tarnybos                                                                                                        įstatymo                                                                                                        2 priedėlis  TERMINUOTA DIPLOMATO TARNYBOS SUTARTIS  ______m. ____________d. Nr._____________________(sudarymo vieta) Užsienio reikalų ministerija, _____________________________________________________                                                                                                        (adresas)___________________________________________________________________________, (toliau – darbdavys), atstovaujama _______________________________________________,(atstovo pareigos, vardas ir pavardė)___________________________________________________________________________ ir priimamas į Lietuvos Respublikos diplomatinę tarnybą Lietuvos Respublikos pilietis _____________________________, gyvenantis ____________________________________               (vardas ir pavardė)                                                                            _________________________________, asmens kodas______________________________, (toliau – diplomatas) sudarė šią terminuotą diplomato tarnybos sutartį:1. ________________________________________________________________(vardas ir pavardė) priimamas į Lietuvos Respublikos diplomatinę tarnybą dirbti:1.1. ______________________________________________________________;      (nurodyti Lietuvos Respublikos diplomatinę atstovybę/konsulinę įstaigą/valstybės instituciją, padalinį ir pareigas)1.2. ______________________________________________________________;                     (nurodyti sutarties terminą, jei asmuo skiriamas į pareigas apibrėžtam terminui)
 
 1.3.
 
@@ -7186,7 +7226,7 @@ tarnybos įstatyme, kituose įstatymuose ir teisės aktuose.
 
 įsipareigojimai, kurie neprivalomi pagal teisės aktus, bet jiems neprieštarauja
 
-__________________________________________________________________.
+___________________________________________________________________________.
 
 (papildomos
 
@@ -7196,9 +7236,9 @@ garantijos, kompensacijos ir kt.)
 
 kurie neprivalomi pagal teisės aktus, bet jiems neprieštarauja
 
-____________________________________________________________________________
+___________________________________________________________________________
 
-________________________________________________________________________.
+___________________________________________________________________________.
 
 6. Ši terminuota diplomato tarnybos sutartis įsigalioja ______________________.                                                                                                        (nurodyti datą)
 
@@ -7226,7 +7266,7 @@ tarnybos sutartis gali būti nutraukta Lietuvos Respublikos diplomatinės
 
 tarnybos įstatymo nustatytais pagrindais.
 
-10. Terminuota diplomato tarnybos sutartis sudaroma dviem egzemplioriais: vienas duodamas darbdaviui, kitas – diplomatui.  Darbdavio atstovas           __________________              __________________________                                           (parašas)                                               (vardas ir pavardė)A. V. Diplomatas                        __________________              __________________________                                          (parašas)                                               (vardas ir pavardė) Terminuota diplomato tarnybos sutartis pakeista __________________________________________
+10. Terminuota diplomato tarnybos sutartis sudaroma dviem egzemplioriais: vienas duodamas darbdaviui, kitas – diplomatui.  Darbdavio atstovas           __________________              __________________________                                           (parašas)                                               (vardas ir pavardė)A. V. Diplomatas                        __________________              __________________________                                          (parašas)                                               (vardas ir pavardė) Terminuota diplomato tarnybos sutartis pakeista _____________________________________
 
 (nurodyti,
 
@@ -7234,23 +7274,23 @@ kurios pirminės šios sutarties sąlygos  pakeistos, taip pat datą ir teisin�
 
 pagrindą)
 
-________________________________________________________________________
+_____________________________________________________________________
 
-________________________________________________________________________
+_____________________________________________________________________
 
-________________________________________________________________________
+_____________________________________________________________________
 
-________________________________________________________________________.
+_____________________________________________________________________.
 
-Darbdavio atstovas            __________________              __________________________                                          (parašas)                                               (vardas ir pavardė)A. V. Diplomatas                        __________________              __________________________                                          (parašas)                                               (vardas ir pavardė)
+Darbdavio atstovas            __________________              __________________________                                          (parašas)                                               (vardas ir pavardė)A. V. Diplomatas                        __________________              __________________________                                          (parašas)                                               (vardas ir pavardė)
 
 Terminuota diplomato tarnybos
 
-sutartis nutraukta __________________________________
+sutartis nutraukta ______________________________
 
 (nurodyti datą ir teisinį pagrindą)
 
-__________________________________________________________________________________ Darbdavio atstovas              __________________              ________________________                                           (parašas)                                               (vardas ir pavardė)A. V. Diplomatas                        __________________              ________________________
+___________________________________________________________________________ Darbdavio atstovas              __________________              ________________________                                           (parašas)                                               (vardas ir pavardė)A. V. Diplomatas                        __________________              ________________________
 
 (parašas)                                               (vardas
 
