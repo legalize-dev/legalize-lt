@@ -4,7 +4,7 @@ identifier: "TAR.AB44F084071E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2011-06-11"
+last_updated: "2012-04-14"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB44F084071E"
 department: "Lietuvos Respublikos Seimas"
@@ -732,6 +732,22 @@ raštas.
 
 konsoliduotosios finansinės ataskaitos sudaro nedalomą visumą.
 
+Straipsnis
+
+papildomas 3 dalimi nuo 2013-01-01:
+
+3. Finansinių ataskaitų, nurodytų
+
+šio straipsnio 1 dalyje, pavadinimai gali būti kitokie, negu šio straipsnio 1
+
+dalyje nurodyti.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1950,
+
+2012-03-29, Žin., 2012, Nr. 44-2143 (2012-04-14)
+
 8 straipsnis. Reikalavimai
 
 konsoliduotosioms finansinėms ataskaitoms
@@ -745,6 +761,16 @@ kapitalą, įsipareigojimus, pajamas ir sąnaudas, pinigų srautus.
 2. Konsoliduotosios finansinės ataskaitos sudaromos
 
 naudojant Lietuvos Respublikos piniginį vienetą – litą.
+
+2
+
+dalies redakcija nuo 2013-01-01:
+
+2. Konsoliduotosios finansinės ataskaitos
+
+sudaromos naudojant Lietuvos Respublikos piniginį vienetą – litą, o
+
+prireikus – ir litą, ir užsienio valiutą.
 
 3. Konsoliduotosios finansinės ataskaitos sudaromos
 
@@ -766,15 +792,37 @@ pasirinkimas negali būti keičiamas anksčiau negu po penkerių metų (išskyru
 
 atvejį, kai įmonė tampa įmonių grupės įmone).
 
+3
+
+dalies redakcija nuo 2013-01-01:
+
+3. Konsoliduotosios finansinės ataskaitos sudaromos
+
+vadovaujantis Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymu,
+
+šiuo įstatymu ir verslo apskaitos standartais arba tarptautiniais apskaitos
+
+standartais (toliau – apskaitos standartai). Pagal tarptautinius apskaitos
+
+standartus konsoliduotąsias finansines ataskaitas sudaro įmonės, kurios
+
+vadovaudamosi Lietuvos Respublikos buhalterinės apskaitos įstatymu apskaitą
+
+turi tvarkyti pagal tarptautinius apskaitos standartus. Kitos įmonės gali pasirinkti
+
+konsoliduotąsias finansines ataskaitas sudaryti pagal verslo apskaitos
+
+standartus arba tarptautinius apskaitos standartus.
+
 4. Jeigu šio įstatymo, apskaitos standartų nuostatų
 
-nepakanka, kad konsoliduotosios finansinės ataskaitos tikrai ir teisingai
+nepakanka, kad konsoliduotosios finansinės ataskaitos tikrai ir teisingai parodytų
 
-parodytų įmonių grupės turtą, nuosavą kapitalą, įsipareigojimus, pajamas ir
+įmonių grupės turtą, nuosavą kapitalą, įsipareigojimus, pajamas ir sąnaudas,
 
-sąnaudas, pinigų srautus, konsoliduotojų finansinių ataskaitų aiškinamajame
+pinigų srautus, konsoliduotojų finansinių ataskaitų aiškinamajame rašte turi
 
-rašte turi būti pateikta papildoma informacija.
+būti pateikta papildoma informacija.
 
 5. Išskirtiniais atvejais, kai pagal apskaitos
 
@@ -872,6 +920,12 @@ pareikalavus dukterinės įmonės laiku pateiktų informaciją, būtiną šio į
 
 reikalavimams įvykdyti.
 
+Straipsnio pakeitimai:
+
+Nr. XI-1950,
+
+2012-03-29, Žin., 2012, Nr. 44-2143 (2012-04-14)
+
 TREČIASIS SKIRSNISKONSOLIDUOTASIS METINIS PRANEŠIMAS 9 straipsnis. Konsoliduotasis metinis pranešimas1. Įmonės prie metinių konsoliduotųjų finansinių ataskaitų privalo parengti konsoliduotąjį metinį pranešimą.2. Konsoliduotajame metiniame pranešime turi būti pateikiama:
 
 1) objektyvi įmonių grupės būklės,
@@ -882,9 +936,9 @@ kuriais susiduriama, apibūdinimas;
 
 2) įmonių grupės finansinių ir
 
-nefinansinių veiklos rezultatų analizė, su aplinkosaugos ir personalo klausimais
+nefinansinių veiklos rezultatų analizė, su aplinkosaugos ir personalo
 
-susijusi informacija;
+klausimais susijusi informacija;
 
 3) nuorodos ir papildomi
 
@@ -938,11 +992,11 @@ pranešimą, savo metinį pranešimą gali sujungti su konsoliduotuoju metiniu
 
 pranešimu. Rengiant tokį vieną pranešimą, būtų tikslinga daugiau pabrėžti tuos
 
-klausimus, kurie svarbūs įmonių grupei, o šio straipsnio 3 dalyje nustatyta
+klausimus, kurie svarbūs įmonių grupei, o šio straipsnio 3 dalyje nustatyta informacija
 
-informacija turi būti pateikta atskiroje pranešimo dalyje, nurodytoje Lietuvos
+turi būti pateikta atskiroje pranešimo dalyje, nurodytoje Lietuvos Respublikos
 
-Respublikos įmonių finansinės atskaitomybės įstatymo 25 straipsnio 3 dalyje.
+įmonių finansinės atskaitomybės įstatymo 25 straipsnio 3 dalyje.
 
 KETVIRTASIS SKIRSNIS
 
@@ -974,6 +1028,24 @@ pasirašo patronuojančios įmonės vadovas (nurodomos jo pareigos, vardas ir
 
 pavardė).
 
+1
+
+dalies redakcija nuo 2013-01-01:
+
+1.
+
+Konsoliduotąsias finansines ataskaitas ir konsoliduotąjį metinį pranešimą
+
+pasirašo patronuojančios įmonės vadovas (nurodomos pareigos, vardas ir
+
+pavardė). Konsoliduotąsias finansines ataskaitas taip pat pasirašo patronuojančios
+
+įmonės vyriausiasis buhalteris (buhalteris) arba kiti asmenys, galintys
+
+tvarkyti įmonės buhalterinę apskaitą vadovaujantis Lietuvos Respublikos
+
+buhalterinės apskaitos įstatymu (nurodomos pareigos, vardas ir pavardė).
+
 2. Metinės konsoliduotosios finansinės ataskaitos ir
 
 konsoliduotasis metinis pranešimas tvirtinami įstatymų nustatyta tvarka.
@@ -991,6 +1063,12 @@ metinių konsoliduotųjų finansinių ataskaitų ir konsoliduotojo metinio prane
 formos ir tekstai turi būti tokie, pagal kuriuos buvo parengta auditoriaus
 
 išvada.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1950,
+
+2012-03-29, Žin., 2012, Nr. 44-2143 (2012-04-14)
 
 PENKTASIS SKIRSNIS
 
@@ -1108,31 +1186,41 @@ finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės (OL 2004
 
 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 273).
 
-5. 2003
+5. 2003 m. rugsėjo 29 d. Komisijos reglamentas (EB)
 
-m. rugsėjo 29 d. Komisijos reglamentas (EB) Nr. 1725/2003, priimantis tam
+Nr. 1725/2003, priimantis tam tikrus tarptautinius apskaitos standartus pagal
+
+Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002 (OL 2004 m.
+
+specialusis leidimas, 13 skyrius, 32 tomas, p. 4).
+
+5
+
+punkto redakcija nuo 2013-01-01:
+
+5. 2008
+
+m. lapkričio 3 d. Komisijos reglamentas (EB) Nr. 1126/2008, priimantis tam
 
 tikrus tarptautinius apskaitos standartus pagal Europos Parlamento ir Tarybos
 
-reglamentą (EB) Nr. 1606/2002 (OL 2004 m. specialusis leidimas, 13
-
-skyrius, 32 tomas, p. 4).
+reglamentą (EB) Nr. 1606/2002 (OL 2008 L 320, p. 1).
 
 6. 2006
 
 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/46/EB, iš dalies
 
-keičianti Tarybos direktyvas 78/660/EEB dėl tam tikrų tipų bendrovių metinių atskaitomybių,
+keičianti Tarybos direktyvas 78/660/EEB dėl tam tikrų tipų bendrovių metinių
 
-83/349/EEB dėl konsoliduotos atskaitomybės, 86/635/EEB dėl bankų ir kitų
+atskaitomybių, 83/349/EEB dėl konsoliduotos atskaitomybės, 86/635/EEB dėl bankų
 
-finansų įstaigų metinės finansinės atskaitomybės ir konsoliduotos finansinės
+ir kitų finansų įstaigų metinės finansinės atskaitomybės ir konsoliduotos
 
-atskaitomybės ir 91/674/EEB dėl
+finansinės atskaitomybės ir 91/674/EEB
 
-draudimo įmonių metinės finansinės atskaitomybės ir konsoliduotos finansinės
+dėl draudimo įmonių metinės finansinės atskaitomybės ir konsoliduotos
 
-atskaitomybės (OL 2006 L 224, p. 1).
+finansinės atskaitomybės (OL 2006 L 224, p. 1).
 
 7. 2009
 
@@ -1149,6 +1237,10 @@ Priedo pakeitimai:
 Nr. XI-1098,
 
 2010-11-09, Žin., 2010, Nr. 137-6999 (2010-11-23)
+
+Nr. XI-1950,
+
+2012-03-29, Žin., 2012, Nr. 44-2143 (2012-04-14)
 
 __________________
 
@@ -1298,11 +1390,31 @@ Nr. XI-1404,
 
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+8.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. XI-1950,
+
+2012-03-29, Žin., 2012, Nr. 44-2143 (2012-04-14)
+
+ĮMONIŲ GRUPIŲ
+
+KONSOLIDUOTOSIOS FINANSINĖS ATSKAITOMYBĖS ĮSTATYMO 7, 8, 11 STRAIPSNIŲ IR
+
+PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja 2013 m. sausio 1 d.
+
 *** Pabaiga ***
 
 Redagavo Aušrinė
 
-Trapinskienė (2011-06-13)
+Trapinskienė (2012-04-17)
 
 ausrine.trapinskiene@lrs.lt
 
