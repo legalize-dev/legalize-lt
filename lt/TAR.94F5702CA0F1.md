@@ -4,7 +4,7 @@ identifier: "TAR.94F5702CA0F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-09"
-last_updated: "2012-01-01"
+last_updated: "2012-04-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2012-04-27
+Suvestinė redakcija nuo 2012-04-28 iki 2012-06-29
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
 
@@ -217,7 +217,11 @@ Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010IST
 
 6) jei jis neatestuojamas;
 
-7) sukakęs 65 metus ir jeigu teisingumo ministras nepratęsė antstolio įgaliojimų, atsižvelgdamas į atestavimo ir sveikatos patikrinimo rezultatus. Antstolio įgaliojimai negali būti pratęsti daugiau kaip iki 70 metų;
+7) sukakęs 70 metų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1978, 2012-04-19, Žin., 2012, Nr. 50-2443 (2012-04-28), i. k. 1121010ISTA0XI-1978
 
 8) jei, paskirtas antstoliu, per du mėnesius nuo paskyrimo dienos neprisiekia;
 
@@ -391,9 +395,17 @@ ANTSTOLIO VEIKLA
 
 2) atlygis antstoliui už įstatymų nustatytų vykdomųjų dokumentų vykdymą, faktinių aplinkybių konstatavimą teismo pavedimu, dokumentų perdavimą ir įteikimą teismo pavedimu.
 
-5. Vykdymo išlaidos grindžiamos ekonominiais skaičiavimais. Vykdomosios bylos administravimo išlaidos turi atitikti antstolio ir jo darbuotojų patirtas sąnaudas (materialines ir laiko) vykdymo veiksmams atlikti. Atlygis antstoliui turi užtikrinti pagrįstą investicijų grąžą, galimybę sukurti tinkamas klientų aptarnavimo sąlygas ir įdarbinti reikalingus darbuotojus.
+5. Vykdymo išlaidos grindžiamos ekonominiais skaičiavimais, kuriais užtikrinamas antstolio ekonominis nepriklausomumas, skatinamas efektyvus išieškojimas ir atsižvelgiama į veiklos, reikalingos antstolio funkcijoms atlikti, pobūdį ir vertę, vykdymo išlaidų perskirstymą (kryžminį subsidijavimą) tarp skirtingų vykdomo proceso dalyvių, antstolio profesinės veiklos ir civilinės atsakomybės riziką, sąnaudas. Vykdomosios bylos administravimo išlaidos turi atitikti antstolio ir jo darbuotojų patiriamas sąnaudas (materialines ir laiko) vykdymo veiksmams atlikti. Atlygis antstoliui turi užtikrinti pagrįstą investicijų grąžą, galimybę sukurti tinkamas klientų aptarnavimo sąlygas ir įdarbinti reikalingos kvalifikacijos darbuotojus.
 
-6. Vykdymo išlaidų dydį, apskaičiavimo ir apmokėjimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1978, 2012-04-19, Žin., 2012, Nr. 50-2443 (2012-04-28), i. k. 1121010ISTA0XI-1978
+
+6. Vykdymo išlaidų dydį, apskaičiavimo ir apmokėjimo tvarką nustato Teisingumo ministerija, suderinusi su Finansų ministerija ir Lietuvos antstolių rūmais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1978, 2012-04-19, Žin., 2012, Nr. 50-2443 (2012-04-28), i. k. 1121010ISTA0XI-1978
 
 7. Antstolis privalo Vyriausybei arba jos įgaliotai institucijai jų nustatyta tvarka teikti gautų pajamų ir patirtų išlaidų atliekant antstolio funkcijas ir teikiant paslaugas ataskaitas.
 
@@ -866,4 +878,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1690, 2011-11-17, Žin., 2011, Nr. 146-6836 (2011-12-01), i. k. 1111010ISTA0XI-1690
 
 Lietuvos Respublikos antstolių įstatymo 17 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1978, 2012-04-19, Žin., 2012, Nr. 50-2443 (2012-04-28), i. k. 1121010ISTA0XI-1978
+
+Lietuvos Respublikos antstolių įstatymo 12 ir 21 straipsnių pakeitimo įstatymas
 
