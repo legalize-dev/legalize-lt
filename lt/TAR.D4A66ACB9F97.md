@@ -4,7 +4,7 @@ identifier: "TAR.D4A66ACB9F97"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2011-12-15"
+last_updated: "2012-04-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97"
 department: "Lietuvos Respublikos Seimas"
@@ -280,7 +280,11 @@ vadovai, jų pavaduotojai, vyriausieji redaktoriai, jų pavaduotojai,
 
 redaktoriai, jų pavaduotojai ir jų šeimos nariai.
 
-*2.
+2.
+
+Šio straipsnio 1 dalies 1–23, 29 ir 30 punktuose nurodyti asmenys privalo
+
+deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai.
 
 Šio straipsnio 1 dalies 1–24, 27, 28, 29 ir 30 punktuose nurodytais
 
@@ -288,9 +292,9 @@ redaktoriai, jų pavaduotojai ir jų šeimos nariai.
 
 18 metų, kurie privalo deklaruoti turtą tik tuo atveju, jeigu jie yra
 
-nuolatiniai Lietuvos gyventojai. Nuolatinis Lietuvos gyventojas yra fizinis
+nuolatiniai Lietuvos gyventojai. Nuolatinis Lietuvos gyventojas yra fizinis asmuo,
 
-asmuo, kuris laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos
+kuris laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos
 
 gyventojų pajamų mokesčio įstatymą. Šio straipsnio 1 dalies 28 punkte nurodytų
 
@@ -365,6 +369,10 @@ punktais)
 *Pastaba: šio įstatymo nuostatos taikomos
 
 apskaičiuojant ir deklaruojant 2011 metų ir vėlesnių metų turtą.
+
+Nr. XI-1992,
+
+2012-04-26, Žin., 2012, Nr. 50-2446 (2012-04-28)
 
 2 straipsnis.
 
@@ -598,9 +606,9 @@ Nr. XI-684,
 
 2010-02-11, Žin., 2010, Nr. 25-1178 (2010-03-02)
 
-Nr. XI-819, 2010-05-18,
+Nr. XI-819,
 
-Žin., 2010, Nr. 63-3097 (2010-05-31)
+2010-05-18, Žin., 2010, Nr. 63-3097 (2010-05-31)
 
 Nr. XI-1052,
 
@@ -680,9 +688,9 @@ kuriuos deklaruojamas turimas turtas, gegužės 1 dienos, išskyrus šio Įstaty
 
 tikslinami penkerių praėjusių kalendorinių metų deklaracijų duomenys, pradedant
 
-skaičiuoti nuo kalendorinių metų, buvusių prieš tuos kalendorinius metus,
+skaičiuoti nuo kalendorinių metų, buvusių prieš tuos kalendorinius metus, kuriais
 
-kuriais tikslinama.
+tikslinama.
 
 4. Deklaracijos
 
@@ -710,9 +718,9 @@ Nr. XI-684,
 
 2010-02-11, Žin., 2010, Nr. 25-1178 (2010-03-02)
 
-Nr. XI-1278, 2011-03-15,
+Nr. XI-1278,
 
-Žin., 2011, Nr. 37-1757 (2011-03-29)
+2011-03-15, Žin., 2011, Nr. 37-1757 (2011-03-29)
 
 Nr. XI-1785,
 
@@ -752,11 +760,37 @@ komisijai ar apygardos rinkimų komisijai.
 
 2. Išrinkti arba
 
-paskirti į pareigas valstybės politikai bei Europos Parlamento nariai ir jų
+paskirti į pareigas valstybės politikai bei Europos Parlamento nariai ir jų šeimos
 
-šeimos nariai, taip pat priimti arba paskirti į pareigas valstybės tarnautojai
+nariai, taip pat priimti arba paskirti į pareigas valstybės tarnautojai ir jų
 
-ir jų šeimos nariai, išskyrus tuos, kurie yra deklaravę kalendorinių metų,
+šeimos nariai, išskyrus tuos, kurie yra deklaravę kalendorinių metų, einančių
+
+prieš kalendorinius metus, kuriais valstybės politikai ar Europos Parlamento
+
+nariai buvo išrinkti arba paskirti į pareigas ar valstybės tarnautojai buvo
+
+priimti arba paskirti į pareigas, gruodžio 31 dieną turimą turtą, privalo
+
+deklaruoti kalendorinių metų, einančių prieš kalendorinius metus, kuriais
+
+valstybės politikai ar Europos Parlamento nariai buvo išrinkti arba paskirti į
+
+pareigas ar valstybės tarnautojai buvo priimti arba paskirti į pareigas,
+
+gruodžio 31 dieną turimą turtą. Deklaracijos pateikiamos per 30 dienų nuo
+
+išrinkimo, paskyrimo arba priėmimo į pareigas pradžios. Išrinktiems arba paskirtiems
+
+į pareigas valstybės politikams bei Europos Parlamento nariams ir jų šeimos
+
+nariams, taip pat priimtiems arba paskirtiems į pareigas valstybės tarnautojams
+
+ir jų šeimos nariams, deklaravusiems turtą, vietos mokesčio administratorius
+
+per 15 darbo dienų nuo deklaracijos pateikimo dienos išduoda pažymas apie
+
+deklaracijų pateikimą, išskyrus tuos, kurie yra deklaravę kalendorinių metų,
 
 einančių prieš kalendorinius metus, kuriais valstybės politikai ar Europos
 
@@ -764,35 +798,9 @@ Parlamento nariai buvo išrinkti arba paskirti į pareigas ar valstybės
 
 tarnautojai buvo priimti arba paskirti į pareigas, gruodžio 31 dieną turimą
 
-turtą, privalo deklaruoti kalendorinių metų, einančių prieš kalendorinius
+turtą ir kuriems vietos mokesčio administratorius per 5 darbo dienas išduoda
 
-metus, kuriais valstybės politikai ar Europos Parlamento nariai buvo išrinkti
-
-arba paskirti į pareigas ar valstybės tarnautojai buvo priimti arba paskirti į
-
-pareigas, gruodžio 31 dieną turimą turtą. Deklaracijos pateikiamos per 30 dienų
-
-nuo išrinkimo, paskyrimo arba priėmimo į pareigas pradžios. Išrinktiems arba
-
-paskirtiems į pareigas valstybės politikams bei Europos Parlamento nariams ir
-
-jų šeimos nariams, taip pat priimtiems arba paskirtiems į pareigas valstybės
-
-tarnautojams ir jų šeimos nariams, deklaravusiems turtą, vietos mokesčio
-
-administratorius per 15 darbo dienų nuo deklaracijos pateikimo dienos išduoda
-
-pažymas apie deklaracijų pateikimą, išskyrus tuos, kurie yra deklaravę
-
-kalendorinių metų, einančių prieš kalendorinius metus, kuriais valstybės
-
-politikai ar Europos Parlamento nariai buvo išrinkti arba paskirti į pareigas
-
-ar valstybės tarnautojai buvo priimti arba paskirti į pareigas, gruodžio 31
-
-dieną turimą turtą ir kuriems vietos mokesčio administratorius per 5 darbo
-
-dienas išduoda pažymas apie deklaracijų pateikimą.
+pažymas apie deklaracijų pateikimą.
 
 *3. Nustoję eiti
 
@@ -2906,15 +2914,29 @@ nuostatos taikomos apskaičiuojant ir deklaruojant 2011 metų ir vėlesnių met�
 
 turtą.
 
+26.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1992,
+
+2012-04-26, Žin., 2012, Nr. 50-2446 (2012-04-28)
+
+GYVENTOJŲ
+
+TURTO DEKLARAVIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušra Bodin (2011-12-15)
+Aušrinė Trapinskienė (2012-04-30)
 
-aubodi@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 71 straipsnis. Atskaitinis turto
 
