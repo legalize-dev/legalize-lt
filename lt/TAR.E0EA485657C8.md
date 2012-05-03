@@ -4,7 +4,7 @@ identifier: "TAR.E0EA485657C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2011-09-01"
+last_updated: "2012-05-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2011-09-01 iki 2012-05-02
+Suvestinė redakcija nuo 2012-05-03 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
 
@@ -252,7 +252,11 @@ INSTITUCIJOMIS BEI ĮSTAIGOMIS
 
 2. Krašto apsaugos ministerija administruoja krašto apsaugos sistemos bendradarbiavimą su LŠS. Krašto apsaugos sistemos bendradarbiavimą su LŠS koordinuoja krašto apsaugos ministro įgaliota krašto apsaugos sistemos institucija. LŠS vado prašymu teisės aktų nustatyta tvarka krašto apsaugos sistemos institucijose tarnaujantiems kariams, valstybės tarnautojams ir pagal darbo sutartis dirbantiems asmenims gali būti skiriamos užduotys, susijusios su pagalba LŠS veiklos administravimo srityje.
 
-3. Krašto apsaugos ministras šio įstatymo nustatyta tvarka skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų LŠS vadą, taip pat LŠS vado teikimu skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų LŠS vado pavaduotojus ir rinktinių vadus arba įgalioja LŠS vadą skirti į pareigas, atleisti iš jų ir nušalinti nuo pareigų LŠS vado pavaduotojus ir rinktinių vadus. Jeigu LŠS vadas, jo pavaduotojas ar rinktinės vadas nėra profesinės karo tarnybos karys, įstatymų ir krašto apsaugos ministro nustatyta tvarka jis sudaro terminuotą darbo sutartį su Krašto apsaugos ministerija. Darbo užmokestis LŠS vadui, jo pavaduotojams ir rinktinių vadams mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų.
+3. Krašto apsaugos ministras šio įstatymo nustatyta tvarka skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų LŠS vadą, taip pat LŠS vado teikimu skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų LŠS vado pavaduotojus ir rinktinių vadus arba įgalioja LŠS vadą skirti į pareigas, atleisti iš jų ir nušalinti nuo pareigų LŠS vado pavaduotojus ir rinktinių vadus. Jeigu LŠS vadas, jo pavaduotojas ar rinktinės vadas nėra profesinės karo tarnybos karys, įstatymų ir krašto apsaugos ministro nustatyta tvarka jis sudaro terminuotą darbo sutartį su Krašto apsaugos ministerija. Darbo užmokestis LŠS vadui, jo pavaduotojams ir rinktinių vadams mokamas, taip pat LŠS veiklai naudojamų pastatų išlaikymo (mokesčiai už suvartotą šaltą ir karštą vandenį, elektros energiją, gamtines dujas, šilumos energiją ir komunalines paslaugas), transporto ir kitos, su pagalba LŠS veiklos administravimo srityje susijusios, išlaidos apmokamos iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
 
 4. Krašto apsaugos ministro įgaliota krašto apsaugos sistemos institucija atlieka LŠS vidaus auditą.
 
@@ -274,9 +278,23 @@ INSTITUCIJOMIS BEI ĮSTAIGOMIS
 
 6) aprūpinti LŠS kovinių būrių šaulius lauko uniforma ir ekipuote.
 
-2. Kariuomenės vienetų ir LŠS padalinių sąveikai gerinti organizuojamos bendros karinių vienetų ir LŠS padalinių pratybos, taip pat šauliai dalyvauja karinių vienetų kovinio parengimo pratybose.
+2. Kariuomenės vado sprendimu kariuomenė gali padėti aprūpinti šaulius šaulio uniformomis.
 
-3. LŠS veiklai vykdyti gali būti naudojamos kariuomenei priskirtos karinio mokymo teritorijos ir infrastruktūros objektai.
+Papildyta straipsnio dalimi:
+
+Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
+
+3. Kariuomenės vienetų ir LŠS padalinių sąveikai gerinti organizuojamos bendros karinių vienetų ir LŠS padalinių pratybos, taip pat šauliai dalyvauja karinių vienetų kovinio parengimo pratybose.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
+
+4. LŠS veiklai vykdyti gali būti naudojamos kariuomenei priskirtos karinio mokymo teritorijos ir infrastruktūros objektai.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
 
 14 straipsnis. LŠS pagalba kariuomenei, kai ši teikia pagalbą kitoms valstybės ir savivaldybių institucijoms bei įstaigoms
 
@@ -466,7 +484,11 @@ Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010IST
 
 11) LŠS Centro valdybos teikimu tvirtina metinį LŠS biudžetą, taip pat teikia LŠS Centro valdybai tvirtinti LŠS metų finansines ataskaitas;
 
-12) teikia krašto apsaugos ministrui siūlymus dėl valstybės biudžeto asignavimų pagal LŠS programą planavimo ir dėl šios programos sąmatos;
+12) teikia krašto apsaugos ministrui siūlymus dėl valstybės biudžeto asignavimų LŠS veiklai finansuoti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
 
 13) įgyvendina LŠS Centro kontrolės komisijos, vidaus ir atestuotų auditorių rekomendacijas;
 
@@ -492,7 +514,11 @@ Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010IST
 
 5. LŠS Centro valdyba:
 
-1) svarsto LŠS veiklos strategijos, metinių LŠS veiklos ir rinktinių veiklos planų, LŠS vidaus teisės aktų, LŠS metų biudžeto, valstybės biudžeto asignavimų pagal LŠS programą planavimo ir jos sąmatos projektus;
+1) svarsto LŠS veiklos strategijos, metinių LŠS veiklos ir rinktinių veiklos planų, LŠS vidaus teisės aktų, LŠS metų biudžeto, siūlymų dėl valstybės biudžeto asignavimų LŠS veiklai finansuoti projektus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
 
 2) tvirtina LŠS metų finansines ataskaitas;
 
@@ -728,7 +754,11 @@ Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010IST
 
 3. Ilgiau negu parą nepertraukiamai šaulio tarnybą atliekantiems šauliams, jeigu jie nėra aprūpinami maistu, LŠS vado nustatyta tvarka mokami krašto apsaugos ministro nustatyto dydžio dienpinigiai.
 
-4. Šauliai aprūpinami kasdiene uniforma LŠS vado nustatyta tvarka. Asmuo privalo grąžinti šaulio uniformą LŠS arba atlyginti LŠS jos vertę, jeigu išstoja iš LŠS per penkerius metus nuo jo priėmimo į LŠS, yra pašalinamas iš LŠS arba jo narystė LŠS nutrūksta šio įstatymo 31 straipsnio 5 dalyje nustatytu atveju. Atlygintina uniformos vertė lygi naujos šaulio uniformos vertei asmens narystės LŠS pasibaigimo dieną.
+4. Šaulio uniformų išdavimo šauliams tvarką nustato LŠS vadas. Asmuo privalo grąžinti šaulio uniformą LŠS arba atlyginti LŠS jos vertę, jeigu išstoja iš LŠS per penkerius metus nuo jo priėmimo į LŠS, yra pašalinamas iš LŠS arba jo narystė LŠS nutrūksta šio įstatymo 31 straipsnio 5 dalyje nustatytu atveju. Atlygintina uniformos vertė lygi naujos šaulio uniformos vertei asmens narystės LŠS pasibaigimo dieną.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
 
 5. Šaulys, kuris žuvo atlikdamas šaulio tarnybą, laidojamas iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Valstybės finansuojamų laidojimo išlaidų aprašą tvirtina Vyriausybė arba jos įgaliota institucija.
 
@@ -828,13 +858,23 @@ LŠS turtą sudaro:
 
 8) pagal testamentą tenkantys palikimai, dovanotos ir kitais teisėtais būdais gautos lėšos.
 
-2. Valstybės biudžeto asignavimai LŠS veiklai finansuoti teisės aktų nustatyta tvarka skiriami per Krašto apsaugos ministerijai priskirtą LŠS programą.
+2. Valstybės biudžeto asignavimai LŠS veiklai finansuoti teisės aktų nustatyta tvarka skiriami Krašto apsaugos ministerijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
 
 3. Kitus, negu nurodyta šio straipsnio 2 dalyje, tikslinius valstybės ir savivaldybių biudžetų asignavimus teisės aktų nustatyta tvarka LŠS gauna iš valstybės ar savivaldybių biudžetų asignavimų valdytojų, kai valstybės ar savivaldybių biudžetų lėšomis finansuojamos tikslinės veiklos programos, kurias vykdo arba kuriose dalyvauja LŠS.
 
 41 straipsnis. LŠS turto patikėjimo teise ar panaudos pagrindais valdomas ir naudojamas valstybės ir savivaldybių turtas
 
-Įstatymų nustatyta tvarka valstybės ir savivaldybių turtas gali būti perduodamas LŠS valdyti ir naudotis turto patikėjimo teise ar panaudos pagrindais.
+1. Įstatymų nustatyta tvarka valstybės ir savivaldybių turtas gali būti perduodamas LŠS valdyti ir naudotis turto patikėjimo teise ar panaudos pagrindais.
+
+2. Šio įstatymo 13 straipsnio 1 dalies 6 punkte ir 2 dalyje nustatytais atvejais sprendimą perduoti turtą LŠS valdyti ir naudoti patikėjimo teise pagal turto patikėjimo sutartį priima kariuomenės vadas, suderinęs su krašto apsaugos ministru.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
 
 DEVINTASIS SKIRSNIS
 
@@ -889,4 +929,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
 
 Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 8, 26, 30 ir 36 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
+
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 12, 13, 26, 27, 35, 40, 41 straipsnių pakeitimo ir papildymo įstatymas
 
