@@ -4,7 +4,7 @@ identifier: "TAR.7DE5B8AD5D5B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-22"
-last_updated: "2010-10-02"
+last_updated: "2012-05-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7DE5B8AD5D5B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos augalų veislių apsaugos įstatymas
 
-Suvestinė redakcija nuo 2010-10-02 iki 2012-05-07
+Suvestinė redakcija nuo 2012-05-08 iki 2021-08-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 104-3701, i. k. 1011010ISTA00IX-618
 
@@ -38,7 +38,11 @@ BENDROSIOS NUOSTATOS
 
 1. Įstatymas reglamentuoja fizinių ir juridinių asmenų santykius, susijusius su augalų veislių teisine apsauga ir naudojimu.
 
-2. Įstatymas taikomas žemės ūkio ministro patvirtinto augalų genčių ir rūšių sąrašo veislėms.
+2. Įstatymas taikomas visų žemės ūkio, daržo, sodo ir dekoratyvių augalų genčių ir rūšių veislėms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010ISTA0XI-1994
 
 3. Šiuo Įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas Įstatymo priede.
 
@@ -62,19 +66,41 @@ Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA
 
 3) laikoma atskiru vienetu dėl gebėjimo dauginantis išlaikyti visus tos veislės augalams būdingus požymius nepakitusius.
 
-5. Augalų genčių ir rūšių sąrašas – žemės ūkio ministro tvirtinamas augalų genčių ir rūšių, kurių veislėms šiuo Įstatymu suteikiama teisinė apsauga, sąrašas.
+5. Augalų taksonas – bet kuri taksonominė augalų grupė (klasė, eilė, šeima, gentis, rūšis, porūšis, varietetas, forma).
 
-6. Augalų taksonas – bet kuri taksonominė augalų grupė (klasė, eilė, šeima, gentis, rūšis, porūšis, varietetas, forma).
+Straipsnio dalies numeracijos pakeitimas:
 
-7. Dauginamoji medžiaga – sėkla, visas augalas ar vegetatyvinė augalo dalis (skiepūgliai, poskiepiai, ūgliai, šakniastiebių dalys, stiebagumbiai ir kt.), skirti tam tikros veislės augalams dauginti.
+Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010ISTA0XI-1994
 
-8. Genotipas – organizmo paveldimumo veiksnių visuma.
+6. Dauginamoji medžiaga – sėkla, visas augalas ar vegetatyvinė augalo dalis (skiepūgliai, poskiepiai, ūgliai, šakniastiebių dalys, stiebagumbiai ir kt.), skirti tam tikros veislės augalams dauginti.
 
-9. Licencinė sutartis – raštiškas selekcininko susitarimas su fiziniais ar juridiniais asmenimis ar Lietuvos Respublikoje įsteigtais Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės valstybėse įsteigtų įmonių filialais, kuriuo šiems asmenims suteikiama teisė nurodytoje teritorijoje sutartomis sąlygomis dauginti ir tiekti rinkai veislės, kuriai suteikta teisinė apsauga, dauginamąją medžiagą.
+Straipsnio dalies numeracijos pakeitimas:
 
-10. Licencinis užmokestis – pagal licencinę sutartį mokamas užmokestis.
+Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010ISTA0XI-1994
 
-11. Selekcininkas:
+7. Genotipas – organizmo paveldimumo veiksnių visuma.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010ISTA0XI-1994
+
+8. Licencinė sutartis – raštiškas selekcininko susitarimas su fiziniais ar juridiniais asmenimis ar Lietuvos Respublikoje įsteigtais Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės valstybėse įsteigtų įmonių filialais, kuriuo šiems asmenims suteikiama teisė nurodytoje teritorijoje sutartomis sąlygomis dauginti ir tiekti rinkai veislės, kuriai suteikta teisinė apsauga, dauginamąją medžiagą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010ISTA0XI-1994
+
+9. Licencinis užmokestis – pagal licencinę sutartį mokamas užmokestis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010ISTA0XI-1994
+
+10. Selekcininkas:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010ISTA0XI-1994
 
 1) vienas ar keli fiziniai asmenys, sukūrę ar atradę ir išskyrę naują augalo veislę;
 
@@ -88,13 +114,29 @@ Nr. XI-1022, 2010-09-21, Žin., 2010, Nr. 118-5995 (2010-10-02), i. k. 1101010IS
 
 4) teisių perėmėjas, įgijęs turtines teises į veislę iš šios dalies 1-3 punktuose nurodytų asmenų.
 
-12. Selekcinis užmokestis – ūkininko ar kito žemės naudotojo selekcininkui mokamas užmokestis už savo ūkyje užaugintą ir toliau sėjai savo ūkyje naudojamą saugomos veislės dauginamąją medžiagą.
+11. Selekcinis užmokestis – ūkininko ar kito žemės naudotojo selekcininkui mokamas užmokestis už savo ūkyje užaugintą ir toliau sėjai savo ūkyje naudojamą saugomos veislės dauginamąją medžiagą.
 
-13. Valstybės ūkiui svarbi saugoma veislė – veislė, reikalinga tam tikrų savybių turinčios dauginamosios medžiagos tiekimui rinkai užtikrinti.
+Straipsnio dalies numeracijos pakeitimas:
 
-14. Veislės teisinės apsaugos paraiška – Lietuvos Respublikoje saugomų augalų veislių sąrašo tvarkytojui pateikiamas raštiškas prašymas suteikti veislei teisinę apsaugą.
+Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010ISTA0XI-1994
 
-15. Visuotinai žinoma veislė – veislė, kuri tampa visuotinai žinoma nuo paraiškos pateikimo bet kurioje valstybėje dienos, sudarius galimybę suteikti veislei teisinę apsaugą arba įrašyti ją į oficialų veislių sąrašą.
+12. Valstybės ūkiui svarbi saugoma veislė – veislė, reikalinga tam tikrų savybių turinčios dauginamosios medžiagos tiekimui rinkai užtikrinti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010ISTA0XI-1994
+
+13. Veislės teisinės apsaugos paraiška – Lietuvos Respublikoje saugomų augalų veislių sąrašo tvarkytojui pateikiamas raštiškas prašymas suteikti veislei teisinę apsaugą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010ISTA0XI-1994
+
+14. Visuotinai žinoma veislė – veislė, kuri tampa visuotinai žinoma nuo paraiškos pateikimo bet kurioje valstybėje dienos, sudarius galimybę suteikti veislei teisinę apsaugą arba įrašyti ją į oficialų veislių sąrašą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010ISTA0XI-1994
 
 Straipsnio pakeitimai:
 
@@ -639,6 +681,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1022, 2010-09-21, Žin., 2010, Nr. 118-5995 (2010-10-02), i. k. 1101010ISTA0XI-1022
 
 Lietuvos Respublikos augalų veislių apsaugos įstatymo 2 ir 9 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010ISTA0XI-1994
+
+Lietuvos Respublikos augalų veislių apsaugos įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
 
 411 straipsnis. Teisė gauti informaciją
 
