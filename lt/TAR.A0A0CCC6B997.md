@@ -4,7 +4,7 @@ identifier: "TAR.A0A0CCC6B997"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-27"
-last_updated: "2012-01-06"
+last_updated: "2012-06-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0A0CCC6B997"
 department: "Lietuvos Respublikos Seimas"
@@ -6837,17 +6837,17 @@ darbingas lygtinai paleistas iš pataisos įstaigos asmuo vengia dirbti arba
 
 sistemingai ar piktybiškai pažeidinėja darbo drausmę, taip pat jeigu lygtinai
 
-paleistas iš pataisos įstaigos asmuo sistemingai pažeidinėja ar itin piktybiškai
+paleistas iš pataisos įstaigos asmuo sistemingai pažeidinėja ar itin
 
-pažeidžia viešąją tvarką ar jam nustatytas pareigas, policija, siekdama
+piktybiškai pažeidžia viešąją tvarką ar jam nustatytas pareigas, policija,
 
-užkirsti kelią vengimui vykdyti teismo nutartį, jį gali sulaikyti ne ilgiau
+siekdama užkirsti kelią vengimui vykdyti teismo nutartį, jį gali sulaikyti ne
 
-kaip penkioms paroms. Pataisos inspekcija gali perduoti medžiagą teismui, kad
+ilgiau kaip penkioms paroms. Pataisos inspekcija gali perduoti medžiagą
 
-būtų sprendžiama dėl tokio asmens pasiuntimo į pataisos įstaigą atlikti likusią
+teismui, kad būtų sprendžiama dėl tokio asmens pasiuntimo į pataisos įstaigą
 
-laisvės atėmimo bausmės dalį.
+atlikti likusią laisvės atėmimo bausmės dalį.
 
 4. Jeigu dėl
 
@@ -6959,11 +6959,9 @@ atėmimo iki gyvos galvos bausmę atliekantys nuteistieji gali dirbti, jei patys
 
 to pageidauja, kalėjimo arba pataisos namų administracijos parinktą darbą.
 
-Dirbantiems laisvės atėmimo iki gyvos galvos bausmę atliekantiems
+Dirbantiems laisvės atėmimo iki gyvos galvos bausmę atliekantiems nuteistiesiems
 
-nuteistiesiems taikomos šio Kodekso 125–129, 131, 132, 134 ir 135 straipsnių
-
-nuostatos.
+taikomos šio Kodekso 125–129, 131, 132, 134 ir 135 straipsnių nuostatos.
 
 168 straipsnis. Pataisos įstaigos administracijos
 
@@ -6977,13 +6975,15 @@ atėmimo iki gyvos galvos bausmę atliekantis nuteistasis sunkiai serga ir jo
 
 liga gresia gyvybei, kalėjimo arba pataisos namų administracija privalo
 
-nedelsdama apie tai pranešti Kalėjimų departamento direktoriui ar jį pavaduojančiam
+nedelsdama apie tai pranešti Kalėjimų departamento direktoriui ar jį
 
-pareigūnui ir nuteistojo sutuoktiniui, sugyventiniui arba artimiesiems
+pavaduojančiam pareigūnui ir nuteistojo sutuoktiniui, sugyventiniui arba
 
-giminaičiams. Šiems asmenims jų pageidavimu sudaromos sąlygos aplankyti
+artimiesiems giminaičiams. Šiems asmenims jų pageidavimu sudaromos sąlygos
 
-nuteistąjį. Lankymo tvarką nustato Pataisos įstaigų vidaus tvarkos taisyklės.
+aplankyti nuteistąjį. Lankymo tvarką nustato Pataisos įstaigų vidaus tvarkos
+
+taisyklės.
 
 2. Laisvės
 
@@ -7119,9 +7119,9 @@ padarytos žalos atlyginimas
 
 Žala, kurią
 
-padarė atliekantis bausmę nuteistasis tretiesiems asmenims, atlyginama Civilinio
+padarė atliekantis bausmę nuteistasis tretiesiems asmenims, atlyginama
 
-kodekso nustatyta tvarka.
+Civilinio kodekso nustatyta tvarka.
 
 XIV
 
@@ -7133,9 +7133,9 @@ galvos bauSmES ATLIEKANČIŲ NUTEISTŲJŲ materialinis, buitinis aprūpinimas ir
 
 sveIkatos priežiūra
 
-173 straipsnis. Arešto, terminuoto laisvės atėmimo ir
+173 straipsnis. Arešto, terminuoto laisvės atėmimo
 
-laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų materialinis
+ir laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų materialinis
 
 buitinis aprūpinimas
 
@@ -7143,9 +7143,9 @@ buitinis aprūpinimas
 
 terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes
 
-atliekantiems nuteistiesiems užtikrinamos reikiamos gyvenamųjų patalpų ir buities
+atliekantiems nuteistiesiems užtikrinamos reikiamos gyvenamųjų patalpų ir
 
-sąlygos, atitinkančios Lietuvos Respublikos higienos normas.
+buities sąlygos, atitinkančios Lietuvos Respublikos higienos normas.
 
 2. Arešto,
 
@@ -7261,9 +7261,9 @@ tarnybos. Šių įstaigų bei tarnybų struktūrą, etatų skaičių ir veiklos 
 
 nustato Sveikatos apsaugos ministerija ir Teisingumo ministerija. Infekcinėmis
 
-ligomis sergantiems nuteistiesiems, atliekantiems laisvės atėmimo bausmę,
+ligomis sergantiems nuteistiesiems, atliekantiems laisvės atėmimo bausmę, gydyti
 
-gydyti ir laikyti steigiamos laisvės atėmimo vietų gydymo įstaigos.
+ir laikyti steigiamos laisvės atėmimo vietų gydymo įstaigos.
 
 3. Laisvės
 
@@ -7299,11 +7299,11 @@ narkotinių arba psichotropinių medžiagų ligomis, jų rašytiniu pageidavimu 
 
 būti gydomi nuo šių ligų laisvės atėmimo bausmės atlikimo metu.
 
-2. Priklausomybės
+2.
 
-ligomis sergančių nuteistųjų gydymo laisvės atėmimo vietose tvarką nustato
+Priklausomybės ligomis sergančių nuteistųjų gydymo laisvės atėmimo vietose
 
-Sveikatos apsaugos ministerija ir Teisingumo ministerija.
+tvarką nustato Sveikatos apsaugos ministerija ir Teisingumo ministerija.
 
 V DALIS
 
@@ -7315,9 +7315,9 @@ skyrius
 
 ATLEIDIMAS NUO
 
-BAUSMĖS ATLIKIMO, PAGALBA ATLEISTIEMS NUO BAUSMĖS ATLIKIMO ASMENIMS. BAUSMIŲ
+BAUSMĖS ATLIKIMO, PAGALBA ATLEISTIEMS NUO BAUSMĖS ATLIKIMO ASMENIMS. BAUSMIŲ VYKDYMO
 
-VYKDYMO INSTITUCIJŲ, ĮSTAIGŲ IR PAREIGŪNŲ VEIKSMŲ IR SPRENDIMŲ APSKUNDIMAS
+INSTITUCIJŲ, ĮSTAIGŲ IR PAREIGŪNŲ VEIKSMŲ IR SPRENDIMŲ APSKUNDIMAS
 
 Pirmasis
 
@@ -7409,13 +7409,13 @@ laisvės atėmimo bausmės prieš terminą ar laisvės atėmimą pakeisti šveln
 
 bausme
 
-1. Teikimą lygtinai
+1. Teikimą
 
-atleisti nuteistąjį nuo laisvės atėmimo bausmės prieš terminą ar laisvės
+lygtinai atleisti nuteistąjį nuo laisvės atėmimo bausmės prieš terminą ar
 
-atėmimo bausmę pakeisti švelnesne bausme pagal Baudžiamojo kodekso 77 arba 94
+laisvės atėmimo bausmę pakeisti švelnesne bausme pagal Baudžiamojo kodekso 77
 
-straipsnį paduoda bausmės vykdymo institucijos vadovas.
+arba 94 straipsnį paduoda bausmės vykdymo institucijos vadovas.
 
 2. Šio
 
@@ -7449,11 +7449,11 @@ išlaidas apmoka bausmę vykdžiusi institucija.
 
 iš pataisos įstaigų asmenys aprūpinami maisto produktais arba pinigais kelionei
 
-pagal nustatytas normas. Paleidžiami asmenys, kurie neturi pagal sezoną
+pagal nustatytas normas. Paleidžiami asmenys, kurie neturi pagal sezoną reikiamų
 
-reikiamų drabužių, avalynės ir lėšų jiems įsigyti, drabužiais ir avalyne pagal
+drabužių, avalynės ir lėšų jiems įsigyti, drabužiais ir avalyne pagal sezoną
 
-sezoną aprūpinami nemokamai.
+aprūpinami nemokamai.
 
 3.
 
@@ -7527,9 +7527,9 @@ departamento direktoriaus veiksmai ir sprendimai per dvidešimt dienų nuo jų
 
 juridinio asmens veiklos apribojimo ir juridinio asmens likvidavimo bausmes
 
-vykdančių antstolių veiksmai ir sprendimai skundžiami antstolio veiklos
+vykdančių antstolių veiksmai ir sprendimai skundžiami antstolio veiklos teritorijos
 
-teritorijos apylinkės teismui Civilinio proceso kodekso nustatyta tvarka.
+apylinkės teismui Civilinio proceso kodekso nustatyta tvarka.
 
 5. Lietuvos
 
@@ -7741,8 +7741,6 @@ Nr. X-636, 2006-06-01,
 
 Žin., 2006, Nr. 68-2494 (2006-06-17)
 
-_________________
-
 Pakeitimai:
 
 1.
@@ -7753,9 +7751,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1497, 2003-04-10,
+IX-1497,
 
-Žin., 2003, Nr. 38-1735 (2003-04-24)
+2003-04-10, Žin., 2003, Nr. 38-1735 (2003-04-24)
 
 BAUSMIŲ
 
@@ -7861,9 +7859,9 @@ X-636,
 
 BAUDŽIAMOJO
 
-PROCESO KODEKSO, BAUSMIŲ VYKDYMO KODEKSO IR KARDOMOJO KALINIMO ĮSTATYMO
+PROCESO KODEKSO, BAUSMIŲ VYKDYMO KODEKSO IR KARDOMOJO KALINIMO ĮSTATYMO PAKEITIMO
 
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+IR PAPILDYMO ĮSTATYMAS
 
 Šis
 
@@ -7895,9 +7893,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. XI-643,
+Nr. XI-643, 2010-01-14,
 
-2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
+Žin., 2010, Nr. 12-558 (2010-01-30)
 
 BAUSMIŲ VYKDYMO
 
@@ -7935,9 +7933,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-XI-1474,
+XI-1474, 2011-06-21,
 
-2011-06-21, Žin., 2011, Nr. 81-3961 (2011-07-05)
+Žin., 2011, Nr. 81-3961 (2011-07-05)
 
 BAUSMIŲ VYKDYMO KODEKSO 18, 183
 
@@ -7965,13 +7963,33 @@ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 
 įstatymas įsigalioja 2012 m. liepos 1 d.
 
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-2040,
+
+2012-06-05, Žin., 2012, Nr. 68-3464 (2012-06-19)
+
+BAUSMIŲ
+
+VYKDYMO KODEKSO 158 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2013 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2012-01-24)
+Aušrinė Trapinskienė (2012-06-19)
 
 ausrine.trapinskiene@lrs.lt
 
@@ -8131,6 +8149,34 @@ kuriems iki laisvės atėmimo bausmės atlikimo pabaigos liko mažiau negu trys
 
 mėnesiai.
 
+Straipsnis papildomas nauju 2 punktu,
+
+buvę 2, 3 ir 4 punktai laikomi atitinkamai 3, 4 ir 5 punktais nuo 2013-01-01:
+
+2) asmenys,
+
+nuteisti už nusikaltimus nepilnamečio asmens seksualinio apsisprendimo laisvei
+
+ir (ar) neliečiamumui;
+
+3) asmenys,
+
+kuriems mirties bausmė malonės arba amnestijos tvarka pakeista laisvės atėmimu
+
+iki gyvos galvos, taip pat laisvės atėmimu iki gyvos galvos nuteisti asmenys;
+
+4) asmenys,
+
+nuteisti už tyčinius nusikaltimus, padarytus areštinėse, pataisos įstaigose ir
+
+kardomojo kalinimo vietose;
+
+5) asmenys,
+
+kuriems iki laisvės atėmimo bausmės atlikimo pabaigos liko mažiau negu trys
+
+mėnesiai.
+
 Straipsnio pakeitimai:
 
 Nr. X-164, 2005-04-21,
@@ -8142,6 +8188,12 @@ Nr.
 XI-1863,
 
 2011-12-22, Žin., 2012, Nr. 4-110 (2012-01-06)
+
+Nr.
+
+XI-2040,
+
+2012-06-05, Žin., 2012, Nr. 68-3464 (2012-06-19)
 
 159
 
@@ -8177,21 +8229,21 @@ dėl nutarties vykdymo.
 
 lygtinai paleisti nuteistąjį iš pataisos įstaigų gavimo privalo atsiskaityti su
 
-nuteistuoju ir išduoti jam rašytinį paliepimą išvykti į gyvenamąją vietą.
+nuteistuoju ir išduoti jam rašytinį paliepimą išvykti į gyvenamąją vietą. Nuteistasis
 
-Nuteistasis privalo atvykti į gyvenamąją vietą per paliepime išvykti nurodytą
+privalo atvykti į gyvenamąją vietą per paliepime išvykti nurodytą kelionės
 
-kelionės laiką ir užsiregistruoti pataisos inspekcijoje.
+laiką ir užsiregistruoti pataisos inspekcijoje.
 
 2 dalies redakcija nuo 2012-07-01:
 
 2. Pataisos
 
-įstaigos administracija, gavusi nutartį lygtinai paleisti nuteistąjį iš
+įstaigos administracija, gavusi nutartį lygtinai paleisti nuteistąjį iš pataisos
 
-pataisos įstaigos, privalo atsiskaityti su nuteistuoju ir išduoti jam rašytinį
+įstaigos, privalo atsiskaityti su nuteistuoju ir išduoti jam rašytinį paliepimą
 
-paliepimą atvykti į probacijos tarnybą.
+atvykti į probacijos tarnybą.
 
 3.
 
