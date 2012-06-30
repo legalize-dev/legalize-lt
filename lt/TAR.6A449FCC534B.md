@@ -4,7 +4,7 @@ identifier: "TAR.6A449FCC534B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-10"
-last_updated: "2011-06-28"
+last_updated: "2012-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos koncesijų įstatymas
 
-Suvestinė redakcija nuo 2011-06-28 iki 2012-06-29
+Suvestinė redakcija nuo 2012-06-30 iki 2014-12-03
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
 
@@ -608,92 +608,6 @@ KONCESIJŲ SUTEIKIMO KONTROLĖ
 
 Jei Lietuvos Respublikos tarptautinėse sutartyse nustatytos kitokios taisyklės negu tos, kurios nustatytos šiame Įstatyme, taikomos tarptautinių sutarčių taisyklės.“
 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
-
-Lietuvos Respublikos
-
-koncesijų įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 1989 m. gruodžio 21 d. Tarybos direktyva 89/665/EEB dėl įstatymų ir kitų teisės aktų, susijusių su peržiūros procedūrų taikymu sudarant viešojo prekių pirkimo ir viešojo darbų pirkimo sutartis, koordinavimo (su paskutiniais pakeitimais, padarytais 1992 m. birželio 18 d. Tarybos direktyva 92/50/EEB) (OL L 395,30/12/1989, p. 33; OL L 285,29/10/2001, p. 1).
-
-2. 1993 m. birželio 14 d. Tarybos direktyva 93/37/EEB dėl viešojo darbų pirkimo sutarčių sudarymo tvarkos derinimo (su paskutiniais pakeitimais, padarytais 2001 m. rugsėjo 13 d. Komisijos direktyva 2001/78/EB) (OLL199,09/08/1993, p. 54; OL L 285, 29/10/2001, p. 1).
-
-3. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/17/EB, koordinuojanti subjektų, vykdančių veiklą vandens, energetikos, transporto ir pašto paslaugų sektoriuose, pirkimų procedūras (OL L134,30/04/2004, p. 1);
-
-4. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/18/EB dėl viešojo darbų, prekių ir paslaugų pirkimo sutarčių sudarymo tvarkos derinimo (OL L 134,30/04/2004, p. 114).
-
-5. 2005 m. rugsėjo 7 d. Komisijos reglamentas (EB) Nr. 1564/2005, nustatantis standartines formas, naudojamas skelbiant su viešųjų pirkimų procedūromis susijusius skelbimus, pagal Europos Parlamento ir Tarybos direktyvas 2004/17/EB ir 2004/18/EB (OLL257, 01/10/2005, p. 1).
-
-6. 2005 m. gruodžio 19 d. Komisijos reglamentas (EB) Nr. 2083/2005, iš dalies keičiantis Europos Parlamento ir Tarybos direktyvų 2004/17/EB ir 2004/18/EB nuostatas dėl ribų, taikomų viešojo pirkimo sutarčių tvarkai (OL L 333, 20/12/2005, p. 28).
-
-Priedo pakeitimai:
-
-Nr. X-749, 2006-07-11, Žin., 2006, Nr. 82-3251 (2006-07-27), i. k. 1061010ISTA000X-749
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-629, 1998-02-17, Žin., 1998, Nr. 25-632 (1998-03-13), i. k. 0981010ISTAVIII-629
-
-Lietuvos Respublikos koncesijų įstatymo 16 straipsnio pripažinimo netekusiu galios įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1306, 1999-07-07, Žin., 1999, Nr. 66-2123 (1999-07-30), i. k. 0991010ISTAIII-1306
-
-Lietuvos Respublikos koncesijų įstatymo 4 straipsnio pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1647, 2003-06-24, Žin., 2003, Nr. 70-3163 (2003-07-16), i. k. 1031010ISTA0IX-1647
-
-Lietuvos Respublikos koncesijų įstatymo pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-2200, 2004-04-29, Žin., 2004, Nr. 73-2533 (2004-04-30), i. k. 1041010ISTA0IX-2200
-
-Lietuvos Respublikos koncesijų įstatymo 1, 2, 3 straipsnių pakeitimo ir papildymo, III skyriaus papildymo šeštuoju skirsniu ir įstatymo papildymo priedu įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-749, 2006-07-11, Žin., 2006, Nr. 82-3251 (2006-07-27), i. k. 1061010ISTA000X-749
-
-Lietuvos Respublikos koncesijų įstatymo, Vietos savivaldos įstatymo pakeitimo ir papildymo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-302, 2009-06-16, Žin., 2009, Nr. 77-3167 (2009-06-30), i. k. 1091010ISTA00XI-302
-
-Lietuvos Respublikos koncesijų įstatymo 28-1 straipsnio pakeitimo įstatymas
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1458, 2011-06-16, Žin., 2011, Nr. 77-3726 (2011-06-28), i. k. 1111010ISTA0XI-1458
-
-Lietuvos Respublikos koncesijų įstatymo 17 straipsnio papildymo ir pakeitimo įstatymas
-
 201 straipsnis. Viešosios darbų koncesijos suteikimo ypatumai
 
 1. Kai koncesijos sutarties dalykas yra darbai ir viešųjų paslaugų teikimas, tokia koncesija laikoma viešąja darbų koncesija, jei pagrindinis tokios koncesijos dalykas yra darbai, o paslaugų teikimas tik papildo koncesininko įsipareigojimą atlikti darbus. Viešąja darbų koncesija nelaikoma koncesija, kurios sutarties pagrindinis dalykas yra viešųjų paslaugų teikimas, o darbai tik papildo koncesininko įsipareigojimą teikti viešąsias paslaugas.
@@ -795,4 +709,106 @@ Nr. X-749, 2006-07-11, Žin., 2006, Nr. 82-3251 (2006-07-27), i. k. 1061010ISTA0
 VI SKYRIUS
 
 BAIGIAMOSIOS NUOSTATOS
+
+30 straipsnis. Įstatymo taikymas naujos branduolinės (atominės) elektrinės projektui
+
+Šio Įstatymo normos santykiams, susijusiems su naujos branduolinės (atominės) elektrinės projektu ir su juo susijusiais klausimais, taikomos tiek, kiek jų nereglamentuoja Branduolinės (atominės) elektrinės įstatymas.
+
+Papildyta straipsniu:
+
+Nr. XI-2116, 2012-06-26, Žin., 2012, Nr. 76-3940 (2012-06-30), i. k. 1121010ISTA0XI-2116
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Lietuvos Respublikos
+
+koncesijų įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 1989 m. gruodžio 21 d. Tarybos direktyva 89/665/EEB dėl įstatymų ir kitų teisės aktų, susijusių su peržiūros procedūrų taikymu sudarant viešojo prekių pirkimo ir viešojo darbų pirkimo sutartis, koordinavimo (su paskutiniais pakeitimais, padarytais 1992 m. birželio 18 d. Tarybos direktyva 92/50/EEB) (OL L 395,30/12/1989, p. 33; OL L 285,29/10/2001, p. 1).
+
+2. 1993 m. birželio 14 d. Tarybos direktyva 93/37/EEB dėl viešojo darbų pirkimo sutarčių sudarymo tvarkos derinimo (su paskutiniais pakeitimais, padarytais 2001 m. rugsėjo 13 d. Komisijos direktyva 2001/78/EB) (OLL199,09/08/1993, p. 54; OL L 285, 29/10/2001, p. 1).
+
+3. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/17/EB, koordinuojanti subjektų, vykdančių veiklą vandens, energetikos, transporto ir pašto paslaugų sektoriuose, pirkimų procedūras (OL L134,30/04/2004, p. 1);
+
+4. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/18/EB dėl viešojo darbų, prekių ir paslaugų pirkimo sutarčių sudarymo tvarkos derinimo (OL L 134,30/04/2004, p. 114).
+
+5. 2005 m. rugsėjo 7 d. Komisijos reglamentas (EB) Nr. 1564/2005, nustatantis standartines formas, naudojamas skelbiant su viešųjų pirkimų procedūromis susijusius skelbimus, pagal Europos Parlamento ir Tarybos direktyvas 2004/17/EB ir 2004/18/EB (OLL257, 01/10/2005, p. 1).
+
+6. 2005 m. gruodžio 19 d. Komisijos reglamentas (EB) Nr. 2083/2005, iš dalies keičiantis Europos Parlamento ir Tarybos direktyvų 2004/17/EB ir 2004/18/EB nuostatas dėl ribų, taikomų viešojo pirkimo sutarčių tvarkai (OL L 333, 20/12/2005, p. 28).
+
+Priedo pakeitimai:
+
+Nr. X-749, 2006-07-11, Žin., 2006, Nr. 82-3251 (2006-07-27), i. k. 1061010ISTA000X-749
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-629, 1998-02-17, Žin., 1998, Nr. 25-632 (1998-03-13), i. k. 0981010ISTAVIII-629
+
+Lietuvos Respublikos koncesijų įstatymo 16 straipsnio pripažinimo netekusiu galios įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1306, 1999-07-07, Žin., 1999, Nr. 66-2123 (1999-07-30), i. k. 0991010ISTAIII-1306
+
+Lietuvos Respublikos koncesijų įstatymo 4 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1647, 2003-06-24, Žin., 2003, Nr. 70-3163 (2003-07-16), i. k. 1031010ISTA0IX-1647
+
+Lietuvos Respublikos koncesijų įstatymo pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2200, 2004-04-29, Žin., 2004, Nr. 73-2533 (2004-04-30), i. k. 1041010ISTA0IX-2200
+
+Lietuvos Respublikos koncesijų įstatymo 1, 2, 3 straipsnių pakeitimo ir papildymo, III skyriaus papildymo šeštuoju skirsniu ir įstatymo papildymo priedu įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-749, 2006-07-11, Žin., 2006, Nr. 82-3251 (2006-07-27), i. k. 1061010ISTA000X-749
+
+Lietuvos Respublikos koncesijų įstatymo, Vietos savivaldos įstatymo pakeitimo ir papildymo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-302, 2009-06-16, Žin., 2009, Nr. 77-3167 (2009-06-30), i. k. 1091010ISTA00XI-302
+
+Lietuvos Respublikos koncesijų įstatymo 28-1 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1458, 2011-06-16, Žin., 2011, Nr. 77-3726 (2011-06-28), i. k. 1111010ISTA0XI-1458
+
+Lietuvos Respublikos koncesijų įstatymo 17 straipsnio papildymo ir pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2116, 2012-06-26, Žin., 2012, Nr. 76-3940 (2012-06-30), i. k. 1121010ISTA0XI-2116
+
+Lietuvos Respublikos koncesijų įstatymo papildymo 30 straipsniu įstatymas
 
