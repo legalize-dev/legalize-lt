@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "2012-04-28"
+last_updated: "2012-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -32,12 +32,6 @@ RESPUBLIKOS
 NOTARIATO
 
 ĮSTATYMAS
-
-1992 m. rugsėjo
-
-15 d. Nr. I-2882
-
-Vilnius
 
 I SKYRIUS
 
@@ -755,9 +749,9 @@ Lietuvos Respublikos teisingumo ministerijai savo antspaudo ir parašo
 
 pavyzdžius. Pasikeitus notaro antspaudui ar parašui, notaras nedelsdamas
 
-privalo pateikti Lietuvos Respublikos teisingumo ministerijai pasikeitusio
+privalo pateikti Lietuvos Respublikos teisingumo ministerijai pasikeitusio antspaudo
 
-antspaudo ar parašo pavyzdį.
+ar parašo pavyzdį.
 
 Įstatymas
 
@@ -769,9 +763,7 @@ Nr. IX-1311,
 
 6(2)
 
-straipsnis. Notarų profesinės civilinės atsakomybės privalomasis
-
-draudimas
+straipsnis. Notarų profesinės civilinės atsakomybės privalomasis draudimas
 
 Notarų profesinė civilinė atsakomybė už fiziniams ar
 
@@ -813,11 +805,11 @@ profesinę veiklą.
 
 Notarų rūmai privalo
 
-pateikti Lietuvos Respublikos teisingumo ministerijai notarų profesinės civilinės
+pateikti Lietuvos Respublikos teisingumo ministerijai notarų profesinės
 
-atsakomybės privalomojo draudimo liudijimo (poliso) kopiją per dešimt dienų nuo
+civilinės atsakomybės privalomojo draudimo liudijimo (poliso) kopiją per dešimt
 
-draudimo sutarties sudarymo dienos.
+dienų nuo draudimo sutarties sudarymo dienos.
 
 Draudikas, kuris teisės aktų nustatyta tvarka turi
 
@@ -1095,9 +1087,9 @@ priėmimą, laikosi notarinio registro, tvirtinamųjų įrašų ir notarinių li
 
 formų pildymo taisyklių, parengia, tvarko, saugo ir naudoja savo veikloje
 
-sudarytus dokumentus. Į notarų veiklos priežiūrą neįeina notarų atliekamų
+sudarytus dokumentus. Į notarų veiklos priežiūrą neįeina notarų atliekamų notarinių
 
-notarinių veiksmų teisėtumo priežiūra.
+veiksmų teisėtumo priežiūra.
 
 Lietuvos
 
@@ -1131,9 +1123,9 @@ IX-778,
 
 2002-03-12, Žin., 2002, Nr. 31-1126 (2002-03-27)
 
-Nr. IX-1311, 2003-01-23,
+Nr. IX-1311,
 
-Žin., 2003, Nr. 15-598 (2003-02-12)
+2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
 
 7(1)
 
@@ -1229,9 +1221,9 @@ Respublikos teisingumo ministerijai;
 
 notarinę praktiką;
 
-6) prižiūrėti, kaip notarai atlieka savo funkcijas,
+6) prižiūrėti, kaip notarai atlieka savo funkcijas, laikosi
 
-laikosi profesinės etikos reikalavimų;
+profesinės etikos reikalavimų;
 
 7) užtikrinti
 
@@ -1277,9 +1269,9 @@ pasiūlymus aukštesnėms instancijoms notarų veiklos klausimais;
 
 notarų kvalifikacijos kėlimo reikmėms;
 
-5) nustatyta tvarka
+5) nustatyta
 
-draudžia notarus profesinės civilinės atsakomybės privalomuoju draudimu.
+tvarka draudžia notarus profesinės civilinės atsakomybės privalomuoju draudimu.
 
 Notarų profesinės civilinės atsakomybės už fiziniams ar juridiniams asmenims
 
@@ -1687,9 +1679,9 @@ straipsnis. Notarų nepriklausomumas
 
 Notarai savo
 
-įgaliojimus vykdo, nepaisydami valstybinės valdžios bei valdymo institucijų
+įgaliojimus vykdo, nepaisydami valstybinės valdžios bei valdymo institucijų įtakos,
 
-įtakos, ir paklūsta tik įstatymams.
+ir paklūsta tik įstatymams.
 
 13
 
@@ -1723,9 +1715,9 @@ užtikrinti notarinių veiksmų slaptumą.
 
 Pažymos apie
 
-notarinius veiksmus ir dokumentai išduodami tik juridiniams ir fiziniams asmenims,
+notarinius veiksmus ir dokumentai išduodami tik juridiniams ir fiziniams
 
-kurių pavedimu arba kuriems buvo atliekami notariniai veiksmai, ar jų
+asmenims, kurių pavedimu arba kuriems buvo atliekami notariniai veiksmai, ar jų
 
 įgaliotiniams.
 
@@ -1757,9 +1749,7 @@ jų teisių perėmėjai ir jų teisėti atstovai gali atleisti notarą nuo parei
 
 saugoti notarinių veiksmų paslaptį. Jei viena šalis yra mirusi, tai nuo
 
-pareigos saugoti paslaptį gali atleisti Lietuvos Respublikos teisingumo
-
-ministras.
+pareigos saugoti paslaptį gali atleisti Lietuvos Respublikos teisingumo ministras.
 
 Straipsnio
 
@@ -1835,9 +1825,7 @@ rūmai.
 
 Notaro profesinės
 
-veiklos metu sudarytų dokumentų archyvas gali būti saugomas Notarų rūmų
-
-archyve.
+veiklos metu sudarytų dokumentų archyvas gali būti saugomas Notarų rūmų archyve.
 
 Notaro profesinės
 
@@ -1913,9 +1901,9 @@ Notaras turi
 
 antspaudą su Lietuvos valstybės pavadinimu ir herbu, savo pavarde. Notaro
 
-antspaudo saugojimo, apskaitos ir sunaikinimo tvarką nustato Lietuvos
+antspaudo saugojimo, apskaitos ir sunaikinimo tvarką nustato Lietuvos Respublikos
 
-Respublikos Vyriausybė arba jos įgaliota institucija.
+Vyriausybė arba jos įgaliota institucija.
 
 Straipsnio
 
@@ -1941,9 +1929,9 @@ Už
 
 notarinio veiksmo atlikimą, sandorių projektų parengimą, konsultacijas ir
 
-technines paslaugas notaras ima atlyginimą, kurio dydį (įkainius) nustato
+technines paslaugas notaras ima atlyginimą, kurio dydį (įkainius) nustato Lietuvos
 
-Lietuvos Respublikos teisingumo ministerija, atsižvelgdama į šio įstatymo 191
+Respublikos teisingumo ministerija, atsižvelgdama į šio įstatymo 191
 
 straipsnyje nurodytus notarų atlyginimo dydžių (įkainių) nustatymo kriterijus,
 
@@ -2046,920 +2034,6 @@ papildytas straipsniu:
 Nr. XI-1979,
 
 2012-04-19, Žin., 2012, Nr. 50-2444 (2012-04-28)
-
-20
-
-straipsnis. Notaro veiklos apribojimai
-
-Notaras
-
-nevaržomai dalyvauja notarų savivaldos ir kitų renkamų institucijų veikloje.
-
-Notaras, eidamas savo pareigas, kartu gali eiti renkamas pareigas notarų
-
-savivaldos institucijose. Jeigu notaras eina renkamas pareigas kitose
-
-institucijose, jo įgaliojimai turi būti sustabdomi šio įstatymo 22(1)
-
-straipsnio nustatyta tvarka.
-
-Notaras negali
-
-gauti jokio kito atlyginimo, išskyrus notaro atlyginimą, kompensaciją už darbą
-
-Notarų rūmuose, užmokestį už pedagoginę ar kūrybinę veiklą. Ši nuostata
-
-netaikoma tais atvejais, kai sustabdomi notaro įgaliojimai.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. IX-371, 2001-06-12, Žin., 2001, Nr.
-
-55-1943 (2001-06-27)
-
-Nr. IX-1311,
-
-2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
-
-201
-
-straipsnis. Reklamos draudimas
-
-Notarui
-
-draudžiama tiesiogiai ar netiesiogiai reklamuoti savo profesinę veiklą.
-
-Šio straipsnio
-
-pirmojoje dalyje nurodytas draudimas netaikomas, kai duomenys apie notarą, jo
-
-biurą nurodomi informaciniuose biuleteniuose (telefonų knygose, įmonių
-
-kataloguose), oficialiuose blankuose ir vizitinėse kortelėse.
-
-Lietuvos
-
-Respublikos teisingumo ministras nustato vienodą visiems notarų biurams iškabų
-
-formą.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-737,
-
-98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
-
-21
-
-straipsnis. Notaro biuro darbo organizavimas
-
-Notaras dirba
-
-savarankiškai ir yra ekonomiškai nepriklausomas.
-
-Notaras savo
-
-nuožiūra priima į darbą jam reikalingus biuro darbuotojus, moka jiems
-
-atlyginimą.
-
-Notaras įsigyja
-
-biuro patalpas ar jas nuomoja, perka reikiamą inventorių ir kitus reikmenis.
-
-22
-
-straipsnis. Notaro atstovavimas ir pavadavimas
-
-Jeigu notaras
-
-dėl ligos, atostogų ar kitų priežasčių negali eiti notaro pareigų, skiriamas
-
-notaro atstovas arba pavaduojantis notaras šiame straipsnyje nustatyta tvarka.
-
-Notaras,
-
-negalintis ilgiau kaip tris darbo dienas eiti savo pareigų dėl ligos, atostogų
-
-ar kitų priežasčių, privalo apie tai informuoti Lietuvos Respublikos teisingumo
-
-ministeriją ir Notarų rūmus. Jeigu notaras negali eiti savo pareigų dėl iš
-
-anksto numatytų aplinkybių, apie tai jis turi informuoti Lietuvos Respublikos
-
-teisingumo ministeriją ir Notarų rūmus iki atostogų ar dėl kitų priežasčių
-
-nebuvimo darbe pradžios. Jeigu notaras neatliko savo pareigų tris darbo dienas
-
-ir apie tai neinformavo Lietuvos Respublikos teisingumo ministerijos ir Notarų
-
-rūmų, šių institucijų reikalavimu jis turi pateikti informaciją apie
-
-priežastis, dėl kurių jis negalėjo eiti savo pareigų.
-
-Notaro atstovu
-
-gali būti asmuo, atitinkantis šio įstatymo 3 straipsnio antrosios dalies 1, 2,
-
-3, 4, 5 ir 6 punktų reikalavimus. Notaro atstovu taip pat gali būti skiriamas
-
-buvęs notaras, kurio įgaliojimai yra pasibaigę pagal šio įstatymo 23 straipsnio
-
-pirmosios dalies 3 punktą, tačiau ne ilgiau kaip iki jam sukaks 70 metų.
-
-Notaro atstovas skiriamas pagal atstovaujamo notaro ir asmens, kuris sutinka
-
-jam atstovauti, prašymus. Jeigu notaras, negalintis eiti savo pareigų, neprašo
-
-skirti notaro atstovo, Lietuvos Respublikos teisingumo ministras,
-
-atsižvelgdamas į Notarų rūmų prezidiumo nuomonę, turi teisę paskirti notaro
-
-atstovą savo iniciatyva, kai yra būtina užtikrinti negalinčio eiti notaro
-
-pareigų notaro biuro veiklą.
-
-Notaro atstovo
-
-skyrimas įforminamas Lietuvos Respublikos teisingumo ministro įsakymu nurodant
-
-laiką, kurį skiriamas asmuo eis notaro atstovo pareigas arba nurodant
-
-aplinkybes, kurioms esant skiriamas asmuo eis notaro atstovo pareigas. Šiuo
-
-atveju notaro atstovas skiriamas vienerių metų terminui.
-
-Asmuo gali būti
-
-skiriamas tik vieno notaro atstovu. Notaro atstovo pareigas gali eiti asmuo,
-
-paskirtas notaro atstovu ir prisiekęs šio įstatymo 5 straipsnio nustatyta
-
-tvarka. Jeigu asmuo iki paskyrimo notaro atstovu buvo davęs notaro priesaiką
-
-šio įstatymo nustatyta tvarka, jam prisiekti iš naujo nereikia. Atstovaujamasis
-
-notaras atstovavimo metu negali atlikti notarinių veiksmų.
-
-Atstovaujamasis
-
-notaras su paskirtu notaro atstovu iki jo pareigų atlikimo pradžios sudaro
-
-sutartį dėl notaro atstovo pareigų atlikimo apmokėjimo, notaro biuro darbo
-
-organizavimo. Tais atvejais, kai notaro atstovas skiriamas Lietuvos Respublikos
-
-teisingumo ministro iniciatyva, su paskirtu notaro atstovu iki jo pareigų
-
-atlikimo šioje straipsnio dalyje numatytą sutartį sudaro Notarų rūmai.
-
-Notaro atstovas
-
-iš pareigų atleidžiamas Lietuvos Respublikos teisingumo ministro įsakymu:
-
-1) pasibaigus
-
-atstovavimo terminui;
-
-2) kai notaro
-
-atstovo pareigos atliekamos Lietuvos Respublikos teisingumo ministro įsakyme
-
-nenurodytais atvejais;
-
-3)
-
-atstovaujamojo notaro reikalavimu;
-
-4) kitais šio
-
-įstatymo 23 straipsnio pirmojoje dalyje numatytais pagrindais.
-
-Notaro atstovas
-
-turi visas notaro teises ir pareigas, išskyrus šiame įstatyme nustatytas
-
-išimtis. Notaro atstovui taikomi šiame įstatyme nustatyti notaro veiklos
-
-apribojimai. Notaro atstovas notarinius veiksmus atlieka atstovaujamojo notaro
-
-vardu, atliekamus notarinius veiksmus tvirtina arba liudija savo parašu ir
-
-atstovaujamojo notaro antspaudu. Notaro atstovas notarinius veiksmus atlieka
-
-atstovaujamojo notaro biure, išskyrus šio įstatymo 28 straipsnyje nustatytus
-
-atvejus, kai notarinius veiksmus galima atlikti ne notaro biuro patalpose.
-
-Už notaro
-
-atstovo padarytą žalą fiziniams ar juridiniams asmenims, vykdant notaro
-
-profesinę veiklą, atsako atstovaujamasis notaras. Notaro atstovo atsakomybė
-
-notarui už notaro atstovo padarytą ir notaro fiziniams ar juridiniams asmenims
-
-atlygintą žalą nustatoma šio straipsnio šeštojoje dalyje nurodytoje sutartyje.
-
-Lietuvos
-
-Respublikos teisingumo ministro įsakymu gali būti skiriamas pavaduojantis
-
-notaras ne ilgesniam kaip trisdešimties dienų terminui. Jei, pasibaigus šiam
-
-terminui, pavaduojamasis notaras ir toliau negalės eiti savo pareigų, skiriamas
-
-notaro atstovas. Pavaduojančiam notarui pavedama aptarnauti notaro, laikinai
-
-negalinčio eiti notaro pareigas, veiklos teritoriją, nustatytą pagal šio
-
-įstatymo 6 straipsnį. Notaro pavadavimas įforminamas Lietuvos Respublikos
-
-teisingumo ministro įsakymu. Notaras gali pavaduoti tik vieną notarą.
-
-Pavadavimo metu pavaduojamasis notaras negali atlikti notarinių veiksmų.
-
-Pavaduojantis notaras pavadavimo metu savo vardu ir lėšomis atlieka notarinius
-
-veiksmus, susijusius su pavaduojamojo notaro veiklos teritorijoje atsiradusiu
-
-palikimu, taip pat su pavaduojamojo notaro sudarytų dokumentų, saugomų pavaduojamojo
-
-notaro biure, išdavimu šio įstatymo 14, 38 ir 39 straipsniuose nustatyta
-
-tvarka. Pavadavimo metu pavaduojantis notaras notarinius veiksmus atlieka savo
-
-notaro biure. Pavaduojamasis notaras ir pavaduojantis notaras raštu susitaria
-
-dėl pavaduojamojo notaro veiklos metu sudarytų dokumentų naudojimo pavadavimo
-
-metu.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-597, 94.09.22,
-
-Žin., 1994, Nr. 78-1463 (94.10.07)
-
-Nr.
-
-VIII-737,
-
-98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
-
-Nr. IX-1311,
-
-2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
-
-Nr.
-
-XI-1916,
-
-2011-12-23, Žin., 2012, Nr. 4-114 (2012-01-06)
-
-Nr. XI-1979,
-
-2012-04-19, Žin., 2012, Nr. 50-2444 (2012-04-28)
-
-22(1)
-
-straipsnis. Notaro įgaliojimų sustabdymas
-
-Notaro
-
-įgaliojimai sustabdomi Lietuvos Respublikos teisingumo ministro įsakymu, jeigu
-
-notaras eina renkamas pareigas, išskyrus notarų savivaldos institucijose.
-
-Notaro įgaliojimai gali
-
-būti sustabdomi šio straipsnio pirmojoje dalyje nustatyta tvarka, notarui
-
-iškėlus drausmės bylą, taip pat jeigu notaras įtariamas ar kaltinamas padaręs
-
-nusikalstamą veiką.
-
-Šio straipsnio pirmojoje
-
-ir antrojoje dalyse nurodytais atvejais notaro įgaliojimai sustabdomi tol, kol
-
-išnyksta pagrindai, dėl kurių buvo sustabdyti notaro įgaliojimai.
-
-Notaro įgaliojimai
-
-gali būti sustabdomi ir kitų įstatymų nustatyta tvarka bei pagrindais.
-
-Įstatymas
-
-papildytas straipsniu:
-
-Nr. IX-1311,
-
-2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
-
-23
-
-straipsnis. Notaro įgaliojimų pasibaigimas
-
-Notaro
-
-įgaliojimai pasibaigia:
-
-1) notarui
-
-mirus;
-
-2) notarui
-
-netekus Europos Sąjungos valstybės narės ar kitos Europos ekonominės erdvės
-
-susitarimo dalyvės, ar Šveicarijos Konfederacijos pilietybės;
-
-3) notaro
-
-pareiškimu;
-
-4) kai jis
-
-neatitinka šio įstatymo 3 straipsnio antrosios dalies 8 punkto reikalavimų;
-
-5) įsiteisėjus
-
-teismo nuosprendžiui, kuriuo notaras nuteistas už sunkų ar labai sunkų
-
-nusikaltimą, nepaisant to, ar išnyko teistumas, ar teistas už kitą nusikalstamą
-
-veiką, jeigu neišnyko teistumas;
-
-6) Lietuvos
-
-Respublikos teisingumo ministrui pritarus Notarų garbės teismo siūlymui
-
-atleisti notarą iš pareigų;
-
-7) kai jis
-
-netinka eiti pareigas pagal atestavimo rezultatus;
-
-8) notarui
-
-sulaukus 70 metų;
-
-9) jeigu notaras
-
-daugiau kaip du mėnesius iš eilės nemoka mokesčių į Lietuvos Respublikos
-
-valstybės biudžetą įstatymų nustatyta tvarka;
-
-10) jei notaras
-
-pažeidė šio įstatymo 20 straipsnio reikalavimus;
-
-11) jei notaras
-
-sistemingai daugiau kaip 4 mėnesius iš eilės nemoka mokesčių Notarų rūmams.
-
-Notaro
-
-įgaliojimų pasibaigimas (atleidimas iš pareigų) įforminamas Lietuvos
-
-Respublikos teisingumo ministro įsakymu.
-
-Straipsnio
-
-pakeitimai:
-
-Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-
-2010-03-22, Žin., 2010, Nr.
-
-34-1620 (2010-03-25)
-
-Nr.
-
-I-597, 94.09.22,
-
-Žin., 1994, Nr. 78-1463 (94.10.07)
-
-Nr.
-
-VIII-737,
-
-98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
-
-Nr. VIII-1225,
-
-99.06.15, Žin., 1999, Nr.57-1831 (99.06.30)
-
-Nr. IX-1311,
-
-2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
-
-Nr. X-1164,
-
-2007-06-05, Žin., 2007, Nr. 68-2651 (2007-06-21)
-
-Nr.
-
-XI-1916,
-
-2011-12-23, Žin., 2012, Nr. 4-114 (2012-01-06)
-
-Nr. XI-1979,
-
-2012-04-19, Žin., 2012, Nr. 50-2444 (2012-04-28)
-
-24
-
-straipsnis. Notaro veiklos tęstinumas
-
-Pasibaigus
-
-notaro įgaliojimams, Lietuvos Respublikos teisingumo ministerija priima
-
-sprendimą dėl tolesnės biuro veiklos, neatliktų notarinių veiksmų tęsimo ir
-
-dokumentų perdavimo.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-597, 94.09.22,
-
-Žin., 1994, Nr. 78-1463 (94.10.07)
-
-25
-
-straipsnis. Notarinių veiksmų atlikimas užsienyje
-
-Šio įstatymo
-
-numatytus notarinius veiksmus Lietuvos Respublikos piliečiams, esantiems
-
-užsienyje, atlieka Lietuvos Respublikos konsuliniai pareigūnai.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. IX-1311,
-
-2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
-
-II SKYRIUS
-
-NOTARŲ, LIETUVOS
-
-RESPUBLIKOS KONSULINIŲ PAREIGŪNŲ IR SENIŪNŲ ATLIEKAMI NOTARINIAI VEIKSMAI
-
-Skyriaus
-
-pavadinimas keistas:
-
-Nr. IX-1311,
-
-2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
-
-26
-
-straipsnis. Notarų atliekami notariniai veiksmai
-
-Notarai atlieka
-
-šiuos notarinius veiksmus:
-
-1) tvirtina
-
-sandorius;
-
-2) išduoda paveldėjimo
-
-teisės liudijimus;
-
-3) išduoda
-
-nuosavybės teisės į dalį sutuoktinių bendro turto liudijimus;
-
-4) liudija
-
-dokumentų nuorašų ir jų išrašų tikrumą;
-
-5) liudija
-
-parašo dokumentuose tikrumą;
-
-6) liudija
-
-dokumentų vertimo iš vienos kalbos į kitą tikrumą;
-
-7) tvirtina
-
-faktą, kad fizinis asmuo yra gyvas ir yra tam tikroje vietovėje;
-
-8) priima
-
-saugoti oficialiesiems testamentams prilyginamus testamentus ir asmeninius
-
-testamentus;
-
-9) tvirtina
-
-dokumentų pateikimo laiką;
-
-10) perduoda
-
-vienų fizinių ir juridinių asmenų pareiškimus kitiems fiziniams ir juridiniams
-
-asmenims;
-
-11) priima į
-
-depozitinę sąskaitą pinigines sumas;
-
-12) priima
-
-jūrinius protestus;
-
-13) protestuoja
-
-vekselius ir čekius;
-
-14) daro
-
-vykdomuosius įrašus užprotestuotuose arba neprotestuotinuose vekseliuose ir
-
-čekiuose;
-
-15) surašo ar
-
-tvirtina dokumentus dėl juridinių asmenų registrui pateikiamų duomenų tikrumo
-
-ir tvirtina, kad juridinį asmenį registruoti galima, nes įstatymuose ar
-
-steigimo sandoryje nustatytos prievolės yra įvykdytos ir atsirado įstatymuose ar
-
-steigimo dokumentuose numatytos aplinkybės;
-
-16) tvirtina
-
-juridinių asmenų steigimo dokumentų atitikimą įstatymų reikalavimams;
-
-17) atlieka
-
-kitus įstatymų numatytus notarinius veiksmus.
-
-1
-
-dalies redakcija nuo 2012-07-01:
-
-Notarai atlieka
-
-šiuos notarinius veiksmus:
-
-1) tvirtina
-
-sandorius;
-
-2) išduoda
-
-paveldėjimo teisės liudijimus;
-
-3) išduoda
-
-nuosavybės teisės į dalį sutuoktinių bendro turto liudijimus;
-
-4) liudija
-
-dokumentų nuorašų ir jų išrašų tikrumą;
-
-5) liudija
-
-parašo dokumentuose tikrumą;
-
-6) liudija
-
-dokumentų vertimo iš vienos kalbos į kitą tikrumą;
-
-7) tvirtina
-
-faktą, kad fizinis asmuo yra gyvas ir yra tam tikroje vietovėje;
-
-8) priima
-
-saugoti oficialiesiems testamentams prilyginamus testamentus ir asmeninius
-
-testamentus;
-
-9) tvirtina
-
-dokumentų pateikimo laiką;
-
-10) perduoda
-
-vienų fizinių ir juridinių asmenų pareiškimus kitiems fiziniams ir juridiniams
-
-asmenims;
-
-11) priima į
-
-depozitinę sąskaitą pinigines sumas;
-
-12) priima
-
-jūrinius protestus;
-
-13) protestuoja
-
-vekselius ir čekius;
-
-14) atlieka vykdomuosius
-
-įrašus užprotestuotuose arba neprotestuotinuose vekseliuose ir čekiuose;
-
-15) atlieka
-
-vykdomuosius įrašus dėl priverstinio skolos išieškojimo pagal hipotekos
-
-(įkeitimo) kreditoriaus prašymą;
-
-16) surašo ar
-
-tvirtina dokumentus dėl juridinių asmenų registrui pateikiamų duomenų tikrumo
-
-ir tvirtina, kad juridinį asmenį registruoti galima, nes įstatymuose ar
-
-steigimo sandoryje nustatytos prievolės yra įvykdytos ir atsirado įstatymuose
-
-ar steigimo dokumentuose numatytos aplinkybės;
-
-17) tvirtina
-
-juridinių asmenų steigimo dokumentų atitiktį įstatymų reikalavimams;
-
-18) atlieka
-
-kitus įstatymų numatytus notarinius veiksmus.
-
-Pripažįstama,
-
-kad notarine forma patvirtintuose dokumentuose esantys faktai yra nustatyti ir
-
-neįrodinėjami, iki šie dokumentai (jų dalys) įstatymų nustatyta tvarka nėra
-
-pripažinti negaliojančiais.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-597, 94.09.22,
-
-Žin., 1994, Nr. 78-1463 (94.10.07)
-
-Nr.
-
-VIII-737,
-
-98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
-
-Nr. VIII-1097,
-
-99.03.23, Žin., 1999, Nr.32-903 (99.04.09)
-
-Nr. IX-371, 2001-06-12, Žin., 2001, Nr.
-
-55-1943 (2001-06-27)
-
-Nr. XI-1848,
-
-2011-12-22, Žin., 2012, Nr. 6-184 (2012-01-10)
-
-27
-
-straipsnis. Lietuvos Respublikos konsulinių pareigūnų atliekami notariniai veiksmai
-
-Lietuvos
-
-Respublikos konsuliniai pareigūnai atlieka šiuos notarinius veiksmus:
-
-1)
-
-tvirtina sandorius, išskyrus sutartis dėl Lietuvos Respublikoje esančių
-
-nekilnojamųjų daiktų perleidimo, perdavimo naudotis, įkeitimo ar kitų daiktinių
-
-teisių ar jų suvaržymo;
-
-2)
-
-liudija dokumentų nuorašų ir jų išrašų tikrumą;
-
-3)
-
-liudija parašo dokumentuose tikrumą;
-
-4)
-
-liudija dokumentų vertimo iš vienos kalbos į kitą tikrumą;
-
-5)
-
-tvirtina faktą, kad fizinis asmuo yra gyvas ir yra tam tikroje vietovėje;
-
-6)
-
-priima saugoti asmeninius testamentus;
-
-7)
-
-tvirtina dokumentų pateikimo laiką;
-
-8)
-
-priima jūrinius protestus;
-
-9)
-
-atlieka kitus įstatymų numatytus notarinius veiksmus.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-597, 94.09.22,
-
-Žin., 1994, Nr. 78-1463 (94.10.07)
-
-Nr. IX-371, 2001-06-12, Žin., 2001, Nr.
-
-55-1943 (2001-06-27)
-
-Nr. IX-1311,
-
-2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
-
-27(1)
-
-straipsnis. Seniūnų atliekami notariniai veiksmai
-
-Seniūnai
-
-neatlygintinai atlieka seniūnijai priskirtos teritorijos gyventojams šiuos
-
-notarinius veiksmus:
-
-1) tvirtina
-
-įgaliojimus, kuriuos fiziniai asmenys duoda korespondencijai (konkrečiai –
-
-siunčiamiems pinigams ir siuntiniams) gauti, taip pat darbo užmokesčiui ir
-
-kitoms su darbo santykiais susijusioms išmokoms, pensijoms, pašalpoms,
-
-stipendijoms, išmokoms už perdirbti supirktą žemės ūkio produkciją gauti;
-
-2) liudija
-
-dokumentų nuorašų ir jų išrašų tikrumą;
-
-3) liudija
-
-parašo dokumentuose tikrumą.
-
-Įstatymas
-
-papildytas straipsniu:
-
-Nr. IX-1311,
-
-2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
-
-III
-
-SKYRIUS
-
-PAGRINDINĖS NOTARINIŲ
-
-VEIKSMŲ ATLIKIMO TAISYKLĖS
-
-28
-
-straipsnis. Notarinių veiksmų atlikimo vieta
-
-Notariniai
-
-veiksmai gali būti atliekami pas bet kurį notarą, išskyrus turto paveldėjimo
-
-atvejus. Notarų veiklos teritoriją šiais atvejais nustato Lietuvos Respublikos
-
-teisingumo ministras.
-
-Notariniai
-
-veiksmai atliekami notaro biure. Atlikti notarinius veiksmus ne notaro biuro
-
-patalpose galima tik tada, kai suinteresuotas asmuo dėl svarbios priežasties
-
-(liga, invalidumas ar kiti atvejai) negali atvykti į notaro biurą ir iškviečia
-
-notarą į namus, medicinos pagalbos ar kitą įstaigą, kai atliekant notarinį
-
-veiksmą dalyvauja daugiau nei dešimt asmenų arba kai notarinis veiksmas
-
-atliekamas iškilmingoje aplinkoje.
-
-Lietuvos Respublikos
-
-konsulinių pareigūnų atliekamų notarinių veiksmų vietą nustato Lietuvos
-
-Respublikos konsulinis statutas.
-
-Seniūnų
-
-atliekamų notarinių veiksmų vietą nustato Lietuvos Respublikos vietos
-
-savivaldos įstatymas.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-737,
-
-98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
-
-Nr. IX-1311,
-
-2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
-
-29
-
-straipsnis. Notarinių veiksmų atlikimo terminai
-
-Notariniai
-
-veiksmai atliekami iš karto, kai pateikiami reikiami dokumentai ir paimamas
-
-nustatyto dydžio atlyginimas. Notarinių veiksmų atlikimas gali būti atidėtas,
-
-jeigu reikalinga papildoma informacija, tačiau ne ilgiau dešimt kalendorinių
-
-dienų.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-597, 94.09.22,
-
-Žin., 1994, Nr. 78-1463 (94.10.07)
-
-30
-
-straipsnis. Notarinių veiksmų prasmės ir pasekmių išaiškinimas
-
-Notarai privalo
-
-išaiškinti atliekamų notarinių veiksmų prasmę ir pasekmes asmenims, kurie nori
-
-juos atlikti.
-
-Jei sandoris
-
-sudėtingas, gali būti rašomas sandorio sudarymo (derybų) protokolas, kurį
-
-pasirašo sandorio dalyviai ir notaras.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-597, 94.09.22,
-
-Žin., 1994, Nr. 78-1463 (94.10.07)
 
 12 straipsnis.
 
@@ -3387,9 +2461,7 @@ VIII-737,
 
 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
 
-20 straipsnis.
-
-Notaro veiklos apribojimai
+20 straipsnis. Notaro veiklos apribojimai
 
 Notaras
 
@@ -3399,17 +2471,35 @@ Notaras, eidamas savo pareigas, kartu gali eiti renkamas pareigas notarų
 
 savivaldos institucijose. Jeigu notaras eina renkamas pareigas kitose
 
-institucijose, jo įgaliojimai turi būti sustabdomi šio įstatymo 22(1)
+institucijose, jo įgaliojimai turi būti sustabdomi šio įstatymo 221
 
 straipsnio nustatyta tvarka.
 
 Notaras negali
 
-gauti jokio kito atlyginimo, išskyrus notaro atlyginimą, kompensaciją už darbą
+gauti jokio kito atlyginimo, išskyrus notaro atlyginimą, atlygį už arbitro
 
-Notarų rūmuose, užmokestį už pedagoginę ar kūrybinę veiklą. Ši nuostata
+funkcijų atlikimą, atlyginimą už darbą visų lygių rinkimų ir referendumo
 
-netaikoma tais atvejais, kai sustabdomi notaro įgaliojimai.
+komisijose, kompensaciją už darbą Notarų rūmuose, užmokestį už pedagoginę ar
+
+kūrybinę veiklą. Ši nuostata netaikoma tais atvejais, kai sustabdomi notaro
+
+įgaliojimai.
+
+Atlikdamas
+
+arbitro funkcijas, notaras privalo vengti interesų konflikto ar kitų
+
+aplinkybių, kurios galėtų kelti abejonių jo objektyvumu ir nešališkumu
+
+atliekant įstatymų nustatytas funkcijas. Notaras negali būti arbitru ginčuose,
+
+kylančiuose iš santykių, dėl kurių jis jau yra atlikęs įstatymų nustatytas
+
+funkcijas. Be to, notaras negali atlikti įstatymų nustatytų funkcijų dėl tų
+
+santykių, iš kurių kilusiame ginče jis buvo arbitru.
 
 Straipsnio
 
@@ -3422,6 +2512,896 @@ Nr. IX-371, 2001-06-12, Žin., 2001, Nr.
 Nr. IX-1311,
 
 2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
+
+Nr.
+
+XI-2091,
+
+2012-06-21, Žin., 2012, Nr. 76-3934 (2012-06-30)
+
+201
+
+straipsnis. Reklamos draudimas
+
+Notarui
+
+draudžiama tiesiogiai ar netiesiogiai reklamuoti savo profesinę veiklą.
+
+Šio straipsnio
+
+pirmojoje dalyje nurodytas draudimas netaikomas, kai duomenys apie notarą, jo
+
+biurą nurodomi informaciniuose biuleteniuose (telefonų knygose, įmonių
+
+kataloguose), oficialiuose blankuose ir vizitinėse kortelėse.
+
+Lietuvos
+
+Respublikos teisingumo ministras nustato vienodą visiems notarų biurams iškabų
+
+formą.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-737,
+
+98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
+
+21
+
+straipsnis. Notaro biuro darbo organizavimas
+
+Notaras dirba
+
+savarankiškai ir yra ekonomiškai nepriklausomas.
+
+Notaras savo
+
+nuožiūra priima į darbą jam reikalingus biuro darbuotojus, moka jiems
+
+atlyginimą.
+
+Notaras įsigyja
+
+biuro patalpas ar jas nuomoja, perka reikiamą inventorių ir kitus reikmenis.
+
+22
+
+straipsnis. Notaro atstovavimas ir pavadavimas
+
+Jeigu notaras
+
+dėl ligos, atostogų ar kitų priežasčių negali eiti notaro pareigų, skiriamas
+
+notaro atstovas arba pavaduojantis notaras šiame straipsnyje nustatyta tvarka.
+
+Notaras,
+
+negalintis ilgiau kaip tris darbo dienas eiti savo pareigų dėl ligos, atostogų
+
+ar kitų priežasčių, privalo apie tai informuoti Lietuvos Respublikos teisingumo
+
+ministeriją ir Notarų rūmus. Jeigu notaras negali eiti savo pareigų dėl iš
+
+anksto numatytų aplinkybių, apie tai jis turi informuoti Lietuvos Respublikos
+
+teisingumo ministeriją ir Notarų rūmus iki atostogų ar dėl kitų priežasčių
+
+nebuvimo darbe pradžios. Jeigu notaras neatliko savo pareigų tris darbo dienas
+
+ir apie tai neinformavo Lietuvos Respublikos teisingumo ministerijos ir Notarų
+
+rūmų, šių institucijų reikalavimu jis turi pateikti informaciją apie
+
+priežastis, dėl kurių jis negalėjo eiti savo pareigų.
+
+Notaro atstovu
+
+gali būti asmuo, atitinkantis šio įstatymo 3 straipsnio antrosios dalies 1, 2,
+
+3, 4, 5 ir 6 punktų reikalavimus. Notaro atstovu taip pat gali būti skiriamas
+
+buvęs notaras, kurio įgaliojimai yra pasibaigę pagal šio įstatymo 23 straipsnio
+
+pirmosios dalies 3 punktą, tačiau ne ilgiau kaip iki jam sukaks 70 metų.
+
+Notaro atstovas skiriamas pagal atstovaujamo notaro ir asmens, kuris sutinka
+
+jam atstovauti, prašymus. Jeigu notaras, negalintis eiti savo pareigų, neprašo
+
+skirti notaro atstovo, Lietuvos Respublikos teisingumo ministras,
+
+atsižvelgdamas į Notarų rūmų prezidiumo nuomonę, turi teisę paskirti notaro
+
+atstovą savo iniciatyva, kai yra būtina užtikrinti negalinčio eiti notaro
+
+pareigų notaro biuro veiklą.
+
+Notaro atstovo
+
+skyrimas įforminamas Lietuvos Respublikos teisingumo ministro įsakymu nurodant
+
+laiką, kurį skiriamas asmuo eis notaro atstovo pareigas arba nurodant
+
+aplinkybes, kurioms esant skiriamas asmuo eis notaro atstovo pareigas. Šiuo
+
+atveju notaro atstovas skiriamas vienerių metų terminui.
+
+Asmuo gali būti
+
+skiriamas tik vieno notaro atstovu. Notaro atstovo pareigas gali eiti asmuo,
+
+paskirtas notaro atstovu ir prisiekęs šio įstatymo 5 straipsnio nustatyta tvarka.
+
+Jeigu asmuo iki paskyrimo notaro atstovu buvo davęs notaro priesaiką šio
+
+įstatymo nustatyta tvarka, jam prisiekti iš naujo nereikia. Atstovaujamasis
+
+notaras atstovavimo metu negali atlikti notarinių veiksmų.
+
+Atstovaujamasis
+
+notaras su paskirtu notaro atstovu iki jo pareigų atlikimo pradžios sudaro
+
+sutartį dėl notaro atstovo pareigų atlikimo apmokėjimo, notaro biuro darbo
+
+organizavimo. Tais atvejais, kai notaro atstovas skiriamas Lietuvos Respublikos
+
+teisingumo ministro iniciatyva, su paskirtu notaro atstovu iki jo pareigų
+
+atlikimo šioje straipsnio dalyje numatytą sutartį sudaro Notarų rūmai.
+
+Notaro atstovas
+
+iš pareigų atleidžiamas Lietuvos Respublikos teisingumo ministro įsakymu:
+
+1) pasibaigus
+
+atstovavimo terminui;
+
+2) kai notaro
+
+atstovo pareigos atliekamos Lietuvos Respublikos teisingumo ministro įsakyme
+
+nenurodytais atvejais;
+
+3)
+
+atstovaujamojo notaro reikalavimu;
+
+4) kitais šio
+
+įstatymo 23 straipsnio pirmojoje dalyje numatytais pagrindais.
+
+Notaro atstovas
+
+turi visas notaro teises ir pareigas, išskyrus šiame įstatyme nustatytas
+
+išimtis. Notaro atstovui taikomi šiame įstatyme nustatyti notaro veiklos
+
+apribojimai. Notaro atstovas notarinius veiksmus atlieka atstovaujamojo notaro
+
+vardu, atliekamus notarinius veiksmus tvirtina arba liudija savo parašu ir atstovaujamojo
+
+notaro antspaudu. Notaro atstovas notarinius veiksmus atlieka atstovaujamojo
+
+notaro biure, išskyrus šio įstatymo 28 straipsnyje nustatytus atvejus, kai
+
+notarinius veiksmus galima atlikti ne notaro biuro patalpose.
+
+Už notaro
+
+atstovo padarytą žalą fiziniams ar juridiniams asmenims, vykdant notaro
+
+profesinę veiklą, atsako atstovaujamasis notaras. Notaro atstovo atsakomybė
+
+notarui už notaro atstovo padarytą ir notaro fiziniams ar juridiniams asmenims
+
+atlygintą žalą nustatoma šio straipsnio šeštojoje dalyje nurodytoje sutartyje.
+
+Lietuvos
+
+Respublikos teisingumo ministro įsakymu gali būti skiriamas pavaduojantis
+
+notaras ne ilgesniam kaip trisdešimties dienų terminui. Jei, pasibaigus šiam
+
+terminui, pavaduojamasis notaras ir toliau negalės eiti savo pareigų, skiriamas
+
+notaro atstovas. Pavaduojančiam notarui pavedama aptarnauti notaro, laikinai
+
+negalinčio eiti notaro pareigas, veiklos teritoriją, nustatytą pagal šio
+
+įstatymo 6 straipsnį. Notaro pavadavimas įforminamas Lietuvos Respublikos
+
+teisingumo ministro įsakymu. Notaras gali pavaduoti tik vieną notarą.
+
+Pavadavimo metu pavaduojamasis notaras negali atlikti notarinių veiksmų.
+
+Pavaduojantis notaras pavadavimo metu savo vardu ir lėšomis atlieka notarinius
+
+veiksmus, susijusius su pavaduojamojo notaro veiklos teritorijoje atsiradusiu
+
+palikimu, taip pat su pavaduojamojo notaro sudarytų dokumentų, saugomų
+
+pavaduojamojo notaro biure, išdavimu šio įstatymo 14, 38 ir 39 straipsniuose
+
+nustatyta tvarka. Pavadavimo metu pavaduojantis notaras notarinius veiksmus
+
+atlieka savo notaro biure. Pavaduojamasis notaras ir pavaduojantis notaras
+
+raštu susitaria dėl pavaduojamojo notaro veiklos metu sudarytų dokumentų
+
+naudojimo pavadavimo metu.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-597, 94.09.22,
+
+Žin., 1994, Nr. 78-1463 (94.10.07)
+
+Nr.
+
+VIII-737,
+
+98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
+
+Nr. IX-1311, 2003-01-23,
+
+Žin., 2003, Nr. 15-598 (2003-02-12)
+
+Nr.
+
+XI-1916,
+
+2011-12-23, Žin., 2012, Nr. 4-114 (2012-01-06)
+
+Nr. XI-1979,
+
+2012-04-19, Žin., 2012, Nr. 50-2444 (2012-04-28)
+
+22(1)
+
+straipsnis. Notaro įgaliojimų sustabdymas
+
+Notaro
+
+įgaliojimai sustabdomi Lietuvos Respublikos teisingumo ministro įsakymu, jeigu
+
+notaras eina renkamas pareigas, išskyrus notarų savivaldos institucijose.
+
+Notaro įgaliojimai gali
+
+būti sustabdomi šio straipsnio pirmojoje dalyje nustatyta tvarka, notarui
+
+iškėlus drausmės bylą, taip pat jeigu notaras įtariamas ar kaltinamas padaręs
+
+nusikalstamą veiką.
+
+Šio straipsnio pirmojoje
+
+ir antrojoje dalyse nurodytais atvejais notaro įgaliojimai sustabdomi tol, kol
+
+išnyksta pagrindai, dėl kurių buvo sustabdyti notaro įgaliojimai.
+
+Notaro
+
+įgaliojimai gali būti sustabdomi ir kitų įstatymų nustatyta tvarka bei
+
+pagrindais.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr. IX-1311,
+
+2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
+
+23
+
+straipsnis. Notaro įgaliojimų pasibaigimas
+
+Notaro
+
+įgaliojimai pasibaigia:
+
+1) notarui
+
+mirus;
+
+2) notarui
+
+netekus Europos Sąjungos valstybės narės ar kitos Europos ekonominės erdvės
+
+susitarimo dalyvės, ar Šveicarijos Konfederacijos pilietybės;
+
+3) notaro
+
+pareiškimu;
+
+4) kai jis
+
+neatitinka šio įstatymo 3 straipsnio antrosios dalies 8 punkto reikalavimų;
+
+5) įsiteisėjus
+
+teismo nuosprendžiui, kuriuo notaras nuteistas už sunkų ar labai sunkų
+
+nusikaltimą, nepaisant to, ar išnyko teistumas, ar teistas už kitą nusikalstamą
+
+veiką, jeigu neišnyko teistumas;
+
+6) Lietuvos
+
+Respublikos teisingumo ministrui pritarus Notarų garbės teismo siūlymui
+
+atleisti notarą iš pareigų;
+
+7) kai jis netinka
+
+eiti pareigas pagal atestavimo rezultatus;
+
+8) notarui
+
+sulaukus 70 metų;
+
+9) jeigu notaras
+
+daugiau kaip du mėnesius iš eilės nemoka mokesčių į Lietuvos Respublikos
+
+valstybės biudžetą įstatymų nustatyta tvarka;
+
+10) jei notaras
+
+pažeidė šio įstatymo 20 straipsnio reikalavimus;
+
+11) jei notaras
+
+sistemingai daugiau kaip 4 mėnesius iš eilės nemoka mokesčių Notarų rūmams.
+
+Notaro
+
+įgaliojimų pasibaigimas (atleidimas iš pareigų) įforminamas Lietuvos
+
+Respublikos teisingumo ministro įsakymu.
+
+Straipsnio
+
+pakeitimai:
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+2010-03-22, Žin., 2010, Nr.
+
+34-1620 (2010-03-25)
+
+Nr.
+
+I-597, 94.09.22,
+
+Žin., 1994, Nr. 78-1463 (94.10.07)
+
+Nr.
+
+VIII-737,
+
+98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
+
+Nr. VIII-1225, 99.06.15,
+
+Žin., 1999, Nr.57-1831 (99.06.30)
+
+Nr. IX-1311,
+
+2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
+
+Nr. X-1164,
+
+2007-06-05, Žin., 2007, Nr. 68-2651 (2007-06-21)
+
+Nr.
+
+XI-1916,
+
+2011-12-23, Žin., 2012, Nr. 4-114 (2012-01-06)
+
+Nr. XI-1979,
+
+2012-04-19, Žin., 2012, Nr. 50-2444 (2012-04-28)
+
+24
+
+straipsnis. Notaro veiklos tęstinumas
+
+Pasibaigus
+
+notaro įgaliojimams, Lietuvos Respublikos teisingumo ministerija priima
+
+sprendimą dėl tolesnės biuro veiklos, neatliktų notarinių veiksmų tęsimo ir
+
+dokumentų perdavimo.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-597, 94.09.22,
+
+Žin., 1994, Nr. 78-1463 (94.10.07)
+
+25
+
+straipsnis. Notarinių veiksmų atlikimas užsienyje
+
+Šio įstatymo
+
+numatytus notarinius veiksmus Lietuvos Respublikos piliečiams, esantiems
+
+užsienyje, atlieka Lietuvos Respublikos konsuliniai pareigūnai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. IX-1311,
+
+2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
+
+II SKYRIUS
+
+NOTARŲ, LIETUVOS
+
+RESPUBLIKOS KONSULINIŲ PAREIGŪNŲ IR SENIŪNŲ ATLIEKAMI NOTARINIAI VEIKSMAI
+
+Skyriaus
+
+pavadinimas keistas:
+
+Nr. IX-1311,
+
+2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
+
+26
+
+straipsnis. Notarų atliekami notariniai veiksmai
+
+Notarai atlieka
+
+šiuos notarinius veiksmus:
+
+1) tvirtina
+
+sandorius;
+
+2) išduoda
+
+paveldėjimo teisės liudijimus;
+
+3) išduoda
+
+nuosavybės teisės į dalį sutuoktinių bendro turto liudijimus;
+
+4) liudija
+
+dokumentų nuorašų ir jų išrašų tikrumą;
+
+5) liudija
+
+parašo dokumentuose tikrumą;
+
+6) liudija
+
+dokumentų vertimo iš vienos kalbos į kitą tikrumą;
+
+7) tvirtina
+
+faktą, kad fizinis asmuo yra gyvas ir yra tam tikroje vietovėje;
+
+8) priima
+
+saugoti oficialiesiems testamentams prilyginamus testamentus ir asmeninius
+
+testamentus;
+
+9) tvirtina
+
+dokumentų pateikimo laiką;
+
+10) perduoda
+
+vienų fizinių ir juridinių asmenų pareiškimus kitiems fiziniams ir juridiniams
+
+asmenims;
+
+11) priima į
+
+depozitinę sąskaitą pinigines sumas;
+
+12) priima
+
+jūrinius protestus;
+
+13) protestuoja
+
+vekselius ir čekius;
+
+14) daro
+
+vykdomuosius įrašus užprotestuotuose arba neprotestuotinuose vekseliuose ir
+
+čekiuose;
+
+15) surašo ar
+
+tvirtina dokumentus dėl juridinių asmenų registrui pateikiamų duomenų tikrumo
+
+ir tvirtina, kad juridinį asmenį registruoti galima, nes įstatymuose ar
+
+steigimo sandoryje nustatytos prievolės yra įvykdytos ir atsirado įstatymuose
+
+ar steigimo dokumentuose numatytos aplinkybės;
+
+16) tvirtina
+
+juridinių asmenų steigimo dokumentų atitikimą įstatymų reikalavimams;
+
+17) atlieka
+
+kitus įstatymų numatytus notarinius veiksmus.
+
+1
+
+dalies redakcija nuo 2012-07-01:
+
+Notarai atlieka
+
+šiuos notarinius veiksmus:
+
+1) tvirtina
+
+sandorius;
+
+2) išduoda
+
+paveldėjimo teisės liudijimus;
+
+3) išduoda
+
+nuosavybės teisės į dalį sutuoktinių bendro turto liudijimus;
+
+4) liudija
+
+dokumentų nuorašų ir jų išrašų tikrumą;
+
+5) liudija
+
+parašo dokumentuose tikrumą;
+
+6) liudija
+
+dokumentų vertimo iš vienos kalbos į kitą tikrumą;
+
+7) tvirtina
+
+faktą, kad fizinis asmuo yra gyvas ir yra tam tikroje vietovėje;
+
+8) priima
+
+saugoti oficialiesiems testamentams prilyginamus testamentus ir asmeninius
+
+testamentus;
+
+9) tvirtina
+
+dokumentų pateikimo laiką;
+
+10) perduoda
+
+vienų fizinių ir juridinių asmenų pareiškimus kitiems fiziniams ir juridiniams
+
+asmenims;
+
+11) priima į
+
+depozitinę sąskaitą pinigines sumas;
+
+12) priima
+
+jūrinius protestus;
+
+13) protestuoja
+
+vekselius ir čekius;
+
+14) atlieka
+
+vykdomuosius įrašus užprotestuotuose arba neprotestuotinuose vekseliuose ir
+
+čekiuose;
+
+15) atlieka
+
+vykdomuosius įrašus dėl priverstinio skolos išieškojimo pagal hipotekos (įkeitimo)
+
+kreditoriaus prašymą;
+
+16) surašo ar
+
+tvirtina dokumentus dėl juridinių asmenų registrui pateikiamų duomenų tikrumo
+
+ir tvirtina, kad juridinį asmenį registruoti galima, nes įstatymuose ar
+
+steigimo sandoryje nustatytos prievolės yra įvykdytos ir atsirado įstatymuose
+
+ar steigimo dokumentuose numatytos aplinkybės;
+
+17) tvirtina
+
+juridinių asmenų steigimo dokumentų atitiktį įstatymų reikalavimams;
+
+18) atlieka
+
+kitus įstatymų numatytus notarinius veiksmus.
+
+Pripažįstama,
+
+kad notarine forma patvirtintuose dokumentuose esantys faktai yra nustatyti ir
+
+neįrodinėjami, iki šie dokumentai (jų dalys) įstatymų nustatyta tvarka nėra
+
+pripažinti negaliojančiais.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-597, 94.09.22,
+
+Žin., 1994, Nr. 78-1463 (94.10.07)
+
+Nr.
+
+VIII-737,
+
+98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
+
+Nr. VIII-1097,
+
+99.03.23, Žin., 1999, Nr.32-903 (99.04.09)
+
+Nr. IX-371, 2001-06-12, Žin., 2001, Nr.
+
+55-1943 (2001-06-27)
+
+Nr. XI-1848,
+
+2011-12-22, Žin., 2012, Nr. 6-184 (2012-01-10)
+
+27
+
+straipsnis. Lietuvos Respublikos konsulinių pareigūnų atliekami notariniai
+
+veiksmai
+
+Lietuvos
+
+Respublikos konsuliniai pareigūnai atlieka šiuos notarinius veiksmus:
+
+1)
+
+tvirtina sandorius, išskyrus sutartis dėl Lietuvos Respublikoje esančių nekilnojamųjų
+
+daiktų perleidimo, perdavimo naudotis, įkeitimo ar kitų daiktinių teisių ar jų
+
+suvaržymo;
+
+2)
+
+liudija dokumentų nuorašų ir jų išrašų tikrumą;
+
+3)
+
+liudija parašo dokumentuose tikrumą;
+
+4)
+
+liudija dokumentų vertimo iš vienos kalbos į kitą tikrumą;
+
+5)
+
+tvirtina faktą, kad fizinis asmuo yra gyvas ir yra tam tikroje vietovėje;
+
+6)
+
+priima saugoti asmeninius testamentus;
+
+7)
+
+tvirtina dokumentų pateikimo laiką;
+
+8)
+
+priima jūrinius protestus;
+
+9)
+
+atlieka kitus įstatymų numatytus notarinius veiksmus.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-597, 94.09.22,
+
+Žin., 1994, Nr. 78-1463 (94.10.07)
+
+Nr. IX-371, 2001-06-12, Žin., 2001, Nr.
+
+55-1943 (2001-06-27)
+
+Nr. IX-1311,
+
+2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
+
+27(1)
+
+straipsnis. Seniūnų atliekami notariniai veiksmai
+
+Seniūnai
+
+neatlygintinai atlieka seniūnijai priskirtos teritorijos gyventojams šiuos notarinius
+
+veiksmus:
+
+1) tvirtina
+
+įgaliojimus, kuriuos fiziniai asmenys duoda korespondencijai (konkrečiai –
+
+siunčiamiems pinigams ir siuntiniams) gauti, taip pat darbo užmokesčiui ir
+
+kitoms su darbo santykiais susijusioms išmokoms, pensijoms, pašalpoms, stipendijoms,
+
+išmokoms už perdirbti supirktą žemės ūkio produkciją gauti;
+
+2) liudija
+
+dokumentų nuorašų ir jų išrašų tikrumą;
+
+3) liudija
+
+parašo dokumentuose tikrumą.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr. IX-1311,
+
+2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
+
+III
+
+SKYRIUS
+
+PAGRINDINĖS
+
+NOTARINIŲ VEIKSMŲ ATLIKIMO TAISYKLĖS
+
+28
+
+straipsnis. Notarinių veiksmų atlikimo vieta
+
+Notariniai
+
+veiksmai gali būti atliekami pas bet kurį notarą, išskyrus turto paveldėjimo
+
+atvejus. Notarų veiklos teritoriją šiais atvejais nustato Lietuvos Respublikos
+
+teisingumo ministras.
+
+Notariniai
+
+veiksmai atliekami notaro biure. Atlikti notarinius veiksmus ne notaro biuro
+
+patalpose galima tik tada, kai suinteresuotas asmuo dėl svarbios priežasties
+
+(liga, invalidumas ar kiti atvejai) negali atvykti į notaro biurą ir iškviečia
+
+notarą į namus, medicinos pagalbos ar kitą įstaigą, kai atliekant notarinį
+
+veiksmą dalyvauja daugiau nei dešimt asmenų arba kai notarinis veiksmas
+
+atliekamas iškilmingoje aplinkoje.
+
+Lietuvos Respublikos
+
+konsulinių pareigūnų atliekamų notarinių veiksmų vietą nustato Lietuvos
+
+Respublikos konsulinis statutas.
+
+Seniūnų
+
+atliekamų notarinių veiksmų vietą nustato Lietuvos Respublikos vietos
+
+savivaldos įstatymas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+VIII-737,
+
+98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
+
+Nr. IX-1311,
+
+2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
+
+29
+
+straipsnis. Notarinių veiksmų atlikimo terminai
+
+Notariniai
+
+veiksmai atliekami iš karto, kai pateikiami reikiami dokumentai ir paimamas
+
+nustatyto dydžio atlyginimas. Notarinių veiksmų atlikimas gali būti atidėtas,
+
+jeigu reikalinga papildoma informacija, tačiau ne ilgiau dešimt kalendorinių
+
+dienų.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-597, 94.09.22,
+
+Žin., 1994, Nr. 78-1463 (94.10.07)
+
+30
+
+straipsnis. Notarinių veiksmų prasmės ir pasekmių išaiškinimas
+
+Notarai privalo
+
+išaiškinti atliekamų notarinių veiksmų prasmę ir pasekmes asmenims, kurie nori
+
+juos atlikti.
+
+Jei sandoris
+
+sudėtingas, gali būti rašomas sandorio sudarymo (derybų) protokolas, kurį
+
+pasirašo sandorio dalyviai ir notaras.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-597, 94.09.22,
+
+Žin., 1994, Nr. 78-1463 (94.10.07)
 
 21 straipsnis.
 
@@ -4249,31 +4229,29 @@ pakeitimai:
 
 kurie prašo atlikti notarinius veiksmus, asmens tapatybės
 
-nustatymas, veiksnumo ir jų parašų tikrumo
-
-patikrinimas
+nustatymas, veiksnumo ir jų parašų tikrumo patikrinimas
 
 Notaras,
 
-atlikdamas notarinius veiksmus, nustato fizinių asmenų, jų atstovų arba juridinių
+atlikdamas notarinius veiksmus, nustato fizinių asmenų, jų atstovų arba
 
-asmenų atstovų asmens tapatybę. Lietuvos Respublikos piliečių asmens tapatybė
+juridinių asmenų atstovų asmens tapatybę. Lietuvos Respublikos piliečių asmens
 
-nustatoma pagal pateiktą asmens tapatybės kortelę arba kitą asmens tapatybę
+tapatybė nustatoma pagal pateiktą asmens tapatybės kortelę arba kitą asmens
 
-patvirtinantį dokumentą, kuriame yra asmens kodas ir nuotrauka. Užsieniečių,
+tapatybę patvirtinantį dokumentą, kuriame yra asmens kodas ir nuotrauka.
 
-kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, asmens tapatybė
+Užsieniečių, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, asmens
 
-nustatoma pagal toje valstybėje išduotą piliečio pasą ar jį atitinkantį
+tapatybė nustatoma pagal toje valstybėje išduotą piliečio pasą ar jį
 
-kelionės dokumentą, skirtą vykti į užsienio valstybę ir pripažintą Lietuvos
+atitinkantį kelionės dokumentą, skirtą vykti į užsienio valstybę ir pripažintą
 
-Respublikoje. Užsieniečių, kurie yra deklaravę gyvenamąją vietą Lietuvos
+Lietuvos Respublikoje. Užsieniečių, kurie yra deklaravę gyvenamąją vietą
 
-Respublikoje, asmens tapatybė nustatoma pagal pateiktą leidimą laikinai
+Lietuvos Respublikoje, asmens tapatybė nustatoma pagal pateiktą leidimą
 
-apsigyventi Lietuvos Respublikoje arba leidimą nuolat gyventi Lietuvos
+laikinai apsigyventi Lietuvos Respublikoje arba leidimą nuolat gyventi Lietuvos
 
 Respublikoje. Užsieniečių, kurie pateikė prašymą suteikti pabėgėlio Lietuvos
 
@@ -4377,11 +4355,9 @@ pirmojoje dalyje nurodytiems giminaičiams priskiriami tėvai, įtėviai, vaikai
 
 įvaikiai, vaikaičiai, seneliai, broliai, seserys.
 
-Notariniai
+Notariniai veiksmai,
 
-veiksmai, atlikti pažeidžiant šiame straipsnyje nustatytas taisykles,
-
-negalioja.
+atlikti pažeidžiant šiame straipsnyje nustatytas taisykles, negalioja.
 
 34
 
@@ -4583,9 +4559,9 @@ VIII-737,
 
 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
 
-Nr. IX-1311, 2003-01-23,
+Nr. IX-1311,
 
-Žin., 2003, Nr. 15-598 (2003-02-12)
+2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
 
 38
 
@@ -5107,7 +5083,9 @@ liudijimą.
 
 Notaras privalo atsisakyti atlikti notarinį veiksmą,
 
-jeigu tokio veiksmo atlikimas prieštarauja įstatymams ar neatitinka jų reikalavimų.
+jeigu tokio veiksmo atlikimas prieštarauja įstatymams ar neatitinka jų
+
+reikalavimų.
 
 Asmens, kuriam atsisakyta atlikti notarinį veiksmą,
 
@@ -5121,11 +5099,11 @@ asmens, kuriam atsisakyta atlikti notarinį veiksmą, tapatybę nustatantys
 
 duomenys, veiksmas, kurį buvo prašoma atlikti, atsisakymo atlikti notarinį
 
-veiksmą motyvai ir teisiniai pagrindai, atsisakymo apskundimo tvarka ir terminai.
+veiksmą motyvai ir teisiniai pagrindai, atsisakymo apskundimo tvarka ir
 
-Atsisakymą atlikti notarinį veiksmą pasirašo notaras ir jį patvirtina savo
+terminai. Atsisakymą atlikti notarinį veiksmą pasirašo notaras ir jį patvirtina
 
-antspaudu.
+savo antspaudu.
 
 Teisės aktai, reglamentuojantys Lietuvos Respublikos
 
@@ -5229,7 +5207,9 @@ Nr. XI-1848,
 
 44
 
-straipsnis. Notarinio registro, tvirtinamųjų įrašų ir notarinių liudijimų formos
+straipsnis. Notarinio registro, tvirtinamųjų įrašų ir notarinių liudijimų
+
+formos
 
 Notarinio
 
@@ -5277,9 +5257,9 @@ pakeitimai:
 
 Nr.
 
-VIII-737,
+VIII-737, 98.05.14,
 
-98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
+Žin., 1998, Nr.49-1329 (98.05.27)
 
 Nr. IX-371, 2001-06-12, Žin., 2001, Nr.
 
@@ -5833,9 +5813,9 @@ Nr. IX-371, 2001-06-12, Žin., 2001, Nr.
 
 55-1943 (2001-06-27)
 
-Nr. IX-1311,
+Nr. IX-1311, 2003-01-23,
 
-2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
+Žin., 2003, Nr. 15-598 (2003-02-12)
 
 52
 
@@ -6781,11 +6761,41 @@ Kandidatui į
 
 notarus (asesoriui) neleidžiama dirbti jokio kito darbo arba verstis kokia nors
 
-kitokia mokama veikla (išskyrus mokslinį ar pedagoginį bei kūrybinį darbą).
+kitokia mokama veikla (išskyrus mokslinį ar pedagoginį bei kūrybinį darbą,
+
+arbitro funkcijų atlikimą, darbą visų lygių rinkimų ir referendumo komisijose).
 
 Kandidatas į notarus (asesorius) gali dirbti pagal darbo sutartį notaro biure,
 
 kuriame jis atlieka praktiką.
+
+Atlikdamas
+
+arbitro funkcijas, kandidatas
+
+į notarus (asesorius) privalo vengti interesų konflikto ar kitų aplinkybių,
+
+kurios galėtų kelti abejonių jo objektyvumu ir nešališkumu atliekant įstatymų
+
+nustatytas funkcijas. Kandidatas į notarus (asesorius) negali būti arbitru
+
+ginčuose, kylančiuose iš santykių, dėl kurių jis jau yra atlikęs įstatymų
+
+nustatytas funkcijas. Be to, kandidatas į notarus (asesorius) negali atlikti
+
+įstatymų nustatytų funkcijų dėl tų santykių, iš kurių kilusiame ginče jis buvo
+
+arbitru.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XI-2091,
+
+2012-06-21, Žin., 2012, Nr. 76-3934 (2012-06-30)
 
 63
 
@@ -6821,7 +6831,9 @@ AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                   VYTAUT
 
 LANDSBERGIS
 
-________________
+Vilnius, 1992 m. rugsėjo 15 d.
+
+Nr. I-2882
 
 Pakeitimai:
 
