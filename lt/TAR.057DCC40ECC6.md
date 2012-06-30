@@ -4,7 +4,7 @@ identifier: "TAR.057DCC40ECC6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-04-12"
-last_updated: "2012-06-05"
+last_updated: "2012-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.057DCC40ECC6"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ LIETUVOS RESPUBLIKOS ŽEMĖS PAĖMIMO VISUOMENĖS POREIKIAMS ĮGYVENDINANT
 
 YPATINGOS VALSTYBINĖS SVARBOS PROJEKTUS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2012-06-05 iki 2012-06-29
+Suvestinė redakcija nuo 2012-06-30 iki 2012-06-30
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 49-2362, i. k. 1111010ISTA0XI-1307
 
@@ -41,6 +41,12 @@ BENDROSIOS NUOSTATOS
 
 2. Šio įstatymo nustatytoms žemės paėmimo visuomenės poreikiams procedūroms Lietuvos Respublikos žemės įstatymo VIII skyriaus nuostatos ir jas įgyvendinantys teisės aktai netaikomi.
 
+3. Šio įstatymo normos santykiams, susijusiems su naujos branduolinės (atominės) elektrinės projektu ir su juo susijusiais klausimais, taikomos tiek, kiek jų nereglamentuoja Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-2120, 2012-06-26, Žin., 2012, Nr. 76-3944 (2012-06-30), i. k. 1121010ISTA0XI-2120
+
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Ypatingos valstybinės svarbos projektas – energetikos infrastruktūros, transporto infrastruktūros ar krašto apsaugos sričių projektas, kurį šio įstatymo nustatyta tvarka Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) teikimu Lietuvos Respublikos Seimas (toliau – Seimas) pripažįsta valstybei ypač svarbiu ekonominiu ar strateginę reikšmę nacionaliniam saugumui turinčiu projektu.
@@ -59,9 +65,17 @@ BENDROSIOS NUOSTATOS
 
 1. Žemė visuomenės poreikiams paimama šio įstatymo nustatyta tvarka ir sąlygomis, kai ši žemė yra reikalinga ypatingos valstybinės svarbos projektams, kurių svarbą visuomenės poreikiams pripažįsta Seimas, įgyvendinti. Vyriausybės teikimu Seimas šio įstatymo nustatyta tvarka ypatingos valstybinės svarbos projektais pripažįsta valstybei svarbius ekonominius ar strateginę reikšmę nacionaliniam saugumui turinčius energetikos infrastruktūros, transporto infrastruktūros ar krašto apsaugos sričių projektus.
 
-2. Valstybės institucija, inicijuojanti projekto pripažinimą ypatingos valstybinės svarbos projektu, turi pateikti Vyriausybei parengtą projekto galimybių studiją, kurioje būtų pateikta išsami numatomo įgyvendinti projekto analizė techniniu, finansiniu ir ekonominiu požiūriais. Seimas projektą pripažįsta ypatingos valstybinės svarbos projektu priimdamas nutarimą.
+2. Valstybės institucija, inicijuojanti projekto pripažinimą ypatingos valstybinės svarbos projektu, turi pateikti Vyriausybei parengtą projekto galimybių studiją, kurioje būtų pateikta išsami numatomo įgyvendinti projekto analizė techniniu, finansiniu ir ekonominiu požiūriais. Seimas projektą pripažįsta ypatingos valstybinės svarbos projektu priimdamas nutarimą arba įstatymą.
 
-3. Seimas, priimdamas nutarimą dėl projekto pripažinimo ypatingos valstybinės svarbos projektu, nustato, kad tokio projekto įgyvendinimui yra taikomas šis įstatymas, ir nurodo projektą įgyvendinančią instituciją.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2120, 2012-06-26, Žin., 2012, Nr. 76-3944 (2012-06-30), i. k. 1121010ISTA0XI-2120
+
+3. Seimas, priimdamas nutarimą arba įstatymą dėl projekto pripažinimo ypatingos valstybinės svarbos projektu, nustato, kad tokio projekto įgyvendinimui yra taikomas šis įstatymas, ir nurodo projektą įgyvendinančią instituciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2120, 2012-06-26, Žin., 2012, Nr. 76-3944 (2012-06-30), i. k. 1121010ISTA0XI-2120
 
 II SKYRIUS
 
@@ -109,7 +123,11 @@ II SKYRIUS
 
 2. Teismas ne vėliau kaip per 14 dienų nuo žemės savininko ir (ar) kito naudotojo atsiliepimo pateikimo dienos arba termino, nustatyto atsiliepimui pateikti, pabaigos priimdamas nutartį išsprendžia klausimą, ar patvirtinti žemės paėmimo visuomenės poreikiams akto teisėtumą. Priimdamas nutartį dėl žemės paėmimo visuomenės poreikiams akto teisėtumo patvirtinimo, teismas įvertina, ar:
 
-1) galioja Seimo nutarimas dėl projekto pripažinimo ypatingos valstybinės svarbos projektu;
+1) galioja Seimo nutarimas arba įstatymas dėl projekto pripažinimo ypatingos valstybinės svarbos projektu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2120, 2012-06-26, Žin., 2012, Nr. 76-3944 (2012-06-30), i. k. 1121010ISTA0XI-2120
 
 2) galioja Vyriausybės nutarimas patvirtinti specialųjį planą ir pradėti žemės paėmimo visuomenės poreikiams procedūrą;
 
@@ -272,4 +290,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2030, 2012-05-22, Žin., 2012, Nr. 63-3169 (2012-06-05), i. k. 1121010ISTA0XI-2030
 
 Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 4 straipsnio pakeitimo ir 6 straipsnio papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2120, 2012-06-26, Žin., 2012, Nr. 76-3944 (2012-06-30), i. k. 1121010ISTA0XI-2120
+
+Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 1, 3, 6 straipsnių pakeitimo ir papildymo įstatymas
 
