@@ -4,7 +4,7 @@ identifier: "TAR.94F5702CA0F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-09"
-last_updated: "2012-04-28"
+last_updated: "2012-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2012-04-28 iki 2012-06-29
+Suvestinė redakcija nuo 2012-06-30 iki 2012-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
 
@@ -165,11 +165,15 @@ Nr. X-415, 2005-11-22, Žin., 2005, Nr. 143-5177 (2005-12-08), i. k. 1051010ISTA
 
 10 straipsnis. Antstolio veiklos apribojimas
 
-Antstolis, vykdydamas šiame Įstatyme numatytą veiklą, negali eiti kitų mokamų pareigų įmonėse, įstaigose ir organizacijose ar dirbti kito darbo, išskyrus darbą antstolių savivaldos institucijose ir mokslinę, kūrybinę ar pedagoginę veiklą, taip pat negali būti renkamas (skiriamas) įmonės, kurios veikla yra susijusi su skolų išieškojimu, turto saugojimu, turto vertinimu, teisinėmis konsultacijomis, tarpininkavimo paslaugų teikimu, valdymo organų nariu.
+1. Antstolis, vykdydamas šiame Įstatyme numatytą veiklą, negali eiti kitų mokamų pareigų įmonėse, įstaigose ir organizacijose ar dirbti kito darbo, išskyrus darbą antstolių savivaldos institucijose ir mokslinę, kūrybinę ar pedagoginę veiklą, darbą visų lygių rinkimų ir referendumo komisijose, taip pat negali būti renkamas (skiriamas) įmonės, kurios veikla yra susijusi su skolų išieškojimu, turto saugojimu, turto vertinimu, teisinėmis konsultacijomis, tarpininkavimo paslaugų teikimu, valdymo organų nariu.
+
+2. Antstolis gali būti arbitru, kai ginčai sprendžiami arbitraže, ir gauti už tai atlygį. Atlikdamas arbitro funkcijas, antstolis privalo vengti interesų konflikto ar kitų aplinkybių, kurios galėtų kelti abejonių jo objektyvumu ir nešališkumu atliekant įstatymų nustatytas funkcijas. Antstolis negali būti arbitru ginčuose, kylančiuose iš santykių, dėl kurių jis jau yra atlikęs įstatymų nustatytas funkcijas. Be to, antstolis negali atlikti įstatymų nustatytų funkcijų dėl tų santykių, iš kurių kilusiame ginče jis buvo arbitru.
 
 Straipsnio pakeitimai:
 
 Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+
+Nr. XI-2094, 2012-06-21, Žin., 2012, Nr. 76-3937 (2012-06-30), i. k. 1121010ISTA0XI-2094
 
 11 straipsnis. Antstolio įgaliojimų sustabdymas
 
@@ -551,11 +555,15 @@ Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010IST
 
 32 straipsnis. Antstolio padėjėjo veiklos apribojimas
 
-Antstolio padėjėjas negali eiti kitų mokamų pareigų įmonėse, įstaigose ir organizacijose ar dirbti kito darbo, išskyrus mokslinę, kūrybinę ar pedagoginę veiklą, taip pat negali būti renkamas (skiriamas) įmonės, kurios veikla yra susijusi su skolų išieškojimu, turto saugojimu, turto vertinimu, teisinėmis konsultacijomis, tarpininkavimo paslaugų teikimu, valdymo organų nariu.
+1. Antstolio padėjėjas negali eiti kitų mokamų pareigų įmonėse, įstaigose ir organizacijose ar dirbti kito darbo, išskyrus mokslinę, kūrybinę ar pedagoginę veiklą, darbą visų lygių rinkimų ir referendumo komisijose, taip pat negali būti renkamas (skiriamas) įmonės, kurios veikla yra susijusi su skolų išieškojimu, turto saugojimu, turto vertinimu, teisinėmis konsultacijomis, tarpininkavimo paslaugų teikimu, valdymo organų nariu.
+
+2. Antstolio padėjėjas gali būti arbitru, kai ginčai sprendžiami arbitraže, ir gauti už tai atlygį. Atlikdamas arbitro funkcijas, antstolio padėjėjas privalo vengti interesų konflikto ar kitų aplinkybių, kurios galėtų kelti abejonių jo objektyvumu ir nešališkumu atliekant įstatymų nustatytas funkcijas. Antstolio padėjėjas negali būti arbitru ginčuose, kylančiuose iš tų santykių, dėl kurių jis jau yra atlikęs įstatymų nustatytas funkcijas. Be to, antstolio padėjėjas negali atlikti įstatymų nustatytų funkcijų dėl tų santykių, iš kurių kilusiame ginče jis buvo arbitru.
 
 Straipsnio pakeitimai:
 
 Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+
+Nr. XI-2094, 2012-06-21, Žin., 2012, Nr. 76-3937 (2012-06-30), i. k. 1121010ISTA0XI-2094
 
 33 straipsnis. Antstolių padėjėjų mokymas ir kvalifikacijos kėlimas
 
@@ -886,4 +894,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1978, 2012-04-19, Žin., 2012, Nr. 50-2443 (2012-04-28), i. k. 1121010ISTA0XI-1978
 
 Lietuvos Respublikos antstolių įstatymo 12 ir 21 straipsnių pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2094, 2012-06-21, Žin., 2012, Nr. 76-3937 (2012-06-30), i. k. 1121010ISTA0XI-2094
+
+Lietuvos Respublikos antstolių įstatymo 10, 32 straipsnių pakeitimo ir papildymo įstatymas
 
