@@ -4,7 +4,7 @@ identifier: "TAR.DEBA0718FB0F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "2010-07-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 department: "Lietuvos Respublikos Seimas"
@@ -380,9 +380,9 @@ kranto teritorija su joje esančiais pastatais ir įrenginiais, skirta laivams
 
 plaukiojanti (debarkaderis) laivų priplaukimo, stovėjimo, pakrovimo, iškrovimo,
 
-išplaukimo vieta, neturinti visų uostui būdingų požymių, išvardytų šio
+išplaukimo vieta, neturinti visų uostui būdingų požymių, išvardytų šio straipsnio
 
-straipsnio 1 dalyje.
+1 dalyje.
 
 3. Krantinė – nustatyto ilgio, pločio ir
 
@@ -414,17 +414,17 @@ akvatorijos, patenkančios į Kuršių nerijos nacionalinio parko ribas, uostų 
 
 prieplaukų teritorijos ir akvatorijos ribas ir plotus nustato Vyriausybė
 
-Susisiekimo ministerijos teikimu; savivaldybės vidaus vandenų uostų ir
+Susisiekimo ministerijos teikimu; savivaldybės vidaus vandenų uostų ir prieplaukų
 
-prieplaukų teritorijos ir akvatorijos ribas ir plotus – savivaldybės taryba;
+teritorijos ir akvatorijos ribas ir plotus – savivaldybės taryba; privačių
 
-privačių vidaus vandenų uostų ir prieplaukų teritorijos ir akvatorijos ribas ir
+vidaus vandenų uostų ir prieplaukų teritorijos ir akvatorijos ribas ir plotus –
 
-plotus – steigėjas, suderinęs su savivaldybe. Vidaus vandenų uostus ir
+steigėjas, suderinęs su savivaldybe. Vidaus vandenų uostus ir prieplaukas
 
-prieplaukas steigiant saugomose teritorijose, uostų ir prieplaukų teritorijos
+steigiant saugomose teritorijose, uostų ir prieplaukų teritorijos ir
 
-ir akvatorijos ribos ir plotai turi būti suderinti su saugomos teritorijos
+akvatorijos ribos ir plotai turi būti suderinti su saugomos teritorijos
 
 administracija.
 
@@ -498,9 +498,9 @@ TREČIASIS SKIRSNIS
 
 VIDAUS VANDENŲ TRANSPORTO PRIEMONĖS
 
-14 straipsnis. Vidaus vandenų
+14 straipsnis. Vidaus
 
-transporto priemonių sąvoka
+vandenų transporto priemonių sąvoka
 
 Vidaus vandenų transporto
 
@@ -626,11 +626,19 @@ transporto priemonių registravimas ir techninė apžiūra bei techninis
 
 patikrinimas
 
-1. Vidaus vandenų transporto
+1. Vidaus vandenų transporto priemonės
 
-priemonės (išskyrus sportinius laivus) ir jų pakabinamieji varikliai
+(išskyrus sportinius laivus, vandens
 
-registruojami Lietuvos Respublikos vidaus vandenų laivų registre.
+dviračius, irklines valtis, kurių ilgis iki 6 metrų, burines jachtas, kurių
+
+korpusas trumpesnis kaip 6 metrai, irklinius turistinius plaustus, kurių keliamoji
+
+galia mažesnė kaip 500 kilogramų) ir jų
+
+pakabinamieji varikliai registruojami Lietuvos Respublikos vidaus vandenų laivų
+
+registre.
 
 2. Lietuvos Respublikos vidaus vandenų laivų registrą
 
@@ -676,9 +684,9 @@ vandenų laivybos sertifikatus, papildomus Europos Bendrijos vidaus vandenų
 
 laivybos sertifikatus ir laikinuosius Europos Bendrijos vidaus vandenų laivybos
 
-sertifikatus. Sertifikatų išdavimo tvarką ir sertifikatų formą tvirtina susisiekimo
+sertifikatus. Sertifikatų išdavimo tvarką ir sertifikatų formą tvirtina
 
-ministras.
+susisiekimo ministras.
 
 7. Žvejybos laivams,
 
@@ -736,6 +744,10 @@ Nr. XI-891,
 
 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
+Nr. XI-2132,
+
+2012-06-26, Žin., 2012, Nr. 77-3982 (2012-07-01)
+
 17 straipsnis. Laivų valdytojai
 
 1. Laivo valdytojas yra savininkas ar
@@ -750,9 +762,9 @@ sudarius laivo nuomos ar panaudos sutartį, duomenys apie naują valdytoją
 
 Straipsnio pakeitimai:
 
-Nr. VIII-1900, 00.08.29, Žin., 2000,
+Nr. VIII-1900, 00.08.29, Žin., 2000, Nr.75-2267
 
-Nr.75-2267 (00.09.07)
+(00.09.07)
 
 Nr. VIII-1964, 00.09.26, Žin., 2000,
 
@@ -762,9 +774,9 @@ KETVIRTASIS SKIRSNIS
 
 VIDAUS VANDENŲ TRANSPORTO PERSONALAS
 
-18 straipsnis. Vidaus vandenų
+18 straipsnis. Vidaus vandenų transporto
 
-transporto specialistai ir motorinių pramoginių laivų laivavedžiai
+specialistai ir motorinių pramoginių laivų laivavedžiai
 
 1. Vidaus vandenų transporto
 
@@ -870,13 +882,13 @@ tvarka.
 
 ir kitus pažymėjimus išduoda Lietuvos buriuotojų sąjungos patvirtintos
 
-kvalifikacinės komisijos. Diplomų, kvalifikacijos liudijimų ir pažymėjimų išdavimo
+kvalifikacinės komisijos. Diplomų, kvalifikacijos liudijimų ir pažymėjimų
 
-sąlygas ir tvarką nustato Burinių jachtų laivavedžių diplomavimo taisyklės,
+išdavimo sąlygas ir tvarką nustato Burinių jachtų laivavedžių diplomavimo
 
-kurias, suderinusi su Lietuvos saugios laivybos administracija, tvirtina
+taisyklės, kurias, suderinusi su Lietuvos saugios laivybos
 
-Lietuvos buriuotojų sąjunga.
+administracija, tvirtina Lietuvos buriuotojų sąjunga.
 
 Straipsnio pakeitimai:
 
@@ -906,9 +918,9 @@ nesavaeigį laivą - škiperis.
 
 įgulos darbui ir atsako už laivo, jo įgulos, keleivių bei krovinio saugumą. Jo
 
-nurodymai, kuriais siekiama laive garantuoti saugumą ir palaikyti tvarką,
+nurodymai, kuriais siekiama laive garantuoti saugumą ir palaikyti tvarką, privalomi
 
-privalomi visiems laive esantiems asmenims.
+visiems laive esantiems asmenims.
 
 3. Įgulos nariai į laivą priimami, jei
 
@@ -984,11 +996,11 @@ dalį atlyginimo už turto gelbėjimą kartu su gelbėjusiais turtą žmonėmis.
 
 sąvoka
 
-Laivyba – laivų ir kitų
+Laivyba – laivų ir kitų vidaus
 
-vidaus vandenų transporto priemonių plaukiojimas Lietuvos Respublikos vidaus
+vandenų transporto priemonių plaukiojimas Lietuvos Respublikos vidaus vandenyse
 
-vandenyse (prekybinė, pramoginė, žvejybinė, linijinė ir kitos laivybos rūšys).
+(prekybinė, pramoginė, žvejybinė, linijinė ir kitos laivybos rūšys).
 
 Kodeksas
 
@@ -1040,11 +1052,9 @@ Nr.85-2585 (00.10.11)
 
 25 straipsnis. Saugi laivyba
 
-1. Saugi laivyba užtikrinama
+1. Saugi laivyba užtikrinama organizacinėmis,
 
-organizacinėmis, techninėmis, sanitarijos, gamtosaugos ir teisinėmis
-
-priemonėmis.
+techninėmis, sanitarijos, gamtosaugos ir teisinėmis priemonėmis.
 
 2. Šias priemones įgyvendina vidaus
 
@@ -1088,9 +1098,9 @@ Nr. VIII-1900, 00.08.29, Žin., 2000,
 
 Nr.75-2267 (00.09.07)
 
-Nr. VIII-1964, 00.09.26, Žin., 2000, Nr.85-2585
+Nr. VIII-1964, 00.09.26, Žin., 2000,
 
-(00.10.11)
+Nr.85-2585 (00.10.11)
 
 Nr. X-1790,
 
@@ -1344,9 +1354,9 @@ jį gavėjui, o siuntėjas įsipareigoja pateikti krovinį ir už jo vežimą su
 
 nustatytą užmokestį. Krovinio vežimo vidaus vandenų laivais tvarką
 
-nustato krovinių vežimo vidaus vandenų laivais taisyklės, kurias tvirtina
+nustato krovinių vežimo vidaus vandenų laivais taisyklės, kurias tvirtina susisiekimo
 
-susisiekimo ministras.
+ministras.
 
 Straipsnio
 
@@ -1458,31 +1468,373 @@ Nr. VIII-1964, 00.09.26, Žin., 2000,
 
 Nr.85-2585 (00.10.11)
 
-41 straipsnis. Laivo parengimas
+41 straipsnis. Krovinių vežimo krovininiais vidaus
 
-1. Vežėjas privalo pateikti švarų ir
+vandenų laivais, kurių dedveitas didesnis kaip 200 tonų esant didžiausiajai
 
-tinkamą vežti tos rūšies kroviniui laivą, atitinkantį gamtos apsaugos
+grimzlei, Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais tvarka
 
-reikalavimus.
+1. Vežti krovinius krovininiais vidaus vandenų
 
-2. Laivas, kuriuo vežamas krovinys, turi
+laivais, kurių dedveitas didesnis kaip 200 tonų esant didžiausiajai grimzlei,
 
-atitikti minimalius techninius reikalavimus, kuriuos tvirtina Susisiekimo
+Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais turi teisę
 
-ministerija, o jo įgula turi būti sukomplektuota taip, kad užtikrintų saugų
+Lietuvos Respublikos fiziniai ir juridiniai asmenys, taip pat Lietuvos
 
-krovinio vežimą iki paskirties punkto.
+Respublikoje veikiantys kitos Europos Sąjungos valstybės narės ar Pasaulio
 
-Straipsnio pakeitimai:
+prekybos organizacijos valstybės narės juridinių asmenų ar kitų organizacijų
+
+padaliniai, turintys leidimą verstis krovinių vežimu krovininiais vidaus
+
+vandenų laivais Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais
+
+(toliau – leidimas).
+
+2. Vežti krovinius krovininiais vidaus vandenų
+
+laivais, kurių dedveitas didesnis kaip 200 tonų esant didžiausiajai grimzlei,
+
+Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais turi teisę kitos
+
+Europos Sąjungos valstybės narės ar Pasaulio prekybos organizacijos valstybės narės
+
+fiziniai ir juridiniai asmenys, taip pat kitos Europos Sąjungos valstybės narės
+
+ar Pasaulio prekybos organizacijos valstybės narės juridinių asmenų ar kitų
+
+organizacijų padaliniai, turintys šios valstybės narės kompetentingų
+
+institucijų išduotą dokumentą, suteikiantį teisę vežti krovinius krovininiais
+
+vidaus vandenų laivais tarptautiniais vidaus vandenų keliais (toliau – vežėjo
+
+dokumentas).
+
+3. Šio straipsnio 1 ir 2 dalių reikalavimai netaikomi
+
+vežant krovinius keleiviniais ir krovininiais keltais Lietuvos Respublikos ir
+
+tarptautiniais vidaus vandenų keliais.
+
+4. Šio straipsnio 1 ir 2 dalyse nurodyti subjektai,
+
+siekiantys verstis krovinių vežimu krovininiais vidaus vandenų laivais Lietuvos
+
+Respublikos ir tarptautiniais vidaus vandenų keliais, privalo atitikti šiuos
+
+reikalavimus:
+
+1) užtikrinti, kad laivai, kuriais ketinama vežti
+
+krovinius, atitiktų Lietuvos Respublikos ir tarptautinių teisės aktų nustatytus
+
+reikalavimus, ir turėti tai patvirtinančius dokumentus;
+
+2) turėti atitinkamus padalinius (specialistus), kurie
+
+galėtų organizuoti krovinių vežimą laivais ir užtikrinti saugų laivų
+
+eksploatavimą ir apsaugą, arba sudaryti sutartį su kitu subjektu, kuris turi
+
+nurodytus padalinius (specialistus) ir sutinka organizuoti krovinių vežimą
+
+laivais bei užtikrinti saugų laivų eksploatavimą ir apsaugą;
+
+3) laivų, kuriais ketinama vežti krovinius, įgulos
+
+turi būti sudarytos iš vidaus vandenų transporto specialistų, turinčių
+
+galiojančius dokumentus, patvirtinančius vidaus vandenų transporto specialistų
+
+įgytą kvalifikaciją ir teisę eiti atitinkamas pareigas laive.
+
+5. Leidimus išduoda Lietuvos saugios laivybos
+
+administracija.
+
+6. Šio straipsnio 1 dalyje nurodyti subjektai,
+
+siekiantys gauti leidimą, Lietuvos saugios laivybos administracijos nustatyta
+
+tvarka pateikia Lietuvos saugios laivybos administracijai tiesiogiai,
+
+registruotu laišku ar elektroninėmis priemonėmis (kreipdamiesi tiesiogiai arba
+
+į Paslaugų ir gaminių kontaktinį centrą) prašymą ir kitus reikalaujamus
+
+dokumentus, patvirtinančius atitiktį šio straipsnio 4 dalyje nustatytiems
+
+reikalavimams.
+
+7. Lietuvos saugios laivybos administracija, gavusi
+
+dokumentus, kurių reikia leidimui gauti, per 5 darbo dienas juos patikrina.
+
+Nustačiusi, kad pateikti dokumentai neatitinka nustatytų reikalavimų, pateikti
+
+ne visi dokumentai, dokumentuose yra netikslių ar klaidingų duomenų, Lietuvos
+
+saugios laivybos administracija nustato 5 darbo dienų terminą trūkumams
+
+pašalinti. Laikas, per kurį pareiškėjas pateikia trūkstamus dokumentus ir (ar)
+
+duomenis, į sprendimo išduoti leidimą priėmimo laiką neįskaitomas. Kai Lietuvos
+
+saugios laivybos administracija gauna visus reikalaujamus dokumentus ir
+
+duomenis, ne vėliau kaip per 7 darbo dienas Lietuvos saugios laivybos
+
+administracijos nustatyta tvarka sudaroma komisija, kuri per 10 darbo dienų patikrina
+
+Lietuvos Respublikos fizinių ir juridinių asmenų, taip pat Lietuvos
+
+Respublikoje veikiančių kitos Europos Sąjungos valstybės narės ar Pasaulio
+
+prekybos organizacijos valstybės narės juridinių asmenų ar kitų organizacijų
+
+padalinių atitiktį šio straipsnio 4 dalyje išdėstytiems reikalavimams ir surašo
+
+esamos būklės patikrinimo aktą. Nustačiusi, kad Lietuvos Respublikos fizinis ar
+
+juridinis asmuo arba Lietuvos Respublikoje veikiantis kitos Europos Sąjungos
+
+valstybės narės ar Pasaulio prekybos organizacijos valstybės narės juridinio
+
+asmens ar kitos organizacijos padalinys atitinka šio straipsnio 4 dalyje
+
+išdėstytus reikalavimus, Lietuvos saugios laivybos administracija per 3 darbo
+
+dienas išduoda jam leidimą.
+
+8. Leidimas neišduodamas, jeigu:
+
+1) Lietuvos Respublikos fizinis ar juridinis asmuo
+
+arba Lietuvos Respublikoje veikiantis kitos Europos Sąjungos valstybės narės ar
+
+Pasaulio prekybos organizacijos valstybės narės juridinio asmens ar kitos
+
+organizacijos padalinys neatitinka šio straipsnio 4 dalyje nustatytų
+
+reikalavimų;
+
+2) pateikiami ne visi pagal Lietuvos saugios laivybos
+
+administracijos nustatytą tvarką reikalaujami dokumentai ir Lietuvos
+
+Respublikos fizinis ar juridinis asmuo arba Lietuvos Respublikoje veikiantis
+
+kitos Europos Sąjungos valstybės narės ar Pasaulio prekybos organizacijos
+
+valstybės narės juridinio asmens ar kitos organizacijos padalinys per Lietuvos
+
+saugios laivybos administracijos nustatytą terminą nepateikė papildomų
+
+dokumentų ir informacijos, kurių reikia leidimui išduoti;
+
+3) pateikti dokumentai užpildyti neteisingai arba
+
+nurodyti klaidingi duomenys ir jie neištaisomi per Lietuvos saugios laivybos
+
+administracijos nustatytą terminą.
+
+9. Priėmus sprendimą neišduoti leidimo, apie tai per 3
+
+darbo dienas pranešama pareiškėjui, nurodant atsisakymo išduoti leidimą
+
+priežastis.
+
+10. Jeigu išdavus leidimą paaiškėja, kad leidimui
+
+gauti buvo pateikti netikslūs, klaidingi duomenys, Lietuvos saugios laivybos
+
+administracija nustato 5 darbo dienų terminą, per kurį leidimo turėtojas
+
+privalo patikslinti pateiktus duomenis, ir įspėja jį, kad jeigu per nustatytą
+
+terminą nebus patikslinti pateikti duomenys, leidimo galiojimas bus
+
+sustabdytas.
+
+11. Lietuvos saugios laivybos administracija turi
+
+teisę sustabdyti leidimo galiojimą, jeigu:
+
+1) leidimo turėtojas per nustatytą laiką nepatikslino
+
+pateiktų netikslių, klaidingų duomenų;
+
+2) paaiškėjo, kad leidimo turėtojas neatitinka šio
+
+straipsnio 4 dalyje nustatytų reikalavimų.
+
+12. Lietuvos saugios laivybos administracija turi
+
+teisę sustabdyti vežėjo dokumento galiojimą, jeigu paaiškėja, kad vežėjo
+
+dokumento turėtojas neatitinka šio straipsnio 4 dalyje nustatytų reikalavimų.
+
+13. Sustabdžiusi leidimo arba vežėjo dokumento
+
+galiojimą, Lietuvos saugios laivybos administracija per 3 darbo dienas apie tai
+
+praneša leidimo arba vežėjo dokumento turėtojui, informuoja kitos Europos
+
+Sąjungos valstybės narės ar Pasaulio prekybos organizacijos valstybės narės
+
+kompetentingą instituciją, išdavusią vežėjo dokumentą, ir:
+
+1) nustato 5 darbo dienų terminą (šis terminas gali
+
+būti pratęstas, jeigu leidimo turėtojas pateikia motyvuotą prašymą), per kurį
+
+leidimo turėtojas privalo patikslinti pateiktus duomenis;
+
+2) nustato 5 darbo dienų terminą (šis terminas gali
+
+būti pratęstas, jeigu leidimo arba vežėjo dokumento turėtojas pateikia
+
+motyvuotą prašymą), per kurį leidimo arba vežėjo dokumento turėtojas turi
+
+pašalinti trūkumus ir užtikrinti atitiktį šio straipsnio 4 dalyje
+
+išdėstytiems reikalavimams.
+
+14. Patikslinęs pateiktus duomenis, pašalinęs trūkumus
+
+ir užtikrinęs atitiktį šio straipsnio 4 dalyje išdėstytiems reikalavimams,
+
+leidimo arba vežėjo dokumento turėtojas apie tai informuoja Lietuvos saugios
+
+laivybos administraciją, kuri per 3 darbo dienas po šios informacijos
+
+patikrinimo priima sprendimą panaikinti leidimo arba vežėjo dokumento galiojimo
+
+sustabdymą.
+
+15. Lietuvos saugios laivybos administracija panaikina
+
+leidimo galiojimą, jeigu:
+
+1) leidimo turėtojas nutraukia krovinių vežimo
+
+krovininiais vidaus vandenų laivais Lietuvos Respublikos ir tarptautiniais
+
+vidaus vandenų keliais veiklą ir Lietuvos saugios laivybos administracijai
+
+pateikia prašymą panaikinti leidimo galiojimą;
+
+2) miršta fizinis ar likviduojamas juridinis asmuo
+
+arba Lietuvos Respublikoje veikiantis kitos Europos Sąjungos valstybės narės ar
+
+Pasaulio prekybos organizacijos valstybės narės juridinio asmens ar kitos
+
+organizacijos padalinys, kuris verčiasi krovinių vežimo krovininiais vidaus
+
+vandenų laivais Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais
+
+veikla;
+
+3) Lietuvos Respublikos fizinis ar juridinis asmuo
+
+arba Lietuvos Respublikoje veikiantis kitos Europos Sąjungos valstybės narės ar
+
+Pasaulio prekybos organizacijos valstybės narės juridinio asmens ar kitos
+
+organizacijos padalinys, kurio leidimo galiojimas buvo sustabdytas, per
+
+nustatytą terminą nepašalino trūkumų, neužtikrino atitikties šio straipsnio 4
+
+dalyje išdėstytiems reikalavimams ir apie tai neinformavo Lietuvos saugios
+
+laivybos administracijos;
+
+4) buvo sustabdytas leidimo galiojimas ir per vienus
+
+metus antrą kartą paaiškėjo, kad leidimo turėtojas neatitinka šio straipsnio 4
+
+dalyje nustatytų reikalavimų.
+
+16. Apie leidimo galiojimo panaikinimą ir jo
+
+priežastis Lietuvos saugios laivybos administracija Lietuvos Respublikos
+
+fiziniam ar juridiniam asmeniui arba Lietuvos Respublikoje veikiančiam kitos
+
+Europos Sąjungos valstybės narės ar Pasaulio prekybos organizacijos valstybės
+
+narės juridinio asmens ar kitos organizacijos padaliniui praneša per 3 darbo
+
+dienas nuo sprendimo panaikinti leidimo galiojimą priėmimo.
+
+17. Panaikinus leidimo galiojimą dėl šio straipsnio 15
+
+dalies 4 punkte nurodytos priežasties, naujas leidimas gali būti išduotas ne
+
+anksčiau kaip po vienų metų nuo sprendimo panaikinti leidimo galiojimą priėmimo
+
+dienos.
+
+18. Sustabdžius leidimo arba vežėjo dokumento
+
+galiojimą ar panaikinus leidimo galiojimą Lietuvos Respublikos fiziniam ar
+
+juridiniam asmeniui, Lietuvos Respublikoje veikiančiam Europos Sąjungos ar
+
+Pasaulio prekybos organizacijos valstybės narės juridinio asmens ar kitos
+
+organizacijos padaliniui, Europos Sąjungos ar Pasaulio prekybos organizacijos
+
+valstybės narės fiziniam ar juridiniam asmeniui, juridinio asmens ar kitos
+
+organizacijos padaliniui draudžiama vykdyti krovinių vežimo krovininiais vidaus
+
+vandenų laivais veiklą.
+
+19. Lietuvos saugios laivybos administracija, išdavusi
+
+leidimą, sustabdžiusi leidimo galiojimą, panaikinusi leidimo galiojimo
+
+sustabdymą ar panaikinusi leidimo galiojimą, per 3 darbo dienas apie tai
+
+skelbia savo interneto svetainėje. Skelbime nurodomi šie duomenys:
+
+1) fizinio asmens vardas, pavardė, gimimo metai arba
+
+juridinio asmens, juridinio asmens ar kitos organizacijos padalinio
+
+pavadinimas, kodas ir buveinė;
+
+2) leidimo numeris;
+
+3) leidimo išdavimo data, leidimo
+
+galiojimo sustabdymo data, leidimo galiojimo sustabdymo panaikinimo data,
+
+leidimo galiojimo panaikinimo data.
+
+Kodeksas papildytas straipsniu:
 
 Nr. VIII-1900, 00.08.29, Žin., 2000,
 
 Nr.75-2267 (00.09.07)
 
-Nr. VIII-1964, 00.09.26, Žin., 2000,
+Straipsnio pakeitimai:
 
-Nr.85-2585 (00.10.11)
+Nr. VIII-1964,
+
+00.09.26, Žin., 2000, Nr.85-2585 (00.10.11)
+
+Nr. X-224, 2005-05-26,
+
+Žin., 2005, Nr. 72-2589 (2005-06-09)
+
+Nr. XI-2132,
+
+2012-06-26, Žin., 2012, Nr. 77-3982 (2012-07-01)
 
 42 straipsnis. Krovinio priėmimas
 
@@ -1636,9 +1988,9 @@ krovinį sužalojus ar pablogėjus jo kokybei visiškai ar iš dalies negalima
 
 krovinio naudoti pagal tikslinę jo paskirtį.
 
-6. Jeigu perduodant krovinį gavėjui,
+6. Jeigu perduodant krovinį gavėjui, kyla
 
-kyla ginčų dėl krovinio plombų, krovinio būklės ar krovinio kiekio (svorio),
+ginčų dėl krovinio plombų, krovinio būklės ar krovinio kiekio (svorio),
 
 kviečiamas ekspertas.
 
@@ -1742,9 +2094,9 @@ BUKSYRAVIMAS
 
 1. Buksyravimo sutartyje laivo valdytojas
 
-įsipareigoja vilkti arba stumti (buksyruoti) laivą tam tikrą nuotolį ar tam
+įsipareigoja vilkti arba stumti (buksyruoti) laivą tam tikrą nuotolį ar tam tikrą
 
-tikrą laiką, taip pat atlikti manevrą, o stumiamo ar velkamo laivo valdytojas
+laiką, taip pat atlikti manevrą, o stumiamo ar velkamo laivo valdytojas
 
 įsipareigoja sumokėti nustatytą užmokestį.
 
@@ -1972,138 +2324,6 @@ Nr. XI-891,
 
 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
-4(1)
-
-straipsnis. Keleivių ir krovinių vežimas vidaus vandenų keliais, keleivių
-
-vežimo laivais vidaus vandenimis Lietuvos Respublikoje bei keleivių ir krovinių
-
-vežimo laivais vidaus vandenimis tarptautiniais maršrutais licencijavimas
-
-1. Vežti keleivius laivais
-
-Lietuvos Respublikos vidaus vandenimis turi teisę įmonės, įsteigtos Lietuvos
-
-Respublikoje ir turinčios licenciją verstis keleivių vežimu laivais vidaus
-
-vandenimis Lietuvos Respublikoje, taip pat įmonės, įsteigtos bet kurioje
-
-Europos Sąjungos ar Pasaulio prekybos organizacijos valstybėje narėje pagal
-
-šios valstybės narės įstatymus ir turinčios šios valstybės narės kompetentingų
-
-institucijų išduotą dokumentą, suteikiantį teisę vežti keleivius laivais vidaus
-
-vandenimis.
-
-2. Vežti keleivius ir
-
-krovinius laivais vidaus vandenimis tarptautiniais maršrutais turi teisę įmonės,
-
-įsteigtos Lietuvos Respublikoje ir turinčios licenciją verstis keleivių ir
-
-krovinių vežimu laivais vidaus vandenimis tarptautiniais maršrutais, taip pat
-
-įmonės, įsteigtos bet kurioje Europos Sąjungos ar Pasaulio prekybos
-
-organizacijos valstybėje narėje pagal šios valstybės narės įstatymus ir
-
-turinčios šios valstybės narės kompetentingų institucijų išduotą dokumentą,
-
-suteikiantį teisę vežti keleivius ir krovinius laivais vidaus vandenimis
-
-tarptautiniais maršrutais.
-
-3. Licencijas verstis
-
-keleivių vežimu laivais vidaus vandenimis Lietuvos Respublikoje arba verstis
-
-keleivių ir krovinių vežimu laivais vidaus vandenimis tarptautiniais maršrutais
-
-išduoda Susisiekimo ministerija arba jos įgaliota institucija licencijavimo
-
-taisyklių, patvirtintų Vyriausybės, nustatyta tvarka.
-
-4. Įmonė, siekianti verstis
-
-licencijuojama veikla, privalo atitikti šiuos reikalavimus:
-
-1) užtikrinti, kad laivai,
-
-kuriais ketinama vykdyti licencijuojamą veiklą, atitinka Lietuvos Respublikos
-
-teisės aktų nustatytus reikalavimus ir turi tai patvirtinančius dokumentus;
-
-2) turėti atitinkamus
-
-padalinius (specialistus), kurie galėtų organizuoti ir užtikrinti saugų
-
-keleivių ir krovinių vežimą laivais, taip pat saugų laivų eksploatavimą ir
-
-apsaugą, arba privalo sudaryti sutartį su kita įmone, kuri turi nurodytus
-
-padalinius (specialistus) ir sutinka užtikrinti šiam vežėjui saugų plaukiojimą;
-
-3) laivų, kuriais ketinama
-
-vykdyti licencijuojamą veiklą, įgulos turi būti sudarytos iš vidaus vandenų
-
-transporto specialistų, turinčių galiojančius dokumentus, kurie patvirtina
-
-vidaus vandenų transporto specialistų įgytą kvalifikaciją ir teisę eiti
-
-atitinkamas pareigas laive.
-
-5. Įmonė, siekianti gauti
-
-licenciją, Susisiekimo ministerijai arba jos įgaliotai institucijai
-
-licencijavimo taisyklių nustatyta tvarka pateikia nustatytos formos prašymą bei
-
-kitus taisyklėse nurodytus dokumentus.
-
-6. Licencija neišduodama,
-
-jeigu:
-
-1) įmonė neatitinka šio
-
-straipsnio 4 dalyje nustatytų reikalavimų;
-
-2) pateikiami ne visi
-
-dokumentai;
-
-3) pateikti dokumentai
-
-užpildyti neteisingai;
-
-4) pateiktuose dokumentuose
-
-yra nurodyta klaidingų duomenų.
-
-7. Priėmus sprendimą
-
-licencijos neišduoti, apie tai per 3 darbo dienas raštu pranešama pareiškėjui,
-
-nurodant atsisakymo išduoti licenciją priežastis.
-
-Kodeksas papildytas straipsniu:
-
-Nr. VIII-1900, 00.08.29, Žin., 2000,
-
-Nr.75-2267 (00.09.07)
-
-Straipsnio pakeitimai:
-
-Nr. VIII-1964,
-
-00.09.26, Žin., 2000, Nr.85-2585 (00.10.11)
-
-Nr. X-224, 2005-05-26,
-
-Žin., 2005, Nr. 72-2589 (2005-06-09)
-
 10 straipsnis. Tiltų, antvandeninių ir
 
 povandeninių komunikacijų valdytojų
@@ -2184,11 +2404,11 @@ Nr. X-224, 2005-05-26,
 
 kapitono pareigos įvykus avarijai
 
-Įvykus avarijai, buksyruojančio laivo kapitonas
+Įvykus avarijai, buksyruojančio laivo
 
-privalo imtis visų priemonių žmonių saugumui užtikrinti, avarijai likviduoti,
+kapitonas privalo imtis visų priemonių žmonių saugumui užtikrinti, avarijai
 
-nesavaeigiam laivui išsaugoti.
+likviduoti, nesavaeigiam laivui išsaugoti.
 
 59 straipsnis. Atsakomybė už keleivio
 
@@ -2202,11 +2422,11 @@ pavojaus šaltinio, jeigu nėra įrodymų, kad žala atsirado dėl nenugalimos j
 
 arba nukentėjusiojo tyčios.
 
-2. Vežėjas atsako už žalą, kuri padaryta keleiviui
+2. Vežėjas atsako už žalą, kuri padaryta
 
-laive arba įsodinimo ar išlaipinimo iš jo metu, neatsižvelgiant į tai, ar
+keleiviui laive arba įsodinimo ar išlaipinimo iš jo metu, neatsižvelgiant į
 
-laivas plaukė, ar stovėjo.
+tai, ar laivas plaukė, ar stovėjo.
 
 60 straipsnis. Žalos, padarytos keleivio
 
@@ -2262,7 +2482,9 @@ susidūrimas.
 
 2. Žalą, padarytą keleiviams, kroviniui ar
 
-bagažui susidūrus keliems laivams, solidariai atlygina dėl to kalti laivų valdytojai.
+bagažui susidūrus keliems laivams, solidariai atlygina dėl to kalti laivų
+
+valdytojai.
 
 69 straipsnis. Pretenzijų ir ieškinių dėl
 
@@ -2328,11 +2550,11 @@ atsakomybę pagal baudžiamuosius įstatymus.
 
 ar sunaikinęs vidaus vandenų keliuose ar uostų akvatorijose navigacinius
 
-įrenginius ar hidrotechninius statinius, privalo atlyginti žalą, taip pat avarijų,
+įrenginius ar hidrotechninius statinius, privalo atlyginti žalą, taip pat
 
-įvykusių dėl navigacinio ar uosto įrenginio sugadinimo, pasekmių likvidavimo
+avarijų, įvykusių dėl navigacinio ar uosto įrenginio sugadinimo, pasekmių
 
-išlaidas.
+likvidavimo išlaidas.
 
 74 straipsnis. Neteko galios nuo 2002 m. gruodžio 24 d.
 
@@ -2405,8 +2627,6 @@ pakeitimas:
 Nr. X-1790,
 
 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
-
-_____________
 
 Pakeitimai:
 
@@ -2502,9 +2722,9 @@ Nr. IX-1942,
 
 2003-12-22, Žin., 2004, Nr. 4-45 (2004-01-07)
 
-VIDAUS VANDENŲ TRANSPORTO KODEKSO 7 STRAIPSNIO PAKEITIMO
+VIDAUS VANDENŲ TRANSPORTO KODEKSO 7 STRAIPSNIO
 
-ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 6.
 
@@ -2566,9 +2786,9 @@ Nr. XI-720,
 
 2010-04-01, Žin., 2010, Nr. 41-1943 (2010-04-10)
 
-VIDAUS VANDENŲ TRANSPORTO
+VIDAUS VANDENŲ TRANSPORTO KODEKSO
 
-KODEKSO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Šis
 
@@ -2594,11 +2814,39 @@ PAKEITIMO ĮSTATYMAS
 
 įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2010 m. liepos 1 d.
 
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2132,
+
+2012-06-26, Žin., 2012, Nr. 77-3982 (2012-07-01)
+
+VIDAUS VANDENŲ TRANSPORTO KODEKSO 4(1) IR 16
+
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2012 m. liepos 1 d.
+
+Pastaba: Asmenys, iki šio įstatymo įsigaliojimo gavę licenciją verstis krovinių
+
+vežimu laivais Lietuvos Respublikoje arba vidaus vandenimis tarptautiniais
+
+maršrutais, gali ir toliau vykdyti šią veiklą. Asmens prašymu Lietuvos saugios
+
+laivybos administracija turimą licenciją pakeičia šiuo įstatymu keičiamo
+
+Lietuvos Respublikos vidaus vandenų transporto kodekso 41 straipsnyje nurodytu
+
+leidimu verstis krovinių vežimu krovininiais vidaus vandenų laivais Lietuvos
+
+Respublikos ir tarptautiniais vidaus vandenų keliais.
+
 *** Pabaiga ***
 
-Redagavo Aušrinė Trapinskienė
+Redagavo Aušra Bodin (2012-07-03)
 
-(2010-06-22)
-
-autrap@lrs.lt
+aubodi@lrs.lt
 
