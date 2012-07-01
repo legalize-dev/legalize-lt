@@ -4,7 +4,7 @@ identifier: "TAR.FD474D5CE327"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-18"
-last_updated: "2010-10-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FD474D5CE327"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos sodininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2010-10-01
+Suvestinė redakcija nuo 2012-07-01 iki 2012-07-12
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-40, i. k. 1031010ISTA0IX-1934
 
@@ -144,6 +144,26 @@ Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA
 Straipsnio dalies pakeitimai:
 
 Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
+
+Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
+
+7. Pastatai gali būti statomi, jeigu neviršijami šie rodikliai:
+
+1) sklypo užstatymo didžiausias tankumas – 30 proc.;
+
+2) gyvenamojo pastato ar sodo namo didžiausias aukštis – 8,5 m;
+
+3) priklausinio (pastato) didžiausias aukštis – 6 m;
+
+4) priklausinio (pastato), priskiriamo nesudėtingiems statiniams, didžiausias aukštis – 5 m.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
+
+8. Nauji gyvenamieji namai gali būti statomi ne mažesniame kaip 0,04 ha sodo sklype.
+
+Papildyta straipsnio dalimi:
 
 Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
 
