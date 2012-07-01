@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2012-06-30"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2012-06-30 iki 2012-06-30
+Suvestinė redakcija nuo 2012-07-01 iki 2013-02-28
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -514,7 +514,11 @@ Elektros energetikos sektorių sudaro elektros energijos vartotojai, gamintojai,
 
 1) tinklų operatoriui patvirtinus gamintojo elektros įrenginių prijungimo prie perdavimo ar skirstomųjų tinklų galimybę arba pareiškėjui pateikus dokumentus, pagrindžiančius planuojamą prisijungimą prie veikiančios tiesioginės linijos, ar kartu pateikiant prašymą leidimui tiesti tiesioginę liniją gauti;
 
-2) nuosavybės teise turintiems ar kitais teisėtais pagrindais valdantiems žemės sklypą teritorijoje, kurioje numatoma verstis šiame įstatyme nustatyta leidimais reguliuojama veikla.
+2) nuosavybės teise turintiems ar kitais teisėtais pagrindais valdantiems žemės sklypą teritorijoje, kurioje numatoma verstis šiame įstatyme nustatyta leidimais reguliuojama veikla, arba turintiems pastato bendraturčių ar savininko sutikimą dėl elektrinės statybos ir jos eksploatavimo, kai elektros energijos gamybos įrenginius planuojama įrengti ant pastato ar jo konstrukcijos dalies.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2095, 2012-06-21, Žin., 2012, Nr. 76-3938 (2012-06-30), i. k. 1121010ISTA0XI-2095
 
 10. Asmenims, numatantiems plėsti (įrengti) elektros energijos gamybos pajėgumus, kurių įrengtoji suminė (elektrinė ir šiluminė) galia neviršija 30 kW, leidimas plėtoti elektros energijos gamybos pajėgumus išduodamas supaprastinta tvarka pagal Vyriausybės ar jos įgaliotos institucijos patvirtintas Veiklos elektros energetikos sektoriuje leidimų išdavimo taisykles.
 
