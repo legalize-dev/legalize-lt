@@ -4,7 +4,7 @@ identifier: "TAR.1FEF229DA7C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2011-01-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2011-01-01 iki 2012-06-30
+Suvestinė redakcija nuo 2012-07-01 iki 2012-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
 
@@ -84,7 +84,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
 
-5. Dokumentas – juridinio ar fizinio asmens veiklos procese užfiksuota informacija, nepaisant jos pateikimo būdo, formos ir laikmenos.
+5. Dokumentas – Lietuvos Respublikoje ar užsienio valstybėje įsteigto juridinio asmens, kitos organizacijos ar jų padalinio (toliau – juridinis asmuo) ar fizinio asmens veiklos procese užfiksuota informacija, nepaisant jos pateikimo būdo, formos ir laikmenos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -102,11 +106,15 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
 
-8. Dokumentų saugojimo paslauga – kitų asmenų dokumentų saugojimas pagal licencijos turėtojo sutartinius įsipareigojimus ir teisės aktų nustatytus reikalavimus specialiose patalpose siekiant užtikrinti dokumentų autentiškumą, patikimumą ir prieinamumą visą jų saugojimo laiką.
+8. Dokumentų saugojimo paslauga – kitų asmenų dokumentų saugojimas specialiose saugyklose pagal licencijos turėtojo sutartinius įsipareigojimus ir teisės aktų nustatytus reikalavimus, siekiant užtikrinti saugomų dokumentų autentiškumą, patikimumą ir prieinamumą visą jų saugojimo laiką.
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 9. Dokumentų tvarkymo paslauga – kitų asmenų dokumentų sisteminimas, bylų tvarkymas ir bylų apskaitos rengimas teisės aktų, reglamentuojančių dokumentų valdymą, nustatyta tvarka.
 
@@ -128,7 +136,13 @@ Papildyta straipsnio dalimi:
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
-12. Kontekstinė informacija – informacija apie dokumento sandarą, turinį ir aplinką, sudaranti būtinas ir pakankamas sąlygas dokumento autentiškumui ir prieinamumui užtikrinti.
+12. Ilgai saugomi dokumentai – dokumentai, kurių nustatytas saugojimo terminas nuo 26 iki 100 metų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+13. Kontekstinė informacija – informacija apie dokumento sandarą, turinį ir aplinką, sudaranti būtinas ir pakankamas sąlygas dokumento autentiškumui ir prieinamumui užtikrinti.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -136,7 +150,9 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
-13. Nevalstybinės organizacijos – politinės partijos, asociacijos, kitos organizacijos ir susivienijimai, sudaryti narių poreikiams ir viešiems interesams tenkinti.
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+14. Nevalstybinės organizacijos – politinės partijos, asociacijos, kitos organizacijos ir susivienijimai, sudaryti narių poreikiams ir viešiems interesams tenkinti.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -144,7 +160,13 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
-14. Nuolatinis saugojimas – išliekamąją vertę turinčių dokumentų saugojimas neribotą laiką.
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+15. Nuolat saugomi dokumentai – dokumentai, kuriuos nustatyta saugoti neribotą laiką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -152,7 +174,7 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
-15. Oficialus dokumentas – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens vykdant teisės norminių aktų nustatytus įgaliojimus sudarytas, patvirtintas ar gautas dokumentas, įtrauktas į apskaitą.
+16. Oficialus dokumentas – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens vykdant teisės norminių aktų nustatytus įgaliojimus sudarytas, patvirtintas ar gautas dokumentas, įtrauktas į apskaitą.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -160,7 +182,9 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
-16. Priėjimas prie dokumentų – teisė susipažinti su dokumentais įstatymų ir kitų teisės norminių aktų nustatyta tvarka.
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+17. Priėjimas prie dokumentų – teisė susipažinti su dokumentais įstatymų ir kitų teisės norminių aktų nustatyta tvarka.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -168,7 +192,9 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
-17. Specialios įrangos priemonės – dokumentų saugojimo ir (ar) peržiūrėjimo programinė ir techninė įranga.
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+18. Specialios įrangos priemonės – dokumentų saugojimo ir (ar) peržiūrėjimo programinė ir techninė įranga.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -176,7 +202,9 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
-18. Saugojimo terminas – laikas, kurį dokumentas turi būti išsaugotas.
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+19. Saugojimo terminas – laikas, kurį dokumentas turi būti išsaugotas.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -184,7 +212,21 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
-19. Valstybės įgalioti asmenys – asmenys, atliekantys valstybės suteiktas įstatymų nustatytas funkcijas (antstoliai, notarai).
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+20. Trumpai saugomi dokumentai – dokumentai, kurių nustatytas saugojimo terminas nuo 1 iki 25 metų įskaitytinai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+21. Valstybė narė – bet kuri Europos Sąjungos valstybė narė ar kita Europos ekonominės erdvės valstybė.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+22. Valstybės įgalioti asmenys – asmenys, atliekantys valstybės suteiktas įstatymų nustatytas funkcijas (antstoliai, notarai).
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -192,7 +234,9 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
-20. Valstybės ir savivaldybių institucijos, įstaigos, įmonės – valstybės ir savivaldybių institucijos ir įstaigos, finansuojamos iš valstybės ar savivaldybių biudžetų, valstybės pinigų fondų, valstybės ir savivaldybių įmonės.
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+23. Valstybės ir savivaldybių institucijos, įstaigos, įmonės – valstybės ir savivaldybių institucijos ir įstaigos, finansuojamos iš valstybės ar savivaldybių biudžetų, valstybės pinigų fondų, valstybės ir savivaldybių įmonės.
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -200,13 +244,17 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
-21. Veiklos dokumentai – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens, nevalstybinės organizacijos, privataus juridinio asmens vykdant veiklą sudaryti, patvirtinti, gauti, iš kitų juridinių ar fizinių asmenų perimti dokumentai.
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+24. Veiklos dokumentai – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens, nevalstybinės organizacijos, privataus juridinio asmens vykdant veiklą sudaryti, patvirtinti, gauti, iš kitų juridinių ar fizinių asmenų perimti dokumentai.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 3 straipsnis. Nacionalinis dokumentų fondas
 
@@ -244,9 +292,9 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 1. Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė):
 
-1) tvirtina ilgalaikes valstybines Nacionalinio dokumentų fondo saugojimo programas;
+1) nustato dokumentų ir archyvų valdymo ir naudojimo srities plėtros kryptis bei prioritetus, tvirtindama strateginio planavimo dokumentus;
 
-2) tvirtina Dokumentų tvarkymo ir (ar) saugojimo paslaugų licencijų išdavimo ir panaikinimo, dokumentų ir licencijos grąžinimo tvarkos aprašą;
+2) tvirtina Licencijų išdavimo, galiojimo sustabdymo, galiojimo panaikinimo tvarkos aprašą;
 
 3) tvirtina Dokumentų išvežimo iš Lietuvos Respublikos tvarkos aprašą;
 
@@ -254,29 +302,33 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 5) formuoja Europos Sąjungos dokumentų ir archyvų valdymo ir naudojimo srities politiką Lietuvoje;
 
-6) steigia Lietuvos vyriausiojo archyvaro tarnybą ir paveda Lietuvos Respublikos kultūros ministrui (toliau – kultūros ministras) įgyvendinti dalį šios įstaigos savininko teisių ir pareigų;
+6) steigia, reorganizuoja, pertvarko ir likviduoja Lietuvos vyriausiojo archyvaro tarnybą ir paveda Lietuvos Respublikos kultūros ministerijai (toliau – Kultūros ministerija) įgyvendinti dalį šios įstaigos savininko teisių ir pareigų;
 
-7) tvirtina Lietuvos vyriausiojo archyvaro tarnybos nuostatus, teisės aktų nustatyta tvarka nustato didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, skaičių;
+7) tvirtina Lietuvos vyriausiojo archyvaro tarnybos nuostatus, teisės aktų nustatyta tvarka nustato didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių;
 
 8) Vyriausybės įstatymo nustatyta tvarka skiria ir atleidžia Lietuvos vyriausiąjį archyvarą;
 
-9) Lietuvos vyriausiojo archyvaro teikimu steigia valstybės archyvus ir paveda kultūros ministrui įgyvendinti dalį šių įstaigų savininko teisių ir pareigų;
+9) Lietuvos vyriausiojo archyvaro teikimu steigia valstybės archyvus ir paveda Kultūros ministerijai įgyvendinti dalį šių įstaigų savininko teisių ir pareigų;
 
-10) atlieka ir kitas teisės aktuose nustatytas dokumentų ir archyvų valstybinio administravimo funkcijas.
+10) tvirtina Lietuvos vyriausiojo archyvaro tarnybos administracijos struktūrą arba paveda ją tvirtinti Lietuvos vyriausiajam archyvarui;
 
-2. Kultūros ministras:
+11) atlieka kitas teisės aktuose nustatytas dokumentų ir archyvų valstybinio administravimo funkcijas.
 
-1) dalyvauja formuojant ir įgyvendina valstybės politiką dokumentų ir archyvų valdymo ir naudojimo srityje;
+2. Kultūros ministerija:
 
-2) dalyvauja formuojant ir įgyvendina valstybės politiką Europos Sąjungos dokumentų ir archyvų valdymo ir naudojimo srityje;
+1) formuoja valstybės politiką dokumentų ir archyvų valdymo ir naudojimo srityje;
 
-3) rengia ir teikia Vyriausybei tvirtinti ilgalaikes valstybines Nacionalinio dokumentų fondo saugojimo programas;
+2) formuoja kino paveldo apsaugos politiką ir koordinuoja valstybės kino metraščio kūrimą pagal numatytus tikslinius valstybės biudžeto asignavimus ir kultūros ministro nustatytą metraščio kūrimo tvarkos aprašą;
 
-4) Vyriausybės pavedimu įgyvendina dalį Lietuvos vyriausiojo archyvaro tarnybos ir valstybės archyvų savininko teisių ir pareigų;
+3) dalyvauja formuojant ir įgyvendina valstybės politiką Europos Sąjungos dokumentų ir archyvų valdymo ir naudojimo srityje;
 
-5) atlieka kitas teisės aktuose nustatytas dokumentų ir archyvų valstybinio administravimo funkcijas.
+4) koordinuoja strateginio planavimo dokumentų rengimą ir įgyvendinimą dokumentų ir archyvų valdymo ir naudojimo srityje;
 
-3. Lietuvos vyriausiasis archyvaras – atskaitingas kultūros ministrui Lietuvos vyriausiojo archyvaro tarnybos vadovas:
+5) Vyriausybės pavedimu įgyvendina dalį Lietuvos vyriausiojo archyvaro tarnybos ir valstybės archyvų savininko teisių ir pareigų;
+
+6) atlieka kitas teisės aktuose nustatytas dokumentų ir archyvų valstybinio administravimo funkcijas.
+
+3. Lietuvos vyriausiasis archyvaras – atskaitingas Lietuvos Respublikos kultūros ministrui (toliau – kultūros ministras) Lietuvos vyriausiojo archyvaro tarnybos vadovas:
 
 1) dalyvauja formuojant valstybės politiką dokumentų ir archyvų valdymo ir naudojimo srityje ir ją įgyvendina;
 
@@ -284,7 +336,7 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 3) užtikrina Europos Sąjungos dokumentų valdymo ir naudojimo srities teisės aktų vykdymą Lietuvoje;
 
-4) reglamentuoja dokumentų ir archyvų valstybinio valdymo srities administravimą, teikia derinimo išvadas kitų valstybės institucijų ir įstaigų parengtiems su archyvų ir dokumentų valdymo politika susijusiems teisės aktų projektams, kitiems dokumentams;
+4) reglamentuoja dokumentų ir archyvų valstybinio valdymo srities administravimą, teikia derinimo išvadas dėl kitų valstybės institucijų ir įstaigų parengtų su archyvų ir dokumentų valdymo politika susijusių teisės aktų projektų, kitų dokumentų;
 
 5) kontroliuoja, kaip administruojamas Nacionalinis dokumentų fondas;
 
@@ -292,17 +344,19 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 7) sprendžia valstybės ir savivaldybių institucijų, įstaigų ir įmonių veiklos dokumentų perdavimo klausimus;
 
-8) turi teisę iš valstybės ir savivaldybių institucijų, įstaigų ir įmonių, valstybės įgaliotų asmenų, nevalstybinių organizacijų, privačių juridinių asmenų gauti informaciją, susijusią su nustatytų uždavinių ir pavestų funkcijų vykdymu;
+8) koordinuoja kino paveldo kaupimą, saugojimą ir naudojimą;
 
-9) tvirtina Lietuvos vyriausiojo archyvaro tarnybos administracijos struktūrą, yra Lietuvos vyriausiojo archyvaro tarnybai ir valstybės archyvams skirtų biudžeto asignavimų valdytojas;
+9) turi teisę iš valstybės ir savivaldybių institucijų, įstaigų ir įmonių, valstybės įgaliotų asmenų, nevalstybinių organizacijų, privačių juridinių asmenų gauti informaciją, susijusią su nustatytų uždavinių ir pavestų funkcijų vykdymu;
 
-10) atlieka teisės aktuose nustatytas Lietuvos vyriausiojo archyvaro tarnybos, dokumentų ir archyvų valstybinio administravimo funkcijas.
+10) yra Lietuvos vyriausiojo archyvaro tarnybai ir valstybės archyvams skirtų biudžeto asignavimų valdytojas;
+
+11) atlieka teisės aktuose nustatytas Lietuvos vyriausiojo archyvaro tarnybos, dokumentų ir archyvų valstybinio administravimo funkcijas.
 
 4. Valstybės archyvai:
 
 1) atlieka viešojo administravimo funkcijas, susijusias su šio ir kitų įstatymų nuostatų, priskirtų valstybės archyvų kompetencijai, įgyvendinimu;
 
-2) kaupia, saugo, tiria ir populiarina Nacionalinio dokumentų fondo nuolatinio saugojimo dokumentus;
+2) kaupia, saugo, tiria ir populiarina Nacionalinio dokumentų fondo nuolat saugomus dokumentus;
 
 3) įstatymų nustatyta tvarka užtikrina visuomenės priėjimą prie valstybės archyvuose saugomų dokumentų;
 
@@ -312,13 +366,15 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 6) pagal kompetenciją prižiūri teisės aktuose nustatytą dokumentų ir archyvų valdymo ir naudojimo reikalavimų įgyvendinimą;
 
-7) pagal kompetenciją įgyvendina Europos Sąjungos teisės aktų nuostatas dokumentų valdymo ir naudojimo srityje;
+7) pagal kompetenciją užtikrina originalios filmų medžiagos kaupimą, saugojimą ir jos naudojimą įstatymų nustatyta tvarka;
 
-8) turi teisę iš valstybės ir savivaldybių institucijų, įstaigų ir įmonių, valstybės įgaliotų asmenų, nevalstybinių organizacijų, privačių juridinių asmenų gauti informaciją, susijusią su savo uždavinių ir funkcijų vykdymu;
+8) pagal kompetenciją įgyvendina Europos Sąjungos teisės aktų nuostatas dokumentų valdymo ir naudojimo srityje;
 
-9) turi teisę sudaryti sutartis su Lietuvos Respublikos ir užsienio valstybių juridiniais ir fiziniais asmenimis;
+9) turi teisę iš valstybės ir savivaldybių institucijų, įstaigų ir įmonių, valstybės įgaliotų asmenų, nevalstybinių organizacijų, privačių juridinių asmenų gauti informaciją, susijusią su savo uždavinių ir funkcijų vykdymu;
 
-10) turi kitų teisės aktuose nustatytų teisių.
+10) turi teisę sudaryti sutartis su Lietuvos Respublikos ir užsienio valstybių juridiniais ir fiziniais asmenimis;
+
+11) turi kitų teisės aktuose nustatytų teisių.
 
 5. Archyvų taryba – ekspertinė institucija, patarianti kultūros ministro kompetencijai priskirtais šio Įstatymo įgyvendinimo klausimais ir veikianti visuomeniniais pagrindais. Archyvų tarybą sudaro valstybės archyvų deleguoti ir kultūros ministro paskirti asmenys. Archyvų tarybos personalinę sudėtį ir jos veiklos nuostatus tvirtina kultūros ministras. Archyvų taryba kultūros ministrui pataria dėl:
 
@@ -333,6 +389,8 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 Straipsnio pakeitimai:
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 6 straipsnis. Lietuvos vyriausiojo archyvaro tarnybos teisinis statusas
 
@@ -350,7 +408,11 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 7 straipsnis. Valstybės archyvai
 
-1. Valstybės archyvai yra biudžetinės įstaigos, pavaldžios ir atskaitingos Lietuvos vyriausiajam archyvarui. Valstybės archyvus įstatymų nustatyta tvarka steigia, valstybės archyvų nuostatus ir administracijų struktūras tvirtina Vyriausybė, konkretų valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, skaičių nustato Lietuvos vyriausiasis archyvaras. Valstybės archyvų direktorius į pareigas skiria ir iš jų atleidžia Lietuvos vyriausiasis archyvaras įstatymų nustatyta tvarka.
+1. Valstybės archyvai yra biudžetinės įstaigos, pavaldžios ir atskaitingos Lietuvos vyriausiajam archyvarui. Valstybės archyvus įstatymų nustatyta tvarka steigia, valstybės archyvų nuostatus tvirtina Vyriausybė, administracijų struktūras ir konkretų valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių nustato Lietuvos vyriausiasis archyvaras, neviršydamas Vyriausybės patvirtinto bendro didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičiaus Lietuvos vyriausiojo archyvaro tarnybai pavaldžiose įstaigose. Valstybės archyvų direktorius į pareigas skiria ir iš jų atleidžia Lietuvos vyriausiasis archyvaras įstatymų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 2. Valstybės archyvai yra viešieji juridiniai asmenys, turintys sąskaitų bankuose ir antspaudą su Lietuvos valstybės herbu ir savo pavadinimu.
 
@@ -360,13 +422,15 @@ Straipsnio pakeitimai:
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
-8 straipsnis. Valstybės archyvų ir kitų įstatymų nustatyta tvarka Kultūros ministerijos įsteigtų įstaigų mokamos paslaugos
+8 straipsnis. Valstybės archyvų mokamos paslaugos
 
-Valstybės archyvai ir kitos Kultūros ministerijos įsteigtos įstaigos gali teikti mokamas dokumentų saugojimo, tvarkymo, paieškos, restauravimo, kopijavimo, konvertavimo, demonstravimo, taip pat mokymo ir konsultavimo paslaugas. Detalų mokamų paslaugų sąrašą, jų įkainius ir teikimo tvarką Lietuvos vyriausiojo archyvaro teikimu nustato kultūros ministras.
+Valstybės archyvai gali teikti mokamas dokumentų saugojimo, tvarkymo, paieškos, restauravimo, kopijavimo, konvertavimo, demonstravimo, taip pat mokymo ir konsultavimo paslaugas. Detalų mokamų paslaugų sąrašą, jų įkainius ir teikimo tvarką Lietuvos vyriausiojo archyvaro teikimu nustato kultūros ministras.
 
 Straipsnio pakeitimai:
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 9 straipsnis. Neteko galios nuo 2011-01-01
 
@@ -380,7 +444,11 @@ DOKUMENTŲ VALDYMAS IR PERDAVIMAS
 
 10 straipsnis. Dokumentų valdymo organizavimas
 
-1. Valstybės ar savivaldybės institucijos, įstaigos ar įmonės veiklos dokumentai turi būti efektyviai valdomi ir prieinami jos pačios ir kitų asmenų poreikiams tenkinti, apsaugoti nuo sugadinimo, praradimo, neteisėto naudojimo, pakeitimo, naikinimo. Už valstybės ar savivaldybės institucijos, įstaigos ar įmonės dokumentų valdymo organizavimą teisės norminių aktų nustatyta tvarka atsako tos institucijos, įstaigos ar įmonės vadovas ar kitas įgaliotas asmuo (toliau – vadovas).
+1. Valstybės ar savivaldybės institucijos, įstaigos ar įmonės veiklos dokumentai turi būti efektyviai valdomi ir prieinami jos pačios ir kitų asmenų poreikiams tenkinti, apsaugoti nuo sugadinimo, praradimo, neteisėto naudojimo, pakeitimo, sunaikinimo. Už valstybės ar savivaldybės institucijos, įstaigos ar įmonės dokumentų valdymo organizavimą teisės norminių aktų nustatyta tvarka atsako tos institucijos, įstaigos ar įmonės vadovas ar kitas tos institucijos, įstaigos ar įmonės įgaliotas asmuo (toliau – vadovas).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 2. Valstybės ar savivaldybės institucijos, įstaigos ar įmonės vadovas privalo:
 
@@ -388,17 +456,19 @@ DOKUMENTŲ VALDYMAS IR PERDAVIMAS
 
 2) paskirti už veiklos dokumentų registravimą, tvarkymą, apskaitą, saugojimą ir naikinimą atsakingus asmenis ir nustatyti jų įgaliojimus.
 
-3. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, perduodančios nuolatinio saugojimo dokumentus į valstybės archyvus, su jais derina:
+3. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, perduodančios valstybės archyvams nuolat saugomus dokumentus ir ilgai saugomus elektroninius dokumentus, per Elektroninio archyvo informacinę sistemą su valstybės archyvais derina dokumentacijos planų duomenis ir šio straipsnio 2 dalies 1 punkte nurodytų apskaitos dokumentų duomenis.
 
-1) teisės aktus, kuriais nustatomi šio straipsnio 2 dalies 1 punkte nurodyti dokumentai;
+Straipsnio dalies pakeitimai:
 
-2) dokumentacijos planus, apskaitos dokumentus, kompiuterizuotas dokumentų valdymo sistemas.
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
-4. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, neperduodančios dokumentų į valstybės archyvus, šio straipsnio 3 dalies 1 ir 2 punktuose nurodytus dokumentus derina su jų steigėjo funkcijas atliekančia ar jos įgaliota institucija ar įstaiga.
+4. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, neperduodančios dokumentų valstybės archyvams, šio straipsnio 2 dalies 1 punkte nurodytus apskaitos dokumentus ir dokumentacijos planus derina su tos institucijos, įstaigos ar įmonės savininko teises ir pareigas įgyvendinančia institucija ar jos įgaliota įstaiga.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1497, 2008-04-15, Žin., 2008, Nr. 50-1846 (2008-04-30), i. k. 1081010ISTA00X-1497
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 5. Valstybės įgalioti asmenys veiklos dokumentų valdymą organizuoja šio ir įgaliojimus suteikiančių įstatymų nustatyta tvarka tiek, kiek jie neprieštarauja šiam Įstatymui.
 
@@ -448,11 +518,13 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 1. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, nevalstybinės organizacijos ir privatūs juridiniai asmenys veiklos dokumentų saugojimo terminus nustato vadovaudamiesi įstatymų ir kitų teisės norminių aktų reikalavimais. Jei šie reikalavimai nėra nustatyti, dokumentų saugojimo terminai nustatomi atsižvelgiant į valstybės ir savivaldybių institucijų, įstaigų ir įmonių, nevalstybinių organizacijų, privačių juridinių asmenų ir kitų susijusių asmenų prievoles ir teisėtus interesus.
 
-2. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių vidaus administravimo dokumentų, nevalstybinių organizacijų ir privačių juridinių asmenų veiklos dokumentų, kurių rengimą nustato norminiai teisės aktai, saugojimo terminų rodykles rengia ir, suderinęs su suinteresuotais centriniais valstybinio administravimo subjektais, tvirtina Lietuvos vyriausiasis archyvaras.
+2. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių vidaus administravimo dokumentų ir nevalstybinių organizacijų ir privačių juridinių asmenų vidaus administravimo dokumentų, kurių rengimą nustato teisės norminiai aktai, saugojimo terminų rodykles rengia ir suderinęs su suinteresuotais centriniais valstybinio administravimo subjektais tvirtina Lietuvos vyriausiasis archyvaras.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 3. Centriniai valstybinio administravimo subjektai rengia ir, suderinę su Lietuvos vyriausiuoju archyvaru, tvirtina šiems subjektams priskirtoje srityje susidarančių dokumentų saugojimo terminų rodykles.
 
@@ -460,11 +532,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
-4. Sprendimą dėl dokumentų nuolatinio saugojimo priima Lietuvos vyriausiasis archyvaras ar jo įgalioti valstybės archyvai.
+4. Sprendimą, kurie valstybės ir savivaldybių institucijų, įstaigų, įmonių, nevalstybinių organizacijų ir privačių juridinių asmenų veiklos dokumentai turi būti saugomi nuolat, priima Lietuvos vyriausiasis archyvaras ar jo įgalioti valstybės archyvai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 14 straipsnis. Dokumentų naikinimas
 
@@ -480,13 +554,13 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 2. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės sprendimus dėl dokumentų naikinimo turi suderinti su:
 
-1) valstybės archyvu, kuriam perduoda nuolatinio saugojimo dokumentus;
+1) valstybės archyvu, kuriam perduoda nuolat saugomus dokumentus;
 
-2) steigėjo funkcijas atliekančia ar jos įgaliota institucija ar įstaiga, kai dokumentai valstybės archyvams neperduodami.
+2) savininko teises ir pareigas įgyvendinančia institucija ar jos įgaliota įstaiga, kai dokumentai valstybės archyvams neperduodami.
 
-Straipsnio punkto pakeitimai:
+Straipsnio dalies pakeitimai:
 
-Nr. X-1497, 2008-04-15, Žin., 2008, Nr. 50-1846 (2008-04-30), i. k. 1081010ISTA00X-1497
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 3. Naikinti atrinkti valstybės ir savivaldybių institucijų, įstaigų ir įmonių dokumentai turi būti sunaikinti.
 
@@ -498,17 +572,17 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 15 straipsnis. Dokumentų perdavimas valstybės archyvams saugoti
 
-1. Nuolatinio saugojimo veiklos dokumentus valstybės archyvams perduoda Lietuvos Respublikos Seimas, Respublikos Prezidentas, jų įsteigtos institucijos ir įstaigos, Lietuvos Respublikos Vyriausybė, teismai, Lietuvos bankas, ministerijos ir Vyriausybės įstaigos, kariuomenės, teisėsaugos institucijos ir įstaigos, kiti centriniai ir teritoriniai valstybinio administravimo ir savivaldybių administravimo subjektai, viešąsias paslaugas teikiančios įstaigos ir įmonės, kurių veikloje susidaro nuolatinio saugojimo dokumentai. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių, perduodančių dokumentus valstybės archyvams nuolat saugoti, sąrašą tvirtina Lietuvos vyriausiasis archyvaras.
+1. Nuolat saugomus dokumentus ir ilgai saugomus elektroninius veiklos dokumentus valstybės archyvams perduoda Lietuvos Respublikos Seimas, Respublikos Prezidentas, jų įsteigtos institucijos ir įstaigos, Lietuvos Respublikos Vyriausybė, teismai, Lietuvos bankas, ministerijos ir Vyriausybės įstaigos, kariuomenės, teisėsaugos institucijos ir įstaigos, kiti centriniai ir teritoriniai valstybinio administravimo ir savivaldybių administravimo subjektai, viešąsias paslaugas teikiančios įstaigos ir įmonės, kurių veikloje susidaro nuolat saugomų dokumentų ir ilgai saugomų elektroninių dokumentų. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių, perduodančių dokumentus valstybės archyvams, sąrašą tvirtina Lietuvos vyriausiasis archyvaras.
 
-2. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės nuolatinio saugojimo dokumentus gali saugoti iki 20 metų nuo dokumentų įtraukimo į apskaitą. Per šį laikotarpį institucijos, įstaigos ar įmonės dokumentus turi perduoti nuolat saugoti valstybės archyvams.
+2. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės nuolat saugomus dokumentus gali saugoti iki 20 metų nuo jų įtraukimo į apskaitą. Per šį laikotarpį institucijos, įstaigos ar įmonės dokumentus turi perduoti nuolat saugoti valstybės archyvams.
 
 3. Lietuvos vyriausiasis archyvaras gali:
 
-1) pratęsti nuolatinio saugojimo dokumentų saugojimo valstybės ar savivaldybės institucijoje, įstaigoje ar įmonėje laiką, kai yra tam pagrįstų motyvų, tačiau ne ilgiau kaip iki 40 metų;
+1) pratęsti nuolat saugomų dokumentų saugojimo valstybės ar savivaldybės institucijoje, įstaigoje ar įmonėje laiką, kai tam yra pagrįstų motyvų, tačiau ne ilgiau kaip iki 40 metų;
 
 2) nustatyti konkretų perdavimo valstybės archyvams terminą elektroniniams ir kitiems dokumentams, prie kurių prieinama tik specialios įrangos priemonėmis.
 
-4. Perduodami valstybės archyvams valstybės ir savivaldybių institucijų, įstaigų ir įmonių nuolatinio saugojimo dokumentai turi būti tvarkomi norminių teisės aktų nustatyta tvarka. Kartu su perduodamais valstybės ar savivaldybės institucijos, įstaigos ar įmonės dokumentais gali būti perduotos informacijos paieškos priemonės ir esančios dokumentų atsarginės kopijos. Dokumentų, tarp jų ir tų, prie kurių prieinama specialios įrangos priemonėmis, perdavimo valstybės archyvams tvarką nustato Lietuvos vyriausiasis archyvaras.
+4. Perduodami valstybės archyvams valstybės ir savivaldybių institucijų, įstaigų ir įmonių nuolat saugomi ir ilgai saugomi elektroniniai veiklos dokumentai turi būti tvarkomi teisės norminių aktų nustatyta tvarka. Kartu su perduodamais valstybės ar savivaldybės institucijos, įstaigos ar įmonės dokumentais gali būti perduotos informacijos paieškos priemonės ir dokumentų atsarginės kopijos. Dokumentų perdavimo valstybės archyvams tvarką nustato Lietuvos vyriausiasis archyvaras.
 
 5. Nevalstybinių organizacijų, privačių juridinių ir fizinių asmenų veiklos dokumentai į valstybės archyvus, papildant Nacionalinį dokumentų fondą, perduodami šalių sutartimi. Sutartyje aptariamos šių dokumentų perdavimo, tvarkymo, priėjimo prie jų ir naudojimo sąlygos.
 
@@ -516,9 +590,15 @@ Straipsnio pakeitimai:
 
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
 16 straipsnis. Likviduojamų ar reorganizuojamų valstybės ir savivaldybių institucijų, įstaigų ir įmonių veiklos dokumentų perdavimas
 
-1. Likviduojamos ar reorganizuojamos valstybės ar savivaldybės institucijos, įstaigos ar įmonės, kuri po reorganizavimo pasibaigia, nuolatinio saugojimo dokumentai perduodami valstybės archyvui.
+1. Likviduojamos ar reorganizuojamos valstybės ar savivaldybės institucijos, įstaigos ar įmonės, kuri po reorganizavimo pasibaigia, nuolat saugomi dokumentai ir ilgai saugomi elektroniniai dokumentai perduodami valstybės archyvui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 2. Likviduojamos valstybės ar savivaldybės institucijos, įstaigos ar įmonės dokumentai, kurių saugojimo terminas, nustatytas norminiuose teisės aktuose, nėra pasibaigęs, perduodami likviduojamos institucijos, įstaigos ar įmonės funkcijų perėmėjui, o jeigu jo nėra, – savininko teises ir pareigas įgyvendinančiai institucijai ar jos įgaliotai įstaigai arba, jeigu likviduojamos valstybės institucijos, įstaigos ar įmonės savininko teises ir pareigas įgyvendinanti institucija yra Lietuvos Respublikos Seimas arba Lietuvos Respublikos Vyriausybė, – savivaldybei, kurios teritorijoje buvo valstybės institucijos, įstaigos ar įmonės buveinė.
 
@@ -532,9 +612,17 @@ Likviduojamos nevalstybinės organizacijos ir privataus juridinio asmens veiklos
 
 18 straipsnis. Dokumentų tvarkymo ir (ar) saugojimo paslaugos
 
-1. Lietuvos Respublikos piliečiai ir Lietuvos Respublikoje įsteigti juridiniai asmenys, taip pat Europos Sąjungos valstybių narių ar Europos ekonominės erdvės valstybių juridinių asmenų ar kitų organizacijų filialai, įsteigti Lietuvos Respublikoje, gali teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas, gavę Lietuvos vyriausiojo archyvaro išduotą licenciją teikti tokią paslaugą. Licencijų išdavimo, panaikinimo dokumentų ir licencijos grąžinimo tvarkos aprašą tvirtina Lietuvos Respublikos Vyriausybė.
+1. Lietuvos Respublikos piliečiai ir Lietuvos Respublikoje įsteigti juridiniai asmenys gali teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas, gavę Lietuvos vyriausiojo archyvaro išduotą licenciją teikti tokią paslaugą. Licencijų išdavimo, galiojimo sustabdymo, galiojimo panaikinimo tvarkos aprašą tvirtina Lietuvos Respublikos Vyriausybė.
 
-2. Europos Sąjungos valstybių narių ar Europos ekonominės erdvės valstybių piliečiai ir Europos Sąjungos valstybėse narėse ar Europos ekonominės erdvės valstybėse įsteigti juridiniai asmenys ar kitos organizacijos ir jų filialai Lietuvos Respublikoje gali teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas, pagal šio straipsnio 1 dalies nuostatas gavę Lietuvos vyriausiojo archyvaro išduotą licenciją teikti tokią paslaugą arba Lietuvos vyriausiojo archyvaro tarnybai pateikę Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės kompetentingos institucijos išduotus dokumentus, įrodančius, kad jie turi teisę teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas pagal tos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teisės aktus.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+2. Valstybės narės piliečiai ir valstybėse narėse įsteigti juridiniai asmenys Lietuvos Respublikoje gali teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas, pagal šio straipsnio 1 dalies nuostatas gavę Lietuvos vyriausiojo archyvaro išduotą licenciją teikti tokią paslaugą arba Lietuvos vyriausiojo archyvaro tarnybai pateikę valstybės narės kompetentingos institucijos išduotus dokumentus, įrodančius, kad jie turi teisę teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas pagal tos valstybės narės teisės aktus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 3. Šio straipsnio 1 ir 2 dalyse nurodytiems asmenims išduodamos šios licencijos:
 
@@ -558,7 +646,11 @@ Likviduojamos nevalstybinės organizacijos ir privataus juridinio asmens veiklos
 
 6. Lietuvos vyriausiasis archyvaras per 5 darbo dienas nuo visų licencijai išduoti reikiamų dokumentų gavimo dienos pareiškėjui išsiunčia patvirtinimą, kad dokumentai gauti, kuriame nurodomas terminas, per kurį bus išnagrinėtas pareiškėjo prašymas išduoti licenciją, galimos pareiškėjo teisių gynimo priemonės, kuriomis galima naudotis kilus ginčų tarp Lietuvos vyriausiojo archyvaro ir pareiškėjo, taip pat nurodoma, kad, pareiškėjui negavus atsakymo per nustatytą terminą, laikoma, kad licencija išduota. Jeigu pareiškėjas pateikia ne visus licencijai išduoti reikiamus dokumentus, Lietuvos vyriausiasis archyvaras per 5 darbo dienas nuo prašymo gavimo dienos informuoja pareiškėją apie būtinybę pateikti trūkstamus dokumentus arba papildyti ar patikslinti pateiktus duomenis.
 
-7. Lietuvos vyriausiasis archyvaras ne vėliau kaip per 30 kalendorinių dienų nuo visų licencijai išduoti reikiamų dokumentų gavimo dienos privalo išnagrinėti pateiktus dokumentus ir išduoti šio straipsnio 1 ir 2 dalyse nurodytiems asmenims licenciją arba pateikti rašytinį motyvuotą atsisakymą ją išduoti. Dėl svarbių priežasčių licencijos išdavimo terminas gali būti pratęstas iki 30 kalendorinių dienų. Tokiu atveju Lietuvos vyriausiasis archyvaras iki licencijos išdavimo termino pabaigos raštu informuoja pareiškėją apie termino pratęsimą ir nurodo priežastis, dėl kurių jis buvo pratęstas.
+7. Lietuvos vyriausiasis archyvaras ne vėliau kaip per 30 kalendorinių dienų nuo visų licencijai išduoti reikiamų dokumentų gavimo dienos privalo išnagrinėti pateiktus dokumentus ir išduoti šio straipsnio 1 ir 2 dalyse nurodytiems asmenims licenciją arba pateikti rašytinį motyvuotą atsisakymą ją išduoti. Dėl svarbių priežasčių licencijos išdavimo terminas gali būti pratęstas iki 30 kalendorinių dienų. Tokiu atveju Lietuvos vyriausiasis archyvaras iki licencijos išdavimo termino pabaigos raštu informuoja pareiškėją apie termino pratęsimą ir nurodo priežastis, dėl kurių jis buvo pratęstas. Licencija išduodama elektroninės formos. Dokumentų tvarkymo ir (ar) saugojimo licencijos galiojimą patvirtina įrašas viešai skelbiamame Dokumentų tvarkymo ir (ar) saugojimo licencijų turėtojų sąraše. Asmens pageidavimu Lietuvos vyriausiojo archyvaro tarnyba išduoda pažymą, patvirtinančią, kad jam išduota licencija teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 8. Licencija neišduodama, jeigu:
 
@@ -568,9 +660,17 @@ Likviduojamos nevalstybinės organizacijos ir privataus juridinio asmens veiklos
 
 3) fizinis arba juridinis asmuo anksčiau turėjo šios rūšies licenciją, tačiau ji buvo panaikinta dėl licencijuojamos paslaugos teikimo pažeidimų ir nėra praėję treji metai nuo licencijos galiojimo panaikinimo.
 
-9. Licencijavimo taisyklių nustatyta tvarka licencija patikslinama, jeigu pasikeičia bent vienas iš šių licencijoje nurodytų duomenų: juridinio asmens pavadinimas, teisinė forma, kodas, buveinės adresas arba fizinio asmens vardas, pavardė, asmens kodas, gyvenamosios vietos adresas, duomenys apie dokumentų saugyklas.
+9. Licencijų išdavimo, galiojimo sustabdymo, galiojimo panaikinimo tvarkos apraše nustatyta tvarka licencija patikslinama, jeigu pasikeičia bent vienas iš šių licencijoje nurodytų duomenų: juridinio asmens pavadinimas, teisinė forma, kodas, buveinės adresas arba fizinio asmens vardas, pavardė, asmens kodas, gyvenamosios vietos adresas, duomenys apie dokumentų saugyklas.
 
-10. Licencijos išduodamos neterminuotam laikui. Už licencijų išdavimą, patikslinimą ir licencijų dublikatų išdavimą imama valstybės rinkliava Lietuvos Respublikos rinkliavų įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+10. Licencijos išduodamos neterminuotam laikui. Už licencijų išdavimą ir patikslinimą imama valstybės rinkliava Lietuvos Respublikos rinkliavų įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 11. Licencijos turėtojo pareigos:
 
@@ -606,7 +706,11 @@ Likviduojamos nevalstybinės organizacijos ir privataus juridinio asmens veiklos
 
 5) paaiškėja, kad fizinis asmuo, turintis licenciją, yra nuteistas už sunkius ar labai sunkius tyčinius nusikaltimus ar nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai ar finansų sistemai.
 
-18. Panaikinta licencija, jos dublikatas (dublikatai) grąžinami licenciją išdavusiai institucijai per 30 kalendorinių dienų nuo sprendimo panaikinti licencijos galiojimą priėmimo dienos.
+18. Neteko galios nuo 2012-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XI-1956, 2012-03-29, Žin. 2012, Nr. 44-2147 (2012-04-14) ; Žin. 2012, Nr. 46-0 (2012-04-19) ; Žin. 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 Straipsnio pakeitimai:
 
@@ -620,7 +724,11 @@ PRIĖJIMAS PRIE NACIONALINIO DOKUMENTŲ FONDO DOKUMENTŲ IR JŲ NAUDOJIMAS
 
 1. Asmenys turi teisę prieiti prie Nacionalinio dokumentų fondo dokumentų, išskyrus tuos dokumentus, prie kurių priėjimą riboja įstatymai. Prie šių dokumentų asmenys turi teisę prieiti tų įstatymų nustatyta tvarka.
 
-2. Asmuo, norintis susipažinti su dokumentais, prie kurių priėjimas neribojamas, turi kreiptis į dokumentų saugotoją pateikdamas rašytinį prašymą ir asmens tapatybę liudijantį dokumentą. Asmuo neprivalo nurodyti susipažinimo su dokumentais priežasčių. Su dokumentais asmuo gali susipažinti tik dokumentų saugotojo patalpose.
+2. Asmuo gali susipažinti su dokumentais, prie kurių priėjimas neribojamas, dokumentų saugotojo patalpose arba naudodamasis saugotojo užtikrinama teisėta prieiga prie saugomų elektroninių dokumentų elektroninių ryšių priemonėmis. Asmuo, norintis susipažinti su dokumentais, turi kreiptis į dokumentų saugotoją, pateikdamas rašytinį prašymą. Asmuo neprivalo nurodyti susipažinimo su dokumentais priežasčių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 
 3. Dokumentų saugotojas asmeniui, norinčiam susipažinti su dokumentais, turi pateikti turimas paieškos priemones ir jo nurodytus dokumentus arba jų kopijas. Dokumentai ir jų paieškos priemonės asmeniui susipažinti pateikiami nemokamai. Kai susipažinti su dokumentais galima tik specialios įrangos priemonėmis arba kai asmens prašymu pagaminamos dokumentų kopijos, asmuo turi padengti su dokumentų demonstravimu ar kopijavimu susijusias išlaidas. Jei dokumentų saugotojas atsisako pateikti asmens nurodytus dokumentus, jis turi raštu paaiškinti atsisakymo priežastis ir galimybę šį atsisakymą apskųsti įstatymų nustatyta tvarka.
 
@@ -773,4 +881,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 
 Lietuvos Respublikos dokumentų ir archyvų įstatymo 1, 2, 4, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16, 18 straipsnių, antrojo skirsnio pavadinimo pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo priedo papildymo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+
+Lietuvos Respublikos dokumentų ir archyvų įstatymo 2, 5, 7, 8, 10, 13, 14, 15, 16, 18, 19 straipsnių pakeitimo ir papildymo įstatymas
 
