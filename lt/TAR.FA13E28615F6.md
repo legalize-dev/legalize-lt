@@ -4,7 +4,7 @@ identifier: "TAR.FA13E28615F6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-01-11"
-last_updated: "2010-07-01"
+last_updated: "2012-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2012-06-30
+Suvestinė redakcija nuo 2012-07-01 iki 2014-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
 
@@ -99,6 +99,12 @@ Nr. X-1716, 2008-07-15, Žin., 2008, Nr. 87-3473 (2008-07-31), i. k. 1081010ISTA
 
 Nr. XI-285, 2009-06-11, Žin., 2009, Nr. 75-3064 (2009-06-25), i. k. 1091010ISTA00XI-285
 
+11. Viešai paskelbta informacija – visuomenės informavimo priemonėse, valstybės ir savivaldybių institucijų ir įstaigų interneto svetainėse paskelbta informacija. Taip pat tokia informacija laikoma valstybės ir savivaldybių institucijos ir įstaigos iniciatyva, naudojant elektroninių ryšių priemones, skelbiama informacija.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1980, 2012-04-19, Žin., 2012, Nr. 51-2529 (2012-05-03), i. k. 1121010ISTA0XI-1980
+
 3 straipsnis. Įstaigų pareiga teikti informaciją
 
 1. Įstaigos privalo teikti pareiškėjams informaciją. Atsisakyti suteikti informaciją galima šio įstatymo nustatyta tvarka.
@@ -115,7 +121,13 @@ Nr. XI-285, 2009-06-11, Žin., 2009, Nr. 75-3064 (2009-06-25), i. k. 1091010ISTA
 
 3) teisėtumo, reiškiančio, kad įstaigos veiksmai teikiant informaciją grindžiami šiuo ir kitais įstatymais ar kitais teisės aktais;
 
-4) objektyvumo, reiškiančio, kad įstaigos valstybės tarnautojai ar darbuotojai teikdami informaciją turi būti nešališki ir objektyvūs.
+4) objektyvumo, reiškiančio, kad įstaigos valstybės tarnautojai ar darbuotojai teikdami informaciją turi būti nešališki ir objektyvūs;
+
+5) pagalbos, reiškiančios, kad visuomenei teikiama pagalba pasinaudoti galimybe gauti informaciją.
+
+Papildyta straipsnio punktu:
+
+Nr. XI-1980, 2012-04-19, Žin., 2012, Nr. 51-2529 (2012-05-03), i. k. 1121010ISTA0XI-1980
 
 5 straipsnis. Nediskriminavimas
 
@@ -145,7 +157,11 @@ Papildyta straipsnio dalimi:
 
 Nr. XI-809, 2010-05-13, Žin., 2010, Nr. 63-3088 (2010-05-31), i. k. 1101010ISTA00XI-809
 
-3. Visa informacija apie įstaigos veiklą vykdant teisės aktais pavestas funkcijas turi būti visiems prieinama ir teikiama neatlygintinai.
+3. Visa informacija apie įstaigos veiklą vykdant teisės aktais pavestas funkcijas turi būti viešai paskelbta, visiems prieinama ir teikiama neatlygintinai, pirmenybę teikiant informacijos skleidimui internetu ir kitokiomis elektroninėmis priemonėmis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1980, 2012-04-19, Žin., 2012, Nr. 51-2529 (2012-05-03), i. k. 1121010ISTA0XI-1980
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -346,4 +362,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-809, 2010-05-13, Žin., 2010, Nr. 63-3088 (2010-05-31), i. k. 1101010ISTA00XI-809
 
 Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 6 straipsnio papildymo ir pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1980, 2012-04-19, Žin., 2012, Nr. 51-2529 (2012-05-03), i. k. 1121010ISTA0XI-1980
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 2, 4, 6, 12 straipsnių pakeitimo ir papildymo įstatymas
 
