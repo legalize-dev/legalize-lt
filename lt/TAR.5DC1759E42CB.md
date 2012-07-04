@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2012-04-07"
+last_updated: "2012-07-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -158,9 +158,9 @@ Dviračių takas – dviračių eismui skirtas kelias arba kelio dalis, pažymė
 
 kelio ženklu „Dviračių takas“, kuriuose motorinių transporto priemonių eismas
 
-draudžiamas. Dviračių takas privalo būti atskirtas nuo kelio ar jo dalių kelio
+draudžiamas. Dviračių takas privalo būti atskirtas nuo kelio ar jo dalių kelio ženklais
 
-ženklais arba kelio inžinerinėmis priemonėmis.
+arba kelio inžinerinėmis priemonėmis.
 
 8.
 
@@ -200,9 +200,9 @@ viena transporto priemonė, krovinys, kelias, jo statiniai ar bet koks kitas
 
 Eismo juosta – Vyriausybės patvirtintose Kelių eismo taisyklėse (toliau – KET)
 
-nustatytomis kelių horizontaliojo ženklinimo linijomis (toliau –
+nustatytomis kelių horizontaliojo ženklinimo linijomis (toliau – ženklinimo
 
-ženklinimo linijos) ir (arba) kelio ženklais pažymėta arba nepažymėta išilginė
+linijos) ir (arba) kelio ženklais pažymėta arba nepažymėta išilginė
 
 važiuojamosios kelio dalies juosta, kurios pločio pakanka automobiliams
 
@@ -210,9 +210,9 @@ važiuoti viena eile.
 
 13.
 
-Eismo organizavimas – transporto priemonių ir eismo dalyvių judėjimo keliais
+Eismo organizavimas – transporto priemonių ir eismo dalyvių judėjimo keliais reguliavimo
 
-reguliavimo teisinių ir techninių priemonių bei tvarkomųjų veiksmų kompleksas.
+teisinių ir techninių priemonių bei tvarkomųjų veiksmų kompleksas.
 
 14. Eismo saugumas – kelių eismo ypatybių visuma, rodanti, kiek eismo dalyviai yra
 
@@ -606,9 +606,9 @@ savaeiges mašinas ir eismui ne keliais skirtas transporto priemones.
 
 priemonės ir priekabos atitikties įvertinimas – veikla, kuria tiesiogiai ar
 
-netiesiogiai nustatoma, kiek transporto priemonė ir jos dalys atitinka nustatytus
+netiesiogiai nustatoma, kiek transporto priemonė ir jos dalys atitinka
 
-reikalavimus.
+nustatytus reikalavimus.
 
 55.
 
@@ -666,11 +666,13 @@ priemonių junginys – sujungtos kelios transporto priemonės, kurios kelių
 
 eisme dalyvauja kaip vienetas.
 
-63. Vairavimo
+63.
 
-instruktorius – asmuo, kuriam šio įstatymo ir kitų teisės aktų nustatyta tvarka
+Vairavimo instruktorius – asmuo, kuriam šio įstatymo ir kitų
 
-suteikta teisė mokyti kitus asmenis vairuoti transporto priemones.
+teisės aktų nustatyta tvarka suteikta teisė mokyti kitus asmenis
+
+vairuoti transporto priemones.
 
 64. Vairuotojas
 
@@ -1036,11 +1038,11 @@ motorinių transporto priemonių vairuotojų, kuriems teisė vairuoti buvo atimt
 
 dėl KET pažeidimų, papildomo vairuotojų mokymo tvarką;
 
-13)
+13) nustato
 
-nustato šeimos narių, siekiančių įgyti teisę vairuoti B1 ar B kategorijų
+šeimos narių, siekiančių įgyti teisę vairuoti B1 ar B kategorijų transporto
 
-transporto priemones, mokymo tvarką;
+priemones, mokymo tvarką;
 
 14)
 
@@ -1116,9 +1118,9 @@ nustato eismo dalyvių mokymo teikti pirmąją pagalbą tvarką;
 
 draudžiama vairuoti tam tikros kategorijos motorines transporto priemones;
 
-4) gali
+4)
 
-atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.
+gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.
 
 4. Užtikrindama
 
@@ -1626,11 +1628,11 @@ psichiką veikiančių medžiagų ar nepasinaudojus teisės aktų nustatytu priv
 
 kasdieniu poilsiu. Taip pat neleidžiama vairuoti susirgus ar pavargus, jeigu
 
-dėl to gali kilti pavojus eismo saugumui, duoti transporto priemonę vairuoti
+dėl to gali kilti pavojus eismo saugumui, duoti transporto priemonę vairuoti asmenims,
 
-asmenims, kurie yra paveikti bent vieno iš pirmiau nurodytų veiksnių arba
+kurie yra paveikti bent vieno iš pirmiau nurodytų veiksnių arba neturi teisės
 
-neturi teisės vairuoti šią transporto priemonę.
+vairuoti šią transporto priemonę.
 
 2.
 
@@ -1669,40 +1671,6 @@ saugumo priemonių naudojimo atvejus ir tvarką nustato KET.
 Motorinės transporto priemonės, traktoriaus, savaeigės mašinos vairuotojas
 
 privalo mokėti suteikti pirmąją pagalbą eismo įvykyje nukentėjusiems asmenims.
-
-5.
-
-Motorinės transporto priemonės, traktoriaus, savaeigės mašinos vairuotojas
-
-privalo su savimi turėti ir policijos, Valstybinės kelių transporto inspekcijos
-
-prie Susisiekimo ministerijos, Valstybės sienos apsaugos tarnybos prie Vidaus
-
-reikalų ministerijos ar muitinės pareigūno reikalavimu pateikti nustatytos
-
-formos dokumentą, patvirtinantį teisę vairuoti transporto priemonę, transporto
-
-priemonės registravimo, privalomos techninės apžiūros ir kitus Lietuvos
-
-Respublikos įstatymų bei KET nustatytus dokumentus, taip pat leisti jiems
-
-patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų prietaisų rodmenis.
-
-Šioje dalyje nurodyto vairuotojo pažymėjimo nereikia asmenims, turintiems
-
-Europos Sąjungos valstybėse narėse ir Europos ekonominės erdvės Europos
-
-laisvosios prekybos asociacijos (EEE EFTA) šalyse išduotus vairuotojo
-
-pažymėjimus. 1926 metų Paryžiaus konvencijos dėl automobilių eismo, 1949 metų
-
-Ženevos konvencijos dėl kelių eismo ir 1968 metų Vienos konvencijos dėl kelių
-
-eismo reikalavimus atitinkantys nacionaliniai ir tarptautiniai vairuotojo
-
-pažymėjimai galioja, jei asmuo nėra nuolatinis Lietuvos Respublikos gyventojas.
-
-5 dalies redakcija nuo 2012-05-01:
 
 5. Motorinės
 
@@ -1744,7 +1712,59 @@ išduoti vairuotojo pažymėjimai nepripažįstami, jei jų turėtojai nėra suk
 
 asmenims, kuriems atimta teisė vairuoti transporto priemones ar kurie nustatyta
 
-tvarka nesusigrąžino teisės vairuoti po to, kai ji buvo atimta. Be to, nepripažįstami
+tvarka nesusigrąžino teisės vairuoti po to, kai ji buvo atimta. Be to,
+
+nepripažįstami vairuotojo pažymėjimai, išduoti asmenims, kuriems vairuotojo
+
+pažymėjimo galiojimas yra apribotas, sustabdytas ar vairuotojo pažymėjimas
+
+atimtas jį išdavusioje valstybėje.
+
+5 dalies redakcija nuo 2013-01-01:
+
+5. Motorinės
+
+transporto priemonės, traktoriaus, savaeigės mašinos vairuotojas privalo su
+
+savimi turėti ir policijos, Valstybinės kelių transporto inspekcijos prie
+
+Susisiekimo ministerijos, aplinkos apsaugos valstybinės kontrolės institucijų,
+
+Valstybės
+
+sienos apsaugos tarnybos prie Vidaus reikalų ministerijos ar muitinės pareigūno
+
+reikalavimu pateikti galiojantį vairuotojo pažymėjimą, transporto priemonės
+
+registravimo, privalomosios techninės apžiūros dokumentus, transporto priemonių
+
+valdytojų civilinės atsakomybės privalomojo draudimo liudijimą (polisą) ir
+
+kitus Lietuvos Respublikos įstatymų bei KET nustatytus dokumentus, taip pat
+
+leisti jiems patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų
+
+prietaisų rodmenis. Lietuvos Respublikoje išduoto vairuotojo pažymėjimo
+
+nereikia turėti asmenims, turintiems Europos Sąjungos valstybėse narėse ir
+
+Europos laisvosios prekybos asociacijos šalyse išduotus galiojančius vairuotojo
+
+pažymėjimus. 1926 metų Paryžiaus konvencijos dėl automobilių eismo, 1949 metų
+
+Ženevos konvencijos dėl kelių eismo ir 1968 metų Vienos konvencijos dėl kelių
+
+eismo reikalavimus atitinkantys nacionaliniai ir tarptautiniai vairuotojo
+
+pažymėjimai galioja, jei asmuo nėra nuolatinis Lietuvos Respublikos gyventojas.
+
+Šie užsienio valstybėse išduoti vairuotojo pažymėjimai nepripažįstami, jei jų turėtojai
+
+nėra sukakę šio įstatymo nustatyto amžiaus arba jei vairuotojo pažymėjimai buvo
+
+išduoti asmenims, kuriems atimta teisė vairuoti transporto priemones ar kurie
+
+nustatyta tvarka nesusigrąžino teisės vairuoti po to, kai ji buvo atimta. Be to, nepripažįstami
 
 vairuotojo pažymėjimai, išduoti asmenims, kuriems vairuotojo pažymėjimo
 
@@ -1754,23 +1774,23 @@ išdavusioje valstybėje.
 
 6.
 
-Policijos pareigūno reikalavimu vairuotojas privalo leistis Vyriausybės
+Policijos pareigūno reikalavimu vairuotojas privalo leistis Vyriausybės nustatyta
 
-nustatyta tvarka patikrinamas, ar nėra neblaivus, apsvaigęs nuo psichiką
+tvarka patikrinamas, ar nėra neblaivus, apsvaigęs nuo psichiką veikiančių
 
-veikiančių medžiagų.
+medžiagų.
 
 7.
 
 Transporto priemonių vairuotojai privalo vykdyti šiame įstatyme, Policijos
 
-veiklos įstatyme, kituose Lietuvos Respublikos teisės aktuose nustatytus teisėtus
+veiklos įstatyme, kituose Lietuvos Respublikos teisės aktuose nustatytus
 
-tikrinančių pareigūnų ir reguliuotojų nurodymus, laikytis KET nustatytos
+teisėtus tikrinančių pareigūnų ir reguliuotojų nurodymus, laikytis KET
 
-elgesio tvarkos, kai šių institucijų įgalioti pareigūnai, reguliuotojai,
+nustatytos elgesio tvarkos, kai šių institucijų įgalioti pareigūnai,
 
-policijos, Valstybinės kelių transporto
+reguliuotojai, policijos, Valstybinės kelių transporto
 
 inspekcijos prie Susisiekimo
 
@@ -1838,6 +1858,10 @@ Nr. XI-1943,
 
 2012-03-27, Žin., 2012, Nr. 42-2044 (2012-04-07)
 
+Nr. XI-2107,
+
+2012-06-21, Žin., 2012, Nr. 78-4029 (2012-07-04)
+
 15 straipsnis. Pėsčiųjų pareigos
 
 1.
@@ -1848,7 +1872,9 @@ tamsiuoju paros metu arba esant blogam matomumui, privalo neštis šviečiantį
 
 žibintą arba vilkėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais,
 
-arba būti prie drabužių prisisegę kitiems eismo dalyviams matomoje vietoje atšvaitą.
+arba būti prie drabužių prisisegę kitiems eismo dalyviams matomoje vietoje
+
+atšvaitą.
 
 2. Į
 
@@ -1860,9 +1886,9 @@ pagal šaligatvių arba kelkraščių liniją. Kai matomumo zonoje perėjos ar
 
 sankryžos nėra, leidžiama eiti per kelią stačiu kampu į abi puses gerai
 
-apžvelgiamose vietose, tačiau tik įsitikinus, kad eiti saugu ir nebus trukdoma
+apžvelgiamose vietose, tačiau tik įsitikinus, kad eiti saugu ir nebus trukdoma transporto
 
-transporto priemonėms.
+priemonėms.
 
 3. Pėstiesiems
 
@@ -1956,19 +1982,19 @@ keleivių pareigos yra nustatytos KET.
 
 Važiuoti keliais dviračiu leidžiama ne jaunesniems kaip 14 metų, o
 
-išklausiusiems atitinkamą mokymo kursą ir turintiems mokymo įstaigos išduotą
+išklausiusiems atitinkamą mokymo kursą ir turintiems mokymo įstaigos išduotą pažymėjimą,
 
-pažymėjimą, – ne jaunesniems kaip 12 metų asmenims. Gyvenamojoje zonoje
+– ne jaunesniems kaip 12 metų asmenims. Gyvenamojoje zonoje dviračių vairuotojų
 
-dviračių vairuotojų amžius neribojamas.
+amžius neribojamas.
 
-2. Dviračio
+2.
 
-vairuotojui leidžiama važiuoti keliu tik tvarkingą stabdį ir garso signalą
+Dviračio vairuotojui leidžiama važiuoti keliu tik tvarkingą stabdį ir garso
 
-turinčiu dviračiu. Dviračio gale turi būti raudonas šviesos atšvaitas, iš
+signalą turinčiu dviračiu. Dviračio gale turi būti raudonas šviesos atšvaitas,
 
-abiejų šonų – oranžiniai šviesos atšvaitai arba kiti šviesą atspindintys
+iš abiejų šonų – oranžiniai šviesos atšvaitai arba kiti šviesą atspindintys
 
 elementai, pritvirtinti prie ratų stipinų. Važiuojant keliu tamsiuoju paros
 
@@ -1982,9 +2008,9 @@ vietoje prisisegęs šviesą atspindinčius elementus. Dviračio vairuotojai
 
 (keleiviai) iki 18 metų, važiuodami (vežami) keliu, privalo būti užsidėję ir
 
-užsisegę šalmą. Kitiems vyresniems kaip 18 metų asmenims, dviračiu važiuojantiems
+užsisegę šalmą. Kitiems vyresniems kaip 18 metų asmenims, dviračiu
 
-keliu, rekomenduojama būti užsidėjus ir užsisegus šalmą.
+važiuojantiems keliu, rekomenduojama būti užsidėjus ir užsisegus šalmą.
 
 3.
 
@@ -2064,11 +2090,9 @@ matomumui vadeliotojas privalo dėvėti ryškiaspalvę liemenę su šviesą
 
 atspindinčiais elementais.
 
-2.
+2. Vadeliotojams,
 
-Vadeliotojams, gyvulių ar paukščių varovams, raiteliams, kitiems asmenims
-
-draudžiama:
+gyvulių ar paukščių varovams, raiteliams, kitiems asmenims draudžiama:
 
 1)
 
@@ -2102,9 +2126,9 @@ joti.
 
 3.
 
-Kiti reikalavimai vadeliotojams, gyvulių ar paukščių varovams, raiteliams nustatyti
+Kiti reikalavimai vadeliotojams, gyvulių ar paukščių varovams, raiteliams
 
-KET.
+nustatyti KET.
 
 19 straipsnis. Specialiųjų transporto priemonių vairuotojų teisės
 
@@ -2144,9 +2168,39 @@ transporto priemonių vairuotojai, važiuodami kelyje su įjungtais mėlynais ir
 
 (ar) raudonais (arba tik mėlynais) žybčiojančiais švyturėliais ir (ar)
 
-specialiaisiais garso signalais, gali pasinaudoti pirmenybe tik jei tai nepakenks
+specialiaisiais garso signalais, gali pasinaudoti pirmenybe tik jei tai
 
-eismo saugumui ir tik tuo atveju, kai įsitikina, kad jiems duodamas kelias.
+nepakenks eismo saugumui ir tik tuo atveju, kai įsitikina, kad jiems duodamas
+
+kelias.
+
+2 dalies redakcija nuo 2013-01-01:
+
+2. Specialiųjų
+
+transporto priemonių (policijos, greitosios medicinos pagalbos ir
+
+priešgaisrinės apsaugos ir gelbėjimo tarnybų, dujų įmonių avarinių tarnybų),
+
+taip pat specialiomis spalvomis nudažytų ir nenudažytų vidaus reikalų
+
+statutinių įstaigų, prokuratūros, Valstybės saugumo departamento, Specialiųjų
+
+tyrimų tarnybos, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos
+
+ministerijos, Karo policijos, muitinės, Valstybinės kelių transporto
+
+inspekcijos prie Susisiekimo ministerijos, aplinkos apsaugos valstybinės kontrolės
+
+institucijų transporto priemonių vairuotojai, važiuodami kelyje su
+
+įjungtais mėlynais ir (ar) raudonais (arba tik mėlynais) žybčiojančiais
+
+švyturėliais ir (ar) specialiaisiais garso signalais, gali pasinaudoti
+
+pirmenybe tik jei tai nepakenks eismo saugumui ir tik tuo atveju, kai
+
+įsitikina, kad jiems duodamas kelias.
 
 3.
 
@@ -2164,13 +2218,13 @@ sustojus ir stovint, važiuojant lėtai, vežant pavojingus krovinius ir t. t.).
 
 ir įspėja kitus eismo dalyvius apie galimą pavojų.
 
-5.
+5. Transporto
 
-Transporto priemonių su įjungtais oranžiniais žybčiojančiais švyturėliais
+priemonių su įjungtais oranžiniais žybčiojančiais švyturėliais vairuotojai,
 
-vairuotojai, važiuodami kelyje, stovėdami ir (ar) atlikdami darbus, užtikrina,
+važiuodami kelyje, stovėdami ir (ar) atlikdami darbus, užtikrina, kad nepakenks
 
-kad nepakenks eismo saugumui.
+eismo saugumui.
 
 6. Specialiųjų
 
@@ -2192,7 +2246,11 @@ Nr.
 
 XI-893,
 
-2010-06-10, Žin., 2010, Nr. 75-3791 (2010-06-29) (papildyta 6 dalimi)
+2010-06-10, Žin., 2010, Nr. 75-3791 (2010-06-29)
+
+Nr. XI-2107, 2012-06-21,
+
+Žin., 2012, Nr. 78-4029 (2012-07-04)
 
 21 straipsnis. Mokymas vairuoti
 
@@ -2238,11 +2296,11 @@ to nėra uždraudęs kelio savininkas.
 
 Kelyje mokomas vairuoti motorinę transporto priemonę, traktorių, savaeigę
 
-mašiną mokinys neturi būti jaunesnis daugiau kaip vienais metais negu nustatytas
+mašiną mokinys neturi būti jaunesnis daugiau kaip vienais metais negu
 
-amžius, nuo kurio teisės aktai leidžia vairuoti tos kategorijos transporto
+nustatytas amžius, nuo kurio teisės aktai leidžia vairuoti tos kategorijos
 
-priemonę.
+transporto priemonę.
 
 6.
 
@@ -2255,24 +2313,6 @@ laikomasi KET.
 22 straipsnis. Teisės vairuoti motorines
 
 transporto priemones, traktorius, savaeiges mašinas suteikimas
-
-1.
-
-Teisė vairuoti motorines transporto priemones, traktorius, savaeiges mašinas
-
-suteikiama Lietuvos Respublikoje gyvenantiems, ne jaunesniems kaip šio įstatymo
-
-23 straipsnyje nustatyto amžiaus asmenims, kurių sveikatos būklė ir
-
-psichofiziologiniai gebėjimai yra tinkami vairuoti tam tikros kategorijos
-
-motorinę transporto priemonę, mokantiems KET, išmanantiems kitus
-
-teisės aktus, reglamentuojančius kelių eismą, mokantiems vairuoti ir nustatyta
-
-tvarka išlaikiusiems egzaminus.
-
-1 dalies redakcija nuo 2012-05-01:
 
 1.
 
@@ -2304,18 +2344,6 @@ vairavimą neturint tam teisės, terminas.
 
 Asmens teisę vairuoti tam tikrų kategorijų motorines transporto priemones
 
-patvirtina įrašas Kelių transporto priemonių vairuotojų registre ir valstybės
-
-įmonės „Regitra“ išduotas vairuotojo pažymėjimas, taip pat vairuotojų
-
-pažymėjimai, išduoti policijos įstaigų.
-
-3 dalies redakcija nuo 2012-05-01:
-
-3.
-
-Asmens teisę vairuoti tam tikrų kategorijų motorines transporto priemones
-
 patvirtina įrašas Lietuvos Respublikos kelių transporto priemonių vairuotojų
 
 registre ir valstybės įmonės „Regitra“ išduotas vairuotojo pažymėjimas, taip
@@ -2332,11 +2360,11 @@ valstybėse išduoti vairuotojo pažymėjimai.
 
 Pradedantiesiems vairuotojams išduodamas 2 metus galiojantis vairuotojo
 
-pažymėjimas. Pradedantysis vairuotojas gali pakeisti šį pažymėjimą į 10 metų
+pažymėjimas. Pradedantysis vairuotojas gali pakeisti šį pažymėjimą į 10 metų galiojantį
 
-galiojantį vairuotojo pažymėjimą tik užbaigęs papildomus vairuotojų mokymus
+vairuotojo pažymėjimą tik užbaigęs papildomus vairuotojų mokymus pagal
 
-pagal nustatytą tvarką.
+nustatytą tvarką.
 
 5. C1, C1E, C, CE,
 
@@ -2393,10 +2421,6 @@ XI-893,
 Nr. XI-1943,
 
 2012-03-27, Žin., 2012, Nr. 42-2044 (2012-04-07)
-
-23 straipsnio redakcija iki
-
-2013-01-19:
 
 24 straipsnis. Gelbėjimo darbai
 
@@ -2526,21 +2550,21 @@ dalyvauti viešajame eisme motorinėms transporto priemonėms, kurios pritaikyto
 
 eismui kairiąja kelio puse ir (ar) turi vairą dešinėje pusėje, išskyrus tas,
 
-kurios buvo įregistruotos Lietuvos Respublikoje iki 1993 m. gegužės 1 d. arba kurios pagal konstrukciją ir įrangą yra skirtos specialioms darbo funkcijoms
+kurios buvo įregistruotos Lietuvos Respublikoje iki 1993 m. gegužės 1 d. arba kurios pagal konstrukciją ir įrangą yra skirtos specialioms darbo
 
-atlikti. Šis draudimas netaikomas laikinai (iki 90 dienų per metus) į Lietuvos
+funkcijoms atlikti. Šis draudimas netaikomas laikinai (iki 90 dienų per metus)
 
-Respubliką su užsienio valstybėje įregistruotomis transporto priemonėmis
+į Lietuvos Respubliką su užsienio valstybėje įregistruotomis transporto
 
-atvykusiems užsieniečiams, kurie neturi leidimo laikinai apsigyventi arba
+priemonėmis atvykusiems užsieniečiams, kurie neturi leidimo laikinai
 
-leidimo nuolat gyventi Lietuvos Respublikoje, taip pat Lietuvos Respublikos
+apsigyventi arba leidimo nuolat gyventi Lietuvos Respublikoje, taip pat
 
-piliečiams, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, taip pat
+Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra užsienio
 
-transporto priemonėms, kurios teisės aktų nustatyta tvarka priskirtos istorinių
+valstybėje, taip pat transporto priemonėms, kurios teisės aktų nustatyta tvarka
 
-motorinių transporto priemonių kategorijai.
+priskirtos istorinių motorinių transporto priemonių kategorijai.
 
 5.
 
@@ -2578,9 +2602,9 @@ Nr. XI-760,
 
 Kiekviena motorinė transporto priemonė, priekaba turi būti su tam skirtoje
 
-vietoje vertikalioje plokštumoje pritvirtintais, registruojant jai priskirtais valstybinio
+vietoje vertikalioje plokštumoje pritvirtintais, registruojant jai priskirtais
 
-numerio ženklais.
+valstybinio numerio ženklais.
 
 2. Valstybinio numerio ženklus draudžiama uždengti apsauginėmis
 
@@ -2596,9 +2620,9 @@ būti paženklinta tos valstybės, kurioje ji įregistruota, skiriamuoju ženklu
 
 jei šio ženklo nėra valstybiniame numeryje. Į Lietuvos Respubliką atvykstančių
 
-užsienyje registruotų transporto priemonių skiriamieji ženklai nustatomi
+užsienyje registruotų transporto priemonių skiriamieji ženklai nustatomi tarptautinėmis
 
-tarptautinėmis sutartimis.
+sutartimis.
 
 4. KET gali nustatyti, kad tam tikrų kelio
 
@@ -3398,8 +3422,6 @@ Nr. XI-261,
 
 2009-05-14, Žin., 2009, Nr. 61-2405 (2009-05-26)
 
-________________
-
 Pakeitimai:
 
 1.
@@ -3686,9 +3708,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. XI-893, 2010-06-10,
+Nr. XI-893,
 
-Žin., 2010, Nr. 75-3791 (2010-06-29)
+2010-06-10, Žin., 2010, Nr. 75-3791 (2010-06-29)
 
 SAUGAUS
 
@@ -3768,9 +3790,9 @@ Nr. XI-1198,
 
 2010-12-02, Žin., 2010, Nr. 148-7566 (2010-12-18)
 
-SAUGAUS EISMO
+SAUGAUS EISMO AUTOMOBILIŲ
 
-AUTOMOBILIŲ KELIAIS ĮSTATYMO 27 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+KELIAIS ĮSTATYMO 27 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 17.
 
@@ -3808,11 +3830,27 @@ straipsnius ir šio straipsnio 3 dalį, įsigalioja 2012 m. gegužės 1 d.
 
 įsigalioja 2013 m. sausio 19 d.
 
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2107,
+
+2012-06-21, Žin., 2012, Nr. 78-4029 (2012-07-04)
+
+SAUGAUS EISMO AUTOMOBILIŲ KELIAIS
+
+ĮSTATYMO 13 IR 19 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas,
+
+išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. sausio 1 d.
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2012-04-11)
+(2012-07-20)
 
 ausrine.trapinskiene@lrs.lt
 
