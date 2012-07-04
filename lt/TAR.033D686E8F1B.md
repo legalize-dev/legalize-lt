@@ -4,7 +4,7 @@ identifier: "TAR.033D686E8F1B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-30"
-last_updated: "2009-05-12"
+last_updated: "2012-07-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 department: "Lietuvos Respublikos Seimas"
@@ -619,6 +619,30 @@ vardinį važiavimo bilietą – su 80 procentų nuolaida;
 
 važiavimo bilietą – su 50 procentų nuolaida.
 
+6 dalies redakcija nuo 2013-01-01:
+
+6. Aukštųjų
+
+mokyklų dieninių skyrių studentai, Lietuvos Respublikos ir kitų Europos
+
+Sąjungos valstybių narių piliečiai, studijuojantys Europos Sąjungos valstybių
+
+narių aukštųjų mokyklų dieniniuose skyriuose, vaikai nuo 7 iki 8 metų, dieninių
+
+bendrojo lavinimo mokyklų mokiniai, profesinio mokymo įstaigų dieninių skyrių mokiniai ir Nacionalinės Mikalojaus Konstantino Čiurlionio menų
+
+mokyklos mokiniai turi teisę įsigyti važiavimo vietinio (miesto) reguliaraus
+
+susisiekimo autobusais ir troleibusais bilietą su šiomis nuolaidomis:
+
+1) terminuotą
+
+vardinį važiavimo bilietą – su 80 procentų nuolaida;
+
+2) vienkartinį
+
+važiavimo bilietą – su 50 procentų nuolaida.
+
 7. Nacionalinės
 
 Mikalojaus Konstantino Čiurlionio menų mokyklos ir konservatorijų mokiniai turi
@@ -675,593 +699,11 @@ Nr. X-1612,
 
 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
 
-[6 straipsnio redakcija iki 2009-06-01]
-
-6
-
-straipsnis. Važiavimo išlaidų kompensavimas mokiniams, vaikų globos įstaigų
-
-gyventojams, mokytojams, gydytojams ir slaugytojams, socialiniams darbuotojams
-
-ir jų padėjėjams, socialiniams pedagogams ir jų padėjėjams, auklėtojams ir jų
-
-padėjėjams, kultūros ir meno darbuotojams
-
-1. Savivaldybės,
-
-kurių teritorijoje yra švietimo, sveikatos priežiūros, socialinių paslaugų,
-
-kultūros ir meno įstaigos, savo nustatyta tvarka kompensuoja visas važiavimo
-
-išlaidas:
-
-1) kaimuose ir
-
-miesteliuose gyvenantiems bendrojo lavinimo mokyklų, profesinio mokymo įstaigų
-
-ir neformaliojo vaikų švietimo įstaigų mokiniams, šių mokyklų ar įstaigų darbo
-
-dienomis važiuojantiems į mokyklą ar įstaigą iki 40 km ir atgal mokinio pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo
-
-autobusais, tolimojo reguliaraus susisiekimo autobusais, keleiviniais
-
-traukiniais, reguliaraus susisiekimo laivais ir keltais; neformaliojo vaikų
-
-švietimo įstaigų mokiniams ši lengvata taikoma ir ne darbo dienomis;
-
-2) vaikų globos
-
-namuose, vaikų socializacijos centruose, bendrojo lavinimo mokyklų ir
-
-profesinio mokymo įstaigų bendrabučiuose gyvenantiems mokiniams, važiuojantiems
-
-mokinio pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus
-
-susisiekimo autobusais, tolimojo reguliaraus susisiekimo autobusais,
-
-keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais;
-
-3) kaimuose ir
-
-miesteliuose esančių bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir
-
-neformaliojo vaikų ir suaugusiųjų švietimo įstaigų mokytojams, kaimuose ir
-
-miesteliuose esančių sveikatos priežiūros įstaigų gydytojams ir slaugytojams,
-
-jų darbo šiose mokyklose ar įstaigose dienomis važiuojantiems į darbą iki 40 km ir atgal vietinio (priemiestinio) reguliaraus susisiekimo autobusais, tolimojo reguliaraus
-
-susisiekimo autobusais, keleiviniais traukiniais, reguliaraus susisiekimo
-
-laivais ir keltais;
-
-4) kaimuose ir
-
-miesteliuose esančiose socialinių paslaugų įstaigose ir seniūnijose dirbantiems
-
-socialiniams darbuotojams ir jų padėjėjams, socialiniams pedagogams ir jų
-
-padėjėjams, auklėtojams ir jų padėjėjams, jų darbo dienomis važiuojantiems į
-
-darbą iki 40 km ir atgal vietinio (priemiestinio) reguliaraus susisiekimo
-
-autobusais, tolimojo reguliaraus susisiekimo autobusais, keleiviniais
-
-traukiniais, reguliaraus susisiekimo laivais ir keltais;
-
-5) kaimuose ir
-
-miesteliuose esančiose kultūros ir meno įstaigose dirbantiems kultūros ir meno
-
-darbuotojams, jų darbo dienomis važiuojantiems į darbą iki 40 km ir atgal vietinio (priemiestinio) reguliaraus susisiekimo autobusais, tolimojo reguliaraus
-
-susisiekimo autobusais, keleiviniais traukiniais, reguliaraus susisiekimo
-
-laivais ir keltais.
-
-2.
-
-Savivaldybės, kurių teritorijoje yra švietimo, sveikatos priežiūros, socialinių
-
-paslaugų, kultūros ir meno įstaigos, savo nustatyta tvarka kaimuose ir
-
-miesteliuose esančių bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir
-
-neformaliojo vaikų ir suaugusiųjų švietimo įstaigų mokytojams, kaimuose ir
-
-miesteliuose esančių sveikatos priežiūros įstaigų gydytojams ir slaugytojams,
-
-kaimuose ir miesteliuose esančiose socialinių paslaugų įstaigose bei
-
-seniūnijose dirbantiems socialiniams darbuotojams ir jų padėjėjams,
-
-socialiniams pedagogams ir jų padėjėjams, auklėtojams ir jų padėjėjams,
-
-kaimuose ir miesteliuose esančiose kultūros ir meno įstaigose dirbantiems
-
-kultūros ir meno darbuotojams, kurie į darbą ir atgal vyksta nuosavu
-
-transportu, moka kompensacijas, kurių dydis
-
-yra lygus kompensacijų, kurios būtų pagal šio straipsnio 1 dalies 3–5 punktus
-
-išmokėtos jiems vykstant į darbą ir atgal vietinio (priemiestinio) reguliaraus
-
-susisiekimo autobusais, tolimojo reguliaraus susisiekimo autobusais,
-
-keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais, dydžiui.
-
-[6 straipsnio redakcija nuo 2009-06-01]
-
-6
-
-straipsnis.
-
-Važiavimo išlaidų kompensavimas mokiniams ir vaikų globos įstaigų
-
-gyventojams bei kitais atvejais
-
-1. Savivaldybės, kurių teritorijoje yra
-
-švietimo ir vaikų globos įstaigos, savo nustatyta tvarka kompensuoja visas
-
-važiavimo išlaidas:
-
-1) kaimuose ir miesteliuose gyvenantiems
-
-bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir neformaliojo vaikų
-
-švietimo įstaigų mokiniams, šių mokyklų ar įstaigų darbo dienomis važiuojantiems
-
-į mokyklą ar įstaigą iki 40 km ir atgal mokinio pažymėjime nurodytu maršrutu
-
-vietinio (priemiestinio) reguliaraus susisiekimo autobusais, tolimojo
-
-reguliaraus susisiekimo autobusais, keleiviniais traukiniais, reguliaraus
-
-susisiekimo laivais ir keltais; neformaliojo vaikų švietimo įstaigų mokiniams
-
-ši lengvata taikoma ir ne darbo dienomis;
-
-2) vaikų globos įstaigose, vaikų
-
-socializacijos centruose, bendrojo lavinimo mokyklų ir profesinio mokymo
-
-įstaigų bendrabučiuose gyvenantiems mokiniams, važiuojantiems mokinio
-
-pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo
-
-autobusais, tolimojo reguliaraus susisiekimo autobusais, keleiviniais
-
-traukiniais, reguliaraus susisiekimo laivais ir keltais;
-
-3) vaikų globos namuose gyvenantiems mokiniams,
-
-važiuojantiems mokinio pažymėjime nurodytu maršrutu vietinio (miesto)
-
-reguliaraus susisiekimo autobusais ir troleibusais.
-
-2. Savivaldybių
-
-tarybos savo nustatyta tvarka gali kompensuoti važiavimo išlaidas ir kitais
-
-atvejais.
-
-Straipsnio pakeitimai:
-
 Nr.
 
-IX-2581,
+XI-2106,
 
-2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
-
-Nr. X-1312,
-
-2007-11-06, Žin., 2007, Nr. 120-4879 (2007-11-22)
-
-Nr. X-1612,
-
-2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
-
-Nr.
-
-XI-241,
-
-2009-04-28, Žin., 2009, Nr. 54-2139 (2009-05-12)
-
-7
-
-straipsnis. Teisė į transporto išlaidų kompensaciją
-
-1. Neįgalieji,
-
-turintys sutrikusią judėjimo funkciją, turi teisę:
-
-1) kiekvieną
-
-mėnesį gauti 0,25 minimalaus gyvenimo lygio (MGL) dydžio transporto išlaidų
-
-kompensaciją;
-
-2) vieną kartą
-
-per 6 metus gauti iki 32 MGL dydžio lengvųjų automobilių įsigijimo ir jų
-
-techninio pritaikymo išlaidų kompensaciją, jeigu šie asmenys gali patys
-
-vairuoti šiuos lengvuosius automobilius.
-
-2. Laikotarpiu,
-
-kai neįgalusis, turintis teisę gauti transporto išlaidų kompensaciją, atlieka
-
-bausmę laisvės atėmimo vietoje, ši kompensacija nemokama. Šis laikotarpis taip
-
-pat neįskaitomas lengvųjų automobilių įsigijimo ir jų techninio pritaikymo
-
-išlaidų kompensacijai gauti.
-
-3. Šeimos, auginančios neįgalų
-
-vaiką (įvaikį) iki 18 metų, kuriam nustatytas specialusis nuolatinės slaugos
-
-poreikis, arba neįgalų vaiką (įvaikį), kuriam iki 2005 m. liepos 1 d. buvo pripažinta visiška negalia, vieną kartą per 6 metus turi teisę gauti iki 32
-
-MGL dydžio lengvųjų automobilių įsigijimo ir jų techninio pritaikymo išlaidų
-
-kompensaciją.
-
-4.
-
-Kompensacijos, nustatytos šio straipsnio 1 ir 3 dalyse, mokamos iš valstybės
-
-biudžeto.
-
-5. Transporto
-
-išlaidų kompensacijų mokėjimo tvarką nustato Vyriausybė arba jos įgaliota
-
-institucija.
-
-Straipsnio pakeitimai:
-
-Nr. IX-919,
-
-2002-05-30, Žin., 2002, Nr. 62-2494 (2002-06-21)
-
-Nr.
-
-X-189,
-
-2005-05-12, Žin., 2005, Nr. 67-2401 (2005-05-28)
-
-Nr. X-1612,
-
-2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
-
-TREČIASIS
-
-SKIRSNIS
-
-VEŽĖJŲ IŠLAIDŲ
-
-KOMPENSAVIMO (NEGAUTŲ PAJAMŲ ATLYGINIMO)
-
-TVARKA IR ŠALTINIAI
-
-Skirsnio pavadinimas keistas:
-
-Nr. IX-1192,
-
-2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
-
-8
-
-straipsnis. Vežėjų išlaidų kompensavimo (negautų pajamų atlyginimo) tvarka ir
-
-šaltiniai
-
-Vežėjų
-
-išlaidos (negautos pajamos), susijusios su lengvatų taikymu, kompensuojamos
-
-(atlyginamos) pagal su jais sudarytas sutartis iš valstybės ir
-
-savivaldybių biudžetų Vyriausybės nustatyta tvarka:
-
-1)
-
-dėl važiavimo keleiviniais traukiniais lengvatų, nustatytų šio įstatymo 5
-
-straipsnio 1-5 ir 7 dalyse, –
-
-iš valstybės biudžeto;
-
-2) dėl važiavimo
-
-reguliaraus susisiekimo laivais ir keltais lengvatų, nustatytų šio įstatymo 5
-
-straipsnio 1, 2, 4, 5 ir 7 dalyse, – iš savivaldybių, kuriose
-
-įregistruotos šių vežėjų įmonės, biudžetų;
-
-3) dėl važiavimo
-
-tolimojo reguliaraus susisiekimo autobusais lengvatų, nustatytų šio įstatymo 5
-
-straipsnio 1–5 ir 7 dalyse, – iš valstybės biudžeto;
-
-4) dėl važiavimo
-
-vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir
-
-troleibusais lengvatų, nustatytų šio įstatymo 5 straipsnio 1–7 dalyse, –
-
-iš savivaldybių, išdavusių šiems vežėjams leidimus vežti keleivius vietinio
-
-(miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais,
-
-biudžetų;
-
-5) dėl važiavimo
-
-vietinio (priemiestinio) reguliaraus susisiekimo autobusais, vežančiais
-
-keleivius per dviejų gretimų savivaldybių, iš kurių viena yra didžiųjų miestų –
-
-Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio ir Alytaus – savivaldybė,
-
-teritorijas, – iš miesto ir apie jį esančios savivaldybės biudžetų solidariai
-
-pagal tarpusavio susitarimą.
-
-Straipsnio pakeitimai:
-
-Nr. IX-1192,
-
-2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
-
-Nr. IX-1643,
-
-2003-06-24, Žin., 2003, Nr. 69-3117 (2003-07-10)
-
-Nr.
-
-IX-2581,
-
-2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
-
-Nr. X-1612,
-
-2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
-
-KETVIRTASIS
-
-SKIRSNIS
-
-BAIGIAMOSIOS
-
-NUOSTATOS
-
-9
-
-straipsnis. Įstatymo įsigaliojimas
-
-Šis įstatymas įsigalioja nuo 2000 m. gegužės 1 d., išskyrus 7 straipsnio 1 dalį, kuri įsigalioja nuo 2001 m. sausio 1 d.
-
-10
-
-straipsnis. Įstatymo įgyvendinimo tvarka
-
-Vyriausybė iki 2000 m. balandžio 30 d. nustato šio įstatymo įgyvendinimo tvarką.
-
-11
-
-straipsnis. Atsakomybė už šio įstatymo pažeidimus
-
-Asmenys, pažeidę šio įstatymo
-
-reikalavimus, atsako įstatymų nustatyta tvarka.
-
-12
-
-straipsnis. Teisės akto pripažinimas netekusiu galios
-
-Įsigaliojus šiam įstatymui,
-
-netenka galios Lietuvos Respublikos įstatymas „Dėl važiavimo keleiviniu
-
-transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų
-
-asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos“ (Žin.,
-
-1995, Nr. 87-1954,
-
-Nr.107-2399;
-
-1997, Nr.117-3014;
-
-1999, Nr.60-1958).
-
-Skelbiu šį Lietuvos
-
-Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS
-
-PREZIDENTAS                                                         VALDAS
-
-ADAMKUS
-
-_______________
-
-Pakeitimai:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. IX-791,
-
-2002-03-19, Žin., 2002, Nr. 37-1343 (2002-04-09)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-919,
-
-2002-05-30, Žin., 2002, Nr. 62-2494 (2002-06-21)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis
-
-Įstatymas įsigalioja nuo 2002 m. liepos 1 d.
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1192,
-
-2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 1, 5, 8 STRAIPSNIŲ IR TREČIOJO SKIRSNIO PAVADINIMO PAKEITIMO
-
-ĮSTATYMAS
-
-4.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1643,
-
-2003-06-24, Žin., 2003, Nr. 69-3117 (2003-07-10)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 5, 8 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis
-
-Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
-
-5.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. IX-2581,
-
-2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 5, 6 IR 8 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2005 m. sausio 1 d.
-
-6.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. X-189, 2005-05-12,
-
-Žin., 2005, Nr. 67-2401 (2005-05-28)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 5 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2005 m. liepos 1 d.
-
-7.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-576,
-
-2006-04-25, Žin., 2006, Nr. 53-1929 (2006-05-13)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2007 m. sausio 1 d.
-
-8.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-1312,
-
-2007-11-06, Žin., 2007, Nr. 120-4879 (2007-11-22)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja 2008 m. sausio 1 d.
-
-9.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-1612, 2008-06-17,
-
-Žin., 2008, Nr. 74-2862 (2008-06-30)
-
-TRANSPORTO
-
-LENGVATŲ ĮSTATYMO 1, 2, 3, 5, 6, 7, 8 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-
-ĮSTATYMAS
+2012-06-21, Žin., 2012, Nr. 78-4028 (2012-07-04)
 
 7 straipsnis. Teisė į
 
@@ -1631,119 +1073,55 @@ Aušrinė Trapinskienė (2005-06-01)
 
 autrap@lrs.lt
 
-6 straipsnis. Važiavimo išlaidų kompensavimas
+6 straipsnis. Važiavimo
 
-mokiniams, vaikų globos įstaigų gyventojams, mokytojams, gydytojams ir
+išlaidų kompensavimas mokiniams ir vaikų globos įstaigų gyventojams bei kitais
 
-slaugytojams, socialiniams darbuotojams ir jų padėjėjams, socialiniams
+atvejais
 
-pedagogams ir jų padėjėjams, auklėtojams ir jų padėjėjams, kultūros ir meno
+1. Savivaldybės, kurių teritorijoje yra
 
-darbuotojams
+švietimo ir vaikų globos įstaigos, savo nustatyta tvarka kompensuoja visas
 
-1. Savivaldybės,
+važiavimo išlaidas:
 
-kurių teritorijoje yra švietimo, sveikatos priežiūros, socialinių paslaugų,
+1) kaimuose ir miesteliuose gyvenantiems
 
-kultūros ir meno įstaigos, savo nustatyta tvarka kompensuoja visas važiavimo
+bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir neformaliojo vaikų
 
-išlaidas:
+švietimo įstaigų mokiniams, šių mokyklų ar įstaigų darbo dienomis
 
-1) kaimuose ir
+važiuojantiems į mokyklą ar įstaigą iki 40 km ir atgal mokinio pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo autobusais,
 
-miesteliuose gyvenantiems bendrojo lavinimo mokyklų, profesinio mokymo įstaigų
+tolimojo reguliaraus susisiekimo autobusais, keleiviniais traukiniais,
 
-ir neformaliojo vaikų švietimo įstaigų mokiniams, šių mokyklų ar įstaigų darbo
+reguliaraus susisiekimo laivais ir keltais; neformaliojo vaikų švietimo įstaigų
 
-dienomis važiuojantiems į mokyklą ar įstaigą iki 40 km ir atgal mokinio pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo
+mokiniams ši lengvata taikoma ir ne darbo dienomis;
 
-autobusais, tolimojo reguliaraus susisiekimo autobusais, keleiviniais
+2) vaikų globos įstaigose, vaikų
 
-traukiniais, reguliaraus susisiekimo laivais ir keltais; neformaliojo vaikų
+socializacijos centruose, bendrojo lavinimo mokyklų ir profesinio mokymo
 
-švietimo įstaigų mokiniams ši lengvata taikoma ir ne darbo dienomis;
+įstaigų bendrabučiuose gyvenantiems mokiniams, važiuojantiems mokinio
 
-2) vaikų globos
+pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo
 
-namuose, vaikų socializacijos centruose, bendrojo lavinimo mokyklų ir
+autobusais, tolimojo reguliaraus susisiekimo autobusais, keleiviniais traukiniais,
 
-profesinio mokymo įstaigų bendrabučiuose gyvenantiems mokiniams, važiuojantiems
+reguliaraus susisiekimo laivais ir keltais;
 
-mokinio pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus
+3) vaikų globos namuose gyvenantiems
 
-susisiekimo autobusais, tolimojo reguliaraus susisiekimo autobusais,
+mokiniams, važiuojantiems mokinio pažymėjime nurodytu maršrutu vietinio
 
-keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais;
+(miesto) reguliaraus susisiekimo autobusais ir troleibusais.
 
-3) kaimuose ir
+2. Savivaldybių
 
-miesteliuose esančių bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir
+tarybos savo nustatyta tvarka gali kompensuoti važiavimo išlaidas ir kitais
 
-neformaliojo vaikų ir suaugusiųjų švietimo įstaigų mokytojams, kaimuose ir
-
-miesteliuose esančių sveikatos priežiūros įstaigų gydytojams ir slaugytojams,
-
-jų darbo šiose mokyklose ar įstaigose dienomis važiuojantiems į darbą iki 40 km ir atgal vietinio (priemiestinio) reguliaraus susisiekimo autobusais, tolimojo reguliaraus
-
-susisiekimo autobusais, keleiviniais traukiniais, reguliaraus susisiekimo
-
-laivais ir keltais;
-
-4) kaimuose ir
-
-miesteliuose esančiose socialinių paslaugų įstaigose ir seniūnijose dirbantiems
-
-socialiniams darbuotojams ir jų padėjėjams, socialiniams pedagogams ir jų
-
-padėjėjams, auklėtojams ir jų padėjėjams, jų darbo dienomis važiuojantiems į
-
-darbą iki 40 km ir atgal vietinio (priemiestinio) reguliaraus susisiekimo
-
-autobusais, tolimojo reguliaraus susisiekimo autobusais, keleiviniais
-
-traukiniais, reguliaraus susisiekimo laivais ir keltais;
-
-5) kaimuose ir
-
-miesteliuose esančiose kultūros ir meno įstaigose dirbantiems kultūros ir meno
-
-darbuotojams, jų darbo dienomis važiuojantiems į darbą iki 40 km ir atgal vietinio (priemiestinio) reguliaraus susisiekimo autobusais, tolimojo reguliaraus
-
-susisiekimo autobusais, keleiviniais traukiniais, reguliaraus susisiekimo
-
-laivais ir keltais.
-
-2.
-
-Savivaldybės, kurių teritorijoje yra švietimo, sveikatos priežiūros, socialinių
-
-paslaugų, kultūros ir meno įstaigos, savo nustatyta tvarka kaimuose ir
-
-miesteliuose esančių bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir
-
-neformaliojo vaikų ir suaugusiųjų švietimo įstaigų mokytojams, kaimuose ir
-
-miesteliuose esančių sveikatos priežiūros įstaigų gydytojams ir slaugytojams,
-
-kaimuose ir miesteliuose esančiose socialinių paslaugų įstaigose bei
-
-seniūnijose dirbantiems socialiniams darbuotojams ir jų padėjėjams,
-
-socialiniams pedagogams ir jų padėjėjams, auklėtojams ir jų padėjėjams,
-
-kaimuose ir miesteliuose esančiose kultūros ir meno įstaigose dirbantiems
-
-kultūros ir meno darbuotojams, kurie į darbą ir atgal vyksta nuosavu
-
-transportu, moka kompensacijas, kurių dydis
-
-yra lygus kompensacijų, kurios būtų pagal šio straipsnio 1 dalies 3–5 punktus
-
-išmokėtos jiems vykstant į darbą ir atgal vietinio (priemiestinio) reguliaraus
-
-susisiekimo autobusais, tolimojo reguliaraus susisiekimo autobusais,
-
-keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais, dydžiui.
+atvejais.
 
 Straipsnio pakeitimai:
 
@@ -1760,6 +1138,12 @@ Nr. X-1312,
 Nr. X-1612,
 
 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
+
+Nr.
+
+XI-241,
+
+2009-04-28, Žin., 2009, Nr. 54-2139 (2009-05-12)
 
 7
 
@@ -1823,9 +1207,9 @@ Nr. IX-919,
 
 Nr.
 
-X-189,
+X-189, 2005-05-12,
 
-2005-05-12, Žin., 2005, Nr. 67-2401 (2005-05-28)
+Žin., 2005, Nr. 67-2401 (2005-05-28)
 
 Nr. X-1612,
 
@@ -1857,9 +1241,9 @@ Vežėjų
 
 išlaidos (negautos pajamos), susijusios su lengvatų taikymu, kompensuojamos
 
-(atlyginamos) pagal su jais sudarytas sutartis iš valstybės ir savivaldybių
+(atlyginamos) pagal su jais sudarytas sutartis iš valstybės ir
 
-biudžetų Vyriausybės nustatyta tvarka:
+savivaldybių biudžetų Vyriausybės nustatyta tvarka:
 
 1)
 
@@ -1985,8 +1369,6 @@ PREZIDENTAS                                  �
 
 ADAMKUS
 
-_______________
-
 Pakeitimai:
 
 1.
@@ -2011,9 +1393,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-919, 2002-05-30,
+IX-919,
 
-Žin., 2002, Nr. 62-2494 (2002-06-21)
+2002-05-30, Žin., 2002, Nr. 62-2494 (2002-06-21)
 
 TRANSPORTO
 
