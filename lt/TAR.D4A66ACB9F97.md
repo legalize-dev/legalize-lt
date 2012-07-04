@@ -4,7 +4,7 @@ identifier: "TAR.D4A66ACB9F97"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2012-04-28"
+last_updated: "2012-07-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97"
 department: "Lietuvos Respublikos Seimas"
@@ -252,11 +252,11 @@ tvarka įgiję teisę nuolat gyventi Lietuvoje;
 
 27) asmenys,
 
-suteikę auką politinės kampanijos dalyviui, ir jų šeimos nariai, išskyrus asmenis,
+aukojantys savarankiškam politinės kampanijos dalyviui, ir jų šeimos
 
-kurių aukos savarankiškam politinės kampanijos dalyviui per politinę kampaniją neviršijo
+nariai, išskyrus asmenis, kurių auka (aukų suma) vienam savarankiškam politinės
 
-40 litų;
+kampanijos dalyviui per politinę kampaniją neviršija 40 litų;
 
 28)
 
@@ -292,9 +292,9 @@ deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai.
 
 18 metų, kurie privalo deklaruoti turtą tik tuo atveju, jeigu jie yra
 
-nuolatiniai Lietuvos gyventojai. Nuolatinis Lietuvos gyventojas yra fizinis asmuo,
+nuolatiniai Lietuvos gyventojai. Nuolatinis Lietuvos gyventojas yra fizinis
 
-kuris laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos
+asmuo, kuris laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos
 
 gyventojų pajamų mokesčio įstatymą. Šio straipsnio 1 dalies 28 punkte nurodytų
 
@@ -373,6 +373,10 @@ apskaičiuojant ir deklaruojant 2011 metų ir vėlesnių metų turtą.
 Nr. XI-1992,
 
 2012-04-26, Žin., 2012, Nr. 50-2446 (2012-04-28)
+
+Nr. XI-2100,
+
+2012-06-21, Žin., 2012, Nr. 78-4022 (2012-07-04)
 
 2 straipsnis.
 
@@ -678,19 +682,19 @@ deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui.
 
 2. Deklaracija
 
-pateikiama kasmet iki kalendorinių metų, einančių po kalendorinių metų, už
+pateikiama kasmet iki kalendorinių metų, einančių po tų kalendorinių metų, už
 
 kuriuos deklaruojamas turimas turtas, gegužės 1 dienos, išskyrus šio Įstatymo
 
-6, 7 ir 71 straipsniuose nustatytus atvejus.
+6, 7, 71 ir 72 straipsniuose nustatytus atvejus.
 
 3. Gali būti
 
 tikslinami penkerių praėjusių kalendorinių metų deklaracijų duomenys, pradedant
 
-skaičiuoti nuo kalendorinių metų, buvusių prieš tuos kalendorinius metus, kuriais
+skaičiuoti nuo kalendorinių metų, buvusių prieš tuos kalendorinius metus,
 
-tikslinama.
+kuriais tikslinama.
 
 4. Deklaracijos
 
@@ -730,6 +734,10 @@ Nr. XI-1785,
 
 apskaičiuojant ir deklaruojant 2011 metų ir vėlesnių metų turtą.
 
+Nr. XI-2100,
+
+2012-06-21, Žin., 2012, Nr. 78-4022 (2012-07-04)
+
 6
 
 straipsnis. Kandidatų į valstybės politikus ir į Europos Parlamento narius,
@@ -750,43 +758,43 @@ deklaruoti kalendorinių metų, einančių prieš kalendorinius metus, kuriais
 
 kandidatuojama, gruodžio 31 dieną turimą turtą. Šiems gyventojams vietos
 
-mokesčio administratorius per 15 darbo dienų nuo deklaracijos pateikimo dienos
+mokesčio administratorius per 15 darbo dienų nuo deklaracijos pateikimo dienos išduoda
 
-išduoda Vyriausiosios rinkimų komisijos patvirtintos formos pagrindinių
+Vyriausiosios rinkimų komisijos patvirtintos formos pagrindinių deklaracijos
 
-deklaracijos duomenų išrašus, kuriuos jie privalo pateikti Vyriausiajai rinkimų
+duomenų išrašus, kuriuos jie privalo pateikti Vyriausiajai rinkimų komisijai ar
 
-komisijai ar apygardos rinkimų komisijai.
+apygardos rinkimų komisijai.
 
 2. Išrinkti arba
 
-paskirti į pareigas valstybės politikai bei Europos Parlamento nariai ir jų šeimos
+paskirti į pareigas valstybės politikai bei Europos Parlamento nariai ir jų
 
-nariai, taip pat priimti arba paskirti į pareigas valstybės tarnautojai ir jų
+šeimos nariai, taip pat priimti arba paskirti į pareigas valstybės tarnautojai
 
-šeimos nariai, išskyrus tuos, kurie yra deklaravę kalendorinių metų, einančių
+ir jų šeimos nariai, išskyrus tuos, kurie yra deklaravę kalendorinių metų,
 
-prieš kalendorinius metus, kuriais valstybės politikai ar Europos Parlamento
+einančių prieš kalendorinius metus, kuriais valstybės politikai ar Europos
 
-nariai buvo išrinkti arba paskirti į pareigas ar valstybės tarnautojai buvo
+Parlamento nariai buvo išrinkti arba paskirti į pareigas ar valstybės
 
-priimti arba paskirti į pareigas, gruodžio 31 dieną turimą turtą, privalo
+tarnautojai buvo priimti arba paskirti į pareigas, gruodžio 31 dieną turimą
 
-deklaruoti kalendorinių metų, einančių prieš kalendorinius metus, kuriais
+turtą, privalo deklaruoti kalendorinių metų, einančių prieš kalendorinius
 
-valstybės politikai ar Europos Parlamento nariai buvo išrinkti arba paskirti į
+metus, kuriais valstybės politikai ar Europos Parlamento nariai buvo išrinkti
 
-pareigas ar valstybės tarnautojai buvo priimti arba paskirti į pareigas,
+arba paskirti į pareigas ar valstybės tarnautojai buvo priimti arba paskirti į
 
-gruodžio 31 dieną turimą turtą. Deklaracijos pateikiamos per 30 dienų nuo
+pareigas, gruodžio 31 dieną turimą turtą. Deklaracijos pateikiamos per 30 dienų
 
-išrinkimo, paskyrimo arba priėmimo į pareigas pradžios. Išrinktiems arba paskirtiems
+nuo išrinkimo, paskyrimo arba priėmimo į pareigas pradžios. Išrinktiems arba
 
-į pareigas valstybės politikams bei Europos Parlamento nariams ir jų šeimos
+paskirtiems į pareigas valstybės politikams bei Europos Parlamento nariams ir
 
-nariams, taip pat priimtiems arba paskirtiems į pareigas valstybės tarnautojams
+jų šeimos nariams, taip pat priimtiems arba paskirtiems į pareigas valstybės
 
-ir jų šeimos nariams, deklaravusiems turtą, vietos mokesčio administratorius
+tarnautojams ir jų šeimos nariams, deklaravusiems turtą, vietos mokesčio administratorius
 
 per 15 darbo dienų nuo deklaracijos pateikimo dienos išduoda pažymas apie
 
@@ -2180,29 +2188,37 @@ turimą turtą.
 
 72 straipsnis.
 
-Asmenų, suteikusių auką politinės kampanijos dalyviui, ir jų šeimos narių turto
+Asmenų, aukojančių savarankiškam politinės kampanijos dalyviui, ir jų šeimos
 
-(įskaitant gautas pajamas) deklaravimas
+narių turto (įskaitant gautas pajamas) deklaravimas
 
-1. Asmenys, suteikę auką politinės kampanijos dalyviui, ir
+1. Asmenys, prieš suteikdami auką savarankiškam politinės kampanijos
 
-jų šeimos nariai privalo deklaruoti kalendorinių metų, kuriais jie suteikė auką
+dalyviui, ir jų šeimos nariai deklaruoja kalendorinių metų, einančių prieš
 
-politinės kampanijos dalyviui, gruodžio 31 dieną turimą turtą ir pajamas
+metus, kuriais jie aukoja savarankiškam politinės kampanijos dalyviui, gruodžio
 
-pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių
+31 dieną turimą turtą (įskaitant gautas pajamas) pateikdami mokesčio
 
-gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai.
+administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu
 
-Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją
+gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad
 
-pateikusiam gyventojui.
+deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui.
 
-2. Deklaracija
+2. Deklaracija pateikiama likus ne mažiau kaip 10
 
-pateikiama iki kalendorinių metų, einančių po kalendorinių metų, už kuriuos
+darbo dienų iki aukos suteikimo.
 
-deklaruojamas turimas turtas, gegužės 1 dienos.
+3. Asmenys, šiame
+
+įstatyme nustatyta tvarka deklaravę kalendorinių metų, einančių prieš metus,
+
+kuriais jie aukoja savarankiškam politinės kampanijos dalyviui, gruodžio 31
+
+dieną turimą turtą ir pajamas, prieš suteikdami auką savarankiškam politinės
+
+kampanijos dalyviui pakartotinai šių kalendorinių metų deklaracijos neteikia.
 
 Įstatymas
 
@@ -2212,9 +2228,17 @@ Nr. XI-819,
 
 2010-05-18, Žin., 2010, Nr. 63-3097 (2010-05-31)
 
+Straipsnio
+
+pakeitimai:
+
 Nr. XI-1780,
 
 2011-12-06, Žin., 2011, Nr. 153-7208 (2011-12-15)
+
+Nr. XI-2100,
+
+2012-06-21, Žin., 2012, Nr. 78-4022 (2012-07-04)
 
 III SKYRIUS
 
@@ -2298,9 +2322,9 @@ Nr. XI-1278,
 
 2011-03-15, Žin., 2011, Nr. 37-1757 (2011-03-29)
 
-Nr. XI-1785, 2011-12-06,
+Nr. XI-1785,
 
-Žin., 2011, Nr. 153-7210 (2011-12-15)
+2011-12-06, Žin., 2011, Nr. 153-7210 (2011-12-15)
 
 *Pastaba: šio įstatymo nuostatos taikomos
 
@@ -2340,33 +2364,31 @@ pat apygardų ir apylinkių prokuratūrų vadovų, valstybės kontrolieriaus,
 
 valstybės kontrolieriaus pavaduotojų, Valstybės kontrolės valstybės tarnautojų,
 
-Lietuvos Respublikos Vyriausybės įstaigų (departamentų, agentūrų, tarnybų,
+Lietuvos Respublikos Vyriausybės įstaigų (departamentų, agentūrų, tarnybų, inspekcijų),
 
-inspekcijų), prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų
+prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės
 
-valstybės valdymo institucijų vadovų (generalinių direktorių, direktorių,
+valdymo institucijų vadovų (generalinių direktorių, direktorių, viršininkų) ir
 
-viršininkų) ir vadovų pavaduotojų, Lietuvos banko valdybos pirmininko ir
+vadovų pavaduotojų, Lietuvos banko valdybos pirmininko ir valdybos pirmininko
 
-valdybos pirmininko pavaduotojų, Muitinės departamento prie Finansų
+pavaduotojų, Muitinės departamento prie Finansų ministerijos ir teritorinių
 
-ministerijos ir teritorinių muitinių valstybės tarnautojų, Valstybinės mokesčių
+muitinių valstybės tarnautojų, Valstybinės mokesčių inspekcijos prie Finansų
 
-inspekcijos prie Finansų ministerijos ir teritorinių mokesčių inspekcijų
+ministerijos ir teritorinių mokesčių inspekcijų valstybės tarnautojų, Vidaus
 
-valstybės tarnautojų, Vidaus reikalų ministerijos valdymo srities statutinių
+reikalų ministerijos valdymo srities statutinių įstaigų valstybės tarnautojų,
 
-įstaigų valstybės tarnautojų, Seimo kontrolierių, valstybės saugumo sistemos
+Seimo kontrolierių, valstybės saugumo sistemos valstybės tarnautojų ir jų
 
-valstybės tarnautojų ir jų šeimos narių deklaracijų duomenys, išskyrus
+šeimos narių deklaracijų duomenys, išskyrus operatyvinės veiklos subjektų
 
-operatyvinės veiklos subjektų teises turinčių valstybės institucijų valstybės
+teises turinčių valstybės institucijų valstybės tarnautojų ir pareigūnų, kurių
 
-tarnautojų ir pareigūnų, kurių veiklą reglamentuoja Operatyvinės veiklos
+veiklą reglamentuoja Operatyvinės veiklos įstatymas, ir jų šeimos narių
 
-įstatymas, ir jų šeimos narių deklaracijų duomenis, yra skelbiami be šių
-
-gyventojų rašytinio sutikimo.
+deklaracijų duomenis, yra skelbiami be šių gyventojų rašytinio sutikimo.
 
 3. Centrinis
 
@@ -2447,8 +2469,6 @@ Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 
 BRAZAUSKAS
-
-_____________
 
 Pakeitimai:
 
@@ -2546,9 +2566,9 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1887, 00.07.20, Žin., 2000, Nr.67-2017
+Nr. VIII-1887, 00.07.20, Žin., 2000,
 
-(00.08.09)
+Nr.67-2017 (00.08.09)
 
 GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 2, 3, 5,
 
@@ -2614,7 +2634,9 @@ IX-944,
 
 GYVENTOJŲ
 
-TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 11 STRAIPSNIO IR 2 PRIEDĖLIO PAPILDYMO ĮSTATYMAS
+TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 11 STRAIPSNIO IR 2 PRIEDĖLIO PAPILDYMO
+
+ĮSTATYMAS
 
 11.
 
@@ -2928,15 +2950,29 @@ GYVENTOJŲ
 
 TURTO DEKLARAVIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+27.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-2100,
+
+2012-06-21, Žin., 2012, Nr. 78-4022 (2012-07-04)
+
+GYVENTOJŲ
+
+TURTO DEKLARAVIMO ĮSTATYMO 2, 5 IR 7(2) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2012-04-30)
+Aušra Bodin (2012-07-04)
 
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
 
 71 straipsnis. Atskaitinis turto
 
