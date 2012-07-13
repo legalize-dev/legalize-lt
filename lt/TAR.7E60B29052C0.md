@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2011-12-31"
+last_updated: "2012-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -306,7 +306,9 @@ PRIEDĖLIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XI-1839, 2011-12-21, Žin., 2011, Nr. 163-7749 (2011-12-31)
+Nr. XI-1839,
+
+2011-12-21, Žin., 2011, Nr. 163-7749 (2011-12-31)
 
 VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO
 
@@ -386,7 +388,9 @@ POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEI
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XI-1840, 2011-12-21, Žin., 2011, Nr. 163-7750 (2011-12-31)
+Nr. XI-1840,
+
+2011-12-21, Žin., 2011, Nr. 163-7750 (2011-12-31)
 
 VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO
 
@@ -1022,244 +1026,6 @@ algos koeficientas
 
 1.
 
-Generalinė
-
-prokuratūra
-
-1.1.
-
-Generalinis prokuroras
-
-13,60
-
-1.2.
-
-Generalinio prokuroro pavaduotojas
-
-12,38
-
-1.3.
-
-Departamento vyriausiasis prokuroras
-
-11,97
-
-1.4.
-
-Skyriaus vyriausiasis prokuroras
-
-11,80
-
-1.5.
-
-Departamento vyriausiojo prokuroro
-
-pavaduotojas
-
-11,64
-
-1.6.
-
-Skyriaus vyriausiojo prokuroro
-
-pavaduotojas
-
-11,47
-
-1.7.
-
-ONKT departamento prokuroras
-
-11,23
-
-1.8.
-
-Departamento prokuroras
-
-10,67
-
-1.9.
-
-Skyriaus prokuroras
-
-10,58
-
-1.10.
-
-Prokuroras
-
-10,50
-
-2.
-
-Apygardų
-
-prokuratūros
-
-2.1.
-
-Vyriausiasis prokuroras
-
-10,92
-
-2.2.
-
-Vyriausiojo prokuroro pavaduotojas
-
-10,10
-
-2.3.
-
-Skyriaus vyriausiasis prokuroras
-
-9,72
-
-2.4.
-
-Skyriaus vyriausiojo prokuroro
-
-pavaduotojas
-
-9,54
-
-2.5.
-
-ONKT prokuroras
-
-9,45
-
-2.6.
-
-Prokuroras
-
-9,03
-
-3.
-
-Vilniaus, Kauno ir Klaipėdos miestų
-
-apylinkių prokuratūros
-
-3.1.
-
-Vyriausiasis prokuroras
-
-9,26
-
-3.2.
-
-Vyriausiojo prokuroro pavaduotojas
-
-8,88
-
-3.3.
-
-Skyriaus vyriausiasis prokuroras
-
-8,20
-
-3.4.
-
-Skyriaus vyriausiojo prokuroro
-
-pavaduotojas
-
-8,11
-
-3.5.
-
-Prokuroras
-
-8,01
-
-4.
-
-Šiaulių ir Panevėžio miestų apylinkių
-
-prokuratūros
-
-4.1.
-
-Vyriausiasis prokuroras
-
-9,22
-
-4.2.
-
-Vyriausiojo prokuroro pavaduotojas
-
-8,79
-
-4.3.
-
-Skyriaus vyriausiasis prokuroras
-
-8,20
-
-4.4.
-
-Skyriaus vyriausiojo prokuroro
-
-pavaduotojas
-
-8,11
-
-4.5.
-
-Prokuroras
-
-8,01
-
-5.
-
-Kitų rajonų (miestų) apylinkių
-
-prokuratūros
-
-5.1.
-
-Vyriausiasis prokuroras
-
-8,88
-
-5.2.
-
-Vyriausiojo prokuroro pavaduotojas
-
-8,45
-
-5.3.
-
-Prokuroras
-
-7,76
-
-Pastaba. ONKT –
-
-Organizuotų nusikaltimų ir korupcijos tyrimas.
-
-III
-
-skirsnio redakcija nuo 2012 m. gegužės 1 d.:
-
-III. Prokurorų pareiginės algos
-
-(Baziniais
-
-dydžiais)
-
-Eil. Nr.
-
-Pareigų
-
-pavadinimas
-
-Pareiginės
-
-algos koeficientas
-
-1.
-
 Generalinė prokuratūra
 
 1.1.
@@ -1482,39 +1248,33 @@ Seimo, Seimo Pirmininko, Respublikos
 
 Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
 
-tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės
-
-lošimų priežiūros komisijos, Vertybinių popierių komisijos, Vyriausiosios
-
-rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
-
-Redakcija nuo 2012-01-01:
-
-Seimo, Seimo Pirmininko, Respublikos
-
-Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
-
-tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės
-
-lošimų priežiūros komisijos, Vyriausiosios rinkimų komisijos ir Vyriausiosios
-
-tarnybinės etikos komisijos:
-
-Redakcija nuo 2012-03-01:
-
-Seimo, Seimo Pirmininko, Respublikos
-
-Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
-
 tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vyriausiosios
 
 rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
+
+Redakcija nuo 2012-08-01:
+
+Seimo, Seimo Pirmininko, Respublikos
+
+Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
+
+tarybos, Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės
+
+kainų ir energetikos kontrolės komisijos, Vyriausiosios rinkimų komisijos ir
+
+Vyriausiosios tarnybinės etikos komisijos:
 
 7.1.
 
 pirmininkai
 
+Redakcija nuo 2012-08-01:
+
+pirmininkai ar direktoriai
+
 10,10
+
+12,3
 
 7.2.
 
@@ -1594,31 +1354,7 @@ nariai
 
 11.
 
-Lietuvos Respublikos draudimo
-
-priežiūros komisijos:
-
-11 punktas netenka galios nuo
-
-2012-01-01
-
-11.1.
-
-pirmininkas
-
-10,10
-
-11.2.
-
-pavaduotojai
-
-9,44
-
-11.3.
-
-nariai
-
-8,57
+Neteko galios nuo 2012-01-01
 
 12.
 
@@ -2212,17 +1948,17 @@ Nr. IX-841,
 
 2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
 
-Nr. IX-1012,
+Nr. IX-1012, 2002-07-02,
 
-2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
+Žin., 2002, Nr. 72-3018 (2002-07-17)
 
 Nr. IX-1045,
 
 2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
 
-Nr. IX-1326,
+Nr. IX-1326, 2003-01-28,
 
-2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
+Žin., 2003, Nr. 17-703 (2003-02-19)
 
 Nr. IX-1390,
 
@@ -2344,7 +2080,9 @@ Nr. XI-1840,
 
 2011-12-21, Žin., 2011, Nr. 163-7750 (2011-12-31)
 
-________________
+Nr. XI-2180,
+
+2012-06-29, Žin., 2012, Nr. 82-4266 (2012-07-13)
 
 Pakeitimai:
 
@@ -2380,9 +2118,9 @@ APMOKĖJIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 3.
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos Seimas, Įstatymas
+Seimas, Įstatymas
 
 Nr. IX-312, 2001 05 08, Žin., 2001, Nr.
 
@@ -2686,9 +2424,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1253, 2007-07-03,
+X-1253,
 
-Žin., 2007, Nr. 80-3223 (2007-07-19)
+2007-07-03, Žin., 2007, Nr. 80-3223 (2007-07-19)
 
 VALSTYBĖS
 
@@ -2724,9 +2462,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1385,
+X-1385, 2007-12-18,
 
-2007-12-18, Žin., 2007, Nr. 140-5757 (2007-12-29)
+Žin., 2007, Nr. 140-5757 (2007-12-29)
 
 VALSTYBĖS
 
