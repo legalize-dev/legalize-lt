@@ -4,7 +4,7 @@ identifier: "TAR.585F264186E1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-23"
-last_updated: "2011-12-31"
+last_updated: "2012-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.585F264186E1"
 department: "Lietuvos Respublikos Seimas"
@@ -526,15 +526,17 @@ Seimo, Seimo Pirmininko, Respublikos
 
 Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
 
-tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vyriausiosios
+tarybos, Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės
 
-rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
+kainų ir energetikos kontrolės komisijos, Vyriausiosios rinkimų komisijos ir
+
+Vyriausiosios tarnybinės etikos komisijos:
 
 7.1.
 
-pirmininkai
+pirmininkai ar direktoriai
 
-12
+12,3
 
 7.2.
 
@@ -657,6 +659,12 @@ Nr. XI-1789,
 Nr. XI-1839,
 
 2011-12-21, Žin., 2011, Nr. 163-7749 (2011-12-31)
+
+Nr.
+
+XI-2181,
+
+2012-06-29, Žin., 2012, Nr. 82-4267 (2012-07-13)
 
 3 straipsnis. Įstatymo galiojimas
 
