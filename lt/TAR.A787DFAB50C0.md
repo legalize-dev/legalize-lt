@@ -4,7 +4,7 @@ identifier: "TAR.A787DFAB50C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-13"
-last_updated: "2012-01-01"
+last_updated: "2012-07-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A787DFAB50C0"
 department: "Lietuvos Respublikos Seimas"
@@ -19,6 +19,10 @@ entry_into_force_conditions: "Įstatymo 7 straipsnis įsigalioja 2011-12-28, 1 s
 LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 4, 7, 8,
 
 16, 19 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Suvestinė redakcija nuo 2012-07-14 iki 2013-12-29
+
+Įstatymas paskelbtas: Žin. 2011, Nr. 160-7561, i. k. 1111010ISTA0XI-1792
 
 LIETUVOS RESPUBLIKOS
 
@@ -62,7 +66,11 @@ Vilnius
 
 3. Pakeisti 7 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
-„1) individualios įmonės savininko, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę sudaro individualios įmonės ar ūkinės bendrijos Fondo valdybos su Valstybine mokesčių inspekcija prie Finansų ministerijos nustatyta tvarka deklaruoto ir su Fondo valdybos teritoriniu skyriumi bei teritorine valstybine mokesčių inspekcija suderinto dydžio lėšų suma, kuri kalendoriniais metais išsiimama individualios įmonės savininko ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams ir kuri kalendorinių metų mėnesį negali būti mažesnė kaip minimalioji mėnesinė alga. Šios nuostatos netaikomos, jeigu individuali įmonė ar ūkinė bendrija veiklos laikinai nevykdo ir yra tai deklaravusi Mokesčių administravimo įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka;“.
+„1) individualios įmonės savininko, mažosios bendrijos nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę sudaro individualios įmonės, mažosios bendrijos ar ūkinės bendrijos Fondo valdybos su Valstybine mokesčių inspekcija prie Finansų ministerijos nustatyta tvarka deklaruoto ir su Fondo valdybos teritoriniu skyriumi bei teritorine valstybine mokesčių inspekcija suderinto dydžio lėšų suma, kuri kalendoriniais metais išsiimama individualios įmonės savininko, mažosios bendrijos nario ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams ir kuri kalendorinių metų mėnesį negali būti mažesnė kaip minimalioji mėnesinė alga. Šios nuostatos netaikomos, jeigu individuali įmonė, mažoji bendrija ar ūkinė bendrija veiklos laikinai nevykdo ir yra tai deklaravusi Mokesčių administravimo įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka;“.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2175, 2012-06-29, Žin., 2012, Nr. 83-4349 (2012-07-14), i. k. 1121010ISTA0XI-2175
 
 3 straipsnis. 8 straipsnio 1 dalies 17 punkto pakeitimas
 
@@ -107,4 +115,14 @@ Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2012 m. sausio
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2175, 2012-06-29, Žin., 2012, Nr. 83-4349 (2012-07-14), i. k. 1121010ISTA0XI-2175
+
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 7, 8, 16, 19 straipsnių pakeitimo ir papildymo įstatymo 2 straipsnio pakeitimo įstatymas
 
