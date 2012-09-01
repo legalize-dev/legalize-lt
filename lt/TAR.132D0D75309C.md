@@ -4,7 +4,7 @@ identifier: "TAR.132D0D75309C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2012-03-01"
+last_updated: "2012-09-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo trečiasis, ketvirtasis ir penktasis ski
 ---
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2012-03-01 iki 2012-08-31
+Suvestinė redakcija nuo 2012-09-01 iki 2012-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
 
@@ -319,10 +319,6 @@ Kiekvienos finansinės ataskaitos pradžioje turi būti nurodyta:
 
 6. Sutrumpintų finansinių ataskaitų reikalavimus nustato verslo apskaitos standartai.
 
-PENKTASIS SKIRSNIS
-
-METINIS PRANEŠIMAS
-
 25 straipsnis. Metinis pranešimas
 
 1. Akcinės bendrovės, uždarosios akcinės bendrovės, tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos, kurių visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, prie metinių finansinių ataskaitų privalo parengti metinį pranešimą.
@@ -481,6 +477,22 @@ Nr. XI-1799, 2011-12-15, Žin., 2011, Nr. 160-7566 (2011-12-28), i. k. 1111010IS
 
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 15, 18, 20, 21 straipsnių pakeitimo ir papildymo įstatymas
 
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1949, 2012-03-29, Žin., 2012, Nr. 44-2142 (2012-04-14), i. k. 1121010ISTA0XI-1949
+
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 2, 15, 19, 22 straipsnių ir priedo pakeitimo ir papildymo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2164, 2012-06-29, Žin., 2012, Nr. 83-4338 (2012-07-14), i. k. 1121010ISTA0XI-2164
+
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo papildymo 24-1 straipsniu įstatymas
+
 28 straipsnis. Atsakomybė už finansinės atskaitomybės sudarymą
 
 1. Asmenys, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
@@ -595,51 +607,15 @@ Papildyta straipsniu:
 
 Nr. X-731, 2006-06-27, Žin., 2006, Nr. 78-3057 (2006-07-18), i. k. 1061010ISTA000X-731
 
-241 straipsnis. Metinis pranešimas
+241 straipsnis. Mažųjų bendrijų finansinės ataskaitos
 
-1. Akcinės bendrovės, uždarosios akcinės bendrovės, tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos, kurių visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, be metinės finansinės atskaitomybės, privalo parengti metinį pranešimą.
+Mažųjų bendrijų finansinių ataskaitų rinkinio sudėties ir sudarymo reikalavimus nustato verslo apskaitos standartai.
 
-2. Metiniame pranešime turi būti pateikiama:
+Papildyta straipsniu:
 
-1) objektyvi įmonės būklės, veiklos vykdymo ir plėtros apžvalga, pagrindinių rizikos rūšių ir neapibrėžtumų, su kuriais įmonė susiduria, apibūdinimas;
-
-2) finansinių ir nefinansinių veiklos rezultatų analizė, su aplinkos ir personalo klausimais susijusi informacija;
-
-3) nuorodos ir papildomi paaiškinimai apie metinėje finansinėje atskaitomybėje pateiktus duomenis;
-
-4) visų įmonės įsigytų ir turimų savų akcijų skaičius bei jų nominali vertė ir įstatinio kapitalo dalis, kurią tos akcijos sudaro;
-
-5) per ataskaitinį laikotarpį įsigytų ir perleistų savų akcijų skaičius bei jų nominali vertė ir įstatinio kapitalo dalis, kurią tos akcijos sudaro;
-
-6) informacija apie apmokėjimą už savas akcijas, jeigu jos įsigyjamos ar perleidžiamos už užmokestį;
-
-7) įmonės savų akcijų įsigijimo per ataskaitinį laikotarpį priežastys;
-
-8) informacija apie įmonės filialus ir atstovybes;
-
-9) svarbūs įvykiai, buvę nuo praėjusių finansinių metų pabaigos;
-
-10) įmonės veiklos planai ir prognozės;
-
-11) informacija apie įmonės tyrimų ir plėtros veiklą;
-
-12) kai įmonė naudoja finansines priemones ir kai tai yra svarbu vertinant įmonės turtą, nuosavą kapitalą, įsipareigojimus, finansinę būklę ir veiklos rezultatus, įmonė atskleidžia finansinės rizikos valdymo tikslus, naudojamas numatomų sandorių pagrindinių grupių apsidraudimo priemones, kurioms taikoma apsidraudimo sandorių apskaita, ir įmonės kainų rizikos, kredito rizikos, likvidumo rizikos ir pinigų srautų rizikos mastą.
-
-3. Metiniam pranešimui įmonių veiklą reglamentuojančiuose įstatymuose ir kituose teisės aktuose arba įmonės įstatuose gali būti nustatyta ir daugiau reikalavimų.
-
-4. Įmonės, nurodytos 24 straipsnio 6 dalyje, gali nerengti metinio pranešimo, tačiau šio straipsnio 2 dalies 4, 5, 6 ir 7 punktuose nurodyta informacija turi būti pateikta aiškinamajame rašte.
-
-Papildyta skirsniu:
-
-Nr. X-731, 2006-06-27, Žin., 2006, Nr. 78-3057 (2006-07-18), i. k. 1061010ISTA000X-731
-
-Straipsnio pakeitimai:
-
-Nr. IX-1915, 2003-12-18, Žin., 2003, Nr. 123-5587 (2003-12-30), i. k. 1031010ISTA0IX-1915
+Nr. XI-2164, 2012-06-29, Žin., 2012, Nr. 83-4338 (2012-07-14), i. k. 1121010ISTA0XI-2164
 
 PENKTASIS SKIRSNIS
 
-VERTINIMO TAISYKLĖS
-
-TAR pastaba. Skirsnis įsigalioja 2004-01-01.
+METINIS PRANEŠIMAS
 
