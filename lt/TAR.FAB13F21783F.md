@@ -4,7 +4,7 @@ identifier: "TAR.FAB13F21783F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-11-06"
-last_updated: "2010-01-05"
+last_updated: "2012-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FAB13F21783F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos individualių įmonių įstatymas
 
-Suvestinė redakcija nuo 2010-01-05 iki 2012-08-31
+Suvestinė redakcija nuo 2012-09-01 iki 2024-08-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 112-4991, i. k. 1031010ISTA0IX-1805
 
@@ -263,7 +263,11 @@ Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA
 
 11 straipsnis. Individualios įmonės pertvarkymas
 
-1. Individuali įmonė gali būti pertvarkoma į akcinę bendrovę, uždarąją akcinę bendrovę, taip pat į viešąją įstaigą.
+1. Individuali įmonė gali būti pertvarkoma į akcinę bendrovę, uždarąją akcinę bendrovę, mažąją bendriją, taip pat į viešąją įstaigą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2160, 2012-06-29, Žin., 2012, Nr. 83-4334 (2012-07-14), i. k. 1121010ISTA0XI-2160
 
 2. Kai individualios įmonės savininkas priima sprendimą pertvarkyti įmonę, kartu turi būti priimami naujos teisinės formos juridinio asmens steigimo dokumentai, kurie turi atitikti šio juridinio asmens teisinę formą nustatančių įstatymų reikalavimus.
 
@@ -333,7 +337,7 @@ Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                                   ROLANDAS PAKSAS
 
 Pakeitimai:
 
@@ -352,4 +356,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-614, 2009-12-22, Žin., 2010, Nr. 1-25 (2010-01-05), i. k. 1091010ISTA00XI-614
 
 Lietuvos Respublikos individualių įmonių įstatymo 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2160, 2012-06-29, Žin., 2012, Nr. 83-4334 (2012-07-14), i. k. 1121010ISTA0XI-2160
+
+Lietuvos Respublikos individualių įmonių įstatymo 11 straipsnio pakeitimo įstatymas
 
