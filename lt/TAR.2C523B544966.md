@@ -4,7 +4,7 @@ identifier: "TAR.2C523B544966"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-04"
-last_updated: "2010-12-28"
+last_updated: "2012-09-22"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2C523B544966"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymas negali būti taikomas nuo 2021-07-01 (K
 ---
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 2010-12-28 iki 2012-09-21
+Suvestinė redakcija nuo 2012-09-22 iki 2013-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2570, i. k. 1021010ISTA00IX-929
 
@@ -1227,6 +1227,14 @@ Nr. XI-1229, 2010-12-14, Žin., 2010, Nr. 153-7796 (2010-12-28), i. k. 1101010IS
 
 Lietuvos Respublikos referendumo įstatymo 60-1 straipsnio pakeitimo įstatymas
 
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2216, 2012-09-12, Žin., 2012, Nr. 110-5563 (2012-09-22), i. k. 1121010ISTA0XI-2216
+
+Lietuvos Respublikos referendumo įstatymo papildymo 15-1 straipsniu įstatymas
+
 781 straipsnis. Terminų skaičiavimas
 
 1. Tuo atveju, jei referendumas vyksta ne vieną dieną, šiame Įstatyme nustatyti terminai iki balsavimo referendume dienos skaičiuojami iki balsavimo referendume pirmosios dienos.
@@ -1264,4 +1272,14 @@ Nr. XI-1229, 2010-12-14, Žin., 2010, Nr. 153-7796 (2010-12-28), i. k. 1101010IS
 Papildyta straipsniu:
 
 Nr. X-1488, 2008-04-10, Žin., 2008, Nr. 50-1838 (2008-04-30), i. k. 1081010ISTA00X-1488
+
+151 straipsnis. Referendumo ir rinkimų vykdymas tą pačią dieną
+
+1. Tuo atveju, kai referendumas vykdomas tą pačią dieną su Seimo rinkimais arba su Respublikos Prezidento rinkimais, arba su savivaldybių tarybų rinkimais, arba su rinkimais į Europos Parlamentą, Vyriausioji rinkimų komisija sudaro šio įstatymo 20 straipsnio 2 dalyje nurodytas komisijas ir paveda vykdyti atitinkamo įstatymo nustatytas funkcijas.
+
+2. Referendumui ir rinkimams organizuoti ir vykdyti šio straipsnio 1 dalyje nurodytu atveju sudaromas rinkėjų sąrašas, turintis atskiras skiltis, kad būtų užtikrinta rinkėjų teisė dalyvauti ir balsuoti atskirai dėl referendumui pateikto sprendimo ir rinkimuose. Rinkėjui įteikiamas ir balsuojant naudojamas vienas rinkėjo pažymėjimas arba rinkėjo kortelė; rinkėjo kortelėje ar rinkėjo pažymėjime nurodoma informacija apie tą pačią dieną vykstančius referendumą ir rinkimus bei rinkėjų teisę juose dalyvauti.
+
+Papildyta straipsniu:
+
+Nr. XI-2216, 2012-09-12, Žin., 2012, Nr. 110-5563 (2012-09-22), i. k. 1121010ISTA0XI-2216
 
