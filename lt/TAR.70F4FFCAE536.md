@@ -4,7 +4,7 @@ identifier: "TAR.70F4FFCAE536"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-25"
-last_updated: "2007-12-29"
+last_updated: "2012-10-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.70F4FFCAE536"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymas
 
-Suvestinė redakcija nuo 2007-12-29 iki 2012-10-03
+Suvestinė redakcija nuo 2012-10-04 iki 2017-06-29
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 50-1432, i. k. 1001010ISTAIII-1708
 
@@ -173,7 +173,13 @@ Vaiko teisių apsaugos kontrolierius:
 
 14) surašyti administracinio teisės pažeidimo protokolą dėl vaiko teisių apsaugos kontrolieriaus reikalavimų nevykdymo ar kitokio trukdymo vaiko teisių apsaugos kontrolieriui įgyvendinti šio įstatymo jam suteiktas teises;
 
-15) netirdamas vaiko teisių apsaugos kontrolieriaus kompetencijai nepriskirto skundo iš esmės, teikti siūlymus atitinkamoms įstaigoms, įmonėms ar organizacijoms dėl vaiko teisių ir jo teisėtų interesų apsaugos gerinimo, kad nebūtų pažeidžiamos vaiko teisės ir jo teisėti interesai.
+15) netirdamas vaiko teisių apsaugos kontrolieriaus kompetencijai nepriskirto skundo iš esmės, teikti siūlymus atitinkamoms įstaigoms, įmonėms ar organizacijoms dėl vaiko teisių ir jo teisėtų interesų apsaugos gerinimo, kad nebūtų pažeidžiamos vaiko teisės ir jo teisėti interesai;
+
+16) siūlyti Vyriausiajai tarnybinės etikos komisijai įvertinti, ar asmuo, dirbantis valstybės tarnyboje, nepažeidė Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo.
+
+Papildyta straipsnio punktu:
+
+Nr. XI-2229, 2012-09-25, Žin., 2012, Nr. 115-5816 (2012-10-04), i. k. 1121010ISTA0XI-2229
 
 2. Vaiko teisių apsaugos kontrolieriaus pavedimu Vaiko teisių apsaugos kontrolieriaus įstaigos darbuotojai padeda vykdyti jam suteiktus įgaliojimus ir šiame įstatyme numatytas funkcijas (bendrauja su vaikais, apklausia pareigūnus ir kitus asmenis, susipažįsta su teisme išnagrinėtomis bylomis ir pan.). Vaiko teisių apsaugos kontrolieriaus įstaigos darbuotojai neturi teisės atlikti išimtinai vaiko teisių apsaugos kontrolieriaus kompetencijai priskirtų veiksmų (pasirašyti dokumentų, priimti sprendimų ir pan.).
 
@@ -369,6 +375,12 @@ VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTAIGA
 
 2. Vaiko teisių apsaugos kontrolierius pagal savo kompetenciją leidžia įsakymus.
 
+3. Kai vaiko teisių apsaugos kontrolierius atostogauja arba dėl kitų priežasčių (ligos, komandiruotės, nėštumo, gimdymo, vaiko priežiūros ir pan.) negali eiti savo pareigų, Seimo valdybos sprendimu jį pavaduoja Seimo kontrolierius arba lygių galimybių kontrolierius, arba Seimas nustatytam terminui į šias pareigas skiria asmenį, atitinkantį vaiko teisių apsaugos kontrolieriui keliamus reikalavimus.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-2229, 2012-09-25, Žin., 2012, Nr. 115-5816 (2012-10-04), i. k. 1121010ISTA0XI-2229
+
 ŠEŠTASIS SKIRSNIS
 
 VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS VEIKLOS IR KITOS GARANTIJOS
@@ -434,6 +446,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1384, 2007-12-18, Žin., 2007, Nr. 140-5756 (2007-12-29), i. k. 1071010ISTA00X-1384
 
 Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2229, 2012-09-25, Žin., 2012, Nr. 115-5816 (2012-10-04), i. k. 1121010ISTA0XI-2229
+
+Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 12 ir 27 straipsnių papildymo įstatymas
 
 29 straipsnis. Fiziniai ir juridiniai asmenys, įmonės, neturinčios juridinių asmenų teisių, su kuriais vaiko teisių apsaugos kontrolierius bendradarbiauja įgyvendindamas šį įstatymą
 
