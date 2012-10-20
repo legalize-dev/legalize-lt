@@ -4,7 +4,7 @@ identifier: "TAR.CA89372D00AA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2012-01-07"
+last_updated: "2012-10-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CA89372D00AA"
 department: "Lietuvos Respublikos Seimas"
@@ -606,13 +606,13 @@ institucijas, įstaigas ir tarptautines organizacijas atstovauti policijai,
 
 atlikti kitas su policijos uždavinių įgyvendinimu susijusias funkcijas,
 
-siunčiami į tarnybines komandiruotes dalyvauti bendrose operacijose. Šių
+siunčiami į tarnybines komandiruotes dalyvauti bendrose operacijose. Šių policijos
 
-policijos pareigūnų teises, pareigas, atsakomybę ir socialines garantijas
+pareigūnų teises, pareigas, atsakomybę ir socialines garantijas nustato šis
 
-nustato šis įstatymas, Europos Sąjungos teisės aktai, Lietuvos Respublikos
+įstatymas, Europos Sąjungos teisės aktai, Lietuvos Respublikos tarptautinės
 
-tarptautinės sutartys ir kiti teisės aktai.
+sutartys ir kiti teisės aktai.
 
 5.
 
@@ -2254,9 +2254,9 @@ steigti visuomenės informavimo priemones, kuriose visuomenei būtų teikiama
 
 informacija apie nusikalstamų veikų ir kitų teisės pažeidimų prevencijos
 
-priemonių, kitų policijos uždavinių įgyvendinimą bei skelbiama kita su policijos
+priemonių, kitų policijos uždavinių įgyvendinimą bei skelbiama kita su
 
-veikla susijusi informacija.
+policijos veikla susijusi informacija.
 
 10
 
@@ -2348,6 +2348,26 @@ kolekcijas) bei atlikti kitus įstatymų bei kitų teisės aktų nustatytus
 
 veiksmus.
 
+7 punkto
+
+redakcija nuo 2013-01-01:
+
+7) pagal savo kompetenciją vykdyti kriminalinę žvalgybą, tirti
+
+baudžiamąsias bylas, sudaryti kriminalistines įskaitas (kartotekas ir
+
+kolekcijas) bei atlikti kitus įstatymų bei kitų teisės aktų nustatytus
+
+veiksmus.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XI-2256,
+
+2012-10-02, Žin., 2012, Nr. 122-6115 (2012-10-20)
+
 21
 
 straipsnis. Policijos pareigūno pareigos
@@ -2372,13 +2392,13 @@ daromai nusikalstamai veikai ar kitam teisės pažeidimui, įvykio vietai bei
 
 pristatyti į policijos įstaigą asmenį, padariusį įstatymų uždraustą veiką, bei
 
-pranešti apie tai policijos įstaigai. Šio punkto reikalavimai (išskyrus
+pranešti apie tai policijos įstaigai. Šio punkto reikalavimai (išskyrus reikalavimą
 
-reikalavimą pranešti apie tai policijos įstaigai) netaikomi policijos
+pranešti apie tai policijos įstaigai) netaikomi policijos pareigūnui tais
 
-pareigūnui tais atvejais, kai šios pareigos vykdymas iš esmės pakenktų
+atvejais, kai šios pareigos vykdymas iš esmės pakenktų specialios kompetencijos
 
-specialios kompetencijos policijos įstaigos uždaviniams įgyvendinti;
+policijos įstaigos uždaviniams įgyvendinti;
 
 3) užtikrinti
 
@@ -2402,9 +2422,9 @@ paslaptyje konfidencialaus pobūdžio informaciją, jeigu ko nors kita
 
 nereikalauja tarnybinių pareigų vykdymas.
 
-2. Policijos pareigūnas privalo vykdyti ir kitas įstatymų jam
+2. Policijos pareigūnas privalo vykdyti ir kitas įstatymų jam nustatytas
 
-nustatytas pareigas.
+pareigas.
 
 3. Vykdydamas
 
@@ -2424,19 +2444,21 @@ straipsnis. Policijos pareigūno atsakomybė
 
 pareigūnas asmeniškai atsako už savo veiksmus ir sprendimus bei jų padarinius.
 
-2. Policijos pareigūnas,
+2. Policijos
 
-vykdydamas jam patikėtas pareigas ir pažeidęs įstatymo reikalavimus, įstatymų
+pareigūnas, vykdydamas jam patikėtas pareigas ir pažeidęs įstatymo
 
-ir kitų teisės aktų nustatyta tvarka, atsižvelgiant į pažeidimo pobūdį,
+reikalavimus, įstatymų ir kitų teisės aktų nustatyta tvarka, atsižvelgiant į
 
-traukiamas tarnybinėn, administracinėn, materialinėn ar baudžiamojon
+pažeidimo pobūdį, traukiamas tarnybinėn, administracinėn, materialinėn ar
 
-atsakomybėn.
+baudžiamojon atsakomybėn.
 
-3. Žinomai neteisėto
+3. Žinomai
 
-įsakymo ar nurodymo vykdymas policijos pareigūno nuo atsakomybės neatleidžia.
+neteisėto įsakymo ar nurodymo vykdymas policijos pareigūno nuo atsakomybės
+
+neatleidžia.
 
 4. Neteisėta
 
@@ -2510,9 +2532,9 @@ straipsnio 2 ir 4 dalyse išvardytomis sąlygomis.
 
 prievarta šiame įstatyme suprantama kaip:
 
-1) bet kokio
+1) bet kokio pobūdžio
 
-pobūdžio fizinės jėgos bei kovinių imtynių veiksmų naudojimas;
+fizinės jėgos bei kovinių imtynių veiksmų naudojimas;
 
 2) specialiųjų
 
@@ -2730,9 +2752,9 @@ atimti iš policijos pareigūno šaunamąjį ginklą. Jeigu panaudotos prievarto
 
 priemonės yra neveiksmingos arba jų panaudojimas yra neįmanomas dėl asmens
 
-daromų veiksmų intensyvumo, o delsimas kelia grėsmę policijos pareigūno
+daromų veiksmų intensyvumo, o delsimas kelia grėsmę policijos pareigūno gyvybei,
 
-gyvybei, policijos pareigūnas gali panaudoti šaunamąjį ginklą.
+policijos pareigūnas gali panaudoti šaunamąjį ginklą.
 
 PENKTASIS SKIRSNIS
 
@@ -2750,19 +2772,19 @@ finansuojama iš valstybės biudžeto. Policijos departamentas turi atskirą
 
 išlaidų sąmatą.
 
-2. Teritorinių
+2. Teritorinių policijos
 
-policijos įstaigų ir savivaldybių institucijų susitarimu kuriamos ir
+įstaigų ir savivaldybių institucijų susitarimu kuriamos ir įgyvendinamos
 
-įgyvendinamos bendros programos, skirtos nusikalstamumo prevencijai, gyventojų
+bendros programos, skirtos nusikalstamumo prevencijai, gyventojų gyvybės,
 
-gyvybės, sveikatos bei turto, taip pat viešosios tvarkos apsaugai,
+sveikatos bei turto, taip pat viešosios tvarkos apsaugai, finansuojamos iš
 
-finansuojamos iš savivaldybių biudžetų. Savivaldybių institucijos iš savo
+savivaldybių biudžetų. Savivaldybių institucijos iš savo biudžeto gali
 
-biudžeto gali finansuoti ir kitas teritorinių policijos įstaigų įgyvendinamas
+finansuoti ir kitas teritorinių policijos įstaigų įgyvendinamas programas,
 
-programas, susijusias su vietos gyventojų saugumo užtikrinimu.
+susijusias su vietos gyventojų saugumo užtikrinimu.
 
 3. Policijos
 
@@ -2875,8 +2897,6 @@ papildytas priedu:
 Nr. XI-444,
 
 2009-10-22, Žin., 2009, Nr. 130-5637 (2009-10-31)
-
-________________
 
 Pakeitimai:
 
@@ -3012,13 +3032,33 @@ POLICIJOS
 
 VEIKLOS ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-2256,
+
+2012-10-02, Žin., 2012, Nr. 122-6115 (2012-10-20)
+
+POLICIJOS
+
+VEIKLOS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2013 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2012-01-10)
+Aušrinė Trapinskienė (2012-10-25)
 
 ausrine.trapinskiene@lrs.lt
 
@@ -3140,11 +3180,9 @@ ir jų struktūriniuose padaliniuose. Grupė sudaroma iš ne mažiau kaip 3
 
 pareigybių. Grupei, kuri yra policijos įstaigos struktūrinis padalinys,
 
-vadovauja vyriausiasis specialistas (vyriausiasis tyrėjas), grupei, kuri yra
+vadovauja vyriausiasis specialistas (vyriausiasis tyrėjas), grupei, kuri yra struktūrinio
 
-struktūrinio padalinio struktūrinė dalis, – vyresnysis specialistas (vyresnysis
-
-tyrėjas).
+padalinio struktūrinė dalis, – vyresnysis specialistas (vyresnysis tyrėjas).
 
 13.
 
@@ -3162,7 +3200,9 @@ Tipinę policijos įstaigų valdymo organizacinę struktūrą nustato ir tvirtin
 
 policijos generalinis komisaras.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr.
 
@@ -3198,9 +3238,9 @@ vadovaujamų įstaigų veiklai būtiną materialinį techninį aprūpinimą;
 
 nustatyta tvarka steigia teritorines, specializuotas policijos įstaigas ir
 
-policijos profesinio ugdymo įstaigas, tvirtina šių įstaigų vidaus struktūrą ir
+policijos profesinio ugdymo įstaigas, tvirtina šių įstaigų vidaus struktūrą ir pareigybių
 
-pareigybių sąrašus;
+sąrašus;
 
 5) įstatymų
 
@@ -3272,15 +3312,15 @@ atskaitingas Respublikos Prezidentui.
 
 5. Policijos
 
-generaliniu komisaru gali būti ne jaunesnis kaip 35 metų asmuo, įgijęs teisės
+generaliniu komisaru gali būti ne jaunesnis kaip 35 metų asmuo, įgijęs teisės magistro
 
-magistro kvalifikacinį laipsnį arba vienpakopį aukštąjį teisinį ar jam
+kvalifikacinį laipsnį arba vienpakopį aukštąjį teisinį ar jam prilygintą
 
-prilygintą išsilavinimą ir ne mažiau kaip trejus metus dirbęs Policijos
+išsilavinimą ir ne mažiau kaip trejus metus dirbęs Policijos departamento
 
-departamento tarnybos, specializuotos policijos įstaigos ar teritorinės
+tarnybos, specializuotos policijos įstaigos ar teritorinės policijos įstaigos
 
-policijos įstaigos arba policijos profesinio mokymo įstaigos vadovu.
+arba policijos profesinio mokymo įstaigos vadovu.
 
 6. Policijos generalinis komisaras gali būti atleistas iš pareigų:
 
@@ -3422,13 +3462,15 @@ komisaras.
 
 Teritorinės policijos įstaigos funkcijoms įgyvendinti savivaldybės teritorijoje
 
-gali būti steigiami policijos komisariatai, vienos ar kelių seniūnijų
+gali būti steigiami policijos komisariatai, vienos ar kelių seniūnijų teritorijose
 
-teritorijose – policijos nuovados. Policijos komisariatus,
+– policijos
 
-policijos nuovadas, suderinęs su policijos generaliniu komisaru, steigia ir jų
+nuovados. Policijos komisariatus, policijos nuovadas, suderinęs su policijos
 
-nuostatus tvirtina teritorinės policijos įstaigos viršininkas.
+generaliniu komisaru, steigia ir jų nuostatus tvirtina teritorinės policijos
+
+įstaigos viršininkas.
 
 3. Teritorinės
 
@@ -3460,9 +3502,9 @@ sveikatai ar turtui išsaugoti reikalingą pagalbą;
 
 generalinio komisaro nustatyta tvarka saugo rastus ir
 
-perduotus policijai dokumentus, daiktus, vertybes ir kitokį turtą ir imasi priemonių
+perduotus policijai dokumentus, daiktus, vertybes ir kitokį turtą ir imasi
 
-grąžinti juos teisėtiems savininkams ar valdytojams;
+priemonių grąžinti juos teisėtiems savininkams ar valdytojams;
 
 6) atlieka eismo automobilių keliais priežiūrą
 
@@ -3636,11 +3678,11 @@ rizikos asmenų grupė – asmenys, kurie teisės aktų nustatyta tvarka įrašy
 
 pareigūno statusas – šio ir kitų įstatymų apibrėžtų tarnybinių teisių ir
 
-pareigų visuma, nustatyta teisės aktuose, reglamentuojančiuose policijos
+pareigų visuma, nustatyta teisės aktuose, reglamentuojančiuose policijos pareigūno
 
-pareigūno priėmimą ir atleidimą iš tarnybos, jo teises, pareigas, atsakomybę,
+priėmimą ir atleidimą iš tarnybos, jo teises, pareigas, atsakomybę, darbo
 
-darbo užmokestį, socialines bei kitas garantijas.
+užmokestį, socialines bei kitas garantijas.
 
 6. Bendra
 
@@ -3652,15 +3694,15 @@ nusikalstamų veikų prevencijos tikslais bendro patruliavimo, antiteroristinė,
 
 pagalbos teikimo didelių susibūrimų ir panašių didelių renginių, nelaimių ar
 
-didelių avarijų atvejais operacija Lietuvos Respublikos teritorijoje, vykdoma
+didelių avarijų atvejais operacija Lietuvos Respublikos teritorijoje, vykdoma pasitelkus
 
-pasitelkus Europos Sąjungos ir (ar) asocijuotų Šengeno valstybių narių
+Europos Sąjungos ir (ar) asocijuotų Šengeno valstybių narių teisėsaugos
 
-teisėsaugos pareigūnus, arba operacija Europos Sąjungos ir (ar) asocijuotų
+pareigūnus, arba operacija Europos Sąjungos ir (ar) asocijuotų Šengeno
 
-Šengeno valstybių narių teritorijoje, vykdoma pasitelkus Lietuvos Respublikos
+valstybių narių teritorijoje, vykdoma pasitelkus Lietuvos Respublikos policijos
 
-policijos pareigūnus.
+pareigūnus.
 
 Straipsnio pakeitimai:
 
