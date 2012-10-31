@@ -4,7 +4,7 @@ identifier: "TAR.2DD07D41B8F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-11-08"
-last_updated: "2010-11-27"
+last_updated: "2012-10-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2DD07D41B8F1"
 department: "Lietuvos Respublikos Seimas"
@@ -269,11 +269,11 @@ metų statistinių valdžios sektoriaus balanso rodiklių ir Lietuvos Respubliko
 
 finansų ministerijos prognozuojamo einamųjų kalendorinių metų valdžios
 
-sektoriaus balanso rodiklio aritmetinis vidurkis yra perteklius (grynasis skolinimas),
+sektoriaus balanso rodiklio aritmetinis vidurkis yra perteklius (grynasis
 
-sudarantis ne mažiau kaip 0,1 procento bendrojo vidaus produkto to meto
+skolinimas), sudarantis ne mažiau kaip 0,1 procento bendrojo vidaus produkto to
 
-kainomis.
+meto kainomis.
 
 4. Įgyvendinant šio straipsnio 1 ir 2 dalių nuostatas:
 
@@ -293,25 +293,31 @@ galiojančioms Europos Sąjungos Ministrų Tarybos rekomendacijoms ir nuomonei d
 
 Lietuvos vidutinio laikotarpio ekonominės programos ir galimų papildomų
 
-priemonių, būtinų visiškai atsižvelgti į Europos Sąjungos Ministrų Tarybos rekomendacijas
+priemonių, būtinų visiškai atsižvelgti į Europos Sąjungos Ministrų Tarybos
 
-ir nuomonę. Lietuvos Respublikos Seimas, priimdamas atitinkamų metų valstybės
+rekomendacijas ir nuomonę. Lietuvos Respublikos Seimas, priimdamas atitinkamų
 
-biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymą
+metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
 
-arba jo pakeitimo įstatymą, atsižvelgia į paskutines galiojančias Europos
+patvirtinimo įstatymą arba jo pakeitimo įstatymą, atsižvelgia į paskutines
 
-Sąjungos Ministrų Tarybos rekomendacijas ir nuomonę dėl Lietuvos vidutinio
+galiojančias Europos Sąjungos Ministrų Tarybos rekomendacijas ir nuomonę dėl
 
-laikotarpio ekonominės programos.
+Lietuvos vidutinio laikotarpio ekonominės programos.
+
+4 dalies 2 punktas netenka galios nuo 2013-07-01.
 
 Straipsnio
 
-pakeitimai;
+pakeitimai:
 
 Nr. XI-1115,
 
 2010-11-12, Žin., 2010, Nr. 139-7099 (2010-11-27)
+
+Nr. XI-2276,
+
+2012-10-16, Žin., 2012, Nr. 126-6324 (2012-10-31)
 
 4
 
@@ -326,6 +332,16 @@ straipsnio 2 dalį, įsigalioja nuo 2008 m. sausio 1 d.
 2. 2008 m. valdžios sektoriaus deficitas
 
 negali būti didesnis kaip 0,5 procento bendrojo vidaus produkto.
+
+2 dalis netenka galios nuo 2013-07-01.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-2276,
+
+2012-10-16, Žin., 2012, Nr. 126-6324 (2012-10-31)
 
 Skelbiu
 
@@ -373,8 +389,6 @@ padarytais 2005 m. birželio 27 d. Tarybos reglamentu (EB) Nr. 1056/2005 (OL
 
 2005 L 174, p. 5).
 
-________________
-
 Pakeitimai:
 
 1.
@@ -391,11 +405,27 @@ FISKALINĖS
 
 DRAUSMĖS ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2276,
+
+2012-10-16, Žin., 2012, Nr. 126-6324 (2012-10-31)
+
+FISKALINĖS DRAUSMĖS ĮSTATYMO 3 IR 4
+
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2013 m. liepos
+
+1 d.
+
 *** Pabaiga ***
 
-Redagavo Aušrinė
+Redagavo Aušrinė Trapinskienė
 
-Trapinskienė (2010-11-29)
+(2012-10-31)
 
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
