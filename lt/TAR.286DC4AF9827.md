@@ -4,7 +4,7 @@ identifier: "TAR.286DC4AF9827"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-29"
-last_updated: "2003-05-01"
+last_updated: "2012-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.286DC4AF9827"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2002-10-29"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teismo ekspertizės įstatymas
+
+Suvestinė redakcija nuo 2012-11-01 iki 2013-12-29
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 112-4969, i. k. 1021010ISTA0IX-1161
 
 LIETUVOS RESPUBLIKOS TEISMO EKSPERTIZĖS |ĮSTATYMAS
 
@@ -45,7 +49,23 @@ Teismo ekspertai ir teismo ekspertizės įstaigos savo veikloje vadovaujasi Liet
 
 5. Teismo ekspertizės įstaiga – valstybės įstaiga ar jos padalinys, kurių pagrindinė paskirtis yra atlikti teismų paskirtas teismo ekspertizes. Ekspertizes atlieka įstaigoje dirbantys teismo ekspertai.
 
-6. Kitų šiame Įstatyme vartojamų sąvokų turinį nusako proceso įstatymai.
+6. Valstybė narė – Europos Sąjungos valstybė narė, taip pat Europos ekonominės erdvės valstybė.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-2068, 2012-06-14, Žin., 2012, Nr. 76-3922 (2012-06-30), i. k. 1121010ISTA0XI-2068
+
+7. Valstybės narės teismo ekspertas – asmuo, turintis valstybės narės kompetentingos institucijos patvirtintą teismo eksperto kvalifikaciją.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-2068, 2012-06-14, Žin., 2012, Nr. 76-3922 (2012-06-30), i. k. 1121010ISTA0XI-2068
+
+8. Kitų šiame Įstatyme vartojamų sąvokų turinį nusako proceso įstatymai.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XI-2068, 2012-06-14, Žin., 2012, Nr. 76-3922 (2012-06-30), i. k. 1121010ISTA0XI-2068
 
 ANTRASIS SKIRSNIS
 
@@ -53,11 +73,17 @@ TEISMO EKSPERTAI
 
 4 straipsnis. Teismo ekspertizes atliekantys subjektai
 
-1. Teismo ekspertizes atlieka teismo ekspertai, įrašyti į Lietuvos Respublikos teismo ekspertų sąrašą.
+1. Teismo ekspertizes atlieka teismo ekspertai, įrašyti į Lietuvos Respublikos teismo ekspertų sąrašą, išskyrus šio straipsnio 2, 3 ir 4 dalyse numatytus atvejus.
 
-2. Jeigu Lietuvos Respublikos teismo ekspertų sąraše nėra reikiamos specialybės teismo ekspertų, ekspertu gali būti skiriamas į šį sąrašą neįrašytas asmuo.
+2. Valstybės narės teismo ekspertams neribojama laisvė laikinai teikti paslaugas Lietuvos Respublikoje. Valstybės narės teismo ekspertams, teikiantiems paslaugas Lietuvos Respublikoje savo valstybės narės suteiktu teismo eksperto vardu, netaikomi šio Įstatymo 5, 6, 8, 9 ir 10 straipsniai.
 
-3. Prireikus ekspertu gali būti skiriamas asmuo, turintis teisę būti ekspertu Europos Sąjungos valstybėje narėje arba valstybėje, su kuria Lietuvos Respublika yra sudariusi teisinės pagalbos sutartį.
+3. Jeigu Lietuvos Respublikos teismo ekspertų sąraše nėra reikiamos specialybės teismo ekspertų, ekspertu gali būti skiriamas į šį sąrašą neįrašytas asmuo. Proceso įstatymuose gali būti nustatyta kitokia ekspertų skyrimo tvarka.
+
+4. Prireikus ekspertu gali būti skiriamas asmuo, turintis teisę būti ekspertu valstybėje, su kuria Lietuvos Respublika yra sudariusi teisinės pagalbos sutartį.
+
+Straipsnio pakeitimai:
+
+Nr. XI-2068, 2012-06-14, Žin., 2012, Nr. 76-3922 (2012-06-30), i. k. 1121010ISTA0XI-2068
 
 5 straipsnis. Reikalavimai asmenims, siekiantiems tapti teismo ekspertais
 
@@ -73,35 +99,61 @@ TEISMO EKSPERTAI
 
 2. Šio straipsnio 1 dalies 2 punkto reikalavimai netaikomi asmenims, kuriems įstatymų ar kitų norminių teisės aktų nustatyta tvarka asmens, turinčio tam tikros srities žinių, kvalifikaciją suteikė kitos valstybės institucijos ar prie jų tam tikslui sudarytos komisijos. Tokie asmenys į Lietuvos Respublikos teismo ekspertų sąrašą įrašomi laikantis šio Įstatymo 8–10 straipsnių nuostatų.
 
-6 straipsnis. Teismo eksperto kvalifikacijos suteikimas ir kvalifikacinės komisijos sprendimai
+6 straipsnis. Teismo eksperto kvalifikacijos suteikimas ir teismo eksperto kvalifikacijos pažymėjimo išdavimas
 
-1. Teismo eksperto kvalifikaciją suteikia teismo ekspertizės įstaigos vadovo sudaryta kvalifikacinė komisija. Ši komisija turi būti ne mažesnė kaip iš penkių narių, bent du iš jų - atitinkamos srities ekspertai ir vienas teisininkas. Jei teismo ekspertizės įstaigoje nėra teisės specialisto, jis turi būti kviečiamas iš aukštųjų mokyklų arba iš šios srities specialistų turinčių valstybės institucijų.
+1. Teismo eksperto kvalifikacijos suteikimo ir teismo eksperto kvalifikacijos pažymėjimo išdavimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
-2. Dalyvauti kvalifikacinės komisijos darbe turi būti kviečiami mokslo įstaigų ir aukštųjų mokyklų mokslininkai ar kitų ekspertizės įstaigų ekspertai.
+2. Teismo eksperto kvalifikaciją suteikia teismo ekspertizės įstaigos vadovo sudaryta kvalifikacinė komisija (toliau – kvalifikacinė komisija). Kvalifikacinė komisija turi būti ne mažesnė kaip iš penkių narių, bent du iš jų – atitinkamos srities ekspertai ir vienas teisininkas. Jeigu teismo ekspertizės įstaigoje nėra teisės specialisto, jis turi būti kviečiamas iš aukštųjų mokyklų arba iš šios srities specialistų turinčių valstybės institucijų. Dalyvauti kvalifikacinės komisijos darbe turi būti kviečiami aukštųjų mokyklų ir mokslinių tyrimų institutų mokslininkai ar kitų ekspertizės įstaigų ekspertai.
 
 3. Teismo ekspertizės įstaigoje sudaryta kvalifikacinė komisija gali suteikti teismo eksperto kvalifikaciją, leidžiančią daryti tik tos rūšies ekspertizes, kurios yra atliekamos toje įstaigoje. Teismo ekspertizės įstaiga turi teisę aprobuoti naujų rūšių ekspertizių darymą ir suteikti teismo eksperto kvalifikaciją jų pradininkams, sudarydama kvalifikacinę komisiją iš reikiamos mokslo šakos žinovų ir giminingos srities ekspertų.
 
-4. Asmuo, nedirbantis teismo ekspertizės įstaigoje, bet norintis įgyti teismo eksperto kvalifikaciją, turi kreiptis į teismo ekspertizės įstaigos vadovą su prašymu suteikti jam tos rūšies ekspertizes darančio teismo eksperto kvalifikaciją. Toks asmuo turi atitikti šiame Įstatyme nustatytus reikalavimus asmenims, siekiantiems tapti teismo ekspertais.
+4. Asmuo, nedirbantis teismo ekspertizės įstaigoje, bet norintis įgyti teismo eksperto kvalifikaciją, turi kreiptis į teismo ekspertizės įstaigos vadovą su prašymu suteikti jam tos rūšies ekspertizes darančio teismo eksperto kvalifikaciją (toliau – prašymas). Toks asmuo turi atitikti šio Įstatymo 5 straipsnio 1 dalies 1 ir 4 punktuose nustatytus reikalavimus asmenims, siekiantiems tapti teismo ekspertais. Teismo ekspertizės įstaigos vadovas ne vėliau kaip per 10 darbo dienų nuo prašymo ir visos sprendimui priimti reikalingos informacijos gavimo dienos išnagrinėja prašymą ir išsiunčia asmeniui sprendimą leisti laikyti šio Įstatymo 5 straipsnio 1 dalies 2 ir 3 punktuose nurodytus egzaminus arba motyvuotą sprendimą neleisti jų laikyti. Jeigu sprendimas asmeniui neišsiunčiamas per šioje dalyje nustatytą terminą, laikoma, kad priimtas sprendimas leisti laikyti šio Įstatymo 5 straipsnio 1 dalies 2 ir 3 punktuose nurodytus egzaminus.
 
-5. Išlaikiusiam egzaminus pretendentui kvalifikacinė komisija išduoda teismo eksperto kvalifikacijos pažymėjimą. Šis pažymėjimas patvirtina asmens pasirengimą atlikti jame nurodytos rūšies teismo ekspertizes.
+5. Valstybės narės teismo ekspertams, norintiems būti įrašytiems į Lietuvos Respublikos teismo ekspertų sąrašą ir turintiems valstybės narės kompetentingos institucijos suteiktą teismo eksperto kvalifikaciją, kvalifikacinės komisijos sprendimu pripažįstama teismo eksperto kvalifikacija atlikti tam tikros rūšies ekspertizes, kai jie pateikia valstybės narės kompetentingos institucijos išduotus dokumentus, kuriais patvirtinama teisė atlikti teismo ekspertizę valstybėje narėje, netaikant šio Įstatymo 5 straipsnio 1 dalies 1 ir 2 punktuose nustatytų reikalavimų asmenims, siekiantiems tapti teismo ekspertais.
 
-6. Teismo ekspertizės įstaigos kvalifikacinės komisijos išduotas teismo eksperto kvalifikacijos pažymėjimas galioja penkerius metus nuo jo išdavimo dienos. Pasibaigus pažymėjimo galiojimo laikui, teismo ekspertas kreipiasi į jį išdavusios teismo ekspertizės įstaigos vadovą dėl pažymėjimo galiojimo termino pratęsimo. Sprendimą dėl pažymėjimo galiojimo termino pratęsimo priima jį išdavusios teismo ekspertizės įstaigos kvalifikacinė komisija.
+6. Asmeniui, laikiusiam šio Įstatymo 5 straipsnio 1 dalies 2 ir 3 punktuose nurodytus egzaminus, apie kvalifikacinės komisijos priimtus sprendimus dėl teismo eksperto kvalifikacijos suteikimo ir teismo eksperto kvalifikacijos pažymėjimo išdavimo pranešama raštu ne vėliau kaip per 5 darbo dienas nuo šių egzaminų laikymo dienos. Išlaikiusiam šio Įstatymo 5 straipsnio 1 dalies 2 ir 3 punktuose nurodytus egzaminus asmeniui ne vėliau kaip per 10 darbo dienų nuo kvalifikacinės komisijos sprendimo priėmimo dienos atitinkamos teisės ekspertizės įstaigos vadovas išduoda teismo eksperto kvalifikacijos pažymėjimą. Šio straipsnio 5 dalyje nurodytam asmeniui teismo eksperto kvalifikacijos pažymėjimas išduodamas, kai jis išlaiko šio Įstatymo 5 straipsnio 1 dalies 3 punkte nurodytą egzaminą. Asmeniui, neišlaikiusiam šio Įstatymo 5 straipsnio 1 dalies 2 punkte nurodyto egzamino, pakartotinai laikyti šį egzaminą leidžiama ne anksčiau kaip po vienerių metų, išskyrus atvejus, kai kvalifikacinė komisija nustato trumpesnį terminą, kuris negali būti trumpesnis negu pusė metų. Jeigu asmuo neinformuojamas apie kvalifikacinės komisijos priimtus sprendimus ar teismo eksperto kvalifikacijos pažymėjimas neišduodamas šioje dalyje nustatytais terminais, laikoma, kad priimtas sprendimas suteikti teismo eksperto kvalifikaciją ir išduoti teismo eksperto kvalifikacijos pažymėjimą. Šis pažymėjimas patvirtina asmens pasirengimą atlikti jame nurodytos rūšies teismo ekspertizes.
 
-7. Teismo ekspertizės įstaigos vadovas turi teisę sudaryti kvalifikacinę komisiją teismo eksperto kvalifikacijai patikrinti ir išduoto teismo eksperto kvalifikacijos pažymėjimo galiojimo terminui pratęsti, sustabdyti ar pažymėjimui pripažinti negaliojančiu, kol nesibaigęs teismo eksperto kvalifikacijos pažymėjimo galiojimo terminas, šiais atvejais:
+7. Teismo ekspertizės įstaigos vadovo išduotas teismo eksperto kvalifikacijos pažymėjimas galioja penkerius metus nuo jo išdavimo dienos. Pasibaigus teismo eksperto kvalifikacijos pažymėjimo galiojimo laikui, teismo ekspertas kreipiasi į teismo ekspertizės įstaigos, kurioje buvo sudaryta teismo eksperto kvalifikaciją suteikusi kvalifikacinė komisija, vadovą dėl teismo eksperto kvalifikacijos pažymėjimo galiojimo termino pratęsimo. Sprendimą dėl teismo eksperto kvalifikacijos pažymėjimo galiojimo termino pratęsimo priima šio įstatymo nustatyta tvarka sudaryta kvalifikacinė komisija. Apie šį sprendimą asmeniui pranešama raštu ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
 
-1) kai teismo eksperto daromos ekspertizės netinkamos kokybės;
+8. Teismo eksperto kvalifikacijos pažymėjimo galiojimo terminas nepratęsiamas:
 
-2) kai teismo ekspertas padaro labai sunkų ar sunkų nusikaltimą arba nusikaltimą teisingumui, valstybės tarnybai ir viešiesiems interesams;
+1) kai kvalifikacinė komisija nustato, kad teismo eksperto atliekamos ekspertizės yra netinkamos kokybės;
 
-3) kai paaiškėja, kad, siekdamas teismo eksperto kvalifikacijos, teismo ekspertas pateikė tikrovės neatitinkančius duomenis.
+2) kai nėra išnykusios ar pašalintos šio straipsnio 10 dalies 2 ir 3 punktuose nurodytos priežastys, dėl kurių teismo eksperto kvalifikacijos pažymėjimo galiojimas buvo sustabdytas.
 
-8. Asmeniui, neišlaikiusiam teismo eksperto kvalifikacijos egzamino, kvalifikacinės komisijos sprendimu teismo eksperto kvalifikacija nesuteikiama. Toks asmuo pakartotinai laikyti teismo eksperto kvalifikacijos egzaminą gali ne anksčiau kaip po vienerių metų.
+9. Sprendimą dėl teismo eksperto kvalifikacijos pažymėjimo galiojimo sustabdymo, teismo eksperto kvalifikacijos pažymėjimo galiojimo sustabdymo panaikinimo ar jo pripažinimo negaliojančiu priima šio įstatymo nustatyta tvarka sudaryta kvalifikacinė komisija. Apie šį sprendimą asmeniui pranešama raštu ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
 
-9. Kvalifikacinės komisijos sprendimai gali būti skundžiami teismo ekspertizės įstaigos vadovui.
+10. Teismo eksperto kvalifikacijos pažymėjimo galiojimas sustabdomas:
 
-10. Teismo ekspertizės įstaigos vadovo sprendimai dėl atsisakymo suteikti teismo eksperto kvalifikaciją ar pratęsti teismo eksperto kvalifikacijos pažymėjimo galiojimo terminą gali būti skundžiami teisingumo ministrui.
+1) paties teismo eksperto prašymu;
 
-11. Teisingumo ministro sprendimai dėl atsisakymo patenkinti skundo reikalavimus gali būti skundžiami teismui.
+2) kai teismo ekspertas įtariamas ar kaltinamas padaręs labai sunkų ar sunkų nusikaltimą arba nusikaltimą teisingumui, valstybės tarnybai ir viešiesiems interesams;
+
+3) kai paaiškėja, kad siekiant teismo eksperto kvalifikacijos buvo pateikti neteisingi duomenys.
+
+11. Teismo eksperto kvalifikacijos pažymėjimo galiojimo sustabdymas panaikinamas, kai teismo ekspertas pateikia teismo ekspertizės įstaigai prašymą atnaujinti sustabdyto teismo eksperto kvalifikacijos pažymėjimo galiojimą. Jeigu teismo eksperto kvalifikacijos pažymėjimo galiojimas buvo sustabdytas šio straipsnio 10 dalies 2 ir 3 punktuose numatytais atvejais, teismo ekspertas teismo ekspertizės įtaigai taip pat turi pateikti dokumentą, įrodantį, kad išnyko ar buvo pašalintos priežastys, dėl kurių teismo eksperto kvalifikacijos pažymėjimo galiojimas buvo sustabdytas.
+
+12. Teismo eksperto kvalifikacijos pažymėjimas pripažįstamas negaliojančiu:
+
+1) paties teismo eksperto prašymu;
+
+2) šio straipsnio 8 dalies 1 punkte nurodytu pagrindu;
+
+3) kai teismo ekspertas per teismo ekspertizės įstaigos nustatytą terminą, kuris turi būti ne trumpesnis kaip 20 darbo dienų nuo pranešimo apie sprendimą dėl teismo eksperto kvalifikacijos pažymėjimo galiojimo sustabdymo gavimo dienos, nepašalina šio straipsnio 10 dalies 3 punkte nurodytos priežasties, dėl kurios teismo eksperto kvalifikacijos pažymėjimo galiojimas buvo sustabdytas;
+
+4) kai įsiteisėjusiu teismo nuosprendžiu teismo ekspertas pripažintas padaręs labai sunkų ar sunkų nusikaltimą arba nusikaltimą teisingumui, valstybės tarnybai ir viešiesiems interesams;
+
+5) kai teismo ekspertas miršta.
+
+13. Jeigu teismo eksperto kvalifikacijos pažymėjimas buvo pripažintas negaliojančiu šio straipsnio 12 dalies 2 ir 3 punktuose numatytais atvejais, į teismo ekspertizės įstaigą dėl teismo eksperto kvalifikacijos suteikimo ir naujo teismo eksperto kvalifikacijos pažymėjimo išdavimo galima kreiptis ne anksčiau kaip po vienerių metų.
+
+14. Kvalifikacinės komisijos sprendimai įstatymų nustatyta tvarka gali būti skundžiami teismo ekspertizės įstaigos vadovui.
+
+15. Teismo ekspertizės įstaigos vadovo sprendimai dėl atsisakymo patenkinti skundo reikalavimus įstatymų nustatyta tvarka gali būti skundžiami teismui.
+
+Straipsnio pakeitimai:
+
+Nr. XI-2068, 2012-06-14, Žin., 2012, Nr. 76-3922 (2012-06-30), i. k. 1121010ISTA0XI-2068
 
 7 straipsnis. Lietuvos Respublikos teismo ekspertų sąrašas
 
@@ -197,9 +249,13 @@ TEISMO EKSPERTAI
 
 2. Už pareigų nevykdymą, melagingos išvados ir paaiškinimų pateikimą ar kitokį priesaikos sulaužymą teismo ekspertas, kuriam skiriama atlikti teismo ekspertizę, atsako pagal įstatymus.
 
-15 straipsnis.       Teismo ekspertizių apmokėjimas baudžiamosiose,civilinėse ir administracinėse bylose
+15 straipsnis. Teismo ekspertizių apmokėjimas baudžiamosiose, civilinėse ir administracinėse bylose
 
-Teismai už paskirtas teismo ekspertizes baudžiamosiose, civilinėse ir administracinėse bylose apmoka įstatymų nustatyta tvarka.
+Už paskirtas teismo ekspertizes baudžiamosiose, civilinėse ir administracinėse bylose apmokama įstatymų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XI-2068, 2012-06-14, Žin., 2012, Nr. 76-3922 (2012-06-30), i. k. 1121010ISTA0XI-2068
 
 16 straipsnis. Teismo ekspertų veiklos koordinavimas
 
@@ -213,9 +269,13 @@ PRIVATŪS TEISMO EKSPERTAI
 
 17 straipsnis. Privatūs teismo ekspertai
 
-1. Privatūs teismo ekspertai yra asmenys, turintys teismo eksperto kvalifikaciją, įrašyti į Lietuvos Respublikos teismo ekspertų sąrašą, bet nedirbantys teismo ekspertizės įstaigoje.
+1. Privatūs teismo ekspertai yra asmenys, turintys teismo eksperto kvalifikaciją, įrašyti į Lietuvos Respublikos teismo ekspertų sąrašą, išskyrus šio Įstatymo 4 straipsnio 2 dalyje nurodytus valstybės narės teismo ekspertus, bet nedirbantys teismo ekspertizės įstaigoje.
 
-2. Privatūs teismo ekspertai gali steigti juridinius asmenis, kurių steigimą ir veiklą reglamentuoja atskiri įstatymai.
+2. Privačių teismo ekspertų veikla gali būti vykdoma teisės aktų nustatyta tvarka Lietuvos Respublikoje steigiant juridinius asmenis ar jų filialus, kitose užsienio valstybėse įsteigtų juridinių asmenų ar kitų organizacijų filialus.
+
+Straipsnio pakeitimai:
+
+Nr. XI-2068, 2012-06-14, Žin., 2012, Nr. 76-3922 (2012-06-30), i. k. 1121010ISTA0XI-2068
 
 18 straipsnis. Šio Įstatymo nuostatų taikymas privatiems teismo ekspertams
 
@@ -321,62 +381,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-241 straipsnis. Ekspertinių tyrimų rezultatų pripažinimas
-
-Pagal Tarybos pamatiniame sprendime 2009/905/TVR nurodytą tarptautinį standartą akredituotose valstybių narių ir Lietuvos Respublikos laboratorijose kompetentingos teisėsaugos arba teisminės institucijos prašymu atliktų šiame pamatiniame sprendime nurodytų ekspertinių tyrimų rezultatai pripažįstami vienodai patikimais.
-
-TAR pastaba. 241 straipsnio nuostatos dėl daktiloskopinių duomenų ekspertinių tyrimų taikomos nuo 2015 m. lapkričio 30 d.
-
-Papildyta straipsniu:
-
-Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00379
-
-41 straipsnis. Teismo ekspertų veiklos principai, atsakomybė už Teismo ekspertų profesinės etikos kodekso pažeidimus ir skundų nagrinėjimas
-
-1. Teismo ekspertų veikla turi būti grindžiama nepriklausomumo, profesionalumo, profesinių sprendimų skaidrumo, sąžiningumo, nešališkumo, pagarbos teisės aktams ir asmenų teisėms, konfidencialumo, teisingumo ir tyrimo išsamumo principais. Šių principų turinys apibrėžiamas Teismo ekspertų profesinės etikos kodekse. Teismo ekspertų profesinės etikos kodeksą tvirtina Teismo ekspertų veiklos koordinavimo taryba.
-
-2. Fizinių ar juridinių asmenų, kitų organizacijų ar jų padalinių skundus (pranešimus) dėl Teismo ekspertų profesinės etikos kodekso pažeidimų (toliau − skundus) nagrinėja Teismo ekspertų veiklos koordinavimo taryba, vadovaudamasi teisingumo ministro patvirtintu darbo reglamentu. Teismo ekspertų veiklos koordinavimo taryba nenagrinėja skundų dėl teismo ekspertų proceso veiksmų.
-
-3. Šio straipsnio 2 dalyje numatytus skundus Teismo ekspertų veiklos koordinavimo taryba nagrinėja posėdžiuose, kurie rengiami ne rečiau kaip kartą per ketvirtį.
-
-4. Teismo ekspertų veiklos koordinavimo taryba, nustačiusi Teismo ekspertų profesinės etikos kodekso pažeidimų, turi teisę priimti šiuos sprendimus:
-
-1) pareikšti įspėjimą;
-
-2) pareikšti viešą įspėjimą, apie kurį paskelbiama Lietuvos Respublikos teismo ekspertų sąraše. Šis viešas įspėjimas Lietuvos Respublikos teismo ekspertų sąraše skelbiamas vienus metus;
-
-3) siūlyti teisingumo ministrui išbraukti teismo ekspertą iš Lietuvos Respublikos teismo ekspertų sąrašo.
-
-5. Šio straipsnio 4 dalies 1 ir 2 punktuose nurodyti Teismo ekspertų veiklos koordinavimo tarybos sprendimai gali būti skundžiami teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-6. Jeigu nagrinėjant šio straipsnio 2 dalyje nurodytus skundus Teismo ekspertų veiklos koordinavimo tarybai kyla pagrįstų abejonių dėl teismo eksperto kvalifikacijos, ji turi teisę siūlyti teismo ekspertizės įstaigos vadovui arba šio Įstatymo 5 straipsnio 2 dalyje nurodytai valstybės institucijai ar prie jos tam tikslui sudarytai komisijai svarstyti kvalifikacijos, kurios pagrindu asmuo buvo įrašytas į Lietuvos Respublikos teismo ekspertų sąrašą, patikrinimo klausimą. Šis Teismo ekspertų veiklos koordinavimo tarybos siūlymas yra pagrindas teismo ekspertizės įstaigos vadovui arba šio Įstatymo 5 straipsnio 2 dalyje nurodytai valstybės institucijai ar prie jos tam tikslui sudarytai komisijai spręsti dėl kvalifikacijos, kurios pagrindu asmuo buvo įrašytas į Lietuvos Respublikos teismo ekspertų sąrašą, patikrinimo.
-
-Papildyta straipsniu:
-
-Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00379
-
-28 straipsnis. Ekspertinių tyrimų rezultatų pripažinimas
-
-Pagal pamatiniame sprendime 2009/905/TVR nurodytą tarptautinį standartą akredituotose valstybių narių ir Lietuvos Respublikos laboratorijose kompetentingos teisėsaugos arba teisminės institucijos prašymu atliktų šiame pamatiniame sprendime nurodytų ekspertinių tyrimų rezultatai pripažįstami vienodai patikimais.
-
-29 straipsnis. Į teismo ekspertų sąrašą neįrašyto asmens įspėjimas
-
-Jeigu ekspertizę atliko teismo ar teisėjo paskirtas asmuo, neįrašytas į teismo ekspertų sąrašą, ekspertizės akto įžanginėje dalyje pažymima, kad jis buvo įspėtas apie baudžiamąją atsakomybę už melagingos išvados pateikimą ir teismui prisiekė kaip ekspertas.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
-
-Lietuvos Respublikos
-
-teismo ekspertizės įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2009 m. lapkričio 30 d. Tarybos pamatinis sprendimas 2009/905/TVR dėl kriminalistinių laboratorinių tyrimų paslaugų teikėjų akreditacijos.
-
 Pakeitimai:
 
 1.
@@ -386,44 +390,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2068, 2012-06-14, Žin., 2012, Nr. 76-3922 (2012-06-30), i. k. 1121010ISTA0XI-2068
 
 Lietuvos Respublikos teismo ekspertizės įstatymo 3, 4, 6, 15, 17 straipsnių pakeitimo ir papildymo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2347, 2012-11-06, Žin., 2012, Nr. 132-6675 (2012-11-15), i. k. 1121010ISTA0XI-2347
-
-Lietuvos Respublikos teismo ekspertizės įstatymo 8 straipsnio pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00379
-
-Lietuvos Respublikos teismo ekspertizės įstatymo 1, 2, 3, 5, 6, 7, 9, 11, 12, 16, 20, 23 straipsnių pakeitimo ir Įstatymo papildymo 4(1), 24(1) straipsniais ir priedu ĮSTATYMAS
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2721, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26507
-
-Lietuvos Respublikos teismo ekspertizės įstatymo Nr. IX-1161 15 ir 20 straipsnių pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-2003, 2019-03-21, paskelbta TAR 2019-04-03, i. k. 2019-05382
-
-Lietuvos Respublikos teismo ekspertizės įstatymo Nr. IX-1161 5, 6 ir 8 straipsnių pakeitimo įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-3028, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13466
-
-Lietuvos Respublikos teismo ekspertizės įstatymo Nr. IX-1161 pakeitimo įstatymas
 
