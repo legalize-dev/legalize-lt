@@ -4,7 +4,7 @@ identifier: "TAR.D66F6A760DE7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2010-07-01"
+last_updated: "2012-11-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7"
 department: "Lietuvos Respublikos Seimas"
@@ -1492,6 +1492,20 @@ vykdęs uosto žemės nuomos sutartyje nustatytas pareigas, pasibaigus sutarties
 
 terminui, turi pirmumo teisę atnaujinti sutartį.
 
+2 dalies redakcija nuo 2013-01-01
+
+2. Kai pasibaigus uosto žemės
+
+nuomos sutarties terminui uosto žemę tokiomis pačiomis sąlygomis konkurso būdu
+
+pretenduoja išsinuomoti buvęs nuomininkas ir kiti asmenys, pirmumo teisę
+
+sudaryti naują uosto žemės nuomos sutartį turi buvęs tos uosto žemės
+
+nuomininkas, jeigu jis tvarkingai vykdė pagal uosto žemės nuomos sutartį
+
+prisiimtus įsipareigojimus.
+
 Straipsnio pakeitimai:
 
 Nr. VIII-1898, 00.08.29, Žin., 2000,
@@ -1505,6 +1519,12 @@ Nr.82-2479 (00.09.29)
 Nr. IX-1226,
 
 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
+
+Nr.
+
+XI-2288,
+
+2012-10-17, Žin., 2012, Nr. 127-6390 (2012-11-03)
 
 22 straipsnis.
 
@@ -1808,9 +1828,9 @@ naudojimo taisyklės bei kiti teisės aktai.
 
 Straipsnio pakeitimai:
 
-Nr. IX-1226,
+Nr. IX-1226, 2002-12-05,
 
-2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
+Žin., 2002, Nr. 123-5519 (2002-12-24)
 
 26 straipsnis.
 
@@ -2146,9 +2166,9 @@ Nr. VIII-1538, 00.02.15, Žin., 2000,
 
 Nr.18-429 (00.02.29)
 
-Nr. VIII-1898, 00.08.29, Žin., 2000,
+Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265
 
-Nr.75-2265 (00.09.07)
+(00.09.07)
 
 Nr. IX-1226,
 
@@ -2170,11 +2190,11 @@ straipsnis. Uosto rinkliavos
 
 privalo mokėti uosto rinkliavas.
 
-2. Uosto
+2. Uosto rinkliavų
 
-rinkliavų rūšis, jų maksimalius dydžius, rinkliavų taikymo principus nustato
+rūšis, jų maksimalius dydžius, rinkliavų taikymo principus nustato Lietuvos
 
-Lietuvos Respublikos Vyriausybė.
+Respublikos Vyriausybė.
 
 3. Uosto rinkliavų taikymo
 
@@ -2784,9 +2804,9 @@ atsiradusius išmetant kenksmingas medžiagas, naftą, naftos produktus,
 
 nutekamuosius vandenis ar šiukšles iš dviejų ar daugiau laivų, šių laivų
 
-savininkai arba valdytojai, jeigu negalima nustatyti kiekvieno jų kaltės,
+savininkai arba valdytojai, jeigu negalima nustatyti kiekvieno jų kaltės, privalo
 
-privalo atlyginti solidariai.
+atlyginti solidariai.
 
 42 straipsnis. Nuostolių,
 
@@ -3080,9 +3100,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. XI-715,
+Nr. XI-715, 2010-03-30,
 
-2010-03-30, Žin., 2010, Nr. 41-1940 (2010-04-10)
+Žin., 2010, Nr. 41-1940 (2010-04-10)
 
 KLAIPĖDOS
 
@@ -3092,13 +3112,33 @@ VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 įsigalioja 2010 m. liepos 1 d.
 
-*** Pabaiga ***
+14.
 
-Redagavo Aušrinė Trapinskienė
+Lietuvos
 
-(2010-04-14)
+Respublikos Seimas, Įstatymas
 
-autrap@lrs.lt
+Nr. XI-2288,
+
+2012-10-17, Žin., 2012, Nr. 127-6390 (2012-11-03)
+
+KLAIPĖDOS
+
+VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 24 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas, išskyrus 2 straipsnio 2 dalį, įsigalioja 2013 m sausio 1 d.
+
+***
+
+Pabaiga ***
+
+Redagavo
+
+Aušra Bodin (2012-11-05)
+
+aubodi@lrs.lt
 
 44 straipsnis. Klaipėdos
 
