@@ -4,7 +4,7 @@ identifier: "TAR.4C18D17F9BA5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-15"
-last_updated: "2012-07-14"
+last_updated: "2012-11-03"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5"
 department: "Lietuvos Respublikos Seimas"
@@ -1911,33 +1911,61 @@ finansuoti.
 
 lėšos
 
-1. Užimtumo fondo lėšas sudaro:1) nedarbo socialinio draudimo lėšos pagal Valstybinio socialinio draudimo biudžeto rodiklių patvirtinimo įstatymu patvirtintą lėšų dydį ir įmokų tarifą šiai draudimo rūšiai; 2) užimtumo rėmimo politiką įgyvendinančių įstaigų prie Socialinės apsaugos ir darbo ministerijos pajamos;3) kitos lėšos.
+1. Užimtumo
 
-2. Valstybinio socialinio draudimo fondo valdyba prie
+fondo lėšas sudaro:
 
-Socialinės apsaugos ir darbo ministerijos nedarbo draudimui gautas lėšas kas
+1) nedarbo
 
-savaitę lygiomis dalimis perveda Socialinės apsaugos ir darbo ministerijai
+socialinio draudimo lėšos pagal Lietuvos Respublikos valstybinio socialinio
 
-Užimtumo fondui formuoti. Pasibaigus ketvirčiui, nedarbo socialinio draudimo
+draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu
 
-įmokos perskaičiuojamos pagal Valstybinio socialinio draudimo fondo valdybos
+patvirtintą lėšų dydį ir įmokų tarifą šiai draudimo rūšiai;
 
-ataskaitoje nurodytas faktiškai gautas draudėjų įmokas, papildomai
+2) užimtumo
 
-apskaičiuotos sumos pervedamos kartu su kito ketvirčio nedarbo socialinio
+rėmimo politiką įgyvendinančių įstaigų pajamos;
 
-draudimo lėšomis, o permokėtos sumos atimamos iš kito ketvirčio nedarbo
+3) kitos lėšos.
 
-socialinio draudimo lėšų.
+2. Valstybinio
 
-3. Pasibaigus metams, nepanaudotos Užimtumo fondo lėšos
+socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo
 
-įtraukiamos į kitų metų Užimtumo fondo lėšų sąmatą.
+ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) nedarbo
+
+draudimui gautas lėšas kas savaitę lygiomis dalimis perveda Socialinės apsaugos
+
+ir darbo ministerijai Užimtumo fondui sudaryti. Pasibaigus ketvirčiui, nedarbo
+
+socialinio draudimo įmokos perskaičiuojamos pagal Valstybinio socialinio
+
+draudimo fondo valdybos ataskaitoje nurodytas faktiškai gautas draudėjų įmokas,
+
+papildomai apskaičiuotos sumos pervedamos kartu su kito ketvirčio nedarbo
+
+socialinio draudimo lėšomis, o permokėtos sumos atimamos iš kito ketvirčio
+
+nedarbo socialinio draudimo lėšų.
+
+3. Pasibaigus finansiniams metams, nepanaudotos
+
+Užimtumo fondo lėšos įtraukiamos į kitų metų Užimtumo fondo lėšų sąmatą.
 
 4. Užimtumo fondo lėšos kaupiamos ir saugomos Socialinės
 
 apsaugos ir darbo ministerijos sąskaitoje.
+
+5. Šio
+
+straipsnio 1 dalies 2 punkte nurodytas lėšas užimtumo politiką įgyvendinančios
+
+įstaigos perveda į Užimtumo fondo sąskaitą už praėjusį ketvirtį iki kito
+
+ketvirčio pirmo mėnesio 15 dienos.
+
+38 straipsnio redakcija nuo 2013-01-01
 
 39 straipsnis.
 
@@ -2319,9 +2347,9 @@ pasiūlą ir paklausą, siekiant išlaikyti darbo rinkos pusiausvyrą;
 
 ieškančių darbingo amžiaus asmenų užimtumo galimybes.
 
-3.
+3. Užimtumo
 
-Užimtumo rėmimo priemonės:
+rėmimo priemonės:
 
 1) aktyvios
 
@@ -2353,13 +2381,13 @@ rinkos paslaugos teikiamos vadovaujantis moterų ir vyrų lygių galimybių bei
 
 nediskriminavimo principais.
 
-6.
+6. Aktyvios
 
-Aktyvios darbo rinkos politikos priemonių įgyvendinimo sąlygas ir tvarką bei
+darbo rinkos politikos priemonių įgyvendinimo sąlygas ir tvarką bei darbo
 
-darbo rinkos paslaugų teikimo sąlygas ir tvarką nustato Vyriausybė ar jos
+rinkos paslaugų teikimo sąlygas ir tvarką nustato Vyriausybė ar jos įgaliota
 
-įgaliota institucija.
+institucija.
 
 5 straipsnis. Užimtumo rėmimo politiką
 
@@ -3409,6 +3437,16 @@ Respublikos nedarbo socialinio draudimo įstatyme nustatytoms nedarbo socialinio
 
 draudimo išmokoms mokėti;
 
+2 punkto redakcija nuo 2013-01-01
+
+2) (neteko galios
+
+nuo 2013-01-01). Nr.
+
+XI-2307,
+
+2012-10-17, Žin., 2012, Nr. 127-6396 (2012-11-03)
+
 3) bendriems
 
 Europos Sąjungos struktūrinių fondų ir tarptautiniams užimtumo rėmimo
@@ -3425,123 +3463,11 @@ finansuoti;
 
 administravimui finansuoti.
 
-38
+Straipsnio pakeitimai:
 
-straipsnis. Užimtumo fondo lėšos
+Nr. XI-2307,
 
-1. Užimtumo
-
-fondo lėšas sudaro:
-
-1) nedarbo
-
-socialinio draudimo lėšos pagal Lietuvos Respublikos valstybinio socialinio
-
-draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu
-
-patvirtintą lėšų dydį ir įmokų tarifą šiai draudimo rūšiai;
-
-2) užimtumo
-
-rėmimo politiką įgyvendinančių įstaigų pajamos;
-
-3) kitos lėšos.
-
-2. Valstybinio
-
-socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo
-
-ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) nedarbo
-
-draudimui gautas lėšas kas savaitę lygiomis dalimis perveda Socialinės apsaugos
-
-ir darbo ministerijai Užimtumo fondui sudaryti. Pasibaigus ketvirčiui, nedarbo
-
-socialinio draudimo įmokos perskaičiuojamos pagal Valstybinio socialinio
-
-draudimo fondo valdybos ataskaitoje nurodytas faktiškai gautas draudėjų įmokas,
-
-papildomai apskaičiuotos sumos pervedamos kartu su kito ketvirčio nedarbo
-
-socialinio draudimo lėšomis, o permokėtos sumos atimamos iš kito ketvirčio
-
-nedarbo socialinio draudimo lėšų.
-
-3. Pasibaigus finansiniams metams, nepanaudotos
-
-Užimtumo fondo lėšos įtraukiamos į kitų metų Užimtumo fondo lėšų sąmatą.
-
-4. Užimtumo fondo lėšos kaupiamos ir saugomos Socialinės
-
-apsaugos ir darbo ministerijos sąskaitoje.
-
-5. Šio
-
-straipsnio 1 dalies 2 punkte nurodytas lėšas užimtumo politiką įgyvendinančios
-
-įstaigos perveda į Užimtumo fondo sąskaitą už praėjusį ketvirtį iki kito
-
-ketvirčio pirmo mėnesio 15 dienos.
-
-39
-
-straipsnis. Užimtumo fondo administravimas
-
-1. Užimtumo
-
-fondo lėšas administruoja ir viešai skelbia, kaip jos naudojamos, Socialinės
-
-apsaugos ir darbo ministerija.
-
-2. Socialinės
-
-apsaugos ir darbo ministerija teikia Lietuvos Respublikos trišalei tarybai
-
-svarstyti Užimtumo fondo lėšų sąmatos projektą ir informaciją apie lėšų
-
-panaudojimą.
-
-3. Lietuvos
-
-Respublikos trišalė taryba teikia pasiūlymus Socialinės apsaugos ir darbo
-
-ministerijai dėl Užimtumo fondo lėšų sąmatos projekto ir lėšų panaudojimo.
-
-4. Užimtumo
-
-fondo lėšų sąmatą ir lėšų panaudojimo pagal šią sąmatą ataskaitą tvirtina
-
-socialinės apsaugos ir darbo ministras. Jis atsako už tinkamą šių lėšų
-
-paskirstymą.
-
-5. Socialinės
-
-apsaugos ir darbo ministerija pagal patvirtintą Užimtumo fondo lėšų sąmatą
-
-perveda lėšas užimtumo rėmimo politiką įgyvendinančioms įstaigoms.
-
-6. Užimtumo
-
-rėmimo politiką įgyvendinančios įstaigos pagal patvirtintas Užimtumo fondo lėšų
-
-sąmatas disponuoja iš Užimtumo fondo gautomis lėšomis ir kas ketvirtį teikia
-
-Socialinės apsaugos ir darbo ministerijai veiklos ataskaitas ir gautų lėšų
-
-panaudojimo finansines ataskaitas.
-
-7. Užimtumo
-
-rėmimo politiką įgyvendinančios įstaigos atsako už tinkamą iš Užimtumo fondo
-
-gautų lėšų panaudojimą.
-
-8. Užimtumo
-
-fondo lėšų sąmatos sudarymo ir naudojimo taisykles tvirtina Vyriausybė ar jos
-
-įgaliota institucija.
+2012-10-17, Žin., 2012, Nr. 127-6396 (2012-11-03)
 
 40 straipsnis. Valstybės lėšų finansinė
 
@@ -3717,9 +3643,9 @@ PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XI-1632,
+Nr. XI-1632, 2011-11-03,
 
-2011-11-03, Žin., 2011, Nr. 138-6530 (2011-11-17)
+Žin., 2011, Nr. 138-6530 (2011-11-17)
 
 UŽIMTUMO RĖMIMO ĮSTATYMO 8, 23 IR 28
 
@@ -3745,11 +3671,25 @@ PAKEITIMO ĮSTATYMAS
 
 dalį, įsigalioja 2012 m. rugsėjo 1 d.
 
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2307,
+
+2012-10-17, Žin., 2012, Nr. 127-6396 (2012-11-03)
+
+UŽIMTUMO RĖMIMO ĮSTATYMO 37 IR 38
+
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas, išskyrus 3 straipsnio 2
+
+dalį, įsigalioja 2013 m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo Aušrinė Trapinskienė
+Redagavo Aušra Bodin (2012-11-05)
 
-(2012-07-23)
-
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
 
