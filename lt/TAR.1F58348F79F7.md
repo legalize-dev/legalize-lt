@@ -4,7 +4,7 @@ identifier: "TAR.1F58348F79F7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-04"
-last_updated: "2012-01-01"
+last_updated: "2012-11-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7"
 department: "Lietuvos Respublikos Seimas"
@@ -1015,6 +1015,12 @@ Saugumo reikalavimai pensijų kaupimo bendrovėms
 
 vykdyti mokumo atsargos reikalavimus;
 
+1 punkto redakcija nuo 2014-01-01
+
+1) nuolat
+
+vykdyti mokumo kapitalo reikalavimus;
+
 2) sudaryti
 
 pakankamus pensijų kaupimo techninius atidėjinius, jeigu pagal pensijų fondo
@@ -1041,15 +1047,21 @@ skaičiuoja pagal priežiūros institucijos nustatytą mokumo atsargos skaičiav
 
 metodiką.
 
+3 dalies redakcija nuo 2014-01-01
+
+3. Draudimo įmonė mokumo kapitalą skaičiuoja
+
+priežiūros institucijos nustatyta tvarka.
+
 4. Draudimo
 
-įmonė pensijų kaupimo techninius atidėjinius sudaro pagal priežiūros
+įmonė pensijų kaupimo techninius atidėjinius sudaro pagal priežiūros institucijos
 
-institucijos nustatytą draudimo techninių atidėjinių dydžių apskaičiavimo
+nustatytą draudimo techninių atidėjinių dydžių apskaičiavimo metodiką. Pensijų
 
-metodiką. Pensijų kaupimo techninių atidėjinių investavimui keliami tokie pat
+kaupimo techninių atidėjinių investavimui keliami tokie pat reikalavimai kaip
 
-reikalavimai kaip ir draudimo techninių atidėjinių investavimui.
+ir draudimo techninių atidėjinių investavimui.
 
 5. Garantijų
 
@@ -1072,6 +1084,16 @@ turtui reikalavimai, nustatyti Papildomo savanoriško pensijų kaupimo įstatymo
 įmonei ir valdymo įmonei šio straipsnio 1 ir 2 dalyse nustatyti saugumo
 
 reikalavimai turi būti, kiek galima, tapatūs savo esme ir dydžiu.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XI-2279,
+
+2012-10-16, Žin., 2012, Nr. 127-6387 (2012-11-03)
 
 12
 
@@ -1149,9 +1171,9 @@ popieriai, jeigu emisijos sąlygose yra numatytas įsipareigojimas įtraukti ši
 
 perleidžiamuosius vertybinius popierius į prekybą reguliuojamoje rinkoje ne
 
-vėliau kaip per vienus metus nuo jų išleidimo (jei tokia rinka yra ne valstybėje
+vėliau kaip per vienus metus nuo jų išleidimo (jei tokia rinka yra ne
 
-narėje, ji turi būti nurodyta pensijų fondo taisyklėse).
+valstybėje narėje, ji turi būti nurodyta pensijų fondo taisyklėse).
 
 2. Į
 
@@ -1159,15 +1181,15 @@ kitą turtą pensijų turtas investuojamas Papildomo savanoriško pensijų kaupi
 
 įstatymo nustatyta tvarka.
 
-3.
+3. Iki 20
 
-Iki 20 procentų pensijų fondo grynųjų aktyvų gali būti investuojama į Papildomo
+procentų pensijų fondo grynųjų aktyvų gali būti investuojama į Papildomo
 
 savanoriško pensijų kaupimo įstatymo 49 straipsnio 1 dalyje nurodytų sąlygų
 
-neatitinkančių kolektyvinio investavimo subjektų investicinius vienetus ar
+neatitinkančių kolektyvinio investavimo subjektų investicinius vienetus ar akcijas,
 
-akcijas, jeigu tokie kolektyvinio investavimo subjektai atitinka šias sąlygas:
+jeigu tokie kolektyvinio investavimo subjektai atitinka šias sąlygas:
 
 1) subjektų
 
@@ -1613,11 +1635,11 @@ Nr. X-972, 2006-12-12,
 
 indeksas
 
-1. Pensijų
+1. Pensijų fondas
 
-fondas privalo turėti lyginamąjį indeksą. Pensijų fondo lyginamasis indeksas
+privalo turėti lyginamąjį indeksą. Pensijų fondo lyginamasis indeksas turi
 
-turi sudaryti galimybę visuomenei tinkamai vertinti pensijų fondo finansinius
+sudaryti galimybę visuomenei tinkamai vertinti pensijų fondo finansinius
 
 rezultatus. Pensijų fondo lyginamasis indeksas turi būti pasirenkamas
 
@@ -1721,9 +1743,9 @@ fonde siūlant naudą, nesusijusią su pensijų kaupimo veikla;
 
 informaciją, kuri yra neteisinga, neišsami ar gali būti klaidinanti.
 
-2. Pensijų
+2. Pensijų kaupimo
 
-kaupimo bendrovė, kiti jos įgalioti ar kitaip su ja susiję asmenys gali daryti
+bendrovė, kiti jos įgalioti ar kitaip su ja susiję asmenys gali daryti
 
 pareiškimus naudodami prognozuojamus skaičius tik priežiūros institucijos
 
@@ -1735,7 +1757,9 @@ informaciją potencialiam ar esamam dalyviui apie galimas pensijų išmokas,
 
 pensijų kaupimo bendrovė, jos atstovai ar kitaip su pensijų kaupimo bendrove
 
-susiję asmenys turi teisę naudoti skaičiuoklę, kuri turi atitikti šiuos reikalavimus:
+susiję asmenys turi teisę naudoti skaičiuoklę, kuri turi atitikti šiuos
+
+reikalavimus:
 
 1) pateikiama
 
@@ -2529,11 +2553,11 @@ neužkerta kelio dalyviui vietoj periodinės ar vienkartinės pensijų išmokos
 
 6. Dalyvis,
 
-kuriam pensijų anuiteto įsigijimas yra privalomas, turi teisę pasirinkti
+kuriam pensijų anuiteto įsigijimas yra privalomas, turi teisę pasirinkti pensijų
 
-pensijų anuiteto mokėtoją ir, kiek tai neprieštarauja šiam įstatymui, pensijų
+anuiteto mokėtoją ir, kiek tai neprieštarauja šiam įstatymui, pensijų anuiteto
 
-anuiteto rūšį.
+rūšį.
 
 7. Pensijų
 
@@ -2625,33 +2649,31 @@ pensijų anuiteto sutartį negaliojančia arba ją nutraukus dėl esminio pažei
 
 draudimo įmonė gautą vienkartinę įmoką (atėmus išmokėtų pensijų anuitetų sumą,
 
-jei jie jau buvo pradėti mokėti) ne vėliau kaip per 3 darbo dienas nuo
+jei jie jau buvo pradėti mokėti) ne vėliau kaip per 3 darbo dienas nuo pranešimo
 
-pranešimo apie naujos pensijų anuiteto sutarties sudarymą gavimo perveda kitai
+apie naujos pensijų anuiteto sutarties sudarymą gavimo perveda kitai draudimo
 
-draudimo įmonei, su kuria dalyvis sudarė naują pensijų anuiteto sutartį.
+įmonei, su kuria dalyvis sudarė naują pensijų anuiteto sutartį. Draudimo įmonė,
 
-Draudimo įmonė, su kuria dalyvis sudarė naują pensijų anuiteto sutartį, apie
+su kuria dalyvis sudarė naują pensijų anuiteto sutartį, apie sutarties sudarymą
 
-sutarties sudarymą ne vėliau kaip per vieną darbo dieną nuo naujos pensijų
+ne vėliau kaip per vieną darbo dieną nuo naujos pensijų anuiteto sutarties
 
-anuiteto sutarties sudarymo raštu praneša draudimo įmonei, laikančiai
+sudarymo raštu praneša draudimo įmonei, laikančiai pervestinas lėšas. Draudimo
 
-pervestinas lėšas. Draudimo įmonė pervestinas lėšas iki jų pervedimo kitai
+įmonė pervestinas lėšas iki jų pervedimo kitai draudimo įmonei laiko patikėjimo
 
-draudimo įmonei laiko patikėjimo teisės pagrindais komerciniame banke atskirai
+teisės pagrindais komerciniame banke atskirai nuo kitų lėšų. Šios lėšos gali
 
-nuo kitų lėšų. Šios lėšos gali būti naudojamos tik pervedimui kitai draudimo
+būti naudojamos tik pervedimui kitai draudimo įmonei, su kuria dalyvis sudarė
 
-įmonei, su kuria dalyvis sudarė naują sutartį, kaip vienkartinė įmoka pensijų
+naują sutartį, kaip vienkartinė įmoka pensijų anuiteto sutarčiai apmokėti, į
 
-anuiteto sutarčiai apmokėti, į jas negali būti nukreipiami išieškojimai pagal
+jas negali būti nukreipiami išieškojimai pagal kitas draudimo įmonės prievoles.
 
-kitas draudimo įmonės prievoles. Šios lėšos, nepervestos kitai draudimo įmonei
+Šios lėšos, nepervestos kitai draudimo įmonei dėl dalyvio mirties, yra
 
-dėl dalyvio mirties, yra išmokamos šio asmens įpėdiniams Civilinio kodekso
-
-nustatyta tvarka.
+išmokamos šio asmens įpėdiniams Civilinio kodekso nustatyta tvarka.
 
 8. Pensijų
 
@@ -3007,11 +3029,11 @@ dydis Valstybinių socialinio draudimo pensijų įstatymo nustatyta tvarka
 
 proporcingai mažinamas.
 
-2. Už laikotarpį,
+2. Už
 
-kai asmenys nedalyvavo pensijų kaupime, valstybinės socialinio draudimo
+laikotarpį, kai asmenys nedalyvavo pensijų kaupime, valstybinės socialinio
 
-senatvės pensijų dydis nemažinamas.
+draudimo senatvės pensijų dydis nemažinamas.
 
 3. Dalyviams,
 
@@ -3075,31 +3097,29 @@ Priežiūros institucijos teisės
 
 įstatymuose nustatytų teisių, turi teisę:
 
-1) priimti šiame įstatyme nustatytus
+1) priimti šiame įstatyme nustatytus teisės
 
-teisės aktus, reglamentuojančius pensijų kaupimo bendrovių veiklą;
+aktus, reglamentuojančius pensijų kaupimo bendrovių veiklą;
 
 2) taikyti poveikio priemones pensijų
 
 kaupimo bendrovėms ir kitiems asmenims, pažeidusiems šį įstatymą ir (ar) kitus
 
-teisės aktus, reglamentuojančius pensijų kaupimo bendrovių veiklą arba
+teisės aktus, reglamentuojančius pensijų kaupimo bendrovių veiklą arba pažeidusius
 
-pažeidusius dalyvių interesus, ar iškilus tokio pažeidimo grėsmei;
+dalyvių interesus, ar iškilus tokio pažeidimo grėsmei;
 
 3) taikyti administracines nuobaudas
 
-asmenims, pažeidusiems šį įstatymą ir (ar) kitus teisės aktus, reglamentuojančius
+asmenims, pažeidusiems šį įstatymą ir (ar) kitus teisės aktus,
 
-pensijų kaupimo bendrovių veiklą;
+reglamentuojančius pensijų kaupimo bendrovių veiklą;
 
-4) gauti duomenis (tarp jų ir asmens
+4) gauti duomenis (tarp jų ir asmens duomenis),
 
-duomenis), dokumentus arba jų nuorašus, reikalingus pensijų kaupimo bendrovių
+dokumentus arba jų nuorašus, reikalingus pensijų kaupimo bendrovių veiklos
 
-veiklos priežiūrai, iš valstybės, savivaldybių institucijų, įstaigų, kitų
-
-asmenų.
+priežiūrai, iš valstybės, savivaldybių institucijų, įstaigų, kitų asmenų.
 
 2. Priežiūros institucija, be kituose
 
@@ -3123,17 +3143,17 @@ arba kitaip apriboti disponavimo pensijų turtu teises.
 
 institucija teikia Socialinės apsaugos ir darbo ministerijai informaciją apie
 
-pensijų kaupimo bendrovių veiklos rezultatus, šiame straipsnyje nurodytų
+pensijų kaupimo bendrovių veiklos rezultatus, šiame straipsnyje nurodytų poveikio
 
-poveikio priemonių, susijusių su teisės užsiimti pensijų kaupimo veikla
+priemonių, susijusių su teisės užsiimti pensijų kaupimo veikla apribojimu,
 
-apribojimu, taikymą pensijų kaupimo bendrovėms ir kitą informaciją, nustatytą
+taikymą pensijų kaupimo bendrovėms ir kitą informaciją, nustatytą Socialinės
 
-Socialinės apsaugos ir darbo ministerijos bei priežiūros institucijos
+apsaugos ir darbo ministerijos bei priežiūros institucijos susitarime dėl
 
-susitarime dėl pasikeitimo informacija. VSDF valdybai priežiūros institucija
+pasikeitimo informacija. VSDF valdybai priežiūros institucija teikia
 
-teikia informaciją apie pensijų kaupimo bendrovių rekvizitus, pensijų kaupimo
+informaciją apie pensijų kaupimo bendrovių rekvizitus, pensijų kaupimo
 
 bendrovėms išduotas pensijų kaupimo veiklos licencijas, poveikio priemonių,
 
@@ -3141,15 +3161,15 @@ susijusių su teisės užsiimti pensijų kaupimo veikla apribojimu, taikymą,
 
 pensijų kaupimo bendrovės reorganizavimą, pertvarkymą, likvidavimą, bankrotą,
 
-teisių ir pareigų, atsirandančių iš pensijų kaupimo sutarčių, perdavimą kitai pensijų
+teisių ir pareigų, atsirandančių iš pensijų kaupimo sutarčių, perdavimą kitai
 
-kaupimo bendrovei ir kitą su pensijų kaupimo veikla susijusią informaciją,
+pensijų kaupimo bendrovei ir kitą su pensijų kaupimo veikla susijusią
 
-būtiną tvarkant Sutarčių registrą. Duomenų teikimo tvarka ir terminai nustatomi
+informaciją, būtiną tvarkant Sutarčių registrą. Duomenų teikimo tvarka ir
 
-priežiūros institucijos ir VSDF valdybos susitarime dėl pasikeitimo
+terminai nustatomi priežiūros institucijos ir VSDF valdybos susitarime dėl
 
-informacija.
+pasikeitimo informacija.
 
 4.
 
@@ -3189,13 +3209,13 @@ straipsnis. Atsakomybė įmokų mokėjimo vėlavimo atveju
 
 pensijų kaupimo bendrovių valdomiems pensijų fondams moka delspinigius už
 
-lėšas, pervestas joms pavėluotai dėl savo kaltės. Delspinigių dydį ir
+lėšas, pervestas joms pavėluotai dėl savo kaltės. Delspinigių dydį ir skaičiavimo
 
-skaičiavimo tvarką nustato Valstybinio socialinio draudimo įstatymas.
+tvarką nustato Valstybinio socialinio draudimo įstatymas. Priskaičiuotus
 
-Priskaičiuotus delspinigius pensijų kaupimo bendrovės paskirsto savo valdomų
+delspinigius pensijų kaupimo bendrovės paskirsto savo valdomų pensijų fondų
 
-pensijų fondų dalyviams, už kuriuos laiku nebuvo sumokėtos pensijų įmokos.
+dalyviams, už kuriuos laiku nebuvo sumokėtos pensijų įmokos.
 
 2. Draudėjų
 
@@ -3301,7 +3321,9 @@ KAUPIMO ĮSTATYMO 21, 22 IR 23 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 5.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+
+Įstatymas
 
 Nr. X-972, 2006-12-12,
 
@@ -3911,15 +3933,35 @@ Nauja
 
 įstatymas įsigalioja 2012 m. sausio 1 d.
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-2279,
+
+2012-10-16, Žin., 2012, Nr. 127-6387 (2012-11-03)
+
+PENSIJŲ
+
+KAUPIMO ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2014 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2011-12-02)
+Aušra Bodin (2012-11-05)
 
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
 
 1 straipsnis.
 
