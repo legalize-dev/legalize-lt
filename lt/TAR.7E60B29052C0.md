@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2012-07-13"
+last_updated: "2012-11-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -134,13 +134,29 @@ Specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus bei policijos
 
 generalinį komisarą) bei pareigūnams;
 
+8 punkto redakcija nuo 2013-01-01:
+
+8) Seimo, Seimo
+
+Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems
+
+institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus
+
+Specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus bei policijos
+
+generalinį komisarą) bei pareigūnams;
+
 9) Seimo,
 
 Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
 
 (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams;
 
-10) Vyriausybės įstaigų vadovams.
+10) Vyriausybės įstaigų vadovams;
+
+Papildyta 11 punktu nuo 2013-01-01:
+
+11) žvalgybos pareigūnams.
 
 Straipsnio
 
@@ -211,6 +227,10 @@ X-1773,
 Nr. XI-865,
 
 2010-06-03, Žin., 2010, Nr. 71-3543 (2010-06-19)
+
+Nr. XI-2296,
+
+2012-10-17, Žin., 2012, Nr. 129-6470 (2012-11-08)
 
 įstatymo 2 straipsnis įsigalioja 2013 m. sausio 1 d.
 
@@ -402,9 +422,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. XI-865,
+Nr. XI-865, 2010-06-03,
 
-2010-06-03, Žin., 2010, Nr. 71-3543 (2010-06-19)
+Žin., 2010, Nr. 71-3543 (2010-06-19)
 
 VALSTYBĖS
 
@@ -496,6 +516,36 @@ Respublikos teisės gauti informaciją iš valstybės ir savivaldybių instituci
 
 ir įstaigų įstatymo nustatyta tvarka.
 
+Papildyta
+
+4 ir 5 dalimis, buvusi 4 dalis laikoma 6 dalimi nuo 2013-01-01:
+
+4. Žvalgybos pareigūnų darbo užmokestis
+
+susideda iš:
+
+1) pareiginės algos;
+
+2) priedo už tarnybinį rangą ar kario
+
+laipsnį;
+
+3) priedo už tarnybos stažą.
+
+5. Žvalgybos pareigūnų priedų už tarnybinį rangą ar kario
+
+laipsnį ir tarnybos stažą dydžius nustato Lietuvos Respublikos žvalgybos
+
+įstatymas.
+
+6. Duomenys apie valstybės politikų ir valstybės pareigūnų
+
+darbo užmokestį yra vieši. Šie duomenys teikiami vadovaujantis Lietuvos
+
+Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų
+
+ir įstaigų įstatymo nustatyta tvarka.
+
 Straipsnio pakeitimai:
 
 Nr. IX-811,
@@ -512,15 +562,19 @@ Nr. IX-1520,
 
 Nr.
 
-X-1254,
+X-1254, 2007-07-03,
 
-2007-07-03, Žin., 2007, Nr. 81-3318 (2007-07-21)
+Žin., 2007, Nr. 81-3318 (2007-07-21)
 
 Nr.
 
 X-1773,
 
 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
+
+Nr. XI-2296,
+
+2012-10-17, Žin., 2012, Nr. 129-6470 (2012-11-08)
 
 4 straipsnis.
 
@@ -750,9 +804,9 @@ Nr. IX-667,
 
 2001-12-18, Žin., 2001, Nr. 111-4026 (2001-12-30)
 
-Nr. IX-841,
+Nr. IX-841, 2002-04-09,
 
-2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
+Žin., 2002, Nr. 43-1606 (2002-04-26)
 
 Nr. IX-1012,
 
@@ -1220,9 +1274,7 @@ Seimo kontrolieriai
 
 3.
 
-(neteko galios nuo 2009 m. vasario 1
-
-d.)
+(neteko galios nuo 2009-02-01)
 
 4.
 
@@ -1248,16 +1300,6 @@ Seimo, Seimo Pirmininko, Respublikos
 
 Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
 
-tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vyriausiosios
-
-rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
-
-Redakcija nuo 2012-08-01:
-
-Seimo, Seimo Pirmininko, Respublikos
-
-Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
-
 tarybos, Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės
 
 kainų ir energetikos kontrolės komisijos, Vyriausiosios rinkimų komisijos ir
@@ -1266,13 +1308,7 @@ Vyriausiosios tarnybinės etikos komisijos:
 
 7.1.
 
-pirmininkai
-
-Redakcija nuo 2012-08-01:
-
 pirmininkai ar direktoriai
-
-10,10
 
 12,3
 
@@ -1354,7 +1390,7 @@ nariai
 
 11.
 
-Neteko galios nuo 2012-01-01
+(neteko galios nuo 2012-01-01)
 
 12.
 
@@ -1380,7 +1416,7 @@ apskaičiuojamas proporcingai dirbtam laikui.
 
 Priedėlio
 
-redakcija nuo 2013 m. sausio 1 d. :
+redakcija nuo 2013 m. sausio 1 d.:
 
 Lietuvos
 
@@ -1814,15 +1850,17 @@ Seimo, Seimo Pirmininko, Respublikos
 
 Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
 
-tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vyriausiosios
+tarybos, Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės
 
-rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
+kainų ir energetikos kontrolės komisijos, Vyriausiosios rinkimų komisijos ir
+
+Vyriausiosios tarnybinės etikos komisijos:
 
 7.1.
 
-pirmininkai
+pirmininkai ar direktoriai
 
-12
+12,3
 
 7.2.
 
@@ -1928,6 +1966,66 @@ tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
 
 apskaičiuojamas proporcingai dirbtam laikui.
 
+V. ŽVALGYBOS
+
+PAREIGŪNŲ PAREIGINĖS ALGOS
+
+(Baziniais
+
+dydžiais)
+
+Pareigų
+
+pavadinimas
+
+Pareiginės
+
+algos koeficientas
+
+Direktorius
+
+15
+
+Direktoriaus pavaduotojas
+
+14
+
+Valdybos viršininkas
+
+12,5
+
+Valdybos viršininko pavaduotojas
+
+12
+
+Skyriaus viršininkas
+
+11
+
+Skyriaus viršininko pavaduotojas
+
+10
+
+Poskyrio viršininkas
+
+9,5
+
+Vyriausiasis specialistas
+
+9
+
+Vyresnysis specialistas
+
+8
+
+Specialistas
+
+6,5
+
+Jaunesnysis specialistas
+
+5
+
 Priedėlio
 
 pakeitimai:
@@ -1948,17 +2046,17 @@ Nr. IX-841,
 
 2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
 
-Nr. IX-1012, 2002-07-02,
+Nr. IX-1012,
 
-Žin., 2002, Nr. 72-3018 (2002-07-17)
+2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
 
 Nr. IX-1045,
 
 2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
 
-Nr. IX-1326, 2003-01-28,
+Nr. IX-1326,
 
-Žin., 2003, Nr. 17-703 (2003-02-19)
+2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
 
 Nr. IX-1390,
 
@@ -2024,9 +2122,9 @@ Nr. XI-224,
 
 Nr.
 
-XI-361,
+XI-361, 2009-07-17,
 
-2009-07-17, Žin., 2009, Nr. 91-3916 (2009-07-31)
+Žin., 2009, Nr. 91-3916 (2009-07-31)
 
 Nr. XI-865,
 
@@ -2084,6 +2182,14 @@ Nr. XI-2180,
 
 2012-06-29, Žin., 2012, Nr. 82-4266 (2012-07-13)
 
+Nr. XI-2181,
+
+2012-06-29, Žin., 2012, Nr. 82-4267 (2012-07-13)
+
+Nr. XI-2296,
+
+2012-10-17, Žin., 2012, Nr. 129-6470 (2012-11-08)
+
 Pakeitimai:
 
 1.
@@ -2118,9 +2224,9 @@ APMOKĖJIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 3.
 
-Lietuvos Respublikos
+Lietuvos
 
-Seimas, Įstatymas
+Respublikos Seimas, Įstatymas
 
 Nr. IX-312, 2001 05 08, Žin., 2001, Nr.
 
@@ -2270,9 +2376,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1326,
+IX-1326, 2003-01-28,
 
-2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
+Žin., 2003, Nr. 17-703 (2003-02-19)
 
 VALSTYBĖS
 
@@ -2390,9 +2496,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-128,
+X-128, 2005-02-15,
 
-2005-02-15, Žin., 2005, Nr. 28-877 (2005-02-26)
+Žin., 2005, Nr. 28-877 (2005-02-26)
 
 VALSTYBĖS
 
@@ -2462,9 +2568,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1385, 2007-12-18,
+X-1385,
 
-Žin., 2007, Nr. 140-5757 (2007-12-29)
+2007-12-18, Žin., 2007, Nr. 140-5757 (2007-12-29)
 
 VALSTYBĖS
 
