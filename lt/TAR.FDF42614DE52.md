@@ -4,7 +4,7 @@ identifier: "TAR.FDF42614DE52"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-16"
-last_updated: "2012-11-03"
+last_updated: "2012-11-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 department: "Lietuvos Respublikos Seimas"
@@ -222,6 +222,26 @@ tarnybų departamente prie Krašto apsaugos ministerijos civilinę krašto apsau
 
 tarnybą atliekantys statutiniai tarnautojai;
 
+3-4 punktų redakcija nuo 2013-01-01
+
+3) vidaus tarnybos
+
+sistemos pareigūnai, Valstybės saugumo departamento, Antrojo
+
+operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos,
+
+Specialiųjų tyrimų tarnybos ir Kalėjimų departamento prie Lietuvos Respublikos
+
+teisingumo ministerijos bei jam pavaldžių įstaigų ir įmonių pareigūnai;“.
+
+4) krašto
+
+apsaugos sistemos profesinės karo tarnybos kariai, taip pat kariai
+
+savanoriai, kiti aktyviojo rezervo kariai, parengtojo rezervo kariai, pašaukti
+
+į pratybas, mokymus ar vykdyti tarnybos užduočių;
+
 5) nesukakę
 
 senatvės pensijos amžiaus ir negaunantys pajamų, susijusių su darbo santykiais,
@@ -232,31 +252,33 @@ sutuoktiniai – tuo laikotarpiu, kai jie gyvena užsienyje kartu su valstybės
 
 tarnautoju ar deleguotu asmeniu, jeigu pastarasis asmuo deleguotas ar valstybės
 
-tarnautojas perkeltas į pareigas Lietuvos Respublikos diplomatinėje atstovybėje,
-
-konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės
-
-organizacijos, tarptautinėje ar Europos Sąjungos institucijoje arba užsienio
-
-valstybės institucijoje, pasiųstas dirbti į specialiąją misiją, ar kai jie
-
-gyvena kartu su profesinės karo tarnybos kariu, jeigu profesinės karo tarnybos
-
-karys paskirtas atlikti karo tarnybą Lietuvos Respublikos diplomatinėje
+tarnautojas perkeltas į pareigas Lietuvos Respublikos diplomatinėje
 
 atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie
 
-tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje arba
+tarptautinės organizacijos, tarptautinėje ar Europos Sąjungos institucijoje
 
-gynybos institucijoje. Deleguotų asmenų sutuoktiniai draudžiami tik tuo atveju,
+arba užsienio valstybės institucijoje, pasiųstas dirbti į specialiąją misiją,
 
-jei deleguotam asmeniui darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos
+ar kai jie gyvena kartu su profesinės karo tarnybos kariu, jeigu profesinės
 
-deleguojančioji institucija. Nesukakęs senatvės pensijos amžiaus ir neturintis
+karo tarnybos karys paskirtas atlikti karo tarnybą Lietuvos Respublikos
 
-draudžiamųjų pajamų Respublikos Prezidento sutuoktinis – Respublikos Prezidento
+diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos
 
-kadencijos laikotarpiu;
+atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar
+
+tarptautinėje karinėje arba gynybos institucijoje. Deleguotų asmenų
+
+sutuoktiniai draudžiami tik tuo atveju, jei deleguotam asmeniui darbo užmokestį
+
+ir nuo jo socialinio draudimo įmokas moka
+
+asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija. Nesukakęs
+
+senatvės pensijos amžiaus ir neturintis draudžiamųjų pajamų Respublikos
+
+Prezidento sutuoktinis – Respublikos Prezidento kadencijos laikotarpiu;
 
 6) asmenys,
 
@@ -264,11 +286,11 @@ nurodyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies 4
 
 punkte;
 
-7) šeimos pasirinkimu
+7) šeimos
 
-vienas iš tėvų (įtėvių) arba asmuo, nustatyta tvarka paskirtas vaiko globėju,
+pasirinkimu vienas iš tėvų (įtėvių) arba asmuo, nustatyta tvarka paskirtas
 
-auginantys vaiką iki trejų metų;
+vaiko globėju, auginantys vaiką iki trejų metų;
 
 8) nesukakęs
 
@@ -280,9 +302,9 @@ tvarka paskirtas šio neįgalaus asmens globėju ar rūpintoju, slaugantis namuo
 
 nurodytą neįgalų asmenį. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių),
 
-globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą, pripažintą
+globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą,
 
-tokiu iki 2005 m. liepos 1 d.
+pripažintą tokiu iki 2005 m. liepos 1 d.
 
 Straipsnio pakeitimai:
 
@@ -333,6 +355,12 @@ Nr.
 XI-1527,
 
 2011-06-23, Žin., 2011, Nr. 86-4169 (2011-07-13)
+
+Nr.
+
+XI-2299,
+
+2012-10-17, Žin., 2012, Nr. 129-6473 (2012-11-08)
 
 ANTRASIS SKIRSNIS
 
@@ -824,9 +852,9 @@ termino pabaigos dieną iki senatvės pensijos amžiaus yra likę ne daugiau kai
 
 metai, nedarbo draudimo išmokos mokėjimas pratęsiamas dar 2 mėnesius, jeigu
 
-asmeniui nepaskirta išankstinė senatvės pensija pagal Valstybinių socialinio draudimo
+asmeniui nepaskirta išankstinė senatvės pensija pagal Valstybinių socialinio
 
-pensijų išankstinio mokėjimo įstatymą.
+draudimo pensijų išankstinio mokėjimo įstatymą.
 
 2. Bedarbiams,
 
@@ -1064,17 +1092,15 @@ XI-306, 2009-06-18, Žin., 2009, Nr.
 
 77-3170 (2009-06-30)
 
-Nr. XI-2306, 2012-10-17,
+Nr. XI-2306,
 
-Žin., 2012, Nr. 127-6395 (2012-11-03)
+2012-10-17, Žin., 2012, Nr. 127-6395 (2012-11-03)
 
 KETVIRTASIS SKIRSNIS
 
 BAIGIAMOSIOS NUOSTATOS
 
-21 straipsnis. Įstatymo
-
-įsigaliojimas
+21 straipsnis. Įstatymo įsigaliojimas
 
 Šis Įstatymas įsigalioja 2005 m. sausio 1 d.
 
@@ -1134,9 +1160,9 @@ pašalpos skyrimo dienos;
 
 nedarbo draudimo išmokos dalis mažinama tokiomis pat proporcijomis ir tais
 
-pačiais terminais, skaičiuojant nuo bedarbio pašalpos skyrimo dienos, kaip nustatyta
+pačiais terminais, skaičiuojant nuo bedarbio pašalpos skyrimo dienos, kaip
 
-šio Įstatymo 8 straipsnio 4 dalyje.
+nustatyta šio Įstatymo 8 straipsnio 4 dalyje.
 
 2. Šio straipsnio 1 dalyje nustatyta tvarka pradėjus
 
@@ -1146,15 +1172,15 @@ laikant išmokos skyrimo diena anksčiau mokėtos bedarbio pašalpos skyrimo die
 
 3. Asmenims, kuriems bedarbio pašalpa paskirta iki
 
-2005 m. sausio 1 d. ir jos mokėjimas pratęstas pagal anksčiau galiojusį
+2005 m. sausio 1 d. ir jos mokėjimas pratęstas pagal anksčiau galiojusį įstatymą
 
-įstatymą dėl to, kad bedarbiui iki pensinio amžiaus liko ne daugiau kaip 2
+dėl to, kad bedarbiui iki pensinio amžiaus liko ne daugiau kaip 2 metai, toliau
 
-metai, toliau mokama anksčiau paskirtos bedarbio pašalpos dydžio nedarbo
+mokama anksčiau paskirtos bedarbio pašalpos dydžio nedarbo draudimo išmoka. Ši
 
-draudimo išmoka. Ši išmoka mokama laikotarpį, kuris buvo nustatytas bedarbio
+išmoka mokama laikotarpį, kuris buvo nustatytas bedarbio pašalpos mokėjimo
 
-pašalpos mokėjimo pratęsimo metu iki 2005 m. sausio 1 d.
+pratęsimo metu iki 2005 m. sausio 1 d.
 
 4. Bedarbiams, įsiregistravusiems teritorinėse darbo biržose iki 2005
 
@@ -1272,17 +1298,17 @@ straipsnis. Teisės aktų pripažinimas netekusiais galios
 
 atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo, Žalos
 
-atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga
+atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo
 
-laikinojo įstatymo, Sveikatos draudimo įstatymo, Nedarbo socialinio draudimo
+įstatymo, Sveikatos draudimo įstatymo, Nedarbo socialinio draudimo įstatymo,
 
-įstatymo, Valstybinių socialinio draudimo pensijų įstatymo, Valstybinio
+Valstybinių socialinio draudimo pensijų įstatymo, Valstybinio socialinio
 
-socialinio draudimo fondo biudžeto sandaros įstatymo, Invalidų socialinės
+draudimo fondo biudžeto sandaros įstatymo, Invalidų socialinės integracijos
 
-integracijos įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 33, 34,
+įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 33, 34, 36, 45
 
-36, 45 straipsnių pakeitimo ir papildymo 45(1) straipsniu įstatymo,
+straipsnių pakeitimo ir papildymo 45(1) straipsniu įstatymo,
 
 Valstybinių socialinio draudimo pensijų įstatymo 9, 16, 28, 35, 36, 40, 43, 45,
 
@@ -1326,9 +1352,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-2540, 2004-11-04,
+IX-2540,
 
-Žin., 2004, Nr. 171-6300 (2004-11-26)
+2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
 
 NELAIMINGŲ
 
@@ -1764,15 +1790,15 @@ buvo atleisti iš šių tarnybų ištarnavę ne mažiau kaip pusę nustatyto lai
 
 3. Šio
 
-straipsnio 1 dalies 2 ir 3 punktuose nurodyti bedarbiai turi teisę gauti nedarbo
+straipsnio 1 dalies 2 ir 3 punktuose nurodyti bedarbiai turi teisę gauti
 
-draudimo išmoką, kai jie įsiregistruoja teritorinėje darbo biržoje, ne vėliau
+nedarbo draudimo išmoką, kai jie įsiregistruoja teritorinėje darbo biržoje, ne
 
-kaip per 6 kalendorinius mėnesius po atleidimo iš darbo ar valstybės tarnautojų
+vėliau kaip per 6 kalendorinius mėnesius po atleidimo iš darbo ar valstybės
 
-pareigų bei paleidimo iš privalomosios pradinės karo tarnybos ar alternatyviosios
+tarnautojų pareigų bei paleidimo iš privalomosios pradinės karo tarnybos ar
 
-krašto apsaugos tarnybos.
+alternatyviosios krašto apsaugos tarnybos.
 
 Straipsnio pakeitimai:
 
@@ -1990,13 +2016,13 @@ dalyvauti jo individualiame užimtumo veiklos plane (toliau – užimtumo planas
 
 numatytose aktyvios darbo rinkos politikos priemonėse;
 
-3) be pateisinamų priežasčių, nurodytų Nedarbo draudimo išmokų
+3) be pateisinamų priežasčių, nurodytų Nedarbo draudimo išmokų nuostatuose,
 
-nuostatuose, nustatytu laiku neatvyko į teritorinę darbo biržą priimti
+nustatytu laiku neatvyko į teritorinę darbo biržą priimti pasiūlymo dirbti arba
 
-pasiūlymo dirbti arba dalyvauti jo užimtumo plane numatytose aktyvios darbo
+dalyvauti jo užimtumo plane numatytose aktyvios darbo rinkos politikos
 
-rinkos politikos priemonėse;
+priemonėse;
 
 4) atsisakė teritorinės darbo biržos siūlomo sveikatos patikrinimo, kad
 
@@ -2038,9 +2064,9 @@ Nr. X-65, 2004-12-22,
 
 Nr.
 
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170
+XI-306, 2009-06-18, Žin., 2009, Nr.
 
-(2009-06-30)
+77-3170 (2009-06-30)
 
 16 straipsnis. Nedarbo draudimo išmokos išmokėjimas
 
@@ -2052,7 +2078,9 @@ draudimo išmoka, negauta iki turėjusio į ją teisę asmens mirties dienos,
 
 išmokama asmeniui, pateikusiam paveldėjimo dokumentus.
 
-TREČIASIS SKIRSNIS
+TREČIASIS
+
+SKIRSNIS
 
 NEDARBO DRAUDIMO
 
