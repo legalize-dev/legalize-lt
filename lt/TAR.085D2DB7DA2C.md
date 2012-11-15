@@ -4,7 +4,7 @@ identifier: "TAR.085D2DB7DA2C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-03-17"
-last_updated: "2001-04-05"
+last_updated: "2012-11-15"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.085D2DB7DA2C"
 department: "Lietuvos Respublikos Seimas"
@@ -28,7 +28,7 @@ LITO PATIKIMUMO
 
 ĮSTATYMAS
 
-1994 m. kovo 17 d. Nr.I-407
+1994 m. kovo 17 d. Nr. I-407
 
 Vilnius
 
@@ -164,6 +164,28 @@ informaciją apie bendrą litų kiekį apyvartoje ir turimas aukso atsargas bei
 
 konvertuojamos užsienio valiutos rezervą.
 
+Straipsnio redakcija nuo
+
+2014-01-01:
+
+5
+
+straipsnis. Informacija apie litą
+
+Lietuvos bankas savo interneto
+
+svetainėje skelbia ir ne rečiau kaip kartą per mėnesį atnaujina informaciją
+
+apie bendrą litų kiekį apyvartoje ir turimas aukso atsargas bei konvertuojamos
+
+užsienio valiutos rezervą.
+
+Straipsnio pakeitimai:
+
+Nr. XI-2330,
+
+2012-11-06, Žin., 2012, Nr. 132-6658 (2012-11-15)
+
 6 straipsnis. Įstatymo įsigaliojimas
 
 Šis
@@ -210,8 +232,6 @@ RESPUBLIKOS
 
 PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
 
-___________
-
 Pakeitimai:
 
 1.
@@ -232,9 +252,29 @@ Nr. IX-236, 2001 04 05, Žin., 2001, Nr.
 
 LITO PATIKIMUMO ĮSTATYMO PAPILDYMO 8 STRAIPSNIU ĮSTATYMAS
 
+3.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. XI-2330,
+
+2012-11-06, Žin., 2012, Nr. 132-6658 (2012-11-15)
+
+LITO PATIKIMUMO ĮSTATYMO 5
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2014 m.
+
+sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo: Aušrinė Trapinskienė (2001 04 20)
+Redagavo Aušrinė Trapinskienė
 
-autrap@lrs.lt
+(2012-11-19)
+
+ausrine.trapinskiene@lrs.lt
 
