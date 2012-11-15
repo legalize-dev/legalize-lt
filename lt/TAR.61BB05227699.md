@@ -4,7 +4,7 @@ identifier: "TAR.61BB05227699"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-30"
-last_updated: "2012-01-01"
+last_updated: "2012-11-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.61BB05227699"
 department: "Lietuvos Respublikos Seimas"
@@ -23,10 +23,6 @@ LIETUVOS RESPUBLIKOS
 Nr. 51-1243
 
 Neoficialus įstatymo tekstas
-
-Aktuali
-
-redakcija nuo 2012-01-01
 
 LIETUVOS RESPUBLIKOS
 
@@ -92,19 +88,19 @@ kontrolės pareigūno parengtas valstybinio audito dokumentas, kuriame
 
 aprašomi atlikto valstybinio audito mastas ir rezultatai.
 
-5. Valstybinio audito išvada – Valstybės kontrolės
+5. Valstybinio audito išvada – Valstybės
 
-pareigūno parengtas valstybinio audito dokumentas, kuriame, atlikus finansinį
+kontrolės pareigūno parengtas valstybinio audito dokumentas, kuriame, atlikus
 
-(teisėtumo) auditą, pareiškiama nuomonė dėl audituoto subjekto finansinių ir
+finansinį (teisėtumo) auditą, pareiškiama nuomonė dėl audituoto subjekto
 
-biudžeto vykdymo ataskaitų rinkinių, metinių konsoliduotųjų ataskaitų
+finansinių ir biudžeto vykdymo ataskaitų rinkinių, metinių konsoliduotųjų
 
-rinkinių, nacionalinio ataskaitų rinkinio ir kitų ataskaitų duomenų bei
+ataskaitų rinkinių, nacionalinio ataskaitų rinkinio ir kitų ataskaitų duomenų
 
-valstybės lėšų ir turto valdymo, naudojimo ir disponavimo jais teisėtumo ir jų
+bei valstybės lėšų ir turto valdymo, naudojimo ir disponavimo jais teisėtumo ir
 
-naudojimo įstatymų nustatytiems tikslams.
+jų naudojimo įstatymų nustatytiems tikslams.
 
 6. Valstybinio
 
@@ -152,9 +148,9 @@ Nr. XI-843,
 
 kontrolės teisinis statusas
 
-1. Valstybės kontrolė yra Seimui atskaitinga aukščiausioji
+1. Valstybės kontrolė yra Seimui atskaitinga
 
-valstybinio audito institucija.
+aukščiausioji valstybinio audito institucija.
 
 2. Valstybės
 
@@ -256,17 +252,17 @@ biudžeto.
 
 nustato ir skiria Seimas.
 
-3. Išlaidoms,
+3.
 
-susijusioms su Valstybės kontrolės atstovavimu šalyje ir užsienyje, finansuoti
+Išlaidoms, susijusioms su Valstybės kontrolės atstovavimu šalyje ir užsienyje,
 
-gali būti sudaromas valstybės kontrolieriaus fondas, kuriam, nedidinant
+finansuoti gali būti sudaromas valstybės kontrolieriaus fondas, kuriam,
 
-Valstybės kontrolei nustatytų bendrų reprezentacijos lėšų, kiekvieną mėnesį
+nedidinant Valstybės kontrolei nustatytų bendrų reprezentacijos lėšų, kiekvieną
 
-skiriama paskutinio paskelbto šalies ūkio trijų vidutinių mėnesinių darbo
+mėnesį skiriama paskutinio paskelbto šalies ūkio trijų vidutinių mėnesinių
 
-užmokesčių dydžio suma. Šių lėšų naudojimo tvarką nustato Vyriausybė.
+darbo užmokesčių dydžio suma. Šių lėšų naudojimo tvarką nustato Vyriausybė.
 
 4. Valstybės kontrolės finansinį auditą
 
@@ -430,9 +426,9 @@ tarnybos Valstybės kontrolės pareigūnus ir kitus valstybės tarnautojus;
 
 5) teikia Respublikos Prezidentui valstybės
 
-kontrolieriaus pavaduotojų kandidatus bei siūlymus atleisti valstybės kontrolieriaus
+kontrolieriaus pavaduotojų kandidatus bei siūlymus atleisti valstybės
 
-pavaduotojus iš pareigų;
+kontrolieriaus pavaduotojus iš pareigų;
 
 6) teikia Seimui Valstybės kontrolės veiklos ataskaitą
 
@@ -448,11 +444,11 @@ Valstybės kontrolės pareigūnai dėl finansinių ataskaitų pareiškė sąlygi
 
 neigiamą nuomonę arba atsisakė ją pareikšti;
 
-8) turi teisę dalyvauti Seimo plenariniuose posėdžiuose
+8) turi teisę dalyvauti Seimo plenariniuose
 
-ir pareikšti savo nuomonę, kai svarstomi su Valstybės kontrolės veikla susiję
+posėdžiuose ir pareikšti savo nuomonę, kai svarstomi su Valstybės kontrolės
 
-klausimai;
+veikla susiję klausimai;
 
 9) turi teisę teikti siūlymus Seimui, Respublikos
 
@@ -502,25 +498,25 @@ atsakomybė
 
 turi teisę: savarankiškai pasirinkti audito procedūras; gauti auditui atlikti
 
-reikalingus dokumentus ir informaciją; atlikti kontrolinius matavimus, materialinių
+reikalingus dokumentus ir informaciją; atlikti kontrolinius matavimus,
 
-vertybių inventorizaciją ar kitaip tikrinti audituojamo subjekto turtą, taip
+materialinių vertybių inventorizaciją ar kitaip tikrinti audituojamo subjekto
 
-pat atlikti kitus būtinus veiksmus; gauti iš audituojamo subjekto darbuotojų
+turtą, taip pat atlikti kitus būtinus veiksmus; gauti iš audituojamo subjekto
 
-reikiamus paaiškinimus raštu; surašyti administracinių teisės pažeidimų
+darbuotojų reikiamus paaiškinimus raštu; surašyti administracinių teisės
 
-protokolus; elektroniniu ryšiu gauti iš valstybės valdymo ir
+pažeidimų protokolus; elektroniniu ryšiu gauti iš valstybės valdymo
 
-savivaldybių institucijų, valstybės kadastrų, klasifikatorių
+ir savivaldybių institucijų, valstybės kadastrų,
 
-bei registrų tvarkytojų duomenis ir informaciją, kurios reikia valstybiniam
+klasifikatorių bei registrų tvarkytojų duomenis ir informaciją, kurios reikia
 
-auditui atlikti; gauti iš ekspertizės įstaigų išvadas pagal pateiktus audito dokumentus;
+valstybiniam auditui atlikti; gauti iš ekspertizės įstaigų išvadas pagal
 
-pasitelkti atitinkamų sričių specialistus ir audito įstaigas, kai atliekamas
+pateiktus audito dokumentus; pasitelkti atitinkamų sričių specialistus ir
 
-specifinių sričių auditas.
+audito įstaigas, kai atliekamas specifinių sričių auditas.
 
 2. Atliekantys valstybinį auditą
 
@@ -626,15 +622,29 @@ Valstybinis auditas atliekamas pagal valstybės kontrolieriaus
 
 patvirtintus Valstybinio audito reikalavimus.
 
-3. Valstybinio audito reikalavimai
+3. Valstybinio audito reikalavimai skelbiami
 
-skelbiami leidinyje „Valstybės žinios“.
+leidinyje „Valstybės žinios“.
+
+3 dalis redakcija nuo
+
+2014-01-01:
+
+3. Valstybinio audito reikalavimai skelbiami Teisės
+
+aktų registre.
 
 Straipsnio pakeitimai:
 
 Nr. X-468, 2005-12-22,
 
 Žin., 2006, Nr. 4-101 (2006-01-12)
+
+Nr.
+
+XI-2355,
+
+2012-11-06, Žin., 2012, Nr. 132-6683 (2012-11-15)
 
 14 straipsnis. Valstybinio
 
@@ -676,11 +686,11 @@ sveikatos draudimo fondo biudžeto vykdymo valstybinį auditą.
 
 rinkos priežiūros atlikimu, auditą tiek, kiek tai neprieštarauja Europos
 
-Sąjungos teisės aktams ir juose įtvirtintiems Europos centrinių bankų sistemos
+Sąjungos teisės aktams ir juose įtvirtintiems Europos centrinių bankų sistemos tikslams
 
-tikslams ir uždaviniams, ir jeigu tai nepažeidžia Europos centrinių bankų
+ir uždaviniams, ir jeigu tai nepažeidžia Europos centrinių bankų sistemos
 
-sistemos konfidencialumo ir nepriklausomumo režimo.
+konfidencialumo ir nepriklausomumo režimo.
 
 5. Seimas nutarimu gali pavesti Valstybės kontrolei
 
@@ -782,9 +792,9 @@ Valstybinis auditas baigiamas įforminus valstybinio audito dokumentus.
 
 2. Dėl
 
-audito metu nustatytų reikšmingų teisės aktų pažeidimų priimamas
+audito metu nustatytų reikšmingų teisės aktų pažeidimų priimamas administracinis
 
-administracinis aktas – sprendimas.
+aktas – sprendimas.
 
 3. Valstybės kontrolės
 
@@ -810,11 +820,11 @@ Valstybės kontrolierius ar jo
 
 pavaduotojai, priimdami sprendimus pagal audito ataskaitas, turi teisę:
 
-1)
+1) nurodyti
 
-nurodyti audituotų subjektų vadovams reikšmingus teisės aktų pažeidimus ir
+audituotų subjektų vadovams reikšmingus teisės aktų pažeidimus ir įpareigoti
 
-įpareigoti juos pašalinti;
+juos pašalinti;
 
 2)
 
@@ -980,9 +990,9 @@ Nr. X-468, 2005-12-22,
 
 21 straipsnis. Ryšiai su
 
-Seimu, Vyriausybe, teisėsaugos, audito institucijomis ir kitų valstybių
+Seimu, Vyriausybe, teisėsaugos, audito institucijomis ir kitų valstybių aukščiausiosiomis
 
-aukščiausiosiomis audito institucijomis
+audito institucijomis
 
 1. Valstybės kontrolė, valstybinio audito metu
 
@@ -1012,11 +1022,9 @@ Nr. X-468, 2005-12-22,
 
 tarptautinėmis organizacijomis
 
-Valstybės kontrolė dalyvauja Tarptautinės
+Valstybės kontrolė dalyvauja Tarptautinės aukščiausiųjų
 
-aukščiausiųjų audito institucijų organizacijos INTOSAI ir jos padalinio EUROSAI
-
-veikloje.
+audito institucijų organizacijos INTOSAI ir jos padalinio EUROSAI veikloje.
 
 VI SKYRIUS
 
@@ -1162,9 +1170,9 @@ aukštąjį universitetinį išsimokslinimą.
 
 4. Valstybės
 
-kontrolierius pradeda eiti pareigas tik po to, kai Seimo posėdyje prisiekia
+kontrolierius pradeda eiti pareigas tik po to, kai Seimo posėdyje prisiekia Lietuvos
 
-Lietuvos Respublikai.
+Respublikai.
 
 28 straipsnis. Valstybės kontrolieriaus pavaduotojų
 
@@ -1548,13 +1556,13 @@ teisės aktai.
 
 X SKYRIUS
 
-VALSTYBĖS KONTROLĖS PAREIGŪNŲ MOKYMAS IR KVALIFIKACIJOS
+VALSTYBĖS KONTROLĖS PAREIGŪNŲ MOKYMAS IR
 
-KĖLIMAS
+KVALIFIKACIJOS KĖLIMAS
 
-39 straipsnis. Mokymo ir
+39 straipsnis. Mokymo ir kvalifikacijos
 
-kvalifikacijos kėlimo procesas
+kėlimo procesas
 
 1. Valstybės
 
@@ -1584,9 +1592,9 @@ kontrolės pareigūnų sisteminio, profesinio mokymo ir kvalifikacijos kėlimo
 
 tvarką valstybinio audito srityje nustato valstybės kontrolierius.
 
-40 straipsnis. Mokymo ir
+40 straipsnis. Mokymo ir kvalifikacijos
 
-kvalifikacijos kėlimo finansavimas
+kėlimo finansavimas
 
 1. Valstybės kontrolės pareigūnų mokymas ir
 
@@ -1636,9 +1644,9 @@ Nr. X-468, 2005-12-22,
 
 Žin., 2006, Nr. 4-101 (2006-01-12)
 
-42 straipsnis. (Neteko
+42 straipsnis. Neteko
 
-galios nuo 2006 m. sausio 12 d.)
+galios nuo 2006 m. sausio 12 d.
 
 Straipsnio pakeitimai:
 
@@ -1693,8 +1701,6 @@ Skelbiu
 RESPUBLIKOS
 
 PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS
-
-_______________
 
 Pakeitimai:
 
@@ -1770,9 +1776,9 @@ VALSTYBĖS KONTROLĖS ĮSTATYMO 10 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328
 
-64-2328 (2001-07-25)
+(2001-07-25)
 
 VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO, KONSTITUCINIO TEISMO
 
@@ -1810,9 +1816,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1255,
+Nr. IX-1255, 2002-12-10,
 
-2002-12-10, Žin., 2002, Nr. 123-5542 (2002-12-24)
+Žin., 2002, Nr. 123-5542 (2002-12-24)
 
 VALSTYBĖS
 
@@ -1842,9 +1848,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1851,
+Nr. IX-1851, 2003-11-25,
 
-2003-11-25, Žin., 2003, Nr. 116-5257 (2003-12-12)
+Žin., 2003, Nr. 116-5257 (2003-12-12)
 
 VALSTYBĖS
 
@@ -1998,15 +2004,33 @@ KONTROLĖS ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja 2012 m. sausio 1 d.
 
+19.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-2355,
+
+2012-11-06, Žin., 2012, Nr. 132-6683 (2012-11-15)
+
+VALSTYBĖS
+
+KONTROLĖS ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2014 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušra Bodin (2011-12-15)
+Aušrinė Trapinskienė (2012-11-23)
 
-aubodi@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 46 straipsnis.
 
