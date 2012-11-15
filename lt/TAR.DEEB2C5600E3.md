@@ -4,7 +4,7 @@ identifier: "TAR.DEEB2C5600E3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-02-03"
-last_updated: "2011-12-17"
+last_updated: "2012-11-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DEEB2C5600E3"
 department: "Lietuvos Respublikos Seimas"
@@ -1635,6 +1635,18 @@ patalpose, taip pat Konstitucinio Teismo interneto tinklalapyje ir pranešama
 
 visuomenės informavimo priemonėms.
 
+1
+
+dalies redakcija nuo 2014-01-01:
+
+Apie
+
+Konstitucinio Teismo teisminius posėdžius paskelbiama Konstitucinio Teismo
+
+patalpose, taip pat Konstitucinio Teismo interneto svetainėje ir
+
+pranešama visuomenės informavimo priemonėms.
+
 Konstitucinio Teismo
 
 posėdžiai yra vieši, juos gali stebėti pilnamečiai asmenys bei spaudos ir kitų
@@ -1695,6 +1707,12 @@ Nr. IX-1797,
 
 2003-10-28, Žin., 2003, Nr. 108-4815 (2003-11-19)
 
+Nr.
+
+XI-2329,
+
+2012-11-06, Žin., 2012, Nr. 132-6657 (2012-11-15)
+
 19
 
 straipsnis. Konstitucinio Teismo veiklos kolegialumas
@@ -1709,11 +1727,11 @@ visų jo teisėjų.
 
 Tvirtinant Konstitucinio
 
-Teismo reglamentą, keičiant jį bei sprendžiant kitus vidaus klausimus, Konstitucinio
+Teismo reglamentą, keičiant jį bei sprendžiant kitus vidaus klausimus,
 
-Teismo posėdis yra teisėtas, jei jame dalyvauja ne mažiau kaip pusė visų jo
+Konstitucinio Teismo posėdis yra teisėtas, jei jame dalyvauja ne mažiau kaip
 
-teisėjų.
+pusė visų jo teisėjų.
 
 Sprendimai priimami ne
 
@@ -1793,9 +1811,11 @@ skelbia Lietuvos Respublikos vardu.
 
 atvejais baigiamasis Konstitucinio Teismo aktas vadinamas išvada.
 
-Konstitucinis Teismas atskirais
+Konstitucinis Teismas
 
-klausimais, dėl kurių byla neišsprendžiama iš esmės, priima sprendimus.
+atskirais klausimais, dėl kurių byla neišsprendžiama iš esmės, priima
+
+sprendimus.
 
 Konstitucinis Teismas
 
@@ -1829,9 +1849,9 @@ Organizaciniuose posėdžiuose
 
 svarstomi ir sprendžiami vidaus, medžiagų tyrimo ir kiti klausimai. Klausimus
 
-svarstyti siūlo Konstitucinio Teismo pirmininkas ir teisėjai. Darbotvarkę bei
+svarstyti siūlo Konstitucinio Teismo pirmininkas ir teisėjai. Darbotvarkę bei posėdžių
 
-posėdžių grafiką nustato Konstitucinis Teismas.
+grafiką nustato Konstitucinis Teismas.
 
 Prireikus į organizacinius
 
@@ -1855,9 +1875,9 @@ Konstituciniam Teismui
 
 svarstyti teikiami klausimai turi būti iš anksto ištirti. Konstitucinio Teismo
 
-pirmininkas tai atlikti paveda vienam ar keliems teisėjams, nustatydamas šio darbo
+pirmininkas tai atlikti paveda vienam ar keliems teisėjams, nustatydamas šio
 
-terminą.
+darbo terminą.
 
 Konstitucinio Teismo
 
@@ -1971,6 +1991,30 @@ Respublikos Konstitucijos 106 straipsnį minėto akto galiojimas sustabdomas nuo
 
 bylos paskelbimo.
 
+2
+
+dalies redakcija nuo 2014-01-01:
+
+Jeigu Konstitucinis Teismas priima
+
+sprendimą priimti nagrinėti prašymą, Konstitucinio Teismo pirmininkas tuoj pat
+
+apie tai paskelbia Konstitucinio Teismo interneto svetainėje ir Teisės aktų
+
+registro tvarkytojui pateikia pranešimą, kuriame nurodo tikslų ginčijamo akto
+
+pavadinimą, jo priėmimo datą ir tai, kad pagal Lietuvos Respublikos
+
+Konstitucijos 106 straipsnį minėto akto galiojimas sustabdomas nuo šio
+
+pranešimo oficialaus paskelbimo Teisės aktų registre dienos iki
+
+Konstitucinio Teismo nutarimo dėl šios bylos paskelbimo. Teisės aktų registro
+
+tvarkytojo gautas Konstitucinio Teismo pirmininko pranešimas nedelsiant
+
+paskelbiamas Teisės aktų registre.
+
 Tais atvejais,
 
 kai Konstitucinis Teismas, išnagrinėjęs bylą, priima nutarimą, kad ginčijamas
@@ -1983,9 +2027,9 @@ apie tai oficialiai paskelbia šio straipsnio antrojoje dalyje nustatyta tvarka.
 
 akto pavadinimas, priėmimo data, Konstitucinio Teismo nutarimo šiuo klausimu
 
-esmė, jo priėmimo data, taip pat tai, kad nuo šio nutarimo paskelbimo dienos atstatomas
+esmė, jo priėmimo data, taip pat tai, kad nuo šio nutarimo paskelbimo dienos
 
-sustabdytojo akto galiojimas.
+atstatomas sustabdytojo akto galiojimas.
 
 Straipsnio
 
@@ -2006,6 +2050,12 @@ VIII-765,
 Nr. IX-1797,
 
 2003-10-28, Žin., 2003, Nr. 108-4815 (2003-11-19)
+
+Nr.
+
+XI-2329,
+
+2012-11-06, Žin., 2012, Nr. 132-6657 (2012-11-15)
 
 27
 
@@ -2147,13 +2197,13 @@ nagrinėjimas turi būti užbaigtas ir galutinis nutarimas ar išvada priimti ne
 
 vėliau kaip per 4 mėnesius nuo prašymo ar paklausimo gavimo Konstituciniame
 
-Teisme dienos, jeigu Konstitucinis Teismas nenustato kitaip. Konstitucinis Teismas
+Teisme dienos, jeigu Konstitucinis Teismas nenustato kitaip. Konstitucinis
 
-negali pratęsti šioje dalyje nustatyto 4 mėnesių termino, kai nagrinėja bylą
+Teismas negali pratęsti šioje dalyje nustatyto 4 mėnesių termino, kai nagrinėja
 
-dėl įstatymo ar kito teisės akto, reglamentuojančio žemės paėmimą visuomenės
+bylą dėl įstatymo ar kito teisės akto, reglamentuojančio žemės paėmimą
 
-poreikiams įgyvendinant ypatingos valstybinės svarbos projektus, atitikties
+visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus, atitikties
 
 Konstitucijai.
 
@@ -2227,37 +2277,35 @@ asmens dalyvavimas byloje neatima iš jo teisės turėti šioje byloje atstovus.
 
 Įstatyminiais atstovais
 
-laikomi atitinkamų institucijų vadovai, veikiantys pagal įstatymo jiems suteiktus
+laikomi atitinkamų institucijų vadovai, veikiantys pagal įstatymo jiems
 
-įgaliojimus. Jie pateikia Konstituciniam Teismui dokumentus, patvirtinančius jų
+suteiktus įgaliojimus. Jie pateikia Konstituciniam Teismui dokumentus,
 
-pareigas. Įstatyminiu atstovu laikomas ir Seimo narių grupei atstovaujantis
+patvirtinančius jų pareigas. Įstatyminiu atstovu laikomas ir Seimo narių grupei
 
-Seimo narys (nariai), kurį (kuriuos) savo prašyme nurodo pasirašydami po juo
+atstovaujantis Seimo narys (nariai), kurį (kuriuos) savo prašyme nurodo
 
-visi besikreipiantys Seimo nariai, jeigu jų parašai patvirtinti Seimo
+pasirašydami po juo visi besikreipiantys Seimo nariai, jeigu jų parašai
 
-Pirmininko arba jo pavaduotojo. Teismui, kuris kreipėsi į Konstitucinį Teismą,
+patvirtinti Seimo Pirmininko arba jo pavaduotojo. Teismui, kuris kreipėsi į Konstitucinį
 
-atstovauja nutartį priėmęs teisėjas (arba kolegijos pirmininkas).
+Teismą, atstovauja nutartį priėmęs teisėjas (arba kolegijos pirmininkas).
 
 Dalyvaujančių byloje
 
 įgaliotais atstovais (pagal pavedimą) Konstituciniame Teisme gali būti
 
-advokatai, mokslo laipsnius turintys teisininkai, taip pat teisinio darbo
+advokatai, mokslo laipsnius turintys teisininkai, taip pat teisinio darbo aukščiausiose
 
-aukščiausiose valstybės institucijose patirtį turintys asmenys. Advokato
+valstybės institucijose patirtį turintys asmenys. Advokato įgaliojimai
 
-įgaliojimai patvirtinami advokato orderiu. Kitiems nurodytiems asmenims įgaliojimus
+patvirtinami advokato orderiu. Kitiems nurodytiems asmenims įgaliojimus išduoda
 
-išduoda atitinkamų institucijų, kurioms jie atstovauja, vadovai arba Seimo
+atitinkamų institucijų, kurioms jie atstovauja, vadovai arba Seimo narių grupės
 
-narių grupės įstatyminis atstovas. Institucijos vadovas savo įstaigai
+įstatyminis atstovas. Institucijos vadovas savo įstaigai atstovauti gali
 
-atstovauti gali įpareigoti ir kitą tos įstaigos specialistą, išduodamas jam
-
-įgaliojimą.
+įpareigoti ir kitą tos įstaigos specialistą, išduodamas jam įgaliojimą.
 
 Straipsnio
 
@@ -2357,17 +2405,17 @@ Liudytoju gali būti
 
 kiekvienas asmuo, kuris gali žinoti kokių nors su byla susijusių aplinkybių.
 
-Šaukiamas kaip liudytojas asmuo
+Šaukiamas kaip liudytojas
 
-privalo atvykti į Teismą ar pas teisėją ir duoti teisingus parodymus.
+asmuo privalo atvykti į Teismą ar pas teisėją ir duoti teisingus parodymus.
 
 Už neatvykimą pas teisėją ar
 
 į Teismo posėdį dėl priežasčių, kurios Teismo pripažintos nesvarbiomis,
 
-liudytojui gali būti paskirta bauda, o jei liudytojas neatvyksta be svarbių priežasčių
+liudytojui gali būti paskirta bauda, o jei liudytojas neatvyksta be svarbių
 
-į posėdį antrą kartą šaukiamas, jis gali būti priverstinai policijos
+priežasčių į posėdį antrą kartą šaukiamas, jis gali būti priverstinai policijos
 
 atvesdinamas.
 
@@ -11083,37 +11131,7 @@ punktuose nurodytais klausimais įsigalioja kitą dieną po jų paskelbimo
 
 Straipsnio
 
-pakeitimai:
-
-Nr.
-
-I-1475,
-
-96.07.11, Žin., 1996, Nr.73-1749 (96.07.31)
-
-Nr. IX-1797,
-
-2003-10-28, Žin., 2003, Nr. 108-4815 (2003-11-19)
-
-85
-
-straipsnis. Konstitucinio Teismo finansavimas
-
-Valstybės biudžeto atskirame
-
-straipsnyje, atsižvelgiant į Konstitucinio Teismo teikimą, kasmet numatomos
-
-Konstitucinio Teismo veiklai užtikrinti būtinos lėšos.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-I-1475,
-
-96.07.11, Žin., 1996, Nr.73-1749 (96.07.31)
+redakcija nuo 2014-01-01:
 
 71 straipsnis. Konstitucinio Teismo nutarimų bylose dėl
 
@@ -11707,45 +11725,91 @@ neskundžiama.
 
 VI SKYRIUS. BAIGIAMIEJI NUOSTATAI
 
-84 straipsnis. Konstitucinio Teismo sprendimų
+84 straipsnis.
 
-paskelbimas
+Konstitucinio Teismo aktų ir Konstitucinio Teismo pirmininko potvarkių
+
+paskelbimas ir įsigaliojimas
+
+Konstitucinio Teismo
+
+nutarimai ir sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo oficialiai
+
+skelbiami Teisės aktų registre Teisėkūros pagrindų įstatymo nustatyta tvarka ir
+
+Konstitucinio Teismo interneto svetainėje.
+
+Konstitucinio Teismo
+
+išvados, taip pat sprendimai priimti nagrinėti prašymą ar paklausimą,
+
+sprendimai atsisakyti nagrinėti prašymą ar paklausimą, sprendimai nutraukti
+
+bylą (teiseną), Konstitucinio Teismo pirmininko potvarkiai šio įstatymo
+
+25 straipsnio pirmosios dalies 1 ir 2 punktuose nurodytais klausimais skelbiami
+
+Konstitucinio Teismo interneto svetainėje.
+
+Šio straipsnio pirmojoje
+
+dalyje nurodyti Konstitucinio Teismo aktai įsigalioja jų oficialaus paskelbimo
+
+Teisės aktų registre dieną.
+
+Šio straipsnio antrojoje
+
+dalyje nurodyti Konstitucinio Teismo aktai įsigalioja jų paskelbimo
+
+Konstitucinio Teismo interneto svetainėje dieną.
 
 Konstitucinio
 
-Teismo nutarimai, išvados, o prireikus  ir
+Teismo pirmininko potvarkiai šio įstatymo 25 straipsnio pirmosios dalies 1 ir 2
 
-kiti  sprendimai
+punktuose nurodytais klausimais įsigalioja kitą dieną po jų paskelbimo
 
-oficialiai  skelbiami  “Valstybės  žiniose”,
+Konstitucinio Teismo interneto svetainėje, jeigu pačiuose potvarkiuose
 
-atskirame skyriuje;
+nenustatyta kita jų įsigaliojimo data.
 
-specialiame Seimo leidinyje; laikraščiuose
+Straipsnio
 
-per    Lietuvos
+pakeitimai:
 
-telegramų   agentūrą   (ELTA).    Prireikus
+Nr.
 
-Konstitucinis
+I-1475,
 
-Teismas  leidžia  savo  nutarimų  ir  sprendimų
+96.07.11, Žin., 1996, Nr.73-1749 (96.07.31)
 
-rinkinius, kitus
+Nr. IX-1797,
 
-leidinius.
+2003-10-28, Žin., 2003, Nr. 108-4815 (2003-11-19)
 
-Konstitucinio
+Nr.
 
-Teismo  nutarimai įsigalioja  tą dieną,  kurią
+XI-2329,
 
-jie pirmiausiai buvo
+2012-11-06, Žin., 2012, Nr. 132-6657 (2012-11-15)
 
-paskelbti viename iš minėtų leidinių.
+85
 
-Straipsnio pakeitimai:
+straipsnis. Konstitucinio Teismo finansavimas
 
-Nr. I-1475,
+Valstybės biudžeto atskirame
+
+straipsnyje, atsižvelgiant į Konstitucinio Teismo teikimą, kasmet numatomos
+
+Konstitucinio Teismo veiklai užtikrinti būtinos lėšos.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+I-1475,
 
 96.07.11, Žin., 1996, Nr.73-1749 (96.07.31)
 
@@ -11871,8 +11935,6 @@ Vilnius, 1993 m. vasario 3 d.
 
 Nr. I-67
 
-_______________
-
 Pakeitimai:
 
 1.
@@ -11947,9 +12009,9 @@ KONSTITUCINIO TEISMO ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARB
 
 SĄLYGŲ ĮSTATYMO, PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS
 
-PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ
+PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS
 
-APSAUGOS KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 7.
 
@@ -12065,6 +12127,26 @@ TEISMO ĮSTATYMO 27, 41, 44 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO
 
 PAPILDYMO 53(1) STRAIPSNIU ĮSTATYMAS
 
+14.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-2329,
+
+2012-11-06, Žin., 2012, Nr. 132-6657 (2012-11-15)
+
+KONSTITUCINIO
+
+TEISMO ĮSTATYMO 18, 26 IR 84 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2014 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
@@ -12101,7 +12183,7 @@ Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2011-12-19)
+Aušrinė Trapinskienė (2012-11-19)
 
 ausrine.trapinskiene@lrs.lt
 
