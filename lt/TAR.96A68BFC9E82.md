@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2011-12-31"
+last_updated: "2012-11-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -75,29 +75,119 @@ straipsnis. Vyriausybės galios
 
 galias apibrėžia Lietuvos Respublikos Konstitucija ir įstatymai.
 
-1
+Šio įstatymo 1 straipsnis
 
-straipsnio redakcija iki Valstybės pažangos strategijos įsigaliojimo dienos:
+įsigalioja Valstybės pažangos strategijos įsigaliojimo dieną,
 
-3
+t. y. nuo 2012-05-31(Strategija
 
-straipsnis. Vyriausybės veiklos teisiniai pagrindai
+pavirtinta Seimo nutarimu Nr. XI-2015).
 
-Vyriausybė savo veikloje vadovaujasi Lietuvos
+Šio įstatymo atitaisymas
 
-Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis,
+skelbtas: Žin., 2010, Nr. 87 (2010-07-22)
 
-įstatymais, Vyriausybės programa, kitais teisės aktais ir savo veiklą derina su
+33.
 
-Valstybės ilgalaikės raidos strategija.
+Lietuvos
 
-1
+Respublikos Seimas, Įstatymas
 
-straipsnio redakcija nuo Valstybės pažangos strategijos įsigaliojimo dienos:
+Nr.
 
-3
+XI-1127,
 
-straipsnis. Vyriausybės veiklos teisiniai pagrindai
+2010-11-12, Žin., 2010, Nr. 139-7111 (2010-11-27)
+
+VYRIAUSYBĖS
+
+ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+34.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1838,
+
+2011-12-21, Žin., 2011, Nr. 164-7795 (2011-12-31)
+
+VYRIAUSYBĖS
+
+ĮSTATYMO 26 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2012 m. kovo 1 d.
+
+35.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-2354,
+
+2012-11-06, Žin., 2012, Nr. 132-6682 (2012-11-15)
+
+VYRIAUSYBĖS
+
+ĮSTATYMO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2014 m. sausio 1 d.
+
+***
+
+Pabaiga ***
+
+Konstitucinio
+
+Teismo nutarimai:
+
+1.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+1999 11 23, Žin., 1999, Nr. 101-2916 (1999 11 26)
+
+DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 8
+
+STRAIPSNIO 2 IR 4 DALIŲ, 9 STRAIPSNIO 1 DALIES 4 PUNKTO IR 4 DALIES, 22 STRAIPSNIO
+
+1 PUNKTO, 24 STRAIPSNIO 2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3 DALIES 7
+
+PUNKTO, 31 STRAIPSNIO 2, 4 DALIŲ IR 6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4 DALIES,
+
+45 STRAIPSNIO 4 DALIES ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+
+***
+
+Pabaiga ***
+
+Redagavo
+
+Aušrinė Trapinskienė (2012-11-21)
+
+ausrine.trapinskiene@lrs.lt
+
+2 straipsnis.
+
+Vyriausybės galios
+
+1. Vyriausybė
+
+įgyvendina vykdomąją valdžią Lietuvoje.
+
+2. Vyriausybės
+
+galias apibrėžia Lietuvos Respublikos Konstitucija ir įstatymai.
+
+3 straipsnis. Vyriausybės veiklos
+
+teisiniai pagrindai
 
 Vyriausybė savo
 
@@ -125,9 +215,9 @@ Nr. IX-842,
 
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 
-Nr. XI-863,
+Nr. XI-863, 2010-06-03,
 
-2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
+Žin., 2010, Nr. 71-3541 (2010-06-19)
 
 4
 
@@ -235,9 +325,9 @@ Nr. XI-863,
 
 straipsnis. Ministro Pirmininko ir ministrų prisaikdinimas
 
-1. Pradėdami eiti
+1. Pradėdami
 
-savo pareigas, Ministras Pirmininkas ir ministrai prisiekia. Prisiekiantis
+eiti savo pareigas, Ministras Pirmininkas ir ministrai prisiekia. Prisiekiantis
 
 asmuo perskaito nustatytą priesaikos tekstą:
 
@@ -443,9 +533,9 @@ Pirmininkas atsistatydina arba miršta;
 
 rinkimų, kai sudaroma nauja Vyriausybė;
 
-5) kai pasikeitus daugiau kaip pusei ministrų
+5) kai pasikeitus daugiau kaip pusei
 
-arba išrinkus Respublikos Prezidentą Vyriausybė iš naujo negauna Seimo
+ministrų arba išrinkus Respublikos Prezidentą Vyriausybė iš naujo negauna Seimo
 
 įgaliojimų.
 
@@ -558,124 +648,6 @@ Straipsnio pakeitimai:
 Nr. VIII-1980,
 
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
-
-Šio įstatymo 1 straipsnis
-
-įsigalioja Valstybės pažangos strategijos įsigaliojimo dieną.
-
-Šio įstatymo atitaisymas
-
-skelbtas: Žin., 2010, Nr. 87 (2010-07-22)
-
-33.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-XI-1127,
-
-2010-11-12, Žin., 2010, Nr. 139-7111 (2010-11-27)
-
-VYRIAUSYBĖS
-
-ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-34.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. XI-1838,
-
-2011-12-21, Žin., 2011, Nr. 164-7795 (2011-12-31)
-
-VYRIAUSYBĖS
-
-ĮSTATYMO 26 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja 2012 m. kovo 1 d.
-
-***
-
-Pabaiga ***
-
-Konstitucinio
-
-Teismo nutarimai:
-
-1.
-
-Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-
-1999 11 23, Žin., 1999, Nr. 101-2916 (1999 11 26)
-
-DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 8
-
-STRAIPSNIO 2 IR 4 DALIŲ, 9 STRAIPSNIO 1 DALIES 4 PUNKTO IR 4 DALIES, 22
-
-STRAIPSNIO 1 PUNKTO, 24 STRAIPSNIO 2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3
-
-DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4 DALIŲ IR 6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4
-
-DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
-
-*** Pabaiga
-
-***
-
-Redagavo
-
-Aušrinė Trapinskienė (2012-01-11)
-
-ausrine.trapinskiene@lrs.lt
-
-2 straipsnis.
-
-Vyriausybės galios
-
-1. Vyriausybė
-
-įgyvendina vykdomąją valdžią Lietuvoje.
-
-2. Vyriausybės
-
-galias apibrėžia Lietuvos Respublikos Konstitucija ir įstatymai.
-
-3 straipsnis.
-
-Vyriausybės veiklos teisiniai pagrindai
-
-Vyriausybė savo veikloje vadovaujasi Lietuvos
-
-Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis,
-
-įstatymais, Vyriausybės programa, kitais teisės aktais ir savo veiklą derina su
-
-Valstybės ilgalaikės raidos strategija.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-818,
-
-1998 06 30, Žin., 1998, Nr. 65-1871 (1998 07 22)
-
-Nr. VIII-1980,
-
-2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
-
-Nr. IX-842,
-
-2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 
 4 straipsnis.
 
@@ -1255,9 +1227,9 @@ Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmok�
 
 išmoka Ministro Pirmininko tarnyba, o ministrams – ministerijos. Vyriausybės
 
-nariai draudžiami valstybiniu socialiniu draudimu Valstybinio socialinio draudimo
+nariai draudžiami valstybiniu socialiniu draudimu Valstybinio socialinio
 
-įstatymo nustatyta tvarka.
+draudimo įstatymo nustatyta tvarka.
 
 3. Vyriausybės atstovavimo šalyje ir užsienyje
 
@@ -1333,15 +1305,15 @@ bet ne ilgiau kaip 10 dienų. Rašytinis prašymas atleisti nuo tarnybinių pare
 
 pateikiamas asmeniui, turinčiam teisę suteikti atostogas. Toks Vyriausybės
 
-narys nuo tarnybinių pareigų neatleidžiamas, o atleistas atšaukiamas, jeigu Vyriausybės
+narys nuo tarnybinių pareigų neatleidžiamas, o atleistas atšaukiamas, jeigu
 
-posėdyje nebūtų galima užtikrinti reikalingos Vyriausybės narių daugumos,
+Vyriausybės posėdyje nebūtų galima užtikrinti reikalingos Vyriausybės narių
 
-būtinos sprendimams priimti. Už laikotarpį, kuriuo Vyriausybės narys yra
+daugumos, būtinos sprendimams priimti. Už laikotarpį, kuriuo Vyriausybės narys
 
-atleistas nuo tarnybinių pareigų, Vyriausybės nariui darbo užmokestis ar kitos
+yra atleistas nuo tarnybinių pareigų, Vyriausybės nariui darbo užmokestis ar
 
-išmokos nemokamos.
+kitos išmokos nemokamos.
 
 11. Vyriausybės
 
@@ -1379,17 +1351,17 @@ XI-124,
 
 2008-12-23, Žin., 2008, Nr. 149-6044 (2008-12-30)
 
-Nr. XI-218, 2009-04-16,
+Nr. XI-218,
 
-Žin., 2009, Nr. 46-1796 (2009-04-25)
+2009-04-16, Žin., 2009, Nr. 46-1796 (2009-04-25)
 
 Nr. XI-319,
 
 2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
 
-Nr. XI-511, 2009-12-02,
+Nr. XI-511,
 
-Žin., 2009, Nr. 147-6554 (2009-12-12)
+2009-12-02, Žin., 2009, Nr. 147-6554 (2009-12-12)
 
 Nr. XI-1127,
 
@@ -1653,11 +1625,11 @@ Respublikos Prezidentu vykdo užsienio politiką; užmezga diplomatinius santyki
 
 ir palaiko ryšius su užsienio valstybėmis bei tarptautinėmis organizacijomis;
 
-atsižvelgdama į Seimo Užsienio reikalų komiteto rekomendacijas, teikia
+atsižvelgdama į Seimo Užsienio reikalų komiteto rekomendacijas, teikia Respublikos
 
-Respublikos Prezidentui siūlymus dėl Lietuvos Respublikos diplomatinių atstovų
+Prezidentui siūlymus dėl Lietuvos Respublikos diplomatinių atstovų užsienio
 
-užsienio valstybėse ir prie tarptautinių organizacijų skyrimo bei atšaukimo;
+valstybėse ir prie tarptautinių organizacijų skyrimo bei atšaukimo;
 
 11) įstatymo
 
@@ -1675,9 +1647,9 @@ teritorijoje;
 
 kreiptis į Konstitucinį Teismą su prašymu ištirti, ar Lietuvos Respublikos
 
-įstatymai ar kiti Seimo priimti teisės aktai neprieštarauja Lietuvos
+įstatymai ar kiti Seimo priimti teisės aktai neprieštarauja Lietuvos Respublikos
 
-Respublikos Konstitucijai;
+Konstitucijai;
 
 14) priima į
 
@@ -1763,7 +1735,9 @@ straipsnis. Ministras Pirmininkas
 
 Pirmininkas atstovauja Vyriausybei ir vadovauja jos veiklai.
 
-2. Ministras Pirmininkas:
+2. Ministras
+
+Pirmininkas:
 
 1) sudaro
 
@@ -1775,17 +1749,17 @@ siūlymus Respublikos Prezidentui dėl ministrų skyrimo ir atleidimo;
 
 3) Valstybės
 
-tarnybos įstatymo nustatyta tvarka priima į pareigas ir atleidžia iš jų Ministro
+tarnybos įstatymo nustatyta tvarka priima į pareigas ir atleidžia iš jų
 
-Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus, kitus
+Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus,
 
-įstatymų nustatytus valstybės tarnautojus ir pareigūnus; Ministro Pirmininko
+kitus įstatymų nustatytus valstybės tarnautojus ir pareigūnus; Ministro
 
-kancleriui gali pavesti priimti į pareigas ir atleisti iš jų Ministro
+Pirmininko kancleriui gali pavesti priimti į pareigas ir atleisti iš jų
 
-Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus, tvirtinti
+Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus,
 
-jų pareigybių aprašymus;
+tvirtinti jų pareigybių aprašymus;
 
 4) skiria
 
@@ -1867,9 +1841,9 @@ Nr. VIII-1980,
 
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
-Nr. IX-842,
+Nr. IX-842, 2002-04-16,
 
-2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
+Žin., 2002, Nr. 41-1527 (2002-04-19)
 
 Nr. X-1182,
 
@@ -2973,9 +2947,9 @@ Nr. VIII-1980,
 
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
-Nr. X-1182, 2007-06-14,
+Nr. X-1182,
 
-Žin., 2007, Nr. 72-2831 (2007-06-30)
+2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
 
 26 straipsnis. Ministrai
 
@@ -2987,21 +2961,11 @@ atsakingi už jiems pavestas valdymo sritis, kurias nustato šis ir kiti
 
 2.
 
-Ministrą laikinai pavaduoti gali tik Ministro Pirmininko paskirtas kitas
+Ministrą laikinai pavaduoti gali tik Ministro Pirmininko paskirtas kitas Vyriausybės narys. Pavaduojantis
 
-Vyriausybės narys. Pavaduojantis ministras neatlieka funkcijų, nurodytų šio
+ministras neatlieka šio straipsnio 3 dalies 6, 9, 13, 14, 15, 16 ir 17
 
-straipsnio 3 dalies 6, 9, 13, 14 ir 15 punktuose.
-
-2 dalies redakcija nuo 2012-03-01:
-
-2.
-
-Ministrą laikinai pavaduoti gali tik Ministro Pirmininko paskirtas kitas Vyriausybės narys. Pavaduojantis ministras
-
-neatlieka šio straipsnio 3 dalies 6, 9, 13, 14, 15, 16 ir 17 punktuose nurodytų
-
-funkcijų.
+punktuose nurodytų funkcijų.
 
 3. Ministras:
 
@@ -3117,11 +3081,11 @@ juos skatina, skiria jiems tarnybines ar drausmines nuobaudas ir pašalpas arba
 
 14)
 
-įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų įstaigų prie ministerijos
+įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų įstaigų prie
 
-vadovus, juos skatina ir skiria jiems tarnybines ar drausmines nuobaudas ir
+ministerijos vadovus, juos skatina ir skiria jiems tarnybines ar drausmines
 
-pašalpas, jei įstatymai nenustato kitaip;
+nuobaudas ir pašalpas, jei įstatymai nenustato kitaip;
 
 15) siūlo
 
@@ -3148,14 +3112,6 @@ atitinkamos valdymo srities ministras;
 viceministrų veiklos, ministerijos kanclerio
 
 administravimo sritis;
-
-17) atlieka
-
-kitas įstatymų ir Vyriausybės nutarimų pavestas funkcijas.
-
-3 dalis papildoma nauju 17 punktu, buvęs 17 punktas laikomas 18
-
-punktu nuo 2012-03-01:
 
 17) tvirtina didžiausią leistiną valstybės
 
@@ -3881,9 +3837,161 @@ Nr. IX-842,
 
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 
+Nr. X-1182, 2007-06-14,
+
+Žin., 2007, Nr. 72-2831 (2007-06-30)
+
+Nr. XI-185,
+
+2009-03-10, Žin., 2009, Nr. 29-1139 (2009-03-17)
+
+311
+
+straipsnis. Ministerijos kancleris
+
+1. Ministerijos
+
+kancleris yra karjeros valstybės tarnautojas, ministerijos administracijos
+
+vadovas, pavaldus ministrui. Užsienio reikalų
+
+ministerijos kancleriu gali būti ir diplomatas.
+
+2. Ministerijos
+
+kancleris:
+
+1)
+
+koordinuoja ir kontroliuoja ministerijos administracijos padalinių veiklą,
+
+užtikrina, kad įgyvendinant ministerijos strateginius veiklos planus optimaliai
+
+būtų valdomi ir panaudojami finansiniai, materialiniai, intelektiniai ir
+
+informacijos ištekliai; ministro pavedimu koordinuoja ir kontroliuoja įstaigų prie
+
+ministerijos veiklą;
+
+2)
+
+kontroliuoja ministerijos administracinę ūkinę veiklą;
+
+3)
+
+organizuoja ir koordinuoja ministerijos strateginių veiklos planų rengimą ir jų
+
+įgyvendinimą;
+
+4) dalyvauja
+
+organizuojant ir koordinuojant Ministro Pirmininko ir Vyriausybės pavedimų
+
+vykdymą, teisės aktų projektų rengimą ir derinimą, vadovaudamasis strateginiu
+
+veiklos planu ir kitais strateginio planavimo dokumentais, užtikrina
+
+ministerijos rengiamų teisės aktų projektų ir kitų sprendimų suderinamumą;
+
+5)
+
+organizuoja ministerijos nuostatų, ministerijos administracijos padalinių
+
+nuostatų, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir
+
+gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų,
+
+pareigybių sąrašo, pareigybių aprašymų ir ministro įsakymų projektų rengimą;
+
+6) ministro
+
+pavedimu įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų
+
+ministerijos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo
+
+sutartis ir gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės
+
+pinigų fondų, taip pat juos skatina, skiria jiems tarnybines ar drausmines
+
+nuobaudas ar pašalpas;
+
+7)
+
+atlieka kitas įstatymų, Vyriausybės nutarimų ir ministro pavestas funkcijas.
+
+3. Jeigu
+
+ministerijos kanclerio laikinai nėra, visas arba dalį jo funkcijų ministras
+
+paveda atlikti vienam iš ministerijos administracijos padalinių vadovų.
+
+4. Ministerijos
+
+kancleris, o kai jo laikinai nėra, ministro paskirtas ministerijos
+
+administracijos padalinio vadovas pagal savo kompetenciją priima potvarkius.
+
+Ministerijos kancleris saugo ministerijos antspaudą ir atsako už antspaudo
+
+naudojimą. Ministras saugoti ministerijos antspaudą gali įgalioti kitą
+
+ministerijos valstybės tarnautoją. Šiuo atveju už antspaudo naudojimą atsako
+
+ministro įgaliotas ministerijos valstybės tarnautojas.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr. IX-842,
+
+2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
+
+Straipsnio pakeitimai:
+
+Nr.
+
+IX-2521,
+
+2004-11-02, Žin., 2004, Nr. 167-6100 (2004-11-17)
+
 Nr. X-1182,
 
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+
+Nr. XI-185,
+
+2009-03-10, Žin., 2009, Nr. 29-1139 (2009-03-17)
+
+Nr. XI-863,
+
+2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
+
+32
+
+straipsnis. Ministerijų kolegijos
+
+1. Ministerijoje
+
+yra sudaroma kolegija kaip ministro patariamoji institucija. Kolegijos nariai
+
+yra ministras (kolegijos pirmininkas), viceministrai ir ministerijos kancleris.
+
+Į kolegijos sudėtį gali būti įtraukiami kiti ministerijos bei kitų institucijų
+
+atstovai.
+
+2. Kolegijos
+
+narių skaičių nustato ir kolegijos personalinę sudėtį bei darbo reglamentą
+
+tvirtina ministras. Jis taip pat teikia klausimus kolegijai svarstyti.
+
+Straipsnio pakeitimai:
+
+Nr. IX-842,
+
+2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 
 Nr. XI-185,
 
@@ -3971,9 +4079,9 @@ Nr. VIII-1980,
 
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
-Nr. X-1182,
+Nr. X-1182, 2007-06-14,
 
-2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+Žin., 2007, Nr. 72-2831 (2007-06-30)
 
 35
 
@@ -4061,9 +4169,9 @@ VEIKLOS ORGANIZAVIMAS
 
 straipsnis. Vyriausybės darbo reglamentas
 
-Vyriausybės darbo
+Vyriausybės
 
-tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
+darbo tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
 
 37
 
@@ -4075,11 +4183,9 @@ posėdžiuose visų Vyriausybės narių balsų dauguma priimdama nutarimus.
 
 2. Vyriausybės
 
-posėdžiuose gali dalyvauti asmenys, kuriems tokią teisę numato Lietuvos
+posėdžiuose gali dalyvauti asmenys, kuriems tokią teisę numato Lietuvos Respublikos
 
-Respublikos Konstitucija, kiti įstatymai ir Vyriausybės darbo
-
-reglamentas.
+Konstitucija, kiti įstatymai ir Vyriausybės darbo reglamentas.
 
 3. Į Vyriausybės
 
@@ -4431,9 +4537,9 @@ Nr. VIII-1980,
 
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 
-Nr. X-1182,
+Nr. X-1182, 2007-06-14,
 
-2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+Žin., 2007, Nr. 72-2831 (2007-06-30)
 
 39
 
@@ -4597,11 +4703,11 @@ vizavęs nutarimo projektą šio įstatymo 38 straipsnio 1 dalyje nustatyta tvar
 
 nutarimus, kuriais keičiami, pildomi ar pripažįstami netekusiais galios
 
-anksčiau priimti nutarimai, pasirašo Ministras Pirmininkas ir tos valdymo
+anksčiau priimti nutarimai, pasirašo Ministras Pirmininkas ir tos valdymo srities
 
-srities ministras, kuris buvo pasirašęs ankstesnį nutarimą, nepaisant to, kas
+ministras, kuris buvo pasirašęs ankstesnį nutarimą, nepaisant to, kas pateikė
 
-pateikė Vyriausybei svarstyti naują nutarimo projektą.
+Vyriausybei svarstyti naują nutarimo projektą.
 
 4. Vyriausybės
 
@@ -4623,9 +4729,9 @@ Nr. IX-842,
 
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 
-Nr. X-1182,
+Nr. X-1182, 2007-06-14,
 
-2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+Žin., 2007, Nr. 72-2831 (2007-06-30)
 
 41(1)
 
@@ -4805,6 +4911,22 @@ paskelbimo, jeigu pačiuose potvarkiuose nenustatyta vėlesnė jų įsigaliojimo
 
 data.
 
+Straipsnio
+
+redakcija nuo 2014-01-01:
+
+43
+
+straipsnis. Ministro Pirmininko potvarkiai ir rezoliucijos
+
+Ministras
+
+Pirmininkas pagal savo kompetenciją organizaciniais, personaliniais ir kitais
+
+klausimais priima potvarkius arba operatyvinius sprendimus – pavedimus,
+
+įforminamus rezoliucija.
+
 Straipsnio pakeitimai:
 
 Nr.
@@ -4817,11 +4939,17 @@ Nr. X-1182,
 
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
 
+Nr. XI-2354,
+
+2012-11-06, Žin., 2012, Nr. 132-6682 (2012-11-15)
+
 DEŠIMTASIS SKIRSNIS
 
-MINISTRO PIRMININKO POLITINIO
+MINISTRO PIRMININKO
 
-(ASMENINIO) PASITIKĖJIMO VALSTYBĖS TARNAUTOJAI IR MINISTRO PIRMININKO TARNYBA
+POLITINIO (ASMENINIO) PASITIKĖJIMO VALSTYBĖS TARNAUTOJAI IR MINISTRO PIRMININKO
+
+TARNYBA
 
 Skirsnio pavadinimas keistas:
 
@@ -5109,17 +5237,17 @@ vykdo Ministro Pirmininko pavedimus, įgyvendinant Vyriausybės vykdomas viešoj
 
 valdymo reformas;
 
-3) vadovaudamasis
+3)
 
-Vyriausybės patvirtinta Strateginio planavimo metodika rengia ir suderinęs su
+vadovaudamasis Vyriausybės patvirtinta Strateginio planavimo metodika rengia ir
 
-Ministru Pirmininku tvirtina Ministro Pirmininko tarnybos strateginį veiklos
+suderinęs su Ministru Pirmininku tvirtina Ministro Pirmininko tarnybos strateginį
 
-planą, padeda Vyriausybei koordinuoti ministerijų ir kitų valstybės institucijų
+veiklos planą, padeda Vyriausybei koordinuoti ministerijų ir kitų valstybės
 
-veiklą įgyvendinant strateginio planavimo dokumentus, Vyriausybės programą ir
+institucijų veiklą įgyvendinant strateginio planavimo dokumentus, Vyriausybės
 
-sprendžiant kitus krašto reikalus.
+programą ir sprendžiant kitus krašto reikalus.
 
 4)
 
@@ -5413,9 +5541,7 @@ Prezidentą, pateikdama Vyriausybės suformuotą Lietuvos Respublikos poziciją.
 
 49 straipsnis. Vyriausybės pareiga
 
-konsultuotis su Seimu rengiant, derinant ir pristatant Lietuvos Respublikos
-
-poziciją
+konsultuotis su Seimu rengiant, derinant ir pristatant Lietuvos Respublikos poziciją
 
 1. Dėl pasiūlymų priimti Europos
 
@@ -5449,7 +5575,9 @@ Europos reikalų komitete arba Užsienio reikalų komitete. Išimtiniais atvejai
 
 atitinkamas ministras gali pavesti pristatyti poziciją dėl pasiūlymo priimti
 
-Europos Sąjungos teisės aktą ar dėl kito Europos Sąjungos dokumento viceministrui.
+Europos Sąjungos teisės aktą ar dėl kito Europos Sąjungos dokumento
+
+viceministrui.
 
 5. Vyriausybė įvertina Seimo ar jo komitetų teikiamas rekomendacijas ar
 
@@ -5539,9 +5667,9 @@ asociacijų, kitų nevyriausybinių organizacijų) atstovų. Dėl atrenkamų kan
 
 Vyriausybė jos nustatyta tvarka konsultuojasi su Lietuvos Respublikos trišale
 
-taryba ir darbdavių, darbuotojų ir kitiems visuomenės interesams
+taryba ir darbdavių, darbuotojų ir kitiems visuomenės interesams atstovaujančiomis
 
-atstovaujančiomis organizacijomis.
+organizacijomis.
 
 Straipsnio pakeitimai:
 
@@ -5555,13 +5683,9 @@ Skelbiu šį
 
 Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS
-
-PREZIDENTAS                                                         ALGIRDAS
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 
 BRAZAUSKAS
-
-_______________
 
 Pakeitimai:
 
@@ -5717,9 +5841,9 @@ VYRIAUSYBĖS ĮSTATYMO 29 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-331, 2001 05 17, Žin., 2001, Nr. 48-1656
+Nr. IX-331, 2001 05 17, Žin., 2001, Nr.
 
-(2001 06 06)
+48-1656 (2001 06 06)
 
 VYRIAUSYBĖS ĮSTATYMO 45 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
@@ -5779,9 +5903,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-1293, 2003-01-14,
+IX-1293,
 
-Žin., 2003, Nr. 10-342 (2003-01-29)
+2003-01-14, Žin., 2003, Nr. 10-342 (2003-01-29)
 
 VYRIAUSYBĖS
 
@@ -5807,9 +5931,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-2277,
+Nr. IX-2277, 2004-06-15,
 
-2004-06-15, Žin., 2004, Nr. 98-3632 (2004-06-24)
+Žin., 2004, Nr. 98-3632 (2004-06-24)
 
 VYRIAUSYBĖS
 
@@ -5995,9 +6119,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-XI-185, 2009-03-10,
+XI-185,
 
-Žin., 2009, Nr. 29-1139 (2009-03-17)
+2009-03-10, Žin., 2009, Nr. 29-1139 (2009-03-17)
 
 VYRIAUSYBĖS
 
