@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2012-10-31"
+last_updated: "2012-11-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -970,6 +970,16 @@ skelbiama oficialiame leidinyje „Valstybės žinios“ ir Finansų ministerijo
 
 interneto tinklalapyje.
 
+2
+
+dalies redakcija nuo2014-01-01:
+
+2. Informacija
+
+apie patvirtintą valstybės biudžetą, jo pajamas ir asignavimus, jų vykdymą
+
+skelbiama Finansų ministerijos interneto svetainėje.
+
 3. Informaciją
 
 apie patvirtintus savivaldybių biudžetus, jų vykdymą skelbia savivaldybės
@@ -983,6 +993,10 @@ pakeitimai:
 Nr. X-1354,
 
 2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
+
+Nr. XI-2318,
+
+2012-11-06, Žin., 2012, Nr. 132-6646 (2012-11-15)
 
 12 straipsnis. Reikalavimai priimant
 
@@ -1056,9 +1070,9 @@ Straipsnio pakeitimai:
 
 Nr.
 
-X-774, 2006-07-18,
+X-774,
 
-Žin., 2006, Nr. 82-3262 (2006-07-27)
+2006-07-18, Žin., 2006, Nr. 82-3262 (2006-07-27)
 
 *14
 
@@ -1086,9 +1100,9 @@ Nepanaudotos šio Įstatymo 2 straipsnio 16 dalies 1 punkte nurodytos įmokos į
 
 atitinkamą biudžetą, skirtos programoms finansuoti, perkeliamos į kitus
 
-biudžetinius metus ir paliekamos asignavimų valdytojams bei gali būti naudojamos
+biudžetinius metus ir paliekamos asignavimų valdytojams bei gali būti
 
-viršijant Seimo patvirtintas bendras asignavimų sumas.
+naudojamos viršijant Seimo patvirtintas bendras asignavimų sumas.
 
 3. Į
 
@@ -1144,9 +1158,9 @@ biudžetą ir savivaldybių biudžetus.
 
 biudžetą, skirtos programoms finansuoti, perkeliamos į kitus biudžetinius metus
 
-ir paliekamos asignavimų valdytojams bei gali būti naudojamos viršijant Seimo
+ir paliekamos asignavimų valdytojams bei gali būti naudojamos viršijant Seimo patvirtintas
 
-patvirtintas bendras asignavimų sumas.
+bendras asignavimų sumas.
 
 3. Į kitus
 
@@ -1206,11 +1220,11 @@ Nr. XI-2274,
 
 15 straipsnis. Vyriausybės rezervo lėšos
 
-1. Valstybės biudžete sudaromas Vyriausybės rezervas. Jis turi būti ne
+1. Valstybės biudžete sudaromas Vyriausybės rezervas. Jis turi būti ne didesnis
 
-didesnis kaip 1 procentas patvirtintų valstybės biudžeto asignavimų sumos.
+kaip 1 procentas patvirtintų valstybės biudžeto asignavimų sumos. Konkretų
 
-Konkretų Vyriausybės rezervo dydį kasmet nustato Seimas Valstybės biudžeto ir
+Vyriausybės rezervo dydį kasmet nustato Seimas Valstybės biudžeto ir
 
 savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme. Vyriausybės
 
@@ -1224,9 +1238,9 @@ ekstremaliosioms situacijoms ir (arba) įvykiams likviduoti, jų padariniams
 
 šalinti ir padarytiems nuostoliams iš dalies padengti;
 
-2) įsipareigojimams, susijusiems su dalyvavimu tarptautinėse
+2) įsipareigojimams, susijusiems su dalyvavimu tarptautinėse operacijose,
 
-operacijose, vykdyti;
+vykdyti;
 
 3) vykdant
 
@@ -1276,31 +1290,29 @@ biudžeto projektą ir savivaldybių biudžetų finansinių rodiklių projektą 
 
 Finansų ministerija.
 
-2.      Trejų
+2.      Trejų biudžetinių
 
-biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų konsoliduotos visumos planuojamų rodiklių
+metų valstybės biudžeto ir savivaldybių biudžetų konsoliduotos visumos planuojamų rodiklių projektas rengiamas
 
-projektas rengiamas remiantis Vyriausybės programa, Lietuvos konvergencijos
+remiantis Vyriausybės programa, Lietuvos konvergencijos programa, Valstybės pažangos
 
-programa, Valstybės pažangos strategija (iki šios strategijos įsigaliojimo
+strategija (iki šios strategijos įsigaliojimo dienos – Seimo patvirtinta
 
-dienos – Seimo patvirtinta Valstybės ilgalaikės raidos strategija), Nacionalinės
+Valstybės ilgalaikės raidos strategija), Nacionalinės pažangos programa, kitais
 
-pažangos programa, kitais Seimo ir Vyriausybės patvirtintais planavimo
+Seimo ir Vyriausybės patvirtintais planavimo dokumentais, šiuo Įstatymu, Fiskalinės
 
-dokumentais, šiuo Įstatymu, Fiskalinės drausmės įstatymu, kitais įstatymais ir
+drausmės įstatymu, kitais įstatymais ir kitais teisės aktais, šalies vidutinio
 
-kitais teisės aktais, šalies vidutinio laikotarpio ekonominės raidos scenarijumi,
+laikotarpio ekonominės raidos scenarijumi, Europos Sąjungos finansinės paramos
 
-Europos Sąjungos finansinės paramos strateginiais dokumentais, asignavimų
+strateginiais dokumentais, asignavimų valdytojų strateginiais veiklos planais
 
-valdytojų strateginiais veiklos planais ir Vyriausybės patvirtintais valstybės
+ir Vyriausybės patvirtintais valstybės biudžeto ir savivaldybių biudžetų preliminariais
 
-biudžeto ir savivaldybių biudžetų preliminariais pagrindiniais rodikliais, taip
+pagrindiniais rodikliais, taip pat valstybės biudžeto asignavimų valdytojų
 
-pat valstybės biudžeto asignavimų valdytojų pateiktomis programomis ir programų
-
-sąmatų projektais.
+pateiktomis programomis ir programų sąmatų projektais.
 
 3.
 
@@ -1368,9 +1380,9 @@ Vyriausybės programa, Valstybės pažangos strategija (iki šios strategijos
 
 strategija), Nacionalinės pažangos programa, kitais Seimo ir Vyriausybės
 
-patvirtintais planavimo dokumentais, šiuo Įstatymu, Fiskalinės drausmės įstatymu,
+patvirtintais planavimo dokumentais, šiuo Įstatymu, Fiskalinės drausmės
 
-kitais įstatymais ir kitais teisės aktais, šalies ūkio plėtros
+įstatymu, kitais įstatymais ir kitais teisės aktais, šalies ūkio plėtros
 
 makroekonominėmis prognozėmis, Europos Sąjungos finansinės paramos
 
@@ -1500,11 +1512,9 @@ išlygos, leidžiančios nukrypti nuo plano.
 
 Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų
 
-finansinių rodiklių patvirtinimo įstatymo projekte gali būti pateikiamos
+finansinių rodiklių patvirtinimo įstatymo projekte gali būti pateikiamos nuostatos,
 
-nuostatos, apribojančios teisę prisiimti įsipareigojimus naudoti biudžeto
-
-lėšas.
+apribojančios teisę prisiimti įsipareigojimus naudoti biudžeto lėšas.
 
 *Pastaba. Šis straipsnis taikomas rengiant, tvirtinant,
 
@@ -1606,9 +1616,9 @@ X-1428,
 
 2008-01-18, Žin., 2008, Nr. 15-511 (2008-02-05)
 
-Nr. XI-1209, 2010-12-09,
+Nr. XI-1209,
 
-Žin., 2010, Nr. 153-7781 (2010-12-28)
+2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 
 Nr. XI-2274,
 
