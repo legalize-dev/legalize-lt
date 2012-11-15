@@ -4,7 +4,7 @@ identifier: "TAR.43178AA9832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2012-07-14"
+last_updated: "2012-11-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E"
 department: "Lietuvos Respublikos Seimas"
@@ -214,9 +214,9 @@ nurodytas dokumentas.
 
 ir ūkinių įvykių suvestinė, kurioje apibendrinti jų duomenys.
 
-3. Neteko galios nuo 2008 m. rugsėjo 1 d.
+3. Neteko galios nuo 2008-09-01.
 
-4. Neteko galios nuo 2008 m. rugsėjo 1 d.
+4. Neteko galios nuo 2008-09-01.
 
 5. Buhalterinė apskaita (toliau – apskaita) – ūkinių operacijų ir
 
@@ -246,9 +246,9 @@ lygi suma – į kitos sąskaitos (sąskaitų) kreditą.
 
 8. Įsipareigojimas – prievolė, atsirandanti dėl atliktų ūkinių operacijų
 
-ir ūkinių įvykių, už kuriuos ūkio subjektas privalės ateityje atsiskaityti
+ir ūkinių įvykių, už kuriuos ūkio subjektas privalės ateityje atsiskaityti turtu
 
-turtu ir kurių dydį galima objektyviai nustatyti.
+ir kurių dydį galima objektyviai nustatyti.
 
 9. Nuosavas kapitalas – ūkio subjekto turto
 
@@ -268,7 +268,7 @@ operacijos, kai įvykdomas vieno ūkio subjekto įsipareigojimas kitam ūkio
 
 subjektui.
 
-13. Neteko galios nuo 2007 m. birželio 21 d.
+13. Neteko galios nuo 2007-06-21.
 
 14. Sąskaitų planas –
 
@@ -319,22 +319,6 @@ kapitalo, finansavimo sumų bei įsipareigojimų dydį ir (arba) struktūrą.
 keičianti turto ir (arba) nuosavo kapitalo, finansavimo sumų bei
 
 įsipareigojimų dydį ir (arba) struktūrą.
-
-22. Ūkio subjekto vadovas – juridinio asmens
-
-vadovas arba jo administracijos vadovas, arba išteklių ar mokesčių fondą
-
-administruojančio (jį tvarkančio) subjekto vadovas, arba ūkio subjekto, kuris
-
-neturi vadovo, savininkas. Ūkinėje bendrijoje ūkio subjekto vadovu laikytinas
-
-tikrasis narys, kuris paskirtas vykdyti Civilinio kodekso 2.82 straipsnio 3
-
-dalyje nurodytas valdymo organo pareigas.
-
-22 dalies
-
-redakcija nuo 2012-09-01:
 
 22. Ūkio subjekto vadovas – juridinio asmens
 
@@ -478,6 +462,36 @@ sudaromo kolegialaus patariamojo organo – Apskaitos standartų komiteto –
 
 įsigalioja 2012 m. gegužės 1 d.
 
+4 dalies
+
+redakcija nuo 2014-01-01:
+
+4. Ribotos civilinės atsakomybės juridiniai asmenys,
+
+savo veikla siekiantys pelno, išskyrus šio straipsnio 3 dalyje nurodytus ūkio
+
+subjektus, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais arba
+
+tarptautiniais apskaitos standartais. Verslo apskaitos standartus rengia,
+
+tvirtina ir Teisės aktų registre skelbia Lietuvos Respublikos Vyriausybės
+
+įgaliota įstaiga. Verslo apskaitos standartų rengimo klausimais įstaigoje
+
+sudaromas kolegialus patariamasis organas – Apskaitos standartų komitetas.
+
+Verslo apskaitos standartai turi būti parengti vadovaujantis Europos Sąjungos
+
+teise ir tarptautiniais apskaitos standartais. Neribotos civilinės atsakomybės
+
+juridiniai asmenys, tvarkydami apskaitą, vadovaujasi verslo apskaitos
+
+standartais tuo atveju, kai savo nuožiūra nusprendžia sudaryti finansines
+
+ataskaitas arba kai Įmonių finansinės atskaitomybės įstatymas įpareigoja jas
+
+sudaryti.
+
 5. Viešojo
 
 sektoriaus subjektai, tvarkydami apskaitą, vadovaujasi viešojo sektoriaus
@@ -493,6 +507,24 @@ viešojo sektoriaus apskaitos standartus ir kitą Tarptautinės buhalterių
 federacijos Viešojo sektoriaus apskaitos standartų valdybos rengiamą metodiką
 
 (nurodymus, studijas).
+
+5 dalies
+
+redakcija nuo 2014-01-01:
+
+5. Viešojo sektoriaus subjektai, tvarkydami apskaitą,
+
+vadovaujasi viešojo sektoriaus apskaitos ir finansinės atskaitomybės
+
+standartais, kuriuos tvirtina ir Teisės aktų registre skelbia Finansų
+
+ministerija. Viešojo sektoriaus apskaitos ir finansinės atskaitomybės
+
+standartai turi būti parengti pagal tarptautinius viešojo sektoriaus apskaitos
+
+standartus ir kitą Tarptautinės buhalterių federacijos Viešojo sektoriaus
+
+apskaitos standartų valdybos rengiamą metodiką (nurodymus, studijas).
 
 6. Neteko
 
@@ -522,9 +554,9 @@ Straipsnio pakeitimai:
 
 Nr.
 
-IX-1914,
+IX-1914, 2003-12-18,
 
-2003-12-18, Žin., 2003, Nr. 123-5586 (2003-12-30)
+Žin., 2003, Nr. 123-5586 (2003-12-30)
 
 Nr. X-1178,
 
@@ -545,6 +577,10 @@ Nr. XI-1601,
 Nr. XI-1988,
 
 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
+
+Nr. XI-2319,
+
+2012-11-06, Žin., 2012, Nr. 132-6647 (2012-11-15)
 
 4 straipsnis.
 
@@ -590,11 +626,11 @@ redakcija nuo 2013-01-01:
 
 ir atlikimas ar rezultatų įforminimas Lietuvos Respublikos teisės aktų
 
-nustatyta tvarka susijęs su užsienio valiuta, apskaitoje perskaičiuojami į
+nustatyta tvarka susijęs su užsienio valiuta, apskaitoje perskaičiuojami į litus
 
-litus pagal Lietuvos banko nustatytą lito ir užsienio valiutos santykį,
+pagal Lietuvos banko nustatytą lito ir užsienio valiutos santykį, galiojantį
 
-galiojantį ūkinio įvykio arba ūkinės operacijos atlikimo dieną, arba pagal vadovaujantis
+ūkinio įvykio arba ūkinės operacijos atlikimo dieną, arba pagal vadovaujantis
 
 kitais teisės aktais nustatytą lito ir užsienio valiutos santykį.
 
@@ -608,7 +644,9 @@ ANTRASIS
 
 SKIRSNIS
 
-APSKAITOS ORGANIZAVIMAS
+APSKAITOS
+
+ORGANIZAVIMAS
 
 6 straipsnis. Apskaitos tvarkymo nustatymas ir
 
@@ -706,29 +744,9 @@ juridiniams asmenims pavyzdinį sąskaitų planą rengia, tvirtina ir „Valstyb
 
 sąskaitų planą. Jį tvirtina to ūkio subjekto vadovas.
 
-Straipsnio pakeitimai:
+Straipsnio
 
-Nr.
-
-IX-1914,
-
-2003-12-18, Žin., 2003, Nr. 123-5586 (2003-12-30)
-
-Nr. X-1178,
-
-2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
-
-Nr. X-1679,
-
-2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
-
-Nr. XI-1601, 2011-09-22,
-
-Žin., 2011, Nr. 121-5707 (2011-10-08)
-
-Nr. XI-1988,
-
-2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
+redakcija nuo 2014-01-01:
 
 8 straipsnis.
 
@@ -794,19 +812,23 @@ nustatyta tvarka.
 
 arba centralizuotai.
 
-4. Individualios
+4. Mažosios bendrijos apskaitą, be šio straipsnio
+
+1 dalyje nurodytų subjektų, gali tvarkyti tos bendrijos narys.
+
+5. Individualios
 
 įmonės apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti
 
 tos įmonės savininkas.
 
-5. Ūkininko ūkio
+6. Ūkininko ūkio
 
 apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti pats
 
 ūkininkas arba ūkininko partneriai.
 
-6. Gyventojo, kuris verčiasi individualia veikla,
+7. Gyventojo, kuris verčiasi individualia veikla,
 
 apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti pats
 
@@ -814,7 +836,7 @@ gyventojas.
 
 Straipsnio
 
-redakcija nuo 2012-09-01:
+redakcija nuo 2013-01-01 iki 2015-12-31:
 
 11 straipsnis. Atsakomybė už
 
@@ -952,11 +974,13 @@ pavadinimas, kodas;
 
 4) ūkinės operacijos arba ūkinio įvykio turinys;
 
-5) ūkinės operacijos arba ūkinio įvykio rezultatas pinigine
+5) ūkinės operacijos arba ūkinio įvykio rezultatas
 
-ir (arba) kiekybine išraiška. Jeigu ūkinės operacijos arba ūkinio įvykio
+pinigine ir (arba) kiekybine išraiška. Jeigu ūkinės operacijos arba ūkinio
 
-rezultatas nurodomas kiekybine išraiška, turi būti nurodyti mato vienetai;
+įvykio rezultatas nurodomas kiekybine išraiška, turi būti nurodyti mato
+
+vienetai;
 
 6) asmens (-ų), kuris (-ie) turi teisę surašyti ir
 
@@ -994,9 +1018,7 @@ apskaitos dokumentuose turi būti nurodyti šie privalomi rekvizitai:
 
 1) apskaitos dokumento pavadinimas;
 
-2) ūkio subjekto, suteikusio paslaugas, pavadinimas,
-
-kodas;
+2) ūkio subjekto, suteikusio paslaugas, pavadinimas, kodas;
 
 3) apskaitos dokumento data;
 
@@ -1040,11 +1062,11 @@ mato vienetais ir pardavimo piniginė išraiška.
 
 baigėsi, bet nėra gautas tai patvirtinantis apskaitos dokumentas, surašomas
 
-laisvos formos apskaitos dokumentas, nustatantis ūkinės operacijos arba ūkinio
+laisvos formos apskaitos dokumentas, nustatantis ūkinės operacijos arba ūkinio įvykio
 
-įvykio tapatumą. Šį dokumentą pasirašo asmenys, turintys teisę surašyti ir
+tapatumą. Šį dokumentą pasirašo asmenys, turintys teisę surašyti ir pasirašyti
 
-pasirašyti arba tik pasirašyti apskaitos dokumentus.
+arba tik pasirašyti apskaitos dokumentus.
 
 8. Šio straipsnio 1 dalies 6 punkte nustatyti
 
@@ -1060,9 +1082,9 @@ IX-679,
 
 2001-12-21, Žin., 2001, Nr. 110-3995 (2001-12-29)
 
-Nr. IX-1263, 2002-12-10,
+Nr. IX-1263,
 
-Žin., 2002, Nr. 123-5548 (2002-12-24)
+2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24)
 
 Nr.
 
@@ -1112,19 +1134,19 @@ Patikslinamieji apskaitos dokumentai
 
 nuolaida, kai suteikiamos apyvartos nuolaidos, taip pat kai taisomos apskaitos
 
-dokumentų, kuriais įforminamos pirkimo–pardavimo operacijos, išrašymo metu
+dokumentų, kuriais įforminamos pirkimo–pardavimo operacijos, išrašymo metu padarytos,
 
-padarytos, bet vėliau pastebėtos klaidos ir kitais atvejais rašomi
+bet vėliau pastebėtos klaidos ir kitais atvejais rašomi patikslinamieji
 
-patikslinamieji apskaitos dokumentai. Patikslinamieji pinigų apskaitos
+apskaitos dokumentai. Patikslinamieji pinigų apskaitos dokumentai nesurašomi.
 
-dokumentai nesurašomi. Patikslinamąjį apskaitos dokumentą surašo ūkio subjektas,
+Patikslinamąjį apskaitos dokumentą surašo ūkio subjektas, kuris surašė
 
-kuris surašė apskaitos dokumentą, kurį reikia tikslinti, arba šalių susitarimu
+apskaitos dokumentą, kurį reikia tikslinti, arba šalių susitarimu ūkio
 
-ūkio subjektas, kuris gavo šį apskaitos dokumentą.
+subjektas, kuris gavo šį apskaitos dokumentą.
 
-2. Neteko galios nuo 2011 m. sausio 1 d.
+2. Neteko galios nuo 2011-01-01.
 
 3. Patikslinamajame apskaitos dokumente, be šio
 
@@ -1258,17 +1280,17 @@ metinių finansinių ataskaitų sudarymo ir patvirtinimo, gali būti taisomos
 
 perbraukiant klaidingą tekstą ir skaičių taip, kad būtų galima juos
 
-perskaityti, ir įrašant teisingą skaičių ar tekstą arba surašant buhalterinę
+perskaityti, ir įrašant teisingą skaičių ar tekstą arba surašant buhalterinę pažymą.
 
-pažymą. Šalia ištaisyto įrašo pasirašo taisomą dokumentą pasirašę asmenys ir
+Šalia ištaisyto įrašo pasirašo taisomą dokumentą pasirašę asmenys ir nurodoma
 
-nurodoma taisymo data. Klaidos apskaitos registruose, pastebėtos po metinių
+taisymo data. Klaidos apskaitos registruose, pastebėtos po metinių finansinių
 
-finansinių ataskaitų sudarymo ir patvirtinimo, taisomos tik einamaisiais
+ataskaitų sudarymo ir patvirtinimo, taisomos tik einamaisiais finansiniais
 
-finansiniais metais surašant buhalterinę pažymą, kuri turi šio įstatymo 13
+metais surašant buhalterinę pažymą, kuri turi šio įstatymo 13 straipsnio 1
 
-straipsnio 1 dalyje nurodytus rekvizitus.
+dalyje nurodytus rekvizitus.
 
 Straipsnio pakeitimai:
 
@@ -1370,9 +1392,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1178,
+Nr. X-1178, 2007-06-07,
 
-2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
+Žin., 2007, Nr. 68-2654 (2007-06-21)
 
 Nr. X-1679,
 
@@ -1390,7 +1412,7 @@ Asmenys, pažeidę šio Įstatymo reikalavimus, atsako
 
 įstatymų nustatyta tvarka.
 
-24 straipsnis. Neteko galios nuo 2008 m. rugsėjo 1 d.
+24 straipsnis. Neteko galios nuo 2008-09-01.
 
 Straipsnio
 
@@ -1464,11 +1486,11 @@ pagrindų įstatymo 2 straipsnio pakeitimo įstatymas (Žin., 2000, Nr. 52-1488)
 
 pagrindų įstatymo 7 straipsnio pakeitimo įstatymas (Žin., 2001, Nr. 85-2970).
 
-5. Iki apskaitos standartų įsigaliojimo galioja Vyriausybės
+5. Iki apskaitos standartų įsigaliojimo galioja
 
-ir Finansų ministerijos išleisti teisės aktai, reglamentuojantys buhalterinės
+Vyriausybės ir Finansų ministerijos išleisti teisės aktai, reglamentuojantys
 
-apskaitos tvarkymą.
+buhalterinės apskaitos tvarkymą.
 
 Straipsnio
 
@@ -1524,13 +1546,13 @@ p. 4).
 
 redakcija nuo 2013-01-01:
 
-3. 2008 m. lapkričio 3 d. Komisijos reglamentas
+3. 2008 m. lapkričio 3 d. Komisijos
 
-(EB) Nr. 1126/2008, priimantis tam tikrus tarptautinius apskaitos standartus
+reglamentas (EB) Nr. 1126/2008, priimantis tam tikrus tarptautinius apskaitos
 
-pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002 (OL 2008 L
+standartus pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002
 
-320, p. 1).
+(OL 2008 L 320, p. 1).
 
 Įstatymas
 
@@ -1638,9 +1660,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. IX-1619,
+Nr. IX-1619, 2003-06-10,
 
-2003-06-10, Žin., 2003, Nr. 61-2771 (2003-06-27)
+Žin., 2003, Nr. 61-2771 (2003-06-27)
 
 BUHALTERINĖS APSKAITOS ĮSTATYMO
 
@@ -1816,9 +1838,11 @@ BUHALTERINĖS APSKAITOS ĮSTATYMO
 
 Šio įstatymo 1 ir 2 straipsniai
 
-įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo
+įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai
 
-sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
+privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1
+
+dieną.
 
 12.
 
@@ -1836,9 +1860,9 @@ APSKAITOS ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 13.
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos Seimas, Įstatymas
+Seimas, Įstatymas
 
 Nr. XI-724,
 
@@ -1862,9 +1886,9 @@ registre.
 
 14.
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos Seimas, Įstatymas
+Seimas, Įstatymas
 
 Nr. XI-1188,
 
@@ -1894,9 +1918,9 @@ APSKAITOS ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 16.
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos Seimas, Įstatymas
+Seimas, Įstatymas
 
 Nr. XI-1601,
 
@@ -1942,7 +1966,7 @@ PAPILDYMO IR ĮSTATYMO PAPILDYMO 10(1) IR 10(2) STRAIPSNIAIS ĮSTATYMAS
 
 Šis įstatymas,
 
-išskyrus šio straipsnio 2 dalyje nustatytą atvejį, šio įstatymo 8 straipsnio 3
+išskyrus šio straipsnio 2 dalyje nustatytą atvejį, šio įstatymo 8 straipsnio 2
 
 dalį, 9 straipsnį ir šio įstatymo 16 straipsniu keičiamo 16 straipsnio 5 dalį,
 
@@ -1955,8 +1979,6 @@ straipsnio 2 dalis dėl Verslo apskaitos standartų rengimo klausimais įstaigoj
 sudaromo kolegialaus patariamojo organo – Apskaitos standartų komiteto –
 
 įsigalioja 2012 m. gegužės 1 d.
-
-Šio įstatymo 8
 
 19 straipsnis. Apskaitos dokumentų, apskaitos registrų
 
@@ -1998,7 +2020,7 @@ dokumentus, apskaitos registrus, finansines ataskaitas ir metinius pranešimus a
 
 perima paskirtas naujas ūkio subjekto vadovas.
 
-5. Neteko galios nuo 2008 m. lapkričio 29 d.
+5. Neteko galios nuo 2008-11-29.
 
 5 dalies
 
@@ -2072,11 +2094,9 @@ redakcija nuo 2013-01-01:
 
 įstaigos, turinčios teisę įstatymų nustatyta tvarka paimti ūkio subjektų
 
-apskaitos dokumentus ir apskaitos registrus, gali juos paimti jų veiklą
+apskaitos dokumentus ir apskaitos registrus, gali juos paimti jų veiklą reglamentuojančių
 
-reglamentuojančių įstatymų nustatyta tvarka, surašiusios dokumentų paėmimo
-
-aktą.
+įstatymų nustatyta tvarka, surašiusios dokumentų paėmimo aktą.
 
 Straipsnio
 
@@ -2088,9 +2108,9 @@ Nr. XI-1988,
 
 PENKTASIS SKIRSNIS
 
-ATSAKOMYBĖ UŽ
+ATSAKOMYBĖ UŽ APSKAITOS
 
-APSKAITOS ORGANIZAVIMĄ IR APSKAITOS DOKUMENTŲ IŠSAUGOJIMĄ. KOMERCINĖ PASLAPTIS
+ORGANIZAVIMĄ IR APSKAITOS DOKUMENTŲ IŠSAUGOJIMĄ. KOMERCINĖ PASLAPTIS
 
 Skirsnio
 
