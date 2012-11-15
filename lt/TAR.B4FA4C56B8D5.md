@@ -1,0 +1,756 @@
+---
+title: "Lietuvos Respublikos teisėkūros pagrindų įstatymas"
+identifier: "TAR.B4FA4C56B8D5"
+country: "lt"
+rank: "istatymas"
+publication_date: "2012-09-18"
+last_updated: "2012-11-15"
+status: "in_force"
+source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FA4C56B8D5"
+department: "Lietuvos Respublikos Seimas"
+tar_code: "1121010ISTA0XI-2220"
+document_number: "XI-2220"
+published_in_tar: "2012-09-18"
+document_status: "registruotas TA registre"
+entry_into_force_conditions: "25 ir 28 straipsniai įsigalioja 2012-09-22."
+---
+# Lietuvos Respublikos teisėkūros pagrindų įstatymas
+
+LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
+
+Suvestinė redakcija nuo 2012-11-15 iki 2013-12-31
+
+Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
+
+LIETUVOS RESPUBLIKOS
+
+TEISĖKŪROS PAGRINDŲ  Į S T A T Y M A S
+
+2012 m. rugsėjo 18 d. Nr. XI-2220
+
+Vilnius
+
+PIRMASIS SKIRSNIS
+
+BENDROSIOS NUOSTATOS
+
+1 straipsnis. Įstatymo paskirtis
+
+1. Šis įstatymas nustato teisėkūros principus, teisėkūros stadijas, valstybės ir savivaldybių institucijų ir įstaigų, kitų teisėkūroje dalyvaujančių asmenų teises ir pareigas.
+
+2. Šis įstatymas netaikomas Lietuvos Respublikos tarptautinėms sutartims, išskyrus šių sutarčių registravimą ir skelbimą.
+
+3. Šis įstatymas netaikomas teisės taikymo aktams, išskyrus nuostatas dėl teisės aktų registravimo, skelbimo ir įsigaliojimo.
+
+4. Kai piliečiai įgyvendina Lietuvos Respublikos Konstitucijoje (toliau – Konstitucija) įtvirtintą įstatymų leidybos iniciatyvos teisę, peticijos teisę ir teisę teikti Lietuvos Respublikos Seimui (toliau – Seimas) sumanymą keisti ar papildyti Konstituciją, šis įstatymas netaikomas. Referendumui siūlomas įstatymo ar kito teisės akto projektas turi atitikti šiame įstatyme nustatytus formos, struktūros, turinio ir kalbos reikalavimus.
+
+5. Teisės aktų, kuriuose yra valstybės ar tarnybos paslaptį sudarančios informacijos, projektai rengiami, derinami, šie teisės aktai priimami, registruojami, skelbiami ir įsigalioja juos priimančių subjektų nustatyta tvarka.
+
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
+
+1. Įstaiga – iš valstybės ar savivaldybės biudžeto arba valstybės pinigų fondo išlaikoma įstaiga, turinti teisės aktuose nustatytus įgaliojimus rengti teisės aktų projektus, taip pat Lietuvos bankas.
+
+2. Konsultavimasis su visuomene – teisėkūros iniciatyvas pareiškiančių, teisės aktų projektus rengiančių, teisės aktus priimančių ir (ar) teisinio reguliavimo stebėseną atliekančių subjektų veiksmai, apimantys teisėkūros iniciatyvų, teisės aktų projektų pateikimą visuomenei susipažinti, informavimą apie atliekamą teisinio reguliavimo stebėseną, taip pat gautų asmenų pasiūlymų įvertinimą ir šio įvertinimo rezultatų paskelbimą. Apie konsultavimosi pradžią visuomenei yra paskelbiama.
+
+3. Numatomo teisinio reguliavimo poveikio vertinimas – numatomo teisinio reguliavimo teigiamų ir neigiamų pasekmių nustatymas.
+
+4. Suvestinė teisės akto redakcija – tam tikru metu galiojusio, galiojančio ar priimto, atitinkamo subjekto pasirašyto ir paskelbto, bet dar neįsigaliojusio teisės akto tekstas, parengtas remiantis oficialiu pirminio teisės akto tekstu ir tą teisės aktą keičiančių ar papildančių teisės aktų oficialiais tekstais ir apimantis visus tame teisės akte įtvirtinto teisinio reguliavimo pakeitimus.
+
+5. Teisėkūra – procesas, apimantis teisėkūros iniciatyvų pareiškimą, teisės aktų projektų rengimą, teisės aktų priėmimą, pasirašymą ir skelbimą.
+
+6. Teisėkūros iniciatyva – pasiūlymas nustatyti naują ar keisti esamą teisinį reguliavimą nurodant šio teisinio reguliavimo nustatymo ar keitimo tikslus ir pagrindines teisinio reguliavimo nuostatas.
+
+7. Teisės akto projekto lydimieji dokumentai – šiame įstatyme ar kituose teisės aktuose numatyti privalomi parengti ir kartu su teisės akto projektu teisės aktą priimančiam subjektui privalomi pateikti dokumentai, taip pat kiti su teisės akto projektu susiję dokumentai.
+
+8. Teisės aktų registras – pagrindinis valstybės registras, kuriame registruojami šiame įstatyme nurodyti registro objektai, teisės aktų nustatyta tvarka renkami, kaupiami, apdorojami, sisteminami, saugomi ir teikiami registro duomenys, atliekami kiti teisės aktuose nustatyti registro duomenų tvarkymo veiksmai.
+
+9. Teisinio reguliavimo stebėsena – priemonių sistema, apimanti teisinio reguliavimo reikalingumo, pakankamumo ir efektyvumo, faktinių teisinio reguliavimo pasekmių ir jų atitikties nustatant teisinį reguliavimą planuotiems tikslams ir pasekmėms, teisinio reguliavimo poveikio visuomeniniams santykiams ir jo efektyvumo, taip pat reikalingumo keisti teisinį reguliavimą vertinimą.
+
+3 straipsnis. Teisėkūros principai
+
+1. Teisėkūros principai išreiškia tam tikrus imperatyvius reikalavimus, keliamus teisėkūroje dalyvaujantiems subjektams, siekiant sukurti vientisą, nuoseklią, darnią ir veiksmingą teisės sistemą.
+
+2. Teisėkūroje vadovaujamasi šiais principais:
+
+1) tikslingumo, reiškiančiu, kad teisės akto projektas turi būti rengiamas ir teisės aktas priimamas tik tuo atveju, kai siekiamų tikslų negalima pasiekti kitomis priemonėmis;
+
+2) proporcingumo, reiškiančiu, kad pasirinktos teisinio reguliavimo priemonės turi sudaryti kuo mažesnę administracinę ir kitokią naštą, nevaržyti teisinių santykių subjektų daugiau, negu to reikia teisinio reguliavimo tikslams pasiekti;
+
+3) pagarbos asmens teisėms ir laisvėms, reiškiančiu, kad teisės aktų nuostatos turi užtikrinti ir negali paneigti Konstitucijoje, Europos Sąjungos teisės aktuose, Lietuvos Respublikos tarptautinėse sutartyse, Lietuvos Respublikos įstatymuose ir kituose teisės aktuose nustatytų asmens teisių ir laisvių, teisėtų interesų;
+
+4) atvirumo ir skaidrumo, reiškiančiu, kad teisėkūra turi būti vieša, su bendraisiais interesais susiję teisėkūros sprendimai negali būti priimami visuomenei nežinant ir neturint galimybių dalyvauti, valstybės politikos tikslai, teisinio reguliavimo poreikis ir teisėkūroje dalyvaujantys subjektai turi būti žinomi, visuomenei ir interesų grupėms sudarytos sąlygos teikti pasiūlymus dėl teisinio reguliavimo visose teisėkūros stadijose, taip pat turi būti žinomi teisės aktų projektų rengimą inicijavę, teisės aktų projektus parengę, numatomo teisinio reguliavimo poveikio vertinimą atlikę subjektai ir teisinio reguliavimo stebėseną atliekantys subjektai;
+
+5) efektyvumo, reiškiančiu, kad rengiant teisės akto projektą turi būti įvertinamos visos galimos teisinio reguliavimo alternatyvos ir pasirenkama geriausia iš jų, teisės akte turi būti įtvirtinamos veiksmingiausiai ir ekonomiškiausiai teisinio reguliavimo tikslą leisiančios pasiekti priemonės, turi būti skelbiami ir įvertinami dėl teisinio reguliavimo gauti pasiūlymai, o teisėkūros veiksmai atliekami per protingus terminus;
+
+6) aiškumo, reiškiančiu, kad teisės aktuose nustatytas teisinis reguliavimas turi būti logiškas, nuoseklus, glaustas, suprantamas, tikslus, aiškus ir nedviprasmiškas;
+
+7) sistemiškumo, reiškiančiu, kad teisės normos turi derėti tarpusavyje, žemesnės teisinės galios teisės aktai neturi prieštarauti aukštesnės teisinės galios teisės aktams, įstatymo įgyvendinamieji teisės aktai turi būti rengiami ir priimami taip, kad įsigaliotų kartu su įstatymu ar atskiromis jo nuostatomis, kurias šie teisės aktai įgyvendina.
+
+4 straipsnis. Teisėkūros stadijos
+
+1. Teisėkūros stadijos:
+
+1) teisėkūros iniciatyvos pareiškimas;
+
+2) teisės akto projekto rengimas;
+
+3) teisės akto priėmimas;
+
+4) teisės akto pasirašymas ir paskelbimas.
+
+2. Respublikos Prezidentui, Seimo nariams ir savivaldybių tarybų nariams šio straipsnio 1 dalies 1 punktas netaikomas.
+
+5 straipsnis. Teisės aktų informacinės sistemos naudojimas teisėkūrai
+
+1. Teisėkūros atvirumui, skaidrumui, koncentruotumui užtikrinti naudojama Lietuvos Respublikos Seimo kanceliarijos teisės aktų informacinė sistema (toliau – Teisės aktų informacinė sistema).
+
+2. Teisės aktų informacinėje sistemoje tvarkoma ir skelbiama:
+
+1) teisėkūros iniciatyvos;
+
+2) teisės aktų projektai;
+
+3) teisės aktų projektų lydimieji dokumentai (teisės akto projekto lyginamasis variantas, aiškinamasis raštas, numatomo teisinio reguliavimo poveikio vertinimo išvada, jeigu šio vertinimo rezultatai nėra nurodyti aiškinamajame rašte, atlikto teisės akto projektui parengti reikalingo tyrimo ir kitų tyrimų, kuriais remtasi rengiant teisės akto projektą, išvados, kiti teisės aktuose nustatyti kartu su teisės akto projektu privalomi parengti ir pateikti teisės aktą priimančiam subjektui dokumentai);
+
+4) informacija apie konsultavimąsi su visuomene, įskaitant konsultavimosi laiką, būdą, rezultatus;
+
+5) informacija, susijusi su teisinio reguliavimo stebėsena;
+
+6) numatomo teisinio reguliavimo koncepcijos;
+
+7) kiti su teisės aktų projektais susiję įstaigų ar kitų subjektų dokumentai, kuriais teisės aktų projektai teikiami išvadoms gauti, kuriais teikiamos išvados dėl teisės aktų projektų, kuriuose įvertinamos pastabos ir pasiūlymai dėl teisės aktų projektų arba kuriais įforminami pasitarimų, skirtų nesutarimams dėl teisės akto projekto ir dėl pareikštų pastabų ir pasiūlymų spręsti, rezultatai, taip pat su teisėkūra susiję įstaigų ar kitų subjektų dokumentai ir informacija, kurių skelbimą Teisės aktų informacinėje sistemoje nustato teisės aktai.
+
+3. Jeigu pirminis teisės akto projekto rengėjas yra lobistas, apie tai paskelbiama Teisės aktų informacinėje sistemoje. Kai lobistas yra juridinis asmuo, nurodoma juridinio asmens pavadinimas, buveinė ir to juridinio asmens darbuotojo, kuris vykdo lobistinę veiklą, vardas ir pavardė; kai lobistas yra fizinis asmuo, nurodoma jo vardas ir pavardė, taip pat lobistinės veiklos užsakovo, kurio interesais lobistas rengė teisės akto projektą ir daro įtaką teisės akto projekto rengimui, vardas, pavardė (jeigu lobistinės veiklos užsakovas yra fizinis asmuo) arba juridinio asmens pavadinimas ir buveinė (jeigu lobistinės veiklos užsakovas yra juridinis asmuo).
+
+4. Teisės aktų informacinėje sistemoje sudaroma galimybė visiems asmenims paskelbti pasiūlymus dėl šioje sistemoje paskelbtų teisėkūros iniciatyvų ir teisės aktų projektų, taip pat dėl teisinio reguliavimo, kurio stebėsena atliekama.
+
+5. Šiame įstatyme nustatyti Teisės aktų informacinėje sistemoje tvarkomi duomenys yra vieši.
+
+6. Šiame įstatyme nustatytų Teisės aktų informacinės sistemos duomenų tvarkymą reglamentuoja Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas (toliau – Valstybės informacinių išteklių valdymo įstatymas), šis įstatymas, Teisės aktų informacinės sistemos valdytojo priimti teisės aktai. Teisės aktų informacinės sistemos naudojimo teisėkūrai tvarką, suderinęs su Teisės aktų informacinės sistemos valdytoju, Lietuvos banku ir Lietuvos savivaldybių asociacija, nustato teisingumo ministras.
+
+7. Teisės aktų informacine sistema teisėkūrai naudojasi ir įgaliotos atlikti viešąjį administravimą valstybės ar savivaldybės įmonės, viešosios įstaigos, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, asociacijos.
+
+6 straipsnis. Teisės aktų registras
+
+1. Teisės aktų registras skirtas šio straipsnio 2 dalyje nurodytų Teisės aktų registro objektų registravimui, skelbimui, apskaitai, sisteminimui ir informacijos teikimui.
+
+2. Teisės aktų registro objektai yra:
+
+1) Konstitucija;
+
+2) konstituciniai įstatymai;
+
+3) kiti įstatymai;
+
+4) Seimo statutas;
+
+5) Seimo nutarimai;
+
+6) kiti Seimo priimti teisės aktai;
+
+7) Lietuvos Respublikos tarptautinės sutartys;
+
+8) Respublikos Prezidento dekretai ir potvarkiai;
+
+9) Vyriausybės nutarimai, sprendimai ir rezoliucijos;
+
+10) Konstitucinio Teismo reglamentas;
+
+11) ministrų, Vyriausybės įstaigų, kitų valstybės institucijų ir įstaigų vadovų ir kolegialių institucijų norminiai teisės aktai;
+
+12) Ministro Pirmininko potvarkiai;
+
+13) Seimo Pirmininko potvarkiai;
+
+14) Seimo valdybos sprendimai;
+
+15) Lietuvos banko norminiai teisės aktai;
+
+16) savivaldybių institucijų norminiai teisės aktai, taip pat savivaldybių merų priimami teisės aktai, kuriuos skelbti Teisės aktų registre privaloma pagal teisės aktus;
+
+17) įgaliotų atlikti viešąjį administravimą asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų priimti norminiai teisės aktai. Kitų asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų priimti teisės aktai Teisės aktų registro objektais yra tik tais atvejais, kai šiuos teisės aktus skelbti Teisės aktų registre privaloma pagal teisės aktus;
+
+18) ministrų, Vyriausybės įstaigų, kitų valstybės ir savivaldybių institucijų ir įstaigų vadovų ir kolegialių institucijų, taip pat Lietuvos banko valdybos ar valdybos pirmininko, teisės aktų nustatyta tvarka įgaliotų atlikti viešąjį administravimą asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų priimti teisės taikymo aktai, kuriuos skelbti Teisės aktų registre privaloma pagal teisės aktus;
+
+19) Konstitucinio Teismo nutarimai ir sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo, taip pat Konstitucinio Teismo pirmininko pranešimai dėl ginčijamo akto galiojimo sustabdymo ir dėl sustabdyto akto galiojimo atnaujinimo;
+
+20) Lietuvos Aukščiausiojo Teismo ir Lietuvos vyriausiojo administracinio teismo sprendimai, nutartys, nutarimai, taip pat įsiteisėję administracinių teismų sprendimai dėl norminių administracinių aktų teisėtumo.
+
+3. Teisės aktų registre tvarkomi šie Teisės aktų registro objekto duomenys:
+
+1) identifikacinis kodas;
+
+2) teisės aktą priėmusio subjekto pavadinimas;
+
+3) teisės akto rūšis;
+
+4) teisės akto pavadinimas;
+
+5) teisės aktą priėmusio subjekto suteiktas numeris;
+
+6) chronologija (teisės akto priėmimo data, paskelbimo data, įsigaliojimo data, pakeitimo ar papildymo data, pripažinimo netekusiu galios data, galiojimo sustabdymo data, galiojimo terminas);
+
+7) teisės akto tekstas;
+
+8) suvestinės teisės akto redakcijos.
+
+4. Teisės aktų registro duomenys prieinami neatlygintinai. Tais atvejais, kai Teisės aktų registro duomenys teikiami Lietuvos Respublikos įstatymuose, kituose teisės aktuose nustatyta tvarka asmenims, turintiems teisę juos gauti ir turintiems tikslą teikti paslaugas tretiesiems asmenims, arba kai asmenys pageidauja gauti duomenis, kuriems parengti ir pateikti reikalingos papildomos sąnaudos, Teisės aktų registro tvarkytojas nustato atlyginimo už šias paslaugas dydį, atsižvelgdamas į teikiamų duomenų kiekį ir naudojamus informacinių technologijų sprendimus. Atlyginimo už teikiamas paslaugas dydis viešai skelbiamas Teisės aktų registro tvarkytojo interneto svetainėje.
+
+5. Teisės aktų registro valdytojas ir tvarkytojas yra Lietuvos Respublikos Seimo kanceliarija.
+
+6. Teisės aktų registro duomenys tvarkomi vadovaujantis šiuo įstatymu, Valstybės informacinių išteklių valdymo įstatymu, kitais įstatymais, Seimo nutarimu patvirtintais Teisės aktų registro nuostatais ir kitais teisės aktais. Kiti įstatymai Teisės aktų registro duomenų tvarkymui taikomi tiek, kiek to nenustato šis įstatymas.
+
+7. Suvestinė teisės akto redakcija (tais atvejais, kai viename teisės akte numatytas skirtingas tam tikrų keičiamo teisės akto nuostatų įsigaliojimas, – atitinkamos kelios suvestinės teisės akto redakcijos) Teisės aktų registre paskelbiama (paskelbiamos) ne vėliau kaip per tris darbo dienas po to, kai paskelbtas teisės aktas, kuriuo yra keičiamas ar papildomas šis teisės aktas. Teisės aktų registro tvarkytojas atsako už tinkamą suvestinės teisės akto redakcijos parengimą ir paskelbimą.
+
+8. Teisės aktų registre turi būti nuorodos į Teisės aktų informacinėje sistemoje paskelbtus teisės akto pakeitimo ar pripažinimo netekusiu galios projektus.
+
+7 straipsnis. Konsultavimasis su visuomene
+
+1. Konsultavimosi su visuomene tikslas – užtikrinti teisėkūros atvirumą, skaidrumą, sužinoti visuomenės nuomonę apie teisinio reguliavimo problemas ir jų sprendimo būdus, sudaryti visuomenei galimybę daryti įtaką teisės akto projekto turiniui, geriau įvertinti numatomo teisinio reguliavimo teigiamas ir neigiamas pasekmes, jo įgyvendinimo sąnaudas, teikti pasiūlymus dėl Teisės aktų informacinėje sistemoje paskelbtų teisėkūros iniciatyvų ir teisės aktų projektų, taip pat dėl teisinio reguliavimo, kurio stebėsena atliekama.
+
+2. Su visuomene turi būti konsultuojamasi laiku ir dėl esminių klausimų (konsultavimosi efektyvumas), taip pat tiek, kiek yra būtina (konsultavimosi proporcingumas).
+
+3. Konsultavimosi su visuomene būdus ir rezultatų įforminimo būdus pasirenka konsultavimąsi su visuomene inicijuojantys subjektai. Informacija apie konsultavimosi su visuomene rezultatus turi būti teikiama teisės aktą priimančiam subjektui.
+
+ANTRASIS SKIRSNIS
+
+TEISĖKŪROS INICIATYVŲ PAREIŠKIMAS IR TEISĖS AKTŲ PROJEKTŲ RENGIMAS
+
+8 straipsnis. Teisėkūros iniciatyvos
+
+1. Šio įstatymo 2 straipsnio 1 dalyje numatytos įstaigos teisėkūros iniciatyvas planuoja ir pareiškia teisės aktų nustatyta tvarka rengiamuose strateginio planavimo dokumentuose ir jas paskelbia Teisės aktų informacinėje sistemoje, nurodydamos siūlomo nustatyti naujo ar keičiamo esamo teisinio reguliavimo pagrindinius principus ir motyvus, preliminarų teisės akto projekto pavadinimą, teisės akto projekto rengimo priežastis ir tikslą, taip pat gali nurodyti teisės akto projekto rengimo pradžios ir pabaigos terminus, teisės akto projekto rengėją.
+
+2. Atsižvelgdamos į visuomenės ar atskirų asmenų pasiūlymus, taip pat reaguodamos į pasikeitusias teisines, ekonomines, socialines, finansines ar kitokias svarbias aplinkybes, šio įstatymo 2 straipsnio 1 dalyje numatytos įstaigos gali parengti ir šio straipsnio 1 dalyje nustatyta tvarka Teisės aktų informacinėje sistemoje paskelbti teisėkūros iniciatyvas, kurios nėra numatytos strateginio planavimo dokumentuose.
+
+3. Šio įstatymo 2 straipsnio 1 dalyje numatytos įstaigos privalo užtikrinti, kad Teisės aktų informacinėje sistemoje būtų skelbiama aktuali informacija apie numatomas įgyvendinti teisėkūros iniciatyvas.
+
+9 straipsnis. Bendrosios teisės aktų projektų rengimo nuostatos
+
+1. Teisės akto projektą rengiantis subjektas teisės akto projektą rengia vadovaudamasis šio įstatymo 3 straipsnyje nurodytais teisėkūros principais ir šiame įstatyme nustatytais teisės akto projekto formai, struktūrai, turiniui ir kalbai keliamais reikalavimais.
+
+2. Rengiant teisės akto projektą, kuriuo Lietuvos nacionalinė teisė derinama su Europos Sąjungos teise ar tarptautine teise, turi būti įvertintos visos galimos alternatyvos ir iš jų parinktas labiausiai Lietuvos interesus atitinkantis sprendimas.
+
+3. Įstatymų įgyvendinamuosiuose teisės aktuose turi būti numatomos labiausiai įgyvendinamų įstatymų tikslus atitinkančios, ekonomiškiausios ir efektyviausios priemonės.
+
+4. Išvadas dėl teisės aktų projektų atitikties Europos Sąjungos teisei, Europos Sąjungos Teisingumo Teismo sprendimams, Lietuvos Respublikos tarptautinėms sutartims, Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir Europos žmogaus teisių teismo sprendimams teikia Vyriausybės įgaliotos institucijos. Šios Vyriausybės įgaliotų institucijų išvados pateikiamos ir teisės aktą priimančiam subjektui.
+
+5. Visi asmenys turi teisę teikti pasiūlymus dėl Teisės aktų informacinėje sistemoje paskelbto teisės akto projekto. Gautus pasiūlymus, kurie pateikti ne Teisės aktų informacinėje sistemoje, teisės aktų projektus rengiantys subjektai taip pat turi perkelti ir paskelbti Teisės aktų informacinėje sistemoje. Teisės akto projektą rengiantis subjektas įvertina visus pateiktus pasiūlymus.
+
+10 straipsnis. Darbo grupės (komisijos) teisės aktų projektams rengti
+
+1. Teisės akto projektui rengti gali būti sudaryta darbo grupė (komisija). Darbo grupės (komisijos) nariais gali būti valstybės ir savivaldybių institucijų ir įstaigų, nevyriausybinių organizacijų, mokslo ir studijų institucijų atstovai, atitinkamų sričių specialistai, kiti asmenys. Darbo grupės (komisijos) nariu negali būti lobistas.
+
+2. Darbo grupė (komisija), kurios visiems nariams ar jų daliai būtų atlyginama už darbą darbo grupėje (komisijoje), gali būti sudaroma tik tais atvejais, kai teisės akto projektui parengti reikalingos specialios ir (ar) mokslinės žinios, išsami esamos padėties ir (ar) užsienio šalių praktikos analizė ir šių žinių ir (ar) gebėjimų neturi ir (ar) reikiamos analizės atlikti negali teisės akto projekto rengimą inicijuojantis subjektas.
+
+3. Informacija apie sudarytas darbo grupes (komisijas) teisės aktų projektams rengti, jų sudėtį, pavestą parengti teisės akto projektą skelbiama Teisės aktų informacinėje sistemoje ir darbo grupę (komisiją) sudariusio subjekto interneto svetainėje.
+
+4. Darbo grupės (komisijos) teisės akto projektui parengti sudėtis ir veiklos laikotarpis turi būti nurodomi teisės akto projekto lydimuosiuose dokumentuose.
+
+5. Apmokėjimo už darbą Seimo, Seimo struktūrinių padalinių arba Seimo pareigūnų sudarytose darbo grupėse (komisijose) teisės aktų projektams rengti tvarką nustato Seimo statute nurodyta institucija.
+
+6. Apmokėjimo už darbą Respublikos Prezidento, Vyriausybės, Ministro Pirmininko, iš valstybės biudžeto ar valstybės pinigų fondų išlaikomų įstaigų sudaromose darbo grupėse (komisijose) teisės aktų projektams rengti tvarką nustato Vyriausybė.
+
+7. Apmokėjimo už darbą savivaldybių tarybų, savivaldybių merų (merų pavaduotojų), savivaldybių administracijų direktorių, kitų iš savivaldybių biudžetų išlaikomų įstaigų vadovų sudaromose darbo grupėse (komisijose) teisės aktų projektams rengti tvarką nustato savivaldybių tarybos.
+
+8. Apmokėjimo už darbą Lietuvos banko valdybos ar valdybos pirmininko sudaromose darbo grupėse (komisijose) teisės aktų projektams rengti tvarką nustato Lietuvos banko valdyba.
+
+11 straipsnis. Teisės akto projekto rengimo ar teisės akto projektui parengti reikalingo tyrimo pirkimas
+
+1. Jeigu teisės akto projektui parengti reikalingos specialios ir (ar) mokslinės žinios ir (ar) gebėjimai, išsami esamos padėties ir (ar) užsienio šalių praktikos analizė, teisės akto rengimo ar teisės akto projektui parengti reikalingo tyrimo paslaugos gali būti perkamos tik tais atvejais, kai teisės akto projekto parengti ir (ar) reikalingo tyrimo atlikti negali pats teisės akto projektą rengiantis subjektas ar jo sudaryta darbo grupė (komisija) arba dėl objektyvių priežasčių nėra galimybių sudaryti darbo grupę (komisiją) teisės akto projektui parengti.
+
+2. Teisės aktų informacinėje sistemoje ir teisės akto projektą rengiančio subjekto interneto svetainėje turi būti paskelbta informacija apie teisės akto projekto rengimo, teisės akto projektui parengti reikalingo tyrimo pirkimą, teisės akto projektą parengusius ar tyrimą atlikusius subjektus, taip pat teisės akto projekto rengimo ir (ar) tyrimo rezultatai ir kaina.
+
+3. Teisės akto projekto lydimuosiuose dokumentuose turi būti nurodoma teisės akto projekto rengimo ir (ar) teisės akto projektui parengti reikalingo tyrimo kaina, taip pat motyvuotai pagrįstas teisės akto projekto rengimo ir (ar) teisės akto projektui parengti reikalingo tyrimo pirkimo būtinumas ir teisės akto projektą parengę ir (ar) reikalingą tyrimą atlikę subjektai.
+
+12 straipsnis. Numatomo teisinio reguliavimo koncepcija
+
+1. Prieš nustatant naują ar iš esmės keičiant esamą teisinį reguliavimą gali būti parengta numatomo teisinio reguliavimo koncepcija, kurioje pateikiama esamos padėties analizė, nurodomos spręstinos problemos, numatomo teisinio reguliavimo tikslas, principai ir pagrindinės nuostatos, galimos teigiamos ir neigiamos numatomo teisinio reguliavimo pasekmės, numatomą teisinį reguliavimą pagrindžiančios nuostatos, kita svarbi informacija.
+
+2. Numatomo teisinio reguliavimo koncepciją tvirtina subjektas, kuris priima sprendimą dėl koncepcijos rengimo.
+
+3. Iš esmės pasikeitus teisinėms, socialinėms, finansinėms, ekonominėms ar kitoms svarbioms aplinkybėms, dėl kurių numatomo teisinio reguliavimo koncepcijos nuostatos tapo neaktualios, netikslingos arba jų negalima įgyvendinti, numatomo teisinio reguliavimo koncepcija turi būti pakeista arba pripažinta netekusia galios.
+
+13 straipsnis. Teisės akto forma ir struktūra
+
+1. Įstatyme eilės tvarka turi būti:
+
+1) įstatymo pavadinimas;
+
+2) įstatymo priėmimo data ir numeris;
+
+3) įstatymo priėmimo vieta;
+
+4) įstatymo tekstas;
+
+5) įstatymą pasirašančio subjekto pareigos, vardas, pavardė.
+
+2. Įstatymą sudaro dalys, skyriai, skirsniai, straipsniai. Įstatymo straipsnį sudaro dalys ir dalių punktai, punktai gali būti skaidomi į papunkčius. Didelės apimties kodifikuoti įstatymai (kodeksai) prireikus gali būti skirstomi į knygas. Atsižvelgiant į įstatymo pobūdį, turinį ir apimtį, jame gali būti ne visos sudedamosios dalys.
+
+3. Teisės akte, išskyrus įstatymus, eilės tvarka turi būti:
+
+1) teisės aktą priimančio subjekto pavadinimas;
+
+2) teisės akto rūšies pavadinimas;
+
+3) teisės akto pavadinimas (antraštė);
+
+4) teisės akto priėmimo data, numeris, vieta;
+
+5) teisės akto tekstas;
+
+6) teisės aktą pasirašančio subjekto (pasirašančių subjektų) pareigos, vardas (vardai), pavardė (pavardės).
+
+4. Seimo nutarimus ir Respublikos Prezidento dekretus sudaro straipsniai, straipsnių dalys ir punktai. Kitų valstybės ir savivaldybių institucijų ir įstaigų priimamus teisės aktus sudaro punktai, punktų papunkčiai, punktų pastraipos. Didesnės apimties teisės aktas gali būti skirstomas į skyrius ir skirsnius, prireikus skyriai (skirsniai) gali būti skirstomi į poskyrius (poskirsnius).
+
+5. Teisės aktas gali turėti preambulę ir priedų – lentelių, grafikų, planų, žemėlapių, schemų, sąrašų ir kita.
+
+14 straipsnis. Reikalavimai teisės akto projektui ir jo rengimui
+
+1. Teisės aktų projektai rengiami laikantis bendrinės lietuvių kalbos normų ir teisės terminijos.
+
+2. Kai keičiamas teisės akto straipsnis (straipsnio dalis) ar punktas, pateikiama keičiamo straipsnio (straipsnio dalies) ar punkto nauja redakcija. Kai teisės aktas pildomas nauju straipsniu (straipsnio dalimi) ar punktu, pateikiama naujo straipsnio (straipsnio dalies) ar punkto redakcija. Kai teisės akto straipsnis (straipsnio dalis) ar punktas pripažįstamas netekusiu galios, nurodomas tas straipsnis (straipsnio dalis) ar punktas.
+
+3. Kai keičiamame teisės akte keičiama daugiau kaip pusė jo straipsnių ar punktų, visas teisės aktas dėstomas nauja redakcija.
+
+4. Vienu teisės aktu keičiamas tik vienas teisės aktas.
+
+5. Teisės aktuose pateikiant nuorodas į tam tikrą įstatymą (išskyrus atvejus, kai įstatyme pateikiama nuoroda į jį patį), turi būti nurodomas visas įstatymo pavadinimas.
+
+6. Teisės aktuose pateikiant nuorodą į kitus teisės aktus, išskyrus įstatymus, nurodomi teisės aktą priėmusio subjekto (subjektų) pavadinimas (pavadinimai), teisės akto priėmimo data, teisės akto rūšis, teisės aktą priėmusio subjekto (subjektų) suteiktas numeris, visas teisės akto pavadinimas.
+
+7. Teisės akte, kuriuo derinamos ir įgyvendinamos Europos Sąjungos teisės aktų nuostatos, turi būti nurodyti Europos Sąjungos teisės aktai pagal Vyriausybės įgaliotos institucijos nustatytus reikalavimus.
+
+8. Teisės aktų projektų rengimo rekomendacijas tvirtina teisingumo ministras.
+
+15 straipsnis. Numatomo teisinio reguliavimo poveikio vertinimas
+
+1. Rengiant teisės akto, kuriuo numatoma reglamentuoti iki tol nereglamentuotus santykius, taip pat kuriuo iš esmės keičiamas teisinis reguliavimas, projektą, privalo būti atliekamas numatomo teisinio reguliavimo poveikio vertinimas. Šio vertinimo išsamumas turi būti proporcingas galimoms numatomo teisinio reguliavimo pasekmėms. Sprendimą dėl numatomo teisinio reguliavimo poveikio vertinimo priima teisės akto projekto rengėjas.
+
+2. Atliekant numatomo teisinio reguliavimo poveikio vertinimą, nustatomas galimas teigiamas ir neigiamas poveikis to teisinio reguliavimo sričiai, asmenims ar jų grupėms, kuriems bus taikomas numatomas teisinis reguliavimas. Atsižvelgiant į teisės akte numatomo naujo teisinio reguliavimo pobūdį, mastą, turi būti įvertinamas poveikis ekonomikai, valstybės finansams, socialinei aplinkai, viešajam administravimui, teisinei sistemai, kriminogeninei situacijai, korupcijos mastui, aplinkai, administracinei naštai, regionų plėtrai ir kitoms sritims.
+
+3. Įstatymo ar kito Seimo teisės akto projekte numatomo teisinio reguliavimo poveikio vertinimo rezultatai pateikiami aiškinamajame rašte arba atskiru dokumentu. Rengiant kitus teisės aktų projektus, numatomo teisinio reguliavimo poveikio vertinimo rezultatai pateikiami Vyriausybės ar jos įgaliotos institucijos, savivaldybės tarybos ar jos įgaliotos institucijos nustatyta tvarka.
+
+16 straipsnis. Numatomo teisinio reguliavimo poveikio korupcijos mastui vertinimas
+
+Numatomo teisinio reguliavimo poveikio korupcijos mastui vertinimas (teisės aktų ar jų projektų antikorupcinis vertinimas) atliekamas Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais. Šio vertinimo tvarką nustato Vyriausybė.
+
+17 straipsnis. Teisės aktų projektų rengimas elektroniniu būdu Teisės aktų informacinėje sistemoje
+
+1. Įstatymų ir kitų teisės aktų projektai rengiami elektroniniu būdu Teisės aktų informacinėje sistemoje.
+
+2. Teisės aktų informacinėje sistemoje sudaroma galimybė teisės akto projektą rengiančiam subjektui viešinti teisės akto projekto rengimo eigą, t. y. skelbti skirtingas rengiamo teisės akto projekto redakcijas ir su teisės akto projekto rengimu susijusią informaciją.
+
+3. Rengiant teisės aktų projektus elektroniniu būdu paprastai dalyvauja įstaigos, su kuriomis numatoma derinti teisės akto projektą. Rengiant teisės aktų projektus elektroniniu būdu taip pat gali dalyvauti kiti asmenys ar asmenų grupės, teikdami pasiūlymus dėl rengiamo teisės akto projekto.
+
+4. Teisės akto projektas išvadoms gauti teikiamas paskelbiant jį Teisės aktų informacinėje sistemoje ir nurodant subjektus, kurių išvados turi būti gautos. Išvados dėl teisės aktų projektų teikiamos paskelbiant jas Teisės aktų informacinėje sistemoje.
+
+5. Kai dėl teisės akto projekto buvo konsultuotasi su visuomene, konsultavimosi su visuomene rezultatai, taip pat subjektų, kuriems teisės akto projektas buvo teikiamas išvadoms gauti, gautų pastabų ir pasiūlymų įvertinimas turi būti pateikti teisės aktą priimančiam subjektui.
+
+6. Rengiant teisės akto projektą elektroniniu būdu dalyvaujantys fiziniai asmenys privalo nurodyti savo vardą ir pavardę, juridiniai asmenys – juridinio asmens pavadinimą.
+
+7. Elektroniniu būdu rengiant teisės akto, kuriuo keičiamas galiojančiame teisės akte nustatytas teisinis reguliavimas, projektą užtikrinama rengiamo teisės akto projekto sąsaja su tuo metu galiojančia suvestine teisės akto redakcija, kitais su rengiamu teisės akto projektu susijusiais Teisės aktų registro ir Teisės aktų informacinės sistemos duomenimis.
+
+8. Teisės aktų projektų rengimo elektroniniu būdu tvarką nustato Teisės aktų informacinės sistemos valdytojas.
+
+TREČIASIS SKIRSNIS
+
+TEISĖS AKTŲ PRIĖMIMAS, PASIRAŠYMAS, REGISTRAVIMAS, SKELBIMAS IR ĮSIGALIOJIMAS
+
+18 straipsnis. Teisės aktų priėmimas ir pasirašymas
+
+1. Teisės aktus priima teisės aktų tam įgalioti subjektai.
+
+2. Priimtas teisės aktas negali būti taisomas, išskyrus po teisės akto priėmimo pastebėtas rašybos ir gramatines klaidas, nekeičiančias teisės akto turinio ir prasmės.
+
+3. Priimtus teisės aktus pasirašo tam įgaliojimus turintys subjektai teisės aktų nustatyta tvarka. Priimti teisės aktai, išskyrus įstatymus ir kitus Respublikos Prezidento pasirašomus teisės aktus, gali būti pasirašomi Teisės aktų informacinėje sistemoje saugiu elektroniniu parašu.
+
+19 straipsnis. Teisės aktų registravimas ir skelbimas
+
+1. Šio įstatymo 6 straipsnio 2 dalies 1–18 punktuose nurodyti teisės aktai registruojami ir oficialiai skelbiami Teisės aktų registre.
+
+2. Teisės aktų nustatytus įgaliojimus turinčio subjekto pasirašytas teisės aktas, kuris yra Teisės aktų registro objektas, ne vėliau kaip kitą darbo dieną po pasirašymo įregistruojamas ir paskelbiamas Teisės aktų registre.
+
+3. Teisės akto įregistravimas ir paskelbimas Teisės aktų registre laikomas oficialiu teisės akto paskelbimu.
+
+4. Pasirašytus teisės aktus saugo jį priėmęs subjektas šio subjekto nustatyta tvarka. Vieną atspausdintą elektroniniu parašu pasirašyto teisės akto egzempliorių saugo teisės aktą priėmęs subjektas šio subjekto nustatyta tvarka.
+
+20 straipsnis. Teisės aktų įsigaliojimas
+
+1. Norminis teisės aktas įsigalioja kitą dieną po oficialaus paskelbimo Teisės aktų registre, jeigu pačiame teisės akte nenumatyta vėlesnė įsigaliojimo data.
+
+2. Konstitucijos keitimo įstatymas įsigalioja ne anksčiau kaip po vieno mėnesio nuo priėmimo.
+
+3. Lietuvos Respublikos mokesčių įstatymai, nustatantys naujus mokesčius, naujus mokesčio tarifus, mokesčio lengvatas, sankcijas už mokesčių įstatymų pažeidimus arba iš esmės pakeičiantys apmokestinimo tam tikru mokesčiu tvarką ar apmokestinimo teisinio reglamentavimo bei taikymo principus, įsigalioja ne anksčiau kaip po šešių mėnesių nuo oficialaus paskelbimo dienos. Ši nuostata netaikoma su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu susijusiems Lietuvos Respublikos mokesčių įstatymų pakeitimo (papildymo) įstatymams ir teisės aktams, kuriais Lietuvos nacionalinė teisė derinama su Europos Sąjungos teise.
+
+4. Teisės aktai, keičiantys ar nustatantys naują ūkio subjektų veiklos ar jos priežiūros teisinį reguliavimą, paprastai įsigalioja gegužės 1 dieną arba lapkričio 1 dieną, tačiau visais atvejais ne anksčiau kaip po trijų mėnesių nuo jų oficialaus paskelbimo dienos. Ši nuostata netaikoma, kai teisinis reguliavimas nustatomas arba keičiamas pagal Europos Sąjungos teisės aktuose nustatytus įpareigojimus, Lietuvos Respublikos tarptautinių sutarčių reikalavimus, taip pat kai nustatomas ūkio subjektams palankesnis teisinis reguliavimas.
+
+5. Teisės taikymo aktas, kuris yra Teisės aktų registro objektas, įsigalioja nuo paskelbimo Teisės aktų registre, jeigu pačiame teisės taikymo akte nenumatyta vėlesnė įsigaliojimo data.
+
+6. Seimo nutarimas dėl Konstitucijos 74 straipsnyje nurodytų asmenų pašalinimo iš pareigų ar Seimo nario mandato panaikinimo apkaltos proceso tvarka, taip pat Seimo nutarimas, kuriuo įforminamas apkaltos proceso nutraukimas asmeniui atsistatydinus, įsigalioja nuo oficialaus paskelbimo Teisės aktų registre ir (ar) visuomenės informavimo priemonėse.
+
+7. Seimo nutarimas, kuriuo skelbiama mobilizacija ar demobilizacija, įvedama karo ar nepaprastoji padėtis, įsigalioja nuo oficialaus paskelbimo Teisės aktų registre ir (ar) visuomenės informavimo priemonėse.
+
+8. Seimo nutarimas, kuriuo Seimo Pirmininkui pavedama laikinai eiti Respublikos Prezidento pareigas, įsigalioja nuo oficialaus paskelbimo Teisės aktų registre.
+
+9. Kiti šio straipsnio 1–8 dalyse nenurodyti Seimo priimti teisės aktai įsigalioja kitą dieną po jų oficialaus paskelbimo Teisės aktų registre, jeigu pačiuose teisės aktuose nenustatyta kita įsigaliojimo tvarka.
+
+10. Respublikos Prezidento dekretas dėl Respublikos Prezidento laikino pavadavimo įsigalioja nuo oficialaus paskelbimo Teisės aktų registre.
+
+11. Respublikos Prezidento dekretas dėl mobilizacijos paskelbimo, karo ar nepaprastosios padėties įvedimo įsigalioja nuo oficialaus paskelbimo Teisės aktų registre ir (ar) visuomenės informavimo priemonėse.
+
+21 straipsnis. Konstitucinio Teismo aktų registravimas, oficialus paskelbimas ir įsigaliojimas. Konstitucinio Teismo pirmininko pranešimų registravimas ir oficialus paskelbimas
+
+1. Konstitucinio Teismo nutarimai ir sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo, taip pat Konstitucinio Teismo pirmininko pranešimai dėl ginčijamo akto galiojimo sustabdymo ir dėl sustabdyto akto galiojimo atnaujinimo registruojami ir oficialiai skelbiami Teisės aktų registre.
+
+2. Pasirašyti Konstitucinio Teismo nutarimai ir sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo ne vėliau kaip kitą darbo dieną perduodami Teisės aktų registro tvarkytojui. Šie Konstitucinio Teismo aktai Teisės aktų registre turi būti įregistruoti ir oficialiai paskelbti ne vėliau kaip kitą darbo dieną po jų perdavimo Teisės aktų registro tvarkytojui, jeigu pačiuose aktuose nenustatyta kita paskelbimo data.
+
+3. Konstitucinio Teismo pirmininko pranešimai dėl ginčijamo akto galiojimo sustabdymo ir dėl sustabdyto akto galiojimo atnaujinimo Teisės aktų registre turi būti įregistruoti ir oficialiai paskelbti jų perdavimo Teisės aktų registro tvarkytojui dieną.
+
+4. Konstitucinio Teismo nutarimai ir sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo, taip pat Konstitucinio Teismo pirmininko pranešimai dėl ginčijamo akto galiojimo sustabdymo ir dėl sustabdyto akto galiojimo atnaujinimo įsigalioja jų oficialaus paskelbimo Teisės aktų registre dieną.
+
+22 straipsnis. Teismų sprendimų registravimas ir skelbimas Teisės aktų registre
+
+1. Visi Lietuvos Aukščiausiojo Teismo ir Lietuvos vyriausiojo administracinio teismo sprendimai, nutartys, nutarimai, taip pat visi įsiteisėję administracinių teismų sprendimai dėl norminių administracinių aktų teisėtumo registruojami ir skelbiami Teisės aktų registre.
+
+2. Už šio straipsnio 1 dalyje nurodytų teismų procesinių sprendimų perdavimą registruoti ir paskelbti Teisės aktų registre atsakinga Nacionalinė teismų administracija. Duomenis Teisės aktų registrui Nacionalinė teismų administracija teikia Teisėjų tarybos nustatyta tvarka, suderinta su Teisės aktų registro valdytoju.
+
+KETVIRTASIS SKIRSNIS
+
+TEISINIO REGULIAVIMO STEBĖSENA
+
+23 straipsnis. Teisinio reguliavimo stebėsenos objektas
+
+1. Atliekant teisinio reguliavimo stebėseną, vertinama:
+
+1) teisės aktuose nustatytų teisinio reguliavimo priemonių efektyvumas siekiant teisinio reguliavimo tikslų;
+
+2) teisinio reguliavimo teigiamas poveikis ir neigiamos pasekmės reguliuojamai sričiai ir kitoms sritims (ekonomikai, valstybės finansams, socialinei aplinkai, viešajam administravimui, teisinei sistemai, kriminogeninei padėčiai, korupcijos mastui, aplinkai, administracinei naštai, regionų plėtrai ir kt.), asmenims ar jų grupėms;
+
+3) tiesioginė ir netiesioginė teisinio reguliavimo nauda, šios naudos gavėjai;
+
+4) teisinio reguliavimo pasekmių atitiktis nustatant teisinį reguliavimą planuotiems tikslams ir pasekmėms;
+
+5) reikalingumas keisti teisinį reguliavimą ar jo atsisakyti.
+
+2. Gali būti atliekama viename teisės akte, teisės akto dalyje, keliuose teisės aktuose nustatyto teisinio reguliavimo stebėsena.
+
+24 straipsnis. Teisinio reguliavimo stebėsenos subjektai, atlikimo tvarka ir viešumas
+
+1. Teisinio reguliavimo stebėseną atlieka valstybės ir savivaldybių institucijos ir įstaigos pagal teisės aktuose nustatytą kompetenciją; be to, gali būti sudarytos teisinio reguliavimo stebėsenos darbo grupės.
+
+2. Teisės aktuose nustatyto teisinio reguliavimo stebėsena atliekama, kai tai reikalinga įvertinus teisinio reguliavimo aktualumą ir problemiškumą. Teisės akte gali būti numatyta pareiga atlikti šiame teisės akte nustatyto teisinio reguliavimo stebėseną.
+
+3. Teisinio reguliavimo stebėseną atliekanti valstybės ar savivaldybės institucija ar įstaiga arba jos įgaliotas asmuo Teisės aktų informacinėje sistemoje paskelbia:
+
+1) informaciją apie teisinio reguliavimo, kurio stebėsena yra atliekama, sritį;
+
+2) teisės aktus, nustatančius teisinį reguliavimą, kurio stebėsena yra atliekama;
+
+3) teisinio reguliavimo stebėsenos atlikimo pradžios ir pabaigos terminus;
+
+4) teisinio reguliavimo stebėseną atliekantį subjektą (subjektus) ir už teisinio reguliavimo stebėseną atsakingą asmenį (asmenis).
+
+4. Teisinio reguliavimo stebėseną atlikęs subjektas parengia ir Teisės aktų informacinėje sistemoje paskelbia teisinio reguliavimo stebėsenos pažymą, kurioje išdėsto teisinio reguliavimo stebėsenos rezultatus, kartu įvertindamas asmenų pateiktus pasiūlymus dėl teisinio reguliavimo, kurio stebėsena atliekama, ir reikalingumą keisti teisinį reguliavimą.
+
+5. Vyriausybė paskiria teisinio reguliavimo stebėseną koordinuojančią instituciją, kuri kasmet pateikia Vyriausybei teisinio reguliavimo stebėsenos ataskaitą.
+
+6. Teisinio reguliavimo stebėsenos atlikimo tvarką ir teisinio reguliavimo stebėsenos pažymos formą nustato Vyriausybė ar jos įgaliota institucija.
+
+PENKTASIS SKIRSNIS
+
+BAIGIAMOSIOS NUOSTATOS
+
+25 straipsnis. Lietuvos Respublikos įstatymų ir kitų teisės aktų registro reorganizavimas
+
+1. Lietuvos Respublikos įstatymų ir kitų teisės aktų registras reorganizuojamas į Teisės aktų registrą, kurio valdytojas ir tvarkytojas yra Lietuvos Respublikos Seimo kanceliarija.
+
+2. Lietuvos Respublikos įstatymų ir kitų teisės aktų registras reorganizuojamas laikantis Valstybės informacinių išteklių valdymo įstatyme nustatytos tvarkos.
+
+3. Valstybės įmonė Registrų centras iki 2013 m. rugpjūčio 31 d. perduoda Lietuvos Respublikos įstatymų ir kitų teisės aktų registro duomenis, dokumentus ir šiam registrui tvarkyti naudojamą techninę ir programinę įrangą Lietuvos Respublikos Seimo kanceliarijai. Šis perdavimas įforminamas turto perdavimo ir priėmimo aktu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2314, 2012-11-06, Žin., 2012, Nr. 132-6642 (2012-11-15), i. k. 1121010ISTA0XI-2314
+
+4. Teisės aktų registro veiklos pradžia – 2013 m. rugsėjo 1 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2314, 2012-11-06, Žin., 2012, Nr. 132-6642 (2012-11-15), i. k. 1121010ISTA0XI-2314
+
+26 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+
+1. Šis įstatymas, išskyrus 25 ir 28 straipsnius, įsigalioja 2014 m. sausio 1 d.
+
+2. Teisės aktų registre tvarkomi ir iki šio įstatymo įsigaliojimo Lietuvos Respublikos įstatymų ir kitų teisės aktų registre sukaupti teisės aktai.
+
+3. Teisės aktai, kurie buvo pateikti „Valstybės žinių“ redakcijai, bet nepaskelbti iki šio įstatymo įsigaliojimo, ne vėliau kaip kitą darbo dieną po šio įstatymo įsigaliojimo įregistruojami ir paskelbiami Teisės aktų registre.
+
+4. Galiojančiuose teisės aktuose nustatytas įpareigojimas skelbti informaciją leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ reiškia įpareigojimą tą informaciją skelbti atitinkamo subjekto interneto svetainėje, jeigu teisės aktuose nenustatyta kitaip.
+
+5. Savivaldybių administracijos iki 2014 m. liepos 31 d. pateikia Teisės aktų registrui 2014 m. sausio 1 d. galiojančius savivaldybių institucijų norminius teisės aktus elektronine forma, suvestinės šių teisės aktų redakcijos Teisės aktų registre paskelbiamos iki 2015 m. balandžio 15 d.
+
+6. Visos suvestinės teisės aktų redakcijos Teisės aktų registre turi būti paskelbtos iki 2015 m. balandžio 30 d.
+
+7. Nacionalinė teismų administracija parengia elektronine forma iki 2014 m. sausio 1 d. priimtų Lietuvos Aukščiausiojo Teismo, Lietuvos vyriausiojo administracinio teismo sprendimus, nutartis ir nutarimus, taip pat administracinių teismų įsiteisėjusius sprendimus dėl norminių administracinių aktų teisėtumo ir iki 2015 m. birželio 30 d. pateikia Teisės aktų registrui.
+
+Straipsnio pakeitimai:
+
+Nr. XI-2314, 2012-11-06, Žin., 2012, Nr. 132-6642 (2012-11-15), i. k. 1121010ISTA0XI-2314
+
+27 straipsnis. Netekę galios teisės aktai
+
+Įsigaliojus šiam įstatymui, netenka galios:
+
+1) Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ (Žin., 1993, Nr. 12-296);
+
+2) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymas (Žin., 1995, Nr. 41-991);
+
+3) Lietuvos Respublikos įstatymų ir kitų teisės aktų registro įstatymas (Žin., 1995, Nr. 41-992);
+
+4) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ 3 straipsnio papildymo įstatymas (Žin., 1996, Nr. 67-1604);
+
+5) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo 4, 6, 7, 8, 9 ir 11 straipsnių pakeitimo ir papildymo įstatymas (Žin., 1996, Nr. 68-1632);
+
+6) Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 14 straipsnio pakeitimo įstatymas (Žin., 1996, Nr. 125-2894);
+
+7) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo 11 straipsnio pakeitimo įstatymas (Žin., 1997, Nr. 111-2796);
+
+8) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo 4 straipsnio papildymo įstatymas (Žin., 1998, Nr. 6-114);
+
+9) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ 2, 3, 8, 9, 10, 15, 16, 17 straipsnių pakeitimo, papildymo 101 straipsniu ir 7 straipsnio pripažinimo netekusiu galios įstatymas (Žin., 1999, Nr. 48-1524);
+
+10) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo 7 straipsnio pakeitimo įstatymas (Žin., 1999, Nr. 48-1527);
+
+11) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ 2 ir 17 straipsnių pakeitimo įstatymas (Žin., 1999, Nr. 60-1949);
+
+12) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ 4 ir 6 straipsnių papildymo įstatymas (Žin., 2000, Nr. 52-1483);
+
+13) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ 2, 15 ir 17 straipsnių papildymo įstatymas (Žin., 2001, Nr. 82-2831);
+
+14) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo 4, 5 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 121 straipsniu įstatymas (Žin., 2002, Nr. 66-2705);
+
+15) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ pakeitimo įstatymas (Žin., 2002, Nr. 124-5626);
+
+16) Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 1, 3, 4, 8, 10, 17, 18, 19, 23 straipsnių pakeitimo ir papildymo įstatymas (Žin., 2003, Nr. 108-4814);
+
+17) Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 1, 2, 3, 9, 11, 12, 13 straipsnių pakeitimo ir papildymo įstatymas (Žin., 2005, Nr. 88-3294);
+
+18) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo 4 straipsnio pakeitimo įstatymas (Žin., 2006, Nr. 127-4823);
+
+19) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo 11 straipsnio pakeitimo įstatymas (Žin., 2006, Nr. 141-5400);
+
+20) Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 3, 12 straipsnių pakeitimo ir Įstatymo papildymo 31 straipsniu įstatymas (Žin., 2007, Nr. 12-493);
+
+21) Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 12 straipsnio pakeitimo įstatymas (Žin., 2010, Nr. 48-2298);
+
+22) Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas (Žin., 2011, Nr. 72-3471).
+
+28 straipsnis. Pasiūlymai Vyriausybei ir kitoms valstybės ir savivaldybių institucijoms ir įstaigoms
+
+1. Vyriausybė iki 2012 m. rugsėjo 1 d. pateikia Seimui įstatymų, kuriuos būtina pakeisti priėmus Teisėkūros pagrindų įstatymą, projektus.
+
+2. Vyriausybė ir kitos šiame įstatyme nurodytos valstybės ir savivaldybių institucijos ir įstaigos iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2314, 2012-11-06, Žin., 2012, Nr. 132-6642 (2012-11-15), i. k. 1121010ISTA0XI-2314
+
+Lietuvos Respublikos teisėkūros pagrindų įstatymo 25 ir 26 straipsnių pakeitimo įstatymas
+
+161 straipsnis. Numatomo teisinio reguliavimo poveikio konkurencijai vertinimas
+
+Lietuvos Respublikos konkurencijos įstatymo nustatytais atvejais teisės aktų projektų rengėjai atlieka teisės aktų projektų poveikio konkurencijai vertinimą. Šio vertinimo tvarką nustato Vyriausybė.
+
+Papildyta straipsniu:
+
+Nr. XIII-2220, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10162
+
+241 straipsnis. Galiojančio teisinio reguliavimo poveikio ex post vertinimo subjektai
+
+1. Galiojančio teisinio reguliavimo poveikio ex post vertinimą atlieka ministerijos pagal atitinkamam ministrui pavestas valdymo sritis.
+
+2. Valstybės ir savivaldybių institucijos ir įstaigos pagal teisės aktuose nustatytą kompetenciją teikia šio straipsnio 1 dalyje nurodytoms institucijoms informaciją, reikalingą galiojančio teisinio reguliavimo poveikio ex post vertinimui atlikti.
+
+3. Vyriausybė paskiria galiojančio teisinio reguliavimo poveikio ex post vertinimą koordinuojančią instituciją. Ši institucija:
+
+1) sudaro, reguliariai atnaujina ir skelbia aktualų teisės aktų, kuriuose nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimas atliekamas ar planuojamas atlikti, sąrašą;
+
+2) teikia metodines konsultacijas dėl galiojančio teisinio reguliavimo poveikio ex post vertinimo atlikimo tvarkos;
+
+3) teikia nuomones dėl galiojančio teisinio reguliavimo poveikio ex post vertinimo ataskaitų projektų;
+
+4) renka, kaupia informaciją ir analizuoja galiojančio teisinio reguliavimo poveikio ex post vertinimo praktiką, teigiamas ir neigiamas tendencijas ir kasmet iki vasario 1 dienos pateikia Vyriausybei informaciją apie galiojančio teisinio reguliavimo poveikio ex post vertinimo tendencijas, jų priežastis, pasiūlymus dėl galiojančio teisinio reguliavimo poveikio ex post vertinimo tobulinimo;
+
+5) gali siūlyti šio straipsnio 1 dalyje nurodytoms institucijoms atlikti galiojančio teisinio reguliavimo poveikio ex post vertinimą arba į rengiamus įstatymų projektus įtraukti nuostatas dėl poreikio atlikti galiojančio teisinio reguliavimo poveikio ex post vertinimą.
+
+242 straipsnis. Galiojančio teisinio reguliavimo poveikio ex post vertinimo tvarka
+
+1. Galiojančio teisinio reguliavimo poveikio ex post vertinimas atliekamas vadovaujantis galiojančio teisinio reguliavimo poveikio ex post vertinimo metodika. Šią metodiką tvirtina Vyriausybė ar jos įgaliota institucija.
+
+2. Ministerija, atlikusi galiojančio teisinio reguliavimo poveikio ex post vertinimą, parengia galiojančio teisinio reguliavimo poveikio ex post vertinimo ataskaitos projektą ir dėl jo gauna šio įstatymo 241 straipsnio 3 dalyje nurodytos institucijos nuomonę.
+
+3. Įvertinusi šio įstatymo 241 straipsnio 3 dalyje nurodytos institucijos nuomonę, ministerija, atlikusi galiojančio teisinio reguliavimo poveikio ex post vertinimą, parengia galutinę galiojančio teisinio reguliavimo poveikio ex post vertinimo ataskaitą. Šios ataskaitos formą nustato Vyriausybė ar jos įgaliota institucija.
+
+243 straipsnis. Galiojančio teisinio reguliavimo poveikio ex post vertinimo viešinimas
+
+1. Informacija apie teisės akte nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimą skelbiama Teisės aktų registre.
+
+2. Teisės aktų, kuriuose nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimas atliekamas ar planuojamas atlikti, sąrašas skelbiamas Teisės aktų informacinėje sistemoje ir šio įstatymo 241 straipsnio 3 dalyje nurodytos institucijos interneto svetainėje.
+
+3. Galiojančio teisinio reguliavimo poveikio ex post vertinimą atliekanti ministerija informaciją, susijusią su galiojančio teisinio reguliavimo poveikio ex post vertinimu, skelbia Teisės aktų informacinėje sistemoje. Šioje informacinėje sistemoje ir galiojančio teisinio reguliavimo poveikio ex post vertinimą atlikusios ministerijos interneto svetainėje per penkias darbo dienas nuo parengimo paskelbiama galiojančio teisinio reguliavimo poveikio ex post vertinimo ataskaita.
+
+Skirsnio pakeitimai:
+
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+
+PENKTASIS SKIRSNIS
+
+BAIGIAMOSIOS NUOSTATOS
+
+162 straipsnis. Numatomo teisinio reguliavimo poveikio regionų plėtrai vertinimas
+
+Teisės akto projekto rengėjas atlieka teisės akto projekto poveikio regionų plėtrai vertinimą, kai teisės akto projektu nustatomas, keičiamas ar panaikinamas teisinis reguliavimas gali turėti įtakos regionų plėtrai. Teisinio reguliavimo poveikio regionų plėtrai vertinimo tvarką nustato Vyriausybė.
+
+Papildyta straipsniu:
+
+Nr. XIII-3045, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13961
+
+51 straipsnis. Asmens įrašymas į asmenų, darančių įtaką teisėkūrai, sąrašą, asmens teisės ir pareigos, asmens išbraukimas iš asmenų, darančių įtaką teisėkūrai, sąrašo
+
+1. Asmuo, siekiantis daryti įtaką teisėkūrai, gali savanoriškai pateikti Vyriausiajai tarnybinės etikos komisijai prašymą jį įrašyti į asmenų, darančių įtaką teisėkūrai, sąrašą.
+
+2. Prašyme įrašyti į asmenų, darančių įtaką teisėkūrai, sąrašą nurodoma:
+
+1) vardas ir pavardė, asmens kodas, gyvenamoji vieta, darbo vieta ir pareigos per paskutinius vienus metus nuo prašymo pateikimo dienos, kai prašymą teikia fizinis asmuo;
+
+2) pavadinimas, juridinio asmens kodas, kai prašymą teikia juridinis asmuo;
+
+3) teisinio reguliavimo sritis (sritys), kurioje (kuriose) asmuo siekia daryti įtaką teisėkūrai.
+
+3. Vyriausioji tarnybinės etikos komisija per penkias darbo dienas nuo šio straipsnio 2 dalyje nurodyto prašymo pateikimo dienos priima sprendimą dėl asmens įrašymo į asmenų, darančių įtaką teisėkūrai, sąrašą. Jeigu reikia papildomos informacijos ar dokumentų, būtinų sprendimui priimti, šioje dalyje nurodytas terminas skaičiuojamas nuo visos reikiamos informacijos ar dokumentų gavimo dienos.
+
+4. Vyriausioji tarnybinės etikos komisija atsisako įrašyti asmenį į asmenų, darančių įtaką teisėkūrai, sąrašą tik tuo atveju, kai prašymą pateikęs asmuo pateikė neteisingus ar neišsamius šiame straipsnyje nurodytus duomenis ir (ar) papildomą informaciją. Tokiu atveju Vyriausioji tarnybinės etikos komisija pateikia asmeniui motyvuotą sprendimą atsisakyti įrašyti jį į asmenų, darančių įtaką teisėkūrai, sąrašą. Vyriausioji tarnybinės etikos komisija apie priimtą sprendimą įrašyti ar atsisakyti įrašyti asmenį į asmenų, darančių įtaką teisėkūrai, sąrašą prašymą pateikusiam asmeniui praneša raštu per tris darbo dienas nuo sprendimo priėmimo dienos.
+
+5. Asmuo, įrašytas į asmenų, darančių įtaką teisėkūrai, sąrašą, turi teisę:
+
+1) gauti iš įstaigų informaciją apie rengiamus teisės aktų projektus pagal asmens prašyme įrašyti į asmenų, darančių įtaką teisėkūrai, sąrašą nurodytas teisinio reguliavimo sritis;
+
+2) teisės aktų nustatyta tvarka dalyvauti rengiant ir rengti teisės aktų projektus, teikti pasiūlymus ir paaiškinimus dėl teisės aktų projektų turinio ir rengimo;
+
+3) savo iniciatyva atlikti teisės aktų, teisės aktų projektų vertinimą, teikti išvadas ir komentarus dėl teisės aktų projektų;
+
+4) aiškinti visuomenei, įtikinėti įstaigas ar kitus teisėkūroje dalyvaujančius subjektus, kad yra tikslinga priimti tam tikrą teisės aktą arba jo nepriimti;
+
+5) teisės aktų nustatyta tvarka dalyvauti rengiamuose susitikimuose, posėdžiuose, pasitarimuose dėl teisės aktų projektų;
+
+6) siekdamas daryti įtaką teisėkūrai, gauti iš įstaigų leidimus (įskaitant nuolatinius leidimus) patekti į jų patalpas, jeigu tai neprieštarauja tam tikrų įstaigų veiklą reglamentuojančių specialiųjų įstatymų ir kitų teisės aktų nuostatoms;
+
+7) rinkti duomenis ir informaciją apie teisėkūros procedūras;
+
+8) siūlyti teisėkūroje dalyvaujantiems subjektams susitikti su visuomene;
+
+9) organizuoti visuomenės apklausą dėl teisės aktų projektų priėmimo ar įgyvendinimo;
+
+10) gauti iš įstaigų teisės aktų projektų kopijas ir kitą informaciją, jeigu tai neprieštarauja Lietuvos Respublikos įstatymams ir prašoma informacija nėra viešai paskelbta kibernetinėje erdvėje ar visuomenės informavimo priemonėse. Informacija, kurią rengiant nereikia pateikti didelės apimties ar specialiai adaptuotų, apdorotų ar kitaip perdirbtų dokumentų, asmenims pateikiama ne vėliau kaip per tris darbo dienas nuo asmens prašymo gavimo įstaigoje dienos, o informacija, kurią rengiant reikia pateikti didelės apimties ar specialiai adaptuotus, apdorotus ar kitaip perdirbtus dokumentus, – ne vėliau kaip per septynias darbo dienas nuo asmens prašymo gavimo įstaigoje dienos. Įstaigos, atsisakiusios teikti informaciją, ne vėliau kaip kitą darbo dieną nuo asmens prašymo gavimo įstaigoje dienos turi raštu pranešti apie atsisakymo suteikti informaciją priežastis.
+
+6. Asmuo, įrašytas į asmenų, darančių įtaką teisėkūrai, sąrašą, privalo:
+
+1) prisistatyti įstaigoms ar kitiems teisėkūroje dalyvaujantiems subjektams (nurodyti savo vardą, pavardę, o kai veikia juridinio asmens vardu, – ir juridinio asmens pavadinimą), kai siekia daryti įtaką teisėkūrai, nurodyti norimus priimti arba nepriimti teisės aktų projektus;
+
+2) šio įstatymo nustatyta tvarka teikti metines skaidrių teisėkūros procesų deklaracijas;
+
+3) laikytis šio įstatymo, kitų Lietuvos Respublikos teisės aktų reikalavimų.
+
+7. Asmuo Vyriausiosios tarnybinės etikos komisijos sprendimu išbraukiamas iš asmenų, darančių įtaką teisėkūrai, sąrašo, jeigu jis:
+
+1) kreipėsi raštu į Vyriausiąją tarnybinės etikos komisiją dėl išbraukimo iš asmenų, darančių įtaką teisėkūrai, sąrašo;
+
+2) po įspėjimo per Vyriausiosios tarnybinės etikos komisijos nustatytą papildomą terminą nepateikia metinės skaidrių teisėkūros procesų deklaracijos.
+
+8. Asmuo, šio straipsnio 7 dalies 2 punkte nurodytu atveju išbrauktas iš asmenų, darančių įtaką teisėkūrai, sąrašo, vienus metus nuo sprendimo išbraukti jį iš asmenų, darančių įtaką teisėkūrai, sąrašo, įsigaliojimo dienos negali būti įrašytas į asmenų, darančių įtaką teisėkūrai, sąrašą.
+
+Papildyta straipsniu:
+
+Nr. XIII-3171, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15503
+
+52 straipsnis. Metinė skaidrių teisėkūros procesų deklaracija
+
+1. Asmuo, įrašytas į asmenų, darančių įtaką teisėkūrai, sąrašą, privalo kasmet pateikti metinę skaidrių teisėkūros procesų deklaraciją ir deklaruoti savo daromą įtaką teisėkūrai. Praėjusių metų skaidrių teisėkūros procesų deklaracijos turi būti pateiktos ne vėliau kaip iki einamųjų kalendorinių metų, einančių po nurodyto laikotarpio, vasario 1 dienos elektroninėmis priemonėmis Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka Vyriausiosios tarnybinės etikos komisijos skaidrių teisėkūros procesų informacinėje sistemoje (toliau – Skaidrių teisėkūros procesų informacinė sistema).
+
+2. Metinėje skaidrių teisėkūros procesų deklaracijoje asmuo, įrašytas į asmenų, darančių įtaką teisėkūrai, sąrašą, privalo nurodyti:
+
+1) savo vardą, pavardę ar juridinio asmens pavadinimą;
+
+2) teisės akto, teisės akto projekto, dėl kurio buvo daroma įtaka teisėkūrai, pavadinimą ir norimo pakeisti dalyko trumpą apibūdinimą;
+
+3) informaciją apie dalyvavimą darbo grupėse (komisijose) teisės aktų projektams rengti;
+
+4) įstaigas, kuriose buvo siekiama daryti įtaką teisėkūrai, ar kitus teisėkūroje dalyvaujančius subjektus, kuriems buvo siekiama daryti įtaką dėl teisėkūros.
+
+3. Asmenį, kuris šiame straipsnyje nustatyta tvarka nepateikė metinės skaidrių teisėkūros procesų deklaracijos, Vyriausioji tarnybinės etikos komisija įspėja raštu ir nustato ne trumpesnį kaip keturiolikos dienų ir ne ilgesnį kaip vieno mėnesio papildomą metinės skaidrių teisėkūros procesų deklaracijos pateikimo terminą.
+
+4. Metinės skaidrių teisėkūros procesų deklaracijos formą nustato Vyriausioji tarnybinės etikos komisija.
+
+Papildyta straipsniu:
+
+Nr. XIII-3171, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15503
+
+53 straipsnis. Informacija apie daromą įtaką teisėkūrai
+
+1. Siekiant užtikrinti daromos įtakos teisėkūrai viešumą ir skaidrumą, Skaidrių teisėkūros procesų informacinėje sistemoje tvarkoma ir Vyriausiosios tarnybinės etikos komisijos interneto svetainėje viešai skelbiama:
+
+1) informacija apie asmenis, įrašytus į asmenų, darančių įtaką teisėkūrai, sąrašą: asmens vardas, pavardė ar juridinio asmens pavadinimas, teisinio reguliavimo sritis (sritys), kurioje (kuriose) asmuo siekia daryti įtaką teisėkūrai, Vyriausiosios tarnybinės etikos komisijos sprendimo įrašyti asmenį į asmenų, darančių įtaką teisėkūrai, sąrašą data ir numeris, pateiktos metinės skaidrių teisėkūros procesų deklaracijos, informacija apie asmens išbraukimą iš asmenų, darančių įtaką teisėkūrai, sąrašo;
+
+2) šio įstatymo 52 straipsnio 2 dalyje nurodyti metinių skaidrių teisėkūros procesų deklaracijų duomenys;
+
+3) Respublikos Prezidento, Seimo, Lietuvos Respublikos Vyriausybės narių, viceministrų, Vyriausybės, ministerijų kanclerių, parlamentinių politinių partijų vadovų, merų, savivaldybių tarybų narių, savivaldybių administracijų direktorių ir jų pavaduotojų savanoriškai deklaruota informacija apie jiems darytą įtaką dėl teisėkūros.
+
+2. Šio straipsnio 1 dalies 1 punkte nurodyti duomenys Vyriausiosios tarnybinės etikos komisijos interneto svetainėje viešai skelbiami nuo asmens įrašymo į asmenų, darančių įtaką teisėkūrai, sąrašą ir dar trejus metus po asmens išbraukimo iš asmenų, darančių įtaką teisėkūrai, sąrašo.
+
+3. Šio straipsnio 1 dalies 2 punkte nurodyti duomenys Vyriausiosios tarnybinės etikos komisijos interneto svetainėje viešai skelbiami trejus metus nuo metinių skaidrių teisėkūros procesų deklaracijų paskelbimo.
+
+4. Šio straipsnio 1 dalies 3 punkte nurodyti duomenys Vyriausiosios tarnybinės etikos komisijos interneto svetainėje viešai skelbiami trejus metus nuo informacijos paskelbimo.
+
+Papildyta straipsniu:
+
+Nr. XIII-3171, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15503
+
+244 straipsnis. Teisės aktų projektų rengimas, teisės aktų skelbimas ir įsigaliojimas nepaprastosios ar karo padėties metu
+
+1. Nepaprastosios ar karo padėties metu, kai nėra galimybės teisėkūrai naudoti Teisės aktų informacinės sistemos, įstatymų ir kitų teisės aktų projektai rengiami, šio įstatymo 5 straipsnio 2 dalyje nurodyta informacija ir dokumentai tvarkomi ir skelbiami kitomis prieinamomis priemonėmis ir būdais.
+
+2. Nepaprastosios ar karo padėties metu, kai nėra galimybių teisės aktus skelbti Teisės aktų registre, teisės aktai, išskyrus šio įstatymo 245 ir 246 straipsniuose nurodytuosius, ne vėliau kaip per tris kalendorines dienas po pasirašymo oficialiai paskelbiami visuomenės informavimo priemonėse ir įsigalioja mutatis mutandis šio įstatymo 20 straipsnyje nustatyta tvarka.
+
+3. Lietuvos Respublikos mokesčių įstatymams, nustatantiems naujus mokesčius, naujus mokesčio tarifus, mokesčio lengvatas, sankcijas už mokesčių įstatymų pažeidimus arba iš esmės pakeičiantiems apmokestinimo tam tikru mokesčiu tvarką ar apmokestinimo teisinio reglamentavimo bei taikymo principus, ir teisės aktams, keičiantiems ar nustatantiems naują ūkio subjektų veiklos ar jos priežiūros teisinį reguliavimą, kai tas teisinis reguliavimas arba jo pakeitimai reikalingi nepaprastosios padėties įvedimo tikslams pasiekti ar valstybės gynybai, kitoms gyvybiškai svarbioms valstybės funkcijoms mobilizacijos ar karo padėties metu atlikti, šio įstatymo 20 straipsnio 3 ir 4 dalyse nustatyti reikalavimai dėl teisės aktų įsigaliojimo netaikomi.
+
+245 straipsnis. Seimo nutarimų dėl mobilizacijos ar demobilizacijos skelbimo, karo arba nepaprastosios padėties įvedimo ar atšaukimo, ginkluotųjų pajėgų panaudojimo, Respublikos Prezidento dekretų dėl mobilizacijos skelbimo, karo padėties įvedimo ar atšaukimo, nepaprastosios padėties įvedimo, gynybos nuo ginkluotos agresijos skelbimas ir įsigaliojimas
+
+1. Seimo nutarimas dėl mobilizacijos ar demobilizacijos skelbimo, karo arba nepaprastosios padėties įvedimo ar atšaukimo, ginkluotųjų pajėgų panaudojimo, Respublikos Prezidento dekretas dėl mobilizacijos skelbimo, karo padėties įvedimo ar atšaukimo, nepaprastosios padėties įvedimo, gynybos nuo ginkluotos agresijos nedelsiant registruojamas ir oficialiai skelbiamas Teisės aktų registre, išskyrus atvejus, kai juos skelbti Teisės aktų registre nėra galimybių, ir visuomenės informavimo priemonėse.
+
+2. Seimo nutarimas dėl mobilizacijos ar demobilizacijos skelbimo, karo arba nepaprastosios padėties įvedimo ar atšaukimo, ginkluotųjų pajėgų panaudojimo, Respublikos Prezidento dekretas dėl karo padėties atšaukimo, nepaprastosios padėties įvedimo įsigalioja nuo oficialaus paskelbimo Teisės aktų registre ir (ar) visuomenės informavimo priemonėse, priklausomai nuo to, kur paskelbta anksčiau.
+
+3. Respublikos Prezidento dekretas dėl mobilizacijos skelbimo, karo padėties įvedimo, gynybos nuo ginkluotos agresijos įsigalioja nuo dekreto pasirašymo.
+
+246 straipsnis. Konstitucinio Teismo aktų ir Konstitucinio Teismo pirmininko pranešimų paskelbimas ir įsigaliojimas, kitų teismų sprendimų skelbimas nepaprastosios ar karo padėties metu
+
+1. Nepaprastosios ar karo padėties metu, kai nėra galimybių Teisės aktų registre skelbti Konstitucinio Teismo nutarimų ir sprendimų dėl Konstitucinio Teismo nutarimo išaiškinimo, taip pat Konstitucinio Teismo pirmininko pranešimų dėl ginčijamo akto galiojimo sustabdymo ir dėl sustabdyto akto galiojimo atnaujinimo, šie Konstitucinio Teismo aktai ir Konstitucinio Teismo pirmininko pranešimai ne vėliau kaip per tris kalendorines dienas po pasirašymo oficialiai paskelbiami visuomenės informavimo priemonėse ir įsigalioja oficialaus paskelbimo dieną.
+
+2. Nepaprastosios ar karo padėties metu, kai nėra galimybių Teisės aktų registre skelbti Lietuvos Aukščiausiojo Teismo ir Lietuvos vyriausiojo administracinio teismo sprendimų, nutarčių, nutarimų, taip pat visų įsiteisėjusių administracinių teismų sprendimų dėl norminių administracinių aktų teisėtumo, šie sprendimai, nutartys ir nutarimai skelbiami visuomenės informavimo priemonėse.
+
+Papildyta skirsniu:
+
+Nr. XIII-3243, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15880
+
+PENKTASIS SKIRSNIS
+
+BAIGIAMOSIOS NUOSTATOS
+
