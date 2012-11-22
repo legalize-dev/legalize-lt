@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2012-11-08"
+last_updated: "2012-11-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -3507,9 +3507,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1689, 2008-07-03,
+X-1689,
 
-Žin., 2008, Nr. 81-3189 (2008-07-17)
+2008-07-03, Žin., 2008, Nr. 81-3189 (2008-07-17)
 
 VALSTYBĖS
 
@@ -8257,7 +8257,9 @@ A
 
 7.
 
-Respublikos Prezidento atstovas spaudai,
+Respublikos
+
+Prezidento atstovas spaudai,
 
 Seimo Pirmininko atstovas spaudai,
 
@@ -8271,17 +8273,15 @@ vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame
 
 padalinyje),
 
-skyriaus vedėjo pavaduotojas
+skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam
 
-(taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame
+kitame struktūriniame padalinyje), Seimo nuolatinio atstovo Europos Sąjungoje
 
-padalinyje),
+pavaduotojas,
 
 patarėjas,
 
-seniūnas (savivaldybėje),
-
-teismo pirmininko padėjėjas,
+seniūnas (savivaldybėje), teismo pirmininko padėjėjas,
 
 teisėjo padėjėjas,
 
@@ -8293,9 +8293,7 @@ departamento patarėjas,
 
 skyriaus
 
-vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me
-
-padalinyje),
+vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje),
 
 skyriaus
 
@@ -8411,7 +8409,9 @@ vedėjas,
 
 skyriaus vedėjo pavaduotojas
 
-(taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje),
+(taikoma struktūriniam padaliniui, esančiam kitame struktūriniame
+
+padalinyje),
 
 specialusis atašė,
 
@@ -8431,9 +8431,9 @@ skyriaus patarėjas,
 
 skyriaus
 
-vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me
+vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame
 
-padalinyje)
+struktūrinia-me padalinyje)
 
 poskyrio
 
@@ -8713,9 +8713,7 @@ prokuroro padėjėjas
 
 būrio vadas,
 
-vyresnysis
-
-specialistas,
+vyresnysis specialistas,
 
 vyresnysis
 
@@ -9209,9 +9207,7 @@ ministro patarėjas,
 
 mero patarėjas,
 
-Vyriausybės įgaliotinis, Ministro Pirmininko tarnybos departamento
-
-direktorius
+Vyriausybės įgaliotinis, Ministro Pirmininko tarnybos departamento direktorius
 
 departamento
 
@@ -9385,17 +9381,15 @@ vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame
 
 padalinyje),
 
-skyriaus vedėjo pavaduotojas
+skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam
 
-(taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame
+kitame struktūriniame padalinyje), Seimo nuolatinio atstovo Europos Sąjungoje
 
-padalinyje),
+pavaduotojas,
 
 patarėjas,
 
-seniūnas (savivaldybėje),
-
-teismo pirmininko padėjėjas,
+seniūnas (savivaldybėje), teismo pirmininko padėjėjas,
 
 teisėjo padėjėjas,
 
@@ -9475,7 +9469,9 @@ posto
 
 viršininko pavaduotojas
 
-A 14–16
+A
+
+14–16
 
 A
 
@@ -9485,9 +9481,13 @@ A
 
 12–14
 
-A 11–13
+A
 
-A 10–12
+11–13
+
+A
+
+10–12
 
 8.
 
@@ -10505,17 +10505,15 @@ vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame
 
 padalinyje),
 
-skyriaus vedėjo pavaduotojas
+skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam
 
-(taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame
+kitame struktūriniame padalinyje), Seimo nuolatinio atstovo Europos Sąjungoje
 
-padalinyje),
+pavaduotojas,
 
 patarėjas,
 
-seniūnas (savivaldybėje),
-
-teismo pirmininko padėjėjas,
+seniūnas (savivaldybėje), teismo pirmininko padėjėjas,
 
 teisėjo padėjėjas,
 
@@ -10595,7 +10593,9 @@ posto
 
 viršininko pavaduotojas
 
-A 15–16
+A
+
+15–16
 
 A
 
@@ -11275,17 +11275,17 @@ Nr. XI-53, 2008-12-09,
 
 Nr.
 
-XI-119,
+XI-119, 2008-12-23,
 
-2008-12-23, Žin., 2008, Nr. 149-6039 (2008-12-30)
+Žin., 2008, Nr. 149-6039 (2008-12-30)
 
 Nr. XI-121,
 
 2008-12-23, Žin., 2008, Nr. 149-6041 (2008-12-30)
 
-Nr. XI-186,
+Nr. XI-186, 2009-03-10,
 
-2009-03-10, Žin., 2009, Nr. 29-1140 (2009-03-17)
+Žin., 2009, Nr. 29-1140 (2009-03-17)
 
 Nr. XI-320,
 
@@ -11326,6 +11326,12 @@ Nr.
 XI-2297,
 
 2012-10-17, Žin., 2012, Nr. 129-6471 (2012-11-08)
+
+Nr.
+
+XI-2381,
+
+2012-11-08, Žin., 2012, Nr. 135-6869 (2012-11-22)
 
 Pakeitimai:
 
@@ -11535,9 +11541,9 @@ VALSTYBĖS TARNYBOS ĮSTATYMO 15,
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-856,
+Nr. IX-856, 2002-04-23,
 
-2002-04-23, Žin., 2002, Nr. 45-1709 (2002-05-04)
+Žin., 2002, Nr. 45-1709 (2002-05-04)
 
 VALSTYBĖS TARNYBOS ĮSTATYMO PAKEITIMO ĮSTATYMO
 
@@ -11695,9 +11701,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1815, 2003-11-11,
+Nr. IX-1815,
 
-Žin., 2003, Nr. 112-4993 (2003-11-28)
+2003-11-11, Žin., 2003, Nr. 112-4993 (2003-11-28)
 
 VALSTYBĖS
 
@@ -11791,9 +11797,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-2502, 2004-10-26,
+IX-2502,
 
-Žin., 2004, Nr. 163-5940 (2004-11-09)
+2004-10-26, Žin., 2004, Nr. 163-5940 (2004-11-09)
 
 VALSTYBĖS
 
