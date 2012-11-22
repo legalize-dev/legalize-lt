@@ -4,7 +4,7 @@ identifier: "TAR.10E8E285740C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-25"
-last_updated: "2011-01-01"
+last_updated: "2012-11-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.10E8E285740C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos medicinos praktikos įstatymas
 
-Suvestinė redakcija nuo 2011-01-01 iki 2012-11-21
+Suvestinė redakcija nuo 2012-11-22 iki 2015-07-14
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2313, i. k. 0961010ISTA00I-1555
 
@@ -233,7 +233,11 @@ Nr. XI-884, 2010-06-08, Žin., 2010, Nr. 71-3556 (2010-06-19), i. k. 1101010ISTA
 
 2. Panaikinus licencijos galiojimą remiantis šio straipsnio 1 dalies 4, 6 ar 7 punktu, panaikinamas visų turimų licencijų, suteikiančių teisę verstis medicinos gydytojo, šeimos gydytojo ar gydytojo specialisto praktika, galiojimas.
 
-3. Licencijos galiojimą, vadovaudamasi Medicinos praktikos licencijavimo taisyklių nustatyta tvarka, panaikina licencijas išduodanti institucija savo iniciatyva arba kai dėl to kreipiasi šiame straipsnyje nurodytos institucijos šio straipsnio 1 dalyje nurodytais pagrindais, vadovaudamasi Medicinos praktikos licencijavimo taisyklių nustatyta tvarka. Dėl licencijų galiojimo panaikinimo į licencijas išduodančią instituciją turi teisę kreiptis Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, asmens sveikatos priežiūros įstaigų steigėjai ar jų įgaliotų institucijų vadovai, asmens sveikatos priežiūros įstaigos vadovas, gydytojų profesinės organizacijos, pacientų teises ginančios organizacijos.
+3. Licencijos galiojimą, vadovaudamasi Medicinos praktikos licencijavimo taisyklių nustatyta tvarka, panaikina licencijas išduodanti institucija savo iniciatyva arba kai dėl to kreipiasi šiame straipsnyje nurodytos institucijos šio straipsnio 1 dalyje nurodytais pagrindais, vadovaudamasi Medicinos praktikos licencijavimo taisyklių nustatyta tvarka. Dėl licencijų galiojimo panaikinimo į licencijas išduodančią instituciją turi teisę kreiptis Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, asmens sveikatos priežiūros įstaigų steigėjai ar jų įgaliotų institucijų vadovai, asmens sveikatos priežiūros įstaigos vadovas, gydytojų profesinės organizacijos, pacientų teises ginančios organizacijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2371, 2012-11-06, Žin., 2012, Nr. 135-6862 (2012-11-22), i. k. 1121010ISTA0XI-2371
 
 4. Licencijas išduodanti institucija apie sprendimą panaikinti licencijos galiojimą praneša įstaigos, kurioje gydytojas dirbo, vadovui arba jo įgaliotam atstovui.
 
@@ -394,6 +398,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-884, 2010-06-08, Žin., 2010, Nr. 71-3556 (2010-06-19), i. k. 1101010ISTA00XI-884
 
 Lietuvos Respublikos medicinos praktikos įstatymo 4 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2371, 2012-11-06, Žin., 2012, Nr. 135-6862 (2012-11-22), i. k. 1121010ISTA0XI-2371
+
+Lietuvos Respublikos medicinos praktikos įstatymo 6 straipsnio pakeitimo įstatymas
 
 13 straipsnis. Licencijų galiojimo panaikinimo tvarka
 
