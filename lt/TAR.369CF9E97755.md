@@ -4,7 +4,7 @@ identifier: "TAR.369CF9E97755"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-28"
-last_updated: "2011-01-01"
+last_updated: "2012-11-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.369CF9E97755"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymas
 
-Suvestinė redakcija nuo 2011-01-01 iki 2012-11-21
+Suvestinė redakcija nuo 2012-11-22 iki 2015-07-14
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2224, i. k. 1011010ISTA00IX-413
 
@@ -183,7 +183,11 @@ Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA
 
 5. Licencijavimo institucija apie priimtą sprendimą sustabdyti licencijos galiojimą nedelsdama raštu praneša licencijos turėtojui ir slaugos ar akušerijos paslaugas teikiančio juridinio asmens, su kuriuo licencijos turėtojas yra susijęs darbo santykiais, vadovui arba jo įgaliotam atstovui, nurodydama priežastis.
 
-6. Licencijavimo institucija, vadovaudamasi Taisyklėmis, sustabdo licencijos galiojimą savo iniciatyva arba kai dėl to kreipiasi licencijos turėtojas, teisėsaugos institucijos, Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, juridinių asmenų, turinčių asmens sveikatos priežiūros licenciją atitinkamoms slaugos ar akušerijos paslaugoms teikti, vadovai.
+6. Licencijavimo institucija, vadovaudamasi Taisyklėmis, sustabdo licencijos galiojimą savo iniciatyva arba kai dėl to kreipiasi licencijos turėtojas, teisėsaugos institucijos, Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, juridinių asmenų, turinčių asmens sveikatos priežiūros licenciją atitinkamoms slaugos ir akušerijos paslaugoms teikti, vadovai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2373, 2012-11-06, Žin., 2012, Nr. 135-6864 (2012-11-22), i. k. 1121010ISTA0XI-2373
 
 7. Licencijos galiojimo sustabdymas panaikinamas Taisyklių nustatyta tvarka.
 
@@ -207,7 +211,11 @@ Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA
 
 8) licencijos turėtojui mirus.
 
-2. Licencijos galiojimą, vadovaudamasi Taisyklėmis, Licencijavimo institucija panaikina savo iniciatyva arba kai dėl to kreipiasi licencijos turėtojas, teisėsaugos institucijos, Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, juridinių asmenų, turinčių asmens sveikatos priežiūros licenciją atitinkamoms slaugos ar akušerijos paslaugoms teikti, vadovai.
+2. Licencijos galiojimą, vadovaudamasi Taisyklėmis, Licencijavimo institucija panaikina savo iniciatyva arba kai dėl to kreipiasi licencijos turėtojas, teisėsaugos institucijos, Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, juridinių asmenų, turinčių asmens sveikatos priežiūros licenciją atitinkamoms slaugos ir akušerijos paslaugoms teikti, vadovai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2373, 2012-11-06, Žin., 2012, Nr. 135-6864 (2012-11-22), i. k. 1121010ISTA0XI-2373
 
 3. Licencijavimo institucija apie priimtą sprendimą panaikinti licencijos galiojimą nedelsdama raštu praneša licencijos turėtojui ir slaugos ar akušerijos paslaugas teikiančio juridinio asmens, su kuriuo licencijos turėtojas yra susijęs darbo santykiais, vadovui arba jo įgaliotam atstovui, nurodydama priežastis, išskyrus šio straipsnio 1 dalies 8 punkte nurodytą atvejį.
 
