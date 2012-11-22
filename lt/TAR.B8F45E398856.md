@@ -4,7 +4,7 @@ identifier: "TAR.B8F45E398856"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-28"
-last_updated: "2011-01-01"
+last_updated: "2012-11-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8F45E398856"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymas
 
-Suvestinė redakcija nuo 2011-01-01 iki 2012-11-21
+Suvestinė redakcija nuo 2012-11-22 iki 2015-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 35-855, i. k. 0961010ISTA00I-1246
 
@@ -205,11 +205,13 @@ Nr. XI-887, 2010-06-08, Žin., 2010, Nr. 71-3559 (2010-06-19), i. k. 1101010ISTA
 
 3. Vadovaudamasi Odontologijos praktikos licencijavimo taisyklių nustatyta tvarka, licencijos galiojimą panaikina licencijas išduodanti institucija savo iniciatyva arba kai dėl to kreipiasi šio straipsnio 4 dalyje nurodytos institucijos šio straipsnio 1 dalyje nurodytais pagrindais.
 
-4. Dėl licencijos galiojimo panaikinimo į licencijas išduodančią instituciją turi teisę kreiptis Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, savivaldybės gydytojas, asmens sveikatos priežiūros įstaigos vadovas, atitinkamos odontologų profesinės organizacijos, pacientų teises ginančios organizacijos.
+4. Dėl licencijos galiojimo panaikinimo į licencijas išduodančią instituciją turi teisę kreiptis Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, savivaldybės gydytojas, asmens sveikatos priežiūros įstaigos vadovas, atitinkamos odontologų profesinės organizacijos, pacientų teises ginančios organizacijos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-713, 2010-03-30, Žin., 2010, Nr. 41-1938 (2010-04-10), i. k. 1101010ISTA00XI-713
+
+Nr. XI-2372, 2012-11-06, Žin., 2012, Nr. 135-6863 (2012-11-22), i. k. 1121010ISTA0XI-2372
 
 5. Atsižvelgdamas į interneto tinklalapyje paskelbtą licencijas išduodančios institucijos sprendimą panaikinti licencijos galiojimą, darbdavys privalo nutraukti darbo sutartį su odontologu be įspėjimo Lietuvos Respublikos darbo kodekso nustatyta tvarka.
 
@@ -247,11 +249,13 @@ Nr. XI-887, 2010-06-08, Žin., 2010, Nr. 71-3559 (2010-06-19), i. k. 1101010ISTA
 
 5. Licencijos galiojimo sustabdymas panaikinamas Odontologijos praktikos licencijavimo taisyklių nustatyta tvarka.
 
-6. Dėl licencijos galiojimo sustabdymo į licencijas išduodančią instituciją turi teisę kreiptis Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, savivaldybės gydytojas, asmens sveikatos priežiūros įstaigos vadovas, atitinkamos odontologų profesinės organizacijos, pacientų teises ginančios organizacijos.
+6. Dėl licencijos galiojimo sustabdymo į licencijas išduodančią instituciją turi teisę kreiptis Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, savivaldybės gydytojas, asmens sveikatos priežiūros įstaigos vadovas, atitinkamos odontologų profesinės organizacijos, pacientų teises ginančios organizacijos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-713, 2010-03-30, Žin., 2010, Nr. 41-1938 (2010-04-10), i. k. 1101010ISTA00XI-713
+
+Nr. XI-2372, 2012-11-06, Žin., 2012, Nr. 135-6863 (2012-11-22), i. k. 1121010ISTA0XI-2372
 
 TREČIASIS SKIRSNIS
 
@@ -384,6 +388,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-887, 2010-06-08, Žin., 2010, Nr. 71-3559 (2010-06-19), i. k. 1101010ISTA00XI-887
 
 Lietuvos Respublikos odontologijos praktikos įstatymo 4 ir 5 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2372, 2012-11-06, Žin., 2012, Nr. 135-6863 (2012-11-22), i. k. 1121010ISTA0XI-2372
+
+Lietuvos Respublikos odontologijos praktikos įstatymo 5 ir 7 straipsnių pakeitimo įstatymas
 
 12 straipsnis.       Asmenys, turintys teisę į valstybės ar savivaldybių remiamas (nemokamas) stomatologinės priežiūros (pagalbos) paslaugas LNSS įstaigose
 
