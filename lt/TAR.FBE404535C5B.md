@@ -4,7 +4,7 @@ identifier: "TAR.FBE404535C5B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-10-08"
-last_updated: "2012-01-01"
+last_updated: "2012-11-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FBE404535C5B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -25,10 +25,6 @@ paskelbtas: Žin., 1991, Nr. 30-804
 Neoficialus
 
 įstatymo tekstas
-
-Aktuali
-
-įstatymo redakcija nuo 2012-01-01
 
 LIETUVOS RESPUBLIKOS
 
@@ -112,43 +108,41 @@ XI-1832,
 
 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
-1.
+1. Elektroninis
 
-Intelektinės transporto
+keleivinio transporto bilietas – skaitmeninėje duomenų
 
-sistemos – informacinėmis ir
+bazėje saugomas įrašas, patvirtinantis, kad yra sumokėta už vežimo
 
-elektroninių ryšių technologijomis grindžiamos sistemos, skirtos geležinkelių,
+paslaugą.
 
-kelių, jūrų, oro ir vidaus vandenų transporto eismui, įskaitant infrastruktūrą,
+2. Intelektinės transporto sistemos –
 
-transporto priemones ir naudotojus, elektroninį keleivinio transporto bilietą,
+informacinėmis ir elektroninių ryšių technologijomis grindžiamos sistemos,
 
-valdyti, taip pat sąsajoms tarp šių transporto rūšių užtikrinti.
+skirtos geležinkelių, kelių, jūrų, oro ir vidaus vandenų transporto eismui,
 
-2.
+įskaitant infrastruktūrą, transporto priemones ir naudotojus, elektroninį
 
-Intelektinių transporto sistemų
+keleivinio transporto bilietą, valdyti, taip pat sąsajoms tarp šių transporto
 
-paslauga – intelektinių transporto
+rūšių užtikrinti.
 
-sistemų prietaikos veikimo užtikrinimas tinkamai parengtoje organizacinėje ir
+3. Intelektinių transporto sistemų paslauga –
 
-operacinėje sistemoje, siekiant padidinti naudotojo saugumą ir patogumą ir
+intelektinių transporto sistemų prietaikos veikimo užtikrinimas tinkamai
 
-(arba) palengvinti transporto ir kelionių operacijas, padidinti jų veiksmingumą
+parengtoje organizacinėje ir operacinėje sistemoje, siekiant padidinti
 
-arba padėti jas atlikti.
+naudotojo saugumą ir patogumą ir (arba) palengvinti transporto ir kelionių
 
-3.
+operacijas, padidinti jų veiksmingumą arba padėti jas atlikti.
 
-Intelektinių transporto sistemų
+4. Intelektinių transporto sistemų prietaika –
 
-prietaika – intelektinių transporto
+intelektinių transporto sistemų taikymo operacinė priemonė.
 
-sistemų taikymo operacinė priemonė.
-
-4. Kelionių duomenys – viešojo transporto
+5. Kelionių duomenys – viešojo transporto
 
 tvarkaraščiai, tarifai ir kiti duomenys, būtini informacijai apie keliones
 
@@ -156,7 +150,7 @@ daugiarūšiu transportu teikti prieš keliones ir jų metu, siekiant sudaryti
 
 palankesnes kelionių planavimo, užsakymo ir pritaikymo sąlygas.
 
-5. Rinkliava
+6. Rinkliava
 
 už naudojimąsi transporto infrastruktūros objektu (toliau – rinkliava)
 
@@ -164,13 +158,13 @@ už naudojimąsi transporto infrastruktūros objektu (toliau – rinkliava)
 
 užmokestis, kurį to objekto naudotojas moka jo valdytojui ar savininkui.
 
-6. Transportas
+7. Transportas
 
 – sudėtinė Lietuvos Respublikos ūkio dalis, skirta viešiesiems ir ūkio
 
 subjektų poreikiams tenkinti – keleiviams, bagažui ir (arba) kroviniams vežti.
 
-7. Transporto
+8. Transporto
 
 infrastruktūra – sausumos ir vandens, oro kelių, eismo valdymo sistemų, su
 
@@ -178,41 +172,41 @@ jais susijusių statinių, specialiai įrengtų teritorijų, įrenginių ir
 
 konstrukcijų visuma, skirta transporto veiklai užtikrinti.
 
-8. Transporto
+9. Transporto
 
 infrastruktūros objektas – atskiras transporto infrastruktūros elementas,
 
 kuris gali savarankiškai funkcionuoti.
 
-9. Transporto
+10.
 
-infrastruktūros objekto naudotojas – transporto priemonių savininkas arba
+Transporto infrastruktūros objekto naudotojas – transporto priemonių
 
-valdytojas, taip pat ūkio subjektas, kurio veikla galima tik naudojantis
+savininkas arba valdytojas, taip pat ūkio subjektas, kurio veikla galima tik
 
-transporto infrastruktūros objektu.
+naudojantis transporto infrastruktūros objektu.
 
-10. Transporto
+11. Transporto
 
 infrastruktūros objekto valdytojas – fizinis asmuo, juridinis asmuo
 
-ar kita organizacija ar jų padalinys (toliau – fizinis asmuo ar juridinis asmuo),
+ar kita organizacija ar jų padalinys (toliau – fizinis asmuo ar juridinis
 
-teisėtai valdantys transporto infrastruktūros objektą.
+asmuo), teisėtai valdantys transporto infrastruktūros objektą.
 
-11. Transporto
+12. Transporto
 
 objektai – transporto infrastruktūra, transporto priemonės ir kitos su
 
 transporto veikla susijusios priemonės.
 
-12. Transporto
+13. Transporto
 
 priemonė – bet koks savaeigis mechanizmas ar mechanizmų junginys
 
 keleiviams, bagažui ir (arba) kroviniams vežti.
 
-13. Transporto
+14. Transporto
 
 priemonės valstybinė techninė apžiūra (priežiūra) – Lietuvos Respublikoje
 
@@ -220,7 +214,7 @@ priemonės valstybinė techninė apžiūra (priežiūra) – Lietuvos Respubliko
 
 patikrinimas Lietuvos Respublikos teisės aktų nustatyta tvarka.
 
-14.
+15.
 
 Transporto veikla – keleivių, bagažo ir (arba) krovinių vežimas transporto
 
@@ -232,7 +226,7 @@ veikla, tiesiogiai susijusi su transporto infrastruktūra, keleivių, bagažo ir
 
 (arba) krovinių vežimu.
 
-15. Vežėjas
+16. Vežėjas
 
 – fizinis arba juridinis asmuo, kuris verčiasi keleivių, bagažo ir (arba)
 
@@ -240,13 +234,13 @@ krovinių vežimu ir atitinka Lietuvos Respublikos įstatymų nustatytas sąlyga
 
 bei reikalavimus.
 
-16. Viešasis transportas –
+17. Viešasis transportas –
 
 keleivių, bagažo ir (arba) krovinių vežimo nustatytais maršrutais nustatytu
 
 laiku paslauga, teikiama visiems, kurie kreipiasi.
 
-17. Viešoji
+18. Viešoji
 
 transporto infrastruktūra – transporto infrastruktūra, nuosavybės teise
 
@@ -254,31 +248,31 @@ priklausanti valstybei ar savivaldybėms ir skirta keleiviams, bagažui ir (arba
 
 kroviniams vežti.
 
-18. Visuomenės aptarnavimo
+19. Visuomenės aptarnavimo įsipareigojimai
 
-įsipareigojimai – įsipareigojimai organizuoti darbą, vežti ir laikytis
+– įsipareigojimai organizuoti darbą, vežti ir laikytis nustatytų tarifų, kurių
 
-nustatytų tarifų, kurių vežėjas, atsižvelgdamas į komercinius interesus,
+vežėjas, atsižvelgdamas į komercinius interesus, neprisiimtų arba neprisiimtų
 
-neprisiimtų arba neprisiimtų tokiu mastu ar tokiomis pačiomis sąlygomis;
+tokiu mastu ar tokiomis pačiomis sąlygomis; įsipareigojimas organizuoti darbą –
 
-įsipareigojimas organizuoti darbą – įsipareigojimas, nustatytas vežėjui, kuris
+įsipareigojimas, nustatytas vežėjui, kuris turi teisę dirbti pagal licenciją ar
 
-turi teisę dirbti pagal licenciją ar leidimą bet kokio maršruto ar įrangos atžvilgiu,
+leidimą bet kokio maršruto ar įrangos atžvilgiu, kad būtų užtikrintas
 
-kad būtų užtikrintas transporto paslaugų teikimo nenutrūkstamumas, reguliarumas
+transporto paslaugų teikimo nenutrūkstamumas, reguliarumas ir atitinkamas
 
-ir atitinkamas mastas; įpareigojimas vežti – įpareigojimas, nustatytas vežėjui
+mastas; įpareigojimas vežti – įpareigojimas, nustatytas vežėjui priimti ir
 
-priimti ir vežti keleivius ar krovinius, taikant konkrečius tarifus ir pagal
+vežti keleivius ar krovinius, taikant konkrečius tarifus ir pagal nustatytas
 
-nustatytas sąlygas; įsipareigojimas dėl tarifų – įpareigojimas, nustatytas
+sąlygas; įsipareigojimas dėl tarifų – įpareigojimas, nustatytas vežėjui, kad
 
-vežėjui, kad jis tam tikroms keleivių kategorijoms, tam tikros kategorijos
+jis tam tikroms keleivių kategorijoms, tam tikros kategorijos kroviniams arba
 
-kroviniams arba atitinkamiems maršrutams taikytų valstybės ar savivaldybių
+atitinkamiems maršrutams taikytų valstybės ar savivaldybių institucijų
 
-institucijų patvirtintus tarifus, kurie neatitinka vežėjo komercinių interesų.
+patvirtintus tarifus, kurie neatitinka vežėjo komercinių interesų.
 
 Straipsnio pakeitimai:
 
@@ -297,6 +291,12 @@ Nr.
 XI-1832,
 
 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
+
+Nr.
+
+XI-2384,
+
+2012-11-08, Žin., 2012, Nr. 136-6955 (2012-11-24)
 
 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
@@ -486,7 +486,7 @@ savivaldybių institucijos.
 
 2. (Neteko
 
-galios nuo 2012-01-01)
+galios nuo 2012-01-01).
 
 3.
 
@@ -496,13 +496,13 @@ Susisiekimo ministerija:
 
 politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
 
-2)
+2) organizuoja
 
-organizuoja strateginių transporto sistemos plėtojimo programų rengimą, tarp jų
+strateginių transporto sistemos plėtojimo programų rengimą, tarp jų – viešosios
 
-– viešosios transporto infrastruktūros plėtojimo, modernizavimo, eismo saugos
+transporto infrastruktūros plėtojimo, modernizavimo, eismo saugos ir
 
-ir aplinkosaugos, ir užtikrina jų įgyvendinimą;
+aplinkosaugos, ir užtikrina jų įgyvendinimą;
 
 3)
 
@@ -620,9 +620,9 @@ sutartys, šis Įstatymas, specialieji transporto rūšių įstatymai ir kodeksa
 
 bei kiti teisės aktai. Jeigu specialiuosiuose transporto rūšių įstatymuose ir
 
-kodeksuose numatytos kitokios nuostatos negu šiame Įstatyme, taikomos specialiųjų
+kodeksuose numatytos kitokios nuostatos negu šiame Įstatyme, taikomos
 
-transporto rūšių įstatymų ir kodeksų nuostatos.
+specialiųjų transporto rūšių įstatymų ir kodeksų nuostatos.
 
 2.
 
@@ -660,11 +660,11 @@ rūšies  ypatumus.
 
 1.
 
-Transporto veiklos paslaugų tarifai ir kainos grindžiamos laisvosios rinkos kainodaros
+Transporto veiklos paslaugų tarifai ir kainos grindžiamos laisvosios rinkos
 
-principais ir nustatomi sutartyse tarp šalių, jeigu kiti įstatymai nenustato ko
+kainodaros principais ir nustatomi sutartyse tarp šalių, jeigu kiti įstatymai
 
-kita.
+nenustato ko kita.
 
 2.
 
@@ -708,17 +708,19 @@ apžiūros (priežiūros) taisykles nustato ir jų vykdymą kontroliuoja Vyriaus
 
 arba jos įgaliota institucija. Transporto priemonių valstybinę techninę apžiūrą
 
-(priežiūrą) vykdančių įmonių skaičių, jų išdėstymą šalies teritorijoje, atsižvelgiant
+(priežiūrą) vykdančių įmonių skaičių, jų išdėstymą šalies teritorijoje,
 
-į transporto priemonių valstybinės techninės apžiūros (priežiūros) poreikį,
+atsižvelgiant į transporto priemonių valstybinės techninės apžiūros
 
-nustato Vyriausybės įgaliota institucija pagal jos patvirtintą metodiką. Įmonės
+(priežiūros) poreikį, nustato Vyriausybės įgaliota institucija pagal jos
 
-gali atlikti transporto priemonių valstybinę techninę apžiūrą (priežiūrą) tik
+patvirtintą metodiką. Įmonės gali atlikti transporto priemonių valstybinę
 
-turėdamos įgaliotos institucijos suteiktus įgaliojimus (leidimus). Įgaliojimai
+techninę apžiūrą (priežiūrą) tik turėdamos įgaliotos institucijos suteiktus
 
-(leidimai) suteikiami sutartimi arba administraciniu aktu.
+įgaliojimus (leidimus). Įgaliojimai (leidimai) suteikiami sutartimi arba
+
+administraciniu aktu.
 
 4. Transporto priemonių registravimo tvarką nustato,
 
@@ -745,6 +747,60 @@ pilotuoti) transporto priemonę suteikimo dokumentų, išduotų kitose valstybė
 pripažinimo Lietuvos Respublikoje tvarką nustato specialieji transporto rūšių
 
 įstatymai ir kodeksai arba Vyriausybė ar jos įgaliota institucija.
+
+11
+
+straipsnis. Aplinkosauginiai ir kiti reikalavimai
+
+1. Transporto veiklos subjektai privalo
+
+vykdyti aplinkosaugos, pavojingųjų krovinių gabenimo, saugos darbe, darbo ir
+
+poilsio režimo, higienos reikalavimus, nustatytus Lietuvos Respublikos
+
+tarptautinėse sutartyse, įstatymuose ir kituose teisės aktuose. Už šių reikalavimų
+
+nesilaikymą pažeidėjai atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+2. Viešojo
+
+transporto objektai, skirti keleiviams aptarnauti, turi būti nuosekliai
+
+pritaikomi patogiai ir saugiai jais naudotis neįgaliesiems.
+
+3. Asmens duomenys intelektinių
+
+transporto sistemų srityje tvarkomi vadovaujantis Lietuvos Respublikos asmens
+
+duomenų teisinės apsaugos įstatymo ir Lietuvos Respublikos elektroninių ryšių
+
+įstatymo nuostatomis. Tais atvejais, kai nėra būtini asmens tapatybę
+
+nustatantys duomenys, intelektinių transporto sistemų srityje tvarkomi tokie
+
+duomenys, iš kurių negalima nustatyti asmens tapatybės.
+
+4. Atsakomybę už intelektinių transporto
+
+sistemų prietaikų ir paslaugų saugos ir kokybės pažeidimus reglamentuoja
+
+Lietuvos Respublikos produktų saugos įstatymas ir Lietuvos Respublikos
+
+administracinių teisės pažeidimų kodeksas.
+
+5. Žala,
+
+atsiradusi dėl netinkamų intelektinių transporto sistemų prietaikų ir paslaugų,
+
+atlyginama vadovaujantis Lietuvos Respublikos civilinio kodekso nuostatomis.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XI-1832,
+
+2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 
 11 straipsnis. Aplinkosaugos ir kiti reikalavimai
 
@@ -878,21 +934,23 @@ vežant užsieniečius
 
 1.
 
-Jeigu asmuo, kuris nėra Europos Sąjungos valstybės narės pilietis (toliau – užsienietis),
+Jeigu asmuo, kuris nėra Europos Sąjungos valstybės narės pilietis (toliau –
 
-neįleidžiamas į Lietuvos Respubliką arba vežėjas, kuris verčiasi keleivių
+užsienietis), neįleidžiamas į Lietuvos Respubliką arba vežėjas, kuris verčiasi
 
-vežimu, įsipareigojęs nuvežti užsienietį tranzitu per Lietuvos Respubliką į
+keleivių vežimu, įsipareigojęs nuvežti užsienietį tranzitu per Lietuvos
 
-paskirties valstybę, atsisako jį vežti, arba paskirties valstybės institucijos
+Respubliką į paskirties valstybę, atsisako jį vežti, arba paskirties valstybės
 
-neleidžia užsieniečiui, važiavusiam per Lietuvos Respubliką tranzitu, įvažiuoti
+institucijos neleidžia užsieniečiui, važiavusiam per Lietuvos Respubliką
 
-ir išsiunčia jį į Lietuvos Respubliką, vežėjas, kuris verčiasi keleivių vežimu,
+tranzitu, įvažiuoti ir išsiunčia jį į Lietuvos Respubliką, vežėjas, kuris
 
-atvežęs užsienietį iki Lietuvos Respublikos valstybės sienos, privalo
+verčiasi keleivių vežimu, atvežęs užsienietį iki Lietuvos Respublikos valstybės
 
-nedelsdamas įvykdyti šio straipsnio 2 arba 3 dalyje numatytus reikalavimus.
+sienos, privalo nedelsdamas įvykdyti šio straipsnio 2 arba 3 dalyje numatytus
+
+reikalavimus.
 
 2.
 
@@ -1114,17 +1172,17 @@ kad pažeisti šio Įstatymo 19(1) straipsnio 1 dalies arba 20
 
 straipsnio 1 dalies reikalavimai, surašo įstatymo pažeidimo protokolą.
 
-Protokole nurodoma jo surašymo data ir vieta, protokolą surašiusio asmens
+Protokole nurodoma jo surašymo data ir vieta, protokolą surašiusio asmens pareigos,
 
-pareigos, pavardė, vardas, žinios apie šį Įstatymą pažeidusį asmenį, šio
+pavardė, vardas, žinios apie šį Įstatymą pažeidusį asmenį, šio Įstatymo
 
-Įstatymo pažeidimo padarymo vieta, laikas ir esmė, šio Įstatymo straipsnis,
+pažeidimo padarymo vieta, laikas ir esmė, šio Įstatymo straipsnis, straipsnio
 
-straipsnio dalis, kurios reikalavimus pažeidė asmuo, liudytojų ir
+dalis, kurios reikalavimus pažeidė asmuo, liudytojų ir nukentėjusiųjų, jeigu jų
 
-nukentėjusiųjų, jeigu jų yra, pavardės, adresai, šį Įstatymą pažeidusio asmens
+yra, pavardės, adresai, šį Įstatymą pažeidusio asmens paaiškinimas, kitokios
 
-paaiškinimas, kitokios žinios, būtinos bylai išspręsti.
+žinios, būtinos bylai išspręsti.
 
 2.
 
@@ -1500,8 +1558,6 @@ XI-1832,
 
 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 
-________________
-
 Pakeitimai:
 
 1.
@@ -1692,11 +1748,9 @@ XI-1832,
 
 TRANSPORTO
 
-VEIKLOS PAGRINDŲ ĮSTATYMO 1, 2, 3, 4, 6, 11, 13, 15 STRAIPSNIŲ PAKEITIMO IR
+VEIKLOS PAGRINDŲ ĮSTATYMO 1, 2, 3, 4, 6, 11, 13, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO,
 
-PAPILDYMO, ĮSTATYMO PAPILDYMO 13(1) STRAIPSNIU IR ĮSTATYMO PRIEDO PAPILDYMO
-
-ĮSTATYMAS
+ĮSTATYMO PAPILDYMO 13(1) STRAIPSNIU IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMAS
 
 Šis įstatymas,
 
@@ -1706,13 +1760,29 @@ išskyrus 6, 8, 10 ir 12 straipsnius, įsigalioja 2012 m. sausio 1 d.
 
 d.
 
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-2384,
+
+2012-11-08, Žin., 2012, Nr. 136-6955 (2012-11-24)
+
+TRANSPORTO
+
+VEIKLOS PAGRINDŲ ĮSTATYMO 2 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2012-01-11)
+Aušrinė Trapinskienė (2012-11-26)
 
 ausrine.trapinskiene@lrs.lt
 
@@ -1769,8 +1839,6 @@ Nr.
 XI-1832,
 
 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
-
-Įstatymas papildomas straipsniu nuo 2012-02-27:
 
 131
 
