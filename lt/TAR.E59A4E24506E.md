@@ -4,7 +4,7 @@ identifier: "TAR.E59A4E24506E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-02"
-last_updated: "2008-07-03"
+last_updated: "2012-11-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E59A4E24506E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,111 +16,105 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos susirinkimų įstatymas
 
-Suvestinė redakcija nuo 2008-07-03 iki 2012-11-23
+Suvestinė redakcija nuo 2012-11-24 iki 2014-07-24
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 69-1291, i. k. 0931010ISTA000I-317
+
+Nauja redakcija nuo 2012-11-24:
+
+Nr. XI-2385, 2012-11-08, Žin. 2012, Nr. 136-6956 (2012-11-24), i. k. 1121010ISTA0XI-2385
 
 LIETUVOS RESPUBLIKOS
 
 SUSIRINKIMŲ
 
-Į S T A T Y M A S
+ĮSTATYMAS
 
 1993 m. gruodžio 2 d. Nr. I-317
 
 Vilnius
 
-I. BENDROJI DALIS
+I SKYRIUS
+
+BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato Lietuvos Respublikos piliečių konstitucinės teisės rinktis be ginklo į taikius susirinkimus užtikrinimo sąlygas ir valstybės bei visuomenės saugumo, viešosios tvarkos, žmonių sveikatos ir dorovės, kitų asmens teisių ir laisvių apsaugos tvarką organizuojant susirinkimus bei atsakomybę už šio įstatymo pažeidimus.
+1. Šis įstatymas nustato Lietuvos Respublikos Konstitucijos laiduojamas teisės rinktis be ginklo į taikius susirinkimus užtikrinimo sąlygas ir valstybės bei visuomenės saugumo, viešosios tvarkos, žmonių sveikatos ir teisės aktuose įtvirtintų dorovės principų, kitų asmens teisių ir laisvių apsaugos tvarką organizuojant susirinkimus ar vykdant pavienio asmens akciją, taip pat atsakomybę už šio įstatymo pažeidimus. Asmenų teisė ir laisvė rinktis be ginklo į taikius susirinkimus ar vykdyti pavienio asmens akciją gali būti laikinai apribojama įvedus karo ar nepaprastąją padėtį.
 
-2 straipsnis. Susirinkimai, kurių organizavimas nereglamentuojamas
+2. Šis įstatymas nereglamentuoja susirinkimų, kurie vyksta ar kuriuos organizuoja:
 
-Šis įstatymas nereglamentuoja susirinkimų, kuriuos organizuoja:
+1) valstybės ir savivaldybių institucijos;
 
-1) valstybės valdžios ir valdymo institucijos;
+2) Respublikos Prezidentas, Europos Parlamento nariai, išrinkti Lietuvos Respublikoje, Lietuvos Respublikos Seimo nariai ir savivaldybių tarybų nariai susitikimams su rinkėjais;
 
-2) Seimo nariai ir savivaldybių tarybų deputatai kaip susitikimus su rinkėjais;
+3) seniūnai ar seniūnaičiai Lietuvos Respublikos vietos savivaldos įstatymo nustatyta tvarka;
 
-3) valstybės pripažintos bažnyčios bei kitos religinės organizacijos tikybos apeigoms atlikti bažnyčiose, maldos namuose, kapinėse ir kitose tam skirtose specialiose vietose;
+4) valstybės pripažintos religinės bendruomenės ir bendrijos religinėms apeigoms atlikti kulto pastatuose, kapinėse ir kitose įstatymų nustatytose vietose;
 
-4) įstatymų nustatyta tvarka įregistruotos politinės partijos, kitos politinės ir visuomeninės organizacijos, profesinės sąjungos, rengiančios savo narių ir individualiai kviestų asmenų susirinkimus pagal savo įstatus ar nuostatus jų reikalams aptarti savo ar kitose suteiktose arba nuomojamose patalpose;
+5) įstatymų nustatyta tvarka įregistruotos politinės partijos, politinės organizacijos, asociacijos, profesinės sąjungos, rengiančios savo narių ir kviestinių asmenų susirinkimus pagal savo įstatus savo ar kitose teisėtai valdomose ir naudojamose patalpose;
 
-5) įmonių, įstaigų, organizacijų administracija ar jų darbuotojai savo teritorijoje ar patalpose, taip pat išnuomotose patalpose ar susitarus su savininkais gautose patalpose bei vietose;
+6) įstatymų nustatyta tvarka įregistruoti viešieji ir privatūs juridiniai asmenys savo ar kitose teisėtai valdomose ir naudojamose teritorijose ar patalpose;
 
-6) komercinės įmonės kaip komercinius pramoginius renginius tam skirtose patalpose, jei tie renginiai nepažeidžia viešosios tvarkos, kitų asmenų teisių ir laisvių;
+7) fiziniai asmenys viešosiose vietose, individualaus ir bendrojo naudojimo patalpose, jeigu taikaus susirinkimo tikslas yra tenkinti privačius interesus.
 
-7) privatūs asmenys pasilinksminimams, šventėms, kitiems privatiems reikalams spręsti ne viešosiose bendro naudojimo vietose.
+3. Šis įstatymas taip pat nereglamentuoja susirinkimų, jeigu renginys yra sporto varžybos, koncertas, pramoginis ar kitas viešasis renginys.
 
-Tokiuose susirinkimuose tvarkai palaikyti ir apsaugoti sutarčių pagrindais gali būti pasitelkiama apsaugos policija, asmens bei turto saugos tarnybos, saugotojai.
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-Taip pat šis įstatymas nereglamentuoja sporto varžybų, koncertų ir kitų viešų tokio pobūdžio renginių tam skirtose vietose.
+1. Prevencinės priemonės – susirinkimo organizatorių ir dalyvių bei jų turimų daiktų apžiūra ir patikrinimas Lietuvos Respublikos vidaus reikalų ministro nustatyta tvarka.
 
-3 straipsnis. Susirinkimų forma
+2. Susirinkimas – taikus asmenų susibūrimas, skirtas jų pažiūroms ir nuomonei viešai laisvai reikšti ir asmenybės pilietinio aktyvumo raiškai visuomenėje ir valstybėje užtikrinti.
 
-Pagal šį įstatymą susirinkimų organizatoriai gali organizuoti įvairius susirinkimus: mitingus, piketus, demonstracijas, procesijas, įvairias eitynes, kitokius taikius beginklius susirinkimus.
+3. Susirinkimo dalyvis – asmuo, be ginklo dalyvaujantis susirinkime, kuriame įgyvendina teisę viešai laisvai reikšti savo pažiūras ir nuomonę.
 
-4 straipsnis. Susirinkimų organizatoriai
+4. Susirinkimo formos – mitingai, piketai, demonstracijos, procesijos, eitynės, kitokie taikūs beginkliai susirinkimai.
 
-Šio įstatymo nustatytomis sąlygomis ir tvarka susirinkimus gali organizuoti:
+5. Susirinkimo subjektai – susirinkimo organizatoriai, jų įgalioti asmenys, susirinkimo dalyviai, savivaldybės administracijos direktorius ar jį pavaduojantis asmuo, policijos pareigūnai.
 
-1) turintys 18 metų veiksnūs Lietuvos Respublikos piliečiai;
+6. Susirinkimo vieta – vieta, kurioje susirinkimo organizatoriai ir dalyviai įgyvendina susirinkimo tikslus.
 
-2) įstatymų nustatyta tvarka įregistruotos politinės partijos, kitos politinės ir visuomeninės organizacijos, profesinės sąjungos, bažnyčios bei kitos religinės organizacijos;
+3 straipsnis. Susirinkimo organizatoriai
 
-3) kiti Lietuvos Respublikos juridiniai asmenys.
+Šio įstatymo nustatytomis sąlygomis ir tvarka susirinkimą ar pavienio asmens akciją gali organizuoti:
 
-5 straipsnis. Susirinkimų organizavimo tvarkos nustatymas
+1) sukakę 18 metų veiksnūs Lietuvos Respublikos ir Europos Sąjungos valstybių narių piliečiai;
 
-Pagal šio įstatymo nustatytą tvarką organizuojamiems susirinkimams nereikia išankstinio valstybės ar savivaldybių leidimo; susirinkimų vietą (procesijų bei eitynių maršrutą), laiką ir kitą jų organizavimo tvarką organizatoriai suderina su savivaldybės tarybos vykdomojo organo vadovu arba jo įgaliotu atstovu.
+2) užsieniečiai, turintys įstatymų nustatyta tvarka gautą leidimą nuolat gyventi Lietuvos Respublikoje;
 
-6 straipsnis. Susirinkimų vieta
+3) Lietuvos Respublikoje registruoti ir veikiantys juridiniai asmenys (toliau – juridiniai asmenys).
 
-Šis įstatymas nustato susirinkimų organizavimo sąlygas bei tvarką viešosiose vietose, t.y. miestų, gyvenviečių gatvėse, aikštėse, parkuose, skveruose bei kitose viešose vietose ir bendro naudojimo pastatuose.
+4 straipsnis. Susirinkimų laikas ir vieta
 
-Savivaldybės gali nustatyti nuolatines susirinkimų vietas ar patalpas.
+1. Susirinkimai ar pavienio asmens akcija gali vykti viešosiose vietose, gyvenamųjų vietovių gatvėse, aikštėse, parkuose, skveruose ir bendrojo naudojimo pastatuose visomis savaitės dienomis nuo 8 iki 22 valandos.
 
-Neleidžiama organizuoti susirinkimų, mitingų, piketų ir kitokių grupių ar pavienių asmenų akcijų valstybės valdžios ir valdymo įstaigose, savivaldybių, policijos, bausmių atlikimo, socialinės reabilitacijos, taip pat krašto apsaugos, saugumo tarnybos, prokuratūros, teismų patalpose, kariniuose daliniuose ir objektuose, valstybiniuose bankuose, atominės energetikos ir kitose specialaus darbo saugos režimo arba ginkluotos sargybos saugomose įmonėse.
+2. Neleidžiama organizuoti susirinkimų ar vykdyti pavienio asmens akcijos valstybės valdžios ir valdymo įstaigose, savivaldybių, policijos, areštinių, tardymo izoliatorių, bausmių vykdymo, sveikatos priežiūros, taip pat krašto apsaugos, Lietuvos Respublikos valstybės saugumo departamento sistemos, prokuratūros, teismų patalpose, Lietuvos banke ir kituose Lietuvos Respublikoje veikiančiuose bankuose, atominės energetikos, strateginę reikšmę nacionaliniam saugumui turinčiose įmonėse ir kitose nacionaliniam saugumui užtikrinti svarbiose įmonėse.
 
-Susirinkimai prie Lietuvos Respublikos Seimo, Respublikos Prezidento rezidencijos, Vyriausybės bei teismų pastatų gali būti organizuojami ne arčiau kaip 75 metrai, o prie kitų valstybės valdžios ir valdymo įstaigų, užsienio diplomatinių atstovybių, savivaldybių, prokuratūros, Vidaus reikalų, Krašto apsaugos ministerijų įstaigų, karinių dalinių bei kitų specialaus darbo saugos režimo ar ginkluotos sargybos saugomų objektų - ne arčiau kaip 25 metrai nuo pagrindinio įėjimo į šiuos pastatus bei objektus, ir visais atvejais garantuojamas laisvas priėjimas ir privažiavimas prie jų.
+3. Susirinkimai ar pavienio asmens akcija prie Lietuvos Respublikos Seimo, Respublikos Prezidento kanceliarijos, Lietuvos Respublikos Vyriausybės ir teismų pastatų gali būti organizuojami ne arčiau kaip 75 metrai, o prie kitų valstybės valdžios ir valdymo įstaigų, užsienio diplomatinių atstovybių, savivaldybių, Lietuvos Respublikos valstybės saugumo departamento sistemos, policijos, prokuratūros, Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos Respublikos krašto apsaugos ministerijos įstaigų ir kitų krašto apsaugos sistemos objektų, strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir kitų nacionaliniam saugumui užtikrinti svarbių įmonių – ne arčiau kaip 25 metrai iki šių pastatų ir objektų. Visais atvejais užtikrinamas laisvas priėjimas ir privažiavimas prie šių pastatų ir objektų.
 
-7 straipsnis. Susirinkimų laikas
+5 straipsnis. Susirinkimo metu draudžiami veiksmai
 
-Vieši susirinkimai gali būti vedami nuo 8 iki 23 valandos ir tik susirinkimo organizatorių suderintu su savivaldybės tarybos vykdomojo organo vadovu ar jo įgaliotu atstovu laiku. Susiderinus susirinkimai gali būti organizuojami ir kitu paros metu, tačiau tik apšviestose vietose ir netrikdant kitų gyventojų poilsio.
+Susirinkimo ar pavienio asmens akcijos metu draudžiama:
 
-Savivaldybės gali nustatyti tam skirtose nuolatinėse vietose ar patalpose pastovų susirinkimų laiką.
+1) sakomomis kalbomis, plakatais, šūkiais, audiovizualinėmis priemonėmis ir kitokiais veiksmais akivaizdžiai kurstyti pažeisti arba pažeisti Lietuvos Respublikos Konstituciją ar įstatymus;
 
-8 straipsnis. Draudžiami susirinkimai
+2) pažeisti dorovės, geros moralės ir etikos normas;
 
-Draudžiami susirinkimai, kurių dalyviai:
+3) demonstruoti nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliavą ar herbą arba vėliavą, ženklą ar uniformą, kurių sudedamoji dalis yra nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliava ar herbas, atsakingų už Lietuvos gyventojų represijas Vokietijos nacionalsocialistų ar SSRS komunistų partijos vadovų atvaizdus, nacistinių ar komunistinių organizacijų simbolius ar uniformas arba nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliavos ar herbo, nacistinės svastikos, nacistinio SS ženklo, sovietinio kūjo ir pjautuvo ženklo, sovietinės raudonos penkiakampės žvaigždės ženklo pagrindu sudarytas vėliavas ar ženklus arba į juos klaidinančiai panašius antikonstitucinių organizacijų simbolius, atlikti nacistinės Vokietijos, SSRS ar Lietuvos SSR himną;
 
-1) yra ginkluoti (turi šaunamuosius ar nešaunamuosius ginklus, daiktus, specialiai pritaikytus kūno sužalojimams padaryti, gaisrams sukelti ar materialinei žalai padaryti, arba kad ir ne specialiai pritaikytus tokiems tikslams, bet kuriuos realiai galima tokiems tikslams panaudoti) arba turi lengvai užsidegančių, stipriai veikiančių arba radioaktyvių medžiagų, alkoholinių gėrimų; apsirengę karine uniforma arba apsiginklavę pasyviąja ginkluote (šalmais, neperšaunamomis liemenėmis ir kt.), slepia savo veidus kaukėmis ar yra kitaip užsimaskavę, kad negalėtų būti atpažinti, – tai liudija apie jų pasiruošimą padaryti teisės pažeidimus;
+4) kitokiais būdais rengtis atlikti ar atlikti Lietuvos Respublikos baudžiamajame kodekse numatytas veikas.
 
-2) vairuoja transporto priemones taip, kad tai kelia grėsmę eismo tvarkai ir saugumui, sudaro pavojų susirinkime dalyvaujančių bei kitų asmenų saugumui, sveikatai, pažeidžia viešąją tvarką ir visuomeninę rimtį;
+II SKYRIUS
 
-3) yra nuogi bei kitaip savo išvaizda ar turimais ir demonstruojamais daiktais ciniškai pažeidžia dorovę;
+PRANEŠIMO APIE ORGANIZUOJAMĄ SUSIRINKIMĄ DERINIMO TVARKA
 
-4) susirinkimų metu sakomomis kalbomis, plakatais, šūkiais, audiovizualinėmis priemonėmis ir kitokiais veiksmais akivaizdžiai kursto pažeisti arba pažeidžia Lietuvos Respublikos Konstituciją ar įstatymus;
+6 straipsnis. Pranešimo apie organizuojamą susirinkimą pateikimo tvarka ir terminai
 
-5) demonstruoja nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliavą ar herbą arba vėliavą, ženklą ar uniformą, kurių sudedamoji dalis yra nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliava ar herbas, atsakingų už Lietuvos gyventojų represijas Vokietijos nacionalsocialistų arba SSRS komunistų partijos vadovų atvaizdus, nacistinių ar komunistinių organizacijų simbolius ar uniformas arba nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliavos ar herbo, nacistinės svastikos, nacistinio SS ženklo, sovietinio kūjo ir pjautuvo ženklo, sovietinės raudonos penkiakampės žvaigždės ženklo pagrindu sudarytas vėliavas ar ženklus, atlieka nacistinės Vokietijos, SSRS ar Lietuvos SSR himną.
+1. Susirinkimo organizatoriai laisva forma praneša savivaldybės administracijos direktoriui ar jį pavaduojančiam asmeniui apie organizuojamą susirinkimą, kuriame dalyvaus ne daugiau kaip 15 žmonių. Tokiems susirinkimams netaikomos šio straipsnio 3 dalies ir šio įstatymo 7 straipsnio nuostatos.
 
-Papildyta straipsnio punktu:
+2. Susirinkimo organizatoriai ne vėliau kaip prieš 5 darbo dienas iki numatytos susirinkimo dienos privalo pateikti savivaldybės administracijos direktoriui ar jį pavaduojančiam asmeniui rašytinį pranešimą apie organizuojamą susirinkimą, kuriame dalyvaus daugiau kaip 15 žmonių.
 
-Nr. X-1609, 2008-06-17, Žin., 2008, Nr. 75-2920 (2008-07-03), i. k. 1081010ISTA00X-1609
-
-II. PRANEŠIMŲ APIE SUSIRINKIMŲ ORGANIZAVIMĄ
-
-NAGRINĖJIMO TVARKA
-
-9 straipsnis. Pranešimo apie susirinkimų organizavimą pateikimo terminai ir forma
-
-Pranešimą apie susirinkimo organizavimą organizatorius arba jų atstovas paduoda ne vėliau kaip prieš 5 darbo dienas iki numatomo susirinkimo vedimo dienos.
-
-Susirinkimų organizatoriai informuoja apie organizuojamą susirinkimą savivaldybės tarybos vykdomojo organo vadovą ar jo įgaliotą atstovą raštišku pranešimu (pateikiamas ir jo nuorašas), kurį pasirašo ne mažiau kaip du asmenys, kad suderintų susirinkimo vietą, laiką ir sąlygas.
-
-Pranešime turi būti nurodyta:
+3. Pranešime apie organizuojamą susirinkimą turi būti nurodyta:
 
 1) susirinkimo forma ir turinys;
 
@@ -132,43 +126,127 @@ Pranešime turi būti nurodyta:
 
 5) pageidavimai policijai dėl viešosios tvarkos palaikymo;
 
-6) ne mažiau kaip dviejų organizatorių ar jų įgaliotų asmenų vardai, pavardės ir gyvenamosios vietos.
+6) organizatoriaus, o jeigu organizatorius yra juridinis asmuo, – jo atstovo vardas, pavardė ir deklaruota gyvenamoji vieta.
 
-Jeigu susirinkimas organizuojamas savivaldybės tam paskirtoje nuolatinėje vietoje ar patalpoje ir nustatytu laiku, o susirinkimo dalyvių skaičius yra ribotas (iki 100 žmonių), apie susirinkimo organizavimą informuojamas savivaldybės tarybos vykdomojo organo vadovas ar jo įgaliotas atstovas, tačiau raštiškas pranešimas nereikalingas. Nebūtina pranešti apie piketus, kuriuose dalyvauja ne daugiau kaip 10 žmonių.
+7 straipsnis. Pranešimo apie organizuojamą susirinkimą nagrinėjimo, derinimo tvarka ir terminai bei apskundimo tvarka
 
-Savivaldybės tarybos vykdomojo organo vadovas ar jo įgaliotas atstovas išduoda nustatytos formos pažymėjimą dėl suderintos susirinkimo vietos, laiko ir formos.
+1. Savivaldybės administracijos direktorius ar jį pavaduojantis asmuo, gavę pranešimą apie organizuojamą susirinkimą, nustato pranešimo derinimo datą ir ne vėliau kaip prieš vieną darbo dieną informuoja susirinkimo organizatorius ir policiją apie nustatytą pranešimo apie organizuojamą susirinkimą derinimo dieną ir laiką.
 
-10 straipsnis. Pranešimo nagrinėjimo terminai ir tvarka
+2. Pranešimas apie organizuojamą susirinkimą turi būti suderintas ne vėliau kaip per 3 darbo dienas nuo jo gavimo.
 
-Pranešimas apie susirinkimo organizavimą turi būti išnagrinėtas ne vėliau kaip per 3 darbo dienas nuo jo gavimo ir ne vėliau kaip likus 48 valandoms iki susirinkimo pradžios.
+3. Pranešimą apie organizuojamą susirinkimą derina savivaldybės administracijos direktorius ar jį pavaduojantis asmuo, susirinkimo organizatoriai ir policijos atstovas. Derinant pranešimą apie organizuojamą susirinkimą, gali dalyvauti kitų įstaigų atstovai, specialistai.
 
-Pranešimą nagrinėja savivaldybės tarybos vykdomojo organo vadovas ar jo įgaliotas atstovas dalyvaujant policijos atstovui. Aptariamos susirinkimo organizavimo galimybės nurodytu laiku ir nurodytoje vietoje, taip pat kitos sąlygos ir priimamas atitinkamas sprendimas. Aptarimo metu gali dalyvauti susirinkimo organizatoriai ar jų įgalioti atstovai, taip pat kitų įstaigų atstovai, specialistai.
+4. Pranešimo apie organizuojamą susirinkimą suderinimo dokumentą pasirašo savivaldybės administracijos direktorius ar jį pavaduojantis asmuo ir suderinimo dokumento nuorašą nedelsdamas įteikia arba išsiunčia organizatoriams.
 
-Jeigu nagrinėjant pranešimą išaiškėja aplinkybių, dėl kurių susirinkimas negali būti organizuojamas pranešime nurodyta forma, nurodytoje vietoje ar nurodytu laiku, tai tik dalyvaujant susirinkimo organizatoriams, gali būti pateikiami ir svarstomi pasiūlymai dėl kitokių susirinkimo formų, vietos ir laiko.
+5. Kai toje pačioje vietoje tuo pačiu laiku du ar daugiau susirinkimo organizatorių planuoja rengti susirinkimus, pirmumo teisę organizuoti susirinkimą turi tas organizatorius, kuris pirmasis pateikė pranešimą savivaldybės administracijos direktoriui ar jį pavaduojančiam asmeniui. Su kitais organizatoriais savivaldybės administracijos direktorius ar jį pavaduojantis asmuo derina kitą galimą susirinkimo vietą ar laiką.
 
-11 straipsnis. Sprendimas apie susirinkimo formą, vietą ir laiką
+6. Minint valstybės šventes: vasario 16-ąją – Lietuvos valstybės atkūrimo dieną, kovo 11-ąją – Lietuvos nepriklausomybės atkūrimo dieną ir liepos 6-ąją – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) dieną, pirmumo teisė pasirinkti renginio vietą ir laiką suteikiama valstybės ar savivaldybių institucijoms.
 
-Išnagrinėjęs pranešimą apie susirinkimo organizavimą, savivaldybės tarybos vykdomojo organo vadovas ar jo įgaliotas atstovas priima vieną iš šių sprendimų, kurį skelbia nedelsdamas:
+7. Savivaldybės administracijos direktoriaus ar jį pavaduojančio asmens veiksmai (neveikimas) ar pranešimo apie organizuojamą susirinkimą suderinimas gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-1) išduoti susirinkimo organizatoriui pažymėjimą dėl suderintos susirinkimo vietos, laiko ir formos;
+III SKYRIUS
 
-2) atsisakyti išduoti tokį pažymėjimą, jeigu organizuojant susirinkimą gali būti pažeistas valstybės ar visuomenės saugumas, viešoji tvarka, žmonių sveikata ar dorovė ar kitų asmenų teisės ir laisvės.
+SUSIRINKIMO VEDIMO TVARKA
 
-Pažymėjimas dėl suderintos susirinkimo vietos, laiko ir formos arba sprendimas atsisakyti išduoti tokį pažymėjimą išduodamas pranešimo išnagrinėjimo dieną. Nustatytos formos pažymėjime turi būti nurodytos organizatorių teisės ir pareigos bei atsakomybė už įstatymų pažeidimą bei savivaldybės ir policijos priemonės įgyvendinant susirinkimo organizatorių pranešime nurodytus pageidavimus.
+8 straipsnis. Susirinkimo vedimo tvarka
 
-12 straipsnis. Sprendimas atsisakyti išduoti pažymėjimą dėl suderintos susirinkimo vietos, laiko ir formos
+1. Susirinkimą pradeda, jam vadovauja arba pirmininkauja ir užbaigia jo organizatoriai arba jų įgalioti asmenys.
 
-Sprendimas atsisakyti išduoti pažymėjimą dėl suderintos susirinkimo vietos, laiko ir formos turi būti raštiškas ir motyvuotas. Jame nurodomos priežastys ir aplinkybės, dėl kurių susirinkimo organizatorių pranešimas apie susirinkimo organizavimą iš viso negali būti patenkintas dėl nepriimtinos susirinkimo formos, vietos, laiko ar kitų šiame įstatyme numatytų aplinkybių. Sprendimą pasirašo savivaldybės tarybos vykdomojo organo vadovas ar jo įgaliotas atstovas, o šio sprendimo nuorašas išduodamas organizatoriams ar jų įgaliotiems asmenims.
+2. Jeigu per valandą nuo suderinto susirinkimo laiko pradžios susirinkimo organizatoriai arba jų įgalioti asmenys nepraneša, kad vėluojama jį pradėti, ir susirinkimas neprasideda, susirinkimas laikomas neįvykusiu.
 
-13 straipsnis. Atsisakymo išduoti pažymėjimą dėl suderintos susirinkimo vietos, laiko ir formos apskundimas
+9 straipsnis. Susirinkimo nutraukimo pagrindai
 
-Susirinkimo organizatoriai atsisakymą išduoti pažymėjimą dėl suderintos susirinkimo vietos, laiko ir formos gali apskųsti atitinkamos apylinkės teismui per 10 dienų nuo sprendimo priėmimo. Teismas tokį pareiškimą turi išnagrinėti ne vėliau kaip per 3 dienas.
+1. Policijos pareigūnai susirinkimą ar pavienio asmens akciją gali nutraukti, kai dalyviai:
 
-14 straipsnis. Susirinkimo atšaukimas
+1) yra ginkluoti (turi šaunamųjų ar nešaunamųjų ginklų, daiktų, specialiai pritaikytų kūno sužalojimams padaryti, gaisrams sukelti ar materialinei žalai padaryti, arba daiktų, kuriuos galima panaudoti tokiems tikslams) arba turi lengvai užsidegančių, stipriai veikiančių arba radioaktyviųjų medžiagų, alkoholinių gėrimų; yra apsirengę karine uniforma arba apsiginklavę apsaugine ginkluote (šalmais, neperšaunamomis liemenėmis ir kt.), slepia veidus kaukėmis ar yra kitaip užsimaskavę, kad negalėtų būti atpažinti, jeigu tai rodo jų pasiruošimą daryti teisės pažeidimus;
 
-Jeigu išdavus pažymėjimą dėl suderintos susirinkimo vietos, laiko ir formos, paaiškėja naujų įstatymo numatytų aplinkybių, dėl kurių susirinkimas negali būti organizuojamas suderintoje vietoje, suderintu laiku ir suderinta forma, savivaldybės tarybos vykdomojo organo vadovas arba jo atstovas apie tai praneša organizatoriams ir pasiūlo susirinkimą atšaukti. Jeigu susirinkimo organizatoriai susirinkimo neatšaukia, jiems tenka visa įstatymų numatyta atsakomybė už tokio susirinkimo pasekmes.
+2) pasinaudodami susirinkimo galimybėmis pažeidžia viešąją tvarką ir visuomenės rimtį, kėsinasi padaryti ar padaro nusikaltimus Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai ar kitas tyčines nusikalstamas veikas žmogaus gyvybei, sveikatai, laisvei, teisės normose įtvirtintiems dorovės principams, nuosavybei, asmens garbei ir orumui, visuomenės saugumui, valdymo ir viešajai tvarkai;
 
-III. SUSIRINKIMŲ VEDIMO TVARKA
+3) vairuodami transporto priemones ar kitais veiksmais trikdo ar kelia realią grėsmę eismo tvarkai ir saugumui, valstybės įstaigų, organizacijų ar savivaldybių įstaigų normaliai veiklai, gali sudaryti avarines situacijas įmonėse ar įstaigose, kurių veikla susijusi su degiais, sprogstamaisiais ar kitais pavojingais daiktais, kurių apyvarta ribojama įstatymais;
+
+4) yra nuogi ar kitaip savo išvaizda ar turimais ir demonstruojamais daiktais pažeidžia teisės normose įtvirtintus dorovės principus;
+
+5) tyčia šiurkščiai pažeidžia šio įstatymo nustatytą susirinkimų organizavimo tvarką (suderintą susirinkimo formą, vietą ar laiką).
+
+2. Susirinkimo organizatoriai ar jų įgalioti asmenys susirinkimą nutraukia, kai jis nebeatitinka pranešime apie organizuojamą susirinkimą nurodyto turinio.
+
+IV SKYRIUS
+
+SUSIRINKIMO SUBJEKTŲ TEISĖS, PAREIGOS IR ATSAKOMYBĖ
+
+10 straipsnis. Susirinkimo organizatorių ir dalyvių teisės ir pareigos
+
+1. Susirinkimo organizatoriai, jų įgalioti asmenys ir dalyviai ar pavienis asmuo, vykdantis akciją, privalo laikytis šio ir kitų Lietuvos Respublikos įstatymų, nustatytų kelių eismo, priešgaisrinės apsaugos ir kitų taisyklių, vykdyti teisėtus policijos pareigūnų nurodymus bei reikalavimus ir užtikrinti, kad susirinkimo vieta būtų palikta tvarkinga.
+
+2. Susirinkimo organizatoriai ar jų įgalioti asmenys turi teisę:
+
+1) sudrausti susirinkimo dalyvį, pažeidžiantį viešąją tvarką ar nesilaikantį šio įstatymo reikalavimų;
+
+2) reikalauti, kad iš susirinkimo pasišalintų asmenys, pažeidžiantys viešąją tvarką, nesilaikantys įstatymų reikalavimų, arba prašyti policijos pareigūnų pašalinti tokius asmenis;
+
+3) nutraukti susirinkimą, pareikalauti, kad dalyviai išsiskirstytų.
+
+11 straipsnis. Susirinkimo organizatorių ir dalyvių atsakomybė
+
+Susirinkimo organizatoriai, jų įgalioti asmenys ir dalyviai ar pavienis asmuo, vykdantis akciją, pažeidę šį ar kitus Lietuvos Respublikos įstatymus, nustatyta tvarka traukiami baudžiamojon ar administracinėn atsakomybėn, atsako už padarytą turtinę žalą ir privalo atlyginti nuostolius.
+
+12 straipsnis. Savivaldybės administracijos direktoriaus ar jį pavaduojančio asmens pareigos ir atsakomybė
+
+1. Savivaldybės administracijos direktorius ar jį pavaduojantis asmuo privalo šio įstatymo nustatyta tvarka užtikrinti sklandų pranešimo apie organizuojamą susirinkimą suderinimą.
+
+2. Savivaldybės administracijos direktorius ar jį pavaduojantis asmuo negali susirinkimo organizatorių ir dalyvių įpareigoti imtis priemonių, kurioms įgyvendinti reikalingi finansiniai ištekliai, išskyrus susirinkimo vietos sutvarkymo po įvykusio susirinkimo priemones.
+
+3. Savivaldybės administracijos direktorius ar jį pavaduojantis asmuo, pažeidę šį įstatymą, nustatyta tvarka traukiami administracinėn atsakomybėn.
+
+13 straipsnis. Policijos pareigūnų teisės
+
+1. Policijos pareigūnai turi teisę nutraukti susirinkimą šio įstatymo 9 straipsnio 1 dalyje nurodytais pagrindais.
+
+2. Jeigu policijos pareigūnai turi duomenų, kad susirinkimo organizatoriai ar dalyviai gali turėti ginklų, daiktų ar medžiagų, pavojingų sveikatai arba gyvybei, jie gali priimti sprendimą susirinkimo vietos prieigose imtis prevencinių priemonių ir apie tai turi pranešti susirinkimo organizatoriams. Policijos pareigūnai prevencinių priemonių gali imtis ir pavienio asmens vykdomos akcijos metu.
+
+14 straipsnis. Policijos pareigūnų pareigos ir atsakomybė
+
+1. Policijos pareigūnai privalo dalyvauti derinant pranešimą apie organizuojamą susirinkimą.
+
+2. Policijos pareigūnai privalo sudaryti organizacines ir kitokias įstatymų numatytas galimybes teisėtiems susirinkimams organizuoti, susirinkimų organizatorių ir dalyvių, taip pat kitų asmenų teisėms ir laisvėms, valstybės ar visuomenės saugumui, viešajai tvarkai, žmonių sveikatai apsaugoti.
+
+3. Jeigu policijos pareigūnai turi ar gauna kriminalinės žvalgybos informacijos apie grėsmes asmenų teisėms ir laisvėms, valstybės ar visuomenės saugumui, viešajai tvarkai, žmonių sveikatai, jie privalo imtis papildomų priemonių šioms grėsmėms pašalinti.
+
+4. Policijos pareigūnai negali susirinkimo organizatorių ir dalyvių įpareigoti imtis priemonių, kurioms įgyvendinti reikalingi finansiniai ištekliai.
+
+5. Policijos pareigūnai susirinkimų metu vadovaujasi šiuo ir kitais Lietuvos Respublikos įstatymais.
+
+6. Policijos pareigūnai, trukdantys organizuoti teisėtus susirinkimus, pažeidžiantys šį ar kitus Lietuvos Respublikos įstatymus, atsako įstatymų nustatyta tvarka.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1452, 2003-04-03, Žin., 2003, Nr. 38-1697 (2003-04-24), i. k. 1031010ISTA0IX-1452
+
+Lietuvos Respublikos susirinkimų įstatymo 17 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1609, 2008-06-17, Žin., 2008, Nr. 75-2920 (2008-07-03), i. k. 1081010ISTA00X-1609
+
+Lietuvos Respublikos susirinkimų įstatymo 8 straipsnio papildymo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2385, 2012-11-08, Žin., 2012, Nr. 136-6956 (2012-11-24), i. k. 1121010ISTA0XI-2385
+
+Lietuvos Respublikos susirinkimų įstatymo pakeitimo įstatymas
 
 15 straipsnis. Susirinkimų vedimo tvarka
 
