@@ -4,7 +4,7 @@ identifier: "TAR.F617B8D97E05"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-09"
-last_updated: "2011-01-01"
+last_updated: "2012-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2011-01-01 iki 2012-12-28
+Suvestinė redakcija nuo 2012-12-29 iki 2012-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
 
@@ -239,11 +239,11 @@ KITOS KONSULINĖS FUNKCIJOS
 
 2. Konsulinis pareigūnas yra atsakingas už vizų ar joms prilyginamų dokumentų išdavimo teisėtumą, o jo sprendimas atsisakyti išduoti vizą ar jai prilyginamą dokumentą negali būti skundžiamas administracine tvarka.
 
-24 straipsnis. Asmens be pilietybės kelionės dokumento galiojimo termino pratęsimas
+24 straipsnis. Neteko galios nuo 2012-12-29
 
-1. Konsulinis pareigūnas Lietuvos Respublikos vidaus reikalų ministro nustatyta ir su Lietuvos Respublikos užsienio reikalų ministru suderinta tvarka pratęsia Lietuvos Respublikoje nuolat gyvenančių asmenų be pilietybės kelionės dokumentų galiojimo laiką.
+Straipsnio naikinimas:
 
-2. Asmens be pilietybės kelionės dokumento galiojimo laikas gali būti pratęstas iki šešių mėnesių nuo sprendimo pratęsti kelionės dokumento galiojimo laiką priėmimo dienos, bet ne ilgiau, negu galioja asmens be pilietybės turimas galiojantis leidimas gyventi.
+Nr. XII-75, 2012-12-20, Žin. 2012, Nr. 154-7923 (2012-12-29), i. k. 1121010ISTA00XII-75
 
 25 straipsnis. Pasų išdavimas, keitimas ir pilietybės klausimai
 
@@ -279,9 +279,11 @@ Straipsnio pakeitimai:
 
 Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010ISTA00XI-467
 
-29 straipsnis. Lietuvos Respublikos piliečių tikrosios karo ir alternatyviosios tarnybos įskaitos tvarkymas
+29 straipsnis. Neteko galios nuo 2012-12-29
 
-Konsulinis pareigūnas tvarko Lietuvos Respublikos piliečių tikrosios karo ir alternatyviosios tarnybos įskaitą su Lietuvos Respublikos krašto apsaugos ministru suderinta Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka.
+Straipsnio naikinimas:
+
+Nr. XII-75, 2012-12-20, Žin. 2012, Nr. 154-7923 (2012-12-29), i. k. 1121010ISTA00XII-75
 
 30 straipsnis. Dokumentų legalizavimas ir tvirtinimas pažyma (Apostille)
 
