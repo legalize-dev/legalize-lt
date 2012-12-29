@@ -4,7 +4,7 @@ identifier: "TAR.10D407E502F2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-06-21"
-last_updated: "2011-10-01"
+last_updated: "2012-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.10D407E502F2"
 department: "Lietuvos Respublikos Seimas"
@@ -25,6 +25,10 @@ entry_into_force_conditions: "Šio įstatymo 388 straipsnis įsigalioja 2011 m. 
 LIETUVOS RESPUBLIKOS CIVILINIO PROCESO KODEKSO PAKEITIMO IR PAPILDYMO
 
 ĮSTATYMAS
+
+Suvestinė redakcija nuo 2012-12-29 iki 2018-12-13
+
+Įstatymas paskelbtas: Žin. 2011, Nr. 85-4126, i. k. 1111010ISTA0XI-1480
 
 LIETUVOS RESPUBLIKOS
 
@@ -1378,7 +1382,7 @@ INFORMACINIŲ IR ELEKTRONINIŲ RYŠIŲ TECHNOLOGIJŲ NAUDOJIMAS TEISMO PROCESE
 
 5. Kai byla vedama per advokatą, be šio Kodekso 135 ir 142 straipsniuose nustatytų reikalavimų, atitinkamai ieškinyje arba atsiliepime į ieškinį taip pat nurodomas advokato elektroninio pašto adresas, telefono ir fakso numeriai, kitų turimų elektroninių ryšių priemonių adresai.
 
-6. Kai procesinis dokumentas teismui teikiamas elektroninių ryšių priemonėmis, asmens tapatybė patvirtinama Teismų įstatymo nustatyta tvarka.
+6. Elektroninės formos procesiniai dokumentai, pateikti teismui elektroninių ryšių priemonėmis asmens tapatybę patvirtinus Teismų įstatyme nustatytais būdais, atitinka šio Kodekso 111 straipsnyje nustatytą reikalavimą, kad procesinis dokumentas turi būti pasirašytas.
 
 7. Elektroniniai duomenys teismui pateikiami teisingumo ministro nustatyta tvarka ir forma. Elektroninių duomenų įrodomoji galia yra tokia pat kaip ir kitų įrodymų.
 
@@ -1387,6 +1391,10 @@ INFORMACINIŲ IR ELEKTRONINIŲ RYŠIŲ TECHNOLOGIJŲ NAUDOJIMAS TEISMO PROCESE
 9. Advokatams, advokatų padėjėjams, antstoliams, antstolių padėjėjams, notarams, valstybės ir savivaldybių įmonėms, įstaigoms ir organizacijoms, finansų įstaigoms, draudimo įmonėms teismas procesinius dokumentus įteikia elektroninių ryšių priemonėmis. Be to, elektroninių ryšių priemonėmis dokumentai įteikiami asmenims, kuriems teisės aktuose ar su teismų informacinės sistemos valdytoju sudarytoje sutartyje nustatyta pareiga gauti procesinius dokumentus elektroninių ryšių priemonėmis. Kitiems asmenims teismas procesinius dokumentus įteikia elektroninių ryšių priemonėmis, jeigu jie šio Kodekso nustatyta tvarka pageidavo procesinius dokumentus gauti elektroninių ryšių priemonėmis ir yra nurodę reikalingus kontaktinius duomenis. Procesinių dokumentų įteikimo elektroninių ryšių priemonėmis tvarką ir formą nustato teisingumo ministras.
 
 10. Šio Kodekso nustatytais atvejais ir tvarka įteikiant dalyvaujančiam byloje asmeniui procesinį dokumentą elektroninių ryšių priemonėmis, procesinio dokumento įteikimo dalyvaujančiam byloje asmeniui diena laikoma po procesinio dokumento išsiuntimo dienos einanti darbo diena.
+
+Straipsnio pakeitimai:
+
+Nr. XII-72, 2012-12-20, Žin., 2012, Nr. 153-7824 (2012-12-29), i. k. 1121010ISTA00XII-72
 
 1752 straipsnis. Vaizdo konferencijų, telekonferencijų naudojimas
 
@@ -3842,6 +3850,8 @@ Prašymai dėl leidimo vykdyti užsienio teismų (arbitražų) sprendimus nagrin
 
 1. Šis įstatymas, išskyrus šio straipsnio 2, 3, 4 ir 5 dalyse nurodytas išimtis ir 388 straipsnį, įsigalioja 2011 m. spalio 1 d.
 
+2. Šio įstatymo 331 straipsnio 2 dalis, 334, 336, 337, 338, 339, 340, 342, 343, 344 ir 352 straipsniai įsigalioja 2013 m. sausio 1 d.
+
 388 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ir kitoms institucijoms
 
 Lietuvos Respublikos Vyriausybė ir kitos šiame įstatyme nurodytos institucijos iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus.
@@ -3849,4 +3859,14 @@ Lietuvos Respublikos Vyriausybė ir kitos šiame įstatyme nurodytos institucijo
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-72, 2012-12-20, Žin., 2012, Nr. 153-7824 (2012-12-29), i. k. 1121010ISTA00XII-72
+
+Lietuvos Respublikos civilinio proceso kodekso pakeitimo ir papildymo įstatymo 117 ir 387 straipsnių pakeitimo įstatymas
 
