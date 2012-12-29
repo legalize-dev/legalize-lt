@@ -4,7 +4,7 @@ identifier: "TAR.E68316F1B900"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-11-18"
-last_updated: "2011-06-28"
+last_updated: "2012-12-29"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E68316F1B900"
 department: "Lietuvos Respublikos Seimas"
@@ -53,9 +53,9 @@ senatvės pensija skiriama ir mokama nuo dienos, kurią turintis teisę
 
 gauti šią pensiją asmuo kreipėsi dėl jos paskyrimo.
 
-2. Išankstinės
+2. Išankstinės senatvės
 
-senatvės pensijos mokėjimas nutraukiamas:
+pensijos mokėjimas nutraukiamas:
 
 1) asmeniui
 
@@ -76,10 +76,6 @@ išvykus nuolat gyventi į užsienį, jeigu Lietuvos Respublikos tarptautinėse
 sutartyse nenustatyta kitaip – nuo mėnesio, einančio po to mėnesio, kurį asmuo
 
 išvyko nuolat gyventi į užsienį, pirmos dienos.
-
-Straipsnis papildomas 3 dalimi nuo 2012
-
-m. sausio 1 d.
 
 3. Išankstinės
 
@@ -108,26 +104,6 @@ socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–6, 8 ir 9
 punktuose, ūkininku ar jo partneriu pagal Ūkininko ūkio įstatymą, taip pat
 
 gauna užsienio valstybėje pajamų, susijusių su darbo santykiais arba jų esmę atitinkančiais santykiais.
-
-2.
-
-Jeigu išankstinės senatvės pensijos mokėjimas buvo sustabdytas pagal šio
-
-straipsnio 1 dalį, anksčiau paskirtosios išankstinės senatvės pensijos
-
-mokėjimas gali būti atnaujintas (šio straipsnio 3 ir 5 dalys) arba ši pensija
-
-paskirta iš naujo (šio straipsnio 4 ir 5 dalys), jei kreipimosi dėl išankstinės
-
-senatvės pensijos mokėjimo atnaujinimo ar skyrimo iš naujo dieną asmuo yra
-
-nustatyta tvarka registruotas bedarbis Lietuvos darbo biržos teritorinėje darbo
-
-biržoje.
-
-2 dalies
-
-redakcija nuo 2012 m. sausio 1 d.
 
 2.
 
@@ -225,11 +201,11 @@ draudimo pensijų skyrimo ir mokėjimo nuostatais.
 
 2. Kreipiantis
 
-dėl išankstinės senatvės pensijos, privaloma pateikti visus Valstybinių socialinio
+dėl išankstinės senatvės pensijos, privaloma pateikti visus Valstybinių
 
-draudimo pensijų skyrimo ir mokėjimo nuostatuose nurodytus dokumentus, būtinus
+socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nurodytus
 
-šiai pensijai paskirti.
+dokumentus, būtinus šiai pensijai paskirti.
 
 3. Išankstinės
 
@@ -335,21 +311,21 @@ straipsnis. Įstatymo įsigaliojimas
 
 2. Lietuvos
 
-Respublikos valstybės ir savivaldybių institucijos (įstaigos) bei kiti
+Respublikos valstybės ir savivaldybių institucijos (įstaigos) bei kiti juridiniai
 
-juridiniai asmenys privalo teikti Fondo valdybai ir (ar) jos teritoriniams
+asmenys privalo teikti Fondo valdybai ir (ar) jos teritoriniams skyriams
 
-skyriams išankstinėms senatvės pensijoms skirti ir mokėti reikalingus duomenis
+išankstinėms senatvės pensijoms skirti ir mokėti reikalingus duomenis apie
 
-apie asmens gaunamas pensijas ir išmokas bei jų dydžius, taip pat kitą
+asmens gaunamas pensijas ir išmokas bei jų dydžius, taip pat kitą išankstinėms
 
-išankstinėms senatvės pensijoms skirti ir mokėti reikiamą informaciją.
+senatvės pensijoms skirti ir mokėti reikiamą informaciją.
 
 Straipsnio pakeitimai:
 
-Nr. IX-2539, 2004-11-04,
+Nr. IX-2539,
 
-Žin., 2004, Nr. 171-6299 (2004-11-26)
+2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26)
 
 Skelbiu šį
 
@@ -358,8 +334,6 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                           ROLANDAS
 
 PAKSAS
-
-_____________
 
 Pakeitimai:
 
@@ -433,13 +407,13 @@ NEĮGALIŲJŲ
 
 SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ PENSIJŲ ĮSTATYMO, MOKSLININKŲ
 
-VALSTYBINIŲ PENSIJŲ LAIKINOJO ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS
+VALSTYBINIŲ PENSIJŲ LAIKINOJO ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO
 
-PENSIJŲ IŠANKSTINIO MOKĖJIMO ĮSTATYMO, TEISĖJŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO,
+SENATVĖS PENSIJŲ IŠANKSTINIO MOKĖJIMO ĮSTATYMO, TEISĖJŲ VALSTYBINIŲ PENSIJŲ
 
-PENSIJŲ KAUPIMO ĮSTATYMO, LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARŲ STATUSO
+ĮSTATYMO, PENSIJŲ KAUPIMO ĮSTATYMO, LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARŲ
 
-ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+STATUSO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Šis
 
@@ -479,13 +453,15 @@ našlaičių pensijos), išskyrus šio straipsnio 2, 5, 6 ir 7 dalyse nustatytus
 
 atvejus, pradedamos
 
-mokėti naujų dydžių ne vėliau kaip praėjus 2 mėnesiams nuo šio įstatymo įsigaliojimo.
+mokėti naujų dydžių ne vėliau kaip praėjus 2 mėnesiams nuo šio įstatymo
 
-Šioms pensijoms Valstybinių socialinio draudimo pensijų įstatymo 34 straipsnio
+įsigaliojimo. Šioms pensijoms Valstybinių socialinio draudimo pensijų įstatymo
 
-1 dalies 2 punkto reikalavimas netaikomas. Paskirtų ir naujo dydžio našlių pensijų
+34 straipsnio 1 dalies 2 punkto reikalavimas netaikomas. Paskirtų ir
 
-dydžių skirtumas kompensuojamas nuo šio įstatymo įsigaliojimo dienos.
+naujo dydžio našlių pensijų dydžių skirtumas kompensuojamas nuo šio įstatymo
+
+įsigaliojimo dienos.
 
 2. Jeigu iki 2007 m. sausio 1 d.
 
@@ -493,13 +469,13 @@ paskirtos našlių pensijos dydis viršija našlių pensijos bazinį dydį, ši 
 
 mokama 2006 m. gruodžio mėnesio dydžio, jo neindeksuojant ir jokiu kitu būdu
 
-nedidinant tol, kol našlių pensijos bazinis dydis ima viršyti mokamos našlių pensijos
+nedidinant tol, kol našlių pensijos bazinis dydis ima viršyti mokamos našlių
 
-dydį. Kai našlių pensijos bazinis dydis ima viršyti mokamos našlių pensijos
+pensijos dydį. Kai našlių pensijos bazinis dydis ima viršyti mokamos našlių
 
-dydį, našlių pensija našlei (našliui) toliau mokama našlių pensijos bazinio
+pensijos dydį, našlių pensija našlei (našliui) toliau mokama našlių pensijos
 
-dydžio.
+bazinio dydžio.
 
 3. Jeigu asmuo įgijo teisę gauti našlių
 
@@ -509,9 +485,9 @@ kreipėsi įstatymui įsigaliojus, bet ne vėliau kaip iki 2007 m. gruodžio 31 
 
 šios pensijos, taikant Valstybinių socialinio draudimo pensijų įstatymo 41
 
-straipsnio 1 dalyje nustatytą terminą, skiriamos iki įstatymo įsigaliojimo galiojusia
+straipsnio 1 dalyje nustatytą terminą, skiriamos iki įstatymo įsigaliojimo
 
-tvarka ir galiojusių dydžių.
+galiojusia tvarka ir galiojusių dydžių.
 
 4. Našlei ar našliui, kurių sutuoktiniai
 
@@ -539,11 +515,11 @@ kaip slaugantiems namuose mirusiojo vaikus (įvaikius), kuriems nustatyta 75–1
 
 procentų netekto darbingumo (iki 2005 m. liepos 1 d. – I invalidumo grupė),
 
-jeigu šie vaikai (įvaikiai) buvo pripažinti neįgaliaisiais (iki 2005 m. liepos 1
+jeigu šie vaikai (įvaikiai) buvo pripažinti neįgaliaisiais (iki 2005 m. liepos
 
-d. – invalidais) iki jiems sukankant 18 metų ir jeigu jiems mokama našlaičių ar
+1 d. – invalidais) iki jiems sukankant 18 metų ir jeigu jiems mokama našlaičių
 
-šalpos našlaičių pensija, mokamos kartu su mirusiojo vaikams (įvaikiams) iki
+ar šalpos našlaičių pensija, mokamos kartu su mirusiojo vaikams (įvaikiams) iki
 
 šio įstatymo įsigaliojimo paskirtomis tuo metu galiojusių dydžių našlaičių
 
@@ -665,9 +641,9 @@ d. sutuoktinius, gavėjams.
 
 pensijų įstatymo 36 straipsnyje nurodytas valstybinės socialinio draudimo
 
-našlių pensijos bazinis dydis taikomas tik skiriant ir mokant valstybines socialinio
+našlių pensijos bazinis dydis taikomas tik skiriant ir mokant valstybines
 
-draudimo našlių pensijas.
+socialinio draudimo našlių pensijas.
 
 11. Šio įstatymo pirmojo skirsnio 11
 
@@ -719,11 +695,23 @@ SOCIALINIO DRAUDIMO SENATVĖS PENSIJŲ IŠANKSTINIO MOKĖJIMO ĮSTATYMO 3, 4, 5,
 
 1 d.
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-68,
+
+2012-12-20, Žin., 2012, Nr. 154-7921 (2012-12-29)
+
+VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS
+
+PENSIJŲ IŠANKSTINIO MOKĖJIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2011-06-28)
+(2013-01-03)
 
 ausrine.trapinskiene@lrs.lt
 
@@ -731,13 +719,13 @@ ausrine.trapinskiene@lrs.lt
 
 Teisę gauti
 
-išankstinę senatvės pensiją turi nuolat Lietuvos Respublikoje gyvenantys
+išankstinę senatvės pensiją turi nuolat Lietuvos Respublikoje gyvenantys asmenys,
 
-asmenys, atitinkantys šio Įstatymo 3 straipsnyje nustatytas sąlygas išankstinei
+atitinkantys šio Įstatymo 3 straipsnyje nustatytas sąlygas išankstinei senatvės
 
-senatvės pensijai skirti, jeigu Lietuvos Respublikos tarptautinėse sutartyse
+pensijai skirti, jeigu Lietuvos Respublikos tarptautinėse sutartyse nenustatyta
 
-nenustatyta kitaip.
+kitaip.
 
 3 straipsnis. Išankstinės senatvės pensijos skyrimo sąlygos
 
@@ -759,39 +747,39 @@ mažesnį kaip 30 metų valstybinio socialinio pensijų draudimo stažą, išsky
 
 šio straipsnio 2 dalyje nurodytus asmenis;
 
-3) paskutinius
+3) (neteko
 
-12 mėnesių iki kreipimosi dėl išankstinės senatvės pensijos įstatymų nustatyta
-
-tvarka buvo registruotas bedarbiu Lietuvos darbo biržos teritorinėje darbo
-
-biržoje, išskyrus šio straipsnio 3 dalyje nurodytus asmenis;
-
-3 punktas netenka galios nuo 2012 m.
-
-sausio 1 d.
+galios nuo 2012 m. sausio 1 d.);
 
 4) negauna kitų
 
-valstybinių socialinio draudimo, valstybinių, šalpos pensijų (išskyrus šalpos pensijas,
+valstybinių socialinio draudimo, valstybinių, šalpos pensijų (išskyrus šalpos
 
-įstatymų nustatytais atvejais mokamas namuose invalidus slaugantiems asmenims),
+pensijas, įstatymų nustatytais atvejais mokamas namuose invalidus slaugantiems
 
-užsienio valstybės pensijų, nuolatinių pensinio pobūdžio išmokų už asmens darbo
+asmenims, ir pensijų išmokas, mokamas pagal Pensijų kaupimo įstatymą), užsienio
 
-pobūdį (valstybinės signataro rentos, artistų rentos arba kompensacinės išmokos
+valstybės pensijų (išskyrus ankstyvą senatvės išmoką arba senatvės išmoką,
 
-teatrų ir koncertinių įstaigų kūrybiniams darbuotojams, kompensacijos už
+paskirtas vadovaujantis Europos Sąjungos socialinės apsaugos sistemų
 
-ypatingas darbo sąlygas ir pan.), mokamų iš valstybės biudžeto ar Valstybinio
+koordinavimo reglamentais ar Lietuvos Respublikos sudarytų tarptautinių
 
-socialinio draudimo fondo biudžeto, pensijų išmokų, gaunamų bet kuriuo Pensijų
+sutarčių dėl pensijų mokėjimo nuostatomis), nuolatinių pensinio pobūdžio išmokų
 
-kaupimo ir Papildomo savanoriško pensijų kaupimo įstatymuose nustatytu būdu,
+už asmens darbo pobūdį (valstybinės signataro rentos, artistų rentos arba
 
-netekto darbingumo periodinės kompensacijos, šalpos kompensacijos, nedarbo
+kompensacinės išmokos teatrų ir koncertinių įstaigų kūrybiniams darbuotojams,
 
-socialinio draudimo išmokos ar priešpensinės bedarbio išmokos (toliau
+kompensacijos už ypatingas darbo sąlygas ir pan.), mokamų iš valstybės
+
+biudžeto ar Valstybinio socialinio draudimo fondo biudžeto, pensijų išmokų,
+
+gaunamų bet kuriuo Papildomo savanoriško pensijų kaupimo įstatymo nustatytu
+
+būdu, netekto darbingumo periodinės kompensacijos, šalpos kompensacijos,
+
+nedarbo socialinio draudimo išmokos ar priešpensinės bedarbio išmokos (toliau
 
 šiame Įstatyme – pensijos ir išmokos);
 
@@ -843,25 +831,9 @@ mažesnį kaip 15 metų valstybinio socialinio pensijų draudimo stažą.
 
 3.
 
-Asmeniui, kuris iki kreipimosi dėl išankstinės senatvės pensijos skyrimo
+Neteko
 
-teisės aktų nustatyta tvarka buvo pripažintas nedarbingu ir atitinka šio
-
-straipsnio 1 dalies 1, 2 ir 4–6 punktuose išvardytas sąlygas, išankstinė
-
-senatvės pensija skiriama, jeigu jis buvo įstatymų nustatyta tvarka
-
-nepertraukiamai registruotas bedarbiu Lietuvos darbo biržos teritorinėje darbo
-
-biržoje paskutinius 12 mėnesių, iki buvo pripažintas nedarbingu, ir jeigu jis,
-
-tapęs darbingu, vėl užsiregistravo ir yra registruotas bedarbiu iki pat
-
-kreipimosi dėl išankstinės senatvės pensijos dienos.
-
-3 dalis netenka galios nuo 2012 m.
-
-sausio 1 d.
+galios nuo 2012 m. sausio 1 d.
 
 Straipsnio pakeitimai:
 
@@ -871,9 +843,9 @@ IX-2375,
 
 2004-07-15, Žin., 2004, Nr. 117-4373 (2004-07-29)
 
-Nr. IX-2539,
+Nr. IX-2539, 2004-11-04,
 
-2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26)
+Žin., 2004, Nr. 171-6299 (2004-11-26)
 
 Nr. X-208, 2005-05-19,
 
@@ -887,6 +859,10 @@ Nr. XI-1437,
 
 2011-06-09, Žin., 2011, Nr. 77-3724 (2011-06-28)
 
+Nr. XII-68,
+
+2012-12-20, Žin., 2012, Nr. 154-7921 (2012-12-29)
+
 pensijos mokėjimas buvo nutrauktas (šio Įstatymo 7 straipsnis), išankstinė
 
 senatvės pensija apskaičiuojama šio straipsnio 1 dalyje nustatyta tvarka ir
@@ -894,10 +870,6 @@ senatvės pensija apskaičiuojama šio straipsnio 1 dalyje nustatyta tvarka ir
 mažinama po 0,4 procento už kiekvieną pilną mėnesį, kuriuos asmuo buvo gavęs
 
 anksčiau išankstinę senatvės pensiją.
-
-Straipsnis papildomas 3 dalimi nuo 2012
-
-m. sausio 1 d.
 
 3. Išankstinių
 
