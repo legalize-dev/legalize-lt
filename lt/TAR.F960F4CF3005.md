@@ -4,7 +4,7 @@ identifier: "TAR.F960F4CF3005"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2011-12-08"
+last_updated: "2012-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 department: "Lietuvos Respublikos Seimas"
@@ -883,14 +883,6 @@ ar jos įgaliotos institucijos nustatytą tvarką;
 
 priimtiems sprendimams vykdyti.
 
-Pastaba.
-
-2 dalies nuostatos taikomos rengiant 2011 metų ir vėlesnių metų valstybės
-
-biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
-
-projektus.
-
 3. Valstybės biudžeto bendrosios dotacijos kompensacijos
 
 (BDK) savivaldybių biudžetams skiriamos dėl Seimo ar Vyriausybės priimtų
@@ -1063,15 +1055,15 @@ pajamų mokesčio vienam savivaldybės gyventojui.
 
 savivaldybės gyventojui ir visų savivaldybių gyventojams apskaičiuojamos pagal
 
-nustatytos Mokesčių ir kitų įmokų į biudžetus apyskaitos duomenis.]
+nustatytos Mokesčių ir kitų įmokų į biudžetus apyskaitos duomenis.
 
 Straipsnio
 
 pakeitimai:
 
-Nr. IX-1235, 2002-12-10,
+Nr. IX-1235,
 
-Žin., 2002, Nr. 123-5527 (2002-12-24)
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
 
 8 straipsnis. Lėšų, skiriamų savivaldybių išlaidų struktūrų
 
@@ -1083,11 +1075,11 @@ nustatymas ir paskirstymas savivaldybėms
 
 1.
 
-Lėšų, skiriamų savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių
+Lėšų, skiriamų savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo
 
-veiklos nepriklausantys veiksniai, išlyginti, dydis apskaičiuojamas pagal
+savivaldybių veiklos nepriklausantys veiksniai, išlyginti, dydis
 
-formulę
+apskaičiuojamas pagal formulę
 
 L2 = L – L1.
 
@@ -1129,11 +1121,11 @@ apskaičiuota pagal formulę , čia Rni
 
 – i-osios savivaldybės
 
-n-ojo rodiklio reikšmė. Skaičiuojant Eni, imama Rni tik tų
+n-ojo rodiklio reikšmė. Skaičiuojant Eni, imama Rni tik
 
-savivaldybių, kurių gyventojų pajamų mokesčio dalis, patvirtinta šio Įstatymo
+tų savivaldybių, kurių gyventojų pajamų mokesčio dalis, patvirtinta šio
 
-priedėlyje, yra 100 procentų.]
+Įstatymo priedėlyje, yra 100 procentų.
 
 4. Valstybės
 
@@ -1163,11 +1155,9 @@ dalis, apskaičiuojama pagal formulę , čia Rni
 
 imama Rni tik tų savivaldybių, kurių gyventojų pajamų mokesčio
 
-dalis, patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.]
+dalis, patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.
 
-Straipsnio
-
-pakeitimai:
+Straipsnio pakeitimai:
 
 Nr. IX-1235,
 
@@ -1181,9 +1171,9 @@ RODIKLIŲ
 
 TVIRTINIMAS, DERINIMAS, DOTACIJŲ IR LĖŠŲ PERVEDIMAS
 
-9 straipsnis. Savivaldybių biudžetų
+9 straipsnis. Savivaldybių biudžetų pajamų
 
-pajamų dydį ir išlyginimą lemiantys rodikliai
+dydį ir išlyginimą lemiantys rodikliai
 
 1. Savivaldybių biudžetų pajamų dydį ir
 
@@ -1293,9 +1283,9 @@ pajamų mokesčiui išlyginti;
 
 3) valstybės biudžeto bendrosios
 
-dotacijos (jeigu ji numatoma) dalį, skiriamą kiekvienai savivaldybei išlaidų struktūrų
+dotacijos (jeigu ji numatoma) dalį, skiriamą kiekvienai savivaldybei išlaidų
 
-skirtumams išlyginti;
+struktūrų skirtumams išlyginti;
 
 4) valstybės biudžeto specialias
 
@@ -1385,9 +1375,9 @@ susijusios su savivaldybių pajamų ir išlaidų pasikeitimu, apskaičiuojamos:
 
 turi vienodą įtaką visoms savivaldybėms, – pagal formulę , čia BDKi – i-ajai
 
-savivaldybei skiriama arba paimama valstybės biudžeto bendrosios dotacijos
+savivaldybei skiriama arba paimama valstybės biudžeto bendrosios dotacijos kompensacijos
 
-kompensacijos suma;
+suma;
 
 2) jeigu Seimo ar Vyriausybės sprendimai
 
@@ -1449,12 +1439,6 @@ Nr. XI-1739,
 
 2011-11-29, Žin., 2011, Nr. 150-7046 (2011-12-08)
 
-Pastaba: Šio įstatymo
-
-nuostatos taikomos rengiant 2012 metų ir vėlesnių metų valstybės biudžeto ir
-
-savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
-
 11
 
 straipsnis. Finansinių rodiklių derinimas
@@ -1501,11 +1485,11 @@ pajamos (be specialių tikslinių dotacijų ir pajamų iš vietinių rinkliavų)
 
 didėja daugiau kaip 21 procentu, palyginti su einamaisiais biudžetiniais metais
 
-apskaičiuotomis pajamomis. Šios kompensacijos nuo biudžetinių metų antrojo ketvirčio
+apskaičiuotomis pajamomis. Šios kompensacijos nuo biudžetinių metų antrojo
 
-iki gruodžio 31 dienos įskaitytinai valstybės biudžetui kas ketvirtį lygiomis
+ketvirčio iki gruodžio 31 dienos įskaitytinai valstybės biudžetui kas ketvirtį
 
-dalimis grąžinamos iš savivaldybių biudžetų.
+lygiomis dalimis grąžinamos iš savivaldybių biudžetų.
 
 3. 2010–2012 biudžetiniais metais
 
@@ -1531,9 +1515,9 @@ rodiklių patvirtinimo įstatymų projektuose valstybės biudžetui numatomos
 
 reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacijos iš tų
 
-savivaldybių, kurių 2010–2012 metams prognozuojamos palyginamaisiais dydžiais
+savivaldybių, kurių 2010–2012 metams prognozuojamos palyginamaisiais dydžiais ir
 
-ir sąlygomis pajamos (be specialių tikslinių dotacijų ir pajamų iš vietinių
+sąlygomis pajamos (be specialių tikslinių dotacijų ir pajamų iš vietinių
 
 rinkliavų) didėja, palyginti su 2009 biudžetiniais metais apskaičiuotomis
 
@@ -2493,29 +2477,21 @@ iš vietinių rinkliavų už komunalinių atliekų surinkimą iš atliekų turė
 
 už atliekų tvarkymą.
 
-Pastaba.
-
-1 dalies nuostatos taikomos rengiant 2011 metų ir vėlesnių metų valstybės
-
-biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
-
-projektus.
-
 2. Jeigu vykdant valstybės biudžetą gautų viršplaninių
 
-pajamų ir netekusių paskirties asignavimų nepakanka savivaldybių biudžetų negautoms
+pajamų ir netekusių paskirties asignavimų nepakanka savivaldybių biudžetų
 
-mokestinėms pajamoms padengti, joms kompensuoti gali būti naudojama ne daugiau
+negautoms mokestinėms pajamoms padengti, joms kompensuoti gali būti naudojama
 
-kaip 30 procentų savivaldybių biudžetų, kurių visos prognozuotos pajamos buvo
+ne daugiau kaip 30 procentų savivaldybių biudžetų, kurių visos prognozuotos
 
-gautos, viršplaninių pajamų, gautų iš gyventojų pajamų mokesčio. Atskiros
+pajamos buvo gautos, viršplaninių pajamų, gautų iš gyventojų pajamų mokesčio.
 
-savivaldybės viršplaninių gyventojų pajamų mokesčio suma, skiriama negautoms
+Atskiros savivaldybės viršplaninių gyventojų pajamų mokesčio suma, skiriama
 
-pajamoms kompensuoti, neturi viršyti 50 procentų tos savivaldybės bendros
+negautoms pajamoms kompensuoti, neturi viršyti 50 procentų tos savivaldybės
 
-viršplaninių pajamų sumos.
+bendros viršplaninių pajamų sumos.
 
 3. Vyriausybė, biudžetiniams metams pasibaigus, iki
 
@@ -2551,13 +2527,13 @@ pervesti, bet praėjusiais biudžetiniais metais nepervestas bendrosios dotacijo
 
 kompensacijų sumas (atitinkamą jų dalį), nuo kurių pervedimo savivaldybė
 
-atleidžiama, arba praėjusiais biudžetiniais metais pervestas bendrosios
+atleidžiama, arba praėjusiais biudžetiniais metais pervestas bendrosios dotacijos
 
-dotacijos kompensacijų sumas (atitinkamą jų dalį), kurios grąžinamos
+kompensacijų sumas (atitinkamą jų dalį), kurios grąžinamos savivaldybei iki
 
-savivaldybei iki biudžetinių metų pabaigos iš valstybės biudžeto gautų
+biudžetinių metų pabaigos iš valstybės biudžeto gautų bendrosios dotacijos
 
-bendrosios dotacijos kompensacijų.
+kompensacijų.
 
 Skirsnio
 
@@ -2611,7 +2587,7 @@ Fizinių asmenų pajamų mokesčio dalis (proc.)
 
 Vilniaus miesto
 
-40
+42
 
 Pakruojo rajono
 
@@ -2835,7 +2811,7 @@ Kazlų Rūdos
 
 Mažeikių rajono
 
-95
+99
 
 Pagėgių
 
@@ -2859,9 +2835,9 @@ Nr. IX-1235,
 
 Nr.
 
-X-434, 2005-12-08,
+X-434,
 
-Žin., 2005, Nr. 150-5463 (2005-12-24)
+2005-12-08, Žin., 2005, Nr. 150-5463 (2005-12-24)
 
 Nr.
 
@@ -2869,7 +2845,17 @@ XI-509,
 
 2009-12-02, Žin., 2009, Nr. 147-6552 (2009-12-12)
 
-_______________
+Nr. XII-77,
+
+2012-12-20, Žin., 2012, Nr. 153-7827 (2012-12-29)
+
+Pastaba. Šio
+
+įstatymo nuostatos taikomos rengiant 2013 metų ir vėlesnių metų valstybės
+
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų
+
+projektus.
 
 Pakeitimai:
 
