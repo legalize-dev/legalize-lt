@@ -4,7 +4,7 @@ identifier: "TAR.5C23DECF6210"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-22"
-last_updated: "2011-12-01"
+last_updated: "2012-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210"
 department: "Lietuvos Respublikos Seimas"
@@ -854,9 +854,9 @@ garantiją, valstybės garantiją tarptautinei finansų institucijai ir Lietuvos
 
 Respublikos tarptautinės sutarties pagrindu parengtą susitarimą pasirašo
 
-finansų ministras, o kreditoriaus pageidavimu teikiamą teisinę išvadą dėl
+finansų ministras, o kreditoriaus pageidavimu teikiamą teisinę išvadą dėl suteiktos
 
-suteiktos garantijos pasirašo teisingumo ministras arba jo įgaliotas asmuo.
+garantijos pasirašo teisingumo ministras arba jo įgaliotas asmuo.
 
 4.
 
@@ -916,11 +916,15 @@ indėlių ir įsipareigojimų investuotojams draudimo įstatyme numatytų indėl
 
 (ar) įsipareigojimų investuotojams draudimo išmokų mokėjimui finansuoti,
 
-valstybės garantijų, nurodytų šio įstatymo 4 straipsnio 2 dalies 1, 2, 4 punktuose
+Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų
 
-ir 3 dalyje, teikimo valstybės investicijoms finansuoti, taip pat tokių
+finansinių rodiklių patvirtinimo įstatyme nustatytiems tikslams finansuoti,
 
-valstybės garantijų sąlygų keitimo;
+valstybės garantijų, nurodytų šio įstatymo 4 straipsnio 2 dalies 1, 2, 4
+
+punktuose ir 3 dalyje, teikimo valstybės investicijoms finansuoti, taip pat
+
+tokių valstybės garantijų sąlygų keitimo;
 
 2) suteiktų
 
@@ -966,9 +970,13 @@ institucija.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1749, 2011-11-29,
+Nr. XI-1749,
 
-Žin., 2011, Nr. 146-6855 (2011-12-01)
+2011-11-29, Žin., 2011, Nr. 146-6855 (2011-12-01)
+
+Nr. XII-81,
+
+2012-12-20, Žin., 2012, Nr. 153-7831 (2012-12-29)
 
 5 straipsnis. Užsienio paskola
 
@@ -1304,27 +1312,27 @@ steigimas ir valstybės garantija už garantijų instituciją
 
 1. Vyriausybė
 
-turi teisę steigti garantijų institucijas, kurios užtikrintų Lietuvos
+turi teisę steigti garantijų institucijas, kurios užtikrintų Lietuvos Respublikos
 
-Respublikos ir užsienio valstybių kredito įstaigoms, finansinės nuomos
+ir užsienio valstybių kredito įstaigoms, finansinės nuomos (lizingo) bendrovėms
 
-(lizingo) bendrovėms pagal garantijas Lietuvos Respublikos juridiniams
+pagal garantijas Lietuvos Respublikos juridiniams asmenims, Lietuvos
 
-asmenims, Lietuvos Respublikoje įsteigtiems Europos ekonominės erdvės valstybių
+Respublikoje įsteigtiems Europos ekonominės erdvės valstybių narių įmonių
 
-narių įmonių filialams ar Lietuvos Respublikos piliečiams arba kitiems
+filialams ar Lietuvos Respublikos piliečiams arba kitiems asmenims, kuriems,
 
-asmenims, kuriems, vadovaujantis Europos Sąjungos teise, yra suteiktos
+vadovaujantis Europos Sąjungos teise, yra suteiktos analogiškos teisės kaip ir
 
-analogiškos teisės kaip ir Lietuvos Respublikos piliečiams, teikiamų paskolų
+Lietuvos Respublikos piliečiams, teikiamų paskolų grąžinimą ir naujos
 
-grąžinimą ir naujos (nenaudotos) gamybinės įrangos ir (arba) naujų (nenaudotų)
+(nenaudotos) gamybinės įrangos ir (arba) naujų (nenaudotų) įrenginių finansinės
 
-įrenginių finansinės nuomos (lizingo) sutartyse nustatytos kainos ar jos dalies
+nuomos (lizingo) sutartyse nustatytos kainos ar jos dalies sumokėjimą, jeigu
 
-sumokėjimą, jeigu tam tikroms programoms įgyvendinti yra numatyta lėšų tų metų
+tam tikroms programoms įgyvendinti yra numatyta lėšų tų metų valstybės biudžete
 
-valstybės biudžete ar valstybės fonduose.
+ar valstybės fonduose.
 
 2. Už garantijų institucijos
 
@@ -1334,23 +1342,21 @@ finansinės nuomos (lizingo) bendrovėms pagal garantijas įvykdymą garantuoja
 
 valstybė. Vyriausybė kiekvienais metais kiekvienai garantijų institucijai
 
-nustato įsipareigojimų pagal garantijas limitus. Šie limitai negali viršyti Lietuvos
+nustato įsipareigojimų pagal garantijas limitus. Šie limitai negali viršyti
 
-Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų
+Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių
 
-finansinių rodiklių patvirtinimo įstatyme nustatyto limito.
+biudžetų finansinių rodiklių patvirtinimo įstatyme nustatyto limito.
 
 3. Garantijų
 
-institucijos garantijas Vyriausybės nustatyta tvarka pasirašo garantijų
+institucijos garantijas Vyriausybės nustatyta tvarka pasirašo garantijų institucijos
 
-institucijos vadovas. Vyriausybės įsteigtų garantijų institucijų
+vadovas. Vyriausybės įsteigtų garantijų institucijų įsipareigojimai Lietuvos
 
-įsipareigojimai Lietuvos Respublikos ir užsienio valstybių kredito įstaigoms ir
+Respublikos ir užsienio valstybių kredito įstaigoms ir finansinės nuomos
 
-finansinės nuomos (lizingo) bendrovėms pagal garantijas prilyginami valstybės
-
-garantijai.
+(lizingo) bendrovėms pagal garantijas prilyginami valstybės garantijai.
 
 4. Garantijų
 
@@ -1490,11 +1496,11 @@ sustabdyti delspinigių skaičiavimą valstybės skolininkui arba valstybės
 
 garantuojamam skolininkui, taip pat atleisti šiuos skolininkus nuo nesumokėto
 
-valiutų kursų skirtumo, kuris apskaičiuotas, kai jie praleido prievolės įvykdymo
+valiutų kursų skirtumo, kuris apskaičiuotas, kai jie praleido prievolės
 
-terminą, o po šio termino pabaigos – kai dėl valiutų kursų pasikeitimo valiuta,
+įvykdymo terminą, o po šio termino pabaigos – kai dėl valiutų kursų pasikeitimo
 
-kuria turi būti mokama, nuvertėjo, mokėjimo. Atleidimo nuo delspinigių
+valiuta, kuria turi būti mokama, nuvertėjo, mokėjimo. Atleidimo nuo delspinigių
 
 mokėjimo, nuo valiutų kursų skirtumo mokėjimo, taip pat delspinigių skaičiavimo
 
@@ -1520,17 +1526,17 @@ ir esant galimybei pateikia skolos grąžinimą užtikrinančias priemones;
 
 2) valstybės skolininko arba valstybės
 
-garantuojamo skolininko – fizinio asmens, taip pat ūkininko, individualios
+garantuojamo skolininko – fizinio asmens, taip pat ūkininko, individualios įmonės
 
-įmonės savininko arba ūkinės bendrijos nario – ekonominė (socialinė) padėtis
+savininko arba ūkinės bendrijos nario – ekonominė (socialinė) padėtis yra
 
-yra sunki. Kriterijus, kuriais vadovaujantis pripažįstama, kad valstybės
+sunki. Kriterijus, kuriais vadovaujantis pripažįstama, kad valstybės skolininko
 
-skolininko arba valstybės garantuojamo skolininko – fizinio asmens, taip pat
+arba valstybės garantuojamo skolininko – fizinio asmens, taip pat ūkininko,
 
-ūkininko, individualios įmonės savininko arba ūkinės bendrijos nario –
+individualios įmonės savininko arba ūkinės bendrijos nario – ekonominė
 
-ekonominė (socialinė) padėtis yra sunki, nustato Vyriausybė arba jos įgaliota
+(socialinė) padėtis yra sunki, nustato Vyriausybė arba jos įgaliota
 
 institucija.
 
@@ -1564,17 +1570,17 @@ pabaigos dėl valiutų kursų pasikeitimo valiuta, kuria turi būti mokama,
 
 nuvertėjo, šie skolininkai privalo sumokėti Finansų ministerijai arba Mokslo ir
 
-studijų įstatyme nurodytų valstybės remiamų paskolų atveju – Vyriausybės įgaliotai
+studijų įstatyme nurodytų valstybės remiamų paskolų atveju – Vyriausybės
 
-institucijai ar įstaigai valiutos kurso, buvusio prievolės įvykdymo termino
+įgaliotai institucijai ar įstaigai valiutos kurso, buvusio prievolės įvykdymo
 
-suėjimo metu, ir mokėjimo metu esančio kurso skirtumą. Finansų ministerijos
+termino suėjimo metu, ir mokėjimo metu esančio kurso skirtumą. Finansų
 
-sprendimai dėl skolos išieškojimo iš valstybės skolininko arba valstybės
+ministerijos sprendimai dėl skolos išieškojimo iš valstybės skolininko arba
 
-garantuojamo skolininko perduodami antstoliams vykdyti Civilinio proceso
+valstybės garantuojamo skolininko perduodami antstoliams vykdyti Civilinio
 
-kodekso nustatyta tvarka.
+proceso kodekso nustatyta tvarka.
 
 3. Kai akcinė bendrovė Turto bankas
 
@@ -1616,11 +1622,11 @@ ekonominiu požiūriu netikslinga šiam skolininkui keisti perskolinamos paskolo
 
 ir (arba) skolos grąžinimo sąlygas arba priimti ir pateikti vykdyti Finansų
 
-ministerijos sprendimą išieškoti skolą, Finansų ministerija arba akcinė bendrovė
+ministerijos sprendimą išieškoti skolą, Finansų ministerija arba akcinė
 
-Turto bankas, kai ši bendrovė administruoja Finansų ministerijos perduotas
+bendrovė Turto bankas, kai ši bendrovė administruoja Finansų ministerijos
 
-perskolinamas paskolas, valstybės garantijas ir kitus turtinius
+perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius
 
 įsipareigojimus, turi teisę teisės aktų nustatyta tvarka kreiptis į teismą su
 
@@ -1638,19 +1644,17 @@ pat nesumokėtos palūkanos, delspinigiai ir kiti turtiniai įsipareigojimai,
 
 kurių neįmanoma arba netikslinga išieškoti dėl šių priežasčių:
 
-1) mirus
+1) mirus valstybės
 
-valstybės skolininkui arba valstybės garantuojamam skolininkui, nėra įpėdinių,
+skolininkui arba valstybės garantuojamam skolininkui, nėra įpėdinių, galinčių
 
-galinčių atsakyti už valstybės skolininko arba valstybės garantuojamo
+atsakyti už valstybės skolininko arba valstybės garantuojamo skolininko
 
-skolininko turtinius įsipareigojimus valstybei (Mokslo ir studijų įstatyme
+turtinius įsipareigojimus valstybei (Mokslo ir studijų įstatyme nurodytų
 
-nurodytų valstybės remiamų paskolų atveju – mirus valstybės remiamos paskolos
+valstybės remiamų paskolų atveju – mirus valstybės remiamos paskolos gavėjui);
 
-gavėjui); valstybės skolininkas arba valstybės garantuojamas skolininkas yra
-
-likviduotas;
+valstybės skolininkas arba valstybės garantuojamas skolininkas yra likviduotas;
 
 2) su valstybės skolininku arba
 
@@ -1672,15 +1676,15 @@ perskolinamos paskolos arba skolos dalis;
 
 4) praėjus
 
-daugiau kaip vieniems metams nuo tos dienos, kurią buvo pradėti išieškojimo
+daugiau kaip vieniems metams nuo tos dienos, kurią buvo pradėti išieškojimo veiksmai,
 
-veiksmai, nerasta valstybės skolininko arba valstybės garantuojamo skolininko
+nerasta valstybės skolininko arba valstybės garantuojamo skolininko turto arba
 
-turto arba rastas turtas yra nelikvidus (neįmanoma jo realizuoti), arba jeigu
+rastas turtas yra nelikvidus (neįmanoma jo realizuoti), arba jeigu rasto turto
 
-rasto turto pakanka tik skolos daliai padengti, beviltiška pripažįstama likusi
+pakanka tik skolos daliai padengti, beviltiška pripažįstama likusi skolos
 
-skolos dalis;
+dalis;
 
 5) valstybės
 
@@ -1698,9 +1702,9 @@ išduotais dokumentais.
 
 paskolos arba skolos pripažinimo beviltiška Finansų ministerijos siūlymu priima
 
-Vyriausybė arba Mokslo ir studijų įstatyme nurodytų valstybės remiamų paskolų
+Vyriausybė arba Mokslo ir studijų įstatyme nurodytų valstybės remiamų paskolų atveju
 
-atveju – Vyriausybės įgaliota institucija ar įstaiga.
+– Vyriausybės įgaliota institucija ar įstaiga.
 
 3. Perskolinama
 
@@ -1738,15 +1742,15 @@ straipsnis. Atskaitomybė
 
 pasibaigus biudžetiniams metams, kartu su metiniu valstybės biudžeto vykdymo
 
-ataskaitų rinkiniu privalo pateikti Seimui valstybės skolos, suteiktų perskolinamų
+ataskaitų rinkiniu privalo pateikti Seimui valstybės skolos, suteiktų
 
-paskolų ir suteiktų valstybės garantijų ataskaitas. Ataskaitų formas,
+perskolinamų paskolų ir suteiktų valstybės garantijų ataskaitas. Ataskaitų
 
-atitinkančias šio įstatymo ir Lietuvos Respublikos atitinkamų metų valstybės
+formas, atitinkančias šio įstatymo ir Lietuvos Respublikos atitinkamų metų
 
-biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
+valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
 
-nuostatas, nustato finansų ministras.
+įstatymo nuostatas, nustato finansų ministras.
 
 2. Valstybės kontrolė įvertina
 
@@ -1767,8 +1771,6 @@ Seimo priimtą įstatymą.
 RESPUBLIKOS
 
 PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
-
-_______________
 
 Pakeitimai:
 
@@ -1894,9 +1896,7 @@ Nauja
 
 9.
 
-Lietuvos Respublikos Seimas,
-
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. X-251, 2005-06-16,
 
@@ -1970,9 +1970,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-XI-393, 2009-07-22,
+XI-393,
 
-Žin., 2009, Nr. 93-3985 (2009-08-04)
+2009-07-22, Žin., 2009, Nr. 93-3985 (2009-08-04)
 
 FINANSINIO
 
@@ -2034,11 +2034,23 @@ VALSTYBĖS SKOLOS ĮSTATYMO 4 IR 7 STRAIPSNIŲ
 
 PAKEITIMO ĮSTATYMAS
 
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-81,
+
+2012-12-20, Žin., 2012, Nr. 153-7831 (2012-12-29)
+
+VALSTYBĖS SKOLOS ĮSTATYMO 7 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo Aušra Bodin (2011-12-12)
+Redagavo Aušrinė Trapinskienė (2013-01-02)
 
-aubodi@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 11 straipsnis. Atskaitomybė
 
