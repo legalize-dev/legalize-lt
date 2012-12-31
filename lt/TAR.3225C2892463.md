@@ -4,7 +4,7 @@ identifier: "TAR.3225C2892463"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-06"
-last_updated: "2011-12-08"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3225C2892463"
 department: "Lietuvos Respublikos Seimas"
@@ -37,9 +37,9 @@ Nr. 59-1476, Nr.
 
 102-2282; 1997,
 
-Nr. 30-708, Nr. 104-2622,
+Nr. 30-708,
 
-Nr. 115-2911; 1998, Nr.
+Nr. 104-2622, Nr. 115-2911; 1998, Nr.
 
 56-1546; 2000, Nr. 111-3578; 2003,
 
@@ -47,9 +47,11 @@ Nr. 32-1314,
 
 Nr. 102-4587;
 
-2004, Nr. 88-3209, Nr. 171-6299; 2005,
+2004, Nr. 88-3209,
 
-Nr. 71-2554;
+Nr. 171-6299;
+
+2005, Nr. 71-2554;
 
 2006, Nr. 72-2687;
 
@@ -185,9 +187,9 @@ Nr. XI-956,
 
 4 straipsnis. Įstatymo įsigaliojimas
 
-Šis Įstatymas
+Šis įstatymas
 
-įsigalioja 2013 m. sausio 1 d.
+įsigalioja 2014 m. sausio 1 d.
 
 Straipsnio pakeitimai:
 
@@ -203,6 +205,10 @@ Nr. XI-1730,
 
 2011-11-22, Žin., 2011, Nr. 150-7045 (2011-12-08)
 
+Nr. XII-93,
+
+2012-12-20, Žin., 2012, Nr. 155-7986 (2012-12-31)
+
 Skelbiu šį
 
 Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -210,8 +216,6 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 
 ADAMKUS
-
-_______________
 
 Pakeitimai:
 
@@ -237,9 +241,9 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XI-532, 2009-12-08,
+Nr. XI-532,
 
-Žin., 2009, Nr. 151-6779 (2009-12-22)
+2009-12-08, Žin., 2009, Nr. 151-6779 (2009-12-22)
 
 VALSTYBINIŲ
 
@@ -275,9 +279,23 @@ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 4, 5, 6
 
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-93,
+
+2012-12-20, Žin., 2012, Nr. 155-7986 (2012-12-31)
+
+VALSTYBINIŲ PENSIJŲ ĮSTATYMO 4, 5, 6
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo Aušra Bodin (2011-12-13)
+Redagavo Aušrinė Trapinskienė
 
-aubodi@lrs.lt
+(2013-01-07)
+
+ausrine.trapinskiene@lrs.lt
 
