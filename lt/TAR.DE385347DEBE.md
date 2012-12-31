@@ -4,7 +4,7 @@ identifier: "TAR.DE385347DEBE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-12-08"
-last_updated: "2011-12-08"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DE385347DEBE"
 department: "Lietuvos Respublikos Seimas"
@@ -28,11 +28,9 @@ Neoficialus
 
 LIETUVOS RESPUBLIKOS
 
-TARNYBOS KALĖJIMŲ DEPARTAMENTE PRIE
+TARNYBOS KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO
 
-LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS
-
-STATUTO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO
+MINISTERIJOS STATUTO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO
 
 ĮSTATYMAS
 
@@ -110,9 +108,9 @@ pareigūno III rangą – 0,3 bazinio dydžio;
 
 pareigūno II rangą – 0,35 bazinio dydžio;
 
-6) už pataisos
+6) už pataisos pareigūno
 
-pareigūno I rangą – 0,4 bazinio dydžio;
+I rangą – 0,4 bazinio dydžio;
 
 7) už pataisos
 
@@ -136,9 +134,9 @@ generalinio pareigūno rangą – 0,8 bazinio dydžio.“
 
 2 straipsnis. 1 straipsnyje išdėstyto Tarnybos Kalėjimų
 
-departamente prie Lietuvos Respublikos teisingumo ministerijos statuto 41
+departamente prie Lietuvos Respublikos teisingumo ministerijos statuto 41 straipsnio
 
-straipsnio 3 dalies pakeitimas
+3 dalies pakeitimas
 
 Pakeisti 41
 
@@ -246,13 +244,13 @@ straipsnis. Įstatymo galiojimas
 
 1. Šio įstatymo
 
-1 ir 3 straipsniai įsigalioja 2010 m. sausio 1 d. ir galioja iki 2012 m.
+1 ir 3 straipsniai įsigalioja 2010 m. sausio 1 d. ir galioja iki 2013 m.
 
 gruodžio 31 d.
 
 2. Šio įstatymo
 
-2 ir 4 straipsniai įsigalioja 2013 m. sausio 1 d.
+2 ir 4 straipsniai įsigalioja 2014 m. sausio 1 d.
 
 Straipsnio pakeitimai:
 
@@ -264,6 +262,10 @@ Nr. XI-1724,
 
 2011-11-22, Žin., 2011, Nr. 150-7039 (2011-12-08)
 
+Nr. XII-118,
+
+2012-12-20, Žin., 2012, Nr. 155-7996 (2012-12-31)
+
 Skelbiu šį
 
 Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -273,8 +275,6 @@ RESPUBLIKOS
 PREZIDENTĖ                                                       DALIA
 
 GRYBAUSKAITĖ
-
-________________
 
 Pakeitimai:
 
@@ -300,19 +300,35 @@ PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XI-1724, 2011-11-22,
+Nr. XI-1724,
 
-Žin., 2011, Nr. 150-7039 (2011-12-08)
+2011-11-22, Žin., 2011, Nr. 150-7039 (2011-12-08)
 
 TARNYBOS KALĖJIMŲ DEPARTAMENTE PRIE
 
-LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 1 STRAIPSNIO PAKEITIMO
+LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 1 STRAIPSNIO PAKEITIMO ĮSTATYMO
 
-ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-118,
+
+2012-12-20, Žin., 2012, Nr. 155-7996 (2012-12-31)
+
+TARNYBOS KALĖJIMŲ DEPARTAMENTE PRIE
+
+LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO PAKEITIMO ĮSTATYMO 1
+
+STRAIPSNIO PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 *** Pabaiga ***
 
-Redagavo Aušra Bodin (2011-12-13)
+Redagavo Aušrinė Trapinskienė
 
-aubodi@lrs.lt
+(2013-01-09)
+
+ausrine.trapinskiene@lrs.lt
 
