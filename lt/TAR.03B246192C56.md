@@ -4,7 +4,7 @@ identifier: "TAR.03B246192C56"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-12-02"
-last_updated: "2011-12-08"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.03B246192C56"
 department: "Lietuvos Respublikos Seimas"
@@ -72,7 +72,7 @@ TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ
 
 SĄRAŠAS
 
-I. 2010–2012
+I. 2010–2013
 
 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 
@@ -1198,7 +1198,7 @@ C
 
 1–3
 
-II. 2013 METŲ
+II. 2014 METŲ
 
 VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 
@@ -2318,7 +2318,7 @@ C
 
 1–3
 
-III. NUO 2014
+III. NUO 2015
 
 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 
@@ -3454,15 +3454,19 @@ Nr. XI-1722,
 
 2011-11-22, Žin., 2011, Nr. 150-7037 (2011-12-08)
 
+Nr. XII-116,
+
+2012-12-20, Žin., 2012, Nr. 155-7994 (2012-12-31)
+
 2
 
 straipsnis. Įstatymo įgyvendinimas
 
 Jeigu pagal
 
-2010–2012 metų ir 2013 metų valstybės tarnautojų suvienodintų pareigybių
+2010–2013 metų ir 2014 metų valstybės tarnautojų suvienodintų pareigybių
 
-sąrašus arba jeigu pagal nuo 2014 metų valstybės tarnautojų suvienodintų
+sąrašus arba jeigu pagal nuo 2015 metų valstybės tarnautojų suvienodintų
 
 pareigybių sąrašą turi būti nustatyta aukštesnė valstybės tarnautojo pareigybės
 
@@ -3482,6 +3486,10 @@ Nr. XI-1722,
 
 2011-11-22, Žin., 2011, Nr. 150-7037 (2011-12-08)
 
+Nr. XII-116,
+
+2012-12-20, Žin., 2012, Nr. 155-7994 (2012-12-31)
+
 3
 
 straipsnis. Įstatymo
@@ -3490,19 +3498,19 @@ straipsnis. Įstatymo
 
 1. Šis
 
-įstatymas, išskyrus 2013 metų valstybės tarnautojų suvienodintų pareigybių
+įstatymas, išskyrus 2014 metų valstybės tarnautojų suvienodintų pareigybių
 
-sąrašą ir nuo 2014 metų valstybės tarnautojų suvienodintų pareigybių sąrašą,
+sąrašą ir nuo 2015 metų valstybės tarnautojų suvienodintų pareigybių sąrašą,
 
-įsigalioja 2010 m. sausio 1 d.
+įsigalioja 2010 m. sausio 1 d.
 
-2. 2013 metų
+2. 2014 metų
 
-valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2013 m. sausio
+valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2014 m.
 
-1 d., o nuo 2014 metų valstybės tarnautojų suvienodintų pareigybių sąrašas
+sausio 1 d., o nuo 2015 metų valstybės tarnautojų suvienodintų pareigybių
 
-įsigalioja 2014 m. sausio 1 d.
+sąrašas įsigalioja 2015 m. sausio 1 d.
 
 Straipsnio pakeitimai:
 
@@ -3514,15 +3522,17 @@ Nr. XI-1722,
 
 2011-11-22, Žin., 2011, Nr. 150-7037 (2011-12-08)
 
+Nr. XII-116,
+
+2012-12-20, Žin., 2012, Nr. 155-7994 (2012-12-31)
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS
 
-PREZIDENTĖ                                                            DALIA
+PREZIDENTĖ                                                DALIA
 
 GRYBAUSKAITĖ
-
-_________________
 
 Pakeitimai:
 
@@ -3592,11 +3602,25 @@ VALSTYBĖS TARNYBOS ĮSTATYMO 3 PRIEDO
 
 PAKEITIMO ĮSTATYMO 1, 2 IR 3 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-116,
+
+2012-12-20, Žin., 2012, Nr. 155-7994 (2012-12-31)
+
+VALSTYBĖS TARNYBOS ĮSTATYMO 3 PRIEDO
+
+PAKEITIMO ĮSTATYMO 1, 2 IR 3 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo Aušra Bodin (2011-12-12)
+Redagavo Aušrinė Trapinskienė
 
-aubodi@lrs.lt
+(2013-01-04)
+
+ausrine.trapinskiene@lrs.lt
 
 2 straipsnis. Įstatymo įgyvendinimas
 
