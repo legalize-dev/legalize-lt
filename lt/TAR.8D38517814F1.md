@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2012-07-01"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -63,11 +63,11 @@ atliekų tvarkymo valstybinį reglamentavimą; pagrindinius atliekų tvarkymo
 
 sistemų organizavimo ir planavimo principus; reikalavimus atliekų turėtojams ir
 
-atliekų tvarkytojams; atliekų tvarkymo ekonomines ir finansines priemones;
+atliekų tvarkytojams; atliekų tvarkymo ekonomines ir finansines priemones; alyvų,
 
-alyvų, elektros ir elektroninės įrangos, transporto priemonių, apmokestinamųjų
+elektros ir elektroninės įrangos, transporto priemonių, apmokestinamųjų gaminių
 
-gaminių ir pakuočių gamintojų, importuotojų, platintojų teises ir pareigas.
+ir pakuočių gamintojų, importuotojų, platintojų teises ir pareigas.
 
 2. Šis Įstatymas
 
@@ -217,9 +217,9 @@ medžiagos.
 
 5. Apmokestinamieji gaminiai
 
-– pagal Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymą (toliau – Mokesčio
+– pagal Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymą (toliau –
 
-už aplinkos teršimą įstatymas) apmokestinami gaminiai.
+Mokesčio už aplinkos teršimą įstatymas) apmokestinami gaminiai.
 
 6. Atliekos – medžiaga ar
 
@@ -227,7 +227,9 @@ daiktas, kurių turėtojas atsikrato, ketina ar privalo atsikratyti.
 
 7. Atliekų apdorojimas –
 
-atliekų naudojimo ar šalinimo veikla, įskaitant jų paruošimą naudoti arba šalinti.
+atliekų naudojimo ar šalinimo veikla, įskaitant jų paruošimą naudoti arba
+
+šalinti.
 
 8. Atliekų darytojas –
 
@@ -551,9 +553,7 @@ ir verslo tikslais Lietuvos Respublikos rinkai tiekia elektros ir elektroninę
 
 4) iš kitos valstybės narės įveža
 
-ir verslo tikslais Lietuvos Respublikos rinkai tiekia transporto priemones,
-
-arba
+ir verslo tikslais Lietuvos Respublikos rinkai tiekia transporto priemones, arba
 
 5) iš lizingo (finansinės nuomos)
 
@@ -655,11 +655,9 @@ mokslinių tyrimų atliekos.
 
 – visokios atliekos, nepriskiriamos pavojingosioms atliekoms.
 
-49. Pakartotinis naudojimas – veikla, kai prie atliekų nepriskiriami
+49. Pakartotinis naudojimas – veikla, kai prie atliekų nepriskiriami produktai
 
-produktai ar jų sudedamosios dalys vėl naudojami tam pačiam tikslui, kuriam
-
-buvo sukurti.
+ar jų sudedamosios dalys vėl naudojami tam pačiam tikslui, kuriam buvo sukurti.
 
 50. Pakuočių atliekos –
 
@@ -799,9 +797,9 @@ Nr. X-279, 2005-06-28,
 
 Žin., 2005, Nr. 84-3111 (2005-07-12)
 
-Nr. X-1605, 2008-06-17,
+Nr. X-1605,
 
-Žin., 2008, Nr. 76-2999 (2008-07-05)
+2008-06-17, Žin., 2008, Nr. 76-2999 (2008-07-05)
 
 Nr. X-1674,
 
@@ -809,9 +807,9 @@ Nr. X-1674,
 
 Nr.
 
-XI-624,
+XI-624, 2009-12-22,
 
-2009-12-22, Žin., 2009, Nr. 154-6961 (2009-12-28)
+Žin., 2009, Nr. 154-6961 (2009-12-28)
 
 Nr.
 
@@ -887,13 +885,13 @@ pagrįstumą, išteklių apsaugą, taip pat į bendrą poveikį aplinkai, visuom
 
 sveikatai, ekonomikai ir socialinei aplinkai.
 
-3. Atliekų tvarkytojai ir
+3. Atliekų tvarkytojai ir atliekų
 
-atliekų darytojai turi imtis visų galimų ir ekonomiškai pateisinamų priemonių
+darytojai turi imtis visų galimų ir ekonomiškai pateisinamų priemonių atliekų
 
-atliekų kiekiui bei neigiamam poveikiui visuomenės sveikatai
+kiekiui bei neigiamam poveikiui visuomenės sveikatai ir
 
-ir aplinkai mažinti, kurti ir diegti mažaatliekes technologijas, taupyti gamtos
+aplinkai mažinti, kurti ir diegti mažaatliekes technologijas, taupyti gamtos
 
 išteklius. Tokios įmonės privalo laikytis šio straipsnio 1 dalyje
 
@@ -2021,13 +2019,13 @@ XI-782,
 
 2010-04-27, Žin., 2010, Nr. 54-2645 (2010-05-11) (straipsnis neteko galios)
 
-Papildyta
+Įstatymas
 
-straipsniu:
+papildytas straipsniu:
 
-Nr. XI-1889, 2011-12-22,
+Nr. XI-1889,
 
-Žin., 2012, Nr. 6-188 (2012-01-10)
+2011-12-22, Žin., 2012, Nr. 6-188 (2012-01-10)
 
 25
 
@@ -2037,11 +2035,13 @@ Savivaldybės organizuoja
 
 komunalinių atliekų tvarkymo sistemas, būtinas jų teritorijose susidarančioms
 
-komunalinėms atliekoms tvarkyti, užtikrina tų sistemų funkcionavimą, organizuoja
+komunalinėms atliekoms tvarkyti, užtikrina tų sistemų funkcionavimą,
 
-atliekų, kurių turėtojo nustatyti neįmanoma arba kuris neegzistuoja, tvarkymą
+organizuoja atliekų, kurių turėtojo nustatyti neįmanoma arba kuris
 
-ir administruoja komunalinių atliekų tvarkymo paslaugos teikimą.
+neegzistuoja, tvarkymą ir administruoja komunalinių atliekų tvarkymo paslaugos
+
+teikimą.
 
 Straipsnio
 
@@ -2199,11 +2199,11 @@ komunalinių atliekų tvarkymo regionas nesutampa su teritorijos aukštesniojo
 
 administracinio vieneto ribomis, regioninį atliekų tvarkymo planą tvirtina
 
-teritorijos aukštesniojo administracinio vieneto, kuriame gyvena didžioji
+teritorijos aukštesniojo administracinio vieneto, kuriame gyvena didžioji komunalinių
 
-komunalinių atliekų tvarkymo regiono gyventojų dalis, regiono plėtros taryba
+atliekų tvarkymo regiono gyventojų dalis, regiono plėtros taryba savivaldybių,
 
-savivaldybių, esančių tame komunalinių atliekų tvarkymo regione, pritarimu.
+esančių tame komunalinių atliekų tvarkymo regione, pritarimu.
 
 6. Regioniniuose
 
@@ -2220,10 +2220,6 @@ Aplinkos ministerija.
 planų vykdymo laikotarpis turi sutapti su Valstybinio atliekų
 
 tvarkymo plano vykdymo laikotarpiu.
-
-Straipsnis
-
-papildomas 9 dalimi nuo 2012-10-01:
 
 9. Vyriausybės ar jos įgaliotos
 
@@ -2304,10 +2300,6 @@ esančių komunalinių atliekų ir atliekų, kurių turėtojo nustatyti neįmano
 kuris neegzistuoja, sutvarkymo organizavimą atsakinga savivaldybės vykdomoji
 
 institucija.
-
-Straipsnis
-
-papildomas 8 dalimi nuo 2012-10-01:
 
 8. Vyriausybės ar jos įgaliotos
 
@@ -2431,11 +2423,11 @@ tvarkymo sistemų organizavimas ir jų funkcionavimo užtikrinimas
 
 1. Visos į komunalinių atliekų
 
-tvarkymo regioną įeinančios savivaldybės, didindamos atliekų tvarkymo sistemos efektyvumą,
+tvarkymo regioną įeinančios savivaldybės, didindamos atliekų tvarkymo sistemos
 
-gali bendradarbiauti ir kartu įsteigti  juridinį asmenį – komunalinių atliekų
+efektyvumą, gali bendradarbiauti ir kartu įsteigti  juridinį asmenį –
 
-tvarkymo sistemos administratorių.
+komunalinių atliekų tvarkymo sistemos administratorių.
 
 2. Komunalinių atliekų tvarkymo
 
@@ -2463,13 +2455,13 @@ komunalinių atliekų tvarkymo paslaugą teikiančiam atliekų tvarkytojui parin
 
 šio straipsnio 12 dalyje nurodyto atliekų tvarkytojo priežiūrą ir kontrolę;
 
-3) pateikti savivaldybės
+3) pateikti savivaldybės institucijai
 
-institucijai įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir
+įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir komunalinių
 
-komunalinių atliekų tvarkymą dydžio apskaičiavimą ir, jeigu savivaldybės taryba
+atliekų tvarkymą dydžio apskaičiavimą ir, jeigu savivaldybės taryba šią įmoką
 
-šią įmoką patvirtina, ją rinkti;
+patvirtina, ją rinkti;
 
 4) registruoti komunalinių
 
@@ -2546,10 +2538,6 @@ atsakinga atitinkamos savivaldybės vykdomoji institucija.
 8. Minimalius komunalinių atliekų
 
 tvarkymo paslaugos kokybės reikalavimus nustato Aplinkos ministerija.
-
-Pastaba. 8 dalis
-
-įsigalioja 2012-10-01.
 
 9. Savivaldybių komunalinių
 
@@ -2647,15 +2635,11 @@ komunalines atliekas, kurias rūšiuoti nustato įstatymai ir kiti teisės aktai
 
 14.
 
-Savivaldybė ar savivaldybės pavedimu komunalinių atliekų tvarkymo sistemos administratorius
+Savivaldybė ar savivaldybės pavedimu komunalinių atliekų tvarkymo sistemos
 
-registruoja komunalinių atliekų turėtojus Vyriausybės ar jos įgaliotos
+administratorius registruoja komunalinių atliekų turėtojus Vyriausybės ar jos
 
-institucijos nustatyta tvarka.
-
-Pastaba. 14
-
-dalis įsigalioja 2012-10-01.
+įgaliotos institucijos nustatyta tvarka.
 
 15. Šiame Įstatyme gamintojams ir
 
@@ -2795,9 +2779,9 @@ Nr. X-1605,
 
 Nr.
 
-XI-1324,
+XI-1324, 2011-04-19,
 
-2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
+Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 Nr.
 
@@ -2813,7 +2797,7 @@ Nr. XI-1981,
 
 papildomas 301 straipsniu nuo
 
-2013-01-01:
+2013-07-01:
 
 31 straipsnis. Šalutiniai produktai
 
@@ -2887,9 +2871,9 @@ apmokestinamųjų gaminių ir pakuotės atliekomis, taip pat lėšos, gautos pag
 
 dokumentus, užtikrinančius atliekų tvarkymo finansavimą.
 
-2 dalies redakcija
+2 dalies
 
-nuo 2013-01-01:
+redakcija nuo 2013-01-01:
 
 2. Programos lėšas sudaro
 
@@ -2911,13 +2895,13 @@ gaminių ir pakuotės atliekų tvarkymo sistemų kūrimą,
 
 funkcionavimą ir vystymą, įskaitant ir investicinių projektų įgyvendinimą;
 
-2) visuomenės ir
+2) visuomenės ir savivaldybių
 
-savivaldybių darbuotojų mokymą, švietimą ir informavimą elektros ir
+darbuotojų mokymą, švietimą ir informavimą elektros ir elektroninės
 
-elektroninės įrangos, apmokestinamųjų gaminių ir pakuotės bei jų atliekų
+įrangos, apmokestinamųjų gaminių ir pakuotės bei jų atliekų tvarkymo klausimais
 
-tvarkymo klausimais – ne daugiau kaip 5 procentai Programos metinių įplaukų;
+– ne daugiau kaip 5 procentai Programos metinių įplaukų;
 
 3) elektros ir
 
@@ -2993,11 +2977,17 @@ Nr. IX-2214,
 
 Skirsnio
 
-pakeitimas:
+pakeitimai:
 
 Nr. X-279, 2005-06-28,
 
 Žin., 2005, Nr. 84-3111 (2005-07-12)
+
+Nr.
+
+XI-1892,
+
+2011-12-22, Žin., 2012, Nr. 6-190 (2012-01-10)
 
 Aštuntojo(1) skirsnio
 
@@ -3299,11 +3289,9 @@ kad jos nutraukimo metu ir po veiklos nutraukimo neatsirastų neigiamas poveikis
 
 2. Atliekas naudojanti ar
 
-šalinanti įmonė turi turėti Aplinkos ministerijos nustatyta tvarka parengtą
+šalinanti įmonė turi turėti Aplinkos ministerijos nustatyta tvarka parengtą atliekų
 
-atliekų naudojimo ar šalinimo veiklos nutraukimo planą. Jame turi būti
-
-numatyta:
+naudojimo ar šalinimo veiklos nutraukimo planą. Jame turi būti numatyta:
 
 1) didžiausias leidžiamas įmonėje
 
@@ -4609,7 +4597,9 @@ ministerijos nustatytas gyvsidabrio ir kadmio kiekis.
 
 Baterijų ir akumuliatorių gamintojai ir importuotojai Ūkio ministerijos
 
-nustatyta tvarka privalo ženklinti tiekiamas rinkai baterijas ir akumuliatorius.
+nustatyta tvarka privalo ženklinti tiekiamas rinkai baterijas ir
+
+akumuliatorius.
 
 Įstatymas
 
@@ -4683,19 +4673,19 @@ pramoninių ir automobiliams skirtų baterijų ir akumuliatorių atliekų tvarky
 
 finansuoti kitaip, negu nurodyta šio straipsnio 3 dalyje. Tokie susitarimai
 
-turi užtikrinti, kad pramoninių ir automobiliams skirtų baterijų ir akumuliatorių
+turi užtikrinti, kad pramoninių ir automobiliams skirtų baterijų ir
 
-atliekos bus surinktos ir sutvarkytos laikantis šio Įstatymo ir kitų teisės
+akumuliatorių atliekos bus surinktos ir sutvarkytos laikantis šio Įstatymo ir
 
-aktų reikalavimų.
+kitų teisės aktų reikalavimų.
 
 5.
 
 Nešiojamųjų baterijų ir akumuliatorių gamintojai ir importuotojai privalo
 
-organizuoti nešiojamųjų baterijų ir akumuliatorių atliekų surinkimo sistemą, kad
+organizuoti nešiojamųjų baterijų ir akumuliatorių atliekų surinkimo sistemą,
 
-nešiojamųjų baterijų ir akumuliatorių atliekos iš vartotojų būtų priimamos
+kad nešiojamųjų baterijų ir akumuliatorių atliekos iš vartotojų būtų priimamos
 
 nemokamai ir nereikalaujant pirkti naują bateriją ar akumuliatorių. Ši sistema
 
@@ -4713,17 +4703,17 @@ vartotojų priimti bet kokios cheminės sudėties ir kilmės pramoninių baterij
 
 akumuliatorių atliekas.
 
-7. Automobiliams
+7.
 
-skirtų baterijų ir akumuliatorių gamintojai ir importuotojai privalo
+Automobiliams skirtų baterijų ir akumuliatorių gamintojai ir importuotojai
 
-organizuoti automobiliams skirtų baterijų ir akumuliatorių atliekų surinkimo
+privalo organizuoti automobiliams skirtų baterijų ir akumuliatorių atliekų
 
-sistemą, kad privačiose nekomercinės paskirties transporto priemonėse naudotų
+surinkimo sistemą, kad privačiose nekomercinės paskirties transporto priemonėse
 
-baterijų ir akumuliatorių atliekos būtų surenkamos nemokamai ir nereikalaujant
+naudotų baterijų ir akumuliatorių atliekos būtų surenkamos nemokamai ir
 
-pirkti naują bateriją ar akumuliatorių.
+nereikalaujant pirkti naują bateriją ar akumuliatorių.
 
 8. Visi
 
@@ -4829,18 +4819,6 @@ Nr. X-1605,
 
 2008-06-17, Žin., 2008, Nr. 76-2999 (2008-07-05)
 
-Įstatymas
-
-papildytas aštuntuoju(1)
-
-skirsniu:
-
-Nr.
-
-XI-1892,
-
-2011-12-22, Žin., 2012, Nr. 6-190 (2012-01-10)
-
 Aštuntojo(1) skirsnio
 
 redakcija nuo 2013-01-01:
@@ -4897,10 +4875,6 @@ viešasis juridinis asmuo, steigiamas vadovaujantis Asociacijų įstatymo ar Vie
 
 įstaigų įstatymo nustatyta tvarka. Į Organizaciją gali stoti nauji nariai.
 
-1 dalies
-
-redakcija galioja iki 2012-12-31.
-
 2. Visų Organizacijos steigėjų ir
 
 narių pareigas bei užduotis Organizacija turi vykdyti vienodomis sąlygomis.
@@ -4910,10 +4884,6 @@ narių pareigas bei užduotis Organizacija turi vykdyti vienodomis sąlygomis.
 ta veikla, kuri skirta šio Įstatymo 341 straipsnyje numatytoms gamintojų
 
 ir importuotojų pareigoms vykdyti.
-
-3 dalies
-
-redakcija galioja iki 2012-12-31.
 
 4. Vienas Organizacijos steigėjas
 
@@ -4931,21 +4901,9 @@ Organizacijos steigėjų susirinkime.
 
 veiklą tik gavusi licenciją.
 
-5 dalies
+6. Neteko galios nuo 2012-01-10.
 
-redakcija galioja iki 2012-12-31.
-
-6. Neteko galios nuo 2012-01-10
-
-6 dalies
-
-redakcija galioja iki 2012-12-31.
-
-7. Neteko galios nuo 2012-01-10
-
-7 dalies
-
-redakcija galioja iki 2012-12-31.
+7. Neteko galios nuo 2012-01-10.
 
 Įstatymas
 
@@ -4961,9 +4919,9 @@ pakeitimai:
 
 Nr.
 
-XI-624,
+XI-624, 2009-12-22,
 
-2009-12-22, Žin., 2009, Nr. 154-6961 (2009-12-28)
+Žin., 2009, Nr. 154-6961 (2009-12-28)
 
 Nr.
 
@@ -5013,9 +4971,9 @@ atliekų, jeigu šias atliekas sudaro elektros ir elektroninė įranga be
 
 pagrindinių tokios įrangos dalių ar jose yra atliekų, nepriskiriamų elektros ir
 
-elektroninės įrangos atliekoms ir (ar) šios atliekos kelia pavojų darbuotojų sveikatai
+elektroninės įrangos atliekoms ir (ar) šios atliekos kelia pavojų darbuotojų
 
-bei saugumui.
+sveikatai bei saugumui.
 
 4. Iš vartotojų priimtas buityje
 
@@ -5165,9 +5123,9 @@ elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas. Tokie
 
 dokumentai gali būti:
 
-1) banko garantija,
+1) banko
 
-išduota gamintojui ar importuotojui;
+garantija, išduota gamintojui ar importuotojui;
 
 2) laidavimo
 
@@ -5199,27 +5157,25 @@ neatsižvelgdamas į tai, ar tvarkomos elektros ir elektroninės įrangos atliek
 
 išleistos į rinką, yra jo, ar yra tik tos pačios kategorijos. Gamintojai ir
 
-importuotojai turi teisę reikalauti, kad jų išleistos į rinką elektros ir
+importuotojai turi teisę reikalauti, kad jų išleistos į rinką elektros ir elektroninės
 
-elektroninės įrangos atliekos būtų tvarkomos atskirai, jeigu jie padengia
+įrangos atliekos būtų tvarkomos atskirai, jeigu jie padengia susidariusias
 
-susidariusias išlaidas;
+išlaidas;
 
 5) dokumentas,
 
 įrodantis gamintojų ir importuotojų dalyvavimą kitų įstatymų nustatytose
 
-elektros ir elektroninės įrangos atliekų tvarkymo finansavimo sistemose
+elektros ir elektroninės įrangos atliekų tvarkymo finansavimo sistemose (schemose).
 
-(schemose).
+4. Dokumentas, patvirtinantis
 
-4. Dokumentas, patvirtinantis elektros
+elektros ir elektroninės įrangos gamintojo ar importuotojo dalyvavimą šio
 
-ir elektroninės įrangos gamintojo ar importuotojo dalyvavimą šio straipsnio 3
+straipsnio 3 dalies 4 punkte nurodytoje kolektyvinės atsakomybės atliekų
 
-dalies 4 punkte nurodytoje kolektyvinės atsakomybės atliekų tvarkymo
-
-finansavimo sistemoje, yra:
+tvarkymo finansavimo sistemoje, yra:
 
 1) banko garantija, užtikrinanti
 
@@ -5357,17 +5313,17 @@ straipsnis. Gamtos išteklių taupymo ir atliekų mažinimo planai
 
 taip, kad nekeltų pavojaus žmonių sveikatai ir aplinkai.
 
-2. Siekiant taupyti gamtos išteklius
+2. Siekiant taupyti gamtos
 
-ir užtikrinti prevencijos priemonių atliekų susidarymui mažinti įgyvendinimą,
+išteklius ir užtikrinti prevencijos priemonių atliekų susidarymui mažinti
 
-įmonės, kurių ūkinėje komercinėje veikloje susidaro atliekų ir kurios pagal šio
+įgyvendinimą, įmonės, kurių ūkinėje komercinėje veikloje susidaro atliekų ir
 
-Įstatymo 6 straipsnio reikalavimus privalo gauti leidimus, Vyriausybės ar jos
+kurios pagal šio Įstatymo 6 straipsnio reikalavimus privalo gauti leidimus,
 
-įgaliotos institucijos nustatyta tvarka turi rengti ir įgyvendinti gamtos
+Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi rengti ir
 
-išteklių taupymo ir atliekų mažinimo planus.
+įgyvendinti gamtos išteklių taupymo ir atliekų mažinimo planus.
 
 3. Gamtos išteklių taupymo ir
 
@@ -5599,9 +5555,9 @@ papildytas straipsniu:
 
 Nr.
 
-XI-1324,
+XI-1324, 2011-04-19,
 
-2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
+Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 Ketvirtasis skirsnis
 
@@ -5655,9 +5611,9 @@ tvarkančios įmonės atsakingų darbuotojų kompetencija atitinka šio
 
 Įstatymo 112 straipsnyje nustatytus reikalavimus;
 
-3) pavojingas atliekas
+3) pavojingas atliekas tvarkančios
 
-tvarkančios įmonės civilinė atsakomybė apdrausta draudimo įmonėje.
+įmonės civilinė atsakomybė apdrausta draudimo įmonėje.
 
 6. Pavojingų atliekų tvarkymo
 
@@ -5855,13 +5811,13 @@ reglamentuoja ir administruoja visų atliekų tvarkymą, kontroliuoja nustatytų
 
 reikalavimų ir užduočių įgyvendinimą.
 
-2. Aplinkos ministerija koordinuoja
+2. Aplinkos ministerija
 
-kitų valstybės ir savivaldybių institucijų veiklą atliekų tvarkymo srityje,
+koordinuoja kitų valstybės ir savivaldybių institucijų veiklą atliekų tvarkymo
 
-ieško papildomų finansavimo šaltinių valstybės bei savivaldybių institucijų
+srityje, ieško papildomų finansavimo šaltinių valstybės bei savivaldybių
 
-parengtiems atliekų tvarkymo projektams finansuoti.
+institucijų parengtiems atliekų tvarkymo projektams finansuoti.
 
 Straipsnio
 
@@ -5941,9 +5897,9 @@ prevencijos programa
 
 būti parengta, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka
 
-derinama su suinteresuotomis institucijomis ir visuomene ir patvirtinta
+derinama su suinteresuotomis institucijomis ir visuomene ir patvirtinta Valstybinė
 
-Valstybinė atliekų prevencijos programa.
+atliekų prevencijos programa.
 
 2. Valstybinėje atliekų prevencijos programoje turi būti:
 
@@ -5991,7 +5947,9 @@ teisės ir pareigos
 
 elektroninės įrangos gamintojų ir importuotojų pagrindinės pareigos:
 
-1) registruotis aplinkos ministro nustatyta tvarka;
+1) registruotis aplinkos ministro nustatyta
+
+tvarka;
 
 2) organizuoti surinkimą,
 
@@ -6091,9 +6049,9 @@ elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas. Tokių
 
 dokumentų sudarymo ir jų reikalavimų vykdymo tvarką, lėšų, gautų pagal šiuos
 
-dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos
+dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota
 
-įgaliota institucija.
+institucija.
 
 5. Be
 
@@ -6139,21 +6097,21 @@ verslo tikslais tiektos elektros ir elektroninės įrangos kiekį, ir į minimal
 
 gamintojų ir importuotojų organizuojamų elektros ir elektroninės įrangos
 
-atliekų surinkimo sistemų kokybės reikalavimus. Elektros ir elektroninės įrangos
+atliekų surinkimo sistemų kokybės reikalavimus. Elektros ir elektroninės
 
-atliekų surinkėjai, naudotojai (perdirbėjai) ir eksportuotojai privalo aplinkos
+įrangos atliekų surinkėjai, naudotojai (perdirbėjai) ir eksportuotojai privalo
 
-ministro nustatyta tvarka teikti duomenis apie surinktas, panaudotas
+aplinkos ministro nustatyta tvarka teikti duomenis apie surinktas, panaudotas
 
 (perdirbtas) ir eksportuotas elektros ir elektroninės įrangos atliekas;
 
-2) elektros ir elektroninės įrangos
+2) elektros ir elektroninės
 
-gamintojai ir importuotojai turi finansuoti visos savo nuo 2005 m. rugpjūčio 13
+įrangos gamintojai ir importuotojai turi finansuoti visos savo nuo 2005 m.
 
-d. Lietuvos Respublikos vidaus rinkai verslo tikslais tiektos elektros ir
+rugpjūčio 13 d. Lietuvos Respublikos vidaus rinkai verslo tikslais tiektos
 
-elektroninės įrangos buityje susidarančių atliekų tvarkymą.
+elektros ir elektroninės įrangos buityje susidarančių atliekų tvarkymą.
 
 7. Elektros ir elektroninės
 
@@ -10507,8 +10465,6 @@ XI-1324,
 
 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 
-_____________
-
 Pakeitimai:
 
 1.
@@ -10543,7 +10499,9 @@ ATLIEKŲ TVARKYMO ĮSTATYMO 32, 33,
 
 įsigalioja nuo 2003 m. sausio 1 d.
 
-Šis įstatymas neteko galios:
+Šis įstatymas neteko
+
+galios:
 
 Lietuvos Respublikos Seimas,
 
@@ -10657,9 +10615,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. X-1674,
+Nr. X-1674, 2008-07-03,
 
-2008-07-03, Žin., 2008, Nr. 81-3180 (2008-07-17)
+Žin., 2008, Nr. 81-3180 (2008-07-17)
 
 ATLIEKŲ TVARKYMO ĮSTATYMO 1, 2,
 
@@ -10673,9 +10631,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-XI-624, 2009-12-22,
+XI-624,
 
-Žin., 2009, Nr. 154-6961 (2009-12-28)
+2009-12-22, Žin., 2009, Nr. 154-6961 (2009-12-28)
 
 ATLIEKŲ
 
@@ -10813,9 +10771,9 @@ Vyriausybė.
 
 paslaugos teikimo sutarčių standartinėse sąlygose turi būti nurodyta:
 
-1) sutarties sudarymo, įsigaliojimo
+1) sutarties sudarymo,
 
-ir nutraukimo tvarka;
+įsigaliojimo ir nutraukimo tvarka;
 
 2) paslaugų teikimo tvarka ir
 
@@ -10865,11 +10823,17 @@ Nr. XI-1981,
 
 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
 
+Straipsnio pakeitimai:
+
+Nr. XII-137,
+
+2012-12-20, Žin., 2012, Nr. 155-8003 (2012-12-31)
+
 Įstatymas
 
 papildomas 302 straipsniu nuo
 
-2013-01-01:
+2013-07-01:
 
 302 straipsnis.
 
@@ -10921,6 +10885,12 @@ Nr. XI-1981,
 
 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
 
+Straipsnio pakeitimai:
+
+Nr. XII-137,
+
+2012-12-20, Žin., 2012, Nr. 155-8003 (2012-12-31)
+
 31
 
 straipsnis. Savivaldybių atliekų tvarkymo taisyklės
@@ -10960,6 +10930,78 @@ aštuntasis skirsnis
 ATLIEKŲ
 
 TVARKYMO EKONOMINĖS IR FINANSINĖS PRIEMONĖS
+
+32
+
+straipsnis. Principas „teršėjas moka“
+
+1. Atliekų tvarkymo srityje
+
+taikomas principas „teršėjas moka“, kuris reiškia, kad atliekų tvarkymo
+
+išlaidas turi apmokėti pirminis atliekų darytojas arba dabartinis ar ankstesnis
+
+atliekų turėtojas ir (ar) produktų, dėl kurių naudojimo susidaro atliekos,
+
+gamintojas ar importuotojas.
+
+2.
+
+Mokesčio už aplinkos teršimą įstatymas nustato mokestį už aplinkos teršimą
+
+gaminių ir (ar) pakuotės atliekomis.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XI-1324,
+
+2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
+
+33
+
+straipsnis. Atliekų tvarkymo papildomi finansavimo šaltiniai
+
+Atliekų tvarkymo papildomi
+
+finansavimo šaltiniai:
+
+1) Gaminių ar pakuotės atliekų
+
+tvarkymo programos lėšos;
+
+2) valstybės biudžetas ir
+
+savivaldybių biudžetai;
+
+3) Aplinkos apsaugos rėmimo
+
+programos lėšos;
+
+4) Savivaldybių aplinkos apsaugos
+
+rėmimo specialiosios programos lėšos;
+
+5) Lietuvos aplinkos apsaugos
+
+investicijų fondo programos lėšos;
+
+6) užsienio šalių, tarptautinių
+
+organizacijų ir finansų institucijų bei Lietuvos Respublikos asmenų tiksliniai
+
+įnašai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+IX-1615,
+
+2003-06-10, Žin., 2003, Nr. 61-2768 (2003-06-27)
 
 346 straipsnis. Individualus eksploatuoti
 
