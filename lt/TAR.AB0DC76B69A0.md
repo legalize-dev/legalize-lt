@@ -4,7 +4,7 @@ identifier: "TAR.AB0DC76B69A0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-06"
-last_updated: "2011-12-08"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB0DC76B69A0"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS TEISĖJŲ ATLYGINIMŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2011-12-08 iki 2012-12-30
+Suvestinė redakcija nuo 2012-12-31 iki 2013-09-27
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 131-5022, i. k. 1081010ISTA00X-1771
 
@@ -226,7 +226,7 @@ kuriuose dirba 14 ir mažiau teisėjų
 
 11,56
 
-Priedėlio redakcija nuo 2013-01-01:
+Priedėlio redakcija nuo 2014-01-01:
 
 Lietuvos Respublikos
 
@@ -376,6 +376,10 @@ Nr. XI-1728, 2011-11-22, Žin., 2011, Nr. 150-7043 (2011-12-08), i. k. 1111010IS
 
 Nr. XI-1729, 2011-11-22, Žin., 2011, Nr. 150-7044 (2011-12-08), i. k. 1111010ISTA0XI-1729
 
+Nr. XII-112, 2012-12-20, Žin., 2012, Nr. 155-7990 (2012-12-31), i. k. 1121010ISTA0XII-112
+
+Nr. XII-113, 2012-12-20, Žin., 2012, Nr. 155-7991 (2012-12-31), i. k. 1121010ISTA0XII-113
+
 Pakeitimai:
 
 1.
@@ -439,6 +443,22 @@ Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XI-1729, 2011-11-22, Žin., 2011, Nr. 150-7044 (2011-12-08), i. k. 1111010ISTA0XI-1729
+
+Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-112, 2012-12-20, Žin., 2012, Nr. 155-7990 (2012-12-31), i. k. 1121010ISTA0XII-112
+
+Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-113, 2012-12-20, Žin., 2012, Nr. 155-7991 (2012-12-31), i. k. 1121010ISTA0XII-113
 
 Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas
 
