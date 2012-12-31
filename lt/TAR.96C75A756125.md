@@ -4,7 +4,7 @@ identifier: "TAR.96C75A756125"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-17"
-last_updated: "2011-12-31"
+last_updated: "2012-12-31"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96C75A756125"
 department: "Lietuvos Respublikos Seimas"
@@ -689,11 +689,13 @@ apskaičiuojamas proporcingai dirbtam laikui.“
 
 1. Šis įstatymas
 
-įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2012 m. gruodžio 31 d.,
+įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2013 m. gruodžio 31 d.,
 
 išskyrus 1 straipsnyje išdėstytą Lietuvos Respublikos valstybės politikų ir
 
-valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio III skirsnį.
+valstybės pareigūnų darbo apmokėjimo
+
+įstatymo priedėlio III skirsnį.
 
 2. Šio įstatymo
 
@@ -719,9 +721,13 @@ Nr. XI-1840,
 
 2011-12-21, Žin., 2011, Nr. 163-7750 (2011-12-31)
 
+Nr. XII-110,
+
+2012-12-20, Žin., 2012, Nr. 155-7988 (2012-12-31)
+
 Skelbiu šį Lietuvos Respublikos Seimo
 
-priimtą  įstatymą.
+priimtą įstatymą.
 
 RESPUBLIKOS
 
@@ -757,11 +763,11 @@ Nr. XI-1726, 2011-11-22,
 
 Žin., 2011, Nr. 150-7041 (2011-12-08)
 
-VALSTYBĖS
+VALSTYBĖS POLITIKŲ
 
-POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
+IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMO 2
 
-ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 3.
 
@@ -777,11 +783,23 @@ PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMO 2 STRAIPS
 
 PAKEITIMO ĮSTATYMAS
 
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-110,
+
+2012-12-20, Žin., 2012, Nr. 155-7988 (2012-12-31)
+
+VALSTYBĖS POLITIKŲ IR VALSTYBĖS
+
+PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo Aušrinė Trapinskienė
-
-(2012-01-02)
+Redagavo Aušrinė Trapinskienė (2013-01-08)
 
 ausrine.trapinskiene@lrs.lt
 
