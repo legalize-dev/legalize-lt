@@ -4,7 +4,7 @@ identifier: "TAR.2A38153C928F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-06-10"
-last_updated: "2012-04-01"
+last_updated: "2012-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2A38153C928F"
 department: "Lietuvos Respublikos Seimas"
@@ -19,6 +19,8 @@ entry_into_force_conditions: "1 straipsnio 1 dalis įsigalioja 2010 m. liepos 1 
 Įstatymas skelbtas: Žin., 2010, Nr. 75-3791
 
 Neoficialus įstatymo tekstas
+
+Įstatymo aktuali redakcija nuo 2012-12-31
 
 LIETUVOS RESPUBLIKOS
 
@@ -104,9 +106,9 @@ rengti papildomą motorinių transporto priemonių vairuotojų mokymą.“
 
 Papildyti 2 straipsnį nauja 66 dalimi:
 
-„66. Vairuotojų
+„66.
 
-mokymas pradinei profesinei kvalifikacijai įgyti – C1, C1E, C, CE,
+Vairuotojų mokymas pradinei profesinei kvalifikacijai įgyti – C1, C1E, C, CE,
 
 D1, D1E, D, DE kategorijų motorinių transporto priemonių ir jų junginių su
 
@@ -128,11 +130,11 @@ kategorijų motorinių transporto priemonių ir jų junginių su priekabomis
 
 vairuotojų mokymas siekiant, kad jie įgytų vairuotojo profesinės kvalifikacijos
 
-periodinio tobulinimo pažymėjimą, patvirtinantį, kad šių transporto priemonių
+periodinio tobulinimo pažymėjimą, patvirtinantį, kad šių transporto priemonių vairuotojai
 
-vairuotojai tobulino profesinę kvalifikaciją vežti krovinius ar keleivius
+tobulino profesinę kvalifikaciją vežti krovinius ar keleivius komerciniais
 
-komerciniais tikslais.“
+tikslais.“
 
 6. Buvusias 2 straipsnio 66 ir 67 dalis laikyti atitinkamai 68 ir 69
 
@@ -272,9 +274,9 @@ straipsnio 1 dalį, įsigalioja 2010 m. liepos 1 d.
 
 2. Šio įstatymo 1 straipsnio 1 dalis įsigalioja 2010 m. liepos 1 d. ir
 
-galioja iki 2012 m. gruodžio 31 d.
+galioja iki 2013 m. birželio 30 d.
 
-3. Šio įstatymo 1 straipsnio 2 dalis įsigalioja 2013 m. sausio 1 d.
+3. Šio įstatymo 1 straipsnio 2 dalis įsigalioja 2013 m. liepos 1 d.
 
 4. Šio įstatymo
 
@@ -291,6 +293,12 @@ XI-1808,
 Nr. XI-1942,
 
 2012-03-27, Žin., 2012, Nr. 38-1892 (2012-03-31)
+
+Nr.
+
+XII-53,
+
+2012-12-13, Žin., 2012, Nr. 151-7722 (2012-12-21)
 
 7
 
@@ -318,13 +326,9 @@ Skelbiu šį Lietuvos Respublikos
 
 Seimo priimtą įstatymą.
 
-RESPUBLIKOS
-
-PREZIDENTĖ                                                       DALIA
+RESPUBLIKOS PREZIDENTĖ                                                       DALIA
 
 GRYBAUSKAITĖ
-
-_________________
 
 Pakeitimai:
 
@@ -364,13 +368,33 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 įsigalioja 2012 m. balandžio 1 d.
 
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XII-53,
+
+2012-12-13, Žin., 2012, Nr. 151-7722 (2012-12-21)
+
+SAUGAUS
+
+EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 7, 10, 19, 22 STRAIPSNIŲ PAKEITIMO IR
+
+PAPILDYMO ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2012 m. gruodžio 31 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2012-04-02)
+Aušrinė Trapinskienė (2012-12-21)
 
 ausrine.trapinskiene@lrs.lt
 
