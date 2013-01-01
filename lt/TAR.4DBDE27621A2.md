@@ -4,7 +4,7 @@ identifier: "TAR.4DBDE27621A2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-28"
-last_updated: "2011-07-05"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4DBDE27621A2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos korupcijos prevencijos įstatymas
 
-Suvestinė redakcija nuo 2011-07-05 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 57-2297, i. k. 1021010ISTA00IX-904
 
@@ -169,7 +169,11 @@ Nr. IX-1483, 2003-04-03, Žin., 2003, Nr. 38-1728 (2003-04-24), i. k. 1031010IST
 
 7) Valstybės kontrolė, Seimo kontrolieriai arba kitos kontrolės ar priežiūros institucijos nustatė šios valstybės ar savivaldybės įstaigos veiklos pažeidimų;
 
-8) gauta kitos informacijos apie valstybės ar savivaldybės įstaigos veikloje egzistuojančias korupcijos apraiškas (operatyvinė informacija, gyventojų skundai ir pareiškimai, visuomenės informavimo priemonių pateikiama bei kita informacija).
+8) gauta kitos informacijos apie valstybės ar savivaldybės įstaigos veikloje egzistuojančias korupcijos apraiškas (kriminalinės žvalgybos ir žvalgybos informacija, gyventojų skundai ir pareiškimai, visuomenės informavimo priemonių pateikiama bei kita informacija).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2250, 2012-10-02, Žin., 2012, Nr. 122-6109 (2012-10-20), i. k. 1121010ISTA0XI-2250
 
 6. Korupcijos rizikos analizė apima valstybės ar savivaldybės įstaigos veiklos sritis, kuriose yra didelė korupcijos pasireiškimo tikimybė, ir šių sričių priežiūros sistemas.
 
@@ -263,23 +267,55 @@ Nr. X-1571, 2008-06-05, Žin., 2008, Nr. 71-2700 (2008-06-21), i. k. 1081010ISTA
 
 8) tai, kad priimamas į valstybės tarnybą asmuo nuslėpė ar pateikė tikrovės neatitinkančius duomenis, dėl kurių negalėjo būti priimtas į valstybės tarnautojo pareigas;
 
-9) įslaptintą informaciją dėl asmens rengiamos, daromos ar padarytos nusikalstamos veikos.
+9) įslaptintą informaciją dėl asmens rengiamos, daromos ar padarytos nusikalstamos veikos;
 
-3. Specialiųjų tyrimų tarnyba pagal kompetenciją surenka teisėsaugos, kontrolės, operatyvinės veiklos subjektų ar operatyvinės veiklos subjektų pagrindinių institucijų, kitų institucijų, įstaigų ir įmonių turimą šio straipsnio 2 dalyje nurodytą informaciją apie asmenį, duomenis iš valstybės tarnautojų registro, prireikus – iš kitų valstybės ar žinybinių registrų, duomenų rinkmenų, ir kartu su savo apie asmenį turima įslaptinta bei vieša informacija pateikia asmenį į pareigas skiriančiam ar paskyrusiam subjektui.
+10) galiojančias administracines nuobaudas už asmens padarytus administracinius teisės pažeidimus;
+
+Papildyta straipsnio punktu:
+
+Nr. XI-2284, 2012-10-17, Žin., 2012, Nr. 126-6327 (2012-10-31), i. k. 1121010ISTA0XI-2284
+
+11) asmens atžvilgiu atliktus mokestinius patikrinimus, tyrimus, kurių metu buvo nustatyti mokesčių įstatymų pažeidimai (informacija pateikiama už paskutinius dešimt metų, skaičiuojant nuo rašytinio prašymo, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, gavimo dienos).
+
+Papildyta straipsnio punktu:
+
+Nr. XI-2284, 2012-10-17, Žin., 2012, Nr. 126-6327 (2012-10-31), i. k. 1121010ISTA0XI-2284
+
+3. Specialiųjų tyrimų tarnyba pagal kompetenciją surenka teisėsaugos, kontrolės, kriminalinės žvalgybos subjektų ar kriminalinės žvalgybos pagrindinių institucijų, žvalgybos institucijų, kitų institucijų, įstaigų ir įmonių turimą šio straipsnio 2 dalyje nurodytą informaciją apie asmenį, duomenis iš valstybės tarnautojų registro, prireikus – iš kitų valstybės ar žinybinių registrų, duomenų rinkmenų, ir kartu su savo apie asmenį turima įslaptinta bei vieša informacija pateikia asmenį į pareigas skiriančiam ar paskyrusiam subjektui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2250, 2012-10-02, Žin., 2012, Nr. 122-6109 (2012-10-20), i. k. 1121010ISTA0XI-2250
 
 4. Šio straipsnio 2 dalyje nurodytą informaciją apie asmenį Specialiųjų tyrimų tarnyba pateikia ne vėliau kaip per 14 kalendorinių dienų nuo rašytinio prašymo pateikti informaciją apie asmenį gavimo dienos. Šio straipsnio 3 dalyje nurodytos institucijos, įstaigos ir įmonės turimą informaciją ir (ar) duomenis Specialiųjų tyrimų tarnybai privalo pateikti ne vėliau kaip per 7 kalendorines dienas nuo Specialiųjų tyrimų tarnybos prašymo pateikti informaciją ir (ar) duomenis gavimo dienos, o jei būtina ir įmanoma, – nedelsdamos.
 
-5. Specialiųjų tyrimų tarnyba, operatyvinės veiklos subjektai ar operatyvinės veiklos subjektų pagrindinės institucijos turimą šio straipsnio 2 dalies 9 punkte nurodytą įslaptintą informaciją į pareigas asmenį skiriančiam ar paskyrusiam subjektui gali pateikti ir savo iniciatyva.
+5. Specialiųjų tyrimų tarnyba, kriminalinės žvalgybos subjektai ar kriminalinės žvalgybos pagrindinės institucijos, žvalgybos institucijos turimą šio straipsnio 2 dalies 9 punkte nurodytą įslaptintą informaciją į pareigas asmenį skiriančiam ar paskyrusiam subjektui gali pateikti ir savo iniciatyva.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2250, 2012-10-02, Žin., 2012, Nr. 122-6109 (2012-10-20), i. k. 1121010ISTA0XI-2250
 
 6. Rašytinio prašymo, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, kurį į pareigas skiria Respublikos Prezidentas, Seimas, Seimo Pirmininkas, Vyriausybė arba Ministras Pirmininkas, taip pat asmenis, kuriuos rengiamasi skirti į viceministrų, ministerijų kanclerių, savivaldybių administracijos direktorių ir jų pavaduotojų, prokurorų, valstybės ar savivaldybių įstaigų vadovų ir jų pavaduotojų, valstybės ar savivaldybių įstaigų padalinių vadovų ir jų pavaduotojų (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), strateginę reikšmę nacionaliniam saugumui turinčių valstybės įmonių ir akcinių bendrovių bei nacionaliniam saugumui užtikrinti svarbių įmonių vadovų ir jų pavaduotojų, valstybės ar savivaldybių įmonių, kuriose valstybei ar savivaldybei priklausančios akcijos suteikia daugiau kaip 50 procentų balsų visuotiniame akcininkų susirinkime, vadovų ir jų pavaduotojų pareigas, pateikimas yra privalomas. Prašymą pateikti informaciją pasirašo į pareigas asmenį skiriantis subjektas ar jo įgaliotas asmuo. Prašymą, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, kurį į pareigas skiria Seimas, pasirašo Seimo Pirmininkas ar jo įgaliotas asmuo, o apie asmenį, kurį į pareigas skiria Vyriausybė, – Ministras Pirmininkas ar jo įgaliotas asmuo.
 
-7. Operatyvinės veiklos subjektų pagrindinių institucijų vadovų ar jų įgaliotų asmenų nurodymu šio straipsnio 2 dalyje nurodyta informacija apie asmenis, kuriuos jie skiria į pareigas, operatyvinės veiklos subjektuose ar operatyvinės veiklos subjektų pagrindinėse institucijose renkama savarankiškai. Šio straipsnio 3 dalyje nurodytos institucijos, įstaigos ir įmonės turimą informaciją ir (ar) duomenis operatyvinės veiklos subjektų ar operatyvinės veiklos subjektų pagrindinių institucijų vadovams privalo pateikti ne vėliau kaip per 7 kalendorines dienas nuo rašytinio prašymo pateikti informaciją ir (ar) duomenis apie asmenį gavimo dienos, o jei būtina ir įmanoma, – nedelsdamos.
+7. Kriminalinės žvalgybos pagrindinių institucijų, žvalgybos institucijų vadovų ar jų įgaliotų asmenų nurodymu šio straipsnio 2 dalyje nurodyta informacija apie asmenis, kuriuos jie skiria į pareigas, kriminalinės žvalgybos subjektuose, kriminalinės žvalgybos pagrindinėse institucijose ar žvalgybos institucijose, renkama savarankiškai. Šio straipsnio 3 dalyje nurodytos institucijos, įstaigos ir įmonės turimą informaciją ir (ar) duomenis kriminalinės žvalgybos subjektų, kriminalinės žvalgybos pagrindinių institucijų ar žvalgybos institucijų vadovams privalo pateikti ne vėliau kaip per 7 kalendorines dienas nuo rašytinio prašymo pateikti informaciją ir (ar) duomenis apie asmenį gavimo dienos, o jei būtina ir įmanoma, – nedelsdamos.
 
-8. Šio straipsnio 6 dalyje nurodyti rašytiniai prašymai Specialiųjų tyrimų tarnybai turi būti pateikiami prieš asmenį skiriant į pareigas. Į pareigas asmuo gali būti paskirtas tik gavus ir įvertinus informaciją iš Specialiųjų tyrimų tarnybos. Jeigu operatyvinės veiklos subjektų pagrindinių institucijų vadovų ar jų įgaliotų asmenų nurodymu savarankiškai renkama informacija apie asmenį, kurį jie skiria į pareigas, toks asmuo gali būti paskirtas tik surinkus ir įvertinus šio straipsnio 2 dalyje nurodytą informaciją.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2250, 2012-10-02, Žin., 2012, Nr. 122-6109 (2012-10-20), i. k. 1121010ISTA0XI-2250
+
+8. Šio straipsnio 6 dalyje nurodyti rašytiniai prašymai Specialiųjų tyrimų tarnybai turi būti pateikiami prieš asmenį skiriant į pareigas. Į pareigas asmuo gali būti paskirtas tik gavus ir įvertinus informaciją iš Specialiųjų tyrimų tarnybos. Jeigu kriminalinės žvalgybos pagrindinių institucijų, žvalgybos institucijų vadovų ar jų įgaliotų asmenų nurodymu savarankiškai renkama informacija apie asmenį, kurį jie skiria į pareigas, toks asmuo gali būti paskirtas tik surinkus ir įvertinus šio straipsnio 2 dalyje nurodytą informaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2250, 2012-10-02, Žin., 2012, Nr. 122-6109 (2012-10-20), i. k. 1121010ISTA0XI-2250
 
 9. Jeigu kyla abejonių dėl apie asmenį surinktos ar pateiktos informacijos pagrįstumo, Specialiųjų tyrimų tarnyba savo iniciatyva ar į pareigas asmenį skiriančio ar paskyrusio subjekto prašymu privalo atlikti tokios informacijos patikrinimą.
 
-10. Į pareigas asmenį paskyrusio subjekto ar jo įgalioto asmens rašytinis prašymas Specialiųjų tyrimų tarnybai pateikti informaciją apie asmenį, einantį šio straipsnio 6 dalyje nurodytas pareigas, turi būti motyvuotas ir paremtas duomenimis, keliančiais abejonių dėl asmens, apie kurį prašoma pateikti informaciją, tinkamumo einamoms pareigoms. Jeigu yra abejonių dėl operatyvinės veiklos subjektuose ar operatyvinės veiklos subjektų pagrindinėse institucijose einančio pareigas asmens tinkamumo einamoms pareigoms, operatyvinės veiklos subjektų pagrindinių institucijų vadovų ar jų įgaliotų asmenų nurodymu šio straipsnio 2 dalyje nurodyta informacija apie einantį pareigas asmenį renkama savarankiškai šio straipsnio 7 dalyje nustatyta tvarka.
+10. Į pareigas asmenį paskyrusio subjekto ar jo įgalioto asmens rašytinis prašymas Specialiųjų tyrimų tarnybai pateikti informaciją apie asmenį, einantį šio straipsnio 6 dalyje nurodytas pareigas, turi būti motyvuotas ir paremtas duomenimis, keliančiais abejonių dėl asmens, apie kurį prašoma pateikti informaciją, tinkamumo einamoms pareigoms. Jeigu yra abejonių dėl kriminalinės žvalgybos subjektuose, kriminalinės žvalgybos pagrindinėse institucijose ar žvalgybos institucijose einančio pareigas asmens tinkamumo einamoms pareigoms, kriminalinės žvalgybos pagrindinių institucijų, žvalgybos institucijų, vadovų ar jų įgaliotų asmenų nurodymu šio straipsnio 2 dalyje nurodyta informacija apie einantį pareigas asmenį renkama savarankiškai šio straipsnio 7 dalyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2250, 2012-10-02, Žin., 2012, Nr. 122-6109 (2012-10-20), i. k. 1121010ISTA0XI-2250
 
 11. Į pareigas asmenį skiriantis ar paskyręs subjektas šiame straipsnyje nustatyta tvarka pateiktą informaciją gali naudoti tik priimdamas sprendimą dėl asmens tinkamumo siekiamoms pareigoms ar tarnybinės (drausminės) nuobaudos skyrimo. Į pareigas asmenį skiriantis ar paskyręs subjektas šiame straipsnyje nustatyta tvarka gautos informacijos apie asmenį negali perduoti tretiesiems asmenims, išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus.
 
@@ -287,7 +323,11 @@ Nr. X-1571, 2008-06-05, Žin., 2008, Nr. 71-2700 (2008-06-21), i. k. 1081010ISTA
 
 13. Asmuo priimtą sprendimą neskirti į pareigas gali skųsti Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-14. Specialiųjų tyrimų tarnyba ir kitos operatyvinės veiklos subjektų pagrindinės institucijos, operatyvinės veiklos subjektai, į pareigas asmenį skiriantys ar paskyrę subjektai privalo užtikrinti, kad asmens duomenys, gauti šiame straipsnyje nustatyta tvarka, būtų tvarkomi ir saugomi Lietuvos Respublikos teisės aktų nustatyta tvarka.
+14. Specialiųjų tyrimų tarnyba, kriminalinės žvalgybos pagrindinės institucijos, kriminalinės žvalgybos subjektai, žvalgybos institucijos, į pareigas asmenį skiriantys ar paskyrę subjektai privalo užtikrinti, kad asmens duomenys, gauti šiame straipsnyje nustatyta tvarka, būtų tvarkomi ir saugomi Lietuvos Respublikos teisės aktų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2250, 2012-10-02, Žin., 2012, Nr. 122-6109 (2012-10-20), i. k. 1121010ISTA0XI-2250
 
 15. Prašymo pateikti informaciją apie asmenį formą tvirtina Specialiųjų tyrimų tarnybos direktorius įsakymu.
 
@@ -458,6 +498,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1475, 2011-06-21, Žin., 2011, Nr. 81-3962 (2011-07-05), i. k. 1111010ISTA0XI-1475
 
 Lietuvos Respublikos korupcijos prevencijos įstatymo 2 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2250, 2012-10-02, Žin., 2012, Nr. 122-6109 (2012-10-20), i. k. 1121010ISTA0XI-2250
+
+Lietuvos Respublikos korupcijos prevencijos įstatymo 6 ir 9 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2284, 2012-10-17, Žin., 2012, Nr. 126-6327 (2012-10-31), i. k. 1121010ISTA0XI-2284
+
+Lietuvos Respublikos korupcijos prevencijos įstatymo 9 straipsnio papildymo įstatymas
 
 91 straipsnis. Informacijos apie asmenį, kurį į pareigas Europos Sąjungos ar tarptautinėse institucijose teikia Lietuvos Respublika, pateikimas
 
