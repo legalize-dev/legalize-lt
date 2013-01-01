@@ -4,7 +4,7 @@ identifier: "TAR.1C05F0250868"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-12"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1C05F0250868"
 department: "Lietuvos Respublikos Seimas"
@@ -20,8 +20,6 @@ eu_legal_act: "true"
 
 Neoficialus įstatymo tekstas
 
-Aktuali redakcija nuo 2012-01-01
-
 LIETUVOS RESPUBLIKOS
 
 GARANTINIO FONDO
@@ -32,157 +30,199 @@ GARANTINIO FONDO
 
 Vilnius
 
-PIRMASIS SKIRSNIS
+Nauja įstatymo redakcija nuo 2013-01-01:
+
+Nr.
+
+XI-2079,
+
+2012-06-19, Žin., 2012, Nr. 78-4017 (2012-07-04)
+
+PIRMASIS
+
+SKIRSNIS
 
 BENDROSIOS
 
 NUOSTATOS
 
-1
+1 straipsnis. Įstatymo paskirtis
 
-straipsnis. Įstatymo paskirtis
+1. Šio įstatymo
 
-1. Šis įstatymas
+paskirtis – nustatyti Garantinio fondo sudarymo ir administravimo pagrindus,
 
-nustato Garantinio fondo paskirtį, veiklos teisinius pagrindus, valdymą, lėšų
+išmokų iš Garantinio fondo rūšis, dydžius ir skyrimo tvarką ir šio įstatymo
 
-šaltinius.
+nustatyta tvarka užtikrinti minimalų darbuotojų apsaugos lygį jų darbdaviui
 
-2. Šis įstatymas
+tapus nemokiam.
 
-taikomas visiems juridiniams asmenims, išskyrus valstybės biudžetines įstaigas,
+2. Šiuo įstatymu
 
-savivaldybių biudžetines įstaigas, politines partijas, profesines sąjungas ir
-
-religines bendruomenes bei bendrijas, taip pat Europos Sąjungos valstybėse
-
-narėse ir kitose Europos ekonominės erdvės valstybėse įsisteigusių įmonių
-
-filialams ir atstovybėms (toliau – įmonės), įregistruotiems Lietuvos
-
-Respublikoje teisės aktų nustatyta tvarka.
-
-3. Šio įstatymo
-
-nuostatos suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės
-
-aktais.
-
-Straipsnio pakeitimai:
-
-Nr. IX-2139,
-
-2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
-
-Nr. IX-2469,
-
-2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
-
-Nr. X-519, 2006-03-23,
-
-Žin., 2006, Nr. 41-1460 (2006-04-13)
-
-Nr. X-1636,
-
-2008-06-26, Žin., 2008, Nr. 79-3100 (2008-07-12)
+įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede.
 
 2
 
-straipsnis. Bendrosios Garantinio fondo steigimo bei valdymo nuostatos
+straipsnis. Garantinio fondo samprata ir paskirtis
 
-1. Garantinio
+1.
 
-fondo steigėjas – Lietuvos Respublikos Vyriausybė.
+Garantinis fondas yra valstybės išteklių fondas.
 
-2. Garantinio
+2.
 
-fondo administratorius – Vyriausybės įgaliota institucija. Garantinio fondo
+Garantinį fondą administruoja Lietuvos Respublikos Vyriausybės (toliau –
 
-administratoriaus veiklą reglamentuoja Garantinio fondo nuostatai, kuriuos
+Vyriausybė) įgaliota institucija, vadovaudamasi Garantinio fondo nuostatais.
 
-tvirtina Vyriausybė.
+Garantinio fondo nuostatus tvirtina Vyriausybė.
 
-3. Garantinis
+3.
 
-fondas yra pinigų fondas. Garantinio fondo lėšų sąmatą ir metinę sąmatos
+Garantinis fondas administruojamas vadovaujantis Lietuvos Respublikos
 
-įvykdymo ataskaitą tvirtina Lietuvos Respublikos Seimas Vyriausybės teikimu.
+Konstitucija, šiuo ir kitais įstatymais, Vyriausybės nutarimais ir kitais
 
-4. Garantinis
+teisės aktais.
 
-fondas veikia vadovaudamasis Lietuvos Respublikos Konstitucija, Įmonių bankroto
+4. Išmokos iš
 
-įstatymu, šiuo ir kitais įstatymais, Vyriausybės nutarimais, Garantinio fondo
+Garantinio fondo skiriamos:
 
-nuostatais bei kitais teisės aktais.
+*1) Lietuvos Respublikoje įsteigtų juridinių asmenų,
 
-Straipsnio pakeitimai:
+išskyrus biudžetines įstaigas, politines partijas, profesines sąjungas,
 
-Nr. X-1636,
+religines bendruomenes ir bendrijas, taip pat fizinių asmenų, ūkininkų ir kitų
 
-2008-06-26, Žin., 2008, Nr. 79-3100 (2008-07-12)
+fizinių asmenų, kurie verčiasi individualia veikla, kaip ji apibrėžta Lietuvos
 
-3
+Respublikos gyventojų pajamų mokesčio įstatyme, kurių pagrindinių turtinių
 
-straipsnis. Garantinio fondo paskirtis
+interesų vieta yra Lietuvos Respublikoje (toliau – fizinis asmuo), dėl kurių
 
-1. Lėšos iš
+pradėtas Lietuvos Respublikos įstatymuose numatytas bankroto procesas,
 
-Garantinio fondo skiriamos šiame įstatyme nustatyto dydžio išmokoms bankrutuojančių
+darbuotojams;
 
-ir bankrutavusių įmonių darbuotojams, dirbusiems įmonėje iki teismo nutarties
+2) kitų Europos
 
-iškelti įmonei bankroto bylą priėmimo dienos arba iki kreditorių susirinkimo
+Sąjungos valstybių narių arba kitų Europos ekonominės erdvės valstybių (toliau
 
-nutarimo bankroto procedūras vykdyti ne teismo tvarka priėmimo dienos,
+– valstybės narės) juridinių asmenų ar kitų organizacijų, dėl kurių pradėti
 
-neatsižvelgiant į tai, ar darbo santykiai tęsiasi, ar yra nutrūkę, taip pat
+Lietuvos Respublikos įstatymuose numatytam bankroto procesui tolygūs nemokumo
 
-buvusiems įmonių, likviduotų dėl bankroto įsigaliojus šiam įstatymui,
+procesai, padalinių, įsteigtų Lietuvos Respublikoje, darbuotojams;
 
-darbuotojams, kai įmonės jiems yra įsiskolinusios, taip pat Garantinio fondo
+3) Lietuvos
 
-administravimo išlaidoms Garantinio fondo nuostatų nustatyta tvarka.
+Respublikoje neįsisteigusių valstybių narių juridinių asmenų, kitų organizacijų
 
-2. Lėšos iš
+ir jų padalinių, fizinių asmenų, kurių pagrindinių turtinių interesų vieta yra
 
-Garantinio fondo taip pat skiriamos išmokoms Lietuvos Respublikoje įregistruotų
+kitoje valstybėje narėje, kurie atitinkama veikla verčiasi ne mažiau kaip
 
-Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių
+dviejų valstybių narių teritorijose ir dėl kurių pradėti Lietuvos Respublikos
 
-įmonių filialų ir atstovybių darbuotojams, dirbantiems pagal darbo sutartis
+įstatymuose numatytam bankroto procesui tolygūs nemokumo procesai,
 
-šiuose filialuose ir atstovybėse Lietuvos Respublikos teritorijoje, kai tose
+darbuotojams, kurie nuolat dirba Lietuvos Respublikoje.
 
-įmonėse vyksta nemokumo procesas, tolygus Lietuvos Respublikos įstatymuose
+5. Jeigu šio
 
-numatytoms įmonių bankroto procedūroms.
+straipsnio 4 dalies 1 ir 2 punktuose nurodyti juridiniai asmenys, valstybių
 
-Straipsnio pakeitimai:
+narių juridinių asmenų ar kitų organizacijų padaliniai, fiziniai asmenys
 
-Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
+atitinkama veikla verčiasi ne mažiau kaip dviejų valstybių narių teritorijose,
 
-22-716 (2001 03 14)
+šis įstatymas taikomas jų darbuotojams, kurie nuolat dirba Lietuvos
 
-Nr. IX-1119,
+Respublikoje.
 
-2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
+6. Juridinių asmenų,
 
-Nr. IX-2469,
+kitų organizacijų ir jų padalinių, fizinių asmenų, nurodytų šio straipsnio 4
 
-2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
+dalyje (toliau – darbdaviai), kurie atitinkama veikla verčiasi ne mažiau kaip
 
-Nr. X-519, 2006-03-23,
+dviejų valstybių narių teritorijose, darbuotojai laikomi nuolat dirbančiais
 
-Žin., 2006, Nr. 41-1460 (2006-04-13)
+Lietuvos Respublikoje, jeigu jie Lietuvos Respublikoje faktiškai vykdo
+
+pagrindinius įsipareigojimus darbdaviui. Jeigu neįmanoma nustatyti, ar
+
+darbuotojas nuolat dirba Lietuvos Respublikoje, laikoma, kad darbuotojas dirba
+
+valstybėje narėje, kurioje yra jo darbovietė.
+
+7. Sprendžiant dėl
+
+nemokumo procesų, pradėtų kitoje valstybėje narėje, lygiavertiškumo Lietuvos
+
+Respublikos įstatymuose numatytam bankroto procesui, atsižvelgiama į kitoje
+
+valstybėje narėje priimtus sprendimus dėl nemokumo procesų, kurie nurodyti 2000
+
+m. gegužės 29 d. Tarybos reglamento (EB) Nr. 1346/2000 dėl bankroto bylų (OL
+
+2004 m. specialusis leidimas, 19 skyrius, 1 tomas, p. 191), su
+
+paskutiniais pakeitimais, padarytais 2011 m. birželio 9 d. Tarybos įgyvendinimo
+
+reglamentu (ES) Nr. 583/2011 (OL 2011 L 160, p. 52), A priede.
+
+8.
+
+Išmokos iš Garantinio fondo skiriamos darbuotojams, dirbusiems iki teismo
+
+nutarties iškelti bankroto bylą arba kreditorių susirinkimo nutarimo bankroto
+
+procedūras vykdyti ne teismo tvarka priėmimo dienos, neatsižvelgiant į tai, ar
+
+jų darbo santykiai tęsiasi, ar darbo sutartis baigėsi darbo santykius
+
+reglamentuojančių teisės aktų nustatyta tvarka, taip pat neatsižvelgiant į
+
+darbo sutarties rūšį.
+
+*Pastaba. Paraiškas dėl išeitinių išmokų
+
+skyrimo buvusių darbdavių, nurodytų Lietuvos Respublikos Garantinio fondo
+
+įstatymo 2 straipsnio 4 dalies 1 ir 2 punktuose, kurių bankroto bylos
+
+iškeltos arba bankroto procesas ne teismo tvarka pradėtas iki Lietuvos Respublikos Garantinio fondo įstatymo
+
+įsigaliojimo dienos ir buvo tęsiamas įstatymui įsigaliojus, darbuotojams
+
+savivaldybės, kurios teritorijoje buvo įregistruotas šis darbdavys, likviduotas
+
+dėl bankroto įsigaliojus Lietuvos Respublikos Garantinio fondo įstatymui,
+
+tarybos įgaliota įstaiga arba jos pavedimu administratorius Garantinio fondo
+
+administratoriui teikia iki 2013 m. liepos 1 d. Šios paraiškos nagrinėjamos ir
+
+Garantinio fondo lėšos skiriamos pagal teisės normas, galiojusias iki
+
+įstatymo Nr. XI-2079 įsigaliojimo.
+
+Fiziniai
+
+asmenys, nurodyti 2 straipsnio 4 dalies 1 punkte, įmokas į Garantinį fondą moka
+
+nuo 2013 m. kovo 1 d.
 
 ANTRASIS SKIRSNIS
 
 GARANTINIO FONDO
 
-LĖŠOS, JŲ NAUDOJIMAS IR KONTROLĖ
+LĖŠOS, JŲ NAUDOJIMAS IR SKYRIMAS
 
-4
+3
 
 straipsnis. Garantinio fondo lėšos
 
@@ -190,1157 +230,225 @@ straipsnis. Garantinio fondo lėšos
 
 fondo lėšas sudaro:
 
-1) įmonių,
+1) darbdavių,
 
-nurodytų šio įstatymo 1 straipsnio 2 dalyje, įmokos – 0,2 proc. priskaičiuoto
-
-darbuotojams darbo užmokesčio (nuo kurio skaičiuojamos valstybinio socialinio
-
-draudimo įmokos);
+nurodytų šio įstatymo 2 straipsnio 4 dalies 1 ir 2 punktuose, įmokos;
 
 2) Privatizavimo
 
-fondo lėšos ir valstybės biudžeto lėšos, skiriamos pagal atskirą programą;
+fondo lėšos;
 
-3) lėšos, gautos
+3) valstybės
 
-iš bankrutuojančių ir bankrutavusių įmonių Garantinio fondo kreditoriniams
+biudžeto lėšos;
 
-reikalavimams tenkinti;
+4) lėšos, gautos
 
-4) juridinių ir
+iš darbdavių Garantinio fondo administratoriaus reikalavimams tenkinti;
 
-fizinių asmenų bei įmonių, neturinčių juridinio asmens teisių, savanoriškos
+5) fizinių ir
 
-įmokos;
+juridinių asmenų, kitų organizacijų ir jų padalinių savanoriškos įmokos;
 
-5) pajamos už
+6) pajamos už
 
-investuotas laikinai laisvas fondo lėšas.
+investuotas laikinai laisvas Garantinio fondo lėšas;
+
+7) kitos
+
+teisėtai gautos lėšos.
 
 2. Garantinio
 
-fondo lėšos kaupiamos ir saugomos Valstybės iždo sąskaitoje, kuri atidaroma
+fondo lėšos kaupiamos ir saugomos Lietuvos Respublikos valstybės iždo (toliau –
 
-Lietuvos banke.
+valstybės iždas) bendrojoje sąskaitoje.
 
-3. Įmokos į
+3.
 
-Garantinį fondą administruojamos pagal Mokesčių administravimo įstatymą.
+Šio straipsnio 1 dalies 1 punkte nurodytų įmokų dydis yra lygus 0,2 procento
+
+priskaičiuoto darbuotojams darbo užmokesčio, nuo kurio skaičiuojamos
+
+valstybinio socialinio draudimo įmokos, dydžiui.
 
 4.
 
-Įmonių įmokos į Garantinį fondą mokamos šia tvarka:
+Įmokos skaičiuojamos ir mokamos nuo tos dienos, už kurią darbuotojams
 
-1)
+pradedamas skaičiuoti darbo užmokestis. Įmokos mokamos kartą per mėnesį, tačiau
 
-įmokas įmonės apskaičiuoja ir moka nuo tos dienos, kurią darbuotojams
+iki 150 litų per metus dydžio įmokos gali būti mokamos kartą per metus, nuo 151
 
-pradedamas skaičiuoti darbo užmokestis;
+iki 300 litų – du kartus per metus. Įmokos sumokamos ne vėliau kaip per 15
 
-2) įmokos mokamos
+dienų po ataskaitinio laikotarpio pabaigos. Kai įmokos mokamos kartą per metus,
 
-kartą per mėnesį. Mažos įmokos gali būti mokamos taip: iki 150 litų per metus –
+ataskaitinio laikotarpio pabaiga laikoma gruodžio 31 d., kai mokamos du kartus
 
-kartą per metus; nuo 151 iki 300 litų – 2 kartus per metus. Įmokos sumokamos ne
+per metus – birželio 30 d. ir gruodžio 31 d.
 
-vėliau kaip per 15 dienų po ataskaitinio laikotarpio pabaigos.
+5. Įmokos į
 
-5. Laikinai laisvas
+Garantinį fondą administruojamos pagal Lietuvos Respublikos mokesčių
 
-Garantinio fondo lėšas valdo ir sprendimus dėl šių lėšų investavimo finansų
+administravimo įstatymą.
 
-ministro nustatyta tvarka priima Finansų ministerija, garantuodama, kad
+6. Laikinai
 
-reikalingos investuotos lėšos, taip pat investavimo metu gautos pajamos būtų
+laisvas Garantinio fondo lėšas valdo ir sprendimus dėl šių lėšų investavimo
 
-laiku grąžinamos į Garantinio fondo sąskaitą šio fondo tikslams finansuoti.
+finansų ministro nustatyta tvarka priima Lietuvos Respublikos finansų
 
-Straipsnio pakeitimai:
+ministerija (toliau – Finansų ministerija), garantuodama, kad reikalingos
 
-Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
+investuotos lėšos, taip pat investavimo metu gautos pajamos būtų laiku
 
-22-716 (2001 03 14)
+grąžinamos į valstybės iždo bendrąją sąskaitą išmokų iš Garantinio fondo
 
-Nr. IX-2538,
+skyrimo tęstinumui užtikrinti. Laikinai laisvomis Garantinio fondo lėšomis
 
-2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26)
+laikomos valstybės iždo bendrojoje sąskaitoje esančios Garantinio fondo lėšos,
 
-Nr. X-519, 2006-03-23,
+kurios laikinai neskiriamos išmokoms iš Garantinio fondo, nenaudojamos banko
 
-Žin., 2006, Nr. 41-1460 (2006-04-13)
+operacijoms ir išlaidoms, susijusioms su šio įstatymo 4 straipsnio
 
-Nr. X-1636,
+1 dalyje nurodytų paraiškų parengimu, taip pat Garantinio fondo
 
-2008-06-26, Žin., 2008, Nr. 79-3100 (2008-07-12)
+administravimo ir laikinai laisvų Garantinio fondo lėšų investavimo išlaidoms
 
-Nr.
+apmokėti.
 
-XI-1731,
-
-2011-11-22, Žin., 2011, Nr. 146-6853 (2011-12-01)
-
-5
+4
 
 straipsnis. Garantinio fondo lėšų naudojimas
 
-1. Iš Garantinio
+1. Garantinio fondo
 
-fondo šio įstatymo 3 straipsnyje nurodytiems darbuotojams mokamos šios iki
+lėšos naudojamos šioms iki paraiškos skirti lėšas iš Garantinio fondo (toliau –
 
-kreipimosi į Garantinį fondą dienos neišmokėtos išmokos:
+paraiška) pateikimo Garantinio fondo administratoriui dienos darbuotojams
 
-1) darbo
+neišmokėtoms išmokoms:
 
-užmokestis už atliktą darbą pagal darbuotojo reikalavimą, bet ne didesnis kaip
+1) darbuotojui
 
-darbo užmokesčio, sumokėto už paskutinius iš eilės einančius tris mėnesius,
+priklausantis darbo užmokestis, bet ne didesnis kaip užpraeitą kalendorinį
 
-suma. Kai per šiame punkte nurodytus tris mėnesius sumokėta darbo užmokesčio
+ketvirtį, buvusį prieš darbuotojo atleidimo dieną, priskaičiuotų darbuotojui su
 
-suma yra mažesnė už tris minimaliąsias mėnesines algas, maksimaliu išmokos
+darbo santykiais susijusių pajamų, nuo kurių skaičiuojamos valstybinio
 
-darbo užmokesčio įsiskolinimui atlyginti dydžiu laikoma trijų minimaliųjų
+socialinio draudimo įmokos, 3/4 sumos ir neviršijantis kalendorinio ketvirčio,
 
-mėnesinių algų suma. Šios išmokos suma negali viršyti dydžio, kurį Garantinio
+einančio prieš nutarties iškelti bankroto bylą arba kreditorių susirinkimo
 
-fondo tarybos teikimu nustato Vyriausybė;
+nutarimo bankroto procedūras vykdyti ne teismo tvarka priėmimo dienos mėnesį,
+
+Lietuvos statistikos departamento skelbiamų trijų šalies ūkio vidutinių
+
+mėnesinių bruto darbo užmokesčių sumos. Kai užpraeitą kalendorinį ketvirtį,
+
+buvusį prieš darbuotojo atleidimo dieną, priskaičiuotų darbuotojui su darbo
+
+santykiais susijusių pajamų, nuo kurių skaičiuojamos valstybinio socialinio
+
+draudimo įmokos, suma yra mažesnė už tris minimaliąsias mėnesines algas arba
+
+tokios sumos nebuvo, išmokos darbo užmokesčio įsiskolinimui atlyginti dydis
+
+laikomas lygus trijų minimaliųjų mėnesinių algų sumai;
 
 2) piniginė
 
-kompensacija už nepanaudotas kasmetines atostogas, bet ne didesnė kaip
+kompensacija už nepanaudotas kasmetines atostogas, neviršijanti vienos
 
-Garantinio fondo tarybos teikimu nustatyta Vyriausybės;
+minimaliosios mėnesinės algos;
 
 3) išeitinė išmoka,
 
-numatyta Darbo kodekso 140 straipsnyje, 297 straipsnio 4 dalyje ar Įmonių
+numatyta Lietuvos Respublikos darbo kodekso 140 straipsnyje, 297 straipsnio 4
 
-bankroto įstatymo 19 straipsnyje. Šios išmokos suma negali viršyti dydžio, kurį
+dalyje ar Lietuvos Respublikos įmonių bankroto įstatymo (toliau – Įmonių
 
-Garantinio fondo tarybos teikimu nustato Vyriausybė;
+bankroto įstatymas) 19 straipsnio 2 dalyje, neviršijanti dviejų minimaliųjų
 
-4) Žalos atlyginimo
+mėnesinių algų sumos;
 
-dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo
+4) apmokėjimas už
 
-nustatytas žalos atlyginimas dėl nelaimingų atsitikimų darbe ar
+prastovą, neviršijantis vienos minimaliosios mėnesinės algos;
 
-susirgimų profesine liga, kai ši prievolė nurodyto įstatymo nustatyta tvarka
+5) Lietuvos
 
-nepereina valstybei;
+Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų
 
-5) apmokėjimas už
+profesine liga laikinojo įstatymo nustatytas žalos atlyginimas dėl nelaimingų
 
-prastovą. Šios išmokos suma negali viršyti dydžio, kurį Garantinio fondo
+atsitikimų darbe ar susirgimų profesine liga, kai ši prievolė šioje dalyje
 
-tarybos teikimu nustato Vyriausybė.
+nurodyto įstatymo nustatyta tvarka nepereina valstybei.
 
-2. Skiriant
+2. Skiriant šio
 
-išmokas bankrutuojančių ar bankrutavusių įmonių darbuotojams arba buvusiems
+straipsnio 1 dalyje nurodytas išmokas, Įmonių bankroto įstatymo nustatyta
 
-likviduotų dėl bankroto įmonių darbuotojams, Garantinio fondo lėšų dalis
+tvarka paskirto įmonės administratoriaus, Lietuvos Respublikos fizinių asmenų
 
-skiriama:
+bankroto įstatymo (toliau – Fizinių asmenų bankroto įstatymas) nustatyta tvarka
+
+paskirto bankroto administratoriaus ar asmens, kitoje valstybėje narėje
+
+atliekančio įmonės administratoriaus ar bankroto administratoriaus funkcijas
+
+atitinkančias funkcijas, (toliau – administratorius) prašymu, Garantinio fondo lėšos
+
+naudojamos:
 
 1) banko
 
-operacijoms, susijusioms su įmonei perduotų Garantinio fondo lėšų išmokėjimu
+operacijoms, susijusioms su išmokų iš Garantinio fondo pervedimu į darbuotojų
 
-darbuotojams ar pervedimu į jų asmenines sąskaitas banko įstaigose, apmokėti
+asmenines sąskaitas Lietuvos Respublikoje įsteigtuose bankuose (bankų
 
-pagal atitinkamo banko įkainius;
+filialuose), apmokėti pagal atitinkamų bankų (bankų filialų) įkainius. Jeigu
 
-2) neturinčių turto įmonių išlaidoms,
+išmokos iš Garantinio fondo pervedamos į darbuotojų asmenines sąskaitas kitose
 
-susijusioms su paraiškų skirti išmokas parengimu (administratoriaus darbo
+valstybėse įsteigtuose bankuose (bankų filialuose), su šių išmokų pervedimu
 
-dalinis apmokėjimas), apmokėti.
+susijusios išlaidos atlyginamos iš jų gavėjui skirtų išmokų iš Garantinio
 
-3. Šio straipsnio 1 dalies 1 ir 5 punktuose nurodytų
+fondo. Jeigu banko operacijai apmokėti naudojamos Garantinio fondo lėšos, kai
 
-išmokų iš Garantinio fondo dydis yra skaičiuojamas pagal bankrutuojančios, bankrutavusios
+išmokos iš Garantinio fondo pervedamos į darbuotojų asmenines sąskaitas kitose
 
-ar likviduotos dėl bankroto įsigaliojus šiam įstatymui įmonės darbuotojų
+valstybėse įsteigtuose bankuose (bankų filialuose), viršija darbuotojui skirtų
 
-reikalavimus dėl įsiskolinimų, susijusių su darbo santykiais, apskaičiuotų
+išmokų iš Garantinio fondo sumą, išmokos iš Garantinio fondo šiam darbuotojui
 
-remiantis įmonės personalo ir buhalterinės apskaitos dokumentais ir
+nepervedamos;
 
-susidariusių iki teismo nutarties iškelti įmonei bankroto bylą priėmimo dienos
+2) išlaidoms, susijusioms su paraiškų parengimu
 
-arba iki kreditorių susirinkimo nutarimo bankroto procedūras vykdyti ne teismo
+(administratoriaus darbo daliniu apmokėjimu), apmokėti, kai bankroto byla
 
-tvarka priėmimo dienos ir už laikotarpį, ne ilgesnį kaip du mėnesiai nuo minėtų
+nagrinėjama supaprastinto bankroto proceso tvarka. Šių išlaidų apmokėjimo
 
-teismo nutarties ar kreditorių susirinkimo nutarimo priėmimo dienos. Išmokos,
+tvarką ir dydžius (atsižvelgus į administratoriaus darbo apimtį, paraiškos
 
-numatytos šio straipsnio 1 dalies 2 ir 3 punktuose, skaičiuojamos nutraukiant
+sudėtingumą, darbuotojų skaičių ir kita), neviršijančius trijų minimaliųjų
 
-darbo sutartį.
+mėnesinių algų sumos, nustato Vyriausybė ar jos įgaliota institucija.
 
-4. Kai nėra šio įstatymo 5 straipsnio 3 dalyje
+3. Garantinio fondo lėšos taip pat naudojamos
 
-nurodytų dokumentų, pagal kuriuos apskaičiuojamos šio įstatymo 5 straipsnio 1
+Garantinio fondo administravimo išlaidoms apmokėti Garantinio fondo nuostatuose
 
-dalyje nurodytos išmokos, bet yra kiti duomenys, patvirtinantys darbuotojų
+nustatyta tvarka ir laikinai laisvų Garantinio fondo lėšų investavimo išlaidoms
 
-teisę gauti su darbo santykiais susijusią išmoką, Garantinio fondo tarybos
-
-nutarimu jiems skiriamos išmokos iš Garantinio fondo, bet ne daugiau kaip trys
-
-minimaliosios mėnesinės algos.
-
-5. Šio straipsnio 2 dalies 1 ir 2 punktuose numatytos
-
-lėšos skiriamos pagal įmonės administratoriaus (likvidacinės komisijos
-
-pirmininko) ar savivaldybės, kurioje buvo įregistruota įmonė, likviduota dėl
-
-bankroto įsigaliojus šiam įstatymui, tarybos įgaliotos įstaigos arba jos
-
-pavedimu juridinio asmens, teikiančio įmonių bankroto administravimo paslaugas
-
-ir parengusio paraišką dėl lėšų skyrimo, prašymą, bet ne didesnė suma kaip
-
-Garantinio fondo tarybos teikimu yra nustatyta Vyriausybės.
-
-6. Patvirtinta
-
-darbuotojų kreditorinių reikalavimų suma mažinama iš Garantinio fondo sumokėtos
-
-išmokos suma. Garantinio fondo administratorius į šią sumą įgyja atgręžtinio
-
-reikalavimo teisę. Jo kreditoriniai reikalavimai tenkinami Įmonių bankroto
-
-įstatymo nustatyta tvarka.
-
-7. Išmokos,
-
-nurodytos šio straipsnio 1 dalyje, bankrutuojančios ar bankrutavusios įmonės
-
-darbuotojui mokamos vieną kartą.
-
-8. Garantinio fondo
-
-lėšos Garantinio fondo nuostatų nustatyta tvarka taip pat naudojamos Garantinio
-
-fondo administravimo išlaidoms.
-
-9. Įmonei
-
-perduotos Garantinio fondo lėšos valstybės institucijų ar įgaliotų vykdyti
-
-įsiskolinimų išieškojimą įstaigų sprendimais negali būti nurašomos iš įmonės
-
-sąskaitos ne ginčo tvarka, areštuojamos ar kitaip panaudojamos tikslams,
-
-nenumatytiems šiame įstatyme.
-
-10. Iš
-
-Garantinio fondo lėšų yra skiriamos darbuotojams išmokėtinos sumos,
-
-apskaičiuotos atskaičius gyventojų pajamų mokestį ir valstybinio socialinio
-
-draudimo įmokas. Skiriant išmokas yra taikomas minimaliosios mėnesinės algos
-
-dydis, galiojantis Garantinio fondo tarybos nutarimo priėmimo dieną.
-
-11. Šiame
-
-įstatyme numatytos garantijos be kokių nors apribojimų yra taikomos
-
-darbuotojams, dirbusiems bankrutuojančioje ar bankrutavusioje įmonėje ne visą
-
-darbo laiką, taip pat dirbusiems pagal terminuotą ar laikinąją darbo sutartį.
-
-12. Išmokos iš Garantinio fondo lėšų neskiriamos darbuotojams,
-
-sudariusiems darbo sutartį su nemokia įmone nuo kreditoriaus (kreditorių)
-
-pranešimo įmonei apie ketinimą kreiptis į teismą dėl bankroto bylos iškėlimo
-
-dienos ar nuo įmonės viešo paskelbimo arba kitokio pranešimo kreditoriui
-
-(kreditoriams), kad negali arba neketina vykdyti įsipareigojimų, dienos ar
-
-pareiškimo pateikimo teismui dienos iškelti įmonei bankroto bylą (atsižvelgiant
-
-į tai, kuri iš šių datų yra ankstesnė) ar nuo siūlymo išsiuntimo kreditoriams
-
-dienos bankroto procedūras vykdyti ne teismo tvarka. Nutarimą šiais atvejais
-
-priima Garantinio fondo taryba.
-
-13. Kai
-
-darbuotojui pačiam arba kartu ir jo sutuoktiniui (sugyventiniui) ar (ir)
-
-artimiesiems giminaičiams priklausė nuosavybės teise daugiau kaip 50 procentų
-
-įmonės akcijų (dalių, pajų), Garantinio fondo tarybos nutarimu jam gali būti
-
-skiriamos tik kai kurios išmokų, numatytų šio įstatymo 5 straipsnio 1 dalyje,
-
-rūšys arba išmokos iš fondo lėšų visai neskiriamos.
-
-Straipsnio pakeitimai:
-
-Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
-
-22-716 (2001 03 14)
-
-Nr. IX-1119,
-
-2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
-
-Nr. IX-1673,
-
-2003-07-01, Žin., 2003, Nr. 73-3350 (2003-07-23)
-
-Nr. X-519, 2006-03-23,
-
-Žin., 2006, Nr. 41-1460 (2006-04-13)
-
-Nr. X-1636,
-
-2008-06-26, Žin., 2008, Nr. 79-3100 (2008-07-12)
-
-6
-
-straipsnis. Lėšų iš Garantinio fondo skyrimo tvarka
-
-1. Lėšų iš
-
-Garantinio fondo skyrimo tvarką nustato Garantinio fondo nuostatai.
-
-2.
-
-Bankrutuojančios ar bankrutavusios įmonės administratorius (likvidacinės
-
-komisijos pirmininkas), kai įmonė neturi pakankamai nuosavų lėšų atsiskaitymui
-
-su darbuotojais, per 2 mėnesius nuo kreditorinių reikalavimų patvirtinimo
-
-dienos Garantinio fondo nuostatų nustatyta tvarka privalo pateikti Garantinio
-
-fondo administratoriui dokumentus dėl lėšų skyrimo darbuotojų reikalavimams,
-
-susijusiems su darbo santykiais, tenkinti.
-
-3. Neteko galios
-
-nuo 2006 m. balandžio 13 d.
-
-4. Dokumentus
-
-dėl lėšų skyrimo likviduotų dėl bankroto įsigaliojus šiam įstatymui įmonių
-
-darbuotojų reikalavimams, susijusiems su darbo santykiais, tenkinti Garantinio
-
-fondo administratoriui teikia savivaldybės, kurios teritorijoje buvo
-
-įregistruota (veikė) likviduota dėl bankroto įmonė, tarybos įgaliota įstaiga
-
-arba jos pavedimu juridinis asmuo, kuriam suteikta teisė teikti įmonių bankroto
-
-administravimo paslaugas.
-
-5. Neteko galios
-
-nuo 2006 m. balandžio 13 d.
-
-6. Sprendimą dėl
-
-Garantinio fondo lėšų skyrimo Garantinio fondo administratoriaus teikimu ne
-
-vėliau kaip per mėnesį nuo dokumentų iš Garantinio fondo administratoriaus
-
-gavimo dienos priima Garantinio fondo taryba.
-
-7. Garantinio fondo
-
-tarybai priėmus sprendimą skirti lėšų, Garantinio fondo administratorius su
-
-bankrutuojančia ar bankrutavusia įmone arba savivaldybės tarybos įgaliota
-
-įstaiga arba jos pavedimu su juridiniu asmeniu, teikiančiu įmonių bankroto
-
-administravimo paslaugas ir parengusiu paraišką dėl lėšų skyrimo, sudaro lėšų iš
-
-Garantinio fondo perdavimo įmonei (savivaldybės įstaigai, juridiniam asmeniui,
-
-teikiančiam įmonių bankroto administravimo paslaugas) sutartį.
-
-8. Garantinio
-
-fondo tarybos sprendimai gali būti skundžiami įstatymų nustatyta tvarka.
-
-Straipsnio pakeitimai:
-
-Nr. IX-1119,
-
-2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
-
-Nr. X-519, 2006-03-23,
-
-Žin., 2006, Nr. 41-1460 (2006-04-13)
-
-Nr. X-1636,
-
-2008-06-26, Žin., 2008, Nr. 79-3100 (2008-07-12)
-
-7
-
-straipsnis. Garantinio fondo finansinė kontrolė
-
-1. Garantinio fondo
-
-finansinę veiklą kontroliuoja Valstybės kontrolė.
-
-2 dalies redakcija iki tų metų, kurių
-
-ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
-
-sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
-
-2. Garantinio
-
-fondo finansinė atskaitomybė kasmet turi būti tikrinama auditoriaus ar audito
-
-įmonės. Garantinio fondo taryba ne vėliau kaip per 3 mėnesius pasibaigus
-
-finansiniams metams skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“
-
-metinę finansinę atskaitomybę kartu su auditoriaus išvada.
-
-2 dalies redakcija nuo tų metų, kurių
-
-ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
-
-sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
-
-2. Metinė
-
-Garantinio fondo lėšų sąmatos vykdymo ataskaita ir Viešojo sektoriaus
-
-atskaitomybės įstatyme nustatytas finansinių ataskaitų rinkinys kasmet turi
-
-būti tikrinami audito įmonės. Audito įmonė atlieka Garantinio fondo lėšų
-
-sąmatos vykdymo ataskaitos patikrinimą, pateikdama išvadą apie Garantinio fondo
-
-lėšų sąmatos vykdymo ataskaitos patikrinimą, ir Garantinio fondo finansinių
-
-ataskaitų auditą, parengdama auditoriaus išvadą. Garantinio fondo taryba ne
-
-vėliau kaip per 3 mėnesius pasibaigus finansiniams metams „Valstybės žinių“
-
-priede „Informaciniai pranešimai“ skelbia Garantinio fondo lėšų sąmatos vykdymo
-
-ataskaitą kartu su išvada apie Garantinio fondo lėšų sąmatos vykdymo ataskaitos
-
-patikrinimą.
-
-Straipsnio pakeitimai:
-
-Nr. X-1222,
-
-2007-06-26, Žin., 2007, Nr. 77-3054 (2007-07-12)
-
-Nr. X-1831,
-
-2008-11-14, Žin., 2008, Nr. 137-5380 (2008-11-29)
-
-TREČIASIS SKIRSNIS
-
-GARANTINIO FONDO
-
-VALDYMAS
-
-8
-
-straipsnis. Garantinio fondo taryba
-
-1. Garantiniam
-
-fondui vadovauja Garantinio fondo taryba. Tarybos sudėtį tvirtina Vyriausybė.
-
-2. Garantinio
-
-fondo taryba sudaroma iš 12 narių: 4 atstovauja darbuotojų interesus ginančioms
-
-organizacijoms (profesinėms sąjungoms ir jų susivienijimams), 4 – darbdavių
-
-organizacijoms (susivienijimams, asociacijoms ir kt.) ir 4 – valstybės valdymo
-
-institucijoms. Darbuotojų interesus ginančių organizacijų ir darbdavių atstovus
-
-deleguoja jiems atstovaujančios organizacijos. Valstybės valdymo institucijų
-
-atstovai skiriami Vyriausybės nustatyta tvarka.
-
-3. Garantinio
-
-fondo tarybos veiklai vadovauja pirmininkas. Jį skiria Vyriausybė iš valstybės
-
-valdymo institucijų atstovų.
-
-Straipsnio pakeitimai:
-
-Nr. X-1636,
-
-2008-06-26, Žin., 2008, Nr. 79-3100 (2008-07-12)
-
-9
-
-straipsnis. Garantinio fondo tarybos kompetencija
-
-1.
-
-Garantinio fondo tarybos veiklą nustato Garantinio fondo nuostatai.
-
-2.
-
-Garantinio fondo taryba:
-
-1) valdo fondo
-
-lėšas;
-
-2) priima
-
-sprendimus dėl Garantinio fondo lėšų skyrimo;
-
-3) teikia pasiūlymus Vyriausybei dėl maksimalių išmokų dydžių, numatytų
-
-šio įstatymo 5 straipsnio 1 dalies 1, 2, 3 ir 5 punktuose;
-
-4) teikia
-
-Vyriausybei Garantinio fondo veiklos metų ataskaitą, Garantinio fondo lėšų sąmatos projektą ir
-
-metinę sąmatos įvykdymo ataskaitą;
-
-5) teikia
-
-Vyriausybei pasiūlymus Garantinio fondo veiklos klausimais;
-
-6) tvirtina lėšų
-
-iš Garantinio fondo perdavimo įmonei sutarties pavyzdinę formą;
-
-7) vykdo
-
-kitus Garantinio fondo nuostatuose nustatytus uždavinius ir funkcijas.
-
-Straipsnio pakeitimai:
-
-Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
-
-22-716 (2001 03 14)
-
-Nr. IX-2469,
-
-2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
-
-Nr. X-1636,
-
-2008-06-26, Žin., 2008, Nr. 79-3100 (2008-07-12)
-
-10
-
-straipsnis. Garantinio fondo administratoriaus funkcijos
-
-Garantinio fondo
-
-administratoriaus pagrindinės funkcijos:
-
-1) vykdyti
-
-Garantinio fondo tarybos ir jos pirmininko pavedimus;
-
-2) priimti
-
-bankrutuojančių ir bankrutavusių įmonių paraiškas dėl lėšų skyrimo 3
-
-straipsnyje nurodytų darbuotojų išmokoms, šias paraiškas nagrinėti ir parengti
-
-Fondo tarybos posėdžiams;
-
-3) Garantinio
-
-fondo tarybai priėmus nutarimą skirti lėšų išmokoms bankrutuojančių ar
-
-bankrutavusių, taip pat buvusiems likviduotų dėl bankroto įmonių darbuotojams,
-
-sudaryti lėšų iš Garantinio fondo perdavimo įmonei ar savivaldybės tarybos
-
-įgaliotai įstaigai arba jos pavedimu juridiniam asmeniui, teikiančiam įmonių
-
-bankroto administravimo paslaugas ir parengusiam paraišką dėl lėšų skyrimo,
-
-sutartį;
-
-4) pagal
-
-kompetenciją, nustatytą Garantinio fondo nuostatuose, atstovauti Garantiniam
-
-fondui valstybės ir savivaldybių institucijose, teismuose bei kitose įstaigose,
-
-įmonėse ir organizacijose visais su jo veikla susijusiais klausimais.
-
-Garantinio fondo interesams gali atstovauti ir kitos Lietuvos Respublikos
-
-Vyriausybės įgaliotos institucijos;
-
-5) rengti
-
-Garantinio fondo veiklos metų ataskaitą, Garantinio fondo lėšų sąmatos projektą
-
-ir metinę sąmatos įvykdymo ataskaitą;
-
-6) kontroliuoti
-
-ir kaupti informaciją apie Garantinio fondo lėšų naudojimą;
-
-7) spręsti kitus
-
-Garantinio fondo nuostatuose numatytus klausimus.
-
-Straipsnio pakeitimai:
-
-Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
-
-22-716 (2001 03 14)
-
-Nr. X-519, 2006-03-23,
-
-Žin., 2006, Nr. 41-1460 (2006-04-13)
-
-KETVIRTASIS
-
-SKIRSNIS
-
-BAIGIAMOSIOS
-
-NUOSTATOS
-
-11
-
-straipsnis. Garantinio fondo reorganizavimas ir likvidavimas
-
-1. Garantinį
-
-fondą reorganizuoja ir likviduoja Vyriausybė.
-
-2. Likvidavus
-
-Garantinį fondą, nepanaudotų lėšų naudojimo tvarką nustato šio fondo steigėjas.
-
-12
-
-straipsnis. Įstatymo įsigaliojimas ir taikymas
-
-1. Šis įstatymas
-
-įsigalioja nuo 2000 m. spalio 1 d.
-
-2. Įstatymo
-
-nuostatos netaikomos įmonėms, dėl kurių teismas, nagrinėjantis bankroto bylą,
-
-ar kreditorių susirinkimas, bankroto procedūras vykdant ne teismo tvarka, iki
-
-šio įstatymo įsigaliojimo dienos yra priėmęs nutartį (nutarimą) išregistruoti
-
-likviduotą dėl bankroto įmonę. Įmonėms, kuriose bankroto procesas
-
-pradėtas iki šio įstatymo įsigaliojimo dienos ir buvo tęsiamas įstatymui
-
-įsigaliojus, netaikomi šio įstatymo 5 straipsnio 1 dalies 2 ir 5 punktai.
-
-Buvusiems šių įmonių darbuotojams, kuriems iš Garantinio fondo lėšų buvo
-
-skirtos išmokos tik darbo užmokesčio ir žalos atlyginimo dėl nelaimingų
-
-atsitikimų darbe ar susirgimų profesine liga įsiskolinimui sumokėti arba, jei
-
-šių įsiskolinimų nėra, išmokos iš viso nebuvo skirtos, skiriama išeitinė
-
-išmoka, numatyta šio įstatymo 5 straipsnio 1 dalies 3 punkte. Kai
-
-bankrutuojančios ar bankrutavusios įmonės darbuotojams bankroto proceso metu
-
-jau buvo sumokėta tam tikra įmonės įsiskolinimo dalis iš Fondo bankrutuojančių
-
-ir bankrutavusių įmonių darbuotojų reikalavimams, susijusiems su darbo
-
-santykiais, tenkinti skirtų finansinės paramos lėšų, šio įstatymo 5 straipsnio
-
-1 dalies 1 punkte nurodytos išmokos jiems turi būti sumažinamos sumokėta suma.
-
-Kai darbuotojams skirtos išmokos, numatytos šio įstatymo 5 straipsnio 1 dalies
-
-1 punkte, pagal galiojusias šios dalies nuostatas buvo sumažintos bankroto
-
-proceso metu iš įmonės lėšų sumokėta darbo užmokesčio dalimi, jiems skiriamos
-
-papildomos išmokos, kurių kiekvienos dydis yra lygus sumai, kuria buvo
-
-sumažinta anksčiau skirta išmoka.
-
-3.
-
-Bankrutuojančių ir bankrutavusių įmonių paraiškos dėl lėšų skyrimo iš
-
-Garantinio fondo šio įstatymo 3 straipsnyje nurodytiems darbuotojams pradedamos
-
-nagrinėti Garantinio fondo taryboje ne anksčiau kaip po 3 mėnesių nuo šio
-
-įstatymo įsigaliojimo dienos.
-
-4. Įmonės įmokas į
-
-Garantinį fondą pradeda mokėti nuo 2001 m. kovo 15 d.
-
-5. Įmonės,
-
-kurios sumokėjo įmokas į Garantinį fondą iki 2001 m. kovo 15 d., šių įmokų dydžiu gali sumažinti įmokas, apskaičiuotas ir mokėtinas į Garantinį
-
-fondą nuo 2001 m. kovo 15 d.
-
-Straipsnio pakeitimai:
-
-Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
-
-22-716 (2001 03 14)
-
-Nr. IX-631,
-
-2001-12-06, Žin., 2001, Nr. 104-3703 (2001-12-12)
-
-Nr. IX-1119,
-
-2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
-
-Nr. X-1636,
-
-2008-06-26, Žin., 2008, Nr. 79-3100 (2008-07-12)
-
-13
-
-straipsnis.
-
-Įstatymo įgyvendinimas
-
-Vyriausybė:
-
-1) patvirtina
-
-Garantinio fondo nuostatus;
-
-2) patvirtina
-
-Garantinio fondo tarybos sudėtį;
-
-3) patvirtina
-
-šio įstatymo 5 straipsnio 1 dalies 1 ir 4 punktų bei 12 ir 13 dalių taikymo
-
-tvarką;
-
-4) 2001 metų
-
-valstybės biudžeto projekte numato asignavimus pradiniam įnašui į Garantinį
-
-fondą;
-
-5) parengia
-
-Valstybės ir savivaldybių turto privatizavimo įstatymo pakeitimus, nustatančius
-
-privatizavimo lėšų dalies naudojimą Garantiniam fondui;
-
-6) patvirtina
-
-įmonėms, likviduotoms dėl bankroto įsigaliojus šiam įstatymui, išmokų skyrimo
-
-tvarką;
-
-7) patvirtina
-
-papildomų išmokų, numatytų šio įstatymo 12 straipsnio 2 dalyje, skyrimo tvarką;
-
-8) nustato tvarką,
-
-kuria gaunama ir teikiama informacija apie Europos Sąjungos valstybėje narėje
-
-ar kitoje Europos ekonominės erdvės valstybėje vykstantį įmonės, kurios
-
-filialai ir atstovybės įstatymų nustatyta tvarka įregistruoti Lietuvos
-
-Respublikoje, nemokumo procesą ir apie bankroto procedūras, vykdomas įmonėje,
-
-įregistruotoje Lietuvos Respublikoje ir veikiančioje kelių valstybių narių
-
-teritorijoje.
-
-Straipsnio pakeitimai:
-
-Nr. IX-1119, 2002-10-08,
-
-Žin., 2002, Nr. 102-4544 (2002-10-25)
-
-Nr. X-519, 2006-03-23,
-
-Žin., 2006, Nr. 41-1460 (2006-04-13)
-
-Nr. X-1636, 2008-06-26,
-
-Žin., 2008, Nr. 79-3100 (2008-07-12)
-
-Skelbiu šį
-
-Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS
-
-ADAMKUS
-
-Lietuvos
-
-Respublikos
-
-garantinio
-
-fondo įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS
-
-AKTAI
-
-1. 1980 m. spalio 20 d. Tarybos direktyva 80/987/EEB dėl valstybių narių įstatymų, susijusių su
-
-darbuotojų apsauga jų darbdaviui tapus nemokiam, suderinimo.
-
-2. 2002 m. rugsėjo 23 d. Europos parlamento ir Tarybos direktyva 2002/74/EB, iš dalies keičianti Tarybos
-
-direktyvą 80/987/EEB dėl valstybių narių įstatymų, susijusių su darbuotojų
-
-apsauga jų darbdaviui tapus nemokiam, suderinimo.
-
-Priedo
-
-pakeitimai:
-
-Nr. X-519, 2006-03-23,
-
-Žin., 2006, Nr. 41-1460 (2006-04-13)
-
-_______________
-
-Pakeitimai:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
-
-22-716 (2001 03 14)
-
-GARANTINIO FONDO ĮSTATYMO 3, 4,
-
-5, 9, 10, 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. IX-631,
-
-2001-12-06, Žin., 2001, Nr. 104-3703 (2001-12-12)
-
-GARANTINIO
-
-FONDO ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1119,
-
-2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
-
-GARANTINIO
-
-FONDO ĮSTATYMO 3, 5, 6, 12, 13 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-4.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-1673,
-
-2003-07-01, Žin., 2003, Nr. 73-3350 (2003-07-23)
-
-GARANTINIO
-
-FONDO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-5.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-2139,
-
-2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
-
-ĮMONIŲ
-
-IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR
-
-PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ
-
-ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO,
-
-MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS
-
-BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis
-
-Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
-
-6.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-2469,
-
-2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
-
-GARANTINIO
-
-FONDO ĮSTATYMO 1, 3, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO
-
-PRIEDU ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2004 m. lapkričio 1 d.
-
-7.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-2538,
-
-2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26)
-
-GARANTINIO
-
-FONDO ĮSTATYMO, ĮMONIŲ BANKROTO ĮSTATYMO, LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ
-
-ĮSTATYMO, ŽEMĖS ŪKIO BENDROVIŲ ĮSTATYMO, ŪKININKO ŪKIO ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2005 m. sausio 1 d.
-
-8.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-519,
-
-2006-03-23, Žin., 2006, Nr. 41-1460 (2006-04-13)
-
-GARANTINIO
-
-FONDO ĮSTATYMO 1, 3, 4, 5, 6, 10, 13 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI
-
-ĮSTATYMO PRIEDO PAKEITIMO ĮSTATYMAS
-
-Šio
-
-įstatymo 4 straipsnio 1 ir 2 dalys įsigalioja nuo 2006 m. gegužės 1 d.
-
-9.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. X-1222,
-
-2007-06-26, Žin., 2007, Nr. 77-3054 (2007-07-12)
-
-GARANTINIO
-
-FONDO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis įstatymas įsigalioja tų metų, kurių
-
-ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
-
-sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
-
-Pakeitimas:
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. X-1831,
-
-2008-11-14, Žin., 2008, Nr. 137-5380 (2008-11-29)
-
-GARANTINIO FONDO ĮSTATYMO 7 STRAIPSNIO
-
-PAKEITIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Nauja įstatymo redakcija
-
-10.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-1636,
-
-2008-06-26, Žin., 2008, Nr. 79-3100 (2008-07-12)
-
-GARANTINIO
-
-FONDO ĮSTATYMO 1, 2, 4, 5, 6, 8, 9, 10, 12, 13 STRAIPSNIŲ PAKEITIMO IR
-
-PAPILDYMO ĮSTATYMAS
-
-Šio įstatymo 9 straipsnyje nurodytos išeitinės išmokos iš
-
-Garantinio fondo pradedamos mokėti nuo 2008 m. liepos 1 d.
-
-Iš Garantinio fondo išmokamų išeitinių
-
-išmokų sumoms taikomi tokie Lietuvos Respublikos Vyriausybės patvirtinti
-
-išeitinių išmokų dydžio (iki 2 minimaliųjų mėnesinių algų) apribojimai, kokie
-
-buvo taikomi tuo laikotarpiu, per kurį šiame įstatyme nurodytiems darbuotojams
-
-buvo mokamas darbo užmokesčio įsiskolinimas iš Garantinio fondo.
-
-11.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. XI-1731,
-
-2011-11-22, Žin., 2011, Nr. 146-6853 (2011-12-01)
-
-GARANTINIO
-
-FONDO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis įstatymas įsigalioja 2012 m. sausio
-
-1 d.
-
-***
-
-Pabaiga ***
-
-Redagavo
-
-Aušra Bodin (2011-12-15)
-
-aubodi@lrs.lt
-
-1 straipsnis.
-
-Įstatymo paskirtis
-
-1. Šis įstatymas
-
-nustato Garantinio fondo paskirtį, veiklos teisinius pagrindus, valdymą, lėšų
-
-šaltinius.
-
-2. Šis įstatymas
-
-taikomas visiems juridiniams asmenims, išskyrus valstybės biudžetines įstaigas,
-
-savivaldybių biudžetines įstaigas, politines partijas, profesines sąjungas ir
-
-religines bendruomenes bei bendrijas, taip pat Europos Sąjungos valstybėse
-
-narėse ir kitose Europos ekonominės erdvės valstybėse įsisteigusių įmonių,
-
-kuriose pagal tų valstybių įstatymus vykdomos nemokumo procedūros, filialams ir
-
-atstovybėms (toliau – įmonės), įregistruotiems Lietuvos Respublikoje teisės
-
-aktų nustatyta tvarka.
-
-3. Šio įstatymo
-
-nuostatos suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės
-
-aktais.
-
-Straipsnio pakeitimai:
-
-Nr. IX-2139,
-
-2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
-
-Nr. IX-2469,
-
-2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
-
-Nr. X-519, 2006-03-23,
-
-Žin., 2006, Nr. 41-1460 (2006-04-13)
+apmokėti finansų ministro nustatyta tvarka.
 
 2 straipsnis.
 
@@ -1516,239 +624,733 @@ Nr. X-519, 2006-03-23,
 
 Žin., 2006, Nr. 41-1460 (2006-04-13)
 
-5 straipsnis.
+5 straipsnis. Išmokų iš
 
-Garantinio fondo lėšų naudojimas
+Garantinio fondo skaičiavimo tvarka
 
-1. Iš Garantinio
+1. Išmokų iš Garantinio fondo dydis skaičiuojamas
 
-fondo šio įstatymo 3 straipsnyje nurodytiems darbuotojams mokamos šios iki
+pagal teismo nutartimi ar kreditorių susirinkimo nutarimu patvirtintus
 
-kreipimosi į Garantinį fondą dienos neišmokėtos išmokos:
+darbuotojų reikalavimus, susijusius su darbo santykiais, apskaičiuotus pagal
 
-1 dalies 1 ir 2 punktų redakcija iki 2006 m. gegužės 1 d.:
+personalo ir buhalterinės apskaitos dokumentus ir susidariusius iki teismo
 
-1) darbo užmokestis
+nutarties iškelti bankroto bylą ar kreditorių susirinkimo nutarimo bankroto
 
-už atliktą darbą pagal darbuotojo reikalavimą, bet ne didesnis kaip Garantinio
+procedūras vykdyti ne teismo tvarka priėmimo dienos ir už laikotarpį, ne
 
-fondo tarybos teikimu nustatytas Vyriausybės. Vyriausybės nustatytas dydis
+ilgesnį kaip du mėnesiai nuo teismo nutarties iškelti bankroto bylą ar
 
-negali būti mažesnis už trijų minimalių mėnesinių algų sumą;
+kreditorių susirinkimo nutarimo bankroto procedūras vykdyti ne teismo tvarka
 
-2) piniginė
+priėmimo dienos. Išmokos, numatytos šio įstatymo 4 straipsnio 1 dalies 2 ir
 
-kompensacija už nepanaudotas kasmetines atostogas, bet ne ilgesnes kaip Darbo
+3 punktuose, skaičiuojamos nutraukiant darbo sutartį.
 
-kodekso nustatytos minimalios trukmės atostogos ir ne daugiau kaip už vienerius
+2. Kai administratorius pateikia pagrindimą dėl šio
 
-darbo metus, ir ne didesnė kaip Garantinio fondo tarybos teikimu nustatyta
+straipsnio 1 dalyje nurodytų dokumentų, pagal kuriuos apskaičiuojamos išmokos
 
-Vyriausybės;
+iš Garantinio fondo, nebuvimo, bet nėra duomenų, patvirtinančių darbuotojų
 
-1 dalies 1 ir 2 punktų redakcija nuo 2006 m. gegužės 1 d.:
+teisę gauti su darbo santykiais susijusią išmoką iš Garantinio fondo, jiems
 
-1) darbo
+skiriamos Garantinio fondo lėšos, kurių suma sudaro ne daugiau kaip tris
 
-užmokestis už atliktą darbą pagal darbuotojo reikalavimą, bet ne didesnis kaip
+minimaliąsias mėnesines algas.
 
-darbo užmokesčio, sumokėto už paskutinius iš eilės einančius tris mėnesius,
+3.
 
-suma. Kai per šiame punkte nurodytus tris mėnesius sumokėta darbo užmokesčio
+Apskaičiuojant iš Garantinio fondo skiriamas lėšas, taikomas minimaliosios
 
-suma yra mažesnė už tris minimaliąsias mėnesines algas, maksimaliu išmokos
+mėnesinės algos dydis, galiojantis teismo nutarties iškelti bankroto bylą arba
 
-darbo užmokesčio įsiskolinimui atlyginti dydžiu laikoma trijų minimaliųjų
+kreditorių susirinkimo nutarimo bankroto procedūras vykdyti ne teismo tvarka
 
-mėnesinių algų suma. Šios išmokos suma negali viršyti dydžio, kurį Garantinio
+priėmimo dieną.
 
-fondo tarybos teikimu nustato Vyriausybė;
+6
 
-2) piniginė
+straipsnis. Garantinio fondo lėšų skyrimas
 
-kompensacija už nepanaudotas kasmetines atostogas, bet ne didesnė kaip
+1. Garantinio fondo lėšos, kai darbdavys neturi
 
-Garantinio fondo tarybos teikimu nustatyta Vyriausybės;
+pakankamai nuosavų lėšų atsiskaityti su darbuotojais, kurių reikalavimai yra
 
-3) išeitinė išmoka,
+patvirtinti teismo nutartimi ar kreditorių susirinkimo nutarimu, skiriamos
 
-numatyta Darbo kodekso 140 straipsnyje ar Įmonių bankroto įstatymo 19
+pagal administratoriaus Garantinio fondo administratoriui pateiktą paraišką.
 
-straipsnyje. Šios išmokos suma negali viršyti dydžio, kurį Garantinio fondo
+2. Paraiškoje nurodoma darbdavio įsiskolinimų
 
-tarybos teikimu nustato Vyriausybė;
+darbuotojams suma, prašoma skirti išmokų iš Garantinio fondo suma, darbuotojų,
 
-4) Žalos atlyginimo
+kuriems prašoma skirti išmokas iš Garantinio fondo, sąrašai ir jiems prašomų
 
-dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo
+skirti išmokų iš Garantinio fondo pagal išmokų rūšis suma, prašomos skirti
 
-nustatytas žalos atlyginimas dėl nelaimingų atsitikimų darbe ar
+lėšos banko operacijoms apmokėti, taip pat nurodomos išlaidos, susijusios su
 
-susirgimų profesine liga, kai ši prievolė nurodyto įstatymo nustatyta tvarka
+paraiškos parengimu, ir kiti Garantinio fondo nuostatuose nurodyti būtini
 
-nepereina valstybei;
+duomenys ir pridedami dokumentai sprendimui dėl Garantinio fondo lėšų skyrimo
 
-5) apmokėjimas už
+priimti. Už paraiškoje nurodytų duomenų atitiktį personalo ir buhalterinės
 
-prastovą. Šios išmokos suma negali viršyti dydžio, kurį Garantinio fondo
+apskaitos dokumentams administratorius atsako teisės aktų nustatyta tvarka.
 
-tarybos teikimu nustato Vyriausybė.
+3.
 
-2. Skiriant
+Administratorius paraišką Garantinio fondo administratoriui pateikia per vieną
 
-išmokas bankrutuojančių ar bankrutavusių įmonių darbuotojams arba buvusiems
+mėnesį nuo teismo nutarties patvirtinti kreditorių reikalavimus įsiteisėjimo
 
-likviduotų dėl bankroto įmonių darbuotojams, Garantinio fondo lėšų dalis
+dienos ar kreditorių susirinkimo nutarimo patvirtinti kreditorių reikalavimus
 
-skiriama:
+priėmimo dienos.
 
-1) banko
+4. Garantinio
 
-operacijoms, susijusioms su įmonei perduotų Garantinio fondo lėšų išmokėjimu
+fondo administratorius ne vėliau kaip per vieną mėnesį nuo paraiškos gavimo
 
-darbuotojams ar pervedimu į jų asmenines sąskaitas banko įstaigose, apmokėti
+dienos išnagrinėja paraišką ir pateikia ją Garantinio fondo tarybai. Garantinio
 
-pagal atitinkamo banko įkainius;
+fondo taryba ne vėliau kaip per 10 darbo dienų nuo paraiškos iš Garantinio
 
-2) neturinčioms
+fondo administratoriaus gavimo dienos priima sprendimą dėl Garantinio fondo
 
-turto įmonių išlaidoms, susijusioms su paraiškų skirti išmokas parengimu (administratoriaus
+lėšų skyrimo.
 
-darbo dalinis apmokėjimas), apmokėti.
+5. Išmokos iš
 
-3. Šio straipsnio 1 dalies 1 ir 5 punktuose nurodytų
+Garantinio fondo neskiriamos:
 
-išmokų iš Garantinio fondo dydis yra skaičiuojamas pagal bankrutuojančios,
+1) darbuotojui,
 
-bankrutavusios ar likviduotos dėl bankroto įsigaliojus šiam įstatymui įmonės
+kuriam pačiam arba kartu su jo artimaisiais giminaičiais ar sutuoktiniu ne
 
-darbuotojų reikalavimus dėl įsiskolinimų, susijusių su darbo santykiais,
+mažiau kaip vienus metus iki teismo nutarties iškelti bankroto bylą ar
 
-apskaičiuotų remiantis įmonės personalo ir buhalterinės apskaitos dokumentais
+kreditorių susirinkimo nutarimo bankroto procedūras vykdyti ne teismo tvarka
 
-ir susidariusių iki teismo nutarties iškelti įmonei bankroto bylą priėmimo
+priėmimo dienos nuosavybės teise priklausė daugiau kaip 50 procentų įmonės
 
-dienos arba iki kreditorių susirinkimo nutarimo bankroto procedūras vykdyti ne
+akcijų (dalių, pajų);
 
-teismo tvarka priėmimo dienos ir už laikotarpį, ne ilgesnį kaip du mėnesiai nuo
+2) darbuotojui,
 
-minėtų teismo nutarties ar kreditorių susirinkimo nutarimo priėmimo dienos.
+kuriam išmokos, analogiškos šio įstatymo 4 straipsnio 1 dalyje nurodytoms
 
-Išmokos, numatytos šio straipsnio 1 dalies 2 ir 3 punktuose, skaičiuojamos
+išmokoms iš Garantinio fondo, buvo skirtos kitų valstybių narių institucijų, atliekančių
 
-nutraukiant darbo sutartį.
+garantijų institucijų funkcijas. Jeigu šiame punkte nurodytam darbuotojui buvo
 
-4. Šio straipsnio 2 dalies 1 ir 2 punktuose numatytos
+skirtos išmokos iš Garantinio fondo, Garantinio fondo taryba priima sprendimą
 
-lėšos skiriamos pagal įmonės administratoriaus (likvidacinės komisijos
+dėl darbuotojui skirtų išmokų iš Garantinio fondo grąžinimo. Šios išmokos iš
 
-pirmininko) ar savivaldybės, kurioje buvo įregistruota įmonė, likviduota dėl
+Garantinio fondo grąžinamos Vyriausybės nustatyta tvarka.
 
-bankroto įsigaliojus šiam įstatymui, tarybos įgaliotos įstaigos arba jos
+6. Garantinio
 
-pavedimu juridinio asmens, teikiančio įmonių bankroto administravimo paslaugas
+fondo tarybos sprendimai gali būti skundžiami Lietuvos Respublikos
 
-ir parengusio paraišką dėl lėšų skyrimo, prašymą, bet ne didesnė suma kaip
+administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-Garantinio fondo tarybos teikimu yra nustatyta Vyriausybės.
+7. Kai
 
-5. Patvirtinta
+Garantinio fondo taryba priima sprendimą dėl Garantinio fondo lėšų skyrimo,
 
-darbuotojų kreditorinių reikalavimų suma mažinama iš Garantinio fondo sumokėtos
+Garantinio fondo administratorius su administratoriumi sudaro Garantinio fondo
 
-išmokos suma. Garantinio fondo administratorius į šią sumą įgyja atgręžtinio
+lėšų pervedimo sutartį (toliau – sutartis). Sutartyje turi būti nurodyta
 
-reikalavimo teisę. Jo kreditoriniai reikalavimai tenkinami Įmonių bankroto
+skiriama Garantinio fondo lėšų suma, jų naudojimo tvarka, sąskaita Garantinio
 
-įstatymo nustatyta tvarka.
+fondo lėšoms pervesti, informacija apie šio įstatymo 4 straipsnio 2 dalies 1
 
-6. Išmokos,
+punkte nurodytą atvejį dėl išmokų iš Garantinio fondo nepervedimo, Garantinio
 
-nurodytos šio straipsnio 1 dalyje, bankrutuojančios ar bankrutavusios įmonės
+fondo administratoriaus ir administratoriaus įsipareigojimai ir atsakomybė.
 
-darbuotojui mokamos vieną kartą.
+8. Administratorius ne vėliau kaip per 30 dienų nuo Garantinio fondo
 
-7. Garantinio fondo
+lėšų pervedimo į sutartyje nurodytą sąskaitą dienos perveda darbuotojams jiems
 
-lėšos Garantinio fondo nuostatų nustatyta tvarka taip pat naudojamos Garantinio
+skirtas išmokas. Pervestos ir pagal paskirtį nepanaudotos Garantinio fondo
 
-fondo administravimo išlaidoms.
+lėšos ne vėliau kaip per 5 darbo dienas nuo šiame punkte nurodyto termino
 
-8. Įmonei
+pabaigos grąžinamos į valstybės iždo bendrąją sąskaitą.
 
-perduotos Garantinio fondo lėšos valstybės institucijų ar įgaliotų vykdyti
+9. Grąžinus į valstybės iždo bendrąją sąskaitą pervestas ir pagal
 
-įsiskolinimų išieškojimą įstaigų sprendimais negali būti nurašomos iš įmonės
+paskirtį nepanaudotas Garantinio fondo lėšas, taip pat šio įstatymo 4
 
-sąskaitos ne ginčo tvarka, areštuojamos ar kitaip panaudojamos tikslams,
+straipsnio 2 dalies 1 punkte nurodytu atveju, kai išmokos iš Garantinio fondo
 
-nenumatytiems šiame įstatyme.
+nepervedamos, išmokos iš Garantinio fondo darbuotojams išmokamos Vyriausybės
 
-9. Iš Garantinio
+nustatyta tvarka ne vėliau kaip per trejus metus nuo Garantinio fondo tarybos
 
-fondo lėšų yra skiriamos darbuotojams išmokėtinos sumos, apskaičiuotos
+sprendimo dėl Garantinio fondo lėšų skyrimo priėmimo dienos.
 
-atskaičius gyventojų pajamų mokestį ir valstybinio socialinio draudimo įmokas.
+10. Patvirtinta
 
-Skiriant išmokas yra taikomas minimaliosios mėnesinės algos dydis, galiojantis
+darbuotojų reikalavimų, susijusių su darbo santykiais, suma mažinama iš
 
-Garantinio fondo tarybos nutarimo priėmimo dieną.
+Garantinio fondo sumokėtos išmokos suma. Garantinio fondo administratorius turi
 
-10. Šiame
+atgręžtinio reikalavimo teisę išieškoti šią sumą iš darbdavio. Garantinio fondo
 
-įstatyme numatytos garantijos be kokių nors apribojimų yra taikomos
+administratoriaus reikalavimai tenkinami Įmonių bankroto įstatymo ir Fizinių
 
-darbuotojams, dirbusiems bankrutuojančioje ar bankrutavusioje įmonėje ne visą darbo
+asmenų bankroto įstatymo nustatyta tvarka.
 
-laiką, taip pat dirbusiems pagal terminuotą ar laikinąją darbo sutartį.
+11.
 
-11. Išmokos iš Garantinio fondo lėšų neskiriamos darbuotojams,
+Darbuotojai nepraranda teisės gauti išmokas iš Garantinio fondo darbdaviui į
 
-sudariusiems darbo sutartį su nemokia įmone nuo kreditoriaus (kreditorių)
+Garantinį fondą nesumokėjus šio įstatymo 3 straipsnio 1 dalies 1 punkte
 
-pranešimo įmonei apie ketinimą kreiptis į teismą dėl bankroto bylos iškėlimo
+nurodytų įmokų.
 
-dienos ar nuo įmonės viešo paskelbimo arba kitokio pranešimo kreditoriui
+TREČIASIS
 
-(kreditoriams), kad negali arba neketina vykdyti įsipareigojimų, dienos ar
+SKIRSNIS
 
-pareiškimo pateikimo teismui dienos iškelti įmonei bankroto bylą (atsižvelgiant
+GARANTINIO FONDO
 
-į tai, kuri iš šių datų yra ankstesnė) ar nuo siūlymo išsiuntimo kreditoriams
+LĖŠŲ ADMINISTRAVIMAS IR FINANSŲ KONTROLĖ
 
-dienos bankroto procedūras vykdyti ne teismo tvarka. Nutarimą šiais atvejais
+7
 
-priima Garantinio fondo taryba.
+straipsnis. Garantinio fondo administratorius
 
-12. Kai
+Garantinio fondo
 
-darbuotojui pačiam arba kartu ir jo sutuoktiniui (sugyventiniui) ar (ir)
+administratorius:
 
-artimiesiems giminaičiams priklausė nuosavybės teise daugiau kaip 50 procentų
+1) Vyriausybės
 
-įmonės akcijų (dalių, pajų), Garantinio fondo tarybos nutarimu jam gali būti
+ar jos įgaliotos institucijos nustatyta tvarka nagrinėja paraiškas ir teikia jas
 
-skiriamos tik kai kurios išmokų, numatytų šio įstatymo 5 straipsnio 1 dalyje, rūšys
+Garantinio fondo tarybai sprendimui dėl Garantinio fondo lėšų skyrimo priimti;
 
-arba išmokos iš fondo lėšų visai neskiriamos.
+2) Vyriausybės
 
-Straipsnio pakeitimai:
+ar jos įgaliotos institucijos nustatyta tvarka skelbia informaciją apie
+
+paraiškų nagrinėjimo eigą Garantinio fondo administratoriaus interneto
+
+svetainėje;
+
+3) Vyriausybės
+
+ar jos įgaliotos institucijos nustatyta tvarka sudaro sutartis su
+
+administratoriais;
+
+4) rengia ir
+
+teikia Garantinio fondo tarybai Garantinio fondo lėšų sąmatos projektą ir
+
+Garantinio fondo metinių ataskaitų rinkinį;
+
+5) rengia ir
+
+teikia Garantinio fondo tarybai ketvirčio ir metinę Garantinio fondo
+
+administratoriaus veiklos ataskaitas ir skelbia jas Garantinio fondo
+
+administratoriaus interneto svetainėje;
+
+6) tvirtina
+
+paraiškos ir sutarties pavyzdines formas, rekomendacijas dėl paraiškų pildymo
+
+ir teikimo ir skelbia jas Garantinio fondo administratoriaus interneto
+
+svetainėje;
+
+7) Garantinio fondo
+
+tarybos prašymu teikia informaciją dėl išmokų iš Garantinio fondo skyrimo,
+
+Garantinio fondo lėšų sąmatos vykdymo ir kitų Garantinio fondo administravimo
+
+klausimų;
+
+8)
+
+bendradarbiauja su valstybių narių institucijomis, atliekančiomis garantijų
+
+institucijų funkcijas ir teisės aktų nustatyta tvarka teikia joms ir Europos
+
+Komisijai informaciją;
+
+9) tvarko
+
+informaciją apie Garantinio fondo lėšų naudojimą;
+
+10) techniškai
+
+aptarnauja Garantinio fondo tarybą;
+
+11) atlieka kitas Garantinio fondo nuostatuose
+
+nustatytas funkcijas.
+
+8
+
+straipsnis. Garantinio fondo taryba
+
+1. Garantinio
+
+fondo taryba prižiūri Garantinio fondo administratoriaus veiklą.
+
+2. Garantinio
+
+fondo tarybos sudėtį tvirtina Vyriausybė arba jos įgaliota institucija.
+
+Garantinio fondo tarybos veiklai vadovauja pirmininkas arba, kai jo nėra ar jis
+
+negali dalyvauti posėdyje, – jo pavaduotojas, kuriuos skiria Vyriausybė ar jos
+
+įgaliota institucija iš valstybės valdymo institucijų atstovų.
+
+3. Garantinio
+
+fondo taryba sudaroma iš 12 narių: keturi atstovauja darbuotojų interesus
+
+ginančioms organizacijoms (profesinėms sąjungoms ir jų susivienijimams), keturi
+
+– darbdavių organizacijoms (susivienijimams, asociacijoms ir kt.) ir keturi –
+
+valstybės valdymo institucijoms.
+
+4. Garantinio
+
+fondo taryba veikia pagal jos patvirtintą darbo reglamentą.
+
+5.
+
+Garantinio fondo taryba:
+
+1)
+
+priima sprendimus dėl Garantinio fondo lėšų skyrimo;
+
+2) pritaria Garantinio fondo lėšų sąmatos projektui ir
+
+Garantinio fondo metinių ataskaitų rinkiniui ir teikia juos Vyriausybei;
+
+3) svarsto
+
+ketvirčio ir metinę Garantinio fondo administratoriaus veiklos ataskaitas ir
+
+teikia pasiūlymus dėl Garantinio fondo administravimo;
+
+4) tvirtina metinę Garantinio fondo tarybos veiklos ataskaitą;
+
+5) teikia
+
+pasiūlymus dėl Garantinio fondo sudarymo ir išmokų iš Garantinio fondo
+
+maksimalių dydžių;
+
+6) atlieka
+
+kitas Garantinio fondo nuostatuose nustatytas funkcijas.
+
+9
+
+straipsnis. Garantinio fondo atskaitomybė ir finansų kontrolė
+
+1. Garantinio
+
+fondo lėšų sąmatą ir Garantinio fondo metinių ataskaitų rinkinį tvirtina
+
+Lietuvos Respublikos Seimas (toliau – Seimas) Vyriausybės teikimu.
+
+2. Vyriausybė
+
+Garantinio fondo lėšų sąmatos projektą teikia Seimui tvirtinti kartu su
+
+atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
+
+patvirtinimo įstatymo projektu Lietuvos Respublikos Seimo statute nustatyta
+
+tvarka ir terminais. Jeigu ateinančių metų Garantinio fondo lėšų sąmata
+
+nepatvirtinama iki einamųjų metų pabaigos, Garantinio fondo lėšos, skiriamos
+
+vadovaujantis šio įstatymo 4 straipsniu, metų pradžioje iki Garantinio fondo
+
+lėšų sąmatos patvirtinimo kiekvieną mėnesį negali viršyti 1/12 praėjusiais
+
+metais Garantinio fondo tarybos skirtų Garantinio fondo lėšų.
+
+3. Garantinio
+
+fondo metinių ataskaitų rinkinio sudarymą, tvirtinimą ir skelbimą reglamentuoja
+
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas (toliau –
+
+Viešojo sektoriaus atskaitomybės įstatymas). Garantinio fondo metinių
+
+finansinių ataskaitų rinkinys teikiamas Finansų ministerijai Viešojo sektoriaus
+
+atskaitomybės įstatymo nustatyta tvarka ir įtraukiamas į valstybės
+
+konsoliduotąsias finansines ataskaitas.
+
+4. Valstybės
+
+kontrolė kiekvienais metais atlieka Garantinio fondo metinių ataskaitų rinkinio
+
+auditą ir parengia audito išvadą.
+
+Skelbiu šį
+
+Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                           VALDAS
+
+ADAMKUS
+
+Lietuvos
+
+Respublikos
+
+Garantinio
+
+fondo įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS
+
+AKTAI
+
+1. 2008 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2008/94/EB dėl darbuotojų apsaugos jų
+
+darbdaviui tapus nemokiam (OL 2008 L 283, p. 36).
+
+Pakeitimai:
+
+1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
 
 Nr. IX-191, 2001 02 27, Žin., 2001, Nr.
 
 22-716 (2001 03 14)
 
-Nr. IX-1119,
+GARANTINIO FONDO ĮSTATYMO 3, 4,
+
+5, 9, 10, 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+2.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. IX-631,
+
+2001-12-06, Žin., 2001, Nr. 104-3703 (2001-12-12)
+
+GARANTINIO
+
+FONDO ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1119,
 
 2002-10-08, Žin., 2002, Nr. 102-4544 (2002-10-25)
 
-Nr. IX-1673,
+GARANTINIO
+
+FONDO ĮSTATYMO 3, 5, 6, 12, 13 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-1673,
 
 2003-07-01, Žin., 2003, Nr. 73-3350 (2003-07-23)
 
-Nr. X-519, 2006-03-23,
+GARANTINIO
 
-Žin., 2006, Nr. 41-1460 (2006-04-13)
+FONDO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+5.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2139,
+
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+
+ĮMONIŲ
+
+IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR
+
+PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ
+
+ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO,
+
+MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS
+
+BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis
+
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2469,
+
+2004-09-29, Žin., 2004, Nr. 152-5533 (2004-10-16)
+
+GARANTINIO
+
+FONDO ĮSTATYMO 1, 3, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO
+
+PRIEDU ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2004 m. lapkričio 1 d.
+
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+IX-2538,
+
+2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26)
+
+GARANTINIO
+
+FONDO ĮSTATYMO, ĮMONIŲ BANKROTO ĮSTATYMO, LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ
+
+ĮSTATYMO, ŽEMĖS ŪKIO BENDROVIŲ ĮSTATYMO, ŪKININKO ŪKIO ĮSTATYMO PAKEITIMO
+
+ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-519,
+
+2006-03-23, Žin., 2006, Nr. 41-1460 (2006-04-13)
+
+GARANTINIO
+
+FONDO ĮSTATYMO 1, 3, 4, 5, 6, 10, 13 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI
+
+ĮSTATYMO PRIEDO PAKEITIMO ĮSTATYMAS
+
+Šio
+
+įstatymo 4 straipsnio 1 ir 2 dalys įsigalioja nuo 2006 m. gegužės 1 d.
+
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. X-1222,
+
+2007-06-26, Žin., 2007, Nr. 77-3054 (2007-07-12)
+
+GARANTINIO
+
+FONDO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja tų metų, kurių
+
+ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
+
+Pakeitimas:
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. X-1831,
+
+2008-11-14, Žin., 2008, Nr. 137-5380 (2008-11-29)
+
+GARANTINIO FONDO ĮSTATYMO 7
+
+STRAIPSNIO PAKEITIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja įstatymo redakcija
+
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1636,
+
+2008-06-26, Žin., 2008, Nr. 79-3100 (2008-07-12)
+
+GARANTINIO
+
+FONDO ĮSTATYMO 1, 2, 4, 5, 6, 8, 9, 10, 12, 13 STRAIPSNIŲ PAKEITIMO IR
+
+PAPILDYMO ĮSTATYMAS
+
+Šio įstatymo 9 straipsnyje nurodytos išeitinės išmokos iš
+
+Garantinio fondo pradedamos mokėti nuo 2008 m. liepos 1 d.
+
+Iš Garantinio fondo išmokamų išeitinių
+
+išmokų sumoms taikomi tokie Lietuvos Respublikos Vyriausybės patvirtinti
+
+išeitinių išmokų dydžio (iki 2 minimaliųjų mėnesinių algų) apribojimai, kokie
+
+buvo taikomi tuo laikotarpiu, per kurį šiame įstatyme nurodytiems darbuotojams
+
+buvo mokamas darbo užmokesčio įsiskolinimas iš Garantinio fondo.
+
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1731,
+
+2011-11-22, Žin., 2011, Nr. 146-6853 (2011-12-01)
+
+GARANTINIO
+
+FONDO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2012 m. sausio
+
+1 d.
+
+12.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-2079,
+
+2012-06-19, Žin., 2012, Nr. 78-4017 (2012-07-04)
+
+GARANTINIO
+
+FONDO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Nauja įstatymo redakcija
+
+Šis įstatymas,
+
+išskyrus šio įstatymo 3 straipsnį, įsigalioja 2013 m. sausio 1 d.
+
+Darbdavių, kurių bankroto bylos iškeltos
+
+arba bankroto procesas ne teismo tvarka pradėtas iki šio įstatymo įsigaliojimo,
+
+paraiškos nagrinėjamos ir lėšos iš Garantinio fondo skiriamos pagal teisės
+
+normas, galiojusias iki šio įstatymo įsigaliojimo.
+
+Paraiškas dėl išeitinių išmokų skyrimo
+
+buvusių darbdavių, nurodytų šio įstatymo 1 straipsnyje išdėstyto Lietuvos
+
+Respublikos Garantinio fondo įstatymo 2 straipsnio 4 dalies 1 ir
+
+2 punktuose, kurių bankroto bylos iškeltos arba bankroto procesas ne
+
+teismo tvarka pradėtas iki Lietuvos Respublikos Garantinio
+
+fondo įstatymo įsigaliojimo dienos ir buvo tęsiamas įstatymui įsigaliojus,
+
+darbuotojams savivaldybės, kurios teritorijoje buvo įregistruotas šis
+
+darbdavys, likviduotas dėl bankroto įsigaliojus Lietuvos Respublikos Garantinio
+
+fondo įstatymui, tarybos įgaliota įstaiga arba jos pavedimu administratorius
+
+Garantinio fondo administratoriui teikia iki 2013 m. liepos 1 d. Šios paraiškos
+
+nagrinėjamos ir Garantinio fondo lėšos skiriamos pagal teisės normas,
+
+galiojusias iki šio įstatymo įsigaliojimo.
+
+Fiziniai
+
+asmenys, nurodyti šio įstatymo 1 straipsnyje išdėstyto Lietuvos
+
+Respublikos Garantinio fondo įstatymo 2 straipsnio 4 dalies 1 punkte, įmokas į
+
+Garantinį fondą moka nuo 2013 m. kovo 1 d.
+
+***
+
+Pabaiga ***
+
+Redagavo
+
+Aušrinė Trapinskienė (2012-10-30)
+
+ausrine.trapinskiene@lrs.lt
 
 6 straipsnis.
 
