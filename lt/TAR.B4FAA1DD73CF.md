@@ -4,7 +4,7 @@ identifier: "TAR.B4FAA1DD73CF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2005-06-07"
-last_updated: "2012-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2013-12-31
 
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
 
@@ -152,11 +152,13 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 
 6 straipsnis. Mokesčio tarifai
 
-1. Mokesčio tarifas – nuo 0,3 procento iki 1 procento nekilnojamojo turto mokestinės vertės, jeigu šiame straipsnyje nenustatyta kitaip.
+1. Mokesčio tarifas – nuo 0,3 procento iki 3 procentų nekilnojamojo turto mokestinės vertės, jeigu šiame straipsnyje nenustatyta kitaip.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+
+Nr. XI-2178, 2012-06-29, Žin., 2012, Nr. 82-4265 (2012-07-13), i. k. 1121010ISTA0XI-2178
 
 2. Konkretų mokesčio tarifą, kuris galios atitinkamos savivaldybės teritorijoje nuo kito mokestinio laikotarpio pradžios, savivaldybės taryba nustato iki einamojo mokestinio laikotarpio birželio 1 dienos. Jeigu, vadovaujantis šio įstatymo 9 straipsnio 3 dalimi, nuo kito mokestinio laikotarpio mokestis už šio įstatymo 9 straipsnio 2 dalies 1 ir 2 punktuose nurodytą nekilnojamąjį turtą bus skaičiuojamas taikant naujai atlikto nekilnojamojo turto masinio vertinimo metu nustatytą vertę, kitą mokestinį laikotarpį galiosiantį mokesčio tarifą savivaldybės taryba gali nustatyti iki einamojo mokestinio laikotarpio gruodžio 1 dienos. Savivaldybės taryba gali nustatyti ir kelis konkrečius mokesčio tarifus, kurie diferencijuojami tik atsižvelgiant į vieną arba kelis iš šių kriterijų: nekilnojamojo turto paskirtį, naudojimą, teisinį statusą, jo technines savybes, priežiūros būklę, mokesčio mokėtojų kategorijas (dydį ar teisinę formą, ar socialinę padėtį) ar nekilnojamojo turto buvimo savivaldybės teritorijoje vietą (pagal strateginio planavimo ir teritorijų planavimo dokumentuose nustatytus prioritetus).
 
@@ -527,4 +529,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
 
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 2, 4, 6, 7, 11, 12, 14 straipsnių pakeitimo ir papildymo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2178, 2012-06-29, Žin., 2012, Nr. 82-4265 (2012-07-13), i. k. 1121010ISTA0XI-2178
+
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6 straipsnio pakeitimo įstatymas
 
