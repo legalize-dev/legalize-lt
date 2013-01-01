@@ -4,7 +4,7 @@ identifier: "TAR.11A8B08A7405"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-01-18"
-last_updated: "2009-04-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2009-04-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2015-08-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
 
@@ -166,7 +166,11 @@ SUĖMIMO VYKDYMO REŽIMAS
 
 8) nuteistieji laisvės atėmimu iki gyvos galvos – atskirai nuo kitų suimtųjų ir nuteistųjų;
 
-9) asmenys, kuriems taikomos Lietuvos Respublikos baudžiamojo proceso ir operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo nuostatos, – atskirai nuo kitų suimtųjų ir nuteistųjų;
+9) asmenys, kuriems taikomos Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo nuostatos, – atskirai nuo kitų suimtųjų ir nuteistųjų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2247, 2012-10-02, Žin., 2012, Nr. 122-6106 (2012-10-20), i. k. 1121010ISTA0XI-2247
 
 10) asmenys, nurodyti Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje, – atskirai nuo kitų suimtųjų ir nuteistųjų;
 
@@ -723,4 +727,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1660, 2008-07-01, Žin., 2008, Nr. 81-3172 (2008-07-17), i. k. 1081010ISTA00X-1660
 
 Lietuvos Respublikos kardomojo kalinimo įstatymo pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2247, 2012-10-02, Žin., 2012, Nr. 122-6106 (2012-10-20), i. k. 1121010ISTA0XI-2247
+
+Lietuvos Respublikos suėmimo vykdymo įstatymo 10 straipsnio pakeitimo įstatymas
 
