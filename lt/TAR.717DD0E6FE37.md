@@ -4,7 +4,7 @@ identifier: "TAR.717DD0E6FE37"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-02-13"
-last_updated: "2008-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.717DD0E6FE37"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo proceso ir  kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas
 
-Suvestinė redakcija nuo 2008-07-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2017-08-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 20-520, i. k. 0961010ISTA00I-1202
 
@@ -25,11 +25,15 @@ Nauja redakcija nuo 2008-07-01:
 
 Nr. X-1542, 2008-05-15, Žin. 2008, Nr. 63-2380 (2008-06-03), i. k. 1081010ISTA00X-1542
 
-LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO IR OPERATYVINĖS VEIKLOS DALYVIŲ,  TEISINGUMO IR TEISĖSAUGOS INSTITUCIJŲ PAREIGŪNŲ  APSAUGOS NUO NUSIKALSTAMO POVEIKIO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS  BAUDŽIAMOJO PROCESO IR KRIMINALINĖS ŽVALGYBOS DALYVIŲ,  TEISINGUMO IR TEISĖSAUGOS INSTITUCIJŲ PAREIGŪNŲ APSAUGOS  NUO NUSIKALSTAMO POVEIKIO  ĮSTATYMAS
 
 1996 m. vasario 13 d. Nr. I-1202
 
 Vilnius
+
+Pakeistas teisės akto pavadinimas:
+
+Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010ISTA0XI-2242
 
 PIRMASIS SKIRSNIS
 
@@ -37,11 +41,15 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Lietuvos Respublikos baudžiamojo proceso ir operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas apibrėžia pagrindines apsaugos nuo nusikalstamo poveikio priemones, nustato jų skyrimo pagrindus ir tvarką.
+1. Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas apibrėžia pagrindines apsaugos nuo nusikalstamo poveikio priemones, nustato jų skyrimo pagrindus ir tvarką.
 
-2. Šis įstatymas neapima apsaugos nuo nusikalstamo poveikio priemonių ir operatyvinių veiksmų, numatytų Baudžiamajame ir Baudžiamojo proceso kodeksuose, Teismų ir Prokuratūros įstatymuose, taip pat Operatyvinės veiklos įstatyme.
+2. Šis įstatymas neapima apsaugos nuo nusikalstamo poveikio priemonių ir kriminalinės žvalgybos veiksmų, numatytų Baudžiamajame ir Baudžiamojo proceso kodeksuose, Teismų ir Prokuratūros įstatymuose, taip pat Kriminalinės žvalgybos įstatyme.
 
 3. Jeigu Lietuvos Respublikos tarptautinė sutartis nustato kitokias taisykles, negu išdėstytosios šiame įstatyme, taikomos tarptautinės sutarties taisyklės.
+
+Straipsnio pakeitimai:
+
+Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010ISTA0XI-2242
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -55,7 +63,11 @@ BENDROSIOS NUOSTATOS
 
 5. Specialiosios priemonės – guminės lazdos, antrankiai, surišimo priemonės, dujos, tarnybiniai šunys, transporto priverstinio sustabdymo ir kitos teisės aktų nustatytos aktyvios ir pasyvios gynybos priemonės.
 
-6. Policijos operatyvinės veiklos subjektai – Lietuvos kriminalinės policijos biuro ir teritorinių policijos įstaigų kriminalinės policijos operatyviniai padaliniai.
+6. Policijos kriminalinės žvalgybos subjektai – Policijos departamento prie Vidaus reikalų ministerijos, Lietuvos kriminalinės policijos biuro ir teritorinių policijos įstaigų kriminalinę žvalgybą vykdantys padaliniai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010ISTA0XI-2242
 
 3 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių tikslas
 
@@ -69,17 +81,25 @@ Apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos:
 
 2) teisingumo ir teisėsaugos institucijų pareigūnams: teisėjams, prokurorams, ikiteisminio tyrimo pareigūnams, organizuojantiems ir įgyvendinantiems apsaugos nuo nusikalstamo poveikio priemones pareigūnams;
 
-3) operatyvinės veiklos slaptiesiems dalyviams;
+3) kriminalinės žvalgybos slaptiesiems dalyviams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010ISTA0XI-2242
 
 4) šio straipsnio 1–3 punktuose išvardytų asmenų tėvams (įtėviams), vaikams (įvaikiams), broliams, seserims, seneliams, vaikaičiams, sutuoktiniams ir sugyventiniams.
 
 5 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių taikymo pagrindai
 
-1. Apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos, jei atliekant operatyvinius veiksmus ar ikiteisminį tyrimą arba nagrinėjant baudžiamąsias bylas dėl labai sunkių ar sunkių nusikaltimų, taip pat dėl apysunkių nusikaltimų, numatytų Baudžiamojo kodekso 145 straipsnio 2 dalyje, 146 straipsnio 2 ir 3 dalyse, 151 straipsnio 2 dalyje, 162 straipsnyje, 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 2 dalyje, 198 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 2 dalyje, 227 straipsnio 2 dalyje, 228 straipsnio 2 dalyje, 240 straipsnyje, 253 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 300 straipsnio 2 dalyje, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, arba pasibaigus operatyvinei veiklai ar baudžiamajam procesui buvo gauta patikrintų duomenų iš viešų ar konfidencialių šaltinių, kad:
+1. Apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos, jei atliekant kriminalinę žvalgybą ar ikiteisminį tyrimą arba nagrinėjant baudžiamąsias bylas dėl labai sunkių ar sunkių nusikaltimų, taip pat dėl apysunkių nusikaltimų, numatytų Baudžiamojo kodekso 145 straipsnio 2 dalyje, 146 straipsnio 2 ir 3 dalyse, 151 straipsnio 2 dalyje, 162 straipsnyje, 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 2 dalyje, 198 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 2 dalyje, 227 straipsnio 2 dalyje, 228 straipsnio 2 dalyje, 240 straipsnyje, 253 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 300 straipsnio 2 dalyje, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, arba pasibaigus kriminalinei žvalgybai ar baudžiamajam procesui buvo gauta patikrintų duomenų iš viešų ar konfidencialių šaltinių, kad:
 
 1) asmenų gyvybei ar sveikatai gresia realus pavojus;
 
 2) gali būti sunaikintas ar sugadintas asmenų turtas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010ISTA0XI-2242
 
 2. Šio įstatymo 4 straipsnio 1 punkte nurodytiems asmenims, išskyrus ekspertus, specialistus ir gynėjus (atstovus), apsaugos nuo nusikalstamo poveikio priemonės taikomos, jeigu šie asmenys aktyviai bendradarbiauja su teisingumo ir teisėsaugos institucijų pareigūnais, padėjo atskleisti nusikalstamą veiką ar suteikė kitos vertingos informacijos teisingumo ir teisėsaugos institucijų pareigūnams.
 
@@ -89,7 +109,11 @@ Apsaugos nuo nusikalstamo poveikio priemonės netaikomos, o jau pradėtos taikyt
 
 1) asmuo nesutinka su pasiūlymu taikyti jam apsaugos nuo nusikalstamo poveikio priemones;
 
-2) šio įstatymo 4 straipsnio 1 punkte nurodyti asmenys, išskyrus ekspertus, specialistus ir gynėjus (atstovus), po apsaugos nuo nusikalstamo poveikio priemonių paskyrimo operatyvinio ar ikiteisminio tyrimo metu, taip pat nagrinėjant baudžiamąją bylą teisme atsisakė, vengė duoti ar davė melagingus parodymus ar suteikė kitą melagingą informaciją;
+2) šio įstatymo 4 straipsnio 1 punkte nurodyti asmenys, išskyrus ekspertus, specialistus ir gynėjus (atstovus), po apsaugos nuo nusikalstamo poveikio priemonių paskyrimo kriminalinės žvalgybos ar ikiteisminio tyrimo metu, taip pat nagrinėjant baudžiamąją bylą teisme atsisakė, vengė duoti ar davė melagingus parodymus ar suteikė kitą melagingą informaciją;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010ISTA0XI-2242
 
 3) saugomas asmuo atsisako jam paskirtų apsaugos priemonių;
 
@@ -173,7 +197,11 @@ APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONIŲ SKYRIMAS IR TAIKYMAS
 
 2. Šio įstatymo 4 straipsnio 2 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos jų vadovų motyvuotu teikimu. Bendrą sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos Respublikos generalinis prokuroras ir Lietuvos policijos generalinis komisaras.
 
-3. Šio įstatymo 4 straipsnio 3 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos policijos operatyvinės veiklos subjekto ar operatyvinės veiklos subjekto pagrindinės institucijos, išskyrus Policijos departamentą, vadovo motyvuotu teikimu. Sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos policijos generalinis komisaras arba Kalėjimų departamento direktorius.
+3. Šio įstatymo 4 straipsnio 3 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos policijos kriminalinės žvalgybos subjekto ar kriminalinės žvalgybos pagrindinės institucijos, išskyrus Policijos departamentą, vadovo motyvuotu teikimu. Sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos policijos generalinis komisaras arba Kalėjimų departamento direktorius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010ISTA0XI-2242
 
 4. Šio įstatymo 4 straipsnio 4 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos atitinkamai šio straipsnio 1–3 dalyse nurodytų pareigūnų motyvuotu teikimu. Sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima šio straipsnio 1–3 dalyse nurodyti pareigūnai.
 
@@ -330,4 +358,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1542, 2008-05-15, Žin., 2008, Nr. 63-2380 (2008-06-03), i. k. 1081010ISTA00X-1542
 
 Lietuvos Respublikos baudžiamojo proceso bei operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010ISTA0XI-2242
+
+Lietuvos Respublikos baudžiamojo proceso ir operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo pavadinimo ir 1, 2, 4, 5, 6, 15 straipsnių pakeitimo įstatymas
 
