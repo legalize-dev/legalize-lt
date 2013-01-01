@@ -4,7 +4,7 @@ identifier: "TAR.6CADC13B548B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-04-13"
-last_updated: "2003-05-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6CADC13B548B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 35-974, i. k. 1001010ISTAIII-1621
 
@@ -84,7 +84,11 @@ KOVINIAI GINKLAI IR SPECIALIOSIOS PRIEMONĖS
 
 2. Kokiomis kovinių ginklų rūšimis apginkluoti karinių vienetų karius, nustato kariuomenės vadas.
 
-3. Kokiomis kovinių ginklų rūšimis apginkluoti krašto apsaugos sistemos operatyvinių tarnybų karius, pareigūnus ir civilius tarnautojus, nustato krašto apsaugos ministras.
+3. Kokiomis kovinių ginklų rūšimis apginkluoti krašto apsaugos sistemos karius, pareigūnus ir civilius tarnautojus, nustato krašto apsaugos ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2293, 2012-10-17, Žin., 2012, Nr. 129-6467 (2012-11-08), i. k. 1121010ISTA0XI-2293
 
 4 straipsnis. Koviniai šaunamieji ginklai ir šaudmenys
 
@@ -124,11 +128,11 @@ KARIŲ IR CIVILIŲ KRAŠTO APSAUGOS SISTEMOS PAREIGŪNŲ BEI TARNAUTOJŲ TEISĖ 
 
 3. Profesinės karo tarnybos kariams teisė naudoti kovinius ginklus suteikiama pagal einamas (atliekamas) pareigas ir neviršijant vadų (viršininkų) įsakymų nustatytų ribų.
 
-8 straipsnis. Operatyvinių tarnybų civilių pareigūnų ir tarnautojų teisė naudoti kovinius ginklus
+8 straipsnis. Neteko galios nuo 2013-01-01
 
-1. Operatyvinių tarnybų civiliams pareigūnams, atsižvelgiant į einamas (atliekamas) pareigas, suteikiama teisė naudoti kovinius ginklus išlaikius kovinių ginklų naudojimo krašto apsaugos sistemoje taisyklių egzaminus, jeigu šie pareigūnai atitinka Sveikatos apsaugos ministerijos nustatytus reikalavimus.
+Straipsnio naikinimas:
 
-2. Operatyvinių tarnybų civiliams tarnautojams, kurie išlaiko kovinių ginklų naudojimo krašto apsaugos sistemoje taisyklių egzaminus ir atitinka Sveikatos apsaugos ministerijos nustatytus sveikatos reikalavimus, bet nėra operatyviniai darbuotojai, teisė naudoti kovinius ginklus suteikiama tik tais atvejais, kai jiems pavedama vykdyti operatyvinės veiklos subjekto uždavinius.
+Nr. XI-2293, 2012-10-17, Žin. 2012, Nr. 129-6467 (2012-11-08), i. k. 1121010ISTA0XI-2293
 
 9 straipsnis. Kitų krašto apsaugos sistemos civilių pareigūnų ir tarnautojų teisė naudoti kovinius ginklus
 
@@ -138,7 +142,11 @@ KARIŲ IR CIVILIŲ KRAŠTO APSAUGOS SISTEMOS PAREIGŪNŲ BEI TARNAUTOJŲ TEISĖ 
 
 10 straipsnis. Teisė naudoti specialiąsias priemones
 
-Teisė naudoti specialiąsias priemones suteikiama tik tiems kariams ir krašto apsaugos sistemos operatyvinių tarnybų civiliams pareigūnams bei tarnautojams, kurie yra išlaikę specialiųjų priemonių naudojimo krašto apsaugos sistemoje taisyklių egzaminus.
+Teisė naudoti specialiąsias priemones suteikiama tik tiems kariams ir krašto apsaugos sistemos pareigūnams bei tarnautojams, kurie yra išlaikę specialiųjų priemonių naudojimo krašto apsaugos sistemoje taisyklių egzaminus.
+
+Straipsnio pakeitimai:
+
+Nr. XI-2293, 2012-10-17, Žin., 2012, Nr. 129-6467 (2012-11-08), i. k. 1121010ISTA0XI-2293
 
 11 straipsnis. Kovinių ginklų ir specialiųjų priemonių naudojimo krašto apsaugos sistemoje taisyklių egzaminas
 
@@ -232,7 +240,7 @@ Nr. IX-1424, 2003-04-03, Žin., 2003, Nr. 38-1669 (2003-04-24), i. k. 1031010IST
 
 16 straipsnis. Karių naudojamos specialiosios priemonės, jų panaudojimo atvejai
 
-1. Kariai, išskyrus karo policininkus ir krašto apsaugos sistemos operatyvinių tarnybų karius, naudoja šias specialiąsias priemones:
+1. Kariai, išskyrus karo policininkus, naudoja šias specialiąsias priemones:
 
 1) kovinių imtynių veiksmus;
 
@@ -241,6 +249,10 @@ Nr. IX-1424, 2003-04-03, Žin., 2003, Nr. 38-1669 (2003-04-24), i. k. 1031010IST
 3) antrankius ir rišimo priemones;
 
 4) tarnybinius šunis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2293, 2012-10-17, Žin., 2012, Nr. 129-6467 (2012-11-08), i. k. 1121010ISTA0XI-2293
 
 2. Guminės lazdos arba kovinių imtynių veiksmai gali būti naudojami:
 
@@ -342,11 +354,11 @@ Nr. IX-1424, 2003-04-03, Žin., 2003, Nr. 38-1669 (2003-04-24), i. k. 1031010IST
 
 2) kai karinio transporto priemonės vairuotojas nepaklūsta karo policininko ar specialaus kelio ženklo reikalavimui sustoti.
 
-18 straipsnis. Operatyvinių tarnybų karių, civilių pareigūnų ir tarnautojų naudojamos specialiosios priemonės, jų panaudojimo atvejai
+18 straipsnis. Neteko galios nuo 2013-01-01
 
-1. Operatyvinių tarnybų kariai ir civiliai pareigūnai gali naudoti visas specialiąsias priemones, kurios numatytos šio statuto 6 straipsnyje, tokiais pat atvejais kaip ir karo policininkai.
+Straipsnio naikinimas:
 
-2. Operatyvinių tarnybų civiliai tarnautojai gali naudoti specialiąsias priemones tokiais pat atvejais kaip ir operatyvinių tarnybų kariai bei civiliai pareigūnai, bet tik tada, kai jiems pavedama atlikti pareigas įgyvendinant operatyvinės veiklos subjekto uždavinius.
+Nr. XI-2293, 2012-10-17, Žin. 2012, Nr. 129-6467 (2012-11-08), i. k. 1121010ISTA0XI-2293
 
 19 straipsnis. Specialiųjų priemonių naudojimo tvarka
 
@@ -667,4 +679,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1424, 2003-04-03, Žin., 2003, Nr. 38-1669 (2003-04-24), i. k. 1031010ISTA0IX-1424
 
 Lietuvos Respublikos kovinių ginklų naudojimo krašto apsaugos sistemoje statuto 14, 17 ir 20 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2293, 2012-10-17, Žin., 2012, Nr. 129-6467 (2012-11-08), i. k. 1121010ISTA0XI-2293
+
+Lietuvos Respublikos kovinių ginklų naudojimo krašto apsaugos sistemoje statuto 3, 10, 16 straipsnių pakeitimo ir 8, 18 straipsnių pripažinimo netekusiais galios įstatymas
 
