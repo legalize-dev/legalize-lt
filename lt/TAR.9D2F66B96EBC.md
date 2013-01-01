@@ -4,7 +4,7 @@ identifier: "TAR.9D2F66B96EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2012-12-21"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2012-12-21 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2013-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
 
@@ -1314,7 +1314,11 @@ CIVILINĖS AVIACIJOS SAUGUMAS
 
 5) per paskutinius vienus metus buvo skirtos administracinės nuobaudos už aviacijos saugumo reikalavimų pažeidimus;
 
-6) yra įrašytas į operatyvinę įskaitą arba jam Organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai;
+6) jam Organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2238, 2012-10-02, Žin., 2012, Nr. 122-6097 (2012-10-20), i. k. 1121010ISTA0XI-2238
 
 7) nesutinka būti tikrinamas ir (arba) atsisako pildyti ar pateikti reikiamus dokumentus, ir (arba) nesutinka, kad būtų renkama tikrinimui būtina informacija.
 
@@ -1639,6 +1643,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-50, 2012-12-13, Žin., 2012, Nr. 151-7721 (2012-12-21), i. k. 1121010ISTA00XII-50
 
 Lietuvos Respublikos aviacijos įstatymo 13, 14-1 straipsnių ir priedo pakeitimo ir papildymo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2238, 2012-10-02, Žin., 2012, Nr. 122-6097 (2012-10-20), i. k. 1121010ISTA0XI-2238
+
+Lietuvos Respublikos aviacijos įstatymo 66 straipsnio pakeitimo įstatymas
 
 141 straipsnis. Oro navigacijos paslaugos
 
