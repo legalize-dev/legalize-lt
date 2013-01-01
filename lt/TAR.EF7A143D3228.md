@@ -4,7 +4,7 @@ identifier: "TAR.EF7A143D3228"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-03-12"
-last_updated: "1995-01-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EF7A143D3228"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,149 +16,117 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos apylinkių teismų įsteigimo ir jų veiklos teritorijų nustatymo įstatymas
 
-Suvestinė redakcija nuo 1995-01-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 1992, Nr. 10-240, i. k. 0921010ISTA00I-2375
 
+Nauja redakcija nuo 2013-01-01:
+
+Nr. XI-2209, 2012-09-11, Žin. 2012, Nr. 108-5461 (2012-09-19), i. k. 1121010ISTA0XI-2209
+
 LIETUVOS RESPUBLIKOS APYLINKIŲ TEISMŲ ĮSTEIGIMO ĮSTATYMAS
 
-Lietuvos Respublikos Aukščiausioji Taryba nutaria:
+1 straipsnis. Apylinkių teismų įsteigimas
 
-1. Įsteigti vietoj veikiančių miestų ir rajonų teismų šiuos apylinkių teismus ir nustatyti tokį teisėjų etatų skaičių juose:
+Lietuvos Respublikoje vietoj veikiančių miestų ir rajonų teismų įsteigiami šie apylinkių teismai:
 
-Vilniaus miesto 1 apylinkės teismą;
+1) Kauno apylinkės teismas;
 
-Vilniaus miesto 2 apylinkės teismą;
+2) Šiaulių apylinkės teismas;
 
-Vilniaus miesto 3 apylinkės teismą;
+3) Druskininkų miesto apylinkės teismas;
 
-Vilniaus miesto 4 apylinkės teismą;
+4) Klaipėdos miesto apylinkės teismas;
 
-Kauno miesto apylinkės teismą;
+5) Palangos miesto apylinkės teismas;
 
-Klaipėdos miesto apylinkės teismą;
+6) Panevėžio miesto apylinkės teismas;
 
-Šiaulių miesto apylinkės teismą;
+7) Vilniaus miesto apylinkės teismas;
 
-Panevėžio miesto apylinkės teismą;
+8) Visagino miesto apylinkės teismas;
 
-Druskininkų miesto apylinkės teismą;
+9) Akmenės rajono apylinkės teismas;
 
-Palangos miesto apylinkės teismą;
+10) Alytaus rajono apylinkės teismas;
 
-Alytaus rajono apylinkės teismą;
+11) Anykščių rajono apylinkės teismas;
 
-Akmenės rajono apylinkės teismą;
+12) Biržų rajono apylinkės teismas;
 
-Anykščių rajono apylinkės teismą;
+13) Ignalinos rajono apylinkės teismas;
 
-Biržų rajono apylinkės teismą;
+14) Jonavos rajono apylinkės teismas;
 
-Ignalinos rajono apylinkės teismą ir 3 teisėjų etatus;
+15) Joniškio rajono apylinkės teismas;
 
-Jonavos rajono apylinkės teismą;
+16) Jurbarko rajono apylinkės teismas;
 
-Jurbarko rajono apylinkės teismą;
+17) Kaišiadorių rajono apylinkės teismas;
 
-Joniškio rajono apylinkės teismą;
+18) Kėdainių rajono apylinkės teismas;
 
-Kaišiadorių rajono apylinkės teismą;
+19) Kelmės rajono apylinkės teismas;
 
-Kauno rajono apylinkės teismą;
+20) Klaipėdos rajono apylinkės teismas;
 
-Kėdainių rajono apylinkės teismą;
+21) Kretingos rajono apylinkės teismas;
 
-Kupiškio rajono apylinkės teismą;
+22) Kupiškio rajono apylinkės teismas;
 
-Kelmės rajono apylinkės teismą;
+23) Lazdijų rajono apylinkės teismas;
 
-Klaipėdos rajono apylinkės teismą;
+24) Marijampolės rajono apylinkės teismas;
 
-Kretingos rajono apylinkės teismą;
+25) Mažeikių rajono apylinkės teismas;
 
-Lazdijų rajono apylinkės teismą;
+26) Molėtų rajono apylinkės teismas;
 
-Marijampolės rajono apylinkės teismą;
+27) Pakruojo rajono apylinkės teismas;
 
-Mažeikių rajono apylinkės teismą;
+28) Pasvalio rajono apylinkės teismas;
 
-Molėtų rajono apylinkės teismą;
+29) Plungės rajono apylinkės teismas;
 
-Pakruojo rajono apylinkės teismą;
+30) Prienų rajono apylinkės teismas;
 
-Pasvalio rajono apylinkės teismą;
+31) Radviliškio rajono apylinkės teismas;
 
-Plungės rajono apylinkės teismą;
+32) Raseinių rajono apylinkės teismas;
 
-Prienų rajono apylinkės teismą;
+33) Rokiškio rajono apylinkės teismas;
 
-Radviliškio rajono apylinkės teismą;
+34) Skuodo rajono apylinkės teismas;
 
-Raseinių rajono apylinkės teismą;
+35) Šakių rajono apylinkės teismas;
 
-Rokiškio rajono apylinkės teismą;
+36) Šalčininkų rajono apylinkės teismas;
 
-Skuodo rajono apylinkės teismą;
+37) Šilalės rajono apylinkės teismas;
 
-Šakių rajono apylinkės teismą;
+38) Šilutės rajono apylinkės teismas;
 
-Šalčininkų rajono apylinkės teismą;
+39) Širvintų rajono apylinkės teismas;
 
-Šiaulių rajono apylinkės teismą;
+40) Švenčionių rajono apylinkės teismas;
 
-Šilutės rajono apylinkės teismą;
+41) Tauragės rajono apylinkės teismas;
 
-Širvintų rajono apylinkės teismą;
+42) Telšių rajono apylinkės teismas;
 
-Švenčionių rajono apylinkės teismą;
+43) Trakų rajono apylinkės teismas;
 
-Šilalės rajono apylinkės teismą;
+44) Ukmergės rajono apylinkės teismas;
 
-Tauragės rajono apylinkės teismą;
+45) Utenos rajono apylinkės teismas;
 
-Telšių rajono apylinkės teismą;
+46) Varėnos rajono apylinkės teismas;
 
-Trakų rajono apylinkės teismą;
+47) Vilkaviškio rajono apylinkės teismas;
 
-Ukmergės rajono apylinkės teismą;
+48) Vilniaus rajono apylinkės teismas;
 
-Utenos rajono apylinkės teismą;
-
-Varėnos rajono apylinkės teismą;
-
-Vilkaviškio rajono apylinkės teismą;
-
-Vilniaus rajono apylinkės teismą;
-
-Zarasų rajono apylinkės teismą.
-
-TAR pastaba. Pripažintos netekusiomis galios Lietuvos Respublikos apylinkių teismų įsteigimo įstatymo  (Žin., 1992, Nr. 10-240) 1 straipsnio nuostatos dėl apylinkių teismų teisėjų etatų skaičiaus.
-
-Straipsnio pakeitimai:
-
-Nr. I-110, 1993-03-25, Lietuvos aidas, 1993, Nr. 60-0 (1993-03-31); Žin., 1993, Nr. 11-267 (1993-04-20), i. k. 0931010ISTA000I-110
-
-Nr. I-681, 1994-12-06, Žin., 1994, Nr. 96-1876 (1994-12-14), i. k. 0941010ISTA000I-681
-
-Nr. I-696, 1994-12-13, Žin., 1994, Nr. 99-1961 (1994-12-23), i. k. 0941010ISTA000I-696
-
-2. Įsteigti Visagino miesto apylinkės teismą ir nustatyti jame 3 teisėjų etatus.
-
-Papildyta straipsniu:
-
-Nr. I-681, 1994-12-06, Žin., 1994, Nr. 96-1876 (1994-12-14), i. k. 0941010ISTA000I-681
-
-3. Nustatyti, kad iki šiol išrinktų miestų ir rajonų teismų teisėjai savo įgaliojimus vykdo penkerius metus nuo jų išrinkimo dienos.
-
-Straipsnio numeracijos pakeitimas:
-
-Nr. I-681, 1994-12-06, Žin., 1994, Nr. 96-1876 (1994-12-14), i. k. 0941010ISTA000I-681
-
-4. Šis įstatymas įsigalioja nuo jo priėmimo.
-
-Straipsnio numeracijos pakeitimas:
-
-Nr. I-681, 1994-12-06, Žin., 1994, Nr. 96-1876 (1994-12-14), i. k. 0941010ISTA000I-681
+49) Zarasų rajono apylinkės teismas.
 
 LIETUVOS RESPUBLIKOS
 
@@ -195,4 +163,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-696, 1994-12-13, Žin., 1994, Nr. 99-1961 (1994-12-23), i. k. 0941010ISTA000I-696
 
 Dėl Lietuvos Respublikos apylinkių teismų įsteigimo įstatymo 1 straipsnio pakeitimo
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2209, 2012-09-11, Žin., 2012, Nr. 108-5461 (2012-09-19), i. k. 1121010ISTA0XI-2209
+
+Lietuvos Respublikos apylinkių teismų įsteigimo įstatymo pakeitimo įstatymas
 
