@@ -4,7 +4,7 @@ identifier: "TAR.132D0D75309C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2012-09-01"
+last_updated: "2013-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo trečiasis, ketvirtasis ir penktasis ski
 ---
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2012-09-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
 
@@ -59,11 +59,19 @@ BENDROSIOS NUOSTATOS
 
 5. Šis įstatymas netaikomas pelno nesiekiantiems ribotos civilinės atsakomybės juridiniams asmenims. Jų finansinių ataskaitų sudarymo ir pateikimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija, jeigu jų veiklą reglamentuojantys įstatymai nenustato kitaip.
 
-6. Šio įstatymo reikalavimai finansų įstaigoms, reguliuojamos rinkos operatoriui ir Lietuvos centriniam vertybinių popierių depozitoriumui taikomi tiek, kiek jų veiklą reglamentuojantys įstatymai nenustato kitaip.
+6. Šio įstatymo reikalavimai bankams, kitoms kredito ir finansų įstaigoms, reguliuojamos rinkos operatoriui, Lietuvos centriniam vertybinių popierių depozitoriumui, draudimo įmonėms ir perdraudimo įmonėms taikomi tiek, kiek jų veiklą reglamentuojantys įstatymai nenustato kitaip.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1403, 2011-05-24, Žin., 2011, Nr. 71-3365 (2011-06-11), i. k. 1111010ISTA0XI-1403
+
+Nr. XI-1949, 2012-03-29, Žin., 2012, Nr. 44-2142 (2012-04-14), i. k. 1121010ISTA0XI-1949
+
+7. Neteko galios nuo 2013-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XI-1949, 2012-03-29, Žin. 2012, Nr. 44-2142 (2012-04-14), i. k. 1121010ISTA0XI-1949
 
 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -197,11 +205,19 @@ Nr. XI-1799, 2011-12-15, Žin., 2011, Nr. 160-7566 (2011-12-28), i. k. 1111010IS
 
 4. Finansinės ataskaitos sudaromos vadovaujantis šiuo įstatymu, verslo apskaitos standartais arba tarptautiniais apskaitos standartais (toliau – apskaitos standartai) ir kitais teisės aktais.
 
-5. Įmonės, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, finansines ataskaitas sudaro pagal tarptautinius apskaitos standartus, o kitos įmonės gali pasirinkti finansines ataskaitas sudaryti pagal verslo apskaitos standartus arba tarptautinius apskaitos standartus ir toks pasirinkimas negali būti keičiamas anksčiau negu po 5 metų (išskyrus atvejį, kai įmonė tampa įmonių grupės įmone). Šio įstatymo 2 straipsnio 2 ir 3 dalyse nurodyti neribotos civilinės atsakomybės juridiniai asmenys finansines ataskaitas sudaro pagal verslo apskaitos standartus.
+5. Pagal tarptautinius apskaitos standartus finansines ataskaitas sudaro įmonės, kurios vadovaudamosi Lietuvos Respublikos buhalterinės apskaitos įstatymu apskaitą turi tvarkyti pagal tarptautinius apskaitos standartus. Kitos įmonės gali pasirinkti finansines ataskaitas sudaryti pagal verslo apskaitos standartus arba tarptautinius apskaitos standartus. Šio įstatymo 2 straipsnio 2 ir 3 dalyse nurodyti neribotos civilinės atsakomybės juridiniai asmenys finansines ataskaitas sudaro pagal verslo apskaitos standartus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1949, 2012-03-29, Žin., 2012, Nr. 44-2142 (2012-04-14), i. k. 1121010ISTA0XI-1949
 
 6. Aiškinamajame rašte turi būti nurodyta, pagal kokius apskaitos standartus sudarytos finansinės ataskaitos.
 
-7. Finansinės ataskaitos sudaromos naudojant Lietuvos Respublikos piniginį vienetą – litą.
+7. Finansinės ataskaitos sudaromos naudojant Lietuvos Respublikos piniginį vienetą – litą, o prireikus – ir litą, ir užsienio valiutą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1949, 2012-03-29, Žin., 2012, Nr. 44-2142 (2012-04-14), i. k. 1121010ISTA0XI-1949
 
 8. Finansinės ataskaitos sudaromos lietuvių kalba, o prireikus – ir užsienio kalba.
 
@@ -211,7 +227,11 @@ Nr. XI-1799, 2011-12-15, Žin., 2011, Nr. 160-7566 (2011-12-28), i. k. 1111010IS
 
 11. Ataskaitinių finansinių metų pradžios finansinių ataskaitų straipsnių sumos turi sutapti su praėjusių finansinių metų pabaigos finansinių ataskaitų atitinkamų straipsnių sumomis.
 
-12. Finansines ataskaitas įmonės sudaro pagal ataskaitinio laikotarpio paskutinės dienos duomenis. Įvykiai, buvę nuo finansinių metų pabaigos iki finansinių ataskaitų sudarymo, registruojami apskaitos standartuose nustatyta tvarka. Jei yra priimtas sprendimas likviduoti ar reorganizuoti įmonę, ta įmonė turi sudaryti balansą ir pagal sprendimo priėmimo dienos duomenis, ir pagal reorganizavimo dienos duomenis.
+12. Finansines ataskaitas įmonės sudaro pagal ataskaitinio laikotarpio paskutinės dienos duomenis. Įvykiai, buvę nuo finansinių metų pabaigos iki finansinių ataskaitų sudarymo, registruojami apskaitos standartuose nustatyta tvarka. Jei yra priimtas sprendimas likviduoti ar reorganizuoti įmonę, ta įmonė turi sudaryti finansines ataskaitas ir pagal sprendimo priėmimo dienos duomenis, ir pagal reorganizavimo dienos duomenis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1949, 2012-03-29, Žin., 2012, Nr. 44-2142 (2012-04-14), i. k. 1121010ISTA0XI-1949
 
 13. Kai bendrųjų apskaitos principų ir kitų šio įstatymo bei apskaitos standartų nuostatų neužtenka, kad finansinės ataskaitos tikrai ir teisingai parodytų įmonės turtą, nuosavą kapitalą, įsipareigojimus, pajamas ir sąnaudas, pinigų srautus, aiškinamajame rašte turi būti pateikta papildoma informacija.
 
@@ -241,7 +261,11 @@ Nr. XI-1799, 2011-12-15, Žin., 2011, Nr. 160-7566 (2011-12-28), i. k. 1111010IS
 
 19 straipsnis. Finansinių ataskaitų, metinio pranešimo pasirašymas ir tvirtinimas
 
-1. Finansines ataskaitas ir metinį pranešimą pasirašo įmonės vadovas (nurodomos jo pareigos, vardas ir pavardė).
+1. Finansines ataskaitas ir metinį pranešimą pasirašo įmonės vadovas (nurodomos jo pareigos, vardas ir pavardė). Finansines ataskaitas taip pat pasirašo įmonės vyriausiasis buhalteris (buhalteris) arba kiti asmenys, galintys tvarkyti įmonės buhalterinę apskaitą vadovaujantis Lietuvos Respublikos buhalterinės apskaitos įstatymu (nurodomos pareigos, vardas ir pavardė).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-1949, 2012-03-29, Žin., 2012, Nr. 44-2142 (2012-04-14), i. k. 1121010ISTA0XI-1949
 
 2. Finansinės ataskaitos ir metinis pranešimas tvirtinami įstatymų nustatyta tvarka.
 
@@ -271,7 +295,19 @@ Papildyta straipsnio dalimi:
 
 Nr. XI-1799, 2011-12-15, Žin., 2011, Nr. 160-7566 (2011-12-28), i. k. 1111010ISTA0XI-1799
 
-7. Bankams ir kitoms kredito įstaigoms, draudimo įmonėms, perdraudimo įmonėms taikomi šio įstatymo 21 straipsnis, 25 straipsnio 1, 2, 3, 4 dalys ir 27 straipsnis.
+21 straipsnis. Finansinių ataskaitų ir metinio pranešimo skelbimas
+
+1. Finansinės ataskaitos ir metinis pranešimas kartu su auditoriaus išvada (tais atvejais, kai auditas atliktas arba pagal įstatymus privalo būti atliktas) skelbiami viešai Juridinių asmenų registre įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka.
+
+2. Skelbiamų finansinių ataskaitų ir metinio pranešimo formos ir tekstai turi būti tokie, pagal kuriuos buvo parengta auditoriaus išvada.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1799, 2011-12-15, Žin., 2011, Nr. 160-7566 (2011-12-28), i. k. 1111010ISTA0XI-1799
+
+KETVIRTASIS SKIRSNIS
+
+FINANSINĖS ATASKAITOS
 
 22 straipsnis. Finansinių ataskaitų rinkinio sudėtis
 
@@ -288,6 +324,12 @@ Nr. XI-1799, 2011-12-15, Žin., 2011, Nr. 160-7566 (2011-12-28), i. k. 1111010IS
 5) aiškinamasis raštas.
 
 2. Visos pagal šio įstatymo reikalavimus parengtos finansinės ataskaitos sudaro nedalomą visumą.
+
+3. Finansinių ataskaitų, nurodytų šio straipsnio 1 dalyje, pavadinimai gali būti kitokie, negu šio straipsnio 1 dalyje nurodyti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-1949, 2012-03-29, Žin., 2012, Nr. 44-2142 (2012-04-14), i. k. 1121010ISTA0XI-1949
 
 23 straipsnis. Finansinių ataskaitų įforminimo bendrieji reikalavimai
 
@@ -411,7 +453,11 @@ priedas
 
 5. 2003 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2003/51/EB, iš dalies keičianti Direktyvas 78/660/EEB, 83/349/EEB, 86/635/EEB ir 91/674/EEB, dėl tam tikrų tipų bendrovių, bankų ir kitų finansų įstaigų bei draudimo įmonių metinės finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 273).
 
-6. 2003 m. rugsėjo 29 d. Komisijos reglamentas (EB) Nr. 1725/2003, priimantis tam tikrus tarptautinius apskaitos standartus pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002 (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 4).
+6. 2008 m. lapkričio 3 d. Komisijos reglamentas (EB) Nr. 1126/2008, priimantis tam tikrus tarptautinius apskaitos standartus pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002 (OL 2008 L 320, p. 1).
+
+Punkto pakeitimai:
+
+Nr. XI-1949, 2012-03-29, Žin., 2012, Nr. 44-2142 (2012-04-14), i. k. 1121010ISTA0XI-1949
 
 7. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/46/EB, iš dalies keičianti Tarybos direktyvas 78/660/EEB dėl tam tikrų tipų bendrovių metinių atskaitomybių, 83/349/EEB dėl konsoliduotos atskaitomybės, 86/635/EEB dėl bankų ir kitų finansų įstaigų metinės finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės ir 91/674/EEB dėl draudimo įmonių metinės finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės (OL 2006 L 224, p. 1).
 
