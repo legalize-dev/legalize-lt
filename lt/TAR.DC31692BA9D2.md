@@ -4,7 +4,7 @@ identifier: "TAR.DC31692BA9D2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2000-11-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DC31692BA9D2"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2000-08-29"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos poligrafo naudojimo įstatymas
+
+Suvestinė redakcija nuo 2013-01-01 iki 2015-06-30
+
+Įstatymas paskelbtas: Žin. 2000, Nr. 75-2273, i. k. 1001010ISTAIII-1906
 
 LIETUVOS RESPUBLIKOS
 
@@ -79,7 +83,11 @@ Vilnius
 
 1) sprendžiant klausimą dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo ar panaikinimo, kai yra pagrindo manyti, kad asmuo nuslėpė arba pateikė melagingus biografijos faktus ar kitus duomenis apie save ir savo aplinką;
 
-2) įstatymų ir kitų teisės aktų nustatyta tvarka atliekant asmens tarnybinį patikrinimą, vidinį ar operatyvinį tyrimą;
+2) įstatymų ir kitų teisės aktų nustatyta tvarka atliekant asmens tarnybinį patikrinimą, vidinį ar kriminalinės žvalgybos tyrimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2257, 2012-10-02, Žin., 2012, Nr. 122-6116 (2012-10-20), i. k. 1121010ISTA0XI-2257
 
 3) tiriant nusikaltimus, kitus teisės pažeidimus, įskaitant drausminius nusižengimus, kurių padarymu įtariami šie asmenys, jei tiriamos veikos yra susijusios su nustatytos darbo, susipažinimo su įslaptinta informacija ar tokios informacijos naudojimo bei saugojimo tvarkos pažeidimu;
 
@@ -192,4 +200,14 @@ Vyriausybė iki 2000 m. lapkričio 1 d. patvirtina teisės aktus, reikalingus š
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2257, 2012-10-02, Žin., 2012, Nr. 122-6116 (2012-10-20), i. k. 1121010ISTA0XI-2257
+
+Lietuvos Respublikos poligrafo naudojimo įstatymo 5 straipsnio pakeitimo įstatymas
 
