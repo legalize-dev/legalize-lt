@@ -4,7 +4,7 @@ identifier: "TAR.3E147F656BC4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-06-01"
-last_updated: "2010-07-01"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3E147F656BC4"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos profesionaliojo scenos meno įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2014-06-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3523, i. k. 1041010ISTA0IX-2257
 
@@ -90,11 +90,19 @@ Nr. XI-734, 2010-04-08, Žin., 2010, Nr. 48-2284 (2010-04-27), i. k. 1101010ISTA
 
 4 straipsnis. Nacionalinis teatras ir nacionalinė koncertinė įstaiga
 
-1. Nacionalinius teatrus ir nacionalines koncertines įstaigas, kaip biudžetines įstaigas, steigia Vyriausybė, o Vyriausybės įgaliota institucija įgyvendina jai pavestas steigėjo funkcijas. Sprendimą dėl nacionalinio teatro ar nacionalinės koncertinės įstaigos steigimo arba nacionalinio teatro ar nacionalinės koncertinės įstaigos statuso suteikimo ir panaikinimo valstybės teatrui ar koncertinei įstaigai priima Vyriausybė jos įgaliotos institucijos teikimu.
+1. Nacionaliniai teatrai ir nacionalinės koncertinės įstaigos yra biudžetinės įstaigos, kurių savininkė yra valstybė. Savininko teises ir pareigas įgyvendina Lietuvos Respublikos kultūros ministerija (toliau – Vyriausybės įgaliota valstybės valdymo institucija). Nacionaliniai teatrai ir nacionalinės koncertinės įstaigos steigiamos įstatymu arba Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nutarimu, o sprendimą dėl nacionalinio teatro ar nacionalinės koncertinės įstaigos statuso suteikimo ir panaikinimo valstybės teatrui, kuris yra biudžetinė įstaiga, ar koncertinei įstaigai, kuri yra biudžetinė įstaiga, priima Vyriausybė jos įgaliotos valstybės valdymo institucijos teikimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
 
 2. Nacionalinis teatras ar nacionalinė koncertinė įstaiga yra įstaiga, kuri savo veikla bei joje dirbančių kūrybinių darbuotojų kolektyvo ar kolektyvų kūrybine veikla aukščiausiu meniniu lygiu pristato iškiliausius nacionalinės kūrybos laimėjimus, puoselėja, plėtoja ir skleidžia Lietuvos kultūrą, kūrybiškai interpretuoja ir perteikia pasaulio kultūrų laimėjimus, kuria šiuolaikinio meno tradicijas, meniniu lygiu, formų ir žanrų įvairove formuoja ir tenkina visuomenės poreikį profesionaliam scenos menui.
 
-3. Pagal Vyriausybės įgaliotos institucijos patvirtintas sezonines kūrybinės veiklos programas nacionaliniame teatre ir nacionalinėje koncertinėje įstaigoje pristatomi iškiliausi Lietuvos ir užsienio scenos meno kūriniai. Nacionalinis teatras ir nacionalinė koncertinė įstaiga užtikrina visavertę šalies meninės kultūros sklaidą šalyje ir užsienyje.
+3. Pagal Vyriausybės įgaliotos valstybės valdymo institucijos patvirtintas sezonines ir perspektyvines kūrybinės veiklos programas nacionaliniame teatre ir nacionalinėje koncertinėje įstaigoje pristatomi iškiliausi nacionalinės ir pasaulinės kūrybos laimėjimai. Nacionalinis teatras ir nacionalinė koncertinė įstaiga užtikrina visavertę šalies scenos meno sklaidą šalyje ir užsienyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
 
 5 straipsnis. Teatrų ir koncertinių įstaigų veiklos teisinio reglamentavimo ypatumai
 
@@ -102,33 +110,57 @@ Nr. XI-734, 2010-04-08, Žin., 2010, Nr. 48-2284 (2010-04-27), i. k. 1101010ISTA
 
 2. Teatro ir koncertinės įstaigos steigimo dokumentuose, be duomenų, privalomų pagal Civilinį kodeksą ir atskiras juridinių asmenų teisines formas reglamentuojančius įstatymus, turi būti nurodyta scenos meno rūšis ir meno tarybos sudarymo tvarka bei kompetencija, jeigu tokia taryba teatre ar koncertinėje įstaigoje sudaroma.
 
-3. Juridinis asmuo pripažįstamas teatru ar koncertine įstaiga Vyriausybės įgaliotos institucijos nustatyta tvarka, jeigu jis atitinka šias sąlygas:
+3. Juridinis asmuo pripažįstamas teatru ar koncertine įstaiga Vyriausybės įgaliotos valstybės valdymo institucijos nustatyta tvarka, jeigu jis atitinka šias sąlygas:
 
 1) jo repertuarą sudaro viešai atliekami literatūros ir (ar) meno kūriniai;
 
-2) jo atlikėjai arba atlikėjų kolektyvas (-ai) yra profesionalai, turintys profesinį išsilavinimą ar profesionalaus scenos meno įgūdžių ir pagrindines pajamas gaunantys iš šios profesinės veiklos;
+2) jo atlikėjai arba atlikėjų kolektyvas (kolektyvai) yra profesionalai, turintys profesinį išsilavinimą ar profesionalaus scenos meno įgūdžių ir pagrindines pajamas gaunantys iš šios profesinės veiklos;
 
-3) jis turi organizacines-technines sąlygas profesionaliai scenos meno veiklai (tam tinkamas patalpas, administracinį personalą).
+3) jis turi organizacines technines sąlygas profesionaliai scenos meno veiklai (tam tinkamas patalpas, administracijos personalą).
 
-4. Juridinis asmuo, siekdamas šio straipsnio 3 dalyje numatyto pripažinimo teatru ar koncertine įstaiga, Vyriausybės įgaliotai institucijai kartu su prašymu pateikia šiuos dokumentus:
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
+
+4. Juridinis asmuo, siekdamas šio straipsnio 3 dalyje numatyto pripažinimo teatru ar koncertine įstaiga, Vyriausybės įgaliotai valstybės valdymo institucijai kartu su prašymu pateikia šiuos dokumentus:
 
 1) juridinio asmens steigimo dokumentų nuorašus;
 
-2) dokumentų nuorašus apie vykdomą ir (ar) numatomą vykdyti kūrybinę veiklą, turimą ir (ar) planuojamą repertuarą;
+2) dokumentų apie vykdomą ir (ar) numatomą vykdyti kūrybinę veiklą, turimą ir (ar) planuojamą repertuarą nuorašus;
 
-3) atlikėjų arba atlikėjų kolektyvo (-ų) sąrašą ir dokumentų nuorašus, patvirtinančius jų profesinį išsilavinimą ar profesinius scenos meno įgūdžius;
+3) atlikėjų arba atlikėjų kolektyvo (kolektyvų) sąrašą ir atlikėjų profesinį išsilavinimą ar profesinius scenos meno įgūdžius patvirtinančių dokumentų nuorašus;
 
-4) dokumentų nuorašus, įrodančius veiklai tinkamų patalpų valdymą nuosavybės, patikėjimo teise ar nuomos, panaudos sutarčių pagrindu, ir informaciją apie administracinį personalą.
+4) dokumentų, įrodančių veiklai tinkamų patalpų valdymą nuosavybės, patikėjimo teise ar nuomos, panaudos sutarčių pagrindu, nuorašus ir informaciją apie administracijos personalą.
 
-5. Vyriausybės įgaliota institucija gautus prašymus išnagrinėja per 30 kalendorinių dienų nuo prašymo gavimo dienos ir atsižvelgdama į Teatrų ir koncertinių įstaigų tarybos rekomendacijas priima sprendimą pripažinti ar atsisakyti pripažinti juridinį asmenį teatru ar koncertine įstaiga. Per penkias darbo dienas nuo sprendimo priėmimo dienos ji apie tai raštu praneša juridiniam asmeniui. Šis sprendimas Administracinių bylų teisenos įstatymo nustatyta tvarka gali būti apskundžiamas teismui.
+Straipsnio dalies pakeitimai:
 
-6. Teatras ar koncertinė įstaiga kasmet iki einamųjų metų gegužės mėnesio pabaigos Vyriausybės įgaliotai institucijai pateikia jos nustatytos formos ataskaitą apie vykdytą veiklą. Vyriausybės įgaliota institucija, įvertinusi pateiktas ataskaitas ir atsižvelgdama į Teatrų ir koncertinių įstaigų tarybos rekomendacijas, turi teisę pripažinti netekusiu galios priimtą sprendimą pripažinti juridinį asmenį teatru ar koncertine įstaiga, jeigu juridinis asmuo neatitinka šio straipsnio 3 dalyje nustatytų sąlygų. Šis sprendimas Administracinių bylų teisenos įstatymo nustatyta tvarka gali būti apskundžiamas teismui.
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
 
-7. Kai numatoma reorganizuoti, likviduoti ar pertvarkyti teatrą ar koncertinę įstaigą, teatro ar koncertinės įstaigos valdymo organas praneša Vyriausybės įgaliotai institucijai apie būsimą sprendimą prieš 30 dienų.
+5. Vyriausybės įgaliota valstybės valdymo institucija gautus prašymus išnagrinėja per 30 kalendorinių dienų nuo prašymo gavimo dienos ir atsižvelgdama į Teatrų ir koncertinių įstaigų tarybos rekomendacijas priima sprendimą pripažinti ar atsisakyti pripažinti juridinį asmenį teatru ar koncertine įstaiga. Per 5 darbo dienas nuo sprendimo priėmimo dienos ji apie tai raštu praneša juridiniam asmeniui. Šis sprendimas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka gali būti skundžiamas teismui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
+
+6. Teatras ar koncertinė įstaiga kiekvienais metais iki einamųjų metų gegužės mėnesio pabaigos Vyriausybės įgaliotai valstybės valdymo institucijai pateikia šios institucijos nustatytos formos veiklos ataskaitą. Vyriausybės įgaliota valstybės valdymo institucija, įvertinusi pateiktas ataskaitas ir atsižvelgdama į Teatrų ir koncertinių įstaigų tarybos rekomendacijas, turi teisę pripažinti netekusiu galios priimtą sprendimą pripažinti juridinį asmenį teatru ar koncertine įstaiga, jeigu juridinis asmuo neatitinka šio straipsnio 3 dalyje nustatytų sąlygų. Šis sprendimas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka gali būti skundžiamas teismui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
+
+7. Kai numatoma reorganizuoti, likviduoti ar pertvarkyti teatrą ar koncertinę įstaigą, teatro ar koncertinės įstaigos valdymo organas praneša Vyriausybės įgaliotai valstybės valdymo institucijai apie būsimą sprendimą prieš 30 dienų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
 
 6 straipsnis. Meno taryba
 
-1. Nacionaliniame teatre ir nacionalinėje koncertinėje įstaigoje turi būti kolegiali patariamojo balso teisę turinti meno taryba. Nacionalinio teatro ir nacionalinės koncertinės įstaigos meno tarybos sudėtį teatro ar koncertinės įstaigos vadovo teikimu tvirtina steigėjo funkcijas įgyvendinanti Vyriausybės įgaliota institucija. Meno tarybai negali vadovauti teatro ar koncertinės įstaigos vadovas.
+1. Nacionaliniame teatre ir nacionalinėje koncertinėje įstaigoje turi veikti kolegiali patariamojo balso teisę turinti meno taryba. Nacionalinio teatro ir nacionalinės koncertinės įstaigos meno tarybos sudėtį teatro ar koncertinės įstaigos vadovo teikimu tvirtina savininko teises ir pareigas įgyvendinanti institucija. Meno tarybai negali vadovauti teatro ar koncertinės įstaigos vadovas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
 
 2. Valstybės, savivaldybės teatre ar koncertinėje įstaigoje turi būti kolegiali patariamojo balso teisę turinti meno taryba. Valstybės, savivaldybės teatro ar koncertinės biudžetinės įstaigos meno tarybos sudėtį tvirtina šios įstaigos vadovas. Valstybės, savivaldybės teatro ar koncertinės viešosios įstaigos meno tarybos narių skaičius, sudarymo ir atšaukimo tvarka bei kompetencija nustatoma šios viešosios įstaigos įstatuose. Meno tarybai negali vadovauti teatro ar koncertinės įstaigos vadovas.
 
@@ -142,11 +174,15 @@ TEATRŲ IR KONCERTINIŲ ĮSTAIGŲ FINANSAVIMAS
 
 7 straipsnis. Teatrų ir koncertinių įstaigų valstybės finansavimas
 
-1. Nacionalinio teatro ir nacionalinės koncertinės įstaigos kūrybinės veiklos programai vykdyti, atsižvelgiant į steigėjo funkcijas įgyvendinančios Vyriausybės įgaliotos institucijos patvirtintą nacionalinio teatro ar nacionalinės koncertinės įstaigos sezoninės kūrybinės veiklos programą, skiriami valstybės biudžeto asignavimai išlaidoms, iš jų darbo užmokesčiui ir turtui įsigyti, Lietuvos valstybės biudžete nurodomi atskiroje eilutėje.
+1. Nacionalinio teatro ir nacionalinės koncertinės įstaigos kūrybinės veiklos programai vykdyti, atsižvelgiant į savininko teises ir pareigas įgyvendinančios institucijos patvirtintą nacionalinio teatro ar nacionalinės koncertinės įstaigos sezoninę ir perspektyvinę kūrybinės veiklos programą, skiriami valstybės biudžeto asignavimai išlaidoms, iš jų darbo užmokesčiui ir turtui įsigyti, Lietuvos valstybės biudžete nurodomi atskiroje eilutėje.
 
-2. Valstybės ar savivaldybės teatrams ir koncertinėms biudžetinėms įstaigoms iš valstybės ir savivaldybių biudžetų skiriami asignavimai išlaidoms, iš jų darbo užmokesčiui ir turtui įsigyti, steigėjo patvirtintoms sezoninėms kūrybinės veiklos programoms vykdyti.
+2. Valstybės ar savivaldybės teatrams ir koncertinėms įstaigoms iš valstybės ir savivaldybių biudžetų skiriami asignavimai išlaidoms, iš jų darbo užmokesčiui ir turtui įsigyti, Vyriausybės įgaliotos valstybės valdymo institucijos arba savivaldybių tarybų patvirtintoms sezoninėms ir perspektyvinėms kūrybinės veiklos programoms vykdyti.
 
-3. Valstybės, savivaldybių teatrai ir koncertinės viešosios įstaigos bei kiti teatrai ir koncertinės įstaigos gali gauti valstybės ir savivaldybių biudžetų asignavimų, įstatymų nustatyta tvarka dalyvaudami Kultūros ministerijos arba savivaldybių tarybų skelbiamuose konkursuose atitinkamoms kūrybinės veiklos programoms, finansuojamoms iš valstybės arba savivaldybių biudžetų, vykdyti.
+3. Valstybės, savivaldybių teatrai ir koncertinės viešosios įstaigos bei kiti teatrai ir koncertinės įstaigos gali gauti valstybės ir savivaldybių biudžetų asignavimų, įstatymų nustatyta tvarka dalyvaudami Vyriausybės įgaliotos valstybės valdymo institucijos arba savivaldybių tarybų skelbiamuose konkursuose atitinkamoms kūrybinės veiklos programoms, finansuojamoms iš valstybės arba savivaldybių biudžetų, vykdyti.
+
+Straipsnio pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
 
 KETVIRTASIS SKIRSNIS
 
@@ -158,13 +194,19 @@ Teatrų ir koncertinių įstaigų darbuotojų darbo santykius reglamentuoja Darb
 
 9 straipsnis. Teatrų ir koncertinių įstaigų kūrybinių darbuotojų darbo santykių reglamentavimo ypatumai
 
-1. Su teatrų ir koncertinių įstaigų kūrybiniais darbuotojais sudaromos darbo sutartys. Kolektyvinėse sutartyse nustatytais atvejais su teatrų ir koncertinių įstaigų kūrybiniais darbuotojais gali būti sudaromos terminuotos darbo sutartys ne ilgiau kaip penkeriems metams. Teatrų ir koncertinių įstaigų kūrybinių darbų sąrašą nustato Vyriausybės įgaliota institucija.
+Su teatrų ir koncertinių įstaigų kūrybiniais darbuotojais sudaromos darbo sutartys. Kolektyvinėse sutartyse nustatytais atvejais su teatrų ir koncertinių įstaigų kūrybiniais darbuotojais gali būti sudaromos terminuotos darbo sutartys ne ilgiau kaip penkeriems metams. Teatrų ir koncertinių įstaigų kūrybinių darbų sąrašą nustato Vyriausybės įgaliota valstybės valdymo institucija. Nacionalinių, valstybės ir savivaldybių teatrų bei koncertinių įstaigų kūrybiniai darbuotojai, dirbantys pagal neterminuotas darbo sutartis, atestuojami kas treji metai Vyriausybės įgaliotos valstybės valdymo institucijos patvirtintuose atestavimo nuostatuose nustatyta tvarka. Kituose teatruose ir koncertinėse įstaigose kūrybiniai darbuotojai atestuojami kas treji metai, jų atestavimo tvarką nustato darbdavys arba jo įgaliotas asmuo.
 
-2. Nacionalinių, valstybės ir savivaldybių teatrų bei koncertinių įstaigų kūrybiniai darbuotojai, dirbantys pagal neterminuotas darbo sutartis, atestuojami kas treji metai Vyriausybės įgaliotos institucijos patvirtintų atestavimo nuostatų nustatyta tvarka. Kituose teatruose ir koncertinėse įstaigose kūrybiniai darbuotojai atestuojami kas treji metai, jų atestavimo tvarką nustato darbdavys arba jo įgaliotas asmuo.
+Straipsnio pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
 
 10 straipsnis. Teatrų ir koncertinių įstaigų vadovų darbo santykių  reglamentavimo ypatumai
 
-1. Nacionalinių, valstybės ir savivaldybių teatrų ir koncertinių įstaigų vadovai į pareigas skiriami konkurso būdu. Kvalifikacinius reikalavimus nacionalinių, valstybės ir savivaldybių teatrų bei koncertinių įstaigų vadovams, taip pat konkursų tvarką nustato Vyriausybės įgaliota institucija. Su konkursą laimėjusiu asmeniu sudaroma terminuota darbo sutartis penkeriems metams.
+1. Nacionalinių, valstybės ir savivaldybių teatrų ir koncertinių įstaigų vadovai į pareigas priimami konkurso būdu. Kvalifikacinius reikalavimus nacionalinių, valstybės ir savivaldybių teatrų ir koncertinių įstaigų vadovams, taip pat konkursų tvarką nustato Vyriausybės įgaliota valstybės valdymo institucija. Su konkursą laimėjusiu asmeniu sudaroma terminuota darbo sutartis penkeriems metams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
 
 2. Kituose teatruose ir koncertinėse įstaigose konkursinių pareigų sąrašą ir konkursų tvarką nustato darbdavys arba jo įgaliotas asmuo, atsižvelgdami į darbuotojų atstovų nuomonę.
 
@@ -176,7 +218,11 @@ Teatrų ir koncertinių įstaigų darbuotojų darbo santykius reglamentuoja Darb
 
 12 straipsnis. Kompensacijos už muzikos instrumentų naudojimą
 
-Tais atvejais, kai teatrų ir koncertinių įstaigų kūrybiniai darbuotojai kūrybinei veiklai naudoja asmeninės nuosavybės teise jiems priklausančius muzikos instrumentus, teatrai ar koncertinės įstaigos Vyriausybės įgaliotos institucijos nustatyta tvarka už instrumentų naudojimą moka darbuotojams kompensacijas.
+Tais atvejais, kai teatrų ir koncertinių įstaigų kūrybiniai darbuotojai kūrybinei veiklai naudoja asmeninės nuosavybės teise jiems priklausančius muzikos instrumentus, teatrai ar koncertinės įstaigos Vyriausybės įgaliotos valstybės valdymo institucijos nustatyta tvarka už instrumentų naudojimą moka kūrybiniams darbuotojams kompensacijas.
+
+Straipsnio pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
 
 13 straipsnis. Teatrų ir koncertinių įstaigų kūrybinių darbuotojų socialinės garantijos
 
@@ -196,9 +242,23 @@ Tais atvejais, kai teatrų ir koncertinių įstaigų kūrybiniai darbuotojai kū
 
 5. Kai asmeniui priklausančios valstybinės socialinio draudimo netekto darbingumo (invalidumo) ar ištarnauto laiko pensijos, valstybinės pensijos, užsienio valstybių pensijos, nuolatinės pensinio pobūdžio išmokos, pensijų išmokos dydis (gaunantiems kelias pensijas ar pensijų išmokas – bendra šių pensijų ar pensijų išmokų suma) yra mažesnis(-ė) už asmeniui priklausančią kompensacinę išmoką, šiam asmeniui skiriama ir mokama jam priklausančios kompensacinės išmokos dalis, lygi skirtumui tarp asmeniui priklausančios kompensacinės išmokos ir asmens gaunamos valstybinės socialinio draudimo pensijos, valstybinės pensijos, užsienio valstybių pensijos, nuolatinės pensinio pobūdžio išmokos, pensijų išmokos (gaunantiems kelias pensijas ar pensijų išmokas – bendros šių pensijų ar pensijų išmokų sumos). Kūrybiniams darbuotojams, kuriems yra paskirtos ir mokamos valstybinio socialinio draudimo ištarnauto laiko pensijos ar kompensacijos už ypatingas darbo sąlygas, kompensacinės išmokos dalis skiriama ir mokama netaikant šio straipsnio 2 ir 3 dalyse nustatytų kūrybinio darbo profesionalioje scenoje stažo reikalavimų.
 
-6. Kompensacines išmokas Vyriausybės nustatyta tvarka skiria ir moka Vyriausybės įgaliota institucija.
+6. Kompensacines išmokas Vyriausybės nustatyta tvarka skiria Vyriausybės įgaliota valstybės valdymo institucija, o jas moka Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos.
 
-7. Kompensacinė išmoka asmenims mokama nuo teisės gauti kompensacinę išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 mėnesių iki kreipimosi dėl kompensacinės išmokos gavimo Vyriausybės įgaliotoje institucijoje dienos.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
+
+7. Kompensacinė išmoka asmenims skiriama ir mokama nuo teisės gauti kompensacinę išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 mėnesių iki dokumentų kompensacinei išmokai skirti gavimo Vyriausybės įgaliotoje valstybės valdymo institucijoje dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
+
+8. Valstybinio socialinio draudimo fondo administravimo įstaigų sprendimai kompensacinių išmokų mokėjimo klausimais gali būti skundžiami Valstybinio socialinio draudimo fondo valdybai Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-85, 2012-12-20, Žin., 2012, Nr. 155-7983 (2012-12-31), i. k. 1121010ISTA00XII-85
 
 Straipsnio pakeitimai:
 
@@ -212,9 +272,17 @@ TEATRO IR KONCERTINĖS ĮSTAIGOS REPERTUARO SUDARYMAS, KŪRYBINĖS VEIKLOS IR GA
 
 1. Teatrai ir koncertinės įstaigos repertuarą sudaro savarankiškai.
 
-2. Nacionalinių, valstybės ir savivaldybių teatrų bei koncertinių įstaigų repertuaras sudaromas remiantis sezoninėmis ir perspektyvinėmis kūrybinės veiklos programomis. Jas tvirtina steigėjo funkcijas įgyvendinanti Vyriausybės įgaliota institucija, kiti steigėjai. Sezoninės kūrybinės veiklos programos tvirtinamos kasmet iki einamųjų metų birželio mėnesio pabaigos. Perspektyvinė kūrybinės veiklos programa rengiama trejų–penkerių metų laikotarpiui.
+2. Nacionalinių, valstybės ir savivaldybių teatrų ir koncertinių įstaigų repertuaras sudaromas remiantis sezoninėmis ir perspektyvinėmis kūrybinės veiklos programomis. Jas tvirtina biudžetinės įstaigos savininko teises ir pareigas įgyvendinanti institucija, o viešosios įstaigos – visuotinis dalininkų susirinkimas ar savininkas. Sezoninės kūrybinės veiklos programos tvirtinamos kiekvienais metais iki einamųjų metų birželio mėnesio pabaigos. Perspektyvinė kūrybinės veiklos programa rengiama trejų–penkerių metų laikotarpiui.
 
-3. Nacionalinių, valstybės ir savivaldybių teatrų ir koncertinių įstaigų vadovai kasmet iki einamųjų metų gegužės mėnesio pabaigos steigėjo funkcijas įgyvendinančiai Vyriausybės įgaliotai institucijai, kitiems steigėjams pateikia ataskaitą apie teatro ar koncertinės įstaigos sezoninės ir perspektyvinės kūrybinės veiklos programos įgyvendinimą.
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
+
+3. Nacionalinių, valstybės ir savivaldybių teatrų ir koncertinių įstaigų vadovai kiekvienais metais iki einamųjų metų gegužės mėnesio pabaigos biudžetinės įstaigos savininko teises ir pareigas įgyvendinančiai institucijai, o viešosios įstaigos – visuotiniam dalininkų susirinkimui ar savininkui pateikia teatro ar koncertinės įstaigos sezoninės ir perspektyvinės kūrybinės veiklos programos įgyvendinimo ataskaitą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
 
 15 straipsnis. Autorinių sutarčių sudarymo tvarka
 
@@ -234,7 +302,11 @@ TEATRO IR KONCERTINĖS ĮSTAIGOS REPERTUARO SUDARYMAS, KŪRYBINĖS VEIKLOS IR GA
 
 17 straipsnis. Teatro ir koncertinės įstaigos spektaklių, koncertų ir gastrolių organizavimas
 
-1. Teatrai ir koncertinės įstaigos spektaklius, koncertus ir gastroles planuoja bei organizuoja savarankiškai. Nacionalinių, valstybės ir savivaldybių teatrų bei koncertinių įstaigų gastrolių organizavimo tvarką nustato steigėjo funkcijas įgyvendinanti Vyriausybės įgaliota institucija, kiti steigėjai.
+1. Teatrai ir koncertinės įstaigos spektaklius, koncertus ir gastroles planuoja ir organizuoja savarankiškai. Nacionalinių, valstybės ir savivaldybių teatrų ir koncertinių įstaigų gastrolių organizavimo tvarką nustato biudžetinių įstaigų savininko teises ir pareigas įgyvendinanti institucija, o viešųjų įstaigų – visuotinis dalininkų susirinkimas ar savininkas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
 
 2. Nacionalinių, valstybės ir savivaldybių teatrų bei koncertinių įstaigų gastrolių planai rengiami remiantis sezoninėmis ir perspektyvinėmis kūrybinės veiklos programomis.
 
@@ -248,13 +320,13 @@ TEATRO IR KONCERTINĖS ĮSTAIGOS REPERTUARO SUDARYMAS, KŪRYBINĖS VEIKLOS IR GA
 
 TEATRŲ IR KONCERTINIŲ ĮSTAIGŲ VEIKLOS VALSTYBINIS VALDYMAS
 
-19 straipsnis. Vyriausybės įgaliota institucija teatrų ir koncertinių įstaigų veiklos valdymo srityje
+19 straipsnis. Vyriausybės įgaliota valstybės valdymo institucija teatrų ir koncertinių įstaigų veiklos valdymo srityje
 
-1. Valstybės politiką teatrų ir koncertinių įstaigų veikos valdymo srityje įgyvendina ir pagal savo kompetenciją koordinuoja Vyriausybės įgaliota institucija.
+1. Valstybės kultūros politikos kryptis nustato Seimas, o teatrų ir koncertinių įstaigų veiklos politiką formuoja ir įgyvendina Vyriausybės įgaliota valstybės valdymo institucija.
 
-2. Vyriausybės įgaliota institucija atlieka šias funkcijas:
+2. Vyriausybės įgaliota valstybės valdymo institucija atlieka šias funkcijas:
 
-1) nustato nacionalinių ir valstybės teatrų bei koncertinių įstaigų plėtotės strategiją ir ją įgyvendina;
+1) tvirtina nacionalinių ir valstybės teatrų ir koncertinių įstaigų plėtotės strategiją ir užtikrina jos įgyvendinimą;
 
 2) rengia teatrų ir koncertinių įstaigų veiklą reglamentuojančių dokumentų projektus ir teisės aktų nustatyta tvarka juos tvirtina;
 
@@ -262,27 +334,39 @@ TEATRŲ IR KONCERTINIŲ ĮSTAIGŲ VEIKLOS VALSTYBINIS VALDYMAS
 
 4) finansuoja Lietuvos kultūrai svarbias teatrų ir koncertinių įstaigų kūrybinės veiklos programas ir projektus;
 
-5) konkurso būdu skiria teatro ar koncertinės įstaigos, kurios steigėjo funkcijas atlieka, vadovą ir jį atleidžia;
+5) organizuoja konkursą į nacionalinio ir valstybės teatro ar koncertinės įstaigos vadovo pareigas;
 
-6) tvirtina teatrų ir koncertinių įstaigų, kurių steigėjo funkcijas atlieka, steigimo dokumentus;
+6) tvirtina nacionalinių ir valstybės teatrų ir koncertinių įstaigų steigimo dokumentus;
 
-7) tvirtina teatrų ir koncertinių įstaigų, kurių steigėjo funkcijas atlieka, sezonines kūrybinės veiklos programas;
+7) tvirtina nacionalinių ir valstybės teatrų ir koncertinių įstaigų sezonines ir perspektyvines kūrybinės veiklos programas;
 
 8) tvirtina kūrybinių darbuotojų atestavimo nuostatus;
 
-9) skiria ir moka kompensacines išmokas teatrų ir koncertinių įstaigų darbuotojams, nurodytiems šio įstatymo 13 straipsnio 2 dalyje;
+9) skiria kompensacines išmokas teatrų ir koncertinių įstaigų darbuotojams, nurodytiems šio įstatymo 13 straipsnio 2 dalyje;
 
-10) pripažįsta arba atsisako pripažinti juridinį asmenį teatru ar koncertine įstaiga, pripažįsta netekusiu galios šį pripažinimą;
+10) priima sprendimą pripažinti arba atsisakyti pripažinti juridinį asmenį teatru ar koncertine įstaiga, pripažįsta netekusiu galios priimtą sprendimą pripažinti juridinį asmenį teatru ar koncertine įstaiga;
 
-11) tvirtina Teatrų ir koncertinių įstaigų tarybos sudėtį, jos nuostatus, apmokėjimo už teikiamas paslaugas tvarką.
+11) tvirtina Teatrų ir koncertinių įstaigų tarybos sudėtį, jos nuostatus, nustato apmokėjimo už teikiamas paslaugas tvarką.
+
+Straipsnio pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
 
 20 straipsnis. Teatrų ir koncertinių įstaigų taryba
 
-1. Prie Vyriausybės įgaliotos institucijos sudaroma kolegiali, patariamojo balso teisę turinti Teatrų ir koncertinių įstaigų taryba. Ji atlieka eksperto ir konsultanto funkcijas sprendžiant Lietuvos teatrų ir koncertinių įstaigų politikos formavimo ir įgyvendinimo klausimus.
+1. Prie Vyriausybės įgaliotos valstybės valdymo institucijos sudaroma kolegiali, patariamojo balso teisę turinti Teatrų ir koncertinių įstaigų taryba. Ji atlieka eksperto ir konsultanto funkcijas sprendžiant Lietuvos teatrų ir koncertinių įstaigų politikos formavimo ir įgyvendinimo klausimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
 
 2. Taryba rekomenduoja pripažinti arba atsisakyti pripažinti juridinį asmenį profesionaliu scenos meno teatru ar koncertine įstaiga, pripažinti netekusiu galios suteiktą pripažinimą šio įstatymo nustatyta tvarka.
 
-3. Tarybos sudėtį dvejų metų laikotarpiui, jos nuostatus, atsakomybę, apmokėjimo už teikiamas paslaugas tvarką tvirtina Vyriausybės įgaliota institucija.
+3. Neteko galios nuo 2013-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XI-2388, 2012-11-08, Žin. 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
 
 SEPTINTASIS SKIRSNIS
 
@@ -335,4 +419,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-734, 2010-04-08, Žin., 2010, Nr. 48-2284 (2010-04-27), i. k. 1101010ISTA00XI-734
 
 Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo 3 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
+
+Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo 4, 5, 6, 7, 9, 10, 12, 13, 14, 17, 19 ir 20 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-85, 2012-12-20, Žin., 2012, Nr. 155-7983 (2012-12-31), i. k. 1121010ISTA00XII-85
+
+Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo 13 straipsnio papildymo įstatymas
 
