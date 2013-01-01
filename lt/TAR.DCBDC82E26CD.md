@@ -4,7 +4,7 @@ identifier: "TAR.DCBDC82E26CD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-23"
-last_updated: "2012-07-10"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DCBDC82E26CD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų registro įstatymas
 
-Suvestinė redakcija nuo 2012-07-10 iki 2014-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 21-0; Žin. 1992, Nr.5-78, i. k. 0921010ISTA00I-2237
 
@@ -154,15 +154,27 @@ Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010IST
 
 1) asmens kodas;
 
-2) vardas (vardai);
+2) vardas (vardai) ir jo (jų) pakeitimo data (datos);
 
-3) pavardė (pavardės);
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
+
+3) pavardė (pavardės) ir jos (jų) pakeitimo data (datos);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
 
 4) lytis;
 
 5) gimimo data;
 
-6) pilietybė (pilietybės);
+6) pilietybė (pilietybės), jos (jų) įgijimo ir netekimo data (datos);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
 
 7) gimimo vieta;
 
