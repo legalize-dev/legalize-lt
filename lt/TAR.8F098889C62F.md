@@ -4,7 +4,7 @@ identifier: "TAR.8F098889C62F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-07-04"
-last_updated: "2008-01-01"
+last_updated: "2013-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8F098889C62F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,83 +17,87 @@ entry_into_force_conditions: "Įstatymo 11 straipsnio 5 dalies nuostatos įsigal
 ---
 # Lietuvos Respublikos kultūros rėmimo fondo įstatymas
 
+Suvestinė redakcija nuo 2013-01-01 iki 2014-12-31
+
+Įstatymas paskelbtas: Žin. 2007, Nr. 81-3320, i. k. 1071010ISTA00X-1260
+
+Nauja redakcija nuo 2013-01-01:
+
+Nr. XI-2219, 2012-09-18, Žin. 2012, Nr. 111-5632 (2012-09-26), i. k. 1121010ISTA0XI-2219
+
 LIETUVOS RESPUBLIKOS
 
 KULTŪROS RĖMIMO FONDO
 
-Į S T A T Y M A S
+ĮSTATYMAS
 
 2007 m. liepos 4 d. Nr. X-1260
 
 Vilnius
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis
 
-1. Šiuo įstatymu steigiamas Kultūros rėmimo fondas (toliau – Fondas).
+Šis įstatymas reglamentuoja Kultūros rėmimo fondo (toliau – Fondas), kurio lėšos skiriamos kultūrai ir menui remti, administravimą ir likvidavimą, lėšų šaltinius ir lėšų naudojimą.
 
-2. Šis įstatymas reglamentuoja Fondo, kurio lėšos skiriamos kultūrai ir menui remti, steigimą, valdymą, lėšų šaltinius, veiklos sritis, tikslus ir likvidavimą.
+2 straipsnis. Kultūros rėmimo fondo statusas
 
-2 straipsnis. Kultūros rėmimo fondo statusas
-
-1. Fondo nuostatus tvirtina Vyriausybė.
+1. Fondo nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
 
 2. Fondas nėra juridinis asmuo.
 
-3. Fondo administratorius – Kultūros ministerija.
+3. Fondą administruoja Lietuvos kultūros taryba.
 
-4. Fondo lėšos laikomos atskiroje Kultūros ministerijos sąskaitoje ir įtraukiamos į apskaitą pagal atskirą programą.
+4. Fondo lėšos laikomos atskiroje Lietuvos kultūros tarybos sąskaitoje ir įtraukiamos į apskaitą pagal atskirą programą.
 
-3 straipsnis. Fondo lėšų šaltiniai
+3 straipsnis. Fondo lėšų šaltiniai
 
 1. Fondo lėšas sudaro:
 
-1) 1 procentas akcizo pajamų, gautų už alkoholinius gėrimus ir apdorotą tabaką;
+1) 3 procentai akcizo pajamų, gautų už parduotus alkoholinius gėrimus ir apdorotą tabaką;
 
-2) 10 procentų lėšų, gautų iš loterijų ir azartinių lošimų mokesčio;
+2) 10 procentų lėšų, gautų iš loterijų ir azartinių lošimų mokesčio;
 
 3) kitos teisėtai įgytos lėšos.
 
 2. Planuojant kiekvienų metų valstybės biudžeto asignavimus, Fondui numatoma:
 
-1) 1 procentas praėjusių metų faktinių įplaukų iš akcizo už alkoholinius gėrimus ir apdorotą tabaką;
+1) 3 procentai praėjusių metų faktinių įplaukų iš akcizo pajamų už parduotus alkoholinius gėrimus ir apdorotą tabaką;
 
-2) 10 procentų praėjusių metų faktinių įplaukų iš loterijų ir azartinių lošimų mokesčio.
+2) 10 procentų praėjusių metų faktinių įplaukų iš loterijų ir azartinių lošimų mokesčio.
 
-4 straipsnis. Fondo remiamos veiklos sritys
+4 straipsnis. Fondo lėšų naudojimas
 
-Fondo lėšomis remiami:
+1. Fondo lėšos naudojamos kultūros ir meno projektams, programoms ir kitoms priemonėms, atrinktoms viešojo konkurso būdu, finansuoti. Fondo lėšos negali būti naudojamos jo administravimo išlaidoms.
 
-1) architektūros, cirko, dailės, fotografijos, kino, muziejų, kultūros paveldo, literatūros, muzikos, šokio, tarpdisciplininio meno, tautodailės, teatro meno ir mėgėjų meno projektai, reikšmingai prisidedantys prie kultūros ir meno plėtros, sklaidos, prieinamumo, atvirumo bei atsinaujinimo visuose šalies regionuose;
+2. Lietuvos kultūros taryba kultūros ministro nustatyta tvarka priima sprendimus dėl Fondo lėšų skyrimo.
 
-2) tęstinių kultūros ir meno projektų materialinės bazės stiprinimas.
+3. Kultūros ministras tvirtina Fondo lėšomis finansuojamų projektų teikimo gaires. Šiose gairėse nustatoma Fondo rėmimo sritys ir jų prioritetai, rėmimo ir vertinimo kriterijai, paraiškos forma, projektų teikimo, lėšų skyrimo ir atsiskaitymo už panaudotas lėšas tvarka.
 
-5 straipsnis. Fondo valdymas
+5 straipsnis. Fondo veiklos garantijos
 
-1. Fondo lėšas skirsto Fondo taryba (toliau – Taryba).
+1. Fondo lėšos negali būti perduodamos į valstybės biudžetą arba naudojamos kitoms valstybės reikmėms finansuoti.
 
-2. Tarybą sudaro 7 nepriekaištingos reputacijos asmenys. Į Tarybą po vieną narį deleguoja Seimo Švietimo, mokslo ir kultūros komitetas ir Meno kūrėjų organizacijų asociacija, tris narius – Kultūros ministerija, vienas jų turi būti kultūros srities atstovas iš regionų, du narius – Lietuvos kultūros ir meno taryba, vienas jų turi būti kultūros srities atstovas iš regionų.
+2. Per kalendorinius metus nepanaudotos Fondo lėšos lieka Fondo sąskaitoje ir naudojamos kitais metais numatytiems projektams finansuoti.
 
-3. Tarybos sudėtį ir jos pirmininką kultūros ministro teikimu dvejiems metams tvirtina Vyriausybė.
+6 straipsnis. Fondo likvidavimas
 
-4. Tarybos sudėtis po kiekvienos kadencijos atnaujinama ne mažiau kaip trečdaliu. Tas pats asmuo Tarybos nariu gali būti skiriamas ne daugiau kaip du kartus iš eilės.
+1. Fondas likviduojamas Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-5. Kiekvienos kadencijos pradžioje Taryba dvejų metų laikotarpiui patvirtina projektų teikimo gaires. Jose nustato rėmimo sritis ir jų prioritetus, rėmimo ir vertinimo kriterijus, paraiškos formą, projektų pateikimo, lėšų skyrimo bei atsiskaitymo už panaudotas lėšas tvarką. Kultūros ir meno rėmimo sričių prioritetus ir projektų vertinimo kriterijus Taryba nustato suderinusi su Lietuvos kultūros ir meno taryba.
+2. Fondą likvidavus, Fondo lėšos pervedamos į valstybės biudžetą.
 
-6. Taryba kasmet skelbia ne mažiau kaip du konkursus projektams, kurie bus remiami Fondo lėšomis, atrinkti.
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-6 straipsnis. Fondo tarybos kompetencija
+RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-Taryba:
+Pakeitimai:
 
-1) tvirtina Fondo administravimo pajamų ir išlaidų sąmatą. Fondo administravimui skirtos išlaidos negali viršyti 1 procento metinio Fondo biudžeto;
+1.
 
-2) skelbia konkursus remiamiems projektams atrinkti;
+Lietuvos Respublikos Seimas, Įstatymas
 
-3) nagrinėja kultūros ir meno ekspertų komisijų išvadas ir priima sprendimus remti šio įstatymo 4 straipsnyje nurodytas veiklos sritis;
+Nr. XI-2219, 2012-09-18, Žin., 2012, Nr. 111-5632 (2012-09-26), i. k. 1121010ISTA0XI-2219
 
-4) teikia Vyriausybei Fondo veiklos pusmečio ir metų ataskaitas;
-
-5) vykdo kitus Fondo nuostatuose nustatytus uždavinius ir funkcijas.
+Lietuvos Respublikos kultūros rėmimo fondo įstatymo pakeitimo įstatymas
 
 7 straipsnis. Fondo administratoriaus funkcijos
 
