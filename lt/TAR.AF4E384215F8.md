@@ -4,7 +4,7 @@ identifier: "TAR.AF4E384215F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-11-07"
-last_updated: "2006-06-28"
+last_updated: "2013-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2006-06-28 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2013-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
 
@@ -41,7 +41,11 @@ BENDROSIOS NUOSTATOS
 
 3. Saugomo asmens statusas – šio ir kitų įstatymų bei kitų teisės aktų nustatytų saugomų asmenų teisių ir pareigų visuma, susijusi su valstybės įsipareigojimu užtikrinti saugomo asmens apsaugą.
 
-4. Apsauga – veikla panaudojant fizinę apsaugą, operatyvinius veiksmus, transporto ir kitas technines bei prevencines priemones, skirtas saugomiems asmenims ir saugomiems objektams nuo neteisėtų veiksmų apsaugoti.
+4. Apsauga – veikla panaudojant fizinę apsaugą, kriminalinę žvalgybą, transporto ir kitas technines bei prevencines priemones, skirtas saugomiems asmenims ir saugomiems objektams nuo neteisėtų veiksmų apsaugoti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
 
 5. Fizinė apsauga – saugomo asmens ir (ar) saugomo objekto saugumo užtikrinimas pasitelkiant postus, patruliavimą ir asmens sargybinius.
 
@@ -89,7 +93,11 @@ SAUGOMŲ ASMENŲ STATUSAS, SAUGOMŲ ASMENŲ IR SAUGOMŲ OBJEKTŲ APSAUGOS UŽTIK
 
 4) panaudoti saugomų objektų kontrolės postuose ar už jų ribų technines priemones, skirtas ginklams ir (ar) šaudmenims, sprogmenims ir (ar) sprogstamosioms medžiagoms, kenksmingoms medžiagoms aptikti, nustatyti ir neutralizuoti, taip pat nusikalstamoms veikoms ir kitiems teisės pažeidimams fiksuoti;
 
-5) įstatymų nustatyta tvarka panaudoti operatyvinius veiksmus, skirtus nusikalstamoms veikoms prieš saugomus asmenis užkardyti;
+5) vykdyti kriminalinę žvalgybą nusikalstamoms veikoms prieš saugomus asmenis užkardyti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
 
 6) pagal savo kompetenciją atlikti teisės pažeidimų prevenciją;
 
@@ -151,7 +159,11 @@ Saugomas asmuo turi teisę:
 
 4) panaudojant prevencines ir technines priemones, skirtas saugomiems objektams nuo neteisėtų veikų apsaugoti;
 
-5) įstatymų nustatyta tvarka panaudojant operatyvinius veiksmus nusikalstamoms veikoms prieš saugomus objektus užkardyti.
+5) vykdant kriminalinę žvalgybą nusikalstamoms veikoms prieš saugomus objektus užkardyti.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
 
 TREČIASIS SKIRSNIS
 
@@ -175,7 +187,11 @@ Vadovybės apsaugos departamentas:
 
 2) už Lietuvos Respublikos ribų užtikrina tik fizinę vadovybės apsaugą. Vadovybės apsaugos už Lietuvos Respublikos ribų užtikrinimo pagrindus nustato tarptautinės teisės aktai;
 
-3) įstatymų nustatyta tvarka ir Vyriausybės nustatytu mastu vykdo operatyvinę veiklą, kad užtikrintų jam pavestų uždavinių įgyvendinimą;
+3) įstatymų nustatyta tvarka ir Vyriausybės nustatytu mastu vykdo kriminalinę žvalgybą, kad užtikrintų jam pavestų uždavinių įgyvendinimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
 
 4) nustato ir užtikrina specialų režimą saugomuose objektuose;
 
@@ -187,7 +203,11 @@ Vadovybės apsaugos departamentas:
 
 13 straipsnis. Vadovybės apsaugos departamento bendradarbiavimas su Lietuvos Respublikos bei užsienio šalių institucijomis ir įstaigomis
 
-Vadovybės apsaugos departamentas savo uždaviniams įgyvendinti ir funkcijoms atlikti bendradarbiauja su Lietuvos Respublikos valstybės ir savivaldybių institucijomis, įstaigomis ir visuomeninėmis organizacijomis, operatyvinės veiklos subjektais, kitomis Lietuvos Respublikos teisėsaugos institucijomis ir įstaigomis bei užsienio šalių institucijomis ir įstaigomis.
+Vadovybės apsaugos departamentas savo uždaviniams įgyvendinti ir funkcijoms atlikti bendradarbiauja su Lietuvos Respublikos valstybės ir savivaldybių institucijomis, įstaigomis ir visuomeninėmis organizacijomis, kriminalinės žvalgybos subjektais, kitomis Lietuvos Respublikos teisėsaugos institucijomis ir įstaigomis bei užsienio šalių institucijomis ir įstaigomis.
+
+Straipsnio pakeitimai:
+
+Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
 
 14 straipsnis. Vadovybės apsaugos departamento teisė gauti informaciją
 
@@ -313,7 +333,11 @@ VADOVYBĖS APSAUGOS DEPARTAMENTO PAREIGŪNO TEISĖS, PAREIGOS IR ATSAKOMYBĖ
 
 6) teisės aktų nustatyta tvarka saugoti informaciją, susijusią su saugomo asmens gyvenimo privatumu, jeigu ko kita nereikalauja tarnybinės pareigos;
 
-7) pagal savo kompetenciją vykdyti operatyvinę veiklą;
+7) pagal savo kompetenciją vykdyti kriminalinę žvalgybą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
 
 8) vengti nereikalingų asmens teisių suvaržymų;
 
@@ -468,4 +492,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-678, 2006-06-08, Žin., 2006, Nr. 72-2693 (2006-06-28), i. k. 1061010ISTA000X-678
 
 Lietuvos Respublikos vadovybės apsaugos įstatymo 6 straipsnio papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
+
+Lietuvos Respublikos vadovybės apsaugos įstatymo 2, 6, 9, 12, 13 ir 20 straipsnių pakeitimo įstatymas
 
