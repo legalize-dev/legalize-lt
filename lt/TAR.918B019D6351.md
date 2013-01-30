@@ -4,7 +4,7 @@ identifier: "TAR.918B019D6351"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-09-18"
-last_updated: "2012-10-01"
+last_updated: "2013-01-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.918B019D6351"
 department: "Lietuvos Respublikos Seimas"
@@ -18,6 +18,10 @@ entry_into_force_conditions: "14 straipsnio 2 dalis įsigalioja 2012-09-26"
 # Lietuvos Respublikos Lietuvos kultūros tarybos įstatymas
 
 LIETUVOS RESPUBLIKOS LIETUVOS KULTŪROS TARYBOS ĮSTATYMAS
+
+Suvestinė redakcija nuo 2013-01-30 iki 2019-06-30
+
+Įstatymas paskelbtas: Žin. 2012, Nr. 111-5631, i. k. 1121010ISTA0XI-2218
 
 LIETUVOS RESPUBLIKOS
 
@@ -109,7 +113,11 @@ TARYBOS STRUKTŪRA IR DARBO ORGANIZAVIMAS
 
 6 straipsnis. Tarybos pirmininkas
 
-1. Tarybos pirmininką kultūros ministro teikimu 4 metams priima į pareigas ir iš jų atleidžia Vyriausybė. Asmuo, priimamas į šias pareigas, turi atitikti bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, išmanyti kultūros ir meno raidos procesus ir turėti ne mažesnę kaip 5 metų veiklos kultūros ir meno srityje patirtį. Tarybos pirmininkas gali būti skiriamas eiti šias pareigas ne daugiau kaip dvi kadencijas iš eilės. 2/3 Tarybos narių gali motyvuotu raštu siūlyti atleisti Tarybos pirmininką iš pareigų.
+1. Tarybos pirmininką kultūros ministro teikimu 4 metams priima į pareigas ir iš jų atleidžia Vyriausybė. Asmuo, priimamas į šias pareigas, turi atitikti bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, išmanyti kultūros ir meno raidos procesus ir turėti ne mažesnę kaip 3 metų vadovaujamojo darbo ir ne mažesnę kaip 3 metų veiklos kultūros ir meno srityje patirtį. Tarybos pirmininkas gali būti skiriamas eiti šias pareigas ne daugiau kaip dvi kadencijas iš eilės. 2/3 Tarybos narių gali motyvuotu raštu siūlyti atleisti Tarybos pirmininką iš pareigų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-178, 2013-01-17, Žin., 2013, Nr. 11-512 (2013-01-30), i. k. 1131010ISTA0XII-178
 
 2. Tarybos pirmininkas yra valstybės pareigūnas, atsakingas ir atskaitingas kultūros ministrui. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme.
 
@@ -284,4 +292,14 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-178, 2013-01-17, Žin., 2013, Nr. 11-512 (2013-01-30), i. k. 1131010ISTA0XII-178
+
+Lietuvos Respublikos Lietuvos kultūros tarybos įstatymo 6 straipsnio pakeitimo įstatymas
 
