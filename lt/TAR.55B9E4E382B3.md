@@ -4,7 +4,7 @@ identifier: "TAR.55B9E4E382B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-04-10"
-last_updated: "2011-08-01"
+last_updated: "2013-01-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.55B9E4E382B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -30,9 +30,7 @@ LIETUVOS
 
 RESPUBLIKOS
 
-VALSTYBĖS HERBO,
-
-KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ
+VALSTYBĖS HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ
 
 ĮSTATYMAS
 
@@ -308,6 +306,18 @@ Vyriausybės įstaigos, įstaigos prie ministerijų, Vyriausybės atstovai ir
 
 Vyriausybės įgaliotiniai;
 
+3
+
+punkto redakcija nuo 2013-05-01:
+
+3) Lietuvos
+
+Respublikos Vyriausybė, Vyriausybės kanceliarija, ministerijos, Vyriausybės
+
+įstaigos, įstaigos prie ministerijų, Vyriausybės atstovai ir Vyriausybės
+
+įgaliotiniai;
+
 4) Lietuvos
 
 Respublikos Konstitucinis Teismas;
@@ -398,9 +408,7 @@ vyriausiosios rinkimų komisijos nustatyta tvarka pastatuose, kuriuose vyksta
 
 balsavimas, vykdant rinkimus ir referendumus, taip pat Lietuvos Respublikos
 
-vyriausiosios rinkimų komisijos patvirtintuose rinkimų ir referendumų
-
-dokumentuose;
+vyriausiosios rinkimų komisijos patvirtintuose rinkimų ir referendumų dokumentuose;
 
 6) valstybės
 
@@ -452,9 +460,9 @@ Respublikos Aukščiausiojo Teismo, jo senato ir kitų teismų posėdžių salė
 
 Respublikos vyriausiosios rinkimų komisijos posėdžių salėje;
 
-6) Lietuvos Respublikos
+6) Lietuvos
 
-Seimo Pirmininko darbo kabinete;
+Respublikos Seimo Pirmininko darbo kabinete;
 
 7) Respublikos
 
@@ -490,11 +498,11 @@ bei jų padalinių, specialiųjų misijų, esančių užsienio valstybėse, vado
 
 kabinetuose.
 
-5. Lietuvos Respublikos įstatymuose gali būti numatyta ir kitų juridinių
+5. Lietuvos Respublikos įstatymuose gali būti numatyta ir kitų
 
-asmenų, turinčių teisę naudoti Lietuvos valstybės herbą, taip pat kitų Lietuvos
+juridinių asmenų, turinčių teisę naudoti Lietuvos valstybės herbą, taip pat
 
-valstybės herbo naudojimo atvejų.
+kitų Lietuvos valstybės herbo naudojimo atvejų.
 
 6. Antspaudų su Lietuvos
 
@@ -502,7 +510,9 @@ valstybės herbu apyvartą reglamentuoja Lietuvos Respublikos antspaudų apyvart
 
 įstatymas.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. XI-745,
 
@@ -520,15 +530,21 @@ XI-1396,
 
 2011-05-19, Žin., 2011, Nr. 68-3225 (2011-06-04)
 
+Nr.
+
+XII-158,
+
+2013-01-17, Žin., 2013, Nr. 11-502 (2013-01-30)
+
 6
 
 straipsnis. Lietuvos nacionaliniai simboliai
 
 1. Lietuvos
 
-istoriniai nacionaliniai simboliai yra dvigubas kryžius ir Gediminaičių stulpai.
+istoriniai nacionaliniai simboliai yra dvigubas kryžius ir Gediminaičių
 
-Jų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos
+stulpai. Jų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos
 
 Prezidentas.
 
@@ -976,9 +992,9 @@ derina jų etalonus ir projektus su Lietuvos heraldikos komisija.
 
 6. Valstybės ir
 
-savivaldybių institucijos ir įstaigos, išduodančios oficialius dokumentus:
+savivaldybių institucijos ir įstaigos, išduodančios oficialius dokumentus: asmens
 
-asmens tapatybės korteles, pasus, valstybės tarnautojų pažymėjimus, vairuotojo
+tapatybės korteles, pasus, valstybės tarnautojų pažymėjimus, vairuotojo
 
 pažymėjimus ir kitus dokumentus, kuriuose yra naudojamas Lietuvos valstybės
 
@@ -1182,9 +1198,9 @@ istorinių herbų atkūrimo ir naujų herbų, taip pat herbinių vėliavų, herb
 
 ženklų, herbinių antspaudų kūrimo, naudojimo ir propagavimo klausimais, teikia
 
-metodinę paramą herbų, herbinių vėliavų, herbinių ženklų ir herbinių
+metodinę paramą herbų, herbinių vėliavų, herbinių ženklų ir herbinių antspaudų
 
-antspaudų kūrėjams ir tyrėjams.
+kūrėjams ir tyrėjams.
 
 3. Komisija,
 
@@ -1216,9 +1232,9 @@ pasitarimuose, kuriuose svarstomi su Lietuvos heraldika susiję
 
 klausimai, teikti pasiūlymus, kaip spręsti šiuos klausimus;
 
-4) rengti
+4) rengti heraldikos
 
-heraldikos leidinius ir parodas.
+leidinius ir parodas.
 
 4. Komisijos veiklą užtikrina Respublikos Prezidento
 
@@ -1260,6 +1276,14 @@ Prezidento institucijoje – Respublikos Prezidento kanceliarijos kancleris;
 
 Respublikos Vyriausybėje – Ministro Pirmininko kancleris;
 
+3
+
+punkto redakcija nuo 2013-05-01:
+
+3) Lietuvos
+
+Respublikos Vyriausybėje – Vyriausybės kancleris;
+
 4) Lietuvos
 
 Respublikos Konstituciniame Teisme, Lietuvos Aukščiausiajame Teisme, Lietuvos
@@ -1293,6 +1317,12 @@ Nr. XI-324,
 Nr. XI-745,
 
 2010-04-13, Žin., 2010, Nr. 48-2295 (2010-04-27)
+
+Nr.
+
+XII-158,
+
+2013-01-17, Žin., 2013, Nr. 11-502 (2013-01-30)
 
 16
 
@@ -1399,8 +1429,6 @@ VI. Lietuvos
 valstybės herbo adaptacija
 
 antspaudams
-
-___________________
 
 Pakeitimai:
 
@@ -1584,13 +1612,33 @@ HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMO 5 IR 8 STRAIPSNIŲ PAKEITIMO
 
 įstatymas įsigalioja 2011 m. rugpjūčio 1 d.
 
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-158,
+
+2013-01-17, Žin., 2013, Nr. 11-502 (2013-01-30)
+
+VALSTYBĖS
+
+HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMO 5 IR 15 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2013 m. gegužės 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušra Bodin (2011-06-06)
+Aušrinė Trapinskienė (2013-01-31)
 
-aubodi@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
