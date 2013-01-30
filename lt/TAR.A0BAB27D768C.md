@@ -4,7 +4,7 @@ identifier: "TAR.A0BAB27D768C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-12-19"
-last_updated: "2012-11-22"
+last_updated: "2013-01-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 department: "Lietuvos Respublikos Seimas"
@@ -2205,6 +2205,58 @@ Krizių valdymą reglamentuoja
 
 įstatymai ir kiti teisės aktai.
 
+Antrojo
+
+skirsnio redakcija nuo 2013-05-01:
+
+ANTRASIS SKIRSNIS
+
+KRIZIŲ VALDYMAS
+
+Krizių valdymo
+
+sistema kuriama ir plėtojama pavojų keliančioms bei ekstremalioms situacijoms
+
+ir kriziniams reiškiniams prognozuoti, stebėti, prevencinėms priemonėms
+
+parengti ir vykdyti, krizėms nustatyti bei valdyti, padariniams pašalinti.
+
+Krizių valdymo strategiją
+
+tvirtina Vyriausybė. Krizių valdymą koordinuoja Vyriausybės sudaromas Krizių
+
+valdymo komitetas, kuriam vadovauja Ministras Pirmininkas. Krizių valdymo
+
+komitetą sudaro svarbiausi su krizių valdymu susiję ministrai, Vyriausybės
+
+kancleris ar jo pirmasis pavaduotojas. Prireikus Krizių valdymo komitetas,
+
+atsižvelgdamas į krizės pobūdį, priima sprendimą siūlyti Vyriausybei iš
+
+atitinkamų ministerijų ir kitų valstybės institucijų atstovų sudaryti Jungtinį
+
+koordinavimo centrą krizei valdyti ir jos padarinių likvidavimui
+
+koordinuoti. Jungtinio koordinavimo centro nuostatus tvirtina Vyriausybė.
+
+Krizių prevenciją ir pasirengimą
+
+jas valdyti koordinuoja Vyriausybės kanceliarija. Vyriausybės kanceliarija
+
+koordinuoja integralių krizių ir ekstremalių situacijų prevencijos bei jų
+
+valdymo planų ir priemonių rengimą; ministerijos ir kitos valstybės
+
+institucijos pagal savo kompetenciją rengia šiuos planus ir priemones,
+
+numatydamos veiksmų koordinavimą su kitomis institucijomis. Integralius krizių
+
+ir ekstremalių situacijų valdymo planus ir priemones tvirtina Vyriausybė.
+
+Krizių valdymą reglamentuoja
+
+įstatymai ir kiti teisės aktai.
+
 Skyriaus
 
 pakeitimai:
@@ -2219,9 +2271,9 @@ IX-1524,
 
 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
-Nr. IX-2030, 2004-02-19,
+Nr. IX-2030,
 
-Žin., 2004, Nr. 39-1270 (2004-03-13)
+2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 Nr. XI-125,
 
@@ -2232,6 +2284,10 @@ Nr.
 XI-480,
 
 2009-11-12, Žin., 2009, Nr. 141-6203 (2009-11-28)
+
+Nr. XII-161,
+
+2013-01-17, Žin., 2013, Nr. 11-505 (2013-01-30)
 
 15 skyrius
 
@@ -2313,9 +2369,9 @@ Seimas skelbia nepaprastąją
 
 padėtį, įveda karo padėtį, skelbia mobilizaciją ar demobilizaciją, priima
 
-sprendimą panaudoti ginkluotąsias pajėgas, kai prireikia ginti Tėvynę arba vykdyti
+sprendimą panaudoti ginkluotąsias pajėgas, kai prireikia ginti Tėvynę arba
 
-tarptautinius Lietuvos įsipareigojimus.
+vykdyti tarptautinius Lietuvos įsipareigojimus.
 
 Ginkluoto užpuolimo atveju, kai
 
@@ -2475,9 +2531,9 @@ IX-1524,
 
 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
-Nr. IX-2030,
+Nr. IX-2030, 2004-02-19,
 
-2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 18 skyrius
 
@@ -2691,21 +2747,21 @@ saugumą, žmogaus teises ir laisves, palaikyti viešąją tvarką, kovoti su
 
 nusikalstamomis veikomis. Policijos funkcijas nustato įstatymas.
 
-Vidaus reikalų ministerijos
+Vidaus reikalų
 
-vidaus tarnybos daliniai reorganizuojami į Vidaus reikalų ministerijai
+ministerijos vidaus tarnybos daliniai reorganizuojami į Vidaus reikalų
 
-pavaldžią Viešojo saugumo tarnybą. Viešojo saugumo tarnybos veiklos pagrindus
+ministerijai pavaldžią Viešojo saugumo tarnybą. Viešojo saugumo tarnybos
 
-nustato įstatymas.
+veiklos pagrindus nustato įstatymas.
 
-Valstybės finansų
+Valstybės finansų sistemos
 
-sistemos apsaugą nuo nusikalstamo poveikio užtikrina Finansinių nusikaltimų
+apsaugą nuo nusikalstamo poveikio užtikrina Finansinių nusikaltimų tyrimo
 
-tyrimo tarnyba. Šios tarnybos teisinį statusą ir veiklos pagrindus
+tarnyba. Šios tarnybos teisinį statusą ir veiklos pagrindus reglamentuoja
 
-reglamentuoja įstatymas.
+įstatymas.
 
 Lietuvos Respublikos vadovybės ir
 
@@ -2885,11 +2941,11 @@ Civilinės saugos ir
 
 gelbėjimo sistemą, jos struktūrą, veiklos teisinius pagrindus, sistemai
 
-priklausančių institucijų pavaldumą, funkcijas, atsakomybę bei tarpusavio sąveiką,
+priklausančių institucijų pavaldumą, funkcijas, atsakomybę bei tarpusavio
 
-taip pat sąveiką su kitomis valstybės institucijomis nustato įstatymai ir kiti
+sąveiką, taip pat sąveiką su kitomis valstybės institucijomis nustato įstatymai
 
-teisės aktai.
+ir kiti teisės aktai.
 
 Jeigu reikia, katastrofoms ir
 
@@ -3129,7 +3185,9 @@ NACIONALINIO SAUGUMO PAGRINDŲ
 
 6.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+
+Įstatymas
 
 Nr. IX-1457,
 
@@ -3347,9 +3405,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-XI-1515,
+XI-1515, 2011-06-23,
 
-2011-06-23, Žin., 2011, Nr. 86-4157 (2011-07-13)
+Žin., 2011, Nr. 86-4157 (2011-07-13)
 
 NACIONALINIO
 
@@ -3379,15 +3437,33 @@ PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 
 3 straipsnį, įsigalioja 2013 m. liepos 1 d.
 
+21.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-161,
+
+2013-01-17, Žin., 2013, Nr. 11-505 (2013-01-30)
+
+NACIONALINIO
+
+SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO III DALIES 14 SKYRIAUS ANTROJO SKIRSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja 2013 m. gegužės 1 d.
+
 *** Pabaiga ***
 
 Redagavo Aušrinė
 
-Trapinskienė (2012-11-27)
+Trapinskienė (2013-02-01)
 
 ausrine.trapinskiene@lrs.lt
-
-1
 
 – Konstitucijos 135 straipsnis, įpareigojantis Lietuvos Respubliką
 
