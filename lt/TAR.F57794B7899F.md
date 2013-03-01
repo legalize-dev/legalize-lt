@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2012-07-01"
+last_updated: "2013-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2012-07-01 iki 2013-02-28
+Suvestinė redakcija nuo 2013-03-01 iki 2014-03-19
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -508,7 +508,11 @@ Elektros energetikos sektorių sudaro elektros energijos vartotojai, gamintojai,
 
 7. Leidimas gaminti elektros energiją paskirstytosios gamybos atveju yra išduodamas Vyriausybės ar jos įgaliotos institucijos nustatyta supaprastinta tvarka, atsižvelgiant į paskirstytosios gamybos ribotą apimtį ir galimą poveikį elektros energetikos sistemos patikimumui.
 
-8. Asmenims, numatantiems gaminti elektros energiją tik savo reikmėms, kai jų turimų elektros gamybos pajėgumų įrengtoji suminė (elektrinė ir šiluminė) galia neviršija 30 kW, leidimas gaminti elektros energiją išduodamas supaprastinta tvarka pagal Vyriausybės ar jos įgaliotos institucijos patvirtintas Veiklos elektros energetikos sektoriuje leidimų išdavimo taisykles.
+8. Asmenims, numatantiems gaminti elektros energiją tik savo reikmėms ir ūkio poreikiams, kai jų turimų elektros energijos gamybos pajėgumų įrengtoji galia neviršija 10 kW, leidimas gaminti elektros energiją išduodamas supaprastinta tvarka pagal Vyriausybės ar jos įgaliotos institucijos patvirtintas Veiklos elektros energetikos sektoriuje leidimų išdavimo taisykles.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-171, 2013-01-17, Žin., 2013, Nr. 12-562 (2013-02-01), i. k. 1131010ISTA0XII-171
 
 9. Leidimas plėtoti elektros energijos gamybos pajėgumus išduodamas asmenims, atitinkantiems šio straipsnio 5 dalyje nustatytą reikalavimą ir šio įstatymo 21 straipsnio 2 dalyje nustatytus reikalavimus, ir:
 
@@ -520,7 +524,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XI-2095, 2012-06-21, Žin., 2012, Nr. 76-3938 (2012-06-30), i. k. 1121010ISTA0XI-2095
 
-10. Asmenims, numatantiems plėsti (įrengti) elektros energijos gamybos pajėgumus, kurių įrengtoji suminė (elektrinė ir šiluminė) galia neviršija 30 kW, leidimas plėtoti elektros energijos gamybos pajėgumus išduodamas supaprastinta tvarka pagal Vyriausybės ar jos įgaliotos institucijos patvirtintas Veiklos elektros energetikos sektoriuje leidimų išdavimo taisykles.
+10. Leidimas plėtoti elektros energijos gamybos pajėgumus nereikalingas, jeigu asmuo numato plėsti (įrengti) elektros energijos gamybos pajėgumus, kurių įrengtoji galia neviršija 10 kW, ir juose gaminti elektros energiją tik savo reikmėms ir ūkio poreikiams. Asmuo, numatantis plėsti (įrengti) ne didesnės kaip 10 kW įrengtosios galios elektros energijos gamybos pajėgumus, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apie tai privalo informuoti tinklų operatorių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-171, 2013-01-17, Žin., 2013, Nr. 12-562 (2013-02-01), i. k. 1131010ISTA0XII-171
 
 11. Leidimas tiesti tiesioginę liniją išduodamas asmenims, atitinkantiems šio straipsnio 5 dalyje nustatytą reikalavimą ir šio įstatymo 70 straipsnyje nustatytus reikalavimus.
 
