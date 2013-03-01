@@ -4,7 +4,7 @@ identifier: "TAR.4CF08CA2BA45"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-05-10"
-last_updated: "2012-05-19"
+last_updated: "2013-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4CF08CA2BA45"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ BANKROTO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2012-05-19 iki 2013-02-28
+Suvestinė redakcija nuo 2013-03-01 iki 2013-04-03
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 57-2823, i. k. 1121010ISTA0XI-2000
 
@@ -832,16 +832,4 @@ priedas
 1. 2000 m. gegužės 29 d. Tarybos reglamentas (EB) Nr. 1346/2000 dėl bankroto bylų (OL 2004 m. specialusis leidimas, 19 skyrius, 1 tomas, p. 191) su paskutiniais pakeitimais, padarytais 2010 m. vasario 25 d. Tarybos įgyvendinimo reglamentu (ES) Nr. 210/2010 (OL 2010 L 65, p. 1).
 
 _________________
-
-41 straipsnis. Fizinių asmenų bankrotas pagal vieną bylą
-
-1. Bendro turto ir (ar) bendrų prievolių kreditoriams siejami fiziniai asmenys gali bankrutuoti pagal vieną bylą.
-
-2. Bankrutuoti pagal vieną bylą siekiantys asmenys gali teismui pateikti bendrą pareiškimą iškelti jiems bankroto bylą ar iki mokumo atkūrimo plano patvirtinimo kito fizinio asmens inicijuotoje byloje pateikti teismui prašymą įstoti į bylą.
-
-3. Teismas nepriima fizinio asmens prašymo įstoti į bylą arba kelių asmenų pateiktą bendrą pareiškimą iškelti bankroto bylą išskiria į atskiras bylas, kai nusprendžia, kad šie bankrutuoti pagal vieną bylą siekiantys fiziniai asmenys nėra siejami bendro turto ir (ar) bendrų prievolių kreditoriams.
-
-Papildyta straipsniu:
-
-Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 
