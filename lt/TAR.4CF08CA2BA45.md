@@ -4,7 +4,7 @@ identifier: "TAR.4CF08CA2BA45"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-05-10"
-last_updated: "2013-03-01"
+last_updated: "2013-04-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4CF08CA2BA45"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ BANKROTO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2013-03-01 iki 2013-04-03
+Suvestinė redakcija nuo 2013-04-04 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 57-2823, i. k. 1121010ISTA0XI-2000
 
@@ -81,7 +81,13 @@ FIZINIO ASMENS BANKROTO PROCESAS
 
 4 straipsnis. Fizinio asmens pareiškimas iškelti bankroto bylą
 
-1. Fizinis asmuo pareiškimą iškelti bankroto bylą pateikia vietovės, kurioje yra fizinio asmens gyvenamoji vieta, apygardos teismui Lietuvos Respublikos civilinio proceso kodekso (toliau – Civilinio proceso kodeksas) nustatyta tvarka.
+1. Fizinis asmuo pareiškimą iškelti bankroto bylą pateikia vietovės, kurioje yra fizinio asmens gyvenamoji vieta, apylinkės teismui Lietuvos Respublikos civilinio proceso kodekso (toliau – Civilinio proceso kodeksas) nustatyta tvarka.
+
+TAR pastaba. Iki įstatymo Nr. XII-217 įsigaliojimo pradėtos nagrinėti fizinių asmenų bankroto bylos baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis fizinių asmenų bankroto bylų nagrinėjimą reglamentuojančiomis nuostatomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-217, 2013-03-28, Žin., 2013, Nr. 35-1693 (2013-04-04), i. k. 1131010ISTA0XII-217
 
 2. Ketindamas pateikti pareiškimą iškelti bankroto bylą, fizinis asmuo, kurio būklė atitinka šio įstatymo 2 straipsnio 2 dalyje nurodytąją, ne vėliau kaip prieš mėnesį iki pareiškimo iškelti bankroto bylą pateikimo dienos apie tai raštu praneša visiems kreditoriams.
 
@@ -832,4 +838,14 @@ priedas
 1. 2000 m. gegužės 29 d. Tarybos reglamentas (EB) Nr. 1346/2000 dėl bankroto bylų (OL 2004 m. specialusis leidimas, 19 skyrius, 1 tomas, p. 191) su paskutiniais pakeitimais, padarytais 2010 m. vasario 25 d. Tarybos įgyvendinimo reglamentu (ES) Nr. 210/2010 (OL 2010 L 65, p. 1).
 
 _________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-217, 2013-03-28, Žin., 2013, Nr. 35-1693 (2013-04-04), i. k. 1131010ISTA0XII-217
+
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo 4 straipsnio pakeitimo įstatymas
 
