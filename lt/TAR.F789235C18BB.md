@@ -4,7 +4,7 @@ identifier: "TAR.F789235C18BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-12-10"
-last_updated: "2010-07-01"
+last_updated: "2013-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F789235C18BB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2013-04-30
+Suvestinė redakcija nuo 2013-05-01 iki 2018-05-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5540, i. k. 1021010ISTA0IX-1253
 
@@ -151,7 +151,7 @@ Nr. X-1293, 2007-10-11, Žin., 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010IST
 
 6 straipsnis. Vidaus audito tarnybos steigimas
 
-1. Vidaus audito tarnybos arba centralizuotos vidaus audito tarnybos turi būti įsteigtos Respublikos Prezidento institucijoje, Seimo kanceliarijoje, Ministro Pirmininko tarnyboje ir ministerijose. Savivaldybėse turi būti įsteigtos centralizuotos vidaus audito tarnybos.
+1. Vidaus audito tarnybos arba centralizuotos vidaus audito tarnybos turi būti įsteigtos Respublikos Prezidento kanceliarijoje, Seimo kanceliarijoje, Vyriausybės kanceliarijoje ir ministerijose. Savivaldybėse turi būti įsteigtos centralizuotos vidaus audito tarnybos.
 
 Straipsnio dalies pakeitimai:
 
@@ -162,6 +162,8 @@ Nr. X-1293, 2007-10-11, Žin., 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010IST
 Nr. XI-326, 2009-07-07, Žin., 2009, Nr. 85-3583 (2009-07-18), i. k. 1091010ISTA00XI-326
 
 Nr. XI-707, 2010-03-30, Žin., 2010, Nr. 41-1932 (2010-04-10), i. k. 1101010ISTA00XI-707
+
+Nr. XII-160, 2013-01-17, Žin., 2013, Nr. 11-504 (2013-01-30), i. k. 1131010ISTA0XII-160
 
 2. Viešuosiuose juridiniuose asmenyse, išskyrus šio straipsnio 1 dalyje nurodytus viešuosius juridinius asmenis, vidaus audito tarnyba turi būti įsteigta, jeigu juose patvirtinta ne mažiau kaip 200 pareigybių (etatų), įskaitant jiems pavaldžių arba jų valdymo sričiai priskirtų viešųjų juridinių asmenų patvirtintas pareigybes (etatus).
 
@@ -408,4 +410,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-707, 2010-03-30, Žin., 2010, Nr. 41-1932 (2010-04-10), i. k. 1101010ISTA00XI-707
 
 Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-160, 2013-01-17, Žin., 2013, Nr. 11-504 (2013-01-30), i. k. 1131010ISTA0XII-160
+
+Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 straipsnio pakeitimo įstatymas
 
