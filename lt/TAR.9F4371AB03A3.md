@@ -4,7 +4,7 @@ identifier: "TAR.9F4371AB03A3"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-18"
-last_updated: "2012-11-15"
+last_updated: "2013-05-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 department: "Lietuvos Respublikos Seimas"
@@ -546,13 +546,33 @@ ADVOKATŪROS
 
 1 d.
 
+8.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XII-272,
+
+2013-05-09, Žin., 2013, Nr. 54-2677 (2013-05-25)
+
+ADVOKATŪROS
+
+ĮSTATYMO 50 IR 60 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2014 m. sausio
+
+1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2012-11-16)
+Aušrinė Trapinskienė (2013-05-30)
 
 ausrine.trapinskiene@lrs.lt
 
@@ -2709,20 +2729,6 @@ ministerija.
 straipsnis.
 
 Kiti advokatų veiklos apribojimai
-
-1. Advokatas,
-
-įrašytas į Lietuvos praktikuojančių advokatų sąrašą, negali dalyvauti
-
-operatyvinėje veikloje, dirbti ar eiti kitas mokamas pareigas, išskyrus darbą
-
-Lietuvos advokatūroje ir mokslinę, kūrybinę ar pedagoginę veiklą, taip pat šio
-
-Įstatymo 4 straipsnio 4 dalyje nurodytą veiklą.
-
-1
-
-dalies redakcija nuo 2013-01-01:
 
 1. Advokatas,
 
@@ -5514,6 +5520,18 @@ teisines paslaugas ir iš atlyginimo už suteiktą valstybės garantuojamą teis
 
 pagalbą.
 
+Dalies redakcija nuo 2014-01-01:
+
+4. Advokato
+
+veiklos išlaidos apmokamos iš advokato užmokesčio už pagal sutartį suteiktas
+
+teisines paslaugas. Valstybės garantuojamą teisinę pagalbą teikiančių advokatų
+
+veiklos išlaidos apmokamos valstybės garantuojamos teisinės pagalbos teikimą
+
+reglamentuojančių teisės aktų nustatyta tvarka.
+
 5. Advokatas
 
 kliento vardu ir iš kliento lėšų turi teisę mokėti žyminį mokestį, valstybės
@@ -5525,6 +5543,12 @@ advokatų saugomos, bet kitiems asmenims priklausančios lėšos, apskaitomos
 atskirai ir laikomos advokatų depozitinėse sąskaitose. Išieškoti iš šiose
 
 sąskaitose esančių lėšų pagal advokato prievoles draudžiama.
+
+Straipsnio pakeitimai:
+
+Nr. XII-272,
+
+2013-05-09, Žin., 2013, Nr. 54-2677 (2013-05-25)
 
 51
 
@@ -5578,9 +5602,9 @@ iškelti drausmės bylą priima Lietuvos advokatūra arba teisingumo ministras.
 
 drausmės bylas nagrinėja Advokatų garbės teismas. Kai Lietuvos advokatūra
 
-sprendžia klausimą dėl drausmės bylos iškėlimo ir kai byla nagrinėjama, turi teisę
+sprendžia klausimą dėl drausmės bylos iškėlimo ir kai byla nagrinėjama, turi
 
-dalyvauti ir asmuo, kuris kreipėsi dėl drausmės bylos iškėlimo.
+teisę dalyvauti ir asmuo, kuris kreipėsi dėl drausmės bylos iškėlimo.
 
 4. Advokatų
 
@@ -5786,7 +5810,9 @@ taryba;
 
 garbės teismas;
 
-4) revizijos komisija.
+4) revizijos
+
+komisija.
 
 2. Tas pats
 
@@ -5812,13 +5838,13 @@ straipsnis. Visuotinis advokatų susirinkimas
 
 advokatų susirinkimas yra aukščiausias Lietuvos advokatūros organas.
 
-2. Visuotinis advokatų
+2. Visuotinis
 
-susirinkimas:
+advokatų susirinkimas:
 
-1) nustato
+1) nustato advokatų
 
-advokatų tarybos bei revizijos komisijos narių skaičių;
+tarybos bei revizijos komisijos narių skaičių;
 
 2) renka
 
@@ -5960,9 +5986,9 @@ teisės verstis advokato veikla liudijimą;
 
 advokatų darbo vietų sąrašą, nustato leidimų kurti darbo vietas tuose pačiuose
 
-pastatuose, kuriuose jau yra policijos, prokuratūros, teismo įstaigos,
+pastatuose, kuriuose jau yra policijos, prokuratūros, teismo įstaigos, suteikimo
 
-suteikimo tvarką;
+tvarką;
 
 7) priima
 
@@ -6022,6 +6048,16 @@ antrinės teisinės pagalbos kokybės vertinimo taisykles, kurias tvirtina
 
 Lietuvos advokatūra, suderinusi su Teisingumo ministerija;
 
+Punkto redakcija nuo 2014-01-01:
+
+15) organizuoja
+
+antrinę teisinę pagalbą teikiančių advokatų, advokatų padėjėjų veiklos kokybės
+
+tikrinimą pagal Lietuvos advokatūros patvirtintas antrinės teisinės pagalbos
+
+kokybės vertinimo taisykles;
+
 16) nustato šio
 
 Įstatymo 26 straipsnio 3 dalyje, 27 straipsnio 2 dalyje ir 28 straipsnio 3
@@ -6045,6 +6081,10 @@ Straipsnio pakeitimai:
 Nr. X-1494,
 
 2008-04-15, Žin., 2008, Nr. 50-1843 (2008-04-30)
+
+Nr. XII-272,
+
+2013-05-09, Žin., 2013, Nr. 54-2677 (2013-05-25)
 
 61
 
@@ -6076,9 +6116,7 @@ garbės teismo įgaliojimų laikas – treji metai.
 
 4. Advokatų
 
-garbės teismas gali nagrinėti bylas, jeigu yra paskirti bent trys teismo
-
-nariai.
+garbės teismas gali nagrinėti bylas, jeigu yra paskirti bent trys teismo nariai.
 
 5. Susirinkę į
 
@@ -6192,17 +6230,17 @@ Lietuvos Respublikos įstatymų nustatytomis teisėmis dėl teisinių paslaugų
 
 teikimo.
 
-4. Šio straipsnio
+4. Šio
 
-1 dalyje nurodytas Europos Sąjungos valstybės narės teisininkas, atstovaudamas
+straipsnio 1 dalyje nurodytas Europos Sąjungos valstybės narės teisininkas,
 
-klientams teisme ar valstybės ir savivaldybių institucijose bei įstaigose,
+atstovaudamas klientams teisme ar valstybės ir savivaldybių institucijose bei
 
-privalo, be Europos Sąjungos valstybės narės, kuri suteikė jam teisininko
+įstaigose, privalo, be Europos Sąjungos valstybės narės, kuri suteikė jam
 
-profesinį vardą, teisės aktų reikalavimų, laikytis Lietuvos Respublikos
+teisininko profesinį vardą, teisės aktų reikalavimų, laikytis Lietuvos
 
-įstatymų ir Lietuvos advokatų etikos kodekso reikalavimų.
+Respublikos įstatymų ir Lietuvos advokatų etikos kodekso reikalavimų.
 
 5. Šio
 
@@ -6298,9 +6336,9 @@ Sąjungos valstybės narės teisininką, pageidaujantį teikti nuolatines teisin
 
 paslaugas Lietuvos Respublikoje, registruoja Lietuvos advokatūra.
 
-3. Europos
+3. Europos Sąjungos
 
-Sąjungos valstybės narės teisininkas, pageidaujantis teikti nuolatines teisines
+valstybės narės teisininkas, pageidaujantis teikti nuolatines teisines
 
 paslaugas Lietuvos Respublikoje, Lietuvos advokatūrai pateikia prašymą. Kartu
 
@@ -6580,43 +6618,43 @@ nustatyta drausmine tvarka. Be šio Įstatymo 53 straipsnio 1–3 punktuose
 
 numatytų nuobaudų, Europos Sąjungos valstybės narės teisininkui taikoma
 
-nuobauda – Europos Sąjungos valstybės narės teisininko išregistravimas iš
+nuobauda – Europos Sąjungos valstybės narės teisininko išregistravimas iš Europos
 
-Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines
+Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines
 
-teisines paslaugas Lietuvos Respublikoje, sąrašo. Lietuvos advokatūros
+paslaugas Lietuvos Respublikoje, sąrašo. Lietuvos advokatūros sprendimai dėl
 
-sprendimai dėl drausminės nuobaudos taikymo Europos Sąjungos valstybės narės
+drausminės nuobaudos taikymo Europos Sąjungos valstybės narės teisininkui,
 
-teisininkui, turinčiam teisę teikti nuolatines teisines paslaugas Lietuvos
+turinčiam teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje savo
 
-Respublikoje savo valstybės kompetentingos institucijos suteiktu teisininko
+valstybės kompetentingos institucijos suteiktu teisininko profesiniu vardu,
 
-profesiniu vardu, turi būti motyvuoti.
+turi būti motyvuoti.
 
 2. Prieš
 
 drausmės bylos Europos Sąjungos valstybės narės teisininkui, turinčiam teisę
 
-teikti nuolatines teisines paslaugas Lietuvos Respublikoje savo valstybės kompetentingos
+teikti nuolatines teisines paslaugas Lietuvos Respublikoje savo valstybės
 
-institucijos suteiktu teisininko profesiniu vardu, iškėlimą Lietuvos advokatūra
+kompetentingos institucijos suteiktu teisininko profesiniu vardu, iškėlimą
 
-privalo apie ketinimą iškelti drausmės bylą pranešti Europos Sąjungos valstybės
+Lietuvos advokatūra privalo apie ketinimą iškelti drausmės bylą pranešti
 
-narės, kuri suteikė jam teisininko profesinį vardą, kompetentingai institucijai
+Europos Sąjungos valstybės narės, kuri suteikė jam teisininko profesinį vardą,
 
-ir pateikti visą su tuo tiesiogiai susijusią informaciją. Lietuvos advokatūra
+kompetentingai institucijai ir pateikti visą su tuo tiesiogiai susijusią
 
-per drausmės bylos nagrinėjimo laikotarpį privalo bendradarbiauti su Europos
+informaciją. Lietuvos advokatūra per drausmės bylos nagrinėjimo laikotarpį
 
-Sąjungos valstybės narės, kuri suteikė Europos Sąjungos valstybės narės
+privalo bendradarbiauti su Europos Sąjungos valstybės narės, kuri suteikė
 
-teisininkui teisininko profesinį vardą, kompetentinga institucija. Šiai
+Europos Sąjungos valstybės narės teisininkui teisininko profesinį vardą,
 
-institucijai taip pat turi būti išsiųsta informacija apie Advokatų garbės
+kompetentinga institucija. Šiai institucijai taip pat turi būti išsiųsta
 
-teismo priimtą sprendimą dėl tokio teisininko.
+informacija apie Advokatų garbės teismo priimtą sprendimą dėl tokio teisininko.
 
 3. Drausmės
 
@@ -6636,13 +6674,13 @@ teisininkui teisininko profesinį vardą, kompetentinga institucija laikinai
 
 sustabdo ar panaikina Europos Sąjungos valstybės narės teisininko teisę teikti
 
-teisines paslaugas (verstis teisininko praktika), Europos Sąjungos valstybės narės
+teisines paslaugas (verstis teisininko praktika), Europos Sąjungos valstybės
 
-teisininkas neturi teisės teikti teisinių paslaugų ir Lietuvos Respublikoje.
+narės teisininkas neturi teisės teikti teisinių paslaugų ir Lietuvos
 
-Gavusi Europos Sąjungos valstybės narės teisininko pranešimą ar Europos
+Respublikoje. Gavusi Europos Sąjungos valstybės narės teisininko pranešimą ar
 
-Sąjungos valstybės narės, kuri suteikė Europos Sąjungos valstybės narės
+Europos Sąjungos valstybės narės, kuri suteikė Europos Sąjungos valstybės narės
 
 teisininkui teisininko profesinį vardą, kompetentingos institucijos informaciją
 
@@ -6656,13 +6694,13 @@ Respublikoje, sąrašo. Jei teisė teikti teisines paslaugas (verstis teisininko
 
 praktika) yra sustabdyta laikinai, Lietuvos advokatūra pagal Europos Sąjungos
 
-valstybės narės teisininko prašymą, pasibaigus tos teisės sustabdymo laikotarpiui,
+valstybės narės teisininko prašymą, pasibaigus tos teisės sustabdymo
 
-įregistruoja Europos Sąjungos valstybės narės teisininką į Europos Sąjungos
+laikotarpiui, įregistruoja Europos Sąjungos valstybės narės teisininką į
 
-valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas
+Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines
 
-Lietuvos Respublikoje, sąrašą.
+teisines paslaugas Lietuvos Respublikoje, sąrašą.
 
 68 straipsnis. Lietuvos advokato
 
@@ -6716,11 +6754,11 @@ sąrašą;
 
 advokatūra turi teisę patikrinti suteiktų nuolatinių teisinių paslaugų
 
-veiksmingumą ir reguliarumą ir prireikus prašyti teisininko raštu ar žodžiu pateikti
+veiksmingumą ir reguliarumą ir prireikus prašyti teisininko raštu ar žodžiu
 
-paaiškinimus apie pateiktą informaciją ar dokumentus arba pateikti papildomą
+pateikti paaiškinimus apie pateiktą informaciją ar dokumentus arba pateikti
 
-detalesnę informaciją.
+papildomą detalesnę informaciją.
 
 3. Lietuvos
 
@@ -6774,11 +6812,11 @@ pripažinti Europos Sąjungos valstybės narės teisininką Lietuvos advokatu ir
 
 Įstatymo nustatyta tvarka įrašyti į Lietuvos praktikuojančių advokatų sąrašą
 
-priimti Lietuvos advokatūra įvertina reguliarių ir veiksmingų nuolatinių
+priimti Lietuvos advokatūra įvertina reguliarių ir veiksmingų nuolatinių teisinių
 
-teisinių paslaugų teikimą šio straipsnio 1 dalyje nurodytu laikotarpiu, bet
+paslaugų teikimą šio straipsnio 1 dalyje nurodytu laikotarpiu, bet kokias
 
-kokias žinias ir profesinę patirtį pagal Lietuvos nacionalinę teisę, taip pat
+žinias ir profesinę patirtį pagal Lietuvos nacionalinę teisę, taip pat
 
 dalyvavimą paskaitose ar seminaruose apie Lietuvos nacionalinę teisę, įskaitant
 
@@ -6868,15 +6906,15 @@ institucijomis, teikiančiomis Europos Sąjungos valstybių narių teisininkams
 
 teisininko profesinius vardus
 
-Lietuvos advokatūra,
+Lietuvos
 
-įgyvendindama teisininkų veiklą reglamentuojančių Europos Sąjungos teisės aktų
+advokatūra, įgyvendindama teisininkų veiklą reglamentuojančių Europos Sąjungos
 
-nuostatas, privalo bendradarbiauti su Europos Sąjungos valstybių narių, kurios
+teisės aktų nuostatas, privalo bendradarbiauti su Europos Sąjungos valstybių
 
-suteikė Europos Sąjungos teisininkams teisininko profesinius vardus,
+narių, kurios suteikė Europos Sąjungos teisininkams teisininko profesinius
 
-kompetentingomis institucijomis ir teikti joms reikiamą pagalbą.
+vardus, kompetentingomis institucijomis ir teikti joms reikiamą pagalbą.
 
 KETURIOLIKTASIS
 
@@ -6894,9 +6932,9 @@ NUOSTATOS
 
 įgyvendinimo įstatymą.
 
-Skelbiu šį Lietuvos
+Skelbiu šį
 
-Respublikos Seimo priimtą įstatymą.
+Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                           ROLANDAS
 
