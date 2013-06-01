@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2011-06-30"
+last_updated: "2013-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -64,9 +64,9 @@ teikiamas paslaugas.
 
 2. Institucijų
 
-teikiamos paslaugos - juridinę galią turinčių dokumentų bei jų dublikatų
+teikiamos paslaugos - juridinę galią turinčių dokumentų bei jų dublikatų išdavimas,
 
-išdavimas, taip pat jų perregistravimas ir kitos paslaugos.
+taip pat jų perregistravimas ir kitos paslaugos.
 
 3. Vietinė
 
@@ -346,9 +346,31 @@ vietas automobiliams statyti prie valstybinės reikšmės kelių, 5–15 m pažy
 
 atkarpoje prie valstybės įstaigų, institucijų ir tarnybų, taip pat vietas,
 
-kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar kitus
+kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar
 
-viešuosius interesus užtikrinančius reikalavimus);
+kitus viešuosius interesus užtikrinančius reikalavimus);
+
+Punkto redakcija
+
+nuo 2014-01-01:
+
+6) naudojimąsi savivaldybių tarybų nustatytomis vietomis
+
+automobiliams statyti (išskyrus vietas automobiliams statyti prie valstybinės
+
+reikšmės kelių, 5–15 m pažymėtoje atkarpoje prie valstybės įstaigų, institucijų
+
+ir tarnybų, taip pat vietas, kurias nustato Vyriausybė, atsižvelgdama į
+
+saugumą, tarptautinį protokolą ar kitus viešuosius interesus užtikrinančius
+
+reikalavimus; taip pat išskyrus
+
+automobilių, pažymėtų neįgalių asmenų automobilių statymo kortele, statymą
+
+savivaldybių tarybų nustatytose nerezervuotose mokamose vietose automobiliams
+
+statyti);
 
 7) gyvūnų (šunų,
 
@@ -412,6 +434,12 @@ X-1277,
 
 2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
 
+Nr.
+
+XII-304,
+
+2013-05-14, Žin., 2013, Nr. 57-2848 (2013-06-01)
+
 12
 
 straipsnis. Vietinių rinkliavų nustatymas
@@ -420,9 +448,9 @@ Savivaldybės
 
 taryba savo sprendimu:
 
-1) nustato vietinę
+1) nustato
 
-rinkliavą;
+vietinę rinkliavą;
 
 2) tvirtina
 
@@ -585,8 +613,6 @@ Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
-
-_________________
 
 Pakeitimai:
 
@@ -836,11 +862,33 @@ RINKLIAVŲ ĮSTATYMO 8 STRAIPSNIO
 
 PAKEITIMO ĮSTATYMAS
 
-*** Pabaiga ***
+16.
 
-Redagavo Aušrinė Trapinskienė
+Lietuvos
 
-(2011-06-30)
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XII-304,
+
+2013-05-14, Žin., 2013, Nr. 57-2848 (2013-06-01)
+
+RINKLIAVŲ
+
+ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2014 m.
+
+sausio 1 d.
+
+***
+
+Pabaiga ***
+
+Redagavo
+
+Aušrinė Trapinskienė (2013-06-06)
 
 ausrine.trapinskiene@lrs.lt
 
@@ -1634,11 +1682,11 @@ civilinės aviacijos specialisto licencijos (kvalifikacijos) atnaujinimą,
 
 pirmos, antros ir trečios klasės sveikatos pažymėjimo išdavimą darbuotojams,
 
-kurie atlieka valstybinę civilinės aviacijos priežiūrą, ir civilinės aviacijos specialisto
+kurie atlieka valstybinę civilinės aviacijos priežiūrą, ir civilinės aviacijos
 
-licencijos išdavimą studentams, kurie, atlikdami praktiką, privalo turėti
+specialisto licencijos išdavimą studentams, kurie, atlikdami praktiką, privalo
 
-galiojančią atitinkamą civilinės aviacijos specialisto licenciją;
+turėti galiojančią atitinkamą civilinės aviacijos specialisto licenciją;
 
 21) jūrininkų
 
@@ -1712,9 +1760,9 @@ Nr. X-1491,
 
 Nr.
 
-X-1811, 2008-11-13,
+X-1811,
 
-Žin., 2008, Nr. 135-5242 (2008-11-25)
+2008-11-13, Žin., 2008, Nr. 135-5242 (2008-11-25)
 
 7 straipsnis. Valstybės
 
@@ -1806,9 +1854,9 @@ papildytas straipsniu:
 
 Nr.
 
-X-1301,
+X-1301, 2007-10-18,
 
-2007-10-18, Žin., 2007, Nr. 114-4632 (2007-11-08)
+Žin., 2007, Nr. 114-4632 (2007-11-08)
 
 Straipsnio pakeitimai:
 
