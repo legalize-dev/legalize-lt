@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2011-07-19"
+last_updated: "2013-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -251,7 +251,53 @@ institucijų įsteigtus juridinius asmenis), kurie įsteigti teisės aktų nusta
 
 tvarka ir skatina aplinkos apsaugą, visais atvejais laikomi suinteresuotais
 
-asmenimis.
+asmenimis;
+
+23) taršos integruotos prevencijos ir kontrolės
+
+leidimas – rašytinis dokumentas, kuriame, siekiant išvengti
+
+pramoninės veiklos sukeliamos taršos, ją sumažinti ar pašalinti, nustatoma
+
+veiklos sąlygų sistema, apimanti poveikio aplinkos elementams kontrolę, ir
+
+kuriuo suteikiama teisė eksploatuoti visą įrenginį, kurą deginantį įrenginį,
+
+atliekų deginimo įrenginį, bendro atliekų deginimo įrenginį, atitinkantį
+
+aplinkos ministro patvirtintose Taršos integruotos prevencijos ir kontrolės
+
+leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisyklėse nustatytus
+
+kriterijus, arba aplinkos ministro nustatyta tvarka tokio įrenginio dalį ar
+
+kelis tokius įrenginius ar jų dalis. Įrenginio, kurą deginančio įrenginio,
+
+atliekų deginimo įrenginio, bendro atliekų deginimo įrenginio sąvokas apibrėžia
+
+aplinkos ministras;
+
+24) taršos leidimas – rašytinis dokumentas,
+
+kuriuo suteikiama teisė eksploatuoti visą įrenginį, atitinkantį aplinkos
+
+ministro patvirtintose Taršos leidimų išdavimo, pakeitimo ir galiojimo
+
+panaikinimo taisyklėse nustatytus kriterijus, arba aplinkos ministro nustatyta
+
+tvarka tokio įrenginio dalį ar kelis tokius įrenginius ar jų dalis, kuriems
+
+netaikomas reikalavimas turėti šio straipsnio 23 punkte nurodytą leidimą, bet
+
+kurių taršos šaltinius būtina kontroliuoti, ir kuriame nustatomos aplinkosauginės
+
+sąlygos nurodytiems įrenginiams eksploatuoti;
+
+25) aplinkos kokybės norma – teisės aktuose
+
+nustatyti reikalavimai, kuriuos konkrečiu laikotarpiu turi atitikti aplinka
+
+arba konkreti jos dalis.
 
 Straipsnio pakeitimai:
 
@@ -281,6 +327,12 @@ Nr. XI-858,
 
 2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
 
+Nr.
+
+XII-287,
+
+2013-05-09, Žin., 2013, Nr. 55-2727 (2013-05-28)
+
 2 straipsnis. Įstatymo paskirtis
 
 Šis
@@ -293,9 +345,9 @@ Respublikai būdingą biologinę įvairovę, ekologines sistemas bei kraštovaiz
 
 užtikrinant sveiką ir švarią aplinką, racionalų gamtos išteklių naudojimą
 
-Lietuvos Respublikoje, jos teritoriniuose vandenyse, kontinentiniame šelfe ir
+Lietuvos Respublikoje, jos teritoriniuose vandenyse, kontinentiniame šelfe ir ekonominėje
 
-ekonominėje zonoje.
+zonoje.
 
 Šio įstatymo pagrindu priimami kiti gamtos išteklių
 
@@ -439,9 +491,11 @@ politiką, sistemą;
 
 institucijų veiklą aplinkos apsaugos ir gamtos išteklių naudojimo srityje;
 
-4) sudaro ir įgyvendina Lietuvos Respublikos tarpvalstybines
+4) sudaro ir įgyvendina Lietuvos Respublikos
 
-sutartis aplinkos apsaugos ir gamtos išteklių naudojimo srityje;
+tarpvalstybines sutartis aplinkos apsaugos ir gamtos išteklių naudojimo
+
+srityje;
 
 5) vykdo kitas įstatymų nustatytas funkcijas.
 
@@ -516,18 +570,6 @@ bei gausinimu, reglamentuoja augalų, gyvūnų medžioklės ir žūklės trofėj
 įvežimo, išvežimo, tranzito, tarptautinės prekybos retomis ir nykstančiomis
 
 augalų ir gyvūnų rūšimis, taip pat gyvūnų laikymo nelaisvėje tvarką;
-
-8) nustato ir kontroliuoja išmetamų (išleidžiamų,
-
-paskleidžiamų) į aplinką teršalų (ir radioaktyviųjų medžiagų) normas bei
-
-apskaitos tvarką, nustato leidimų išmesti (išleisti, paskleisti) teršalus (ir
-
-radioaktyvąsias medžiagas) išdavimo tvarką;
-
-8 punkto redakcija nuo 2011 m.
-
-spalio 1 d.:
 
 8) nustato ir kontroliuoja išmetamų (išleidžiamų,
 
@@ -755,11 +797,11 @@ poveikio aplinkai vertinimą;
 
 vykdant visuomeninę aplinkos kontrolę;
 
-7) reikalauti, kad valstybės
+7) reikalauti, kad valstybės valdžios
 
-valdžios ir valdymo institucijos organizuotų aplinkosauginį švietimą ir mokymą,
+ir valdymo institucijos organizuotų aplinkosauginį švietimą ir mokymą, taip pat
 
-taip pat nevaržomai skleisti aplinkos apsaugos idėjas;
+nevaržomai skleisti aplinkos apsaugos idėjas;
 
 8) Lietuvos Respublikos
 
@@ -797,7 +839,9 @@ Lietuvos Respublikos įstatymų nustatyta tvarka kreiptis į teismą dėl viešo
 
 intereso gynimo užginčijant sprendimų, veiksmų ar neveikimo aplinkos ir jos
 
-apsaugos bei gamtos išteklių naudojimo srityje materialinį ar procesinį teisėtumą.
+apsaugos bei gamtos išteklių naudojimo srityje materialinį ar procesinį
+
+teisėtumą.
 
 Straipsnio pakeitimai:
 
@@ -957,9 +1001,7 @@ III SKYRIUS. GAMTOS IŠTEKLIŲ
 
 NAUDOJIMAS IR APSKAITA
 
-11 straipsnis. Gamtos išteklių naudojimo
-
-objektas
+11 straipsnis. Gamtos išteklių naudojimo objektas
 
 Gamtos
 
@@ -1107,15 +1149,19 @@ aplinkos apsaugos programomis bei schemomis, kraštotvarkos projektais bei
 
 generaliniais planais atsižvelgiant į Lietuvos Respublikos gamtos potencialą.
 
-Juridiniai ir fiziniai asmenys, planuojantys užsiimti
+Ūkinės veiklos leidimas,
 
-ūkine veikla, savo lėšomis nustato, apibūdina ir įvertina planuojamos ūkinės
+skirtas planuojamai veiklai, kuriai pagal Lietuvos Respublikos planuojamos
 
-veiklos galimą poveikį aplinkai, parengia poveikio aplinkai vertinimo dokumentaciją
+ūkinės veiklos poveikio aplinkai vertinimo įstatymą privaloma atlikti poveikio
 
-ir teikia ją poveikio aplinkai vertinimo proceso dalyviams įstatymų nustatyta
+aplinkai vertinimą ar atranką dėl poveikio aplinkai vertinimo, gali būti
 
-tvarka.
+išduotas esant galiojančiam atsakingos institucijos teigiamam sprendimui dėl
+
+planuojamos ūkinės veiklos galimybių ar atrankos dėl poveikio aplinkai
+
+vertinimo išvadai, kad atlikti poveikio aplinkai vertinimą yra neprivaloma.
 
 Šio
 
@@ -1140,6 +1186,12 @@ Nr. I-1352,
 Nr. VIII-1637, 00.04.18, Žin., 2000,
 
 Nr.39-1093 (00.05.12)
+
+Nr.
+
+XII-287,
+
+2013-05-09, Žin., 2013, Nr. 55-2727 (2013-05-28)
 
 16 straipsnis. Ūkinės veiklos, galinčios
 
@@ -1195,13 +1247,15 @@ projektinę dokumentaciją.
 
 Ūkinės
 
-veiklos objektų statyba, rekonstravimas ar plėtimas be projektinės dokumentacijos,
+veiklos objektų statyba, rekonstravimas ar plėtimas be projektinės
 
-numatytos šio įstatymo 16 straipsnyje, arba nesilaikant joje nustatytų aplinkos
+dokumentacijos, numatytos šio įstatymo 16 straipsnyje, arba nesilaikant joje
 
-apsaugos reikalavimų, pažeidžiant statybos, rekonstravimo ar plėtimo darbų
+nustatytų aplinkos apsaugos reikalavimų, pažeidžiant statybos, rekonstravimo ar
 
-aplinkosauginius apribojimus užtraukia įstatymų numatytą atsakomybę.
+plėtimo darbų aplinkosauginius apribojimus užtraukia įstatymų numatytą
+
+atsakomybę.
 
 Atsakomybės
 
@@ -1295,6 +1349,544 @@ Nr. X-147, 2005-03-24,
 
 Žin., 2005, Nr. 47-1558 (2005-04-12)
 
+191
+
+straipsnis. Taršos integruotos prevencijos ir kontrolės leidimas
+
+Taršos integruotos prevencijos ir kontrolės leidimų
+
+(toliau – TIPK leidimas) išdavimo, pakeitimo ir galiojimo panaikinimo taisykles
+
+tvirtina aplinkos ministras. Šios taisyklės nustato paraiškos TIPK leidimui
+
+gauti ar pakeisti (toliau – TIPK paraiška) rengimo, pateikimo ir derinimo, TIPK
+
+leidimo projekto rengimo, TIPK leidimo išdavimo, pakeitimo ir galiojimo panaikinimo
+
+tvarką, taip pat informacijos teikimo kitai Europos Sąjungos valstybei narei,
+
+konsultavimosi su kita Europos Sąjungos valstybe nare, informavimo apie priimtą
+
+sprendimą išduoti TIPK leidimą tvarką, kitos Europos Sąjungos valstybės narės
+
+visuomenės informavimo tvarką.
+
+Fizinis ar juridinis asmuo, kita organizacija ar šio
+
+juridinio asmens ar kitos organizacijos padalinys (toliau šiame straipsnyje –
+
+fizinis ar juridinis asmuo) turi teisę eksploatuoti įrenginį (jo dalį, kelis įrenginius
+
+ar jų dalis), nurodytą šio straipsnio 1 dalyje nurodytose taisyklėse, šio
+
+asmens eksploatuojamą ar valdomą nuosavybės teisės, nuomos, panaudos,
+
+patikėjimo teisės ar kitu teisiniu pagrindu, tik turėdamas galiojantį TIPK
+
+leidimą ir jame nustatytomis sąlygomis. Fiziniai ar juridiniai asmenys privalo
+
+eksploatuoti įrenginį (jo dalį, kelis įrenginius ar jų dalis), nurodytą šio
+
+straipsnio 1 dalyje nurodytose taisyklėse, laikydamiesi šių principų: imasi
+
+visų atitinkamų taršos prevencijos priemonių; taiko geriausius prieinamus
+
+gamybos būdus, kurių apibrėžtį nustato Lietuvos Respublikos aplinkos
+
+ministerija; nesukelia didelės taršos; užtikrina atliekų prevenciją, o jeigu
+
+atliekos susidaro, – laikydamiesi Lietuvos Respublikos atliekų tvarkymo
+
+įstatyme nustatytų atliekų tvarkymo prioritetų eiliškumo, užtikrina, kad jos
+
+būtų paruoštos naudoti pakartotinai, perdirbtos, kitaip panaudotos, o jeigu tai
+
+techniškai ir ekonomiškai neįmanoma, – pašalintos, stengiantis išvengti bet
+
+kokio poveikio aplinkai arba jį sumažinti; energiją naudoja efektyviai; imasi
+
+priemonių, būtinų avarijoms išvengti ir (ar) jų padariniams apriboti; galutinai
+
+nutraukdami veiklą imasi priemonių, būtinų taršos grėsmei išvengti ir
+
+eksploatavimo vietos būklei tinkamai atkurti.
+
+TIPK leidimą išduoda, pakeičia ir galiojimą panaikina
+
+aplinkos ministro įgaliota institucija (įgaliotos institucijos).
+
+TIPK paraiškas derina ir pagal kompetenciją dalyvauja
+
+nustatant TIPK leidimo sąlygas visuomenės sveikatos centrai apskrityse,
+
+vykdydami Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo ir
+
+Lietuvos Respublikos triukšmo valdymo įstatymo jiems priskirtas funkcijas
+
+triukšmo valdymo ir kvapų kontrolės srityje šio straipsnio 1 dalyje nurodytose
+
+taisyklėse nustatyta tvarka ir terminais.
+
+Aplinkos ministro įgaliota institucija apie gautą paraišką TIPK
+
+leidimui gauti ir apie galimybę susipažinti su TIPK paraiška informuoja
+
+savivaldybės vykdomąją instituciją. Savivaldybės vykdomoji institucija, turinti
+
+pastabų dėl TIPK paraiškos, per 7 darbo dienas pateikia pastabas aplinkos
+
+ministro įgaliotai institucijai.
+
+TIPK leidimo projektą aplinkos ministro įgaliota institucija rengia,
+
+kai yra gautas šio straipsnio 4 dalyje nurodytos įstaigos sprendimas derinti
+
+TIPK paraišką arba per šio straipsnio 1 dalyje nurodytose taisyklėse nustatytą
+
+terminą nepateiktas šios įstaigos sprendimas derinti TIPK paraišką ar jos
+
+nederinti ir kai šioje dalyje nurodyta aplinkos ministro įgaliota institucija,
+
+įvertinusi TIPK paraišką, priima sprendimą TIPK paraišką priimti.
+
+Sprendimo priimti TIPK paraišką ir sprendimo išduoti
+
+TIPK leidimą priėmimo tvarka ir terminai nustatomi šio straipsnio 1 dalyje
+
+nurodytose taisyklėse. TIPK leidimą aplinkos ministro įgaliota institucija
+
+privalo išduoti ne vėliau kaip per 20 darbo dienų nuo sprendimo priimti TIPK
+
+paraišką priėmimo dienos.
+
+TIPK leidimas išduodamas, jeigu šio straipsnio 2
+
+dalyje nurodytas įrenginys (jo dalis, keli įrenginiai ar jų dalys) ir numatomos
+
+minėto įrenginio eksploatavimo sąlygos atitinka šio straipsnio 1 dalyje
+
+nurodytų taisyklių reikalavimus.
+
+TIPK leidimas neišduodamas, jeigu:
+
+1) po to, kai buvo priimtas sprendimas priimti TIPK paraišką,
+
+nustatoma, kad TIPK paraiškoje ir (ar) kituose dokumentuose, kuriuos pateikti
+
+reikalaujama pagal šio straipsnio 1 dalyje nurodytas taisykles, buvo pateikta
+
+informacija, žinant, kad ji klaidinga ar suklastota;
+
+2) anksčiau išduoto TIPK leidimo galiojimas buvo panaikintas šio
+
+straipsnio 12 dalies 1, 2, 3 ar 6
+
+punktuose nustatytais atvejais ir nuo TIPK leidimo galiojimo panaikinimo dienos
+
+nepraėjo 6 mėnesiai.
+
+TIPK leidimas pakeičiamas šio straipsnio 1 dalyje
+
+nurodytose taisyklėse nustatyta tvarka ir terminais. TIPK leidimas keičiamas,
+
+kai yra viena iš šių sąlygų:
+
+1) planuojamas esminis pakeitimas (kai planuojama
+
+pakeisti šio straipsnio 1 dalyje nurodytose taisyklėse nurodyto įrenginio (jo
+
+dalies, kelių įrenginių ar jų dalių) pobūdį ar veikimą arba planuojama jį
+
+išplėsti, kai toks pakeitimas ar išplėtimas gali turėti reikšmingą neigiamą
+
+poveikį žmonių sveikatai arba aplinkai, kaip nustatyta Lietuvos Respublikos
+
+planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme);
+
+2) išduotame TIPK leidime šio straipsnio 1 dalyje
+
+nurodytose taisyklėse nustatyta tvarka nustatytos sąlygos, kurioms esant TIPK
+
+leidimas turi būti pakeičiamas, ir šio TIPK leidimo pakeitimo terminai;
+
+3) pagal šio straipsnio 1 dalyje nurodytas taisykles nustatyta tvarka
+
+aplinkos ministro įgaliotai institucijai iš naujo apsvarsčius TIPK leidimo
+
+sąlygas, nustatoma, kad būtina pakeisti TIPK leidimą (stebėsenos (monitoringo)
+
+rezultatai rodo, kad įrenginio keliama tarša yra tokia didelė, kad TIPK leidime
+
+įrašytos teršalų išmetimo ribinės vertės turi būti peržiūrimos arba naujos
+
+ribinės vertės turi būti įrašomos į TIPK leidimą; įrenginio eksploatavimo
+
+saugai reikia naudoti kitas technologijas; pasikeitus teisės aktų
+
+reikalavimams, kai reikia nustatyti griežtesnes įrenginio eksploatavimo sąlygas
+
+ar kitaip užtikrinti naujo ar pakeisto aplinkos apsaugos normatyvo ar aplinkos
+
+apsaugos standarto laikymąsi ir (ar) atitiktį naujai ar pakeistai aplinkos
+
+kokybės normai; pasikeitus kitiems
+
+reikalavimams ar dokumentams, kurių reikalavimų šio straipsnio 1 dalyje
+
+nurodytose taisyklėse nustatyta tvarka būtina laikytis, arba jeigu šio
+
+straipsnio 1 dalyje nurodytose taisyklėse nustatyta tvarka yra galimybė taikyti
+
+kitas priemones išmetamiems teršalams sumažinti);
+
+4) pasikeitus šio straipsnio 2 dalyje nurodytam
+
+fiziniam ar juridiniam asmeniui, eksploatuojančiam įrenginį (jo dalį, kelis
+
+įrenginius ar jų dalis).
+
+Šio straipsnio 10 dalyje nurodytais atvejais šio
+
+straipsnio 2 dalyje nurodytas fizinis ar juridinis asmuo privalo kreiptis į šio
+
+straipsnio 3 dalyje nurodytą instituciją dėl TIPK leidimo pakeitimo.
+
+TIPK leidimo galiojimas panaikinamas, kai yra bent
+
+viena iš šių sąlygų:
+
+1) įrenginys (jo dalis, keli įrenginiai ar jų dalys)
+
+eksploatuojamas nesilaikant TIPK leidime nustatytų sąlygų ir asmuo, kurio
+
+vykdoma aplinkai kenksminga veikla buvo sustabdyta Lietuvos Respublikos
+
+aplinkos apsaugos valstybinės kontrolės įstatyme nustatytais pagrindais, per
+
+aplinkos apsaugos valstybinę kontrolę vykdančių institucijų nurodytą laikotarpį
+
+nepašalina nustatytų pažeidimų;
+
+2) kai šio straipsnio 10 dalies 2, 3 ir 4 punktuose
+
+nurodytais atvejais TIPK leidimo turėtojas nepakeičia TIPK leidimo per šio
+
+straipsnio 1 dalyje nurodytose taisyklėse nustatytą terminą ir jose nustatyta
+
+tvarka;
+
+3) nustatoma, kad TIPK leidimui gauti ir (ar) pakeisti buvo pateikta informacija,
+
+kuria remiantis buvo nustatytos TIPK leidimo sąlygos, žinant, kad ji klaidinga
+
+ar suklastota;
+
+4) TIPK leidimo turėtojo prašymu;
+
+5) likvidavus šio straipsnio 2 dalyje nurodytą
+
+juridinį asmenį, turintį TIPK leidimą, mirus šio straipsnio 2 dalyje nurodytam
+
+fiziniam asmeniui, turinčiam TIPK leidimą, pripažinus jį neveiksniu ar ribotai
+
+veiksniu ar pripažinus jį nežinia kur esančiu, jeigu asmens teisių perėmėjas
+
+nustatyta tvarka nesikreipia dėl TIPK leidimo pakeitimo;
+
+6) neįvykdžius Lietuvos Respublikos aplinkos apsaugos
+
+valstybinės kontrolės įstatymo nustatyta tvarka priimto nutarimo stabdyti
+
+aplinkai kenksmingą veiklą.
+
+TIPK leidimo galiojimas panaikinamas jį išdavusios
+
+institucijos motyvuotu sprendimu šio straipsnio 1 dalyje nurodytose taisyklėse
+
+nustatyta tvarka. TIPK leidimo turėtojas apie tai informuojamas raštu, išskyrus
+
+šio straipsnio 12 dalies 5 punkte nurodytus atvejus, nurodant TIPK leidimo galiojimo
+
+panaikinimo priežastis.
+
+Jeigu pažeidimas yra mažareikšmis, kuriuo nepadaryta
+
+esminės žalos šio įstatymo ir Europos Sąjungos teisės aktų, reglamentuojančių
+
+pramoninių išmetamų teršalų kontrolę, saugomiems interesams ir kuriuo
+
+nepadaryta esminės žalos aplinkai, žmonių sveikatai, ir asmuo, turintis TIPK
+
+leidimą, nutraukė veiksmus, kuriais pažeidžiama teisė, pašalino veiksmų
+
+padarinius ir atlygino žalą, o šio įstatymo reikalavimų laikymasis gali būti
+
+užtikrintas kitais būdais, aplinkos ministro įgaliota institucija,
+
+vadovaudamasi teisingumo ir protingumo kriterijais, gali nepanaikinti TIPK
+
+leidimo galiojimo.
+
+Aplinkos ministro įgaliota institucija (įgaliotos
+
+institucijos) privalo šio straipsnio 1 dalyje nurodytose taisyklėse
+
+nustatyta tvarka peržiūrėti TIPK leidimo sąlygas ir šio straipsnio 10 dalies 3
+
+punkte nurodytais atvejais informuoti TIPK leidimo turėtoją apie pareigą per
+
+nustatytą terminą pakeisti TIPK leidimą.
+
+Pastaba. Leidimams
+
+eksploatuoti Lietuvos Respublikos aplinkos apsaugos įstatymo 191 straipsnyje
+
+nurodytus įrenginius (ar jų dalis, ar kelis tokius įrenginius), išduotiems iki
+
+2013 m. birželio 1 d., taikomos šio įstatymo (Nr. XII-287) nuostatos
+
+dėl taršos integruotos prevencijos ir kontrolės leidimų keitimo Lietuvos
+
+Respublikos aplinkos ministerijos nustatytais terminais ir tvarka.
+
+Įstatymas papildytas
+
+straipsniu:
+
+Nr.
+
+XII-287,
+
+2013-05-09, Žin., 2013, Nr. 55-2727 (2013-05-28)
+
+192
+
+straipsnis. Taršos leidimas
+
+Taršos leidimų išdavimo, pakeitimo ir galiojimo panaikinimo
+
+taisykles tvirtina aplinkos ministras. Šios taisyklės nustato paraiškos taršos
+
+leidimui gauti ar pakeisti rengimo, pateikimo, taršos leidimo projekto rengimo,
+
+taršos leidimo išdavimo, pakeitimo ir galiojimo panaikinimo tvarką.
+
+Fizinis ar juridinis asmuo, kita organizacija ar šio
+
+juridinio asmens ar kitos organizacijos padalinys (toliau šiame straipsnyje –
+
+fizinis ar juridinis asmuo) turi teisę eksploatuoti įrenginį (jo dalį, kelis
+
+įrenginius ar jų dalis), nurodytą šio straipsnio 1 dalyje nurodytose
+
+taisyklėse, šio asmens eksploatuojamą ar valdomą nuosavybės teisės, nuomos,
+
+panaudos, patikėjimo teisės ar kitu teisiniu pagrindu, tik turėdamas galiojantį
+
+taršos leidimą ir jame nustatytomis sąlygomis. Fiziniai ar juridiniai asmenys
+
+privalo eksploatuoti įrenginį (jo dalį, kelis įrenginius ar jų dalis)
+
+laikydamiesi šių principų: imasi visų atitinkamų taršos prevencijos priemonių;
+
+nesukelia didelės taršos; užtikrina atliekų prevenciją, o jeigu atliekos
+
+susidaro, – laikydamiesi Lietuvos Respublikos atliekų tvarkymo įstatyme
+
+nustatytų atliekų tvarkymo prioritetų eiliškumo, užtikrina, kad jos būtų
+
+paruoštos naudoti pakartotinai, perdirbtos, kitaip panaudotos, o jeigu tai
+
+techniškai ir ekonomiškai neįmanoma, – pašalintos, stengiantis išvengti bet
+
+kokio poveikio aplinkai arba jį sumažinti; energiją naudoja efektyviai; imasi
+
+priemonių, būtinų avarijoms išvengti ir (ar) jų padariniams apriboti.
+
+Taršos leidimus išduoda, pakeičia ir galiojimą panaikina
+
+aplinkos ministro įgaliota institucija (įgaliotos institucijos). Leidimą
+
+aplinkos ministro įgaliota institucija privalo išduoti ne vėliau kaip per 20
+
+darbo dienų nuo paraiškos priėmimo dienos.
+
+Taršos leidimas išduodamas, jeigu šio straipsnio 2
+
+dalyje nurodytas įrenginys (jo dalis, keli įrenginiai ar jų dalys) ir numatomos
+
+minėto įrenginio eksploatavimo sąlygos atitinka šio straipsnio 1 dalyje
+
+nurodytų taisyklių reikalavimus.
+
+Taršos leidimas neišduodamas, jeigu:
+
+1) nustatoma, kad dokumentuose, kuriuos reikalaujama
+
+pateikti pagal šio straipsnio 1 dalyje nurodytas taisykles, norint gauti taršos
+
+leidimą, buvo pateikta informacija, žinant, kad ji klaidinga ar suklastota;
+
+2) anksčiau išduoto taršos leidimo galiojimas buvo
+
+panaikintas šio straipsnio 9 dalies 1, 2, 3 ar 6 punktuose nustatytais
+
+atvejais ir nuo taršos leidimo galiojimo panaikinimo dienos nepraėjo 6
+
+mėnesiai.
+
+Taršos leidimas pakeičiamas, kai yra
+
+bent viena iš šių sąlygų:
+
+1) kai planuojama pakeisti šio straipsnio 1 dalyje
+
+nurodytose taisyklėse nurodyto įrenginio (jo dalies, kelių įrenginių ar jų
+
+dalių) pobūdį ar veikimą arba planuojama jį išplėsti, kai toks pakeitimas ar
+
+išplėtimas gali turėti reikšmingą neigiamą poveikį žmonių sveikatai arba
+
+aplinkai, kaip nustatyta Lietuvos Respublikos planuojamos ūkinės veiklos
+
+poveikio aplinkai vertinimo įstatyme;
+
+2) šio straipsnio 1 dalyje nurodytose taisyklėse
+
+nustatyta tvarka atlikus taršos leidimo sąlygų peržiūrą, jeigu šiose taisyklėse
+
+nustatytais atvejais ir tvarka nustatoma, kad taršos leidimą reikia pakeisti;
+
+3) pasikeitus teisės aktų reikalavimams, kai reikia
+
+nustatyti griežtesnes įrenginio (jo dalies, kelių įrenginių ar jų dalių)
+
+eksploatavimo sąlygas ar kitaip užtikrinti naujos ar pakeistos aplinkos kokybės
+
+normos, aplinkos apsaugos normatyvo ar aplinkos apsaugos standarto laikymąsi;
+
+4) pasikeitus šio straipsnio 2 dalyje
+
+nurodytam fiziniam ar juridiniam asmeniui, eksploatuojančiam įrenginį (jo dalį,
+
+kelis įrenginius ar jų dalis).
+
+Šio straipsnio 3 dalyje nurodyta institucija
+
+(institucijos) privalo šio straipsnio 1 dalyje nurodytose taisyklėse
+
+nustatyta tvarka peržiūrėti taršos leidimo sąlygas ir šio straipsnio 6 dalies 2
+
+ir 3 punktuose nurodytais atvejais informuoti taršos leidimo turėtoją apie
+
+pareigą per nustatytą terminą pakeisti taršos leidimą.
+
+Šio straipsnio 6 dalyje nurodytais atvejais šio
+
+straipsnio 2 dalyje nurodytas fizinis ar juridinis asmuo privalo kreiptis į šio
+
+straipsnio 3 dalyje nurodytą instituciją dėl taršos leidimo pakeitimo.
+
+Taršos leidimo galiojimas panaikinamas, kai yra bent
+
+viena iš šių sąlygų:
+
+1) įrenginys (jo dalis, keli įrenginiai ar jų dalys)
+
+eksploatuojamas nesilaikant taršos leidime nustatytų sąlygų ir asmuo, kurio
+
+vykdoma aplinkai kenksminga veikla buvo sustabdyta Lietuvos Respublikos
+
+aplinkos apsaugos valstybinės kontrolės įstatyme nustatytais pagrindais, per
+
+aplinkos apsaugos valstybinę kontrolę vykdančių institucijų nurodytą laikotarpį
+
+nepašalina nustatytų pažeidimų;
+
+2) taršos leidimo turėtojas šio straipsnio 1 dalyje
+
+nurodytose taisyklėse nustatyta tvarka nepateikia paraiškos taršos leidimui
+
+pakeisti, kai jį privaloma pakeisti šio straipsnio 6 dalies 2, 3 ir 4 punktuose
+
+nurodytais atvejais;
+
+3) nustatoma, kad taršos leidimui gauti ir (ar)
+
+pakeisti buvo pateikta informacija, kuria remiantis buvo nustatytos taršos
+
+leidimo sąlygos, žinant, kad ji klaidinga ar suklastota;
+
+4) taršos leidimo turėtojo prašymu;
+
+5) likvidavus šio straipsnio 2 dalyje nurodytą
+
+juridinį asmenį, turintį taršos leidimą, mirus šio straipsnio 2 dalyje
+
+nurodytam fiziniam asmeniui, turinčiam taršos leidimą, pripažinus jį neveiksniu
+
+ar ribotai veiksniu ar pripažinus jį nežinia kur esančiu, jeigu asmens teisių
+
+perėmėjas nustatyta tvarka nesikreipia dėl taršos leidimo pakeitimo;
+
+6) neįvykdžius Lietuvos Respublikos aplinkos apsaugos
+
+valstybinės kontrolės įstatymo nustatyta tvarka priimto nutarimo stabdyti
+
+aplinkai kenksmingą veiklą.
+
+Taršos leidimo galiojimas panaikinamas jį išdavusios
+
+institucijos motyvuotu sprendimu šio straipsnio 1 dalyje nurodytose taisyklėse
+
+nustatyta tvarka. Taršos leidimo turėtojas apie tai informuojamas raštu,
+
+išskyrus šio straipsnio 9 dalies 5 punkte nurodytus atvejus, nurodant šio
+
+leidimo galiojimo panaikinimo priežastis.
+
+Jeigu pažeidimas yra mažareikšmis, kuriuo nepadaryta
+
+esminės žalos šio įstatymo ir Europos Sąjungos teisės aktų, reglamentuojančių
+
+šio straipsnio 2 dalyje nurodytų įrenginių (jo dalių, kelių įrenginių ar jų dalių)
+
+eksploatavimą, saugomiems interesams ir kuriuo nepadaryta esminės žalos
+
+aplinkai, žmonių sveikatai, ir asmuo, turintis taršos leidimą, nutraukė
+
+veiksmus, kuriais pažeidžiama teisė, pašalino veiksmų padarinius ir atlygino
+
+žalą, o šio įstatymo reikalavimų laikymasis gali būti užtikrintas kitais
+
+būdais, aplinkos ministro įgaliota institucija, vadovaudamasi teisingumo ir
+
+protingumo kriterijais, gali nepanaikinti taršos leidimo galiojimo.
+
+Pastaba.
+
+Leidimams eksploatuoti Lietuvos Respublikos aplinkos apsaugos įstatymo 192
+
+straipsnyje nurodytus įrenginius (ar jų dalis, ar kelis tokius
+
+įrenginius), kuriems iki 2013 m. birželio 1 d. buvo išduoti taršos integruotos
+
+prevencijos ir kontrolės leidimai, taikomos šio įstatymo (Nr. XII-287) nuostatos
+
+dėl taršos leidimų keitimo Lietuvos Respublikos aplinkos ministerijos nustatyta
+
+tvarka.
+
+Įstatymas papildytas
+
+straipsniu:
+
+Nr.
+
+XII-287,
+
+2013-05-09, Žin., 2013, Nr. 55-2727 (2013-05-28)
+
 20 straipsnis. Pavojingų cheminių medžiagų
 
 gamyba ir naudojimas
@@ -1307,7 +1899,9 @@ nustatytos šių medžiagų naudojimo, saugojimo, apskaitos, laidojimo,
 
 nukenksminimo, transportavimo, tranzito, įvežimo ir išvežimo tvarkos. Tokios
 
-medžiagos saugomos, laidojamos ir nukenksminamos jų gamintojo ar naudotojo lėšomis.
+medžiagos saugomos, laidojamos ir nukenksminamos jų gamintojo ar naudotojo
+
+lėšomis.
 
 Pavojingų
 
@@ -1329,9 +1923,37 @@ Nr. I-1352,
 
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 
-Nr. IX-2113, 2004-04-13,
+Nr. IX-2113,
 
-Žin., 2004, Nr. 60-2121 (2004-04-24)
+2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
+
+21
+
+straipsnis. Radioaktyviųjų medžiagų gamyba ir naudojimas
+
+Radioaktyviųjų medžiagų ir radioaktyviųjų atliekų bei
+
+kitų jonizuojančiosios spinduliuotės šaltinių naudojimo, saugojimo, apskaitos,
+
+dėjimo į radioaktyviųjų atliekų atliekynus, dezaktyvacijos, įvežimo, išvežimo,
+
+vežimo tranzitu ir vežimo Lietuvos Respublikoje tvarką nustato Lietuvos
+
+Respublikos branduolinės saugos įstatymas, Lietuvos Respublikos radiacinės
+
+saugos įstatymas ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo
+
+įstatymas.
+
+Straipsnio pakeitimai:
+
+Nr. I-1352,
+
+96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
+
+Nr. XI-1538,
+
+2011-06-28, Žin., 2011, Nr. 91-4315 (2011-07-19)
 
 21 straipsnis.
 
@@ -1399,13 +2021,13 @@ straipsnis. Genetiškai modifikuoti organizmai ir genetiškai modifikuoti
 
 produktai
 
-Veiklą, susijusią su genetiškai modifikuotais
+Veiklą, susijusią su genetiškai modifikuotais organizmais
 
-organizmais ir genetiškai modifikuotais produktais, jų naudojimo valstybinį
+ir genetiškai modifikuotais produktais, jų naudojimo valstybinį valdymą
 
-valdymą reglamentuoja, taip pat šių organizmų ir produktų naudotojų teises,
+reglamentuoja, taip pat šių organizmų ir produktų naudotojų teises, pareigas ir
 
-pareigas ir atsakomybę nustato Genetiškai modifikuotų organizmų įstatymas.
+atsakomybę nustato Genetiškai modifikuotų organizmų įstatymas.
 
 Įstatymo papildymas
 
@@ -1711,11 +2333,11 @@ tarptautiniuose vandenyse esančiuose Lietuvos Respublikos laivuose;
 
 kad būtų užkirstas kelias aplinkos apsaugos įstatymų pažeidimams, už kuriuos
 
-numatyta administracinė ar baudžiamoji atsakomybė, sustabdyti ir apžiūrėti
+numatyta administracinė ar baudžiamoji atsakomybė, sustabdyti ir apžiūrėti įtariamų
 
-įtariamų asmenų transporto priemones, nustatyta tvarka atlikti asmens apžiūrą
+asmenų transporto priemones, nustatyta tvarka atlikti asmens apžiūrą ir daiktų
 
-ir daiktų patikrinimą, paimti daiktus ir dokumentus, apžiūrėti įvykio vietą;
+patikrinimą, paimti daiktus ir dokumentus, apžiūrėti įvykio vietą;
 
 7)
 
@@ -2039,9 +2661,9 @@ Nr. X-147, 2005-03-24,
 
 Žin., 2005, Nr. 47-1558 (2005-04-12)
 
-35 straipsnis. Lietuvos Respublikos tarptautinis
+35 straipsnis. Lietuvos Respublikos
 
-bendradarbiavimas aplinkos
+tarptautinis bendradarbiavimas aplinkos
 
 apsaugos  klausimais
 
@@ -2161,9 +2783,11 @@ pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir
 
 Tarybos direktyva 2009/31/EB (OL 2009 L 140, p. 114).
 
-3. 2008 m. sausio 15 d. Europos Parlamento ir Tarybos direktyva 2008/1/EB dėl taršos integruotos prevencijos ir
+3. 2010 m. lapkričio 24 d. Europos Parlamento ir
 
-kontrolės (OL 2008 L 24, p. 8).
+Tarybos direktyva 2010/75/ES dėl pramoninių išmetamų teršalų (taršos
+
+integruotos prevencijos ir kontrolės) (OL 2010 L 334, p. 17).
 
 Įstatymas papildytas priedu:
 
@@ -2181,7 +2805,11 @@ Nr. XI-858,
 
 2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
 
-________________
+Nr.
+
+XII-287,
+
+2013-05-09, Žin., 2013, Nr. 55-2727 (2013-05-28)
 
 Pakeitimai:
 
@@ -2263,9 +2891,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1610, 2003-06-10,
+Nr. IX-1610,
 
-Žin., 2003, Nr. 61-2763 (2003-06-27)
+2003-06-10, Žin., 2003, Nr. 61-2763 (2003-06-27)
 
 APLINKOS
 
@@ -2303,9 +2931,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-2113,
+IX-2113, 2004-04-13,
 
-2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
+Žin., 2004, Nr. 60-2121 (2004-04-24)
 
 APLINKOS
 
@@ -2403,11 +3031,33 @@ APLINKOS APSAUGOS ĮSTATYMO 6 IR
 
 spalio 1 d.
 
-*** Pabaiga ***
+14.
 
-Redagavo Aušrinė Trapinskienė
+Lietuvos
 
-(2011-08-02)
+Respublikos Seimas, Įstatymas
+
+Nr. XII-287,
+
+2013-05-09, Žin., 2013, Nr. 55-2727 (2013-05-28)
+
+APLINKOS
+
+APSAUGOS ĮSTATYMO 1, 15 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO
+
+PAPILDYMO 19(1), 19(2) STRAIPSNIAIS ĮSTATYMAS
+
+Šis įstatymas, išskyrus 6
+
+straipsnį, įsigalioja 2013 m. birželio 1 d.
+
+***
+
+Pabaiga ***
+
+Redagavo
+
+Aušrinė Trapinskienė (2013-05-28)
 
 ausrine.trapinskiene@lrs.lt
 
