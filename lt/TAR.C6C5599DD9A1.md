@@ -4,7 +4,7 @@ identifier: "TAR.C6C5599DD9A1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-10-28"
-last_updated: "2012-01-01"
+last_updated: "2013-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2013-05-31
+Suvestinė redakcija nuo 2013-06-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
 
@@ -263,11 +263,15 @@ Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010IS
 
 4. Šio įstatymo 29 ir 30 straipsniai netaikomi elektroniniams pinigams, jeigu mokėtojo mokėjimo paslaugų teikėjas negali įšaldyti mokėjimo sąskaitos ar blokuoti mokėjimo priemonės.
 
-5. Šio įstatymo VI skyriaus nuostatos taikomos ir įgyvendinant 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinančio Reglamentą (EB) Nr. 2560/2001 (OL 2009 L 266, p. 11), 9, 10, 11, 12 ir 13 straipsnių nuostatas.
+5. Šio įstatymo VI ir VII skyrių nuostatos taikomos ir įgyvendinant 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinančio Reglamentą (EB) Nr. 2560/2001, 9, 10, 11, 12 ir 13 straipsnių ir 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 260/2012, kuriuo nustatomi kredito pervedimų ir tiesioginio debeto operacijų eurais techniniai ir komerciniai reikalavimai ir iš dalies keičiamas Reglamentas (EB) Nr. 924/2009 (toliau – Reglamentas Nr. 260/2012), 10, 11, 12 ir 16 straipsnių nuostatas.
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010ISTA0XI-1340
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-303, 2013-05-14, Žin., 2013, Nr. 57-2847 (2013-06-01), i. k. 1131010ISTA0XII-303
 
 6. Tais atvejais, kai taikomas ir Lietuvos Respublikos vartotojų teisių apsaugos įstatymas, vietoj jo 36 straipsnio 5–9 dalyse nustatytų informacijos reikalavimų, išskyrus 36 straipsnio 7 dalies 3–8 punktus, 36 straipsnio 8 dalies 1, 4 ir 5 punktus ir 36 straipsnio 9 dalies 2 punktą, taikomos šio įstatymo 10 ir 17 straipsnių nuostatos.
 
@@ -925,9 +929,13 @@ VII SKYRIUS
 
 GINČŲ NAGRINĖJIMO TVARKA
 
-49 straipsnis. Kreipimasis į ginčus nagrinėjančias institucijas
+49 straipsnis. Kreipimasis į ginčus nagrinėjančias institucijas
 
-Mokėjimo paslaugų vartotojas, manydamas, kad mokėjimo paslaugų teikėjas pažeidė jo teises ar įstatymų saugomus interesus, turi teisę kreiptis į teismą arba į išankstinio ginčų sprendimo ne teisme instituciją – Lietuvos banką – Lietuvos Respublikos Lietuvos banko įstatymo nustatyta tvarka.
+Mokėjimo paslaugų vartotojas, manydamas, kad mokėjimo paslaugų teikėjas pažeidė jo teises ar įstatymų saugomus interesus, turi teisę kreiptis į teismą arba, jeigu mokėjimo paslaugų vartotojas yra vartotojas, į išankstinio ginčų sprendimo ne teisme instituciją – Lietuvos banką – Lietuvos Respublikos Lietuvos banko įstatymo nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XII-303, 2013-05-14, Žin., 2013, Nr. 57-2847 (2013-06-01), i. k. 1131010ISTA0XII-303
 
 Papildyta skyriumi:
 
@@ -942,6 +950,14 @@ BAIGIAMOSIOS NUOSTATOS
 1. Mokėjimo paslaugų teikėjai turi teisę nustatyti palankesnes sąlygas mokėjimo paslaugų vartotojams, negu nustatytos šiame įstatyme.
 
 2. Mokėjimo paslaugų teikėjai nustato komisinius ir kitus atlyginimus nepiktnaudžiaudami ir taip, kad jie atitiktų teikiamos mokėjimo paslaugos pobūdį, būtų ekonomiškai pagrįsti ir teisingi.
+
+51 straipsnis. Lietuvos banko teisė spręsti dėl Reglamento Nr. 260/2012 netaikymo
+
+Lietuvos bankas turi teisę spręsti dėl Reglamento Nr. 260/2012 6 straipsnio 1 ir 2 dalyse išdėstytų reikalavimų, atsižvelgdamas į Reglamento Nr. 260/2012 16 straipsnio 3, 4 ir 5 dalių sąlygas, netaikymo iki 2016 m. vasario 1 d.
+
+Papildyta straipsniu:
+
+Nr. XII-303, 2013-05-14, Žin., 2013, Nr. 57-2847 (2013-06-01), i. k. 1131010ISTA0XII-303
 
 Skyriaus pakeitimai:
 
@@ -962,6 +978,12 @@ priedas
 1. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1), su paskutiniais pakeitimais, padarytais 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/111/EB (OL 2009 L 302, p. 97).
 
 2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinantis Reglamentą (EB) Nr. 2560/2001 (OL 2009 L 266, p. 11).
+
+3. 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 260/2012, kuriuo nustatomi kredito pervedimų ir tiesioginio debeto operacijų eurais techniniai ir komerciniai reikalavimai ir iš dalies keičiamas Reglamentas (EB) Nr. 924/2009 (OL 2012 L 94, p. 22).
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-303, 2013-05-14, Žin., 2013, Nr. 57-2847 (2013-06-01), i. k. 1131010ISTA0XII-303
 
 Priedo pakeitimai:
 
@@ -1025,19 +1047,13 @@ Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010IS
 
 Lietuvos Respublikos mokėjimų įstatymo 2, 3, 6, 7 straipsnių pakeitimo ir papildymo įstatymas
 
-51 straipsnis. Prašymo (skundo) nagrinėjimo procedūroje dalyvaujantys asmenys
+8.
 
-1. Tarnyba į savo posėdį dėl prašymo (skundo) nagrinėjimo turi teisę kviesti:
+Lietuvos Respublikos Seimas, Įstatymas
 
-1) mokėjimo paslaugų teikėją, dėl kurio veiksmų (neveikimo) vykdoma prašymo (skundo) nagrinėjimo procedūra;
+Nr. XII-303, 2013-05-14, Žin., 2013, Nr. 57-2847 (2013-06-01), i. k. 1131010ISTA0XII-303
 
-2) jeigu prašymo (skundo) nagrinėjimo procedūra pradėta remiantis vartotojo prašymu, – vartotoją;
-
-3) jeigu prašymo (skundo) nagrinėjimo procedūra pradėta remiantis vartotojų asociacijos pašymu, – jos atstovą;
-
-4) valstybės ir savivaldybių institucijų, įstaigų atstovus ir kitus asmenis, kurių kompetencija arba interesai susiję su svarstomu klausimu.
-
-2. Asmenims, nurodytiems šio straipsnio 1 dalies 1, 2 ir 3 punktuose, per prašymo (skundo) nagrinėjimo procedūrą gali atstovauti jų atstovai.
+Lietuvos Respublikos mokėjimų įstatymo 3 ir 49 straipsnių pakeitimo, Įstatymo papildymo 51 straipsniu ir priedo papildymo įstatymas
 
 52 straipsnis. Nutarimai, priimami išnagrinėjus prašymą (skundą)
 
