@@ -4,7 +4,7 @@ identifier: "TAR.B77E00EAEBEB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-07"
-last_updated: "2012-06-05"
+last_updated: "2013-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B77E00EAEBEB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos klimato kaitos valdymo įstatymas
 
-Suvestinė redakcija nuo 2012-06-05 iki 2013-05-31
+Suvestinė redakcija nuo 2013-06-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 87-3662, i. k. 1091010ISTA00XI-329
 
@@ -63,7 +63,11 @@ Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010IST
 
 7. Naujas šiltnamio efektą sukeliančias dujas išmetantis įrenginys (toliau – naujas įrenginys) – įrenginys, kuriam eksploatuoti veiklos vykdytojas privalo gauti leidimą išmesti šiltnamio efektą sukeliančias dujas ir kuris pradedamas eksploatuoti po to, kai patvirtinamas Nacionalinis šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų paskirstymo planas arba Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašas.
 
-8. Nustatytoji šiltnamio efektą sukeliančių dujų norma – Klimato kaitos konvencijos I priede nurodytai valstybei pagal Kioto protokolą apskaičiuotas ir Šiltnamio efektą sukeliančių dujų registre užregistruotas tonomis išreikštas šiltnamio efektą sukeliančių dujų kiekis, kuris valstybės teritorijoje gali būti išmestas į atmosferą per laikotarpį, apibrėžtą pagal tarptautinius įsipareigojimus.
+8. Nustatytoji šiltnamio efektą sukeliančių dujų norma – Klimato kaitos konvencijos I priede nurodytai valstybei pagal Kioto protokolą apskaičiuotas ir Sąjungos šiltnamio efektą sukeliančių dujų registre Lietuvos Respublikos jurisdikcijai priklausančioje sąskaitoje užregistruotas tonomis išreikštas šiltnamio efektą sukeliančių dujų kiekis, kuris valstybės teritorijoje gali būti išmestas į atmosferą per laikotarpį, apibrėžtą pagal tarptautinius įsipareigojimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
 
 9. Nustatytosios šiltnamio efektą sukeliančių dujų normos vienetas (toliau – nustatytosios normos vienetas) – šiltnamio efektą sukeliančių dujų kiekio vienetas, lygus anglies dioksido tonai ar anglies dioksido ekvivalentui.
 
@@ -129,19 +133,29 @@ PREKYBA APYVARTINIAIS TARŠOS LEIDIMAIS IR KIOTO VIENETAIS
 
 5 straipsnis. Veiklos vykdytojų ir kitų asmenų teisės ir pareigos
 
-1. Veiklos vykdytojai, vykdantys veiklą pagal šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą, aplinkos ministro nustatyta tvarka privalo gauti leidimą išmesti šiltnamio efektą sukeliančias dujas, įsigyti apyvartinių taršos leidimų ir atsidaryti sąskaitą Šiltnamio efektą sukeliančių dujų registre.
+1. Veiklos vykdytojai, vykdantys veiklą pagal šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą, aplinkos ministro nustatyta tvarka privalo gauti leidimą išmesti šiltnamio efektą sukeliančias dujas, įsigyti apyvartinių taršos leidimų ir atsidaryti sąskaitą Sąjungos šiltnamio efektą sukeliančių dujų registre.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
 
+Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
+
 2. Veiklos vykdytojai aplinkos ministro kartu su kita (kitomis) Vyriausybės įgaliota (įgaliotomis) institucija (institucijomis) nustatyta tvarka privalo vykdyti šiltnamio efektą sukeliančių dujų išmetimo stebėseną, apskaitą ir teikti ataskaitas.
 
-3. Kiekvienais kalendoriniais metais veiklos vykdytojai iki aplinkos ministro nustatyto termino privalo atsisakyti tokio apyvartinių taršos leidimų kiekio, kuris yra lygiavertis per praėjusius kalendorinius metus jų išmestam į atmosferą anglies dioksido kiekiui, išreikštam tonomis, ir (ar) anglies dioksido ekvivalento kiekiui, išreikštam tonomis, ir tai deklaruoti Šiltnamio efektą sukeliančių dujų registre. Veiklos vykdytojai vietoj apyvartinių taršos leidimų gali atsisakyti aplinkos ministro nustatyto kiekio Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje pripažįstamų bendrai įgyvendinamų ir švarios plėtros projektų veiklos išmetamųjų teršalų mažinimo vienetų ir (ar) patvirtintų išmetamųjų teršalų mažinimo vienetų.
+3. Kiekvienais kalendoriniais metais veiklos vykdytojai iki aplinkos ministro nustatyto termino privalo atsisakyti tokio apyvartinių taršos leidimų kiekio, kuris yra lygiavertis per praėjusius kalendorinius metus jų išmestam į atmosferą anglies dioksido kiekiui, išreikštam tonomis, ir (ar) anglies dioksido ekvivalento kiekiui, išreikštam tonomis, ir tai deklaruoti Sąjungos šiltnamio efektą sukeliančių dujų registre. Veiklos vykdytojai vietoj apyvartinių taršos leidimų gali atsisakyti aplinkos ministro nustatyto kiekio Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje pripažįstamų bendrai įgyvendinamų ir švarios plėtros projektų veiklos išmetamųjų teršalų mažinimo vienetų ir (ar) patvirtintų išmetamųjų teršalų mažinimo vienetų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
 
 4. Veiklos vykdytojai ir (ar) kiti asmenys apyvartinius taršos leidimus gali mainyti į Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje pripažįstamų bendrai įgyvendinamų ir švarios plėtros projektų veiklos išmetamųjų teršalų mažinimo vienetus ir (ar) patvirtintus išmetamųjų teršalų mažinimo vienetus.
 
-5. Veiklos vykdytojai ir (ar) kiti asmenys, turintys apyvartinių taršos leidimų ir (ar) Kioto vienetų, gali juos perleisti kitiems asmenims Europos ekonominės erdvės valstybėse ir (ar) trečiosiose valstybėse, kurios nurodytos Klimato kaitos konvencijos Kioto protokolo B priede ir yra jį ratifikavusios, jeigu tie apyvartiniai taršos leidimai ir (ar) Kioto vienetai yra abipusiškai pripažinti ir aplinkos ministro nustatyta tvarka yra priimtas sprendimas dėl jų pripažinimo. Veiklos vykdytojai ir asmenys apie apyvartinių taršos leidimų ir (ar) Kioto vienetų perleidimą nedelsdami praneša Šiltnamio efektą sukeliančių dujų registro tvarkymo įstaigai.
+5. Veiklos vykdytojai ir (ar) kiti asmenys, turintys apyvartinių taršos leidimų ir (ar) Kioto vienetų, gali juos perleisti kitiems asmenims Europos ekonominės erdvės valstybėse ir (ar) trečiosiose valstybėse, kurios nurodytos Klimato kaitos konvencijos Kioto protokolo B priede ir yra jį ratifikavusios, jeigu tie apyvartiniai taršos leidimai ir (ar) Kioto vienetai yra abipusiškai pripažinti ir aplinkos ministro nustatyta tvarka yra priimtas sprendimas dėl jų pripažinimo. Veiklos vykdytojai ir asmenys apie apyvartinių taršos leidimų ir (ar) Kioto vienetų perleidimą nedelsdami praneša Sąjungos šiltnamio efektą sukeliančių dujų registro nacionaliniam administratoriui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
 
 6. Lėšas, gautas už perleistus apyvartinius taršos leidimus ir Kioto vienetus, veiklos vykdytojai privalo naudoti išmetamų šiltnamio efektą sukeliančių dujų mažinimo ir kitoms aplinkos taršą mažinančioms priemonėms įgyvendinti (aplinkai palankioms technologijoms diegti, energijos efektyvumui didinti, atsinaujinantiems energijos šaltiniams panaudoti, miškams atkurti ir (ar) įveisti, mokslo tiriamiesiems darbams ir jų sklaidai, ūkio subjektams konsultuoti ir mokyti, visuomenei informuoti ir šviesti klimato kaitos politikos valdymo ir įgyvendinimo klausimais ir kitoms priemonėms).
 
@@ -153,11 +167,13 @@ Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010IS
 
 8. Kiekvienais kalendoriniais metais veiklos vykdytojai aplinkos ministro nustatyta tvarka privalo aplinkos ministro įgaliotoms institucijoms pateikti lėšų, gautų už perleistus apyvartinius taršos leidimus ir Kioto vienetus, paskirstymo ir panaudojimo ataskaitas. Ataskaitos skelbiamos Aplinkos ministerijos tinklalapyje.
 
-9. Kiti asmenys, norintys įsigyti apyvartinių taršos leidimų ir (ar) Kioto vienetų ir jais naudotis ar disponuoti, privalo Šiltnamio efektą sukeliančių dujų registro nuostatų nustatyta tvarka atsidaryti sąskaitą Šiltnamio efektą sukeliančių dujų registre.
+9. Kiti asmenys, norintys įsigyti apyvartinių taršos leidimų ir (ar) Kioto vienetų ir jais naudotis ar disponuoti, privalo vadovaudamiesi Sąjungos šiltnamio efektą sukeliančių dujų registro naudojimo taisyklėmis atsidaryti sąskaitą Sąjungos šiltnamio efektą sukeliančių dujų registre.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
+
+Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
 
 6 straipsnis. Nacionalinio šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų paskirstymo plano ir (ar) Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašo rengimas ir tvirtinimas
 
@@ -167,61 +183,27 @@ Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010IS
 
 3. Vyriausybės įgaliotos institucijos, rengdamos Nacionalinį šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų paskirstymo planą ir (ar) Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašą, aplinkos ministro nustatyta tvarka teikia informaciją visuomenei ir sudaro sąlygas jai dalyvauti.
 
-7 straipsnis. Leidimo išmesti šiltnamio efektą sukeliančias dujas išdavimas, pakeitimas, tikslinimas ir panaikinimas
+7 straipsnis. Leidimas išmesti šiltnamio efektą sukeliančias dujas
 
-1. Leidimą išmesti šiltnamio efektą sukeliančias dujas aplinkos ministro nustatyta tvarka išduoda, pakeičia, tikslina ir panaikina aplinkos ministro įgaliota (įgaliotos) institucija (institucijos).
+1. Leidimas išmesti šiltnamio efektą sukeliančias dujas yra sudedamoji taršos integruotos prevencijos ir kontrolės leidimo ar taršos leidimo, kurių išdavimo, pakeitimo ir galiojimo panaikinimo sąlygas ir pagrindus nustato Lietuvos Respublikos aplinkos apsaugos įstatymas, dalis.
 
-2. Veiklos vykdytojas, norintis gauti leidimą išmesti šiltnamio efektą sukeliančias dujas, leidimą išduodančiai institucijai pateikia:
+2. Veiklos vykdytojas, teikdamas paraišką dėl taršos integruotos prevencijos ir kontrolės leidimo ar taršos leidimo su leidimu išmesti šiltnamio efektą sukeliančias dujas, leidimą išduodančiai institucijai papildomai pateikia aplinkos ministro nustatytos formos įsipareigojimą atsisakyti apyvartinių taršos leidimų ir (ar) Kioto vienetų kiekio, kuris yra lygiavertis per praėjusius kalendorinius metus į atmosferą išmestam ir nepriklausomo vertintojo patikrintam šiltnamio efektą sukeliančių dujų kiekiui.
 
-1) aplinkos ministro patvirtintos formos paraišką;
+3. Orlaivio naudotojo pagal Europos Sąjungos teisės aktų nustatytus reikalavimus parengtas ir Aplinkos ministerijos įgaliotos institucijos patvirtintas šiltnamio efektą sukeliančių dujų stebėsenos planas suteikia teisę išmesti šiltnamio efektą sukeliančias dujas šiame stebėsenos plane nustatyta tvarka ir sąlygomis.
 
-2) aplinkos ministro patvirtintame tvarkos apraše nurodytus dokumentus;
+Straipsnio pakeitimai:
 
-3) aplinkos ministro patvirtintos formos įsipareigojimą atsisakyti apyvartinių taršos leidimų ir (ar) Kioto vienetų kiekio, kuris yra lygiavertis per praėjusius kalendorinius metus į atmosferą išmestam ir nepriklausomo vertintojo patikrintam šiltnamio efektą sukeliančių dujų kiekiui.
-
-3. Leidimas išmesti šiltnamio efektą sukeliančias dujas išduodamas ne vėliau kaip per 90 dienų nuo šio straipsnio 2 dalyje nurodytų dokumentų, reikalingų leidimui išduoti, gavimo dienos.
-
-4. Orlaivio naudotojo pagal Europos Sąjungos teisės aktų nustatytus reikalavimus parengtas ir aplinkos ministro patvirtintas šiltnamio efektą sukeliančių dujų stebėsenos planas prilyginamas leidimui išmesti šiltnamio efektą sukeliančias dujas.
-
-5. Leidimas išmesti šiltnamio efektą sukeliančias dujas neišduodamas, jeigu:
-
-1) pateikti ne visi šio straipsnio 2 dalyje nurodyti dokumentai;
-
-2) pateikti dokumentai neteisingai užpildyti arba dokumentai neatitinka kitų jiems nustatytų reikalavimų;
-
-3) pateiktuose dokumentuose nurodyti klaidingi duomenys.
-
-6. Leidimas išmesti šiltnamio efektą sukeliančias dujas pakeičiamas ne vėliau kaip per 90 dienų nuo veiklos vykdytojo paraiškos leidimui pakeisti gavimo dienos. Leidimas pakeičiamas, jeigu:
-
-1) įvyko esminis ūkinės veiklos pakeitimas: įrenginio atveju – atlikti dideli išplėtimo darbai, orlaivio naudotojo atveju – padaugėjo vykdomos veiklos (skrydžių skaičius pagal padidėjusių tonkilometrių duomenis) arba dėl kitų sąlygų, turinčių esminį poveikį šiam leidimui arba skiriamam apyvartinių taršos leidimų kiekiui;
-
-2) pasikeitė vykdomos veiklos pobūdis;
-
-3) pradedami eksploatuoti nauji įrenginiai arba nauji orlaiviai.
-
-7. Leidimas išmesti šiltnamio efektą sukeliančias dujas patikslinamas ne vėliau kaip per 45 dienas nuo veiklos vykdytojo paraiškos leidimui tikslinti gavimo dienos. Leidimas tikslinamas, jeigu:
-
-1) leidime yra klaidingų duomenų ar įrašų;
-
-2) veiklos vykdytojas patikslina duomenis apie vykdomą veiklą, veiklos vykdytojo ar jo pavadinimo ir (ar) buveinės pasikeitimą;
-
-3) įvyko ūkinės veiklos pakeitimas, kuris nepriskiriamas esminiam ūkinės veiklos pakeitimui.
-
-8. Leidimas išmesti šiltnamio efektą sukeliančias dujas panaikinamas:
-
-1) veiklos vykdytojo prašymu;
-
-2) pasibaigus įmonei;
-
-3) jeigu paaiškėja, kad leidimas buvo išduotas ar pakeistas remiantis veiklos vykdytojo pateiktais melagingais duomenimis;
-
-4) jeigu nustatoma, kad veiklos vykdytojas nesilaiko nustatytų leidimo išmesti šiltnamio efektą sukeliančias dujas reikalavimų.
+Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
 
 8 straipsnis. Apyvartinių taršos leidimų skyrimas, galiojimas ir panaikinimas
 
 1. Apyvartinių taršos leidimų skyrimo veikiantiems veiklos vykdytojams ir veiklos vykdytojams, planuojantiems eksploatuoti naujus įrenginius ar naujus orlaivius, ir kitiems asmenims, norintiems įsigyti apyvartinių taršos leidimų ir jais naudotis ar disponuoti, tvarką nustato aplinkos ministras kartu su kitomis Vyriausybės įgaliotomis institucijomis.
 
-2. Apyvartinių taršos leidimų skyrimas veiklos vykdytojui ir (ar) kitam asmeniui, turinčiam teisę įsigyti apyvartinių taršos leidimų ir jais naudotis ar disponuoti, apyvartinių taršos leidimų panaikinimas ir šių leidimų atsisakymas registruojami Šiltnamio efektą sukeliančių dujų registre. Veiklos vykdytojui nustatytas apyvartinių taršos leidimų kiekis įrašomas į leidimą išmesti šiltnamio efektą sukeliančias dujas ir (ar) nurodomas Šiltnamio efektą sukeliančių dujų registre.
+2. Apyvartinių taršos leidimų skyrimas veiklos vykdytojui ir (ar) kitam asmeniui, turinčiam teisę įsigyti apyvartinių taršos leidimų ir jais naudotis ar disponuoti, apyvartinių taršos leidimų panaikinimas ir šių leidimų atsisakymas registruojami Sąjungos šiltnamio efektą sukeliančių dujų registre. Veiklos vykdytojui suteiktas apyvartinių taršos leidimų kiekis nurodomas Sąjungos šiltnamio efektą sukeliančių dujų registre.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
 
 3. Apyvartiniai taršos leidimai galioja Nacionalinio šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų paskirstymo plano ir (ar) Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašo galiojimo laikotarpiu.
 
@@ -283,11 +265,15 @@ Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010IST
 
 7) kitoms klimato kaitos politikos veiksmingo valdymo priemonėms, kurios, naudojantis valstybės pagalba, leistų veiklos vykdytojams ir kitiems ūkio subjektams, kurių vykdoma veikla nepatenka į šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą, sumažinti išmetamų šiltnamio efektą sukeliančių dujų mažinimo įsipareigojimų finansinę ir ekonominę naštą, įgyvendinti;
 
-8) Programos lėšų administravimui ir Šiltnamio efektą sukeliančių dujų registro tvarkymui finansuoti.
+8) Programos lėšų administravimui ir Sąjungos šiltnamio efektą sukeliančių dujų registro administravimui finansuoti.
 
 Papildyta straipsnio punktu:
 
 Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
 
 4. Programos lėšų valdymo bendrosios nuostatos:
 
@@ -345,23 +331,19 @@ BENDRAI ĮGYVENDINAMI IR ŠVARIOS PLĖTROS PROJEKTAI
 
 PENKTASIS SKIRSNIS
 
-ŠILTNAMIO EFEKTĄ SUKELIANČIŲ DUJŲ REGISTRAS
+SĄJUNGOS ŠILTNAMIO EFEKTĄ SUKELIANČIŲ DUJŲ REGISTRAS
 
-12 straipsnis. Šiltnamio efektą sukeliančių dujų registro steigimas ir valdymas
+12 straipsnis. Sąjungos šiltnamio efektą sukeliančių dujų registro naudojimas
 
-1. Šiltnamio efektą sukeliančių dujų registras yra valstybės registras. Registrą steigia ir registro nuostatus tvirtina Vyriausybė.
+1. Lietuvos Respublikai, jos teritorijoje registruotiems veiklos vykdytojams ir (ar) jai priskirtiems administruoti orlaivių naudotojams nuosavybės teise priklausantys Kioto vienetai, apyvartiniai taršos leidimai, Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje nedalyvaujantiems sektoriams paskirti metinių šiltnamio efektą sukeliančių dujų kiekio vienetai registruojami Sąjungos šiltnamio efektą sukeliančių dujų registre esančiose Lietuvos Respublikos jurisdikcijai priklausančiose sąskaitose.
 
-2. Šiltnamio efektą sukeliančių dujų registro vadovaujančioji registro tvarkymo įstaiga yra Aplinkos ministerija, o registro tvarkymo įstaiga – Lietuvos aplinkos apsaugos investicijų fondas.
+2. Sąjungos šiltnamio efektą sukeliančių dujų registre esančių Lietuvos Respublikos jurisdikcijai priklausančių sąskaitų valdymo funkcijas atlieka Aplinkos ministerijos paskirtas nacionalinis administratorius, vadovaudamasis Sąjungos šiltnamio efektą sukeliančių dujų registro veiklą reglamentuojančiais Europos Sąjungos teisės aktais, aplinkos ministro patvirtintomis Sąjungos šiltnamio efektą sukeliančių dujų registro naudojimo taisyklėmis ir kitais teisės aktais.
 
-3. Už sąskaitos atidarymą Šiltnamio efektą sukeliančių dujų registre Lietuvos Respublikos rinkliavų įstatymo nustatyta tvarka imama valstybės rinkliava, už sąskaitos tvarkymą Šiltnamio efektą sukeliančių dujų registre ir už šio registro duomenų teikimą imamas atlyginimas. Šio atlyginimo dydį ir mokėjimo tvarką nustato Vyriausybė.
+3. Už sąskaitos atidarymą Sąjungos šiltnamio efektą sukeliančių dujų registre imama valstybės rinkliava, už šio registro duomenų teikimą ir sąskaitos tvarkymą Sąjungos šiltnamio efektą sukeliančių dujų registre imamas administracinėmis išlaidomis pagrįstas atlyginimas. Šio atlyginimo dydį ir mokėjimo tvarką nustato Vyriausybė.
 
-TAR pastaba. 12 straipsnio 3 dalis įsigalioja 2011 m. sausio 1 d.
+Skirsnio pakeitimai:
 
-4.. Šiltnamio efektą sukeliančių dujų registre registruojami apyvartiniai taršos leidimai ir Kioto vienetai.
-
-Straipsnio pakeitimai:
-
-Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
+Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
 
 PENKTASIS1 SKIRSNIS
 
@@ -757,7 +739,11 @@ instrumentų įstatymo
 
 1. 2003 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje ir iš dalies keičianti Tarybos direktyvą 96/61/EB (OL 2004 m. specialus leidimas 15 skyrius, 7 tomas, p. 631), su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/29/EB (OL 2009 L 140, p. 63).
 
-2. 2004 m. gruodžio 21 d. Komisijos reglamentas (EB) Nr. 2216/2004 dėl standartizuotos ir apsaugotos registrų sistemos sutinkamai su 2003/87/EB Europos Parlamento ir Tarybos direktyva ir 280/2004/EB Europos Parlamento ir Tarybos sprendimu (OL 2004 L 386, p. 1) su paskutiniais pakeitimais, padarytais 2008 m. spalio 8 d. Komisijos reglamentu (EB) Nr. 994/2008 (OL 2008 L 271, p. 3).
+2. 2013 m. gegužės 2 d. Komisijos reglamentas (ES) Nr. 389/2013, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB ir Europos Parlamento ir Tarybos sprendimus Nr. 280/2004/EB ir Nr. 406/2009/EB įsteigiamas Sąjungos registras ir panaikinami Komisijos reglamentai (ES) Nr. 920/2010 ir Nr. 1193/2011 (OL 2013 L 122, p. 1).
+
+Punkto pakeitimai:
+
+Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
 
 3. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos sprendimas Nr. 406/2009/EB dėl valstybių narių pastangų mažinti jų šiltnamio efektą sukeliančių dujų emisijas, Bendrijai siekiant įvykdyti įsipareigojimus iki 2020 m. sumažinti šiltnamio efektą sukeliančių dujų emisijas (OL 2009 L 140, p. 136).
 
@@ -796,6 +782,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
 
 Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo 2, 9, 10, 12-1 straipsnių pakeitimo ir papildymo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
+
+Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo 2, 5, 7, 8, 10, 12-1 straipsnių, penktojo skirsnio ir 2 priedo pakeitimo ir papildymo įstatymas
 
 121 straipsnis. Fluorintų šiltnamio efektą sukeliančių dujų tvarkymo atestatų išdavimas, jų galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir galiojimo panaikinimas
 
@@ -862,6 +856,12 @@ Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010IST
 9. Panaikinus atestato galiojimą, šio straipsnio 1 dalyje nurodyti fiziniai ir juridiniai asmenys dėl naujo atestato gali kreiptis ne anksčiau kaip po vienų metų, išskyrus atvejus, kai atestato galiojimas buvo panaikintas jo turėtojo prašymu.
 
 10. Už atestatų ar jų dublikatų išdavimą Lietuvos Respublikos rinkliavų įstatymo nustatyta tvarka imama valstybės rinkliava.
+
+11. Aplinkos ministerijos įgaliota institucija priima sprendimą nesustabdyti atestato galiojimo, jeigu pažeidimai, atsižvelgiant į šio straipsnio 5 dalies 1 ir 2 punktuose nurodytas aplinkybes, yra mažareikšmiai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
 
 Papildyta skirsniu:
 
