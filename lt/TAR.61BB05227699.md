@@ -4,7 +4,7 @@ identifier: "TAR.61BB05227699"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-30"
-last_updated: "2012-11-15"
+last_updated: "2013-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.61BB05227699"
 department: "Lietuvos Respublikos Seimas"
@@ -23,6 +23,10 @@ LIETUVOS RESPUBLIKOS
 Nr. 51-1243
 
 Neoficialus įstatymo tekstas
+
+Aktuali
+
+įstatymo redakcija nuo 2013-06-01 iki 2013-07-12
 
 LIETUVOS RESPUBLIKOS
 
@@ -354,13 +358,13 @@ turto ataskaitos;
 
 5) Valstybės kontrolės veiklos ataskaitą.
 
-4. Valstybės kontrolė Lietuvos Respublikos
+4. Valstybės kontrolė Lietuvos Respublikos tarptautinių
 
-tarptautinių sutarčių, kitų teisės aktų nustatyta tvarka atlieka Lietuvos
+sutarčių, kitų teisės aktų nustatyta tvarka atlieka Lietuvos Respublikoje
 
-Respublikoje gaunamos Europos Sąjungos finansinės paramos auditus ir teikia
+gaunamos Europos Sąjungos finansinės paramos auditus ir teikia atitinkamoms
 
-atitinkamoms institucijoms šių auditų dokumentus.
+institucijoms šių auditų dokumentus.
 
 5. Valstybės kontrolė rengia savivaldybių
 
@@ -504,19 +508,19 @@ materialinių vertybių inventorizaciją ar kitaip tikrinti audituojamo subjekto
 
 turtą, taip pat atlikti kitus būtinus veiksmus; gauti iš audituojamo subjekto
 
-darbuotojų reikiamus paaiškinimus raštu; surašyti administracinių teisės
+darbuotojų reikiamus paaiškinimus raštu; surašyti administracinių teisės pažeidimų
 
-pažeidimų protokolus; elektroniniu ryšiu gauti iš valstybės valdymo
+protokolus; elektroniniu ryšiu gauti iš valstybės valdymo ir
 
-ir savivaldybių institucijų, valstybės kadastrų,
+savivaldybių institucijų, valstybės kadastrų, klasifikatorių
 
-klasifikatorių bei registrų tvarkytojų duomenis ir informaciją, kurios reikia
+bei registrų tvarkytojų duomenis ir informaciją, kurios reikia valstybiniam
 
-valstybiniam auditui atlikti; gauti iš ekspertizės įstaigų išvadas pagal
+auditui atlikti; gauti iš ekspertizės įstaigų išvadas pagal pateiktus audito
 
-pateiktus audito dokumentus; pasitelkti atitinkamų sričių specialistus ir
+dokumentus; pasitelkti atitinkamų sričių specialistus ir audito įstaigas, kai
 
-audito įstaigas, kai atliekamas specifinių sričių auditas.
+atliekamas specifinių sričių auditas.
 
 2. Atliekantys valstybinį auditą
 
@@ -622,9 +626,9 @@ Valstybinis auditas atliekamas pagal valstybės kontrolieriaus
 
 patvirtintus Valstybinio audito reikalavimus.
 
-3. Valstybinio audito reikalavimai skelbiami
+3. Valstybinio audito reikalavimai
 
-leidinyje „Valstybės žinios“.
+skelbiami leidinyje „Valstybės žinios“.
 
 3 dalis redakcija nuo
 
@@ -686,11 +690,11 @@ sveikatos draudimo fondo biudžeto vykdymo valstybinį auditą.
 
 rinkos priežiūros atlikimu, auditą tiek, kiek tai neprieštarauja Europos
 
-Sąjungos teisės aktams ir juose įtvirtintiems Europos centrinių bankų sistemos tikslams
+Sąjungos teisės aktams ir juose įtvirtintiems Europos centrinių bankų sistemos
 
-ir uždaviniams, ir jeigu tai nepažeidžia Europos centrinių bankų sistemos
+tikslams ir uždaviniams, ir jeigu tai nepažeidžia Europos centrinių bankų
 
-konfidencialumo ir nepriklausomumo režimo.
+sistemos konfidencialumo ir nepriklausomumo režimo.
 
 5. Seimas nutarimu gali pavesti Valstybės kontrolei
 
@@ -792,9 +796,9 @@ Valstybinis auditas baigiamas įforminus valstybinio audito dokumentus.
 
 2. Dėl
 
-audito metu nustatytų reikšmingų teisės aktų pažeidimų priimamas administracinis
+audito metu nustatytų reikšmingų teisės aktų pažeidimų priimamas
 
-aktas – sprendimas.
+administracinis aktas – sprendimas.
 
 3. Valstybės kontrolės
 
@@ -820,11 +824,11 @@ Valstybės kontrolierius ar jo
 
 pavaduotojai, priimdami sprendimus pagal audito ataskaitas, turi teisę:
 
-1) nurodyti
+1)
 
-audituotų subjektų vadovams reikšmingus teisės aktų pažeidimus ir įpareigoti
+nurodyti audituotų subjektų vadovams reikšmingus teisės aktų pažeidimus ir
 
-juos pašalinti;
+įpareigoti juos pašalinti;
 
 2)
 
@@ -990,9 +994,9 @@ Nr. X-468, 2005-12-22,
 
 21 straipsnis. Ryšiai su
 
-Seimu, Vyriausybe, teisėsaugos, audito institucijomis ir kitų valstybių aukščiausiosiomis
+Seimu, Vyriausybe, teisėsaugos, audito institucijomis ir kitų valstybių
 
-audito institucijomis
+aukščiausiosiomis audito institucijomis
 
 1. Valstybės kontrolė, valstybinio audito metu
 
@@ -1022,9 +1026,11 @@ Nr. X-468, 2005-12-22,
 
 tarptautinėmis organizacijomis
 
-Valstybės kontrolė dalyvauja Tarptautinės aukščiausiųjų
+Valstybės kontrolė dalyvauja Tarptautinės
 
-audito institucijų organizacijos INTOSAI ir jos padalinio EUROSAI veikloje.
+aukščiausiųjų audito institucijų organizacijos INTOSAI ir jos padalinio EUROSAI
+
+veikloje.
 
 VI SKYRIUS
 
@@ -1096,11 +1102,11 @@ vertinami pretendentų privalumai ir gebėjimai audito srityje, moralinės ir
 
 asmeninės savybės.
 
-3. Asmenys, priimami į Valstybės kontrolės pareigūnų
+3. Asmenys, priimami į Valstybės kontrolės pareigūnų tarnybą,
 
-tarnybą, turi būti nepriekaištingos reputacijos. Asmuo laikomas praradęs
+turi būti nepriekaištingos reputacijos. Asmuo laikomas praradęs nepriekaištingą
 
-nepriekaištingą reputaciją, jeigu:
+reputaciją, jeigu:
 
 1) buvo nuteistas už tyčinį nusikaltimą;
 
@@ -1170,35 +1176,45 @@ aukštąjį universitetinį išsimokslinimą.
 
 4. Valstybės
 
-kontrolierius pradeda eiti pareigas tik po to, kai Seimo posėdyje prisiekia Lietuvos
+kontrolierius pradeda eiti pareigas tik po to, kai Seimo posėdyje prisiekia
 
-Respublikai.
+Lietuvos Respublikai.
 
-28 straipsnis. Valstybės kontrolieriaus pavaduotojų
+28 straipsnis.
 
-skyrimo tvarka
+Valstybės kontrolieriaus pavaduotojų skyrimo tvarka
 
-1. Valstybės
+1. Valstybės kontrolieriaus pavaduotojus penkeriems
 
-kontrolieriaus pavaduotojus į pareigas skiria Respublikos Prezidentas valstybės
+metams į pareigas skiria Respublikos Prezidentas valstybės kontrolieriaus
 
-kontrolieriaus teikimu.
+teikimu.
 
-2. Valstybės
+2. Tas pats asmuo valstybės kontrolieriaus pavaduotoju
 
-kontrolieriaus pavaduotoju gali būti skiriamas nepriekaištingos reputacijos, ne
+gali būti skiriamas ne daugiau kaip du kartus iš eilės.
 
-vyresnis kaip šešiasdešimt penkerių metų Lietuvos Respublikos pilietis,
+3. Valstybės kontrolieriaus pavaduotoju gali būti
 
-turintis aukštąjį universitetinį išsimokslinimą.
+skiriamas nepriekaištingos reputacijos, ne vyresnis kaip šešiasdešimt penkerių
 
-3. Valstybės
+metų Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį
 
-kontrolieriaus pavaduotojai, pradėdami eiti pareigas, prisiekia Lietuvos
+išsilavinimą.
 
-Respublikai. Valstybės kontrolieriaus pavaduotojų priesaiką priima Respublikos
+4. Valstybės kontrolieriaus pavaduotojai, pradėdami
 
-Prezidentas.
+eiti pareigas, prisiekia Lietuvos Respublikai. Valstybės kontrolieriaus
+
+pavaduotojų priesaiką priima Respublikos Prezidentas.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XII-282,
+
+2013-05-09, Žin., 2013, Nr. 54-2687 (2013-05-25)
 
 29 straipsnis. Valstybės
 
@@ -1366,9 +1382,7 @@ kontrolieriaus atleidimo pagrindai ir sąlygos
 
 5) įsiteisėjus apkaltinamajam teismo nuosprendžiui;
 
-6) sukakęs šešiasdešimt penkerius metus;
-
-7) Pilietybės įstatymo nustatyta tvarka, netekęs
+6) Pilietybės įstatymo nustatyta tvarka netekęs
 
 Lietuvos Respublikos pilietybės.
 
@@ -1378,11 +1392,9 @@ Lietuvos Respublikos pilietybės.
 
 3. Kai pasibaigia valstybės kontrolieriaus įgaliojimų
 
-laikas, valstybės kontrolierius sukanka šešiasdešimt penkerius metus ar
+laikas ar valstybės kontrolierius atsistatydina, jis turi eiti savo pareigas
 
-atsistatydina, jis turi eiti savo pareigas tol, kol Seimas paskirs valstybės
-
-kontrolierių.
+tol, kol Seimas paskiria valstybės kontrolierių.
 
 4. Nepasitikėjimą valstybės kontrolieriumi gali
 
@@ -1400,35 +1412,43 @@ pareigų.
 
 6. Valstybės kontrolierių atleidus pagal šio
 
-straipsnio 1 dalies 4 ir 6 punktus (išdirbus Valstybės kontrolėje ne mažiau
+straipsnio 1 dalies 4 punktą (išdirbus Valstybės kontrolėje ne mažiau kaip
 
-kaip penkerius metus), jam išmokama šešių mėnesių vidutinio darbo užmokesčio
+penkerius metus), jam išmokama šešių mėnesių vidutinio darbo užmokesčio dydžio
 
-dydžio kompensacija.
+išeitinė išmoka.
 
-7. Pasibaigus
+7. Pasibaigus valstybės kontrolieriaus įgaliojimų
 
-valstybės kontrolieriaus įgaliojimų laikui, valstybės kontrolierius turi teisę
+laikui, valstybės kontrolierius turi teisę Valstybės tarnybos įstatymo
 
-įstatymų nustatyta tvarka grįžti į ankstesnį darbą. Tuo atveju jam išmokama
+nustatyta tvarka atkurti valstybės tarnautojo statusą ir gauti trijų mėnesių
 
-trijų mėnesių vidutinio darbo užmokesčio dydžio kompensacija.
+vidutinio darbo užmokesčio dydžio išeitinę išmoką, kuri mokama Valstybės
 
-8. Atsiradus šio straipsnio 1 dalies 3, 4, 5, 7
+tarnybos įstatymo nustatyta tvarka.
+
+8. Atsiradus šio straipsnio 1 dalies 3, 4, 5, 6
 
 punktuose nurodytiems valstybės kontrolieriaus atleidimo pagrindams, Seimo
 
 nutarimu Valstybės kontrolės darbą organizuoja valstybės kontrolieriaus
 
-pavaduotojas šio Įstatymo nustatyta tvarka, kol Seimas paskiria valstybės
+pavaduotojas šio Įstatymo nustatyta tvarka tol, kol Seimas paskiria valstybės
 
 kontrolierių.
 
+Straipsnio pakeitimai:
+
+Nr.
+
+XII-282,
+
+2013-05-09, Žin., 2013, Nr. 54-2687 (2013-05-25)
+
 35 straipsnis.
 
-Valstybės kontrolieriaus pavaduotojo atleidimo pagrindai ir
-
-sąlygos
+Valstybės kontrolieriaus pavaduotojo atleidimo pagrindai ir sąlygos
 
 1. Valstybės kontrolieriaus pavaduotojas atleidžiamas:
 
@@ -1442,35 +1462,61 @@ pareigūno vardą;
 
 4) dėl sveikatos būklės;
 
-5) sukakęs šešiasdešimt penkerius metus;
+5) pasibaigus jo įgaliojimų laikui;
 
-6) Pilietybės įstatymo nustatyta tvarka, netekęs
+6) Pilietybės įstatymo nustatyta tvarka netekęs Lietuvos
 
-Lietuvos Respublikos pilietybės.
+Respublikos pilietybės.
 
 2. Valstybės kontrolieriaus pavaduotojas
 
 atsistatydinimo pareiškimą įteikia valstybės kontrolieriui.
 
-3. Valstybės kontrolieriaus pavaduotoją pagal šio
+3. Kai pasibaigia valstybės kontrolieriaus pavaduotojo
+
+įgaliojimų laikas ar valstybės kontrolieriaus pavaduotojas atsistatydina, jis
+
+turi eiti savo pareigas tol, kol Respublikos Prezidentas valstybės
+
+kontrolieriaus teikimu paskiria valstybės kontrolieriaus pavaduotoją.
+
+4. Valstybės kontrolieriaus pavaduotoją pagal šio
 
 straipsnio 1 dalies 2 punktą gali atleisti iš pareigų Respublikos Prezidentas
 
 valstybės kontrolieriaus teikimu.
 
-4. Atleisti valstybės kontrolieriaus pavaduotoją iš
+5. Atleisti valstybės kontrolieriaus pavaduotoją iš
 
 pareigų dėl sveikatos būklės Respublikos Prezidentas gali tik esant šio
 
 Įstatymo 34 straipsnio 5 dalyje nurodytoms sąlygoms.
 
-5. Pasibaigus
+6. Pasibaigus valstybės kontrolieriaus pavaduotojo
 
-valstybės kontrolieriaus pavaduotojo įgaliojimams pagal šio straipsnio 1 dalies
+įgaliojimams pagal šio straipsnio 1 dalies 4 punktą (išdirbus ne mažiau kaip
 
-4 ir 5 punktus (išdirbus ne mažiau kaip penkerius metus Valstybės kontrolėje),
+penkerius metus Valstybės kontrolėje), jam išmokama šešių mėnesių vidutinio
 
-jam išmokama šešių mėnesių vidutinio darbo užmokesčio dydžio kompensacija.
+darbo užmokesčio dydžio išeitinė išmoka.
+
+7. Pasibaigus valstybės kontrolieriaus pavaduotojo
+
+įgaliojimų laikui, valstybės kontrolieriaus pavaduotojas turi teisę Valstybės tarnybos įstatymo nustatyta tvarka atkurti
+
+valstybės tarnautojo statusą ir gauti trijų mėnesių vidutinio darbo užmokesčio
+
+dydžio išeitinę išmoką, kuri mokama Valstybės tarnybos įstatymo nustatyta
+
+tvarka.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XII-282,
+
+2013-05-09, Žin., 2013, Nr. 54-2687 (2013-05-25)
 
 36 straipsnis.
 
@@ -1560,9 +1606,9 @@ VALSTYBĖS KONTROLĖS PAREIGŪNŲ MOKYMAS IR
 
 KVALIFIKACIJOS KĖLIMAS
 
-39 straipsnis. Mokymo ir kvalifikacijos
+39 straipsnis. Mokymo ir
 
-kėlimo procesas
+kvalifikacijos kėlimo procesas
 
 1. Valstybės
 
@@ -1592,9 +1638,9 @@ kontrolės pareigūnų sisteminio, profesinio mokymo ir kvalifikacijos kėlimo
 
 tvarką valstybinio audito srityje nustato valstybės kontrolierius.
 
-40 straipsnis. Mokymo ir kvalifikacijos
+40 straipsnis. Mokymo ir
 
-kėlimo finansavimas
+kvalifikacijos kėlimo finansavimas
 
 1. Valstybės kontrolės pareigūnų mokymas ir
 
@@ -1776,9 +1822,9 @@ VALSTYBĖS KONTROLĖS ĮSTATYMO 10 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328
+Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 
-(2001-07-25)
+64-2328 (2001-07-25)
 
 VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO, KONSTITUCINIO TEISMO
 
@@ -1816,9 +1862,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1255, 2002-12-10,
+Nr. IX-1255,
 
-Žin., 2002, Nr. 123-5542 (2002-12-24)
+2002-12-10, Žin., 2002, Nr. 123-5542 (2002-12-24)
 
 VALSTYBĖS
 
@@ -1848,9 +1894,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1851, 2003-11-25,
+Nr. IX-1851,
 
-Žin., 2003, Nr. 116-5257 (2003-12-12)
+2003-11-25, Žin., 2003, Nr. 116-5257 (2003-12-12)
 
 VALSTYBĖS
 
@@ -1902,9 +1948,9 @@ VALSTYBĖS
 
 KONTROLĖS ĮSTATYMO 2, 4, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 21, 23, 41
 
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, V SKYRIAUS PAVADINIMO PAKEITIMO IR 42
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, V SKYRIAUS PAVADINIMO PAKEITIMO IR 42 STRAIPSNIO
 
-STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 
 13.
 
@@ -2022,13 +2068,55 @@ KONTROLĖS ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja 2014 m. sausio 1 d.
 
+20.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-282,
+
+2013-05-09, Žin., 2013, Nr. 54-2687 (2013-05-25)
+
+VALSTYBĖS
+
+KONTROLĖS ĮSTATYMO 28, 34, 35 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2013 m.
+
+birželio 1 d.
+
+Iki šio įstatymo įsigaliojimo į
+
+pareigas paskirtiems valstybės kontrolieriaus pavaduotojams penkerių metų
+
+kadencija prasideda nuo šio įstatymo įsigaliojimo dienos.
+
+Valstybės kontrolieriaus
+
+pavaduotojo, paskirto į pareigas iki šio įstatymo įsigaliojimo ir šias pareigas
+
+ėjusio daugiau kaip penkerius metus, tarnybos laikotarpis prilyginamas vienam
+
+nustatytam tarnybos laikotarpiui, o šias pareigas ėjusio daugiau kaip dešimt
+
+metų – dviem tarnybos laikotarpiams.
+
+Valstybės kontrolieriaus
+
+pavaduotojas, paskirtas į pareigas iki šio įstatymo įsigaliojimo ir šias
+
+pareigas ėjęs daugiau kaip dešimt metų, ir kurio tarnyba įvertinama labai
+
+gerai, gali užimamas pareigas eiti ne ilgiau kaip dvejus metus.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2012-11-23)
+Aušrinė Trapinskienė (2013-05-27)
 
 ausrine.trapinskiene@lrs.lt
 
