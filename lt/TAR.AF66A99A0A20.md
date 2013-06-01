@@ -4,7 +4,7 @@ identifier: "TAR.AF66A99A0A20"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2006-06-28"
+last_updated: "2013-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AF66A99A0A20"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2006-06-28 iki 2013-05-31
+Suvestinė redakcija nuo 2013-06-01 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 59-1655, i. k. 0981010ISTAVIII-791
 
@@ -127,17 +127,21 @@ TOPOGRAFIJŲ REGISTRAVIMAS
 
 10 straipsnis. Paraiškos padavimas
 
-1. Asmuo, norintis įregistruoti topografiją, turi paduoti paraišką Valstybiniam patentų biurui. Paraišką gali paduoti keletas juridinių ar fizinių asmenų arba fiziniai ir juridiniai asmenys kartu.
+1. Asmuo, norintis įregistruoti topografiją, turi paduoti paraišką Valstybiniam patentų biurui. Paraišką gali paduoti keletas juridinių ar fizinių asmenų arba fiziniai ir juridiniai asmenys kartu. Už paraiškos padavimą pareiškėjas privalo sumokėti nustatyto dydžio mokestį.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-652, 2006-06-08, Žin., 2006, Nr. 72-2671 (2006-06-28), i. k. 1061010ISTA000X-652
 
-2. Paraišką pareiškėjas gali paduoti per atstovą, kuris yra įrašytas į Lietuvos Respublikos patentinių patikėtinių sąrašą. Pareiškėjui, nuolat gyvenančiam Lietuvos Respublikoje arba turinčiam nuolatinę buveinę, įregistruotą filialą ar atstovybę Lietuvos Respublikoje, kitoje Europos ekonominės erdvės valstybėje, gali atstovauti teisės aktų nustatyta tvarka įgaliotas darbuotojas. Užsienio valstybių fiziniai ir juridiniai asmenys, nuolat negyvenantys Lietuvos Respublikoje ar neturintys nuolatinės buveinės, įregistruoto filialo ar atstovybės Lietuvos Respublikoje, kitoje Europos ekonominės erdvės valstybėje, paraiškas Valstybiniam patentų biurui paduoda ir visus su topografijos registravimu susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Valstybinio patentų biuro Apeliaciniame skyriuje, atlieka per patentinį patikėtinį, įrašytą į Lietuvos Respublikos patentinių patikėtinių sąrašą.
+Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010ISTA0XI-2398
+
+2. Paraišką pareiškėjas gali paduoti per atstovą, kuris yra įrašytas į Lietuvos Respublikos patentinių patikėtinių sąrašą. Pareiškėjui, nuolat gyvenančiam Lietuvos Respublikoje arba turinčiam buveinę, įregistruotą filialą ar atstovybę Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje, gali atstovauti teisės aktų nustatyta tvarka įgaliotas darbuotojas. Užsienio valstybių fiziniai asmenys, nuolat negyvenantys Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje, ir užsienio valstybių juridiniai asmenys, neturintys buveinės, įregistruoto filialo ar atstovybės Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje, paraiškas Valstybiniam patentų biurui paduoda ir visus su topografijos registravimu susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Valstybinio patentų biuro Apeliaciniame skyriuje, atlieka per patentinį patikėtinį, įrašytą į Lietuvos Respublikos patentinių patikėtinių sąrašą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-652, 2006-06-08, Žin., 2006, Nr. 72-2671 (2006-06-28), i. k. 1061010ISTA000X-652
+
+Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010ISTA0XI-2398
 
 3. Paraiška turi būti paduodama ne vėliau kaip per 2 metus nuo pirmojo komercinio topografijos panaudojimo pasaulyje.
 
@@ -149,7 +153,11 @@ Nr. X-652, 2006-06-08, Žin., 2006, Nr. 72-2671 (2006-06-28), i. k. 1061010ISTA0
 
 3) dokumentas, įrodantis pirmojo topografijos komercinio panaudojimo datą, jei ta data yra ankstesnė už prašymo registruoti topografiją, padavimo datą;
 
-4) dokumentas, patvirtinantis, kad sumokėtas mokestis;
+4) Neteko galios nuo 2013-06-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XI-2398, 2012-11-08, Žin. 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010ISTA0XI-2398
 
 5) įgaliojimas, jei paraišką paduoda pareiškėjo atstovas;
 
@@ -157,13 +165,23 @@ Nr. X-652, 2006-06-08, Žin., 2006, Nr. 72-2671 (2006-06-28), i. k. 1061010ISTA0
 
 5. Prašymas registruoti topografiją rašomas lietuvių kalba. Jei kiti dokumentai pateikiami ne lietuvių kalba, per 3 mėnesius nuo paraiškos padavimo datos Valstybiniam patentų biurui turi būti pateiktas jų vertimas į lietuvių kalbą.
 
-6. Paraiškos padavimo data laikoma ta diena, kai Valstybinis patentų biuras gauna šio straipsnio 4 dalies 1–4 punktuose išvardytus dokumentus.
+6. Paraiškos padavimo data laikoma ta diena, kai Valstybinis patentų biuras gauna šio straipsnio 4 dalies 1, 2 ir 3 punktuose išvardytus dokumentus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010ISTA0XI-2398
 
 7. Iki paraiškos paskelbimo pareiškėjas ar jo atstovas gali pildyti, tikslinti ar keisti duomenis pateiktuose dokumentuose, išskyrus topografiją.
 
 8. Valstybinis patentų biuras užtikrina, kad medžiaga, pateikta topografijai registruoti, nebus viešai prieinama, jei pareiškėjas nurodo, kad tai komercinė paslaptis. Ši nuostata nedraudžia pateikti medžiagą, jeigu to reikalaujama teismo ar kitos kompetentingos institucijos nurodyme.
 
 9. Paraiškos dokumentų reikalavimus nustato Valstybinis patentų biuras.
+
+10. Mokestį už paraiškos įregistruoti puslaidininkinių gaminių topografiją padavimą pareiškėjas privalo sumokėti per 1 mėnesį nuo paraiškos padavimo datos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010ISTA0XI-2398
 
 11 straipsnis. Ekspertizė
 
@@ -183,13 +201,27 @@ Nr. X-652, 2006-06-08, Žin., 2006, Nr. 72-2671 (2006-06-28), i. k. 1061010ISTA0
 
 3. Apeliacijos pareiškimo ir nagrinėjimo tvarką nustato Valstybinis patentų biuras.
 
+4. Apeliacinio skyriaus priimtas sprendimas per 6 mėnesius nuo priėmimo dienos gali būti skundžiamas Vilniaus apygardos teismui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010ISTA0XI-2398
+
 13 straipsnis. Topografijos registravimas ir skelbimas
 
 1. Topografija registruojama Lietuvos Respublikos topografijų registre.
 
-2. Apie registravimą skelbiama Valstybinio patentų biuro oficialiame biuletenyje.
+2. Valstybinis patentų biuras tvarko Lietuvos Respublikos topografijų registrą. Valstybinis patentų biuras yra vadovaujančioji Lietuvos Respublikos topografijų registro tvarkymo įstaiga ir tvarkymo įstaiga.
 
-3. Kiekvieno asmens prašymu Valstybinis patentų biuras išduoda išrašą iš Lietuvos Respublikos topografijų registro. Patvirtintas registro išrašas yra oficialus dokumentas.
+3. Lietuvos Respublikos topografijų registro objektų registravimo tvarką, registro duomenų tvarkymą reglamentuoja Lietuvos Respublikos topografijų registro nuostatai.
+
+4. Apie registravimą skelbiama Valstybinio patentų biuro oficialiame biuletenyje.
+
+5. Kiekvieno asmens prašymu Valstybinis patentų biuras išduoda išrašą iš Lietuvos Respublikos topografijų registro. Patvirtintas registro išrašas yra oficialus dokumentas.
+
+Straipsnio pakeitimai:
+
+Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010ISTA0XI-2398
 
 14 straipsnis. Protesto pareiškimas
 
@@ -201,13 +233,15 @@ Nr. X-652, 2006-06-08, Žin., 2006, Nr. 72-2671 (2006-06-28), i. k. 1061010ISTA0
 
 4. Jeigu Apeliacinis skyrius protestą pripažįsta teisėtu, registracija panaikinama. Valstybinio patentų biuro sprendimas skelbiamas oficialiame biuletenyje.
 
+5. Apeliacinio skyriaus priimtas sprendimas per 6 mėnesius nuo priėmimo dienos gali būti skundžiamas Vilniaus apygardos teismui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010ISTA0XI-2398
+
 15 straipsnis. Liudijimo išdavimas
 
 Jeigu 14 straipsnyje numatytomis sąlygomis protestas nepaduodamas arba atmetamas, Valstybinis patentų biuras savininkui išduoda topografijos registravimo liudijimą.
-
-IV SKYRIUS
-
-IŠIMTINIŲ TEISIŲ PERDAVIMAS
 
 16 straipsnis. Išimtinių teisių perdavimas
 
@@ -221,7 +255,11 @@ IŠIMTINIŲ TEISIŲ PERDAVIMAS
 
 1. Topografijos savininkas turi teisę suteikti kitam asmeniui išimtinę ar neišimtinę licenciją naudoti topografiją.
 
-2. Licencinė sutartis įrašoma į Lietuvos Respublikos topografijų registrą ir įsigalioja nuo įrašymo dienos.
+2. Licencinė sutartis įrašoma į Lietuvos Respublikos topografijų registrą, kai pateikiamas vienos iš licencinės sutarties šalių prašymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010ISTA0XI-2398
 
 V SKYRIUS
 
@@ -315,6 +353,14 @@ Nr. X-652, 2006-06-08, Žin., 2006, Nr. 72-2671 (2006-06-28), i. k. 1061010ISTA0
 
 Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymo 1, 10 straipsnio, VI skyriaus pakeitimo bei papildymo ir Įstatymo papildymo priedu įstatymas
 
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010ISTA0XI-2398
+
+Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymo 10, 12, 13, 14, 17 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 15-1 straipsniu įstatymas
+
 211 straipsnis. Teisė gauti informaciją
 
 1. Nagrinėdamas ginčą dėl šio įstatymo nustatytų teisių pažeidimo, teismas, remdamasis ieškovo pagrįstu prašymu, teismo proceso metu gali įpareigoti asmenis nedelsiant pateikti informaciją apie topografijų savininko teises pažeidžiančių gaminių kilmę ir platinimo būdus, ypač:
@@ -398,4 +444,16 @@ Nr. X-652, 2006-06-08, Žin., 2006, Nr. 72-2671 (2006-06-28), i. k. 1061010ISTA0
 VII SKYRIUS
 
 TARPTAUTINĖS SUTARTYS
+
+151 straipsnis. Mokesčiai
+
+Mokesčių dydį ir jų mokėjimo tvarką nustato Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymas.
+
+Papildyta straipsniu:
+
+Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010ISTA0XI-2398
+
+IV SKYRIUS
+
+IŠIMTINIŲ TEISIŲ PERDAVIMAS
 
