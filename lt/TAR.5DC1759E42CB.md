@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2012-12-31"
+last_updated: "2013-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -21,10 +21,6 @@ eu_legal_act: "true"
 Nr. 92-2883
 
 Neoficialus įstatymo tekstas
-
-Aktuali įstatymo
-
-redakcija nuo 2012-12-31
 
 LIETUVOS RESPUBLIKOS
 
@@ -86,11 +82,9 @@ susijusias kelių savininkų bei kitų institucijų pareigas nustato Kelių
 
 šio įstatymo priede.
 
-2 straipsnio redakcija iki
+2 straipsnis. Pagrindinės
 
-2013-01-19:
-
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
+šio įstatymo sąvokos
 
 1.
 
@@ -118,17 +112,17 @@ viename lygyje nekerta jokio kelio, geležinkelio bėgių arba pėsčiųjų tako
 
 2.
 
-Automobilis – bet kokia motorinė transporto priemonė, skirta važiuoti keliu,
+Automobilis – motorinė transporto priemonė, skirta važiuoti keliu, kroviniams ir
 
-vežti krovinius ir (ar) keleivius arba vilkti kitas transporto priemones. Prie
+(ar) keleiviams vežti arba kitoms transporto priemonėms vilkti, išskyrus
 
-automobilių taip pat priskiriami troleibusai, nebėginės elektrinės transporto
+motociklus, lengvuosius keturračius, keturračius, galinguosius keturračius,
 
-priemonės, kurioms energija tiekiama elektros laidais. Prie automobilių
+mopedus, triračius, traktorius ir savaeiges mašinas. Prie automobilių
 
-nepriskiriami motociklai, lengvieji keturračiai motociklai, keturračiai
+priskiriami ir troleibusai, tai yra nebėginės transporto priemonės, kurioms
 
-motociklai, mopedai, traktoriai ir savaeigės mašinos.
+energija tiekiama elektros laidais.
 
 3. Automobilių
 
@@ -222,21 +216,41 @@ reguliavimo teisinių ir techninių priemonių bei tvarkomųjų veiksmų komplek
 
 apsaugoti nuo eismo įvykių ir jų padarinių.
 
-15. Eismo saugumo
+15. Eismo
 
-užtikrinimas – veikla,
+saugumo užtikrinimas –
 
-kuria siekiama užkirsti kelią eismo įvykiams, sušvelninti jų padarinius.
+veikla, kuria siekiama užkirsti kelią eismo įvykiams, sušvelninti jų padarinius.
 
 16.
 
 Eismo tvarka – transporto priemonių, pėsčiųjų, kitų eismo dalyvių judėjimo,
 
-sustojimo ir stovėjimo tvarka keliuose, numatyta šiame ir kituose Lietuvos Respublikos
+sustojimo ir stovėjimo tvarka keliuose, numatyta šiame ir kituose Lietuvos
 
-įstatymuose, KET ir kituose teisės aktuose.
+Respublikos įstatymuose, KET ir kituose teisės aktuose.
 
 17.
+
+Galingasis keturratis – keturratė motorinė transporto priemonė
+
+atviru kėbulu, kuri skirta daugiausia naudoti pramogai arba žemės ūkyje ir
+
+važiuoti bekele arba keliais be dangos, kurios didžiausiasis projektinis
+
+greitis didesnis kaip 45 km/h ir (arba) variklio darbinis tūris didesnis kaip 50 cm3, bet ne didesnis kaip 1 000 cm3, masė be krovinio didesnė kaip 400 kg, o kroviniams vežti skirtos šios keturratės motorinės transporto priemonės masė be krovinio
+
+didesnė kaip 550 kg (be akumuliatorių baterijų, jeigu tai elektros varikliu
+
+varoma transporto priemonė) ir didžiausioji naudingoji galia didesnė kaip 15
+
+kW, bet ne didesnė kaip 100 kW. Prie galingųjų keturračių taip pat priskiriamos
+
+daugiau kaip 4 ratus turinčios motorinės transporto priemonės, atitinkančios
+
+galingiesiems keturračiams taikomus techninius reikalavimus.
+
+18.
 
 Gyvenvietė – namų pristatyta teritorija, kurioje galioja papildomi kelių eismo
 
@@ -244,7 +258,7 @@ reikalavimai ir kurios pradžioje keliai pažymėti ženklu „Gyvenvietės prad
 
 o pabaigoje – „Gyvenvietės pabaiga“.
 
-18. Greitkelis
+19. Greitkelis
 
 – motorinių transporto priemonių eismui skirtas ženklu „Automobilių kelias“
 
@@ -254,7 +268,7 @@ sankryžas ir kurio važiuojamojoje dalyje (važiuojamosiose dalyse) draudžiama
 
 sustoti ir stovėti.
 
-19. Istorinė
+20. Istorinė
 
 motorinė transporto priemonė – prieš 30 metų ar anksčiau pagaminta
 
@@ -262,7 +276,7 @@ transporto priemonė, kurios modelis nebegaminamas mažiausiai 15 metų ir kuri
 
 yra originali, tinkama eksploatuoti, bet nenaudojama kasdienėms reikmėms.
 
-20. Kelio
+21. Kelio
 
 saugumo auditas – nustatyta tvarka atliekamas išsamus techninis
 
@@ -274,13 +288,13 @@ priežiūros darbais, taip pat eksploatuojamo kelio būklės įvertinimas kelių
 
 eismo saugumo užtikrinimo požiūriu.
 
-21.
+22.
 
 Kelio ženklas – KET nurodytas ženklas, kuriuo nustatoma eismo
 
 tvarka, įspėjami eismo dalyviai arba jiems suteikiama informacija.
 
-22.
+23.
 
 Kelyje dirbantis asmuo – asmuo, taisantis ar prižiūrintis kelią, technines
 
@@ -296,7 +310,7 @@ pagalbą kelyje esančiam eismo įvykyje nukentėjusiam asmeniui ar kitam
 
 asmeniui, kuriam reikalinga medicinos pagalba.
 
-23.
+24.
 
 Kelių eismo reguliuotojas (toliau – reguliuotojas) – asmuo, teisės
 
@@ -306,33 +320,31 @@ turintis skiriamąjį ženklą (raištį ant rankovės, reguliuotojo lazdelę, s
 
 su raudonu atšvaitu).
 
-24.
-
-Keturratis motociklas – keturratė motorinė transporto priemonė, išskyrus
-
-lengvuosius keturračius motociklus, kurios didžiausiasis konstrukcinis greitis
-
-didesnis kaip 45 km/h ir (arba) variklio darbinis cilindro tūris didesnis kaip 50 cm(3), eksploatacinė masė ne didesnė kaip 400 kg, o kroviniams vežti skirtos eksploatacinė masė ne didesnė kaip 550 kg (be akumuliatorių baterijų, jeigu tai
-
-elektros varikliu varoma transporto priemonė) ir kurios didžiausioji naudingoji
-
-galia ne didesnė kaip15 kW.
-
 25.
 
-Lengvasis keturratis motociklas – keturratė motorinė transporto
+Keturratis – keturratė motorinė transporto priemonė, išskyrus lengvuosius
 
-priemonė, kurios eksploatacinė masė (be akumuliatorių baterijų, jeigu tai
+keturračius, kurios didžiausiasis projektinis greitis didesnis kaip 45 km/h ir (arba) variklio darbinis tūris didesnis kaip 50 cm3, masė be krovinio ne
 
-elektros varikliu varoma transporto priemonė) ne didesnė kaip 350 kg, didžiausiasis konstrukcinis greitis ne didesnis 45 km/h ir kurios variklio cilindro darbinis tūris ne didesnis kaip 50 cm(3 )(esant kibirkštinio
+didesnė kaip 400 kg, o kroviniams vežti skirtos šios keturratės motorinės
 
-(priverstinio) uždegimo varikliui), didžiausioji naudingoji išėjimo galia ne
+transporto priemonės masė ne didesnė kaip 550 kg (be akumuliatorių baterijų, jeigu tai elektros varikliu varoma transporto priemonė) ir
 
-didesnė kaip 4 kW (esant kitokio tipo vidaus degimo varikliui), didžiausioji
-
-tolygioji nominalioji galia ne didesnė kaip 4 kW (esant elektros varikliui).
+didžiausioji naudingoji galia ne didesnė kaip 15 kW.
 
 26.
+
+Lengvasis keturratis – keturratė motorinė transporto priemonė,
+
+kurios masė (be akumuliatorių baterijų, jeigu tai elektros varikliu varoma transporto
+
+priemonė) be krovinio ne didesnė kaip 350 kg, didžiausiasis projektinis greitis ne didesnis kaip 45 km/h ir kurios variklio darbinis tūris ne didesnis kaip 50 cm3 (esant kibirkštinio (priverstinio) uždegimo varikliui), didžiausioji naudingoji galia
+
+ne didesnė kaip 4 kW (esant kitokio tipo vidaus degimo varikliui), didžiausioji
+
+nominalioji galia ne didesnė kaip 4 kW (esant elektros varikliui).
+
+27.
 
 Maršrutinė transporto priemonė – viešojo transporto priemonės
 
@@ -342,7 +354,7 @@ keleiviai nustatytu maršrutu su nurodytomis sustojimo vietomis, taip pat
 
 mokykliniai autobusai.
 
-27.
+28.
 
 Mokyklinis autobusas – geltonas skiriamaisiais ženklais
 
@@ -350,49 +362,47 @@ paženklintas autobusas, kuriuo vežami vaikai (švietimo įstaigų mokiniai)
 
 specialiu maršrutu.
 
-28.
+29.
 
 Mokinys – asmuo, kuris nustatyta tvarka mokosi vairuoti transporto
 
 priemonę.
 
-29.
+30. Mopedas
 
-Mopedas – dviratė motorinė transporto priemonė, kurios didžiausiasis
+– dviratė motorinė transporto priemonė, kurios didžiausiasis
 
-konstrukcinis greitis ne mažesnis kaip 25 km/h ir ne didesnis kaip 45 km/h ir kurios variklio darbinis cilindro tūris ne didesnis kaip 50 cm(3) (esant vidaus degimo varikliui), o didžiausioji tolygioji nominalioji galia ne
+projektinis greitis ne mažesnis kaip 25 km/h ir ne didesnis kaip 45 km/h ir kurios variklio darbinis tūris ne didesnis kaip 50 cm3
+
+(esant vidaus degimo varikliui), o didžiausioji naudingoji galia ne
 
 didesnė kaip 4 kW (esant elektros varikliui), ar triratė motorinė transporto
 
-priemonė, kurios didžiausiasis konstrukcinis greitis ne mažesnis kaip 25 km/h ir ne didesnis kaip 45 km/h ir kurios variklio darbinis cilindro tūris ne didesnis kaip 50 cm(3) (esant kibirkštinio (priverstinio) uždegimo varikliui), didžiausioji naudingoji
+priemonė, kurios didžiausiasis projektinis greitis ne mažesnis kaip 25 km/h ir ne didesnis kaip 45 km/h ir kurios variklio darbinis tūris ne didesnis kaip 50 cm3 (esant kibirkštinio (priverstinio) uždegimo varikliui), didžiausioji naudingoji
 
-išėjimo galia ne didesnė kaip 4 kW (esant kitokio tipo vidaus degimo
+galia ne didesnė kaip 4 kW (esant kitokio tipo vidaus degimo varikliui), o
 
-varikliui), o didžiausioji tolygioji nominalioji galia ne didesnė kaip 4 kW
-
-(esant elektros varikliui).
-
-30.
-
-Motociklas – dviratė ar daugiau ratų turinti motorinė
-
-transporto priemonė (su šonine priekaba arba be jos), kurios vidaus degimo
-
-variklio cilindro (cilindrų) darbinis tūris didesnis kaip 50 cm³ ir (arba)
-
-didžiausiasis konstrukcinis greitis didesnis kaip 45 km/h. Prie motociklų taip pat priskiriamos triratės motorinės transporto priemonės, kurių masė be
-
-krovinio ne didesnė kaip 400 kg.
+didžiausioji naudingoji galia ne didesnė kaip 4 kW (esant elektros varikliui).
 
 31.
+
+Motociklas – dviratė motorinė transporto priemonė (su šonine
+
+priekaba arba be jos), kurios vidaus degimo variklio darbinis tūris didesnis
+
+kaip 50 cm³ ir (arba) didžiausiasis projektinis
+
+greitis didesnis kaip 45 km/h.
+
+32.
 
 Motorinė transporto priemonė – variklį turinti transporto
 
 priemonė, išskyrus skirtas judėti ne keliais bėgines transporto priemones,
 
-traktorius ir kitas savaeiges transporto priemones.
+traktorius ir savaeiges mašinas.
 
-32. Motorinės
+33. Motorinės
 
 transporto priemonės arba priekabos registravimas –
 
@@ -404,7 +414,7 @@ registrą, valstybinio numerio ženklų ir transporto priemonės registravimo
 
 dokumento išdavimą.
 
-33.
+34.
 
 Papildomas vairuotojų mokymas – mokymas nustatyta tvarka, organizuojamas ir
 
@@ -416,9 +426,9 @@ transporto priemonių vairuotojams, naudojantiems mėlynus ir (ar) raudonus (arb
 
 tik mėlynus) žybčiojančius švyturėlius ir (arba) specialiuosius garso signalus.
 
-33 dalies redakcija nuo 2013-01-01:
+33 dalies redakcija nuo 2013-07-01:
 
-33.
+34.
 
 Papildomas vairuotojų mokymas – mokymas nustatyta tvarka, organizuojamas ir
 
@@ -432,7 +442,7 @@ transporto priemonių vairuotojams, naudojantiems mėlynus ir (ar) raudonus (arb
 
 tik mėlynus) žybčiojančius švyturėlius ir (arba) specialiuosius garso signalus.
 
-34.
+35.
 
 Pėsčiasis – asmuo, esantis kelyje ne transporto priemonėje, taip pat
 
@@ -442,7 +452,7 @@ dviratį, mopedą, motociklą, traukiantis (stumiantis) rogutes, vaikišką ar
 
 kitokį vežimėlį. Pėsčiuoju nelaikomas kelyje dirbantis asmuo.
 
-35.
+36.
 
 Pėsčiųjų perėja – važiuojamojoje dalyje esanti pėsčiųjų perėjimo per kelią
 
@@ -454,7 +464,7 @@ o jeigu jų nėra, – įsivaizduojamos tiesės, einančios nuo kelio ženklų s
 
 per kelią.
 
-36.
+37.
 
 Pėsčiųjų takas – pėstiesiems skirta kelio dalis arba takas,
 
@@ -462,13 +472,13 @@ pažymėti atitinkamais kelio ženklais „Pėsčiųjų takas“ arba „Pėsči
 
 dviračių takas“.
 
-37.
+38.
 
 Pirminis mokymas – mokymas, per kurį įgyjama teorinių žinių, praktinių
 
 transporto priemonės valdymo įgūdžių ir gebėjimų.
 
-38.
+39.
 
 Pradedantysis vairuotojas – asmuo, įgijęs teisę vairuoti A, A1, B1,
 
@@ -476,7 +486,7 @@ B kategorijos motorinę transporto priemonę ir turintis vairavimo stažą iki
 
 dvejų metų.
 
-39.
+40.
 
 Praktinio vairuotojų mokymo centras – juridinis asmuo, kuriam Vyriausybės
 
@@ -484,13 +494,13 @@ arba jos įgaliotos institucijos nustatyta tvarka suteikta teisė organizuoti ir
 
 rengti papildomą motorinių transporto priemonių vairuotojų mokymą.
 
-40.
+41.
 
 Priekaba – transporto priemonė, skirta tempti motorine transporto priemone.
 
 Priekabomis laikomos ir puspriekabės.
 
-41.
+42.
 
 Privalomoji techninė apžiūra – Lietuvos Respublikoje įregistruotų
 
@@ -500,7 +510,7 @@ apimantis transporto priemonės ir priekabos tapatumo nustatymą ir jų technin�
 
 būklės atitikties teisės aktų reikalavimams įvertinimą.
 
-42.
+43.
 
 Priverstinis transporto priemonės sustojimas (toliau – priverstinis
 
@@ -508,15 +518,15 @@ sustojimas) – transporto priemonės sustabdymas (sustojimas),
 
 kai toliau važiuoti neįmanoma arba pavojinga.
 
-43.
+44.
 
-Puspriekabė – su motorine transporto priemone sukabinta priekaba
+Puspriekabė – su motorine transporto priemone sukabinama
 
-taip, kad jos dalis remiasi į motorinę transporto priemonę ir dalis jos masės,
+priekaba, kurios dalis remiasi į motorinę transporto priemonę ir kurios masės
 
-taip pat krovinio masės dalis tenka motorinei transporto priemonei.
+dalis, taip pat krovinio masės dalis tenka motorinei transporto priemonei.
 
-44. Sankryža
+45. Sankryža
 
 – kelių susikirtimo, susijungimo arba atsišakojimo viename lygyje vieta,
 
@@ -528,7 +538,7 @@ išvažiuojama iš kelio į esančias šalia jo teritorijas arba įvažiuojama �
 
 iš esančių šalia jo teritorijų.
 
-45. Skiriamoji
+46. Skiriamoji
 
 kelio juosta (toliau – skiriamoji juosta) – konstrukcinis
 
@@ -538,7 +548,7 @@ kelio elementas (apželdintas veja, želdiniais arba su kelio danga, kurioje
 
 ir nenumatytas transporto priemonėms važiuoti arba sustoti (stovėti).
 
-46.
+47.
 
 Specialiosios transporto priemonės – operatyvinių tarnybų ir
 
@@ -546,21 +556,21 @@ kitos transporto priemonės su specialiaisiais šviesos ir garso signalais arba
 
 tik su specialiaisiais šviesos signalais.
 
-47.
+48.
 
 Šaligatvis – pėstiesiems skirta kelio dalis, esanti prie
 
 važiuojamosios kelio dalies arba atskirta nuo jos.
 
-48. Taktinės ir logistinės transporto priemonės – transporto priemonės, skirtos karinėms
+49. Taktinės ir logistinės transporto priemonės – transporto priemonės, skirtos karinėms
 
 operacijoms, joms pasirengti ir kitoms kariuomenės funkcijoms atlikti.
 
-49. Tamsusis
+50. Tamsusis
 
 paros metas – laiko tarpas nuo saulėlydžio iki saulėtekio.
 
-50.
+51.
 
 Techninės apžiūros kontrolierius – asmuo, atliekantis viešojo
 
@@ -574,7 +584,7 @@ sprendimus dėl dokumentų, kuriais patvirtinamas privalomosios techninės
 
 apžiūros atlikimas, išdavimo.
 
-51. Tikrinantys
+52. Tikrinantys
 
 pareigūnai – uniformuoti valstybės institucijų (policijos,
 
@@ -588,7 +598,7 @@ kuriems Lietuvos Respublikos įstatymų nustatyta tvarka suteikta teisė stabdyt
 
 transporto priemones.
 
-52.
+53.
 
 Traktorius – ratinė arba vikšrinė ne mažiau kaip dviejų ašių transporto
 
@@ -598,7 +608,7 @@ vilkti priekabas, kuri taip pat gali būti pritaikyta kroviniams vežti ir turė
 
 keleivių sėdynių.
 
-53. Transporto
+54. Transporto
 
 priemonė – priemonė žmonėms ir (arba) kroviniams, taip pat ant jos
 
@@ -606,7 +616,7 @@ sumontuotai stacionariai įrangai vežti. Ši sąvoka taip pat apima traktorius,
 
 savaeiges mašinas ir eismui ne keliais skirtas transporto priemones.
 
-54. Transporto
+55. Transporto
 
 priemonės ir priekabos atitikties įvertinimas – veikla, kuria tiesiogiai ar
 
@@ -614,7 +624,7 @@ netiesiogiai nustatoma, kiek transporto priemonė ir jos dalys atitinka
 
 nustatytus reikalavimus.
 
-55.
+56.
 
 Transporto priemonės masė be krovinio (toliau – masė be krovinio)
 
@@ -622,7 +632,7 @@ Transporto priemonės masė be krovinio (toliau – masė be krovinio)
 
 degalų atsarga ir įrankių komplektu.
 
-56.
+57.
 
 Transporto priemonės masė su kroviniu (toliau – masė su kroviniu)
 
@@ -630,13 +640,13 @@ Transporto priemonės masė su kroviniu (toliau – masė su kroviniu)
 
 kroviniu.
 
-57. Transporto
+58. Transporto
 
 priemonės savininkas – asmuo, kuriam nuosavybės teise priklauso transporto
 
 priemonė.
 
-58.
+59.
 
 Transporto priemonės stovėjimas (toliau – stovėjimas) – iš
 
@@ -644,7 +654,7 @@ anksto numatytas transporto priemonės sustabdymas ilgesniam laikui, negu reikia
 
 keleiviams laipinti arba transporto priemonei krauti.
 
-59.
+60.
 
 Transporto priemonės sustojimas (toliau – sustojimas) – iš
 
@@ -652,25 +662,29 @@ anksto numatytas transporto priemonės sustabdymas ne ilgesniam laikui, negu
 
 reikia keleiviams laipinti arba transporto priemonei krauti.
 
-60. Transporto
+61. Transporto
 
 priemonės vairavimas – asmens, esančio transporto priemonėje ar ant
 
 jos, veiksmai, kuriais valdoma judanti transporto priemonė.
 
-61.
+62.
 
 Transporto priemonės valdytojas – asmuo, nuosavybės, patikėjimo, nuomos, panaudos ar kitokiu teisėtu
 
 pagrindu valdantis ir naudojantis transporto priemonę.
 
-62. Transporto
+63. Transporto
 
-priemonių junginys – sujungtos kelios transporto priemonės, kurios kelių
+priemonių junginys – sujungtos kelios transporto priemonės.
 
-eisme dalyvauja kaip vienetas.
+64. Triratis –
 
-63.
+triratė motorinė transporto priemonė su simetriškai išdėstytais ratais, kurios
+
+vidaus degimo variklio darbinis tūris didesnis kaip 50 cm3 ir (arba) didžiausiasis projektinis greitis didesnis kaip 45 km/h.
+
+65.
 
 Vairavimo instruktorius – asmuo, kuriam šio įstatymo ir kitų
 
@@ -678,7 +692,7 @@ teisės aktų nustatyta tvarka suteikta teisė mokyti kitus asmenis
 
 vairuoti transporto priemones.
 
-64. Vairuotojas
+66. Vairuotojas
 
 – asmuo, vairuojantis transporto priemonę. Vairuotojams gali būti
 
@@ -688,15 +702,15 @@ papildomus reikalavimus (vadeliotojai, raiteliai, asmenys, varantys keliu
 
 gyvulius ar paukščius), taip pat asmenys, kurie moko vairuoti.
 
-65.
+67.
 
-Vairuotojo pažymėjimas – teisės aktų nustatyta tvarka išduotas
+Vairuotojo pažymėjimas – teisės aktų nustatyta tvarka išduodamas dokumentas,
 
-dokumentas, kuriuo patvirtinama asmens teisė vairuoti tam tikros kategorijos
+kuriuo patvirtinama asmens teisė vairuoti tam tikros kategorijos motorinę
 
-motorinę transporto priemonę (priemones) ir nurodomos vairavimo sąlygos.
+transporto priemonę (priemones) ir nurodomos vairavimo sąlygos.
 
-66.
+68.
 
 Vairuotojų mokymas pradinei profesinei kvalifikacijai įgyti – C1, C1E, C, CE,
 
@@ -708,7 +722,7 @@ pažymėjimą, patvirtinantį šių transporto priemonių vairuotojų pradinę p
 
 kvalifikaciją vežti krovinius ar keleivius komerciniais tikslais.
 
-67.
+69.
 
 Vairuotojų periodinis profesinis mokymas – C1, C1E, C, CE, D1, D1E, D, DE
 
@@ -722,21 +736,45 @@ vairuotojai tobulino profesinę kvalifikaciją vežti krovinius ar keleivius
 
 komerciniais tikslais.
 
-68.
+70.
 
 Važiuojamoji kelio dalis – kelio
 
 dalis transporto priemonėms važiuoti.
 
-69. Viešasis
+71. Viešasis
 
 eismas – procesas, atsirandantis judant žmonėms ir kroviniams keliais
 
 transporto priemonėmis arba be jų kelių ribose.
 
-2 straipsnio redakcija nuo
+Straipsnio pakeitimai:
 
-2013-01-19:
+Nr. XI-760,
+
+2010-04-15, Žin., 2010, Nr. 48-2308 (2010-04-27)
+
+Nr.
+
+XI-893,
+
+2010-06-10, Žin., 2010, Nr. 75-3791 (2010-06-29)
+
+Nr. XI-1808,
+
+2011-12-15, Žin., 2011, Nr. 156-7389 (2011-12-22)
+
+Nr. XI-1942,
+
+2012-03-27, Žin., 2012, Nr. 38-1892 (2012-03-31)
+
+Nr. XI-1943,
+
+2012-03-27, Žin., 2012, Nr. 42-2044 (2012-04-07)
+
+Nr. XII-53,
+
+2012-12-13, Žin., 2012, Nr. 151-7722 (2012-12-21)
 
 3 straipsnis. Eismo tvarka
 
@@ -750,13 +788,13 @@ Eismo tvarką Lietuvos Respublikos teritorijoje nustato KET, kurias tvirtina
 
 Vyriausybė.
 
-3. Eismą
+3.
 
-keliuose Lietuvos Respublikoje gali riboti tik KET numatyti kelio ženklai,
+Eismą keliuose Lietuvos Respublikoje gali riboti tik KET numatyti kelio
 
-ženklinimo linijos, šviesoforai ir reguliuotojo signalai. Jeigu kelio ženklo ir
+ženklai, ženklinimo linijos, šviesoforai ir reguliuotojo signalai. Jeigu kelio
 
-ženklinimo linijų reikalavimai skiriasi, vadovaujamasi kelio ženklo
+ženklo ir ženklinimo linijų reikalavimai skiriasi, vadovaujamasi kelio ženklo
 
 reikalavimais.
 
@@ -930,9 +968,9 @@ prezidentas. Komisijos pirmininkas yra Ministras Pirmininkas.
 
 1) teikia
 
-Respublikos Prezidentui, Seimui, Vyriausybei, kitoms valstybės ir savivaldybių institucijoms
+Respublikos Prezidentui, Seimui, Vyriausybei, kitoms valstybės ir savivaldybių
 
-ir įstaigoms siūlymus šio įstatymo įgyvendinimo klausimais;
+institucijoms ir įstaigoms siūlymus šio įstatymo įgyvendinimo klausimais;
 
 2) teikia
 
@@ -978,11 +1016,13 @@ techninius dokumentus, nustatančius kelių
 
 rekonstrukcijos, kelių projektavimo, kelių saugumo audito reikalavimus;
 
-2) suderinusi
+2)
 
-su Vidaus reikalų ministerija, nustato tvarką ir atvejus, kada taisomuose kelių
+suderinusi su Vidaus reikalų ministerija, nustato tvarką ir atvejus, kada
 
-(gatvių) ruožuose keliuose dirbantys asmenys gali reguliuoti eismą;
+taisomuose kelių (gatvių) ruožuose keliuose dirbantys asmenys gali reguliuoti
+
+eismą;
 
 3)
 
@@ -1168,7 +1208,9 @@ tvarką;
 
 4)
 
-organizuoja motorinių transporto priemonių ir jų priekabų registravimą ir apskaitą;
+organizuoja motorinių transporto priemonių ir jų priekabų registravimą ir
+
+apskaitą;
 
 5) suderinusi
 
@@ -1284,11 +1326,11 @@ vietinės reikšmės keliuose;
 
 rūpinasi vietinės reikšmės kelių ir gatvių priežiūra, transporto
 
-infrastruktūros objektų projektavimu, statyba, gatvių tiesimu, taisymu ir rekonstravimu
+infrastruktūros objektų projektavimu, statyba, gatvių tiesimu, taisymu ir
 
-bei organizuoja medicinos pagalbos teikimą eismo įvykiuose nukentėjusiems
+rekonstravimu bei organizuoja medicinos pagalbos teikimą eismo įvykiuose
 
-asmenims;
+nukentėjusiems asmenims;
 
 5)
 
@@ -1612,27 +1654,27 @@ priemonių su įjungtais oranžiniais žybčiojančiais švyturėliais vairuotoj
 
 Straipsnio pakeitimai:
 
-Nr. XI-1943,
+Nr. XI-1943, 2012-03-27,
 
-2012-03-27, Žin., 2012, Nr. 42-2044 (2012-04-07)
+Žin., 2012, Nr. 42-2044 (2012-04-07)
 
 13 straipsnis. Bendrosios transporto priemonių vairuotojų pareigos
 
 1.
 
-Draudžiama vairuoti motorinę transporto priemonę, traktorių, savaeigę mašiną asmenims,
+Draudžiama vairuoti motorinę transporto priemonę, traktorių, savaeigę mašiną
 
-neturintiems šios teisės, taip pat esant neblaiviam, apsvaigusiam nuo psichiką
+asmenims, neturintiems šios teisės, taip pat esant neblaiviam, apsvaigusiam nuo
 
-veikiančių medžiagų ar nepasinaudojus teisės aktų nustatytu privalomu kasdieniu
+psichiką veikiančių medžiagų ar nepasinaudojus teisės aktų nustatytu privalomu
 
-poilsiu. Taip pat neleidžiama vairuoti susirgus ar pavargus, jeigu dėl to gali
+kasdieniu poilsiu. Taip pat neleidžiama vairuoti susirgus ar pavargus, jeigu
 
-kilti pavojus eismo saugumui, duoti transporto priemonę vairuoti asmenims,
+dėl to gali kilti pavojus eismo saugumui, duoti transporto priemonę vairuoti
 
-kurie yra paveikti bent vieno iš pirmiau nurodytų veiksnių arba neturi teisės
+asmenims, kurie yra paveikti bent vieno iš pirmiau nurodytų veiksnių arba
 
-vairuoti šią transporto priemonę.
+neturi teisės vairuoti šią transporto priemonę.
 
 2.
 
@@ -1678,56 +1720,6 @@ transporto priemonės, traktoriaus, savaeigės mašinos vairuotojas privalo su
 
 savimi turėti ir policijos, Valstybinės kelių transporto inspekcijos prie
 
-Susisiekimo ministerijos, Valstybės sienos apsaugos tarnybos prie Vidaus
-
-reikalų ministerijos ar muitinės pareigūno reikalavimu pateikti galiojantį
-
-vairuotojo pažymėjimą, transporto priemonės registravimo, privalomosios
-
-techninės apžiūros dokumentus, transporto priemonių valdytojų civilinės
-
-atsakomybės privalomojo draudimo liudijimą (polisą) ir kitus Lietuvos
-
-Respublikos įstatymų bei KET nustatytus dokumentus, taip pat leisti jiems
-
-patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų prietaisų rodmenis.
-
-Lietuvos Respublikoje išduoto vairuotojo pažymėjimo nereikia turėti asmenims,
-
-turintiems Europos Sąjungos valstybėse narėse ir Europos laisvosios prekybos
-
-asociacijos šalyse išduotus galiojančius vairuotojo pažymėjimus. 1926 metų
-
-Paryžiaus konvencijos dėl automobilių eismo, 1949 metų Ženevos konvencijos dėl
-
-kelių eismo ir 1968 metų Vienos konvencijos dėl kelių eismo reikalavimus
-
-atitinkantys nacionaliniai ir tarptautiniai vairuotojo pažymėjimai galioja, jei
-
-asmuo nėra nuolatinis Lietuvos Respublikos gyventojas. Šie užsienio valstybėse
-
-išduoti vairuotojo pažymėjimai nepripažįstami, jei jų turėtojai nėra sukakę šio
-
-įstatymo nustatyto amžiaus arba jei vairuotojo pažymėjimai buvo išduoti
-
-asmenims, kuriems atimta teisė vairuoti transporto priemones ar kurie nustatyta
-
-tvarka nesusigrąžino teisės vairuoti po to, kai ji buvo atimta. Be to,
-
-nepripažįstami vairuotojo pažymėjimai, išduoti asmenims, kuriems vairuotojo
-
-pažymėjimo galiojimas yra apribotas, sustabdytas ar vairuotojo pažymėjimas
-
-atimtas jį išdavusioje valstybėje.
-
-5 dalies redakcija nuo 2013-01-01:
-
-5. Motorinės
-
-transporto priemonės, traktoriaus, savaeigės mašinos vairuotojas privalo su
-
-savimi turėti ir policijos, Valstybinės kelių transporto inspekcijos prie
-
 Susisiekimo ministerijos, aplinkos apsaugos valstybinės kontrolės institucijų,
 
 Valstybės
@@ -1758,27 +1750,27 @@ eismo reikalavimus atitinkantys nacionaliniai ir tarptautiniai vairuotojo
 
 pažymėjimai galioja, jei asmuo nėra nuolatinis Lietuvos Respublikos gyventojas.
 
-Šie užsienio valstybėse išduoti vairuotojo pažymėjimai nepripažįstami, jei jų turėtojai
+Šie užsienio valstybėse išduoti vairuotojo pažymėjimai nepripažįstami, jei jų
 
-nėra sukakę šio įstatymo nustatyto amžiaus arba jei vairuotojo pažymėjimai buvo
+turėtojai nėra sukakę šio įstatymo nustatyto amžiaus arba jei vairuotojo
 
-išduoti asmenims, kuriems atimta teisė vairuoti transporto priemones ar kurie
+pažymėjimai buvo išduoti asmenims, kuriems atimta teisė vairuoti transporto
 
-nustatyta tvarka nesusigrąžino teisės vairuoti po to, kai ji buvo atimta. Be to, nepripažįstami
+priemones ar kurie nustatyta tvarka nesusigrąžino teisės vairuoti po to, kai ji
 
-vairuotojo pažymėjimai, išduoti asmenims, kuriems vairuotojo pažymėjimo
+buvo atimta.
 
-galiojimas yra apribotas, sustabdytas ar vairuotojo pažymėjimas atimtas jį
+Be to, nepripažįstami vairuotojo pažymėjimai, išduoti asmenims, kuriems
 
-išdavusioje valstybėje.
+vairuotojo pažymėjimo galiojimas yra apribotas, sustabdytas ar vairuotojo
 
-6.
+pažymėjimas atimtas jį išdavusioje valstybėje.
 
-Policijos pareigūno reikalavimu vairuotojas privalo leistis Vyriausybės nustatyta
+6. Policijos
 
-tvarka patikrinamas, ar nėra neblaivus, apsvaigęs nuo psichiką veikiančių
+pareigūno reikalavimu vairuotojas privalo leistis Vyriausybės nustatyta tvarka
 
-medžiagų.
+patikrinamas, ar nėra neblaivus, apsvaigęs nuo psichiką veikiančių medžiagų.
 
 7.
 
@@ -1886,9 +1878,9 @@ pagal šaligatvių arba kelkraščių liniją. Kai matomumo zonoje perėjos ar
 
 sankryžos nėra, leidžiama eiti per kelią stačiu kampu į abi puses gerai
 
-apžvelgiamose vietose, tačiau tik įsitikinus, kad eiti saugu ir nebus trukdoma transporto
+apžvelgiamose vietose, tačiau tik įsitikinus, kad eiti saugu ir nebus trukdoma
 
-priemonėms.
+transporto priemonėms.
 
 3. Pėstiesiems
 
@@ -1896,11 +1888,11 @@ draudžiama:
 
 1)
 
-eiti per važiuojamąją dalį tose vietose, kur yra transporto ar pėsčiųjų
+eiti per važiuojamąją dalį tose vietose, kur yra transporto ar pėsčiųjų atitvarai,
 
-atitvarai, o gyvenvietėse – ir ten, kur yra skiriamoji juosta (išskyrus
+o gyvenvietėse – ir ten, kur yra skiriamoji juosta (išskyrus pėsčiųjų perėjas
 
-pėsčiųjų perėjas ir sankryžas);
+ir sankryžas);
 
 2)
 
@@ -1962,9 +1954,9 @@ dalyviams.
 
 Važiuodami motorine transporto priemone su įrengtais saugos diržais, keleiviai
 
-privalo būti užsisegę saugos diržus, o važiuodami motociklu ar mopedu, –
+privalo būti užsisegę saugos diržus, o važiuodami motociklu ar mopedu, – užsidėję
 
-užsidėję ir (ar) užsisegę saugos šalmus.
+ir (ar) užsisegę saugos šalmus.
 
 6.
 
@@ -1982,11 +1974,11 @@ keleivių pareigos yra nustatytos KET.
 
 Važiuoti keliais dviračiu leidžiama ne jaunesniems kaip 14 metų, o
 
-išklausiusiems atitinkamą mokymo kursą ir turintiems mokymo įstaigos išduotą pažymėjimą,
+išklausiusiems atitinkamą mokymo kursą ir turintiems mokymo įstaigos išduotą
 
-– ne jaunesniems kaip 12 metų asmenims. Gyvenamojoje zonoje dviračių vairuotojų
+pažymėjimą, – ne jaunesniems kaip 12 metų asmenims. Gyvenamojoje zonoje
 
-amžius neribojamas.
+dviračių vairuotojų amžius neribojamas.
 
 2.
 
@@ -2046,11 +2038,11 @@ važiuoti nelaikant bent viena ranka vairo;
 
 vežti keleivius, jeigu nėra įrengtų specialių sėdėjimo vietų;
 
-5)
+5) vežti,
 
-vežti, vilkti ar stumti krovinius, kurie trukdo vairuoti arba kelia pavojų
+vilkti ar stumti krovinius, kurie trukdo vairuoti arba kelia pavojų kitiems
 
-kitiems eismo dalyviams;
+eismo dalyviams;
 
 6)
 
@@ -2074,9 +2066,9 @@ Nr. X-1594,
 
 2008-06-10, Žin., 2008, Nr. 71-2719 (2008-06-21)
 
-18 straipsnis. Reikalavimai
+18 straipsnis. Reikalavimai vadeliotojams,
 
-vadeliotojams, gyvulių ar paukščių varovams, raiteliams
+gyvulių ar paukščių varovams, raiteliams
 
 1.
 
@@ -2090,9 +2082,11 @@ matomumui vadeliotojas privalo dėvėti ryškiaspalvę liemenę su šviesą
 
 atspindinčiais elementais.
 
-2. Vadeliotojams,
+2.
 
-gyvulių ar paukščių varovams, raiteliams, kitiems asmenims draudžiama:
+Vadeliotojams, gyvulių ar paukščių varovams, raiteliams, kitiems asmenims
+
+draudžiama:
 
 1)
 
@@ -2150,32 +2144,6 @@ naudojasi transporto priemonių, kurias lydi specialiosios transporto priemonės
 
 vairuotojai.
 
-2. Specialiųjų transporto priemonių (policijos, greitosios
-
-medicinos pagalbos ir priešgaisrinės apsaugos ir gelbėjimo tarnybų, dujų įmonių
-
-avarinių tarnybų), taip pat specialiomis spalvomis nudažytų ir nenudažytų
-
-vidaus reikalų statutinių įstaigų, prokuratūros, Valstybės saugumo
-
-departamento, Specialiųjų tyrimų tarnybos, Antrojo operatyvinių tarnybų
-
-departamento prie Krašto apsaugos ministerijos, Karo policijos, muitinės,
-
-Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos
-
-transporto priemonių vairuotojai, važiuodami kelyje su įjungtais mėlynais ir
-
-(ar) raudonais (arba tik mėlynais) žybčiojančiais švyturėliais ir (ar)
-
-specialiaisiais garso signalais, gali pasinaudoti pirmenybe tik jei tai
-
-nepakenks eismo saugumui ir tik tuo atveju, kai įsitikina, kad jiems duodamas
-
-kelias.
-
-2 dalies redakcija nuo 2013-01-01:
-
 2. Specialiųjų
 
 transporto priemonių (policijos, greitosios medicinos pagalbos ir
@@ -2190,17 +2158,17 @@ tyrimų tarnybos, Antrojo operatyvinių tarnybų departamento prie Krašto apsau
 
 ministerijos, Karo policijos, muitinės, Valstybinės kelių transporto
 
-inspekcijos prie Susisiekimo ministerijos, aplinkos apsaugos valstybinės kontrolės
+inspekcijos prie Susisiekimo ministerijos, aplinkos apsaugos valstybinės
 
-institucijų transporto priemonių vairuotojai, važiuodami kelyje su
+kontrolės institucijų transporto priemonių vairuotojai, važiuodami
 
-įjungtais mėlynais ir (ar) raudonais (arba tik mėlynais) žybčiojančiais
+kelyje su įjungtais mėlynais ir (ar) raudonais (arba tik mėlynais)
 
-švyturėliais ir (ar) specialiaisiais garso signalais, gali pasinaudoti
+žybčiojančiais švyturėliais ir (ar) specialiaisiais garso signalais, gali
 
-pirmenybe tik jei tai nepakenks eismo saugumui ir tik tuo atveju, kai
+pasinaudoti pirmenybe tik jei tai nepakenks eismo saugumui ir tik tuo atveju,
 
-įsitikina, kad jiems duodamas kelias.
+kai įsitikina, kad jiems duodamas kelias.
 
 3.
 
@@ -2218,23 +2186,21 @@ sustojus ir stovint, važiuojant lėtai, vežant pavojingus krovinius ir t. t.).
 
 ir įspėja kitus eismo dalyvius apie galimą pavojų.
 
-5. Transporto
+5.
 
-priemonių su įjungtais oranžiniais žybčiojančiais švyturėliais vairuotojai,
+Transporto priemonių su įjungtais oranžiniais žybčiojančiais švyturėliais
 
-važiuodami kelyje, stovėdami ir (ar) atlikdami darbus, užtikrina, kad nepakenks
+vairuotojai, važiuodami kelyje, stovėdami ir (ar) atlikdami darbus, užtikrina,
 
-eismo saugumui.
+kad nepakenks eismo saugumui.
 
-6. Specialiųjų
+6. Specialiųjų transporto
 
-transporto priemonių vairuotojai, naudojantys mėlynus ir (ar) raudonus
+priemonių vairuotojai, naudojantys mėlynus ir (ar) raudonus (arba tik mėlynus)
 
-(arba tik mėlynus) žybčiojančius švyturėlius ir (arba) specialiuosius
+žybčiojančius švyturėlius ir (arba) specialiuosius garso signalus, privalo
 
-garso signalus, privalo nustatyta tvarka užbaigti papildomus vairuotojų
-
-mokymus.
+nustatyta tvarka užbaigti papildomus vairuotojų mokymus.
 
 Straipsnio pakeitimai:
 
@@ -2248,9 +2214,9 @@ XI-893,
 
 2010-06-10, Žin., 2010, Nr. 75-3791 (2010-06-29)
 
-Nr. XI-2107, 2012-06-21,
+Nr. XI-2107,
 
-Žin., 2012, Nr. 78-4029 (2012-07-04)
+2012-06-21, Žin., 2012, Nr. 78-4029 (2012-07-04)
 
 21 straipsnis. Mokymas vairuoti
 
@@ -2360,11 +2326,11 @@ valstybėse išduoti vairuotojo pažymėjimai.
 
 Pradedantiesiems vairuotojams išduodamas 2 metus galiojantis vairuotojo
 
-pažymėjimas. Pradedantysis vairuotojas gali pakeisti šį pažymėjimą į 10 metų galiojantį
+pažymėjimas. Pradedantysis vairuotojas gali pakeisti šį pažymėjimą į 10 metų
 
-vairuotojo pažymėjimą tik užbaigęs papildomus vairuotojų mokymus pagal
+galiojantį vairuotojo pažymėjimą tik užbaigęs papildomus vairuotojų mokymus
 
-nustatytą tvarką.
+pagal nustatytą tvarką.
 
 5. C1, C1E, C, CE,
 
@@ -2518,25 +2484,25 @@ nustatyta tvarka leidžiamas laikinaisiais valstybinio numerio ženklais
 
 paženklintoms motorinėms transporto priemonėms, priekaboms, kurių savininkai
 
-(valdytojai) yra apsidraudę transporto priemonių valdytojų civilinės atsakomybės
+(valdytojai) yra apsidraudę transporto priemonių valdytojų civilinės
 
-privalomuoju draudimu ir sumokėję valstybės nustatytus su transporto priemone
+atsakomybės privalomuoju draudimu ir sumokėję valstybės nustatytus su
 
-ar su dalyvavimu viešajame eisme susijusius mokesčius.
+transporto priemone ar su dalyvavimu viešajame eisme susijusius mokesčius.
 
 2.
 
-Dalyvauti viešajame eisme Lietuvos Respublikoje leidžiama nustatyta tvarka
+Dalyvauti viešajame eisme Lietuvos Respublikoje leidžiama nustatyta tvarka įregistruotoms
 
-įregistruotoms motorinėms transporto priemonėms, priekaboms, kurioms atlikta ir
+motorinėms transporto priemonėms, priekaboms, kurioms atlikta ir galioja
 
-galioja privaloma techninė apžiūra ir kurių valdytojai yra apsidraudę
+privaloma techninė apžiūra ir kurių valdytojai yra apsidraudę transporto
 
-transporto priemonių valdytojų civilinės atsakomybės privalomuoju draudimu ir
+priemonių valdytojų civilinės atsakomybės privalomuoju draudimu ir sumokėję
 
-sumokėję valstybės nustatytus su transporto priemone ar su dalyvavimu viešajame
+valstybės nustatytus su transporto priemone ar su dalyvavimu viešajame eisme
 
-eisme susijusius mokesčius.
+susijusius mokesčius.
 
 3. Motorinės transporto priemonės, priekabos, dalyvaujančios
 
@@ -2574,19 +2540,19 @@ ir daiktus.
 
 6.
 
-Motorinėms transporto priemonėms, priekaboms, sugadintoms eismo ar kitokio
+Motorinėms transporto priemonėms, priekaboms, sugadintoms eismo ar kitokio įvykio
 
-įvykio metu, kai jos negali judėti sava eiga, nustatyta tvarka uždraudžiama
+metu, kai jos negali judėti sava eiga, nustatyta tvarka uždraudžiama dalyvauti
 
-dalyvauti viešajame eisme. Po atstatomojo motorinės transporto priemonės,
+viešajame eisme. Po atstatomojo motorinės transporto priemonės, priekabos
 
-priekabos remonto, kurio metu visiškai atkuriamos kėbulo (rėmo), važiuoklės
+remonto, kurio metu visiškai atkuriamos kėbulo (rėmo), važiuoklės konstrukcijos
 
-konstrukcijos ir jų stiprumas bei gamintojo įrengta saugos įranga, jos vėl gali
+ir jų stiprumas bei gamintojo įrengta saugos įranga, jos vėl gali dalyvauti
 
-dalyvauti viešajame eisme tik nustatyta tvarka atlikus techninę ekspertizę
+viešajame eisme tik nustatyta tvarka atlikus techninę ekspertizę ekspertizių
 
-ekspertizių įmonėse ir panaikinus tokį draudimą.
+įmonėse ir panaikinus tokį draudimą.
 
 Straipsnio pakeitimai:
 
@@ -2620,9 +2586,9 @@ būti paženklinta tos valstybės, kurioje ji įregistruota, skiriamuoju ženklu
 
 jei šio ženklo nėra valstybiniame numeryje. Į Lietuvos Respubliką atvykstančių
 
-užsienyje registruotų transporto priemonių skiriamieji ženklai nustatomi tarptautinėmis
+užsienyje registruotų transporto priemonių skiriamieji ženklai nustatomi
 
-sutartimis.
+tarptautinėmis sutartimis.
 
 4. KET gali nustatyti, kad tam tikrų kelio
 
@@ -2672,15 +2638,15 @@ motorines transporto priemones ir skirtas specialioms darbo funkcijoms atlikti
 
 motorines transporto priemones, Lietuvos Respublikoje neregistruojamos.
 
-3. Transporto
+3. Transporto priemonės,
 
-priemonės, priekabos registruojamos Lietuvos Respublikos kelių transporto
+priekabos registruojamos Lietuvos Respublikos kelių transporto priemonių
 
-priemonių registre arba Lietuvos Respublikos traktorių, savaeigių ir žemės ūkio
+registre arba Lietuvos Respublikos traktorių, savaeigių ir žemės ūkio mašinų ir
 
-mašinų ir jų priekabų registre. Taktinės ir logistinės paskirties transporto
+jų priekabų registre. Taktinės ir logistinės paskirties transporto priemonės
 
-priemonės registruojamos Lietuvos Respublikos taktinės ir logistinės paskirties
+registruojamos Lietuvos Respublikos taktinės ir logistinės paskirties
 
 transporto priemonių registre.
 
@@ -2696,13 +2662,13 @@ ir žemės ūkio mašinų ir jų priekabų registrą tvarko vadovaujančioji reg
 
 tvarkymo įstaiga – Žemės ūkio ministerija ir registro tvarkymo įstaigos –
 
-valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras ir savivaldybės.
+valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras ir
 
-Lietuvos Respublikos taktinės ir logistinės paskirties transporto priemonių
+savivaldybės. Lietuvos Respublikos taktinės ir logistinės paskirties transporto
 
-registrą tvarko vadovaujančioji registro tvarkymo įstaiga – Krašto apsaugos
+priemonių registrą tvarko vadovaujančioji registro tvarkymo įstaiga – Krašto
 
-ministerija ir registro tvarkymo įstaiga – Lietuvos kariuomenė.
+apsaugos ministerija ir registro tvarkymo įstaiga – Lietuvos kariuomenė.
 
 Straipsnio pakeitimai:
 
@@ -2764,35 +2730,39 @@ nuosavybės ar kita teise priklausančią transporto priemonę.
 
 2. Policijos
 
-pareigūnui, savivaldybės vykdomajai institucijai arba jos įgaliotam pareigūnui
+pareigūnui, aplinkos apsaugos valstybinės kontrolės pareigūnui, savivaldybės
 
-pareikalavus teisės pažeidimo išaiškinimo tikslu, transporto priemonės
+vykdomajai institucijai arba jos įgaliotam pareigūnui pareikalavus teisės
 
-savininkas (valdytojas) turi nurodyti šiam pareigūnui duomenis apie asmenį
+pažeidimo išaiškinimo tikslu, transporto priemonės savininkas (valdytojas) turi
 
-(vardą, pavardę ir gyvenamąją vietą), kuris tam tikru metu valdė ar naudojosi
+nurodyti šiam pareigūnui duomenis apie asmenį (vardą, pavardę, asmens
 
-transporto priemonės savininkui (valdytojui) priklausančia transporto priemone,
+kodą arba gimimo datą, gyvenamąją vietą), kuris tam tikru metu valdė ar
 
-o juridinio asmens vadovas ar jo filialo vadovas privalo nurodyti šiam
+naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto
 
-pareigūnui duomenis apie asmenį (vardą, pavardę ir gyvenamąją vietą), kuris tam
+priemone, o juridinio asmens vadovas ar jo filialo vadovas privalo
 
-tikru metu naudojosi juridiniam asmeniui priklausančia transporto priemone.
+nurodyti šiam pareigūnui duomenis apie asmenį (vardą, pavardę, asmens kodą arba
 
-Transporto priemonės savininkas (valdytojas) arba juridinio asmens
+gimimo datą, gyvenamąją vietą), kuris tam tikru metu naudojosi juridiniam
 
-vadovas (ar jo filialo vadovas), nepateikę šioje dalyje nurodytų
+asmeniui priklausančia transporto priemone. Transporto priemonės savininkas
 
-duomenų, atsako už transporto priemonės savininko (valdytojo) pareigų
+(valdytojas) arba juridinio asmens vadovas (ar jo filialo
 
-neatlikimą Administracinių teisės pažeidimų kodekso nustatyta tvarka.
+vadovas), nepateikę šioje dalyje nurodytų duomenų, atsako už transporto
 
-Transporto priemonės savininkui (valdytojui) arba juridinio asmens vadovui (ar
+priemonės savininko (valdytojo) pareigų neatlikimą Administracinių teisės
 
-jo filialo vadovui) atsakomybė už pareigų neatlikimą netaikoma, jeigu jis
+pažeidimų kodekso nustatyta tvarka. Transporto priemonės savininkui
 
-prarado transporto priemonę prieš savo valią.
+(valdytojui) arba juridinio asmens vadovui (ar jo filialo vadovui) atsakomybė
+
+už pareigų neatlikimą netaikoma, jeigu jis prarado transporto priemonę prieš
+
+savo valią.
 
 3.
 
@@ -2814,233 +2784,415 @@ Nr. XI-1224,
 
 2010-12-14, Žin., 2010, Nr. 153-7791 (2010-12-28)
 
-23 straipsnis. Transporto priemonių kategorijos ir vairuotojų
+Nr. XII-362,
 
-amžius
+2013-06-13, Žin., 2013, Nr. 68-3403 (2013-06-28)
 
-1.
+23 straipsnis.
 
-Automobilių, jų junginių su priekabomis (puspriekabėmis), motociklų ir mopedų
+Motorinių transporto priemonių kategorijos ir minimalus vairuotojų amžius
 
-kategorijos:
+1. Motorinių
 
-1)
+transporto priemonių, jų junginių su priekabomis kategorijos:
 
-AM kategorija – mopedai ir lengvieji keturračiai motociklai;
+1) AM kategorija – mopedai ir lengvieji
 
-2)
+keturračiai;
 
-A1 kategorija – motociklai, kurių variklio darbinis tūris didesnis kaip 50 cm(3), bet ne didesnis kaip 125 cm(3) ir jų galia neviršija 11 kW;
+2) A1 kategorija
 
-3) A
+– motociklai, kurių variklio darbinis tūris didesnis kaip 50 cm3, bet ne didesnis kaip 125 cm3, galia neviršija 11 kW, o galios ir svorio santykis ne didesnis kaip 0,1 kW/kg, taip pat triračiai, kurių
 
-kategorija – motociklai su šonine priekaba arba be jos;
+galia ne didesnė kaip 15 kW;
 
-4)
+3) A2 kategorija
 
-B1 kategorija – triračiai ar keturračiai motociklai;
+– motociklai, kurių galia ne didesnė kaip 35 kW, galios ir svorio santykis ne
 
-5) B
+didesnis kaip 0,2 kW/kg ir kurie nėra kilę iš daugiau kaip du kartus
 
-kategorija – automobiliai, kurių didžiausioji leidžiamoji masė ne didesnė kaip
+galingesnės transporto priemonės;
 
-3 500 kg ir turintys ne daugiau kaip aštuonias sėdimas vietas be vairuotojo
+4) A kategorija
 
-vietos; šie automobiliai gali būti sujungti su priekaba, kurios didžiausioji
+– triračiai, kurių galia didesnė kaip 15 kW, ir motociklai;
 
-leidžiamoji masė ne didesnė kaip 750 kg; šie automobiliai taip pat gali būti
+5) B1 kategorija
 
-sujungti su priekaba, kurios didžiausioji leidžiamoji masė didesnė kaip 750 kg, tačiau junginio didžiausioji leidžiamoji masė turi būti ne didesnė kaip 3 500 kg, o priekabos didžiausioji leidžiamoji masė turi būti ne didesnė už automobilio masę be
+– keturračiai;
 
-krovinio;
+6) B kategorija
 
-6)
+– automobiliai, kurių didžiausioji leidžiamoji masė ne didesnė kaip 3 500 kg ir
 
-BE kategorija – B kategorijos automobilio ir priekabos, kurios didžiausioji
+kurie skirti ir suprojektuoti vežti ne daugiau kaip aštuonis keleivius,
 
-leidžiamoji masė didesnė kaip 750 kg, junginiai;
+neįskaitant vairuotojo; šie automobiliai gali būti sujungti su priekaba, kurios
 
-7)
+didžiausioji leidžiamoji masė ne didesnė kaip 750 kg; šie automobiliai
 
-C1 kategorija – automobiliai, kurie nepriskiriami D1 ir D kategorijoms ir kurių
+taip pat gali būti sujungti su priekaba, kurios didžiausioji leidžiamoji masė
 
-didžiausioji leidžiamoji masė didesnė kaip 3 500 kg, bet ne didesnė kaip 7 500 kg; šie automobiliai gali būti sujungti su priekabomis, kurių
+didesnė kaip 750 kg, tačiau šio junginio didžiausioji leidžiamoji masė turi
 
-didžiausioji leidžiamoji masė ne didesnė kaip 750 kg;
+būti ne didesnė kaip 4 250 kg; automobilio ir priekabos, kurios didžiausioji
 
-8)
+leidžiamoji masė didesnė kaip 750 kg, junginį, kurio didžiausioji leidžiamoji
 
-C1E kategorija – C1 kategorijos automobilių ir priekabų, kurių didžiausioji
+masė didesnė kaip 3 500 kg, leidžiama vairuoti tik išlaikius įgūdžių ir
 
-leidžiamoji masė didesnė kaip 750 kg, junginiai; šių junginių didžiausioji
+elgsenos patikrinimo egzaminą valstybės įmonėje „Regitra“;
 
-leidžiamoji masė turi būti ne didesnė kaip 12 000 kg, o priekabos didžiausioji leidžiamoji masė ne didesnė už automobilio masę be krovinio;
+7) BE kategorija –
 
-9) C
+B kategorijos automobilio ir priekabos, kurios didžiausioji leidžiamoji masė ne
 
-kategorija – automobiliai, kurie nepriskiriami D1 ir D kategorijoms ir kurių
+didesnė kaip 3 500 kg, junginiai;
 
-didžiausioji leidžiamoji masė didesnė kaip 3 500 kg; šios kategorijos automobiliai gali būti sujungti su priekabomis, kurių didžiausioji
+8) C1 kategorija
+
+– automobiliai, kurie nepriskiriami D1 ir D kategorijoms ir kurių didžiausioji
+
+leidžiamoji masė didesnė kaip 3 500 kg, bet ne didesnė kaip 7 500 kg, ir kurie skirti ir
+
+suprojektuoti vežti ne daugiau kaip aštuonis keleivius, neįskaitant vairuotojo;
+
+šie automobiliai gali būti sujungti su priekabomis, kurių didžiausioji
 
 leidžiamoji masė ne didesnė kaip 750 kg;
 
-10)
+9) C1E
 
-CE kategorija – C kategorijos automobilių ir priekabų, kurių didžiausioji
+kategorija – C1 kategorijos automobilių ir priekabų, kurių didžiausioji
 
-leidžiamoji masė didesnė kaip 750 kg, junginiai;
+leidžiamoji masė didesnė kaip 750 kg, junginiai, taip pat junginiai, sudaryti
 
-11)
+iš B kategorijos vilkiko ir priekabos, kurios didžiausioji leidžiamoji masė
 
-D1 kategorija – automobiliai, skirti vežti keleivius ir turintys daugiau kaip
+didesnė kaip 3 500 kg; šių junginių didžiausioji leidžiamoji masė turi būti ne
 
-aštuonias, bet ne daugiau kaip šešiolika sėdimų vietų be vairuotojo vietos; šie
+didesnė kaip 12 000 kg;
+
+10) C kategorija
+
+– automobiliai, kurie nepriskiriami D1 ir D kategorijoms ir kurių didžiausioji
+
+leidžiamoji masė didesnė kaip 3 500 kg, ir kurie skirti ir suprojektuoti vežti
+
+ne daugiau kaip aštuonis keleivius, neįskaitant vairuotojo; šios kategorijos
 
 automobiliai gali būti sujungti su priekabomis, kurių didžiausioji leidžiamoji
 
 masė ne didesnė kaip 750 kg;
 
-12)
+11) CE
 
-D1E kategorija – D1 kategorijos automobilių ir priekabų, kurių didžiausioji
-
-leidžiamoji maksimali masė didesnė kaip 750 kg, junginiai; šių junginių
-
-didžiausioji leidžiamoji masė ne didesnė kaip 12 000 kg bei priekabos
-
-didžiausioji leidžiamoji masė ne didesnė už automobilio masę be krovinio ir ji
-
-nenaudojama keleiviams vežti;
-
-13)
-
-D kategorija – automobiliai, skirti vežti keleivius ir turintys daugiau kaip
-
-aštuonias sėdimas vietas be vairuotojo vietos; šie automobiliai gali būti
-
-sujungti su priekaba, kurios didžiausioji leidžiamoji masė ne didesnė kaip 750
-
-kg;
-
-14)
-
-DE kategorija – D kategorijos automobilių ir priekabų, kurių didžiausioji
+kategorija – C kategorijos automobilių ir priekabų, kurių didžiausioji
 
 leidžiamoji masė didesnė kaip 750 kg, junginiai;
 
-15)
+12) D1
 
-T kategorija – troleibusai, tai yra nebėginės transporto priemonės, sujungtos
+kategorija – automobiliai, kurie skirti ir suprojektuoti vežti ne daugiau kaip
 
-su išoriniu elektros šaltiniu.
+šešiolika keleivių, neįskaitant vairuotojo, ir kurie ne ilgesni kaip 8 metrai; šie automobiliai gali būti sujungti su priekabomis, kurių didžiausioji leidžiamoji
 
-2.
+masė ne didesnė kaip 750 kg;
 
-Minimalus amžius, nuo kurio leidžiama įgyti teisę vairuoti automobilius, jų
+13) D1E
 
-junginius su priekabomis, motociklus bei mopedus ir galima išduoti vairuotojo
+kategorija – D1 kategorijos automobilių ir priekabų, kurių didžiausioji
 
-pažymėjimus, turi būti toks:
+leidžiamoji masė didesnė kaip 750 kg, junginiai;
+
+14) D kategorija
+
+– automobiliai, skirti ir suprojektuoti vežti daugiau kaip aštuonis keleivius,
+
+neįskaitant vairuotojo; šie automobiliai gali būti sujungti su priekaba, kurios
+
+didžiausioji leidžiamoji masė ne didesnė kaip 750 kg;
+
+15) DE
+
+kategorija – D kategorijos automobilių ir priekabų, kurių didžiausioji
+
+leidžiamoji masė didesnė kaip 750 kg, junginiai;
+
+16) T kategorija
+
+– troleibusai, tai yra nebėginės transporto priemonės, sujungtos su išoriniu
+
+elektros šaltiniu.
+
+2. Minimalus
+
+amžius, nuo kurio leidžiama įgyti teisę vairuoti motorines transporto
+
+priemones, jų junginius su priekabomis ir galima išduoti vairuotojo
+
+pažymėjimus:
+
+1) AM kategorija
+
+– 15 metų;
+
+2) A1 kategorija
+
+– 16 metų;
+
+3) A2 kategorija
+
+– 18 metų;
+
+4) A kategorija
+
+– 20 metų, išskyrus teisę vairuoti triračius. Norint įgyti teisę vairuoti
+
+A kategorijos motociklus, reikia turėti dvejų metų A2 kategorijos transporto
+
+priemonių
+
+vairavimo
+
+stažą. Reikalavimas
+
+turėti dvejų
+
+metų A2 kategorijos
+
+transporto priemonių
+
+vairavimo
+
+stažą netaikomas 24
+
+metų sulaukusiems asmenims. Teisė vairuoti triračius, kurių galia didesnė kaip
+
+15 kW, suteikiama nuo 21 metų;
+
+5) B1 kategorija
+
+– 16 metų;
+
+6) B kategorija
+
+– 18 metų;
+
+7) BE kategorija
+
+– 18 metų;
+
+8) C1 kategorija
+
+– 18 metų;
+
+9) C1E
+
+kategorija – 18 metų;
+
+10) C kategorija
+
+– 21 metai, išskyrus asmenis, kurie nustatyta tvarka yra įgiję pradinę
+
+profesinę kvalifikaciją vežti krovinius;
+
+11) CE
+
+kategorija – 21 metai, išskyrus asmenis, kurie nustatyta tvarka yra įgiję
+
+pradinę profesinę kvalifikaciją vežti krovinius;
+
+12) D1
+
+kategorija – 21 metai, išskyrus asmenis, kurie nustatyta tvarka yra įgiję
+
+pradinę profesinę kvalifikaciją vežti keleivius;
+
+13) D1E
+
+kategorija – 21 metai, išskyrus asmenis, kurie nustatyta tvarka yra įgiję
+
+pradinę profesinę kvalifikaciją vežti keleivius;
+
+14) D kategorija –
+
+24 metai, išskyrus asmenis, kurie nustatyta tvarka yra įgiję pradinę profesinę
+
+kvalifikaciją vežti keleivius;
+
+15) DE
+
+kategorija – 24 metai, išskyrus asmenis, kurie nustatyta tvarka yra įgiję
+
+pradinę profesinę kvalifikaciją vežti keleivius;
+
+16) T kategorija
+
+– 21 metai;
+
+17) galingieji
+
+keturračiai – 18 metų.
+
+3. Minimalus
+
+amžius, nuo kurio leidžiama įgyti teisę vairuoti C, CE, D1, D1E, D, DE
+
+kategorijų motorines transporto priemones, jų junginius su priekabomis ir
+
+galima išduoti vairuotojo pažymėjimus, asmenims, kurie nustatyta tvarka yra
+
+įgiję pradinę profesinę kvalifikaciją vežti krovinius (keleivius), yra
+
+reglamentuojamas Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
+
+4. Vairuotojo
+
+pažymėjimu patvirtinta teisė vairuoti:
+
+1) šio
+
+straipsnio 2 dalies 2–16 punktuose nurodytų kategorijų transporto priemones
+
+taip pat suteikia teisę vairuoti AM kategorijos transporto priemones;
+
+2) A2
+
+kategorijos transporto priemones suteikia teisę vairuoti ir A1 kategorijos
+
+transporto priemones;
+
+3) A kategorijos
+
+transporto priemones suteikia teisę vairuoti ir A1, A2 kategorijų transporto
+
+priemones;
+
+4) B, C arba D
+
+kategorijų transporto priemones suteikia teisę vairuoti atitinkamai ir B1, C1
+
+arba D1 kategorijų transporto priemones;
+
+5) C1E, CE, D1E
+
+arba DE kategorijų transporto priemones suteikia teisę vairuoti ir
+
+BE kategorijos transporto priemones;
+
+6) CE, DE
+
+kategorijų transporto priemones suteikia teisę vairuoti atitinkamai ir C1E, D1E
+
+kategorijų transporto priemones;
+
+7) CE
+
+kategorijos transporto priemones suteikia teisę vairuoti ir DE kategorijos
+
+transporto priemones vairuotojams, kurie turi teisę vairuoti D kategorijų
+
+transporto priemones;
+
+8) B kategorijos
+
+transporto priemones suteikia teisę vairuoti galinguosius keturračius.
+
+5. Teisė
+
+vairuoti šioje dalyje nurodytų kategorijų transporto priemones įgyjama
+
+(egzaminai laikomi) laikantis šių sąlygų:
+
+1) teisė
+
+vairuoti C1, C, D1, D ir T kategorijų transporto priemones suteikiama tik
+
+vairuotojams, jau turintiems teisę vairuoti B kategorijos transporto priemones;
+
+2) teisė
+
+vairuoti BE, C1E, CE, D1E ir DE kategorijų transporto priemones suteikiama tik
+
+vairuotojams, jau turintiems teisę vairuoti atitinkamai B, C1, C, D1 ir D
+
+kategorijų transporto priemones.
+
+Straipsnio pakeitimai:
+
+Nr. XI-1943,
+
+2012-03-27, Žin., 2012, Nr. 42-2044 (2012-04-07)
+
+24
+
+straipsnis. Teisės vairuoti transporto priemones atėmimas ir grąžinimas
+
+1.
+
+Teisė vairuoti transporto priemones atimama:
 
 1)
 
-AM kategorija – 15 metų;
+įstatymuose nustatytais atvejais;
 
 2)
 
-A1 kategorija – 16 metų;
+sutrikus elgesiui, asmenybei ir (ar) susirgus ligomis, įtrauktomis į
 
-3) A
+patvirtintą sąrašą, kai dėl asmens sveikatos ar elgesio būklės asmuo negali
 
-kategorija – 18 metų (teisė vairuoti motociklus, kurių galia didesnė kaip 25 kW
+tinkamai vairuoti transporto priemonių, teisė vairuoti transporto priemones
 
-arba galios ir svorio santykis didesnis kaip 0,16 kW/kg, bei motociklus su
+atimama nustatyta tvarka;
 
-šonine priekaba, kurių galios ir svorio santykis viršija 0,16 kW/kg, suteikiama
+3)
 
-tik turint ne trumpesnį kaip dvejų metų motociklų su žemesnėmis
+paaiškėjus, kad teisė vairuoti transporto priemones buvo suteikta pateikus
 
-charakteristikomis vairavimo patirtį) arba 21 metai;
+neteisingus asmens, sveikatos būklės duomenis ar kitą neteisingą informaciją,
 
-4)
+lėmusią teisės vairuoti transporto priemones suteikimą.
 
-B1 kategorija – 16 metų;
+2.
 
-5) B
+Teisė vairuoti transporto priemones grąžinama asmeniui, iš kurio teisė vairuoti
 
-kategorija –18 metų;
+transporto priemones buvo atimta pagal šio straipsnio 1 dalies 2 punktą, kai jo
 
-6)
+sveikatos būklė atitinka nustatytus reikalavimus.
 
-BE kategorija – 18 metų;
+3.
 
-7)
+Asmeniui, kuriam teisė vairuoti transporto priemones buvo atimta dėl KET
 
-C1 kategorija – 18 metų;
+pažeidimų, teisė vairuoti transporto priemones grąžinama tik jam nustatyta
 
-8)
+tvarka užbaigus papildomus vairuotojų mokymus.
 
-C1E kategorija – 18 metų;
+4.
 
-9) C
+Asmeniui, iš kurio pagal įstatymus teisė vairuoti transporto priemones buvo
 
-kategorija – 18 metų (tik teisės aktų nustatyta tvarka įgijus pradinę profesinę
+atimta dėl teisės pažeidimo padarymo vieniems metams ir ilgiau, teisė vairuoti
 
-kvalifikaciją vežti krovinius) arba 21 metai;
+transporto priemones grąžinama tik pasibaigus šios teisės atėmimo laikui ir
 
-10)
+perlaikius egzaminą.
 
-CE kategorija – 18 metų (tik teisės aktų nustatyta tvarka įgijus pradinę
+5.
 
-profesinę kvalifikaciją vežti krovinius) arba 21 metai;
+Teisė vairuoti transporto priemones grąžinama nustatyta tvarka.
 
-11)
+PENKTASIS
 
-D1 kategorija –18 metų (tik teisės aktų nustatyta tvarka įgijus pradinę
+SKIRSNIS
 
-profesinę kvalifikaciją vežti keleivius) arba 21 metai;
+TRANSPORTO
 
-12)
-
-D1E kategorija – 18 metų (tik teisės aktų nustatyta tvarka įgijus pradinę
-
-profesinę kvalifikaciją vežti keleivius) arba 21 metai;
-
-13)
-
-D kategorija –18 metų (vežti keleivius reguliariais reisais, jeigu maršrutas ne
-
-ilgesnis kaip 50 km, ir tik teisės aktų nustatyta tvarka įgijus pradinę
-
-profesinę kvalifikaciją vežti keleivius), 21 metai (vežti keleivius
-
-reguliariais reisais, jeigu maršrutas ne ilgesnis kaip 50 km, arba tik teisės
-
-aktų nustatyta tvarka įgijus pradinę profesinę kvalifikaciją vežti keleivius)
-
-arba 23 metai;
-
-14)
-
-DE kategorija ir D kategorija – 18 metų (vežti keleivius reguliariais reisais,
-
-jeigu maršrutas ne ilgesnis kaip 50 km, ir tik teisės aktų nustatyta tvarka
-
-įgijus pradinę profesinę kvalifikaciją vežti keleivius), 21 metai (vežti
-
-keleivius reguliariais reisais, jeigu maršrutas ne ilgesnis kaip 50 km, arba
-
-tik teisės aktų nustatyta tvarka įgijus pradinę profesinę kvalifikaciją vežti keleivius)
-
-arba 23 metai;
-
-15)
-
-T kategorija – 21 metai.
-
-23 straipsnio redakcija nuo
-
-2013-01-19:
+PRIEMONĖS
 
 27 straipsnis. Transporto priemonių registravimas
 
@@ -3174,7 +3326,9 @@ nustatytus reikalavimus ir gavusios leidimus verstis šia veikla.
 
 Sprendimus dėl motorinės transporto priemonės ir priekabos techninės būklės
 
-atitikties nustatytiems reikalavimams priima techninės apžiūros kontrolierius.
+atitikties nustatytiems reikalavimams priima techninės apžiūros
+
+kontrolierius.
 
 ŠEŠTASIS
 
@@ -3244,9 +3398,9 @@ Siekiant
 
 užtikrinti eismo keliais saugumą ir apsaugoti žmonių gyvybę, sveikatą ir turtą,
 
-asmenims taikoma atsakomybė už teisės aktų, reglamentuojančių eismo keliais saugumą,
+asmenims taikoma atsakomybė už teisės aktų, reglamentuojančių eismo keliais
 
-pažeidimus.
+saugumą, pažeidimus.
 
 33 straipsnis. Transporto priemonės
 
@@ -3288,13 +3442,13 @@ Sprendimą dėl priverstinio transporto priemonės nuvežimo ar uždraudimo toli
 
 važiuoti, jei yra šio straipsnio 1 dalyje nustatyti pagrindai, gali priimti
 
-policijos ir Valstybinės kelių transporto inspekcijos prie Susisiekimo
+policijos ir Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos
 
-ministerijos pareigūnai, o jei yra šio straipsnio 2 dalyje nustatyti pagrindai,
+pareigūnai, o jei yra šio straipsnio 2 dalyje nustatyti pagrindai, – policijos
 
-– policijos ir Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus
+ir Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų
 
-reikalų ministerijos pareigūnai.
+ministerijos pareigūnai.
 
 4.
 
@@ -3736,9 +3890,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. XI-1808,
+Nr. XI-1808, 2011-12-15,
 
-2011-12-15, Žin., 2011, Nr. 156-7389 (2011-12-22)
+Žin., 2011, Nr. 156-7389 (2011-12-22)
 
 SAUGAUS EISMO
 
@@ -3788,9 +3942,9 @@ AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 7, 10, 19, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDY
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XI-1144, 2010-11-18,
+Nr. XI-1144,
 
-Žin., 2010, Nr. 142-7259 (2010-12-04)
+2010-11-18, Žin., 2010, Nr. 142-7259 (2010-12-04)
 
 SAUGAUS EISMO
 
@@ -3864,11 +4018,21 @@ SAUGAUS EISMO AUTOMOBILIŲ KELIAIS
 
 išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. sausio 1 d.
 
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-362,
+
+2013-06-13, Žin., 2013, Nr. 68-3403 (2013-06-28)
+
+SAUGAUS EISMO AUTOMOBILIŲ KELIAIS
+
+ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
-Redagavo Aušrinė Trapinskienė
+Redagavo Aušra Bodin (2013-06-28)
 
-(2012-12-21)
-
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
 
