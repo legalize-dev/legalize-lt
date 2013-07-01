@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "2011-10-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2011-10-01 iki 2013-06-30
+Suvestinė redakcija nuo 2013-07-01 iki 2014-04-29
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -376,7 +376,11 @@ Branduolinės saugos, radiacinės saugos, fizinės saugos, veiklos su branduolin
 
 21 straipsnis. Valstybinė atominės energetikos saugos inspekcija
 
-1. Valstybinė atominės energetikos saugos inspekcija – branduolinės energetikos srities veiklos, veiklos su branduolinėmis medžiagomis ir kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais valstybinį reglamentavimą ir priežiūrą vykdanti savarankiška valstybės įstaiga, veikianti pagal šį ir kitus įstatymus ir savo nuostatus. Valstybinės atominės energetikos saugos inspekcijos savininkė – valstybė, jos teises ir pareigas įgyvendina Vyriausybė. Valstybinės atominės energetikos saugos inspekcijos nuostatus tvirtina Vyriausybė. Valstybinė atominės energetikos saugos inspekcija veikia pagal Vyriausybės patvirtintą strateginį veiklos planą ir pagal Valstybinės atominės energetikos saugos inspekcijos viršininko patvirtintą metinį veiklos planą.
+1. Valstybinė atominės energetikos saugos inspekcija – branduolinės energetikos srities veiklos, veiklos su branduolinėmis medžiagomis ir kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais valstybinį reglamentavimą ir priežiūrą vykdanti savarankiška valstybės įstaiga, veikianti pagal šį ir kitus įstatymus ir savo nuostatus. Valstybinės atominės energetikos saugos inspekcijos savininkė – valstybė, jos teises ir pareigas įgyvendina Vyriausybė. Valstybinės atominės energetikos saugos inspekcijos nuostatus tvirtina Vyriausybė. Valstybinė atominės energetikos saugos inspekcija veikia pagal Valstybinės atominės energetikos saugos inspekcijos viršininko patvirtintus strateginį ir metinį veiklos planus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-216, 2013-03-28, Žin., 2013, Nr. 36-1727 (2013-04-06), i. k. 1131010ISTA0XII-216
 
 2. Valstybinė atominės energetikos saugos inspekcija yra iš valstybės biudžeto išlaikoma biudžetinė įstaiga, turinti sąskaitą banke, antspaudą su Lietuvos Respublikos valstybės herbu ir savo pavadinimu. Valstybinės atominės energetikos saugos inspekcijos lėšų šaltiniai yra valstybės biudžeto asignavimai ir kitos teisėtai gaunamos pajamos.
 
@@ -448,7 +452,11 @@ Branduolinės saugos, radiacinės saugos, fizinės saugos, veiklos su branduolin
 
 4) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš pareigų Valstybinės atominės energetikos saugos inspekcijos valstybės tarnautojus ir darbuotojus, juos skatina ir skiria jiems nuobaudas;
 
-5) tvirtina Valstybinės atominės energetikos saugos inspekcijos metinį veiklos planą;
+5) tvirtina Valstybinės atominės energetikos saugos inspekcijos strateginį ir metinį veiklos planus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-216, 2013-03-28, Žin., 2013, Nr. 36-1727 (2013-04-06), i. k. 1131010ISTA0XII-216
 
 6) tvirtina metinę Valstybinės atominės energetikos saugos inspekcijos veiklos ataskaitą ir finansinių ataskaitų rinkinį ir ne vėliau kaip iki kiekvienų metų gegužės 1 dienos teikia juos Prezidentui ir Vyriausybei ir paskelbia viešai;
 
@@ -965,6 +973,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1537, 2011-06-28, Žin., 2011, Nr. 91-4314 (2011-07-19); Žin., 2011, Nr. 109-0 (2011-09-03), i. k. 1111010ISTA0XI-1537
 
 Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-216, 2013-03-28, Žin., 2013, Nr. 36-1727 (2013-04-06), i. k. 1131010ISTA0XII-216
+
+Lietuvos Respublikos branduolinės energijos įstatymo 21 ir 23 straipsnių pakeitimo įstatymas
 
 54 straipsnis. Branduolinės avarijos likvidavimas
 
