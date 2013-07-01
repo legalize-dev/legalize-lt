@@ -4,7 +4,7 @@ identifier: "TAR.F43F5ED5C4BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2011-09-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F43F5ED5C4BB"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karių materialinės atsakomybės įstatymas
 
-Suvestinė redakcija nuo 2011-09-01 iki 2013-06-30
+Suvestinė redakcija nuo 2013-07-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1928, i. k. 1001010ISTAIII-1857
 
@@ -103,15 +103,21 @@ ANTRASIS SKIRSNIS
 
 KARIŲ MATERIALINĖ ATSAKOMYBĖ
 
-4 straipsnis. Karių ribotos materialinės atsakomybės atvejai
+4 straipsnis. Karių ribotos materialinės atsakomybės atvejai ir atlygintinos žalos dydžiai
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
 
 1. Profesinės karo tarnybos kariai už tarnybos turto, piniginių lėšų ar kitų materialinių vertybių praradimą, sugadinimą ar sunaikinimą, padarytą dėl neatsargumo einant tarnybines pareigas, atsako pusės jų padarytos tikrosios žalos dydžio suma, bet ne didesne kaip trys profesinės karo tarnybos kario mėnesiniai tarnybiniai atlyginimai.
 
-2. Privalomosios karo tarnybos kariai už tarnybos turto, piniginių lėšų ar kitų materialinių vertybių praradimą, sugadinimą ar sunaikinimą, padarytą dėl neatsargumo einant tarnybines pareigas, atsako pusės jų padarytos tikrosios žalos dydžio suma, bet ne didesne kaip du pareiginės algos baziniai dydžiai.
+2. Privalomosios pradinės karo tarnybos kariai už tarnybos turto, piniginių lėšų ar kitų materialinių vertybių praradimą, sugadinimą ar sunaikinimą, padarytą dėl neatsargumo einant tarnybines pareigas, atsako pusės jų padarytos tikrosios žalos dydžio suma, bet ne didesne kaip du pareiginės algos baziniai dydžiai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-795, 2006-07-19, Žin., 2006, Nr. 87-3406 (2006-08-08), i. k. 1061010ISTA000X-795
+
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
 
 3. Kariai savanoriai ir kiti aktyviojo rezervo kariai, taip pat parengtojo rezervo kariai, pašaukti į tarnybą, pratybas ar mokymus, už tarnybos turto, piniginių lėšų ar kitų materialinių vertybių praradimą, sugadinimą ar sunaikinimą tarnybos metu dėl neatsargumo atsako pusės jų padarytos tikrosios žalos dydžio suma, bet ne didesne kaip Vyriausybės nustatytas mėnesinis tarnybą rezerve atliekančio kario atlyginimas.
 
@@ -135,7 +141,11 @@ Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010IST
 
 5) kai žala padaryta dėl to, kad karys netinkamai įvertino galimą neigiamą aplinkos veiksnių (meteorologinių sąlygų, kitų asmenų veiksmų ir pan.) įtaką savo veikos rezultatams, nors ir galėjo tai numatyti, jei vadovaujantis protingumo ir teisingumo principais įprastinėmis sąlygomis jo veika būtų vertinama kaip pakankamai atsargi.
 
-2. Atlygintinos žalos dydis ribotos materialinės atsakomybės atvejais gali būti mažinamas, jei karys išlaiko mažamečius ar nedarbingus šeimos narius ir jei dėl išskaitymų iš jo atlyginimo šeimos pajamos vienam šeimos nariui sumažėtų iki dviejų minimalių gyvenimo lygių sumos.
+2. Atlygintinos žalos dydis ribotos materialinės atsakomybės atvejais gali būti mažinamas, jei karys išlaiko mažamečius ar nedarbingus šeimos narius ir jei dėl išskaitymų iš jo atlyginimo šeimos pajamos vienam šeimos nariui sumažėtų iki dviejų bazinių socialinių išmokų sumos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
 
 3. Atlygintinos žalos dydį, atsižvelgdamas į kario kaltės laipsnį, konkrečias žalos padarymo aplinkybes ir materialinę kario padėtį, gali sumažinti vadas (viršininkas), Krašto apsaugos ministerijos karių skundų nagrinėjimo komisija (toliau – skundų nagrinėjimo komisija) arba teismas.
 
@@ -155,11 +165,13 @@ Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010IST
 
 1. Kariai, įstatymų ar kitų norminių aktų nustatyta tvarka paskirti nuolat ar laikinai eiti pareigas ar atlikti darbus, susijusius su materialinių vertybių, piniginių lėšų ar kito turto priėmimu ar perdavimu, saugojimu, apskaita, valdymu, disponavimu ar tvarkymu, materialiai atsako už visą dėl jų kaltės krašto apsaugos sistemos institucijoms, kuriose kariai tarnauja, padarytą žalą šiais atvejais:
 
-1) kai yra sudaryta kario ir krašto apsaugos sistemos institucijos sutartis dėl visiškos materialinės kario atsakomybės ir karys pinigines lėšas, materialines vertybes ar kitą turtą priėmė savo žinion arba pradėjo realiai tvarkyti jų apskaitą, arba jam buvo suteikta teisė priimti sprendimą, susijusį su jų valdymu, tvarkymu ar disponavimu jais;
+1) kai yra sudaryta kario ar karių grupės ir krašto apsaugos sistemos institucijos sutartis dėl visiškos materialinės atsakomybės ir karys ar karių grupė pinigines lėšas, materialines vertybes ar kitą turtą priėmė savo žinion arba pradėjo realiai tvarkyti jų apskaitą, arba kariui ar karių grupėms buvo suteikta teisė priimti sprendimą, susijusį su piniginių lėšų, materialinių vertybių ar kito turto valdymu, tvarkymu ar disponavimu jais;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010ISTA0XI-1514
+
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
 
 2) kai karys turtą ar kitas materialines vertybes gavo atsiskaitytinai pagal vienkartinį įgaliojimą ar kitus vienkartinius dokumentus.
 
@@ -185,21 +197,33 @@ Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010IST
 
 1. Sutartis dėl visiškos materialinės atsakomybės yra sudaroma raštu.
 
-2. Sutartis dėl visiškos materialinės atsakomybės sudaroma su kariu, kurio tarnyba yra nuolat ar laikinai susijusi su materialinių vertybių, piniginių lėšų ar kito turto priėmimu ar perdavimu, saugojimu, apskaita, valdymu, tvarkymu ar disponavimu jais.
+2. Sutartis dėl visiškos materialinės atsakomybės sudaroma su kariu, kurio tarnyba yra nuolat ar laikinai susijusi su materialinių vertybių, piniginių lėšų ar kito turto priėmimu ar perdavimu, saugojimu, apskaita, valdymu, tvarkymu ar disponavimu jais. Kai dėl kartu atliekamos tarnybos neįmanoma atriboti atskirų karių atsakomybės, gali būti sudaroma sutartis dėl visiškos materialinės atsakomybės su karių grupe.
 
-3. Sutartį dėl visiškos materialinės atsakomybės su kariu pasirašo dalinio vadas (tarnybos viršininkas). Sutartis sudaroma dviem egzemplioriais. Vienas iš jų atiduodamas kariui, o antras saugomas kario asmens byloje.
+Straipsnio dalies pakeitimai:
 
-4. Pareigybių, kurios susijusios su materialinių vertybių, piniginių lėšų ar kito turto saugojimu, apskaita, valdymu, tvarkymu ar disponavimu jais, sąrašą tvirtina krašto apsaugos ministras.
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
+
+3. Sutartį dėl visiškos materialinės atsakomybės su kariu ar karių grupe pasirašo krašto apsaugos sistemos institucijos, kurioje tarnauja kariai, vadas (viršininkas) ar jo įgaliotas asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
+
+4. Pareigybių, kurios susijusios su materialinių vertybių, piniginių lėšų ar kito turto saugojimu, apskaita, valdymu, tvarkymu ar disponavimu jais, sąrašą tvirtina krašto apsaugos sistemos institucijos, kurioje tarnauja kariai, vadas (viršininkas) ar jo įgaliotas asmuo.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010ISTA0XI-1514
 
-5. Visiškos materialinės atsakomybės sutartis su kariu sudaroma pagal krašto apsaugos ministro patvirtintą tipinę formą.
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
+
+5. Sutarties dėl visiškos materialinės atsakomybės, kurioje nustatoma, už kokias materialines vertybes, pinigines lėšas ar kitą turtą karys ar karių grupė prisiima visišką materialinę atsakomybę ir kokius įsipareigojimus prisiima krašto apsaugos sistemos institucija, kurioje tarnauja kariai, užtikrindama sąlygas, kad žala neatsirastų, formą ir sutarties sudarymo tvarką, nustato krašto apsaugos ministras.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010ISTA0XI-1514
+
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
 
 TREČIASIS SKIRSNIS
 
@@ -216,6 +240,12 @@ Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010IST
 2. Žalos apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 3. Žalos, padarytos dėl kelių karių kaltės, dydis kiekvienam iš jų nustatomas atsižvelgiant į kaltės laipsnį ir materialinės atsakomybės rūšį bei ribas.
+
+4. Kai žala padaryta esant su karių grupe sudarytai sutarčiai dėl visiškos materialinės atsakomybės, kiekvieno sutartį pasirašiusio kario dalis atlyginant žalą nustatoma proporcingai jo atliktos tarnybos laikui, per kurį susidarė žala, jeigu sutartyje nenustatyta kitaip.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
 
 10 straipsnis. Tarnybinio atlyginimo dydžio nustatymas
 
@@ -237,11 +267,13 @@ Nr. X-795, 2006-07-19, Žin., 2006, Nr. 87-3406 (2006-08-08), i. k. 1061010ISTA0
 
 11 straipsnis. Tarnybinio patikrinimo skyrimo ir atlikimo tvarka
 
-1. Tarnybinį patikrinimą dėl žalos padarymo skiria ir asmeniškai už jį atsako krašto apsaugos sistemos institucijos vadas (viršininkas).
+1. Tarnybinį patikrinimą dėl žalos padarymo skiria ir asmeniškai už jį atsako krašto apsaugos sistemos institucijos vadas (viršininkas), o Lietuvos kariuomenėje – ne mažesnio kaip dalinio karinio vieneto vadas (viršininkas).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010ISTA0XI-1514
+
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
 
 2. Tarnybinį patikrinimą dėl vadų (viršininkų) materialinės žalos padarymo įsakymu skiria viršesni vadai (viršininkai).
 
@@ -441,21 +473,39 @@ KETVIRTASIS SKIRSNIS
 
 2. Vado (viršininko) sutikimu karys žalai atlyginti gali perduoti tapatų ir lygiavertį turtą arba pataisyti sužalotąjį, išskyrus atvejus, kai žala atsirado dėl ginkluotės, šaudmenų, sprogmenų, nuodingųjų ar cheminių medžiagų praradimo, sunaikinimo ar sugadinimo.
 
-3. Susitarimas atlyginti žalą sudaromas raštu, nurodant žalos dydį, atlyginimo būdą bei terminus. Susitarimą pasirašo žalą patyrusios institucijos vadas (viršininkas) ir karys.
+3. Susitarimas atlyginti žalą sudaromas raštu, nurodant žalos dydį, atlyginimo būdą bei terminus. Susitarimą pasirašo šio įstatymo 11 straipsnio 1 dalyje nurodytas vadas (viršininkas) ir karys.
 
-4. Kariui pažeidus susitarimu nustatytus žalos atlyginimo terminus, likusi neatlyginta žalos dalis atlyginama vado (viršininko) įsakymu ne ginčo tvarka, neatliekant tarnybinio patikrinimo.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
+
+4. Kariui pažeidus susitarimu nustatytas žalos atlyginimo sąlygas, likusi neatlyginta žalos dalis atlyginama vado (viršininko) įsakymu šio įstatymo 21 straipsnyje nustatyta tvarka, neatliekant tarnybinio patikrinimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
 
 21 straipsnis. Žalos atlyginimo tvarka nepavykus susitarti
 
-1. Privalomosios karo tarnybos kario ar profesinės karo tarnybos kario padaryta žala, esant ribotai materialinei atsakomybei, jei žalos atlyginimo klausimas neišspręstas šio įstatymo 20 straipsnyje nurodytu būdu, atlyginama vadovaujantis vado (viršininko) įsakymu, išskaitant iš profesinės karo tarnybos kario tarnybinio atlyginimo ar privalomosios karo tarnybos kario išmokos buitinėms išlaidoms.
+1. Privalomosios pradinės karo tarnybos kario ar profesinės karo tarnybos kario padaryta žala, esant ribotai materialinei atsakomybei, jei žalos atlyginimo klausimas neišspręstas šio įstatymo 20 straipsnyje nurodytu būdu, taip pat kariui pažeidus susitarimu nustatytas žalos atlyginimo sąlygas, atlyginama vadovaujantis vado (viršininko) įsakymu, išskaitant iš profesinės karo tarnybos kario tarnybinio atlyginimo ar privalomosios pradinės karo tarnybos kario išmokos buitinėms išlaidoms.
 
-2. Kario savanorio ar kito aktyviojo rezervo kario, taip pat parengtojo rezervo kario padaryta žala, esant ribotai materialinei atsakomybei, jei žalos atlyginimo klausimas neišspręstas šio įstatymo 20 straipsnyje nurodytu būdu, atlyginama žalą patyrusios krašto apsaugos sistemos institucijos vado (viršininko) įsakymu, išskaitant iš kario savanorio ar kito aktyviojo rezervo kario arba parengtojo rezervo kario tarnybinio atlyginimo ar jo darbo užmokesčio pagrindinėje darbovietėje.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
+
+2. Kario savanorio ar kito aktyviojo rezervo kario, taip pat parengtojo rezervo kario padaryta žala, esant ribotai materialinei atsakomybei, jei žalos atlyginimo klausimas neišspręstas šio įstatymo 20 straipsnyje nurodytu būdu, taip pat kariui pažeidus susitarimu nustatytas žalos atlyginimo sąlygas, atlyginama vado (viršininko) įsakymu, išskaitant iš kario savanorio ar kito aktyviojo rezervo kario arba parengtojo rezervo kario tarnybinio atlyginimo, kitų pajamų ar turto.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010ISTA0XI-1514
 
-3. Vado (viršininko) įsakymas dėl žalos atlyginimo turi būti išleistas per mėnesį nuo tarnybinio patikrinimo pabaigos. Kitų valstybės institucijų sprendimai ar nutarimai, teismų sprendimai, nutartys ar nuosprendžiai vykdomi įstatymų nustatyta tvarka.
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
+
+3. Visiškos materialinės atsakomybės atveju, kai žala neviršija šio įstatymo 4 straipsnyje nurodytų dydžių ir žalos atlyginimo klausimas neišspręstas šio įstatymo 20 straipsnyje nurodytu būdu, taip pat kariui pažeidus susitarimu nustatytas žalos atlyginimo sąlygas, žala atlyginama vadovaujantis vado (viršininko) įsakymu, atitinkamai išskaitant iš šio straipsnio 1 ir 2 dalyse nurodytų karių tarnybinio atlyginimo, kurio dydis nustatomas šio įstatymo 10 straipsnyje nustatyta tvarka, kitų pajamų ar turto. Jei žala viršija įstatymo 4 straipsnyje nurodytus dydžius ir nėra sudarytas susitarimas atlyginti žalą, ji atlyginama įstatymų nustatyta tvarka pagal krašto apsaugos sistemos institucijų, kuriose kariai tarnauja, ieškinius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
 
 4. Vado (viršininko) įsakymas dėl žalos atlyginimo turi būti paskelbtas kariui ne vėliau kaip per septynias dienas nuo šio įsakymo išleidimo dienos. Jei privalomosios karo tarnybos karys baigė privalomąją tarnybą, mokymus, pratybas ar įvykdė užduotį, kuriai atlikti buvo pašauktas, profesinės karo tarnybos karys yra išleistas į atsargą, įsakymas dėl žalos atlyginimo turi būti išsiųstas kariui į jo paskutinę žinomą gyvenamąją vietą ne vėliau kaip per septynias dienas nuo šio įsakymo išleidimo dienos.
 
@@ -465,17 +515,21 @@ Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010IST
 
 5. Vado (viršininko) įsakymas dėl žalos atlyginimo perduodamas vykdyti ne anksčiau kaip praėjus septynioms darbo dienoms nuo apskundimo termino pasibaigimo dienos.
 
-6. Jei vado (viršininko) įsakymas dėl žalos atlyginimo neišleidžiamas per šio straipsnio 3 dalyje nurodytą terminą, žala atlyginama įstatymų nustatyta tvarka pagal krašto apsaugos sistemos institucijų, kuriose kariai tarnauja, ieškinius.
+6. Jeigu vado (viršininko) įsakymas dėl žalos atlyginimo neišleidžiamas per 6 mėnesius nuo žalos dydžio nustatymo dienos, o šio įstatymo 20 straipsnio 4 dalyje nurodytu atveju – nuo susitarimu nustatytų sąlygų pažeidimo, žala atlyginama įstatymų nustatyta tvarka pagal krašto apsaugos sistemos institucijų, kuriose kariai tarnauja, ieškinius.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010ISTA0XI-1514
 
-7. Kario padaryta materialinė žala, esant visiškos materialinės atsakomybės sąlygoms, atlyginama įstatymų nustatyta tvarka pagal krašto apsaugos sistemos institucijų, kuriose kariai tarnauja, ieškinius.
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
+
+7. Vado (viršininko) įsakymas dėl žalos atlyginimo yra vykdomasis dokumentas, vykdomas šio įstatymo ir Civilinio proceso kodekso nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010ISTA0XI-1514
+
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
 
 22 straipsnis. Tretiesiems asmenims padarytos žalos atlyginimo tvarka
 
@@ -537,17 +591,19 @@ Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010IST
 
 VYKDYMO TVARKA
 
-25 straipsnis. Įsakymo perdavimas vykdyti
+25 straipsnis. Įsakymo perdavimas vykdyti
 
-1. Vado (viršininko) įsakymas atlyginti materialinę žalą, padarytą privalomosios karo tarnybos kario ar profesinės karo tarnybos kario, esant ribotai materialinei atsakomybei, perduodamas vykdyti krašto apsaugos sistemos institucijos, kurioje kariai tarnauja, buhalterinės apskaitos padaliniui.
+1. Vado (viršininko) įsakymas atlyginti materialinę žalą, padarytą privalomosios pradinės karo tarnybos kario ar profesinės karo tarnybos kario, perduodamas vykdyti krašto apsaugos sistemos institucijos, kurioje kariai tarnauja, buhalterinės apskaitos padaliniui.
 
-2. Krašto apsaugos sistemos institucijos vado (viršininko) įsakymas atlyginti materialinę žalą, padarytą kario savanorio ar kito aktyviojo rezervo kario, taip pat parengtojo rezervo kario, esant ribotai materialinei atsakomybei, siunčiamas vykdyti antstoliui pagal žalą padariusio asmens gyvenamąją vietą.
+2. Vado (viršininko) įsakymas atlyginti materialinę žalą, padarytą kario savanorio ar kito aktyviojo rezervo kario, taip pat parengtojo rezervo kario, kai žala neviršija šių asmenų vieno tarnybinio atlyginimo dydžio, perduodamas vykdyti krašto apsaugos sistemos institucijos, kurioje tarnauja karys, buhalterinės apskaitos padaliniui išieškoti iš kario tarnybinio atlyginimo. Jeigu žala, padaryta kario savanorio ar kito aktyviojo rezervo kario, taip pat parengtojo rezervo kario, viršija nurodytą dydį, ji išieškoma per antstolį įstatymų nustatyta tvarka.
 
-3. Privalomosios karo tarnybos kariui atlikus tarnybą ar profesinės karo tarnybos karį išleidus į atsargą, likusi neišmokėta žalos dalis išieškoma per antstolį krašto apsaugos sistemos institucijos, kurioje kariai tarnauja, karinio vado (viršininko) įsakymo pagrindu.
+3. Privalomosios karo tarnybos kariui atlikus tarnybą ar profesinės karo tarnybos karį išleidus į atsargą, likusi neišieškota žalos dalis išieškoma per antstolį vado (viršininko) įsakymo pagrindu.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010ISTA0XI-1514
+
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
 
 26 straipsnis. Išskaitymų iš kario tarnybinio atlyginimo apribojimas
 
@@ -559,9 +615,11 @@ Nr. IX-1421, 2003-04-03, Žin., 2003, Nr. 38-1666 (2003-04-24), i. k. 1031010IST
 
 2. Neleidžiama daryti išskaitymų iš išeitinės pašalpos, kompensacijų ir kitų išmokų, į kurias pagal Civilinio proceso kodekso nuostatas išieškojimas negali būti nukreipiamas.
 
-27 straipsnis. Išieškojimas iš kario turto
+27 straipsnis. Neteko galios nuo 2013-07-01
 
-Visiškos materialinės atsakomybės atveju, jei žalos atlyginimo klausimas neišspręstas šio įstatymo 20 straipsnio nustatyta tvarka ir žala išieškoma įstatymų nustatyta tvarka, išieškojimas gali būti nukreipiamas į žalą padariusio profesinės karo tarnybos kario ar privalomosios karo tarnybos kario turtą Civilinio proceso kodekso nustatyta tvarka.
+Straipsnio naikinimas:
+
+Nr. XII-250, 2013-04-23, Žin. 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
 
 Straipsnio pakeitimai:
 
@@ -596,4 +654,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010ISTA0XI-1514
 
 Lietuvos Respublikos karių materialinės atsakomybės įstatymo 1, 2, 4, 5, 7, 8, 9, 10, 11, 15, 18, 21, 22, 24, 25 ir 27 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
+
+Lietuvos Respublikos karių materialinės atsakomybės įstatymo 4, 5, 7, 8, 9, 11, 20, 21, 25 straipsnių pakeitimo ir papildymo bei 27 straipsnio pripažinimo netekusiu galios įstatymas
 
