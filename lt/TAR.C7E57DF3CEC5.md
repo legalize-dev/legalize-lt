@@ -4,7 +4,7 @@ identifier: "TAR.C7E57DF3CEC5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-07"
-last_updated: "2012-11-01"
+last_updated: "2013-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2012-11-01 iki 2013-06-30
+Suvestinė redakcija nuo 2013-07-01 iki 2014-04-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
 
@@ -100,6 +100,16 @@ Nr. XI-299, 2009-06-16, Žin., 2009, Nr. 77-3164 (2009-06-30), i. k. 1091010ISTA
 Papildyta straipsnio dalimi:
 
 Nr. XI-299, 2009-06-16, Žin., 2009, Nr. 77-3164 (2009-06-30), i. k. 1091010ISTA00XI-299
+
+18. Strateginis technologinės plėtros objektas – ypač patikimo elektros energijos tiekimo teritorija, Lietuvos Respublikos Vyriausybės nutarimu pripažinta strateginiu technologinės plėtros objektu pagal šiuos kriterijus:
+
+1) šioje teritorijoje elektros energijos tiekimo patikimumo lygis užtikrintas elektros tiekimo iš ne mažiau kaip trijų nepriklausomų maitinimo šaltinių 110 kV įtampos elektros energijos perdavimo tinkle;
+
+2) šioje teritorijoje galima duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusi veikla.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-283, 2013-05-09, Žin., 2013, Nr. 54-2688 (2013-05-25), i. k. 1131010ISTA0XII-283
 
 3 straipsnis. Investicijų rūšys
 
@@ -291,17 +301,19 @@ Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010IS
 
 8) Lietuvos Respublikos įstatymų nustatytais atvejais valstybinė žemė investuotojui išnuomojama ne aukciono būdu;
 
-9) infrastruktūra (iki investuotojui suteikto sklypo ribų) sutvarkoma valstybės (savivaldybės) lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+9) infrastruktūra (iki investuotojui suteikto sklypo ribų) sutvarkoma valstybės (savivaldybės) lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
 
 Straipsnio punkto pakeitimai:
 
 Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
 
-10) neteko galios 2004-08-07.
+10) iš investuotojų, kurie vykdo duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusią veiklą strateginiuose technologinės plėtros objektuose ir su kuriais Lietuvos Respublikos Vyriausybė Lietuvos Respublikos civilinio kodekso nustatyta tvarka yra sudariusi investicijų sutartis, Lietuvos Respublikos Vyriausybės nustatyta tvarka nerenkamos viešuosius interesus atitinkančių paslaugų lėšos.
 
 Straipsnio punkto pakeitimai:
 
 Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
+
+Nr. XII-283, 2013-05-09, Žin., 2013, Nr. 54-2688 (2013-05-25), i. k. 1131010ISTA0XII-283
 
 2. Investavimo skatinimo būdai taikomi tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, reglamentuojantiems valstybės pagalbos teikimą.
 
@@ -442,6 +454,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
 
 Lietuvos Respublikos investicijų įstatymo 12, 13 straipsnių pakeitimo ir papildymo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-283, 2013-05-09, Žin., 2013, Nr. 54-2688 (2013-05-25), i. k. 1131010ISTA0XII-283
+
+Lietuvos Respublikos investicijų įstatymo 2 ir 13 straipsnių papildymo įstatymas
 
 151 straipsnis. Valdžios ir privataus subjektų partnerystės sutarties samprata
 
