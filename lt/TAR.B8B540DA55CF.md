@@ -1,0 +1,47 @@
+---
+title: "Lietuvos Respublikos baudžiamojo kodekso 178 ir 187 straipsnių pakeitimo įstatymas"
+identifier: "TAR.B8B540DA55CF"
+country: "lt"
+rank: "istatymas"
+publication_date: "2013-07-02"
+last_updated: "2013-07-02"
+status: "in_force"
+source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B540DA55CF"
+department: "Lietuvos Respublikos Seimas"
+tar_code: "1131010ISTA0XII-500"
+document_number: "XII-500"
+published_in_tar: "2013-07-02"
+document_status: "registruotas TA registre"
+---
+# Lietuvos Respublikos baudžiamojo kodekso 178 ir 187 straipsnių pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO 178 IR 187 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO 178 IR 187 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+2013 m. liepos 2 d. Nr. XII-500
+
+Vilnius
+
+(Žin., 2000, Nr. 89-2741; 2003, Nr. 38-1733; 2004, Nr. 108-4030; 2007, Nr. 81-3309)
+
+1 straipsnis. 178 straipsnio 2 dalies pakeitimas
+
+Pakeisti 178 straipsnio 2 dalį ir ją išdėstyti taip:
+
+„2. Tas, kas atvirai pagrobė svetimą turtą arba pagrobė svetimą turtą įsibrovęs į patalpą, ryšių kabelių kanalų sistemą, saugyklą ar saugomą teritoriją, arba viešoje vietoje pagrobė svetimą turtą iš asmens drabužių, rankinės ar kitokio nešulio (kišenvagystė) arba automobilį, arba pagrobė strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių juridinių asmenų infrastruktūrą sudarantį turtą ar jo dalį, baudžiamas bauda arba areštu, arba laisvės apribojimu, arba laisvės atėmimu iki šešerių metų.“
+
+2 straipsnis. 187 straipsnio 2 dalies pakeitimas
+
+Pakeisti 187 straipsnio 2 dalį ir ją išdėstyti taip:
+
+„2. Tas, kas sunaikino ar sugadino svetimą turtą visuotinai pavojingu būdu arba išardydamas ar sugadindamas įrenginį ar agregatą, jeigu dėl to galėjo nukentėti žmonės, arba sunaikino, išardė ar sugadino strateginę arba svarbią reikšmę nacionaliniam saugumui turinčių juridinių asmenų infrastruktūrą sudarantį turtą ar jo dalį, arba sunaikino ar sugadino didelės vertės svetimą turtą ar didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes, baudžiamas areštu arba laisvės atėmimu iki penkerių metų.“
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+_________________
+
