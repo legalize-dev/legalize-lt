@@ -4,7 +4,7 @@ identifier: "TAR.278D4FD8E838"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-25"
-last_updated: "2012-05-01"
+last_updated: "2013-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2012-05-01 iki 2013-07-12
+Suvestinė redakcija nuo 2013-07-13 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 52-1672, i. k. 0991010ISTAIII-1202
 
@@ -505,7 +505,11 @@ TURTO ARBA VERSLO VERTINIMO PAGRINDAI
 
 1. Turto arba verslo vertinimo ataskaita sudaroma raštu.
 
-2. Atliekant neprivalomąjį arba privalomąjį turto arba verslo vertinimą, turto arba verslo vertinimo ataskaitą pasirašo ją sudaręs nepriklausomas turto arba verslo vertintojas. Kai turto arba verslo vertinimą atlieka nepriklausomas turto arba verslo vertintojas, dirbantis darbo sutarties pagrindais turto arba verslo vertinimo įmonėje, turto arba verslo vertinimo ataskaitą pasirašo ir asmuo, turintis teisę veikti turto arba verslo vertinimo įmonės vardu, arba jo įgaliotas asmuo, arba asmuo, kuriam teisės aktuose pavesta pasirašyti turto arba verslo vertinimo ataskaitą. Kai nepriklausomas turto arba verslo vertintojas yra ir individualios įmonės savininkas, turto arba verslo vertinimo ataskaita pasirašoma vieną kartą. Turto arba verslo vertinimo įmonėje parengta turto arba verslo vertinimo ataskaita patvirtinama ir turto arba verslo vertinimo įmonės antspaudu, jeigu jį privaloma turėti.
+2. Atliekant neprivalomąjį arba privalomąjį turto arba verslo vertinimą, turto arba verslo vertinimo ataskaitą pasirašo ją sudaręs nepriklausomas turto arba verslo vertintojas. Kai turto arba verslo vertinimą atlieka nepriklausomas turto arba verslo vertintojas, dirbantis darbo sutarties pagrindais turto arba verslo vertinimo įmonėje, turto arba verslo vertinimo ataskaitą pasirašo ir asmuo, turintis teisę veikti turto arba verslo vertinimo įmonės vardu, arba jo įgaliotas asmuo, arba asmuo, kuriam teisės aktuose pavesta pasirašyti turto arba verslo vertinimo ataskaitą. Kai nepriklausomas turto arba verslo vertintojas yra ir individualios įmonės savininkas, turto arba verslo vertinimo ataskaita pasirašoma vieną kartą. Turto arba verslo vertinimo įmonėje parengta turto arba verslo vertinimo ataskaita patvirtinama ir turto arba verslo vertinimo įmonės antspaudu, kai pareiga turėti antspaudą nustatyta įmonės steigimo dokumentuose arba įstatymuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-509, 2013-07-02, Žin., 2013, Nr. 75-3780 (2013-07-13), i. k. 1131010ISTA0XII-509
 
 3. Vertinant turtą arba verslą Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigto juridinio asmens ar kitos organizacijos arba jų filialų vidaus reikmėms, turto arba verslo vertinimo ataskaitą pasirašo tik ją sudaręs turto arba verslo vertintojas.
 
@@ -716,4 +720,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1497, 2011-06-22, Žin., 2011, Nr. 86-4139 (2011-07-13), i. k. 1111010ISTA0XI-1497
 
 Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-509, 2013-07-02, Žin., 2013, Nr. 75-3780 (2013-07-13), i. k. 1131010ISTA0XII-509
+
+Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo 22 straipsnio pakeitimo įstatymas
 
