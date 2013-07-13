@@ -4,7 +4,7 @@ identifier: "TAR.033D686E8F1B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-30"
-last_updated: "2012-07-04"
+last_updated: "2013-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 department: "Lietuvos Respublikos Seimas"
@@ -601,39 +601,13 @@ mokyklų dieninių skyrių studentai, Lietuvos Respublikos ir kitų Europos
 
 Sąjungos valstybių narių piliečiai, studijuojantys Europos Sąjungos valstybių
 
-narių aukštųjų mokyklų dieniniuose skyriuose, dieninių bendrojo lavinimo
-
-mokyklų mokiniai, profesinio mokymo įstaigų dieninių skyrių mokiniai ir
-
-Nacionalinės Mikalojaus Konstantino Čiurlionio menų mokyklos mokiniai turi
-
-teisę įsigyti važiavimo vietinio (miesto) reguliaraus susisiekimo autobusais ir
-
-troleibusais bilietą su šiomis nuolaidomis:
-
-1) terminuotą
-
-vardinį važiavimo bilietą – su 80 procentų nuolaida;
-
-2) vienkartinį
-
-važiavimo bilietą – su 50 procentų nuolaida.
-
-6 dalies redakcija nuo 2013-01-01:
-
-6. Aukštųjų
-
-mokyklų dieninių skyrių studentai, Lietuvos Respublikos ir kitų Europos
-
-Sąjungos valstybių narių piliečiai, studijuojantys Europos Sąjungos valstybių
-
 narių aukštųjų mokyklų dieniniuose skyriuose, vaikai nuo 7 iki 8 metų, dieninių
 
-bendrojo lavinimo mokyklų mokiniai, profesinio mokymo įstaigų dieninių skyrių mokiniai ir Nacionalinės Mikalojaus Konstantino Čiurlionio menų
+bendrojo lavinimo mokyklų mokiniai, profesinio mokymo įstaigų dieninių skyrių mokiniai ir Nacionalinės Mikalojaus Konstantino Čiurlionio menų mokyklos
 
-mokyklos mokiniai turi teisę įsigyti važiavimo vietinio (miesto) reguliaraus
+mokiniai turi teisę įsigyti važiavimo vietinio (miesto) reguliaraus susisiekimo
 
-susisiekimo autobusais ir troleibusais bilietą su šiomis nuolaidomis:
+autobusais ir troleibusais bilietą su šiomis nuolaidomis:
 
 1) terminuotą
 
@@ -687,9 +661,9 @@ IX-2581,
 
 Nr.
 
-X-189, 2005-05-12,
+X-189,
 
-Žin., 2005, Nr. 67-2401 (2005-05-28)
+2005-05-12, Žin., 2005, Nr. 67-2401 (2005-05-28)
 
 Nr. X-576, 2006-04-25,
 
@@ -1087,27 +1061,35 @@ važiavimo išlaidas:
 
 1) kaimuose ir miesteliuose gyvenantiems
 
-bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir neformaliojo vaikų
+bendrojo ugdymo programas vykdančių mokyklų 9–12 klasių (gimnazijų 1–4 klasių),
 
-švietimo įstaigų mokiniams, šių mokyklų ar įstaigų darbo dienomis
+profesinio mokymo įstaigų ir neformaliojo vaikų švietimo įstaigų mokiniams, šių
 
-važiuojantiems į mokyklą ar įstaigą iki 40 km ir atgal mokinio pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo autobusais,
+mokyklų ar įstaigų darbo dienomis važiuojantiems į mokyklą ar įstaigą iki 40 km
 
-tolimojo reguliaraus susisiekimo autobusais, keleiviniais traukiniais,
+ir atgal mokinio pažymėjime nurodytu maršrutu vietinio (priemiestinio)
 
-reguliaraus susisiekimo laivais ir keltais; neformaliojo vaikų švietimo įstaigų
+reguliaraus susisiekimo autobusais, tolimojo reguliaraus susisiekimo
 
-mokiniams ši lengvata taikoma ir ne darbo dienomis;
+autobusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir
+
+keltais; neformaliojo vaikų švietimo įstaigų mokiniams ši lengvata taikoma ir
+
+ne darbo dienomis; priešmokyklinio ugdymo ir 1–8 klasių mokinių pavėžėjimas
+
+kompensuojamas iki artimiausios atitinkamą bendrojo ugdymo programą vykdančios
+
+mokyklos;
 
 2) vaikų globos įstaigose, vaikų
 
-socializacijos centruose, bendrojo lavinimo mokyklų ir profesinio mokymo
+socializacijos centruose, bendrojo lavinimo mokyklų ir profesinio mokymo įstaigų
 
-įstaigų bendrabučiuose gyvenantiems mokiniams, važiuojantiems mokinio
+bendrabučiuose gyvenantiems mokiniams, važiuojantiems mokinio pažymėjime
 
-pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo
+nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo autobusais,
 
-autobusais, tolimojo reguliaraus susisiekimo autobusais, keleiviniais traukiniais,
+tolimojo reguliaraus susisiekimo autobusais, keleiviniais traukiniais,
 
 reguliaraus susisiekimo laivais ir keltais;
 
@@ -1131,9 +1113,9 @@ IX-2581,
 
 2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
 
-Nr. X-1312,
+Nr. X-1312, 2007-11-06,
 
-2007-11-06, Žin., 2007, Nr. 120-4879 (2007-11-22)
+Žin., 2007, Nr. 120-4879 (2007-11-22)
 
 Nr. X-1612,
 
@@ -1144,6 +1126,12 @@ Nr.
 XI-241,
 
 2009-04-28, Žin., 2009, Nr. 54-2139 (2009-05-12)
+
+Nr.
+
+XII-512,
+
+2013-07-02, Žin., 2013, Nr. 75-3782 (2013-07-13)
 
 7
 
@@ -1207,9 +1195,9 @@ Nr. IX-919,
 
 Nr.
 
-X-189, 2005-05-12,
+X-189,
 
-Žin., 2005, Nr. 67-2401 (2005-05-28)
+2005-05-12, Žin., 2005, Nr. 67-2401 (2005-05-28)
 
 Nr. X-1612,
 
@@ -1377,9 +1365,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-791,
+Nr. IX-791, 2002-03-19,
 
-2002-03-19, Žin., 2002, Nr. 37-1343 (2002-04-09)
+Žin., 2002, Nr. 37-1343 (2002-04-09)
 
 TRANSPORTO
 
