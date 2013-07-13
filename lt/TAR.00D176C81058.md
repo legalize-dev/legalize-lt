@@ -4,7 +4,7 @@ identifier: "TAR.00D176C81058"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-02-11"
-last_updated: "2011-07-01"
+last_updated: "2013-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.00D176C81058"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Šio įstatymo 22 straipsnis įsigalioja 2010 m. k
 
 LIETUVOS RESPUBLIKOS ŠEIMYNŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2011-07-01 iki 2013-07-12
+Suvestinė redakcija nuo 2013-07-13 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2010, Nr. 25-1176, i. k. 1101010ISTA00XI-681
 
@@ -50,7 +50,11 @@ BENDROSIOS NUOSTATOS
 
 4. Šeimynos pavadinime turi būti jos teisinę formą apibrėžiantis žodis „šeimyna“. Šeimynos buveinė turi būti Lietuvos Respublikoje.
 
-5. Šeimyna turi turėti antspaudą ir sąskaitą banke.
+5. Šeimyna gali turėti antspaudą ir turi turėti sąskaitą banke.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-507, 2013-07-02, Žin., 2013, Nr. 75-3778 (2013-07-13), i. k. 1131010ISTA0XII-507
 
 3 straipsnis. Šeimynos veikla
 
@@ -421,4 +425,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1471, 2011-06-21, Žin., 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010ISTA0XI-1471
 
 Lietuvos Respublikos šeimynų įstatymo 5, 10, 15 straipsnių pakeitimo ir papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-507, 2013-07-02, Žin., 2013, Nr. 75-3778 (2013-07-13), i. k. 1131010ISTA0XII-507
+
+Lietuvos Respublikos šeimynų įstatymo 2 straipsnio pakeitimo įstatymas
 
