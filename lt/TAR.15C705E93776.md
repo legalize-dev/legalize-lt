@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2013-05-25"
+last_updated: "2013-07-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -6745,6 +6745,40 @@ SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 68 STRAIPSNIO PAKEITIMO
 
 ĮSTATYMAS
 
+40.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-491,
+
+2013-07-02, Žin., 2013, Nr. 76-3856 (2013-07-16)
+
+KRAŠTO APSAUGOS
+
+SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 36 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+Profesinės karo
+
+tarnybos kariai, kuriems iki šio įstatymo įsigaliojimo, vadovaujantis Lietuvos
+
+Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 36
+
+straipsnio 12 dalimi, išduotas leidimas dirbti ar teikti komercinio pobūdžio
+
+paslaugas, ne vėliau kaip per 3 mėnesius nuo šio įstatymo įsigaliojimo turi
+
+gauti naują leidimą užsiimti pedagogine veikla,
+
+įskaitant pedagoginę veiklą pagal darbo sutartį, ar užsiimti
+
+kūrybine veikla pagal darbo sutartį arba nutraukti darbą ar komercinio pobūdžio
+
+paslaugų teikimą.
+
 *** Pabaiga ***
 
 Konstitucinio
@@ -6757,9 +6791,9 @@ Lietuvos Respublikos
 
 Konstitucinis Teismas, Nutarimas
 
-2002-07-02, Žin., 2002, Nr.
+2002-07-02, Žin., 2002, Nr. 69-2832
 
-69-2832 (2002-07-05)
+(2002-07-05)
 
 DĖL LIETUVOS RESPUBLIKOS KRAŠTO
 
@@ -6771,7 +6805,7 @@ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 Redagavo Aušrinė
 
-Trapinskienė (2013-05-27)
+Trapinskienė (2013-07-16)
 
 ausrine.trapinskiene@lrs.lt
 
@@ -8103,7 +8137,7 @@ brigados generolas                               
 
 admirolas
 
-generolas majoras                                                                 kontradmirolas
+generolas majoras                                                                 kontradmirolas
 
 generolas leitenantas                                                             viceadmirolas.
 
@@ -8311,9 +8345,9 @@ oficialių darbo kalbų (anglų arba prancūzų).
 
 kovinio laivo, junginio ar pajėgų rūšies vadu arba jo pavaduotoju ne mažiau
 
-kaip 1 metus. Šis reikalavimas netaikomas karininkams medicinos, finansų ir teisės
+kaip 1 metus. Šis reikalavimas netaikomas karininkams medicinos, finansų ir
 
-specialistams, turintiems ne žemesnį kaip magistro laipsnį.
+teisės specialistams, turintiems ne žemesnį kaip magistro laipsnį.
 
 6. (Neteko
 
@@ -8383,9 +8417,9 @@ aktyviajame rezerve, karinis laipsnis suteikiamas atsižvelgiant į krašto
 
 apsaugos ministro paskirtos patariamosios komisijos išvadas ir rekomendacijas
 
-(įvertinimą, ar karinė kvalifikacija pagal Lietuvos kariuomenės reikalavimus atitinka
+(įvertinimą, ar karinė kvalifikacija pagal Lietuvos kariuomenės reikalavimus
 
-krašto apsaugos sistemos poreikius).
+atitinka krašto apsaugos sistemos poreikius).
 
 14. Lietuvos Respublikos
 
@@ -8598,62 +8632,6 @@ XI-1509,
 Nr. XI-2401,
 
 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
-
-56
-
-straipsnis. Laipsnio pažeminimas ar atėmimas
-
-1. Už tarnybos drausmės
-
-pažeidimus Kariuomenės drausmės statuto nustatyta tvarka kario laipsnis gali
-
-būti pažemintas. Laipsnį pažeminti turi teisę pareigūnas, pagal pavaldumą
-
-aukštesnis už tą, kuris turi teisę atitinkamą laipsnį suteikti. Kariams,
-
-kuriems laipsnius suteikti turi teisę krašto apsaugos ministras, teisę
-
-pažeminti laipsnį turi krašto apsaugos ministras, o pulkininkams (jūrų
-
-kapitonams) ir generolams (admirolams) – Respublikos Prezidentas.
-
-2. Iki
-
-laipsnio pažeminimo kario turėtas laipsnis statutų nustatyta tvarka gali būti
-
-grąžintas kariui ne anksčiau kaip po 6 mėnesių, jeigu jo tarnyba vertinama
-
-gerai. Į šį terminą neįskaitomas laikas, kai karys neatliko tarnybos dėl
-
-atostogų, mokymosi ar ligos. Šio įstatymo 54 straipsnio 2 dalyje nustatytas
-
-reikalingas tarnybos laikas aukštesniajam nei grąžintasis laipsniui suteikti
-
-skaičiuojamas nuo laipsnio grąžinimo kariui dienos.
-
-3. Krašto apsaugos ministras
-
-(pulkininkams, jūrų kapitonams, generolams ir admirolams – Respublikos
-
-Prezidentas) kario laipsnį gali atimti, jei karys atleidžiamas iš tarnybos
-
-pagal šio įstatymo 38 straipsnio 1 dalies 1, 2 ar 3 punktą arba 2 dalies 3, 4
-
-ar 8 punktą.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. VIII-1289,
-
-99.07.07, Žin., 1999, Nr.64-2069 (99.07.23)
-
-Nr.
-
-X-662,
-
-2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
 
 54 straipsnis.
 
@@ -9843,9 +9821,9 @@ dėvėti uniformą už drausmės pažeidimą gali būti atimta.
 
 5. Kariai už savo lėšas
 
-gali įsigyti iškilmingoms progoms skirtas uniformas. Šių uniformų pavyzdžius tvirtina
+gali įsigyti iškilmingoms progoms skirtas uniformas. Šių uniformų pavyzdžius
 
-krašto apsaugos ministras.
+tvirtina krašto apsaugos ministras.
 
 6. Asmenys, neteisėtai
 
@@ -13293,9 +13271,9 @@ kario savanorio ar aktyviojo rezervo kario sutartis turi būti nutraukiama ir
 
 netenka Lietuvos Respublikos pilietybės;
 
-2) tyčiniais
+2)
 
-veiksmais atskleidžia valstybės ar tarnybos paslaptis;
+tyčiniais veiksmais atskleidžia valstybės ar tarnybos paslaptis;
 
 3)
 
@@ -13437,25 +13415,25 @@ jeigu susirgimas nesusijęs su sužeidimu ar suluošinimu atliekant tarnybines
 
 pareigas ar su tarnyba.
 
-3. Kariai, atleidžiami iš profesinės
+3. Kariai, atleidžiami iš
 
-karo tarnybos, savanorių karo tarnybos ar kitos tarnybos aktyviajame rezerve
+profesinės karo tarnybos, savanorių karo tarnybos ar kitos tarnybos aktyviajame
 
-pagal šio straipsnio 1 dalies 1 punktą, į atsargą ar parengtąjį kariuomenės
+rezerve pagal šio straipsnio 1 dalies 1 punktą, į atsargą ar parengtąjį
 
-personalo rezervą neįrašomi ir į dimisiją neperkeliami. Krašto apsaugos
+kariuomenės personalo rezervą neįrašomi ir į dimisiją neperkeliami. Krašto
 
-ministro sprendimu į atsargą ar parengtąjį kariuomenės personalo rezervą taip
+apsaugos ministro sprendimu į atsargą ar parengtąjį kariuomenės personalo
 
-pat gali būti neįrašomi ar (ir) į dimisiją neperkeliami kariai, atleidžiami iš
+rezervą taip pat gali būti neįrašomi ar (ir) į dimisiją neperkeliami kariai,
 
-profesinės, savanorių karo tarnybos ar kitos tarnybos aktyviajame rezerve pagal
+atleidžiami iš profesinės, savanorių karo tarnybos ar kitos tarnybos
 
-šio straipsnio 1 dalies 2, 3, 8 ir 9 punktus, taip pat pagal šio straipsnio 1
+aktyviajame rezerve pagal šio straipsnio 1 dalies 2, 3, 8 ir 9 punktus, taip
 
-dalies 6 punktą dėl šio įstatymo 36 straipsnio 11 dalyje nustatyto apribojimo
+pat pagal šio straipsnio 1 dalies 6 punktą dėl šio įstatymo 36 straipsnio 11
 
-pažeidimo.
+dalyje nustatyto apribojimo pažeidimo.
 
 4. Teisę
 
@@ -16095,29 +16073,31 @@ valdymo organų nariais jie renkami ar skiriami teisės aktų nustatyta tvarka,
 
 būti profesinės sąjungos nariais, streikuoti, naudoti tarnybos laiką, turtą ir
 
-tarnybos teikiamas galimybes ne tarnybos tikslais. Karys, kuris yra
+tarnybos teikiamas galimybes ne tarnybos tikslais. Profesinės karo tarnybos
 
-individualios įmonės savininkas, mažosios bendrijos narys, ūkinės bendrijos
+kariai negali dirbti pagal darbo sutartį,
 
-tikrasis narys ar narys komanditorius ar turi akcinės bendrovės akcijų arba
+užsiimti individualia veikla, išskyrus šio įstatymo numatytus atvejus. Karys, kuris yra individualios įmonės savininkas,
 
-žemės ūkio bendrovės pajų, privalo šią nuosavybę valdyti, naudoti ir disponuoti
+mažosios bendrijos narys, ūkinės bendrijos tikrasis narys ar narys
 
-ja tokiu būdu, kad dėl jos turėjimo ar ryšių su bendrove (įmone), kurioje karys
+komanditorius ar turi akcinės bendrovės akcijų arba žemės ūkio bendrovės pajų,
 
-turi nuosavybės, negalėtų atsirasti privačių ir tarnybos interesų konflikto,
+privalo šią nuosavybę valdyti, naudoti ir disponuoti ja tokiu būdu, kad dėl jos
 
-nesudarytų prielaidų tarnybą panaudoti asmeniniais interesais, nediskredituotų
+turėjimo ar ryšių su bendrove (įmone), kurioje karys turi nuosavybės, negalėtų
 
-tarnybos autoriteto ir nekliudytų profesinės karo tarnybos kariui tinkamai
+atsirasti privačių ir tarnybos interesų konflikto, nesusidarytų prielaidų
 
-atlikti savo pareigas. Krašto apsaugos sistemos profesinės karo tarnybos
+tarnybą panaudoti asmeniniais interesais, nebūtų diskredituojamas tarnybos
 
-kariai, kurie vykdo operatyvinę veiklą, profesinės karo tarnybos karininkai
+autoritetas ir nebūtų kliudoma profesinės karo tarnybos kariui tinkamai atlikti
 
-privalo įstatymų ir kitų teisės aktų nustatyta tvarka deklaruoti privačius
+savo pareigas. Krašto apsaugos sistemos profesinės karo tarnybos kariai, kurie
 
-interesus.
+vykdo kriminalinę žvalgybą, profesinės karo tarnybos karininkai privalo
+
+įstatymų ir kitų teisės aktų nustatyta tvarka deklaruoti privačius interesus.
 
 8. Priimdamas sprendimus, karys
 
@@ -16161,17 +16141,17 @@ kariai, kurie krašto apsaugos sistemoje eina karo medicinos gydytojo ar jo
 
 padėjėjo pareigas, esant poreikiui gali būti siunčiami dirbti į kitą valstybės
 
-ir savivaldybių asmens sveikatos priežiūros įstaigą, paliekant tą patį
+ir savivaldybių asmens sveikatos priežiūros įstaigą, paliekant tą patį tarnybinį
 
-tarnybinį atlyginimą, krašto apsaugos ir sveikatos apsaugos ministrų nustatyta
+atlyginimą, krašto apsaugos ir sveikatos apsaugos ministrų nustatyta tvarka
 
-tvarka sudarytoje dvišalėje sutartyje tarp krašto apsaugos sistemos
+sudarytoje dvišalėje sutartyje tarp krašto apsaugos sistemos institucijos ir
 
-institucijos ir asmens sveikatos priežiūros įstaigos nustatytomis sąlygomis.
+asmens sveikatos priežiūros įstaigos nustatytomis sąlygomis. Teisė dirbti
 
-Teisė dirbti laisvu nuo tarnybos metu kitose sveikatos priežiūros įstaigose
+laisvu nuo tarnybos metu kitose sveikatos priežiūros įstaigose įgyvendinama
 
-įgyvendinama krašto apsaugos ministro nustatytomis sąlygomis ir tvarka.
+krašto apsaugos ministro nustatytomis sąlygomis ir tvarka.
 
 11. Profesinėje karo tarnyboje
 
@@ -16183,23 +16163,27 @@ struktūrose. Krašto apsaugos ministras turi teisę neatsižvelgdamas į asmens
 
 amžių priimti į profesinę karo tarnybą ne ilgiau kaip 5 metams arba įrašyti į
 
-parengtąjį kariuomenės personalo rezervą Lietuvos Respublikos piliečius,
+parengtąjį kariuomenės personalo rezervą Lietuvos Respublikos piliečius, tarnavusius
 
-tarnavusius profesinės tarnybos kariais valstybių Šiaurės Atlanto Sutarties
+profesinės tarnybos kariais valstybių Šiaurės Atlanto Sutarties Organizacijos
 
-Organizacijos (NATO) narių karinėse ar joms prilygintose struktūrose ir
+(NATO) narių karinėse ar joms prilygintose struktūrose ir gaunančius tų šalių
 
-gaunančius tų šalių karinę pensiją.
+karinę pensiją.
 
-12. Laisvu nuo tarnybos metu,
+*12.
 
-krašto apsaugos ministrui ar jo įgaliotam asmeniui leidus, profesinės
+Laisvu nuo tarnybos metu profesinės karo tarnybos kariai turi teisę užsiimti
 
-karo tarnybos kariai turi teisę dirbti įmonėse, įstaigose, organizacijose,
+kūryba, įskaitant ir turtinių teisių į savo sukurtus kūrinius perleidimą.
 
-nepaisant jų nuosavybės formos, teisinės formos, rūšies ir veiklos pobūdžio,
+Krašto apsaugos ministrui ar jo įgaliotam asmeniui leidus, profesinės karo
 
-teikti komercinio pobūdžio paslaugas ir gauti už tai darbo užmokestį ar
+tarnybos kariai taip pat turi teisę užsiimti pedagogine veikla, įskaitant pedagoginę veiklą pagal darbo
+
+sutartį, ar užsiimti kūrybine veikla pagal
+
+darbo sutartį ir gauti už tai darbo užmokestį ar
 
 atlyginimą, jeigu tai nesukelia viešųjų ir privačių interesų konflikto
 
@@ -16207,21 +16191,31 @@ tarnyboje, nesudaro prielaidų tarnybą panaudoti asmeniniais interesais,
 
 nediskredituoja tarnybos autoriteto, nekliudo profesinės karo tarnybos kariui
 
-tinkamai atlikti savo pareigas. Prašymai leisti dirbti kitą darbą ar teikti komercinio
+tinkamai atlikti savo pareigas. Sprendimas leisti profesinės karo tarnybos
 
-pobūdžio paslaugas nagrinėjami, sprendimai priimami ir atšaukiami Vyriausybės
+kariui užsiimti pedagogine veikla, įskaitant pedagoginę veiklą pagal
 
-ar jos įgaliotos institucijos nustatyta tvarka. Sprendimas dėl leidimo dirbti
+darbo sutartį, ar užsiimti kūrybine veikla
 
-kitą darbą ar teikti komercinio pobūdžio paslaugas galioja vienus metus nuo
+pagal darbo sutartį galioja iki kario perkėlimo į
 
-sprendimo priėmimo dienos. Sprendimą dėl leidimo profesinės karo tarnybos
+kitas pareigas, tačiau ne ilgiau kaip 3 metus nuo sprendimo priėmimo dienos.
 
-kariui dirbti kitą darbą priėmęs asmuo gali šį sprendimą atšaukti, jeigu
+Sprendimą leisti profesinės karo tarnybos kariui užsiimti pedagogine veikla,
 
-atsiranda šioje dalyje nurodytos aplinkybės, dėl kurių toks leidimas negalėjo
+įskaitant pedagoginę veiklą pagal darbo sutartį, ar užsiimti
 
-būti išduotas.
+kūrybine veikla pagal darbo sutartį priėmęs asmuo
+
+gali šį sprendimą atšaukti, jeigu atsiranda šioje dalyje nurodytų aplinkybių,
+
+dėl kurių toks leidimas negalėjo būti išduotas. Prašymai leisti užsiimti pedagogine veikla, įskaitant pedagoginę
+
+veiklą pagal darbo sutartį, ar užsiimti
+
+kūrybine veikla pagal darbo sutartį nagrinėjami, sprendimai priimami ir
+
+atšaukiami krašto apsaugos ministro nustatyta tvarka.
 
 Straipsnio
 
@@ -16260,6 +16254,28 @@ XI-1509,
 Nr. XI-2401,
 
 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
+
+*Nr. XII-491,
+
+2013-07-02, Žin., 2013, Nr. 76-3856 (2013-07-16)
+
+*Pastaba.
+
+Profesinės karo tarnybos kariai, kuriems iki šio įstatymo įsigaliojimo,
+
+vadovaujantis Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir
+
+karo tarnybos įstatymo 36 straipsnio 12 dalimi, išduotas leidimas dirbti ar
+
+teikti komercinio pobūdžio paslaugas, ne vėliau kaip per 3 mėnesius nuo šio
+
+įstatymo įsigaliojimo turi gauti naują leidimą
+
+užsiimti pedagogine veikla, įskaitant pedagoginę veiklą pagal darbo
+
+sutartį, ar užsiimti kūrybine veikla pagal
+
+darbo sutartį arba nutraukti darbą ar komercinio pobūdžio paslaugų teikimą.
 
 37 straipsnis. Profesinės karo tarnybos,
 
@@ -16399,11 +16415,11 @@ stažą – 3 mėnesių tarnybinių atlyginimų dydžio;
 
 stažą – 4 mėnesių tarnybinių atlyginimų dydžio.
 
-2. Kai profesinės karo tarnybos
+2. Kai profesinės karo tarnybos sutartis
 
-sutartis nutraukiama vadovybės iniciatyva arba valia ne dėl kario kaltės
+nutraukiama vadovybės iniciatyva arba valia ne dėl kario kaltės (šio
 
-(šio įstatymo 38 straipsnio 2 dalies 1, 2, 5, 6, 12, 13 punktai), tačiau
+įstatymo 38 straipsnio 2 dalies 1, 2, 5, 6, 12, 13 punktai), tačiau
 
 išleidžiamas į atsargą karys turi teisę į kario valstybinę pensiją, jam
 
@@ -16759,19 +16775,19 @@ pareigų laikotarpiu tarnybinis atlyginimas ir priedai nemokami. Šiuo atveju
 
 netaikomi šio įstatymo 36 straipsnyje nustatyti apribojimai dirbti
 
-ne krašto apsaugos sistemos įmonėse, įstaigose ir organizacijose samdomais
+ne krašto apsaugos sistemos įmonėse, įstaigose ir organizacijose samdomais darbuotojais,
 
-darbuotojais, patarėjais, ekspertais ar konsultantais, būti jų valdymo organų
+patarėjais, ekspertais ar konsultantais, būti jų valdymo organų nariais, turėti
 
-nariais, turėti kitų renkamų ar skiriamų pareigų, gauti kitą atlyginimą,
+kitų renkamų ar skiriamų pareigų, gauti kitą atlyginimą, išskyrus atlyginimą už
 
-išskyrus atlyginimą už kūrybinę ir pedagoginę veiklą, valdyti pagal įgaliojimą
+kūrybinę ir pedagoginę veiklą, valdyti pagal įgaliojimą daugiau kaip 10
 
-daugiau kaip 10 procentų vienos įmonės akcijų, teikti komercinio pobūdžio
+procentų vienos įmonės akcijų, teikti komercinio pobūdžio paslaugų ar
 
-paslaugų ar atstovauti ne krašto apsaugos sistemos įmonių, įstaigų ir
+atstovauti ne krašto apsaugos sistemos įmonių, įstaigų ir organizacijų
 
-organizacijų interesams ir vykti į užsienį šiais tikslais.
+interesams ir vykti į užsienį šiais tikslais.
 
 8. Jeigu
 
@@ -16975,7 +16991,9 @@ leitenantai) – 46 metus;
 
 53 metus;
 
-9) generolai (admirolai) – 58 metus.
+9) generolai (admirolai) – 58
+
+metus.
 
 5. Karo
 
@@ -17227,9 +17245,9 @@ tarnybos metais nustatyto dydžio tarnybinis atlyginimas.
 
 12. Nuolatinės privalomosios
 
-pradinės karo tarnybos kariams du kartus per tarnybos metus suteikiama po 7
+pradinės karo tarnybos kariams du kartus per tarnybos metus suteikiama po 7 kalendorines
 
-kalendorines dienas atostogų, įskaitant kelionės dienas.
+dienas atostogų, įskaitant kelionės dienas.
 
 13. Karo prievolininkams,
 
@@ -17353,9 +17371,9 @@ tarnautojų darbo apmokėjimo sąlygos jiems netaikomos.
 
 3.
 
-Profesinės karo tarnybos kario tarnybinio atlyginimo dydis priklauso nuo kario laipsnio
+Profesinės karo tarnybos kario tarnybinio atlyginimo dydis priklauso nuo kario
 
-ir pagal šį laipsnį ištarnautų metų. Profesinės karo tarnybos karių,
+laipsnio ir pagal šį laipsnį ištarnautų metų. Profesinės karo tarnybos karių,
 
 tarnaujančių Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos
 
@@ -17393,9 +17411,9 @@ daugiau kaip kartą per metus iki vieno mėnesinio tarnybinio atlyginimo (be
 
 pareiginio priedo) dydžio premijos už pavyzdingą tarnybą, karį atestavus
 
-puikiai, labai gerai ar gerai. Premijų dydį, mokėjimo sąlygas ir premijavimo
+puikiai, labai gerai ar gerai. Premijų dydį, mokėjimo sąlygas ir premijavimo tvarką
 
-tvarką nustato krašto apsaugos ministras.
+nustato krašto apsaugos ministras.
 
 7. Kariams savanoriams ir kitiems
 
