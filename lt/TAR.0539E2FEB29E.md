@@ -4,7 +4,7 @@ identifier: "TAR.0539E2FEB29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-15"
-last_updated: "2013-06-18"
+last_updated: "2013-07-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0539E2FEB29E"
 department: "Lietuvos Respublikos Seimas"
@@ -262,6 +262,22 @@ būti derinami ir tvirtinami tik atlikus planuojamos ūkinės veiklos poveikio
 
 aplinkai vertinimą ir priėmus sprendimą leisti vykdyti planuojamą ūkinę veiklą.
 
+Dalies redakcija
+
+nuo 2014-01-01:
+
+4. Planuojamai
+
+ūkinei veiklai, kuriai privaloma atlikti poveikio aplinkai vertinimą ar atranką
+
+dėl poveikio aplinkai vertinimo, ūkinės veiklos leidimas gali būti išduotas, jeigu
+
+yra galiojantis atsakingos institucijos teigiamas sprendimas dėl planuojamos
+
+ūkinės veiklos galimybių ar atrankos dėl poveikio aplinkai vertinimo išvados,
+
+kad neprivaloma atlikti poveikio aplinkai vertinimą.
+
 5. Planuojamos
 
 ūkinės veiklos poveikio aplinkai vertinimo procesą sudaro:
@@ -316,6 +332,10 @@ Nr. XI-1433,
 
 2011-06-09, Žin., 2011, Nr. 77-3720 (2011-06-28)
 
+Nr. XII-418,
+
+2013-06-27, Žin., 2013, Nr. 76-3835 (2013-07-16)
+
 4
 
 straipsnis. Poveikio aplinkai vertinimo tikslai
@@ -332,19 +352,17 @@ veiklos poveikį visuomenės sveikatai, gyvūnijai ir augalijai, dirvožemiui,
 
 žemės paviršiui ir jos gelmėms, orui, vandeniui, klimatui, kraštovaizdžiui ir
 
-biologinei įvairovei, socialinei ekonominei aplinkai ir materialinėms
+biologinei įvairovei, socialinei ekonominei aplinkai ir materialinėms vertybėms,
 
-vertybėms, nekilnojamosioms kultūros vertybėms bei šių aplinkos komponentų
+nekilnojamosioms kultūros vertybėms bei šių aplinkos komponentų tarpusavio
 
-tarpusavio sąveikai;
+sąveikai;
 
 2) sumažinti
 
 planuojamos ūkinės veiklos neigiamą poveikį visuomenės sveikatai ir kitiems šio
 
-straipsnio 1 punkte išvardytiems aplinkos komponentams arba šio poveikio
-
-išvengti;
+straipsnio 1 punkte išvardytiems aplinkos komponentams arba šio poveikio išvengti;
 
 3) nustatyti, ar
 
@@ -474,11 +492,13 @@ nustatytas poveikio aplinkai vertinimo procedūras.
 
 3. Poveikio
 
-aplinkai vertinimo dokumentų rengėjas nustato, apibūdina ir įvertina planuojamos
+aplinkai vertinimo dokumentų rengėjas nustato, apibūdina ir įvertina
 
-ūkinės veiklos galimą poveikį aplinkai, rengia programą ir ataskaitą bei
+planuojamos ūkinės veiklos galimą poveikį aplinkai, rengia programą ir
 
-atlieka šio įstatymo jam nustatytas poveikio aplinkai vertinimo procedūras.
+ataskaitą bei atlieka šio įstatymo jam nustatytas poveikio aplinkai vertinimo
+
+procedūras.
 
 4. Planuojamos
 
@@ -502,9 +522,9 @@ Nr. X-1654,
 
 2008-06-30, Žin., 2008, Nr. 81-3167 (2008-07-17)
 
-Nr. XI-1433, 2011-06-09,
+Nr. XI-1433,
 
-Žin., 2011, Nr. 77-3720 (2011-06-28)
+2011-06-09, Žin., 2011, Nr. 77-3720 (2011-06-28)
 
 II SKYRIUS
 
@@ -590,27 +610,27 @@ kurią planuojama ūkinė veikla gali paveikti, jautrumą aplinkosaugos požiūr
 
 ekosistemos savybes, kraštovaizdį, žemėnaudos pobūdį, vietovės infrastruktūrą,
 
-gamybos objektų sutelkimą, santykinį gamtinių išteklių kiekį, kokybę ir regeneracijos
+gamybos objektų sutelkimą, santykinį gamtinių išteklių kiekį, kokybę ir
 
-galimybes, natūralios aplinkos atsparumą, ypatingą dėmesį atkreipdama į
+regeneracijos galimybes, natūralios aplinkos atsparumą, ypatingą dėmesį
 
-saugomas teritorijas, taip pat į Europos ekologinio tinklo „Natura 2000“
+atkreipdama į saugomas teritorijas, taip pat į Europos ekologinio tinklo
 
-teritorijos gamtosauginius tikslus, tankiai apgyvendintas teritorijas,
+„Natura 2000“ teritorijos gamtosauginius tikslus, tankiai apgyvendintas
 
-pelkes, miškus, apsaugines zonas, vykdytos aplinkos stebėsenos duomenų analizę,
+teritorijas, pelkes, miškus, apsaugines zonas, vykdytos aplinkos stebėsenos
 
-teritorijas, kuriose jau viršytas leistinas užterštumo lygis ar kurios
+duomenų analizę, teritorijas, kuriose jau viršytas leistinas užterštumo
 
-vertingos istoriniu, kultūriniu arba archeologiniu aspektu;
+lygis ar kurios vertingos istoriniu, kultūriniu arba archeologiniu aspektu;
 
 2) galimą
 
-planuojamos ūkinės veiklos poveikį visuomenės sveikatai, gyvūnijai, augalijai,
+planuojamos ūkinės veiklos poveikį visuomenės sveikatai, gyvūnijai,
 
-dirvožemiui, vandeniui, orui, klimatui, kraštovaizdžiui, materialinėms
+augalijai, dirvožemiui, vandeniui, orui, klimatui, kraštovaizdžiui,
 
-vertybėms, kultūros paveldui ir visų šių veiksnių sąveikai, ypatingą
+materialinėms vertybėms, kultūros paveldui ir visų šių veiksnių sąveikai, ypatingą
 
 dėmesį atkreipdama į galimą poveikio mastą, tarpvalstybinį poveikį, poveikio
 
@@ -628,11 +648,11 @@ aplinkai vertinimo dokumentų rengėjui (jeigu jis teikė atrankos informaciją)
 
 poveikio aplinkai vertinimo subjektams motyvuotą atrankos išvadą, ar privaloma
 
-atlikti poveikio aplinkai vertinimą. Atrankos išvada dėl poveikio aplinkai
+atlikti poveikio aplinkai vertinimą. Atrankos išvada dėl poveikio aplinkai vertinimo
 
-vertinimo galioja 3 metus nuo atrankos išvados viešo paskelbimo dienos.
+galioja 3 metus nuo atrankos išvados viešo paskelbimo dienos. Atsakinga
 
-Atsakinga institucija, vadovaudamasi Aplinkos ministerijos nustatyta tvarka ir
+institucija, vadovaudamasi Aplinkos ministerijos nustatyta tvarka ir
 
 patvirtintais kriterijais, gali priimti sprendimą pratęsti atrankos išvados
 
@@ -856,9 +876,9 @@ rengėjui.
 
 8. Poveikio
 
-aplinkai vertinimo dokumentų rengėjas programą ir visų poveikio aplinkai
+aplinkai vertinimo dokumentų rengėjas programą ir visų poveikio aplinkai vertinimo
 
-vertinimo subjektų išvadas pateikia atsakingai institucijai.
+subjektų išvadas pateikia atsakingai institucijai.
 
 9. Jeigu iki
 
@@ -1050,21 +1070,21 @@ galimybių pateikia poveikio aplinkai vertinimo dokumentų rengėjui.
 
 6. Poveikio
 
-aplinkai vertinimo dokumentų rengėjas atsakingai institucijai pateikia ataskaitą,
+aplinkai vertinimo dokumentų rengėjas atsakingai institucijai pateikia
 
-poveikio aplinkai vertinimo subjektų išvadas dėl ataskaitos ir planuojamos
+ataskaitą, poveikio aplinkai vertinimo subjektų išvadas dėl ataskaitos ir
 
-ūkinės veiklos galimybių bei argumentuotą suinteresuotos visuomenės pasiūlymų
+planuojamos ūkinės veiklos galimybių bei argumentuotą suinteresuotos visuomenės
 
-įvertinimą. Kai planuojamai ūkinei veiklai taikomos tarpvalstybinio poveikio
+pasiūlymų įvertinimą. Kai planuojamai ūkinei veiklai taikomos tarpvalstybinio
 
-aplinkai vertinimo procedūros pagal Konvenciją, poveikio aplinkai vertinimo
+poveikio aplinkai vertinimo procedūros pagal Konvenciją, poveikio aplinkai
 
-dokumentų rengėjas pateikia ir argumentuotą galinčios patirti neigiamą poveikį
+vertinimo dokumentų rengėjas pateikia ir argumentuotą galinčios patirti
 
-aplinkai Europos Sąjungos valstybės narės ir (ar) užsienio valstybės pasiūlymų
+neigiamą poveikį aplinkai Europos Sąjungos valstybės narės ir (ar) užsienio
 
-įvertinimą.
+valstybės pasiūlymų įvertinimą.
 
 7.
 
@@ -1086,9 +1106,9 @@ pateiktų pastabų ataskaita iš esmės pakeičiama, pataisoma ar papildoma,
 
 poveikio aplinkai vertinimo dokumentų rengėjas turi gauti pakartotines poveikio
 
-aplinkai vertinimo subjektų išvadas šio straipsnio 3, 4, 5 ir 6 dalyse
+aplinkai vertinimo subjektų išvadas šio straipsnio 3, 4, 5 ir 6 dalyse nustatyta
 
-nustatyta tvarka.
+tvarka.
 
 8. Visi poveikio
 
@@ -1312,13 +1332,35 @@ PLANUOJAMOS
 
 ĮSTATYMAS
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XII-418,
+
+2013-06-27, Žin., 2013, Nr. 76-3835 (2013-07-16)
+
+PLANUOJAMOS
+
+ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2014 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2013-06-18)
+Aušrinė Trapinskienė (2013-07-24)
 
 ausrine.trapinskiene@lrs.lt
 
@@ -1802,37 +1844,37 @@ punktu atsakinga institucija ataskaitai nagrinėti pasitelkia konsultantus, ši
 
 institucija motyvuotus reikalavimus ataskaitą pataisyti ar papildyti teikia
 
-arba priima sprendimą per 50 darbo dienų nuo ataskaitos gavimo dienos.
+arba priima sprendimą per 50 darbo dienų nuo ataskaitos gavimo dienos. Atsakinga
 
-Atsakinga institucija priima motyvuotą sprendimą pasitelkti konsultantus ir
+institucija priima motyvuotą sprendimą pasitelkti konsultantus ir pateikia jį
 
-pateikia jį planuojamos ūkinės veiklos organizatoriui (užsakovui) ir poveikio
+planuojamos ūkinės veiklos organizatoriui (užsakovui) ir poveikio aplinkai
 
-aplinkai vertinimo dokumentų rengėjui per 5 darbo dienas po ataskaitos gavimo
+vertinimo dokumentų rengėjui per 5 darbo dienas po ataskaitos gavimo dienos.
 
-dienos. Šioje straipsnio dalyje nurodytas sprendimo priėmimo terminas vieną
+Šioje straipsnio dalyje nurodytas sprendimo priėmimo terminas vieną kartą gali
 
-kartą gali būti pratęstas iki 30 dienų. Atsakinga institucija apie priimtą
+būti pratęstas iki 30 dienų. Atsakinga institucija apie priimtą sprendimą
 
-sprendimą pratęsti terminą privalo ne vėliau kaip likus 5 darbo dienoms iki
+pratęsti terminą privalo ne vėliau kaip likus 5 darbo dienoms iki termino
 
-termino pabaigos pranešti planuojamos ūkinės veiklos organizatoriui (užsakovui)
+pabaigos pranešti planuojamos ūkinės veiklos organizatoriui (užsakovui) ir
 
-ir poveikio aplinkai vertinimo dokumentų rengėjui ir nurodyti priežastis, dėl
+poveikio aplinkai vertinimo dokumentų rengėjui ir nurodyti priežastis, dėl
 
 kurių terminas buvo pratęstas.
 
 3. Kai atsakinga institucija pateikia motyvuotus
 
-reikalavimus ataskaitą pataisyti ar papildyti, poveikio aplinkai vertinimo
+reikalavimus ataskaitą pataisyti ar papildyti, poveikio aplinkai vertinimo dokumentų
 
-dokumentų rengėjas turi papildyti ar pataisyti ataskaitą ir pakartotinai
+rengėjas turi papildyti ar pataisyti ataskaitą ir pakartotinai pateikti ją
 
-pateikti ją atsakingai institucijai. Ši ataskaitą išnagrinėja ir per šio
+atsakingai institucijai. Ši ataskaitą išnagrinėja ir per šio straipsnio 1
 
-straipsnio 1 dalyje nurodytą terminą priima sprendimą arba dar kartą teikia
+dalyje nurodytą terminą priima sprendimą arba dar kartą teikia motyvuotus
 
-motyvuotus reikalavimus ataskaitą pataisyti ar papildyti.
+reikalavimus ataskaitą pataisyti ar papildyti.
 
 4. Kai planuojamai
 
@@ -1858,15 +1900,15 @@ aplinkai vertinimo subjektų išvados dėl planuojamos ūkinės veiklos galimybi
 
 prieštarauja viena kitai ir (ar) atsakinga institucija yra gavusi
 
-suinteresuotos visuomenės pasiūlymus, atsakinga institucija, prieš priimdama
+suinteresuotos visuomenės pasiūlymus, atsakinga institucija, prieš priimdama sprendimą,
 
-sprendimą, kviečia atvykti planuojamos ūkinės veiklos organizatorių (užsakovą),
+kviečia atvykti planuojamos ūkinės veiklos organizatorių (užsakovą), poveikio
 
-poveikio aplinkai vertinimo dokumentų rengėją, poveikio aplinkai vertinimo
+aplinkai vertinimo dokumentų rengėją, poveikio aplinkai vertinimo subjektus
 
-subjektus svarstyti jų išvadas ir (ar) suinteresuotos visuomenės pasiūlymus.
+svarstyti jų išvadas ir (ar) suinteresuotos visuomenės pasiūlymus. Taip pat
 
-Taip pat kviečiami ir pasiūlymus pateikę suinteresuotos visuomenės atstovai.
+kviečiami ir pasiūlymus pateikę suinteresuotos visuomenės atstovai.
 
 7. Jeigu
 
@@ -1906,15 +1948,15 @@ galiojimą ne ilgesniam kaip 5 metų terminui per 20 darbo dienų nuo planuojamo
 
 sprendimo galiojimo pratęsimo.
 
-9. Jeigu atsakinga
+9. Jeigu
 
-institucija priima sprendimą, kad planuojama ūkinė veikla dėl atitinkamų
+atsakinga institucija priima sprendimą, kad planuojama ūkinė veikla dėl
 
-įstatymų ir kitų teisės aktų nuostatų pažeidimų ir (ar) galimo neigiamo
+atitinkamų įstatymų ir kitų teisės aktų nuostatų pažeidimų ir (ar) galimo
 
-poveikio aplinkai pasirinktoje vietoje neleistina, planuojama ūkinė veikla
+neigiamo poveikio aplinkai pasirinktoje vietoje neleistina, planuojama ūkinė
 
-negali būti vykdoma.
+veikla negali būti vykdoma.
 
 10.
 
@@ -1922,15 +1964,15 @@ Atsakinga institucija ir planuojamos ūkinės veiklos organizatorius (užsakovas
 
 Aplinkos ministerijos nustatyta tvarka praneša visuomenei apie sprendimą ir
 
-suteikia galimybę su juo susipažinti. Kai planuojamai ūkinei veiklai
+suteikia galimybę su juo susipažinti. Kai planuojamai ūkinei veiklai atliktos
 
-atliktos tarpvalstybinio poveikio aplinkai vertinimo procedūros pagal
+tarpvalstybinio poveikio aplinkai vertinimo procedūros pagal Konvenciją,
 
-Konvenciją, informacija apie sprendimą teikiama ir galinčiai patirti neigiamą
+informacija apie sprendimą teikiama ir galinčiai patirti neigiamą poveikį
 
-poveikį aplinkai Europos Sąjungos valstybei narei ir (ar) užsienio valstybei
+aplinkai Europos Sąjungos valstybei narei ir (ar) užsienio valstybei Aplinkos
 
-Aplinkos ministerijos nustatyta tvarka.
+ministerijos nustatyta tvarka.
 
 Straipsnio
 
@@ -2020,19 +2062,19 @@ Sąjungos valstybės narės pateiktus pasiūlymus ar papildomą informaciją bū
 
 galima įtraukti į ataskaitą, iki atsakinga institucija priims sprendimą.
 
-4. Gavusi galinčios
+4. Gavusi
 
-patirti neigiamą poveikį aplinkai Europos Sąjungos valstybės narės pasiūlymus
+galinčios patirti neigiamą poveikį aplinkai Europos Sąjungos valstybės narės
 
-ar papildomą informaciją apie planuojamą ūkinę veiklą, Lietuvos Respublika
+pasiūlymus ar papildomą informaciją apie planuojamą ūkinę veiklą, Lietuvos
 
-pradeda tarpvalstybines konsultacijas su galinčia patirti neigiamą poveikį
+Respublika pradeda tarpvalstybines konsultacijas su galinčia patirti neigiamą
 
-aplinkai Europos Sąjungos valstybe nare dėl galimo tarpvalstybinio planuojamos
+poveikį aplinkai Europos Sąjungos valstybe nare dėl galimo tarpvalstybinio
 
-ūkinės veiklos poveikio, numatomų priemonių poveikiui aplinkai sumažinti ar
+planuojamos ūkinės veiklos poveikio, numatomų priemonių poveikiui aplinkai
 
-pašalinti.
+sumažinti ar pašalinti.
 
 5. Kai Lietuvos
 
@@ -2108,17 +2150,17 @@ aplinkai.
 
 2. Visuomenės
 
-informavimą ir dalyvavimą planuojamos ūkinės veiklos poveikio aplinkai vertinimo
+informavimą ir dalyvavimą planuojamos ūkinės veiklos poveikio aplinkai
 
-procese savo lėšomis nustatyta tvarka organizuoja planuojamos ūkinės veiklos
+vertinimo procese savo lėšomis nustatyta tvarka organizuoja planuojamos ūkinės
 
-organizatorius (užsakovas).
+veiklos organizatorius (užsakovas).
 
 3. Visuomenės
 
-informavimo ir dalyvavimo planuojamos ūkinės veiklos poveikio aplinkai
+informavimo ir dalyvavimo planuojamos ūkinės veiklos poveikio aplinkai vertinimo
 
-vertinimo procese tvarką nustato Aplinkos ministerija.
+procese tvarką nustato Aplinkos ministerija.
 
 4. Atsakinga
 
@@ -2532,9 +2574,9 @@ Nr. X-1654,
 
 2008-06-30, Žin., 2008, Nr. 81-3167 (2008-07-17)
 
-Nr. XI-1433, 2011-06-09,
+Nr. XI-1433,
 
-Žin., 2011, Nr. 77-3720 (2011-06-28)
+2011-06-09, Žin., 2011, Nr. 77-3720 (2011-06-28)
 
 Nr. XII-353,
 
@@ -2606,9 +2648,9 @@ sistemas, įrengimas (kai užimamas plotas didesnis kaip 5 ha);
 
 nuolatiniam saugojimui, įrengimas (mažiau kaip 5 milijonai m(3), bet
 
-daugiau kaip 200 000 m(3) vandens tūrio arba kai jų vandens paviršiaus
+daugiau kaip 200 000 m(3) vandens tūrio arba kai jų vandens
 
-plotas mažesnis kaip 250 ha, bet didesnis kaip 10 ha);
+paviršiaus plotas mažesnis kaip 250 ha, bet didesnis kaip 10 ha);
 
 1.8.
 
@@ -2616,11 +2658,9 @@ Nesukultūrintų žemės plotų panaudojimas intensyvaus žemės ūkio reikmėms
 
 naudojamas didesnis kaip 0,5 ha plotas);
 
-1.9.
+1.9. Kompleksinių
 
-Kompleksinių žemėtvarkos projektų, numatančių kaimų žemėvaldos pakeitimus,
-
-įgyvendinimas;
+žemėtvarkos projektų, numatančių kaimų žemėvaldos pakeitimus, įgyvendinimas;
 
 1.10. Miško
 
@@ -2746,9 +2786,9 @@ kaip 30 tonų per parą);
 
 4.5. Metalų ar
 
-plastikų paviršių apdorojimas elektrolizės ar cheminiais būdais (kai gamybos
+plastikų paviršių apdorojimas elektrolizės ar cheminiais būdais (kai gamybos pajėgumas
 
-pajėgumas – daugiau kaip 50 000 m(2) per metus);
+– daugiau kaip 50 000 m(2) per metus);
 
 4.6. Variklinių
 
@@ -2764,11 +2804,11 @@ Laivų statyba ar remontas;
 
 gamyba ar remontas;
 
-4.9.
+4.9. Geležinkelių
 
-Geležinkelių įrangos gamyba ar remontas (kai pagrindinis plotas – daugiau
+įrangos gamyba ar remontas (kai pagrindinis plotas – daugiau kaip 1 000
 
-kaip 1 000 m(2));
+m(2));
 
 4.10. Metalų
 
@@ -2782,17 +2822,17 @@ pramonė:
 
 gamyba (sausas anglių distiliavimas);
 
-5.2. Asbesto
+5.2. Asbesto gavyba
 
-gavyba ar perdirbimas, asbesto ar gaminių, kuriuose yra asbesto, perdirbimas
+ar perdirbimas, asbesto ar gaminių, kuriuose yra asbesto, perdirbimas (kai
 
-(kai gaminių, kuriuose yra asbesto, pagaminama mažiau kaip 20 000 tonų per
+gaminių, kuriuose yra asbesto, pagaminama mažiau kaip 20 000 tonų per metus;
 
-metus; frikcinių medžiagų – kai per metus pagaminama mažiau kaip 50
+frikcinių medžiagų – kai per metus pagaminama mažiau kaip 50 tonų;
 
-tonų; kitais asbesto panaudojimo atvejais – kai per metus naudojama mažiau kaip
+kitais asbesto panaudojimo atvejais – kai per metus naudojama mažiau kaip 200
 
-200 tonų asbesto);
+tonų asbesto);
 
 5.3.
 
@@ -3510,9 +3550,9 @@ XI-1433,
 
 PLANUOJAMOS ŪKINĖS VEIKLOS
 
-POVEIKIO APLINKAI VERTINIMO ĮSTATYMO 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15 STRAIPSNIŲ
+POVEIKIO APLINKAI VERTINIMO ĮSTATYMO 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15
 
-IR 1, 2, 3 PRIEDŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+STRAIPSNIŲ IR 1, 2, 3 PRIEDŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Šio
 
