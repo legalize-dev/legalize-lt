@@ -4,7 +4,7 @@ identifier: "TAR.7690C98816CA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-01"
-last_updated: "2013-06-01"
+last_updated: "2013-07-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7690C98816CA"
 department: "Lietuvos Respublikos Seimas"
@@ -1731,61 +1731,21 @@ už gerą tarnybą gali būti panaikinta anksčiau, negu sueis šio straipsnio 7
 
 dalyje nustatytas terminas.
 
-24 straipsnis. Tarnybos pareigūno
+24 straipsnis. Tarnybos pareigūno nušalinimas nuo pareigų
 
-nušalinimas nuo pareigų
+Tarnybos
 
-1. Tarnybos
+pareigūnas nuo pareigų nušalinamas Lietuvos Respublikos valstybės tarnybos
 
-pareigūnas nušalinamas nuo pareigų:
+įstatymo ir kitų įstatymų nustatytais atvejais ir tvarka.
 
-1) jeigu jis yra
+Straipsnio pakeitimai:
 
-tarnyboje neblaivus ar apsvaigęs nuo narkotinių, toksinių ar psichotropinių
+Nr.
 
-medžiagų – tą dieną;
+XII-453,
 
-2) jeigu jis
-
-traukiamas baudžiamojon atsakomybėn – visą baudžiamosios bylos tyrimo ir
-
-nagrinėjimo laikotarpį.
-
-2. Tarnybos pareigūnas gali būti nušalinamas nuo
-
-pareigų, jeigu jis įtariamas padaręs tarnybinį nusižengimą – kol bus atliktas
-
-tarnybinis tyrimas ir priimtas sprendimas dėl tarnybinės nuobaudos skyrimo ar
-
-jo tolesnės tarnybos.
-
-3. Tarnybinio tyrimo metu
-
-Specialiųjų tyrimų tarnybos direktorius ir jo pavaduotojai turi teisę nušalinti
-
-tarnybos pareigūną nuo pareigų. Direktorių ir jo pavaduotojus nušalinti nuo
-
-pareigų turi teisę Respublikos Prezidentas savo iniciatyva ar Seimo sudarytos
-
-komisijos siūlymu arba generalinio prokuroro teikimu.
-
-4. Darbo
-
-užmokestis nušalinimo metu nemokamas. Jei
-
-pripažįstama, kad tarnybos pareigūnas nepadarė tarnybinio nusižengimo, jis
-
-grąžinamas į ankstesnes pareigas ir jam išmokamas darbo užmokestis už
-
-laikotarpį, per kurį jis nebuvo mokamas dėl nušalinimo nuo pareigų.
-
-5. Nušalintas
-
-nuo pareigų tarnybos pareigūnas nuo nušalinimo momento grąžina tarnybinį
-
-pažymėjimą, ženklą, tarnybinį ginklą, dokumentus ir kitas darbo priemones,
-
-kurias turėjo eidamas tarnybines pareigas.
+2013-07-02, Žin., 2013, Nr. 78-3932 (2013-07-20)
 
 25
 
@@ -2361,53 +2321,13 @@ ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos vy
 
 nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų
 
-laikotarpiais pareigūnams mokamas vidutinis jų darbo užmokestis arba jo dalis.
+laikotarpiais, taip pat pirmaisiais vaiko auginimo metais, kai vaiko priežiūros
 
-Mokamo vidutinio darbo užmokesčio arba jo dalies dydis, maksimalus
+atostogos nutraukiamos dėl grįžimo į tarnybą, ar antraisiais vaiko auginimo
 
-kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis
+metais, kai vaiko priežiūros atostogos nesuteiktos arba nutrauktos, pareigūnams
 
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo
-
-nuostatomis. Laikinojo nedarbingumo dėl nelaimingo atsitikimo darbe
-
-(tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat
-
-dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
-
-ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos
-
-vykdymo, atveju pareigūnams mokama 100 procentų jų vidutinio darbo užmokesčio,
-
-taikant maksimalaus ir minimalaus kompensuojamojo uždarbio dydžius
-
-vadovaujantis Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių
-
-ligų socialinio draudimo įstatymo nuostatomis dėl ligos pašalpos skaičiavimo.
-
-Dalies redakcija
-
-nuo 2013-07-01:
-
-6. Laikinojo
-
-nedarbingumo (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo darbe
-
-(tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat
-
-dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
-
-ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos
-
-vykdymo), nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros
-
-atostogų laikotarpiais, taip pat pirmaisiais vaiko auginimo metais, kai vaiko
-
-priežiūros atostogos nutraukiamos dėl grįžimo į tarnybą, ar antraisiais vaiko
-
-auginimo metais, kai vaiko priežiūros atostogos nesuteiktos arba nutrauktos,
-
-pareigūnams mokamos vidutinio jų darbo užmokesčio arba jo dalies dydžio išmokos,
+mokamos vidutinio jų darbo užmokesčio arba jo dalies dydžio išmokos,
 
 neviršijančios maksimalaus kompensuojamojo uždarbio. Šių išmokų dydžiai,
 
@@ -2477,17 +2397,17 @@ XI-949,
 
 2010-06-30, Žin., 2010, Nr. 82-4303 (2010-07-13)
 
-Nr. XI-1719, 2011-11-22,
+Nr. XI-1719,
 
-Žin., 2011, Nr. 150-7034 (2011-12-08)
+2011-11-22, Žin., 2011, Nr. 150-7034 (2011-12-08)
 
 Nr. XII-119,
 
 2012-12-20, Žin., 2012, Nr. 155-7997 (2012-12-31)
 
-Nr. XI-986, 2010-07-02,
+Nr. XI-986,
 
-Žin., 2010, Nr. 86-4537 (2010-07-20)
+2010-07-02, Žin., 2010, Nr. 86-4537 (2010-07-20)
 
 Nr.
 
@@ -2607,11 +2527,9 @@ pareigūnus iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos į
 
 12 straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
 
-straipsnio 1 dalies 6 punkto, 2 dalies 3, 4, 5 arba 7 punkto nustatytais
+straipsnio 1 dalies 6 punkto, 2 dalies 3, 4, 5 arba 7 punkto nustatytais pagrindais,
 
-pagrindais, išmokama dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė
-
-pašalpa.
+išmokama dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė pašalpa.
 
 2. Šio straipsnio 1 dalyje
 
@@ -2657,9 +2575,9 @@ straipsnis. tarnybos laikas
 
 1.
 
-Tarnybos pareigūnai, išskyrus Specialiųjų tyrimų tarnybos direktorių, Specialiųjų
+Tarnybos pareigūnai, išskyrus Specialiųjų tyrimų tarnybos direktorių,
 
-tyrimų tarnyboje tarnauja:
+Specialiųjų tyrimų tarnyboje tarnauja:
 
 1) iki vyresniojo specialiojo
 
