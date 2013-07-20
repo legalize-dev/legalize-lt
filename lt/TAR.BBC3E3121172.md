@@ -4,7 +4,7 @@ identifier: "TAR.BBC3E3121172"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-04-18"
-last_updated: "2013-06-01"
+last_updated: "2013-07-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BBC3E3121172"
 department: "Lietuvos Respublikos Seimas"
@@ -1567,87 +1567,441 @@ PAREIGŪNŲ NUŠALINIMAS NUO PAREIGŲ
 
 28
 
-straipsnis. Pareigūnų nušalinimo nuo pareigų atvejai, terminai ir tvarka
+straipsnis. Pareigūnų nušalinimas nuo pareigų
 
-1. Nušalinti nuo
+Pareigūnai nuo
 
-pareigų įsakymu turi teisę :
+pareigų nušalinami Lietuvos Respublikos valstybės tarnybos įstatymo ir kitų
 
-1) Kalėjimų
+įstatymų nustatytais atvejais ir tvarka.
 
-departamento direktorių, direktoriaus pavaduotojus ir šiam departamentui
+Straipsnio pakeitimai:
 
-pavaldžios įstaigos direktorių – teisingumo ministras;
+Nr. XII-454,
 
-2) Kalėjimų
-
-departamento ir jam pavaldžios įstaigos pareigūnus – Kalėjimų departamento
-
-direktorius;
-
-3) Kalėjimų
-
-departamentui pavaldžios įstaigos pareigūnus – šios įstaigos direktorius.
-
-2. Pareigūnas
-
-gali būti nušalintas nuo pareigų:
-
-1) jei jis darbo
-
-laiku tarnybos vietoje yra neblaivus arba apsvaigęs nuo narkotinių,
-
-psichotropinių ar kitokių medžiagų, – tą dieną (pamainą);
-
-2) jei jis
-
-įtariamas padaręs tarnybinį nusižengimą, – kol bus atliktas tarnybinio
-
-nusižengimo tyrimas;
-
-3) jei jis
-
-atestacijos komisijos sprendimu pripažįstamas netinkamu eiti pareigūno pareigas
-
-Kalėjimų departamente arba jam pavaldžioje įstaigoje, – kol bus priimtas
-
-sprendimas dėl jo tolesnės tarnybos;
-
-4) jei jis yra
-
-įtariamas arba kaltinamas nusikalstamos veikos padarymu, – iki baudžiamojo
-
-proceso nutraukimo arba išteisinamojo teismo nuosprendžio įsiteisėjimo.
-
-3. Pareigūnas
-
-turi būti nušalintas nuo pareigų remiantis pagal įstatymus turinčių teisę
-
-nušalinti pareigūnų arba institucijos ar įstaigos rašytiniu reikalavimu.
-
-Reikalavime nušalinti nuo pareigų turi būti nurodyta, kuriam laikui pareigūnas
-
-nušalinamas nuo pareigų, nušalinimo priežastys ir teisinis pagrindas.
-
-4. Pareigūnas
-
-turi būti nušalintas nuo pareigų ir Baudžiamojo proceso kodekso nustatytais
-
-atvejais.
+2013-07-02, Žin., 2013, Nr. 78-3933 (2013-07-20)
 
 29
 
-straipsnis. Pareigūnų nušalinimo nuo pareigų pasekmės
+straipsnis. Neteko
 
-Pareigūnas,
+galios nuo 2013-07-20.
 
-nušalintas nuo pareigų, netenka teisės dėvėti tarnybinę uniformą, privalo
+Straipsnio pakeitimai:
 
-grąžinti pareigūno tarnybinį pažymėjimą, kitus dokumentus, tarnybinį šaunamąjį
+Nr. XII-454,
 
-ginklą, šaudmenis, specialiąsias ir darbo priemones, kurias jis turėjo eidamas
+2013-07-02, Žin., 2013, Nr. 78-3933 (2013-07-20)
 
-tarnybines pareigas.
+30
+
+straipsnis. Neteko
+
+galios nuo 2013-07-20.
+
+Straipsnio pakeitimai:
+
+Nr. XII-454,
+
+2013-07-02, Žin., 2013, Nr. 78-3933 (2013-07-20)
+
+DEVINTASIS
+
+SKIRSNIS
+
+PAREIGŪNŲ
+
+ATLEIDIMAS IŠ TARNYBOS
+
+31
+
+straipsnis. Pareigūnų atleidimo iš tarnybos pagrindai
+
+1. Pareigūnas
+
+gali būti atleistas iš tarnybos:
+
+1) kai savo
+
+poelgiu tarnybos metu arba ne tarnybos metu pažemino pareigūno vardą;
+
+2) kai
+
+neteisėtai perdavė suimtiesiems ar nuteistiesiems arba neteisėtai gavo iš šių
+
+asmenų daiktų ar paslaugų;
+
+3) kai
+
+panaikinama pareigybė;
+
+4) kai dėl
+
+laikinojo nedarbingumo neatvyko į darbą daugiau kaip 120 kalendorinių dienų iš
+
+eilės arba daugiau kaip 140 kalendorinių dienų per paskutinius 12 mėnesių,
+
+jeigu šis neatvykimas nėra susijęs su sveikatos sutrikdymu atliekant tarnybos
+
+pareigas arba įstatymuose nėra nustatyta, kad tam tikros ligos atveju pareigos
+
+paliekamos ilgesnį laiką;
+
+5) kai
+
+nerūpestingai atliko pareigas ar kitaip pažeidė tarnybos drausmę, jei prieš tai
+
+jam per paskutinius 12 mėnesių buvo skirtos tarnybinės nuobaudos;
+
+6) kai tyčine
+
+neteisėta veika Kalėjimų departamentui arba jam pavaldžiai įstaigai padarė
+
+turtinės žalos;
+
+7) kai įstatymų
+
+nustatytais atvejais į tarnybą grįžta pirmiau dirbęs pareigūnas;
+
+8) kai jis darbo
+
+laiku tarnybos vietoje yra neblaivus, apsvaigęs nuo narkotinių, psichotropinių
+
+ar kitokių medžiagų;
+
+9) kai jis
+
+neatvyko į tarnybą be svarbių priežasčių per visą darbo dieną (pamainą);
+
+10) kai jis
+
+pažeidė draudimą streikuoti;
+
+11) kai jis
+
+pažeidė draudimą dalyvauti politinių partijų veikloje;
+
+12) kai jis
+
+pažeidė Viešųjų ir privačių
+
+interesų derinimo valstybinėje tarnyboje įstatymą.
+
+2. Pareigūnas
+
+atleidžiamas iš tarnybos:
+
+1) jo paties
+
+prašymu;
+
+2) kai netenka
+
+Lietuvos Respublikos pilietybės;
+
+3) kai atsisako
+
+prisiekti arba prisiekęs atsisako priesaikos;
+
+4) kai negali
+
+eiti savo kaip pareigūno pareigų Kalėjimų departamente arba jam pavaldžiose
+
+įstaigose dėl sveikatos būklės (kai yra atitinkama Medicinos centro išvada), o
+
+perkelti pareigūną į kitas pareigas, kurias jis pagal sveikatos būklę ir
+
+kvalifikaciją galėtų eiti, nėra galimybės;
+
+5) kai
+
+įsiteisėja teismo nuosprendis, kuriuo pareigūnas pripažįstamas kaltu dėl
+
+nusikalstamos veikos padarymo;
+
+6) kai išbandymo
+
+rezultatai įvertinami nepatenkinamai;
+
+7) kai
+
+atestacijos komisijos sprendimu pripažįstamas netinkamu eiti pareigūno pareigas
+
+Kalėjimų departamente arba jam pavaldžioje įstaigoje;
+
+8) kai pereina į
+
+renkamas pareigas arba pareigas, į kurias skiriama konkurso būdu;
+
+9) kai paaiškėjo
+
+šio statuto 11 straipsnio 1 dalyje nurodytų aplinkybių, dėl kurių asmuo į
+
+tarnybą Kalėjimų departamente arba jam pavaldžiose įstaigose negali būti
+
+priimtas ir kurios asmens priėmimo į tarnybą metu nebuvo žinomos;
+
+10) kai
+
+paaiškėjo, kad priimant į tarnybą buvo pateikti suklastoti dokumentai;
+
+11) kai
+
+paaiškėjo, kad priimant į tarnybą buvo nuslėpti ar pateikti neatitinkantys
+
+tikrovės duomenys, dėl kurių asmuo negalėjo būti priimtas į tarnybą;
+
+12) kai po
+
+atleidimo iš privalomosios pradinės karo tarnybos arba
+
+alternatyviosios krašto apsaugos tarnybos per ilgesnį negu 2 mėnesių terminą
+
+negrįžta į eitas pareigas;
+
+13) kai jam
+
+sukanka Valstybinių socialinio draudimo pensijų įstatymo nustatytas senatvės
+
+pensijos amžius;
+
+14) kai jam
+
+paskirta tarnybinė nuobauda – atleidimas iš tarnybos;
+
+15) jo paties
+
+prašymu dėl išėjimo į pensiją;
+
+16) kai jam
+
+sukanka 50 metų, jeigu jo tarnyba Kalėjimų departamente arba jam pavaldžioje
+
+įstaigoje nebuvo pratęsta šio statuto 32 straipsnio 1 dalyje nustatyta tvarka;
+
+17) kai baigėsi
+
+šio statuto 32 straipsnyje nurodyta tvarka nustatytas jo tarnybos pratęsimo
+
+terminas arba tarnybos laikas ir jo tarnyba Kalėjimų departamente arba jam
+
+pavaldžioje įstaigoje nebuvo pratęsta šio statuto 32 straipsnyje nustatyta
+
+tvarka;
+
+18) kai
+
+likviduojamas Kalėjimų departamentas arba jam pavaldi įstaiga;
+
+19) kai
+
+pasibaigė pakaitinio pareigūno paskyrimo į laikinai negalinčio eiti pareigų
+
+pareigūno pareigas laikas.
+
+3. Pareigūnų
+
+atleidimo iš tarnybos tvarką nustato teisingumo ministras.
+
+32
+
+straipsnis. Pareigūnų tarnybos pratęsimo tvarka
+
+1. Iki tol, kol
+
+pareigūnui sukaks šio statuto 31 straipsnio 2 dalies 16 punkte nustatytas
+
+amžius arba kol baigsis šioje dalyje nurodyta tvarka nustatytas jo tarnybos
+
+pratęsimo terminas, pareigūnas turi teisę ne vėliau kaip prieš 3 tris mėnesius
+
+pateikti šio statuto 12 straipsnio 4 arba 5 dalyje nurodytiems vadovams
+
+rašytinį prašymą dėl tarnybos pratęsimo. Šie vadovai gali įsakymais pareigūno
+
+tarnybą pratęsti kiekvieną kartą ne ilgiau kaip 3 metams, tačiau ne ilgiau,
+
+negu jam sukanka Valstybinių socialinio draudimo pensijų įstatymo nustatytas
+
+senatvės pensijos amžius.
+
+2. Jeigu į
+
+pareigūno pareigas skiriamas vyresnis kaip 50 metų asmuo, jo tarnybos laikas
+
+skiriant į pareigas nustatomas ne ilgesnis kaip 3 metai, tačiau šio pareigūno
+
+tarnybos laikas negali tęstis ilgiau, negu jam sukanka Valstybinių socialinio
+
+draudimo pensijų įstatymo nustatytas senatvės pensijos amžius. Iki tol,
+
+kol pareigūnui baigsis šioje dalyje nurodyta tvarka nustatytas tarnybos laikas
+
+arba kol baigsis šioje dalyje nurodyta tvarka nustatytas jo tarnybos pratęsimo
+
+terminas, tarnybos laikas gali būti pratęsiamas
+
+šio straipsnio 1 dalyje nustatyta tvarka.
+
+3. Šio
+
+straipsnio 1 ir 2 dalių nuostatos netaikomos pakaitiniams pareigūnams.
+
+33
+
+straipsnis. Atleidimas iš tarnybos pareigūno prašymu
+
+1. Pareigūnas,
+
+kuris nori nutraukti tarnybą šio statuto 31 straipsnio 2 dalies 1 arba 15
+
+punktuose nurodytais atleidimo iš tarnybos pagrindais, rašo prašymą vadovui,
+
+turinčiam įgaliojimus atleisti iš tarnybos to prašantį pareigūną.
+
+2. Pareigūno
+
+prašymas atleisti jį iš tarnybos turi būti patenkintas ne vėliau kaip per 14
+
+kalendorinių dienų nuo prašymo gavimo dienos.
+
+3. Pareigūnas,
+
+padavęs prašymą atleisti jį iš tarnybos, turi teisę atšaukti savo prašymą ir
+
+tęsti tarnybą, jeigu iki prašymo atšaukimo nepasirašytas įsakymas dėl jo
+
+atleidimo.
+
+34
+
+straipsnis. Reikalavimai atleidžiant pareigūną iš tarnybos atskirais atvejais
+
+1. Negalima
+
+atleisti pareigūno iš tarnybos jo laikinojo nedarbingumo laikotarpiu arba
+
+atostogų metu (išskyrus atleidimą pagal šio statuto 31 straipsnio 1 dalies 4
+
+punktą ir 2 dalies 1, 4 ir 15 punktus). Jeigu pareigūnas atleidžiamas iš
+
+tarnybos pažeidžiant šią nuostatą, jo atleidimo diena laikoma kita po atostogų
+
+ar kita po laikinojo nedarbingumo pasibaigimo tarnybos diena.
+
+2. Atleisti
+
+pareigūną iš tarnybos pagal šio statuto 31 straipsnio 1 dalies 3 ir 4 punktus
+
+ir 2 dalies 16, 17 ir 18 punktus galima tik įspėjus jį raštu ne vėliau kaip
+
+prieš 2 mėnesius iki atleidimo dienos. Pareigūnui, kuriam iki teisės gauti visą
+
+senatvės pensiją liko ne daugiau kaip 5 metai, nėščiai pareigūnei, pareigūnui,
+
+vienam auginančiam vaiką (vaikus) iki 14 metų, apie numatomą atleidimą iš
+
+tarnybos turi būti pranešta raštu ne vėliau kaip prieš 4 mėnesius iki atleidimo
+
+dienos. Įspėjimas netenka galios, jei pasibaigus įspėjimo terminui praeina
+
+daugiau kaip vienas mėnuo, neįskaitant pareigūno laikinojo nedarbingumo ir
+
+atostogų laiko. Jei pareigūnas atleidžiamas iš tarnybos nepasibaigus įspėjimo
+
+terminui, jo atleidimo data nukeliama iki to laiko, kada turėjo pasibaigti
+
+įspėjimo terminas.
+
+3. Atleisti
+
+pareigūną iš tarnybos pagal šio statuto 31 straipsnio 1 dalies 3 ir 7 punktus
+
+galima tik tuo atveju, jeigu nėra galimybės šio statuto 38 straipsnyje
+
+nustatyta tvarka perkelti pareigūną kitas pareigas.
+
+4. Pakaitinis
+
+pareigūnas negali būti atleistas iš tarnybos šio statuto 31 straipsnio 2 dalies
+
+16 punkte nurodytais pagrindais.
+
+5. Nėščia
+
+pareigūnė negali būti atleista iš tarnybos šio statuto 31 straipsnio 1 dalies
+
+3, 4 ir 7 punktuose ir 2 dalies 4, 6, 14, 16 ir 17 punktuose nurodytais
+
+pagrindais.
+
+6. Pareigūnas,
+
+kuris augina vaiką (vaikus) iki 3 metų, negali būti atleistas iš tarnybos šio
+
+statuto 31 straipsnio 1 dalies 3, 4 ir 7 punktuose ir 2 dalies 6, 7, 14, 16 ir
+
+17 punktuose nurodytais pagrindais.
+
+35
+
+straipsnis. Išeitinė išmoka
+
+Kai pareigūnas
+
+atleidžiamas iš tarnybos pagal šio statuto 31 straipsnio 1 dalies 3, 4, 7
+
+punktus ir 2 dalies 4 ir 18 punktus, atleidimo iš tarnybos dieną jam išmokama
+
+jo vidutinio darbo užmokesčio dydžio išeitinė išmoka, atsižvelgiant į
+
+nepertraukiamąjį to pareigūno tarnybos stažą Kalėjimų departamente (Pataisos
+
+reikalų departamente prie Vidaus reikalų ministerijos arba jam pavaldžioje
+
+įstaigoje ar valstybės įmonėje bei policijos komisariato pataisos darbų
+
+inspekcijoje) arba jam pavaldžioje įstaigoje ar valstybės įmonėje (į
+
+nepertraukiamąjį pareigūno tarnybos stažą Kalėjimų departamente (Pataisos
+
+reikalų departamente prie Vidaus reikalų ministerijos arba jam pavaldžioje
+
+įstaigoje ar valstybės įmonėje bei policijos komisariato pataisos darbų
+
+inspekcijoje) arba jam pavaldžioje įstaigoje ar valstybės įmonėje taip pat
+
+įskaitomas laikas, kurį pareigūnas šio statuto 34 straipsnio 3 dalyje ir 38
+
+straipsnyje nustatytais atvejais buvo perkeltas į kitas pareigas, ir laikas,
+
+kurį pareigūnas teisės aktų nustatyta tvarka buvo paskirtas į kitas pareigas
+
+konkurso (atrankos) tvarka (būdu):
+
+1) iki 5 metų –
+
+2 mėnesių vidutinio darbo užmokesčio dydžio;
+
+2) nuo 5 iki 10
+
+metų – 3 mėnesių vidutinio darbo užmokesčio dydžio;
+
+3) nuo 10 iki 20
+
+metų – 4 mėnesių vidutinio darbo užmokesčio dydžio;
+
+4) daugiau kaip
+
+20 metų – 6 mėnesių vidutinio darbo užmokesčio dydžio.
+
+36
+
+straipsnis. Atsiskaitymas su atleidžiamu iš tarnybos pareigūnu
+
+Su atleidžiamu
+
+iš tarnybos pareigūnu turi būti visiškai atsiskaityta jo atleidimo dieną.
 
 23 straipsnis. Šaunamųjų ginklų ir
 
@@ -3775,13 +4129,11 @@ PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Šio įstatymo 1
 
-ir 3 straipsniai įsigalioja 2010 m. sausio 1 d. ir galioja iki 2013
-
-m. gruodžio 31 d.
+ir 3 straipsniai įsigalioja 2010-01-01 ir galioja iki 2013-12-31.
 
 Šio įstatymo 2
 
-ir 4 straipsniai įsigalioja 2014 m. sausio 1 d.
+ir 4 straipsniai įsigalioja 2014-01-01.
 
 Įstatymo
 
@@ -3859,11 +4211,9 @@ gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotar
 
 pareigūnams mokamų išmokų įsigalioja 2011 m. liepos 1 d.
 
-Šio įstatymo nuostatos dėl laikinojo
+Šio įstatymo nuostatos dėl laikinojo nedarbingumo
 
-nedarbingumo laikotarpiu pareigūnams mokamų išmokų įsigalioja 2010 m. rugpjūčio
-
-1 d.
+laikotarpiu pareigūnams mokamų išmokų įsigalioja 2010 m. rugpjūčio 1 d.
 
 Šio įstatymo nuostatos taikomos po šio
 
@@ -3955,13 +4305,33 @@ KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUT
 
 1 d.
 
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XII-454,
+
+2013-07-02, Žin., 2013, Nr. 78-3933 (2013-07-20)
+
+TARNYBOS
+
+KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+
+28 STRAIPSNIO PAKEITIMO IR 29, 30 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
+
+ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2013-06-05)
+Aušrinė Trapinskienė (2013-07-22)
 
 ausrine.trapinskiene@lrs.lt
 
@@ -4421,9 +4791,9 @@ direktoriaus arba jam pavaldžios įstaigos direktoriaus (direktorių) įsakymu.
 
 2. Pareigūnas į
 
-aukštesnes pareigas gali būti perkeltas jo sutikimu ar prašymu ir kai yra
+aukštesnes pareigas gali būti perkeltas jo sutikimu ar prašymu ir kai yra atestacijos
 
-atestacijos komisijos rekomendacija.
+komisijos rekomendacija.
 
 3. Pareigūnas į
 
@@ -4457,9 +4827,9 @@ perkelti į lygiavertes pareigas;
 
 3) kai įstatymų
 
-nustatytais atvejais į tarnybą grįžta pirmiau dirbęs pareigūnas ir nėra
+nustatytais atvejais į tarnybą grįžta pirmiau dirbęs pareigūnas ir nėra galimybės
 
-galimybės perkelti į lygiavertes pareigas;
+perkelti į lygiavertes pareigas;
 
 4) pagal
 
@@ -4473,13 +4843,13 @@ nustatytus specialiuosius reikalavimus.
 
 6. Tarnybinio
 
-būtinumo atvejais pareigūnus laikinai perkelti iš vienų pareigų į kitas aukštesnes,
+būtinumo atvejais pareigūnus laikinai perkelti iš vienų pareigų į kitas
 
-lygiavertes ar žemesnes tos pačios grandies pareigūnų pareigas toje pačioje ar
+aukštesnes, lygiavertes ar žemesnes tos pačios grandies pareigūnų pareigas toje
 
-kitoje įstaigoje savo įsakymais gali teisingumo ministras ar Kalėjimų
+pačioje ar kitoje įstaigoje savo įsakymais gali teisingumo ministras ar
 
-departamento direktorius.
+Kalėjimų departamento direktorius.
 
 7. Tarnybinio
 
@@ -4543,11 +4913,11 @@ jo sutikimo laikinai eiti ir kitas jo kvalifikaciją atitinkančias pareigas toj
 
 pačioje įstaigoje.
 
-2. Pareigūnui, kuriam
+2. Pareigūnui,
 
-laikinai pavesta eiti ir kitas pareigas, mokama priemoka už įprastą darbo krūvį
+kuriam laikinai pavesta eiti ir kitas pareigas, mokama priemoka už įprastą
 
-viršijančią veiklą.
+darbo krūvį viršijančią veiklą.
 
 3. Pavedimas
 
@@ -4599,9 +4969,9 @@ darbo užmokestį sudaro pareiginė alga, priedai už tarnybos Lietuvos valstybe
 
 stažą, turimą rangą, kvalifikacinę kategoriją, apmokėjimas už darbą poilsio ir
 
-švenčių dienomis, nakties bei viršvalandinį darbą ir budėjimą, taip pat
+švenčių dienomis, nakties bei viršvalandinį darbą ir budėjimą, taip pat pareiginės
 
-pareiginės algos dydžio vienkartinis priedas ir priemokos.
+algos dydžio vienkartinis priedas ir priemokos.
 
 2. Kalėjimų
 
@@ -4639,9 +5009,9 @@ jaunesniojo pareigūno I rangą – 0,25 bazinio dydžio;
 
 pareigūno III rangą – 0,3 bazinio dydžio;
 
-5) už pataisos pareigūno
+5) už pataisos
 
-II rangą – 0,35 bazinio dydžio;
+pareigūno II rangą – 0,35 bazinio dydžio;
 
 6) už pataisos
 
@@ -4665,7 +5035,7 @@ vyriausiojo pareigūno rangą – 0,7 bazinio dydžio;
 
 11) už pataisos
 
-generalinio pareigūno rangą – 0,8 bazinio dydžio.“
+generalinio pareigūno rangą – 0,8 bazinio dydžio.
 
 3 dalies redakcija nuo 2014 m. sausio 1
 
@@ -4695,7 +5065,7 @@ pareigūno III rangą – 0,35 bazinio dydžio;
 
 5) už pataisos
 
-pareigūno II rangą – 0,4 bazinio dydžio;
+pareigūno II rangą – 0,4 bazinio dydio;
 
 6) už pataisos
 
@@ -4827,13 +5197,13 @@ straipsnis. Pareigūnų kvalifikacinės kategorijos ir jų suteikimo tvarka
 
 1. Pareigūnams,
 
-atsižvelgiant į jų tarnybinės veiklos rezultatus, dalykines savybes, profesinius
+atsižvelgiant į jų tarnybinės veiklos rezultatus, dalykines savybes,
 
-įgūdžius ir administracinius gebėjimus, gali būti suteiktos kvalifikacinės
+profesinius įgūdžius ir administracinius gebėjimus, gali būti suteiktos
 
-kategorijos. Kvalifikacinės kategorijos yra trys: aukščiausia yra 1
+kvalifikacinės kategorijos. Kvalifikacinės kategorijos yra trys: aukščiausia
 
-kvalifikacinė kategorija, žemiausia – 3 kvalifikacinė kategorija.
+yra 1 kvalifikacinė kategorija, žemiausia – 3 kvalifikacinė kategorija.
 
 2.
 
@@ -4905,9 +5275,9 @@ direktorių pavaduotojų ir administracijos padalinių vadovų tarnybinę veikl�
 
 kalendorinius metus vertina Kalėjimų departamento direktoriaus įsakymu sudaryta
 
-kvalifikacijos vertinimo komisija. Kitų Kalėjimų departamentui pavaldžių įstaigų
+kvalifikacijos vertinimo komisija. Kitų Kalėjimų departamentui pavaldžių
 
-pareigūnų tarnybinę veiklą per kalendorinius metus vertina šių įstaigų
+įstaigų pareigūnų tarnybinę veiklą per kalendorinius metus vertina šių įstaigų
 
 direktorių įsakymais sudarytos kvalifikacijos vertinimo komisijos. Jeigu
 
@@ -4947,13 +5317,13 @@ Kvalifikacijos vertinimo komisija pareigūno tarnybinę veiklą gali įvertinti
 
 labai gerai, gerai, patenkinamai arba nepatenkinamai.
 
-10. Kvalifikacijos
+10.
 
-vertinimo komisija, įvertinusi pareigūno tarnybinę veiklą labai gerai,
+Kvalifikacijos vertinimo komisija, įvertinusi pareigūno tarnybinę veiklą labai
 
-teisingumo ministrui, Kalėjimų departamento direktoriui ar jam pavaldžios
+gerai, teisingumo ministrui, Kalėjimų departamento direktoriui ar jam
 
-įstaigos direktoriui siūlo:
+pavaldžios įstaigos direktoriui siūlo:
 
 1) suteikti
 
@@ -5031,13 +5401,13 @@ pareigūnui turimą kvalifikacinę kategoriją ir skirti jam pareiginės algos
 
 dydžio vienkartinį priedą.
 
-15.
+15. Kvalifikacijos
 
-Kvalifikacijos vertinimo komisija nėščių ir krūtimi maitinančių pareigūnių ir
+vertinimo komisija nėščių ir krūtimi maitinančių pareigūnių ir pareigūnų,
 
-pareigūnų, išėjusių vaiko priežiūros atostogų, iki vaikui sueis 3 metai,
+išėjusių vaiko priežiūros atostogų, iki vaikui sueis 3 metai, tarnybinę veiklą
 
-tarnybinę veiklą vertina tik jų prašymu.
+vertina tik jų prašymu.
 
 16. Pareigūnai
 
@@ -5087,9 +5457,9 @@ tokia kasmetinių atostogų trukmė pareigūnams, atsižvelgiant į pareigūno
 
 tarnybos stažą:
 
-1) 30 kalendorinių
+1) 30
 
-dienų – ištarnavusiems iki 10 metų;
+kalendorinių dienų – ištarnavusiems iki 10 metų;
 
 2) 35
 
@@ -5113,17 +5483,19 @@ dienų atostogos.
 
 3. Pareigūnams
 
-kasmetinės atostogos suteikiamos už kalendorinius metus. Pirmaisiais kalendoriniais
+kasmetinės atostogos suteikiamos už kalendorinius metus. Pirmaisiais
 
-tarnybos metais atostogų trukmė apskaičiuojama proporcingai išdirbtam laikui.
+kalendoriniais tarnybos metais atostogų trukmė apskaičiuojama proporcingai
+
+išdirbtam laikui.
 
 4. Pareigūnams,
 
 dirbantiems laisvės atėmimo vietų gydymo įstaigose, kuriose laikomi asmenys,
 
-sergantys infekcinėmis ligomis, kasmetinių atostogų trukmė, nustatyta šio straipsnio
+sergantys infekcinėmis ligomis, kasmetinių atostogų trukmė, nustatyta šio
 
-1 dalyje, pailginama 10 kalendorinių dienų.
+straipsnio 1 dalyje, pailginama 10 kalendorinių dienų.
 
 5. Nemokamos
 
@@ -5187,9 +5559,9 @@ pareigūnas buvo nusiųstas dirbti į jas būdamas įtrauktas į Vidaus reikalų
 
 ministerijos, Krašto apsaugos ministerijos kadrų rezervą, Valstybės saugumo
 
-departamento pareigūnų (kadrų) rezervą, Specialiųjų tyrimų tarnybos pareigūnų (personalo)
+departamento pareigūnų (kadrų) rezervą, Specialiųjų tyrimų tarnybos pareigūnų
 
-rezervą;
+(personalo) rezervą;
 
 3) nuteisto
 
@@ -5217,9 +5589,9 @@ jam pavaldžiose įstaigose ir valstybės įmonėse) ir jam pavaldžiose
 
 vėliau tos pareigos priskirtos pareigūno pareigoms;
 
-6) darbo laiką, dirbtą
+6) darbo laiką,
 
-profesionaliosios priešgaisrinės apsaugos padalinio vadovu, gaisrininku,
+dirbtą profesionaliosios priešgaisrinės apsaugos padalinio vadovu, gaisrininku,
 
 gaisrininku vairuotoju Darbo sutarties įstatymo pagrindais, jeigu vėliau šis
 
@@ -5285,9 +5657,9 @@ stažą, numatytą Valstybės tarnybos įstatymo 42 straipsnyje, einant valstyb�
 
 tarnautojo pareigas.
 
-2. Tarnybos stažas,
+2. Tarnybos
 
-kai pareigūnas eina pareigas ne vienu metu, sudedamas.
+stažas, kai pareigūnas eina pareigas ne vienu metu, sudedamas.
 
 3. Atsižvelgiant
 
@@ -5395,19 +5767,17 @@ skirtumas.
 
 5. Pareigūno
 
-žūties arba sveikatos sutrikdymo atvejais, numatytais šio straipsnio 1 ir 3
+žūties arba sveikatos sutrikdymo atvejais, numatytais šio straipsnio 1 ir 3 dalyse,
 
-dalyse, kompensacijos dydis apskaičiuojamas pagal įvykio metu gautą jo darbo
-
-užmokestį.
+kompensacijos dydis apskaičiuojamas pagal įvykio metu gautą jo darbo užmokestį.
 
 6. Ar pareigūno
 
 žūtis arba sveikatos sutrikdymas susiję su tarnybinių pareigų ėjimu ar tarnyba
 
-Kalėjimų departamente arba jam pavaldžioje įstaigoje, nustatoma Kalėjimų
+Kalėjimų departamente arba jam pavaldžioje įstaigoje, nustatoma Kalėjimų departamento
 
-departamento direktoriaus nustatyta tvarka.
+direktoriaus nustatyta tvarka.
 
 7. Pareigūno
 
@@ -5495,15 +5865,15 @@ jis laikinai perkeltas eiti kitas pareigas.
 
 2. Pareigūnui,
 
-kurio materialinė būklė sunki dėl jo paties ligos, šeimos narių ligos ar mirties,
+kurio materialinė būklė sunki dėl jo paties ligos, šeimos narių ligos ar
 
-stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 MMA dydžio
+mirties, stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 MMA
 
-pašalpa. Pašalpą skiria įstaigos, kurioje pareigūnas tarnauja, direktorius iš
+dydžio pašalpa. Pašalpą skiria įstaigos, kurioje pareigūnas tarnauja,
 
-įstaigai skirtų lėšų. Įstaigos direktoriui pašalpa skiriama iš jo vadovaujamai
+direktorius iš įstaigai skirtų lėšų. Įstaigos direktoriui pašalpa skiriama iš
 
-įstaigai skirtų lėšų.
+jo vadovaujamai įstaigai skirtų lėšų.
 
 3. Pareigūnui,
 
@@ -5599,11 +5969,11 @@ norma. Už tai jiems papildomai mokama kaip už viršvalandinį darbą.
 
 2. Nustatytas
 
-funkcijas nepertraukiamai atliekantiems tam tikras pareigas einantiems pareigūnams,
+funkcijas nepertraukiamai atliekantiems tam tikras pareigas einantiems
 
-dirbantiems pamainomis, įvedus suminę darbo laiko apskaitą gali būti
+pareigūnams, dirbantiems pamainomis, įvedus suminę darbo laiko apskaitą gali
 
-nustatyta ne ilgesnė kaip 24 valandų pamainos trukmė, kuri viršija šio
+būti nustatyta ne ilgesnė kaip 24 valandų pamainos trukmė, kuri viršija šio
 
 straipsnio 1 dalyje nustatytą 40 valandų per savaitę (7 dienų laikotarpį) darbo
 
@@ -5623,13 +5993,13 @@ direktorius.
 
 Kalėjimų departamento direktoriaus arba jam pavaldžios įstaigos direktoriaus iš
 
-anksto patvirtintą grafiką pareigūnai privalo budėti Kalėjimų departamente ar jam
+anksto patvirtintą grafiką pareigūnai privalo budėti Kalėjimų departamente ar
 
-pavaldžioje įstaigoje arba iš anksto aptartoje vietoje pasibaigus darbo dienai
+jam pavaldžioje įstaigoje arba iš anksto aptartoje vietoje pasibaigus darbo
 
-(pamainai) arba poilsio ir švenčių dienomis, kad prireikus juos būtų galima
+dienai (pamainai) arba poilsio ir švenčių dienomis, kad prireikus juos būtų
 
-iškviesti neatidėliotiniems veiksmams atlikti. Direktorius gali pavesti
+galima iškviesti neatidėliotiniems veiksmams atlikti. Direktorius gali pavesti
 
 pareigūnui budėti Kalėjimų departamente ar jam pavaldžioje įstaigoje arba iš
 
@@ -5679,9 +6049,9 @@ departamento direktorius, o Kalėjimų departamentui pavaldžių įstaigų parei
 
 – šių įstaigų direktoriai.
 
-6. Kitus pareigūnų
+6. Kitus
 
-darbo ir poilsio laiko klausimus, kurių nereglamentuoja šis
+pareigūnų darbo ir poilsio laiko klausimus, kurių nereglamentuoja šis
 
 straipsnis, reglamentuoja Darbo kodeksas ir kiti teisės aktai.
 
@@ -5694,44 +6064,6 @@ Kitos pareigūnų socialinės garantijos
 taikomos Valstybinio socialinio draudimo įstatymo nustatytos socialinės
 
 garantijos.
-
-2. Laikinojo
-
-nedarbingumo (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo
-
-darbe (tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip
-
-pat dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
-
-ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos
-
-vykdymo), nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros
-
-atostogų laikotarpiais pareigūnams mokamas vidutinis jų darbo užmokestis arba
-
-jo dalis. Mokamo vidutinio darbo užmokesčio arba jo dalies dydis, maksimalus
-
-kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis
-
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo
-
-nuostatomis. Laikinojo nedarbingumo dėl nelaimingo atsitikimo darbe
-
-(tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat
-
-dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
-
-ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos vykdymo,
-
-atveju pareigūnams mokama 100 procentų jų vidutinio darbo užmokesčio, taikant
-
-maksimalaus ir minimalaus kompensuojamojo uždarbio dydžius vadovaujantis
-
-Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio
-
-draudimo įstatymo nuostatomis dėl ligos pašalpos skaičiavimo.
-
-Dalies redakcija nuo 2013-07-01:
 
 2. Laikinojo
 
