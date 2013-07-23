@@ -4,7 +4,7 @@ identifier: "TAR.746227138BCB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-01"
-last_updated: "2012-10-13"
+last_updated: "2013-07-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.746227138BCB"
 department: "Lietuvos Respublikos Seimas"
@@ -43,11 +43,11 @@ NUOSTATOS
 
 1. Šio įstatymo paskirtis – užtikrinti, kad
 
-būtų įgyvendintos Lietuvos Respublikos Konstitucijoje įtvirtintos moterų ir vyrų
+būtų įgyvendintos Lietuvos Respublikos Konstitucijoje įtvirtintos moterų ir
 
-lygios teisės, bei uždrausti bet kokią diskriminaciją dėl asmens lyties, ypač
+vyrų lygios teisės, bei uždrausti bet kokią diskriminaciją dėl asmens lyties,
 
-kai tai susiję su šeimine ar santuokine padėtimi.
+ypač kai tai susiję su šeimine ar santuokine padėtimi.
 
 2. Įstatymo nuostatos nėra taikomos
 
@@ -215,139 +215,9 @@ kurios padeda įgyvendinti moterų ir vyrų lygias galimybes;
 
 administracines ar viešąsias paslaugas nepažeisti moterų ir vyrų lygių teisių.
 
-Straipsnio pakeitimai:
+Straipsnio
 
-Nr. IX-956,
-
-2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
-
-Nr. X-1380,
-
-2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
-
-Nr. X-1631,
-
-2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
-
-Nr. XI-1926,
-
-2012-03-13, Žin., 2012, Nr. 36-1769 (2012-03-27)
-
-4
-
-straipsnis. Švietimo įstaigų, mokslo ir studijų institucijų pareiga įgyvendinti
-
-moterų ir vyrų lygias teises
-
-1. Švietimo ir mokslo įstaigos
-
-privalo užtikrinti moterims ir vyrams vienodas sąlygas:
-
-1) priimant į profesinio mokymo
-
-įstaigas, aukštąsias mokyklas, keliant kvalifikaciją, ugdant profesinius
-
-įgūdžius ir suteikiant praktinę darbo patirtį;
-
-2) skiriant stipendijas bei teikiant
-
-kreditus studijoms;
-
-3) parenkant mokymo programas;
-
-4) vertinant žinias.
-
-2. Švietimo ir mokslo įstaigos pagal
-
-kompetenciją privalo užtikrinti, kad mokymo programose ir vadovėliuose nebūtų
-
-moterų ir vyrų diskriminavimo propagavimo.
-
-Straipsnio pakeitimai:
-
-Nr. X-1380,
-
-2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
-
-5
-
-straipsnis. Darbdavio pareiga įgyvendinti lygias moterų ir vyrų teises darbe
-
-Įgyvendindamas lygias moterų ir vyrų
-
-teises, darbdavys privalo:
-
-1) priimdamas į darbą ar perkeldamas į
-
-aukštesnes pareigas, taikyti vienodus atrankos kriterijus ir sąlygas, išskyrus
-
-2 straipsnio 4 dalies 5 punkte numatytą atvejį;
-
-2) sudaryti vienodas darbo
-
-sąlygas, galimybes kelti kvalifikaciją, persikvalifikuoti, įgyti praktinę darbo
-
-patirtį, taip pat teikti vienodas lengvatas;
-
-3) už tokį pat ar vienodos vertės darbą
-
-mokėti vienodą darbo užmokestį, įskaitant visus papildomus uždarbius, bet kokiu
-
-būdu darbdavio išmokamus darbuotojui už jo atliktą darbą;
-
-4) imtis priemonių, kad darbuotojas
-
-nepatirtų seksualinio priekabiavimo ar priekabiavimo;
-
-5)
-
-imtis priemonių, kad darbuotojas, darbuotojo atstovas, darbuotojas, liudijantis
-
-ar teikiantis paaiškinimus, būtų apsaugotas nuo
-
-priešiško elgesio, neigiamų pasekmių ir kitokio persekiojimo, kai reaguojama į
-
-skundą arba į kitą teisinę procedūrą dėl diskriminacijos.
-
-Straipsnio pakeitimai:
-
-Nr. X-304, 2005-07-05,
-
-Žin., 2005, Nr. 88-3281 (2005-07-21)
-
-Nr. X-1380,
-
-2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
-
-5(1) straipsnis. Moterų ir vyrų lygių
-
-galimybių įgyvendinimas vartotojų teisių apsaugos srityje
-
-Prekių pardavėjas, gamintojas ar paslaugų teikėjas,
-
-įgyvendindamas moterų ir vyrų lygias teises, privalo:
-
-1) visiems vartotojams, nesvarbu, kokia
-
-jų lytis, taikyti vienodas apmokėjimo sąlygas ir garantijas už tokius pačius ir
-
-vienodos vertės gaminius, prekes ir paslaugas;
-
-2) suteikdamas vartotojams informaciją
-
-apie gaminius, prekes ir paslaugas arba jas reklamuodamas, užtikrinti, kad joje
-
-nebūtų išreiškiamas pažeminimas, paniekinimas arba teisių apribojimas ar
-
-privilegijų teikimas dėl asmens lyties bei formuojamos visuomenės nuostatos,
-
-kad viena lytis pranašesnė už kitą.
-
-Įstatymas papildytas straipsniu:
-
-Nr. IX-956,
-
-2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
+redakcija nuo 2014-10-01:
 
 5 straipsnis. Darbdavio pareiga
 
@@ -751,9 +621,7 @@ Skundų priėmimas
 
 1. Kiekvienas fizinis ir juridinis asmuo
 
-turi teisę pateikti lygių galimybių kontrolieriui skundą dėl lygių teisių
-
-pažeidimo.
+turi teisę pateikti lygių galimybių kontrolieriui skundą dėl lygių teisių pažeidimo.
 
 2. Skundai teikiami raštu. Skundų
 
@@ -787,9 +655,7 @@ Skundo reikalavimai
 
 1. Skunde turi būti:
 
-1) adresatas – lygių galimybių
-
-kontrolierius;
+1) adresatas – lygių galimybių kontrolierius;
 
 2) pareiškėjo vardas, pavardė ar
 
@@ -977,9 +843,9 @@ to paties asmens ar institucijos tos pačios veikos ar to paties teisės akto,
 
 gali sujungti skundų tyrimą į vieną.
 
-3. Jeigu lygių galimybių kontrolierius
+3. Jeigu lygių galimybių kontrolierius dėl
 
-dėl giminystės ryšių ar kitų svarbių priežasčių negali nešališkai nagrinėti
+giminystės ryšių ar kitų svarbių priežasčių negali nešališkai nagrinėti
 
 konkretaus skundo, jis paveda skundą tirti vienam iš savo tarnybos darbuotojų.
 
@@ -1119,15 +985,19 @@ straipsnis. Lygių galimybių kontrolieriaus reikalavimų privalomumas
 
 1. Valstybės ir savivaldybių
 
-institucijos ir įstaigos, įmonės, organizacijos, fiziniai asmenys lygių galimybių
+institucijos ir įstaigos, įmonės, organizacijos, fiziniai asmenys lygių
 
-kontrolieriaus reikalavimu privalo pateikti jam informaciją, dokumentus ir
+galimybių kontrolieriaus reikalavimu privalo pateikti jam informaciją,
 
-medžiagą, būtinus lygių galimybių kontrolieriaus funkcijoms atlikti, ne vėliau kaip
+dokumentus ir medžiagą, būtinus lygių galimybių kontrolieriaus funkcijoms
 
-per 10 darbo dienų nuo reikalavimo pateikti informaciją gavimo dienos, jeigu
+atlikti,
 
-reikalavime nenurodytas konkretus terminas.
+ne
+
+vėliau kaip per 10 darbo dienų nuo reikalavimo pateikti informaciją gavimo
+
+dienos, jeigu reikalavime nenurodytas konkretus terminas.
 
 2. Lygių galimybių kontrolierius,
 
@@ -1273,7 +1143,7 @@ Skelbiu šį Lietuvos Respublikos Seimo
 
 priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                         VALDAS
+RESPUBLIKOS PREZIDENTAS                                                     VALDAS
 
 ADAMKUS
 
@@ -1307,11 +1177,11 @@ dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose (OL 2004 m. speci
 
 3. 1998 m. liepos 13 d. Tarybos direktyva 98/52/EB,
 
-išplečianti Direktyvos 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl
+išplečianti Direktyvos 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties
 
-lyties bylose taikymą Jungtinei Didžiosios Britanijos ir Šiaurės Airijos
+bylose taikymą Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei
 
-Karalystei (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 307).
+(OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 307).
 
 4. 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos
 
@@ -1391,11 +1261,11 @@ Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 
 VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO, KONSTITUCINIO TEISMO
 
-ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO,
+ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO, PROKURATŪROS
 
-PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE STATUTO,
+ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ
 
-MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTATYMO
+LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTATYMO
 
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
@@ -1553,7 +1423,9 @@ STRAIPSNIAIS ĮSTATYMAS
 
 12.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+
+Įstatymas
 
 Nr. X-1779,
 
@@ -1599,9 +1471,25 @@ Nr. XI-2270,
 
 MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 11 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-472,
+
+2013-07-02, Žin., 2013, Nr. 79-3993 (2013-07-23)
+
+MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 3 STRAIPSNIO PAKEITIMO IR
+
+PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas
+
+įsigalioja 2014 m. spalio 1 d.
+
 *** Pabaiga ***
 
-Redagavo Aušrinė Trapinskienė (2012-10-15)
+Redagavo Aušrinė Trapinskienė (2013-07-30)
 
 ausrine.trapinskiene@lrs.lt
 
@@ -1611,17 +1499,17 @@ Lygių galimybių kontrolieriaus tarnybos ataskaita
 
 Lygių galimybių kontrolierius kasmet iki
 
-kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų Lygių
+kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų Lygių galimybių
 
-galimybių kontrolieriaus tarnybos ataskaitą, kuri nagrinėjama Seime. Ši
+kontrolieriaus tarnybos ataskaitą, kuri nagrinėjama Seime. Ši nepriklausoma
 
-nepriklausoma ataskaita apima Lygių galimybių kontrolieriaus veiklos ataskaitą,
+ataskaita apima Lygių galimybių kontrolieriaus veiklos ataskaitą, padėties
 
-padėties apžvalgą, išvadas ir rekomendacijas. Visa ataskaita turi būti
+apžvalgą, išvadas ir rekomendacijas. Visa ataskaita turi būti paskelbta Lygių
 
-paskelbta Lygių galimybių kontrolieriaus tarnybos interneto tinklalapyje, o
+galimybių kontrolieriaus tarnybos interneto tinklalapyje, o esant galimybei, –
 
-esant galimybei, – ir per kitas visuomenės informavimo priemones.
+ir per kitas visuomenės informavimo priemones.
 
 Straipsnio
 
@@ -1891,11 +1779,11 @@ materialines pašalpas.
 
 taikomas dirbantiems asmenims, įskaitant savarankiškai dirbančius asmenis,
 
-asmenims, kurie nutraukė darbą dėl ligos, motinystės, nelaimingo atsitikimo ar priverstinio
+asmenims, kurie nutraukė darbą dėl ligos, motinystės, nelaimingo atsitikimo ar
 
-nedarbo, taip pat darbo ieškantiems asmenims, pensininkams, neįgaliems
+priverstinio nedarbo, taip pat darbo ieškantiems asmenims, pensininkams,
 
-darbuotojams ir asmenims, turintiems teisę jų vardu reikalauti išmokų.
+neįgaliems darbuotojams ir asmenims, turintiems teisę jų vardu reikalauti išmokų.
 
 Įstatymas papildytas straipsniu:
 
@@ -1913,21 +1801,21 @@ IR VYRŲ LYGIŲ TEISIŲ PAŽEIDIMAS
 
 Diskriminavimas dėl lyties narystės ar dalyvavimo organizacijose pagrindu
 
-Bet kurie veiksmai, kliudantys dėl lyties
+Bet kurie veiksmai, kliudantys dėl
 
-tapti darbuotojų ir darbdavių organizacijų ar kitų organizacijų (asociacijų),
+lyties tapti darbuotojų ir darbdavių organizacijų ar kitų organizacijų
 
-kurių nariai turi tam tikrą profesiją, nariu ar dalyvauti šiose organizacijose
+(asociacijų), kurių nariai turi tam tikrą profesiją, nariu ar dalyvauti šiose
 
-(asociacijose), įskaitant tokių organizacijų (asociacijų) teikiamą naudą, yra
+organizacijose (asociacijose), įskaitant tokių organizacijų (asociacijų)
 
-pripažįstami pažeidžiantys moterų ir vyrų lygias teises.
+teikiamą naudą, yra pripažįstami pažeidžiantys moterų ir vyrų lygias teises.
 
 Įstatymas papildytas straipsniu:
 
-Nr. X-1380,
+Nr. X-1380, 2007-12-18,
 
-2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
+Žin., 2007, Nr. 140-5755 (2007-12-29)
 
 73 straipsnis. Diskriminavimas dėl lyties
 
@@ -1969,11 +1857,11 @@ jų gavimo apribojimo sąlygos;
 
 įgijimas) į dalyvių vardu sukauptą lėšų dalį už motinystės (tėvystės) atostogų
 
-arba kitų tikslinių atostogų, susijusių su šeiminėmis priežastimis, laikotarpius,
+arba kitų tikslinių atostogų, susijusių su šeiminėmis priežastimis,
 
-kai atostogos suteikiamos pagal įstatymus arba sutartį ir įmokas tuo
+laikotarpius, kai atostogos suteikiamos pagal įstatymus arba sutartį ir įmokas
 
-laikotarpiu moka darbdavys;
+tuo laikotarpiu moka darbdavys;
 
 8) nustatomi skirtingi išmokų dydžiai,
 
@@ -2021,15 +1909,13 @@ palankias įdarbinimo, perkėlimo į kitas pareigas arba apmokėjimo už tokį p
 
 vienodos vertės darbą sąlygas;
 
-2) organizuodamas darbą, sukuria darbuotojui
+2) organizuodamas darbą, sukuria
 
-blogesnes (geresnes) darbo sąlygas;
+darbuotojui blogesnes (geresnes) darbo sąlygas;
 
 3) skiria darbuotojui drausminę
 
-nuobaudą, keičia darbo sąlygas, perkelia į kitą darbą arba nutraukia darbo
-
-sutartį;
+nuobaudą, keičia darbo sąlygas, perkelia į kitą darbą arba nutraukia darbo sutartį;
 
 4) persekioja darbuotoją, darbuotojo
 
@@ -2114,4 +2000,184 @@ Nr. IX-956,
 Nr. X-304, 2005-07-05,
 
 Žin., 2005, Nr. 88-3281 (2005-07-21)
+
+3 straipsnis.
+
+Valstybės ir savivaldybių institucijų ir įstaigų pareiga įgyvendinti moterų ir
+
+vyrų lygias teises
+
+1.
+
+Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją privalo:
+
+1) užtikrinti, kad visuose jų rengiamuose ir priimamuose
+
+teisės aktuose būtų įtvirtintos lygios moterų ir vyrų teisės;
+
+2) rengti ir įgyvendinti priemones,
+
+skirtas moterų ir vyrų lygioms galimybėms užtikrinti;
+
+3)
+
+įstatymų nustatyta tvarka remti viešųjų įstaigų, asociacijų ir labdaros fondų
+
+programas, kurios padeda įgyvendinti moterų ir vyrų lygias galimybes;
+
+4)
+
+teikiant administracines ar viešąsias paslaugas nepažeisti moterų ir vyrų lygių
+
+teisių.
+
+2.
+
+Valstybės institucijos priemones, skirtas moterų ir vyrų lygioms galimybėms
+
+užtikrinti, numato strateginio planavimo dokumentuose. Savivaldybės
+
+institucijos priemones, skirtas moterų ir vyrų lygioms galimybėms užtikrinti, numato
+
+savivaldybės strateginiame plėtros ir (ar) savivaldybės
+
+strateginiame veiklos planuose.
+
+Straipsnio pakeitimai:
+
+Nr. IX-956,
+
+2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
+
+Nr. X-1380,
+
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
+
+Nr. X-1631,
+
+2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
+
+Nr. XI-1926,
+
+2012-03-13, Žin., 2012, Nr. 36-1769 (2012-03-27)
+
+Nr. XII-472,
+
+2013-07-02, Žin., 2013, Nr. 79-3993 (2013-07-23)
+
+4
+
+straipsnis. Švietimo įstaigų, mokslo ir studijų institucijų pareiga įgyvendinti
+
+moterų ir vyrų lygias teises
+
+1. Švietimo ir mokslo įstaigos
+
+privalo užtikrinti moterims ir vyrams vienodas sąlygas:
+
+1) priimant į profesinio mokymo
+
+įstaigas, aukštąsias mokyklas, keliant kvalifikaciją, ugdant profesinius
+
+įgūdžius ir suteikiant praktinę darbo patirtį;
+
+2) skiriant stipendijas bei teikiant
+
+kreditus studijoms;
+
+3) parenkant mokymo programas;
+
+4) vertinant žinias.
+
+2. Švietimo ir mokslo įstaigos pagal
+
+kompetenciją privalo užtikrinti, kad mokymo programose ir vadovėliuose nebūtų
+
+moterų ir vyrų diskriminavimo propagavimo.
+
+Straipsnio pakeitimai:
+
+Nr. X-1380,
+
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
+
+5
+
+straipsnis. Darbdavio pareiga įgyvendinti lygias moterų ir vyrų teises darbe
+
+Įgyvendindamas lygias moterų ir vyrų
+
+teises, darbdavys privalo:
+
+1) priimdamas į darbą ar perkeldamas į
+
+aukštesnes pareigas, taikyti vienodus atrankos kriterijus ir sąlygas, išskyrus
+
+2 straipsnio 4 dalies 5 punkte numatytą atvejį;
+
+2) sudaryti vienodas darbo
+
+sąlygas, galimybes kelti kvalifikaciją, persikvalifikuoti, įgyti praktinę darbo
+
+patirtį, taip pat teikti vienodas lengvatas;
+
+3) už tokį pat ar vienodos vertės darbą
+
+mokėti vienodą darbo užmokestį, įskaitant visus papildomus uždarbius, bet kokiu
+
+būdu darbdavio išmokamus darbuotojui už jo atliktą darbą;
+
+4) imtis priemonių, kad darbuotojas
+
+nepatirtų seksualinio priekabiavimo ar priekabiavimo;
+
+5)
+
+imtis priemonių, kad darbuotojas, darbuotojo atstovas, darbuotojas, liudijantis
+
+ar teikiantis paaiškinimus, būtų apsaugotas nuo
+
+priešiško elgesio, neigiamų pasekmių ir kitokio persekiojimo, kai reaguojama į
+
+skundą arba į kitą teisinę procedūrą dėl diskriminacijos.
+
+Straipsnio pakeitimai:
+
+Nr. X-304, 2005-07-05,
+
+Žin., 2005, Nr. 88-3281 (2005-07-21)
+
+Nr. X-1380,
+
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
+
+5(1) straipsnis. Moterų ir vyrų lygių galimybių
+
+įgyvendinimas vartotojų teisių apsaugos srityje
+
+Prekių pardavėjas, gamintojas ar paslaugų teikėjas,
+
+įgyvendindamas moterų ir vyrų lygias teises, privalo:
+
+1) visiems vartotojams, nesvarbu, kokia
+
+jų lytis, taikyti vienodas apmokėjimo sąlygas ir garantijas už tokius pačius ir
+
+vienodos vertės gaminius, prekes ir paslaugas;
+
+2) suteikdamas vartotojams informaciją
+
+apie gaminius, prekes ir paslaugas arba jas reklamuodamas, užtikrinti, kad joje
+
+nebūtų išreiškiamas pažeminimas, paniekinimas arba teisių apribojimas ar
+
+privilegijų teikimas dėl asmens lyties bei formuojamos visuomenės nuostatos,
+
+kad viena lytis pranašesnė už kitą.
+
+Įstatymas papildytas straipsniu:
+
+Nr. IX-956,
+
+2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
 
