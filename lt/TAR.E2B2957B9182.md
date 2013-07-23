@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2013-06-01"
+last_updated: "2013-07-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -7090,6 +7090,16 @@ pirminės sveikatos priežiūros plėtojimo programą, kitas savivaldybės
 
 kompleksines ir tikslines sveikatos programas ir kontroliuoja jų įgyvendinimą;
 
+Punkto
+
+redakcijas nuo 2014-10-01:
+
+1) nustato
+
+savivaldybės sveikatos priežiūros plėtojimą savivaldybės strateginiame plėtros
+
+ir (ar) savivaldybės strateginiame veiklos planuose;
+
 2) tvirtina
 
 savivaldybės biudžeto lėšas sveikatinimo veiklai ir jų panaudojimo apyskaitą;
@@ -7100,9 +7110,9 @@ savivaldybės valdybos (mero) sudarytas sveikatinimo veiklos sutartis;
 
 4) pagal
 
-kompetenciją tvirtina sanitarijos ir higienos taisykles, už kurių pažeidimus taikoma
+kompetenciją tvirtina sanitarijos ir higienos taisykles, už kurių pažeidimus
 
-administracinė atsakomybė;
+taikoma administracinė atsakomybė;
 
 5) tvirtina
 
@@ -7126,11 +7136,11 @@ reorganizuoja ar likviduoja pirminės sveikatos priežiūros įstaigas, farmacij
 
 pavaldumui priskirtas antrinio lygio sveikatos priežiūros įstaigas;
 
-9) nustato savivaldybės
+9) nustato
 
-reguliavimo sričiai priskirtų įstaigų įgaliojimus saugant ir stiprinant
+savivaldybės reguliavimo sričiai priskirtų įstaigų įgaliojimus saugant ir
 
-gyventojų sveikatą;
+stiprinant gyventojų sveikatą;
 
 10) atšaukia
 
@@ -7152,6 +7162,10 @@ Nr. IX-2555,
 
 2004-11-09, Žin., 2004, Nr. 171-6309 (2004-11-26)
 
+Nr. XII-462,
+
+2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
+
 64 straipsnis. Savivaldybės administracijos
 
 direktoriaus kompetencija sveikatinimo veiklos klausimais
@@ -7172,6 +7186,22 @@ patvirtintų programų, sveikatinimo veiklos įstatymų, kitų teisės aktų
 
 įgyvendinimą savivaldybės teritorijoje;
 
+Punkto
+
+redakcijas nuo 2014-10-01:
+
+1) organizuoja Lietuvos
+
+sveikatos programos, valstybinių sveikatos programų įgyvendinimą, savivaldybės
+
+sveikatos priežiūros plėtojimą, savivaldybės tarybos patvirtintų savivaldybės
+
+strateginio plėtros ir (ar) savivaldybės strateginio veiklos planų,
+
+sveikatinimo veiklos įstatymų, kitų teisės aktų įgyvendinimą savivaldybės
+
+teritorijoje;
+
 2) pagal kompetenciją
 
 užtikrina valstybės laiduojamą ir savivaldybės remiamą sveikatos priežiūrą
@@ -7190,11 +7220,11 @@ straipsnio 5 dalies reikalavimus;
 
 sanitarijos ir higienos taisyklių laikymosi kontrolę savivaldybės teritorijoje;
 
-5) šio įstatymo ir kitų teisės aktų nustatyta
+5) šio įstatymo ir kitų teisės aktų nustatyta tvarka
 
-tvarka sudaro sveikatinimo veiklos sutartis, teikia jas tvirtinti savivaldybės
+sudaro sveikatinimo veiklos sutartis, teikia jas tvirtinti savivaldybės tarybai
 
-tarybai ir kontroliuoja, kaip jų laikomasi;
+ir kontroliuoja, kaip jų laikomasi;
 
 6) vykdo
 
@@ -7239,6 +7269,10 @@ Nr. X-1151,
 Nr. XI-766,
 
 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
+
+Nr. XII-462,
+
+2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
 
 65 straipsnis. Savivaldybės gydytojas ir jo
 
@@ -7346,15 +7380,15 @@ sveikatos taryba teikia išvadas dėl valstybės siekiamo sveikatos lygio
 
 rodiklių, sveikatinimo veiklos tikslų, Lietuvos sveikatos programos bei kitų
 
-valstybinių sveikatos programų, pagal kompetenciją analizuoja ir vertina Lietuvos
+valstybinių sveikatos programų, pagal kompetenciją analizuoja ir vertina
 
-sveikatos programos įgyvendinimą, rengia ir kasmet teikia Seimui pranešimą apie
+Lietuvos sveikatos programos įgyvendinimą, rengia ir kasmet teikia Seimui
 
-gyventojų sveikatos ir sveikatos politikos formavimo ir įgyvendinimo būklę,
+pranešimą apie gyventojų sveikatos ir sveikatos politikos formavimo ir
 
-atlieka šio ir kitų įstatymų bei Tarybos nuostatų jai priskirtas kitas
+įgyvendinimo būklę, atlieka šio ir kitų įstatymų bei Tarybos nuostatų jai priskirtas
 
-funkcijas.
+kitas funkcijas.
 
 4. Nacionalinė
 
@@ -7367,6 +7401,22 @@ Vyriausybės, ministerijų, kitų Vyriausybės įstaigų, savivaldybių valdymo
 organų, įmonių, įstaigų, organizacijų teisės aktų, programų projektus, kitą
 
 informaciją, reikalingą šiame įstatyme ir Tarybos nuostatuose numatytoms
+
+funkcijoms įgyvendinti;
+
+Punkto
+
+redakcijas nuo 2014-10-01:
+
+1) gauti iš
+
+Vyriausybės, ministerijų, kitų Vyriausybės įstaigų, savivaldybių valdymo
+
+organų, įmonių, įstaigų, organizacijų teisės aktų, savivaldybės strateginio
+
+plėtros ir (ar) savivaldybės strateginio veiklos planų, programų projektus,
+
+kitą informaciją, reikalingą šiame įstatyme ir Tarybos nuostatuose nustatytoms
 
 funkcijoms įgyvendinti;
 
@@ -7397,6 +7447,10 @@ Nr.
 X-1269,
 
 2007-07-04, Žin., 2007, Nr. 81-3327 (2007-07-21)
+
+Nr. XII-462,
+
+2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
 
 67(1)
 
@@ -7936,6 +7990,22 @@ projektus bei kitą informaciją, reikalingą šiame įstatyme ir komisijos
 
 nuostatuose numatytoms funkcijoms vykdyti;
 
+Punkto
+
+redakcijas nuo 2014-10-01:
+
+1) gauti iš
+
+Vyriausybės, ministerijų, kitų Vyriausybės įstaigų, savivaldybių valdymo
+
+organų, įmonių, įstaigų, organizacijų įstatymų, kitų teisės aktų, savivaldybės
+
+strateginio plėtros ir (ar) savivaldybės strateginio veiklos planų, programų
+
+projektus bei kitą informaciją, reikalingą šiame įstatyme ir komisijos
+
+nuostatuose nustatytoms funkcijoms vykdyti;
+
 2) pagal
 
 kompetenciją atlikti įstatymų, kitų teisės aktų, socialinio ir ekonominio
@@ -7967,6 +8037,10 @@ Straipsnio pakeitimai:
 Nr. XI-766,
 
 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
+
+Nr. XII-462, 2013-07-02,
+
+Žin., 2013, Nr. 79-3983 (2013-07-23)
 
 69
 
@@ -8024,9 +8098,9 @@ institucijoms.
 
 Straipsnio pakeitimai:
 
-Nr. IX-2555, 2004-11-09,
+Nr. IX-2555,
 
-Žin., 2004, Nr. 171-6309 (2004-11-26)
+2004-11-09, Žin., 2004, Nr. 171-6309 (2004-11-26)
 
 III SKYRIUS
 
@@ -8452,19 +8526,17 @@ Nr. XI-1129,
 
 centrai apskrityse
 
-1. Valstybės
+1. Valstybės politiką
 
-politiką visuomenės sveikatos priežiūros srityje įgyvendina visuomenės
+visuomenės sveikatos priežiūros srityje įgyvendina visuomenės sveikatos centrai
 
-sveikatos centrai apskrityse (toliau – centrai). Centrai yra viešieji
+apskrityse (toliau – centrai). Centrai yra viešieji juridiniai asmenys,
 
-juridiniai asmenys, išlaikomi iš valstybės biudžeto asignavimų ir kitų
+išlaikomi iš valstybės biudžeto asignavimų ir kitų valstybės pinigų fondų lėšų.
 
-valstybės pinigų fondų lėšų. Centrai veikia pagal Vyriausybės patvirtintus
+Centrai veikia pagal Vyriausybės patvirtintus nuostatus. Vyriausybė centrų
 
-nuostatus. Vyriausybė centrų nuostatus gali pavesti tvirtinti sveikatos
-
-apsaugos ministrui.
+nuostatus gali pavesti tvirtinti sveikatos apsaugos ministrui.
 
 2. Centrų
 
@@ -8492,13 +8564,13 @@ XI-1759,
 
 prie Lietuvos Respublikos sveikatos apsaugos ministerijos
 
-1. Valstybinė
+1. Valstybinė vaistų
 
-vaistų kontrolės tarnyba prie Lietuvos Respublikos sveikatos apsaugos
+kontrolės tarnyba prie Lietuvos Respublikos sveikatos apsaugos ministerijos
 
-ministerijos steigiama Lietuvos Respublikos teisės aktų nustatyta tvarka. Ši
+steigiama Lietuvos Respublikos teisės aktų nustatyta tvarka. Ši tarnyba yra
 
-tarnyba yra juridinis asmuo. Jos veikla finansuojama iš valstybės biudžeto.
+juridinis asmuo. Jos veikla finansuojama iš valstybės biudžeto.
 
 2. Valstybinė
 
@@ -8800,7 +8872,9 @@ veiklai, sveikatos priežiūros technologijų atitikties teisės aktų reikalavi
 
 vertinimo, medicinos prietaisų atitikties būtiniesiems reikalavimams vertinimo,
 
-sveikatos priežiūros paslaugų kokybės, pacientų saugos srityse ir ją įgyvendina;
+sveikatos priežiūros paslaugų kokybės, pacientų saugos srityse ir ją
+
+įgyvendina;
 
 2) akredituoja
 
@@ -9304,19 +9378,19 @@ straipsnis. Savivaldybių sanitarijos inspekcija
 
 1. Savivaldybių
 
-sanitarijos inspekcija yra specializuotas savivaldybės administracijos padalinys,
+sanitarijos inspekcija yra specializuotas savivaldybės administracijos
 
-kontroliuojantis, kaip laikomasi sanitarijos reikalavimų savivaldybės
+padalinys, kontroliuojantis, kaip laikomasi sanitarijos reikalavimų
 
-teritorijoje.
+savivaldybės teritorijoje.
 
 2. Savivaldybių
 
 sanitarijos inspekcijos uždavinius, kompetenciją, struktūrą, jos pareigūnų
 
-teises ir pareigas, sanitarinės kontrolės turinį ir tvarką reglamentuoja nuostatai,
+teises ir pareigas, sanitarinės kontrolės turinį ir tvarką reglamentuoja
 
-kuriuos tvirtina Vyriausybė Sveikatos apsaugos ministerijos teikimu.
+nuostatai, kuriuos tvirtina Vyriausybė Sveikatos apsaugos ministerijos teikimu.
 
 80 straipsnis.
 
@@ -9444,9 +9518,9 @@ sveiką, saugią fizinę ir socialinę aplinką bei gauti informaciją apie pavo
 
 sveikatai šioje aplinkoje;
 
-2) gauti sveikatai
+2) gauti
 
-saugias vartojimui skirtas žaliavas, gaminius, prekes ir paslaugas;
+sveikatai saugias vartojimui skirtas žaliavas, gaminius, prekes ir paslaugas;
 
 3) gauti
 
@@ -10140,7 +10214,9 @@ VIII-280,
 
 LIETUVOS
 
-RESPUBLIKOS SVEIKATOS SISTEMOS ĮSTATYMO 90, 113 IR 119 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+RESPUBLIKOS SVEIKATOS SISTEMOS ĮSTATYMO 90, 113 IR 119 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
 
 3.
 
@@ -10436,9 +10512,9 @@ MEDICINOS
 
 PRAKTIKOS ĮSTATYMO, ODONTOLOGIJOS PRAKTIKOS ĮSTATYMO, SVEIKATOS SISTEMOS
 
-ĮSTATYMO, PSICHIKOS SVEIKATOS PRIEŽIŪROS ĮSTATYMO, NARKOLOGINĖS PRIEŽIŪROS
+ĮSTATYMO, PSICHIKOS SVEIKATOS PRIEŽIŪROS ĮSTATYMO, NARKOLOGINĖS PRIEŽIŪROS ĮSTATYMO
 
-ĮSTATYMO PAKEITIMO ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 23.
 
@@ -10600,9 +10676,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. XI-1759,
+Nr. XI-1759, 2011-12-01,
 
-2011-12-01, Žin., 2011, Nr. 153-7196 (2011-12-15)
+Žin., 2011, Nr. 153-7196 (2011-12-15)
 
 SVEIKATOS
 
@@ -10662,9 +10738,9 @@ XI-2369,
 
 SVEIKATOS
 
-SISTEMOS ĮSTATYMO 75 STRAIPSNIO PAKEITIMO IR 79 STRAIPSNIO PRIPAŽINIMO
+SISTEMOS ĮSTATYMO 75 STRAIPSNIO PAKEITIMO IR 79 STRAIPSNIO PRIPAŽINIMO NETEKUSIU
 
-NETEKUSIU GALIOS ĮSTATYMAS
+GALIOS ĮSTATYMAS
 
 35.
 
@@ -10720,6 +10796,26 @@ SISTEMOS ĮSTATYMO 87 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja 2014 m. sausio 1 d.
 
+38.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XII-462,
+
+2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
+
+SVEIKATOS
+
+SISTEMOS ĮSTATYMO 63, 64, 67 IR 68 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2014 m. spalio 1 d.
+
 ***
 
 Pabaiga ***
@@ -10754,7 +10850,7 @@ Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2013-06-06)
+Aušrinė Trapinskienė (2013-07-29)
 
 ausrine.trapinskiene@lrs.lt
 
