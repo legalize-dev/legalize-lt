@@ -4,7 +4,7 @@ identifier: "TAR.585F264186E1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-23"
-last_updated: "2012-12-31"
+last_updated: "2013-07-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.585F264186E1"
 department: "Lietuvos Respublikos Seimas"
@@ -516,7 +516,9 @@ Vaiko teisių apsaugos kontrolierius
 
 6.
 
-Žurnalistų etikos inspektorius
+Žurnalistų
+
+etikos inspektorius, akademinės etikos ir procedūrų kontrolierius
 
 12
 
@@ -526,9 +528,11 @@ Seimo, Seimo Pirmininko, Respublikos
 
 Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
 
-tarybos, Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės
+tarybos, Lietuvos radijo ir televizijos komisijos, Lietuvos kultūros tarybos,
 
-kainų ir energetikos kontrolės komisijos, Vyriausiosios rinkimų komisijos ir
+Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės kainų ir
+
+energetikos kontrolės komisijos, Vyriausiosios rinkimų komisijos ir
 
 Vyriausiosios tarnybinės etikos komisijos:
 
@@ -665,6 +669,10 @@ Nr.
 XI-2181,
 
 2012-06-29, Žin., 2012, Nr. 82-4267 (2012-07-13)
+
+Nr. XII-444, 2013-07-02, Žin., 2013, Nr.
+
+79-3979 (2013-07-23)
 
 3 straipsnis. Įstatymo galiojimas
 
