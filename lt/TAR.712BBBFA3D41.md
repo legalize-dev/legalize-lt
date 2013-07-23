@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2013-01-30"
+last_updated: "2013-07-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -666,16 +666,6 @@ jų įgalioti asmenys).
 
 kurios vadovas yra valstybės biudžeto asignavimų valdytojas, yra:
 
-1)
-
-Lietuvos Respublikos Prezidento kanceliarija, Seimo kanceliarija, Lietuvos
-
-Respublikos Ministro Pirmininko tarnyba, ministerija, Vyriausybės įstaiga;
-
-1 punkto redakcija nuo
-
-2013-05-01:
-
 1) Lietuvos
 
 Respublikos Prezidento kanceliarija, Seimo kanceliarija, Vyriausybės
@@ -810,9 +800,9 @@ pagal Viešojo sektoriaus atskaitomybės įstatymą teikiamų ataskaitų rinkini
 
 statistinių ataskaitų teisingumą ir pateikimą laiku;
 
-7) užtikrinti programų
+7) užtikrinti programų vykdymo
 
-vykdymo ir paskirtų asignavimų naudojimo teisėtumą, ekonomiškumą, efektyvumą ir
+ir paskirtų asignavimų naudojimo teisėtumą, ekonomiškumą, efektyvumą ir
 
 rezultatyvumą.
 
@@ -836,9 +826,9 @@ pavaldžioms biudžetinėms
 
 pagal ekonominės klasifikacijos straipsnius, neviršydami šioms programoms
 
-asignavimų valdytojo skirtų bendrųjų asignavimų, tarp jų – išlaidoms, iš jų – darbo užmokesčiui, ir turtui
+asignavimų valdytojo skirtų bendrųjų asignavimų, tarp jų – išlaidoms, iš jų – darbo užmokesčiui, ir turtui įsigyti,
 
-įsigyti, sumų;
+sumų;
 
 4) Viešojo
 
@@ -978,29 +968,29 @@ Biudžeto asignavimų valdytojas turi teisę:
 
 1) biudžetiniais metais, ne
 
-vėliau kaip likus 10 dienų iki atitinkamo ketvirčio pabaigos, keisti patvirtintų
+vėliau kaip likus 10 dienų iki atitinkamo ketvirčio pabaigos, keisti
 
-jo vadovaujamos įstaigos, jam pavaldžių biudžetinių įstaigų ir kitų subjektų
+patvirtintų jo vadovaujamos įstaigos, jam pavaldžių biudžetinių įstaigų ir kitų
 
-vykdomoms programoms patvirtintų biudžetų lėšų pagal ekonominę klasifikaciją
+subjektų vykdomoms programoms patvirtintų biudžetų lėšų pagal ekonominę
 
-paskirtį (valstybės biudžeto asignavimų valdytojas Vyriausybės nustatyta tvarka
+klasifikaciją paskirtį (valstybės biudžeto asignavimų valdytojas Vyriausybės
 
-praneša apie tai Finansų ministerijai, o savivaldybės biudžeto asignavimų
+nustatyta tvarka praneša apie tai Finansų ministerijai, o savivaldybės biudžeto
 
-valdytojas – savivaldybės administracijai jos nustatyta tvarka), neviršydamas
+asignavimų valdytojas – savivaldybės administracijai jos nustatyta tvarka),
 
-patvirtintų tam tikrai programai bendrųjų asignavimų išlaidoms, iš jų – darbo
+neviršydamas patvirtintų tam tikrai programai bendrųjų asignavimų išlaidoms, iš
 
-užmokesčiui, sumų. Asignavimų sumos išlaidoms, iš jų – darbo užmokesčiui, yra
+jų – darbo užmokesčiui, sumų. Asignavimų sumos išlaidoms, iš jų – darbo
 
-maksimalios ir jų ekonomija, jeigu nėra įsiskolinimų, gali būti naudojama
+užmokesčiui, yra maksimalios ir jų ekonomija, jeigu nėra įsiskolinimų, gali
 
-turtui įsigyti ir investicijų projektams, kuriems numatyta skirti lėšų
+būti naudojama turtui įsigyti ir investicijų projektams, kuriems numatyta
 
-atitinkamų metų valstybės investicijų programoje arba savivaldybių biudžetuose,
+skirti lėšų atitinkamų metų valstybės investicijų programoje arba savivaldybių
 
-papildomai finansuoti;
+biudžetuose, papildomai finansuoti;
 
 2) biudžetiniais metais vieną
 
@@ -1040,9 +1030,9 @@ programas ir turinčių pavaldžių biudžetinių įstaigų, vadovams šio strai
 
 Straipsnio pakeitimai:
 
-Nr. XI-1209,
+Nr. XI-1209, 2010-12-09,
 
-2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
+Žin., 2010, Nr. 153-7781 (2010-12-28)
 
 7 straipsnis. Asignavimų valdytojų atsakomybė
 
@@ -1254,9 +1244,9 @@ Pastaba.
 
 Šis straipsnis taikomas
 
-rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
+rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir vėlesnių
 
-vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
+metų valstybės biudžetą ir savivaldybių biudžetus.
 
 2012 metų valstybės biudžeto ir
 
@@ -1280,9 +1270,9 @@ Nr. XI-1209,
 
 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 
-Nr. XI-1825, 2011-12-20,
+Nr. XI-1825,
 
-Žin., 2011, Nr. 161-7619 (2011-12-29)
+2011-12-20, Žin., 2011, Nr. 161-7619 (2011-12-29)
 
 Nr. XI-2274,
 
@@ -1446,9 +1436,9 @@ turto privatizavimo įstatymą ir Valstybės ir savivaldybių turto valdymo,
 
 naudojimo ir disponavimo juo įstatymo 16(1) straipsnyje nustatytą
 
-valstybės nekilnojamojo turto atnaujinimo organizatoriaus parduotą
+valstybės nekilnojamojo turto atnaujinimo organizatoriaus parduotą nekilnojamąjį
 
-nekilnojamąjį turtą, įskaitant žemę);
+turtą, įskaitant žemę);
 
 3) valstybės biudžetinių įstaigų pajamos;
 
@@ -1696,9 +1686,9 @@ Vyriausybė.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1209,
+Nr. XI-1209, 2010-12-09,
 
-2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
+Žin., 2010, Nr. 153-7781 (2010-12-28)
 
 16 straipsnis. Neteko
 
@@ -1792,23 +1782,21 @@ laikotarpio valdžios sektoriaus balanso rodikliai teikiami Seimui Vyriausybės
 
 nutarimu dėl išvadų dėl valstybės biudžeto ir savivaldybių biudžetų finansinių
 
-rodiklių atitikties naujausioms galiojančioms Europos Sąjungos Tarybos rekomendacijoms
+rodiklių atitikties naujausioms galiojančioms Europos Sąjungos Tarybos
 
-ir nuomonei dėl Lietuvos konvergencijos programos ir galimų papildomų priemonių
+rekomendacijoms ir nuomonei dėl Lietuvos konvergencijos programos ir galimų
 
-(toliau – Išvados). Išvadose turi būti nurodytos pagrindinės ekonominės raidos
+papildomų priemonių (toliau – Išvados). Išvadose turi būti nurodytos
 
-scenarijaus prielaidos ir siektinas vidutinio laikotarpio poveikis kainų
+pagrindinės ekonominės raidos scenarijaus prielaidos ir siektinas vidutinio
 
-stabilumui, Lietuvos mokėjimų balanso einamosios sąskaitos tvarumui, palūkanų
+laikotarpio poveikis kainų stabilumui, Lietuvos mokėjimų balanso einamosios
 
-priedams už riziką, užimtumui,
+sąskaitos tvarumui, palūkanų priedams už riziką, užimtumui, ateities mokesčių didinimo rizikai ir perspektyvai vidutiniu
 
-ateities mokesčių didinimo rizikai ir perspektyvai vidutiniu laikotarpiu
+laikotarpiu siekti perteklinio
 
-siekti perteklinio valdžios
-
-sektoriaus.
+valdžios sektoriaus.
 
 Pastaba.
 
@@ -1840,25 +1828,25 @@ pakeitimai:
 
 Nr.
 
-X-1317, 2007-11-08,
+X-1317,
 
-Žin., 2007, Nr. 120-4882 (2007-11-22)
+2007-11-08, Žin., 2007, Nr. 120-4882 (2007-11-22)
 
 Nr. XI-1209,
 
 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 
-Nr. XI-2274, 2012-10-16,
+Nr. XI-2274,
 
-Žin., 2012, Nr. 126-6323 (2012-10-31)
+2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 18
 
 straipsnis. Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir
 
-savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto pateikimas
 
-pateikimas Seimui
+Seimui
 
 1. Vyriausybė
 
@@ -1916,13 +1904,13 @@ kompensacijų sumos;
 
 7) savivaldybių skolinimosi limitai;
 
-8) gyventojų pajamų mokesčio dalis (procentais), tenkanti visų savivaldybių
+8) gyventojų pajamų mokesčio dalis (procentais), tenkanti visų
 
-biudžetams nuo įplaukų į konsoliduotus valstybės biudžetą ir savivaldybių
+savivaldybių biudžetams nuo įplaukų į konsoliduotus valstybės biudžetą ir
 
-biudžetus, išskyrus fiksuoto dydžio gyventojų pajamų mokestį, mokamą už
+savivaldybių biudžetus, išskyrus fiksuoto dydžio gyventojų pajamų mokestį,
 
-pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą;
+mokamą už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą;
 
 9) valdžios sektoriaus balanso rodiklio kasmetinio pagerėjimo vidutinio
 
@@ -2114,11 +2102,11 @@ apie asignavimų valdytojų strateginiuose veiklos planuose pateiktus vertinimo 
 
 5) išaiškinimą,
 
-kaip nauji ekonomikos politikos prioritetai atsispindi pokyčiuose, kai nukrypstama nuo Seimo patvirtintų
+kaip nauji ekonomikos politikos prioritetai atsispindi pokyčiuose, kai nukrypstama nuo Seimo patvirtintų pagrindinių
 
-pagrindinių trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų
+trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų finansinių
 
-finansinių rodiklių;
+rodiklių;
 
 6)
 
@@ -2126,21 +2114,21 @@ kituose įstatymuose ir kituose teisės aktuose nustatytus dokumentus.
 
 2. Vyriausybė,
 
-pateikusi Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir
+pateikusi Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių
 
-savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą, ne
+biudžetų finansinių rodiklių patvirtinimo įstatymo projektą, ne vėliau kaip per
 
-vėliau kaip per 10 darbo dienų Seimui teikia:
+10 darbo dienų Seimui teikia:
 
 1) Europos
 
 Sąjungos Tarybos naujausią paskelbtą nuomonę apie tam tikrų metų Lietuvos konvergencijos arba Stabilumo programą
 
-ir, jeigu taikoma perviršinio deficito procedūra, – aktualias Europos Sąjungos Tarybos
+ir, jeigu taikoma perviršinio deficito procedūra, – aktualias Europos Sąjungos
 
-rekomendacijas, skirtas Lietuvos Respublikai, siekiant ištaisyti perviršinio
+Tarybos rekomendacijas, skirtas Lietuvos Respublikai, siekiant ištaisyti
 
-valdžios sektoriaus deficito padėtį;
+perviršinio valdžios sektoriaus deficito padėtį;
 
 2)
 
@@ -2158,35 +2146,35 @@ Tarybos rekomendacijoms ir (arba) kvietimams, sąrašą;
 
 4) Lietuvos
 
-Respublikos tam tikrų metų valstybės biudžeto
+Respublikos tam tikrų metų valstybės
 
-ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektu
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
 
-formuojamus vidutinio laikotarpio valdžios sektoriaus balanso rodiklius,
+projektu formuojamus vidutinio laikotarpio valdžios sektoriaus balanso
 
-kuriais remiantis įvykdomi Lietuvos Respublikos įsipareigojimai Europos
+rodiklius, kuriais remiantis įvykdomi Lietuvos Respublikos įsipareigojimai
 
-Sąjungai arba siekiama perteklinio valdžios sektoriaus. Kiekvienų metų valdžios
+Europos Sąjungai arba siekiama perteklinio valdžios sektoriaus. Kiekvienų metų
 
-sektoriaus balanso rodiklis išreiškiamas kaip BVP to meto kainomis procentinė
+valdžios sektoriaus balanso rodiklis išreiškiamas kaip BVP to meto kainomis
 
-dalis;
+procentinė dalis;
 
 5) valstybės biudžeto projekte ir savivaldybių biudžetų finansinių
 
 rodiklių projekte
 
-formuojamus vidutinio laikotarpio struktūrinius
+formuojamus vidutinio laikotarpio
 
-valdžios sektoriaus balanso rodiklius, apskaičiuojamus pagal teikiamą Lietuvos
+struktūrinius valdžios sektoriaus balanso rodiklius, apskaičiuojamus pagal
 
-Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų
+teikiamą Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir
 
-finansinių rodiklių patvirtinimo įstatymo projektą ir remiantis projekto rengimo metu Europos Komisijos paskelbtais
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą ir remiantis projekto rengimo metu Europos Komisijos
 
-naujausiais duomenimis apie Lietuvos Respublikos produkcijos atotrūkį nuo
+paskelbtais naujausiais duomenimis apie Lietuvos Respublikos produkcijos
 
-potencialo ir biudžeto balanso cikliškumo dedamąją (komponentę);
+atotrūkį nuo potencialo ir biudžeto balanso cikliškumo dedamąją (komponentę);
 
 6) galimų nuokrypių,
 
@@ -2266,9 +2254,9 @@ X-406,
 
 2005-11-17, Žin., 2005, Nr. 144-5237 (2005-12-10)
 
-Nr. XI-2274, 2012-10-16,
+Nr. XI-2274,
 
-Žin., 2012, Nr. 126-6323 (2012-10-31)
+2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 20 straipsnis. Valstybės biudžeto ir
 
@@ -2552,6 +2540,24 @@ socialinėmis ir ekonominėmis programomis, taip pat savivaldybių biudžetų
 
 asignavimų valdytojų programomis ir jų sąmatų projektais.
 
+Dalies
+
+redakcija nuo 2014-10-01:
+
+1. Savivaldybių biudžetų projektus rengia savivaldybių vykdomosios
+
+institucijos, remdamosi šiuo Įstatymu, kitais įstatymais, Seimo patvirtintais
+
+savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis
+
+biudžetų sudarymo ir vykdymo taisyklėmis, valstybinės statistikos duomenimis,
+
+patvirtintais savivaldybių
+
+strateginio planavimo dokumentais, taip pat
+
+savivaldybių biudžetų asignavimų valdytojų programomis ir jų sąmatų projektais.
+
 2. Savivaldybių vykdomosios institucijos parengtus biudžetų projektus
 
 teikia savivaldybių taryboms savivaldybių tarybų reglamento nustatyta tvarka.
@@ -2596,6 +2602,12 @@ nustatytu laiku nepatvirtina biudžeto, lėšos iš valstybės biudžeto atitink
 
 savivaldybei iki biudžeto patvirtinimo laikinai nepervedamos.
 
+Straipsnio pakeitimai:
+
+Nr. XII-477,
+
+2013-07-02, Žin., 2013, Nr. 79-3998 (2013-07-23)
+
 KETVIRTASIS SKIRSNIS
 
 BIUDŽETŲ VYKDYMAS
@@ -2624,13 +2636,15 @@ apskaičiavimą ir mokėjimą kontroliuoja įstatymų įgaliotos institucijos.
 
 28 straipsnis. Pajamų ir asignavimų įskaitymas
 
-1. Į konkrečių metų biudžetų pajamas įskaitomos įmokos, kurios į Valstybinės
+1. Į konkrečių metų biudžetų pajamas įskaitomos įmokos, kurios į
 
-mokesčių inspekcijos surenkamąsias sąskaitas, Muitinės departamento sąskaitas,
+Valstybinės mokesčių inspekcijos surenkamąsias sąskaitas, Muitinės departamento
 
-taip pat Valstybės iždo bei savivaldybių biudžetų sąskaitas, į kurias mokėtojai
+sąskaitas, taip pat Valstybės iždo bei savivaldybių biudžetų sąskaitas, į
 
-įmokas perveda tiesiogiai, patenka iki gruodžio 31 dienos įskaitytinai.
+kurias mokėtojai įmokas perveda tiesiogiai, patenka iki gruodžio 31 dienos
+
+įskaitytinai.
 
 2. Į konkrečių metų biudžetų panaudotus asignavimus įskaitomos
 
@@ -2646,9 +2660,9 @@ pareigūnas surašė administracinio teisės pažeidimo protokolą arba skyrė i
 
 (arba) paėmė baudą, Lietuvos Respublikos administracinių teisės pažeidimų
 
-kodekso 262 straipsnio nustatytais atvejais nesurašydamas administracinio teisės
+kodekso 262 straipsnio nustatytais atvejais nesurašydamas administracinio
 
-pažeidimo protokolo.
+teisės pažeidimo protokolo.
 
 Straipsnio pakeitimai:
 
@@ -2672,9 +2686,9 @@ asignavimų valdytojui skirtų lėšų ir skiriamos tik tęstinei veiklai bei
 
 įstatymuose nustatytiems įsipareigojimams finansuoti (išskyrus programų asignavimų dalį,
 
-kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavimo
+kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo
 
-bei
+finansavimo bei
 
 kitos gaunamos finansinės paramos lėšos) bei
 
@@ -3100,11 +3114,11 @@ Europos Sąjungos finansinės paramos lėšų administravimą, bei atsižvelgdam
 
 programų ir projektų vykdymo duomenis, perskirstyti Europos Sąjungos finansinės
 
-paramos programoms ir projektams numatytas lėšas, įskaitant ir bendrojo
+paramos programoms ir projektams numatytas lėšas, įskaitant ir bendrojo finansavimo
 
-finansavimo lėšas, tarp asignavimų valdytojų, investavimo sričių, valstybės
+lėšas, tarp asignavimų valdytojų, investavimo sričių, valstybės funkcijų ir
 
-funkcijų ir ekonominės klasifikacijos straipsnių;
+ekonominės klasifikacijos straipsnių;
 
 3) programų
 
@@ -3140,13 +3154,13 @@ galiojusių teisės aktų nuostatos, išskyrus šio įstatymo 12 straipsnį.
 
 4) (neteko galios nuo 2011 m. sausio 1 d.);
 
-5) laisvus valstybės pinigų fondų ir kitus piniginius išteklius grąžintinai
+5) laisvus valstybės pinigų fondų ir kitus piniginius išteklius
 
-naudoti valstybės biudžete numatytoms programoms finansuoti, valstybės skolai
+grąžintinai naudoti valstybės biudžete numatytoms programoms finansuoti,
 
-valdyti, investuoti į valstybės vertybinius popierius, paskoloms savivaldybių
+valstybės skolai valdyti, investuoti į valstybės vertybinius popierius,
 
-laikinam pajamų trūkumui padengti;
+paskoloms savivaldybių laikinam pajamų trūkumui padengti;
 
 6) nustatyti maksimalias lėšų sumas, kurioms einamaisiais biudžetiniais
 
@@ -3196,9 +3210,9 @@ Seimui priėmus įstatymus arba Vyriausybei priėmus nutarimus vykdant
 
 biudžetinių metų įsipareigojimai, Finansų ministerija bei savivaldybių
 
-vykdomosios institucijos įstatymų nustatyta tvarka patikslina valstybės
+vykdomosios institucijos įstatymų nustatyta tvarka patikslina valstybės biudžeto
 
-biudžeto ir savivaldybių biudžetų tarpusavio atsiskaitymus.
+ir savivaldybių biudžetų tarpusavio atsiskaitymus.
 
 35
 
@@ -3242,13 +3256,13 @@ vykdymo ataskaitų rinkiniais.
 
 4. Savivaldybių
 
-biudžetų vykdymo ataskaitų rinkinius rengia savivaldybių administracijos, remdamosi
+biudžetų vykdymo ataskaitų rinkinius rengia savivaldybių administracijos,
 
-savivaldybių biudžetų apskaitos duomenimis – į savivaldybių biudžetus gautų
+remdamosi savivaldybių biudžetų apskaitos duomenimis – į savivaldybių biudžetus
 
-pajamų ir savivaldybių biudžetų asignavimų valdytojų panaudotų asignavimų bei
+gautų pajamų ir savivaldybių biudžetų asignavimų valdytojų panaudotų asignavimų
 
-asignavimų valdytojų pateiktais biudžeto vykdymo ataskaitų rinkiniais.
+bei asignavimų valdytojų pateiktais biudžeto vykdymo ataskaitų rinkiniais.
 
 5. Biudžeto
 
@@ -3408,29 +3422,29 @@ Nr. XI-2274,
 
 Valstybės ir savivaldybių biudžetų vykdymo ataskaitų rinkinių tvirtinimas
 
-1. Vyriausybė gautą
+1. Vyriausybė
 
-valstybės biudžeto vykdymo ataskaitų rinkinį išnagrinėja, priima atitinkamus
+gautą valstybės biudžeto vykdymo ataskaitų rinkinį išnagrinėja, priima
 
-sprendimus ir Seimo statuto nustatyta tvarka bei terminais pateikia Seimui
+atitinkamus sprendimus ir Seimo statuto nustatyta tvarka bei terminais pateikia
 
-tvirtinti.
+Seimui tvirtinti.
 
 2. Valstybės
 
-biudžeto vykdymo ataskaitų rinkinys tvirtinamas pagal šio Įstatymo 18 straipsnio
+biudžeto vykdymo ataskaitų rinkinys tvirtinamas pagal šio Įstatymo 18
 
-2 dalies 1–6 punktuose nurodytus rodiklius atsižvelgiant į valstybinių aukštųjų
+straipsnio 2 dalies 1–6 punktuose nurodytus rodiklius atsižvelgiant į
 
-mokyklų ataskaitas, sudaromas pagal visus ekonominės klasifikacijos
+valstybinių aukštųjų mokyklų ataskaitas, sudaromas pagal visus ekonominės
 
-straipsnius.
+klasifikacijos straipsnius.
 
 3. Savivaldybės
 
-biudžeto vykdymo ataskaitų rinkinį tvirtina savivaldybės taryba pagal rodiklius,
+biudžeto vykdymo ataskaitų rinkinį tvirtina savivaldybės taryba pagal
 
-nurodytus šio Įstatymo 26 straipsnio 4 dalyje.
+rodiklius, nurodytus šio Įstatymo 26 straipsnio 4 dalyje.
 
 4. Suvestinį
 
@@ -3572,9 +3586,9 @@ Nr. X-1826,
 
 2008-11-14, Žin., 2008, Nr. 137-5375 (2008-11-29)
 
-Nr. XI-1209,
+Nr. XI-1209, 2010-12-09,
 
-2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
+Žin., 2010, Nr. 153-7781 (2010-12-28)
 
 Nr. XI-2274,
 
@@ -4072,11 +4086,11 @@ rizikos rodiklis per metus padidėjo daugiau negu 0,5 procentinio punkto, Minist
 
 rizikos valdymo perspektyvas vidutiniu laikotarpiu.
 
-39 straipsnis. Valdžios sektoriaus balanso rodiklio
+39 straipsnis. Valdžios sektoriaus balanso rodiklio kasmetinio
 
-kasmetinio pagerėjimo užduočių arba nuostatų dėl perteklinio ir subalansuoto
+pagerėjimo užduočių arba nuostatų dėl perteklinio ir subalansuoto valdžios
 
-valdžios sektoriaus vidutiniu laikotarpiu neįvykdymo pateisinimo priežastys
+sektoriaus vidutiniu laikotarpiu neįvykdymo pateisinimo priežastys
 
 Pateisinamomis
 
@@ -4392,9 +4406,7 @@ Nr. VIII-2058, 2000.10.17, Žin., 2000, Nr.
 
 90-2778 (2000.10.27)
 
-BIUDŽETO SANDAROS ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
-
-ĮSTATYMAS
+BIUDŽETO SANDAROS ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 14.
 
