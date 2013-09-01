@@ -4,7 +4,7 @@ identifier: "TAR.A1FD809510BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-06-29"
-last_updated: "2012-09-01"
+last_updated: "2013-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A1FD809510BB"
 department: "Lietuvos Respublikos Seimas"
@@ -18,6 +18,10 @@ entry_into_force_conditions: "32 straipsnis įsigalioja 2012-07-14"
 # Lietuvos Respublikos mažųjų bendrijų įstatymas
 
 LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
+
+Suvestinė redakcija nuo 2013-09-01 iki 2014-06-30
+
+Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
 
 LIETUVOS RESPUBLIKOS
 
@@ -166,10 +170,6 @@ MAŽOSIOS BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
 2) likvidatorius (vardas, pavardė, asmens kodas, gyvenamoji vieta) ar likvidacinė komisija (likvidacinės komisijos sudarymo data, likvidacinės komisijos pirmininkas ir kiekvieno likvidatoriaus vardas, pavardė, asmens kodas, gyvenamoji vieta), kiekvieno likvidatoriaus paskyrimo data, likvidatoriaus (likvidacinės komisijos) įgaliojimai, išskyrus įstatymuose nustatytus įgaliojimus, ir jų pabaigos data.
 
 2. Kai mažojoje bendrijoje yra du ar daugiau narių ir mažosios bendrijos narių susirinkimas yra mažosios bendrijos valdymo organas, Juridinių asmenų registre taip pat nurodomas mažosios bendrijos atstovas (vardas, pavardė, asmens kodas ir gyvenamoji vieta, jo paskyrimo data ir įgaliojimų pabaigos data).
-
-III SKYRIUS
-
-MAŽOSIOS BENDRIJOS NARIAI
 
 7 straipsnis. Mažosios bendrijos nariai, jų teisės ir pareigos
 
@@ -403,11 +403,29 @@ Mažosios bendrijos narių susirinkimo sprendimas laikomas priimtu, kai už jį 
 
 8) tvarko mažosios bendrijos narių apskaitą;
 
-9) pateikia mažosios bendrijos informaciją viešai paskelbti mažosios bendrijos nuostatuose nurodytame šaltinyje;
+9) teikia Juridinių asmenų dalyvių informacinei sistemai duomenis apie mažosios bendrijos narius;
 
-10) mažosios bendrijos nuostatuose nustatyta tvarka ir sąlygomis paima mažosios bendrijos lėšų ir išmoka jas mažosios bendrijos nariams kaip avansu išmokamą pelną;
+Papildyta straipsnio punktu:
 
-11) vykdo kitas mažosios bendrijos nuostatuose jam priskirtas pareigas.
+Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
+
+10) pateikia mažosios bendrijos informaciją viešai paskelbti mažosios bendrijos nuostatuose nurodytame šaltinyje;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
+
+11) mažosios bendrijos nuostatuose nustatyta tvarka ir sąlygomis paima mažosios bendrijos lėšų ir išmoka jas mažosios bendrijos nariams kaip avansu išmokamą pelną;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
+
+12) vykdo kitas mažosios bendrijos nuostatuose jam priskirtas pareigas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
 
 22 straipsnis. Mažosios bendrijos vadovas
 
@@ -692,6 +710,16 @@ Vyriausybė iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamu
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
+
+Lietuvos Respublikos mažųjų bendrijų įstatymo 21 straipsnio pakeitimo ir įstatymo papildymo 6-1, 31-1 straipsniais įstatymas
 
 61 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
 
