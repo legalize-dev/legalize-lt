@@ -4,7 +4,7 @@ identifier: "TAR.BBC3E3121172"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-04-18"
-last_updated: "2013-07-20"
+last_updated: "2013-09-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BBC3E3121172"
 department: "Lietuvos Respublikos Seimas"
@@ -309,9 +309,9 @@ KALĖJIMŲ
 
 DEPARTAMENTO IR JAM PAVALDŽIŲ ĮSTAIGŲ
 
-STRUKTŪRA,
+STRUKTŪRA, PAREIGŪNAI, KITI VALSTYBĖS
 
-PAREIGŪNAI, KITI VALSTYBĖS TARNAUTOJAI IR
+TARNAUTOJAI IR
 
 DARBUOTOJAI, DIRBANTYS PAGAL DARBO SUTARTIS IR
 
@@ -3741,27 +3741,23 @@ Pakeitimai:
 
 1.
 
-Lietuvos
+Lietuvos Respublikos Seimas,
 
-Respublikos Seimas, Įstatymas
+Įstatymas
 
-Nr.
-
-IX-1545,
+Nr. IX-1545,
 
 2003-04-29, Žin., 2003, Nr. 49-2158 (2003-05-21)
 
-TARNYBOS
+TARNYBOS KALĖJIMŲ DEPARTAMENTE
 
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 2, 3, 7, 8, 9, 10,
 
-2, 3, 7, 8, 9, 10, 11, 12, 14, 21, 22, 23, 24, 28, 32, 36, 37, 41, 42, 44, 47,
+11, 12, 14, 21, 22, 23, 24, 28, 32, 36, 37, 41, 42, 44, 47, 50, 51, 52, 54, 56
 
-50, 51, 52, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, STATUTO PAPILDYMO 42(1),
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, STATUTO PAPILDYMO 42(1), 42(2), 47(1)
 
-42(2), 47(1) STRAIPSNIAIS IR 43, 45, 48 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS
-
-GALIOS ĮSTATYMAS
+STRAIPSNIAIS IR 43, 45, 48 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 
 57 straipsnis. Kalėjimų departamento bei jam
 
@@ -3811,21 +3807,19 @@ KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUT
 
 2.
 
-Lietuvos
+Lietuvos Respublikos Seimas,
 
-Respublikos Seimas, Įstatymas
+Įstatymas
 
-Nr.
+Nr. X-124, 2005-02-15,
 
-X-124,
+Žin., 2005, Nr. 28-876 (2005-02-26)
 
-2005-02-15, Žin., 2005, Nr. 28-876 (2005-02-26)
+TARNYBOS KALĖJIMŲ DEPARTAMENTE
 
-TARNYBOS
+PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 54 STRAIPSNIO
 
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
-
-54 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja nuo 2005 m. kovo 1 d.
 
@@ -3839,21 +3833,19 @@ procentų vidutinio jų darbo užmokesčio suma yra mažesnė nei mokėta iki š
 
 3.
 
-Lietuvos
+Lietuvos Respublikos Seimas,
 
-Respublikos Seimas, Įstatymas
+Įstatymas
 
-Nr.
+Nr. X-419, 2005-11-22,
 
-X-419,
+Žin., 2005, Nr. 143-5181 (2005-12-08)
 
-2005-11-22, Žin., 2005, Nr. 143-5181 (2005-12-08)
+TARNYBOS KALĖJIMŲ DEPARTAMENTE
 
-TARNYBOS
+PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 13 STRAIPSNIO
 
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
-
-13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 4.
 
@@ -3861,29 +3853,31 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. X-661, 2006-06-08,
+Nr.
 
-Žin., 2006, Nr. 72-2678 (2006-06-28)
+X-661,
 
-TARNYBOS
+2006-06-08, Žin., 2006, Nr. 72-2678 (2006-06-28)
 
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+TARNYBOS KALĖJIMŲ DEPARTAMENTE
 
-42, 471 IR 54 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 42, 471 IR 54
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d.
 
-Įsigaliojus
+Įsigaliojus šiam įstatymui,
 
-šiam įstatymui, Kalėjimų departamento prie Lietuvos Respublikos teisingumo
+Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos bei jam
 
-ministerijos bei jam pavaldžių įstaigų ir valstybės įmonių pareigūnams,
+pavaldžių įstaigų ir valstybės įmonių pareigūnams, esantiems vaiko priežiūros,
 
-esantiems vaiko priežiūros, kol jam sueis vieni metai, atostogose,
+kol jam sueis vieni metai, atostogose, apskaičiuotos sumos perskaičiuojamos
 
-apskaičiuotos sumos perskaičiuojamos vadovaujantis šio įstatymo nuostatomis ir
+vadovaujantis šio įstatymo nuostatomis ir mokamos nuo šio įstatymo nuostatų
 
-mokamos nuo šio įstatymo nuostatų įsigaliojimo dienos.
+įsigaliojimo dienos.
 
 5.
 
@@ -3891,15 +3885,17 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. X-793, 2006-07-19,
+Nr.
 
-Žin., 2006, Nr. 87-3404 (2006-08-08)
+X-793,
 
-TARNYBOS
+2006-07-19, Žin., 2006, Nr. 87-3404 (2006-08-08)
 
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+TARNYBOS KALĖJIMŲ DEPARTAMENTE
 
-42 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 42 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
 
 Įstatymas
 
@@ -3907,29 +3903,27 @@ KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUT
 
 6.
 
-Lietuvos
+Lietuvos Respublikos Seimas,
 
-Respublikos Seimas, Įstatymas
+Įstatymas
 
-Nr.
-
-X-1341,
+Nr. X-1341,
 
 2007-12-04, Žin., 2007, Nr. 132-5349 (2007-12-15)
 
-TARNYBOS
+TARNYBOS KALĖJIMŲ DEPARTAMENTE
 
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 54 STRAIPSNIO
 
-54 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja 2008 m. sausio 1 d.
 
 Įsigaliojus šiam įstatymui,
 
-pareigūnams iki tol mokamas vidutinis darbo užmokestis pagal Lietuvos
+pareigūnams iki tol mokamas vidutinis darbo užmokestis pagal Lietuvos Respublikos
 
-Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo
+tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo
 
 ministerijos statuto 54 straipsnį, vadovaujantis šio įstatymo
 
@@ -3947,33 +3941,31 @@ pasibaigęs, nes vaikui (vaikams) suėjo vieni metai, nuo 2008 m. sausio 1 d. mo
 
 7.
 
-Lietuvos
+Lietuvos Respublikos Seimas,
 
-Respublikos Seimas, Įstatymas
+Įstatymas
 
-Nr.
-
-X-1623,
+Nr. X-1623,
 
 2008-06-17, Žin., 2008, Nr. 74-2869 (2008-06-30)
 
-TARNYBOS
+TARNYBOS KALĖJIMŲ DEPARTAMENTE PRIE
 
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 54 STRAIPSNIO PAKEITIMO
 
-54 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ĮSTATYMAS
 
 Šis įstatymas įsigalioja 2008 m. liepos 1 d.
 
-Pareigūnams,
+Pareigūnams, kuriems išmokų
 
-kuriems išmokų mokėjimas vaiko priežiūros atostogų laikotarpiu buvo nutrauktas
+mokėjimas vaiko priežiūros atostogų laikotarpiu buvo nutrauktas dėl to, kad
 
-dėl to, kad jiems buvo paskirta tokia išmoka už kitą vaiką, šių išmokų
+jiems buvo paskirta tokia išmoka už kitą vaiką, šių išmokų mokėjimas tęsiamas
 
-mokėjimas tęsiamas nuo šio įstatymo įsigaliojimo. Šiuo atveju išmokų dydžiai iš
+nuo šio įstatymo įsigaliojimo. Šiuo atveju išmokų dydžiai iš naujo
 
-naujo neperskaičiuojami.
+neperskaičiuojami.
 
 8.
 
@@ -3981,15 +3973,17 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. XI-369,
+Nr.
+
+XI-369,
 
 2009-07-17, Žin., 2009, Nr. 91-3923 (2009-07-31)
 
-TARNYBOS
+TARNYBOS KALĖJIMŲ DEPARTAMENTE
 
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 42 STRAIPSNIO
 
-42 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 Šis
 
@@ -3997,21 +3991,17 @@ KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUT
 
 9.
 
-Lietuvos
+Lietuvos Respublikos Seimas,
 
-Respublikos Seimas, Įstatymas
+Įstatymas
 
-Nr.
-
-X-1791,
+Nr. X-1791,
 
 2008-11-06, Žin., 2008, Nr. 135-5230 (2008-11-25)
 
-TARNYBOS
+TARNYBOS KALĖJIMŲ DEPARTAMENTE
 
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
-
-PAKEITIMO ĮSTATYMAS
+PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO PAKEITIMO ĮSTATYMAS
 
 Nauja Statuto redakcija
 
@@ -4021,319 +4011,39 @@ dalį, įsigalioja 2010 m. sausio 1 d. (įstatymo įsigaliojimas keistas)
 
 Šio Įstatymo pakeitimai:
 
-1)
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-123,
-
-2008-12-23, Žin., 2008, Nr. 149-6043 (2008-12-30)
-
-TARNYBOS KALĖJIMŲ DEPARTAMENTE
-
-PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO PAKEITIMO ĮSTATYMO 2
-
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-2)
+9.1.
 
 Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. XI-370,
+Nr. XI-123,
 
-2009-07-17, Žin., 2009, Nr. 91-3924 (2009-07-31)
+2008-12-23, Žin., 2008, Nr. 149-6043 (2008-12-30)
 
-TARNYBOS KALĖJIMŲ DEPARTAMENTE
+TARNYBOS KALĖJIMŲ
 
-PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO PAKEITIMO ĮSTATYMO 1
+DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
 
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
+PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-Šio įstatymo 2
-
-straipsnis įsigalioja 2014 m. sausio 1 d.
-
-Įstatymo
-
-įsigaliojimas keistas:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. XI-947,
-
-2010-06-30, Žin., 2010, Nr. 82-4301 (2010-07-13)
-
-TARNYBOS
-
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
-
-PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
-
-ĮSTATYMAS
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-XI-1725,
-
-2011-11-22, Žin., 2011, Nr. 150-7040 (2011-12-08)
-
-TARNYBOS KALĖJIMŲ DEPARTAMENTE
-
-PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 1 STRAIPSNIO
-
-PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-3.
+9.2.
 
 Lietuvos Respublikos
 
 Seimas, Įstatymas
 
-Nr. XII-117,
+Nr. XI-370,
 
-2012-12-20, Žin., 2012, Nr. 155-7995 (2012-12-31)
+2009-07-17, Žin., 2009, Nr. 91-3924 (2009-07-31)
 
-TARNYBOS KALĖJIMŲ DEPARTAMENTE
+TARNYBOS KALĖJIMŲ
 
-PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO PAKEITIMO ĮSTATYMO 1
-
-STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-3)
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. XI-535,
-
-2009-12-08, Žin., 2009, Nr. 151-6782 (2009-12-22)
-
-TARNYBOS
-
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
 
 PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-Šio įstatymo 1
-
-ir 3 straipsniai įsigalioja 2010-01-01 ir galioja iki 2013-12-31.
-
-Šio įstatymo 2
-
-ir 4 straipsniai įsigalioja 2014-01-01.
-
-Įstatymo
-
-įsigaliojimas keistas:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. XI-948,
-
-2010-06-30, Žin., 2010, Nr. 82-4302 (2010-07-13)
-
-TARNYBOS
-
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
-
-PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
-
-ĮSTATYMAS
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-XI-1724,
-
-2011-11-22, Žin., 2011, Nr. 150-7039 (2011-12-08)
-
-TARNYBOS KALĖJIMŲ DEPARTAMENTE
-
-PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 1 STRAIPSNIO
-
-PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. XII-118,
-
-2012-12-20, Žin., 2012, Nr. 155-7996 (2012-12-31)
-
-TARNYBOS KALĖJIMŲ DEPARTAMENTE
-
-PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO PAKEITIMO ĮSTATYMO 1
-
-STRAIPSNIO PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-10.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-987,
-
-2010-07-02, Žin., 2010, Nr. 86-4538 (2010-07-20)
-
-TARNYBOS
-
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
-
-53 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šio įstatymo nuostatos dėl nėštumo ir
-
-gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais
-
-pareigūnams mokamų išmokų įsigalioja 2011 m. liepos 1 d.
-
-Šio įstatymo nuostatos dėl laikinojo nedarbingumo
-
-laikotarpiu pareigūnams mokamų išmokų įsigalioja 2010 m. rugpjūčio 1 d.
-
-Šio įstatymo nuostatos taikomos po šio
-
-įstatymo įsigaliojimo skiriamoms išmokoms.
-
-11.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. XI-1837,
-
-2011-12-21, Žin., 2011, Nr. 163-7748 (2011-12-31)
-
-TARNYBOS
-
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
-
-9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja 2012 m. kovo 1 d.
-
-12.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-XI-1857,
-
-2011-12-22, Žin., 2011, Nr. 163-7755 (2011-12-31)
-
-TARNYBOS
-
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
-
-53 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šio įstatymo nuostatos taikomos
-
-apskaičiuojant ligos išmokas nuo 2012 m. sausio 1 d.
-
-13.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-XI-1864,
-
-2011-12-22, Žin., 2012, Nr. 4-111 (2012-01-06)
-
-TARNYBOS
-
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
-
-2, 7 IR 22 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja 2012 m. liepos 1 d.
-
-14.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-XII-299,
-
-2013-05-14, Žin., 2013, Nr. 57-2843 (2013-06-01)
-
-TARNYBOS
-
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
-
-53 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis įstatymas įsigalioja 2013 m. liepos
-
-1 d.
-
-15.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-XII-454,
-
-2013-07-02, Žin., 2013, Nr. 78-3933 (2013-07-20)
-
-TARNYBOS
-
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
-
-28 STRAIPSNIO PAKEITIMO IR 29, 30 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
-
-ĮSTATYMAS
-
-***
-
-Pabaiga ***
-
-Redagavo
-
-Aušrinė Trapinskienė (2013-07-22)
-
-ausrine.trapinskiene@lrs.lt
+Šio
 
 54 straipsnis.
 
@@ -4973,6 +4683,12 @@ stažą, turimą rangą, kvalifikacinę kategoriją, apmokėjimas už darbą poi
 
 algos dydžio vienkartinis priedas ir priemokos.
 
+Redakcija galioja iki 2013 m. gruodžio
+
+31 d. (Nr.
+
+XII-521)
+
 2. Kalėjimų
 
 departamento arba jam pavaldžios įstaigos pareigūno pareiginė alga, priedai ir
@@ -4983,9 +4699,11 @@ viršvalandinį darbą ir budėjimą mokama Valstybės tarnybos įstatymo ir ši
 
 statuto nustatyta tvarka.
 
-1 ir 2 dalių redakcija galioja iki 2013
+Redakcija galioja iki 2013 m. gruodžio
 
-m. gruodžio 31 d.
+31 d. (Nr.
+
+XII-521)
 
 3. Pareigūnams
 
@@ -5037,9 +4755,7 @@ vyriausiojo pareigūno rangą – 0,7 bazinio dydžio;
 
 generalinio pareigūno rangą – 0,8 bazinio dydžio.
 
-3 dalies redakcija nuo 2014 m. sausio 1
-
-d.:
+Redakcija nuo 2014-01-01:
 
 3. Pareigūnams
 
@@ -5109,9 +4825,7 @@ už 2 kategoriją – 20 procentų pareiginės algos;
 
 už 1 kategoriją – 30 procentų pareiginės algos.
 
-4 dalies redakcija nuo 2014 m. sausio 1
-
-d.:
+Redakcija nuo 2013-10-01:
 
 4.
 
@@ -5139,17 +4853,21 @@ Nr. XI-370,
 
 Nr.
 
-XI-947,
+XI-947, 2010-06-30,
 
-2010-06-30, Žin., 2010, Nr. 82-4301 (2010-07-13)
+Žin., 2010, Nr. 82-4301 (2010-07-13)
 
 Nr. XI-1725,
 
 2011-11-22, Žin., 2011, Nr. 150-7040 (2011-12-08)
 
-Nr. XII-117,
+Nr. XII-117, 2012-12-20,
 
-2012-12-20, Žin., 2012, Nr. 155-7995 (2012-12-31)
+Žin., 2012, Nr. 155-7995 (2012-12-31)
+
+Nr. XII-521,
+
+2013-09-19, Žin., 2013, Nr. 102-5030 (2013-09-28)
 
 Nr. XI-535,
 
@@ -5313,9 +5031,9 @@ veiklos vertinimo pradžios pranešama pareigūnui.
 
 9.
 
-Kvalifikacijos vertinimo komisija pareigūno tarnybinę veiklą gali įvertinti
+Kvalifikacijos vertinimo komisija pareigūno tarnybinę veiklą gali įvertinti labai
 
-labai gerai, gerai, patenkinamai arba nepatenkinamai.
+gerai, gerai, patenkinamai arba nepatenkinamai.
 
 10.
 
@@ -5325,9 +5043,9 @@ gerai, teisingumo ministrui, Kalėjimų departamento direktoriui ar jam
 
 pavaldžios įstaigos direktoriui siūlo:
 
-1) suteikti
+1) suteikti pareigūnui
 
-pareigūnui 3 kvalifikacinę kategoriją, jeigu ji dar nebuvo suteikta;
+3 kvalifikacinę kategoriją, jeigu ji dar nebuvo suteikta;
 
 2) suteikti
 
@@ -5401,13 +5119,13 @@ pareigūnui turimą kvalifikacinę kategoriją ir skirti jam pareiginės algos
 
 dydžio vienkartinį priedą.
 
-15. Kvalifikacijos
+15.
 
-vertinimo komisija nėščių ir krūtimi maitinančių pareigūnių ir pareigūnų,
+Kvalifikacijos vertinimo komisija nėščių ir krūtimi maitinančių pareigūnių ir
 
-išėjusių vaiko priežiūros atostogų, iki vaikui sueis 3 metai, tarnybinę veiklą
+pareigūnų, išėjusių vaiko priežiūros atostogų, iki vaikui sueis 3 metai,
 
-vertina tik jų prašymu.
+tarnybinę veiklą vertina tik jų prašymu.
 
 16. Pareigūnai
 
@@ -5631,11 +5349,11 @@ tvarka. Į tarnybos stažą taip pat įskaitoma pusė mokymosi kitose aukštosio
 
 aukštesniosiose ir specialiosiose vidurinėse mokyklose laiko, jeigu jas baigę
 
-asmenys yra priimti į tarnybą per 3 mėnesius, neįskaitant ligos, nėštumo ir
+asmenys yra priimti į tarnybą per 3 mėnesius, neįskaitant ligos, nėštumo ir gimdymo
 
-gimdymo atostogų, taip pat būtinosios tarnybos kariuomenėje ar dalyvavimo
+atostogų, taip pat būtinosios tarnybos kariuomenėje ar dalyvavimo kariniuose
 
-kariniuose mokymuose trukmės;
+mokymuose trukmės;
 
 10) vieną
 
@@ -5707,9 +5425,9 @@ kuriam buvo sutrikdyta sveikata einant tarnybines pareigas arba jeigu tai
 
 susiję su tarnyba Kalėjimų departamente arba jam pavaldžiose įstaigose,
 
-atsižvelgiant į darbingumo lygį ar sveikatos sutrikdymo sunkumo laipsnį,
+atsižvelgiant į darbingumo lygį ar sveikatos sutrikdymo sunkumo laipsnį, išmokama
 
-išmokama kompensacija:
+kompensacija:
 
 1) dėl sveikatos
 
@@ -5767,17 +5485,19 @@ skirtumas.
 
 5. Pareigūno
 
-žūties arba sveikatos sutrikdymo atvejais, numatytais šio straipsnio 1 ir 3 dalyse,
+žūties arba sveikatos sutrikdymo atvejais, numatytais šio straipsnio 1 ir 3
 
-kompensacijos dydis apskaičiuojamas pagal įvykio metu gautą jo darbo užmokestį.
+dalyse, kompensacijos dydis apskaičiuojamas pagal įvykio metu gautą jo darbo
+
+užmokestį.
 
 6. Ar pareigūno
 
 žūtis arba sveikatos sutrikdymas susiję su tarnybinių pareigų ėjimu ar tarnyba
 
-Kalėjimų departamente arba jam pavaldžioje įstaigoje, nustatoma Kalėjimų departamento
+Kalėjimų departamente arba jam pavaldžioje įstaigoje, nustatoma Kalėjimų
 
-direktoriaus nustatyta tvarka.
+departamento direktoriaus nustatyta tvarka.
 
 7. Pareigūno
 
@@ -5847,9 +5567,9 @@ Kitos kompensacijos
 
 kuris paskyrimo vietoje arba laikino perkėlimo eiti kitas pareigas kitoje
 
-gyvenamojoje vietovėje neturi gyvenamosios patalpos, Valstybės tarnybos
+gyvenamojoje vietovėje neturi gyvenamosios patalpos, Valstybės tarnybos įstatymo
 
-įstatymo nustatyta tvarka kompensuojamos gyvenamosios patalpos nuomos išlaidos.
+nustatyta tvarka kompensuojamos gyvenamosios patalpos nuomos išlaidos.
 
 Pareigūnui, kuris laikinai perkeltas eiti kitas pareigas kitoje
 
@@ -5885,9 +5605,7 @@ Pareigūnų važiavimo išlaidų kompensavimo taisykles ir maksimalų važiavimo
 
 išlaidų kompensacijos dydį nustato Vyriausybė arba jos įgaliota institucija.
 
-3 dalies redakcija nuo 2014 m. sausio 1
-
-d.:
+Redakcija nuo 2014-01-01:
 
 3. Pareigūnui,
 
@@ -6005,11 +5723,11 @@ pareigūnui budėti Kalėjimų departamente ar jam pavaldžioje įstaigoje arba 
 
 anksto aptartoje vietoje pasibaigus darbo dienai (pamainai) arba poilsio ir
 
-švenčių dienomis ne dažniau kaip kartą per mėnesį, o pareigūno sutikimu – ne
+švenčių dienomis ne dažniau kaip kartą per mėnesį, o pareigūno sutikimu – ne dažniau
 
-dažniau kaip kartą per savaitę. Budėjimo trukmė iš anksto aptartoje vietoje
+kaip kartą per savaitę. Budėjimo trukmė iš anksto aptartoje vietoje negali
 
-negali viršyti 64 valandų per mėnesį. Budėjimas Kalėjimų departamente ar jam
+viršyti 64 valandų per mėnesį. Budėjimas Kalėjimų departamente ar jam
 
 pavaldžioje įstaigoje prilyginamas darbo laikui, o budėjimas iš anksto
 
@@ -6238,4 +5956,296 @@ darbo įstatymai. Be to, šiems darbuotojams ir valstybės įmonių prie pataiso
 direktorius, taip pat taikomos šio statuto 10 straipsnio 3 dalies ir 11
 
 straipsnio 2 ir 3 dalių nuostatos.
+
+įstatymo 2 straipsnis įsigalioja 2013 m. spalio 1 d.
+
+Įstatymo
+
+įsigaliojimas keistas:
+
+9.2.1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-947,
+
+2010-06-30, Žin., 2010, Nr. 82-4301 (2010-07-13)
+
+TARNYBOS
+
+KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+
+PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+9.2.2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. XI-1725,
+
+2011-11-22, Žin., 2011, Nr. 150-7040 (2011-12-08)
+
+TARNYBOS KALĖJIMŲ
+
+DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 1
+
+STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+9.2.3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-117,
+
+2012-12-20, Žin., 2012, Nr. 155-7995 (2012-12-31)
+
+TARNYBOS KALĖJIMŲ
+
+DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO PAKEITIMO
+
+ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+9.2.4.
+
+Lietuvos Respublikos
+
+Seimas, Įstatymas
+
+Nr. XII-521,
+
+2013-09-19, Žin., 2013, Nr. 102-5030 (2013-09-28)
+
+TARNYBOS KALĖJIMŲ
+
+DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+
+PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+9.3
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-535,
+
+2009-12-08, Žin., 2009, Nr. 151-6782 (2009-12-22)
+
+TARNYBOS
+
+KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+
+PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šio įstatymo 1
+
+ir 3 straipsniai įsigalioja 2010-01-01 ir galioja iki 2013-12-31.
+
+Šio įstatymo 2
+
+ir 4 straipsniai įsigalioja 2014-01-01.
+
+Įstatymo
+
+įsigaliojimas keistas:
+
+9.3.1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-948,
+
+2010-06-30, Žin., 2010, Nr. 82-4302 (2010-07-13)
+
+TARNYBOS
+
+KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+
+PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+9.3.2.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. XI-1724,
+
+2011-11-22, Žin., 2011, Nr. 150-7039 (2011-12-08)
+
+TARNYBOS KALĖJIMŲ
+
+DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 1
+
+STRAIPSNIO PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+9.3.3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-118,
+
+2012-12-20, Žin., 2012, Nr. 155-7996 (2012-12-31)
+
+TARNYBOS KALĖJIMŲ
+
+DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+
+PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-987, 2010-07-02,
+
+Žin., 2010, Nr. 86-4538 (2010-07-20)
+
+TARNYBOS
+
+KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+
+53 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šio įstatymo nuostatos dėl nėštumo ir
+
+gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais
+
+pareigūnams mokamų išmokų įsigalioja 2011 m. liepos 1 d.
+
+Šio įstatymo nuostatos dėl laikinojo
+
+nedarbingumo laikotarpiu pareigūnams mokamų išmokų įsigalioja 2010 m. rugpjūčio
+
+1 d.
+
+Šio įstatymo nuostatos taikomos po šio
+
+įstatymo įsigaliojimo skiriamoms išmokoms.
+
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-1837,
+
+2011-12-21, Žin., 2011, Nr. 163-7748 (2011-12-31)
+
+TARNYBOS KALĖJIMŲ DEPARTAMENTE
+
+PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 9 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2012 m.
+
+kovo 1 d.
+
+12.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XI-1857,
+
+2011-12-22, Žin., 2011, Nr. 163-7755 (2011-12-31)
+
+TARNYBOS KALĖJIMŲ DEPARTAMENTE
+
+PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 53 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+Šio įstatymo nuostatos taikomos
+
+apskaičiuojant ligos išmokas nuo 2012 m. sausio 1 d.
+
+13.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. XI-1864,
+
+2011-12-22, Žin., 2012, Nr. 4-111 (2012-01-06)
+
+TARNYBOS KALĖJIMŲ DEPARTAMENTE
+
+PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 2, 7 IR 22 STRAIPSNIŲ
+
+PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2012 m.
+
+liepos 1 d.
+
+14.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-299,
+
+2013-05-14, Žin., 2013, Nr. 57-2843 (2013-06-01)
+
+TARNYBOS KALĖJIMŲ DEPARTAMENTE
+
+PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 53 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2013 m. liepos
+
+1 d.
+
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-454,
+
+2013-07-02, Žin., 2013, Nr. 78-3933 (2013-07-20)
+
+TARNYBOS KALĖJIMŲ DEPARTAMENTE
+
+PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 28 STRAIPSNIO
+
+PAKEITIMO IR 29, 30 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+
+***
+
+Pabaiga ***
+
+Redagavo
+
+Aušrinė Trapinskienė (2013-09-29)
+
+ausrine.trapinskiene@lrs.lt
 
