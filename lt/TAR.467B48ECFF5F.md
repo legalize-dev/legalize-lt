@@ -4,7 +4,7 @@ identifier: "TAR.467B48ECFF5F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-28"
-last_updated: "2012-12-31"
+last_updated: "2013-09-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.467B48ECFF5F"
 department: "Lietuvos Respublikos Seimas"
@@ -440,7 +440,7 @@ dirba 14 ir mažiau teisėjų
 
 2. Šio įstatymo
 
-2 straipsnis įsigalioja 2014 m. sausio 1 d.
+2 straipsnis įsigalioja 2013 m. spalio 1 d.
 
 Straipsnio
 
@@ -457,6 +457,10 @@ Nr. XI-1729,
 Nr. XII-113,
 
 2012-12-20, Žin., 2012, Nr. 155-7991 (2012-12-31)
+
+Nr. XII-518,
+
+2013-09-19, Žin., 2013, Nr. 102-5027 (2013-09-28)
 
 Skelbiu šį
 
@@ -508,11 +512,23 @@ TEISĖJŲ ATLYGINIMŲ ĮSTATYMO PRIEDĖLIO
 
 PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-518,
+
+2013-09-19, Žin., 2013, Nr. 102-5027 (2013-09-28)
+
+TEISĖJŲ ATLYGINIMŲ ĮSTATYMO PRIEDĖLIO
+
+PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2013-01-08)
+(2013-09-29)
 
 ausrine.trapinskiene@lrs.lt
 
