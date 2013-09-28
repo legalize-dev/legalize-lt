@@ -4,7 +4,7 @@ identifier: "TAR.9E05750F05D3"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-17"
-last_updated: "2012-12-31"
+last_updated: "2013-09-28"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E05750F05D3"
 department: "Lietuvos Respublikos Seimas"
@@ -110,7 +110,7 @@ straipsnis. Įstatymo
 
 2. Šio įstatymo 2 straipsnis įsigalioja
 
-2014 m. sausio 1 d.
+2013 m. spalio 1 d.
 
 Straipsnio
 
@@ -127,6 +127,10 @@ Nr. XI-1717,
 Nr. XII-120,
 
 2012-12-20, Žin., 2012, Nr. 155-7998 (2012-12-31)
+
+Nr. XII-522,
+
+2013-09-19, Žin., 2013, Nr. 102-5031 (2013-09-28)
 
 Skelbiu šį Lietuvos Respublikos Seimo
 
@@ -180,11 +184,23 @@ CIVILINĖS KRAŠTO APSAUGOS TARNYBOS
 
 STATUTO 20 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-522,
+
+2013-09-19, Žin., 2013, Nr. 102-5031 (2013-09-28)
+
+CIVILINĖS KRAŠTO APSAUGOS TARNYBOS
+
+STATUTO 20 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2013-01-09)
+(2013-09-29)
 
 ausrine.trapinskiene@lrs.lt
 
