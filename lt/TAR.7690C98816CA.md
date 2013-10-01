@@ -4,7 +4,7 @@ identifier: "TAR.7690C98816CA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-01"
-last_updated: "2013-07-20"
+last_updated: "2013-10-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7690C98816CA"
 department: "Lietuvos Respublikos Seimas"
@@ -699,17 +699,15 @@ atlikti tokias pareigas ar užduotis, tarnybos pareigūnui mokama Valstybės
 
 tarnybos įstatymo nustatyta priemoka.
 
-36 straipsnis. Pereinamojo
+36 straipsnis.
 
-laikotarpio nuostatos
+Pereinamojo laikotarpio nuostatos
 
 Specialiųjų
 
 tyrimų tarnybos pareigūnų turimi pareiginiai laipsniai prilyginami šio Statuto
 
 19 straipsnyje numatytiems tarnybiniams rangams.
-
-_______________
 
 Pakeitimai:
 
@@ -773,7 +771,7 @@ STATUTO 29 IR 30 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Šis
 
-įstatymas įsigalioja nuo 2006-07-01.
+įstatymas įsigalioja nuo 2006 m. liepos 1 d.
 
 Įsigaliojus šiam įstatymui,
 
@@ -785,15 +783,99 @@ vadovaujantis šio įstatymo nuostatomis ir mokamos nuo šio įstatymo nuostatų
 
 įsigaliojimo dienos.
 
-***
+4.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas,
 
-Redagavo:
+Įstatymas
 
-Aušra Bodin (2006-07-01)
+Nr. X-758, 2006-07-11,
 
-ausra.bodin@lrs.lt
+Žin., 2006, Nr. 82-3257 (2006-07-27)
+
+SPECIALIŲJŲ TYRIMŲ TARNYBOS
+
+STATUTO 2, 8, 11, 19, 21, 30, 32, 35 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+
+ĮSTATYMAS
+
+Šis įstatymas įsigalioja nuo 2006
+
+m. rugsėjo 1 d.
+
+5.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. X-1340,
+
+2007-12-04, Žin., 2007, Nr. 132-5348 (2007-12-15)
+
+SPECIALIŲJŲ TYRIMŲ TARNYBOS
+
+STATUTO 30 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2008 m. sausio 1 d.
+
+Įsigaliojus šiam įstatymui,
+
+Specialiųjų tyrimų tarnybos pareigūnams iki tol mokamas vidutinis darbo
+
+užmokestis pagal Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 30
+
+straipsnio 6 dalį, vadovaujantis šio įstatymo nuostatomis, atitinkamai
+
+perskaičiuojamas, padidinamas ir (ar) pratęsiamas jo mokėjimo laikotarpis.
+
+Vaiko priežiūros atostogose
+
+esantiems Specialiųjų tyrimų tarnybos pareigūnams (nepaisant to, ar vaiko
+
+priežiūros atostogos tęsiamos, ar suteikiamos iš naujo), kuriems vidutinio
+
+darbo užmokesčio mokėjimo laikas buvo pasibaigęs, nes vaikui (vaikams) suėjo
+
+vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams)
+
+dar nėra suėję dveji metai.
+
+6.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+X-1620,
+
+2008-06-17, Žin., 2008, Nr. 74-2866 (2008-06-30)
+
+SPECIALIŲJŲ
+
+TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2008 m. liepos 1 d.
+
+7.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XI-364,
+
+2009-07-17, Žin., 2009, Nr. 91-3919 (2009-07-31)
+
+SPECIALIŲJŲ
+
+TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šio įstatymo
 
 4 straipsnis. Tarnybos pareigūnų
 
@@ -1815,19 +1897,19 @@ straipsnis. Prievartos rūšys ir naudojimo sąlygos
 
 1. Tarnybos pareigūnas turi teisę
 
-panaudoti prievartą, kai ji yra būtina užkertant kelią teisės
+panaudoti prievartą, kai ji yra būtina užkertant kelią teisės pažeidimams,
 
-pažeidimams, sulaikyti pažeidimus padariusius asmenis ir kitais atvejais,
+sulaikyti pažeidimus padariusius asmenis ir kitais atvejais, saugant bei ginant
 
-saugant bei ginant teisėtus asmens, visuomenės, valstybės interesus. Prievartos
+teisėtus asmens, visuomenės, valstybės interesus. Prievartos rūšį ir jos
 
-rūšį ir jos panaudojimo ribas pasirenka tarnybos pareigūnas, atsižvelgdamas į
+panaudojimo ribas pasirenka tarnybos pareigūnas, atsižvelgdamas į konkrečią
 
-konkrečią situaciją, teisės pažeidimo pobūdį ir individualias teisės pažeidėjo
+situaciją, teisės pažeidimo pobūdį ir individualias teisės pažeidėjo savybes.
 
-savybes. Naudodami prievartą, tarnybos pareigūnai privalo stengtis išvengti
+Naudodami prievartą, tarnybos pareigūnai privalo stengtis išvengti sunkių
 
-sunkių pasekmių.
+pasekmių.
 
 2. Tarnybos
 
@@ -1869,11 +1951,11 @@ priemonių, panaudojimas.
 
 ginklą, tarnybos pareigūnas privalo įspėti apie tokį ketinimą, suteikdamas
 
-asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai
+asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas
 
-delsimas kelia grėsmę pareigūno ar kito asmens gyvybei ar sveikatai arba toks
+kelia grėsmę pareigūno ar kito asmens gyvybei ar sveikatai arba toks įspėjimas
 
-įspėjimas yra neįmanomas.
+yra neįmanomas.
 
 6. Tarnybos
 
@@ -2015,11 +2097,11 @@ naudojimui, jeigu jis mano, kad konkrečioje situacijoje gali tekti jį
 
 panaudoti.
 
-6. Tarnybos pareigūnas,
+6. Tarnybos pareigūnas, nesukeldamas
 
-nesukeldamas grėsmės įstatymų saugomoms vertybėms, turi teisę iššauti iš
+grėsmės įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo,
 
-šaunamojo ginklo, kai būtina duoti pavojaus signalą arba išsikviesti pagalbą.
+kai būtina duoti pavojaus signalą arba išsikviesti pagalbą.
 
 7. Tarnybos
 
@@ -2187,9 +2269,11 @@ reabilituotas;
 
 policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos,
 
-valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas Darbo sutarties
+valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas Darbo
 
-įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms;
+sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno
+
+pareigoms;
 
 5) darbo laikas,
 
@@ -2221,33 +2305,33 @@ dienas;
 
 pradėjusiems tarnauti ar dirbti Lietuvos Respublikos krašto apsaugos sistemoje,
 
-ir asmenims, pradėjusiems tarnauti ar dirbti Lietuvos Respublikos
+ir asmenims, pradėjusiems tarnauti ar dirbti Lietuvos Respublikos Aukščiausiosios
 
-Aukščiausiosios Tarybos Apsaugos skyriuje iki 1991 m. gruodžio 31 d., taip pat
+Tarybos Apsaugos skyriuje iki 1991 m. gruodžio 31 d., taip pat Valstybės
 
-Valstybės saugumo departamente prie Lietuvos Respublikos Vyriausybės nuo 1990
+saugumo departamente prie Lietuvos Respublikos Vyriausybės nuo 1990 m. kovo 26
 
-m. kovo 26 d. iki 1991 m. gruodžio 2 d. ir Lietuvos Respublikos nacionalinio
+d. iki 1991 m. gruodžio 2 d. ir Lietuvos Respublikos nacionalinio saugumo
 
-saugumo tarnyboje nuo 1991 m. gruodžio 2 d. iki 1991 m. gruodžio 31 d., – 80
+tarnyboje nuo 1991 m. gruodžio 2 d. iki 1991 m. gruodžio 31 d., – 80 procentų
 
-procentų iki šio laiko turėto darbo stažo;
+iki šio laiko turėto darbo stažo;
 
 8) mokymosi
 
 vidaus reikalų profesinio mokymo įstaigose, aukštosiose, specialiosiose
 
-vidurinėse, aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų),
+vidurinėse, aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų), saugumo
 
-saugumo ir karo mokyklose laikas. Mokymosi tokiose pat kitų valstybių mokyklose
+ir karo mokyklose laikas. Mokymosi tokiose pat kitų valstybių mokyklose laikas
 
-laikas Vyriausybės nustatyta tvarka gali būti įskaitytas į tarnybos pareigūnų
+Vyriausybės nustatyta tvarka gali būti įskaitytas į tarnybos pareigūnų tarnybos
 
-tarnybos stažą. Į tarnybos pareigūnų tarnybos stažą taip pat įskaitoma pusė
+stažą. Į tarnybos pareigūnų tarnybos stažą taip pat įskaitoma pusė mokymosi
 
-mokymosi kitose aukštosiose švietimo įstaigose laiko, jeigu jas baigę asmenys
+kitose aukštosiose švietimo įstaigose laiko, jeigu jas baigę asmenys yra
 
-yra priimti į tarnybą statutiniais pagrindais per tris mėnesius, pailginant šį
+priimti į tarnybą statutiniais pagrindais per tris mėnesius, pailginant šį
 
 laikotarpį ligos, nėštumo ir gimdymo atostogų, taip pat būtinosios tarnybos
 
@@ -2275,29 +2359,15 @@ stebėtojų misijose – vieną tarnybos dieną kaip dvi dienas;
 
 laikotarpiai, numatyti Valstybės tarnybos įstatymo 42 straipsnyje.
 
-4.
-
-Tarnybos pareigūnams priedas pagal Valstybės tarnybos įstatymą už 3-iąją
-
-kvalifikacinę kategoriją sudaro 10 procentų pareiginės algos, už 2-ąją
-
-kvalifikacinę kategoriją – 20 procentų pareiginės algos, už 1-ąją kvalifikacinę
-
-kategoriją – 30 procentų pareiginės algos.
-
-4
-
-dalies redakcija nuo 2014-01-01:
-
 4. Tarnybos
 
 pareigūnams priedas pagal Valstybės tarnybos įstatymą už 3-iąją kvalifikacinę
 
-kategoriją sudaro 15 procentų pareiginės algos, už 2-ąją kvalifikacinę kategoriją
+kategoriją sudaro 15 procentų pareiginės algos, už 2-ąją kvalifikacinę
 
-– 30 procentų pareiginės algos, už 1-ąją kvalifikacinę kategoriją – 45
+kategoriją – 30 procentų pareiginės algos, už 1-ąją kvalifikacinę kategoriją –
 
-procentus pareiginės algos.
+45 procentus pareiginės algos.
 
 5. Priemokos už pareigybės aprašyme nenurodytą ar
 
@@ -2317,25 +2387,25 @@ nedarbingumo (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo dar
 
 dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
 
-ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos vykdymo),
+ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos
 
-nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų
+vykdymo), nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros
 
-laikotarpiais, taip pat pirmaisiais vaiko auginimo metais, kai vaiko priežiūros
+atostogų laikotarpiais, taip pat pirmaisiais vaiko auginimo metais, kai vaiko
 
-atostogos nutraukiamos dėl grįžimo į tarnybą, ar antraisiais vaiko auginimo
+priežiūros atostogos nutraukiamos dėl grįžimo į tarnybą, ar antraisiais vaiko
 
-metais, kai vaiko priežiūros atostogos nesuteiktos arba nutrauktos, pareigūnams
+auginimo metais, kai vaiko priežiūros atostogos nesuteiktos arba nutrauktos,
 
-mokamos vidutinio jų darbo užmokesčio arba jo dalies dydžio išmokos,
+pareigūnams mokamos vidutinio jų darbo užmokesčio arba jo dalies dydžio išmokos,
 
 neviršijančios maksimalaus kompensuojamojo uždarbio. Šių išmokų dydžiai,
 
-maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi
+maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis
 
-vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo
 
-įstatymo nuostatomis. Laikinojo nedarbingumo dėl nelaimingo atsitikimo darbe
+nuostatomis. Laikinojo nedarbingumo dėl nelaimingo atsitikimo darbe
 
 (tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat
 
@@ -2404,6 +2474,10 @@ Nr. XI-1719,
 Nr. XII-119,
 
 2012-12-20, Žin., 2012, Nr. 155-7997 (2012-12-31)
+
+Nr. XII-520,
+
+2013-09-19, Žin., 2013, Nr. 102-5029 (2013-09-28)
 
 Nr. XI-986,
 
@@ -2527,9 +2601,11 @@ pareigūnus iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos į
 
 12 straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
 
-straipsnio 1 dalies 6 punkto, 2 dalies 3, 4, 5 arba 7 punkto nustatytais pagrindais,
+straipsnio 1 dalies 6 punkto, 2 dalies 3, 4, 5 arba 7 punkto nustatytais
 
-išmokama dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė pašalpa.
+pagrindais, išmokama dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė
+
+pašalpa.
 
 2. Šio straipsnio 1 dalyje
 
@@ -2664,184 +2740,6 @@ SKIRSNIS
 BAIGIAMOSIOS
 
 NUOSTATOS
-
-36
-
-straipsnis. Pereinamojo laikotarpio nuostatos
-
-Specialiųjų
-
-tyrimų tarnybos pareigūnų turimi pareiginiai laipsniai prilyginami šio Statuto
-
-19 straipsnyje numatytiems tarnybiniams rangams.
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. X-121, 2005-02-15,
-
-Žin., 2005, Nr. 28-873 (2005-02-26)
-
-SPECIALIŲJŲ TYRIMŲ TARNYBOS
-
-STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis įstatymas įsigalioja
-
-nuo 2005 m. kovo 1 d.
-
-Jeigu pareigūnams,
-
-esantiems vaiko priežiūros, kol jam sueis vieni metai, atostogose, pagal šio
-
-įstatymo nuostatas apskaičiuota 70 procentų vidutinio jų darbo užmokesčio suma
-
-yra mažesnė nei mokėta iki šio įstatymo įsigaliojimo, toliau mokama anksčiau
-
-nustatyto dydžio suma.
-
-2.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. X-441, 2005-12-13,
-
-Žin., 2005, Nr. 149-5418 (2005-12-22)
-
-SPECIALIŲJŲ TYRIMŲ TARNYBOS
-
-STATUTO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-664,
-
-2006-06-08, Žin., 2006, Nr. 72-2680 (2006-06-28)
-
-SPECIALIŲJŲ TYRIMŲ TARNYBOS
-
-STATUTO 29 IR 30 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2006 m. liepos 1 d.
-
-Įsigaliojus šiam įstatymui,
-
-Specialiųjų tyrimų tarnybos pareigūnams, esantiems vaiko priežiūros, kol jam
-
-sueis vieni metai, atostogose, apskaičiuotos sumos perskaičiuojamos
-
-vadovaujantis šio įstatymo nuostatomis ir mokamos nuo šio įstatymo nuostatų
-
-įsigaliojimo dienos.
-
-4.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. X-758, 2006-07-11,
-
-Žin., 2006, Nr. 82-3257 (2006-07-27)
-
-SPECIALIŲJŲ TYRIMŲ TARNYBOS
-
-STATUTO 2, 8, 11, 19, 21, 30, 32, 35 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-
-ĮSTATYMAS
-
-Šis įstatymas įsigalioja nuo 2006
-
-m. rugsėjo 1 d.
-
-5.
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. X-1340,
-
-2007-12-04, Žin., 2007, Nr. 132-5348 (2007-12-15)
-
-SPECIALIŲJŲ TYRIMŲ TARNYBOS
-
-STATUTO 30 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-Šis įstatymas įsigalioja 2008 m. sausio 1 d.
-
-Įsigaliojus šiam įstatymui,
-
-Specialiųjų tyrimų tarnybos pareigūnams iki tol mokamas vidutinis darbo
-
-užmokestis pagal Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 30
-
-straipsnio 6 dalį, vadovaujantis šio įstatymo nuostatomis, atitinkamai
-
-perskaičiuojamas, padidinamas ir (ar) pratęsiamas jo mokėjimo laikotarpis.
-
-Vaiko priežiūros atostogose
-
-esantiems Specialiųjų tyrimų tarnybos pareigūnams (nepaisant to, ar vaiko
-
-priežiūros atostogos tęsiamos, ar suteikiamos iš naujo), kuriems vidutinio
-
-darbo užmokesčio mokėjimo laikas buvo pasibaigęs, nes vaikui (vaikams) suėjo
-
-vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams)
-
-dar nėra suėję dveji metai.
-
-6.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-X-1620,
-
-2008-06-17, Žin., 2008, Nr. 74-2866 (2008-06-30)
-
-SPECIALIŲJŲ
-
-TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šis įstatymas įsigalioja 2008 m. liepos 1 d.
-
-7.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-XI-364,
-
-2009-07-17, Žin., 2009, Nr. 91-3919 (2009-07-31)
-
-SPECIALIŲJŲ
-
-TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-Šio įstatymo
 
 35 straipsnis
 
