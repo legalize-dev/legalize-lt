@@ -4,7 +4,7 @@ identifier: "TAR.DD80CF948782"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2013-07-23"
+last_updated: "2013-10-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782"
 department: "Lietuvos Respublikos Seimas"
@@ -777,9 +777,7 @@ priežiūros paslaugas, veiklą pagal savo kompetenciją koordinuoja Valstybinė
 
 visuomenės sveikatos priežiūros tarnyba.
 
-15 straipsnis. Visuomenės
-
-sveikatos centrų apskrityse kompetencija
+15 straipsnis. Visuomenės sveikatos centrų apskrityse kompetencija
 
 Visuomenės
 
@@ -951,61 +949,7 @@ kitas visuomenės sveikatos priežiūros viešojo administravimo funkcijas, kuri
 
 reglamentuoja šis ir kiti įstatymai bei teisės aktai.
 
-Straipsnio pakeitimai:
-
-Nr. X-1150,
-
-2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
-
-Nr. XI-792,
-
-2010-04-29, Žin., 2010, Nr. 57-2809 (2010-05-18)
-
-Nr. XI-1757,
-
-2011-12-01, Žin., 2011, Nr. 153-7194 (2011-12-15)
-
-Nr. XII-408,
-
-2013-06-27, Žin., 2013, Nr. 76-3825 (2013-07-16)
-
-151
-
-straipsnis. Visuomenės sveikatos priežiūrą reglamentuojančių teisės aktų
-
-aiškinimas ir
-
-konsultacijų teikimas
-
-1. Apibendrintus
-
-visuomenės sveikatos priežiūros veiklą reglamentuojančių teisės aktų taikymo
-
-visuomenės sveikatos priežiūros veiklos klausimais išaiškinimus teikia ir
-
-skelbia Sveikatos apsaugos ministerija jos nustatyta tvarka.
-
-2. Konsultacijos
-
-visuomenės sveikatos priežiūros veiklos klausimais Viešojo administravimo
-
-įstatymo 363 straipsnio pagrindu teikiamos Sveikatos apsaugos
-
-ministerijos nustatyta tvarka.
-
-Papildyta straipsniu:
-
-Nr. XI-1757,
-
-2011-12-01, Žin., 2011, Nr. 153-7194 (2011-12-15)
-
-Trečiasis
-
-skirsnis
-
-VALSTYBINIS
-
-VISUOMENĖS SVEIKATOS PRIEŽIŪROS REGULIAVIMAS
+15 straipsnio redakcija nuo 2014-01-01
 
 16 straipsnis.
 
@@ -1481,13 +1425,15 @@ leidimo-higienos paso galiojimo panaikinimo fizinis,
 
 juridinis asmuo ar filialas per 6 mėnesius nuo leidimo-higienos paso galiojimo sustabdymo nepateikė įrodymų dėl trūkumų
 
-ir (ar) pažeidimų, dėl kurių buvo priimtas sprendimas sustabdyti leidimo-higienos
+ir (ar) pažeidimų, dėl kurių buvo priimtas sprendimas sustabdyti
 
-paso galiojimą, tinkamo pašalinimo ir nesikreipė į leidimus-higienos pasus išduodančią
+leidimo-higienos paso galiojimą, tinkamo pašalinimo
 
-instituciją dėl leidimo-higienos paso
+ir nesikreipė į leidimus-higienos pasus
 
-galiojimo sustabdymo panaikinimo arba kreipėsi, tačiau įvertinus pateiktus
+išduodančią instituciją dėl leidimo-higienos
+
+paso galiojimo sustabdymo panaikinimo arba kreipėsi, tačiau įvertinus pateiktus
 
 dokumentus ir atlikus ūkinės komercinės veiklos vykdymo sąlygų vertinimą buvo priimtas sprendimas atsisakyti panaikinti leidimo-higienos paso
 
@@ -1713,9 +1659,9 @@ veiklai, kuriai nustatomos sanitarinės apsaugos zonos, sanitarinės apsaugos
 
 zonos ribų dydžius nustato Vyriausybė. Pastatams, kuriuose laikomi ūkiniai
 
-gyvūnai (iki 300 sutartinių gyvulių), su esančiais prie jų mėšlo ir srutų kaupimo
+gyvūnai (iki 300 sutartinių gyvulių), su esančiais prie jų mėšlo ir srutų
 
-įrenginiais arba be jų, sanitarinės apsaugos zonos nenustatomos. Planuojamos
+kaupimo įrenginiais arba be jų, sanitarinės apsaugos zonos nenustatomos. Planuojamos
 
 ūkinės veiklos poveikio visuomenės sveikatai vertinimo ar planuojamos ūkinės
 
@@ -1761,7 +1707,9 @@ kaip laikomasi sanitarinės apsaugos zonų nustatymo ir zonoms nustatytų
 
 reikalavimų, pagal kompetenciją vykdo savivaldybių institucijos, Sveikatos
 
-apsaugos ministerijos įgaliotos institucijos ir kitos valstybės valdymo institucijos.
+apsaugos ministerijos įgaliotos institucijos ir kitos valstybės valdymo
+
+institucijos.
 
 Straipsnio pakeitimai:
 
@@ -1897,13 +1845,13 @@ Nr. XII-464, 2013-07-02,
 
 svarbi veikla
 
-Epidemiologiškai svarbias veiklos sritis, kuriose, nesilaikant nustatytų
+Epidemiologiškai svarbias veiklos sritis, kuriose, nesilaikant
 
-higienos reikalavimų, galėtų kilti pavojus užsikrėsti užkrečiamosiomis ligomis
+nustatytų higienos reikalavimų, galėtų kilti pavojus užsikrėsti
 
-bei atsirastų neinfekcinių ligų protrūkiai, nustato Sveikatos apsaugos
+užkrečiamosiomis ligomis bei atsirastų neinfekcinių ligų protrūkiai, nustato
 
-ministerija.
+Sveikatos apsaugos ministerija.
 
 trečiasis skirsnis
 
@@ -2165,19 +2113,19 @@ VISUOMENĖS SVEIKATAI VERTINIMAS
 
 Planuojamos ūkinės veiklos poveikio visuomenės sveikatai vertinimas
 
-1. Atliekant planuojamos ūkinės veiklos poveikio
+1. Atliekant planuojamos ūkinės veiklos poveikio visuomenės
 
-visuomenės sveikatai vertinimą, nustatomas visuomenės sveikatai darančių įtaką
+sveikatai vertinimą, nustatomas visuomenės sveikatai darančių įtaką veiksnių
 
-veiksnių galimas poveikis visuomenės sveikatai.
+galimas poveikis visuomenės sveikatai.
 
 2. Planuojamos
 
 ūkinės veiklos poveikio visuomenės sveikatai vertinimas atliekamas Planuojamos
 
-ūkinės veiklos poveikio aplinkai vertinimo įstatyme ir kituose teisės aktuose nustatyta
+ūkinės veiklos poveikio aplinkai vertinimo įstatyme ir kituose teisės aktuose
 
-tvarka.
+nustatyta tvarka.
 
 3. Planuojamos ūkinės veiklos poveikio visuomenės sveikatai vertinimo metodinius nurodymus tvirtina sveikatos apsaugos ministras.
 
@@ -2211,11 +2159,11 @@ ekspertizę Vyriausybės nustatytais atvejais ir tvarka atlieka Vyriausybės
 
 įgaliotos valstybės įstaigos.
 
-3. Visuomenės sveikatos saugos ekspertizės išvados teikiamos kompetentingoms
+3. Visuomenės sveikatos saugos ekspertizės išvados teikiamos
 
-valstybės ir savivaldybių institucijoms, o šios jas išnagrinėja ir prireikus
+kompetentingoms valstybės ir savivaldybių institucijoms, o šios jas išnagrinėja
 
-imasi atitinkamų priemonių.
+ir prireikus imasi atitinkamų priemonių.
 
 4. Vyriausybės nustatyta tvarka ir atvejais visuomenės sveikatos saugos
 
@@ -2241,7 +2189,9 @@ Visuomenės
 
 sveikatos požiūriu taip pat vertinami standartų, techninių dokumentų, galinčių
 
-turėti įtakos visuomenės sveikatos veiksnių atsiradimui, buvimui ir mastui, projektai.
+turėti įtakos visuomenės sveikatos veiksnių atsiradimui, buvimui ir mastui,
+
+projektai.
 
 TREČIASIS
 
@@ -2403,9 +2353,9 @@ sveikatos priežiūros veiklos auditas
 
 Valstybinį
 
-visuomenės sveikatos priežiūros veiklos auditą vykdo Sveikatos apsaugos ministerija
+visuomenės sveikatos priežiūros veiklos auditą vykdo Sveikatos apsaugos
 
-arba jos įgaliota įstaiga Vyriausybės nustatyta tvarka.
+ministerija arba jos įgaliota įstaiga Vyriausybės nustatyta tvarka.
 
 Straipsnio pakeitimai
 
@@ -2529,9 +2479,9 @@ nustatytus reikalavimus. Visuomenės sveikatos priežiūros veiklos licencija
 
 neišduodama, jeigu juridinis asmuo ar filialas nepateikia visų reikiamų
 
-dokumentų, neatitinka šios dalies 1 ir 2 punktuose nustatytų reikalavimų ir
+dokumentų, neatitinka šios dalies 1 ir 2 punktuose nustatytų reikalavimų ir (ar)
 
-(ar) neįvykdė kitų Nuostatuose nurodytų sąlygų. Juridinis asmuo ar filialas,
+neįvykdė kitų Nuostatuose nurodytų sąlygų. Juridinis asmuo ar filialas,
 
 norintis gauti Visuomenės sveikatos priežiūros veiklos licenciją, turi atitikti
 
@@ -2553,31 +2503,31 @@ atitiktų Nuostatuose nustatytus kvalifikacinius reikalavimus asmenims,
 
 siekiantiems verstis atitinkamos rūšies visuomenės sveikatos priežiūros veikla.
 
-5. Iš fizinio, juridinio asmens ar filialo nereikalaujama įvykdyti šio
+5. Iš fizinio, juridinio asmens ar filialo nereikalaujama įvykdyti šio straipsnio
 
-straipsnio 3 ir 4 dalyse nurodytų reikalavimų ar sąlygų, jeigu per Nuostatuose
+3 ir 4 dalyse nurodytų reikalavimų ar sąlygų, jeigu per Nuostatuose nustatytą
 
-nustatytą terminą nustatoma, kad tokius pačius ar iš esmės panašius
+terminą nustatoma, kad tokius pačius ar iš esmės panašius reikalavimus ar
 
-reikalavimus ar sąlygas jis yra įvykdęs kitoje Europos Sąjungos valstybėje
+sąlygas jis yra įvykdęs kitoje Europos Sąjungos valstybėje narėje ir jų
 
-narėje ir jų laikosi. Fiziniam, juridiniam asmeniui ar filialui kitoje valstybėje
+laikosi. Fiziniam, juridiniam asmeniui ar filialui kitoje valstybėje narėje
 
-narėje išduota licencija ar kitas dokumentas, suteikiantis teisę verstis
+išduota licencija ar kitas dokumentas, suteikiantis teisę verstis atitinkamos
 
-atitinkamos rūšies visuomenės sveikatos priežiūros veikla, yra pripažįstami
+rūšies visuomenės sveikatos priežiūros veikla, yra pripažįstami Lietuvos
 
-Lietuvos Respublikoje, jeigu per Nuostatuose nurodytą terminą nustatoma, kad jo
+Respublikoje, jeigu per Nuostatuose nurodytą terminą nustatoma, kad jo turimos
 
-turimos licencijos ar kito dokumento, suteikiančio teisę verstis atitinkamos
+licencijos ar kito dokumento, suteikiančio teisę verstis atitinkamos rūšies
 
-rūšies visuomenės sveikatos priežiūros veikla, išdavimo sąlygos ir reikalavimai
+visuomenės sveikatos priežiūros veikla, išdavimo sąlygos ir reikalavimai yra
 
-yra tokie patys ar iš esmės panašūs į šio Įstatymo 43 straipsnyje nustatytus
+tokie patys ar iš esmės panašūs į šio Įstatymo 43 straipsnyje nustatytus Visuomenės
 
-Visuomenės sveikatos priežiūros veiklos licencijos išdavimo sąlygas ir
+sveikatos priežiūros veiklos licencijos išdavimo sąlygas ir reikalavimus,
 
-reikalavimus, keliamus atitinkamai veiklos rūšiai.
+keliamus atitinkamai veiklos rūšiai.
 
 6. Licencija patikslinama išduodant naują licenciją, jeigu pasikeičia
 
@@ -2687,9 +2637,9 @@ laikui.
 
 11. Sveikatos
 
-apsaugos ministro įsakymu nustatomas minimalus asmenų, kurie gali vykdyti
+apsaugos ministro įsakymu nustatomas minimalus asmenų, kurie gali vykdyti kenkėjų
 
-kenkėjų kontrolės (dezinfekcijos, dezinsekcijos, deratizacijos) veiklą,
+kontrolės (dezinfekcijos, dezinsekcijos, deratizacijos) veiklą,
 
 skaičius, jeigu tai yra būtina, siekiant užtikrinti kenkėjų
 
@@ -2795,17 +2745,17 @@ formos yra šios:
 
 turinčių leidimus šiam darbui, organizuoti kursai ir seminarai;
 
-2) aukštųjų mokyklų
+2) aukštųjų
 
-ir visuomenės sveikatos priežiūros specialistų mokslo draugijų organizuojamos
+mokyklų ir visuomenės sveikatos priežiūros specialistų mokslo draugijų
 
-mokslinės ir mokslinės praktinės konferencijos;
+organizuojamos mokslinės ir mokslinės praktinės konferencijos;
 
 3) įstaigų ir
 
-įmonių pagal sutartis su Lietuvos ir užsienio studijų institucijomis
+įmonių pagal sutartis su Lietuvos ir užsienio studijų institucijomis organizuoti
 
-organizuoti teorinio ir praktinio tobulinimosi kursai ir seminarai;
+teorinio ir praktinio tobulinimosi kursai ir seminarai;
 
 4) visuomenės
 
@@ -2973,13 +2923,27 @@ VISUOMENĖS SVEIKATOS PRIEŽIŪROS ĮSTATYMO
 
 2014 m. spalio 1 d.
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-532,
+
+2013-10-03, Žin., 2013, Nr. 107-5277 (2013-10-12)
+
+VISUOMENĖS SVEIKATOS PRIEŽIŪROS ĮSTATYMO
+
+15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas, išskyrus 2 straipsnio 2
+
+dalį, įsigalioja 2014 m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo Aušrinė Trapinskienė
+Redagavo Aušra Bodin (2013-10-15)
 
-(2013-07-29)
-
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
 
 5 straipsnis. Visuomenės sveikatos
 
