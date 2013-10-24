@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2013-07-01"
+last_updated: "2013-10-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -2969,9 +2969,9 @@ mėnesinį vartojimo vidurkį šaltuoju metų periodu. Šaltuoju metų periodu
 
 laikomas laikotarpis nuo lapkričio 1 dienos iki kovo 31 dienos imtinai.
 
-30 straipsnis. Energijos
+30 straipsnis.
 
-apskaita
+Energijos apskaita
 
 1. Pagaminta, perduodama, skirstoma, parduodama,
 
@@ -3089,53 +3089,9 @@ kurių vardinė (nominali) šiluminė galia didesnė kaip 0,4 MW, nustatyta tvar
 
 tikrina šių įrenginių energijos išteklių vartojimo efektyvumą.
 
-5. Atitiktis
+5. Neteko galios
 
-nustatytiems energijos vartojimo efektyvumo reikalavimams tikrinama:
-
-1) pastatuose
-
-įrengtų šildymo katilų, naudojančių neatsinaujinantį kietąjį ar skystąjį kurą,
-
-kurių vardinė atiduodamoji galia yra nuo 20 kW iki 100 kW, – kartą per trejus
-
-metus;
-
-2) pastatuose
-
-įrengtų šildymo katilų, naudojančių neatsinaujinantį kietąjį ar skystąjį kurą,
-
-kurių vardinė atiduodamoji galia yra didesnė kaip 100 kW, – kartą per dvejus
-
-metus;
-
-3) šildymo
-
-sistemų, kuriose įrengti 20 kW ir didesnės vardinės atiduodamosios galios
-
-šildymo katilai, naudojantys neatsinaujinantį kietąjį ar skystąjį kurą, – vieną
-
-kartą, kai šildymo sistemoje įrengto katilo tikrinimo pagal šios dalies 1 ir 2
-
-punktų reikalavimus metu nuo šio katilo pagaminimo yra praėję daugiau kaip
-
-penkiolika metų;
-
-4) pastatuose įrengtų didesnės kaip 12 kW
-
-vardinės atiduodamosios galios oro kondicionavimo sistemų – kartą per trejus
-
-metus.
-
-Pastaba.
-
-27 straipsnio 5 dalis netenka galios 2013 m. liepos 9 d. 27 straipsnio 5 dalies
-
-nuostatos nuo 2013 m. sausio 9 d. taikomos tikrinant visų pastatų, išskyrus
-
-viešosios paskirties pastatus, atitiktį nustatytiems energijos vartojimo
-
-efektyvumo reikalavimams.
+2013 m. liepos 9 d.
 
 6. Nuo
 
@@ -3162,12 +3118,6 @@ rečiau kaip kartą per ketverius metus;
 įrengtų didesnės kaip 12 kW vardinės atiduodamosios galios oro kondicionavimo
 
 sistemų – kartą per trejus metus.
-
-Pastaba.
-
-27 straipsnio 6
-
-dalis įsigalioja 2013 m. sausio 9 d.
 
 7. Šio
 
@@ -3211,11 +3161,11 @@ tinkamai pasirengę atlikti jiems pavestas užduotis. Energetikos objektus,
 
 įrenginius statančių ir eksploatuojančių darbuotojų ir energijos vartojimo
 
-auditą atliekančių specialistų kvalifikacijos tobulinimo reikalavimus ir atestavimo
+auditą atliekančių specialistų kvalifikacijos tobulinimo reikalavimus ir
 
-tvarką nustato Energetikos ministerija, vadovaudamasi šiame straipsnyje
+atestavimo tvarką nustato Energetikos ministerija, vadovaudamasi šiame
 
-nustatytais darbuotojų kvalifikaciniais reikalavimais ir atestavimo
+straipsnyje nustatytais darbuotojų kvalifikaciniais reikalavimais ir atestavimo
 
 bendraisiais reikalavimais.
 
@@ -3241,19 +3191,19 @@ specialistams, nustato Energetikos ministerija.
 
 svarbos energetikos objektus eksploatuojančių energetikos įmonių vadovai ar jų
 
-įgalioti asmenys, kurie tiesiogiai vadovauja energetikos įrenginių
+įgalioti asmenys, kurie tiesiogiai vadovauja energetikos įrenginių eksploatavimo
 
-eksploatavimo veiklai, privalo turėti atitinkamos energetikos srities aukštąjį
+veiklai, privalo turėti atitinkamos energetikos srities aukštąjį universitetinį
 
-universitetinį ar jam prilygintą išsilavinimą, ne mažesnį kaip trejų metų darbo
+ar jam prilygintą išsilavinimą, ne mažesnį kaip trejų metų darbo stažą
 
-stažą energetikos veiklos srityje, taip pat turi periodiškai tobulinti
+energetikos veiklos srityje, taip pat turi periodiškai tobulinti kvalifikaciją,
 
-kvalifikaciją, išmanyti norminių teisės aktų, reglamentuojančių energetikos
+išmanyti norminių teisės aktų, reglamentuojančių energetikos įrenginių
 
-įrenginių įrengimo, eksploatavimo, techninės saugos, energetikos objektų
+įrengimo, eksploatavimo, techninės saugos, energetikos objektų priešgaisrinės
 
-priešgaisrinės saugos taisykles, reikalavimus.
+saugos taisykles, reikalavimus.
 
 4. Energetikos
 
@@ -3283,6 +3233,102 @@ energijos vartojimo auditą atliekančių specialistų mokymosi programas turi b
 
 įtraukti ir efektyvaus energijos bei energijos išteklių vartojimo klausimai.
 
+29
+
+straipsnis. Energijos išteklių rezervinės atsargos
+
+1. Energetikos
+
+įmonės, kurių
+
+šilumos ir (ar) elektros energijos gamybos įrenginių bendra galia yra didesnė kaip 5 MW ir kurios gamina
+
+parduoti skirtą šilumos ir (ar) elektros energiją, privalo turėti energijos
+
+išteklių rezervinių atsargų šaltuoju metų periodu. Ši nuostata netaikoma
+
+energetikos įmonėms, kuriose elektros energija
+
+gaminama naudojant išteklių rūšis, kurių dėl gamybos šaltinių techninių
+
+ypatybių nėra galimybės kaupti ar palaikyti: saulės energija, vėjo energija,
+
+hidroenergija, geoterminė energija ar energijai gaminti tinkamos
+
+pramoninės ir (ar) komunalinės atliekos, kai atliekas
+
+deginančios jėgainės technologija neleidžia atskirai deginti kitos rūšies kurą.
+
+Energetikos įmonės, šilumos gamybai naudojančios energijos išteklių rūšis,
+
+kurių dėl gamybos šaltinių techninių ypatybių nėra galimybės kaupti ar
+
+palaikyti: geoterminė energija ar energijai gaminti tinkamos pramoninės
+
+ir (ar) komunalinės atliekos, kai atliekas deginančios
+
+jėgainės technologija neleidžia atskirai deginti kitos rūšies kurą, privalo
+
+sudaryti sutartį su kita toje pačioje aprūpinimo šiluma sistemoje veikiančia
+
+šilumos gamybos įmone dėl šilumos kiekio, reikalingo sutrikus kuro tiekimui,
+
+gamybos šio straipsnio 3 dalyje nurodytu laikotarpiu ir atitinkamų rezervinių
+
+atsargų kaupimo bei saugojimo.
+
+2. Energijos išteklių rezervinės atsargos kaupiamos, laikomos,
+
+atnaujinamos energetikos įmonių, kurios privalo turėti energijos išteklių
+
+rezervinių atsargų, lėšomis. Tuo atveju, kai energetikos įmonės privalo
+
+sudaryti sutartį su kita toje pačioje aprūpinimo šiluma sistemoje veikiančia
+
+šilumos gamybos įmone pagal šio straipsnio 1 dalį, atitinkamų rezervinių
+
+atsargų kaupimo bei saugojimo sąnaudos šiai šilumos gamybos įmonei atlyginamos
+
+sutartyje nustatyta tvarka.
+
+3. Energijos išteklių rezervinių atsargų kiekis šaltuoju metų
+
+periodu turi būti ne mažesnis, negu energetikos įmonės vidutiniškai suvartoja
+
+per 10 kalendorinių dienų, skaičiuojant pagal trejų praėjusių kalendorinių metų
+
+10 kalendorinių dienų vartojimo vidurkį šaltuoju metų periodu. Šaltuoju metų
+
+periodu laikomas laikotarpis nuo lapkričio 1 dienos iki kovo 31 dienos
+
+imtinai.
+
+4. Šiltuoju metų laikotarpiu (nuo balandžio 1 dienos iki spalio 31
+
+dienos imtinai) energijos išteklių rezervinių atsargų poreikį ir kiekį nustato
+
+energetikos įmonės.
+
+Pastaba. 29 straipsnio 1 dalyje nustatytas įpareigojimas
+
+energetikos įmonėms, kurios šilumos gamybai naudoja
+
+energijos išteklių rūšis, kurių dėl gamybos šaltinių techninių ypatybių nėra
+
+galimybės kaupti ar palaikyti, sudaryti sutartis su kita toje pačioje
+
+aprūpinimo šiluma sistemoje veikiančia šilumos gamybos įmone taikytinas nuo
+
+2014 m. sausio 1 d. (įstatymas Nr. XII-554)
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XII-554,
+
+2013-10-15, Žin., 2013, Nr. 111-5490 (2013-10-24)
+
 31 straipsnis. Duomenų
 
 saugojimas
@@ -3305,15 +3351,17 @@ elektros energijos ar dujų rinkos išvestines finansines priemones, duomenis.
 
 sudaro išsamūs sandorių
 
-su vartotojais duomenys, tarp jų sandorių galiojimo terminai, tiekimo ir apmokėjimo
+su vartotojais duomenys, tarp jų sandorių galiojimo terminai, tiekimo ir
 
-sąlygos, šalių įsipareigojimai, sandorio vykdymo datos ir terminai, sandorio
+apmokėjimo sąlygos, šalių įsipareigojimai, sandorio vykdymo datos ir terminai,
 
-kainos, atitinkamo didmeninio vartotojo identifikavimo priemonės, taip pat
+sandorio kainos, atitinkamo didmeninio vartotojo identifikavimo priemonės, taip
 
-išsami informacija apie visas neįvykdytas elektros energijos ar dujų tiekimo
+pat išsami informacija apie visas neįvykdytas elektros energijos ar dujų
 
-sutartis ir elektros energijos ar dujų rinkos išvestines finansines priemones.
+tiekimo sutartis ir elektros energijos ar dujų rinkos išvestines finansines
+
+priemones.
 
 3. Komisija gali nuspręsti tam tikrą iš energetikos įmonių gautos
 
@@ -3467,15 +3515,15 @@ teisės aktuose nenustatyta kitaip.
 
 9. Paskelbus
 
-ekstremaliąją energetikos padėtį, Vyriausybė ar jos įgaliotos valstybės
+ekstremaliąją energetikos padėtį, Vyriausybė ar jos įgaliotos valstybės institucijos
 
-institucijos turi teisę reguliuoti naftos, naftos produktų, energijos,
+turi teisę reguliuoti naftos, naftos produktų, energijos, energijos išteklių
 
-energijos išteklių eksportą, importą, prekybą, kontroliuoti ir, atsižvelgdamos
+eksportą, importą, prekybą, kontroliuoti ir, atsižvelgdamos į rinkos sąlygas,
 
-į rinkos sąlygas, apriboti naftos produktų, parduodamos energijos, energijos
+apriboti naftos produktų, parduodamos energijos, energijos išteklių ir teikiamų
 
-išteklių ir teikiamų paslaugų kainas, jeigu jos yra nepagrįstai didinamos.
+paslaugų kainas, jeigu jos yra nepagrįstai didinamos.
 
 10. Paskelbus
 
@@ -3553,15 +3601,15 @@ ribojimo.
 
 3. Komisija išankstine privaloma skundų ir ginčų
 
-nagrinėjimo ne teisme tvarka nagrinėja vartotojų ir energetikos įmonių
+nagrinėjimo ne teisme tvarka nagrinėja vartotojų ir energetikos įmonių skundus
 
-skundus ir ginčus dėl energetikos įmonių veiklos ar neveikimo tiekiant,
+ir ginčus dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant,
 
-skirstant, perduodant, laikant energiją, dėl teisės energetikos įmonėms
+perduodant, laikant energiją, dėl teisės energetikos įmonėms pasinaudoti
 
-pasinaudoti tinklais ir sistemomis nesuteikimo, dėl prisijungimo, energijos ir
+tinklais ir sistemomis nesuteikimo, dėl prisijungimo, energijos ir energijos
 
-energijos išteklių tiekimo srautų balansavimo, kainų ir tarifų taikymo.
+išteklių tiekimo srautų balansavimo, kainų ir tarifų taikymo.
 
 4. Vartotojų
 
@@ -3615,9 +3663,9 @@ yra sudariusios susitarimą perduoti tą ginčą spręsti arbitražui ir atsakov
 
 prieštarauja, kad ginčą nagrinėtų skundus ir ginčus nagrinėjanti institucija,
 
-ir reikalauja laikytis arbitražo susitarimo, išskyrus ginčus, kurie pagal
+ir reikalauja laikytis arbitražo susitarimo, išskyrus ginčus, kurie pagal įstatymus
 
-įstatymus negali būti nagrinėjami arbitraže;
+negali būti nagrinėjami arbitraže;
 
 5) asmens
 
@@ -3699,11 +3747,11 @@ vartotojų ir energetikos įmonių skundus ir ginčus, ginčo šalys, kiti
 
 suinteresuoti asmenys ir asmenys, dalyvaujantys nagrinėjant skundą ar ginčą,
 
-turi teisę susipažinti su skundo ar ginčo nagrinėjimo medžiaga, išskyrus medžiagą,
+turi teisę susipažinti su skundo ar ginčo nagrinėjimo medžiaga, išskyrus
 
-kuri yra valstybės, tarnybos ar komercinė kitų asmenų paslaptis arba kurią
+medžiagą, kuri yra valstybės, tarnybos ar komercinė kitų asmenų paslaptis arba
 
-atskleidus būtų pažeista fizinio asmens teisė į privataus gyvenimo
+kurią atskleidus būtų pažeista fizinio asmens teisė į privataus gyvenimo
 
 neliečiamumą. Ginčo šalis visada turi teisę susipažinti su prašymo nagrinėti
 
@@ -3781,9 +3829,9 @@ dėl ginčo ne vėliau kaip per keturis mėnesius nuo prašymo nagrinėti ginč�
 
 priėmimo, išskyrus atvejus, kai dėl išimtinių aplinkybių (pavyzdžiui, daug
 
-įrodymų, sudėtingos ginčo aplinkybės) skundui ar ginčui nagrinėti reikia ilgesnio
+įrodymų, sudėtingos ginčo aplinkybės) skundui ar ginčui nagrinėti reikia
 
-laiko.
+ilgesnio laiko.
 
 13. Vartotojų
 
@@ -3791,11 +3839,13 @@ ir energetikos įmonių skundus ir ginčus nagrinėjančios institucijos sprendi
 
 įsigalioja ir yra privalomas vykdyti pasibaigus šio straipsnio 16 dalyje
 
-nustatytam terminui. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjančios
+nustatytam terminui. Vartotojų ir energetikos įmonių skundus ir ginčus
 
-institucijos, nagrinėjusios skundą ar ginčą, priimtas procedūrinis sprendimas
+nagrinėjančios institucijos, nagrinėjusios skundą ar ginčą, priimtas
 
-įsigalioja ir yra privalomas vykdyti nuo jo priėmimo dienos.
+procedūrinis sprendimas įsigalioja ir yra privalomas vykdyti nuo jo priėmimo
+
+dienos.
 
 14. Vartotojų
 
@@ -3805,11 +3855,11 @@ dėl skundo ar ginčo yra viešas, kiek tai nepažeidžia valstybės, tarnybos,
 
 komercinės paslapties ar fizinio asmens privataus gyvenimo apsaugos. Skundus ir
 
-ginčus nagrinėjančios institucijos patvirtintose skundų ir ginčų nagrinėjimo
+ginčus nagrinėjančios institucijos patvirtintose skundų ir ginčų nagrinėjimo taisyklėse
 
-taisyklėse nustatyta tvarka, kuria skundo ar ginčo šalys ir kiti suinteresuoti
+nustatyta tvarka, kuria skundo ar ginčo šalys ir kiti suinteresuoti asmenys,
 
-asmenys, taip pat asmenys, dalyvavę nagrinėjant skundą ar ginčą, nurodo, kokia
+taip pat asmenys, dalyvavę nagrinėjant skundą ar ginčą, nurodo, kokia
 
 informacija, išdėstyta sprendimo tekste, turėtų būti konfidenciali. Sprendimo
 
@@ -3911,13 +3961,11 @@ už Komisijos įpareigojimų (nurodymų) nutraukti neteisėtą veiklą, pašalin
 
 nustatytus licencijuojamos veiklos sąlygų pažeidimus nevykdymą arba vykdymą ne
 
-laiku, už įsipareigojimų nesilaikymą – nuo vieno tūkstančio litų iki vieno
+laiku, už įsipareigojimų nesilaikymą – nuo vieno tūkstančio litų iki vieno procento
 
-procento energetikos įmonės metinių pajamų, gautų praėjusiais finansiniais
+energetikos įmonės metinių pajamų, gautų praėjusiais finansiniais metais iš
 
-metais iš konkrečios licencijuojamos veiklos, kurią vykdant padarytas
-
-pažeidimas;
+konkrečios licencijuojamos veiklos, kurią vykdant padarytas pažeidimas;
 
 3) už
 
@@ -3953,13 +4001,13 @@ atvejais, kai nesąžiningos konkurencijos veiksmus ar vartotojų nediskriminavi
 
 principų pažeidimą energetikos sektoriuje pagal kompetenciją tiria
 
-Konkurencijos taryba, šių veiksmų tyrimas atliekamas, privalomi nurodymai
+Konkurencijos taryba, šių veiksmų tyrimas atliekamas, privalomi nurodymai energetikos
 
-energetikos įmonėms duodami ir atsakomybė už pažeidimus nustatoma, įskaitant
+įmonėms duodami ir atsakomybė už pažeidimus nustatoma, įskaitant energetikos
 
-energetikos įmonėms taikomas sankcijas, Konkurencijos įstatymo nustatyta tvarka
+įmonėms taikomas sankcijas, Konkurencijos įstatymo nustatyta tvarka ir
 
-ir sąlygomis. Šiuo tikslu Komisija ir Konkurencijos taryba bendradarbiauja
+sąlygomis. Šiuo tikslu Komisija ir Konkurencijos taryba bendradarbiauja
 
 tarpusavyje, siekdamos efektyviai nustatyti nesąžiningos konkurencijos veiksmų
 
@@ -4125,25 +4173,25 @@ eksploatuoti tvarką ir sąlygas, kiek tai neprieštarauja Vyriausybės ar jos
 
 įgaliotos institucijos nustatytiems reikalavimams. Jeigu energetikos įmonė ir
 
-vartotojas nesusitaria dėl energetikos objektų išpirkimo ar perėmimo eksploatuoti
+vartotojas nesusitaria dėl energetikos objektų išpirkimo ar perėmimo
 
-tvarkos ir sąlygų, abiem šalims privalomas vykdyti įpareigojančias sąlygas
+eksploatuoti tvarkos ir sąlygų, abiem šalims privalomas vykdyti įpareigojančias
 
-nustato Komisija, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos
+sąlygas nustato Komisija, vadovaudamasi Vyriausybės ar jos įgaliotos
 
-nustatytais reikalavimais. Valstybei ar savivaldybei nuosavybės teise
+institucijos nustatytais reikalavimais. Valstybei ar savivaldybei nuosavybės
 
-priklausantys bendrai naudojami energetikos objektai, sodininkų bendrijoms ir
+teise priklausantys bendrai naudojami energetikos objektai, sodininkų
 
-(ar) kitiems asmenims nuosavybės teise priklausantys bendrai naudojami
+bendrijoms ir (ar) kitiems asmenims nuosavybės teise priklausantys bendrai
 
-energetikos objektai, skirti energijai perduoti ir (ar) skirstyti, įrengti iki
+naudojami energetikos objektai, skirti energijai perduoti ir (ar) skirstyti,
 
-šio įstatymo įsigaliojimo, gali būti parduoti energetikos įmonei už kainą,
+įrengti iki šio įstatymo įsigaliojimo, gali būti parduoti energetikos įmonei už
 
-nustatomą šalių susitarimu atsižvelgiant į nepriklausomo vertintojo nustatytą
+kainą, nustatomą šalių susitarimu atsižvelgiant į nepriklausomo vertintojo
 
-bendrai naudojamų energetikos objektų vertę sutarties sudarymo metu,
+nustatytą bendrai naudojamų energetikos objektų vertę sutarties sudarymo metu,
 
 vadovaujantis turto ir verslo vertinimą reglamentuojančiais teisės aktais.
 
@@ -4189,9 +4237,9 @@ bešeimininkius energetikos objektus Vyriausybės nustatyta tvarka įtraukia į
 
 apskaitą ir imasi priemonių šių objektų savininkams nustatyti. Vyriausybės
 
-įgaliota institucija arba savivaldybės administracijos direktorius pareiškimą
+įgaliota institucija arba savivaldybės administracijos direktorius pareiškimą dėl
 
-dėl bešeimininkio energetikos objekto perdavimo valstybės arba savivaldybės
+bešeimininkio energetikos objekto perdavimo valstybės arba savivaldybės
 
 nuosavybėn teismui paduoda suėjus keturiems mėnesiams nuo tos dienos, kurią šis
 
@@ -4343,9 +4391,11 @@ energijos vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/54/E
 
 9. 2009 m.
 
-liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų
+liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių
 
-vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB (OL 2009 L 211, p. 94).
+dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB
+
+(OL 2009 L 211, p. 94).
 
 10. 2009 m.
 
@@ -4399,8 +4449,6 @@ m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 2010/31/ES dėl pasta
 
 energinio naudingumo (OL 2010 L 153, p. 13).
 
-________________
-
 Pakeitimai:
 
 1.
@@ -4447,9 +4495,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-X-1108, 2007-05-03,
+X-1108,
 
-Žin., 2007, Nr. 55-2124 (2007-05-19)
+2007-05-03, Žin., 2007, Nr. 55-2124 (2007-05-19)
 
 ENERGETIKOS
 
@@ -4521,9 +4569,9 @@ Nr. XI-1542,
 
 2011-06-28, Žin., 2011, Nr. 91-4319 (2011-07-19)
 
-ENERGETIKOS ĮSTATYMO 18 STRAIPSNIO PAKEITIMO
+ENERGETIKOS ĮSTATYMO 18 STRAIPSNIO
 
-ĮSTATYMAS
+PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja 2011 m. spalio
 
@@ -4595,21 +4643,47 @@ STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 19(1) STRAIPSNIU ĮSTATYMAS
 
 dalį, įsigalioja 2013 m. liepos 1 d.
 
-Pastaba: Energetikos
+Energetikos įmonių nustatytos
 
-įmonių nustatytos centralizuotai tiekiamų suskystintų naftos dujų kainos
+centralizuotai tiekiamų suskystintų naftos dujų kainos galioja iki 2013 m.
 
-galioja iki 2013 m. gruodžio 1 d. Centralizuotai suskystintas naftos dujas
+gruodžio 1 d. Centralizuotai suskystintas naftos dujas vartotojams tiekiančioms
 
-vartotojams tiekiančioms energetikos įmonėms Lietuvos Respublikos energetikos
+energetikos įmonėms Lietuvos Respublikos energetikos įstatymo 30 straipsnio 2
 
-įstatymo 30 straipsnio 2 ir 3 dalių reikalavimai taikomi nuo 2014 m. liepos 1
+ir 3 dalių reikalavimai taikomi nuo 2014 m. liepos 1 d.
 
-d.
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-554,
+
+2013-10-15, Žin., 2013, Nr. 111-5490 (2013-10-24)
+
+ENERGETIKOS ĮSTATYMO 29 STRAIPSNIO
+
+PAKEITIMO ĮSTATYMAS
+
+Šio įstatymo 1 straipsnyje išdėstyto
+
+Lietuvos Respublikos energetikos įstatymo 29 straipsnio 1 dalyje
+
+nustatytas įpareigojimas energetikos įmonėms, kurios
+
+šilumos gamybai naudoja energijos išteklių rūšis, kurių dėl gamybos šaltinių
+
+techninių ypatybių nėra galimybės kaupti ar palaikyti, sudaryti sutartis su
+
+kita toje pačioje aprūpinimo šiluma sistemoje veikiančia šilumos gamybos įmone
+
+taikytinas nuo 2014 m. sausio 1 d.
 
 *** Pabaiga ***
 
-Redagavo Aušra Bodin (2013-07-01)
+Redagavo Aušrinė Trapinskienė
 
-aubodi@lrs.lt
+(2013-10-24)
+
+ausrine.trapinskiene@lrs.lt
 
