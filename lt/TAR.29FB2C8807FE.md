@@ -4,7 +4,7 @@ identifier: "TAR.29FB2C8807FE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "2012-01-01"
+last_updated: "2013-11-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2013-11-08
+Suvestinė redakcija nuo 2013-11-09 iki 2014-12-23
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
 
@@ -528,7 +528,23 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 
 2) įmonės nuosavas kapitalas po į valstybės ar savivaldybės biudžetą sumokėtos įmonės pelno įmokos taptų mažesnis už įmonės savininko kapitalo, privalomojo rezervo ir perkainojimo rezervo sumą.
 
-7. Įmonė pelno įmoką į valstybės ar savivaldybės biudžetą turi pervesti ne vėliau kaip per vieną mėnesį nuo sprendimo paskirstyti pelną priėmimo dienos.
+7. Nuo į valstybės ar savivaldybės biudžetą įmokamų įmonės pelno įmokų mokėjimo atleidžiamos valstybės įmonės, kurios ataskaitiniais finansiniais metais atitinka šias sąlygas:
+
+1) yra išvardytos Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo (toliau – Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymas) 3 straipsnio 1 dalyje kaip strateginę reikšmę nacionaliniam saugumui turinčios valstybės įmonės;
+
+2) valdo, naudoja ir disponuoja strateginę reikšmę nacionaliniam saugumui turinčius valstybei nuosavybės teise priklausančius įrenginius, išvardytus Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 3 straipsnio 2 dalyje;
+
+3) įgyvendina ar dalyvauja įgyvendinant teisės aktu pripažintą ypatingos valstybinės svarbos ar valstybei svarbų ekonominį projektą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-525a, 2013-10-01, Žin., 2013, Nr. 116-5805 (2013-11-09), i. k. 1131010ISTAXII-525A
+
+8. Įmonė pelno įmoką į valstybės ar savivaldybės biudžetą turi pervesti ne vėliau kaip per vieną mėnesį nuo sprendimo paskirstyti pelną priėmimo dienos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-525a, 2013-10-01, Žin., 2013, Nr. 116-5805 (2013-11-09), i. k. 1131010ISTAXII-525A
 
 Straipsnio pakeitimai:
 
@@ -887,4 +903,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr. 20-0 (2012-02-14), i. k. 1111010ISTA0XI-1752
 
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 4, 10, 11, 12, 13, 14, 15, 16, 17 ir 19 straipsnių pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-525a, 2013-10-01, Žin., 2013, Nr. 116-5805 (2013-11-09), i. k. 1131010ISTAXII-525A
+
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 15 straipsnio papildymo ir pakeitimo įstatymas
 
