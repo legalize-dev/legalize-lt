@@ -4,7 +4,7 @@ identifier: "TAR.303FC0152D04"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2013-08-01"
+last_updated: "2013-11-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos reklamos įstatymas
 
-Suvestinė redakcija nuo 2013-08-01 iki 2013-11-22
+Suvestinė redakcija nuo 2013-11-23
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
 
@@ -299,9 +299,21 @@ REIKALAVIMAI ATSKIRŲ PREKIŲ IR PASLAUGŲ REKLAMAI
 
 4. Maisto papildų reklamoje privalo būti nuoroda „Maisto papildas“.
 
-TAR pastaba. 14 straipsnio 4 dalis įsigalioja 2014 m. sausio 1 d.
+5. Draudžiama nurodyti energinius gėrimus kaip rėmėjų gaminius ar kitaip juos reklamuoti:
 
-5. Draudžiama nurodyti energinius gėrimus kaip rėmėjų gaminius ar kitaip juos reklamuoti ugdymo įstaigose, kurias lanko jaunesni kaip 18 metų asmenys.
+1) ugdymo įstaigose, kurias lanko jaunesni kaip 18 metų asmenys;
+
+2) koncertų, sporto, labdaros ir (ar) paramos bei kitų renginių, skirtų asmenims, jaunesniems kaip 18 metų, vietose ir jų reklamoje;
+
+3) teatro spektaklių, kino filmų ir videofilmų, skirtų asmenims, jaunesniems kaip 18 metų, demonstravimo vietose ir jų reklamoje;
+
+4) visuomenės informavimo priemonėse, skirtose asmenims, jaunesniems kaip 18 metų, ir jų reklamoje;
+
+5) akcijose, konkursuose, skirtuose asmenims, jaunesniems kaip 18 metų, ir jų reklamoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-577, 2013-11-07, Žin., 2013, Nr. 120-6049 (2013-11-23), i. k. 1131010ISTA0XII-577
 
 6. Draudžiama energinius gėrimus nemokamai platinti reklamos tikslais jaunesniems kaip 18 metų asmenims.
 
@@ -604,4 +616,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-315, 2013-05-16, Žin., 2013, Nr. 57-2854 (2013-06-01), i. k. 1131010ISTA0XII-315
 
 Lietuvos Respublikos reklamos įstatymo pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-577, 2013-11-07, Žin., 2013, Nr. 120-6049 (2013-11-23), i. k. 1131010ISTA0XII-577
+
+Lietuvos Respublikos reklamos įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas
 
