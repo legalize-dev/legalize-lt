@@ -4,7 +4,7 @@ identifier: "TAR.DEEB2C5600E3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-02-03"
-last_updated: "2012-11-15"
+last_updated: "2013-11-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DEEB2C5600E3"
 department: "Lietuvos Respublikos Seimas"
@@ -5945,11 +5945,11 @@ nagrinėjamu klausimu; nutraukia proceso dalyvius, jeigu jie kalba apie
 
 klausimus, nesusijusius su nagrinėjama byla arba nežinybingus Konstituciniam
 
-Teismui; atima iš kalbėtojų žodį, kai jie savavališkai pradeda kalbėti, kai neįvykdo
+Teismui; atima iš kalbėtojų žodį, kai jie savavališkai pradeda kalbėti, kai
 
-posėdžio pirmininko reikalavimų, kai kalba šiurkščiai ar įžeidžiančiai arba kai
+neįvykdo posėdžio pirmininko reikalavimų, kai kalba šiurkščiai ar įžeidžiančiai
 
-rodo nepagarbą Konstitucijai ar valstybės konstitucinei santvarkai.
+arba kai rodo nepagarbą Konstitucijai ar valstybės konstitucinei santvarkai.
 
 Posėdžio pirmininkas turi
 
@@ -6097,9 +6097,301 @@ Nr. X-1224,
 
 2007-06-26, Žin., 2007, Nr. 77-3056 (2007-07-12)
 
-49
+45 straipsnis. Teisminio posėdžio pirmininkas
 
-straipsnis. Bylos nagrinėjimo atidėjimas
+Teisminiame
+
+posėdyje   pirmininkauja  Konstitucinio  Teismo
+
+pirmininkas,  o
+
+jei  jo  nėra,  jo  pareigas  laikinai  einantis
+
+Konstitucinio
+
+Teismo  teisėjas, o  jei ir jų nėra - Konstitucinio
+
+Teismo išrinktas
+
+teisėjas, tačiau ne teisėjas pranešėjas.
+
+Posėdžio
+
+pirmininkas  vadovauja posėdžiui,  imasi  priemonių
+
+visoms bylos
+
+aplinkybėms visapusiškai,  iki galo  ir objektyviai
+
+ištirti; šalina  iš
+
+proceso visa tai, kas nesusiję su nagrinėjamu
+
+klausimu;
+
+nutraukia  proceso  dalyvius,  jeigu  jie  kalba  apie
+
+klausimus,
+
+nesusijusius  su nagrinėjama  byla arba   nežinybingus
+
+Konstituciniam
+
+Teismui;   atima  iš   kalbėtojų  žodį,  kai  jie
+
+savavališkai
+
+pradeda  kalbėti, kai  neįvykdo posėdžio  pirmininko
+
+reikalavimų, kai
+
+kalba šiurkščiai ar įžeidžiančiai arba kai rodo
+
+nepagarbą
+
+Konstitucijai ar valstybės konstitucinei santvarkai.
+
+Posėdžio
+
+pirmininkas  turi teisę pašalinti iš posėdžių salės
+
+kiekvieną, kas
+
+pažeidžia tvarką  arba neklauso  jo  reikalavimų.
+
+Dalyvaujantį byloje
+
+asmenį galima pašalinti Teismo sprendimu, kai
+
+jo nepaveikia
+
+posėdžio pirmininko įspėjimas.
+
+Posėdžio
+
+pirmininkas   įspėja  esančius   posėdžių   salėje
+
+asmenis, jeigu   jų
+
+elgesys trukdo vesti posėdį, kad pakartotinai
+
+pažeidus tvarką jie
+
+gali būti pašalinti iš salės.
+
+Posėdžio
+
+pirmininkas  skelbia posėdžio  pertrauką,  kai  jos
+
+reikia  poilsiui,
+
+kai  dalyvaujantiems  byloje  asmenims  būtina
+
+pasirengti
+
+baigiamajai  kalbai, kai  pasibaigia darbo laikas, kai
+
+kliudoma normaliai
+
+dirbti ir kitais atvejais.
+
+46 straipsnis. Teisminio posėdžio tvarka
+
+Esantys
+
+posėdžių  salėje asmenys  privalo išlaikyti rimtį ir
+
+pagarbą Teismui,  be
+
+prieštaravimų  klausyti posėdžio  pirmininko
+
+reikalavimų laikytis
+
+tvarkos.
+
+Nepilnamečiai,
+
+jeigu  jie nėra  liudytojai, į  posėdžių salę
+
+neįleidžiami.
+
+Teisėjams
+
+įeinant  į  posėdžių  salę  ir  išeinant  iš  jos,
+
+skelbiant
+
+Konstitucinio Teismo nutarimą ar išvadą, visi esantieji
+
+posėdžių  salėje
+
+atsistoja.  Visi  proceso  dalyviai  į  Teismą
+
+kreipiasi,  kalba,
+
+savo  parodymus   bei   paaiškinimus   duoda
+
+stovėdami. Į  Teismą
+
+kreipiamasi žodžiais "Aukštasis Teisme" arba
+
+"Gerbiamasis
+
+Teisme".
+
+Konstitucinio
+
+Teismo  posėdžio metu  tvarką prižiūri  Teismo
+
+tvarkdarys.  Jo
+
+reikalavimai  laikytis   tvarkos  arba  vykdyti
+
+posėdžio pirmininko
+
+nurodymus proceso dalyviams yra privalomi.
+
+Jeigu posėdžio
+
+metu jame  dalyvaujantys  asmenys  pažeidžia
+
+tvarką, neklauso
+
+posėdžio pirmininko  ar tvarkdario  reikalavimų
+
+laikytis tvarkos
+
+arba  pažeidžia  kitas  Konstituciniame  Teisme
+
+priimtas taisykles,
+
+jie gali  būti pašalinami  iš posėdžių salės
+
+bei traukiami
+
+atsakomybėn pagal įstatymus.
+
+47 straipsnis. Parengiamoji teisminio posėdžio dalis
+
+Paskirtu
+
+laiku   posėdžio   pirmininkas   paskelbia,   kad
+
+pradedamas
+
+Konstitucinio  Teismo posėdis,  ir praneša,  kuri byla
+
+turi būti
+
+nagrinėjama.
+
+Konstitucinio
+
+Teismo  posėdžio sekretorius praneša, kurie iš
+
+šauktųjų  asmenų
+
+yra  atvykę,   kas  žinoma  apie  kitų  asmenų
+
+neatvykimo
+
+priežastis.
+
+Teismas nustato
+
+atvykusiųjų asmenybę, patikrina pareigūnų ir
+
+atstovų
+
+įgaliojimus.  Jei kas nors iš dalyvaujančių byloje asmenų
+
+neatvyko ar
+
+atstovas neturi  reikiamo įgaliojimo,  Konstitucinis
+
+Teismas sprendžia,
+
+ar galima pradėti nagrinėti bylą.
+
+Posėdžio
+
+pirmininkas   išaiškina   dalyvaujantiems   byloje
+
+asmenims ir
+
+ekspertams jų teises ir pareigas, o kitiems šauktiems
+
+asmenims - jų
+
+pareigas ir atsakomybę.
+
+Teismas
+
+išklauso dalyvaujančių byloje asmenų pageidavimus ir
+
+juos išsprendžia.
+
+48 straipsnis. Konstitucinio Teismo teisėjo nusišalinimas ir
+
+nušalinimas
+
+Konstitucinio
+
+Teismo   teisėjas  nusišalina  ar  gali  būti
+
+nušalintas nuo bylos
+
+nagrinėjimo, jeigu:
+
+1) jis  yra
+
+dalyvaujančių  byloje  asmenų  giminaitis,  kai
+
+svarstomi
+
+paklausimai personaliniais klausimais;
+
+2) jis yra
+
+viešai pareiškęs, kaip turi būti išspręsta Teisme
+
+nagrinėjama byla.
+
+Jei  yra
+
+aplinkybių,  nurodytų  šio  straipsnio  pirmojoje
+
+dalyje, prieš  bylos
+
+nagrinėjimo  pradžią teisėjas  privalo raštu
+
+apie tai  pareikšti
+
+ir  prašyti Konstitucinio  Teismo spręsti  jo
+
+nušalinimo klausimą.
+
+Tais pačiais pagrindais ir tvarka motyvuotai
+
+nušalinimą gali
+
+pareikšti dalyvaujantys byloje asmenys.
+
+Jeigu yra
+
+pareikštas nušalinimas, Konstitucinis Teismas turi
+
+išklausyti
+
+dalyvaujančių  byloje asmenų nuomones. Nusišalinimo ar
+
+nušalinimo klausimą
+
+Teismas išsprendžia pasitarimų kambaryje.
+
+49 straipsnis.
+
+Bylos nagrinėjimo atidėjimas
 
 Atidėti bylos nagrinėjimą
 
@@ -6125,9 +6417,9 @@ pasirašytinai paskelbti atvykusiems asmenims.
 
 Atidėdamas pradėtos bylos
 
-nagrinėjimą, Teismas gali apklausti atvykusius liudytojus, kurie iš naujo
+nagrinėjimą, Teismas gali apklausti atvykusius liudytojus, kurie iš naujo paprastai
 
-paprastai nebešaukiami.
+nebešaukiami.
 
 Atnaujinęs atidėtos bylos
 
@@ -6147,17 +6439,17 @@ nagrinėjimo vada ir pagrindas, turimos medžiagos turinys ir kiti reikalingi
 
 duomenys. Konstitucinio Teismo teisėjai gali užduoti klausimų pranešėjui.
 
-Po to išklausomi
+Po to išklausomi dalyvaujančių
 
-dalyvaujančių byloje asmenų paaiškinimai pradedant pareiškėju. Šie asmenys turi
+byloje asmenų paaiškinimai pradedant pareiškėju. Šie asmenys turi teisę užduoti
 
-teisę užduoti vienas kitam klausimų, pasakyti savo nuomonę dėl kiekvieno kito
+vienas kitam klausimų, pasakyti savo nuomonę dėl kiekvieno kito asmens
 
-asmens pareiškimo bei prašymo. Jiems klausimų gali užduoti ir Konstitucinio
+pareiškimo bei prašymo. Jiems klausimų gali užduoti ir Konstitucinio Teismo
 
-Teismo teisėjai. Posėdžio pirmininkas garsiai perskaito rašytinius tų
+teisėjai. Posėdžio pirmininkas garsiai perskaito rašytinius tų dalyvaujančių
 
-dalyvaujančių byloje asmenų paaiškinimus, kurie neatvyko į posėdį.
+byloje asmenų paaiškinimus, kurie neatvyko į posėdį.
 
 Prieš apklausdamas
 
@@ -6307,7 +6599,9 @@ paaiškinimai ir pasisakymai;
 
 ekspertų įspėjimą dėl atsakomybės;
 
-liudytojų ir ekspertų parodymai;
+liudytojų ir ekspertų
+
+parodymai;
 
 dalyvaujantiems byloje
 
@@ -6419,11 +6713,11 @@ Bylą teisminiam
 
 posėdžiui rengiantis Konstitucinio Teismo teisėjas, nustatęs, kad yra
 
-pakankamai duomenų nagrinėti bylą rašytinio proceso tvarka, tvarkomajame
+pakankamai duomenų nagrinėti bylą rašytinio proceso tvarka, tvarkomajame Konstitucinio
 
-Konstitucinio Teismo posėdyje siūlo priimti sprendimą skirti nagrinėti bylą
+Teismo posėdyje siūlo priimti sprendimą skirti nagrinėti bylą rašytinio proceso
 
-rašytinio proceso tvarka.
+tvarka.
 
 Konstitucinio
 
@@ -6463,9 +6757,9 @@ papildytas straipsniu:
 
 Nr.
 
-XI-1783, 2011-12-06,
+XI-1783,
 
-Žin., 2011, Nr. 154-7262 (2011-12-17)
+2011-12-06, Žin., 2011, Nr. 154-7262 (2011-12-17)
 
 54
 
@@ -6495,39 +6789,47 @@ procesinius veiksmus reikia papildomai atlikti.
 
 straipsnis. Konstitucinio Teismo nutarimo priėmimo tvarka
 
-Konstitucinio Teismo
+Konstitucinio
 
-nutarimas dėl bylos priimamas pasitarimų kambaryje. Nutarimas turi būti
+Teismo nutarimas dėl bylos priimamas pasitarimų kambaryje. Nutarimas turi būti
 
-priimtas ne vėliau kaip per 1 mėnesį baigus nagrinėti bylą.
+priimtas ne vėliau kaip per vieną mėnesį baigus nagrinėti bylą.
 
-Nutarimas priimamas balsų
+Nutarimas
 
-dauguma. Jei balsai pasiskirsto po lygiai, lemia posėdžio pirmininko balsas.
+priimamas balsų dauguma. Jeigu balsai pasiskirsto po lygiai, lemia posėdžio
 
-Teisėjai neturi teisės atsisakyti balsuoti arba susilaikyti.
+pirmininko balsas. Teisėjai neturi teisės atsisakyti balsuoti arba susilaikyti.
 
-Priimtas nutarimas
+Priimtas
 
-išdėstomas raštu ir visų dalyvavusių teisėjų pasirašomas.
+nutarimas išdėstomas raštu ir visų dalyvavusių teisėjų pasirašomas.
 
-Pataisos nutarime turi būti
+Pataisos
 
-aptartos raštu prieš teisėjų parašus.
+nutarime turi būti aptartos raštu prieš teisėjų parašus.
 
 Konstitucinio
 
-Teismo teisėjas, nesutinkantis su Teismo priimtu aktu, turi teisę ne vėliau
+Teismo teisėjas, turintis kitą nuomonę dėl Konstitucinio Teismo priimto akto,
 
-kaip per 3 darbo dienas po atitinkamo akto paskelbimo Teismo posėdžių salėje
+turi teisę ne vėliau kaip per 5 darbo dienas po atitinkamo akto paskelbimo
 
-raštu išdėstyti motyvuotą savo atskirąją nuomonę. Teisėjo atskiroji nuomonė
+Teismo posėdžių salėje raštu išdėstyti motyvuotą savo atskirąją nuomonę. Jeigu
+
+tokia nuomonė yra gauta ne vėliau kaip iki Konstitucinio Teismo akto paskelbimo
+
+Teismo posėdžių salėje, posėdžio pirmininkas apie tai praneša Teismo posėdžių
+
+salėje paskelbus Konstitucinio Teismo priimtą aktą.
+
+Teisėjo
+
+atskiroji nuomonė skelbiama Konstitucinio Teismo interneto svetainėje,
 
 pridedama prie bylos ir apie tai pranešama byloje dalyvaujantiems asmenims ir
 
-visuomenės informavimo priemonėms. Susipažinimo su teisėjo atskirąja nuomone
-
-tvarka nustatoma Konstitucinio Teismo reglamente.
+visuomenės informavimo priemonėms.
 
 Straipsnio
 
@@ -6536,6 +6838,12 @@ pakeitimai:
 Nr. X-1806,
 
 2008-11-11, Žin., 2008, Nr. 134-5179 (2008-11-22)
+
+Nr.
+
+XII-581,
+
+2013-11-07, Žin., 2013, Nr. 120-6053 (2013-11-23)
 
 56
 
@@ -6565,11 +6873,9 @@ nagrinėjamas klausimas, jo
 
 pagrindas;
 
-Konstitucijos ir šio
+Konstitucijos ir šio įstatymo
 
-įstatymo straipsniai, nustatantys Konstitucinio Teismo teisę nagrinėti šį
-
-klausimą;
+straipsniai, nustatantys Konstitucinio Teismo teisę nagrinėti šį klausimą;
 
 reikalavimas, esantis
 
@@ -6581,9 +6887,9 @@ atitikimas Konstitucijai buvo tikrinamas, visas pavadinimas, jo paskelbimo ar
 
 gavimo šaltinis;
 
-Seimo nario ar valstybės
+Seimo nario ar valstybės pareigūno
 
-pareigūno veiksmai ar sprendimas, kurių atitikimas Konstitucijai buvo tiriamas;
+veiksmai ar sprendimas, kurių atitikimas Konstitucijai buvo tiriamas;
 
 aplinkybės, kurias nustatė
 
@@ -6919,11 +7225,11 @@ institucijos, kuriai suteikta teisė kreiptis į Konstitucinį Teismą, vadovas.
 
 Vyriausybės prašymas turi būti paremtas Vyriausybės nutarimu, kuris pridedamas
 
-prie teikiamų dokumentų. Seimo narių grupės prašymą pasirašo visi su prašymu
+prie teikiamų dokumentų. Seimo narių grupės prašymą pasirašo visi su prašymu besikreipiantys
 
-besikreipiantys Seimo nariai, kartu nurodydami savo grupės atstovą (atstovus);
+Seimo nariai, kartu nurodydami savo grupės atstovą (atstovus); jų parašai turi
 
-jų parašai turi būti patvirtinti Seimo Pirmininko ar jo pavaduotojo parašu.
+būti patvirtinti Seimo Pirmininko ar jo pavaduotojo parašu.
 
 Prie prašymo pridedama:
 
@@ -7120,354 +7426,6 @@ Nr.
 I-1475,
 
 96.07.11, Žin., 1996, Nr.73-1749 (96.07.31)
-
-45 straipsnis. Teisminio posėdžio pirmininkas
-
-Teisminiame
-
-posėdyje   pirmininkauja  Konstitucinio  Teismo
-
-pirmininkas,  o
-
-jei  jo  nėra,  jo  pareigas  laikinai  einantis
-
-Konstitucinio
-
-Teismo  teisėjas, o  jei ir jų nėra - Konstitucinio
-
-Teismo išrinktas
-
-teisėjas, tačiau ne teisėjas pranešėjas.
-
-Posėdžio
-
-pirmininkas  vadovauja posėdžiui,  imasi  priemonių
-
-visoms bylos
-
-aplinkybėms visapusiškai,  iki galo  ir objektyviai
-
-ištirti; šalina  iš
-
-proceso visa tai, kas nesusiję su nagrinėjamu
-
-klausimu;
-
-nutraukia  proceso  dalyvius,  jeigu  jie  kalba  apie
-
-klausimus,
-
-nesusijusius  su nagrinėjama  byla arba   nežinybingus
-
-Konstituciniam
-
-Teismui;   atima  iš   kalbėtojų  žodį,  kai  jie
-
-savavališkai
-
-pradeda  kalbėti, kai  neįvykdo posėdžio  pirmininko
-
-reikalavimų, kai
-
-kalba šiurkščiai ar įžeidžiančiai arba kai rodo
-
-nepagarbą
-
-Konstitucijai ar valstybės konstitucinei santvarkai.
-
-Posėdžio
-
-pirmininkas  turi teisę pašalinti iš posėdžių salės
-
-kiekvieną, kas
-
-pažeidžia tvarką  arba neklauso  jo  reikalavimų.
-
-Dalyvaujantį byloje
-
-asmenį galima pašalinti Teismo sprendimu, kai
-
-jo nepaveikia
-
-posėdžio pirmininko įspėjimas.
-
-Posėdžio
-
-pirmininkas   įspėja  esančius   posėdžių   salėje
-
-asmenis, jeigu   jų
-
-elgesys trukdo vesti posėdį, kad pakartotinai
-
-pažeidus tvarką jie
-
-gali būti pašalinti iš salės.
-
-Posėdžio
-
-pirmininkas  skelbia posėdžio  pertrauką,  kai  jos
-
-reikia  poilsiui,
-
-kai  dalyvaujantiems  byloje  asmenims  būtina
-
-pasirengti
-
-baigiamajai  kalbai, kai  pasibaigia darbo laikas, kai
-
-kliudoma normaliai
-
-dirbti ir kitais atvejais.
-
-46 straipsnis. Teisminio posėdžio tvarka
-
-Esantys
-
-posėdžių  salėje asmenys  privalo išlaikyti rimtį ir
-
-pagarbą Teismui,  be
-
-prieštaravimų  klausyti posėdžio  pirmininko
-
-reikalavimų laikytis
-
-tvarkos.
-
-Nepilnamečiai,
-
-jeigu  jie nėra  liudytojai, į  posėdžių salę
-
-neįleidžiami.
-
-Teisėjams
-
-įeinant  į  posėdžių  salę  ir  išeinant  iš  jos,
-
-skelbiant
-
-Konstitucinio Teismo nutarimą ar išvadą, visi esantieji
-
-posėdžių  salėje
-
-atsistoja.  Visi  proceso  dalyviai  į  Teismą
-
-kreipiasi,  kalba,
-
-savo  parodymus   bei   paaiškinimus   duoda
-
-stovėdami. Į  Teismą
-
-kreipiamasi žodžiais "Aukštasis Teisme" arba
-
-"Gerbiamasis
-
-Teisme".
-
-Konstitucinio
-
-Teismo  posėdžio metu  tvarką prižiūri  Teismo
-
-tvarkdarys.  Jo
-
-reikalavimai  laikytis   tvarkos  arba  vykdyti
-
-posėdžio pirmininko
-
-nurodymus proceso dalyviams yra privalomi.
-
-Jeigu posėdžio
-
-metu jame  dalyvaujantys  asmenys  pažeidžia
-
-tvarką, neklauso
-
-posėdžio pirmininko  ar tvarkdario  reikalavimų
-
-laikytis tvarkos
-
-arba  pažeidžia  kitas  Konstituciniame  Teisme
-
-priimtas taisykles,
-
-jie gali  būti pašalinami  iš posėdžių salės
-
-bei traukiami
-
-atsakomybėn pagal įstatymus.
-
-47 straipsnis. Parengiamoji teisminio posėdžio dalis
-
-Paskirtu
-
-laiku   posėdžio   pirmininkas   paskelbia,   kad
-
-pradedamas
-
-Konstitucinio  Teismo posėdis,  ir praneša,  kuri byla
-
-turi būti
-
-nagrinėjama.
-
-Konstitucinio
-
-Teismo  posėdžio sekretorius praneša, kurie iš
-
-šauktųjų  asmenų
-
-yra  atvykę,   kas  žinoma  apie  kitų  asmenų
-
-neatvykimo
-
-priežastis.
-
-Teismas nustato
-
-atvykusiųjų asmenybę, patikrina pareigūnų ir
-
-atstovų
-
-įgaliojimus.  Jei kas nors iš dalyvaujančių byloje asmenų
-
-neatvyko ar
-
-atstovas neturi  reikiamo įgaliojimo,  Konstitucinis
-
-Teismas sprendžia,
-
-ar galima pradėti nagrinėti bylą.
-
-Posėdžio
-
-pirmininkas   išaiškina   dalyvaujantiems   byloje
-
-asmenims ir
-
-ekspertams jų teises ir pareigas, o kitiems šauktiems
-
-asmenims - jų
-
-pareigas ir atsakomybę.
-
-Teismas
-
-išklauso dalyvaujančių byloje asmenų pageidavimus ir
-
-juos išsprendžia.
-
-48 straipsnis. Konstitucinio Teismo teisėjo nusišalinimas ir
-
-nušalinimas
-
-Konstitucinio
-
-Teismo   teisėjas  nusišalina  ar  gali  būti
-
-nušalintas nuo bylos
-
-nagrinėjimo, jeigu:
-
-1) jis  yra
-
-dalyvaujančių  byloje  asmenų  giminaitis,  kai
-
-svarstomi
-
-paklausimai personaliniais klausimais;
-
-2) jis yra
-
-viešai pareiškęs, kaip turi būti išspręsta Teisme
-
-nagrinėjama byla.
-
-Jei  yra
-
-aplinkybių,  nurodytų  šio  straipsnio  pirmojoje
-
-dalyje, prieš  bylos
-
-nagrinėjimo  pradžią teisėjas  privalo raštu
-
-apie tai  pareikšti
-
-ir  prašyti Konstitucinio  Teismo spręsti  jo
-
-nušalinimo klausimą.
-
-Tais pačiais pagrindais ir tvarka motyvuotai
-
-nušalinimą gali
-
-pareikšti dalyvaujantys byloje asmenys.
-
-Jeigu yra
-
-pareikštas nušalinimas, Konstitucinis Teismas turi
-
-išklausyti
-
-dalyvaujančių  byloje asmenų nuomones. Nusišalinimo ar
-
-nušalinimo klausimą
-
-Teismas išsprendžia pasitarimų kambaryje.
-
-49 straipsnis. Bylos nagrinėjimo atidėjimas
-
-Atidėti
-
-bylos   nagrinėjimą  galima   Konstitucinio  Teismo
-
-sprendimu, jeigu:
-
-1) klausimas
-
-nepakankamai  parengtas  ir  reikia  papildomo
-
-tyrimo;
-
-2) būtina
-
-išreikalauti naujus įrodymus;
-
-3) atsiranda
-
-kitų svarbių priežasčių.
-
-Konstitucinis
-
-Teismas,  atidėdamas bylos  nagrinėjimą,  gali
-
-paskirti kito
-
-posėdžio laiką ir apie tai pasirašytinai paskelbti
-
-atvykusiems
-
-asmenims.
-
-Atidėdamas
-
-pradėtos   bylos   nagrinėjimą,   Teismas   gali
-
-apklausti
-
-atvykusius   liudytojus,  kurie   iš  naujo  paprastai
-
-nebešaukiami.
-
-Atnaujinęs
-
-atidėtos  bylos nagrinėjimą, Teismas nusprendžia,
-
-ar ją  pradėti
-
-nagrinėti  iš pradžių  ar nuo  tos teismo  proceso
-
-vietos, kurioje
-
-bylos nagrinėjimas buvo atidėtas.
 
 50 straipsnis. Įrodymų tyrimas
 
@@ -10667,11 +10625,11 @@ ištirti teisės akto atitikimą Konstitucijai sugrąžinimas
 
 pareiškėjui
 
-Konstitucinio Teismo pirmininkas
+Konstitucinio Teismo
 
-savo iniciatyva arba teisėjo siūlymu grąžina pareiškėjui prašymą, jeigu
+pirmininkas savo iniciatyva arba teisėjo siūlymu grąžina pareiškėjui prašymą,
 
-prašymas arba jo priedai neatitinka šio įstatymo 66 ir 67 straipsniuose
+jeigu prašymas arba jo priedai neatitinka šio įstatymo 66 ir 67 straipsniuose
 
 nustatytų reikalavimų.
 
@@ -10785,15 +10743,15 @@ sveikatos būklė leidžia jam ir toliau eiti pareigas;
 
 3) ar Lietuvos Respublikos
 
-tarptautinės sutartys neprieštarauja Konstitucijai. Prašyti išvados dėl tarptautinės
+tarptautinės sutartys neprieštarauja Konstitucijai. Prašyti išvados dėl
 
-sutarties galima ir iki jos ratifikavimo Seime;
+tarptautinės sutarties galima ir iki jos ratifikavimo Seime;
 
-4) ar Seimo narių ir
+4) ar Seimo narių ir valstybės
 
-valstybės pareigūnų, kuriems pradėta apkaltos byla, konkretūs veiksmai
+pareigūnų, kuriems pradėta apkaltos byla, konkretūs veiksmai prieštarauja
 
-prieštarauja Konstitucijai.
+Konstitucijai.
 
 74
 
@@ -10835,11 +10793,9 @@ Teismas;
 
 adresas;
 
-3) Konstitucijos ir šio
+3) Konstitucijos ir šio įstatymo
 
-įstatymo normos, nustatančios teisę kreiptis su paklausimu į Konstitucinį
-
-Teismą;
+normos, nustatančios teisę kreiptis su paklausimu į Konstitucinį Teismą;
 
 4) veiksmai, kurių atitikimą
 
@@ -10885,17 +10841,17 @@ medžiagos, surašytų ne lietuvių kalba, notaro patvirtinti vertimai į lietuv
 
 kalbą.
 
-Prie paklausimo gali būti pridėtas
+Prie paklausimo gali būti
 
-siūlomų iškviesti į Konstitucinio Teismo posėdį liudytojų ir ekspertų sąrašas,
+pridėtas siūlomų iškviesti į Konstitucinio Teismo posėdį liudytojų ir ekspertų
 
-specialistų išvados, dokumentas apie atstovų įgaliojimus ir jų teisę kalbėti
+sąrašas, specialistų išvados, dokumentas apie atstovų įgaliojimus ir jų teisę
 
-Konstituciniame Teisme pareiškėjo vardu, taip pat kiti dokumentai ir medžiaga.
+kalbėti Konstituciniame Teisme pareiškėjo vardu, taip pat kiti dokumentai ir
 
-Prie kiekvieno liudytojo pavardės nurodoma, kokias aplinkybes jis gali
+medžiaga. Prie kiekvieno liudytojo pavardės nurodoma, kokias aplinkybes jis
 
-patvirtinti.
+gali patvirtinti.
 
 Paklausimas ir būtini jo
 
@@ -11027,9 +10983,9 @@ Konstitucinio Teismo
 
 pirmininkas savo iniciatyva arba teisėjo siūlymu grąžina paklausimą
 
-pareiškėjui, jeigu paklausimas arba jo priedai neatitinka šio įstatymo 76 straipsnyje
+pareiškėjui, jeigu paklausimas arba jo priedai neatitinka šio įstatymo 76
 
-nustatytų reikalavimų.
+straipsnyje nustatytų reikalavimų.
 
 Paklausimo grąžinimas
 
@@ -11733,11 +11689,11 @@ paskelbimas ir įsigaliojimas
 
 Konstitucinio Teismo
 
-nutarimai ir sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo oficialiai
+nutarimai ir sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo
 
-skelbiami Teisės aktų registre Teisėkūros pagrindų įstatymo nustatyta tvarka ir
+oficialiai skelbiami Teisės aktų registre Teisėkūros pagrindų įstatymo
 
-Konstitucinio Teismo interneto svetainėje.
+nustatyta tvarka ir Konstitucinio Teismo interneto svetainėje.
 
 Konstitucinio Teismo
 
@@ -11783,9 +11739,9 @@ I-1475,
 
 96.07.11, Žin., 1996, Nr.73-1749 (96.07.31)
 
-Nr. IX-1797,
+Nr. IX-1797, 2003-10-28,
 
-2003-10-28, Žin., 2003, Nr. 108-4815 (2003-11-19)
+Žin., 2003, Nr. 108-4815 (2003-11-19)
 
 Nr.
 
@@ -12009,9 +11965,9 @@ KONSTITUCINIO TEISMO ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARB
 
 SĄLYGŲ ĮSTATYMO, PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS
 
-PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS
+PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ
 
-KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+APSAUGOS KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 7.
 
@@ -12147,6 +12103,22 @@ TEISMO ĮSTATYMO 18, 26 IR 84 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja 2014 m. sausio 1 d.
 
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XII-581,
+
+2013-11-07, Žin., 2013, Nr. 120-6053 (2013-11-23)
+
+KONSTITUCINIO
+
+TEISMO ĮSTATYMO 55 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
@@ -12183,7 +12155,7 @@ Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2012-11-19)
+Aušrinė Trapinskienė (2013-11-25)
 
 ausrine.trapinskiene@lrs.lt
 
