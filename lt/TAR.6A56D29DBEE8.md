@@ -4,7 +4,7 @@ identifier: "TAR.6A56D29DBEE8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-11-12"
-last_updated: "2010-01-01"
+last_updated: "2013-12-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6A56D29DBEE8"
 department: "Lietuvos Respublikos Seimas"
@@ -20,6 +20,18 @@ eu_legal_act: "true"
 LIETUVOS RESPUBLIKOS EUROPOS SĄJUNGOS INSTITUCIJŲ DARBUOTOJŲ IR EUROPOS
 
 PARLAMENTO NARIŲ PENSINIŲ TEISIŲ IŠSAUGOJIMO IR PERKĖLIMO ĮSTATYMAS
+
+Suvestinė redakcija nuo 2013-12-02 iki 2017-12-31
+
+Įstatymas paskelbtas: Žin. 2009, Nr. 141-6196, i. k. 1091010ISTA00XI-473
+
+TAR pastaba. Įstatymo Nr. XII-558 nuostatos dėl lėšų už Valstybinio socialinio draudimo fonde asmens įgytas pensines teises, perkeltinas į Europos Sąjungos institucijų pensijų sistemą, apskaičiavimo tvarkos taikomos apskaičiuojant ir (ar) pervedant šių lėšų sumą po šio įstatymo įsigaliojimo (2013-12-02).
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-558, 2013-10-15, Žin., 2013, Nr. 114-5684 (2013-11-01), i. k. 1131010ISTA0XII-558
+
+Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymo 4, 8, 10 straipsnių ir 1 priedo pakeitimo ir papildymo įstatymas
 
 LIETUVOS RESPUBLIKOS  EUROPOS SĄJUNGOS INSTITUCIJŲ DARBUOTOJŲ IR EUROPOS PARLAMENTO NARIŲ PENSINIŲ TEISIŲ IŠSAUGOJIMO IR PERKĖLIMO ĮSTATYMAS
 
@@ -75,11 +87,15 @@ VSD FONDE IR PENSIJŲ FONDE ĮGYTŲ PENSINIŲ TEISIŲ PERKĖLIMO Į ES INSTITUCI
 
 1. Lėšos už VSD fonde asmens įgytas pensines teises apskaičiuojamos už laikotarpį iki jo darbo ES institucijose pradžios mėnesio pirmos dienos, nepaisant to, kad asmuo nėra įgijęs Valstybinių socialinio draudimo pensijų įstatyme nustatyto minimaliojo valstybinio socialinio pensijų draudimo stažo senatvės pensijai skirti ir dar nėra sukakęs senatvės pensijos amžiaus teisei į valstybinę socialinio draudimo senatvės pensiją įgyti.
 
-2. Lėšos už VSD fonde asmens įgytas pensines teises iki darbo ES institucijoje pradžios apskaičiuojamos pagal šio įstatymo 1 priedo 1 punkte nurodytą formulę, atsižvelgiant į:
+2. Lėšos už VSD fonde asmens įgytas pensines teises iki darbo ES institucijoje pradžios apskaičiuojamos pagal šio įstatymo 1 priedo 1, 2 ar 3 punkte nurodytą formulę, atsižvelgiant į:
 
 1) šiam asmeniui Valstybinių socialinio draudimo pensijų įstatymo nustatyta tvarka apskaičiuotos valstybinės socialinio draudimo senatvės pensijos dydį pagal jos apskaičiavimo metu VSD fondo valdybos turimus duomenis apie asmens valstybinio socialinio pensijų draudimo stažą ir jam prilygintus laikotarpius, asmens draudžiamąsias pajamas, joms prilygintas pajamas ir apskaičiavimo metu galiojančius valstybinės socialinio draudimo bazinės pensijos ir einamųjų metų draudžiamųjų pajamų dydžius;
 
-2) lėšų už VSD fonde asmens įgytas pensines teises apskaičiavimo metu Statistikos departamento prie Lietuvos Respublikos Vyriausybės paskelbtą Lietuvos gyventojų tikėtiną gyvenimo trukmę (atsižvelgiant į asmens lytį), skaičiuojamą nuo vyrams ir moterims Valstybinių socialinio draudimo pensijų įstatyme nustatyto senatvės pensijos amžiaus.
+2) lėšų už VSD fonde asmens įgytas pensines teises apskaičiavimo metu Lietuvos statistikos departamento paskelbtą vidutinę Lietuvos gyventojų tikėtiną gyvenimo trukmę, skaičiuojamą nuo Valstybinių socialinio draudimo pensijų įstatyme nustatyto senatvės pensijos amžiaus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-558, 2013-10-15, Žin., 2013, Nr. 114-5684 (2013-11-01), i. k. 1131010ISTA0XII-558
 
 3. Jeigu asmuo iš VSD fondo gauna (gavo) valstybinę socialinio draudimo senatvės pensiją, paskirtą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymą, lėšų už VSD fonde asmens įgytas pensines teises suma, apskaičiuota šio straipsnio 2 dalyje nustatyta tvarka, mažinama dydžiu, kurį sudaro apskaičiuotos sumos 0,4 procento, padauginto iš pilnų mėnesių, kuriuos asmuo gavo išankstinę senatvės pensiją, skaičiaus.
 
@@ -131,7 +147,11 @@ ES INSTITUCIJŲ PENSIJŲ SISTEMOJE ĮGYTŲ PENSINIŲ TEISIŲ PERKĖLIMAS Į VSD 
 
 1. Jeigu asmuo pasirenka šio įstatymo 7 straipsnio 1 dalies 1 punkte nurodytą pensinių teisių perkėlimo būdą, darbo ES institucijose laikotarpiai ir kiti įgyvendinamuosiuose ES teisės aktuose nustatyti laikotarpiai Valstybinių socialinio draudimo pensijų įstatymo nustatyta tvarka prilyginami asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, tarsi asmuo būtų draudžiamas valstybiniu socialiniu pensijų draudimu pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymą. Asmens draudžiamosiomis pajamomis darbo ES institucijose laikotarpiais laikomos asmens draudžiamosioms pajamoms prilyginamos pajamos, apskaičiuotos šio straipsnio 2 dalyje nustatyta tvarka.
 
-2. Asmens draudžiamosioms pajamoms prilyginamos pajamos už kiekvienus kalendorinius darbo ES institucijose metus nustatomos asmens draudžiamosioms pajamoms prilyginamų pajamų koeficientą (K3), apskaičiuotą pagal šio įstatymo 1 priedo 2 ar 4.1 punkte nurodytą formulę, dauginant iš metų draudžiamųjų pajamų, galiojusių tais metais, už kuriuos nustatomos asmens draudžiamosioms pajamoms prilyginamos pajamos, ir iš mėnesių, kuriais tais kalendoriniais metais asmuo dirbo ES institucijose, skaičiaus.
+2. Asmens draudžiamosioms pajamoms prilyginamos pajamos už kiekvienus kalendorinius darbo ES institucijose metus nustatomos asmens draudžiamosioms pajamoms prilyginamų pajamų koeficientą (K3), apskaičiuotą pagal šio įstatymo 1 priedo 4, 5, 6 ar 8.1 punkte nurodytą formulę, dauginant iš metų draudžiamųjų pajamų, galiojusių tais metais, už kuriuos nustatomos asmens draudžiamosioms pajamoms prilyginamos pajamos, ir iš mėnesių, kuriais tais kalendoriniais metais asmuo dirbo ES institucijose, skaičiaus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-558, 2013-10-15, Žin., 2013, Nr. 114-5684 (2013-11-01), i. k. 1131010ISTA0XII-558
 
 3. Jeigu asmuo, kurio VSD fonde įgytos pensinės teisės buvo perkeltos į ES institucijų pensijų sistemą, pasirenka šio įstatymo 7 straipsnio 1 dalies 1 punkte nurodytą pensinių teisių perkėlimo būdą, Apdraustųjų registre atkuriami iki asmens pensinių teisių perkėlimo į ES institucijų pensijų sistemą šiame registre buvę duomenys apie jo valstybinio socialinio pensijų draudimo laikotarpius ir draudžiamąsias pajamas.
 
@@ -147,7 +167,11 @@ Jeigu asmuo pasirenka šio įstatymo 7 straipsnio 1 dalies 2 punkte nurodytą pe
 
 1. Jeigu asmuo pasirenka šio įstatymo 7 straipsnio 1 dalies 3 punkte nurodytą pensinių teisių perkėlimo būdą, VSD fondo valdyba apskaičiuoja į VSD fondą ir asmens pasirinktą pensijų fondą, veikiantį pagal Pensijų kaupimo įstatymą, pervedamų lėšų sumas, kai asmuo su šio fondo valdytoju yra sudaręs pensijų kaupimo sutartį, įregistruotą Pensijų kaupimo sutarčių registre.
 
-2. Į pensijų fondą pervedama lėšų suma apskaičiuojama atsižvelgiant į prašymo perkelti ES institucijų pensijų sistemoje įgytas pensines teises pateikimo dieną galiojantį Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu patvirtintą valstybinio pensijų socialinio draudimo įmokos dalies, pervedamos pensijų kaupimo bendrovėms, tarifą ir draudėjo pensijų socialinio draudimo įmokos bei apdraustojo pensijų socialinio draudimo įmokos tarifų sumą šio įstatymo 1 priedo 3 ir 4.2 punktuose nustatyta tvarka.
+2. Į pensijų fondą pervedama lėšų suma apskaičiuojama atsižvelgiant į prašymo perkelti ES institucijų pensijų sistemoje įgytas pensines teises pateikimo dieną galiojantį Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu patvirtintą valstybinio pensijų socialinio draudimo įmokos dalies, pervedamos pensijų kaupimo bendrovėms, tarifą ir draudėjo pensijų socialinio draudimo įmokos bei apdraustojo pensijų socialinio draudimo įmokos tarifų sumą šio įstatymo 1 priedo 7 ir 8.2 punktuose nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-558, 2013-10-15, Žin., 2013, Nr. 114-5684 (2013-11-01), i. k. 1131010ISTA0XII-558
 
 3. Asmens įgytas valstybinio socialinio pensijų draudimo stažas, valstybinio socialinio pensijų draudimo laikotarpiai ir asmens draudžiamosios pajamos (draudžiamosioms pajamoms prilyginamos pajamos) nustatomi vadovaujantis šio įstatymo 8 straipsnio 1, 2 ir 3 dalių nuostatomis, atsižvelgiant į lėšų sumą, įskaitomą į VSD fondą. Duomenys apie asmens darbo ES institucijose laikotarpius ir už kiekvienus kalendorinius darbo ES institucijose metus įskaitytų asmens draudžiamosioms pajamoms prilyginamų pajamų sumas įrašomi į Apdraustųjų registrą.
 
@@ -181,13 +205,9 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
 
-Lietuvos Respublikos Europos Sąjungos
+Lietuvos Respublikos
 
-institucijų darbuotojų ir Europos
-
-Parlamento narių pensinių teisių
-
-išsaugojimo ir perkėlimo įstatymo
+Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymo
 
 1 priedas
 
@@ -195,13 +215,13 @@ LĖŠŲ UŽ VSD FONDE ĮGYTAS PENSINES TEISES, PERVESTINŲ Į ES INSTITUCIJŲ PE
 
 1. Lėšų už VSD fonde įgytas pensines teises, pervestinų į ES institucijų pensijų sistemą, suma apskaičiuojama pagal formulę:
 
-RL = [( S1 + S2 + Ss) x 1,1 x B/H + 0,005 x (S1 x K1 + S2 x K2) x D] x 12 x G.
+RL = [(S1 + S2 + Ss) x 1,1 x B/H + 0,005 x (S1 + S2) x K2) x D] x 12 x G.
 
 Šioje formulėje:
 
 RL – ES institucijų pensijų sistemai pervedama lėšų už asmens VSD fonde įgytas pensines teises suma;
 
-S1 ir K1 – asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, prilyginami laikotarpiai, buvę iki 1994 metų, ir asmens draudžiamųjų pajamų koeficientas, jeigu asmuo yra dirbęs iki 1994 metų;
+S1 – asmens valstybinio socialinio pensijų draudimo stažui, įgytam dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, prilyginami laikotarpiai iki 1994 metų, jeigu asmuo yra dirbęs iki 1994 metų;
 
 S2 ir K2 – asmens valstybinio socialinio pensijų draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, ir asmens draudžiamųjų pajamų koeficientas po 1994 metų;
 
@@ -211,15 +231,35 @@ B – apskaičiavimo metu galiojantis valstybinės socialinio draudimo bazinės 
 
 D – apskaičiavimo metu galiojantis einamųjų metų draudžiamųjų pajamų dydis;
 
-G – Lietuvos gyventojų vyrų ir moterų tikėtina gyvenimo trukmė, skaičiuojama atsižvelgiant į vyrams ir moterims nustatytą senatvės pensijos amžių;
+G – Lietuvos gyventojų vidutinė tikėtina gyvenimo trukmė, skaičiuojama nuo nustatyto senatvės pensijos amžiaus;
 
 H – Valstybinių socialinio draudimo pensijų įstatymo nustatytas būtinasis valstybinio socialinio pensijų draudimo stažas senatvės pensijai skirti.
 
-Dydžiai S1, S2, Ss, K1 ir K2 apskaičiuojami Valstybinių socialinio draudimo pensijų įstatymo nustatyta tvarka.
+Dydžiai S1, S2, Ss ir K2 apskaičiuojami Valstybinių socialinio draudimo pensijų įstatymo nustatyta tvarka.
 
-2. Kai dėl ES institucijų pensijų sistemoje įgytų pensinių teisių perkėlimo į VSD fondą kreipiasi asmuo, kurio pensinės teisės, įgytos VSD fonde iki darbo ES institucijose pradžios, buvo perkeltos į ES institucijų pensijų sistemą, asmens draudžiamosioms pajamoms prilyginamų pajamų koeficientas K3 už darbo ES institucijose laikotarpį apskaičiuojamas pagal formulę:
+2. Asmenų, turinčių valstybinio socialinio pensijų draudimo stažo, įgyto dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu iki 1994 m. sausio 1 d., ir pasirinkusių dalyvauti pensijų kaupime pagal Pensijų kaupimo įstatymą, lėšų už VSD fonde įgytas pensines teises, pervestinų į ES institucijų pensijų sistemą, suma apskaičiuojama pagal formulę:
 
-K3 = [(RES/(12 x G) – ( S1 + S2 + Ss + S3) x 1,1 x B/H)/(0,005 x D) – S1 x K1 – S2 x K2]/S3.
+RL = [(S1 + S2 + Ss) x 1,1 x B/H + 0,005 x (S1 x Kn + S2 x K2) x D] x 12 x G.
+
+Šioje formulėje:
+
+Kn – asmens draudžiamųjų pajamų koeficientas po 1994 m. sausio 1 d., apskaičiuotas netaikant Valstybinių socialinio draudimo pensijų įstatymo 17 straipsnio 4 dalyje nustatyto mažinimo dėl dalyvavimo pensijų kaupime.
+
+Kiti formulėje vartojami dydžiai apibrėžti šio priedo 1 punkte.
+
+3. Asmenų prašymu ir jeigu tai jiems naudinga, lėšų, pervestinų į ES institucijų pensijų sistemą, už VSD fonde įgytas pensines teises suma gali būti apskaičiuojama pagal formulę:
+
+RL = [(S1 + S2 + Ss) x 1,1 x B/H + 0,005 x (S1 x K1 + S2 x K2) x D] x 12 x G.
+
+Šioje formulėje:
+
+K1 – asmens draudžiamųjų pajamų koeficientas, jeigu asmuo yra dirbęs iki 1994 metų, apskaičiuojamas Valstybinių socialinio draudimo pensijų įstatymo nustatyta tvarka.
+
+Kiti formulėje vartojami dydžiai apibrėžti šio priedo 1 punkte.
+
+4. Kai dėl ES institucijų pensijų sistemoje įgytų pensinių teisių perkėlimo į VSD fondą kreipiasi asmuo, kurio pensinės teisės, įgytos VSD fonde iki darbo ES institucijose pradžios, buvo perkeltos į ES institucijų pensijų sistemą, asmens draudžiamosioms pajamoms prilyginamų pajamų koeficientas K3 už darbo ES institucijose laikotarpį apskaičiuojamas pagal formulę:
+
+K3 = [(RES/(12 x G) – (S1 + S2 + Ss + S3) x 1,1 x B/H)]/(0,005 x D)/(0,005 x (S1 + S2 + S3) x D).
 
 Šioje formulėje:
 
@@ -229,7 +269,19 @@ S3 – asmens darbo ES institucijose laikotarpis.
 
 Kiti formulėje vartojami dydžiai apibrėžti šio priedo 1 punkte.
 
-3. Jeigu asmuo pasirenka ES institucijų pensijų sistemoje įgytas pensines teises perkelti į VSD fondą ir pensijų fondą, veikiantį pagal Pensijų kaupimo įstatymą, į šį pensijų fondą pervedamų lėšų suma apskaičiuojama pagal formulę:
+5. Jeigu dėl ES institucijų pensijų sistemoje įgytų pensinių teisių perkėlimo į VSD fondą kreipiasi asmuo, kurio pensinės teisės, įgytos VSD fonde iki darbo ES institucijose pradžios, buvo perkeltos į ES institucijų pensijų sistemą, pervestinoms lėšoms apskaičiuoti taikant šio priedo 2 punkte nurodytą formulę, asmens draudžiamosioms pajamoms prilyginamų pajamų koeficientas K3 už darbo ES institucijose laikotarpį apskaičiuojamas pagal formulę:
+
+K3 = [(RES/(12 x G) – (S1 + S2 + Ss + S3) x 1,1 x B/H)/(0,005 x D) – S1 x Kn – S2 x K2]/S3.
+
+Šioje formulėje vartojami dydžiai apibrėžti šio priedo 1, 2 ir 3 punktuose.
+
+6. Jeigu dėl ES institucijų pensijų sistemoje įgytų pensinių teisių perkėlimo į VSD fondą kreipiasi asmuo, kurio pensinės teisės, įgytos VSD fonde iki darbo ES institucijose pradžios, buvo perkeltos į ES institucijų pensijų sistemą, pervestinoms lėšoms apskaičiuoti taikant šio priedo 3 punkte nurodytą formulę, asmens draudžiamosioms pajamoms prilyginamų pajamų koeficientas K3 už darbo ES institucijose laikotarpį apskaičiuojamas pagal formulę:
+
+K3 = [(RES/(12 x G) – (S1 + S2 + Ss + S3) x 1,1 x B/H)/(0,005 x D) – S1 x K1 – S2 x K2]/S3.
+
+Šioje formulėje vartojami dydžiai apibrėžti šio priedo 1, 2 ir 3 punktuose.
+
+7. Jeigu asmuo pasirenka ES institucijų pensijų sistemoje įgytas pensines teises perkelti į VSD fondą ir pensijų fondą, veikiantį pagal Pensijų kaupimo įstatymą, į šį pensijų fondą pervedamų lėšų suma apskaičiuojama pagal formulę:
 
 P = E x k/p.
 
@@ -243,17 +295,19 @@ k – prašymo perkelti ES institucijų pensijų sistemoje įgytas pensines teis
 
 p – į pensijų fondą pervedamos sumos apskaičiavimo metais galiojanti Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu patvirtintų draudėjo valstybinio pensijų socialinio draudimo įmokos ir apdraustojo valstybinio pensijų socialinio draudimo įmokos tarifų suma.
 
-4. Kai dėl ES institucijų pensijų sistemoje įgytų pensinių teisių perkėlimo kreipiasi asmuo, kurio pensinės teisės, įgytos VSD fonde iki darbo ES institucijose pradžios, nebuvo perkeltos į ES institucijų pensijų sistemą, ES institucijų pensijų sistemoje įgytos pensinės teisės perkeliamos šia tvarka:
+8. Kai dėl ES institucijų pensijų sistemoje įgytų pensinių teisių perkėlimo kreipiasi asmuo, kurio pensinės teisės, įgytos VSD fonde iki darbo ES institucijose pradžios, nebuvo perkeltos į ES institucijų pensijų sistemą, ES institucijų pensijų sistemoje įgytos pensinės teisės perkeliamos šia tvarka:
 
-4.1. Kai visos asmens pensinės teisės, įgytos ES institucijų pensijų sistemoje, perkeliamos į VSD fondą, darbo ES institucijose laikas prilyginamas asmens valstybinio socialinio pensijų draudimo stažui Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymo 8 straipsnio 1 dalyje nustatyta tvarka, o asmens draudžiamosioms pajamoms prilyginamų pajamų koeficientas K3 už darbo ES institucijose laikotarpį apskaičiuojamas pagal formulę:
+8.1. Kai visos asmens pensinės teisės, įgytos ES institucijų pensijų sistemoje, perkeliamos į VSD fondą, darbo ES institucijose laikas prilyginamas asmens valstybinio socialinio pensijų draudimo stažui Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymo 8 straipsnio 1 dalyje nustatyta tvarka, o asmens draudžiamosioms pajamoms prilyginamų pajamų koeficientas K3 už darbo ES institucijose laikotarpį apskaičiuojamas pagal formulę:
 
 K3 = (RES/(12 x G) – S3 x 1,1 x B/H)/(0,005 x D x S3).
 
-Šioje formulėje vartojami dydžiai apibrėžti šio priedo 1 ir 2 punktuose.
+Šioje formulėje vartojami dydžiai apibrėžti šio priedo 1 ir 4 punktuose.
 
-4.2. Jeigu asmens pasirinkimu ES institucijų pensijų sistemoje įgytos pensinės teisės perkeliamos į VSD fondą ir į pensijų fondą, veikiantį pagal Pensijų kaupimo įstatymą, pensijų fondui pervedamų lėšų suma apskaičiuojama vadovaujantis šio priedo 3 punkto nuostatomis. Asmens įgytas valstybinio socialinio pensijų draudimo stažas, valstybinio socialinio pensijų draudimo laikotarpiai ir asmens draudžiamosios pajamos (draudžiamosioms pajamoms prilyginamos pajamos) nustatomi Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymo 10 straipsnio 3 dalyje nustatyta tvarka.
+8.2. Jeigu asmens pasirinkimu ES institucijų pensijų sistemoje įgytos pensinės teisės perkeliamos į VSD fondą ir į pensijų fondą, veikiantį pagal Pensijų kaupimo įstatymą, pensijų fondui pervedamų lėšų suma apskaičiuojama vadovaujantis šio priedo 7 punkto nuostatomis. Asmens įgytas valstybinio socialinio pensijų draudimo stažas, valstybinio socialinio pensijų draudimo laikotarpiai ir asmens draudžiamosios pajamos (draudžiamosioms pajamoms prilyginamos pajamos) nustatomi Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymo 10 straipsnio 3 dalyje nustatyta tvarka.
 
-_________________
+Priedo pakeitimai:
+
+Nr. XII-558, 2013-10-15, Žin., 2013, Nr. 114-5684 (2013-11-01), i. k. 1131010ISTA0XII-558
 
 Lietuvos Respublikos Europos Sąjungos
 
@@ -272,4 +326,14 @@ išsaugojimo ir perkėlimo įstatymo
 2. 2005 m. rugsėjo 28 d. Europos Parlamento sprendimas (2005/684/EB, Euratom) dėl Europos Parlamento narių statuto priėmimo (OL 2005 L 262, p. 1).
 
 _________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-558, 2013-10-15, Žin., 2013, Nr. 114-5684 (2013-11-01), i. k. 1131010ISTA0XII-558
+
+Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymo 4, 8, 10 straipsnių ir 1 priedo pakeitimo ir papildymo įstatymas
 
