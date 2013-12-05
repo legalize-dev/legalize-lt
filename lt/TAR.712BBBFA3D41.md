@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2013-07-23"
+last_updated: "2013-12-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -2542,7 +2542,7 @@ asignavimų valdytojų programomis ir jų sąmatų projektais.
 
 Dalies
 
-redakcija nuo 2014-10-01:
+redakcija nuo 2014-01-01:
 
 1. Savivaldybių biudžetų projektus rengia savivaldybių vykdomosios
 
@@ -2664,27 +2664,57 @@ kodekso 262 straipsnio nustatytais atvejais nesurašydamas administracinio
 
 teisės pažeidimo protokolo.
 
+Dalies redakcija nuo 2015-01-01:
+
+3. Baudos už
+
+administracinius teisės pažeidimus įskaitomos į tą biudžetą, iš kurio išlaikoma
+
+institucija ar įstaiga, kurios įgaliotas pareigūnas surašė administracinio
+
+teisės pažeidimo protokolą arba skyrė baudą, išskyrus kituose įstatymuose
+
+nustatytus atvejus. Tokių baudų ir kitų iš valstybės ar savivaldybių biudžetų
+
+neišlaikomų subjektų paskirtų baudų už administracinius teisės pažeidimus
+
+įskaitymo ir paskirstymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+Tais atvejais, kai administracinis teisės pažeidimas yra užfiksuotas iš
+
+savivaldybės biudžeto išlaikomomis arba eksploatuojamomis stacionariomis ar
+
+mobiliosiomis teisės pažeidimo fiksavimo sistemomis, bauda už
+
+administracinį teisės pažeidimą įskaitoma taip: 50 procentų įskaitoma į
+
+savivaldybės biudžetą, 50 procentų – į valstybės biudžetą.
+
 Straipsnio pakeitimai:
 
 Nr. XI-1209,
 
-2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)(papildyta 3 dalimi)
+2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 
-29 straipsnis.
+Nr. XII-604,
 
-Nepatvirtinto biudžeto vykdymas
+2013-11-19, Žin., 2013, Nr. 124-6283 (2013-12-05)
+
+29 straipsnis. Nepatvirtinto
+
+biudžeto vykdymas
 
 Jeigu biudžetas laiku nepatvirtinamas, asignavimai metų pradžioje iki
 
 biudžetų patvirtinimo kiekvieną mėnesį negali viršyti 1/12 praėjusių metų šių
 
-biudžetų asignavimų. Šiuo atveju kiekvieno asignavimų valdytojo asignavimai
+biudžetų asignavimų. Šiuo atveju kiekvieno asignavimų valdytojo asignavimai kiekvieną
 
-kiekvieną mėnesį negali viršyti 1/12 praėjusių metų atitinkamo biudžeto šiam
+mėnesį negali viršyti 1/12 praėjusių metų atitinkamo biudžeto šiam asignavimų
 
-asignavimų valdytojui skirtų lėšų ir skiriamos tik tęstinei veiklai bei
+valdytojui skirtų lėšų ir skiriamos tik tęstinei veiklai bei įstatymuose
 
-įstatymuose nustatytiems įsipareigojimams finansuoti (išskyrus programų asignavimų dalį,
+nustatytiems įsipareigojimams finansuoti (išskyrus programų asignavimų dalį,
 
 kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo
 
@@ -2858,9 +2888,9 @@ Pastaba.
 
 Ši dalis taikoma
 
-rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
+rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir vėlesnių
 
-vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
+metų valstybės biudžetą ir savivaldybių biudžetus.
 
 2012 metų valstybės biudžeto ir
 
@@ -3080,9 +3110,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1354,
+Nr. X-1354, 2007-12-06,
 
-2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
+Žin., 2007, Nr. 132-5357 (2007-12-15)
 
 Nr. XI-118,
 
@@ -3114,11 +3144,11 @@ Europos Sąjungos finansinės paramos lėšų administravimą, bei atsižvelgdam
 
 programų ir projektų vykdymo duomenis, perskirstyti Europos Sąjungos finansinės
 
-paramos programoms ir projektams numatytas lėšas, įskaitant ir bendrojo finansavimo
+paramos programoms ir projektams numatytas lėšas, įskaitant ir bendrojo
 
-lėšas, tarp asignavimų valdytojų, investavimo sričių, valstybės funkcijų ir
+finansavimo lėšas, tarp asignavimų valdytojų, investavimo sričių, valstybės funkcijų
 
-ekonominės klasifikacijos straipsnių;
+ir ekonominės klasifikacijos straipsnių;
 
 3) programų
 
@@ -3144,11 +3174,9 @@ savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
 
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 
-savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
+savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir atsiskaitymui
 
-atsiskaitymui taikomos iki šio įstatymo (Nr.
-
-XI-2274) įsigaliojimo
+taikomos iki šio įstatymo (Nr. XI-2274) įsigaliojimo
 
 galiojusių teisės aktų nuostatos, išskyrus šio įstatymo 12 straipsnį.
 
@@ -3210,9 +3238,9 @@ Seimui priėmus įstatymus arba Vyriausybei priėmus nutarimus vykdant
 
 biudžetinių metų įsipareigojimai, Finansų ministerija bei savivaldybių
 
-vykdomosios institucijos įstatymų nustatyta tvarka patikslina valstybės biudžeto
+vykdomosios institucijos įstatymų nustatyta tvarka patikslina valstybės
 
-ir savivaldybių biudžetų tarpusavio atsiskaitymus.
+biudžeto ir savivaldybių biudžetų tarpusavio atsiskaitymus.
 
 35
 
@@ -3486,11 +3514,9 @@ rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
 
-2012 metų valstybės biudžeto ir
+2012 metų valstybės biudžeto ir savivaldybių
 
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-
-įstatymo (Nr. XI-2274)
+biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio įstatymo (Nr. XI-2274)
 
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 
@@ -3542,9 +3568,9 @@ rinkinių auditą atlieka savivaldybių kontrolės ir audito tarnybos.
 
 ir kitų subjektų programų vykdymą vertina vidaus audito tarnybos, vadovaudamosi
 
-Vidaus kontrolės ir vidaus audito įstatymu (Žin., 2002, Nr. 123-5540) ir
+Vidaus kontrolės ir vidaus audito įstatymu (Žin., 2002, Nr. 123-5540) ir kitais
 
-kitais vidaus auditą reglamentuojančiais teisės aktais.
+vidaus auditą reglamentuojančiais teisės aktais.
 
 5.
 
@@ -3586,9 +3612,9 @@ Nr. X-1826,
 
 2008-11-14, Žin., 2008, Nr. 137-5375 (2008-11-29)
 
-Nr. XI-1209, 2010-12-09,
+Nr. XI-1209,
 
-Žin., 2010, Nr. 153-7781 (2010-12-28)
+2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 
 Nr. XI-2274,
 
@@ -4086,11 +4112,11 @@ rizikos rodiklis per metus padidėjo daugiau negu 0,5 procentinio punkto, Minist
 
 rizikos valdymo perspektyvas vidutiniu laikotarpiu.
 
-39 straipsnis. Valdžios sektoriaus balanso rodiklio kasmetinio
+39 straipsnis. Valdžios sektoriaus balanso rodiklio
 
-pagerėjimo užduočių arba nuostatų dėl perteklinio ir subalansuoto valdžios
+kasmetinio pagerėjimo užduočių arba nuostatų dėl perteklinio ir subalansuoto
 
-sektoriaus vidutiniu laikotarpiu neįvykdymo pateisinimo priežastys
+valdžios sektoriaus vidutiniu laikotarpiu neįvykdymo pateisinimo priežastys
 
 Pateisinamomis
 
@@ -4406,7 +4432,9 @@ Nr. VIII-2058, 2000.10.17, Žin., 2000, Nr.
 
 90-2778 (2000.10.27)
 
-BIUDŽETO SANDAROS ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+BIUDŽETO SANDAROS ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
 
 14.
 
