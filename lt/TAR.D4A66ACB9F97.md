@@ -4,7 +4,7 @@ identifier: "TAR.D4A66ACB9F97"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2013-05-25"
+last_updated: "2013-12-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97"
 department: "Lietuvos Respublikos Seimas"
@@ -228,7 +228,7 @@ turtas
 
 1. Šio Įstatymo
 
-2 straipsnio 1 dalies 1–25, 27, 29–36 punktuose nurodyti gyventojai
+2 straipsnio 1 dalies 1–25, 27, 29–37 punktuose nurodyti gyventojai
 
 privalo deklaruoti šį savo turimą turtą:
 
@@ -262,45 +262,51 @@ kūrinius, brangakmenius, juvelyrinius dirbinius, tauriuosius metalus, kurių
 
 vieneto vertė viršija 5 000 litų;
 
-7)
+7) vertybinius
 
-vertybinius popierius, jeigu jų bendra vertė viršija 5 000 litų.
+popierius, jeigu jų bendra vertė viršija 5 000 litų.
 
 Dalies redakcija nuo 2014-01-01:
 
-1. Šio Įstatymo 2 straipsnio 1 dalies 1–24, 27, 29–36
+1. Šio Įstatymo
 
-punktuose nurodyti gyventojai privalo deklaruoti šį savo turimą turtą:
+2 straipsnio 1 dalies 1–24, 27, 29–37 punktuose nurodyti gyventojai privalo
 
-1) nekilnojamąjį daiktą, įskaitant nebaigtą statyti
+deklaruoti šį savo turimą turtą:
 
-statinį;
+1) nekilnojamąjį
 
-2) kilnojamąjį daiktą, jeigu šios rūšies daiktui pagal
+daiktą, įskaitant nebaigtą statyti statinį;
 
-Lietuvos Respublikos teisės aktus privaloma teisinė registracija;
+2) kilnojamąjį
 
-3) pinigines lėšas (toliau – lėšos), turimas bankuose
+daiktą, jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus
 
-ir kitose kredito įstaigose ir ne bankuose ir kitose kredito įstaigose, jeigu
+privaloma teisinė registracija;
 
-jų bendra suma viršija 5 000 litų;
+3) pinigines
 
-4) pasiskolintas ir negrąžintas lėšas, jeigu jų bendra
+lėšas (toliau – lėšos), turimas bankuose ir kitose kredito įstaigose ir ne
 
-suma viršija 5 000 litų;
+bankuose ir kitose kredito įstaigose, jeigu jų bendra suma viršija 5 000 litų;
 
-5) paskolintas ir nesusigrąžintas lėšas, jeigu jų
+4) pasiskolintas
 
-bendra suma viršija 5 000 litų;
+ir negrąžintas lėšas, jeigu jų bendra suma viršija 5 000 litų;
 
-6) meno kūrinius, brangakmenius, juvelyrinius
+5) paskolintas
 
-dirbinius, tauriuosius metalus, kurių vieneto vertė viršija 5 000 litų;
+ir nesusigrąžintas lėšas, jeigu jų bendra suma viršija 5 000 litų;
 
-7)
+6) meno
 
-vertybinius popierius, jeigu jų bendra vertė viršija 5 000 litų.
+kūrinius, brangakmenius, juvelyrinius dirbinius, tauriuosius metalus, kurių
+
+vieneto vertė viršija 5 000 litų;
+
+7) vertybinius
+
+popierius, jeigu jų bendra vertė viršija 5 000 litų.
 
 2.
 
@@ -346,19 +352,19 @@ subjektais, žvalgybos institucijomis ir kitais įstatymų nustatytais atvejais,
 
 nedeklaruojamas.
 
-5. Šio Įstatymo
+5.
 
-2 straipsnio 1 dalies 24, 25, 27 ir 28 punktuose nurodyti gyventojai deklaruoja
+Šio Įstatymo 2 straipsnio 1 dalies 24, 25, 27, 28 ir 37 punktuose nurodyti
 
-ir gautas pajamas.
+gyventojai deklaruoja ir gautas pajamas.
 
 Dalies redakcija nuo 2014-01-01:
 
 5.
 
-Šio Įstatymo 2 straipsnio 1 dalies 24, 27 ir 28 punktuose nurodyti gyventojai
+Šio Įstatymo 2 straipsnio 1 dalies 24, 27, 28 ir 37 punktuose nurodyti
 
-deklaruoja ir gautas pajamas.
+gyventojai deklaruoja ir gautas pajamas.
 
 Straipsnio
 
@@ -394,6 +400,14 @@ XII-271,
 
 2013-05-09, Žin., 2013, Nr. 54-2676 (2013-05-25)
 
+Nr. XII-623, 2013-11-26, Žin.,
+
+2013, Nr. 128-6516 (2013-12-14)
+
+Nr.
+
+XII-624, 2013-11-26, Žin., 2013, Nr. 128-6517 (2013-12-14)
+
 4
 
 straipsnis. Deklaruoto turto įsigijimo šaltinių pagrindimas
@@ -420,9 +434,9 @@ rašytiniais patvirtinimais. Sandorius patvirtinančiuose dokumentuose, kituose
 
 juridinę galią turinčiuose dokumentuose arba trečiųjų asmenų rašytiniuose
 
-patvirtinimuose turi būti nurodyti duomenys, leidžiantys nustatyti lėšas
+patvirtinimuose turi būti nurodyti duomenys, leidžiantys nustatyti lėšas išmokėjusio
 
-išmokėjusio asmens tapatybę.
+asmens tapatybę.
 
 3. Prie užsienio
 
@@ -440,7 +454,7 @@ straipsnis. Turto deklaravimo tvarka
 
 1. Šio Įstatymo
 
-2 straipsnio 1 dalies 1–23, 29–36 punktuose nurodyti gyventojai deklaruoja
+2 straipsnio 1 dalies 1–23, 29–37 punktuose nurodyti gyventojai deklaruoja
 
 kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija (toliau –
 
@@ -460,21 +474,21 @@ kuriuos deklaruojamas turimas turtas, gegužės 1 dienos, išskyrus šio Įstaty
 
 6, 7, 71 ir 72 straipsniuose nustatytus atvejus.
 
-3. Gali būti
+3. Gali būti tikslinami
 
-tikslinami penkerių praėjusių kalendorinių metų deklaracijų duomenys, pradedant
+penkerių praėjusių kalendorinių metų deklaracijų duomenys, pradedant skaičiuoti
 
-skaičiuoti nuo kalendorinių metų, buvusių prieš tuos kalendorinius metus,
+nuo kalendorinių metų, buvusių prieš tuos kalendorinius metus, kuriais
 
-kuriais tikslinama.
+tikslinama.
 
 4. Deklaracijos
 
-formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčio
+formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčio administratorius.
 
-administratorius. Gyventojai, pagal šį Įstatymą deklaruojantys turtą,
+Gyventojai, pagal šį Įstatymą deklaruojantys turtą, nemokamai aprūpinami
 
-nemokamai aprūpinami deklaracijos blankais ir deklaracijos pildymo taisyklėmis.
+deklaracijos blankais ir deklaracijos pildymo taisyklėmis.
 
 5. Kriminalinės
 
@@ -515,6 +529,10 @@ Nr. XI-2246,
 Nr. XI-2283,
 
 2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
+
+Nr.
+
+XII-624, 2013-11-26, Žin., 2013, Nr. 128-6517 (2013-12-14)
 
 4 straipsnis.
 
@@ -658,31 +676,31 @@ gyventojų turimą turtą.
 
 9 straipsnis. Atsakomybė už šio Įstatymo pažeidimą
 
-1. Šio Įstatymo 2 straipsnio
+1. Šio Įstatymo
 
-1 dalies 1–23, 26, 29–36 punktuose nurodyti turtą deklaruoti privalantys
+2 straipsnio 1 dalies 1–23, 26, 29–37 punktuose nurodyti turtą deklaruoti
 
-gyventojai, vengiantys pateikti deklaracijas laiku arba iš viso jų nepateikę,
+privalantys gyventojai, vengiantys pateikti deklaracijas laiku arba iš viso jų
 
-taip pat šio Įstatymo 2 straipsnio 1 dalies 24, 25 ir 28 punktuose nurodyti
+nepateikę, taip pat šio Įstatymo 2 straipsnio 1 dalies 24, 25 ir 28 punktuose
 
-turtą deklaruoti privalantys gyventojai, neteisingai nurodę duomenis, atsako
+nurodyti turtą deklaruoti privalantys gyventojai, neteisingai nurodę duomenis,
 
-administracine ar baudžiamąja tvarka.
+atsako administracine ar baudžiamąja tvarka.
 
 Dalies redakcija nuo 2014-01-01:
 
-1. Šio Įstatymo 2 straipsnio 1 dalies 1–23, 26, 29–36
+1.
 
-punktuose nurodyti turtą deklaruoti privalantys gyventojai, vengiantys pateikti
+Šio Įstatymo 2 straipsnio 1 dalies 1–23, 26, 29–37 punktuose nurodyti turtą
 
-deklaracijas, laiku arba iš viso jų nepateikę, taip pat šio Įstatymo 2
+deklaruoti privalantys gyventojai, vengiantys pateikti deklaracijas laiku arba
 
-straipsnio 1 dalies 24 ir 28 punktuose nurodyti turtą deklaruoti privalantys
+iš viso jų nepateikę, taip pat šio Įstatymo 2 straipsnio 1 dalies 24 ir 28
 
-gyventojai, neteisingai nurodę duomenis, atsako administracine ar baudžiamąja
+punktuose nurodyti turtą deklaruoti privalantys gyventojai, neteisingai nurodę
 
-tvarka.
+duomenis, atsako administracine ar baudžiamąja tvarka.
 
 2. Šio Įstatymo 2 straipsnio
 
@@ -739,6 +757,14 @@ Nr.
 XII-271,
 
 2013-05-09, Žin., 2013, Nr. 54-2676 (2013-05-25)
+
+Nr. XII-623, 2013-11-26, Žin.,
+
+2013, Nr. 128-6516 (2013-12-14)
+
+Nr.
+
+XII-624, 2013-11-26, Žin., 2013, Nr. 128-6517 (2013-12-14)
 
 10
 
@@ -812,9 +838,9 @@ deklaracijų, taip pat patikslintų paskutinių kalendorinių metų pagrindinių
 
 deklaracijos duomenų išrašus „Valstybės žinių“ redakcijai kasmet iki rugsėjo 1
 
-dienos pateikia centrinis mokesčio administratorius. „Valstybės žinios“ deklaracijų
+dienos pateikia centrinis mokesčio administratorius. „Valstybės žinios“
 
-išrašų duomenis, įskaitant paskutinių kalendorinių metų deklaracijų
+deklaracijų išrašų duomenis, įskaitant paskutinių kalendorinių metų deklaracijų
 
 patikslintus duomenis, kasmet paskelbia iki spalio 1 dienos.
 
@@ -824,13 +850,13 @@ redakcija nuo 2014-01-01:
 
 3. Šio
 
-straipsnio 2 dalyje išvardytų gyventojų deklaracijų duomenys skelbiami centrinio
+straipsnio 2 dalyje išvardytų gyventojų deklaracijų duomenys skelbiami
 
-mokesčio administratoriaus interneto svetainėje. Pagrindinių deklaracijos
+centrinio mokesčio administratoriaus interneto svetainėje. Pagrindinių
 
-duomenų išrašą nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota
+deklaracijos duomenų išrašą nustato Lietuvos Respublikos Vyriausybė arba jos
 
-institucija. Šių gyventojų deklaracijų išrašų duomenys ir paskutinių
+įgaliota institucija. Šių gyventojų deklaracijų išrašų duomenys ir paskutinių
 
 kalendorinių metų deklaracijų patikslinti duomenys kasmet paskelbiami iki
 
@@ -1138,9 +1164,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-1911,
+Nr. IX-1911, 2003-12-18,
 
-2003-12-18, Žin., 2003, Nr. 123-5583 (2003-12-30)
+Žin., 2003, Nr. 123-5583 (2003-12-30)
 
 GYVENTOJŲ
 
@@ -1238,9 +1264,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. XI-684, 2010-02-11,
+Nr. XI-684,
 
-Žin., 2010, Nr. 25-1178 (2010-03-02)
+2010-02-11, Žin., 2010, Nr. 25-1178 (2010-03-02)
 
 GYVENTOJŲ TURTO DEKLARAVIMO
 
@@ -1268,11 +1294,11 @@ turto deklaravimo įstatymą;
 
 padėties“ nustatyta tvarka įgijusiems teisę nuolat gyventi Lietuvoje asmenims,
 
-kurie šią teisę įgijo 2004 ir vėlesniais metais iki šio įstatymo įsigaliojimo
+kurie šią teisę įgijo 2004 ir vėlesniais metais iki šio įstatymo įsigaliojimo dienos
 
-dienos ir nėra deklaravę turimo turto pagal Gyventojų turto deklaravimo
+ir nėra deklaravę turimo turto pagal Gyventojų turto deklaravimo įstatymą arba
 
-įstatymą arba pagal Vienkartinio gyventojų turto deklaravimo įstatymą.
+pagal Vienkartinio gyventojų turto deklaravimo įstatymą.
 
 Šio
 
@@ -1312,9 +1338,9 @@ Nr. XI-819,
 
 GYVENTOJŲ TURTO DEKLARAVIMO
 
-ĮSTATYMO 1, 2, 3, 9 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO IR ĮSTATYMO PAPILDYMO 7(2)
+ĮSTATYMO 1, 2, 3, 9 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO IR ĮSTATYMO PAPILDYMO
 
-STRAIPSNIU ĮSTATYMAS
+7(2) STRAIPSNIU ĮSTATYMAS
 
 Šis
 
@@ -1326,9 +1352,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. XI-1052,
+Nr. XI-1052, 2010-10-12,
 
-2010-10-12, Žin., 2010, Nr. 125-6377 (2010-10-23)
+Žin., 2010, Nr. 125-6377 (2010-10-23)
 
 GYVENTOJŲ TURTO DEKLARAVIMO
 
@@ -1370,9 +1396,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. XI-1785,
+Nr. XI-1785, 2011-12-06,
 
-2011-12-06, Žin., 2011, Nr. 153-7210 (2011-12-15)
+Žin., 2011, Nr. 153-7210 (2011-12-15)
 
 GYVENTOJŲ
 
@@ -1508,13 +1534,49 @@ TURTO DEKLARAVIMO ĮSTATYMO 1, 2, 3, 7 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja 2014 m. sausio 1 d.
 
+Šio
+
+įstatymo pakeitimas:
+
+32.1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-623, 2013-11-26, Žin.,
+
+2013, Nr. 128-6516 (2013-12-14)
+
+GYVENTOJŲ TURTO DEKLARAVIMO
+
+ĮSTATYMO 1, 2, 3, 7 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 3 IR 5 STRAIPSNIŲ
+
+PAKEITIMO ĮSTATYMAS
+
+33.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XII-624, 2013-11-26, Žin., 2013, Nr. 128-6517 (2013-12-14)
+
+GYVENTOJŲ
+
+TURTO DEKLARAVIMO ĮSTATYMO 2, 3, 5, 9 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO
+
+ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2013-05-30)
+Aušrinė Trapinskienė (2013-12-16)
 
 ausrine.trapinskiene@lrs.lt
 
@@ -2748,45 +2810,45 @@ einantys pareigas, nurodytas šio Įstatymo 2 straipsnio 1 dalies 5–23,
 
 29–35 punktuose, buvo priimti arba paskirti į pareigas, gruodžio 31 dieną
 
-turimą turtą, privalo deklaruoti kalendorinių metų, einančių prieš kalendorinius
+turimą turtą, privalo deklaruoti kalendorinių metų, einančių prieš
 
-metus, kuriais valstybės politikai ar Europos Parlamento nariai buvo išrinkti
+kalendorinius metus, kuriais valstybės politikai ar Europos Parlamento nariai
 
-arba paskirti į pareigas, valstybės tarnautojai ar asmenys, einantys pareigas,
+buvo išrinkti arba paskirti į pareigas, valstybės tarnautojai ar asmenys,
 
-nurodytas šio Įstatymo 2 straipsnio 1 dalies 5–23, 29–35 punktuose, buvo
+einantys pareigas, nurodytas šio Įstatymo 2 straipsnio 1 dalies 5–23, 29–35
 
-priimti arba paskirti į pareigas, gruodžio 31 dieną turimą turtą. Deklaracijos
+punktuose, buvo priimti arba paskirti į pareigas, gruodžio 31 dieną turimą
 
-pateikiamos per 30 dienų nuo išrinkimo, paskyrimo arba priėmimo į pareigas
+turtą. Deklaracijos pateikiamos per 30 dienų nuo išrinkimo, paskyrimo arba
 
-pradžios. Išrinktiems arba paskirtiems į pareigas valstybės politikams bei
+priėmimo į pareigas pradžios. Išrinktiems arba paskirtiems į pareigas valstybės
 
-Europos Parlamento nariams ir jų šeimos nariams, priimtiems arba paskirtiems į
+politikams bei Europos Parlamento nariams ir jų šeimos nariams, priimtiems arba
 
-pareigas valstybės tarnautojams ir jų šeimos nariams, taip pat asmenims,
+paskirtiems į pareigas valstybės tarnautojams ir jų šeimos nariams, taip pat
 
-priimtiems arba paskirtiems į pareigas, nurodytas šio Įstatymo 2 straipsnio 1
+asmenims, priimtiems arba paskirtiems į pareigas, nurodytas šio Įstatymo 2
 
-dalies 5–23, 29–35 punktuose, ir jų šeimos nariams, deklaravusiems turtą,
+straipsnio 1 dalies 5–23, 29–35 punktuose, ir jų šeimos nariams, deklaravusiems
 
-vietos mokesčio administratorius per 15 darbo dienų nuo deklaracijos
+turtą, vietos mokesčio administratorius per 15 darbo dienų nuo
 
-pateikimo dienos išduoda pažymas apie deklaracijų pateikimą, išskyrus tuos,
+deklaracijos pateikimo dienos išduoda pažymas apie deklaracijų pateikimą,
 
-kurie yra deklaravę kalendorinių metų, einančių prieš kalendorinius metus,
+išskyrus tuos, kurie yra deklaravę kalendorinių metų, einančių prieš
 
-kuriais valstybės politikai ar Europos Parlamento nariai buvo išrinkti arba
+kalendorinius metus, kuriais valstybės politikai ar Europos Parlamento nariai
 
-paskirti į pareigas, valstybės tarnautojai, asmenys, einantys pareigas,
+buvo išrinkti arba paskirti į pareigas, valstybės tarnautojai, asmenys,
 
-nurodytas šio Įstatymo 2 straipsnio 1 dalies 5–23, 29–35 punktuose, buvo
+einantys pareigas, nurodytas šio Įstatymo 2 straipsnio 1 dalies 5–23, 29–35
 
-priimti arba paskirti į pareigas, gruodžio 31 dieną turimą turtą ir kuriems vietos
+punktuose, buvo priimti arba paskirti į pareigas, gruodžio 31 dieną turimą
 
-mokesčio administratorius per 5 darbo dienas išduoda pažymas apie deklaracijų
+turtą ir kuriems vietos mokesčio administratorius per 5 darbo dienas išduoda
 
-pateikimą.
+pažymas apie deklaracijų pateikimą.
 
 4. Nustoję eiti
 
@@ -2806,17 +2868,17 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1838,
+Nr. X-1838, 2008-11-14,
 
-2008-11-14, Žin., 2008, Nr. 138-5445 (2008-12-02)
+Žin., 2008, Nr. 138-5445 (2008-12-02)
 
 Nr. XI-1785,
 
 2011-12-06, Žin., 2011, Nr. 153-7210 (2011-12-15)
 
-Nr. XI-2283,
+Nr. XI-2283, 2012-10-17,
 
-2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
+Žin., 2012, Nr. 126-6326 (2012-10-31)
 
 7
 
@@ -2892,9 +2954,9 @@ pageidaujantys gauti valstybės paramą būstui įsigyti ar išsinuomoti, ir jų
 
 šeimos nariai privalo turimą turtą ir gautas pajamas deklaruoti Lietuvos
 
-Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams
+Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams
 
-atnaujinti (modernizuoti) įstatyme nustatytais atvejais.
+namams atnaujinti (modernizuoti) įstatyme nustatytais atvejais.
 
 6. Gyventojai,
 
@@ -3044,9 +3106,9 @@ X-1496,
 
 2008-04-15, Žin., 2008, Nr. 50-1845 (2008-04-30)
 
-Nr. XI-1052, 2010-10-12,
+Nr. XI-1052,
 
-Žin., 2010, Nr. 125-6377 (2010-10-23)
+2010-10-12, Žin., 2010, Nr. 125-6377 (2010-10-23)
 
 Nr.
 
