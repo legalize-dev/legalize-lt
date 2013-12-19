@@ -4,7 +4,7 @@ identifier: "TAR.1C05F0250868"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-12"
-last_updated: "2013-06-01"
+last_updated: "2013-12-19"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1C05F0250868"
 department: "Lietuvos Respublikos Seimas"
@@ -776,9 +776,9 @@ skiriama Garantinio fondo lėšų suma, jų naudojimo tvarka, sąskaita Garantin
 
 fondo lėšoms pervesti, informacija apie šio įstatymo 4 straipsnio 2 dalies 1
 
-punkte nurodytą atvejį dėl išmokų iš Garantinio fondo nepervedimo, Garantinio fondo
+punkte nurodytą atvejį dėl išmokų iš Garantinio fondo nepervedimo, Garantinio
 
-administratoriaus ir administratoriaus įsipareigojimai ir atsakomybė.
+fondo administratoriaus ir administratoriaus įsipareigojimai ir atsakomybė.
 
 8. Administratorius ne vėliau kaip per 30 dienų nuo Garantinio fondo
 
@@ -954,6 +954,14 @@ priima sprendimus dėl Garantinio fondo lėšų skyrimo;
 
 Garantinio fondo metinių ataskaitų rinkiniui ir teikia juos Vyriausybei;
 
+Redakcija nuo 2014-01-01:
+
+2) pritaria
+
+Garantinio fondo lėšų sąmatos projektui ir Garantinio fondo metinių ataskaitų
+
+rinkiniui;
+
 3) svarsto
 
 ketvirčio ir metinę Garantinio fondo administratoriaus veiklos ataskaitas ir
@@ -964,13 +972,23 @@ teikia pasiūlymus dėl Garantinio fondo administravimo;
 
 5) teikia
 
-pasiūlymus dėl Garantinio fondo sudarymo ir išmokų iš Garantinio fondo
+pasiūlymus dėl Garantinio fondo sudarymo ir išmokų iš Garantinio fondo maksimalių
 
-maksimalių dydžių;
+dydžių;
 
 6) atlieka
 
 kitas Garantinio fondo nuostatuose nustatytas funkcijas.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XII-641,
+
+2013-12-03, Žin., 2013, Nr. 130-6625 (2013-12-19)
 
 9
 
@@ -990,15 +1008,15 @@ atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių r
 
 patvirtinimo įstatymo projektu Lietuvos Respublikos Seimo statute nustatyta
 
-tvarka ir terminais. Jeigu ateinančių metų Garantinio fondo lėšų sąmata
+tvarka ir terminais. Jeigu ateinančių metų Garantinio fondo lėšų sąmata nepatvirtinama
 
-nepatvirtinama iki einamųjų metų pabaigos, Garantinio fondo lėšos, skiriamos
+iki einamųjų metų pabaigos, Garantinio fondo lėšos, skiriamos vadovaujantis šio
 
-vadovaujantis šio įstatymo 4 straipsniu, metų pradžioje iki Garantinio fondo
+įstatymo 4 straipsniu, metų pradžioje iki Garantinio fondo lėšų sąmatos
 
-lėšų sąmatos patvirtinimo kiekvieną mėnesį negali viršyti 1/12 praėjusiais
+patvirtinimo kiekvieną mėnesį negali viršyti 1/12 praėjusiais metais Garantinio
 
-metais Garantinio fondo tarybos skirtų Garantinio fondo lėšų.
+fondo tarybos skirtų Garantinio fondo lėšų.
 
 3. Garantinio
 
@@ -1014,11 +1032,31 @@ atskaitomybės įstatymo nustatyta tvarka ir įtraukiamas į valstybės
 
 konsoliduotąsias finansines ataskaitas.
 
+Redakcija nuo 2014-01-01:
+
+3. Garantinio
+
+fondo metinių ataskaitų rinkinio sudarymą, teikimą, tvirtinimą ir skelbimą
+
+reglamentuoja Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas
+
+(toliau – Viešojo sektoriaus atskaitomybės įstatymas).
+
 4. Valstybės
 
 kontrolė kiekvienais metais atlieka Garantinio fondo metinių ataskaitų rinkinio
 
 auditą ir parengia audito išvadą.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XII-641,
+
+2013-12-03, Žin., 2013, Nr. 130-6625 (2013-12-19)
 
 Skelbiu šį
 
@@ -1068,9 +1106,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-631,
+Nr. IX-631, 2001-12-06,
 
-2001-12-06, Žin., 2001, Nr. 104-3703 (2001-12-12)
+Žin., 2001, Nr. 104-3703 (2001-12-12)
 
 GARANTINIO
 
@@ -1210,9 +1248,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. X-1222, 2007-06-26,
+Nr. X-1222,
 
-Žin., 2007, Nr. 77-3054 (2007-07-12)
+2007-06-26, Žin., 2007, Nr. 77-3054 (2007-07-12)
 
 GARANTINIO
 
@@ -1268,9 +1306,9 @@ išmokų sumoms taikomi tokie Lietuvos Respublikos Vyriausybės patvirtinti
 
 išeitinių išmokų dydžio (iki 2 minimaliųjų mėnesinių algų) apribojimai, kokie
 
-buvo taikomi tuo laikotarpiu, per kurį šiame įstatyme nurodytiems darbuotojams
+buvo taikomi tuo laikotarpiu, per kurį šiame įstatyme nurodytiems darbuotojams buvo
 
-buvo mokamas darbo užmokesčio įsiskolinimas iš Garantinio fondo.
+mokamas darbo užmokesčio įsiskolinimas iš Garantinio fondo.
 
 11.
 
@@ -1320,27 +1358,25 @@ normas, galiojusias iki šio įstatymo įsigaliojimo.
 
 Paraiškas dėl išeitinių išmokų skyrimo
 
-buvusių darbdavių, nurodytų šio įstatymo 1 straipsnyje išdėstyto Lietuvos
+buvusių darbdavių, nurodytų šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos
 
-Respublikos Garantinio fondo įstatymo 2 straipsnio 4 dalies 1 ir
+Garantinio fondo įstatymo 2 straipsnio 4 dalies 1 ir 2 punktuose,
 
-2 punktuose, kurių bankroto bylos iškeltos arba bankroto procesas ne
+kurių bankroto bylos iškeltos arba bankroto procesas ne teismo tvarka pradėtas iki Lietuvos Respublikos Garantinio fondo įstatymo
 
-teismo tvarka pradėtas iki Lietuvos Respublikos
+įsigaliojimo dienos ir buvo tęsiamas įstatymui įsigaliojus, darbuotojams
 
-Garantinio fondo įstatymo įsigaliojimo dienos ir buvo tęsiamas įstatymui
+savivaldybės, kurios teritorijoje buvo įregistruotas šis darbdavys, likviduotas
 
-įsigaliojus, darbuotojams savivaldybės, kurios teritorijoje buvo įregistruotas
+dėl bankroto įsigaliojus Lietuvos Respublikos Garantinio fondo įstatymui,
 
-šis darbdavys, likviduotas dėl bankroto įsigaliojus Lietuvos Respublikos
+tarybos įgaliota įstaiga arba jos pavedimu administratorius Garantinio fondo administratoriui
 
-Garantinio fondo įstatymui, tarybos įgaliota įstaiga arba jos pavedimu
+teikia iki 2013 m. liepos 1 d. Šios paraiškos nagrinėjamos ir Garantinio fondo
 
-administratorius Garantinio fondo administratoriui teikia iki 2013 m. liepos 1
+lėšos skiriamos pagal teisės normas, galiojusias iki šio įstatymo
 
-d. Šios paraiškos nagrinėjamos ir Garantinio fondo lėšos skiriamos pagal
-
-teisės normas, galiojusias iki šio įstatymo įsigaliojimo.
+įsigaliojimo.
 
 Fiziniai
 
@@ -1364,13 +1400,29 @@ GARANTINIO
 
 FONDO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+15.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-641,
+
+2013-12-03, Žin., 2013, Nr. 130-6625 (2013-12-19)
+
+GARANTINIO
+
+FONDO ĮSTATYMO 8 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2014 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2013-06-05)
+Aušrinė Trapinskienė (2013-12-20)
 
 ausrine.trapinskiene@lrs.lt
 
