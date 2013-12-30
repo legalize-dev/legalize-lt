@@ -4,7 +4,7 @@ identifier: "TAR.A787DFAB50C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-13"
-last_updated: "2012-07-14"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A787DFAB50C0"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 4, 7, 8,
 
 16, 19 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2012-07-14 iki 2013-12-29
+Suvestinė redakcija nuo 2013-12-30 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 160-7561, i. k. 1111010ISTA0XI-1792
 
@@ -104,7 +104,11 @@ Papildyti 19 straipsnį 5 dalimi:
 
 4. Šio įstatymo 2 straipsnio 2 dalis galioja iki 2013 m. gruodžio 31 d.
 
-5. Šio įstatymo 2 straipsnio 3 dalis įsigalioja 2014 m. sausio 1 d.
+5. Šio įstatymo 2 straipsnio 3 dalis įsigalioja 2015 m. sausio 1 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-727, 2013-12-23, Žin., 2013, Nr. 140-7086 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00017
 
 6. Šio įstatymo nuostatos, be kita ko, taikomos ir arbitražo ar teismo sprendimų vykdymo procesui, kai antstoliai jau yra nukreipę išieškojimą į Fondo lėšų sąskaitas, bet dar nėra paskirstę ar išmokėję lėšų išieškotojams.
 
@@ -125,4 +129,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2175, 2012-06-29, Žin., 2012, Nr. 83-4349 (2012-07-14), i. k. 1121010ISTA0XI-2175
 
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 7, 8, 16, 19 straipsnių pakeitimo ir papildymo įstatymo 2 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-727, 2013-12-23, Žin., 2013, Nr. 140-7086 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00017
+
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 7, 8, 16, 19 straipsnių pakeitimo ir papildymo įstatymo 6 straipsnio pakeitimo ĮSTATYMAS
 
