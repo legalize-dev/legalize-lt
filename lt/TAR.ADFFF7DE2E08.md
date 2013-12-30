@@ -4,7 +4,7 @@ identifier: "TAR.ADFFF7DE2E08"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-10-17"
-last_updated: "2012-12-29"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ADFFF7DE2E08"
 department: "Lietuvos Respublikos Seimas"
@@ -860,11 +860,11 @@ nuorašus;“.
 
 2.
 
-Šio įstatymo 8 straipsnio 1 dalis įsigalioja 2014 m. sausio 1 d.
+Šio įstatymo 8 straipsnio 1 dalis įsigalioja 2015 m. sausio 1 d.
 
 3.
 
-Šio įstatymo 8 straipsnio 2 dalis galioja iki 2013 m. gruodžio 31 d.
+Šio įstatymo 8 straipsnio 2 dalis galioja iki 2014 m. gruodžio 31 d.
 
 4.
 
@@ -879,6 +879,10 @@ pakeitimai:
 Nr. XII-126,
 
 2012-12-20, Žin., 2012, Nr. 154-7932 (2012-12-29)
+
+Nr. XII-669,
+
+2013-12-12, Žin., 2013, Nr. 140-7051 (2013-12-30)
 
 Skelbiu šį
 
@@ -906,11 +910,25 @@ VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
 
 PAPILDYMO ĮSTATYMO 8 IR 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-669,
+
+2013-12-12, Žin., 2013, Nr. 140-7051 (2013-12-30)
+
+LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO
+
+DRAUDIMO ĮSTATYMO 2, 3, 4, 5, 16, 17, 21, 22, 25, 26, 27, 29, 31, 36 STRAIPSNIŲ
+
+PAKEITIMO IR PAPILDYMO ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2013-01-03)
+(2014-01-02)
 
 ausrine.trapinskiene@lrs.lt
 
