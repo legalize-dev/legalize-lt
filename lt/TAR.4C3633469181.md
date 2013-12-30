@@ -4,7 +4,7 @@ identifier: "TAR.4C3633469181"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-10-17"
-last_updated: "2012-12-29"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4C3633469181"
 department: "Lietuvos Respublikos Seimas"
@@ -466,9 +466,9 @@ rodikliai, būtini Fondo biudžetui vykdyti.“
 
 straipsnį nauja 2 dalimi:
 
-„2. Pakeisti 11
+„2. Pakeisti ir
 
-straipsnio 1 dalį ir ją išdėstyti taip:
+papildyti 11 straipsnio 1 dalį ir ją išdėstyti taip:
 
 „1. Fondo
 
@@ -520,9 +520,9 @@ dalims gauti tarifai;
 
 7) apdraustųjų,
 
-dalyvaujančių pensijų kaupime, pensijų socialinio draudimo įmokų dalies,
+dalyvaujančių pensijų kaupime, pensijų socialinio draudimo įmokų dalies, pervedamos
 
-pervedamos pensijų kaupimo bendrovėms, tarifas;
+pensijų kaupimo bendrovėms, tarifas;
 
 8) pensijų
 
@@ -534,9 +534,25 @@ senatvės pensijos papildomai daliai;
 
 valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių dydis;
 
-10) kiti rodikliai,
+10) dydis,
 
-būtini Fondo biudžetui vykdyti.“
+skirtas Fondo veiklos sąnaudų kompensacijai už išmokų, finansuojamų iš
+
+valstybės biudžeto, skyrimą, mokėjimą ir pristatymą apskaičiuoti, išreikštas
+
+kaip procentinė dalis nuo šioms išmokoms skirtos valstybės biudžeto lėšų sumos;
+
+11)
+
+dydis, skirtas Fondo veiklos sąnaudų kompensacijai už įmokų surinkimą ir
+
+pervedimą į fondus apskaičiuoti, išreikštas kaip procentinė dalis nuo
+
+planuojamos surinkti šių įmokų sumos;
+
+12) kiti
+
+rodikliai, būtini Fondo biudžetui vykdyti.“
 
 3. Papildyti 11 straipsnį 3 dalimi:
 
@@ -553,6 +569,10 @@ Straipsnio pakeitimai:
 Nr. XII-124,
 
 2012-12-20, Žin., 2012, Nr. 154-7930 (2012-12-29)
+
+Nr. XII-667,
+
+2013-12-12, Žin., 2013, Nr. 140-7049 (2013-12-30)
 
 8
 
@@ -638,17 +658,15 @@ straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 įstatymas, išskyrus 3 straipsnio 2 dalį, 7 straipsnio 1 ir 3 dalis
 
-ir šio straipsnio 5 dalį, įsigalioja 2013 m.
-
-sausio 1 d.
+ir šio straipsnio 5 dalį, įsigalioja 2013 m. sausio 1 d.
 
 2. Šio įstatymo
 
-3 straipsnio 2 dalis, 7 straipsnio 1 dalis įsigalioja 2014 m. sausio 1 d.
+3 straipsnio 2 dalis, 7 straipsnio 1 dalis įsigalioja 2015 m. sausio 1 d.
 
 3. Šio įstatymo
 
-3 straipsnio 3 dalis, 7 straipsnio 2 dalis galioja iki 2013 m. gruodžio 31 d.
+3 straipsnio 3 dalis, 7 straipsnio 2 dalis galioja iki 2014 m. gruodžio 31 d.
 
 4. Šio
 
@@ -672,13 +690,19 @@ Nr. XII-124,
 
 2012-12-20, Žin., 2012, Nr. 154-7930 (2012-12-29)
 
+Nr. XII-667,
+
+2013-12-12, Žin., 2013, Nr. 140-7049 (2013-12-30)
+
 Skelbiu šį Lietuvos Respublikos Seimo
 
 priimtą įstatymą.
 
 RESPUBLIKOS
 
-PREZIDENTĖ                                                       DALIA GRYBAUSKAITĖ
+PREZIDENTĖ                                                       DALIA
+
+GRYBAUSKAITĖ
 
 Pakeitimai:
 
@@ -698,11 +722,27 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMO 3, 7 IR 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 
 ĮSTATYMAS
 
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-667,
+
+2013-12-12, Žin., 2013, Nr. 140-7049 (2013-12-30)
+
+LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO
+
+DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 3, 4, 5, 6, 7, 9, 11, 13, 14, 15
+
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 7 IR 11 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2013-01-07)
+(2014-01-02)
 
 ausrine.trapinskiene@lrs.lt
 
