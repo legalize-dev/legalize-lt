@@ -4,7 +4,7 @@ identifier: "TAR.F8FDB5578B69"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-06-18"
-last_updated: "2012-12-29"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8FDB5578B69"
 department: "Lietuvos Respublikos Seimas"
@@ -96,13 +96,13 @@ straipsnis. Įstatymo įsigaliojimas
 
 2. Šio įstatymo
 
-2 straipsnio 2 dalis įsigalioja 2013 m. sausio 1 d. ir galioja iki 2013 m.
+2 straipsnio 2 dalis įsigalioja 2013 m. sausio 1 d. ir galioja iki 2014 m.
 
 gruodžio 31 d.
 
 3. Šio įstatymo
 
-2 straipsnio 1 dalis įsigalioja 2014 m. sausio 1 d.
+2 straipsnio 1 dalis įsigalioja 2015 m. sausio 1 d.
 
 Straipsnio
 
@@ -111,6 +111,10 @@ pakeitimai:
 Nr. XII-125,
 
 2012-12-20, Žin., 2012, Nr. 154-7931 (2012-12-29)
+
+Nr. XII-668,
+
+2013-12-12, Žin., 2013, Nr. 140-7050 (2013-12-30)
 
 4
 
@@ -140,9 +144,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-XI-2303,
+XI-2303, 2012-10-17,
 
-2012-10-17, Žin., 2012, Nr. 127-6392 (2012-11-03)
+Žin., 2012, Nr. 127-6392 (2012-11-03)
 
 VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
 
@@ -162,13 +166,27 @@ VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
 
 ĮSTATYMAS
 
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-668,
+
+2013-12-12, Žin., 2013, Nr. 140-7050 (2013-12-30)
+
+LIETUVOS RESPUBLIKOS VALSTYBINIO
+
+SOCIALINIO DRAUDIMO ĮSTATYMO 22 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 3
+
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2013-01-03)
+Aušrinė Trapinskienė (2014-01-02)
 
 ausrine.trapinskiene@lrs.lt
 
