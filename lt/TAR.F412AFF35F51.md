@@ -4,7 +4,7 @@ identifier: "TAR.F412AFF35F51"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-12-09"
-last_updated: "2012-12-31"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F412AFF35F51"
 department: "Lietuvos Respublikos Seimas"
@@ -888,9 +888,9 @@ nustatyta tvarka ir perskaičiuojamos taikant šio įstatymo nuostatas.
 
 Įstatymo įsigaliojimas ir taikymas
 
-1.  Šis
+1. Šis įstatymas, išskyrus 16 straipsnį,
 
-įstatymas, išskyrus 16 straipsnį, įsigalioja 2010 m. sausio 1 d. ir galioja:
+įsigalioja 2010 m. sausio 1 d. ir galioja:
 
 1) šio įstatymo
 
@@ -902,9 +902,13 @@ punktuose nurodytoms išmokoms – iki 2011 m. gruodžio 31 d.;
 
 1 straipsnio 2 dalies 1 ir 3 punktuose nurodytoms išmokoms, 4 punkte
 
-nurodytoms slaugos ir priežiūros (pagalbos) išlaidų tikslinėms kompensacijoms
+nurodytoms slaugos ir priežiūros (pagalbos) išlaidų tikslinėms kompensacijoms –
 
-ir 10 punkte nurodytai išmokai – iki 2013 m. gruodžio 31 d.
+iki 2013 m. gruodžio 31 d.;
+
+3) šio įstatymo
+
+1 straipsnio 2 dalies 10 punkte nurodytai išmokai – iki 2014 m. gruodžio 31 d.
 
 2. Šio įstatymo
 
@@ -933,6 +937,10 @@ Nr. XI-1821,
 Nr. XII-92,
 
 2012-12-20, Žin., 2012, Nr. 155-7985 (2012-12-31)
+
+Nr.
+
+XII-674, 2013-12-12, Žin., 2013, Nr. 140-7056 (2013-12-30)
 
 16
 
@@ -1242,6 +1250,22 @@ SOCIALINIŲ IŠMOKŲ PERSKAIČIAVIMO IR
 
 MOKĖJIMO LAIKINOJO ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XII-674, 2013-12-12, Žin., 2013, Nr. 140-7056 (2013-12-30)
+
+LIETUVOS
+
+RESPUBLIKOS SOCIALINIŲ IŠMOKŲ PERSKAIČIAVIMO IR MOKĖJIMO LAIKINOJO ĮSTATYMO 15
+
+STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 *** Pabaiga ***
 
 Konstitucinio Teismo nutarimai:
@@ -1274,7 +1298,9 @@ Lietuvos Respublikos Konstitucinis
 
 Teismas, Nutarimas
 
-2012-02-06, Žin., 2012, Nr. 109-5528 (2012-09-21)
+2012-02-06, Žin., 2012, Nr. 109-5528
+
+(2012-09-21)
 
 DĖL LIETUVOS RESPUBLIKOS TEISĖS AKTŲ
 
@@ -1290,7 +1316,7 @@ Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2013-01-03)
+Aušrinė Trapinskienė (2014-01-06)
 
 ausrine.trapinskiene@lrs.lt
 
