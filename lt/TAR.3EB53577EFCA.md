@@ -4,7 +4,7 @@ identifier: "TAR.3EB53577EFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-13"
-last_updated: "2013-12-19"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -1569,11 +1569,13 @@ prokurorui ir jo pavaduotojams netaikomos šio Įstatymo 25 straipsnio
 
 straipsnių ir 53 straipsnio 2 dalies nuostatos.
 
-4.
+4. Generalinio
 
-Generalinio prokuroro ir jo pavaduotojų asmens ir jų šeimos narių ar turto
+prokuroro ir jo pavaduotojų asmens ir jų šeimos narių ar turto apsauga
 
-apsauga užtikrinama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+užtikrinama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir
+
+sąlygomis.
 
 5.
 
@@ -1592,6 +1594,10 @@ X-1661,
 Nr. XI-1562,
 
 2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
+
+Nr. XII-708,
+
+2013-12-19, Žin., 2013, Nr. 140-7075 (2013-12-30)
 
 Penktasis skirsnis
 
@@ -1639,11 +1645,11 @@ pareigas, jeigu jis yra nepriekaištingos reputacijos Lietuvos Respublikos
 
 pilietis, mokantis valstybinę lietuvių kalbą, turi aukštąjį universitetinį
 
-teisinį išsilavinimą ir yra įgijęs teisės bakalauro ir teisės magistro ar teisininko
+teisinį išsilavinimą ir yra įgijęs teisės bakalauro ir teisės magistro ar
 
-profesinį kvalifikacinį laipsnį, turi trejų metų teisinio darbo stažą ir
+teisininko profesinį kvalifikacinį laipsnį, turi trejų metų teisinio darbo
 
-išlaikė pretendentų į prokurorus egzaminą.
+stažą ir išlaikė pretendentų į prokurorus egzaminą.
 
 2. Užsienio mokymo įstaigose asmens įgytas išsilavinimas pripažįstamas
 
@@ -1717,9 +1723,9 @@ privalo:
 
 1) pateikti
 
-duomenis ir dokumentus, patvirtinančius, kad jis atitinka priėmimo į tarnybą prokuratūroje
+duomenis ir dokumentus, patvirtinančius, kad jis atitinka priėmimo į tarnybą
 
-reikalavimus;
+prokuratūroje reikalavimus;
 
 2) pasitikrinti
 
@@ -1737,9 +1743,9 @@ mokesčio deklaracijas;
 
 4. Nuo pretendentų į prokurorus egzamino atleidžiamas asmuo:
 
-1) išlaikęs pretendento į teisėjus egzaminą, jei nuo šio egzamino išlaikymo
+1) išlaikęs pretendento į teisėjus egzaminą, jei nuo šio egzamino
 
-nepraėjo treji metai;
+išlaikymo nepraėjo treji metai;
 
 2) turintis ne mažiau kaip trejų metų tarnybos prokuroru ar teisėjo
 
@@ -1791,9 +1797,9 @@ pakeitimai:
 
 Nr.
 
-IX-1912,
+IX-1912, 2003-12-18,
 
-2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
+Žin., 2003, Nr. 123-5584 (2003-12-30)
 
 Nr.
 
@@ -1801,9 +1807,9 @@ X-1661,
 
 2008-07-01, Žin., 2008, Nr. 81-3173 (2008-07-17)
 
-Nr. XI-1562,
+Nr. XI-1562, 2011-06-30,
 
-2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
+Žin., 2011, Nr. 91-4333 (2011-07-19)
 
 27 straipsnis. Asmens duomenys
 
@@ -1875,19 +1881,19 @@ stažuotojo, prokuratūros tardytojo (jo padėjėjo) pareigas, tarnybos
 
 prokuratūroje laikas yra įskaitomas į tarnybos prokuroru stažą.
 
-5. Asmens darbo (tarnybos) laikas, nurodytas šio straipsnio 2 ir 3
+5. Asmens darbo (tarnybos) laikas, nurodytas šio straipsnio 2 ir 3 dalyse,
 
-dalyse, į tarnybos prokuroru stažą įskaitomas generalinio prokuroro įsakymu
+į tarnybos prokuroru stažą įskaitomas generalinio prokuroro įsakymu remiantis Atrankos
 
-remiantis Atrankos komisijos, kuriai generalinis prokuroras paveda
-
-atlikti šį vertinimą, teikimu.
+komisijos, kuriai generalinis prokuroras paveda atlikti šį vertinimą, teikimu.
 
 6. Asmuo, nesutikdamas su Atrankos komisijos teikimu, gali jį apskųsti
 
 generaliniam prokurorui, o nesutikdamas su generalinio prokuroro įsakymu dėl
 
-stažo įskaitymo, – teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+stažo įskaitymo, – teismui Administracinių bylų teisenos įstatymo nustatyta
+
+tvarka.
 
 Straipsnio pakeitimai:
 
@@ -2083,9 +2089,9 @@ projektus privalo derinti su stažuotės vadovu.
 
 4. Pasibaigus
 
-prokuroro stažuotės terminui, jo tarnybą vertina Atestacijos komisija. Ji generaliniam
+prokuroro stažuotės terminui, jo tarnybą vertina Atestacijos komisija. Ji
 
-prokurorui pateikia išvadą, kurioje pasiūlo:
+generaliniam prokurorui pateikia išvadą, kurioje pasiūlo:
 
 1) prokuroro
 
@@ -2131,9 +2137,9 @@ kvalifikacijos kėlimas – profesinių žinių plėtimas ir įgūdžių tobulin
 
 2. Prokurorų
 
-mokymą prokurorų stažuotės metu organizuoja Generalinė prokuratūra,
+mokymą prokurorų stažuotės metu organizuoja Generalinė prokuratūra, kvalifikacijos
 
-kvalifikacijos kėlimą – Generalinė prokuratūra ir Teisingumo ministerija.
+kėlimą – Generalinė prokuratūra ir Teisingumo ministerija.
 
 3. Prokuratūra
 
@@ -2145,9 +2151,9 @@ paties sutikimu gali būti siunčiamas kelti kvalifikacijos ne ilgiau kaip
 
 vienerius metus. Šis laikotarpis įskaitomas į tarnybos prokuroru stažą,
 
-prokurorui mokamas iki mokymosi laikotarpio nustatytas darbo užmokestis ir garantuojamos
+prokurorui mokamas iki mokymosi laikotarpio nustatytas darbo užmokestis ir
 
-jo einamos pareigos.
+garantuojamos jo einamos pareigos.
 
 5. Prokuroras,
 
@@ -4873,13 +4879,27 @@ PROKURATŪROS
 
 d.
 
+20.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-708,
+
+2013-12-19, Žin., 2013, Nr. 140-7075 (2013-12-30)
+
+LIETUVOS
+
+RESPUBLIKOS PROKURATŪROS ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2013-12-20)
+Aušrinė Trapinskienė (2014-01-07)
 
 ausrine.trapinskiene@lrs.lt
 
