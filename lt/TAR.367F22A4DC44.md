@@ -4,7 +4,7 @@ identifier: "TAR.367F22A4DC44"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-10-17"
-last_updated: "2012-12-29"
+last_updated: "2013-12-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.367F22A4DC44"
 department: "Lietuvos Respublikos Seimas"
@@ -126,11 +126,11 @@ sausio 1 d.
 
 2.   Šio įstatymo 2
 
-straipsnio 1 dalis įsigalioja 2014 m. sausio 1 d.
+straipsnio 1 dalis įsigalioja 2015 m. sausio 1 d.
 
 3.   Šio įstatymo 2
 
-straipsnio 2 dalis galioja iki 2013 m. gruodžio 31 d.
+straipsnio 2 dalis galioja iki 2014 m. gruodžio 31 d.
 
 Straipsnio pakeitimai:
 
@@ -139,6 +139,10 @@ Nr.
 XII-123,
 
 2012-12-20, Žin., 2012, Nr. 154-7929 (2012-12-29)
+
+Nr. XII-666,
+
+2013-12-12, Žin., 2013, Nr. 140-7048 (2013-12-30)
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -164,11 +168,27 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 
 ĮSTATYMAS
 
-*** Pabaiga ***
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-666,
+
+2013-12-12, Žin., 2013, Nr. 140-7048 (2013-12-30)
+
+LIETUVOS RESPUBLIKOS UŽIMTUMO RĖMIMO
+
+ĮSTATYMO 37 IR 38 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+***
+
+Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2013-01-04)
+Aušrinė Trapinskienė (2014-01-02)
 
 ausrine.trapinskiene@lrs.lt
 
