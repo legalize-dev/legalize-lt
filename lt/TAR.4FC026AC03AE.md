@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2013-07-20"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -4288,11 +4288,11 @@ pareigūną iš vidaus tarnybos
 
 1. Atleidžiant
 
-pareigūną iš vidaus tarnybos pagal šio Statuto 53 straipsnio 1 dalies 4, 11, 15
+pareigūną iš vidaus tarnybos pagal šio Statuto 53 straipsnio 1 dalies 4, 11,
 
-ir 16 punktus, išmokama jo dviejų mėnesių vidutinio darbo užmokesčio dydžio
+15, 16 ir 18 punktus, išmokama jo dviejų mėnesių vidutinio darbo užmokesčio
 
-išeitinė kompensacija.
+dydžio išeitinė kompensacija.
 
 2. Šio
 
@@ -4311,6 +4311,10 @@ Nr.
 X-804,
 
 2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08)
+
+Nr. XII-685,
+
+2013-12-17, Žin., 2013, Nr. 140-7062 (2013-12-30)
 
 58
 
@@ -4504,9 +4508,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. X-68, 2004-12-22,
+Nr. X-68, 2004-12-22, Žin.,
 
-Žin., 2004, Nr. 188-7000 (2004-12-31)
+2004, Nr. 188-7000 (2004-12-31)
 
 VIDAUS
 
