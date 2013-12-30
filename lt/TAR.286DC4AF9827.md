@@ -4,7 +4,7 @@ identifier: "TAR.286DC4AF9827"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-29"
-last_updated: "2012-11-01"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.286DC4AF9827"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teismo ekspertizės įstatymas
 
-Suvestinė redakcija nuo 2012-11-01 iki 2013-12-29
+Suvestinė redakcija nuo 2013-12-30 iki 2013-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4969, i. k. 1021010ISTA0IX-1161
 
@@ -35,11 +35,19 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Teismo ekspertų ir teismo ekspertizės įstaigų veiklos teisiniai pagrindai
 
-Teismo ekspertai ir teismo ekspertizės įstaigos savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Baudžiamojo proceso kodeksu, Civilinio proceso kodeksu, Administracinių bylų teisenos įstatymu, šiuo ir kitais įstatymais, teismo ekspertizių nuostatais ir kitais teisės aktais.
+Teismo ekspertai ir teismo ekspertizės įstaigos savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, Europos Sąjungos teisės aktais, Lietuvos Respublikos baudžiamojo proceso kodeksu (toliau – Baudžiamojo proceso kodeksas), Lietuvos Respublikos civilinio proceso kodeksu, Lietuvos Respublikos administracinių bylų teisenos įstatymu (toliau – Administracinių bylų teisenos įstatymas), šiuo ir kitais įstatymais, teismo ekspertizių nuostatais ir kitais teisės aktais.
+
+Straipsnio pakeitimai:
+
+Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00379
 
 3 straipsnis. Pagrindinės Įstatymo sąvokos
 
-1. Ekspertinis tyrimas – teismo ar teisėjo pavedimu atliekamas tyrimas, kuriam naudojamos specialios žinios ir kurio eiga bei rezultatai fiksuojami ekspertizės akte.
+1. Ekspertinis tyrimas – pagal teismo ar teisėjo nutartį, prokuroro ar ikiteisminio tyrimo įstaigos pareigūno užduotį arba fizinio ar juridinio asmens, kitos organizacijos ar jų padalinių prašymą atliekamas tyrimas, kuriam reikia specialių žinių ir kurio eiga, analitiniai rezultatai ir su jais tiesiogiai susietas aiškinimas fiksuojami ekspertizės akte ar specialisto išvadoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00379
 
 2. Specialios žinios – išsilavinimo ir specialaus pasirengimo arba profesinės veiklos dėka įgytos išsamios mokslo, technikos, meno ar bet kokios kitos žmonių veiklos srities žinios, reikalingos ekspertizei atlikti.
 
@@ -227,7 +235,11 @@ Nr. XI-2068, 2012-06-14, Žin., 2012, Nr. 76-3922 (2012-06-30), i. k. 1121010IST
 
 2. Teismo ekspertas taip pat privalo:
 
-1) pagal kompetenciją atlikti teismo ekspertizes;
+1) teismo ekspertizes ir kitus ekspertinius tyrimus atlikti pagal kompetenciją, moksliškai patvirtintais, visuotinai pripažintais ir patikimais ar akredituotais tyrimo metodais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00379
 
 2) atsisakyti spręsti ne jo kompetencijos klausimus ir atlikti specialių žinių nereikalaujančias užduotis;
 
@@ -235,7 +247,11 @@ Nr. XI-2068, 2012-06-14, Žin., 2012, Nr. 76-3922 (2012-06-30), i. k. 1121010IST
 
 4) saugoti tyrimui pateiktus objektus. Už jų praradimą ar sugadinimą teismo ekspertas atsako įstatymų nustatyta tvarka;
 
-5) saugoti valstybės, tarnybos, komercines ir profesines paslaptis, neskelbti ekspertizės duomenų be ją paskyrusios institucijos leidimo.
+5) saugoti valstybės, tarnybos, komercines ir profesines paslaptis, neskelbti ekspertinių tyrimų duomenų be ekspertinį tyrimą paskyrusio teismo ar teisėjo, prokuroro ar ikiteisminio tyrimo įstaigos pareigūno arba užsakiusio fizinio ar juridinio asmens, kitos organizacijos ir jų padalinių leidimo.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00379
 
 13 straipsnis. Teismo eksperto nepriklausomumas
 
@@ -341,7 +357,11 @@ SPECIALIŲ ŽINIŲ PANAUDOJIMO ATLIEKANT TEISMO EKSPERTIZES SĄLYGOS
 
 1. Teismo ekspertizei reikalingą medžiagą pateikia ją paskyręs teismas ar teisėjas arba jų įpareigoti pareigūnai ar atstovai.
 
-2. Lietuvos Respublikoje veikiantys juridiniai asmenys teismo ekspertizės įstaigų reikalavimu privalo pateikti savo produkcijos pavyzdžius ar katalogus, techninę dokumentaciją ir kitokią teismo ekspertizėms reikalingą informaciją.
+2. Lietuvos Respublikoje veikiantys juridiniai asmenys, kitos organizacijos ar jų padaliniai teismo ekspertizės įstaigų reikalavimu privalo pateikti savo produkcijos pavyzdžius ar katalogus, techninę dokumentaciją ir kitokią teismo ekspertizėms reikalingą informaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00379
 
 3. Teismo ekspertams turi būti sudarytos sąlygos dalyvauti proceso veiksmuose, jeigu tokiu būdu gaunama teismo ekspertizei reikalinga medžiaga.
 
@@ -381,6 +401,22 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
+Lietuvos Respublikos
+
+teismo ekspertizės
+
+įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 2009 m. lapkričio 30 d. Tarybos pamatinis sprendimas 2009/905/TVR dėl kriminalistinių laboratorinių tyrimų paslaugų teikėjų akreditacijos (OL 2009 L 322, p. 14).
+
+Papildyta priedu:
+
+Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00379
+
 Pakeitimai:
 
 1.
@@ -390,4 +426,30 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2068, 2012-06-14, Žin., 2012, Nr. 76-3922 (2012-06-30), i. k. 1121010ISTA0XI-2068
 
 Lietuvos Respublikos teismo ekspertizės įstatymo 3, 4, 6, 15, 17 straipsnių pakeitimo ir papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2347, 2012-11-06, Žin., 2012, Nr. 132-6675 (2012-11-15), i. k. 1121010ISTA0XI-2347
+
+Lietuvos Respublikos teismo ekspertizės įstatymo 8 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00379
+
+Lietuvos Respublikos teismo ekspertizės įstatymo 1, 2, 3, 5, 6, 7, 9, 11, 12, 16, 20, 23 straipsnių pakeitimo ir Įstatymo papildymo 4(1), 24(1) straipsniais ir priedu ĮSTATYMAS
+
+241 straipsnis. Ekspertinių tyrimų rezultatų pripažinimas
+
+Pagal Tarybos pamatiniame sprendime 2009/905/TVR nurodytą tarptautinį standartą akredituotose valstybių narių ir Lietuvos Respublikos laboratorijose kompetentingos teisėsaugos arba teisminės institucijos prašymu atliktų šiame pamatiniame sprendime nurodytų ekspertinių tyrimų rezultatai pripažįstami vienodai patikimais.
+
+TAR pastaba. 241 straipsnio nuostatos dėl daktiloskopinių duomenų ekspertinių tyrimų taikomos nuo 2015 m. lapkričio 30 d.
+
+Papildyta straipsniu:
+
+Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00379
 
