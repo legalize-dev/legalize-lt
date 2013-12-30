@@ -4,7 +4,7 @@ identifier: "TAR.F960F4CF3005"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2012-12-29"
+last_updated: "2013-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 department: "Lietuvos Respublikos Seimas"
@@ -1267,7 +1267,9 @@ asociacija apsvarsčiusi, kasmet teikia Seimui tvirtinti šiuos metų rodiklius:
 
 1) gyventojų pajamų mokesčio dalį,
 
-tenkančią visų savivaldybių biudžetams nuo įplaukų į nacionalinį biudžetą.
+tenkančią visų savivaldybių biudžetams nuo šio
+
+mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus.
 
 Gyventojų pajamų mokesčio dalis koreguojama atsižvelgiant į einamųjų ar
 
@@ -1317,13 +1319,13 @@ valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtin
 
 įstatyme nurodytos valstybės institucijos ir įstaigos:
 
-1) kas ketvirtį, iki einamojo ketvirčio
+1) kas ketvirtį, iki einamojo ketvirčio pirmo
 
-pirmo mėnesio 10 dienos, lygiomis dalimis (išskyrus nurodytas šios dalies 2
+mėnesio 10 dienos, lygiomis dalimis (išskyrus nurodytas šios dalies 2 punkte),
 
-punkte), jeigu atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų
+jeigu atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių
 
-finansinių rodiklių patvirtinimo įstatymas nenustato kitaip;
+rodiklių patvirtinimo įstatymas nenustato kitaip;
 
 2) specialią tikslinę dotaciją mokinio
 
@@ -1375,17 +1377,17 @@ susijusios su savivaldybių pajamų ir išlaidų pasikeitimu, apskaičiuojamos:
 
 turi vienodą įtaką visoms savivaldybėms, – pagal formulę , čia BDKi – i-ajai
 
-savivaldybei skiriama arba paimama valstybės biudžeto bendrosios dotacijos kompensacijos
+savivaldybei skiriama arba paimama valstybės biudžeto bendrosios dotacijos
 
-suma;
+kompensacijos suma;
 
 2) jeigu Seimo ar Vyriausybės sprendimai
 
 turi įtakos tik kai kurioms savivaldybėms, su savivaldybių pajamų ir išlaidų
 
-pokyčiais susijusios sumos apskaičiuojamos taikant konkrečius valstybės
+pokyčiais susijusios sumos apskaičiuojamos taikant konkrečius valstybės institucijų,
 
-institucijų, įstaigų ir savivaldybių suderintus dydžius.
+įstaigų ir savivaldybių suderintus dydžius.
 
 7. Kai Seimas
 
@@ -1439,6 +1441,16 @@ Nr. XI-1739,
 
 2011-11-29, Žin., 2011, Nr. 150-7046 (2011-12-08)
 
+Nr. XII-660,
+
+2013-12-12, Žin., 2013, Nr. 140-7045 (2013-12-30)
+
+Pastaba. Šio įstatymo
+
+nuostatos taikomos rengiant 2014 metų ir vėlesnių metų valstybės biudžeto ir
+
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+
 11
 
 straipsnis. Finansinių rodiklių derinimas
@@ -1471,61 +1483,29 @@ specialių tikslinių dotacijų ir pajamų iš vietinių rinkliavų) mažėjimą
 
 palyginti su einamaisiais biudžetiniais metais apskaičiuotomis pajamomis.
 
-2. Valstybės
+2. Valstybės biudžeto ir savivaldybių
 
-biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų
+biudžetų finansinių rodiklių patvirtinimo įstatymų projektuose valstybės
 
-projektuose valstybės biudžetui numatomos reikiamo dydžio valstybės biudžeto
+biudžetui numatomos reikiamo dydžio valstybės biudžeto bendrosios dotacijos
 
-bendrosios dotacijos kompensacijos iš tų savivaldybių, kurių ateinantiems
+kompensacijos iš tų savivaldybių, kurių ateinantiems biudžetiniams metams
 
-biudžetiniams metams prognozuojamos palyginamaisiais dydžiais ir sąlygomis
+prognozuojamos palyginamaisiais dydžiais ir sąlygomis pajamos (be specialių
 
-pajamos (be specialių tikslinių dotacijų ir pajamų iš vietinių rinkliavų)
+tikslinių dotacijų ir pajamų iš vietinių rinkliavų) didėja daugiau kaip 21
 
-didėja daugiau kaip 21 procentu, palyginti su einamaisiais biudžetiniais metais
-
-apskaičiuotomis pajamomis. Šios kompensacijos nuo biudžetinių metų antrojo
-
-ketvirčio iki gruodžio 31 dienos įskaitytinai valstybės biudžetui kas ketvirtį
-
-lygiomis dalimis grąžinamos iš savivaldybių biudžetų.
-
-3. 2010–2012 biudžetiniais metais
-
-valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
-
-įstatymų projektuose numatomos reikiamo dydžio valstybės biudžeto bendrosios
-
-dotacijos kompensacijos, skirtos savivaldybėms kompensuoti 2010–2012
-
-biudžetiniais metais prognozuojamų palyginamaisiais dydžiais ir sąlygomis
-
-pajamų (be specialių tikslinių dotacijų ir pajamų iš vietinių rinkliavų)
-
-mažėjimą, palyginti su 85 procentų 2009 biudžetiniais metais apskaičiuotų
-
-pajamų dalimi.
-
-4. 2010–2012
-
-biudžetiniais metais valstybės biudžeto ir savivaldybių biudžetų finansinių
-
-rodiklių patvirtinimo įstatymų projektuose valstybės biudžetui numatomos
-
-reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacijos iš tų
-
-savivaldybių, kurių 2010–2012 metams prognozuojamos palyginamaisiais dydžiais ir
-
-sąlygomis pajamos (be specialių tikslinių dotacijų ir pajamų iš vietinių
-
-rinkliavų) didėja, palyginti su 2009 biudžetiniais metais apskaičiuotomis
+procentu, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis
 
 pajamomis. Šios kompensacijos nuo biudžetinių metų antrojo ketvirčio iki
 
-gruodžio 31 dienos įskaitytinai valstybės biudžetui kas ketvirtį lygiomis
+gruodžio 31 dienos įskaitytinai valstybės biudžetui grąžinamos iš savivaldybių
 
-dalimis grąžinamos iš savivaldybių biudžetų.
+biudžetų. Jeigu prognozuotos savivaldybės biudžeto pajamos negaunamos,
+
+valstybės biudžetui grąžinama bendrosios dotacijos kompensacija mažinama tiek,
+
+kokia yra prognozuotų savivaldybės biudžeto negautų pajamų suma.
 
 Straipsnio
 
@@ -1562,6 +1542,16 @@ XI-509,
 Nr. XI-1739,
 
 2011-11-29, Žin., 2011, Nr. 150-7046 (2011-12-08)
+
+Nr. XII-660,
+
+2013-12-12, Žin., 2013, Nr. 140-7045 (2013-12-30)
+
+Pastaba. Šio įstatymo
+
+nuostatos taikomos rengiant 2014 metų ir vėlesnių metų valstybės biudžeto ir
+
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
 
 PENKTASIS
 
@@ -2453,45 +2443,39 @@ NEGAUTŲ PAJAMŲ KOMPENSAVIMAS
 
 negautų pajamų kompensavimas
 
-1. Jeigu biudžetiniais metais pagal savivaldybės metinio biudžeto
+1. Jeigu biudžetiniais metais pagal
 
-vykdymo ataskaitų rinkinio duomenis pajamų (be dotacijų iš
+savivaldybės metinio biudžeto
 
-valstybės biudžeto) gauta mažiau, negu buvo prognozuota gauti skaičiuojant tų
+vykdymo ataskaitų rinkinio duomenis pajamų (be dotacijų iš valstybės biudžeto)
 
-metų savivaldybių biudžetų finansinius rodiklius, ir į jas yra įskaitomos
+gauta mažiau, negu buvo prognozuota gauti skaičiuojant tų metų savivaldybių
 
-valstybės biudžetui grąžinamos bendrosios dotacijos kompensacijos,
+biudžetų finansinius rodiklius, biudžetiniams metams pasibaigus šios negautos
 
-biudžetiniams metams pasibaigus šios negautos pajamos gali būti kompensuojamos.
+pajamos kompensuojamos iš valstybės biudžete patvirtintų asignavimų.
 
 Skaičiuojant šių negautų pajamų sumą, savivaldybių gautos pajamos didinamos
 
 skaičiuotinomis įmokomis, kurių negauta dėl savivaldybės tarybos sprendimais
 
-suteiktų mokesčių lengvatų. Skaičiuojant šių negautų pajamų sumą už 2008 metus,
+suteiktų mokesčių lengvatų.
 
-savivaldybių biudžetų gautos pajamos mažinamos 2008 biudžetinių metų pajamomis
+2. Jeigu patvirtintame valstybės
 
-iš vietinių rinkliavų už komunalinių atliekų surinkimą iš atliekų turėtojų ir
+biudžete nėra numatyta asignavimų arba jų nepakanka savivaldybių biudžetų
 
-už atliekų tvarkymą.
+negautoms pajamoms padengti, joms kompensuoti gali būti naudojama ne daugiau
 
-2. Jeigu vykdant valstybės biudžetą gautų viršplaninių
+kaip 30 procentų savivaldybės, kurios visos prognozuotos pajamos buvo gautos,
 
-pajamų ir netekusių paskirties asignavimų nepakanka savivaldybių biudžetų
+biudžeto viršplaninių pajamų, gautų iš gyventojų pajamų mokesčio. Savivaldybės
 
-negautoms mokestinėms pajamoms padengti, joms kompensuoti gali būti naudojama
+viršplaninių gyventojų pajamų mokesčio suma, skiriama negautoms pajamoms
 
-ne daugiau kaip 30 procentų savivaldybių biudžetų, kurių visos prognozuotos
+kompensuoti, neturi viršyti 50 procentų tos savivaldybės bendros viršplaninių
 
-pajamos buvo gautos, viršplaninių pajamų, gautų iš gyventojų pajamų mokesčio.
-
-Atskiros savivaldybės viršplaninių gyventojų pajamų mokesčio suma, skiriama
-
-negautoms pajamoms kompensuoti, neturi viršyti 50 procentų tos savivaldybės
-
-bendros viršplaninių pajamų sumos.
+pajamų sumos.
 
 3. Vyriausybė, biudžetiniams metams pasibaigus, iki
 
@@ -2513,27 +2497,7 @@ lėšų nepakanka visoms savivaldybių negautoms pajamoms padengti, jos
 
 savivaldybių biudžetams paskirstomos iki vienodo negautų pajamų lygio.
 
-6. Jeigu šio straipsnio 2 dalyje
-
-nustatytų šaltinių nepakanka, kad savivaldybių biudžetų negautos pajamos būtų
-
-kompensuotos, Vyriausybė, atsižvelgdama į savivaldybių biudžetų negautas
-
-prognozuotas pajamų sumas, biudžetiniams metams pasibaigus, iki balandžio 1
-
-dienos priima nutarimą, kuriame nurodo kiekvienai savivaldybei priklausiusias
-
-pervesti, bet praėjusiais biudžetiniais metais nepervestas bendrosios dotacijos
-
-kompensacijų sumas (atitinkamą jų dalį), nuo kurių pervedimo savivaldybė
-
-atleidžiama, arba praėjusiais biudžetiniais metais pervestas bendrosios dotacijos
-
-kompensacijų sumas (atitinkamą jų dalį), kurios grąžinamos savivaldybei iki
-
-biudžetinių metų pabaigos iš valstybės biudžeto gautų bendrosios dotacijos
-
-kompensacijų.
+6. Neteko galios nuo 2013-12-30.
 
 Skirsnio
 
@@ -2563,6 +2527,16 @@ XI-1164,
 
 2010-11-23, Žin., 2010, Nr. 145-7421 (2010-12-11)
 
+Nr. XII-660,
+
+2013-12-12, Žin., 2013, Nr. 140-7045 (2013-12-30)
+
+Pastaba. Šio įstatymo
+
+nuostatos taikomos rengiant 2014 metų ir vėlesnių metų valstybės biudžeto ir
+
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+
 Skelbiu šį
 
 Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -2587,7 +2561,7 @@ Fizinių asmenų pajamų mokesčio dalis (proc.)
 
 Vilniaus miesto
 
-42
+48
 
 Pakruojo rajono
 
@@ -2811,7 +2785,7 @@ Kazlų Rūdos
 
 Mažeikių rajono
 
-99
+100
 
 Pagėgių
 
@@ -2849,13 +2823,15 @@ Nr. XII-77,
 
 2012-12-20, Žin., 2012, Nr. 153-7827 (2012-12-29)
 
-Pastaba. Šio
+Nr. XII-660,
 
-įstatymo nuostatos taikomos rengiant 2013 metų ir vėlesnių metų valstybės
+2013-12-12, Žin., 2013, Nr. 140-7045 (2013-12-30)
 
-biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų
+Pastaba. Šio įstatymo
 
-projektus.
+nuostatos taikomos rengiant 2014 metų ir vėlesnių metų valstybės biudžeto ir
+
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
 
 Pakeitimai:
 
@@ -2871,9 +2847,9 @@ Nr. VIII-544, 97.12.02,
 
 LIETUVOS
 
-RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 14
+RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 14 STRAIPSNIO
 
-STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 2.
 
