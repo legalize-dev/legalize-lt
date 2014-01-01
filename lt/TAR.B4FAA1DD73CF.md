@@ -4,7 +4,7 @@ identifier: "TAR.B4FAA1DD73CF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2005-06-07"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
 
@@ -218,7 +218,11 @@ Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr
 
 8) neįgaliųjų asociacijų, įmonių ir įstaigų, kurių dalyviai yra tik neįgaliųjų asociacijos, nekilnojamasis turtas;
 
-9) juridinių asmenų, kurių daugiau kaip 50 procentų pajamų per mokestinį laikotarpį sudaro pajamos iš žemės ūkio veiklos, kaip tai apibrėžta Lietuvos Respublikos pelno mokesčio įstatymo 2 straipsnio 281 dalyje, nekilnojamasis turtas;
+9) juridinių asmenų, kurių daugiau kaip 50 procentų pajamų per mokestinį laikotarpį sudaro pajamos iš žemės ūkio veiklos, kaip tai apibrėžta Lietuvos Respublikos pelno mokesčio įstatymo 2 straipsnio 281 dalyje, įskaitant kooperatinių bendrovių (kooperatyvų) pajamas už parduotus įsigytus iš savo narių šių narių pagamintus žemės ūkio produktus, nekilnojamasis turtas, kuris visas ar kurio dalis naudojami pajamoms iš žemės ūkio veiklos ir (ar) kooperatinių bendrovių (kooperatyvų) pajamoms už parduotus įsigytus iš savo narių šių narių pagamintus žemės ūkio produktus gauti (uždirbti);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-430, 2013-06-27, Žin., 2013, Nr. 75-3758 (2013-07-13), i. k. 1131010ISTA0XII-430
 
 10) daugiabučių namų savininkų bendrijų, namų statybos bendrijų, garažų eksploatavimo ir sodininkų bendrijų nekilnojamasis turtas (arba jo dalis), naudojamas tik nekomercinei veiklai;
 
@@ -537,4 +541,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2178, 2012-06-29, Žin., 2012, Nr. 82-4265 (2012-07-13), i. k. 1121010ISTA0XI-2178
 
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-430, 2013-06-27, Žin., 2013, Nr. 75-3758 (2013-07-13), i. k. 1131010ISTA0XII-430
+
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas
 
