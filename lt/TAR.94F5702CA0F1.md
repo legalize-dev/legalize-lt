@@ -4,7 +4,7 @@ identifier: "TAR.94F5702CA0F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-09"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
 
@@ -131,7 +131,11 @@ Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010IST
 
 4. Antstoliu paskirtas asmuo, prisiekęs šio Įstatymo nustatyta tvarka, įrašomas į Lietuvos antstolių sąrašą, jam išduodamas liudijimas, patvirtinantis teisę vykdyti antstolio veiklą, ir antstolio pažymėjimas bei ženklas.
 
-5. Lietuvos antstolių sąrašą sudaro ir tvarko Teisingumo ministerija. Teisingumo ministras Lietuvos antstolių sąrašą skelbia „Valstybės žiniose“.
+5. Lietuvos antstolių sąrašą sudaro ir tvarko Teisingumo ministerija. Teisingumo ministras Lietuvos antstolių sąrašą skelbia Teisingumo ministerijos interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2317, 2012-11-06, Žin., 2012, Nr. 132-6645 (2012-11-15), i. k. 1121010ISTA0XI-2317
 
 6. Teisingumo ministro įsakymas dėl asmens skyrimo antstoliu ar atsisakymas skirti antstoliu Administracinių bylų teisenos įstatymo nustatyta tvarka gali būti skundžiamas teismui.
 
@@ -795,7 +799,11 @@ ANTSTOLIŲ SAVIVALDA
 
 4) tvirtina Lietuvos antstolių rūmų prezidiumo darbo reglamentą;
 
-5) priima Lietuvos antstolių rūmų įstatus, Antstolių profesinės etikos kodeksą; teisingumo ministras juos skelbia „Valstybės žiniose“;
+5) priima Lietuvos antstolių rūmų įstatus, Antstolių profesinės etikos kodeksą; teisingumo ministras juos skelbia Teisės aktų registre;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XI-2317, 2012-11-06, Žin., 2012, Nr. 132-6645 (2012-11-15), i. k. 1121010ISTA0XI-2317
 
 6) Lietuvos antstolių rūmų prezidiumo teikimu tvirtina įmokų Lietuvos antstolių rūmams dydį;
 
@@ -910,6 +918,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1483, 2011-06-21, Žin., 2011, Nr. 85-4129 (2011-07-13), i. k. 1111010ISTA0XI-1483
 
 Lietuvos Respublikos antstolių įstatymo papildymo 43-1 straipsniu įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2317, 2012-11-06, Žin., 2012, Nr. 132-6645 (2012-11-15), i. k. 1121010ISTA0XI-2317
+
+Lietuvos Respublikos antstolių įstatymo 8 ir 47 straipsnių pakeitimo įstatymas
 
 431 straipsnis. Elektroninės vykdomosios bylos, informacinių ir elektroninių ryšių technologijų naudojimas antstolių veikloje
 
