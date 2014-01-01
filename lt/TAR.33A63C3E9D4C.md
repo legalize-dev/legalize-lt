@@ -4,7 +4,7 @@ identifier: "TAR.33A63C3E9D4C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-03-25"
-last_updated: "2004-07-24"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.33A63C3E9D4C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymas
 
-Suvestinė redakcija nuo 2004-07-24 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2016-12-28
 
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 58-0; Žin. 1993, Nr.11-265, i. k. 0931010ISTA000I-108
 
@@ -138,7 +138,11 @@ Kalbos komisija turi teisę:
 
 2. Kalbos komisijos nutarimai yra privalomi valstybės ir savivaldybių institucijoms, visoms Lietuvos Respublikoje veikiančioms įstaigoms, įmonėms ir organizacijoms.
 
-3. Kalbos komisijos nutarimai skelbiami „Valstybės žiniose“.
+3. Kalbos komisijos nutarimai skelbiami Teisės aktų registre.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2356, 2012-11-06, Žin., 2012, Nr. 132-6684 (2012-11-15), i. k. 1121010ISTA0XI-2356
 
 7 straipsnis. Kalbos komisijos darbo organizavimas
 
@@ -250,7 +254,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. I-516, 1994-06-28, Žin., 1994, Nr. 51-952 (1994-07-08), i. k. 0941010ISTA000I-516
 
-Dėl Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstatymo pakeitimo
+Dėl Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo pakeitimo
 
 2.
 
@@ -258,7 +262,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. I-746, 1995-01-12, Žin., 1995, Nr. 9-183 (1995-01-27), i. k. 0951010ISTA000I-746
 
-Dėl Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstatymo papildymo ir pakeitimo
+Dėl Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo papildymo ir pakeitimo
 
 3.
 
@@ -266,7 +270,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. I-1061, 1995-10-12, Žin., 1995, Nr. 87-1955 (1995-10-25), i. k. 0951010ISTA00I-1061
 
-Dėl Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstatymo papildymo
+Dėl Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo papildymo
 
 4.
 
@@ -274,7 +278,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. I-1098, 1995-11-28, Žin., 1995, Nr. 100-2227 (1995-12-08), i. k. 0951010ISTA00I-1098
 
-Dėl Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstatymo papildymo
+Dėl Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo papildymo
 
 5.
 
@@ -282,7 +286,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. VIII-922, 1998-11-12, Žin., 1998, Nr. 105-2893 (1998-12-02), i. k. 0981010ISTAVIII-922
 
-Lietuvos Respublikos valstybinės lietuvių kalbos komisijos statuso įstatymo 1 straipsnio papildymo įstatymas
+Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso įstatymo 1 straipsnio papildymo įstatymas
 
 6.
 
@@ -298,7 +302,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. IX-2231, 2004-05-11, Žin., 2004, Nr. 83-2985 (2004-05-22), i. k. 1041010ISTA0IX-2231
 
-Lietuvos Respublikos valstybinės lietuvių kalbos komisijos įstatymo 8, 9 straipsnių pakeitimo ir papildymo įstatymas
+Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymo 8, 9 straipsnių pakeitimo ir papildymo įstatymas
 
 8.
 
@@ -306,5 +310,13 @@ Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. IX-2350, 2004-07-13, Žin., 2004, Nr. 115-4281 (2004-07-24), i. k. 1041010ISTA0IX-2350
 
-Lietuvos Respublikos valstybinės lietuvių kalbos komisijos įstatymo 3 straipsnio papildymo ir pakeitimo įstatymas
+Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymo 3 straipsnio papildymo ir pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2356, 2012-11-06, Žin., 2012, Nr. 132-6684 (2012-11-15), i. k. 1121010ISTA0XI-2356
+
+Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymo 6 straipsnio pakeitimo įstatymas
 
