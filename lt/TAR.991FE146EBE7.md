@@ -4,7 +4,7 @@ identifier: "TAR.991FE146EBE7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-12-19"
-last_updated: "2008-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.991FE146EBE7"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 entry_into_force_conditions: "Įstatymo 17 straipsnis įsigalioja nuo 2006-12-30."
 ---
 # Lietuvos Respublikos vaikų išlaikymo išmokų įstatymas
+
+Suvestinė redakcija nuo 2014-01-01 iki 2017-12-31
+
+Įstatymas paskelbtas: Žin. 2006, Nr. 144-5464, i. k. 1061010ISTA000X-987
 
 LIETUVOS RESPUBLIKOS
 
@@ -189,7 +193,11 @@ Fondo išmokėtoms išmokoms išieškoti taikomos tos pačios Lietuvos Respublik
 
 1. Fondo administratorius apie priimtą sprendimą mokėti Fondo išmokas ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo privalo raštu informuoti skolininką. Fondo administratorius nurodo, kad valstybė perima skolininko pareigą mokėti lėšas vaikui išlaikyti ir įstatymų numatytais būdais sieks iš skolininko išsireikalauti Fondo išmokėtas sumas ir 5 procentus metinių palūkanų, nurodytų šio įstatymo 11 straipsnio 1 dalyje.
 
-2. Tuo atveju, kai skolininko gyvenamoji vieta yra nežinoma, informacija apie Fondo administratoriaus sprendimą mokėti Fondo išmokas ir šio straipsnio 1 dalyje nurodytas pasekmes skolininkui ne vėliau kaip per 20 darbo dienų nuo tokio sprendimo priėmimo paskelbiama „Valstybės žiniose“.
+2. Tuo atveju, kai skolininko gyvenamoji vieta yra nežinoma, informacija apie Fondo administratoriaus sprendimą mokėti Fondo išmokas ir šio straipsnio 1 dalyje nurodytas pasekmes skolininkui ne vėliau kaip per 20 darbo dienų nuo tokio sprendimo priėmimo paskelbiama Fondo administratoriaus interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2350, 2012-11-06, Žin., 2012, Nr. 132-6678 (2012-11-15), i. k. 1121010ISTA0XI-2350
 
 3. Fondo administratorius vykdo kitas teisės aktų nustatytas pareigas.
 
@@ -248,4 +256,14 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2350, 2012-11-06, Žin., 2012, Nr. 132-6678 (2012-11-15), i. k. 1121010ISTA0XI-2350
+
+Lietuvos Respublikos vaikų išlaikymo fondo įstatymo 14 straipsnio pakeitimo įstatymas
 
