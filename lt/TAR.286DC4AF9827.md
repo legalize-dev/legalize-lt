@@ -4,7 +4,7 @@ identifier: "TAR.286DC4AF9827"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-29"
-last_updated: "2013-12-30"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.286DC4AF9827"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teismo ekspertizės įstatymas
 
-Suvestinė redakcija nuo 2013-12-30 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-02-28
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4969, i. k. 1021010ISTA0IX-1161
 
@@ -181,7 +181,11 @@ Nr. XI-2068, 2012-06-14, Žin., 2012, Nr. 76-3922 (2012-06-30), i. k. 1121010IST
 
 5. Asmuo, kurio prašymas per šio straipsnio 4 dalyje nustatytą terminą nepatenkinamas, turi teisę įstatymų nustatyta tvarka kreiptis į teismą.
 
-6. Duomenys apie teismo ekspertus, įrašytus į Lietuvos Respublikos teismo ekspertų sąrašą ar iš jo išbrauktus, skelbiami „Valstybės žinių“ priede „Informaciniai pranešimai“.
+6. Duomenys apie teismo ekspertus, įrašytus į Lietuvos Respublikos teismo ekspertų sąrašą ar iš jo išbrauktus, skelbiami Teisingumo ministerijos interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2347, 2012-11-06, Žin., 2012, Nr. 132-6675 (2012-11-15), i. k. 1121010ISTA0XI-2347
 
 9 straipsnis. Išbraukimas iš Lietuvos Respublikos teismo ekspertų sąrašo
 
