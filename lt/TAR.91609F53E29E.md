@@ -4,7 +4,7 @@ identifier: "TAR.91609F53E29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-01-19"
-last_updated: "2012-09-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 36 straipsnis ir 39 straipsnio 2 ir 3 da
 ---
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2012-09-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-07-23
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
 
@@ -490,7 +490,11 @@ Licencijas išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina ir
 
 7. Socialinių paslaugų priežiūros departamentas privalo teisės aktų nustatyta tvarka pranešti Juridinių asmenų registrui apie licencijos išdavimą, jos galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą.
 
-8. Apie licencijos išdavimą, jos galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą Socialinių paslaugų priežiūros departamentas informuoja savivaldybę, kurios teritorijoje veikia įmonė, įstaiga, šeimyna, ir skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“.
+8. Apie licencijos išdavimą, jos galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą Socialinių paslaugų priežiūros departamentas informuoja savivaldybę, kurios teritorijoje veikia įmonė, įstaiga, šeimyna, ir skelbia savo interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2341, 2012-11-06, Žin., 2012, Nr. 132-6669 (2012-11-15), i. k. 1121010ISTA0XI-2341
 
 24 straipsnis. Atsisakymas išduoti licenciją, licencijos galiojimo sustabdymas ir panaikinimas
 
@@ -698,11 +702,13 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 2. Turto vertės normatyvas nustatomas turto normatyvą dauginant iš asmens gyvenamosios vietos vidutinės nekilnojamojo turto rinkos vertės.
 
-3. Turto vertės normatyvui nustatyti taikomos kiekvienų metų vasario 1 d., gegužės 1 d., rugpjūčio 1 d. ir lapkričio 1 d. valstybės įmonės Registrų centro nustatomos ir „Valstybės žiniose“ skelbiamos vidutinės nekilnojamojo turto rinkos vertės Lietuvos miestuose ir savivaldybių centruose bei kitose savivaldybių teritorijose piniginei socialinei paramai nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims gauti.
+3. Turto vertės normatyvui nustatyti taikomos kiekvienų metų vasario 1 d., gegužės 1 d., rugpjūčio 1 d. ir lapkričio 1 d. valstybės įmonės Registrų centro nustatomos ir Teisės aktų registre skelbiamos vidutinės nekilnojamojo turto rinkos vertės Lietuvos miestuose ir savivaldybių centruose bei kitose savivaldybių teritorijose piniginei socialinei paramai nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims gauti.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1573, 2008-06-05, Žin., 2008, Nr. 71-2702 (2008-06-21), i. k. 1081010ISTA00X-1573
+
+Nr. XI-2341, 2012-11-06, Žin., 2012, Nr. 132-6669 (2012-11-15), i. k. 1121010ISTA0XI-2341
 
 AŠTUNTASIS SKIRSNIS
 
@@ -883,4 +889,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2171, 2012-06-29, Žin., 2012, Nr. 83-4345 (2012-07-14), i. k. 1121010ISTA0XI-2171
 
 Lietuvos Respublikos socialinių paslaugų įstatymo 2 ir 30 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2341, 2012-11-06, Žin., 2012, Nr. 132-6669 (2012-11-15), i. k. 1121010ISTA0XI-2341
+
+Lietuvos Respublikos socialinių paslaugų įstatymo 23 ir 32 straipsnių pakeitimo įstatymas
 
