@@ -4,7 +4,7 @@ identifier: "TAR.74733D7DB1CF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-06-12"
-last_updated: "2013-07-16"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.74733D7DB1CF"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS SUSKYSTINTŲ GAMTINIŲ DUJŲ TERMINALO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2013-07-16 iki 2015-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 68-3466, i. k. 1121010ISTA0XI-2053
 
@@ -100,7 +100,11 @@ PROJEKTO ĮGYVENDINIMAS IR FINANSAVIMAS
 
 1. SGD terminalo infrastruktūros plėtra ir įrengimas finansuojami bendrovės nuosavomis ir (ar) skolintomis lėšomis.
 
-2. SGD terminalo, jo infrastruktūros ir jungties įrengimo bei eksploatavimo sąnaudos ar jų dalis Valstybinės kainų ir energetikos kontrolės komisijos (toliau – Komisija) nustatyta tvarka ir sąlygomis gali būti įtraukiamos į gamtinių dujų perdavimo paslaugos kainą, vadovaujantis Energetikos įstatyme, Gamtinių dujų įstatyme ir kituose teisės aktuose nustatytais energijos kainų reguliavimo reikalavimais. Gamtinių dujų perdavimo paslaugos kainą sudarančias sąnaudas ir gautas pajamas Komisijos nustatyta tvarka administruoja ir SGD terminalo operatoriui kompensuoja gamtinių dujų perdavimo sistemos operatorius (toliau – perdavimo sistemos operatorius).
+2. SGD terminalo, jo infrastruktūros ir jungties įrengimo sąnaudos, kurių nėra galimybės finansuoti iš kitų bendrovei prieinamų šaltinių, taip pat SGD terminalo, jo infrastruktūros ir jungties visos pastoviosios eksploatavimo sąnaudos, reikalingos SGD terminalo veiklai užtikrinti, Valstybinės kainų ir energetikos kontrolės komisijos (toliau – Komisija) nustatyta tvarka įtraukiamos į gamtinių dujų tiekimo saugumo papildomą dedamąją prie gamtinių dujų perdavimo kainos (toliau – papildoma dedamoji). Papildomą dedamąją Komisijos nustatyta tvarka surenka, administruoja ir SGD terminalo operatoriui ar bendrovei išmoka gamtinių dujų perdavimo sistemos operatorius (toliau – perdavimo sistemos operatorius).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-426, 2013-06-27, Žin., 2013, Nr. 76-3842 (2013-07-16), i. k. 1131010ISTA0XII-426
 
 3. Projektui finansuoti gali būti panaudotos Europos Sąjungos paramos lėšos ir kitos teisėtai gautos pajamos. Teisės aktų nustatyta tvarka gali būti taikomos projekto finansavimo užtikrinimo priemonės (valstybės garantija, laidavimas, turto įkeitimas ir kitos priemonės). Sprendimas suteikti valstybės garantiją dėl paskolos projekto įgyvendinimui finansuoti priimamas Lietuvos Respublikos valstybės skolos įstatyme nustatyta tvarka.
 
