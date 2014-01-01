@@ -4,7 +4,7 @@ identifier: "TAR.BA283DF0FB41"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-28"
-last_updated: "2010-11-23"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BA283DF0FB41"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos želdynų įstatymas
 
-Suvestinė redakcija nuo 2010-11-23 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-09-30
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3215, i. k. 1071010ISTA00X-1241
 
@@ -147,7 +147,11 @@ II SKYRIUS
 
 4. Želdynų sistemą sudaro atskirieji želdynai – parkai, skverai, miesto ar miestelio sodai, žaliosios jungtys ir priklausomieji želdynai. Atsižvelgiant į svarbą miesto erdvinėje struktūroje bei rekreacinius poreikius, skiriami miesto centriniai ir vietinės reikšmės želdynai.
 
-5. Želdynų sistema yra išskiriama, jos plėtojimo erdvinė koncepcija ir teritorijų tvarkymo reglamentavimo ypatumai nustatomi savivaldybės teritorijos ar jos dalių bendraisiais planais, o tais atvejais, kai šie neparengti arba juose atitinkama sistema nėra numatyta, želdynų sistema išskiriama, jos plėtojimo erdvinė koncepcija ir tvarkymo reglamentavimo ypatumai nustatomi specialiaisiais teritorijų planais.
+5. Būtina savivaldybės lygmens ir (ar) vietovės lygmens kompleksinio teritorijų planavimo dokumentuose išskirti želdynų sistemą, nustatyti jos plėtojimo erdvinę struktūrą, bendruosius teritorijų naudojimo ir apsaugos reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-412, 2013-06-27, Žin., 2013, Nr. 76-3829 (2013-07-16), i. k. 1131010ISTA0XII-412
 
 6. Želdynų sistemos dalys, esančios valstybės ir savivaldybės saugomose teritorijose, įskaitant ir apsaugos zonas, tvarkomos ir naudojamos, apsaugos ir naudojimo režimas joms nustatomas vadovaujantis Saugomų teritorijų įstatymu ir kitais teisės aktais.
 
@@ -169,9 +173,17 @@ II SKYRIUS
 
 3) apsauginės ir ekologinės paskirties želdynus.
 
-2. Atskirieji želdynai išskiriami, jungiami į vientisą sistemą ir žymimi regiono, rajono ir vietovės lygmens bendruosiuose bei specialiuosiuose teritorijų planuose.
+2. Neteko galios 2014-01-01.
 
-3. Atskirieji želdynai pagal Žemės įstatyme nustatytą pagrindinę tikslinę žemės naudojimo paskirtį priskiriami kitos paskirties žemei, o pagal naudojimo būdą – atskirųjų želdynų teritorijoms, išskyrus želdynus – kultūros paveldo objektus, kurie priskirti konservacinės paskirties žemei.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-412, 2013-06-27, Žin., 2013, Nr. 76-3829 (2013-07-16), i. k. 1131010ISTA0XII-412
+
+3. Atskirieji želdynai pagal Žemės įstatyme nustatytą pagrindinę žemės naudojimo paskirtį priskiriami kitos paskirties žemei, o pagal naudojimo būdą – atskirųjų želdynų teritorijoms, išskyrus želdynus – kultūros paveldo objektus, kurie priskirti konservacinės paskirties žemei.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-412, 2013-06-27, Žin., 2013, Nr. 76-3829 (2013-07-16), i. k. 1131010ISTA0XII-412
 
 7 straipsnis. Priklausomieji želdynai
 
@@ -237,7 +249,7 @@ III SKYRIUS
 
 6. Švietimo ir mokslo ministerija sprendžia klausimą dėl želdynų ir želdinių teorinio ir praktinio pažinimo įtraukimo į formaliojo ir neformaliojo švietimo programas.
 
-10 straipsnis.       Želdynų ir želdinių apsaugos, tvarkymo ir kūrimo valdymas savivaldybėse
+10 straipsnis. Želdynų ir želdinių apsaugos, tvarkymo ir kūrimo valdymas savivaldybėse
 
 1. Želdynų ir želdinių apsaugos, tvarkymo, želdynų kūrimo, želdinių veisimo valdymą vykdo savivaldybės. Jos:
 
@@ -253,7 +265,11 @@ III SKYRIUS
 
 6) skelbia želdynus ir želdinius savivaldybės saugomais gamtos ar kultūros paveldo objektais Saugomų teritorijų ir Nekilnojamojo kultūros paveldo apsaugos įstatymų nustatyta tvarka;
 
-7) organizuoja kraštovaizdžio tvarkymo planų rengimą, užtikrina, kad želdynų sistema butų pažymėta savivaldybės teritorijos ar jos dalių bendruosiuose planuose;
+7) organizuoja Teritorijų planavimo įstatymo nustatyta tvarka želdynų sistemos ir atskirų jos dalių išskyrimo, atskirųjų želdynų ribų nustatymo, atskirųjų ir priklausomųjų želdynų apsaugos ir naudojimo privalomuosius reikalavimus nustatančių teritorijų planavimo dokumentų rengimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-412, 2013-06-27, Žin., 2013, Nr. 76-3829 (2013-07-16), i. k. 1131010ISTA0XII-412
 
 8) vykdo želdynų ir želdinių būklės, želdynų kūrimo, naujų želdinių veisimo vidaus kontrolę;
 
@@ -347,7 +363,11 @@ FIZINIŲ IR JURIDINIŲ ASMENŲ TEISĖS IR PAREIGOS
 
 1) užtikrina želdynų ir želdinių inventorizacijos, jų būklės stebėsenos bei kitų su želdynais ir želdiniais susijusių duomenų viešumą;
 
-2) informuoja visuomenę, kai numatomi vykdyti želdynų tvarkymo, kūrimo, medžių ir krūmų kirtimo, persodinimo, kitokio naikinimo darbai ar keičiama žemės sklypo, kuriame auga želdiniai, pagrindinė tikslinė žemės naudojimo paskirtis ar žemės sklypo naudojimo būdas;
+2) informuoja visuomenę, kai numatomi vykdyti želdynų tvarkymo, kūrimo, medžių ir krūmų kirtimo, persodinimo, kitokio naikinimo darbai ar keičiama žemės sklypo, kuriame auga želdiniai, pagrindinė žemės naudojimo paskirtis ar žemės sklypo naudojimo būdas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-412, 2013-06-27, Žin., 2013, Nr. 76-3829 (2013-07-16), i. k. 1131010ISTA0XII-412
 
 3) supažindina visuomenę su Želdynų ir želdinių tvarkymo, želdynų kūrimo ir želdinių veisimo programa, želdynų ir želdinių būklę keičiančiais projektais.
 
@@ -385,7 +405,11 @@ V SKYRIUS
 
 1. Želdynai planuojami Teritorijų planavimo įstatymo ir kitų teisės aktų nustatyta tvarka.
 
-2. Atskirieji želdynai žymimi savivaldybės teritorijos ar jos dalių bendruosiuose planuose.
+2. Atskirieji želdynai žymimi savivaldybės lygmens bendruosiuose planuose, atskirųjų želdynų ribos nustatomos vietovės lygmens bendruosiuose planuose. Atskirųjų ir priklausomųjų želdynų apsaugos ir naudojimo privalomieji reikalavimai nustatomi detaliuosiuose planuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-412, 2013-06-27, Žin., 2013, Nr. 76-3829 (2013-07-16), i. k. 1131010ISTA0XII-412
 
 3. Aplinkos ministerijos nustatyta tvarka yra rengiami atskirųjų ir priklausomųjų želdynų tvarkymo ir kūrimo projektai.
 
@@ -473,7 +497,11 @@ VIII SKYRIUS
 
 8) kitų lėšų.
 
-2. Želdynų ir želdinių apsaugos, tvarkymo ir želdynų kūrimo bei želdinių veisimo finansavimas planuojamas vadovaujantis savivaldybės teritorijos ar jos dalių bendraisiais planais, želdynų ir želdinių tvarkymo, želdynų kūrimo ir želdinių veisimo programa, želdynų tvarkymo ir kūrimo projektais, kitais dokumentais, atsižvelgiant į savivaldybės tvarkomų objektų prioritetus.
+2. Želdynų ir želdinių apsaugos, tvarkymo, želdynų kūrimo ir želdinių veisimo finansavimas planuojamas vadovaujantis savivaldybės lygmens ir (ar) vietovės lygmens kompleksinio teritorijų planavimo dokumentais, želdynų tvarkymo ir kūrimo projektais, strateginio planavimo ir kitais dokumentais, atsižvelgiant į savivaldybės tvarkomų objektų prioritetus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-412, 2013-06-27, Žin., 2013, Nr. 76-3829 (2013-07-16), i. k. 1131010ISTA0XII-412
 
 3. Tikslinės lėšos, gautos kompensavus atkuriamąją želdinių vertę, įtraukiamos į apskaitą atskirai. Apie jų panaudojimą savivaldybės kasmet per spaudą informuoja visuomenę. Draudžiama šias lėšas naudoti kitai paskirčiai.
 
@@ -524,4 +552,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1089, 2010-11-04, Žin., 2010, Nr. 137-6990 (2010-11-23), i. k. 1101010ISTA0XI-1089
 
 Lietuvos Respublikos želdynų įstatymo 10 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-412, 2013-06-27, Žin., 2013, Nr. 76-3829 (2013-07-16), i. k. 1131010ISTA0XII-412
+
+Lietuvos Respublikos želdynų įstatymo 4, 6, 10, 16, 19 ir 25 straipsnių pakeitimo įstatymas
 
