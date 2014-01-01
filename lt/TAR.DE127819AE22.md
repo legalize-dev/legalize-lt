@@ -4,7 +4,7 @@ identifier: "TAR.DE127819AE22"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-11-08"
-last_updated: "2013-07-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DE127819AE22"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "9 straipsnis įsigalioja 2012-11-24."
 
 LIETUVOS RESPUBLIKOS ADMINISTRACINĖS NAŠTOS MAŽINIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2013-07-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-09-30
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 136-6957, i. k. 1121010ISTA0XI-2386
 
@@ -106,49 +106,59 @@ Taikant administracinės naštos mažinimo priemones, vadovaujamasi šiais princ
 
 8) turi būti siekiama nereikalingų ataskaitų, patikrinimų, duomenų ir informacijos reikalavimų panaikinimo.
 
-5 straipsnis. Administracinės naštos mažinimo priemonių planas ir informacijos apie šio plano įvykdymą viešumas
+5 straipsnis. Administracinės naštos mažinimo priemonių planas ir informacijos apie šio plano vykdymą viešumas
 
-1. Atitinkamų metų administracinės naštos mažinimo priemonių planą (nurodant konkrečių veiksmų įvykdymo terminus) tvirtina Vyriausybė nutarimu ir jį pateikia Lietuvos Respublikos Seimui (toliau – Seimas).
+1. Dvejų metų administracinės naštos mažinimo priemonių planą (nurodant konkrečių veiksmų įvykdymo terminus) tvirtina Vyriausybė ir jį pateikia Lietuvos Respublikos Seimui (toliau – Seimas).
 
-2. Informacija apie Administracinės naštos mažinimo plano įvykdymą skelbiama ir ne rečiau kaip kartą per ketvirtį atnaujinama Vyriausybės interneto svetainėje.
+2. Informacija apie Administracinės naštos mažinimo priemonių plano vykdymą skelbiama ir ne rečiau kaip kartą per pusmetį atnaujinama Vyriausybės interneto svetainėje.
 
-6 straipsnis. Administracinės naštos mažinimo priemonės savivaldybių planavimo dokumentuose ir informacijos apie jų įvykdymą viešumas
+Straipsnio pakeitimai:
 
-1. Savivaldybių vykdomosios institucijos savivaldybių taryboms pateikia tvirtinti atitinkamų metų administracinės naštos mažinimo priemonių planą (nurodant konkrečių veiksmų įvykdymo terminus) arba administracinės naštos mažinimo priemones įtraukia į savivaldybių taryboms teikiamus tvirtinti savivaldybių strateginių veiklos planų projektus.
+Nr. XII-580, 2013-11-07, Žin., 2013, Nr. 120-6052 (2013-11-23), i. k. 1131010ISTA0XII-580
 
-2. Informacija apie Administracinės naštos mažinimo plano arba administracinės naštos mažinimo priemonių įvykdymą skelbiama ir ne rečiau kaip kartą per ketvirtį atnaujinama savivaldybių interneto svetainėse.
+6 straipsnis. Administracinės naštos mažinimo priemonės savivaldybių planavimo dokumentuose ir informacijos apie jų vykdymą viešumas
 
-7 straipsnis. Administracinės naštos mažinimo priemonių plano vykdymo kontrolė
+1. Savivaldybių vykdomosios institucijos savivaldybių taryboms pateikia tvirtinti dvejų metų administracinės naštos mažinimo priemonių planą (nurodant konkrečių veiksmų įvykdymo terminus) arba administracinės naštos mažinimo priemonės įtraukiamos į savivaldybių taryboms teikiamus tvirtinti savivaldybių strateginių veiklos planų projektus.
 
-1. Vyriausybė, teikdama metinę veiklos ataskaitą, privalo joje nurodyti ir įvertinti praėjusio ataskaitinio laikotarpio Administracinės naštos mažinimo priemonių plano įvykdymo rezultatus.
+2. Informacija apie Administracinės naštos mažinimo priemonių plano arba administracinės naštos mažinimo priemonių, įtrauktų į savivaldybės strateginį veiklos planą, vykdymą skelbiama ir ne rečiau kaip kartą per pusmetį atnaujinama savivaldybių interneto svetainėse.
 
-2. Savivaldybių tarybos, Lietuvos Respublikos vietos savivaldos įstatymo nustatyta tvarka teikdamos veiklos ataskaitas, savivaldybės bendruomenei privalo jose nurodyti ir įvertinti praėjusio ataskaitinio laikotarpio Administracinės naštos mažinimo priemonių plano arba administracinės naštos priemonių, įtrauktų į savivaldybės strateginį veiklos planą, įvykdymo rezultatus.
+Straipsnio pakeitimai:
 
-3. Savivaldybių centralizuotos vidaus audito tarnybos pasibaigus ketvirčiui vertina, kaip vykdomas Administracinės naštos mažinimo priemonių planas arba administracinės naštos priemonės, įtrauktos į savivaldybės strateginį veiklos planą, vadovaudamosi Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymu ir kitais vidaus auditą reglamentuojančiais teisės aktais. Savivaldybių centralizuotų vidaus audito tarnybų ataskaitos dėl Administracinės naštos mažinimo priemonių plano arba administracinės naštos priemonių, įtrauktų į savivaldybės strateginį veiklos planą, vykdymo vertinimo skelbiamos savivaldybių interneto svetainėse.
+Nr. XII-580, 2013-11-07, Žin., 2013, Nr. 120-6052 (2013-11-23), i. k. 1131010ISTA0XII-580
 
-8 straipsnis. Geresnio reguliavimo priežiūros komisija
+7 straipsnis. Administracinės naštos mažinimo priemonių plano vykdymo kontrolė
 
-1. Geresnio reguliavimo priežiūros komisija yra Vyriausybės komisija, kurios tikslas – atlikti šiame įstatyme jai nustatytas ir Vyriausybės jai pavestas užduotis, susijusias su administracinės naštos įvertinimu bei jos mažinimo priemonių taikymu valstybės ir savivaldybių institucijose ir įstaigose. Ši komisija sudaroma iš valstybės institucijų, Lietuvos savivaldybių asociacijos, mokslo ir studijų institucijų, kitų socialinių ir ekonominių partnerių ir visuomenės atstovų.
+1. Vyriausybė, teikdama metinę veiklos ataskaitą, privalo joje nurodyti ir įvertinti praėjusio ataskaitinio laikotarpio Administracinės naštos mažinimo priemonių plano vykdymo rezultatus.
 
-2. Geresnio reguliavimo priežiūros komisijos personalinę sudėtį nustato Vyriausybė arba ją tvirtinti paveda Ministrui Pirmininkui ar atitinkamos srities ministrui. Geresnio reguliavimo priežiūros komisijos darbo organizavimo tvarką nustato Vyriausybės darbo reglamentas, ją techniškai aptarnauja ir jos metinį veiklos planą padeda įgyvendinti Vyriausybės kanceliarija arba Vyriausybės nutarimu paskirta kita valstybės įstaiga. Geresnio reguliavimo priežiūros komisijos pirmininkui ir nariams darbo užmokestis mokamas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. Komisijos pirmininkui ar nariui, jeigu jis dirba ne visą darbo dieną, už darbą apmokama proporcingai dirbtam laikui. Ši komisija už savo veiklą atsiskaito Vyriausybei, pateikdama metinę veiklos ataskaitą.
+2. Savivaldybių tarybos, Lietuvos Respublikos vietos savivaldos įstatymo nustatyta tvarka teikdamos veiklos ataskaitas, savivaldybės bendruomenei privalo jose nurodyti ir įvertinti praėjusio ataskaitinio laikotarpio Administracinės naštos mažinimo priemonių plano arba administracinės naštos mažinimo priemonių, įtrauktų į savivaldybės strateginį veiklos planą, vykdymo rezultatus.
 
-Straipsnio dalies pakeitimai:
+3. Savivaldybių centralizuotos vidaus audito tarnybos pasibaigus pusmečiui vertina, kaip vykdomas Administracinės naštos mažinimo priemonių planas arba administracinės naštos mažinimo priemonės, įtrauktos į savivaldybės strateginį veiklos planą, vadovaudamosi Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymu ir kitais vidaus auditą reglamentuojančiais teisės aktais. Savivaldybių centralizuotų vidaus audito tarnybų ataskaitos dėl Administracinės naštos mažinimo priemonių plano arba administracinės naštos mažinimo priemonių, įtrauktų į savivaldybės strateginį veiklos planą, vykdymo vertinimo skelbiamos savivaldybių interneto svetainėse.
 
-Nr. XII-162, 2013-01-17, Žin., 2013, Nr. 11-506 (2013-01-30), i. k. 1131010ISTA0XII-162
+Straipsnio pakeitimai:
 
-3. Geresnio reguliavimo priežiūros komisija:
+Nr. XII-580, 2013-11-07, Žin., 2013, Nr. 120-6052 (2013-11-23), i. k. 1131010ISTA0XII-580
 
-1) vadovaudamasi šiame įstatyme numatytais administracinės naštos mažinimo principais, vertina Vyriausybės teikiamus Seimui ar jos tvirtinamus teisės aktų projektus, kuriuose numatomi nauji ar keičiami galiojantys informaciniai įpareigojimai asmenims, ir teikia Vyriausybei dėl jų savo išvadas;
+8 straipsnis. Geresnio reguliavimo priežiūros komisija
+
+1. Geresnio reguliavimo priežiūros komisija (toliau – Komisija) yra Vyriausybės komisija, kurios tikslas – atlikti šiame įstatyme jai nustatytas ir Vyriausybės jai pavestas užduotis, susijusias su administracinės naštos įvertinimu bei jos mažinimo priemonių taikymu valstybės ir savivaldybių institucijose ir įstaigose.
+
+2. Komisija sudaroma Lietuvos Respublikos Vyriausybės įstatymo nustatyta tvarka. Komisijos darbo organizavimo tvarką nustato Vyriausybės darbo reglamentas. Komisijos pirmininkui ir nariams už darbą Komisijoje darbo užmokestis nemokamas. Komisija už savo veiklą atsiskaito Vyriausybei, pateikdama metinę veiklos ataskaitą.
+
+3. Komisija atlieka šias užduotis:
+
+1) vadovaudamasi šiame įstatyme numatytais administracinės naštos mažinimo principais, vertina teisės aktų projektus, kuriuose numatomi nauji ar keičiami galiojantys informaciniai įpareigojimai asmenims, ir galiojančius teisės aktus, kuriuose nustatyti informaciniai įpareigojimai asmenims, ir teikia Vyriausybei dėl jų savo išvadas ir pasiūlymus;
 
 2) teikia Vyriausybei pasiūlymus dėl Administracinės naštos mažinimo priemonių plano rengimo;
 
-3) teikia Vyriausybei pasiūlymus dėl Vyriausybės nutarimais patvirtintų administracinės naštos nustatymo ir vertinimo metodikų tobulinimo;
+3) teikia Vyriausybei pasiūlymus dėl Vyriausybės patvirtintų administracinės naštos nustatymo ir vertinimo metodikų tobulinimo;
 
-4) įvertina, kaip įgyvendinamas Vyriausybės nutarimu patvirtintas Administracinės naštos mažinimo priemonių planas ir teikia pasiūlymus;
+4) įvertina, kaip įgyvendinamas Vyriausybės patvirtintas Administracinės naštos mažinimo priemonių planas, ir teikia Vyriausybei dėl jo savo išvadas ir pasiūlymus;
 
-5) teikia Vyriausybei ir jos nurodymu savivaldybių taryboms pasiūlymus dėl administracinės naštos įvertinimo tam tikroje valdymo srityje ar savivaldybėje ir dėl konkrečių administracinės naštos mažinimo priemonių taikymo;
+5) teikia Vyriausybei ir jos nurodymu savivaldybių taryboms pasiūlymus dėl administracinės naštos įvertinimo ir (ar) mažinimo tam tikroje valdymo srityje ar dėl konkrečių administracinės naštos mažinimo priemonių taikymo.
 
-6) atlieka kitas funkcijas, numatytas šiame įstatyme ir pavestas Seimo ar Vyriausybės.
+Straipsnio pakeitimai:
+
+Nr. XII-580, 2013-11-07, Žin., 2013, Nr. 120-6052 (2013-11-23), i. k. 1131010ISTA0XII-580
 
 9 straipsnis. Pasiūlymai Vyriausybei ar jos įgaliotai institucijai
 
@@ -171,4 +181,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-162, 2013-01-17, Žin., 2013, Nr. 11-506 (2013-01-30), i. k. 1131010ISTA0XII-162
 
 Lietuvos Respublikos administracinės naštos mažinimo įstatymo 8 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-580, 2013-11-07, Žin., 2013, Nr. 120-6052 (2013-11-23), i. k. 1131010ISTA0XII-580
+
+Lietuvos Respublikos administracinės naštos mažinimo įstatymo 5, 6, 7 ir 8 straipsnių pakeitimo įstatymas
 
