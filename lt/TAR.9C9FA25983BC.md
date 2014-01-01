@@ -4,7 +4,7 @@ identifier: "TAR.9C9FA25983BC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-02"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
 
@@ -75,7 +75,11 @@ Specialiųjų tyrimų tarnyba, spręsdama pavestus uždavinius, palaiko tarnybin
 
 6 straipsnis. Pareiga teikti informaciją Specialiųjų tyrimų tarnybai
 
-1. Lietuvos Respublikos Vyriausybė, ministerijos ir kitos valstybės ar savivaldybių institucijos ir įstaigos, Specialiųjų tyrimų tarnybai pareikalavus, per 5 darbo dienas privalo jai pateikti priimtus, tačiau „Valstybės žiniose“ neskelbtus teisės aktus.
+1. Lietuvos Respublikos Vyriausybė, ministerijos ir kitos valstybės ar savivaldybių institucijos ir įstaigos, Specialiųjų tyrimų tarnybai pareikalavus, per 5 darbo dienas privalo jai pateikti priimtus, tačiau „Valstybės žiniose“ ar Teisės aktų registre neskelbtus teisės aktus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2343, 2012-11-06, Žin., 2012, Nr. 132-6671 (2012-11-15), i. k. 1121010ISTA0XI-2343
 
 2. Valstybės ir savivaldybių institucijos, įstaigos bei įmonės privalo sudaryti sąlygas Specialiųjų tyrimų tarnybai neatlygintinai ir netrukdomai naudotis valstybės registrų, kadastrų, klasifikatorių duomenimis ir kitais valstybės ir savivaldybių institucijų, įstaigų bei įmonių duomenų bankais, o kitų įmonių, įstaigų, organizacijų bei fizinių asmenų – pagal sutartis.
 
@@ -458,6 +462,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2259, 2012-10-02, Žin., 2012, Nr. 122-6118 (2012-10-20), i. k. 1121010ISTA0XI-2259
 
 Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 8, 16, 17 ir 20 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2343, 2012-11-06, Žin., 2012, Nr. 132-6671 (2012-11-15), i. k. 1121010ISTA0XI-2343
+
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 6 straipsnio pakeitimo įstatymas
 
 111 straipsnis. Specialiųjų tyrimų tarnybos struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovų ir pavaduotojų priėmimas ir jų tarnybinis kaitumas
 
