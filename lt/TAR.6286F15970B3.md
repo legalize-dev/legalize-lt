@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "2013-07-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2013-07-01 iki 2014-04-29
+Suvestinė redakcija nuo 2014-01-01 iki 2014-04-29
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -434,7 +434,11 @@ Nr. XII-216, 2013-03-28, Žin., 2013, Nr. 36-1727 (2013-04-06), i. k. 1131010IST
 
 3. Į Valstybinės atominės energetikos saugos inspekcijos viršininko ar viršininko pavaduotojų pareigas skiriami asmenys turi atitikti bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas. Valstybinės atominės energetikos saugos inspekcijos viršininku ar viršininko pavaduotojais negali būti skiriami asmenys, kuriems teisės aktų nustatyta tvarka ir pagrindais negali būti išduotas leidimas be palydos patekti į branduolinės energetikos objektų apsaugos zonas.
 
-4. Valstybinės atominės energetikos saugos inspekcijos viršininko atlyginimas lygus keturiems, o viršininko pavaduotojų – trims ūkio subjektų, įstatymų nustatyta tvarka ir sąlygomis vykdančių branduolinės energetikos objekto (objektų) eksploatavimo, eksploatavimo nutraukimo ir (ar) uždarytų radioaktyviųjų atliekų saugyklų ar atliekynų priežiūros veiklą, darbuotojų vidutinių mėnesinių bruto darbo užmokesčių, kuriuos teisės aktų nustatyta tvarka apskaičiuoja ir skelbia Lietuvos statistikos departamentas, vidurkio dydžiams. Vadovaudamasis Lietuvos statistikos departamento skelbiama informacija, konkretų atlyginimo dydį Valstybinės atominės energetikos saugos inspekcijos viršininkui ir jo pavaduotojams kiekvieniems kalendoriniams metams tvirtina Ministras Pirmininkas.
+4. Valstybinės atominės energetikos saugos inspekcijos viršininko atlyginimas lygus keturiems, o viršininko pavaduotojų – trims ūkio subjektų, įstatymų nustatyta tvarka ir sąlygomis vykdančių branduolinės energetikos objekto (objektų) eksploatavimo, eksploatavimo nutraukimo ir (ar) uždarytų radioaktyviųjų atliekų saugyklų ar atliekynų priežiūros veiklą, darbuotojų praėjusių kalendorinių metų vidutinių mėnesinių bruto darbo užmokesčių, kuriuos teisės aktų nustatyta tvarka apskaičiuoja ir skelbia Lietuvos statistikos departamentas, vidurkio dydžiams. Vadovaudamasis Lietuvos statistikos departamento skelbiama informacija, konkretų atlyginimo dydį Valstybinės atominės energetikos saugos inspekcijos viršininkui ir jo pavaduotojams kiekvieniems metams tvirtina Ministras Pirmininkas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-216, 2013-03-28, Žin., 2013, Nr. 36-1727 (2013-04-06), i. k. 1131010ISTA0XII-216
 
 5. Sprendimus dėl Valstybinės atominės energetikos saugos inspekcijos viršininko ir viršininko pavaduotojų atostogų ir komandiruočių priima Valstybinės atominės energetikos saugos inspekcijos viršininkas, ne vėliau kaip per tris darbo dienas nuo sprendimo dėl Valstybinės atominės energetikos saugos inspekcijos viršininko atostogų ar komandiruotės priėmimo apie priimtą sprendimą informuodamas Prezidentą ir Ministrą Pirmininką.
 
