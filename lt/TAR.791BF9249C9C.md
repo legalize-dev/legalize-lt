@@ -4,7 +4,7 @@ identifier: "TAR.791BF9249C9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-09-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
 
@@ -642,7 +642,7 @@ SPORTININKŲ IR KŪNO KULTŪROS IR SPORTO SPECIALISTŲ GARANTIJOS
 
 41 straipsnis. Rentos sportininkams mokėjimo sąlygos ir tvarka
 
-1. Sportininkas, Lietuvos Respublikos pilietis, baigęs sportininko karjerą, nedalyvaujantis olimpinėse žaidynėse, pasaulio ir Europos čempionatuose, turi teisę gauti 1,5 Statistikos departamento prie Lietuvos Respublikos Vyriausybės paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dydžio rentą per mėnesį, jeigu jis, turėdamas Lietuvos Respublikos pilietybę ir atstovaudamas Lietuvos Respublikai, tapo arba iki šio įstatymo įsigaliojimo įgijo Lietuvos Respublikos pilietybę ir iki pilietybės įgijimo yra tapęs:
+1. Sportininkas, Lietuvos Respublikos pilietis, baigęs sportininko karjerą, nedalyvaujantis olimpinėse žaidynėse, pasaulio ir Europos čempionatuose, turi teisę gauti 1,5 Lietuvos statistikos departamento paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dydžio rentą per mėnesį, jeigu jis, turėdamas Lietuvos Respublikos pilietybę ir atstovaudamas Lietuvos Respublikai, tapo arba iki 2009 m. sausio 1 d. įgijo Lietuvos Respublikos pilietybę ir iki pilietybės įgijimo yra tapęs:
 
 1) olimpinių žaidynių čempionu ar prizininku (aukso, sidabro ar bronzos medalių laimėtoju);
 
@@ -655,6 +655,10 @@ SPORTININKŲ IR KŪNO KULTŪROS IR SPORTO SPECIALISTŲ GARANTIJOS
 5) parolimpinių ar kurčiųjų žaidynių nugalėtoju;
 
 6) olimpinės sporto šakos neolimpinės rungties ir pasaulio čempionu, ir pasaulio rekordininku.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-699, 2013-12-19, Žin., 2013, Nr. 140-7072 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00380
 
 2. Sportininkui renta neskiriama, o paskirtoji nemokama, jeigu:
 
@@ -853,6 +857,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-84, 2012-12-20, Žin., 2012, Nr. 155-7982 (2012-12-31), i. k. 1121010ISTA00XII-84
 
 Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo ir papildymo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-699, 2013-12-19, Žin., 2013, Nr. 140-7072 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00380
+
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo ĮSTATYMAS
 
 52 straipsnis. Sporto varžybų, kitų sporto renginių transliavimas
 
