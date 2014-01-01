@@ -4,7 +4,7 @@ identifier: "TAR.C5FBBA345223"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-03"
-last_updated: "2011-07-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C5FBBA345223"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 21 straipsnis įsigalioja 2002-07-17"
 ---
 # Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymas
 
-Suvestinė redakcija nuo 2011-07-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-09-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3022, i. k. 1021010ISTA0IX-1023
 
@@ -228,13 +228,11 @@ Nr. XI-1300, 2011-03-24, Žin. 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA
 
 6) naudoja duomenis valdymo sprendimams įvertinti ir pagrįsti.
 
-11 straipsnis. Ūkio subjektų visuomenės sveikatos stebėsena
+11 straipsnis. Neteko galios nuo 2014-01-01
 
-1. Ūkio subjektai, kurie verčiasi ekonomine veikla, keliančia pavojų ar darančia žalą visuomenės sveikatai, vykdo visuomenės sveikatos stebėseną. Ūkio subjektų visuomenės sveikatos stebėsenos programas rengia, tvirtina ir įgyvendina pats ūkio subjektas, suderinęs su Sveikatos apsaugos ministerijos įgaliota institucija. Duomenis apie ūkinės veiklos poveikį sveikatai ir stebėjimo duomenis šie subjektai teikia valstybės ir savivaldybių institucijoms ir visuomenei.
+Straipsnio naikinimas:
 
-2. Sveikatos apsaugos ministerija nustato ūkio subjektų visuomenės sveikatos stebėsenos programų rengimo, tvirtinimo, įgyvendinimo ir duomenų teikimo tvarką, sudaro ekonominės veiklos ir kriterijų, kuriems esant visuomenės sveikatos stebėsena yra privaloma, sąrašą. Šį sąrašą tvirtina Vyriausybė.
-
-3. Ūkio subjektų visuomenės sveikatos stebėseną finansuoja juridiniai ir fiziniai asmenys savo lėšomis.
+Nr. XII-300, 2013-05-14, Žin. 2013, Nr. 57-2844 (2013-06-01), i. k. 1131010ISTA0XII-300
 
 Straipsnio pakeitimai:
 
@@ -244,11 +242,13 @@ Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010IST
 
 1. Valstybės visuomenės sveikatos stebėsena finansuojama valstybės biudžeto lėšomis.
 
-2. Savivaldybės visuomenės sveikatos stebėsena finansuojama valstybės biudžeto, savivaldybės biudžeto, savivaldybių visuomenės sveikatos rėmimo specialiosios programos, Privalomojo sveikatos draudimo fondo bei kitomis teisėtai įgytomis lėšomis.
+2. Savivaldybės visuomenės sveikatos stebėsena finansuojama valstybės biudžeto, savivaldybės biudžeto, savivaldybių visuomenės sveikatos rėmimo specialiosios programos ir kitomis teisėtai įgytomis lėšomis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+
+Nr. XII-133, 2012-12-20, Žin., 2012, Nr. 154-7939 (2012-12-29), i. k. 1121010ISTA0XII-133
 
 3. Neteko galios nuo 2011-07-01
 
@@ -258,15 +258,17 @@ Nr. XI-1300, 2011-03-24, Žin. 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA
 
 4. Visuomenės sveikatos stebėsenoms finansuoti gali būti naudojamos tarptautinių organizacijų bei programų, specialiųjų fondų ir rėmėjų šiam tikslui skirtos lėšos.
 
-13 straipsnis. Visuomenės sveikatos stebėsenos kontrolė
+13 straipsnis. Visuomenės sveikatos stebėsenos kontrolė
 
-Valstybės, savivaldybių, atskirų visuomenės sveikatos sričių ir ūkio subjektų visuomenės sveikatos stebėsenų vykdymą, duomenų ir informacijos kokybę, ar jie atitinka teisės aktus, kontroliuoja Sveikatos apsaugos ministerija arba jos įgaliota institucija.
+Valstybės, savivaldybių, atskirų visuomenės sveikatos sričių visuomenės sveikatos stebėsenų vykdymą, duomenų ir informacijos kokybę, ar jie atitinka teisės aktus, kontroliuoja Sveikatos apsaugos ministerija arba jos įgaliota institucija.
 
 Straipsnio pakeitimai:
 
 Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
 
 Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
+
+Nr. XII-300, 2013-05-14, Žin., 2013, Nr. 57-2844 (2013-06-01), i. k. 1131010ISTA0XII-300
 
 14 straipsnis. Visuomenės sveikatos stebėsenos duomenų kokybės užtikrinimas
 
@@ -391,4 +393,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
 
 Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo 2, 4, 5, 6, 7, 9, 10, 11, 12, 13 ir 16 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-133, 2012-12-20, Žin., 2012, Nr. 154-7939 (2012-12-29), i. k. 1121010ISTA0XII-133
+
+Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo 12 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-300, 2013-05-14, Žin., 2013, Nr. 57-2844 (2013-06-01), i. k. 1131010ISTA0XII-300
+
+Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo 11 straipsnio pripažinimo netekusiu galios ir 13 straipsnio pakeitimo įstatymas
 
