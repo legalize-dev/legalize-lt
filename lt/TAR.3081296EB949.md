@@ -4,7 +4,7 @@ identifier: "TAR.3081296EB949"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-10"
-last_updated: "2013-07-20"
+last_updated: "2014-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3081296EB949"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2013-07-20 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2018-11-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2917; Žin. 2003, Nr.64-2881, i. k. 1001010ISTAIII-1986
 
@@ -187,7 +187,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XI-2261, 2012-10-02, Žin., 2012, Nr. 122-6120 (2012-10-20), i. k. 1121010ISTA0XI-2261
 
-2. Konkursas į muitinės pareigūno pareigas skelbiamas oficialaus leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“.
+2. Konkursas į muitinės pareigūno pareigas skelbiamas Muitinės departamento interneto svetainėje. Konkursas į Muitinės departamento generalinio direktoriaus pareigas skelbiamas ir Finansų ministerijos interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2345, 2012-11-06, Žin., 2012, Nr. 132-6673 (2012-11-15), i. k. 1121010ISTA0XI-2345
 
 3. Konkurso ir atrankos organizavimo tvarką tvirtina finansų ministras.
 
@@ -1248,6 +1252,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-455, 2013-07-02, Žin., 2013, Nr. 78-3934 (2013-07-20), i. k. 1131010ISTA0XII-455
 
 Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 40, 49 straipsnių pakeitimo ir 41, 43 straipsnių pripažinimo netekusiais galios įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2345, 2012-11-06, Žin., 2012, Nr. 132-6673 (2012-11-15), i. k. 1121010ISTA0XI-2345
+
+Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymo 11 straipsnio pakeitimo įstatymas
 
 57 straipsnis. Prievartos ir šaunamojo ginklo naudojimo sąlygos
 
