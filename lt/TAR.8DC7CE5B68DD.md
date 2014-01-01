@@ -4,7 +4,7 @@ identifier: "TAR.8DC7CE5B68DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-10-17"
-last_updated: "2013-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8DC7CE5B68DD"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Šio įstatymo 5 straipsnis įsigalioja 2012-11-08
 
 LIETUVOS RESPUBLIKOS ŽVALGYBOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2013-01-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 129-6463, i. k. 1121010ISTA0XI-2289
 
@@ -1327,6 +1327,10 @@ TRYLIKTASIS SKIRSNIS
 10) nuo 18 iki 20 metų – 4,05;
 
 11) nuo 20 metų už kiekvienus paskesnius tarnybos metus papildomai – 0,25.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-121, 2012-12-20, Žin., 2012, Nr. 155-7999 (2012-12-31), i. k. 1121010ISTA0XII-121
 
 6. Kasmetinių atostogų laikotarpiu žvalgybos pareigūnams mokamas vidutinis tarnybinis atlyginimas, apskaičiuotas Vyriausybės nustatyta tvarka.
 
