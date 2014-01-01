@@ -4,7 +4,7 @@ identifier: "TAR.4A05AB3730DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-12-10"
-last_updated: "2011-05-03"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A05AB3730DD"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS MOKĖJIMO ĮSTAIGŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2011-05-03 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-10-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 153-6887, i. k. 1091010ISTA00XI-549
 
@@ -322,7 +322,11 @@ MOKĖJIMO ĮSTAIGOS IR KITOS VALSTYBĖS NARĖS MOKĖJIMO ĮSTAIGOS TEISĖS
 
 4. Mokėjimo įstaiga, jos filialas ir tarpininkas turi teisę teikti mokėjimo paslaugas tik tuo atveju, kai jie yra įtraukti į viešąjį mokėjimo įstaigų sąrašą.
 
-5. Viešojo mokėjimo įstaigų sąrašo tvarkytojas – priežiūros institucija – apie mokėjimo įstaigos, jos filialo ar tarpininko įtraukimą į sąrašą, jų duomenų ar informacijos pakeitimą skelbia ir šią informaciją reguliariai atnaujina priežiūros institucijos interneto tinklalapyje.
+5. Viešojo mokėjimo įstaigų sąrašo tvarkytojas – priežiūros institucija – apie mokėjimo įstaigos, jos filialo ar tarpininko įtraukimą į sąrašą, jų duomenų ar informacijos pakeitimą skelbia ir šią informaciją reguliariai atnaujina priežiūros institucijos interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2332, 2012-11-06, Žin., 2012, Nr. 132-6660 (2012-11-15), i. k. 1121010ISTA0XI-2332
 
 6. Viešasis mokėjimo įstaigų sąrašas yra tvarkomas priežiūros institucijos priimtuose teisės aktuose nustatyta tvarka.
 
@@ -662,7 +666,11 @@ Mokėjimo įstaigų priežiūros tikslais gautos informacijos apsaugai mutatis m
 
 2. Jeigu priežiūros institucija priima sprendimą nušalinti mokėjimo įstaigos vadovą (vadovus) nuo pareigų ir reikalauti, kad jis (jie) būtų atšauktas (atšaukti) iš pareigų ir (ar) su juo (jais) būtų nutraukta sutartis ar būtų panaikinti jo (jų) įgaliojimai, mokėjimo įstaigos organas, kuriam suteikta tokia teisė, privalo per priežiūros institucijos sprendime nustatytą terminą atšaukti tokį asmenį (asmenis) iš pareigų ir (ar) nutraukti su juo (jais) sudarytą sutartį arba panaikinti jo (jų) įgaliojimus.
 
-3. Apie priimtą sprendimą nušalinti mokėjimo įstaigos vadovą (vadovus) nuo pareigų pranešama mokėjimo įstaigai ir Juridinių asmenų registro tvarkytojui, taip pat paskelbiama leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“.
+3. Apie priimtą sprendimą nušalinti mokėjimo įstaigos vadovą (vadovus) nuo pareigų pranešama mokėjimo įstaigai ir Juridinių asmenų registro tvarkytojui, taip pat paskelbiama priežiūros institucijos interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2332, 2012-11-06, Žin., 2012, Nr. 132-6660 (2012-11-15), i. k. 1121010ISTA0XI-2332
 
 33 straipsnis. Laikinasis atstovas veiklos priežiūrai
 
@@ -674,7 +682,11 @@ Mokėjimo įstaigų priežiūros tikslais gautos informacijos apsaugai mutatis m
 
 4. Atstovas veiklos priežiūrai nesutinka su mokėjimo įstaigos valdybos ir vadovų sprendimais, jei jie, jo nuomone, prieštarauja saugią ir patikimą mokėjimo įstaigų veiklą reglamentuojantiems teisės aktams ar dėl kitų priežasčių kelia grėsmę mokėjimo įstaigos veiklos stabilumui ir patikimumui. Atstovui veiklos priežiūrai, atliekančiam savo funkcijas, mutandis mutatis taikomos šio įstatymo 26 straipsnio 2 ir 3 dalių nuostatos. Atstovas veiklos priežiūrai privalo teikti priežiūros institucijai jos nustatytą informaciją.
 
-5. Apie priimtą sprendimą paskirti atstovą veiklos priežiūrai ar jį atšaukti ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos pranešama mokėjimo įstaigai ir Juridinių asmenų registrui, taip pat paskelbiama leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“.
+5. Apie priimtą sprendimą paskirti atstovą veiklos priežiūrai ar jį atšaukti ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos pranešama mokėjimo įstaigai ir Juridinių asmenų registrui, taip pat paskelbiama priežiūros institucijos interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2332, 2012-11-06, Žin., 2012, Nr. 132-6660 (2012-11-15), i. k. 1121010ISTA0XI-2332
 
 6. Atstovas veiklos priežiūrai atšaukiamas, kai:
 
@@ -749,4 +761,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1341, 2011-04-21, Žin., 2011, Nr. 52-2516 (2011-05-03), i. k. 1111010ISTA0XI-1341
 
 Lietuvos Respublikos mokėjimo įstaigų įstatymo 13 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2332, 2012-11-06, Žin., 2012, Nr. 132-6660 (2012-11-15), i. k. 1121010ISTA0XI-2332
+
+Lietuvos Respublikos mokėjimo įstaigų įstatymo 12, 32 ir 33 straipsnių pakeitimo įstatymas
 
