@@ -4,7 +4,7 @@ identifier: "TAR.65AD818F5F9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "2013-07-13"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2013-07-13 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2015-04-13
 
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
 
@@ -532,7 +532,13 @@ Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA
 
 4) važiuoti to paties vežėjo ar jų susitarimu kitomis transporto priemonėmis su tuo pačiu bilietu į tą patį paskirties punktą, kai biliete nurodyta transporto priemonė dėl kokių nors priežasčių negali važiuoti, ir nemokėti priemokos už pakeistą patogesnę transporto priemonę, tačiau gauti bilieto kainos skirtumą, jeigu transporto priemonė pakeista į mažiau patogią, nei buvo nurodyta keleivio biliete, o, vežėjui nepateikus kitos transporto priemonės, gauti atitinkamą kompensaciją Keleivių ir bagažo vežimo taisyklių nustatyta tvarka;
 
-5) iki išvykimo į reisą nutraukti keleivio ir bagažo vežimo sutartį, grąžinti bilietą ir gauti už jį sumokėtus pinigus ar jų dalį Keleivių ir bagažo vežimo taisyklių nustatyta tvarka.
+5) iki išvykimo į reisą nutraukti keleivio ir bagažo vežimo sutartį, grąžinti bilietą ir gauti už jį sumokėtus pinigus ar jų dalį Keleivių ir bagažo vežimo taisyklių nustatyta tvarka;
+
+6) į Reglamente (ES) Nr. 181/2011 nustatytas teises.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-266, 2013-05-07, Žin., 2013, Nr. 54-2671 (2013-05-25), i. k. 1131010ISTA0XII-266
 
 2. Keleivis privalo:
 
@@ -954,11 +960,15 @@ Keleiviai, krovinio siuntėjai ir gavėjai atlygina vežėjui padarytą žalą p
 
 Keleivių, bagažo ir krovinio vežimo saugumo ir kitų taisyklių kelių transporte pažeidimas užtraukia atsakomybę pagal Lietuvos Respublikos įstatymus.
 
-56 straipsnis. Pretenzijų ir ieškinių dėl žalos atlyginimo pareiškimo tvarka
+56 straipsnis. Pretenzijų ir ieškinių dėl žalos atlyginimo pareiškimo tvarka
 
-1. Ieškiniai dėl reikalavimų, kylančių iš vežimo sutarties, pareiškiami teismui. Ieškovas gali iki ieškinio pareiškimo pareikšti vežėjui pretenziją. Vežėjas praneša apie pretenzijos patenkinimą arba atsisakymą ją patenkinti ne vėliau kaip per vieną mėnesį nuo jos gavimo dienos. Jei per tą laiką atsakymas į pretenziją negautas, laikoma, kad vežėjas jos nepatenkino.
+1. Ieškiniai dėl reikalavimų, kylančių iš vežimo sutarties, pareiškiami teismui. Ieškovas gali iki ieškinio pareiškimo pareikšti vežėjui pretenziją. Vežėjas praneša apie pretenzijos patenkinimą arba atsisakymą ją patenkinti ne vėliau kaip per vieną mėnesį nuo jos gavimo dienos, jeigu Europos Sąjungos reglamentuose nenustatyta kitaip. Jeigu per tą laiką atsakymas į pretenziją negautas, laikoma, kad vežėjas jos nepatenkino.
 
-2. Ieškiniui, kylančiam dėl vežimo sutarties, pareikšti nustatomas dvejų metų ieškininės senaties terminas. Pretenzijos pareiškimas ieškininės senaties terminą pratęsia vienam mėnesiui.
+2. Ieškiniui, kylančiam dėl vežimo sutarties, pareikšti nustatomas dvejų metų ieškinio senaties terminas. Pretenzijos pareiškimas ieškinio senaties terminą pratęsia vienam mėnesiui arba kitam Europos Sąjungos reglamentuose nustatytam pretenzijų išnagrinėjimo terminui.
+
+Straipsnio pakeitimai:
+
+Nr. XII-266, 2013-05-07, Žin., 2013, Nr. 54-2671 (2013-05-25), i. k. 1131010ISTA0XII-266
 
 57 straipsnis. Neteko galios nuo 2002-04-09
 
@@ -993,6 +1003,12 @@ priedas
 4. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1072/2009 dėl bendrųjų patekimo į tarptautinio krovinių vežimo kelių transportu rinką taisyklių (OL 2009 L 300, p. 72).
 
 5. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1073/2009 dėl bendrųjų patekimo į tarptautinę keleivių vežimo tolimojo susisiekimo ir miesto autobusais rinką taisyklių ir iš dalies keičiantis Reglamentą (EB) Nr. 561/2006 (OL 2009 L 300, p. 88).
+
+6. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 181/2011 dėl miesto ir tolimojo susisiekimo autobusų transporto keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2011 L 55, p. 1).
+
+Papildyta punktu:
+
+Nr. XII-266, 2013-05-07, Žin., 2013, Nr. 54-2671 (2013-05-25), i. k. 1131010ISTA0XII-266
 
 Priedo pakeitimai:
 
@@ -1097,6 +1113,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-504, 2013-07-02, Žin., 2013, Nr. 75-3775 (2013-07-13), i. k. 1131010ISTA0XII-504
 
 Lietuvos Respublikos kelių transporto kodekso 38 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-266, 2013-05-07, Žin., 2013, Nr. 54-2671 (2013-05-25), i. k. 1131010ISTA0XII-266
+
+Lietuvos Respublikos kelių transporto kodekso 21, 56 straipsnių ir priedo pakeitimo ir papildymo įstatymas
 
 171 straipsnis. Viešųjų paslaugų teikimo organizavimas
 
