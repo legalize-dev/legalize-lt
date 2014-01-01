@@ -4,7 +4,7 @@ identifier: "TAR.A845E65C32A2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-06-01"
-last_updated: "2004-02-14"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A845E65C32A2"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos produktų saugos įstatymas
 
-Suvestinė redakcija nuo 2004-02-14 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 52-1673, i. k. 0991010ISTAIII-1206
 
@@ -152,7 +152,11 @@ Nr. IX-427, 2001-07-05, Žin., 2001, Nr. 64-2324 (2001-07-25), i. k. 1011010ISTA
 
 2. Kai nėra konkretaus produkto saugą reglamentuojančių Europos Sąjungos teisės aktų, produktas laikomas saugiu, jei jis atitinka konkrečius Europos Sąjungos valstybės narės, kurioje yra pateiktas į rinką, nacionalinius teisės aktus, kurie priimti laikantis Europos Bendrijos steigimo sutarties, visų pirma jos 28 ir 30 straipsnių, ir nustato sveikatos bei saugos reikalavimus, kuriuos produktas turi tenkinti, kad jį galima būtų pateikti į rinką toje valstybėje narėje.
 
-3. Produktas yra saugus, kai pavojaus ir pavojaus kategorijų aspektu jis atitinka savanoriškai taikomus kaip nacionalinius standartus perimtus Europos standartus, nuorodos į kuriuos buvo paskelbtos Europos Bendrijų oficialiajame leidinyje, o Lietuvos nuorodos į tokius nacionalinius standartus nustatyta tvarka buvo paskelbtos „Valstybės žiniose“.
+3. Produktas yra saugus, kai pavojaus ir pavojaus kategorijų aspektu jis atitinka savanoriškai taikomus kaip nacionalinius standartus perimtus Europos standartus, nuorodos į kuriuos buvo paskelbtos Europos Bendrijų oficialiajame leidinyje, o Lietuvos nuorodos į tokius nacionalinius standartus nustatyta tvarka buvo paskelbtos „Valstybės žiniose“ ar Teisės aktų registre.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2335, 2012-11-06, Žin., 2012, Nr. 132-6663 (2012-11-15), i. k. 1121010ISTA0XI-2335
 
 4. Kitais, nei nurodyta šio straipsnio 2 ir 3 dalyse, atvejais produktas vertinamas kaip atitinkantis bendruosius saugos reikalavimus pirmiausia atsižvelgiant į savanoriškai taikomus kitus, nei šio straipsnio 2 ir 3 dalyse nurodytus, ES standartus perimančius nacionalinius standartus, kitus nacionalinius standartus, Europos Komisijos rekomendacijas, nustatančias produktų saugos vertinimo gaires, atitinkamame sektoriuje galiojančius geros gamybos praktikos kodeksus, naujausius mokslo ir technikos laimėjimus, saugą, kurios vartotojas gali pagrįstai tikėtis.
 
@@ -416,7 +420,11 @@ Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA
 
 6. Taryba ar kontrolės institucijos privalo informuoti platintojus, vartotojus bei visuomenines vartotojų teisių gynimo organizacijas apie sprendimus produktus pašalinti iš rinkos, siekiant paskatinti juos prisidėti prie tokių sprendimų įgyvendinimo.
 
-7. Tarybos nutarimai arba kontrolės institucijų sprendimai dėl rinkos ribojimo priemonių taikymo turi būti skelbiami „Valstybės žinių“ priede „Informaciniai pranešimai“ Vyriausybės nustatyta tvarka.
+7. Tarybos nutarimai arba kontrolės institucijų sprendimai dėl rinkos ribojimo priemonių taikymo turi būti skelbiami atitinkamai Tarybos arba kontrolės institucijų interneto svetainėse.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2335, 2012-11-06, Žin., 2012, Nr. 132-6663 (2012-11-15), i. k. 1121010ISTA0XI-2335
 
 8. Gamintojai, platintojai ir paslaugų teikėjai privalo vykdyti Tarybos nutarimus arba kontrolės institucijų sprendimus nuo jų gavimo momento, jeigu sprendimas ar nutarimas nenustato vėlesnės datos.
 
