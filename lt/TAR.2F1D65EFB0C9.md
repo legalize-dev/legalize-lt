@@ -4,7 +4,7 @@ identifier: "TAR.2F1D65EFB0C9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-04-11"
-last_updated: "2007-04-05"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2F1D65EFB0C9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos standartizacijos įstatymas
 
-Suvestinė redakcija nuo 2007-04-05 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2020-10-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 35-972; Žin. 2007, Nr.39-1435, i. k. 1001010ISTAIII-1618
 
@@ -152,7 +152,11 @@ STANDARTAI IR KITI LEIDINIAI, JŲ RENGIMAS, TAIKYMAS, KAUPIMAS IR PLATINIMAS
 
 6 straipsnis. Standartų ir kitų leidinių rengimas ir informacijos apie juos skelbimas
 
-1. Lietuvos standartai ir kiti leidiniai rengiami pagal standartų programą, kurią sudaro ir tvirtina nacionalinė standartizacijos institucija. Informacija apie standartų programą skelbiama nacionalinės standartizacijos institucijos periodiniame leidinyje ir interneto tinklalapyje.
+1. Lietuvos standartai ir kiti leidiniai rengiami pagal standartų programą, kurią sudaro ir tvirtina nacionalinė standartizacijos institucija. Informacija apie standartų programą skelbiama nacionalinės standartizacijos institucijos periodiniame leidinyje ir interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2342, 2012-11-06, Žin., 2012, Nr. 132-6670 (2012-11-15), i. k. 1121010ISTA0XI-2342
 
 2. Siūlymus dėl standartų programos gali pateikti suinteresuotos šalys nacionalinės standartizacijos institucijos nustatyta tvarka. Sudarant standartų programą pirmenybė teikiama darniųjų ir kitų Europos bei tarptautinių standartų perėmimui.
 
@@ -162,7 +166,11 @@ STANDARTAI IR KITI LEIDINIAI, JŲ RENGIMAS, TAIKYMAS, KAUPIMAS IR PLATINIMAS
 
 5. Lietuvos standartų ir kitų leidinių rengimo ir priėmimo tvarką nustato nacionalinė standartizacijos institucija. Lietuvos standartų ir kitų leidinių projektus sutarimu rengia nacionalinės standartizacijos institucijos Technikos komitetai (toliau – Technikos komitetai). Nacionalinė standartizacijos institucija, jeigu nėra kurios nors srities Technikos komiteto, Lietuvos standarto ar kito leidinio projektui parengti suteikia įgaliojimus laikinajai darbo grupei, sudarytai nacionalinės standartizacijos institucijos nustatyta tvarka. Laikinoji darbo grupė vadovaujasi ta pačia Lietuvos standartų ir kitų leidinių rengimo ir priėmimo tvarka kaip ir Technikos komitetai.
 
-6. Lietuvos Respublikoje vykdoma viešoji apklausa dėl Lietuvos standartų projektų. Viešosios apklausos organizavimo tvarką nustato nacionalinė standartizacijos institucija. Informacija apie viešajai apklausai teikiamų Lietuvos standartų projektus skelbiama nacionalinės standartizacijos institucijos interneto tinklalapyje. Viešosios apklausos metu suinteresuotos šalys gali pateikti savo pastabas ir pasiūlymus nacionalinės standartizacijos institucijos nustatyta tvarka. Nacionalinės standartizacijos institucijos sprendimu viešajai apklausai gali būti teikiami ir kitų leidinių projektai.
+6. Lietuvos Respublikoje vykdoma viešoji apklausa dėl Lietuvos standartų projektų. Viešosios apklausos organizavimo tvarką nustato nacionalinė standartizacijos institucija. Informacija apie viešajai apklausai teikiamų Lietuvos standartų projektus skelbiama nacionalinės standartizacijos institucijos interneto svetainėje. Viešosios apklausos metu suinteresuotos šalys gali pateikti savo pastabas ir pasiūlymus nacionalinės standartizacijos institucijos nustatyta tvarka. Nacionalinės standartizacijos institucijos sprendimu viešajai apklausai gali būti teikiami ir kitų leidinių projektai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2342, 2012-11-06, Žin., 2012, Nr. 132-6670 (2012-11-15), i. k. 1121010ISTA0XI-2342
 
 7. Lietuvos standartų ir kitų leidinių projektų rengimas yra prilyginamas kūrybinei veiklai. Lietuvos standartų ir kitų leidinių projektai rengiami pagal autorines sutartis.
 
@@ -170,7 +178,11 @@ STANDARTAI IR KITI LEIDINIAI, JŲ RENGIMAS, TAIKYMAS, KAUPIMAS IR PLATINIMAS
 
 9. Lietuvos standartų ir kitų leidinių projektus priima nacionalinė standartizacijos institucija. Lietuvos standartai ir kiti leidiniai leidžiami ir peržiūrimi nacionalinės standartizacijos institucijos nustatyta tvarka. Peržiūrint nustatoma, ar būtina Lietuvos standartą ar kitą leidinį keisti, ar paskelbti netekusiu galios, ar palikti galioti.
 
-10. Informaciją apie viešajai apklausai pateiktus, išleistus, numatomus skelbti netekusiais galios bei netekusius galios Lietuvos standartus ir kitus leidinius nacionalinė standartizacijos institucija skelbia naujausiame savo periodiniame leidinyje per 5 darbo dienas nuo atitinkamo fakto patvirtinimo interneto tinklalapyje. Informacija apie darniuosius Lietuvos standartus skelbiama „Valstybės žiniose“.
+10. Informaciją apie viešajai apklausai pateiktus, išleistus, numatomus skelbti netekusiais galios bei netekusius galios Lietuvos standartus ir kitus leidinius nacionalinė standartizacijos institucija skelbia naujausiame savo periodiniame leidinyje per 5 darbo dienas nuo atitinkamo fakto patvirtinimo interneto svetainėje. Informacija apie darniuosius Lietuvos standartus skelbiama Teisės aktų registre.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2342, 2012-11-06, Žin., 2012, Nr. 132-6670 (2012-11-15), i. k. 1121010ISTA0XI-2342
 
 11. Įmonės standarte negalima nustatyti žemesnių reikalavimų žmogaus ir gyvūnų sveikatai, gyvybei, aplinkai, materialinėms gėrybėms, vartotojų interesams apsaugoti ar kokybės rodikliams, negu yra nustatyta Lietuvos Respublikos teisės aktuose ar Lietuvos standartuose.
 
@@ -363,6 +375,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1056, 2007-03-22, Žin., 2007, Nr. 39-1435 (2007-04-05); Žin., 2007, Nr. 42-0 (2007-04-14), i. k. 1071010ISTA00X-1056
 
 Lietuvos Respublikos standartizacijos įstatymo pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2342, 2012-11-06, Žin., 2012, Nr. 132-6670 (2012-11-15), i. k. 1121010ISTA0XI-2342
+
+Lietuvos Respublikos standartizacijos įstatymo 6 straipsnio pakeitimo įstatymas
 
 21 straipsnis. Lietuvos standartizacijos asociacijos turtas
 
