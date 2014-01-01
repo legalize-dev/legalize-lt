@@ -4,7 +4,7 @@ identifier: "TAR.A516DE6B7EC2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-05-22"
-last_updated: "2013-07-20"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A516DE6B7EC2"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS ENERGIJOS IŠTEKLIŲ RINKOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2013-07-20 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 63-3164, i. k. 1121010ISTA0XI-2023
 
@@ -360,16 +360,6 @@ Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010IST
 
 4. Energijos išteklių biržos dalyvių pateikti duomenys yra konfidencialūs ir gali būti atskleisti tretiesiems asmenims tik teisės aktų nustatyta tvarka, išskyrus duomenis apie perkamus ir parduodamus atskirų rūšių biokuro kiekius ir kainas, kurie apibendrintai ir nenurodant sutarties šalių skelbiami energijos išteklių biržos operatoriaus informacinėje sistemoje.
 
-5 skirsnis. Neteko galios nuo 2013-07-20
-
-Skirsnio naikinimas:
-
-Nr. XII-493, 2013-07-02, Žin. 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
-
-ŠEŠTASIS SKIRSNIS
-
-PREKYBA GAMTINĖMIS DUJOMIS
-
 20 straipsnis. Centralizuotos prekybos naftos produktų atsargomis bendrieji principai
 
 1. Energijos išteklių biržoje įdiegiama centralizuota elektroninė prekybos naftos produktų atsargomis sistema. Energijos išteklių biržos dalyviai, naudodamiesi centralizuota elektronine prekybos naftos produktų atsargomis sistema, prekiauja naftos produktų atsargomis, naftos produktų atsargų reikalavimo teisėmis ir naftos produktų atsargų laikymo paslaugomis. Naftos produktus, kurių atsargomis prekiaujama šiame įstatyme nustatyta tvarka, nustato Naftos produktų ir naftos valstybės atsargų įstatymas.
@@ -505,4 +495,30 @@ Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010IST
 KETVIRTASIS SKIRSNIS
 
 CENTRALIZUOTA PREKYBA BIOKURU
+
+191 straipsnis. Biokuro, naudojamo šilumos gamybai, įsigijimas
+
+1. Šilumos tiekėjai, reguliuojami nepriklausomi šilumos gamintojai ir šilumą ir elektros energiją bendrame technologiniame cikle gaminantys gamintojai, kurie elektros ir (ar) šilumos energijos gamybai naudoja biokurą, privalo energijos išteklių biržoje įsigyti šią elektros ir (ar) šilumos energijos gamybai reikalingo biokuro kiekio dalį:
+
+1) 2014 metais – ne mažiau kaip 10 procentų;
+
+2) 2015 metais – ne mažiau kaip 30 procentų;
+
+3) 2016 metais ir vėlesniais metais – ne mažiau kaip 50 procentų.
+
+2. Šio straipsnio 1 dalyje išdėstyti reikalavimai nurodytoms energetikos įmonėms netaikomi, jeigu energijos išteklių biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo atitinkamos biokuro rūšies kiekio ar jo dalies arba kitais būdais įsigyti biokurą yra ekonomiškai naudingiau. Trūkstamas biokuro kiekis gali būti įsigyjamas kitais teisės aktuose reglamentuotais pirkimo būdais.
+
+Papildyta straipsniu:
+
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
+
+5 skirsnis. Neteko galios nuo 2013-07-20
+
+Skirsnio naikinimas:
+
+Nr. XII-493, 2013-07-02, Žin. 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
+
+ŠEŠTASIS SKIRSNIS
+
+PREKYBA GAMTINĖMIS DUJOMIS
 
