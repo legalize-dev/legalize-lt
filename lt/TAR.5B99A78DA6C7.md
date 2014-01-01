@@ -4,7 +4,7 @@ identifier: "TAR.5B99A78DA6C7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-04-04"
-last_updated: "2006-01-01"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5B99A78DA6C7"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos maisto įstatymas
 
-Suvestinė redakcija nuo 2006-01-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-10-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-893, i. k. 1001010ISTAIII-1608
 
@@ -172,11 +172,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. IX-2256, 2004-06-01, Žin., 2004, Nr. 93-3397 (2004-06-12), i. k. 1041010ISTA0IX-2256
 
-19. Valstybinė maisto kontrolė – tikrinimas, kurį atlieka kompetentinga institucija, siekdama nustatyti, ar maistas, maisto priedai, vitaminai, mineralinės medžiagos, mikroelementai bei kitokie priedai, skirti parduoti, taip pat medžiagos ir prekės, kurios liečiasi su maisto produktais, atitinka nuostatas, skirtas užkirsti kelią pavojui visuomenės sveikatai, užtikrinant sąžiningus verslo sandorius ar saugant vartotojų interesus, įskaitant ir vartotojų informavimo nuostatas.
+19. Šiame įstatyme sąvoka „valstybinė maisto kontrolė“ atitinka sąvoką „oficiali kontrolė“ ir vartojama ta pačia reikšme, kaip ši apibrėžta 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 882/2004 (OL 2004 m. specialusis leidimas, 3 skyrius, 45 tomas, p. 200) dėl oficialios kontrolės, kuri atliekama siekiant užtikrinti, kad būtų įvertinama, ar laikomasi pašarus ir maistą reglamentuojančių teisės aktų, gyvūnų sveikatos ir gerovės taisyklių, 2 straipsnio 1 punkte.
 
 Papildyta straipsnio dalimi:
 
 Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-531, 2013-10-03, Žin., 2013, Nr. 107-5276 (2013-10-12), i. k. 1131010ISTA0XII-531
 
 3 straipsnis. Įstatymo taikymas
 
@@ -344,7 +348,41 @@ Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010IST
 
 5) atlieka maisto saugos ir kokybės tikrinimą;
 
-6) atlieka kitas funkcijas, kurias reglamentuoja įstatymai bei kiti teisės aktai.
+6) nustato tvarką ir ūkio subjekto prašymu išduoda leidimus maisto tvarkymo subjektų laboratorijoms, atliekančioms maisto žaliavų, produktų tyrimus, išskyrus laboratorijas, akredituotas šiems tyrimams teisės aktų nustatyta tvarka;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-531, 2013-10-03, Žin., 2013, Nr. 107-5276 (2013-10-12), i. k. 1131010ISTA0XII-531
+
+7) nustato tvarką ir išduoda leidimus geriamojo vandens tiekėjų laboratorijoms, atliekančioms geriamojo vandens saugos ir kokybės tyrimus, išskyrus laboratorijas, akredituotas šiems tyrimams teisės aktų nustatyta tvarka;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-531, 2013-10-03, Žin., 2013, Nr. 107-5276 (2013-10-12), i. k. 1131010ISTA0XII-531
+
+8) nustato tvarką ir pripažįsta Lietuvos Respublikos rinkai teikiamą natūralų mineralinį vandenį ir išduoda natūralaus mineralinio vandens pripažinimo Lietuvos Respublikoje pažymėjimą. Už natūralaus mineralinio vandens pripažinimo Lietuvos Respublikoje pažymėjimų ir jų dublikatų išdavimą bei šių pažymėjimų tikslinimą imama valstybės rinkliava;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-531, 2013-10-03, Žin., 2013, Nr. 107-5276 (2013-10-12), i. k. 1131010ISTA0XII-531
+
+9) nustato tvarką ir notifikuoja maisto papildus ir specialios paskirties maisto produktus;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-531, 2013-10-03, Žin., 2013, Nr. 107-5276 (2013-10-12), i. k. 1131010ISTA0XII-531
+
+10) vykdo fizinių ir juridinių asmenų, organizacijų ar jų filialų, gaminančių medžiagas ir gaminius, besiliečiančius su maistu, valstybinę maisto kontrolę;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-531, 2013-10-03, Žin., 2013, Nr. 107-5276 (2013-10-12), i. k. 1131010ISTA0XII-531
+
+11) atlieka kitas funkcijas, kurias reglamentuoja įstatymai bei kiti teisės aktai.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-531, 2013-10-03, Žin., 2013, Nr. 107-5276 (2013-10-12), i. k. 1131010ISTA0XII-531
 
 Straipsnio pakeitimai:
 
@@ -380,7 +418,11 @@ valstybinĖ maisto kontrolė
 
 2) tikrinti, kaip asmenys, kurie vykdydami savo pareigas tiesiogiai ar netiesiogiai liečia maistą, laikosi higienos reikalavimų (nepažeisdama medicinos etikos principų);
 
-3) tikrinti maistą, jo ženklinimą, gaminius, kurie liečiasi su maistu, maisto tvarkymui, patalpų bei įrengimų valymui ir taisymui naudojamas priemones, medžiagas bei įrengimus;
+3) tikrinti maistą, jo ženklinimą, gaminius, besiliečiančius su maistu, maistui tvarkyti, patalpoms ir įrenginiams valyti ir taisyti naudojamas priemones, medžiagas ir įrenginius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-531, 2013-10-03, Žin., 2013, Nr. 107-5276 (2013-10-12), i. k. 1131010ISTA0XII-531
 
 4) tikrinti su šio įstatymo ir kitų teisės aktų laikymusi susijusius dokumentus bei maisto tvarkymo vietos savikontrolės sistemos medžiagą;
 
@@ -485,4 +527,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-405, 2005-11-17, Žin., 2005, Nr. 142-5107 (2005-12-03), i. k. 1051010ISTA000X-405
 
 Lietuvos Respublikos maisto įstatymo 4 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-531, 2013-10-03, Žin., 2013, Nr. 107-5276 (2013-10-12), i. k. 1131010ISTA0XII-531
+
+Lietuvos Respublikos maisto įstatymo 2, 9, 11 straipsnių pakeitimo ir papildymo įstatymas
 
