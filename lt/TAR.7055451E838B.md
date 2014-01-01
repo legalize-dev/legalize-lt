@@ -4,7 +4,7 @@ identifier: "TAR.7055451E838B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-04"
-last_updated: "2009-08-04"
+last_updated: "2014-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 2009-08-04 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-09-30
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
 
@@ -198,7 +198,11 @@ Nr. IX-2525, 2004-11-02, Žin., 2004, Nr. 167-6104 (2004-11-17), i. k. 1041010IS
 
 7. Privatizavimo komisijos sprendimai priimami paprasta visų komisijos narių balsų dauguma. Privatizavimo komisijos narys neturi teisės balsuoti svarstomu klausimu, jei jis ar jo šeimos nariai (tėvai ir vaikai, broliai ir seserys, sutuoktinis) yra asmeniškai suinteresuoti sprendimo rezultatais.
 
-8. Vyriausybės nutarimai, priimti šio įstatymo numatytais atvejais, ir Privatizavimo komisijos sprendimai yra skelbiami „Valstybės žiniose“.
+8. Vyriausybės nutarimai, priimti šio įstatymo numatytais atvejais, ir Privatizavimo komisijos sprendimai yra skelbiami Teisės aktų registre.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2351, 2012-11-06, Žin., 2012, Nr. 132-6679 (2012-11-15), i. k. 1121010ISTA0XI-2351
 
 6 straipsnis. Savivaldybių turto privatizavimo komisijos
 
@@ -923,4 +927,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-403, 2009-07-23, Žin., 2009, Nr. 93-3992 (2009-08-04), i. k. 1091010ISTA00XI-403
 
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 10 straipsnio pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2351, 2012-11-06, Žin., 2012, Nr. 132-6679 (2012-11-15), i. k. 1121010ISTA0XI-2351
+
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 5 straipsnio pakeitimo įstatymas
 
