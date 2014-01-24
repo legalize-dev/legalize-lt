@@ -4,7 +4,7 @@ identifier: "TAR.47BB952431DA"
 country: "lt"
 rank: "konstitucija"
 publication_date: "1992-10-25"
-last_updated: "2013-11-16"
+last_updated: "2014-01-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA"
 department: "Piliečių referendumas"
@@ -14,7 +14,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Konstitucija
 
-Suvestinė redakcija nuo 2013-11-16 iki 2014-01-23
+Suvestinė redakcija nuo 2014-01-24 iki 2019-08-31
 
 Konstitucija paskelbtas: Lietuvos aidas 1992, Nr. 220-0; Žin. 1992, Nr.33-1014, i. k. 0921010KONSRG922324
 
@@ -1178,13 +1178,15 @@ Lietuvos Respublikoje centrinis bankas yra Lietuvos bankas, kuris nuosavybės te
 
 Lietuvos banko organizavimo ir veiklos tvarką, taip pat įgaliojimus ir Lietuvos banko valdybos pirmininko teisinį statusą bei jo atleidimo pagrindus nustato įstatymas.
 
-TAR pastaba. Nuo šio pranešimo oficialaus paskelbimo „Valstybės žiniose“ dienos iki bus paskelbtas Konstitucinio Teismo nutarimas šioje byloje sustabdomas Lietuvos Respublikos Seimo 2006 m. balandžio 25 d. priimto Lietuvos Respublikos Konstitucijos 125 straipsnio pakeitimo įstatymo (Žin., 2006, Nr. 48-1701) galiojimas.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Konstitucijos 125 straipsnio pakeitimo įstatymas (2006 m. balandžio 25 d. redakcija; Žin., 2006, Nr. 48-1701) pagal priėmimo tvarką prieštarauja Lietuvos Respublikos Konstitucijos 147 straipsnio 1 daliai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-572, 2006-04-25, Žin., 2006, Nr. 48-1701 (2006-04-29), i. k. 1061010ISTA000X-572
 
 2013-11-13, Žin., 2013, Nr. 118-5946 (2013-11-16), i. k. 113100PPRANRG135946
+
+Nr. KT2-N1/2014, 2014-01-24, paskelbta TAR 2014-01-24, i. k. 2014-00478
 
 126 straipsnis
 
@@ -1481,4 +1483,12 @@ Lietuvos Respublikos Konstitucinio Teismo pirmininkas, Pranešimas
 2013-11-13, Žin., 2013, Nr. 118-5946 (2013-11-16), i. k. 113100PPRANRG135946
 
 Dėl Lietuvos Respublikos Konstitucijos 125 straipsnio pakeitimo įstatymo galiojimo sustabdymo
+
+11.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT2-N1/2014, 2014-01-24, paskelbta TAR 2014-01-24, i. k. 2014-00478
+
+Dėl Lietuvos Respublikos Konstitucijos 125 straipsnio pakeitimo įstatymo, Lietuvos Respublikos Seimo statuto 170 straipsnio (2012 m. kovo 15 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
 
