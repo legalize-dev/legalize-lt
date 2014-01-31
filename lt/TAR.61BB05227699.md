@@ -4,7 +4,7 @@ identifier: "TAR.61BB05227699"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-30"
-last_updated: "2014-01-01"
+last_updated: "2014-01-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.61BB05227699"
 department: "Lietuvos Respublikos Seimas"
@@ -23,8 +23,6 @@ LIETUVOS RESPUBLIKOS
 Nr. 51-1243
 
 Neoficialus įstatymo tekstas
-
-Suvestinė įstatymo redakcija nuo 2014-01-01
 
 LIETUVOS RESPUBLIKOS
 
@@ -138,9 +136,9 @@ X-1219,
 
 2007-06-26, Žin., 2007, Nr. 77-3051 (2007-07-12)
 
-Nr. X-1827, 2008-11-14,
+Nr. X-1827,
 
-Žin., 2008, Nr. 137-5376 (2008-11-29)
+2008-11-14, Žin., 2008, Nr. 137-5376 (2008-11-29)
 
 Nr. XI-843,
 
@@ -208,9 +206,9 @@ tarptautinėmis sutartimis, valstybinio audito reikalavimais ir kitais teisės
 
 aktais.
 
-2. Valstybės
+2. Valstybės kontrolės
 
-kontrolės veikla grindžiama nepriklausomumo, teisėtumo, viešumo, neutralumo ir
+veikla grindžiama nepriklausomumo, teisėtumo, viešumo, neutralumo ir
 
 profesionalumo principais.
 
@@ -274,9 +272,9 @@ mėnesį skiriama paskutinio paskelbto šalies ūkio trijų vidutinių mėnesini
 
 darbo užmokesčių dydžio suma. Šių lėšų naudojimo tvarką nustato Vyriausybė.
 
-4. Valstybės kontrolės finansinį auditą
+4. Valstybės kontrolės finansinį auditą atlieka
 
-atlieka Seimo nutarimu paskirta audito įmonė.
+Seimo nutarimu paskirta audito įmonė.
 
 5. Valstybės kontrolės vidaus auditą atlieka
 
@@ -348,9 +346,9 @@ straipsnyje.
 
 Seimui:
 
-1) išvadą ir audito ataskaitą dėl valstybės konsoliduotųjų
+1) išvadą ir audito ataskaitą dėl valstybės
 
-ataskaitų rinkinio;
+konsoliduotųjų ataskaitų rinkinio;
 
 2) išvadą ir audito ataskaitą dėl Privalomojo
 
@@ -378,13 +376,13 @@ Respublikoje gaunamos Europos Sąjungos finansinės paramos auditus ir teikia
 
 atitinkamoms institucijoms šių auditų dokumentus.
 
-5. Valstybės kontrolė rengia savivaldybių
+5. Valstybės kontrolė rengia savivaldybių kontrolieriams
 
-kontrolieriams (savivaldybių kontrolės ir audito tarnyboms) audito metodikas ir
+(savivaldybių kontrolės ir audito tarnyboms) audito metodikas ir valstybės
 
-valstybės kontrolieriaus nustatyta tvarka atlieka savivaldybių kontrolierių
+kontrolieriaus nustatyta tvarka atlieka savivaldybių kontrolierių (savivaldybių
 
-(savivaldybių kontrolės ir audito tarnybų) atliekamo audito išorinę peržiūrą.
+kontrolės ir audito tarnybų) atliekamo audito išorinę peržiūrą.
 
 Straipsnio pakeitimai:
 
@@ -476,11 +474,11 @@ Prezidentui arba Vyriausybei dėl teisės aktų tobulinimo;
 
 10) dalyvauja Vyriausybės posėdžiuose;
 
-11) turi teisę pareikšti atskirąją nuomonę dėl Vyriausybės
+11) turi teisę pareikšti atskirąją nuomonę dėl
 
-nutarimų. Apie šią nuomonę jis per 3 darbo dienas po Vyriausybės posėdžio raštu
+Vyriausybės nutarimų. Apie šią nuomonę jis per 3 darbo dienas po Vyriausybės
 
-praneša Seimui ir Vyriausybei.
+posėdžio raštu praneša Seimui ir Vyriausybei.
 
 Straipsnio pakeitimai:
 
@@ -528,15 +526,15 @@ darbuotojų reikiamus paaiškinimus raštu; surašyti administracinių teisės
 
 pažeidimų protokolus; elektroniniu ryšiu gauti iš valstybės
 
-valdymo ir savivaldybių institucijų, valstybės kadastrų,
+valdymo ir savivaldybių institucijų, valstybės kadastrų, klasifikatorių
 
-klasifikatorių bei registrų tvarkytojų duomenis ir informaciją, kurios reikia
+bei registrų tvarkytojų duomenis ir informaciją, kurios reikia valstybiniam
 
-valstybiniam auditui atlikti; gauti iš ekspertizės įstaigų išvadas pagal
+auditui atlikti; gauti iš ekspertizės įstaigų išvadas pagal pateiktus audito
 
-pateiktus audito dokumentus; pasitelkti atitinkamų sričių specialistus ir
+dokumentus; pasitelkti atitinkamų sričių specialistus ir audito įstaigas, kai
 
-audito įstaigas, kai atliekamas specifinių sričių auditas.
+atliekamas specifinių sričių auditas.
 
 2. Atliekantys valstybinį auditą
 
@@ -544,9 +542,9 @@ Valstybės kontrolės pareigūnai įstatymų nustatyta tvarka atsako už
 
 Valstybinio audito reikalavimų ir Valstybės kontrolės
 
-pareigūnų tarnybinės etikos kodekso reikalavimų nesilaikymą ar apgaulingų
+pareigūnų tarnybinės etikos kodekso reikalavimų nesilaikymą ar apgaulingų duomenų
 
-duomenų pateikimą.
+pateikimą.
 
 Straipsnio pakeitimai:
 
@@ -674,11 +672,13 @@ valstybės kontrolierius.
 
 2. Valstybinio audito subjektai yra:
 
-1) valstybė, valstybės įstaigos ir institucijos;
+1) valstybė, valstybės įstaigos ir
 
-2) savivaldybės, savivaldybių įstaigos ir institucijos
+institucijos;
 
-bei jų išteklių fondai;
+2) savivaldybės, savivaldybių įstaigos ir
+
+institucijos bei jų išteklių fondai;
 
 3) valstybės išteklių ir mokesčių fondai;
 
@@ -686,9 +686,9 @@ bei jų išteklių fondai;
 
 savivaldybei priklausančios akcijos suteikia ne mažiau kaip 1/2 balsų;
 
-5) įmonės ir kiti juridiniai asmenys, kuriems
+5) įmonės ir kiti juridiniai asmenys,
 
-valstybės ar savivaldybės institucija suteikė lėšų arba perdavė turto.
+kuriems valstybės ar savivaldybės institucija suteikė lėšų arba perdavė turto.
 
 3. Valstybės kontrolė taip pat atlieka valstybės
 
@@ -696,17 +696,41 @@ biudžeto, Valstybinio socialinio draudimo fondo biudžeto ir Privalomojo
 
 sveikatos draudimo fondo biudžeto vykdymo valstybinį auditą.
 
-4. Valstybės kontrolė gali atlikti Lietuvos banko
+4. Valstybės kontrolė gali atlikti Lietuvos
 
-įstatyme nustatytos vykdomos veiklos, įskaitant veiklą, susijusią su finansų
+banko veiklos auditą, išskyrus Europos centrinių bankų sistemos ir Eurosistemos
 
-rinkos priežiūros atlikimu, auditą tiek, kiek tai neprieštarauja Europos
+uždavinių vykdymą, nepažeisdama Lietuvos banko parinktos audito įmonės veiklos.
 
-Sąjungos teisės aktams ir juose įtvirtintiems Europos centrinių bankų sistemos
+Valstybės kontrolė atsižvelgia į Lietuvos banko nepriklausomumą ir neduoda
 
-tikslams ir uždaviniams, ir jeigu tai nepažeidžia Europos centrinių bankų
+nurodymų Lietuvos bankui, Lietuvos banko valdybai, jos nariams atliekant savo
 
-sistemos konfidencialumo ir nepriklausomumo režimo.
+funkcijas, susijusias su Europos centrinių bankų sistemos ir Eurosistemos
+
+uždavinių vykdymu.
+
+Redakcija nuo tos dienos,
+
+nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos
+
+pagal Sutarties dėl Europos Sąjungos veikimo 140 straipsnio 1 dalies pirmajame
+
+sakinyje ir 2 dalies pirmojoje pastraipoje nustatytą procedūrą:
+
+4. Valstybės kontrolė gali atlikti Lietuvos
+
+banko veiklos auditą, išskyrus Europos centrinių bankų sistemos ir Eurosistemos
+
+uždavinių vykdymą, nepažeisdama Lietuvos banko nepriklausomų išorės auditorių
+
+veiklos. Valstybės kontrolė atsižvelgia į Lietuvos banko nepriklausomumą ir
+
+neduoda nurodymų Lietuvos bankui, Lietuvos banko valdybai, jos nariams
+
+atliekant savo funkcijas, susijusias su Europos centrinių bankų sistemos ir
+
+Eurosistemos uždavinių vykdymu.
 
 5. Seimas nutarimu gali pavesti Valstybės kontrolei
 
@@ -726,9 +750,9 @@ Nr. X-468, 2005-12-22,
 
 Žin., 2006, Nr. 4-101 (2006-01-12)
 
-Nr. XI-497,
+Nr. XI-497, 2009-11-19,
 
-2009-11-19, Žin., 2009, Nr. 144-6349 (2009-12-05)
+Žin., 2009, Nr. 144-6349 (2009-12-05)
 
 Nr.
 
@@ -739,6 +763,12 @@ XI-1706,
 Nr. XII-639,
 
 2013-12-03, Žin., 2013, Nr. 130-6623 (2013-12-19)
+
+Nr.
+
+XII-766,
+
+2014-01-23, paskelbta TAR 2014-01-30, i. k. 2014-00712
 
 15 straipsnis. Audituojamo
 
@@ -832,9 +862,9 @@ Nr. X-468, 2005-12-22,
 
 straipsnis. Valstybės kontrolieriaus ir jo pavaduotojų teisės priimant
 
-sprendimus pagal valstybinio audito
+sprendimus pagal valstybinio
 
-ataskaitas
+audito ataskaitas
 
 Valstybės kontrolierius ar jo
 
@@ -870,11 +900,11 @@ fondus lėšas, skirtas ar panaudotas pažeidžiant įstatymus ar kitus teisės
 
 aktus;
 
-5) nustačius
+5)
 
-pažeidimus, nagrinėtinus atitinkamų viešojo administravimo subjektų arba
+nustačius pažeidimus, nagrinėtinus atitinkamų viešojo administravimo subjektų
 
-teisėsaugos institucijų, valstybinio audito dokumentus perduoti pagal
+arba teisėsaugos institucijų, valstybinio audito dokumentus perduoti pagal
 
 kompetenciją;
 
@@ -890,9 +920,9 @@ atlikti tikrinimus jų kompetencijai priskirtais klausimais;
 
 nustatyti sprendimo įvykdymo terminą;
 
-8) siūlyti Seimo Audito komitetui svarstyti
+8) siūlyti Seimo Audito komitetui svarstyti valstybinio
 
-valstybinio audito ataskaitas ir audito išvadas.
+audito ataskaitas ir audito išvadas.
 
 Straipsnio pakeitimai:
 
@@ -1086,11 +1116,11 @@ kontrolierius ir jo pavaduotojai yra valstybės pareigūnai. Kiti įstatymai jie
 
 taikomi tiek, kiek jų statuso nereglamentuoja šis Įstatymas.
 
-2. Valstybės kontrolės
+2. Valstybės
 
-pareigūnai yra valstybės tarnautojai. Valstybės tarnybos įstatymas jiems
+kontrolės pareigūnai yra valstybės tarnautojai. Valstybės tarnybos įstatymas
 
-taikomas tiek, kiek jų statuso nereglamentuoja šis Įstatymas.
+jiems taikomas tiek, kiek jų statuso nereglamentuoja šis Įstatymas.
 
 3. Kitų Valstybės kontrolės tarnautojų statusą
 
@@ -1112,11 +1142,11 @@ Valstybės tarnybos įstatymu.
 
 2. Į Valstybės kontrolės pareigūnų tarnybą priimami
 
-asmenys, turintys aukštąjį universitetinį išsimokslinimą. Priimant į tarnybą,
+asmenys, turintys aukštąjį universitetinį išsimokslinimą. Priimant į tarnybą, vertinami
 
-vertinami pretendentų privalumai ir gebėjimai audito srityje, moralinės ir
+pretendentų privalumai ir gebėjimai audito srityje, moralinės ir asmeninės
 
-asmeninės savybės.
+savybės.
 
 3. Asmenys, priimami į Valstybės kontrolės pareigūnų
 
@@ -1270,9 +1300,9 @@ iš šių priesaikos tekstų:
 
 (vardas, pavardė),
 
-prisiekiu būti ištikimas Lietuvos
+prisiekiu būti ištikimas
 
-Respublikai;
+Lietuvos Respublikai;
 
 gerbti ir
 
@@ -1352,9 +1382,7 @@ IX-1912,
 
 2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
 
-32 straipsnis. Tarnybinis
-
-pažymėjimas
+32 straipsnis. Tarnybinis pažymėjimas
 
 1. Valstybės kontrolės pareigūnas turi nustatyto
 
@@ -1412,9 +1440,9 @@ laikas ar valstybės kontrolierius atsistatydina, jis turi eiti savo pareigas
 
 tol, kol Seimas paskiria valstybės kontrolierių.
 
-4. Nepasitikėjimą valstybės kontrolieriumi gali
+4. Nepasitikėjimą valstybės kontrolieriumi gali reikšti
 
-reikšti Seimas ar Respublikos Prezidentas.
+Seimas ar Respublikos Prezidentas.
 
 5. Atleisti valstybės kontrolierių iš pareigų dėl
 
@@ -2160,13 +2188,39 @@ KONTROLĖS ĮSTATYMO 9 IR 14 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 sausio 1 d.
 
+23.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-766,
+
+2014-01-23, paskelbta TAR 2014-01-30, i. k. 2014-00712
+
+LIETUVOS
+
+RESPUBLIKOS VALSTYBĖS KONTROLĖS ĮSTATYMO NR. I-907 14 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
+Šio
+
+įstatymo 1 straipsnio 2 dalis įsigalioja dieną, nuo kurios Europos Sąjungos
+
+Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos
+
+Sąjungos veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies
+
+pirmojoje pastraipoje nustatytą procedūrą.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2013-12-19)
+Aušrinė Trapinskienė (2014-02-03)
 
 ausrine.trapinskiene@lrs.lt
 
