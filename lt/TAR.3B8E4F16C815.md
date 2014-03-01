@@ -4,7 +4,7 @@ identifier: "TAR.3B8E4F16C815"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-10-02"
-last_updated: "2014-01-08"
+last_updated: "2014-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3B8E4F16C815"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "25 straipsnio 2 dalis įsigalioja 2012-10-20"
 
 LIETUVOS RESPUBLIKOS KRIMINALINĖS ŽVALGYBOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2014-01-08 iki 2014-02-28
+Suvestinė redakcija nuo 2014-03-01 iki 2014-03-27
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 122-6093, i. k. 1121010ISTA0XI-2234
 
@@ -80,7 +80,11 @@ BENDROSIOS NUOSTATOS
 
 10. Kriminalinės žvalgybos objektai – galimai rengiamos, daromos ar padarytos nusikalstamos veikos, jas rengiantys, darantys ar padarę asmenys, šių asmenų aktyvūs veiksmai neutralizuojant kriminalinę žvalgybą, kiti su valstybės nacionaliniu saugumu susiję įvykiai ir asmenys.
 
-11. Kriminalinės žvalgybos pagrindinės institucijos – Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Specialiųjų tyrimų tarnyba, Vadovybės apsaugos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos. Kriminalinės žvalgybos pagrindinių institucijų teises ir pareigas taip pat turi Antrasis operatyvinių tarnybų departamentas prie Lietuvos Respublikos krašto apsaugos ministerijos ir Valstybės saugumo departamentas, kai jų padaliniai atlieka kriminalinės žvalgybos tyrimą šio įstatymo nustatytais pagrindais ir tvarka.
+11. Kriminalinės žvalgybos pagrindinės institucijos – Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Specialiųjų tyrimų tarnyba, Vadovybės apsaugos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos. Kriminalinės žvalgybos pagrindinių institucijų teises ir pareigas taip pat turi Antrasis operatyvinių tarnybų departamentas prie Lietuvos Respublikos krašto apsaugos ministerijos ir Valstybės saugumo departamentas, kai jų padaliniai atlieka kriminalinės žvalgybos tyrimą šio įstatymo nustatytais pagrindais ir tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-729, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00067
 
 12. Kriminalinės žvalgybos subjektai – kriminalinę žvalgybą įgalioti vykdyti padaliniai. Šių padalinių sąrašą sudaro ir jų veiklos mastą nustato Lietuvos Respublikos Vyriausybė.
 
@@ -146,7 +150,11 @@ Kriminalinės žvalgybos uždaviniai yra šie:
 
 8. Jeigu įgyvendinant kriminalinės žvalgybos kontrolę nustatoma, kad kriminalinės žvalgybos metu buvo pažeistos žmogaus teisės ir laisvės, apie tai informuojamas kriminalinės žvalgybos pagrindinės institucijos vadovas. Kriminalinės žvalgybos pagrindinės institucijos vadovas privalo informuoti asmenį apie jo atžvilgiu kriminalinės žvalgybos metu padarytus pažeidimus, išskyrus atvejus, kai pateikus tokią informaciją gali būti padaryta žala nebaigtiems kriminalinės žvalgybos tyrimams ar atskleista kriminalinės žvalgybos slaptųjų dalyvių tapatybė. Jeigu tuo metu pateikta tokia informacija gali padaryti žalos nebaigtiems kriminalinės žvalgybos tyrimams, ji tuoj pat turi būti pateikta baigus kriminalinės žvalgybos tyrimą.
 
-9. Asmuo, manantis, kad kriminalinės žvalgybos subjektų veiksmai pažeidė jo teises ir laisves, gali apskųsti šiuos veiksmus kriminalinės žvalgybos pagrindinės institucijos vadovui ir prokurorui. Asmuo, nesutinkantis su prokuroro sprendimu, gali paduoti skundą teismui.
+9. Asmuo, manantis, kad kriminalinės žvalgybos subjektų veiksmai pažeidė jo teises ir laisves, gali apskųsti šiuos veiksmus kriminalinės žvalgybos pagrindinės institucijos vadovui arba prokurorui. Šis skundas turi būti išnagrinėtas ne vėliau kaip per 20 darbo dienų nuo jo gavimo dienos. Asmuo, nesutinkantis su kriminalinės žvalgybos pagrindinės institucijos vadovo ar prokuroro sprendimu, gali per 20 darbo dienų nuo jo gavimo dienos paduoti skundą apygardos teismo pirmininkui ar jo įgaliotam teisėjui. Galutinis sprendimas priimamas ne vėliau kaip per 20 darbo dienų nuo skundo gavimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-729, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00067
 
 ANTRASIS SKIRSNIS
 
@@ -552,13 +560,21 @@ KRIMINALINĖS ŽVALGYBOS KOORDINAVIMAS IR KONTROLĖ
 
 2. Kriminalinės žvalgybos slaptieji dalyviai ir informacija apie juos, kriminalinės žvalgybos tyrimo bylos ir kriminalinės žvalgybos informacijos rinkimo būdų ir priemonių taikymo taktika yra kriminalinės žvalgybos subjektų vidaus kontrolės objektas, išskyrus šio įstatymo 22 straipsnio 2 dalyje numatytus atvejus.
 
-3. Finansų ministras ir vidaus reikalų ministras pagal savo kompetenciją koordinuoja ir prižiūri jiems pavaldžių kriminalinės žvalgybos pagrindinių institucijų veiklą.
+3. Finansų ministras, teisingumo ministras ir vidaus reikalų ministras pagal savo kompetenciją koordinuoja ir prižiūri jiems pavaldžių kriminalinės žvalgybos pagrindinių institucijų veiklą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-729, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00067
 
 22 straipsnis. Kriminalinės žvalgybos koordinavimas ir teisėtumo kontrolė
 
 1. Kriminalinės žvalgybos subjektų veiklą koordinuoja ir jų teisėtumą kontroliuoja prokurorai, rengdami motyvuotus teikimus, numatytus šio įstatymo 10, 11 ir 12 straipsniuose, sankcionuodami ar atsisakydami sankcionuoti veiksmus, nustatytus šio įstatymo 13, 14 ir 15 straipsniuose, ir gaudami informaciją apie veiksmų, nustatytų šio įstatymo 10, 11, 12, 13, 14 ir 15 straipsniuose, atlikimo eigą ir rezultatus. Generalinis prokuroras nustato šio įstatymo 10, 11, 12, 13, 14 ir 15 straipsniuose nustatytų veiksmų koordinavimo ir teisėtumo kontrolės tvarką.
 
-2. Tirdamas asmenų skundus ir kai yra pagrindas dėl kriminalinės žvalgybos subjektų galbūt atliktų neteisėtų veiksmų, prokuroras gali reikalauti kriminalinės žvalgybos subjekto pateikti visą informaciją, susijusią su nagrinėjamu skundu, išskyrus duomenis, galinčius atskleisti kriminalinės žvalgybos slaptųjų dalyvių asmens tapatybę. Šie duomenys gali būti pateikti kriminalinės žvalgybos pagrindinės institucijos vadovo sprendimu generaliniam prokurorui jo motyvuotu prašymu.
+2. Tirdamas asmenų skundus ir kai yra pagrindas dėl kriminalinės žvalgybos subjektų galbūt atliktų neteisėtų veiksmų, prokuroras gali reikalauti kriminalinės žvalgybos subjekto pateikti visą informaciją, susijusią su nagrinėjamu skundu, išskyrus duomenis, galinčius atskleisti kriminalinės žvalgybos slaptųjų dalyvių asmens tapatybę. Šie duomenys gali būti pateikti kriminalinės žvalgybos pagrindinės institucijos vadovo sprendimu generaliniam prokurorui arba jo įgaliotam prokurorui jų motyvuotu prašymu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-729, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00067
 
 23 straipsnis. Vyriausybės kontrolė
 
@@ -661,4 +677,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-730, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00066
 
 Lietuvos Respublikos kriminalinės žvalgybos įstatymo 8 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-729, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00067
+
+Lietuvos Respublikos kriminalinės žvalgybos įstatymo 2, 5, 21 ir 22 straipsnių pakeitimo įstatymas
 
