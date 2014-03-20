@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2013-03-01"
+last_updated: "2014-03-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2013-03-01 iki 2014-03-19
+Suvestinė redakcija nuo 2014-03-20 iki 2015-03-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -320,19 +320,55 @@ Valstybinės energetikos inspekcijos funkcijas, uždavinius, teises ir pareigas 
 
 13) nustato perdavimo sistemos operatoriaus dokumentų, duomenų ir informacijos pateikimo tvarką ir sąlygas;
 
-14) tvirtina Elektros energijos rinkos priežiūros ir susijusių reikalavimų tvarkos aprašą;
+14) tvirtina Naudojimosi jungiamųjų linijų paslaugomis kainų skaičiavimo metodiką, perdavimo sistemos operatoriaus pateiktas perdavimo tinklų ir jungiamųjų linijų valdymą, jų pralaidumo nustatymą, paskirstymą ir perkrovų valdymą reglamentuojančias taisykles;
 
-15) tvirtina Elektros energijos rinkos tyrimo taisykles;
+Papildyta straipsnio punktu:
 
-16) nustato Komisijos priimamų teisės aktų ir sprendimų skelbimo tvarką ir sąlygas;
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
-17) tvirtina Komisijos viešojo konsultavimosi taisykles;
+15) tvirtina Elektros energijos rinkos priežiūros ir susijusių reikalavimų tvarkos aprašą;
 
-18) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+
+16) tvirtina Elektros energijos rinkos tyrimo taisykles;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+
+17) nustato Komisijos priimamų teisės aktų ir sprendimų skelbimo tvarką ir sąlygas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+
+18) tvirtina Komisijos viešojo konsultavimosi taisykles;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+
+19) vykdo Energetikos įstatyme numatytų priemonių, taikomų paskelbus valstybės lygio ekstremaliąją energetikos padėtį, įgyvendinimo elektros energetikos sektoriuje, taip pat aprūpinimo elektros energija nutraukimo ir ribojimo kitais pagrindais stebėseną, pagal kompetenciją bendradarbiauja įgyvendinant šias priemones ir teikia rekomendacijas dėl jų atitikties įstatymų nustatytiems reikalavimams;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+
+20) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 4. Komisija turi užtikrinti konkurenciją tarp elektros energijos rinkos dalyvių, atskirų rinkos dalyvių ir vartotojų nediskriminavimą bei nustatytos kokybės paslaugų teikimą vartotojams. Siekdama šio tikslo, Komisija kontroliuoja:
 
-1) kaip laikomasi jungiamųjų linijų valdymo ir jų pralaidumo paskirstymo ir reguliavimo taisyklių;
+1) kaip laikomasi perdavimo tinklų ir jungiamųjų linijų valdymo, jų pralaidumo nustatymo, paskirstymo ir perkrovų valdymo taisyklių. Komisija turi teisę teikti privalomus nurodymus perdavimo sistemos operatoriui dėl šių taisyklių koregavimo ar keitimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 2) kaip laikomasi elektros energijos persiuntimo patikimumo ir paslaugų kokybės reikalavimų;
 
@@ -774,11 +810,17 @@ Perdavimo sistemos operatorius turi teisę:
 
 6) siekdamas užtikrinti avarijų prevencijos priemonių ir avarijų prevencijos planų vykdymą, elektros energetikos sistemos darbo stabilumą ir patikimumą, reikalauti, kad visi rinkos dalyviai įgyvendintų būtinas avarijų prevencijos ir likvidavimo priemones;
 
-7) rengti ir tvirtinti jungiamųjų linijų valdymą, pralaidumo paskirstymą ir reguliavimą reglamentuojančias taisykles;
+7) gavęs susijusio gamintojo, skirstomųjų tinklų operatoriaus ar vartotojo sutikimą, patekti į gamintojų, skirstomųjų tinklų, vartotojų teritorijas ir (ar) patalpas tam, kad galėtų įrengti, prižiūrėti ar keisti elektros energijos apskaitos prietaisus arba nuskaityti jų rodmenis;
 
-8) gavęs susijusio gamintojo, skirstomųjų tinklų operatoriaus ar vartotojo sutikimą, patekti į gamintojų, skirstomųjų tinklų, vartotojų teritorijas ir (ar) patalpas tam, kad galėtų įrengti, prižiūrėti ar keisti elektros energijos apskaitos prietaisus arba nuskaityti jų rodmenis;
+Straipsnio punkto numeracijos pakeitimas:
 
-9) reikalauti iš balansavimo energijos tiekėjų, sudariusių sutartis su perdavimo sistemos operatoriaus licencijoje nurodytoje teritorijoje esančiais vartotojais, pateikti pakankamą prievolių įvykdymo užtikrinimą, kuriuo būtų užtikrintos būsimos ir (ar) esamos nepriklausomų tiekėjų prievolės nupirkti iš perdavimo sistemos operatoriaus vartotojų suvartotą, tačiau nepriklausomo tiekėjo nenupirktą elektros energiją ir atlyginti dėl to susidariusius nuostolius.
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+
+8) reikalauti iš balansavimo energijos tiekėjų, sudariusių sutartis su perdavimo sistemos operatoriaus licencijoje nurodytoje teritorijoje esančiais vartotojais, pateikti pakankamą prievolių įvykdymo užtikrinimą, kuriuo būtų užtikrintos būsimos ir (ar) esamos nepriklausomų tiekėjų prievolės nupirkti iš perdavimo sistemos operatoriaus vartotojų suvartotą, tačiau nepriklausomo tiekėjo nenupirktą elektros energiją ir atlyginti dėl to susidariusius nuostolius.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 31 straipsnis. Perdavimo sistemos operatoriaus pareigos
 
@@ -820,13 +862,35 @@ Perdavimo sistemos operatorius privalo:
 
 18) užtikrinti linijų perkrovų valdymą rinkos mechanizmais, gautų perkrovų pajamų paskirstymą ir dėl tarpsisteminių elektros energijos srautų atsiradusių sąnaudų kompensavimą pagal 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančio Reglamentą (EB) Nr. 1228/2003, nustatytus principus;
 
-19) užtikrinti informacijos, gautos atliekant savo funkcijas ir sudarančios komercinę ar kitokią paslaptį, konfidencialumą, išskyrus įstatymų nustatytus atvejus, ir nenaudoti šios informacijos kitų elektros energetikos sektoriaus dalyvių diskriminavimo tikslais. Komisija prižiūri ir kontroliuoja, kad perdavimo sistemos operatoriaus gauta informacija, sudaranti komercinę ar kitokią paslaptį, nebūtų perduodama jokiems tretiesiems asmenims, išskyrus įstatymų nustatytus atvejus, o perdavimo sistemos operatoriaus personalas neteiktų paslaugų ar nebūtų perleidžiamas įmonėms, vykdančioms elektros energijos gamybos ar tiekimo veiklą;
+19) rengti ir teikti Komisijai tvirtinti perdavimo tinklų ir jungiamųjų linijų valdymą, jų pralaidumo nustatymą, paskirstymą ir perkrovų valdymą reglamentuojančias taisykles;
 
-20) pateikti kitos sistemos, su kuria sujungta Lietuvos Respublikos elektros energetikos sistema, perdavimo sistemos operatoriui pakankamai informacijos, kad būtų užtikrinamas saugus ir efektyvus jungtinės sistemos eksploatavimas, koordinuojama jos plėtra ir sąveika;
+Papildyta straipsnio punktu:
 
-21) savo interneto svetainėje skelbti atitinkamą informaciją, susijusią su jungiamosiomis linijomis, sistemos naudojimu ir pajėgumų paskirstymu suinteresuotosioms šalims, atsižvelgdamas į tai, kad neapibendrinta informacija turi būti tvarkoma kaip konfidenciali komercinė informacija;
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
-22) teisės aktų nustatyta tvarka skelbti ir teikti nurodytą informaciją.
+20) užtikrinti informacijos, gautos atliekant savo funkcijas ir sudarančios komercinę ar kitokią paslaptį, konfidencialumą, išskyrus įstatymų nustatytus atvejus, ir nenaudoti šios informacijos kitų elektros energetikos sektoriaus dalyvių diskriminavimo tikslais. Komisija prižiūri ir kontroliuoja, kad perdavimo sistemos operatoriaus gauta informacija, sudaranti komercinę ar kitokią paslaptį, nebūtų perduodama jokiems tretiesiems asmenims, išskyrus įstatymų nustatytus atvejus, o perdavimo sistemos operatoriaus personalas neteiktų paslaugų ar nebūtų perleidžiamas įmonėms, vykdančioms elektros energijos gamybos ar tiekimo veiklą;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+
+21) pateikti kitos sistemos, su kuria sujungta Lietuvos Respublikos elektros energetikos sistema, perdavimo sistemos operatoriui pakankamai informacijos, kad būtų užtikrinamas saugus ir efektyvus jungtinės sistemos eksploatavimas, koordinuojama jos plėtra ir sąveika;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+
+22) savo interneto svetainėje skelbti atitinkamą informaciją, susijusią su jungiamosiomis linijomis, sistemos naudojimu ir pajėgumų paskirstymu suinteresuotosioms šalims, atsižvelgdamas į tai, kad neapibendrinta informacija turi būti tvarkoma kaip konfidenciali komercinė informacija;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+
+23) teisės aktų nustatyta tvarka skelbti ir teikti nurodytą informaciją.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 32 straipsnis. Perdavimo sistemos operatoriaus disponuojami ištekliai
 
@@ -860,7 +924,11 @@ Perdavimo sistemos operatorius privalo:
 
 5. Komisija įvertina, ar perdavimo sistemos operatoriaus pateiktame tinklų plėtros plane atsižvelgta į visus investicijų poreikius, kurie buvo nustatyti konsultacijų metu, ir ar planas neprieštarauja neprivalomam Europos Sąjungos 10 metų tinklų plėtros planui, nurodytam 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančio Reglamentą (EB) Nr. 1228/2003, 8 straipsnio 3 dalies b punkte.
 
-6. Komisija vykdo tinklų plėtros plano įgyvendinimo stebėseną ir atlieka jo vertinimą. Perdavimo sistemos operatorius, nepateikęs plėtros plano šio straipsnio 1 dalyje nustatytais terminais arba pateikęs plėtros planą nesilaikydamas šiame straipsnyje nustatytų reikalavimų ir nepašalinęs nustatytų pažeidimų per Komisijos nurodytą terminą, laikomas pažeidusiu reguliuojamos elektros energijos perdavimo veiklos sąlygas.
+6. Komisija vykdo tinklų plėtros plano įgyvendinimo stebėseną ir atlieka jo vertinimą. Komisija, nustačiusi tinklų plėtros plano neatitiktį šiame straipsnyje nustatytiems reikalavimams, teikia perdavimo sistemos operatoriui rekomendacijas dėl tinklų plėtros plano koregavimo ar keitimo ir nurodo protingą terminą šiems veiksmams atlikti. Perdavimo sistemos operatorius, nepateikęs plėtros plano šio straipsnio 1 dalyje nustatytais terminais arba pateikęs plėtros planą nesilaikydamas šiame straipsnyje nustatytų reikalavimų ir nepašalinęs nustatytų pažeidimų per Komisijos nurodytą terminą, laikomas pažeidusiu reguliuojamos elektros energijos perdavimo veiklos sąlygas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 7. Tuo atveju, kai perdavimo sistemos operatorius neatlieka investicijų, kurios pagal tinklų plėtros planą turėjo būti padarytos per ateinančius 3 metus, Komisija imasi šių priemonių tam, kad atitinkamos investicijos būtų atliktos, jeigu jos yra reikalingos atsižvelgiant į naujausią tinklų plėtros planą:
 
@@ -1060,7 +1128,17 @@ VARTOTOJŲ TEISIŲ APSAUGA
 
 6) Vyriausybė ar jos įgaliota institucija imasi tinkamų priemonių elektros energijos trūkumo klausimams spręsti, rengia su tuo susijusius nacionalinius energetikos veiksmų planus, įstatymų nustatyta tvarka teikia socialinės apsaugos sistemos lengvatas, skirtas užtikrinti reikiamą elektros energijos tiekimą socialiai pažeidžiamiems vartotojams ir jų grupėms bei paramą siekiant didinti elektros energijos vartojimo efektyvumą.
 
-3. Elektros energijos vartotojų teisių ir teisėtų interesų apsaugos valstybinę priežiūrą ir kontrolę pagal kompetenciją vykdo Komisija ir Tarnyba.
+3. Vartotojų sudaromų sutarčių sąlygos turi būti skaidrios, sąžiningos ir nediskriminuojančios. Šalių teisės, pareigos ir atsakomybė sutartyse privalo būti išdėstytos aiškiai ir suprantamai, nenustatant perteklinių administracinių ir (ar) procedūrinių reikalavimų, kurių pagrindu būtų ribojama vartotojų galimybė pasinaudoti šiame įstatyme ir kituose teisės aktuose numatytomis teisėmis. Nesąžiningi ar klaidinantys elektros energetikos sektoriaus paslaugų teikimo ar prekybos elektros energija metodai draudžiami.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+
+4. Elektros energijos vartotojų teisių ir teisėtų interesų apsaugos valstybinę priežiūrą ir kontrolę pagal kompetenciją vykdo Komisija ir Tarnyba.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 50 straipsnis. Elektros energijos persiuntimo patikimumas ir paslaugų kokybės reikalavimų užtikrinimas
 
@@ -1270,7 +1348,11 @@ Už elektros energijos perdavimo ar skirstymo veiklos nepriklausomumo ir veiklos
 
 1. Vyriausybė ar jos įgaliota institucija, kuriai įstatymu pavesta rengti Nacionalinės energetinės nepriklausomybės strategijos, Nacionalinės energijos naudojimo efektyvumo didinimo programos, kitų energetikos programų projektus, turi teisę iš elektros energijos gamybos, perdavimo, skirstomųjų tinklų ir tiekimo įmonių gauti šiems projektams rengti reikiamą informaciją.
 
-2. Komisija turi teisę gauti iš valstybės institucijų, įskaitant ir jų turimą Europos Sąjungos institucijų bei kitų valstybių narių disponuojamą informaciją, ir savivaldybių institucijų bei įstaigų, elektros energijos gamybos, perdavimo, skirstymo ir tiekimo veiklą vykdančių įmonių, taip pat iš elektros biržos operatoriaus ir kitų asmenų informaciją, kuri reikalinga elektros energijos rinkai tinkamai prižiūrėti, Komisijai pagal kompetenciją vykdant elektros energetikos sektoriaus reguliavimą ir priežiūrą.
+2. Komisija turi teisę gauti iš valstybės institucijų, įskaitant ir jų turimą Europos Sąjungos institucijų bei kitų valstybių narių disponuojamą informaciją, ir iš savivaldybių institucijų bei įstaigų, elektros energijos gamybos, perdavimo, skirstymo ir tiekimo veiklą vykdančių įmonių, taip pat iš elektros biržos operatoriaus ir kitų asmenų informaciją, kuri reikalinga Komisijai pavestoms elektros energetikos sektoriaus reguliavimo, priežiūros ir kontrolės funkcijoms tinkamai atlikti, įskaitant, bet neapsiribojant, išsamius paaiškinimus dėl ribojamo trečiųjų asmenų dalyvavimo (prieigos) persiunčiant elektros energiją ar atsisakymo suteikti šią prieigą bei informaciją apie priemones, reikalingas elektros tinklams stiprinti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 3. Elektros energijos gamybos, perdavimo, skirstymo, tiekimo veiklą vykdančios įmonės ir elektros biržos operatorius šio straipsnio 1 ir 2 dalyse nurodytą informaciją privalo teikti teisės aktų nustatyta tvarka.
 
@@ -1467,6 +1549,12 @@ Elektros energijos gamintoju gali tapti kiekvienas asmuo, šio įstatymo 16 ir 1
 8. Skirstomųjų tinklų operatoriaus sąnaudos, nurodytos šio straipsnio 6 ir 7 dalyse, apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo ar gamintojo elektros įrenginių prijungimu prie skirstomųjų tinklų. Tokias perdavimo sistemos operatoriaus sąnaudas vartotojas ir gamintojas, taikant šio straipsnio 6 dalyje nustatytą sąnaudų paskirstymo tvarką, apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriui 100 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gamintojo elektros įrenginius, arba 40 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo elektros įrenginius. Likusi nepadengta perdavimo sistemos operatoriaus sąnaudų dalis laikoma perdavimo sistemos operatoriaus tinklų plėtros išlaidomis.
 
 9. Tuo atveju, kai buitinis vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant šio straipsnio 6 dalies 1 punkte nurodytą sąnaudų paskirstymo tvarką, ne vėliau kaip per 12 mėnesių nuo elektros įrenginių prijungimo momento pradeda vartoti šiais įrenginiais patiektą elektros energiją savo ar kitų asmenų ūkinės komercinės ar profesinės veiklos reikmėms tenkinti, toks vartotojas nėra laikomas buitiniu vartotoju ir, gavęs atitinkamą skirstomųjų tinklų operatoriaus reikalavimą, privalo apmokėti likusią sąnaudų dalį, apskaičiuojamą šio straipsnio 6 dalies 2 punkte nustatyta tvarka.
+
+10. Komisija, vadovaudamasi jos patvirtinta metodika, nustato naudojimosi jungiamosiomis linijomis paslaugų kainą, kuri nustatoma ir pradedama taikyti atsižvelgus į motyvuotą Energetikos ministerijos pranešimą. Nustatant naudojimosi jungiamosiomis linijomis paslaugų kainą nėra vertinamos sąnaudos, kompensuojamos vadovaujantis 2010 m. rugsėjo 23 d. Europos Komisijos reglamento (ES) Nr. 838/2010 dėl perdavimo sistemos operatorių tarpusavio kompensavimo mechanizmo ir bendro perdavimo mokesčių reguliavimo metodo taikymo gairių nustatymo (OL 2010 L 250, p. 5) nuostatomis. Naudojimosi jungiamosiomis linijomis paslaugų kainos įsigalioja praėjus 2 mėnesiams nuo jų paskelbimo. Tinklų naudotojai ir (ar) rinkos dalyviai, atsižvelgdami į tai, kas sukelia papildomas sąnaudas, už naudojimosi jungiamosiomis linijomis paslaugas atskirai moka tik tuo atveju, kai šių paslaugų sąnaudos teisės aktuose nustatyta tvarka nėra įtrauktos į elektros energijos perdavimo paslaugos kainą ar į Komisijos nustatomą įėjimo į Lietuvos Respublikos elektros energijos rinką įmoką.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 68 straipsnis. Sąnaudų apskaita ir kontrolė
 
