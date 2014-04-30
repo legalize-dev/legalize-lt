@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2012-06-30"
+last_updated: "2014-04-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2012-06-30 iki 2014-04-29
+Suvestinė redakcija nuo 2014-04-30 iki 2014-10-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -163,6 +163,12 @@ Vilnius
 6) vandens tiekimo ir nuotekų šalinimo paslaugas teikiančios įmonės pagal Vyriausybės patvirtintą sąrašą;
 
 7) akcinė bendrovė Giraitės ginkluotės gamykla.
+
+8) akcinė bendrovė AB „Amber Grid.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-853, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04861
 
 2. Vandens tiekimo ir nuotekų šalinimo paslaugas teikiančios įmonės, nurodytos šio straipsnio 1 dalies 6 punkte, nuosavybės teise turi priklausyti valstybei ar savivaldybei arba valstybei ar savivaldybei turi priklausyti daugiau kaip 3/4 balsų visuotiniame akcininkų susirinkime suteikiančių šių įmonių akcijų.
 
@@ -351,6 +357,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2087, 2012-06-21, Žin., 2012, Nr. 76-3931 (2012-06-30), i. k. 1121010ISTA0XI-2087
 
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-853, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04861
+
+Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 5 straipsnio pakeitimo įstatymas
 
 7 straipsnis. Potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimas
 
