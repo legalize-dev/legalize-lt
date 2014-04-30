@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "2014-01-01"
+last_updated: "2014-04-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2014-04-29
+Suvestinė redakcija nuo 2014-04-30 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -56,7 +56,11 @@ BENDROSIOS NUOSTATOS
 
 3. Šis įstatymas nustato veiklos su branduolinėmis medžiagomis, kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais ir branduolinio kuro ciklo medžiagų, įskaitant radioaktyviąsias atliekas, tvarkomų branduolinės energetikos objekte, tvarkymo bendruosius teisinius pagrindus. Branduolinės saugos, radiacinės saugos ir radioaktyviųjų atliekų tvarkymo saugos reglamentavimas ir priežiūra branduolinės energetikos srityje atliekami vadovaujantis šiuo įstatymu ir Lietuvos Respublikos branduolinės saugos įstatymu (toliau – Branduolinės saugos įstatymas), Lietuvos Respublikos radiacinės saugos įstatymu (toliau – Radiacinės saugos įstatymas) ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymu (toliau – Radioaktyviųjų atliekų tvarkymo įstatymas).
 
-4. Šio įstatymo nuostatos suderintos su šio įstatymo priede nurodytu Europos Sąjungos teisės aktu.
+4. Šio įstatymo nuostatos suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės aktais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -124,15 +128,41 @@ BENDROSIOS NUOSTATOS
 
 32. Panaudotas branduolinis kuras – branduolinio reaktoriaus aktyviojoje zonoje apšvitintas ir visam laikui iš jo pašalintas branduolinis kuras. Panaudotas branduolinis kuras gali būti skirtas perdirbti siekiant naudoti pakartotinai arba skirtas tvarkyti kaip radioaktyviosios atliekos ir dėti į atliekyną.
 
-33. Pareiškėjas – asmuo, teisės aktų nustatyta tvarka pateikęs paraišką gauti licenciją ar leidimą.
+33. Panaudoto branduolinio kuro perdirbimas – procesas arba operacija, kurių tikslas – iš panaudoto branduolinio kuro pakartotiniam naudojimui išskirti daliąsias ir pirmines medžiagas.
 
-34. Riboto patekimo zona – branduolinės energetikos objekto saugomos zonos perimetro išorinėje pusėje esanti zona, į kurią gali būti ribojamas asmenų įėjimas, transporto priemonių įvažiavimas ir kurioje gali būti ribojama ūkinė veikla. Riboto patekimo zona yra viena iš branduolinės energetikos objekto apsaugos zonų.
+Papildyta straipsnio dalimi:
 
-35. Sanitarinė apsaugos zona – zona aplink branduolinės energetikos objektą, kurioje dėl galimo neigiamo jonizuojančiosios spinduliuotės poveikio žmonių sveikatai ir aplinkai galioja nustatytos specialiosios žemės naudojimo sąlygos.
+Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
 
-36. Saugoma zona – fizinės saugos tikslams įgyvendinti fiziniu barjeru pagal branduolinės energetikos objekto perimetrą apjuosta zona, į kurią įėjimas yra kontroliuojamas. Saugoma zona yra viena iš branduolinės energetikos objekto apsaugos zonų.
+34. Pareiškėjas – asmuo, teisės aktų nustatyta tvarka pateikęs paraišką gauti licenciją ar leidimą.
 
-37. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės saugos įstatyme (toliau – Branduolinės saugos įstatymas), Lietuvos Respublikos radiacinės saugos įstatyme (toliau – Radiacinės saugos įstatymas) ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme (toliau – Radioaktyviųjų atliekų tvarkymo įstatymas).
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
+
+35. Riboto patekimo zona – branduolinės energetikos objekto saugomos zonos perimetro išorinėje pusėje esanti zona, į kurią gali būti ribojamas asmenų įėjimas, transporto priemonių įvažiavimas ir kurioje gali būti ribojama ūkinė veikla. Riboto patekimo zona yra viena iš branduolinės energetikos objekto apsaugos zonų.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
+
+36. Sanitarinė apsaugos zona – zona aplink branduolinės energetikos objektą, kurioje dėl galimo neigiamo jonizuojančiosios spinduliuotės poveikio žmonių sveikatai ir aplinkai galioja nustatytos specialiosios žemės naudojimo sąlygos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
+
+37. Saugoma zona – fizinės saugos tikslams įgyvendinti fiziniu barjeru pagal branduolinės energetikos objekto perimetrą apjuosta zona, į kurią įėjimas yra kontroliuojamas. Saugoma zona yra viena iš branduolinės energetikos objekto apsaugos zonų.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
+
+38. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės saugos įstatyme (toliau – Branduolinės saugos įstatymas), Lietuvos Respublikos radiacinės saugos įstatyme (toliau – Radiacinės saugos įstatymas) ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme (toliau – Radioaktyviųjų atliekų tvarkymo įstatymas).
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
 
 3 straipsnis. Veiklos su branduolinėmis medžiagomis ir kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais teisiniai pagrindai
 
@@ -170,7 +200,17 @@ BENDROSIOS NUOSTATOS
 
 5. Gaminti radioaktyviąsias medžiagas, skirtas branduoliniam ginklui arba branduolinių (atominių) elektrinių kurui, taip pat perdirbti jau panaudotus tokio kuro elementus Lietuvos Respublikos teritorijoje draudžiama.
 
-6. Lietuvos Respublikos teritorijoje draudžiama branduolinio ginklo gamyba, dislokavimas, tranzitas ir įvežimas.
+6. Išvežus radioaktyviąsias atliekas arba panaudotą branduolinį kurą perdirbti arba pakartotinai perdirbti į užsienio valstybę, už saugų ir atsakingą tų radioaktyviųjų atliekų arba panaudoto branduolinio kuro, įskaitant visas atliekas, sukurtas kaip šalutinis produktas, dėjimą į atliekyną, atsako šio straipsnio 2 dalyje nurodytas asmuo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
+
+7. Lietuvos Respublikos teritorijoje draudžiama branduolinio ginklo gamyba, dislokavimas, tranzitas ir įvežimas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
 
 ANTRASIS SKIRSNIS
 
@@ -848,6 +888,12 @@ priedas
 
 1. 2009 m. birželio 25 d. Tarybos direktyva 2009/71/Euratomas, kuria nustatoma Bendrijos branduolinių įrenginių branduolinės saugos sistema (OL 2009 L 172, p. 18).
 
+2. 2011 m. liepos 19 d. Tarybos direktyva 2011/70/Euratomas, kuria nustatoma panaudoto branduolinio kuro ir radioaktyviųjų atliekų atsakingo ir saugaus tvarkymo Bendrijos sistema (OL 2011 L 199, p. 48).
+
+Papildyta punktu:
+
+Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
+
 Pakeitimai:
 
 1.
@@ -985,6 +1031,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-216, 2013-03-28, Žin., 2013, Nr. 36-1727 (2013-04-06), i. k. 1131010ISTA0XII-216
 
 Lietuvos Respublikos branduolinės energijos įstatymo 21 ir 23 straipsnių pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
+
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 1, 2, 5 straipsnių ir priedo pakeitimo įstatymas
 
 54 straipsnis. Branduolinės avarijos likvidavimas
 
