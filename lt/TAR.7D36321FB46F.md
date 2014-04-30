@@ -4,7 +4,7 @@ identifier: "TAR.7D36321FB46F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-04-25"
-last_updated: "2014-01-31"
+last_updated: "2014-04-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7D36321FB46F"
 department: "Lietuvos Respublikos Seimas"
@@ -97,7 +97,7 @@ Straipsnio pakeitimai:
 
 Nr. XII-765,
 
-2014-01-23, paskelbta TAR 2014-01-30, i. k. 2014-00713
+2014-01-23, paskelbtas TAR 2014-01-30, i. k. 2014-00713
 
 2
 
@@ -343,13 +343,13 @@ paskelbimo dienos arba nuo pranešimo apie jį gavimo dienos, arba, jei to nebuv
 
 padaryta, nuo tos dienos, kurią ieškovas apie jį sužinojo, apskųsti Europos
 
-Teisingumo Teismui, motyvuodamas Europos Bendrijos steigimo sutarties ar kitos
+Teisingumo Teismui, motyvuodamas Europos Bendrijos steigimo sutarties ar kitos teisės
 
-teisės normos, susijusios su minėtos sutarties taikymu, pažeidimu. Lietuvos
+normos, susijusios su minėtos sutarties taikymu, pažeidimu. Lietuvos banko
 
-banko valdybos pirmininko pavaduotojai ir valdybos nariai sprendimą dėl
+valdybos pirmininko pavaduotojai ir valdybos nariai sprendimą dėl atleidimo
 
-atleidimo prieš terminą turi teisę apskųsti Vilniaus apygardos teismui.“
+prieš terminą turi teisę apskųsti Vilniaus apygardos teismui.“
 
 7 straipsnis. 14
 
@@ -507,9 +507,9 @@ skolindamas lėšas, adekvačias pakankamam įkaitui.“
 
 Straipsnio pakeitimai:
 
-Nr. XI-1667,
+Nr. XI-1667, 2011-11-17,
 
-2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
+Žin., 2011, Nr. 145-6813 (2011-12-01)
 
 12
 
@@ -777,11 +777,11 @@ Lietuvos bankas finansinę apskaitą tvarko, metinių finansinių ataskaitų rin
 
 (balansą, pelno (nuostolio) ataskaitą ir aiškinamąjį raštą) ir kitas finansines
 
-ataskaitas rengia vadovaudamasis Europos centrinio banko teisės aktais,
+ataskaitas rengia vadovaudamasis Europos centrinio banko teisės aktais, gairėmis
 
-gairėmis ir nurodymais, reglamentuojančiais nacionalinių centrinių bankų
+ir nurodymais, reglamentuojančiais nacionalinių centrinių bankų vykdomų
 
-vykdomų operacijų apskaitą ir atskaitomybę.“
+operacijų apskaitą ir atskaitomybę.“
 
 Straipsnio pakeitimai:
 
@@ -839,85 +839,9 @@ užstatu (įkaitu).“
 
 straipsnis. 54 straipsnio pakeitimas
 
-Pakeisti 54
+Pakeisti 54 straipsnį ir jį
 
-straipsnį ir jį išdėstyti taip:
-
-„54
-
-straipsnis. Informacijos gavimas ir teikimas
-
-1. Valstybės ir
-
-savivaldybių institucijos ir ūkio subjektai privalo teikti Lietuvos bankui
-
-informaciją, reikalingą jo funkcijoms atlikti.
-
-2. Lietuvos
-
-bankas gali teikti informaciją Europos centriniam bankui, Europos Sąjungos
-
-valstybių centriniams bankams, tarptautinėms pinigų ir finansų institucijoms,
-
-valstybės ir savivaldybių institucijoms, jei ji reikalinga jų funkcijoms
-
-atlikti ir jei tokios informacijos teikimo nedraudžia šis ar kiti Lietuvos
-
-Respublikos įstatymai. Šis draudimas netaikomas, kai reikia teikti statistinę
-
-informaciją Europos centriniam bankui -
-
-šiuo atveju taikoma 1998 m. lapkričio 23 d. Tarybos reglamento (EB) 2533/98 dėl
-
-Europos centrinio banko renkamos statistinės informacijos 8 straipsnyje
-
-nustatyta konfidencialumo tvarka.“
-
-30
-
-straipsnis. 54(1) straipsnio pakeitimas
-
-Pakeisti 54(1)
-
-straipsnį ir jį išdėstyti taip:
-
-„54(1)
-
-straipsnis. Poveikio priemonės, susijusios su statistinės informacijos
-
-pateikimo pažeidimais
-
-Lietuvos
-
-bankas turi teisę skirti baudas ir delspinigius ūkio subjektams už Lietuvos
-
-banko nustatytos statistinės informacijos, reikalingos Lietuvos banko
-
-funkcijoms, nesusijusioms su Europos centrinių bankų sistemos veikla, taip pat
-
-susijusioms su Europos centrinių bankų sistemos veikla, jei tokiems pažeidimams
-
-netaikoma Europos centrinio banko poveikio priemonių tvarka, atlikti teikimo
-
-pažeidimus. Baudų ir delspinigių dydį, jų taikymo tvarką ir su tuo susijusios
-
-medžiagos saugojimo terminus nustato Lietuvos bankas.“
-
-31
-
-straipsnis. 55 straipsnio pakeitimas
-
-Pakeisti 55
-
-straipsnį ir jį išdėstyti taip:
-
-„55
-
-straipsnis. Informacijos skelbimas
-
-Lietuvos bankas
-
-ne rečiau kaip vieną kartą per mėnesį skelbia statistinę ir kitą informaciją.“
+išdėstyti taip:
 
 3 straipsnis. 7 straipsnio
 
@@ -1190,4 +1114,94 @@ Nr. XI-1320,
 Nr. XI-1667,
 
 2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
+
+„54 straipsnis. Informacijos
+
+gavimas ir teikimas
+
+1. Valstybės ir savivaldybių
+
+institucijos ir ūkio subjektai privalo teikti Lietuvos bankui informaciją,
+
+reikalingą jo funkcijoms atlikti.
+
+2. Lietuvos bankas gali teikti
+
+informaciją Europos centriniam bankui, Europos Sąjungos valstybių centriniams
+
+bankams, tarptautinėms pinigų ir finansų institucijoms, valstybės ir
+
+savivaldybių institucijoms, jei ji reikalinga jų funkcijoms atlikti ir jei
+
+tokios informacijos teikimo nedraudžia šis ar kiti Lietuvos Respublikos
+
+įstatymai. Šis draudimas netaikomas, kai reikia teikti statistinę informaciją
+
+Europos centriniam bankui, – šiuo atveju taikoma 1998 m. lapkričio 23 d.
+
+Tarybos reglamento (EB) 2533/98 dėl Europos centrinio banko renkamos
+
+statistinės informacijos 8 straipsnyje nustatyta konfidencialumo tvarka.
+
+3. Lietuvos Respublikos juridinių
+
+asmenų registre įregistruotų juridinių asmenų be valstybės garantijos gaunamos
+
+paskolos iš fizinių ar juridinių asmenų, kurių nuolatinė gyvenamoji vieta ar
+
+buveinė yra ne Lietuvos Respublikoje, ir jiems suteikiamos paskolos
+
+registruojamos Lietuvos banke Lietuvos banko nustatyta tvarka.“
+
+Straipsnio pakeitimai:
+
+Nr. XII-829,
+
+2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04874
+
+30
+
+straipsnis. 54(1) straipsnio pakeitimas
+
+Pakeisti 54(1)
+
+straipsnį ir jį išdėstyti taip:
+
+„54(1)
+
+straipsnis. Poveikio priemonės, susijusios su statistinės informacijos
+
+pateikimo pažeidimais
+
+Lietuvos
+
+bankas turi teisę skirti baudas ir delspinigius ūkio subjektams už Lietuvos
+
+banko nustatytos statistinės informacijos, reikalingos Lietuvos banko
+
+funkcijoms, nesusijusioms su Europos centrinių bankų sistemos veikla, taip pat
+
+susijusioms su Europos centrinių bankų sistemos veikla, jei tokiems pažeidimams
+
+netaikoma Europos centrinio banko poveikio priemonių tvarka, atlikti teikimo
+
+pažeidimus. Baudų ir delspinigių dydį, jų taikymo tvarką ir su tuo susijusios
+
+medžiagos saugojimo terminus nustato Lietuvos bankas.“
+
+31
+
+straipsnis. 55 straipsnio pakeitimas
+
+Pakeisti 55
+
+straipsnį ir jį išdėstyti taip:
+
+„55
+
+straipsnis. Informacijos skelbimas
+
+Lietuvos bankas
+
+ne rečiau kaip vieną kartą per mėnesį skelbia statistinę ir kitą informaciją.“
 
