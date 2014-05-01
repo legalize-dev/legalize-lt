@@ -4,7 +4,7 @@ identifier: "TAR.5D6D055CC00C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-22"
-last_updated: "2014-02-01"
+last_updated: "2014-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C"
 department: "Lietuvos Respublikos Seimas"
@@ -552,6 +552,186 @@ XI-2361,
 
 2012-11-06, Žin., 2012, Nr. 132-6687 (2012-11-15)
 
+41
+
+straipsnis. Pirmumo teisė įsigyti privačią miškų ūkio paskirties žemę
+
+1. Pirmumo teisę įsigyti privačią miškų ūkio
+
+paskirties žemę už tokią pat kainą ir kitomis tokiomis pat sąlygomis, išskyrus
+
+atvejus, kai ši žemė parduodama iš viešųjų varžytynių, pagal šią eilės tvarką
+
+turi:
+
+1) žemės
+
+sklypo bendraturčiai –  Lietuvos Respublikos civilinio kodekso (toliau –
+
+Civilinis kodeksas) 4.79 straipsnyje nustatyta tvarka;
+
+2) asmuo,
+
+nuosavybės teise turintis miškų ūkio paskirties žemės sklypą, kuris ribojasi su
+
+parduodamu miškų ūkio paskirties žemės sklypu.
+
+2. Pirmumo teisę (išskyrus atvejus, kai pirmumo teise
+
+pasinaudoja žemės sklypo  bendraturčiai Civilinio kodekso 4.79 straipsnyje
+
+nustatyta tvarka) įsigyti privačią miškų ūkio paskirties žemę, kuri yra
+
+valstybinių parkų konservacinio, ekologinės apsaugos ir rekreacinio prioriteto
+
+zonose, valstybiniuose draustiniuose ir kitose saugomose teritorijose, kurioms
+
+suteiktas Natura 2000 statusas, arba kuri ribojasi su valstybinės
+
+reikšmės mišku, už tokią pat kainą ir kitomis tokiomis pat sąlygomis turi
+
+valstybė. Kaina, kurią valstybė gali mokėti už perkamus privačios žemės
+
+sklypus, negali viršyti šių žemės sklypų vidutinės rinkos vertės, apskaičiuotos
+
+atliekant vertinimą masiniu būdu Vyriausybės įgaliotos institucijos nustatyta
+
+tvarka, arba rinkos vertės, apskaičiuotos taikant Lietuvos Respublikos turto ir
+
+verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, jeigu
+
+pastaroji vertė yra didesnė.
+
+3. Žemės savininkas apie sprendimą parduoti miškų ūkio
+
+paskirties žemės sklypą praneša pasirinktam notarui arba Nacionalinės žemės
+
+tarnybos prie Žemės ūkio ministerijos (toliau – Nacionalinė žemės tarnyba)
+
+teritoriniam padaliniui pagal parduodamo žemės sklypo buvimo vietą. Pranešime
+
+apie sprendimą parduoti miškų ūkio paskirties žemės sklypą žemės savininkas
+
+privalo nurodyti pardavimo sąlygas. Jeigu miškų ūkio paskirties žemės sklypo
+
+savininko pranešimas apie sprendimą parduoti miškų ūkio paskirties žemės sklypą
+
+pateikiamas notarui, šis ne vėliau kaip per 2 darbo dienas nuo jo gavimo
+
+pranešimą perduoda Nacionalinės žemės tarnybos teritoriniam padaliniui pagal
+
+parduodamo žemės sklypo buvimo vietą. Kai parduodama bendrosios nuosavybės
+
+teise valdoma žemės sklypo dalis, pranešimas apie sprendimą parduoti miškų ūkio
+
+paskirties žemės sklypo dalį Nacionalinės žemės tarnybos teritoriniam
+
+padaliniui pateikiamas tik tuo atveju, kai Civilinio kodekso 4.79 straipsnyje
+
+nustatyta tvarka pirmumo teise pirkti žemės sklypą nepasinaudoja to žemės
+
+sklypo bendraturtis.
+
+4. Kai pirmumo teisę įsigyti parduodamą miškų ūkio
+
+paskirties žemės sklypą turi valstybė, sprendimą pirkti šį žemės sklypą ar
+
+atsisakyti jį pirkti valstybės vardu turi priimti Nacionalinės žemės tarnybos
+
+vadovas per 30 dienų nuo šio straipsnio 3 dalyje nurodyto pranešimo gavimo
+
+dienos. Kitu atveju Nacionalinės žemės tarnybos teritorinis padalinys apie
+
+parduodamą miškų ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas,
+
+kuriomis asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemę, ne
+
+vėliau kaip per 5 darbo dienas nuo šio straipsnio 3 dalyje nurodyto žemės
+
+sklypo savininko pranešimo gavimo dienos raštu praneša asmenims, kurių
+
+nuosavybės teise turimi žemės sklypai ribojasi su parduodamu miškų ūkio
+
+paskirties žemės sklypu. Šie asmenys savo sutikimą pirkti miškų ūkio paskirties
+
+žemės sklypą ar atsisakymą jį pirkti turi pateikti Nacionalinės žemės tarnybos
+
+teritoriniam padaliniui ne vėliau kaip per 15 darbo dienų nuo pranešimo gavimo
+
+dienos.
+
+5. Nacionalinės žemės tarnybos teritorinis padalinys,
+
+gavęs šio straipsnio 4 dalyje nurodytą rašytinį sutikimą pirkti žemės sklypą,
+
+ne vėliau kaip per 5 darbo dienas nuo termino, per kurį asmenys, pageidaujantys
+
+pasinaudoti pirmumo teise pirkti miškų ūkio paskirties žemės sklypą, galėjo
+
+pateikti sutikimą jį pirkti, pabaigos dienos išduoda pažymą, kad šis žemės
+
+sklypas parduodamas šio straipsnio nustatyta tvarka pirmumo teise turinčiam jį
+
+pirkti asmeniui. Kai pirkti parduodamą miškų ūkio paskirties žemės sklypą
+
+pirmumo teise pageidauja keli vienodą pirmumo teisę turintys asmenys, šioje
+
+dalyje nurodytoje pažymoje išvardijami visi vienodą pirmumo teisę turintys
+
+asmenys ir žemės savininkas pats nusprendžia, kuriam asmeniui arba asmenims,
+
+kai parduodama keliems asmenims bendrosios nuosavybės teise, pasiūlytomis
+
+sąlygomis parduoti miškų ūkio paskirties žemės sklypą.
+
+6. Kai turintys pirmumo teisę asmenys atsisako pirkti
+
+miškų ūkio paskirties žemės sklypą arba nustatytu laiku nepateikia sutikimo
+
+pirkti miškų ūkio paskirties žemės sklypą, Nacionalinės žemės tarnybos
+
+teritorinis padalinys ne vėliau kaip per 5 darbo dienas nuo termino, per kurį
+
+asmenys, pageidaujantys pasinaudoti pirmumo teise pirkti miškų ūkio paskirties
+
+žemės sklypą, galėjo pateikti sutikimą jį pirkti, pabaigos dienos išduoda
+
+pažymą, kad siūlomo parduoti miškų ūkio paskirties žemės sklypo nepageidavo
+
+pirkti asmenys, turintys pirmumo teisę jį pirkti pagal šio straipsnio
+
+nuostatas, ir žemės savininkas šį žemės sklypą gali perleisti kitiems asmenims.
+
+Kai miškų ūkio paskirties žemės sklypas parduodamas kitiems asmenims už mažesnę
+
+kainą ir (ar) kitomis sąlygomis, negu buvo nurodyta pirminiame žemės savininko
+
+pranešime, šio straipsnio 3 dalyje nustatyta tvarka turi būti pateikiamas
+
+pakartotinis pranešimas.
+
+7. Jeigu žemės sklypas parduotas pažeidžiant pirmumo
+
+teisę jį pirkti, šio straipsnio 1 ir 2 dalyse nurodytas suinteresuotas asmuo
+
+per 3 mėnesius nuo sužinojimo apie miškų ūkio paskirties žemės sklypo pardavimą
+
+dienos arba nuo momento, kai galėjo apie tai sužinoti, turi teisę per teismą
+
+reikalauti, kad jam būtų perkeltos pirkėjo teisės ir pareigos.
+
+Papildyta
+
+straipsniu :
+
+Nr.
+
+XII-855,
+
+2014-04-24, paskelbta TAR 2014-04-29,
+
+i. k. 2014-04859
+
 Šio Įstatymo 3 straipsnis įsigalioja nuo
 
 2004 m. sausio 1 d., 1 ir 2 straipsniai įsigalioja nuo 2004 m. gegužės 1 d.
@@ -702,9 +882,11 @@ naudojimo, kitų programų projektų rengimą ir koordinuoja šių programų
 
 3) rengia teisės aktų miškų ūkio klausimais projektus;
 
-4) organizuoja ir koordinuoja visų šalies miškų inventorizaciją,
+4) organizuoja ir koordinuoja visų šalies miškų
 
-miškų tvarkymo (miškotvarkos) projektų rengimą, koordinuoja miškų monitoringą;
+inventorizaciją, miškų tvarkymo (miškotvarkos) projektų rengimą, koordinuoja
+
+miškų monitoringą;
 
 5) organizuoja valstybinę šalies miškų apskaitą ir
 
@@ -772,11 +954,11 @@ funkcijas.
 
 4. Miškų urėdijoms priskirtų valstybinių miškų
 
-atkūrimą, priežiūrą, apsaugą ir miško išteklių naudojimą organizuoja ir koordinuoja
+atkūrimą, priežiūrą, apsaugą ir miško išteklių naudojimą organizuoja ir
 
-Generalinė miškų urėdija prie Aplinkos ministerijos. Atlikdama šias funkcijas,
+koordinuoja Generalinė miškų urėdija prie Aplinkos ministerijos. Atlikdama šias
 
-Generalinė miškų urėdija prie Aplinkos ministerijos:
+funkcijas, Generalinė miškų urėdija prie Aplinkos ministerijos:
 
 1) atlieka miškų urėdijų savininko teises ir pareigas
 
@@ -962,13 +1144,13 @@ suteiktų teisių.
 
 teisę panaudoti fizinę prievartą (fizinę jėgą, kovinių imtynių veiksmus) ir
 
-psichinę prievartą (įspėjimą apie ketinimą panaudoti fizinę prievartą,
+psichinę prievartą (įspėjimą apie ketinimą panaudoti fizinę prievartą, specialiąsias
 
-specialiąsias priemones ar šaunamąjį ginklą), specialiąsias priemones (įstatymų
+priemones ar šaunamąjį ginklą), specialiąsias priemones (įstatymų leidžiamas
 
-leidžiamas priemones (gumines lazdas, antrankius ir surišimo priemones, asmens
+priemones (gumines lazdas, antrankius ir surišimo priemones, asmens apsaugai
 
-apsaugai skirtas dujas, transporto priemonių priverstinio stabdymo priemones,
+skirtas dujas, transporto priemonių priverstinio stabdymo priemones,
 
 elektrošoko įrenginius, tarnybinius šunis), skirtas savigynai, asmenims
 
@@ -1016,15 +1198,15 @@ prievartos priemones tik esant tarnybiniam būtinumui ir tik tiek, kiek to
 
 reikia tarnybinei pareigai įvykdyti, tik po to, kai įtikinimo priemonės buvo
 
-neveiksmingos arba negalimos. Prievartos priemonės rūšį ir jos panaudojimo
+neveiksmingos arba negalimos. Prievartos priemonės rūšį ir jos panaudojimo ribas
 
-ribas valstybinis miškų pareigūnas pasirenka atsižvelgdamas į konkrečią
+valstybinis miškų pareigūnas pasirenka atsižvelgdamas į konkrečią situaciją,
 
-situaciją, teisės pažeidimo pobūdį ir individualias pažeidėjo savybes.
+teisės pažeidimo pobūdį ir individualias pažeidėjo savybes. Naudodamas
 
-Naudodamas prievartą valstybinis miškų pareigūnas privalo stengtis išvengti
+prievartą valstybinis miškų pareigūnas privalo stengtis išvengti didelės žalos
 
-didelės žalos žmonėms ir turtui.
+žmonėms ir turtui.
 
 6. Prieš naudodamas prievartą, valstybinis miškų
 
@@ -1374,21 +1556,21 @@ reguliavimas
 
 įstatymą, vykdo kompleksinę miškų ūkio veiklą valstybiniuose miškuose,
 
-Vyriausybės ar jos įgaliotos Aplinkos ministerijos nustatyta tvarka parduoda
+Vyriausybės ar jos įgaliotos Aplinkos ministerijos nustatyta tvarka parduoda pagamintą
 
-pagamintą miško produkciją, nenukirstą mišką ir teikia paslaugas. Įvertinant
+miško produkciją, nenukirstą mišką ir teikia paslaugas. Įvertinant miškų
 
-miškų urėdijų kapitalą, žemė ir miškas vertine išraiška į apskaitą
+urėdijų kapitalą, žemė ir miškas vertine išraiška į apskaitą neįtraukiami.
 
-neįtraukiami. Miškų urėdijos Civilinio kodekso ir Vyriausybės ar jos įgaliotos
+Miškų urėdijos Civilinio kodekso ir Vyriausybės ar jos įgaliotos institucijos
 
-institucijos nustatyta tvarka, pritarus valdymo organui – valdybai, jungtinės
+nustatyta tvarka, pritarus valdymo organui – valdybai, jungtinės veiklos
 
-veiklos sutarties pagrindu gali kooperuoti lėšas ilgalaikiam turtui, būtinam
+sutarties pagrindu gali kooperuoti lėšas ilgalaikiam turtui, būtinam saugoti
 
-saugoti miškus nuo gaisrų, kitų stichinių nelaimių, miško kenkėjų, ligų, kitų
+miškus nuo gaisrų, kitų stichinių nelaimių, miško kenkėjų, ligų, kitų veiksmų,
 
-veiksmų, darančių žalą miškams, jų gyvūnijai ir augalijai, miškų ūkio veiklos
+darančių žalą miškams, jų gyvūnijai ir augalijai, miškų ūkio veiklos
 
 integruotoms informacinėms sistemoms įsigyti. Jungtinės veiklos sutarties
 
@@ -1492,7 +1674,7 @@ Nr.
 
 XII-761,
 
-2014-01-23, skelbtas 2014-01-30, ident. kodas 2014-00791
+2014-01-23, paskelbta TAR 2014-01-23, i. k. 2014-00791
 
 8 straipsnis. Asmenų lankymasis miške
 
@@ -1940,7 +2122,7 @@ Nr.
 
 XII-761,
 
-2014-01-23, skelbtas 2014-01-30, ident. kodas 2014-00791
+2014-01-23, paskelbta TAR 2014-01-23, i. k. 2014-00791
 
 12
 
@@ -1958,9 +2140,9 @@ miško savininkų ir valdytojų valdas, priežiūrą ir remontą privalo atlikti
 
 valdų valdytojai, savininkai ar naudotojai teisės aktų nustatyta tvarka.
 
-3. Miško žemės sausinimo sistemų priežiūros darbai atliekami, miško
+3. Miško žemės sausinimo sistemų priežiūros darbai atliekami, miško keliai
 
-keliai tiesiami miško valdytojų, savininkų, naudotojų, savivaldybės,
+tiesiami miško valdytojų, savininkų, naudotojų, savivaldybės,
 
 Kelių fondo ir kitomis lėšomis.
 
@@ -2764,17 +2946,15 @@ patvirtintų miškų priešgaisrinės apsaugos reikalavimų.
 
 2.
 
-Miškų urėdijos bei
+Miškų urėdijos bei valstybiniai
 
-valstybiniai parkai ir savivaldybės skiria lėšų bendrai valstybinei
+parkai ir savivaldybės skiria lėšų bendrai valstybinei priešgaisrinio stebėjimo
 
-priešgaisrinio stebėjimo ir gaisrų gesinimo sistemai visose miško valdose.
+ir gaisrų gesinimo sistemai visose miško valdose. Miško valdytojai ir
 
-Miško valdytojai ir savininkai savo lėšomis įgyvendina profilaktines
+savininkai savo lėšomis įgyvendina profilaktines priešgaisrines priemones
 
-priešgaisrines priemones (įrengia priešgaisrines juostas ir laužavietes, valo
-
-užšlemštą mišką ir kita).
+(įrengia priešgaisrines juostas ir laužavietes, valo užšlemštą mišką ir kita).
 
 3.
 
@@ -3044,9 +3224,9 @@ MIŠKŲ
 
 ŪKIO SRITYJE
 
-24 straipsnis. Lietuvos Respublikos tarptautinis bendradarbiavimas
+24 straipsnis. Lietuvos Respublikos tarptautinis
 
-miškų ūkio
+bendradarbiavimas miškų ūkio
 
 klausimais
 
