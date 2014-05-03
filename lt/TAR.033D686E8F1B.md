@@ -4,7 +4,7 @@ identifier: "TAR.033D686E8F1B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-30"
-last_updated: "2013-07-13"
+last_updated: "2014-05-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 department: "Lietuvos Respublikos Seimas"
@@ -679,6 +679,12 @@ XI-2106,
 
 2012-06-21, Žin., 2012, Nr. 78-4028 (2012-07-04)
 
+Nr.
+
+XII-848,
+
+2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-04864
+
 7 straipsnis. Teisė į
 
 transporto išlaidų kompensaciją
@@ -1083,21 +1089,21 @@ mokyklos;
 
 2) vaikų globos įstaigose, vaikų
 
-socializacijos centruose, bendrojo lavinimo mokyklų ir profesinio mokymo įstaigų
+socializacijos centruose, bendrojo lavinimo mokyklų ir profesinio mokymo
 
-bendrabučiuose gyvenantiems mokiniams, važiuojantiems mokinio pažymėjime
+įstaigų bendrabučiuose gyvenantiems mokiniams, važiuojantiems mokinio
 
-nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo autobusais,
+pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo
 
-tolimojo reguliaraus susisiekimo autobusais, keleiviniais traukiniais,
+autobusais, tolimojo reguliaraus susisiekimo autobusais, keleiviniais
 
-reguliaraus susisiekimo laivais ir keltais;
+traukiniais, reguliaraus susisiekimo laivais ir keltais;
 
 3) vaikų globos namuose gyvenantiems
 
-mokiniams, važiuojantiems mokinio pažymėjime nurodytu maršrutu vietinio
+mokiniams, važiuojantiems mokinio pažymėjime nurodytu maršrutu vietinio (miesto)
 
-(miesto) reguliaraus susisiekimo autobusais ir troleibusais.
+reguliaraus susisiekimo autobusais ir troleibusais.
 
 2. Savivaldybių
 
@@ -1113,13 +1119,13 @@ IX-2581,
 
 2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
 
-Nr. X-1312, 2007-11-06,
+Nr. X-1312,
 
-Žin., 2007, Nr. 120-4879 (2007-11-22)
+2007-11-06, Žin., 2007, Nr. 120-4879 (2007-11-22)
 
-Nr. X-1612,
+Nr. X-1612, 2008-06-17,
 
-2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
+Žin., 2008, Nr. 74-2862 (2008-06-30)
 
 Nr.
 
@@ -1279,6 +1285,18 @@ teritorijas, – iš miesto ir apie jį esančios savivaldybės biudžetų solid
 
 pagal tarpusavio susitarimą.
 
+Redakcija nuo 2014-07-01:
+
+5) dėl važiavimo
+
+vietinio (priemiestinio) reguliaraus susisiekimo autobusais, vežančiais
+
+keleivius per gretimų savivaldybių (įskaitant miestų
+
+savivaldybių) teritorijas, – iš šių savivaldybių biudžetų solidariai
+
+pagal tarpusavio susitarimą.
+
 Straipsnio pakeitimai:
 
 Nr. IX-1192,
@@ -1365,9 +1383,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-791, 2002-03-19,
+Nr. IX-791,
 
-Žin., 2002, Nr. 37-1343 (2002-04-09)
+2002-03-19, Žin., 2002, Nr. 37-1343 (2002-04-09)
 
 TRANSPORTO
 
