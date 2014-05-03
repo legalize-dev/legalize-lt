@@ -4,7 +4,7 @@ identifier: "TAR.FC7AB69BE291"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-05-12"
-last_updated: "2013-07-20"
+last_updated: "2014-05-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 department: "Lietuvos Respublikos Seimas"
@@ -729,9 +729,7 @@ tvirtina elektrinių, perdavimo ir skirstomųjų tinklų, pažangiųjų tinklų 
 
 elektros energijos akumuliavimo infrastruktūros plėtros tvarkos aprašą,
 
-numatytą šio įstatymo
-
-13 straipsnio 4 dalyje;
+numatytą šio įstatymo 13 straipsnio 4 dalyje;
 
 5) nustato
 
@@ -997,9 +995,9 @@ Aplinkos
 
 ministerija:
 
-1) nustato biokurą ar
+1) nustato biokurą ar biodegalus
 
-biodegalus naudojančių įrenginių taršos normatyvus;
+naudojančių įrenginių taršos normatyvus;
 
 2) rengia
 
@@ -1103,9 +1101,9 @@ kitas šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas.
 
 iš kurių gaminamas biokuras, potencialą;
 
-2) atlieka kitas
+2) atlieka
 
-šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas.
+kitas šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas.
 
 10 straipsnis.
 
@@ -1321,9 +1319,9 @@ išteklių naudojimas elektros energijai gaminti skatinamas šio įstatymo ir ki
 
 teisės aktų nustatyta tvarka ir sąlygomis.
 
-3. Šio įstatymo uždaviniai elektros energetikos
+3. Šio įstatymo uždaviniai elektros energetikos sektoriuje iki 2020
 
-sektoriuje iki 2020 metų:
+metų:
 
 1) vėjo elektrinių, prijungtų
 
@@ -1621,21 +1619,21 @@ svarstymo grafiką, pagrįstą orientacinį siūlomo elektrinės prijungimo prie
 
 elektros tinklų grafiką. Visais atvejais elektros tinklų operatorius ir
 
-gamintojas keičiasi visa gamintojo elektrinei prijungti prie elektros tinklų
+gamintojas keičiasi visa gamintojo elektrinei prijungti prie elektros tinklų reikalinga
 
-reikalinga technine ir kita informacija. Išankstinės prijungimo sąlygos turi
+technine ir kita informacija. Išankstinės prijungimo sąlygos turi atitikti
 
-atitikti Pasinaudojimo elektros tinklais tvarkos aprašą, nurodytą šio
+Pasinaudojimo elektros tinklais tvarkos aprašą, nurodytą šio straipsnio
 
-straipsnio 7 dalyje. Išankstinėse prijungimo sąlygose negali būti kitų
+7 dalyje. Išankstinėse prijungimo sąlygose negali būti kitų reikalavimų
 
-reikalavimų negu tie, kurie būtini užtikrinti patikimą, saugų ir tinkamos
+negu tie, kurie būtini užtikrinti patikimą, saugų ir tinkamos kokybės elektros
 
-kokybės elektros energijos įrenginio ir elektros energetikos sistemos darbą.
+energijos įrenginio ir elektros energetikos sistemos darbą. Išankstinės
 
-Išankstinės prijungimo sąlygos skelbiamos viešai elektros tinklų operatoriaus
+prijungimo sąlygos skelbiamos viešai elektros tinklų operatoriaus interneto
 
-interneto tinklalapyje.
+tinklalapyje.
 
 9. Gamintojas
 
@@ -1919,9 +1917,9 @@ būti naudojamos tik elektros tinklų plėtrai, reikalingai atsinaujinančių
 
 išteklių energijos gamybos įrenginiams prijungti.
 
-16 straipsnis. Leidimų plėtoti elektros energijos
+16 straipsnis. Leidimų plėtoti elektros
 
-gamybos iš atsinaujinančių energijos išteklių pajėgumus išdavimas
+energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus išdavimas
 
 1. Esami elektros energijos
 
@@ -2121,11 +2119,11 @@ išteklius, pagamintos elektros energijos atžvilgiu.
 
 energiją priimantis elektros tinklų operatorius pats nėra perdavimo sistemos
 
-operatorius, įpareigojimas pirmumo teise priimti ir persiųsti šio straipsnio 1
+operatorius, įpareigojimas pirmumo teise priimti ir persiųsti šio straipsnio 1 dalyje
 
-dalyje nurodytą elektros energiją perdavimo tinklais taikomas ir perdavimo
+nurodytą elektros energiją perdavimo tinklais taikomas ir perdavimo sistemos
 
-sistemos operatoriui.
+operatoriui.
 
 3. Elektros
 
@@ -2351,11 +2349,11 @@ Aukcionuose turi teisę dalyvauti visi gamintojai, pasirašę šio įstatymo 14
 
 straipsnio 11 dalyje nurodytą ketinimų protokolą ir pateikę 14 straipsnio 13
 
-dalyje nurodytą gamintojo prievolių įvykdymo užtikrinimą. Fiksuoto tarifo didžiausią
+dalyje nurodytą gamintojo prievolių įvykdymo užtikrinimą. Fiksuoto tarifo
 
-galimą dydį kas ketvirtį nustato Valstybinė kainų ir energetikos kontrolės
+didžiausią galimą dydį kas ketvirtį nustato Valstybinė kainų ir energetikos
 
-komisija. Aukciono laimėtoju pripažįstamas dalyvis, nurodęs mažiausią
+kontrolės komisija. Aukciono laimėtoju pripažįstamas dalyvis, nurodęs mažiausią
 
 pageidaujamą fiksuotą tarifą įvertinus tai, kad vienoje aukciono zonoje
 
@@ -2417,11 +2415,11 @@ laikotarpis, nustatytas šiame įstatyme;
 
 7) metinės vidutinės kapitalo
 
-sąnaudos, tenkančios vienam elektrinės įrengtosios galios vienetui,
+sąnaudos, tenkančios vienam elektrinės įrengtosios galios vienetui, apskaičiuojamos
 
-apskaičiuojamos remiantis reikalingomis investicijomis vienam elektrinės
+remiantis reikalingomis investicijomis vienam elektrinės įrengtosios galios
 
-įrengtosios galios vienetui;
+vienetui;
 
 8) diskonto norma;
 
@@ -3045,9 +3043,9 @@ jos įgaliota institucija per 3 mėnesius.
 
 nurodytas konkursas organizuojamas akvatorijai, kuriai parengta elektrinių
 
-statybos Lietuvos Respublikos teritorinėje jūroje, Lietuvos Respublikos išskirtinėje
+statybos Lietuvos Respublikos teritorinėje jūroje, Lietuvos Respublikos
 
-ekonominėje zonoje Baltijos jūroje ir (ar) pajūrio juostoje schema ir
+išskirtinėje ekonominėje zonoje Baltijos jūroje ir (ar) pajūrio juostoje schema ir
 
 atliktas akvatorijos schemos strateginis pasekmių aplinkai vertinimas, ir (ar)
 
@@ -3277,9 +3275,9 @@ statybos ir eksploatavimo tvarką pagal kompetenciją nustato Vyriausybė ar jos
 
 aktuose nustatytais veiklos energetikos sektoriuje leidimų išdavimo,
 
-projektavimo ir statybos, teritorijų planavimo, ūkinės veiklos poveikio
+projektavimo ir statybos, teritorijų planavimo, ūkinės veiklos poveikio aplinkai
 
-aplinkai vertinimo, aplinkos apsaugos ir kitais susijusiais reikalavimais.
+vertinimo, aplinkos apsaugos ir kitais susijusiais reikalavimais.
 
 PENKTASIS SKIRSNIS
 
@@ -3323,13 +3321,13 @@ iš atsinaujinančių energijos išteklių, kiekį, kuriam išduota kilmės gara
 
 naudojimas
 
-1. Kilmės garantijos
+1. Kilmės
 
-išduodamos, perduodamos ir jų galiojimas panaikinamas Vyriausybės ar jos
+garantijos išduodamos, perduodamos ir jų galiojimas panaikinamas Vyriausybės ar
 
-įgaliotos institucijos nustatyta tvarka ir sąlygomis, vadovaujantis
+jos įgaliotos institucijos nustatyta tvarka ir sąlygomis, vadovaujantis objektyviais,
 
-objektyviais, skaidriais ir nediskriminaciniais principais.
+skaidriais ir nediskriminaciniais principais.
 
 2. Vyriausybė ar
 
@@ -3345,13 +3343,13 @@ gamybos, tiekimo ir (ar) prekybos veikla.
 
 3. Kilmės
 
-garantijos išduodamos elektros energijos, šilumos ar vėsumos energijos,
+garantijos išduodamos elektros energijos, šilumos ar vėsumos energijos, pagamintos
 
-pagamintos iš atsinaujinančių energijos išteklių, gamintojų prašymu, kuris
+iš atsinaujinančių energijos išteklių, gamintojų prašymu, kuris Vyriausybės ar
 
-Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka teikiamas šio
+jos įgaliotos institucijos nustatyta tvarka teikiamas šio straipsnio 2 dalyje
 
-straipsnio 2 dalyje nurodytai įstaigai.
+nurodytai įstaigai.
 
 4. Kilmės
 
@@ -3377,9 +3375,9 @@ ne daugiau kaip vieną kartą.
 
 garantija turi būti panaudota per 12 mėnesių nuo atitinkamo energijos vieneto
 
-pagaminimo momento. Per nurodytą laikotarpį nepanaudota kilmės garantija netenka
+pagaminimo momento. Per nurodytą laikotarpį nepanaudota kilmės garantija
 
-galios.
+netenka galios.
 
 7. Kilmės
 
@@ -3419,15 +3417,15 @@ bei valstybė ir unikalus identifikacinis numeris.
 
 8. Paramos
 
-schema netaikoma tokiam gamintojui, kuriam suteikiama kilmės garantija, skirta tos
+schema netaikoma tokiam gamintojui, kuriam suteikiama kilmės garantija, skirta
 
-pačios rūšies pagamintai atsinaujinančių išteklių energijai.
+tos pačios rūšies pagamintai atsinaujinančių išteklių energijai.
 
 9. Kilmės
 
-garantija nenaudojama įgyvendinant šio įstatymo 55 straipsnio 2 dalyje
+garantija nenaudojama įgyvendinant šio įstatymo 55 straipsnio 2 dalyje nustatytus
 
-nustatytus tarpinius nacionalinius planinius rodiklius.
+tarpinius nacionalinius planinius rodiklius.
 
 10. Kilmės
 
@@ -3447,19 +3445,19 @@ suvartojimą.
 
 Respublikoje pripažįstamos kitų valstybių narių išduotos kilmės garantijos tik
 
-kaip šio įstatymo 28 straipsnio 1 dalyje ir šio straipsnio 7 dalyje nurodytos informacijos
+kaip šio įstatymo 28 straipsnio 1 dalyje ir šio straipsnio 7 dalyje nurodytos
 
-įrodymas. Pripažinti kilmės garantiją gali būti atsisakoma tik tuo atveju,
+informacijos įrodymas. Pripažinti kilmės garantiją gali būti atsisakoma tik tuo
 
-jeigu kyla tinkamai pagrįstų abejonių dėl jos tikslumo, patikimumo ar tikrumo.
+atveju, jeigu kyla tinkamai pagrįstų abejonių dėl jos tikslumo, patikimumo ar
 
-Sprendimą dėl kitos valstybės narės išduotos kilmės garantijos priima šio
+tikrumo. Sprendimą dėl kitos valstybės narės išduotos kilmės garantijos priima
 
-straipsnio 2 dalyje nurodyta įstaiga Vyriausybės ar jos įgaliotos institucijos
+šio straipsnio 2 dalyje nurodyta įstaiga Vyriausybės ar jos įgaliotos
 
-nustatyta tvarka. Apie atsisakymą pripažinti kitos valstybės narės išduotą
+institucijos nustatyta tvarka. Apie atsisakymą pripažinti kitos valstybės narės
 
-kilmės garantiją ir atsisakymo priežastis Vyriausybė ar jos įgaliota
+išduotą kilmės garantiją ir atsisakymo priežastis Vyriausybė ar jos įgaliota
 
 institucija praneša Europos Komisijai.
 
@@ -3581,9 +3579,9 @@ prijungimu prie dujų sistemų susijusias išlaidas apmoka gamintojas.
 
 persiuntimas
 
-Vyriausybė ar jos įgaliota
+Vyriausybė ar jos įgaliota institucija
 
-institucija nustato naudojimosi dujų sistemomis persiunčiamų biodujų tvarką.
+nustato naudojimosi dujų sistemomis persiunčiamų biodujų tvarką.
 
 35 straipsnis.
 
@@ -3599,7 +3597,9 @@ prijungimo kainos, taip pat biodujų supirkimo į dujų sistemas skaidrumą.
 
 inspekcija prie Energetikos ministerijos kontroliuoja, kaip biodujų gamintojai,
 
-tiekiantys biodujas į dujų sistemas, laikosi šio įstatymo 31 straipsnyje nurodytose taisyklėse nustatytų reikalavimų.
+tiekiantys biodujas į dujų sistemas, laikosi šio įstatymo 31 straipsnyje nurodytose taisyklėse nustatytų
+
+reikalavimų.
 
 3. Biodujų gamintojai pagal pareikalavimą teikia su
 
@@ -3665,9 +3665,9 @@ infrastruktūrą, reikalingą atsinaujinančių išteklių energiją, vandenilį
 
 elektros energiją naudojančių transporto priemonių naudojimo plėtrai,
 
-vadovaudamosi atitinkamos savivaldybės atsinaujinančių išteklių energijos naudojimo
+vadovaudamosi atitinkamos savivaldybės atsinaujinančių išteklių energijos
 
-plėtros veiksmų planais.
+naudojimo plėtros veiksmų planais.
 
 7. Vyriausybė ar jos įgaliota
 
@@ -3835,23 +3835,25 @@ ir skystųjų bioproduktų, atitinkančių tvarumo kriterijus, sertifikavimo tva
 
 9. Šio įstatymo
 
-38 straipsnio 2 dalyje nustatytas naudojant biodegalus, skystuosius bioproduktus
+38 straipsnio 2 dalyje nustatytas naudojant biodegalus, skystuosius
 
-ir lyginamąjį iškastinį kurą išmetamųjų šiltnamio efektą sukeliančių dujų
+bioproduktus ir lyginamąjį iškastinį kurą išmetamųjų šiltnamio efektą
 
-poveikis apskaičiuojamas pagal Aplinkos ministerijos patvirtintas taisykles.
+sukeliančių dujų poveikis apskaičiuojamas pagal Aplinkos ministerijos
+
+patvirtintas taisykles.
 
 10. Tačiau tam,
 
-kad šio straipsnio 1 dalyje nurodytais tikslais būtų atsižvelgta į biodegalus ir
+kad šio straipsnio 1 dalyje nurodytais tikslais būtų atsižvelgta į biodegalus
 
-skystuosius bioproduktus, pagamintus naudojant atliekas ir liekanas, išskyrus
+ir skystuosius bioproduktus, pagamintus naudojant atliekas ir liekanas,
 
-žemės ūkio, akvakultūros, žuvininkystės ir miškininkystės liekanas, biodegalai
+išskyrus žemės ūkio, akvakultūros, žuvininkystės ir miškininkystės liekanas,
 
-ir skystieji bioproduktai, pagaminti naudojant atliekas ir liekanas, turi
+biodegalai ir skystieji bioproduktai, pagaminti naudojant atliekas ir liekanas,
 
-atitikti tik šio įstatymo 38 straipsnio 2 dalyje nustatytus tvarumo
+turi atitikti tik šio įstatymo 38 straipsnio 2 dalyje nustatytus tvarumo
 
 kriterijus.
 
@@ -3931,11 +3933,11 @@ vietovės, kuriose susitelkusios retos, galinčios išnykti arba nykstančios
 
 ekosistemos ar rūšys, pripažintos pagal tarptautinius susitarimus arba
 
-įtrauktos į tarpvyriausybinių organizacijų ar Tarptautinės gamtos išsaugojimo sąjungos
+įtrauktos į tarpvyriausybinių organizacijų ar Tarptautinės gamtos išsaugojimo
 
-sudarytus sąrašus, išskyrus atvejus, kai pateikiama įrodymų, kad tų žaliavų
+sąjungos sudarytus sąrašus, išskyrus atvejus, kai pateikiama įrodymų, kad tų
 
-auginimas tiems gamtos apsaugos tikslams nepakenkė;
+žaliavų auginimas tiems gamtos apsaugos tikslams nepakenkė;
 
 3) labai didelės
 
@@ -3971,9 +3973,9 @@ tai yra iš žemės, kuri nuolat arba didelę metų dalį yra apsemta arba permi
 
 mišku apaugusios vietovės, tai yra iš žemės, kurioje daugiau kaip vieno hektaro
 
-plote medžiai aukštesni negu 5 metrai, o medžių lajos projekcija apima daugiau
+plote medžiai aukštesni negu 5 metrai, o medžių lajos projekcija apima daugiau kaip
 
-kaip 30 procentų žemės ploto, arba iš žemės, kurioje augdami medžiai gali
+30 procentų žemės ploto, arba iš žemės, kurioje augdami medžiai gali
 
 pasiekti tas ribas in situ;
 
@@ -4027,9 +4029,9 @@ dalies keičiančio Reglamentus (EB) Nr. 1290/2005, (EB) Nr. 247/2006, (EB) Nr.
 
 p. 16), II priedo A dalies skirsnyje „Aplinka“ bei 9 punkte ir
 
-pagal šio reglamento 6 straipsnio 1 dalį apibrėžtų būtiniausių geros agrarinės ir
+pagal šio reglamento 6 straipsnio 1 dalį apibrėžtų būtiniausių geros agrarinės
 
-aplinkosauginės būklės reikalavimų.
+ir aplinkosauginės būklės reikalavimų.
 
 39 straipsnis.
 
@@ -4163,115 +4165,41 @@ XII-494, 2013-07-02,
 
 41 straipsnis.
 
-Atsinaujinančių energijos išteklių plėtros finansavimo programos
+Nacionalinės atsinaujinančių energijos išteklių plėtros programos
 
-1. Atsinaujinančių energijos išteklių naudojimui
+finansavimo
 
-skatinti sudaroma nacionalinė atsinaujinančių energijos išteklių plėtros
+šaltiniai
 
-finansavimo programa ir savivaldybių atsinaujinančių energijos išteklių plėtros
+Nacionalinės atsinaujinančių energijos išteklių
 
-finansavimo programos.
+plėtros programos finansavimo šaltiniai:
 
-2. Nacionalinės atsinaujinančių energijos išteklių
+1) valstybės biudžeto asignavimai;
 
-plėtros finansavimo programos lėšos kaupiamos atskiroje Valstybės iždo
+2) klimato kaitos specialiosios programos lėšos,
 
-sąskaitoje. Nacionalinės atsinaujinančių energijos išteklių plėtros finansavimo
+kaip numatyta Klimato kaitos valdymo finansinių instrumentų įstatyme;
 
-programos pajamos ir išlaidos, vadovaujantis programų finansavimo principais,
+3) Europos Sąjungos paramos lėšos;
 
-planuojamos valstybės biudžete.
+4) savanoriškos fizinių ir juridinių asmenų bei
 
-3. Savivaldybių atsinaujinančių energijos išteklių
+užsienio valstybių lėšos, skirtos atsinaujinančių energijos išteklių naudojimo
 
-plėtros finansavimo programų lėšos kaupiamos atskirose savivaldybių biudžetų
+plėtrai;
 
-sąskaitose. Savivaldybių atsinaujinančių energijos išteklių plėtros finansavimo
-
-programų pajamos ir išlaidos planuojamos savivaldybių biudžetuose savivaldybių
-
-tarybų nustatyta tvarka.
-
-4. Nacionalinės atsinaujinančių energijos išteklių
-
-plėtros finansavimo programos finansavimo šaltiniai:
-
-1) dalis akcizo pajamų, faktiškai gautų už
-
-realizuotą šilumos ir elektros energijos gamybai naudojamą skystąjį kurą
-
-(mazutą), orimulsiją, gamtines dujas, akmens anglis, koksą ir lignitą, šildymui
-
-skirtą gazolį (buitinį krosnių kurą), elektros energiją Lietuvos Respublikos
-
-akcizų įstatyme nustatyta tvarka;
-
-2) pajamos, gautos už statistinius energijos
-
-perdavimus, nurodytus šio įstatymo 58 straipsnyje;
-
-3) valstybės biudžeto asignavimai;
-
-4) Klimato kaitos specialiosios programos lėšos,
-
-kaip nurodyta šio straipsnio 6 dalyje;
-
-5) Europos Sąjungos paramos lėšos;
-
-6) savanoriškos fizinių ir juridinių asmenų
-
-bei užsienio valstybių lėšos, skirtos atsinaujinančių energijos išteklių
-
-naudojimo plėtrai;
-
-7) kitos lėšos, gautos Lietuvos Respublikos
-
-teisės aktų nustatyta tvarka.
-
-5. Savivaldybių atsinaujinančių energijos išteklių
-
-plėtros finansavimo programų finansavimo šaltiniai:
-
-1) dalis akcizo pajamų, faktiškai gautų už
-
-realizuotą šilumos ir elektros energijos gamybai naudojamą skystąjį kurą
-
-(mazutą), orimulsiją, gamtines dujas, akmens anglis, koksą ir lignitą, šildymui
-
-skirtą gazolį (buitinį krosnių kurą), elektros energiją Lietuvos Respublikos akcizų
-
-įstatyme nustatyta tvarka;
-
-2) savivaldybių biudžetų asignavimai;
-
-3) Europos Sąjungos paramos lėšos;
-
-4) šio įstatymo 66 straipsnio 4 dalyje
-
-nurodytas mokestis;
-
-5) savanoriškos fizinių ir juridinių asmenų bei
-
-užsienio valstybių lėšos, skirtos atsinaujinančių energijos išteklių plėtrai;
-
-6) kitos lėšos, gautos Lietuvos Respublikos teisės
+5) kitos lėšos, gautos Lietuvos Respublikos teisės
 
 aktų nustatyta tvarka.
 
-6. Atsinaujinančių energijos išteklių plėtros
+Straipsnio pakeitimai:
 
-priemonėms finansuoti papildomai naudojama iki 40 procentų Klimato kaitos
+Nr.
 
-specialiosios programos lėšų, kurios laikomos Valstybės iždo sąskaitoje
+XII-494, 2013-07-02,
 
-atskirai nuo kitų nacionalinės atsinaujinančių energijos išteklių plėtros finansavimo
-
-programos lėšų ir administruojamos aplinkos ministro nustatyta Klimato kaitos
-
-specialiosios programos lėšų naudojimo tvarka.
-
-Straipsnio redakcija nuo 2014-01-01:
+Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 42 straipsnis.
 
@@ -4317,11 +4245,11 @@ projektai;
 
 4) kitų atsinaujinančių energijos išteklių
 
-naudojimo šilumos ir (ar) vėsumos energijos, tiekiamos į aprūpinimo šiluma
+naudojimo šilumos ir (ar) vėsumos energijos, tiekiamos į aprūpinimo šiluma (vėsuma)
 
-(vėsuma) sistemas, taip pat vartojamos pramonės įmonėse, žemės ūkio ir
+sistemas, taip pat vartojamos pramonės įmonėse, žemės ūkio ir komerciniuose
 
-komerciniuose objektuose, gamybos projektai;
+objektuose, gamybos projektai;
 
 5) biodujų gamybos, gavybos,
 
@@ -4333,9 +4261,9 @@ suvartojimo vietos, projektai;
 
 6) elektromobilių, vandenilį naudojančių ir
 
-hibridinių transporto priemonių įsigijimo ir transporto priemonių pritaikymo atsinaujinančių
+hibridinių transporto priemonių įsigijimo ir transporto priemonių pritaikymo
 
-išteklių energijai naudoti rėmimas;
+atsinaujinančių išteklių energijai naudoti rėmimas;
 
 7) geoterminės energijos naudojimo energijai
 
@@ -4383,7 +4311,9 @@ projektų, susijusių su hibridinių transporto priemonių, vandenilį naudojan�
 
 transporto priemonių ar elektromobilių platesniu panaudojimu ir (ar) šių
 
-transporto priemonių eksploatavimui reikiamos infrastruktūros įdiegimu, įgyvendinimas;
+transporto priemonių eksploatavimui reikiamos infrastruktūros įdiegimu,
+
+įgyvendinimas;
 
 16) visuomenės informavimas ir švietimas,
 
@@ -4447,29 +4377,29 @@ Energetikos, Elektros energetikos, Šilumos ūkio, Gamtinių dujų ir kiti energ
 
 sektorių reglamentuojantys įstatymai. Licencijuojamos veiklos rūšis, licencijų
 
-išdavimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo
+išdavimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą
 
-panaikinimą nustato Energetikos, Elektros energetikos, Šilumos ūkio, Gamtinių
+nustato Energetikos, Elektros energetikos, Šilumos ūkio, Gamtinių dujų ir kiti energetikos
 
-dujų ir kiti energetikos sektorių reglamentuojantys įstatymai bei kiti
+sektorių reglamentuojantys įstatymai bei kiti įstatymai. Asmenims, siekiantiems
 
-įstatymai. Asmenims, siekiantiems gauti licenciją, leidimą ar atestatą,
+gauti licenciją, leidimą ar atestatą, nustatytus Energetikos, Elektros energetikos,
 
-nustatytus Energetikos, Elektros energetikos, Šilumos ūkio, Gamtinių dujų ir
+Šilumos ūkio, Gamtinių dujų ir (ar) kituose energetikos sektorių
 
-(ar) kituose energetikos sektorių reglamentuojančiuose įstatymuose, gali būti
+reglamentuojančiuose įstatymuose, gali būti taikomi teisinės formos ir (ar)
 
-taikomi teisinės formos ir (ar) kiti įsisteigimo laisvės ribojimo reikalavimai,
+kiti įsisteigimo laisvės ribojimo reikalavimai, jeigu tai yra pagrįsta
 
-jeigu tai yra pagrįsta svarbiais visuomenės interesais ir atitinka būtinumo ir
+svarbiais visuomenės interesais ir atitinka būtinumo ir proporcingumo
 
-proporcingumo principus. Išduotos licencijos, leidimai ar atestatai gali būti
+principus. Išduotos licencijos, leidimai ar atestatai gali būti keičiami juos
 
-keičiami juos išdavusios institucijos iniciatyva, pasikeitus Energetikos,
+išdavusios institucijos iniciatyva, pasikeitus Energetikos, Elektros
 
-Elektros energetikos, Šilumos ūkio, Gamtinių dujų įstatymuose ir (ar) kituose
+energetikos, Šilumos ūkio, Gamtinių dujų įstatymuose ir (ar) kituose teisės
 
-teisės aktuose nustatytoms licencijuojamos veiklos sąlygoms.
+aktuose nustatytoms licencijuojamos veiklos sąlygoms.
 
 2. Atsinaujinančių
 
@@ -4485,17 +4415,19 @@ straipsnis. Atsinaujinančių išteklių energijos gamybos įrenginius montuojan
 
 specialistų kvalifikacija ir atestavimas
 
-1. Atsinaujinančių išteklių energijos
+1. Atsinaujinančių išteklių
 
-gamybos įrenginius montuojantys specialistai turi būti reikiamos kvalifikacijos
+energijos gamybos įrenginius montuojantys specialistai turi būti reikiamos
 
-ir tinkamai pasirengę atlikti jiems pavestas užduotis. Atsinaujinančių išteklių
+kvalifikacijos ir tinkamai pasirengę atlikti jiems pavestas užduotis.
 
-energijos gamybos įrenginius montuojančių specialistų mokymo ir atestavimo
+Atsinaujinančių išteklių energijos gamybos įrenginius montuojančių specialistų
 
-tvarkos aprašą patvirtina Vyriausybė ar jos įgaliota institucija, vadovaudamasi
+mokymo ir atestavimo tvarkos aprašą patvirtina Vyriausybė ar jos įgaliota
 
-šiame straipsnyje nustatytais bendraisiais reikalavimais.
+institucija, vadovaudamasi šiame straipsnyje nustatytais bendraisiais
+
+reikalavimais.
 
 2. Atsinaujinančių išteklių
 
@@ -4509,9 +4441,11 @@ nediskriminaciniais principais.
 
 energijos gamybos įrenginius montuojančių specialistų profesinio mokymo arba
 
-kvalifikacijos tobulinimo programas turi būti įtraukti atsinaujinančių energijos
+kvalifikacijos tobulinimo programas turi būti įtraukti atsinaujinančių
 
-išteklių, jų naudojimo technologinių ir ekonominių galimybių naudos klausimai.
+energijos išteklių, jų naudojimo technologinių ir ekonominių galimybių naudos
+
+klausimai.
 
 4. Nustatyta tvarka turi būti
 
@@ -4757,9 +4691,9 @@ arba dujomis varomiems arba absorbciniams dujiniams šilumos siurbliams (OL 2007
 
 L 301, p. 14), nustatytus kriterijus.
 
-4. Saulės šilumos
+4. Saulės
 
-energijos įrenginiams paramos schemos taikomos, jeigu jos yra sertifikuotos
+šilumos energijos įrenginiams paramos schemos taikomos, jeigu jos yra sertifikuotos
 
 remiantis Europos Sąjungos standartais, jeigu tokie yra nustatyti, įskaitant
 
@@ -4767,13 +4701,13 @@ ekologinius ženklus, energijos duomenų etiketes ir kitas Europos Sąjungos
 
 standartizacijos įstaigų nustatytas techninių normatyvų sistemas.
 
-5. Pagal šio straipsnio
+5. Pagal šio straipsnio 1–4 dalis
 
-1–4 dalis vertinant įrenginių konversijos efektyvumą ir sąnaudų bei
+vertinant įrenginių konversijos efektyvumą ir sąnaudų bei produkcijos santykį,
 
-produkcijos santykį, taikomos Europos Sąjungos procedūros arba, jeigu tokių
+taikomos Europos Sąjungos procedūros arba, jeigu tokių nėra, tarptautinės
 
-nėra, tarptautinės procedūros, jeigu tokios procedūros nustatytos.
+procedūros, jeigu tokios procedūros nustatytos.
 
 6. Mažesnės kaip 30 kW
 
@@ -4793,21 +4727,21 @@ PLANAVIMAS IR STATYBA
 
 48 straipsnis. Teritorijų planavimo reikalavimai
 
-1. Planuojant
+1. Planuojant visuomeninės,
 
-visuomeninės, pramoninės ir gyvenamosios paskirties teritorijas, projektuojant,
+pramoninės ir gyvenamosios paskirties teritorijas, projektuojant, statant,
 
-statant, rekonstruojant ir (ar) atnaujinant (modernizuojant) visuomeninius,
+rekonstruojant ir (ar) atnaujinant (modernizuojant) visuomeninius, pramoninius
 
-pramoninius ar gyvenamuosius pastatus, turi būti vertinamos galimybės naudoti
+ar gyvenamuosius pastatus, turi būti vertinamos galimybės naudoti įrenginius ir
 
-įrenginius ir sistemas, skirtas elektros energijos, šildymo ir vėsinimo iš
+sistemas, skirtas elektros energijos, šildymo ir vėsinimo iš atsinaujinančių
 
-atsinaujinančių energijos išteklių naudojimui, taip pat centralizuotam šilumos
+energijos išteklių naudojimui, taip pat centralizuotam šilumos ir vėsumos
 
-ir vėsumos energijos tiekimui. Planuojant miestų infrastruktūrą, atsižvelgiant
+energijos tiekimui. Planuojant miestų infrastruktūrą, atsižvelgiant į
 
-į visuomenės interesus, privaloma numatyti šilumos iš atsinaujinančių energijos
+visuomenės interesus, privaloma numatyti šilumos iš atsinaujinančių energijos
 
 išteklių naudojimą.
 
@@ -4933,19 +4867,19 @@ leidimas statyti ir poveikio visuomenės sveikatai vertinimas;
 
 taip, kad trumpiausias atstumas iki sklypo ribos būtų didesnis už įrenginio
 
-ilgį, plotį arba aukštį pasirenkant didžiausią iš šių trijų matmenų. Šie įrenginiai
+ilgį, plotį arba aukštį pasirenkant didžiausią iš šių trijų matmenų. Šie
 
-įrengiami pagal atitinkamų įrenginių gamintojo įrengimo ir eksploatavimo
+įrenginiai įrengiami pagal atitinkamų įrenginių gamintojo įrengimo ir
 
-taisykles. Joms netaikomi žemės paskirties atitikties reikalavimai, poveikio
+eksploatavimo taisykles. Joms netaikomi žemės paskirties atitikties
 
-aplinkai vertinimo procedūra, nereikalingas leidimas statyti ir poveikio
+reikalavimai, poveikio aplinkai vertinimo procedūra, nereikalingas leidimas
 
-visuomenės sveikatai vertinimas. Gretimuose gyvenamosios paskirties sklypuose
+statyti ir poveikio visuomenės sveikatai vertinimas. Gretimuose gyvenamosios
 
-vėjo elektrinės skleidžiamo triukšmo lygis turi atitikti sveikatos apsaugos
+paskirties sklypuose vėjo elektrinės skleidžiamo triukšmo lygis turi atitikti sveikatos
 
-ministro nustatytus triukšmo ribinius dydžius;
+apsaugos ministro nustatytus triukšmo ribinius dydžius;
 
 3) teisės aktų nustatyta tvarka šie įrenginiai gali
 
@@ -4976,6 +4910,58 @@ apribojimai, iš anksto, teritorijų planavimo metu, derinami su Lietuvos
 kariuomene ir kitomis institucijomis įstatymų ir kitų teisės aktų nustatyta
 
 tvarka.
+
+Redakcija nuo
+
+2014-07-01:
+
+8. Vėjo elektrinių statybos
+
+vietos teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo klausimus,
+
+taikomi apribojimai, iš anksto, teritorijų planavimo metu, derinamos su
+
+Lietuvos kariuomene ir kitomis institucijomis įstatymų ir kitų teisės aktų
+
+nustatyta tvarka. Vėjo elektrinių statybos vietoms nepritariama, jeigu
+
+planuojamų statyti vėjo elektrinių keliamų trukdžių negalima išvengti
+
+panaudojant papildomas priemones. Jeigu nustatoma, kad planuojamų statyti vėjo
+
+elektrinių keliamų trukdžių galima išvengti panaudojant papildomas priemones,
+
+vėjo elektrinių statybos vietos derinamos su sąlyga, kad gamintojas ne vėliau
+
+kaip iki statybą leidžiančio dokumento išdavimo derinimo išvadoje nurodytai
+
+institucijai pateiks patvirtintą statybos projektą ir su šia institucija
+
+pasirašys sutartį dėl kompensacijos, skirtos daliai investicijų ir kitoms
+
+išlaidoms, kurios reikalingos nacionalinio saugumo funkcijų vykdymui
+
+užtikrinti, atlyginti, sumokėjimo, ir pateiks šios prievolės įvykdymo
+
+užtikrinimą. Kompensacijos dydis apskaičiuojamas dauginant leidime plėtoti
+
+elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių
+
+numatomų įrengti elektrinės pajėgumų dydį (kW) iš 65 litų už 1 kW. Kompensacijų
+
+mokėjimo tvarką nustato Vyriausybė. Kompensacijos naudojamos teisės aktų
+
+nustatyta tvarka kaip kitos biudžetinių įstaigų lėšos, kurios nėra gautos kaip
+
+valstybės biudžeto asignavimai.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XII-847, 2014-04-24,
+
+paskelbta TAR 2014-05-02, i. k. 2014-05001
 
 50 straipsnis.
 
@@ -5015,9 +5001,9 @@ energijos naudojimo reikalavimus.
 
 4. Vyriausybė ar jos
 
-įgaliota institucija nustato šio straipsnio 2 ir 3 dalyse nurodytus
+įgaliota institucija nustato šio straipsnio 2 ir 3 dalyse nurodytus reikalavimus
 
-reikalavimus ir jų įgyvendinimo kontrolės tvarką.
+ir jų įgyvendinimo kontrolės tvarką.
 
 5. Vyriausybė ar
 
@@ -5115,6 +5101,18 @@ gali būti taikomi tam tikri apribojimai vėjo elektrinėms projektuoti ir
 
 statyti.
 
+Redakcija nuo
+
+2014-07-01:
+
+5. Lietuvos kariuomenė
+
+Vyriausybės nustatyta tvarka teikia informaciją apie teritorijas, kuriose,
+
+atsižvelgiant į nacionalinio saugumo reikalavimus, taikomi apribojimai vėjo
+
+elektrinėms projektuoti ir statyti.
+
 6. Valstybės
 
 įmonė Energetikos agentūra rengia, teikia ir viešai skelbia informaciją apie sistemas
@@ -5138,6 +5136,14 @@ atsinaujinančių energijos išteklių naudojimą valstybės, savivaldybių
 institucijoms ir įstaigoms joms pavestoms funkcijoms atlikti. Informacija
 
 teikiama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr.
+
+XII-847, 2014-04-24,
+
+paskelbta TAR 2014-05-02, i. k. 2014-05001
 
 52 straipsnis.
 
@@ -5259,9 +5265,9 @@ supaprastinimu, reglamentų ir kitų teisės aktų nuostatomis, susijusiomis su
 
 atsinaujinančių energijos išteklių naudojimo skatinimu, informavimu ir mokymu
 
-atsinaujinančių energijos išteklių srityje, iš atsinaujinančių energijos
+atsinaujinančių energijos išteklių srityje, iš atsinaujinančių energijos išteklių
 
-išteklių pagamintos elektros energijos, šilumos ir vėsumos energijos kilmės
+pagamintos elektros energijos, šilumos ir vėsumos energijos kilmės
 
 garantijomis, prieigos prie energetikos tinklų ar sistemų ir jų eksploatavimo
 
@@ -5425,11 +5431,11 @@ privalomus pasiekti atsinaujinančių išteklių energijos naudojimo planinius
 
 rodiklius. Šiuos rodiklius ir priemones jiems pasiekti savivaldybės įtraukia į
 
-savo atsinaujinančių išteklių energijos naudojimo plėtros veiksmų planus.
+savo atsinaujinančių išteklių energijos naudojimo plėtros veiksmų planus. Savivaldybės
 
-Savivaldybės nusistato tarpinius atsinaujinančių išteklių energijos naudojimo
+nusistato tarpinius atsinaujinančių išteklių energijos naudojimo planinius
 
-planinius rodiklius 2011–2012 m., 2013–2014 m., 2015–2016 m.,
+rodiklius 2011–2012 m., 2013–2014 m., 2015–2016 m.,
 
 2017–2018 m.
 
@@ -5473,7 +5479,9 @@ išteklių energijos naudojimo plėtros veiksmų planą ir jame nustato adekvač
 
 ir proporcingas priemones, skirtas užtikrinti, kad per pagrįstą laikotarpį
 
-atsinaujinančių išteklių energijos dalis atitiktų nustatytus planinius rodiklius.
+atsinaujinančių išteklių energijos dalis atitiktų nustatytus planinius
+
+rodiklius.
 
 7. Savivaldybės pagal
 
@@ -5637,9 +5645,11 @@ bendrus projektus tarp Lietuvos Respublikos ir kitos valstybės narės (ar kitų
 
 valstybių narių), susijusius su elektros energijos, šilumos ir vėsumos
 
-energijos gamyba iš atsinaujinančių energijos išteklių. Į tokius bendrus projektus
+energijos gamyba iš atsinaujinančių energijos išteklių. Į tokius bendrus
 
-su kitomis valstybėmis narėmis gali būti įtraukti ir privatūs asmenys.
+projektus su kitomis valstybėmis narėmis gali būti įtraukti ir privatūs
+
+asmenys.
 
 2. Susitarimai dėl bendrų
 
@@ -5895,11 +5905,11 @@ eksploatuoti jungiamąją liniją ne vėliau kaip 2022 m. gruodžio 31 d.;
 
 4) pradėjus eksploatuoti
 
-jungiamąją liniją, ji bus naudojama elektros energijai, gaminamai iš atsinaujinančių
+jungiamąją liniją, ji bus naudojama elektros energijai, gaminamai iš
 
-energijos išteklių, eksportuoti į Europos Sąjungą, kaip nurodyta šio straipsnio
+atsinaujinančių energijos išteklių, eksportuoti į Europos Sąjungą, kaip
 
-4 dalyje;
+nurodyta šio straipsnio 4 dalyje;
 
 5) prašymas susijęs su šio
 
@@ -6043,11 +6053,11 @@ nacionalinius planinius rodiklius.
 
 straipsnis. Bendros paramos schemos su kitomis valstybėmis narėmis
 
-1. Vyriausybė ar jos įgaliota institucija,
+1. Vyriausybė ar jos įgaliota
 
-bendradarbiaudama su kitos valstybės narės (ar kitų valstybių narių)
+institucija, bendradarbiaudama su kitos valstybės narės (ar kitų valstybių
 
-kompetentingomis institucijomis, gali priimti sprendimus dėl Lietuvos
+narių) kompetentingomis institucijomis, gali priimti sprendimus dėl Lietuvos
 
 Respublikos nacionalinės paramos schemos sujungimo su kitos valstybės narės (ar
 
