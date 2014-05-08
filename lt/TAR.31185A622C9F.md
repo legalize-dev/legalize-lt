@@ -4,7 +4,7 @@ identifier: "TAR.31185A622C9F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-04"
-last_updated: "2014-05-03"
+last_updated: "2014-05-08"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.31185A622C9F"
 department: "Lietuvos Respublikos Seimas"
@@ -12397,6 +12397,8 @@ priklausančios darbo užmokesčio ir kitos su darbo santykiais susijusios sumos
 
 priteisiamos ne daugiau kaip už trejus metus.
 
+Pastaba. Pripažinti, kad
+
 303 straipsnis. Sprendimų darbo
 
 byloje neįvykdymo pasekmės
@@ -12531,9 +12533,9 @@ papildytas priedu:
 
 Nr.
 
-IX-2293,
+IX-2293, 2004-06-22,
 
-2004-06-22, Žin., 2004, Nr. 103-3756 (2004-07-01)
+Žin., 2004, Nr. 103-3756 (2004-07-01)
 
 Priedo
 
@@ -12573,9 +12575,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. IX-2293, 2004-06-22,
+Nr. IX-2293,
 
-Žin., 2004, Nr. 103-3756 (2004-07-01)
+2004-06-22, Žin., 2004, Nr. 103-3756 (2004-07-01)
 
 DARBO
 
@@ -12933,9 +12935,9 @@ straipsnius, ir kolektyvinių sutarčių nuostatos, sulygtos pagal šį įstatym
 
 galioja iki 2010 m. gruodžio 31 d.
 
-Nuo 2011 m. sausio 1 d. galioja iki šio įstatymo įsigaliojimo buvusios
+Nuo 2011 m. sausio 1 d. galioja iki šio įstatymo įsigaliojimo buvusios šio
 
-šio įstatymo 3, 4, 5, 6, 7, 8, 9, 10 straipsniuose išdėstytų Darbo kodekso 129
+įstatymo 3, 4, 5, 6, 7, 8, 9, 10 straipsniuose išdėstytų Darbo kodekso 129
 
 straipsnio 4 ir 5 dalių, 130 straipsnio 1 ir 3 dalių, 141 straipsnio 1 dalies,
 
@@ -13021,19 +13023,19 @@ Terminuotų darbo sutarčių, sudaromų
 
 pagal Darbo kodekso 109 straipsnio 2 dalį naujai įsteigtoms darbo vietoms,
 
-skaičius įmonėje, įstaigoje, organizacijoje negali viršyti 50 procentų visų
+skaičius įmonėje, įstaigoje, organizacijoje negali viršyti 50 procentų visų įmonės,
 
-įmonės, įstaigos, organizacijos darbo vietų (pareigybių) skaičiaus.
+įstaigos, organizacijos darbo vietų (pareigybių) skaičiaus.
 
 Terminuota darbo sutartis pagal Darbo
 
 kodekso 109 straipsnio 2 dalį naujai įsteigtai darbo vietai negali būti
 
-sudaryta su toje pačioje įmonėje, įstaigoje, organizacijoje dirbusiu
+sudaryta su toje pačioje įmonėje, įstaigoje, organizacijoje dirbusiu darbuotoju,
 
-darbuotoju, su kuriuo darbo sutartis buvo nutraukta pagal Darbo kodekso 125 ar
+su kuriuo darbo sutartis buvo nutraukta pagal Darbo kodekso 125 ar 129
 
-129 straipsnį įsigaliojus šiam įstatymui.
+straipsnį įsigaliojus šiam įstatymui.
 
 Terminuotos darbo sutartys pagal Darbo
 
