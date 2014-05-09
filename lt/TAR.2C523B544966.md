@@ -4,7 +4,7 @@ identifier: "TAR.2C523B544966"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-04"
-last_updated: "2014-01-01"
+last_updated: "2014-05-09"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2C523B544966"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymas negali būti taikomas nuo 2021-07-01 (K
 ---
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2014-05-08
+Suvestinė redakcija nuo 2014-05-09 iki 2016-09-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2570, i. k. 1021010ISTA00IX-929
 
@@ -1263,6 +1263,14 @@ Nr. XI-2336, 2012-11-06, Žin., 2012, Nr. 132-6664 (2012-11-15), i. k. 1121010IS
 
 Lietuvos Respublikos referendumo įstatymo 16, 18, 23, 73 ir 78 straipsnių pakeitimo įstatymas
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-860, 2014-05-06, paskelbta TAR 2014-05-08, i. k. 2014-05198
+
+Lietuvos Respublikos referendumo įstatymo Nr. IX-929 15-1 straipsnio pakeitimo įstatymas
+
 781 straipsnis. Terminų skaičiavimas
 
 1. Tuo atveju, jei referendumas vyksta ne vieną dieną, šiame Įstatyme nustatyti terminai iki balsavimo referendume dienos skaičiuojami iki balsavimo referendume pirmosios dienos.
@@ -1301,11 +1309,27 @@ Papildyta straipsniu:
 
 Nr. X-1488, 2008-04-10, Žin., 2008, Nr. 50-1838 (2008-04-30), i. k. 1081010ISTA00X-1488
 
-151 straipsnis. Referendumo ir rinkimų vykdymas tą pačią dieną
+151 straipsnis. Referendumo ir rinkimų vykdymas tą pačią dieną arba praėjus ne daugiau kaip 45 dienoms po rinkimų
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XII-860, 2014-05-06, paskelbta TAR 2014-05-08, i. k. 2014-05198
 
 1. Tuo atveju, kai referendumas vykdomas tą pačią dieną su Seimo rinkimais arba su Respublikos Prezidento rinkimais, arba su savivaldybių tarybų rinkimais, arba su rinkimais į Europos Parlamentą, Vyriausioji rinkimų komisija sudaro šio įstatymo 20 straipsnio 2 dalyje nurodytas komisijas ir paveda vykdyti atitinkamo įstatymo nustatytas funkcijas.
 
 2. Referendumui ir rinkimams organizuoti ir vykdyti šio straipsnio 1 dalyje nurodytu atveju sudaromas rinkėjų sąrašas, turintis atskiras skiltis, kad būtų užtikrinta rinkėjų teisė dalyvauti ir balsuoti atskirai dėl referendumui pateikto sprendimo ir rinkimuose. Rinkėjui įteikiamas ir balsuojant naudojamas vienas rinkėjo pažymėjimas arba rinkėjo kortelė; rinkėjo kortelėje ar rinkėjo pažymėjime nurodoma informacija apie tą pačią dieną vykstančius referendumą ir rinkimus bei rinkėjų teisę juose dalyvauti.
+
+3. Tuo atveju, kai referendumas vykdomas praėjus ne daugiau kaip 45 dienoms po Seimo rinkimų, Respublikos Prezidento rinkimų, savivaldybių tarybų rinkimų arba rinkimų į Europos Parlamentą:
+
+1) Vyriausioji rinkimų komisija priima sprendimą dėl atitinkamų rinkimų komisijų įgaliojimų pratęsimo ir paveda joms vykdyti šio įstatymo nustatytas funkcijas;
+
+2) Vyriausioji rinkimų komisija priima sprendimą dėl atitinkamuose rinkimuose naudotų rinkėjo kortelės, antspaudų pavyzdžių ir formų, biuletenių ir dokumentų pildymo pavyzdžių, jų antspaudavimo tvarkos, balsavimo organizavimo ir vykdymo tvarkos, duomenų perdavimo iš apylinkių rinkimų komisijų tvarkos, elektroninių ryšių priemonių panaudojimo ir balsavimo kitoje referendumo apylinkėje tvarkos aprašų naudojimo bei balsavimo patalpos įrengimo reikalavimų taikymo referendumui organizuoti ir vykdyti;
+
+3) referendumui organizuoti ir vykdyti į atitinkamų rinkimų rinkėjų sąrašą papildomai įrašomi piliečiai, kuriems referendumo dieną bus sukakę 18 metų, ir išbraukiami mirę piliečiai bei asmenys, kurie neturi teisės dalyvauti referendume.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-860, 2014-05-06, paskelbta TAR 2014-05-08, i. k. 2014-05198
 
 Papildyta straipsniu:
 
