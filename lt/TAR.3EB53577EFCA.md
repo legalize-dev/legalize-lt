@@ -4,7 +4,7 @@ identifier: "TAR.3EB53577EFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-13"
-last_updated: "2013-12-30"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -1437,6 +1437,126 @@ ketvirtasIS Skirsnis
 
 Prokuratūros vadovai
 
+22
+
+straipsnis. Generalinio prokuroro, jo pavaduotojų skyrimo ir atleidimo tvarka
+
+1. Generaliniu
+
+prokuroru ir jo pavaduotoju gali būti skiriamas asmuo, kuris yra ne jaunesnis
+
+kaip 35 metų, nepriekaištingos reputacijos, moka valstybinę lietuvių kalbą,
+
+turi Lietuvos Respublikos pilietybę, turi aukštąjį universitetinį teisinį
+
+išsilavinimą ir yra įgijęs teisės bakalauro ir teisės magistro ar teisininko
+
+profesinį kvalifikacinį laipsnį, turi ne mažesnį kaip dešimties metų tarnybos
+
+prokuroru ir (arba) teisėjo arba kito teisinio darbo stažą.
+
+2. Generalinį
+
+prokurorą penkeriems metams skiria ir iš pareigų atleidžia Respublikos
+
+Prezidentas Seimo pritarimu. Generalinis prokuroras į tas pačias pareigas gali
+
+būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės.
+
+3. Generalinio
+
+prokuroro pavaduotojus skiria ir iš pareigų atleidžia Respublikos Prezidentas generalinio
+
+prokuroro teikimu. Generalinio prokuroro pavaduotojų įgaliojimų trukmė yra
+
+susieta su generalinio prokuroro įgaliojimų trukme. Nutrūkus generalinio
+
+prokuroro įgaliojimams arba atleidus jį iš pareigų, generalinio prokuroro
+
+pavaduotojai pareigas eina tol, kol įstatymų nustatyta tvarka paskiriamas kitas
+
+generalinis prokuroras.
+
+4. Generalinis
+
+prokuroras ir jo pavaduotojai, prieš pradėdami eiti pareigas, prisiekia
+
+Lietuvos valstybei perskaitydami šio Įstatymo 30 straipsnio 1 dalyje nurodytą
+
+tekstą. Generalinio prokuroro ir jo pavaduotojų priesaiką priima Respublikos
+
+Prezidentas.
+
+5. Generalinio
+
+prokuroro įgaliojimai nutrūksta, kai:
+
+1) pasibaigia
+
+įgaliojimų laikas arba generalinis prokuroras sulaukia 65 metų;
+
+2) generalinis
+
+prokuroras miršta;
+
+3) generalinis
+
+prokuroras išrenkamas į kitas pareigas arba jo sutikimu perkeliamas į kitą
+
+darbą.
+
+6.
+
+Generalinis prokuroras gali būti atleistas Seimo siūlymu.
+
+7.
+
+Generalinio prokuroro pavaduotojo įgaliojimai nutrūksta, kai:
+
+1) nutrūkus
+
+generalinio prokuroro įgaliojimams arba atleidus jį iš pareigų įstatymų
+
+nustatyta tvarka paskiriamas kitas generalinis prokuroras;
+
+2) generalinio
+
+prokuroro pavaduotojas sulaukia 65 metų;
+
+3) generalinio
+
+prokuroro pavaduotojas miršta;
+
+4) generalinio
+
+prokuroro pavaduotojas išrenkamas į kitas pareigas arba jo sutikimu perkeliamas
+
+į kitą darbą.
+
+8. Generalinis
+
+prokuroras ir jo pavaduotojas atleidžiami iš pareigų, kai:
+
+1) atsistatydina;
+
+2) dėl sveikatos būklės nebegali eiti pareigų;
+
+3) netenka Lietuvos Respublikos pilietybės;
+
+4) savo poelgiu sulaužo priesaiką;
+
+5) jam įsiteisėja apkaltinamasis teismo nuosprendis.
+
+Straipsnio pakeitimai:
+
+Nr. XI-855,
+
+2010-05-27, Žin., 2010, Nr. 64-3142 (2010-06-03)
+
+Nr. XII-652,
+
+2013-12-10, Žin., 2013, Nr. 130-6628 (2013-12-19)
+
 22 straipsnis. Generalinio
 
 prokuroro, jo pavaduotojų skyrimo ir atleidimo tvarka
@@ -1581,7 +1701,7 @@ sąlygomis.
 
 Buvęs generalinis prokuroras ir jo pavaduotojas be egzaminų ir atrankos gali
 
-būti paskirti į bet kurias laisvas prokuroro ar teisėjo pareigas.
+būti paskirti į bet kurias laisvas prokuroro pareigas.
 
 Straipsnio pakeitimai:
 
@@ -1598,6 +1718,10 @@ Nr. XI-1562,
 Nr. XII-708,
 
 2013-12-19, Žin., 2013, Nr. 140-7075 (2013-12-30)
+
+Nr. XII-868,
+
+2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05359
 
 Penktasis skirsnis
 
@@ -1881,11 +2005,13 @@ stažuotojo, prokuratūros tardytojo (jo padėjėjo) pareigas, tarnybos
 
 prokuratūroje laikas yra įskaitomas į tarnybos prokuroru stažą.
 
-5. Asmens darbo (tarnybos) laikas, nurodytas šio straipsnio 2 ir 3 dalyse,
+5. Asmens darbo (tarnybos) laikas, nurodytas šio straipsnio 2 ir 3
 
-į tarnybos prokuroru stažą įskaitomas generalinio prokuroro įsakymu remiantis Atrankos
+dalyse, į tarnybos prokuroru stažą įskaitomas generalinio prokuroro įsakymu
 
-komisijos, kuriai generalinis prokuroras paveda atlikti šį vertinimą, teikimu.
+remiantis Atrankos komisijos, kuriai generalinis prokuroras paveda
+
+atlikti šį vertinimą, teikimu.
 
 6. Asmuo, nesutikdamas su Atrankos komisijos teikimu, gali jį apskųsti
 
@@ -2083,9 +2209,9 @@ stažuotės nuostatus įsakymu tvirtina generalinis prokuroras.
 
 3. Prokuroras
 
-stažuotės metu eina prokuroro pareigas ir proceso sprendimų bei nutarimų
+stažuotės metu eina prokuroro pareigas ir proceso sprendimų bei nutarimų projektus
 
-projektus privalo derinti su stažuotės vadovu.
+privalo derinti su stažuotės vadovu.
 
 4. Pasibaigus
 
@@ -2637,9 +2763,9 @@ būti perkeltas į lygiavertes ar žemesnes pareigas.
 
 2. Į lygiavertes
 
-pareigas prokuroras, kuris neina vyriausiojo prokuroro (jo pavaduotojo)
+pareigas prokuroras, kuris neina vyriausiojo prokuroro (jo pavaduotojo) pareigų,
 
-pareigų, gali būti perkeltas:
+gali būti perkeltas:
 
 1) jo prašymu ar
 
@@ -2993,9 +3119,9 @@ nuobaudos skyrimo.
 
 kad buvo padarytas įstatymų pažeidimas, tarnybinis nusižengimas, prokuroro
 
-vardą žeminantis poelgis, taip pat kitas Prokurorų etikos kodekso pažeidimas,
+vardą žeminantis poelgis, taip pat kitas Prokurorų etikos kodekso pažeidimas, gali
 
-gali ir generalinis
+ir generalinis
 
 prokuroras, gavęs generalinio
 
@@ -3049,13 +3175,13 @@ veiksmuose yra įstatymo pažeidimo, tarnybinio nusižengimo, prokuroro vardą
 
 tarnybinė nuobauda gali būti paskirta ne vėliau kaip per šešis mėnesius nuo
 
-sprendimo, kuriuo baigiamas administracinio teisės pažeidimo bylos
+sprendimo, kuriuo baigiamas administracinio teisės pažeidimo bylos nagrinėjimas,
 
-nagrinėjimas, nuo sprendimo atsisakyti pradėti ikiteisminį tyrimą, nuo
+nuo sprendimo atsisakyti pradėti ikiteisminį tyrimą, nuo sprendimo nutraukti
 
-sprendimo nutraukti baudžiamąjį procesą, nuo sprendimo nutraukti baudžiamąją bylą
+baudžiamąjį procesą, nuo sprendimo nutraukti baudžiamąją bylą arba nuo
 
-arba nuo išteisinamojo teismo nuosprendžio įsiteisėjimo dienos.
+išteisinamojo teismo nuosprendžio įsiteisėjimo dienos.
 
 8. Prokuroro dėl
 
@@ -3121,9 +3247,9 @@ nuo pareigų, jei tarnyboje yra neblaivus, apsvaigęs nuo narkotinių,
 
 psichotropinių ar toksinių medžiagų ar atsisako pasitikrinti sveikatą arba yra
 
-pagrindas manyti, kad jis padarė veiką, kuri turi tarnybinio nusižengimo ar
+pagrindas manyti, kad jis padarė veiką, kuri turi tarnybinio nusižengimo ar nusikalstamos
 
-nusikalstamos veikos požymių.
+veikos požymių.
 
 2. Prokurorą nuo pareigų nušalina
 
@@ -4255,9 +4381,9 @@ draudžiama šaunamąjį ginklą, šaudmenis ir specialiąsias asmens apsaugos
 
 priemones:
 
-1) nešioti
+1) nešioti neblaiviam,
 
-neblaiviam, apsvaigusiam nuo narkotinių, psichotropinių ar toksinių medžiagų;
+apsvaigusiam nuo narkotinių, psichotropinių ar toksinių medžiagų;
 
 2) palikti
 
@@ -4281,11 +4407,11 @@ straipsnis. Šaunamojo ginklo naudojimo tvarka
 
 1. Prokuroras
 
-gali panaudoti šaunamąjį ginklą tik tais atvejais, kai visi kiti galimi
+gali panaudoti šaunamąjį ginklą tik tais atvejais, kai visi kiti galimi akivaizdūs
 
-akivaizdūs būdai ir priemonės jau panaudoti arba dėl užpuolimo pobūdžio jų
+būdai ir priemonės jau panaudoti arba dėl užpuolimo pobūdžio jų panaudoti nėra
 
-panaudoti nėra galimybės:
+galimybės:
 
 1) gindamasis
 
@@ -4335,9 +4461,9 @@ atskiras teritorinių prokuratūrų išlaidų sąmatas.
 
 2. Svarstant Seime, Vyriausybėje ir kitose valstybės
 
-institucijose valstybės biudžetą ar prokuratūrai skiriamus asignavimus, prokuratūrai atstovauja generalinis prokuroras
+institucijose valstybės biudžetą ar prokuratūrai skiriamus asignavimus, prokuratūrai atstovauja generalinis
 
-(jo pavaduotojas).
+prokuroras (jo pavaduotojas).
 
 3. Valstybė finansinėmis, organizacinėmis ir techninėmis
 
@@ -4449,11 +4575,9 @@ prokurorų kvalifikacijos kėlimo įstaigas ir leisti specialius leidinius.
 
 1. Prokurorų atributai yra prokuroro mantija su simboliu – Lietuvos
 
-valstybės herbu, prokuroro pažymėjimas, prokuroro ženklas, garbės ar kiti
+valstybės herbu, prokuroro pažymėjimas, prokuroro ženklas, garbės ar kiti pasižymėjimo
 
-pasižymėjimo ženklai. Jų išdavimo ir naudojimo tvarką nustato generalinis
-
-prokuroras.
+ženklai. Jų išdavimo ir naudojimo tvarką nustato generalinis prokuroras.
 
 2. Prokuroro
 
@@ -4709,9 +4833,11 @@ Nr. X-1661,
 
 PROKURATŪROS
 
-ĮSTATYMO 5, 7, 14, 15, 19, 23, 25, 26, 29, 32, 33, 34, 36, 39, 44, 52 STRAIPSNIŲ
+ĮSTATYMO 5, 7, 14, 15, 19, 23, 25, 26, 29, 32, 33, 34, 36, 39, 44, 52
 
-PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 37(1) STRAIPSNIU ĮSTATYMAS
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 37(1) STRAIPSNIU
+
+ĮSTATYMAS
 
 13.
 
@@ -4893,19 +5019,35 @@ LIETUVOS
 
 RESPUBLIKOS PROKURATŪROS ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+21.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XII-868,
+
+2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05359
+
+LIETUVOS
+
+RESPUBLIKOS PROKURATŪROS ĮSTATYMO NR. I-599 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2014-01-07)
+Aušrinė Trapinskienė (2014-05-14)
 
 ausrine.trapinskiene@lrs.lt
 
-371 straipsnis. Prokuroro delegavimas į
+371 straipsnis. Prokuroro delegavimas į tarptautines,
 
-tarptautines, Europos Sąjungos institucijas ar užsienio valstybių institucijas
+Europos Sąjungos institucijas ar užsienio valstybių institucijas
 
 1. Prokuroras jo
 
