@@ -4,7 +4,7 @@ identifier: "TAR.C0E550D6ADF0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2012-06-27"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0"
 department: "Lietuvos Respublikos Seimas"
@@ -62,43 +62,43 @@ kelią atsirasti bei plisti korupcijai valstybinėje tarnyboje.
 
 Pagrindinės šio įstatymo sąvokos
 
-1. Asmenys, dirbantys valstybinėje
+1. Asmenys, dirbantys
 
-tarnyboje, – valstybės politikai, valstybės pareigūnai, valstybės
+valstybinėje tarnyboje, – valstybės politikai, valstybės pareigūnai,
 
-tarnautojai, teisėjai, profesinės karo tarnybos kariai, vykdantys operatyvinę
+valstybės tarnautojai, teisėjai, žvalgybos pareigūnai, profesinės karo tarnybos
 
-veiklą, profesinės karo tarnybos karininkai, asmenys, dirbantys valstybės ir
+karininkai, asmenys, dirbantys valstybės ir savivaldybių įmonėse, biudžetinėse
 
-savivaldybių įmonėse, biudžetinėse įstaigose ir turintys administravimo
+įstaigose ir turintys administravimo įgaliojimus, asmenys, dirbantys viešosiose
 
-įgaliojimus, asmenys, dirbantys viešosiose įstaigose ir asociacijose, kurios
+įstaigose ir asociacijose, kurios gauna lėšų iš Lietuvos valstybės ar
 
-gauna lėšų iš Lietuvos valstybės ar savivaldybių biudžetų ir fondų, ir turintys
+savivaldybių biudžetų ir fondų, ir turintys administravimo įgaliojimus,
 
-administravimo įgaliojimus, Lietuvos banko darbuotojai, turintys viešojo
+Lietuvos banko darbuotojai, turintys viešojo administravimo įgaliojimus
 
-administravimo įgaliojimus (atliekantys finansų rinkos priežiūros, vartotojų ir
+(atliekantys finansų rinkos priežiūros, vartotojų ir finansų rinkos dalyvių
 
-finansų rinkos dalyvių ginčų nagrinėjimo ne teisme funkcijas ir kitas viešojo
+ginčų nagrinėjimo ne teisme funkcijas ir kitas viešojo administravimo
 
-administravimo funkcijas), akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių
+funkcijas), akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių akcijos,
 
-akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų
+suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime,
 
-susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, vadovai ir
+nuosavybės teise priklauso valstybei ar savivaldybei, vadovai ir vadovų
 
-vadovų pavaduotojai, taip pat kiti asmenys, turintys viešojo administravimo
+pavaduotojai, taip pat kiti asmenys, turintys viešojo administravimo
 
 įgaliojimus.
 
-2. Privatūs interesai
+2. Privatūs
 
-– asmens, dirbančio valstybinėje tarnyboje, (ar jam artimo asmens)
+interesai – asmens, dirbančio valstybinėje tarnyboje, (ar jam artimo
 
-asmeninis turtinis ar neturtinis suinteresuotumas, galintis turėti įtakos
+asmens) asmeninis turtinis ar neturtinis suinteresuotumas, galintis turėti
 
-sprendimams atliekant tarnybines pareigas.
+įtakos sprendimams atliekant tarnybines pareigas.
 
 3. Viešieji
 
@@ -120,9 +120,9 @@ valstybinėje tarnyboje dirbančio asmens sutuoktinis, sugyventinis,
 
 partneris, kai partnerystė įregistruota įstatymų nustatyta tvarka (toliau –
 
-partneris), taip pat jų tėvai (įtėviai), vaikai (įvaikiai),
+partneris), taip pat jų tėvai (įtėviai), vaikai (įvaikiai), broliai
 
-broliai (įbroliai), seserys (įseserės), seneliai, vaikaičiai ir jų
+(įbroliai), seserys (įseserės), seneliai, vaikaičiai ir jų
 
 sutuoktiniai, sugyventiniai ar partneriai.
 
@@ -188,7 +188,11 @@ Nr.
 
 XI-2063,
 
-2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)(papildyta 8 dalimi)
+2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
+
+Nr. XII-870,
+
+2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
 
 3 straipsnis. Asmenų, pretenduojančių dirbti, dirbančių ir
 
@@ -264,9 +268,33 @@ INTERESŲ DEKLARAVIMAS
 
 straipsnis. Privačių interesų deklaracija
 
-1. Valstybinėje tarnyboje dirbantis asmuo, taip pat asmuo, pretenduojantis į pareigas
+1. Valstybinėje tarnyboje dirbantis
 
-valstybinėje tarnyboje, privalo deklaruoti privačius interesus šio įstatymo ir kitų teisės aktų nustatyta tvarka pateikdamas privačių interesų deklaraciją (toliau – deklaracija). Šio įstatymo nuostatos dėl privačių interesų deklaravimo taip pat taikomos politinių partijų pirmininkams ir jų pavaduotojams, valstybės politikų visuomeniniams konsultantams, padėjėjams, patarėjams.
+asmuo, taip pat asmuo, pretenduojantis į pareigas valstybinėje tarnyboje,
+
+privalo deklaruoti privačius interesus šio įstatymo ir kitų teisės aktų
+
+nustatyta tvarka pateikdamas privačių interesų deklaraciją (toliau –
+
+deklaracija). Šio įstatymo nuostatos dėl privačių interesų deklaravimo taip pat
+
+taikomos politinių partijų pirmininkams ir jų pavaduotojams, valstybės politikų
+
+visuomeniniams konsultantams, padėjėjams, patarėjams, ministerijų kolegijų
+
+nariams, Privalomojo sveikatos draudimo tarybos nariams, taip pat gydytojams,
+
+odontologams ir farmacijos specialistams, dirbantiems biudžetinėse ir
+
+viešosiose įstaigose, kurių savininkė yra valstybė ar savivaldybė, valstybės ir
+
+savivaldybių įmonėse bei įmonėse, kurių akcijos, suteikiančios daugiau kaip 1/2
+
+balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei
+
+ar savivaldybei, turinčiose asmens sveikatos priežiūros ar vaistinės veiklos
+
+licenciją.
 
 2. Kandidatai į
 
@@ -308,6 +336,10 @@ XI-2063,
 
 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
 
+Nr. XII-870,
+
+2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
+
 4 straipsnis.
 
 Privačių interesų deklaracija
@@ -330,43 +362,95 @@ pavaduotojams.
 
 Deklaracijos pateikimas
 
-1.
+1. Valstybės politikai,
 
-Asmenys, pretenduojantys dirbti valstybinėje tarnyboje (išskyrus asmenis,
+valstybės pareigūnai, teisėjai, valstybės ir savivaldybių institucijų vadovai
 
-nurodytus šio įstatymo 4 straipsnio 2 dalyje), pateikia deklaraciją valstybės
+ir jų pavaduotojai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai,
 
-ar savivaldybės institucijos, kurioje jie pretenduoja dirbti, vadovui ar šio
+valstybės tarnautojai, einantys institucijų ar įstaigų struktūrinių padalinių
 
-įgaliotam asmeniui iki jų išrinkimo, priėmimo ar paskyrimo į pareigas dienos,
+vadovų ir jų pavaduotojų pareigas, valstybės ir savivaldybių įmonių,
 
-jeigu kiti teisės aktai nenustato kitaip.
+biudžetinių įstaigų vadovai ir jų pavaduotojai, viešųjų įstaigų ir asociacijų,
 
-2. Valstybinėje
+kurios gauna lėšų iš Lietuvos valstybės ar savivaldybių biudžetų ir fondų,
 
-tarnyboje dirbantis asmuo per vieną mėnesį nuo išrinkimo, priėmimo ar paskyrimo
+vadovai ir jų pavaduotojai, Lietuvos banko darbuotojai, turintys viešojo
 
-į tarnybą dienos pateikia deklaraciją valstybės ar savivaldybės institucijos,
+administravimo įgaliojimus (atliekantys finansų rinkos priežiūros, vartotojų ir
 
-kurioje dirba, vadovui ar šio įgaliotam atstovui.
+finansų rinkos dalyvių ginčų nagrinėjimo ne teisme funkcijas ir kitas viešojo
 
-3. Šio įstatymo 10
+administravimo funkcijas), akcinių bendrovių ir uždarųjų akcinių bendrovių,
 
-straipsnio 1 dalyje nurodytas pareigas einantis asmuo deklaraciją pateikia
+kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų
 
-Vyriausiajai tarnybinės etikos komisijai.
+susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, vadovai ir
 
-4. Deklaracija gali
+jų pavaduotojai, politinių partijų pirmininkai ir jų pavaduotojai, valstybės
 
-būti teikiama ne tik institucijos, kurioje asmuo dirba, vadovui ar jo įgaliotam
+politikų visuomeniniai konsultantai, padėjėjai, patarėjai, ministerijų kolegijų
 
-atstovui, bet ir kitiems struktūriniams padaliniams, jeigu tai numato tos
+nariai, Privalomojo sveikatos draudimo tarybos nariai, taip pat gydytojai,
 
-institucijos veiklos tvarką nustatantis teisės aktas.
+odontologai ir farmacijos specialistai, dirbantys biudžetinėse ir viešosiose
 
-5. Teisės aktų nustatytais atvejais ir
+įstaigose, kurių savininkė yra valstybė ar savivaldybė, valstybės ir
 
-tvarka deklaracijų turinčios teisę reikalauti institucijos jas išsireikalauja
+savivaldybių įmonėse bei įmonėse, kurių akcijos, suteikiančios daugiau kaip 1/2
+
+balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei
+
+ar savivaldybei, turinčiose asmens sveikatos priežiūros ar vaistinės veiklos
+
+licenciją, (išskyrus asmenis, kurių duomenys įstatymų nustatyta tvarka yra
+
+įslaptinti ir (arba) kurie vykdo žvalgybą, kontržvalgybą arba kriminalinę
+
+žvalgybą, bei jų sutuoktinius, sugyventinius ir partnerius) deklaraciją
+
+elektroninėmis priemonėmis pateikia Vyriausiajai tarnybinės etikos komisijai
+
+per vieną mėnesį nuo išrinkimo, priėmimo ar paskyrimo į pareigas dienos.
+
+2. Asmenys, pretenduojantys
+
+dirbti valstybinėje tarnyboje (išskyrus asmenis, nurodytus šio įstatymo 4
+
+straipsnio 2 dalyje), pateikia deklaraciją valstybės ar savivaldybės
+
+institucijos, kurioje jie pretenduoja dirbti, vadovui ar šio įgaliotam asmeniui
+
+iki jų išrinkimo, priėmimo ar paskyrimo į pareigas dienos, jeigu kiti teisės
+
+aktai nenustato kitaip.
+
+3. Asmenys, kurių duomenys
+
+įstatymų nustatyta tvarka yra įslaptinti ir (arba) kurie vykdo žvalgybą,
+
+kontržvalgybą arba kriminalinę žvalgybą, taip pat šio straipsnio 1 dalyje
+
+nenurodyti asmenys per vieną mėnesį nuo išrinkimo, priėmimo ar paskyrimo į
+
+pareigas dienos pateikia deklaraciją institucijos (įstaigos, įmonės ar kito
+
+subjekto), kurioje dirba, vadovui ar šio įgaliotam atstovui.
+
+4. Deklaracija gali būti
+
+teikiama ne tik institucijos (įstaigos, įmonės ar kito subjekto), kurioje asmuo
+
+dirba, vadovui ar jo įgaliotam atstovui, bet ir kitiems struktūriniams
+
+padaliniams, jeigu tai numato tos institucijos veiklos tvarką nustatantis
+
+teisės aktas.
+
+5. Teisės aktų nustatytais
+
+atvejais ir tvarka deklaracijų turinčios teisę reikalauti institucijos jas išsireikalauja
 
 pačios iš deklaruojančiojo asmens darbovietės arba iš Vyriausiosios tarnybinės
 
@@ -390,7 +474,11 @@ Nr.
 
 XI-2063,
 
-2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)(papildyta nuaja1 dalimi)
+2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
+
+Nr. XII-870,
+
+2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
 
 6
 
@@ -414,23 +502,27 @@ jo sutuoktinis, sugyventinis, partneris yra;
 
 apibrėžta Gyventojų pajamų mokesčio įstatyme;
 
-4) narystę ir pareigas įmonėse, įstaigose,
+4) narystę ir pareigas įmonėse,
 
-asociacijose ar fonduose, išskyrus narystę politinėse partijose ar
+įstaigose, asociacijose ar fonduose, išskyrus narystę politinėse partijose ar
 
 organizacijose;
 
-5) per paskutinius 12 kalendorinių
+5) informaciją apie per paskutinius
 
-mėnesių gautas dovanas (išskyrus artimų asmenų dovanas), jeigu dovanų vertė
+12 kalendorinių mėnesių gautas dovanas (sandorio forma, objektas, šalys,
 
-didesnė negu 500 Lt;
+sudarymo data, apytikslė dovanos vertė), išskyrus artimų asmenų dovanas, jeigu
+
+dovanų vertė didesnė negu 500 Lt;
 
 6) informaciją apie per paskutinius 12
 
-kalendorinių mėnesių sudarytus ir kitus galiojančius sandorius, jeigu sandorio
+kalendorinių mėnesių sudarytus ir kitus galiojančius sandorius (sandorio rūšis,
 
-vertė didesnė negu 10 000 Lt;
+forma, objektas, šalys, sudarymo data, apytikslė sandorio vertė), jeigu
+
+sandorio vertė didesnė negu 10 000 Lt;
 
 7) artimus asmenis ar kitus jam žinomus
 
@@ -479,6 +571,10 @@ Nr.
 XI-2063,
 
 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
+
+Nr. XII-870,
+
+2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
 
 7
 
@@ -812,41 +908,35 @@ Nr. X-316, 2005-07-05,
 
 straipsnis. Privačių interesų duomenų viešumas
 
-1. Valstybės politikų, valstybės
+1. Šio įstatymo 5 straipsnio
 
-pareigūnų, teisėjų, parlamentinių politinių partijų pirmininkų ir jų
+1 dalyje nurodytų asmenų (išskyrus asmenis, kurių duomenys įstatymų nustatyta
 
-pavaduotojų, valstybės ar savivaldybių institucijų vadovų ir jų pavaduotojų,
+tvarka yra įslaptinti ir (arba) kurie vykdo žvalgybą, kontržvalgybą arba
 
-politinio asmeninio pasitikėjimo valstybės tarnautojų ir karjeros valstybės
+kriminalinę žvalgybą, bei jų sutuoktinius, sugyventinius ir partnerius)
 
-tarnautojų, einančių institucijų ar įstaigų struktūrinių padalinių vadovų
+deklaracijų duomenys yra vieši ir skelbiami Vyriausiosios tarnybinės etikos
 
-pareigas, privačių interesų duomenys yra vieši ir skelbiami Vyriausiosios
+komisijos interneto svetainėje.
 
-tarnybinės etikos komisijos interneto tinklalapyje.
+2. Negali
 
-2. Vyriausioji tarnybinės etikos
+būti viešai skelbiami deklaracijoje nurodyti asmens kodas, valstybinio
 
-komisija, atsižvelgdama į valstybės ir savivaldybių institucijų ir įstaigų
+socialinio draudimo pažymėjimo numeris, ypatingi asmens duomenys, taip pat kiti
 
-vadovų oficialiai pateiktą informaciją, tvirtina ir skelbia šio straipsnio 1
+duomenys, kuriuos skelbti draudžiama pagal įstatymus. Be to, neskelbiami kitos
 
-dalyje nurodytų asmenų, kurių privačių interesų duomenys yra vieši, pareigybių
+sandorio šalies fizinio asmens duomenys, kai sudaromas buitinis sandoris.
 
-sąrašą.
+3. Valstybinėje
 
-3. Kitų valstybinėje tarnyboje dirbančių
+tarnyboje dirbančių asmenų privačių interesų duomenų viešumui užtikrinti
 
-asmenų privačių interesų deklaracijų duomenys gali būti skelbiami Vyriausiosios
+Valstybės registrų įstatymo nustatyta tvarka steigiamas Privačių interesų
 
-tarnybinės etikos komisijos motyvuotu sprendimu.
-
-4. Valstybinėje tarnyboje dirbančių
-
-asmenų privačių interesų duomenų viešumui užtikrinti Valstybės registrų
-
-įstatymo nustatyta tvarka steigiamas Privačių interesų registras.
+registras.
 
 Straipsnio pakeitimai:
 
@@ -876,6 +966,10 @@ X-1667,
 
 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
 
+Nr. XII-870,
+
+2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
+
 TREČIASIS SKIRSNIS
 
 REIKALAVIMAI
@@ -904,9 +998,9 @@ institucijos vadovo įgaliotą atstovą ir
 
 asmenis, kurie kartu dalyvauja sprendimo rengimo, svarstymo ar priėmimo
 
-procedūroje, apie esamą interesų konfliktą ir nusišalinti nuo dalyvavimo tolesnėje
+procedūroje, apie esamą interesų konfliktą ir nusišalinti nuo dalyvavimo
 
-procedūroje. Institucijos vadovas ar jo įgaliotas atstovas motyvuotu rašytiniu sprendimu gali nepriimti
+tolesnėje procedūroje. Institucijos vadovas ar jo įgaliotas atstovas motyvuotu rašytiniu sprendimu gali nepriimti
 
 pareikšto nusišalinimo ir įpareigoti asmenį dalyvauti tolesnėje procedūroje.
 
@@ -1126,6 +1220,14 @@ ir leisti naudotis informacija, kurią jis įgijo eidamas pareigas, kitokia
 
 tvarka ir mastu, negu nustato įstatymai ar kiti teisės aktai.
 
+3. Šio straipsnio nuostatos taip pat
+
+taikomos ministerijų kolegijų nariams, Privalomojo sveikatos draudimo tarybos
+
+nariams, gydytojams, odontologams ir farmacijos specialistams, nurodytiems šio
+
+įstatymo 4 straipsnio 1 dalyje.
+
 Straipsnio pakeitimai:
 
 Nr.
@@ -1133,6 +1235,10 @@ Nr.
 X-1667,
 
 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
+
+Nr. XII-870,
+
+2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
 
 14
 
@@ -1264,7 +1370,9 @@ PRIEVOLĖS
 
 IEŠKANT KITO DARBO
 
-15 straipsnis. Kiti apribojimai ir draudimai
+15 straipsnis. Kiti apribojimai ir
+
+draudimai
 
 1. Valstybinėje tarnyboje dirbantys
 
@@ -1372,15 +1480,15 @@ pareigas valstybinėje tarnyboje, vienerius metus neturi teisės dirbti įmonės
 
 jos kontroliuojamos įmonės vadovu, vadovo pavaduotoju, būti šios įmonės tarybos
 
-ar valdybos nariu, taip pat eiti kitas pareigas, tiesiogiai susijusias su sprendimų
+ar valdybos nariu, taip pat eiti kitas pareigas, tiesiogiai susijusias su
 
-priėmimu įmonės valdymo, turto tvarkymo, finansų apskaitos ir kontrolės
+sprendimų priėmimu įmonės valdymo, turto tvarkymo, finansų apskaitos ir
 
-srityse, jeigu per paskutinius darbo metus jo tarnyba buvo tiesiogiai susijusi
+kontrolės srityse, jeigu per paskutinius darbo metus jo tarnyba buvo tiesiogiai
 
-su įmonės ar jos kontroliuojamos įmonės veiklos priežiūra ar kontrole arba
+susijusi su įmonės ar jos kontroliuojamos įmonės veiklos priežiūra ar kontrole
 
-jeigu asmuo tiesiogiai dalyvavo rengiant, svarstant ar priimant palankius įmonei
+arba jeigu asmuo tiesiogiai dalyvavo rengiant, svarstant ar priimant palankius įmonei
 
 ar jos kontroliuojamai įmonei sprendimus konkurso ar kitokiu būdu teikti
 
@@ -1540,9 +1648,9 @@ tarnyboje, neleidžiama turėti tarnybinių santykių su anksčiau valstybinėje
 
 tarnyboje dirbusiu asmeniu, kuriam taikomi šio straipsnio 1 dalies apribojimai.
 
-Asmuo, dirbantis valstybinėje tarnyboje, apie tokius tarnybinius santykius
+Asmuo, dirbantis valstybinėje tarnyboje, apie tokius tarnybinius santykius privalo
 
-privalo nedelsdamas informuoti savo institucijos vadovą ar jo įgaliotą atstovą.
+nedelsdamas informuoti savo institucijos vadovą ar jo įgaliotą atstovą.
 
 Straipsnio pakeitimai:
 
@@ -1634,7 +1742,7 @@ Nr.
 
 XI-2063,
 
-2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)(papildyta 4 dalimi)
+2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
 
 23
 
@@ -2056,9 +2164,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-597, 2001-11-13,
+IX-597,
 
-Žin., 2001, Nr. 99-3529 (2001-11-28)
+2001-11-13, Žin., 2001, Nr. 99-3529 (2001-11-28)
 
 VIEŠŲJŲ
 
@@ -2278,15 +2386,49 @@ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO 2, 3, 4, 5, 6
 
 11, 14, 15, 18, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+20.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XII-870,
+
+2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
+
+LIETUVOS
+
+RESPUBLIKOS VIEŠŲJŲ IR PRIVAČIŲ INTERESO DERINIMO VALSTYBINĖJE TARNYBOJE
+
+ĮSTATYMO NR. VIII-371 2, 4, 5, 6, 10 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šio įstatymo 2
+
+straipsnyje išdėstytoje Lietuvos Respublikos viešųjų ir privačių interesų
+
+derinimo valstybinėje tarnyboje įstatymo 4 straipsnio 1 dalyje nurodyti
+
+ministerijų kolegijų nariai, Privalomojo sveikatos draudimo tarybos nariai,
+
+gydytojai, odontologai ir farmacijos specialistai, kurie nėra pateikę privačių
+
+interesų deklaracijos, šią deklaraciją pateikia Lietuvos Respublikos viešųjų ir
+
+privačių interesų derinimo valstybinėje tarnyboje įstatymo nustatyta tvarka iki
+
+2015 m. kovo 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušra Bodin (2012-06-27)
+Aušrinė Trapinskienė (2014-05-14)
 
-aubodi@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
 25 straipsnis. Įstatymo įgyvendinimas
 
