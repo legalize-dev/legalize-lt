@@ -4,7 +4,7 @@ identifier: "TAR.9D1ADB9E1518"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-09-25"
-last_updated: "2014-01-07"
+last_updated: "2014-05-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 department: "Lietuvos Respublikos Seimas"
@@ -97,6 +97,16 @@ pagamintos. Jei tokios daugkartinės pakuotės daugiau nebenaudojamos pagal
 
 paskirtį, jos tampa pakuočių atliekomis.
 
+Papildoma nuo
+
+2016-02-01:
+
+21.
+
+Daugkartinė pakuotė – pakuotė, skirta naudoti pagal paskirtį daugiau negu
+
+vieną kartą.
+
 3. Energijos gavyba – degių pakuočių
 
 atliekų naudojimas energijai gauti, jas deginant atskirai ar kartu su kitomis
@@ -155,9 +165,9 @@ taip pat pakuočių ir pakuočių atliekų, susidarančių gaminant, parduodant,
 
 kitaip platinant, naudojant ar šalinant supakuotus (sufasuotus) produktus,
 
-kiekio ir kenksmingumo aplinkai mažinimas, pirmiausia siekiant kurti aplinkos neteršiančius
+kiekio ir kenksmingumo aplinkai mažinimas, pirmiausia siekiant kurti aplinkos
 
-produktus ir technologijas.
+neteršiančius produktus ir technologijas.
 
 11.
 
@@ -235,7 +245,9 @@ pardavėjas – asmuo,
 
 parduodantis kitiems asmenims gamintojų ir importuotojų Lietuvos
 
-Respublikos vidaus rinkai tiekiamas pakuotes ir supakuotus (sufasuotus) produktus.
+Respublikos vidaus rinkai tiekiamas pakuotes ir supakuotus (sufasuotus)
+
+produktus.
 
 18. Pakuočių
 
@@ -367,7 +379,51 @@ gaminio pakuotę siekiant užtikrinti, kad pakuotė bus grąžinta gamintojui ir
 
 Įstatymo 3 straipsnyje nustatytų pakuočių atliekų tvarkymo prioritetų.
 
+Redakcija nuo
+
+2016-02-01:
+
+27. Užstatas –
+
+pinigų suma, pateikta už gaminio pakuotę siekiant užtikrinti, kad pakuotės ar
+
+jų atliekos bus grąžintos gamintojui ir (ar) importuotojui ir naudojamos
+
+pakartotinai ar tvarkomos vadovaujantis šio įstatymo 3 straipsnyje nustatytais
+
+pakuočių atliekų tvarkymo prioritetais.
+
 28. Kitos šiame įstatyme vartojamos
+
+sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos atliekų
+
+tvarkymo įstatyme.
+
+Redakcija 28-30
+
+dalių nuo 2016-02-01:
+
+28. Užstato
+
+sistema – visuma organizacinių, administracinių, finansinių, informacinių
+
+ir kitų priemonių, įgyvendinamų užstato sistemos administratoriaus, siekiant,
+
+kad pakuočių vartotojams būtų grąžintas gaminių, už kurių pakuotę nustatytas
+
+užstatas, pardavimo metu sumokėtas užstatas, gamintojams ir (ar) importuotojams
+
+grąžintos daugkartinės pakuotės būtų pakartotinai panaudotos, o vienkartinių
+
+pakuočių atliekos būtų sutvarkytos vadovaujantis šio įstatymo 3 straipsnyje
+
+nustatytais pakuočių atliekų tvarkymo prioritetais.
+
+29.
+
+Vienkartinė pakuotė – pakuotė, skirta naudoti pagal paskirtį vieną kartą.
+
+30. Kitos šiame įstatyme vartojamos
 
 sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos atliekų
 
@@ -394,6 +450,12 @@ Nr. XI-1893,
 Nr. XII-545,
 
 2013-10-08, Žin., 2013, Nr. 110-5429 (2013-10-19)
+
+Nr.
+
+XII-864,
+
+2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
 
 3
 
@@ -463,11 +525,11 @@ atsižvelgiant į pakuočių ir pakuočių atliekų tvarkymo prioritetus, išvar
 
 būti projektuojamos, gaminamos, parduodamos taip, kad jas būtų galima
 
-pakartotinai naudoti, perdirbti ar kitaip panaudoti ir sumažinti
+pakartotinai naudoti, perdirbti ar kitaip panaudoti ir sumažinti neigiamą
 
-neigiamą poveikį aplinkai šalinant pakuočių atliekas ir (ar) pakuočių atliekų
+poveikį aplinkai šalinant pakuočių atliekas ir (ar) pakuočių atliekų apdorojimo
 
-apdorojimo liekanas.
+liekanas.
 
 3. Pakuotės turi
 
@@ -489,13 +551,17 @@ patektų kiek galima mažiau pakuotėse ar jų sudedamosiose dalyse esančių
 
 kenksmingų ir kitų pavojingų medžiagų. Ribinį leistiną kenksmingų medžiagų
 
-kiekį pakuotėse ir kenksmingų medžiagų kiekio kontrolės tvarką nustato
+kiekį pakuotėse ir kenksmingų medžiagų kiekio kontrolės tvarką nustato Vyriausybė
 
-Vyriausybė arba jos įgaliota institucija.
+arba jos įgaliota institucija.
 
-5. Lietuvos Respublikos
+5. Lietuvos
 
-vidaus rinkai gali būti tiekiamos tik tos pakuotės, kurios atitinka visus šiame įstatyme pakuotėms
+Respublikos vidaus rinkai gali būti tiekiamos tik tos pakuotės, kurios atitinka
+
+visus šiame
+
+įstatyme pakuotėms
 
 (įskaitant
 
@@ -519,9 +585,9 @@ pakeitimai:
 
 Nr.
 
-XI-1627,
+XI-1627, 2011-11-03,
 
-2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
+Žin., 2011, Nr. 138-6526 (2011-11-17)
 
 41
 
@@ -539,9 +605,9 @@ naudojimo pakuotės turi būti pagamintos taip, kad įprastomis naudojimo
 
 sąlygomis būtų įmanoma jas transportuoti ir naudoti keletą kartų.
 
-2. Turi būti įmanoma panaudotas pakartotinio naudojimo
+2. Turi būti įmanoma panaudotas pakartotinio
 
-pakuotes paruošti
+naudojimo pakuotes paruošti
 
 pakartotiniam naudojimui (išplauti, dezinfekuoti) nesukeliant pavojaus aplinkai
 
@@ -553,79 +619,13 @@ naudojimo pakuotėms tapus atliekomis, šios turi atitikti šio įstatymo 42
 
 straipsnyje nustatytus pakuočių atliekų naudojimo reikalavimus.
 
-Įstatymas
+Redakcija nuo
 
-papildytas straipsniu:
+2016-02-01:
 
-Nr.
+Šio įstatymo 3 straipsnis įsigalioja
 
-XI-1627,
-
-2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
-
-42
-
-straipsnis. Pakuočių
-
-atliekų naudojimo
-
-reikalavimai
-
-1. Energijai
-
-gauti gali būti naudojamos tos pakuočių atliekos, kurios turi bent minimalų
-
-kaloringumą, leidžiantį optimizuoti energijos išgavimą.
-
-2. Pakuočių
-
-atliekos gali būti kompostuojamos, jeigu joms biologiškai skylant neigiamai
-
-neveikiamas atskiras atliekų surinkimas, kompostavimas ar kita veikla.
-
-3. Biologiškai
-
-skaidžios pakuočių atliekos turi fiziškai, chemiškai, termiškai ir biologiškai
-
-suirti taip, kad didžioji pagaminto komposto dalis galėtų skaidytis į anglies
-
-dioksidą, biomasę ir vandenį.
-
-Įstatymas
-
-papildytas straipsniu:
-
-Nr.
-
-XI-1627,
-
-2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
-
-3 straipsnis. Pakuočių
-
-ir pakuočių atliekų tvarkymo prioritetai
-
-Ūkinės veiklos vykdytojai privalo vadovautis šiais
-
-pagal svarbą išdėstytais prioritetais:
-
-1) naudoti visas galimas prevencijos priemones
-
-pakuočių atliekų susidarymui mažinti;
-
-2) pakartotinai naudoti pakuotes;
-
-3) perdirbti susidariusias pakuočių atliekas ir
-
-gauti iš jų naudoti tinkamus gaminius arba antrines žaliavas, tinkamas tokiems
-
-gaminiams gaminti;
-
-4) naudoti pakuočių atliekas energijai gauti;
-
-5) saugiai šalinti susidariusias pakuočių atliekas,
-
-kad jos nekeltų pavojaus aplinkai bei žmonių sveikatai.
+2015 m. vasario 1 d.
 
 4 straipsnis.
 
@@ -699,6 +699,30 @@ gaminių pakuotes žymėti tam tikru ženklu.
 
 (ar) gamintojas.
 
+Redakcija nuo 2015-02-01:
+
+3. Gamintojai ir
+
+importuotojai, tiekdami Lietuvos Respublikos vidaus rinkai gaminius, už kurių
+
+pakuotę nustatytas užstatas pagal šio įstatymo 11 straipsnio 1 ar 2 dalį,
+
+privalo pakuotę pažymėti pakuotės gamintoją ar importuotoją identifikuojančiu
+
+brūkšniniu kodu ir atitinkamos užstato sistemos taikymą nurodančiu ženklu.
+
+Ženklas turi būti visuotinis Lietuvos Respublikos teritorijoje. Atitinkamos
+
+užstato sistemos taikymo pakuotei ženklo formą atitinkamos užstato sistemos
+
+administratoriaus (administratorių) teikimu ir pakuotės ženklinimo tokiu ženklu
+
+tvarką nustato aplinkos ministras.
+
+4. Ant gaminio pakuotės turi būti nurodytas gaminio importuotojas ir
+
+(ar) gamintojas.
+
 Straipsnio
 
 pakeitimai:
@@ -706,6 +730,12 @@ pakeitimai:
 Nr. X-286, 2005-06-30,
 
 Žin., 2005, Nr. 86-3206 (2005-07-16)
+
+Nr.
+
+XII-864,
+
+2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
 
 6 straipsnis. Pakuočių ir pakuočių atliekų apskaita
 
@@ -755,6 +785,26 @@ tokių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų
 
 tvarkymo sistemose;
 
+Redakcija nuo
+
+2016-02-01:
+
+2) organizuoti
+
+rūšiuojamąjį surinkimą, vežimą, paruošimą naudoti, naudojimą visų pakuočių
+
+atliekų, kurios susidarė naudojant gamintojų ir importuotojų tiektus Lietuvos
+
+Respublikos vidaus rinkai supakuotus gaminius, ir (ar) dalyvauti organizuojant
+
+tokių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų
+
+tvarkymo sistemose ir, jeigu tiekia Lietuvos Respublikos vidaus rinkai
+
+gaminius, už kurių vienkartinę pakuotę pagal šio įstatymo 11 straipsnio 2 dalį
+
+nustatytas užstatas, dalyvauti užstato už vienkartines pakuotes sistemoje;
+
 3)
 
 aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę pakuočių
@@ -773,11 +823,29 @@ tvarkymo žalą aplinkai ir žmonių sveikatai, pakuočių atliekų tvarkymo gal
 
 apmokėti šios
 
-dalies 2 punkte nurodyto pakuočių atliekų surinkimo, vežimo,
+dalies 2 punkte nurodyto pakuočių atliekų surinkimo, vežimo, paruošimo
 
-paruošimo naudoti ir naudojimo išlaidas, taip pat šios dalies 3 punkte nurodyto
+naudoti ir naudojimo išlaidas, taip pat šios dalies 3 punkte nurodyto
 
 visuomenės informavimo organizavimo ir vykdymo išlaidas;
+
+Redakcija nuo
+
+2016-02-01:
+
+4) apmokėti šios
+
+dalies 2 punkte nurodyto pakuočių atliekų surinkimo, vežimo, paruošimo naudoti
+
+ir naudojimo išlaidas ir
+
+(ar) dalyvavimo užstato už vienkartines pakuotes sistemoje išlaidas, susijusias
+
+su užstato sistemoje surenkamų vienkartinių pakuočių atliekų sutvarkymu ir
+
+užstato už vienkartines pakuotes sistemos administravimu, taip pat šios dalies
+
+3 punkte nurodyto visuomenės informavimo organizavimo ir vykdymo išlaidas;
 
 5) tvarkyti pakuočių apskaitą ir atsiskaityti aplinkos ministro nustatyta tvarka.
 
@@ -839,7 +907,27 @@ nustatytų pareigų arba organizacijai sutartiniais pagrindais pavesdami
 
 organizuoti pakuočių atliekų tvarkymą ir vykdyti visas ar dalį šio įstatymo
 
-nustatytų pareigų netapdami organizacijos dalyviais.
+nustatytų pareigų netapdami organizacijos dalyviais;
+
+Papildoma nuo
+
+2016-02-01:
+
+3) šio
+
+straipsnio 1 dalies 2 punkte nustatytą pareigą dalyvauti užstato už vienkartines
+
+pakuotes sistemoje,
+
+jeigu
+
+tiekia Lietuvos Respublikos vidaus rinkai gaminius, už kurių vienkartinę
+
+pakuotę pagal šio įstatymo 11 straipsnio 2 dalį nustatytas užstatas, tik pavesdami šio įstatymo 112
+
+straipsnyje nurodytam užstato už vienkartines pakuotes sistemos
+
+administratoriui organizuoti užstato už vienkartines pakuotes sistemą.
 
 6. Gamintojai ir
 
@@ -859,13 +947,29 @@ nustatyta tvarka mokėti mokestį už aplinkos teršimą tokių pakuočių atlie
 
 patvirtinančiais prekinių
 
-pakuočių atliekų surinkimą iš komunalinių atliekų tvarkymo
+pakuočių atliekų surinkimą iš komunalinių atliekų tvarkymo sistemos
 
-sistemos ir ją papildančių atliekų surinkimo sistemų, grupinių,
+ir ją papildančių atliekų surinkimo sistemų, grupinių, transporto
 
-transporto pakuočių atliekų surinkimą ir surinktų pakuočių atliekų
+pakuočių atliekų surinkimą ir surinktų pakuočių atliekų naudojimą.
 
-naudojimą.
+Redakcija nuo
+
+2016-02-01:
+
+7. Pakuočių
+
+atliekų sutvarkymas įrodomas dokumentais, patvirtinančiais pakuočių atliekų surinkimą
+
+iš komunalinių atliekų tvarkymo sistemos ir ją papildančių atliekų surinkimo
+
+sistemų, ne komunalinių atliekų sraute susidarančių pakuočių atliekų surinkimą,
+
+vienkartinių pakuočių, už kurias pagal šio įstatymo 11 straipsnio 2 dalį
+
+nustatytas užstatas, atliekų surinkimą per užstato už vienkartines
+
+pakuotes sistemą ir surinktų pakuočių atliekų naudojimą.
 
 8. Gamintojai ir
 
@@ -887,15 +991,21 @@ Nr. XI-1893,
 
 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
 
+Nr.
+
+XII-864,
+
+2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
+
 71
 
 straipsnis. Šio įstatymo 6 ir 7 straipsnių taikymo išimtys
 
-Gamintojai ir importuotojai, per ataskaitinį laikotarpį
+Gamintojai ir importuotojai, per ataskaitinį
 
-Lietuvos Respublikos vidaus rinkai tiekiantys ne daugiau kaip 0,5 tonos
+laikotarpį Lietuvos Respublikos vidaus rinkai tiekiantys ne daugiau kaip 0,5
 
-pakuočių, atleidžiami nuo šio įstatymo 6 straipsnyje nustatytos pareigos
+tonos pakuočių, atleidžiami nuo šio įstatymo 6 straipsnyje nustatytos pareigos
 
 atsiskaityti ir nuo šio įstatymo 7 straipsnio 3 dalyje nustatytos pareigos
 
@@ -933,6 +1043,108 @@ pardavėjai prekybos vietose turi teikti informaciją apie tai, kaip pakuočių
 
 vartotojai gali grąžinti pakuotes ir pakuočių atliekas.
 
+Redakcija nuo
+
+2016-02-01:
+
+8
+
+straipsnis. Pakuočių pardavėjų pareigos užstato sistemoje
+
+1. Daugkartinių
+
+pakuočių pardavėjai privalo priimti daugkartines pakuotes, už kurias nustatytas
+
+užstatas, ir grąžinti užstatą, išskyrus pakuočių pardavėjus, prekiaujančius
+
+smulkiose parduotuvėse, kurių bendrasis plotas neviršija 90 kv. m (neskaitant
+
+kaimo parduotuvių), ir prekyvietėse, kioskuose, degalinėse, viešojo maitinimo
+
+įstaigose. Daugkartinių pakuočių pardavėjai, kuriems taikoma šioje dalyje
+
+numatyta išimtis, gali savo pasirinkimu dalyvauti užstato už daugkartines
+
+pakuotes sistemoje.
+
+2. Vienkartinių
+
+pakuočių pardavėjai privalo priimti vienkartinių pakuočių, už kurias pagal šio įstatymo 11
+
+straipsnio 2 dalį nustatytas
+
+užstatas, atliekas ir grąžinti užstatą, išskyrus pakuočių pardavėjus,
+
+prekiaujančius parduotuvėse, kurių prekybos plotas neviršija 300 kv. m
+
+(neskaitant kaimo parduotuvių), ir prekyvietėse, kioskuose, degalinėse, viešojo
+
+maitinimo įstaigose. Vienkartinių pakuočių pardavėjai, kuriems taikoma šioje
+
+dalyje numatyta išimtis, gali savo pasirinkimu dalyvauti užstato už vienkartines
+
+pakuotes sistemoje.
+
+3. Daugkartinių
+
+pakuočių pardavėjai, nurodyti šio straipsnio 1 dalyje, privalo priimti visas
+
+pakuotes, už kurias pagal šio įstatymo 11 straipsnio 1 dalį nustatytas
+
+užstatas, ir grąžinti užstatą, nepaisant to, ar parduoda gaminius, supakuotus į
+
+tapačią pakuotę, ar ne. Vienkartinių pakuočių pardavėjai, nurodyti šio
+
+straipsnio 2 dalyje, privalo priimti visas pakuočių, už kurias pagal šio įstatymo 11
+
+straipsnio 2 dalį nustatytas
+
+užstatas, atliekas ir grąžinti užstatą, nepaisant to, ar parduoda gaminius,
+
+supakuotus į tapačią pakuotę, ar ne.
+
+4. Šio
+
+straipsnio 1 ir 2 dalyse nurodyti pakuočių pardavėjai turi organizuoti
+
+daugkartinių pakuočių ir (ar) vienkartinių pakuočių atliekų priėmimą ir užstato
+
+grąžinimą prekybos vietose ar teritorijose arba arti jų, tačiau ne didesniu
+
+kaip 150 m atstumu nuo prekybos vietų, užtikrindami tokias pačias kaip prekybos
+
+vietų darbo valandas.
+
+5. Užstatas už
+
+parduodamų gaminių pakuotes pakuočių vartotojams turi būti grąžinamas
+
+grynaisiais pinigais arba
+
+pakuočių vartotojų pageidavimu jiems suteikiama teisė įsigyti prekių ar paslaugų
+
+arba skirti paramą Lietuvos Respublikos labdaros ir paramos įstatyme numatytiems
+
+paramos gavėjams (išskyrus
+
+užstato sistemos administratorių) už sumą, lygią užstato dydžiui.
+
+6. Pakuočių
+
+pardavėjai, prekybos vietose parduodami gaminius, už kurių pakuotes nustatytas
+
+užstatas, turi nurodyti užstato dydį kainos etiketėje.
+
+7. Pakuočių
+
+pardavėjai, prekybos vietose parduodami gaminius, už kurių pakuotes nustatytas
+
+užstatas, turi teikti rašytinę informaciją (ne mažesniame kaip A3 formato
+
+(420 x 297 mm) plakate) apie tai, kaip pakuočių vartotojai gali grąžinti
+
+daugkartines pakuotes ir vienkartinių pakuočių atliekas.
+
 Straipsnio
 
 pakeitimai:
@@ -943,13 +1155,19 @@ Nr. X-1565,
 
 Nr.
 
-XI-1627,
+XI-1627, 2011-11-03,
 
-2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
+Žin., 2011, Nr. 138-6526 (2011-11-17)
 
 Nr. XI-1893,
 
 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
+
+Nr.
+
+XII-864,
+
+2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
 
 Šio įstatymo 9 straipsnis įsigalioja
 
@@ -957,23 +1175,25 @@ Nr. XI-1893,
 
 4.
 
-Lietuvos Respublikos Seimas,
+Lietuvos
 
-Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. XI-1893,
+Nr.
+
+XI-1893,
 
 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
 
-PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ
+PAKUOČIŲ
 
-TVARKYMO ĮSTATYMO 2, 6, 7, 8, 9, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI
+IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 2, 6, 7, 8, 9, 10 STRAIPSNIŲ PAKEITIMO IR
 
-ĮSTATYMO PAPILDYMO 7(1) STRAIPSNIU ĮSTATYMAS
+PAPILDYMO BEI ĮSTATYMO PAPILDYMO 7(1) STRAIPSNIU ĮSTATYMAS
 
-Šio įstatymo 3 ir 7 straipsniai
+Šio
 
-įsigalioja 2013 m. sausio 1 d.
+įstatymo 3 ir 7 straipsniai įsigalioja 2013 m. sausio 1 d.
 
 5.
 
@@ -1001,31 +1221,65 @@ LIETUVOS RESPUBLIKOS PAKUOČIŲ IR
 
 PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-***
+7.
 
-Pabaiga ***
+Lietuvos
 
-Redagavo
+Respublikos Seimas, Įstatymas
 
-Aušrinė Trapinskienė (2014-01-07)
+Nr.
 
-ausrine.trapinskiene@lrs.lt
+XII-864,
+
+2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
+
+LIETUVOS
+
+RESPUBLIKOS PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO NR. IX-517 2, 4-1,
+
+5, 7, 8, 10, 11, 12, 13 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 11-1, 11-2,
+
+12-1, 12-2, 12-3 STRAIPSNIAIS ĮSTATYMAS
+
+Šis įstatymas, išskyrus šio straipsnio
+
+2, 3, 4, 5, 6 dalis ir šio įstatymo 6 straipsnį, įsigalioja 2016 m.
+
+vasario 1 d.
 
 10 straipsnis. Kolektyvaus pakuočių atliekų tvarkymo organizavimo
 
 reikalavimai
 
-1. Siekdami kolektyviai
+1. Siekdami
 
-organizuoti pakuočių atliekų tvarkymą, gamintojai ir importuotojai gali steigti
+kolektyviai organizuoti pakuočių atliekų tvarkymą, gamintojai ir importuotojai
 
-gamintojų ir importuotojų organizaciją (toliau – organizacija) ir (ar) tapti
+gali steigti gamintojų ir importuotojų organizaciją (toliau – organizacija) ir
 
-įsteigtos organizacijos dalyviais arba organizacijai pavesti organizuoti
+(ar) tapti įsteigtos organizacijos dalyviais arba organizacijai pavesti
 
-pakuočių atliekų tvarkymą ir vykdyti visas ar dalį šio įstatymo nustatytų
+organizuoti pakuočių atliekų tvarkymą ir vykdyti visas ar dalį šio įstatymo
 
-pareigų netapdami organizacijos dalyviais.
+nustatytų pareigų netapdami organizacijos dalyviais. Gamintojai ir
+
+importuotojai, siekiantys organizuoti pakuočių atliekų tvarkymą kolektyviai,
+
+privalo kiekvienais metais iki gruodžio 1 dienos pavesti organizacijai
+
+organizuoti pakuočių atliekų tvarkymą ateinantiems kalendoriniams metams
+
+(išskyrus atvejus, kai gamintojas ar importuotojas ūkinę veiklą pradeda vykdyti
+
+po gruodžio 1 dienos. Šiuo atveju gamintojai ir importuotojai organizacijai
+
+privalo pavesti pareigų vykdymą per vieną mėnesį nuo registravimo Gamintojų ir
+
+importuotojų sąvade dienos). Gamintojai ir importuotojai, pavedę vykdyti savo
+
+pareigas vienai organizacijai, negali pavesti savo pareigų vykdymo kitai
+
+organizacijai einamųjų kalendorinių metų laikotarpiu.
 
 2. Organizacija
 
@@ -1039,15 +1293,19 @@ veikia, gamintojai ir importuotojai jos veikloje dalyvauja Atliekų tvarkymo
 
 atliekų tvarkymo organizavimo licencija gali būti išduodama tik tai
 
-organizacijai, kuriai organizuoti pakuočių atliekų tvarkymą kaip jos
+organizacijai, kuriai organizuoti pakuočių atliekų tvarkymą kaip jos dalyviai
 
-dalyviai ar
-
-sutartiniais pagrindais pavedė ne mažiau kaip 10 procentų visų Lietuvos
+ar sutartiniais pagrindais pavedė ne mažiau kaip 10 procentų visų Lietuvos
 
 Respublikos vidaus rinkai tiekiamų pakuočių tiekiantys gamintojai ir
 
-importuotojai.
+importuotojai. Organizacija, gavusi licenciją ir sudariusi visas šio straipsnio
+
+4 dalies 1 ir 2 punktuose numatytas sutartis, gamintojų ir importuotojų
+
+pareigas, nurodytas šio įstatymo 7 straipsnio 1 dalies 2, 3 ir 4 punktuose,
+
+gali pradėti vykdyti nuo kalendorinių metų sausio 1 dienos.
 
 4. Siekdama
 
@@ -1077,27 +1335,31 @@ finansavimo tvarka, komunalinių atliekų sraute susidarančių pakuočių atlie
 
 surinkėjų parinkimo tvarka;
 
-2) pakuočių
+2) ne vėliau
 
-atliekų tvarkymo organizavimo sutartis su visomis savivaldybėmis (arba
+kaip iki einamųjų kalendorinių metų I ketvirčio pabaigos pakuočių atliekų
 
-savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti
+tvarkymo organizavimo sutartis su visomis savivaldybėmis (arba savivaldybių
 
-komunalinių atliekų tvarkymo sistemą) ir pagal šios dalies 1 punkte nurodytose
+įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių
 
-sutartyse nustatytą tvarką parinktais atliekų surinkėjais dėl komunalinių
+atliekų tvarkymo sistemą) ir pagal šios dalies 1 punkte nurodytose sutartyse
 
-atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo, vežimo,
+nustatytą tvarką parinktais atliekų surinkėjais dėl komunalinių atliekų sraute
 
-paruošimo naudoti ir naudojimo. Šiose sutartyse turi būti numatyta komunalinių
+susidarančių pakuočių atliekų rūšiuojamojo surinkimo, vežimo, paruošimo naudoti
 
-atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo, vežimo,
+ir naudojimo. Šiose sutartyse turi būti numatyta komunalinių atliekų sraute
 
-paruošimo naudoti, naudojimo finansavimo (išlaidų apmokėjimo) tvarka, pakuočių
+susidarančių pakuočių atliekų rūšiuojamojo surinkimo, vežimo, paruošimo
 
-atliekų sutvarkymą patvirtinančių dokumentų pateikimo tvarka ir sutartinių
+naudoti, naudojimo finansavimo (išlaidų apmokėjimo) tvarka, pakuočių atliekų
 
-įsipareigojimų vykdymo kontrolės tvarka;
+sutvarkymą patvirtinančių dokumentų pateikimo tvarka ir sutartinių
+
+įsipareigojimų vykdymo kontrolės tvarka. Esant daugiau nei vienai
+
+organizacijai, šiame punkte nurodytos sutartys pasirašomos vienodomis sąlygomis;
 
 3) su pagal
 
@@ -1121,13 +1383,13 @@ rūšiuojamasis surinkimas, vežimas ir paruošimas naudoti visose Lietuvos
 
 Respublikos savivaldybėse). Šiose sutartyse turi būti numatyta apmokėjimo už ne
 
-komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamąjį surinkimą,
+komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamąjį
 
-vežimą, paruošimą naudoti, naudojimą tvarka, ne komunalinių atliekų sraute
+surinkimą, vežimą, paruošimą naudoti, naudojimą tvarka, ne komunalinių atliekų
 
-susidarančių pakuočių atliekų sutvarkymą patvirtinančių dokumentų pateikimo
+sraute susidarančių pakuočių atliekų sutvarkymą patvirtinančių dokumentų
 
-tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka.
+pateikimo tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka.
 
 5. Organizacija šio straipsnio 4
 
@@ -1221,13 +1483,21 @@ Nr. X-286, 2005-06-30,
 
 Žin., 2005, Nr. 86-3206 (2005-07-16)
 
-Nr. XI-1893,
+Nr. XI-1893, 2011-12-22,
 
-2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
+Žin., 2012, Nr. 6-191 (2012-01-10)
 
-Nr. XII-714,
+Nr.
+
+XII-714,
 
 2013-12-19, paskelbta TAR 2014-01-06, i. k. 2014-00038
+
+Nr.
+
+XII-864, 2014-05-08,
+
+paskelbta TAR 2014-01-21, i. k. 2014-05579
 
 11 straipsnis. Užstatai už
 
@@ -1253,6 +1523,204 @@ naudojimo pakuotė gali būti nepriimama ir užstatas negrąžinamas, jeigu ji
 
 pažeista ar užteršta tiek, kad nebegali būti naudojama pakartotinai.
 
+Redakcija nuo
+
+2016-02-01:
+
+11
+
+straipsnis. Užstatai už pakuotes
+
+1. Gamintojai ir
+
+importuotojai privalo imti užstatą iš pakuočių platintojų ar pakuočių pardavėjų
+
+ir jį grąžinti pakuočių pardavėjams, kai šie grąžina pakuotes, jeigu tiekia
+
+Lietuvos Respublikos vidaus rinkai gaminius, supakuotus į daugkartinę pakuotę,
+
+kuriai taikoma užstato už daugkartines pakuotes sistema. Užstato už
+
+daugkartines pakuotes sistema taikoma toms daugkartinėms pakuotėms, apie kurias
+
+gamintojų ir importuotojų pageidavimu Vyriausybės nustatyta tvarka paskelbia
+
+aplinkos ministras.
+
+2. Gamintojai ir
+
+importuotojai privalo imti užstatą iš pakuočių platintojų ar pakuočių pardavėjų
+
+ir jį grąžinti pakuočių pardavėjams, kai šie grąžina pakuočių atliekas,
+
+jeigu tiekia Lietuvos Respublikos vidaus rinkai alų, alaus kokteilius, sidrą,
+
+kriaušių sidrą, vaisių vyną, vaisių vyno kokteilius, vaisių vyno gėrimus, kitus
+
+fermentuotus gėrimus, alkoholinius kokteilius ir nealkoholinius gėrimus
+
+(gaiviuosius gėrimus, stalo vandenį, girą), natūralų mineralinį vandenį,
+
+šaltinio vandenį, fasuotą geriamąjį vandenį, sultis, nektarą, supakuotus į šią
+
+prekinę vienkartinę pakuotę, kurios talpa didesnė negu viena dešimtoji litro,
+
+bet mažesnė negu trys litrai:
+
+1) stiklinę;
+
+2) plastikinę;
+
+3) metalinę.
+
+3.
+
+Gamintojai ir importuotojai užstato neima, jeigu:
+
+1) šio straipsnio 2
+
+dalyje nurodytus gaminius parduoda oro, vandens,
+
+kelių, geležinkelių transporto priemonių, priklausančių Lietuvos Respublikos
+
+jurisdikcijai ir vežančių keleivius tarptautiniais maršrutais, valdytojams ar
+
+naudotojams ir šie gėrimai yra skirti parduoti ir (arba) vartoti nurodytų
+
+transporto priemonių keleiviams;
+
+2) patys arba per
+
+trečiuosius asmenis iš Lietuvos Respublikos teritorijos išveža arba eksportuoja
+
+gaminius, kurių pakuotėms taikoma užstato sistema pagal šio straipsnio
+
+1 ar 2 dalį;
+
+3) vienkartinės
+
+pakuotės talpa mažesnė negu viena dešimtoji litro
+
+arba lygi trims litrams ir didesnė negu trys litrai.
+
+4. Pakuočių
+
+platintojai, platindami gaminius, už kurių pakuotę nustatytas užstatas, privalo
+
+imti užstatą iš pakuočių pardavėjų.
+
+5. Pakuočių
+
+pardavėjai, parduodami gaminius, už kurių pakuotę nustatytas užstatas, privalo
+
+imti užstatą iš pakuočių vartotojų.
+
+6. Daugkartinė
+
+pakuotė gali būti nepriimama ir užstatas negrąžinamas, jeigu ji:
+
+1) nepažymėta
+
+užstato už daugkartines pakuotes sistemos taikymą nurodančiu ženklu arba toks
+
+ženklas nėra aiškiai matomas ir dėl to jo negalima identifikuoti ir (ar)
+
+2) pažeista ar
+
+užteršta tiek, kad nebegali būti naudojama pakartotinai.
+
+7. Vienkartinės
+
+pakuotės, kuriai taikoma užstato už vienkartines pakuotes sistema, atliekos
+
+priimamos, bet užstatas gali būti negrąžinamas, jeigu:
+
+1) jos nepažymėtos
+
+užstato už vienkartines pakuotes sistemos taikymą nurodančiu ženklu arba toks
+
+ženklas nėra aiškiai matomas ir dėl to jo negalima identifikuoti ir (ar)
+
+2) jos
+
+nepažymėtos brūkšniniu kodu arba brūkšninis kodas yra pažeistas ir dėl to
+
+negalima identifikuoti gamintojo ar importuotojo, ir (ar);
+
+3) jos
+
+nevisiškai ištuštintos, ir (ar);
+
+4) jų forma yra
+
+pakitusi tiek, kad techniškai neįmanoma jų identifikuoti.
+
+8. Gamintojai ir
+
+importuotojai, kurių gaminių pakuotėms taikoma užstato sistema, taip pat
+
+pakuočių platintojai ar pakuočių pardavėjai, platindami ar parduodami gaminius
+
+šiose pakuotėse, turi apskaitos dokumentuose atskirai nurodyti gaminio kainą ir
+
+pakuotės užstato dydį.
+
+9. Užstato už
+
+daugkartinę pakuotę, kuriai pagal šio straipsnio 1 dalį taikoma užstato
+
+sistema, dydį ne trumpesniam kaip vienų metų terminui, atsižvelgdamas į užstato
+
+už daugkartines pakuotes sistemos administratoriaus (administratorių) siūlymus,
+
+tvirtina aplinkos ministras. Užstato už vienkartinę pakuotę, kuriai pagal šio
+
+straipsnio 2 dalį taikoma užstato sistema, dydį ne trumpesniam kaip vienų metų
+
+terminui, atsižvelgdamas į užstato už vienkartines pakuotes sistemos
+
+administratoriaus (administratorių) siūlymus, tvirtina aplinkos ministras.
+
+10. Užstato
+
+dydis turi būti nustatomas toks, kad skatintų pakuočių vartotojus grąžinti
+
+daugkartinę pakuotę ar vienkartinių pakuočių atliekas.
+
+11. Gamintojai
+
+ir importuotojai ne trumpiau kaip vienus metus nuo Vyriausybės nustatyta tvarka
+
+aplinkos ministro atsižvelgiant į gamintojo ar importuotojo pageidavimą priimto
+
+sprendimo dėl užstato sistemos netaikymo atitinkamoms daugkartinėms pakuotėms
+
+įsigaliojimo privalo priimti iš pakuočių pardavėjų, taip pat pakuočių
+
+pardavėjai – iš pakuočių vartotojų tuščias tokias daugkartines pakuotes ir
+
+grąžinti užstatą atsižvelgdami į šio straipsnio 6 dalies nuostatas.
+
+12. Gaminių,
+
+supakuotų į pakuotes, kurioms taikoma užstato sistema pagal šio straipsnio 1 ar
+
+2 dalį, gamintojas ir (ar) importuotojas ne trumpiau kaip vienus metus nuo
+
+tiekimo Lietuvos Respublikos vidaus rinkai nutraukimo privalo priimti iš
+
+pakuočių pardavėjų, taip pat pakuočių pardavėjai – iš pakuočių vartotojų
+
+tuščias tokias daugkartines pakuotes ar vienkartinių pakuočių atliekas ir
+
+grąžinti užstatą atsižvelgdami į šio straipsnio 6 ar 7 dalies nuostatas. Išimtis
+
+taikoma tam gamintojui ir (ar) importuotojui, kuris įrodo, kad priėmė iš
+
+pardavėjų tokį šių nebenaudojamų pakuočių kiekį, kokį buvo išleidęs į apyvartą,
+
+ir grąžino pardavėjams užstatą.
+
 Straipsnio
 
 pakeitimai:
@@ -1261,6 +1729,328 @@ Nr. X-1565,
 
 2008-06-03, Žin., 2008, Nr. 71-2699 (2008-06-21)
 
+Nr.
+
+XII-864,
+
+2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
+
+Papildyta nuo
+
+2016-02-01:
+
+111
+
+straipsnis. Užstato už daugkartines pakuotes sistemos administratorius
+
+Gaminių, už
+
+kurių daugkartinę pakuotę nustatytas užstatas, gamintojai, importuotojai ir
+
+pardavėjai gali paskirti užstato už daugkartines pakuotes sistemos
+
+administratorių šioms funkcijoms atlikti:
+
+1) valdyti
+
+užstato taikymą visose užstato sistemos grandyse;
+
+2) organizuoti
+
+daugkartinių pakuočių tvarkymo išlaidų padengimą tokių pakuočių pardavėjams;
+
+3) rengti ir
+
+teikti daugkartinių pakuočių pardavėjams informaciją apie daugkartinių
+
+pakuočių, už kurias privaloma imti užstatą, rūšis, užstato dydžius, pakuočių
+
+priėmimo ir užstato grąžinimo, pakuočių apskaitos tvarką.
+
+Papildyta
+
+straipsniu:
+
+Nr.
+
+XII-864,
+
+2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
+
+Papildyta nuo
+
+2014-10-01:
+
+112
+
+straipsnis. Užstato už vienkartines pakuotes sistemos administratorius
+
+1. Užstato už
+
+vienkartines pakuotes sistemos administratorius – pelno nesiekiantis viešasis
+
+juridinis asmuo, įsteigtas vadovaujantis Lietuvos Respublikos asociacijų
+
+įstatymo ar Lietuvos Respublikos viešųjų įstaigų įstatymo nustatyta tvarka.
+
+2. Užstato už
+
+vienkartines pakuotes sistemos administratorius atlieka šias funkcijas:
+
+1) administruoja
+
+užstatą už vienkartines pakuotes, dalyvauja organizuojant šių pakuočių atliekų
+
+priėmimą;
+
+2) organizuoja
+
+užstato sistemoje surinktų vienkartinių pakuočių atliekų sutvarkymą, viešo
+
+konkurso būdu parinkdamas atliekų tvarkytojus, kurie perdirba užstato sistemoje
+
+surinktas vienkartinių pakuočių atliekas, užtikrindamas nustatytų pakuočių, už
+
+kurias privaloma imti užstatą, atliekų surinkimo ir perdirbimo užduočių
+
+įvykdymą;
+
+3) vykdo
+
+visuomenės švietimą ir informavimą užstato už vienkartines pakuotes sistemos
+
+klausimais;
+
+4) aprūpina šio
+
+įstatymo 8 straipsnio 2 dalyje nurodytus pakuočių pardavėjus pakuočių atliekoms
+
+priimti skirtomis priemonėmis (tarp jų ir priemonėmis, užtikrinančiomis
+
+automatizuotą (nedalyvaujant žmogui) pakuočių atliekų priėmimą bei užstato
+
+grąžinimą), kurios turi būti parinktos atsižvelgiant į parduotuvės prekybos
+
+plotą ir parduotuvėje surenkamų pakuočių atliekų kiekį. Užstato už vienkartines
+
+pakuotes sistemos administratorius savo lėšomis užtikrina automatizuoto
+
+(nedalyvaujant žmogui) pakuočių atliekų priėmimo priemonių remontą ir techninę
+
+priežiūrą arba
+
+kompensuoja šio įstatymo 8 straipsnio 2 dalyje nurodytiems pakuočių pardavėjams
+
+jų įsigytų ir (ar) išsinuomotų automatizuoto (nedalyvaujant žmogui) pakuočių
+
+atliekų priėmimo priemonių, atitinkančių užstato už vienkartines pakuotes
+
+sistemos administratoriaus nustatytus techninius reikalavimus, remonto bei
+
+techninės priežiūros sąnaudas;
+
+5) kompensuoja šio
+
+įstatymo 8 straipsnio 2 dalyje nurodytiems pakuočių pardavėjams jų patiriamas
+
+teisės aktų nustatytų pareigų užstato už vienkartines pakuotes sistemoje
+
+vykdymo sąnaudas, susijusias su vienkartinių pakuočių, už kurias nustatytas
+
+užstatas, atliekų priėmimu (įskaitant šių pardavėjų patirtas sąnaudas,
+
+susijusias su automatizuoto (nedalyvaujant žmogui) pakuočių atliekų priėmimo
+
+priemonių, atitinkančių užstato už vienkartines pakuotes sistemos
+
+administratoriaus nustatytus techninius reikalavimus, įsigijimu ir (ar) nuoma),
+
+užstato grąžinimu ir visuomenės informavimu;
+
+6) atlieka kitas
+
+šiame įstatyme užstato už vienkartines pakuotes sistemos administratoriui numatytas
+
+ir sutartimis su gamintojais ir importuotojais, Lietuvos Respublikos rinkai
+
+tiekiančiais gaminius, supakuotus į vienkartinę pakuotę, už kurią nustatytas
+
+užstatas, ir šio
+
+įstatymo 8 straipsnio 2 dalyje nurodytais pakuočių pardavėjais pavestas funkcijas.
+
+3. Asmuo,
+
+siekiantis vykdyti užstato už vienkartines pakuotes sistemos administratoriaus
+
+veiklą, turi turėti:
+
+1) susitarimais
+
+su šio įstatymo 11 straipsnio 2 dalyje nurodytais gamintojais ir importuotojais
+
+grindžiamas finansines galimybes atlikti šio straipsnio 2 dalyje nurodytas
+
+užstato už vienkartines pakuotes sistemos administratoriaus funkcijas visoje
+
+Lietuvos Respublikos teritorijoje;
+
+2) susitarimais
+
+su šio įstatymo 8 straipsnio 2 dalyje nurodytais pakuočių pardavėjais
+
+grindžiamas galimybes atlikti šio straipsnio 2 dalyje nurodytas užstato už
+
+vienkartines pakuotes sistemos administratoriaus funkcijas visoje Lietuvos
+
+Respublikos teritorijoje.
+
+4. Užstato už
+
+vienkartines pakuotes sistemos administratorius gali pradėti vykdyti veiklą tik
+
+turėdamas šio straipsnio 3 dalyje nustatytų reikalavimų atitiktį įrodančius
+
+šiuos aplinkos ministro atsižvelgiant į užstato už vienkartines pakuotes
+
+sistemos organizavimo specifiką nustatyta tvarka parengtus ir su Aplinkos
+
+ministerija ar jos įgaliota institucija suderintus dokumentus:
+
+1) užstato už vienkartines
+
+pakuotes sistemos
+
+organizavimo planą, kuriame turi būti numatytos priemonės ir veiksmai,
+
+užtikrinantys, kad bus įgyvendinta šiame įstatyme gamintojams ir importuotojams
+
+nustatyta pareiga imti
+
+užstatą už vienkartines pakuotes ir jį grąžinti pakuočių pardavėjams, kai šie
+
+grąžina pakuočių atliekas, ir pakuočių pardavėjams nustatyta pareiga – priimti
+
+vienkartinių pakuočių, už kurias nustatytas užstatas, atliekas ir grąžinti
+
+užstatą;
+
+2) užstato už vienkartines
+
+pakuotes sistemos
+
+finansavimo schemą, garantuojančią, kad užstato už vienkartines pakuotes sistema,
+
+įskaitant šios sistemos organizavimo plano bei visuomenės švietimo ir
+
+informavimo užstato už
+
+vienkartines pakuotes sistemos
+
+klausimais programos įgyvendinimą, bus finansuojama. Finansavimo schemoje turi
+
+būti nurodytas gamintojų ir importuotojų mokamos įmokos už užstato už
+
+vienkartines pakuotes sistemos administravimą dydis;
+
+3) visuomenės
+
+švietimo ir informavimo užstato už vienkartines pakuotes sistemos
+
+klausimais programą, kurioje turi būti numatytos visuomenės švietimo ir
+
+informavimo prioritetinės kryptys ir priemonės.
+
+5. Aplinkos
+
+ministerija ar jos įgaliota institucija atsisako derinti šio straipsnio
+
+4 dalyje nurodytus dokumentus, jeigu pateikti derinti užstato už vienkartines
+
+pakuotes sistemos organizavimo planas ir (ar) užstato už vienkartines pakuotes
+
+sistemos finansavimo schema, ir (ar) visuomenės švietimo ir informavimo užstato
+
+už vienkartines pakuotes sistemos klausimais programa neatitinka aplinkos
+
+ministro nustatytų reikalavimų ir (ar) juose pateikti skaičiavimai, duomenys
+
+yra nepagrįsti.
+
+6. Užstato už
+
+vienkartines pakuotes sistemos administratorius privalo visiems gamintojams ir
+
+importuotojams, tiekiantiems Lietuvos Respublikos vidaus rinkai gaminius,
+
+supakuotus į vienkartinę pakuotę, už kurią pagal šio įstatymo 11 straipsnio 2
+
+dalį nustatytas užstatas, ir pakuočių pardavėjams, prekiaujantiems šiais
+
+gaminiais, teikti paslaugas vienodomis sąlygomis.
+
+7. Užstato už
+
+vienkartines pakuotes sistemos administratorius neturi teisės trečiajam
+
+asmeniui ar kitam užstato už vienkartines pakuotes sistemoje dalyvaujančiam
+
+gamintojui ir importuotojui ar pakuočių pardavėjui atskleisti informacijos apie
+
+užstato už vienkartines pakuotes sistemoje dalyvaujančių gamintojų ir importuotojų
+
+Lietuvos Respublikos vidaus rinkai tiektų ir pakuočių pardavėjų parduotų
+
+gaminių, jiems pakuoti panaudotų vienkartinių pakuočių kiekį, išskyrus teisės
+
+aktuose nustatytus atvejus.
+
+8. Užstato už
+
+vienkartines pakuotes sistemos administratoriaus steigėjai ir dalyviai negali
+
+veikti atliekų tvarkytojų ar automatizuoto (nedalyvaujant žmogui) pakuočių
+
+atliekų priėmimo priemonių gamintojų ar platintojų naudai ar interesams.
+
+9. Užstato už
+
+vienkartines pakuotes sistemos administratorius privalo vykdyti užstato už
+
+vienkartines pakuotes sistemos organizavimo plane, užstato už vienkartines
+
+pakuotes sistemos finansavimo schemoje, visuomenės švietimo ir informavimo
+
+užstato už vienkartines pakuotes sistemos klausimais programoje numatytas
+
+priemones ir Aplinkos ministerijai ar jos įgaliotai institucijai aplinkos
+
+ministro nustatyta tvarka pateikti užstato už vienkartines pakuotes sistemos
+
+organizavimo plano vykdymo ataskaitą ir informaciją apie užstato už
+
+vienkartines pakuotes sistemos finansavimo schemoje, visuomenės švietimo ir
+
+informavimo užstato už vienkartines pakuotes sistemos klausimais programoje
+
+numatytų priemonių įgyvendinimą.
+
+10. Užstato už vienkartines pakuotes sistemos administratorius ne mažiau
+
+kaip 1 procentą lėšų nuo metinės apyvartos turi skirti visuomenės švietimui
+
+ir informavimui pakuočių atliekų tvarkymo klausimais.
+
+Papildyta
+
+straipsniu:
+
+Nr.
+
+XII-864,
+
+2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
+
 12 straipsnis. Atsakomybė už
 
 šio Įstatymo pažeidimus
@@ -1268,6 +2058,10 @@ Nr. X-1565,
 Asmenys, pažeidę šio Įstatymo reikalavimus, atsako
 
 įstatymų nustatyta tvarka.
+
+Redakcija nuo
+
+2016-02-01:
 
 13 straipsnis. Pasiūlymai
 
@@ -1285,6 +2079,40 @@ kurias privaloma imti užstatą, sąrašą ir užstato dydį, užstato sistemos
 
 įgyvendinimo tvarką bei kitus šiam Įstatymui įgyvendinti būtinus teisės aktus.
 
+Redakcija nuo
+
+2016-02-01:
+
+13
+
+straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
+
+Lietuvos
+
+Respublikos Vyriausybė ar jos įgaliota institucija nustato pakuočių ir pakuočių
+
+atliekų surinkimo, perdirbimo ir kitokio naudojimo užduotis, priima teisės
+
+aktus, nustatančius ribinius leistinus kenksmingų medžiagų kiekius pakuotėse ir
+
+jų kontrolės tvarką, pakuočių ženklinimo bei pakuočių ir pakuočių atliekų
+
+apskaitos tvarką, daugkartinių pakuočių, už kurias privaloma imti užstatą,
+
+sąrašą, užstato už daugkartines pakuotes sistemos įgyvendinimo tvarką,
+
+ir kitus šio įstatymo įgyvendinamuosius teisės aktus.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XII-864,
+
+2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
+
 14 straipsnis.
 
 Įstatymo įsigaliojimas
@@ -1295,7 +2123,9 @@ Skelbiu šį
 
 Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                         VALDAS
+
+ADAMKUS
 
 Lietuvos Respublikos
 
@@ -1637,31 +2467,37 @@ Pakeitimai:
 
 1.
 
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos
 
-Nr. X-286, 2005-06-30,
+Respublikos Seimas, Įstatymas
 
-Žin., 2005, Nr. 86-3206 (2005-07-16)
+Nr.
 
-PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ
+X-286,
 
-TVARKYMO ĮSTATYMO 1, 2, 5, 7, 10 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO
+2005-06-30, Žin., 2005, Nr. 86-3206 (2005-07-16)
 
-PRIEDU ĮSTATYMAS
+PAKUOČIŲ
+
+IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 1, 2, 5, 7, 10 STRAIPSNIŲ PAKEITIMO IR
+
+ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
 
 2.
 
-Lietuvos Respublikos Seimas,
+Lietuvos
 
-Įstatymas
+Respublikos Seimas, Įstatymas
 
-Nr. X-1565,
+Nr.
+
+X-1565,
 
 2008-06-03, Žin., 2008, Nr. 71-2699 (2008-06-21)
 
-PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ
+PAKUOČIŲ
 
-TVARKYMO ĮSTATYMO 8 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 8 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 3.
 
@@ -1711,9 +2547,9 @@ pakuočių ženklų reikšmes.
 
 Aplinkos ministerija savo
 
-interneto svetainėje turi skelbti Valstybiniame atliekų tvarkymo plane nustatytus
+interneto svetainėje turi skelbti Valstybiniame atliekų tvarkymo plane
 
-pakuočių ir pakuočių atliekų tvarkymo reikalavimus ir užduotis.
+nustatytus pakuočių ir pakuočių atliekų tvarkymo reikalavimus ir užduotis.
 
 Įstatymas
 
@@ -1750,4 +2586,232 @@ pakeitimai:
 Nr. XI-1893,
 
 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
+
+41 straipsnis. Daugkartinių
+
+pakuočių reikalavimai
+
+1. Daugkartinės
+
+pakuotės turi būti pagamintos taip, kad įprastomis naudojimo sąlygomis būtų
+
+įmanoma jas transportuoti ir naudoti keletą kartų.
+
+2.
+
+Turi būti įmanoma panaudotas daugkartines pakuotes paruošti pakartotiniam
+
+naudojimui (išplauti, dezinfekuoti) nesukeliant pavojaus aplinkai ir šiuos
+
+darbus atliekančių žmonių saugai ir sveikatai.
+
+3.
+
+Daugkartinėms pakuotėms tapus atliekomis, šios turi atitikti šio įstatymo 42 straipsnyje
+
+nustatytus pakuočių atliekų naudojimo reikalavimus.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr.
+
+XI-1627,
+
+2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XII-864,
+
+2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
+
+42
+
+straipsnis. Pakuočių
+
+atliekų naudojimo
+
+reikalavimai
+
+1. Energijai
+
+gauti gali būti naudojamos tos pakuočių atliekos, kurios turi bent minimalų
+
+kaloringumą, leidžiantį optimizuoti energijos išgavimą.
+
+2. Pakuočių
+
+atliekos gali būti kompostuojamos, jeigu joms biologiškai skylant neigiamai
+
+neveikiamas atskiras atliekų surinkimas, kompostavimas ar kita veikla.
+
+3. Biologiškai
+
+skaidžios pakuočių atliekos turi fiziškai, chemiškai, termiškai ir biologiškai
+
+suirti taip, kad didžioji pagaminto komposto dalis galėtų skaidytis į anglies
+
+dioksidą, biomasę ir vandenį.
+
+Įstatymas
+
+papildytas straipsniu:
+
+Nr.
+
+XI-1627,
+
+2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
+
+122 straipsnis. Pareigūnai, turintys
+
+teisę tirti juridinių asmenų padarytus pažeidimus, surašyti juridinių asmenų
+
+padarytų pažeidimų protokolus ir nagrinėti bylas dėl ekonominių sankcijų
+
+skyrimo
+
+Šiame įstatyme
+
+nurodytus juridinių asmenų padarytus pažeidimus Aplinkos apsaugos įstatymo
+
+nustatyta tvarka tiria, juridinių asmenų padarytų pažeidimų protokolus surašo
+
+ir bylas dėl ekonominių sankcijų skyrimo nagrinėja valstybiniai aplinkos
+
+apsaugos inspektoriai.
+
+Papildyta
+
+straipsniu:
+
+Nr.
+
+XII-864,
+
+2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
+
+Papildoma nuo
+
+2016-02-01:
+
+123 straipsnis. Juridinių asmenų
+
+atsakomybė už užstato taikymo ir užstato sistemos organizavimo reikalavimų
+
+pažeidimą
+
+1. Pareigos
+
+dalyvauti užstato už
+
+vienkartines pakuotes sistemoje,
+
+kai asmuo Lietuvos Respublikos vidaus rinkai tiekia gaminius, supakuotus į vienkartinę
+
+pakuotę, už kurią pagal šio įstatymo 11 straipsnio 2 dalį nustatytas užstatas,
+
+nevykdymas užtraukia baudą gamintojui ir (ar) importuotojui nuo dvidešimt
+
+penkių tūkstančių iki penkiasdešimties tūkstančių litų.
+
+2. Pareigos pakuotę pažymėti
+
+atitinkamos užstato sistemos taikymą nurodančiu ženklu nevykdymas užtraukia baudą
+
+gamintojui ir (ar) importuotojui nuo dviejų tūkstančių penkių šimtų iki penkių
+
+tūkstančių litų.
+
+3. Pareigos
+
+organizuoti daugkartinių pakuočių ir (ar) vienkartinių pakuočių, už kurias
+
+nustatytas užstatas, atliekų priėmimą ir užstato grąžinimą nevykdymas ir (ar)
+
+netinkamas vykdymas užtraukia baudą pakuočių pardavėjui nuo dviejų tūkstančių
+
+penkių šimtų iki penkių tūkstančių litų.
+
+4. Pareigos
+
+nurodyti užstato dydį gaminio, supakuoto į pakuotę, už kurią nustatytas
+
+užstatas, kainos etiketėje nevykdymas ir (ar) informacijos apie tai, kaip
+
+pakuočių vartotojai gali grąžinti pakuotes ar pakuočių, už kurias nustatytas
+
+užstatas, atliekas nepateikimas užtraukia baudą pakuočių pardavėjui nuo
+
+dviejų tūkstančių penkių šimtų iki penkių tūkstančių litų.
+
+5. Užstato už vienkartines
+
+pakuotes sistemos
+
+organizavimo plano vykdymo ataskaitos ir informacijos apie užstato už vienkartines
+
+pakuotes sistemos
+
+finansavimo schemoje, visuomenės švietimo ir informavimo užstato už vienkartines
+
+pakuotes sistemos
+
+klausimais programoje numatytų priemonių įgyvendinimą nepateikimas nustatytu
+
+laiku užtraukia baudą užstato už vienkartines pakuotes sistemos administratoriui nuo trijų
+
+tūkstančių iki penkių tūkstančių litų.
+
+6. Užstato už vienkartines
+
+pakuotes sistemos
+
+organizavimo plane, užstato už vienkartines pakuotes sistemos
+
+finansavimo schemoje, visuomenės švietimo ir informavimo užstato už vienkartines
+
+pakuotes sistemos
+
+klausimais programoje numatytų priemonių nevykdymas užtraukia baudą užstato už vienkartines
+
+pakuotes sistemos administratoriui nuo penkių tūkstančių iki dešimties
+
+tūkstančių litų.
+
+7. Šio
+
+straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia
+
+baudą nuo trisdešimt septynių tūkstančių penkių šimtų iki septyniasdešimties
+
+tūkstančių litų.
+
+8. Šio
+
+straipsnio 2, 3, 4 ar 5 dalyse numatytas pažeidimas, padarytas pakartotinai,
+
+užtraukia baudą nuo penkių tūkstančių iki dešimties tūkstančių litų.
+
+9. Šio
+
+straipsnio 6 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia
+
+baudą nuo dešimties tūkstančių iki dvidešimties tūkstančių litų.
+
+Papildyta
+
+straipsniu:
+
+Nr.
+
+XII-864,
+
+2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
 
