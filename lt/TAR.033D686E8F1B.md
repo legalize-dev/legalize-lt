@@ -4,7 +4,7 @@ identifier: "TAR.033D686E8F1B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-30"
-last_updated: "2014-05-03"
+last_updated: "2014-05-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 department: "Lietuvos Respublikos Seimas"
@@ -49,37 +49,29 @@ keleiviniam transportui kompensavimą ir vežėjų išlaidų (negautų pajamų),
 
 susijusių su lengvatų taikymu, kompensavimo (atlyginimo) tvarką bei šaltinius.
 
-2. Važiavimo
+2. Važiavimo keleiviniu transportu lengvatos, numatytos
 
-keleiviniu transportu lengvatos, numatytos šiame įstatyme, pagal šio įstatymo
+šiame įstatyme, pagal šio įstatymo nuostatas teikiamos važiuojantiems tolimojo
 
-nuostatas teikiamos važiuojantiems tolimojo reguliaraus susisiekimo
+reguliaraus susisiekimo autobusais, vietinio (miesto ir priemiestinio)
 
-autobusais, vietinio (miesto ir priemiestinio) reguliaraus susisiekimo
+reguliaraus susisiekimo autobusais ir troleibusais, keleiviniais traukiniais (2
 
-autobusais ir troleibusais, keleiviniais traukiniais (2 ir 3 klasės sėdimuose
+ir 3 klasės sėdimuose vagonuose, kai keleivio kelionės pradinė ir galinė stotys
 
-vagonuose, kai keleivio kelionės pradinė ir galinė stotys yra Lietuvos
+yra Lietuvos Respublikos teritorijoje), reguliaraus susisiekimo laivais ir
 
-Respublikos teritorijoje), reguliaraus susisiekimo laivais ir keltais Lietuvos
+keltais Lietuvos Respublikos piliečiams, kitų Europos Sąjungos valstybių narių
 
-Respublikos piliečiams, kitų Europos Sąjungos valstybių narių piliečiams,
+piliečiams ir turintiems leidimą laikinai ar nuolat gyventi Lietuvos
 
-teisėtai gyvenantiems Lietuvos Respublikoje, ir turintiems leidimą laikinai ar
+Respublikoje užsienio valstybių piliečiams ar asmenims be pilietybės. Šiame
 
-nuolat gyventi Lietuvos Respublikoje užsienio valstybių piliečiams ar asmenims
+įstatyme numatytos lengvatos netaikomos važiuojantiesiems tarptautinio
 
-be pilietybės.
+reguliaraus susisiekimo autobusais, lengvaisiais automobiliais taksi ir
 
-Šios
-
-lengvatos,
-
-numatytos šiame įstatyme, netaikomos važiuojantiesiems tarptautinio reguliaraus
-
-susisiekimo autobusais, lengvaisiais automobiliais taksi ir maršrutiniais
-
-taksi.
+maršrutiniais taksi.
 
 3. Lietuvos
 
@@ -102,6 +94,12 @@ Nr. IX-1192,
 Nr. X-1612,
 
 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
+
+Nr.
+
+XII-900,
+
+2014-05-15, paskelbta TAR 2015-04-21, i. k. 2014-05567
 
 2
 
@@ -559,19 +557,17 @@ Respublikos nepriklausomybės gynėjai, nukentėję nuo 1991 m. sausio 11–13 d
 
 vienkartinį važiavimo tolimojo reguliaraus susisiekimo autobusais, vienkartinį
 
-arba terminuotą vardinį važiavimo vietinio (priemiestinio) reguliaraus
+arba terminuotą vardinį važiavimo vietinio (priemiestinio) reguliaraus susisiekimo
 
-susisiekimo autobusais, keleiviniais traukiniais bilietą su 50 procentų
+autobusais, keleiviniais traukiniais bilietą su 50 procentų nuolaida turi
 
-nuolaida turi aukštųjų mokyklų dieninių skyrių studentai, Lietuvos
+aukštųjų mokyklų dieninių skyrių studentai, Lietuvos Respublikos ir kitų Europos
 
-Respublikos ir kitų Europos Sąjungos valstybių narių piliečiai, studijuojantys
+Sąjungos valstybių narių piliečiai, studijuojantys Europos Sąjungos valstybių
 
-Europos Sąjungos valstybių narių aukštųjų mokyklų dieniniuose skyriuose, taip
+narių aukštųjų mokyklų dieniniuose skyriuose, taip pat profesinio
 
-pat
-
-profesinio mokymo įstaigų dieninių skyrių mokiniai.
+mokymo įstaigų dieninių skyrių mokiniai.
 
 4. Teisė įsigyti
 
@@ -645,9 +641,9 @@ lengvatomis susijusias išlaidas savivaldybės kompensuoja iš savo biudžeto l�
 
 Straipsnio pakeitimai:
 
-Nr. IX-1192,
+Nr. IX-1192, 2002-11-12,
 
-2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
+Žin., 2002, Nr. 116-5190 (2002-12-06)
 
 Nr. IX-1643,
 
@@ -655,9 +651,9 @@ Nr. IX-1643,
 
 Nr.
 
-IX-2581,
+IX-2581, 2004-11-11,
 
-2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
+Žin., 2004, Nr. 171-6324 (2004-11-26)
 
 Nr.
 
@@ -1101,9 +1097,9 @@ traukiniais, reguliaraus susisiekimo laivais ir keltais;
 
 3) vaikų globos namuose gyvenantiems
 
-mokiniams, važiuojantiems mokinio pažymėjime nurodytu maršrutu vietinio (miesto)
+mokiniams, važiuojantiems mokinio pažymėjime nurodytu maršrutu vietinio
 
-reguliaraus susisiekimo autobusais ir troleibusais.
+(miesto) reguliaraus susisiekimo autobusais ir troleibusais.
 
 2. Savivaldybių
 
@@ -1119,13 +1115,13 @@ IX-2581,
 
 2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
 
-Nr. X-1312,
+Nr. X-1312, 2007-11-06,
 
-2007-11-06, Žin., 2007, Nr. 120-4879 (2007-11-22)
+Žin., 2007, Nr. 120-4879 (2007-11-22)
 
-Nr. X-1612, 2008-06-17,
+Nr. X-1612,
 
-Žin., 2008, Nr. 74-2862 (2008-06-30)
+2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
 
 Nr.
 
