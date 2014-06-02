@@ -4,7 +4,7 @@ identifier: "TAR.38E82AA2664C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "2012-01-10"
+last_updated: "2014-06-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.38E82AA2664C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymas
 
-Suvestinė redakcija nuo 2012-01-10 iki 2014-06-01
+Suvestinė redakcija nuo 2014-06-02 iki 2015-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2261, i. k. 0961010ISTA00I-1539
 
@@ -153,7 +153,11 @@ Nekilnojamojo turto registre registruojami šie su nekilnojamaisiais daiktais, d
 
 1. Nekilnojamojo turto registre daiktinės teisės į nekilnojamąjį daiktą, šių teisių suvaržymai, juridiniai faktai gali būti registruojami tik tuo atveju, kai nekilnojamojo turto registre įregistruotas pats nekilnojamasis daiktas.
 
-2. Tik įregistravus nuosavybės teisę į nekilnojamąjį daiktą, gali būti registruojamos kitos daiktinės teisės į tą daiktą, tų teisių suvaržymai, juridiniai faktai. Ši nuostata netaikoma registruojant valdymą kaip savarankišką daiktinę teisę bei nekilnojamojo daikto, nuosavybės teisės į jį arba atskirų šios teisės sudedamųjų dalių – valdymo, naudojimo ar disponavimo areštą kaip juridinį faktą.
+2. Tik įregistravus nuosavybės teisę į nekilnojamąjį daiktą, gali būti registruojamos kitos daiktinės teisės į tą daiktą, tų teisių suvaržymai, juridiniai faktai. Ši nuostata netaikoma registruojant administraciniu aktu ar teismo sprendimu nustatytą servitutą, valdymą kaip savarankišką daiktinę teisę ir nekilnojamojo daikto, nuosavybės teisės į jį arba atskirų šios teisės sudedamųjų dalių – valdymo, naudojimo ar disponavimo areštą kaip juridinį faktą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-869, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05358
 
 14 straipsnis. Daiktinių teisių į nekilnojamąjį daiktą registravimas nekilnojamojo turto registre
 
@@ -610,6 +614,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1891, 2011-12-22, Žin., 2012, Nr. 6-189 (2012-01-10), i. k. 1111010ISTA0XI-1891
 
 Lietuvos Respublikos nekilnojamojo turto registro įstatymo 42 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-869, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05358
+
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 13 straipsnio pakeitimo įstatymas
 
 47 straipsnis. Nekilnojamojo turto registro integravimas į Lietuvos Respublikos kadastrų ir registrų informacinę infrastruktūrą
 
