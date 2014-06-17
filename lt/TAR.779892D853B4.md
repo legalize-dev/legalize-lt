@@ -4,7 +4,7 @@ identifier: "TAR.779892D853B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-10"
-last_updated: "2013-07-01"
+last_updated: "2014-06-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 58 straipsnis įsigalioja 2002-09-18.
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2013-07-01 iki 2014-06-16
+Suvestinė redakcija nuo 2014-06-17 iki 2014-10-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
 
@@ -1542,6 +1542,12 @@ Papildyta straipsnio dalimi:
 
 Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
 
+4. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/30/ES dėl apsaugos priemonių, kurių valstybės narės, siekdamos tokias priemones suvienodinti, reikalauja iš Sutarties dėl Europos Sąjungos veikimo 54 straipsnio antroje pastraipoje apibrėžtų bendrovių, jų narių ir kitų interesų apsaugai, akcines bendroves steigiant, palaikant ir keičiant jų kapitalą, koordinavimo (OL 2012 L 315, p. 74).
+
+Papildyta punktu:
+
+Nr. XII-913, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07640
+
 Priedo pakeitimai:
 
 Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
@@ -1676,6 +1682,14 @@ Nr. XII-377, 2013-06-18, Žin., 2013, Nr. 68-3411 (2013-06-28), i. k. 1131010IST
 
 Lietuvos Respublikos finansų įstaigų įstatymo 4 straipsnio papildymo įstatymas
 
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-913, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07640
+
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 papildymo 28-1 straipsniu ir Įstatymo priedo pakeitimo įstatymas
+
 381 straipsnis. Finansinių grupių jungtinė (konsoliduota) priežiūra
 
 1. Lietuvos Respublikos įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatytais atvejais finansinei grupei taikoma jungtinė (konsoliduota) priežiūra.
@@ -1685,4 +1699,16 @@ Lietuvos Respublikos finansų įstaigų įstatymo 4 straipsnio papildymo įstaty
 Papildyta straipsniu:
 
 Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+
+281 straipsnis. Finansinės pagalbos teikimas finansų įstaigos akcijoms įsigyti
+
+Finansų įstaiga turi teisę, laikydamasi šiame Įstatyme ir Lietuvos Respublikos akcinių bendrovių įstatyme nustatytų reikalavimų, teikti finansinę pagalbą fiziniams ir (ar) juridiniams asmenims, tiesiogiai ar netiesiogiai iš anksto išmokėdama lėšų, suteikdama paskolą ar užtikrindama prievolių įvykdymą, kai šiais veiksmais siekiama sudaryti sąlygas šiems asmenims įsigyti tos finansų įstaigos akcijų  ir tenkinama bent viena iš šių sąlygų:
+
+1) finansų įstaigos teisinė forma yra akcinė bendrovė arba uždaroji akcinė bendrovė ir šie veiksmai yra priskiriami jos teikiamoms finansų paslaugoms;
+
+2) finansų įstaigos teisinė forma yra akcinė bendrovė, ji atitinka 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyvos 2012/30/ES 17 straipsnio 7 dalies antrojoje pastraipoje nustatytus kriterijus ir šiais veiksmais sudaro sąlygas fiziniams ir (ar) juridiniams asmenims įsigyti šios finansų įstaigos išleistų ir investuotojui pareikalavus tos finansų įstaigos ar įmonių grupei priklausančios finansų įstaigos įsigytų visiškai apmokėtų akcijų. Ši finansų įstaiga dokumentuose, kuriuos ji naudoja turėdama santykių su kitais subjektais (raštuose, sąskaitose, prekybos dokumentuose ir kt.), privalo vartoti žodžius „investicinė bendrovė“.
+
+Papildyta straipsniu:
+
+Nr. XII-913, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07640
 
