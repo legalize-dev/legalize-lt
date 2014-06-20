@@ -4,7 +4,7 @@ identifier: "TAR.44FA08A7226F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-10-14"
-last_updated: "2013-10-12"
+last_updated: "2014-06-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44FA08A7226F"
 department: "Lietuvos Respublikos Seimas"
@@ -734,19 +734,19 @@ straipsnis. Licencija vykdyti formalųjį profesinį mokymą
 
 1. Formalųjį
 
-profesinį mokymą gali vykdyti juridiniai asmenys, kitos
+profesinį mokymą gali vykdyti juridiniai asmenys, kitos juridinio asmens
 
-juridinio asmens statuso neturinčios Lietuvos ar kitos
+statuso neturinčios Lietuvos ar kitos valstybės narės organizacijos ir jų
 
-valstybės narės organizacijos bei jų padaliniai, įsteigti Lietuvos
+padaliniai, įsteigti Lietuvos Respublikoje, arba fiziniai asmenys, kurie
 
-Respublikoje, arba Lietuvos Respublikoje gyvenantys fiziniai
+naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse
 
-asmenys, turintys formaliojo profesinio mokymo licenciją (toliau –
+narėse teisėmis, turintys formaliojo profesinio mokymo licenciją (toliau –
 
-licencija), kuri suteikia teisę vykdyti Licencijų
+licencija), kuri suteikia teisę vykdyti Licencijų registre juridiniam ar
 
-registre juridiniam ar fiziniam asmeniui įrašytas formaliojo profesinio mokymo programas.
+fiziniam asmeniui įrašytas formaliojo profesinio mokymo programas.
 
 2. Licencijas išduoda, jų galiojimą
 
@@ -868,15 +868,17 @@ ir jų apskaita vykdoma nesilaikant teisės aktų nustatytų reikalavimų;
 
 4) jeigu nustatoma, kad juridinis asmuo,
 
-kita juridinio
+kita juridinio asmens statuso neturinti Lietuvos ar kitos
 
-asmens statuso neturinti Lietuvos ar kitos valstybės narės organizacija bei jos padalinys, įsteigtas Lietuvos
+valstybės narės organizacija
 
-Respublikoje, arba Lietuvos Respublikoje gyvenantis
+ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo, kuris naudojasi Europos Sąjungos
 
-fizinis asmuo nesilaiko Formaliojo profesinio mokymo licencijavimo
+teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, nesilaiko
 
-taisyklėse nustatytų licencijuojamos veiklos sąlygų.
+Formaliojo profesinio mokymo licencijavimo taisyklėse nustatytų licencijuojamos
+
+veiklos sąlygų.
 
 9. Licencijos galiojimo sustabdymas
 
@@ -888,13 +890,13 @@ pažeidimai pašalinami.
 
 priimti sprendimą licencijos galiojimą panaikinti šiais atvejais:
 
-1) juridinio asmens, kitos juridinio asmens
+1) juridinio asmens, kitos juridinio asmens statuso neturinčios Lietuvos ar kitos
 
-statuso neturinčios Lietuvos ar kitos valstybės narės organizacijos bei jos padalinio, įsteigto Lietuvos
+valstybės narės organizacijos
 
-Respublikoje, arba Lietuvos Respublikoje gyvenančio
+ir jos padalinio, įsteigto Lietuvos Respublikoje, arba fizinio asmens, kuris naudojasi Europos Sąjungos teisės
 
-fizinio asmens prašymu;
+aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, prašymu;
 
 2) juridinis asmuo, kita juridinio asmens
 
@@ -902,27 +904,31 @@ statuso neturinti Lietuvos ar kitos valstybės narės organizacija bei jos padal
 
 Respublikoje, pasibaigia;
 
-3) kai paaiškėja, kad juridinis asmuo, kita juridinio asmens
+3) kai paaiškėja, kad juridinis asmuo, kita juridinio asmens statuso neturinti Lietuvos ar kitos
 
-statuso neturinti Lietuvos ar kitos valstybės narės organizacija bei jos padalinys, įsteigtas Lietuvos
+valstybės narės organizacija
 
-Respublikoje, arba Lietuvos Respublikoje gyvenantis
+ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo, kuris naudojasi
 
-fizinis asmuo licencijai gauti pateiktuose dokumentuose nurodė
+Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse
 
-klaidingus duomenis;
+teisėmis, licencijai
 
-4) kai juridinis asmuo, kita juridinio asmens
+gauti pateiktuose dokumentuose nurodė klaidingus duomenis;
 
-statuso neturinti Lietuvos ar kitos valstybės narės organizacija bei jos padalinys, įsteigtas Lietuvos
+4) kai juridinis asmuo, kita juridinio asmens statuso neturinti Lietuvos ar kitos
 
-Respublikoje, arba Lietuvos Respublikoje gyvenantis
+valstybės narės organizacija
 
-fizinis asmuo, kuriam licencijos galiojimas buvo sustabdytas, per
+ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo, kuris naudojasi
 
-nustatytą terminą nepašalina pažeidimų, dėl kurių licencijos galiojimas buvo
+Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse
 
-sustabdytas;
+teisėmis,
+
+kuriam licencijos galiojimas buvo sustabdytas, per nustatytą terminą
+
+nepašalina pažeidimų, dėl kurių licencijos galiojimas buvo sustabdytas;
 
 5) mirus licencijos turėtojui – fiziniam
 
@@ -937,6 +943,14 @@ Nr.
 XI-839,
 
 2010-05-25, Žin., 2010, Nr. 67-3338 (2010-06-10)
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XII-923,
+
+2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07839
 
 13
 
@@ -980,9 +994,9 @@ pakeitimai:
 
 Nr.
 
-XI-839, 2010-05-25,
+XI-839,
 
-Žin., 2010, Nr. 67-3338 (2010-06-10)
+2010-05-25, Žin., 2010, Nr. 67-3338 (2010-06-10)
 
 13 straipsnis.
 
@@ -1198,21 +1212,21 @@ Profesinio mokymo kokybės užtikrinimas
 
 kompetenciją užtikrina Švietimo ir mokslo ministerija, Ūkio ministerija, kitos
 
-ministerijos ir Vyriausybės įstaigos, įstaigos prie Švietimo ir mokslo ministerijos,
+ministerijos ir Vyriausybės įstaigos, įstaigos prie Švietimo ir mokslo
 
-Kvalifikacijų tvarkymo institucija, savivaldybės institucijos, nevalstybinės
+ministerijos, Kvalifikacijų tvarkymo institucija, savivaldybės institucijos,
 
-profesinio mokymo įstaigos savininkas (dalyvių susirinkimas), profesinio mokymo
+nevalstybinės profesinio mokymo įstaigos savininkas (dalyvių susirinkimas),
 
-įstaigos vadovas, inicijuodami ir įteisindami viešus susitarimus dėl profesinio
+profesinio mokymo įstaigos vadovas, inicijuodami ir įteisindami viešus
 
-mokymo kokybės sampratos, numatydami profesinio mokymo kokybės rodiklius,
+susitarimus dėl profesinio mokymo kokybės sampratos, numatydami profesinio
 
-kriterijus, standartus ar kitokius reikalavimus, stebėdami ir vertindami
+mokymo kokybės rodiklius, kriterijus, standartus ar kitokius reikalavimus,
 
-profesinio mokymo atitiktį susitarimams, planuodami ir įgyvendindami profesinio
+stebėdami ir vertindami profesinio mokymo atitiktį susitarimams, planuodami ir
 
-mokymo tobulinimą.
+įgyvendindami profesinio mokymo tobulinimą.
 
 2. Profesinio mokymo kokybei užtikrinti ir gerinti
 
@@ -1314,9 +1328,9 @@ patvirtinimą vykstantiems į užsienį asmenims reglamentuoja Europos Sąjungos
 
 Lietuvos Respublikos teisės aktai ir tarptautinės sutartys.
 
-19 straipsnio
+Redakcija nuo
 
-redakcija nuo 2014-09-01
+2014-09-01:
 
 20 straipsnis. Mokinio
 
@@ -1536,9 +1550,9 @@ komitetų sudarymo ir finansavimo tvarką;
 
 teisės aktų nustatytas funkcijas.
 
-2. Švietimo ir mokslo ministerija kartu su
+2. Švietimo ir mokslo ministerija kartu
 
-Ūkio ministerija:
+su Ūkio ministerija:
 
 1) nustato profesinių standartų ir
 
@@ -1566,27 +1580,9 @@ principą;
 
 licencijavimo taisykles ir šias taisykles teikia Vyriausybei tvirtinti.
 
-Straipsnio
+Redakcija nuo
 
-pakeitimai:
-
-Nr.
-
-XI-380,
-
-2009-07-21, Žin., 2009, Nr. 93-3973 (2009-08-04)
-
-Nr.
-
-XI-839,
-
-2010-05-25, Žin., 2010, Nr. 67-3338 (2010-06-10)
-
-Nr.
-
-XI-1498,
-
-2011-06-22, Žin., 2011, Nr. 86-4140 (2011-07-13)
+2014-09-01:
 
 23 straipsnis. Ūkio
 
@@ -1624,27 +1620,9 @@ srities darbuotojų tęstinį profesinį mokymą;
 
 teisės aktų nustatytas funkcijas.
 
-Straipsnio
+Redakcija nuo
 
-pakeitimai:
-
-Nr.
-
-XI-380,
-
-2009-07-21, Žin., 2009, Nr. 93-3973 (2009-08-04)
-
-Nr.
-
-XI-839,
-
-2010-05-25, Žin., 2010, Nr. 67-3338 (2010-06-10)
-
-Nr.
-
-XI-1498, 2011-06-22,
-
-Žin., 2011, Nr. 86-4140 (2011-07-13)
+2014-09-01:
 
 24 straipsnis.
 
@@ -1670,6 +1648,14 @@ tobulinimą;
 
 žmogiškųjų išteklių plėtros politiką;
 
+Redakcija nuo
+
+2014-09-01:
+
+3) dalyvauja formuojant žmogiškųjų
+
+išteklių plėtros politiką;
+
 4) organizuoja savo reguliuojamos
 
 srities darbuotojų tęstinį profesinį mokymą;
@@ -1691,6 +1677,10 @@ Nr.
 XI-839,
 
 2010-05-25, Žin., 2010, Nr. 67-3338 (2010-06-10)
+
+Nr. XII-922,
+
+2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07840
 
 25 straipsnis. Kvalifikacijų
 
@@ -1722,13 +1712,13 @@ pakeitimai:
 
 Nr.
 
-XI-380, 2009-07-21,
+XI-380,
 
-Žin., 2009, Nr. 93-3973 (2009-08-04)
+2009-07-21, Žin., 2009, Nr. 93-3973 (2009-08-04)
 
 26 straipsnis. Netenka galios
 
-nuo 2010 m. liepos 1 d.
+nuo 2010-07-01.
 
 Straipsnio
 
@@ -1744,9 +1734,7 @@ XI-839,
 
 Savivaldybės institucijų įgaliojimai
 
-1. Savivaldybės atstovaujamoji
-
-institucija:
+1. Savivaldybės atstovaujamoji institucija:
 
 1) inicijuoja
 
@@ -1830,11 +1818,9 @@ derina;
 
 orientavimą;
 
-6) derina asmens įgytų kompetencijų
+6) derina asmens įgytų kompetencijų vertinimo
 
-vertinimo organizavimo veiklą ir dalyvauja vertinant asmens įgytas
-
-kompetencijas;
+organizavimo veiklą ir dalyvauja vertinant asmens įgytas kompetencijas;
 
 7) dalyvauja organizuojant praktinį
 
@@ -1886,9 +1872,9 @@ patariamoji institucija sprendžiant strateginius profesinio mokymo klausimus.
 
 lygiomis dalimis sudaroma iš valstybės ir savivaldybių institucijų, darbdavių
 
-ir verslo savivaldos institucijų bei darbuotojų interesams atstovaujančių organizacijų
+ir verslo savivaldos institucijų bei darbuotojų interesams atstovaujančių
 
-atstovų.
+organizacijų atstovų.
 
 3. Lietuvos profesinio mokymo tarybos
 
@@ -1944,11 +1930,29 @@ ir kvalifikacijų sistemų plėtrai;
 
 mokymui skiriamos iš valstybės biudžeto, valstybės biudžeto specialiųjų
 
-tikslinių dotacijų savivaldybių biudžetams ir (ar) Užimtumo fondo taikant
+tikslinių dotacijų savivaldybių biudžetams ir (ar) Užimtumo fondo taikant Vyriausybės
 
-Vyriausybės patvirtintą mokymo
+patvirtintą mokymo
 
 lėšų skaičiavimo vienam mokiniui metodiką.
+
+Redakcija nuo
+
+2014-09-01:
+
+2. Mokymo lėšos formaliajam profesiniam mokymui skiriamos iš valstybės
+
+biudžeto, valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių
+
+biudžetams ir (ar) Užimtumo fondo taikant Vyriausybės patvirtintą profesinio
+
+mokymo lėšų skaičiavimo vienam mokiniui metodiką. Mokymo
+
+lėšos vidaus reikalų profesinio mokymo įstaigų vykdomam formaliajam profesiniam
+
+mokymui skiriamos taikant Vyriausybės patvirtintą vidaus reikalų profesinio
+
+mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką.
 
 3. Teisės aktų nustatyta tvarka
 
@@ -1972,11 +1976,11 @@ biudžetams, savivaldybių biudžetų ar Užimtumo fondo.
 
 darbuotojų tęstinis profesinis mokymas vykdomas įmonės,
 
-įstaigos, ūkininko ūkio arba besimokančiųjų lėšomis. Teisės aktų
+įstaigos, ūkininko ūkio arba besimokančiųjų lėšomis. Teisės aktų nustatyta
 
-nustatyta tvarka įmonės, įstaigos ar ūkininko ūkio darbuotojų mokymui gali būti
+tvarka įmonės, įstaigos ar ūkininko ūkio darbuotojų mokymui gali būti skiriama
 
-skiriama ir valstybės biudžeto lėšų.
+ir valstybės biudžeto lėšų.
 
 6. Bedarbių ir įspėtų apie atleidimą iš
 
@@ -1991,6 +1995,18 @@ skiriama taikant Vyriausybės patvirtintą Lėšų skaičiavimo vienam asmeniui
 metodiką. Lėšos skirstomos vadovaujantis Švietimo ir mokslo ministerijos
 
 nustatyta ir su Ūkio ministerija suderinta lėšų paskirstymo tvarka.
+
+Redakcija nuo
+
+2014-09-01:
+
+7. Asmens kompetencijoms vertinti lėšų skiriama taikant Vyriausybės
+
+patvirtintą Kompetencijų vertinimo lėšų skaičiavimo vienam asmeniui metodiką.
+
+Lėšos skirstomos vadovaujantis kompetencijų vertinimo lėšų paskirstymo tvarkos
+
+aprašu.
 
 8. Lėšos mokinių profesiniam
 
@@ -2068,6 +2084,10 @@ XI-1498,
 
 2011-06-22, Žin., 2011, Nr. 86-4140 (2011-07-13)
 
+Nr. XII-922,
+
+2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07840
+
 32 straipsnis.
 
 Materialinė parama
@@ -2098,11 +2118,11 @@ nustatyta tvarka.
 
 straipsnis. Užmokestis už profesinį mokymą
 
-1. Nevalstybinėje profesinio mokymo įstaigoje
+1. Nevalstybinėje profesinio mokymo
 
-papildomą užmokestį už profesinį mokymą nustato įstaigos savininkas (dalyvių
+įstaigoje papildomą užmokestį už profesinį mokymą nustato įstaigos savininkas
 
-susirinkimas).
+(dalyvių susirinkimas).
 
 2. Užmokesčio dydį už neformalųjį
 
@@ -2139,8 +2159,6 @@ priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                         ALGIRDAS
 
 BRAZAUSKAS
-
-__________________
 
 Pakeitimai:
 
@@ -2270,7 +2288,9 @@ Nr. XI-1498,
 
 PROFESINIO
 
-MOKYMO ĮSTATYMO 6, 7, 11, 14, 18, 22, 23, 28 IR 31 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+MOKYMO ĮSTATYMO 6, 7, 11, 14, 18, 22, 23, 28 IR 31 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
 
 Šis
 
@@ -2294,11 +2314,47 @@ MOKYMO ĮSTATYMO 19 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 išskyrus 2 straipsnio 2 dalį, įsigalioja 2014 m. rugsėjo 1 d.
 
+9.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-922,
+
+2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07840
+
+LIETUVOS
+
+RESPUBLIKOS PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 22, 23, 24, 31 STRAIPSNIŲ
+
+PAKEITIMO IR ĮSTATYMO PAPILDYMO 23-1 STRAIPSNIU ĮSTATYMAS
+
+Šis įstatymas,
+
+išskyrus 6 straipsnio 2 dalį, įsigalioja 2014 m. rugsėjo 1 d.
+
+10.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-923,
+
+2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07839
+
+LIETUVOS
+
+RESPUBLIKOS PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 12-1 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušra
 
-Bodin (2013-10-15)
+Bodin (2014-06-20)
 
 aubodi@lrs.lt
 
@@ -2621,4 +2677,50 @@ Redagavo:
 Aušrinė Trapinskienė (2006-10-12)
 
 autrap@lrs.lt
+
+231 straipsnis. Vidaus reikalų
+
+ministerijos ir vidaus reikalų ministro įgaliojimai
+
+1. Vidaus reikalų ministerija:
+
+1) rengia vidaus reikalų profesinio
+
+mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką;
+
+2) atlieka kitas šio įstatymo ir kitų
+
+teisės aktų nustatytas funkcijas.
+
+2. Vidaus reikalų ministras:
+
+1) tvirtina asmenų, kuriems taikomas Vidaus
+
+tarnybos statuto patvirtinimo įstatymas, pageidaujančių įgyti pirmąją
+
+kvalifikaciją, priėmimo į vidaus reikalų profesinio mokymo įstaigų vykdomas
+
+programas planą;
+
+2) nustato reikalavimus, taikomus vidaus
+
+reikalų profesinio mokymo sutartims, ir šių sutarčių registravimo tvarką;
+
+3) teikia Vyriausybei tvirtinti vidaus
+
+reikalų profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam
+
+mokiniui metodiką;
+
+4) atlieka kitas šio įstatymo ir kitų teisės
+
+aktų nustatytas funkcijas.
+
+Papildyta
+
+straipsniu:
+
+Nr. XII-922,
+
+2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07840
 
