@@ -4,7 +4,7 @@ identifier: "TAR.E79004684F4D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-28"
-last_updated: "2011-12-31"
+last_updated: "2014-06-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E79004684F4D"
 department: "Lietuvos Respublikos Seimas"
@@ -219,9 +219,11 @@ Straipsnio
 
 pakeitimai:
 
-Nr.I-1268,
+Nr.
 
-96.04.02, Žin., 1996, Nr.35-871
+I-1268,
+
+96.04.02, Žin., 1996, Nr. 35-871 (96.04.19)
 
 Nr. IX-2014,
 
@@ -243,13 +245,55 @@ teisinių santykių nereguliuoja šis įstatymas.
 
 straipsnis. Zonos valdymas
 
-1. Zonos teritorija įstatymų
+1. Zonos
 
-nustatyta tvarka išnuomojama zonos valdymo bendrovei.
+teritorija įstatymų nustatyta tvarka išnuomojama zonos valdymo bendrovei.
+
+Redakcija nuo 2015-01-01:
+
+1. Zonos valdymo
+
+bendrovė įstatymų nustatyta tvarka išsinuomoja zonos teritorijoje esančius
+
+žemės sklypus ar jų dalis Lietuvos Respublikos Vyriausybės nustatytais zonos
+
+teritorijos įsisavinimo etapais, išskyrus žemės sklypus, skirtus
+
+infrastruktūrai. Zonos teritorijoje esantys žemės sklypai, skirti
+
+infrastruktūrai, įstatymų nustatyta tvarka gali būti išnuomojami zonos valdymo
+
+bendrovei jos prašymu. Kol nėra įsteigta zonos valdymo bendrovė, zonos
+
+teritorijoje esantys žemės sklypai ar jų dalys, išskyrus žemės sklypus, skirtus
+
+infrastruktūrai, įstatymų nustatyta tvarka išnuomojami investuotojams, kaip jie
+
+apibrėžti Lietuvos Respublikos investicijų įstatyme, iki tol, kol zonos
+
+teritorijoje esantys žemės sklypai ar jų dalys bus išnuomoti zonos valdymo
+
+bendrovei. Zonos teritorijoje esančius žemės sklypus ar jų dalis išnuomojus
+
+zonos valdymo bendrovei, investuotojams, tapusiems zonos įmone, nustatytos
+
+žemės nuomos sąlygos turi būti ne blogesnės negu tos, kurios buvo nustatytos
+
+iki zonos teritorijoje esančių žemės sklypų ar jų dalių išnuomojimo zonos
+
+valdymo bendrovei.
 
 2. Zonos ūkinę veiklą
 
 organizuoja zonos valdymo bendrovė.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XII-940, 2014-06-12,
+
+paskelbta TAR 2014-06-19, i. k. 2014-07833
 
 6
 
@@ -277,9 +321,11 @@ Straipsnio
 
 pakeitimai:
 
-Nr.I-1268,
+Nr.
 
-96.04.02, Žin., 1996, Nr.35-871
+I-1268,
+
+96.04.02, Žin., 1996, Nr. 35-871 (96.04.19)
 
 Nr. IX-668,
 
@@ -329,13 +375,13 @@ tikslus atitinkanti ūkinė komercinė veikla. Mažmeninė prekyba
 
 laisvosiose teritorijose leidžiama tik jų vidaus poreikiams tenkinti.
 
-5. Steigėjai,
+5. Steigėjai, pageidaujantys
 
-pageidaujantys įregistruoti zonos įmonę, Juridinių
+įregistruoti zonos įmonę, Juridinių asmenų registro
 
-asmenų registro tvarkytojui pateikia teisės aktų nustatytus registravimo
+tvarkytojui pateikia teisės aktų nustatytus registravimo dokumentus ir
 
-dokumentus ir zonos valdymo bendrovės leidimą veiklai zonoje.
+zonos valdymo bendrovės leidimą veiklai zonoje.
 
 6. Sprendimą dėl leidimo
 
@@ -407,9 +453,11 @@ Straipsnio
 
 pakeitimai:
 
-Nr.I-1268,
+Nr.
 
-96.04.02, Žin., 1996, Nr.35-871
+I-1268,
+
+96.04.02, Žin., 1996, Nr. 35-871 (96.04.19)
 
 Nr. IX-668,
 
@@ -450,6 +498,12 @@ nukenksminimas;
 3) plastiko ir
 
 kitų aplinkai pavojingų medžiagų gamyba, deginimas;
+
+Redakcija nuo 2015-01-01:
+
+3) aplinkai
+
+pavojingų medžiagų gamyba, deginimas;
 
 4)
 
@@ -521,21 +575,25 @@ Straipsnio
 
 pakeitimai:
 
-Nr. VIII-1395, 99.11.09, Žin., 1999,
+Nr. VIII-1395, 99.11.09, Žin., 1999, Nr.98-2814
 
-Nr.98-2814 (99.11.19)
+(99.11.19)
 
-Nr. IX-668, 2001-12-18,
+Nr. IX-668,
 
-Žin., 2001, Nr. 112-4084 (2001-12-30)
+2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
 
 Nr. IX-2014,
 
 2004-02-12, Žin., 2004, Nr. 32-1006 (2004-02-28)
 
-Nr. XI-1910, 2011-12-23,
+Nr. XI-1910,
 
-Žin., 2011, Nr. 164-7803 (2011-12-31)
+2011-12-23, Žin., 2011, Nr. 164-7803 (2011-12-31)
+
+Nr. XII-940,
+
+2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07833
 
 II SKYRIUS.
 
@@ -633,9 +691,11 @@ Straipsnio
 
 pakeitimai:
 
-Nr.I-1268,
+Nr.
 
-96.04.02, Žin., 1996, Nr.35-871
+I-1268,
+
+96.04.02, Žin., 1996, Nr. 35-871 (96.04.19)
 
 Nr.
 
@@ -667,9 +727,11 @@ LAISVOSIOS EKONOMINĖS ZONOS VALDYMAS
 
 straipsnis. Zonos pagrindiniai valdymo principai
 
-Zonos valdymo organų struktūrą,
+Zonos valdymo organų
 
-funkcijas, įgaliojimus, atsakomybę, nustato šis ir konkrečios zonos įstatymai.
+struktūrą, funkcijas, įgaliojimus, atsakomybę, nustato šis ir konkrečios zonos
+
+įstatymai.
 
 11
 
@@ -695,6 +757,18 @@ atlikti valstybinę zonų priežiūrą, pagal šios institucijos nustatytus
 
 kriterijus.
 
+Redakcija nuo 2015-01-01:
+
+1. Zonos steigimo
+
+grupė, laimėjusi zonos verslo plano ir statuto rengimo bei steigėjų grupės
+
+parinkimo konkursą, įsteigia zonos valdymo bendrovę. Po vieną zonos valdymo
+
+bendrovės valdybos narį skiria Lietuvos Respublikos Vyriausybė ir savivaldybių,
+
+kurių teritorijoje kuriama zona, tarybos.
+
 2. Zonos valdymo
 
 bendrovėje stebėtojų taryba nesudaroma.
@@ -703,17 +777,23 @@ Straipsnio
 
 pakeitimai:
 
-Nr.I-1268,
+Nr.
 
-96.04.02, Žin., 1996, Nr.35-871
+I-1268,
 
-Nr. IX-668, 2001-12-18,
+96.04.02, Žin., 1996, Nr. 35-871 (96.04.19)
 
-Žin., 2001, Nr. 112-4084 (2001-12-30)
+Nr. IX-668,
+
+2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
 
 Nr. IX-2014,
 
 2004-02-12, Žin., 2004, Nr. 32-1006 (2004-02-28)
+
+Nr. XII-940,
+
+2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07833
 
 12
 
@@ -753,6 +833,24 @@ nekilnojamojo turto subnuomos ir savitarpio paslaugų teikimo finansines
 
 sąlygas;
 
+Redakcija nuo 2015-01-01:
+
+5) zonos įmonių
+
+ir zonos valdymo bendrovės sutartyse nustatyti žemės ir nekilnojamojo turto
+
+subnuomos ir savitarpio paslaugų teikimo finansines sąlygas, išskyrus žemės
+
+subnuomos finansines sąlygas ūkio subjektams, pradėjusiems veiklą iki zonos
+
+valdymo bendrovės įsteigimo. Ūkio subjektams, įsteigtiems iki zonos valdymo
+
+bendrovės įsteigimo ir tapusiems zonos įmone, nustatomos ne blogesnės žemės
+
+subnuomos sąlygos negu tos, kurios buvo nustatytos iki zonos teritorijoje
+
+esančių žemės sklypų ar jų dalių išnuomojimo zonos valdymo bendrovei;
+
 6)
 
 gauti iš zonoje veikiančių ūkio subjektų Lietuvos Respublikos Vyriausybės
@@ -773,17 +871,25 @@ valstybinę priežiūrą atliekančiai valstybės institucijai dėl zonos statut
 
 teritorijos ribų pakeitimo;
 
+Redakcija nuo 2015-01-01:
+
+8) teikti
+
+pasiūlymus laisvųjų ekonominių zonų valstybinę priežiūrą atliekančiai valstybės
+
+institucijai dėl zonos statuto ir teritorijos ribų pakeitimo;
+
 9)
 
 nustatyti įmokas zonos įmonėms zonos įstatymo nustatyta tvarka;
 
 10)
 
-suderinusi su Muitinės departamentu prie Lietuvos Respublikos
+suderinusi su Muitinės departamentu prie Lietuvos Respublikos finansų
 
-finansų ministerijos, skelbti zonos teritorijos dalis laisvosiomis
+ministerijos, skelbti zonos teritorijos dalis laisvosiomis teritorijomis ir
 
-teritorijomis ir nustatyti šių teritorijų ribas.
+nustatyti šių teritorijų ribas.
 
 2. Zonos valdymo
 
@@ -791,9 +897,9 @@ bendrovės pareigos:
 
 laikytis šio ir kitų zonoje
 
-galiojančių Lietuvos Respublikos įstatymų ir teisės aktų, zonos statuto, zonos
+galiojančių Lietuvos Respublikos įstatymų ir teisės aktų, zonos statuto, zonos valdymo
 
-valdymo bendrovės įstatų;
+bendrovės įstatų;
 
 organizuoti
 
@@ -841,13 +947,25 @@ zonos statute nustatytais terminais ir nustatyta tvarka atsiskaito Lietuvos
 
 Respublikos Vyriausybei už savo ir zonos veiklą.
 
+Redakcija nuo 2015-01-01:
+
+4. Zonos valdymo
+
+bendrovė zonos statute nustatytais terminais ir nustatyta tvarka atsiskaito
+
+Lietuvos Respublikos Vyriausybės įgaliotai atlikti valstybinę priežiūrą
+
+valstybės institucijai už savo ir zonos veiklą.
+
 Straipsnio
 
 pakeitimai:
 
-Nr.I-1268,
+Nr.
 
-96.04.02, Žin., 1996, Nr.35-871
+I-1268,
+
+96.04.02, Žin., 1996, Nr. 35-871 (96.04.19)
 
 Nr. IX-668,
 
@@ -856,6 +974,10 @@ Nr. IX-668,
 Nr. XI-1910,
 
 2011-12-23, Žin., 2011, Nr. 164-7803 (2011-12-31)
+
+Nr. XII-940,
+
+2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07833
 
 13
 
@@ -879,19 +1001,7 @@ jos įgaliota valstybės institucija arba sudaryta speciali institucija. Ji taip
 
 pat sprendžia bendrus visoms zonoms steigimo, valdymo ir veiklos klausimus.
 
-IV SKYRIUS.
-
-MOKESČIŲ, MUITŲ, VALSTYBĖS RINKLIAVOS, KITŲ ĮMOKŲ,
-
-VALIUTINĖS IR
-
-FINANSINĖS SĄLYGOS LAISVOJOJE EKONOMINĖJE ZONOJE
-
-Pakeistas IV skyriaus pavadinimas:
-
-Nr. IX-285, 2001 04 19, Žin., 2001, Nr.
-
-39-1355 (2001 05 09)
+Redakcija nuo 2015-01-01:
 
 4 straipsnis. Lietuvos
 
@@ -1487,21 +1597,27 @@ atstovauti gali būti sudaryta patariamoji zonos įmonių taryba. Jos sudarymo
 
 tvarka ir kompetencija nustatomos zonos statute.
 
-14 straipsnis. Laisvųjų
+14 straipsnis. Laisvųjų ekonominių zonų valstybinė priežiūra
 
-ekonominių zonų valstybinė priežiūra
+Laisvųjų
 
-Laisvųjų ekonominių zonų
+ekonominių zonų valstybinę priežiūrą Lietuvos Respublikos Vyriausybės nustatyta
 
-valstybinę priežiūrą Lietuvos Respublikos Vyriausybės nustatyta tvarka atlieka
+tvarka atlieka jos įgaliota valstybės institucija. Ji taip pat sprendžia
 
-jos įgaliota valstybės institucija arba sudaryta speciali institucija. Ji taip
+bendrus visoms zonoms steigimo, valdymo ir veiklos klausimus.
 
-pat sprendžia bendrus visoms zonoms steigimo, valdymo ir veiklos klausimus.
+Straipsnio
 
-IV SKYRIUS.
+pakeitimai:
 
-MOKESČIŲ, MUITŲ, VALSTYBĖS RINKLIAVOS, KITŲ ĮMOKŲ,
+Nr. XII-940,
+
+2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07833
+
+IV SKYRIUS. MOKESČIŲ,
+
+MUITŲ, VALSTYBĖS RINKLIAVOS, KITŲ ĮMOKŲ,
 
 VALIUTINĖS IR
 
@@ -1631,23 +1747,23 @@ veiklos, užsakomųjų informacinių paslaugų centrų veiklos, didmeninės
 
 prekybos zonoje sandėliuojamomis prekėmis ir (arba) teikiamų paslaugų,
 
-susijusių su minėtomis zonoje vykdomos veiklos rūšimis (zonoje pagamintų, apdirbtų,
+susijusių su minėtomis zonoje vykdomos veiklos rūšimis (zonoje pagamintų,
 
-perdirbtų ar sandėliuojamų prekių, taip pat zonoje vykdomai gamybai, apdirbimui
+apdirbtų, perdirbtų ar sandėliuojamų prekių, taip pat zonoje vykdomai gamybai,
 
-ar perdirbimui reikalingų prekių transportavimo, aptarnavimo, statybos zonos
+apdirbimui ar perdirbimui reikalingų prekių transportavimo, aptarnavimo,
 
-teritorijoje ir kitų su minėtomis veiklos rūšimis susijusių paslaugų). Šioje
+statybos zonos teritorijoje ir kitų su minėtomis veiklos rūšimis susijusių
 
-dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai zonos įmonė
+paslaugų). Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju,
 
-turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos
+kai zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo
 
-dydį. Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo terminui
+investicijos dydį. Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo
 
-kapitalo investicijos suma sumažėja ir nebesiekia vieno milijono eurų,
+terminui kapitalo investicijos suma sumažėja ir nebesiekia vieno milijono
 
-lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo
+eurų, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo
 
 investicijos suma taip sumažėjo, ir gali būti atnaujintas tą mokestinį
 
@@ -1663,9 +1779,19 @@ laisvojoje ekonominėje zonoje gauti dividendai neapmokestinami Lietuvos
 
 Respublikos pelno mokesčio įstatymo nustatytais atvejais ir tvarka.
 
-5. Kitos
+Redakcija nuo 2015-01-01:
 
-mokesčių lengvatos taikomos remiantis Lietuvos Respublikos įstatymais.
+4. Pelno
+
+mokesčio lengvatos taikomos ir laisvojoje ekonominėje zonoje gauti dividendai
+
+neapmokestinami Lietuvos Respublikos pelno mokesčio įstatymo nustatytais
+
+atvejais ir tvarka.
+
+5. Kitos mokesčių
+
+lengvatos taikomos remiantis Lietuvos Respublikos įstatymais.
 
 6. Zonos valdymo
 
@@ -1689,9 +1815,11 @@ Straipsnio
 
 pakeitimai:
 
-Nr.I-1268,
+Nr.
 
-96.04.02, Žin., 1996, Nr.35-871
+I-1268,
+
+96.04.02, Žin., 1996, Nr. 35-871 (96.04.19)
 
 Nr. VIII-1917, 00.09.12, Žin., 2000,
 
@@ -1731,6 +1859,10 @@ Nr. XI-1910,
 
 2011-12-23, Žin., 2011, Nr. 164-7803 (2011-12-31)
 
+Nr. XII-940,
+
+2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07833
+
 16
 
 straipsnis. Muitinės priežiūros ypatumai laisvosiose teritorijose
@@ -1751,9 +1883,11 @@ Straipsnio
 
 pakeitimai:
 
-Nr.I-1268,
+Nr.
 
-96.04.02, Žin., 1996, Nr.35-871
+I-1268,
+
+96.04.02, Žin., 1996, Nr. 35-871 (96.04.19)
 
 Nr. IX-668,
 
@@ -1841,9 +1975,9 @@ Nr. IX-2538, 2004-11-04,
 
 Žin., 2004, Nr. 171-6298 (2004-11-26)
 
-17 straipsnis. Bankų ir draudimo įmonių veikla zonoje.
+17 straipsnis. Bankų ir draudimo įmonių veikla
 
-Valiutinės ir finansinės sąlygos
+zonoje. Valiutinės ir finansinės sąlygos
 
 1. Bankų ir draudimo įmonių
 
@@ -1997,6 +2131,16 @@ infrastruktūros objektai, esantys valstybės (savivaldybės) nuosavybe, gali b�
 
 išnuomoti arba parduoti Lietuvos Respublikos įstatymų nustatyta tvarka.
 
+Redakcija nuo 2015-01-01:
+
+2. Statiniai ir
+
+infrastruktūros objektai, esantys valstybės (savivaldybės) nuosavybe, gali būti
+
+išnuomoti, perduoti naudotis panaudos pagrindais arba parduoti zonos valdymo
+
+bendrovei Lietuvos Respublikos įstatymų nustatyta tvarka.
+
 3. Gamtos ištekliai zonoje
 
 įsisavinami ir naudojami Lietuvos Respublikos įstatymų nustatyta tvarka.
@@ -2005,19 +2149,23 @@ Straipsnio
 
 pakeitimai:
 
-Nr. IX-2014,
+Nr. IX-2014, 2004-02-12,
 
-2004-02-12, Žin., 2004, Nr. 32-1006 (2004-02-28)
+Žin., 2004, Nr. 32-1006 (2004-02-28)
+
+Nr. XII-940,
+
+2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07833
 
 22
 
 straipsnis. Valstybės ir savivaldybių institucijų paslaugos zonoms
 
-Valstybės ir savivaldybių institucijos
+Valstybės ir savivaldybių
 
-veikiantiems zonoje ūkio subjektams teikia tokias pat paslaugas kaip ir kitiems
+institucijos veikiantiems zonoje ūkio subjektams teikia tokias pat paslaugas
 
-jų teritorijoje veikiantiems ūkio subjektams.
+kaip ir kitiems jų teritorijoje veikiantiems ūkio subjektams.
 
 23
 
@@ -2177,7 +2325,9 @@ ATVYKIMAS Į LAISVĄJĄ EKONOMINĘ ZONĄ
 
 straipsnis.
 
-Neteko galios nuo 2004 m. gegužės 1 d.
+Neteko galios nuo
+
+2004-05-01.
 
 Straipsnio
 
@@ -2227,11 +2377,13 @@ nuo investavimo pradžios.
 
 4. Užsienio
 
-investuotojai turi teisę teisėtai gautas pajamas (pelną) pervesti į užsienį be apribojimų.
+investuotojai turi teisę teisėtai gautas pajamas (pelną) pervesti į užsienį be
 
-Užsienio investuotojai savo pajamas (pelną) ar jų dalį gali išvežti vidaus
+apribojimų. Užsienio investuotojai savo pajamas (pelną) ar jų dalį gali išvežti
 
-rinkoje supirktomis prekėmis arba reinvestuoti į Lietuvos Respublikos ūkį.
+vidaus rinkoje supirktomis prekėmis arba reinvestuoti į Lietuvos Respublikos
+
+ūkį.
 
 Straipsnio
 
@@ -2311,13 +2463,13 @@ atvejais gali Lietuvos Respublikos Seimas.
 
 klausimams, susijusiems su zonos likvidavimu, finansiniams santykiams tarp
 
-zonos ūkinio plėtojimo ir valdymo organų ir zonos ekonominės veiklos subjektų spręsti
+zonos ūkinio plėtojimo ir valdymo organų ir zonos ekonominės veiklos subjektų
 
-Lietuvos Respublikos Vyriausybė sudaro likvidacinę komisiją, kuriai suteikia
+spręsti Lietuvos Respublikos Vyriausybė sudaro likvidacinę komisiją, kuriai
 
-įgaliojimus zonai valdyti laikotarpiui iki bus galutinai išspręsti visi
+suteikia įgaliojimus zonai valdyti laikotarpiui iki bus galutinai išspręsti
 
-klausimai, susiję su zonos likvidavimu.
+visi klausimai, susiję su zonos likvidavimu.
 
 4. Ginčai, kylantys dėl
 
@@ -2331,8 +2483,6 @@ RESPUBLIKOS PREZIDENTAS
 
 ALGIRDAS BRAZAUSKAS
 
-_____________
-
 Pakeitimai:
 
 1.
@@ -2341,9 +2491,11 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr.I-1268,
+Nr.
 
-96.04.02, Žin., 1996, Nr.35-871
+I-1268,
+
+96.04.02, Žin., 1996, Nr. 35-871 (96.04.19)
 
 LIETUVOS
 
@@ -2565,9 +2717,25 @@ LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO 6, 7, 8, 9,
 
 12, 15 STRAIPSNIŲ IR IV SKYRIAUS PAVADINIMO PAKEITIMO ĮSTATYMAS
 
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-940,
+
+2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07833
+
+LIETUVOS RESPUBLIKOS LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ
+
+ĮSTATYMO NR. I-976 5, 8, 11, 12, 14, 15, 21 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas, išskyrus 8 straipsnį, įsigalioja 2015 m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo Aušrinė Trapinskienė (2012-01-06)
+Redagavo Aušrinė Trapinskienė (2014-12-05)
 
 ausrine.trapinskiene@lrs.lt
 
