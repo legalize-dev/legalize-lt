@@ -4,7 +4,7 @@ identifier: "TAR.303FC0152D04"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2013-11-23"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos reklamos įstatymas
 
-Suvestinė redakcija nuo 2013-11-23
+Suvestinė redakcija nuo 2014-07-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
 
@@ -316,6 +316,12 @@ Straipsnio dalies pakeitimai:
 Nr. XII-577, 2013-11-07, Žin., 2013, Nr. 120-6049 (2013-11-23), i. k. 1131010ISTA0XII-577
 
 6. Draudžiama energinius gėrimus nemokamai platinti reklamos tikslais jaunesniems kaip 18 metų asmenims.
+
+7. Energinių gėrimų reklamoje privalo būti įrašyti žodžiai „nevartoti su alkoholiniais gėrimais“.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-577, 2013-11-07, Žin., 2013, Nr. 120-6049 (2013-11-23), i. k. 1131010ISTA0XII-577
 
 15 straipsnis. Sveikatos priežiūros paslaugų ir medicinos prietaisų ir aparatų reklama
 
