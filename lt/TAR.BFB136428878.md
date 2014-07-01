@@ -4,7 +4,7 @@ identifier: "TAR.BFB136428878"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-01-23"
-last_updated: "2008-01-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BFB136428878"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pasipriešinimo 1940-1990 metų okupacijoms dalyvių teisinio statuso įstatymas
 
-Suvestinė redakcija nuo 2008-01-01 iki 2014-06-30
+Suvestinė redakcija nuo 2014-07-01 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 12-230, i. k. 0971010ISTA0VIII-97
 
@@ -55,9 +55,15 @@ buvo siekiama ir nuolatos ieškoma būdų ir galimybių atkurti nepriklausomą L
 
 Lietuvos piliečiai tremtyje ir GULAG’o lageriuose įvairiais būdais kovojo prieš smurtą ir okupacinį režimą;
 
+nacistinės Vokietijos okupacijos metais, nepaisydami gresiančio pavojaus savo ir šeimų gyvybei, Lietuvos gyventojai gelbėjo mirčiai pasmerktus žydus;
+
 atsižvelgdamas į tai, kad 1996 m. lapkričio 28 d. įstatymu Nr. VIII-11 ginkluoto pasipriešinimo (rezistencijos) dalyviai paskelbti Lietuvos kariais savanoriais ir pripažinti jų kariniai laipsniai bei apdovanojimai,
 
 priima šį įstatymą.
+
+Preambulės pakeitimai:
+
+Nr. XII-954, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09153
 
 1 straipsnis. Įstatymo paskirtis
 
@@ -97,7 +103,13 @@ Laisvės kovų dalyviams prilygintais asmenimis pripažįstami:
 
 1) Lietuvos Respublikos atsargos karininkai, buvę vidaus reikalų sistemos pareigūnai, sukarintų organizacijų nariai, taip pat valstybės civilinių įstaigų pareigūnai ir tarnautojai, mokslo ir kultūros veikėjai, visuomeninių ir politinių organizacijų nariai bei kiti Lietuvos Respublikos piliečiai, kurie iki 1940 m. birželio 15 d. veikė stiprindami Lietuvos valstybės nepriklausomybę, teritorijos vientisumą ir konstitucinę santvarką ir dėl šios veiklos pirmosios sovietų (1940–1941 m.) okupacijos metu buvo suimti, įkalinti ar nuteisti mirties bausme ir mirties bausmė įvykdyta arba buvo nužudyti, žuvo, mirė įkalinimo metu;
 
-2) asmenys, kurie organizavo ar dalyvavo GULAG’o politinių kalinių masiniuose streikuose ir streikų malšinimo metu žuvo arba po numalšinimo buvo nuteisti papildoma bausme ar perkelti į uždaruosius kalėjimus ar kitus ypatinguosius lagerius.
+2) asmenys, kurie organizavo ar dalyvavo GULAG’o politinių kalinių masiniuose streikuose ir streikų malšinimo metu žuvo arba po numalšinimo buvo nuteisti papildoma bausme ar perkelti į uždaruosius kalėjimus ar kitus ypatinguosius lagerius;
+
+3) žydų gelbėtojai holokausto metu.
+
+Straipsnio pakeitimai:
+
+Nr. XII-954, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09153
 
 6 straipsnis. Įstatymo taikymas
 
@@ -152,4 +164,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1235, 2007-06-28, Žin., 2007, Nr. 81-3311 (2007-07-21), i. k. 1071010ISTA00X-1235
 
 Lietuvos Respublikos pasipriešinimo 1940–1990 metų okupacijoms dalyvių teisinio statuso įstatymo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-954, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09153
+
+Lietuvos Respublikos pasipriešinimo 1940–1990 metų okupacijos dalyvių teisinio statuso įstatymo Nr. VIII-97 preambulės ir 5 straipsnio pakeitimo įstatymas
 
