@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2014-05-21"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,8 @@ document_status: "registruotas TA registre"
 entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, kuri nustato universitetų prievolę vykdyti tik universitetines studijas, 9 straipsnio 1 dalis ta apimtimi, kuri nustato kolegijų prievolę vykdyti tik kolegines studijas, ir 93 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d.; šio įstatymo 4 straipsnio 21 dalis ir 47 straipsnio 3, 4, 5, 6 dalys įsigalioja 2011 m. rugsėjo 1 d; šio įstatymo 67 straipsnio 2 dalis ir 69 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d."
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
+
+Suvestinė redakcija nuo 2014-07-01
 
 Įstatymas skelbtas: Žin., 2009, Nr. 54-2140, Nr. 61, Nr. 101
 
@@ -247,17 +249,17 @@ mokykloje baigęs studijų programą ir gavęs aukštojo mokslo
 
 kvalifikaciją liudijantį diplomą.
 
-2. Aukštasis koleginis išsilavinimas – išsilavinimas,
+2. Aukštasis koleginis išsilavinimas – išsilavinimas, įgytas
 
-įgytas Lietuvos aukštosiose mokyklose baigus koleginių studijų programas, pagal
+Lietuvos aukštosiose mokyklose baigus koleginių studijų programas, pagal kurias
 
-kurias suteikiama aukštojo
+suteikiama aukštojo mokslo
 
-mokslo kvalifikacija, arba
+kvalifikacija, arba teisės
 
-teisės aktų nustatyta tvarka pripažintas kaip jam lygiavertis užsienio mokslo
+aktų nustatyta tvarka pripažintas kaip jam lygiavertis užsienio mokslo ir
 
-ir studijų institucijose įgytas išsilavinimas.
+studijų institucijose įgytas išsilavinimas.
 
 3. Aukštasis
 
@@ -305,11 +307,11 @@ kurti naujas medžiagas, produktus ir įrenginius, diegti naujus procesus,
 
 sistemas ir paslaugas arba iš esmės tobulinti jau sukurtus ar įdiegtus, taip
 
-pat kurti, diegti arba iš esmės tobulinti moksliniais tyrimais ir praktine patirtimi
+pat kurti, diegti arba iš esmės tobulinti moksliniais tyrimais ir praktine
 
-sukauptu pažinimu grindžiamus žmogaus, kultūros ir visuomenės problemų
+patirtimi sukauptu pažinimu grindžiamus žmogaus, kultūros ir visuomenės
 
-sprendinius.
+problemų sprendinius.
 
 9.
 
@@ -365,9 +367,9 @@ dėstytojai, mokslo darbuotojai, kiti tyrėjai, administracija ir kiti
 
 darbuotojai.
 
-16. Mokslo (meno) sklaida – visuomenės supažindinimas su moksliniais tyrimais,
+16. Mokslo (meno) sklaida – visuomenės supažindinimas su moksliniais
 
-meno kūryba.
+tyrimais, meno kūryba.
 
 17.
 
@@ -617,15 +619,15 @@ akademinės bendruomenės narių akademinę laisvę;
 
 2)
 
-informuoti steigėjus, juridinio asmens dalyvius ir visuomenę apie studijų ir mokslinės
+informuoti steigėjus, juridinio asmens dalyvius ir visuomenę apie studijų ir
 
-veiklos kokybės užtikrinimo priemones, valstybės skirtų lėšų naudojimą, o
+mokslinės veiklos kokybės užtikrinimo priemones, valstybės skirtų lėšų
 
-valstybinės aukštosios mokyklos – ir apie savo finansinę, ūkinę ir mokslinę
+naudojimą, o valstybinės aukštosios mokyklos – ir apie savo finansinę, ūkinę ir
 
-veiklą; savo studijų programų išorinio kokybės įvertinimo ir akreditavimo
+mokslinę veiklą; savo studijų programų išorinio kokybės įvertinimo ir
 
-rezultatus;
+akreditavimo rezultatus;
 
 3) laiku teikti
 
@@ -859,13 +861,13 @@ juridinis asmuo. Valstybinis mokslinių tyrimų institutas, veikiantis
 
 kaip biudžetinė įstaiga, gali būti pertvarkomas į viešąją įstaigą.
 
-6. Valstybinių mokslinių
+6. Valstybinių
 
-tyrimų institutų, veikiančių kaip biudžetinės įstaigos, administracijos ir kitų
+mokslinių tyrimų institutų, veikiančių kaip biudžetinės įstaigos,
 
-darbuotojų, mokslo darbuotojų ir kitų tyrėjų darbo apmokėjimo tvarką nustato
+administracijos ir kitų darbuotojų, mokslo darbuotojų ir kitų tyrėjų darbo
 
-Vyriausybė.
+apmokėjimo tvarką nustato Vyriausybė.
 
 Straipsnio
 
@@ -885,13 +887,13 @@ tyrimų institutas turi teisę:
 
 1)
 
-vadovaudamasis įstatymais ir kitais teisės aktais, nusistatyti struktūrą, vidaus
+vadovaudamasis įstatymais ir kitais teisės aktais, nusistatyti struktūrą,
 
-darbo tvarką, darbuotojų skaičių, jų teises ir pareigas, darbo apmokėjimo
+vidaus darbo tvarką, darbuotojų skaičių, jų teises ir pareigas, darbo
 
-sąlygas, pareigybių reikalavimus, konkursų pareigoms eiti organizavimo ir
+apmokėjimo sąlygas, pareigybių reikalavimus, konkursų pareigoms eiti
 
-darbuotojų atestavimo tvarką;
+organizavimo ir darbuotojų atestavimo tvarką;
 
 2) atlikdamas
 
@@ -981,9 +983,9 @@ Respublikos Konstitucinis Teismas, Nutarimas
 
 Nr.
 
-XI-1920, 2012-01-19,
+XI-1920,
 
-Žin., 2012, Nr. 13-554 (2012-01-28)
+2012-01-19, Žin., 2012, Nr. 13-554 (2012-01-28)
 
 III SKYRIUS
 
@@ -1149,13 +1151,13 @@ studijų institucija.
 
 Tais atvejais, kai mokslo ir technologijų parkas yra viešasis juridinis asmuo,
 
-kurio tikslas – tenkinti viešuosius interesus ir kurio dalininkės yra valstybinės
+kurio tikslas – tenkinti viešuosius interesus ir kurio dalininkės yra
 
-aukštosios mokyklos ir (arba) valstybės ar savivaldybės institucijos, mokslo ir
+valstybinės aukštosios mokyklos ir (arba) valstybės ar savivaldybės
 
-technologijų parkas gali gauti valstybės lėšų ar atitinkamai savivaldybės lėšų
+institucijos, mokslo ir technologijų parkas gali gauti valstybės lėšų ar
 
-(įskaitant biudžeto asignavimus).
+atitinkamai savivaldybės lėšų (įskaitant biudžeto asignavimus).
 
 4. Mokslo ir technologijų parkai gali vykdyti valstybės institucijų
 
@@ -1197,11 +1199,11 @@ straipsnis. Studijų kokybės vertinimo centras
 
 1. Studijų
 
-kokybės vertinimo centras yra valstybės biudžetinė įstaiga. Šį centrą steigia ir
+kokybės vertinimo centras yra valstybės biudžetinė įstaiga. Šį centrą steigia
 
-jo nuostatus tvirtina Švietimo ir mokslo ministerija. Studijų kokybės vertinimo
+ir jo nuostatus tvirtina Švietimo ir mokslo ministerija. Studijų kokybės
 
-centro pagrindiniai uždaviniai yra:
+vertinimo centro pagrindiniai uždaviniai yra:
 
 1) skatinti
 
@@ -1285,9 +1287,9 @@ straipsnis. Akademinės etikos ir procedūrų kontrolierius
 
 etikos ir procedūrų kontrolierius (toliau – kontrolierius) yra valstybės
 
-pareigūnas, nagrinėjantis skundus ir inicijuojantis tyrimus dėl akademinės etikos
+pareigūnas, nagrinėjantis skundus ir inicijuojantis tyrimus dėl akademinės
 
-ir procedūrų pažeidimo.
+etikos ir procedūrų pažeidimo.
 
 2. Kontrolierių
 
@@ -1373,11 +1375,9 @@ vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais,
 
 Lietuvos Respublikos tarptautinėmis sutartimis, kitais teisės aktais.
 
-9.
+9. Kontrolieriaus
 
-Kontrolieriaus veikla grindžiama teisėtumo, nešališkumo, teisingumo ir viešumo
-
-principais.
+veikla grindžiama teisėtumo, nešališkumo, teisingumo ir viešumo principais.
 
 10.
 
@@ -1391,15 +1391,17 @@ vardas, pavardė (arba juridinio asmens pavadinimas) ir adresas;
 
 akademinės etikos ir (arba) procedūrų pažeidimą.
 
-11. Kontrolierius
+11.
 
-gautą skundą išnagrinėja ir priima sprendimą ne vėliau kaip per 30 dienų. Dėl
+Kontrolierius gautą skundą išnagrinėja ir priima sprendimą ne vėliau kaip per
 
-skunde nurodytų aplinkybių sudėtingumo ar dėl to, kad skundo nagrinėjimo metu
+30 dienų. Dėl skunde nurodytų aplinkybių sudėtingumo ar dėl to, kad skundo
 
-prireikia gauti papildomos informacijos, skundo nagrinėjimo ir sprendimo dėl jo
+nagrinėjimo metu prireikia gauti papildomos informacijos, skundo nagrinėjimo ir
 
-priėmimo terminas gali būti pratęstas iki 3 mėnesių nuo skundo gavimo dienos.
+sprendimo dėl jo priėmimo terminas gali būti pratęstas iki 3 mėnesių nuo skundo
+
+gavimo dienos.
 
 12. Išnagrinėjęs
 
@@ -1577,17 +1579,17 @@ senato (akademinės tarybos) siūlymus, tvirtina rektoriaus (direktoriaus)
 
 pateiktą aukštosios mokyklos strateginį veiklos planą;
 
-4) svarsto ir tvirtina rektoriaus (direktoriaus) teikiamus
+4) svarsto ir tvirtina rektoriaus (direktoriaus)
 
-aukštosios mokyklos struktūros pertvarkos planus;
+teikiamus aukštosios mokyklos struktūros pertvarkos planus;
 
 5) įvertinusi
 
 senato (akademinės tarybos) siūlymus, nustato aukštosios mokyklos lėšų (taip
 
-pat lėšų, skirtų administracijos ir kitų darbuotojų darbo užmokesčiui) ir
+pat lėšų, skirtų administracijos ir kitų darbuotojų darbo užmokesčiui) ir nuosavybės
 
-nuosavybės teise valdomo turto valdymo, naudojimo ir disponavimo jais tvarką;
+teise valdomo turto valdymo, naudojimo ir disponavimo jais tvarką;
 
 6) įvertinusi
 
@@ -1711,15 +1713,15 @@ tarybos pirmininką. Tarybos pirmininku negali būti aukštosios mokyklos
 
 personalui priklausantis asmuo ar studentas.
 
-9. Taryba tvirtina
+9. Taryba
 
-savo darbo reglamentą. Taryba sprendimus priima paprasta posėdyje dalyvaujančių
+tvirtina savo darbo reglamentą. Taryba sprendimus priima paprasta posėdyje
 
-tarybos narių balsų dauguma. Tarybos posėdžiai yra teisėti, jeigu juose
+dalyvaujančių tarybos narių balsų dauguma. Tarybos posėdžiai yra teisėti, jeigu
 
-dalyvauja ne mažiau kaip du trečdaliai tarybos narių. Savo sprendimus taryba
+juose dalyvauja ne mažiau kaip du trečdaliai tarybos narių. Savo sprendimus
 
-skelbia viešai aukštosios mokyklos interneto tinklalapyje.
+taryba skelbia viešai aukštosios mokyklos interneto tinklalapyje.
 
 10. Aukštosios mokyklos rektorius (direktorius) gali
 
@@ -1743,11 +1745,13 @@ tarybos nario įgaliojimai nutrūksta iki kadencijos pabaigos, naują tarybos na
 
 šio straipsnio 3 dalyje nustatyta tvarka skiria asmuo, skyręs tarybos narį,
 
-kurio įgaliojimai nutrūko. Naujas tarybos narys pareigas pradeda eiti po to,
+kurio įgaliojimai nutrūko. Naujas tarybos narys pareigas pradeda eiti po to, kai
 
-kai apie jo paskyrimą paskelbia aukštosios mokyklos senato (akademinės tarybos) pirmininkas ir tarybos narys
+apie jo paskyrimą paskelbia aukštosios mokyklos senato (akademinės
 
-pasirašo šio straipsnio 7 dalyje nurodytą įsipareigojimą.
+tarybos) pirmininkas ir tarybos narys pasirašo šio straipsnio 7 dalyje
+
+nurodytą įsipareigojimą.
 
 13.
 
@@ -1811,9 +1815,9 @@ universiteto mokslo ir meno veiklos kokybę ir lygį;
 
 3) kolegijose
 
-tvirtina studijų programas ir teikia direktoriui siūlymus dėl šių programų
+tvirtina studijų programas ir teikia direktoriui siūlymus dėl šių programų finansavimo
 
-finansavimo ir dėl kolegijos struktūros pertvarkos, reikalingos toms programoms
+ir dėl kolegijos struktūros pertvarkos, reikalingos toms programoms
 
 įgyvendinti, vertina atliktų tyrimų rezultatus ir kolegijos mokslo taikomosios
 
@@ -1897,13 +1901,13 @@ tvarka.
 
 tvarka ne ilgiau kaip 5 metams.
 
-5. Senato (akademinės
+5. Senato
 
-tarybos) nariais gali būti universiteto (kolegijos) akademinės bendruomenės
+(akademinės tarybos) nariais gali būti universiteto (kolegijos) akademinės
 
-nariai, universiteto administracijos nariai, patenkantys į senatą (akademinę
+bendruomenės nariai, universiteto administracijos nariai, patenkantys į senatą
 
-tarybą) pagal pareigas, taip pat kitų mokslo ir studijų institucijų
+(akademinę tarybą) pagal pareigas, taip pat kitų mokslo ir studijų institucijų
 
 mokslininkai, dėstytojai ir pripažinti menininkai. Studentų skiriami atstovai
 
@@ -1917,11 +1921,11 @@ ir vyriausiojo mokslo darbuotojo pareigas einantys asmenys turi sudaryti ne
 
 mažiau kaip 20 procentų senato narių. Docento ir vyresniojo mokslo darbuotojo
 
-pareigas einantys asmenys turi sudaryti ne mažiau kaip 20 procentų senato (akademinės
+pareigas einantys asmenys turi sudaryti ne mažiau kaip 20 procentų senato
 
-tarybos) narių. Senato (akademinės tarybos) nariai pagal pareigas turi sudaryti
+(akademinės tarybos) narių. Senato (akademinės tarybos) nariai pagal pareigas
 
-ne daugiau kaip 10 procentų senato (akademinės tarybos) narių. Senato (akademinės tarybos) nariai pagal pareigas gali būti
+turi sudaryti ne daugiau kaip 10 procentų senato (akademinės tarybos) narių. Senato (akademinės tarybos) nariai pagal pareigas gali būti
 
 ir kitų mokslo ir studijų institucijų darbuotojai. Aukštosios mokyklos
 
@@ -1931,7 +1935,9 @@ rektorius (direktorius) yra senato (akademinės tarybos) narys pagal pareigas.
 
 (akademinės tarybos) veiklą reglamentuoja aukštosios mokyklos senato
 
-(akademinės tarybos) patvirtintas senato (akademinės tarybos) darbo reglamentas.
+(akademinės tarybos) patvirtintas senato (akademinės tarybos) darbo
+
+reglamentas.
 
 7. Senato
 
@@ -1963,9 +1969,9 @@ XI-1920,
 
 2012-01-19, Žin., 2012, Nr. 13-554 (2012-01-28)
 
-Nr. XI-1987,
+Nr. XI-1987, 2012-04-24,
 
-2012-04-24, Žin., 2012, Nr. 53-2639 (2012-05-08)
+Žin., 2012, Nr. 53-2639 (2012-05-08)
 
 22
 
@@ -2105,9 +2111,9 @@ Respublikos Konstitucinis Teismas, Nutarimas
 
 Nr.
 
-XI-1920, 2012-01-19,
+XI-1920,
 
-Žin., 2012, Nr. 13-554 (2012-01-28)
+2012-01-19, Žin., 2012, Nr. 13-554 (2012-01-28)
 
 Nr. XI-1987,
 
@@ -2157,9 +2163,9 @@ MOKSLINIŲ TYRIMŲ INSTITUTO
 
 VALDYMAS
 
-24 straipsnis.
+24 straipsnis. Mokslinių
 
-Mokslinių tyrimų instituto organai
+tyrimų instituto organai
 
 1. Valstybinio
 
@@ -2601,11 +2607,13 @@ aukštosios mokyklos taryba, paskiria likvidatorių, kuris pagal Švietimo ir
 
 mokslo ministerijos patvirtintą likvidavimo projektą ir grafiką likviduoja
 
-valstybinę aukštąją mokyklą. Likvidavimo projekte turi būti išdėstyti siūlymai dėl
+valstybinę aukštąją mokyklą. Likvidavimo projekte turi būti išdėstyti siūlymai
 
-galimybių užtikrinti studentams tęsti studijas kitose aukštosiose mokyklose,
+dėl galimybių užtikrinti studentams tęsti studijas kitose aukštosiose
 
-taip pat siūlymai dėl valstybinės aukštosios mokyklos turto naudojimo.
+mokyklose, taip pat siūlymai dėl valstybinės aukštosios mokyklos turto
+
+naudojimo.
 
 3. Nuo likvidatoriaus paskyrimo dienos likviduojamos valstybinės
 
@@ -2639,9 +2647,9 @@ leidimą vykdyti studijas ir su studijomis susijusią veiklą turinčios aukšto
 
 mokyklos:
 
-1) valstybinės
+1) valstybinės aukštosios
 
-aukštosios mokyklos;
+mokyklos;
 
 2) nevalstybinės
 
@@ -2905,7 +2913,9 @@ reikalavimų;
 
 užsienio valstybės, kurios jurisdikcijai priklauso užsienio aukštoji mokykla,
 
-kompetentinga institucija prieštarauja atstovybės steigimui Lietuvos Respublikoje;
+kompetentinga institucija prieštarauja atstovybės steigimui Lietuvos
+
+Respublikoje;
 
 4)
 
@@ -2981,19 +2991,19 @@ pobūdį.
 
 8.
 
-Leidimą gavusi institucija, kuriai išduoto leidimo vykdyti su studijomis
+Leidimą gavusi institucija, kuriai išduoto leidimo vykdyti su studijomis susijusią
 
-susijusią veiklą galiojimas yra sustabdytas, neturi teisės vykdyti su
+veiklą galiojimas yra sustabdytas, neturi teisės vykdyti su studijomis
 
-studijomis susijusios veiklos.
+susijusios veiklos.
 
 9.
 
 Apie leidimo vykdyti su studijomis susijusią veiklą panaikinimą ar jo galiojimo
 
-sustabdymą Švietimo ir mokslo ministerija praneša užsienio aukštajai mokyklai
+sustabdymą Švietimo ir mokslo ministerija praneša užsienio aukštajai mokyklai ir
 
-ir Juridinių asmenų registrui.
+Juridinių asmenų registrui.
 
 10.
 
@@ -3517,23 +3527,21 @@ laipsnis arba profesinio bakalauro laipsnis ir kvalifikacija (šio įstatymo
 
 2.
 
-Magistrantūros studijų programos skiriamos pasirengti savarankiškam mokslo
+Magistrantūros studijų programos skiriamos pasirengti savarankiškam mokslo (meno)
 
-(meno) darbui arba kitam darbui, kurį atlikti reikia mokslo žinių ir analitinių
+darbui arba kitam darbui, kurį atlikti reikia mokslo žinių ir analitinių gebėjimų.
 
-gebėjimų. Magistrantūros studijos vyksta universitetuose, kuriuose vykdoma
+Magistrantūros studijos vyksta universitetuose, kuriuose vykdoma studijų kryptį
 
-studijų kryptį atitinkanti mokslo (meno) veikla. Asmenims, baigusiems
+atitinkanti mokslo (meno) veikla. Asmenims, baigusiems magistrantūros studijų
 
-magistrantūros studijų programas, suteikiamas atitinkamos studijų krypties
+programas, suteikiamas atitinkamos studijų krypties magistro laipsnis arba
 
-magistro laipsnis arba magistro laipsnis ir kvalifikacija. Asmenims,
+magistro laipsnis ir kvalifikacija. Asmenims, baigusiems antrosios pakopos
 
-baigusiems antrosios pakopos teologijos studijų programas, suderintas su
+teologijos studijų programas, suderintas su Katalikų bažnyčios vadovybe,
 
-Katalikų bažnyčios vadovybe, gali būti suteikiamas teologijos licenciato
-
-laipsnis.
+gali būti suteikiamas teologijos licenciato laipsnis.
 
 3. Bendruosius
 
@@ -3641,11 +3649,11 @@ Nr. XI-1987,
 
 straipsnis. Dėstomoji kalba
 
-Valstybinėse aukštosiose
+Valstybinėse
 
-mokyklose dėstomoji kalba yra lietuvių kalba. Kitomis kalbomis galima dėstyti
+aukštosiose mokyklose dėstomoji kalba yra lietuvių kalba. Kitomis kalbomis
 
-šiais atvejais, kai:
+galima dėstyti šiais atvejais, kai:
 
 1) studijų
 
@@ -4561,9 +4569,15 @@ mokslo darbuotojo pareigoms eiti, sudaroma neterminuota darbo sutartis šioms
 
 pareigoms eiti. Šis asmuo atestuojamas kas 5 metai mokslo ir studijų
 
-institucijų nustatyta tvarka. Neatestuotas asmuo atleidžiamas. Į aukštesnes
+institucijų nustatyta tvarka. Laikotarpis, kurio metu asmeniui atestuojanti
 
-dėstytojo ar mokslo darbuotojo pareigas priimama viešo konkurso būdu.
+mokslo ir studijų institucija buvo suteikusi nėštumo ir gimdymo, tėvystės
+
+atostogas ar atostogas vaikui prižiūrėti, į 5 metų laikotarpį neįtraukiamas.
+
+Neatestuotas asmuo atleidžiamas. Į aukštesnes dėstytojo ar mokslo darbuotojo
+
+pareigas priimama viešo konkurso būdu.
 
 5. Kandidatus
 
@@ -4584,6 +4598,16 @@ komisijoje turi būti bent vienas tarptautinis ekspertas.
 studijų institucijų dėstytojams ir mokslo darbuotojams institucijų tarybų
 
 nustatyta tvarka gali būti rengiama neeilinė atestacija.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XII-924,
+
+2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07838
 
 66
 
@@ -4815,13 +4839,13 @@ atsižvelgdama į valstybės ūkinės, socialinės ir kultūrinės plėtros pore
 
 valstybės finansines galimybes.
 
-3. Preliminarų valstybės finansuojamų pirmosios pakopos ir vientisųjų
+3. Preliminarų valstybės finansuojamų pirmosios pakopos ir
 
-studijų vietų, į kurias priimami studentai, skaičių kiekvienoje iš studijų
+vientisųjų studijų vietų, į kurias priimami studentai, skaičių kiekvienoje iš
 
-sričių arba studijų krypčių grupių ne vėliau kaip iki kiekvienų metų vasario 16
+studijų sričių arba studijų krypčių grupių ne vėliau kaip iki kiekvienų metų
 
-dienos skelbia Švietimo ir mokslo ministerija.
+vasario 16 dienos skelbia Švietimo ir mokslo ministerija.
 
 4. Į valstybės finansuojamas studijų vietas pirmosios pakopos ir
 
@@ -4859,15 +4883,15 @@ atitinkamoms nuolatinės formos studijoms nustatytas studijų laikotarpis,
 
 išskyrus šio straipsnio 8 dalyje numatytus atvejus. Tais atvejais, kai asmuo
 
-pašalinamas iš aukštosios mokyklos, praranda valstybės finansavimą arba
+pašalinamas iš aukštosios mokyklos, praranda valstybės finansavimą arba nutraukia
 
-nutraukia studijas ir kai valstybės
+studijas ir kai valstybės finansuojama studijų
 
-finansuojama studijų vieta nėra užimama šio straipsnio 14 dalyje nustatyta
+vieta nėra užimama šio straipsnio 14 dalyje nustatyta tvarka, valstybės
 
-tvarka, valstybės finansavimas studijų vietai išlieka aukštajai mokyklai
+finansavimas studijų vietai išlieka aukštajai mokyklai iki biudžetinių metų
 
-iki biudžetinių metų pabaigos.
+pabaigos.
 
 7. Asmuo, kurio
 
@@ -4879,9 +4903,9 @@ studijų metai, po kurio atliekama reguliari pagrindinė žinių patikra, netenk
 
 valstybės finansavimo studijoms, jeigu atitinkamo laikotarpio jo studijų
 
-rezultatų vidurkis yra daugiau kaip 20 procentinių punktų mažesnis negu aukštosios
+rezultatų vidurkis yra daugiau kaip 20 procentinių punktų mažesnis negu
 
-mokyklos atitinkamos studijų programos ir formos to paties kurso
+aukštosios mokyklos atitinkamos studijų programos ir formos to paties kurso
 
 studijuojančiųjų atitinkamo laikotarpio studijų rezultatų vidurkis. Valstybės
 
@@ -4905,25 +4929,25 @@ norminė studijų kaina.
 
 Valstybės finansuojamų antrosios pakopos, doktorantūros ir laipsnio
 
-nesuteikiančių studijų vietų, į kurias priimami studentai, skaičių pagal studijų
+nesuteikiančių studijų vietų, į kurias priimami studentai, skaičių pagal
 
-ar mokslo sritis kiekvienais metais iki kovo 11 dienos nustato Vyriausybė,
+studijų ar mokslo sritis kiekvienais metais iki kovo 11 dienos nustato
 
-atsižvelgdama į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir
+Vyriausybė, atsižvelgdama į valstybės ūkinės, socialinės ir kultūrinės plėtros
 
-valstybės finansines galimybes. Universitetams antrosios pakopos ir laipsnio
+poreikius ir valstybės finansines galimybes. Universitetams antrosios pakopos
 
-nesuteikiančias studijų vietas Švietimo ir mokslo ministerija paskirsto pagal
+ir laipsnio nesuteikiančias studijų vietas Švietimo ir mokslo ministerija
 
-studijų kryptis, atsižvelgdama į mokslo (meno) veiklos rezultatus ir (arba)
+paskirsto pagal studijų kryptis, atsižvelgdama į mokslo (meno) veiklos
 
-stojančiųjų į pirmosios pakopos ir vientisųjų studijų programas pasirinkimą
+rezultatus ir (arba) stojančiųjų į pirmosios pakopos ir vientisųjų studijų
 
-pagal studijų ar mokslo kryptį. Doktorantūros vietas mokslo ir studijų
+programas pasirinkimą pagal studijų ar mokslo kryptį. Doktorantūros vietas
 
-institucijoms Švietimo ir mokslo ministerija paskirsto pagal mokslo
+mokslo ir studijų institucijoms Švietimo ir mokslo ministerija paskirsto pagal
 
-kryptis, atsižvelgdama į mokslo (meno) veiklos ir doktorantūros
+mokslo kryptis, atsižvelgdama į mokslo (meno) veiklos ir doktorantūros
 
 rezultatus.
 
@@ -4935,13 +4959,15 @@ studijų vietose studijų kainą šio įstatymo 76 straipsnyje nustatyta tvarka.
 
 finansuojamose studijų vietose apmokėti skiriamos Vyriausybės nustatyta tvarka.
 
-12. Vyriausybės nustatytais atvejais ir tvarka valstybės finansuojamose
+12. Vyriausybės nustatytais atvejais ir tvarka valstybės
 
-studijų vietose studijavę asmenys, pašalinti iš aukštosios mokyklos arba
+finansuojamose studijų vietose studijavę asmenys, pašalinti iš aukštosios
 
-nutraukę studijas, privalo į valstybės biudžetą grąžinti studijų kainai
+mokyklos arba nutraukę studijas, privalo į valstybės biudžetą grąžinti studijų
 
-valstybės finansuojamose studijų vietose apmokėti skirtas lėšas arba jų dalį.
+kainai valstybės finansuojamose studijų vietose apmokėti skirtas lėšas arba jų
+
+dalį.
 
 13. Užsienio
 
@@ -5239,9 +5265,7 @@ Antrosios pakopos studentai ir doktorantai gali gauti studijų stipendiją
 
 Vyriausybės nustatyta tvarka. Studijų stipendijų skyrimo ir mokėjimo tvarką
 
-nustato Vyriausybė. Studijų stipendijas administruoja Valstybinis studijų
-
-fondas.
+nustato Vyriausybė. Studijų stipendijas administruoja Valstybinis studijų fondas.
 
 8. Studentas
 
@@ -5349,9 +5373,9 @@ eksperimentinės (socialinės, kultūrinės) plėtros darbų priemonių visuma, 
 
 rezultatai yra naujos mokslo žinios ir technologijos, mokslinių tyrimų,
 
-eksperimentinės (socialinės, kultūrinės) plėtros infrastruktūra, aukštesnė
+eksperimentinės (socialinės, kultūrinės) plėtros infrastruktūra, aukštesnė tyrėjų
 
-tyrėjų kompetencija ir kiti dalykai, būtini valstybei ir visuomenei aktualioms
+kompetencija ir kiti dalykai, būtini valstybei ir visuomenei aktualioms
 
 problemoms spręsti. Konkursinės mokslo programos įgyvendinamos konkursiniu būdu
 
@@ -5453,11 +5477,11 @@ valstybinių mokslo institucijų įstatuose nustatytiems tikslams ir uždaviniam
 
 įgyvendinti.
 
-3. Pagal patikėjimo
+3. Pagal
 
-sutartį perduotas valstybės turtas turi būti traukiamas į apskaitą atskirai nuo
+patikėjimo sutartį perduotas valstybės turtas turi būti traukiamas į apskaitą
 
-kito valstybinės aukštosios mokyklos turto.
+atskirai nuo kito valstybinės aukštosios mokyklos turto.
 
 4. Valstybinės mokslo ir studijų institucijos kiekvienais metais
 
@@ -5543,15 +5567,17 @@ aukštosios mokyklos misijos įgyvendinimą.
 
 2.
 
-Valstybinės aukštosios mokyklos naudojasi savo teritorijos ir pastatų neliečiamumo
+Valstybinės aukštosios mokyklos naudojasi savo teritorijos ir pastatų
 
-teise. Keisti valstybinės aukštosios mokyklos teritorijos ribas ar valstybės
+neliečiamumo teise. Keisti valstybinės aukštosios mokyklos teritorijos ribas ar
 
-pastatų valdytojus gali tik Vyriausybė, įvertinusi valstybinės aukštosios
+valstybės pastatų valdytojus gali tik Vyriausybė, įvertinusi valstybinės
 
-mokyklos tarybos nuomonę. Jei valstybinio universiteto taryba nesutinka,
+aukštosios mokyklos tarybos nuomonę. Jei valstybinio universiteto taryba
 
-teritorijos ribas ar valstybės pastatų valdytojus gali keisti Seimas.
+nesutinka, teritorijos ribas ar valstybės pastatų valdytojus gali keisti
+
+Seimas.
 
 80 straipsnis. Valstybės turto perdavimas
 
@@ -5593,13 +5619,13 @@ praėjusių finansinių metų valstybės turto valdymo, naudojimo ir disponavimo
 
 ataskaitą valstybinės aukštosios mokyklos interneto tinklalapyje.
 
-5. Pagal patikėjimo sutartį perduotą valstybės turtą
+5. Pagal patikėjimo sutartį perduotą valstybės turtą valstybinė
 
-valstybinė aukštoji mokykla gali išnuomoti tretiesiems asmenims, suteikti
+aukštoji mokykla gali išnuomoti tretiesiems asmenims, suteikti panaudos
 
-panaudos pagrindais, jeigu tai buvo numatyta patikėjimo sutartyje ir jeigu tai
+pagrindais, jeigu tai buvo numatyta patikėjimo sutartyje ir jeigu tai būtina
 
-būtina valstybinės aukštosios mokyklos veiklai užtikrinti.
+valstybinės aukštosios mokyklos veiklai užtikrinti.
 
 6. Į valstybės
 
@@ -5625,9 +5651,9 @@ investuotas turtas;
 
 2)
 
-pajamos, gautos kaip mokestis už studijas, taip pat pajamos iš ūkinės,
+pajamos, gautos kaip mokestis už studijas, taip pat pajamos iš ūkinės, mokslinės
 
-mokslinės veiklos ir teikiamų paslaugų;
+veiklos ir teikiamų paslaugų;
 
 3)
 
@@ -5695,19 +5721,19 @@ topografijų, kitų intelektinės nuosavybės objektų), įgytų pagal sutartį 
 
 įstatymų nustatyta tvarka.
 
-2. Apie savo intelektinės veiklos
+2. Apie savo intelektinės veiklos rezultatus,
 
-rezultatus, kurie buvo sukurti valstybinėje aukštojoje mokykloje naudojantis
+kurie buvo sukurti valstybinėje aukštojoje mokykloje naudojantis jos patirtimi
 
-jos patirtimi arba technologija ir (arba) įranga ir (arba) atliekant mokslo
+arba technologija ir (arba) įranga ir (arba) atliekant mokslo tiriamąjį darbą
 
-tiriamąjį darbą vykdant darbo funkcijas, asmuo privalo pranešti valstybinei
+vykdant darbo funkcijas, asmuo privalo pranešti valstybinei aukštajai mokyklai
 
-aukštajai mokyklai jos nustatyta tvarka. Turtinių teisių perdavimo aukštajai
+jos nustatyta tvarka. Turtinių teisių perdavimo aukštajai mokyklai ar suteikimo
 
-mokyklai ar suteikimo jomis naudotis klausimai reglamentuojami įstatymų ir
+jomis naudotis klausimai reglamentuojami įstatymų ir (arba) sutarčių nustatyta
 
-(arba) sutarčių nustatyta tvarka.
+tvarka.
 
 3. Ne mažiau kaip 1/3 pelno, gauto už
 
@@ -5769,31 +5795,31 @@ Valstybinėms aukštosioms mokykloms draudžiama jų valdomu turtu užtikrinti
 
 trečiųjų asmenų prievoles.
 
-4. Valstybinės
+4.
 
-aukštosios mokyklos turi teisę skolintis, tai yra pasirašyti paskolų sutartis,
+Valstybinės aukštosios mokyklos turi teisę skolintis, tai yra pasirašyti
 
-lizingo (finansinės nuomos) sutartis ir kitus įsipareigojamuosius skolos
+paskolų sutartis, lizingo (finansinės nuomos) sutartis ir kitus
 
-dokumentus, laikydamosi Lietuvos Respublikos atitinkamų metų valstybės biudžeto
+įsipareigojamuosius skolos dokumentus, laikydamosi Lietuvos Respublikos
 
-ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo nustatyto
+atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
 
-bendro valstybinėms aukštosioms mokykloms skolinimosi limito. Švietimo ir
+patvirtinimo įstatymo nustatyto bendro valstybinėms aukštosioms mokykloms
 
-mokslo ministerija paskirsto šį skolinimosi limitą valstybinėms aukštosioms
+skolinimosi limito. Švietimo ir mokslo ministerija paskirsto šį skolinimosi
 
-mokykloms. Valstybinės aukštosios mokyklos už prisiimtus skolinius
+limitą valstybinėms aukštosioms mokykloms. Valstybinės aukštosios mokyklos už
 
-įsipareigojimus atsiskaito Švietimo ir mokslo ministerijai jos nustatyta
+prisiimtus skolinius įsipareigojimus atsiskaito Švietimo ir mokslo ministerijai
 
-tvarka. Valstybinė aukštoji mokykla negali įkeisti daugiau kaip 20 procentų
+jos nustatyta tvarka. Valstybinė aukštoji mokykla negali įkeisti daugiau kaip
 
-nuosavybės teise valdomo materialiojo turto, kad užtikrintų skolinių
+20 procentų nuosavybės teise valdomo materialiojo turto, kad užtikrintų
 
-įsipareigojimų laikymąsi. Nekilnojamojo turto įkeitimo sandoriams turi būti
+skolinių įsipareigojimų laikymąsi. Nekilnojamojo turto įkeitimo sandoriams turi
 
-gautas Vyriausybės arba jos įgaliotos institucijos sutikimas Vyriausybės
+būti gautas Vyriausybės arba jos įgaliotos institucijos sutikimas Vyriausybės
 
 nustatyta tvarka.
 
@@ -5893,9 +5919,11 @@ būdus savo mokslinių tyrimų ir eksperimentinės (socialinės, kultūrinės) p
 
 rezultatams skelbti;
 
-4) kartu
+4)
 
-su aukštosiomis mokyklomis rengti mokslininkus, padėti rengti specialistus;
+kartu su aukštosiomis mokyklomis rengti mokslininkus, padėti rengti
+
+specialistus;
 
 5)
 
@@ -6045,9 +6073,9 @@ Valstybės mokslo įstaiga - mokslinių
 
 tyrimų įstaiga, atliekanti atitinkamos ūkio ar kultūros srities plėtrai
 
-svarbius taikomuosius mokslinius tyrimus ir eksperimentinės (socialinės,
+svarbius taikomuosius mokslinius tyrimus ir eksperimentinės (socialinės, kultūrinės)
 
-kultūrinės) plėtros darbus ir (arba) plėtojanti eksperimentinę gamybą.
+plėtros darbus ir (arba) plėtojanti eksperimentinę gamybą.
 
 2. Pagrindiniai
 
@@ -6159,11 +6187,11 @@ senato paskirti nariai. Vyriausybė gali nustatyti ir kitokį universiteto moksl
 
 instituto mokslininkų išrinktų ir universiteto senato paskirtų universiteto
 
-mokslo instituto tarybos narių santykį, be to, Vyriausybė taip pat gali
+mokslo instituto tarybos narių santykį, be to, Vyriausybė taip pat gali nustatyti,
 
-nustatyti, kokia tvarka į universiteto mokslo instituto tarybą įtraukiami
+kokia tvarka į universiteto mokslo instituto tarybą įtraukiami suinteresuotų
 
-suinteresuotų institucijų, įstaigų bei organizacijų atstovai.
+institucijų, įstaigų bei organizacijų atstovai.
 
 5.
 
@@ -6255,9 +6283,11 @@ institucija, kitos institucijos, nurodytos šiame įstatyme, parengia ir
 
 patvirtina teisės aktus, reikalingus šio įstatymo nuostatoms įgyvendinti.
 
-2. Įsigaliojus šiam įstatymui, universitetai
+2. Įsigaliojus šiam įstatymui,
 
-negali priimti asmenų į kolegines, o kolegijos – į universitetines studijas.
+universitetai negali priimti asmenų į kolegines, o kolegijos – į
+
+universitetines studijas.
 
 3.
 
@@ -6569,7 +6599,7 @@ stipendijas. Meno aspirantūros studijų prilyginimą atitinkamoms studijoms pag
 
 5. Neteko
 
-galios nuo 2012 m. gegužės 8 d.
+galios nuo 2012-05-08.
 
 6. Šio
 
@@ -6635,9 +6665,9 @@ Nr. XI-1987,
 
 2012-04-24, Žin., 2012, Nr. 53-2639 (2012-05-08)
 
-96 straipsnis. Valstybinių aukštųjų
+96 straipsnis. Valstybinių aukštųjų mokyklų
 
-mokyklų pertvarkymas iš biudžetinių įstaigų į viešąsias įstaigas
+pertvarkymas iš biudžetinių įstaigų į viešąsias įstaigas
 
 1.
 
@@ -6659,7 +6689,9 @@ turtas.
 
 Pertvarkius valstybinę aukštąją mokyklą į viešąją įstaigą, jai pereina visos
 
-teisės ir pareigos, kurias valstybinė aukštoji mokykla įgijo būdama biudžetinė įstaiga.
+teisės ir pareigos, kurias valstybinė aukštoji mokykla įgijo būdama biudžetinė
+
+įstaiga.
 
 4. Per 12 mėnesių nuo šio įstatymo įsigaliojimo valstybiniai
 
@@ -6735,9 +6767,9 @@ studijų įstatymo 24 straipsnio pakeitimo įstatymas (Žin., 2004, Nr. 158-5756
 
 9) Lietuvos Respublikos aukštojo
 
-mokslo įstatymo ir Mokslo ir studijų įstatymo pakeitimo ir papildymo įstatymas
+mokslo įstatymo ir Mokslo ir studijų įstatymo pakeitimo ir papildymo įstatymas (Žin.,
 
-(Žin., 2005, Nr. 85-3136);
+2005, Nr. 85-3136);
 
 10) Lietuvos Respublikos aukštojo
 
@@ -6839,9 +6871,25 @@ LIETUVOS RESPUBLIKOS MOKSLO IR STUDIJŲ
 
 ĮSTATYMO NR. XI-242 28 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-***
+5.
 
-Pabaiga ***
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XII-924,
+
+2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07838
+
+LIETUVOS RESPUBLIKOS MOKSLO IR STUDIJŲ
+
+ĮSTATYMO NR. XI-242 65 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2014 m. liepos 1 d.
 
 Konstitucinio
 
@@ -6869,7 +6917,7 @@ Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2014-05-21)
+Aušra Bodin (2014-06-20)
 
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
 
