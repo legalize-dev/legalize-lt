@@ -4,7 +4,7 @@ identifier: "TAR.4C18D17F9BA5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-15"
-last_updated: "2013-12-30"
+last_updated: "2014-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5"
 department: "Lietuvos Respublikos Seimas"
@@ -29,9 +29,7 @@ UŽIMTUMO RĖMIMO
 
 Vilnius
 
-Nauja įstatymo redakcija nuo 2009 m.
-
-rugpjūčio 1 d.:
+Nauja įstatymo redakcija nuo 2009-08-01:
 
 Nr. XI-334,
 
@@ -39,9 +37,7 @@ Nr. XI-334,
 
 PIRMASIS SKIRSNIS
 
-BENDROSIOS
-
-NUOSTATOS
+BENDROSIOS NUOSTATOS
 
 4 straipsnis.
 
@@ -177,9 +173,9 @@ Vyriausybės kompetencija
 
 Vyriausybė:
 
-1) teikia Seimui užimtumo rėmimo politikos įgyvendinimą
+1) teikia Seimui užimtumo rėmimo politikos
 
-reglamentuojančių įstatymų projektus;
+įgyvendinimą reglamentuojančių įstatymų projektus;
 
 2) tvirtina valstybės užimtumo rėmimo programas ir
 
@@ -281,9 +277,9 @@ atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų
 
 6) organizuoja ir koordinuoja profesinės
 
-reabilitacijos paslaugų teikimą Lietuvos Respublikos neįgaliųjų socialinės
+reabilitacijos paslaugų teikimą Lietuvos Respublikos neįgaliųjų socialinės integracijos
 
-integracijos įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka;
+įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka;
 
 7) dalyvauja rengiant profesinės reabilitacijos
 
@@ -293,17 +289,17 @@ programas;
 
 įgyvendinimą;
 
-9) nustato bedarbių ir įspėtų apie atleidimą iš darbo darbingo
+9) nustato bedarbių ir įspėtų apie atleidimą iš darbo
 
-amžiaus asmenų neformaliojo profesinio mokymo programų reikalavimus ir
+darbingo amžiaus asmenų neformaliojo profesinio mokymo programų reikalavimus ir
 
 koordinuoja, kaip vykdoma mokymo kokybės stebėsena;
 
 10) suderinusi su Socialinės apsaugos ir darbo
 
-ministerija, steigia, likviduoja ar reorganizuoja teritorines darbo biržas, koordinuoja,
+ministerija, steigia, likviduoja ar reorganizuoja teritorines darbo biržas,
 
-kontroliuoja ir metodiškai vadovauja jų veiklai;
+koordinuoja, kontroliuoja ir metodiškai vadovauja jų veiklai;
 
 11) atlieka
 
@@ -387,11 +383,11 @@ priemonių įgyvendinimo ir darbo rinkos paslaugų teikimo, veiklos efektyvumo
 
 didinimo.
 
-3. Trišalės
+3. Trišalės tarybos
 
-tarybos (komitetai, komisijos) gali būti nuolatinės arba sudaromos atskiriems
+(komitetai, komisijos) gali būti nuolatinės arba sudaromos atskiriems užimtumo
 
-užimtumo rėmimo politikos įgyvendinimo klausimams spręsti.
+rėmimo politikos įgyvendinimo klausimams spręsti.
 
 4.
 
@@ -511,13 +507,13 @@ politikos priemonėse asmenų apskaitą.
 
 straipsnis. Laisvų darbo vietų registravimas ir skelbimas
 
-1. Ieškantys darbuotojų
+1. Ieškantys
 
-darbdaviai turi informuoti teritorines darbo biržas apie laisvas darbo vietas,
+darbuotojų darbdaviai turi informuoti teritorines darbo biržas apie laisvas
 
-darbo funkcijas ir darbo pobūdį, darbo apmokėjimo ir kitas sąlygas bei
+darbo vietas, darbo funkcijas ir darbo pobūdį, darbo apmokėjimo ir kitas
 
-pretendentams įsidarbinti keliamus kvalifikacinius reikalavimus.
+sąlygas bei pretendentams įsidarbinti keliamus kvalifikacinius reikalavimus.
 
 2. Teritorinės
 
@@ -935,9 +931,9 @@ pat gali būti organizuojamas nukreipiant bedarbius ar įspėtus apie atleidimą
 
 darbo darbingo amžiaus darbuotojus mokytis pagal tas profesinio mokymo
 
-programas, kurias baigę jie galėtų įsidarbinti į Lietuvos darbo biržos atliktų
+programas, kurias baigę jie galėtų įsidarbinti į Lietuvos darbo biržos atliktų darbo
 
-darbo rinkos prognozių metu nustatytas būsimas darbo vietas, kurios nustatomos
+rinkos prognozių metu nustatytas būsimas darbo vietas, kurios nustatomos
 
 vadovaujantis Vyriausybės
 
@@ -1013,11 +1009,11 @@ profesinio mokymo teikėją ir kitos sąlygos. Profesinio mokymo teikėjas, suda
 
 sutartį su bedarbiu ar įspėtu apie atleidimą iš darbo darbingo amžiaus
 
-darbuotoju, kas mėnesį teritorinei darbo biržai teikia informaciją apie
+darbuotoju, kas mėnesį teritorinei darbo biržai teikia informaciją apie bedarbio
 
-bedarbio ar įspėto apie atleidimą iš darbo darbingo amžiaus darbuotojo mokymo
+ar įspėto apie atleidimą iš darbo darbingo amžiaus darbuotojo mokymo programos
 
-programos lankomumą.
+lankomumą.
 
 8. Profesinis
 
@@ -1071,15 +1067,15 @@ kvalifikacijai įgyti ir 3 Vyriausybės patvirtintos minimaliosios mėnesinės
 
 algos dydžių kvalifikacijai tobulinti ar kompetencijai įgyti. Į šias lėšas
 
-neįskaičiuojamos išlaidos, numatytos šio straipsnio 11 ir 12 dalyse. Lėšų nustatymo,
+neįskaičiuojamos išlaidos, numatytos šio straipsnio 11 ir 12 dalyse. Lėšų
 
-skyrimo ir panaudojimo kontrolės tvarka, sutarčių ir dokumentų tipinės
+nustatymo, skyrimo ir panaudojimo kontrolės tvarka, sutarčių ir
 
-formos nustatomos Vyriausybės ar jos įgaliotos institucijos patvirtintame
+dokumentų tipinės formos nustatomos Vyriausybės ar jos įgaliotos institucijos
 
-Aktyvios darbo rinkos politikos priemonių įgyvendinimo sąlygų ir tvarkos
+patvirtintame Aktyvios darbo rinkos politikos priemonių įgyvendinimo sąlygų ir
 
-apraše.
+tvarkos apraše.
 
 11. Bedarbiams
 
@@ -1101,11 +1097,11 @@ Nedarbo socialinio draudimo išmoka apskaičiuojama vadovaujantis Lietuvos
 
 Respublikos nedarbo socialinio draudimo įstatymu. Pasibaigus nedarbo socialinio
 
-draudimo išmokos mokėjimo terminui, likusį profesinio mokymo laikotarpį
+draudimo išmokos mokėjimo terminui, likusį profesinio mokymo laikotarpį bedarbiui
 
-bedarbiui toliau mokama 0,7 Vyriausybės patvirtintos minimaliosios mėnesinės
+toliau mokama 0,7 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio
 
-algos dydžio mokymo stipendija.
+mokymo stipendija.
 
 12. Bedarbiams
 
@@ -1149,31 +1145,31 @@ mėnesių panaikinęs darbo vietą, arba bedarbis ar įspėtas apie atleidimą i
 
 darbo darbingo amžiaus darbuotojas, be svarbios priežasties atsisakęs
 
-įsidarbinti pagal šio straipsnio 3 dalyje nurodytą trišalę sutartį ar
+įsidarbinti pagal šio straipsnio 3 dalyje nurodytą trišalę sutartį ar įsidarbinęs
 
-įsidarbinęs ir per 6 mėnesius nutraukęs darbo sutartį arba nepradėjęs
+ir per 6 mėnesius nutraukęs darbo sutartį arba nepradėjęs savarankiškos veiklos
 
-savarankiškos veiklos ar per 6 mėnesius ją nutraukęs, teritorinei darbo biržai
+ar per 6 mėnesius ją nutraukęs, teritorinei darbo biržai privalo atlyginti jos
 
-privalo atlyginti jos patirtas išlaidas, susijusias su profesiniu mokymu. Jei
+patirtas išlaidas, susijusias su profesiniu mokymu. Jei šios išlaidos nėra
 
-šios išlaidos nėra grąžinamos teritorinei darbo biržai, jos išieškomos įstatymų
+grąžinamos teritorinei darbo biržai, jos išieškomos įstatymų nustatyta tvarka.
 
-nustatyta tvarka. Bedarbiams ir įspėtiems apie atleidimą iš darbo
+Bedarbiams ir įspėtiems apie atleidimą iš darbo darbingo amžiaus
 
-darbingo amžiaus darbuotojams darbo paieška nevykdoma ir dalyvauti aktyvios
+darbuotojams darbo paieška nevykdoma ir dalyvauti aktyvios darbo rinkos
 
-darbo rinkos politikos priemonėse nesiūloma 6 mėnesius nuo profesinio mokymo
+politikos priemonėse nesiūloma 6 mėnesius nuo profesinio mokymo nutraukimo
 
-nutraukimo dienos, nuo atsisakymo įsidarbinti dienos arba nuo darbo sutarties
+dienos, nuo atsisakymo įsidarbinti dienos arba nuo darbo sutarties nutraukimo
 
-nutraukimo dienos, kai ji buvo nutraukta per 6 mėnesius nuo įsidarbinimo
+dienos, kai ji buvo nutraukta per 6 mėnesius nuo įsidarbinimo dienos.
 
-dienos. Svarbiomis priežastimis laikoma asmens liga ar kitos priežastys,
+Svarbiomis priežastimis laikoma asmens liga ar kitos priežastys, nustatytos
 
-nustatytos Vyriausybės ar jos įgaliotos institucijos patvirtintame Aktyvios
+Vyriausybės ar jos įgaliotos institucijos patvirtintame Aktyvios darbo rinkos
 
-darbo rinkos politikos priemonių įgyvendinimo sąlygų ir tvarkos apraše.
+politikos priemonių įgyvendinimo sąlygų ir tvarkos apraše.
 
 Straipsnio pakeitimai:
 
@@ -1217,19 +1213,19 @@ privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti
 
 sudaryta ne visam darbo laikui arba jis dirbo ne visą mėnesio darbo laiką,
 
-subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką
+subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką pagal
 
-pagal apskaičiuotą ar darbo sutartyje nustatytą valandinį atlygį. Subsidijos
+apskaičiuotą ar darbo sutartyje nustatytą valandinį atlygį. Subsidijos darbo
 
-darbo užmokesčiui dydis negali viršyti dviejų Vyriausybės patvirtintų
+užmokesčiui dydis negali viršyti dviejų Vyriausybės patvirtintų minimaliosios
 
-minimaliosios mėnesinės algos dydžių. Subsidijos darbo užmokesčiui dydis, kai
+mėnesinės algos dydžių. Subsidijos darbo užmokesčiui dydis, kai įdarbinami šio
 
-įdarbinami šio įstatymo 4 straipsnio 1 dalyje nurodyti asmenys, apskaičiuojamas
+įstatymo 4 straipsnio 1 dalyje nurodyti asmenys, apskaičiuojamas procentais nuo
 
-procentais nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio
+įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotų
 
-apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokos lėšų:
+draudėjo privalomojo valstybinio socialinio draudimo įmokos lėšų:
 
 1) 75 procentai
 
@@ -1837,9 +1833,9 @@ uždavinius, skiria lėšų nustatytiems tikslams pasiekti ir uždaviniams
 
 įgyvendinti, kontroliuoja, kaip naudojamos šios lėšos.
 
-4. (Neteko
+4. Neteko galios
 
-galios nuo 2010-10-01).
+nuo 2010-10-01.
 
 5. Teritorinės
 
@@ -1847,27 +1843,23 @@ darbo biržos įgyvendina aktyvios darbo rinkos politikos priemones, sudarydamos
 
 su juridiniais ir fiziniais asmenimis šių priemonių įgyvendinimo sutartis. Šių
 
-sutarčių tipinės formos nustatytos Vyriausybės tvirtinamame Aktyvios darbo rinkos
+sutarčių tipinės formos nustatytos Vyriausybės tvirtinamame Aktyvios darbo
 
-politikos priemonių įgyvendinimo sąlygų ir tvarkos apraše. Kaip darbdaviai
+rinkos politikos priemonių įgyvendinimo sąlygų ir tvarkos apraše. Kaip darbdaviai
 
 laikosi darbo sutarčių, sudarytų su teritorinės darbo biržos siųstais
 
 asmenimis, ir šių sutarčių atitikties įsipareigojimams, nustatytiems
 
-teritorinės darbo biržos ir darbdavių sudarytose sutartyse dėl aktyvios darbo
+teritorinės darbo biržos ir darbdavių sudarytose sutartyse dėl aktyvios darbo rinkos
 
-rinkos politikos priemonių įgyvendinimo, kontroliuoja Valstybinė darbo
-
-inspekcija.
+politikos priemonių įgyvendinimo, kontroliuoja Valstybinė darbo inspekcija.
 
 6. Ministerijos
 
 ir valstybės institucijos šio įstatymo ir kitų teisės aktų nustatytų užimtumo
 
-rėmimo priemonių įgyvendinimą numato strateginiuose ar metiniuose veiklos
-
-planuose.
+rėmimo priemonių įgyvendinimą numato strateginiuose ar metiniuose veiklos planuose.
 
 Straipsnio pakeitimai:
 
@@ -2293,9 +2285,9 @@ skaičiuojant nuo įsiregistravimo teritorinėje darbo biržoje dienos.
 
 vieta –
 
-darbo vieta (pareigos), į kurią įdarbinti (eiti pareigas) darbdavys ieško
+darbo vieta (pareigos), į kurią įdarbinti (eiti pareigas) darbdavys ieško tinkamo
 
-tinkamo darbuotojo.
+darbuotojo.
 
 12. Profesinė
 
@@ -2497,11 +2489,11 @@ informavimas.
 
 apie užimtumo rėmimo priemonių įgyvendinimą ir darbo rinkos paslaugų teikimą:
 
-1) darbo
+1) darbo ieškantys
 
-ieškantys asmenys yra supažindinami su užimtumo rėmimo priemonėmis ir darbo
+asmenys yra supažindinami su užimtumo rėmimo priemonėmis ir darbo rinkos
 
-rinkos paslaugomis bei dalyvavimo jose sąlygomis;
+paslaugomis bei dalyvavimo jose sąlygomis;
 
 2) darbdaviams
 
@@ -2571,13 +2563,13 @@ profesiją ar persikvalifikuojant, jie motyvuojami mokytis, dirbti ar dalyvauti
 
 socialinės ir profesinės reabilitacijos priemonėse.
 
-5. Teikiant šio
+5. Teikiant šio straipsnio
 
-straipsnio 2 dalies 3 punkte nurodytą psichologinio konsultavimo paslaugą,
+2 dalies 3 punkte nurodytą psichologinio konsultavimo paslaugą, padedama darbo
 
-padedama darbo ieškantiems ir kitiems asmenims spręsti emocines, asmenybės ir
+ieškantiems ir kitiems asmenims spręsti emocines, asmenybės ir bendravimo
 
-bendravimo problemas, sudarančias kliūtis jų užimtumui.
+problemas, sudarančias kliūtis jų užimtumui.
 
 20 straipsnis. Tarpininkavimo įdarbinant
 
@@ -2825,9 +2817,13 @@ biržoje įsiregistravusiems asmenims:
 
 darbuotojams;
 
-3) bendrojo lavinimo mokyklų ir profesinio mokymo
+3) bendrojo
 
-įstaigų mokiniams jų atostogų metu;
+ugdymo mokyklų ir profesinio mokymo įstaigų mokiniams, aukštųjų mokyklų
+
+studentams, studijuojantiems pagal nuolatinės formos studijų programas, jų
+
+atostogų metu;
 
 4) darbuotojams, dirbantiems ne visą darbo laiką
 
@@ -2867,9 +2863,9 @@ rengia viešųjų darbų programas ir jas tvirtina, vykdydama valstybines
 
 (valstybės perduotas savivaldybėms) ir savarankiškas savivaldybių funkcijas.
 
-Savivaldybės planuojamus atlikti viešuosius darbus numato savivaldybės
+Savivaldybės planuojamus atlikti viešuosius darbus numato savivaldybės strateginiame
 
-strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose.
+plėtros ir (ar) savivaldybės strateginiame veiklos planuose.
 
 5. Teritorinės darbo biržos rengia ir tvirtina viešųjų
 
@@ -3051,13 +3047,17 @@ Nr. XI-879,
 
 Nr.
 
-XI-1632, 2011-11-03,
+XI-1632,
 
-Žin., 2011, Nr. 138-6530 (2011-11-17)
+2011-11-03, Žin., 2011, Nr. 138-6530 (2011-11-17)
 
 Nr. XII-475, 2013-07-02,
 
 Žin., 2013, Nr. 79-3996 (2013-07-23)
+
+Nr. XII-979, 2014-06-26,
+
+paskelbta TAR 2014-07-01, i. k. 2014-09406
 
 29
 
@@ -3229,9 +3229,9 @@ iniciatyvų projektų įgyvendinimas
 
 1. Vietinių
 
-užimtumo iniciatyvų projektų įgyvendinimas organizuojamas bedarbių neterminuotam
+užimtumo iniciatyvų projektų įgyvendinimas organizuojamas bedarbių
 
-įdarbinimui remti steigiant naujas darbo vietas.
+neterminuotam įdarbinimui remti steigiant naujas darbo vietas.
 
 2. Parama darbo
 
@@ -3255,9 +3255,9 @@ institucijos nustatytose savivaldybių (seniūnijų) teritorijose, kuriose
 
 bedarbių dalis, skaičiuojant nuo darbingo amžiaus gyventojų, projektų
 
-įgyvendinimo laikotarpiu yra didesnė negu vidutiniškai šalyje, nedarbo pasekmėms
+įgyvendinimo laikotarpiu yra didesnė negu vidutiniškai šalyje, nedarbo
 
-švelninti.
+pasekmėms švelninti.
 
 32
 
@@ -3537,13 +3537,11 @@ fondo lėšas sudaro:
 
 socialinio draudimo lėšos šio įstatymo nustatytoms užimtumo rėmimo priemonėms
 
-įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką
+įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms
 
-įgyvendinančioms įstaigoms išlaikyti; šių lėšų dydis tvirtinamas Valstybinio
+įstaigoms išlaikyti; šių lėšų dydis tvirtinamas Valstybinio socialinio draudimo
 
-socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo
-
-įstatymu;
+fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu;
 
 2) užimtumo
 
@@ -3609,9 +3607,9 @@ socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo
 
 įstatymu;
 
-2) užimtumo
+2) užimtumo rėmimo
 
-rėmimo politiką įgyvendinančių įstaigų pajamos;
+politiką įgyvendinančių įstaigų pajamos;
 
 3) valstybės
 
@@ -3749,17 +3747,17 @@ nustatyta tvarka įgaliotos valstybės institucijos.
 
 2. Socialinės
 
-apsaugos ir darbo ministerija ne vėliau kaip per 4 mėnesius, pasibaigus
+apsaugos ir darbo ministerija ne vėliau kaip per 4 mėnesius, pasibaigus finansiniams
 
-finansiniams metams, viešai skelbia informaciją apie valstybės lėšų
+metams, viešai skelbia informaciją apie valstybės lėšų panaudojimą, nurodydama
 
-panaudojimą, nurodydama šių lėšų panaudojimą atskiroms aktyvios darbo rinkos
+šių lėšų panaudojimą atskiroms aktyvios darbo rinkos politikos priemonėms ir
 
-politikos priemonėms ir užimtumo rėmimo programoms įgyvendinti, nedarbo socialinio
+užimtumo rėmimo programoms įgyvendinti, nedarbo socialinio draudimo išmokoms
 
-draudimo išmokoms mokėti, užimtumo rėmimo politiką įgyvendinančioms įstaigoms
+mokėti, užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti ir darbo
 
-išlaikyti ir darbo rinkos paslaugoms teikti.
+rinkos paslaugoms teikti.
 
 SEPTINTASIS SKIRSNIS
 
@@ -4007,11 +4005,27 @@ PAKEITIMO ĮSTATYMAS
 
 įstatymas įsigalioja 2014 m. spalio 1 d.
 
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-979,
+
+2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09406
+
+LIETUVOS RESPUBLIKOS UŽIMTUMO RĖMIMO
+
+ĮSTATYMO NR. X-694 28 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2014 m. liepos 1 d.
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2014-01-02)
+(2014-07-07)
 
 ausrine.trapinskiene@lrs.lt
 
