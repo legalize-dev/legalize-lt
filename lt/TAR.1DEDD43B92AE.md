@@ -4,7 +4,7 @@ identifier: "TAR.1DEDD43B92AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-03"
-last_updated: "2014-05-17"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE"
 department: "Lietuvos Respublikos Seimas"
@@ -19,75 +19,43 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS
 
-Įstatymas paskelbtas: Žin., 1994,
+Nauja įstatymo redakcija nuo 2004-07-01:
 
-Nr.
+Nr. IX-2237, 2004-05-18, Žin., 2004 Nr. 88-3208 (2004-06-30)
 
-89-1706
-
-Neoficialus įstatymo tekstas
-
-LIETUVOS RESPUBLIKOS
-
-IŠMOKŲ VAIKAMS
-
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS IŠMOKŲ VAIKAMS ĮSTATYMAS
 
 Įstatymo pavadinimas keistas:
 
-Nr. IX-2237,
-
-2004-05-18, Žin., 2004 Nr. 88-3208 (2004-06-30)
+Nr. IX-2237, 2004-05-18, Žin., 2004 Nr. 88-3208 (2004-06-30)
 
 1994 m. lapkričio 3 d. Nr. I-621
 
 Vilnius
 
-Nauja įstatymo redakcija
+PIRMASIS SKIRSNIS
 
-nuo 2004-07-01:
+BENDROSIOS NUOSTATOS
 
-Nr. IX-2237,
-
-2004-05-18, Žin., 2004 Nr. 88-3208 (2004-06-30)
-
-PIRMASIS SKIRSNISBENDROSIOS NUOSTATOS
-
-5 straipsnis. Vienkartinė
-
-išmoka vaikui
+5 straipsnis. Vienkartinė išmoka vaikui
 
 1. Kiekvienam gimusiam vaikui skiriama 11 bazinių socialinių išmokų dydžio vienkartinė išmoka.
 
 2. Įvaikintam vaikui, neatsižvelgiant į tai, kad jau buvo išmokėta išmoka gimusiam vaikui, skiriama 11 bazinių socialinių išmokų dydžio vienkartinė išmoka.
 
-3. Vienkartinė išmoka vaikui mokama vienam iš vaiką
+3. Vienkartinė išmoka vaikui mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų), įtėvių ar vaiko globėjui.
 
-auginančių tėvų (ar turimam vieninteliam iš tėvų), įtėvių ar vaiko globėjui.
+4. Išmoka gimusiam vaikui neskiriama, jei vaikas gimė negyvas, arba kreipimosi metu yra išlaikomas valstybės ar savivaldybės finansuojamoje įstaigoje.
 
-4. Išmoka gimusiam vaikui neskiriama, jei vaikas gimė
-
-negyvas, arba kreipimosi metu yra išlaikomas valstybės ar savivaldybės
-
-finansuojamoje įstaigoje.
-
-5. Išmoka įvaikintam vaikui neskiriama sutuoktinio
-
-(sugyventinio) vaikui, kurį įvaikino kitas sutuoktinis.
+5. Išmoka įvaikintam vaikui neskiriama sutuoktinio (sugyventinio) vaikui, kurį įvaikino kitas sutuoktinis.
 
 Straipsnio pakeitimai:
 
-Nr. IX-2470,
+Nr. IX-2470, 2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
 
-2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
+Nr. X-641, 2006-06-01, Žin., 2006, Nr. 68-2496 (2006-06-17)
 
-Nr. X-641, 2006-06-01,
-
-Žin., 2006, Nr. 68-2496 (2006-06-17)
-
-Nr. X-1664,
-
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
 3 straipsnis. Išmokų rūšys
 
@@ -97,13 +65,7 @@ Nustatomos šios išmokų rūšys:
 
 2) išmoka vaikui;
 
-3) išmoka privalomosios tarnybos kario vaikui;
-
-Redakcija nuo 2014-07-01:
-
-3) išmoka privalomosios pradinės karo tarnybos kario
-
-vaikui;
+3) išmoka privalomosios pradinės karo tarnybos kario vaikui;
 
 4) globos (rūpybos) išmoka;
 
@@ -115,1415 +77,461 @@ vaikui;
 
 Straipsnio pakeitimai:
 
-Nr. X-641, 2006-06-01,
+Nr. X-641, 2006-06-01, Žin., 2006, Nr. 68-2496 (2006-06-17)
 
-Žin., 2006, Nr. 68-2496 (2006-06-17)
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-Nr. X-1664,
+Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+Nr. XII-865, 2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
 
-Nr. XI-1756,
+7 straipsnis. Išmoka privalomosios pradinės karo tarnybos kario vaikui
 
-2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
+1. Kiekvienam privalomosios pradinės karo tarnybos kario vaikui jo tėvo ar motinos tarnybos laikotarpiu skiriama 1,5 bazinės socialinės išmokos dydžio išmoka per mėnesį. Jeigu privalomąją pradinę karo tarnybą tuo pačiu metu atlieka ir vaiko tėvas, ir motina, išmokų vaikui skaičius nedidinamas.
 
-Nr. XII-865,
+2. Išmoka privalomosios pradinės karo tarnybos kario vaikui mokama vienam iš vaiką auginančių tėvų (įtėvių) (ar turimam vieninteliam iš tėvų).
 
-2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
+3. Vaikui, kuris nuolat arba darbo dienomis išlaikomas (nakvynė ir maistas) valstybės ar savivaldybės finansuojamoje įstaigoje, ir globojamam vaikui ši išmoka neskiriama.
 
-7 straipsnis. Išmoka privalomosios tarnybos kario vaikui
-
-1. Kiekvienam privalomosios tarnybos kario vaikui jo
-
-tėvo tarnybos laikotarpiu skiriama 1,5 bazinės socialinės išmokos dydžio išmoka
-
-per mėnesį.
-
-2.
-
-Išmoka privalomosios tarnybos kario vaikui mokama vaiko motinai. Jei vaiką
-
-auginanti motina nėra nuolatinė Lietuvos Respublikos gyventoja, išmoka mokama
-
-vaiko tėvui.
-
-3.
-
-Vaikui, kuris nuolat arba darbo dienomis išlaikomas (nakvynė ir maistas)
-
-valstybės ar savivaldybės finansuojamoje įstaigoje, ir globojamam vaikui ši išmoka
-
-neskiriama.
-
-4.
-
-Išmokos privalomosios tarnybos kario vaikui gavėjas turi teisę gauti šio
-
-įstatymo 6 straipsnyje nustatytą išmoką vaikui.
-
-Redakcija nuo 2014-07-01:
-
-8 straipsnis. Globos
-
-(rūpybos) išmoka
-
-1. Vaikui,
-
-kuriam nustatyta globa (rūpyba) šeimoje ar vaikų globos institucijoje, jo
-
-globos (rūpybos) laikotarpiu skiriama 4 bazinių socialinių išmokų dydžio išmoka
-
-per mėnesį. Vaikui, kuriam nustatyta globa (rūpyba) šeimynoje, jo globos
-
-(rūpybos) laikotarpiu skiriama 8 bazinių socialinių išmokų dydžio išmoka per
-
-mėnesį.
-
-2. Jei
-
-pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar santuokos
-
-sudarymo asmuo mokosi pagal bendrojo lavinimo
-
-programą, pagal formaliojo profesinio mokymo programą ar studijuoja
-
-aukštojoje mokykloje pagal dieninės studijų formos nuosekliųjų studijų programą
-
-ar nuolatinės studijų formos programą (įskaitant ir akademinių atostogų
-
-laikotarpį), taip pat tuo atveju, kai yra mirę pilnamečio asmens abu
-
-tėvai (turėtas vienintelis iš tėvų), mokymosi laikotarpiu, bet ne
-
-ilgiau, kaip iki asmeniui sukanka 24 metai, skiriama ir kartą per mėnesį mokama
-
-4 bazinių socialinių išmokų dydžio išmoka. Ši išmoka neskiriama ir nemokama
-
-asmenims, daugiau kaip du kartus įstojusiems į tos pačios mokyklų grupės
-
-mokyklą (kaip suskirstyta pagal Lietuvos Respublikos švietimo įstatymą).
-
-3. Baigusiam
-
-bendrojo lavinimo programą vyresniam kaip 18 metų asmeniui globos (rūpybos)
-
-išmoka mokama iki tų pačių metų rugsėjo 1 dienos.
-
-4. Kai išmokos gavėjas, gaunantis globos (rūpybos)
-
-išmoką, įstatymų nustatyta tvarka gauna našlaičių pensiją ir (arba) vaiko
-
-išlaikymui kas mėnesį mokamą periodinę išmoką, vaiko globos (rūpybos) išmokos
-
-dydis yra lygus skirtumui tarp išmokos gavėjui nustatyto vaiko globos (rūpybos)
-
-išmokos dydžio ir gaunamos našlaičių pensijos bei (arba) vaiko išlaikymui kas
-
-mėnesį mokamos periodinės išmokos dydžio.
-
-5. Išmokos gavėjas, gaunantis šio straipsnio 2 dalyje
-
-nustatytą išmoką, turi teisę gauti stipendiją pagal mokymosi rezultatus.
-
-6. Vaikui (asmeniui), kuris mokosi pagal bendrojo lavinimo ir (ar) pagal formaliojo
-
-profesinio mokymo programas ir yra
-
-išlaikomas (nemokamai gauna nakvynę ir maistą) bendrojo lavinimo mokyklos ar profesinio mokymo įstaigos bendrabutyje, skiriama 2 bazinių
-
-socialinių išmokų dydžio išmoka per
-
-mėnesį.
-
-7. Globos (rūpybos) išmoka neskiriama:
-
-1) jei vaikas (asmuo) yra sulaikytas, suimtas, atlieka
-
-bausmę, paskelbta jo paieška ar teismo pripažintas nežinia kur esančiu;
-
-2) jei vaiko laikinoji globa (rūpyba) nustatyta tėvų
-
-prašymu dėl jų laikino išvykimo iš Lietuvos Respublikos.
+4. Išmokos privalomosios pradinės karo tarnybos kario vaikui gavėjas turi teisę gauti šio įstatymo 6 straipsnyje nustatytą išmoką vaikui.
 
 Straipsnio pakeitimai:
 
-Nr. IX-2470,
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
+Nr. XII-865, 2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
 
-Nr. X-496, 2006-01-19,
+TREČIASIS SKIRSNIS
 
-Žin., 2006, Nr. 17-592 (2006-02-11)
-
-Nr. X-641, 2006-06-01,
-
-Žin., 2006, Nr. 68-2496 (2006-06-17)
-
-Nr. X-1664,
-
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
-
-Nr.
-
-XI-90,
-
-2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
-
-Nr. XI-708,
-
-2010-03-30, Žin., 2010, Nr. 41-1933 (2010-04-10)
-
-9
-
-straipsnis. Vienkartinė išmoka
-
-įsikurti
-
-1. Asmenims, kuriems buvo nustatyta vaiko globa
-
-(rūpyba), pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar santuokos sudarymo, skiriama
-
-vienkartinė 50 bazinių socialinių išmokų dydžio, o nuo 2009 m. sausio 1 d. – 75 bazinių socialinių išmokų dydžio išmoka įsikurti.
-
-2. Vienkartinė išmoka įsikurti neskiriama:
-
-1) jei asmuo yra išlaikomas (nemokamai gauna nakvynę ir
-
-maistą) valstybės ar savivaldybės finansuojamoje įstaigoje;
-
-2) jei vaiko laikinoji globa (rūpyba) buvo nustatyta
-
-tėvų prašymu dėl jų laikino išvykimo iš Lietuvos Respublikos.
-
-3. Vienkartinė išmoka įsikurti grynaisiais pinigais
-
-neišmokama, išskyrus atvejus, kai lieka
-
-nepanaudota mažesnė negu 1 bazinės socialinės išmokos dydžio išmokos dalis,
-
-kuri gali būti išmokama grynaisiais pinigais pačiam išmokos gavėjui. Vienkartinė išmoka įsikurti gali būti panaudota:
-
-1) būstui (gyvenamosioms patalpoms) pirkti;
-
-2) sumokėti daliai paskolos būstui statyti arba
-
-pirkti;
-
-3) būsto nuomai;
-
-4) mokesčiams už nuomojamojo ar nuosavybės teise
-
-turimo būsto komunalines paslaugas;
-
-5) būstui remontuoti arba rekonstruoti;
-
-6) baldams, buitinei, vaizdo ir garso technikai, namų
-
-apyvokos reikmenims, vienam asmeniniam kompiuteriui įsigyti;
-
-7) studijų ir neformaliojo švietimo kainai padengti;
-
-8)
-
-žemės sklypui įsigyti.
-
-Straipsnio pakeitimai:
-
-Nr. X-641, 2006-06-01,
-
-Žin., 2006, Nr. 68-2496 (2006-06-17)
-
-Nr. X-1664,
-
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
-
-KETVIRTASIS SKIRSNIS Vienkartinė Išmoka nėščiai moteriai
-
-10
-
-straipsnis. Vienkartinė išmoka nėščiai moteriai
-
-Nėščiai moteriai, pagal Lietuvos Respublikos ligos ir
-
-motinystės socialinio draudimo įstatymą neturinčiai teisės gauti motinystės
-
-pašalpos, likus 70 kalendorinių dienų iki numatomos gimdymo datos, skiriama 2
-
-bazinių socialinių išmokų dydžio vienkartinė išmoka.
-
-Straipsnio pakeitimai:
-
-Nr. X-641, 2006-06-01,
-
-Žin., 2006, Nr. 68-2496 (2006-06-17)
-
-Nr. X-1664,
-
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
-
-PENKTASIS SKIRSNIS IŠMOKŲ skyrimas ir mokėjimas
-
-1 straipsnis. Įstatymo paskirtis ir taikymas
-
-1. Šio įstatymo paskirtis – nustatyti išmokų vaikams
-
-rūšis, jų dydžius, asmenų, turinčių teisę gauti išmokas, kategorijas, šių
-
-išmokų skyrimo ir mokėjimo sąlygas, tvarką ir finansavimą.
-
-2.
-
-Šio įstatymo nuostatos taikomos:
-
-1) Lietuvos Respublikoje nuolat gyvenantiems asmenims;
-
-2) Lietuvos Respublikoje gyvenantiems užsieniečiams,
-
-įstatymų nustatyta tvarka paskirtiems vaiko, Lietuvos Respublikos piliečio,
-
-globėjais (rūpintojais), ir Lietuvos Respublikoje gyvenantiems vaikams
-
-užsieniečiams, kuriems įstatymų nustatyta tvarka globa (rūpyba) nustatyta
-
-Lietuvos Respublikoje arba kurių globos (rūpybos) vykdymą perėmė Lietuvos Respublikos
-
-kompetentinga institucija;
-
-3) skiriant išmoką vaikui, Lietuvos Respublikoje
-
-gyvenantiems užsieniečiams, kuriems leidimas laikinai gyventi išduotas kaip
-
-ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos
-
-reikalaujantį darbą, kaip ši sąvoka apibrėžta tai
-
-reglamentuojančiuose Lietuvos Respublikos teisės aktuose;
-
-4) skiriant išmoką vaikui, Lietuvos Respublikoje
-
-gyvenančiam užsieniečiui, kuriam išduotas leidimas laikinai gyventi ir leista
-
-dirbti Lietuvos Respublikoje ir kuris dirba Lietuvos Respublikoje arba dirbo ne
-
-trumpesnį kaip 6 mėnesių laikotarpį ir nustatyta tvarka yra įsiregistravęs
-
-teritorinėje darbo biržoje kaip bedarbis, išskyrus užsieniečius, kuriems leista
-
-atvykti studijuoti;
-
-5) skiriant išmoką vaikui, asmenims, kuriems
-
-vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo
-
-reglamentais turi būti taikomas šis įstatymas.
-
-3. Vienkartinė išmoka vaikui skiriama, jeigu nors
-
-vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas yra Lietuvos
-
-Respublikoje nuolat gyvenantys asmenys. Išmoka vaikui skiriama, jeigu šio
-
-straipsnio 2 dalies 1, 3 ar 4 punktų nuostatas atitinka nors vienas iš vaiko
-
-tėvų (įtėvių), globėjų (rūpintojų) ir vaikas nuolat gyvena ar turi leidimą
-
-laikinai gyventi Lietuvos Respublikoje arba jeigu šio straipsnio 2 dalies 5
-
-punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų
-
-(rūpintojų) ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos
-
-ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje. Išmoka privalomosios
-
-pradinės karo tarnybos kario vaikui skiriama, jeigu nors vienas iš vaiko
-
-tėvų (įtėvių) ir vaikas yra Lietuvos Respublikoje nuolat gyvenantys
-
-asmenys. Vienkartinė išmoka įsikurti skiriama tik Lietuvos Respublikoje
-
-nuolat gyvenantiems asmenims.
-
-4. Šio įstatymo
-
-nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo
-
-priede.
-
-Straipsnio pakeitimai:
-
-Nr. X-641, 2006-06-01,
-
-Žin., 2006, Nr. 68-2496 (2006-06-17)
-
-Nr. X-1664,
-
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
-
-Nr. XI-1434,
-
-2011-06-09, Žin., 2011, Nr. 77-3721 (2011-06-28)
-
-Nr. XII-865,
-
-2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
-
-2 straipsnis. Pagrindinės
-
-šio įstatymo sąvokos
-
-1. Bazinė socialinė išmoka – rodiklis
-
-socialinės apsaugos išmokoms apibrėžti ir apskaičiuoti, kurio dydį teisės aktų
-
-nustatyta tvarka tvirtina Lietuvos Respublikos Vyriausybė (toliau –
-
-Vyriausybė).
-
-2. Bendrai gyvenantys asmenys – kaip ši sąvoka apibrėžta Lietuvos
-
-Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme
-
-(toliau – Piniginės
-
-socialinės paramos nepasiturintiems gyventojams įstatymas).
-
-3. Globojamas
-
-vaikas – vaikas, kuriam įstatymų
-
-nustatyta tvarka yra nustatyta vaiko laikinoji arba nuolatinė globa ar rūpyba.
-
-4. Išmokos
-
-vaikams (toliau – išmokos) –
-
-periodinės ir vienkartinės piniginės išmokos, skiriamos ir mokamos vaikams ir
-
-pilnamečiams asmenims, nėščioms moterims, vienam iš vaiko tėvų ar globėjų
-
-(rūpintojų) šio įstatymo nustatytomis sąlygomis ir tvarka.
-
-5. Lietuvos
-
-Respublikoje nuolat gyvenantys asmenys
-
-– Lietuvos Respublikos piliečiai ir Lietuvos Respublikoje nuolat gyvenantys
-
-užsieniečiai, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje, o
-
-neturinčių gyvenamosios vietos – apie savivaldybę, kurios teritorijoje jie
-
-gyvena, yra įrašyti į Lietuvos Respublikos gyventojų registrą.
-
-6. Socialinė rizika – kaip ši sąvoka apibrėžta Piniginės socialinės paramos
-
-nepasiturintiems gyventojams įstatyme.
-
-7. Vaiko globėjas (rūpintojas) – fizinis
-
-ar juridinis asmuo, kuriam įstatymų nustatyta tvarka pavesta be tėvų globos likusio
-
-vaiko priežiūra, auklėjimas, teisių bei interesų gynimas ir atstovavimas jam.
-
-Straipsnio pakeitimai:
-
-Nr. IX-2470,
-
-2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
-
-Nr. X-496, 2006-01-19,
-
-Žin., 2006, Nr. 17-592 (2006-02-11)
-
-Nr. X-1664,
-
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
-
-Nr. XI-1434,
-
-2011-06-09, Žin., 2011, Nr. 77-3721 (2011-06-28)
-
-Nr. XI-1756,
-
-2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
-
-4 straipsnis. Išmokų
-
-finansavimas
-
-1. Šio įstatymo nustatytos išmokos
-
-mokamos iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių
-
-biudžetams, o nuo 2007 m. sausio 1 d. – iš valstybės biudžeto lėšų.
-
-2.
-
-Išmokoms administruoti skiriama nuo 2 iki 4 procentų šio įstatymo
-
-reglamentuotoms išmokoms mokėti skirtų lėšų. Konkretų išmokoms administruoti
-
-skiriamų lėšų procento dydį iki biudžetinių metų pradžios nustato socialinės
-
-apsaugos ir darbo ministras. Išmokoms administruoti panaudojama ne didesnė lėšų
-
-suma negu nustatytas išmokoms administruoti skiriamų lėšų procento dydis nuo
-
-panaudotų lėšų išmokoms mokėti.
-
-3. Valstybės biudžeto lėšų išmokoms
-
-administruoti paskirstymo, pervedimo, tikslinimo, naudojimo, atsiskaitymo už
-
-jas ir kontrolės tvarką nustato socialinės apsaugos ir darbo ministras.
-
-Straipsnio pakeitimai:
-
-Nr. X-641, 2006-06-01,
-
-Žin., 2006, Nr. 68-2496 (2006-06-17)
-
-Nr. XI-180,
-
-2009-02-19, Žin., 2009, Nr. 25-982 (2009-03-05)
-
-Nr. XI-1756,
-
-2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
-
-ANTRASIS SKIRSNIS
-
-Vienkartinė išmoka vaikui, Išmoka Vaikui IR
-
-IŠMOKA PRIVALOMOSIOS TARNYBOS
-
-KARIO VAIKUI
-
-Redakcija nuo 2014-07-01:
-
-Vienkartinė išmoka vaikui,
-
-Išmoka Vaikui IR
-
-IŠMOKA PRIVALOMOSIOS PRADINĖS
-
-KARO TARNYBOS kario VAIKUI
+GLOBOS (RŪPYBOS) IŠMOKA IR GLOBOS (RŪPYBOS) IŠMOKOS TIKSLINIS PRIEDAS, VIENKARTINĖ IŠMOKA ĮSIKURTI
 
 Skirsnio pavadinimas keistas:
 
-Nr. X-1664,
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
-Nr. XII-865,
+8 straipsnis. Globos (rūpybos) išmoka ir globos (rūpybos) išmokos tikslinis priedas
 
-2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
+1. Vaikui, kuriam nustatyta globa (rūpyba) šeimoje, šeimynoje ar vaikų globos institucijoje, jo globos (rūpybos) laikotarpiu skiriama 4 bazinių socialinių išmokų dydžio išmoka per mėnesį.
+
+2. Jeigu pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar santuokos sudarymo asmuo mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą ar studijuoja aukštojoje mokykloje pagal dieninės studijų formos nuosekliųjų studijų programą ar nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį), taip pat tuo atveju, kai yra mirę pilnamečio asmens abu tėvai (turėtas vienintelis iš tėvų), mokymosi laikotarpiu, bet ne ilgiau kaip iki asmeniui sukanka 24 metai, skiriama ir kartą per mėnesį mokama 4 bazinių socialinių išmokų dydžio išmoka. Ši išmoka neskiriama ir nemokama asmenims, daugiau kaip du kartus įstojusiems į tos pačios mokyklų grupės mokyklą (kaip suskirstyta pagal Lietuvos Respublikos švietimo įstatymą).
+
+3. Šeimynos vykdomai vaiko globai (rūpybai) užtikrinti už vaiką, kuriam globa (rūpyba) nustatyta šeimynoje, yra mokamas 4 bazinių socialinių išmokų dydžio globos (rūpybos) išmokos tikslinis priedas, kuris naudojamas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+
+4. Kai išmokos gavėjas, gaunantis globos (rūpybos) išmoką, įstatymų nustatyta tvarka gauna našlaičių pensiją ir (ar) vaiko išlaikymui kas mėnesį mokamą periodinę išmoką, globos (rūpybos) išmokos dydis yra lygus skirtumui tarp išmokos gavėjui nustatyto globos (rūpybos) išmokos dydžio ir gaunamos našlaičių pensijos bei (ar) vaiko išlaikymui kas mėnesį mokamos periodinės išmokos dydžio.
+
+5. Išmokos gavėjas, gaunantis šio straipsnio 2 dalyje nustatytą išmoką, turi teisę gauti stipendiją pagal mokymosi rezultatus.
+
+6. Vaikui (asmeniui), kuris mokosi pagal bendrojo ugdymo ir (ar) pagal formaliojo profesinio mokymo programas ir yra išlaikomas (nemokamai gauna nakvynę ir maistą) bendrojo ugdymo mokyklos ar profesinio mokymo įstaigos bendrabutyje ar vaikų socializacijos centre, mokslo metais skiriama 2 bazinių socialinių išmokų dydžio išmoka per mėnesį.
+
+7. Globos (rūpybos) išmoka ir globos (rūpybos) išmokos tikslinis priedas neskiriami ir nemokami:
+
+1) jeigu vaikas (asmuo) yra suimtas, atlieka su laisvės atėmimu susijusią bausmę, jam Baudžiamojo proceso kodekso nustatyta tvarka paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės, paskelbta jo paieška ar jis teismo pripažintas nežinia kur esančiu, – kol neišnyksta nurodytos aplinkybės;
+
+2) jeigu vaiko laikinoji globa (rūpyba) nustatyta tėvų prašymu dėl jų laikino išvykimo iš Lietuvos Respublikos.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2470, 2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
+
+Nr. X-496, 2006-01-19, Žin., 2006, Nr. 17-592 (2006-02-11)
+
+Nr. X-641, 2006-06-01, Žin., 2006, Nr. 68-2496 (2006-06-17)
+
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+
+Nr. XI-90, 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
+
+Nr. XI-708, 2010-03-30, Žin., 2010, Nr. 41-1933 (2010-04-10)
+
+Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
+
+1 straipsnis. Įstatymo paskirtis ir taikymas
+
+1. Šio įstatymo paskirtis – nustatyti išmokų vaikams rūšis, jų dydžius, asmenų, turinčių teisę gauti išmokas, kategorijas, šių išmokų skyrimo ir mokėjimo sąlygas, tvarką ir finansavimą.
+
+2. Šio įstatymo nuostatos taikomos:
+
+1) Lietuvos Respublikoje nuolat gyvenantiems asmenims;
+
+2) Lietuvos Respublikoje gyvenantiems užsieniečiams, įstatymų nustatyta tvarka paskirtiems vaiko, Lietuvos Respublikos piliečio, globėjais (rūpintojais), ir Lietuvos Respublikoje gyvenantiems vaikams užsieniečiams, kuriems įstatymų nustatyta tvarka globa (rūpyba) nustatyta Lietuvos Respublikoje arba kurių globos (rūpybos) vykdymą perėmė Lietuvos Respublikos kompetentinga institucija;
+
+3) skiriant išmoką vaikui, Lietuvos Respublikoje gyvenantiems užsieniečiams, kuriems leidimas laikinai gyventi išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą, kaip ši sąvoka apibrėžta tai reglamentuojančiuose Lietuvos Respublikos teisės aktuose;
+
+4) skiriant išmoką vaikui, Lietuvos Respublikoje gyvenančiam užsieniečiui, kuriam išduotas leidimas laikinai gyventi ir leista dirbti Lietuvos Respublikoje ir kuris dirba Lietuvos Respublikoje arba dirbo ne trumpesnį kaip 6 mėnesių laikotarpį ir nustatyta tvarka yra įsiregistravęs teritorinėje darbo biržoje kaip bedarbis, išskyrus užsieniečius, kuriems leista atvykti studijuoti;
+
+5) skiriant išmoką vaikui, asmenims, kuriems vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais turi būti taikomas šis įstatymas.
+
+3. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas yra Lietuvos Respublikoje nuolat gyvenantys asmenys. Išmoka vaikui skiriama, jeigu šio straipsnio 2 dalies 1, 3 ar 4 punktų nuostatas atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas nuolat gyvena ar turi leidimą laikinai gyventi Lietuvos Respublikoje arba jeigu šio straipsnio 2 dalies 5 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje. Išmoka privalomosios pradinės karo tarnybos kario vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ir vaikas yra Lietuvos Respublikoje nuolat gyvenantys asmenys. Vienkartinė išmoka įsikurti skiriama tik Lietuvos Respublikoje nuolat gyvenantiems asmenims.
+
+4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+
+Straipsnio pakeitimai:
+
+Nr. X-641, 2006-06-01, Žin., 2006, Nr. 68-2496 (2006-06-17)
+
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+
+Nr. XI-1434, 2011-06-09, Žin., 2011, Nr. 77-3721 (2011-06-28)
+
+Nr. XII-865, 2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
+
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
+
+1. Bazinė socialinė išmoka – rodiklis socialinės apsaugos išmokoms apibrėžti ir apskaičiuoti, kurio dydį teisės aktų nustatyta tvarka tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė).
+
+2. Bendrai gyvenantys asmenys – kaip ši sąvoka apibrėžta Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme (toliau – Piniginės socialinės paramos nepasiturintiems gyventojams įstatymas).
+
+3. Globojamas vaikas – vaikas, kuriam įstatymų nustatyta tvarka yra nustatyta vaiko laikinoji arba nuolatinė globa ar rūpyba.
+
+4. Išmokos vaikams (toliau – išmokos) – periodinės ir vienkartinės piniginės išmokos, skiriamos ir mokamos vaikams ir pilnamečiams asmenims, nėščioms moterims, vienam iš vaiko tėvų ar globėjų (rūpintojų) šio įstatymo nustatytomis sąlygomis ir tvarka.
+
+5. Lietuvos Respublikoje nuolat gyvenantys asmenys – Lietuvos Respublikos piliečiai ir Lietuvos Respublikoje nuolat gyvenantys užsieniečiai, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje, o neturinčių gyvenamosios vietos – apie savivaldybę, kurios teritorijoje jie gyvena, yra įrašyti į Lietuvos Respublikos gyventojų registrą.
+
+6. Socialinė rizika – kaip ši sąvoka apibrėžta Piniginės socialinės paramos nepasiturintiems gyventojams įstatyme.
+
+7. Vaiko globėjas (rūpintojas) – fizinis ar juridinis asmuo, kuriam įstatymų nustatyta tvarka pavesta be tėvų globos likusio vaiko priežiūra, auklėjimas, teisių bei interesų gynimas ir atstovavimas jam.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2470, 2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
+
+Nr. X-496, 2006-01-19, Žin., 2006, Nr. 17-592 (2006-02-11)
+
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+
+Nr. XI-1434, 2011-06-09, Žin., 2011, Nr. 77-3721 (2011-06-28)
+
+Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
+
+4 straipsnis. Išmokų finansavimas
+
+1. Šio įstatymo nustatytos išmokos mokamos iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams, o nuo 2007 m. sausio 1 d. – iš valstybės biudžeto lėšų.
+
+2. Išmokoms administruoti skiriama nuo 2 iki 4 procentų šio įstatymo reglamentuotoms išmokoms mokėti skirtų lėšų. Konkretų išmokoms administruoti skiriamų lėšų procento dydį iki biudžetinių metų pradžios nustato socialinės apsaugos ir darbo ministras. Išmokoms administruoti panaudojama ne didesnė lėšų suma negu nustatytas išmokoms administruoti skiriamų lėšų procento dydis nuo panaudotų lėšų išmokoms mokėti.
+
+3. Valstybės biudžeto lėšų išmokoms administruoti paskirstymo, pervedimo, tikslinimo, naudojimo, atsiskaitymo už jas ir kontrolės tvarką nustato socialinės apsaugos ir darbo ministras.
+
+Straipsnio pakeitimai:
+
+Nr. X-641, 2006-06-01, Žin., 2006, Nr. 68-2496 (2006-06-17)
+
+Nr. XI-180, 2009-02-19, Žin., 2009, Nr. 25-982 (2009-03-05)
+
+Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
+
+ANTRASIS SKIRSNIS
+
+Vienkartinė išmoka vaikui, Išmoka Vaikui IR IŠMOKA PRIVALOMOSIOS PRADINĖS KARO TARNYBOS kario VAIKUI
+
+Skirsnio pavadinimas keistas:
+
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+
+Nr. XII-865, 2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
 
 9 straipsnis. Vienkartinė išmoka įsikurti
 
-1. Asmenims, kuriems buvo nustatyta vaiko globa
+1. Asmenims, kuriems buvo nustatyta vaiko globa (rūpyba), pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar santuokos sudarymo, skiriama vienkartinė 50 bazinių socialinių išmokų dydžio, o nuo 2009 m. sausio 1 d. – 75 bazinių socialinių išmokų dydžio išmoka įsikurti.
 
-(rūpyba), pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar
+2. Vienkartinė išmoka įsikurti neskiriama ir nemokama:
 
-santuokos sudarymo, skiriama vienkartinė 50 bazinių socialinių išmokų dydžio, o
+1) jeigu asmuo yra išlaikomas (nemokamai gauna nakvynę ir maistą) valstybės ar savivaldybės finansuojamoje įstaigoje;
 
-nuo 2009 m. sausio 1 d. – 75 bazinių socialinių išmokų dydžio išmoka įsikurti.
+2) jeigu vaiko laikinoji globa (rūpyba) buvo nustatyta tėvų prašymu dėl jų laikino išvykimo iš Lietuvos Respublikos;
 
-2. Vienkartinė
+3) jeigu asmuo yra suimtas, atlieka su laisvės atėmimu susijusią bausmę, jam Baudžiamojo proceso kodekso nustatyta tvarka paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės, paskelbta jo paieška arba jis teismo pripažintas nežinia kur esančiu, – kol neišnyksta nurodytos aplinkybės.
 
-išmoka įsikurti neskiriama ir nemokama:
-
-1) jeigu asmuo yra išlaikomas (nemokamai gauna nakvynę
-
-ir maistą) valstybės ar savivaldybės finansuojamoje įstaigoje;
-
-2) jeigu vaiko laikinoji globa (rūpyba) buvo nustatyta
-
-tėvų prašymu dėl jų laikino išvykimo iš Lietuvos Respublikos;
-
-3) jeigu asmuo yra suimtas, atlieka su laisvės atėmimu
-
-susijusią bausmę, jam Baudžiamojo proceso
-
-kodekso nustatyta tvarka paskirtos priverčiamosios stacionarinio stebėjimo
-
-specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės, paskelbta jo paieška arba jis teismo pripažintas
-
-nežinia kur esančiu, – kol neišnyksta
-
-nurodytos aplinkybės.
-
-3. Vienkartinė išmoka įsikurti grynaisiais pinigais
-
-neišmokama, išskyrus atvejus, kai lieka nepanaudota mažesnė negu vieno bazinės
-
-socialinės išmokos dydžio išmokos dalis, kuri gali būti išmokama grynaisiais
-
-pinigais pačiam išmokos gavėjui. Vienkartinė išmoka įsikurti gali būti
-
-panaudota:
+3. Vienkartinė išmoka įsikurti grynaisiais pinigais neišmokama, išskyrus atvejus, kai lieka nepanaudota mažesnė negu vieno bazinės socialinės išmokos dydžio išmokos dalis, kuri gali būti išmokama grynaisiais pinigais pačiam išmokos gavėjui. Vienkartinė išmoka įsikurti gali būti panaudota:
 
 1) būstui (gyvenamosioms patalpoms) pirkti;
 
-2) sumokėti daliai paskolos būstui statyti arba
-
-pirkti;
+2) sumokėti daliai paskolos būstui statyti arba pirkti;
 
 3) būsto nuomai;
 
-4) mokesčiams už nuomojamo ar nuosavybės teise turimo
-
-būsto komunalines paslaugas;
+4) mokesčiams už nuomojamo ar nuosavybės teise turimo būsto komunalines paslaugas;
 
 5) būstui remontuoti arba rekonstruoti;
 
-6) baldams, buitinei, vaizdo ir garso technikai, namų
+6) baldams, buitinei, vaizdo ir garso technikai, namų apyvokos reikmenims, vienam asmeniniam kompiuteriui įsigyti;
 
-apyvokos reikmenims, vienam asmeniniam kompiuteriui įsigyti;
-
-7) studijų ir neformaliojo švietimo kainai padengti,
-
-mokymosi priemonėms įsigyti;
+7) studijų ir neformaliojo švietimo kainai padengti, mokymosi priemonėms įsigyti;
 
 8) žemės sklypui įsigyti;
 
-9) mokamų sveikatos priežiūros prekių ir paslaugų
-
-išlaidoms apmokėti.
+9) mokamų sveikatos priežiūros prekių ir paslaugų išlaidoms apmokėti.
 
 Straipsnio pakeitimai:
 
-Nr. X-641, 2006-06-01,
+Nr. X-641, 2006-06-01, Žin., 2006, Nr. 68-2496 (2006-06-17)
 
-Žin., 2006, Nr. 68-2496 (2006-06-17)
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-Nr. X-1664,
+Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+KETVIRTASIS SKIRSNIS
 
-Nr. XI-1756,
-
-2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
-
-KETVIRTASIS SKIRSNIS Vienkartinė Išmoka nėščiai moteriai
-
-10
-
-straipsnis. Vienkartinė išmoka nėščiai moteriai
-
-Nėščiai moteriai, pagal Lietuvos Respublikos ligos ir
-
-motinystės socialinio draudimo įstatymą neturinčiai teisės gauti motinystės
-
-pašalpos, likus 70 kalendorinių dienų iki numatomos gimdymo datos, skiriama 2
-
-bazinių socialinių išmokų dydžio vienkartinė išmoka.
-
-Straipsnio pakeitimai:
-
-Nr. X-641, 2006-06-01,
-
-Žin., 2006, Nr. 68-2496 (2006-06-17)
-
-Nr. X-1664,
-
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
-
-PENKTASIS SKIRSNIS IŠMOKŲ skyrimas ir mokėjimas
+Vienkartinė Išmoka nėščiai moteriai
 
 10 straipsnis. Vienkartinė išmoka nėščiai moteriai
 
-Nėščiai moteriai, pagal Lietuvos
+Nėščiai moteriai, pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymą neturinčiai teisės gauti motinystės pašalpos, likus 70 kalendorinių dienų iki numatomos gimdymo datos, skiriama 2 bazinių socialinių išmokų dydžio vienkartinė išmoka.
 
-Respublikos ligos ir motinystės socialinio draudimo įstatymą neturinčiai
+Straipsnio pakeitimai:
 
-teisės gauti motinystės pašalpos, likus 70 kalendorinių dienų iki numatomos
+Nr. X-641, 2006-06-01, Žin., 2006, Nr. 68-2496 (2006-06-17)
 
-gimdymo datos, skiriama 2 MGL dydžio vienkartinė išmoka.
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-10 straipsnio redakcija nuo 2008 m. rugpjūčio 1 d.:
+PENKTASIS SKIRSNIS
 
-11 straipsnis. Išmokas
+IŠMOKŲ skyrimas ir mokėjimas
 
-skiriančios ir mokančios įstaigos
+11 straipsnis. Išmokas skiriančios ir mokančios įstaigos
 
-Šio įstatymo nustatytas išmokas skiria ir moka
+Šio įstatymo nustatytas išmokas skiria ir moka savivaldybių administracijos vadovaudamosi šiuo įstatymu ir Vyriausybės patvirtintais Išmokų vaikams skyrimo ir mokėjimo nuostatais.
 
-savivaldybių administracijos vadovaudamosi šiuo įstatymu ir Vyriausybės
+6 straipsnis. Išmoka vaikui
 
-patvirtintais Išmokų vaikams skyrimo ir mokėjimo nuostatais.
+1. Bendrai gyvenančių asmenų auginamam ir (ar) globojamam vaikui nuo gimimo dienos iki 2 metų yra skiriama ir mokama 0,75 bazinės socialinės išmokos dydžio išmoka per mėnesį, jeigu vidutinės bendrai gyvenančių asmenų pajamos, nustatytos Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsnio 1 dalyje, vienam asmeniui per mėnesį yra mažesnės negu 1,5 valstybės remiamų pajamų dydžio.
 
-6 straipsnis.
+2. Bendrai gyvenančių asmenų auginamam ir (ar) globojamam vaikui, kuriam globa (rūpyba) nustatyta šeimoje, yra skiriama ir mokama 0,4 bazinės socialinės išmokos dydžio išmoka per mėnesį, jeigu vidutinės bendrai gyvenančių asmenų pajamos, nustatytos Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsnio 1 dalyje, vienam asmeniui per mėnesį yra mažesnės negu 1,5 valstybės remiamų pajamų dydžio:
 
-Išmoka vaikui
+1) kai vaikas yra nuo 2 iki 7 metų;
 
-1. Bendrai
+2) kai vaikas yra nuo 7 iki 18 metų, jeigu bendrai gyvenantys asmenys augina ir (ar) šeimoje globoja tris ar daugiau vaikų. Išmoka mokama, kol kiekvienam vaikui sukaks 18 metų, jeigu šių bendrai gyvenančių asmenų vyresni kaip 18 metų vaikai ar buvę šeimoje globojami vaikai mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai įgyti arba studijuoja aukštojoje mokykloje pagal dieninės studijų formos nuosekliųjų studijų programą ar nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį), bet ne ilgiau kaip iki jiems sukaks 24 metai.
 
-gyvenančių asmenų auginamam ir (ar) globojamam vaikui nuo gimimo dienos iki 2
+3. Išmoka vaikui neskiriama arba jos mokėjimas nutraukiamas, jeigu:
 
-metų yra skiriama ir mokama 0,75 bazinės socialinės išmokos dydžio išmoka per
-
-mėnesį, jeigu vidutinės bendrai gyvenančių asmenų pajamos, nustatytos Piniginės
-
-socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsnio 1
-
-dalyje, vienam asmeniui per mėnesį yra mažesnės negu 1,5 valstybės remiamų
-
-pajamų dydžio.
-
-2. Bendrai
-
-gyvenančių asmenų auginamam ir (ar) globojamam vaikui, kuriam globa (rūpyba)
-
-nustatyta šeimoje, yra skiriama ir mokama 0,4 bazinės socialinės išmokos dydžio
-
-išmoka per mėnesį, jeigu vidutinės bendrai gyvenančių asmenų pajamos,
-
-nustatytos Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo
-
-17 straipsnio 1 dalyje, vienam asmeniui per mėnesį yra mažesnės negu 1,5
-
-valstybės remiamų pajamų dydžio:
-
-1) kai vaikas
-
-yra nuo 2 iki 7 metų;
-
-2) kai vaikas
-
-yra nuo 7 iki 18 metų, jeigu bendrai gyvenantys asmenys augina ir (ar) šeimoje
-
-globoja tris ar daugiau vaikų. Išmoka mokama, kol kiekvienam vaikui sukaks 18
-
-metų, jeigu šių bendrai gyvenančių asmenų vyresni kaip 18 metų vaikai ar buvę
-
-šeimoje globojami vaikai mokosi pagal bendrojo ugdymo programą, pagal
-
-formaliojo profesinio mokymo programą pirmajai kvalifikacijai įgyti arba
-
-studijuoja aukštojoje mokykloje pagal dieninės studijų formos nuosekliųjų
-
-studijų programą ar nuolatinės studijų formos programą (įskaitant ir akademinių
-
-atostogų laikotarpį), bet ne ilgiau kaip iki jiems sukaks 24 metai.
-
-3. Išmoka
-
-vaikui neskiriama arba jos mokėjimas nutraukiamas, jeigu:
-
-1)
-
-nepilnametis yra emancipuotas;
+1) nepilnametis yra emancipuotas;
 
 2) nepilnametis yra susituokęs;
 
-3) nepilnametis
-
-yra suimtas, atlieka su laisvės atėmimu susijusią bausmę, jam Lietuvos Respublikos baudžiamojo proceso kodekso
-
-(toliau – Baudžiamojo proceso kodeksas) nustatyta tvarka paskirtos
-
-priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos
-
-priežiūros įstaigose medicinos priemonės,
-
-paskelbta jo paieška arba jis teismo
-
-pripažintas nežinia kur esančiu, – kol neišnyksta nurodytos aplinkybės.
+3) nepilnametis yra suimtas, atlieka su laisvės atėmimu susijusią bausmę, jam Lietuvos Respublikos baudžiamojo proceso kodekso (toliau – Baudžiamojo proceso kodeksas) nustatyta tvarka paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės, paskelbta jo paieška arba jis teismo pripažintas nežinia kur esančiu, – kol neišnyksta nurodytos aplinkybės.
 
 Straipsnio pakeitimai:
 
-Nr. IX-2470,
+Nr. IX-2470, 2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
 
-2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
+Nr. X-641, 2006-06-01, Žin., 2006, Nr. 68-2496 (2006-06-17)
 
-Nr. X-641, 2006-06-01,
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-Žin., 2006, Nr. 68-2496 (2006-06-17)
+Nr. XI-90, 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
 
-Nr. X-1664,
+Nr. XI-182, 2009-02-19, Žin., 2009, Nr. 25-984 (2009-03-05)
 
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+Nr. XI-708, 2010-03-30, Žin., 2010, Nr. 41-1933 (2010-04-10)
 
-Nr.
+Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
-XI-90,
+15 straipsnis. Informacijos teikimas
 
-2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
+1. Lietuvos Respublikos valstybės ir savivaldybių institucijos, įstaigos bei kiti juridiniai asmenys savivaldybių administracijų prašymu privalo nemokamai teikti išmokoms skirti ir mokėti reikalingą informaciją.
 
-Nr. XI-182,
-
-2009-02-19, Žin., 2009, Nr. 25-984 (2009-03-05)
-
-Nr. XI-708,
-
-2010-03-30, Žin., 2010, Nr. 41-1933 (2010-04-10)
-
-Nr. XI-1756,
-
-2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
-
-15 straipsnis. Informacijos
-
-teikimas
-
-1. Lietuvos Respublikos valstybės ir savivaldybių
-
-institucijos, įstaigos bei kiti juridiniai asmenys savivaldybių administracijų
-
-prašymu privalo nemokamai teikti išmokoms skirti ir mokėti reikalingą
-
-informaciją.
-
-2. Savivaldybių administracijos socialinės apsaugos ir
-
-darbo ministro nustatyta tvarka turi teikti duomenis apie jų teritorijose
-
-asmenims išmokėtas išmokas.
+2. Savivaldybių administracijos socialinės apsaugos ir darbo ministro nustatyta tvarka turi teikti duomenis apie jų teritorijose asmenims išmokėtas išmokas.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1756,
+Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
-2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
+20 straipsnis. Savivaldybių administracijų pareiga užtikrinti šio įstatymo nustatytų išmokų skyrimą ir mokėjimą, taip pat garantuoti paskirtų ir mokėtų išmokų tęstinumą
 
-20 straipsnis. Savivaldybių
+1. Vaikui, kuriam globa (rūpyba) buvo nustatyta iki 2006 m. gruodžio 31 d. imtinai, globos (rūpybos) išmoką moka savivaldybės, kurios teritorijoje globėjas (rūpintojas) yra įregistruotas arba deklaruoja gyvenamąją vietą, administracija.
 
-administracijų pareiga užtikrinti šio įstatymo nustatytų išmokų skyrimą ir
+2 Vaiko, kuriam globa (rūpyba) buvo nustatyta iki 2006 m. gruodžio 31 d. imtinai apskrities viršininko įsteigtoje vaikų socialinės globos įstaigoje arba kuriam ši įstaiga iki 2006 m. gruodžio 31 d. imtinai buvo paskirta globėju (rūpintoju), globa (rūpyba) socialinės globos įstaigoje finansuojama valstybės biudžeto lėšomis kitų teisės aktų nustatyta tvarka ir globos (rūpybos) išmoka, nustatyta šio įstatymo 8 straipsnio 1 dalyje, nemokama.
 
-mokėjimą, taip pat garantuoti paskirtų ir mokėtų išmokų tęstinumą
-
-1. Vaikui, kuriam globa (rūpyba) buvo nustatyta iki
-
-2006 m. gruodžio 31 d. imtinai, globos (rūpybos) išmoką moka savivaldybės,
-
-kurios teritorijoje globėjas (rūpintojas) yra įregistruotas arba deklaruoja
-
-gyvenamąją vietą, administracija.
-
-2 Vaiko, kuriam globa (rūpyba) buvo nustatyta iki 2006
-
-m. gruodžio 31 d. imtinai apskrities viršininko įsteigtoje vaikų socialinės
-
-globos įstaigoje arba kuriam ši įstaiga iki 2006 m. gruodžio 31 d. imtinai buvo
-
-paskirta globėju (rūpintoju), globa (rūpyba) socialinės globos įstaigoje
-
-finansuojama valstybės biudžeto lėšomis kitų teisės aktų nustatyta tvarka ir
-
-globos (rūpybos) išmoka, nustatyta šio įstatymo 8 straipsnio 1 dalyje,
-
-nemokama.
-
-3. Likus ne mažiau kaip 1 mėnesiui iki išmokos vaikui,
-
-paskirtos, iki vaikui sukaks 3 metai, mokėjimo termino pabaigos, arba išmokos
-
-vaikui, paskirtos 12 mėnesių, mokėjimo termino pabaigos, savivaldybės
-
-administracija informuoja išmokos gavėją apie asmens teisę kreiptis dėl
-
-tolesnio išmokos vaikui skyrimo. Išmokos vaikui, paskirtos iki 2010 m. gruodžio 31 d., mokėjimo terminui pasibaigus, sprendimą ją skirti ir mokėti pagal šio
-
-įstatymo nuostatas savivaldybės administracija priima be naujo asmens prašymo
-
-ir apie išmokos vaikui mokėjimo pratęsimą informuoja išmokos gavėją.
+3. Likus ne mažiau kaip 1 mėnesiui iki išmokos vaikui, paskirtos, iki vaikui sukaks 3 metai, mokėjimo termino pabaigos, arba išmokos vaikui, paskirtos 12 mėnesių, mokėjimo termino pabaigos, savivaldybės administracija informuoja išmokos gavėją apie asmens teisę kreiptis dėl tolesnio išmokos vaikui skyrimo. Išmokos vaikui, paskirtos iki 2010 m. gruodžio 31 d., mokėjimo terminui pasibaigus, sprendimą ją skirti ir mokėti pagal šio įstatymo nuostatas savivaldybės administracija priima be naujo asmens prašymo ir apie išmokos vaikui mokėjimo pratęsimą informuoja išmokos gavėją.
 
 Straipsnio pakeitimai:
 
-Nr. X-1664,
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+Nr. XI-90, 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
 
-Nr.
+Nr. XI-708, 2010-03-30, Žin., 2010, Nr. 41-1933 (2010-04-10)
 
-XI-90,
-
-2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
-
-Nr. XI-708,
-
-2010-03-30, Žin., 2010, Nr. 41-1933 (2010-04-10)
-
-21 straipsnis. Neteko galios nuo 2012-01-01
+21 straipsnis. Neteko galios nuo 2012-01-01.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1756,
+Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
-2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
-
-22 straipsnis. Neteko galios nuo 2009-03-01
+22 straipsnis. Neteko galios nuo 2009-03-01.
 
 Straipsnio pakeitimai:
 
-Nr.
+Nr. X-1158, 2007-06-05, Žin., 2007, Nr. 68-2648 (2007-06-21)
 
-X-1158,
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-2007-06-05, Žin., 2007, Nr. 68-2648 (2007-06-21)
+Nr. XI-90, 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
 
-Nr. X-1664,
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
-
-Nr.
-
-XI-90,
-
-2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
-
-Skelbiu
-
-šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS
-
-PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                            ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
-išmokų
-
-vaikams įstatymo
+išmokų vaikams įstatymo
 
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB
+1. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą (OL 2009 L 155, p. 17).
 
-dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti
-
-aukštos kvalifikacijos darbą (OL 2009 L 155, p. 17).
-
-Papildoma nuo 2014-07-01:
-
-2. 2011 m. gruodžio 13 d. Europos Parlamento ir
-
-Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų
-
-šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo
-
-procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių
-
-darbuotojų bendrų teisių (OL 2011 L 343, p. 1).
+2. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių (OL 2011 L 343, p. 1).
 
 Įstatymas papildytas priedu:
 
-Nr. XI-1434,
+Nr. XI-1434, 2011-06-09, Žin., 2011, Nr. 77-3721 (2011-06-28)
 
-2011-06-09, Žin., 2011, Nr. 77-3721 (2011-06-28)
+Priedo pakeitimai:
 
-Priedo
-
-pakeitimai:
-
-Nr. XII-865,
-
-2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
+Nr. XII-865, 2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
 
 Pakeitimai:
 
 1.
 
-Lietuvos Respublikos Seimas,
+Lietuvos Respublikos Seimas, Įstatymas
 
-Įstatymas
+Nr. VIII-478, 97.10.23, Žin., 1997, Nr.99-2506 (97.10.31)
 
-Nr. VIII-478,
-
-97.10.23, Žin., 1997, Nr.99-2506 (97.10.31)
-
-LIETUVOS RESPUBLIKOS VALSTYBINIŲ
-
-PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO PAPILDYMO 4(1) STRAIPSNIU IR 9
-
-BEI 11 STRAIPSNIŲ PAPILDYMO
+LIETUVOS RESPUBLIKOS VALSTYBINIŲ PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO PAPILDYMO 4(1) STRAIPSNIU IR 9 BEI 11 STRAIPSNIŲ PAPILDYMO
 
 2.
 
-Lietuvos Respublikos Seimas,
+Lietuvos Respublikos Seimas, Įstatymas
 
-Įstatymas
+Nr. VIII-676, 98.03.24, Žin., 1998, Nr.35-934 (98.04.15)
 
-Nr. VIII-676,
-
-98.03.24, Žin., 1998, Nr.35-934 (98.04.15)
-
-LIETUVOS RESPUBLIKOS VALSTYBINIŲ
-
-PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO 4, 5, 9 STRAIPSNIŲ PAKEITIMO IR
-
-PAPILDYMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS VALSTYBINIŲ PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO 4, 5, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja nuo 1998 m. liepos 1 d.
 
 3.
 
-Lietuvos Respublikos Seimas,
+Lietuvos Respublikos Seimas, Įstatymas
 
-Įstatymas
+Nr. VIII-985, 98.12.21, Žin., 1998, Nr.115-3240 (98.12.31)
 
-Nr. VIII-985,
+LIETUVOS RESPUBLIKOS VALSTYBINIŲ PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO 5, 7, 8, 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-98.12.21, Žin., 1998, Nr.115-3240 (98.12.31)
+13 straipsnis. Kreipimosi dėl išmokų ir jų mokėjimo terminai
 
-LIETUVOS RESPUBLIKOS VALSTYBINIŲ
+1. Vienkartinė išmoka gimusiam vaikui skiriama, jei dėl jos buvo kreiptasi ne vėliau kaip per 12 mėnesių nuo vaiko gimimo dienos. Vaiko globėjui ji mokama, jei jis kreipiasi per 6 mėnesius nuo globos nustatymo dienos, bet ne vėliau kaip iki vaikui sukaks pusantrų metų, ir jeigu vienkartinė išmoka už šį vaiką anksčiau nebuvo išmokėta. Vienkartinė išmoka įvaikintam vaikui skiriama, jei dėl jos buvo kreiptasi ne vėliau kaip per 12 mėnesių nuo vaiko įvaikinimo dienos.
 
-PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO 5, 7, 8, 9 STRAIPSNIŲ PAKEITIMO
+2. Išmoka privalomosios pradinės karo tarnybos kario vaikui, globos (rūpybos) išmoka, globos (rūpybos) išmokos tikslinis priedas ir išmoka vaikui skiriami ir mokami nuo teisės gauti išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 praėjusių mėnesių nuo visų dokumentų, būtinų išmokai skirti, pateikimo savivaldybės administracijai dienos. Išmoka vaikui skiriama 12 mėnesių laikotarpiui arba trumpesniam laikotarpiui, jeigu vaikui sukanka šio įstatymo 6 straipsnio 1 ir 2 dalyse nustatytas amžius, iki kurio gali būti mokama išmoka vaikui, arba ši išmoka pradedama mokėti ir kitam tų pačių bendrai gyvenančių asmenų auginamam ar globojamam (rūpinamam) vaikui. Pasibaigus paskirtos išmokos vaikui mokėjimo laikotarpiui, dėl tolesnio išmokos vaikui skyrimo asmuo turi teisę kreiptis ir pateikti būtinus dokumentus išmokai gauti, taip pat nurodyti duomenis apie bendrai gyvenančių asmenų pajamas.
 
-ĮSTATYMAS
+3. Vienkartinė išmoka įsikurti skiriama, jei prašymą šiai išmokai skirti savivaldybės administracijai asmuo pateikė, iki jam sukako 25 metai. Išmoka turi būti panaudota per 24 mėnesius nuo sprendimo skirti išmoką priėmimo dienos.
 
-Šio įstatymo 1, 2, 4 straipsniai
+4. Vienkartinė išmoka nėščiai moteriai skiriama, jei dėl jos buvo kreiptasi ne vėliau kaip per 12 mėnesių nuo dienos, kurią moteriai buvo likę 70 kalendorinių dienų iki numatomos gimdymo datos.
 
-13 straipsnis. Kreipimosi
+5. Jei išmokos gavėjas, gaunantis išmoką pagal deklaruotą gyvenamąją vietą (jei gyvenamosios vietos neturi, – pagal savivaldybę, kurioje gyvena), persikelia gyventi į kitą savivaldybę, išmokos mokėjimas ankstesnėje savivaldybėje nutraukiamas, išmokėjus ją už tą mėnesį, kurį asmuo pakeitė deklaruotą gyvenamąją vietą (jei gyvenamosios vietos neturi, – savivaldybę, kurioje gyvena). Naujai deklaruojamos gyvenamosios vietos savivaldybėje (jei gyvenamosios vietos neturi, – savivaldybėje, kurioje apsigyvena) ši išmoka skiriama ir mokama nustatyta tvarka, bet ne anksčiau kaip nuo kito mėnesio po to, kai asmens deklaruojama gyvenamoji vieta (jei gyvenamosios vietos neturi, – savivaldybė, kurioje gyvena) buvo pakeista.
 
-dėl išmokų ir jų mokėjimo terminai
+6. Asmeniui, kuriam išmoka paskirta ar mokama, mirus, iki mirties dienos neišmokėta išmokos suma išmokama Išmokų vaikams skyrimo ir mokėjimo nuostatų nustatyta tvarka.
 
-1. Vienkartinė išmoka gimusiam vaikui skiriama, jei
-
-dėl jos buvo kreiptasi ne vėliau kaip per 12 mėnesių nuo vaiko gimimo dienos.
-
-Vaiko globėjui ji mokama, jei jis kreipiasi per 6 mėnesius nuo globos nustatymo
-
-dienos, bet ne vėliau kaip iki vaikui sukaks pusantrų metų, ir jeigu
-
-vienkartinė išmoka už šį vaiką anksčiau nebuvo išmokėta. Vienkartinė išmoka
-
-įvaikintam vaikui skiriama, jei dėl jos buvo kreiptasi ne vėliau kaip per 12
-
-mėnesių nuo vaiko įvaikinimo dienos.
-
-2. Išmoka
-
-privalomosios tarnybos kario vaikui, globos (rūpybos) išmoka, globos (rūpybos)
-
-išmokos tikslinis priedas ir išmoka vaikui skiriami ir mokami nuo teisės gauti
-
-išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 praėjusių mėnesių nuo
-
-visų dokumentų, būtinų išmokai skirti, pateikimo savivaldybės administracijai
-
-dienos. Išmoka vaikui skiriama 12 mėnesių laikotarpiui arba trumpesniam
-
-laikotarpiui, jeigu vaikui sukanka šio įstatymo 6 straipsnio 1 ir 2 dalyse
-
-nustatytas amžius, iki kurio gali būti mokama išmoka vaikui, arba ši išmoka
-
-pradedama mokėti ir kitam tų pačių bendrai gyvenančių asmenų auginamam ar
-
-globojamam (rūpinamam) vaikui. Pasibaigus paskirtos išmokos vaikui mokėjimo
-
-laikotarpiui, dėl tolesnio išmokos vaikui skyrimo asmuo turi teisę kreiptis ir
-
-pateikti būtinus dokumentus išmokai gauti, taip pat nurodyti duomenis apie
-
-bendrai gyvenančių asmenų pajamas.
-
-Redakcija nuo 2014-07-01:
-
-2. Išmoka
-
-privalomosios pradinės karo tarnybos kario vaikui, globos (rūpybos) išmoka,
-
-globos (rūpybos) išmokos tikslinis priedas ir išmoka vaikui skiriami ir mokami
-
-nuo teisės gauti išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12
-
-praėjusių mėnesių nuo visų dokumentų, būtinų išmokai skirti, pateikimo
-
-savivaldybės administracijai dienos. Išmoka vaikui skiriama 12 mėnesių
-
-laikotarpiui arba trumpesniam laikotarpiui, jeigu vaikui sukanka šio įstatymo 6
-
-straipsnio 1 ir 2 dalyse nustatytas amžius, iki kurio gali būti mokama išmoka
-
-vaikui, arba ši išmoka pradedama mokėti ir kitam tų pačių bendrai gyvenančių
-
-asmenų auginamam ar globojamam (rūpinamam) vaikui. Pasibaigus paskirtos išmokos
-
-vaikui mokėjimo laikotarpiui, dėl tolesnio išmokos vaikui skyrimo asmuo turi
-
-teisę kreiptis ir pateikti būtinus dokumentus išmokai gauti, taip pat nurodyti duomenis
-
-apie bendrai gyvenančių asmenų pajamas.
-
-3. Vienkartinė išmoka įsikurti skiriama, jei prašymą
-
-šiai išmokai skirti savivaldybės administracijai asmuo pateikė, iki jam sukako
-
-25 metai. Išmoka turi būti panaudota per 24 mėnesius nuo sprendimo skirti išmoką
-
-priėmimo dienos.
-
-4. Vienkartinė išmoka nėščiai moteriai skiriama, jei
-
-dėl jos buvo kreiptasi ne vėliau kaip per 12 mėnesių nuo dienos, kurią moteriai
-
-buvo likę 70 kalendorinių dienų iki numatomos gimdymo datos.
-
-5. Jei išmokos gavėjas, gaunantis išmoką pagal
-
-deklaruotą gyvenamąją vietą (jei gyvenamosios vietos neturi, – pagal
-
-savivaldybę, kurioje gyvena), persikelia gyventi į kitą savivaldybę, išmokos
-
-mokėjimas ankstesnėje savivaldybėje nutraukiamas, išmokėjus ją už tą mėnesį,
-
-kurį asmuo pakeitė deklaruotą gyvenamąją vietą (jei gyvenamosios vietos neturi,
-
-– savivaldybę, kurioje gyvena). Naujai deklaruojamos gyvenamosios vietos
-
-savivaldybėje (jei gyvenamosios vietos neturi, – savivaldybėje, kurioje
-
-apsigyvena) ši išmoka skiriama ir mokama nustatyta tvarka, bet ne anksčiau kaip
-
-nuo kito mėnesio po to, kai asmens deklaruojama gyvenamoji vieta (jei
-
-gyvenamosios vietos neturi, – savivaldybė, kurioje gyvena) buvo pakeista.
-
-6. Asmeniui, kuriam išmoka paskirta ar mokama, mirus,
-
-iki mirties dienos neišmokėta išmokos suma išmokama Išmokų vaikams skyrimo ir
-
-mokėjimo nuostatų nustatyta tvarka.
-
-7. Baigusiam
-
-bendrojo ugdymo programą vyresniam kaip 18 metų asmeniui globos (rūpybos)
-
-išmoka mokama iki tų metų rugsėjo 1 dienos.
+7. Baigusiam bendrojo ugdymo programą vyresniam kaip 18 metų asmeniui globos (rūpybos) išmoka mokama iki tų metų rugsėjo 1 dienos.
 
 Straipsnio pakeitimai:
 
-Nr. X-641, 2006-06-01,
+Nr. X-641, 2006-06-01, Žin., 2006, Nr. 68-2496 (2006-06-17)
 
-Žin., 2006, Nr. 68-2496 (2006-06-17)
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-Nr. X-1664,
+Nr. XI-90, 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
 
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+Nr. XI-181, 2009-02-19, Žin., 2009, Nr. 25-983 (2009-03-05)
 
-Nr.
+Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
-XI-90,
-
-2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
-
-Nr. XI-181,
-
-2009-02-19, Žin., 2009, Nr. 25-983 (2009-03-05)
-
-Nr. XI-1756,
-
-2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
-
-Nr. XII-865,
-
-2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
+Nr. XII-865, 2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
 
 18 straipsnis. Savivaldybių administracijų teisės
 
-Savivaldybių
+Savivaldybių administracijos turi teisę:
 
-administracijos turi teisę:
+1) apklausti asmenis, kurie kreipiasi dėl šio įstatymo nustatytų išmokų ar kurie jas gauna, tikrinti jų pateiktus dokumentus ir reikalauti papildomos informacijos, įrodančios jų teisę gauti šio įstatymo nustatytas išmokas;
 
-1)
+2) tikrinti bendrai gyvenančių asmenų gyvenimo sąlygas ir, surašius buities tyrimo aktą, priimti sprendimą laikyti bendrai gyvenančius asmenis patyrusiais socialinę riziką;
 
-apklausti asmenis, kurie kreipiasi dėl šio įstatymo nustatytų išmokų ar kurie
-
-jas gauna, tikrinti jų pateiktus dokumentus ir reikalauti papildomos
-
-informacijos, įrodančios jų teisę gauti šio įstatymo nustatytas išmokas;
-
-2) tikrinti bendrai gyvenančių
-
-asmenų gyvenimo sąlygas ir, surašius buities tyrimo aktą, priimti sprendimą
-
-laikyti bendrai gyvenančius asmenis patyrusiais socialinę riziką;
-
-3) neskirti išmokos, sustabdyti
-
-arba nutraukti jos mokėjimą, jeigu išmokos gavėjas (jo atstovas pagal įstatymą)
-
-nevykdo šio įstatymo 19 straipsnyje nustatytų pareigų arba savivaldybės vaiko
-
-teisių apsaugos institucija informuoja, kad tėvams apribota tėvų valdžia,
-
-globėjas (rūpintojas) atleistas ar nušalintas nuo globėjo (rūpintojo) pareigų.
+3) neskirti išmokos, sustabdyti arba nutraukti jos mokėjimą, jeigu išmokos gavėjas (jo atstovas pagal įstatymą) nevykdo šio įstatymo 19 straipsnyje nustatytų pareigų arba savivaldybės vaiko teisių apsaugos institucija informuoja, kad tėvams apribota tėvų valdžia, globėjas (rūpintojas) atleistas ar nušalintas nuo globėjo (rūpintojo) pareigų.
 
 Straipsnio pakeitimai:
 
-Nr. X-641, 2006-06-01,
+Nr. X-641, 2006-06-01, Žin., 2006, Nr. 68-2496 (2006-06-17)
 
-Žin., 2006, Nr. 68-2496 (2006-06-17)
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-Nr. X-1664,
-
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
-
-Nr. XI-1756,
-
-2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
+Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
 12 straipsnis. Išmokų skyrimo ir mokėjimo tvarka
 
-1. Išmokas, išskyrus globos (rūpybos) išmoką, skiria
+1. Išmokas, išskyrus globos (rūpybos) išmoką, skiria ir moka savivaldybės, kurios teritorijoje asmuo, turintis teisę gauti šio įstatymo nustatytas išmokas, deklaruoja gyvenamąją vietą, administracija, o jeigu jis gyvenamosios vietos neturi, – savivaldybės, kurioje šis asmuo gyvena, administracija.
 
-ir moka savivaldybės, kurios teritorijoje asmuo, turintis teisę gauti šio
+2. Globos (rūpybos) išmoką pilnamečiams asmenims, kurie mokosi bendrojo ugdymo mokyklose, profesinio mokymo įstaigose, aukštosiose mokyklose, skiria ir moka savivaldybės, kurios teritorijoje yra mokykla, administracija. Jeigu gyvenamąją vietą Lietuvos Respublikoje deklaravęs asmuo studijuoja užsienio valstybės bendrojo ugdymo mokykloje, profesinio mokymo įstaigoje, aukštojoje mokykloje, globos (rūpybos) išmoką jam skiria ir moka savivaldybės, kurios teritorijoje asmuo yra deklaravęs gyvenamąją vietą, administracija.
 
-įstatymo nustatytas išmokas, deklaruoja gyvenamąją vietą, administracija, o
+3. Vaiko globėjui (rūpintojui) globos (rūpybos) išmoką moka tos savivaldybės, kurios vaiko teisių apsaugos institucijos teikimu vaikui buvo nustatyta globa (rūpyba) arba po 2007 m. sausio 1 d. imtinai buvo globėju (rūpintoju) paskirta apskrities viršininko įsteigta vaikų socialinės globos įstaiga, administracija. Tais atvejais, kai besimokantis vyresnis kaip 18 metų asmuo lieka gyventi ir yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas) šeimynoje ar socialinės globos įstaigoje, kurioje iki pilnametystės jam buvo nustatyta globa (rūpyba), ši išmoka mokama šeimynai ar socialinės globos įstaigai.
 
-jeigu jis gyvenamosios vietos neturi, – savivaldybės, kurioje šis asmuo gyvena,
+4. Kreipiantis dėl išmokos, privaloma pateikti visus Išmokų vaikams skyrimo ir mokėjimo nuostatuose nurodytus dokumentus, būtinus išmokai skirti.
 
-administracija.
+5. Savivaldybės administracija per mėnesį nuo visų dokumentų gavimo dienos privalo priimti sprendimą dėl išmokos skyrimo ir apie tai raštu pranešti pareiškėjui. Kreipiantis dėl vienkartinės išmokos vaikui bei vienkartinės išmokos nėščiai moteriai, sprendimas dėl išmokos skyrimo priimamas ir išmokos išmokamos per 10 darbo dienų. Tais atvejais, kai priimamas sprendimas neskirti išmokos, nurodomos neskyrimo priežastys.
 
-2. Globos (rūpybos) išmoką pilnamečiams asmenims,
+6. Kilus ginčui tarp tėvų dėl to, kas gaus išmoką, savivaldybės administracija priimdama sprendimą turi atsižvelgti į vaiko (vaikų) interesus.
 
-kurie mokosi bendrojo ugdymo mokyklose, profesinio mokymo įstaigose,
+7. Vienkartinės išmokos vaikui, vienkartinės išmokos įsikurti ir vienkartinės išmokos nėščiai moteriai dydis apskaičiuojamas pagal teisės į išmoką atsiradimo dieną galiojusius išmokos ir bazinės socialinės išmokos dydžius. Išmokos vaikui, išmokos privalomosios pradinės karo tarnybos kario vaikui ir globos (rūpybos) išmokos dydis ir globos (rūpybos) išmokos tikslinis priedas apskaičiuojami pagal tą mėnesį, už kurį išmoka mokama, galiojančius išmokos ir bazinės socialinės išmokos dydžius.
 
-aukštosiose mokyklose, skiria ir moka savivaldybės, kurios teritorijoje yra
+8. Jei šio įstatymo nustatyta periodinė išmoka skiriama už ne visą mėnesį, jos dydis apskaičiuojamas proporcingai to mėnesio kalendorinių dienų, už kurias išmoka skiriama, skaičiui.
 
-mokykla, administracija. Jeigu gyvenamąją vietą Lietuvos Respublikoje
+9. Išmoka vaikui mokama vienam iš vaiką (vaikus) auginančių tėvų (įtėvių) (ar turimam vieninteliam iš tėvų), globėjui (rūpintojui). Išmokos gavimo būdą pasirenka išmokos gavėjas, išskyrus tuos, kurie yra patyrę socialinę riziką.
 
-deklaravęs asmuo studijuoja užsienio valstybės bendrojo ugdymo
+10. Vidutinės bendrai gyvenančių asmenų mėnesio pajamos išmokai vaikui gauti apskaičiuojamos pagal praėjusių kalendorinių metų iki teisės gauti išmoką atsiradimo dienos pajamas arba, jeigu pagal praėjusių kalendorinių metų vidutines mėnesio pajamas bendrai gyvenantys asmenys neturėjo teisės gauti išmokos vaikui, pajamoms sumažėjus, vidutinės mėnesio pajamos išmokai vaikui gauti apskaičiuojamos pagal praėjusių 12 kalendorinių mėnesių iki kreipimosi ar teisės gauti išmoką atsiradimo dienos pajamas. Jeigu bendrai gyvenantys asmenys gauna socialinę pašalpą pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą ir (ar) socialinę paramą mokiniams pagal Lietuvos Respublikos socialinės paramos mokiniams įstatymą, išmoka vaikui skiriama pagal pajamas, kurios paskutinį kartą buvo nurodytos skiriant socialinę paramą. Skaičiuojant bendrai gyvenančių asmenų pajamas, jų globojamų (rūpinamų) vaikų pajamos į bendrai gyvenančių asmenų pajamas neįskaitomos.
 
-mokykloje, profesinio mokymo įstaigoje, aukštojoje mokykloje, globos (rūpybos)
-
-išmoką jam skiria ir moka savivaldybės, kurios teritorijoje asmuo yra
-
-deklaravęs gyvenamąją vietą, administracija.
-
-3. Vaiko globėjui (rūpintojui) globos (rūpybos) išmoką
-
-moka tos savivaldybės, kurios vaiko teisių apsaugos institucijos teikimu vaikui
-
-buvo nustatyta globa (rūpyba) arba po 2007 m. sausio 1 d. imtinai buvo globėju
-
-(rūpintoju) paskirta apskrities viršininko įsteigta vaikų socialinės globos
-
-įstaiga, administracija. Tais atvejais, kai besimokantis vyresnis kaip 18 metų
-
-asmuo lieka gyventi ir yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas
-
-paslaugas) šeimynoje ar socialinės globos įstaigoje, kurioje iki pilnametystės
-
-jam buvo nustatyta globa (rūpyba), ši išmoka mokama šeimynai ar socialinės
-
-globos įstaigai.
-
-4. Kreipiantis dėl išmokos, privaloma pateikti visus
-
-Išmokų vaikams skyrimo ir mokėjimo nuostatuose nurodytus dokumentus, būtinus
-
-išmokai skirti.
-
-5. Savivaldybės administracija per mėnesį nuo visų
-
-dokumentų gavimo dienos privalo priimti sprendimą dėl išmokos skyrimo ir apie
-
-tai raštu pranešti pareiškėjui. Kreipiantis dėl vienkartinės išmokos vaikui bei
-
-vienkartinės išmokos nėščiai moteriai, sprendimas dėl išmokos skyrimo priimamas
-
-ir išmokos išmokamos per 10 darbo dienų. Tais atvejais, kai priimamas
-
-sprendimas neskirti išmokos, nurodomos neskyrimo priežastys.
-
-6. Kilus ginčui tarp tėvų dėl to, kas gaus išmoką,
-
-savivaldybės administracija priimdama sprendimą turi atsižvelgti į vaiko
-
-(vaikų) interesus.
-
-7. Vienkartinės išmokos vaikui, vienkartinės išmokos
-
-įsikurti ir vienkartinės išmokos nėščiai moteriai dydis apskaičiuojamas pagal
-
-teisės į išmoką atsiradimo dieną galiojusius išmokos ir bazinės socialinės
-
-išmokos dydžius. Išmokos vaikui, išmokos privalomosios tarnybos kario vaikui ir
-
-globos (rūpybos) išmokos dydis ir globos (rūpybos) išmokos tikslinis priedas
-
-apskaičiuojami pagal tą mėnesį, už kurį išmoka mokama, galiojančius išmokos ir
-
-bazinės socialinės išmokos dydžius.
-
-Redakcija nuo 2014-07-01:
-
-7. Vienkartinės išmokos vaikui, vienkartinės išmokos
-
-įsikurti ir vienkartinės išmokos nėščiai moteriai dydis apskaičiuojamas pagal
-
-teisės į išmoką atsiradimo dieną galiojusius išmokos ir bazinės socialinės
-
-išmokos dydžius. Išmokos vaikui, išmokos privalomosios pradinės karo tarnybos
-
-kario vaikui ir globos (rūpybos) išmokos dydis ir globos (rūpybos) išmokos
-
-tikslinis priedas apskaičiuojami pagal tą mėnesį, už kurį išmoka mokama,
-
-galiojančius išmokos ir bazinės socialinės išmokos dydžius.
-
-8. Jei šio įstatymo nustatyta periodinė išmoka
-
-skiriama už ne visą mėnesį, jos dydis apskaičiuojamas proporcingai to mėnesio
-
-kalendorinių dienų, už kurias išmoka skiriama, skaičiui.
-
-9. Išmoka
-
-vaikui mokama vienam iš vaiką (vaikus) auginančių tėvų (ar turimam vieninteliam
-
-iš tėvų), globėjui (rūpintojui). Išmokos gavimo būdą pasirenka išmokos gavėjas,
-
-išskyrus tuos, kurie yra patyrę socialinę riziką.
-
-Redakcija nuo 2014-07-01:
-
-9. Išmoka
-
-vaikui mokama vienam iš vaiką (vaikus) auginančių tėvų (įtėvių) (ar turimam
-
-vieninteliam iš tėvų), globėjui (rūpintojui). Išmokos gavimo būdą pasirenka
-
-išmokos gavėjas, išskyrus tuos, kurie yra patyrę socialinę riziką.
-
-10. Vidutinės
-
-bendrai gyvenančių asmenų mėnesio pajamos išmokai vaikui gauti apskaičiuojamos
-
-pagal praėjusių kalendorinių metų iki teisės gauti išmoką atsiradimo dienos
-
-pajamas arba, jeigu pagal praėjusių kalendorinių metų vidutines mėnesio pajamas
-
-bendrai gyvenantys asmenys neturėjo teisės gauti išmokos vaikui, pajamoms sumažėjus,
-
-vidutinės mėnesio pajamos išmokai vaikui gauti apskaičiuojamos pagal praėjusių
-
-12 kalendorinių mėnesių iki kreipimosi ar teisės gauti išmoką atsiradimo dienos
-
-pajamas. Jeigu bendrai gyvenantys asmenys gauna socialinę pašalpą pagal
-
-Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą ir (ar)
-
-socialinę paramą mokiniams pagal Lietuvos Respublikos socialinės paramos
-
-mokiniams įstatymą, išmoka vaikui skiriama pagal pajamas, kurios paskutinį
-
-kartą buvo nurodytos skiriant socialinę paramą. Skaičiuojant bendrai gyvenančių
-
-asmenų pajamas, jų globojamų (rūpinamų) vaikų pajamos į bendrai gyvenančių
-
-asmenų pajamas neįskaitomos.
-
-11. Bendrai gyvenančių asmenų pateikti duomenys apie
-
-gautas pajamas patikrinami Išmokų vaikams
-
-skyrimo ir mokėjimo nuostatuose nustatyta tvarka.
+11. Bendrai gyvenančių asmenų pateikti duomenys apie gautas pajamas patikrinami Išmokų vaikams skyrimo ir mokėjimo nuostatuose nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
-Nr. IX-2470,
+Nr. IX-2470, 2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
 
-2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
+Nr. X-496, 2006-01-19, Žin., 2006, Nr. 17-592 (2006-02-11)
 
-Nr. X-496, 2006-01-19,
+Nr. X-641, 2006-06-01, Žin., 2006, Nr. 68-2496 (2006-06-17)
 
-Žin., 2006, Nr. 17-592 (2006-02-11)
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-Nr. X-641, 2006-06-01,
+Nr. XI-90, 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
 
-Žin., 2006, Nr. 68-2496 (2006-06-17)
+Nr. XI-181, 2009-02-19, Žin., 2009, Nr. 25-983 (2009-03-05)
 
-Nr. X-1664,
+Nr. XI-708, 2010-03-30, Žin., 2010, Nr. 41-1933 (2010-04-10)
 
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+Nr. XI-1238, 2010-12-16, Žin., 2010, Nr. 157-7972 (2010-12-31)
 
-Nr.
+Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
-XI-90,
+Nr. XII-865, 2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
 
-2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
+14 straipsnis. Išmokų neprimokėjimas, permokėjimas ir išskaitymas iš jų
 
-Nr. XI-181,
+1. Savivaldybės administracija privalo informuoti išmokos gavėją apie jo pareigas ir aplinkybes, turinčias įtakos išmokos dydžiui ar mokėjimui.
 
-2009-02-19, Žin., 2009, Nr. 25-983 (2009-03-05)
+2. Dėl savivaldybės administracijos kaltės neprimokėta išmokos suma išmokama už visą praėjusį laiką savivaldybės administracijos sprendimu.
 
-Nr. XI-708,
-
-2010-03-30, Žin., 2010, Nr. 41-1933 (2010-04-10)
-
-Nr. XI-1238,
-
-2010-12-16, Žin., 2010, Nr. 157-7972 (2010-12-31)
-
-Nr. XI-1756,
-
-2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
-
-Nr. XII-865,
-
-2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
-
-14 straipsnis. Išmokų
-
-neprimokėjimas, permokėjimas ir išskaitymas iš jų
-
-1. Savivaldybės administracija privalo informuoti
-
-išmokos gavėją apie jo pareigas ir aplinkybes, turinčias įtakos išmokos dydžiui
-
-ar mokėjimui.
-
-2. Dėl savivaldybės administracijos kaltės neprimokėta
-
-išmokos suma išmokama už visą praėjusį laiką savivaldybės administracijos
-
-sprendimu.
-
-3. Dėl
-
-išmokos gavėjo kaltės permokėta išmokos suma turi būti grąžinama ar
-
-išskaičiuojama savivaldybės administracijos sprendimu. Iš gavėjui pagal šį
-
-įstatymą priklausančių išmokų išskaitoma ne daugiau kaip po 20 procentų
-
-mokėtinos išmokos sumos per mėnesį, išskyrus atvejus, kai gavėjas sutinka, kad
-
-būtų išskaičiuojama daugiau kaip 20 procentų mokėtinos išmokos sumos, tol, kol
-
-bus visiškai padengta išieškoma suma. Jei išmokos mokėjimas gavėjui
-
-nutraukiamas, o visa permokėta išmokos suma negrąžinta arba neišskaičiuota,
-
-likęs įsiskolinimas išieškomas teismo tvarka, jei su išieškojimu susijusios
-
-administravimo išlaidos neviršija išieškotinos sumos.
+3. Dėl išmokos gavėjo kaltės permokėta išmokos suma turi būti grąžinama ar išskaičiuojama savivaldybės administracijos sprendimu. Iš gavėjui pagal šį įstatymą priklausančių išmokų išskaitoma ne daugiau kaip po 20 procentų mokėtinos išmokos sumos per mėnesį, išskyrus atvejus, kai gavėjas sutinka, kad būtų išskaičiuojama daugiau kaip 20 procentų mokėtinos išmokos sumos, tol, kol bus visiškai padengta išieškoma suma. Jei išmokos mokėjimas gavėjui nutraukiamas, o visa permokėta išmokos suma negrąžinta arba neišskaičiuota, likęs įsiskolinimas išieškomas teismo tvarka, jei su išieškojimu susijusios administravimo išlaidos neviršija išieškotinos sumos.
 
 Straipsnio pakeitimai:
 
-Nr. X-1664,
+Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 
-2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
-Nr. XI-1756,
+16 straipsnis. Savivaldybių administracijų sprendimų apskundimas
 
-2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
-
-16 straipsnis. Savivaldybių
-
-administracijų sprendimų apskundimas
-
-Savivaldybės administracijos sprendimas dėl asmens
-
-teisės gauti šio įstatymo nustatytą išmoką gali būti skundžiamas
-
-Administracinių bylų teisenos įstatymo nustatyta tvarka.
+Savivaldybės administracijos sprendimas dėl asmens teisės gauti šio įstatymo nustatytą išmoką gali būti skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 ŠEŠTASIS SKIRSNIS
 
@@ -1531,161 +539,51 @@ IŠMOKŲ TEIKIMAS ESANT SOCIALINEI RIZIKAI
 
 Skirsnio pavadinimas keistas:
 
-Nr. XI-1756,
+Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
-2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
+17 straipsnis. Išmokų teikimas asmenims, patyrusiems socialinę riziką
 
-17
+1. Asmenims, patyrusiems socialinę riziką, šio įstatymo nustatytos išmokos teikiamos savivaldybių tarybų nustatyta tvarka.
 
-straipsnis. Išmokų teikimas asmenims, patyrusiems socialinę riziką
+2. Išmokos asmenims, patyrusiems socialinę riziką, gali būti teikiamos:
 
-1. Asmenims, patyrusiems
+1) piniginėmis lėšomis vaiką prižiūrinčiai motinai ar tėvui (įmotei ar įtėviui);
 
-socialinę riziką, šio įstatymo nustatytos išmokos teikiamos savivaldybių tarybų
+2) piniginėmis lėšomis vyresniam kaip 16 metų vaikui;
 
-nustatyta tvarka.
+3) maisto produktais, drabužiais, avalyne, higienos reikmenimis ir kitomis vaikams būtinomis prekėmis;
 
-2. Išmokos asmenims, patyrusiems
-
-socialinę riziką, gali būti teikiamos:
-
-1) piniginėmis lėšomis
-
-vaiką prižiūrinčiai motinai ar tėvui (įmotei ar įtėviui);
-
-2) piniginėmis lėšomis
-
-vyresniam kaip 16 metų vaikui;
-
-3) maisto produktais,
-
-drabužiais, avalyne, higienos reikmenimis ir kitomis vaikams būtinomis
-
-prekėmis;
-
-4) socialinėmis
-
-kortelėmis, skirtomis pirkti maisto parduotuvėse;
+4) socialinėmis kortelėmis, skirtomis pirkti maisto parduotuvėse;
 
 5) maitinimo talonais;
 
-6) paslaugomis,
+6) paslaugomis, vadovaujantis Lietuvos Respublikos socialinių paslaugų įstatymu;
 
-vadovaujantis Lietuvos Respublikos socialinių paslaugų įstatymu;
+7) apmokant vaikų maitinimo išlaidas mokyklose ar dienos centruose;
 
-7) apmokant vaikų
+8) apmokant vaikų išlaikymo išlaidas ikimokyklinėse įstaigose;
 
-maitinimo išlaidas mokyklose ar dienos centruose;
-
-8) apmokant vaikų
-
-išlaikymo išlaidas ikimokyklinėse įstaigose;
-
-9) kitais savivaldybių
-
-tarybų nustatytais būdais.
+9) kitais savivaldybių tarybų nustatytais būdais.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1756,
+Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
-2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
+SEPTINTASIS SKIRSNIS
 
-SEPTINTASIS
-
-SKIRSNIS
-
-savivaldybių
-
-administracijų teisės ir išmokų gavėjų pareigos
-
-17 straipsnis. Išmokų teikimas socialinės rizikos
-
-šeimoms
-
-1.
-
-Socialinės rizikos šeimoms šio įstatymo nustatytos išmokos teikiamos
-
-savivaldybių tarybų nustatyta tvarka.
-
-2.
-
-Išmokos socialinės rizikos šeimoms gali būti teikiamos vienu iš šių būdų:
-
-1)
-
-piniginėmis lėšomis vaiką prižiūrinčiai motinai ar tėvui (įmotei ar įtėviui);
-
-2)
-
-piniginėmis lėšomis vyresniam kaip 16 metų vaikui;
-
-3)
-
-maisto produktais, drabužiais, avalyne, higienos reikmenimis ir kitomis vaikams
-
-būtinomis prekėmis;
-
-4)
-
-kortelėmis, skirtomis pirkti maisto parduotuvėse;
-
-5)
-
-talonais maitinimui;
-
-6)
-
-paslaugomis, vadovaujantis Socialinių paslaugų įstatymu;
-
-7)
-
-apmokant vaikų maitinimo išlaidas mokyklose ar dienos centruose;
-
-8)
-
-apmokant vaikų išlaikymo išlaidas ikimokyklinėse įstaigose;
-
-9)
-
-kitais savivaldybių tarybų nustatytais būdais.
-
-SEPTINTASIS
-
-SKIRSNIS
-
-savivaldybių
-
-administracijų teisės ir išmokų gavėjų pareigos
+savivaldybių administracijų teisės ir išmokų gavėjų pareigos
 
 19 straipsnis. Išmokų gavėjų pareigos
 
-Asmenys,
+Asmenys, kurie kreipiasi dėl šio įstatymo nustatytų išmokų ir kurie jas gauna, privalo:
 
-kurie kreipiasi dėl šio įstatymo nustatytų išmokų ir kurie jas gauna, privalo:
+1) pateikti visą teisingą informaciją, įrodančią asmens teisę gauti šio įstatymo nustatytas išmokas, ir būtinus išmokoms gauti dokumentus;
 
-1)
+2) pranešti savivaldybės administracijai apie aplinkybes, turinčias įtakos išmokos dydžiui ar mokėjimui, per mėnesį nuo šių aplinkybių atsiradimo dienos;
 
-pateikti visą teisingą informaciją, įrodančią asmens teisę gauti šio įstatymo
+3) savivaldybės administracijos darbuotojams sudaryti galimybę tikrinti jų gyvenimo sąlygas;
 
-nustatytas išmokas, ir būtinus išmokoms gauti dokumentus;
-
-2)
-
-pranešti savivaldybės administracijai apie aplinkybes, turinčias įtakos
-
-išmokos dydžiui ar mokėjimui, per mėnesį nuo šių aplinkybių atsiradimo dienos;
-
-3)
-
-savivaldybės administracijos darbuotojams sudaryti galimybę tikrinti jų
-
-gyvenimo sąlygas;
-
-4)
-
-išmokas panaudoti pagal jų tikslinę paskirtį.
+4) išmokas panaudoti pagal jų tikslinę paskirtį.
 
 AŠTUNTASIS SKIRSNIS
 
