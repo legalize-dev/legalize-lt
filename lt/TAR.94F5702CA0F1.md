@@ -4,7 +4,7 @@ identifier: "TAR.94F5702CA0F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-09"
-last_updated: "2014-01-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2014-06-30
+Suvestinė redakcija nuo 2014-07-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
 
@@ -393,7 +393,13 @@ ANTSTOLIO VEIKLA
 
 4) aukciono tvarka realizuoti įkeistą kilnojamąjį turtą;
 
-5) tarpininkauti vykdant turtines prievoles.
+5) tarpininkauti vykdant turtines prievoles;
+
+6) bankroto administravimo paslaugas.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-806, 2014-03-27, paskelbta TAR 2014-04-11, i. k. 2014-04325
 
 3. Paslaugų teikimas neturi trukdyti atlikti įstatymų nustatytas funkcijas. Teikdamas paslaugas, antstolis privalo vengti interesų konflikto ar kitų aplinkybių, kurios galėtų kelti abejonių antstolio objektyvumu ir nešališkumu atliekant įstatymų nustatytas funkcijas. Visais atvejais antstolis privalo teikti pirmumą įstatymų nustatytoms funkcijoms. Antstolis negali teikti mokamų paslaugų vykdomosiose bylose, jeigu tuos pačius veiksmus jis turi atlikti priverstinio vykdymo priemonėmis. Atliekant funkcijas ir teikiant paslaugas, turi būti užtikrintas funkcijų atlikimo ir paslaugų teikimo atribojimas.
 
@@ -926,6 +932,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2317, 2012-11-06, Žin., 2012, Nr. 132-6645 (2012-11-15), i. k. 1121010ISTA0XI-2317
 
 Lietuvos Respublikos antstolių įstatymo 8 ir 47 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-806, 2014-03-27, paskelbta TAR 2014-04-11, i. k. 2014-04325
+
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 21 straipsnio pakeitimo įstatymas
 
 431 straipsnis. Elektroninės vykdomosios bylos, informacinių ir elektroninių ryšių technologijų naudojimas antstolių veikloje
 
