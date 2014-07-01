@@ -4,7 +4,7 @@ identifier: "TAR.0EC89509170B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-21"
-last_updated: "2012-07-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0EC89509170B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,17 +15,17 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2012-07-01 iki 2014-06-30
+Suvestinė redakcija nuo 2014-07-01
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 20-449, i. k. 0951010ISTA000I-798
 
-TAR pastaba. Iki šio įstatymo įsigaliojimo įsteigtos ir veikiančios daugiabučių namų savininkų bendrijos, gyvenamųjų namų statybos bendrijos, garažų statybos ir eksploatavimo bendrijos ir kiti juridiniai asmenys, įsteigti ir veikiantys pagal Daugiabučių namų savininkų bendrijų įstatymą, per 12 mėnesių nuo šio įstatymo įsigaliojimo dienos savo įstatus suderina su šio įstatymo reikalavimais.   Iki šio įstatymo įsigaliojimo įsteigtoms ir veikiančioms daugiabučių namų savininkų bendrijoms šio įstatymo 13 straipsnio 3 dalies reikalavimas bendrijos narių įgaliotinių skaičių nustatyti bendrijos įstatuose netaikomas. Šiais atvejais bendrijos narių įgaliotinių skaičių nustato visuotinis susirinkimas arba bendrijos valdymo organas, vadovaudamasis pakankamo ir proporcingo atstovavimo principu.
+TAR pastaba. Daugiabučio gyvenamojo namo ar kitos paskirties pastato savininkų bendrijos, įsteigtos ir Juridinių asmenų registre įregistruotos iki šio įstatymo įsigaliojimo dienos, pirmininkas per 3 mėnesius nuo šio įstatymo įsigaliojimo dienos pateikia Nekilnojamojo turto registro tvarkytojui prašymą bendrijos įsteigimo ir įregistravimo Juridinių asmenų registre faktą įregistruoti Nekilnojamojo turto registre, jeigu toks faktas nebuvo įregistruotas iki šio įstatymo įsigaliojimo dienos. Bendrijos, steigiamos ir Juridinių asmenų registre įregistruojamos nuo šio įstatymo įsigaliojimo dienos iki 2015 m. sausio 1 d., pirmininkas prašymą Nekilnojamojo turto registro tvarkytojui dėl bendrijos įsteigimo ir įregistravimo Juridinių asmenų registre fakto įregistravimo Nekilnojamojo turto registre teikia per 3 mėnesius nuo bendrijos įsteigimo ir Juridinių asmenų registre įregistravimo dienos.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XI-1967, 2012-04-12, Žin., 2012, Nr. 50-2440 (2012-04-28), i. k. 1121010ISTA0XI-1967
+Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 
-Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo įstatymas
+Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 2, 7, 8 ir 14 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2012-07-01:
 
@@ -81,11 +81,19 @@ BENDROSIOS NUOSTATOS
 
 15. Pastato bendrojo naudojimo objektai:
 
-1) bendrosios pastato konstrukcijos – pagrindinės pastato konstrukcijos (pamatai, visos laikančiosios sienos ir kolonos, išorinės sienos ir vidinės pertvaros, atskiriančios bendrojo naudojimo patalpas nuo skirtingiems savininkams priklausančių butų ir kitų patalpų, perdangos, stogas, fasado architektūros detalės, bendrojo naudojimo balkonai ir lodžijos, kitų balkonų ir lodžijų išorinės (fasado) konstrukcijos, išorės durys, laiptinių laiptų konstrukcijos, išoriniai laiptai, nuožulnos, stogeliai);
+1) bendrosios pastato konstrukcijos – pagrindinės pastato konstrukcijos (pamatai, visos laikančiosios sienos ir kolonos, išorinės sienos ir vidinės pertvaros, atskiriančios bendrojo naudojimo patalpas nuo skirtingiems savininkams priklausančių butų ir kitų patalpų, perdangos, stogas, fasado architektūros detalės ir išorinės (fasado) konstrukcijos (balkonų, lodžijų ir terasų laikančiosios konstrukcijos, aptvarai, stogeliai, išorės durys, išoriniai laiptai), tarpaukštinių laiptų konstrukcijos, nuožulnos);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 
 2) bendrosios pastato inžinerinės sistemos – pastato bendrojo naudojimo mechaninė, elektros, dujų, šilumos, sanitarinės technikos ir kita įranga (įskaitant pastato elektros skydinę, šilumos punktą, šildymo ir karšto vandens sistemos vamzdynus ir radiatorius, vandentiekio ir kanalizacijos vamzdynus, rankšluosčių džiovintuvus);
 
-3) pastato bendrojo naudojimo patalpos – pastato laiptinės, holai, koridoriai, galerijos, palėpės, sandėliai, rūsiai, pusrūsiai ir kitos patalpos, jeigu tai nuosavybės teise nepriklauso atskiriems savininkams;
+3) pastato bendrojo naudojimo patalpos ir kitos pastato dalys – pastato laiptinės, holai, koridoriai, galerijos, palėpės, sandėliai, rūsiai, pusrūsiai ir kitos patalpos, bendrojo naudojimo balkonai, lodžijos, terasos, jeigu jie nuosavybės teise nepriklauso atskiriems savininkams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 
 4) vietiniai inžineriniai tinklai – kaip ši sąvoka apibrėžta Lietuvos Respublikos statybos įstatyme;
 
@@ -181,7 +189,13 @@ BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
 
 3) bendrijos veiklos laikotarpis, jeigu jis ribotas;
 
-4) esminės bendrosios dalinės nuosavybės teisės objekto charakteristikos (esami arba projektiniai duomenys – pavadinimas, adresas, kadastro numeris, jeigu jis suteiktas);
+4) esminės bendrosios dalinės nuosavybės teisės objekto charakteristikos – pastato (pastatų) pavadinimas (pavadinimai), adresas (adresai), nurodytas (nurodyti) Lietuvos Respublikos adresų registre, pastato unikalus numeris (pastatų unikalūs numeriai), nurodytas (nurodyti) Nekilnojamojo turto registre;
+
+Straipsnio punkto pakeitimai:
+
+TAR pastaba. 4 punkto nuostatos taikomos po įstatymo Nr. XII-882 įsigaliojimo dienos (2014-07-01) steigiamų daugiabučių gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrijų įstatams, taip pat iki šio įstatymo įsigaliojimo įsteigtų daugiabučių gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrijų įstatams, kai šie įstatai keičiami ir perregistruojami.
+
+Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 
 5) bendrijos veiklos tikslai, aiškiai ir išsamiai apibūdintos veiklos sritys;
 
@@ -359,7 +373,11 @@ BENDRIJOS VALDYMAS
 
 4) informacijos ir dokumentų pateikimą visuotiniam susirinkimui (įgaliotinių susirinkimui) šio įstatymo nustatytais atvejais arba visuotinio susirinkimo (įgaliotinių susirinkimo) prašymu;
 
-5) bendrijos dokumentų ir duomenų pateikimą Juridinių asmenų registro tvarkytojui;
+5) bendrijos dokumentų ir duomenų pateikimą Juridinių asmenų registro tvarkytojui ir savivaldybės vykdomajai institucijai ir, įregistravus Juridinių asmenų registre bendriją, Juridinių asmenų registro ir Nekilnojamojo turto registro išrašų pateikimą savivaldybės vykdomajai institucijai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 
 6) informacijos pateikimą butų ir kitų patalpų (pastatų) savininkams jų prašymu;
 
@@ -375,7 +393,11 @@ BENDRIJOS VALDYMAS
 
 12) bendrijos metinių pajamų ir išlaidų sąmatos sudarymą ir jos pateikimą visuotiniam susirinkimui (įgaliotinių susirinkimui) (valdybai);
 
-13) dokumentų pateikimą bendrijos revizijos komisijai (revizoriui) ir (ar) auditoriui.
+13) duomenų pateikimą bendrijos revizijos komisijai ir (ar) auditoriui, taip pat savivaldybės vykdomajai institucijai ar jos įgaliotiems asmenims, turintiems teisę prižiūrėti ir kontroliuoti, kaip bendrijos valdymo organai atlieka jiems pagal šį įstatymą priskirtas funkcijas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 
 7. Visi butų ir kitų patalpų (pastatų) savininkų raštu bendrijos pirmininkui pateikti prašymai, skundai ir kiti dokumentai registruojami ir nagrinėjami bendrijos įstatuose nustatyta tvarka. Bendrijos pirmininkas privalo per 10 darbo dienų nuo buto ar kitų patalpų (pastato) savininko kreipimosi gavimo dienos suteikti išsamią informaciją apie bendrijos organų sprendimus, bendrijos turtą, kaupiamąsias lėšas, įmokas ir kitus privalomus mokėjimus, susijusius su bendrijos veikla.
 
@@ -684,6 +706,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1967, 2012-04-12, Žin., 2012, Nr. 50-2440 (2012-04-28), i. k. 1121010ISTA0XI-1967
 
 Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
+
+Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 2, 7, 8 ir 14 straipsnių pakeitimo įstatymas
 
 28 straipsnis. Bendrijos nario teisės
 
