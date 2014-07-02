@@ -4,7 +4,7 @@ identifier: "TAR.389CB90C666D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-01-15"
-last_updated: "2014-04-25"
+last_updated: "2014-07-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 department: "Lietuvos Respublikos Seimas"
@@ -63,9 +63,9 @@ priskiriami:
 
 ginklai, kurių sviedinio kinetinė energija yra nuo 2,5 J iki 7,5 J;
 
-3) dujiniai
+3) dujiniai aerozoliniai
 
-aerozoliniai įrenginiai, įtaisai;
+įrenginiai, įtaisai;
 
 4) šaltieji
 
@@ -81,7 +81,21 @@ netinkami naudoti ginklai;
 
 7) prietaisai ar
 
-daiktai, sukonstruoti kaip svoriniai-gabaritiniai ginklų maketai.
+daiktai, sukonstruoti kaip svoriniai-gabaritiniai ginklų maketai;
+
+8) senoviniai
+
+ginklai.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XII-978,
+
+2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09407
 
 TREČIASIS
 
@@ -89,25 +103,173 @@ SKIRSNIS
 
 DraudžIami GINKLai, GINKLŲ PRIEDĖLIAI IR ŠAUDMENys
 
+7
+
+straipsnis. Draudžiami ginklai, ginklų priedėliai ir šaudmenys
+
+1. Lietuvos
+
+Respublikoje draudžiami visi ginklai, ginklų priedėliai ir šaudmenys, kuriuos
+
+draudžia Lietuvos Respublikos tarptautinės sutartys.
+
+2. Lietuvos
+
+Respublikoje draudžiami A, B, C kategorijų šaunamieji ginklai, neturintys
+
+identifikacinių numerių. Draudimas turėti tokius ginklus netaikomas kriminalistinės
+
+ekspertizės įstaigoms, taip pat asmenims, kolekcionuojantiems šio įstatymo 38
+
+straipsnio nustatyta tvarka perdirbtus šaunamuosius ginklus. Identifikacinių numerių neturintys A, B, C kategorijų šaunamieji ginklai savininko
+
+pasirinkimu turi būti pažymėti identifikaciniais numeriais ir užregistruoti Lietuvos
+
+Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka arba perdirbti į visiškai netinkamus naudoti, kitu
+
+atveju jie turi būti sunaikinti.
+
+3. Civilinėje
+
+apyvartoje draudžiami:
+
+1) A kategorijos ginklai, ginklų
+
+priedėliai ir šaudmenys, skirti tik A kategorijos ginklams, išskyrus atvejus,
+
+kai juos naudoja Lietuvos bankas, Lietuvos Respublikoje įregistruoti juridiniai
+
+asmenys, gaminantys A kategorijos ginklus, ginklų priedėlius, šaudmenis A
+
+kategorijos ginklams, jų dalis, valstybinės kriminalistinės ekspertizės
+
+įstaigos, valstybiniai muziejai, A kategorijos ginklus, šaudmenis, jų dalis ir
+
+priedėlius tiriančios ir konstruojančios mokslinio tyrimo įstaigos;
+
+2) bet kokie savadarbiai
+
+šaunamieji ginklai;
+
+3) dujiniai
+
+ginklai su nuodingosiomis medžiagomis, šaunamųjų ginklų šaudmenys su
+
+nuodingosiomis medžiagomis;
+
+4) begarsiai
+
+šoviniai;
+
+5) šoviniai,
+
+kurių kulkos yra su kieto metalo šerdimi ar kieto metalo apvalkalu;
+
+6) lazeriniai
+
+taikikliai, išskyrus sportui naudojamus lazerinius taikiklius;
+
+7) kastetai,
+
+blakštai, mėtomosios žvaigždės ir kiti šaltieji smogiamojo ir svaidomojo
+
+pobūdžio ginklai;
+
+8) elektros šoko įtaisai su
+
+iššaunamosiomis adatomis, lanksčiais laidais sujungtomis su aukštosios įtampos
+
+elektros energijos šaltiniu.
+
+4. Civilinėje
+
+apyvartoje draudžiami šaltieji ginklai su automatiškai iššokančia ar
+
+atsilenkiančia geležte, kurie atitinka bent vieną iš šių kriterijų:
+
+1) iššokanti ar
+
+atsilenkianti geležtė yra ilgesnė kaip 8,5 cm;
+
+2) geležtė per
+
+vidurį yra siauresnė kaip 14 proc. jos ilgio;
+
+3) geležtė yra
+
+paaštrinta iš abiejų pusių.
+
+5. Sprendimą dėl
+
+daiktų, skleidžiančių radioaktyvųjį, elektromagnetinį, šviesos, šilumos,
+
+infragarso ar ultragarso spinduliavimą, pavojingą biologinį poveikį, pavojingas
+
+gyvybei dujas ar kitokias pavojingas sveikatai ar gyvybei medžiagas arba
+
+energiją, pripažinimo ginklais, nurodytais šio įstatymo 3 straipsnio 15 punkte,
+
+priima ekspertų komisija, nurodyta šio įstatymo 1 straipsnio 4 dalyje.
+
+Straipsnio
+
+pakeitimai:
+
+Nr. XI-2155,
+
+2012-06-29, Žin., 2012, Nr. 81-4221 (2012-07-12)
+
+KETVIRTASIS
+
+SKIRSNIS
+
+Ginklų registras ir Ginklų APSKAITA
+
+8
+
+straipsnis. Ginklų registras
+
+1. Visi
+
+teisėtai Lietuvos Respublikoje esantys A, B, C kategorijų ginklai Ginklų
+
+registro nuostatų nustatyta tvarka registruojami Ginklų registre.
+
+2. Ginklų
+
+registras yra valstybės registras. Ginklų registro valdytojas yra Ginklų
+
+fondas. Ginklų registro tvarkytojus skiria Vyriausybė.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XII-447,
+
+2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
+
 9 straipsnis. Ginklų apskaita
 
-1. Specialaus
+1. Specialaus statuso subjektai
 
-statuso subjektai privalo tvarkyti savo ginklų apskaitą. Šie subjektai duomenis
+privalo tvarkyti savo ginklų apskaitą. Šie subjektai duomenis apie turimus A,
 
-apie turimus A, B, C kategorijų ginklus Ginklų registro nuostatų
+B, C kategorijų ginklus Ginklų registro nuostatų nustatyta tvarka privalo
 
-nustatyta tvarka privalo teikti Ginklų registrui.
+teikti Ginklų registrui.
 
-2. Civilinėje apyvartoje
+2. Civilinėje
 
-esančių ginklų, jų savininkų ir valdytojų apskaitą tvarko policijos įstaigos.
+apyvartoje esančių ginklų, jų savininkų ir valdytojų apskaitą tvarko policijos
 
-Duomenis apie civilinėje apyvartoje esančius A, B, C kategorijų ginklus, jų
+įstaigos. Duomenis apie civilinėje apyvartoje esančius A, B, C kategorijų
 
-savininkus ir valdytojus Ginklų registro nuostatų nustatyta tvarka Ginklų
+ginklus, jų savininkus ir valdytojus Ginklų registro nuostatų nustatyta tvarka
 
-registrui teikia vidaus reikalų ministro įgaliota įstaiga.
+Ginklų registrui teikia vidaus reikalų ministro įgaliota įstaiga.
 
 Straipsnio
 
@@ -2345,9 +2507,9 @@ statuso subjektų ginklų ir šaudmenų apyvarta kontroliuojama kitų teisės ak
 
 nustatyta tvarka.
 
-15 straipsnis. Ginklų
+15 straipsnis.
 
-įsigijimo reikalavimai tam tikriems asmenims
+Ginklų įsigijimo reikalavimai tam tikriems asmenims
 
 1. Asmenys,
 
@@ -2409,15 +2571,13 @@ nuolat naudoti juridinio asmens darbuotojui, turinčiam teisę laikyti ir
 
 nešiotis tos kategorijos ginklą.
 
-4. Juridinis ar
+4. Juridinis ar fizinis asmuo jam
 
-fizinis asmuo jam priklausančius B ar C kategorijų ginklus, jų šaudmenis turi
+priklausančius B ar C kategorijų ginklus, jų šaudmenis turi teisę šaudymo
 
-teisę šaudymo varžybų, pratybų, mokymų metu laikinai perleisti naudoti
+varžybų, pratybų, mokymų metu laikinai perleisti naudoti fiziniams asmenims, prižiūrint
 
-fiziniams asmenims, prižiūrint treneriui ar kitam atsakingam už saugų šaudymą
-
-asmeniui.
+treneriui ar kitam atsakingam už saugų šaudymą asmeniui.
 
 17
 
@@ -2461,9 +2621,9 @@ sąmoningai klaidingą informaciją ar suklastotus dokumentus;
 
 atitinkamo egzamino;
 
-8) neturintis
+8) neturintis tinkamų
 
-tinkamų sąlygų laikyti ginklą;
+sąlygų laikyti ginklą;
 
 9) kuriam dėl
 
@@ -2489,11 +2649,11 @@ sveikatai, nuosavybei, viešajai tvarkai ar visuomenės saugumui. Šiuo atveju
 
 policija nurodo atsisakymo išduoti leidimą (panaikinti leidimą) motyvus.
 
-2. Ligų ir
+2. Ligų ir fizinių trūkumų, dėl
 
-fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo, sąrašą
+kurių asmuo negali įsigyti ar turėti ginklo, sąrašą nustato Sveikatos apsaugos
 
-nustato Sveikatos apsaugos ministerija.
+ministerija.
 
 3. Fizinių
 
@@ -2511,13 +2671,13 @@ norintiems įsigyti ir turėti šio įstatymo 5 straipsnio 5, 6, 7 ir 8 punktuos
 
 nurodytus ginklus.
 
-5. Šio
+5. Šio straipsnio 1 dalies 3, 4
 
-straipsnio 1 dalies 3, 4 ir 7 punktų nuostatos netaikomos specialaus statuso
+ir 7 punktų nuostatos netaikomos specialaus statuso subjektų pareigūnams, turintiems
 
-subjektų pareigūnams, turintiems teisę tarnybos metu nešiotis šaunamąjį ginklą
+teisę tarnybos metu nešiotis šaunamąjį ginklą ir norintiems gauti leidimą
 
-ir norintiems gauti leidimą laikyti ar leidimą nešiotis ginklus.
+laikyti ar leidimą nešiotis ginklus.
 
 Straipsnio
 
@@ -2525,17 +2685,17 @@ pakeitimai:
 
 Nr.
 
-XII-447, 2013-07-02,
+XII-447,
 
-Žin., 2013, Nr. 78-3928 (2013-07-20)
+2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 
 19 straipsnis. Bendrieji ūkinės
 
 komercinės veiklos, susijusios su ginklais ir šaudmenimis, reikalavimai
 
-1.
+1. Licencijuojama
 
-Licencijuojama ūkinė komercinė veikla yra:
+ūkinė komercinė veikla yra:
 
 1) ginklų, A
 
@@ -2591,11 +2751,11 @@ gaunama duomenų, kad juridinio asmens registracija ar licencija negalioja, taip
 
 pat jeigu į patikrintų asmenų sąrašus yra įtraukti asmenys, neturintys teisės
 
-dirbti su licencijuojama veikla tiesiogiai susijusį darbą. Jeigu per 30 kalendorinių
+dirbti su licencijuojama veikla tiesiogiai susijusį darbą. Jeigu per 30
 
-dienų nuo licencijos pateikimo dienos negaunamas joks atsakymas, laikoma, kad
+kalendorinių dienų nuo licencijos pateikimo dienos negaunamas joks atsakymas,
 
-priežasčių neišduoti sutikimo nėra.
+laikoma, kad priežasčių neišduoti sutikimo nėra.
 
 4. Sprendimas
 
@@ -2603,21 +2763,21 @@ dėl licencijos išdavimo priimamas ne vėliau kaip per 30 kalendorinių dienų 
 
 dokumentų, reikalingų licencijai išduoti, pateikimo dienos.
 
-5. Gavusi
+5. Gavusi prašymą
 
-prašymą išduoti licenciją, licencijas išduodanti institucija ne vėliau kaip per
+išduoti licenciją, licencijas išduodanti institucija ne vėliau kaip per 5 darbo
 
-5 darbo dienas išsiunčia pareiškėjui patvirtinimą, kad prašymas gautas.
+dienas išsiunčia pareiškėjui patvirtinimą, kad prašymas gautas. Patvirtinime
 
-Patvirtinime taip pat nurodoma šio straipsnio 4 dalyje nurodytas terminas
+taip pat nurodoma šio straipsnio 4 dalyje nurodytas terminas licencijai
 
-licencijai išduoti, sprendimo apskundimo tvarka bei terminai ir tai, kad tuo
+išduoti, sprendimo apskundimo tvarka bei terminai ir tai, kad tuo atveju, jeigu
 
-atveju, jeigu pareiškėjas ar jo įgaliotas asmuo per 30 kalendorinių dienų nuo
+pareiškėjas ar jo įgaliotas asmuo per 30 kalendorinių dienų nuo visų dokumentų,
 
-visų dokumentų, reikalingų licencijai išduoti, pateikimo dienos negauna jokio
+reikalingų licencijai išduoti, pateikimo dienos negauna jokio atsakymo, yra
 
-atsakymo, yra laikoma, kad priimamas teigiamas sprendimas.
+laikoma, kad priimamas teigiamas sprendimas.
 
 6. Atsisakymas
 
@@ -2721,9 +2881,9 @@ išduodančioje institucijoje gautas policijos įstaigų ar kitų kontroliuojan�
 
 institucijų motyvuotas pasiūlymas sustabdyti licencijos ar rašytinio sutikimo
 
-galiojimą dėl įstatymų, kitų teisės aktų, nustatančių licencijuojamos veiklos
+galiojimą dėl įstatymų, kitų teisės aktų, nustatančių licencijuojamos veiklos sąlygas,
 
-sąlygas, pažeidimų.
+pažeidimų.
 
 13. Rašytinio
 
@@ -2893,11 +3053,11 @@ saugoti ne mažiau kaip 20 metų nuo paskutinio įrašo padarymo dienos,
 
 neatsižvelgiant į tai, ar verčiamasi licencijuojama veikla, ar ne (likvidavus
 
-juridinį asmenį ar mirus fiziniam asmeniui, apskaitos dokumentai perduodami policijos
+juridinį asmenį ar mirus fiziniam asmeniui, apskaitos dokumentai perduodami
 
-įstaigoms, kurios tvarko civilinėje apyvartoje esančių ginklų, jų savininkų ir
+policijos įstaigoms, kurios tvarko civilinėje apyvartoje esančių ginklų, jų
 
-valdytojų apskaitą);
+savininkų ir valdytojų apskaitą);
 
 10) Vyriausybės
 
@@ -2927,11 +3087,11 @@ duomenis (identifikacinį gamintojo žymenį, gamintojo pavadinimą, šaudmenų
 
 partijos identifikacinį numerį, kalibrą ir šaudmenų tipą, kiekį), ginklų,
 
-šaudmenų tiekėjų ar gavėjų duomenis (pavadinimą, vardą, pavardę, adresą)
+šaudmenų tiekėjų ar gavėjų duomenis (pavadinimą, vardą, pavardę, adresą) policijos
 
-policijos įstaigoms, kurios tvarko civilinėje apyvartoje esančių ginklų, jų
+įstaigoms, kurios tvarko civilinėje apyvartoje esančių ginklų, jų savininkų ir
 
-savininkų ir valdytojų apskaitą.
+valdytojų apskaitą.
 
 3. Licencijos
 
@@ -2945,15 +3105,15 @@ asmeniui, išskyrus sandorių sudarymą per tarpininkus, turinčius šio įstaty
 
 nustatyta tvarka išduotą prekybos ginklais tarpininko registravimo pažymėjimą;
 
-2)
+2) verstis
 
-verstis licencijuojama veikla objektuose, kuriems neišduotas teritorinės
+licencijuojama veikla objektuose, kuriems neišduotas teritorinės policijos
 
-policijos įstaigos leidimas.
+įstaigos leidimas.
 
-4.
+4. Ginklų
 
-Ginklų apskaitos tvarką nustato Vyriausybės įgaliota institucija.
+apskaitos tvarką nustato Vyriausybės įgaliota institucija.
 
 Straipsnio
 
@@ -3065,17 +3225,27 @@ ginklų, šaudmenų dalis iš Europos Sąjungos valstybių narių;
 
 paties pagamintus ginklus, šaudmenis į Europos Sąjungos valstybes nares.
 
-6. Ginklų ir
+6. Ginklų ir šaudmenų gamintojai
 
-šaudmenų gamintojai privalo laikytis produktų saugos reikalavimų.
+privalo laikytis produktų saugos reikalavimų.
 
 7. Ginklų
 
 savininkai ir valdytojai savo reikmėms šaudmenis gali gaminti patys. Asmenys,
 
-teisėtai turintys lygiavamzdžius ir graižtvinius ginklus, gali įsigyti ir
+teisėtai turintys B ir C kategorijų lygiavamzdžius ir graižtvinius
 
-laikyti kapsulių ir iki 1 kg parako.
+ginklus, gali įsigyti ir laikyti kapsulių ir iki 1 kg parako.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XII-978,
+
+2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09407
 
 23 straipsnis.
 
@@ -3087,41 +3257,39 @@ Ginklų, ginklų priedėlių, šaudmenų ar jų dalių eksportas (išvežimas), 
 
 turi teisę importuoti (įvežti), eksportuoti (išvežti) visų kategorijų ginklus,
 
-jų šaudmenis, ginklų priedėlius, ginklų ir šaudmenų dalis. Krašto apsaugos
+jų šaudmenis, ginklų priedėlius, ginklų ir šaudmenų dalis. Krašto apsaugos ministerija
 
-ministerija turi teisę importuoti (įvežti) visų kategorijų krašto apsaugos
+turi teisę importuoti (įvežti) visų kategorijų krašto apsaugos sistemai skirtus
 
-sistemai skirtus ginklus, jų šaudmenis, ginklų priedėlius, ginklų ir šaudmenų
+ginklus, jų šaudmenis, ginklų priedėlius, ginklų ir šaudmenų dalis.
 
-dalis.
+2. Europos fizinis asmuo ar
 
-2. Europos
+Europos juridinis asmuo, norintys importuoti (įvežti), eksportuoti (išvežti) B,
 
-fizinis asmuo ar Europos juridinis asmuo, norintys importuoti (įvežti),
+C, D kategorijų ginklus, jų šaudmenis, jų dalis ir ginklų priedėlius (išskyrus
 
-eksportuoti (išvežti) B, C, D kategorijų ginklus, jų šaudmenis, jų dalis ir
+šio įstatymo 4 straipsnio 1, 2, 3 punktuose ir 5 straipsnio 4 punkte nurodytus
 
-ginklų priedėlius (išskyrus šio įstatymo 4 straipsnio 1, 2, 3 punktuose ir 5
+ginklus, jų dalis, kuriuos turi teisę importuoti (įvežti) tik Ginklų fondas ir
 
-straipsnio 4 punkte nurodytus ginklus, jų dalis, kuriuos turi teisę importuoti
+Krašto apsaugos ministerija), privalo turėti licenciją. Tokią licenciją
 
-(įvežti) tik Ginklų fondas ir Krašto apsaugos ministerija), privalo turėti
+Vyriausybės nustatyta tvarka išduoda Policijos departamentas prie Vidaus
 
-licenciją. Tokią licenciją Vyriausybės nustatyta tvarka išduoda Policijos
+reikalų ministerijos (toliau – Policijos departamentas). Licencija importuoti,
 
-departamentas prie Vidaus reikalų ministerijos (toliau – Policijos
+eksportuoti ginklus, šaudmenis, jų dalis ir ginklų priedėlius licencijos
 
-departamentas). Licencija importuoti, eksportuoti ginklus, šaudmenis, jų dalis
+turėtojui suteikia teisę:
 
-ir ginklų priedėlius licencijos turėtojui suteikia teisę:
+1) juos gabenti tranzitu per
 
-1) juos gabenti
+Lietuvos Respubliką;
 
-tranzitu per Lietuvos Respubliką;
+2) juos įvežti į Europos Sąjungos
 
-2) juos įvežti į
-
-Europos Sąjungos valstybę narę ar iš jos išvežti.
+valstybę narę ar iš jos išvežti.
 
 3. Norintys
 
@@ -3227,9 +3395,9 @@ ginklų priedėliais. Tokią licenciją Vyriausybės nustatyta tvarka išduoda
 
 Policijos departamentas.
 
-2. Subjektai,
+2. Subjektai, prekiaujantys
 
-prekiaujantys ginklais ir šaudmenimis, privalo:
+ginklais ir šaudmenimis, privalo:
 
 1) turėti
 
@@ -3299,11 +3467,11 @@ policijos įstaigoms, kurios tvarko civilinėje apyvartoje esančių ginklų, j�
 
 savininkų ir valdytojų apskaitą, o asmeniui, įsigijusiam ginklą, išduoti ginklo
 
-pažymėjimą, patvirtinantį, kad duomenys apie ginklą yra perduoti policijos įstaigoms,
+pažymėjimą, patvirtinantį, kad duomenys apie ginklą yra perduoti policijos
 
-tvarkančioms civilinėje apyvartoje esančių ginklų, jų savininkų ir valdytojų
+įstaigoms, tvarkančioms civilinėje apyvartoje esančių ginklų, jų savininkų ir
 
-apskaitą, arba grąžinti leidimą įsigyti ginklus su įrašytais ginklo
+valdytojų apskaitą, arba grąžinti leidimą įsigyti ginklus su įrašytais ginklo
 
 identifikaciniais duomenimis;
 
@@ -3321,21 +3489,21 @@ parduoti:
 
 1) B, C
 
-kategorijų ginklus fiziniams ir juridiniams asmenims, nepateikusiems galiojančio
+kategorijų ginklus fiziniams ir juridiniams asmenims, nepateikusiems
 
-(nepanaikinto) leidimo įsigyti ginklus arba galiojančio (nepanaikinto)
+galiojančio (nepanaikinto) leidimo įsigyti ginklus arba galiojančio
 
-leidimo laikyti ginklus;
+(nepanaikinto) leidimo laikyti ginklus;
 
-2) B, C
+2) B, C kategorijų
 
-kategorijų ginklams skirtus šaudmenis ir ginklų priedėlius fiziniams ir
+ginklams skirtus šaudmenis ir ginklų priedėlius fiziniams ir juridiniams
 
-juridiniams asmenims, nepateikusiems galiojančio (nepanaikinto) leidimo įsigyti
+asmenims, nepateikusiems galiojančio (nepanaikinto) leidimo įsigyti ginklus
 
-ginklus arba galiojančio (nepanaikinto) leidimo laikyti ginklus, arba
+arba galiojančio (nepanaikinto) leidimo laikyti ginklus, arba neturintiems
 
-neturintiems teisės įsigyti tokių šaudmenų;
+teisės įsigyti tokių šaudmenų;
 
 3) A, B, C
 
@@ -3343,13 +3511,13 @@ kategorijų šaunamuosius ginklus, kurie neturi identifikacinio numerio, bei
 
 ginklus ir šaudmenis be būtino žymens;
 
-4) B, C kategorijų
+4) B, C
 
-ginklus, jiems skirtus šaudmenis ir ginklų priedėlius fiziniams ir juridiniams
+kategorijų ginklus, jiems skirtus šaudmenis ir ginklų priedėlius fiziniams ir
 
-asmenims, išskyrus specialaus statuso subjektus, nepaprastosios ar karo
+juridiniams asmenims, išskyrus specialaus statuso subjektus, nepaprastosios ar
 
-padėties atvejais.
+karo padėties atvejais.
 
 4. Be leidimų
 
@@ -3583,17 +3751,17 @@ ginklais, šaudmenimis, ginklų priedėliais Lietuvos Respublikoje, laikytis ši
 
 straipsnis. Ginklų taisymas, ginklų ir šaudmenų perdirbimas
 
-1. Europos
+1. Europos fizinis asmuo ar
 
-fizinis asmuo ar Europos juridinis asmuo, norintys taisyti ginklus, perdirbti
+Europos juridinis asmuo, norintys taisyti ginklus, perdirbti ginklus ir šaudmenis,
 
-ginklus ir šaudmenis, privalo gauti licenciją. Šią licenciją Vyriausybės
+privalo gauti licenciją. Šią licenciją Vyriausybės nustatyta tvarka išduoda
 
-nustatyta tvarka išduoda Ginklų fondas. Licencija taisyti ginklus, perdirbti ginklus
+Ginklų fondas. Licencija taisyti ginklus, perdirbti ginklus ir šaudmenis
 
-ir šaudmenis suteikia teisę įsigyti Lietuvos Respublikoje ir įsivežti iš
+suteikia teisę įsigyti Lietuvos Respublikoje ir įsivežti iš užsienio valstybių
 
-užsienio valstybių šiai veiklai reikalingas ginklų dalis.
+šiai veiklai reikalingas ginklų dalis.
 
 2. Lietuvos
 
@@ -3641,21 +3809,21 @@ teritorijoje reikalavimus bei ginklo naudojimo ir nuomos tire ar šaudykloje
 
 tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
-4. Veikla,
+4. Veikla, susijusi
 
-susijusi su tirų ir šaudyklų, kuriuose šaudoma iš šio įstatymo 6 straipsnio 1
+su tirų ir šaudyklų, kuriuose šaudoma iš šio įstatymo 6 straipsnio 1 ir 2
 
-ir 2 punktuose nurodytų ginklų, eksploatavimu, nelicencijuojama. Asmenys,
+punktuose nurodytų ginklų, eksploatavimu, nelicencijuojama. Asmenys, šaudantys
 
-šaudantys iš šių ginklų, privalo užtikrinti šaudymo saugumą.
+iš šių ginklų, privalo užtikrinti šaudymo saugumą.
 
-5. Fiziniams ir
+5. Fiziniams ir juridiniams
 
-juridiniams asmenims, kurie nesiverčia ūkine komercine veikla eksploatuodami
+asmenims, kurie nesiverčia ūkine komercine veikla eksploatuodami tirus,
 
-tirus, šaudyklas, licencija eksploatuoti tirus, šaudyklas nereikalinga. Tokie
+šaudyklas, licencija eksploatuoti tirus, šaudyklas nereikalinga. Tokie asmenys
 
-asmenys Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka turi gauti
+Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka turi gauti
 
 teritorinės policijos įstaigos leidimą, patvirtinantį, kad tirų, šaudyklų
 
@@ -3689,13 +3857,13 @@ ginklus, o sportui, profesinei veiklai ar mokymui – B, C ir D kategorijų
 
 ginklus.
 
-3. Ginklus
+3. Ginklus medžioklės sezono metu
 
-medžioklės sezono metu galima nuomoti fiziniams asmenims, turintiems teisę
+galima nuomoti fiziniams asmenims, turintiems teisę turėti tos kategorijos
 
-turėti tos kategorijos medžioklinį ginklą ir pateikusiems šią teisę įrodančius
+medžioklinį ginklą ir pateikusiems šią teisę įrodančius dokumentus bei
 
-dokumentus bei galiojantį medžiotojo bilietą.
+galiojantį medžiotojo bilietą.
 
 4. Ginklus
 
@@ -3747,9 +3915,9 @@ ginklus ir šaudmenis, tvarkyti ginklų, šaudmenų apskaitą ir pildyti reikiam
 
 dokumentus;
 
-3) ginklus,
+3) ginklus, šaudmenis išduoti tik
 
-šaudmenis išduoti tik asmenims, pateikusiems visus reikalingus dokumentus;
+asmenims, pateikusiems visus reikalingus dokumentus;
 
 4) įtaręs, kad
 
@@ -3763,15 +3931,13 @@ pranešti policijos įstaigai apie ginklų, šaudmenų, jų dalių vagystę ar
 
 praradimą;
 
-6) sudaryti
+6) sudaryti sąlygas
 
-sąlygas kontroliuojančiųjų valstybės institucijų pareigūnams patekti į ginklų,
+kontroliuojančiųjų valstybės institucijų pareigūnams patekti į ginklų, šaudmenų
 
-šaudmenų gamybos, taisymo ir perdirbimo, prekybos, laikymo, nuomos, tirų,
+gamybos, taisymo ir perdirbimo, prekybos, laikymo, nuomos, tirų, šaudyklų
 
-šaudyklų eksploatavimo vietas ir teikti jiems reikiamą pagalbą atliekant
-
-patikrinimą.
+eksploatavimo vietas ir teikti jiems reikiamą pagalbą atliekant patikrinimą.
 
 30
 
@@ -3895,15 +4061,15 @@ psichiką veikiančias medžiagas, iki bus patikrintas blaivumas ar apsvaigimas
 
 arba bus atsisakyta tai atlikti;
 
-5) nešiotis parengtą
+5) nešiotis
 
-šaudyti ginklą (šovinys yra įleistas į šovinio lizdą, revolveris – atlaužtu
+parengtą šaudyti ginklą (šovinys yra įleistas į šovinio lizdą, revolveris –
 
-gaiduku, templinis ginklas – su įdėta strėle ir įtempta temple), išskyrus
+atlaužtu gaiduku, templinis ginklas – su įdėta strėle ir įtempta temple),
 
-atvejus, kai tiesiogiai susiklosto aplinkybės, dėl kurių iškyla grėsmė asmens
+išskyrus atvejus, kai tiesiogiai susiklosto aplinkybės, dėl kurių iškyla grėsmė
 
-sveikatai ar gyvybei;
+asmens sveikatai ar gyvybei;
 
 6) ginklą duoti
 
@@ -3919,11 +4085,9 @@ varžybas, pratybas, mokymus);
 
 8) sudaryti
 
-kliūtis kontroliuojančiųjų institucijų pareigūnams apžiūrėti ginklus,
+kliūtis kontroliuojančiųjų institucijų pareigūnams apžiūrėti ginklus, šaudmenis,
 
-šaudmenis, jų laikymo vietas ir ginklų, šaudmenų įsigijimo, laikymo, apskaitos
-
-dokumentus.
+jų laikymo vietas ir ginklų, šaudmenų įsigijimo, laikymo, apskaitos dokumentus.
 
 Straipsnio
 
@@ -3939,17 +4103,17 @@ XII-447,
 
 straipsnis. D kategorijos ginklo savininko pareigos
 
-1. D kategorijos
+1. D kategorijos ginklo
 
-ginklo savininkas privalo:
+savininkas privalo:
 
 1) dujinį ginklą
 
 nešiotis taip, kad kiti asmenys jo nematytų. Matomoje vietoje dėkle ginklą gali
 
-nešiotis uniformuotas valstybės institucijų pareigūnas ar asmuo, turintis
+nešiotis uniformuotas valstybės institucijų pareigūnas ar asmuo, turintis ginklą
 
-ginklą profesinei veiklai vykdyti;
+profesinei veiklai vykdyti;
 
 2) ne vėliau
 
@@ -4007,9 +4171,25 @@ gabenti (jeigu ginklas gabenamas transporto priemone, ginklas gabenamas ne
 
 transporto priemonės salone) ginklo savininką, naudotoją lydintis neapsvaigęs
 
-nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų
+nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmuo,
 
-asmuo, turintis teisę naudotis tokios kategorijos ginklu.
+turintis teisę naudotis tokios kategorijos ginklu;
+
+4) užtaisyti
+
+senovinius ginklus, taip pat šaudyti iš jų ar kitaip panaudoti juos kaip
+
+ginklus.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XII-978, 2014-06-26,
+
+paskelbta TAR 2014-07-01, i. k. 2014-09407
 
 AŠTUNTASIS
 
@@ -4153,11 +4333,9 @@ XII-447,
 
 straipsnis. Ginklų ir šaudmenų naudojimas
 
-1. Asmuo turi
+1. Asmuo turi teisę
 
-teisę ginklą ir šaudmenis naudoti šio įstatymo 11 straipsnyje nustatytiems
-
-tikslams.
+ginklą ir šaudmenis naudoti šio įstatymo 11 straipsnyje nustatytiems tikslams.
 
 2. Ginklo
 
@@ -4181,17 +4359,15 @@ negalėjo būti pašalintas kitomis priemonėmis ir padaryta žala yra mažesnė
 
 tą, kurios siekta išvengti.
 
-3. Prieš
+3. Prieš panaudojant ginklą,
 
-panaudojant ginklą, būtina įspėti asmenį, prieš kurį jis bus panaudotas. Ši
+būtina įspėti asmenį, prieš kurį jis bus panaudotas. Ši nuostata netaikoma, kai
 
-nuostata netaikoma, kai įspėti dėl susidariusios situacijos neįmanoma arba kai
+įspėti dėl susidariusios situacijos neįmanoma arba kai delsimas kelia
 
-delsimas kelia tiesioginį pavojų ginklo naudotojui ar kito asmens gyvybei ir
+tiesioginį pavojų ginklo naudotojui ar kito asmens gyvybei ir sveikatai. Ginklo
 
-sveikatai. Ginklo panaudojimo pasekmės neturi padaryti žalos trečiųjų asmenų
-
-sveikatai.
+panaudojimo pasekmės neturi padaryti žalos trečiųjų asmenų sveikatai.
 
 4. Ginklą asmuo
 
@@ -4247,11 +4423,11 @@ reglamentuojantys juridinių asmenų, kurie naudoja šiuos ginklus, darbo tvark�
 
 10. Masinių
 
-renginių metu šaudyti iš senovinių ginklų galima tik renginio organizatoriams
+renginių metu šaudyti iš senovinių ginklų kopijų galima tik renginio
 
-tai suderinus su atitinkamos savivaldybės administracija ir nenaudojant
+organizatoriams tai suderinus su atitinkamos savivaldybės administracija ir
 
-sviedinių.
+nenaudojant sviedinių.
 
 Straipsnio
 
@@ -4261,13 +4437,19 @@ Nr. XII-840,
 
 2014-04-17, paskelbta TAR 2014-04-24, i. k. 2014-04695
 
+Nr.
+
+XII-978,
+
+2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09407
+
 35
 
 straipsnis. Ginklai ir šaudmenys kaip radiniai
 
-1. Asmuo, radęs
+1. Asmuo, radęs ginklą ar
 
-ginklą ar šaudmenų, privalo nedelsdamas apie tai pranešti policijai. Asmeniui
+šaudmenų, privalo nedelsdamas apie tai pranešti policijai. Asmeniui
 
 draudžiama rastus ginklus ar šaudmenis gabenti į policijos įstaigą ar kitą
 
@@ -4365,17 +4547,17 @@ Respubliką
 
 1. Fiziniai ir
 
-juridiniai asmenys turi teisę įvežti į Lietuvos Respubliką, išvežti iš jos, gabenti
+juridiniai asmenys turi teisę įvežti į Lietuvos Respubliką, išvežti iš jos,
 
-tranzitu per Lietuvos Respubliką teisėtai įgytus B, C, D kategorijų ginklus, jų
+gabenti tranzitu per Lietuvos Respubliką teisėtai įgytus B, C, D kategorijų
 
-šaudmenis, jų dalis, taip pat visų kategorijų kolekcinius pavienius ginklus,
+ginklus, jų šaudmenis, jų dalis, taip pat visų kategorijų kolekcinius pavienius
 
-nustatyta tvarka gavę Policijos departamento ar teritorinės policijos įstaigos
+ginklus, nustatyta tvarka gavę Policijos departamento ar teritorinės policijos
 
-leidimą. Be šio leidimo galima įvežti į Lietuvos Respubliką, išvežti iš jos,
+įstaigos leidimą. Be šio leidimo galima įvežti į Lietuvos Respubliką, išvežti
 
-gabenti tranzitu per Lietuvos Respubliką senovinius ginklus, vieną D
+iš jos, gabenti tranzitu per Lietuvos Respubliką senovinius ginklus, vieną D
 
 kategorijos ginklą ir pneumatinio ginklo šaudmenis. Be leidimo taip pat galima
 
@@ -4457,17 +4639,17 @@ išveža iš Lietuvos Respublikos ir įveža į ją turėdami specialaus statuso
 
 subjekto vadovo išduotą leidimą.
 
-6. Užsienio
+6. Užsienio valstybių
 
-valstybių teisėsaugos, saugumo ir gynybos institucijų pareigūnai tarnybinėms
+teisėsaugos, saugumo ir gynybos institucijų pareigūnai tarnybinėms užduotims
 
-užduotims atlikti jiems priklausančius B, C kategorijų ginklus, šaudmenis gali
+atlikti jiems priklausančius B, C kategorijų ginklus, šaudmenis gali įvežti į
 
-įvežti į Lietuvos Respubliką, išvežti iš jos, gavę atitinkamai Policijos
+Lietuvos Respubliką, išvežti iš jos, gavę atitinkamai Policijos departamento,
 
-departamento, Valstybės saugumo departamento ar Krašto apsaugos ministerijos
+Valstybės saugumo departamento ar Krašto apsaugos ministerijos išduotą leidimą.
 
-išduotą leidimą. Leidimai išduodami šių institucijų nustatyta tvarka.
+Leidimai išduodami šių institucijų nustatyta tvarka.
 
 7. Įvežamų į
 
@@ -4505,9 +4687,9 @@ tačiau ginklai, šaudmenys turi būti įvežti, išvežti po parodos. Už ginkl
 
 asmenys, turėdami Policijos departamento išduotą leidimą, gali laikinai įvežti
 
-į Lietuvos Respubliką, išvežti iš jos ginklus, šaudmenis tik sportui
+į Lietuvos Respubliką, išvežti iš jos ginklus, šaudmenis tik sportui (varžyboms,
 
-(varžyboms, treniruotėms).
+treniruotėms).
 
 10. Asmenys
 
@@ -4515,15 +4697,15 @@ pavienius ginklus Lietuvos Respublikoje iš vienos vietos į kitą gali gabenti 
 
 leidimo laikydamiesi ginklų gabenimo reikalavimų.
 
-11. Tvarką,
+11. Tvarką, reglamentuojančią
 
-reglamentuojančią pavienių B, C, D kategorijų ginklų, jų šaudmenų įvežimą į
+pavienių B, C, D kategorijų ginklų, jų šaudmenų įvežimą į Lietuvos Respubliką,
 
-Lietuvos Respubliką, išvežimą iš jos, vežimą Lietuvos Respublikoje ir
+išvežimą iš jos, vežimą Lietuvos Respublikoje ir informacijos apie ginklų
 
-informacijos apie ginklų gabenimą užsienio valstybėms pateikimą, nustato
+gabenimą užsienio valstybėms pateikimą, nustato Vyriausybė arba jos įgaliota
 
-Vyriausybė arba jos įgaliota institucija.
+institucija.
 
 Straipsnio
 
@@ -4549,23 +4731,17 @@ GINKLŲ IR ŠAUDMENų kolekcionavimas, Parodų organizavimas
 
 straipsnis. Ginklų, šaudmenų, jų dalių kolekcionavimas
 
-1. Asmenys gali
+1. Asmenys gali kolekcionuoti:
 
-kolekcionuoti:
+1) šaunamuosius ginklus, jų
 
-1) šaunamuosius
+šaudmenis, perdirbtus taip, kad jų nebūtų galima panaudoti pagal paskirtį, taip
 
-ginklus, jų šaudmenis, perdirbtus taip, kad jų nebūtų galima panaudoti pagal
+pat jų dalis;
 
-paskirtį, taip pat jų dalis;
+2) senovinius ginklus ir šaudmenis;
 
-2) senovinius
-
-ginklus ir šaudmenis;
-
-3) nešaunamuosius
-
-ginklus;
+3) nešaunamuosius ginklus;
 
 4) visiškai
 
@@ -4577,27 +4753,27 @@ ginklai turi būti perdirbti taip, kad jų nebūtų įmanoma naudoti pagal paski
 
 Šaudmenys turi būti perdirbti taip, kad jų nebūtų galima iššauti.
 
-3. Ginklus,
+3. Ginklus, šaudmenis, jų dalis
 
-šaudmenis, jų dalis kolekcionuoti galima muziejuje, kitoje tam pritaikytoje
+kolekcionuoti galima muziejuje, kitoje tam pritaikytoje patalpoje,
 
-patalpoje, atitinkančioje Vyriausybės arba jos įgaliotos institucijos
+atitinkančioje Vyriausybės arba jos įgaliotos institucijos nustatytus
 
-nustatytus reikalavimus.
+reikalavimus.
 
 4. Įstaigos,
 
-atliekančios kriminalistines ekspertizes, mokslinius tyrimus, gali sudaryti
+atliekančios kriminalistines ekspertizes, mokslinius tyrimus, gali sudaryti šias
 
-šias ginklų, šaudmenų, tūtelių ir kulkų kriminalistines kolekcijas:
+ginklų, šaudmenų, tūtelių ir kulkų kriminalistines kolekcijas:
 
 1) šaunamųjų
 
 ginklų šautų tūtelių ir iššautų kulkų kolekciją;
 
-2) tinkamų
+2) tinkamų naudoti ginklų ir
 
-naudoti ginklų ir šaudmenų pavyzdžių kolekciją.
+šaudmenų pavyzdžių kolekciją.
 
 5.
 
@@ -4607,21 +4783,59 @@ graižtvinius ir lygiavamzdžius šaunamuosius ginklus, ant kurių nėra numerio
 
 privalo juos sunumeruoti, ant ginklo iškaldamos skaičius.
 
-6. Tvarką,
+6. Tvarką, reglamentuojančią
 
-reglamentuojančią ginklų, šaudmenų, jų dalių kolekcijų sudarymą, laikymą,
+ginklų, šaudmenų, jų dalių kolekcijų sudarymą, laikymą, eksponavimą,
 
-eksponavimą, likvidavimą, ginklų, šaudmenų perdirbimą kolekcijoms, nustato
+likvidavimą, ginklų, šaudmenų perdirbimą kolekcijoms, nustato Vyriausybė arba
 
-Vyriausybė arba jos įgaliota institucija.
+jos įgaliota institucija.
 
 7. Pažymą, kad
 
 ginklas yra visiškai netinkamas naudoti, išduoda Ginklų fondas.
 
-40 straipsnis. Leidimų nešiotis ir leidimų
+39
 
-laikyti ginklus, šaudmenis panaikinimas
+straipsnis. Ginklų, šaudmenų, jų dalių, ginklų priedėlių parodų organizavimas
+
+1. Valstybės institucijos,
+
+įstaigos, Lietuvos Respublikoje ar užsienio šalyse registruotos įmonės,
+
+įstaigos, organizacijos, gavusios teritorinės policijos įstaigos leidimą, gali
+
+organizuoti B, C, D kategorijų ginklų, šaudmenų, jų dalių, ginklų priedėlių
+
+parodas.
+
+2. A
+
+kategorijos tinkamų naudoti ginklų, šaudmenų, jų dalių, ginklų priedėlių
+
+parodas gali organizuoti tik specialaus statuso subjektai.
+
+3. Parodų organizatoriai privalo
+
+užtikrinti ginklų, šaudmenų, jų dalių, ginklų priedėlių eksponavimo ir laikymo
+
+saugumą.
+
+4. Ginklų, šaudmenų, jų dalių,
+
+ginklų priedėlių parodų organizavimo tvarką ir reikalavimus nustato Vyriausybė
+
+arba jos įgaliota institucija.
+
+VIENUOLIKTASIS
+
+SKIRSNIS
+
+leidimų nešiotis ir leidimų laikyti GINKLus, ŠAUDMENis panaikinimas
+
+40 straipsnis. Leidimų nešiotis ir
+
+leidimų laikyti ginklus, šaudmenis panaikinimas
 
 1. Leidimai
 
@@ -4691,9 +4905,9 @@ nurodo leidimo panaikinimo motyvus.
 
 nešiotis ar leidimas laikyti ginklus panaikinamas, kai asmuo, turintis leidimą,
 
-laiku be svarbių priežasčių nepratęsia leidimo ir dėl to gavęs policijos
+laiku be svarbių priežasčių nepratęsia leidimo ir dėl to gavęs policijos įstaigos
 
-įstaigos įspėjimą į jį nereaguoja.
+įspėjimą į jį nereaguoja.
 
 3. Fizinio
 
@@ -4773,11 +4987,11 @@ nuosavybei, visuomenės saugumui ar viešajai tvarkai;
 
 savininkui, iki bus išspręstas turto paveldėjimo klausimas;
 
-5) kai asmuo
+5) kai asmuo įstatymų nustatyta
 
-įstatymų nustatyta tvarka įtariamas ar kaltinamas padaręs tyčinę nusikalstamą
+tvarka įtariamas ar kaltinamas padaręs tyčinę nusikalstamą veiką ar jam
 
-veiką ar jam paskirta kardomoji priemonė – suėmimas;
+paskirta kardomoji priemonė – suėmimas;
 
 6) kai yra
 
@@ -4877,11 +5091,9 @@ priedėlio ar šaudmenų grąžinimo. Tais atvejais, kai ginklai, ginklo priedė
 
 šaudmenys buvo paimti pasibaigus licencijos, rašytinio sutikimo ar leidimo
 
-galiojimo laikui, tačiau jų galiojimo terminas teisės aktų nustatyta tvarka
+galiojimo laikui, tačiau jų galiojimo terminas teisės aktų nustatyta tvarka buvo
 
-buvo pratęstas, ginklai, ginklų priedėliai ir šaudmenys grąžinami jų
-
-savininkui.
+pratęstas, ginklai, ginklų priedėliai ir šaudmenys grąžinami jų savininkui.
 
 6. Jeigu
 
@@ -4943,37 +5155,37 @@ policijos įstaigai šio įstatymo nustatyta tvarka išduoti leidimą nešiotis
 
 ginklą ar leidimą laikyti ginklą, leidimą jį parduoti ar perdirbti.
 
-4. Jeigu
+4. Jeigu paveldėtojas leidimo
 
-paveldėtojas leidimo nešiotis ginklą ar leidimo laikyti ginklą negauna arba
+nešiotis ginklą ar leidimo laikyti ginklą negauna arba atsisako ginklą
 
-atsisako ginklą perdirbti, išduodamas leidimas ginklą parduoti. Leidimas parduoti
+perdirbti, išduodamas leidimas ginklą parduoti. Leidimas parduoti galioja ne
 
-galioja ne ilgiau kaip 10 kalendorinių dienų. Ginklas ir šaudmenys realizuojami
+ilgiau kaip 10 kalendorinių dienų. Ginklas ir šaudmenys realizuojami šio
 
-šio įstatymo 41 straipsnio 3 dalyje nustatyta tvarka. Per 10 kalendorinių dienų
+įstatymo 41 straipsnio 3 dalyje nustatyta tvarka. Per 10 kalendorinių dienų nuo
 
-nuo ginklo atidavimo realizuoti dienos paveldėtojas teritorinei policijos
+ginklo atidavimo realizuoti dienos paveldėtojas teritorinei policijos įstaigai
 
-įstaigai turi pateikti pažymą, kad ginklas pateiktas realizuoti Ginklų fondui
+turi pateikti pažymą, kad ginklas pateiktas realizuoti Ginklų fondui ar
 
-ar subjektui, turinčiam teisę prekiauti tokios rūšies ginklais. Leidimas
+subjektui, turinčiam teisę prekiauti tokios rūšies ginklais. Leidimas parduoti
 
-parduoti ginklą suteikia teisę laikyti ginklą 10 kalendorinių dienų ir per šį
+ginklą suteikia teisę laikyti ginklą 10 kalendorinių dienų ir per šį terminą jį
 
-terminą jį pateikti realizuoti.
+pateikti realizuoti.
 
-5. Per 10 kalendorinių
+5. Per 10 kalendorinių dienų nuo
 
-dienų nuo paveldėto ginklo realizavimo dienos paveldėtojui pranešama apie
+paveldėto ginklo realizavimo dienos paveldėtojui pranešama apie realizuotą
 
-realizuotą ginklą ir jam atvykus išmokama šio įstatymo 41 straipsnio 4 dalyje
+ginklą ir jam atvykus išmokama šio įstatymo 41 straipsnio 4 dalyje nurodyta
 
-nurodyta pinigų suma. Perduoto Ginklų fondui realizuoti ginklo tinkamumas
+pinigų suma. Perduoto Ginklų fondui realizuoti ginklo tinkamumas naudoti
 
-naudoti nustatomas ir vertė apskaičiuojama Vyriausybės arba jos įgaliotos
+nustatomas ir vertė apskaičiuojama Vyriausybės arba jos įgaliotos institucijos
 
-institucijos nustatyta tvarka.
+nustatyta tvarka.
 
 6. Jeigu
 
@@ -4993,33 +5205,31 @@ yra perduoti realizuoti, ginklas, šaudmenys paimami neatlygintinai ir
 
 perduodami Ginklų fondui realizuoti.
 
-7. Respublikos
+7. Respublikos Prezidentas, Seimo
 
-Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas, krašto apsaugos
+Pirmininkas, Ministras Pirmininkas, krašto apsaugos ministras ir vidaus reikalų
 
-ministras ir vidaus reikalų ministras turi teisę apdovanoti asmenis B, C
+ministras turi teisę apdovanoti asmenis B, C kategorijų trumpaisiais
 
-kategorijų trumpaisiais šaunamaisiais ginklais (pistoletais, revolveriais) bei
+šaunamaisiais ginklais (pistoletais, revolveriais) bei kardais, durklais,
 
-kardais, durklais, kalavijais už pasižymėjimą kovos aplinkybėmis, už nuopelnus
+kalavijais už pasižymėjimą kovos aplinkybėmis, už nuopelnus ar pasiaukojimą ir
 
-ar pasiaukojimą ir narsą užtikrinant asmens, visuomenės ir (ar) valstybės
+narsą užtikrinant asmens, visuomenės ir (ar) valstybės saugumą, kovojant su
 
-saugumą, kovojant su nusikalstamumu, už asmeninę drąsą atliekant valstybės
+nusikalstamumu, už asmeninę drąsą atliekant valstybės užduotis.
 
-užduotis.
+8. Apdovanoti Lietuvos
 
-8. Apdovanoti
+Respublikos nuolatinius gyventojus ginklais gali ir užsienio valstybių,
 
-Lietuvos Respublikos nuolatinius gyventojus ginklais gali ir užsienio
+vyriausybių vadovai, kiti oficialūs asmenys.
 
-valstybių, vyriausybių vadovai, kiti oficialūs asmenys.
+9. Tvarką,
 
-9. Tvarką, reglamentuojančią
+reglamentuojančią apdovanojimą ginklais, jų laikymo, nešiojimosi, naudojimo
 
-apdovanojimą ginklais, jų laikymo, nešiojimosi, naudojimo reikalavimus, nustato
-
-Vyriausybė arba jos įgaliota institucija.
+reikalavimus, nustato Vyriausybė arba jos įgaliota institucija.
 
 TRYLIKTASIS
 
@@ -5045,27 +5255,27 @@ netinkamos naudoti ginklų dalys, kurių neįmanoma ar netikslinga taisyti,
 
 netinkami naudoti šaudmenys turi būti sunaikinami.
 
-3. Asmenys
+3. Asmenys norimus sunaikinti
 
-norimus sunaikinti jiems priklausančius ginklus, šaudmenis, jų dalis perduoda
+jiems priklausančius ginklus, šaudmenis, jų dalis perduoda teritorinei
 
-teritorinei policijos įstaigai, o ši ne rečiau kaip kas 6 mėnesiai atiduotus
+policijos įstaigai, o ši ne rečiau kaip kas 6 mėnesiai atiduotus sunaikinti
 
-sunaikinti ginklus, šaudmenis, jų dalis perduoda Ginklų fondui.
+ginklus, šaudmenis, jų dalis perduoda Ginklų fondui.
 
-4. Ginklų fondas
+4. Ginklų fondas jam perduotus
 
-jam perduotus sunaikinti ginklus, šaudmenis, jų dalis sunaikina Ginklų fondo
+sunaikinti ginklus, šaudmenis, jų dalis sunaikina Ginklų fondo nustatyta
 
-nustatyta tvarka, dalyvaujant Ginklų fondo vadovo sudarytai komisijai.
+tvarka, dalyvaujant Ginklų fondo vadovo sudarytai komisijai.
 
-5. Ginklai,
+5. Ginklai, šaudmenys, jų dalys
 
-šaudmenys, jų dalys turi būti sunaikinti tokiu būdu, kuris garantuotų, kad jie
+turi būti sunaikinti tokiu būdu, kuris garantuotų, kad jie tapo visiškai
 
-tapo visiškai netinkami naudoti pagal paskirtį. Ginklai, šaudmenys, jų dalys
+netinkami naudoti pagal paskirtį. Ginklai, šaudmenys, jų dalys turi būti
 
-turi būti naikinami taip, kad nekiltų pavojus žmonių sveikatai ir aplinkai.
+naikinami taip, kad nekiltų pavojus žmonių sveikatai ir aplinkai.
 
 6. Specialaus
 
@@ -5165,15 +5375,13 @@ visam laikui iš Lietuvos Respublikos išvežamą šaunamąjį ginklą ir šaudm
 
 Tokia informacija užsienio valstybei turi būti perduodama nedelsiant.
 
-2. Užsienio
+2. Užsienio valstybių ginklų
 
-valstybių ginklų apyvartą kontroliuojančiosioms institucijoms iki šaunamojo
+apyvartą kontroliuojančiosioms institucijoms iki šaunamojo ginklo įvežimo į tas
 
-ginklo įvežimo į tas valstybes turi būti pateikti duomenys apie asmenį, kuris
+valstybes turi būti pateikti duomenys apie asmenį, kuris realizavo ginklą, ir
 
-realizavo ginklą, ir apie asmenį, kuris jį įsigijo, taip pat šaunamojo ginklo,
-
-šaudmenų duomenys:
+apie asmenį, kuris jį įsigijo, taip pat šaunamojo ginklo, šaudmenų duomenys:
 
 1) asmenų
 
@@ -5213,9 +5421,9 @@ išvežimą, taip pat ginklų, kurių į valstybės teritoriją negalima perduot
 
 išankstinio valstybės sutikimo, sąrašus ir kitą informaciją, susijusią su
 
-fiziniais ir juridiniais asmenimis, turinčiais ginklų, Europos Sąjungos
+fiziniais ir juridiniais asmenimis, turinčiais ginklų, Europos Sąjungos valstybėms
 
-valstybėms narėms teikia ir iš Europos Sąjungos valstybių narių gauna Policijos
+narėms teikia ir iš Europos Sąjungos valstybių narių gauna Policijos
 
 departamentas.
 
@@ -5715,9 +5923,9 @@ A kategorijai
 
 priskiriami:
 
-1) karinės
+1) karinės raketos su
 
-raketos su sprogstamaisiais užtaisais ir jų paleidimo įtaisai;
+sprogstamaisiais užtaisais ir jų paleidimo įtaisai;
 
 2) automatiniai
 
@@ -5755,9 +5963,9 @@ granatsvaidžiai, tarp jų ir ašarinės granatos bei jų paleidimo įtaisai;
 
 9) visų rūšių
 
-bombos, torpedos, minos, jų užtaisyti ir neužtaisyti sviediniai bei jų paleidimo
+bombos, torpedos, minos, jų užtaisyti ir neužtaisyti sviediniai bei jų
 
-įtaisai;
+paleidimo įtaisai;
 
 10)
 
@@ -5771,9 +5979,9 @@ kurių lazerio spindulys naudojamas karo tikslams ar taikiniui sunaikinti;
 
 skirti taikiniui chemiškai sunaikinti;
 
-13) templiniai
+13) templiniai ginklai, kurių
 
-ginklai, kurių visa įtempimo jėga viršija 1 200 N;
+visa įtempimo jėga viršija 1 200 N;
 
 14) šaunamieji
 
@@ -5807,13 +6015,13 @@ B kategorijai
 
 priskiriami:
 
-1) pusiau
+1) pusiau automatiniai arba
 
-automatiniai arba pertaisomi trumpieji šaunamieji ginklai;
+pertaisomi trumpieji šaunamieji ginklai;
 
-2) vienašūviai
+2) vienašūviai trumpieji
 
-trumpieji šaunamieji ginklai, šaudantys centrinio įskėlimo šoviniais;
+šaunamieji ginklai, šaudantys centrinio įskėlimo šoviniais;
 
 3) vienašūviai
 
@@ -5821,85 +6029,89 @@ trumpieji šaunamieji ginklai, kurių visas ilgis yra mažesnis kaip
 
 28 cm, šaudantys žiedinio įskėlimo šoviniais;
 
-4) pusiau
+4) pusiau automatiniai ilgieji
 
-automatiniai ilgieji šaunamieji ginklai, kurių dėtuvėje ir šovinio lizde kartu
+šaunamieji ginklai, kurių dėtuvėje ir šovinio lizde kartu telpa daugiau kaip
 
-telpa daugiau kaip trys šoviniai;
+trys šoviniai;
 
-5) pusiau
+5) pusiau automatiniai ilgieji
 
-automatiniai ilgieji šaunamieji ginklai, kurių dėtuvėje ir šovinio lizde kartu
+šaunamieji ginklai, kurių dėtuvėje ir šovinio lizde kartu telpa ne daugiau kaip
 
-telpa ne daugiau kaip trys šoviniai, jeigu jų dėtuvė nuimama arba ginklo
+trys šoviniai, jeigu jų dėtuvė nuimama arba ginklo konstrukcija negarantuoja,
 
-konstrukcija negarantuoja, kad su paprastais įrankiais jo negalima perdirbti į ginklą,
+kad su paprastais įrankiais jo negalima perdirbti į ginklą, kurio dėtuvėje ir
 
-kurio dėtuvėje ir šovinio lizde kartu tilptų daugiau kaip trys šoviniai;
+šovinio lizde kartu tilptų daugiau kaip trys šoviniai;
 
-6) pertaisomi
+6) pertaisomi arba pusiau
 
-arba pusiau automatiniai ilgieji lygiavamzdžiai šaunamieji ginklai ne
+automatiniai ilgieji lygiavamzdžiai šaunamieji ginklai ne ilgesniais kaip 60 cm vamzdžiais;
 
-ilgesniais kaip 60 cm vamzdžiais;
+7) pusiau automatiniai šaunamieji
 
-7) pusiau
+ginklai, neskirti kariniam naudojimui, panašūs į karinius ginklus su
 
-automatiniai šaunamieji ginklai, neskirti kariniam naudojimui, panašūs į
+automatiniais mechanizmais;
 
-karinius ginklus su automatiniais mechanizmais;
+8) templiniai ginklai, kurių visa
 
-8) templiniai
-
-ginklai, kurių visa įtempimo jėga yra nuo 200 N iki 1 200 N.
+įtempimo jėga yra nuo 200 N iki 1 200 N.
 
 5
 
 straipsnis. C kategorijos ginklai
 
-C kategorijai
+C kategorijai priskiriami:
 
-priskiriami:
+1) pertaisomi ilgieji šaunamieji
 
-1) pertaisomi
+ginklai, išskyrus pertaisomus ilguosius lygiavamzdžius šaunamuosius ginklus ne
 
-ilgieji šaunamieji ginklai, išskyrus pertaisomus ilguosius lygiavamzdžius
-
-šaunamuosius ginklus ne ilgesniais kaip 60 cm vamzdžiais;
+ilgesniais kaip 60 cm vamzdžiais;
 
 2) ilgieji
 
 vienašūviai graižtviniai ir lygiavamzdžiai šaunamieji ginklai;
 
-3) pusiau
+3) pusiau automatiniai ilgieji šaunamieji
 
-automatiniai ilgieji šaunamieji ginklai, išskyrus šio įstatymo 4 straipsnio 4–7
+ginklai, išskyrus šio įstatymo 4 straipsnio 4–7 punktuose išvardytus ginklus;
 
-punktuose išvardytus ginklus;
+4) vienašūviai trumpieji
 
-4) vienašūviai
+šaunamieji ginklai, kurių bendras ilgis ne mažesnis kaip 28 cm, šaudantys žiedinio įskėlimo šoviniais;
 
-trumpieji šaunamieji ginklai, kurių bendras ilgis ne mažesnis kaip 28 cm, šaudantys žiedinio įskėlimo šoviniais;
+5) pneumatiniai ginklai, kurių
 
-5) pneumatiniai
-
-ginklai, kurių sviedinio kinetinė energija viršija 7,5 J;
+sviedinio kinetinė energija viršija 7,5 J;
 
 6) dujiniai pistoletai
 
 (revolveriai);
 
-7) senoviniai
+7) senovinių
 
-ginklai;
+ginklų kopijos;
 
-8) šaunamieji
+8) šaunamieji ginklai, kurie
 
-ginklai, kurie atitinka kitų kategorijų kriterijus, tačiau joms nepriskiriami
+atitinka kitų kategorijų kriterijus, tačiau joms nepriskiriami dėl nedidelės
 
-dėl nedidelės nukaunamosios galios, ir kurių sviedinio kinetinė energija yra
+nukaunamosios galios, ir kurių sviedinio kinetinė energija yra nuo 2,5 J iki
 
-nuo 2,5 J iki 7,5 J.
+7,5 J.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XII-978,
+
+2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09407
 
 18 straipsnis. Nepriekaištingos reputacijos asmuo
 
@@ -5947,9 +6159,9 @@ teismo nuosprendžiu pripažintas padaręs nusikaltimą, susijusį su disponavim
 
 ginklais, šaudmenimis, sprogmenimis, sprogstamosiomis ar radioaktyviosiomis
 
-medžiagomis arba karine įranga, už kurį Baudžiamajame kodekse numatyta didžiausia
+medžiagomis arba karine įranga, už kurį Baudžiamajame kodekse numatyta
 
-bausmė viršija 3 metus laisvės atėmimo;
+didžiausia bausmė viršija 3 metus laisvės atėmimo;
 
 5) turintis
 
@@ -6011,31 +6223,29 @@ SKIRSNIS
 
 paskirtis
 
-1. Šio įstatymo
+1. Šio įstatymo tikslas –
 
-tikslas – reglamentuoti ginklų, ginklų priedėlių ir šaudmenų apyvartą siekiant
+reglamentuoti ginklų, ginklų priedėlių ir šaudmenų apyvartą siekiant užtikrinti
 
-užtikrinti žmogaus, visuomenės ir valstybės saugumą.
+žmogaus, visuomenės ir valstybės saugumą.
 
-2. Šio įstatymo
+2. Šio įstatymo paskirtis – nustatyti
 
-paskirtis – nustatyti ginklų, ginklų priedėlių ir šaudmenų klasifikavimo į
+ginklų, ginklų priedėlių ir šaudmenų klasifikavimo į kategorijas nuostatas,
 
-kategorijas nuostatas, ginklų, ginklų priedėlių ir šaudmenų apyvartos ir
+ginklų, ginklų priedėlių ir šaudmenų apyvartos ir apyvartos kontrolės teisinius
 
-apyvartos kontrolės teisinius pagrindus ir subjektų, kurių veikla susijusi su
+pagrindus ir subjektų, kurių veikla susijusi su ginklais ir šaudmenimis, teises
 
-ginklais ir šaudmenimis, teises ir pareigas.
+ir pareigas.
 
 3. Šio įstatymo
 
 nuostatos netaikomos:
 
-1)
+1) branduoliniams, cheminiams,
 
-branduoliniams, cheminiams, biologiniams ar kitokiems masinio naikinimo
-
-ginklams;
+biologiniams ar kitokiems masinio naikinimo ginklams;
 
 2) daiktams ir
 
@@ -6199,7 +6409,9 @@ naudotojas – fizinis asmuo, kuris turi teisę nešiotis ar laikyti tam tikros
 
 kategorijos ginklą ir kuriam ginklo savininkas suteikia teisę naudotis jo ginklu.
 
-16. Ginklo priedėlis – duslintuvas, lazerinis, optinis ir naktinis taikikliai.
+16. Ginklo priedėlis
+
+– duslintuvas, lazerinis, optinis ir naktinis taikikliai.
 
 17. Ginklo,
 
@@ -6355,11 +6567,11 @@ ginklas – nešaunamasis ginklas, iš kurio paleidžiamos kulkos ar kitokio
 
 sviedinio kryptingas judėjimas atsiranda dėl suspausto oro ar kitų dujų jėgos.
 
-38. Profesinė veikla – fizinio ar juridinio asmens veikla, už kurią šis asmuo
+38. Profesinė veikla –
 
-gauna pajamų ir kuriai vykdyti įstatymų nustatyta tvarka reikia nešiotis
+fizinio ar juridinio asmens veikla, už kurią šis asmuo gauna pajamų ir kuriai
 
-(naudoti) ginklus.
+vykdyti įstatymų nustatyta tvarka reikia nešiotis (naudoti) ginklus.
 
 39. Pusiau
 
@@ -6369,17 +6581,25 @@ automatinis šaunamasis ginklas – šaunamasis ginklas, kuris po kiekvieno
 
 iššauti daugiau kaip vieną kartą.
 
-40. Senovinis
+40. Senovinio
 
-ginklas – šaunamasis ginklas, kurio modelis sukurtas iki 1870 metų.
+ginklo kopija – šaunamasis ginklas, pagamintas 1899 metais ir
 
-41. Signalinis
+vėlesniais metais pagal iki 1870 metų sukurtą ginklo modelį.
 
-ginklas – šaunamasis ginklas, skirtas garso, šviesos signalui sukurti signaliniu
+41. Senovinis
 
-pirotechnikos įtaisu ar signaliniais šaudmenimis.
+ginklas – šaunamasis ginklas, kurio modelis sukurtas iki 1870 metų ir
 
-42. Specialaus
+kuris pagamintas iki 1899 metų.
+
+42. Signalinis
+
+ginklas – šaunamasis ginklas, skirtas garso, šviesos signalui sukurti
+
+signaliniu pirotechnikos įtaisu ar signaliniais šaudmenimis.
+
+43. Specialaus
 
 statuso subjektai – Specialiųjų tyrimų tarnyba, Krašto apsaugos
 
@@ -6395,43 +6615,45 @@ ministerijos, Lietuvos šaulių sąjunga, jų padaliniai ir pavaldžios įstaigo
 
 taip pat Lietuvos Respublikos muitinė.
 
-43. Sviedinys
+44. Sviedinys
 
 – šaudmens dalis (kulka, šratai, artilerijos sviedinys ar kt.), strėlė,
 
 skirti taikiniui paveikti.
 
-44. Svorinis-gabaritinis
+45. Svorinis-gabaritinis
 
 ginklo maketas – nešaunamasis ginklas, pagamintas naudojant šaunamojo
 
-ginklo dalis ar jų pusgaminius (pagrindines šaunamojo ginklo dalis, tik
+ginklo dalis ar jų pusgaminius (pagrindines šaunamojo ginklo dalis, tik netinkamas
 
-netinkamas naudoti pagal paskirtį), savo išvaizda, matmenimis ir svoriu
+naudoti pagal paskirtį), savo išvaizda, matmenimis ir svoriu nesiskiriantis nuo
 
-nesiskiriantis nuo to modelio šaunamojo ginklo.
+to modelio šaunamojo ginklo.
 
-45. Šaltasis ginklas – nešaunamasis ginklas, kuriuo, naudojantis raumenų jėga,
+46. Šaltasis ginklas
 
-per atstumą arba esant tiesioginiam sąlyčiui galima sunaikinti ar kitaip
+– nešaunamasis ginklas, kuriuo, naudojantis raumenų jėga, per atstumą arba
 
-mechaniškai paveikti taikinį (durti, pjauti, kirsti, smogti, triuškinti).
+esant tiesioginiam sąlyčiui galima sunaikinti ar kitaip mechaniškai paveikti
 
-Šaltaisiais ginklais nelaikomi ūkinės ar buitinės paskirties įrankiai.
+taikinį (durti, pjauti, kirsti, smogti, triuškinti). Šaltaisiais ginklais
 
-46. Šaudykla –
+nelaikomi ūkinės ar buitinės paskirties įrankiai.
+
+47. Šaudykla –
 
 vietovė, pritaikyta saugiai šaudyti.
 
-47. Šaudmens
+48. Šaudmens
 
 dalis – sviedinys, užtaisas, kapsulė, kapsulinė tūtelė, tūtelė.
 
-48. Šaudmuo
+49. Šaudmuo – tai, kuo
 
-– tai, kuo šaudoma iš šaunamųjų ginklų.
+šaudoma iš šaunamųjų ginklų.
 
-49. Šaunamasis ginklas – ginklas, iš
+50. Šaunamasis ginklas – ginklas, iš
 
 kurio sprogstamųjų medžiagų degimo produktų slėgio jėga per vamzdį gali būti
 
@@ -6439,11 +6661,11 @@ paleisti kulkos, sviediniai arba kenksmingosios, dirginančiosios medžiagos
 
 mechaniškai, termiškai, chemiškai ar kitaip taikiniui per atstumą paveikti arba
 
-duotas garso ar šviesos signalas. Šaunamaisiais ginklais šiame įstatyme laikomos
+duotas garso ar šviesos signalas. Šaunamaisiais ginklais šiame įstatyme
 
-ir pagrindinės šaunamųjų ginklų dalys.
+laikomos ir pagrindinės šaunamųjų ginklų dalys.
 
-50. Šaunamojo
+51. Šaunamojo
 
 ginklo dalis – bet kuri šaunamojo ginklo dalis, būtina tam, kad šaunamasis
 
@@ -6457,37 +6679,37 @@ ginklo vamzdį įdedamas įdėklas (mažesnio kalibro vamzdis) priskiriami
 
 pagrindinėms šaunamojo ginklo dalims.
 
-51. Šovinys
+52. Šovinys
 
 – šaudmuo, susidedantis iš tūtos ar tūtelės su kapsule, sviedžiamojo užtaiso,
 
 sviedinio.
 
-52. Templinis
+53. Templinis
 
 ginklas – nešaunamasis ginklas, kurio sviediniui, naudojantis raumenų jėga
 
 ar mechaniniais įrenginiais, energiją suteikia tamprus elementas.
 
-53. Tiras
+54. Tiras
 
 – statinys, specialiai įrengtas saugiai šaudyti.
 
-54. Trečiosios
+55. Trečiosios
 
 šalies gyventojas – fizinis asmuo, kuris nėra Europos fizinis asmuo.
 
-55. Trumpasis
+56. Trumpasis
 
 šaunamasis ginklas – šaunamasis ginklas, kurio vamzdis ne ilgesnis kaip 30 cm arba kurio visas ilgis neviršija 60 cm.
 
-56. Valstybė
+57. Valstybė
 
 narė – Europos Sąjungos valstybė narė arba Europos ekonominės erdvės
 
 valstybė.
 
-57. Vienašūvis
+58. Vienašūvis
 
 šaunamasis ginklas – šaunamasis ginklas su vienu ar keliais vamzdžiais be
 
@@ -6495,7 +6717,7 @@ valstybė.
 
 įdedant į šovinio lizdą ar į užtaisymo mechanizmą.
 
-58. Visiškai
+59. Visiškai
 
 netinkamas naudoti ginklas – nešaunamasis ginklas, kuris gaunamas
 
@@ -6518,6 +6740,12 @@ Nr.
 XII-447,
 
 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
+
+Nr.
+
+XII-978,
+
+2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09407
 
 ANTRASIS
 
@@ -6635,9 +6863,9 @@ juos pateikusį asmenį (toliau šiame straipsnyje – prašymas).
 
 laikyti ar leidimai nešiotis A, B, C kategorijų ginklus išduodami:
 
-1) asmenims,
+1) asmenims, turintiems
 
-turintiems teisę įsigyti tokių kategorijų ginklus;
+teisę įsigyti tokių kategorijų ginklus;
 
 2) Europos
 
@@ -6675,21 +6903,21 @@ nuo prašymo pateikimo dienos.
 
 4. Policijos
 
-įstaiga, gavusi prašymą, ne vėliau kaip per 5 darbo dienas raštu arba elektroninėmis
+įstaiga, gavusi prašymą, ne vėliau kaip per 5 darbo dienas raštu arba
 
-priemonėmis per Paslaugų ir gaminių kontaktinį centrą arba Policijos
+elektroninėmis priemonėmis per Paslaugų ir gaminių kontaktinį centrą arba
 
-elektroninių paslaugų sistemą išsiunčia pareiškėjui patvirtinimą, kad prašymas
+Policijos elektroninių paslaugų sistemą išsiunčia pareiškėjui patvirtinimą, kad
 
-gautas. Patvirtinime taip pat nurodoma šio straipsnio 3 dalyje nurodytas
+prašymas gautas. Patvirtinime taip pat nurodoma šio straipsnio 3 dalyje
 
-terminas leidimui išduoti, sprendimo apskundimo tvarka bei terminai ir tai, kad
+nurodytas terminas leidimui išduoti, sprendimo apskundimo tvarka bei terminai
 
-tuo atveju, jeigu pareiškėjas ar jo įgaliotas asmuo atitinkamai per 10 ar per
+ir tai, kad tuo atveju, jeigu pareiškėjas ar jo įgaliotas asmuo atitinkamai per
 
-30 kalendorinių dienų nuo prašymo pateikimo dienos negauna jokio atsakymo, yra
+10 ar per 30 kalendorinių dienų nuo prašymo pateikimo dienos negauna jokio
 
-laikoma, kad priimamas teigiamas sprendimas.
+atsakymo, yra laikoma, kad priimamas teigiamas sprendimas.
 
 5. Leidimas
 
@@ -6709,37 +6937,37 @@ leidimą laikyti ar leidimą nešiotis A, B, C kategorijų ginklus turi teisę n
 
 vėliau kaip per 30 kalendorinių dienų apskųsti teismui.
 
-7. Jeigu
+7. Jeigu pareiškėjas ar jo
 
-pareiškėjas ar jo įgaliotas asmuo per 30 kalendorinių dienų nuo prašymo dėl
+įgaliotas asmuo per 30 kalendorinių dienų nuo prašymo dėl leidimo laikyti ar
 
-leidimo laikyti ar leidimo nešiotis A, B, C kategorijų ginklus arba per 10
+leidimo nešiotis A, B, C kategorijų ginklus arba per 10 kalendorinių dienų nuo
 
-kalendorinių dienų nuo prašymo dėl leidimo įsigyti ginklus pateikimo
+prašymo dėl leidimo įsigyti ginklus pateikimo dienos negauna jokio
 
-dienos negauna jokio atsakymo, yra laikoma, kad priimamas teigiamas sprendimas.
+atsakymo, yra laikoma, kad priimamas teigiamas sprendimas.
 
-8. Leidimas
+8. Leidimas įsigyti ginklus
 
-įsigyti ginklus galioja 6 mėnesius nuo leidimo įsigyti ginklus išdavimo dienos,
+galioja 6 mėnesius nuo leidimo įsigyti ginklus išdavimo dienos, tačiau ne
 
-tačiau ne ilgiau negu užsienio valstybės, kurios piliečiai yra ne Lietuvos
+ilgiau negu užsienio valstybės, kurios piliečiai yra ne Lietuvos Respublikos
 
-Respublikos nuolatiniai gyventojai ar kurioje nuolat gyvena, kompetentingos
+nuolatiniai gyventojai ar kurioje nuolat gyvena, kompetentingos institucijos
 
-institucijos išduotas išankstinis sutikimas dėl ginklų ir (ar) šaudmenų įvežimo
+išduotas išankstinis sutikimas dėl ginklų ir (ar) šaudmenų įvežimo arba kitas
 
-arba kitas dokumentas, patvirtinantis teisę įvežti į užsienio valstybę ginklus
+dokumentas, patvirtinantis teisę įvežti į užsienio valstybę ginklus ir (ar)
 
-ir (ar) šaudmenis. Neįsigijus ginklo ir (ar) šaudmenų iki leidimo įsigyti ginklus
+šaudmenis. Neįsigijus ginklo ir (ar) šaudmenų iki leidimo įsigyti ginklus
 
 galiojimo termino pabaigos, dėl kito leidimo įsigyti ginklus gavimo galima
 
 kreiptis bendra tvarka į policijos įstaigą.
 
-9. Leidimai
+9. Leidimai įsigyti ginklus
 
-įsigyti ginklus suteikia teisę įsigyti šaudmenų.
+suteikia teisę įsigyti šaudmenų.
 
 10. Leidimai
 
@@ -6831,11 +7059,11 @@ ir C kategorijų trumpuosius šaunamuosius ginklus, jų šovinius gali įsigyti 
 
 turėti ne jaunesni kaip 23 metų Lietuvos Respublikos nuolatiniai gyventojai,
 
-išlaikę egzaminą ir gavę leidimą. Savigynai šio įstatymo 5 straipsnio 6 ir 8 punktuose
+išlaikę egzaminą ir gavę leidimą. Savigynai šio įstatymo 5 straipsnio 5, 6, 7
 
-nurodytus ginklus gali įsigyti ir turėti ne jaunesni kaip 21 metų Lietuvos
+ir 8 punktuose nurodytus ginklus gali įsigyti ir turėti ne jaunesni kaip 21
 
-Respublikos nuolatiniai gyventojai, gavę leidimą.
+metų Lietuvos Respublikos nuolatiniai gyventojai, gavę leidimą.
 
 5. Savigynai B
 
@@ -6927,35 +7155,43 @@ gali įsigyti ir turėti teatrai ir kiti juridiniai asmenys, kurie verčiasi
 
 teatralizuotų vaidinimų kūrimu ar filmų gamyba arba televizijos laidų kūrimu.
 
-Jie privalo per 30 kalendorinių dienų nuo įsigijimo perdirbti šaunamuosius ginklus
+Jie privalo per 30 kalendorinių dienų nuo įsigijimo perdirbti šaunamuosius
 
-taip, kad jais būtų galima šaudyti tik imitaciniais šaudmenimis. Perdirbtus
+ginklus taip, kad jais būtų galima šaudyti tik imitaciniais šaudmenimis.
 
-šaunamuosius ginklus galima naudoti tik vaidinimo ar filmavimo vietose. Ginklų
+Perdirbtus šaunamuosius ginklus galima naudoti tik vaidinimo ar filmavimo
 
-perdirbimo ir naudojimo tvarką nustato Vyriausybė arba jos įgaliota
+vietose. Ginklų perdirbimo ir naudojimo tvarką nustato Vyriausybė arba jos
 
-institucija.
+įgaliota institucija.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. XI-2155,
 
 2012-06-29, Žin., 2012, Nr. 81-4221 (2012-07-12)
 
+Nr.
+
+XII-978,
+
+2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09407
+
 14
 
 straipsnis. Tam tikrų asmenų teisė įsigyti ir turėti ginklus, šaudmenis
 
-1. Akredituotas
+1. Akredituotas ir reziduojantis
 
-ir reziduojantis užsienio valstybių diplomatinių atstovybių, konsulinių įstaigų
+užsienio valstybių diplomatinių atstovybių, konsulinių įstaigų ir tarptautinių
 
-ir tarptautinių organizacijų atstovybių diplomatinis, administracinis techninis
+organizacijų atstovybių diplomatinis, administracinis techninis ir
 
-ir aptarnaujantysis personalas, jų šeimos nariai, taip pat kiti asmenys,
+aptarnaujantysis personalas, jų šeimos nariai, taip pat kiti asmenys, kuriems
 
-kuriems atitinkamas privilegijas suteikia tarptautiniai susitarimai, Lietuvos
+atitinkamas privilegijas suteikia tarptautiniai susitarimai, Lietuvos
 
 Respublikoje gali įsigyti ir turėti ginklus, šaudmenis šiems tikslams:
 
@@ -6969,23 +7205,21 @@ Respublikoje gali įsigyti ir turėti ginklus, šaudmenis šiems tikslams:
 
 sudaryti;
 
-5) kitiems
+5) kitiems tikslams, jeigu tai
 
-tikslams, jeigu tai neprieštarauja įstatymams ir tarptautiniams susitarimams.
+neprieštarauja įstatymams ir tarptautiniams susitarimams.
 
-2. Teisėtai į
+2. Teisėtai į Lietuvos Respubliką
 
-Lietuvos Respubliką atvykę ne jaunesni kaip 21 metų trečiųjų šalių gyventojai,
+atvykę ne jaunesni kaip 21 metų trečiųjų šalių gyventojai, taip pat Europos
 
-taip pat Europos fiziniai asmenys, kurie nėra Lietuvos Respublikos nuolatiniai
+fiziniai asmenys, kurie nėra Lietuvos Respublikos nuolatiniai gyventojai,
 
-gyventojai, įsipareigoję, kad įsigyti ginklai ir (ar) šaudmenys iš Lietuvos
+įsipareigoję, kad įsigyti ginklai ir (ar) šaudmenys iš Lietuvos Respublikos bus
 
-Respublikos bus išvežti ne vėliau kaip per 10 kalendorinių dienų nuo jų
+išvežti ne vėliau kaip per 10 kalendorinių dienų nuo jų įsigijimo, turi teisę
 
-įsigijimo, turi teisę įsigyti Lietuvos Respublikoje B, C kategorijų ginklus, jų
-
-šaudmenis.
+įsigyti Lietuvos Respublikoje B, C kategorijų ginklus, jų šaudmenis.
 
 3. Asmenys,
 
@@ -7003,13 +7237,13 @@ Vyriausybės įgaliotos institucijos nustatyta tvarka gauti leidimą įsigyti
 
 ginklus.
 
-4. Asmenims,
+4. Asmenims, nurodytiems šio
 
-nurodytiems šio straipsnio 2 dalyje, įsigyjantiems ginklą, šaudmenis šio
+straipsnio 2 dalyje, įsigyjantiems ginklą, šaudmenis šio straipsnio 2 ir 3
 
-straipsnio 2 ir 3 dalyse nustatyta tvarka, šio įstatymo 17 straipsnio 1 dalyje
+dalyse nustatyta tvarka, šio įstatymo 17 straipsnio 1 dalyje numatyti
 
-numatyti apribojimai netaikomi, išskyrus 17 straipsnio 1 dalies 1 punktą.
+apribojimai netaikomi, išskyrus 17 straipsnio 1 dalies 1 punktą.
 
 Straipsnio
 
@@ -7167,9 +7401,9 @@ Lietuvos Respublikos Seimas,
 
 Įstatymas
 
-Nr. XI-646,
+Nr. XI-646, 2010-01-14,
 
-2010-01-14, Žin., 2010, Nr. 13-614 (2010-02-02)
+Žin., 2010, Nr. 13-614 (2010-02-02)
 
 GINKLŲ IR ŠAUDMENŲ KONTROLĖS
 
@@ -7207,11 +7441,11 @@ Asmenys, kurie iki šio įstatymo
 
 ginklų ir šaudmenų kontrolės įstatymo 5 straipsnio 6, 7 ar 8 punkte nurodytų
 
-šaunamųjų ginklų, privalo iki 2014 m. sausio 1 d. Lietuvos Respublikos
+šaunamųjų ginklų, privalo iki 2014 m. sausio 1 d. Lietuvos Respublikos Vyriausybės
 
-Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pateikti prašymą ir
+ar jos įgaliotos institucijos nustatyta tvarka pateikti prašymą ir gauti
 
-gauti leidimą laikyti ginklus arba leidimą nešiotis ginklus. Šiems asmenims, jeigu
+leidimą laikyti ginklus arba leidimą nešiotis ginklus. Šiems asmenims, jeigu
 
 jie pateikia įsigijimą patvirtinančius dokumentus, netaikomas šio įstatymo 1
 
@@ -7250,6 +7484,8 @@ atsirado iki šio įstatymo įsigaliojimo.
 Šio
 
 įstatymo įgyvendinimas keistas:
+
+7.1.
 
 Lietuvos
 
@@ -7339,9 +7575,7 @@ pagal iki šio įstatymo įsigaliojimo dienos galiojusią tvarką.
 
 10.
 
-Lietuvos Respublikos Seimas,
-
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XII-840,
 
@@ -7351,13 +7585,31 @@ LIETUVOS RESPUBLIKOS GINKLŲ IR
 
 ŠAUDMENŲ KONTROLĖS ĮSTATYMO NR. IX-705 34 STRAIPSNIO PAKEITIMO
 
+11.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XII-978,
+
+2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09407
+
+LIETUVOS
+
+RESPUBLIKOS GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO NR. IX-705 2, 5, 6, 13, 22,
+
+31, 34 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2014-04-26)
+Aušrinė Trapinskienė (2014-07-03)
 
 ausrine.trapinskiene@lrs.lt
 
