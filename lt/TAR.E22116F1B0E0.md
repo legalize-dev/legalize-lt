@@ -4,7 +4,7 @@ identifier: "TAR.E22116F1B0E0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-13"
-last_updated: "2014-06-17"
+last_updated: "2014-07-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 department: "Lietuvos Respublikos Seimas"
@@ -35,9 +35,7 @@ AKCINIŲ BENDROVIŲ
 
 Vilnius
 
-Nauja įstatymo redakcija nuo 2004
-
-m. sausio 1 d.:
+Nauja įstatymo redakcija nuo 2004-01-01:
 
 Nr. IX-1889,
 
@@ -79,9 +77,9 @@ reorganizavimo. Ataskaitoje turi būti pateikta informacija apie reorganizavimo
 
 sąlygų vertinimo ataskaitos parengimą ir duomenys apie juridinių asmenų
 
-registro tvarkytoją, kur saugomos reorganizuojamų ir dalyvaujančių
+registro tvarkytoją, kur saugomos reorganizuojamų ir dalyvaujančių reorganizavime
 
-reorganizavime akcinių bendrovių dokumentų bylos.
+akcinių bendrovių dokumentų bylos.
 
 2.
 
@@ -143,15 +141,15 @@ kurios pagal Vertybinių popierių įstatymą laikomos vertybinių popierių
 
 emitentais, reglamentavimo ypatumus nustato Vertybinių popierių įstatymas. Šio Įstatymo
 
-nuostatos dėl akcinių bendrovių, kurių akcijomis leista prekiauti
+nuostatos dėl akcinių bendrovių, kurių akcijomis leista prekiauti reguliuojamoje
 
-reguliuojamoje rinkoje, taikomos akcinėms bendrovėms, kurių akcijomis leista
+rinkoje, taikomos akcinėms bendrovėms, kurių akcijomis leista prekiauti
 
-prekiauti Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje ar
+Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje ar Europos
 
-Europos ekonominei erdvei priklausančioje valstybėje veikiančioje
+ekonominei erdvei priklausančioje valstybėje veikiančioje reguliuojamoje
 
-reguliuojamoje rinkoje.
+rinkoje.
 
 3.
 
@@ -389,13 +387,13 @@ Uždarosios akcinės bendrovės pavyzdinius įstatus tvirtina Vyriausybė ar jos
 
 akcininkų susirinkimo kompetencijos, jo šaukimo tvarkos, kitų bendrovės organų
 
-kompetencijos ir šių organų narių rinkimo ir atšaukimo tvarkos, bendrovės įstatų
+kompetencijos ir šių organų narių rinkimo ir atšaukimo tvarkos, bendrovės
 
-keitimo tvarkos įstatuose nurodyti nebūtina, jeigu tvarka ir kompetencija
+įstatų keitimo tvarkos įstatuose nurodyti nebūtina, jeigu tvarka ir
 
-nesiskiria nuo šiame Įstatyme nustatytųjų ir apie tai nurodoma pačiuose
+kompetencija nesiskiria nuo šiame Įstatyme nustatytųjų ir apie tai nurodoma
 
-įstatuose.
+pačiuose įstatuose.
 
 8.
 
@@ -451,9 +449,9 @@ tiesiogiai ar netiesiogiai gali daryti lemiamą įtaką kitai bendrovei.
 
 Laikoma, kad bendrovė tiesiogiai turi balsų daugumą kitoje bendrovėje, jeigu ji
 
-turi įgijusi kitos bendrovės akcijų, visuotiniame akcininkų susirinkime suteikiančių
+turi įgijusi kitos bendrovės akcijų, visuotiniame akcininkų susirinkime
 
-daugiau kaip 1/2 balsų.
+suteikiančių daugiau kaip 1/2 balsų.
 
 3. Laikoma, kad bendrovė netiesiogiai turi
 
@@ -745,9 +743,9 @@ mažesnis kaip 1/4 dalis visų jo pasirašytų akcijų nominalios vertės ir
 
 pasirašytų akcijų nominalios vertės viso perviršio sumos.
 
-6.
+6. Įmokėtų
 
-Įmokėtų pradinių įnašų suma turi būti ne mažesnė už šio Įstatymo 2 straipsnyje
+pradinių įnašų suma turi būti ne mažesnė už šio Įstatymo 2 straipsnyje
 
 nustatytą bendrovės minimalų įstatinį kapitalą.
 
@@ -805,11 +803,11 @@ steigėjams.
 
 10.
 
-Šio straipsnio 8 dalyje nurodyta turto vertinimo ataskaita kartu su kitais
+Šio straipsnio 8 dalyje nurodyta turto vertinimo ataskaita kartu su kitais bendrovei
 
-bendrovei įregistruoti įstatymų nustatytais dokumentais turi būti pateikta
+įregistruoti įstatymų nustatytais dokumentais turi būti pateikta juridinių
 
-juridinių asmenų registro tvarkytojui.
+asmenų registro tvarkytojui.
 
 Straipsnio
 
@@ -1049,47 +1047,17 @@ REGISTRAVIMAS
 
 Bendrovė laikoma įsteigta nuo jos įregistravimo juridinių asmenų registre.
 
-2.
-
-Bendrovė įregistruojama po to, kai yra įvertinti nepiniginiai įnašai, kuriais
-
-iš dalies apmokamos akcijos, sudaryta steigimo sutartis ar steigimo aktas,
-
-pasirašyti steigiamos bendrovės įstatai, įmokėti visi pradiniai įnašai už
-
-pasirašytas akcijas, įvyko steigiamasis susirinkimas (išskyrus šio Įstatymo 10
-
-straipsnio 5 dalyje nustatytą atvejį), kuriame išrinktas pagal bendrovės
-
-įstatus visuotinio akcininkų susirinkimo renkamas bendrovės organas, patvirtinta
-
-akcinės bendrovės steigimo ataskaita, taip pat išrinkta valdyba
-
-(jeigu įstatuose nustatyta, kad ji sudaroma) ir išrinktas bendrovės vadovas,
-
-sudarytas uždarosios akcinės bendrovės akcininkų sąrašas ir įvykdytos kituose
-
-įstatymuose ir steigimo sutartyje ar steigimo akte nustatytos prievolės, taip
-
-pat juridinių asmenų registro tvarkytojui pateikti įstatymų nustatyti
-
-dokumentai.
-
-Redakcija
-
-nuo 2014-01-01:
-
 2. Bendrovė
 
 įregistruojama po to, kai yra įvertinti nepiniginiai įnašai, kuriais iš dalies
 
 apmokamos akcijos, sudaryta steigimo sutartis ar steigimo aktas, pasirašyti
 
-steigiamos bendrovės įstatai, įmokėti visi pradiniai įnašai už pasirašytas
+steigiamos bendrovės įstatai, įmokėti visi pradiniai įnašai už pasirašytas akcijas,
 
-akcijas, įvyko steigiamasis susirinkimas (išskyrus šio Įstatymo 10 straipsnio 5
+įvyko steigiamasis susirinkimas (išskyrus šio Įstatymo 10 straipsnio 5 dalyje
 
-dalyje nustatytą atvejį), kuriame išrinktas pagal bendrovės įstatus visuotinio
+nustatytą atvejį), kuriame išrinktas pagal bendrovės įstatus visuotinio
 
 akcininkų susirinkimo renkamas bendrovės organas, patvirtinta akcinės
 
@@ -1111,9 +1079,9 @@ Nr. XI-564,
 
 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 
-Nr. XII-594,
+Nr. XII-594, 2013-11-14,
 
-2013-11-14, Žin., 2013, Nr. 120-6058 (2013-11-23)
+Žin., 2013, Nr. 120-6058 (2013-11-23)
 
 12 straipsnis. Juridinių asmenų registro duomenys
 
@@ -1137,21 +1105,13 @@ išrinkimo bei įgaliojimų pabaigos datos;
 
 3)
 
-kiekybinio atstovavimo taisyklė, jeigu bendrovės įstatuose nustatytas
+kiekybinio atstovavimo taisyklė, jeigu bendrovės įstatuose nustatytas kiekybinis
 
-kiekybinis atstovavimas, bei duomenys apie asmenis, kurie pagal kiekybinio
+atstovavimas, bei duomenys apie asmenis, kurie pagal kiekybinio atstovavimo
 
-atstovavimo taisyklę turi teisę kartu veikti bendrovės vardu, jų teisių ribos,
+taisyklę turi teisę kartu veikti bendrovės vardu, jų teisių ribos, įgaliojimų
 
-įgaliojimų terminas, jeigu jis yra nustatytas;
-
-4)
-
-duomenys apie bendrovės akcininką, kai bendrovės akcininkas yra vienas asmuo;
-
-Redakcija
-
-nuo 2014-01-01:
+terminas, jeigu jis yra nustatytas;
 
 4)
 
@@ -1163,7 +1123,7 @@ asmenų registre data), kai bendrovės akcininkas yra vienas asmuo;
 
 5)
 
-(neteko galios nuo 2010-01-05);
+neteko galios nuo 2010-01-05;
 
 6)
 
@@ -1259,15 +1219,13 @@ Jeigu juridinių asmenų registro tvarkytojo paskelbti bendrovės duomenys ir
 
 informacija, taip pat bendrovės dokumentai ar nuorodos į dokumentus neatitinka
 
-juridinių asmenų registrui pateiktų dokumentų, bendrovė, turėdama santykių su
+juridinių asmenų registrui pateiktų dokumentų, bendrovė, turėdama santykių su trečiaisiais
 
-trečiaisiais asmenimis, negali remtis paskelbtu tekstu, tačiau tretieji asmenys
+asmenimis, negali remtis paskelbtu tekstu, tačiau tretieji asmenys gali remtis
 
-gali remtis paskelbtu tekstu, išskyrus atvejus, kai bendrovė įrodo, kad
+paskelbtu tekstu, išskyrus atvejus, kai bendrovė įrodo, kad tretieji asmenys
 
-tretieji asmenys yra susipažinę su juridinių asmenų registrui pateiktais
-
-dokumentais.
+yra susipažinę su juridinių asmenų registrui pateiktais dokumentais.
 
 9.
 
@@ -1391,27 +1349,27 @@ pranešti bendrovei. Pranešime turi būti nurodytas įsigytų ar perleistų akc
 
 skaičius, akcijos nominali vertė ir duomenys apie akcijas perleidusį ir jas
 
-įsigijusį asmenį (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta;
+įsigijusį asmenį (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji
 
-juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė). Papildomai
+vieta; juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė). Papildomai
 
 pranešime gali būti nurodytas adresas korespondencijai.
 
 5.
 
-Sutartims tarp bendrovės ir visų jos akcijų savininko privaloma paprasta
+Sutartims tarp bendrovės ir visų jos akcijų savininko privaloma paprasta rašytinė
 
-rašytinė forma, išskyrus atvejus, kai Civilinis kodeksas nustato privalomą
+forma, išskyrus atvejus, kai Civilinis kodeksas nustato privalomą notarinę
 
-notarinę formą.
+formą.
 
 6.
 
 Akcininkas turi grąžinti bendrovei dividendą, taip pat bet kokią kitą išmoką, susijusią su akcininko turtinių teisių įgyvendinimu,
 
-jeigu jie buvo išmokėti pažeidžiant šio Įstatymo imperatyvias normas ir bendrovė
+jeigu jie buvo išmokėti pažeidžiant šio Įstatymo imperatyvias normas ir
 
-įrodo, kad akcininkas tai žinojo ar turėjo žinoti.
+bendrovė įrodo, kad akcininkas tai žinojo ar turėjo žinoti.
 
 7. Kiekvienas akcininkas turi teisę įgalioti fizinį ar juridinį
 
@@ -1453,13 +1411,13 @@ nemokamai gauti akcijų, kai įstatinis kapitalas didinamas iš bendrovės lėš
 
 išskyrus šio Įstatymo 42 straipsnio 3 dalyje nustatytas išimtis;
 
-4)
+4) pirmumo
 
-pirmumo teise įsigyti bendrovės išleidžiamų akcijų ar konvertuojamųjų
+teise įsigyti bendrovės išleidžiamų akcijų ar konvertuojamųjų obligacijų,
 
-obligacijų, išskyrus atvejį, kai visuotinis akcininkų susirinkimas šio Įstatymo
+išskyrus atvejį, kai visuotinis akcininkų susirinkimas šio Įstatymo nustatyta
 
-nustatyta tvarka nusprendžia pirmumo teisę visiems akcininkams atšaukti;
+tvarka nusprendžia pirmumo teisę visiems akcininkams atšaukti;
 
 5)
 
@@ -1501,9 +1459,9 @@ Nr. X-1015,
 
 2007-01-12, Žin., 2007, Nr. 12-489 (2007-01-30)
 
-Nr. X-1540,
+Nr. X-1540, 2008-05-15,
 
-2008-05-15, Žin., 2008, Nr. 63-2378 (2008-06-03)
+Žin., 2008, Nr. 63-2378 (2008-06-03)
 
 16 straipsnis. Neturtinės akcininkų teisės
 
@@ -1603,25 +1561,23 @@ suteikiama šio Įstatymo nustatytais atvejais.
 
 4. Akcininkas,
 
-išskyrus atvejį, kai jis yra įsigijęs visas bendrovės akcijas, neturi teisės
+išskyrus atvejį, kai jis yra įsigijęs visas bendrovės akcijas, neturi teisės balsuoti
 
-balsuoti priimant sprendimą dėl pirmumo teisės įsigyti bendrovės išleidžiamų
+priimant sprendimą dėl pirmumo teisės įsigyti bendrovės išleidžiamų akcijų ar
 
-akcijų ar konvertuojamųjų obligacijų atšaukimo, jei į visuotinio akcininkų
+konvertuojamųjų obligacijų atšaukimo, jei į visuotinio akcininkų susirinkimo
 
-susirinkimo darbotvarkę įtraukto klausimo sprendimo projekte numatyta, kad
+darbotvarkę įtraukto klausimo sprendimo projekte numatyta, kad teisė įsigyti
 
-teisė įsigyti bendrovės išleidžiamų akcijų ar konvertuojamųjų obligacijų
+bendrovės išleidžiamų akcijų ar konvertuojamųjų obligacijų suteikiama jam, jo
 
-suteikiama jam, jo artimajam giminaičiui, akcininko sutuoktiniui ar
+artimajam giminaičiui, akcininko sutuoktiniui ar sugyventiniui, kai įstatymų
 
-sugyventiniui, kai įstatymų nustatyta tvarka yra įregistruota partnerystė, ir
+nustatyta tvarka yra įregistruota partnerystė, ir sutuoktinio artimajam
 
-sutuoktinio artimajam giminaičiui, kai akcininkas − fizinis asmuo, taip pat
+giminaičiui, kai akcininkas − fizinis asmuo, taip pat akcininką patronuojančiai
 
-akcininką patronuojančiai bendrovei ar akcininko dukterinei bendrovei, kai
-
-akcininkas − juridinis asmuo.
+bendrovei ar akcininko dukterinei bendrovei, kai akcininkas − juridinis asmuo.
 
 Straipsnio
 
@@ -1733,9 +1689,7 @@ XII-445,
 
 2013-07-02, Žin., 2013, Nr. 75-3765 (2013-07-13)
 
-PENKtasis
-
-skirsnis
+PENKtasis skirsnis
 
 BENDROVĖS
 
@@ -1827,7 +1781,7 @@ Bendrovėje gali būti sudaromas kolegialus priežiūros organas − stebėtojų
 
 ir kolegialus valdymo organas − valdyba.
 
-Redakcija nuo 2015-07-01:
+Redakcija nuo 2015 07 01:
 
 2.
 
@@ -1891,11 +1845,11 @@ Civilinio kodekso 2.82 straipsnio 4 dalyje nustatytais atvejais ieškinį dėl
 
 bendrovės organų sprendimų negaliojimo gali pareikšti akcininkai, kreditoriai,
 
-bendrovės vadovas, valdybos ir stebėtojų tarybos nariai ar kiti įstatymuose
+bendrovės vadovas, valdybos ir stebėtojų tarybos nariai ar kiti įstatymuose numatyti
 
-numatyti asmenys ne vėliau kaip per 30 dienų nuo dienos, kurią ieškovas
+asmenys ne vėliau kaip per 30 dienų nuo dienos, kurią ieškovas sužinojo arba
 
-sužinojo arba turėjo sužinoti apie ginčijamą sprendimą.
+turėjo sužinoti apie ginčijamą sprendimą.
 
 Straipsnio
 
@@ -2257,9 +2211,9 @@ ir prieš kiekvieną sprendimą skaičių.
 
 4. Jeigu nė vienas akcininkas visuotiniame akcininkų susirinkime
 
-iki balsavimo pradžios nereikalauja išsamios balsavimo ataskaitos, šio straipsnio
+iki balsavimo pradžios nereikalauja išsamios balsavimo ataskaitos, šio
 
-3 dalis netaikoma.
+straipsnio 3 dalis netaikoma.
 
 5. Jeigu
 
@@ -2789,21 +2743,19 @@ akcininkų susirinkimo sušaukimo iniciatorių pateiktą paraišką valdybai ar 
 
 akcininkas raštu pageidauja, bendrovės vadovas ne vėliau kaip per 3 dienas nuo
 
-rašytinio prašymo gavimo visus susirinkimo sprendimų projektus arba, kai
+rašytinio prašymo gavimo visus susirinkimo sprendimų projektus arba, kai sprendimų
 
-sprendimų priimti nereikia, – stebėtojų tarybos, valdybos (jeigu valdyba
+priimti nereikia, – stebėtojų tarybos, valdybos (jeigu valdyba nesudaroma, –
 
-nesudaroma, – bendrovės vadovo) ir akcininkų paaiškinimus dėl jų pasiūlyto
+bendrovės vadovo) ir akcininkų paaiškinimus dėl jų pasiūlyto visuotinio
 
-visuotinio akcininkų susirinkimo darbotvarkės klausimo įteikia akcininkui
+akcininkų susirinkimo darbotvarkės klausimo įteikia akcininkui pasirašytinai ar
 
-pasirašytinai ar išsiunčia registruotu laišku. Sprendimų projektuose turi būti
+išsiunčia registruotu laišku. Sprendimų projektuose turi būti nurodyta, kieno
 
-nurodyta, kieno iniciatyva jie yra pateikti. Jei sprendimo projekto
+iniciatyva jie yra pateikti. Jei sprendimo projekto iniciatorius pateikė
 
-iniciatorius pateikė sprendimo projekto pagrindimą, jis turi būti pridėtas prie
-
-sprendimo projekto.
+sprendimo projekto pagrindimą, jis turi būti pridėtas prie sprendimo projekto.
 
 11.
 
@@ -2913,9 +2865,9 @@ jeigu ji yra nustatyta, ir pranešimo apie elektroninių ryšių priemonėmis du
 
 įgaliojimą tvarka ir terminai;
 
-5)
+5) balsavimo
 
-balsavimo raštu, kai užpildomas bendrasis balsavimo biuletenis, tvarka;
+raštu, kai užpildomas bendrasis balsavimo biuletenis, tvarka;
 
 6)
 
@@ -2925,15 +2877,17 @@ straipsnyje nurodyta informacija, adresas.
 
 2.
 
-Akcininkų teisių, išvardytų šio straipsnio 1 dalies 1, 2 ir 3 punktuose,
+Akcininkų teisių, išvardytų šio straipsnio 1 dalies 1, 2 ir 3 punktuose, įgyvendinimo
 
-įgyvendinimo procedūros, kurių privalo laikytis akcininkai, pranešime apie
+procedūros, kurių privalo laikytis akcininkai, pranešime apie visuotinio
 
-visuotinio akcininkų susirinkimo sušaukimą gali būti nenurodomos, jeigu šiame
+akcininkų susirinkimo sušaukimą gali būti nenurodomos, jeigu šiame pranešime
 
-pranešime nurodyta, kad tos procedūros yra pateiktos akcinės bendrovės,
+nurodyta, kad
 
-kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje.
+tos procedūros yra pateiktos akcinės bendrovės, kurios akcijomis leista
+
+prekiauti reguliuojamoje rinkoje, interneto svetainėje.
 
 3. Akcinės
 
@@ -2941,19 +2895,19 @@ bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, pranešima
 
 apie šaukiamą visuotinį akcininkų susirinkimą ne vėliau kaip likus 21 dienai
 
-iki visuotinio akcininkų susirinkimo turi būti paskelbtas viešai Lietuvos Respublikoje
+iki visuotinio akcininkų susirinkimo turi būti paskelbtas viešai Lietuvos
 
-ir visose kitose Europos Sąjungos valstybėse narėse, taip pat Europos
+Respublikoje ir visose kitose Europos Sąjungos valstybėse narėse, taip pat
 
-ekonominei erdvei priklausančiose valstybėse Vertybinių popierių įstatyme
+Europos ekonominei erdvei priklausančiose valstybėse Vertybinių popierių
 
-nustatyta tvarka. Pranešimas apie visuotinio akcininkų susirinkimo sušaukimą
+įstatyme nustatyta tvarka. Pranešimas apie visuotinio akcininkų susirinkimo
 
-papildomai gali būti skelbiamas akcinės bendrovės, kurios akcijomis leista
+sušaukimą papildomai gali būti skelbiamas akcinės bendrovės, kurios akcijomis
 
-prekiauti reguliuojamoje rinkoje, įstatuose nurodytame šaltinyje, jeigu toks
+leista prekiauti reguliuojamoje rinkoje, įstatuose nurodytame šaltinyje, jeigu
 
-papildomas skelbimo būdas nurodytas įstatuose.
+toks papildomas skelbimo būdas nurodytas įstatuose.
 
 4. Jeigu akcinė
 
@@ -2985,9 +2939,9 @@ kaip praėjus 21 dienai nuo neįvykusio visuotinio akcininkų susirinkimo dienos
 
 Apie pakartotinį visuotinį akcininkų susirinkimą akcininkams turi būti pranešta
 
-šio straipsnio 3 dalyje nustatytu būdu ne vėliau kaip likus 14 dienų iki
+šio straipsnio 3 dalyje nustatytu būdu ne vėliau kaip likus 14 dienų iki pakartotinio
 
-pakartotinio visuotinio akcininkų susirinkimo.
+visuotinio akcininkų susirinkimo.
 
 Įstatymas papildytas straipsniu:
 
@@ -3009,13 +2963,13 @@ straipsnis. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoj
 
 rinkoje, informacijos ir dokumentų  pateikimas interneto svetainėje
 
-1. Akcinė
+1. Akcinė bendrovė,
 
-bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, visą
+kurios akcijomis leista prekiauti reguliuojamoje rinkoje, visą laikotarpį,
 
-laikotarpį, prasidedantį ne vėliau kaip likus 21 dienai iki visuotinio
+prasidedantį ne vėliau kaip likus 21 dienai iki visuotinio akcininkų
 
-akcininkų susirinkimo, interneto svetainėje turi pateikti akcininkams bent šią
+susirinkimo, interneto svetainėje turi pateikti akcininkams bent šią
 
 informaciją ir dokumentus:
 
@@ -3047,11 +3001,11 @@ bendrąjį balsavimo biuletenį ir įgaliojimo atstovauti akcininkui visuotiniam
 
 akcininkų susirinkime formą, jeigu ji yra nustatyta, kuri turi būti naudojama
 
-balsuojant pagal įgaliojimą, išskyrus atvejus, kai bendrasis balsavimo biuletenis
+balsuojant pagal įgaliojimą, išskyrus atvejus, kai bendrasis balsavimo
 
-ir įgaliojimo atstovauti akcininkui visuotiniame akcininkų susirinkime forma
+biuletenis ir įgaliojimo atstovauti akcininkui visuotiniame akcininkų
 
-siunčiami tiesiogiai kiekvienam akcininkui.
+susirinkime forma siunčiami tiesiogiai kiekvienam akcininkui.
 
 2.
 
@@ -3113,9 +3067,9 @@ svetainėje pateikia akcininkams balsavimo rezultatus, nustatytus pagal šio
 
 Įstatymas papildytas straipsniu:
 
-Nr. XI-354,
+Nr. XI-354, 2009-07-17,
 
-2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
+Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 27
 
@@ -3131,29 +3085,29 @@ kaip 1/2 visų balsų. Nustačius, kad kvorumas yra, laikoma, kad jis yra viso
 
 susirinkimo metu. Jei kvorumo nėra, visuotinis akcininkų susirinkimas laikomas
 
-neįvykusiu ir turi būti sušauktas pakartotinis visuotinis akcininkų
+neįvykusiu ir turi būti sušauktas pakartotinis visuotinis akcininkų susirinkimas,
 
-susirinkimas, kuris turi teisę priimti sprendimus tik pagal neįvykusio
+kuris turi teisę priimti sprendimus tik pagal neįvykusio susirinkimo
 
-susirinkimo darbotvarkę ir kuriam netaikomas kvorumo reikalavimas.
+darbotvarkę ir kuriam netaikomas kvorumo reikalavimas.
 
 2.
 
 Jeigu sprendimui priimti reikia kurios nors klasės akcijų savininkų sutikimo,
 
-dėl šio sutikimo sprendimą priima atitinkamos klasės akcijų savininkų susirinkimas.
+dėl šio sutikimo sprendimą priima atitinkamos klasės akcijų savininkų
 
-Toks susirinkimas gali priimti sprendimus ir laikomas įvykusiu, kai jame
+susirinkimas. Toks susirinkimas gali priimti sprendimus ir laikomas įvykusiu,
 
-dalyvauja akcininkai, kuriems nuosavybės teise priklauso daugiau kaip 1/2 visų
+kai jame dalyvauja akcininkai, kuriems nuosavybės teise priklauso daugiau kaip
 
-tos klasės akcijų. Šiam susirinkimui (taip pat pakartotiniam susirinkimui)
+1/2 visų tos klasės akcijų. Šiam susirinkimui (taip pat pakartotiniam
 
-taikomos šio Įstatymo visuotiniam akcininkų susirinkimui nustatytos nuostatos
+susirinkimui) taikomos šio Įstatymo visuotiniam akcininkų susirinkimui
 
-dėl susirinkimo sušaukimo, atstovavimo, kvorumo nustatymo, sprendimų priėmimo
+nustatytos nuostatos dėl susirinkimo sušaukimo, atstovavimo, kvorumo nustatymo,
 
-bei protokolo surašymo.
+sprendimų priėmimo bei protokolo surašymo.
 
 3.
 
@@ -3189,11 +3143,11 @@ Jeigu akcininkas pasinaudoja savo teise balsuoti raštu, jis, susipažinęs su
 
 visuotinio akcininkų susirinkimo darbotvarke bei sprendimų projektais, užpildo
 
-ir pateikia bendrovei bendrąjį balsavimo biuletenį – jame jis praneša
+ir pateikia bendrovei bendrąjį balsavimo biuletenį – jame jis praneša visuotiniam
 
-visuotiniam akcininkų susirinkimui savo valią „už“ ar „prieš“ atskirai dėl
+akcininkų susirinkimui savo valią „už“ ar „prieš“ atskirai dėl kiekvieno
 
-kiekvieno sprendimo. Raštu iš anksto balsavę akcininkai laikomi dalyvaujančiais
+sprendimo. Raštu iš anksto balsavę akcininkai laikomi dalyvaujančiais
 
 visuotiniame akcininkų susirinkime ir jų balsai įskaitomi į susirinkimo kvorumą
 
@@ -3231,9 +3185,9 @@ visuotiniame akcininkų susirinkime.
 
 Visuotinio akcininkų susirinkimo sprendimas laikomas priimtu, kai už jį gauta
 
-daugiau akcininkų balsų negu prieš, jeigu šis Įstatymas ar bendrovės įstatai
+daugiau akcininkų balsų negu prieš, jeigu šis Įstatymas ar bendrovės įstatai nenustato
 
-nenustato didesnės daugumos.
+didesnės daugumos.
 
 9.
 
@@ -3253,9 +3207,9 @@ straipsnis. Sprendimai, priimami kvalifikuota balsų dauguma
 
 Visuotinis akcininkų susirinkimas kvalifikuota balsų dauguma, kuri negali būti
 
-mažesnė kaip 2/3 visų susirinkime dalyvaujančių akcininkų akcijų suteikiamų
+mažesnė kaip 2/3 visų susirinkime dalyvaujančių akcininkų akcijų suteikiamų balsų,
 
-balsų, priima sprendimus:
+priima sprendimus:
 
 1)
 
@@ -4019,9 +3973,9 @@ kartu gali pasirašyti ir visuotinio akcininkų susirinkimo įgalioti asmenys. K
 
 susirinkimo sekretorius nerenkamas, protokolą pasirašo susirinkimo pirmininkas.
 
-Kai visi dalyvaujantys susirinkime akcininkai balsavo raštu, protokolą pagal gautus
+Kai visi dalyvaujantys susirinkime akcininkai balsavo raštu, protokolą pagal
 
-balsus surašo ir pasirašo bendrovės vadovas.
+gautus balsus surašo ir pasirašo bendrovės vadovas.
 
 3.
 
@@ -4031,13 +3985,13 @@ visuotinio akcininkų susirinkimo dienos.
 
 4.
 
-Visuotiniame akcininkų susirinkime dalyvavę asmenys turi teisę susipažinti su protokolu
+Visuotiniame akcininkų susirinkime dalyvavę asmenys turi teisę susipažinti su
 
-ir per 3 dienas nuo susipažinimo su juo momento, bet ne vėliau kaip per 10
+protokolu ir per 3 dienas nuo susipažinimo su juo momento, bet ne vėliau kaip
 
-dienų nuo visuotinio akcininkų susirinkimo dienos raštu pateikti savo pastabas
+per 10 dienų nuo visuotinio akcininkų susirinkimo dienos raštu pateikti savo
 
-ar nuomonę dėl protokole išdėstytų faktų ir protokolo surašymo.
+pastabas ar nuomonę dėl protokole išdėstytų faktų ir protokolo surašymo.
 
 5.
 
@@ -4077,9 +4031,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. X-1805,
+Nr. X-1805, 2008-11-11,
 
-2008-11-11, Žin., 2008, Nr. 135-5241 (2008-11-25)
+Žin., 2008, Nr. 135-5241 (2008-11-25)
 
 Nr. XI-354,
 
@@ -4315,7 +4269,7 @@ stebėtojų tarybą. Iki šio įstatymo įsigaliojimo išrinkta valdyba ar steb�
 
 taryba savo funkcijas atlieka iki kadencijos, kuriai ji buvo išrinkta, pabaigos
 
-arba iki bus išrinkta nauja valdyba ar stebėtojų taryba (įstatymas Nr. XII-912).
+arba iki bus išrinkta nauja valdyba ar stebėtojų taryba.
 
 32 straipsnis. Stebėtojų tarybos kompetencija ir
 
@@ -4371,9 +4325,9 @@ visuotinio akcininkų susirinkimo sprendimams;
 
 sprendžia kitus bendrovės įstatuose, taip pat visuotinio akcininkų susirinkimo
 
-sprendimuose stebėtojų tarybos kompetencijai priskirtus bendrovės ir jos
+sprendimuose stebėtojų tarybos kompetencijai priskirtus bendrovės ir jos valdymo
 
-valdymo organų veiklos priežiūros klausimus.
+organų veiklos priežiūros klausimus.
 
 2.
 
@@ -4473,9 +4427,9 @@ Nr. XI-564,
 
 Nr.
 
-XI-1798, 2011-12-15,
+XI-1798,
 
-Žin., 2011, Nr. 160-7565 (2011-12-28)
+2011-12-15, Žin., 2011, Nr. 160-7565 (2011-12-28)
 
 33 straipsnis. Valdybos sudarymas
 
@@ -4523,9 +4477,9 @@ skaičius neribojamas. Bendrovės valdybos nariu negali būti:
 
 bendrovės stebėtojų tarybos narys;
 
-2)
+2) asmuo,
 
-asmuo, kuris pagal teisės aktus neturi teisės eiti šių pareigų;
+kuris pagal teisės aktus neturi teisės eiti šių pareigų;
 
 3)
 
@@ -4655,9 +4609,9 @@ konfidencialia informacija negali būti laikoma informacija, kuri pagal šį ir
 
 kitus įstatymus turi būti vieša.
 
-4.
+4. Valdyba
 
-Valdyba priima:
+priima:
 
 1)
 
@@ -4701,7 +4655,7 @@ sprendimus įsigyti ilgalaikio turto už kainą, didesnę kaip 1/20 bendrovės
 
 7)
 
-neteko
+Neteko
 
 galios nuo 2014-06-17;
 
@@ -4857,9 +4811,9 @@ Nr. XI-564,
 
 Nr.
 
-XI-1798, 2011-12-15,
+XI-1798,
 
-Žin., 2011, Nr. 160-7565 (2011-12-28)
+2011-12-15, Žin., 2011, Nr. 160-7565 (2011-12-28)
 
 Nr.
 
@@ -4875,9 +4829,9 @@ straipsnis. Valdybos sprendimų priėmimas
 
 Valdybos posėdžio šaukimo iniciatyvos teisę turi kiekvienas valdybos narys.
 
-2.
+2. Valdybos
 
-Valdybos narys turi teisę duoti paprastos rašytinės formos įgaliojimą kitam tos
+narys turi teisę duoti paprastos rašytinės formos įgaliojimą kitam tos
 
 bendrovės valdybos nariui, kuris atstovautų jam balsuojant bendrovės valdybos
 
@@ -4901,15 +4855,15 @@ galima nustatyti balsavusio asmens tapatybę.
 
 Valdyba gali priimti sprendimus ir jos posėdis laikomas įvykusiu, kai jame
 
-dalyvauja 2/3 ir daugiau valdybos narių, jei bendrovės įstatuose
+dalyvauja 2/3 ir daugiau valdybos narių, jei bendrovės įstatuose nenustatytas
 
-nenustatytas didesnis dalyvaujančių posėdyje šių narių skaičius. Iš anksto
+didesnis dalyvaujančių posėdyje šių narių skaičius. Iš anksto balsavę valdybos
 
-balsavę valdybos nariai laikomi dalyvaujančiais posėdyje. Valdybos sprendimas
+nariai laikomi dalyvaujančiais posėdyje. Valdybos sprendimas yra priimtas, kai
 
-yra priimtas, kai už jį gauta daugiau balsų negu prieš, jeigu bendrovės įstatai
+už jį gauta daugiau balsų negu prieš, jeigu bendrovės įstatai nenustato
 
-nenustato didesnės daugumos.
+didesnės daugumos.
 
 6.
 
@@ -5049,19 +5003,19 @@ Bendrovės vadovu turi būti fizinis asmuo. Bendrovės vadovu negali būti asmuo
 
 kuris pagal teisės aktus neturi teisės eiti tokių pareigų.
 
-3. Bendrovės
+3.
 
-vadovą renka ir atšaukia bei atleidžia iš pareigų, nustato jo atlyginimą,
+Bendrovės vadovą renka ir atšaukia bei atleidžia iš pareigų, nustato jo
 
-tvirtina pareiginius nuostatus, skatina jį ir skiria nuobaudas bendrovės
+atlyginimą, tvirtina pareiginius nuostatus, skatina jį ir skiria nuobaudas
 
-valdyba (jei valdyba nesudaroma, – stebėtojų taryba, o jei nesudaroma ir
+bendrovės valdyba (jei valdyba nesudaroma, – stebėtojų taryba, o jei nesudaroma
 
-stebėtojų taryba, – visuotinis akcininkų susirinkimas). Bendrovės vadovas
+ir stebėtojų taryba, – visuotinis akcininkų susirinkimas). Bendrovės vadovas pradeda
 
-pradeda eiti pareigas nuo jo išrinkimo dienos, jeigu su juo sudarytoje
+eiti pareigas nuo jo išrinkimo dienos, jeigu su juo sudarytoje sutartyje
 
-sutartyje nenustatyta kitaip.
+nenustatyta kitaip.
 
 4. Su
 
@@ -5097,19 +5051,19 @@ sprendimą atšaukti bendrovės vadovą turi priimti per 15 dienų nuo
 
 atsistatydinimo pranešimo gavimo dienos. Visuotinio akcininkų susirinkimo
 
-išrinktas bendrovės vadovas turi sušaukti visuotinį akcininkų susirinkimą, į kurio
+išrinktas bendrovės vadovas turi sušaukti visuotinį akcininkų susirinkimą, į
 
-darbotvarkę būtų įtraukti bendrovės vadovo atšaukimo ir naujo bendrovės vadovo
+kurio darbotvarkę būtų įtraukti bendrovės vadovo atšaukimo ir naujo bendrovės
 
-rinkimo klausimai. Jeigu vadovą išrinkęs bendrovės organas nepriima sprendimo
+vadovo rinkimo klausimai. Jeigu vadovą išrinkęs bendrovės organas nepriima
 
-atšaukti bendrovės vadovą, su juo sudaryta darbo sutartis pasibaigia:
+sprendimo atšaukti bendrovės vadovą, su juo sudaryta darbo sutartis pasibaigia:
 
-1) šešioliktą dieną nuo atsistatydinimo
+1) šešioliktą dieną nuo
 
-pranešimo gavimo dienos, jeigu bendrovės vadovą išrinko valdyba arba stebėtojų
+atsistatydinimo pranešimo gavimo dienos, jeigu bendrovės vadovą išrinko valdyba
 
-taryba;
+arba stebėtojų taryba;
 
 2) kitą dieną po visuotinio
 
@@ -5137,11 +5091,11 @@ bendrovės vadovas, pateikdamas dokumentus, patvirtinančius
 
 atsistatydinimo pranešimo pateikimą vadovą išrinkusiai valdybai ar stebėtojų tarybai, arba tuo atveju,
 
-kai vadovą išrinko visuotinis akcininkų susirinkimas, – dokumentus, patvirtinančius
+kai vadovą išrinko visuotinis akcininkų susirinkimas, – dokumentus,
 
-visuotinio akcininkų susirinkimo sušaukimą, šiam neįvykus, – patvirtinančius ir pakartotinio
+patvirtinančius visuotinio akcininkų susirinkimo sušaukimą, šiam neįvykus, – patvirtinančius ir
 
-visuotinio akcininkų susirinkimo sušaukimą.
+pakartotinio visuotinio akcininkų susirinkimo sušaukimą.
 
 7.
 
@@ -5161,7 +5115,7 @@ ir skiria nuobaudas.
 
 9. Neteko
 
-galios nuo 2008-11-25.
+galios nuo 2008 m. lapkričio 25 d.
 
 10. Bendrovės
 
@@ -5229,9 +5183,9 @@ bendrovės dokumentų ir duomenų pateikimą juridinių asmenų registro tvarkyt
 
 7)
 
-akcinės bendrovės dokumentų pateikimą Lietuvos bankui ir Lietuvos centriniam
+akcinės bendrovės dokumentų pateikimą Lietuvos bankui ir Lietuvos centriniam vertybinių
 
-vertybinių popierių depozitoriumui;
+popierių depozitoriumui;
 
 8)
 
@@ -5373,9 +5327,9 @@ bendrovės nuosavas kapitalas tapo mažesnis kaip 1/2 įstatuose nurodyto
 
 įstatinio kapitalo dydžio, valdyba (jeigu valdyba nesudaroma, − bendrovės
 
-vadovas) ne vėliau kaip per 3 mėnesius nuo dienos, kurią sužinojo ar turėjo
+vadovas) ne vėliau kaip per 3 mėnesius nuo dienos, kurią sužinojo ar
 
-sužinoti apie susidariusią padėtį, privalo sušaukti visuotinį akcininkų
+turėjo sužinoti apie susidariusią padėtį, privalo sušaukti visuotinį akcininkų
 
 susirinkimą, kuris turi svarstyti klausimus dėl sprendimų, nurodytų šio
 
@@ -5709,19 +5663,19 @@ Uždarųjų akcinių bendrovių akcininkų − nematerialių akcijų savininkų 
 
 asmeninių vertybinių popierių sąskaitų tvarkymo ir materialių akcijų savininkų
 
-registravimo uždarosiose akcinėse bendrovėse taisykles nustato Lietuvos Respublikos
+registravimo uždarosiose akcinėse bendrovėse taisykles nustato Lietuvos
 
-Vyriausybė ar jos įgaliota institucija. Uždarųjų akcinių bendrovių akcininkų −
+Respublikos Vyriausybė ar jos įgaliota institucija. Uždarųjų akcinių bendrovių
 
-nematerialių akcijų savininkų − asmeninių vertybinių popierių sąskaitas tvarko
+akcininkų − nematerialių akcijų savininkų − asmeninių vertybinių popierių
 
-jas išleidusi uždaroji akcinė bendrovė. Uždaroji akcinė bendrovė sutartimi gali
+sąskaitas tvarko jas išleidusi uždaroji akcinė bendrovė. Uždaroji akcinė
 
-perduoti akcininkų asmeninių vertybinių popierių sąskaitų tvarkymą sąskaitų
+bendrovė sutartimi gali perduoti akcininkų asmeninių vertybinių popierių sąskaitų
 
-tvarkytojui. Su šia sutartimi uždaroji akcinė bendrovė turi supažindinti
+tvarkymą sąskaitų tvarkytojui. Su šia sutartimi uždaroji akcinė bendrovė turi
 
-akcininkus.
+supažindinti akcininkus.
 
 4.
 
@@ -5859,15 +5813,15 @@ akcininkų sąrašas. Naujas sąrašas sudaromas nedelsiant po dokumentų, kuri�
 
 pagrindu daromi įrašai uždarosios akcinės bendrovės akcininkų – nematerialių
 
-akcijų savininkų – asmeninių vertybinių popierių sąskaitose ar materialių
+akcijų savininkų – asmeninių vertybinių popierių sąskaitose ar materialių akcijų
 
-akcijų savininkų registravimo žurnale, gavimo. Įrašai akcininkų sąraše turi
+savininkų registravimo žurnale, gavimo. Įrašai akcininkų sąraše turi atitikti
 
-atitikti įrašus uždarosios akcinės bendrovės akcininkų – nematerialių akcijų
+įrašus uždarosios akcinės bendrovės akcininkų – nematerialių akcijų savininkų –
 
-savininkų – asmeninių vertybinių popierių sąskaitose ar materialių akcijų
+asmeninių vertybinių popierių sąskaitose ar materialių akcijų savininkų
 
-savininkų registravimo žurnale.
+registravimo žurnale.
 
 8. Šio
 
@@ -6053,25 +6007,27 @@ dividendą įgyvendinama tik po to, kai yra įgyvendintos atitinkamos
 
 privilegijuotųjų akcijų savininkų turtinės teisės.
 
-3. Tik paprastųjų
+3. Tik
 
-akcijų savininkai turi teisę gauti naujų akcijų, kurios išleidžiamos, kai iš
+paprastųjų akcijų savininkai turi teisę gauti naujų akcijų, kurios
 
-bendrovės nepaskirstytojo pelno ar sudarytų iš paskirstytojo pelno rezervų šio
+išleidžiamos, kai iš bendrovės nepaskirstytojo pelno ar sudarytų iš
 
-Įstatymo nustatyta tvarka didinamas įstatinis kapitalas. Jeigu įstatinis
+paskirstytojo pelno rezervų šio Įstatymo nustatyta tvarka didinamas įstatinis
 
-kapitalas didinamas iš akcijų priedų ar perkainojimo rezervo, privilegijuotųjų
+kapitalas. Jeigu įstatinis kapitalas didinamas iš akcijų priedų ar perkainojimo
 
-ir paprastųjų akcijų savininkai turi lygias teises gauti naujų akcijų.
+rezervo, privilegijuotųjų ir paprastųjų akcijų savininkai turi lygias teises
+
+gauti naujų akcijų.
 
 4.
 
 Bendrovės paprastosios akcijos negali būti konvertuojamos į privilegijuotąsias
 
-akcijas. Bendrovei neleidžiama įstatuose ar akcijų pasirašymo sutartyje
+akcijas. Bendrovei neleidžiama įstatuose ar akcijų pasirašymo sutartyje nustatyti
 
-nustatyti dividendo dydį paprastųjų akcijų savininkams.
+dividendo dydį paprastųjų akcijų savininkams.
 
 5.
 
@@ -6155,9 +6111,9 @@ pakeitimai:
 
 Nr.
 
-XI-1798, 2011-12-15,
+XI-1798,
 
-Žin., 2011, Nr. 160-7565 (2011-12-28)
+2011-12-15, Žin., 2011, Nr. 160-7565 (2011-12-28)
 
 43 straipsnis. Darbuotojų akcijos
 
@@ -6345,9 +6301,9 @@ interesų, laikoma, kad akcijų pasirašymo sutartį sudaro pats asmuo.
 
 10.
 
-Už šio straipsnio 8 ir 9 dalyse nurodytų sąlygų laikymąsi yra atsakingas
+Už šio straipsnio 8 ir 9 dalyse nurodytų sąlygų laikymąsi yra atsakingas bendrovės
 
-bendrovės vadovas.
+vadovas.
 
 Straipsnio
 
@@ -6379,11 +6335,11 @@ XII-912,
 
 Akcijų apmokėjimas yra jų emisijos kainos apmokėjimas. Akcijos gali būti
 
-apmokamos pinigais ir (ar) akcijas apmokančiam asmeniui nuosavybės teise priklausančiais
+apmokamos pinigais ir (ar) akcijas apmokančiam asmeniui nuosavybės teise
 
-nepiniginiais įnašais. Šio Įstatymo 52 straipsnio 5 dalyje nurodytu atveju
+priklausančiais nepiniginiais įnašais. Šio Įstatymo 52 straipsnio 5 dalyje
 
-išleistos naujos akcijos turi būti apmokamos pinigais.
+nurodytu atveju išleistos naujos akcijos turi būti apmokamos pinigais.
 
 2.
 
@@ -6391,37 +6347,37 @@ Akcijos emisijos kaina turi būti ne mažesnė už jos nominalią vertę.
 
 3.
 
-Nepiniginiais įnašais gali būti turtas, įskaitant ir turtines teises.
+Nepiniginiais įnašais gali būti turtas, įskaitant ir turtines teises. Nepiniginiais
 
-Nepiniginiais įnašais negali būti išimtas iš civilinės apyvartos turtas, taip
+įnašais negali būti išimtas iš civilinės apyvartos turtas, taip pat darbai ir
 
-pat darbai ir paslaugos.
+paslaugos.
 
 4.
 
 Kiekvieno akcijas pasirašiusio asmens pradinis įnašas pinigais turi būti ne
 
-mažesnis kaip 1/4 visų jo pasirašytų akcijų nominalios vertės ir visų
+mažesnis kaip 1/4 visų jo pasirašytų akcijų nominalios vertės ir visų pasirašytų
 
-pasirašytų akcijų nominalios vertės perviršio suma. Likusi dalis už pasirašytas
+akcijų nominalios vertės perviršio suma. Likusi dalis už pasirašytas akcijas
 
-akcijas gali būti apmokama tiek pinigais, tiek nepiniginiais įnašais.
+gali būti apmokama tiek pinigais, tiek nepiniginiais įnašais.
 
 5.
 
-Jei didinant bendrovės įstatinį kapitalą akcijos visiškai ar iš dalies apmokamos
+Jei didinant bendrovės įstatinį kapitalą akcijos visiškai ar iš dalies
 
-nepiniginiu įnašu, įnašas turi būti įvertintas nepriklausomo turto vertintojo
+apmokamos nepiniginiu įnašu, įnašas turi būti įvertintas nepriklausomo turto
 
-teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka. Turto
+vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka.
 
-vertinimo ataskaitai taikomi reikalavimai, nustatyti šio Įstatymo 8 straipsnio
+Turto vertinimo ataskaitai taikomi reikalavimai, nustatyti šio Įstatymo 8
 
-8 dalyje. Turto vertinimo ataskaita turi būti pateikta bendrovei iki akcijų
+straipsnio 8 dalyje. Turto vertinimo ataskaita turi būti pateikta bendrovei iki
 
-pasirašymo. Turto vertinimo ataskaita turi būti pateikta juridinių asmenų
+akcijų pasirašymo. Turto vertinimo ataskaita turi būti pateikta juridinių
 
-registro tvarkytojui kartu su kitais dėl įstatinio kapitalo padidinimo
+asmenų registro tvarkytojui kartu su kitais dėl įstatinio kapitalo padidinimo
 
 pakeistiems bendrovės įstatams įregistruoti įstatymų nustatytais dokumentais.
 
@@ -6463,11 +6419,11 @@ per pradinių įnašų mokėjimo terminą.
 
 10. Akcijos laikomos apmokėtomis, kai jas
 
-pasirašęs asmuo įmoka paskutinį piniginį įnašą ar perduoda visą akcijų pasirašymo
+pasirašęs asmuo įmoka paskutinį piniginį įnašą ar perduoda visą akcijų
 
-sutartyje nurodytą nepiniginį įnašą (paskutinę nepiniginio įnašo dalį)
+pasirašymo sutartyje nurodytą nepiniginį įnašą (paskutinę nepiniginio įnašo
 
-bendrovės nuosavybėn.
+dalį) bendrovės nuosavybėn.
 
 11.
 
@@ -6665,19 +6621,21 @@ pareiškė pageidavimą pirkti visas akcininko parduodamas uždarosios akcinės
 
 bendrovės akcijas, akcininkas šias akcijas privalo parduoti pageidavimą
 
-pareiškusiems akcininkams (vienam ar keliems), o pageidavimą pareiškę akcininkai
+pareiškusiems akcininkams (vienam ar keliems), o pageidavimą pareiškę
 
-visas šias akcijas už kainą, ne mažesnę, nei buvo nurodyta pranešime, privalo
+akcininkai visas šias akcijas už kainą, ne mažesnę, nei buvo nurodyta
 
-nupirkti apmokėdami ne vėliau kaip per 2 mėnesius nuo tos dienos, kurią
+pranešime, privalo nupirkti apmokėdami ne vėliau kaip per 2 mėnesius nuo tos
 
-uždaroji akcinė bendrovė gavo pranešimą apie ketinimą parduoti akcijas,
+dienos, kurią uždaroji akcinė bendrovė gavo pranešimą apie ketinimą
 
-jei su akcijas parduodančiu akcininku nesusitariama kitaip. Akcijas
+parduoti akcijas, jei su akcijas parduodančiu akcininku nesusitariama kitaip.
 
-parduodantis asmuo turi teisę pareikalauti, kad pirkėjas pateiktų adekvatų
+Akcijas parduodantis asmuo turi teisę pareikalauti, kad pirkėjas pateiktų
 
-kainos už akcijas apmokėjimo užtikrinimą (banko garantiją, įkeitimą ir kt.).
+adekvatų kainos už akcijas apmokėjimo užtikrinimą (banko garantiją, įkeitimą ir
+
+kt.).
 
 6.
 
@@ -6929,7 +6887,9 @@ kapitalo padidinimas. Sprendimui dėl įstatinio kapitalo padidinimo papildomais
 
 įnašais išleidžiant privilegijuotąsias akcijas priimti būtinas ir
 
-nesuteikiančių balsavimo teisės privilegijuotųjų akcijų klasių savininkų pritarimas.
+nesuteikiančių balsavimo teisės privilegijuotųjų akcijų klasių savininkų
+
+pritarimas.
 
 2.
 
@@ -6953,15 +6913,15 @@ tvarkytojui.
 
 5.
 
-Pirmumo teise įsigyti bendrovės išleidžiamų akcijų gali bendrovės akcininkai
+Pirmumo teise įsigyti bendrovės išleidžiamų akcijų gali bendrovės
 
-proporcingai nominaliai vertei akcijų, kurios jiems nuosavybės teise priklauso
+akcininkai proporcingai nominaliai vertei akcijų, kurios jiems nuosavybės teise
 
-visuotinio akcininkų susirinkimo, priėmusio sprendimą padidinti įstatinį
+priklauso visuotinio akcininkų susirinkimo, priėmusio sprendimą padidinti
 
-kapitalą papildomais įnašais, dienos pabaigoje (akcinėje bendrovėje – teisių
+įstatinį kapitalą papildomais įnašais, dienos pabaigoje (akcinėje bendrovėje –
 
-apskaitos dienos pabaigoje), išskyrus šio Įstatymo 57 straipsnyje
+teisių apskaitos dienos pabaigoje), išskyrus šio Įstatymo 57 straipsnyje
 
 nustatytas išimtis. Jeigu bendrovės, turinčios skirtingų klasių akcijas,
 
@@ -6983,13 +6943,13 @@ suma, jeigu visuotinio akcininkų susirinkimo, priėmusio sprendimą padidinti
 
 įstatinį kapitalą, sprendime buvo numatyta tokia galimybė. Remdamasi šiuo
 
-sprendimu, bendrovės valdyba (jei valdyba nesudaroma − bendrovės vadovas) bendrovės
+sprendimu, bendrovės valdyba (jei valdyba nesudaroma − bendrovės vadovas)
 
-įstatuose turi atitinkamai pakeisti įstatinio kapitalo dydį bei akcijų skaičių
+bendrovės įstatuose turi atitinkamai pakeisti įstatinio kapitalo dydį bei
 
-ar (ir) nominalią jų vertę ir pateikti pakeistus įstatus juridinių asmenų
+akcijų skaičių ar (ir) nominalią jų vertę ir pateikti pakeistus įstatus
 
-registro tvarkytojui.
+juridinių asmenų registro tvarkytojui.
 
 7.
 
@@ -7005,9 +6965,9 @@ pateikti juridinių asmenų registro tvarkytojui per 6 mėnesius nuo visuotinio
 
 akcininkų susirinkimo, priėmusio sprendimą padidinti įstatinį kapitalą, dienos.
 
-Pažeidus šį terminą, įnašai už pasirašytas akcijas jas pasirašiusio asmens
+Pažeidus šį terminą, įnašai už pasirašytas akcijas jas pasirašiusio asmens raštišku
 
-raštišku pareikalavimu turi būti nedelsiant grąžinti be jokių atskaitymų.
+pareikalavimu turi būti nedelsiant grąžinti be jokių atskaitymų.
 
 8.
 
@@ -7433,7 +7393,9 @@ straipsnyje nustatyta tvarka.
 
 5.
 
-Obligacijų savininkas turi tokias pat teises kaip ir kiti bendrovės kreditoriai.
+Obligacijų savininkas turi tokias pat teises kaip ir kiti bendrovės
+
+kreditoriai.
 
 6.
 
@@ -7617,13 +7579,13 @@ teise įsigyti bendrovės išleidžiamų konvertuojamųjų obligacijų gali bend
 
 akcininkai proporcingai nominaliai vertei akcijų, kurios jiems nuosavybės teise
 
-priklauso visuotinio akcininkų susirinkimo, priėmusio sprendimą išleisti
+priklauso visuotinio akcininkų susirinkimo, priėmusio sprendimą išleisti konvertuojamąsias
 
-konvertuojamąsias obligacijas, dienos pabaigoje (akcinėje bendrovėje –
+obligacijas, dienos
 
-teisių apskaitos dienos pabaigoje), išskyrus šio Įstatymo 57 straipsnyje
+pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje), išskyrus
 
-nustatytas išimtis.
+šio Įstatymo 57 straipsnyje nustatytas išimtis.
 
 7.
 
@@ -7661,11 +7623,11 @@ dieną turi būti pateiktas juridinių asmenų registro tvarkytojui.
 
 2.
 
-Pranešimas apie pasiūlymą pasinaudojant pirmumo teise įsigyti uždarosios akcinės
+Pranešimas apie pasiūlymą pasinaudojant pirmumo teise įsigyti uždarosios
 
-bendrovės akcijų ar konvertuojamųjų obligacijų ir terminą, per kurį šia teise
+akcinės bendrovės akcijų ar konvertuojamųjų obligacijų ir terminą, per kurį šia
 
-gali būti pasinaudota, turi būti viešai paskelbtas įstatuose nurodytame
+teise gali būti pasinaudota, turi būti viešai paskelbtas įstatuose nurodytame
 
 šaltinyje arba kiekvienam uždarosios akcinės bendrovės akcininkui įteikiamas
 
@@ -7709,15 +7671,15 @@ Visuotinis akcininkų susirinkimas gali priimti tokį sprendimą tik jeigu yra
 
 suteikiama teisė įsigyti bendrovės akcijų ar konvertuojamųjų obligacijų, išskyrus
 
-atvejus, kai atšaukiama pirmumo teisė įsigyti akcinės bendrovės akcijų ar
+atvejus, kai atšaukiama pirmumo teisė įsigyti akcinės bendrovės akcijų ar konvertuojamųjų
 
-konvertuojamųjų obligacijų dėl ketinimo viešai siūlyti akcijas ar
+obligacijų dėl ketinimo viešai siūlyti akcijas ar konvertuojamąsias obligacijas
 
-konvertuojamąsias obligacijas Vertybinių popierių įstatymo nustatyta tvarka.
+Vertybinių popierių įstatymo nustatyta tvarka. Visuotinio akcininkų
 
-Visuotinio akcininkų susirinkimo sprendime dėl pirmumo teisės atšaukimo, be
+susirinkimo sprendime dėl pirmumo teisės atšaukimo, be kita ko, turi būti
 
-kita ko, turi būti nurodyta:
+nurodyta:
 
 1) pirmumo
 
@@ -7803,9 +7765,9 @@ Nr. XI-564,
 
 Nr.
 
-XI-1689, 2011-11-17,
+XI-1689,
 
-Žin., 2011, Nr. 146-6835 (2011-12-01)
+2011-11-17, Žin., 2011, Nr. 146-6835 (2011-12-01)
 
 SEPTINTASIS
 
@@ -7865,13 +7827,13 @@ taikomos šio Įstatymo nuostatos dėl bendrovės metinių finansinių ataskait�
 
 rinkinio ir bendrovės metinio pranešimo.
 
-5. Jeigu šio Įstatymo
+5. Jeigu šio
 
-601 straipsnio 3 dalyje nustatyta tvarka bendrovė priima sprendimą
+Įstatymo 601 straipsnio 3 dalyje nustatyta tvarka bendrovė priima
 
-dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo, bendrovės
+sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo,
 
-tarpinių finansinių ataskaitų rinkinys, tarpinis pranešimas ir numatytais
+bendrovės tarpinių finansinių ataskaitų rinkinys, tarpinis pranešimas ir numatytais
 
 atvejais auditoriaus išvada per 30 dienų nuo visuotinio akcininkų susirinkimo,
 
@@ -8325,9 +8287,9 @@ akcininkų susirinkimas turi svarstyti klausimą dėl:
 
 įstatinio kapitalo sumažinimo, tačiau sumažintas įstatinis kapitalas negali
 
-būti mažesnis už šio Įstatymo 2 straipsnyje nustatytą minimalų įstatinio
+būti mažesnis už šio Įstatymo 2 straipsnyje nustatytą minimalų įstatinio kapitalo
 
-kapitalo dydį, arba
+dydį, arba
 
 2)
 
@@ -8399,9 +8361,9 @@ laikotarpį.
 
 nevisiškai apmokėta ir jos apmokėjimo terminas nepasibaigęs, akcininko
 
-dividendas mažinamas proporcingai neapmokėtos akcijos kainos daliai. Jeigu
+dividendas mažinamas proporcingai neapmokėtos akcijos kainos daliai. Jeigu akcija
 
-akcija ne visiškai apmokėta ir apmokėjimo terminas yra pasibaigęs, dividendas
+ne visiškai apmokėta ir apmokėjimo terminas yra pasibaigęs, dividendas
 
 nemokamas. Bedrovės įstatuose gali būti nustatyta, kad mažinamas ir apmokėtų
 
@@ -8415,9 +8377,7 @@ išmokėti paskirtus dividendus ne vėliau kaip per vieną mėnesį nuo sprendim
 
 paskirstyti pelną arba sprendimo skirti dividendus už trumpesnį negu
 
-finansiniai metai laikotarpį priėmimo dienos. Dividendus mokėti avansu
-
-draudžiama.
+finansiniai metai laikotarpį priėmimo dienos. Dividendus mokėti avansu draudžiama.
 
 6. Bendrovė
 
@@ -8597,15 +8557,15 @@ savininkai).
 
 Sprendimas dėl reorganizavimo gali būti priimtas ne anksčiau kaip praėjus 30
 
-dienų nuo dienos, kai juridinių asmenų registro tvarkytojas paskelbia apie gautas
+dienų nuo dienos, kai juridinių asmenų registro tvarkytojas paskelbia apie
 
-reorganizavimo sąlygas ar bendrovės interneto svetainės, kurioje skelbiamos
+gautas reorganizavimo sąlygas ar bendrovės interneto svetainės, kurioje
 
-reorganizavimo sąlygos, nuorodą, suteikiančią prieigą prie šių reorganizavimo
+skelbiamos reorganizavimo sąlygos, nuorodą, suteikiančią prieigą prie šių
 
-sąlygų ir paskelbimo bendrovės interneto svetainėje datos, kaip nustatyta šio
+reorganizavimo sąlygų ir paskelbimo bendrovės interneto svetainėje datos, kaip
 
-Įstatymo 63 straipsnio 9 ar 10 dalyje.
+nustatyta šio Įstatymo 63 straipsnio 9 ar 10 dalyje.
 
 3.
 
@@ -8685,11 +8645,11 @@ reorganizavimo veiksiančių bendrovių akcijų išdavimo jų akcininkams tvarka
 
 terminai;
 
-6) akcininkams
+6) akcininkams priklausančių
 
-priklausančių ir gaunamų po reorganizavimo veiksiančių bendrovių akcijų kainos
+ir gaunamų po reorganizavimo veiksiančių bendrovių akcijų kainos skirtumas,
 
-skirtumas, išmokamas pinigais;
+išmokamas pinigais;
 
 7) momentas, nuo
 
@@ -8749,9 +8709,9 @@ audito įmonė turi parengti reorganizavimo sąlygų vertinimo ataskaitą, kurio
 
 be kita ko, turi būti:
 
-1) išvados dėl akcijų
+1) išvados dėl
 
-keitimo santykio teisingumo ir pagrįstumo;
+akcijų keitimo santykio teisingumo ir pagrįstumo;
 
 2) metodai,
 
@@ -8849,9 +8809,9 @@ neatlygintinai skelbti savo interneto svetainėje ir nurodyti jų paskelbimo
 
 asmenų registro tvarkytojas informaciją apie gautas reorganizavimo sąlygas ar
 
-bendrovės pateiktą interneto svetainės nuorodą skelbia iki reorganizavimo pabaigos.
+bendrovės pateiktą interneto svetainės nuorodą skelbia iki reorganizavimo
 
-Su šia informacija ar nuoroda kiekvienas asmuo turi teisę susipažinti
+pabaigos. Su šia informacija ar nuoroda kiekvienas asmuo turi teisę susipažinti
 
 neatlygintinai.
 
@@ -8889,9 +8849,9 @@ XI-1489,
 
 Nr.
 
-XII-912,
+XII-912, 2014-06-05,
 
-2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
+paskelbta TAR 2014-06-16, i. k. 2014-07641
 
 63 straipsnis. Reorganizavimo sąlygos
 
@@ -9157,47 +9117,55 @@ bendrovių įstatais;
 
 paskutinių metų metinių
 
-finansinių ataskaitų rinkiniais, metiniais pranešimais,
+finansinių ataskaitų rinkiniais, metiniais
 
-taip pat tarpinių finansinių ataskaitų rinkiniais, jeigu jie sudaromi. Tarpinių finansinių ataskaitų rinkinys turi
+pranešimais, taip pat tarpinių finansinių ataskaitų rinkiniais, jeigu jie
 
-būti sudaromas, jeigu reorganizavimo sąlygos parengtos praėjus 6 ar daugiau
+sudaromi. Tarpinių
 
-mėnesių po nors vienos reorganizuojamos ar dalyvaujančios reorganizavime
+finansinių ataskaitų rinkinys turi būti sudaromas, jeigu reorganizavimo sąlygos
 
-bendrovės finansinių metų pabaigos, bet ne anksčiau kaip likus 3 mėnesiams iki
+parengtos praėjus 6 ar daugiau mėnesių po nors vienos reorganizuojamos ar
 
-reorganizavimo sąlygų parengimo. Tarpinių finansinių ataskaitų rinkinys
+dalyvaujančios reorganizavime bendrovės finansinių metų pabaigos, bet ne
 
-sudaromas pagal tas pačias taisykles, kaip ir prieš tai sudarytas metinių finansinių ataskaitų rinkinys. Tarpinių finansinių
+anksčiau kaip likus 3 mėnesiams iki reorganizavimo sąlygų parengimo. Tarpinių
 
-ataskaitų rinkinys nesudaromas, jeigu visi kiekvienos reorganizuojamos ir
+finansinių ataskaitų rinkinys sudaromas pagal tas pačias taisykles, kaip ir
 
-dalyvaujančios reorganizavime bendrovės akcininkai su tuo sutinka, taip pat tuo
+prieš tai sudarytas metinių
 
-atveju, kai reorganizuojama ar dalyvaujanti reorganizavime akcinė bendrovė,
+finansinių ataskaitų rinkinys. Tarpinių finansinių ataskaitų rinkinys nesudaromas, jeigu
 
-kurios akcijomis leista prekiauti reguliuojamoje rinkoje, tarpines finansines
+visi kiekvienos reorganizuojamos ir dalyvaujančios reorganizavime bendrovės
 
-ataskaitas skelbia vertybinių popierių rinką reglamentuojančių teisės aktų
+akcininkai su tuo sutinka, taip pat tuo atveju, kai reorganizuojama ar dalyvaujanti
 
-nustatyta tvarka ir sudaro galimybę su jomis susipažinti visiems
+reorganizavime akcinė bendrovė, kurios akcijomis leista prekiauti
 
-reorganizuojamos ir dalyvaujančios reorganizavime akcinės bendrovės akcininkams. Bendrovės akcininkų sutikimas išreiškiamas šio Įstatymo
+reguliuojamoje rinkoje, tarpines finansines ataskaitas skelbia vertybinių
 
-63 straipsnio 5 dalyje nurodyta forma;
+popierių rinką reglamentuojančių teisės aktų nustatyta tvarka ir sudaro
+
+galimybę su jomis susipažinti visiems reorganizuojamos ir dalyvaujančios
+
+reorganizavime akcinės bendrovės akcininkams.
+
+Bendrovės akcininkų sutikimas išreiškiamas šio Įstatymo 63 straipsnio 5 dalyje
+
+nurodyta forma;
 
 4)
 
 reorganizavimo sąlygų vertinimo ataskaitomis, jeigu jos rengiamos;
 
-5)
+5) reorganizuojamų
 
-reorganizuojamų ir dalyvaujančių reorganizavime bendrovių valdybų (jeigu
+ir dalyvaujančių reorganizavime bendrovių valdybų (jeigu valdyba nesudaroma −
 
-valdyba nesudaroma − bendrovės vadovo) parengtomis reorganizavimo ataskaitomis
+bendrovės vadovo) parengtomis reorganizavimo ataskaitomis apie numatomą
 
-apie numatomą reorganizavimą, jeigu jos rengiamos.
+reorganizavimą, jeigu jos rengiamos.
 
 3. Akcininko ir
 
@@ -9481,13 +9449,13 @@ pagal reorganizavimo sąlygas, daliai.
 
 3.
 
-Jei skaidomos bendrovės kokia nors prievolė pagal reorganizavimo sąlygas nėra priskirta
+Jei skaidomos bendrovės kokia nors prievolė pagal reorganizavimo sąlygas nėra
 
-kuriai nors iš bendrovių, veiksiančių po reorganizavimo, už ją solidariai
+priskirta kuriai nors iš bendrovių, veiksiančių po reorganizavimo, už ją
 
-atsako visos po reorganizavimo veiksiančios bendrovės. Kiekvienos iš šių
+solidariai atsako visos po reorganizavimo veiksiančios bendrovės. Kiekvienos iš
 
-bendrovių atsakomybę už šią prievolę riboja nuosavo kapitalo, priskirto
+šių bendrovių atsakomybę už šią prievolę riboja nuosavo kapitalo, priskirto
 
 kiekvienai iš jų pagal reorganizavimo sąlygas, dydis.
 
@@ -9497,17 +9465,17 @@ Kai skaidomos bendrovės kokia nors prievolė pagal reorganizavimo sąlygas yra
 
 priskirta vienai iš po reorganizavimo veiksiančių bendrovių, už šią prievolę
 
-atsako ta bendrovė. Jei ji šios prievolės ar jos dalies neįvykdo ir šio Įstatymo
+atsako ta bendrovė. Jei ji šios prievolės ar jos dalies neįvykdo ir šio
 
-nustatyta tvarka nebuvo suteiktos papildomos garantijos to pareikalavusiems
+Įstatymo nustatyta tvarka nebuvo suteiktos papildomos garantijos to
 
-kreditoriams, už neįvykdytą prievolę (ar neįvykdytą jos dalį) solidariai atsako
+pareikalavusiems kreditoriams, už neįvykdytą prievolę (ar neįvykdytą jos dalį)
 
-visos kitos po reorganizavimo veiksiančios bendrovės. Kiekvienos iš šių
+solidariai atsako visos kitos po reorganizavimo veiksiančios bendrovės. Kiekvienos
 
-bendrovių atsakomybę riboja nuosavo kapitalo, paskirto kiekvienai iš jų pagal
+iš šių bendrovių atsakomybę riboja nuosavo kapitalo, paskirto kiekvienai iš jų
 
-reorganizavimo sąlygas, dydis.
+pagal reorganizavimo sąlygas, dydis.
 
 5.
 
@@ -9769,9 +9737,9 @@ Lietuvos centriniame vertybinių popierių depozitoriume. Akcinėje bendrovėje,
 
 kuri pagal Vertybinių popierių įstatymą laikoma vertybinių popierių emitentu,
 
-be kita ko, turi būti pateiktas ir įgyvendintas oficialus siūlymas supirkti
+be kita ko, turi būti pateiktas ir įgyvendintas oficialus siūlymas supirkti akcinės
 
-akcinės bendrovės akcijas.
+bendrovės akcijas.
 
 9.
 
@@ -9779,15 +9747,15 @@ akcinės bendrovės akcijas.
 
 popierių įstatymo nuostatos, reglamentuojančios privalomus oficialius siūlymus,
 
-jeigu ši dalis nenustato kitaip. Oficialų siūlymą teikia akcininkai, kurie
+jeigu ši dalis nenustato kitaip. Oficialų siūlymą teikia akcininkai, kurie balsavo
 
-balsavo už sprendimą pertvarkyti akcinę bendrovę. Šią prievolę už kitus
+už sprendimą pertvarkyti akcinę bendrovę. Šią prievolę už kitus akcininkus turi
 
-akcininkus turi teisę įvykdyti vienas ar keletas akcininkų. Oficialaus siūlymo
+teisę įvykdyti vienas ar keletas akcininkų. Oficialaus siūlymo metu parduoti
 
-metu parduoti akcijas turi teisę akcininkai, sprendimo pertvarkyti akcinę
+akcijas turi teisę akcininkai, sprendimo pertvarkyti akcinę bendrovę priėmimo
 
-bendrovę priėmimo metu balsavę prieš ar nebalsavę.
+metu balsavę prieš ar nebalsavę.
 
 10.
 
@@ -9809,11 +9777,11 @@ Pertvarkant kitos teisinės formos juridinį asmenį į bendrovę, turtas, už k
 
 išduodamos bendrovės akcijos, turi būti įvertintas nepriklausomo turto
 
-vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka.
+vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka. Turto
 
-Turto vertinimo ataskaitai taikomi reikalavimai, nustatyti šio Įstatymo 8
+vertinimo ataskaitai taikomi reikalavimai, nustatyti šio Įstatymo 8 straipsnio
 
-straipsnio 8 dalyje.
+8 dalyje.
 
 13.
 
@@ -9867,11 +9835,11 @@ papildomus įnašus.
 
 16.
 
-Pertvarkant uždarąją akcinę bendrovę, taip pat kitos įstatymuose numatytos
+Pertvarkant uždarąją akcinę bendrovę, taip pat kitos įstatymuose numatytos teisinės
 
-teisinės formos juridinį asmenį į akcinę bendrovę, be kitų šiame ir kituose
+formos juridinį asmenį į akcinę bendrovę, be kitų šiame ir kituose įstatymuose
 
-įstatymuose nustatytų veiksmų, turi būti:
+nustatytų veiksmų, turi būti:
 
 1)
 
@@ -9893,9 +9861,9 @@ yra valstybė.
 
 18.
 
-Bendrovė gali būti pertvarkoma į savivaldybės įmonę, kai visų jos akcijų
+Bendrovė gali būti pertvarkoma į savivaldybės įmonę, kai visų jos akcijų savininkė
 
-savininkė yra savivaldybė.
+yra savivaldybė.
 
 19.
 
@@ -9977,9 +9945,9 @@ Nr. XI-564,
 
 Nr.
 
-XI-2075,
+XI-2075, 2012-06-19,
 
-2012-06-19, Žin., 2012, Nr. 78-4016 (2012-07-04)
+Žin., 2012, Nr. 78-4016 (2012-07-04)
 
 Nr.
 
@@ -10369,9 +10337,9 @@ paskirtų likvidatorių.
 
 Apie bendrovės likvidavimą likvidatorius turi viešai paskelbti įstatuose
 
-nurodytame šaltinyje tris kartus ne mažesniais kaip 30 dienų intervalais arba viešai
+nurodytame šaltinyje tris kartus ne mažesniais kaip 30 dienų intervalais arba
 
-paskelbti įstatuose nurodytame šaltinyje vieną kartą ir pranešti visiems
+viešai paskelbti įstatuose nurodytame šaltinyje vieną kartą ir pranešti visiems
 
 bendrovės kreditoriams raštu. Skelbime ar pranešime turi būti nurodyti visi
 
@@ -10439,9 +10407,9 @@ atsiskaityta su kreditoriais.
 
 Sprendimą atšaukti bendrovės likvidavimą gali priimti sprendimą likviduoti
 
-bendrovę priėmęs visuotinis akcininkų susirinkimas ar teismas. Sprendimas likviduoti
+bendrovę priėmęs visuotinis akcininkų susirinkimas ar teismas. Sprendimas
 
-bendrovę negali būti atšauktas, jei bent vienas akcininkas gavo dalį
+likviduoti bendrovę negali būti atšauktas, jei bent vienas akcininkas gavo dalį
 
 likviduojamos bendrovės turto.
 
@@ -10549,9 +10517,9 @@ Nr. XI-354,
 
 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
-Nr. XI-564,
+Nr. XI-564, 2009-12-15,
 
-2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
+Žin., 2009, Nr. 154-6945 (2009-12-28)
 
 Nr.
 
@@ -10683,6 +10651,112 @@ nutraukusio užsienio bendrovės filialo dokumentai iki filialo išregistravimo
 
 perduodami saugoti įmonėms Dokumentų ir archyvų įstatymo nustatyta tvarka.
 
+Papildymas 11 dalimi
+
+įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių centrinių,
+
+komercinių ir bendrovių registrų sąveikos sistema:
+
+11. Juridinių
+
+asmenų registro tvarkytojas, per Europos Sąjungos valstybių narių ir Europos
+
+ekonominei erdvei priklausančių valstybių centrinių, komercinių ir bendrovių
+
+registrų sąveikos sistemą gavęs informaciją apie likvidavimo procedūrų kitoje
+
+Europos Sąjungos valstybėje narėje ar Europos ekonominei erdvei priklausančioje
+
+valstybėje įsteigtai ribotos atsakomybės bendrovei pradėjimą, pertvarkymo,
+
+reorganizavimo ar buveinės perkėlimo į kitą Europos Sąjungos valstybę narę ar
+
+Europos ekonominei erdvei priklausančią valstybę procedūrų kitoje Europos
+
+Sąjungos valstybėje narėje ar Europos ekonominei erdvei priklausančioje
+
+valstybėje įsteigtai ribotos atsakomybės bendrovei pradėjimą ar jų pabaigą,
+
+nedelsdamas, bet ne vėliau kaip kitą darbo dieną nuo šios informacijos gavimo
+
+dienos, apie tai informuoja tos bendrovės filialą. Nuo tos dienos, kai
+
+juridinių asmenų registro tvarkytojas gauna informaciją apie šioje dalyje
+
+nurodytų procedūrų pradžią, bendrovės filialas įgyja atitinkamai likviduojamos
+
+užsienio bendrovės filialo, pertvarkomos užsienio bendrovės filialo,
+
+reorganizuojamos užsienio bendrovės filialo, perkeliančios buveinę į kitą
+
+Europos Sąjungos valstybę narę ar Europos ekonominei erdvei
+
+priklausančią valstybę užsienio bendrovės filialo statusą ir jo netenka tą
+
+dieną, kai juridinių asmenų registro tvarkytojas gauna informaciją apie šių
+
+procedūrų pabaigą. Šiais atvejais mutatis mutandis taikomos šio
+
+straipsnio 7, 9, 10 dalys.
+
+Papildymas 12 dalimi
+
+įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių
+
+centrinių, komercinių ir bendrovių registrų sąveikos sistema:
+
+12. Juridinių
+
+asmenų registro tvarkytojas, per Europos Sąjungos valstybių narių ir Europos
+
+ekonominei erdvei priklausančių valstybių centrinių, komercinių ir bendrovių
+
+registrų sąveikos sistemą gavęs informaciją apie nemokumo procedūrų (bankroto,
+
+restruktūrizavimo ar kitų analogiškų nemokiai bendrovei taikomų procedūrų)
+
+kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominei erdvei
+
+priklausančioje valstybėje įsteigtai ribotos atsakomybės bendrovei pradėjimą ar
+
+jų pabaigą, nedelsdamas, bet ne vėliau kaip kitą darbo dieną nuo šios
+
+informacijos gavimo dienos, apie tai informuoja tos bendrovės filialą. Nuo tos
+
+dienos, kai juridinių asmenų registro tvarkytojas gauna informaciją apie šioje
+
+dalyje nurodytų procedūrų pradžią, bendrovės filialas įgyja nemokios užsienio
+
+bendrovės filialo statusą ir jo netenka tą dieną, kai juridinių asmenų registro
+
+tvarkytojas gauna informaciją apie šių procedūrų pabaigą. Užsienio bendrovės
+
+filialo vadovas turi apie tai nedelsdamas viešai paskelbti Vyriausybės
+
+nustatyta tvarka juridinių asmenų registro tvarkytojo leidžiamame
+
+elektroniniame leidinyje viešiems pranešimams skelbti ir ne vėliau kaip pirmą viešo
+
+paskelbimo dieną pranešti visiems kreditoriams raštu.
+
+Papildymas 13 dalimi
+
+įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių
+
+centrinių, komercinių ir bendrovių registrų sąveikos sistema:
+
+13. Užsienio
+
+bendrovės filialas filialo vadovo iniciatyva turi būti išregistruotas iš
+
+juridinių asmenų registro iki užsienio bendrovės išregistravimo, išskyrus
+
+atvejus, kai užsienio bendrovė išregistruota iš registro šią bendrovę
+
+pertvarkius, reorganizavus ar jos buveinę perkėlus į kitą Europos Sąjungos
+
+valstybę narę ar Europos ekonominei erdvei priklausančią valstybę.
+
 Straipsnio
 
 pakeitimai:
@@ -10694,6 +10768,12 @@ Nr. X-1805,
 Nr. XI-564,
 
 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
+
+Nr.
+
+XII-985,
+
+2014-06-26, paskelbta TAR 2014-07-07, i. k. 2014-09904
 
 76
 
@@ -10729,6 +10809,28 @@ audituotas ir atskleistas pagal valstybės, kurioje įsteigta užsienio bendrov�
 
 teisę;
 
+Redakcija
+
+nuo 2014-10-01:
+
+3) užsienio
+
+bendrovės metinių finansinių ataskaitų rinkinys ir metinis pranešimas (jeigu
+
+rengiamas) kartu su auditoriaus išvada (tais atvejais, kai auditas yra atliktas
+
+arba pagal įstatymus privalo būti atliktas), taip pat, jeigu sudaromi, metinis
+
+konsoliduotųjų finansinių ataskaitų rinkinys ir konsoliduotasis metinis
+
+pranešimas (jeigu rengiamas) kartu su auditoriaus išvada (tais atvejais, kai
+
+auditas yra atliktas arba pagal įstatymus privalo būti atliktas), kurie yra
+
+sudaryti (parengti) ir atskleisti pagal valstybės, kurioje įsteigta užsienio
+
+bendrovė, teisę;
+
 4)
 
 dokumentai, patvirtinantys nemokiai bendrovei taikomas procedūras.
@@ -10739,37 +10841,37 @@ punkte nurodytų užsienio bendrovių metinių finansinių ataskaitų rinkinys
 
 sudaromas vadovaujantis kitokiais, negu Europos Sąjungoje taikomi,
 
-reikalavimais, turi būti sudarytas ir vietoj šio straipsnio 1 dalies 3 punkte
+reikalavimais, turi būti sudarytas ir vietoj šio straipsnio 1 dalies 3 punkte nurodyto
 
-nurodyto užsienio bendrovės metinių finansinių ataskaitų rinkinio juridinių
+užsienio bendrovės metinių finansinių ataskaitų rinkinio juridinių asmenų
 
-asmenų registrui pateiktas užsienio bendrovės filialo metinių finansinių
+registrui pateiktas užsienio bendrovės filialo metinių finansinių ataskaitų
 
-ataskaitų rinkinys. Užsienio bendrovės filialo metinių finansinių ataskaitų
+rinkinys. Užsienio bendrovės filialo metinių finansinių ataskaitų rinkinys
 
-rinkinys sudaromas buhalterinę apskaitą ir finansinę atskaitomybę
+sudaromas buhalterinę apskaitą ir finansinę atskaitomybę reglamentuojančių
 
-reglamentuojančių Lietuvos Respublikos teisės aktų nustatyta tvarka.
+Lietuvos Respublikos teisės aktų nustatyta tvarka.
 
 3.
 
 Šio straipsnio 1 dalies 1 ir 2 punktuose nurodyti dokumentai turi būti
 
-legalizuoti teisės aktų nustatyta tvarka, išskyrus tarptautinių sutarčių
+legalizuoti teisės aktų nustatyta tvarka, išskyrus tarptautinių sutarčių nustatytus
 
-nustatytus atvejus.
+atvejus.
 
 4.
 
 Šio Įstatymo 75 straipsnio 1 dalies 1 ir 2 punktuose nurodytos užsienio
 
-bendrovės, įsteigusios daugiau nei vieną filialą, gali pasirinkti, kurio filialo
+bendrovės, įsteigusios daugiau nei vieną filialą, gali pasirinkti, kurio
 
-byloje bus saugomi šio straipsnio 1 dalyje nurodyti dokumentai. Tokiu atveju
+filialo byloje bus saugomi šio straipsnio 1 dalyje nurodyti dokumentai. Tokiu
 
-kitų filialų bylose turi būti nurodytas tokio pasirinkto filialo pavadinimas,
+atveju kitų filialų bylose turi būti nurodytas tokio pasirinkto filialo
 
-kodas ir registro tvarkytojas.
+pavadinimas, kodas ir registro tvarkytojas.
 
 5.
 
@@ -10790,6 +10892,12 @@ pakeitimai:
 Nr. XI-354,
 
 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
+
+Nr.
+
+XII-985,
+
+2014-06-26, paskelbta TAR 2014-07-07, i. k. 2014-09904
 
 77
 
@@ -10883,9 +10991,7 @@ užsienio bendrovės teisinė forma, buveinė, veiklos sritis;
 
 jei pagal užsienio bendrovei taikomą teisę reikia įregistravimo – registras,
 
-kuriame įregistruota užsienio bendrovė, ir jos registravimo numeris tame
-
-registre;
+kuriame įregistruota užsienio bendrovė, ir jos registravimo numeris tame registre;
 
 4)
 
@@ -10931,29 +11037,15 @@ reguliavimo sritį ir šių vertybinių popierių bendra pardavimo vertė virši
 
 tūkstančių litų per 12 mėnesių laikotarpį, prieš viešą jų platinimą turi būti
 
-parengtas informacinis dokumentas, kuriame nurodoma informacija apie akcinę
+parengtas informacinis dokumentas, kuriame nurodoma informacija apie akcinę bendrovę
 
-bendrovę ir siūlomus perleidžiamuosius vertybinius popierius, ir sudaryta
+ir siūlomus perleidžiamuosius vertybinius popierius, ir sudaryta galimybė su
 
-galimybė su juo susipažinti vertybinių popierių įsigyti ketinantiems asmenims.
+juo susipažinti vertybinių popierių įsigyti ketinantiems asmenims. Lietuvos
 
-Lietuvos bankas detalizuoja informacinio dokumento turinį ir nustato atvejus,
+bankas detalizuoja informacinio dokumento turinį ir nustato atvejus, kada šio
 
-kada šio dokumento parengti nereikalaujama.
-
-3.
-
-Uždarosios akcinės bendrovės, įsteigtos iki 2010 m. kovo 1 d., savo akcininkų sąrašus, sudarytus laikantis šio Įstatymo 411 straipsnio
-
-reikalavimų, juridinių asmenų registro tvarkytojui turi pateikti kartu su
-
-dokumentais, reikalingais uždarosios akcinės bendrovės duomenų ar dokumentų
-
-pakeitimams įregistruoti, bet ne vėliau kaip iki 2010 m. spalio 1 d.
-
-Redakcija
-
-nuo 2014-01-01:
+dokumento parengti nereikalaujama.
 
 3. Uždarosios
 
@@ -11177,6 +11269,22 @@ bendroves steigiant, palaikant ir keičiant jų kapitalą, koordinavimo (OL 2012
 
 315, p. 74).
 
+Papildymas 10
+
+punktu įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių
+
+centrinių, komercinių ir bendrovių registrų sąveikos sistema:
+
+10.
+
+2012 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva 2012/17/ES,
+
+kuria iš dalies keičiamos Tarybos direktyvos 89/666/EEB ir Europos Parlamento
+
+ir Tarybos direktyvų 2005/56/EB ir 2009/101/EB nuostatos dėl centrinių,
+
+komercinių ir bendrovių registrų sąveikos (OL 2012 L 156, p. 1).
+
 Priedo
 
 pakeitimai:
@@ -11208,6 +11316,12 @@ Nr.
 XII-912,
 
 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
+
+Nr.
+
+XII-985,
+
+2014-06-26, paskelbta TAR 2014-07-07, i. k. 2014-09904
 
 Pakeitimai:
 
@@ -11331,9 +11445,9 @@ priimti nuo  2001 m. liepos 1 d. iki šio Įstatymo įsigaliojimo.
 
 8.
 
-Lietuvos Respublikos Seimas,
+Lietuvos Respublikos
 
-Įstatymas
+Seimas, Įstatymas
 
 Nr. X-271, 2005-06-23,
 
@@ -11345,9 +11459,9 @@ AKCINIŲ BENDROVIŲ
 
 9.
 
-Lietuvos Respublikos Seimas,
+Lietuvos Respublikos
 
-Įstatymas
+Seimas, Įstatymas
 
 Nr. X-715, 2006-06-22,
 
@@ -11407,9 +11521,9 @@ Lietuvos Respublikos
 
 Seimas, Įstatymas
 
-Nr. X-1540, 2008-05-15,
+Nr. X-1540,
 
-Žin., 2008, Nr. 63-2378 (2008-06-03)
+2008-05-15, Žin., 2008, Nr. 63-2378 (2008-06-03)
 
 AKCINIŲ BENDROVIŲ
 
@@ -11435,9 +11549,7 @@ IR 72 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 14.
 
-Lietuvos Respublikos Seimas,
-
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. X-1805,
 
@@ -11467,13 +11579,13 @@ kapitalą papildomais įnašais tik tuo atveju, kai naujas akcijas įsigyja jos
 
 akcininkai, darbuotojai ir kreditoriai.
 
-3. Išleidusios konvertuojamąsias obligacijas
+3. Išleidusios konvertuojamąsias obligacijas bendrovės
 
-bendrovės įstatinis kapitalas didinamas išleidžiant naujas, konvertuojamųjų
+įstatinis kapitalas didinamas išleidžiant naujas, konvertuojamųjų obligacijų
 
-obligacijų išleidimo sprendime nurodytos klasės ir nominalios vertės akcijas, į
+išleidimo sprendime nurodytos klasės ir nominalios vertės akcijas, į kurias
 
-kurias keičiamos konvertuojamosios obligacijos, jei jų savininkas per sprendime
+keičiamos konvertuojamosios obligacijos, jei jų savininkas per sprendime
 
 išleisti konvertuojamąsias obligacijas nustatytą terminą raštu pareiškė norą
 
@@ -11539,11 +11651,11 @@ padidinant anksčiau išleistų akcijų nominalias vertes.
 
 2.
 
-Sprendimą padidinti įstatinį kapitalą iš bendrovės lėšų priima visuotinis akcininkų
+Sprendimą padidinti įstatinį kapitalą iš bendrovės lėšų priima visuotinis
 
-susirinkimas, vadovaudamasis bendrovės finansinių ataskaitų rinkiniu. Jei
+akcininkų susirinkimas, vadovaudamasis bendrovės finansinių ataskaitų rinkiniu.
 
-visuotinio akcininkų susirinkimo sprendimas padidinti įstatinį kapitalą
+Jei visuotinio akcininkų susirinkimo sprendimas padidinti įstatinį kapitalą
 
 priimamas ne vėliau kaip praėjus 6 mėnesiams nuo finansinių metų pabaigos, gali
 
@@ -11571,9 +11683,9 @@ tik iš perkainojimo rezervo.
 
 Kai bendrovė didina įstatinį kapitalą iš bendrovės lėšų išleisdama naujas
 
-akcijas, akcininkai, išskyrus šio Įstatymo 42 straipsnio 3 dalyje nustatytą atvejį,
+akcijas, akcininkai, išskyrus šio Įstatymo 42 straipsnio 3 dalyje nustatytą
 
-turi teisę nemokamai gauti naujų paprastųjų akcijų, kurių skaičius būtų
+atvejį, turi teisę nemokamai gauti naujų paprastųjų akcijų, kurių skaičius būtų
 
 proporcingas jiems visuotinio akcininkų susirinkimo, priėmusio sprendimą
 
@@ -11719,9 +11831,11 @@ ne anksčiau, negu pakeisti bendrovės įstatai įregistruojami juridinių asmen
 
 registre, ir turi būti išmokėti per vieną mėnesį nuo pakeistų bendrovės įstatų
 
-įregistravimo dienos. Išmokas turi teisę gauti asmenys, kurie visuotinio akcininkų
+įregistravimo dienos. Išmokas turi teisę gauti asmenys, kurie visuotinio
 
-susirinkimo, priėmusio sprendimą sumažinti įstatinį kapitalą, dienos pabaigoje (akcinėje
+akcininkų susirinkimo, priėmusio sprendimą sumažinti įstatinį kapitalą, dienos
+
+pabaigoje (akcinėje
 
 bendrovėje – teisių apskaitos dienos pabaigoje) buvo bendrovės
 
@@ -11747,15 +11861,15 @@ bendrovės. Likusių akcijų nominali vertė ar akcijų skaičius visiems akcini
 
 mažinamas proporcingai jiems nuosavybės teise priklausančių akcijų, kurias jie
 
-turi pakeistų bendrovės įstatų įregistravimo juridinių asmenų registre dienos
+turi pakeistų bendrovės įstatų įregistravimo juridinių asmenų registre dienos pabaigoje,
 
-pabaigoje, nominaliai vertei. Pakeistus bendrovės įstatus įregistravus
+nominaliai vertei. Pakeistus bendrovės įstatus įregistravus juridinių
 
-juridinių asmenų registre, akcinė bendrovė per vieną darbo dieną privalo
+asmenų registre, akcinė bendrovė per vieną darbo dieną privalo Lietuvos
 
-Lietuvos centriniam vertybinių popierių depozitoriumui pateikti jo nustatytus
+centriniam vertybinių popierių depozitoriumui pateikti jo nustatytus dokumentus
 
-dokumentus įrašams vertybinių popierių sąskaitose pakeisti.
+įrašams vertybinių popierių sąskaitose pakeisti.
 
 10.
 
@@ -11831,11 +11945,11 @@ paskelbimo apie visuotinio akcininkų susirinkimo ar teismo sprendimą sumažint
 
 bendrovės įstatinį kapitalą dienos. Bendrovės kreditorius savo reikalavimus
 
-gali pateikti bendrovei ne vėliau kaip per 2 mėnesius nuo juridinių asmenų registro
+gali pateikti bendrovei ne vėliau kaip per 2 mėnesius nuo juridinių asmenų
 
-tvarkytojo paskelbimo apie sprendimą sumažinti bendrovės įstatinį kapitalą
+registro tvarkytojo paskelbimo apie sprendimą sumažinti bendrovės įstatinį
 
-dienos.
+kapitalą dienos.
 
 4.
 
@@ -11935,9 +12049,9 @@ Nr. X-1015,
 
 2007-01-12, Žin., 2007, Nr. 12-489 (2007-01-30)
 
-Nr. X-1540, 2008-05-15,
+Nr. X-1540,
 
-Žin., 2008, Nr. 63-2378 (2008-06-03)
+2008-05-15, Žin., 2008, Nr. 63-2378 (2008-06-03)
 
 Nr. XI-564,
 
@@ -12277,11 +12391,9 @@ taikomas šio Įstatymo 451 straipsnis.
 
 Turto vertinimo ataskaita arba šio Įstatymo 451 straipsnio 5 dalyje
 
-nurodyta pažyma ne vėliau kaip likus 10 dienų iki visuotinio akcininkų
+nurodyta pažyma ne vėliau kaip likus 10 dienų iki visuotinio akcininkų susirinkimo
 
-susirinkimo turi būti pateikta akcinei bendrovei ir juridinių asmenų registro
-
-tvarkytojui.
+turi būti pateikta akcinei bendrovei ir juridinių asmenų registro tvarkytojui.
 
 5.
 
@@ -12411,9 +12523,11 @@ akcininko įgaliojimas notaro netvirtinamas.
 
 2.
 
-Akcininkas apie elektroninių ryšių priemonėmis duotą įgaliojimą privalo pranešti
+Akcininkas apie elektroninių ryšių priemonėmis duotą įgaliojimą privalo
 
-akcinei bendrovei, kurios akcijomis leista prekiauti reguliuojamoje rinkoje.
+pranešti akcinei bendrovei, kurios akcijomis leista prekiauti reguliuojamoje
+
+rinkoje.
 
 3.
 
@@ -12465,9 +12579,9 @@ vertybinių popierių sąskaitose, akcininkas gali įgalioti po atskirą įgalio
 
 dalyvauti ir balsuoti visuotiniame akcininkų susirinkime pagal kiekvienoje
 
-vertybinių popierių sąskaitoje laikomų akcijų suteikiamas teises. Tokiu atveju akcininko
+vertybinių popierių sąskaitoje laikomų akcijų suteikiamas teises. Tokiu atveju
 
-duoti įgaliojimai galioja vienam visuotiniam akcininkų susirinkimui.
+akcininko duoti įgaliojimai galioja vienam visuotiniam akcininkų susirinkimui.
 
 Įstatymas papildytas straipsniu:
 
@@ -12647,9 +12761,9 @@ Redakcija
 
 nuo 2014-01-01:
 
-651 straipsnis. Reorganizavimo
+651 straipsnis.
 
-išdalijimo būdu ypatumai
+Reorganizavimo išdalijimo būdu ypatumai
 
 1.
 
@@ -12681,15 +12795,15 @@ priimti sprendimus dėl bendrovės reorganizavimo išdalijimo būdu;
 
 ne vėliau kaip likus 30 dienų iki po reorganizavimo tęsiančių veiklą bendrovių
 
-visuotinių akcininkų susirinkimų, kurių darbotvarkėse numatyta priimti
+visuotinių akcininkų susirinkimų, kurių darbotvarkėse numatyta priimti sprendimus
 
-sprendimus dėl bendrovės reorganizavimo išdalijimo būdu, kiekvienam skaidomos
+dėl bendrovės reorganizavimo išdalijimo būdu, kiekvienam skaidomos išdalijimo
 
-išdalijimo būdu ir dalyvaujančios skaidyme išdalijimo būdu bendrovės akcininkui
+būdu ir dalyvaujančios skaidyme išdalijimo būdu bendrovės akcininkui bendrovės
 
-bendrovės buveinėje sudaroma galimybė susipažinti su šio Įstatymo 65 straipsnio
+buveinėje sudaroma galimybė susipažinti su šio Įstatymo 65 straipsnio 2 dalyje
 
-2 dalyje nurodytais dokumentais. Tokiu atveju taip pat taikomos šio Įstatymo 63
+nurodytais dokumentais. Tokiu atveju taip pat taikomos šio Įstatymo 63
 
 701 straipsnis. Prijungimas
 
@@ -12719,9 +12833,9 @@ reorganizavimo tęsiančios veiklą bendrovės akcininkui šio Įstatymo 65
 
 straipsnio 2 dalyje nustatyta tvarka sudaroma galimybė susipažinti su joje
 
-nurodytais dokumentais. Tokiu atveju taip pat taikomos šio Įstatymo 65 straipsnio
+nurodytais dokumentais. Tokiu atveju taip pat taikomos šio Įstatymo 65
 
-3, 4, 5 ir 6 dalys;
+straipsnio 3, 4, 5 ir 6 dalys;
 
 3) vienas ar
 
@@ -12787,15 +12901,15 @@ rinkinio auditas pagal įstatymus yra privalomas ar numatytas bendrovės
 
 įstatuose, tarpinių finansinių ataskaitų rinkinys turi būti audituotas.
 
-4. Visuotinis
+4.
 
-akcininkų susirinkimas, kurio darbotvarkėje numatytas klausimas dėl dividendų
+Visuotinis akcininkų susirinkimas, kurio darbotvarkėje numatytas klausimas dėl
 
-už trumpesnį negu finansiniai metai laikotarpį skyrimo, turi įvykti per 3
+dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo, turi įvykti
 
-mėnesius nuo laikotarpio, už kurį siūloma skirti dividendus, pabaigos, bet ne
+per 3 mėnesius nuo laikotarpio, už kurį siūloma skirti dividendus, pabaigos,
 
-anksčiau, negu patvirtinamas metinių finansinių ataskaitų rinkinys ir
+bet ne anksčiau, negu patvirtinamas metinių finansinių ataskaitų rinkinys ir
 
 paskirstomas bendrovės pelnas (nuostoliai) už ankstesnius finansinius metus, ir
 
@@ -12815,15 +12929,15 @@ ataskaitų rinkinys;
 
 2)
 
-trumpesnio negu finansiniai metai laikotarpio pelno (nuostolių) suma yra
+trumpesnio negu finansiniai metai laikotarpio pelno (nuostolių) suma yra teigiama
 
-teigiama (nėra nuostolių);
+(nėra nuostolių);
 
-3) dividendams
+3)
 
-išmokėti skiriama suma neviršija trumpesnio negu finansiniai metai laikotarpio
+dividendams išmokėti skiriama suma neviršija trumpesnio negu finansiniai metai
 
-pelno (nuostolių), ankstesnių finansinių metų nepaskirstytojo pelno
+laikotarpio pelno (nuostolių), ankstesnių finansinių metų nepaskirstytojo pelno
 
 (nuostolių), perkelto į einamuosius finansinius metus, sumos, atskaičius per
 
@@ -12885,21 +12999,21 @@ pagalbos teikimo bendrovės akcijoms įsigyti apribojimai
 
 Bendrovė negali tiesiogiai ar netiesiogiai iš anksto išmokėti lėšų, suteikti
 
-paskolos ar užtikrinti prievolių įvykdymo fiziniams ir (ar) juridiniams
+paskolos ar užtikrinti prievolių įvykdymo fiziniams ir (ar) juridiniams asmenims,
 
-asmenims, jeigu šiais veiksmais siekiama sudaryti sąlygas šiems asmenims
+jeigu šiais veiksmais siekiama sudaryti sąlygas šiems asmenims įsigyti tos
 
-įsigyti tos bendrovės akcijų, išskyrus šio straipsnio 2 dalyje ir Finansų
+bendrovės akcijų, išskyrus šio straipsnio 2 dalyje ir Finansų įstaigų įstatyme
 
-įstaigų įstatyme nustatytas išimtis.
+nustatytas išimtis.
 
 2.
 
-Šio straipsnio 1 dalyje nustatytas apribojimas netaikomas bendrovei, kuri
+Šio straipsnio 1 dalyje nustatytas apribojimas netaikomas bendrovei, kuri tiesiogiai
 
-tiesiogiai ar netiesiogiai iš anksto išmoka lėšų, suteikia paskolą ar užtikrina
+ar netiesiogiai iš anksto išmoka lėšų, suteikia paskolą ar užtikrina prievolių
 
-prievolių įvykdymą savo darbuotojams, patronuojančios ar dukterinės bendrovės
+įvykdymą savo darbuotojams, patronuojančios ar dukterinės bendrovės
 
 darbuotojams, taip pat fiziniams ir (ar) juridiniams asmenims, jeigu šiais
 
