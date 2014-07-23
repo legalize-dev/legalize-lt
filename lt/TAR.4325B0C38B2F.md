@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2014-01-04"
+last_updated: "2014-07-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -79,6 +79,20 @@ profesiniam mokymui ar profesinei reabilitacijai, – jų profesinės veiklos
 
 praktikos įstaigoje ar įmonėje laikui;
 
+Redakcija nuo 2015-01-01:
+
+3) profesinių mokyklų mokiniai, aukštųjų mokyklų
+
+studentai ir asmenys, teritorinių darbo biržų siųsti profesiniam mokymui ar
+
+profesinei reabilitacijai, – jų profesinės veiklos praktikos įstaigoje ar
+
+įmonėje laikui; asmenys, atliekantys savanorišką praktiką Užimtumo rėmimo
+
+įstatymo nustatyta tvarka, – savanoriškos praktikos sutarties galiojimo
+
+laikotarpiu;
+
 4) asmenys, esantys
 
 socialinės bei psichologinės reabilitacijos įstaigose, – šių asmenų darbo
@@ -122,6 +136,10 @@ X-475,
 Nr. X-1401,
 
 2007-12-20, Žin., 2007, Nr. 138-5656 (2007-12-29)
+
+Nr. XII-1003,
+
+2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10430
 
 15 straipsnis.
 
@@ -191,25 +209,23 @@ dydis yra 10 procentų jo 24 mėnesių kompensuojamojo uždarbio, taikomo vienka
 
 kompensacijai apskaičiuoti.
 
-2. Jeigu nukentėjusysis
+2. Jeigu
 
-dėl draudiminio įvykio terminuotai netenka daugiau kaip 20, bet mažiau kaip 30
+nukentėjusysis dėl draudiminio įvykio terminuotai netenka daugiau kaip 20, bet
 
-procentų darbingumo, jam išmokama netekto darbingumo vienkartinė kompensacija,
+mažiau kaip 30 procentų darbingumo, jam išmokama netekto darbingumo vienkartinė
 
-kurios dydis yra 20 procentų jo 24 mėnesių kompensuojamojo uždarbio, taikomo
+kompensacija, kurios dydis yra 20 procentų jo 24 mėnesių kompensuojamojo
 
-vienkartinei kompensacijai apskaičiuoti.
+uždarbio, taikomo vienkartinei kompensacijai apskaičiuoti.
 
 3. Jeigu
 
 nukentėjusiajam nustatytas neterminuotas darbingumo netekimas, nurodytas šio
 
-straipsnio 1 ir 2 dalyse, tai netekto darbingumo vienkartinė kompensacija
+straipsnio 1 ir 2 dalyse, tai netekto darbingumo vienkartinė kompensacija išmokama
 
-išmokama trigubai didesnė, negu nurodyta atitinkamai šio straipsnio 1 ar 2
-
-dalyje.
+trigubai didesnė, negu nurodyta atitinkamai šio straipsnio 1 ar 2 dalyje.
 
 4. Mėnesio
 
@@ -753,6 +769,40 @@ mokyklų studentus ir asmenis, teritorinių darbo biržų siųstus profesiniam
 
 mokymui ar profesinei reabilitacijai.
 
+Redakcija nuo 2015-01-01:
+
+2. Apdraustojo asmens draudžiamosios
+
+pajamos – visos pajamos, nuo kurių buvo mokamos arba turėjo būti mokamos
+
+valstybinio socialinio draudimo įmokos nelaimingų atsitikimų darbe socialiniam
+
+draudimui, taip pat priskaičiuotos ligos dėl nelaimingo atsitikimo darbe,
+
+pakeliui į darbą ar iš darbo arba profesinės ligos pašalpos, nustatytos šiame
+
+Įstatyme, priskaičiuotos ligos, profesinės reabilitacijos, motinystės,
+
+tėvystės, motinystės (tėvystės) pašalpos, nustatytos Ligos ir motinystės
+
+socialinio draudimo įstatyme, bei priskaičiuotos nedarbo socialinio draudimo
+
+išmokos, kurios pagal Nedarbo socialinio draudimo įstatymą yra mokamos
+
+bedarbiams. Apdraustojo asmens draudžiamosioms pajamoms taip pat prilyginamos
+
+sumos, nuo kurių Biudžeto sandaros įstatyme nurodyti valstybės biudžeto
+
+asignavimų valdytojai skaičiuoja valstybinio socialinio draudimo įmokas
+
+nelaimingų atsitikimų darbe socialiniam draudimui už profesinių mokyklų
+
+mokinius, aukštųjų mokyklų studentus, asmenis, teritorinių darbo biržų siųstus profesiniam
+
+mokymui ar profesinei reabilitacijai, ir asmenis, atliekančius savanorišką
+
+praktiką Užimtumo rėmimo įstatymo nustatyta tvarka.
+
 3. Darbingumo netekimas
 
 – darbingumo netekimas dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš
@@ -811,9 +861,9 @@ formulę k = (K1·S1 + K2·S2)/(S1+S2). Čia:
 
 draudžiamųjų pajamų koeficientai, taikomi atitinkamai už laikotarpį iki 1994
 
-metų ir nuo 1994 metų, apskaičiuoti Valstybinių socialinio draudimo pensijų
+metų ir nuo 1994 metų, apskaičiuoti Valstybinių socialinio draudimo pensijų įstatymo
 
-įstatymo nustatyta tvarka;
+nustatyta tvarka;
 
 2) S1 – pensijų draudimo
 
@@ -859,20 +909,6 @@ kompensavimo koeficientas, ne mažesnis kaip 0,25 ir ne didesnis kaip 3.
 
 11. Nelaimingas
 
-atsitikimas darbe – įvykis darbe, įskaitant eismo įvykį darbo laiku,
-
-nustatyta tvarka ištirtas ir pripažintas nelaimingu atsitikimu darbe, kurio
-
-padarinys – darbuotojo trauma (lengva, sunki, mirtina). Įvykis darbe, kai
-
-darbuotojas mirė dėl ligos, nesusijusios su darbu, nepriskiriamas prie
-
-nelaimingo atsitikimo darbe.
-
-Redakcija nuo 2014-05-01:
-
-11. Nelaimingas
-
 atsitikimas darbe – įvykis darbe, įskaitant eismo įvykį, atliekant darbo
 
 funkcijas ar būnant darbo vietoje, dėl kurio darbuotojas patiria žalą sveikatai
@@ -880,28 +916,6 @@ funkcijas ar būnant darbo vietoje, dėl kurio darbuotojas patiria žalą sveika
 ir netenka darbingumo nors vienai dienai arba dėl kurio darbuotojas miršta,
 
 nustatyta tvarka ištirtas ir pripažintas nelaimingu atsitikimu darbe.
-
-12. Nelaimingas
-
-atsitikimas pakeliui į darbą ar iš darbo – įvykis, įskaitant eismo įvykį
-
-darbuotojui vykstant į darbą ar iš darbo, įvykęs darbuotojo darbo dienomis
-
-kelyje tarp darbovietės ir:
-
-1) gyvenamosios vietos;
-
-2) ne
-
-darbovietėje esančios vietos, kurioje darbuotojui išmokamas darbo užmokestis;
-
-3) vietos ne
-
-darbovietės teritorijoje, kurioje darbuotojas gali būti pertraukos pailsėti ir
-
-pavalgyti metu.
-
-Redakcija nuo 2014-05-01:
 
 12. Nelaimingas
 
@@ -989,6 +1003,10 @@ Nr. XII-741,
 
 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00016
 
+Nr. XII-1003,
+
+2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10430
+
 5 straipsnis. Draudėjai
 
 Šio Įstatymo 4
@@ -1019,6 +1037,14 @@ bei psichologinės reabilitacijos įstaigos;
 
 vykdymo institucijos ir įstaigos.
 
+Papildyta nuo 2015-01-01:
+
+6) įmonės, įstaigos,
+
+organizacijos ar kitos organizacinės struktūros, kuriose asmenys atlieka
+
+savanorišką praktiką Užimtumo rėmimo įstatymo nustatyta tvarka.
+
 Straipsnio
 
 pakeitimai:
@@ -1028,6 +1054,10 @@ Nr.
 X-475,
 
 2005-12-23, Žin., 2005, Nr. 153-5642 (2005-12-31)
+
+Nr. XII-1003,
+
+2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10430
 
 6 straipsnis. Draudiminiai įvykiai
 
@@ -1055,9 +1085,9 @@ nurodymu paskirtu dirbti laiku bei dirbant tarnybinių komandiruočių laiku;
 
 sutartyje sulygtą darbą (įskaitant ir darbo vietos parengimą bei sutvarkymą),
 
-taip pat atliekant kitus draudėjo pavestus su jo vykdoma veikla susijusius darbus
+taip pat atliekant kitus draudėjo pavestus su jo vykdoma veikla susijusius
 
-draudėjo naudai arba atliekant viešojo administravimo funkcijas;
+darbus draudėjo naudai arba atliekant viešojo administravimo funkcijas;
 
 3) dirbant
 
@@ -1143,15 +1173,15 @@ kompensacija, nuo kurių mokamos arba turi būti mokamos nelaimingų atsitikimų
 
 darbe socialinio draudimo įmokos.
 
-5. Asmenims,
+5. Asmenims, dirbantiems
 
-dirbantiems pagal nuotolinio darbo sutartį, draudiminiais įvykiais pripažįstami
+pagal nuotolinio darbo sutartį, draudiminiais įvykiais pripažįstami tik tie
 
-tik tie nelaimingi atsitikimai ir ūmios profesinės ligos, kuriuos, dirbant
+nelaimingi atsitikimai ir ūmios profesinės ligos, kuriuos, dirbant darbdavio
 
-darbdavio naudai, lėmė ar sukėlė darbdavio pateiktos medžiagos ar darbo
+naudai, lėmė ar sukėlė darbdavio pateiktos medžiagos ar darbo priemonės, taip
 
-priemonės, taip pat pats gamybos procesas.
+pat pats gamybos procesas.
 
 6. Sprendimus
 
@@ -1199,11 +1229,11 @@ kad įmonėse būtų laikomasi darbuotojų saugos ir sveikatos teisės aktų
 
 reikalavimų;
 
-2) užtikrinti pirmąją
+2) užtikrinti
 
-medicinos pagalbą nukentėjusiajam dėl nelaimingo atsitikimo darbe ar ūmios
+pirmąją medicinos pagalbą nukentėjusiajam dėl nelaimingo atsitikimo darbe ar
 
-profesinės ligos, taip pat prireikus nugabenti nukentėjusįjį į sveikatos
+ūmios profesinės ligos, taip pat prireikus nugabenti nukentėjusįjį į sveikatos
 
 priežiūros įstaigą;
 
@@ -1245,11 +1275,9 @@ profesine liga asmeniui ir (ar) jo šeimos nariams žala atlyginama Civilinio
 
 kodekso nustatyta tvarka.
 
-3. Už šio
+3. Už šio Įstatymo
 
-Įstatymo nustatytų pareigų nevykdymą draudėjas atsako įstatymų nustatyta
-
-tvarka.
+nustatytų pareigų nevykdymą draudėjas atsako įstatymų nustatyta tvarka.
 
 Straipsnio
 
@@ -1375,9 +1403,9 @@ Nr. XI-504,
 
 2009-11-26, Žin., 2009, Nr. 147-6548 (2009-12-12)
 
-Nr. XI-640, 2009-12-22,
+Nr. XI-640,
 
-Žin., 2010, Nr. 1-35 (2010-01-05)
+2009-12-22, Žin., 2010, Nr. 1-35 (2010-01-05)
 
 Nr.
 
@@ -1401,9 +1429,7 @@ priežiūros įstaigoje, teikiančioje ortopedines ir (ar) protezavimo paslaugas
 
 Tuo atveju, kai NDNT nustato profesinės reabilitacijos paslaugų poreikį, ligos
 
-pašalpa mokama iki pirmos dalyvavimo profesinės reabilitacijos programoje
-
-dienos.
+pašalpa mokama iki pirmos dalyvavimo profesinės reabilitacijos programoje dienos.
 
 2. Apdraustajam
 
@@ -1965,6 +1991,26 @@ nurodytus šio Įstatymo 4 straipsnio 1 dalies 4 ir 5 punktuose, mokamos už tą
 
 laiką, kurį jiems už darbą mokamas darbo užmokestis.
 
+Redakcija nuo 2015-01-01:
+
+2. Valstybinio socialinio draudimo įmokos už
+
+apdraustuosius, nurodytus šio Įstatymo 4 straipsnio 1 dalies 3 punkte,
+
+Valstybinio socialinio draudimo įstatymo ir Valstybinio socialinio draudimo
+
+fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka valstybės
+
+lėšomis mokamos už tą laiką, kurį jie atlieka profesinės veiklos praktiką arba
+
+savanorišką praktiką Užimtumo rėmimo įstatymo nustatyta tvarka.
+
+Valstybinio socialinio draudimo įmokos už apdraustuosius, nurodytus šio
+
+Įstatymo 4 straipsnio 1 dalies 4 ir 5 punktuose, mokamos už tą laiką,
+
+kurį jiems už darbą mokamas darbo užmokestis.
+
 Straipsnio
 
 pakeitimai:
@@ -1974,6 +2020,10 @@ Nr.
 X-475,
 
 2005-12-23, Žin., 2005, Nr. 153-5642 (2005-12-31)
+
+Nr. XII-1003,
+
+2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10430
 
 31
 
