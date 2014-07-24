@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2014-01-01"
+last_updated: "2014-07-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -447,9 +447,9 @@ finansavimo sąskaitą ,,Kelių programa – atskaitymai nuo pajamų“ iki 2005
 
 liepos 25 d., o atskaitymų į Programos finansavimo sąskaitą deklaraciją už 2005
 
-m. sausio–birželio mėnesius privalo pateikti apskrities valstybinei mokesčių
+m. sausio–birželio mėnesius privalo pateikti apskrities valstybinei mokesčių inspekcijai
 
-inspekcijai iki 2005 m. rugsėjo 1 d.
+iki 2005 m. rugsėjo 1 d.
 
 10.
 
@@ -569,6 +569,8 @@ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO
 
 Šio įstatymo negaliojimą nusako:
 
+15.1.
+
 Lietuvos
 
 Respublikos Seimas, Įstatymas
@@ -659,9 +661,9 @@ XI-2197,
 
 KELIŲ
 
-PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 2, 6 STRAIPSNIŲ IR 4
+PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 2, 6 STRAIPSNIŲ IR 4 PRIEDĖLIO
 
-PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Šis
 
@@ -673,9 +675,9 @@ Lietuvos
 
 Respublikos Seimas, Įstatymas
 
-Nr. XII-363, 2013-06-13,
+Nr. XII-363,
 
-Žin., 2013, Nr. 68-3404 (2013-06-28)
+2013-06-13, Žin., 2013, Nr. 68-3404 (2013-06-28)
 
 KELIŲ
 
@@ -707,9 +709,23 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 įsigalioja 2014 m. sausio 1 d.
 
-Šio įstatymo 1 straipsnio 2 dalis
+Pakeitimas:
 
-įsigalioja 2015 m. sausio 1 d.
+21.1.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. XII-1081,
+
+2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10450
+
+LIETUVOS RESPUBLIKOS KELIŲ
+
+PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO
+
+ĮSTATYMO NR. XII-696 1 IR 2 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 ***
 
@@ -717,7 +733,7 @@ Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2014-01-11)
+Aušrinė Trapinskienė (2014-07-24
 
 ausrine.trapinskiene@lrs.lt
 
@@ -4213,16 +4229,6 @@ valstybei, savivaldybėms panaudoti vietinės reikšmės keliams (gatvėms) ties
 
 taisyti, prižiūrėti bei saugaus eismo sąlygoms užtikrinti.
 
-Redakcija nuo 2015-01-01:
-
-4.
-
-Metinėse sąmatose turi būti numatoma 30 procentų Programos finansavimo lėšų
-
-valstybei, savivaldybėms panaudoti vietinės reikšmės keliams (gatvėms) tiesti,
-
-taisyti, prižiūrėti bei saugaus eismo sąlygoms užtikrinti.
-
 5.
 
 Vyriausybės nustatyta tvarka Programos finansavimo lėšos taip pat naudojamos
@@ -4241,27 +4247,27 @@ tarnautojams ir darbuotojams, atliekantiems tarnybines funkcijas Klaipėdos
 
 miesto dalyje Smiltynėje, taip pat kitiems valstybės pareigūnams, nurodytiems
 
-Vyriausybės nustatytos tvarkos nuostatuose, ir šių tarnybų transporto priemonėms, tolimojo, vietinio (miesto) reguliaraus susisiekimo
+Vyriausybės nustatytos tvarkos nuostatuose, ir šių tarnybų transporto priemonėms, tolimojo, vietinio (miesto) reguliaraus
 
-autobusams, dviračiams, autocisternoms, vežančioms kurą į Kuršių neriją,
+susisiekimo autobusams, dviračiams, autocisternoms, vežančioms kurą į Kuršių
 
-juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę, transporto
+neriją, juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę,
 
-priemonėms ir darbuotojams, Klaipėdos miesto savivaldybės įmonių transporto
+transporto priemonėms ir darbuotojams, Klaipėdos miesto savivaldybės įmonių
 
-priemonėms ir darbuotojams, dirbantiems darbus Klaipėdos miesto dalyje
+transporto priemonėms ir darbuotojams, dirbantiems darbus Klaipėdos miesto
 
-Smiltynėje, Neringos mieste ir Klaipėdos miesto dalyje Smiltynėje gyvenamąją
+dalyje Smiltynėje, Neringos mieste ir Klaipėdos miesto dalyje Smiltynėje
 
-vietą deklaravusiems asmenims ir jų lengvosioms transporto priemonėms
+gyvenamąją vietą deklaravusiems asmenims ir jų lengvosioms transporto
 
-neatlygintinai perkelti keltais per Klaipėdos valstybinio jūrų uosto akvatoriją
+priemonėms neatlygintinai perkelti keltais per Klaipėdos valstybinio jūrų uosto
 
-į (iš) Kuršių neriją (-os) bei Šilutės rajono gyventojų ir jų lengvųjų
+akvatoriją į (iš) Kuršių neriją (-os) bei Šilutės rajono gyventojų ir jų
 
-transporto priemonių neatlygintino perkėlimo užlietu krašto kelio Šilutė–Rusnė
+lengvųjų transporto priemonių neatlygintino perkėlimo užlietu krašto kelio
 
-ruožu sąnaudoms kompensuoti.
+Šilutė–Rusnė ruožu sąnaudoms kompensuoti.
 
 Straipsnio
 
@@ -4284,6 +4290,10 @@ Nr.
 XII-696,
 
 2013-12-17, Žin., 2013, Nr. 140-7070 (2013-12-30)
+
+Nr. XII-1081,
+
+2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10450
 
 11
 
@@ -4499,9 +4509,9 @@ RIBINIAI TARIFAI
 
 Respublikoje, užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse narėse,
 
-įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokesčio ribiniai
+įregistruotų transporto priemonių savininkų ar valdytojų naudotojo mokesčio
 
-tarifai
+ribiniai tarifai
 
 Transporto
 
@@ -4729,11 +4739,9 @@ priemonių emisijos klasės pagal motorinių transporto priemonių variklių
 
 išmetamųjų dujinių ir kietųjų dalelių teršalų normas.
 
-2.
+2. Specialios
 
-Specialios kelių transporto priemonės, skirtos specialiems darbams atlikti,
-
-yra:
+kelių transporto priemonės, skirtos specialiems darbams atlikti, yra:
 
 1)
 
@@ -5187,13 +5195,13 @@ leidžiamos apkrovos, bendroji masė viršija leidžiamą bendrąją masę ir yr
 
 didesnė kaip 48 t.
 
-2. Triašiu
+2. Triašiu vilkiku
 
-vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius,
+su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius, pagamintus
 
-pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais.
+pagal ISO standartus, leidžiama vežti tik magistraliniais keliais. Vežant šiuos
 
-Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidimą.
+konteinerius kitais keliais, būtina gauti kelio savininko leidimą.
 
 3.
 
@@ -5273,9 +5281,7 @@ Nr.
 
 Darbų atvejai
 
-Tarifai
-
-(litais)
+Tarifai (litais)
 
 Valstybinės
 
@@ -5499,31 +5505,31 @@ priedėlis
 
 1. 1996 m.
 
-liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam
+liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje
 
-ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius
+nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių
 
-leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto
+didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių
 
-priemonių didžiausią leistiną masę (OL 2004 m. specialusis leidimas, 7 skyrius,
+transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis leidimas,
 
-2 tomas, p. 478), su paskutiniais pakeitimais, padarytais 2002 m. vasario 18 d.
+7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais 2002 m.
 
-Europos Parlamento ir Tarybos direktyva 2002/7/EB (OL 2004 m. specialusis
+vasario 18 d. Europos Parlamento ir Tarybos direktyva 2002/7/EB (OL 2004 m.
 
-leidimas, 7 skyrius, 6 tomas, p. 85).
+specialusis leidimas, 7 skyrius, 6 tomas, p. 85).
 
 2. 1999 m.
 
-birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių
+birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl
 
-krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra
+sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam
 
-infrastruktūra (OL 2004 m. specialusis leidimas, 7 skyrius, 4 tomas, p.
+tikra infrastruktūra (OL 2004 m. specialusis leidimas, 7 skyrius, 4
 
-372), su paskutiniais pakeitimais, padarytais 2006 m. gegužės 17 d. Europos
+tomas, p. 372), su paskutiniais pakeitimais, padarytais 2006 m. gegužės 17 d.
 
-Parlamento ir Tarybos direktyva 2006/38/EB (OL 2006 L 157, p. 8).
+Europos Parlamento ir Tarybos direktyva 2006/38/EB (OL 2006 L 157, p. 8).
 
 Priedėlio
 
@@ -5533,9 +5539,9 @@ Nr. X-1177,
 
 2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
 
-Nr. X-1604,
+Nr. X-1604, 2008-06-17,
 
-2008-06-17, Žin., 2008, Nr. 75-2919 (2008-07-03)
+Žin., 2008, Nr. 75-2919 (2008-07-03)
 
 Pakeitimai:
 
@@ -5571,9 +5577,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-840, 2002-04-09,
+IX-840,
 
-Žin., 2002, Nr. 43-1605 (2002-04-26)
+2002-04-09, Žin., 2002, Nr. 43-1605 (2002-04-26)
 
 KELIŲ
 
@@ -5657,9 +5663,9 @@ Respublikos Seimas, Įstatymas
 
 Nr.
 
-IX-2139,
+IX-2139, 2004-04-15,
 
-2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+Žin., 2004, Nr. 61-2188 (2004-04-27)
 
 ĮMONIŲ
 
