@@ -4,7 +4,7 @@ identifier: "TAR.DFF9865C9935"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-08"
-last_updated: "2011-01-01"
+last_updated: "2014-07-24"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DFF9865C9935"
 department: "Lietuvos Respublikos Seimas"
@@ -20,10 +20,6 @@ document_status: "registruotas TA registre"
 Įstatymas skelbtas: Žin., 2001, Nr. 99-3524
 
 Neoficialus įstatymo tekstas
-
-Aktuali
-
-įstatymo redakcija nuo 2011 m. sausio 1 d.
 
 LIETUVOS
 
@@ -161,6 +157,14 @@ centrinės bazės duomenis įrašomi šie duomenys apie pilietį:
 
 7) pilietybė.
 
+Papildyta nuo 2015-01-01:
+
+8) tautybė (įrašoma piliečio rašytiniu prašymu).
+
+Pastaba.
+
+8 punkto nuostatos pasams, išduotiems iki įstatymo Nr. XII-1015 įsigaliojimo, netaikomos.
+
 2. Pase turi būti
 
 piliečio veido atvaizdas ir piliečio parašas. Piliečiui, kuris nesugeba
@@ -175,19 +179,17 @@ dalyje išvardyti duomenys, taip pat piliečio veido atvaizdas ir pirštų
 
 atspaudai.
 
-Pastaba. 3 dalies
+Pastaba. 3 dalies nuostata dėl duomenų apie pilietį ir piliečio
 
-nuostata dėl duomenų apie pilietį ir piliečio veido atvaizdo fiksavimo
+veido atvaizdo fiksavimo elektroniniu būdu į pasą įsigalioja nuo 2006 m. rugpjūčio 28 d., o dėl piliečio pirštų atspaudų – ne vėliau kaip per 36 mėnesius po to, kai
 
-elektroniniu būdu į pasą įsigalioja nuo 2006 m. rugpjūčio 28 d., o dėl piliečio pirštų atspaudų – ne vėliau kaip per 36 mėnesius po to, kai Europos Komisija
+Europos Komisija nustatys technines specifikacijas dėl pirštų atspaudų.
 
-nustatys technines specifikacijas dėl pirštų atspaudų.
+3 dalies nuostatos netaikomos
 
-3 dalies
+pasams, išduotiems iki nurodytų nuostatų įsigaliojimo dienos. (Pagal
 
-nuostatos netaikomos pasams, išduotiems iki nurodytų nuostatų įsigaliojimo
-
-dienos.
+įstatymą Nr. X-705)
 
 4. Be šio straipsnio
 
@@ -225,15 +227,19 @@ X-1706,
 
 2008-07-15, Žin., 2008, Nr. 87-3466 (2008-07-31)
 
+Nr. XII-1015,
+
+2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10464
+
 5
 
 straipsnis. Paso išdavimas ir keitimas
 
 1. Pasą piliečio prašymu išduoda ir keičia vidaus
 
-reikalų ministro įgaliotos institucijos (toliau – įgaliota institucija), o esant
+reikalų ministro įgaliotos institucijos (toliau – įgaliota institucija), o
 
-Lietuvos Respublikos konsulinio statuto nustatytoms sąlygoms, – Lietuvos
+esant Lietuvos Respublikos konsulinio statuto nustatytoms sąlygoms, – Lietuvos
 
 Respublikos diplomatinės atstovybės ar konsulinės įstaigos (toliau – Lietuvos
 
@@ -353,9 +359,9 @@ pasą gali išsiųsti paštu ar kitu saugiu būdu. Toks pilietis apie
 
 naujo paso gavimą privalo informuoti Lietuvos Respublikos konsulinę įstaigą.
 
-Paso išsiuntimo paštu ar kitu saugiu būdu ir informavimo apie paso gavimą
+Paso išsiuntimo paštu ar kitu saugiu būdu ir informavimo apie paso gavimą tvarką
 
-tvarką nustato vidaus reikalų ministras ir užsienio reikalų ministras.
+nustato vidaus reikalų ministras ir užsienio reikalų ministras.
 
 8. Atsiimant naują pasą, turi būti
 
@@ -409,13 +415,13 @@ neišduodamas.
 
 ar pasibaigia jo galiojimo laikas, piliečiui esant užsienio valstybėje,
 
-Lietuvos Respublikos konsulinė įstaiga gali išduoti dokumentą, leidžiantį grįžti
+Lietuvos Respublikos konsulinė įstaiga gali išduoti dokumentą, leidžiantį
 
-į Lietuvos Respubliką, ar dokumentą, leidžiantį tęsti kelionę, jeigu pilietis
+grįžti į Lietuvos Respubliką, ar dokumentą, leidžiantį tęsti kelionę, jeigu
 
-neturi kito galiojančio kelionės dokumento. Šių dokumentų formas ir išdavimo
+pilietis neturi kito galiojančio kelionės dokumento. Šių dokumentų formas ir
 
-tvarką nustato užsienio reikalų ministras.
+išdavimo tvarką nustato užsienio reikalų ministras.
 
 11. Asmuo, radęs
 
@@ -451,9 +457,9 @@ Nr. XI-470,
 
 2009-11-12, Žin., 2009, Nr. 141-6193 (2009-11-28)
 
-Nr. XI-1058,
+Nr. XI-1058, 2010-10-12,
 
-2010-10-12, Žin., 2010, Nr. 125-6381 (2010-10-23)
+Žin., 2010, Nr. 125-6381 (2010-10-23)
 
 6 straipsnis. Negaliojantis pasas
 
@@ -585,9 +591,9 @@ Asmenys, pažeidę šį
 
 Įstatymo įsigaliojimas ir įgyvendinimas
 
-1. Įstatymas
+1. Įstatymas įsigalioja
 
-įsigalioja nuo 2003 m. sausio 1 d.
+nuo 2003 m. sausio 1 d.
 
 2. (Netenka galios
 
@@ -628,8 +634,6 @@ kelionės dokumentų apsauginių savybių ir biometrikos standartų.
 Nr. X-705, 2006-06-20,
 
 Žin., 2006, Nr. 77-2957 (2006-07-14)
-
-_________________
 
 Pakeitimai:
 
@@ -713,13 +717,33 @@ PASO ĮSTATYMO 2, 3 IR 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. sausio 1 d.
 
-***
+5.
 
-Pabaiga ***
+Lietuvos Respublikos Seimas,
 
-Redagavo
+Įstatymas
 
-Aušrinė Trapinskienė (2010-10-26)
+Nr. XII-1015,
 
-autrap@lrs.lt
+2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10464
+
+LIETUVOS RESPUBLIKOS PASO
+
+ĮSTATYMO NR. IX-590 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas, išskyrus šio
+
+straipsnio 3 dalį, įsigalioja 2015 m. sausio 1 d.
+
+Šio įstatymo nuostatos pasams, išduotiems iki šio
+
+įstatymo įsigaliojimo, netaikomos.
+
+*** Pabaiga ***
+
+Redagavo Aušrinė Trapinskienė
+
+(2014-07-24)
+
+ausrine.trapinskiene@lrs.lt
 
