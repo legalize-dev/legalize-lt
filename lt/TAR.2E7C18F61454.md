@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2014-05-22"
+last_updated: "2014-07-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -18385,11 +18385,27 @@ Prašymas dėl juridinio asmens likvidavimo Civilinio kodekso 2.70 straipsnyje
 
 nustatytais atvejais paduodamas juridinio asmens buveinės apylinkės teismui.
 
+Redakcija nuo
+
+2015-01-01:
+
+4. Prašymas
+
+atšaukti inicijuojamą juridinio asmens likvidavimą Civilinio kodekso 2.70
+
+straipsnyje nurodytu atveju paduodamas juridinio asmens buveinės apylinkės
+
+teismui.
+
 Straipsnio pakeitimas:
 
 Nr. XI-596,
 
 2009-12-22, Žin., 2009, Nr. 159-7203 (2009-12-31)
+
+Nr. XII-1065,
+
+2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10461
 
 581 straipsnis. Prašymo turinys
 
@@ -18407,13 +18423,11 @@ skyriuje nustatyta tvarka.
 
 1. Byla
 
-nagrinėjama rašytinio proceso tvarka, išskyrus atvejus, kai pats teismas,
+nagrinėjama rašytinio proceso tvarka, išskyrus atvejus, kai pats teismas, atsižvelgdamas
 
-atsižvelgdamas į bylos aplinkybes, nusprendžia bylą nagrinėti žodinio proceso
+į bylos aplinkybes, nusprendžia bylą nagrinėti žodinio proceso tvarka.
 
-tvarka. Nagrinėjant bylą žodinio proceso tvarka, teismo posėdžio eiga
-
-nefiksuojama.
+Nagrinėjant bylą žodinio proceso tvarka, teismo posėdžio eiga nefiksuojama.
 
 2. Prašymai,
 
@@ -18685,9 +18699,9 @@ teritorijoje – areštuoti turtą ir paskirti jo saugotoją. Šiuo atveju apie
 
 atliktus vykdymo veiksmus antstolis ne vėliau kaip kitą darbo dieną po jų
 
-atlikimo raštu praneša apylinkės teismo, kurio veiklos teritorijoje yra antstolio
+atlikimo raštu praneša apylinkės teismo, kurio veiklos teritorijoje yra
 
-kontoros buveinė, teisėjui.
+antstolio kontoros buveinė, teisėjui.
 
 4. Visais
 
@@ -18777,11 +18791,11 @@ numatytais atvejais, dėl skolininko turto administravimo tvarkos nustatymo (ši
 
 Kodekso 744 straipsnis), taip pat kitais klausimais, kylančiais iš vykdymo
 
-proceso, teismas išnagrinėja ne vėliau kaip per septynias dienas nuo
+proceso, teismas išnagrinėja ne vėliau kaip
 
-jų priėmimo dienos. Antstolis kartu su pareiškimu turi teismui pateikti
+per septynias dienas nuo jų priėmimo dienos. Antstolis
 
-kitus reikalingus dokumentus.
+kartu su pareiškimu turi teismui pateikti kitus reikalingus dokumentus.
 
 3.
 
@@ -18803,17 +18817,17 @@ posėdyje nedalyvavusiems suinteresuotiems asmenims.
 
 5.
 
-Dėl teismo nutarties, kuria išspręsti klausimai dėl vykdomosios bylos
+Dėl teismo nutarties, kuria išspręsti klausimai dėl vykdomosios bylos nutraukimo,
 
-nutraukimo, sprendimo vykdymo išlaidų išieškojimo iš skolininko, dėl
+sprendimo vykdymo išlaidų išieškojimo iš skolininko, dėl atsakomybės už
 
-atsakomybės už perduoto saugoti turto praradimą, dėl baudų skyrimo, dėl
+perduoto saugoti turto praradimą, dėl baudų skyrimo, dėl skolininko dalies
 
-skolininko dalies bendrojoje nuosavybėje nustatymo, dėl skolininko turto
+bendrojoje nuosavybėje nustatymo, dėl skolininko turto administravimo tvarkos
 
-administravimo tvarkos nustatymo, ir kitais šiame Kodekse numatytais atvejais
+nustatymo, ir kitais šiame Kodekse numatytais atvejais gali būti duodamas
 
-gali būti duodamas atskirasis skundas.
+atskirasis skundas.
 
 Straipsnio pakeitimai:
 
@@ -18841,9 +18855,9 @@ nenustatyta kitaip.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1480,
+Nr. XI-1480, 2011-06-21,
 
-2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 595
 
@@ -18867,11 +18881,11 @@ kurio veiklos teritorijoje yra antstolio kontoros buveinė.
 
 3. Teisėjas,
 
-gavęs pareiškimą patvirtinti taikos sutartį, priima nutartį pagal šio Kodekso 140
+gavęs pareiškimą patvirtinti taikos sutartį, priima nutartį pagal šio Kodekso
 
-straipsnio 3 dalyje nurodytas taisykles. Ši nutartis gali būti skundžiama
+140 straipsnio 3 dalyje nurodytas taisykles. Ši nutartis gali būti
 
-atskiruoju skundu.
+skundžiama atskiruoju skundu.
 
 4. Neteko galios nuo 2011-10-01
 
@@ -18945,9 +18959,9 @@ pagrindai.
 
 išsprendžia antstolis savo patvarkymu.
 
-4. Antstolio patvarkymas,
+4. Antstolio
 
-kuriuo patenkinamas nušalinimas, neskundžiamas.
+patvarkymas, kuriuo patenkinamas nušalinimas, neskundžiamas.
 
 5. Jeigu
 
@@ -19013,9 +19027,9 @@ straipsnyje ir 722 straipsnio 1 dalyje nustatyta tvarka;
 
 pardavimas iš varžytynių, perdavimas išieškotojui, turto pardavimas be
 
-varžytynių pažeidė esmines suinteresuotų asmenų teises. Turto pardavimas iš
+varžytynių pažeidė esmines suinteresuotų asmenų teises. Turto pardavimas iš varžytynių,
 
-varžytynių, perdavimas išieškotojui, turto pardavimas be varžytynių negali būti
+perdavimas išieškotojui, turto pardavimas be varžytynių negali būti
 
 pripažįstami negaliojančiais tik dėl formalių trūkumų, kurie negalėjo turėti
 
@@ -19083,13 +19097,13 @@ ir valstybinė mokesčių inspekcija.
 
 4. Jeigu areštuotas turtas jau perduotas
 
-išieškotojui arba realizuotas, ieškinys pareiškiamas taip pat ir tiems asmenims,
+išieškotojui arba realizuotas, ieškinys pareiškiamas taip pat ir tiems
 
-kuriems turtas perduotas arba kurie tą turtą įgijo. Patenkinus ieškinį dėl jau
+asmenims, kuriems turtas perduotas arba kurie tą turtą įgijo. Patenkinus
 
-realizuoto turto grąžinimo, ginčus tarp turto įgijėjo, išieškotojo ir
+ieškinį dėl jau realizuoto turto grąžinimo, ginčus tarp turto įgijėjo,
 
-skolininko nagrinėja teismas pagal ginčo teisenos taisykles.
+išieškotojo ir skolininko nagrinėja teismas pagal ginčo teisenos taisykles.
 
 604 straipsnis. Procesinių dokumentų įteikimas vykdymo proceso metu
 
@@ -19193,9 +19207,9 @@ termino nutraukimo senatis prasideda iš naujo. Laikas, praėjęs iki nutraukimo
 
 kai vykdomasis dokumentas, pagal kurį visiškai ar iš dalies neišieškota,
 
-grąžinamas, naujas terminas pateikti dokumentą vykdyti pradedamas skaičiuoti
+grąžinamas, naujas terminas pateikti dokumentą vykdyti pradedamas skaičiuoti nuo
 
-nuo dokumento grąžinimo išieškotojui dienos.
+dokumento grąžinimo išieškotojui dienos.
 
 608
 
@@ -19213,9 +19227,9 @@ teismo pripažintų svarbiomis, praleistas terminas teismo gali būti atnaujinta
 
 įstatymai.
 
-617 straipsnis. Pasekmės, tretiesiems asmenims
+617 straipsnis. Pasekmės, tretiesiems asmenims neįvykdžius
 
-neįvykdžius antstolio reikalavimų
+antstolio reikalavimų
 
 Išieškotojas
 
@@ -19247,9 +19261,9 @@ straipsnis. Turto saugotojo (administratoriaus) atsakomybė
 
 saugoti (administruoti) turto išeikvojimas, perleidimas ar paslėpimas, taip pat
 
-nusikalstamas šio turto sunaikinimas ar sužalojimas, jeigu tai padaro
+nusikalstamas šio turto sunaikinimas ar sužalojimas, jeigu tai padaro saugotojas
 
-saugotojas (administratorius), baudžiamas įstatymų nustatyta tvarka.
+(administratorius), baudžiamas įstatymų nustatyta tvarka.
 
 2.
 
@@ -19263,19 +19277,19 @@ straipsnis. Skolininko ar vaiko paieška
 
 1.
 
-Bylose dėl išlaikymo išieškojimo, dėl atlyginimo žalos, padarytos suluošinimu ar
+Bylose dėl išlaikymo išieškojimo, dėl atlyginimo žalos, padarytos suluošinimu
 
-kitaip sužalojant sveikatą, taip pat atimant maitintojo gyvybę, kai skolininko
+ar kitaip sužalojant sveikatą, taip pat atimant maitintojo gyvybę, kai
 
-buvimo vieta nežinoma, antstolis privalo skelbti skolininko paiešką per
+skolininko buvimo vieta nežinoma, antstolis privalo skelbti skolininko paiešką
 
-policiją.
+per policiją.
 
 2. Bylose dėl
 
-vaiko perdavimo, kai vaiko buvimo vieta nežinoma, antstolis privalo skelbti skolininko
+vaiko perdavimo, kai vaiko buvimo vieta nežinoma, antstolis privalo skelbti
 
-arba vaiko paiešką per policiją.
+skolininko arba vaiko paiešką per policiją.
 
 3.
 
@@ -19543,41 +19557,9 @@ ar likvidavus juridinį asmenį, jeigu negalimas teisių ir pareigų perėmimas;
 
 skolininkas ir išieškotojas yra tas pats asmuo;
 
-8) jeigu išieškotojas
+8) jeigu
 
-ir skolininkas sudarė skolos padengimo sutartį (Civilinio kodekso 6.436
-
-straipsnis);
-
-9) jeigu
-
-vykdomasis dokumentas neteisėtai priimtas vykdyti;
-
-10)
-
-jeigu išieškotojas atsisakė priimti paimtus iš skolininko tam tikrus daiktus,
-
-nurodytus teismo sprendime.
-
-2. Vykdomąją
-
-bylą nutraukus, visos vykdymo priemonės, kurių ėmėsi antstolis, antstolio
-
-patvarkymu panaikinamos. Jeigu skolininko turtas buvo areštuotas teismo
-
-nutartimi, apie vykdomosios bylos nutraukimą ir būtinumą panaikinti turto
-
-areštą antstolis savo patvarkymu praneša turtą areštavusiam teismui.
-
-3. Nutraukta
-
-vykdomoji byla negali būti pradedama iš naujo.
-
-Straipsnio pakeitimai:
-
-Nr. XI-1480,
-
-2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+išieškotojas ir skolininkas sudarė skolos padengimo sutartį (Civilinio kodekso
 
 6.436 straipsnis);
 
@@ -19765,9 +19747,7 @@ priverstinio vykdymo priemonės galioja iki vykdomojo dokumento įvykdymo.
 
 Antstolis, priėmęs vykdyti jam persiųstą vykdomąjį dokumentą, turi teisę
 
-taikyti papildomas priverstinio vykdymo priemones arba panaikinti anksčiau
-
-taikytąsias.
+taikyti papildomas priverstinio vykdymo priemones arba panaikinti anksčiau taikytąsias.
 
 Straipsnio pakeitimai:
 
@@ -19819,9 +19799,9 @@ greičiau ir realiai įvykdytas, ir aktyviai padėti šalims ginti jų teises be
 
 įstatymų saugomus interesus.
 
-3. Šio Kodekso nustatyta
+3. Šio Kodekso
 
-tvarka antstoliui taip pat gali būti pavedami atlikti kiti veiksmai.
+nustatyta tvarka antstoliui taip pat gali būti pavedami atlikti kiti veiksmai.
 
 4. Už teismo
 
@@ -19973,7 +19953,9 @@ antstolio veiksmus;
 
 prašymus, nušalinimus;
 
-8) atsisakyti išieškojimo;
+8) atsisakyti
+
+išieškojimo;
 
 9) kitas šiame Kodekse numatytas teises.
 
@@ -19989,9 +19971,9 @@ privalo:
 
 bendradarbiauti su antstoliu vykdymo proceso metu;
 
-2) aktyviai
+2) aktyviai domėtis
 
-domėtis vykdymo eiga;
+vykdymo eiga;
 
 3) nesudaryti
 
@@ -20179,9 +20161,9 @@ pateikiamas juridiniam asmeniui, už tokio reikalavimo įvykdymą atsakingas
 
 juridinio asmens vadovas.
 
-3. Už šiame straipsnyje nurodytų reikalavimų
+3. Už šiame straipsnyje nurodytų reikalavimų neįvykdymą
 
-neįvykdymą arba melagingų duomenų pateikimą teismas antstolio teikimu be svarbių
+arba melagingų duomenų pateikimą teismas antstolio teikimu be svarbių
 
 priežasčių patvarkymo neįvykdžiusiam asmeniui gali skirti iki dviejų tūkstančių
 
@@ -20495,11 +20477,11 @@ realizavimo.
 
 Redakcija nuo 2014-08-01:
 
-2. Raginimas
+2.
 
-nesiunčiamas skubaus vykdymo bylose, bylose dėl turto konfiskavimo ir mažesnių
+Raginimas nesiunčiamas skubaus vykdymo bylose, bylose dėl turto konfiskavimo ir
 
-negu du šimtai litų piniginių sumų išieškojimo.
+mažesnių negu du šimtai litų piniginių sumų išieškojimo.
 
 Straipsnio pakeitimai:
 
@@ -20529,9 +20511,11 @@ priverstinio vykdymo pradžios gali raštu nurodyti, iš kokio skolininko turto 
 
 pajamų išieškoma pirmiausia.
 
-2. Jeigu išieškotojas
+2. Jeigu
 
-nurodė, iš kokio turto išieškoti, šis nurodymas antstoliui yra privalomas.
+išieškotojas nurodė, iš kokio turto išieškoti, šis nurodymas antstoliui yra
+
+privalomas.
 
 3. Jeigu
 
@@ -20601,9 +20585,9 @@ kitokias paslaugas, yra areštuotas, gali nustatyti, kad nebūtų išieškoma i�
 
 paskutinio buto, gyvenamojo namo ar jų dalies, būtinų šiems asmenims gyventi.
 
-Tai teismas gali nustatyti atsižvelgdamas į vaikų, neįgaliųjų ir socialiai remtinų
+Tai teismas gali nustatyti atsižvelgdamas į vaikų, neįgaliųjų ir socialiai
 
-asmenų materialinę padėtį ir interesus. Prašymas dėl to paduodamas ir
+remtinų asmenų materialinę padėtį ir interesus. Prašymas dėl to paduodamas ir
 
 nagrinėjamas apylinkės teisme šio Kodekso 593 straipsnyje nustatyta tvarka.
 
@@ -20707,9 +20691,9 @@ dalinėje nuosavybėje, taip pat jo dalį jungtinėje nuosavybėje.
 
 padarytos žalos atlyginimo išieškojimas gali būti nukreipiamas taip pat į
 
-turtą, kuris yra bendroji jungtinė nuosavybė, jeigu teismo nuosprendyje
+turtą, kuris yra bendroji jungtinė nuosavybė, jeigu teismo nuosprendyje nustatyta,
 
-nustatyta, kad tas turtas įgytas už nusikalstamu būdu gautas lėšas.
+kad tas turtas įgytas už nusikalstamu būdu gautas lėšas.
 
 666 straipsnis. Išieškojimas iš fizinių asmenų turto
 
@@ -20783,11 +20767,11 @@ profesiją ar mokymuisi. Šio turto sąrašas nustatytas Sprendimų vykdymo
 
 instrukcijoje. Be to, išieškojimas negali būti nukreipiamas į pinigų sumą,
 
-neviršijančią Vyriausybės nustatytos vienos minimaliosios mėnesinės algos
+neviršijančią Vyriausybės nustatytos vienos minimaliosios mėnesinės algos (MMA),
 
-(MMA), visus būtinus vaikų ir neįgaliųjų reikmenis. Šių reikmenų sąrašas
+visus būtinus vaikų ir neįgaliųjų reikmenis. Šių reikmenų sąrašas nustatytas
 
-nustatytas Sprendimų vykdymo instrukcijoje.
+Sprendimų vykdymo instrukcijoje.
 
 2. Vykdant išieškojimą iš valstybės, savivaldybės ar
 
@@ -20829,9 +20813,9 @@ Likviduojant
 
 turtą, nesilaikant šio Kodekso 665 straipsnio 2 – 4 dalyse nustatytos eilės.
 
-670 straipsnis. Bendroji išieškojimo iš visų rūšių juridinių
+670 straipsnis. Bendroji išieškojimo iš visų rūšių
 
-asmenų ar kitų organizacijų tvarka
+juridinių asmenų ar kitų organizacijų tvarka
 
 1. Išieškojimai
 
@@ -21123,11 +21107,11 @@ bei pareiškimai, kai sudaromas turto aprašas, taip pat antstolio patvarkymai
 
 dėl jų.
 
-2. Prireikus
+2. Prireikus turto
 
-turto arešto akte išvardijami rasti daiktai, į kuriuos pagal įstatymus negali
+arešto akte išvardijami rasti daiktai, į kuriuos pagal įstatymus negali būti
 
-būti nukreipiamas išieškojimas, taip pat kiti daiktai, kurie neareštuojami.
+nukreipiamas išieškojimas, taip pat kiti daiktai, kurie neareštuojami.
 
 3. Jeigu
 
@@ -21163,9 +21147,9 @@ turto aprašą, tai pažymima turto apraše.
 
 akto ir turto aprašo įteikimo išieškotojui ir skolininkui tvarka
 
-Turto arešto aktas
+Turto arešto
 
-ir turto aprašas, jeigu šis yra sudarytas, įteikiami išieškotojui ir
+aktas ir turto aprašas, jeigu šis yra sudarytas, įteikiami išieškotojui ir
 
 skolininkui pasirašytinai. Jeigu įteikti turto arešto aktą ar turto aprašą nėra
 
@@ -21333,11 +21317,11 @@ realizavimo pabaigos, antstoliui išieškomos iš skolininko šio Kodekso 611
 
 straipsnyje nustatyta tvarka.
 
-6. Ekspertizė atliekama
+6. Ekspertizė
 
-pagal bendrąsias šio Kodekso taisykles, atsižvelgiant į šio Kodekso VI dalyje
+atliekama pagal bendrąsias šio Kodekso taisykles, atsižvelgiant į šio Kodekso
 
-numatytas išimtis.
+VI dalyje numatytas išimtis.
 
 Straipsnio pakeitimai:
 
@@ -21491,9 +21475,9 @@ skolininkui iš kitų asmenų
 
 gali būti nukreipiamas į skolininko pinigų sumas ir kitokį turtą, esančius pas
 
-kitus asmenis, taip pat į pinigų sumas ir kitokį turtą, priklausančius skolininkui
+kitus asmenis, taip pat į pinigų sumas ir kitokį turtą, priklausančius
 
-iš kitų asmenų.
+skolininkui iš kitų asmenų.
 
 2. Šio
 
@@ -21771,9 +21755,9 @@ patvarkymu už kiek galima didesnę kainą.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1480, 2011-06-21,
+Nr. XI-1480,
 
-Žin., 2011, Nr. 85-4126 (2011-07-13)
+2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 698 straipsnis. Pranešimas apie turto, turinčio
 
@@ -21809,9 +21793,9 @@ pasiūlytam pirkėjui šio Kodekso VI dalyje nustatyta tvarka yra speciali
 
 procesinė turto realizavimo forma.
 
-701 straipsnis. Neparduoto iš varžytynių turto
+701 straipsnis. Neparduoto iš varžytynių turto perdavimo
 
-perdavimo išieškotojams eilė, jeigu išieškojimo procese dalyvauja keli išieškotojai
+išieškotojams eilė, jeigu išieškojimo procese dalyvauja keli išieškotojai
 
 1. Jeigu vykdant
 
@@ -21821,11 +21805,11 @@ pirmiausia siūloma pasiimti šio Kodekso 754 straipsnyje nustatytos pirmesnės
 
 eilės išieškotojams, laikantis proporcingumo principo ir eilės.
 
-2. Jeigu pirmesnės
+2. Jeigu
 
-eilės išieškotojai nesutinka pasiimti turto, jį siūloma paimti paskesnės eilės
+pirmesnės eilės išieškotojai nesutinka pasiimti turto, jį siūloma paimti
 
-išieškotojams, laikantis proporcingumo principo ir eilės.
+paskesnės eilės išieškotojams, laikantis proporcingumo principo ir eilės.
 
 702 straipsnis.
 
@@ -21979,9 +21963,9 @@ tūkstančių litų;
 
 3) ne vėliau
 
-kaip likus dešimt dienų iki varžytynių pradžios – jeigu iš varžytynių parduodamo
+kaip likus dešimt dienų iki varžytynių pradžios – jeigu iš varžytynių
 
-kilnojamojo turto vertė yra mažesnė negu dešimt tūkstančių litų.
+parduodamo kilnojamojo turto vertė yra mažesnė negu dešimt tūkstančių litų.
 
 Redakcija nuo 2014-08-01:
 
@@ -21989,11 +21973,11 @@ Redakcija nuo 2014-08-01:
 
 Apie varžytynes antstolis paskelbia specialiame interneto tinklalapyje.
 
-2. Kai
+2. Kai parduodamas
 
-parduodamas nekilnojamasis turtas, jeigu yra galimybė, skelbimas taip pat iškabinamas
+nekilnojamasis turtas, jeigu yra galimybė, skelbimas taip pat iškabinamas ant
 
-ant paties nekilnojamojo turto.
+paties nekilnojamojo turto.
 
 3. Skolininkas
 
@@ -22163,17 +22147,17 @@ vyksta elektroniniu būdu specialiame interneto tinklalapyje.
 
 3. Varžytynės
 
-vykdomos skelbime apie varžytynes nurodytu laiku. Varžytynių pradžia yra
+vykdomos skelbime apie varžytynes nurodytu laiku. Varžytynių pradžia yra skelbime
 
-skelbime apie varžytynes nurodytos darbo dienos dešimta valanda nulis minučių
+apie varžytynes nurodytos darbo dienos dešimta valanda nulis minučių nulis
 
-nulis sekundžių, o pabaiga – po septynių dienų penkiolikta valanda nulis
+sekundžių, o pabaiga – po septynių dienų penkiolikta valanda nulis minučių
 
-minučių nulis sekundžių. Jeigu varžytynių pabaigos laikas sueina poilsio ar
+nulis sekundžių. Jeigu varžytynių pabaigos laikas sueina poilsio ar švenčių
 
-švenčių dieną, varžytynių pabaiga laikoma pirmosios darbo dienos penkiolikta
+dieną, varžytynių pabaiga laikoma pirmosios darbo dienos penkiolikta valanda
 
-valanda nulis minučių nulis sekundžių.
+nulis minučių nulis sekundžių.
 
 4. Varžytynės
 
@@ -22537,13 +22521,13 @@ skolininko atlyginti tiesioginius nuostolius, atsiradusius dėl dalyvavimo
 
 varžytynėse.
 
-5. Paskelbęs varžytynes
+5. Paskelbęs
 
-neįvykusiomis šio Kodekso 717 straipsnio 2 punkte numatytu atveju, antstolis
+varžytynes neįvykusiomis šio Kodekso 717 straipsnio 2 punkte numatytu atveju,
 
-skelbia pirmąsias pakartotines varžytynes, kurios vyksta tomis pačiomis
+antstolis skelbia pirmąsias pakartotines varžytynes, kurios vyksta tomis
 
-sąlygomis kaip ir paskelbtos neįvykusiomis varžytinės.
+pačiomis sąlygomis kaip ir paskelbtos neįvykusiomis varžytinės.
 
 Straipsnio pakeitimai:
 
@@ -22551,9 +22535,9 @@ Nr. XI-1480,
 
 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
-Nr. XII-889,
+Nr. XII-889, 2014-05-15,
 
-2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05571
+paskelbta TAR 2014-05-21, i. k. 2014-05571
 
 720
 
@@ -22713,9 +22697,9 @@ Nr. XI-1480,
 
 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
-Nr. XII-889,
+Nr. XII-889, 2014-05-15,
 
-2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05571
+paskelbta TAR 2014-05-21, i. k. 2014-05571
 
 723 straipsnis. Išieškotojo atsisakymo paimti iš
 
@@ -22953,9 +22937,9 @@ būti nukreipiamas praėjus vieneriems metams nuo turto grąžinimo skolininkui.
 
 8. Grąžinus
 
-neparduotą per prekybos įmonę turtą skolininkui, išieškojimas gali būti
+neparduotą per prekybos įmonę turtą skolininkui, išieškojimas gali būti nukreipiamas
 
-nukreipiamas bendra tvarka į kitą skolininkui priklausantį turtą.
+bendra tvarka į kitą skolininkui priklausantį turtą.
 
 Straipsnio pakeitimai:
 
@@ -23055,17 +23039,17 @@ popieriai, įtraukti į vertybinių popierių biržos prekybos sąrašus, realiz
 
 akcijų paketų pardavimui biržos taisyklėse nustatyta tvarka.
 
-2. Kiti vertybiniai popieriai
+2. Kiti vertybiniai popieriai realizuojami
 
-realizuojami varžytynėse bendra tvarka.
+varžytynėse bendra tvarka.
 
-3. Parduodant iš varžytynių uždarųjų akcinių
+3. Parduodant iš varžytynių uždarųjų
 
-bendrovių akcijas, turi būti sudaromas parduodamų akcijų paketų skaičius taip
+akcinių bendrovių akcijas, turi būti sudaromas parduodamų akcijų paketų
 
-apskaičiuojant, jog jeigu juos įsigytų keli pirkėjai, nebūtų pažeistas įstatymų
+skaičius taip apskaičiuojant, jog jeigu juos įsigytų keli pirkėjai, nebūtų
 
-nustatytas akcininkų skaičius.
+pažeistas įstatymų nustatytas akcininkų skaičius.
 
 730 straipsnis. Vertybinių
 
@@ -23173,11 +23157,11 @@ veiksmus privalo atlikti asmuo, kuriam pateikiamas patvarkymas.
 
 3. Patvarkyme
 
-dėl išieškojimo iš skolininko darbo užmokesčio ar kitų pajamų turi būti
+dėl išieškojimo iš skolininko darbo užmokesčio ar kitų pajamų turi būti nurodoma
 
-nurodoma išskaitų iš skolininko darbo užmokesčio ar kitų jam prilygintų išmokų
+išskaitų iš skolininko darbo užmokesčio ar kitų jam prilygintų išmokų ir
 
-ir davinių dydis, periodiškumas, kaip turi būti pasielgta su išskaitytais
+davinių dydis, periodiškumas, kaip turi būti pasielgta su išskaitytais
 
 pinigais, darbdavio atsakomybė už antstolio reikalavimo nevykdymą ir kiti
 
@@ -23191,11 +23175,11 @@ išmokomis išieškojimo taip pat nurodoma skolos suma. Šiuo atveju iš skolini
 
 darbo užmokesčio ir kitų pajamų pirmiausia atskaitomos periodinės išmokos.
 
-Jeigu šio Kodekso 736 straipsnyje nustatyta tvarka apskaičiuotų išskaitų suma didesnė
+Jeigu šio Kodekso 736 straipsnyje nustatyta tvarka apskaičiuotų išskaitų suma
 
-už periodinių išmokų sumą, šių sumų skirtumas skiriamas periodinių išmokų
+didesnė už periodinių išmokų sumą, šių sumų skirtumas skiriamas periodinių
 
-skolai padengti.
+išmokų skolai padengti.
 
 5. Išlaikymo
 
@@ -23271,9 +23255,9 @@ straipsnyje nurodytų antstolio reikalavimų nevykdymą kaltam asmeniui teismas
 
 gali skirti iki vieno tūkstančio litų dydžio baudą.
 
-735 straipsnis. Išskaitų iš skolininko darbo
+735 straipsnis. Išskaitų iš skolininko darbo užmokesčio
 
-užmokesčio ir kitų jo pajamų dydžio apskaičiavimas
+ir kitų jo pajamų dydžio apskaičiavimas
 
 Išskaitų iš skolininko darbo užmokesčio
 
@@ -23295,17 +23279,17 @@ davinių dalies, neviršijančių Vyriausybės nustatytos MMA, išskaitoma pagal
 
 vykdomuosius dokumentus, kol bus visiškai padengtos išieškomos sumos:
 
-1) išieškant išlaikymą
+1) išieškant
 
-periodinėmis išmokomis, žalos, padarytos suluošinimu ar kitokiu sveikatos
+išlaikymą periodinėmis išmokomis, žalos, padarytos suluošinimu ar kitokiu
 
-sužalojimu, taip pat maitintojo gyvybės atėmimu, atlyginimą ir žalos, padarytos
+sveikatos sužalojimu, taip pat maitintojo gyvybės atėmimu, atlyginimą ir žalos,
 
-nusikalstama veika, atlyginimą, – iki penkiasdešimties procentų, jeigu kitaip
+padarytos nusikalstama veika, atlyginimą, – iki penkiasdešimties procentų,
 
-nenustatyta pačiame vykdomajame rašte arba ko kita nenustato įstatymai ar
+jeigu kitaip nenustatyta pačiame vykdomajame rašte arba ko kita nenustato
 
-teismas;
+įstatymai ar teismas;
 
 2) visų kitų
 
@@ -23325,17 +23309,17 @@ Vyriausybės nustatytą MMA dydį, išskaitoma septyniasdešimt procentų, jeigu
 
 kita nenustato įstatymai ar teismas.
 
-3. Jeigu skolininkas
+3. Jeigu
 
-išlaiko nedarbingus šeimos narius, esant jo rašytiniam prašymui, antstolio
+skolininkas išlaiko nedarbingus šeimos narius, esant jo rašytiniam prašymui,
 
-patvarkymu šio straipsnio 2 dalyje nurodyta išskaitoma dalis gali būti mažinama
+antstolio patvarkymu šio straipsnio 2 dalyje nurodyta išskaitoma dalis gali
 
-po dešimt procentų kiekvienam išlaikytiniui, tačiau taip mažinant negali būti
+būti mažinama po dešimt procentų kiekvienam išlaikytiniui, tačiau taip mažinant
 
-sumažinta įstatymų ar teismo nustatyta dalis. Mažinant išskaitų dydį,
+negali būti sumažinta įstatymų ar teismo nustatyta dalis. Mažinant išskaitų
 
-neatsižvelgiama į išlaikytinius, kuriems išlaikyti iš skolininko darbo
+dydį, neatsižvelgiama į išlaikytinius, kuriems išlaikyti iš skolininko darbo
 
 užmokesčio daromos išskaitos.
 
@@ -23343,9 +23327,9 @@ užmokesčio daromos išskaitos.
 
 pajamų, prilygintų darbo užmokesčiui
 
-Išieškojimo iš darbo
+Išieškojimo iš
 
-užmokesčio taisyklės taip pat taikomos ir išieškant iš skolininkui
+darbo užmokesčio taisyklės taip pat taikomos ir išieškant iš skolininkui
 
 priklausančių:
 
@@ -23419,11 +23403,11 @@ kompensacijos, kurios mokamos, kai dirbama nukrypstant nuo normalių darbo
 
 sąlygų;
 
-2) sumos,
+2) sumos, mokamos
 
-mokamos darbuotojui, vykstančiam į tarnybinę komandiruotę, perkeliamam, priimamam
+darbuotojui, vykstančiam į tarnybinę komandiruotę, perkeliamam, priimamam į
 
-į darbą ir pasiųstam dirbti į kitas vietoves;
+darbą ir pasiųstam dirbti į kitas vietoves;
 
 3) valstybinio
 
@@ -23559,9 +23543,9 @@ apie papildomą uždarbį.
 
 Be svarbių priežasčių nepranešusiems šio straipsnio 1 dalyje nurodytų duomenų
 
-kaltiems asmenims bei skolininkui antstolio ar išieškotojo pareiškimu teismas gali
+kaltiems asmenims bei skolininkui antstolio ar išieškotojo pareiškimu teismas
 
-paskirti iki vieno tūkstančio litų dydžio baudą.
+gali paskirti iki vieno tūkstančio litų dydžio baudą.
 
 3. Asmuo,
 
@@ -23681,7 +23665,9 @@ hipoteka ar įkeitimu užtikrintą įsipareigojimą ar jo dalį. Raginimo turini
 
 įteikęs raginimą įvykdyti hipoteka ar įkeitimu užtikrintą įsipareigojimą,
 
-antstolis areštuoja įkaito davėjo turtą šio Kodekso XLVIII skyriaus nustatyta tvarka.
+antstolis areštuoja įkaito davėjo turtą šio Kodekso XLVIII skyriaus nustatyta
+
+tvarka.
 
 3. Jeigu
 
@@ -23713,19 +23699,19 @@ Hipotekos registrui ir pateikia tai patvirtinančius dokumentus.
 
 4. Kai išieškoma
 
-pagal įmonės hipotekos sandorį, vykdomąjį įrašą priėmęs vykdyti antstolis šio
+pagal įmonės hipotekos sandorį, vykdomąjį įrašą priėmęs vykdyti antstolis šio Kodekso
 
-Kodekso 677 straipsnyje nustatyta tvarka sudaro hipotekos objektu esančios
+677 straipsnyje nustatyta tvarka sudaro hipotekos objektu esančios įmonės turto
 
-įmonės turto aprašą ir priima patvarkymą paskirti hipotekos kreditorių arba
+aprašą ir priima patvarkymą paskirti hipotekos kreditorių arba kreditoriaus
 
-kreditoriaus sutikimu kitą asmenį įmonės turto administratoriumi. Šiuo atveju
+sutikimu kitą asmenį įmonės turto administratoriumi. Šiuo atveju įkeistos
 
-įkeistos įmonės valdymo organai iš administruojamo įmonės turto gaunamas
+įmonės valdymo organai iš administruojamo įmonės turto gaunamas pajamas perveda
 
-pajamas perveda į antstolio depozitinę sąskaitą, iš kurios lėšos paskirstomos
+į antstolio depozitinę sąskaitą, iš kurios lėšos paskirstomos hipotekos
 
-hipotekos kreditoriams atsižvelgiant į jų reikalavimų tenkinimo eilę.
+kreditoriams atsižvelgiant į jų reikalavimų tenkinimo eilę.
 
 5. Kai
 
@@ -23739,9 +23725,9 @@ Fizinių asmenų bankroto įstatymų nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1843, 2011-12-22,
+Nr. XI-1843,
 
-Žin., 2012, Nr. 6-179 (2012-01-10)
+2011-12-22, Žin., 2012, Nr. 6-179 (2012-01-10)
 
 Nr.
 
@@ -23749,9 +23735,9 @@ XII-138,
 
 2012-12-20, Žin., 2012, Nr. 155-8004 (2012-12-31)
 
-Nr. XII-889, 2014-05-15,
+Nr. XII-889,
 
-paskelbta TAR 2014-05-21, i. k. 2014-05571
+2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05571
 
 747 straipsnis.
 
@@ -24023,9 +24009,9 @@ teismo nuosprendį, nutartį ar nutarimą dėl turto konfiskavimo, skolininko
 
 turtas perduodamas realizuoti po to, kai yra patenkinti iki teismo nuosprendžio
 
-priėmimo dienos pareikšti nuteistojo kreditorių turtiniai reikalavimai ir
+priėmimo dienos pareikšti nuteistojo kreditorių turtiniai reikalavimai ir padengtos
 
-padengtos su tuo susijusios vykdymo išlaidos.
+su tuo susijusios vykdymo išlaidos.
 
 2.
 
@@ -24093,9 +24079,9 @@ kurios turi būti įskaitytos į valstybės pajamas, gali būti tiesiogiai sumok
 
 Straipsnio pakeitimai:
 
-Nr. XI-1480,
+Nr. XI-1480, 2011-06-21,
 
-2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 759
 
@@ -24233,11 +24219,11 @@ duomenimis ar suklastotais dokumentais.
 
 4. Apeliacine ar
 
-kasacine tvarka panaikinus sprendimą bylose dėl darbo užmokesčio ar jam
+kasacine tvarka panaikinus sprendimą bylose dėl darbo užmokesčio ar jam prilygintų
 
-prilygintų išmokų išieškojimo, atgręžti įvykdymą leidžiama tik tais atvejais,
+išmokų išieškojimo, atgręžti įvykdymą leidžiama tik tais atvejais, kai gavėjas
 
-kai gavėjas veikė nesąžiningai ar buvo padaryta sąskaitybos klaidų.
+veikė nesąžiningai ar buvo padaryta sąskaitybos klaidų.
 
 Straipsnio pakeitimai:
 
@@ -24257,9 +24243,9 @@ straipsnis. Nepiniginio pobūdžio sprendimų bendroji vykdymo tvarka
 
 Nepiniginio
 
-pobūdžio teismo sprendimai vykdomi laikantis bendrų šio Kodekso VI dalyje
+pobūdžio teismo sprendimai vykdomi laikantis bendrų šio Kodekso VI dalyje nurodytų
 
-nurodytų nuostatų su šiame skyriuje nurodytomis išimtimis.
+nuostatų su šiame skyriuje nurodytomis išimtimis.
 
 764
 
@@ -24285,11 +24271,13 @@ teismo sprendimą dėl vaiko perdavimo, antstolis vykdymo veiksmus atlieka
 
 dalyvaujant išieškotojui ir valstybinės vaiko teisių apsaugos institucijos
 
-atstovui. Užtikrinant vaiko teisių apsaugą, bet kurios iš proceso šalių ar valstybinės
+atstovui. Užtikrinant vaiko teisių apsaugą, bet kurios iš proceso šalių ar
 
-vaiko teisių apsaugos institucijos atstovo prašymu arba antstolio sprendimu
+valstybinės vaiko teisių apsaugos institucijos atstovo prašymu arba antstolio
 
-dalyvauti vykdymo procese antstolio patvarkymu kviečiamas psichologas.
+sprendimu dalyvauti vykdymo procese antstolio patvarkymu kviečiamas
+
+psichologas.
 
 3. Kai skolininkas
 
@@ -24337,9 +24325,9 @@ antstolis paima tuos daiktus iš skolininko ar trečiojo asmens ir perduoda
 
 išieškotojui.
 
-2. Jeigu
+2. Jeigu sprendime
 
-sprendime nurodytų daiktų nėra, antstolis surašo tai patvirtinantį aktą ir vykdomasis
+nurodytų daiktų nėra, antstolis surašo tai patvirtinantį aktą ir vykdomasis
 
 dokumentas grąžinamas išieškotojui.
 
@@ -24417,9 +24405,9 @@ skolininkui.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1480,
+Nr. XI-1480, 2011-06-21,
 
-2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 767 straipsnis. Įkeldinimas į gyvenamąsias patalpas
 
@@ -24431,11 +24419,11 @@ sprendimą į gyvenamąsias patalpas turi būti įkeldinami tik tie asmenys, kur
 
 nurodyti vykdomajame rašte.
 
-2. Apie
+2. Apie įkeldinimo
 
-įkeldinimo laiką prieš penkias darbo dienas raštu pranešama skolininkui
+laiką prieš penkias darbo dienas raštu pranešama skolininkui ir
 
-ir išieškotojui. Įkeldinama paprastai jiems dalyvaujant.
+išieškotojui. Įkeldinama paprastai jiems dalyvaujant.
 
 3. Jeigu
 
@@ -24485,9 +24473,9 @@ padedant policijai.
 
 4.
 
-Jeigu yra pateisinamų priežasčių, teismas, davęs sankciją iškeldinti
+Jeigu yra pateisinamų priežasčių, teismas, davęs sankciją iškeldinti prokuroras,
 
-prokuroras, taip pat aukštesnysis prokuroras pagal suinteresuotų asmenų ar antstolio
+taip pat aukštesnysis prokuroras pagal suinteresuotų asmenų ar antstolio
 
 pareiškimą turi teisę atidėti iškeldinimą.
 
@@ -24509,9 +24497,9 @@ skolininkui.
 
 3.
 
-Jeigu nesuteikiant kitos gyvenamosios patalpos iškeldinami nepilnamečiai
+Jeigu nesuteikiant kitos gyvenamosios patalpos iškeldinami nepilnamečiai vaikai,
 
-vaikai, apie iškeldinimo laiką ir vietą antstolis, siųsdamas raginimą, bet ne vėliau
+apie iškeldinimo laiką ir vietą antstolis, siųsdamas raginimą, bet ne vėliau
 
 kaip prieš trisdešimt dienų iki iškeldinimo dienos raštu praneša valstybinei
 
@@ -24591,9 +24579,9 @@ taisykles.
 
 nagrinėjant klausimą dėl sprendimo neįvykdymo paaiškėja, kad išieškotojas
 
-neturi lėšų sprendimui įvykdyti, teismas išieškotojo prašymu priima nutartį
+neturi lėšų sprendimui įvykdyti, teismas išieškotojo prašymu priima nutartį išieškoti
 
-išieškoti reikiamas lėšas iš skolininko.
+reikiamas lėšas iš skolininko.
 
 5. Jeigu per
 
@@ -24671,9 +24659,9 @@ UŽSIENIO TEISMŲ IR ARBITRAŽŲ SPRENDIMŲ
 
 VYKDYMO YPATUMAI
 
-773 straipsnis. Užsienio teismų ir arbitražų
+773 straipsnis. Užsienio teismų ir arbitražų sprendimų
 
-sprendimų vykdymo bendroji tvarka
+vykdymo bendroji tvarka
 
 1. Šiame
 
@@ -24731,9 +24719,9 @@ apeliaciniam teismui, antstolis apie tai praneša išieškotojui. Išieškotojui
 
 antstolis taip pat praneša apie Lietuvos Respublikoje pagal tą vykdomąjį raštą
 
-atliktus išieškojimus. Išieškotojas turi teisę kreiptis į Lietuvos apeliacinį
+atliktus išieškojimus. Išieškotojas turi teisę kreiptis į Lietuvos apeliacinį teismą
 
-teismą dėl vykdomojo rašto pakartotinio pateikimo vykdyti.
+dėl vykdomojo rašto pakartotinio pateikimo vykdyti.
 
 779 straipsnis. Skolininko paieška vykdant užsienio
 
@@ -24795,13 +24783,13 @@ neišnyksta, kai ta pati byla yra nagrinėjama užsienio valstybės teisme.
 
 straipsnis. Neteismingumo pasekmės
 
-Bylą nagrinėjantis
+Bylą
 
-teismas privalo savo iniciatyva patikrinti, ar byla teisminga Lietuvos
+nagrinėjantis teismas privalo savo iniciatyva patikrinti, ar byla teisminga
 
-Respublikos teismams. Jeigu teismas jau po bylos iškėlimo konstatuoja, kad byla
+Lietuvos Respublikos teismams. Jeigu teismas jau po bylos iškėlimo konstatuoja,
 
-nėra teisminga Lietuvos Respublikos teismams, pareiškimas paliekamas
+kad byla nėra teisminga Lietuvos Respublikos teismams, pareiškimas paliekamas
 
 nenagrinėtas.
 
@@ -24889,11 +24877,11 @@ straipsnis. Tėvų ir vaikų teisinių santykių bylų teismingumas
 
 Respublikos teismai išimtinai nagrinėja tėvų ir vaikų teisinių santykių,
 
-įvaikinimo teisinių santykių bylas, jeigu nors viena iš šalių yra Lietuvos Respublikos
+įvaikinimo teisinių santykių bylas, jeigu nors viena iš šalių yra Lietuvos
 
-pilietis arba asmuo be pilietybės ir tos šalies nuolatinė gyvenamoji vieta yra
+Respublikos pilietis arba asmuo be pilietybės ir tos šalies nuolatinė
 
-Lietuvos Respublikoje.
+gyvenamoji vieta yra Lietuvos Respublikoje.
 
 2. Jeigu abiejų
 
@@ -24979,11 +24967,11 @@ kurioms numatoma išimtinė Lietuvos Respublikos teismų kompetencija.
 
 2. Į šio
 
-straipsnio 1 dalyje esančius susitarimus teismas atsižvelgia tik esant
+straipsnio 1 dalyje esančius susitarimus teismas atsižvelgia tik esant suinteresuotos
 
-suinteresuotos šalies prašymui. Prašymas gali būti paduodamas iki bylos nagrinėjimo
+šalies prašymui. Prašymas gali būti paduodamas iki bylos nagrinėjimo iš esmės
 
-iš esmės pradžios.
+pradžios.
 
 Ketvirtasis
 
@@ -25065,9 +25053,9 @@ tarptautinės organizacijos;
 
 iš paveldėjimo teisinių santykių;
 
-3) ginčas kyla iš
+3) ginčas kyla
 
-kitų ūkinių komercinių santykių, kuriuose šio straipsnio 1 dalyje nurodyti
+iš kitų ūkinių komercinių santykių, kuriuose šio straipsnio 1 dalyje nurodyti
 
 asmenys dalyvauja ne kaip asmenys, kuriems yra taikomas diplomatinis
 
@@ -25085,13 +25073,13 @@ valstybės tarnautojai, kitų valstybių vardu atliekantys konsulines funkcijas,
 
 neatsižvelgiant į jų turimą pilietybę;
 
-2) jie yra
+2) jie yra užsieniečiai
 
-užsieniečiai – administraciniai ar techniniai užsienio valstybių diplomatinių
+– administraciniai ar techniniai užsienio valstybių diplomatinių atstovybių ar
 
-atstovybių ar konsulatų darbuotojai ar kiti tarptautinių sutarčių, įstatymų ar
+konsulatų darbuotojai ar kiti tarptautinių sutarčių, įstatymų ar tarptautinių
 
-tarptautinių papročių galia jiems prilyginti asmenys.
+papročių galia jiems prilyginti asmenys.
 
 4. Šio
 
@@ -25401,9 +25389,9 @@ kurį reikalaujama atlikti, prieštarautų Lietuvos Respublikos viešajai tvarka
 
 arba jos nepriklausomybei;
 
-2) atlikti
+2) atlikti reikalaujamus
 
-reikalaujamus veiksmus nepriklauso Lietuvos Respublikos teismų kompetencijai;
+veiksmus nepriklauso Lietuvos Respublikos teismų kompetencijai;
 
 3) valstybė, iš
 
@@ -25459,9 +25447,9 @@ straipsnis. Lietuvos teismų kreipimasis dėl teisinės pagalbos
 
 suteikti teisinę pagalbą užsienyje Lietuvos Respublikos teismai gali kreiptis į
 
-Lietuvos Respublikos diplomatines atstovybes, konsulatus, užsienio teismus ar
+Lietuvos Respublikos diplomatines atstovybes, konsulatus, užsienio teismus ar kitas
 
-kitas valstybės institucijas.
+valstybės institucijas.
 
 2. Į Lietuvos
 
@@ -25489,13 +25477,13 @@ turi teisę prašyti užsienio valstybės teismo leisti naudoti ryšių technolo
 
 (videokonferenciją, telekonferenciją ir kitas) renkant įrodymus.
 
-4. Šio straipsnio
+4. Šio
 
-3 dalis taip pat yra taikoma ir tais atvejais, kai per Lietuvos Respublikos
+straipsnio 3 dalis taip pat yra taikoma ir tais atvejais, kai per Lietuvos
 
-ambasadą ar konsulatą šio straipsnio 2 dalyje nurodytų veiksmų atlikti
+Respublikos ambasadą ar konsulatą šio straipsnio 2 dalyje nurodytų veiksmų
 
-neįmanoma.
+atlikti neįmanoma.
 
 5. Neteko galios
 
@@ -25549,9 +25537,9 @@ ir nenurodo įgalioto asmens, visi procesiniai dokumentai, skirti užsienyje
 
 esančiai šaliai, lieka byloje ir yra laikomi įteiktais. Šios pasekmės šaliai
 
-turi būti išaiškintos pirmojo įteikimo metu. Šaliai taip pat turi būti
+turi būti išaiškintos pirmojo įteikimo metu. Šaliai taip pat turi būti išaiškinta
 
-išaiškinta pareiga pateikti atsiliepimą dėl pareikšto ieškinio ir šio atsiliepimo
+pareiga pateikti atsiliepimą dėl pareikšto ieškinio ir šio atsiliepimo
 
 nepateikimo pasekmės, taip pat turi būti išaiškinta, kas gali būti įgaliotu
 
@@ -25611,15 +25599,15 @@ officio).
 
 2. Jeigu
 
-užsienio teisės taikymą numato šalių susitarimas, tai visus įrodymus,
+užsienio teisės taikymą numato šalių susitarimas, tai visus įrodymus, susijusius
 
-susijusius su taikomos užsienio teisės normų turiniu, pagal tos teisės oficialų
+su taikomos užsienio teisės normų turiniu, pagal tos teisės oficialų aiškinimą,
 
-aiškinimą, jos taikymo praktiką ir doktriną atitinkamoje užsienio valstybėje
+jos taikymo praktiką ir doktriną atitinkamoje užsienio valstybėje pateikia
 
-pateikia ginčo šalis, kuri remiasi užsienio teise. Šalies prašymu teismas gali
+ginčo šalis, kuri remiasi užsienio teise. Šalies prašymu teismas gali padėti
 
-padėti jai surinkti informaciją apie taikytiną užsienio teisę.
+jai surinkti informaciją apie taikytiną užsienio teisę.
 
 3. Jeigu teismui
 
@@ -25735,9 +25723,9 @@ iškėlimą bei proceso metu nebuvo sudarytos procesinės gynybos galimybės, o 
 
 atvejais, kai ji buvo neveiksni, – tinkamo atstovavimo galimybės;
 
-4) užsienio teismo
+4) užsienio
 
-sprendimas, kurio pripažinimo yra prašoma, nėra suderinamas su Lietuvos
+teismo sprendimas, kurio pripažinimo yra prašoma, nėra suderinamas su Lietuvos
 
 Respublikos teismo sprendimu, priimtu byloje tarp tų pačių šalių;
 
@@ -25775,9 +25763,9 @@ straipsnio 2 dalyje. Šiuo atveju atsisakyti pripažinti užsienio teismo
 
 sprendimą Lietuvos apeliacinis teismas gali tik motyvuodamas tuo, kad tas
 
-sprendimas prieštarauja Lietuvos Respublikos Konstitucijoje įtvirtintai
+sprendimas prieštarauja Lietuvos Respublikos Konstitucijoje įtvirtintai viešajai
 
-viešajai tvarkai.
+tvarkai.
 
 4. Sprendžiant
 
@@ -25885,11 +25873,11 @@ nagrinėjimas
 
 1. Prašymus dėl
 
-užsienio arbitražo sprendimų pripažinimo ir vykdymo nagrinėja Lietuvos apeliacinio
+užsienio arbitražo sprendimų pripažinimo ir vykdymo nagrinėja Lietuvos
 
-teismo trijų teisėjų kolegija rašytinio proceso tvarka. Apie rašytinį procesą
+apeliacinio teismo trijų teisėjų kolegija rašytinio proceso tvarka. Apie
 
-arbitražo proceso šalims pranešama pranešimais.
+rašytinį procesą arbitražo proceso šalims pranešama pranešimais.
 
 2. Teismo
 
@@ -30829,9 +30817,9 @@ ryšių priemonėmis šio Kodekso nustatyta tvarka.
 
 Kodeksas papildytas straipsniu:
 
-Nr. XI-1480, 2011-06-21,
+Nr. XI-1480,
 
-Žin., 2011, Nr. 85-4126 (2011-07-13)
+2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 Straipsnio
 
@@ -30885,13 +30873,11 @@ administratorių;
 
 išieškotojo ir skolininko sudarytą taikos sutartį;
 
-6) kai
+6) kai atnaujinamas
 
-atnaujinamas apeliacinio skundo padavimo terminas, jeigu pagrindas vykdomajam
+apeliacinio skundo padavimo terminas, jeigu pagrindas vykdomajam raštui išduoti
 
-raštui išduoti buvo apskųstasis sprendimas (išskyrus skubiai vykdytinus
-
-sprendimus).
+buvo apskųstasis sprendimas (išskyrus skubiai vykdytinus sprendimus).
 
 2. Antstolis
 
@@ -31135,27 +31121,27 @@ nevykdoma teismo patvirtinta taikos sutartis, suinteresuota šalis gali kreiptis
 
 prašymas nagrinėjamas rašytinio proceso tvarka. Teismui pripažinus, kad tai yra
 
-būtina, šioje dalyje nurodytas prašymas išduoti vykdomąjį raštą gali būti nagrinėjamas
+būtina, šioje dalyje nurodytas prašymas išduoti vykdomąjį raštą gali būti
 
-teismo posėdyje, pranešus dalyvaujantiems byloje asmenims, tačiau šių asmenų
+nagrinėjamas teismo posėdyje, pranešus dalyvaujantiems byloje asmenims, tačiau
 
-neatvykimas nekliudo teismui išspręsti vykdomojo rašto išdavimo klausimą.
+šių asmenų neatvykimas nekliudo teismui išspręsti vykdomojo rašto išdavimo
 
-Teismas, ištyręs šalių nurodytas aplinkybes ir pateiktus įrodymus apie taikos
+klausimą. Teismas, ištyręs šalių nurodytas aplinkybes ir pateiktus įrodymus
 
-sutarties sąlygų vykdymą, dėl neįvykdytos taikos sutarties dalies išduoda
+apie taikos sutarties sąlygų vykdymą, dėl neįvykdytos taikos sutarties dalies
 
-vykdomąjį raštą arba atsisako jį išduoti. Spręsdamas vykdomojo rašto išdavimo
+išduoda vykdomąjį raštą arba atsisako jį išduoti. Spręsdamas vykdomojo rašto
 
-klausimą, teismas gali pakeisti šalių taikos sutartyje numatytų sąlygų vykdymo
+išdavimo klausimą, teismas gali pakeisti šalių taikos sutartyje numatytų sąlygų
 
-tvarką nekeisdamas šalių susitarimo esmės. Teismas, atsisakęs išduoti vykdomąjį
+vykdymo tvarką nekeisdamas šalių susitarimo esmės. Teismas, atsisakęs išduoti
 
-raštą dėl taikos sutarties sąlygų vykdymo, išaiškina šalims teisę kreiptis dėl
+vykdomąjį raštą dėl taikos sutarties sąlygų vykdymo, išaiškina šalims teisę
 
-teismo nutarties, kuria patvirtinta taikos sutartis, peržiūrėjimo proceso
+kreiptis dėl teismo nutarties, kuria patvirtinta taikos sutartis, peržiūrėjimo
 
-atnaujinimo tvarka. Dėl teismo nutarties išduoti ar atsisakyti išduoti
+proceso atnaujinimo tvarka. Dėl teismo nutarties išduoti ar atsisakyti išduoti
 
 vykdomąjį raštą gali būti paduotas atskirasis skundas.
 
@@ -31175,17 +31161,19 @@ vykdomojo rašto – skaitmeninės kopijos).
 
 6. Teismas
 
-neišduoda vykdomojo rašto, kai yra pasibaigęs šio Kodekso 606 straipsnyje nustatytas
+neišduoda vykdomojo rašto, kai yra pasibaigęs šio Kodekso 606 straipsnyje
 
-vykdomojo rašto pateikimo vykdyti senaties terminas, išskyrus atvejus, kai šis
+nustatytas vykdomojo rašto pateikimo vykdyti senaties terminas, išskyrus
 
-terminas buvo atnaujintas šio Kodekso 608 straipsnio nustatyta tvarka.
+atvejus, kai šis terminas buvo atnaujintas šio Kodekso 608 straipsnio nustatyta
+
+tvarka.
 
 Straipsnio pakeitimai:
 
-Nr. XI-1480, 2011-06-21,
+Nr. XI-1480,
 
-Žin., 2011, Nr. 85-4126 (2011-07-13)
+2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 Nr. XII-889,
 
@@ -31273,9 +31261,9 @@ rašto išdavimo laikas;
 
 išieškotojo ir skolininko pavadinimas ir jų adresai, asmens kodas, juridinio
 
-asmens kodas, bankų rekvizitai (jeigu žinomi). Vykdomajame rašte dėl išlaikymo
+asmens kodas, bankų rekvizitai (jeigu žinomi). Vykdomajame rašte dėl išlaikymo periodinėmis
 
-periodinėmis išmokomis išieškojimo, be to, nurodomos vaikų gimimo datos.
+išmokomis išieškojimo, be to, nurodomos vaikų gimimo datos.
 
 2. Prireikus
 
@@ -31293,9 +31281,9 @@ vykdomasis raštas patvirtinamas teismo herbiniu antspaudu.
 
 pačiam sprendimui vykdyti išduodami keli vykdomieji raštai, tai pažymima
 
-vykdomajame rašte nurodant, kuris vykdomasis raštas pagrindinis, o kuris
+vykdomajame rašte nurodant, kuris vykdomasis raštas pagrindinis, o kuris antrinis,
 
-antrinis, tretinis ir t. t.
+tretinis ir t. t.
 
 5. Kitų vykdomųjų dokumentų turinį nustato kiti
 
@@ -32255,11 +32243,11 @@ prašymu į procesinį sprendimą priėmusį teismą, kad šis išaiškintų spr
 
 vykdymo tvarką arba įstatymo ar kito teisės akto normą, kurią reikia taikyti.
 
-2. Šio straipsnio
+2. Šio
 
-1 dalyje numatytą antstolio prašymą teismas nagrinėja šio Kodekso 593
+straipsnio 1 dalyje numatytą antstolio prašymą teismas nagrinėja šio Kodekso
 
-straipsnyje nustatyta tvarka.
+593 straipsnyje nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
@@ -32385,9 +32373,9 @@ Nr. XI-1480,
 
 612
 
-straipsnis. Teismo priimamų sprendimų forma vykdymo
+straipsnis. Teismo priimamų sprendimų forma vykdymo proceso
 
-proceso metu
+metu
 
 Vykdymo
 
@@ -32423,11 +32411,11 @@ patvarkyme nurodomi ir kiti duomenys.
 
 3. Patvarkymo
 
-patvirtintos kopijos šiame Kodekse numatytais atvejais, o jeigu antstolis pripažįsta,
+patvirtintos kopijos šiame Kodekse numatytais atvejais, o jeigu antstolis
 
-kad tai reikalinga, ir kitais atvejais siunčiamos vykdymo proceso šalims ir
+pripažįsta, kad tai reikalinga, ir kitais atvejais siunčiamos vykdymo proceso
 
-kitiems suinteresuotiems asmenims.
+šalims ir kitiems suinteresuotiems asmenims.
 
 4. Rašymo
 
@@ -32463,11 +32451,11 @@ vykdomajame dokumente, antstolis turi nurodyti savo vardą ir pavardę, įrašo
 
 padarymo datą bei patvirtinti įrašą savo parašu ir antstolio antspaudu.
 
-3. Pakeisti įrašą
+3. Pakeisti
 
-vykdomajame dokumente apie nurodytą išieškotojo ar skolininko gyvenamąją ar
+įrašą vykdomajame dokumente apie nurodytą išieškotojo ar skolininko gyvenamąją
 
-buveinės vietą antstolis gali tik esant rašytiniam išieškotojo ar skolininko
+ar buveinės vietą antstolis gali tik esant rašytiniam išieškotojo ar skolininko
 
 prašymui ar po paieškos nustačius naują skolininko gyvenamąją vietą.
 
