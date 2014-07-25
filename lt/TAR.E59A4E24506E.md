@@ -4,7 +4,7 @@ identifier: "TAR.E59A4E24506E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-02"
-last_updated: "2012-11-24"
+last_updated: "2014-07-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E59A4E24506E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos susirinkimų įstatymas
 
-Suvestinė redakcija nuo 2012-11-24 iki 2014-07-24
+Suvestinė redakcija nuo 2014-07-25 iki 2018-02-28
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 69-1291, i. k. 0931010ISTA000I-317
 
@@ -86,7 +86,11 @@ BENDROSIOS NUOSTATOS
 
 4 straipsnis. Susirinkimų laikas ir vieta
 
-1. Susirinkimai ar pavienio asmens akcija gali vykti viešosiose vietose, gyvenamųjų vietovių gatvėse, aikštėse, parkuose, skveruose ir bendrojo naudojimo pastatuose visomis savaitės dienomis nuo 8 iki 22 valandos.
+1. Susirinkimai ar pavienio asmens akcija gali vykti viešosiose vietose, gyvenamųjų vietovių gatvėse, aikštėse, parkuose, skveruose ir bendrojo naudojimo pastatuose visomis savaitės dienomis nuo 8 iki 22 valandos. Suderinus susirinkimai gali būti organizuojami ir kitu paros metu, tačiau tik tose vietose, kuriose įrengtas stacionarus apšvietimas, ir netrikdant gyventojų poilsio.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1029, 2014-07-15, paskelbta TAR 2014-07-24, i. k. 2014-10480
 
 2. Neleidžiama organizuoti susirinkimų ar vykdyti pavienio asmens akcijos valstybės valdžios ir valdymo įstaigose, savivaldybių, policijos, areštinių, tardymo izoliatorių, bausmių vykdymo, sveikatos priežiūros, taip pat krašto apsaugos, Lietuvos Respublikos valstybės saugumo departamento sistemos, prokuratūros, teismų patalpose, Lietuvos banke ir kituose Lietuvos Respublikoje veikiančiuose bankuose, atominės energetikos, strateginę reikšmę nacionaliniam saugumui turinčiose įmonėse ir kitose nacionaliniam saugumui užtikrinti svarbiose įmonėse.
 
@@ -247,6 +251,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2385, 2012-11-08, Žin., 2012, Nr. 136-6956 (2012-11-24), i. k. 1121010ISTA0XI-2385
 
 Lietuvos Respublikos susirinkimų įstatymo pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1029, 2014-07-15, paskelbta TAR 2014-07-24, i. k. 2014-10480
+
+Lietuvos Respublikos susirinkimų įstatymo Nr. I-317 4 straipsnio pakeitimo įstatymas
 
 15 straipsnis. Susirinkimų vedimo tvarka
 
