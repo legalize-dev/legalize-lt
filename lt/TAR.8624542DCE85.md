@@ -4,7 +4,7 @@ identifier: "TAR.8624542DCE85"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-09-25"
-last_updated: "2013-12-14"
+last_updated: "2014-07-25"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8624542DCE85"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -116,9 +116,9 @@ tiek, kiek jų nereglamentuoja šioje dalyje nurodytas reglamentas.
 
 straipsnis. Šiame įstatyme vartojamos sąvokos
 
-1. Auditoriaus
+1.
 
-ataskaita dėl pastebėtų faktų – šio įstatymo nustatyta tvarka,
+Auditoriaus ataskaita dėl pastebėtų faktų – šio įstatymo nustatyta tvarka,
 
 vadovaujantis tarptautiniais susijusių paslaugų standartais ir pagal Lietuvos
 
@@ -130,11 +130,11 @@ atlikti darbo mastas, parengtas dokumentas, kuriame auditorius pateikia politin�
 
 kampanijos dalyvio nepriklausomo patikrinimo rezultatus.
 
-2. Auditorius
+2.
 
-– fizinis asmuo, turintis Lietuvos Respublikos audito įstatymo nustatyta tvarka
+Auditorius – fizinis asmuo, turintis Lietuvos Respublikos audito įstatymo
 
-suteiktą atestuoto auditoriaus vardą.
+nustatyta tvarka suteiktą atestuoto auditoriaus vardą.
 
 3. Politinė
 
@@ -628,6 +628,58 @@ komisijai, ar politinės partijos narių skaičius atitinka šio įstatymo
 
 reikalavimus.
 
+Redakcija nuo 2015-01-01:
+
+8. Politinės
+
+partijos privalo kiekvienais metais, ne vėliau kaip iki kovo 1 dienos ir ne
+
+vėliau kaip iki spalio 1 dienos, Lietuvos Respublikos Vyriausybės (toliau –
+
+Vyriausybė) nustatyta tvarka pateikti Teisingumo ministerijai savo politinės
+
+partijos narių sąrašą. Jeigu politinė partija įsisteigė po kovo 1 dienos, šiai
+
+partijai dėl rinkimų, vyksiančių iki kitų metų kovo 1 dienos, savo narių sąrašo
+
+pateikti nereikia. Teisingumo ministerijai teikiamuose politinių partijų narių
+
+sąrašuose turi būti nurodyta politinės partijos nario vardas, pavardė, asmens
+
+kodas, gyvenamosios vietos adresas. Šie duomenys turi būti patvirtinti
+
+politinės partijos vadovo arba jo įgalioto asmens parašu. Teisingumo
+
+ministerija patikrina politinių partijų narių sąrašus ir ne vėliau kaip iki
+
+kiekvienų metų balandžio 1 dienos ir iki lapkričio 1 dienos praneša
+
+Vyriausiajai rinkimų komisijai, ar politinės partijos narių skaičius
+
+atitinka šio įstatymo reikalavimus.
+
+Papildyta nuo 2015-01-01:
+
+9. Jeigu
+
+politinė partija šio straipsnio 8 dalyje nustatyta tvarka vienus metus
+
+nepateikia savo narių sąrašų, Teisingumo ministerija apie tai praneša Juridinių
+
+asmenų registro tvarkytojui ir šis inicijuoja politinės partijos likvidavimą
+
+Civilinio kodekso 2.70 straipsnyje nustatyta tvarka.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XII-1068,
+
+2014-07-17, paskelbta TAR 2014-07-24, i. k. 2014-10476
+
 6 straipsnis. Politinių
 
 partijų ir politinių organizacijų veiklos pasibaigimas
@@ -680,6 +732,20 @@ suvažiavimas (susirinkimas, konferencija) arba įstatymų nustatytais atvejais
 
 teismas.
 
+Redakcija nuo 2015-01-01:
+
+2. Sprendimą
+
+reorganizuoti arba likviduoti politinę partiją priima politinės partijos
+
+suvažiavimas (susirinkimas, konferencija) arba įstatymų nustatytais atvejais
+
+teismas. Kai yra Civilinio kodekso 2.70 straipsnyje numatytos aplinkybės,
+
+politinė partija gali būti likviduojama Juridinių asmenų registro tvarkytojo
+
+sprendimu.
+
 3.
 
 Reorganizuojant politinę partiją sujungimo ar padalijimo būdu, kai įvykdytos
@@ -712,9 +778,9 @@ dokumentus dėl duomenų ir steigimo dokumentų (jeigu jie buvo keičiami)
 
 pakeitimų įregistravimo. Nutraukusi veiklą politinė partija išregistruojama ir
 
-tęsiančios veiklą politinės partijos duomenų ir steigimo dokumentų pakeitimai įregistruojami
+tęsiančios veiklą politinės partijos duomenų ir steigimo dokumentų pakeitimai
 
-vienu metu.
+įregistruojami vienu metu.
 
 5. Jeigu
 
@@ -729,6 +795,36 @@ tvarka. Politinė partija likviduojama Civilinio kodekso nustatyta tvarka, jeigu
 per šešis mėnesius po narių sumažėjimo politinės partijos nariai nenusprendžia
 
 politinės partijos reorganizuoti ar pertvarkyti.
+
+Redakcija nuo 2015-01-01:
+
+5. Jeigu politinėje
+
+partijoje liko mažiau negu jai steigti reikalaujamas narių skaičius, per 30
+
+dienų apie tokį narių sumažėjimą politinė partija arba Teisingumo ministerija,
+
+šio įstatymo 8 straipsnio 8 dalyje nustatyta tvarka nustačiusi, kad politinės
+
+partijos narių skaičius neatitinka šio įstatymo reikalavimų, turi pranešti
+
+Juridinių asmenų registro tvarkytojui Juridinių asmenų registro nuostatuose
+
+nustatyta tvarka. Politinė partija likviduojama Civilinio kodekso nustatyta
+
+tvarka, jeigu per šešis mėnesius po narių sumažėjimo politinės partijos nariai
+
+nenusprendžia politinės partijos reorganizuoti ar pertvarkyti.
+
+Straipsnio
+
+pakeitimai:
+
+Nr.
+
+XII-1068,
+
+2014-07-17, paskelbta TAR 2014-07-24, i. k. 2014-10476
 
 TREČIASIS
 
@@ -990,9 +1086,9 @@ Politinės partijos nario mokesčiai yra:
 
 nario mokestis;
 
-2) periodinis
+2) periodinis nario
 
-nario mokestis.
+mokestis.
 
 3. Politinės
 
@@ -1024,11 +1120,11 @@ Vyriausiosios rinkimų komisijos informacinėje sistemoje patikrina, ar politin�
 
 partijos nario mokestis atitinka šio įstatymo reikalavimus dėl jo dydžio.
 
-Priimamas tik šio įstatymo reikalavimus atitinkantis nario mokestis. Šio įstatymo
+Priimamas tik šio įstatymo reikalavimus atitinkantis nario mokestis. Šio
 
-reikalavimų neatitinkantis nario mokestis laikomas neleistinu politinės
+įstatymo reikalavimų neatitinkantis nario mokestis laikomas neleistinu
 
-partijos finansavimo šaltiniu.
+politinės partijos finansavimo šaltiniu.
 
 5.
 
@@ -1138,9 +1234,7 @@ Valstybės biudžeto asignavimai politinėms partijoms gali būti naudojami tik:
 
 kampanijai finansuoti;
 
-2) rinkimų
-
-užstatui;
+2) rinkimų užstatui;
 
 3) ilgalaikiam
 
@@ -1292,19 +1386,19 @@ politinėms partijoms;
 
 3) paskutinio
 
-pakartotinio balsavimo vienmandatėse Seimo rinkimų apygardose. Jeigu
+pakartotinio balsavimo vienmandatėse Seimo rinkimų apygardose. Jeigu pakartotinis
 
-pakartotinis balsavimas, išrinkus Seimo narį rinkimuose, pakartotiniuose
+balsavimas, išrinkus Seimo narį rinkimuose, pakartotiniuose rinkimuose ar
 
-rinkimuose ar naujuose rinkimuose, nebuvo rengiamas, tai vietoj pakartotinio
+naujuose rinkimuose, nebuvo rengiamas, tai vietoj pakartotinio balsavimo
 
-balsavimo rezultatų imami paskutiniai rinkimų, pakartotinių rinkimų ar naujų
+rezultatų imami paskutiniai rinkimų, pakartotinių rinkimų ar naujų rinkimų
 
-rinkimų rezultatai šioje vienmandatėje rinkimų apygardoje. Jeigu kandidatą
+rezultatai šioje vienmandatėje rinkimų apygardoje. Jeigu kandidatą iškėlė
 
-iškėlė kelios politinės partijos, kandidato gauti balsai po lygiai paskirstomi
+kelios politinės partijos, kandidato gauti balsai po lygiai paskirstomi jį
 
-jį iškėlusioms politinėms partijoms.
+iškėlusioms politinėms partijoms.
 
 4.
 
@@ -1322,11 +1416,11 @@ veiklai finansuoti, kandidatus, nustatomas visų balsų skaičius;
 
 2) vieno rinkėjo
 
-balso pusės metų finansinis koeficientas nustatomas pusę valstybės biudžeto asignavimų,
+balso pusės metų finansinis koeficientas nustatomas pusę valstybės biudžeto
 
-skirtų politinės partijos veiklai finansuoti, dalijant iš visų rinkėjų balsų
+asignavimų, skirtų politinės partijos veiklai finansuoti, dalijant iš visų
 
-skaičiaus;
+rinkėjų balsų skaičiaus;
 
 3) politinei
 
@@ -1436,9 +1530,9 @@ politinės partijos finansinių ataskaitų rinkinį, šio straipsnio 2 dalyje
 
 nurodytą jo priedą, auditoriaus ataskaitą dėl pastebėtų faktų, jeigu ji
 
-privaloma, ir politinės partijos narių mokesčių registracijos žurnalą.
+privaloma, ir politinės partijos narių mokesčių registracijos žurnalą. Prireikus
 
-Prireikus Vyriausioji rinkimų komisija teisės aktų nustatyta tvarka turi teisę
+Vyriausioji rinkimų komisija teisės aktų nustatyta tvarka turi teisę
 
 susipažinti su politinės partijos finansinių ataskaitų rinkinio duomenis
 
@@ -1674,11 +1768,11 @@ partija, jos valdymo organai ar jų nariai sudaro politinės partijos finansavim
 
 sandorius, pažeisdami šio įstatymo reikalavimus.
 
-4. Jeigu
+4. Jeigu nustatoma,
 
-nustatoma, kad politinės partijos veikla yra netinkama, teismas gali taikyti
+kad politinės partijos veikla yra netinkama, teismas gali taikyti vieną iš šių
 
-vieną iš šių priemonių:
+priemonių:
 
 1) laikinai
 
@@ -2038,19 +2132,19 @@ dalyje nustatyto minimalaus politinės partijos narių skaičiaus, politinė
 
 partija likviduojama Lietuvos Respublikos civilinio kodekso nustatyta tvarka.
 
-Iki šio įstatymo
+Iki šio įstatymo įsigaliojimo
 
-įsigaliojimo įsteigta politinė partija, kurios narių skaičius neatitinka
+įsteigta politinė partija, kurios narių skaičius neatitinka Politinių partijų
 
-Politinių partijų įstatymo 5 straipsnio 3 dalyje nustatyto minimalaus narių
+įstatymo 5 straipsnio 3 dalyje nustatyto minimalaus narių skaičiaus politinei
 
-skaičiaus politinei partijai įsteigti, turi teisę 2 metus nuo šio įstatymo
+partijai įsteigti, turi teisę 2 metus nuo šio įstatymo įsigaliojimo dienos
 
-įsigaliojimo dienos įstatymų nustatyta tvarka dalyvauti rinkimų ir referendumo
+įstatymų nustatyta tvarka dalyvauti rinkimų ir referendumo politinėse
 
-politinėse kampanijose, gali kelti kandidatus rinkimuose, gauti valstybės
+kampanijose, gali kelti kandidatus rinkimuose, gauti valstybės biudžeto
 
-biudžeto asignavimus.
+asignavimus.
 
 Šio
 
@@ -2064,13 +2158,35 @@ skelbtas: Žin., 2013, Nr. 133 (2013-12-21)
 
 skelbtas: Žin., 2013, Nr. 135 (2013-12-27)
 
+12.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr.
+
+XII-1068,
+
+2014-07-17, paskelbta TAR 2014-07-24, i. k. 2014-10476
+
+LIETUVOS
+
+RESPUBLIKOS POLITINIŲ PARTIJŲ ĮSTATYMO NR. I-606 8 IR 9 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
+Šis
+
+įstatymas įsigalioja 2015 m. sausio 1 d.
+
 ***
 
 Pabaiga ***
 
 Redagavo
 
-Aušrinė Trapinskienė (2013-12-16)
+Aušrinė Trapinskienė (2014-07-29)
 
 ausrine.trapinskiene@lrs.lt
 
