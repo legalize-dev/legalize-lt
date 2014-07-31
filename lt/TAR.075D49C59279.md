@@ -4,7 +4,7 @@ identifier: "TAR.075D49C59279"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-07-25"
-last_updated: "2014-05-01"
+last_updated: "2014-07-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.075D49C59279"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -3647,6 +3647,8 @@ tarnybinėms daloms;
 
 pramoninių žuvininkystės tvenkinių (išskyrus grąžinamus natūra);
 
+Netenka galios nuo 2015-01-01.
+
 10) yra
 
 valstybinės reikšmės vandens telkiniuose esančios salos (išskyrus natūra
@@ -3678,6 +3680,10 @@ Nr. XI-1934,
 Nr. XII-414,
 
 2013-06-27, Žin., 2013, Nr. 76-3831 (2013-07-16)
+
+Nr. XII-1084,
+
+2014-07-17, paskelbta TAR 2014-07-30, i. k. 2014-10698
 
 14
 
@@ -5685,6 +5691,22 @@ nustatyta tvarka pateikti žemės valdos projekto (išskyrus žemės reformos
 
 kad toks žemės sklypas suprojektuotas žemės valdos projekte.
 
+31.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1084,
+
+2014-07-17, paskelbta TAR 2014-07-30, i. k. 2014-10698
+
+LIETUVOS RESPUBLIKOS ŽEMĖS REFORMOS ĮSTATYMO NR. I-1607
+
+13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas,
+
+išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. sausio 1 d.
+
 *** Pabaiga ***
 
 Konstitucinio
@@ -5711,7 +5733,7 @@ REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 *** Pabaiga ***
 
-Redagavo Aušrinė Trapinskienė (2014-05-02)
+Redagavo Aušrinė Trapinskienė (2014-07-31)
 
 ausrine.trapinskiene@lrs.lt
 
