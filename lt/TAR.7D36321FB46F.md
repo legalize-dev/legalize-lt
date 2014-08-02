@@ -4,7 +4,7 @@ identifier: "TAR.7D36321FB46F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-04-25"
-last_updated: "2014-04-30"
+last_updated: "2014-08-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7D36321FB46F"
 department: "Lietuvos Respublikos Seimas"
@@ -343,13 +343,13 @@ paskelbimo dienos arba nuo pranešimo apie jį gavimo dienos, arba, jei to nebuv
 
 padaryta, nuo tos dienos, kurią ieškovas apie jį sužinojo, apskųsti Europos
 
-Teisingumo Teismui, motyvuodamas Europos Bendrijos steigimo sutarties ar kitos teisės
+Teisingumo Teismui, motyvuodamas Europos Bendrijos steigimo sutarties ar kitos
 
-normos, susijusios su minėtos sutarties taikymu, pažeidimu. Lietuvos banko
+teisės normos, susijusios su minėtos sutarties taikymu, pažeidimu. Lietuvos
 
-valdybos pirmininko pavaduotojai ir valdybos nariai sprendimą dėl atleidimo
+banko valdybos pirmininko pavaduotojai ir valdybos nariai sprendimą dėl
 
-prieš terminą turi teisę apskųsti Vilniaus apygardos teismui.“
+atleidimo prieš terminą turi teisę apskųsti Vilniaus apygardos teismui.“
 
 7 straipsnis. 14
 
@@ -507,9 +507,9 @@ skolindamas lėšas, adekvačias pakankamam įkaitui.“
 
 Straipsnio pakeitimai:
 
-Nr. XI-1667, 2011-11-17,
+Nr. XI-1667,
 
-Žin., 2011, Nr. 145-6813 (2011-12-01)
+2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
 
 12
 
@@ -777,11 +777,11 @@ Lietuvos bankas finansinę apskaitą tvarko, metinių finansinių ataskaitų rin
 
 (balansą, pelno (nuostolio) ataskaitą ir aiškinamąjį raštą) ir kitas finansines
 
-ataskaitas rengia vadovaudamasis Europos centrinio banko teisės aktais, gairėmis
+ataskaitas rengia vadovaudamasis Europos centrinio banko teisės aktais,
 
-ir nurodymais, reglamentuojančiais nacionalinių centrinių bankų vykdomų
+gairėmis ir nurodymais, reglamentuojančiais nacionalinių centrinių bankų
 
-operacijų apskaitą ir atskaitomybę.“
+vykdomų operacijų apskaitą ir atskaitomybę.“
 
 Straipsnio pakeitimai:
 
@@ -880,6 +880,240 @@ Straipsnio pakeitimai:
 Nr. XI-1667,
 
 2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
+
+4
+
+straipsnis. 8 straipsnio pakeitimas
+
+Pakeisti 8
+
+straipsnį ir jį išdėstyti taip:
+
+„8
+
+straipsnis. Lietuvos banko funkcijos ir veikla
+
+1. Vykdydamas
+
+Sutarties dėl Europos Sąjungos veikimo nuostatas ir veikdamas kaip sudedamoji
+
+Europos centrinių bankų sistemos dalis, Lietuvos bankas atlieka šias funkcijas:
+
+1) išleidžia
+
+banknotus ir vykdo kitą su tuo susijusią veiklą;
+
+2) įgyvendina
+
+pinigų politiką;
+
+3) valdo,
+
+naudoja Lietuvos banko oficialiąsias užsienio atsargas (toliau – užsienio
+
+atsargos) ir jomis disponuoja;
+
+4) skatina
+
+patvarų ir veiksmingą mokėjimo ir vertybinių popierių atsiskaitymo sistemų
+
+veikimą;
+
+5) renka Europos
+
+centrinių bankų sistemos uždaviniams vykdyti reikalingą statistinę informaciją
+
+iš valstybės ir savivaldybių institucijų ir ūkio subjektų.
+
+2. Lietuvos
+
+bankas taip pat:
+
+1) pagal
+
+susitarimą su Lietuvos Respublikos finansų ministerija (toliau – Finansų
+
+ministerija) atlieka valstybės iždo agento funkcijas;
+
+2) atlieka
+
+finansų rinkos priežiūrą;
+
+3) ne teismo
+
+tvarka nagrinėja vartotojų ir finansų rinkos dalyvių ginčus;
+
+4) renka Lietuvos
+
+banko funkcijoms, nesusijusioms su Europos centrinių bankų sistemos veikla,
+
+vykdyti reikalingą statistinę informaciją iš valstybės ir savivaldybių
+
+institucijų ir ūkio subjektų, nustato jos rinkimo, sudarymo ir platinimo
+
+tvarką, taip pat sudaro Lietuvos Respublikos mokėjimų ir tarptautinių
+
+investicijų balansus ir finansines sąskaitas;
+
+5) savo nustatyta
+
+tvarka, sąlygomis ir terminais gali duoti paskolas, užtikrintas įkeičiamu
+
+Lietuvos bankui pakankamu turtu, Lietuvos Respublikoje įregistruotoms kredito
+
+įstaigoms, jei tai neprieštarauja reikalavimams, atsirandantiems dėl Lietuvos
+
+banko dalyvavimo Europos centrinių bankų sistemoje, ypač reikalavimams,
+
+atsirandantiems dėl viešosios teisės subjektų vardu atliekamų operacijų;
+
+6) išleidžia
+
+monetas, laikydamasis Sutarties dėl Europos Sąjungos veikimo reikalavimų, ir
+
+vykdo kitą su tuo susijusią veiklą;
+
+7) vykdo
+
+politiką, kuria siekia prisidėti prie visos finansų sistemos stabilumo
+
+apsaugos, įskaitant finansų sistemos atsparumo stiprinimą ir sisteminės rizikos
+
+susidarymo mažinimą, kad būtų užtikrintas tvarus finansų sektoriaus įnašas į
+
+ekonomikos augimą (toliau – makroprudencinė politika).
+
+3. Lietuvos
+
+bankas vykdo veiklą, reikalingą šio straipsnio 1 ir 2 dalyse numatytoms
+
+funkcijoms įgyvendinti ir tam reikalingai infrastruktūrai sukurti bei
+
+palaikyti.
+
+4. Lietuvos
+
+bankas, atlikdamas savo funkcijas ir vykdydamas veiklą, dalyvauja palaikant
+
+visos finansų sistemos stabilumą ir patikimumą ir pagal savo kompetenciją imasi
+
+atitinkamų priemonių.“
+
+Straipsnio pakeitimas:
+
+Nr. XI-556,
+
+2009-12-10, Žin., 2009, Nr. 153-6894 (2009-12-28)
+
+Nr. XI-1667,
+
+2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
+
+Nr. XII-1046,
+
+2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10742
+
+5
+
+straipsnis. 11 straipsnio 1 dalies 1, 2, 3 ir 5 punktų pripažinimas netekusiais
+
+galios, 4, 8, 9, 16, 17 punktų ir 2 dalies pakeitimas
+
+1.
+
+11 straipsnio 1 dalies 1, 2 ir 3 punktus pripažinti netekusiais galios.
+
+2. Pakeisti 11
+
+straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
+
+„4)
+
+nustato užsienio atsargų, kurios Europos Sąjungos teisės aktų nustatyta tvarka
+
+nebuvo perduotos Europos centriniam bankui, valdymo, naudojimo ir disponavimo
+
+jomis principus ir tvarką, atitinkančius Europos centrinio banko reikalavimus,
+
+taikomus nacionalinių centrinių bankų užsienio atsargoms;“.
+
+3. 11 straipsnio 1 dalies 5 punktą
+
+pripažinti netekusiu galios.
+
+4. Pakeisti 11 straipsnio 1 dalies 8
+
+punktą ir jį išdėstyti taip:
+
+„8) Europos
+
+centriniam bankui pritarus, sprendžia klausimus dėl Lietuvos banko dalyvavimo
+
+tarptautinėse pinigų institucijose;“.
+
+5. Pakeisti 11 straipsnio 1 dalies 9
+
+punktą ir jį išdėstyti taip:
+
+„9)
+
+laikydamasi Sutarties dėl Europos
+
+Sąjungos veikimo reikalavimų, sprendžia banknotų
+
+ir monetų išleidimo, išėmimo iš apyvartos ir kitus su tuo susijusius klausimus;“.
+
+6. Pakeisti 11
+
+straipsnio 1 dalies 16 punktą ir jį išdėstyti taip:
+
+„16) vadovaudamasi Europos centrinio
+
+banko teisės aktų reikalavimais, nustato Lietuvos banko finansinės apskaitos
+
+politiką, tvirtina metinių finansinių ataskaitų rinkinį ir finansinių metų
+
+pelno paskirstymą, kaip nustatyta šio įstatymo 23 straipsnio 3 dalyje;“.
+
+7. Pakeisti 11 straipsnio 1 dalies 17
+
+punktą ir jį išdėstyti taip:
+
+„17)
+
+nustato Lietuvos banko turto valdymo, naudojimo ir disponavimo juo tvarką,
+
+kurios pagrindinis principas – siekti Europos centrinių bankų sistemos tikslų
+
+ir vykdyti uždavinius ekonomiškiausiomis, efektyviausiomis ir
+
+rezultatyviausiomis priemonėmis, taip pat nustato pirkimų tvarką;“.
+
+8. Pakeisti 11
+
+straipsnio 2 dalį ir ją išdėstyti taip:
+
+„2. Lietuvos
+
+banko valdyba gali dalį savo funkcijų pavesti vykdyti valdybos pirmininkui,
+
+išskyrus šio straipsnio 1 dalies 4, 6, 7, 9, 10, 12, 13, 14, 15, 16, 18,
+
+19 ir 20 punktuose numatytas funkcijas.“
+
+Straipsnio pakeitimai:
+
+Nr. XI-1320,
+
+2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
+
+Nr. XI-1667,
+
+2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
+
+Nr. XII-1046,
+
+2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10742
 
 32 straipsnis.
 
@@ -1191,17 +1425,41 @@ medžiagos saugojimo terminus nustato Lietuvos bankas.“
 
 31
 
-straipsnis. 55 straipsnio pakeitimas
+straipsnis. Neteko
 
-Pakeisti 55
+galios nuo 2014-08-02.
 
-straipsnį ir jį išdėstyti taip:
+Straipsnio pakeitimai:
 
-„55
+Nr. XII-1046,
 
-straipsnis. Informacijos skelbimas
+2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10742
 
-Lietuvos bankas
+32
 
-ne rečiau kaip vieną kartą per mėnesį skelbia statistinę ir kitą informaciją.“
+straipsnis. Įstatymo 2 priedo pakeitimas
+
+Papildyti
+
+Įstatymo 2 priedą 8 punktu:
+
+„8. 2002 m.
+
+birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų
+
+dėl finansinio įkaito (OL 2004 m. specialusis leidimas, 10
+
+skyrius, 3 tomas,
+
+p. 89).“
+
+Straipsnio pakeitimai:
+
+Nr. XI-1667,
+
+2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
+
+Nr. XII-1046,
+
+2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10742
 
