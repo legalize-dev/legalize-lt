@@ -4,7 +4,7 @@ identifier: "TAR.BF41D2C35D24"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-11"
-last_updated: "2012-01-01"
+last_updated: "2014-08-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2014-08-01
+Suvestinė redakcija nuo 2014-08-02 iki 2014-10-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
 
@@ -260,7 +260,17 @@ Kelių kategorijos nustatomos atsižvelgiant į transporto priemonių eismo pral
 
 –
 
-10 metrų.
+10 metrų;
+
+4) IV kategorijos kelių
+
+–
+
+8 metrai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1083, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10749
 
 3. Jeigu nutiestas ar tiesiamas kelias kai kuriuose ruožuose (iškasose, pylimuose) netelpa nustatyto pločio juostoje, tai šios juostos ribos nustatomos ne arčiau kaip po metrą nuo pylimo pado, iškasos ar kelio griovių išorinių kraštų.
 
@@ -286,11 +296,21 @@ po 50 metrų;
 
 po 20 metrų;
 
-4) vietinės reikšmės kelių
+4) vietinės reikšmės I–III kategorijos kelių
 
 –
 
-po 10 metrų.
+po 10 metrų;
+
+5) vietinės reikšmės IV kategorijos kelių
+
+–
+
+po 3 metrus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1083, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10749
 
 2. Kelio apsaugos zonas miestuose, kaimo gyvenamosiose vietovėse įstatymų nustatyta tvarka gali tikslinti Teritorijų planavimo įstatyme numatyti planavimo organizatoriai, turintys teisę tvirtinti teritorijų planavimo dokumentus (bendruosius, detaliuosius, specialiuosius planus).
 
@@ -463,6 +483,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. 1111010ISTA0XI-1634
 
 Lietuvos Respublikos kelių įstatymo 5, 7 straipsnių pakeitimo ir papildymo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
+
+Lietuvos Respublikos kelių įstatymo Nr. I-891 1, 2, 3, 4, 5, 7, 10, 17, 18, 20, 21 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1083, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10749
+
+Lietuvos Respublikos kelių įstatymo Nr. I-891 11 ir 12 straipsnių pakeitimo įstatymas
 
 25 straipsnis.
 
