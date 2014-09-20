@@ -4,7 +4,7 @@ identifier: "TAR.F12781EE4A08"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-09-19"
-last_updated: "2013-09-28"
+last_updated: "2014-09-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F12781EE4A08"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2013-09-19"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio, 1 priedo pakeitimo ir kai kurių su jais susijusių įstatymų pripažinimo netekusiais galios įstatymo, Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymo, Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 30 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto pakeitimo įstatymo 1 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas
+
+Suvestinė redakcija nuo 2014-09-20
+
+Įstatymas paskelbtas: Žin. 2013, Nr. 102-5032, i. k. 1131010ISTA0XII-523
 
 LIETUVOS RESPUBLIKOS
 
@@ -43,9 +47,23 @@ Lietuvos Respublikos Vyriausybė:
 
 1) rengdama Lietuvos Respublikos 2014 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą numato reikalingas lėšas atkuriamajai daliai ir teisės aktų nustatyto dydžio delspinigiams sumokėti;
 
-2) iki 2014 m. gegužės 1 d. parengia ir pateikia Lietuvos Respublikos Seimui asmenų, kuriems už darbą apmokama iš valstybės ar savivaldybės biudžeto lėšų, dėl ekonomikos krizės neproporcingai sumažinto darbo užmokesčio (atlyginimo) patirtų praradimų kompensavimo mechanizmą (kompensavimo sąlygas, mastą ir būdą, laikotarpį, per kurį kompensuojama sumažinta darbo užmokesčio (atlyginimo) dalis, kompensacijų dydį ir kita) reglamentuojančio įstatymo projektą ir pateikia pagal jame nustatytą kompensavimo mechanizmą apskaičiuotą kompensacijoms reikalingą lėšų sumą.
+2) iki 2015 m. gegužės 1 d. parengia ir pateikia Lietuvos Respublikos Seimui asmenų, kuriems už darbą apmokama iš valstybės ar savivaldybės biudžeto lėšų, dėl ekonomikos krizės neproporcingai sumažinto darbo užmokesčio (atlyginimo) patirtų praradimų kompensavimo mechanizmą (kompensavimo sąlygas, mastą ir būdą, laikotarpį, per kurį kompensuojama sumažinta darbo užmokesčio (atlyginimo) dalis, kompensacijų dydį ir kita) reglamentuojančio įstatymo projektą ir pateikia pagal jame nustatytą kompensavimo mechanizmą apskaičiuotą kompensacijoms reikalingą lėšų sumą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1088, 2014-09-11, paskelbta TAR 2014-09-19, i. k. 2014-12504
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                              DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1088, 2014-09-11, paskelbta TAR 2014-09-19, i. k. 2014-12504
+
+Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio, 1 priedo pakeitimo ir kai kurių su jais susijusių įstatymų pripažinimo netekusiais galios įstatymo, Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymo, Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 30 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto pakeitimo įstatymo 1 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo, Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo Nr. XII-523 2 straipsnio pakeitimo įstatymas
 
