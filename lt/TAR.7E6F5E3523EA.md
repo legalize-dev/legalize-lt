@@ -4,7 +4,7 @@ identifier: "TAR.7E6F5E3523EA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-10-26"
-last_updated: "2010-07-01"
+last_updated: "2014-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E6F5E3523EA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos triukšmo valdymo įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2014-09-30
+Suvestinė redakcija nuo 2014-10-01 iki 2016-10-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 164-5971, i. k. 1041010ISTA0IX-2499
 
@@ -356,7 +356,11 @@ Nr. XI-769, 2010-04-20, Žin. 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA0
 
 5) tvirtina triukšmo prevencijos zonas;
 
-6) tvirtina savivaldybės triukšmo prevencijos veiksmų planus;
+6) nustato savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose triukšmo prevencijos ir mažinimo priemones;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-467, 2013-07-02, Žin., 2013, Nr. 79-3988 (2013-07-23), i. k. 1131010ISTA0XII-467
 
 7) prižiūri, kaip savivaldybės vykdomosios institucijos, kiti pavaldūs viešojo administravimo subjektai įgyvendina funkcijas triukšmo valdymo srityje.
 
@@ -372,7 +376,11 @@ Nr. XI-769, 2010-04-20, Žin. 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA0
 
 5) rengia aglomeracijų strateginius triukšmo žemėlapius;
 
-6) rengia savivaldybės triukšmo prevencijos veiksmų planus;
+6) įgyvendina savivaldybės tarybos patvirtintuose savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose numatytas triukšmo prevencijos ir mažinimo priemones;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-467, 2013-07-02, Žin., 2013, Nr. 79-3988 (2013-07-23), i. k. 1131010ISTA0XII-467
 
 7) įgyvendina triukšmo prevencijos ir mažinimo priemones, įtrauktas į regionų plėtros planus;
 
@@ -729,4 +737,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
 
 Lietuvos Respublikos triukšmo valdymo įstatymo 2, 4, 5, 6, 11, 13, 14, 25 straipsnių pakeitimo ir papildymo ir 12 straipsnio pripažinimo netekusiu galios įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-467, 2013-07-02, Žin., 2013, Nr. 79-3988 (2013-07-23), i. k. 1131010ISTA0XII-467
+
+Lietuvos Respublikos triukšmo valdymo įstatymo 13 straipsnio pakeitimo įstatymas
 
