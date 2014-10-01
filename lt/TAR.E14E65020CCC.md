@@ -4,7 +4,7 @@ identifier: "TAR.E14E65020CCC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-05-26"
-last_updated: "2014-04-18"
+last_updated: "2014-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E14E65020CCC"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "15 straipsnis įsigalioja 2011 m. birželio 14 d."
 
 LIETUVOS RESPUBLIKOS APSAUGOS NUO SMURTO ARTIMOJE APLINKOJE ĮSTATYMAS
 
-Suvestinė redakcija nuo 2014-04-18 iki 2014-09-30
+Suvestinė redakcija nuo 2014-10-01 iki 2015-05-20
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 72-3475, i. k. 1111010ISTA0XI-1425
 
@@ -72,7 +72,11 @@ Apsauga nuo smurto artimoje aplinkoje įgyvendinama vadovaujantis šiais princip
 
 1. Valstybės ir savivaldybių institucijos, įstaigos ir nevyriausybinės organizacijos pagal kompetenciją rengia ir įgyvendina priemones, kuriomis siekiama užkirsti kelią smurtui artimoje aplinkoje, vykdo šio ir kitų teisės aktų reikalavimus.
 
-2. Prevencijos priemonės įgyvendinamos pagal Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ir jos įgaliotų institucijų bei savivaldybių parengtas programas, finansuojamas iš valstybės ir savivaldybių biudžetų ir tarptautinių programų. Vyriausybė finansuoja nevyriausybinių organizacijų atliekamą prevencinę veiklą.
+2. Prevencijos priemonės įgyvendinamos pagal Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ir jos įgaliotų institucijų parengtas programas. Savivaldybės institucijos prevencijos priemones, skirtas nuo smurto artimoje aplinkoje nukentėjusiems asmenims, numato savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose. Prevencijos priemonės finansuojamos iš valstybės ir savivaldybių biudžetų ir tarptautinių programų. Vyriausybė finansuoja nevyriausybinių organizacijų atliekamą prevencinę veiklą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-474, 2013-07-02, Žin., 2013, Nr. 79-3995 (2013-07-23), i. k. 1131010ISTA0XII-474
 
 3. Valstybės ir savivaldybių institucijos, įstaigos ir nevyriausybinės organizacijos, siekdamos užkirsti kelią smurtui artimoje aplinkoje, pagal kompetenciją imasi šių prevencijos priemonių:
 
@@ -247,4 +251,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-815, 2014-04-10, paskelbta TAR 2014-04-17, i. k. 2014-04537
 
 Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 5, 7, 8 ir 9 straipsnių pakeitimo
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-474, 2013-07-02, Žin., 2013, Nr. 79-3995 (2013-07-23), i. k. 1131010ISTA0XII-474
+
+Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo 4 straipsnio pakeitimo įstatymas
 
