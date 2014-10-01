@@ -4,7 +4,7 @@ identifier: "TAR.DE127819AE22"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-11-08"
-last_updated: "2014-01-01"
+last_updated: "2014-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DE127819AE22"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "9 straipsnis įsigalioja 2012-11-24."
 
 LIETUVOS RESPUBLIKOS ADMINISTRACINĖS NAŠTOS MAŽINIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2014-01-01 iki 2014-09-30
+Suvestinė redakcija nuo 2014-10-01
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 136-6957, i. k. 1121010ISTA0XI-2386
 
@@ -116,11 +116,11 @@ Straipsnio pakeitimai:
 
 Nr. XII-580, 2013-11-07, Žin., 2013, Nr. 120-6052 (2013-11-23), i. k. 1131010ISTA0XII-580
 
-6 straipsnis. Administracinės naštos mažinimo priemonės savivaldybių planavimo dokumentuose ir informacijos apie jų vykdymą viešumas
+6 straipsnis. Administracinės naštos mažinimo priemonės savivaldybių strateginio planavimo dokumentuose ir informacijos apie jų vykdymą viešumas
 
-1. Savivaldybių vykdomosios institucijos savivaldybių taryboms pateikia tvirtinti dvejų metų administracinės naštos mažinimo priemonių planą (nurodant konkrečių veiksmų įvykdymo terminus) arba administracinės naštos mažinimo priemonės įtraukiamos į savivaldybių taryboms teikiamus tvirtinti savivaldybių strateginių veiklos planų projektus.
+1. Administracinės naštos mažinimo priemonės įtraukiamos į savivaldybių taryboms teikiamus tvirtinti savivaldybių strateginių veiklos planų projektus.
 
-2. Informacija apie Administracinės naštos mažinimo priemonių plano arba administracinės naštos mažinimo priemonių, įtrauktų į savivaldybės strateginį veiklos planą, vykdymą skelbiama ir ne rečiau kaip kartą per pusmetį atnaujinama savivaldybių interneto svetainėse.
+2. Informacija apie administracinės naštos mažinimo priemonių vykdymą skelbiama ir ne rečiau kaip kartą per pusmetį atnaujinama savivaldybių interneto svetainėse.
 
 Straipsnio pakeitimai:
 
@@ -130,9 +130,9 @@ Nr. XII-580, 2013-11-07, Žin., 2013, Nr. 120-6052 (2013-11-23), i. k. 1131010IS
 
 1. Vyriausybė, teikdama metinę veiklos ataskaitą, privalo joje nurodyti ir įvertinti praėjusio ataskaitinio laikotarpio Administracinės naštos mažinimo priemonių plano vykdymo rezultatus.
 
-2. Savivaldybių tarybos, Lietuvos Respublikos vietos savivaldos įstatymo nustatyta tvarka teikdamos veiklos ataskaitas, savivaldybės bendruomenei privalo jose nurodyti ir įvertinti praėjusio ataskaitinio laikotarpio Administracinės naštos mažinimo priemonių plano arba administracinės naštos mažinimo priemonių, įtrauktų į savivaldybės strateginį veiklos planą, vykdymo rezultatus.
+2. Savivaldybių tarybos, Lietuvos Respublikos vietos savivaldos įstatymo nustatyta tvarka teikdamos veiklos ataskaitas, savivaldybės bendruomenei privalo jose nurodyti ir įvertinti praėjusio ataskaitinio laikotarpio administracinės naštos mažinimo priemonių vykdymo rezultatus.
 
-3. Savivaldybių centralizuotos vidaus audito tarnybos pasibaigus pusmečiui vertina, kaip vykdomas Administracinės naštos mažinimo priemonių planas arba administracinės naštos mažinimo priemonės, įtrauktos į savivaldybės strateginį veiklos planą, vadovaudamosi Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymu ir kitais vidaus auditą reglamentuojančiais teisės aktais. Savivaldybių centralizuotų vidaus audito tarnybų ataskaitos dėl Administracinės naštos mažinimo priemonių plano arba administracinės naštos mažinimo priemonių, įtrauktų į savivaldybės strateginį veiklos planą, vykdymo vertinimo skelbiamos savivaldybių interneto svetainėse.
+3. Savivaldybių centralizuotos vidaus audito tarnybos pasibaigus pusmečiui vertina, kaip vykdomos administracinės naštos mažinimo priemonės, vadovaudamosi Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymu ir kitais vidaus auditą reglamentuojančiais teisės aktais. Savivaldybių centralizuotų vidaus audito tarnybų ataskaitos dėl administracinės naštos mažinimo priemonių vykdymo vertinimo skelbiamos savivaldybių interneto svetainėse.
 
 Straipsnio pakeitimai:
 
