@@ -4,7 +4,7 @@ identifier: "TAR.BA283DF0FB41"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-28"
-last_updated: "2014-01-01"
+last_updated: "2014-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BA283DF0FB41"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos želdynų įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2014-09-30
+Suvestinė redakcija nuo 2014-10-01 iki 2017-10-31
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3215, i. k. 1071010ISTA00X-1241
 
@@ -273,7 +273,11 @@ Nr. XII-412, 2013-06-27, Žin., 2013, Nr. 76-3829 (2013-07-16), i. k. 1131010IST
 
 8) vykdo želdynų ir želdinių būklės, želdynų kūrimo, naujų želdinių veisimo vidaus kontrolę;
 
-9) rengia ir tvirtina želdynų ir želdinių tvarkymo, želdynų kūrimo ir želdinių veisimo programą (tik miestų savivaldybės), želdynų ir želdinių apsaugos taisykles;
+9) rengia ir tvirtina želdynų ir želdinių apsaugos taisykles;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-461, 2013-07-02, Žin., 2013, Nr. 79-3982 (2013-07-23), i. k. 1131010ISTA0XII-461
 
 10) su želdynų ir želdinių savininkais ir valdytojais gali sudaryti sutartis dėl želdynų lankymo sąlygų, želdinių apsaugos ir priežiūros, kovos su augalų ligomis ir kenkėjais;
 
@@ -293,15 +297,17 @@ Nr. XI-1089, 2010-11-04, Žin., 2010, Nr. 137-6990 (2010-11-23), i. k. 1101010IS
 
 2. Želdynų planavimo, kūrimo, apsaugos, tvarkymo ir priežiūros darbus savivaldybėje organizuoja vienas struktūrinis padalinys arba atsakingas savivaldybės tarnautojas.
 
-11 straipsnis.       Želdynų ir želdinių tvarkymo, želdynų kūrimo ir želdinių veisimo programa
+3. Savivaldybių institucijos, atsižvelgdamos į želdynų klasifikaciją, želdinių augimo vietą, želdynų ir želdinių inventorizavimo, apskaitos, stebėsenos, apsaugos, tvarkymo, želdynų planavimo, projektavimo ir kūrimo, želdinių veisimo prioritetus ir priemones numato savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose.
 
-1. Želdynų ir želdinių tvarkymo, želdynų kūrimo ir želdinių veisimo programą (toliau – Programa) penkeriems metams rengia miesto savivaldybė.
+Papildyta straipsnio dalimi:
 
-2. Programoje turi būti numatytos kasmetinės želdynų ir želdinių tvarkymo, želdynų kūrimo, želdinių veisimo apimtys, diferencijuotos pagal skirtingus želdynus: parkus, skverus, miesto ir miestelio sodus, daugiabučių namų kiemus, žaliąsias jungtis, gatves, vietinės reikšmės kelius ir kitus želdynus.
+Nr. XII-461, 2013-07-02, Žin., 2013, Nr. 79-3982 (2013-07-23), i. k. 1131010ISTA0XII-461
 
-3. Tais atvejais, kai Programoje numatomas želdynų ir želdinių pertvarkymas, žemės sklypo, kuriame yra želdynų ir želdinių, naudojimo būdo keitimas, medžių persodinimas ar kirtimas, teisės aktų nustatyta tvarka ji turi būti apsvarstyta su suinteresuota visuomene.
+11 straipsnis. Neteko galios nuo 2014-10-01
 
-4. Programą tvirtina savivaldybių tarybos.
+Straipsnio naikinimas:
+
+Nr. XII-461, 2013-07-02, Žin. 2013, Nr. 79-3982 (2013-07-23), i. k. 1131010ISTA0XII-461
 
 12 straipsnis. Želdynus ir želdinius tvarkančių asmenų mokymas
 
@@ -497,11 +503,13 @@ VIII SKYRIUS
 
 8) kitų lėšų.
 
-2. Želdynų ir želdinių apsaugos, tvarkymo, želdynų kūrimo ir želdinių veisimo finansavimas planuojamas vadovaujantis savivaldybės lygmens ir (ar) vietovės lygmens kompleksinio teritorijų planavimo dokumentais, želdynų tvarkymo ir kūrimo projektais, strateginio planavimo ir kitais dokumentais, atsižvelgiant į savivaldybės tvarkomų objektų prioritetus.
+2. Želdynų ir želdinių apsaugos, tvarkymo, želdynų kūrimo ir želdinių veisimo finansavimas planuojamas vadovaujantis savivaldybės lygmens ir (ar) vietovės lygmens kompleksinio teritorijų planavimo dokumentais, želdynų tvarkymo ir kūrimo projektais, savivaldybės strateginiu plėtros ir (ar) savivaldybės strateginiu veiklos planais ir kitais dokumentais, atsižvelgiant į savivaldybės tvarkomų objektų prioritetus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-412, 2013-06-27, Žin., 2013, Nr. 76-3829 (2013-07-16), i. k. 1131010ISTA0XII-412
+
+Nr. XII-461, 2013-07-02, Žin., 2013, Nr. 79-3982 (2013-07-23), i. k. 1131010ISTA0XII-461
 
 3. Tikslinės lėšos, gautos kompensavus atkuriamąją želdinių vertę, įtraukiamos į apskaitą atskirai. Apie jų panaudojimą savivaldybės kasmet per spaudą informuoja visuomenę. Draudžiama šias lėšas naudoti kitai paskirčiai.
 
@@ -560,4 +568,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-412, 2013-06-27, Žin., 2013, Nr. 76-3829 (2013-07-16), i. k. 1131010ISTA0XII-412
 
 Lietuvos Respublikos želdynų įstatymo 4, 6, 10, 16, 19 ir 25 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-461, 2013-07-02, Žin., 2013, Nr. 79-3982 (2013-07-23), i. k. 1131010ISTA0XII-461
+
+Lietuvos Respublikos želdynų įstatymo 10, 25 straipsnių pakeitimo ir papildymo ir 11 straipsnio pripažinimo netekusiu galios įstatymas
 
