@@ -4,7 +4,7 @@ identifier: "TAR.BA2BC055D8D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-11-30"
-last_updated: "2010-12-18"
+last_updated: "2014-10-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BA2BC055D8D5"
 department: "Lietuvos Respublikos Seimas"
@@ -22,6 +22,10 @@ LIETUVOS RESPUBLIKOS AKCIZŲ ĮSTATYMO 3, 9, 10, 15, 16, 18, 19, 21, 30,
 31, 37, 43 STRAIPSNIŲ IR 3 PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO 581
 
 STRAIPSNIU ĮSTATYMAS
+
+Suvestinė redakcija nuo 2014-10-04
+
+Įstatymas paskelbtas: Žin. 2010, Nr. 148-7560, i. k. 1101010ISTA0XI-1185
 
 LIETUVOS RESPUBLIKOS AKCIZŲ ĮSTATYMO 3, 9, 10, 15, 16, 18, 19, 21, 30, 31, 37, 43 STRAIPSNIŲ IR 3 PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO 581 STRAIPSNIU ĮSTATYMAS
 
@@ -191,11 +195,15 @@ Papildyti 30 straipsnį nauja 3 dalimi, buvusias 3 ir 4 dalis laikyti atitinkama
 
 4. Pakeisti 31 straipsnio 2 dalį ir ją išdėstyti taip:
 
-„2. Rūkomajam tabakui taikomas 187 litų už kilogramą produkto akcizų tarifas.“
+„2. Rūkomajam tabakui taikomas 54,16 euro už kilogramą produkto akcizų tarifas.“
 
 5. Pakeisti 31 straipsnio 2 dalį ir ją išdėstyti taip:
 
-„2. Rūkomajam tabakui taikomas 208 litų už kilogramą produkto akcizų tarifas.“
+„2. Rūkomajam tabakui taikomas 60,24 euro už kilogramą produkto akcizų tarifas.“
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1121, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13631
 
 11 straipsnis. 37 straipsnio 1 dalies pakeitimas
 
