@@ -4,7 +4,7 @@ identifier: "TAR.759BD7586C2A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-07-19"
-last_updated: "2006-08-08"
+last_updated: "2014-10-04"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.759BD7586C2A"
 department: "Lietuvos Respublikos Seimas"
@@ -27,6 +27,10 @@ AZARTINIŲ LOŠIMŲ ĮSTATYMO 2 STRAIPSNIO PAKEITIMO
 Vilnius
 
 (Žin. 2001, Nr. 43-1495; 2002, Nr. 72-3010)
+
+Neteko galios nuo 2014-10-04
+
+Nr. XII-1167, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13585
 
 1 straipsnis. 2 straipsnio 3 dalies 2 punkto pakeitimas
 
