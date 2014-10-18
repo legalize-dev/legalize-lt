@@ -4,7 +4,7 @@ identifier: "TAR.0B3F98694564"
 country: "lt"
 rank: "konstitucinis_istatymas"
 publication_date: "2012-03-15"
-last_updated: "2012-03-27"
+last_updated: "2014-10-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0B3F98694564"
 department: "Lietuvos Respublikos Seimas"
@@ -18,6 +18,10 @@ document_status: "registruotas TA registre"
 LIETUVOS RESPUBLIKOS KONSTITUCINIŲ ĮSTATYMŲ SĄRAŠO KONSTITUCINIS
 
 ĮSTATYMAS
+
+Suvestinė redakcija nuo 2014-10-18
+
+Konstitucinis įstatymas paskelbtas: Žin. 2012, Nr. 36-1772, i. k. 1121010KIST0XI-1932
 
 LIETUVOS RESPUBLIKOS KONSTITUCINIŲ ĮSTATYMŲ SĄRAŠO KONSTITUCINIS ĮSTATYMAS
 
@@ -61,7 +65,13 @@ p r i i m a šį įstatymą.
 
 8) Lietuvos Respublikos peticijų konstitucinis įstatymas;
 
-9) Lietuvos Respublikos nepaprastosios padėties konstitucinis įstatymas.
+9) Lietuvos Respublikos nepaprastosios padėties konstitucinis įstatymas;
+
+10) Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstitucinis įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1213, 2014-10-09, paskelbta TAR 2014-10-17, i. k. 2014-14274
 
 2. Šio straipsnio 1 dalyje nurodyti konstituciniai įstatymai gali būti priimti tik pagal Lietuvos Respublikos Konstituciją ir Lietuvos Respublikos Seimo statute nustatytas konstitucinių įstatymų leidybos procedūras.
 
@@ -80,4 +90,14 @@ p r i i m a šį įstatymą.
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1213, 2014-10-09, paskelbta TAR 2014-10-17, i. k. 2014-14274
+
+Lietuvos Respublikos konstitucinių įstatymų sąrašo konstitucinio įstatymo Nr. XI-1932 2 straipsnio pakeitimo konstitucinis įstatymas
 
