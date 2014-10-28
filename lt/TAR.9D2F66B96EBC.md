@@ -4,7 +4,7 @@ identifier: "TAR.9D2F66B96EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2014-05-01"
+last_updated: "2014-10-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2014-05-01 iki 2014-10-27
+Suvestinė redakcija nuo 2014-10-28 iki 2015-05-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
 
@@ -52,7 +52,11 @@ Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA00
 
 2. Aviacijos specialistas – asmuo, turintis specialų aviacijos išsilavinimą ir tam tikrą kvalifikaciją.
 
-3. Bendrosios aviacijos orlaivis – civilinis orlaivis, naudojamas ne komerciniams oro transporto vežimams ir ne specialiesiems aviacijos darbams atlikti.
+3. Neteko galios 2014-10-28.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-973, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10012
 
 4. Civilinės aviacijos saugumas – priemonių ir procedūrų, žmonių ir materialinių išteklių visuma, skirta apsaugoti civilinę aviaciją nuo neteisėto įsikišimo į jos veiklą.
 
@@ -1234,9 +1238,21 @@ Septintasis skirsnis
 
 SKRYDŽIŲ VYKDYMAS
 
-58 straipsnis. Orlaivių eksploatavimas
+58 straipsnis. Orlaivių naudojimas
 
-Orlaiviai eksploatuojami pagal CAA nustatytus reikalavimus.
+1. Orlaivių, kuriems netaikomos 2012 m. spalio 5 d. Komisijos reglamento (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros, su paskutiniais pakeitimais, padarytais 2013 m. rugpjūčio 14 d. Komisijos reglamentu (ES) Nr. 800/2013, nuostatos, naudojimo techninius reikalavimus nustato CAA.
+
+2. CAA, nustatydama orlaivių naudojimo techninius reikalavimus, vadovaujasi šiais principais:
+
+1) visuomenės saugumo;
+
+2) proporcingumo;
+
+3) lygiateisiškumo.
+
+Straipsnio pakeitimai:
+
+Nr. XII-973, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10012
 
 59 straipsnis. Pavojingų gaminių vežimas
 
@@ -1572,6 +1588,12 @@ Papildyta punktu:
 
 Nr. XII-555, 2013-10-15, Žin., 2013, Nr. 111-5491 (2013-10-24), i. k. 1131010ISTA0XII-555
 
+20. 2012 m. spalio 5 d. Komisijos reglamentas (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros (OL 2012 L 296, p. 1), su paskutiniais pakeitimais, padarytais 2013 m. rugpjūčio 14 d. Komisijos reglamentu (ES) Nr. 800/2013 (OL 2013 L 227, p. 1).
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-973, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10012
+
 Priedo pakeitimai:
 
 Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
@@ -1697,6 +1719,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-556, 2013-10-15, Žin., 2013, Nr. 111-5492 (2013-10-24), i. k. 1131010ISTA0XII-556
 
 Lietuvos Respublikos aviacijos įstatymo 66 straipsnio ir priedo pakeitimo ir papildymo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-973, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10012
+
+Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 58 straipsnių ir priedo pakeitimo įstatymas
 
 141 straipsnis. Oro navigacijos paslaugos
 
