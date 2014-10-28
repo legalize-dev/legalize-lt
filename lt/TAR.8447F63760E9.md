@@ -4,7 +4,7 @@ identifier: "TAR.8447F63760E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-09-18"
-last_updated: "2014-01-01"
+last_updated: "2014-10-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8447F63760E9"
 department: "Lietuvos Respublikos Seimas"
@@ -13712,6 +13712,12 @@ atskiro administravimo.
 
 skelbiamą oficialų euro ir lito santykį.
 
+1 dalis netenka galios nuo 2015-01-01.
+
+Dalies redakcija nuo 2015-01-01:
+
+1. Neteko galios nuo 2015-01-01.
+
 2. Šiame
 
 įstatyme eurais nurodytus dydžius, kurių indeksavimą numato Europos Sąjungos
@@ -13720,9 +13726,17 @@ teisės aktai, indeksuoja priežiūros institucija, atsižvelgdama į Europos
 
 vartotojų kainų indeksą, skelbiamą Eurostat.
 
+Straispnio pakeitimai:
+
+Nr. XII-1115,
+
+2014-09-23, paskelbta TAR 2014-10-27, i. k. 2014-13414
+
 225
 
-straipsnis. Pasaulio prekybos organizacijos narių draudimo ir perdraudimo įmonės
+straipsnis. Pasaulio prekybos organizacijos narių draudimo ir perdraudimo
+
+įmonės
 
 1. Pasaulio prekybos organizacijos narių draudimo
 
@@ -13770,9 +13784,9 @@ priemones, nurodytas šio straipsnio 4 dalyje.
 
 4. Užsienio valstybės, kuri yra Pasaulio prekybos
 
-organizacijos narė, draudimo įmonei priežiūros institucija gali taikyti šias poveikio
+organizacijos narė, draudimo įmonei priežiūros institucija gali taikyti šias
 
-priemones:
+poveikio priemones:
 
 1) įspėti užsienio valstybės draudimo įmonę dėl
 
@@ -13818,9 +13832,9 @@ organizacijos narė, kompetentingą instituciją, turi teisę taikyti poveikio
 
 priemonę, nurodytą šio straipsnio 4 dalies 2 punkte. Kai neatidėliotinai
 
-būtina, priežiūros institucija turi teisę taikyti šią poveikio priemonę
+būtina, priežiūros institucija turi teisę taikyti šią poveikio priemonę neatsižvelgdama
 
-neatsižvelgdama į šio straipsnio 5 dalies nuostatas.
+į šio straipsnio 5 dalies nuostatas.
 
 7. Apie taikomą poveikio priemonę priežiūros
 
@@ -13910,7 +13924,9 @@ sausio 1 d., vykdymą reglamentuoja šio įstatymo normos.
 
 228 straipsnis. Neteko galios nuo 2013-05-07.
 
-Straipsnio pakeitimai:
+Straipsnio
+
+pakeitimai:
 
 Nr. XII-246,
 
@@ -14130,9 +14146,9 @@ DRAUDIMO
 
 2.
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos Seimas, Įstatymas
+Seimas, Įstatymas
 
 Nr. IX-2474,
 
@@ -14290,9 +14306,9 @@ metu galiojusių teisės aktų nustatyta tvarka.
 
 11.
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos Seimas, Įstatymas
+Seimas, Įstatymas
 
 Nr. XI-582,
 
@@ -14390,9 +14406,25 @@ LIETUVOS RESPUBLIKOS DRAUDIMO
 
 2014 m. sausio 1 d.
 
+17.
+
+Lietuvos Respublikos Seimas,
+
+Įstatymas
+
+Nr. XII-1115,
+
+2014-09-23, paskelbta TAR 2014-10-27, i. k. 2014-13414
+
+LIETUVOS RESPUBLIKOS DRAUDIMO
+
+ĮSTATYMO NR. IX-1737 224 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2015 m. sausio 1 d.
+
 *** Pabaiga ***
 
-Redagavo Aušrinė Trapinskienė (2014-01-04)
+Redagavo Aušrinė Trapinskienė (2014-10-28)
 
 ausrine.trapinskiene@lrs.lt
 
