@@ -4,7 +4,7 @@ identifier: "TAR.C70309CDEB7B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-08"
-last_updated: "2013-01-01"
+last_updated: "2014-10-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C70309CDEB7B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karo padėties įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2014-10-28
+Suvestinė redakcija nuo 2014-10-29 iki 2015-03-27
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1482, i. k. 1001010ISTAIII-1721
 
@@ -39,11 +39,13 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Ginkluotosios pajėgos – Lietuvos kariuomenė ir karo padėties metu priskirtos kitos ginkluotosios pajėgos: Valstybės sienos apsaugos tarnyba, specializuoti policijos daliniai, Lietuvos šaulių sąjungos koviniai būriai bei kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadui.
+1. Ginkluotosios pajėgos – Lietuvos kariuomenė ir karo padėties metu priskirtos kitos ginkluotosios pajėgos: Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Vadovybės apsaugos departamentas prie Vidaus reikalų ministerijos (toliau – Vadovybės apsaugos departamentas), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba), koviniai Lietuvos šaulių sąjungos būriai, taip pat kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-2003, 2000-10-10, Žin., 2000, Nr. 92-2855 (2000-10-31), i. k. 1001010ISTAIII-2003
+
+Nr. XII-1282, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15006
 
 2. Ginkluotųjų pajėgų vadas – Lietuvos kariuomenės vadas, kurį, įvedus karo padėtį, Respublikos Prezidentas dekretu paskiria visų valstybės ginkluotųjų pajėgų vadu, pavaldžiu gynybos veiksmų civilinei vadovybei.
 
@@ -267,15 +269,31 @@ Straipsnio dalies pakeitimai:
 
 Nr. XI-1414, 2011-05-26, Žin., 2011, Nr. 72-3465 (2011-06-14), i. k. 1111010ISTA0XI-1414
 
-2. Valstybės sienos apsaugos tarnybos, o prireikus specializuoti policijos padaliniai karo padėties metu ginkluotųjų pajėgų vado įsakymu priskiriami ginkluotosioms pajėgoms.
+2. Valstybės sienos apsaugos tarnyba, Vadovybės apsaugos departamentas, Viešojo saugumo tarnyba karo padėties metu ginkluotųjų pajėgų vado įsakymu priskiriami ginkluotosioms pajėgoms.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-2003, 2000-10-10, Žin., 2000, Nr. 92-2855 (2000-10-31), i. k. 1001010ISTAIII-2003
 
-3. Policija, išskyrus šio straipsnio 2 dalyje nurodytus atvejus, ginkluotosioms pajėgoms nepriskiriama ir toliau atlieka jai pavestus uždavinius, tačiau yra pavaldi karo komendantams.
+Nr. XII-1282, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15006
 
-4. Kalėjimų departamento prie Teisingumo ministerijos įstaigų funkcijos karo padėties metu nesikeičia.
+3. Priskyrus šio straipsnio 2 dalyje nurodytas institucijas ginkluotosioms pajėgoms, Valstybės sienos apsaugos tarnybos, Vadovybės apsaugos departamento ir Viešojo saugumo tarnybos veiklos tęstinumas užtikrinamas tiek, kiek to reikia karo padėties metu gyvybiškai svarbioms valstybės funkcijoms atlikti. Vadovybės apsaugos departamento pareigūnai, tiesiogiai užtikrinantys vadovybės apsaugą, ir toliau vykdo jiems pavestas vadovybės apsaugos užtikrinimo funkcijas ir yra tiesiogiai pavaldūs saugomam asmeniui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1282, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15006
+
+4. Policija ginkluotosioms pajėgoms nepriskiriama ir toliau atlieka jai pavestus uždavinius, tačiau yra pavaldi karo komendantams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1282, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15006
+
+5. Kalėjimų departamento prie Teisingumo ministerijos įstaigų funkcijos karo padėties metu nesikeičia.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1282, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15006
 
 22 straipsnis. Savivaldos institucijų veiklos ribojimas
 
@@ -534,4 +552,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2248, 2012-10-02, Žin., 2012, Nr. 122-6107 (2012-10-20), i. k. 1121010ISTA0XI-2248
 
 Lietuvos Respublikos karo padėties įstatymo 8 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1282, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15006
+
+Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2 ir 21 straipsnių pakeitimo įstatymas
 
