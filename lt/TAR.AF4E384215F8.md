@@ -4,7 +4,7 @@ identifier: "TAR.AF4E384215F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-11-07"
-last_updated: "2014-10-04"
+last_updated: "2014-10-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2014-10-04 iki 2014-10-28
+Suvestinė redakcija nuo 2014-10-29 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
 
@@ -175,7 +175,11 @@ VADOVYBĖS APSAUGOS DEPARTAMENTO TEISINIS STATUSAS, UŽDAVINIAI IR FUNKCIJOS
 
 10 straipsnis. Vadovybės apsaugos departamento teisinis statusas
 
-Vadovybės apsaugos departamentas yra įstatymų nustatyta tvarka įsteigta biudžetinė įstaiga, užtikrinanti saugomų asmenų apsaugą ir įgyvendinanti kitus įstatymų jai pavestus uždavinius.
+Vadovybės apsaugos departamentas yra įstatymų nustatyta tvarka įsteigta biudžetinė įstaiga, užtikrinanti saugomų asmenų apsaugą, o įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) metu yra sudedamoji ginkluotųjų pajėgų dalis, ginanti valstybę ir įgyvendinanti kitus įstatymų jai pavestus uždavinius.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1283, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15005
 
 11 straipsnis. Vadovybės apsaugos departamento uždaviniai
 
@@ -201,9 +205,23 @@ Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010IS
 
 5) kontroliuodamas asmenų, teisėtai turinčių su savimi ginklų, šaunamųjų ginklų dalių ar šaudmenų, patekimą į saugomus objektus, sudaro sąlygas ginklus, šaunamųjų ginklų dalis ar šaudmenis Vadovybės apsaugos departamento direktoriaus nustatyta tvarka palikti laikinai saugoti buvimo saugomame objekte laikotarpiui;
 
-6) renka, kaupia, analizuoja ir apibendrina informaciją, susijusią su jo uždavinių įgyvendinimu ir funkcijų atlikimu;
+6) įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) metu priskiriamas ginkluotosioms pajėgoms ir gina valstybę;
 
-7) atlieka kitas teisės aktų nustatytas funkcijas.
+Papildyta straipsnio punktu:
+
+Nr. XII-1283, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15005
+
+7) renka, kaupia, analizuoja ir apibendrina informaciją, susijusią su jo uždavinių įgyvendinimu ir funkcijų atlikimu;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-1283, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15005
+
+8) atlieka kitas teisės aktų nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-1283, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15005
 
 13 straipsnis. Vadovybės apsaugos departamento bendradarbiavimas su Lietuvos Respublikos bei užsienio šalių institucijomis ir įstaigomis
 
@@ -604,6 +622,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1164, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13589
 
 Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 23 ir 24 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1283, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15005
+
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 10 ir 12 straipsnių pakeitimo įstatymas
 
 191 straipsnis. Oficialaus įspėjimo taikymas
 
