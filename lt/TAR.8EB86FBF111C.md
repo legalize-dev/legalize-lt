@@ -4,7 +4,7 @@ identifier: "TAR.8EB86FBF111C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2010-05-31"
+last_updated: "2014-10-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8EB86FBF111C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas
 
-Suvestinė redakcija nuo 2010-05-31 iki 2014-10-28
+Suvestinė redakcija nuo 2014-10-29 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1927; Žin. 2000, Nr.86-0; Žin. 2002, Nr.103-0, i. k. 1001010ISTAIII-1856
 
@@ -49,13 +49,15 @@ priima šį įstatymą.
 
 1. Agresija – ginkluotos jėgos panaudojimas ar grasinimas panaudoti ją prieš Lietuvos Respublikos suverenitetą, teritorijos vientisumą ar politinę nepriklausomybę.
 
-2. Ginkluotosios pajėgos – Lietuvos kariuomenė ir ginkluotos gynybos nuo agresijos metu priskirtos kitos ginkluotosios pajėgos: Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos, koviniai Lietuvos šaulių sąjungos būriai, taip pat kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadovybei.
+2. Ginkluotosios pajėgos – Lietuvos kariuomenė ir ginkluotos gynybos nuo agresijos metu priskirtos kitos ginkluotosios pajėgos: Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Vadovybės apsaugos departamentas prie Vidaus reikalų ministerijos, Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos, koviniai Lietuvos šaulių sąjungos būriai, taip pat kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadovybei.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-2001, 2000-10-10, Žin., 2000, Nr. 92-2853 (2000-10-31), i. k. 1001010ISTAIII-2001
 
 Nr. XI-823, 2010-05-18, Žin., 2010, Nr. 63-3100 (2010-05-31), i. k. 1101010ISTA00XI-823
+
+Nr. XII-1287, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15002
 
 3. Užsienio valstybės ginkluotosios pajėgos – užsienio valstybės organizuotos ginkluotosios pajėgos, grupės ir daliniai (kariniai vienetai), kuriems vadovauja asmuo, atsakingas šiai valstybei už savo pavaldinių veiksmus.
 
@@ -200,4 +202,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-823, 2010-05-18, Žin., 2010, Nr. 63-3100 (2010-05-31), i. k. 1101010ISTA00XI-823
 
 Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo 2 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1287, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15002
+
+Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo Nr. VIII-1856 2 straipsnio pakeitimo įstatymas
 
