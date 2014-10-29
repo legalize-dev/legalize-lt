@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2014-10-04"
+last_updated: "2014-10-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2014-10-04 iki 2014-10-28
+Suvestinė redakcija nuo 2014-10-29 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
 
@@ -129,7 +129,11 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 
 1) Krašto apsaugos ministerija – vadovaujanti krašto apsaugos sistemos institucija;
 
-2) kariuomenė, o įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) atveju, – ir kitos ginkluotosios pajėgos: Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba), koviniai Lietuvos šaulių sąjungos būriai ir kiti koviniai piliečių bei jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadovybei;
+2) kariuomenė, o įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) atveju, – ir kitos ginkluotosios pajėgos: Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Vadovybės apsaugos departamentas prie Vidaus reikalų ministerijos (toliau – Vadovybės apsaugos departamentas), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba), koviniai Lietuvos šaulių sąjungos būriai ir kiti koviniai piliečių bei jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadovybei;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1286, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15003
 
 3) Generolo Jono Žemaičio Lietuvos karo akademija;
 
@@ -583,7 +587,11 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 13. Jungtinio štabo viršininko funkcijas vykdyti padeda jam tiesiogiai pavaldus Jungtinis štabas, kurio struktūrą nustato krašto apsaugos ministras.
 
-14. Krašto apsaugos generalinis inspektorius kontroliuoja kariuomenės vienetų bendrą ir kovinį pasirengimą, Valstybės sienos apsaugos tarnybos, Viešojo saugumo tarnybos ir Lietuvos šaulių sąjungos pasirengimą bendriems su kariuomene gynybos veiksmams, taip pat atlieka kitas teisės aktų nustatytas funkcijas.
+14. Krašto apsaugos generalinis inspektorius kontroliuoja kariuomenės vienetų bendrą ir kovinį pasirengimą, Valstybės sienos apsaugos tarnybos, Vadovybės apsaugos departamento, Viešojo saugumo tarnybos ir Lietuvos šaulių sąjungos pasirengimą bendriems su kariuomene gynybos veiksmams, taip pat atlieka kitas teisės aktų nustatytas funkcijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1286, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15003
 
 Straipsnio pakeitimai:
 
@@ -1393,7 +1401,7 @@ leitenantas                                  �
 
 vyresnysis leitenantas                                                           vyresnysis leitenantas
 
-kapitonas                                                                              kapitonas leitenantas
+kapitonas                                                                              kapitonas leitenantas
 
 4) vyresniųjų karininkų
 
