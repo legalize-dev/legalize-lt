@@ -4,7 +4,7 @@ identifier: "TAR.779892D853B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-10"
-last_updated: "2014-06-17"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 58 straipsnis įsigalioja 2002-09-18.
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2014-06-17 iki 2014-10-31
+Suvestinė redakcija nuo 2014-11-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
 
@@ -646,7 +646,11 @@ UŽSIENIO VALSTYBIŲ FINANSŲ ĮSTAIGOS
 
 2. Jei šio straipsnio 1 dalyje nurodyta finansų įstaiga jau turi bent vieną filialą Lietuvos Respublikoje, šiame straipsnyje nustatyta tvarka kitiems jos filialams steigti netaikoma.
 
-3. Europos Sąjungos valstybėje narėje licencijuota finansų įstaiga gali pradėti teikti finansines paslaugas Lietuvos Respublikoje nesteigdama filialo, praėjus 1 mėnesiui nuo tos dienos, kurią užsienio priežiūros institucija Lietuvos Respublikos finansų įstaigų priežiūros institucijai perdavė jos veiklos planą.
+3. Europos Sąjungos valstybėje narėje licencijuota finansų įstaiga kitais Lietuvos Respublikos įstatymuose, reglamentuojančiuose finansinių paslaugų teikimą, nustatytais atvejais gali pradėti teikti finansines paslaugas Lietuvos Respublikoje nesteigdama filialo, praėjus 1 mėnesiui nuo tos dienos, kurią užsienio priežiūros institucija Lietuvos Respublikos finansų įstaigų priežiūros institucijai perdavė jos veiklos planą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1044, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10855
 
 4. Jei keičiasi šio straipsnio 1 dalyje numatyta informacija apie finansų įstaigą, įstaiga apie tai turi pranešti Lietuvos Respublikos finansų įstaigų priežiūros institucijai iš anksto, ne vėliau kaip prieš 1 mėnesį. Finansų įstaiga, kuri teikia paslaugas nesteigdama filialo, privalo Lietuvos Respublikos finansų įstaigų priežiūros institucijai iš anksto pranešti apie veiklos plano pasikeitimą.
 
@@ -1689,6 +1693,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-913, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07640
 
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 papildymo 28-1 straipsniu ir Įstatymo priedo pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1044, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10855
+
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 12 straipsnio pakeitimo įstatymas
 
 381 straipsnis. Finansinių grupių jungtinė (konsoliduota) priežiūra
 
