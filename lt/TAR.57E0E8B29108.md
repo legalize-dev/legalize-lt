@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2014-04-30"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2014-04-30 iki 2014-10-31
+Suvestinė redakcija nuo 2014-11-01 iki 2016-06-15
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -36,23 +36,35 @@ Vilnius
 
 1 straipsnis. Įstatymo paskirtis
 
-Įstatymo paskirtis – nustatyti, kurios įmonės ir įrenginiai turi strateginę ar svarbią reikšmę nacionaliniam saugumui, kurie iš jų nuosavybės teise privalo priklausyti valstybei, kuriuose iš jų kapitalo dalį gali turėti privatūs nacionaliniai ir užsienio asmenys, atitinkantys nacionalinio saugumo interesus, o kuriuose iš jų privalo būti palikta sprendžiamoji galia valstybei, kaip numatyta šio įstatymo 4 straipsnio 3 dalyje. Šiuo įstatymu taip pat nustatoma tvarka ir kriterijai, kuriais vadovaujantis įvertinama strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių potencialių dalyvių atitiktis nacionalinio saugumo interesams, apibrėžiami ypatingą strateginę reikšmę nacionaliniam saugumui turintys įrenginiai bei jiems ir investuotojams taikomos nacionalinio saugumo interesus užtikrinančios specialiosios saugumo priemonės.
+Įstatymo paskirtis – nustatyti, kurios įmonės turi strateginę ar svarbią reikšmę nacionaliniam saugumui, kurie įrenginiai turi ypatingą strateginę ar strateginę reikšmę nacionaliniam saugumui, kurie iš jų nuosavybės teise privalo priklausyti valstybei, kuriuose iš jų kapitalo dalį gali turėti privatūs nacionaliniai ir užsienio asmenys, atitinkantys nacionalinio saugumo interesus, o kuriuose iš jų privalo būti palikta sprendžiamoji galia valstybei, kaip numatyta šio įstatymo 4 straipsnio 3 dalyje. Šiuo įstatymu taip pat nustatoma tvarka ir kriterijai, kuriais vadovaujantis įvertinama strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių potencialių dalyvių atitiktis nacionalinio saugumo interesams, apibrėžiami svarbią strateginę reikšmę nacionaliniam saugumui turintys ūkio sektoriai, taip pat ypatingą strateginę ir strateginę reikšmę nacionaliniam saugumui turintys įrenginiai bei jiems ir investuotojams į svarbią strateginę reikšmę nacionaliniam saugumui turinčius ūkio sektorius arba ketinantiems vykdyti veiklą ypatingą strateginę reikšmę ar strateginę reikšmę nacionaliniam saugumui turinčių įrenginių nacionaliniam saugumui svarbios apsaugos zonos teritorijoje taikomos nacionalinio saugumo interesus užtikrinančios specialiosios saugumo priemonės.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Nacionalinio saugumo interesai – valstybės nepriklausomybės ir suvereniteto apsauga, europinė ir transatlantinė integracija, grėsmių ir rizikos veiksnių esminę reikšmę visuomenės saugumui turintiems energetikos ir kitiems ūkio sektoriams mažinimas.
 
-2. Potencialus dalyvis – fizinis arba juridinis asmuo, oficialiai pareiškęs ketinimą ar interesą įsigyti strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės akcijų arba įgyti nuosavybės, valdymo ar bet kurias kitas teises į strateginę reikšmę nacionaliniam saugumui turinčius įrenginius. Šiame įstatyme numatytais atvejais potencialiu dalyviu laikytinas ir esamas strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės akcininkas, siekiantis papildomai įsigyti įmonės akcijų.
+2. Potencialus dalyvis – fizinis arba juridinis asmuo, oficialiai pareiškęs ketinimą ar interesą įsigyti strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės arba įmonės, steigiamos ar veikiančios svarbią strateginę reikšmę nacionaliniam saugumui turinčiame ūkio sektoriuje, akcijų arba įgyti nuosavybės, valdymo ar bet kurias kitas teises į ypatingą strateginę ar strateginę reikšmę nacionaliniam saugumui turinčius įrenginius. Šiame įstatyme numatytais atvejais potencialiu dalyviu laikytinas ir esamas strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės akcininkas, siekiantis papildomai įsigyti įmonės akcijų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 3. Specialiosios saugumo priemonės – teisės aktuose ir tarptautinėse sutartyse nustatytos sąlygos ir reikalavimai, skirti esminių valstybės interesų (valstybės saugumo, suvereniteto, ekonominės galios, visuomenės sveikatos ir saugios aplinkos, viešosios tvarkos užtikrinimo ir kitų) apsaugai, siekiant užkirsti kelią grėsmę keliantiems veiksmams ir neveikimui, šalinti jų atsiradimo priežastis ir sąlygas.
 
-4. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės ir įrenginiai – Lietuvos Respublikoje esančios ar steigiamos įmonės, projektuojami ar statomi įrenginiai, kuriems pagal jų paskirtį ir (ar) veiklos pobūdį šis įstatymas priskiria strateginę arba svarbią reikšmę nacionaliniam saugumui ir kuriems dėl esminių nacionalinio saugumo interesų apsaugos nustatomos sąlygos ir reikalavimai dėl įmonių ar įrenginių nuosavybės ar valdymo ar bet kurių kitų teisių, įmonių kapitalo struktūros ir jo pokyčių, taip pat reikalavimai, kuriuos turi tenkinti potencialūs dalyviai.
+4. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės ir ypatingą strateginę reikšmę ar strateginę reikšmę nacionaliniam saugumui turintys įrenginiai – Lietuvos Respublikoje esančios ar steigiamos įmonės, projektuojami ar statomi įrenginiai, kuriems pagal jų paskirtį ir (ar) veiklos pobūdį šis įstatymas priskiria ypatingą strateginę, strateginę arba svarbią reikšmę nacionaliniam saugumui ir kuriems dėl esminių nacionalinio saugumo interesų apsaugos nustatomos sąlygos ir reikalavimai dėl įmonių ar įrenginių nuosavybės ar valdymo ar bet kurių kitų teisių, įmonių kapitalo struktūros ir jo pokyčių, taip pat reikalavimai, kuriuos turi tenkinti potencialūs dalyviai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 5. Šiame įstatyme vartojamos sąvokos „nacionalinis investuotojas“ ir „projekto įgyvendinimo bendrovė“ suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės (atominės) elektrinės įstatyme (toliau – Branduolinės (atominės) elektrinės įstatymas).
 
-3 straipsnis. Strateginę reikšmę nacionaliniam saugumui turinčios valstybės įmonės ir valstybei nuosavybės teise priklausantys įrenginiai
+3 straipsnis. Strateginę reikšmę nacionaliniam saugumui turinčios valstybės ir savivaldybės įmonės ir valstybei nuosavybės teise priklausantys įrenginiai
 
-1. Strateginę reikšmę nacionaliniam saugumui turi šios valstybės įmonės:
+1. Strateginę reikšmę nacionaliniam saugumui turi šios valstybės ir savivaldybės įmonės:
 
 1) akcinė bendrovė Lietuvos paštas;
 
@@ -88,27 +100,41 @@ Vilnius
 
 17) valstybės įmonė Vidaus vandens kelių direkcija;
 
-18) valstybės įmonė „Kauno aerouostas“;
+18) valstybės įmonė Lietuvos oro uostai;
 
-19) valstybės įmonė Tarptautinis Palangos oro uostas;
+19) savivaldybės įmonė Šiaulių oro uostas.
 
-20) valstybės įmonė Tarptautinis Vilniaus oro uostas.
-
-2. Strateginę reikšmę nacionaliniam saugumui turi šie valstybei nuosavybės teise priklausantys įrenginiai:
+2. Strateginę reikšmę nacionaliniam saugumui turi šie valstybei nuosavybės teise priklausantys įrenginiai, jų priklausiniai ir Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nutarimu nustatytos šių įrenginių nacionaliniam saugumui svarbios apsaugos zonos:
 
 1) Klaipėdos valstybinio jūrų uosto hidrotechniniai įrenginiai, krantinės, navigacijos keliai ir kanalai, navigaciniai įrenginiai ir kiti infrastruktūros objektai;
 
-2) valstybinės reikšmės keliai pagal Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) patvirtintą sąrašą;
+2) valstybinės reikšmės keliai pagal Vyriausybės patvirtintą sąrašą;
 
 3) skrydžių valdymo sistemos įrenginiai;
 
 4) viešojo naudojimo geležinkeliai;
 
-5) polderiai ir jų statiniai, patikėjimo teise valdomi Klaipėdos ir Šilutės rajonų savivaldybių ir Pagėgių savivaldybės.
+5) polderiai ir jų statiniai, patikėjimo teise valdomi Klaipėdos ir Šilutės rajonų savivaldybių ir Pagėgių savivaldybės;
 
-3. Šio straipsnio 1 dalyje nurodytos valstybės įmonės gali būti pertvarkytos į akcines bendroves ar uždarąsias akcines bendroves arba reorganizuotos Lietuvos Respublikos civilinio kodekso nustatytais būdais tik Lietuvos Respublikos Seimui priėmus atitinkamą įstatymą.
+6) aerodromai.
 
-4. Šio straipsnio 2 dalyje nurodyti įrenginiai nuosavybės teise priklauso valstybei, bet įstatymų numatytais atvejais ir teisės aktų nustatyta tvarka gali būti išnuomoti ir perduoti pagal panaudos sutartį arba gali būti perduoti valdyti, naudoti ir disponuoti jais patikėjimo teise tik šio straipsnio 1 dalyje nurodytoms valstybės įmonėms, šio straipsnio 2 dalies 5 punkte nurodytoms savivaldybėms ir šio įstatymo 4 straipsnio 1 dalyje nurodytoms įmonėms.
+3. Svarbią strateginę reikšmę nacionaliniam saugumui turi šie ūkio sektoriai:
+
+1) energetikos;
+
+2) transporto;
+
+3) informacinių technologijų ir telekomunikacijų, kitų aukštųjų technologijų;
+
+4) finansų ir kredito.
+
+4. Šio straipsnio 1 dalyje nurodytos valstybės įmonės gali būti pertvarkytos į akcines bendroves ar uždarąsias akcines bendroves arba reorganizuotos Lietuvos Respublikos civilinio kodekso nustatytais būdais tik Lietuvos Respublikos Seimui priėmus atitinkamą įstatymą.
+
+5. Šio straipsnio 2 dalyje nurodyti įrenginiai nuosavybės teise priklauso valstybei, bet įstatymų numatytais atvejais ir teisės aktų nustatyta tvarka gali būti išnuomoti ir perduoti pagal panaudos sutartį arba gali būti perduoti valdyti, naudoti ir disponuoti jais patikėjimo teise tik šio straipsnio 1 dalyje nurodytoms valstybės įmonėms, šio straipsnio 2 dalies 5 punkte nurodytoms savivaldybėms ir šio įstatymo 4 straipsnio 1 dalyje nurodytoms įmonėms.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 4 straipsnis. Strateginę reikšmę nacionaliniam saugumui turinčios įmonės ir įrenginiai
 
@@ -366,23 +392,39 @@ Nr. XII-853, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04861
 
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 5 straipsnio pakeitimo įstatymas
 
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
+
+Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 1, 2, 3 ir 7 straipsnių pakeitimo įstatymas
+
 7 straipsnis. Potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimas
 
 1. Potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimas atliekamas šio straipsnio nustatyta tvarka ir atvejais.
 
 2. Potencialaus dalyvio atitikties nacionalinio saugumo interesams įvertinimas atliekamas tais atvejais, kai jis:
 
-1) veikdamas savarankiškai ar Lietuvos Respublikos vertybinių popierių įstatymo (toliau – Vertybinių popierių įstatymas) nustatytais atvejais kartu su kitais sutartinai veikiančiais asmenimis, siekia įgyti akcijų, suteikiančių 1/20 ar daugiau balsų įmonėje;
+„1) veikdamas savarankiškai ar Lietuvos Respublikos vertybinių popierių įstatymo (toliau – Vertybinių popierių įstatymas) nustatytais atvejais kartu su kitais sutartinai veikiančiais asmenimis, siekia įgyti akcijų, suteikiančių 1/20 ar daugiau balsų strateginę arba svarbią reikšmę turinčioje įmonėje arba įmonėje, veikiančioje šio įstatymo 3 straipsnio 3 dalyje nurodytame svarbią strateginę reikšmę nacionaliniam saugumui turinčiame ūkio sektoriuje;
 
-2) veikdamas savarankiškai ar Vertybinių popierių įstatymo nustatytais atvejais kartu su kitais sutartinai veikiančiais asmenimis, siekia įgyti akcijų, kurios kartu su jo turimu akcijų paketu arba kartu su kitų sutartinai veikiančių asmenų turimu akcijų paketu suteikia daugiau kaip 1/3 balsų įmonėje;
+2) veikdamas savarankiškai ar Vertybinių popierių įstatymo nustatytais atvejais kartu su kitais sutartinai veikiančiais asmenimis, siekia įgyti akcijų, kurios kartu su jo turimu akcijų paketu arba kartu su kitų sutartinai veikiančių asmenų turimu akcijų paketu suteikia daugiau kaip 1/3 balsų strateginę arba svarbią reikšmę turinčioje įmonėje arba įmonėje, veikiančioje šio įstatymo 3 straipsnio 3 dalyje nurodytame svarbią strateginę reikšmę nacionaliniam saugumui turinčiame ūkio sektoriuje;
 
-3) siekia įgyti nuosavybės ar valdymo ar bet kurias kitas teises į strateginę reikšmę nacionaliniam saugumui turintį įrenginį.
+3) siekia įgyti nuosavybės ar valdymo ar bet kurias kitas teises į strateginę reikšmę nacionaliniam saugumui turintį įrenginį arba ketina vykdyti veiklą į šių įrenginių nacionaliniam saugumui svarbios apsaugos zoną patenkančioje teritorijoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 3. Vyriausybė sudaro potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimo komisiją (toliau – Komisija). Į Komisiją Vyriausybė skiria savo ir nacionalinio saugumo srityje kompetentingų institucijų atstovus, tvirtina Komisijos darbo tvarkos aprašą.
 
 4. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ir įmonių, nuosavybės teise turinčių arba naudojančių strateginę reikšmę nacionaliniam saugumui turinčius įrenginius, valdymo organai dėl potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimo, gavę atitinkamo potencialaus dalyvio sutikimą, privalo kreiptis į Komisiją, pateikdami Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją apie potencialius dalyvius, kurią gauna iš potencialių dalyvių.
 
-5. Potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimą Komisijoje gali inicijuoti Vyriausybė, taip pat valstybės arba savivaldybės institucija, kuri yra valstybei ar savivaldybei nuosavybės teise priklausančių akcinės bendrovės akcijų valdytoja (kuriai šios akcijos perduotos patikėjimo teise) arba kuri įgyvendina valstybės ar savivaldybės įmonės savininko teises ir pareigas, arba potencialus dalyvis.
+5. Potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimą Komisijoje gali inicijuoti Vyriausybė, taip pat valstybės arba savivaldybės institucija, kuri yra valstybei ar savivaldybei nuosavybės teise priklausančių akcinės bendrovės akcijų valdytoja (kuriai šios akcijos perduotos patikėjimo teise) arba kuri įgyvendina valstybės ar savivaldybės įmonės savininko teises ir pareigas, arba kuri priima sprendimus dėl investicijų į svarbią strateginę reikšmę nacionaliniam saugumui turintį ūkio sektorių arba sprendimus dėl investicijų strateginę reikšmę nacionaliniam saugumui turinčių įrenginių apsaugos zonos teritorijoje, arba potencialus dalyvis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 6. Atlikdami potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimą, Komisijai išvadas pagal savo kompetenciją teisės aktų nustatyta tvarka teikia Valstybės saugumo departamentas, Lietuvos Respublikos užsienio reikalų ministerija, Vidaus reikalų ministerija, Policijos departamentas prie Vidaus reikalų ministerijos, kitos ikiteisminio tyrimo įstaigos, Lietuvos Respublikos generalinė prokuratūra, Komisijos sprendimu – kitos institucijos.
 
@@ -411,6 +453,12 @@ Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įm
 12. Komisijos sprendimas gali būti skundžiamas Vilniaus apygardos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 13. Europos Sąjungos valstybės narės, valstybės, pasirašiusios Europos ekonominės erdvės sutartį, taip pat juridiniai asmenys, kuriuose Europos Sąjungos valstybės narės arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, tiesiogiai ar netiesiogiai turi daugiau kaip 2/3 balsų suteikiančių šių juridinių asmenų akcijų ar kitų kapitalo dalių, atitinka nacionalinio saugumo interesus ir šiems subjektams netaikoma šio straipsnio 1 ir 2 dalyse nustatytos pareigos ir potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimas nėra atliekamas.
+
+14. Asmenims, vykdantiems ar siekiantiems vykdyti ūkinę veiklą ypatingą strateginę reikšmę ar strateginę reikšmę nacionaliniam saugumui turinčių įrenginių nacionaliniam saugumui svarbios apsaugos zonos teritorijoje, taikomi tokie pat apribojimai ir reikalavimai kaip ir strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių potencialiems dalyviams.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 8 straipsnis. Potencialaus dalyvio atitikties europinei ir transatlantinei integracijai kriterijai
 
