@@ -4,7 +4,7 @@ identifier: "TAR.40DFB5151B33"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-22"
-last_updated: "2012-01-01"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.40DFB5151B33"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2012-01-01 iki 2014-10-31
+Suvestinė redakcija nuo 2014-11-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7759, i. k. 1111010ISTA0XI-1868
 
@@ -191,11 +191,21 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGOS IR JŲ VEIKLOS LICENCIJAVIMAS
 
 1) teikti su mokėjimo paslaugomis, nurodytomis Mokėjimų įstatymo 5 straipsnio 4, 5 ar 7 punktuose, susijusią paskolą, laikydamasi šio straipsnio 4 dalyje nurodytų sąlygų;
 
-2) teikti glaudžiai su elektroninių pinigų leidimu ir (arba) mokėjimo paslaugų teikimu susijusias papildomas paslaugas, tokias kaip užsienio valiutos keitimas, lėšų saugojimo veikla, duomenų kaupimas ir tvarkymas;
+2) teikti glaudžiai su elektroninių pinigų leidimu ir (arba) mokėjimo paslaugų teikimu susijusias papildomas paslaugas, tokias kaip valiutos keitimas, lėšų saugojimo veikla, duomenų kaupimas ir tvarkymas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1036, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10869
 
 3) valdyti mokėjimo sistemas, laikydamasi Mokėjimų įstatymo 8 straipsnyje nustatytų reikalavimų;
 
 4) teisės aktų nustatyta tvarka vykdyti kitą veiklą, kuri nėra elektroninių pinigų leidimo veikla, išskyrus šio įstatymo 11 straipsnio 8 dalyje ir 12 straipsnio 11 dalyje nustatytus atvejus.
+
+5) keisti valiutą (grynaisiais pinigais).
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1036, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10869
 
 3. Elektroninių pinigų įstaigos iš elektroninių pinigų turėtojų gautos lėšos nedelsiant, kai tik tai techniškai įmanoma, turi būti iškeičiamos į elektroninius pinigus. Šios lėšos indėliu ar kitomis grąžintinomis lėšomis nelaikomos.
 
@@ -818,4 +828,14 @@ priedas
 1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB (OL 2009 L 267, p. 7).
 
 _________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1036, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10869
+
+Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 10 straipsnio pakeitimo įstatymas
 
