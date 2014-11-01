@@ -4,7 +4,7 @@ identifier: "TAR.F0E2E67B1F2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-03-19"
-last_updated: "2011-09-01"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos turizmo įstatymas
 
-Suvestinė redakcija nuo 2011-09-01 iki 2014-10-31
+Suvestinė redakcija nuo 2014-11-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
 
@@ -29,8 +29,6 @@ LIETUVOS RESPUBLIKOS TURIZMO ĮSTATYMAS
 1998 m. kovo 19 d. Nr. VIII-667
 
 Vilnius
-
-TAR pastaba. 11 ir 12 straipsniai įsigalioja 2011-08-01.
 
 PIRMASIS SKIRSNIS
 
@@ -66,13 +64,29 @@ BENDROSIOS NUOSTATOS
 
 12. Kambarys (numeris) – apgyvendinimui skirtame pastate specialiai įrengta patalpa ar jų grupė, apgyvendinimo paslaugų teikėjo siūloma asmenims nuomotis kaip nedalomas vienetas.
 
-13. Kelionių agentas – turizmo paslaugų teikėjas fizinis asmuo, priimantis užsakymus ir sutartiniais pagrindais tarpininkaujantis parduodant organizuotas turistines keliones ir (ar) atskiras turizmo paslaugas vartotojams, teikiantis jiems su parduodamomis turizmo paslaugomis susijusią informaciją.
+13. Kelionių pardavimo agentas – turizmo paslaugų teikėjas, priimantis užsakymus ir sutartiniais pagrindais tarpininkaujantis parduodant organizuotas turistines keliones ir (ar) atskiras turizmo paslaugas vartotojams, teikiantis jiems su parduodamomis turizmo paslaugomis susijusią informaciją.
 
-14. Kelionių agentūra – turizmo paslaugų teikėjas juridinis asmuo, priimantis užsakymus ir sutartiniais pagrindais tarpininkaujantis parduodant organizuotas turistines keliones ir (ar) atskiras turizmo paslaugas vartotojams, teikiantis jiems su parduodamomis turizmo paslaugomis susijusią informaciją.
+Straipsnio dalies pakeitimai:
 
-15. Kelionių organizatorius – turizmo paslaugų teikėjas, rengiantis organizuotas turistines keliones, teikiantis kitas turizmo paslaugas ir parduodantis jas turizmo paslaugų vartotojams tiesiogiai arba per kelionių agentūras ar kelionių agentus.
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
-16. Kelionių organizavimo paslauga – savarankiška, už užmokestį atliekama ekonominė veikla, apimanti turistinių kelionių rengimą, reklamą ir (ar) jų pardavimą tiesiogiai arba per kelionių agentūras ar kelionių agentus.
+14. Neteko galios nuo 2014-11-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
+
+15. Kelionių organizatorius – turizmo paslaugų teikėjas, reguliariai rengiantis organizuotas turistines keliones, teikiantis ir (ar) parduodantis kelionių organizavimo paslaugas turizmo paslaugų vartotojams tiesiogiai arba per kelionių pardavimo agentus ir (ar) teikiantis ir (ar) parduodantis kitas turizmo paslaugas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
+
+16. Kelionių organizavimo paslauga – savarankiška, už užmokestį atliekama ekonominė veikla, apimanti organizuotų turistinių kelionių rengimą ir (ar) jų pardavimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 17. Kelionių vadovas – fizinis asmuo, kuris suteikia kelionės informaciją ir lydi turistus šalyje ir užsienyje.
 
@@ -82,7 +96,11 @@ BENDROSIOS NUOSTATOS
 
 20. Kurortinė teritorija – Lietuvos Respublikos Vyriausybės suteiktas statusas gyvenamajai vietovei arba jos daliai (gyvenamosioms vietovėms arba jų dalims), kurioje yra gamtinių išteklių, galinčių turėti gydomųjų savybių, ir speciali infrastruktūra naudoti šiuos išteklius sveikatinimo, turizmo ir poilsio reikmėms.
 
-21. Lietuvos Respublikos turizmo paslaugų teikėjas – siūlantis arba teikiantis turizmo paslaugas valstybės narės pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis ir turi teisę gyventi Lietuvos Respublikoje (toliau – turizmo paslaugų teikėjas fizinis asmuo), arba Lietuvos Respublikoje įsteigtas juridinis asmuo ar jo padalinys, taip pat valstybės narės juridinio asmens ar kitos organizacijos padalinys, įsteigti (įregistruoti) Lietuvos Respublikoje (toliau – turizmo paslaugų teikėjas juridinis asmuo).
+21. Lietuvos Respublikos turizmo paslaugų teikėjas – siūlantis arba teikiantis turizmo paslaugas valstybės narės pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, turintys teisę gyventi Lietuvos Respublikoje (toliau – turizmo paslaugų teikėjas fizinis asmuo), arba Lietuvos Respublikoje įsteigtas juridinis asmuo ar jo padalinys, taip pat valstybės narės juridinio asmens ar kitos organizacijos padalinys, įsteigtas Lietuvos Respublikoje (toliau – turizmo paslaugų teikėjas juridinis asmuo).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 22. Nakvynės ir pusryčių paslauga – savarankiška, už užmokestį turistui teikiama apgyvendinimo paslauga, kai kartu su nakvyne teikiami ir pusryčiai.
 
@@ -104,7 +122,11 @@ BENDROSIOS NUOSTATOS
 
 31. Turistinės stovyklos paslauga – savarankiška, už užmokestį turistams teikiama paslauga, kai turistinėje stovyklavietėje išnuomojama aikštelė palapinei, kemperiui ar kilnojamajam nameliui statyti.
 
-32. Turizmo informacijos centras – juridinis asmuo, kurio veikla apima informacijos apie turizmo išteklius ir turizmo paslaugas rengimą, teikimą ir (ar) skleidimą.
+32. Turizmo informacijos centras – juridinis arba fizinis asmuo, kurio veikla apima informacijos apie turizmo išteklius ir turizmo paslaugas rengimą, teikimą ir (ar) skleidimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 33. Turizmo ištekliai – objektai ar vietovės, dominantys turistus ar skirti jų reikmėms.
 
@@ -120,11 +142,21 @@ BENDROSIOS NUOSTATOS
 
 39. Vidaus vandenų turizmo paslauga – savarankiška, už užmokestį turistams teikiama kelionės vidaus vandenų trasomis ir vandens telkiniuose organizavimo paslauga, kuriai reikalinga tam tikra infrastruktūra ar jos dalis vandens turizmo poreikiams tenkinti šalies vidaus vandenų trasose ir vandens telkiniuose.
 
-40. Viešbutis – kolektyvinio apgyvendinimo paslaugas teikianti įmonė, kur teikiamos apgyvendinimo kambariuose (numeriuose) paslaugos, įskaitant kasdienę nuomojamų kambarių priežiūrą (valymą, tvarkymą, lovų klojimą) ir aptarnavimą kambariuose. Pagal teikiamų paslaugų kokybę ir įvairovę viešbučiams suteikiamos kategorijos ir klasės.
+40. Viešbutis – turizmo paslaugų teikėjas, teikiantis apgyvendinimo kambariuose (numeriuose) paslaugas, įskaitant kasdienę nuomojamų kambarių priežiūrą (valymą, tvarkymą, lovų klojimą) ir aptarnavimą kambariuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 41. Viešoji turizmo ir poilsio infrastruktūra – nuosavybės teise valstybei ar savivaldybėms priklausantys stacionarūs ar laikini statiniai ir įrenginiai, kiti objektai (turizmo trasos, pėsčiųjų (dviračių) takai, poilsio, apžvalgos ar stovėjimo aikštelės, stovyklavietės ir jų įrenginiai, paplūdimių įrenginiai, informacijos, higienos ir atliekų surinkimo, kiti renginių, lankytojų aptarnavimo ir poilsio objektai), skirti rekreacinių teritorijų ir turistinių objektų lankymui ir (ar) poilsio organizavimui.
 
 42. Vietinis turizmas – Lietuvos Respublikos gyventojų kelionės po Lietuvos Respubliką.
+
+43. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos paslaugų įstatyme, Lietuvos Respublikos draudimo įstatyme ir kituose įstatymuose.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 3 straipsnis. Turizmo paslaugų rūšys
 
@@ -146,71 +178,79 @@ KELIONIŲ ORGANIZAVIMO PASLAUGOS
 
 4 straipsnis. Kelionių organizavimo paslaugų teikėjai
 
-1. Kelionių organizavimo paslaugų teikėjai yra kelionių organizatoriai, kelionių agentūros ir kelionių agentai.
+1. Kelionių organizavimo paslaugas teikia kelionių organizatoriai.
 
-2. Lietuvos Respublikoje kelionių organizavimo paslaugas nuolat gali teikti Lietuvos Respublikos turizmo paslaugų teikėjai, turintys Valstybinio turizmo departamento prie Lietuvos Respublikos Vyriausybės įgaliotos ministerijos (toliau – Valstybinis turizmo departamentas) išduotą pažymėjimą, patvirtinantį teisę vykdyti šią veiklą.
+2. Vykdyti kelionių organizatoriaus veiklą gali valstybės narės pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, turintys teisę gyventi Lietuvos Respublikoje, arba Lietuvos Respublikoje įsteigtas juridinis asmuo ar jo padalinys, taip pat valstybės narės juridinio asmens ar kitos organizacijos padalinys, įsteigtas (įregistruotas) Lietuvos Respublikoje (toliau – pareiškėjas), turintis Valstybinio turizmo departamento prie Ūkio ministerijos (toliau – Valstybinis turizmo departamentas) išduotą kelionių organizatoriaus pažymėjimą, patvirtinantį teisę vykdyti kelionių organizatoriaus veiklą.
 
-3. Lietuvos Respublikos turizmo paslaugų teikėjai, prieš pradėdami kelionių organizatoriaus, kelionių agentūros ar kelionių agento veiklą, Valstybiniam turizmo departamentui pateikia nustatytos formos prašymą išduoti atitinkamą pažymėjimą ir šiam prašymui nagrinėti būtinus dokumentus. Išduoti pažymėjimą arba motyvuotą rašytinį atsisakymą išduoti pažymėjimą Valstybinis turizmo departamentas privalo pateikti ne vėliau kaip per 30 dienų.
+3. Kelionių organizatoriaus pažymėjimas, patvirtinantis teisę nuolat vykdyti kelionių organizatoriaus veiklą, išduodamas neterminuotam laikui pareiškėjui, norinčiam teikti kelionių organizavimo paslaugas, jeigu jis Valstybiniam turizmo departamentui pateikia:
 
-4. Jeigu į tinkamai įformintą prašymą išduoti pažymėjimą, pateiktą kartu su visais būtinais dokumentais, neatsakoma per 30 dienų, laikoma, kad pažymėjimas yra išduotas, išskyrus įstatymuose nustatytus atvejus, kuriais atsakymo dėl pažymėjimo išdavimo nepateikimas nelaikomas pažymėjimo išdavimu ir tokios išimtys pateisinamos svarbiais visuomenės interesais, įskaitant teisėtus trečiųjų asmenų interesus.
+1) tinkamai užpildytą Valstybinio turizmo departamento nustatytos formos prašymą;
 
-5. Kelionių organizatoriaus pažymėjimas, suteikiantis teisę nuolat vykdyti kelionių organizatoriaus veiklą, išduodamas norinčiam teikti kelionių organizavimo paslaugas Lietuvos Respublikos turizmo paslaugų teikėjui, jeigu:
+2) šio įstatymo 8 straipsnyje nustatytą galiojantį prievolių įvykdymo užtikrinimą patvirtinantį dokumentą;
 
-1) jis pateikia nustatytos formos prašymą išduoti kelionių organizatoriaus pažymėjimą ir jame nurodo savo veiklos formą (formas): atvykstamasis, išvykstamasis ir (ar) vietinis turizmas;
+3) Valstybinio turizmo departamento nustatytos formos deklaraciją, kad fizinis asmuo, juridinis asmuo, juridinio asmens vadovas, kolegialaus valdymo organo narys, savininkas, taip pat juridinio asmens dalyvis, turintis juridinio asmens įstatinio kapitalo ir (ar) balsavimo teisių dalį, suteikiančią daugiau negu ketvirtadalį balso teisių visuotiniame dalyvių susirinkime, yra nepriekaištingos reputacijos. Šiame punkte nurodyti asmenys nelaikomi nepriekaištingos reputacijos, jeigu fizinis asmuo arba juridinio asmens vadovas, kolegialaus valdymo organo narys, savininkas, taip pat juridinio asmens dalyvis, turintis juridinio asmens įstatinio kapitalo ir (ar) balsavimo teisių dalį, įsiteisėjusiu apkaltinamuoju teismo nuosprendžiu yra pripažinti kaltais dėl bet kokios tyčinės nusikalstamos veikos padarymo ir turi neišnykusį ar nepanaikintą teistumą arba yra bausti už administracinius teisės pažeidimus nuosavybės, prekybos, finansų, apskaitos ar statistikos srityje arba juridiniam asmeniui per pastaruosius trejus metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl bet kokios tyčinės nusikalstamos veikos padarymo.
 
-2) jis turi šio įstatymo 8 straipsnyje nustatytą prievolių įvykdymo užtikrinimą patvirtinantį dokumentą;
+4. Išduoti kelionių organizatoriaus pažymėjimą arba pateikti motyvuotą rašytinį atsisakymą išduoti kelionių organizatoriaus pažymėjimą Valstybinis turizmo departamentas privalo ne vėliau kaip per 30 dienų nuo visų tinkamai įformintų šio straipsnio 3 dalyje nurodytų dokumentų gavimo dienos. Atsakymo per šioje dalyje nustatytą terminą nepateikimas visais atvejais laikomas kelionių organizatoriaus pažymėjimo išdavimu.
 
-3) kelionių organizatorius arba kelionių organizatoriaus vadovas, kolegialaus valdymo organo narys, savininkas arba dalyvis, turintis juridinio asmens įstatinio kapitalo ir (arba) balsavimo teisių dalį, suteikiančią daugiau negu ketvirtadalį balso teisių visuotiniame dalyvių susirinkime, yra nepriekaištingos reputacijos ir pateikia tai patvirtinantį dokumentą. Šiame punkte nurodytas asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis per praėjusius trejus metus buvo teistas Lietuvos Respublikoje už nusikaltimus ar baudžiamuosius nusižengimus nuosavybei, turtinėms teisėms, turtiniams interesams, ekonomikai, verslo tvarkai ar finansų sistemai, jei teistumas neišnykęs arba nepanaikintas, arba per praėjusius trejus metus administracine tvarka buvo baustas už neteisėtą vertimąsi komercine, ūkine, finansine ar profesine veikla, už apskaitos taisyklių pažeidimą, statistinių duomenų pateikimo tvarkos pažeidimą, arba kitoje valstybėje – už analogiškas veikas.
+5. Valstybinis turizmo departamentas privalo 10 darbo dienų sustabdyti kelionių organizatoriaus pažymėjimo galiojimą, kai paaiškėja bent viena iš šių aplinkybių:
 
-4) jis yra reikiamos kvalifikacijos ar turi bent vieną reikiamos kvalifikacijos darbuotoją ir pateikia kvalifikaciją patvirtinančius dokumentus.
+1) po sprendimo išduoti kelionių organizatoriaus pažymėjimą priėmimo paaiškėjo faktų, dėl kurių būtų atsisakyta pareiškėjui išduoti kelionių organizatoriaus pažymėjimą;
 
-6. Kelionių agentūros, kelionių agento pažymėjimas, suteikiantis atitinkamai teisę nuolat vykdyti kelionių agentūros ar kelionių agento veiklą išduodamas norinčiam vykdyti kelionių agentūros ar kelionių agento veiklą Lietuvos Respublikos turizmo paslaugų teikėjui, jeigu:
+2) galiojančiame prievolių įvykdymo užtikrinimą patvirtinančiame dokumente nurodyta prievolių įvykdymo užtikrinimo suma neatitinka šio įstatymo 8 straipsnyje nustatytų reikalavimų;
 
-1) jis pateikia nustatytos formos prašymą išduoti kelionių agentūros ar kelionių agento pažymėjimą;
+3) kelionių organizatorius, likus ne mažiau kaip 15 darbo dienų iki turimo prievolių įvykdymo užtikrinimo dokumento galiojimo pabaigos, Valstybiniam turizmo departamentui nepateikė naujo kelionių organizatoriaus prievolių įvykdymo užtikrinimą patvirtinančio dokumento ir dokumentų, pagrindžiančių prievolių įvykdymo užtikrinimą patvirtinančiame dokumente nurodytą prievolių įvykdymo užtikrinimo sumą;
 
-2) jis turi šio įstatymo 8 straipsnyje nustatytą prievolių įvykdymo užtikrinimą patvirtinantį dokumentą;
+4) kelionių organizatorius nepateikia šio įstatymo 7 straipsnio 9 dalies 3 punkte nurodytos informacijos;
 
-3) kelionių agentas, kelionių agentūra arba kelionių agentūros vadovas, kolegialaus valdymo organo narys, savininkas arba dalyvis, turintis juridinio asmens įstatinio kapitalo ir (arba) balsavimo teisių dalį, suteikiančią daugiau negu ketvirtadalį balso teisių visuotiniame dalyvių susirinkime, yra nepriekaištingos reputacijos ir pateikia tai patvirtinantį dokumentą. Šiame punkte nurodytas asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis per praėjusius trejus metus buvo teistas Lietuvos Respublikoje už nusikaltimus ar baudžiamuosius nusižengimus nuosavybei, turtinėms teisėms, turtiniams interesams, ekonomikai, verslo tvarkai ar finansų sistemai, jei teistumas neišnykęs arba nepanaikintas, arba per praėjusius trejus metus administracine tvarka buvo baustas už neteisėtą vertimąsi komercine, ūkine, finansine ar profesine veikla, už apskaitos taisyklių pažeidimą, statistinių duomenų pateikimo tvarkos pažeidimą, arba kitoje valstybėje – už analogiškas veikas.
+5) kelionių organizatorius paskelbė arba kitaip raštu pranešė kreditoriams ir raštu pranešė Valstybiniam turizmo departamentui apie tai, kad negali arba neketina vykdyti įsipareigojimų.
 
-4) jis yra reikiamos kvalifikacijos ar turi bent vieną reikiamos kvalifikacijos darbuotoją ir pateikia kvalifikaciją patvirtinančius dokumentus.
+6. Kai Valstybinis turizmo departamentas sustabdo kelionių organizatoriaus pažymėjimo galiojimą, kelionių organizatorius nuo pranešimo apie Valstybinio turizmo departamento sprendimą sustabdyti kelionių organizatoriaus pažymėjimo galiojimą gavimo dienos neturi teisės prisiimti naujų įsipareigojimų turistams ir vartotojams, tačiau privalo įvykdyti visus iki Valstybinio turizmo departamento pranešimo apie sprendimą sustabdyti kelionių organizatoriaus pažymėjimo galiojimą gavimo dienos prisiimtus įsipareigojimus turistams ir vartotojams.
 
-7. Valstybinis turizmo departamentas neišduoda kelionių organizatoriaus pažymėjimo, jeigu neįvykdytas ar netinkamai įvykdytas bent vienas šio straipsnio 5 dalies reikalavimas.
+7. Valstybinis turizmo departamentas ne vėliau kaip kitą darbo dieną nuo sprendimo sustabdyti kelionių organizatoriaus pažymėjimo galiojimą priėmimo dienos turi raštu pranešti kelionių organizatoriui apie Valstybinio turizmo departamento sprendimą sustabdyti kelionių organizatoriaus pažymėjimo galiojimą. Kelionių organizatorius privalo per 10 darbo dienų nuo pranešimo apie Valstybinio turizmo departamento sprendimą sustabdyti kelionių organizatoriaus pažymėjimo galiojimą gavimo dienos pašalinti šio straipsnio 5 dalyje nurodytas aplinkybes. Kai paaiškėja, kad dėl objektyvių priežasčių per šioje dalyje nustatytą terminą šio straipsnio 5 dalyje nurodytos aplinkybės negali būti pašalintos, Valstybinis turizmo departamentas gali kelionių organizatoriaus motyvuotu prašymu kelionių organizatoriaus pažymėjimo galiojimo sustabdymo terminą pratęsti, bet ne ilgiau kaip 10 darbo dienų.
 
-8. Valstybinis turizmo departamentas neišduoda kelionių agentūros ar kelionių agento pažymėjimo, jeigu neįvykdytas ar netinkamai įvykdytas bent vienas šio straipsnio 6 dalies reikalavimas.
+8. Kai paaiškėja, kad kelionių organizatoriaus nuosavas kapitalas tapo mažesnis negu 1/2 įstatuose ar kituose Lietuvos Respublikos civilinio kodekso 2.47 straipsnio 1 dalyje nurodytuose dokumentuose nurodyto įstatinio kapitalo dydžio, Valstybinis turizmo departamentas privalo raštu įspėti kelionių organizatorių apie kelionių organizatoriaus pažymėjimo galiojimo panaikinimą, jeigu kelionių organizatorius per 6 mėnesius nuo pranešimo apie Valstybinio turizmo departamento įspėjimą panaikinti kelionių organizatoriaus pažymėjimo galiojimą gavimo dienos nepašalina šioje dalyje nurodyto trūkumo.
 
-9. Kelionių organizatoriaus, kelionių agentūros, kelionių agento ir jų reikiamos kvalifikacijos darbuotojų kvalifikacinius reikalavimus, taip pat kelionių organizatoriaus, kelionių agentūros, kelionių agento ir jų reikiamos kvalifikacijos darbuotojų kvalifikacinių pažymėjimų išdavimo tvarką nustato Valstybinis turizmo departamentas.
+9. Valstybinis turizmo departamentas kitą darbo dieną panaikina kelionių organizatoriaus pažymėjimo galiojimą, kai:
 
-10. Kelionių agentūra ar kelionių agentas, parduodantys verslo vietos Lietuvos Respublikoje neturinčių ne valstybių narių kelionių organizatorių organizuotas turistines keliones, laikomi kelionių organizatoriais ir privalo turėti pagal šio įstatymo 8 straipsnį privalomą prievolių įvykdymo užtikrinimą patvirtinantį dokumentą.
+1) paaiškėja, kad kelionių organizatorius juridinis asmuo yra likviduojamas arba pasibaigia kitais įstatymų nustatytais pagrindais;
 
-11. Lietuvos Respublikos turizmo paslaugų teikėjams kelionių organizatoriaus, kelionių agentūros ar kelionių agento pažymėjimai išduodami neterminuotam laikui. Pažymėjimo galiojimas panaikinamas, jeigu paaiškėja:
+2) įsiteisėja teismo nutartis kelionių organizatoriui juridiniam asmeniui iškelti bankroto bylą arba kreditorių susirinkimas priima nutarimą kelionių organizatoriui juridiniam asmeniui bankroto procedūras vykdyti ne teismo tvarka;
 
-1) kad pažymėjimui gauti buvo pateikti klaidinantys duomenys;
+3) kelionių organizatorius per šio straipsnio 7 dalyje nustatytus terminus nepašalina pažeidimų, dėl kurių kelionių organizatoriaus pažymėjimo galiojimas buvo sustabdytas ir (ar) kelionių organizatoriaus pažymėjimo galiojimo sustabdymas buvo pratęstas;
 
-2) paslaugų teikėjas pažeidė Lietuvos Respublikos įstatymus ar kitus teisės aktus, reglamentuojančius turizmo paslaugų teikimą;
+4) kelionių organizatorius per šio straipsnio 8 dalyje nustatytą terminą nepašalina šio straipsnio 8 dalyje nustatyto pažeidimo;
 
-3) paslaugų teikėjas neturi šio įstatymo 8 straipsnyje nustatyto prievolių įvykdymo užtikrinimą patvirtinančio dokumento;
+5) įsiteisėja teismo nutartis kelionių organizatoriui fiziniam asmeniui iškelti bankroto bylą ir jis per 10 darbo dienų nepateikia Valstybiniam turizmo departamentui teismo leidimo vykdyti individualią veiklą arba įsiteisėja teismo nutartis, kuria patvirtinamas fizinio asmens mokumo atkūrimo planas, kuriame nenumatyta, kad fizinis asmuo vykdys individualią veiklą;
 
-4) paslaugų teikėjas juridinis asmuo yra likviduojamas arba pasibaigia kitais įstatymų nustatytais pagrindais;
+6) kelionių organizatorius fizinis asmuo miršta;
 
-5) paslaugų teikėjas yra nemokus ar jam iškelta bankroto byla;
+7) kelionių organizatorius pateikia rašytinį prašymą panaikinti kelionių organizatoriaus pažymėjimo galiojimą;
 
-6) paslaugų teikėjas per Valstybinio turizmo departamento nustatytą terminą nepašalina pažeidimų, dėl kurių pažymėjimo galiojimas buvo sustabdytas;
+8) kelionių organizatorius pažeidžia bent vieną iš šio straipsnio 6 dalyje nustatytų reikalavimų.
 
-7) paslaugų teikėjas fizinis asmuo miršta.
+10. Valstybinis turizmo departamentas negali kelionių organizatoriaus pažymėjimo galiojimo sustabdyti, kelionių organizatoriaus pažymėjimo sustabdymo termino pratęsti, kelionių organizatoriaus pažymėjimo galiojimo panaikinti, jeigu nesilaikoma teisės aktuose nustatytų veiklos sąlygų, tačiau pažeidimas yra mažareikšmis ir nepažeidžia turistų ir vartotojų teisių.
 
-12. Valstybinis turizmo departamentas, nustatęs, kad nevykdoma bent viena iš šio straipsnio 5 arba 6 dalyse nurodytų sąlygų, privalo sustabdyti kelionių organizatoriaus, kelionių agentūros ar kelionių agento pažymėjimo galiojimą ir leisti paslaugų teikėjui per 10 darbo dienų nurodytus pažeidimus pašalinti. Pašalinus pažeidimus, dėl kurių pažymėjimo galiojimas buvo sustabdytas, pažymėjimo galiojimo sustabdymas panaikinamas.
+11. Kelionių organizatoriaus pažymėjimo, popierinės formos kelionių organizatoriaus pažymėjimo dublikato išdavimo, kelionių organizatoriaus pažymėjimo galiojimo sustabdymo, kelionių organizatoriaus pažymėjimo galiojimo panaikinimo tvarka nustatoma Kelionių organizatoriaus licencijavimo  tvarkos apraše. Šį aprašą tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
-13. Lietuvos Respublikos turizmo paslaugų teikėjai privalo pateikti Valstybiniam turizmo departamentui informaciją apie įsteigtus filialus ar biurus, per kuriuos jie ketina vykdyti ar nustojo vykdyti pažymėjime nurodytą veiklą, taip pat informaciją apie veiklos formos, teisinės formos, teisinio statuso, buveinės ar kitų veiklos vietų adreso ar kitus pakeitimus, dėl kurių nebevykdomi šio straipsnio 5 ar 6 dalies, šio įstatymo 8 straipsnio 3, 4 ir 11 dalių reikalavimai, per 10 darbo dienų nuo to momento, kai atitinkamą informaciją turizmo paslaugų teikėjas sužinojo ar turėjo sužinoti.
+12. Valstybinio turizmo departamento interneto svetainėje skelbiama informacija apie asmenis, kuriems yra išduotas kelionių organizatoriaus pažymėjimas arba panaikintas jo galiojimas, taip pat skelbiami kelionių organizatoriai, kurių kelionių organizatoriaus pažymėjimo galiojimas yra sustabdytas. Valstybinio turizmo departamento interneto svetainėje skelbiami kelionių organizatoriaus fizinio asmens vardas, pavardė, kelionių organizatoriaus juridinio asmens pavadinimas, teikiamų turizmo paslaugų tipas (atvykstamasis, išvykstamasis, vietinis turizmas), informacija apie kelionių organizatoriaus pažymėjimo galiojimą, informacija apie turimą prievolių įvykdymo užtikrinimą, veiklos vykdymo adresas ir kiti kontaktiniai duomenys: telefono, fakso numeriai, elektroninio pašto, interneto svetainės adresai, kelionių organizatoriaus pažymėjimo galiojimo sustabdymo priežastys ir terminai ar kelionių organizatoriaus pažymėjimo galiojimo panaikinimo priežastys. Panaikinus kelionių organizatoriaus pažymėjimo galiojimo sustabdymą, informacija apie kelionių organizatoriaus pažymėjimo galiojimo sustabdymo priežastis ir terminus iš Valstybinio turizmo departamento interneto svetainės pašalinama. Įsiteisėjus teismo sprendimui, kuriuo panaikinamas Valstybinio turizmo departamento sprendimas panaikinti kelionių organizatoriaus pažymėjimo galiojimą, informacija apie kelionių organizatoriaus pažymėjimo galiojimo panaikinimo priežastis iš Valstybinio turizmo departamento interneto svetainės pašalinama.
 
-14. Kelionių organizatoriaus, kelionių agentūros, kelionių agento pažymėjimų, suteikiančių teisę vykdyti atitinkamai kelionių organizatoriaus, kelionių agentūros ar kelionių agento veiklą, išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarka nustatyta Pažymėjimų Lietuvos Respublikos turizmo paslaugų teikėjams išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarkos apraše. Šį aprašą tvirtina Valstybinis turizmo departamentas. Už šioje dalyje nurodytų pažymėjimų išdavimą mokama nustatyto dydžio valstybės rinkliava.
+13. Pareiškėjai ir kelionių organizatoriai prašymus, deklaracijas ir kitus šiame straipsnyje nurodytus dokumentus, susijusius su kelionių organizatoriaus pažymėjimo, popierinės formos kelionių organizatoriaus pažymėjimo dublikato išdavimu, kelionių organizatoriaus pažymėjimo galiojimo sustabdymu, kelionių organizatoriaus pažymėjimo galiojimo sustabdymo pratęsimu ir kelionių organizatoriaus pažymėjimo galiojimo panaikinimu, Valstybiniam turizmo departamentui gali teikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą ar tiesiogiai kreipdamiesi į Valstybinį turizmo departamentą.
+
+Straipsnio pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 5 straipsnis. Laikinas kelionių organizavimo paslaugų teikimas
 
 1. Laikinai kelionių organizavimo paslaugas Lietuvos Respublikoje gali teikti:
 
-1) valstybėje narėje įsteigti juridiniai asmenys ar kitos organizacijos, ar jų padaliniai, turintys teisę vykdyti kelionių organizavimo ar kelionių agentūros veiklą valstybėje narėje;
+1) valstybėje narėje įsteigti juridiniai asmenys ar kitos organizacijos ar jų padaliniai, turintys teisę vykdyti kelionių organizavimo ar kelionių pardavimo agento veiklą valstybėje narėje;
 
-2) valstybės narės piliečiai, kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis ir turi teisę vykdyti kelionių organizavimo ar kelionių agento veiklą valstybėje narėje.
+2) valstybės narės piliečiai, kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis ir turi teisę vykdyti kelionių organizavimo ar kelionių pardavimo agento veiklą valstybėje narėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 2. Ar kelionių organizavimo paslaugos teikiamos laikinai, ar yra vienkartinės, nustato Valstybinis turizmo departamentas. Kriterijus, kurios kelionių organizavimo paslaugos teikiamos laikinai, kurios yra vienkartinės, nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
@@ -218,13 +258,25 @@ KELIONIŲ ORGANIZAVIMO PASLAUGOS
 
 6 straipsnis. Turizmo paslaugų teikimo sutartys
 
-1. Lietuvos Respublikoje turizmo paslaugų teikimo sutartys dėl organizuotų turistinių kelionių tarp kelionių organizatoriaus, veikiančio tiesiogiai arba per kelionių agentūras ir (ar) kelionių agentus, ir turisto sudaromos vadovaujantis standartinėmis turizmo paslaugų teikimo sutarčių sąlygomis.
+1. Lietuvos Respublikoje turizmo paslaugų teikimo sutartys dėl organizuotų turistinių kelionių tarp kelionių organizatoriaus, veikiančio tiesiogiai arba per kelionių pardavimo agentus, ir turisto sudaromos vadovaujantis standartinėmis turizmo paslaugų teikimo sutarčių sąlygomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 2. Standartinės turizmo paslaugų teikimo sutarčių sąlygos parengiamos vadovaujantis Lietuvos Respublikos civiliniu kodeksu (toliau – Civilinis kodeksas) ir šiuo įstatymu. Standartines turizmo paslaugų teikimo sutarčių sąlygas tvirtina Valstybinis turizmo departamentas.
 
-3. Organizuotos turistinės kelionės pardavimas atskiromis paslaugomis, išrašant sąskaitą už kiekvieną atskirą paslaugą, neatleidžia turizmo paslaugų teikėjo (kelionių organizatoriaus ir (ar) kelionių agentūros, ir (ar) kelionių agento) nuo pareigos sudaryti turizmo paslaugų teikimo sutartį.
+3. Organizuotos turistinės kelionės pardavimas atskiromis paslaugomis, išrašant sąskaitą už kiekvieną atskirą paslaugą, neatleidžia turizmo paslaugų teikėjo (kelionių organizatoriaus ir (ar) kelionių pardavimo agento) nuo pareigos sudaryti turizmo paslaugų teikimo sutartį.
 
-4. Kai, nutraukus turizmo paslaugų teikimo sutartį, kelionių organizatoriui, kelionių agentūrai ar kelionių agentui atsiranda pareiga grąžinti turistui visus ar dalį už organizuotą turistinę kelionę sumokėtų pinigų, pinigai turi būti grąžinti į turisto nurodytą sąskaitą per 10 darbo dienų nuo turizmo paslaugų teikimo sutarties nutraukimo.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
+
+4. Jeigu, nutraukus turizmo paslaugų teikimo sutartį, kelionių organizatoriui ir (ar) kelionių pardavimo agentui atsiranda pareiga grąžinti turistui visus ar dalį už organizuotą turistinę kelionę sumokėtų pinigų, pinigai turi būti grąžinti į turisto nurodytą sąskaitą per 10 darbo dienų nuo turizmo paslaugų teikimo sutarties nutraukimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 5. Kai turizmo paslaugų teikimo sutartis sudaroma nuotolinės prekybos būdu, laikoma, kad turizmo paslaugų teikimo sutartis sudaryta tokiomis sąlygomis, kokios buvo skelbiamos oficialioje kelionių organizatoriaus interneto svetainėje (ar elektroninės prekybos sistemoje) organizuotos turistinės kelionės įsigijimo metu. Jeigu turizmo paslaugų teikimo sutarties sąlygos oficialioje kelionių organizatoriaus interneto svetainėje neskelbiamos ar organizuotos turistinės kelionės įsigijimo metu nebuvo paskelbtos, laikoma, kad turizmo paslaugų teikimo sutartis buvo sudaryta pagal standartines turizmo paslaugų teikimo sutarčių sąlygas.
 
@@ -232,13 +284,13 @@ KELIONIŲ ORGANIZAVIMO PASLAUGOS
 
 7. Ginčus dėl turizmo paslaugų teikimo sutarties netinkamo vykdymo ar nevykdymo ikiteismine tvarka nagrinėja Valstybinė vartotojų teisių apsaugos tarnyba Lietuvos Respublikos vartotojų teisių apsaugos įstatymo (toliau – Vartotojų teisių apsaugos įstatymas) nustatyta tvarka.
 
-7 straipsnis. Kelionių organizatorių, kelionių agentūrų ir kelionių agentų teisės ir pareigos
+7 straipsnis. Kelionių organizatorių, kelionių pardavimo agentų teisės ir pareigos
 
-1. Kelionių organizatorių, kelionių agentūrų ir kelionių agentų teisės ir pareigos nustatytos Civiliniame kodekse, šiame įstatyme, Vartotojų teisių apsaugos įstatyme, kituose įstatymuose ir teisės aktuose, turizmo paslaugų teikimo sutartyse.
+1. Kelionių organizatorių, kelionių pardavimo agentų teisės ir pareigos nustatytos Civiliniame kodekse, šiame įstatyme, Vartotojų teisių apsaugos įstatyme, kituose įstatymuose ir teisės aktuose, turizmo paslaugų teikimo sutartyse.
 
 2. Kelionių organizatoriai, viešai reklamuodami savo teikiamas turizmo paslaugas kelionių prospektuose, kataloguose ar kitoje turistines keliones aprašančioje medžiagoje, turi pateikti įskaitomą ir neklaidinančią informaciją apie:
 
-1) transporto priemones, kuriomis vykstama, jų charakteristikas ir kategoriją;
+1) tai, kur vykstama, transporto priemones, kuriomis vykstama, jų charakteristikas ir kategoriją;
 
 2) apgyvendinimo tipą, objekto vietą, kategoriją ar patogumų lygį ir pagrindinius ypatumus bei klasę (pagal atitinkamas priimančiosios valstybės taisykles);
 
@@ -254,19 +306,19 @@ KELIONIŲ ORGANIZAVIMO PASLAUGOS
 
 8) kelionei organizuoti reikalingą mažiausią turistų skaičių ir galutinį terminą, kada turi būti pranešta turistui apie kelionės atšaukimą dėl nesurinkto mažiausio nustatyto turistų skaičiaus.
 
-3. Kelionių organizatoriai atsako už kelionių prospektuose, kataloguose ar kitoje turistines keliones aprašančioje medžiagoje pateiktą informaciją, išskyrus atvejus, kai:
+3. Kelionių organizatoriai atsako už kelionių prospektuose, kataloguose ar kitoje turistines keliones aprašančioje medžiagoje, kuri yra neatskiriama turizmo paslaugų teikimo sutarties dalis, pateiktos informacijos teisingumą ir tikslumą, išskyrus bent vieną iš šių atvejų, kai:
 
 1) turistui iki turizmo paslaugų teikimo sutarties sudarymo buvo pranešta apie šios informacijos pasikeitimus, o kelionių prospekte, kataloge ar kitoje turistines keliones aprašančioje medžiagoje buvo aiškiai numatyta pakeitimų galimybė;
 
 2) pakeitimai daromi po turizmo paslaugų teikimo sutarties sudarymo abiejų sutarties šalių rašytiniu susitarimu.
 
-4. Iki turizmo paslaugų teikimo sutarties pasirašymo kelionių organizatorius ir (ar) kelionių agentūra, kelionių agentas privalo įteikti turistui rašytinį dokumentą, kuriame būtų išsami šio straipsnio 2 dalyje nustatyta informacija.
+4. Iki turizmo paslaugų teikimo sutarties pasirašymo kelionių organizatorius ir (ar) kelionių pardavimo agentas privalo įteikti turistui rašytinį dokumentą, kuriame būtų pateikta išsami šio straipsnio 2 dalyje nustatyta informacija.
 
-5. Prieš kelionę kelionių organizatorius ir (ar) kelionių agentūra, kelionių agentas privalo raštu turistui laiku pateikti:
+5. Prieš kelionę kelionių organizatorius ir (ar) kelionių pardavimo agentas privalo raštu turistui laiku pateikti:
 
 1) informaciją apie tarpines stotis ir sustojimo laiką, buvimo vietą ir informaciją apie keleivio vietą transporto priemonėje, išskyrus nenumatytus techninius sustojimus (nusileidimus);
 
-2) kelionių organizatoriaus ir (ar) kelionių agentūros pavadinimą, kelionių agento vardą, pavardę, jų adresus, telefono numerius ir elektroninio pašto adresus, kelionių organizatoriaus vietinio atstovo, vietinių agentūrų, į kuriuos turistas galėtų kreiptis pagalbos, adresus ir telefono numerius. Jeigu vietinių atstovų ar agentūrų nėra, privaloma nurodyti telefono numerį, kuriuo turistas galėtų skambinti nenumatytais atvejais, arba informaciją, kuri jam padėtų susisiekti su kelionių organizatoriumi ir (ar) kelionių agentūra, kelionių agentu;
+2) kelionių organizatoriaus ir (ar) kelionių pardavimo agento pavadinimą ir (ar) vardą, pavardę, jų adresus, telefono numerius ir elektroninio pašto adresus, kelionių organizatoriaus vietinio atstovo, vietinių kelionių pardavimo agentų, į kuriuos turistas galėtų kreiptis pagalbos, adresus ir telefono numerius. Jeigu vietinių atstovų ar kelionių pardavimo agentų nėra, privaloma nurodyti telefono numerį, kuriuo turistas galėtų skambinti nenumatytais atvejais, arba informaciją, kuri jam padėtų susisiekti su kelionių organizatoriumi ir (ar) kelionių pardavimo agentu;
 
 3) informaciją apie valstybių, į kurias vykstama, epidemiologinę būklę, imunoprofilaktikos reikalavimus, kuriuos reikia įvykdyti vykstant į kelionę, taip pat informaciją apie sveikatos draudimo įforminimo tvarką;
 
@@ -276,49 +328,77 @@ KELIONIŲ ORGANIZAVIMO PASLAUGOS
 
 6. Kai į turistinę kelionę vyksta nepilnamečiai, kelionių organizatorius turi pateikti jų tėvams ar globėjams (rūpintojams) informaciją, pagal kurią šie galėtų tiesiogiai susisiekti su vaiku ar atsakingu asmeniu vaiko buvimo vietoje.
 
-7. Kai turistų grupę sudaro daugiau kaip 15 nepilnamečių iki 16 metų arba daugiau kaip 7 neįgalūs nepilnamečiai, kelionių organizatorius turi užtikrinti, kad, be kelionės vadovo, šią turistų grupę papildomai lydėtų dar vienas pilnametis asmuo.
+7. Kai turistų grupę sudaro daugiau kaip 15 nepilnamečių iki 16 metų arba daugiau kaip 7 neįgalūs nepilnamečiai, kelionių organizatorius turi užtikrinti, kad, be kelionės vadovo, šią turistų grupę papildomai lydėtų dar vienas pilnametis asmuo.
 
-8. Kelionių agentūra, kelionių agentas, atstovaudami kelionių organizatoriui, privalo:
+8. Kelionių pardavimo agentai, atstovaudami kelionių organizatoriui, privalo:
 
-1) šio straipsnio 2, 4 ir 5 dalyse nustatyta tvarka tinkamai suteikti šio straipsnio 2 ir 5 dalyse nurodytą informaciją turizmo paslaugų vartotojams. Pareiga įrodyti, kad privaloma informacija buvo pateikta, tenka kelionių agentūrai ar kelionių agentui;
+1) šio straipsnio 2, 4 ir 5 dalyse nustatyta tvarka tinkamai suteikti šio straipsnio 2 ir 5 dalyse nurodytą informaciją turizmo paslaugų vartotojams. Pareiga įrodyti, kad privaloma informacija buvo pateikta, tenka kelionių pardavimo agentui;
 
 2) tinkamai sudaryti turizmo paslaugų teikimo sutartis su šių paslaugų vartotojais ir jose nurodyti visą pagal įstatymus privalomą informaciją.
 
-8 straipsnis. Kelionių organizatoriaus, kelionių agentūros ir kelionių agento prievolių įvykdymo užtikrinimas
+9. Kelionių organizatoriai privalo:
 
-1. Kelionių organizatoriai, siūlantys parduoti organizuotas turistines keliones, privalo turėti galiojantį draudimo įmonės prievolių įvykdymo laidavimo draudimą arba finansų įstaigos laidavimą ar garantiją, kurie kelionės organizatoriaus nemokumo ar bankroto atveju turi užtikrinti:
+1) turėti šio įstatymo 8 straipsnyje nustatytą galiojantį prievolių įvykdymo užtikrinimą patvirtinantį dokumentą ir dokumentus, pagrindžiančius prievolių įvykdymo užtikrinimą patvirtinančiame dokumente nurodytą prievolių įvykdymo užtikrinimo sumą;
 
-1) turisto grąžinimą į pradinę jo išvykimo vietą ir už organizuotą turistinę kelionę turisto sumokėtų pinigų sumos, atitinkančios nesuteiktų paslaugų kainą, grąžinimą turistui, jei prasidėjus organizuotai turistinei kelionei paaiškėja, kad kelionių organizatorius negalės toliau vykdyti turizmo paslaugų teikimo sutarties;
+2) nedelsdami, bet ne vėliau kaip per 5 darbo dienas nuo sužinojimo apie pasikeitusius duomenis apie kelionių organizatoriaus nurodytas metines įplaukas už organizuotų turistinių kelionių pardavimą, pateiktus apskaičiuojant prievolių įvykdymo užtikrinimo sumą, kreiptis į draudimo įmonę ar finansų įstaigą dėl prievolių įvykdymo užtikrinimo sumos patikslinimo;
 
-2) už organizuotą turistinę kelionę turisto sumokėtų pinigų grąžinimą turistui, jei dar neprasidėjus organizuotai turistinei kelionei paaiškėja, kad kelionių organizatorius negalės pradėti vykdyti turizmo paslaugų teikimo sutarties.
+3) pateikti Valstybiniam turizmo departamentui informaciją apie įsteigtus juridinio asmens ar kitos organizacijos filialus ar kitus padalinius, per kuriuos ketina vykdyti ar nustojo vykdyti prašyme išduoti kelionių organizatoriaus pažymėjimą nurodytą veiklą, informaciją apie veiklos formos, teisinės formos, teisinio statuso, buveinės ar kitų veiklos vietų adreso pakeitimus, taip pat informaciją apie prašyme išduoti kelionių organizatoriaus pažymėjimą ir kartu pateiktuose dokumentuose, nurodytuose šio įstatymo 4 straipsnio 3 dalyje, nurodytų duomenų pasikeitimus per 10 darbo dienų nuo to momento, kai atitinkamą informaciją sužinojo ar turėjo sužinoti. Informaciją kelionių organizatoriai Valstybiniam turizmo departamentui gali pateikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą ar tiesiogiai kreipdamiesi į Valstybinį turizmo departamentą;
 
-2. Kelionių agentūros, kelionių agentai privalo turėti galiojantį draudimo įmonės prievolių įvykdymo laidavimo draudimą arba finansų įstaigos laidavimą ar garantiją, kurie jų nemokumo ar bankroto atveju turi užtikrinti:
+4) teikti Valstybiniam turizmo departamentui informaciją, reikalingą kelionių organizavimo paslaugų teikėjo veiklos priežiūrai. Informaciją, reikalingą kelionių organizavimo paslaugų teikėjo veiklos priežiūrai, kelionių organizatoriai Valstybiniam turizmo departamentui gali pateikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą ar tiesiogiai kreipdamiesi į Valstybinį turizmo departamentą;
 
-1) turisto grąžinimą į pradinę jo išvykimo vietą ir už organizuotą turistinę kelionę turisto sumokėtų pinigų sumos, atitinkančios nesuteiktų paslaugų kainą, grąžinimą turistui, jei prasidėjus organizuotai turistinei kelionei paaiškėja, kad kelionės organizatorius negalės toliau vykdyti turizmo paslaugų teikimo sutarties, nes kelionių agentūra ar kelionių agentas nesumokėjo visų ar dalies pinigų už organizuotą turistinę kelionę kelionių organizatoriui;
+5) skelbti aktualią informaciją apie parduodamas organizuotas turistines keliones, kitas turizmo paslaugas ir ūkio subjektus, kurių organizuotas turistines keliones ar kitas turizmo paslaugas parduoda;
 
-2) už organizuotą turistinę kelionę turisto sumokėtų pinigų sumos, atitinkančios nesuteiktų paslaugų kainą, grąžinimą turistui, jei dar neprasidėjus organizuotai turistinei kelionei paaiškėja, kad kelionės organizatorius negalės įvykdyti prievolių turistui, nes kelionių agentūra ar kelionių agentas nesumokėjo pinigų už organizuotą turistinę kelionę kelionių organizatoriui.
+6) nedelsdami raštu pranešti Valstybiniam turizmo departamentui apie tai, kad negali arba neketina vykdyti įsipareigojimų turistams ir vartotojams;
 
-3. Lietuvos Respublikoje nuolat veikiančių kelionių organizatorių, kelionių agentūrų ar kelionių agentų prievolių įvykdymas užtikrinamas galiojančiu draudimo įmonės prievolių įvykdymo laidavimo draudimu arba finansų įstaigos laidavimu ar garantija. Kelionių organizatoriai, kelionių agentūros ir kelionių agentai privalo individualiai pasirašyti prievolių įvykdymo laidavimo draudimo sutartį su draudimo įmone arba finansų įstaigos laidavimo ar garantijos sutartį su finansų įstaiga, pagal kurią draudimo įmonė arba finansų įstaiga įsipareigoja sutartyje nustatyta suma kompensuoti turisto nuostolius, atsiradusius dėl turizmo paslaugų teikėjo prievolių turistui neįvykdymo.
+7) nedelsdami raštu pranešti Valstybiniam turizmo departamentui apie tai, kad teisme priimtas pareiškimas dėl bankroto bylos kelionių organizatoriui iškėlimo arba Lietuvos Respublikos įmonių bankroto įstatymo nustatyta tvarka yra pateiktas siūlymas kelionių organizatoriaus juridinio asmens kreditoriams bankroto procedūras vykdyti ne teismo tvarka;
 
-4. Kelionių organizatoriaus prievolių, atsirandančių šio straipsnio 1 dalyje numatytais atvejais, įvykdymo užtikrinimo suma yra:
+8) nedelsdami raštu pranešti Valstybiniam turizmo departamentui apie tai, kad įsiteisėjo teismo nutartis kelionių organizatoriui iškelti bankroto bylą arba kreditorių susirinkimas priėmė nutarimą kelionių organizatoriui juridiniam asmeniui bankroto procedūras vykdyti ne teismo tvarka;
 
-1) ne mažesnė kaip 7 procentai kelionių organizatoriaus praėjusių kalendorinių metų metinių įplaukų;
+9) nedelsdami  raštu pranešti Valstybiniam turizmo departamentui apie tai, kad kelionių organizatoriaus juridinio asmens dalyviai, savininkas, kreditorių susirinkimas arba teismas priėmė sprendimą likviduoti kelionių organizatorių arba paaiškėja, kad kelionių organizatorius juridinis asmuo pasibaigia kitais pagrindais.
 
-2) kai pasirašomų draudimo įmonės prievolių įvykdymo laidavimo draudimo sutarties arba finansų įstaigos laidavimo ar garantijos sutarties galiojimo laikotarpis yra nuo trijų mėnesių iki vienų metų, prievolių įvykdymo užtikrinimo suma apskaičiuojama pagal kelionių organizatoriaus praėjusių kalendorinių metų atitinkamo laikotarpio įplaukas.
+Straipsnio pakeitimai:
 
-5. Kelionių organizatoriaus, kuris pirmą kartą arba po vienų metų ar ilgesnio laikotarpio pertraukos vėl pradeda teikti kelionių organizavimo paslaugas, prievolių, atsirandančių šio straipsnio 1 dalyje numatytais atvejais, įvykdymo užtikrinimo suma negali būti mažesnė kaip 150 tūkstančių litų.
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
-6. Kai turizmo paslaugų teikėjas vykdo kelionių organizatoriaus ir kelionių agentūros ar kelionių agento veiklą, prievolių įvykdymo užtikrinimo suma skaičiuojama pagal kelionių organizatoriaus veiklos praėjusių kalendorinių metų metines įplaukas vadovaujantis šio straipsnio 4 ar 5 dalimi.
+8 straipsnis. Kelionių organizatoriaus prievolių įvykdymo užtikrinimas
 
-7. Kelionių agentūrų ir kelionių agentų prievolių, atsirandančių šio straipsnio 2 dalyje numatytais atvejais, įvykdymo užtikrinimo suma yra ne mažesnė kaip 5 procentai kelionių agentūros ar kelionių agento praėjusių kalendorinių metų metinių įplaukų. Kai pasirašomų draudimo įmonės prievolių įvykdymo laidavimo draudimo sutarties arba finansų įstaigos laidavimo ar garantijos sutarties galiojimo laikotarpis yra nuo trijų mėnesių iki vienų metų, prievolių įvykdymo užtikrinimo suma apskaičiuojama pagal kelionių agentūros ar kelionių agento praėjusių kalendorinių metų atitinkamo laikotarpio įplaukas.
+1. Kelionių organizatorius, siūlantis parduoti organizuotą turistinę kelionę, turi užtikrinti:
 
-8. Kelionių agentūros, kelionių agento, kurie pirmą kartą arba po vienų metų ar ilgesnio laikotarpio pertraukos vėl pradeda teikti paslaugas, prievolių, atsirandančių šio straipsnio 2 dalyje numatytais atvejais, įvykdymo užtikrinimo suma negali būti mažesnė kaip 50 tūkstančių litų.
+1) turisto grąžinimą į pradinę jo išvykimo vietą ir už organizuotą turistinę kelionę turisto sumokėtų pinigų sumos, atitinkančios nesuteiktų paslaugų kainą, grąžinimą turistui, jeigu prasidėjus organizuotai turistinei kelionei paaiškėja, kad kelionių organizatorius negalės toliau vykdyti turizmo paslaugų teikimo sutarties;
 
-9. Draudimo įmonės prievolių įvykdymo laidavimo draudimas arba finansų įstaigos laidavimas ar garantija turi galioti laikotarpiu nuo trijų mėnesių iki vienų metų nuo pirmos kelionių organizatoriaus, kelionių agentūros ar kelionių agento veiklos dienos. Tolesnis draudimo įmonės prievolių įvykdymo laidavimo draudimą arba finansų įstaigos laidavimą ar garantiją patvirtinantis dokumentas turi būti pateiktas Valstybiniam turizmo departamentui ne vėliau kaip prieš vieną mėnesį iki turimo prievolių įvykdymo užtikrinimo dokumento galiojimo pabaigos.
+2) už organizuotą turistinę kelionę turisto sumokėtų pinigų grąžinimą turistui, jeigu dar neprasidėjus organizuotai turistinei kelionei paaiškėja, kad kelionių organizatorius negalės pradėti vykdyti turizmo paslaugų teikimo sutarties.
 
-10. Kelionių organizatoriaus, kelionių agentūros ir kelionių agento prievolių įvykdymo užtikrinimo laidavimo draudimu tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+2. Lietuvos Respublikoje nuolat veikiančio kelionių organizatoriaus šio straipsnio 1 dalyje nurodytų prievolių įvykdymas užtikrinamas galiojančiu draudimo įmonės prievolių įvykdymo laidavimo draudimu arba finansų įstaigos laidavimu ar garantija. Kelionių organizatorius Valstybiniam turizmo departamentui privalo pateikti atitinkamai draudimo įmonės ar finansų įstaigos pasirašytą prievolių įvykdymo laidavimo draudimo sutartį arba finansų įstaigos laidavimo sutartį ar garantiją, pagal kurias draudimo įmonė arba finansų įstaiga įsipareigoja sumokėti Valstybiniam turizmo departamentui jo reikalaujamą pagrįstą sumą turistų nuostoliams kompensuoti, neviršijančią atitinkamai laidavimo draudimo sutartyje, laidavime ar garantijoje nurodytos sumos, jeigu kelionių organizatorius nevykdys šio straipsnio 1 dalyje nustatytų prievolių.
 
-11. Kelionių organizatoriai, kelionių agentūros, kelionių agentai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo Valstybiniam turizmo departamentui pateikti šiame straipsnyje nurodytų prievolių įvykdymo užtikrinimo dokumentą ir turėti galiojantį kelionių organizatoriaus, kelionių agentūros ar kelionių agento pažymėjimą.
+3. Kelionių organizatoriaus prievolių, atsirandančių šio straipsnio 1 dalyje numatytais atvejais, įvykdymo užtikrinimo suma yra:
+
+1) ne mažiau kaip 50 tūkstančių litų, kai verčiamasi tik vietiniu turizmu;
+
+2) ne mažesnė kaip 7 procentai nuo metinių (skaičiuojant pagal paeiliui einančius paskutinius praėjusius ir pasibaigusius keturis ketvirčius, buvusius prieš ketvirtį, kai įsigalioja naujas kelionių organizatoriaus prievolių įvykdymo užtikrinimą patvirtinantis dokumentas) įplaukų už organizuotų turistinių kelionių pardavimą pagal visas kelionių organizatoriaus sudarytas išvykstamojo turizmo paslaugų teikimo sutartis, bet ne mažiau kaip 150 tūkstančių litų, kai verčiamasi išvykstamuoju turizmu, neorganizuojant kelionių užsakomaisiais skrydžiais;
+
+3) ne mažesnė kaip 7 procentai nuo metinių (skaičiuojant pagal paeiliui einančius paskutinius praėjusius ir pasibaigusius keturis ketvirčius, buvusius prieš ketvirtį, kai įsigalioja naujas kelionių organizatoriaus prievolių įvykdymo užtikrinimą patvirtinantis dokumentas) įplaukų už organizuotų turistinių kelionių pardavimą pagal visas kelionių organizatoriaus sudarytas išvykstamojo turizmo paslaugų teikimo sutartis, bet ne mažiau kaip 350 tūkstančių litų, kai verčiamasi išvykstamuoju turizmu, organizuojant keliones užsakomaisiais skrydžiais;
+
+4) kai kelionių organizatorius vykdo vietinio ir išvykstamojo turizmo veiklą, prievolių įvykdymo užtikrinimo suma skaičiuojama vadovaujantis šio straipsnio 3 dalies 2 arba 3 punktu.
+
+4. Kelionių organizatoriaus, kuris pirmą kartą pradeda teikti kelionių organizavimo paslaugas, prievolių, atsirandančių šio straipsnio 1 dalyje numatytais atvejais, įvykdymo užtikrinimo suma negali būti mažesnė kaip:
+
+1) 50 tūkstančių litų, kai ketinama verstis tik vietiniu turizmu;
+
+2) 150 tūkstančių litų, kai ketinama verstis išvykstamuoju turizmu, neorganizuojant kelionių užsakomaisiais skrydžiais;
+
+3) 350 tūkstančių litų, kai ketinama verstis išvykstamuoju turizmu, organizuojant keliones užsakomaisiais skrydžiais.
+
+5. Kelionių organizatorius turi užtikrinti, kad draudimo įmonės prievolių įvykdymo laidavimo draudimas arba finansų įstaigos laidavimas ar garantija galioja nuo pirmos kelionių organizatoriaus veiklos dienos. Naują kelionių organizatoriaus prievolių įvykdymo užtikrinimą patvirtinantį dokumentą kelionių organizatorius privalo pateikti Valstybiniam turizmo departamentui ne vėliau kaip prieš 15 darbo dienų iki turimo prievolių įvykdymo užtikrinimo dokumento galiojimo pabaigos. Kartu su prievolių įvykdymo užtikrinimą patvirtinančiu dokumentu kelionių organizatorius Valstybiniam turizmo departamentui privalo pateikti dokumentus, pagrindžiančius prievolių įvykdymo užtikrinimą patvirtinančiame dokumente nurodytą prievolių įvykdymo užtikrinimo sumą.
+
+6. Kelionių organizatoriaus su draudimo įmone sudarytos prievolių įvykdymo laidavimo draudimo sutarties arba finansų įstaigos laidavimo sutarties ar garantijos minimalus galiojimo laikotarpis yra trys mėnesiai. Kelionių organizatoriaus prievolių įvykdymo užtikrinimo suma visais atvejais apskaičiuojama pagal kelionių organizatoriaus paeiliui einančių paskutinių praėjusių ir pasibaigusių keturių ketvirčių, buvusių prieš ketvirtį, kai įsigalioja naujas kelionių organizatoriaus prievolių įvykdymo užtikrinimą patvirtinantis dokumentas, įplaukas už organizuotų turistinių kelionių pardavimą.
+
+7. Valstybinis turizmo departamentas tikrina, ar kelionių organizatoriaus prievolių įvykdymo užtikrinimą patvirtinančiame dokumente nurodyta prievolių įvykdymo užtikrinimo suma apskaičiuota pagal šiame straipsnyje išdėstytus reikalavimus.
+
+8. Kelionių organizatoriaus prievolių įvykdymo užtikrinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+
+Straipsnio pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 TREČIASIS SKIRSNIS
 
@@ -330,7 +410,11 @@ TURISTŲ INFORMAVIMO PASLAUGOS
 
 2. Gido profesinė kvalifikacija suteikiama aukštąjį išsilavinimą turintiems asmenims, išklausiusiems ne trumpesnį kaip 250 akademinių valandų specialų gidų rengimo kursą, kuris apima ekskursijų rengimo ir vedimo metodikos, retorikos, profesinės etikos, bendravimo, psichologijos, Lietuvos kultūros, istorijos ir geografijos disciplinas, ir išlaikiusiems praktinį ekskursijų vedimo egzaminą. Atsižvelgiant į profesinę patirtį, gebėjimą dirbti įvairiomis kalbomis ir vedamų ekskursijų maršrutų skaičių įvertinus profesinę kvalifikaciją, gidams suteikiama antra, pirma arba aukščiausioji kategorija.
 
-3. Gido profesinius kvalifikacinius reikalavimus ir gido pažymėjimo išdavimo tvarkos aprašą tvirtina Valstybinis turizmo departamentas. Už gido pažymėjimo išdavimą mokama nustatyto dydžio valstybės rinkliava.
+3. Išduoti gido pažymėjimą arba pateikti motyvuotą rašytinį atsisakymą išduoti gido pažymėjimą Valstybinis turizmo departamentas privalo ne vėliau kaip per 30 dienų nuo visų dokumentų, reikalingų gido pažymėjimui gauti, gavimo per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai kreipiantis į Valstybinį turizmo departamentą dienos. Gido pažymėjimo išdavimo tvarkos aprašą tvirtina Valstybinis turizmo departamentas. Gido pažymėjimas yra išduodamas popierine ar elektronine forma.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 4. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija patvirtina muziejų, gamtos ir kultūros paveldo objektų ir vietovių, kuriuose ekskursijos galimos tik su gidu, turinčiu gido pažymėjimą, sąrašą.
 
@@ -346,6 +430,12 @@ TURISTŲ INFORMAVIMO PASLAUGOS
 
 8. Informacija apie asmenis, turinčius gido pažymėjimą, yra skelbiama Valstybinio turizmo departamento interneto svetainėje.
 
+9. Valstybinis turizmo departamentas negali panaikinti gido pažymėjimo galiojimo, jeigu nesilaikoma teisės aktuose nustatytų veiklos sąlygų, tačiau pažeidimas yra mažareikšmis ir nepažeidžia vartotojų ir turistų teisių.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
+
 10 straipsnis. Turizmo informacijos centrų veikla
 
 1. Turizmo informacijos centras, naudojantis turizmo informacijos ženklą, teisės aktų nustatyta tvarka įrašytą į Lietuvos Respublikos prekių ir paslaugų ženklų registrą („i“ raidė žalios spalvos stačiakampyje ir užrašas „Turizmo informacija“ Lietuvoje, o užsienyje užrašas – „Lietuvos turizmo informacija“), turi:
@@ -356,15 +446,27 @@ TURISTŲ INFORMAVIMO PASLAUGOS
 
 3) rengti, leisti ir platinti informacinius ir kartografinius leidinius apie vietovės turizmo išteklius ir turizmo paslaugas;
 
-4) teikti turizmo informaciją internete ir turizmo išteklių ir turizmo paslaugų duomenis Lietuvos turizmo informacijos sistemai.
+4) teikti turizmo informaciją internete.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 2. Turizmo informacijos ženklo naudojimo tvarką nustato Valstybinis turizmo departamentas.
 
 3. Turizmo informacijos centrai gali užsakyti (rezervuoti) apgyvendinimo paslaugas, transporto bilietus, bilietus į teatrus, koncertus, sporto ir kitus renginius, prekiauti suvenyrais ir vykdyti kitą savo įstatuose numatytą veiklą.
 
-4. Turizmo informacijos centrai, kurių steigėjos yra valstybės ar savivaldybių institucijos, tvarko ir teikia turizmo išteklių ir turizmo paslaugų duomenis Lietuvos turizmo informacijos sistemai ir gali nemokamai naudotis šios sistemos duomenimis.
+4. Neteko galios nuo 2014-11-01.
 
-5. Valstybės ar savivaldybių institucijų įsteigtų turizmo informacijos centrų veikla, skirta teikti duomenis Lietuvos turizmo informacijos sistemai, gali būti finansuojama iš šių institucijų biudžetų.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
+
+5. Neteko galios nuo 2014-11-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 ketvirTASIS SKIRSNIS
 
@@ -372,7 +474,17 @@ APGYVENDINIMO PASLAUGOS
 
 11 straipsnis. Apgyvendinimo paslaugų teikėjai
 
-1. Apgyvendinimo paslaugas gali teikti Lietuvos Respublikos turizmo paslaugų teikėjai.
+1. Apgyvendinimo paslaugas gali teikti:
+
+1) Lietuvos Respublikos turizmo paslaugų teikėjai;
+
+2) valstybėje narėje įsteigti juridiniai asmenys ar kitos organizacijos, juridinio asmens ar kitos organizacijos padaliniai, turintys teisę teikti apgyvendinimo paslaugas valstybėje narėje;
+
+3) valstybės narės piliečiai, kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis ir turi teisę teikti apgyvendinimo paslaugas valstybėje narėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 2. Pagal apgyvendinimo paslaugų teikimo organizavimą, pastatų naudojimo paskirtį ir apgyvendinimui skirtų kambarių skaičių yra skiriami:
 
@@ -408,7 +520,11 @@ APGYVENDINIMO PASLAUGOS
 
 12 straipsnis. Apgyvendinimo paslaugų teikimo bendrieji reikalavimai
 
-1. Apgyvendinimo paslaugų teikėjas, prieš pradėdamas savo veiklą, privalo pateikti Valstybiniam turizmo departamentui nustatytos formos pranešimą apie apgyvendinimo paslaugų teikimą. Apgyvendinimo paslaugų teikėjas, per 30 dienų nuo pranešimo pateikimo dienos negavęs atsakymo dėl pranešime pateiktų duomenų, gali viešai naudoti pranešime nurodytą apgyvendinimo rūšies pavadinimą. Nutraukus (sustabdžius) apgyvendinimo paslaugų teikimą ar pasikeitus pranešime pateiktiems duomenims (pasikeitė paslaugų teikėjas, jo teisinė forma, teisinis statusas, adresas ar kiti duomenys), apgyvendinimo paslaugų teikėjas privalo per 10 darbo dienų nuo to momento, kai ši informacija tapo ar turėjo tapti jam žinoma, buvusį pranešimą patikslinti pateikdamas pasikeitusius duomenis.
+1. Apgyvendinimo paslaugų teikėjas, prieš pradėdamas savo veiklą, privalo pateikti Valstybiniam turizmo departamentui nustatytos formos pranešimą apie apgyvendinimo paslaugų teikimą. Apgyvendinimo paslaugų teikėjas, per 30 dienų nuo pranešimo pateikimo dienos negavęs neigiamo Valstybinio turizmo departamento atsakymo dėl pranešime pateiktų duomenų, gali viešai naudoti pranešime nurodytą apgyvendinimo rūšies pavadinimą. Nutraukus (sustabdžius) apgyvendinimo paslaugų teikimą ar pasikeitus pranešime pateiktiems duomenims (pasikeitė paslaugų teikėjas, jo teisinė forma, teisinis statusas, adresas ar kiti duomenys), apgyvendinimo paslaugų teikėjas privalo per 10 darbo dienų nuo to momento, kai ši informacija tapo ar turėjo tapti jam žinoma, buvusį pranešimą patikslinti pateikdamas pasikeitusius duomenis. Pasikeitusius pranešime pateiktus duomenis galima viešai naudoti, jeigu per 30 dienų nuo pranešimo apie pasikeitusius pranešime pateiktus duomenis pateikimo dienos apgyvendinimo paslaugų teikėjas negauna neigiamo Valstybinio turizmo departamento atsakymo dėl pranešime pateiktų pasikeitusių duomenų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 2. Apgyvendinimo paslaugų teikėjai privalo turistams pateikti tikslią ir teisingą informaciją apie apgyvendinimo paslaugų teikimo vietą, klasę, teikiamas paslaugas ir apgyvendinimo paslaugų kainą.
 
@@ -422,13 +538,21 @@ APGYVENDINIMO PASLAUGOS
 
 7. Apgyvendinamų valstybių narių ir kitų valstybių piliečių registravimo tvarką, įskaitant registracijos kortelių tvarkymą, nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
-8. Duomenys apie apgyvendinimo paslaugų teikėjus yra skelbiami Lietuvos turizmo informacijos sistemoje.
+8. Duomenys apie apgyvendinimo paslaugų teikėjus skelbiami Valstybinio turizmo departamento interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 13 straipsnis. Apgyvendinimo paslaugų klasifikavimas
 
 1. Siekiant informuoti turistus (paslaugų vartotojus) apie apgyvendinimo paslaugų kokybę ir sudaryti galimybę jiems pasirinkti ir gauti pageidaujamo lygio paslaugas, apgyvendinimo paslaugos yra klasifikuojamos.
 
-2. Kolektyvinio apgyvendinimo paslaugų teikėjų: viešbučių, motelių ir kempingų klasifikavimas yra privalomas. Kitos kolektyvinio ar privataus apgyvendinimo paslaugos gali būti klasifikuojamos savanoriškai, jeigu rinkodaros tikslais apgyvendinimo kokybei nurodyti apgyvendinimo paslaugų teikėjas naudoja žvaigždutes.
+2. Kolektyvinio apgyvendinimo paslaugų teikėjų – viešbučių, svečių namų, motelių ir kempingų – klasifikavimas yra privalomas. Pagal teikiamų paslaugų kokybę ir įvairovę viešbučiams, svečių namams, moteliams ir kempingams suteikiamos kategorijos ir klasės. Kitos kolektyvinio ar privataus apgyvendinimo paslaugos gali būti klasifikuojamos savanoriškai, jeigu rinkodaros tikslais apgyvendinimo kokybei nurodyti apgyvendinimo paslaugų teikėjas nenaudoja žvaigždučių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 3. Apgyvendinimo paslaugos klasifikuojamos laikantis atitinkamai apgyvendinimo rūšiai taikomos 5 arba 4 žvaigždučių klasifikavimo reikalavimų sistemos, pagal kurią žemiausios klasės apgyvendinimo paslaugos žymimos viena žvaigždute. Klasifikavimo reikalavimai turi apimti kiekybinius ir kokybinius kriterijus, pagal kuriuos įvertinama apgyvendinimo paslaugoms teikti turimų statinių architektūra, teritorijos, gyvenamųjų ir bendro naudojimo patalpų suplanavimas ir techninės charakteristikos, kambarių (numerių) ir bendro naudojimo patalpų įrengimas ir įrangos kokybė, turistų priėmimo sąlygos, galimybė pasirinkti kitas teikiamas paslaugas, darbuotojų profesinis pasirengimas (kvalifikacija), aptarnaujančių darbuotojų skaičiaus ir apgyvendinimo vietų skaičiaus santykis, ir kitus bendros teikiamų apgyvendinimo paslaugų kokybės kriterijus. Apgyvendinimo paslaugų klasifikavimo reikalavimus, klasių suteikimo, panaikinimo, paslaugų atitikties nustatytai klasei kontrolės tvarkos aprašą ir apgyvendinimo paslaugų klasę patvirtinančio pažymėjimo formą tvirtina Valstybinis turizmo departamentas.
 
@@ -468,31 +592,25 @@ TURIZMO VALDYMAS
 
 15 straipsnis. Turizmo politikos formavimas ir turizmo valdymas
 
-1. Turizmo plėtros politikos kryptis nustato Seimas, tvirtindamas Lietuvos turizmo plėtros ilgalaikę strategiją ir priimdamas įstatymus.
+1. Turizmo valdymo funkcijas Lietuvos Respublikoje atlieka Vyriausybė, Vyriausybės įgaliota ministerija, Valstybinis turizmo departamentas, savivaldybių institucijos.
 
-2. Turizmo valdymo funkcijas Lietuvos Respublikoje atlieka Vyriausybė, Vyriausybės įgaliota ministerija, Valstybinis turizmo departamentas, savivaldybių institucijos.
+2. Lietuvos Respublikos Vyriausybė:
 
-3. Lietuvos Respublikos Vyriausybė:
+1) tvirtina Lietuvos turizmo plėtros programą;
 
-1) parengia Lietuvos turizmo plėtros ilgalaikę strategiją;
+2) tvirtina valstybinės reikšmės turizmo, rekreacijos ir kurortų infrastruktūros projektus;
 
-2) tvirtina Nacionalinę turizmo plėtros programą, nustatančią valstybės turizmo plėtros ir investicijų į turizmą prioritetus ir priemones;
+3) steigia Valstybinį turizmo departamentą. Valstybinio turizmo departamento nuostatus tvirtina Lietuvos Respublikos Vyriausybė arba jos pavedimu – atitinkamas ministras.
 
-3) tvirtina valstybinės reikšmės turizmo, rekreacijos bei kurortų infrastruktūros projektus;
+3. Lietuvos Respublikos Vyriausybės įgaliota ministerija:
 
-4) tvirtina Kurortų ir kurortinių teritorijų plėtros strategiją;
+1) atlieka strateginį Lietuvos turizmo veiklos planavimą: rengia Lietuvos turizmo plėtros programą ir koordinuoja jos įgyvendinimą;
 
-5) steigia Valstybinį turizmo departamentą. Valstybinio turizmo departamento nuostatus tvirtina Lietuvos Respublikos Vyriausybė arba jos pavedimu – atitinkamas ministras.
-
-4. Lietuvos Respublikos Vyriausybės įgaliota ministerija:
-
-1) atlieka strateginį Lietuvos turizmo veiklos planavimą: rengia Nacionalinę turizmo plėtros programą ir Kurortų ir kurortinių teritorijų plėtros strategiją, koordinuoja jų įgyvendinimą;
-
-2) dalyvauja ir koordinuoja formuojant Lietuvos Respublikos turizmo politiką, rengia turizmo sritį reglamentuojančių įstatymų projektus;
+2) dalyvauja formuojant valstybės politiką turizmo, kurortų ir kurortinių teritorijų plėtros srityse, koordinuoja šios politikos įgyvendinimą, rengia turizmo sritį reglamentuojančių įstatymų ir kitų teisės aktų projektus;
 
 3) rengia ir teikia pasiūlymus Vyriausybei dėl valstybinės reikšmės turizmo, rekreacijos ir kurortų infrastruktūros projektų įgyvendinimo;
 
-4) rengia ir tvirtina nacionalinės reikšmės turizmo specialiuosius planus;
+4) rengia ir tvirtina valstybės lygmens turizmo ir rekreacijos schemas ir planus;
 
 5) dalyvauja Europos Sąjungos turizmo politiką formuojančių tarptautinių institucijų veikloje;
 
@@ -500,13 +618,17 @@ TURIZMO VALDYMAS
 
 7) steigia viešąsias įstaigas turizmo informacijos ir rinkodaros veiklai plėtoti.
 
+Straipsnio pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
+
 16 straipsnis. Valstybinis turizmo departamentas
 
 Valstybinis turizmo departamentas atlieka šias funkcijas:
 
 1) pagal savo kompetenciją dalyvauja formuojant ir įgyvendinant valstybės politiką turizmo, kurortų ir kurortinių teritorijų plėtros srityse;
 
-2) dalyvauja atliekant strateginį Lietuvos turizmo veiklos planavimą, pagal savo kompetenciją įgyvendina Lietuvos turizmo plėtros ilgalaikę strategiją ir Nacionalinės turizmo plėtros programos priemones;
+2) dalyvauja atliekant strateginį Lietuvos turizmo veiklos planavimą: pagal savo kompetenciją įgyvendina Lietuvos turizmo plėtros programos priemones;
 
 3) rengia valstybinės reikšmės viešosios turizmo ir poilsio infrastruktūros, Lietuvos turizmo rinkodaros projektus ir juos įgyvendina;
 
@@ -514,29 +636,33 @@ Valstybinis turizmo departamentas atlieka šias funkcijas:
 
 5) priima administracinius sprendimus, reikalingus šiam įstatymui ir kitiems teisės aktams įgyvendinti;
 
-6) atlieka turizmo paslaugų teikėjų veiklos stebėseną ir kontrolę;
+6) atlieka turizmo paslaugų teikėjų stebėseną ir priežiūrą;
 
 7) atlieka turizmo rinkų ir Lietuvos turizmo paslaugų ir produktų tyrimus;
 
 8) rengia Lietuvos turizmo rinkodaros planą, įgyvendina jame numatytas priemones ir koordinuoja valstybės ir savivaldybių institucijų, dalyvaujančių įgyvendinant Lietuvos turizmo rinkodaros planą, veiklą;
 
-9) steigia ir valdo Lietuvos turizmo informacijos sistemą;
+9) pagal savo kompetenciją dalyvauja įgyvendinant turizmo srities tarptautinio bendradarbiavimo priemones;
 
-10) atlieka nacionalinio konferencijų biuro funkcijas;
+10) tiria ir prognozuoja turizmo specialistų rengimo poreikį ir organizuoja turizmo specialistų kvalifikacijos tobulinimą, vykdo turizmo specialistų kvalifikacijų pripažinimą, rengia pavyzdines kelionių vadovų ir gidų rengimo programas;
 
-11) pagal savo kompetenciją dalyvauja įgyvendinant turizmo srities tarptautinio bendradarbiavimo priemones;
+11) teisės aktų nustatyta tvarka atstovauja kelionių organizavimo paslaugų vartotojų interesams kelionių organizatoriaus ar kelionių pardavimo agento nemokumo arba bankroto atvejais;
 
-12) nustato turizmo specialistų kvalifikacinius reikalavimus;
+12) steigia turizmo informacijos centrus užsienyje ir koordinuoja jų veiklą;
 
-13) tiria ir prognozuoja turizmo specialistų rengimo poreikį ir organizuoja turizmo specialistų kvalifikacijos tobulinimą, vykdo turizmo specialistų kvalifikacijų pripažinimą, rengia pavyzdines kelionių vadovų ir gidų rengimo programas;
+13) pagal savo kompetenciją kontroliuoja Europos Sąjungos ir Lietuvos Respublikos turizmo teisės aktų reikalavimų vykdymą;
 
-14) teisės aktų nustatyta tvarka atstovauja kelionių organizavimo paslaugų vartotojų interesams kelionių organizatoriaus, kelionių agentūros ar kelionių agento nemokumo arba bankroto atvejais;
+14) turizmo ir rekreacijos srityje nustato planavimo sąlygas ir koordinuoja regioninį turizmo plėtros planavimą;
 
-15) steigia turizmo informacijos centrus užsienyje ir koordinuoja jų veiklą;
+15) savo interneto svetainėje skelbia informaciją apie turizmo paslaugų teikėjus;
 
-16) pagal savo kompetenciją kontroliuoja Europos Sąjungos ir Lietuvos Respublikos turizmo teisės aktų reikalavimų vykdymą;
+16) kreipiasi į kompetentingas Lietuvos Respublikos ar valstybės narės institucijas siekdamas patikrinti jam pateiktuose dokumentuose nurodytus duomenis;
 
-17) turizmo ir rekreacijos srityje nustato planavimo sąlygas ir koordinuoja regioninį turizmo plėtros planavimą.
+17) atlieka kitas šiame ir kituose įstatymuose nustatytas Valstybinio turizmo departamento funkcijas.
+
+Straipsnio pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 17 straipsnis. Turizmo taryba
 
@@ -554,11 +680,19 @@ Savivaldybės:
 
 1) skatina turizmo verslą kaip darbo vietų kūrimo ir gyventojų užimtumo priemonę;
 
-2) vadovaudamosi Nacionalinės turizmo plėtros programos nuostatomis, rengia, tvirtina ir įgyvendina savivaldybės turizmo plėtros programas (strategijas) arba savivaldybės turizmo ir rekreacijos plėtros schemas ir projektus;
+2) vadovaudamosi Lietuvos turizmo plėtros programos nuostatomis, rengia, tvirtina ir įgyvendina savivaldybės turizmo plėtros programas (strategijas) arba savivaldybės turizmo ir rekreacijos schemas ir projektus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 3) rengia ir įgyvendina viešosios turizmo ir poilsio infrastruktūros projektus;
 
-4) steigia savivaldybių turizmo informacijos centrus. Kai savivaldybės turizmo informacijos centras nėra įsteigtas, tvarko ir teikia turizmo paslaugų ir išteklių duomenis Lietuvos turizmo informacijos sistemai;
+4) steigia savivaldybių turizmo informacijos centrus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 5) planuoja ir įgyvendina priemones, reikalingas rekreacinių teritorijų apsaugai, poilsio ir turizmo veiklai šiose teritorijose plėtoti, tvarko rekreacinių teritorijų apskaitą, tvirtina rekreacinių teritorijų naudojimo reglamentus;
 
@@ -566,13 +700,21 @@ Savivaldybės:
 
 7) įstatymų nustatyta tvarka su turizmo paslaugų teikėjais – juridiniais ir fiziniais asmenimis – sudaro sutartis dėl rekreacinių išteklių naudojimo (nuomos) turizmui ir poilsiui, kontroliuoja šių sutarčių vykdymą;
 
-8) įstatymų nustatyta tvarka tvirtina vietinių rinkliavų už savivaldybei priklausančių rekreacinių išteklių naudojimą dydį ir mokėjimo tvarkos aprašą;
+8) neteko galios 2014-11-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 9) planuoja ir organizuoja vaikų ir jaunimo stovyklų veiklą, nustato šioms stovykloms taikomus reikalavimus ir kontroliuoja jų vykdymą.
 
 SEPTINTASIS SKIRSNIS
 
-TURIZMO IŠTEKLIAI IR INFORMACIJOS SISTEMA
+TURIZMO IŠTEKLIAI
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 19 straipsnis. Turizmo išteklių naudojimas, planavimas ir apsauga
 
@@ -604,15 +746,11 @@ TURIZMO IŠTEKLIAI IR INFORMACIJOS SISTEMA
 
 8. Rekreacinių teritorijų naudojimo ir apsaugos priežiūrą atlieka savivaldybių institucijos, vadovaudamosi įstatymais ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos tvirtinamais Rekreacinių teritorijų naudojimo, planavimo ir apsaugos nuostatais. Rekreacinėse teritorijose draudžiama veikla, galinti pabloginti rekreacinių išteklių būklę ir kelianti pavojų asmenų saugumui ir poilsio organizavimui. Rekreacinių teritorijų naudojimo, planavimo ir apsaugos nuostatuose numatytais atvejais gali būti nustatomi veiklos rekreacinėse teritorijose reglamentai, jeigu vykdoma veikla gali turėti neigiamą poveikį rekreaciniams ištekliams, aplinkai ir žmonių sveikatai.
 
-20 straipsnis. Lietuvos turizmo informacijos sistema
+20 straipsnis. Neteko galios nuo 2014-11-01.
 
-1. Lietuvos turizmo informacijos sistema – duomenų apie turizmo išteklius ir jų naudojimo turizmui sąlygas, taip pat duomenų apie turizmo paslaugas ir jų kokybę kaupimo, tvarkymo, saugojimo, paieškos ir teikimo kompiuterizuota informacinė sistema, skirta viešam turizmo informacijos skleidimui.
+Straipsnio pakeitimai:
 
-2. Lietuvos turizmo informacijos sistemai duomenys apie turizmo išteklius ir turizmo paslaugų teikimą Lietuvos Respublikos Vyriausybės nustatyta tvarka gaunami iš valstybės registrų, kitų informacinių sistemų, duomenų bankų ar duomenų teikėjų.
-
-3. Lietuvos turizmo informacijos sistema veikia vadovaudamasi Lietuvos turizmo informacijos sistemos nuostatais. Šiuose nuostatuose nurodoma sistemos objektas ir tikslai, tvarkomų duomenų sąrašas, duomenų mastas, rinkimo ir teikimo tvarka, duomenų rinkėjai ir teikėjai, duomenų apsaugos reikalavimai.
-
-4. Lietuvos turizmo informacijos sistemos nuostatus tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -681,6 +819,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1496, 2011-06-22, Žin., 2011, Nr. 85-4138 (2011-07-13), i. k. 1111010ISTA0XI-1496
 
 Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
+
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 18 straipsnių, septintojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 4-1 straipsniu ir 20 straipsnio pripažinimo netekusiu galios įstatymas
 
 21 straipsnis. Apskrities viršininko kompetencija plėtojant turizmą
 
@@ -935,4 +1081,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-239, 2001-04-05, Žin., 2001, Nr. 34-1128 (2001-04-20), i. k. 1011010ISTA00IX-239
 
 Lietuvos Respublikos turizmo įstatymo 18 straipsnio pakeitimo įstatymas
+
+41 straipsnis. Kelionių pardavimo agentas
+
+Kelionių pardavimo agentams taikomi Lietuvos Respublikos civiliniame kodekse ir kituose įstatymuose prekybos agentui nustatyti reikalavimai.
+
+Papildyta straipsniu:
+
+Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
