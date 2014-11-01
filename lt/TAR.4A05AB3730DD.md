@@ -4,7 +4,7 @@ identifier: "TAR.4A05AB3730DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-12-10"
-last_updated: "2014-01-01"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A05AB3730DD"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS MOKĖJIMO ĮSTAIGŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2014-01-01 iki 2014-10-31
+Suvestinė redakcija nuo 2014-11-01 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 153-6887, i. k. 1091010ISTA00XI-549
 
@@ -82,11 +82,21 @@ BENDROSIOS NUOSTATOS
 
 2. Be mokėjimo paslaugų teikimo, mokėjimo įstaiga turi teisę:
 
-1) teikti glaudžiai su mokėjimo paslaugomis susijusias papildomas paslaugas, tokias kaip užsienio valiutos keitimas, lėšų saugojimo veikla, duomenų kaupimas ir tvarkymas;
+1) teikti glaudžiai su mokėjimo paslaugomis susijusias papildomas paslaugas, tokias kaip valiutos keitimas, lėšų saugojimo veikla, duomenų kaupimas ir tvarkymas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1034, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10872
 
 2) valdyti mokėjimo sistemas, laikydamasi Mokėjimų įstatymo 8 straipsnyje nustatytų reikalavimų;
 
 3) teisės aktų nustatyta tvarka vykdyti kitą veiklą, kuri nėra mokėjimo paslaugų teikimo veikla, išskyrus šio įstatymo 5 straipsnio 8 dalyje ir 6 straipsnio 10 dalyje nustatytus atvejus;
+
+4) keisti valiutą (grynaisiais pinigais).
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1034, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10872
 
 3. Mokėjimo įstaiga, teikdama vieną ar daugiau mokėjimo paslaugų, gali turėti tik mokėjimo sąskaitas, skirtas tik mokėjimo paslaugoms teikti. Visos lėšos, kurias mokėjimo įstaiga gauna iš mokėjimo paslaugų vartotojų mokėjimo paslaugoms teikti, nelaikomos indėliu ar kitomis grąžintinomis lėšomis ir elektroniniais pinigais.
 
@@ -166,7 +176,11 @@ MOKĖJIMO ĮSTAIGŲ LICENCIJAVIMAS
 
 6 straipsnis. Mokėjimo įstaigos ribotos veiklos licencija
 
-1. Mokėjimo įstaigos ribotos veiklos licencija galioja tik Lietuvos Respublikoje ir nesuteikia teisės šio įstatymo 10 straipsnyje nustatytomis sąlygomis kitose valstybėse narėse teikti mokėjimo paslaugų. Mokėjimo įstaigos, kuriai išduota mokėjimo įstaigos ribotos veiklos licencija, įskaitant tarpininkus, už kuriuos ji prisiima visą atsakomybę, per pastaruosius 12 mėnesių įvykdytų (jei veikla nevykdoma, verslo plane planuojamų) mokėjimo operacijų sumos vidurkis neturi viršyti 1 mln. litų per mėnesį, išskyrus šio straipsnio 6 dalyje nustatytą atvejį. Mokėjimo įstaigai, kuriai išduota mokėjimo įstaigos ribotos veiklos licencija, netaikomos šio įstatymo 9, 13 ir 14 straipsnių nuostatos. Mokėjimo įstaigos ribotos veiklos licencijos išdavimo ir keitimo tvarką nustato šis įstatymas ir priežiūros institucijos priimti teisės aktai.
+1. Mokėjimo įstaigos ribotos veiklos licencija galioja tik Lietuvos Respublikoje ir nesuteikia teisės šio įstatymo 10 straipsnyje nustatytomis sąlygomis kitose valstybėse narėse teikti mokėjimo paslaugų. Mokėjimo įstaigos, kuriai išduota mokėjimo įstaigos ribotos veiklos licencija, įskaitant tarpininkus, už kuriuos ji prisiima visą atsakomybę, per pastaruosius 12 mėnesių įvykdytų (jei veikla nevykdoma, verslo plane planuojamų) mokėjimo operacijų sumos vidurkis neturi viršyti 10 mln. litų per mėnesį, išskyrus šio straipsnio 6 dalyje nustatytą atvejį. Mokėjimo įstaigai, kuriai išduota mokėjimo įstaigos ribotos veiklos licencija, netaikomos šio įstatymo 9, 13 ir 14 straipsnių nuostatos. Mokėjimo įstaigos ribotos veiklos licencijos išdavimo ir keitimo tvarką nustato šis įstatymas ir priežiūros institucijos priimti teisės aktai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1034, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10872
 
 2. Mokėjimo įstaigos ribotos veiklos licencija išduodama mokėjimo įstaigai, kurios vadovai, įskaitant asmenis, atsakingus už mokėjimo įstaigos mokėjimo paslaugų teikimo veiklos valdymą, jei mokėjimo įstaiga teikia mokėjimo paslaugas ir tuo pačiu metu vykdo kitą šio įstatymo 4 straipsnio 2 dalies 3 punkte nurodytą veiklą, atitinka šio įstatymo 8 straipsnio 4 dalyje nustatytus reikalavimus.
 
@@ -176,7 +190,11 @@ MOKĖJIMO ĮSTAIGŲ LICENCIJAVIMAS
 
 2) verslo planas, kuriame nurodoma numatoma teikti mokėjimo paslaugų rūšis (rūšys) ir pateikiamas pirmųjų trejų finansinių metų biudžeto projektas, įrodantis, kad mokėjimo įstaiga gali patikimai veikti ir taiko tam tinkamas vidaus kontrolės sistemas, procedūras ir išteklius;
 
-3) dokumentai, kuriais įrodoma, kad mokėjimo įstaigos, įskaitant tarpininkus, už kuriuos ji prisiima visą atsakomybę, per pastaruosius 12 mėnesių įvykdytų (jei veikla dar nevykdoma, verslo plane planuojamų) mokėjimo operacijų sumos vidurkis neviršija (neviršys) 1 mln. litų per mėnesį;
+3) dokumentai, kuriais įrodoma, kad mokėjimo įstaigos, įskaitant tarpininkus, už kuriuos ji prisiima visą atsakomybę, per pastaruosius 12 mėnesių įvykdytų (jei veikla dar nevykdoma, verslo plane planuojamų) mokėjimo operacijų sumos vidurkis neviršija (neviršys) 10 mln. litų per mėnesį.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1034, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10872
 
 4) priemonių, kurių pagal šio įstatymo 15 straipsnio reikalavimus imtasi (bus imamasi) siekiant apsaugoti mokėjimo paslaugų vartotojų lėšas, aprašymas;
 
@@ -194,7 +212,13 @@ MOKĖJIMO ĮSTAIGŲ LICENCIJAVIMAS
 
 7. Priežiūros institucija turi teisę atlikti mokėjimo įstaigos, prašančios išduoti mokėjimo įstaigos ribotos veiklos licenciją, pasiruošimo teikti mokėjimo paslaugas patikrinimą vietoje. Pasiruošimo teikti mokėjimo paslaugas patikrinimui vietoje mutatis mutandis taikomos šio įstatymo 26 straipsnio nuostatos.
 
-8. Priežiūros institucija privalo išnagrinėti pateiktus dokumentus ir priimti sprendimą dėl mokėjimo įstaigos ribotos veiklos licencijos išdavimo, ir apie tai raštu pranešti prašymą pateikusiam asmeniui ne vėliau kaip per 3 mėnesius nuo prašymo gavimo dienos, atsižvelgiant į šio įstatymo 22 straipsnio 2 dalies nuostatas.
+8. Priežiūros institucija privalo išnagrinėti pateiktus dokumentus ir priimti sprendimą dėl mokėjimo įstaigos ribotos veiklos licencijos išdavimo, ir apie tai raštu pranešti prašymą pateikusiam asmeniui ne vėliau kaip per 2 mėnesius nuo prašymo gavimo dienos, atsižvelgiant į šio įstatymo 22 straipsnio 2 dalies nuostatas.
+
+TAR pastaba. Jeigu iki  įstatymo Nr. XII-1034 įsigaliojimo dienos (2014-11-01) priežiūros institucijai yra pateiktas prašymas, dokumentai ir duomenys mokėjimo įstaigos licencijai gauti, tačiau, atsižvelgiant į šio įstatymo nuostatas, prašymą pateikęs asmuo įgyja teisę gauti mokėjimo įstaigos ribotos veiklos licenciją, toks asmuo turi teisę pasirinkti, kokios rūšies licenciją jis nori gauti. Tuo atveju, jeigu asmuo nusprendžia gauti mokėjimo įstaigos ribotos veiklos licenciją, per 14 dienų nuo šio įstatymo įsigaliojimo dienos asmuo apie tai turi informuoti priežiūros instituciją. Tokiu atveju Lietuvos Respublikos mokėjimo įstaigų įstatymo 6 straipsnio 8 dalyje nustatytas terminas pradedamas skaičiuoti nuo dienos, kai priežiūros institucija gavo informaciją apie asmens sprendimą gauti mokėjimo įstaigos ribotos veiklos licenciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1034, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10872
 
 9. Priežiūros institucija atsisako išduoti mokėjimo įstaigos ribotos veiklos licenciją, jeigu:
 
@@ -254,7 +278,11 @@ MOKĖJIMO ĮSTAIGOS VALDYMAS
 
 3. Mokėjimo įstaigos, turinčios mokėjimo įstaigos licenciją, vadovai turi būti nepriekaištingos reputacijos ir turėti kvalifikaciją ir patirtį, leidžiančią tinkamai eiti pareigas. Šios mokėjimo įstaigos vadovų kvalifikacijos ir patirties reikalavimus nustato priežiūros institucijos priimti teisės aktai. Vertinant mokėjimo įstaigos, turinčios mokėjimo įstaigos licenciją, vadovų nepriekaištingą reputaciją mutatis mutandis taikomos Bankų įstatymo 34 straipsnio 12 ir 13 dalių nuostatos.
 
-4. Mokėjimo įstaigos, turinčios ribotos veiklos licenciją, vadovai turi atitikti priežiūros institucijos priimtuose teisės aktuose nustatytus pasirengimo ir tinkamumo reikalavimus, įskaitant reikalavimą, kad jie nebuvo pripažinti kaltais padarę nusikaltimą ar baudžiamąjį nusižengimą, susijusį su pinigų plovimu ar teroristų finansavimu, sunkų, labai sunkų nusikaltimą arba nusikaltimą ar baudžiamąjį nusižengimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai ar juos atitinkančias nusikalstamas veikas pagal kitų valstybių baudžiamuosius įstatymus, nepaisant to, ar teistumas išnyko.
+4. Mokėjimo įstaigos, turinčios ribotos veiklos licenciją, vadovai turi atitikti priežiūros institucijos priimtuose teisės aktuose nustatytus tinkamumo reikalavimus, įskaitant reikalavimą, kad jie nebuvo pripažinti kaltais padarę nusikaltimą ar baudžiamąjį nusižengimą, susijusį su pinigų plovimu ar teroristų finansavimu, sunkų, labai sunkų nusikaltimą arba nusikaltimą ar baudžiamąjį nusižengimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai ar juos atitinkančias nusikalstamas veikas pagal kitų valstybių baudžiamuosius įstatymus, nepaisant to, ar teistumas išnyko, o pasirengimo reikalavimus turi atitikti bent vienas iš šio straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytų vadovų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1034, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10872
 
 5. Mokėjimo įstaiga privalo pranešti priežiūros institucijai apie numatomus mokėjimo įstaigos vadovų pasikeitimus ir kartu pateikti priežiūros institucijos nustatytą informaciją, reikalingą įvertinti, ar vadovai atitinka jiems šio straipsnio 3 ar 4 dalyje nustatytus reikalavimus. Iš naujo išrinkti (paskirti) mokėjimo įstaigos vadovai gali pradėti eiti pareigas, tik jei priežiūros institucija neprieštarauja jų kandidatūroms. Priežiūros institucija turi teisę prieštarauti mokėjimo įstaigos vadovų kandidatūroms, jei jie neatitinka šio straipsnio 3 ar 4 dalyje nustatytų reikalavimų.
 
@@ -769,4 +797,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2332, 2012-11-06, Žin., 2012, Nr. 132-6660 (2012-11-15), i. k. 1121010ISTA0XI-2332
 
 Lietuvos Respublikos mokėjimo įstaigų įstatymo 12, 32 ir 33 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1034, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10872
+
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 4, 6 ir 8 straipsnių pakeitimo įstatymas
 
