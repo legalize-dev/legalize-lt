@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2014-10-04"
+last_updated: "2014-11-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2014-10-04 iki 2014-11-13
+Suvestinė redakcija nuo 2014-11-14 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -389,15 +389,41 @@ Pinigai, kaip civilinių teisių objektai, – tai Lietuvos banko išleidžiami 
 
 1.116 straipsnis. Komercinė (gamybinė) ir profesinė paslaptis
 
-1. Informacija laikoma komercine (gamybine) paslaptimi, jeigu turi tikrą ar potencialią komercinę (gamybinę) vertę dėl to, kad jos nežino tretieji asmenys ir ji negali būti laisvai prieinama dėl šios informacijos savininko ar kito asmens, kuriam savininkas ją yra patikėjęs, protingų pastangų išsaugoti jos slaptumą. Informaciją, kuri negali būti laikoma komercine (gamybine) paslaptimi, nustato įstatymai.
+1. Informacija laikoma komercine (gamybine) paslaptimi, jeigu turi tikrą ar potencialią komercinę (gamybinę) vertę dėl to, kad jos nežino tretieji asmenys ir ji negali būti laisvai prieinama dėl šios informacijos savininko ar kito asmens, kuriam savininkas ją yra patikėjęs, protingų pastangų išsaugoti jos slaptumą.
 
-2. Informacija, kuri yra komercinė (gamybinė) paslaptis, ginama šio kodekso nustatytais būdais.
+Straipsnio dalies pakeitimai:
 
-3. Asmenys, neteisėtais būdais įgiję informaciją, kuri yra komercinė (gamybinė) paslaptis, privalo atlyginti padarytus nuostolius. Pareigą atlyginti padarytus nuostolius taip pat turi darbuotojai, kurie pažeisdami darbo sutartį atskleidė komercinę (gamybinę) paslaptį, ar kitokios sutarties šalis, atskleidusi gautą komercinę paslaptį pažeisdama sutartį. Nuostoliais šiuo atveju laikomos paslapčiai sukurti, tobulinti, naudoti turėtos išlaidos bei negautos pajamos. Pajamos, gautos neteisėtai naudojant komercinę (gamybinę) paslaptį, laikomos nepagrįstu praturtėjimu.
+Nr. XII-1294, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16780
 
-4. Komercinę (gamybinę) paslaptį atskleidęs asmuo gali būti atleistas nuo atsakomybės, jeigu įrodo, kad paslapties atskleidimas pateisinamas visuomenės saugumo interesais.
+2. Komercine (gamybine) paslaptimi nelaikoma informacija apie viešuosius interesus atitinkančias paslaugas teikiančių subjektų paslaugų ir prekių kainas bei veiklos sąnaudas. Kitą informaciją, kuri negali būti laikoma komercine (gamybine) paslaptimi, nustato įstatymai.
 
-5. Informacija pripažįstama profesine paslaptimi, jei ją pagal įstatymus ar sutartį privalo saugoti tam tikros profesijos asmenys (advokatai, gydytojai, auditoriai ir kt.). Šią informaciją tie asmenys gauna atlikdami jiems įstatymų ar sutarčių numatytas pareigas. Atvejus, kuriais profesines teises ir pareigas atliekant gauta informacija nepripažįstama profesine paslaptimi, nustato įstatymai. Dėl neteisėto profesinės paslapties atskleidimo padaryta žala atlyginama bendrais šio kodekso nustatytais pagrindais.
+Papildyta straipsnio dalimi:
+
+Nr. XII-1294, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16780
+
+3. Informacija, kuri yra komercinė (gamybinė) paslaptis, ginama šio kodekso nustatytais būdais.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1294, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16780
+
+4. Asmenys, neteisėtais būdais įgiję informaciją, kuri yra komercinė (gamybinė) paslaptis, privalo atlyginti padarytus nuostolius. Pareigą atlyginti padarytus nuostolius taip pat turi darbuotojai, kurie pažeisdami darbo sutartį atskleidė komercinę (gamybinę) paslaptį, ar kitokios sutarties šalis, atskleidusi gautą komercinę paslaptį pažeisdama sutartį. Nuostoliais šiuo atveju laikomos paslapčiai sukurti, tobulinti, naudoti turėtos išlaidos bei negautos pajamos. Pajamos, gautos neteisėtai naudojant komercinę (gamybinę) paslaptį, laikomos nepagrįstu praturtėjimu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1294, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16780
+
+5. Komercinę (gamybinę) paslaptį atskleidęs asmuo gali būti atleistas nuo atsakomybės, jeigu įrodo, kad paslapties atskleidimas pateisinamas visuomenės saugumo interesais.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1294, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16780
+
+6. Informacija pripažįstama profesine paslaptimi, jei ją pagal įstatymus ar sutartį privalo saugoti tam tikros profesijos asmenys (advokatai, gydytojai, auditoriai ir kt.). Šią informaciją tie asmenys gauna atlikdami jiems įstatymų ar sutarčių numatytas pareigas. Atvejus, kuriais profesines teises ir pareigas atliekant gauta informacija nepripažįstama profesine paslaptimi, nustato įstatymai. Dėl neteisėto profesinės paslapties atskleidimo padaryta žala atlyginama bendrais šio kodekso nustatytais pagrindais.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1294, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16780
 
 IV dalis
 
@@ -9830,4 +9856,36 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1154, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13599
 
 Lietuvos Respublikos civilinio kodekso 3.72, 3.194, 5.28 ir 6.621 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1091, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12715
+
+Lietuvos Respublikos civilinio kodekso 1.74, 1.105 ir 6.871 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1225, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14523
+
+Lietuvos Respublikos civilinio kodekso 2.46, 2.66, 2.70, 2.75, 2.106 ir 2.108 straipsnių pakeitimo įstatymo Nr. XII-1064 3 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518
+
+Lietuvos Respublikos civilinio kodekso 1.73, 2.109, 3.9, 3.244, 6.228-9, 6.299, 6.469, 6.831, 6.843 ir 6.871 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1294, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16780
+
+Lietuvos Respublikos civilinio kodekso 1.116 straipsnio pakeitimo įstatymas
 
