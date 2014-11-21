@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2014-10-04"
+last_updated: "2014-11-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2014-10-04 iki 2014-11-20
+Suvestinė redakcija nuo 2014-11-21 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
 
@@ -589,7 +589,11 @@ Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 
 2) alus, vynas, kiti fermentuoti gėrimai, kuriuos pasigamina fizinis asmuo, tik tuo atveju, kai šie gėrimai skirti tik asmeniniam naudojimui (t. y. ne parduoti, o tik savo ar šeimos poreikiams). Vyriausybė turi teisę nustatyti šiame punkte nurodytų prekių kiekį, kuris atleidžiamas nuo akcizų;
 
-3) etilo alkoholis, naudojamas sveikatinimo reikmėms;
+3) etilo alkoholis, kuris yra farmacijos produktų, veterinarinių vaistų sudedamoji dalis, taip pat etilo alkoholis, naudojamas asmens ir visuomenės sveikatos priežiūros, farmacinės veiklos, veterinarinės farmacijos, veterinarijos praktikos tikslams arba valstybinę farmacijos produktų, maisto ir veterinarinę kontrolę atliekančių institucijų funkcijoms įgyvendinti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1319, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17216
 
 4) etilo alkoholis ir alkoholiniai gėrimai, skirti acto gamybai;
 
