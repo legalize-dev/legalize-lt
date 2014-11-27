@@ -4,7 +4,7 @@ identifier: "TAR.4C2B9F5E31B7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-01-16"
-last_updated: "2006-02-01"
+last_updated: "2014-11-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4C2B9F5E31B7"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymas
 
-Suvestinė redakcija nuo 2006-02-01 iki 2014-11-26
+Suvestinė redakcija nuo 2014-11-27 iki 2016-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 12-0; Žin. 1991, Nr.3-78, i. k. 0911010ISTA000I-954
 
@@ -40,11 +40,19 @@ Nr. X-488, 2006-01-12, Žin., 2006, Nr. 6-194 (2006-01-17), i. k. 1061010ISTA000
 
 2. Šis įstatymas taikomas:
 
-1) žuvusių Lietuvos Respublikos nepriklausomybės gynėjų, nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, šeimoms (tėvams (įtėviams), sutuoktiniams, vaikams (įvaikiams) iki 18 metų bei vyresniems negu 18 metų aukštųjų mokyklų dieninių skyrių nedirbantiems studentams, pirmą kartą įgyjantiems bakalauro ar magistro laipsnį, aukštesniųjų ir profesinių mokyklų dieninių skyrių nedirbantiems moksleiviams, pirmą kartą įgyjantiems profesiją, bet ne ilgiau kaip iki jiems sukaks 24 metai);
+1) žuvusių Lietuvos Respublikos nepriklausomybės gynėjų, nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, šeimoms (tėvams (įtėviams), sutuoktiniams, vaikams (įvaikiams) iki 18 metų bei pilnamečiams vaikams, kurie mokosi pagal bendrojo ugdymo programą, pirmą kartą įgyja pirmąją kvalifikaciją pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje pagal nuolatinių ar dieninių studijų programą ir pirmą kartą įgyja bakalauro ar magistro laipsnį, – iki mokymosi ar studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, turinčius teisę gauti kompensacijas iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), tačiau ne vyresniems negu 24 metų);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1334, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17987
 
 2) Lietuvos Respublikos nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, kurie buvo sunkiai ar apysunkiai sužaloti;
 
-3) Lietuvos Respublikos nepriklausomybės gynėjų, kurie pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, šeimoms (kartu gyvenantiems sutuoktiniams ir vaikams (įvaikiams) iki 18 metų bei vyresniems negu 18 metų aukštųjų mokyklų dieninių skyrių nedirbantiems studentams, pirmą kartą įgyjantiems bakalauro ar magistro laipsnį, aukštesniųjų ir profesinių mokyklų dieninių skyrių nedirbantiems moksleiviams, pirmą kartą įgyjantiems profesiją, bet ne ilgiau kaip iki jiems sukaks 24 metai).
+3) Lietuvos Respublikos nepriklausomybės gynėjų, kurie pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, šeimoms (kartu gyvenantiems sutuoktiniams ir vaikams (įvaikiams) iki 18 metų bei pilnamečiams vaikams, kurie mokosi pagal bendrojo ugdymo programą, pirmą kartą įgyja pirmąją kvalifikaciją pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje pagal nuolatinių ar dieninių studijų programą ir pirmą kartą įgyja bakalauro ar magistro laipsnį, – iki mokymosi ar studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, turinčius teisę gauti kompensacijas iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), tačiau ne vyresniems negu 24 metų).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1334, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17987
 
 2 straipsnis. Kompensacijų dydis
 
@@ -147,4 +155,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-488, 2006-01-12, Žin., 2006, Nr. 6-194 (2006-01-17), i. k. 1061010ISTA000X-488
 
 Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymo 1, 2 ir 3 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1334, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17987
+
+Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymo Nr. I-954 1 straipsnio pakeitimo įstatymas
 
