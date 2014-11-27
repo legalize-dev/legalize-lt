@@ -4,7 +4,7 @@ identifier: "TAR.AF228880894E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-20"
-last_updated: "2013-11-26"
+last_updated: "2014-11-27"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AF228880894E"
 department: "Lietuvos Respublikos Seimas"
@@ -15,6 +15,10 @@ document_group: "valstybės institucijų ir įstaigų teisės aktai"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymas
+
+Suvestinė redakcija nuo 2014-11-27 iki 2018-07-15
+
+Įstatymas paskelbtas: Žin. 2002, Nr. 68-2774, i. k. 1021010ISTA00IX-985
 
 LIETUVOS RESPUBLIKOS
 
@@ -92,7 +96,17 @@ Nr. XI-1958, 2012-03-29, Žin., 2012, Nr. 39-1922 (2012-03-31)
 
 17) atlieka institucijos, tikrinančios ir tvirtinančios asmenų, Lietuvos Respublikoje turinčių teisę balsuoti rinkimuose į Europos Parlamentą ir įgyvendinančių Europos Sąjungos piliečių iniciatyvą, pritarimo pareiškimus, funkcijas;
 
-18) atlieka kitas šiame bei kituose įstatymuose nustatytas funkcijas.
+18) turi teisę iš sutaupytų rinkimams ir referendumams organizuoti skirtų valstybės biudžeto lėšų įsigyti balsavimo patalpų įrengimo inventorių ir teisės aktuose nustatyta tvarka jį perduoti savivaldybėms valdyti, naudoti ir juo disponuoti patikėjimo teise;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1339, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17992
+
+19) atlieka kitas šiame bei kituose įstatymuose nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-1339, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17992
 
 3. Vykdydama Lietuvos Respublikos Seimo rinkimus, Vyriausioji rinkimų komisija, be šio straipsnio 2 dalyje nustatytų funkcijų:
 
@@ -642,61 +656,13 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 DĖL LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS RINKIMŲ KOMISIJOS ĮSTATYMO 3 STRAIPSNIO 6 DALIES (2003 M. BALANDŽIO 10 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
-121 straipsnis. Pranešimas, skundas ar prašymas dėl politinių partijų ir politinių kampanijų finansavimo pažeidimų
+Pakeitimai:
 
-1. Pranešimas, skundas ar prašymas dėl politinių partijų ir politinių kampanijų finansavimo pažeidimų (toliau – pranešimas) Vyriausiajai rinkimų komisijai gali būti pateiktas raštu per trejus metus nuo galimų pažeidimų atsiradimo dienos.
+1.
 
-2. Vyriausioji rinkimų komisija pranešimą išnagrinėja ir sprendimą priima per 3 mėnesius nuo pranešimo Vyriausiojoje rinkimų komisijoje gavimo dienos. Apie priimtą sprendimą pareiškėjas informuojamas per 5 darbo dienas nuo sprendimo priėmimo dienos.
+Lietuvos Respublikos Seimas, Įstatymas
 
-3. Dėl pranešime nurodytų aplinkybių sudėtingumo, informacijos gausos ar skundžiamų veiksmų tęstinio pobūdžio Vyriausiosios rinkimų komisijos sprendimu šio straipsnio 2 dalyje nurodytas pranešimo išnagrinėjimo terminas gali būti pratęsiamas iki 6 mėnesių. Apie pranešimo nagrinėjimo termino pratęsimą pranešimą pateikęs asmuo informuojamas raštu.
+Nr. XII-1339, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17992
 
-4. Vyriausioji rinkimų komisija ne vėliau kaip per 14 darbo dienų nuo pranešimo gavimo dienos informuoja pranešimą pateikusį asmenį apie atsisakymą nagrinėti pranešimą arba pranešimo nagrinėjimo nutraukimą, jeigu:
-
-1) pranešimas pateiktas pasibaigus šio straipsnio 1 dalyje nustatytam terminui;
-
-2) pranešime nurodytų aplinkybių nagrinėjimas nepriklauso Vyriausiosios rinkimų komisijos kompetencijai;
-
-3) pareiškėjas nepateikia duomenų, be kurių nėra galimybės pradėti nagrinėti pranešimą, taip pat jeigu pranešimo tekstas neįskaitomas;
-
-4) pranešimas tuo pačiu klausimu jau buvo išnagrinėtas, o naujų aplinkybių ar faktų nenurodoma;
-
-5) pranešime nurodytas pažeidimas nagrinėjamas teisme arba dėl pranešimo dalyko yra priimtas procesinis sprendimas pradėti ikiteisminį tyrimą.
-
-5. Pakartotinai pateiktas pranešimas nenagrinėjamas, išskyrus atvejus, kai pranešime nurodomos naujos aplinkybės ar pateikiami nauji faktai.
-
-6. Jeigu pranešime gauta informacija leidžia pagrįstai manyti, kad yra rengiama, daroma ar padaryta nusikalstama veika, administracinis nusižengimas arba kitas pažeidimas, Vyriausioji rinkimų komisija persiunčia gautą informaciją apie galimus pažeidimus tokią informaciją įgaliotai tirti institucijai.
-
-Papildyta straipsniu:
-
-Nr. XIII-2568, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19880
-
-122 straipsnis. Informacijos ir dokumentų pateikimas Vyriausiajai rinkimų komisijai
-
-1. Valstybės ir savivaldybių institucijos ir įstaigos, taip pat kitos įstaigos, įmonės ir organizacijos, rinkimų ir referendumo komisijos, politinės partijos ir politinių kampanijų dalyviai ar kiti asmenys Vyriausiosios rinkimų komisijos reikalavimu privalo ne vėliau kaip iki Vyriausiosios rinkimų komisijos nustatyto termino pabaigos pateikti turimą informaciją ir dokumentus, reikalingus Vyriausiajai rinkimų komisijai nagrinėjant asmenų pranešimus, tiriant rinkimų bei politinių partijų ir politinių kampanijų finansavimo pažeidimus.
-
-2. Nagrinėdama pranešimą, Vyriausioji rinkimų komisija turi teisę kreiptis į asmenį, dėl kurio veiksmų gautas pranešimas, prašydama per nustatytą terminą pateikti paaiškinimus ir, esant galimybei, juos pagrindžiančius dokumentus.
-
-Papildyta straipsniu:
-
-Nr. XIII-2568, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19880
-
-111 straipsnis. Vyriausiosios rinkimų komisijos posėdžių organizavimas nuotoliniu būdu
-
-1. Įvedus nepaprastąją padėtį, Lietuvos Respublikos civilinės saugos įstatymo nustatyta tvarka paskelbus ekstremaliąją situaciją arba Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo nustatytais atvejais ir tvarka paskelbus karantiną ir kai yra pagrindas manyti, kad gali kilti grėsmė Vyriausiosios rinkimų komisijos darbui, nes dėl objektyvių aplinkybių gali kilti pavojus komisijos narių sveikatai ir (ar) gyvybei, Vyriausiosios rinkimų komisijos sprendimu jos posėdžiai gali būti organizuojami nuotoliniu būdu.
-
-2. Visuomenei apie Vyriausiosios rinkimų komisijos nuotoliniu būdu organizuojamą posėdį paskelbiama Vyriausiosios rinkimų komisijos interneto svetainėje, o komisijos nariams pranešama elektroninių ryšių priemonėmis (elektroniniu paštu arba telefonu).
-
-3. Vyriausiosios rinkimų komisijos posėdis organizuojamas, komisijos nariai jame dalyvauja ir sprendimai svarstomais klausimais priimami nuotoliniu būdu realiuoju laiku Nacionalinio kibernetinio saugumo centro įvertintomis ir saugiomis pripažintomis telekonferencijų platformomis.
-
-4. Vyriausiosios rinkimų komisijos nariai savo komisijos nario teises ir pareigas privalo įgyvendinti asmeniškai.
-
-5. Turi būti užtikrintas nuotoliniu būdu organizuojamo Vyriausiosios rinkimų komisijos posėdžio vaizdo ir garso įrašo darymas ir jo išsaugojimas. Šis įrašas viešai paskelbiamas Vyriausiosios rinkimų komisijos interneto svetainėje.
-
-6. Vyriausiosios rinkimų komisijos posėdžiai nuotoliniu būdu organizuojami, komisijos nariai juose dalyvauja, komisijos nario tapatybė ir balsavimo rezultatai nustatomi, sprendimai svarstomais klausimais priimami, asmeniškas komisijos nario teisių ir pareigų įgyvendinimas užtikrinamas Vyriausiosios rinkimų komisijos reglamente nustatyta tvarka.
-
-7. Kitos šio įstatymo nuostatos, susijusios su procedūromis, taikomomis įprastam Vyriausiosios rinkimų komisijos posėdžiui, Vyriausiosios rinkimų komisijos posėdį organizuojant nuotoliniu būdu suprantamos ir taikomos mutatis mutandis atsižvelgiant į Vyriausiosios rinkimų komisijos posėdžio organizavimo nuotoliniu būdu specifiką.
-
-Papildyta straipsniu:
-
-Nr. XIV-146, 2020-12-23, paskelbta TAR 2020-12-30, i. k. 2020-29111
+Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 3 straipsnio pakeitimo įstatymas
 
