@@ -4,7 +4,7 @@ identifier: "TAR.C7E57DF3CEC5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-07"
-last_updated: "2014-11-01"
+last_updated: "2014-12-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2014-11-01 iki 2014-12-03
+Suvestinė redakcija nuo 2014-12-04 iki 2014-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
 
@@ -499,6 +499,14 @@ Nr. XII-1271, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14494
 
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 8 straipsnio pakeitimo įstatymas
 
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1359, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18646
+
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-2 straipsnio pakeitimo įstatymas
+
 151 straipsnis. Valdžios ir privataus subjektų partnerystės sutarties samprata
 
 1. Pagal valdžios ir privataus subjektų partnerystės sutartį valdžios subjektas suteikia privačiam subjektui teisę vykdyti šio įstatymo 152 straipsnio 3 dalyje nustatytą veiklą, valdyti ir naudoti šiai veiklai vykdyti reikalingą valstybės arba savivaldybės turtą ir įsipareigoja mokėti privačiam subjektui atlyginimą už jo vykdomą veiklą, o privatus subjektas įsipareigoja vykdyti sutartyje nustatytą veiklą ir užtikrinti investicijas, kurių reikia šiai veiklai vykdyti ir jai vykdyti reikalingam turtui sukurti arba perduoto valdyti ir naudoti turto būklei pagerinti.
@@ -543,7 +551,11 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 8 straipsnio pakeitimo
 
 11. Valstybės arba savivaldybės lėšų ir turto, reikalingų valdžios ir privataus subjektų partnerystės sutarčiai įgyvendinti, panaudojimą, taip pat valdžios ir privataus subjektų partnerystės sutarčių sudarymą ir įgyvendinimą teisės aktų nustatyta tvarka tikrina valstybės ir savivaldybės kontrolės institucijos.
 
-12. Metodinę ir konsultacinę pagalbą rengiant ir įgyvendinant valdžios ir privataus subjektų partnerystės projektus teikia Lietuvos Respublikos Vyriausybės įgaliotas viešasis juridinis asmuo, kurio funkcijas nustato Lietuvos Respublikos Vyriausybė.
+12. Metodinę ir konsultacinę pagalbą rengiant ir įgyvendinant valdžios ir privataus subjektų partnerystės projektus teikia Lietuvos Respublikos Vyriausybės įgaliotas viešasis juridinis asmuo, kurio funkcijas nustato Lietuvos Respublikos Vyriausybė. Šioje dalyje nustatyta veikla yra finansuojama iš Lietuvos Respublikos finansų ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1359, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18646
 
 13. Paslaugos ir darbai, kuriems sudaroma valdžios ir privataus subjekto partnerystės sutartis, perkami vadovaujantis Lietuvos Respublikos viešųjų pirkimų įstatymu.
 
