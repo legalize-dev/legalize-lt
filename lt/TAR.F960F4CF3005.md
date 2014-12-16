@@ -4,7 +4,7 @@ identifier: "TAR.F960F4CF3005"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2014-03-01"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 department: "Lietuvos Respublikos Seimas"
@@ -919,9 +919,7 @@ XI-1164,
 
 6 straipsnis. Lėšų, skiriamų
 
-savivaldybių gyventojų pajamų mokesčiui ir
-
-išlaidų
+savivaldybių gyventojų pajamų mokesčiui ir išlaidų
 
 struktūrų
 
@@ -935,11 +933,9 @@ skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs
 
 veiksniai, išlyginti, sudaro likusi apskaičiuota atskirų savivaldybių gyventojų
 
-pajamų
+pajamų mokesčio dalis Pi (procentais), kurią Valstybinės mokesčių inspekcijos
 
-mokesčio dalis Pi (procentais), kurią Valstybinės mokesčių inspekcijos prie
-
-Finansų ministerijos teritorinės valstybinės mokesčių inspekcijos – vietos
+prie Finansų ministerijos teritorinės valstybinės mokesčių inspekcijos – vietos
 
 mokesčių administratoriai perveda į Valstybės iždo sąskaitą (3 straipsnio 2
 
@@ -1047,9 +1043,9 @@ mokesčio vienam gyventojui;
 
 4) xif – faktinės (arba numatomos faktiškai
 
-gauti) biudžetinių metų i-osios savivaldybės vidutinės pajamos iš gyventojų pajamų
+gauti) biudžetinių metų i-osios savivaldybės vidutinės pajamos iš gyventojų
 
-mokesčio vienam savivaldybės gyventojui.
+pajamų mokesčio vienam savivaldybės gyventojui.
 
 5. Faktinės pajamos iš gyventojų pajamų mokesčio vienam
 
@@ -1147,9 +1143,9 @@ išlaidų struktūrų skirtumams išlyginti;
 
 3) Eni – i-ajai savivaldybei
 
-tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio dalis,
+tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio
 
-apskaičiuojama pagal formulę , čia Rni
+dalis, apskaičiuojama pagal formulę , čia Rni
 
 – i-osios savivaldybės n-ojo rodiklio reikšmė. Skaičiuojant Eni,
 
@@ -1183,9 +1179,9 @@ išlyginimą lemiantys rodikliai yra išlyginimo koeficientas h, nuo kurio
 
 priklauso kiekvienos savivaldybės gaunamų lėšų gyventojų pajamų mokesčiui
 
-išlyginti dalis; kiekvienos savivaldybės biudžetui skiriama gyventojų pajamų
+išlyginti dalis; kiekvienos savivaldybės biudžetui skiriama gyventojų pajamų mokesčio
 
-mokesčio dalis (procentais), patvirtinta šio Įstatymo priedėlyje; taip pat šie
+dalis (procentais), patvirtinta šio Įstatymo priedėlyje; taip pat šie
 
 demografiniai, socialiniai ir kiti rodikliai bei jų koeficientai, nurodantys
 
@@ -1285,17 +1281,23 @@ Finansiniai rodikliai ir pervedimai
 
 asociacija apsvarsčiusi, kasmet teikia Seimui tvirtinti šiuos metų rodiklius:
 
-1) gyventojų pajamų mokesčio dalį,
+1) gyventojų pajamų mokesčio dalį
 
-tenkančią visų savivaldybių biudžetams nuo šio
+(procentais), tenkančią visų savivaldybių biudžetams nuo šio mokesčio pajamų į
 
-mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus.
+konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, išskyrus fiksuoto
 
-Gyventojų pajamų mokesčio dalis koreguojama atsižvelgiant į einamųjų ar
+dydžio gyventojų pajamų mokestį, mokamą už pajamas, gautas iš veiklos, kuria
 
-ateinančių biudžetinių metų Seimo ir Vyriausybės sprendimų nulemtus
+verčiamasi turint verslo liudijimą. Ateinančių metų gyventojų pajamų mokesčio
 
-savivaldybių išlaidų ar pajamų pokyčius;
+dalis (procentais) apskaičiuojama einamųjų metų gyventojų pajamų mokesčio dalį
+
+(procentais) koreguojant atsižvelgus į einamųjų ar ateinančių
+
+biudžetinių metų Seimo ir Vyriausybės sprendimų nulemtus savivaldybių išlaidų
+
+ar pajamų pokyčius;
 
 2) valstybės biudžeto bendrosios
 
@@ -1313,11 +1315,9 @@ struktūrų skirtumams išlyginti;
 
 tikslines dotacijas savivaldybių biudžetams;
 
-5) valstybės biudžeto bendrosios
+5) valstybės biudžeto bendrosios dotacijos
 
-dotacijos (jeigu ji numatoma) kompensacijų sumas, skiriamas kiekvienai
-
-savivaldybei.
+(jeigu ji numatoma) kompensacijų sumas, skiriamas kiekvienai savivaldybei.
 
 2. Atitinkamų metų valstybės biudžeto ir
 
@@ -1383,9 +1383,9 @@ susijusi su savivaldybių pajamų ir išlaidų pasikeitimu, arba iš savivaldybi
 
 biudžetų paimamos reikiamos sumos, o ateinančiais biudžetiniais metais
 
-koreguojama gyventojų pajamų mokesčio dalis, tenkanti visų savivaldybių
+koreguojama gyventojų pajamų mokesčio dalis (procentais), tenkanti visų
 
-biudžetams.
+savivaldybių biudžetams.
 
 6. Valstybės biudžeto bendrosios
 
@@ -1465,11 +1465,25 @@ Nr. XII-660,
 
 2013-12-12, Žin., 2013, Nr. 140-7045 (2013-12-30)
 
-Pastaba. Šio įstatymo
+Pastaba. Šio įstatymo (Nr.
 
-nuostatos taikomos rengiant 2014 metų ir vėlesnių metų valstybės biudžeto ir
+XII-660) nuostatos
 
-savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+taikomos rengiant 2014 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių
+
+biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+
+Nr. XII-1384,
+
+2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19668
+
+Pastaba. Šio įstatymo (Nr.
+
+XII-1384) nuostatos
+
+taikomos rengiant 2015 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių
+
+biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
 
 11
 
