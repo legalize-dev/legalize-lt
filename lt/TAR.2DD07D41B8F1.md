@@ -4,7 +4,7 @@ identifier: "TAR.2DD07D41B8F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-11-08"
-last_updated: "2012-10-31"
+last_updated: "2014-12-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2DD07D41B8F1"
 department: "Lietuvos Respublikos Seimas"
@@ -20,10 +20,6 @@ eu_legal_act: "true"
 Įstatymas
 
 skelbtas: Žin., 2007, Nr. 120-4881
-
-Neoficialus
-
-įstatymo tekstas
 
 LIETUVOS RESPUBLIKOS
 
@@ -55,13 +51,13 @@ taikymą.
 
 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Fiskalinė drausmė – visuma teisinių priemonių,
+1. Fiskalinė drausmė – visuma teisinių
 
-kuriomis siekiama užtikrinti, kad prognozuojama valdžios sektoriaus skola,
+priemonių, kuriomis siekiama užtikrinti, kad prognozuojama valdžios sektoriaus
 
-atsižvelgiant į numanomus valdžios sektoriaus įsipareigojimus, įskaitant ir
+skola, atsižvelgiant į numanomus valdžios sektoriaus įsipareigojimus, įskaitant
 
-įsipareigojimus, atsirandančius dėl Lietuvos gyventojų demografinių pokyčių,
+ir įsipareigojimus, atsirandančius dėl Lietuvos gyventojų demografinių pokyčių,
 
 keliasdešimt metų atitiktų finansų tvarumo kriterijus, tai yra valdžios
 
@@ -97,11 +93,11 @@ metų balanso rodiklis yra perteklius (grynasis skolinimas).
 
 5.
 
-Subalansuotas valdžios sektorius – valdžios sektorius, kurio kalendorinių
+Subalansuotas valdžios sektorius – valdžios sektorius, kurio
 
-metų balanso rodiklis yra lygus 0,0 procento
+kalendorinių metų balanso rodiklis yra lygus 0,0
 
-bendrojo vidaus produkto to meto kainomis.
+procento bendrojo vidaus produkto to meto kainomis.
 
 6.
 
@@ -113,21 +109,21 @@ valdžios sektoriaus balanso rodiklio teigiamas skirtumas.
 
 7.
 
-Valdžios sektoriaus balanso rodiklis – valdžios sektoriaus deficitas
+Valdžios sektoriaus balanso rodiklis – valdžios
 
-(grynasis skolinimasis) arba perteklius (grynasis skolinimas) pagal Europos
+sektoriaus deficitas (grynasis skolinimasis) arba perteklius (grynasis
 
-sąskaitų sistemą ESS’95. Šis rodiklis yra skaičiuojamas kaip procentas nuo
+skolinimas) pagal Europos sąskaitų sistemą ESS’2010. Šis rodiklis yra
 
-bendrojo vidaus produkto to meto kainomis ir apvalinamas vieno skaičiaus po
+skaičiuojamas kaip procentas nuo bendrojo vidaus produkto to meto kainomis ir
 
-kablelio tikslumu. Statistinis valdžios sektoriaus balanso rodiklis yra
+apvalinamas vieno skaičiaus po kablelio tikslumu. Statistinis valdžios
 
-Lietuvos statistikos departamento arba Europos Sąjungos statistikos agentūros
+sektoriaus balanso rodiklis yra Lietuvos statistikos departamento arba Europos
 
-(Eurostato) skelbiamas valdžios sektoriaus deficitas (grynasis skolinimasis)
+Sąjungos statistikos agentūros (Eurostato) skelbiamas valdžios sektoriaus
 
-arba perteklius (grynasis skolinimas).
+deficitas (grynasis skolinimasis) arba perteklius (grynasis skolinimas).
 
 8. Valdžios sektoriaus skola – suprantama kaip 1993 m. lapkričio 22
 
@@ -177,17 +173,19 @@ Straipsnio
 
 pakeitimai;
 
-Nr. XI-1115, 2010-11-12,
+Nr. XI-1115,
 
-Žin., 2010, Nr. 139-7099 (2010-11-27)
+2010-11-12, Žin., 2010, Nr. 139-7099 (2010-11-27)
+
+Nr. XII-1378,
+
+2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19661
 
 3 straipsnis. Fiskalinės drausmės taisyklės
 
-1. Valdžios sektoriaus finansai tvarkomi siekiant, kad
+1. Valdžios sektoriaus finansai tvarkomi siekiant, kad vidutiniu
 
-vidutiniu laikotarpiu valdžios sektorius būtų perteklinis arba artimas
-
-subalansuotam.
+laikotarpiu valdžios sektorius būtų perteklinis arba artimas subalansuotam.
 
 2.
 
@@ -233,9 +231,9 @@ punktais.
 
 Einamaisiais kalendoriniais metais nuo balandžio 1 dienos iki balandžio
 
-8 dienos ir nuo rugpjūčio 23 dienos iki rugpjūčio 30 dienos Lietuvos
+8 dienos ir nuo rugpjūčio 23 dienos iki rugpjūčio 30 dienos Lietuvos Respublikos
 
-Respublikos finansų
+finansų
 
 ministerija įvertina Lietuvos ūkio
 
@@ -273,7 +271,21 @@ sektoriaus balanso rodiklio aritmetinis vidurkis yra perteklius (grynasis
 
 skolinimas), sudarantis ne mažiau kaip 0,1 procento bendrojo vidaus produkto to
 
-meto kainomis.
+meto kainomis;
+
+4)
+
+jeigu suplanuoti valstybės biudžeto asignavimai ir pajamos užtikrins valdžios
+
+sektoriaus balanso rodiklio pagerėjimą, sudarantį ne mažiau kaip 1,0
+
+procentinio punkto bendrojo vidaus produkto to meto kainomis, į valdžios sektoriaus balanso rodiklį neįskaičiuojant
+
+valstybės įmonės „Indėlių ir investicijų draudimas“ veiklos finansinių
+
+rezultatų. Šis punktas taikomas rengiant, tvirtinant, vykdant, vertinant
+
+ir atsiskaitant už 2015 metų valstybės biudžetą ir savivaldybių biudžetus.
 
 4. Įgyvendinant šio straipsnio 1 ir 2 dalių nuostatas:
 
@@ -281,31 +293,7 @@ meto kainomis.
 
 pajamomis mažinamas patvirtinto valstybės biudžeto deficitas;
 
-2) Lietuvos Respublikos Vyriausybė, teikdama Lietuvos
-
-Respublikos Seimui atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų
-
-finansinių rodiklių patvirtinimo įstatymo projektą arba jo pakeitimo įstatymo
-
-projektą, pateikia išvadas dėl finansinių rodiklių atitikties paskutinėms
-
-galiojančioms Europos Sąjungos Ministrų Tarybos rekomendacijoms ir nuomonei dėl
-
-Lietuvos vidutinio laikotarpio ekonominės programos ir galimų papildomų
-
-priemonių, būtinų visiškai atsižvelgti į Europos Sąjungos Ministrų Tarybos
-
-rekomendacijas ir nuomonę. Lietuvos Respublikos Seimas, priimdamas atitinkamų
-
-metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
-
-patvirtinimo įstatymą arba jo pakeitimo įstatymą, atsižvelgia į paskutines
-
-galiojančias Europos Sąjungos Ministrų Tarybos rekomendacijas ir nuomonę dėl
-
-Lietuvos vidutinio laikotarpio ekonominės programos.
-
-4 dalies 2 punktas netenka galios nuo 2013-07-01.
+2) neteko galios nuo 2013-07-01.
 
 Straipsnio
 
@@ -319,6 +307,10 @@ Nr. XI-2276,
 
 2012-10-16, Žin., 2012, Nr. 126-6324 (2012-10-31)
 
+Nr. XII-1378,
+
+2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19661
+
 4
 
 straipsnis. Šio
@@ -329,11 +321,7 @@ straipsnis. Šio
 
 straipsnio 2 dalį, įsigalioja nuo 2008 m. sausio 1 d.
 
-2. 2008 m. valdžios sektoriaus deficitas
-
-negali būti didesnis kaip 0,5 procento bendrojo vidaus produkto.
-
-2 dalis netenka galios nuo 2013-07-01.
+2. Neteko galios nuo 2013-07-01.
 
 Straipsnio
 
@@ -421,11 +409,27 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 1 d.
 
+3.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-1378,
+
+2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19661
+
+LIETUVOS
+
+RESPUBLIKOS FISKALINĖS DRAUSMĖS ĮSTATYMO NR. X-1316 2 IR 3 STRAIPSNIŲ PAKEITIMO
+
+ĮSTATYMAS
+
 *** Pabaiga ***
 
 Redagavo Aušrinė Trapinskienė
 
-(2012-10-31)
+(2014-12-16)
 
 ausrine.trapinskiene@lrs.lt
 
