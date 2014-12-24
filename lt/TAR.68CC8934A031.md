@@ -4,7 +4,7 @@ identifier: "TAR.68CC8934A031"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-13"
-last_updated: "2014-08-01"
+last_updated: "2014-12-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.68CC8934A031"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS CIVILINĮ PROCESĄ REGLAMENTUOJANČIŲ EUROPOS SĄJUNGOS
 
 IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2014-08-01 iki 2014-12-23
+Suvestinė redakcija nuo 2014-12-24 iki 2015-01-09
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
 
@@ -92,7 +92,11 @@ Centrinė įstaiga 2001 m. gegužės 28 d. Tarybos reglamento (EB) Nr. 1206/2001
 
 ŠEŠTASIS SKIRSNIS
 
-2003 M. LAPKRIČIO 27 D. TARYBOS REGLAMENTO (EB) NR. 2201/2003 DĖL JURISDIKCIJOS IR TEISMO SPRENDIMŲ, SUSIJUSIŲ SU SANTUOKA IR TĖVŲ PAREIGOMIS, PRIPAŽINIMO BEI VYKDYMO, PANAIKINANČIO REGLAMENTĄ (EB) NR. 1347/2000, IR 1980 M. SPALIO 25 D. HAGOS KONVENCIJOS DĖL TARPTAUTINIO VAIKŲ GROBIMO CIVILINIŲ ASPEKTŲ ĮGYVENDINIMAS
+2003 M. LAPKRIČIO 27 D. TARYBOS REGLAMENTO (EB) NR. 2201/2003 DĖL JURISDIKCIJOS IR TEISMO SPRENDIMŲ, SUSIJUSIŲ SU SANTUOKA IR TĖVŲ PAREIGOMIS, PRIPAŽINIMO BEI VYKDYMO, PANAIKINANČIO REGLAMENTĄ (EB) NR. 1347/2000, 1980 M. SPALIO 25 D. HAGOS KONVENCIJOS DĖL TARPTAUTINIO VAIKŲ GROBIMO CIVILINIŲ ASPEKTŲ IR 1996 M. SPALIO 19 D. HAGOS KONVENCIJOS DĖL JURISDIKCIJOS, TAIKYTINOS TEISĖS, PRIPAŽINIMO, VYKDYMO IR BENDRADARBIAVIMO TĖVŲ PAREIGŲ IR VAIKŲ APSAUGOS PRIEMONIŲ SRITYJE ĮGYVENDINIMAS
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XII-1413, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20545
 
 7 straipsnis. Vaiko grąžinimas
 
@@ -139,10 +143,6 @@ Pareiškimas dėl santuokos nutraukimo, gyvenimo skyrium (separacijos), santuoko
 1. Priėmęs prašymą dėl vaiko grąžinimo, teismas ieškovo (išieškotojo) ar antstolio prašymu arba savo iniciatyva gali taikyti, o priėmęs sprendimą dėl vaiko grąžinimo, – savo iniciatyva privalo taikyti laikinąsias apsaugos priemones – draudimą atsakovui (skolininkui) išvykti iš Lietuvos Respublikos ir (arba) draudimą išvežti vaiką iš Lietuvos Respublikos be teismo leidimo.
 
 2. Nutartis dėl šio straipsnio 1 dalyje nurodytų laikinųjų apsaugos priemonių taikymo vykdo antstolis.
-
-SEPTINTASIS SKIRSNIS
-
-2004 M. BALANDŽIO 21 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (EB) NR. 805/2004, SUKURIANČIO NEGINČYTINŲ REIKALAVIMŲ EUROPOS VYKDOMĄJĮ RAŠTĄ, ĮGYVENDINIMAS
 
 13 straipsnis. Europos vykdomasis raštas
 
@@ -377,4 +377,24 @@ Nr. XII-392, 2013-06-18, Žin., 2013, Nr. 68-3419 (2013-06-28), i. k. 1131010IST
 DEŠIMTASIS SKIRSNIS
 
 BAIGIAMOSIOS NUOSTATOS
+
+121 straipsnis. 1996 m. spalio 19 d. Hagos konvencijos dėl jurisdikcijos, taikytinos teisės, pripažinimo, vykdymo ir bendradarbiavimo tėvų pareigų ir vaikų apsaugos priemonių srityje įgyvendinimas
+
+1. 1996 m. spalio 19 d. Hagos konvencija dėl jurisdikcijos, taikytinos teisės, pripažinimo, vykdymo ir bendradarbiavimo tėvų pareigų ir vaikų apsaugos priemonių srityje (toliau – 1996 m. spalio 19 d. Hagos konvencija) Lietuvos Respublikoje įgyvendinama vadovaujantis Lietuvos Respublikos įstatymu „Dėl Konvencijos dėl jurisdikcijos, taikytinos teisės, pripažinimo, vykdymo ir bendradarbiavimo tėvų pareigų ir vaikų apsaugos priemonių srityje ratifikavimo“.
+
+2. Valstybių 1996 m. spalio 19 d. Hagos konvencijos dalyvių, išskyrus Europos Sąjungos valstybes nares, teismų sprendimai, patenkantys į 1996 m. spalio 19 d. Hagos konvencijos taikymo sritį, Lietuvos Respublikoje pripažįstami ir leidžiama juos vykdyti pagal Lietuvos Respublikos civilinio proceso kodekso LX skyriaus ketvirtąjį, penktąjį ir šeštąjį skirsnius.
+
+Papildyta straipsniu:
+
+Nr. XII-1413, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20545
+
+122 straipsnis. Prašymų dėl jurisdikcijos perėmimo ir prašymų dėl jurisdikcijos perdavimo nagrinėjimo tvarka
+
+1. Reglamento (EB) Nr. 2201/2003 15 straipsnyje ir 1996 m. spalio 19 d. Hagos konvencijos 8 ir 9 straipsniuose nurodytus prašymus dėl jurisdikcijos perėmimo iš užsienio valstybės teismo ir prašymus dėl jurisdikcijos perdavimo užsienio valstybės teismui nagrinėja Lietuvos apeliacinis teismas.
+
+2. Šio straipsnio 1 dalyje nurodyti prašymai nagrinėjami Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka tiek, kiek Reglamentas (EB) Nr. 2201/2003, 1996 m. spalio 19 d. Hagos konvencija ir šis įstatymas nenustato kitaip. Šio straipsnio 1 dalyje nurodyti prašymai žyminiu mokesčiu neapmokestinami.
+
+3. Šio straipsnio 1 dalyje nurodyti Lietuvos apeliaciniam teismui teikiami prašymai turi atitikti bendruosius procesiniams dokumentams keliamus reikalavimus (Lietuvos Respublikos civilinio proceso kodekso 111 straipsnis). Vadovaujantis Reglamento (EB) Nr. 2201/2003 15 straipsnio nuostatomis teikiamas prašymas ir jo priedai turi būti pateikti valstybine kalba arba turi būti pridėti šių dokumentų vertimai į lietuvių kalbą. Vadovaujantis 1996 m. spalio 19 d. Hagos konvencijos 8 ir 9 straipsnių nuostatomis teikiamas prašymas ir jo priedai turi būti pateikti valstybine kalba arba turi būti pridėti šių dokumentų vertimai į lietuvių kalbą, o jeigu to padaryti neįmanoma, šis prašymas ir jo priedai turi būti pateikti anglų kalba arba turi būti pridėti šių dokumentų vertimai į anglų kalbą. Jeigu pareiškėjas gyvena ne Lietuvos Respublikoje ir nepaskyrė atstovo byloje arba įgalioto asmens procesiniams dokumentams gauti, gyvenančio (turinčio profesinės veiklos buveinę) Lietuvos Respublikoje (Lietuvos Respublikos civilinio proceso kodekso 805 straipsnis), prašyme turi būti nurodytas adresas Lietuvos Respublikoje arba telekomunikacijų galinio įrenginio adresas, kuriuo pareiškėjui būtų įteikiami procesiniai dokumentai. Šioje dalyje nustatyti reikalavimai netaikomi prašymams, kuriuos Lietuvos apeliaciniam teismui pateikia užsienio valstybės teismas.
+
+4. Lietuvos apeliacinis teismas, kai tai tikslinga, gali pavesti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos pateikti išvadą dėl jurisdikcijos perėmimo ar jurisdikcijos perdavimo tikslingumo. Lietuvos apeliacinis teismas nustato šioje dalyje nurodytos išvados pateikimo terminą.
 
