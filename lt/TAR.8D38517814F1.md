@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2014-10-21"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2014-10-21 iki 2014-12-30
+Suvestinė redakcija nuo 2014-12-31 iki 2015-03-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -407,7 +407,11 @@ Nr. XII-769, 2014-01-23, paskelbta TAR 2014-01-30, i. k. 2014-00711
 
 6 straipsnis. Leidimai
 
-1. Įmonės, ketinančios atlikti atliekų apdorojimą, ir įmonės, atliekų susidarymo vietoje pavojingąsias atliekas laikančios ilgiau kaip šešis mėnesius, o nepavojingąsias – ilgiau kaip vienus metus, turi gauti leidimus.
+1. Įmonės, ketinančios atlikti atliekų apdorojimą, perdirbančios laivus, ir įmonės, atliekų susidarymo vietoje pavojingąsias atliekas laikančios ilgiau kaip šešis mėnesius, o nepavojingąsias – ilgiau kaip vienus metus, turi gauti leidimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
 
 2. Leidimai išduodami tik toms atliekas naudojančioms ar šalinančioms įmonėms, kurios turi atliekų naudojimo ar šalinimo veiklos nutraukimo planus, parengtus pagal šio Įstatymo 11 straipsnyje nustatytus reikalavimus.
 
@@ -543,15 +547,11 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 Pavojingų atliekų tranzito, išvežimo iš Lietuvos Respublikos ir įvežimo į Lietuvos Respubliką apskaitą tvarko Aplinkos ministerija.
 
-19 straipsnis. Avarijų prevencija, likvidavimas, tyrimas
+19 straipsnis. Neteko galios nuo 2014-12-31
 
-1. Įmonės, kurios steigia ar yra įsteigusios ir eksploatuoja valstybinės reikšmės atliekų tvarkymo objektus, ir įmonės, kuriose susidaro pavojingosios atliekos, ir pavojingąsias atliekas tvarkančios bei nepavojingąsias atliekas šalinančios įmonės privalo teisės aktų nustatyta tvarka parengti Lietuvos Respublikos civilinės saugos įstatyme numatytus ekstremaliųjų situacijų valdymo planus.
+Straipsnio naikinimas:
 
-2. Įvykus avarijai arba išsipylus pavojingosioms atliekoms ar jų pavojingiems komponentams, galintiems sukelti pavojų žmonių sveikatai ar aplinkai, avarija nedelsiant turi būti likviduojama pagal ekstremaliųjų situacijų valdymo planus ir nustatomos avarijos priežastys.
-
-Straipsnio pakeitimai:
-
-Nr. XII-289, 2013-05-09, Žin., 2013, Nr. 55-2729 (2013-05-28)
+Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
 
 Penktasis skirsnis
 
