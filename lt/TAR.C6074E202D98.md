@@ -4,7 +4,7 @@ identifier: "TAR.C6074E202D98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-22"
-last_updated: "2010-04-27"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6074E202D98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 2010-04-27 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 109-2474, i. k. 0961010ISTA00I-1591
 
@@ -39,7 +39,11 @@ Zona steigiama 49 metams. Zonos veiklos terminas gali būti pratęstas tik įsta
 
 1. Zonos teritorija užima 534 ha.
 
-2. Zonos teritorija ne aukciono būdu Civilinio kodekso, Žemės įstatymo bei šio įstatymo nustatytomis sąlygomis ir tvarka išnuomojama zonos valdymo bendrovei (pasibaigus zonos veiklos laikotarpiui - jos teisių ir pareigų perėmėjai) 99 metams. Zonos valdymo bendrovė turi teisę žemės nuomos mokestį Lietuvos Respublikos Vyriausybės arba jos įgaliotos valstybės institucijos nustatyta tvarka sumokėti iš anksto už visą nuomos laikotarpį ar jo dalį. Jeigu zonos valdymo bendrovė iš anksto sumokėjo žemės nuomos mokestį, o vėliau pasikeitė žemės vertė, pagal kurią skaičiuojamas žemės nuomos mokesčio dydis, ar žemės nuomos mokesčio tarifas, ar kitoks žemės nuomos mokesčio skaičiavimo pagrindas, žemės nuomos mokesčio dydis už laikotarpį, už kurį žemės nuomos mokestis sumokėtas iš anksto, nekeičiamas. Pasibaigus zonos veiklos terminui, nurodytam šio įstatymo 2 straipsnyje,  išnuomotos zonos teritorijos nuomos sutartis lieka galioti likusiam nuomos laikotarpiui, o zonos teritorijos nuomininku lieka zonos valdymo bendrovė ar jos teisių ir pareigų perėmėjas.
+2. Zonos teritorijoje esantys žemės sklypai išnuomojami Civilinio kodekso, Žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka. Zonos teritorija išnuomojama zonos valdymo bendrovei (pasibaigus zonos veiklos laikotarpiui – jos teisių ir pareigų perėmėjai) 99 metams. Pasibaigus zonos veiklos terminui, nurodytam šio įstatymo 2 straipsnyje, išnuomotos zonos teritorijos nuomos sutartis lieka galioti likusiam nuomos laikotarpiui, o zonos teritorijos nuomininku lieka zonos valdymo bendrovė ar jos teisių ir pareigų perėmėjas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-946, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07825
 
 Straipsnio pakeitimai:
 
@@ -250,4 +254,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-738, 2010-04-13, Žin., 2010, Nr. 48-2288 (2010-04-27), i. k. 1101010ISTA00XI-738
 
 Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 7, 8 straipsnių pakeitimo ir 6 straipsnio pripažinimo netekusiu galios įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-946, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07825
+
+Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo Nr. I-1591 3 straipsnio pakeitimo įstatymas
 
