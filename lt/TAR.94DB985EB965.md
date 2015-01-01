@@ -4,7 +4,7 @@ identifier: "TAR.94DB985EB965"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-01"
-last_updated: "2012-09-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2012-09-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2016-10-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
 
@@ -637,13 +637,25 @@ Nr. XI-2161, 2012-06-29, Žin., 2012, Nr. 83-4335 (2012-07-14), i. k. 1121010IST
 
 5) teismo sprendimu, kai kooperatinės bendrovės steigimas pripažįstamas negaliojančiu, kaip tai nustatyta Civiliniame kodekse;
 
-6) teismo sprendimu juridinių asmenų registro tvarkytojo iniciatyva, kaip tai nustatyta Civiliniame kodekse;
+6) juridinių asmenų registro tvarkytojo sprendimu, kaip tai nustatyta Civiliniame kodekse;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1074, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10457
 
 7) teismo sprendimu, kai kooperatinės bendrovės veikla pripažįstama netinkama, kaip tai nustatyta Civiliniame kodekse, ir taikoma likvidavimo priemonė.
 
-2. Kooperatinės bendrovės likvidavimo tvarką nustato Civilinis kodeksas ir šis Įstatymas.
+2. Kooperatinės bendrovės likvidavimo tvarką nustato Civilinis kodeksas ir šis Įstatymas. Jeigu kooperatinės bendrovės likvidavimo pagrindas yra juridinių asmenų registro tvarkytojo sprendimas, kooperatinė bendrovė likviduojama taikant Civilinio kodekso nuostatas, reglamentuojančias juridinio asmens likvidavimą juridinių asmenų registro tvarkytojo iniciatyva.
 
-3. Asmuo, priėmęs sprendimą likviduoti kooperatinę bendrovę, paskiria likvidatorių. Juo turi būti reikiamos kvalifikacijos asmuo. Gali būti skiriama keletas likvidatorių. Jei skiriama keletas likvidatorių, yra sudaroma likvidacinė komisija ir vienas iš likvidatorių skiriamas likvidacinės komisijos pirmininku.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1074, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10457
+
+3. Asmuo, priėmęs sprendimą likviduoti kooperatinę bendrovę, paskiria likvidatorių, išskyrus atvejus, kai sprendimą likviduoti kooperatinę bendrovę priima juridinių asmenų registro tvarkytojas. Likvidatoriumi turi būti reikiamos kvalifikacijos asmuo. Gali būti skiriama keletas likvidatorių. Jeigu skiriama keletas likvidatorių, yra sudaroma likvidacinė komisija ir vienas iš likvidatorių skiriamas likvidacinės komisijos pirmininku.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1074, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10457
 
 4. Nuo likvidatoriaus (likvidacinės komisijos) paskyrimo kooperatinės bendrovės organai, išskyrus narių susirinkimą, netenka įgaliojimų, kooperatinės bendrovės narių susirinkimo kompetencija dėl sandorių sudarymo, taip pat valdymo ir kontrolės organų teisės bei pareigos pereina likvidatoriui (likvidacinei komisijai).
 
@@ -790,6 +802,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2161, 2012-06-29, Žin., 2012, Nr. 83-4335 (2012-07-14), i. k. 1121010ISTA0XI-2161
 
 Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 20 straipsnio papildymo ir pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1074, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10457
+
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 21 straipsnio pakeitimo įstatymas
 
 31 straipsnis. Žemės ūkio kooperatinė bendrovė (kooperatyvas)
 
