@@ -4,7 +4,7 @@ identifier: "TAR.FE3C428580B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-11-20"
-last_updated: "2014-12-24"
+last_updated: "2015-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FE3C428580B8"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymas
 
-Suvestinė redakcija nuo 2014-12-24 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-06-19
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 115-5192, i. k. 1031010ISTA0IX-1837
 
@@ -453,10 +453,6 @@ Nr. XII-1415, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20559
 
 40 straipsnis. Kandidatų registravimas
 
-1. Prasidėjus pareiškinių dokumentų pateikimo terminui, Lietuvos Respublikos teisingumo ministerija (toliau – Teisingumo ministerija) per vieną dieną Vyriausiosios rinkimų komisijos reikalavimu oficialiai patvirtina, kokios partijos yra įregistruotos, kokių partijų veikla yra sustabdyta ar nutraukta.
-
-Redakcija nuo 2015-01-01:
-
 1. Prasidėjus pareiškinių dokumentų pateikimo terminui, Lietuvos Respublikos teisingumo ministerija (toliau – Teisingumo ministerija) per vieną dieną Vyriausiosios rinkimų komisijos reikalavimu oficialiai patvirtina, kokios partijos yra įregistruotos, kokių partijų narių skaičius atitinka Politinių partijų įstatymo reikalavimus ir kurios iš jų turi partijos, kuriai inicijuojamas likvidavimas, ar likviduojamos partijos teisinį statusą.
 
 2. Gavusi partijos pareiškinius dokumentus, Vyriausioji rinkimų komisija turi ne vėliau kaip kitą darbo dieną kreiptis į Teisingumo ministeriją dėl partijos registracijos fakto ir partijos įstatų galiojimo patvirtinimo. Teisingumo ministerija per 2 dienas turi duoti rašytinį atsakymą ir pateikti Vyriausiajai rinkimų komisijai galiojančių partijos įstatų nuorašą.
@@ -499,7 +495,11 @@ KANDIDATŲ KĖLIMAS
 
 1. Prasidėjus rinkimų į Europos Parlamentą politinei kampanijai, tai yra nuo rinkimų į Europos Parlamentą datos paskelbimo iki šio įstatymo nustatyto rinkimų agitacijos kampanijos laikotarpio pabaigos, taip pat rinkimų dieną draudžiama tiesiogiai ar netiesiogiai pirkti rinkėjų balsus, dovanomis ar kitokiu atlyginimu skatinti rinkėjus ar rinkimų teisę turinčius asmenis dalyvauti arba nedalyvauti rinkimuose ir (arba) balsuoti už arba prieš vieną ar kitą asmenį, kurį numatoma kelti kandidatu, kandidatą arba kandidatų sąrašą, taip pat žadėti už balsavimą atsilyginti rinkėjams po rinkimų turint tikslą paveikti rinkėjų valią dėl konkrečių politinių partijų, rinkimų komitetų, kandidatų sąrašų, kandidatų arba asmenų, kurie numatomi kelti kandidatais, ir taip trukdyti piliečiams įgyvendinti rinkimų teisę.
 
-2. Rinkėjų papirkimu nelaikomas spausdintos medžiagos (politinės partijos, rinkimų komiteto, kandidatų sąrašo, kandidato arba asmens, kurį numatoma kelti kandidatu, programos, biografijos ar kitokių informacinio turinio lankstinukų, kalendorių, atvirukų, lipdukų), taip pat mažareikšmių daiktų (kurių kaina yra iki 5 litų), pažymėtų politinės partijos, rinkimų komiteto, kandidatų sąrašo, kandidato ar asmens, kurį numatoma kelti kandidatu, simbolika ir deklaruotų Vyriausiojoje rinkimų komisijoje jos nustatyta tvarka, skirtų politinei partijai, rinkimų komitetui, kandidatų sąrašui, kandidatui ar asmeniui, kurį numatoma kelti kandidatu, propaguoti, gaminimas arba neatlygintinas platinimas.
+2. Rinkėjų papirkimu nelaikomas spausdintos medžiagos (politinės partijos, rinkimų komiteto, kandidatų sąrašo, kandidato arba asmens, kurį numatoma kelti kandidatu, programos, biografijos ar kitokių informacinio turinio lankstinukų, kalendorių, atvirukų, lipdukų), taip pat mažareikšmių daiktų (kurių kaina yra iki 1,45 euro), pažymėtų politinės partijos, rinkimų komiteto, kandidatų sąrašo, kandidato ar asmens, kurį numatoma kelti kandidatu, simbolika ir deklaruotų Vyriausiojoje rinkimų komisijoje jos nustatyta tvarka, skirtų politinei partijai, rinkimų komitetui, kandidatų sąrašui, kandidatui ar asmeniui, kurį numatoma kelti kandidatu, propaguoti, gaminimas arba neatlygintinas platinimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1254, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14864
 
 3. Rinkėjų ir rinkimų teisę turinčių asmenų papirkimo faktus tiria savivaldybių rinkimų komisijos Vyriausiosios rinkimų komisijos nustatyta tvarka, vertina Vyriausioji rinkimų komisija. Apie nustatytą papirkimo faktą Vyriausioji rinkimų komisija paskelbia savo interneto svetainėje kartu su kandidato, pažeidusio šį įstatymo straipsnį, pasižadėjimu laikytis draudimo papirkti rinkėjus ar rinkimų teisę turinčius asmenis. Pripažinus papirkimo faktus šiurkščiu šio įstatymo pažeidimu, atsiranda šiame ir kituose įstatymuose nurodytos pasekmės.
 
@@ -896,10 +896,6 @@ Rinkimų apylinkės rinkėjų sąrašą pagal savivaldybės rinkėjų sąrašą 
 2. Rinkimų dieną rinkėjas, kuris nėra balsavęs, gali Vyriausiosios rinkimų komisijos nustatyta tvarka balsuoti kitoje rinkimų apylinkėje, jeigu abi šios rinkimų apylinkės yra elektroninių ryšių priemonėmis prisijungusios prie elektroninio rinkėjų sąrašo ir Vyriausiosios rinkimų komisijos informacinės sistemos ir apylinkių rinkimų komisijos gali patvirtinti, kad rinkėjas nėra balsavęs nė vienoje iš rinkimų apylinkių, o rinkimų apylinkės, į kurios rinkėjų sąrašą yra įrašytas šis rinkėjas, rinkimų komisija patvirtino, kad šios rinkimų apylinkės rinkėjų sąraše yra padarytas įrašas apie šio rinkėjo atvykimą balsuoti į kitą rinkimų apylinkę ir rinkėjo balsas, jeigu bus gautas balsavimo paštu voke, nebus skaičiuojamas.
 
 37 straipsnis. Kandidatų kėlimas
-
-1. Kandidatus gali kelti partija, pagal Lietuvos Respublikos politinių partijų įstatymą (toliau – Politinių partijų įstatymas) įregistruota ne vėliau kaip likus 185 dienoms iki rinkimų ir atitinkanti Politinių partijų įstatymo reikalavimus dėl partijos narių skaičiaus.
-
-Redakcija nuo 2015-01-01:
 
 1. Kandidatus gali kelti partija, pagal Lietuvos Respublikos politinių partijų įstatymą (toliau – Politinių partijų įstatymas) įregistruota ne vėliau kaip likus 185 dienoms iki rinkimų, atitinkanti Politinių partijų įstatymo reikalavimus dėl partijos narių skaičiaus ir neturinti partijos, kuriai inicijuojamas likvidavimas, ar likviduojamos partijos teisinio statuso.
 
@@ -1522,6 +1518,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1415, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20559
 
 Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo Nr. IX-1837 3, 14, 39, 40, 94 straipsnių, priedo pakeitimo ir Įstatymo papildymo 97-1 straipsniu įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1254, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14864
+
+Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo Nr. IX-1837 5 straipsnio pakeitimo įstatymas
 
 971 straipsnis. Europos Parlamento nario mandato netekimas paaiškėjus, kad išrinkto į Europos Parlamentą asmens kilmės valstybėje narėje jam yra atimta teisė būti kandidatu
 
