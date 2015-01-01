@@ -4,7 +4,7 @@ identifier: "TAR.9F274C93E483"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-06-10"
-last_updated: "2013-10-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F274C93E483"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymas
 
-Suvestinė redakcija nuo 2013-10-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2760, i. k. 1031010ISTA0IX-1607
 
@@ -53,11 +53,15 @@ Straipsnio punkto pakeitimai:
 
 Nr. XI-1104, 2010-11-09, Žin., 2010, Nr. 137-7005 (2010-11-23), i. k. 1101010ISTA0XI-1104
 
-3) juridinių ir fizinių asmenų mokesčiai, mokami įstatymų nustatytomis proporcijomis ir tvarka už valstybinius gamtos išteklius, išskyrus medžiojamųjų gyvūnų išteklius;
+3) juridinių ir fizinių asmenų mokesčiai ir baudos, mokami įstatymų nustatytomis proporcijomis ir tvarka už angliavandenilių išteklius, juridinių ir fizinių asmenų mokesčiai, mokami įstatymų nustatytomis proporcijomis ir tvarka už valstybinius gamtos išteklius, išskyrus medžiojamųjų gyvūnų išteklius;
 
 Papildyta straipsnio punktu:
 
 Nr. XI-1104, 2010-11-09, Žin., 2010, Nr. 137-7005 (2010-11-23), i. k. 1101010ISTA0XI-1104
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1383, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19667
 
 4) lėšos, gautos kaip želdinių atkuriamosios vertės kompensacija;
 
@@ -116,10 +120,6 @@ Nr. X-1243, 2007-06-28, Žin., 2007, Nr. 80-3217 (2007-07-19), i. k. 1071010ISTA
 Straipsnio punkto pakeitimai:
 
 Nr. XI-1104, 2010-11-09, Žin., 2010, Nr. 137-7005 (2010-11-23), i. k. 1101010ISTA0XI-1104
-
-Straipsnio punkto numeracijos pakeitimas:
-
-Nr. X-1243, 2007-06-28, Žin., 2007, Nr. 80-3217 (2007-07-19), i. k. 1071010ISTA00X-1243
 
 5) savanoriškos juridinių ir fizinių asmenų įmokos naudojamos pagal mokėtojų pageidavimus.
 
@@ -188,4 +188,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-374, 2013-06-18, Žin., 2013, Nr. 67-3337 (2013-06-26), i. k. 1131010ISTA0XII-374
 
 Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo 4 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1383, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19667
+
+Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo Nr. IX-1607 3 straipsnio pakeitimo įstatymas
 
