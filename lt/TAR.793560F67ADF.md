@@ -4,7 +4,7 @@ identifier: "TAR.793560F67ADF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-03-21"
-last_updated: "2012-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.793560F67ADF"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.11-274, i. k. 0911010ISTA00I-1163
 
@@ -140,7 +140,11 @@ Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir teritorinių v
 
 11 straipsnis. Mokesčio įskaitymas
 
-1. Mokestis už valstybinius gamtos išteklius, išskyrus mokestį už medžiojamųjų gyvūnų išteklius, įskaitomas: 90 procentų – į valstybės biudžetą, o 10 procentų – į savivaldybės, kurios teritorijoje išgaunami gamtos ištekliai, biudžetą ir teisės aktų nustatyta tvarka naudojamas Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti.
+1. Mokestis už valstybinius gamtos išteklius, išskyrus mokestį už medžiojamųjų gyvūnų išteklius, įskaitomas: 80 procentų – į valstybės biudžetą, o 20 procentų – į savivaldybės, kurios teritorijoje išgaunami gamtos ištekliai, biudžetą ir teisės aktų nustatyta tvarka naudojamas Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-835, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04869
 
 2. Mokestis už medžiojamųjų gyvūnų išteklius įskaitomas: 70 procentų mokesčio už medžiojamųjų gyvūnų išteklius – į savivaldybės, kurios teritorijoje išgaunami medžiojamųjų gyvūnų ištekliai, biudžetą ir teisės aktų nustatyta tvarka naudojamas Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti, o 30 procentų – į valstybės biudžetą ir teisės aktų nustatyta tvarka naudojamas Aplinkos apsaugos rėmimo programai finansuoti.
 
@@ -170,7 +174,7 @@ gamtos išteklius įstatymo
 
 1 priedas
 
-MokesčiO už naudingąsias IŠKASENas tarifai
+MOKEČIO UŽ NAUDINGĄSIAS IŠKASENAS TARIFAI
 
 Eil. Nr.
 
@@ -178,7 +182,7 @@ Ištekliai
 
 Matavimo vnt.
 
-Tarifas (Lt)
+Tarifas (Eur)
 
 1.
 
@@ -186,7 +190,7 @@ Anhidritas
 
 m3
 
-5
+1,45
 
 2.
 
@@ -194,7 +198,7 @@ Dolomitas
 
 m3
 
-2,5
+0,72
 
 3.
 
@@ -202,7 +206,7 @@ Durpės
 
 m3
 
-2,0
+0,58
 
 4.
 
@@ -210,7 +214,7 @@ Gintaras
 
 kg
 
-69,8
+20,22
 
 5.
 
@@ -218,7 +222,7 @@ Klintis
 
 m3
 
-2,09
+0,61
 
 6.
 
@@ -226,25 +230,15 @@ Kreidos mergelis
 
 m3
 
-2,26
+0,65
 
 7.
 
-Molis:
-
-devono periodo
+Molis: devono periodo  triaso periodo  kitas
 
 m3
 
-2,16
-
-triaso periodo
-
-2,09
-
-kitas
-
-1,28
+0,63 0,61 0,37
 
 8.
 
@@ -252,7 +246,7 @@ Opoka
 
 m3
 
-1,8
+0,52
 
 9.
 
@@ -260,7 +254,7 @@ Sapropelis
 
 m3
 
-0,85
+0,25
 
 10.
 
@@ -268,7 +262,7 @@ Smėlis moliui liesinti
 
 m3
 
-1,2
+0,35
 
 11.
 
@@ -276,7 +270,7 @@ Smėlis stiklui gaminti
 
 m3
 
-4,0
+1,16
 
 12.
 
@@ -284,7 +278,7 @@ Smėlis silikatiniams dirbiniams
 
 m3
 
-1,1
+0,32
 
 13.
 
@@ -292,7 +286,7 @@ Kitas smėlis
 
 m3
 
-0,95
+0,28
 
 14.
 
@@ -300,13 +294,15 @@ m3
 
 m3
 
-1,12
+0,32
 
 Priedo pakeitimai:
 
 Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
 
 Nr. XI-1818, 2011-12-20, Žin., 2011, Nr. 161-7617 (2011-12-29), i. k. 1111010ISTA0XI-1818
+
+Nr. XII-1196, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14127
 
 Lietuvos Respublikos
 
@@ -316,77 +312,67 @@ gamtos išteklius įstatymo
 
 2 priedas
 
-MOKESČIO UŽ VANDENĮ ir statybinį gruntą tarifai
+MOKESČIO UŽ VANDENĮ IR STATYBINĮ GRUNTĄ TARIFAI
 
 Eil. Nr.
 
 Ištekliai
 
-Tarifas (Lt/m3)
+Tarifas (Eur/m3)
 
 1.
 
-Požeminis vanduo, išskyrus mineralinį:
+Požeminis vanduo, išskyrus mineralinį: a) vandens tiekėjo tiekiamas namų ūkio reikmėms ir patalpų šildymui; b) juridinių asmenų naudojamas komerciniams tikslams, supilstytas į tarą; c) kitas (a ir b punktuose nenurodytas) požeminis vanduo
 
-a) vandens tiekėjo tiekiamas namų ūkio reikmėms ir patalpų šildymui;
-
-0,06
-
-b) juridinių asmenų naudojamas komerciniams tikslams, supilstytas į tarą;
-
-10,8
-
-c) kitas (a ir b punktuose nenurodytas) požeminis vanduo.
-
-0,24
+0,02   3,13   0,07
 
 2.
 
 Mineralinis vanduo, išskyrus mineralinį vandenį, naudojamą gydymo įstaigose
 
-10,8
+3,13
 
 3.
 
 Mineralinis vanduo, naudojamas gydymo įstaigose
 
-5,4
+1,56
 
 4.
 
 Paviršinis vanduo pramonei ir žemės ūkiui
 
-0,007
+0,002
 
 5.
 
 Paviršinis vanduo kondensacinėms šiluminėms elektrinėms aušinti
 
-0,0007
+0,0002
 
 6.
 
 Paviršinis vanduo žuvininkystei
 
-0,0005
+0,0001
 
 7.
 
 Paviršinis vanduo hidroenergetikai
 
-0,00003
+0,00001
 
 8.
 
 Paviršinis vanduo atominei elektrinei
 
-0,001
+0,0003
 
 9.
 
 Statybinis gruntas
 
-0,64
+0,19
 
 Priedo pakeitimai:
 
@@ -394,9 +380,13 @@ Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA
 
 Nr. XI-1818, 2011-12-20, Žin., 2011, Nr. 161-7617 (2011-12-29), i. k. 1111010ISTA0XI-1818
 
-Lietuvos Respublikos mokesčio už
+Nr. XII-1196, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14127
 
-valstybinius gamtos išteklius įstatymo
+Lietuvos Respublikos
+
+mokesčio už valstybinius
+
+gamtos išteklius įstatymo
 
 3 priedas
 
@@ -404,7 +394,7 @@ MOKESČIO UŽ MEDŽIOJAMUOSIUS GYVŪNUS TARIFAI PAGAL MEDŽIOKLĖS PLOTŲ KATEGO
 
 Medžioklės plotų kategorijos pagal tinkamumą medžiojamiesiems gyvūnams gyventi bei veistis
 
-Metinis mokesčio tarifas Lt/ha
+Metinis mokesčio tarifas (Eur/ha)
 
 Kategorija
 
@@ -414,45 +404,47 @@ I
 
 Lapuočių ir mišrūs lapuočių su spygliuočiais medynai (spygliuočių – iki 50 procentų)
 
-1,8
+0,52
 
 II
 
-Mišrūs spygliuočių su lapuočiais medynai (lapuočių -nuo 25 iki 50 procentų)
+Mišrūs spygliuočių su lapuočiais medynai (lapuočių – nuo 25 iki 50 procentų)
 
-1,2
+0,35
 
 III
 
-Mišrūs spygliuočių su nedidele lapuočių priemaiša medynai (lapuočių nuo 11 iki 24 procentų)
+Mišrūs spygliuočių su nedidele lapuočių priemaiša medynai (lapuočių – nuo 11 iki 24 procentų)
 
-0,9
+0,26
 
 IV
 
 Gryni pušynai su ne didesne kaip 10 procentų kitų medžių rūšių priemaiša
 
-0,45
+0,13
 
 V
 
 Laukai (žemės ūkio naudmenos ir krūmynai) Marijampolės apskrityje
 
-0,3
+0,08
 
 VI
 
 Laukai (žemės ūkio naudmenos ir krūmynai) kitoje Lietuvos Respublikos dalyje
 
-0,25
+0,07
 
 VII
 
 Vandens telkiniai
 
-0,1
+0,03
 
-______________
+Priedo pakeitimai:
+
+Nr. XII-1196, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14127
 
 Lietuvos Respublikos mokesčio už
 
@@ -539,4 +531,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1818, 2011-12-20, Žin., 2011, Nr. 161-7617 (2011-12-29), i. k. 1111010ISTA0XI-1818
 
 Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo 6, 7 straipsnių ir 1, 2 priedų pakeitimo ir papildymo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-835, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04869
+
+Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. I-1163 11 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1196, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14127
+
+Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. I-1163 1, 2 ir 3 priedų pakeitimo įstatymas
 
