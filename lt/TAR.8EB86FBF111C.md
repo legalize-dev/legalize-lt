@@ -4,7 +4,7 @@ identifier: "TAR.8EB86FBF111C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2014-10-29"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8EB86FBF111C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas
 
-Suvestinė redakcija nuo 2014-10-29 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1927; Žin. 2000, Nr.86-0; Žin. 2002, Nr.103-0, i. k. 1001010ISTAIII-1856
 
@@ -105,11 +105,13 @@ Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai teisinius p
 
 3. Agresijos aktais taip pat laikomi šio straipsnio 2 dalyje neišvardyti užsienio valstybių veiksmai, keliantys rimtą grėsmę Lietuvos Respublikos suverenitetui, teritorijos vientisumui ar politinei nepriklausomybei, taip pat aktai, kuriuos Jungtinių Tautų Organizacijos Saugumo Taryba pripažino agresija pagal Jungtinių Tautų Organizacijos Įstatus.
 
-4. Agresija nelaikomas Lietuvos Respublikos ginkluotųjų pajėgų, esančių užsienyje, užpuolimas, nekeliantis rimtos grėsmės Lietuvos Respublikos suverenitetui, teritorijos vientisumui ar politinei nepriklausomybei. Agresija taip pat nelaikomi vietinio pobūdžio ginkluoti incidentai ir valstybės sienos pažeidimai, pagal savo pobūdį neprilygstantys šio straipsnio 2 dalyje išvardytiems agresijos aktams. Valstybės sienos apsaugos tarnybos ir kariuomenės reagavimo į šiuos incidentus bei pažeidimus tvarką nustato kiti teisės aktai.
+4. Agresija nelaikomas Lietuvos Respublikos ginkluotųjų pajėgų, esančių užsienyje, užpuolimas, nekeliantis rimtos grėsmės Lietuvos Respublikos suverenitetui, teritorijos vientisumui ar politinei nepriklausomybei. Agresija taip pat nelaikomi vietinio pobūdžio ginkluoti incidentai ir valstybės sienos pažeidimai, pagal savo pobūdį neprilygstantys šio straipsnio 2 dalyje išvardytiems agresijos aktams. Sprendimų dėl kariuomenės panaudojimo reaguojant į tokius incidentus ir pažeidimus priėmimo ir įgyvendinimo tvarką nustato Karinės jėgos naudojimo statutas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. VIII-2001, 2000-10-10, Žin., 2000, Nr. 92-2853 (2000-10-31), i. k. 1001010ISTAIII-2001
+
+Nr. XII-1442, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20782
 
 6 straipsnis.         Ginkluotos gynybos ir pasipriešinimo agresijai privalomumas, visuotinumas ir besąlygiškumas
 
@@ -210,4 +212,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1287, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15002
 
 Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo Nr. VIII-1856 2 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1442, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20782
+
+Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo Nr. VIII-1856 5 straipsnio pakeitimo įstatymas
 
