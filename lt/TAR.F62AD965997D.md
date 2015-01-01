@@ -4,7 +4,7 @@ identifier: "TAR.F62AD965997D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-05-20"
-last_updated: "2014-12-02"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2014-12-02 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
 
@@ -106,10 +106,6 @@ LICENCIJOS IR LEIDIMAI
 
 4. Šilumos ir (ar) karšto vandens įmonių informacija apie veiklos sąnaudas, sistemų eksploatavimą, modernizavimą, plėtrą, investicijas į sistemos plėtrą, kainų ir tarifų struktūrą, paslaugų teikimo sąlygas yra vieša.
 
-5. Pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) informacija apie jo veiklos pajamas, sąnaudas, sistemų eksploatavimą, kainas ir tarifus, jų struktūrą, paslaugų teikimo sąlygas, taip pat pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) ketvirtiniai ir metiniai finansiniai-balansiniai rodikliai, investicijų dydžiai, duomenys apie investuotojus, darbuotojų skaičių, savininkams (dalyviams) išmokėtų dividendų ar tantjemų dydį, bendrovės valdymo organų narių ir vadovaujančių darbuotojų (stebėtojų tarybos, valdybos narių, vadovų, jų pavaduotojų, padalinių vadovų, vyriausiųjų finansininkų (buhalterių) ir jų pavaduotojų) darbo užmokesčio dydį bei jiems kitais pagrindais išmokėtas lėšas yra vieši ir turi būti skelbiami energetikos ministro nustatyta tvarka.
-
-Redakcija nuo 2014-06-01:
-
 5. Pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) informacija apie jo veiklos pajamas, sąnaudas, sistemų eksploatavimą, kainas ir tarifus, jų struktūrą, paslaugų teikimo sąlygas, taip pat pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) ketvirtiniai ir metiniai finansiniai-balansiniai rodikliai, investicijų dydžiai, duomenys apie investuotojus, darbuotojų skaičių yra vieši ir turi būti skelbiami energetikos ministro nustatyta tvarka.
 
 Straipsnio pakeitimai:
@@ -153,10 +149,6 @@ DEŠIMTASIS SKIRSNIS
 20 straipsnis. Pastatų šildymo ir karšto vandens sistemų priežiūra
 
 1. Prie šilumos tiekimo sistemos prijungtas daugiabučio namo šildymo ir karšto vandens sistemas, bendrosios dalinės nuosavybės teise priklausančias butų ir kitų patalpų savininkams, taip pat šilumos punktus, tiek nuosavybės teise priklausančius šilumos ir (ar) karšto vandens tiekėjui ar tretiesiems asmenims, tiek butų ir kitų patalpų savininkams, turi prižiūrėti (eksploatuoti) pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas). Teisę reguliuoti (nuotoliniu būdu ar kitaip daryti įtaką) namo šilumos punkto įrenginių darbą, laikydamasis nustatytų higienos normų, turi tik pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) arba atitinkamą kvalifikaciją turintys daugiabučio namo bendrijos atstovas ar daugiabučio namo butų ir kitų patalpų savininkų išrinktas jų įgaliotas atstovas. Daugiabučio namo šilumos punktus, nuosavybės teise priklausančius šilumos ir (ar) karšto vandens tiekėjui ar tretiesiems asmenims, pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) prižiūri (eksploatuoja) šio įstatymo pagrindu, nesudarydamas atskirų sutarčių su šilumos punktų savininkais. Pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) savo prievoles vykdo apdairiai, sąžiningai ir šilumos ir (ar) karšto vandens vartotojų interesais. Pastato šildymo ir karšto vandens sistemos prižiūrėtoją (eksploatuotoją) Civilinio kodekso 4.85 straipsnyje nustatyta sprendimų priėmimo tvarka pasirenka daugiabučio namo butų ir kitų patalpų savininkai, daugiabučio namo butų ir kitų patalpų savininkų bendrija arba, jeigu šie nepriima sprendimo, bendrojo naudojimo objektų administratorius. Daugiabučio namo šildymo ir karšto vandens sistemos priežiūros (eksploatavimo) sutartį su pastato šildymo ir karšto vandens sistemos prižiūrėtoju (eksploatuotoju) sudaro daugiabučio namo butų ir kitų patalpų savininkų bendrija, butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotas asmuo arba bendrojo naudojimo objektų administratorius. Pastato šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) neturi teisės įgalioti kitų asmenų verstis atestatu reguliuojama veikla arba perduoti jiems šią teisę pagal sutartį, arba kitaip pavesti vykdyti šią veiklą. Kai pastato šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) yra bendrija, ji gali pirkti atskirus darbus ar paslaugas iš subjektų, turinčių atitinkamą kompetenciją, technines priemones ir gebėjimus. Daugiabučio namo savininkų bendrija ir (ar) bendrojo naudojimo objektų administratorius gali būti pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas).
-
-2. Pastato šildymo ir karšto vandens sistemos prižiūrėtoju (eksploatuotoju) negali būti šilumos tiekėjas ar asmenys, susiję su šilumos tiekėju darbo santykiais, ar šilumai gaminti naudojamo kuro, šilumos tiekimo veiklai naudojamų apskaitos prietaisų gamintojai, taip pat asmenys, kurie verčiasi šilumai gaminti naudojamo kuro didmenine ar mažmenine prekyba, ar asmenys, kartu su išvardytais asmenimis priklausantys susijusių ūkio subjektų grupei pagal Konkurencijos įstatymą.
-
-Redakcija nuo 2014-06-01:
 
 2. Pastato šildymo ir karšto vandens sistemos prižiūrėtoju (eksploatuotoju) negali būti šilumos tiekėjas, tiekiantis šilumą tam namui, ar fiziniai asmenys, susiję su šilumos tiekėju darbo santykiais, išskyrus, kai su darbo santykiais susiję fiziniai asmenys gyvena tame name ir patys prižiūri savo ar gyvenamo namo bendrijai priklausančius kitus namus, taip pat asmenys, kurių ūkinė veikla apima kuro ruošą ir (ar) tiekimą, ar asmenys, kartu su šioje dalyje nurodytais asmenimis priklausantys susijusių ūkio subjektų grupei pagal Konkurencijos įstatymą. Pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) pagal faktinį šilumos energijos suvartojimą pastate skaičiuoja santykinius šilumos šildymui, cirkuliacijai ir karštam vandeniui ruošti sunaudojimo rodiklius, vadovaudamasis Valstybinės kainų ir energetikos kontrolės komisijos patvirtinta skaičiavimo metodika, analizuoja gautus duomenis, teikia juos pastato savininkui arba daugiabučio namo bendrojo naudojimo objektų valdytojui, daugiabučio namo butų ir kitų patalpų savininkų bendrijai, butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotam asmeniui arba bendrojo naudojimo objektų administratoriui, pagal kompetenciją rengia pasiūlymus dėl šilumos energijos taupymo priemonių įgyvendinimo.
 
@@ -292,7 +284,11 @@ Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
 
 30. Šilumos dalikliai – netiesioginio matavimo prietaisai, kurių sistema kartu su atsiskaitomuoju prietaisu, kaip papildoma dalimi, naudojama išmatuotam šilumos energijos kiekiui paskirstyti.
 
-31. Šilumos dvinarė kaina – šilumos kaina, sudaryta iš pastoviosios, mokamos už vidutinę šilumos vartojimo galią litais už kilovatą per mėnesį, ir kintamosios, mokamos centais už šilumos kilovatvalandę, dedamųjų.
+31. Šilumos dvinarė kaina – šilumos kaina, sudaryta iš pastoviosios, mokamos už vidutinę šilumos vartojimo galią eurais už kilovatą per mėnesį, ir kintamosios, mokamos euro centais už šilumos kilovatvalandę, dedamųjų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1259, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14860
 
 32. Šilumos ir (ar) karšto vandens vartojimo pirkimo–pardavimo sutartis – sutartis tarp šilumos tiekėjo ar gamintojo ir buitinio šilumos vartotojo ar šilumos vartotojo, vartojančio šilumą ir (ar) karštą vandenį patalpose, kuriose neįrengti atsiskaitomieji šilumos apskaitos prietaisai.
 
@@ -322,7 +318,11 @@ Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
 
 45. Šilumos vartotojas (vartotojas) – juridinis ar fizinis asmuo, kurio naudojami šildymo prietaisai nustatyta tvarka prijungti prie šilumos perdavimo tinklų ar pastatų šildymo ir karšto vandens sistemų.
 
-46. Šilumos vienanarė kaina – šilumos kaina, sudaryta iš pastoviosios ir kintamosios dedamųjų, mokamų centais už kilovatvalandę.
+46. Šilumos vienanarė kaina – šilumos kaina, sudaryta iš pastoviosios ir kintamosios dedamųjų, mokamų euro centais už kilovatvalandę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1259, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14860
 
 47. Tiekimo–vartojimo riba – šilumnešio vamzdynų vieta, iki kurios tiekėjas pristato šilumą vartotojui.
 
