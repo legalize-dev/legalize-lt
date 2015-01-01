@@ -4,7 +4,7 @@ identifier: "TAR.FC7AB69BE291"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-05-12"
-last_updated: "2014-11-19"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2014-11-19 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-03-01
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
 
@@ -521,7 +521,11 @@ Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
 
 15 straipsnis. Gamintojo įsipareigojimai
 
-1. Gamintojas, planuojantis plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus, elektros tinklų operatoriui pateikia savo prievolių įvykdymo užtikrinimą, garantuojantį elektros tinklų operatoriui gamintojo įsipareigojimus plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus. Gamintojo prievolių įvykdymo užtikrinimo dydis apskaičiuojamas dauginant numatomų įrengti elektrinės pajėgumų dydį (kW) iš 50 litų už 1 kW. Norint pratęsti leidimo plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus galiojimą, kaip tai nustatyta šio įstatymo 16 straipsnio 8 dalyje, gamintojo prievolių įvykdymo užtikrinimo dydis padidinamas dydžiu, kuris apskaičiuojamas dauginant numatomų įrengti elektrinės pajėgumų dydį (kW) iš 50 litų už 1 kW ir laikotarpio, kuriam norima pratęsti šio leidimo galiojimą, trukmės, išreikštos metais.
+1. Gamintojas, planuojantis plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus, elektros tinklų operatoriui pateikia savo prievolių įvykdymo užtikrinimą, garantuojantį elektros tinklų operatoriui gamintojo įsipareigojimus plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus. Gamintojo prievolių įvykdymo užtikrinimo dydis apskaičiuojamas dauginant numatomų įrengti elektrinės pajėgumų dydį (kW) iš 14,48 euro už 1 kW. Norint pratęsti leidimo plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus galiojimą, kaip tai nustatyta šio įstatymo 16 straipsnio 8 dalyje, gamintojo prievolių įvykdymo užtikrinimo dydis padidinamas dydžiu, kuris apskaičiuojamas dauginant numatomų įrengti elektrinės pajėgumų dydį (kW) iš 14,48 euro už 1 kW ir laikotarpio, kuriam norima pratęsti šio leidimo galiojimą, trukmės, išreikštos metais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1173, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13575
 
 2. Jeigu gamintojas nelaimi šio įstatymo 20 straipsnio 3 dalyje nurodyto aukciono arba elektrinė teisės aktų nustatyta tvarka pripažįstama tinkama naudoti, elektros tinklų operatorius atsisako savo teisių pagal gamintojo prievolių įvykdymo užtikrinimą ir grąžina jį gamintojui ar gamintojo prievolių įvykdymo užtikrinimą išdavusiam asmeniui arba raštu apie atsisakymą praneša gamintojo prievolių įvykdymo užtikrinimą išdavusiam asmeniui. Kai elektrinės statyba užbaigiama ir išduodamas leidimas elektros energijai gaminti, gamintojo prievolių įvykdymo užtikrinimas grąžinamas teisės aktų nustatyta tvarka.
 
@@ -1113,7 +1117,11 @@ TERITORIJŲ PLANAVIMAS IR STATYBA
 
 7. Ant pastatų statomos ar į pastatus integruojamos saulės šviesos energijos elektrinės, saulės šilumos energijos kolektoriai, iki 30 kW įrengtosios galios vėjo elektrinės, neviršijančios teisės aktuose nustatyto triukšmo lygio, ir šilumos siurbliai įrengiami be statybą leidžiančio dokumento.
 
-8. Vėjo elektrinių statybos vietos teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo klausimus, taikomi apribojimai, iš anksto, teritorijų planavimo metu, derinamos su Lietuvos kariuomene ir kitomis institucijomis įstatymų ir kitų teisės aktų nustatyta tvarka. Vėjo elektrinių statybos vietoms nepritariama, jeigu planuojamų statyti vėjo elektrinių keliamų trukdžių negalima išvengti panaudojant papildomas priemones. Jeigu nustatoma, kad planuojamų statyti vėjo elektrinių keliamų trukdžių galima išvengti panaudojant papildomas priemones, vėjo elektrinių statybos vietos derinamos su sąlyga, kad gamintojas ne vėliau kaip iki statybą leidžiančio dokumento išdavimo derinimo išvadoje nurodytai institucijai pateiks patvirtintą statybos projektą ir su šia institucija pasirašys sutartį dėl kompensacijos, skirtos daliai investicijų ir kitoms išlaidoms, kurios reikalingos nacionalinio saugumo funkcijų vykdymui užtikrinti, atlyginti, sumokėjimo, ir pateiks šios prievolės įvykdymo užtikrinimą. Kompensacijos dydis apskaičiuojamas dauginant leidime plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių numatomų įrengti elektrinės pajėgumų dydį (kW) iš 65 litų už 1 kW. Kompensacijų mokėjimo tvarką nustato Vyriausybė. Kompensacijos naudojamos teisės aktų nustatyta tvarka kaip kitos biudžetinių įstaigų lėšos, kurios nėra gautos kaip valstybės biudžeto asignavimai.
+8. Vėjo elektrinių statybos vietos teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo klausimus, taikomi apribojimai, iš anksto, teritorijų planavimo metu, derinamos su Lietuvos kariuomene ir kitomis institucijomis įstatymų ir kitų teisės aktų nustatyta tvarka. Vėjo elektrinių statybos vietoms nepritariama, jeigu planuojamų statyti vėjo elektrinių keliamų trukdžių negalima išvengti panaudojant papildomas priemones. Jeigu nustatoma, kad planuojamų statyti vėjo elektrinių keliamų trukdžių galima išvengti panaudojant papildomas priemones, vėjo elektrinių statybos vietos derinamos su sąlyga, kad gamintojas ne vėliau kaip iki statybą leidžiančio dokumento išdavimo derinimo išvadoje nurodytai institucijai pateiks patvirtintą statybos projektą ir su šia institucija pasirašys sutartį dėl kompensacijos, skirtos daliai investicijų ir kitoms išlaidoms, kurios reikalingos nacionalinio saugumo funkcijų vykdymui užtikrinti, atlyginti, sumokėjimo, ir pateiks šios prievolės įvykdymo užtikrinimą. Kompensacijos dydis apskaičiuojamas dauginant leidime plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių numatomų įrengti elektrinės pajėgumų dydį (kW) iš 18 eurų už 1 kW. Kompensacijų mokėjimo tvarką nustato Vyriausybė. Kompensacijos naudojamos teisės aktų nustatyta tvarka kaip kitos biudžetinių įstaigų lėšos, kurios nėra gautos kaip valstybės biudžeto asignavimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1173, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13575
 
 9. Statant 1 MW ir mažesnės įrengtosios galios biodujų gamybos įrenginius esamų kitos (fermų) paskirties pastatų žemės sklypuose, pagrindinė žemės naudojimo paskirtis nekeičiama ir šių atsinaujinančių išteklių energetikos objektų statyba nėra numatoma teritorijų planavimo dokumentuose.
 
