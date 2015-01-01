@@ -4,7 +4,7 @@ identifier: "TAR.2DD07D41B8F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-11-08"
-last_updated: "2014-12-16"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2DD07D41B8F1"
 department: "Lietuvos Respublikos Seimas"
@@ -51,249 +51,355 @@ taikymą.
 
 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Fiskalinė drausmė – visuma teisinių
+1. Fiskalinė
 
-priemonių, kuriomis siekiama užtikrinti, kad prognozuojama valdžios sektoriaus
+drausmė – visuma teisinių priemonių, kuriomis siekiama užtikrinti, kad
 
-skola, atsižvelgiant į numanomus valdžios sektoriaus įsipareigojimus, įskaitant
+prognozuojama valdžios sektoriaus skola, atsižvelgiant į numanomus valdžios
 
-ir įsipareigojimus, atsirandančius dėl Lietuvos gyventojų demografinių pokyčių,
+sektoriaus įsipareigojimus, įskaitant ir įsipareigojimus, atsirandančius dėl
 
-keliasdešimt metų atitiktų finansų tvarumo kriterijus, tai yra valdžios
+Lietuvos gyventojų demografinių pokyčių, keliasdešimt metų atitiktų finansų
 
-sektoriaus skola neviršytų 60 procentų bendrojo vidaus produkto to meto
+tvarumo kriterijus, tai yra valdžios sektoriaus skola neviršytų 60 procentų
 
-kainomis.
+bendrojo vidaus produkto (toliau – BVP) to meto kainomis.
 
-2. Metinis prieaugis kartais – kalendorinių
+2. Metinis
 
-metų arba dvejų kalendorinių metų keturių ketvirčių, einančių iš karto vienas
+prieaugis procentais – kalendorinių metų arba dvejų kalendorinių metų
 
-po kito, tam tikro rodiklio padidėjimas kartais, lyginant su prieš tai
+keturių ketvirčių, einančių iš karto vienas po kito, tam tikro rodiklio
 
-buvusiais keturiais ketvirčiais, einančiais iš karto vienas po kito. Metinio
+padidėjimas procentais, palyginti su prieš tai buvusiais keturiais ketvirčiais,
 
-prieaugio skaičius yra apvalinamas keturių skaičių po kablelio tikslumu.
+einančiais iš karto vienas po kito. Metinio prieaugio procentas yra apvalinamas
 
-3. Metinis prieaugis procentais – kalendorinių
+vieno skaitmens po kablelio tikslumu.
 
-metų arba dvejų kalendorinių metų keturių ketvirčių, einančių iš karto vienas
+3. Perteklinis
 
-po kito, tam tikro rodiklio padidėjimas procentais, lyginant su prieš tai
+valdžios sektorius – valdžios sektorius, kurio kalendorinių metų balanso
 
-buvusiais keturiais ketvirčiais, einančiais iš karto vienas po kito. Metinio
-
-prieaugio procentas yra apvalinamas vieno skaičiaus po kablelio tikslumu.
+rodiklis yra valdžios sektoriaus perteklius.
 
 4.
 
-Perteklinis valdžios sektorius – valdžios sektorius, kurio kalendorinių
+Produkcijos atotrūkis nuo potencialo – pagal Lietuvos Respublikos
 
-metų balanso rodiklis yra perteklius (grynasis skolinimas).
+Vyriausybės ar jos įgaliotos institucijos patvirtintą tvarką apskaičiuojamas
 
-5.
+tam tikrų metų faktinio arba numatomo BVP grandininės apimties lygio ir
 
-Subalansuotas valdžios sektorius – valdžios sektorius, kurio
+potencialaus BVP grandininės apimties lygio, apskaičiuoto pagal Lietuvos
 
-kalendorinių metų balanso rodiklis yra lygus 0,0
+Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintą tvarką,
 
-procento bendrojo vidaus produkto to meto kainomis.
+skirtumas, išreikštas procentais kaip potencialaus BVP grandininės apimties
 
-6.
+lygio dalis. Teigiamu produkcijos atotrūkiu nuo potencialo laikomas toks
 
-Valdžios sektoriaus balanso rodiklio pagerėjimas – kalendorinių metų
+atotrūkis, kai tam tikrų metų faktinis arba numatomas BVP grandininės apimties
 
-valdžios sektoriaus balanso rodiklio ir prieš tai buvusių kalendorinių metų
+lygis yra aukštesnis negu potencialus jos lygis. Neigiamu produkcijos atotrūkiu
 
-valdžios sektoriaus balanso rodiklio teigiamas skirtumas.
+nuo potencialo laikomas toks atotrūkis, kai tam tikrų metų faktinis arba
 
-7.
+numatomas BVP grandininės apimties lygis yra žemesnis negu potencialus jos
 
-Valdžios sektoriaus balanso rodiklis – valdžios
+lygis.
 
-sektoriaus deficitas (grynasis skolinimasis) arba perteklius (grynasis
+5. Valdžios
 
-skolinimas) pagal Europos sąskaitų sistemą ESS’2010. Šis rodiklis yra
+sektoriaus balanso rodiklio postūmis – kalendorinių metų valdžios
 
-skaičiuojamas kaip procentas nuo bendrojo vidaus produkto to meto kainomis ir
+sektoriaus balanso rodiklio ir prieš tai buvusių kalendorinių metų valdžios
 
-apvalinamas vieno skaičiaus po kablelio tikslumu. Statistinis valdžios
+sektoriaus balanso rodiklio skirtumas.
 
-sektoriaus balanso rodiklis yra Lietuvos statistikos departamento arba Europos
+6. Valdžios
 
-Sąjungos statistikos agentūros (Eurostato) skelbiamas valdžios sektoriaus
+sektoriaus balanso rodiklis – valdžios sektoriaus grynasis skolinimasis
 
-deficitas (grynasis skolinimasis) arba perteklius (grynasis skolinimas).
+arba grynasis skolinimas pagal 2010 metų Europos sąskaitų sistemą, nustatytą 2013
 
-8. Valdžios sektoriaus skola – suprantama kaip 1993 m. lapkričio 22
+m. gegužės 21 d. Europos Parlamento ir Tarybos reglamento
 
-d. Tarybos reglamento
+(ES) Nr. 549/2013 dėl Europos nacionalinių ir regioninių sąskaitų sistemos
 
-(EB) Nr. 3605/93 dėl Europos bendrijos steigimo sutarties priede pateikto
+Europos Sąjungoje (OL 2013 L 174, p. 1). Šis rodiklis yra skaičiuojamas kaip
 
-Protokolo dėl perviršinio deficito procedūros taikymo vartojama Vyriausybės
+procentas nuo BVP to meto kainomis ir apvalinamas vieno skaitmens po kablelio
 
-skolos sąvoka.
+tikslumu. Statistinis valdžios sektoriaus balanso rodiklis yra Lietuvos
 
-9.
+statistikos departamento arba Europos Sąjungos statistikos tarnybos (Eurostato)
 
-Vidutinis laikotarpis – penkerių kalendorinių metų laikotarpis,
+skelbiamas valdžios sektoriaus grynasis skolinimasis arba grynasis skolinimas.
 
-apimantis einamuosius, prieš tai buvusius kalendorinius metus ir trejus būsimus
+7. Valdžios
 
-kalendorinius metus, einančius iš karto vienas po kito.
+sektoriaus deficitas (toliau – deficitas) – valdžios sektoriaus grynojo
 
-10.
+skolinimosi absoliučioji vertė.
 
-Vidutinis metinis prieaugis kartais – kelių laikotarpių metinių
+8. Valdžios
 
-prieaugių kartais geometrinis vidurkis, viršijantis vienetą. Jeigu
+sektoriaus perteklius (toliau – perteklius) – valdžios sektoriaus grynasis
 
-apskaičiuotas vidutinis metinis prieaugis kartais yra lygus vienetui arba už jį
+skolinimas.
 
-mažesnis, tai taikant šį įstatymą jis laikomas lygus vienetui.
+9. Valdžios sektoriaus skola – suprantama
+
+taip, kaip apibrėžta 2009 m. gegužės 25 d. Tarybos reglamente (EB) Nr.
+
+479/2009 dėl Europos bendrijos steigimo sutarties priede pateikto Protokolo dėl
+
+perviršinio deficito procedūros taikymo (kodifikuota redakcija) (OL 2009 L 145,
+
+p. 1).
+
+10. Vidutinis
+
+laikotarpis – penkerių kalendorinių metų laikotarpis, apimantis
+
+einamuosius, prieš tai buvusius ir trejus būsimus kalendorinius metus,
+
+einančius iš karto vieni po kitų.
 
 11.
 
-Vidutinis metinis prieaugis procentais – vidutinis metinis prieaugis
+Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos
 
-kartais, išreikštas procentais ir suapvalintas vieno skaičiaus po kablelio
+apibrėžtos arba vartojamos Lietuvos Respublikos fiskalinės sutarties
 
-tikslumu.
+įgyvendinimo konstituciniame įstatyme, Lietuvos Respublikos biudžeto sandaros
 
-12.
+įstatyme, Lietuvos Respublikos valstybės skolos įstatyme ir 2009 m. gegužės 25
 
-Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos vartojamos
+d. Tarybos reglamente (EB) Nr. 479/2009 dėl Europos bendrijos steigimo
 
-Lietuvos Respublikos biudžeto sandaros įstatyme ir Lietuvos Respublikos
+sutarties priede pateikto Protokolo dėl perviršinio deficito procedūros taikymo
 
-valstybės skolos įstatyme.
+(kodifikuota redakcija) (OL 2009 L 145, p. 1).
 
 Straipsnio
 
 pakeitimai;
 
-Nr. XI-1115,
+Nr. XI-1115, 2010-11-12,
 
-2010-11-12, Žin., 2010, Nr. 139-7099 (2010-11-27)
+Žin., 2010, Nr. 139-7099 (2010-11-27)
 
 Nr. XII-1378,
 
 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19661
 
+Nr. XII-1290, 2014-11-06,
+
+paskelbta TAR 2014-11-18, i. k. 2014-17029
+
 3 straipsnis. Fiskalinės drausmės taisyklės
 
-1. Valdžios sektoriaus finansai tvarkomi siekiant, kad vidutiniu
+1. Valdžios
 
-laikotarpiu valdžios sektorius būtų perteklinis arba artimas subalansuotam.
+sektoriaus finansai tvarkomi siekiant, kad vidutiniu laikotarpiu valdžios
 
-2.
+sektorius būtų perteklinis, išskyrus metus, kuriais susidaro išskirtinės
 
-Jeigu paskutinių penkerių pasibaigusių kalendorinių metų statistinių valdžios
+aplinkybės arba kuriais produkcijos atotrūkio nuo potencialo rodiklis yra
 
-sektoriaus balanso rodiklių, žinomų valstybės biudžeto projekto rengimo arba
+neigiamas.
 
-valstybės biudžeto pakeitimo projekto rengimo metu, aritmetinis vidurkis yra
+2. Jeigu
 
-deficitas (grynasis skolinimasis), tai Lietuvos Respublikos atitinkamų metų
+paskutinių penkerių pasibaigusių kalendorinių metų statistinių valdžios
+
+sektoriaus balanso rodiklių, žinomų Lietuvos Respublikos atitinkamų metų
 
 valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
 
-įstatymu tvirtinamų arba keičiamų valstybės biudžeto asignavimų (be Europos
+įstatymo projekto rengimo arba jo pakeitimo projekto rengimo metu, aritmetinis
 
-Sąjungos finansinės paramos lėšų) metinis prieaugis procentais negali viršyti ½
+vidurkis yra neigiamas, tai Lietuvos Respublikos atitinkamų metų valstybės
 
-paskutinių penkerių pasibaigusių biudžetinių metų valstybės biudžeto pajamų (be
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu
 
-Europos Sąjungos finansinės paramos lėšų) vidutinio metinio prieaugio
+tvirtinamų arba keičiamų valstybės biudžeto asignavimų (be Europos Sąjungos
 
-procentais. Taikant šios dalies nuostatas, naudojami atitinkamų metų biudžeto
+finansinės paramos lėšų), Lietuvos Respublikos atitinkamų metų valstybinio
+
+socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu tvirtinamų
+
+arba keičiamų išlaidų ir Lietuvos Respublikos atitinkamų metų privalomojo
+
+sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu tvirtinamų
+
+arba keičiamų išlaidų visumos metinis prieaugis procentais negali viršyti 1/2
+
+potencialaus BVP to meto kainomis daugiamečio augimo vidurkio, apskaičiuoto
+
+pagal Lietuvos Respublikos Vyriausybės ar jos
+
+įgaliotos institucijos patvirtintą tvarką. Taikant šios dalies nuostatas, naudojami atitinkamų metų biudžeto
 
 vykdymo ataskaitų rinkinio duomenys apie valstybės biudžeto pajamas ir
 
-asignavimus.
+asignavimus, Lietuvos Respublikos valstybinio socialinio draudimo fondo
 
-3. Šio straipsnio 2 dalis netaikoma, jei yra bent
+biudžeto išlaidas ir Lietuvos Respublikos privalomojo sveikatos draudimo fondo
+
+biudžeto išlaidas.
+
+3. Šio straipsnio 2 dalis netaikoma, jeigu yra bent
 
 viena iš šių sąlygų:
 
-1) jeigu statistinis Lietuvos bendrojo vidaus produkto to
+1) statistinis BVP to meto kainomis metinis prieaugis procentais
 
-meto kainomis metinis prieaugis procentais vertinant šiame punkte toliau
+vertinant šiame punkte toliau nurodyta tvarka bent vieną kartą yra mažesnis už
 
-nurodyta tvarka bent vieną kartą yra mažesnis už vidutinį paskutinių penkerių
+vidutinį paskutinių penkerių pasibaigusių kalendorinių metų statistinio Europos
 
-pasibaigusių kalendorinių metų statistinio Europos Sąjungos bendrojo vidaus
+Sąjungos BVP to meto kainomis metinį prieaugį procentais, padidintą 2
 
-produkto to meto kainomis metinį prieaugį procentais, padidintą 2 procentiniais
+procentiniais punktais. Einamaisiais kalendoriniais metais nuo balandžio 1
 
-punktais.
+dienos iki balandžio 8 dienos ir nuo rugpjūčio 23 dienos iki rugpjūčio 30
 
-Einamaisiais kalendoriniais metais nuo balandžio 1 dienos iki balandžio
+dienos Lietuvos Respublikos finansų ministerija įvertina Lietuvos ūkio statistinį metinį prieaugį,
 
-8 dienos ir nuo rugpjūčio 23 dienos iki rugpjūčio 30 dienos Lietuvos Respublikos
+vadovaudamasi skaičiavimų metu žinomais Lietuvos statistikos departamento
 
-finansų
+duomenimis apie paskutinius keturis metų ketvirčius ir prieš juos buvusius
 
-ministerija įvertina Lietuvos ūkio
+keturis metų ketvirčius. Vertinimo rezultatai skelbiami Lietuvos Respublikos
 
-statistinį metinį prieaugį, vadovaudamasi skaičiavimų metu žinomais Lietuvos
+finansų ministerijos pranešime. Apskaičiuojant paskutinių penkerių kalendorinių
 
-statistikos departamento duomenimis apie paskutinius keturis metų ketvirčius ir
+metų statistinį Europos Sąjungos BVP vidutinį metinį prieaugį procentais,
 
-prieš juos buvusius keturis metų ketvirčius. Vertinimo rezultatai skelbiami
+vadovaujamasi skaičiavimų metu žinomais Europos Sąjungos statistikos tarnybos
 
-Lietuvos Respublikos finansų ministerijos pranešime. Apskaičiuojant paskutinių
+(Eurostato) duomenimis apie metinį BVP
 
-penkerių kalendorinių metų statistinio Europos Sąjungos bendrojo vidaus
+eurais to meto kainomis;
 
-produkto vidutinį metinį prieaugį procentais, vadovaujamasi skaičiavimų
+2) suplanuoti valstybės biudžeto asignavimai ir
 
-metu žinomais Europos Sąjungos statistikos agentūros (Eurostato) duomenimis
+pajamos užtikrins valdžios sektoriaus balanso rodiklio teigiamą postūmį,
 
-apie metinį bendrąjį vidaus produktą eurais to meto kainomis;
+sudarantį ne mažiau kaip 1,0 procentinio punkto BVP to meto kainomis, bet tik
 
-2) jeigu
+tuo atveju, kai numatomas einamųjų metų valdžios sektoriaus balanso rodiklio
 
-suplanuoti valstybės biudžeto asignavimai ir
+teigiamas postūmis nėra mažesnis už suplanuotą einamųjų kalendorinių metų
 
-pajamos užtikrins valdžios sektoriaus balanso rodiklio pagerėjimą, sudarantį ne
+valdžios sektoriaus balanso rodiklio teigiamą postūmį daugiau kaip 0,5
 
-mažiau kaip 1,0 procentinio punkto bendrojo vidaus produkto to meto kainomis;
+procentinio punkto BVP to meto kainomis;
 
-3) jeigu paskutinių ketverių pasibaigusių kalendorinių
+3) paskutinių ketverių pasibaigusių kalendorinių metų statistinių
 
-metų statistinių valdžios sektoriaus balanso rodiklių ir Lietuvos Respublikos
+valdžios sektoriaus balanso rodiklių ir Lietuvos Respublikos finansų
 
-finansų ministerijos prognozuojamo einamųjų kalendorinių metų valdžios
+ministerijos numatomo einamųjų kalendorinių metų valdžios sektoriaus balanso
 
-sektoriaus balanso rodiklio aritmetinis vidurkis yra perteklius (grynasis
+rodiklio aritmetinis vidurkis yra perteklius, sudarantis ne mažiau kaip 0,1
 
-skolinimas), sudarantis ne mažiau kaip 0,1 procento bendrojo vidaus produkto to
+procento BVP to meto kainomis;
 
-meto kainomis;
+4) einamųjų metų
 
-4)
+keičiami suplanuoti valstybės
+
+biudžeto, Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto
+
+ir Lietuvos Respublikos privalomojo sveikatos draudimo fondo biudžeto asignavimai ir pajamos užtikrins ne blogesnį šiame
+
+punkte nurodytų valdžios sektoriui priskiriamų biudžetų visumos balansų rodiklį negu tas, kuris buvo iki keitimo;
+
+5) Lietuvos
+
+Respublikos Vyriausybė arba jos įgaliota institucija viešai paskelbia
+
+ekonominės raidos scenarijų, pagal kurį planuojamais kalendoriniais metais
+
+numatomas produkcijos atotrūkio nuo potencialo rodiklis yra neigiamas, o
+
+prognozuojama vidutinė metinė infliacija, apskaičiuojama pagal suderintą
+
+vartotojų kainų indeksą, neviršija 3 procentų;
+
+6)
 
 jeigu suplanuoti valstybės biudžeto asignavimai ir pajamos užtikrins valdžios
 
-sektoriaus balanso rodiklio pagerėjimą, sudarantį ne mažiau kaip 1,0
+sektoriaus balanso rodiklio teigiamą postūmį, sudarantį ne mažiau kaip 1,0
 
-procentinio punkto bendrojo vidaus produkto to meto kainomis, į valdžios sektoriaus balanso rodiklį neįskaičiuojant
+procentinio punkto BVP to meto
 
-valstybės įmonės „Indėlių ir investicijų draudimas“ veiklos finansinių
+kainomis, į valdžios sektoriaus balanso rodiklį
 
-rezultatų. Šis punktas taikomas rengiant, tvirtinant, vykdant, vertinant
+neįskaičiuojant valstybės įmonės „Indėlių ir investicijų draudimas“ veiklos
 
-ir atsiskaitant už 2015 metų valstybės biudžetą ir savivaldybių biudžetus.
+finansinių rezultatų. Šis punktas taikomas rengiant, tvirtinant,
 
-4. Įgyvendinant šio straipsnio 1 ir 2 dalių nuostatas:
+vykdant, vertinant ir atsiskaitant už 2015 metų valstybės biudžetą ir
 
-1) einamųjų metų valstybės biudžeto viršplaninėmis
+savivaldybių biudžetus.
 
-pajamomis mažinamas patvirtinto valstybės biudžeto deficitas;
+4. Įgyvendinant
 
-2) neteko galios nuo 2013-07-01.
+šio straipsnio 1 ir 2 dalių nuostatas:
+
+1) einamųjų metų
+
+valstybės biudžeto viršplaninėmis pajamomis mažinamas patvirtinto valstybės
+
+biudžeto deficitas;
+
+2) jeigu
+
+paskutinių pasibaigusių kalendorinių metų statistinis valdžios sektoriaus
+
+balanso rodiklis yra neigiamas, užtikrinama, kad dėl nustatomo naujo mokesčio,
+
+naujo mokesčio tarifo, mokesčio lengvatos, sankcijų už mokesčių įstatymų
+
+pažeidimus arba iš esmės pakeistos apmokestinimo tam tikru mokesčiu tvarkos ar
+
+apmokestinimo teisinio reglamentavimo ir taikymo principų valdžios sektoriaus
+
+pajamos nesumažės, išskyrus atvejus, kai netenkamos pajamos kompensuojamos
+
+pagal Tarybos reglamente (EB) Nr. 1466/97 nustatytus dydžius mažinant valdžios
+
+sektoriaus išlaidų rodiklius, didinant kitų mokesčių tarifus arba plečiant
+
+apmokestinimo bazę, atsisakant mokesčių lengvatų;
+
+3) suma, kuria,
+
+palyginti su prieš tai buvusiais metais, padidėjo valstybės biudžeto speciali
+
+tikslinė dotacija savivaldybių biudžetams, taikant šio straipsnio 2 dalyje
+
+nustatytą planuojamų valstybės biudžeto išlaidų augimo apribojimo taisyklę,
+
+nėra įskaitoma to paties dydžio, kurį taikant, palyginti su prieš tai buvusiais
+
+metais, mažėja gyventojų pajamų mokesčio dalis, tenkanti savivaldybių
+
+biudžetams nuo pajamų, tenkančių valstybės
+
+biudžeto ir savivaldybių biudžetų visumai. Valstybės biudžeto specialios
+
+tikslinės dotacijos savivaldybių biudžetams mažinimo ir kitų valstybės biudžeto
+
+išlaidų perleidimo savivaldybėms, palyginti su prieš tai buvusiais metais,
+
+sumos nėra atimamos iš planuojamų valstybės biudžeto išlaidų.
 
 Straipsnio
 
@@ -310,6 +416,16 @@ Nr. XI-2276,
 Nr. XII-1378,
 
 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19661
+
+Nr. XII-1290, 2014-11-06,
+
+paskelbta TAR 2014-11-18, i. k. 2014-17029
+
+Nr.
+
+XII-1377,
+
+2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19660
 
 4
 
@@ -327,9 +443,9 @@ Straipsnio
 
 pakeitimai:
 
-Nr. XI-2276,
+Nr. XI-2276, 2012-10-16,
 
-2012-10-16, Žin., 2012, Nr. 126-6324 (2012-10-31)
+Žin., 2012, Nr. 126-6324 (2012-10-31)
 
 Skelbiu
 
@@ -339,13 +455,9 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 ADAMKUS
 
-Lietuvos
+Lietuvos Respublikos
 
-Respublikos
-
-fiskalinės
-
-drausmės
+fiskalinės drausmės
 
 įstatymo
 
@@ -355,15 +467,17 @@ priedas
 
 EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1997 m. liepos 7 d. Tarybos reglamentas (EB) Nr. 1466/97 dėl
+1. 1997 m.
 
-biudžeto būklės priežiūros stiprinimo ir ekonominės politikos priežiūros bei
+liepos 7 d. Tarybos reglamentas (EB) Nr. 1466/97 dėl biudžeto būklės priežiūros
 
-koordinavimo (OL 2004 m. specialusis leidimas, 10 skyrius, 1 tomas, p. 84) su
+stiprinimo ir ekonominės politikos priežiūros bei koordinavimo (OL 2004 m.
 
-paskutiniais pakeitimais, padarytais 2005 m. birželio 27 d. Tarybos reglamentu
+specialusis leidimas, 10 skyrius, 1 tomas, p. 84) su paskutiniais
 
-(EB) Nr. 1055/2005 (OL 2005 L 174, p. 1).
+pakeitimais, padarytais 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos
+
+reglamentu (ES) Nr. 1175/2011 (OL 2011 L 306, p. 12).
 
 2.
 
@@ -371,11 +485,19 @@ paskutiniais pakeitimais, padarytais 2005 m. birželio 27 d. Tarybos reglamentu
 
 deficito procedūros įgyvendinimo paspartinimo ir paaiškinimo (OL 2004 m.
 
-specialusis leidimas, 10 skyrius, 1 tomas, p. 89) su paskutiniais pakeitimais,
+specialusis leidimas, 10 skyrius, 1 tomas, p. 89) su paskutiniais
 
-padarytais 2005 m. birželio 27 d. Tarybos reglamentu (EB) Nr. 1056/2005 (OL
+pakeitimais, padarytais 2011 m. lapkričio 8 d. Tarybos reglamentu (ES) Nr.
 
-2005 L 174, p. 5).
+1177/2011 (OL 2011 L 306, p. 33).
+
+Priedo
+
+pakeitimai:
+
+Nr. XII-1290, 2014-11-06,
+
+paskelbta TAR 2014-11-18, i. k. 2014-17029
 
 Pakeitimai:
 
@@ -424,6 +546,46 @@ LIETUVOS
 RESPUBLIKOS FISKALINĖS DRAUSMĖS ĮSTATYMO NR. X-1316 2 IR 3 STRAIPSNIŲ PAKEITIMO
 
 ĮSTATYMAS
+
+4.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-1290, 2014-11-06,
+
+paskelbta TAR 2014-11-18, i. k. 2014-17029
+
+LIETUVOS
+
+RESPUBLIKOS FISKALINĖS DRAUSMĖS ĮSTATYMO NR. X-1316 2, 3 STRAIPSNIŲ IR PRIEDO
+
+PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas,
+
+išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. sausio 1 d.
+
+Įstatymo
+
+pakeitimas:
+
+4.1.
+
+Lietuvos
+
+Respublikos Seimas, Įstatymas
+
+Nr. XII-1377,
+
+2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19660
+
+LIETUVOS
+
+RESPUBLIKOS FISKALINĖS DRAUSMĖS ĮSTATYMO NR. X-1316 2, 3 STRAIPSNIŲ IR PRIEDO
+
+PAKEITIMO ĮSTATYMO NR. XII-1290 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 *** Pabaiga ***
 
