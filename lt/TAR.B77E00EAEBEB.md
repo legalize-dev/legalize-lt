@@ -4,7 +4,7 @@ identifier: "TAR.B77E00EAEBEB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-07"
-last_updated: "2013-06-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B77E00EAEBEB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos klimato kaitos valdymo įstatymas
 
-Suvestinė redakcija nuo 2013-06-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 87-3662, i. k. 1091010ISTA00XI-329
 
@@ -61,7 +61,17 @@ Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010IST
 
 6. Leidimas išmesti šiltnamio efektą sukeliančias dujas – dokumentas, kuriuo suteikiama teisė išmesti į atmosferą šiltnamio efektą sukeliančias dujas.
 
-7. Naujas šiltnamio efektą sukeliančias dujas išmetantis įrenginys (toliau – naujas įrenginys) – įrenginys, kuriam eksploatuoti veiklos vykdytojas privalo gauti leidimą išmesti šiltnamio efektą sukeliančias dujas ir kuris pradedamas eksploatuoti po to, kai patvirtinamas Nacionalinis šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų paskirstymo planas arba Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašas.
+7. Naujas šiltnamio efektą sukeliančias dujas išmetantis įrenginys (toliau – naujas įrenginys) – įrenginys, kurį eksploatuojantis veiklos vykdytojas:
+
+1) vykdo vieną arba daugiau veiklų pagal šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą ir turi jam po 2011 m. birželio 30 d. pirmą kartą išduotą leidimą išmesti šiltnamio efektą sukeliančias dujas;
+
+2) vykdo veiklą, kuri nepatenka į šio įstatymo 1 priede nurodytų veiklos rūšių sąrašą arba neapima šio įstatymo 1 priede nurodytų veiklos rūšių ir išmetamų šiltnamio efektą sukeliančių dujų, tačiau ši veikla ir (arba) šiltnamio efektą sukeliančios dujos, gavus Europos Komisijos patvirtinimą, Lietuvos Respublikos vienašališkai yra įtrauktos į Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemą;
+
+3) vykdo vieną arba daugiau veiklų pagal šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą arba veiklą, kuri nepatenka į šio įstatymo 1 priede nurodytų veiklos rūšių sąrašą arba neapima šio įstatymo 1 priede nurodytų veiklos rūšių ir išmetamų šiltnamio efektą sukeliančių dujų, tačiau ši veikla (veiklos) ir (arba) šiltnamio efektą sukeliančios dujos, gavus Europos Komisijos patvirtinimą, Lietuvos Respublikos vienašališkai yra įtrauktos į Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemą, ir įrenginio pajėgumai buvo labai išplėsti po 2011 m. birželio 30 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 8. Nustatytoji šiltnamio efektą sukeliančių dujų norma – Klimato kaitos konvencijos I priede nurodytai valstybei pagal Kioto protokolą apskaičiuotas ir Sąjungos šiltnamio efektą sukeliančių dujų registre Lietuvos Respublikos jurisdikcijai priklausančioje sąskaitoje užregistruotas tonomis išreikštas šiltnamio efektą sukeliančių dujų kiekis, kuris valstybės teritorijoje gali būti išmestas į atmosferą per laikotarpį, apibrėžtą pagal tarptautinius įsipareigojimus.
 
@@ -141,13 +151,19 @@ Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010IS
 
 Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
 
-2. Veiklos vykdytojai aplinkos ministro kartu su kita (kitomis) Vyriausybės įgaliota (įgaliotomis) institucija (institucijomis) nustatyta tvarka privalo vykdyti šiltnamio efektą sukeliančių dujų išmetimo stebėseną, apskaitą ir teikti ataskaitas.
+2. Veiklos vykdytojai, vadovaudamiesi Europos Sąjungos teisės aktais ir aplinkos ministro nustatyta tvarka, privalo vykdyti šiltnamio efektą sukeliančių dujų išmetimo stebėseną, apskaitą ir teikti ataskaitas.
 
-3. Kiekvienais kalendoriniais metais veiklos vykdytojai iki aplinkos ministro nustatyto termino privalo atsisakyti tokio apyvartinių taršos leidimų kiekio, kuris yra lygiavertis per praėjusius kalendorinius metus jų išmestam į atmosferą anglies dioksido kiekiui, išreikštam tonomis, ir (ar) anglies dioksido ekvivalento kiekiui, išreikštam tonomis, ir tai deklaruoti Sąjungos šiltnamio efektą sukeliančių dujų registre. Veiklos vykdytojai vietoj apyvartinių taršos leidimų gali atsisakyti aplinkos ministro nustatyto kiekio Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje pripažįstamų bendrai įgyvendinamų ir švarios plėtros projektų veiklos išmetamųjų teršalų mažinimo vienetų ir (ar) patvirtintų išmetamųjų teršalų mažinimo vienetų.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
+
+3. Kiekvienais kalendoriniais metais veiklos vykdytojai iki aplinkos ministro nustatyto termino privalo atsisakyti tokio apyvartinių taršos leidimų kiekio, kuris yra lygiavertis per praėjusius kalendorinius metus jų išmestam į atmosferą anglies dioksido kiekiui, išreikštam tonomis, ir (ar) anglies dioksido ekvivalento kiekiui, išreikštam tonomis, ir tai deklaruoti Sąjungos šiltnamio efektą sukeliančių dujų registre. Veiklos vykdytojai vietoj apyvartinių taršos leidimų gali atsisakyti Europos Komisijos nustatyto kiekio Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje pripažįstamų bendrai įgyvendinamų ir švarios plėtros projektų veiklos išmetamųjų teršalų mažinimo vienetų ir (ar) patvirtintų išmetamųjų teršalų mažinimo vienetų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 4. Veiklos vykdytojai ir (ar) kiti asmenys apyvartinius taršos leidimus gali mainyti į Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje pripažįstamų bendrai įgyvendinamų ir švarios plėtros projektų veiklos išmetamųjų teršalų mažinimo vienetus ir (ar) patvirtintus išmetamųjų teršalų mažinimo vienetus.
 
@@ -157,15 +173,23 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
 
-6. Lėšas, gautas už perleistus apyvartinius taršos leidimus ir Kioto vienetus, veiklos vykdytojai privalo naudoti išmetamų šiltnamio efektą sukeliančių dujų mažinimo ir kitoms aplinkos taršą mažinančioms priemonėms įgyvendinti (aplinkai palankioms technologijoms diegti, energijos efektyvumui didinti, atsinaujinantiems energijos šaltiniams panaudoti, miškams atkurti ir (ar) įveisti, mokslo tiriamiesiems darbams ir jų sklaidai, ūkio subjektams konsultuoti ir mokyti, visuomenei informuoti ir šviesti klimato kaitos politikos valdymo ir įgyvendinimo klausimais ir kitoms priemonėms).
+6. Neteko galios nuo 2015-01-01
 
-7. Šio straipsnio 6 dalyje nustatyti reikalavimai netaikomi veiklos vykdytojams:
+Straipsnio dalies naikinimas:
 
-1) įgyvendinusiems (įdiegusiems) geriausių prieinamų gamybos būdų technologijas, energijos vartojimo efektyvumo didinimo ir atsinaujinančių energijos išteklių panaudojimo priemones, kurios sumažino išmetamų šiltnamio efektą sukeliančių dujų kiekį į aplinką, – per prekybos laikotarpį, kuris nustatomas pagal Nacionalinio šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų paskirstymo plano ir (ar) Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašo galiojimo laikotarpį;
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
-2) panaudojusiems gautas lėšas reikiamam apyvartinių taršos leidimų, išmetamųjų teršalų mažinimo vienetų ir (ar) patvirtintų išmetamųjų teršalų mažinimo vienetų kiekiui įsigyti.
+7. Neteko galios nuo 2015-01-01
 
-8. Kiekvienais kalendoriniais metais veiklos vykdytojai aplinkos ministro nustatyta tvarka privalo aplinkos ministro įgaliotoms institucijoms pateikti lėšų, gautų už perleistus apyvartinius taršos leidimus ir Kioto vienetus, paskirstymo ir panaudojimo ataskaitas. Ataskaitos skelbiamos Aplinkos ministerijos tinklalapyje.
+Straipsnio dalies naikinimas:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
+
+8. Neteko galios nuo 2015-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 9. Kiti asmenys, norintys įsigyti apyvartinių taršos leidimų ir (ar) Kioto vienetų ir jais naudotis ar disponuoti, privalo vadovaudamiesi Sąjungos šiltnamio efektą sukeliančių dujų registro naudojimo taisyklėmis atsidaryti sąskaitą Sąjungos šiltnamio efektą sukeliančių dujų registre.
 
@@ -175,13 +199,15 @@ Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010IS
 
 Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
 
-6 straipsnis. Nacionalinio šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų paskirstymo plano ir (ar) Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašo rengimas ir tvirtinimas
+6 straipsnis. Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašo rengimas ir tvirtinimas
 
-1. Nacionalinį šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų paskirstymo planą ir (ar) Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašą, vadovaudamiesi Europos Sąjungos teisės aktais ir atsižvelgdami į Europos Komisijos nustatytus reikalavimus ir rekomendacijas, rengia ir tvirtina aplinkos ministras kartu su kitomis Vyriausybės įgaliotomis institucijomis.
+1. Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašo projektas aplinkos ministro nustatyta tvarka skelbiamas Aplinkos ministerijos interneto svetainėje visuomenei susipažinti.
 
-2. Nacionalinis šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų paskirstymo planas galioja iki 2012 m. gruodžio 31 d. Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašas įsigalioja 2013 m. sausio 1 d.
+2. Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašą, vadovaudamasis Europos Sąjungos teisės aktais ir atsižvelgdamas į Europos Komisijos nustatytus reikalavimus, sprendimus ir rekomendacijas, rengia ir, suderinęs su kitomis Vyriausybės įgaliotomis institucijomis, tvirtina aplinkos ministras.
 
-3. Vyriausybės įgaliotos institucijos, rengdamos Nacionalinį šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų paskirstymo planą ir (ar) Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašą, aplinkos ministro nustatyta tvarka teikia informaciją visuomenei ir sudaro sąlygas jai dalyvauti.
+Straipsnio pakeitimai:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 7 straipsnis. Leidimas išmesti šiltnamio efektą sukeliančias dujas
 
@@ -197,7 +223,11 @@ Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010IST
 
 8 straipsnis. Apyvartinių taršos leidimų skyrimas, galiojimas ir panaikinimas
 
-1. Apyvartinių taršos leidimų skyrimo veikiantiems veiklos vykdytojams ir veiklos vykdytojams, planuojantiems eksploatuoti naujus įrenginius ar naujus orlaivius, ir kitiems asmenims, norintiems įsigyti apyvartinių taršos leidimų ir jais naudotis ar disponuoti, tvarką nustato aplinkos ministras kartu su kitomis Vyriausybės įgaliotomis institucijomis.
+1. Apyvartinių taršos leidimų skyrimo veikiantiems veiklos vykdytojams ir veiklos vykdytojams, planuojantiems eksploatuoti naujus įrenginius ar naujus orlaivius, ir kitiems asmenims, norintiems įsigyti apyvartinių taršos leidimų ir jais naudotis ar disponuoti, tvarką, atsižvelgdamas į Europos Komisijos nustatytus reikalavimus, sprendimus ir rekomendacijas, nustato aplinkos ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 2. Apyvartinių taršos leidimų skyrimas veiklos vykdytojui ir (ar) kitam asmeniui, turinčiam teisę įsigyti apyvartinių taršos leidimų ir jais naudotis ar disponuoti, apyvartinių taršos leidimų panaikinimas ir šių leidimų atsisakymas registruojami Sąjungos šiltnamio efektą sukeliančių dujų registre. Veiklos vykdytojui suteiktas apyvartinių taršos leidimų kiekis nurodomas Sąjungos šiltnamio efektą sukeliančių dujų registre.
 
@@ -205,7 +235,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
 
-3. Apyvartiniai taršos leidimai galioja Nacionalinio šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų paskirstymo plano ir (ar) Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašo galiojimo laikotarpiu.
+3. Apyvartiniai taršos leidimai galioja Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašo galiojimo laikotarpiu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 4. Apyvartiniai taršos leidimai panaikinami veiklos vykdytojo arba asmens, turinčio teisę disponuoti apyvartiniais taršos leidimais, prašymu aplinkos ministro nustatyta tvarka arba pasibaigus įmonei.
 
@@ -351,17 +385,19 @@ FLUORINTŲ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ DUJŲ TVARKYMO ATESTATŲ IŠDAVIMAS,
 
 13 straipsnis. Veikos, už kurias skiriamos ekonominės baudos
 
-1. Skiriama vieno šimto eurų ekvivalento litais arba atitinkamai pagal Europos vartotojų kainų indeksą patikslinta ekonominė bauda:
+Skiriama vieno šimto eurų atitinkamai pagal Europos vartotojų kainų indeksą indeksuojama ekonominė bauda:
 
 1) veiklos vykdytojams, kurie pagal šio įstatymo 5 straipsnio 1 dalyje nurodytus kriterijus eksploatuoja savo valdomus įrenginius ar orlaivius ir privalo registruotis, – už kiekvieną į atmosferą išmestą anglies dioksido toną ar anglies dioksido ekvivalentą neužsiregistravus arba
 
-2) veiklos vykdytojams, kurie iš įrenginių ar orlaivių išmeta į atmosferą šiltnamio efektą sukeliančias dujas neturėdami galiojančio Aplinkos ministerijos įgaliotos institucijos išduoto leidimo, kuriuo suteikiama teisė išmesti šiltnamio efektą sukeliančias dujas, – už kiekvieną į atmosferą išmestą anglies dioksido toną ar anglies dioksido ekvivalentą, arba
+2) veiklos vykdytojams, kurie iš įrenginių ar orlaivių išmeta į atmosferą šiltnamio efektą sukeliančias dujas neturėdami galiojančio Aplinkos ministerijos įgaliotos institucijos išduoto leidimo išmesti šiltnamio efektą sukeliančias dujas, – už kiekvieną į atmosferą išmestą anglies dioksido toną ar anglies dioksido ekvivalentą, arba
 
-3) veiklos vykdytojams už kiekvieną išmestą į atmosferą anglies dioksido ekvivalentą ar anglies dioksido toną, dėl kurios šio įstatymo 5 straipsnio 3 dalyje nustatytu terminu jie neatsisako apyvartinių taršos leidimų ir (ar) išmetamųjų teršalų mažinimo vienetų, ir (ar) patvirtintų išmetamųjų teršalų sumažinimo vienetų, arba
+3) veiklos vykdytojams už kiekvieną išmestą į atmosferą anglies dioksido toną ar anglies dioksido ekvivalentą, dėl kurio šio įstatymo 5 straipsnio 3 dalyje nustatytu terminu jie neatsisako apyvartinių taršos leidimų ir (ar) išmetamųjų teršalų mažinimo vienetų, ir (ar) patvirtintų išmetamųjų teršalų sumažinimo vienetų, arba
 
 4) veiklos vykdytojams, kurie per kalendorinius metus išmeta į atmosferą didesnį šiltnamio efektą sukeliančių dujų kiekį, negu išmesti leidžia praėjusiais kalendoriniais metais turėti ir (ar) šio įstatymo 5 straipsnio 4 dalyje nustatytais pagrindais įsigyti apyvartiniai taršos leidimai ir (ar) vykdant bendrai įgyvendinamus ir (ar) švarios plėtros projektus įsigyti išmetamųjų teršalų mažinimo vienetai, ir (ar) patvirtinti išmetamųjų teršalų sumažinimo vienetai, – už kiekvieną anglies dioksido toną ar anglies dioksido ekvivalentą.
 
-2. Už lėšų, gautų už perleistus apyvartinius taršos leidimus ir Kioto vienetus, paskirstymą ir panaudojimą ne pagal šio įstatymo 5 straipsnio 6 dalyje nustatytus reikalavimus veiklos vykdytojams skiriama nuo penkių šimtų litų iki trijų tūkstančių litų ekonominė bauda. Baudos dydis nustatomas taikant proporcingumo principą, atsižvelgiant į ataskaitos, pateiktos pagal šio įstatymo 5 straipsnio 8 dalies reikalavimus, duomenis ir įvertinus gautų ir nepanaudotų lėšų dydį per ataskaitinius kalendorinius metus.
+Straipsnio pakeitimai:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 14 straipsnis. Ekonomines baudas skiriantys pareigūnai
 
@@ -369,17 +405,21 @@ Ekonomines baudas už šio įstatymo 13 straipsnyje numatytas veikas skiria regi
 
 15 straipsnis. Ekonominių baudų skyrimo bylų iškėlimas, ekonominių baudų skyrimas ir jų skyrimo terminai
 
-1. Aplinkos apsaugos valstybinės kontrolės pareigūnas, nustatęs šio įstatymo 13 straipsnyje nurodytą (nurodytus) pažeidimą (pažeidimus), ne vėliau kaip per penkias darbo dienas iškelia ekonominės baudos skyrimo bylą ir surašo aplinkos ministro patvirtintos formos neteisėto šiltnamio efektą sukeliančių dujų išmetimo į atmosferą ar lėšų, gautų už perleistus apyvartinius taršos leidimus ir Kioto vienetus, paskirstymo ir panaudojimo ne pagal paskirtį aktą (toliau – Aktas). Akte nurodoma:
+1. Aplinkos apsaugos valstybinės kontrolės pareigūnas, nustatęs šio įstatymo 13 straipsnyje nurodytą (nurodytus) pažeidimą (pažeidimus), ne vėliau kaip per penkias darbo dienas iškelia ekonominės baudos skyrimo bylą ir surašo aplinkos ministro patvirtintos formos neteisėto šiltnamio efektą sukeliančių dujų išmetimo į atmosferą aktą (toliau – Aktas). Akte nurodoma:
 
-1) įtariamas pažeidimu asmuo (juridinio asmens pavadinimas, teisinė forma, buveinė, kodas arba fizinio asmens (jei pažeidėjas fizinis asmuo) vardas, pavardė, kodas, nuolatinė gyvenamoji vieta);
+1) įtariamas pažeidimu asmuo (juridinio asmens pavadinimas, teisinė forma, buveinė, kodas arba fizinio asmens (jei pažeidėjas fizinis asmuo) vardas, pavardė, asmens kodas, nuolatinė gyvenamoji vieta);
 
-2) pažeidimo esmė ir pažeidimą nustatantys šio įstatymo 13 straipsnio dalis arba punktas;
+2) pažeidimo esmė ir pažeidimą nustatantis šio įstatymo 13 straipsnio punktas;
 
 3) skirtinos įtariamam pažeidimu asmeniui ekonominės baudos dydis ir jį pagrindžiantys skaičiavimai ir (ar) motyvai;
 
 4) ekonominės baudos skyrimo bylos nagrinėjimo vieta, data ir laikas;
 
 5) Aktą surašęs aplinkos apsaugos valstybinės kontrolės pareigūnas (vardas, pavardė, tarnybos vieta, pareigos, parašas).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 2. Ne vėliau kaip per tris darbo dienas nuo Akto surašymo dienos Aktą surašęs aplinkos apsaugos valstybinės kontrolės pareigūnas jo kopiją įteikia arba registruotu laišku išsiunčia pažeidimu įtariamam asmeniui. Kartu su Aktu įtariamam pažeidimu asmeniui įteikiamas (išsiunčiamas) pasiūlymas pateikti paaiškinimą raštu dėl įtariamo pažeidimo, pateikti įrodymus ir prašymus, taip pat nurodomas jų pateikimo terminas.
 
@@ -423,6 +463,20 @@ Ekonomines baudas už šio įstatymo 13 straipsnyje numatytas veikas skiria regi
 
 4) ekonominės baudos skyrimo byloje atlikti papildomą tyrimą.
 
+2. Šio straipsnio 1 dalyje nurodytame nutarime nurodoma: nutarimą priėmęs aplinkos apsaugos valstybinės kontrolės pareigūnas (vardas, pavardė, tarnybos vieta); ekonominės baudos skyrimo bylos nagrinėjimo vieta, data, laikas; šio įstatymo 15 straipsnio 1 dalies 1 punkte nurodyti pažeidėjo (arba asmens, kuriam buvo iškelta ekonominės baudos skyrimo byla) duomenys; pažeidimo esmė, pažeidimo padarymo aplinkybės ir motyvuotas jų įvertinimas; pažeidėjo kaltę pagrindžiantys įrodymai; pažeidėjo paaiškinimai dėl padaryto pažeidimo; šio įstatymo 13 straipsnio punktas, numatantis atsakomybę už pažeidėjo padarytą veiką; aplinkos apsaugos valstybinės kontrolės pareigūno priimtas nutarimas (skiriamos ekonominės baudos dydis, jei ji skiriama), nutarimo apskundimo terminai ir tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
+
+3. Šio straipsnio 1 dalyje nurodyto nutarimo formą tvirtina aplinkos ministras.
+
+4. Nutarimas ne vėliau kaip per penkias darbo dienas nuo jo priėmimo dienos įteikiamas arba registruotu laišku išsiunčiamas asmeniui, dėl kurio jis priimtas.
+
+5. Šio straipsnio 1 dalies 1–3 punktuose nurodyti nutarimai įsigalioja per trisdešimt dienų nuo nutarimo įteikimo asmeniui, dėl kurio jis priimtas, dienos ir skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka apygardos administraciniam teismui.
+
+6. Šio straipsnio 1 dalies 4 punkte nurodytas nutarimas įsigalioja nuo jo priėmimo dienos.
+
 19 straipsnis. Papildomo tyrimo atlikimas ekonominės baudos skyrimo byloje
 
 1. Jeigu aplinkos apsaugos valstybinės kontrolės pareigūnas priima 18 straipsnio 1 dalies 4 punkte nurodytą nutarimą, papildomas tyrimas turi būti atliktas ne vėliau kaip per du mėnesius.
@@ -435,7 +489,11 @@ Ekonomines baudas už šio įstatymo 13 straipsnyje numatytas veikas skiria regi
 
 2. Jeigu asmenys, kuriems paskirtos ekonominės baudos, geranoriškai jų nemoka, nutarimas skirti ekonominę baudą perduodamas antstoliams ir vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Nutarimas skirti ekonominę baudą vykdyti turi būti perduotas ne vėliau kaip per trejus metus nuo jo įsigaliojimo dienos.
 
-3. Asmenys, kuriems paskirta ekonominė bauda už šio įstatymo 13 straipsnio 1 dalies 3 ir 4 punktuose nurodytas veikas, neatleidžiami nuo įsipareigojimo atsisakyti apyvartinių taršos leidimų ir (ar) Kioto vienetų, atitinkančių tą perteklinį išmetamų šiltnamio efektą sukeliančių dujų kiekį, kuris susidarytų, jeigu būtų atsisakoma kitų kalendorinių metų leidimų ir (ar) Kioto vienetų.
+3. Asmenys, kuriems paskirta ekonominė bauda už šio įstatymo 13 straipsnio 3 ir 4 punktuose nurodytas veikas, neatleidžiami nuo įsipareigojimo atsisakyti apyvartinių taršos leidimų ir (ar) Kioto vienetų, atitinkančių tą perteklinį išmetamų šiltnamio efektą sukeliančių dujų kiekį, kuris susidarytų, jeigu būtų atsisakoma kitų kalendorinių metų leidimų ir (ar) Kioto vienetų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 21 straipsnis. Atsakomybė už kitus šiame skirsnyje nenumatytus šio įstatymo pažeidimus
 
@@ -483,7 +541,7 @@ VEIKLOS RŪŠIŲ SĄRAŠAS
 
 5. Jei įrenginio pajėgumų ribinė bet kokios veiklos vertė šiame priede viršijama, visi mazgai, kuriuose deginamas kuras, išskyrus mazgus, skirtus pavojingoms arba buitinėms atliekoms deginti, įtraukiami į leidimą išmesti šiltnamio efektą sukeliančias dujas.
 
-6. Nuo 2012 m. sausio 1 d. šiai veiklai priskiriami visi skrydžiai į valstybės narės, kuriai taikoma Europos bendrijos steigimo sutartis, aerodromą ir iš jo.
+6. Nuo 2012 m. sausio 1 d. šiai veiklai priskiriami visi skrydžiai į valstybės narės, kuriai taikoma Sutartis dėl Europos Sąjungos veikimo, teritorijoje esantį aerodromą ir iš jo, išskyrus nukrypti leidžiančias Reglamente (ES) Nr. 421/2014 nurodytas nuostatas.
 
 Eil. Nr.
 
@@ -719,11 +777,15 @@ Savanoriškai taikoma iki 2020 m.
 
 29.
 
-Aviacija Orlaivių skrydžiai į valstybės narės, kuriai taikoma Europos bendrijos steigimo sutartis, teritorijoje esantį aerodromą arba iš jo. Šiai veiklai nepriskiriami: a) skrydžiai, išskirtinai skirti skraidinti šalies, kuri nėra valstybė narė, oficialią misiją atliekantį valdantį monarchą ir jo artimuosius giminaičius, valstybės vadovus, vyriausybės vadovus ir vyriausybės ministrus, jei tai įrodo atitinkamas statuso žymuo skrydžio plane; b) kariniais orlaiviais atliekami kariniai skrydžiai ir muitinės bei policijos tarnybų skrydžiai; c) skrydžiai, susiję su paieška ir gelbėjimu, gaisrų gesinimo skrydžiai, humanitariniai skrydžiai ir greitosios medicinos pagalbos skrydžiai, kuriuos leido atitinkama kompetentinga institucija; d) visi skrydžiai, atliekami išskirtinai pagal vizualiųjų skrydžių taisykles, kaip apibrėžta Tarptautinės civilinės aviacijos konvencijos (Čikagos konvencijos) 2 priede; e) skrydžiai be tarpinių nutūpimų, užbaigiami orlaivio pakilimo aerodrome; f) mokomieji skrydžiai, skirti išskirtinai gauti licenciją arba skrydžio įgulai – įgyti kvalifikaciją, jei tai įrodo atitinkamas žymuo skrydžio plane tuo atveju, jei skrydis nėra skirtas keleiviams ir (arba) kroviniams skraidinti arba orlaivio padėčiai nustatyti ar orlaiviui perkelti; g) skrydžiai, skirti išskirtinai moksliniams tyrimams atlikti arba orlaiviams ar įrangai (naudojamai ore arba antžeminei) tikrinti, bandyti ar patvirtinti; h) orlaivio, kurio patvirtinta didžiausioji kilimo masė yra ne didesnė kaip 5 700 kg, skrydžiai; i) skrydžiai, atliekami vykdant su viešosiomis paslaugomis susijusius įsipareigojimus, kurie nustatyti pagal Reglamentą (EEB) Nr. 2408/92 maršrutams atokiausiuose regionuose, kaip nurodyta Sutarties 299 straipsnio 2 dalyje, arba maršrutams, kuriais per metus siūloma pervežti ne daugiau kaip    30 000 keleivių; ir j) skrydžiai, kurie, jei nebūtų taikomas šis punktas, būtų priskiriami šiai veiklos rūšiai ir kuriuos atlieka komercinės oro transporto priemonės naudotojas, vykdantis: – mažiau negu 243 skrydžius per tris iš eilės keturių mėnesių laikotarpius; arba – skrydžius, kurių bendras metinis išmetamųjų teršalų kiekis yra mažesnis negu 10 000 tonų. Skrydžiai, kurių vienintelis tikslas – skraidinti valstybės narės oficialią misiją atliekantį valdantį monarchą ir jo artimuosius giminaičius, valstybės vadovus, vyriausybės vadovus ir vyriausybės ministrus, pagal šį punktą šiai veiklai negali būti nepriskiriami.
+Aviacija Orlaivių skrydžiai į valstybės narės, kuriai taikoma Sutartis dėl Europos Sąjungos veikimo, teritorijoje esantį aerodromą arba iš jo. Šiai veiklai nepriskiriami: a) skrydžiai, išskirtinai skirti skraidinti šalies, kuri nėra valstybė narė, oficialią misiją atliekantį valdantį monarchą ir jo artimuosius giminaičius, valstybės vadovus, vyriausybės vadovus ir vyriausybės ministrus, jei tai įrodo atitinkamas statuso žymuo skrydžio plane; b) kariniais orlaiviais atliekami kariniai skrydžiai ir muitinės bei policijos tarnybų skrydžiai; c) skrydžiai, susiję su paieška ir gelbėjimu, gaisrų gesinimo skrydžiai, humanitariniai skrydžiai ir greitosios medicinos pagalbos skrydžiai, kuriuos leido atitinkama kompetentinga institucija; d) visi skrydžiai, atliekami išskirtinai pagal vizualiųjų skrydžių taisykles, kaip apibrėžta Tarptautinės civilinės aviacijos konvencijos (Čikagos konvencijos) 2 priede; e) skrydžiai be tarpinių nutūpimų, užbaigiami orlaivio pakilimo aerodrome; f) mokomieji skrydžiai, skirti išskirtinai gauti licenciją arba skrydžio įgulai – įgyti kvalifikaciją, jei tai įrodo atitinkamas žymuo skrydžio plane tuo atveju, jei skrydis nėra skirtas keleiviams ir (arba) kroviniams skraidinti arba orlaivio padėčiai nustatyti ar orlaiviui perkelti; g) skrydžiai, skirti išskirtinai moksliniams tyrimams atlikti arba orlaiviams ar įrangai (naudojamai ore arba antžeminei) tikrinti, bandyti ar patvirtinti; h) orlaivio, kurio patvirtinta didžiausioji kilimo masė yra ne didesnė kaip 5 700 kg, skrydžiai; i) skrydžiai, atliekami vykdant su viešosiomis paslaugomis susijusius įsipareigojimus, kurie nustatyti pagal 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (OL 2008 L 293, p. 1) maršrutams atokiausiuose regionuose, kaip nurodyta Sutarties dėl Europos Sąjungos veikimo 355 straipsnio 1 dalyje, arba maršrutams, kuriais per metus siūloma pervežti ne daugiau kaip 30 000 keleivių; ir j) skrydžiai, kurie, jei nebūtų taikomas šis punktas, būtų priskiriami šiai veiklos rūšiai ir kuriuos atlieka komercinės oro transporto priemonės naudotojas, vykdantis: – mažiau negu 243 skrydžius per tris iš eilės keturių mėnesių laikotarpius; arba – skrydžius, kurių bendras metinis išmetamųjų teršalų kiekis yra mažesnis negu 10 000 tonų. Skrydžiai, kurių vienintelis tikslas – skraidinti valstybės narės oficialią misiją atliekantį valdantį monarchą ir jo artimuosius giminaičius, valstybės vadovus, vyriausybės vadovus ir vyriausybės ministrus, pagal šį punktą šiai veiklai negali būti nepriskiriami; k) nuo 2013 m. sausio 1 d. iki 2020 m. gruodžio 31 d. – skrydžiai, kurie, jei nebūtų taikomas šis punktas, būtų priskiriami šiai veiklos rūšiai ir kuriuos atlieka nekomercinės oro transporto priemonės naudotojas, vykdantis skrydžius, kurių bendras metinis išmetamųjų teršalų kiekis yra mažesnis negu 1 000 tonų.
 
 Anglies dioksidas
 
 Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai orlaivio naudotojams taikomi nuo 2012 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.
+
+Punkto pakeitimai:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 Lietuvos Respublikos
 
@@ -747,11 +809,15 @@ Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010IST
 
 3. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos sprendimas Nr. 406/2009/EB dėl valstybių narių pastangų mažinti jų šiltnamio efektą sukeliančių dujų emisijas, Bendrijai siekiant įvykdyti įsipareigojimus iki 2020 m. sumažinti šiltnamio efektą sukeliančių dujų emisijas (OL 2009 L 140, p. 136).
 
-4. 2006 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 842/2006 dėl tam tikrų fluorintų šiltnamio efektą sukeliančių dujų (OL 2006 L 161, p. 1).
+4. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES)  Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006 (OL 2014 L 150, p. 195).
 
 Papildyta punktu:
 
 Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
+
+Punkto pakeitimai:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 5. 2008 m. balandžio 2 d. Komisijos reglamentas (EB) Nr. 303/2008, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 842/2006 nustatomi būtiniausi įmonių sertifikavimo ir darbuotojų atestavimo, susijusio su stacionaria šaldymo, oro kondicionavimo įranga ir šilumos siurbliais, kuriuose yra tam tikrų fluorintų šiltnamio efektą sukeliančių dujų, reikalavimai ir pažymėjimų abipusio pripažinimo sąlygos (OL 2008 L 92, p. 3).
 
@@ -764,6 +830,12 @@ Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010IS
 Papildyta punktu:
 
 Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
+
+7. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES)  Nr. 421/2014, kuriuo iš dalies keičiama Direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje, siekiant iki 2020 m. įgyvendinti tarptautinį susitarimą, kuriuo tarptautinės aviacijos išmetamiesiems teršalams nustatoma viena pasaulinė rinkos priemonė (OL 2014 L 129, p. 1).
+
+Papildyta punktu:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 Pakeitimai:
 
@@ -791,21 +863,33 @@ Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010IST
 
 Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo 2, 5, 7, 8, 10, 12-1 straipsnių, penktojo skirsnio ir 2 priedo pakeitimo ir papildymo įstatymas
 
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
+
+Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 2, 5, 6, 8, 12-1, 13, 15, 18 ir 20 straipsnių, 1 ir 2 priedų pakeitimo įstatymas
+
 121 straipsnis. Fluorintų šiltnamio efektą sukeliančių dujų tvarkymo atestatų išdavimas, jų galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir galiojimo panaikinimas
 
-1. Stacionarios šaldymo, oro kondicionavimo įrangos, stacionarių gaisro gesinimo sistemų, gesintuvų ir šilumos siurblių, turinčių tam tikrų fluorintų šiltnamio efektą sukeliančių dujų (toliau – šaldymo įranga), įrengimo, eksploatavimo ir (ar) techninės priežiūros darbus Lietuvos Respublikos teritorijoje turi teisę atlikti savarankiškai dirbantys Lietuvos Respublikos, taip pat kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės (toliau – valstybė narė) piliečiai, kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktų jiems suteiktomis judėjimo valstybėse narėse teisėmis, arba Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigti juridiniai asmenys, kitos organizacijos ar jų padaliniai (toliau – juridiniai asmenys), turėdami valstybės narės išduotą fluorintų šiltnamio efektą sukeliančių dujų tvarkymo atestatą (toliau – atestatas) ar kitą dokumentą, kuriuo suteikiama teisė atlikti šaldymo įrangos įrengimo, eksploatavimo ir (ar) techninės priežiūros darbus.
+1. Stacionarios šaldymo, oro kondicionavimo įrangos, stacionarių gaisro gesinimo sistemų, gesintuvų ir šilumos siurblių, turinčių tam tikrų fluorintų šiltnamio efektą sukeliančių dujų (toliau – šaldymo įranga), montavimo, aptarnavimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo darbus kitiems subjektams Lietuvos Respublikos teritorijoje turi teisę atlikti savarankiškai dirbantys Lietuvos Respublikos, taip pat kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės (toliau – valstybė narė) piliečiai, kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktų jiems suteiktomis judėjimo valstybėse narėse teisėmis, arba Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigti juridiniai asmenys, kitos organizacijos ar jų padaliniai (toliau – juridiniai asmenys), turėdami valstybės narės išduotą fluorintų šiltnamio efektą sukeliančių dujų tvarkymo atestatą (toliau – atestatas) ar kitą dokumentą, kuriuo suteikiama teisė atlikti šaldymo įrangos montavimo, aptarnavimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo darbus kitiems subjektams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 2. Atestatų išdavimo, jų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką nustato aplinkos ministras. Atestatai išduodami, jų galiojimas sustabdomas, galiojimo sustabdymas panaikinamas ir galiojimas panaikinamas Aplinkos ministerijos įgaliotos institucijos sprendimu. Sprendimai dėl atestato išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo yra priimami atsižvelgiant į Lietuvos Respublikos viešojo administravimo įstatymo nuostatas dėl ūkio subjektų veiklos priežiūros ir gali būti skundžiami Lietuvos Respublikos įstatymų nustatyta tvarka.
 
 3. Atestatai išduodami ne vėliau kaip per 20 darbo dienų nuo visų tinkamai įformintų dokumentų ir reikalingos atestatui gauti informacijos pateikimo dienos. Jeigu per nustatytą terminą sprendimas išduoti atestatą nepriimamas, nelaikoma, kad atestatas išduotas. Jeigu sprendimui priimti reikalinga papildoma informacija iš kitų institucijų, įstaigų arba kitų fizinių ar juridinių asmenų, sprendimo priėmimo terminas gali būti vieną kartą pratęstas iki 10 darbo dienų, apie tai informavus pareiškėją iki šioje dalyje nurodyto atestato išdavimo termino pabaigos. Atestatai išduodami neterminuotam laikui šio straipsnio 1 dalyje nurodytiems fiziniams ir juridiniams asmenims, kurie atitinka šiuos reikalavimus:
 
-1) juridinis asmuo atestuojamai veiklai atlikti yra įdarbinęs ne mažesnį kaip aplinkos ministro nustatytą skaičių darbuotojų, turinčių teisės aktų nustatyta tvarka arba kitos valstybės narės atsakingos institucijos išduotą pažymėjimą, patvirtinantį kvalifikaciją atlikti šaldymo įrangos patikrą dėl fluorintų šiltnamio efektą sukeliančių dujų nuotėkio, įrengti, eksploatuoti, atlikti techninę priežiūrą ir (ar) fluorintų šiltnamio efektą sukeliančių dujų surinkimą iš šaldymo įrangos, o fizinis asmuo turi šiame punkte nurodytą pažymėjimą;
+1) juridinis asmuo atestuojamai veiklai atlikti yra įdarbinęs ne mažesnį kaip aplinkos ministro nustatytą skaičių darbuotojų, turinčių teisės aktų nustatyta tvarka arba kitos valstybės narės atsakingos institucijos išduotą pažymėjimą, patvirtinantį kvalifikaciją atlikti šaldymo įrangos patikrą dėl fluorintų šiltnamio efektą sukeliančių dujų nuotėkio, ją montuoti, eksploatuoti, atlikti jos techninę priežiūrą ir (ar) surinkti fluorintas šiltnamio efektą sukeliančias dujas iš šaldymo įrangos, o fizinis asmuo turi šiame punkte nurodytą pažymėjimą;
 
-Straipsnio punkto pakeitimai:
+2) juridinis asmuo ir fizinis asmuo turi atestuojamai veiklai atlikti būtiną techninę įrangą, kurios atitiktis nustatytiems reikalavimams įvertinama aplinkos ministro nustatyta tvarka ir kuri sudaro sąlygas atlikti šaldymo įrangos montavimo, aptarnavimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo darbus kitiems subjektams: atlikti šaldymo įrangos patikrą dėl fluorintų šiltnamio efektą sukeliančių dujų nuotėkio, fluorintų šiltnamio efektą sukeliančių dujų slėgio ir temperatūros matavimus, surinkti fluorintas šiltnamio efektą sukeliančias dujas iš šaldymo įrangos, saugoti ir transportuoti fluorintas šiltnamio efektą sukeliančias dujas, užpildyti šaldymo įrangą ir sistemas fluorintomis šiltnamio efektą sukeliančiomis dujomis, montuoti šaldymo įrangą, vamzdynus ir kitas šaldymo įrangos dalis nesukeliant fluorintų šiltnamio efektą sukeliančių dujų nuotėkio ir kitus darbus.
 
-Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
+Straipsnio dalies pakeitimai:
 
-2) juridinis asmuo ir fizinis asmuo turi atestuojamai veiklai atlikti būtiną techninę įrangą, kurios atitiktis nustatytiems reikalavimams įvertinama aplinkos ministro nustatyta tvarka ir kuri sudaro sąlygas atlikti šaldymo įrangos įrengimo, eksploatavimo ir (ar) techninės priežiūros darbus: atlikti fluorintų šiltnamio efektą sukeliančių dujų nuotėkio patikrą, fluorintų šiltnamio efektą sukeliančių dujų slėgio ir temperatūros matavimus, surinkti fluorintas šiltnamio efektą sukeliančias dujas iš įrangos, saugoti ir transportuoti fluorintas šiltnamio efektą sukeliančias dujas, įrangą ir sistemas užpildyti fluorintomis šiltnamio efektą sukeliančiomis dujomis, įrengti įrangą, vamzdynus ir kitas įrangos dalis nesukeliant fluorintų šiltnamio efektą sukeliančių dujų nuotėkio.
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 4. Atestatas neišduodamas, jeigu:
 
@@ -845,7 +929,11 @@ Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010IST
 
 4) atestato turėtojas per šio straipsnio 2 dalyje nurodytos Aplinkos ministerijos įgaliotos institucijos nustatytą terminą neužtikrino atitikties šio straipsnio 3 dalyje nustatytiems reikalavimams, jeigu atestato galiojimas sustabdytas šio straipsnio 5 dalies 2 punkte numatytais pagrindais;
 
-5) sustabdžius atestato galiojimą, atestato turėtojas tęsia šaldymo įrangos įrengimo, eksploatavimo ir (ar) techninės priežiūros darbus;
+5) sustabdžius atestato galiojimą, atestato turėtojas tęsia šaldymo įrangos montavimo, aptarnavimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo darbus kitiems subjektams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 6) nustatoma, kad atestato turėtojas, kurio turimo atestato galiojimas jau buvo sustabdytas, nebeatitinka šio straipsnio 3 dalyje nustatytų reikalavimų antrą kartą per 12 mėnesių nuo jam išduoto atestato galiojimo sustabdymo dienos;
 
