@@ -4,7 +4,7 @@ identifier: "TAR.0744084BFEF5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-05-10"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0744084BFEF5"
 department: "Lietuvos Respublikos Seimas"
@@ -17,6 +17,10 @@ entry_into_force_conditions: "4 str. 2 dalis įsigalioja 2012-05-19"
 # Lietuvos Respublikos kompensacijų asmenims, 1990–1991 m. atsisakiusiems prievartinės tarnybos sovietų armijoje ir dėl to nukentėjusiems nuo sovietų armijos veiksmų, įstatymas
 
 LIETUVOS RESPUBLIKOS KOMPENSACIJŲ ASMENIMS, 1990–1991 M
+
+Suvestinė redakcija nuo 2015-01-01
+
+Įstatymas paskelbtas: Žin. 2012, Nr. 57-2830, i. k. 1121010ISTA0XI-2007
 
 LIETUVOS RESPUBLIKOS
 
@@ -46,11 +50,19 @@ Teisę į kompensaciją turi Lietuvos Respublikos piliečiai, kurie nuo 1990 m.
 
 3 straipsnis. Kompensacijos dydis ir mokėjimo tvarka
 
-1. Kompensacija yra 4 000 litų dydžio. Kompensacija išmokama 2 straipsnyje nurodytiems asmenims vieną kartą iš Lietuvos Respublikos krašto apsaugos ministerijai (toliau – Krašto apsaugos ministerija) šiam tikslui skirtų valstybės biudžeto lėšų krašto apsaugos ministro sprendimu ir mažinama kompensacijos, kuri buvo išmokėta pagal Lietuvos Respublikos Vyriausybės 1996 m. kovo 6 d. nutarimą Nr. 311 „Dėl vienkartinių kompensacijų asmenims, po 1990 m. kovo 11 d. pasitraukusiems iš būtinosios karinės tarnybos sovietinėje armijoje ir už tai nuteistiems“ (Žin., 1996, Nr. 22-581), dydžiu.
+1. Kompensacija yra 1 159 eurų dydžio. Kompensacija išmokama šio įstatymo 2 straipsnyje nurodytiems asmenims vieną kartą iš Lietuvos Respublikos krašto apsaugos ministerijai (toliau – Krašto apsaugos ministerija) šiam tikslui skirtų valstybės biudžeto lėšų krašto apsaugos ministro sprendimu ir mažinama kompensacijos, kuri buvo išmokėta pagal Lietuvos Respublikos Vyriausybės 1996 m. kovo 6 d. nutarimą Nr. 311 „Dėl vienkartinių kompensacijų asmenims, po 1990 m. kovo 11 d. pasitraukusiems iš būtinosios karinės tarnybos sovietinėje armijoje ir už tai nuteistiems“, dydžiu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1170, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13580
 
 2. Asmenys, atitinkantys šio įstatymo 1 straipsnio 1 dalies ir 2 straipsnio nuostatas, prašymus dėl kompensacijos skyrimo kartu su asmens tapatybę ir nukentėjusio nuo 1939–1990 m. okupacijų asmens teisinį statusą patvirtinančiais dokumentais pateikia Krašto apsaugos ministerijai.
 
-3. Per vienus kalendorinius metus išmokamų kompensacijų bendra suma neturi viršyti 150 tūkst. litų.
+3. Per vienus kalendorinius metus išmokamų kompensacijų bendra suma neturi viršyti 43 450 eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1170, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13580
 
 4. Krašto apsaugos ministerija kompensacijas išmoka ne vėliau kaip per vieną mėnesį nuo prašymo ir kitų dokumentų, nurodytų šio straipsnio 2 dalyje, pateikimo dienos, jeigu šioms kompensacijoms skirti pakanka šio straipsnio 3 dalyje numatytų lėšų.
 
@@ -67,4 +79,14 @@ Teisę į kompensaciją turi Lietuvos Respublikos piliečiai, kurie nuo 1990 m.
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1170, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13580
+
+Lietuvos Respublikos kompensacijų asmenims, 1990–1991 m. atsisakiusiems prievartinės tarnybos sovietų armijoje ir dėl to nukentėjusiems nuo sovietų armijos veiksmų, įstatymo Nr. XI-2007 3 straipsnio pakeitimo įstatymas
 
