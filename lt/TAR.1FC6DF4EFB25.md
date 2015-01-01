@@ -4,7 +4,7 @@ identifier: "TAR.1FC6DF4EFB25"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-03-13"
-last_updated: "2012-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FC6DF4EFB25"
 department: "Lietuvos Respublikos Seimas"
@@ -17,6 +17,10 @@ entry_into_force_conditions: "Įstatymo 12 straipsnis įsigalioja 2012-03-17."
 # Lietuvos Respublikos Panevėžio laisvosios ekonominės zonos įstatymas
 
 LIETUVOS RESPUBLIKOS PANEVĖŽIO LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMAS
+
+Suvestinė redakcija nuo 2015-01-01 iki 2017-06-30
+
+Įstatymas paskelbtas: Žin. 2012, Nr. 33-1544, i. k. 1121010ISTA0XI-1924
 
 LIETUVOS RESPUBLIKOS  PANEVĖŽIO LAISVOSIOS EKONOMINĖS ZONOS  ĮSTATYMAS
 
@@ -44,7 +48,11 @@ Zonoje plėtojama prekybos, gamybos ir paslaugų teikimo veikla, išskyrus Lietu
 
 1. Zonos teritorija užima 46,95 ha.
 
-2. Zonos teritorija ne aukciono būdu Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka išnuomojama zonos valdymo bendrovei.
+2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-944, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07827
 
 5 straipsnis. Zonos teritorijos ribos
 
@@ -187,4 +195,14 @@ Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo priima
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-944, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07827
+
+Lietuvos Respublikos Panevėžio laisvosios ekonominės zonos įstatymo Nr. XI-1924 4 straipsnio pakeitimo įstatymas
 
