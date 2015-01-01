@@ -4,7 +4,7 @@ identifier: "TAR.EDE1F707F4EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-10-06"
-last_updated: "2008-05-24"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EDE1F707F4EE"
 department: "Lietuvos Respublikos Seimas"
@@ -15,241 +15,103 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės paramos žuvusių pasipriešinimo 1940-1990 metų okupacijoms dalyvių šeimoms įstatymas
 
-Įstatymas skelbtas: Žin., 1998, Nr. 92-2543
+Suvestinė redakcija nuo 2015-01-01
 
-Neoficialus įstatymo tekstas
+Įstatymas paskelbtas: Žin. 1998, Nr. 92-2543, i. k. 0981010ISTAVIII-871
 
 LIETUVOS RESPUBLIKOS
 
-VALSTYBĖS PARAMOS ŽUVUSIŲ PASIPRIEŠINIMO 1940-1990 METŲ OKUPACIJOMS DALYVIŲ
-
-ŠEIMOMS
+VALSTYBĖS PARAMOS ŽUVUSIŲ PASIPRIEŠINIMO 1940-1990 METŲ OKUPACIJOMS DALYVIŲ ŠEIMOMS
 
 ĮSTATYMAS
 
-1998 m. spalio 6 d. Nr. VIII-871
-
-Vilnius
+1998 m. spalio 6 d. Nr. VIII-871 Vilnius
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato valstybės paramos
+Šis įstatymas nustato valstybės paramos žuvusių pasipriešinimo 1940-1990 metų okupacijoms dalyvių šeimoms teikimo tvarką.
 
-žuvusių pasipriešinimo 1940-1990 metų okupacijoms dalyvių šeimoms teikimo
+3 straipsnis. Baigiamosios nuostatos
 
-tvarką.
+1. Šio įstatymo 2 straipsnyje nustatyti vienkartinių pašalpų dydžiai indeksuojami Vyriausybės nustatyta tvarka pagal metų infliaciją.
 
-3 straipsnis.
+2. Teisė gauti vienkartinę pašalpą šio įstatymo nustatyta tvarka atsiranda nuo tos dienos, kai asmuo pateikia prašymą ir visus reikiamus dokumentus pašalpai gauti.
 
-Baigiamosios nuostatos
+4 straipsnis. Pasiūlymas Vyriausybei
 
-1. Šio įstatymo 2 straipsnyje nustatyti
+Vyriausybė parengia vienkartinių pašalpų žuvusių pasipriešinimo 1940-1990 metų okupacijoms dalyvių šeimoms skyrimo ir išmokėjimo tvarką.
 
-vienkartinių pašalpų dydžiai indeksuojami Vyriausybės nustatyta tvarka pagal
-
-metų infliaciją.
-
-2. Teisė gauti vienkartinę pašalpą šio
-
-įstatymo nustatyta tvarka atsiranda nuo tos dienos, kai asmuo pateikia prašymą
-
-ir visus reikiamus dokumentus pašalpai gauti.
-
-4 straipsnis.
-
-Pasiūlymas Vyriausybei
-
-Vyriausybė parengia vienkartinių pašalpų
-
-žuvusių pasipriešinimo 1940-1990 metų okupacijoms dalyvių šeimoms skyrimo ir
-
-išmokėjimo tvarką.
-
-5 straipsnis.
-
-Įstatymo įsigaliojimas
+5 straipsnis. Įstatymo įsigaliojimas
 
 Šis įstatymas įsigalioja nuo 1999 m. sausio 1 d.
 
-Skelbiu šį Lietuvos Respublikos Seimo
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS                                                     VALDAS
-
-ADAMKUS
-
-__________________
+RESPUBLIKOS PREZIDENTAS                                                     VALDAS ADAMKUS
 
 Pakeitimai:
 
 1.
 
-Lietuvos
+Lietuvos Respublikos Seimas, Įstatymas
 
-Respublikos Seimas, Įstatymas
+Nr. IX-1956, 2003-12-23, Žin., 2004, Nr. 7-131 (2004-01-13)
 
-Nr.
-
-IX-1956,
-
-2003-12-23, Žin., 2004, Nr. 7-131 (2004-01-13)
-
-VALSTYBĖS
-
-PARAMOS ŽUVUSIŲ PASIPRIEŠINIMO 1940-1990 METŲ OKUPACIJOMS DALYVIŲ ŠEIMOMS ĮSTATYMO
-
-2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+VALSTYBĖS PARAMOS ŽUVUSIŲ PASIPRIEŠINIMO 1940-1990 METŲ OKUPACIJOMS DALYVIŲ ŠEIMOMS ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 2.
 
-Lietuvos
+Lietuvos Respublikos Seimas, Įstatymas
 
-Respublikos Seimas, Įstatymas
+Nr. X-460, 2005-12-20, Žin., 2005, Nr. 153-5637 (2005-12-31)
 
-Nr.
-
-X-460,
-
-2005-12-20, Žin., 2005, Nr. 153-5637 (2005-12-31)
-
-VALSTYBĖS
-
-PARAMOS ŽUVUSIŲ PASIPRIEŠINIMO 1940–1990 METŲ OKUPACIJOMS DALYVIŲ ŠEIMOMS
-
-ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+VALSTYBĖS PARAMOS ŽUVUSIŲ PASIPRIEŠINIMO 1940–1990 METŲ OKUPACIJOMS DALYVIŲ ŠEIMOMS ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 3.
 
-Lietuvos
+Lietuvos Respublikos Seimas, Įstatymas
 
-Respublikos Seimas, Įstatymas
+Nr. X-1528, 2008-05-08, Žin., 2008, Nr. 59-2201 (2008-05-24)
 
-Nr.
+VALSTYBĖS PARAMOS ŽUVUSIŲ PASIPRIEŠINIMO 1940–1990 METŲ OKUPACIJOMS DALYVIŲ ŠEIMOMS ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-X-1528,
+Pakeitimai:
 
-2008-05-08, Žin., 2008, Nr. 59-2201 (2008-05-24)
+1.
 
-VALSTYBĖS
+Lietuvos Respublikos Seimas, Įstatymas
 
-PARAMOS ŽUVUSIŲ PASIPRIEŠINIMO 1940–1990 METŲ OKUPACIJOMS DALYVIŲ ŠEIMOMS
+Nr. XII-1208, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14101
 
-ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Lietuvos Respublikos valstybės paramos žuvusių pasipriešinimo 1940–1990 metų okupacijoms dalyvių šeimoms įstatymo Nr. VIII-871 2 straipsnio pakeitimo įstatymas
 
-***
+2 straipsnis. Valstybės parama žuvusių pasipriešinimo 1940–1990 metų okupacijoms dalyvių šeimoms
 
-Pabaiga ***
+1. Valstybės parama už žuvusius ar mirusius tardymo, įkalinimo ar tremties pasibaigus įkalinimui metu 1940–1990 metų ginkluoto pasipriešinimo (rezistencijos) dalyvius – karius savanorius ir neginkluoto pasipriešinimo (rezistencijos) dalyvius – laisvės kovų dalyvius teikiama jų šeimoms.
 
-Redagavo:
+2. Žuvusiųjų tėvams (įtėviams), kitos santuokos iki kario savanorio ar laisvės kovų dalyvio žūties nesudariusiems sutuoktiniams, vaikams (įvaikiams), taip pat broliams ir seserims, jeigu jie pasipriešinimo okupacijoms dalyvio žuvimo metu buvo jaunesni kaip 18 metų ir neturėjo abiejų tėvų (abu tėvai arba turėtas vienintelis iš tėvų buvo mirę) (toliau – šeimos nariai), lygiomis dalimis išmokama tokio dydžio vienkartinė pašalpa:
 
-Aušrinė Trapinskienė (2008-05-26)
+1) ginkluoto pasipriešinimo (rezistencijos) dalyvių – karių savanorių, žuvusių ginkluoto susirėmimo, sulaikymo, suėmimo ar okupacinės valdžios vykdytų slaptų operacijų, baudžiamųjų akcijų metu, GULAG’o politinių kalinių sukilimų malšinimo metu, jeigu asmens žūtis ar mirtis yra susijusi su jo pasipriešinimo veikla, nužudytų ar mirusių tardymo metu iki teismo nuosprendžio įsiteisėjimo arba kurie nuteisti mirties bausme ir bausmė įvykdyta, šeimos nariams – 8 592 eurai;
 
-autrap@lrs.lt
+2) ginkluoto pasipriešinimo (rezistencijos) dalyvių – karių savanorių, mirusių įkalinimo metu po teismo nuosprendžio įsiteisėjimo, neginkluoto pasipriešinimo (rezistencijos) dalyvių – laisvės kovų dalyvių, žuvusių ginkluoto susirėmimo, sulaikymo, suėmimo ar okupacinės valdžios vykdytų slaptų operacijų, baudžiamųjų akcijų metu, GULAG’o politinių kalinių streikų malšinimo metu, jeigu asmens žūtis ar mirtis yra susijusi su jo pasipriešinimo veikla, nužudytų ar mirusių tardymo metu iki teismo nuosprendžio įsiteisėjimo arba kurie nuteisti mirties bausme ir bausmė įvykdyta, šeimos nariams – 6 444 eurai;
 
-2 straipsnis. Valstybės parama žuvusių pasipriešinimo
+3) neginkluoto pasipriešinimo (rezistencijos) dalyvių – laisvės kovų dalyvių, nužudytų ar mirusių įkalinimo metu po teismo nuosprendžio įsiteisėjimo, šeimos nariams – 5 156 eurai;
 
-1940–1990 metų okupacijoms dalyvių šeimoms
+4) pasipriešinimo (rezistencijos) dalyvių – karių savanorių ir laisvės kovų dalyvių, žuvusių ar mirusių tremties pasibaigus įkalinimui metu, šeimos nariams – 3 291 euras.
 
-1. Valstybės parama už žuvusius ar
+Straipsnio dalies pakeitimai:
 
-mirusius tardymo, įkalinimo ar tremties pasibaigus įkalinimui metu 1940–1990
+Nr. XII-1208, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14101
 
-metų ginkluoto pasipriešinimo (rezistencijos) dalyvius – karius savanorius ir
+3. Vienkartinės pašalpos mokamos Lietuvos Respublikos piliečiams, nuolat gyvenantiems Lietuvos Respublikoje.
 
-neginkluoto pasipriešinimo (rezistencijos) dalyvius – laisvės kovų dalyvius
+4. Vienkartinės pašalpos Vyriausybės nustatyta tvarka mokamos iš valstybės biudžeto. Vienkartinių pašalpų išmokėjimo pagrindas yra Lietuvos gyventojų genocido ir rezistencijos tyrimo centro Pasipriešinimo dalyvių (rezistentų) teisių komisijos sprendimas arba teismo nutartis dėl juridinę reikšmę turinčio fakto nustatymo.
 
-teikiama jų šeimoms.
+Straipsnio pakeitimai:
 
-2. Žuvusiųjų tėvams (įtėviams), kitos
+Nr. IX-1956, 2003-12-23, Žin., 2004, Nr. 7-131 (2004-01-13)
 
-santuokos iki kario savanorio ar laisvės kovų dalyvio žūties nesudariusiems
+Nr. X-460, 2005-12-20, Žin., 2005, Nr. 153-5637 (2005-12-31)
 
-sutuoktiniams, vaikams (įvaikiams), taip pat broliams ir seserims, jeigu jie
-
-pasipriešinimo okupacijoms dalyvio žuvimo metu buvo jaunesni kaip 18 metų ir
-
-neturėjo abiejų tėvų (abu tėvai arba turėtas vienintelis iš tėvų buvo mirę)
-
-(toliau – šeimos nariai), lygiomis dalimis išmokama tokio dydžio vienkartinė
-
-pašalpa:
-
-1) ginkluoto pasipriešinimo
-
-(rezistencijos) dalyvių – karių savanorių, žuvusių ginkluoto susirėmimo,
-
-sulaikymo, suėmimo ar okupacinės valdžios vykdytų slaptų operacijų, baudžiamųjų
-
-akcijų metu, GULAG’o politinių kalinių sukilimų malšinimo metu, jeigu asmens
-
-žūtis ar mirtis yra susijusi su jo pasipriešinimo veikla, nužudytų ar mirusių
-
-tardymo metu iki teismo nuosprendžio įsiteisėjimo arba kurie nuteisti mirties
-
-bausme ir bausmė įvykdyta, šeimos nariams – 20 000 Lt;
-
-2) ginkluoto pasipriešinimo
-
-(rezistencijos) dalyvių – karių savanorių, mirusių įkalinimo metu po teismo
-
-nuosprendžio įsiteisėjimo, neginkluoto pasipriešinimo (rezistencijos) dalyvių –
-
-laisvės kovų dalyvių, žuvusių ginkluoto susirėmimo, sulaikymo, suėmimo ar
-
-okupacinės valdžios vykdytų slaptų operacijų, baudžiamųjų akcijų metu, GULAG’o
-
-politinių kalinių streikų malšinimo metu, jeigu asmens žūtis ar mirtis yra
-
-susijusi su jo pasipriešinimo veikla, nužudytų ar mirusių tardymo metu iki
-
-teismo nuosprendžio įsiteisėjimo arba kurie nuteisti mirties bausme ir bausmė
-
-įvykdyta, šeimos nariams – 15 000 Lt;
-
-3) neginkluoto pasipriešinimo
-
-(rezistencijos) dalyvių – laisvės kovų dalyvių, nužudytų ar mirusių įkalinimo
-
-metu po teismo nuosprendžio įsiteisėjimo, šeimos nariams – 12 000 Lt;
-
-4) pasipriešinimo (rezistencijos) dalyvių – karių
-
-savanorių ir laisvės kovų dalyvių, žuvusių ar mirusių tremties pasibaigus
-
-įkalinimui metu, šeimos nariams – 10 000 Lt.
-
-3. Vienkartinės pašalpos mokamos
-
-Lietuvos Respublikos piliečiams, nuolat gyvenantiems Lietuvos Respublikoje.
-
-4. Vienkartinės pašalpos Vyriausybės
-
-nustatyta tvarka mokamos iš valstybės biudžeto. Vienkartinių pašalpų išmokėjimo
-
-pagrindas yra Lietuvos gyventojų genocido ir rezistencijos tyrimo centro Pasipriešinimo
-
-dalyvių (rezistentų) teisių komisijos sprendimas arba teismo nutartis dėl
-
-juridinę reikšmę turinčio fakto nustatymo.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-IX-1956,
-
-2003-12-23, Žin., 2004, Nr. 7-131 (2004-01-13)
-
-Nr.
-
-X-460,
-
-2005-12-20, Žin., 2005, Nr. 153-5637 (2005-12-31)
-
-Nr. X-1528,
-
-2008-05-08, Žin., 2008, Nr. 59-2201 (2008-05-24)
+Nr. X-1528, 2008-05-08, Žin., 2008, Nr. 59-2201 (2008-05-24)
 
