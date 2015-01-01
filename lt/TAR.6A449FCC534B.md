@@ -4,7 +4,7 @@ identifier: "TAR.6A449FCC534B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-10"
-last_updated: "2014-12-04"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos koncesijų įstatymas
 
-Suvestinė redakcija nuo 2014-12-04 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2016-06-15
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
 
@@ -186,7 +186,11 @@ BENDROSIOS SĄLYGOS
 
 1. Koncesijos suteikiamos šio Įstatymo, Lietuvos Respublikos civilinio kodekso ir kitų įstatymų nustatyta tvarka.
 
-2. Suteikiančiajai institucijai, pagal Lietuvos Respublikos įstatymus ir savo kompetenciją bei įgaliojimus atsakingai už atitinkamą funkciją ar veiklos sritį, kuri gali būti koncesijos sutarties dalykas, šiuo Įstatymu suteikiama teisė suteikti koncesiją sudarant koncesijos sutartį (ir kitas papildomas bei susijusias sutartis, įskaitant sutartis su koncesijos projekto finansuotojais) dėl tokios funkcijos įgyvendinimo ar veiklos atitinkamoje srityje vykdymo. Sprendimus dėl koncesijų, pagal kurias Lietuvos Respublika prisiima esminius turtinius įsipareigojimus, priima Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės siūlymu. Šio Įstatymo tikslais turtinis įsipareigojimas (įskaitant galimą civilinę atsakomybę, atsirandančią pagal koncesijos sutartį), viršijantis 200 milijonų litų, laikomas esminiu.
+2. Suteikiančiajai institucijai, pagal Lietuvos Respublikos įstatymus ir savo kompetenciją bei įgaliojimus atsakingai už atitinkamą funkciją ar veiklos sritį, kuri gali būti koncesijos sutarties dalykas, šiuo Įstatymu suteikiama teisė suteikti koncesiją sudarant koncesijos sutartį (ir kitas papildomas bei susijusias sutartis, įskaitant sutartis su koncesijos projekto finansuotojais) dėl tokios funkcijos įgyvendinimo ar veiklos atitinkamoje srityje vykdymo. Sprendimus dėl koncesijų, pagal kurias Lietuvos Respublika prisiima esminius turtinius įsipareigojimus, priima Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės siūlymu. Šio Įstatymo tikslais turtinis įsipareigojimas (įskaitant galimą civilinę atsakomybę, atsirandančią pagal koncesijos sutartį), viršijantis 58 000 000 eurų, laikomas esminiu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1262, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14857
 
 3. Suteikiančioji institucija koncesijos suteikimui organizuoti ir koncesijos suteikimo procedūroms atlikti privalo sudaryti komisiją. Komisiją sudaranti suteikiančioji institucija turi teisę kviestis ekspertus, galinčius konsultuoti su koncesijos suteikimu susijusiais klausimais, kuriems reikia specialių žinių. Komisijos pirmininku ir nariais gali būti tik nepriekaištingos reputacijos asmenys. Komisijos nariai neturi teisės atskleisti informacijos, susijusios su koncesijos suteikimo procedūromis, jeigu jos atskleidimas prieštarauja įstatymams, daro nuostolių arba trukdo užtikrinti sąžiningą konkurenciją. Vykdydama koncesijos suteikimo procedūras, komisija rengia konkurso sąlygų ir koncesijos sutarties projektus, priima, vertina ir lygina konkurso dalyvių pateiktus pasiūlymus, veda derybas su koncesijos konkurso dalyviais, rengia su koncesijos suteikimu susijusių sprendimų projektus ir kreipiasi į komisiją sudariusią suteikiančiąją instituciją dėl sprendimų priėmimo bei atlieka kitas jai pavestas funkcijas. Už komisijos veiksmus atsako ją sudariusi suteikiančioji institucija.
 
@@ -823,4 +827,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1360, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18647
 
 Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 28-1 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1262, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14857
+
+Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 5 straipsnio pakeitimo įstatymas
 
