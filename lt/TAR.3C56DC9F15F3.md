@@ -4,7 +4,7 @@ identifier: "TAR.3C56DC9F15F3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-20"
-last_updated: "2005-07-14"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3C56DC9F15F3"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)
 
-Suvestinė redakcija nuo 2005-07-14 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1162, i. k. 0941010ISTA000I-576
 
@@ -51,29 +51,31 @@ Straipsnio naikinimas:
 
 Nr. I-731, 1994-12-22, Žin. 1994, Nr. 101-2019 (1994-12-30), i. k. 0941010ISTA000I-731
 
-5 straipsnis.
-
-Išmokėti žuvusiųjų būtinojoje karinėje tarnyboje sovietinėje armijoje šeimoms 14400 litų vienkartinę kompensaciją. Kompensacija mokama žuvusiųjų tėvams (įtėviams), kitos santuokos nesudariusiems sutuoktiniams, vaikams (įvaikiams) ir kitiems išlaikytiniams lygiomis dalimis.
+5 straipsnis. Išmokėti žuvusiųjų būtinojoje karinėje tarnyboje sovietinėje armijoje šeimoms 4 171 euro dydžio vienkartinę kompensaciją. Kompensacija mokama žuvusiųjų tėvams (įtėviams), kitos santuokos nesudariusiems sutuoktiniams, vaikams (įvaikiams) ir kitiems išlaikytiniams lygiomis dalimis.
 
 Straipsnio pakeitimai:
 
 Nr. VIII-241, 1997-06-05, Žin., 1997, Nr. 63-1467 (1997-07-02), i. k. 0971010ISTAVIII-241
 
+Nr. XII-1210, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14115
+
 6 straipsnis. 2 straipsnyje nurodytiems asmenims išmokamos šių dydžių vienkartinės kompensacijos:
 
-1) pripažintiems netekusiais 75–100 procentų darbingumo (iki 2005 m. liepos 1 d. – I grupės invalidais) – 7200 litų;
+1) pripažintiems netekusiais 75–100 procentų darbingumo (iki 2005 m. liepos 1 d. – I grupės invalidais) – 2 086 eurai;
 
-2) pripažintiems netekusiais 60–70 procentų darbingumo (iki 2005 m. liepos 1 d. – II grupės invalidais) – 5760 litų;
+2) pripažintiems netekusiais 60–70 procentų darbingumo (iki 2005 m. liepos 1 d. – II grupės invalidais) – 1 669 eurai;
 
-3) pripažintiems netekusiais 45–55 procentų darbingumo (iki 2005 m. liepos 1 d. – III grupės invalidais) – 4320 litų;
+3) pripažintiems netekusiais 45–55 procentų darbingumo (iki 2005 m. liepos 1 d. – III grupės invalidais) – 1 252 eurai;
 
-4) pripažintiems netekusiais 20–40 procentų darbingumo – 2880 litų.
+4) pripažintiems netekusiais 20–40 procentų darbingumo – 835 eurai.
 
 Straipsnio pakeitimai:
 
 Nr. VIII-241, 1997-06-05, Žin., 1997, Nr. 63-1467 (1997-07-02), i. k. 0971010ISTAVIII-241
 
 Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+
+Nr. XII-1210, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14115
 
 7 straipsnis.
 
@@ -140,4 +142,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
 
 Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo, Įstatymo "Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)", Nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo, Įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių, kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1210, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14115
+
+Lietuvos Respublikos įstatymo „Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 – 1991 12 31)“ Nr. I-576 5 ir 6 straipsnių pakeitimo įstatymas
 
