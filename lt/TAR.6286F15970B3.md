@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "2014-04-30"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2014-04-30 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2017-10-09
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -772,7 +772,11 @@ Licencijos turėtojas atsako už veiklos, kuriai išduota licencija, ar su ta ve
 
 1. Nustatant branduolinės žalos dydį, vadovaujamasi Civiliniu kodeksu ir 1963 m. gegužės 21 d. Vienos konvencija dėl civilinės atsakomybės už branduolinę žalą (toliau – Vienos konvencija) bei jos pagrindu priimtu Lietuvos Respublikos įstatymu „Dėl 1963 m. gegužės 21 d. Vienos konvencijos dėl civilinės atsakomybės už branduolinę žalą ir bendro protokolo dėl Vienos konvencijos bei Paryžiaus konvencijos taikymo įsigaliojimo“.
 
-2. Branduolinės energetikos objektą eksploatuojančios organizacijos materialinės atsakomybės dydis už branduolinę žalą, padarytą kiekvienos branduolinės ir (ar) radiologinės avarijos ar branduolinio incidento metu, apribojamas suma Lietuvos Respublikos litais, ekvivalentiška minimaliam atsakomybės dydžiui, nustatytam Vienos konvencijos V straipsnyje. Atsakomybės dydis apskaičiuojamas pagal oficialų Lietuvos Respublikos lito ir Jungtinių Amerikos Valstijų dolerio kursą, paskelbtą Lietuvos banko žalos padarymo dieną.
+2. Branduolinės energetikos objektą eksploatuojančios organizacijos materialinės atsakomybės dydis už branduolinę žalą, padarytą kiekvienos branduolinės ir (ar) radiologinės avarijos ar branduolinio incidento metu, apribojamas suma eurais, ekvivalentiška minimaliam atsakomybės dydžiui, nustatytam Vienos konvencijos V straipsnyje. Atsakomybės dydis apskaičiuojamas pagal Europos centrinio banko paskelbtą oficialų euro ir Jungtinių Amerikos Valstijų dolerio kursą žalos padarymo dieną.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1174, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13573
 
 3. Ginčus, kilusius dėl žalos dydžio nustatymo ar jos atlyginimo tvarkos, sprendžia teismas.
 
@@ -1039,6 +1043,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
 
 Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 1, 2, 5 straipsnių ir priedo pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1174, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13573
+
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. XI-1537 42 straipsnio pakeitimo įstatymas
 
 54 straipsnis. Branduolinės avarijos likvidavimas
 
