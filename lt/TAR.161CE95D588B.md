@@ -4,7 +4,7 @@ identifier: "TAR.161CE95D588B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-03-13"
-last_updated: "2012-03-17"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.161CE95D588B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,6 +16,10 @@ document_status: "registruotas TA registre"
 # Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymas
 
 LIETUVOS RESPUBLIKOS KĖDAINIŲ LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMAS
+
+Suvestinė redakcija nuo 2015-01-01 iki 2017-06-30
+
+Įstatymas paskelbtas: Žin. 2012, Nr. 33-1543, i. k. 1121010ISTA0XI-1923
 
 LIETUVOS RESPUBLIKOS  KĖDAINIŲ LAISVOSIOS EKONOMINĖS ZONOS
 
@@ -45,7 +49,11 @@ Zonoje plėtojama prekybos, gamybos ir paslaugų teikimo veikla, išskyrus Lietu
 
 1. Zonos teritorija užima 130,55 ha.
 
-2. Zonos teritorija ne aukciono būdu Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka išnuomojama zonos valdymo bendrovei.
+2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-942, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07830
 
 5 straipsnis. Zonos teritorijos ribos
 
@@ -188,4 +196,14 @@ Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo priima
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-942, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07830
+
+Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymo Nr. XI-1923 4 straipsnio pakeitimo įstatymas
 
