@@ -4,7 +4,7 @@ identifier: "TAR.DCBDC82E26CD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-23"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DCBDC82E26CD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,155 +16,89 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų registro įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 21-0; Žin. 1992, Nr.5-78, i. k. 0921010ISTA00I-2237
 
-Nauja redakcija nuo 1999-06-01:
+Nauja redakcija nuo 2015-01-01:
 
-Nr. VIII-1085, 1999-03-16, Žin. 1999, Nr. 28-793 (1999-03-26), i. k. 0991010ISTAIII-1085
+Nr. XII-1297, 2014-11-06, paskelbta TAR 2014-11-14, i. k. 2014-16874
 
 LIETUVOS RESPUBLIKOS
 
 GYVENTOJŲ REGISTRO
 
-Į S T A T Y M A S
+ĮSTATYMAS
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas reglamentuoja Lietuvos Respublikos gyventojų registro (toliau – registro) steigimą, tvarkymą, jo duomenis bei šių duomenų naudojimo tvarką, registrą tvarkančių įstaigų, duomenų teikėjų ir asmenų, kurių duomenys įrašyti į registrą, pagrindines teises, pareigas ir atsakomybę.
+Šis įstatymas nustato Lietuvos Respublikos gyventojų registro steigimo ir tvarkymo tvarką, jo objektus, jame tvarkomus duomenis ir šių duomenų naudojimo tvarką, Lietuvos Respublikos gyventojų registro valdytojo ir tvarkytojo (tvarkytojų), duomenų teikėjų ir asmenų, kurių duomenys įrašyti į Lietuvos Respublikos gyventojų registrą, pagrindines teises ir pareigas.
 
-2 straipsnis. Registro steigėjas
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-Registro steigėja yra Lietuvos Respublikos Vyriausybė.
+1. Asmens civilinės būklės pasikeitimas – gimimas, tėvystės (motinystės) nustatymas, tėvystės pripažinimas, tėvystės (motinystės) nuginčijimas, mirtis, santuokos sudarymas, santuokos nutraukimas ar pripažinimas negaliojančia, įvaikinimas, vardo, pavardės pakeitimas ir kiti su asmens civiline būkle susiję pasikeitimai.
 
-3 straipsnis. Registro statusas ir paskirtis
+2. Asmens dokumentas – Lietuvos Respublikos gyventojų registro nuostatuose nurodytas Lietuvos Respublikos valstybės ar savivaldybės institucijos asmeniui išduotas dokumentas, kuriame įrašyti duomenys apie šį asmenį.
 
-1. Šis registras yra pagrindinis valstybės registras.
+3. Asmens kodas – unikali vienuolikos dešimtainių skaitmenų seka asmeniui identifikuoti, registrų ir valstybės informacinių sistemų sąveikai užtikrinti.
 
-2. Registro paskirtis – rinkti, kaupti, apdoroti ir saugoti šio įstatymo 9 straipsnyje išvardytus duomenis apie šio įstatymo 5 straipsnyje išvardytus asmenis; teikti šiuos duomenis Lietuvos Respublikos valdžios ir valdymo institucijoms, vietos savivaldos institucijoms, valstybės registrams bei kitiems juridiniams ir fiziniams asmenims įstatymų ir kitų teisės aktų nustatyta tvarka.
+4. Lietuvos Respublikos gyventojų registro duomenų bazė – kompiuterinė duomenų bazė, kurioje tvarkomi duomenys apie visus šio įstatymo 5 straipsnyje išvardytus asmenis.
 
-3. Registro nuostatus tvirtina Vyriausybė.
+5. Lietuvos Respublikos gyventojų registro duomenų gavėjas – juridinis asmuo, jo filialai, atstovybės, fizinis asmuo ar įstatymų nustatytas funkcijas atliekantis valstybės įgaliotas asmuo, kuriems teikiami Lietuvos Respublikos gyventojų registro duomenys apie asmenį arba duomenų suvestinė šiame įstatyme ir Lietuvos Respublikos gyventojų registro nuostatuose nustatyta tvarka.
 
-4 straipsnis. Pagrindinės šio įstatymo sąvokos
+6. Lietuvos Respublikos gyventojų registro duomenų suvestinė – apibendrinti grupės asmenų duomenys, iš kurių negalima nustatyti atskiro asmens konkrečių duomenų.
 
-1. Registrą tvarkančios įstaigos – vadovaujančioji registro tvarkymo įstaiga ir teritorinės registro tvarkymo įstaigos.
+7. Lietuvos Respublikos gyventojų registro duomenų teikėjas – Lietuvos Respublikos gyventojų registro nuostatuose nurodytas juridinis asmuo ar kitas šio įstatymo įgaliotas asmuo, teikiantys duomenis Lietuvos Respublikos gyventojų registro tvarkytojui (tvarkytojams) Lietuvos Respublikos gyventojų registro nuostatuose nustatyta tvarka.
 
-2. Teritorinė registro tvarkymo įstaiga – vadovaujančiosios registro tvarkymo įstaigos steigiamas (skiriamas) padalinys administraciniame vienete.
+3 straipsnis. Lietuvos Respublikos gyventojų registro steigėjas
 
-3. Registro duomenų tvarkymas – bet kurie su registro duomenimis atliekami veiksmai: duomenų rinkimas, užrašymas, apdorojimas, kaupimas, saugojimas, grupavimas, jungimas, teikimas, paskelbimas, naudojimas, loginės ir (ar) aritmetinės operacijos, duomenų paieška ir kiti veiksmai.
+Lietuvos Respublikos gyventojų registrą (toliau – Gyventojų registras) steigia ir jo nuostatus tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė).
 
-Straipsnio dalies pakeitimai:
+4 straipsnis. Gyventojų registro statusas ir paskirtis
 
-Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+1. Gyventojų registras yra pagrindinis valstybės registras.
 
-4. Duomenų apdorojimas – registro duomenų papildymas, keitimas, taisymas, ištrynimas, klasifikavimas.
+2. Gyventojų registro paskirtis – rinkti, kaupti, apdoroti ir saugoti šio įstatymo 9 straipsnyje išvardytus duomenis apie šio įstatymo 5 straipsnyje išvardytus asmenis; teikti šiuos duomenis Lietuvos Respublikos valdžios institucijoms, viešojo administravimo subjektams, kitiems valstybės registrams ir valstybės informacinėms sistemoms, kitiems juridiniams asmenims, jų filialams, atstovybėms, įstatymų nustatytas funkcijas atliekantiems valstybės įgaliotiems asmenims, taip pat fiziniams asmenims įstatymų ir kitų teisės aktų nustatyta tvarka.
 
-5. Registro duomenų centrinė bazė – kompiuterinė duomenų bazė, kurioje tvarkomi duomenys apie visus šio įstatymo 5 straipsnyje išvardytus asmenis.
+5 straipsnis. Gyventojų registro objektai
 
-6. Duomenų teikėjai – registro nuostatuose nurodyti juridiniai asmenys, teikiantys duomenis registrą tvarkančioms įstaigoms registro nuostatuose nustatyta tvarka.
+Gyventojų registro objektai yra šie asmenys, kurių duomenys tvarkomi Gyventojų registre:
 
-7. Asmens civilinės būklės pasikeitimas – gimimas, tėvystės nustatymas, tėvystės atėmimas, mirtis, santuokos sudarymas, santuokos nutraukimas, įvaikinimas, vardo, pavardės pakeitimas ir kiti su asmens civiline būkle susiję pasikeitimai.
+1) Lietuvos Respublikos piliečiai;
 
-8. Suvestinės – apibendrinti grupės asmenų duomenys, iš kurių negalima nustatyti atskiro asmens konkrečių duomenų.
+2) asmenys be pilietybės ir kitų valstybių piliečiai, gaunantys Lietuvos Respublikoje išduodamus asmens dokumentus, deklaruojantys gyvenamąją vietą Lietuvos Respublikos teritorijoje ar registruojantys asmens civilinės būklės pasikeitimus Lietuvos Respublikos institucijose.
 
-9. Asmens kodas – unikali vienuolikos dešimtainių skaitmenų seka, skirta asmeniui identifikuoti, duomenims apie jį kaupti, valstybės registrų ir informacinių sistemų sąveikai užtikrinti.
+6 straipsnis. Gyventojų registro valdytojas ir tvarkytojas (tvarkytojai)
 
-10. Duomenų gavėjai – juridiniai asmenys, jų filialai ir atstovybės, fiziniai asmenys, kuriems teikiami registro duomenys apie asmenį arba duomenys suvestinėje šio įstatymo ir registro nuostatų nustatyta tvarka.
+1. Gyventojų registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, kuri yra ir Gyventojų registro asmens duomenų valdytoja.
 
-Straipsnio dalies pakeitimai:
+2. Gyventojų registro tvarkytojas (tvarkytojai) skiriamas (skiriami) Vyriausybės priimtu teisės aktu, kuriuo tvirtinami Lietuvos Respublikos gyventojų registro nuostatai (toliau – Gyventojų registro nuostatai). Gyventojų registro nuostatuose nurodomos konkrečios registro tvarkytojo (tvarkytojų) funkcijos.
 
-Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
+7 straipsnis. Gyventojų registro valdytojo ir tvarkytojo (tvarkytojų) teisės ir pareigos
 
-11. Asmens dokumentas – valstybės ar vietos savivaldos institucijos asmeniui išduotas dokumentas, kuriame įrašyti duomenys apie šį asmenį Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
+1. Gyventojų registro valdytojas turi Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo (toliau – Valstybės informacinių išteklių valdymo įstatymas) 24 straipsnio 1 ir 2 dalyse nustatytas teises ir to paties straipsnio 3 ir 4 dalyse nustatytas pareigas.
 
-5 straipsnis. Asmenys, kurių duomenys tvarkomi registre
+2. Gyventojų registro tvarkytojas (tvarkytojai) turi Valstybės informacinių išteklių valdymo įstatymo 24 straipsnio 5 dalyje nustatytas teises ir to paties straipsnio 6 dalyje nustatytas pareigas.
 
-Registre tvarkomi šių asmenų duomenys:
-
-1) Lietuvos Respublikos piliečių;
-
-2) asmenų be pilietybės ir kitų valstybių piliečių, deklaruojančių gyvenamąją vietą Lietuvoje ar registruojančių asmens civilinės būklės pasikeitimus Lietuvos Respublikos institucijose.
-
-6 straipsnis. Registrą tvarkančios įstaigos
-
-1. Vadovaujančioji registro tvarkymo įstaiga yra gyventojų registro tarnyba, kurią steigia Vyriausybė arba jos įgaliota institucija. Vadovaujančioji registro tvarkymo įstaiga yra registro duomenų valdytoja.
-
-2. Vadovaujančioji registro tvarkymo įstaiga yra juridinis asmuo, turintis antspaudą su Lietuvos Respublikos herbu ir savo pavadinimu.
-
-3. Vadovaujančioji registro tvarkymo įstaiga steigia (skiria) teritorines registro tvarkymo įstaigas.
-
-4. Vadovaujančiosios registro tvarkymo įstaigos nuostatus tvirtina Vyriausybė ar jos įgaliota institucija.
-
-5. Vadovaujančioji registro tvarkymo įstaiga tvirtina teritorinių registro tvarkymo įstaigų nuostatus.
-
-7 straipsnis. Vadovaujančiosios registro tvarkymo įstaigos pagrindinės teisės ir pareigos
-
-1. Vadovaujančiosios registro tvarkymo įstaigos teises ir pareigas reglamentuoja šis įstatymas, Lietuvos Respublikos valstybės registrų, Asmens duomenų teisinės apsaugos įstatymai ir vadovaujančiosios registro tvarkymo įstaigos nuostatai.
-
-2. Vadovaujančioji registro tvarkymo įstaiga turi teisę:
-
-1) gauti iš duomenų teikėjų šio įstatymo 9 straipsnyje išvardytus duomenis;
-
-2) paprašyti duomenų teikėją, jeigu būtina, pagrįsti registrui teikiamų duomenų teisingumą;
-
-3) atsisakyti teikti registro duomenis Asmens duomenų teisinės apsaugos įstatymo numatytais atvejais ir nustatyta tvarka;
-
-4) priimti sprendimą dėl pateiktų klaidingų ar melagingų duomenų ištaisymo ar panaikinimo registro nuostatuose nustatyta tvarka;
-
-5) teikti informaciją apie sujungtus šio įstatymo 9 straipsnyje nurodytus duomenis šio įstatymo 11 straipsnio 6 dalyje nurodytiems subjektams, nustatant giminystės ir svainystės ryšius.
-
-Papildyta straipsnio punktu:
-
-Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
-
-Straipsnio punkto pakeitimai:
-
-Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
-
-3. Vadovaujančioji registro tvarkymo įstaiga privalo:
-
-1) tvarkyti šio įstatymo 9 straipsnyje išvardytus duomenis;
-
-2) vadovauti teritorinėms registro tvarkymo įstaigoms;
-
-3) tvarkyti registro duomenų centrinę bazę;
-
-4) užtikrinti, kad į registrą nebūtų įrašyta klaidingų duomenų;
-
-5) tvarkyti registrui teikiamų duomenų apskaitą;
-
-6) sudaryti ir suteikti asmens kodą;
-
-7) garantuoti šio įstatymo 9 straipsnyje išvardytų duomenų apsaugą;
-
-8) per 20 dienų išnagrinėti pateiktus skundus dėl atsisakymo suteikti ar patikslinti prašomus registro duomenis ir duoti atsakymus.
+3. Gyventojų registro valdytojas ir tvarkytojas (tvarkytojai), be šiame straipsnyje nurodytų teisių ir pareigų, taip pat turi teises ir pareigas, nustatytas Gyventojų registro nuostatuose.
 
 8 straipsnis. Asmens kodas
 
 1. Asmens kodas suteikiamas šio įstatymo 5 straipsnyje išvardytiems asmenims.
 
-2. Asmens kodo struktūra jo suteikimo metu yra tokia: pirmasis skaitmuo atitinka lytį ir gimimo šimtmetį, antrasis ir trečiasis – gimimo metų du paskutinius skaitmenis, ketvirtasis ir penktasis – gimimo mėnesį, šeštasis ir septintasis – gimimo dieną, aštuntasis, devintasis ir dešimtasis – gimusiųjų tą pačią dieną įrašymo į registrą eilės numerį, vienuoliktasis yra pirmųjų dešimties skaitmenų kontrolinis skaičius.
+2. Asmens kodo struktūra jo suteikimo metu yra tokia: pirmasis skaitmuo atitinka lytį ir gimimo šimtmetį, antrasis ir trečiasis – gimimo metų du paskutinius skaitmenis, ketvirtasis ir penktasis – gimimo mėnesį, šeštasis ir septintasis – gimimo dieną, aštuntasis, devintasis ir dešimtasis – gimusiųjų tą pačią dieną įrašymo į Gyventojų registrą eilės numerį, vienuoliktasis skaitmuo yra pirmųjų dešimties skaitmenų kontrolinis skaičius.
 
-3. Asmeniui suteiktas asmens kodas yra unikalus ir nekeičiamas. Asmens kodas įrašomas į asmens dokumentus.
+3. Asmeniui suteiktas asmens kodas yra unikalus ir nekeičiamas. Asmens dokumentas asmeniui išduodamas tik įrašius asmens kodą į Gyventojų registrą.
 
-9 straipsnis. Registre tvarkomi asmens duomenys
+9 straipsnis. Gyventojų registre tvarkomi asmens duomenys
 
-1. Registre tvarkomi šie asmens duomenys:
+1. Gyventojų registre tvarkomi šie pagrindiniai asmens duomenys:
 
 1) asmens kodas;
 
-2) vardas (vardai) ir jo (jų) pakeitimo data (datos);
+2) vardas (vardai);
 
-Straipsnio punkto pakeitimai:
-
-Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
-
-3) pavardė (pavardės) ir jos (jų) pakeitimo data (datos);
-
-Straipsnio punkto pakeitimai:
-
-Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
+3) pavardė (pavardės);
 
 4) lytis;
 
@@ -172,217 +106,179 @@ Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010IST
 
 6) pilietybė (pilietybės), jos (jų) įgijimo ir netekimo data (datos);
 
-Straipsnio punkto pakeitimai:
-
-Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
-
 7) gimimo vieta;
 
-8) gyvenamoji vieta, atvykimo į gyvenamąją vietą data; jeigu išvyksta gyventi į užsienį, – išvykimo vieta (valstybė) ir išvykimo data; jeigu nuolat gyvena užsienyje, – valstybė; jeigu neturi gyvenamosios vietos, – savivaldybė, kurioje gyvena;
-
-Straipsnio punkto pakeitimai:
-
-Nr. IX-2218, 2004-05-04, Žin., 2004, Nr. 80-2836 (2004-05-14), i. k. 1041010ISTA0IX-2218
+8) gyvenamoji vieta, atvykimo į gyvenamąją vietą data; jeigu asmuo išvyksta gyventi į užsienį, – išvykimo vieta (valstybė) ir išvykimo data; jeigu asmuo nuolat gyvena užsienyje, – valstybė; jeigu asmuo neturi gyvenamosios vietos ir yra įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą, – savivaldybė, kurioje gyvena;
 
 9) šeiminė padėtis ir jos pasikeitimo data;
 
 10) mirties data;
 
-11) tėvų, vaikų ir sutuoktinių asmens kodai; jeigu asmens kodai nesuteikti, – kiti asmens duomenys, pagrįsti dokumentais ir nurodyti registro nuostatuose;
+11) tėvų, vaikų ir sutuoktinių asmens kodai; jeigu asmens kodai nesuteikti, – kiti asmens duomenys, pagrįsti dokumentais ir nurodyti Gyventojų registro nuostatuose;
 
-12) tautybė (duomenys apie tautybę iš registro teikiami tik Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo nustatyta tvarka);
-
-Straipsnio punkto pakeitimai:
-
-Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
+12) tautybė;
 
 13) veido atvaizdas;
 
-Papildyta straipsnio punktu:
-
-Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
-
 14) pirštų atspaudai;
-
-Papildyta straipsnio punktu:
-
-Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
 
 15) parašas;
 
-Papildyta straipsnio punktu:
+16) dokumentų duomenys;
 
-Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
+17) civilinės būklės aktų įrašų duomenys;
 
-16) asmens dokumento duomenys (rūšis, išdavusios valstybės kodas ir pavadinimas, serija ir numeris, išdavimo (keitimo) priežastis, išrašymo data ir data, iki kurios galioja asmens dokumentas, išdavimo data, galiojimo (negaliojimo) būklė, negaliojimo priežastis ir data, ar asmens dokumentas grąžintas, ar negrąžintas);
+18) duomenys apie asmens neveiksnumą ir veiksnumo apribojimą;
 
-Papildyta straipsnio punktu:
+19) asmens kontaktiniai duomenys (virtualusis adresas, tai yra Lietuvos Respublikos adresų registre įregistruoto adreso atitikmuo elektroninėje erdvėje; Nacionalinės elektroninių pranešimų ir elektroninių dokumentų pristatymo fiziniams ir juridiniams asmenims, naudojant pašto tinklą, informacinėje sistemoje sukurtos elektroninio pristatymo dėžutės adresas; fiksuotojo arba judriojo ryšio telefono numeris, jeigu asmuo sutinka, kad jo telefono numeris būtų naudojamas Gyventojų registro tvarkymo tikslais ir (ar) teikiamas tretiesiems asmenims).
 
-Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+2. Šio straipsnio 1 dalies 13, 14 ir 15 punktuose nurodyti duomenys apie asmenis be pilietybės ir kitų valstybių piliečius į Gyventojų registrą įrašomi, jeigu jie pagrįsti Lietuvos Respublikoje išduotais dokumentais.
 
-17) prašymų gauti asmens dokumentus duomenys (registracijos numeris ir data, prašymą priėmusios įstaigos kodas ir pavadinimas);
+3. Duomenys, įrašyti į Gyventojų registrą, laikomi teisingais tol, kol jie nenuginčijami Lietuvos Respublikos įstatymų ir Europos Sąjungos teisės aktų nustatyta tvarka.
 
-Papildyta straipsnio punktu:
+10 straipsnis. Gyventojų registro duomenų tvarkymas
 
-Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+1. Gyventojų registro duomenys tvarkomi vadovaujantis šiuo įstatymu, Valstybės informacinių išteklių valdymo įstatymu, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu (toliau – Asmens duomenų teisinės apsaugos įstatymas) ir Gyventojų registro nuostatais.
 
-18) civilinės būklės aktų įrašų duomenys (rūšis, įrašo pagrindas, įrašo vieta ir data, numeris, papildymo ar pakeitimo pagrindas, žyma apie liudijimo išdavimą, mirties vietovė, įraše įrašytos pastabos).
+2. Gyventojų registrui teikiami duomenys turi būti pagrįsti dokumentais. Duomenys apie asmenį renkami, į Gyventojų registrą įrašomi ir atnaujinami Gyventojų registro nuostatuose nustatyta tvarka.
 
-Papildyta straipsnio punktu:
+3. Visi Gyventojų registre įregistruotų Gyventojų registro objektų duomenys ir jų pakeitimai yra saugomi ir tvarkomi vienoje Gyventojų registro duomenų bazėje.
 
-Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+4. Gyventojų registro duomenys saugomi Asmens duomenų teisinės apsaugos įstatyme, Valstybės informacinių išteklių valdymo įstatyme, šiame įstatyme ir Gyventojų registro nuostatuose nustatyta tvarka.
 
-2. Šio straipsnio 1 dalies 13 14, 15 punktuose nurodyti duomenys apie asmenis be pilietybės ir kitų valstybių piliečius įrašomi, jeigu jie pagrįsti Lietuvos Respublikoje išduotais dokumentais.
+11 straipsnis. Gyventojų registro duomenų teikimas ir naudojimas
 
-Straipsnio dalies pakeitimai:
+1. Gyventojų registro duomenys teikiami ir naudojami vadovaujantis šiuo įstatymu, Valstybės informacinių išteklių valdymo įstatymu, Asmens duomenų teisinės apsaugos įstatymu ir Gyventojų registro nuostatais.
 
-Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
+2. Registrų ir valstybės informacinių sistemų valdytojai, tvarkytojai, kitos Lietuvos Respublikos valdžios institucijos, viešojo administravimo subjektai, savo funkcijoms atlikti naudojantys šio įstatymo 9 straipsnyje išvardytus asmens duomenis, privalo užtikrinti, kad jie atitiktų Gyventojų registre tvarkomus duomenis.
 
-Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+3. Lietuvos Respublikos valstybės ar savivaldybių institucijos asmens dokumentus, kuriuose įrašomi asmens duomenys, išduoda pagal Gyventojų registro duomenis. Šių institucijų išduodamų asmens dokumentų duomenys turi atitikti Gyventojų registro duomenis. Už tai atsako konkrečius asmens dokumentus išduodanti institucija.
 
-Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
+4. Gyventojų registro duomenys teikiami už atlyginimą, išskyrus Valstybės informacinių išteklių valdymo įstatyme nustatytus atvejus. Atlyginimo dydį ir mokėjimo tvarką nustato Vyriausybė.
 
-3. Neteko galios nuo 2012-07-10
+5. Veido atvaizdas, pirštų atspaudai ir parašas gali būti teikiami teisėtvarkos, žvalgybos ir asmens tapatybę patvirtinančius dokumentus išduodančioms institucijoms. Veido atvaizdas ir parašas gali būti teikiami valstybės institucijoms juridinę galią turinčių dokumentų gamybai tik tuo atveju, jeigu yra asmens sutikimas. Veido atvaizdas gali būti teikiamas finansų įstaigoms tik tų asmenų, kuriems ketinama suteikti finansines paslaugas, susijusias su rizikos prisiėmimu. Veido atvaizdas teikiamas sveikatos priežiūros įstaigoms nenustatytos asmens tapatybės pacientų asmens tapatybei patvirtinti ir (ar) nustatyti, taip pat notarams ir antstoliams – teisės aktuose nustatytoms funkcijoms atlikti, kai to reikia kaip papildomos asmens identifikavimo priemonės asmens tapatybei nustatyti.
 
-Straipsnio dalies naikinimas:
+6. Informacija apie giminystės ir svainystės ryšius gali būti teikiama teisėtvarkos, žvalgybos subjektams, mokesčių administravimo institucijoms teisės aktuose nustatytoms funkcijoms atlikti; Lietuvos Respublikos Seimo komisijoms – įstatymų, Lietuvos Respublikos Seimo nutarimų nustatyta tvarka pavestiems uždaviniams įgyvendinti. Informacija apie giminystės ryšius gali būti teikiama Vyriausiajai tarnybinės etikos komisijai teisės aktuose jai nustatytoms funkcijoms atlikti; notarams – paveldėjimo byloms tvarkyti ir nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti sandorius su artimaisiais giminaičiais; asmenims, kuriems įstatymų nustatyta teisė spręsti Lietuvos Respublikos pilietybės klausimus, – sprendimams šiais klausimais priimti; konsuliniams pareigūnams – kai to reikia konsulinei veiklai atlikti, taip pat nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti santuoką ir sandorius su artimaisiais giminaičiais; Nekilnojamojo turto registro tvarkytojui – kai įregistruojami nekilnojamieji daiktai, įgyti nuosavybėn įgyjamąja senatimi; Įmonių bankroto valdymo departamentui prie Ūkio ministerijos – bankroto administratoriaus giminystės ir svainystės apribojimams nustatyti.
 
-Nr. XI-2138, 2012-06-28, Žin. 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
+7. Informacija apie asmens tautybę, neveiksnumą ir veiksnumo apribojimą kitiems asmenims ir institucijoms gali būti teikiama tik įstatymų ar kitų teisės aktų nustatytoms tiesioginėms funkcijoms atlikti.
 
-Papildyta straipsnio dalimi:
+12 straipsnis. Asmens, kurio duomenys tvarkomi Gyventojų registre, teisės
 
-Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
+1. Asmens, kurio duomenys tvarkomi Gyventojų registre, teises reglamentuoja šis įstatymas, Asmens duomenų teisinės apsaugos įstatymas ir Gyventojų registro nuostatai.
 
-4. Neteko galios nuo 2012-07-10
+2. Asmuo, kurio duomenys įrašyti į Gyventojų registrą, Gyventojų registro nuostatuose nustatyta tvarka turi teisę:
 
-Straipsnio dalies naikinimas:
+1) susipažinti ir gauti dokumentą su savo, savo nepilnamečių vaikų ir įvaikių, taip pat asmenų, kuriems nustatyta globa ar rūpyba, duomenimis;
 
-Nr. XI-2138, 2012-06-28, Žin. 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
+2) reikalauti patikslinti į Gyventojų registrą įrašytus netikslius, neteisingus, neišsamius savo, savo nepilnamečių vaikų ir įvaikių, taip pat asmenų, kuriems nustatyta globa ar rūpyba, duomenis;
 
-Straipsnio dalies pakeitimai:
+3) apskųsti Gyventojų registro tvarkytojo (tvarkytojų) atsisakymą pateikti arba patikslinti prašomus Gyventojų registro duomenis Gyventojų registro valdytojui; Gyventojų registro valdytojo atsakymą – Valstybinei duomenų apsaugos inspekcijai; Valstybinės duomenų apsaugos inspekcijos sprendimą – teismui Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+13 straipsnis. Gyventojų registro duomenų teikėjai, jų pagrindinės teisės ir pareigos
 
-Nr. X-1707, 2008-07-15, Žin., 2008, Nr. 87-3467 (2008-07-31), i. k. 1081010ISTA00X-1707
+1. Gyventojų registrui duomenis teikia institucijos, kurioms Lietuvos Respublikos įstatymų suteikta teisė priimti sprendimus įrašyti į Gyventojų registrą šio įstatymo 9 straipsnyje išvardytus duomenis ir jų pasikeitimus.
 
-Straipsnio dalies numeracijos pakeitimas:
+2. Gyventojų registro duomenų teikėjų teisės ir pareigos nustatytos šiame įstatyme ir Gyventojų registro nuostatuose.
 
-Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
+3. Gyventojų registro duomenų teikėjai turi teisę reikalauti ištaisyti Gyventojų registre įrašytus neteisingus, netikslius ar neišsamius jų pateiktus duomenis.
 
-5. Registro duomenys laikomi teisingais, kol jie nenuginčijami įstatymų nustatyta tvarka.
+4. Gyventojų registro duomenų teikėjai privalo:
 
-Straipsnio dalies numeracijos pakeitimas:
+1) teikti duomenis Gyventojų registro tvarkytojui (tvarkytojams) šiame įstatyme, Valstybės informacinių išteklių valdymo įstatyme, Asmens duomenų teisinės apsaugos įstatyme ir Gyventojų registro nuostatuose nustatyta tvarka;
 
-Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
+2) užtikrinti, kad teikiami duomenys būtų teisingi, tikslūs, išsamūs, atitiktų dokumentus ir kad būtų nuolat atnaujinami Gyventojų registro nuostatuose nustatyta tvarka;
 
-10 straipsnis. Registro duomenų tvarkymas
+3) suderinti su Gyventojų registro tvarkytoju (tvarkytojais) duomenų teikimo Gyventojų registrui tvarką;
 
-1. Registro duomenys tvarkomi vadovaujantis šiuo įstatymu, Lietuvos Respublikos valstybės registrų ir Asmens duomenų teisinės apsaugos įstatymais, registro nuostatais.
+4) atsakyti į Gyventojų registro tvarkytojo (tvarkytojų) pateiktus paklausimus, jeigu būtina pagrįsti teikiamų Gyventojų registrui duomenų teisingumą.
 
-2. Teikiami registrui duomenys turi būti pagrįsti dokumentais. Duomenys apie asmenį renkami, į registrą įrašomi ir atnaujinami registro nuostatuose nustatyta tvarka.
+14 straipsnis. Gyventojų registro duomenų apsauga
 
-3. Teritorinės registro tvarkymo įstaigos renka asmens duomenis, teikia juos registro duomenų centrinei bazei, šios bazės duomenų pagrindu išduoda dokumentus ir teikia duomenis nuostatuose nustatyta tvarka.
+1. Gyventojų registro valdytojas ir tvarkytojas (tvarkytojai) pagal kompetenciją užtikrina Gyventojų registro asmens duomenų apsaugą ir duomenų saugą, kaip to reikalauja Lietuvos Respublikos įstatymai ir kiti teisės aktai.
 
-Straipsnio dalies pakeitimai:
+2. Gyventojų registro tvarkytojo (tvarkytojų) darbuotojai turi pasirašyti pasižadėjimus, kad saugos asmens duomenų paslaptį ir nepažeis šio įstatymo ir Asmens duomenų teisinės apsaugos įstatymo.
 
-Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+15 straipsnis. Gyventojų registro finansavimas
 
-4. Registro duomenys kaupiami ir apdorojami registro duomenų centrinėje bazėje.
+Gyventojų registras finansuojamas valstybės biudžeto lėšomis ir lėšomis, gautomis už Gyventojų registro duomenų teikimą šio įstatymo 11 straipsnio 4 dalyje nurodyta tvarka.
 
-5. Registro duomenys saugomi Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo, Valstybės registrų įstatymo, šio įstatymo bei registro nuostatuose nustatyta tvarka.
+16 straipsnis. Gyventojų registro reorganizavimas ir likvidavimas
 
-11 straipsnis. Registro duomenų naudojimas ir skelbimas
-
-1. Registro duomenys naudojami ir skelbiami vadovaujantis šiuo įstatymu, Lietuvos Respublikos valstybės registrų, Asmens duomenų teisinės apsaugos įstatymais, registro nuostatais.
-
-2. Valstybės registrus ar informacines sistemas tvarkančios institucijos, kitos Lietuvos Respublikos valstybės ir savivaldybių institucijos ir įstaigos, savo funkcijoms atlikti naudojančios šio įstatymo 9 straipsnyje išvardytus asmens duomenis, privalo juos atnaujinti pagal registro duomenis.
-
-Straipsnio dalies pakeitimai:
-
-Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
-
-3. Šio straipsnio 2 dalyje išvardytos institucijos asmens dokumentus, kuriuose įrašomi asmens duomenys, išduoda remdamosi registro duomenų centrinės bazės duomenimis. Šių institucijų išduodamų asmens dokumentų duomenys turi atitikti registro duomenų centrinės bazės duomenis. Už tai atsako konkrečius asmens dokumentus išduodanti institucija.
-
-4. Registro duomenys teikiami už atlyginimą, išskyrus Lietuvos Respublikos valstybės registrų įstatymo nustatytus atvejus. Atlyginimo dydį ir mokėjimo tvarką nustato Vyriausybė.
-
-Straipsnio dalies pakeitimai:
-
-Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
-
-5. Veido atvaizdas, pirštų atspaudai ir parašas gali būti teikiami tik teisėtvarkos ir asmens tapatybę patvirtinančius dokumentus išduodančioms institucijoms. Veido atvaizdas ir parašas gali būti teikiami valstybės institucijoms juridinę galią turinčių dokumentų gamybai tik esant asmens sutikimui. Veido atvaizdas gali būti teikiamas finansų įstaigoms tik tų asmenų, kuriems ketinama suteikti finansines paslaugas, susijusias su rizikos prisiėmimu. Veido atvaizdas teikiamas sveikatos priežiūros įstaigoms nenustatytos asmens tapatybės pacientų asmens tapatybei patvirtinti ir (ar) nustatyti, taip pat notarams ir antstoliams – teisės aktų nustatytoms funkcijoms atlikti, kai to reikia kaip papildomos asmens identifikavimo priemonės asmens tapatybei nustatyti.
-
-Papildyta straipsnio dalimi:
-
-Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
-
-6. Informacija apie giminystės ir svainystės ryšius gali būti teikiama teisėtvarkos subjektams, mokesčių administravimo institucijoms teisės aktų nustatytoms funkcijoms atlikti; Seimo komisijoms – įstatymų, Seimo nutarimų nustatyta tvarka pavestiems uždaviniams įgyvendinti. Informacija apie giminystės ryšius gali būti teikiama Vyriausiajai tarnybinės etikos komisijai jos teisės aktų nustatytoms funkcijoms atlikti; notarams – paveldėjimo byloms tvarkyti ir nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti sandorius su artimaisiais giminaičiais; asmenims, kuriems įstatymų nustatyta teisė spręsti Lietuvos Respublikos pilietybės klausimus, – sprendimams šiais klausimais priimti; konsuliniams pareigūnams – kai to reikia konsulinei veiklai atlikti, taip pat nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti santuoką ir sandorius su artimaisiais giminaičiais; Nekilnojamojo turto registro tvarkytojui – kai įregistruojami nekilnojamieji daiktai, įgyti nuosavybėn įgyjamąja senatimi.
-
-Papildyta straipsnio dalimi:
-
-Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
-
-7. Registrą tvarkančių įstaigų teikiami dokumentai su asmens duomenimis turi juridinę galią.
-
-Straipsnio dalies pakeitimai:
-
-Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
-
-12 straipsnis. Asmens, kurio duomenys tvarkomi registre, pagrindinės teisės
-
-1. Asmens, kurio duomenys tvarkomi registre, teises reglamentuoja šis įstatymas, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas ir registro nuostatai.
-
-2. Asmuo, kurio duomenys įrašyti registre, pateikęs asmens dokumentą registro nuostatų nustatyta tvarka, turi teisę:
-
-1) susipažinti ir gauti dokumentą su savo, savo nepilnamečių vaikų ir įvaikių, taip pat asmenų, kuriems paskirta globa ar rūpyba, duomenimis;
-
-Straipsnio punkto pakeitimai:
-
-Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
-
-2) reikalauti patikslinti registre netikslius savo, savo nepilnamečių vaikų ir įvaikių, taip pat asmenų, kuriems paskirta globa ar rūpyba, duomenis;
-
-3) apskųsti vadovaujančiajai registro tvarkymo įstaigai teritorinės registro tvarkymo įstaigos atsisakymą suteikti ar patikslinti prašomus registro duomenis. Nesutikęs su vadovaujančiosios registro tvarkymo įstaigos sprendimu, asmuo turi teisę jį apskųsti Valstybinei duomenų apsaugos inspekcijai, o Valstybinės duomenų apsaugos inspekcijos atsakymą – teismui įstatymų nustatyta tvarka.
-
-13 straipsnis. Duomenų teikėjai, jų pagrindinės teisės ir pareigos
-
-1. Duomenis registrui teikia institucijos, kurioms Lietuvos Respublikos įstatymų suteikta teisė registruoti šio įstatymo 9 straipsnyje išvardytus duomenis bei jų pasikeitimus.
-
-2. Duomenų teikėjų teises ir pareigas reglamentuoja šis įstatymas ir registro nuostatai.
-
-3. Duomenų teikėjai turi teisę reikalauti ištaisyti registre klaidingai įrašytus duomenis.
-
-4. Duomenų teikėjai privalo:
-
-1) teikti duomenis registrą tvarkančioms įstaigoms šio įstatymo, Lietuvos Respublikos valstybės registrų, Asmens duomenų teisinės apsaugos įstatymų ir registro nuostatų nustatyta tvarka;
-
-2) užtikrinti, kad teikiami duomenys būtų teisingi, išsamūs, atitiktų dokumentus ir kad būtų nuolat atnaujinami registro nuostatų nustatyta tvarka;
-
-3) suderinti su vadovaujančia registro tvarkymo įstaiga duomenų teikimo registrui tvarką;
-
-4) atsakyti į registrą tvarkančių įstaigų pateiktus paklausimus, jeigu būtina pagrįsti teikiamų registrui duomenų teisingumą.
-
-14 straipsnis. Registro duomenų apsauga
-
-1. Registrą tvarkančios įstaigos užtikrina registro duomenų apsaugą, kaip to reikalauja Lietuvos Respublikos įstatymai ir kiti teisės aktai.
-
-2. Registrą tvarkančių įstaigų darbuotojai turi pasirašyti pasižadėjimus, kad saugos asmens duomenų paslaptį ir nepažeis šio ir Asmens duomenų teisinės apsaugos įstatymų.
-
-15 straipsnis. Registro finansavimas
-
-Registrui steigti ir išlaikyti naudojamos valstybės biudžeto lėšos ir lėšos, gautos už registro duomenų teikimą šio įstatymo 11 straipsnio 4 dalyje nurodyta tvarka.
-
-16 straipsnis. Registro reorganizavimas ir likvidavimas
-
-Registras reorganizuojamas ar likviduojamas Lietuvos Respublikos įstatymų nustatyta tvarka.
+Gyventojų registras reorganizuojamas ar likviduojamas Lietuvos Respublikos įstatymų nustatyta tvarka.
 
 17 straipsnis. Atsakomybė ir žalos atlyginimas
 
-1. Asmenys, pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
+1. Asmenys, pažeidę šį įstatymą, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
 
-2. Žala, patirta dėl duomenų teikėjų, registrą tvarkančių įstaigų ar duomenų gavėjų kaltės, atlyginama įstatymų nustatyta tvarka. Žala neatlyginama, jei žalą patyrę asmenys patys pateikė registrą tvarkančioms įstaigoms neteisingus duomenis.
+2. Žala, patirta dėl Gyventojų registro duomenų teikėjų, Gyventojų registro tvarkytojo (tvarkytojų) ar Gyventojų registro duomenų gavėjų kaltės, atlyginama Lietuvos Respublikos įstatymų nustatyta tvarka. Žala neatlyginama, jeigu žalą patyrę asmenys patys pateikė Gyventojų registro tvarkytojui (tvarkytojams) neteisingus, netikslius ar neišsamius duomenis.
+
+LIETUVOS RESPUBLIKOS
+
+AUKŠČIAUSIOSIOS TARYBOS
+
+PIRMININKO PAVADUOTOJAS                            BRONISLOVAS KUZMICKAS
+
+Vilnius, 1992 m. sausio 23 d.
+
+Nr. I-2237
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1085, 1999-03-16, Žin., 1999, Nr. 28-793 (1999-03-26), i. k. 0991010ISTAIII-1085
+
+Lietuvos Respublikos gyventojų registro įstatymo pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2218, 2004-05-04, Žin., 2004, Nr. 80-2836 (2004-05-14), i. k. 1041010ISTA0IX-2218
+
+Lietuvos Respublikos gyventojų registro įstatymo 9 straipsnio papildymo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
+
+Lietuvos Respublikos gyventojų registro įstatymo 4, 9, 11 straipsnių pakeitimo ir papildymo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+
+Lietuvos Respublikos gyventojų registro įstatymo 4, 7, 9, 10, 11, 12 straipsnių pakeitimo ir papildymo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1707, 2008-07-15, Žin., 2008, Nr. 87-3467 (2008-07-31), i. k. 1081010ISTA00X-1707
+
+Lietuvos Respublikos gyventojų registro įstatymo 9 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
+
+Lietuvos Respublikos gyventojų registro įstatymo 7, 9, 11 straipsnių pakeitimo ir papildymo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1297, 2014-11-06, paskelbta TAR 2014-11-14, i. k. 2014-16874
+
+Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 pakeitimo įstatymas
 
 18 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
