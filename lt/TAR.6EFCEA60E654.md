@@ -4,7 +4,7 @@ identifier: "TAR.6EFCEA60E654"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-06-21"
-last_updated: "2014-06-12"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6EFCEA60E654"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS GEROS VALIOS KOMPENSACIJOS UŽ ŽYDŲ RELIGINIŲ
 
 BENDRUOMENIŲ NEKILNOJAMĄJĮ TURTĄ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2014-06-12 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2016-03-25
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 80-3897, i. k. 1111010ISTA0XI-1470
 
@@ -59,7 +59,11 @@ priima šį Geros valios kompensacijos už žydų religinių bendruomenių nekil
 
 2 straipsnis. Kompensacijos dydis, mokėjimo terminai ir tvarka
 
-1. Mokėtinos piniginės kompensacijos dydis – 128 milijonai litų.
+1. Mokėtinos piniginės kompensacijos dydis – 37 071 362,37 euro.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1246, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14872
 
 2. Kompensacija mokama iš valstybės biudžeto Lietuvos Respublikos Vyriausybės kompensacijomis disponuoti paskirtam fondui. Fondas – pelno nesiekiantis ribotos civilinės atsakomybės viešasis juridinis asmuo, kuris įsteigtas pagal šį ir Lietuvos Respublikos viešųjų įstaigų įstatymą. Pagrindiniai fondo veiklos tikslai – tenkinti viešuosius interesus vykdant švietimo, mokymo, religinę, taip pat mokslinę, kultūrinę, sveikatos priežiūros ir kitokią visuomenei naudingą veiklą.
 
@@ -83,7 +87,11 @@ Nr. XII-905, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07400
 
 8. Piniginė kompensacija, išskyrus šio straipsnio 9 dalyje numatytą sumą, pagal šį įstatymą pradedama mokėti nuo 2013 m. sausio 1 d. ir baigiama mokėti 2023 m. kovo 1 d. Piniginė kompensacija numatoma mokėti dalimis ir Seimo tvirtinama kiekvienų metų valstybės biudžete atsižvelgiant į valstybės finansines galimybes, ir išmokama iki kiekvienų metų kovo 1 d.
 
-9. Šio įstatymo 3 straipsnio 1 dalies 2 punkte nurodytai paskirčiai skiriama vienkartinė 3 milijonų litų suma. Ši suma yra šio straipsnio 1 dalyje nurodytos piniginės kompensacijos dalis. Ji išmokama šio straipsnio 2 dalyje nurodytam fondui 2012 metais, ne vėliau kaip per tris mėnesius nuo fondo paskyrimo.
+9. Šio įstatymo 3 straipsnio 1 dalies 2 punkte nurodytai paskirčiai skiriama vienkartinė 3 milijonų litų (868 860,06 euro) suma. Ši suma yra šio straipsnio 1 dalyje nurodytos piniginės kompensacijos dalis. Ji išmokama šio straipsnio 2 dalyje nurodytam fondui 2012 metais, ne vėliau kaip per tris mėnesius nuo fondo paskyrimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1246, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14872
 
 10. Pagal šio straipsnio 7 dalį valstybei priklausantis nekilnojamasis turtas šio straipsnio 2 dalyje nurodytam fondui gali būti perduodamas nuo 2012 m. sausio 1 d.
 
@@ -122,4 +130,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-905, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07400
 
 Lietuvos Respublikos geros valios kompensacijos už žydų religinių bendruomenių nekilnojamąjį turtą įstatymo Nr. XI-1470 2 ir 3 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1246, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14872
+
+Lietuvos Respublikos geros valios kompensacijos už žydų religinių bendruomenių nekilnojamąjį turtą įstatymo Nr. XI-1470 2 straipsnio pakeitimo įstatymas
 
