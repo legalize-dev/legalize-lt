@@ -4,7 +4,7 @@ identifier: "TAR.C7E57DF3CEC5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-07"
-last_updated: "2014-12-04"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2014-12-04 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-01-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
 
@@ -189,7 +189,11 @@ INVESTUOTOJŲ TEISĖS IR INVESTICIJŲ APSAUGA
 
 2. Atlyginimo už paimtą investavimo objektą dydis nustatomas Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymu ir kitais teisės aktais nustatyta tvarka ir turi atitikti jo rinkos vertę, buvusią prieš pat atlygintiną paėmimą arba prieš viešą paskelbimą apie tai, atsižvelgiant, kas pirmiau įvyksta (toliau – vertinimo dieną). Atlyginimas turi būti išmokamas ne vėliau kaip per 3 mėnesius nuo investavimo objekto atlygintino paėmimo dienos Lietuvos nacionaline valiuta. Į atlyginimo sumą įskaičiuojamos palūkanos, lygios Vyriausybės vertybinių popierių, kurių trukmė iki vienerių metų, aukcionų, įvykusių praėjusį kalendorinį ketvirtį, metinės palūkanų normos aritmetiniam svertiniam vidurkiui per laikotarpį nuo investavimo objekto atlygintino paėmimo iki atlyginimo išmokėjimo dienos (toliau vėlavimo laikotarpiui).
 
-3. Užsienio investuotojo prašymu atlyginimas jam išmokamas bet kuria užsienio valiuta, dėl kurios yra skelbiama Londono tarpbankinės rinkos skolinimosi palūkanų norma (LIBOR). Atlyginimo suma perskaičiuojama pagal Lietuvos banko skelbtą oficialų lito kursą užsienio valiutos atžvilgiu vertinimo dieną. Į atlyginimo sumą įskaičiuojamos palūkanos, lygios atlygintino paėmimo dieną skelbtai atitinkamos valiutos Londono tarpbankinės rinkos skolinimosi palūkanų normai (LIBOR), už laikotarpį, kurio trukmė artimiausia vėlavimo laikotarpiui. Atlyginimas be apribojimų gali būti pervedamas į užsienį.
+3. Užsienio investuotojo prašymu atlyginimas jam išmokamas bet kuria užsienio valiuta, dėl kurios yra skelbiama Londono tarpbankinės rinkos skolinimosi palūkanų norma (LIBOR). Atlyginimo suma perskaičiuojama pagal Europos centrinio banko skelbtą oficialų euro ir užsienio valiutų kursą vertinimo dieną, o tais atvejais, kai orientacinio euro ir užsienio valiutų santykio Europos centrinis bankas neskelbia, – pagal Lietuvos banko skelbiamą orientacinį euro ir užsienio valiutų santykį. Ūkiniai įvykiai ir ūkinės operacijos, kurių buvimas ir atlikimas ar rezultatų įforminimas Lietuvos Respublikos teisės aktų nustatyta tvarka susijęs su užsienio valiuta, apskaitoje perskaičiuojami į eurus pagal Lietuvos banko skelbiamą orientacinį euro ir užsienio valiutų santykį, jeigu kiti teisės aktai nenustato kitaip. Lietuvos banko paskelbtas orientacinis euro ir užsienio valiutų santykis apskaitoje taikomas nuo kitos darbo dienos po jo paskelbimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1261, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14858
 
 TREČIASIS SKIRSNIS
 
@@ -307,7 +311,7 @@ Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010IS
 
 5) dėl ne mažesnių kaip 200 mln. litų ir atitinkančių Lietuvos Respublikos Vyriausybės nustatytus kriterijus investicijų Vyriausybės ar jos įgaliotos institucijos iki 2001 m. rugsėjo 1 d. sudarytos su strateginiais investuotojais investicijų sutartys vykdomos pagal jose nustatytas specialias investavimo ir verslo sąlygas;
 
-6) dėl ne mažesnių kaip 5 mln. litų vertės privačių investicijų į investicijų projektą ir šio įstatymo 12 straipsnio 2 dalies 7 punkte nurodytų investicijų Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija Lietuvos Respublikos civilinio kodekso nustatyta tvarka sudaro su investuotojais investicijų sutartis, kuriose nustatomos specialios investavimo ir verslo sąlygos;
+6) dėl ne mažesnių kaip 1 448 100 eurų vertės privačių investicijų į investicijų projektą ir šio įstatymo 12 straipsnio 2 dalies 7 punkte nurodytų investicijų Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija Lietuvos Respublikos civilinio kodekso nustatyta tvarka sudaro su investuotojais investicijų sutartis, kuriose nustatomos specialios investavimo ir verslo sąlygos;
 
 Straipsnio punkto pakeitimai:
 
@@ -316,6 +320,8 @@ Nr. XI-1116, 2010-11-12, Žin., 2010, Nr. 139-7100 (2010-11-27), i. k. 1101010IS
 Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
 
 Nr. XII-852, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04863
+
+Nr. XII-1261, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14858
 
 7) investicijoms į savivaldybės infrastruktūrą, gamybos ar paslaugų sritį savivaldybė sudaro investicijų sutartis, atitinkančias savivaldybės tarybos nustatytus kriterijus. Specialios investavimo, verslo ar sklypo parinkimo sąlygos tokiose sutartyse nustatomos pagal savivaldybės kompetenciją;
 
@@ -507,6 +513,14 @@ Nr. XII-1359, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18646
 
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-2 straipsnio pakeitimo įstatymas
 
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1261, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14858
+
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 7, 13 ir 15-2 straipsnių pakeitimo įstatymas
+
 151 straipsnis. Valdžios ir privataus subjektų partnerystės sutarties samprata
 
 1. Pagal valdžios ir privataus subjektų partnerystės sutartį valdžios subjektas suteikia privačiam subjektui teisę vykdyti šio įstatymo 152 straipsnio 3 dalyje nustatytą veiklą, valdyti ir naudoti šiai veiklai vykdyti reikalingą valstybės arba savivaldybės turtą ir įsipareigoja mokėti privačiam subjektui atlyginimą už jo vykdomą veiklą, o privatus subjektas įsipareigoja vykdyti sutartyje nustatytą veiklą ir užtikrinti investicijas, kurių reikia šiai veiklai vykdyti ir jai vykdyti reikalingam turtui sukurti arba perduoto valdyti ir naudoti turto būklei pagerinti.
@@ -545,7 +559,11 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-2 straipsnio pakeit
 
 8. Viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo taisykles tvirtina Lietuvos Respublikos Vyriausybė.
 
-9. Sprendimą dėl valdžios ir privataus subjektų partnerystės, pagal kurią valstybė prisiima didesnius kaip 200 mln. litų turtinius įsipareigojimus (įskaitant galimą civilinę atsakomybę, atsirandančią pagal valdžios ir privataus subjektų partnerystės sutartį), priima Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės siūlymu.
+9. Sprendimą dėl valdžios ir privataus subjektų partnerystės, pagal kurią valstybė prisiima didesnius kaip 58 000 000 eurų turtinius įsipareigojimus (įskaitant galimą civilinę atsakomybę, atsirandančią pagal valdžios ir privataus subjektų partnerystės sutartį), priima Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės siūlymu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1261, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14858
 
 10. Lėšos, reikalingos valdžios ir privataus subjektų partnerystės investicijų projektams įgyvendinti, gavus valstybės arba savivaldybių biudžetų projektus rengiančių institucijų išvadas, planuojamos vadovaujantis valstybės ir savivaldybių biudžetų rengimą, tvirtinimą ir vykdymą reglamentuojančiais teisės aktais.
 
