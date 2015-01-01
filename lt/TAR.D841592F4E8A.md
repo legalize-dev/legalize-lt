@@ -4,7 +4,7 @@ identifier: "TAR.D841592F4E8A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-25"
-last_updated: "2005-07-14"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D841592F4E8A"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymas
 
-Suvestinė redakcija nuo 2005-07-14 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2023-03-30
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 114-2868, i. k. 0971010ISTAVIII-541
 
@@ -39,23 +39,25 @@ Vilnius
 
 2. Karių savanorių sąrašus šiai pensijai gauti Vyriausybei teikia Lietuvos gyventojų genocido ir rezistencijos tyrimo centras.
 
-3 straipsnis.         Valstybės parama kariams savanoriams, sužalotiems ginkluoto pasipriešinimo kovose, tardymo ar kalinimo metu
+3 straipsnis. Valstybės parama kariams savanoriams, sužalotiems ginkluoto pasipriešinimo kovose, tardymo ar kalinimo metu
 
-1. Ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams, sužalotiems ginkluoto pasipriešinimo kovose, tardymo ar kalinimo metu, išmokama 5600 Lt vienkartinė pašalpa.
+1. Ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams, sužalotiems ginkluoto pasipriešinimo kovose, tardymo ar kalinimo metu, išmokama 1 622 eurų dydžio vienkartinė pašalpa.
 
 2. Asmenims, kuriems iki 2005 m. liepos 1 d. buvo nustatytas invalidumas, susijęs su ginkluotu pasipriešinimu kovose, tardymu ar kalinimu, išmokama vienkartinė pašalpa:
 
-1) pripažintiems netekusiais 75–100 procentų darbingumo (iki 2005 m. liepos 1 d. – I grupės invalidais) – 14400 litų;
+1) pripažintiems netekusiais 75–100 procentų darbingumo (iki 2005 m. liepos 1 d. – I grupės invalidais) – 4 171 euras;
 
-2) pripažintiems netekusiais 60–70 procentų darbingumo (iki 2005 m. liepos 1 d. – II grupės invalidais) – 11520 litų;
+2) pripažintiems netekusiais 60–70 procentų darbingumo (iki 2005 m. liepos 1 d. – II grupės invalidais) – 3 337 eurai;
 
-3) pripažintiems netekusiais 45–55 procentų darbingumo (iki 2005 m. liepos 1 d. – III grupės invalidais) – 8640 litų.
+3) pripažintiems netekusiais 45–55 procentų darbingumo (iki 2005 m. liepos 1 d. – III grupės invalidais) – 2 503 eurai.
 
 3. Vienkartinės pašalpos išmokamos iš valstybės biudžeto. Pašalpas skiria ir moka šiame įstatyme nurodytų asmenų gyvenamosios vietos savivaldybės. Savivaldybėms skiriami 2 procentai nuo pašalpoms mokėti skirtų lėšų administravimo išlaidoms padengti. Vienkartinių pašalpų mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
 Straipsnio pakeitimai:
 
 Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+
+Nr. XII-1209, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14116
 
 4 straipsnis. Karių savanorių laidojimo tvarka
 
@@ -71,7 +73,7 @@ Vyriausybė iki 1998 m. vasario 1 d. parengia ir pateikia Seimui valstybės para
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -90,4 +92,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
 
 Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo, Įstatymo "Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)", Nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo, Įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių, kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1209, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14116
+
+Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo Nr. VIII-541 3 straipsnio pakeitimo įstatymas
 
