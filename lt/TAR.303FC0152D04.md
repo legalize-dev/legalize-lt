@@ -4,7 +4,7 @@ identifier: "TAR.303FC0152D04"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2014-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos reklamos įstatymas
 
-Suvestinė redakcija nuo 2014-07-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-10-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
 
@@ -423,13 +423,29 @@ ATSAKOMYBĖ UŽ šiame ĮSTATYME NUSTATYTŲ REIKALAVIMŲ PAŽEIDIMUS IR JOS TAIK
 
 24 straipsnis. Baudos
 
-1. Už šio įstatymo 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 16, 17 ir 18 straipsniuose nustatytų reikalavimų nesilaikymą reklaminės veiklos subjektams gali būti skiriama bauda nuo vieno tūkstančio iki trisdešimties tūkstančių litų. Tais atvejais, kai šio įstatymo 5 ar 6 straipsnyje nustatyti reikalavimai pažeidžiami pakartotinai per vienus metus nuo baudos paskyrimo, reklaminės veiklos subjektams gali būti skiriama didesnė, iki vieno šimto dvidešimties tūkstančių litų, bauda.
+1. Už šio įstatymo 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 16, 17 ir 18 straipsniuose nustatytų reikalavimų nesilaikymą reklaminės veiklos subjektams gali būti skiriama bauda nuo dviejų šimtų aštuoniasdešimt devynių iki aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų. Tais atvejais, kai šio įstatymo 5 ar 6 straipsnyje nustatyti reikalavimai pažeidžiami pakartotinai per vienus metus nuo baudos paskyrimo, reklaminės veiklos subjektams gali būti skiriama didesnė, iki trisdešimt keturių tūkstančių septynių šimtų penkiasdešimt keturių eurų, bauda.
 
-2. Už priežiūros institucijų laikino įpareigojimo sustabdyti reklamos skleidimą nevykdymą, įpareigojimo nutraukti šiame įstatyme nustatytų reikalavimų neatitinkančios reklamos naudojimą nevykdymą ar netinkamą jo vykdymą, už reklamos, kurios naudojimą reklaminės veiklos subjektas buvo įpareigotas nutraukti, pakartotinį naudojimą, jeigu tai pažeidžia šiame įstatyme nustatytus reikalavimus, arba Konkurencijos tarybos įpareigojimo paneigti klaidinančią ar neleidžiamą lyginamąją reklamą nevykdymą ar netinkamą jo vykdymą reklaminės veiklos subjektams skiriama vieno tūkstančio litų bauda už kiekvieną įpareigojimų nevykdymo, netinkamo vykdymo ar reklamos pakartotinio naudojimo dieną.
+Straipsnio dalies pakeitimai:
 
-3. Už priežiūros institucijų reikalavimo pateikti informaciją ir dokumentus, o prireikus – ir reklamuojamų prekių ir reklamos pavyzdžius, reikalingus šiame įstatyme nustatytų reikalavimų pažeidimui tirti, nevykdymą ar netinkamą jo vykdymą reklaminės veiklos subjektams skiriama bauda nuo vieno tūkstančio iki dešimties tūkstančių litų.
+Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
 
-4. Už šio įstatymo 12 straipsnio 1, 2, 4 ir 12 dalyse nustatytų reikalavimų nesilaikymą reklaminės veiklos subjektams gali būti skiriama bauda nuo vieno tūkstančio iki dešimties tūkstančių litų.
+2. Už priežiūros institucijų laikino įpareigojimo sustabdyti reklamos skleidimą nevykdymą, įpareigojimo nutraukti šiame įstatyme nustatytų reikalavimų neatitinkančios reklamos naudojimą nevykdymą ar netinkamą jo vykdymą, už reklamos, kurios naudojimą reklaminės veiklos subjektas buvo įpareigotas nutraukti, pakartotinį naudojimą, jeigu tai pažeidžia šiame įstatyme nustatytus reikalavimus, arba Konkurencijos tarybos įpareigojimo paneigti klaidinančią ar neleidžiamą lyginamąją reklamą nevykdymą ar netinkamą jo vykdymą reklaminės veiklos subjektams skiriama dviejų šimtų aštuoniasdešimt devynių eurų bauda už kiekvieną įpareigojimų nevykdymo, netinkamo vykdymo ar reklamos pakartotinio naudojimo dieną.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
+
+3. Už priežiūros institucijų reikalavimo pateikti informaciją ir dokumentus, o prireikus – ir reklamuojamų prekių ir reklamos pavyzdžius, reikalingus šiame įstatyme nustatytų reikalavimų pažeidimui tirti, nevykdymą ar netinkamą jo vykdymą reklaminės veiklos subjektams skiriama bauda nuo dviejų šimtų aštuoniasdešimt devynių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
+
+4. Už šio įstatymo 12 straipsnio 1, 2, 4 ir 12 dalyse nustatytų reikalavimų nesilaikymą reklaminės veiklos subjektams gali būti skiriama bauda nuo dviejų šimtų aštuoniasdešimt devynių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
 
 5. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudos vidurkį ir atsižvelgiant į šio straipsnio 7 ir 8 dalyse nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą.
 
@@ -630,4 +646,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-577, 2013-11-07, Žin., 2013, Nr. 120-6049 (2013-11-23), i. k. 1131010ISTA0XII-577
 
 Lietuvos Respublikos reklamos įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
+
+Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas
 
