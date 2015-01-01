@@ -4,7 +4,7 @@ identifier: "TAR.1FD5C3A4D10A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-10-14"
-last_updated: "2014-10-04"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Suvestinė redakcija nuo 2014-10-04 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-04-21
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 102-4585, i. k. 1031010ISTA0IX-1768
 
@@ -47,7 +47,11 @@ INSPEKTAVIMO TVARKA
 
 121 straipsnis. Nuobaudų ir kitų apribojimų taikymas
 
-1. Darbdaviams – juridiniams asmenims, leidusiems dirbti nelegaliai trečiosios šalies piliečiams, skiriama nuo 3 tūkstančių iki 10 tūkstančių litų bauda už kiekvieną nelegaliai dirbusį trečiosios šalies pilietį. Tokie patys veiksmai, padaryti už šį pažeidimą bausto juridinio asmens per metus nuo tos dienos, kurią pasibaigė paskirtos baudos įvykdymo terminas, užtraukia baudą juridiniam asmeniui už kiekvieną trečiosios šalies pilietį nuo 10 tūkstančių iki 20 tūkstančių litų.
+1. Darbdaviams – juridiniams asmenims, leidusiems dirbti nelegaliai trečiosios šalies piliečiams, skiriama nuo 868 iki 2 896 eurų bauda už kiekvieną nelegaliai dirbusį trečiosios šalies pilietį. Tokie patys veiksmai, padaryti už šį pažeidimą bausto juridinio asmens per metus nuo tos dienos, kurią pasibaigė paskirtos baudos įvykdymo terminas, užtraukia baudą juridiniam asmeniui už kiekvieną trečiosios šalies pilietį nuo 2 896 iki 5 792 eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1144, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13456
 
 2. Šio straipsnio 1 dalyje numatyta bauda skiriama, jeigu padaryta veika neužtraukia baudžiamosios atsakomybės.
 
