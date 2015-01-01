@@ -4,7 +4,7 @@ identifier: "TAR.5F9F5C944DB1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-16"
-last_updated: "2014-10-04"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5F9F5C944DB1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas
 
-Suvestinė redakcija nuo 2014-10-04 iki 2015-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 102-2921, i. k. 0991010ISTAIII-1422
 
@@ -69,7 +69,15 @@ BENDROSIOS NUOSTATOS
 
 4. Pavėluotas mokėjimas – mokėjimas praleidus teisės aktuose ar žemės ūkio produkcijos pirkimo–pardavimo sutartyje nustatytą terminą atsiskaityti už gautą žemės ūkio produkciją, kai šios produkcijos pardavėjas įvykdė įstatymuose ir (arba) sutartyje jam nustatytas pareigas ir laiku negavo už patiektą žemės ūkio produkciją mokėtinos pinigų sumos, išskyrus atvejus, kai žemės ūkio produkcijos pirkėjas nėra atsakingas už vėlavimą susimokėti.
 
-5. Pavėluoto mokėjimo palūkanų norma – Lietuvos banko nustatyta vienos nakties atpirkimo sandorių atpirkimo palūkanų norma, padidinta 8 procentiniais punktais.
+5. Pavėluoto mokėjimo palūkanų norma – 8 procentiniais punktais padidinta vėliausiai pagrindinei Europos centrinio banko refinansavimo operacijai taikoma:
+
+1) fiksuotoji palūkanų norma, jeigu vėliausia pagrindinė Europos centrinio banko refinansavimo operacija buvo vykdoma fiksuotųjų palūkanų konkurso būdu arba
+
+2) ribinė palūkanų norma, jeigu vėliausia pagrindinė Europos centrinio banko refinansavimo operacija buvo vykdoma kintamųjų palūkanų konkurso būdu
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
 
 6. Perkamos–parduodamos žemės ūkio produkcijos kiekis – žemės ūkio produkcijos pirkimo–pardavimo sutartyje ir (arba) jos prieduose (išankstiniuose užsakymuose ir (arba) tiekimo grafikuose) šalių susitarimu nustatytas perkamos–parduodamos žemės ūkio produkcijos kiekis, išreikštas matavimo vienetais (kilogramais, tonomis, litrais) ar skaičiuojamais vienetais (dėžėmis, pakuotėmis, buteliais, stiklainiais, indeliais ir kt.).
 
@@ -235,7 +243,11 @@ Nr. IX-2394, 2004-07-15, Žin., 2004, Nr. 124-4489 (2004-08-07), i. k. 1041010IS
 
 4) jeigu įstatymuose arba žemės ūkio produkcijos pirkimo–pardavimo sutartyje yra nustatyta šios produkcijos priėmimo ir (arba) patikrinimo dėl žemės ūkio produkcijos atitikties šios sutarties sąlygoms procedūra ir jeigu žemės ūkio produkcijos pirkėjas gauna PVM sąskaitą faktūrą, sąskaitą faktūrą arba lygiavertį mokėjimo reikalavimo dokumentą šios produkcijos priėmimo ir (arba) patikrinimo dieną arba anksčiau, – praėjus 30 kalendorinių dienų nuo žemės ūkio produkcijos priėmimo ir (arba) patikrinimo dienos.
 
-4. Žemės ūkio produkcijos pardavėjas, pagal šio įstatymo 11 straipsnį turintis teisę į pavėluoto mokėjimo palūkanas, taip pat turi teisę be atskiro įspėjimo gauti iš žemės ūkio produkcijos pirkėjo 40 eurų (šalims susitarus dėl mokėjimo šia valiuta) arba lygiavertę sumą litais, apskaičiuotą pagal teisės į pavėluoto mokėjimo palūkanas atsiradimo metu Lietuvos banko skelbiamą oficialų lito ir euro santykį, išieškojimo išlaidoms kompensuoti.
+4. Žemės ūkio produkcijos pardavėjas, pagal šio įstatymo 11 straipsnį turintis teisę į pavėluoto mokėjimo palūkanas, taip pat turi teisę be atskiro įspėjimo gauti iš žemės ūkio produkcijos pirkėjo 40 eurų išieškojimo išlaidoms kompensuoti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
 
 5. Be šio straipsnio 4 dalyje nustatytos sumos, žemės ūkio produkcijos pardavėjas turi teisę reikalauti iš žemės ūkio produkcijos pirkėjo kompensuoti visas šią sumą viršijančias žemės ūkio produkcijos pardavėjo patirtas su pavėluotu mokėjimu susijusias išieškojimo išlaidas, įskaitant užmokestį už teisines paslaugas, ir išlaidas, susijusias su nuostolių išieškojimu ne teismo tvarka.
 
@@ -273,9 +285,13 @@ ATSISKAITYMO UŽ ŽEMĖS ŪKIO PRODUKCIJĄ KONTROLĖ IR INFORMACIJOS TEIKIMAS
 
 2. Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka informaciją apie atsiskaitymo už žemės ūkio produkciją būklę teritorinėms valstybinėms mokesčių inspekcijoms kas mėnesį privalo teikti žemės ūkio produkcijos, kuriai Vyriausybė nustato atsiskaitymo terminus, pirkėjai:
 
-1) prekybos įmonės, kurių pajamos per paskutinius ataskaitinius metus yra 10 milijonų litų arba daugiau;
+1) prekybos įmonės, kurių pajamos per paskutinius ataskaitinius metus yra 2,9 milijono eurų arba daugiau;
 
-2) žemės ūkio produktų perdirbimo įmonės, kiti ūkio ir viešieji subjektai, superkantys žemės ūkio produktus apdoroti, apdirbti, perdirbti, naudoti savo ūkio reikmėms ar maitinimo poreikiams tenkinti ir (arba) parduoti ir kurių pajamos per paskutinius ataskaitinius metus yra 3 milijonai litų arba daugiau.
+2) žemės ūkio produktų perdirbimo įmonės, kiti ūkio ir viešieji subjektai, superkantys žemės ūkio produktus apdoroti, apdirbti, perdirbti, naudoti savo ūkio reikmėms ar maitinimo poreikiams tenkinti ir (arba) parduoti ir kurių pajamos per paskutinius ataskaitinius metus yra 0,87 milijono eurų arba daugiau.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
 
 3. Savivaldybės vykdomosios institucijos arba jų įgalioti asmenys turi teisę tikrinti, ar žemės ūkio produkcijos pirkėjai, laikydamiesi įstatymų ir kitų teisės aktų reikalavimų, sudaro rašytines žemės ūkio produkcijos pirkimo–pardavimo sutartis, apskaičiuoja pavėluoto mokėjimo palūkanas ir atsiskaito su žemės ūkio produkcijos pardavėjais, taip pat teikti siūlymus Vyriausybei dėl priemonių atsiskaitymo už žemės ūkio produkciją būklei gerinti.
 
