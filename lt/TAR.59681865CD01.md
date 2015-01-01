@@ -4,7 +4,7 @@ identifier: "TAR.59681865CD01"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-21"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.59681865CD01"
 department: "Lietuvos Respublikos Seimas"
@@ -17,6 +17,10 @@ entry_into_force_conditions: "3 str. 2 dalis įsigalioja 2011-12-31"
 # Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS ŽEMĖS MOKESČIO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Suvestinė redakcija nuo 2015-01-01 iki 2016-12-06
+
+Įstatymas paskelbtas: Žin. 2011, Nr. 163-7743, i. k. 1111010ISTA0XI-1829
 
 LIETUVOS RESPUBLIKOS
 
