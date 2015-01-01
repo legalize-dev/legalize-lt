@@ -4,7 +4,7 @@ identifier: "TAR.424F7C72601E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-06-28"
-last_updated: "2011-10-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.424F7C72601E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,6 +18,10 @@ eu_legal_act: "true"
 # Lietuvos Respublikos branduolinės saugos įstatymas
 
 LIETUVOS RESPUBLIKOS BRANDUOLINĖS SAUGOS ĮSTATYMAS
+
+Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+
+Įstatymas paskelbtas: Žin. 2011, Nr. 91-4316; Žin. 2011, Nr.109-0; Žin. 2011, Nr.118-0, i. k. 1111010ISTA0XI-1539
 
 LIETUVOS RESPUBLIKOS
 
@@ -805,11 +809,15 @@ Asmenys, nesilaikantys, nevykdantys ar pažeidę šį įstatymą ir kitus brandu
 
 47 straipsnis. Baudos
 
-1. Juridiniam asmeniui, kuris nesilaiko šiame įstatyme ir kituose teisės aktuose nustatytų branduolinės saugos, radiacinės saugos vykdant branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, fizinės saugos reikalavimų ir dėl to yra ar gali būti pažeidžiami saugos barjerai ir (arba) į aplinką išmetamų radionuklidų aktyvumas viršija nustatytas normas, ir (arba) darbuotojų apšvitos dozės viršija nustatytas normas, taip pat kuris nesilaiko reikalavimų, atsirandančių dėl Lietuvos Respublikos prisiimtų tarptautinių branduolinio ginklo neplatinimo įsipareigojimų, ir tai yra susiję su dideliais branduolinių medžiagų kiekiais, apibrėžtais TATENA, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 0,75 procento iki 3 procentų bendrųjų metinių pajamų, gaunamų iš atitinkamos licencijuojamos veiklos. Jeigu 3 procentai juridinio asmens bendrųjų metinių pajamų, gaunamų iš licencijuojamos veiklos, yra mažiau negu 500 000 (penki šimtai tūkstančių) litų arba tokios veiklos mastą apskaičiuoti yra sunku arba neįmanoma, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 125 000 (šimto dvidešimt penkių tūkstančių) iki 500 000 (penkių šimtų tūkstančių) litų.
+1. Juridiniam asmeniui, kuris nesilaiko šiame įstatyme ir kituose teisės aktuose nustatytų branduolinės saugos, radiacinės saugos vykdant branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, fizinės saugos reikalavimų ir dėl to yra ar gali būti pažeidžiami saugos barjerai ir (arba) į aplinką išmetamų radionuklidų aktyvumas viršija nustatytas normas, ir (arba) darbuotojų apšvitos dozės viršija nustatytas normas, taip pat kuris nesilaiko reikalavimų, atsirandančių dėl Lietuvos Respublikos prisiimtų tarptautinių branduolinio ginklo neplatinimo įsipareigojimų, ir tai yra susiję su dideliais branduolinių medžiagų kiekiais, apibrėžtais TATENA, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 0,75 procento iki 3 procentų bendrųjų metinių pajamų, gaunamų iš atitinkamos licencijuojamos veiklos. Jeigu 3 procentai juridinio asmens bendrųjų metinių pajamų, gaunamų iš licencijuojamos veiklos, yra mažiau negu 144 810 (vienas šimtas keturiasdešimt keturi tūkstančiai aštuoni šimtai dešimt) eurų arba tokios veiklos mastą apskaičiuoti yra sunku arba neįmanoma, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 36 202 (trisdešimt šešių tūkstančių dviejų šimtų dviejų) iki 144 810 (vieno šimto keturiasdešimt keturių tūkstančių aštuonių šimtų dešimties) eurų.
 
-2. Juridiniam asmeniui, padariusiam pakartotinį šio straipsnio 1 dalyje nurodytą pažeidimą, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 1,25 procento iki 5 procentų bendrųjų metinių pajamų, gaunamų iš atitinkamos licencijuojamos veiklos. Jeigu 5 procentai juridinio asmens bendrųjų metinių pajamų, gaunamų iš licencijuojamos veiklos, yra mažiau negu 1 000 000 (vienas milijonas) litų arba tokios veiklos mastą apskaičiuoti sunku arba neįmanoma, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 250 000 (dviejų šimtų penkiasdešimt tūkstančių) iki 1 000 000 (vieno milijono) litų.
+2. Juridiniam asmeniui, padariusiam pakartotinį šio straipsnio 1 dalyje nurodytą pažeidimą, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 1,25 procento iki 5 procentų bendrųjų metinių pajamų, gaunamų iš atitinkamos licencijuojamos veiklos. Jeigu 5 procentai juridinio asmens bendrųjų metinių pajamų, gaunamų iš licencijuojamos veiklos, yra mažiau negu 289 620 (du šimtai aštuoniasdešimt devyni tūkstančiai šeši šimtai dvidešimt) eurų arba tokios veiklos mastą apskaičiuoti sunku arba neįmanoma, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 72 405 (septyniasdešimt dviejų tūkstančių keturių šimtų penkių) iki 289 620 (dviejų šimtų aštuoniasdešimt devynių tūkstančių šešių šimtų dvidešimties) eurų.
 
-3. Juridiniam asmeniui kartu su šio straipsnio 1 ir 2 dalyse nustatytomis baudomis gali būti teikiami privalomi vykdyti nurodymai, nustatyti šio įstatymo 6 straipsnio 2 dalyje.
+3. Juridiniam asmeniui kartu su šio straipsnio 1 ir 2 dalyse nustatytomis baudomis gali būti teikiami privalomi vykdyti nurodymai, nustatyti šio įstatymo 6 straipsnio 2 dalyje.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1175, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13572
 
 48 straipsnis. Baudų skyrimo ir vykdymo tvarka
 
@@ -951,217 +959,13 @@ branduolinės saugos įstatymo
 
 _________________
 
-341 straipsnis. Branduolinių ir radiologinių avarijų padarinių apribojimas
+Pakeitimai:
 
-1. Licencijos turėtojas turi užtikrinti, kad branduolinės energetikos objekte būtų išvengta branduolinių ir radiologinių avarijų, kurios nulemtų tokius radionuklidų išmetimus į aplinką, kuriems įvykus:
+1.
 
-1) nebūtų spėta pritaikyti sveikatos apsaugos ministro tvirtinamuose teisės aktuose nustatytų gyventojų apsaugomųjų veiksmų;
+Lietuvos Respublikos Seimas, Įstatymas
 
-2) sveikatos apsaugos ministro tvirtinamuose teisės aktuose nustatyti gyventojų apsaugomieji veiksmai būtų taikomi didelėje teritorijoje ir (arba) labai ilgai.
+Nr. XII-1175, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13572
 
-2. Valstybinė atominės energetikos saugos inspekcija, tvirtindama teisės aktus, reglamentuojančius branduolinės energetikos objektų statybos vietos (aikštelės) vertinimą, branduolinės energetikos objektų statybą, projektavimą, pripažinimą tinkamais eksploatuoti, eksploatavimą ir eksploatavimo nutraukimą, nustato šio straipsnio 1 dalyje nurodyto tikslo įgyvendinimo kriterijus ir šio tikslo įgyvendinimo būdų techninius reikalavimus. Tvirtindama šiuos teisės aktus, Valstybinė atominės energetikos saugos inspekcija turi atsižvelgti į Europos branduolinės saugos reguliavimo institucijų grupės, Vakarų Europos šalių branduolinės saugos reguliavimo institucijų asociacijos paskelbtus leidinius ir TATENA nustatytus saugos reikalavimus.
-
-3. Šio straipsnio 1 dalyje nurodytas tikslas turi būti pasiektas:
-
-1) kituose negu radioaktyviųjų atliekų atliekynai branduolinės energetikos objektuose, kuriems šio įstatymo 22 straipsnio 1 dalies 1 arba 2 punkte nustatyta licencija yra išduota po 2014 m. rugpjūčio 14 d.;
-
-2) radioaktyviųjų atliekų atliekynuose, kuriems paraiška šio įstatymo 22 straipsnio 1 dalies 1 arba 2 punkte nustatytai licencijai gauti pateikta po 2017 m. rugpjūčio 14 d.
-
-4. Kitiems negu šio straipsnio 3 dalyje nurodytiems branduolinės energetikos objektams šio straipsnio 1 dalyje nurodytas tikslas turi būti taikomas analizuojant ir gerinant branduolinės, radiacinės ir fizinės saugos būklę ir atliekant periodinę saugos analizę ir pagrindimą.
-
-Papildyta straipsniu:
-
-Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
-
-391 straipsnis. Visuomenės dalyvavimas priimant sprendimus branduolinės energetikos srityje
-
-1. Visuomenė, kuri šiame straipsnyje suprantama kaip vienas arba daugiau fizinių ir (arba) juridinių asmenų, jų asociacijos, organizacijos arba grupės, turi teisę šiame straipsnyje nurodyta tvarka dalyvauti priimant šiuos sprendimus branduolinės energetikos srityje:
-
-1) sprendimus dėl branduolinės energetikos objektų statybos vietos (aikštelės) vertinimo ataskaitos suderinimo;
-
-2) sprendimus dėl šio įstatymo 22 straipsnio 1 dalies 1–5 punktuose nurodytų licencijų išdavimo;
-
-3) sprendimus dėl leidimų, nurodytų šio įstatymo 22 straipsnio 2 dalies 1 punkte, išdavimo šio įstatymo 22 straipsnio 1 dalies 3 punkte nurodytų licencijų turėtojams;
-
-4) sprendimus dėl leidimų, nurodytų šio įstatymo 22 straipsnio 2 dalies 2 punkte, išdavimo šio įstatymo 22 straipsnio 1 dalies 3 punkte nurodytų licencijų turėtojams.
-
-2. Dėl kitų Valstybinės atominės energetikos saugos inspekcijos ir kitų institucijų ar įstaigų sprendimų, priimamų vadovaujantis šiuo įstatymu, Branduolinės energijos įstatymu ir Radioaktyviųjų atliekų tvarkymo įstatymu, visuomenė turi teisę gauti informaciją vadovaudamasi kitais valstybės institucijų informacijos teikimą reglamentuojančiais teisės aktais, tačiau teikiant informaciją dėl tokių sprendimų mutatis mutandis taikomi šio straipsnio 10 ir 11 dalyse nurodyti apribojimai.
-
-3. Visuomenės dalyvavimo priimant sprendimus branduolinės energetikos srityje procesą sudaro:
-
-1) informacijos teikimas visuomenei apie šio straipsnio 1 dalyje nurodytų procesų pradžią;
-
-2) visuomenės susipažinimas su šio straipsnio 1 dalyje nurodytiems sprendimams priimti reikalingais dokumentais;
-
-3) visuomenės susipažinimas su šio straipsnio 1 dalyje nurodytų sprendimų projektais;
-
-4) visuomenės komentarų, informacijos, analizių arba nuomonių (toliau – pasiūlymai) teikimas dėl šios dalies 2 punkte nurodytų dokumentų ir 3 punkte nurodytų sprendimų projektų;
-
-5) šio straipsnio 1 dalyje nurodytiems sprendimams priimti reikalingų dokumentų arba šio straipsnio 1 dalyje nurodytų sprendimų galutinių projektų viešas svarstymas.
-
-4. Visuomenė turi teisę susipažinti su šio straipsnio 1 dalyje nurodytiems sprendimams priimti reikalingais dokumentais, išskyrus dokumentus ir juose esančią informaciją, kuriuos teikti draudžia įstatymai, ir pateikti pasiūlymus ūkio subjektui per vieną mėnesį po informacijos pateikimo visuomenei apie šio straipsnio 1 dalyje nurodytų procesų pradžią, o tais atvejais, kai dokumentai, reikalingi šio straipsnio 1 dalyje nurodytiems sprendimams priimti, pateikiami vėliau negu šio straipsnio 1 dalyje nurodytų procesų pradžioje, dėl šių dokumentų pateikti pasiūlymus ūkio subjektui per vieną mėnesį po informacijos apie dokumentų pateikimą Valstybinei atominės energetikos saugos inspekcijai paskelbimo. Šį supažindinimą organizuoja ūkio subjektas šio straipsnio 9 dalyje nurodyta tvarka. Savivaldybės, kurios teritorijoje planuojama vykdyti su šio straipsnio 1 dalyje nurodytais sprendimais susijusi veikla, institucija ūkio subjektui jo prašymu neatlygintinai suteikia patalpas, reikalingas ūkio subjektui įgyvendinti visuomenės supažindinimo su šioje dalyje nurodytais dokumentais pareigą.
-
-5. Valstybinė atominės energetikos saugos inspekcija viešai informuoja apie tai, kad yra parengtas sprendimo, nurodyto šio straipsnio 1 dalyje, projektas ir leidžia su šiuo projektu ir dokumentais, pateiktais sprendimui priimti, susipažinti ir raštu pateikti dėl jo pasiūlymus ne vėliau negu likus:
-
-1) 3 mėnesiams iki šio straipsnio 1 dalies 1 punkte nurodytiems sprendimams priimti šio įstatymo 32 straipsnio 15 dalyje nustatyto termino pabaigos;
-
-2) 5 mėnesiams iki sprendimams dėl šio įstatymo 22 straipsnio 1 dalies 1, 2, 3 ir 4 punktuose nurodytų licencijų priimti šio įstatymo 25 straipsnio 16 dalyje nustatyto termino pabaigos;
-
-3) 5 mėnesiams iki sprendimui dėl šio įstatymo 22 straipsnio 1 dalies 5 punkte nurodytos licencijos priimti šio įstatymo 25 straipsnio 17 dalyje nustatyto termino pabaigos;
-
-4) 2 mėnesiams iki šio straipsnio 1 dalies 3 ir 4 punktuose nurodytiems sprendimams priimti, kai dėl jų kreipiasi šio įstatymo 22 straipsnio 1 dalies 3 punkte nurodytos licencijos turėtojas, šio įstatymo 26 straipsnio 7 dalyje nustatyto termino pabaigos.
-
-6. Visuomenė turi teisę susipažinti su sprendimo projektu ir raštu pateikti pasiūlymus Valstybinei atominės energetikos saugos inspekcijai:
-
-1) dėl šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų sprendimų projektų – per 2 mėnesius nuo šio straipsnio 5 dalyje nurodyto informavimo;
-
-2) dėl šio straipsnio 1 dalies 3 ir 4 punktuose nurodytų sprendimų projektų – per vieną mėnesį nuo šio straipsnio 5 dalyje nurodyto informavimo.
-
-7. Visi visuomenės pateikti pasiūlymai turi būti įvertinti. Informaciją dėl to, kaip yra įvertinti pasiūlymai, kartu nurodant ir argumentus, jeigu į pasiūlymus nebuvo atsižvelgta arba atsižvelgta iš dalies, ūkio subjektas visuomenės atstovams, pateikusiems pasiūlymus ūkio subjektui, pateikia raštu, o Valstybinė atominės energetikos saugos inspekcija paskelbia kartu su galutiniu sprendimu.
-
-8. Šio straipsnio 1 dalyje nurodytiems sprendimams priimti reikalingų dokumentų ir šio straipsnio 1 dalyje nurodytų sprendimų galutinių projektų viešas svarstymas nėra privalomas. Viešas svarstymas gali būti organizuojamas ūkio subjekto (dėl šio straipsnio 1 dalyje nurodytiems sprendimams priimti reikalingų dokumentų) ar Valstybinės atominės energetikos saugos inspekcijos (dėl šio straipsnio 1 dalyje nurodytų sprendimų galutinių projektų) iniciatyva, kai yra daug pasiūlymų, siekiant suteikti visuomenei galimybę efektyviau ir operatyviau susipažinti su informacija, susijusia su šio straipsnio 1 dalyje nurodytais sprendimais. Viešo svarstymo metu pristatomas šioje dalyje nurodytų dokumentų turinys, aptariami gauti pasiūlymai, paaiškinama, kodėl ir į kokius pasiūlymus bus neatsižvelgiama, išklausomi papildomi pasiūlymai. Viešas svarstymas organizuojamas jį inicijavusio subjekto lėšomis.
-
-9. Visuomenės dalyvavimo priimant sprendimus branduolinės energetikos srityje procedūrų organizavimo tvarką nustato Valstybinė atominės energetikos saugos inspekcija.
-
-10. Visuomenei jos dalyvavimo priimant sprendimus branduolinės energetikos srityje proceso metu neteikiama informacija, kurios teikimui netaikomos Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo nuostatos, išskyrus:
-
-1) informaciją, sudarančią komercinę paslaptį, jeigu ši informacija yra susijusi su radionuklidų išmetimu į aplinką, turinčiu įtakos aplinkos apsaugai;
-
-2) asmens vardą, pavardę ir pareigas tais atvejais, kai paraiškos dokumentuose ši informacija pateikiama nurodant, kas pasirašė, vizavo ar suderino teikiamą dokumentą, ir kai vardas, pavardė ir pareigos nurodomi teikiant informaciją apie paskyrimą vykdyti funkcijas, kai dėl tokio paskyrimo būtina informuoti Valstybinę atominės energetikos saugos inspekciją vadovaujantis jos teisės aktais.
-
-11. Prašymas suteikti informaciją visuomenės dalyvavimo priimant sprendimus branduolinės energetikos srityje priėmimo proceso metu nenagrinėjamas ir apie nenagrinėjimo priežastis prašymo teikėjas informuojamas Viešojo administravimo įstatyme nurodytais atvejais ir jeigu:
-
-1) Valstybinė atominės energetikos saugos inspekcija ar kitos institucijos, ar įstaigos, dalyvaujančios priimant šio straipsnio 1 dalyje nurodytus sprendimus, neturi prašomos informacijos;
-
-2) prašymas yra susijęs su rengiama (negalutine) informacija, išskyrus informaciją, nurodytą šio straipsnio 3 dalies 3 punkte.
-
-Papildyta straipsniu:
-
-Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
-
-221 straipsnis. Sertifikatai
-
-1. Vykdydama branduolinio kuro ciklo medžiagų, šio įstatymo 1 priede nurodytų branduolinių ir daliųjų medžiagų nustatytais kiekiais vežimo priežiūrą, Valstybinė atominės energetikos saugos inspekcija išduoda šiuos sertifikatus:
-
-1) radioaktyviųjų medžiagų vežimo patvirtinimo sertifikatą;
-
-2) radioaktyviosios medžiagos konstrukcijos patvirtinimo sertifikatą;
-
-3) pakuotės konstrukcijos patvirtinimo sertifikatą;
-
-4) kitos valstybės kompetentingos institucijos išduoto radioaktyviųjų medžiagų vežimo patvirtinimo ir (ar) pakuotės konstrukcijos patvirtinimo sertifikato pripažinimo sertifikatą.
-
-2. Pakuotės konstrukcijos patvirtinimui ir radioaktyviųjų medžiagų vežimo patvirtinimui pareiškėjo prašymu gali būti išduodamas vienas pakuotės konstrukcijos ir radioaktyviųjų medžiagų vežimo patvirtinimo sertifikatas.
-
-3. Reikalavimai, nustatyti branduolinio kuro ciklo medžiagų, šio įstatymo 1 priede nurodytų branduolinių ir daliųjų medžiagų nustatytais kiekiais vežimui, įskaitant šių medžiagų vežimą pagal specialųjį susitarimą, šių medžiagų konstrukcijai, pakuočių konstrukcijai nustatyti Europos sutarties dėl pavojingų krovinių tarptautinių vežimų keliais (ADR) A ir B techniniuose prieduose, Tarptautiniame pavojingų krovinių vežimo jūra kodekse (IMDG kodekse), Tarptautinio vežimo geležinkeliais sutarties (COTIF) C priedėlio „Pavojingų krovinių tarptautinio vežimo geležinkeliais taisyklės (RID)“ priede, Tarptautinio krovinių vežimo geležinkeliais susitarimo (SMGS) 2 priede „Pavojingų krovinių vežimo taisyklės“ (toliau – vežimo tarptautinės sutartys).
-
-4. Jeigu radioaktyviųjų medžiagų siuntėjas (turėtojas) siekia vežti radioaktyviąsias medžiagas ir šis vežimas netaikant tarptautinėse sutartyse nurodytoms saugos priemonėms alternatyvių ir (ar) papildomų saugos priemonių neatitiktų vežimo tarptautinių sutarčių reikalavimų, toks vežimas gali būti vykdomas tik tuo atveju, jeigu Valstybinė atominės energetikos saugos inspekcija išduoda sertifikatą, nurodytą šio straipsnio 1 dalies 1 punkte arba 2 dalyje, sertifikate nustatydama alternatyvias ir (ar) papildomas saugos priemones (vežimas pagal specialųjį susitarimą).
-
-5. Šio straipsnio 1 dalies 1 punkte nurodytas sertifikatas reikalingas siekiant:
-
-1) išvežti iš Lietuvos Respublikos teritorijos ar vežti Lietuvos Respublikos teritorijoje branduolinio kuro ciklo medžiagas, šio įstatymo 1 priede nurodytas branduolines ir daliąsias medžiagas nustatytais kiekiais (taip, kaip jos apibrėžiamos vežimo tarptautinėse sutartyse ir kurioms vežti pagal vežimo tarptautines sutartis reikalingi vežimo patvirtinimo sertifikatai);
-
-2) išvežti iš Lietuvos Respublikos teritorijos ar vežti Lietuvos Respublikos teritorijoje branduolinio kuro ciklo medžiagas, šio įstatymo 1 priede nurodytas branduolines ir daliąsias medžiagas nustatytais kiekiais pagal specialųjį susitarimą, kai vežimo tarptautinėse sutartyse nustatyta, kad tokiam vežimui reikalingi vežimo patvirtinimo sertifikatai.
-
-6. Šio straipsnio 1 dalies 1 punkte ir 2 dalyje nurodyti sertifikatai, būtini vežimo tarptautinėse sutartyse nustatytais atvejais, išduodami branduolinio kuro ciklo medžiagų, šio įstatymo 1 priede nurodytų branduolinių ir daliųjų medžiagų nustatytais kiekiais siuntėjui (turėtojui).
-
-7. Šio straipsnio 1 dalies 2 punkte nurodyti sertifikatai reikalingi siekiant patvirtinti šias branduolinio kuro ciklo medžiagų, šio įstatymo 1 priede nurodytų branduolinių ir daliųjų medžiagų nustatytais kiekiais konstrukcijas:
-
-1) mažo dispersiškumo radioaktyviųjų medžiagų konstrukciją (taip, kaip ji apibrėžiama vežimo tarptautinėse sutartyse);
-
-2) specialiosios formos radioaktyviųjų medžiagų konstrukciją (taip, kaip ji apibrėžiama vežimo tarptautinėse sutartyse).
-
-8. Šio straipsnio 1 dalies 2 punkte nurodyti sertifikatai išduodami radioaktyviosios medžiagos konstrukcijos projektuotojams ir (ar) gamintojams, jeigu šios konstrukcijos kilmės šalis yra Lietuvos Respublika.
-
-9. Šio straipsnio 1 dalies 3 punkte nurodyti sertifikatai reikalingi siekiant patvirtinti šias pakuočių konstrukcijas:
-
-1) daliųjų medžiagų pakuotės;
-
-2) pakuotės, kuriose yra 0,1 kg arba daugiau urano heksafluorido;
-
-3) B(U) tipo pakuotės;
-
-4) B(M) tipo pakuotės;
-
-5) C tipo pakuotės.
-
-10. Šio straipsnio 1 dalies 3 punkte nurodyti sertifikatai išduodami konstrukcijos projektuotojams ir (ar) gamintojams, jeigu šios konstrukcijos kilmės šalis yra Lietuvos Respublika.
-
-11. Šio straipsnio 1 dalies 4 punkte nurodyti sertifikatai išduodami kitų valstybių kompetentingų institucijų išduotų sertifikatų turėtojams tais atvejais, kai pagal vežimo tarptautines sutartis būtinas daugiašalis branduolinio kuro ciklo medžiagų, šio įstatymo 1 priede nurodytų branduolinių ir daliųjų medžiagų nustatytais kiekiais vežimo patvirtinimas ir (ar) daugiašalis pakuotės konstrukcijos patvirtinimas įvežti į Lietuvos Respublikos teritoriją ar vežti tranzitu Lietuvos Respublikos teritorijoje branduolinio kuro ciklo medžiagas, šio įstatymo 1 priede nurodytas branduolines ir daliąsias medžiagas nustatytais kiekiais (taip, kaip jos apibrėžiamos vežimo tarptautinėse sutartyse).
-
-12. Šio straipsnio 1 dalies 1, 2 ir 3 punktuose ir 2 dalyje nurodyti sertifikatai išduodami 5 metų laikotarpiui.
-
-13. Šio straipsnio 1 dalies 4 punkte nurodyti sertifikatai išduodami laikotarpiui, kuris nurodytas kitos valstybės kompetentingos institucijos išduotame radioaktyviųjų medžiagų vežimo patvirtinimo ir (ar) pakuotės konstrukcijos sertifikate, kurį jo turėtojas prašo pripažinti, pateikdamas paraišką.
-
-Papildyta straipsniu:
-
-Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
-
-241 straipsnis. Paraiška gauti sertifikatą
-
-1. Dokumentai ir reikalavimai dokumentams, teikiamiems sertifikatams, nurodytiems šio įstatymo 221 straipsnio 1 ir 2 dalyse, gauti nustatomi Valstybinės atominės energetikos saugos inspekcijos viršininko tvirtinamose branduolinio kuro ciklo, branduolinių ir daliųjų medžiagų vežimo sertifikatų išdavimo taisyklėse (toliau – sertifikatų išdavimo taisyklės).
-
-2. Su paraiška gauti šio įstatymo 221 straipsnio 1 dalies 4 punkte nurodytą sertifikatą pateikiamas kitos valstybės kompetentingos institucijos išduotas radioaktyviųjų medžiagų vežimo patvirtinimo ir (ar) pakuotės konstrukcijos patvirtinimo sertifikatas ir kvalifikuoto vertėjo parašu bei vertimą atlikusios įstaigos arba notaro antspaudu patvirtintas šio sertifikato ir visų pridedamų dokumentų vertimas į lietuvių kalbą.
-
-3. Už paraiškoje ir kartu su ja pateikiamuose dokumentuose pateiktos informacijos teisingumą atsako pareiškėjas.
-
-Papildyta straipsniu:
-
-Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
-
-261 straipsnis. Sertifikatų išdavimas, įspėjimas dėl galiojimo sustabdymo, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas
-
-1. Sertifikatas išduodamas tik kai Valstybinė atominės energetikos saugos inspekcija įsitikina, kad konstrukcija ir (ar) veikla, kuriai būtinas sertifikatas, atitinka vežimo tarptautinių sutarčių nuostatas.
-
-2. Valstybinės atominės energetikos saugos inspekcija priima sprendimą neišduoti šio įstatymo 221 straipsnio 1 dalies 1, 2 ir 3 punktuose ir 2 dalyje nurodytų sertifikatų, kai:
-
-1) konstrukcija ir (ar) veikla, kuriai reikalingas sertifikatas, neatitinka vežimo tarptautinių sutarčių reikalavimų;
-
-2) pateikti ne visi sertifikatų išdavimo taisyklėse nurodyti dokumentai, kurių reikia sertifikatui gauti, pateikti dokumentai neatitinka sertifikatų išdavimo taisyklėse nustatytų reikalavimų, pateikta neišsami ar netiksli informacija ir (ar) nebuvo pašalinti trūkumai pareiškėją įspėjus šio straipsnio 12 dalyje nustatyta tvarka.
-
-3. Valstybinės atominės energetikos saugos inspekcija priima sprendimą neišduoti šio įstatymo 221 straipsnio 1 dalies 4 punkte nurodyto sertifikato, kai:
-
-1) pateikti ne visi sertifikatų išdavimo taisyklėse nurodyti dokumentai, kurių reikia sertifikatui gauti, pateikti dokumentai neatitinka sertifikatų išdavimo taisyklėse nustatytų reikalavimų, pateikta neišsami ar netiksli informacija ir (ar) trūkumai nebuvo pašalinti pareiškėją įspėjus šio straipsnio 12 dalyje nustatyta tvarka;
-
-2) negalioja kitos valstybės kompetentingos institucijos išduotas radioaktyviųjų medžiagų vežimo patvirtinimo ir (ar) pakuotės konstrukcijos patvirtinimo sertifikatas ir šis trūkumas nebuvo pašalintas pareiškėją įspėjus šio straipsnio 12 dalyje nustatyta tvarka.
-
-4. Sprendimas dėl šio įstatymo 221 straipsnio 1 dalies 1 ir 2 punktuose nurodytų sertifikatų išdavimo priimamas ir sertifikatas išduodamas arba pateikiamas motyvuotas atsisakymas išduoti sertifikatą per 60 dienų nuo visų tinkamai įformintų dokumentų gavimo dienos.
-
-5. Sprendimas dėl šio įstatymo 221 straipsnio 1 dalies 3 punkte nurodyto sertifikato išdavimo priimamas ir sertifikatas išduodamas arba pateikiamas motyvuotas atsisakymas išduoti sertifikatą per 90 dienų nuo visų tinkamai įformintų dokumentų gavimo dienos.
-
-6. Sprendimas dėl šio įstatymo 221 straipsnio 1 dalies 4 punkte nurodyto sertifikato išdavimo priimamas ir sertifikatas išduodamas arba pateikiamas motyvuotas atsisakymas išduoti sertifikatą per 30 dienų nuo visų tinkamai įformintų dokumentų gavimo dienos.
-
-7. Sprendimas dėl šio įstatymo 221 straipsnio 2 dalyje nurodyto sertifikato išdavimo priimamas ir sertifikatas išduodamas arba pateikiamas motyvuotas atsisakymas išduoti sertifikatą per 90 dienų nuo visų tinkamai įformintų dokumentų gavimo dienos.
-
-8. Terminai, nurodyti šio straipsnio 4–7 dalyse, likus ne mažiau kaip 5 darbo dienoms iki jų pabaigos, vieną kartą gali būti pratęsti, jeigu reikia kreiptis į kitas Lietuvos Respublikos ar kitų valstybių institucijas ar įstaigas dėl informacijos, bet ne ilgiau kaip iki 30 dienų terminui, raštu pranešant pareiškėjui apie termino pratęsimą ir nurodant priežastis, dėl kurių terminas buvo pratęstas.
-
-9. Jeigu pareiškėjas negauna atsakymo dėl sprendimo išduoti sertifikatą per nustatytą terminą, nėra laikoma, kad sertifikatas išduotas.
-
-10. Už sertifikato išdavimą mokama valstybės rinkliava.
-
-11. Valstybinės atominės energetikos saugos inspekcija įspėja sertifikato turėtoją apie sertifikato galiojimo sustabdymą nustačiusi, kad:
-
-1) paraiškoje ir (ar) kituose pateiktuose dokumentuose buvo pateikti klaidingi duomenys;
-
-2) nustatoma, kad pažeidžiami šio įstatymo 221 straipsnio 3 dalyje nurodyti reikalavimai arba 4 dalyje nurodytos alternatyvios ir (ar) papildomos saugos priemonės.
-
-12. Įspėjime apie sertifikato galiojimo sustabdymą nurodomi nustatyti trūkumai, nurodyti šio straipsnio 11 dalyje, sertifikato galiojimo sustabdymo data ir nustatomas protingas terminas, per kurį šie trūkumai turi būti pašalinti, kuris negali būti trumpesnis kaip 3 mėnesiai. Sertifikato turėtojas, pašalinęs trūkumus, dėl kurių buvo įspėtas, pateikia Valstybinei atominės energetikos saugos inspekcijai tai patvirtinančius dokumentus.
-
-13. Valstybinė atominės energetikos saugos inspekcija sertifikato galiojimą sustabdo, jeigu per šio straipsnio 12 dalyje nurodytą terminą nustatyti trūkumai nepašalinami. Sprendime sustabdyti sertifikato galiojimą nurodomi nustatyti trūkumai, sertifikato galiojimo sustabdymo data ir nustatomas protingas terminas, per kurį turi būti pašalinti nurodyti trūkumai, kuris negali būti trumpesnis kaip 90 dienų.
-
-14. Sertifikato turėtojas, pašalinęs trūkumus, dėl kurių buvo sustabdytas sertifikato galiojimas, pateikia Valstybinei atominės energetikos saugos inspekcijai tai patvirtinančius dokumentus. Valstybinė atominės energetikos saugos inspekcija priima sprendimą dėl sertifikato galiojimo sustabdymo panaikinimo tik įsitikinusi, kad trūkumai yra pašalinti. Valstybinė atominės energetikos saugos inspekcija priima sprendimą dėl sertifikato galiojimo sustabdymo panaikinimo ne vėliau kaip per 10 darbo dienų nuo prašymo gavimo dienos.
-
-15. Valstybinė atominės energetikos saugos inspekcija nepasibaigus sertifikato galiojimo laikotarpiui sertifikato galiojimą panaikina, jeigu:
-
-1) per šio straipsnio 13 dalyje nurodytą terminą nėra pašalinami trūkumai;
-
-2) sertifikato turėtojas, kurio sertifikato galiojimas sustabdytas, vykdo sertifikate nurodytą veiklą ir (ar) naudoja radioaktyviųjų medžiagų konstrukciją ar pakuotės konstrukciją;
-
-3) sertifikato turėtojas kreipiasi dėl sertifikato galiojimo panaikinimo.
-
-16. Sustabdžius ar panaikinus sertifikato galiojimą, veikla, kuriai vykdyti išduotas sertifikatas, negali būti vykdoma, radioaktyviosios medžiagos ir (ar) pakuotės konstrukcija negali būti naudojama.
-
-Papildyta straipsniu:
-
-Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
+Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 47 straipsnio pakeitimo įstatymas
 
