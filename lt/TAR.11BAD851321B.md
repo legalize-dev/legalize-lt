@@ -4,7 +4,7 @@ identifier: "TAR.11BAD851321B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-15"
-last_updated: "2012-12-20"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.11BAD851321B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymo 14 straipsnio nuostatos įsigalioja 2004
 ---
 # Lietuvos Respublikos mėgėjų žvejybos įstatymas
 
-Suvestinė redakcija nuo 2012-12-20 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2019-03-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 118-4395, i. k. 1041010ISTA0IX-2389
 
@@ -281,29 +281,45 @@ TEISĖS Į MĖGĖJŲ ŽVEJYBĄ SUTEIKIMAS. ŽUVŲ IŠTEKLIŲ APSAUGA. ASMENŲ, U
 
 2. Už mėgėjų žvejybos leidimą žvejoti valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žvejybos plotą, mokama:
 
-1) dviem paroms – 5 litai;
+1) dviem paroms – 1 euras 40 euro centų;
 
-2) mėnesiui – 20 litų;
+2) mėnesiui – 5 eurai;
 
-3) metams – 50 litų.
+3) metams – 14 eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1198, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14125
 
 3. Už mėgėjų žvejybos leidimą žvejoti privačiame žuvininkystės vandens telkinyje arba valstybiniame žuvininkystės vandens telkinyje, į kurį neišduotas leidimas naudoti žvejybos plotą ir organizuota limituota žvejyba, mokama:
 
-1) parai – 10 litų;
+1) parai – 2 eurai 50 euro centų;
 
-2) savaitei – 30 litų;
+2) savaitei – 8 eurai;
 
-3) mėnesiui – 50 litų.
+3) mėnesiui – 14 eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1198, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14125
 
 4. Už mėgėjų žvejybos leidimą žvejoti valstybiniame žuvininkystės vandens telkinyje, į kurį išduotas leidimas naudoti žvejybos plotą, mokama:
 
-1) dviem paroms – 5 litai;
+1) dviem paroms – 1 euras 40 euro centų;
 
-2) mėnesiui – 20 litų;
+2) mėnesiui – 5 eurai;
 
-3) metams – 50 litų.
+3) metams – 14 eurų.
 
-5. Už mėgėjų žvejybos leidimą žvejoti vieną parą privačiame žuvininkystės vandens telkinyje, kuriame organizuota limituota žvejyba, arba valstybiniame žuvininkystės vandens telkinyje, į kurį išduotas leidimas naudoti žvejybos plotą ir organizuota limituota žvejyba, mokama 50 litų.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1198, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14125
+
+5. Už mėgėjų žvejybos leidimą žvejoti vieną parą privačiame žuvininkystės vandens telkinyje, kuriame organizuota limituota žvejyba, arba valstybiniame žuvininkystės vandens telkinyje, į kurį išduotas leidimas naudoti žvejybos plotą ir organizuota limituota žvejyba, mokama 14 eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1198, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14125
 
 6. Už mėgėjų žvejybos leidimą mokama:
 
@@ -398,6 +414,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-28, 2012-12-04, Žin., 2012, Nr. 143-7379 (2012-12-11), i. k. 1121010ISTA00XII-28
 
 Lietuvos Respublikos mėgėjiškos žūklės įstatymo pakeitimo įstatymo 1 ir 4 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1198, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14125
+
+Lietuvos Respublikos mėgėjų žvejybos įstatymo Nr. IX-2389 11 straipsnio pakeitimo įstatymas
 
 15 straipsnis. Įstatymo įsigaliojimas
 
