@@ -4,7 +4,7 @@ identifier: "TAR.06C50B65B6B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-21"
-last_updated: "2005-10-27"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.06C50B65B6B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymas
 
-Suvestinė redakcija nuo 2005-10-27 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2228, i. k. 1021010ISTA00IX-895
 
@@ -162,11 +162,13 @@ Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010IST
 
 4 straipsnis. Ne teismo tvarka atlyginamos žalos dydžio nustatymas
 
-1. Asmeniui, kuriam žala atsirado dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo (Lietuvos Respublikos civilinio kodekso 6.272 straipsnio 1 dalis), taip pat asmeniui, dėl kurio tarptautinė institucija yra priėmusi sprendimą dėl žalos atlyginimo (kompensacijos išmokėjimo), tačiau nėra nustačiusi piniginės kompensacijos dydžio, ne teismo tvarka atlyginama reali turtinė žala, t. y. turto netekimas arba sužalojimas, turėtos išlaidos, negautos pajamos (negautas darbo užmokestis ar kitos darbinės pajamos atskaičius mokesčius ir privalomojo valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokas; pašalpos; pensijos), kurias asmuo būtų gavęs, jeigu nebūtų buvę neteisėtų veiksmų, taip pat neturtinė žala, apskaičiuota šio straipsnio nustatyta tvarka. Ne teismo tvarka atlyginamos turtinės žalos dydis negali viršyti 10 000 litų, o neturtinės žalos dydis negali viršyti 5000 litų. Teisingumo ministerija, atlygindama žalą dėl negauto darbo užmokesčio, sumoka privalomojo valstybinio socialinio draudimo įmokas (mokamas darbdavio ir darbuotojo) į Valstybinio socialinio draudimo fondo biudžetą už laikotarpį, per kurį asmuo negavo darbo užmokesčio dėl neteisėtų veiksmų. Privalomojo valstybinio socialinio draudimo įmokos neįskaičiuojamos į asmeniui atlyginamos turtinės žalos sumą.
+1. Asmeniui, kuriam žala atsirado dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo (Lietuvos Respublikos civilinio kodekso 6.272 straipsnio 1 dalis), taip pat asmeniui, dėl kurio tarptautinė institucija yra priėmusi sprendimą dėl žalos atlyginimo (kompensacijos išmokėjimo), tačiau nėra nustačiusi piniginės kompensacijos dydžio, ne teismo tvarka atlyginama reali turtinė žala, t. y. turto netekimas arba sužalojimas, turėtos išlaidos, negautos pajamos (negautas darbo užmokestis ar kitos darbinės pajamos atskaičius mokesčius ir privalomojo valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokas; pašalpos; pensijos), kurias asmuo būtų gavęs, jeigu nebūtų buvę neteisėtų veiksmų, taip pat neturtinė žala, apskaičiuota šio straipsnio nustatyta tvarka. Ne teismo tvarka atlyginamos turtinės žalos dydis negali viršyti 2 900 eurų, o neturtinės žalos dydis negali viršyti 1 500 eurų. Teisingumo ministerija, atlygindama žalą dėl negauto darbo užmokesčio, sumoka privalomojo valstybinio socialinio draudimo įmokas (mokamas darbdavio ir darbuotojo) į Valstybinio socialinio draudimo fondo biudžetą už laikotarpį, per kurį asmuo negavo darbo užmokesčio dėl neteisėtų veiksmų. Privalomojo valstybinio socialinio draudimo įmokos neįskaičiuojamos į asmeniui atlyginamos turtinės žalos sumą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010ISTA0IX-2092
+
+Nr. XII-1257, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14861
 
 2. Asmeniui, dirbusiam pagal darbo sutartį, žalos dydis už neteisėto kalinimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo ar neteisėtos administracinės nuobaudos – arešto laiką apskaičiuojamas pagal vidutinį darbo užmokestį, kuris apskaičiuojamas Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
@@ -275,6 +277,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
 
 Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo įstatymo pakeitimo ir papildymo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1257, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14861
+
+Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei įstatymo Nr. IX-895 4 straipsnio pakeitimo įstatymas
 
 51 straipsnis. Atstovavimas valstybei
 
