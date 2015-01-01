@@ -4,7 +4,7 @@ identifier: "TAR.AD44354DA25E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-10-19"
-last_updated: "2012-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AD44354DA25E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos augalų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2012-07-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2017-10-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 90-2013, i. k. 0951010ISTA00I-1069
 
@@ -218,6 +218,12 @@ AUGALŲ APSAUGOS PRODUKTŲ NAUDOJIMAS, VISUOMENĖS INFORMAVIMAS
 
 3. Parengtas augalų apsaugos plano projektas, taip pat jo pakeitimo projektai skelbiami Žemės ūkio ministerijos interneto svetainėje. Visuomenė ir suinteresuotos institucijos turi teisę teikti pastabas ir pasiūlymus rengiant ar keičiant augalų apsaugos planą žemės ūkio ministro nustatyta tvarka.
 
+4. Viešoji įstaiga Lietuvos žemės ūkio konsultavimo tarnyba (toliau – Konsultavimo tarnyba) dalyvauja įgyvendinant augalų apsaugos planą, atlieka žemės ūkio augalų ligų ir kenkėjų plitimo stebėseną ir prognozuoja žemės ūkio augalų ligų ir kenkėjų plitimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-980, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10010
+
 9 straipsnis. Augalų apsaugos produktų naudojimas
 
 1. Žemės ūkio ministras, suderinęs su aplinkos ministru ir sveikatos apsaugos ministru, tvirtina Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisykles. Specialiąsias žemės naudojimo sąlygas augalų apsaugos produktų saugojimo vietoms tvirtina Vyriausybė.
@@ -337,6 +343,12 @@ TAR pastaba. 12 straipsnio 5 dalies 5 punktas įsigalioja 2013-01-01.
 3. Sveikatos apsaugos ministerijos Ekstremalių sveikatai situacijų centras kaupia, analizuoja informaciją apie apsinuodijimų augalų apsaugos produktais atvejus, jų priežastis ir padarinius sveikatos apsaugos ministro nustatyta tvarka.
 
 4. Augalų apsaugos produktų profesionalieji naudotojai privalo informuoti visuomenę apie augalų apsaugos produktais apdorotas rekreacinės paskirties želdynų teritorijas Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisyklėse nustatyta tvarka.
+
+5. Konsultavimo tarnyba Žemės ūkio ministerijos nustatyta tvarka teikia informaciją žemės ūkio veiklos subjektams, kitiems fiziniams ir juridiniams asmenims žemės ūkio augalų ligų ir kenkėjų plitimo stebėsenos ir prognozavimo klausimais, tvarko duomenis, susijusius su žemės ūkio augalų ligų ir kenkėjų plitimo stebėsena ir prognozavimu. Šie duomenys yra vieši.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-980, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10010
 
 KETVIRTASIS SKIRSNIS
 
@@ -479,6 +491,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2021, 2012-05-22, Žin., 2012, Nr. 63-3162 (2012-06-05), i. k. 1121010ISTA0XI-2021
 
 Lietuvos Respublikos augalų apsaugos įstatymo pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-980, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10010
+
+Lietuvos Respublikos augalų apsaugos įstatymo Nr. I-1069 8 ir 14 straipsnių pakeitimo įstatymas
 
 19 straipsnis. Konsultavimo komisija
 
