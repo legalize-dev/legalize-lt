@@ -4,7 +4,7 @@ identifier: "TAR.0EC89509170B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-21"
-last_updated: "2014-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0EC89509170B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2014-07-01
+Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 20-449, i. k. 0951010ISTA000I-798
 
@@ -244,6 +244,12 @@ Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 3. Bendrija laikoma įsteigta ir įgyja juridinio asmens teises nuo įregistravimo Juridinių asmenų registre dienos.
 
 4. Pakeisti bendrijos įstatai turi būti perregistruoti Juridinių asmenų registre. Bendrijos įstatai perregistruojami, kai Juridinių asmenų registro tvarkytojui pateikiamas prašymas ir visuotinio susirinkimo (įgaliotinių susirinkimo) protokolas dėl bendrijos įstatų keitimo. Pakeisti bendrijos įstatai įsigalioja nuo jų perregistravimo Juridinių asmenų registre dienos.
+
+5. Juridinių asmenų registro tvarkytojas apie bendrijos įregistravimą, išregistravimą ar bendrijos įstatų perregistravimą praneša Nekilnojamojo turto registro tvarkytojui. Šio pranešimo pagrindu Nekilnojamojo turto registro nuostatuose nustatyta tvarka Nekilnojamojo turto registre padaroma ar panaikinama žyma apie pastato (pastatų) bendrojo naudojimo objektų valdymo formą – įsteigtą bendriją. Žymos apie bendrojo naudojimo objektų valdymo formą – įsteigtą bendriją Nekilnojamojo turto registre pranešimo pagrindu daromos, jeigu pranešime nurodyto pastato (pastatų) registro įraše nėra padaryta žymų apie kitas įsteigtas bendrijas ir kitas bendrojo naudojimo objektų valdymo formas – sudarytą jungtinės veiklos sutartį ar paskirtą administratorių.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 
 TREČIASIS SKIRSNIS
 
