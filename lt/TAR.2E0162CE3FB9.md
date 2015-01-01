@@ -4,7 +4,7 @@ identifier: "TAR.2E0162CE3FB9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-12-22"
-last_updated: "2010-04-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E0162CE3FB9"
 department: "Lietuvos Respublikos Seimas"
@@ -19,6 +19,10 @@ entry_into_force_conditions: "15 straipsnio 2 dalis įsigalioja 2010 m. sausio 5
 LIETUVOS RESPUBLIKOS MAŽMENINĖS PREKYBOS ĮMONIŲ NESĄŽININGŲ VEIKSMŲ
 
 DRAUDIMO ĮSTATYMAS
+
+Suvestinė redakcija nuo 2015-01-01 iki 2016-04-30
+
+Įstatymas paskelbtas: Žin. 2010, Nr. 1-31, i. k. 1091010ISTA00XI-626
 
 LIETUVOS RESPUBLIKOS MAŽMENINĖS PREKYBOS ĮMONIŲ NESĄŽININGŲ VEIKSMŲ DRAUDIMO ĮSTATYMAS
 
@@ -44,7 +48,11 @@ BENDROSIOS NUOSTATOS
 
 1) iš visų Lietuvos Respublikoje jo (jų) valdomų parduotuvių bent 20 parduotuvių yra ne mažesnio kaip 400 m2 prekybos ploto;
 
-2) bendrosios jo (jų) pajamos paskutiniais finansiniais metais yra ne mažesnės kaip 400 milijonų litų. Jeigu mažmeninės prekybos įmonė yra užsienio valstybės ūkio subjektas, bendrosios pajamos skaičiuojamos kaip Lietuvos Respublikoje gautų pajamų suma.
+2) bendrosios jo (jų) pajamos paskutiniais finansiniais metais yra ne mažesnės kaip vienas šimtas penkiolika milijonų aštuoni šimtai keturiasdešimt aštuoni tūkstančiai aštuoni eurai. Jeigu mažmeninės prekybos įmonė yra užsienio valstybės ūkio subjektas, bendrosios pajamos skaičiuojamos kaip Lietuvos Respublikoje gautų pajamų suma.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1187, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14287
 
 2. Susiję ūkio subjektai – du ar daugiau ūkio subjektų, kurie dėl savitarpio kontrolės ar priklausomybės ir galimų suderintų veiksmų yra laikomi vienu vienetu. Jeigu neįrodoma priešingai, laikoma, kad susiję ūkio subjektai yra kiekvienas nagrinėjamas ūkio subjektas ir:
 
@@ -176,13 +184,29 @@ Konkurencijos tarybos įgalioti pareigūnai, atlikdami tyrimus dėl šio įstaty
 
 11 straipsnis. Baudos
 
-1. Už šio įstatymo 3 straipsnio 1 dalyje nurodytus draudžiamus nesąžiningus veiksmus mažmeninės prekybos įmonėms skiriama piniginė bauda iki keturių šimtų tūkstančių litų.
+1. Už šio įstatymo 3 straipsnio 1 dalyje nurodytus draudžiamus nesąžiningus veiksmus mažmeninės prekybos įmonėms skiriama piniginė bauda iki vieno šimto penkiolikos tūkstančių aštuonių šimtų keturiasdešimt aštuonių eurų.
 
-2. Už informacijos, reikalingos tyrimui atlikti, nepateikimą, taip pat neteisingos ar ne visos informacijos pateikimą mažmeninės prekybos įmonėms, tiekėjams ar kitiems asmenims skiriama piniginė bauda iki trisdešimties tūkstančių litų.
+Straipsnio dalies pakeitimai:
 
-3. Už Konkurencijos tarybos nurodymų pateikti informaciją vykdymą ne laiku mažmeninės prekybos įmonėms, tiekėjams ar kitiems asmenims skiriama vieno tūkstančio litų bauda už kiekvieną nevykdymo dieną.
+Nr. XII-1187, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14287
 
-4. Už Konkurencijos tarybos įpareigojimų nutraukti draudžiamus nesąžiningus veiksmus, atlikti veiksmus, atkursiančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, nevykdymą arba vykdymą ne laiku mažmeninės prekybos įmonėms skiriama vieno tūkstančio litų bauda už kiekvieną pažeidimo vykdymo (tęsimo) dieną.
+2. Už informacijos, reikalingos tyrimui atlikti, nepateikimą, taip pat neteisingos ar ne visos informacijos pateikimą mažmeninės prekybos įmonėms, tiekėjams ar kitiems asmenims skiriama piniginė bauda iki aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1187, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14287
+
+3. Už Konkurencijos tarybos nurodymų pateikti informaciją vykdymą ne laiku mažmeninės prekybos įmonėms, tiekėjams ar kitiems asmenims skiriama dviejų šimtų aštuoniasdešimt devynių eurų bauda už kiekvieną nevykdymo dieną.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1187, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14287
+
+4. Už Konkurencijos tarybos įpareigojimų nutraukti draudžiamus nesąžiningus veiksmus, atlikti veiksmus, atkursiančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, nevykdymą arba vykdymą ne laiku mažmeninės prekybos įmonėms skiriama dviejų šimtų aštuoniasdešimt devynių eurų bauda už kiekvieną pažeidimo vykdymo (tęsimo) dieną.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1187, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14287
 
 5. Skiriamos baudos dydis priklauso nuo pažeidimo pobūdžio, pažeidimo trukmės ir masto, atsakomybę lengvinančių ir sunkinančių aplinkybių.
 
@@ -224,71 +248,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
 
-91 straipsnis. Pažeidimo tyrimo išskyrimas (sujungimas), pabaiga, atnaujinimas
+Pakeitimai:
 
-1. Siekdama pažeidimo tyrimo operatyvumo ir ekonomiškumo, Konkurencijos taryba turi teisę priimti nutarimą pažeidimo tyrimą išskirti į atskirus pažeidimų tyrimus ar sujungti atskirus pažeidimų tyrimus į vieną.
+1.
 
-2. Pažeidimo tyrimas laikomas baigtu, kai Konkurencijos taryba patvirtina įgaliotų pareigūnų atlikto pažeidimo tyrimo išvadas. Tokiu atveju atliekami veiksmai, nustatyti šio įstatymo 10 straipsnyje.
+Lietuvos Respublikos Seimas, Įstatymas
 
-3. Konkurencijos taryba priima nutarimą pažeidimo tyrimą nutraukti, jeigu:
+Nr. XII-1187, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14287
 
-1) pažeidimo tyrimo metu paaiškėja, kad teisės pažeidimo nėra;
-
-2) pažeidimo tyrimo metu paaiškėja arba atsiranda šio įstatymo 8 straipsnio 2 dalyje nurodytos aplinkybės.
-
-4. Jeigu paaiškėja naujų aplinkybių, Konkurencijos taryba turi teisę priimti nutarimą nutrauktą pažeidimo tyrimą atnaujinti.
-
-Papildyta straipsniu:
-
-Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
-
-92 straipsnis. Pranešimas apie pažeidimo tyrimo išvadas
-
-Baigus pažeidimo tyrimą, proceso dalyviams ne vėliau kaip prieš 21 dieną iki bylos nagrinėjimo Konkurencijos tarybos posėdyje dienos registruotu laišku pateikiamos pažeidimo tyrimo išvados, pranešama apie bylos nagrinėjimo vietą ir laiką, nurodoma bylos nagrinėjimo tvarka (žodinis arba rašytinis procesas) ir pasiūloma ne vėliau kaip prieš 7 dienas iki bylos nagrinėjimo Konkurencijos tarybos posėdyje dienos raštu pateikti savo paaiškinimus dėl pažeidimo tyrimo išvadų.
-
-Papildyta straipsniu:
-
-Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
-
-93 straipsnis. Laikinosios priemonės
-
-1. Neatidėliotinais atvejais, jeigu yra pakankamai duomenų apie šio įstatymo pažeidimą, siekdama išvengti esminės žalos ar nepataisomų pasekmių ūkio subjektų ar visuomenės interesams ir laikydamasi proporcingumo principo, Konkurencijos taryba turi teisę priimti nutarimą taikyti laikinąsias priemones.
-
-2. Šio straipsnio 1 dalyje nurodytais atvejais mažmeninės prekybos įmonei, įtariamai padarius šio įstatymo pažeidimą, Konkurencijos taryba turi teisę taikyti šias laikinąsias priemones:
-
-1) įpareigoti mažmeninės prekybos įmonę nutraukti galimai neteisėtą veiklą;
-
-2) įpareigoti mažmeninės prekybos įmonę atlikti tam tikrus veiksmus, jeigu jų neatlikimas padarytų kitiems ūkio subjektams ar visuomenės interesams esminę žalą ar atsirastų nepataisomų pasekmių.
-
-3. Prieš priimdama nutarimą taikyti laikinąsias priemones, Konkurencijos taryba mažmeninės prekybos įmonei, įtariamai pažeidus šį įstatymą, turi suteikti galimybę per nustatytą ne trumpesnį kaip 7 darbo dienų terminą pateikti paaiškinimus.
-
-4. Konkurencijos tarybos nutarimu laikinosios priemonės gali būti taikomos ne ilgesnį kaip 12 mėnesių laikotarpį; Konkurencijos tarybos nutarimu šis laikotarpis dar gali būti pratęstas. Jeigu yra būtina, laikinosios priemonės taikomos tol, kol Konkurencijos taryba priims galutinį nutarimą dėl pažeidimo.
-
-5. Konkurencijos tarybos nutarimas taikyti laikinąsias priemones gali būti skundžiamas Vilniaus apygardos administraciniam teismui per 10 kalendorinių dienų nuo jo įteikimo dienos. Skundo padavimas laikinųjų priemonių taikymo nesustabdo. Skundas turi būti išnagrinėtas ir sprendimas dėl jo priimtas per 45 kalendorines dienas nuo skundo gavimo dienos. Vilniaus apygardos administracinio teismo sprendimas gali būti skundžiamas Lietuvos vyriausiajam administraciniam teismui per 7 kalendorines dienas nuo sprendimo paskelbimo Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Lietuvos vyriausiasis administracinis teismas apeliacinį skundą dėl Vilniaus apygardos administracinio teismo sprendimo turi išnagrinėti ir sprendimą dėl jo priimti per 45 kalendorines dienas nuo bylos gavimo teisme dienos.
-
-Papildyta straipsniu:
-
-Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
-
-94 straipsnis. Teismo leidimų įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją gavimo tvarka
-
-1. Konkurencijos tarybai priėmus nutarimą dėl tyrimo veiksmų, numatytų šio įstatymo 9 straipsnio 1 dalies 9 punkte, Konkurencijos tarybos įgaliotas pareigūnas pateikia Vilniaus apygardos administraciniam teismui prašymą dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją.
-
-2. Prašyme dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją turi būti nurodytas mažmeninės prekybos įmonės pavadinimas, įtariamų pažeidimų pobūdis ir numatomi tyrimo veiksmai.
-
-3. Prašymą dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją išdavimo išnagrinėja Vilniaus apygardos administracinis teismas ir priima motyvuotą nutartį prašymą dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją patenkinti visiškai, patenkinti iš dalies arba atmesti.
-
-4. Prašymas dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją pateikimo momento.
-
-5. Konkurencijos taryba turi teisę Vilniaus apygardos administracinio teismo nutartį, kuria prašymas dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją atmestas arba patenkintas iš dalies, per 7 dienas nuo teismo nutarties paskelbimo dienos apskųsti Lietuvos vyriausiajam administraciniam teismui.
-
-6. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7 dienas nuo šio skundo gavimo dienos. Konkurencijos tarybos atstovas turi teisę dalyvauti nagrinėjant skundą žodinio proceso tvarka.
-
-7. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama.
-
-8. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
-
-Papildyta straipsniu:
-
-Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
+Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 2 ir 11 straipsnių pakeitimo įstatymas
 
