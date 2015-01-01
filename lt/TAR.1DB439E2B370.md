@@ -4,7 +4,7 @@ identifier: "TAR.1DB439E2B370"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-06-19"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1DB439E2B370"
 department: "Lietuvos Respublikos Seimas"
@@ -19,6 +19,18 @@ eu_legal_act: "true"
 # Lietuvos Respublikos garantinio fondo įstatymo pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS GARANTINIO FONDO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Įstatymas netenka galios 2017-01-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2604, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23708
+
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
+
+Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+
+Įstatymas paskelbtas: Žin. 2012, Nr. 78-4017, i. k. 1121010ISTA0XI-2079
 
 LIETUVOS RESPUBLIKOS
 
