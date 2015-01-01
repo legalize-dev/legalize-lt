@@ -4,7 +4,7 @@ identifier: "TAR.B8B6AFC2BFF1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-03-23"
-last_updated: "2014-01-08"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2014-01-08 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
 
@@ -165,7 +165,11 @@ KONCENTRACIJOS PRIEŽIŪRA
 
 8 straipsnis. Pranešimas apie koncentraciją
 
-1. Apie numatomą įvykdyti koncentraciją privaloma pranešti Konkurencijos tarybai ir gauti leidimą, jeigu koncentracijoje dalyvaujančių ūkio subjektų suminės bendrosios pajamos paskutiniais prieš koncentraciją ūkiniais metais yra didesnės negu penkiasdešimt milijonų litų ir jeigu kiekvieno mažiausiai iš dviejų koncentracijoje dalyvaujančių ūkio subjektų bendrosios pajamos paskutiniais prieš koncentraciją ūkiniais metais yra didesnės negu penki milijonai litų.
+1. Apie numatomą įvykdyti koncentraciją privaloma pranešti Konkurencijos tarybai ir gauti leidimą, jeigu koncentracijoje dalyvaujančių ūkio subjektų suminės bendrosios pajamos paskutiniais prieš koncentraciją ūkiniais metais yra didesnės negu keturiolika milijonų penki šimtai tūkstančių eurų ir jeigu kiekvieno mažiausiai iš dviejų koncentracijoje dalyvaujančių ūkio subjektų bendrosios pajamos paskutiniais prieš koncentraciją ūkiniais metais yra didesnės negu vienas milijonas keturi šimtai penkiasdešimt tūkstančių eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1178, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13567
 
 2. Koncentracijoje dalyvaujančių ūkio subjektų suminės bendrosios pajamos suprantamos kaip:
 
@@ -801,7 +805,11 @@ Nr. XII-743, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00064
 
 40 straipsnis. Ūkio subjektų vadovams skiriamos sankcijos
 
-1. Ūkio subjekto vadovui už prisidėjimą prie ūkio subjekto sudaryto draudžiamo konkurentų susitarimo ar piktnaudžiavimo dominuojančia padėtimi gali būti apribojama teisė nuo trejų iki penkerių metų eiti viešojo ir (arba) privataus juridinio asmens vadovo pareigas, būti viešojo ir (arba) privataus juridinio asmens kolegialaus priežiūros ir (arba) valdymo organo nariu. Ūkio subjekto vadovui už prisidėjimą prie ūkio subjekto sudaryto draudžiamo konkurentų susitarimo ar piktnaudžiavimo dominuojančia padėtimi, be šioje dalyje nustatyto teisės apribojimo, papildomai gali būti skiriama bauda iki penkiasdešimt tūkstančių litų.
+1. Apie numatomą įvykdyti koncentraciją privaloma pranešti Konkurencijos tarybai ir gauti leidimą, jeigu koncentracijoje dalyvaujančių ūkio subjektų suminės bendrosios pajamos paskutiniais prieš koncentraciją ūkiniais metais yra didesnės negu keturiolika milijonų penki šimtai tūkstančių eurų ir jeigu kiekvieno mažiausiai iš dviejų koncentracijoje dalyvaujančių ūkio subjektų bendrosios pajamos paskutiniais prieš koncentraciją ūkiniais metais yra didesnės negu vienas milijonas keturi šimtai penkiasdešimt tūkstančių eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1178, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13567
 
 2. Ūkio subjekto vadovas laikomas prisidėjusiu prie pažeidimo padarymo, kai jis:
 
