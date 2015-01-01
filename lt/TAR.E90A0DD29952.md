@@ -4,7 +4,7 @@ identifier: "TAR.E90A0DD29952"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2012-03-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E90A0DD29952"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos loterijų įstatymas
 
-Suvestinė redakcija nuo 2012-03-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2020-04-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3341, i. k. 1031010ISTA0IX-1661
 
@@ -61,7 +61,11 @@ BENDROSIOS NUOSTATOS
 
 6. Loterijos tiražas – loterijos bilietų lošimas, kurio metu nustatomi loterijoje laimėjusieji bilietai.
 
-7. Mažoji loterija – loterija, kurios organizatorius turi savivaldybės, kurios teritorijoje organizuojama loterija, vykdomosios institucijos licenciją, išduotą vadovaujantis šio Įstatymo reikalavimais, kai loterijos bilietai platinami ir loterija organizuojama sporto varžybų, kultūros arba kito viešo renginio metu ir laimėjimai išduodami iki renginio pabaigos, ir kurios numatomų išplatinti bilietų nominali vertė neviršija 100 000 litų.
+7. Mažoji loterija – loterija, kurios organizatorius turi savivaldybės, kurios teritorijoje organizuojama loterija, vykdomosios institucijos licenciją, išduotą vadovaujantis šio Įstatymo reikalavimais, kai loterijos bilietai platinami ir loterija organizuojama sporto varžybų, kultūros arba kito viešo renginio metu ir laimėjimai išduodami iki renginio pabaigos, ir kurios numatomų išplatinti bilietų nominali vertė neviršija 30 000 eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1111, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13427
 
 8. Nominali loterijos bilietų vertė – visų loterijos bilietų bendra pardavimo kaina.
 
@@ -143,7 +147,11 @@ Loterijos laimėjimų fondas turi sudaryti ne mažiau kaip 50 procentų nominali
 
 2. Didžiosios loterijos piniginiai laimėjimai išmokami (daiktiniai laimėjimai išduodami) ne vėliau kaip per 30 kalendorinių dienų nuo laimėtojo kreipimosi į loterijos organizatorių dienos. Mažosios loterijos piniginiai laimėjimai išmokami (daiktiniai laimėjimai išduodami) iš karto arba ne vėliau kaip iki renginio pabaigos, loterijos organizatoriui pateikus laimėjusį loterijos bilietą.
 
-3. Piniginiai laimėjimai, viršijantys 5000 litų, išmokami tik išrašant banko čekį arba pervedami į laimėjusio asmens nurodytą sąskaitą kredito įstaigoje. Piniginiai laimėjimai, neviršijantys 5000 litų, laimėjusio asmens prašymu turi būti išmokami grynaisiais pinigais.
+3. Piniginiai laimėjimai, viršijantys 1 500 eurų, išmokami tik išrašant banko čekį arba pervedami į laimėjusio asmens nurodytą sąskaitą kredito įstaigoje. Piniginiai laimėjimai, neviršijantys 1 500 eurų, laimėjusio asmens prašymu turi būti išmokami grynaisiais pinigais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1111, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13427
 
 4. Didžiosios ir mažosios loterijų organizatorius privalo registruoti laimėjusius asmenis Priežiūros tarnybos nustatyta tvarka.
 
@@ -197,13 +205,17 @@ Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010IS
 
 14 straipsnis. Loterijų organizatorių kapitalo dydis arba finansinės garantijos
 
-1. Didžiosios loterijos organizatoriaus nuosavas kapitalas turi būti ne mažesnis kaip 500 000 litų.
+1. Didžiosios loterijos organizatoriaus nuosavas kapitalas turi būti ne mažesnis kaip 144 000 eurų.
 
-2. Mažosios loterijos organizatoriaus nuosavas kapitalas turi būti ne mažesnis kaip 50 000 litų.
+2. Mažosios loterijos organizatoriaus nuosavas kapitalas turi būti ne mažesnis kaip 14 000 eurų.
 
-3. Mažosios loterijos organizatorius, kuris pagal įstatymus neturi nuosavo kapitalo, privalo turėti kredito įstaigos finansinę garantiją. Garantijos dydis turi būti ne mažesnis kaip 50 000 litų.
+3. Mažosios loterijos organizatorius, kuris pagal įstatymus neturi nuosavo kapitalo, privalo turėti kredito įstaigos finansinę garantiją. Garantijos dydis turi būti ne mažesnis kaip 14 000 eurų.
 
 4. Šio straipsnio 1, 2 arba 3 dalies reikalavimus loterijos organizatorius privalo būti įvykdęs iki dokumentų licencijai gauti pateikimo.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1111, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13427
 
 15 straipsnis. Reikalavimai rengiant skaitmeninės ir klasikinės loterijų tiražus
 
@@ -424,4 +436,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
 
 Lietuvos Respublikos loterijų įstatymo 4, 10, 11, 13, 15, 19, 20, 23, 26 ir 27 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1111, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13427
+
+Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 2, 10 ir 14 straipsnių pakeitimo įstatymas
 
