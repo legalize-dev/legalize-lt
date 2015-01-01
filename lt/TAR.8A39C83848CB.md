@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2014-11-14"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2014-11-14 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-04-08
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -253,7 +253,7 @@ b) iki 2001 m. spalio 1 d. – hipotekos registrą;
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                        VALDAS ADAMKUS
 
 PATVIRTINTAS
 
@@ -529,7 +529,11 @@ Civilinių teisių objektais laikomi mokslo, literatūros ir meno kūriniai, iš
 
 1. Paprasta rašytine forma turi būti sudaromi:
 
-1) fizinių asmenų sandoriai, kai sandorio suma sudarymo metu yra didesnė kaip penki tūkstančiai litų, išskyrus sandorius, kurie ir įvykdomi sudarymo metu;
+1) fizinių asmenų sandoriai, kai sandorio suma sudarymo metu yra didesnė kaip vienas tūkstantis penki šimtai eurų, išskyrus sandorius, kurie ir įvykdomi sudarymo metu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518
 
 2) juridinių asmenų steigimo sandoriai, išskyrus ūkinių bendrijų steigimo sandorius, kurie turi būti sudaromi notarine forma;
 
@@ -597,7 +601,11 @@ kitokioms prievolėms taikytina Teisė
 
 1. Neveiksnaus ar ribotai veiksnaus asmens turtą ir jo duodamas pajamas globėjas ar rūpintojas turi naudoti išimtinai neveiksnaus ar ribotai veiksnaus asmens interesais.
 
-2. Sandoriams, kurių suma didesnė nei penki tūkstančiai litų, sudaryti yra reikalingas išankstinis teismo leidimas.
+2. Sandoriams, kurių suma didesnė kaip vienas tūkstantis penki šimtai eurų, sudaryti yra reikalingas išankstinis teismo leidimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518
 
 3. Visais atvejais yra reikalingas išankstinis teismo leidimas, jeigu globėjas nori parduoti, dovanoti ar kitokiu būdu perleisti globotinio nekilnojamąjį daiktą ar daiktines teises, jį išnuomoti, perduoti neatlygintinai naudotis, įkeisti ar kitokiu būdu suvaržyti teises į nekilnojamąjį daiktą ar daiktines teises, taip pat sudaryti bet kokį kitą sandorį, jeigu dėl šio sandorio globotinio turtas sumažėtų ar būtų perleistos ar suvaržytos globotinio daiktinės teisės. Šios taisyklės taip pat taikomos ir tais atvejais, kai rūpintojas ketina duoti sutikimą ribotai veiksniam asmeniui sudaryti analogišką sandorį.
 
@@ -883,11 +891,21 @@ Nr. IX-2172, 2004-04-27, Žin., 2004, Nr. 72-2495 (2004-04-30)
 
 6.871 straipsnis. Paskolos sutarties forma
 
-1. Fizinių asmenų paskolos sutartis turi būti rašytinė, jeigu paskolos suma viršija du tūkstančius litų.
+1. Fizinių asmenų paskolos sutartis turi būti rašytinė, jeigu paskolos suma viršija šešis šimtus eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518
 
 2. Jeigu paskolos davėjas yra juridinis asmuo, paskolos sutartis turi būti rašytinė visais atvejais, neatsižvelgiant į paskolos sutarties sumą.
 
 3. Rašytinės formos reikalavimus atitinka paskolos gavėjo pasirašytas paskolos raštelis arba kitoks skolos dokumentas, patvirtinantis paskolos sutarties dalyko perdavimą paskolos gavėjui.
+
+4. Jeigu paskolos suma viršija tris tūkstančius eurų ir šis sandoris yra vykdomas grynaisiais pinigais, paskolos sutartis turi būti notarinės formos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1091, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12715
 
 6.877 straipsnis. Tikslinė paskola
 
@@ -1355,13 +1373,17 @@ Komisas
 
 Teisė, taikytina civiliniams santykiams, nustatoma pagal bylos nagrinėjimo ar kitokio veiksmo, kai reikia nustatyti taikytiną teisę, atlikimo metu galiojančias Civilinio kodekso kolizines normas.
 
-16 straipsnis. Civilinio kodekso 2.70 straipsnio ir antrosios knygos VIII skyriaus normų taikymas ir įsigaliojimas
+16 straipsnis. Civilinio kodekso 2.70 straipsnio ir antrosios knygos VIII skyriaus normų taikymas ir įsigaliojimas
 
-1. Civilinio kodekso antrosios knygos VIII skyriaus normos, reglamentuojančios juridinių asmenų pasibaigimą ir pertvarkymą, taikomos juridinių asmenų pasibaigimo ir pertvarkymo procedūroms, pradėtoms įsigaliojus šiam kodeksui. Jeigu juridinių asmenų likvidavimo ar reorganizavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo, šios procedūros yra baigiamos pagal galiojusius įstatymus.
+1. Civilinio kodekso antrosios knygos VIII skyriaus normos, reglamentuojančios juridinių asmenų pabaigą ir pertvarkymą, taikomos juridinių asmenų pabaigos ir pertvarkymo procedūroms, pradėtoms įsigaliojus šiam kodeksui. Jeigu juridinių asmenų likvidavimo ar reorganizavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo, šios procedūros yra baigiamos pagal galiojusius įstatymus, išskyrus šio straipsnio 2 dalyje nustatytus atvejus.
 
-2. Civilinio kodekso 2.70 straipsnyje ir 2.106 straipsnio 4 punkte numatytos normos dėl juridinio asmens likvidavimo juridinio asmens registro tvarkytojo iniciatyva įsigalioja nuo juridinių asmenų registro veiklos pradžios.
+2. Juridiniai asmenys, kurių likvidavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo ir nebaigtos per dešimt metų nuo likviduojamo juridinio asmens statuso įgijimo, iš juridinių asmenų registro išregistruojami juridinių asmenų registro nuostatuose nustatyta tvarka.
 
-Redakcija nuo 2015-01-01:
+3. Civilinio kodekso 2.70 straipsnyje ir 2.106 straipsnio 4 punkte numatytos normos dėl juridinio asmens likvidavimo juridinio asmens registro tvarkytojo iniciatyva įsigalioja nuo juridinių asmenų registro veiklos pradžios.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1066, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10460
 
 21 straipsnis. Civilinio kodekso nustatytų normų, susijusių su bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų apskaita, taikymas
 
@@ -1557,7 +1579,17 @@ SANDORIŲ SAMPRATA IR FORMA
 
 2) vedybų sutartys (ikivedybinė ir povedybinė);
 
-3) kiti sandoriai, kuriems šis kodeksas nustato privalomą notarinę formą.
+3) uždarųjų akcinių bendrovių akcijų pirkimo–pardavimo sutartys, kai parduodama 25 procentai ar daugiau uždarosios akcinės bendrovės akcijų arba akcijų pardavimo kaina yra didesnė kaip keturiolika tūkstančių penki šimtai eurų, išskyrus atvejus, kai akcininkų asmeninės vertybinių popierių sąskaitos tvarkomos vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1091, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12715
+
+4) kiti sandoriai, kuriems šis kodeksas nustato privalomą notarinę formą.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-1091, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12715
 
 Straipsnio pakeitimai:
 
@@ -1682,6 +1714,12 @@ Obligacija – tai vertybinis popierius, patvirtinantis jos turėtojo teisę gau
 3. Įsakomuoju vekseliu (trata) jo davėjas paveda kitam asmeniui, kad šis vekselio sumą sumokėtų jame nurodytam asmeniui.
 
 4. Paprastuoju vekseliu (solo) jo davėjas pats įsipareigoja sumokėti jame nurodytą sumą.
+
+5. Vekselis, kurio suma didesnė kaip trys tūkstančiai eurų, turi būti notarinės formos, jeigu vekselio davėjas yra fizinis asmuo arba ūkio subjektas, tvarkantis apskaitą pagal supaprastintos apskaitos taisykles.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1091, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12715
 
 1.107 straipsnis. Indėlių liudijimai (sertifikatai)
 
@@ -4771,7 +4809,13 @@ Nr. XII-916, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07638
 
 2. Prekybos patalpomis laikomos nekilnojamosios patalpos, kuriose verslininkas nuolat verčiasi mažmenine prekyba, ir kilnojamosios patalpos, kuriose verslininkas paprastai verčiasi mažmenine prekyba.
 
-3. Ne prekybos patalpose sudarytoms sutartims, kai suma, kurią turi sumokėti vartotojas, yra mažesnė už 100 litų, netaikomi šis straipsnis, šio kodekso 6.2287 ir 6.22810 straipsniai. Kai sudaroma neterminuota sutartis arba sutartis, kurioje numatomas periodinių įmokų mokėjimas, atsižvelgiama į sumą, kurią turi sumokėti vartotojas per metus.
+3. Ne prekybos patalpose sudarytoms sutartims, kai suma, kurią turi sumokėti vartotojas, yra mažesnė už dvidešimt penkis eurus, netaikomi šis straipsnis, šio kodekso 6.2287 ir 6.22810 straipsniai. Kai sudaroma neterminuota sutartis arba sutartis, kurioje numatomas periodinių įmokų mokėjimas, atsižvelgiama į sumą, kurią turi sumokėti vartotojas per metus.
+
+TAR pastaba. 6.2289 straipsnio 3 dalies nuostatos taikomos sutartims, sudarytoms po šio įstatymo įsigaliojimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518
 
 4. Ne prekybos patalpose sudarydamas sutartį, verslininkas privalo suteikti vartotojui šio kodekso 6.2287 straipsnio 1 dalyje nurodytą informaciją raštu popieriuje arba vartotojo sutikimu kitoje patvariojoje laikmenoje. Informacija turi būti įskaitoma ir pateikiama aiškia ir suprantama kalba.
 
@@ -5811,11 +5855,15 @@ Dovanojimas
 
 6.469 straipsnis. Dovanojimo sutarties forma
 
-1. Sutartis, kai dovanojama didesnė kaip penkių tūkstančių litų suma, turi būti rašytinės formos.
+1. Sutartis, kai dovanojama didesnė kaip vieno tūkstančio penkių šimtų eurų suma, turi būti rašytinės formos.
 
-2. Nekilnojamojo daikto dovanojimo sutartis, taip pat dovanojimo sutartis, kurios suma didesnė kaip penkiasdešimt tūkstančių litų, turi būti notarinės formos.
+2. Nekilnojamojo daikto dovanojimo sutartis, taip pat dovanojimo sutartis, kurios suma didesnė kaip keturiolika tūkstančių penki šimtai eurų, turi būti notarinės formos.
 
 3. Nekilnojamojo daikto ar daiktinės teisės į jį dovanojimo sutartis teisines pasekmes tretiesiems asmenims sukelia tik tuo atveju, jei sutartis įregistruota viešame registre.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518
 
 6.470 straipsnis. Galėjimas dovanoti ir galėjimas priimti dovanas
 
@@ -8095,7 +8143,11 @@ BendrOSIOS nuostatOS
 
 6.831 straipsnis. Pasaugos sutarties forma
 
-1. Fizinių asmenų sudaryta pasaugos sutartis turi būti rašytinė, jeigu daikto (daiktų) vertė viršija penkis tūkstančius litų.
+1. Fizinių asmenų sudaryta pasaugos sutartis turi būti rašytinė, jeigu daikto (daiktų) vertė viršija vieną tūkstantį penkis šimtus eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518
 
 2. Jeigu pasaugos sutartis numato saugotojo pareigą priimti daiktą saugoti ateityje, jis turi būti rašytinė visais atvejais.
 
@@ -8193,7 +8245,11 @@ Pasaugos sutartyje numatytais atvejais priimti saugoti daiktai gali būti sumai�
 
 1. Pasibaigus pasaugos sutarties terminui, taip pat saugotojo nustatytam terminui, per kurį daiktas turi būti atsiimtas, davėjas privalo nedelsdamas atsiimti saugoti perduotą daiktą.
 
-2. Jeigu davėjas neatsiima daikto, saugotojas turi teisę, jeigu ko kita nenustato pasaugos sutartis, raštu įspėjęs davėją savarankiškai parduoti saugomą daiktą už saugojimo vietovės rinkos kainą. Jeigu saugomo daikto vertė didesnė nei du tūkstančiai litų, saugotojas turi teisę jį parduoti tik aukciono būdu.
+2. Jeigu davėjas neatsiima daikto, saugotojas turi teisę, jeigu ko kita nenustato pasaugos sutartis, raštu įspėjęs davėją savarankiškai parduoti saugomą daiktą už saugojimo vietovės rinkos kainą. Jeigu saugomo daikto vertė didesnė kaip šeši šimtai eurų, saugotojas turi teisę jį parduoti tik aukciono būdu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518
 
 3. Pardavus daiktą gauta suma, atskaičius saugotojui priklausančias sumas, perduodama davėjui.
 
@@ -8755,11 +8811,29 @@ Draudžiama apriboti kliento galimybę disponuoti sąskaitoje esančiomis lėšo
 
 1) lėšų, esančių klientų sąskaitoje, suma sumažėja tiek, kad nesiekia sutartyje nustatytos minimalios sumos, ir per vieną mėnesį nuo banko išsiųsto pranešimo dienos klientas jos nepadidina;
 
-2) jeigu daugiau kaip metus su kliento sąskaita nebuvo atliekamos jokios operacijos ir jeigu banko sutartis nenustato ko kita.
+2) daugiau kaip metus kliento sąskaitoje nėra piniginių lėšų ir su kliento sąskaita nebuvo atliekamos jokios operacijos, ir banko sutartis nenustato ko kita.
 
-3. Lėšų likutis sąskaitoje išduodamas klientui arba jo nurodymu pervedamas į kitą sąskaitą ne vėliau kaip per penkias darbo dienas nuo atitinkamo rašytinio kliento pareiškimo gavimo dienos. Jeigu klientas nedavė nurodymo pervesti lėšas į kitą sąskaitą, bankas lėšas perveda į banko vidines sąskaitas.
+Straipsnio punkto pakeitimai:
 
-4. Banko sąskaitos sutarties nutraukimas yra pagrindas sąskaitą uždaryti. Banko sąskaitos sutartis galioja iki sąskaitos uždarymo.
+Nr. XII-1453, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21192
+
+3. Jeigu yra šio straipsnio 2 dalies 2 punkte nurodytos banko sąskaitos nutraukimo sąlygos, banko sąskaitos sutartis gali būti nutraukta ir tuo atveju, kai yra įregistruotas sąskaitoje esančių piniginių lėšų areštas ar nustatyti kiti disponavimo šiomis lėšomis apribojimai. Bankui nutraukus banko sąskaitos sutartį, piniginių lėšų areštas ar kitas disponavimo jomis apribojimas nustoja galioti ir yra išregistruojamas Lietuvos Respublikos turto arešto aktų registro įstatyme nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1453, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21192
+
+4. Lėšų likutis sąskaitoje išduodamas klientui arba jo nurodymu pervedamas į kitą sąskaitą ne vėliau kaip per penkias darbo dienas nuo atitinkamo rašytinio kliento pareiškimo gavimo dienos. Jeigu klientas nedavė nurodymo pervesti lėšas į kitą sąskaitą, bankas lėšas perveda į banko vidines sąskaitas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1453, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21192
+
+5. Banko sąskaitos sutarties nutraukimas yra pagrindas sąskaitą uždaryti. Banko sąskaitos sutartis galioja iki sąskaitos uždarymo.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1453, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21192
 
 6.928 straipsnis. Bankų sąskaitos
 
@@ -9888,4 +9962,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1294, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16780
 
 Lietuvos Respublikos civilinio kodekso 1.116 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1453, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21192
+
+Lietuvos Respublikos civilinio kodekso 6.927 straipsnio pakeitimo įstatymas
 
