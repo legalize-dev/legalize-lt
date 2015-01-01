@@ -4,7 +4,7 @@ identifier: "TAR.8DDDD8D87491"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-06"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-07-14
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
 
@@ -46,6 +46,12 @@ BENDROSIOS NUOSTATOS
 2. Tais atvejais, kai Lietuvos Respublikos Seimo (toliau – Seimas) ratifikuotos tarptautinės sutartys nustato kitas gyvūnų gerovės ir apsaugos sąlygas, yra taikomos tarptautinių sutarčių sąlygos.
 
 3. Laukinių gyvūnų gerovei ir apsaugai šio įstatymo nuostatos taikomos tiek, kiek to nereglamentuoja Lietuvos Respublikos laukinės gyvūnijos įstatymas.
+
+4. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -99,7 +105,11 @@ BENDROSIOS NUOSTATOS
 
 25. Prekiautojas gyvūnais – asmuo, turintis Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka išduotą leidimą prekiauti gyvūnais.
 
-26. Skerdimas – apsvaiginto maistinio gyvūno nužudymas, nuleidžiant kraują.
+26. Skerdimas – kaip apibrėžta 2009 m. rugsėjo 24 d. Tarybos reglamento (EB) Nr. 1099/2009 dėl žudomų gyvūnų apsaugos (toliau – Reglamentas (EB) Nr. 1099/2009) 2 straipsnio j punkte.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 27. Ūkinis gyvūnas – gyvūnas, laikomas ar veisiamas maistui, kailiams, vaistams ir kitai produkcijai gauti, darbo ir kitais ūkininkavimo tikslais.
 
@@ -295,7 +305,13 @@ BENDROSIOS NUOSTATOS
 
 10) graužikų, kenksmingų vabzdžių ir erkių naikinimas jiems naikinti skirtais metodais ir priemonėmis;
 
-11) bandymų su gyvūnais atlikimas, turint Valstybinės maisto ir veterinarijos tarnybos išduotą leidimą.
+11) bandymų su gyvūnais atlikimas, turint Valstybinės maisto ir veterinarijos tarnybos išduotą leidimą;
+
+12) ūkinių gyvūnų skerdimas, prieš tai jų neapsvaiginus, religinėms apeigoms atlikti būtinais metodais, jeigu šie gyvūnai skerdžiami skerdykloje.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 2. Nugaišinti gyvūnus gali tik veterinarijos gydytojas, turintis veterinarijos praktikos licenciją, ar jo pavedimu – veterinarijos felčeris.
 
@@ -360,8 +376,6 @@ TAR pastaba. 7 straipsnio 2 dalis įsigalioja 2016-01-01.
 9. Dresuoti pavojingus šunis gali tik asmenys, turintys dresuotojo kvalifikacijos patvirtinimo dokumentą, išduotą atitinkamos gyvūnų laikytojus vienijančios asociacijos.
 
 10. Kovinius šunis, kovinių ir pavojingų šunų mišrūnus (tais atvejais, kai tokių šunų Lietuvos Respublikos įstatymai nedraudžia) bei pavojingus šunis laikyti daugiabučiuose namuose draudžiama.
-
-TAR pastaba. 8 straipsnio 10 dalis įsigalioja 2013-07-01.
 
 9 straipsnis. Gyvūnų gydymas
 
@@ -469,13 +483,23 @@ SPECIALIEJI GYVŪNŲ GEROVĖS IR APSAUGOS REIKALAVIMAI
 
 1. Ūkiniai gyvūnai skerdyklose laikomi, svaiginami, skerdžiami laikantis skerdžiamų gyvūnų apsaugą reglamentuojančių teisės aktų reikalavimų.
 
-2. Skersti ūkinius gyvūnus religinių apeigų tikslu galima tik prieš tai juos apsvaiginus teisės aktų nustatytais metodais ir laikantis skerdžiamų gyvūnų apsaugą reglamentuojančių teisės aktų reikalavimų.
+2. Ūkiniai gyvūnai gali būti skerdžiami skerdykloje prieš tai jų neapsvaiginus, vadovaujantis Reglamento (EB) Nr. 1099/2009 4 straipsnio 4 dalimi.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 3. Asmeniniam vartojimui ne skerdyklose skerdžiami ūkiniai gyvūnai turi būti skerdžiami teisės aktų nustatyta tvarka.
 
 4. Ūkiuose auginami kailiniai žvėreliai, paukščių peryklose paukščių jaunikliai iki 72 valandų amžiaus ir embrionai turi būti nužudomi teisės aktuose nustatytais metodais, laikantis žudomų gyvūnų apsaugą reglamentuojančių teisės aktų reikalavimų.
 
 5. Ūkiniai gyvūnai turi būti apsaugoti nuo išgąsčio, skausmo arba kančių juos perkeliant, varant į aptvarus, pančiojant, svaiginant, skerdžiant arba nužudant.
+
+6. Religinėms apeigoms tinkamus ūkinių gyvūnų skerdimo metodus, tokio skerdimo kontrolę, apskaitos tvarkymą užtikrinančias priemones, tokiu būdu paskerstų ūkinių gyvūnų mėsos ženklinimo, realizavimo tvarką nustato Žemės ūkio ministerija ar jos įgaliota institucija.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 18 straipsnis. Gyvūnų dresavimas
 
@@ -549,6 +573,22 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
+Lietuvos Respublikos
+
+gyvūnų gerovės ir apsaugos
+
+įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 2009 m. rugsėjo 24 d. Tarybos reglamentas (EB) Nr. 1099/2009 dėl žudomų gyvūnų apsaugos (OL 2009 L 303, p. 1).
+
+Papildyta priedu:
+
+Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
+
 Pakeitimai:
 
 1.
@@ -590,6 +630,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2271, 2012-10-03, Žin., 2012, Nr. 122-6126 (2012-10-20), i. k. 1121010ISTA0XI-2271
 
 Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
+
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 1, 2, 5 ir 17 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
 
 61 straipsnis. Agresyvių šunų įvežimas, įsigijimas, laikymas, registravimas, ženklinimas, veisimas, dresavimas, prekyba jais bei jų paėmimas
 
