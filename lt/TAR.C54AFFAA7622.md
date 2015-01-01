@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2014-11-19"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2014-11-19 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-06-16
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
 
@@ -192,9 +192,13 @@ Nr. XI-395, 2009-07-22, Žin., 2009, Nr. 93-3986 (2009-08-04)
 
 15. Mažos vertės viešasis pirkimas (toliau – mažos vertės pirkimas) – supaprastintas pirkimas, kai yra bent viena iš šių sąlygų:
 
-1) prekių ar paslaugų pirkimo vertė yra mažesnė kaip 200 tūkst. Lt (be pridėtinės vertės mokesčio), o darbų pirkimo vertė mažesnė kaip 500 tūkst. Lt (be pridėtinės vertės mokesčio);
+1) prekių ar paslaugų pirkimo vertė yra mažesnė kaip 58 000 eurų (be pridėtinės vertės mokesčio), o darbų pirkimo vertė mažesnė kaip 145 000 eurų (be pridėtinės vertės mokesčio);
 
-2) perkamos panašios prekės, paslaugos ar perkami darbai dėl to paties objekto yra suskirstyti į atskiras dalis, kurių kiekvienai numatoma sudaryti atskirą pirkimo sutartį (sutartis), jeigu bendra šių sutarčių vertė yra ne didesnė kaip 10 procentų prekių ar paslaugų supaprastintų pirkimų to paties tipo sutarčių vertės ir mažesnė kaip 200 tūkst. Lt (be pridėtinės vertės mokesčio), o perkant darbus – ne didesnė kaip 1,5 procento to paties objekto supaprastinto pirkimo vertės ir mažesnė kaip 500 tūkst. Lt (be pridėtinės vertės mokesčio).
+2) perkamos panašios prekės, paslaugos ar perkami darbai dėl to paties objekto yra suskirstyti į atskiras dalis, kurių kiekvienai numatoma sudaryti atskirą pirkimo sutartį (sutartis), jeigu bendra šių sutarčių vertė yra ne didesnė kaip 10 procentų prekių ar paslaugų supaprastintų pirkimų to paties tipo sutarčių vertės ir mažesnė kaip 58 000 eurų (be pridėtinės vertės mokesčio), o perkant darbus – ne didesnė kaip 1,5 procento to paties objekto supaprastinto pirkimo vertės ir mažesnė kaip 145 000 eurų (be pridėtinės vertės mokesčio).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1179, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13566
 
 16. Nepriekaištinga reputacija – nepriekaištingos reputacijos asmenimis nelaikomi:
 
@@ -444,7 +448,11 @@ Nr. XI-1605, 2011-09-29, Žin., 2011, Nr. 123-5813 (2011-10-13)
 
 13. Nustatant darbų pirkimo vertę, įskaitomos ir numatomo darbų atlikimo bei projektavimo (tuo atveju, kai kartu atliekami ir projektuojami darbai), ir darbams atlikti reikalingų prekių, kurias rangovui pateikia perkančioji organizacija, numatomos vertės.
 
-14. Kai dėl to paties objekto atliekami darbai ar per finansinius metus arba per 12 mėnesių nuo pirkimo pradžios perkamos panašios prekės, paslaugos yra suskirstytos į atskiras dalis, kurių kiekvienai numatoma sudaryti atskirą pirkimo sutartį, pirkimo vertė yra tų dalių numatomų verčių, apskaičiuotų vadovaujantis šio straipsnio nuostatomis, suma. Taip apskaičiuota pirkimo vertė galioja visoms pirkimo dalims. Neatsižvelgiant į tai, kad pirkimo vertė yra ne mažesnė, negu yra nustatyta tarptautinio pirkimo vertės riba, perkančioji organizacija turi teisę šio įstatymo IV skyriuje nustatyta tvarka atlikti pirkimus toms atskiroms pirkimo dalims, kurių kiekvienos vertė be pridėtinės vertės mokesčio yra mažesnė kaip 276 224 Lt (80 000 EUR) perkant paslaugas ar panašias prekes, 3 452 800 Lt (1 000 000 EUR) – perkant darbus, jeigu bendra tokių pirkimo dalių vertė yra ne didesnė kaip 20 procentų bendros visų pirkimo dalių vertės.
+14. Kai dėl to paties objekto atliekami darbai ar per finansinius metus arba per 12 mėnesių nuo pirkimo pradžios perkamos panašios prekės, paslaugos yra suskirstytos į atskiras dalis, kurių kiekvienai numatoma sudaryti atskirą pirkimo sutartį, pirkimo vertė yra tų dalių numatomų verčių, apskaičiuotų vadovaujantis šio straipsnio nuostatomis, suma. Taip apskaičiuota pirkimo vertė galioja visoms pirkimo dalims. Neatsižvelgiant į tai, kad pirkimo vertė yra ne mažesnė, negu yra nustatyta tarptautinio pirkimo vertės riba, perkančioji organizacija turi teisę šio įstatymo IV skyriuje nustatyta tvarka atlikti pirkimus toms atskiroms pirkimo dalims, kurių kiekvienos vertė be pridėtinės vertės mokesčio yra mažesnė kaip 80 000 eurų perkant paslaugas ar panašias prekes, 1 000 000 eurų – perkant darbus, jeigu bendra tokių pirkimo dalių vertė yra ne didesnė kaip 20 procentų bendros visų pirkimo dalių vertės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1179, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13566
 
 15. Preliminariosios pirkimo sutarties ar dinaminės pirkimo sistemos taikymo atvejais pirkimo vertė nustatoma atsižvelgiant į didžiausią numatomą visų per visą preliminariosios sutarties arba dinaminės pirkimo sistemos trukmę numatytų sudaryti pirkimo sutarčių vertę be pridėtinės vertės mokesčio.
 
@@ -638,7 +646,11 @@ Nr. X-1673, 2008-07-03, Žin., 2008, Nr. 81-3179 (2008-07-17)
 
 7. Pirkimo sutarčių, sudaromų ilgiau kaip 3 metams, terminų nustatymo kriterijus ir atvejus, kuriais gali būti sudaromos tokios sutartys, nustato Lietuvos Respublikos Vyriausybė.
 
-8. Pirkimo sutarties sąlygos sutarties galiojimo laikotarpiu negali būti keičiamos, išskyrus tokias pirkimo sutarties sąlygas, kurias pakeitus nebūtų pažeisti šio įstatymo 3 straipsnyje nustatyti principai bei tikslai ir kai tokiems pirkimo sutarties sąlygų pakeitimams yra gautas Viešųjų pirkimų tarnybos sutikimas. Viešųjų pirkimų tarnybos sutikimo nereikalaujama, kai atlikus supaprastintą pirkimą sudarytos sutarties vertė yra mažesnė kaip 10 000 Lt (be pridėtinės vertės mokesčio) arba kai pirkimo sutartis sudaryta atlikus mažos vertės pirkimą.
+8. Pirkimo sutarties sąlygos sutarties galiojimo laikotarpiu negali būti keičiamos, išskyrus tokias pirkimo sutarties sąlygas, kurias pakeitus nebūtų pažeisti šio įstatymo 3 straipsnyje nustatyti principai bei tikslai ir kai tokiems pirkimo sutarties sąlygų pakeitimams yra gautas Viešųjų pirkimų tarnybos sutikimas. Viešųjų pirkimų tarnybos sutikimo nereikalaujama, kai atlikus supaprastintą pirkimą sudarytos sutarties vertė yra mažesnė kaip 3 000 eurų (be pridėtinės vertės mokesčio) arba kai pirkimo sutartis sudaryta atlikus mažos vertės pirkimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1179, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13566
 
 9. Pirkimo sutartis turi būti sudaroma nedelsiant, bet ne anksčiau negu pasibaigė atidėjimo terminas. Atidėjimo terminas gali būti netaikomas, kai:
 
@@ -646,11 +658,17 @@ Nr. X-1673, 2008-07-03, Žin., 2008, Nr. 81-3179 (2008-07-17)
 
 2) pirkimo sutartis sudaroma dinaminės pirkimo sistemos pagrindu arba šio įstatymo 4 straipsnio 1 dalies 1, 2 ar 3 punktuose nurodyta perkančioji organizacija pirkimo sutartį sudaro preliminariosios sutarties pagrindu;
 
-3) supaprastintų pirkimų atveju pirkimo sutarties vertė mažesnė kaip 10 000 Lt (be pridėtinės vertės mokesčio) arba kai pirkimo sutartis sudaroma atliekant mažos vertės pirkimą.
+3) supaprastintų pirkimų atveju pirkimo sutarties vertė mažesnė kaip 3 000 eurų (be pridėtinės vertės mokesčio) arba kai pirkimo sutartis sudaroma atliekant mažos vertės pirkimą.
 
-10. Perkančioji organizacija, tvirtindama šio įstatymo 85 straipsnyje nurodytas taisykles, jose gali nustatyti, kad pirkimo sutartis gali būti sudaroma žodžiu, kai atliekami supaprastinti pirkimai, kurių sutarties vertė yra mažesnė kaip 10 000 Lt (be pridėtinės vertės mokesčio).
+Straipsnio punkto pakeitimai:
 
-Papildoma nuo 2015-01-01:
+Nr. XII-1179, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13566
+
+10. Perkančioji organizacija, tvirtindama šio įstatymo 85 straipsnyje nurodytas taisykles, jose gali nustatyti, kad pirkimo sutartis gali būti sudaroma žodžiu, kai atliekami supaprastinti pirkimai, kurių sutarties vertė yra mažesnė kaip 3 000 eurų (be pridėtinės vertės mokesčio).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1179, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13566
 
 11. Perkančioji organizacija laimėjusio dalyvio pasiūlymą, sudarytą pirkimo sutartį ir pirkimo sutarties sąlygų pakeitimus, išskyrus informaciją, kurios atskleidimas prieštarautų teisės aktams arba teisėtiems tiekėjų komerciniams interesams arba trukdytų laisvai konkuruoti tarpusavyje, ne vėliau kaip per 10 dienų nuo pirkimo sutarties sudarymo ar jos sąlygų pakeitimo turi paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje. Šis reikalavimas netaikomas pirkimams, kai pirkimo sutartis sudaroma žodžiu, taip pat laimėjusio dalyvio pasiūlymo ar pirkimo sutarties dalims, kai nėra techninių galimybių tokiu būdu paskelbtos informacijos atgaminti ar perskaityti. Tokiu atveju perkančioji organizacija turi sudaryti galimybę susipažinti su nepaskelbtomis laimėjusio dalyvio pasiūlymo ar pirkimo sutarties dalimis.
 
@@ -740,11 +758,15 @@ Nr. XI-1255, 2010-12-23, Žin., 2011, Nr. 2-36 (2011-01-06)
 
 1. Perkančioji organizacija apie numatomus pirkimus, tarp jų ir tuos, kurių metu numatoma sudaryti preliminariąją sutartį, iš anksto privalo skelbti tais atvejais, kai pirkimo vertė yra ne mažesnė už nurodytą šios dalies 1, 2, 3 punktuose ir perkančioji organizacija ketina pasinaudoti galimybe sutrumpinti pasiūlymų pateikimo terminus, nurodytus šio įstatymo 44, 46, 75 straipsniuose. Šis reikalavimas netaikomas atliekant pirkimą neskelbiamų derybų būdu. Apie numatomus prekių ir paslaugų pirkimus perkančioji organizacija privalo iš anksto paskelbti tik prasidėjus finansiniams metams, o apie numatomus darbų pirkimus – iš karto, priėmus sprendimą, kuriuo patvirtinama objektų statyba. Norint pasinaudoti galimybe sutrumpinti pasiūlymų pateikimo terminus, iš anksto apie numatomus pirkimus skelbiama:
 
-1) perkant prekes, kai per artimiausius 12 mėnesių numatomo prekių pirkimo, įskaitant preliminariąją sutartį, vertė, apskaičiuota pagal šio įstatymo 9 straipsnio nuostatas, yra ne mažesnė kaip 2 589 600 Lt (750 000 EUR). Šiame skelbime perkančioji organizacija pateikia nuorodą į CPV nomenklatūrą;
+1) perkant prekes, kai per artimiausius 12 mėnesių numatomo prekių pirkimo, įskaitant preliminariąją sutartį, vertė, apskaičiuota pagal šio įstatymo 9 straipsnio nuostatas, yra ne mažesnė kaip 750 000 eurų. Šiame skelbime perkančioji organizacija pateikia nuorodą į CPV nomenklatūrą;
 
-2) perkant paslaugas, kai per artimiausius 12 mėnesių numatomo paslaugų pirkimo, įskaitant preliminariąją sutartį, vertė, apskaičiuota pagal šio įstatymo 9 straipsnio nuostatas kiekvienai šio įstatymo 2 priedėlio A paslaugų sąraše nurodytai kategorijai, yra ne mažesnė kaip 2 589 600 Lt (750 000 EUR);
+2) perkant paslaugas, kai per artimiausius 12 mėnesių numatomo paslaugų pirkimo, įskaitant preliminariąją sutartį, vertė, apskaičiuota pagal šio įstatymo 9 straipsnio nuostatas kiekvienai šio įstatymo 2 priedėlio A paslaugų sąraše nurodytai kategorijai, yra ne mažesnė kaip 750 000 eurų;
 
 3) perkant darbus, kai per artimiausius 12 mėnesių numatoma sudaryti pirkimo sutartį, įskaitant preliminariąją sutartį, kai jų vertė, atsižvelgiant į numatomų darbų pobūdį, apskaičiuota pagal šio įstatymo 9 straipsnio nuostatas, yra ne mažesnė už nustatytas tarptautinio pirkimo vertės ribas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1179, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13566
 
 2. Perkančioji organizacija, atlikdama prekių, paslaugų ar darbų pirkimą ar sudarydama preliminariąją sutartį atviro, riboto konkurso, skelbiamų derybų arba konkurencinio dialogo būdu, taip pat vykdydama projekto konkursą arba taikydama dinaminę pirkimo sistemą, privalo atskirai paskelbti apie pirkimą, o sudarydama pirkimo sutartį dinaminės pirkimų sistemos pagrindu – paskelbti supaprastintą skelbimą apie pirkimą dinaminėje pirkimų sistemoje.
 
@@ -864,7 +886,11 @@ Nr. XI-1255, 2010-12-23, Žin., 2011, Nr. 2-36 (2011-01-06)
 
 18) vokų su pasiūlymais atplėšimo ir pasiūlymų nagrinėjimo procedūros;
 
-19) informacija, kad pasiūlymuose nurodytos kainos bus vertinamos litais. Jeigu pasiūlymuose kainos nurodytos užsienio valiuta, jos bus perskaičiuojamos litais pagal Lietuvos banko nustatytą ir paskelbtą lito ir užsienio valiutos santykį paskutinę pasiūlymų pateikimo termino dieną;
+19) informacija, kad pasiūlymuose nurodytos kainos bus vertinamos eurais. Jeigu pasiūlymuose kainos nurodytos užsienio valiuta, jos bus perskaičiuojamos eurais pagal Europos centrinio banko skelbiamą orientacinį euro ir užsienio valiutų santykį, o tais atvejais, kai orientacinio euro ir užsienio valiutų santykio Europos centrinis bankas neskelbia, – pagal Lietuvos banko nustatomą ir skelbiamą orientacinį euro ir užsienio valiutų santykį paskutinę pasiūlymų pateikimo termino dieną;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1179, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13566
 
 20) perkančiosios organizacijos valstybės tarnautojų ar darbuotojų arba Komisijos narių (vieno ar kelių), kurie įgalioti palaikyti tiesioginį ryšį su tiekėjais ir gauti iš jų (ne tarpininkų) pranešimus, susijusius su pirkimų procedūromis, vardai, pavardės, adresai, telefonų ir faksų numeriai;
 
@@ -1268,7 +1294,11 @@ Nr. XII-569, 2013-10-22, Žin., 2013, Nr. 112-5575 (2013-10-26)
 
 41 straipsnis. Informavimas apie pirkimo procedūros rezultatus
 
-1. Perkančioji organizacija suinteresuotiems kandidatams ir suinteresuotiems dalyviams, išskyrus atvejus, kai supaprastinto pirkimo sutarties vertė mažesnė kaip 10 000 Lt (be pridėtinės vertės mokesčio), nedelsdama (ne vėliau kaip per 5 darbo dienas) raštu praneša apie priimtą sprendimą sudaryti pirkimo sutartį ar preliminariąją sutartį arba sprendimą dėl leidimo dalyvauti dinaminėje pirkimo sistemoje, pateikia šio straipsnio 2 dalyje nurodytos atitinkamos informacijos, kuri dar nebuvo pateikta pirkimo procedūros metu, santrauką ir nurodo nustatytą pasiūlymų eilę, laimėjusį pasiūlymą, tikslų atidėjimo terminą. Perkančioji organizacija taip pat turi nurodyti priežastis, dėl kurių buvo priimtas sprendimas nesudaryti pirkimo sutarties ar preliminariosios sutarties, pradėti pirkimą ar dinaminę pirkimų sistemą iš naujo.
+1. Perkančioji organizacija suinteresuotiems kandidatams ir suinteresuotiems dalyviams, išskyrus atvejus, kai supaprastinto pirkimo sutarties vertė mažesnė kaip 3 000 eurų (be pridėtinės vertės mokesčio), nedelsdama (ne vėliau kaip per 5 darbo dienas) raštu praneša apie priimtą sprendimą sudaryti pirkimo sutartį ar preliminariąją sutartį arba sprendimą dėl leidimo dalyvauti dinaminėje pirkimo sistemoje, pateikia šio straipsnio 2 dalyje nurodytos atitinkamos informacijos, kuri dar nebuvo pateikta pirkimo procedūros metu, santrauką ir nurodo nustatytą pasiūlymų eilę, laimėjusį pasiūlymą, tikslų atidėjimo terminą. Perkančioji organizacija taip pat turi nurodyti priežastis, dėl kurių buvo priimtas sprendimas nesudaryti pirkimo sutarties ar preliminariosios sutarties, pradėti pirkimą ar dinaminę pirkimų sistemą iš naujo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1179, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13566
 
 2. Perkančioji organizacija, gavusi kandidato ar dalyvio raštu pateiktą prašymą, turi nedelsdama, ne vėliau kaip per 15 dienų nuo prašymo gavimo dienos, nurodyti:
 
