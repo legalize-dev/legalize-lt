@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2014-07-23"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -17,6 +17,10 @@ eu_legal_act: "true"
 # Lietuvos Respublikos sveikatos draudimo įstatymas
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
+
+Suvestinė redakcija nuo 2015-01-01 iki 2015-04-13
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
 Nauja įstatymo redakcija nuo 2003-01-01:
 
@@ -68,7 +72,11 @@ Nr. XII-526, 2013-10-01, Žin., 2013, Nr. 107-5274 (2013-10-12)
 
 9. Sporto veikla – kaip ši sąvoka apibrėžta Gyventojų pajamų mokesčio įstatyme.
 
-10. Žemės ūkio valdos ar ūkio ekonominis dydis – dydis, nustatomas bendrąjį standartinį gamybinį pelną, kurio apskaičiavimas reglamentuojamas žemės ūkio ministro nustatyta tvarka, padalijus iš ekonominio dydžio vieneto, kuris lygus 4 143 litų.
+10. Žemės ūkio valdos ar ūkio ekonominis dydis – dydis, nustatomas bendrąjį standartinį gamybinį pelną, kurio apskaičiavimas reglamentuojamas žemės ūkio ministro nustatyta tvarka, padalijus iš ekonominio dydžio vieneto, kuris lygus 1 200 eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1140, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13461
 
 11. Tarpvalstybinė sveikatos priežiūra – kitoje Europos ekonominės erdvės valstybėje sveikatos priežiūros specialistų apdraustiesiems teikiamos asmens sveikatos priežiūros paslaugos, siekiant įvertinti, palaikyti ar pagerinti jų sveikatos būklę, taip pat vaistų, medicinos pagalbos priemonių ir medicinos prietaisų išrašymas ir išdavimas. Tarpvalstybinė sveikatos priežiūra neapima socialinių paslaugų ir patarnavimų, nepriskirtų asmens sveikatos priežiūrai, transplantacijai skirtų audinių, ląstelių ir (arba) organų paskirstymo bei gavimo ir skiepijimo paslaugų pagal gyventojų skiepijimo nuo užkrečiamųjų ligų programas.
 
@@ -166,8 +174,6 @@ Privalomojo sveikatos draudimo draudiminiai įvykiai yra gydytojo diagnozuoti pr
 
 19) nesukakęs senatvės pensijos amžiaus ir neturintis draudžiamųjų pajamų Respublikos Prezidento sutuoktinis – Respublikos Prezidento kadencijos laikotarpiu;
 
-Papildyta nuo 2015-01-01:
-
 20) asmenys, atliekantys savanorišką praktiką Užimtumo rėmimo įstatymo nustatyta tvarka.
 
 5. Lietuvos Respublikos karių, užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, taip pat užsieniečių, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje, teismo ar teisėsaugos institucijų sulaikytų asmenų, esančių kardomojo kalinimo vietose, nuteistųjų laisvės atėmimu bei asmenų, padariusių visuomenei pavojingą veiką, kuriems teismo nutartimi paskirtos priverčiamosios medicininio pobūdžio priemonės, sveikatos priežiūra apmokama iš valstybės biudžeto lėšų Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos institucijos nustatyta tvarka.
@@ -232,7 +238,11 @@ Nr. XI-448, 2009-10-22, Žin., 2009, Nr. 130-5638 (2009-10-31)
 
 4. Asmenys, nurodyti šio Įstatymo 6 straipsnio 4 dalyje ir 17 straipsnio 1–7 ir 9 dalyse, šio Įstatymo 9–12 straipsniuose nurodytas paslaugas, kompensuojamuosius vaistus ir medicinos pagalbos priemones, už kuriuos mokama iš Privalomojo sveikatos draudimo fondo biudžeto, gauna dar vieną mėnesį po to, kai už juos nustota mokėti arba kai jie patys nustoja mokėti privalomojo sveikatos draudimo įmokas. Ši garantija neatleidžia nuo prievolės mokėti šio Įstatymo 17 straipsnyje nustatyto dydžio įmokas.
 
-5. Už Privalomojo sveikatos draudimo fondo biudžeto apmokėtas asmens sveikatos priežiūros paslaugas (išskyrus būtinosios medicinos pagalbos paslaugas), suteiktas asmeniui, nelaikomam apdraustuoju, šio Įstatymo 17 straipsnio 1–9 dalyse nustatytų įmokų mokėtojai moka teritorinei ligonių kasai.
+5. Už asmeniui, nelaikomam apdraustuoju, suteiktas asmens sveikatos priežiūros paslaugas (išskyrus būtinosios medicinos pagalbos paslaugas), kurių išlaidos buvo apmokėtos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, šio Įstatymo 17 straipsnio 1–9 dalyse nustatytų įmokų mokėtojai moka Valstybinei ligonių kasai. Už būtinosios medicinos pagalbos paslaugas, suteiktas nuolatiniams Lietuvos Respublikos gyventojams, nelaikomiems apdraustaisiais, mokama iš Privalomojo sveikatos draudimo fondo biudžetui skirtų valstybės biudžeto lėšų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
 
 6. Jeigu teritorinė ligonių kasa nustato, kad draudžiamajam per kalendorinį mėnesį suteiktų asmens sveikatos priežiūros paslaugų kaina viršija 100 bazinių socialinių išmokų, tos teritorinės ligonių kasos teikimu atitinkama teritorinė valstybinė mokesčių inspekcija ir (arba) Valstybinio socialinio draudimo fondo administravimo įstaiga tikrina, ar asmuo yra sumokėjęs visas privalomojo sveikatos draudimo įmokas. Kiti asmenys tikrinami pasirinktinai.
 
@@ -442,27 +452,53 @@ Nr. XII-640, 2013-12-03, Žin., 2013, Nr. 130-6624 (2013-12-19)
 
 1. Privalomojo sveikatos draudimo fondo biudžeto pajamas sudaro:
 
-1) apdraustųjų privalomojo sveikatos draudimo įmokos bei už juos mokamos įmokos;
+1) apdraustųjų privalomojo sveikatos draudimo įmokos ir už juos mokamos įmokos;
 
-2) valstybės biudžeto įmokos už apdraustuosius, draudžiamus valstybės lėšomis;
+2) valstybės biudžeto įmokos, mokamos už apdraustuosius, draudžiamus valstybės lėšomis;
 
-3) institucijų, vykdančių privalomąjį sveikatos draudimą, veiklos pajamos;
+3) valstybės biudžeto asignavimai, skiriami:
 
-4) papildomi valstybės biudžeto asignavimai;
+a) Privalomojo sveikatos draudimo fondui priskirtoms valstybės funkcijoms atlikti (ortopedijos technikos priemonių įsigijimo išlaidoms kompensuoti, paslaugų, skirtų gyvybei gelbėti ir išsaugoti, išlaidoms apmokėti, kompensacijoms kraujo donorams ir neatlygintinai kraujo donorystei propaguoti bei Nacionalinės imunoprofilaktikos programos priemonėms finansuoti);
+
+b) šio Įstatymo 6 straipsnio 5 dalyje nurodytų asmenų sveikatos priežiūros išlaidoms apmokėti;
+
+c) šio Įstatymo 8 straipsnio 5 dalyje nurodytoms sveikatos priežiūros išlaidoms apmokėti;
+
+d) šio straipsnio 2 ir 3 dalyse nurodytais atvejais;
+
+4) institucijų, vykdančių privalomąjį sveikatos draudimą, veiklos pajamos;
 
 5) savanoriškos juridinių ir fizinių asmenų įmokos;
 
-6) valstybės biudžeto asignavimai ortopedijos technikos priemonių įsigijimo išlaidoms apmokėti;
+6) išieškotos ar grąžintos lėšos už Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą:
 
-7) iš sveikatos priežiūros įstaigų ar vaistinių išieškotos ar jų grąžintos lėšos už neteisėtai suteiktas ar neteisėtai pateiktas apmokėti asmens sveikatos priežiūros paslaugas, neteisėtai išrašytus, išduotus ar pateiktus apmokėti vaistus ir medicinos pagalbos priemones;
+a) iš sveikatos priežiūros įstaigų išieškotos ar jų grąžintos lėšos už neteisėtai suteiktas asmens sveikatos priežiūros paslaugas, už šias paslaugas neteisėtai pateiktas apmokėti sąskaitas, už neteisėtai išrašytus ir išduotus vaistus bei medicinos pagalbos priemones;
 
-8) įstatymų nustatyta tvarka iš fizinių ir juridinių asmenų išieškotos lėšos už žalą, padarytą apdraustojo sveikatai, kai apdraustojo sveikatos priežiūros paslaugų išlaidos buvo apmokėtos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų;
+b) iš vaistinių išieškotos ar jų grąžintos lėšos už neteisėtai išduotus vaistus bei medicinos pagalbos priemones ar neteisėtai už juos pateiktas apmokėti sąskaitas;
 
-9) (neteko galios nuo 2009-01-01).
+c) iš fizinių ir juridinių asmenų išieškotos lėšos už apdraustojo privalomuoju sveikatos draudimu sveikatai padarytą žalą, kai už jam suteiktas sveikatos priežiūros paslaugas sumokama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, ir už kitą Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą;
 
-2. Seimas gali įstatymu patvirtinti Privalomojo sveikatos draudimo fondo biudžetui papildomus valstybės biudžeto asignavimus, jei dėl Fondo biudžeto tvirtinimo metu nenumatytų priežasčių padidėja jo išlaidos arba sumažėja pajamos ir dėl to Fondo biudžetas negali įvykdyti visų šio Įstatymo nustatytų įpareigojimų.
+7) vaistinio preparato rinkodaros teisės turėtojų (jų atstovų) arba juridinių asmenų, turinčių didmeninio platinimo licenciją, pervestos lėšos pagal gydymo prieinamumo gerinimo ir rizikos pasidalijimo sutartis, sudarytas su Valstybine ligonių kasa;
+
+8) kitos teisėtai gautos pajamos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+
+2. Seimas gali įstatymu patvirtinti Privalomojo sveikatos draudimo fondo biudžetui skiriamus papildomus valstybės biudžeto asignavimus, jeigu padidėja Privalomojo sveikatos draudimo fondo biudžeto išlaidos arba sumažėja šio fondo biudžeto pajamos ir dėl to Privalomojo sveikatos draudimo fondo biudžetas negali įvykdyti visų šio Įstatymo nustatytų įpareigojimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
 
 3. Seimas įstatymu gali skirti valstybės biudžeto lėšų visoms ūkininkų privalomojo sveikatos draudimo įmokoms, numatytoms šio Įstatymo 17 straipsnio 5 dalyje, ar jų daliai sumokėti.
+
+4. Jeigu vykdant Privalomojo sveikatos draudimo fondo biudžetą gaunama viršplaninių pajamų ir einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rezervas sudaro ne mažiau kaip 5 procentus praėjusiais metais Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos ir Valstybinio socialinio draudimo fondo administravimo įstaigų į Privalomojo sveikatos draudimo fondo biudžetą pervestų pajamų, gautos viršplaninės pajamos einamaisiais metais gali būti naudojamos šio Įstatymo II skyriuje nurodytoms išlaidoms, viršijančioms Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatyme šioms išlaidoms numatytas einamųjų metų lėšų sumas, kompensuoti sveikatos apsaugos ministro sprendimu.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
 
 Straipsnio pakeitimai:
 
@@ -634,7 +670,17 @@ Banką Lietuvos Respublikoje Valstybinė ligonių kasa ir teritorinės ligonių 
 
 6) išlaidos privalomąjį sveikatos draudimą vykdančių institucijų veiklos išlaidoms apmokėti;
 
-7) išlaidos Valstybinio socialinio draudimo fondo sąnaudoms, skirtoms sveikatos draudimo įmokoms surinkti ir pervesti į Privalomojo sveikatos draudimo fondą, apmokėti.
+7) išlaidos Valstybinio socialinio draudimo fondo sąnaudoms, susidarančioms dėl sveikatos draudimo įmokų surinkimo ir pervedimo į Privalomojo sveikatos draudimo fondą, padengti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+
+8) paslaugų, skirtų gyvybei gelbėti ir išsaugoti, išlaidų apmokėjimas šio Įstatymo ir kitų teisės aktų nustatyta tvarka.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
 
 2. Privalomojo sveikatos draudimo tarybos teikimu Valstybinė ligonių kasa, suderinusi su Sveikatos apsaugos ministerija, Privalomojo sveikatos draudimo fondo biudžeto lėšas gali skirti valstybinėms ir savivaldybių sveikatos programoms finansuoti.
 
@@ -764,7 +810,23 @@ Valstybinė ligonių kasa atlieka šias funkcijas:
 
 7) šio Įstatymo nustatytais pagrindais ir sąlygomis užtikrina prevencinės medicinos pagalbos, medicinos pagalbos, medicininės reabilitacijos, slaugos, socialinių paslaugų ir patarnavimų, priskirtų asmens sveikatos priežiūrai, bei asmens sveikatos ekspertizės paslaugų teikimo išlaidų apmokėjimą Privalomojo sveikatos draudimo fondo biudžeto lėšomis per teritorines ligonių kasas;
 
-8) kitas šio Įstatymo, Valstybinės ligonių kasos nuostatų ir kitų teisės aktų nustatytas funkcijas.
+8) šio Įstatymo nustatytais pagrindais ir sąlygomis užtikrina paslaugų, skirtų gyvybei gelbėti ir išsaugoti, išlaidų apmokėjimą per teritorines ligonių kasas;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+
+9) sudaro gydymo prieinamumo gerinimo ir rizikos pasidalijimo sutartis su vaistinio preparato rinkodaros teisės turėtojais (jų atstovais) arba juridiniais asmenimis, turinčiais didmeninio platinimo licenciją;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+
+10) kitas šio Įstatymo, Valstybinės ligonių kasos nuostatų ir kitų teisės aktų nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
 
 Straipsnio pakeitimai:
 
@@ -1129,172 +1191,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1022, 2002-07-03, Žin., 2002, Nr. 72-3021 (2002-07-17)
 
 SVEIKATOS DRAUDIMO ĮSTATYMO 9, 15, 32 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-122 straipsnis. Medicinos priemonių (prietaisų), būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų kompensavimas
-
-1. Medicinos priemonių (prietaisų) nuomos išlaidos kompensuojamos Privalomojo sveikatos draudimo fondo biudžeto lėšomis apdraustiesiems, kuriems šios medicinos priemonės (prietaisai) pagal gydytojų konsiliumo išvadą yra būtinos sveikatos priežiūrai namuose užtikrinti.
-
-2. Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamos tik tų medicinos priemonių (prietaisų) nuomos išlaidos apdraustiesiems, kurios įrašytos į Privalomojo sveikatos draudimo fondo biudžeto lėšomis nuomojamų medicinos priemonių (prietaisų), būtinų sveikatos priežiūrai namuose užtikrinti, sąrašą. Šį sąrašą ir nurodytų medicinos priemonių (prietaisų) nuomos išlaidų kompensavimo tvarką tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones.
-
-3. Medicinos priemonės (prietaisai) į šio straipsnio 2 dalyje nurodytą sąrašą įrašomos ir iš jo išbraukiamos įvertinus Valstybinės ligonių kasos bei Privalomojo sveikatos draudimo tarybos nuomones ir vadovaujantis visais šiais kriterijais:
-
-1) medicinos priemonė (prietaisas) turi būti skirta apdraustųjų gyvybinėms funkcijoms namuose palaikyti ar ilgalaikei medicininei intervencijai namuose atlikti;
-
-2) medicinos priemonės (prietaisai) turi atitikti Sveikatos sistemos įstatyme, sveikatos apsaugos ministro ar jo įgaliotos institucijos patvirtintuose teisės aktuose nustatytus medicinos priemonių (prietaisų) pateikimo rinkai ir platinimo reikalavimus;
-
-3) turi būti finansinės galimybės kompensuoti medicinos priemonės (prietaiso) nuomos išlaidas (jos įvertinamos atsižvelgiant į Privalomojo sveikatos draudimo fondo biudžetą).
-
-4. Į šio straipsnio 2 dalyje nurodytą sąrašą įtrauktų medicinos priemonių (prietaisų) nuomos bazines kainas ir bazinių kainų nustatymo metodiką tvirtina sveikatos apsaugos ministras.
-
-5. Apdraustiesiems medicinos priemonių (prietaisų), įrašytų į šio straipsnio 2 dalyje nurodytą sąrašą, nuomos bazinė kaina kompensuojama 100 procentų, neviršijant faktinių medicinos priemonių (prietaisų) nuomos išlaidų.
-
-Papildyta straipsniu:
-
-Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
-
-III SKYRIUS
-
-PRIVALOMOJO SVEIKATOS DRAUDIMO FINANSAI
-
-261 straipsnis. Valstybinės ligonių kasos ar jos įgaliotų teritorinių ligonių kasų sutartys su ūkio subjektais dėl medicinos priemonių (prietaisų), būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo
-
-1. Sutartys dėl medicinos priemonių (prietaisų), įrašytų į šio Įstatymo 122 straipsnio 2 dalyje nurodytą sąrašą, nuomos išlaidų apmokėjimo pasirašomos tarp Valstybinės ligonių kasos ar jos įgaliotų teritorinių ligonių kasų ir to pageidaujančių ūkio subjektų, atitinkančių šio straipsnio 2 dalyje nurodytas sąlygas.
-
-2. Valstybinė ligonių kasa ar jos įgaliotos teritorinės ligonių kasos sudaro šio straipsnio 1 dalyje nurodytas sutartis su ūkio subjektu, jeigu šis užtikrina įrašytos į šio Įstatymo 122 straipsnio 2 dalyje nurodytą sąrašą medicinos priemonės (prietaiso) tiekimą į Lietuvos Respublikos rinką, garantinį aptarnavimą, nuolatinę priežiūrą ir keičiamųjų dalių tiekimą.
-
-3. Valstybinės ligonių kasos ar jos įgaliotų teritorinių ligonių kasų sutartys su ūkio subjektais dėl medicinos priemonių (prietaisų), būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo sudaromos vadovaujantis šiuo Įstatymu, sveikatos apsaugos ministro nustatyta tvarka ir laikantis skaidrumo, nediskriminavimo bei vienodo vertinimo principų.
-
-4. Šio straipsnio 1 dalyje nurodytų sutarčių sudarymo tvarkos aprašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones, o šių sutarčių tipinę formą, kurioje nurodytos esminės sutarties sąlygos: sutarties šalių teisės ir pareigos, teisės aktuose nustatyti medicinos priemonių (prietaisų) nuomos reikalavimai, kainodaros taisyklės, atsiskaitymų tvarka, sutarties šalių atsakomybė, ginčų sprendimo tvarka, sutarties nutraukimo tvarka, sutarties galiojimas, papildymas ar sustabdymas, tvirtina Valstybinės ligonių kasos direktorius.
-
-Papildyta straipsniu:
-
-Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
-
-91 straipsnis. Ortopedijos techninių priemonių įsigijimo išlaidų kompensavimas
-
-1. Apdraustiesiems ortopedijos techninių priemonių įsigijimo išlaidos kompensuojamos ir sutartys su juridiniais asmenimis dėl ortopedijos techninių priemonių įsigijimo išlaidų apmokėjimo (toliau – sutartys) sudaromos sveikatos apsaugos ministro nustatyta tvarka. Sutartys sudaromos tarp Valstybinės ligonių kasos ir Lietuvos Respublikoje įsteigtų juridinių asmenų, užsienio valstybėje įsteigtų juridinių asmenų ar kitų organizacijų filialų, įsteigtų Lietuvos Respublikoje (toliau – suinteresuotieji asmenys). Sutartys sudaromos su visais pageidaujančiais jas sudaryti suinteresuotaisiais asmenimis. Suinteresuotieji asmenys sutartį dėl ortopedijos techninių priemonių įsigijimo išlaidų apmokėjimo einamiesiems ar kitiems metams gali sudaryti bet kuriuo metu einamaisiais metais. Informacija apie šių sutarčių sudarymo tvarką skelbiama viešai Valstybinės ligonių kasos ir teritorinių ligonių kasų interneto svetainėse. Valstybinė ligonių kasa apmoka suinteresuotųjų asmenų, sudariusių sutartis dėl ortopedijos techninių priemonių, skirtų apdraustiesiems, gamybos ir (ar) pritaikymo, išlaidas ir kompensuoja apdraustųjų, įsigijusių ortopedijos technines priemones savo lėšomis, išlaidas.
-
-2. Privalomojo sveikatos draudimo fondo biudžeto lėšomis apdraustiesiems kompensuojamos tik tų ortopedijos techninių priemonių įsigijimo, o suinteresuotiesiems asmenims apmokamos tik tų ortopedijos techninių priemonių gamybos ir (ar) pritaikymo išlaidos, kurios įrašytos į Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamųjų ortopedijos techninių priemonių ir jų bazinių kainų sąrašą. Ortopedijos techninės priemonės į kompensuojamųjų ortopedijos techninių priemonių ir jų bazinių kainų sąrašą įrašomos sveikatos apsaugos ministro nustatyta tvarka, jeigu jos atitinka šiuos kriterijus:
-
-1) sveikatos apsaugos ministro nustatyta tvarka apskaičiuota ortopedijos techninės priemonės funkcinė vertė turi išreikšti šios priemonės teikiamą naudą apdraustajam: ortopedijos techninė priemonė padeda palengvinti ligos, sužeidimo padarinius ar sumažina jo neįgalumą, neleidžia neįgalumui didėti;
-
-2) turi būti finansinės galimybės kompensuoti ortopedijos techninių priemonių įsigijimo išlaidas (jos įvertinamos atsižvelgiant į Privalomojo sveikatos draudimo fondo biudžete ortopedijos techninių priemonių įsigijimo išlaidoms kompensuoti skirtų valstybės biudžeto asignavimų dalį).
-
-3. Ortopedijos techninių priemonių įsigijimo išlaidos apdraustiesiems kompensuojamos ir šių priemonių gamybos ir (ar) pritaikymo išlaidos suinteresuotiesiems asmenims apmokamos pagal jų bazines kainas, apskaičiuojamas pagal mažiausias sąnaudas gaminant ir (ar) pritaikant ortopedijos technines priemones patiriančių juridinių asmenų, su kuriais yra sudarytos sutartys, sąnaudų vidurkį sveikatos apsaugos ministro nustatyta tvarka. Kompensuojamųjų ortopedijos techninių priemonių ir jų bazinių kainų sąrašą nustato sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones.
-
-Papildyta straipsniu:
-
-Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
-
-92 straipsnis. Asmens sveikatos priežiūros paslaugų įrašymo į Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašą ir išbraukimo iš šio sąrašo sąlygos ir tvarka
-
-1. Naujas asmens sveikatos priežiūros paslaugas, kurios galėtų būti apmokamos Privalomojo sveikatos draudimo fondo biudžeto lėšomis, ir šio fondo biudžeto lėšomis jau apmokamas asmens sveikatos priežiūros paslaugas, kurių teikimo sąnaudos padidėjo dėl organizacinių pakeitimų ir (ar) diegiamų naujų technologijų, vertina Asmens sveikatos priežiūros paslaugų vertinimo komitetas (toliau – Komitetas) šio įstatymo ir sveikatos apsaugos ministro nustatyta tvarka.
-
-2. Paraiškas dėl šio straipsnio 1 dalyje nurodytų asmens sveikatos priežiūros paslaugų vertinimo Komitetui teikia Sveikatos apsaugos ministerija, Valstybinė ligonių kasa, universiteto ligoninės ir sveikatos priežiūros specialistus vienijančios asociacijos. Paraiškos Komitetui teikiamos iki kiekvienų metų kovo 1 dienos ir iki rugsėjo 1 dienos. Komitetas ne vėliau kaip atitinkamai iki kiekvienų metų gegužės 1 dienos arba iki lapkričio 1 dienos įvertina šio straipsnio 1 dalyje nurodytas asmens sveikatos priežiūros paslaugas ir jas įtraukia (arba jų neįtraukia) į Kompensuotinų Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros paslaugų sąrašą, vadovaudamasis visais šiais įtraukimo į šį sąrašą kriterijais:
-
-1) asmens sveikatos priežiūros paslaugos veiksmingumas yra pagrįstas medicinos mokslo įrodymais;
-
-2) asmens sveikatos priežiūros paslaugos poreikis – daugiau kaip vienas sveikatos sutrikimo atvejis, tenkantis 200 000 Lietuvos Respublikos gyventojų per kalendorinius metus.
-
-3. Sveikatos apsaugos ministro nustatyta tvarka Komitetas ne vėliau kaip atitinkamai iki einamųjų metų birželio 1 dienos arba gruodžio 1 dienos peržiūri Kompensuotinų Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros paslaugų sąrašą, įvertina jame nurodytas asmens sveikatos priežiūros paslaugas ir išdėsto jas prioriteto tvarka, atsižvelgdamas į visus šiuos vertinimo kriterijus:
-
-1) asmens sveikatos priežiūros paslaugos poveikį ligoms ir būklėms, lemiančioms didžiausią šalies gyventojų ligotumą ir mirtingumą, ir (ar) svarbiausiems vertinamiems visos šalies sveikatos rodikliams;
-
-2) asmens sveikatos priežiūros paslaugos poveikį pacientų išgyvenamumui;
-
-3) asmens sveikatos priežiūros paslaugos poveikį pacientų darbingumui ir (ar) neįgalumui;
-
-4) asmens sveikatos priežiūros paslaugos poveikį pacientų gyvenimo kokybei;
-
-5) asmens sveikatos priežiūros paslaugos poveikį Privalomojo sveikatos draudimo fondo biudžeto lėšų panaudojimo efektyvumui;
-
-6) galimybę užtikrinti visuotinį asmens sveikatos priežiūros paslaugos prieinamumą.
-
-4. Komitetas, įvertinęs asmens sveikatos priežiūros paslaugas ir išdėstęs jas prioriteto tvarka, priima sprendimą siūlyti sveikatos apsaugos ministrui asmens sveikatos priežiūros paslaugą įrašyti (arba jos neįrašyti) į Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašą. Prieš priimant šioje dalyje nurodytą sprendimą turi būti sudarytos galimybės Komiteto posėdyje dalyvauti ir pateikti savo paaiškinimus šio straipsnio 2 dalyje nurodytiems paraiškų teikėjams. Ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos Komiteto sprendimas skelbiamas viešai, o pareiškėjas informuojamas raštu, aiškiai, suprantamai ir išsamiai nurodant objektyviais ir patikrinamais kriterijais pagrįstas Komiteto priimto sprendimo priežastis.
-
-5. Jeigu pareiškėjas nesutinka su Komiteto priimtu sprendimu, jis per 10 darbo dienų nuo sprendimo gavimo dienos turi teisę pateikti skundą sveikatos apsaugos ministro nustatyta tvarka. Skundus dėl Komiteto priimtų sprendimų nagrinėja sveikatos apsaugos ministro sudaryta nuolatinė Apeliacinė komisija. Apeliacinė komisija, sveikatos apsaugos ministro nustatyta tvarka išnagrinėjusi pareiškėjo skundą, ne vėliau kaip per 20 darbo dienų nuo skundo gavimo dienos gali priimti šiuos sprendimus:
-
-1) patenkinti skundą ir siūlyti sveikatos apsaugos ministrui pavesti Komitetui pakartotinai priimti sprendimą, įvertinus Apeliacinės komisijos nurodytus trūkumus;
-
-2) atmesti skundą.
-
-6. Sveikatos apsaugos ministras, atsižvelgęs į Valstybinės ligonių kasos išvadą dėl galimybių Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokėti šio straipsnio 1 dalyje nurodytas asmens sveikatos priežiūros paslaugas bei Privalomojo sveikatos draudimo tarybos nuomonę, ne vėliau kaip atitinkamai iki einamųjų metų spalio 1 dienos arba iki kitų metų balandžio 1 dienos keičia Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašą pagal Komiteto pateiktus siūlymus.
-
-7. Asmens sveikatos priežiūros paslaugos, neįtrauktos į Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašą, lieka Kompensuotinų Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros paslaugų sąraše ir kitais metais vėl yra vertinamos bei dėstomos prioriteto tvarka šiame straipsnyje nustatyta tvarka.
-
-8. Komitetas šio straipsnio 2 dalyje nurodytų subjektų siūlymu ir nustatyta tvarka įvertina, ar Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąraše nurodytos asmens sveikatos priežiūros paslaugos atitinka visus šio straipsnio 2 dalyje nustatytus įtraukimo į Kompensuotinų Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros paslaugų sąrašą kriterijus. Asmens sveikatos priežiūros paslaugos, neatitinkančios visų šio straipsnio 2 dalyje nustatytų įtraukimo kriterijų, Komiteto siūlymu išbraukiamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašo šio straipsnio 6 dalyje nustatyta tvarka.
-
-Papildyta straipsniu:
-
-Nr. XIII-1764, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21109
-
-93 straipsnis. Asmens sveikatos priežiūros paslaugų vertinimo komitetas ir Apeliacinė komisija
-
-1. Komitetas sudaromas iš dviejų Sveikatos apsaugos ministerijos, dviejų Valstybinės ligonių kasos, dviejų Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos, dviejų universiteto ligoninių, dviejų gydytojams ir dviejų pacientams atstovaujančių organizacijų atstovų, turinčių aukštąjį universitetinį išsilavinimą ir atitinkančių sveikatos apsaugos ministro nustatytus kvalifikacijos ir patirties reikalavimus. Komiteto nario kadencija yra ketveri metai. Tas pats Komiteto narys negali būti skiriamas Komiteto nariu daugiau kaip dviem kadencijoms iš eilės. Komiteto narius skiria sveikatos apsaugos ministras. Sveikatos apsaugos ministras taip pat skiria pakaitinius Komiteto narius, kurie nesant atitinkamų Komiteto narių, juos pakeičia.
-
-2. Apeliacinė komisija sudaroma iš dviejų Sveikatos apsaugos ministerijos, dviejų gydytojams ir dviejų pacientams atstovaujančių organizacijų atstovų. Apeliacinės komisijos nariu gali būti skiriamas asmuo, turintis aukštąjį universitetinį išsilavinimą ir atitinkantis sveikatos apsaugos ministro nustatytus kvalifikacijos ir patirties reikalavimus. Apeliacinės komisijos nario kadencija yra ketveri metai. Tas pats Apeliacinės komisijos narys negali būti skiriamas Apeliacinės komisijos nariu daugiau kaip dviem kadencijoms iš eilės. Apeliacinės komisijos nariu taip pat negali būti skiriamas šio straipsnio 1 dalyje nurodyto Komiteto narys. Komiteto ir Apeliacinės komisijos nariai negali būti tarpusavyje susiję tiesioginio pavaldumo santykiais.
-
-3. Komiteto ir Apeliacinės komisijos nariai, nevykdę šiame įstatyme ir kituose teisės aktuose jiems nustatytų pareigų ar netinkamai jas vykdę, sveikatos apsaugos ministro nustatyta tvarka šalinami iš Komiteto ir Apeliacinės komisijos ir atsako įstatymų nustatyta tvarka. Jeigu Komiteto ir Apeliacinės komisijos narys yra valstybės tarnautojas, apie jo pareigų nevykdymą ar netinkamą vykdymą informuojamas institucijos ar įstaigos, kurioje jis eina valstybės tarnautojo pareigas, vadovas.
-
-4. Komiteto ir Apeliacinės komisijos funkcijas ir darbo organizavimo tvarką nustato šis įstatymas ir sveikatos apsaugos ministras.
-
-Papildyta straipsniu:
-
-Nr. XIII-1764, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21109
-
-262 straipsnis. Teritorinių ligonių kasų sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo
-
-1. Sutartis dėl medicinos priemonių, įrašytų į šio Įstatymo 10 straipsnio 1 dalyje nurodytą Kompensuojamųjų medicinos pagalbos priemonių sąrašą ir pagal sveikatos apsaugos ministro patvirtintuose medicinos priemonių saugos techniniuose reglamentuose nurodytas taisykles klasifikuojamų kaip gaminamos I klasės medicinos priemonės arba in vitro diagnostikos medicinos priemonės, skirtos savikontrolei (toliau – I klasės medicinos priemonės ir in vitro diagnostikos priemonės, skirtos savikontrolei), apmokėjimo pasirašo teritorinės ligonių kasos su to pageidaujančiais ūkio subjektais, atitinkančiais šio straipsnio 2 dalyje nurodytas sąlygas. Ši nuostata netaikoma vaistinėms, su kuriomis sutartys sudaromos šio Įstatymo 26 straipsnyje nustatyta tvarka.
-
-2. Teritorinės ligonių kasos sudaro šio straipsnio 1 dalyje nurodytas sutartis su ūkio subjektais, jeigu šie užtikrina I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, tiekimą į Lietuvos Respublikos rinką ir visas šias priemones išduoda (parduoda) sveikatos apsaugos ministro nustatyta tvarka.
-
-3. Šio straipsnio 1 dalyje nurodytos sutartys sudaromos vadovaujantis šiuo Įstatymu, sveikatos apsaugos ministro nustatyta tvarka ir laikantis skaidrumo, nediskriminavimo bei vienodo vertinimo principų.
-
-4. Šio straipsnio 1 dalyje nurodytų sutarčių sudarymo tvarkos aprašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Šių sutarčių tipinę formą, kurioje nurodomos esminės sutarties sąlygos (sutarties šalių teisės ir pareigos, atsiskaitymo tvarka, sutarties šalių atsakomybė, ginčų sprendimo tvarka, sutarties nutraukimo tvarka, sutarties galiojimas, papildymo ar sustabdymo tvarka), tvirtina Valstybinės ligonių kasos direktorius.
-
-Papildyta straipsniu:
-
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
-
-311 straipsnis. Valstybinės ligonių kasos direktoriaus sprendimai, priimami vykdant asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, sudariusių sutartis su Valstybine ligonių kasa, veiklos priežiūrą
-
-1. Valstybinės ligonių kasos direktorius, vykdydamas asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, sudariusių šio Įstatymo 26, 261 ir 262 straipsniuose nurodytas sutartis su Valstybine ligonių kasa, veiklos priežiūrą, priima šiuos sprendimus dėl poveikio priemonių taikymo:
-
-1) sustabdyti sutarties vykdymą arba nutraukti sutartį su asmens sveikatos priežiūros įstaiga dėl tų asmens sveikatos priežiūros paslaugų, dėl kurių sustabdytas ar panaikintas licencijos asmens sveikatos priežiūros veiklai galiojimas, sustabdyti sutarties vykdymą arba nutraukti sutartį su vaistine, jeigu sustabdomas ar panaikinamas vaistinės veiklos licencijos galiojimas (sutarties vykdymas stabdomas iki atitinkamos licencijos galiojimo sustabdymo panaikinimo dienos);
-
-2) pateikti rašytinį nurodymą asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui pašalinti įstatymų ir (arba) kitų teisės aktų pažeidimus;
-
-3) įpareigoti grąžinti asmens sveikatos priežiūros įstaigos, vaistinės ar kito ūkio subjekto neteisėtai gautas Privalomojo sveikatos draudimo fondo biudžeto lėšas;
-
-4) pateikti rašytinį nurodymą asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui grąžinti apdraustajam neteisėtai paimtą iš jo mokestį už asmens sveikatos priežiūros paslaugas, vaistus, medicinos pagalbos priemones ir medicinos priemones, jeigu asmens sveikatos priežiūros paslaugas ir (arba) vaistus, medicinos pagalbos priemones ir (arba) medicinos priemones jis turėjo gauti nemokamai;
-
-5) 30 kalendorinių dienų sustabdyti sutarties arba jos dalies vykdymą dėl tų asmens sveikatos priežiūros paslaugų, vaistų, medicinos pagalbos priemonių ar medicinos priemonių nuomos, dėl kurių priimtas šios dalies 2–4 punktuose nurodytas sprendimas nebuvo įvykdytas per 30 kalendorinių dienų nuo jo priėmimo dienos, o neįvykdžius šio sprendimo iki sutarties arba jos dalies galiojimo sustabdymo termino pabaigos, nutraukti sutartį arba jos dalį.
-
-2. Nustačius įstatymų ir (arba) kitų teisės aktų reikalavimų pažeidimo faktą, kuris vertintinas kaip mažareikšmis teisės aktų reikalavimų pažeidimas, Valstybinės ligonių kasos direktoriaus šio straipsnio 1 dalies 5 punkte nurodytas sprendimas nutraukti sutartį arba jos dalį neįvykdžius šios dalies 2–4 punktuose nurodyto sprendimo iki sutarties arba jos dalies galiojimo sustabdymo termino pabaigos negali būti priimamas. Jei mažareikšmį teisės aktų reikalavimų pažeidimą galima ištaisyti nedelsiant, dalyvaujant asmens sveikatos priežiūros įstaigos, vaistinės ar kito ūkio subjekto veiklos priežiūrą atliekančiam Valstybinės ligonių kasos valstybės tarnautojui, tokio pažeidimo tyrimas nutraukiamas, įstatymų numatytos kitos poveikio priemonės neskiriamos, o ūkio subjektui pareiškiama žodinė pastaba. Tais atvejais, kai mažareikšmio teisės aktų reikalavimų pažeidimo nedelsiant, dalyvaujant ūkio subjektų veiklos priežiūrą atliekančiam Valstybinės ligonių kasos valstybės tarnautojui, ištaisyti negalima, ūkio subjektui pateikiamas rašytinis nurodymas pašalinti mažareikšmį teisės aktų reikalavimų pažeidimą ir nustatomas protingas pažeidimo pašalinimo terminas, kuris gali būti pratęstas vieną kartą. Įstatymų ir (arba) kitų teisės aktų reikalavimų pažeidimų, kurie laikomi mažareikšmiais, kriterijų aprašą, taip pat šių pažeidimų pašalinimo terminus tvirtina sveikatos apsaugos ministras ar jo įgaliota institucija.
-
-3. Valstybinės ligonių kasos direktoriaus šio straipsnio 1 dalies 2–5 punktuose nurodyti sprendimai turi būti priimti ne vėliau kaip per 3 mėnesius nuo asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, sudariusių šio Įstatymo 26, 261 ir 262 nurodytas sutartis su Valstybine ligonių kasa, veiklos patikrinimo atlikimo dienos. Valstybinės ligonių kasos direktoriaus šio straipsnio 1 dalies 1 punkte nurodytas sprendimas priimamas ne vėliau kaip per 5 darbo dienas nuo informacijos apie licencijos galiojimo sustabdymą ar panaikinimą gavimo dienos.
-
-4. Valstybinės ligonių kasos direktorius, prieš priimdamas šio straipsnio 1 dalies 2–5 punktuose nurodytus sprendimus, nustato tikrintai asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui 14 dienų terminą paaiškinimams pateikti.
-
-5. Asmens sveikatos priežiūros įstaigos, vaistinės ar kito ūkio subjekto įgaliotų asmenų paaiškinimų nepateikimas ar neatvykimas į svarstymą, apie kurį asmens sveikatos priežiūros įstaiga, vaistinė ar kitas ūkio subjektas buvo tinkamai informuoti, netrukdo priimti šio straipsnio 1 dalyje nurodytų sprendimų.
-
-6. Valstybinės ligonių kasos direktoriaus priimti šio straipsnio 1 dalyje nurodyti sprendimai ne vėliau kaip per 3 darbo dienas nuo jų priėmimo dienos pateikiami asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui.
-
-7. Valstybinės ligonių kasos direktoriaus šio straipsnio 1 dalyje nurodyti sprendimai gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Apskundimas nesustabdo šių sprendimų vykdymo.
-
-Papildyta straipsniu:
-
-Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
-
-411 straipsnis. Ginčų tarp asmens sveikatos priežiūros įstaigų, vaistinių, šio Įstatymo 261 ir 262 straipsniuose nurodytų ūkio subjektų bei Valstybinės ligonių kasos sprendimo tvarka
-
-Asmens sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo 261 ir 262 straipsniuose nurodytų ūkio subjektų skundus dėl Valstybinės ligonių kasos sprendimų (neveikimo) dėl sutarčių, kurios sudaromos pagal šio Įstatymo 26, 261 ir 262 straipsnius, sudarymo, nesudarymo ir vykdymo sprendžia Lietuvos administracinių ginčų komisija Ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo nustatyta tvarka arba teismas Administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-Skyriaus pakeitimai:
-
-Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
-
-VII SKYRIUS
-
-PAPILDOMASIS (SAVANORIŠKASIS) SVEIKATOS DRAUDIMAS
 
