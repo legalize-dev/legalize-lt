@@ -4,7 +4,7 @@ identifier: "TAR.779892D853B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-10"
-last_updated: "2014-11-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 58 straipsnis įsigalioja 2002-09-18.
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2014-11-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-04-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
 
@@ -92,11 +92,13 @@ Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010IS
 
 9. Finansų įstaigos turtas – finansų įstaigos balanse parodytas kilnojamasis ir nekilnojamasis turtas, taip pat nematerialusis ir finansinis turtas.
 
-10. Finansų kontroliuojančioji (holdingo) bendrovė – finansų įmonė, kurios visos kontroliuojamos įmonės arba jų dauguma yra kredito įstaigos arba finansų įmonės, o iš jų nors viena yra kredito įstaiga, ir kuri nėra mišrios veiklos finansų kontroliuojančioji (holdingo) įmonė, apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme.
+10. Finansų kontroliuojančioji bendrovė – finansų įmonė, kurios visos kontroliuojamos įmonės arba jų dauguma yra kredito įstaigos arba finansų įmonės, o iš jų nors viena yra kredito įstaiga, ir kuri nėra mišrios veiklos finansų kontroliuojančioji įmonė, apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+
+Nr. XII-1478, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21167
 
 11. Finansinis laidavimas – įstatymų nustatyta tvarka sudarytoje laidavimo sutartyje nustatytas finansų įstaigos neatšaukiamas įsipareigojimas išmokėti tam tikrą laidavimo sutartyje nurodytą sumą, jeigu asmuo, už kurį finansų įstaiga laiduoja, nevykdo visos ar dalies savo prievolės.
 
@@ -210,11 +212,13 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
 
-28. Mišrią veiklą vykdanti kontroliuojančioji (holdingo) bendrovė – globojanti (patronuojanti) įmonė (bet ne finansų kontroliuojančioji (holdingo) bendrovė, kredito įstaiga ar mišrios veiklos finansų kontroliuojančioji (holdingo) įmonė, apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme), kurios nors viena kontroliuojama įmonė yra kredito įstaiga.
+28. Mišrią veiklą vykdanti kontroliuojančioji bendrovė – globojanti (patronuojanti) įmonė (bet ne finansų kontroliuojančioji bendrovė, kredito įstaiga ar mišrios veiklos finansų kontroliuojančioji įmonė, apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme), kurios nors viena kontroliuojama įmonė yra kredito įstaiga.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+
+Nr. XII-1478, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21167
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -1102,7 +1106,11 @@ Finansų įstaiga, vadovaudamasi jos veiklą reglamentuojančiais Lietuvos Respu
 
 38 straipsnis. Finansinės grupės
 
-1. Finansų įstaiga, įskaitant ir finansų kontroliuojančiąją (holdingo) bendrovę, ir jos kontroliuojamos finansų įstaigos bei šių finansų įstaigų kontroliuojamos kitos finansų įstaigos, kurias tiesiogiai ir (arba) netiesiogiai kontroliuoja pirmoji finansų įstaiga, sudaro finansinę grupę.
+1. Finansų įstaiga, įskaitant ir finansų kontroliuojančiąją bendrovę, ir jos kontroliuojamos finansų įstaigos bei šių finansų įstaigų kontroliuojamos kitos finansų įstaigos, kurias tiesiogiai ir (arba) netiesiogiai kontroliuoja pirmoji finansų įstaiga, sudaro finansinę grupę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1478, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21167
 
 2. Įmonės, kurias tiesiogiai ir (arba) netiesiogiai kontroliuoja finansų įstaigos, negali įsigyti arba valdyti jas kontroliuojančių finansų įstaigų įstatinio kapitalo ir (arba) balsavimo teisių dalies.
 
@@ -1702,11 +1710,23 @@ Nr. XII-1044, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10855
 
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 12 straipsnio pakeitimo įstatymas
 
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1478, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21167
+
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 38 ir 38-1 straipsnių pakeitimo įstatymas
+
 381 straipsnis. Finansinių grupių jungtinė (konsoliduota) priežiūra
 
 1. Lietuvos Respublikos įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatytais atvejais finansinei grupei taikoma jungtinė (konsoliduota) priežiūra.
 
-2. Finansų įstaigų, kurioms taikoma konsoliduota priežiūra, bei mišrią veiklą vykdančių kontroliuojančiųjų (holdingo) bendrovių teises ir pareigas, taip pat jungtinę (konsoliduotą) priežiūrą atliekančios priežiūros institucijos teises ir pareigas nustato Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą.
+2. Finansų įstaigų, kurioms taikoma konsoliduota priežiūra, mišrios veiklos finansų kontroliuojančiųjų įmonių bei mišrią veiklą vykdančių kontroliuojančiųjų bendrovių teises ir pareigas, taip pat jungtinę (konsoliduotą) priežiūrą atliekančios priežiūros institucijos teises ir pareigas nustato Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1478, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21167
 
 Papildyta straipsniu:
 
