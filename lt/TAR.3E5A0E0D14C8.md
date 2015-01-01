@@ -4,7 +4,7 @@ identifier: "TAR.3E5A0E0D14C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-12-23"
-last_updated: "2012-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3E5A0E0D14C8"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2012-01-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2016-01-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
 
@@ -107,7 +107,11 @@ BENDROSIOS NUOSTATOS
 
 2) kredito sutartims, kurių paskirtis – įgyti arba išlaikyti nuosavybės teises į žemę arba į esamą ar projektuojamą statinį, išskyrus atvejus, kai vartojimo kredito sutarties sudarymo paskirtis yra esamo pastato renovacija ar jo vertės padidinimas;
 
-3) kredito sutartims, kai bendra suteikiamo kredito suma yra didesnė negu 75 000 eurų atitinkanti suma litais;
+3) kredito sutartims, kai bendra suteikiamo kredito suma yra didesnė negu 75 000 eurų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1503, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21153
 
 4) nuomos ar išperkamosios nuomos sutartims, kai šiose sutartyse ar atskiroje sutartyje nenustatyta pareiga įsigyti sutarties objekto;
 
@@ -471,7 +475,11 @@ KETVIRTASIS SKIRSNIS VARTOJIMO KREDITO SUTARTIS
 
 1. Vartojimo kredito gavėjas turi teisę bet kuriuo metu įvykdyti visus arba dalį savo įsipareigojimų pagal vartojimo kredito sutartį. Tai padaręs, jis turi teisę į bendros vartojimo kredito kainos sumažinimą, kurį sudaro likusio vartojimo kredito sutarties trukmės laikotarpio, skaičiuojamo nuo vartojimo kredito ar jo dalies grąžinimo dienos, palūkanos ir išlaidos.
 
-2. Vartojimo kredito grąžinimo anksčiau nustatyto termino atveju vartojimo kredito davėjas turi teisę į teisingą ir objektyviai pagrįstą kompensaciją už galimas išlaidas, tiesiogiai susijusias su vartojimo kredito grąžinimu anksčiau nustatyto termino, atliekamu tuo laikotarpiu, kuriam nustatyta fiksuotoji vartojimo kredito palūkanų norma. Vartojimo kredito davėjas gali reikalauti šios kompensacijos tik tuo atveju, kai anksčiau nustatyto termino grąžinamas vartojimo kreditas ar jo dalis viršija 8 000 litų per bet kurį dvylikos mėnesių laikotarpį.
+2. Vartojimo kredito grąžinimo anksčiau nustatyto termino atveju vartojimo kredito davėjas turi teisę į teisingą ir objektyviai pagrįstą kompensaciją už galimas išlaidas, tiesiogiai susijusias su vartojimo kredito grąžinimu anksčiau nustatyto termino, atliekamu tuo laikotarpiu, kuriam nustatyta fiksuotoji vartojimo kredito palūkanų norma. Vartojimo kredito davėjas gali reikalauti šios kompensacijos tik tuo atveju, kai anksčiau nustatyto termino grąžinamas vartojimo kreditas ar jo dalis viršija 2 320 eurų per bet kurį dvylikos mėnesių laikotarpį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1503, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21153
 
 3. Šio straipsnio 2 dalyje numatyta kompensacija vartojimo kredito davėjui negali viršyti vieno procento anksčiau nustatyto termino grąžinamos vartojimo kredito dalies, jeigu laikotarpis nuo vartojimo kredito grąžinimo anksčiau nustatyto termino datos iki sutartos vartojimo kredito sutarties pabaigos datos yra ilgesnis kaip vieni metai. Kitais atvejais kompensacija vartojimo kredito davėjui negali viršyti 0,5 procento anksčiau nustatyto termino grąžinamos vartojimo kredito dalies.
 
@@ -731,7 +739,11 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 
 34 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
-1. Už šio įstatymo nuostatų pažeidimus priežiūros institucija gali skirti nuo vieno tūkstančio iki trisdešimties tūkstančių litų baudą. Pakartotinai per vienus metus padarius pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda, gali būti skiriama didesnė, iki šimto dvidešimties tūkstančių litų, bauda. Jeigu pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems vartojimo kredito gavėjų interesams, priežiūros institucija, vadovaudamasi teisingumo ir protingumo kriterijais, gali taikyti nuobaudą – įspėjimą, neskirdama baudos.
+1. Už šio įstatymo nuostatų pažeidimus priežiūros institucija gali skirti nuo 289 iki 8 688 eurų baudą. Pakartotinai per vienus metus padarius pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda, gali būti skiriama didesnė, iki 34 754 eurų, bauda. Jeigu pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems vartojimo kredito gavėjų interesams, priežiūros institucija, vadovaudamasi teisingumo ir protingumo kriterijais, gali taikyti nuobaudą – įspėjimą, neskirdama baudos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1503, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21153
 
 2. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio 3 ir 4 dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Skiriamos baudos dydis nustatomas pagal baudos dydžio minimumo ir maksimumo vidurkį, atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidutinio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidutinio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas priežiūros institucijos nutarime.
 
@@ -741,7 +753,11 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 
 5. Skundą dėl priežiūros institucijos nutarimo skirti baudą nagrinėjantis teismas, atsižvelgdamas į atsakomybę lengvinančias ir kitas aplinkybes (dėl kurių bauda asmeniui, kuris pažeidė šį įstatymą, būtų akivaizdžiai per didelė, nes neproporcinga padarytam teisės pažeidimui ir dėl to neteisinga) ir vadovaudamasis teisingumo, protingumo kriterijais, turi teisę skirti mažesnę baudą, negu šiame straipsnyje nustatyta minimali bauda.
 
-6. Už priežiūros institucijos reikalavimo pateikti informaciją ir dokumentus, reikalingus šio įstatymo pažeidimui tirti, nevykdymą ar netinkamą vykdymą, jeigu prieš tai asmuo buvo įspėtas dėl šio reikalavimo nevykdymo, asmeniui gali būti skiriama bauda iki dešimties tūkstančių litų.
+6. Už priežiūros institucijos reikalavimo pateikti informaciją ir dokumentus, reikalingus šio įstatymo pažeidimui tirti, nevykdymą ar netinkamą vykdymą, jeigu prieš tai asmuo buvo įspėtas dėl šio reikalavimo nevykdymo, asmeniui gali būti skiriama bauda iki 2 896 eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1503, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21153
 
 35 straipsnis. Viešas skelbimas
 
@@ -1100,6 +1116,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1684, 2011-11-17, Žin., 2011, Nr. 146-6830 (2011-12-01), i. k. 1111010ISTA0XI-1684
 
 Lietuvos Respublikos vartojimo kredito įstatymo pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1503, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21153
+
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 3, 17 ir 34 straipsnių pakeitimo įstatymas
 
 43 straipsnis. Viešas skelbimas
 
