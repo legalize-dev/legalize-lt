@@ -4,7 +4,7 @@ identifier: "TAR.1EABAD7265D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-06-18"
-last_updated: "2013-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1EABAD7265D5"
 department: "Lietuvos Respublikos Seimas"
@@ -19,6 +19,10 @@ document_status: "registruotas TA registre"
 LIETUVOS RESPUBLIKOS INFORMUOTIESIEMS INVESTUOTOJAMS SKIRTŲ KOLEKTYVINIO
 
 INVESTAVIMO SUBJEKTŲ ĮSTATYMAS
+
+Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+
+Įstatymas paskelbtas: Žin. 2013, Nr. 68-3410, i. k. 1131010ISTA0XII-376
 
 LIETUVOS RESPUBLIKOS
 
@@ -1122,27 +1126,31 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 1. Priežiūros institucija, vadovaudamasi Finansinių priemonių rinkų įstatymo nustatyta tvarka, turi teisę skirti tokias baudas:
 
-1) juridiniams asmenims, nurodantiems, kad jie veiklą vykdo ar jų valdomas kolektyvinio investavimo subjektas veikia pagal šį įstatymą, bet neturintiems šio įstatymo nustatyto veiklos leidimo ir (ar) pritarimo fondo taisyklėms, – iki 200 tūkstančių litų; atsakomybė pagal šį punktą netaikoma juridiniams asmenims, kolektyvinio investavimo subjekto steigimo dokumentuose ar prospekte nurodantiems, kad jie ketina veikti ar jų valdomas kolektyvinio investavimo subjektas sieks gauti veiklos leidimą ar pritarimą fondo taisyklėms pagal šį įstatymą, jeigu investuotojui išaiškinamos ir kolektyvinio investavimo subjekto steigimo dokumentuose ar prospekte aiškiai nurodomos tokio ketinimo įvykdymo sąlygos ir terminai;
+1) juridiniams asmenims, nurodantiems, kad jie veiklą vykdo ar jų valdomas kolektyvinio investavimo subjektas veikia pagal šį įstatymą, bet neturintiems šio įstatymo nustatyto veiklos leidimo ir (ar) pritarimo fondo taisyklėms, – iki 57 924 eurų; atsakomybė pagal šį punktą netaikoma juridiniams asmenims, kolektyvinio investavimo subjekto steigimo dokumentuose ar prospekte nurodantiems, kad jie ketina veikti ar jų valdomas kolektyvinio investavimo subjektas sieks gauti veiklos leidimą ar pritarimą fondo taisyklėms pagal šį įstatymą, jeigu investuotojui išaiškinamos ir kolektyvinio investavimo subjekto steigimo dokumentuose ar prospekte aiškiai nurodomos tokio ketinimo įvykdymo sąlygos ir terminai;
 
-2) juridiniams asmenims, viešai siūlantiems kolektyvinio investavimo subjektų investicinius vienetus, akcijas ar įnešti įnašus, neturintiems šiame įstatyme nustatyto priežiūros institucijos išduoto veiklos leidimo, – iki 200 tūkstančių litų;
+2) juridiniams asmenims, viešai siūlantiems kolektyvinio investavimo subjektų investicinius vienetus, akcijas ar įnešti įnašus, neturintiems šiame įstatyme nustatyto priežiūros institucijos išduoto veiklos leidimo, – iki 57 924 eurų;
 
-3) juridiniams asmenims, nesilaikantiems šio įstatymo 13 straipsnio 1 dalies 3 punkto reikalavimo, – iki 200 tūkstančių litų;
+3) juridiniams asmenims, nesilaikantiems šio įstatymo 13 straipsnio 1 dalies 3 punkte nustatyto reikalavimo, – iki 57 924 eurų;
 
-4) juridiniams asmenims, nesilaikantiems šio įstatymo 13 straipsnio 1 dalies 1, 2, 4–13 punktuose nustatytų veiklos reikalavimų ir riziką ribojančių reikalavimų, – iki 200 tūkstančių litų;
+4) juridiniams asmenims, nesilaikantiems šio įstatymo 13 straipsnio 1 dalies 1, 2, 4–13 punktuose nustatytų veiklos reikalavimų ir riziką ribojančių reikalavimų, – iki 57 924 eurų;
 
-5) juridiniams asmenims, nesilaikantiems šio įstatymo 24, 25, 27, 28 ir 29 straipsniuose nustatytos kolektyvinio investavimo subjektų investicinių vienetų, akcijų išleidimo, įsigijimo ir išpirkimo, įnašų įnešimo ir grąžinimo tvarkos, – iki 100 tūkstančių litų;
+5) juridiniams asmenims, nesilaikantiems šio įstatymo 24, 25, 27, 28 ir 29 straipsniuose nustatytos kolektyvinio investavimo subjektų investicinių vienetų, akcijų išleidimo, įsigijimo ir išpirkimo, įnašų įnešimo ir grąžinimo tvarkos, – iki 28 962 eurų;
 
-6) juridiniams asmenims, nesilaikantiems šio įstatymo 26 straipsnyje nustatytų investicinių vienetų, akcijų apmokėjimo nepiniginiu įnašu, nepiniginio įnašo įnešimo ir išpirkimo bei įnašo grąžinimo reikalavimų, – iki 200 tūkstančių litų;
+6) juridiniams asmenims, nesilaikantiems šio įstatymo 26 straipsnyje nustatytų investicinių vienetų, akcijų apmokėjimo nepiniginiu įnašu, nepiniginio įnašo įnešimo ir išpirkimo bei įnašo grąžinimo reikalavimų, – iki 57 924 eurų;
 
-7) juridiniams asmenims, nesilaikantiems šio įstatymo III skyriuje nustatytų informacijos teikimo investuotojams reikalavimų, – iki 100 tūkstančių litų;
+7) juridiniams asmenims, nesilaikantiems šio įstatymo III skyriuje nustatytų informacijos teikimo investuotojams reikalavimų, – iki 28 962 eurų;
 
-8) juridiniams asmenims, pažeidusiems šio įstatymo 30 straipsnio 4 dalies draudimą skolinti kolektyvinio investavimo subjekto turtą jo dalyviams, – iki 100 tūkstančių litų;
+8) juridiniams asmenims, pažeidusiems šio įstatymo 30 straipsnio 4 dalyje nustatytą draudimą skolinti kolektyvinio investavimo subjekto turtą jo dalyviams, – iki 28 962 eurų;
 
-9) juridiniams asmenims, pažeidusiems kolektyvinio investavimo subjekto grynųjų aktyvų vertės skaičiavimo reikalavimus, – iki 100 tūkstančių litų;
+9) juridiniams asmenims, pažeidusiems kolektyvinio investavimo subjekto grynųjų aktyvų vertės skaičiavimo reikalavimus, – iki 28 962 eurų;
 
-10) juridiniams asmenims, nesilaikantiems kitų šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų, – iki 100 tūkstančių litų;
+10) juridiniams asmenims, nesilaikantiems kitų šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų, – iki 28 962 eurų;
 
-11) juridiniams asmenims, nevykdantiems priežiūros institucijos nurodymų, neteikiantiems priežiūros institucijai šiame ir kituose Lietuvos Respublikos įstatymuose nurodytos informacijos arba trukdantiems priežiūros institucijai ar jos įgaliotiems asmenims atlikti tyrimus ar patikrinimus, – iki 100 tūkstančių litų.
+11) juridiniams asmenims, nevykdantiems priežiūros institucijos nurodymų, neteikiantiems priežiūros institucijai šiame ir kituose Lietuvos Respublikos įstatymuose nurodytos informacijos arba trukdantiems priežiūros institucijai ar jos įgaliotiems asmenims atlikti tyrimus ar patikrinimus, – iki 28 962 eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1101, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13437
 
 2. Jeigu dėl šio straipsnio 1 dalies 1–9 punktuose išvardytų pažeidimų padarymo buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis viršijo minėtuose punktuose nurodytų baudų dydžius, priežiūros institucija turi teisę skirti baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
 
@@ -1176,168 +1184,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
 
-131 straipsnis. Investuotojų (klientų) skundų nagrinėjimas
-
-1. Valdymo įmonė ar investicinė bendrovė privalo priežiūros institucijos nustatyta tvarka nagrinėti investuotojų (klientų) skundus (prašymus), susijusius su valdymo įmonės ar investicinės bendrovės teikiamomis paslaugomis (toliau – skundai).
-
-2. Valdymo įmonė ar investicinė bendrovė privalo išnagrinėti rašytinį investuotojo (kliento) skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė investuotojas (klientas) ir valdymo įmonė ar investicinė bendrovė. Išskirtiniais atvejais, kai dėl priežasčių, kurių valdymo įmonė ar investicinė bendrovė negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio investuotojas (klientas) gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Valdymo įmonė ar investicinė bendrovė investuotojų (klientų) skundus nagrinėja neatlygintinai.
-
-Papildyta straipsniu:
-
-Nr. XIII-1246, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09861
-
-60 straipsnis. Priežiūros institucija
-
-1. Valdymo įmonių ir investicinių bendrovių-valdytojų veiklą, kolektyvinio investavimo subjektų atitiktį teisės aktuose nustatytiems reikalavimams prižiūri priežiūros institucija.
-
-2. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi Lietuvos banko įstatymu, šiuo įstatymu ir kitais finansų rinką reglamentuojančiais teisės aktais, kurių laikymosi priežiūra priskirta jos kompetencijai.
-
-61 straipsnis. Priežiūros institucijos funkcijos ir teisės
-
-1. Priežiūros institucija atlieka šias funkcijas:
-
-1) išduoda veiklos leidimus valdymo įmonėms ir investicinėms bendrovėms-valdytojoms ir panaikina jų galiojimą, taiko šiame įstatyme nustatytas poveikio priemones;
-
-2) pritaria kolektyvinio investavimo subjektų, kurių valdymas perduotas valdymo įmonei, steigimo dokumentams ir kitiems šiame įstatyme nustatytiems dokumentams ir veiksmams, pripažįsta netekusiu galios priežiūros institucijos pritarimą investicinės bendrovės steigimo dokumentams, taip pat pripažįsta netekusiomis galios investicinio fondo taisykles;
-
-3) tikrina kolektyvinio investavimo subjekto turto saugotojų veiklą;
-
-4) atlieka kitas šiame ir kituose Lietuvos Respublikos įstatymuose nustatytas funkcijas.
-
-2. Be kitų Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatytų teisių, priežiūros institucija, atlikdama jai pavestas funkcijas, turi teisę:
-
-1) reikalauti, kad valdymo įmonės, jos valdomų kolektyvinio investavimo subjektų ar investicinės bendrovės, kurios valdymas neperduotas valdymo įmonei, auditoriai pateiktų informaciją apie šių subjektų auditą;
-
-2) imtis visų reikalingų teisės aktuose nustatytų priemonių, kad investicinės bendrovės ir valdymo įmonės laikytųsi šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatytų reikalavimų.
-
-62 straipsnis. Priežiūros tikslu gautos informacijos apsauga
-
-Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugoti taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos.
-
-63 straipsnis. Priežiūros institucijos teisės nagrinėjant kolektyvinio investavimo subjektų veiklą reglamentuojančių teisės aktų pažeidimus
-
-1. Priežiūros institucija organizuoja ir atlieka patikrinimus, kad nustatytų, ar laikomasi šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai.
-
-2. Reikalavimai priežiūros institucijos rengiamiems patikrinimams yra nustatyti Lietuvos banko įstatymo 421 straipsnyje. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme ir šiame įstatyme nustatytas teises.
-
-3. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, pažeidimus arba valdymo įmonės ar investicinės bendrovės veiklos trūkumus, taip pat jeigu kyla grėsmė valdymo įmonės ar investicinės bendrovės veiklos stabilumui ir patikimumui arba visuomenės, investuotojų ir (arba) dalyvių interesams, Lietuvos banko įstatymo nustatyta tvarka valdymo įmonei arba investicinei bendrovei duoda šiuos privalomus nurodymus:
-
-1) sustabdyti investicinių vienetų ar akcijų pardavimą ir išpirkimą, įnašo įnešimą arba jo grąžinimą;
-
-2) per priežiūros institucijos nustatytą terminą pašalinti teisės aktų pažeidimus arba veiklos trūkumus;
-
-3) ne ilgiau kaip 3 mėnesiams uždrausti kolektyvinio investavimo subjekto sąskaita sudaryti sandorius dėl investicinių priemonių įsigijimo;
-
-4) atkurti prieš pažeidžiant teisės aktus buvusią padėtį;
-
-5) nutraukti Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei jo teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą;
-
-6) priežiūros institucijai pateikti papildomą informaciją arba dažniau, negu nustatyta teisės aktuose, teikti informaciją, reikalingą priežiūros funkcijoms atlikti;
-
-7) viešai atskleisti papildomą informaciją;
-
-8) atlikti kitus veiksmus arba neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai ar veiklos trūkumai.
-
-4. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus arba valdymo įmonės ar investicinės bendrovės veiklos trūkumus, taip pat jeigu kyla grėsmė valdymo įmonės ar investicinės bendrovės veiklos stabilumui ir patikimumui arba visuomenės, investuotojų ir (arba) dalyvių interesams, turi teisę mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421 straipsnyje nustatyta tvarka, taikoma teismo leidimams, prašyti teismo (teisėjo) nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja Vilniaus apygardos administracinis teismas.
-
-5. Valdymo įmonės ir investicinės bendrovės privalo vykdyti šio straipsnio 3 dalyje nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai.
-
-ANTRASIS SKIRSNIS
-
-ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
-
-64 straipsnis. Poveikio priemonės
-
-1. Priežiūros institucija taiko asmenims šias poveikio priemones:
-
-1) viešai paskelbia šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimą ir jį padariusį asmenį;
-
-2) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimų ir nurodo per priežiūros institucijos nustatytą terminą nutraukti teisės akto pažeidimą bei užtikrinti, kad jis nesikartotų;
-
-3) skiria šiame įstatyme nustatytas pinigines baudas;
-
-4) įpareigoja valdymo įmonę ar investicinę bendrovę-valdytoją pakeisti vadovą ir (arba) investicinius sprendimus priimantį asmenį;
-
-5) laikinai, kol yra pagrindas, sustabdo (apriboja) valdymo įmonės akcininko balsavimo teisę;
-
-6) laikinai sustabdo valdymo įmonės ar investicinės bendrovės-valdytojos veiklos leidimo galiojimą tol, kol yra pagrindas jį sustabdyti; išnykus veiklos leidimo galiojimo sustabdymo pagrindui, priežiūros institucija nedelsdama, bet ne vėliau kaip per 5 darbo dienas nuo tada, kai įsitikino, kad pagrindas išnyko, atnaujina veiklos leidimo galiojimą;
-
-7) panaikina valdymo įmonės ar investicinės bendrovės-valdytojos veiklos leidimo galiojimą.
-
-2. Priežiūros institucija turi teisę kolektyvinio investavimo subjekto turto saugotojui taikyti šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytas poveikio priemones.
-
-65 straipsnis. Poveikio priemonių taikymo pagrindai ir tvarka
-
-1. Poveikio priemonės taikomos, kai yra bent vienas iš šių pagrindų:
-
-1) verčiamasi šio įstatymo reglamentuojama veikla, jeigu neturima tam šio įstatymo nustatyta tvarka suteikto leidimo ar kitokio priežiūros institucijos sutikimo, kai šis leidimas ar sutikimas yra būtinas, ar subjektui suteikta teisė verstis tam tikra veikla apribota pagal šį įstatymą arba atliekami kiti veiksmai ar veikla, kuriuos draudžia šis įstatymas;
-
-2) šio įstatymo nustatyti leidimai ar pritarimai gauti priežiūros institucijai pateikus klaidingą informaciją arba pasinaudojus kitomis neteisėtomis priemonėmis;
-
-3) nustatytais terminais nepateikiama šio įstatymo, kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neišsami, klaidinga arba netiksli informacija;
-
-4) valdymo įmonė ar investicinė bendrovė-valdytoja nebeatitinka reikalavimų, kuriais remiantis buvo išduotas veiklos leidimas;
-
-5) valdymo įmonė ar investicinė bendrovė-valdytoja nesugeba įvykdyti savo įsipareigojimų arba yra duomenų, kad nesugebės to padaryti ateityje;
-
-6) nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 63 straipsnį duoti privalomi nurodymai;
-
-7) pažeidžiami Reglamente (ES) Nr. 1286/2014 nustatyti reikalavimai;
-
-8) valdymo įmonės ir investicinės bendrovės-valdytojos vadovais, investicinius sprendimus priimančiais asmenimis išrenkami arba vadovų, investicinius sprendimus priimančių asmenų pareigas eina vienas ar keli asmenys, neatitinkantys šio įstatymo 11 straipsnio 2 dalyje nustatytų reputacijos, kvalifikacijos ir darbo patirties reikalavimų;
-
-9) trukdoma priežiūros institucijai ar jos įgaliotiems asmenims atlikti patikrinimus;
-
-10) padaromi kiti šio įstatymo ar kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai.
-
-2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas.
-
-3. Valdymo įmonėms ar investicinėms bendrovėms, kurių akcijos (valdymo įmonių valdomų investicinių fondų investiciniai vienetai) siūlomos viešai arba viešai siūloma įnešti įnašus pažeidžiant Vertybinių popierių įstatyme nustatytus prospekto rengimo, tvirtinimo ir skelbimo reikalavimus (išskyrus šiame įstatyme numatytas prospektų skelbimo išimtis), poveikio priemones priežiūros institucija taiko vadovaudamasi Vertybinių popierių įstatymo nuostatomis.
-
-66 straipsnis. Baudos
-
-1. Priežiūros institucija skiria baudas:
-
-1) juridiniams asmenims iki 10 procentų bendrųjų metinių pajamų;
-
-2) juridinio asmens vadovams ir kitiems fiziniams asmenims iki 50 000 eurų.
-
-2. Už Reglamento (ES) Nr. 1286/2014 pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, kaip nurodyta Reglamento (ES) Nr. 1286/2014 24 straipsnyje.
-
-3. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose.
-
-4. Jeigu dėl šio įstatymo 65 straipsnio 1 dalyje išvardytų pažeidimų padarymo buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1, 2 arba 5 dalyje nurodytų baudų dydžius, priežiūros institucija turi teisę skirti baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
-
-5. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba kai juridinio asmens bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, priežiūros institucija vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos juridiniam asmeniui skiria iki 100 000 eurų baudą.
-
-6. Šio įstatymo 65 straipsnio 1 dalies 6 punkte nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki vieno procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų.
-
-7. Baudos apskaičiuojamos Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka.
-
-8. Už Vertybinių popierių įstatymo pažeidimus asmenims taikomos Vertybinių popierių įstatyme nustatytos baudos.
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
-
-Lietuvos Respublikos
-
-informuotiesiems investuotojams skirtų
-
-kolektyvinio investavimo subjektų
-
-įstatymo
-
-priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektais (KIPVPS), derinimo (OL 2009 L 302, p. 32) su paskutiniais pakeitimais, padarytais 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyva 2014/91/ES (OL 2014 L 257, p. 186).
-
-TAR pastaba. 1 punktas netenka galios 2020 m. sausio 1 d..
-
-2. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1).
-
 Pakeitimai:
 
 1.
@@ -1347,56 +1193,4 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1101, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13437
 
 Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 55 straipsnio pakeitimo įstatymas
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2216, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21011
-
-Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 39 straipsnio pakeitimo įstatymas
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2451, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17719
-
-Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 53 straipsnio pakeitimo įstatymas
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-470, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10833
-
-Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 9 straipsnio pakeitimo įstatymas
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1246, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09861
-
-Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 1, 9, 11, 12, 13, 48, 49, 51, 52, 53, 54, 55 straipsnių pakeitimo, Įstatymo papildymo 13-1 straipsniu, priedu ir 50, 56 straipsnių pripažinimo netekusiais galios įstatymas
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-1873, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00223
-
-Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 pakeitimo įstatymas
-
-501 straipsnis. Su tvarumu susijusios informacijos teikimo investuotojams tvarka
-
-Prieš pradedant investuoti valdymo įmonė investuotojams turi pateikti informaciją, nurodytą Reglamente (ES) 2019/2088.
-
-Papildyta straipsniu:
-
-Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
-
-IV SKYRIUS
-
-VALDYMO ĮMONIŲ IR KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ AUDITAS IR METŲ IR PUSMEČIO VEIKLOS ATASKAITOS REIKALAVIMAI
 
