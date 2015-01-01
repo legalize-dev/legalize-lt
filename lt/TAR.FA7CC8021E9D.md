@@ -4,7 +4,7 @@ identifier: "TAR.FA7CC8021E9D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-30"
-last_updated: "2012-05-19"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA7CC8021E9D"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas
 
-Suvestinė redakcija nuo 2012-05-19 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 66-1609, i. k. 0971010ISTAVIII-342
 
@@ -91,7 +91,17 @@ d) kiti represuoti asmenys;
 
 2) buvę beglobiai vaikai;
 
-3) kiti nukentėję asmenys.
+3) Afganistano karo dalyviai;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1423, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20560
+
+4) kiti nukentėję asmenys.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-1423, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20560
 
 4 straipsnis. Politiniai kaliniai ir jiems prilyginti asmenys
 
@@ -223,7 +233,11 @@ g) paimti priverstiniams darbams, taip pat kartu su jais buvę nepilnamečiai �
 
 h) nukentėję ar persekioti už okupacinių režimų persekiojamų nepilnamečių asmenų gelbėjimą ir globą;
 
-i) kurie būtinosios karinės tarnybos ar karinių mokymų sovietinėje armijoje metu atliko tarnybą Afganistane;
+i. Neteko galios nuo 2015-01-01
+
+Papunkčio naikinimas:
+
+Nr. XII-1423, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20560
 
 j) kurie dalyvavo likviduojant Černobylio atominės elektrinės avarijos padarinius ir statant Slavutičiaus miestą Ukrainoje;
 
@@ -317,7 +331,23 @@ Nr. XI-2006, 2012-05-10, Žin., 2012, Nr. 57-2829 (2012-05-19), i. k. 1121010IST
 
 Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 7 straipsnio papildymo įstatymas
 
-51 straipsnis. Perkeltieji asmenys
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1025, 2014-07-15, paskelbta TAR 2014-07-24, i. k. 2014-10482
+
+Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 5-1 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1423, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20560
+
+Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 3, 7 straipsnių pakeitimo ir Įstatymo papildymo 7-2 straipsniu įstatymas
+
+51 straipsnis. Perkeltieji ir jiems prilyginti asmenys
 
 1. Perkeltaisiais asmenimis pripažįstami:
 
@@ -325,7 +355,13 @@ Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, 
 
 2) asmenys, okupacinio režimo struktūrų sprendimais perkelti iš vienų Lietuvos vietovių į kitas.
 
-2. Šio straipsnio 1 dalyje išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – perkeltojo teisinis statusas.
+2. Perkeltiesiems prilygintais asmenimis pripažįstami pagal Sovietų Sąjungos ir nacistinės Vokietijos 1941 m. sausio 10 d. susitarimą dėl gyventojų mainų atkeltiems į Lietuvą asmenims 1941 m. sausio 10 d. – 1945 m. gegužės 8 d. gimę vaikai.
+
+3. Šio straipsnio 1 ir 2 dalyse išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – perkeltojo teisinis statusas.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1025, 2014-07-15, paskelbta TAR 2014-07-24, i. k. 2014-10482
 
 71 straipsnis. Buvę beglobiai vaikai
 
@@ -348,4 +384,14 @@ Straipsnio dalies pakeitimai:
 Nr. XI-260, 2009-05-14, Žin., 2009, Nr. 64-2546 (2009-05-30), i. k. 1091010ISTA00XI-260
 
 2. Šio straipsnio 1 dalyje išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – buvusio beglobio vaiko teisinis statusas.
+
+72 straipsnis. Afganistano karo dalyviai
+
+1. Afganistano karo dalyviais pripažįstami asmenys, kurie būtinosios karinės tarnybos ar karinių mokymų sovietinėje armijoje metu atliko tarnybą Afganistane.
+
+2. Šio straipsnio 1 dalyje išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – Afganistano karo dalyvio teisinis statusas.
+
+Papildyta straipsniu:
+
+Nr. XII-1423, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20560
 
