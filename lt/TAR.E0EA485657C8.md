@@ -4,7 +4,7 @@ identifier: "TAR.E0EA485657C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2012-05-03"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2012-05-03 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-05-20
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
 
@@ -648,7 +648,11 @@ Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010IST
 
 32 straipsnis. Šaulių teisė naudoti šaunamuosius ginklus ir specialiąsias priemones
 
-1. Atlikdami šaulio tarnybą šauliai turi teisę naudoti šaunamuosius ginklus ir specialiąsias priemones tokia pat tvarka ir atvejais, kokie yra nustatyti Lietuvos Respublikos kovinių ginklų naudojimo krašto apsaugos sistemoje statute.
+1. Šauliai, atlikdami šio įstatymo 9 straipsnio 1 dalies 7 punkte ir 14 straipsnyje nustatytą šaulio tarnybą, turi teisę naudoti šaunamuosius ginklus ir specialiąsias priemones Karinės jėgos naudojimo statuto 8 straipsnyje nustatytais pagrindais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1444, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20785
 
 2. Teisę naudoti šaunamuosius ginklus ir specialiąsias priemones, išskyrus savigynos atvejį, turi tik pilnamečiai šauliai, išlaikę šaunamųjų ginklų ir specialiųjų priemonių naudojimo taisyklių egzaminus.
 
@@ -688,7 +692,11 @@ Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010IST
 
 34 straipsnis. Kompensacijos ir vienkartinės pašalpos šaulio žūties ar sveikatos sutrikdymo atvejais
 
-1. Jeigu šaulys žuvo atlikdamas šaulio tarnybą, susijusią su padidėjusiu pavojumi ar padidėjusia rizika jo gyvybei ar sveikatai, taip pat tais atvejais, kai šaulys buvo nužudytas dėl šaulio tarnybos atlikimo ar šaulio statuso, neatsižvelgiant į draudimo išmokas jo šeimai, šio straipsnio 2 dalyje nurodytiems asmenims išmokama 120 Vyriausybės nustatytų minimaliųjų mėnesinių algų, bet ne mažesnė negu po 50 Vyriausybės nustatytų minimaliųjų mėnesinių algų kiekvienam šaulio išlaikytiniui ir ne didesnė negu 350 000 litų dydžio kompensacija. Kitais atvejais šauliui žuvus dėl priežasčių, susijusių su šaulio tarnyba, šio straipsnio 2 dalyje nurodytiems asmenims išmokama 60 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio kompensacija.
+1. Jeigu šaulys žuvo atlikdamas šaulio tarnybą, susijusią su padidėjusiu pavojumi ar padidėjusia rizika jo gyvybei ar sveikatai, taip pat tais atvejais, kai šaulys buvo nužudytas dėl šaulio tarnybos atlikimo ar šaulio statuso, neatsižvelgiant į draudimo išmokas jo šeimai, šio straipsnio 2 dalyje nurodytiems asmenims išmokama 120 Vyriausybės nustatytų minimaliųjų mėnesinių algų, bet ne mažesnė negu po 50 Vyriausybės nustatytų minimaliųjų mėnesinių algų kiekvienam šaulio išlaikytiniui ir ne didesnė negu 101 370 eurų dydžio kompensacija. Kitais atvejais šauliui žuvus dėl priežasčių, susijusių su šaulio tarnyba, šio straipsnio 2 dalyje nurodytiems asmenims išmokama 60 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio kompensacija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1169, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13581
 
 2. Šio straipsnio 1 dalyje nustatyta kompensacija lygiomis dalimis išmokama žuvusiojo sutuoktiniui (sugyventiniui), tėvui, motinai ir kiekvienam iš žuvusio šaulio išlaikytinių. Išlaikytiniai yra nedarbingi asmenys, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti iš jo išlaikymą, taip pat žuvusiojo vaikai, gimę po jo mirties, nepilnamečiai vaikai (įvaikiai), kol jiems sukaks 18 metų, o vaikai, kurie mokosi pagal dienines ir nuolatines mokymo formas, – kol jiems sukaks 24 metai.
 
@@ -937,4 +945,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
 
 Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 12, 13, 26, 27, 35, 40, 41 straipsnių pakeitimo ir papildymo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1169, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13581
+
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 34 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1444, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20785
+
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 32 straipsnio pakeitimo įstatymas
 
