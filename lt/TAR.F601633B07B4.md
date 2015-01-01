@@ -4,7 +4,7 @@ identifier: "TAR.F601633B07B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-01"
-last_updated: "2013-12-10"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F601633B07B4"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO 6, 7, 32 STRAIPSNIŲ
 
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2013-12-10 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 155-7354, i. k. 1111010ISTA0XI-1773
 
@@ -42,13 +42,17 @@ Vilnius
 
 „43) piniginės socialinės paramos nepasiturintiems gyventojams teikimas Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymu nustatytose savivaldybėse;“.
 
-2. Papildyti 6 straipsnį nauju 43 punktu:
+2. Papildyti 6 straipsnį nauju 43 punktu:
 
-„43) socialinės pašalpos, nustatytos Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, teikimas;“
+„43) socialinės pašalpos ir kompensacijų, nustatytų Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, teikimas;“
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-622, 2013-11-26, Žin., 2013, Nr. 126-6415 (2013-12-10), i. k. 1131010ISTA0XII-622
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1367, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19553
 
 3. Buvusį 6 straipsnio 43 punktą laikyti 44 punktu.
 
@@ -64,13 +68,15 @@ Nr. XII-622, 2013-11-26, Žin., 2013, Nr. 126-6415 (2013-12-10), i. k. 1131010IS
 
 „9) socialinių išmokų ir kompensacijų, išskyrus piniginę socialinę paramą nepasiturintiems gyventojams Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymu nustatytose savivaldybėse, skaičiavimas ir mokėjimas;“.
 
-3. Pakeisti 7 straipsnio 9 punktą ir jį išdėstyti taip:
+3. Pakeisti 7 straipsnio 9 punktą ir jį išdėstyti taip:
 
-„9) socialinių išmokų ir kompensacijų, išskyrus socialinę pašalpą, nustatytą Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, skaičiavimas ir mokėjimas;“
+„9) socialinių išmokų ir kompensacijų, išskyrus socialinę pašalpą ir kompensacijas, nustatytas Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, skaičiavimas ir mokėjimas;“
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-622, 2013-11-26, Žin., 2013, Nr. 126-6415 (2013-12-10), i. k. 1131010ISTA0XII-622
+
+Nr. XII-1367, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19553
 
 3 straipsnis. 32 straipsnio 2 dalies 16 punkto pakeitimas
 
@@ -107,4 +113,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-622, 2013-11-26, Žin., 2013, Nr. 126-6415 (2013-12-10), i. k. 1131010ISTA0XII-622
 
 Lietuvos Respublikos vietos savivaldos įstatymo 6, 7, 32 straipsnių pakeitimo ir papildymo įstatymo 1, 2, 4 straipsnių pakeitimo ir papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1367, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19553
+
+Lietuvos Respublikos vietos savivaldos įstatymo 6, 7, 32 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-1773 1 ir 2 straipsnių pakeitimo įstatymas
 
