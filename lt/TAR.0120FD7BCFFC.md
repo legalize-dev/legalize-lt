@@ -4,7 +4,7 @@ identifier: "TAR.0120FD7BCFFC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2010-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2019-12-12
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
 
@@ -77,7 +77,11 @@ Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. 1101010ISTA
 
 Apskritis sudaroma iš savivaldybių teritorijų, pasižyminčių socialinių, ekonominių ir etnokultūrinių interesų bendrumu.
 
-3 straipsnis. Lietuvos Respublikos seniūnijų aptarnaujamų teritorijų ir gyvenamųjų vietovių samprata
+3 straipsnis. Lietuvos Respublikos seniūnijų aptarnaujamų teritorijų ir gyvenamųjų vietovių bei sodininkų bendrijų teritorijų samprata
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XII-1426, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20561
 
 Seniūnijos aptarnaujama teritorija yra savivaldybės teritorijos dalis, susidedanti iš gyvenamųjų vietovių ar dalies miesto teritorijos. Seniūnija turi savo aptarnaujamos teritorijos ribas ir pavadinimą.
 
@@ -98,6 +102,12 @@ Kurorto statusą turi Birštonas, Druskininkai, Neringa, Palanga.
 Gyvenamosios vietovės, kuriose yra gamtinių išteklių, galinčių turėti gydomųjų savybių, ir speciali infrastruktūra naudoti šiuos išteklius sveikatinimo, turizmo ir poilsio reikmėms, gali turėti kurortinės teritorijos statusą. Kurortinės teritorijos statusas suteikiamas vienai ar kelioms gyvenamosioms vietovėms arba jų dalims.
 
 Reikalavimus kurorto ir kurortinės teritorijos statusui suteikti nustato Lietuvos Respublikos Vyriausybė.
+
+Sodininkų bendrijos teritorija yra gyvenamosios vietovės teritorijos dalis, turinti savo ribas ir pavadinimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1426, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20561
 
 Straipsnio pakeitimai:
 
@@ -221,6 +231,8 @@ Gatvėms, pastatams, statiniams ir kitiems savivaldybių teritorijose esantiems 
 
 Valstybės nuosavybės objektams pavadinimus suteikia ir juos keičia Lietuvos Respublikos Vyriausybė.
 
+Pavadinimus pastatams, statiniams ir kitiems objektams, kurie privačios nuosavybės teise priklauso fiziniams ir privatiesiems juridiniams asmenims, suteikia ir juos keičia patys asmenys Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+
 Gyvenamųjų vietovių gatvėms ar gyvenamosioms vietovėms priskirtų pastatų ir šių pastatų butų ar patalpų numerius suteikia ir keičia savivaldybės vykdomoji institucija arba jos pavedimu seniūnai. Numerių suteikimo, keitimo ir apskaitos tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
 Gatvių, pastatų, statinių ir kitų objektų pavadinimai įtraukiami į apskaitą Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
@@ -229,9 +241,13 @@ Gyvenamosioms vietovėms kurorto statusą suteikia ir panaikina Lietuvos Respubl
 
 Gyvenamosioms vietovėms arba jų dalims kurortinės teritorijos statusą suteikia ir panaikina Lietuvos Respublikos Vyriausybė savivaldybės tarybos siūlymu.
 
+Sodininkų bendrijos teritorijos pavadinimas atitinka toje teritorijoje veikiančio juridinio asmens – sodininkų bendrijos pavadinimą.
+
 Straipsnio pakeitimai:
 
 Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. 1101010ISTA00XI-709
+
+Nr. XII-1426, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20561
 
 10 straipsnis. Gyvenamųjų vietovių nustatymas ir panaikinimas, jų teritorijų ribų nustatymas ir keitimas
 
@@ -421,6 +437,14 @@ Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. 1101010ISTA
 
 Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 2, 3, 7-1, 9, 13 straipsnių pakeitimo ir papildymo įstatymas
 
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1426, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20561
+
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 3, 9 straipsnių pakeitimo ir Įstatymo papildymo 7-2, 12-1 straipsniais įstatymas
+
 71 straipsnis. Seniūnijų aptarnaujamų teritorijų ribų nustatymas ir keitimas
 
 Seniūnijų aptarnaujamų teritorijų ribas nustato ir keičia savivaldybės taryba.
@@ -435,14 +459,6 @@ Papildyta straipsniu:
 
 Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
 
-IV SKYRIUS
-
-PAVADINIMŲ SUTEIKIMAS LIETUVOS RESPUBLIKOS
-
-TERITORIJOS ADMINISTRACINIAMS VIENETAMS IR GYVENAMOSIOMS
-
-VIETOVĖMS BEI JŲ KEITIMAS
-
 31 straipsnis. Lietuvos Respublikos adresų registro tvarkymas
 
 Lietuvos Respublikos adresų registrą tvarko vadovaujančioji registro tvarkymo įstaiga – Teisingumo ministerija ir registro tvarkymo įstaiga – valstybės įmonė Registrų centras (toliau – Lietuvos Respublikos adresų registro tvarkymo įstaiga).
@@ -456,4 +472,28 @@ II SKYRIUS
 LIETUVOS RESPUBLIKOS TERITORIJOS
 
 ADMINISTRACINIS SKIRSTYMAS
+
+72 straipsnis. Sodininkų bendrijų teritorijų ribų kadastro duomenų nustatymas ir keitimas
+
+Sodininkų bendrijų teritorijų ribų kadastro duomenys nustatomi ir keičiami Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XII-1426, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20561
+
+IV SKYRIUS
+
+PAVADINIMŲ SUTEIKIMAS LIETUVOS RESPUBLIKOS
+
+TERITORIJOS ADMINISTRACINIAMS VIENETAMS IR GYVENAMOSIOMS
+
+VIETOVĖMS BEI JŲ KEITIMAS
+
+121 straipsnis. Sodininkų bendrijų ir jų teritorijų ribų registravimas
+
+Sodininkų bendrijos registruojamos Juridinių asmenų registre, o sodininkų bendrijų teritorijų ribos bei jų pakeitimai įrašomi į Nekilnojamojo turto kadastrą šio kadastro nuostatuose nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XII-1426, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20561
 
