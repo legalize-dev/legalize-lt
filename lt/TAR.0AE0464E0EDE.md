@@ -4,7 +4,7 @@ identifier: "TAR.0AE0464E0EDE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-07-13"
-last_updated: "2014-11-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0AE0464E0EDE"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Geriamojo vandens tiekimo ir nuotekų tvarkymo įs
 ---
 # Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2014-11-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-07-31
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3260, i. k. 1061010ISTA000X-764
 
@@ -899,15 +899,31 @@ GINČŲ IR SKUNDŲ NAGRINĖJIMAS. BAUDŲ SKYRIMO TVARKA
 
 1. Geriamojo vandens tiekėjams ir nuotekų tvarkytojams už vykdant licencijuojamą veiklą padarytus pažeidimus, kurie per Valstybinės kainų ir energetikos kontrolės komisijos nustatytą protingą laikotarpį nebuvo pašalinti, siekiant užtikrinti atitiktį teisės aktų nustatytoms licencijuojamos veiklos sąlygoms, Valstybinė kainų ir energetikos kontrolės komisija skiria baudas:
 
-1) už viešai privalomos skelbti informacijos apie šiuo įstatymu reglamentuojamą licencijuojamą veiklą nepaskelbimą, už teisės aktuose nustatytos informacijos nepateikimą šio įstatymo 36 straipsnyje nurodytiems asmenims, už neteisingos ar ne visos informacijos pateikimą – nuo vieno tūkstančio litų iki 0,5 procento geriamojo vandens tiekėjo ir nuotekų tvarkytojo metinių licencijuojamos veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio;
+1) už viešai privalomos skelbti informacijos apie šiuo įstatymu reglamentuojamą licencijuojamą veiklą nepaskelbimą, už teisės aktuose nustatytos informacijos nepateikimą šio įstatymo 36 straipsnyje nurodytiems asmenims, už neteisingos ar ne visos informacijos pateikimą – nuo dviejų šimtų aštuoniasdešimt devynių eurų iki 0,5 procento geriamojo vandens tiekėjo ir nuotekų tvarkytojo metinių licencijuojamos veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio;
 
-2) už Valstybinės kainų ir energetikos kontrolės komisijos įpareigojimų (nurodymų) nutraukti neteisėtą veiklą, pakeisti naudojamą apskaitos atskyrimo ir sąnaudų paskirstymo sistemą, už geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kokybės reikalavimų pažeidimus – nuo vieno tūkstančio litų iki 1 procento geriamojo vandens tiekėjo ir nuotekų tvarkytojo metinių licencijuojamos veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio;
+Straipsnio punkto pakeitimai:
 
-3) už veiklos saugumo, efektyvumo, patikimumo, nediskriminavimo principų pažeidimą – nuo vieno tūkstančio litų iki 2 procentų geriamojo vandens tiekėjo ir nuotekų tvarkytojo metinių licencijuojamos veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio.
+Nr. XII-1312, 2014-11-06, paskelbta TAR 2014-11-14, i. k. 2014-16875
+
+2) už Valstybinės kainų ir energetikos kontrolės komisijos įpareigojimų (nurodymų) nutraukti neteisėtą veiklą, pakeisti naudojamą apskaitos atskyrimo ir sąnaudų paskirstymo sistemą, už geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kokybės reikalavimų pažeidimus – nuo dviejų šimtų aštuoniasdešimt devynių eurų iki 1 procento geriamojo vandens tiekėjo ir nuotekų tvarkytojo metinių licencijuojamos veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1312, 2014-11-06, paskelbta TAR 2014-11-14, i. k. 2014-16875
+
+3) už veiklos saugumo, efektyvumo, patikimumo, nediskriminavimo principų pažeidimą – nuo dviejų šimtų aštuoniasdešimt devynių eurų iki 2 procentų geriamojo vandens tiekėjo ir nuotekų tvarkytojo metinių licencijuojamos veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1312, 2014-11-06, paskelbta TAR 2014-11-14, i. k. 2014-16875
 
 2. Baudos nepriskiriamos būtinosioms sąnaudoms ir neįskaičiuojamos į geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainas.
 
-3. Asmenims, vykdantiems geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo veiklą neturint geriamojo vandens tiekimo ir nuotekų tvarkymo licencijos, skiriama bauda nuo vieno tūkstančio litų iki 1 procento geriamojo vandens tiekėjo ir nuotekų tvarkytojo metinių veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio. Sprendimą skirti baudą priima Valstybinė kainų ir energetikos kontrolės komisija.
+3. Asmenims, vykdantiems geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo veiklą neturint geriamojo vandens tiekimo ir nuotekų tvarkymo licencijos, skiriama bauda nuo dviejų šimtų aštuoniasdešimt devynių eurų iki 1 procento geriamojo vandens tiekėjo ir nuotekų tvarkytojo metinių veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio. Sprendimą skirti baudą priima Valstybinė kainų ir energetikos kontrolės komisija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1312, 2014-11-06, paskelbta TAR 2014-11-14, i. k. 2014-16875
 
 4. Geriamojo vandens tiekėjams ir nuotekų tvarkytojams skiriamos baudos diferencijuojamos atsižvelgiant į:
 
@@ -982,4 +998,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-939, 2014-06-12, paskelbta TAR 2014-06-17, i. k. 2014-07685
 
 Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1312, 2014-11-06, paskelbta TAR 2014-11-14, i. k. 2014-16875
+
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 38 straipsnio pakeitimo įstatymas
 
