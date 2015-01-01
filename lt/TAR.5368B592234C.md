@@ -4,7 +4,7 @@ identifier: "TAR.5368B592234C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-11"
-last_updated: "2011-09-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2011-09-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2016-02-29
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
 
@@ -303,9 +303,13 @@ Socialinio draudimo ir socialinės paramos tikslais Valstybinio socialinio draud
 
 4. Duomenų valdytojas, kuris teikdamas paslaugas ar parduodamas prekes šio įstatymo nustatyta tvarka ir sąlygomis yra gavęs iš duomenų subjektų, esančių jo klientais, kontaktinius asmens duomenis (vardą, pavardę ir adresą), šiuos duomenis gali naudoti be atskiro duomenų subjekto sutikimo tik savo paties panašių prekių ar paslaugų rinkodarai, jeigu klientams yra suteikiama aiški, nemokama ir lengvai įgyvendinama galimybė nesutikti arba atsisakyti tokio duomenų naudojimo pirmiau nurodytais tikslais, jeigu klientas iš pradžių neprieštaravo dėl tokio duomenų naudojimo teikiant kiekvieną pasiūlymą.
 
-15 straipsnis. Asmens duomenų tvarkymas elektroninių ryšių srityje
+15 straipsnis. Asmens duomenų tvarkymas elektroninių ryšių ir kibernetinio saugumo srityse
 
-Asmens duomenys elektroninių ryšių srityje tvarkomi vadovaujantis Elektroninių ryšių įstatymu ir šiuo įstatymu.
+Asmens duomenys elektroninių ryšių ir kibernetinio saugumo srityse tvarkomi vadovaujantis Elektroninių ryšių įstatymu, Kibernetinio saugumo įstatymu ir šiuo įstatymu.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1430, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20555
 
 16 straipsnis. Vaizdo stebėjimo sąlygos
 
@@ -1058,6 +1062,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1372, 2011-05-12, Žin., 2011, Nr. 65-3046 (2011-05-28), i. k. 1111010ISTA0XI-1372
 
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 1, 2, 3, 6, 20, 21, 22, 24, 25, 26, 27, 29, 33, 35, 36, 38, 40, 45, 53 straipsnių, ketvirtojo ir devintojo skirsnių pavadinimų pakeitimo ir papildymo ir Įstatymo papildymo 13-1, 15-1, 35-1, 41-1 straipsniais įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1430, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20555
+
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 15 straipsnio pakeitimo įstatymas
 
 151 straipsnis. Asmens duomenų tvarkymas vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, numatytą Sutarties dėl Europos Sąjungos veikimo trečiosios dalies V antraštinėjedalyje
 
