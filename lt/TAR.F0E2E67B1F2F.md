@@ -4,7 +4,7 @@ identifier: "TAR.F0E2E67B1F2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-03-19"
-last_updated: "2014-11-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos turizmo įstatymas
 
-Suvestinė redakcija nuo 2014-11-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-05-27
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
 
@@ -372,21 +372,29 @@ Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 3. Kelionių organizatoriaus prievolių, atsirandančių šio straipsnio 1 dalyje numatytais atvejais, įvykdymo užtikrinimo suma yra:
 
-1) ne mažiau kaip 50 tūkstančių litų, kai verčiamasi tik vietiniu turizmu;
+1) ne mažiau kaip 14 481 euras, kai verčiamasi tik vietiniu turizmu;
 
-2) ne mažesnė kaip 7 procentai nuo metinių (skaičiuojant pagal paeiliui einančius paskutinius praėjusius ir pasibaigusius keturis ketvirčius, buvusius prieš ketvirtį, kai įsigalioja naujas kelionių organizatoriaus prievolių įvykdymo užtikrinimą patvirtinantis dokumentas) įplaukų už organizuotų turistinių kelionių pardavimą pagal visas kelionių organizatoriaus sudarytas išvykstamojo turizmo paslaugų teikimo sutartis, bet ne mažiau kaip 150 tūkstančių litų, kai verčiamasi išvykstamuoju turizmu, neorganizuojant kelionių užsakomaisiais skrydžiais;
+2) ne mažesnė kaip 7 procentai nuo metinių (skaičiuojant pagal paeiliui einančius paskutinius praėjusius ir pasibaigusius keturis ketvirčius, buvusius prieš ketvirtį, kai įsigalioja naujas kelionių organizatoriaus prievolių įvykdymo užtikrinimą patvirtinantis dokumentas) įplaukų už organizuotų turistinių kelionių pardavimą pagal visas kelionių organizatoriaus sudarytas išvykstamojo turizmo paslaugų teikimo sutartis, bet ne mažiau kaip 43 443 eurai, kai verčiamasi išvykstamuoju turizmu, neorganizuojant kelionių užsakomaisiais skrydžiais;
 
-3) ne mažesnė kaip 7 procentai nuo metinių (skaičiuojant pagal paeiliui einančius paskutinius praėjusius ir pasibaigusius keturis ketvirčius, buvusius prieš ketvirtį, kai įsigalioja naujas kelionių organizatoriaus prievolių įvykdymo užtikrinimą patvirtinantis dokumentas) įplaukų už organizuotų turistinių kelionių pardavimą pagal visas kelionių organizatoriaus sudarytas išvykstamojo turizmo paslaugų teikimo sutartis, bet ne mažiau kaip 350 tūkstančių litų, kai verčiamasi išvykstamuoju turizmu, organizuojant keliones užsakomaisiais skrydžiais;
+3) ne mažesnė kaip 7 procentai nuo metinių (skaičiuojant pagal paeiliui einančius paskutinius praėjusius ir pasibaigusius keturis ketvirčius, buvusius prieš ketvirtį, kai įsigalioja naujas kelionių organizatoriaus prievolių įvykdymo užtikrinimą patvirtinantis dokumentas) įplaukų už organizuotų turistinių kelionių pardavimą pagal visas kelionių organizatoriaus sudarytas išvykstamojo turizmo paslaugų teikimo sutartis, bet ne mažiau kaip 101 367 eurai, kai verčiamasi išvykstamuoju turizmu, organizuojant keliones užsakomaisiais skrydžiais;
 
 4) kai kelionių organizatorius vykdo vietinio ir išvykstamojo turizmo veiklą, prievolių įvykdymo užtikrinimo suma skaičiuojama vadovaujantis šio straipsnio 3 dalies 2 arba 3 punktu.
 
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1307, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17033
+
 4. Kelionių organizatoriaus, kuris pirmą kartą pradeda teikti kelionių organizavimo paslaugas, prievolių, atsirandančių šio straipsnio 1 dalyje numatytais atvejais, įvykdymo užtikrinimo suma negali būti mažesnė kaip:
 
-1) 50 tūkstančių litų, kai ketinama verstis tik vietiniu turizmu;
+1) 14 481 euras, kai ketinama verstis tik vietiniu turizmu;
 
-2) 150 tūkstančių litų, kai ketinama verstis išvykstamuoju turizmu, neorganizuojant kelionių užsakomaisiais skrydžiais;
+2) 43 443 eurai, kai ketinama verstis išvykstamuoju turizmu, neorganizuojant kelionių užsakomaisiais skrydžiais;
 
-3) 350 tūkstančių litų, kai ketinama verstis išvykstamuoju turizmu, organizuojant keliones užsakomaisiais skrydžiais.
+3) 101 367 eurai, kai ketinama verstis išvykstamuoju turizmu, organizuojant keliones užsakomaisiais skrydžiais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1307, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17033
 
 5. Kelionių organizatorius turi užtikrinti, kad draudimo įmonės prievolių įvykdymo laidavimo draudimas arba finansų įstaigos laidavimas ar garantija galioja nuo pirmos kelionių organizatoriaus veiklos dienos. Naują kelionių organizatoriaus prievolių įvykdymo užtikrinimą patvirtinantį dokumentą kelionių organizatorius privalo pateikti Valstybiniam turizmo departamentui ne vėliau kaip prieš 15 darbo dienų iki turimo prievolių įvykdymo užtikrinimo dokumento galiojimo pabaigos. Kartu su prievolių įvykdymo užtikrinimą patvirtinančiu dokumentu kelionių organizatorius Valstybiniam turizmo departamentui privalo pateikti dokumentus, pagrindžiančius prievolių įvykdymo užtikrinimą patvirtinančiame dokumente nurodytą prievolių įvykdymo užtikrinimo sumą.
 
@@ -827,6 +835,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
 Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 18 straipsnių, septintojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 4-1 straipsniu ir 20 straipsnio pripažinimo netekusiu galios įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1307, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17033
+
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 8 straipsnio pakeitimo įstatymas
 
 21 straipsnis. Apskrities viršininko kompetencija plėtojant turizmą
 
