@@ -4,7 +4,7 @@ identifier: "TAR.7DE59B8C46B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-05"
-last_updated: "2013-06-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7DE59B8C46B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymas
 
-Suvestinė redakcija nuo 2013-06-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2018-04-30
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 52-1811, i. k. 1011010ISTA00IX-352
 
@@ -98,7 +98,7 @@ Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010IS
 
 6 straipsnis. Mokesčių mokėjimas
 
-1. Mokesčiai mokami mokėjimo dieną nustatytais dydžiais litais prieš atliekant veiksmus, už kuriuos nustatytas atitinkamas mokestis, išskyrus įstatymų numatytus atvejus, kai mokestį galima sumokėti vėliau.
+1. Mokesčiai mokami mokėjimo dieną nustatytais dydžiais eurais prieš atliekant veiksmus, už kuriuos nustatytas atitinkamas mokestis, išskyrus įstatymų numatytus atvejus, kai mokestį galima sumokėti vėliau.
 
 Straipsnio dalies pakeitimai:
 
@@ -107,6 +107,8 @@ Nr. IX-1847, 2003-11-25, Žin., 2003, Nr. 116-5253 (2003-12-12), i. k. 1031010IS
 Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
 
 Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
+
+Nr. XII-1248, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14870
 
 2. Mokesčiai už išradimo patento, pramoninio dizaino ir prekių ženklo galiojimo termino pratęsimą sumokami:
 
@@ -178,195 +180,187 @@ Lietuvos Respublikos
 
 1 priedėlis
 
-MOKESČIŲ UŽ IŠRADIMO PATENTAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ BEI IŠRADIMO PATENTO GALIOJIMO TERMINO PRATĘSIMĄ DYDŽIAI (LITAIS)
+MOKESČIŲ UŽ IŠRADIMO PATENTAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ BEI IŠRADIMO PATENTO GALIOJIMO TERMINO PRATĘSIMĄ DYDŽIAI (EURAIS)
 
 1. Už patento paraiškos (toliau – paraiška) padavimą
 
-300
+86
 
 1.1. už kiekvieną po penkioliktojo einantį išradimo apibrėžties punktą
 
-50
+14
 
 2. Už ankstesnį paraiškos skelbimą (kai to prašo pareiškėjas)
 
-120
+34
 
-3. Už tarptautinės patento paraiškos vertimo padavimą
+3. Už Europos patento paraiškos išradimo apibrėžties vertimo paskelbimą
 
-400
+46
 
-3.1. už kiekvieną po penkioliktojo einantį tarptautinės patento paraiškos išradimo apibrėžties punktą TAR pastaba. 3 ir 3.1 punktai netenka galios praėjus 31 mėnesiui nuo Patentų teisės sutarties įsigaliojimo Lietuvos Respublikai dienos (2012-02-03)
+3.1. už kiekvieną po penkioliktojo einantį Europos patento paraiškos išradimo apibrėžties punktą
 
-50
+14
 
-4. Už Europos patento paraiškos išradimo apibrėžties vertimo  paskelbimą
+4. Už Europos patento išradimo apibrėžties vertimo paskelbimą
 
-160
+46
 
-4.1. už kiekvieną po penkioliktojo einantį Europos patento paraiškos išradimo apibrėžties punktą
+4.1. už kiekvieną po penkioliktojo einantį Europos patento išradimo apibrėžties punktą
 
-50
+14
 
-5. Už Europos patento išradimo apibrėžties vertimo paskelbimą
+5. Už Europos patento pakeistos išradimo apibrėžties vertimo paskelbimą
 
-160
+34
 
-5.1. už kiekvieną po penkioliktojo einantį Europos patento išradimo apibrėžties punktą
+6. Už patento išdavimą
 
-50
+52
 
-6. Už Europos patento pakeistos išradimo apibrėžties vertimo paskelbimą
+7. Už apeliacijos pareiškimą
 
-120
+34
 
-7. Už patento išdavimą
+8. Už pakeitimo įrašymą patento paraiškoje arba Lietuvos Respublikos patentų registre
 
-180
+34
 
-8. Už apeliacijos pareiškimą
+9. Už paraiškos patvirtintos kopijos išdavimą
 
-120
+23
 
-9. Už pakeitimo įrašymą patento paraiškoje arba Lietuvos Respublikos patentų registre
+10. Už išrašo iš Lietuvos Respublikos patentų registro išdavimą
 
-120
+34
 
-10. Už paraiškos patvirtintos kopijos išdavimą
+11. Už teisės į patento paraišką ar patentą perdavimo registravimą
 
-80
+115
 
-11. Už išrašo iš Lietuvos Respublikos patentų registro išdavimą
+12. Už licencinės (sublicencinės) sutarties registravimą
 
-120
+28
 
-12. Už teisės į patento paraišką ar patentą perdavimo registravimą
+13. Už prašymo suteikti prioritetą taisymą arba pildymą
 
-400
+34
 
-13. Už licencinės (sublicencinės) sutarties registravimą
+14. Už prioriteto teisės atkūrimą pagal Patentų įstatymo 23 straipsnio 1 dalį
 
-100
+115
 
-14. Už prašymo suteikti prioritetą taisymą arba pildymą
+15. Už prioriteto teisės atkūrimą pagal Patentų įstatymo 23 straipsnio 2 dalį
 
-120
+69
 
-15. Už prioriteto teisės atkūrimą pagal Patentų įstatymo 23 straipsnio 1 dalį
+16. Už paraiškos nagrinėjimo tęsimą
 
-400
+69
 
-16. Už prioriteto teisės atkūrimą pagal Patentų įstatymo 23 straipsnio 2 dalį
+17. Už teisių atkūrimą
 
-240
+173
 
-17. Už paraiškos nagrinėjimo tęsimą
+18. Metų mokesčiai už patento galiojimą:
 
-240
+18.1. trečiaisiais metais
 
-18. Už teisių atkūrimą
+81
 
-600
+18.2. ketvirtaisiais metais
 
-19. Metų mokesčiai už patento galiojimą:
+92
 
-19.1. trečiaisiais metais
+18.3. penktaisiais metais
 
-280
+115
 
-19.2. ketvirtaisiais metais
+18.4. šeštaisiais metais
 
-320
+139
 
-19.3. penktaisiais metais
+18.5. septintaisiais metais
 
-400
+162
 
-19.4. šeštaisiais metais
+18.6. aštuntaisiais metais
 
-480
+185
 
-19.5. septintaisiais metais
+18.7. devintaisiais metais
 
-560
+208
 
-19.6. aštuntaisiais metais
+18.8. dešimtaisiais metais
 
-640
+231
 
-19.7. devintaisiais metais
+18.9. vienuoliktaisiais metais
 
-720
+289
 
-19.8. dešimtaisiais metais
+18.10. dvyliktaisiais metais
 
-800
+289
 
-19.9. vienuoliktaisiais metais
+18.11. tryliktaisiais metais
 
-1 000
+289
 
-19.10. dvyliktaisiais metais
+18.12. keturioliktaisiais metais
 
-1 000
+289
 
-19.11. tryliktaisiais metais
+18.13. penkioliktaisiais metais
 
-1 000
+289
 
-19.12. keturioliktaisiais metais
+18.14. šešioliktaisiais metais
 
-1 000
+347
 
-19.13. penkioliktaisiais metais
+18.15. septynioliktaisiais metais
 
-1 000
+347
 
-19.14. šešioliktaisiais metais
+18.16. aštuonioliktaisiais metais
 
-1 200
+347
 
-19.15. septynioliktaisiais metais
+18.17. devynioliktaisiais metais
 
-1 200
+347
 
-19.16. aštuonioliktaisiais metais
+18.18. dvidešimtaisiais metais
 
-1 200
+347
 
-19.17. devynioliktaisiais metais
+19. Už paraiškos papildomos apsaugos liudijimui gauti padavimą
 
-1 200
+115
 
-19.18. dvidešimtaisiais metais
+20. Metų mokesčiai už papildomos apsaugos liudijimo galiojimą:
 
-1 200
+20.1. pirmaisiais metais
 
-20. Už paraiškos papildomos apsaugos liudijimui gauti padavimą
+347
 
-400
+20.2. antraisiais metais
 
-21. Metų mokesčiai už papildomos apsaugos liudijimo galiojimą:
+347
 
-21.1. pirmaisiais metais
+20.3. trečiaisiais metais
 
-1 200
+347
 
-21.2. antraisiais metais
+20.4. ketvirtaisiais metais
 
-1 200
+347
 
-21.3. trečiaisiais metais
+20.5. penktaisiais metais
 
-1 200
-
-21.4. ketvirtaisiais metais
-
-1 200
-
-21.5. penktaisiais metais
-
-1 200
+347
 
 Pastaba. Metų mokestis už išradimo patento galiojimo termino pratęsimą, mokamas pasibaigus šio įstatymo 6 straipsnio 2 dalies 1 punkte nustatytam laikui, bet ne vėliau kaip per 6 mėnesius, didinamas 50 procentų.
 
@@ -382,87 +376,91 @@ Nr. XI-1262, 2010-12-23, Žin., 2011, Nr. 4-128 (2011-01-10), i. k. 1101010ISTA0
 
 Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
 
-Lietuvos Respublikos 2001 m. birželio 5 d.
+Nr. XII-1248, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14870
+
+Lietuvos Respublikos
+
+2001 m. birželio 5 d.
 
 įstatymo Nr. IX-352
 
 2 priedėlis
 
-MOKESČIŲ UŽ DIZAINO REGISTRAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ BEI DIZAINO GALIOJIMO TERMINO PRATĘSIMĄ DYDŽIAI (LITAIS)
+MOKESČIŲ UŽ DIZAINO REGISTRAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ BEI DIZAINO GALIOJIMO TERMINO PRATĘSIMĄ DYDŽIAI (EURAIS)
 
 1. Už paraiškos įregistruoti dizainą (toliau – paraiška) padavimą
 
-240
+69
 
-1.1. Už kiekvieną papildomą dizaino pavyzdį
+1.1. už kiekvieną po dešimtojo papildomą dizaino pavyzdį
 
-90
+26
 
 2. Už registravimą, paskelbimą ir registracijos liudijimo išdavimą
 
-240
+69
 
 3. Už galiojimo termino pratęsimą:
 
 3.1. antrajam penkmečiui
 
-300
+86
 
 3.2. trečiajam penkmečiui
 
-400
+115
 
 3.3. ketvirtajam penkmečiui
 
-500
+144
 
 3.4. penktajam penkmečiui
 
-600
+173
 
 4. Už pakeitimo įrašymą paraiškoje ar Lietuvos Respublikos dizaino registre
 
-120
+34
 
 5. Už apeliacijos pareiškimą
 
-120
+34
 
 6. Už protesto pareiškimą
 
-320
+92
 
 7. Už dizaino perdavimo sutarties registravimą
 
-400
+115
 
 8. Už dizaino licencinės ar sublicencinės sutarties registravimą
 
-100
+28
 
 9. Už išrašo iš Lietuvos Respublikos dizaino registro išdavimą
 
-120
+34
 
 10. Už paraiškos patvirtintos kopijos išdavimą
 
-80
+23
 
 11. Už registracijos liudijimo dublikato išdavimą
 
-120
+34
 
 12. Už paraiškos Bendrijos dizainui registruoti padavimą per Valstybinį patentų biurą
 
-100
+28
 
 13. Už Lietuvos Respublikos dizaino įstatymo nustatyto termino pratęsimą
 
-80
+23
 
 14. Už Lietuvos Respublikos dizaino įstatymo nustatyto praleisto termino atnaujinimą
 
-120
+34
 
 Pastaba. Mokestis už dizaino registracijos galiojimo termino pratęsimą, mokamas pasibaigus šio įstatymo 6 straipsnio 2 dalies 2 punkte nustatytam laikui, bet ne vėliau kaip per 6 mėnesius, didinamas 50 procentų.
 
@@ -472,109 +470,117 @@ Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA
 
 Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
 
+Nr. XII-1248, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14870
+
 ______________
 
 Lietuvos Respublikos
 
-2001 m. birželio 5 d. įstatymo Nr. IX-352
+2001 m. birželio 5 d.
+
+įstatymo Nr. IX-352
 
 3 priedėlis
 
-MOKESČIŲ UŽ PUSLAIDININKINIŲ GAMINIŲ TOPOGRAFIJŲ REGISTRAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ DYDŽIAI (LITAIS)
+MOKESČIŲ UŽ PUSLAIDININKINIŲ GAMINIŲ TOPOGRAFIJŲ REGISTRAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ DYDŽIAI (EURAIS)
 
-Už paraiškos įregistruoti puslaidininkinių gaminių topografiją padavimą – 240.
+Už paraiškos įregistruoti puslaidininkinių gaminių topografiją padavimą – 69.
 
 Priedo pakeitimai:
 
 Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
 
-Lietuvos Respublikos 2001 m. birželio 5 d.
+Nr. XII-1248, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14870
+
+Lietuvos Respublikos
+
+2001 m. birželio 5 d.
 
 įstatymo Nr. IX-352
 
 4 priedėlis
 
-MOKESČIŲ UŽ PREKIŲ ŽENKLO REGISTRAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ BEI PREKIŲ ŽENKLO GALIOJIMO TERMINO PRATĘSIMĄ DYDŽIAI (LITAIS)
+MOKESČIŲ UŽ PREKIŲ ŽENKLO REGISTRAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ BEI PREKIŲ ŽENKLO GALIOJIMO TERMINO PRATĘSIMĄ DYDŽIAI (EURAIS)
 
 1. Už paraiškos įregistruoti prekių ženklą (toliau – paraiška) padavimą
 
-240
+69
 
-1.1. Už kiekvieną daugiau kaip vieną paraiškoje nurodytą prekių ir (ar) paslaugų klasę
+1.1. už kiekvieną daugiau kaip vieną paraiškoje nurodytą prekių ir (ar) paslaugų klasę
 
-120
+34
 
 2. Už tarptautinės paraiškos nagrinėjimą
 
-200
+57
 
 2.1. Už kiekvieną daugiau kaip vieną paraiškoje nurodytą prekių ir (ar) paslaugų klasę paduodant tarptautinę paraišką
 
-100
+28
 
 3. Už nacionalinės ženklo registracijos pakeitimą tarptautine registracija
 
-240
+69
 
 4. Už prašymą pratęsti Lietuvos Respublikos prekių ženklų įstatymo nustatytą terminą
 
-80
+23
 
 5. Už prašymą atkurti Lietuvos Respublikos prekių ženklų įstatymo nustatytą praleistą terminą
 
-120
+34
 
 6. Už registravimą, paskelbimą ir registracijos liudijimo išdavimą
 
-240
+69
 
 7. Už prekių ženklo galiojimo termino pratęsimą
 
-240
+69
 
-7.1. Už kiekvieną daugiau kaip vieną prekių ir (ar) paslaugų klasę pratęsiant prekių ženklo galiojimo terminą
+7.1. už kiekvieną daugiau kaip vieną prekių ir (ar) paslaugų klasę pratęsiant prekių ženklo galiojimo terminą
 
-120
+34
 
 8. Už pakeitimo įrašymą paraiškoje ar Lietuvos Respublikos prekių ženklų registre
 
-120
+34
 
 9. Už apeliacijos pareiškimą
 
-120
+34
 
 10. Už protesto pareiškimą
 
-320
+92
 
 11. Už teisės į pareikštą registruoti ar įregistruotą prekės ženklą perdavimo sutarties registravimą
 
-400
+115
 
 12. Už licencinės (sublicencinės) sutarties duomenų įrašymą į Lietuvos Respublikos prekių ženklų registrą
 
-100
+28
 
 13. Už išrašo iš Lietuvos Respublikos prekių ženklų registro išdavimą
 
-120
+34
 
 14. Už paraiškos patvirtintos kopijos išdavimą
 
-80
+23
 
 15. Už registracijos liudijimo dublikato išdavimą
 
-120
+34
 
 16. Už susipažinimą su kolektyvinio ženklo naudojimo nuostatais
 
-40
+11
 
 17. Už paraiškos Bendrijos prekių ženklui registruoti padavimą per Valstybinį patentų biurą
 
-100
+28
 
 Pastaba. Mokestis už prekių ženklo registracijos galiojimo termino pratęsimą, mokamas pasibaigus šio įstatymo 6 straipsnio 2 dalies 3 punkte nustatytam terminui, bet ne vėliau kaip per 6 mėnesius, didinamas 50 procentų.
 
@@ -583,6 +589,8 @@ Priedo pakeitimai:
 Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
 
 Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
+
+Nr. XII-1248, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14870
 
 Lietuvos Respublikos Seimo
 
@@ -598,21 +606,27 @@ Priedo pakeitimai:
 
 Nr. IX-1847, 2003-11-25, Žin., 2003, Nr. 116-5253 (2003-12-12), i. k. 1031010ISTA0IX-1847
 
-Lietuvos Respublikos Seimo
+Lietuvos Respublikos
 
 2001 m. birželio 5 d.
 
 įstatymo Nr. IX-352
 
-6 PRIEDĖLIS
+6 priedėlis
 
-MOKESČIŲ UŽ PATENTINIŲ PATIKĖTINIŲ REGISTRAVIMĄ DYDŽIAI (LITAIS)
+MOKESČIŲ UŽ PATENTINIŲ PATIKĖTINIŲ REGISTRAVIMĄ DYDŽIAI (EURAIS)
 
-1. Už patentinio patikėtinio registravimą                                                                           200
+1. Už patentinio patikėtinio registravimą
 
-2. Už pakeitimus Lietuvos Respublikos patentinių patikėtinių registre                             120
+57
 
-______________
+2. Už pakeitimus Lietuvos Respublikos patentinių patikėtinių registre
+
+34.
+
+Priedo pakeitimai:
+
+Nr. XII-1248, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14870
 
 Pakeitimai:
 
@@ -671,4 +685,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
 
 Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo 5, 6 straipsnių ir 1, 2, 3, 4 priedėlių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1248, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14870
+
+Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo Nr. IX-352 6 straipsnio ir 1, 2, 3, 4, 6 priedėlių pakeitimo įstatymas
 
