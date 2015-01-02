@@ -4,7 +4,7 @@ identifier: "TAR.91609F53E29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-01-19"
-last_updated: "2015-01-01"
+last_updated: "2015-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 36 straipsnis ir 39 straipsnio 2 ir 3 da
 ---
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2015-01-01
+Suvestinė redakcija nuo 2015-01-02 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
 
@@ -426,11 +426,15 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 
-5. Socialinės globos įstaigos vadovas privalo turėti aukštąjį išsilavinimą. Socialinės globos įstaigos vadovo tinkamumas eiti pareigas yra periodiškai vertinamas vadovaujantis Vyriausybės ar jos įgaliotos institucijos patvirtintu Socialinės globos įstaigų vadovų atestacijos tvarkos aprašu.
+6. Socialinės globos įstaigos vadovas privalo turėti aukštąjį išsilavinimą ir nuolat tobulinti savo profesinę kompetenciją socialinės apsaugos ir darbo ministro nustatyta tvarka.
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 
 7. Europos Sąjungos valstybėse išduoti leidimai, licencijos, kvalifikacijos reikalavimus patvirtinantys dokumentai teisės aktų nustatyta tvarka pripažįstami tinkamais verstis socialinėmis paslaugomis Lietuvos Respublikoje.
 
