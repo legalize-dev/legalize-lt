@@ -4,7 +4,7 @@ identifier: "TAR.68CC8934A031"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-13"
-last_updated: "2014-12-24"
+last_updated: "2015-01-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.68CC8934A031"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS CIVILINĮ PROCESĄ REGLAMENTUOJANČIŲ EUROPOS SĄJUNGOS
 
 IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2014-12-24 iki 2015-01-09
+Suvestinė redakcija nuo 2015-01-10 iki 2015-01-10
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
 
@@ -60,11 +60,19 @@ TREČIASIS SKIRSNIS
 
 KETVIRTASIS SKIRSNIS
 
-2000 M. GRUODŽIO 22 D. TARYBOS REGLAMENTO (EB) NR. 44/2001 DĖL JURISDIKCIJOS IR TEISMO SPRENDIMŲ CIVILINĖSE IR KOMERCINĖSE BYLOSE PRIPAŽINIMO IR VYKDYMO ĮGYVENDINIMAS
+EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMŲ SPRENDIMŲ PRIPAŽINIMO IR VYKDYMO TVARKA
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
 
 4 straipsnis. Europos Sąjungos valstybių narių teismų sprendimų pripažinimo ir vykdymo tvarka
 
-1. Europos Sąjungos valstybių narių teismų sprendimai ir kiti pagal Europos Sąjungos reglamentus vykdytini dokumentai Lietuvos Respublikoje pripažįstami ir leidžiama juos vykdyti pagal Europos Sąjungos reglamentų, šio įstatymo ir Lietuvos Respublikos civilinio proceso kodekso nustatytą tvarką. Jeigu Europos Sąjungos reglamentai nenustato Europos Sąjungos valstybių narių teismų sprendimų pripažinimo ir leidimo juos vykdyti tvarkos, šie sprendimai pripažįstami ir leidžiama juos vykdyti pagal Lietuvos Respublikos civilinio proceso kodekso LX skyriaus ketvirtąjį, penktąjį ir šeštąjį skirsnius.
+1. Europos Sąjungos valstybių narių teismų sprendimai ir kiti pagal Europos Sąjungos reglamentus vykdytini dokumentai, kai Europos Sąjungos reglamentuose numatyta šių teismų sprendimų ir kitų vykdytinų dokumentų pripažinimo ir leidimo juos vykdyti procedūrų įgyvendinimo tvarka, Lietuvos Respublikoje pripažįstami ir leidžiama juos vykdyti pagal Europos Sąjungos reglamentų, šio įstatymo ir Lietuvos Respublikos civilinio proceso kodekso nustatytą tvarką. Jeigu Europos Sąjungos reglamentai nenustato Europos Sąjungos valstybių narių teismų sprendimų pripažinimo ir leidimo juos vykdyti procedūrų įgyvendinimo tvarkos, tačiau pagal Europos Sąjungos reglamentus yra reikalaujama šiuos sprendimus pripažinti ir leisti juos vykdyti, šie sprendimai pripažįstami ir leidžiama juos vykdyti pagal Lietuvos Respublikos civilinio proceso kodekso LX skyriaus ketvirtąjį, penktąjį ir šeštąjį skirsnius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
 
 2. Šio straipsnio nuostatos mutatis mutandis taikomos ir tuo atveju, kai užsienio valstybių teismų sprendimai yra pripažįstami ir leidžiama juos vykdyti pagal tarptautines sutartis, jeigu jose nustatyta galimybė du kartus patikrinti teismo sprendimo dėl užsienio valstybės teismo sprendimo pripažinimo teisėtumą ir pagrįstumą.
 
@@ -76,9 +84,9 @@ KETVIRTASIS SKIRSNIS
 
 6. Prašymą peržiūrėti nutartį dėl leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą nagrinėja Lietuvos apeliacinio teismo trijų teisėjų kolegija. Šiems prašymams nagrinėti mutatis mutandis taikomos atskirųjų skundų nagrinėjimo taisyklės. Į Lietuvos apeliacinio teismo teisėjų kolegiją, nagrinėjančią prašymą peržiūrėti nutartį dėl leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą, negali būti skiriamas teisėjas, priėmęs šią nutartį. Išnagrinėjęs prašymą peržiūrėti nutartį dėl leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą ir nutaręs nutartį panaikinti, teismas negali perduoti klausimo nagrinėti iš naujo šio straipsnio 5 dalyje nustatyta tvarka. Visais atvejais teismas, išnagrinėjęs prašymą peržiūrėti nutartį dėl leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą, priima nutartį. Ši teismo nutartis įsiteisėja nuo jos priėmimo dienos. Teismo nutartis gali būti skundžiama kasaciniu skundu pagal bylų proceso kasaciniame teisme taisykles.
 
-PENKTASIS SKIRSNIS
+KETVIRTASIS1 SKIRSNIS
 
-2001 M. GEGUŽĖS 28 D. TARYBOS REGLAMENTO (EB) NR. 1206/2001 DĖL VALSTYBIŲ NARIŲ TEISMŲ TARPUSAVIO BENDRADARBIAVIMO RENKANT ĮRODYMUS CIVILINĖSE AR KOMERCINĖSE BYLOSE ĮGYVENDINIMAS
+2012 M. GRUODŽIO 12 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (ES) NR. 1215/2012 DĖL JURISDIKCIJOS IR TEISMO SPRENDIMŲ CIVILINĖSE IR KOMERCINĖSE BYLOSE PRIPAŽINIMO IR VYKDYMO (NAUJA REDAKCIJA) ĮGYVENDINIMAS
 
 5 straipsnis. Įrodymų rinkimas Europos Sąjungos valstybėje narėje
 
@@ -162,7 +170,11 @@ Pareiškimas dėl santuokos nutraukimo, gyvenimo skyrium (separacijos), santuoko
 
 15 straipsnis. Autentiški dokumentai
 
-1. Autentiški dokumentai yra notaro užprotestuoti ar neprotestuotini vekseliai, čekiai, kuriuose padaryti notaro vykdomieji įrašai.
+1. Autentiški dokumentai yra notaro užprotestuoti ar neprotestuotini vekseliai, čekiai, hipotekos (įkeitimo) sandoriai, kuriuose padaryti notaro vykdomieji įrašai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
 
 2. Kreditoriaus prašymu Europos vykdomąjį raštą dėl šio straipsnio 1 dalyje nurodytų autentiškų dokumentų išduoda vykdomąjį įrašą padaręs notaras. Europos vykdomąjį raštą notaras išduoda ne vėliau kaip per penkias darbo dienas nuo prašymo dėl Europos vykdomojo rašto išdavimo gavimo dienos.
 
@@ -397,4 +409,30 @@ Nr. XII-1413, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20545
 3. Šio straipsnio 1 dalyje nurodyti Lietuvos apeliaciniam teismui teikiami prašymai turi atitikti bendruosius procesiniams dokumentams keliamus reikalavimus (Lietuvos Respublikos civilinio proceso kodekso 111 straipsnis). Vadovaujantis Reglamento (EB) Nr. 2201/2003 15 straipsnio nuostatomis teikiamas prašymas ir jo priedai turi būti pateikti valstybine kalba arba turi būti pridėti šių dokumentų vertimai į lietuvių kalbą. Vadovaujantis 1996 m. spalio 19 d. Hagos konvencijos 8 ir 9 straipsnių nuostatomis teikiamas prašymas ir jo priedai turi būti pateikti valstybine kalba arba turi būti pridėti šių dokumentų vertimai į lietuvių kalbą, o jeigu to padaryti neįmanoma, šis prašymas ir jo priedai turi būti pateikti anglų kalba arba turi būti pridėti šių dokumentų vertimai į anglų kalbą. Jeigu pareiškėjas gyvena ne Lietuvos Respublikoje ir nepaskyrė atstovo byloje arba įgalioto asmens procesiniams dokumentams gauti, gyvenančio (turinčio profesinės veiklos buveinę) Lietuvos Respublikoje (Lietuvos Respublikos civilinio proceso kodekso 805 straipsnis), prašyme turi būti nurodytas adresas Lietuvos Respublikoje arba telekomunikacijų galinio įrenginio adresas, kuriuo pareiškėjui būtų įteikiami procesiniai dokumentai. Šioje dalyje nustatyti reikalavimai netaikomi prašymams, kuriuos Lietuvos apeliaciniam teismui pateikia užsienio valstybės teismas.
 
 4. Lietuvos apeliacinis teismas, kai tai tikslinga, gali pavesti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos pateikti išvadą dėl jurisdikcijos perėmimo ar jurisdikcijos perdavimo tikslingumo. Lietuvos apeliacinis teismas nustato šioje dalyje nurodytos išvados pateikimo terminą.
+
+41 straipsnis. Prašymų priimti sprendimą, kad nėra pagrindų atsisakyti pripažinti teismo sprendimą, nagrinėjimo tvarka
+
+1. 2012 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1215/2012 dėl jurisdikcijos ir teismo sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo (nauja redakcija) (toliau šiame skirsnyje – Reglamentas (ES) Nr. 1215/2012) 36 straipsnio 2 dalyje nurodytus prašymus priimti sprendimą, kad nėra pagrindų atsisakyti pripažinti teismo sprendimą, nagrinėja Lietuvos apeliacinis teismas. Šie prašymai nagrinėjami mutatis mutandis taikant šio įstatymo 4 straipsnio 4, 5 ir 6 dalių nuostatas.
+
+2. Prašymas peržiūrėti Lietuvos apeliacinio teismo nutartį, priimtą dėl šio straipsnio 1 dalyje nurodyto prašymo, gali būti paduotas per trisdešimt dienų nuo nutarties įteikimo šaliai dienos. Jeigu šalies, kuri turi teisę paduoti prašymą peržiūrėti Lietuvos apeliacinio teismo nutartį, nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, prašymo peržiūrėti Lietuvos apeliacinio teismo nutartį pateikimo terminas yra šešiasdešimt dienų ir jis skaičiuojamas nuo nutarties įteikimo šiai šaliai asmeniškai arba pristatymo į jos gyvenamąją vietą dienos.
+
+42 straipsnis. Prašymų atsisakyti vykdyti teismo sprendimą nagrinėjimo tvarka
+
+1. Reglamento (ES) Nr. 1215/2012 47 straipsnio 1 dalyje nurodytus prašymus atsisakyti vykdyti teismo sprendimą nagrinėja Lietuvos apeliacinis teismas. Šie prašymai nagrinėjami mutatis mutandis taikant šio įstatymo 4 straipsnio 4, 5 ir 6 dalių nuostatas.
+
+2. Reglamento (ES) Nr. 1215/2012 49 straipsnio 2 dalyje nurodytas apeliacinis skundas dėl Lietuvos apeliacinio teismo nutarties, priimtos dėl šio straipsnio 1 dalyje nurodyto prašymo atsisakyti vykdyti teismo sprendimą, gali būti paduotas per trisdešimt dienų nuo nutarties įteikimo šaliai dienos. Jeigu šalies, kuri turi teisę paduoti Reglamento (ES) Nr. 1215/2012 49 straipsnio 2 dalyje nurodytą skundą, nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, apeliacinio skundo padavimo terminas yra šešiasdešimt dienų ir jis skaičiuojamas nuo nutarties įteikimo šiai šaliai asmeniškai arba pristatymo į jos gyvenamąją vietą dienos.
+
+43 straipsnis. Reglamento (ES) Nr. 1215/2012 54 straipsnyje numatytos priemonės arba įsakymo prilyginimo tvarka
+
+1. Vadovaujantis Reglamento (ES) Nr. 1215/2012 54 straipsnio 1 dalimi, teismo sprendime numatytą priemonę ar įsakymą prilygina subjektas, kuris turi pripažinti ar vykdyti teismo sprendimą.
+
+2. Priemonės arba įsakymo prilyginimas gali būti užginčijamas teisme Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+Papildyta skirsniu:
+
+Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
+
+PENKTASIS SKIRSNIS
+
+2001 M. GEGUŽĖS 28 D. TARYBOS REGLAMENTO (EB) NR. 1206/2001 DĖL VALSTYBIŲ NARIŲ TEISMŲ TARPUSAVIO BENDRADARBIAVIMO RENKANT ĮRODYMUS CIVILINĖSE AR KOMERCINĖSE BYLOSE ĮGYVENDINIMAS
 
