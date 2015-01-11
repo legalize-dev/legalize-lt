@@ -4,7 +4,7 @@ identifier: "TAR.68CC8934A031"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-13"
-last_updated: "2015-01-10"
+last_updated: "2015-01-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.68CC8934A031"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS CIVILINĮ PROCESĄ REGLAMENTUOJANČIŲ EUROPOS SĄJUNGOS
 
 IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2015-01-10 iki 2015-01-10
+Suvestinė redakcija nuo 2015-01-11 iki 2015-08-16
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
 
@@ -386,9 +386,9 @@ Papildyta skirsniu:
 
 Nr. XII-392, 2013-06-18, Žin., 2013, Nr. 68-3419 (2013-06-28), i. k. 1131010ISTA0XII-392
 
-DEŠIMTASIS SKIRSNIS
+DEVINTASIS4 SKIRSNIS
 
-BAIGIAMOSIOS NUOSTATOS
+2013 M. BIRŽELIO 12 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (ES) NR. 606/2013 DĖL APSAUGOS PRIEMONIŲ TARPUSAVIO PRIPAŽINIMO CIVILINĖSE BYLOSE ĮGYVENDINIMAS
 
 121 straipsnis. 1996 m. spalio 19 d. Hagos konvencijos dėl jurisdikcijos, taikytinos teisės, pripažinimo, vykdymo ir bendradarbiavimo tėvų pareigų ir vaikų apsaugos priemonių srityje įgyvendinimas
 
@@ -435,4 +435,38 @@ Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
 PENKTASIS SKIRSNIS
 
 2001 M. GEGUŽĖS 28 D. TARYBOS REGLAMENTO (EB) NR. 1206/2001 DĖL VALSTYBIŲ NARIŲ TEISMŲ TARPUSAVIO BENDRADARBIAVIMO RENKANT ĮRODYMUS CIVILINĖSE AR KOMERCINĖSE BYLOSE ĮGYVENDINIMAS
+
+3113 straipsnis. Pažymos išdavimas, pranešimas apie pažymos išdavimą, išduotos pažymos taisymas ar panaikinimas
+
+1. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 606/2013 dėl apsaugos priemonių tarpusavio pripažinimo civilinėse bylose (toliau šiame skirsnyje – Reglamentas (ES) Nr. 606/2013) 5 ir 14 straipsniuose numatytas pažymas išduoda apsaugos priemonę paskyręs teismas.
+
+2. Kai šio straipsnio 1 dalyje nurodytą pažymą išduoda Lietuvos Respublikos teismas ir pavojų keliančio asmens adresas nėra žinomas arba šis asmuo atsisako patvirtinti Reglamento (ES) Nr. 606/2013 8 straipsnio 1 dalyje nurodyto pranešimo gavimą, taikomos teismo procesinių dokumentų įteikimo taisyklės.
+
+3. Reglamento (ES) Nr. 606/2013 9 straipsnyje numatytais atvejais pažymą ištaiso ar ją panaikina pažymą išdavęs teismas. Pažymos ištaisymo ar panaikinimo klausimas išsprendžiamas mutatis mutandis taikant Lietuvos Respublikos civilinio proceso kodekso nuostatas dėl rašymo apsirikimų ir aiškių aritmetinių klaidų sprendime ištaisymo.
+
+3114 straipsnis. Apsaugos priemonių vykdymas
+
+Kitoje Europos Sąjungos valstybėje narėje vadovaujantis Reglamento (ES) Nr. 606/2013 5 ir 14 straipsnių nuostatomis išduotos pažymos yra vykdomieji dokumentai, vykdomi pagal Lietuvos Respublikos civilinio proceso kodekso VI dalyje išdėstytas taisykles.
+
+3115 straipsnis. Apsaugos priemonių patikslinimas
+
+1. Reglamento (ES) Nr. 606/2013 11 straipsnyje numatytais atvejais faktinius apsaugos priemonės elementus patikslina antstolis Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka priimdamas motyvuotą patvarkymą.
+
+2. Reglamento (ES) Nr. 606/2013 11 straipsnio 4 dalyje numatytas pranešimas apie apsaugos priemonės patikslinimą tais atvejais, kai pavojų keliančio asmens adresas nėra žinomas arba kai šis asmuo atsisako patvirtinti pranešimo gavimą, skelbiamas specialioje interneto svetainėje Sprendimų vykdymo instrukcijoje nustatyta tvarka. Pranešimo paskelbimo šioje dalyje nurodytu būdu diena laikoma pranešimo įteikimo diena.
+
+3116 straipsnis. Prašymų atsisakyti pripažinti ar vykdyti apsaugos priemonę nagrinėjimo tvarka
+
+1. Prašymus atsisakyti pripažinti ar vykdyti apsaugos priemonę pagal Reglamento (ES) Nr. 606/2013 13 straipsnį nagrinėja Lietuvos apeliacinis teismas. Šie prašymai nagrinėjami mutatis mutandis taikant šio įstatymo 4 straipsnio 4, 5 ir 6 dalių nuostatas.
+
+2. Prašymas peržiūrėti Lietuvos apeliacinio teismo nutartį, priimtą dėl šio straipsnio 1 dalyje nurodyto prašymo, gali būti paduotas per trisdešimt dienų nuo nutarties įteikimo šaliai dienos. Jeigu šalies, kuri turi teisę paduoti prašymą peržiūrėti Lietuvos apeliacinio teismo nutartį, nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, prašymo peržiūrėti Lietuvos apeliacinio teismo nutartį pateikimo terminas yra šešiasdešimt dienų ir jis skaičiuojamas nuo nutarties įteikimo šiai šaliai asmeniškai arba pristatymo į jos gyvenamąją vietą dienos.
+
+3. Lietuvos apeliacinio teismo nutartis, kurią šis teismas priima išnagrinėjęs skundą dėl sprendimo dėl prašymo atsisakyti pripažinti ar vykdyti apsaugos priemonę, gali būti skundžiama kasaciniu skundu Lietuvos Aukščiausiajam Teismui. Šiems skundams nagrinėti Lietuvos Respublikos civilinio proceso kodekse nustatytos bylų proceso kasaciniame teisme taisyklės taikomos tiek, kiek šis įstatymas nenustato kitaip. Priimtas kasacinis skundas prioriteto tvarka įrašomas į Lietuvos Aukščiausiojo Teismo kasacine tvarka nagrinėtinų bylų sąrašą. Lietuvos Aukščiausiasis Teismas nustato ne ilgesnį kaip keturiolikos dienų terminą atsiliepimams į kasacinį skundą pateikti. Pranešime apie kasacinio skundo įrašymą į Lietuvos Aukščiausiojo Teismo kasacine tvarka nagrinėtinų bylų sąrašą (Lietuvos Respublikos civilinio proceso kodekso 350 straipsnio 7 dalis) Lietuvos Aukščiausiasis Teismas nurodo šalims ir kitiems byloje dalyvaujantiems asmenims nustatytą terminą atsiliepimams į kasacinį skundą pateikti. Atsiliepimus į kasacinį skundą šalys privalo, o kiti byloje dalyvaujantys asmenys turi teisę raštu pateikti per Lietuvos Aukščiausiojo Teismo nustatytą terminą. Šis terminas skaičiuojamas nuo skundo įrašymo į Lietuvos Aukščiausiojo Teismo kasacine tvarka nagrinėtinų bylų sąrašą.
+
+Papildyta skirsniu:
+
+Nr. XII-1412, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20541
+
+DEŠIMTASIS SKIRSNIS
+
+BAIGIAMOSIOS NUOSTATOS
 
