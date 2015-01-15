@@ -4,7 +4,7 @@ identifier: "TAR.551F0CDE5B64"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-18"
-last_updated: "2015-01-01"
+last_updated: "2015-01-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.551F0CDE5B64"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-01-14
+Suvestinė redakcija nuo 2015-01-15 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1598, i. k. 0991010ISTAIII-1185
 
@@ -70,7 +70,11 @@ Nr. XII-1183, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14295
 
 6. Perpardavimo teisės galiojimo terminams mutatis mutandis taikomos šio Įstatymo 34 straipsnio 1 dalies, 35 straipsnio 1 ir 2 dalių ir 37 straipsnio 1 dalies nuostatos.
 
-7. Šio straipsnio 1 dalyje numatyta perpardavimo teisė trečiųjų šalių autoriams ar jų teisių paveldėtojams Lietuvos Respublikoje taikoma tik tuo atveju, jeigu trečiosios šalies, kuriai priklauso autorius ar jo teisių paveldėtojas, įstatymai numato perpardavimo teisę Lietuvos Respublikos ir kitų Europos Bendrijos narių autoriams ir jų teisių paveldėtojams.
+7. Šio straipsnio 1 dalyje numatyta perpardavimo teisė trečiųjų šalių autoriams ar jų teisių paveldėtojams Lietuvos Respublikoje taikoma tik tuo atveju, jeigu trečiosios šalies, kuriai priklauso autorius ar jo teisių paveldėtojas, įstatymai numato perpardavimo teisę Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių autoriams ir jų teisių paveldėtojams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 
 Straipsnio pakeitimai:
 
@@ -446,255 +450,9 @@ Administracinę ir baudžiamąją atsakomybę už autorių teisių, gretutinių 
 
 Neteisėtoms kūrinių, kitų šio Įstatymo saugomų objektų kopijoms, šio Įstatymo saugomas teises pažeidžiančioms prekėms, kurios importuojamos iš trečiųjų valstybių į Lietuvos Respubliką arba iš jos eksportuojamos į trečiąsias valstybes, gali būti taikomos Europos Sąjungos ir Lietuvos Respublikos teisės aktų nustatytos muitinės priežiūros priemonės.
 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+VII SKYRIUS
 
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
-
-Lietuvos Respublikos
-
-autorių teisių ir gretutinių
-
-teisių įstatymo
-
-1 priedas
-
-TUŠČIOS GARSO IR AUDIOVIZUALINĖS LAIKMENOS IR ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS
-
-UŽ AUDIOVIZUALINIŲ KŪRINIŲ IR FONOGRAMOSE ĮRAŠYTŲ KŪRINIŲ ATGAMINIMĄ ASMENINIAIS TIKSLAIS, IR KOMPENSACINIO ATLYGINIMO TARIFAI
-
-I. Tuščios laikmenos
-
-Kompensacinio atlyginimo tarifas (eurais)
-
-1. Garsajuostės 2. Vaizdajuostės 3. Minidiskai 4. Visų tipų kompaktiniai diskai (CD+R, CD+RW, CD-R, CD-RW) 5. Visų tipų universalieji diskai (DVD+R, DVD+RW, DVD-R, DVD-RW, DVD RAM, HD-DVD, dvisluoksniai DVD) 6. Diskai „Blu-ray“
-
-6 proc. 6 proc. 6 proc. 6 proc.   6 proc.     6 proc.
-
-Pastaba. Kompensacinis atlyginimas skaičiuojamas nuo šiame priede numatytų Lietuvos Respublikoje parduodamų civilinėje apyvartoje esančių, Lietuvos Respublikoje pagamintų ar į Lietuvos Respublikos teritoriją įvežtų įrenginių ir tuščių laikmenų pirmojo pardavimo Lietuvos Respublikoje kainos be mokesčių.
-
-7. Atminties kortelės (neintegruotos): mažesnės negu 1 GB nuo 1 GB iki 2 GB nuo 2,1 GB iki 4 GB nuo 4,1 GB iki 8 GB nuo 8,1 GB iki 16 GB nuo 16,1 GB iki 32 GB didesnės negu 32 GB
-
-0,14 Eur 0,29 Eur 0,58 Eur 0,87 Eur 1,44 Eur 2,02 Eur 2,89 Eur
-
-8. USB atmintinės: mažesnės negu 1 GB nuo 1 GB iki 2 GB nuo 2,1 GB iki 4 GB nuo 4,1 GB iki 8 GB nuo 8,1 GB iki 16 GB nuo 16,1 GB iki 32 GB didesnės negu 32 GB
-
-0,14 Eur 0,29 Eur 0,58 Eur 0,87 Eur 1,44 Eur 2,02 Eur 2,89 Eur
-
-9. Išoriniai ir vidiniai neintegruoti asmeninių kompiuterių pastoviosios būsenos diskai (SSD) ir standieji diskai (HDD): iki 250 GB nuo 250,1 GB iki 500 GB  nuo 500,1 GB iki 1 TB didesni negu 1 TB
-
-1,44 Eur 2,31 Eur 2,89 Eur 4,34 Eur
-
-Pastabos:  1. Kompensacinis atlyginimas turi būti mokamas už asmeniniams kompiuteriams paprastai naudojamus išorinius ir vidinius neintegruotus kompiuterių pastoviosios būsenos diskus (SSD) ir standžiuosius diskus (HDD) su IDE, PATA ir SATA sąsajomis, išskyrus didesnius kaip 2,5 colio SATA sąsajų diskus.  2. Kompensacinis atlyginimas neturi būti mokamas už asmeninių kompiuterių pastoviosios būsenos diskus (SSD) ir standžiuosius diskus (HDD), kurie yra integruoti į asmeninį kompiuterį pardavimo metu. 3. Be to, kompensacinis atlyginimas neturi būti mokamas už tarnybinėms stotims, duomenų masyvams ir panašioms profesionalioms techninėms reikmėms paprastai naudojamus kompiuterių standžiuosius diskus (HDD) su SCSI, iSCSI, SAS, FC, SATA, FATA sąsajomis, išskyrus ne didesnius kaip 2,5 colio SATA sąsajų diskus.
-
-II. Įrenginiai
-
-Kompensacinio atlyginimo tarifas (eurais)
-
-1. Skaitmeniniai ir analoginiai garso ir vaizdo leistuvai su atminties įtaisu bei garso ir vaizdo įrašymo funkcija (garsajuosčių, vaizdajuosčių leistuvai, CD, DVD, HD-DVD, diskų „Blu-ray“ leistuvai, namų kino sistemos, muzikos centrai, magnetolos, automobilių magnetolos, radijo imtuvai, MP3 leistuvai, MP4 leistuvai, HD medijos leistuvai ir kiti leistuvai)   2. Mobilieji telefonai su atminties įtaisu ir garso ir vaizdo įrašymo funkcija   3. Televizoriai su atminties įtaisu ir garso ir vaizdo įrašymo funkcija   4. TV imtuvai (priedėliai) su atminties įtaisu ir garso ir vaizdo įrašymo funkcija
-
-mažesni negu 1 GB nuo 1 GB iki 2 GB nuo 2,1 GB iki 8 GB nuo 8,1 GB iki 32 GB nuo 32,1 GB iki 250 GB nuo 250,1 GB iki 500 GB nuo 500,1 GB iki 750 GB nuo 750,1 GB iki 1 TB didesni negu 1 TB
-
-0,43 Eur 1,01 Eur 1,44 Eur 4,34 Eur 5,79 Eur 7,24 Eur 8,69 Eur 10,14 Eur 11,58 Eur
-
-5. Asmeniniai kompiuteriai
-
-5,79 Eur
-
-Įstatymas papildytas nauju 1 priedu:
-
-Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
-
-Priedo pakeitimai:
-
-Nr. XII-1183, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14295
-
-Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
-
-2 priedas
-
-REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ KŪRINIŲ ATGAMINIMĄ, IR KOMPENSACINIO ATLYGINIMO TARIFAI
-
-Įrenginiai
-
-Įrenginio sparta
-
-Kompensacinio atlyginimo tarifas (procentais)
-
-1. Nespalviniai kopijuokliai
-
-1,8–2,00
-
-mažos spartos (nuo 12 iki 23 kopijų per minutę)
-
-1,8
-
-vidutinės spartos (nuo 24 iki 45 kopijų per minutę)
-
-1,9
-
-didelės spartos (nuo 46 iki 90 kopijų per minutę)
-
-2,00
-
-2. Spalviniai kopijuokliai
-
-2,7–3,00
-
-mažos spartos (nuo 12 iki 23 kopijų per minutę)
-
-2,7
-
-vidutinės spartos (nuo 24 iki 45 kopijų per minutę)
-
-2,85
-
-didelės spartos (nuo 46 iki 90 kopijų per minutę)
-
-3,00
-
-3. Nespalviniai daugiafunkciai kopijuokliai
-
-0,6–0,7
-
-mažos spartos (nuo 12 iki 23 kopijų per minutę)
-
-0,6
-
-vidutinės spartos (nuo 24 iki 45 kopijų per minutę)
-
-0,65
-
-didelės spartos (nuo 46 iki 90 kopijų per minutę)
-
-0,7
-
-4. Spalviniai daugiafunkciai kopijuokliai
-
-0,9–1,00
-
-mažos spartos (nuo 12 iki 23 kopijų per minutę)
-
-0,9
-
-vidutinės spartos (nuo 24 iki 45 kopijų per minutę)
-
-0,95
-
-didelės spartos (nuo 46 iki 90 kopijų per minutę)
-
-1,00
-
-Pastaba. Kompensacinio atlyginimo tarifas nustatomas procentais nuo šiame priede numatytų Lietuvos Respublikoje parduodamų civilinėje apyvartoje esančių, Lietuvos Respublikoje pagamintų ar į Lietuvos Respublikos teritoriją įvežtų reprografijos įrenginių pirmojo pardavimo Lietuvos Respublikoje kainos be mokesčių.
-
-Įstatymas papildytas 2 priedu:
-
-Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
-
-Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
-
-3 priedas
-
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-
-1. 1993 m. rugsėjo 27 d. Tarybos direktyva 93/83/EEB dėl tam tikrų autorių teisių ir gretutinių teisių taisyklių, taikomų palydoviniam transliavimui ir kabeliniam perdavimui, koordinavimo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 134).
-
-2. 1996 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 96/9/EB dėl duomenų bazių teisinės apsaugos (OL 2004 m. specialusis leidimas, 13 skyrius, 15 tomas, p. 459).
-
-3. 2001 m. gegužės 22 d. Europos Parlamento ir Tarybos direktyva 2001/29/EB dėl autorių teisių ir gretutinių teisių informacinėje visuomenėje tam tikrų aspektų suderinimo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 230).
-
-4. 2001 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2001/84/EB dėl originalaus meno kūrinio perpardavimo teisės autoriaus naudai (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 240).
-
-5. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo (OL 2004 m. specialusis leidimas, 17 skyrius, 2 tomas, p. 32).
-
-6. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/115/EB dėl nuomos ir panaudos teisių bei tam tikrų teisių, gretutinių autorių teisėms, intelektinės nuosavybės srityje (kodifikuota redakcija) (OL 2006 L 376, p. 28).
-
-7. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/116/EB dėl autorių ir tam tikrų gretutinių teisių apsaugos terminų (kodifikuota redakcija) (OL 2006 L 372, p. 12).
-
-8. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/24/EB dėl kompiuterių programų teisinės apsaugos (kodifikuota redakcija) (OL 2009 L 111, p. 16).
-
-9. 2011 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2011/77/ES, kuria iš dalies keičiama Direktyva 2006/116/EB dėl autorių ir tam tikrų gretutinių teisių apsaugos terminų (OL 2011 L 265, p. 1).
-
-Priedo pakeitimai:
-
-Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
-
-Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
-
-Nr. XII-888, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05732
-
-Pakeitimai:
-
-1.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1886, 2000 07 20, Žin., 2000, Nr. 66-1985 (2000 08 04)
-
-AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 73 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-2.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. IX-1355, 2003-03-05, Žin., 2003, Nr. 28-1125 (2003-03-21)
-
-AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Šis Įstatymas taikomas autoriams bei gretutinių teisių subjektams, jeigu jo įsigaliojimo metu nėra pasibaigę iki šio Įstatymo įsigaliojimo galioję jų teisių į literatūros, mokslo ir meno kūrinius ar gretutinių teisių objektus apsaugos terminai, išskyrus šio straipsnio 2 dalyje nurodytą atvejį.
-
-Kai fonogramų gamintojų teisių apsaugos, suteiktos pagal Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo (Žin., 1999, Nr. 50-1598; 2000, Nr. 60-1985) 50 straipsnio 2 dalį, terminas pasibaigia 2002 m. gruodžio 22 d., fonogramų gamintojų teisių apsauga pagal šį Įstatymą iš naujo nesuteikiama.
-
-Bet kokie veiksmai, padaryti iki šio Įstatymo įsigaliojimo ir nepažeidę tuo metu galiojusių įstatymų nuostatų, nelaikomi teisės pažeidimu ir nėra pagrindas atsirasti pagal šį Įstatymą suteikiamai teisei į autorinį ar kitą atlyginimą.
-
-Iki šio Įstatymo įsigaliojimo sudarytos sutartys taikomos tiek, kiek jos neprieštarauja šio Įstatymo nuostatoms.
-
-Šio Įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 20 straipsnio 3, 4, 5, 6 dalys įsigalioja nuo 2004 m. sausio 1 d.
-
-Nauja įstatymo redakcija
-
-3.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
-
-AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 2, 4, 11, 12, 14, 15, 16, 17, 22, 38, 40, 42, 43, 44, 45, 46, 47, 51, 53, 54, 56, 57, 61, 65, 72 STRAIPSNIŲ, VI SKYRIAUS IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1454, 2008-03-13, Žin., 2008, Nr. 35-1243 (2008-03-27)
-
-AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 33 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-5.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-656, 2010-01-19, Žin., 2010, Nr. 13-621 (2010-02-02)
-
-AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 17, 71 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 71(1) STRAIPSNIU ĮSTATYMAS
-
-6.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
-
-AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 2, 16, 19, 20, 21, 22, 23, 24, 25, 26, 28, 33, 39, 58, 75 STRAIPSNIŲ IR ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 20(1) STRAIPSNIU IR 1, 2 PRIEDAIS ĮSTATYMAS
-
-Šio įstatymo 4, 5, 10, 15, 17, 18 straipsniai įsigalioja 2012 m. kovo 1 d.
-
-Šio įstatymo 7 straipsnyje išdėstyto Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 22 straipsnio 3 punktas, taip pat šio įstatymo 15 straipsnyje išdėstyto Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 58 straipsnio 1 dalies 3 punktas taikomi tik tų kūrinių ir gretutinių teisių objektų atžvilgiu, kurie išleisti ar kitaip viešai paskelbti po šio įstatymo įsigaliojimo.
-
-7.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-888, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05732
-
-LIETUVOS RESPUBLIKOS AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO NR. VIII-1185 35, 59 STRAIPSNIŲ IR 3 PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO 59-1, 59-2 STRAIPSNIAIS ĮSTATYMAS
+NENUSTATYTŲ TEISIŲ TURĖTOJŲ KŪRINIAI IR JŲ NAUDOJIMO SĄLYGOS
 
 711 straipsnis. Autorių teisių ir gretutinių teisių kolektyvinio administravimo asociacijų veiklos priežiūra
 
@@ -976,25 +734,71 @@ Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
 
 22. Negalia – sveikatos sutrikimas, dėl kurio asmuo negali savarankiškai naudotis tokios formos autorių teisių ir gretutinių teisių objektais, kokios jie buvo teisėtai išleisti ar viešai paskelbti. Negalia šiame Įstatyme apima visišką ir dalinę regos ar klausos negalią, galūnių negalią, varžančią galėjimą laikyti knygą ar kitą leidinį ir jais manipuliuoti, suvokimo (mokymosi) negalią.
 
-23. Neteisėta kopija – kūrinio, gretutinių teisių ar sui generis teisių objekto kopija, pagaminta arba importuota į Lietuvos Respubliką be teisių subjektų ar jų tinkamai įgalioto asmens leidimo (nesudarius sutarties arba pažeidžiant joje nustatytas sąlygas, išskyrus šio Įstatymo nustatytus atvejus, kai kūrinys, gretutinių teisių ar sui generis teisių objektas gali būti atgaminamas be leidimo), taip pat kūrinio, gretutinių teisių ar sui generis teisių objekto kopija, kurioje be teisių subjektų leidimo panaikinta arba pakeista informacija apie teisių valdymą.
+23. Nenustatytų teisių turėtojų kūrinys – kūrinys ar fonograma, kurių nė vienas iš teisių turėtojų nenustatytas arba, jeigu vienas ar daugiau iš jų nustatyti, nė vienas iš jų nebuvo surastas nepaisant kruopščios teisių turėtojų paieškos, atliktos ir įregistruotos šio Įstatymo nustatyta tvarka.
 
-24. Nuoma – kūrinio, gretutinių teisių ar sui generis teisių objekto originalo ar kopijos perdavimas naudoti tam tikrą laiką siekiant tiesioginės ar netiesioginės komercinės naudos.
+Papildyta straipsnio dalimi:
 
-25. Panauda – kūrinio, gretutinių teisių ar sui generis teisių objekto originalo ar kopijos perdavimas tam tikrą laiką neatlygintinai naudotis bibliotekose ar kitose viešai prieinamose įstaigose.
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 
-26. Sui generis teisių subjektas – duomenų bazės gamintojas, kuris parinkdamas, sudarydamas, tikrindamas bei pateikdamas duomenų bazės turinį padarė esminių kokybinių ir (ar) kiekybinių (intelektinių, finansinių, organizacinių) investicijų, taip pat fizinis arba juridinis asmuo, kuriam perėjo duomenų bazių gamintojo sui generis teisės.
+24. Neteisėta kopija – kūrinio, gretutinių teisių ar sui generis teisių objekto kopija, pagaminta arba importuota į Lietuvos Respubliką be teisių subjektų ar jų tinkamai įgalioto asmens leidimo (nesudarius sutarties arba pažeidžiant joje nustatytas sąlygas, išskyrus šio Įstatymo nustatytus atvejus, kai kūrinys, gretutinių teisių ar sui generis teisių objektas gali būti atgaminamas be leidimo), taip pat kūrinio, gretutinių teisių ar sui generis teisių objekto kopija, kurioje be teisių subjektų leidimo panaikinta arba pakeista informacija apie teisių valdymą.
 
-27. Taikomosios dailės kūrinys – bet koks rankų darbo ar pramoniniu būdu sukurtas dailės kūrinys, skirtas praktiniam naudojimui.
+Straipsnio dalies numeracijos pakeitimas:
 
-28. Transliacija – garsų arba vaizdų ir garsų arba jų išraiškos viešas perdavimas bevielio ryšio priemonėmis, įskaitant palydovinį ryšį; užkoduotų signalų perdavimas laikomas transliacija tuo atveju, jeigu transliuojančioji organizacija aprūpina visuomenę specialiais atkodavimo prietaisais arba duoda leidimą juos įsigyti.
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 
-29. Transliuojančioji organizacija – juridinis asmuo, kurio pagrindinė veikla yra radijo ir (ar) televizijos programų rengimas ir transliacija, taip pat kabelinės retransliacijos operatorius, rengiantis ir transliuojantis savo laidas ir programas.
+25. Nuoma – kūrinio, gretutinių teisių ar sui generis teisių objekto originalo ar kopijos perdavimas naudoti tam tikrą laiką siekiant tiesioginės ar netiesioginės komercinės naudos.
 
-30. Viešas atlikimas – kūrinio vaidinimas, dainavimas, grojimas, deklamavimas, skaitymas, šokis ar kitas kūrinio viešo atlikimo būdas tiek tiesiogiai (gyvas atlikimas), tiek pasitelkus bet kokias priemones ar įrangą kokioje nors viešoje vietoje, kur tuo pačiu metu dalyvauja arba gali dalyvauti neapibrėžta visuomenės narių grupė.
+Straipsnio dalies numeracijos pakeitimas:
 
-31. Viešas paskelbimas – kūrinio viešas perdavimas laidais, bevielio ryšio priemonėmis, įskaitant jo padarymą viešai prieinamu tokiu būdu, kad visuomenės nariai galėtų jį pasiekti individualiai pasirinktoje vietoje ir pasirinktu laiku. Gretutinių teisių objekto viešas paskelbimas – bet koks gretutinių teisių objekto viešas perdavimas, įskaitant fonogramoje įrašytų garsų arba garsų išraiškos padarymą viešai girdimais, išskyrus transliaciją.
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 
-32. Viešas rodymas – bet koks kūrinio, jo originalo ar kopijos rodymas tiesiogiai (paroda) arba ekrane panaudojant skaidres, televizijos vaizdą ar kitais panašiais būdais, taip pat audiovizualinio kūrinio atskirų kadrų rodymas ne eilės tvarka kokioje nors vietoje, kur dalyvauja arba gali dalyvauti neapibrėžta visuomenės narių grupė, nesvarbu, ar jie yra toje pačioje vietoje ir tuo pačiu metu, ar skirtingose vietose ir skirtingu metu.
+26. Panauda – kūrinio, gretutinių teisių ar sui generis teisių objekto originalo ar kopijos perdavimas tam tikrą laiką neatlygintinai naudotis bibliotekose ar kitose viešai prieinamose įstaigose.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+
+27. Sui generis teisių subjektas – duomenų bazės gamintojas, kuris parinkdamas, sudarydamas, tikrindamas bei pateikdamas duomenų bazės turinį padarė esminių kokybinių ir (ar) kiekybinių (intelektinių, finansinių, organizacinių) investicijų, taip pat fizinis arba juridinis asmuo, kuriam perėjo duomenų bazių gamintojo sui generis teisės.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+
+28. Taikomosios dailės kūrinys – bet koks rankų darbo ar pramoniniu būdu sukurtas dailės kūrinys, skirtas praktiniam naudojimui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+
+29. Transliacija – garsų arba vaizdų ir garsų arba jų išraiškos viešas perdavimas bevielio ryšio priemonėmis, įskaitant palydovinį ryšį; užkoduotų signalų perdavimas laikomas transliacija tuo atveju, jeigu transliuojančioji organizacija aprūpina visuomenę specialiais atkodavimo prietaisais arba duoda leidimą juos įsigyti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+
+30. Transliuojančioji organizacija – juridinis asmuo, kurio pagrindinė veikla yra radijo ir (ar) televizijos programų rengimas ir transliacija, taip pat kabelinės retransliacijos operatorius, rengiantis ir transliuojantis savo laidas ir programas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+
+31. Viešas atlikimas – kūrinio vaidinimas, dainavimas, grojimas, deklamavimas, skaitymas, šokis ar kitas kūrinio viešo atlikimo būdas tiek tiesiogiai (gyvas atlikimas), tiek pasitelkus bet kokias priemones ar įrangą kokioje nors viešoje vietoje, kur tuo pačiu metu dalyvauja arba gali dalyvauti neapibrėžta visuomenės narių grupė.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+
+32. Viešas paskelbimas – kūrinio viešas perdavimas laidais, bevielio ryšio priemonėmis, įskaitant jo padarymą viešai prieinamu tokiu būdu, kad visuomenės nariai galėtų jį pasiekti individualiai pasirinktoje vietoje ir pasirinktu laiku. Gretutinių teisių objekto viešas paskelbimas – bet koks gretutinių teisių objekto viešas perdavimas, įskaitant fonogramoje įrašytų garsų arba garsų išraiškos padarymą viešai girdimais, išskyrus transliaciją.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+
+33. Viešas rodymas – bet koks kūrinio, jo originalo ar kopijos rodymas tiesiogiai (paroda) arba ekrane panaudojant skaidres, televizijos vaizdą ar kitais panašiais būdais, taip pat audiovizualinio kūrinio atskirų kadrų rodymas ne eilės tvarka kokioje nors vietoje, kur dalyvauja arba gali dalyvauti neapibrėžta visuomenės narių grupė, nesvarbu, ar jie yra toje pačioje vietoje ir tuo pačiu metu, ar skirtingose vietose ir skirtingu metu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 
 Straipsnio pakeitimai:
 
@@ -1805,4 +1609,370 @@ AUTORIŲ TEISIŲ, GRETUTINIŲ TEISIŲ IR SUI GENERIS TEISIŲ GYNIMAS
 Straipsnio pakeitimai:
 
 Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
+
+89 straipsnis. Kūriniai ir fonogramos, kuriems taikomos nenustatytų teisių turėtojų kūrinių naudojimo sąlygos
+
+1. Nenustatytų teisių turėtojų kūrinių naudojimo sąlygos taikomos Lietuvos Respublikoje, kitose Europos Sąjungos valstybėse narėse ar Europos ekonominės erdvės valstybėse (toliau – valstybės narės) pirmą kartą išleistiems kūriniams ir fonogramoms arba neišleistiems, bet pirmą kartą Lietuvos Respublikoje ar kitose valstybėse narėse transliuotiems kūriniams ir fonogramoms, kuriems taikoma autorių teisių ar gretutinių teisių apsauga:
+
+1) knygų, dienoraščių, laikraščių, žurnalų arba kitų rašytinių kūrinių forma išleistiems kūriniams, esantiems Lietuvos Respublikos viešai prieinamų bibliotekų, muziejų, archyvų, kino ir (ar) garso paveldo įstaigų, švietimo įstaigų ir mokslinių tyrimų institutų (toliau – kultūros, švietimo ir mokslo įstaigos) kolekcijose;
+
+2) audiovizualiniams kūriniams ir fonogramoms, esantiems kultūros, švietimo ir mokslo įstaigų kolekcijose;
+
+3) iki 2002 m. gruodžio 31 d. Lietuvos Respublikos ir kitų valstybių narių visuomeninių transliuojančiųjų organizacijų pagamintiems audiovizualiniams kūriniams ir fonogramoms, kuriuos savo archyve turi Lietuvos Respublikos visuomeninė transliuojančioji organizacija – viešoji įstaiga Lietuvos nacionalinis radijas ir televizija (toliau – visuomeninis transliuotojas).
+
+2. Nenustatytų teisių turėtojų kūrinių naudojimo sąlygos taip pat taikomos:
+
+1) šio straipsnio 1 dalyje nurodytiems kūriniams ir fonogramoms, kurie niekada nebuvo išleisti ar transliuoti, jeigu viešą prieigą prie šių kūrinių ir fonogramų teisių turėtojų leidimu suteikė Lietuvos Respublikos ar kitų valstybių narių kultūros, švietimo ir mokslo įstaigos ar visuomeninės transliuojančiosios organizacijos, jeigu pagrįstai galima manyti, kad teisių turėtojai nepareikš prieštaravimo dėl šių kūrinių ir fonogramų naudojimo būdų ir sąlygų, numatytų šio Įstatymo 94 straipsnyje;
+
+2) kūriniams (iliustracijoms, fotografijoms, brėžiniams, eskizams, žemėlapiams ir kt.) ir kitiems saugomiems objektams, kurie yra šio straipsnio 1 dalyje ir šios dalies 1 punkte nurodytų kūrinių ar fonogramų sudedamoji dalis, yra į juos įtraukti ar sudaro jų visumą.
+
+90 straipsnis. Kūrinių ir fonogramų pripažinimo nenustatytų teisių turėtojų kūriniais sąlygos
+
+1. Kūrinys ar fonograma pripažįstami nenustatytų teisių turėtojų kūriniu tik šio Įstatymo 92 straipsnyje nustatyta tvarka atlikus kruopščią kūrinio ar fonogramos teisių turėtojų paiešką ir atliktos teisių turėtojų paieškos rezultatus įregistravus šio Įstatymo 93 straipsnyje nustatyta tvarka.
+
+2. Tais atvejais, kai yra daugiau negu vienas kūrinio ar fonogramos teisių turėtojas ir ne visi iš jų buvo nustatyti arba kai vienas ar daugiau iš šių teisių turėtojų buvo nustatyti, tačiau kruopščios teisių turėtojų paieškos, kuri atlikta šio Įstatymo 92 straipsnyje nustatyta tvarka ir kurios rezultatai įregistruoti šio Įstatymo 93 straipsnyje nustatyta tvarka, metu nebuvo surasti, kūrinys ar fonograma gali būti naudojami kaip nenustatytų teisių turėtojų kūriniai šio Įstatymo 94 straipsnyje numatytais naudojimo būdais ir sąlygomis, jeigu nustatyti ir surasti kūrinio ar fonogramos teisių turėtojai pagal turimas savo autorių teises ar gretutines teises suteikė leidimą naudoti kūrinį ar fonogramą.
+
+3. Šio straipsnio 2 dalyje nurodytų nustatytų ir surastų teisių turėtojų autorių teisėms į kūrinį ar gretutinėms teisėms į fonogramą netaikomi jokie apribojimai, susiję su šių teisių įgyvendinimu.
+
+4. Negali būti preziumuojama, kad kūrinys ar fonograma yra nenustatytų teisių turėtojų kūrinys, dėl šių aplinkybių:
+
+1) kūrinys išleistas ar transliuotas nenurodant autoriaus vardo arba nurodant autoriaus pseudonimą, atsižvelgus į šio Įstatymo 14 straipsnio 1 dalies 2 punkte numatytą autoriaus asmeninę neturtinę teisę į autoriaus vardą;
+
+2) fonograma išleista ar transliuota neįvardijant fonogramos gamintojo ir (ar) atlikėjo, atsižvelgus į šio Įstatymo 51 straipsnio 2 dalies nuostatas dėl informacijos apie gretutines teises ir 52 straipsnio 1 dalies nuostatas dėl atlikėjo asmeninių neturtinių teisių.
+
+91 straipsnis. Nenustatytų teisių turėtojų kūrinių naudotojai
+
+1. Nenustatytų teisių turėtojų kūrinius savo veiklos srityse nekomerciniais tikslais, vykdydamos savo įprastinę veiklą, susijusią su viešojo intereso tikslais kultūros sklaidos, paveldo apsaugos, švietimo, mokslo ir visuomenės informavimo srityse, gali naudoti tik šio Įstatymo 89 straipsnio 1 dalyje nurodytos kultūros, švietimo ir mokslo įstaigos ir visuomeninis transliuotojas (toliau – nenustatytų teisių turėtojų kūrinių naudotojai), jeigu naudojami nenustatytų teisių turėtojų kūriniai yra jų kolekcijose.
+
+2. Nenustatytų teisių turėtojų kūrinių naudotojai, siekdami įgyvendinti šio straipsnio 1 dalyje nurodytus viešojo intereso tikslus, susijusius su nenustatytų teisių turėtojų kūrinių naudojimu, turi teisę įstatymų nustatyta tvarka sudaryti su kitais asmenimis bendradarbiavimo, jungtinės veiklos (partnerystės), paslaugų ir kitas sutartis.
+
+3. Asmenys, su nenustatytų teisių turėtojų kūrinių naudotojais sudarę šio straipsnio 2 dalyje nurodytas sutartis, neįgyja teisės patys naudoti nenustatytų teisių turėtojų kūrinius ar kontroliuoti jų naudojimą.
+
+92 straipsnis. Teisių turėtojų paieškos sąlygos, tvarka ir paieškos šaltiniai
+
+1. Nenustatytų teisių turėtojų kūrinių naudotojai, prieš pradėdami naudoti jų kolekcijose esančius kūrinius ir (ar) fonogramas kaip nenustatytų teisių turėtojų kūrinius, turi atlikti kiekvieno iš jų kruopščią teisių turėtojų paiešką. Kruopšti teisių turėtojų paieška atliekama renkant ir tikrinant informaciją iš atitinkamų konkrečios rūšies kūriniams ir fonogramoms tinkamų paieškos šaltinių, kurių pavyzdinį sąrašą, pasikonsultavusi su teisių turėtojų ir nenustatytų teisių turėtojų kūrinių naudotojų asociacijomis ir įvertinusi jų rekomendacinius pasiūlymus, sudaro ir tvirtina Vyriausybės įgaliota institucija. Visus teisių turėtojų paieškos dokumentus nenustatytų teisių turėtojų kūrinių naudotojai saugo iki tų kūrinių ar fonogramų autorių teisių ar gretutinių teisių galiojimo terminų pabaigos.
+
+2. Teisių turėtojų paieška atliekama valstybėje narėje, kurioje:
+
+1) kūrinys ar fonograma buvo pirmą kartą išleisti arba, jei nebuvo išleisti, pirmą kartą buvo transliuoti;
+
+2) audiovizualinio kūrinio gamintojas turi buveinę arba nuolatinę gyvenamąją vietą;
+
+3) yra įsteigta kultūros, švietimo ar mokslo įstaiga arba visuomeninė transliuojančioji organizacija, kurios teisių turėtojų leidimu yra suteikusios neišleistam ir (ar) netransliuotam kūriniui ar fonogramai viešą prieigą.
+
+3. Kai yra pagrįstų įrodymų, kad svarbios informacijos apie teisių turėtojus galima rasti ne tik valstybėse narėse, arba paaiškėja, kad audiovizualinio kūrinio gamintojas nė vienoje iš valstybių narių neturi buveinės arba gyvenamosios vietos, tikrinami ir kitose šalyse esantys paieškos šaltiniai.
+
+4. Nenustatytų teisių turėtojų kūrinių naudotojai šio straipsnio 1, 2 ir 3 dalyse numatytai teisių turėtojų paieškai atlikti turi teisę įstatymų nustatyta tvarka pagal sutartis pasitelkti kitus asmenis.
+
+93 straipsnis. Teisių turėtojų paieškos rezultatų registravimas. Nenustatytų teisių turėtojų kūrinio statusas
+
+1. Nenustatytų teisių turėtojų kūrinių naudotojai, atlikę teisių turėtojų paiešką ir padarę išvadą, kad kūrinys ar fonograma laikomi nenustatytų teisių turėtojų kūriniu, informaciją apie teisių turėtojų paieškos rezultatus pateikia Lietuvos nacionalinei Martyno Mažvydo bibliotekai (toliau – atsakinga nacionalinė įstaiga), kuri yra atsakinga už teisių turėtojų paieškos rezultatų surinkimą ir registravimą bendroje viešai prieinamoje Europos Komisijos Vidaus rinkos derinimo tarnybos duomenų bazėje (toliau – duomenų bazė).
+
+2. Šio straipsnio 1 dalyje nurodytoje duomenų bazėje registruojami šie duomenys:
+
+1) atsakinga nacionalinė įstaiga (pavadinimas ir kontaktinė informacija);
+
+2) teisių turėtojų paieškos, po kurios buvo padaryta nenustatytų teisių turėtojų kūrinio naudotojo išvada, kad kūrinys ar fonograma laikomi nenustatytų teisių turėtojų kūriniu, rezultatai;
+
+3) nenustatytų teisių turėtojų kūrinio pavadinimas arba trumpas aprašymas, jeigu nėra pavadinimo, ir pobūdis (rašytinis kūrinys, audiovizualinis kūrinys ar fonograma);
+
+4) autorius (bendraautoriai), atlikėjas (atlikėjų kolektyvas), audiovizualinio kūrinio ar fonogramos gamintojas, leidėjas (jeigu tokia informacija nurodyta kūrinyje ar fonogramoje);
+
+5) nenustatytų teisių turėtojų kūrinio naudotojas (pavadinimas ir kontaktinė informacija);
+
+6) nenustatytų teisių turėtojų kūrinio naudojimo būdai;
+
+7) informacija apie nenustatytų teisių turėtojų kūrinio statuso panaikinimą.
+
+3. Atsakingai nacionalinei įstaigai šio straipsnio 1 ir 2 dalyse nustatyta tvarka įregistravus teisių turėtojų paieškos rezultatus, kūrinys ar fonograma įgyja nenustatytų teisių turėtojų kūrinio statusą ir gali būti naudojami šio Įstatymo 94 straipsnyje numatytais būdais ir sąlygomis.
+
+4. Nenustatytų teisių turėtojų kūrinio statusui Lietuvos Respublikoje ir kitose valstybėse narėse taikomas tarpusavio pripažinimo principas. Pagal tarpusavio pripažinimo principą kūrinys ar fonograma, kurie įgijo nenustatytų teisių turėtojų kūrinio statusą bet kurioje valstybėje narėje, laikomi nenustatytų teisių turėtojų kūriniu ir Lietuvos Respublikoje. Nenustatytų teisių turėtojų kūrinių naudotojai šiuos nenustatytų teisių turėtojų kūrinius gali naudoti šio Įstatymo 94 straipsnyje nustatytais būdais ir sąlygomis.
+
+94 straipsnis. Leistini nenustatytų teisių turėtojų kūrinių naudojimo būdai ir sąlygos
+
+1. Nenustatytų teisių turėtojų kūrinių naudotojai turi teisę savo kolekcijose esančius nenustatytų teisių turėtojų kūrinius naudoti šiais būdais:
+
+1) atgaminti juos taip, kaip apibrėžta šio Įstatymo 2 straipsnio 1 dalyje, skaitmeninimo, padarymo viešai prieinamų, indeksavimo, sisteminimo, išsaugojimo arba atkūrimo tikslais;
+
+2) padaryti juos viešai prieinamus laidais ar bevielėmis ryšio priemonėmis tokiu būdu, kad visuomenės nariai galėtų juos pasiekti individualiai pasirinktoje vietoje ir pasirinktu laiku (kompiuterių tinklais (internete) ir pan.).
+
+2. Nenustatytų teisių turėtojų kūrinių naudotojai, naudodami nenustatytų teisių turėtojų kūrinius šio straipsnio 1 dalyje numatytais būdais, gali gauti pajamų išimtinai tik patiriamoms nenustatytų teisių turėtojų kūrinių atgaminimo ir jų padarymo viešai prieinamų išlaidoms padengti.
+
+3. Nenustatytų teisių turėtojų kūrinių naudotojai turi užtikrinti, kad, naudojant nenustatytų teisių turėtojų kūrinius šio straipsnio 1 dalyje nurodytais būdais, bus nurodomi nustatytų autorių ir (ar) atlikėjų vardai ir kitų nustatytų teisių turėtojų vardai ar pavadinimai.
+
+95 straipsnis. Nenustatytų teisių turėtojų kūrinio statuso panaikinimas
+
+1. Nenustatytų teisių turėtojų kūrinio statusas bet kuriuo metu gali būti panaikintas paaiškėjusio teisių turėtojo iniciatyva. Šiuo tikslu teisių turėtojas pateikia nenustatytų teisių turėtojų kūrinių naudotojui laisvos formos prašymą panaikinti nenustatytų teisių turėtojų kūrinio statusą, susijusį su jo autorių ir (ar) gretutinėmis teisėmis (toliau – prašymas). Prie prašymo pridedami dokumentai, įrodantys autorių teisių ir (ar) gretutinių teisių į nenustatytų teisių turėtojų kūrinį turėjimą (autorinės kūrinio užsakymo sutartys, autorių teisių ar gretutinių teisių perdavimo ar suteikimo sutartys, leidybos sutartys, autorių teisių ar gretutinių teisių paveldėjimo teisės liudijimai, kolektyvinio administravimo asociacijų pažymos ir kiti dokumentai, kuriuose yra informacija apie autorių teisių ar gretutinių teisių valdymą). Nenustatytų teisių turėtojų kūrinių naudotojai, įvertinę teisių turėtojų pateiktą prašymą ir dokumentus, įrodančius autorių teisių ir (ar) gretutinių teisių į kūrinį ar fonogramą turėjimą, ir padarę išvadą dėl nenustatytų teisių turėtojų kūrinio statuso panaikinimo, šią informaciją pateikia šio Įstatymo 93 straipsnio 1 dalyje nustatyta tvarka registruoti atsakingai nacionalinei įstaigai. Teisių turėtojų pateiktų dokumentų, kurių pagrindu padaryta išvada dėl nenustatytų teisių turėtojų kūrinio statuso panaikinimo, kopijas nenustatytų teisių turėtojų kūrinių naudotojai saugo iki tų kūrinių ar fonogramų autorių teisių ar gretutinių teisių galiojimo terminų pabaigos.
+
+2. Panaikinus nenustatytų teisių turėtojų kūrinio statusą, kūrinys ar fonograma toliau gali būti naudojami šio Įstatymo 94 straipsnio 1 dalyje numatytais būdais tik gavus teisių turėtojo ar jo įgalioto asmens leidimą (išskyrus kūrinio ar fonogramos atgaminimą šio Įstatymo 23 straipsnyje ir 58 straipsnio 1 dalies 4 punkte numatytais išsaugojimo tikslais).
+
+3. Šio straipsnio 1 ir 2 dalių nuostatos dėl nenustatytų teisių turėtojų kūrinio statuso panaikinimo mutatis mutandis taikomos šio Įstatymo 90 straipsnio 2 dalyje nurodytų nenustatytų ar nesurastų teisių turėtojų teisėms į kūrinį ar fonogramą.
+
+96 straipsnis. Teisė gauti kompensaciją panaikinus nenustatytų teisių turėtojų kūrinio statusą
+
+1. Šio Įstatymo 95 straipsnio 1 dalyje nustatyta tvarka panaikinus nenustatytų teisių turėtojų kūrinio statusą, teisių turėtojai turi teisę gauti vienkartinę kompensaciją už buvusio nenustatytų teisių turėtojų kūrinio naudojimą šio Įstatymo 94 straipsnio 1 dalyje nustatytais būdais. Prašymus išmokėti šią kompensaciją teisių turėtojai pateikia Vyriausybės įgaliotai institucijai. Sprendimą dėl kompensacijos išmokėjimo ir jos dydžio Vyriausybės įgaliota institucija priima atsižvelgdama į kompensavimo už nenustatytų teisių turėtojų kūrinių naudojimą ekspertų komisijos (toliau – ekspertų komisija) rekomendacines išvadas. Vyriausybės įgaliotos institucijos sprendimas ir ekspertų komisijos išvados priimamos įvertinus konkretaus buvusio nenustatytų teisių turėtojų kūrinio nekomercines naudojimo sąlygas (kūrinio ar fonogramos viešą prieinamumą, naudojimo būdus, poreikį išsaugoti arba atgaminti prarastus, sunaikintus arba tapusius netinkamus naudoti egzempliorius, nenustatytų teisių turėtojų kūrinių naudotojo siekiamų viešojo intereso tikslų svarbą, galimą padarytą žalą teisių turėtojams). Ekspertų komisiją iš 7 narių – Lietuvos meno kūrėjų asociacijos, kolektyvinio administravimo asociacijų ir Vyriausybės įgaliotos institucijos atstovų – 2 metams sudaro ir jos nuostatus tvirtina Vyriausybės įgaliota institucija.
+
+2. Kompensacija už buvusio nenustatytų teisių turėtojų kūrinio naudojimą neturi viršyti 10 bazinių socialinių išmokų dydžio sumos. Ši kompensacijos suma paskirstoma ir mokama proporcingai jo teisių turėtojams. Kompensacija teisių turėtojams išmokama iki kitų metų kovo 31 dienos, pasibaigus metams, kuriais Vyriausybės įgaliota institucija, atsižvelgusi į ekspertų komisijos rekomendacines išvadas, priėmė sprendimą dėl kompensacijos mokėjimo ir jos dydžio. Kitas kompensacijos už buvusio nenustatytų teisių turėtojų kūrinio naudojimą mokėjimo sąlygas ir tvarką nustato Vyriausybės įgaliota institucija.
+
+3. Kompensacija už buvusio nenustatytų teisių turėtojų kūrinio naudojimą mokama iš valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme šiam tikslui numatytų lėšų, kurių poreikis nustatomas atsižvelgus į šio straipsnio 2 dalyje nustatyta tvarka priimtus sprendimus dėl kompensacijų mokėjimo ir jų dydžio.
+
+Papildyta skyriumi:
+
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+
+Lietuvos Respublikos
+
+autorių teisių ir gretutinių
+
+teisių įstatymo
+
+1 priedas
+
+TUŠČIOS GARSO IR AUDIOVIZUALINĖS LAIKMENOS IR ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS
+
+UŽ AUDIOVIZUALINIŲ KŪRINIŲ IR FONOGRAMOSE ĮRAŠYTŲ KŪRINIŲ ATGAMINIMĄ ASMENINIAIS TIKSLAIS, IR KOMPENSACINIO ATLYGINIMO TARIFAI
+
+I. Tuščios laikmenos
+
+Kompensacinio atlyginimo tarifas (eurais)
+
+1. Garsajuostės 2. Vaizdajuostės 3. Minidiskai 4. Visų tipų kompaktiniai diskai (CD+R, CD+RW, CD-R, CD-RW) 5. Visų tipų universalieji diskai (DVD+R, DVD+RW, DVD-R, DVD-RW, DVD RAM, HD-DVD, dvisluoksniai DVD) 6. Diskai „Blu-ray“
+
+6 proc. 6 proc. 6 proc. 6 proc.   6 proc.     6 proc.
+
+Pastaba. Kompensacinis atlyginimas skaičiuojamas nuo šiame priede numatytų Lietuvos Respublikoje parduodamų civilinėje apyvartoje esančių, Lietuvos Respublikoje pagamintų ar į Lietuvos Respublikos teritoriją įvežtų įrenginių ir tuščių laikmenų pirmojo pardavimo Lietuvos Respublikoje kainos be mokesčių.
+
+7. Atminties kortelės (neintegruotos): mažesnės negu 1 GB nuo 1 GB iki 2 GB nuo 2,1 GB iki 4 GB nuo 4,1 GB iki 8 GB nuo 8,1 GB iki 16 GB nuo 16,1 GB iki 32 GB didesnės negu 32 GB
+
+0,14 Eur 0,29 Eur 0,58 Eur 0,87 Eur 1,44 Eur 2,02 Eur 2,89 Eur
+
+8. USB atmintinės: mažesnės negu 1 GB nuo 1 GB iki 2 GB nuo 2,1 GB iki 4 GB nuo 4,1 GB iki 8 GB nuo 8,1 GB iki 16 GB nuo 16,1 GB iki 32 GB didesnės negu 32 GB
+
+0,14 Eur 0,29 Eur 0,58 Eur 0,87 Eur 1,44 Eur 2,02 Eur 2,89 Eur
+
+9. Išoriniai ir vidiniai neintegruoti asmeninių kompiuterių pastoviosios būsenos diskai (SSD) ir standieji diskai (HDD): iki 250 GB nuo 250,1 GB iki 500 GB  nuo 500,1 GB iki 1 TB didesni negu 1 TB
+
+1,44 Eur 2,31 Eur 2,89 Eur 4,34 Eur
+
+Pastabos:  1. Kompensacinis atlyginimas turi būti mokamas už asmeniniams kompiuteriams paprastai naudojamus išorinius ir vidinius neintegruotus kompiuterių pastoviosios būsenos diskus (SSD) ir standžiuosius diskus (HDD) su IDE, PATA ir SATA sąsajomis, išskyrus didesnius kaip 2,5 colio SATA sąsajų diskus.  2. Kompensacinis atlyginimas neturi būti mokamas už asmeninių kompiuterių pastoviosios būsenos diskus (SSD) ir standžiuosius diskus (HDD), kurie yra integruoti į asmeninį kompiuterį pardavimo metu. 3. Be to, kompensacinis atlyginimas neturi būti mokamas už tarnybinėms stotims, duomenų masyvams ir panašioms profesionalioms techninėms reikmėms paprastai naudojamus kompiuterių standžiuosius diskus (HDD) su SCSI, iSCSI, SAS, FC, SATA, FATA sąsajomis, išskyrus ne didesnius kaip 2,5 colio SATA sąsajų diskus.
+
+II. Įrenginiai
+
+Kompensacinio atlyginimo tarifas (eurais)
+
+1. Skaitmeniniai ir analoginiai garso ir vaizdo leistuvai su atminties įtaisu bei garso ir vaizdo įrašymo funkcija (garsajuosčių, vaizdajuosčių leistuvai, CD, DVD, HD-DVD, diskų „Blu-ray“ leistuvai, namų kino sistemos, muzikos centrai, magnetolos, automobilių magnetolos, radijo imtuvai, MP3 leistuvai, MP4 leistuvai, HD medijos leistuvai ir kiti leistuvai)   2. Mobilieji telefonai su atminties įtaisu ir garso ir vaizdo įrašymo funkcija   3. Televizoriai su atminties įtaisu ir garso ir vaizdo įrašymo funkcija   4. TV imtuvai (priedėliai) su atminties įtaisu ir garso ir vaizdo įrašymo funkcija
+
+mažesni negu 1 GB nuo 1 GB iki 2 GB nuo 2,1 GB iki 8 GB nuo 8,1 GB iki 32 GB nuo 32,1 GB iki 250 GB nuo 250,1 GB iki 500 GB nuo 500,1 GB iki 750 GB nuo 750,1 GB iki 1 TB didesni negu 1 TB
+
+0,43 Eur 1,01 Eur 1,44 Eur 4,34 Eur 5,79 Eur 7,24 Eur 8,69 Eur 10,14 Eur 11,58 Eur
+
+5. Asmeniniai kompiuteriai
+
+5,79 Eur
+
+Įstatymas papildytas nauju 1 priedu:
+
+Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
+
+Priedo pakeitimai:
+
+Nr. XII-1183, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14295
+
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
+
+2 priedas
+
+REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ KŪRINIŲ ATGAMINIMĄ, IR KOMPENSACINIO ATLYGINIMO TARIFAI
+
+Įrenginiai
+
+Įrenginio sparta
+
+Kompensacinio atlyginimo tarifas (procentais)
+
+1. Nespalviniai kopijuokliai
+
+1,8–2,00
+
+mažos spartos (nuo 12 iki 23 kopijų per minutę)
+
+1,8
+
+vidutinės spartos (nuo 24 iki 45 kopijų per minutę)
+
+1,9
+
+didelės spartos (nuo 46 iki 90 kopijų per minutę)
+
+2,00
+
+2. Spalviniai kopijuokliai
+
+2,7–3,00
+
+mažos spartos (nuo 12 iki 23 kopijų per minutę)
+
+2,7
+
+vidutinės spartos (nuo 24 iki 45 kopijų per minutę)
+
+2,85
+
+didelės spartos (nuo 46 iki 90 kopijų per minutę)
+
+3,00
+
+3. Nespalviniai daugiafunkciai kopijuokliai
+
+0,6–0,7
+
+mažos spartos (nuo 12 iki 23 kopijų per minutę)
+
+0,6
+
+vidutinės spartos (nuo 24 iki 45 kopijų per minutę)
+
+0,65
+
+didelės spartos (nuo 46 iki 90 kopijų per minutę)
+
+0,7
+
+4. Spalviniai daugiafunkciai kopijuokliai
+
+0,9–1,00
+
+mažos spartos (nuo 12 iki 23 kopijų per minutę)
+
+0,9
+
+vidutinės spartos (nuo 24 iki 45 kopijų per minutę)
+
+0,95
+
+didelės spartos (nuo 46 iki 90 kopijų per minutę)
+
+1,00
+
+Pastaba. Kompensacinio atlyginimo tarifas nustatomas procentais nuo šiame priede numatytų Lietuvos Respublikoje parduodamų civilinėje apyvartoje esančių, Lietuvos Respublikoje pagamintų ar į Lietuvos Respublikos teritoriją įvežtų reprografijos įrenginių pirmojo pardavimo Lietuvos Respublikoje kainos be mokesčių.
+
+Įstatymas papildytas 2 priedu:
+
+Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
+
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
+
+3 priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 1993 m. rugsėjo 27 d. Tarybos direktyva 93/83/EEB dėl tam tikrų autorių teisių ir gretutinių teisių taisyklių, taikomų palydoviniam transliavimui ir kabeliniam perdavimui, koordinavimo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 134).
+
+2. 1996 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 96/9/EB dėl duomenų bazių teisinės apsaugos (OL 2004 m. specialusis leidimas, 13 skyrius, 15 tomas, p. 459).
+
+3. 2001 m. gegužės 22 d. Europos Parlamento ir Tarybos direktyva 2001/29/EB dėl autorių teisių ir gretutinių teisių informacinėje visuomenėje tam tikrų aspektų suderinimo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 230).
+
+4. 2001 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2001/84/EB dėl originalaus meno kūrinio perpardavimo teisės autoriaus naudai (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 240).
+
+5. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo (OL 2004 m. specialusis leidimas, 17 skyrius, 2 tomas, p. 32).
+
+6. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/115/EB dėl nuomos ir panaudos teisių bei tam tikrų teisių, gretutinių autorių teisėms, intelektinės nuosavybės srityje (kodifikuota redakcija) (OL 2006 L 376, p. 28).
+
+7. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/116/EB dėl autorių ir tam tikrų gretutinių teisių apsaugos terminų (kodifikuota redakcija) (OL 2006 L 372, p. 12).
+
+8. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/24/EB dėl kompiuterių programų teisinės apsaugos (kodifikuota redakcija) (OL 2009 L 111, p. 16).
+
+9. 2011 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2011/77/ES, kuria iš dalies keičiama Direktyva 2006/116/EB dėl autorių ir tam tikrų gretutinių teisių apsaugos terminų (OL 2011 L 265, p. 1).
+
+10. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/28/ES dėl tam tikro leistino nenustatytų teisių turėtojų kūrinių naudojimo (OL 2012 L 299, p. 5).
+
+Papildyta punktu:
+
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+
+Priedo pakeitimai:
+
+Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
+
+Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
+
+Nr. XII-888, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05732
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1886, 2000 07 20, Žin., 2000, Nr. 66-1985 (2000 08 04)
+
+AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 73 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1355, 2003-03-05, Žin., 2003, Nr. 28-1125 (2003-03-21)
+
+AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas taikomas autoriams bei gretutinių teisių subjektams, jeigu jo įsigaliojimo metu nėra pasibaigę iki šio Įstatymo įsigaliojimo galioję jų teisių į literatūros, mokslo ir meno kūrinius ar gretutinių teisių objektus apsaugos terminai, išskyrus šio straipsnio 2 dalyje nurodytą atvejį.
+
+Kai fonogramų gamintojų teisių apsaugos, suteiktos pagal Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo (Žin., 1999, Nr. 50-1598; 2000, Nr. 60-1985) 50 straipsnio 2 dalį, terminas pasibaigia 2002 m. gruodžio 22 d., fonogramų gamintojų teisių apsauga pagal šį Įstatymą iš naujo nesuteikiama.
+
+Bet kokie veiksmai, padaryti iki šio Įstatymo įsigaliojimo ir nepažeidę tuo metu galiojusių įstatymų nuostatų, nelaikomi teisės pažeidimu ir nėra pagrindas atsirasti pagal šį Įstatymą suteikiamai teisei į autorinį ar kitą atlyginimą.
+
+Iki šio Įstatymo įsigaliojimo sudarytos sutartys taikomos tiek, kiek jos neprieštarauja šio Įstatymo nuostatoms.
+
+Šio Įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 20 straipsnio 3, 4, 5, 6 dalys įsigalioja nuo 2004 m. sausio 1 d.
+
+Nauja įstatymo redakcija
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
+
+AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 2, 4, 11, 12, 14, 15, 16, 17, 22, 38, 40, 42, 43, 44, 45, 46, 47, 51, 53, 54, 56, 57, 61, 65, 72 STRAIPSNIŲ, VI SKYRIAUS IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1454, 2008-03-13, Žin., 2008, Nr. 35-1243 (2008-03-27)
+
+AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 33 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-656, 2010-01-19, Žin., 2010, Nr. 13-621 (2010-02-02)
+
+AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 17, 71 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 71(1) STRAIPSNIU ĮSTATYMAS
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
+
+AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 2, 16, 19, 20, 21, 22, 23, 24, 25, 26, 28, 33, 39, 58, 75 STRAIPSNIŲ IR ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 20(1) STRAIPSNIU IR 1, 2 PRIEDAIS ĮSTATYMAS
+
+Šio įstatymo 4, 5, 10, 15, 17, 18 straipsniai įsigalioja 2012 m. kovo 1 d.
+
+Šio įstatymo 7 straipsnyje išdėstyto Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 22 straipsnio 3 punktas, taip pat šio įstatymo 15 straipsnyje išdėstyto Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 58 straipsnio 1 dalies 3 punktas taikomi tik tų kūrinių ir gretutinių teisių objektų atžvilgiu, kurie išleisti ar kitaip viešai paskelbti po šio įstatymo įsigaliojimo.
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-888, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05732
+
+LIETUVOS RESPUBLIKOS AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO NR. VIII-1185 35, 59 STRAIPSNIŲ IR 3 PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO 59-1, 59-2 STRAIPSNIAIS ĮSTATYMAS
 
