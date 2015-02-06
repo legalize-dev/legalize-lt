@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2015-01-01"
+last_updated: "2015-02-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-02-05
+Suvestinė redakcija nuo 2015-02-06 iki 2015-04-02
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -841,6 +841,14 @@ TRANSPORTO PRIEMONĖS
 3. Viešajame eisme dalyvaujančių motorinių transporto priemonių ir (ar)  priekabų reikiamą techninę būklę, registravimą ir transporto priemonių valdytojų civilinės atsakomybės privalomąjį draudimą užtikrina transporto priemonės valdytojas.
 
 4. Draudžiama dalyvauti viešajame eisme motorinėms transporto priemonėms ir (ar) priekaboms, kurios pritaikytos eismui kairiąja kelio puse ir (ar) turi vairą dešinėje pusėje, išskyrus tas, kurios buvo įregistruotos Lietuvos Respublikoje iki 1993 m. gegužės 1 d. arba kurios pagal konstrukciją ir įrangą yra skirtos specialioms darbo funkcijoms atlikti. Šis draudimas netaikomas laikinai (iki 90 dienų per metus) į Lietuvos Respubliką su užsienio valstybėje įregistruotomis transporto priemonėmis atvykusiems užsieniečiams, kurie neturi leidimo laikinai apsigyventi arba leidimo nuolat gyventi Lietuvos Respublikoje, taip pat Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, taip pat transporto priemonėms, kurios teisės aktų nustatyta tvarka priskirtos istorinių motorinių transporto priemonių kategorijai.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 25 straipsnio 4 dalis (2010 m. balandžio 15 d. redakcija, Žin., 2010, Nr. 48-2308; 2013 m. birželio 13 d. redakcija, Žin., 2013, Nr. 68-3401) tiek, kiek joje nustačius, kad draudimas dalyvauti viešajame eisme motorinėms transporto priemonėms, kurios pritaikytos eismui kairiąja kelio puse ir (ar) turi vairą dešinėje pusėje, netaikomas laikinai (iki 90 dienų per metus) į Lietuvos Respubliką su užsienio valstybėje įregistruotomis transporto priemonėmis atvykusiems Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, nustatyta, kad toks draudimas taikomas Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje, prieštarauja (prieštaravo) Lietuvos Respublikos Konstitucijos 29 straipsniui, konstituciniam teisinės valstybės principui.
+
+Straipsnio dalies pakeitimai:
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 25 straipsnio 4 dalis (2010 m. balandžio 15 d. redakcija, Žin., 2010, Nr. 48-2308; 2013 m. birželio 13 d. redakcija, Žin., 2013, Nr. 68-3401) tiek, kiek joje nustačius, kad draudimas dalyvauti viešajame eisme motorinėms transporto priemonėms, kurios pritaikytos eismui kairiąja kelio puse ir (ar) turi vairą dešinėje pusėje, netaikomas laikinai (iki 90 dienų per metus) į Lietuvos Respubliką su užsienio valstybėje įregistruotomis transporto priemonėmis atvykusiems Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, nustatyta, kad toks draudimas taikomas Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje, prieštarauja (prieštaravo) Lietuvos Respublikos Konstitucijos 29 straipsniui, konstituciniam teisinės valstybės principui.
+
+Nr. KT6-N2/2015, 2015-02-06, paskelbta TAR 2015-02-06, i. k. 2015-01856
 
 5. Transporto priemonėje draudžiama įrengti greitį matuoti trukdančias priemones ir daiktus.
 
