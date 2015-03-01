@@ -4,7 +4,7 @@ identifier: "TAR.BE3136A78E80"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-09-15"
-last_updated: "2015-01-01"
+last_updated: "2015-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BE3136A78E80"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.09)
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-02-28
+Suvestinė redakcija nuo 2015-03-01 iki 2015-11-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
 
@@ -713,7 +713,11 @@ Nr. I-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 
 nustatymas, veiksnumo ir jų parašų tikrumo patikrinimas
 
-Notaras, atlikdamas notarinius veiksmus, nustato fizinių asmenų, jų atstovų arba juridinių asmenų atstovų asmens tapatybę. Lietuvos Respublikos piliečių asmens tapatybė nustatoma pagal pateiktą asmens tapatybės kortelę arba kitą asmens tapatybę patvirtinantį dokumentą, kuriame yra asmens kodas ir nuotrauka. Užsieniečių, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, asmens tapatybė nustatoma pagal toje valstybėje išduotą piliečio pasą ar jį atitinkantį kelionės dokumentą, skirtą vykti į užsienio valstybę ir pripažintą Lietuvos Respublikoje. Užsieniečių, kurie yra deklaravę gyvenamąją vietą Lietuvos Respublikoje, asmens tapatybė nustatoma pagal pateiktą leidimą laikinai apsigyventi Lietuvos Respublikoje arba leidimą nuolat gyventi Lietuvos Respublikoje. Užsieniečių, kurie pateikė prašymą suteikti pabėgėlio Lietuvos Respublikoje statusą ir kuriems suteikta teisė naudotis laikinu teritoriniu prieglobsčiu Lietuvos Respublikoje, asmens tapatybė nustatoma pagal pateiktą užsieniečio registracijos pažymėjimą.
+Notaras, atlikdamas notarinius veiksmus, nustato fizinių asmenų, jų atstovų arba juridinių asmenų atstovų asmens tapatybę. Lietuvos Respublikos piliečių asmens tapatybė nustatoma pagal pateiktą asmens tapatybės kortelę, pasą arba kitą asmens tapatybę patvirtinantį dokumentą, kuriame yra asmens kodas ir nuotrauka. Europos Sąjungos ir Europos laisvosios prekybos asociacijos valstybių narių piliečių asmens tapatybė nustatoma pagal tos valstybės išduotą piliečio pasą ar jį atitinkantį kelionės dokumentą, skirtą vykti į užsienio valstybę ir pripažintą Lietuvos Respublikoje. Kitų užsieniečių, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, asmens tapatybė nustatoma pagal užsienio valstybės išduotą piliečio pasą ar jį atitinkantį kelionės dokumentą, skirtą vykti į užsienio valstybę ir pripažintą Lietuvos Respublikoje, o užsieniečių, kurie yra deklaravę gyvenamąją vietą Lietuvos Respublikoje, asmens tapatybė nustatoma pagal dokumentą, suteikiantį užsieniečiui teisę laikinai ar nuolat gyventi Lietuvos Respublikoje. Užsieniečių, kurie pateikė prašymą suteikti prieglobstį Lietuvos Respublikoje ir kuriems suteikta teisė naudotis laikinu teritoriniu prieglobsčiu Lietuvos Respublikoje, asmens tapatybė nustatoma pagal pateiktą užsieniečio registracijos pažymėjimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1400, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19928
 
 Tvirtinant sandorius, įsitikinama fizinių asmenų veiksnumu ir patikrinamas juridinių asmenų, dalyvaujančių sandoriuose, teisnumas. Tvirtindamas testamentą, notaras privalo jame nurodyti, kad jis įsitikino testatoriaus veiksnumu. Jeigu sandorį sudaro atstovas, patikrinami jo įgaliojimai.
 
