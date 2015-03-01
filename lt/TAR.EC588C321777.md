@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2015-01-01"
+last_updated: "2015-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-02-28
+Suvestinė redakcija nuo 2015-03-01 iki 2015-03-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -783,7 +783,11 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 8) yra kitų Lietuvos Respublikos tarptautinėse sutartyse numatytų pagrindų.
 
-4. Asmenys, kuriems pagal Lietuvos Respublikos įstatymus suteiktas prieglobstis, už nusikalstamas veikas, dėl kurių jie buvo persekiojami užsienyje, pagal Lietuvos Respublikos baudžiamuosius įstatymus nebaudžiami ir užsienio valstybėms neišduodami, išskyrus Lietuvos Respublikos baudžiamojo kodekso 7 straipsnyje numatytus atvejus.
+4. Asmenys, kuriems pagal Lietuvos Respublikos įstatymus suteiktas prieglobstis arba laikinoji apsauga, už nusikalstamas veikas, dėl kurių jie buvo persekiojami užsienyje, pagal Lietuvos Respublikos baudžiamuosius įstatymus nebaudžiami ir užsienio valstybėms neišduodami, išskyrus Lietuvos Respublikos baudžiamojo kodekso 7 straipsnyje numatytus atvejus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1399, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19927
 
 5. Jeigu užsienio valstybė po to, kai Lietuvos Respublika jai išdavė asmenį, pateikia prašymą dėl šio asmens baudžiamojo persekiojimo ar paskirtos bausmės vykdymo už nusikalstamą veiką, dėl kurios jis nebuvo prašytas išduoti, arba prašymą dėl šio asmens išdavimo trečiajai valstybei, šį prašymą nagrinėja ir sutikimą duoda Lietuvos Respublikos generalinė prokuratūra. Lietuvos Respublikos generalinė prokuratūra gali motyvuotai nesutikti dėl asmens baudžiamojo persekiojimo ar bausmės vykdymo už nusikalstamą veiką, dėl kurios asmuo nebuvo prašytas išduoti, arba dėl šio asmens išdavimo trečiajai valstybei, jeigu yra Lietuvos Respublikos baudžiamojo kodekso 9 straipsnyje nustatyti neišdavimo pagrindai ir (ar) sąlygos.
 
