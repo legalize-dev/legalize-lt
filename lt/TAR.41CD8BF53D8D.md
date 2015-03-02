@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2015-01-01"
+last_updated: "2015-03-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-03-01
+Suvestinė redakcija nuo 2015-03-02 iki 2015-04-13
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
 
@@ -100,15 +100,27 @@ Valstybės rinkliava neimama už:
 
 7) asmens be pilietybės kelionės dokumento, pabėgėlio kelionės dokumento ir užsieniečio paso išdavimą, nacionalinių vizų išdavimą, dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą ir keitimą asmenims iki 16 metų;
 
-8) dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą užsieniečiams, pateikusiems prašymus suteikti prieglobstį Lietuvos Respublikoje, ir leidimo gyventi Lietuvos Respublikoje išdavimą ir keitimą užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje;
+8) dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą ir keitimą užsieniečiui, kuriam suteiktas prieglobstis arba laikinoji apsauga Lietuvos Respublikoje, ir jo šeimos nariams, atvykstantiems gyventi kartu su juo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
 
 9) dokumentų išduoti, pakeisti leidimą laikinai gyventi Lietuvos Respublikoje tvarkymą ir leidimo laikinai gyventi Lietuvos Respublikoje išdavimą ir keitimą asmeniui iki 18 metų, kurio globėju (rūpintoju) yra paskirtas Lietuvos Respublikos pilietis;
 
 10) nacionalinių vizų išdavimą užsieniečiams, turintiems diplomatinius ir tarnybinius pasus ar jiems prilygintus kelionės dokumentus, vizų išdavimą Europos Sąjungos valstybės narės ir Europos laisvosios prekybos asociacijos valstybės narės piliečio šeimos nariams, kurie yra trečiųjų šalių piliečiai, taip pat ir Lietuvos Respublikos piliečio šeimos nariams, kurie yra trečiųjų šalių piliečiai;
 
-11) vizų išdavimą, dokumentų išduoti, pakeisti leidimą laikinai gyventi Lietuvos Respublikoje tvarkymą ir leidimų laikinai gyventi Lietuvos Respublikoje išdavimą ir keitimą užsienio valstybių piliečiams, vykstantiems į Lietuvos Respubliką dalyvauti Respublikos Prezidento, Seimo, Vyriausybės, ministerijų, kitų valstybės ar savivaldybių institucijų, įstaigų ar tarnybų organizuojamuose oficialiuose susitikimuose, labdaros bei organizuotos pagalbos Lietuvai tikslais arba su Raudonojo Kryžiaus misija, taip pat tarptautinių organizacijų, kurių narė yra Lietuvos Respublika, atstovams;
+11) vizų išdavimą užsieniečiams, vykstantiems į Lietuvos Respubliką dalyvauti Respublikos Prezidento, Seimo, Vyriausybės, ministerijų, kitų valstybės ar savivaldybių institucijų, įstaigų ar tarnybų organizuojamuose oficialiuose susitikimuose, labdaros bei organizuotos pagalbos Lietuvai tikslais arba su Raudonojo Kryžiaus misija, taip pat tarptautinių organizacijų, kurių narė yra Lietuvos Respublika, atstovams;
 
-12) vizų išdavimą, dokumentų išduoti, pakeisti leidimą laikinai gyventi Lietuvos Respublikoje tvarkymą ir leidimų laikinai gyventi Lietuvos Respublikoje išdavimą ir keitimą lietuvių kilmės asmenims, pateikusiems lietuvių kilmę ar teisę į Lietuvos Respublikos pilietybės išsaugojimą patvirtinančius dokumentus, ir šių asmenų šeimos nariams;
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
+
+12) vizų išdavimą, dokumentų išduoti, pakeisti leidimą laikinai gyventi Lietuvos Respublikoje tvarkymą ir leidimo laikinai gyventi Lietuvos Respublikoje išdavimą ir keitimą asmenims, pateikusiems lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančius dokumentus arba išduotus teisės į Lietuvos Respublikos pilietybės išsaugojimą patvirtinančius dokumentus, ir šių asmenų šeimos nariams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
 
 13) nacionalinių vizų išdavimą sunkiai sergantiems užsieniečiams arba užsieniečiams, kuriems reikalinga skubi medicinos pagalba, kai pateikiami dokumentai, išduoti atitinkamos organizacijos ir patvirtinantys būtinumą nurodytiems asmenims būti Lietuvos Respublikos teritorijoje, taip pat šiuos asmenis lydintiesiems, kai pateikiamas dokumentas, patvirtinantis tokio lydėjimo būtinumą;
 
@@ -118,11 +130,19 @@ Valstybės rinkliava neimama už:
 
 16) leidimo įvežti (išvežti) ginklus, leidimo vežti ginklus, išankstinio sutikimo įvežti ginklus išdavimą Lietuvos Respublikos ar užsienio teisėsaugos institucijoms ir jų pareigūnams, Lietuvos Respublikos krašto apsaugos sistemos ir užsienio gynybos institucijoms, taip pat jų pareigūnams, vežantiems jiems priklausančius vienetinius tarnybinius ginklus ir jų šaudmenis, arba asmenims, turintiems diplomatinius ar tarnybinius pasus (jeigu šiems asmenims, norintiems gauti leidimą, tarpininkauja Lietuvos Respublikos užsienio reikalų ministerija), arba fiziniams ir juridiniams asmenims, kurie išvyksta į sporto varžybas užsienyje, atvyksta į sporto varžybas Lietuvos Respublikoje ar vyksta į sporto varžybas per Lietuvos Respubliką tranzitu;
 
-17) dokumentų išduoti, pakeisti leidimą laikinai gyventi Lietuvos Respublikoje tvarkymą ir leidimo laikinai gyventi Lietuvos Respublikoje išdavimą ir keitimą užsieniečiui, kuriam suteikta papildoma arba laikinoji apsauga Lietuvos Respublikoje, ir jo šeimos nariams, atvykstantiems gyventi kartu su juo, arba užsieniečiui, kuris negali būti išsiųstas, taip pat kurio išsiuntimas iš Lietuvos Respublikos yra atidėtas Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka arba kuris negali išvykti dėl pavojingos organizmo būklės ir kuriam reikia neatidėliotinos medicinos pagalbos;
+17) dokumentų išduoti, pakeisti leidimą laikinai gyventi Lietuvos Respublikoje tvarkymą ir leidimo laikinai gyventi Lietuvos Respublikoje išdavimą ir keitimą užsieniečiui, kuris pagal Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nuostatas negali būti grąžintas į užsienio valstybę, išsiųstas iš Lietuvos Respublikos ar kurio išsiuntimas iš Lietuvos Respublikos sustabdytas, taip pat kuris negali išvykti dėl pavojingos organizmo būklės ir kuriam reikia neatidėliotinos būtinosios medicinos pagalbos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
 
 18) dokumentų išduoti, pakeisti leidimą laikinai gyventi Lietuvos Respublikoje tvarkymą ir leidimo laikinai gyventi Lietuvos Respublikoje išdavimą ir keitimą užsieniečiams, kurie ketina studijuoti, mokytis, stažuoti, dalyvauti kvalifikacijos tobulinimo kursuose ar profesiniuose mokymuose, jeigu jie priimti studijuoti į aukštojo mokslo įstaigos dienines nuosekliąsias studijas, mokytis į švietimo įstaigą pagal vidurinio ugdymo programą, pakviesti stažuoti, tobulinti kvalifikaciją ar į profesinius mokymus pagal Lietuvos Respublikos tarptautines sutartis, ministerijų ar Vyriausybės įstaigų, kitų valstybės institucijų ar įstaigų vardu ir pagal jų kompetenciją sudarytus susitarimus su atitinkamomis užsienio valstybių institucijomis;
 
-19) dokumentų išduoti, pakeisti leidimą laikinai gyventi Lietuvos Respublikoje tvarkymą ir leidimo laikinai gyventi Lietuvos Respublikoje išdavimą ir keitimą užsieniečiams, kuriems leista pasilikti gyventi Lietuvos Respublikoje, kadangi jie yra ar buvo prekybos žmonėmis aukos ir bendradarbiauja su ikiteisminio tyrimo įstaiga arba teismu kovojant su prekyba žmonėmis ar nusikaltimais, susijusiais su prekyba žmonėmis;
+19) dokumentų išduoti, pakeisti leidimą laikinai gyventi Lietuvos Respublikoje tvarkymą ir leidimo laikinai gyventi Lietuvos Respublikoje išdavimą ir keitimą užsieniečiams, kuriems leista pasilikti gyventi Lietuvos Respublikoje, kadangi jie yra ar buvo prekybos žmonėmis arba nelegalaus darbo aukos ir bendradarbiauja su ikiteisminio tyrimo įstaiga arba teismu kovojant su prekyba žmonėmis ar nusikaltimais, susijusiais su prekyba žmonėmis, arba nelegaliu darbu, kai dirbta ypatingai išnaudojamo darbo sąlygomis arba kai dirbo nepilnametis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
 
 20) civilinės aviacijos specialisto licencijos išdavimą darbuotojams, papildomos kvalifikacijos suteikimą, civilinės aviacijos teorijos egzamino perlaikymą, skrydžio (praktinių gebėjimų) egzamino perlaikymą, civilinės aviacijos specialisto licencijos (kvalifikacijos) galiojimo laiko pratęsimą, civilinės aviacijos specialisto licencijos (kvalifikacijos) atnaujinimą, pirmos, antros ir trečios klasės sveikatos pažymėjimo išdavimą darbuotojams, kurie atlieka valstybinę civilinės aviacijos priežiūrą, ir civilinės aviacijos specialisto licencijos išdavimą studentams, kurie, atlikdami praktiką, privalo turėti galiojančią atitinkamą civilinės aviacijos specialisto licenciją;
 
@@ -130,7 +150,11 @@ Valstybės rinkliava neimama už:
 
 22) išduotų licencijų, kai keičiasi rekvizitai, tiesiogiai nepriklausantys nuo ūkio subjekto, patikslinimą;
 
-23) užsienyje įgytos kvalifikacijos vertinimą užsieniečiams, pateikusiems lietuvių kilmę ar teisės į Lietuvos Respublikos pilietybę išsaugojimą patvirtinančius dokumentus, taip pat užsieniečiams, pateikusiems prieglobsčio Lietuvos Respublikoje suteikimą patvirtinančius dokumentus;
+23) išsilavinimo ir kvalifikacijų, įgytų pagal užsienio valstybių ir tarptautinių organizacijų švietimo programas, vertinimą ir (arba) pripažinimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
 
 24) institucijų teikiamas paslaugas, kurių suteikimo išlaidos mažesnės už šio įstatymo 5 straipsnio 1 dalyje nustatytą minimalų valstybės rinkliavos dydį;
 
@@ -176,7 +200,13 @@ Nr. XI-1061, 2010-10-12, Žin., 2010, Nr. 125-6384 (2010-10-23)
 
 61 straipsnis. Atleidimas nuo valstybės rinkliavos, kai yra sumokėtas konsulinis mokestis
 
-1. Nuo valstybės rinkliavos už paso išdavimą ar keitimą ir dokumento dėl teisės į Lietuvos Respublikos pilietybę išsaugojimo išdavimą ar keitimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio 4 ir 5 punktuose, atlikimą.
+1. Nuo valstybės rinkliavos už paso ar asmens tapatybės kortelės išdavimą ar keitimą ir lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančių dokumentų išdavimą ar keitimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio 4 ir 5 punktuose, atlikimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
+
+Nr. XII-1520, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21282
 
 2. Nuo valstybės rinkliavos už dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą yra atleidžiami asmenys, kurie dėl dokumentų dėl leidimo gyventi Lietuvos Respublikoje išdavimo priėmimo ir perdavimo kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio 6 punkte, atlikimą.
 
@@ -376,7 +406,11 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas) (OL 2009 L 243, p. 1).
+1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas) (OL 2009 L 243, p. 1), su paskutiniais pakeitimais, padarytais 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 610/2013 (OL 2013 L 182, p. 1).
+
+Punkto pakeitimai:
+
+Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
 
 Įstatymas papildytas priedu:
 
@@ -541,4 +575,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1128, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13616
 
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 5 ir 13 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
+
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6, 6-1 straipsnių ir priedo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1520, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21282
+
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6, 6-1 straipsnių ir priedo pakeitimo įstatymo Nr. XII-1397 2 ir 4 straipsnių pakeitimo įstatymas
 
