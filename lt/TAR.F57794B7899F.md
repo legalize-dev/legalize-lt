@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2014-03-20"
+last_updated: "2015-03-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2014-03-20 iki 2015-03-01
+Suvestinė redakcija nuo 2015-03-02 iki 2015-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -60,101 +60,291 @@ BENDROSIOS NUOSTATOS
 
 8. Elektros energija – aktyvioji elektros energija, kuria teisės aktų nustatyta tvarka prekiaujama tarp elektros energijos rinkos dalyvių ir kuri yra skirta galutiniam suvartojimui, patiekiant ją kaip prekę vartotojui.
 
-9. Elektros energijos birža (toliau – elektros birža) – didmeninės prekybos elektros energija sistema, organizuojama elektros biržos operatoriaus Prekybos elektros energija taisyklėse nustatyta tvarka ir sąlygomis.
+9. Elektros energiją gaminantis vartotojas (toliau – gaminantis vartotojas) – buitinis vartotojas savo, kaip vartotojo, objekte, taip pat biudžetinė įstaiga ar viešoji įstaiga, valdanti valstybės ar savivaldybės nuosavybės ar patikėjimo teise statinius, šiuose statiniuose iš atsinaujinančių energijos išteklių gaminantys elektros energiją savo reikmėms ir ūkio poreikiams tenkinti ir turintys teisę pagamintą ir savo reikmėms bei ūkio poreikiams nesuvartotą elektros energiją patiekti į elektros tinklus Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo nustatyta tvarka.
 
-10. Elektros energijos biržos dalyvis (toliau – elektros biržos dalyvis) – elektros biržos operatoriaus duomenų bazėje įregistruotas elektros energijos rinkos dalyvis, kuris verčiasi didmenine prekyba elektros energija, teikdamas pasiūlymus pirkti ir (ar) parduoti elektros energiją elektros biržoje.
+Papildyta straipsnio dalimi:
 
-11. Elektros energijos biržos operatorius (toliau – elektros biržos operatorius) – asmuo, administruojantis elektros biržą ir organizuojantis elektros biržoje vykdomą didmeninę prekybą elektros energija, veikiantis šiame įstatyme nustatyta tvarka ir sąlygomis.
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-12. Elektros energijos gamintojas (toliau – gamintojas) – asmuo, gaminantis elektros energiją ir turintis atitinkamą leidimą verstis šia veikla.
+10. Elektros energijos birža (toliau – elektros birža) – didmeninės prekybos elektros energija sistema, organizuojama elektros biržos operatoriaus Prekybos elektros energija taisyklėse nustatyta tvarka ir sąlygomis.
 
-13. Elektros energijos garantinis tiekimas (toliau – garantinis tiekimas) – elektros energijos tiekimas, siekiant užtikrinti vartotojų, kurie nustatyta tvarka nepasirinko nepriklausomo tiekėjo arba kurių pasirinktas nepriklausomas tiekėjas nevykdo savo įsipareigojimų, aprūpinimą elektros energija.
+Straipsnio dalies numeracijos pakeitimas:
 
-14. Elektros energijos rinka – asmenų, kurie verčiasi elektros energijos gamybos, perdavimo, skirstymo ir tiekimo veikla, santykių visuma, kuri apima didmeninę ir mažmeninę prekybą elektros energija ir sisteminių paslaugų teikimą ir yra paremta teisėtumo ir lygiateisiškumo principais, taikant reguliuojamojo trečiųjų asmenų dalyvavimo principą elektros energijai persiųsti.
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-15. Elektros energijos rinkos dalyvis (toliau – rinkos dalyvis) – asmuo, kuris verčiasi didmenine prekyba elektros energija Prekybos elektros energija taisyklėse nustatytais būdais. Rinkos dalyviais laikomi perdavimo sistemos operatorius, skirstomųjų tinklų operatoriai, elektros energijos gamintojai, tiekėjai, teisės aktų nustatyta tvarka sudarę balansavimo energijos pirkimo–pardavimo sutartis su balansavimo energijos tiekėjais, balansavimo energijos tiekėjai, taip pat asmenys, turintys leidimą eksportuoti elektros energiją į valstybes, kurios nėra valstybės narės, ar importuoti elektros energiją iš valstybių, kurios nėra valstybės narės.
+11. Elektros energijos biržos dalyvis (toliau – elektros biržos dalyvis) – elektros biržos operatoriaus duomenų bazėje įregistruotas elektros energijos rinkos dalyvis, kuris verčiasi didmenine prekyba elektros energija, teikdamas pasiūlymus pirkti ir (ar) parduoti elektros energiją elektros biržoje.
 
-16. Elektros energijos sąnaudos – visos elektros energijos sąnaudos, kurios patiriamos teikiant elektros energijos persiuntimo paslaugą perdavimo ir skirstomaisiais tinklais ir kurios apskaičiuojamos kaip skirtumas tarp visos perdavimo sistemos operatoriaus ar skirstomųjų tinklų operatoriaus gautos elektros energijos ir vartotojų suvartotos ar kitiems operatoriams persiųstos elektros energijos kiekio.
+Straipsnio dalies numeracijos pakeitimas:
 
-17. Elektros tinklai – elektros energijos perdavimo ir (ar) skirstomieji tinklai, tai yra visuma tarpusavyje suderintu režimu veikiančių elektros įrenginių, skirtų elektros energijai perduoti ir (ar) skirstyti.
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-18. Horizontalios integracijos įmonė – įmonė ar įmonių grupė, kuri verčiasi bent viena iš šių veiklos rūšių: elektros energijos gamybos, perdavimo, skirstymo arba tiekimo veikla ir verčiasi kita su elektros energetika nesusijusia veikla.
+12. Elektros energijos biržos operatorius (toliau – elektros biržos operatorius) – asmuo, administruojantis elektros biržą ir organizuojantis elektros biržoje vykdomą didmeninę prekybą elektros energija, veikiantis šiame įstatyme nustatyta tvarka ir sąlygomis.
 
-19. Ilgalaikis planavimas – elektros energijos gamybos, perdavimo ir skirstymo pajėgumų plėtros, tiekimo vartotojams patikimumo užtikrinimo ir su tuo susijusių ilgalaikių investicijų planavimas ne trumpesniam kaip trejų metų laikotarpiui, siekiant patenkinti elektros energijos poreikį sistemoje.
+Straipsnio dalies numeracijos pakeitimas:
 
-20. Integruota įmonė – vertikalios ar horizontalios integracijos įmonė.
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-21. Įmonės kontrolė – teisės, susitarimai ar kitos priemonės, kurios kiekviena atskirai ar visos kartu, atsižvelgiant į atitinkamas faktines ir (ar) teisines aplinkybes, suteikia galimybę daryti lemiamą poveikį įmonei, visų pirma naudojantis:
+13. Elektros energijos gamintojas (toliau – gamintojas) – asmuo, gaminantis elektros energiją ir turintis atitinkamą leidimą verstis šia veikla.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+14. Elektros energijos garantinis tiekimas (toliau – garantinis tiekimas) – elektros energijos tiekimas, siekiant užtikrinti vartotojų, kurie nustatyta tvarka nepasirinko nepriklausomo tiekėjo arba kurių pasirinktas nepriklausomas tiekėjas nevykdo savo įsipareigojimų, aprūpinimą elektros energija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+15. Elektros energijos rinka – asmenų, kurie verčiasi elektros energijos gamybos, perdavimo, skirstymo ir tiekimo veikla, santykių visuma, kuri apima didmeninę ir mažmeninę prekybą elektros energija ir sisteminių paslaugų teikimą ir yra paremta teisėtumo ir lygiateisiškumo principais, taikant reguliuojamojo trečiųjų asmenų dalyvavimo principą elektros energijai persiųsti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+16. Elektros energijos rinkos dalyvis (toliau – rinkos dalyvis) – asmuo, kuris verčiasi didmenine prekyba elektros energija Prekybos elektros energija taisyklėse nustatytais būdais. Rinkos dalyviais laikomi perdavimo sistemos operatorius, skirstomųjų tinklų operatoriai, elektros energijos gamintojai, tiekėjai, teisės aktų nustatyta tvarka sudarę balansavimo energijos pirkimo–pardavimo sutartis su balansavimo energijos tiekėjais, balansavimo energijos tiekėjai, taip pat asmenys, turintys leidimą eksportuoti elektros energiją į valstybes, kurios nėra valstybės narės, ar importuoti elektros energiją iš valstybių, kurios nėra valstybės narės.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+17. Elektros energijos sąnaudos – visos elektros energijos sąnaudos, kurios patiriamos teikiant elektros energijos persiuntimo paslaugą perdavimo ir skirstomaisiais tinklais ir kurios apskaičiuojamos kaip skirtumas tarp visos perdavimo sistemos operatoriaus ar skirstomųjų tinklų operatoriaus gautos elektros energijos ir vartotojų suvartotos ar kitiems operatoriams persiųstos elektros energijos kiekio.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+18. Elektros tinklai – elektros energijos perdavimo ir (ar) skirstomieji tinklai, tai yra visuma tarpusavyje suderintu režimu veikiančių elektros įrenginių, skirtų elektros energijai perduoti ir (ar) skirstyti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+19. Horizontalios integracijos įmonė – įmonė ar įmonių grupė, kuri verčiasi bent viena iš šių veiklos rūšių: elektros energijos gamybos, perdavimo, skirstymo arba tiekimo veikla ir verčiasi kita su elektros energetika nesusijusia veikla.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+20. Ilgalaikis planavimas – elektros energijos gamybos, perdavimo ir skirstymo pajėgumų plėtros, tiekimo vartotojams patikimumo užtikrinimo ir su tuo susijusių ilgalaikių investicijų planavimas ne trumpesniam kaip trejų metų laikotarpiui, siekiant patenkinti elektros energijos poreikį sistemoje.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+21. Integruota įmonė – vertikalios ar horizontalios integracijos įmonė.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+22. Įmonės kontrolė – teisės, susitarimai ar kitos priemonės, kurios kiekviena atskirai ar visos kartu, atsižvelgiant į atitinkamas faktines ir (ar) teisines aplinkybes, suteikia galimybę daryti lemiamą poveikį įmonei, visų pirma naudojantis:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 1) nuosavybės teise arba teise naudotis visu asmens turtu ar jo dalimi;
 
 2) įstatymų ir (ar) susitarimų pagrindu įgytomis teisėmis, turinčiomis lemiamą įtaką formuojant asmens organus, balsuojant arba priimant sprendimus.
 
-22. Jungiamoji linija – elektros energetikos sistemas jungiantys elektros įrenginiai.
+23. Jungiamoji linija – elektros energetikos sistemas jungiantys elektros įrenginiai.
 
-23. Jungtinė sistema – kelios elektros energijos perdavimo ir skirstymo sistemos, sujungtos viena ar daugiau jungiamųjų linijų.
+Straipsnio dalies numeracijos pakeitimas:
 
-24. Leistinoji naudoti galia – didžiausia galia, kuri nurodyta perdavimo sistemos operatoriaus ar skirstomųjų tinklų operatoriaus ir vartotojo sudarytoje elektros įrenginių prijungimo sutartyje ir kurią vartotojas gali vartoti iš elektros tinklų bet kuriuo metu.
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-25. Lokalieji elektros tinklai – gamintojo ar vartotojo teritorijoje ir (ar) pastate esantys bei gamintojo ar vartotojo teisėtai valdomi žemos ir (ar) vidutinės įtampos elektros tinklai, transformatorių pastotės ir (ar) kiti elektros įrenginiai, naudojami persiunčiant elektros energiją prie jų prijungtiems vartotojų ir (ar) kitų asmenų objektams.
+24. Jungtinė sistema – kelios elektros energijos perdavimo ir skirstymo sistemos, sujungtos viena ar daugiau jungiamųjų linijų.
 
-26. Nacionalinė balansavimo funkcija – balanso tarp elektros energijos gamybos ir vartojimo užtikrinimas pagal sistemos darbo saugumo ir patikimumo bei elektros energijos kokybės kriterijus elektros energetikos sistemos mastu.
+Straipsnio dalies numeracijos pakeitimas:
 
-27. Nefinansinės korporacijos – privatūs ir valstybiniai subjektai, kurių pagrindinė veikla yra ne finansinio tarpininkavimo veikla, o prekių gamyba ir nefinansinių paslaugų teikimas siekiant uždirbti pelno.
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-28. Nepriklausomas tiekėjas – asmuo, tiekiantis elektros energiją vartotojams ir turintis teisę verstis nepriklausomo elektros energijos tiekimo veikla.
+25. Leistinoji naudoti galia – didžiausia galia, kuri nurodyta perdavimo sistemos operatoriaus ar skirstomųjų tinklų operatoriaus ir vartotojo sudarytoje elektros įrenginių prijungimo sutartyje ir kurią vartotojas gali vartoti iš elektros tinklų bet kuriuo metu.
 
-29. Pagalbinis apsaugos nuo elektros energijos kainų svyravimo instrumentas (toliau – pagalbinis instrumentas) – priemonė, skirta užtikrinti rinkos dalyvių apsaugą nuo galimų elektros energijos kainų svyravimų elektros biržoje.
+Straipsnio dalies numeracijos pakeitimas:
 
-30. Paskirstytoji gamyba – elektros energijos gamyba prie skirstomųjų tinklų prijungtuose elektros energijos gamybos įrenginiuose.
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-31. Perdavimas – elektros energijos persiuntimas perdavimo tinklais, įskaitant teikiamas sistemines paslaugas, išskyrus tiekimą.
+26. Lokalieji elektros tinklai – gamintojo ar vartotojo teritorijoje ir (ar) pastate esantys bei gamintojo ar vartotojo teisėtai valdomi žemos ir (ar) vidutinės įtampos elektros tinklai, transformatorių pastotės ir (ar) kiti elektros įrenginiai, naudojami persiunčiant elektros energiją prie jų prijungtiems vartotojų ir (ar) kitų asmenų objektams.
 
-32. Perdavimo sistemos operatorius – asmuo, nuosavybės teise, kaip nurodyta šio įstatymo 53 straipsnio 2 dalyje, ar kitais teisėtais pagrindais valdantis perdavimo tinklus, teisės aktų nustatyta tvarka užtikrinantis perdavimo tinklų eksploatavimą, plėtrą ir techninę priežiūrą, atliekantis nacionalinę balansavimo, dispečerinio valdymo ir sisteminių paslaugų teikimo funkcijas ir turintis atitinkamą veiklos licenciją.
+Straipsnio dalies numeracijos pakeitimas:
 
-33. Persiuntimo paslauga – elektros energijos perdavimas ir (ar) skirstymas iki sutartyje nustatytos elektros tinklų nuosavybės ribos.
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-34. Reguliavimo energija – perdavimo sistemos operatoriaus dispečerinio centro nurodymu nupirkta ir (ar) parduota elektros energija, reikalinga nacionalinei balansavimo funkcijai atlikti.
+27. Nacionalinė balansavimo funkcija – balanso tarp elektros energijos gamybos ir vartojimo užtikrinimas pagal sistemos darbo saugumo ir patikimumo bei elektros energijos kokybės kriterijus elektros energetikos sistemos mastu.
 
-35. Reguliavimo periodas – laikotarpis, kuriam nustatomos viršutinės elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų ribos.
+Straipsnio dalies numeracijos pakeitimas:
 
-36. Reguliuojamasis trečiųjų asmenų dalyvavimas – procesas, kai gamintojai, tiekėjai ir vartotojai naudojasi perdavimo ar skirstomaisiais tinklais elektros energijai persiųsti teisės aktų nustatyta tvarka paskelbtomis sąlygomis.
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-37. Rezervinė galia – elektros energijos gamybos potencialas, kuris naudojamas nustatytam dažniui palaikyti, elektros energetikos sistemos balansui užtikrinti ir elektros energijai gaminti numatytais gamybos sumažėjimo ar vartojimo padidėjimo atvejais.
+28. Nefinansinės korporacijos – privatūs ir valstybiniai subjektai, kurių pagrindinė veikla yra ne finansinio tarpininkavimo veikla, o prekių gamyba ir nefinansinių paslaugų teikimas siekiant uždirbti pelno.
 
-38. Sisteminės paslaugos – perdavimo veiklos dalis, kuri užtikrina elektros energetikos sistemos darbo stabilumą ir patikimumą, sisteminių avarijų prevenciją ir likvidavimą, reikiamą galios rezervą ir pralaidumą perdavimo tinklais, laikantis nustatytų elektros energijos tiekimo kokybės ir patikimumo reikalavimų.
+Straipsnio dalies numeracijos pakeitimas:
 
-39. Skirstymas – elektros energijos persiuntimas skirstomaisiais tinklais, išskyrus tiekimą.
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-40. Skirstomųjų tinklų operatorius – asmuo, nuosavybės teise ar kitais teisėtais pagrindais valdantis skirstomuosius tinklus, esančius jo veiklos licencijoje nurodytoje teritorijoje, teisės aktų nustatyta tvarka užtikrinantis skirstomųjų tinklų eksploatavimą, plėtrą ir techninę priežiūrą, atsakingas už tai, kad būtų užtikrintas ilgalaikis sistemos pajėgumas pagrįstiems elektros energijos skirstymo poreikiams tenkinti, ir turintis atitinkamą veiklos licenciją.
+29. Nepriklausomas tiekėjas – asmuo, tiekiantis elektros energiją vartotojams ir turintis teisę verstis nepriklausomo elektros energijos tiekimo veikla.
 
-41. Tiekėjas – visuomeninis ar nepriklausomas tiekėjas, turintis atitinkamą veiklos licenciją ar leidimą verstis šia veikla.
+Straipsnio dalies numeracijos pakeitimas:
 
-42. Tiekimas – elektros energijos pardavimas ir (ar) perpardavimas vartotojui.
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-43. Tiesioginė linija – elektros linija, jungianti elektros energijos gamybos ir vartojimo vietas, neprijungtas prie perdavimo ar skirstomųjų tinklų, arba elektros energijos linija, jungianti elektros energijos gamintojo ir jo padalinių bei dukterinių įmonių ar vartotojų, kurių elektros įrenginiai yra prijungti prie gamintojo lokaliųjų elektros tinklų, objektus.
+30. Pagalbinis apsaugos nuo elektros energijos kainų svyravimo instrumentas (toliau – pagalbinis instrumentas) – priemonė, skirta užtikrinti rinkos dalyvių apsaugą nuo galimų elektros energijos kainų svyravimų elektros biržoje.
 
-44. Tinklų naudotojas – asmuo, kurio įrenginiai yra prijungti prie perdavimo ar skirstomųjų tinklų ir kuris naudojasi ar gali naudotis elektros energijos persiuntimo paslauga.
+Straipsnio dalies numeracijos pakeitimas:
 
-45. Tinklų operatorius – perdavimo sistemos operatorius ir (ar) skirstomųjų tinklų operatorius.
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-46. Tinklų priežiūros darbai – elektros tinklų įrenginių darbo stabilumą, saugumą, patikimumą ir kokybę užtikrinantys veiksmai.
+31. Paskirstytoji gamyba – elektros energijos gamyba prie skirstomųjų tinklų prijungtuose elektros energijos gamybos įrenginiuose.
 
-47. Tretieji asmenys – elektros energijos gamintojai, tiekėjai ir vartotojai, kurie šiame įstatyme nustatyta tvarka įgyja teisę pasinaudoti elektros energijos perdavimo ir (ar) skirstomaisiais tinklais elektros energijai persiųsti teisės aktų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
 
-48. Vartotojas – asmuo, kurio įrenginiai yra prijungti prie perdavimo arba skirstomųjų tinklų ar tiesioginės linijos ir kuris perka elektros energiją vartojimo tikslams.
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-49. Vartotojo objektas – vartotojo nuosavybės teise ar kitais teisėtais pagrindais valdomas objektas (įrenginys, statinys ar kita), kuriame vartojama elektros energija.
+32. Perdavimas – elektros energijos persiuntimas perdavimo tinklais, įskaitant teikiamas sistemines paslaugas, išskyrus tiekimą.
 
-50. Vertikaliai integruota įmonė – įmonė ar įmonių grupė, kurios verčiasi bent viena elektros energijos perdavimo ar skirstymo veikla ir elektros energijos tiekimo ar gamybos veikla, ir kai tas pats asmuo ar asmenys turi teisę tiesiogiai ar netiesiogiai kontroliuoti elektros energijos perdavimo ar skirstymo veikla ir bent viena tiekimo ar gamybos veikla besiverčiančias įmones arba būti jų kontroliuojamas.
+Straipsnio dalies numeracijos pakeitimas:
 
-51. Viešieji interesai elektros energetikos sektoriuje – veikla ar neveikimas elektros energetikos sektoriuje, tiesiogiai ar netiesiogiai susiję su valstybės energetiniu ir (ar) visuomenės saugumu, elektros energetikos sistemos darbo saugumu ir patikimumu, elektros energetikos sektoriaus neigiamo poveikio aplinkai mažinimu, energijos išteklių diversifikavimu ir kitais šiame įstatyme numatytais darnios elektros energetikos sektoriaus plėtros tikslais.
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
-52. Viešuosius interesus atitinkančios paslaugos – įmonių teikiamos paslaugos, kurių sąrašą, teikėjus ir teikimo tvarką tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, vadovaudamosi šio įstatymo 74 straipsnyje nustatytais bendraisiais reikalavimais ir viešaisiais interesais elektros energetikos sektoriuje.
+33. Perdavimo sistemos operatorius – asmuo, nuosavybės teise, kaip nurodyta šio įstatymo 53 straipsnio 2 dalyje, ar kitais teisėtais pagrindais valdantis perdavimo tinklus, teisės aktų nustatyta tvarka užtikrinantis perdavimo tinklų eksploatavimą, plėtrą ir techninę priežiūrą, atliekantis nacionalinę balansavimo, dispečerinio valdymo ir sisteminių paslaugų teikimo funkcijas ir turintis atitinkamą veiklos licenciją.
 
-53. Visuomeninis tiekėjas – asmuo, įpareigotas tiekti elektros energiją jo veiklos licencijoje nurodytoje teritorijoje esantiems šio įstatymo 43 straipsnyje nurodytiems vartotojams.
+Straipsnio dalies numeracijos pakeitimas:
 
-54. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas) ir kituose teisės aktuose.
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+34. Persiuntimo paslauga – elektros energijos perdavimas ir (ar) skirstymas iki sutartyje nustatytos elektros tinklų nuosavybės ribos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+35. Reguliavimo energija – perdavimo sistemos operatoriaus dispečerinio centro nurodymu nupirkta ir (ar) parduota elektros energija, reikalinga nacionalinei balansavimo funkcijai atlikti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+36. Reguliavimo periodas – laikotarpis, kuriam nustatomos viršutinės elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų ribos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+37. Reguliuojamasis trečiųjų asmenų dalyvavimas – procesas, kai gamintojai, tiekėjai ir vartotojai naudojasi perdavimo ar skirstomaisiais tinklais elektros energijai persiųsti teisės aktų nustatyta tvarka paskelbtomis sąlygomis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+38. Rezervinė galia – elektros energijos gamybos potencialas, kuris naudojamas nustatytam dažniui palaikyti, elektros energetikos sistemos balansui užtikrinti ir elektros energijai gaminti numatytais gamybos sumažėjimo ar vartojimo padidėjimo atvejais.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+39. Sisteminės paslaugos – perdavimo veiklos dalis, kuri užtikrina elektros energetikos sistemos darbo stabilumą ir patikimumą, sisteminių avarijų prevenciją ir likvidavimą, reikiamą galios rezervą ir pralaidumą perdavimo tinklais, laikantis nustatytų elektros energijos tiekimo kokybės ir patikimumo reikalavimų.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+40. Skirstymas – elektros energijos persiuntimas skirstomaisiais tinklais, išskyrus tiekimą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+41. Skirstomųjų tinklų operatorius – asmuo, nuosavybės teise ar kitais teisėtais pagrindais valdantis skirstomuosius tinklus, esančius jo veiklos licencijoje nurodytoje teritorijoje, teisės aktų nustatyta tvarka užtikrinantis skirstomųjų tinklų eksploatavimą, plėtrą ir techninę priežiūrą, atsakingas už tai, kad būtų užtikrintas ilgalaikis sistemos pajėgumas pagrįstiems elektros energijos skirstymo poreikiams tenkinti, ir turintis atitinkamą veiklos licenciją.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+42. Tiekėjas – visuomeninis ar nepriklausomas tiekėjas, turintis atitinkamą veiklos licenciją ar leidimą verstis šia veikla.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+43. Tiekimas – elektros energijos pardavimas ir (ar) perpardavimas vartotojui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+44. Tiesioginė linija – elektros linija, jungianti elektros energijos gamybos ir vartojimo vietas, neprijungtas prie perdavimo ar skirstomųjų tinklų, arba elektros energijos linija, jungianti elektros energijos gamintojo ir jo padalinių bei dukterinių įmonių ar vartotojų, kurių elektros įrenginiai yra prijungti prie gamintojo lokaliųjų elektros tinklų, objektus.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+45. Tinklų naudotojas – asmuo, kurio įrenginiai yra prijungti prie perdavimo ar skirstomųjų tinklų ir kuris naudojasi ar gali naudotis elektros energijos persiuntimo paslauga.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+46. Tinklų operatorius – perdavimo sistemos operatorius ir (ar) skirstomųjų tinklų operatorius.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+47. Tinklų priežiūros darbai – elektros tinklų įrenginių darbo stabilumą, saugumą, patikimumą ir kokybę užtikrinantys veiksmai.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+48. Tretieji asmenys – elektros energijos gamintojai, tiekėjai ir vartotojai, kurie šiame įstatyme nustatyta tvarka įgyja teisę pasinaudoti elektros energijos perdavimo ir (ar) skirstomaisiais tinklais elektros energijai persiųsti teisės aktų nustatyta tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+49. Vartotojas – asmuo, kurio įrenginiai yra prijungti prie perdavimo arba skirstomųjų tinklų ar tiesioginės linijos ir kuris perka elektros energiją vartojimo tikslams.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+50. Vartotojo objektas – vartotojo nuosavybės teise ar kitais teisėtais pagrindais valdomas objektas (įrenginys, statinys ar kita), kuriame vartojama elektros energija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+51. Vertikaliai integruota įmonė – įmonė ar įmonių grupė, kurios verčiasi bent viena elektros energijos perdavimo ar skirstymo veikla ir elektros energijos tiekimo ar gamybos veikla, ir kai tas pats asmuo ar asmenys turi teisę tiesiogiai ar netiesiogiai kontroliuoti elektros energijos perdavimo ar skirstymo veikla ir bent viena tiekimo ar gamybos veikla besiverčiančias įmones arba būti jų kontroliuojamas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+52. Viešieji interesai elektros energetikos sektoriuje – veikla ar neveikimas elektros energetikos sektoriuje, tiesiogiai ar netiesiogiai susiję su valstybės energetiniu ir (ar) visuomenės saugumu, elektros energetikos sistemos darbo saugumu ir patikimumu, elektros energetikos sektoriaus neigiamo poveikio aplinkai mažinimu, energijos išteklių diversifikavimu ir kitais šiame įstatyme numatytais darnios elektros energetikos sektoriaus plėtros tikslais.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+53. Viešuosius interesus atitinkančios paslaugos – įmonių teikiamos paslaugos, kurių sąrašą, teikėjus ir teikimo tvarką tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, vadovaudamosi šio įstatymo 74 straipsnyje nustatytais bendraisiais reikalavimais ir viešaisiais interesais elektros energetikos sektoriuje.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+54. Visuomeninis tiekėjas – asmuo, įpareigotas tiekti elektros energiją jo veiklos licencijoje nurodytoje teritorijoje esantiems šio įstatymo 43 straipsnyje nurodytiems vartotojams.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+55. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas) ir kituose teisės aktuose.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 3 straipsnis. Pagrindiniai šio įstatymo tikslai
 
@@ -350,17 +540,29 @@ Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
-19) vykdo Energetikos įstatyme numatytų priemonių, taikomų paskelbus valstybės lygio ekstremaliąją energetikos padėtį, įgyvendinimo elektros energetikos sektoriuje, taip pat aprūpinimo elektros energija nutraukimo ir ribojimo kitais pagrindais stebėseną, pagal kompetenciją bendradarbiauja įgyvendinant šias priemones ir teikia rekomendacijas dėl jų atitikties įstatymų nustatytiems reikalavimams;
+19) tvirtina Elektros energiją gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainos skaičiavimo metodiką ir nustato naudojimosi elektros tinklais paslaugų kainą;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+20) vykdo Energetikos įstatyme numatytų priemonių, taikomų paskelbus valstybės lygio ekstremaliąją energetikos padėtį, įgyvendinimo elektros energetikos sektoriuje, taip pat aprūpinimo elektros energija nutraukimo ir ribojimo kitais pagrindais stebėseną, pagal kompetenciją bendradarbiauja įgyvendinant šias priemones ir teikia rekomendacijas dėl jų atitikties įstatymų nustatytiems reikalavimams;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
-20) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+21) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 4. Komisija turi užtikrinti konkurenciją tarp elektros energijos rinkos dalyvių, atskirų rinkos dalyvių ir vartotojų nediskriminavimą bei nustatytos kokybės paslaugų teikimą vartotojams. Siekdama šio tikslo, Komisija kontroliuoja:
 
@@ -1555,6 +1757,12 @@ Elektros energijos gamintoju gali tapti kiekvienas asmuo, šio įstatymo 16 ir 1
 Papildyta straipsnio dalimi:
 
 Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+
+11. Komisija, vadovaudamasi Vyriausybės nustatytais principais, reglamentuojančiais elektros energijos gamybą iš atsinaujinančių energijos išteklių, tvirtina Elektros energiją gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainos skaičiavimo metodiką ir nustato gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainą. Naudojimosi elektros tinklais paslaugų kaina turi padengti visas pagrįstas skirstomųjų tinklų operatoriaus sąnaudas, įvertinant skirstomųjų tinklų operatoriaus gaunamą naudą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 68 straipsnis. Sąnaudų apskaita ir kontrolė
 
