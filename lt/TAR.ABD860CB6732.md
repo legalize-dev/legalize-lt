@@ -4,7 +4,7 @@ identifier: "TAR.ABD860CB6732"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2011-01-01"
+last_updated: "2015-03-02"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ABD860CB6732"
 department: "Lietuvos Respublikos Seimas"
@@ -15,10 +15,6 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmens tapatybės kortelės įstatymo įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2011-01-01 iki 2015-03-01
-
-Įstatymas paskelbtas: Žin. 2001, Nr. 97-3418, i. k. 1011010ISTA00IX-578
-
 LIETUVOS RESPUBLIKOS
 
 ASMENS TAPATYBĖS KORTELĖS ĮSTATYMO ĮGYVENDINIMO
@@ -28,6 +24,10 @@ ASMENS TAPATYBĖS KORTELĖS ĮSTATYMO ĮGYVENDINIMO
 2001 m. lapkričio 6 d. Nr. IX-578
 
 Vilnius
+
+Neteko galios nuo 2015-03-02
+
+Nr. XII-1519, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21281
 
 1 straipsnis. Pasiūlymas Vyriausybei
 
