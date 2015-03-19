@@ -4,7 +4,7 @@ identifier: "TAR.B4FA4C56B8D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-09-18"
-last_updated: "2014-01-01"
+last_updated: "2015-03-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FA4C56B8D5"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "25 ir 28 straipsniai įsigalioja 2012-09-22."
 
 LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2014-01-01 iki 2015-03-18
+Suvestinė redakcija nuo 2015-03-19 iki 2015-03-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
 
@@ -502,9 +502,17 @@ Nr. XI-2314, 2012-11-06, Žin., 2012, Nr. 132-6642 (2012-11-15), i. k. 1121010IS
 
 4. Galiojančiuose teisės aktuose nustatytas įpareigojimas skelbti informaciją leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ reiškia įpareigojimą tą informaciją skelbti atitinkamo subjekto interneto svetainėje, jeigu teisės aktuose nenustatyta kitaip.
 
-5. Savivaldybių administracijos iki 2014 m. liepos 31 d. pateikia Teisės aktų registrui 2014 m. sausio 1 d. galiojančius savivaldybių institucijų norminius teisės aktus elektronine forma, suvestinės šių teisės aktų redakcijos Teisės aktų registre paskelbiamos iki 2015 m. balandžio 15 d.
+5. Savivaldybių administracijos iki 2014 m. liepos 31 d. pateikia Teisės aktų registrui 2014 m. sausio 1 d. galiojančius savivaldybių institucijų norminius teisės aktus elektronine forma, suvestinės šių teisės aktų redakcijos Teisės aktų registre paskelbiamos iki 2016 m. balandžio 30 d.
 
-6. Visos suvestinės teisės aktų redakcijos Teisės aktų registre turi būti paskelbtos iki 2015 m. balandžio 30 d.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1539, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03950
+
+6. Visos suvestinės teisės aktų redakcijos Teisės aktų registre turi būti paskelbtos iki 2016 m. balandžio 30 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1539, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03950
 
 7. Nacionalinė teismų administracija parengia elektronine forma iki 2014 m. sausio 1 d. priimtų Lietuvos Aukščiausiojo Teismo, Lietuvos vyriausiojo administracinio teismo sprendimus, nutartis ir nutarimus, taip pat administracinių teismų įsiteisėjusius sprendimus dėl norminių administracinių aktų teisėtumo ir iki 2015 m. birželio 30 d. pateikia Teisės aktų registrui.
 
@@ -587,4 +595,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-415, 2013-06-27, Žin., 2013, Nr. 76-3832 (2013-07-16), i. k. 1131010ISTA0XII-415
 
 Lietuvos Respublikos teisėkūros pagrindų įstatymo 19, 20 straipsnių pakeitimo ir papildymo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1539, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03950
+
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 26 straipsnio pakeitimo įstatymas
 
