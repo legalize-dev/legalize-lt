@@ -4,7 +4,7 @@ identifier: "TAR.C70309CDEB7B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-08"
-last_updated: "2014-10-29"
+last_updated: "2015-03-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C70309CDEB7B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karo padėties įstatymas
 
-Suvestinė redakcija nuo 2014-10-29 iki 2015-03-27
+Suvestinė redakcija nuo 2015-03-28 iki 2016-08-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1482, i. k. 1001010ISTAIII-1721
 
@@ -87,11 +87,25 @@ Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010IST
 
 2. Karo padėtis gali būti įvesta visoje valstybėje arba jos dalyje.
 
-3. Sprendime dėl karo padėties įvedimo nurodoma, kokios teisės ir laisvės, numatytos šiame įstatyme, ribojamos.
+3. Sprendime dėl karo padėties įvedimo turi būti nurodyta:
+
+1) karo padėties įvedimo pagrindas ir tikslas;
+
+2) karo padėties įvedimo teritorija;
+
+3) šio Įstatymo nustatyti naudojimosi Konstitucijos 22, 24, 25, 32, 35, 36 straipsniuose nurodytomis teisėmis ir laisvėmis ribojimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1542, 2015-03-19, paskelbta TAR 2015-03-27, i. k. 2015-04360
 
 4 straipsnis. Karo padėties atšaukimas
 
-1. Karo padėtis atšaukiama, kai Seimas panaikina Respublikos Prezidento sprendimą dėl karo padėties įvedimo arba jeigu išnyko priežastys, dėl kurių ji buvo įvesta. Sprendimą dėl karo padėties atšaukimo priima Seimas.
+1. Karo padėtis atšaukiama, kai Seimas panaikina Respublikos Prezidento sprendimą dėl karo padėties įvedimo, priima sprendimą dėl karo padėties atšaukimo arba kai išnyko priežastys, dėl kurių ji buvo įvesta.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1542, 2015-03-19, paskelbta TAR 2015-03-27, i. k. 2015-04360
 
 2. Respublikos Prezidentas turi teisę savo sprendimą atšaukti, kol jis nepradėtas svarstyti Seime, jeigu išnyko karo padėties įvedimo priežastys.
 
@@ -329,13 +343,15 @@ Nr. XI-757, 2010-04-13, Žin., 2010, Nr. 48-2306 (2010-04-27), i. k. 1101010ISTA
 
 26 straipsnis. Ikiteisminio tyrimo įstaigos
 
-Kai ikiteisminio tyrimo įstaigos negali atlikti joms Lietuvos Respublikos baudžiamojo proceso kodekso pavestų funkcijų, jas atlieka karo policija, Valstybės saugumo departamento padaliniai, o jei savo funkcijų atlikti negali, – karo komendanto paskirti asmenys. Teritorijoje, kurioje karo policija ir karinės komendantūros negali atlikti savo funkcijų, ikiteisminį tyrimą atlieka šioje teritorijoje veikiančio ar dislokuoto karinio dalinio ar kito karinio vieneto vado paskirti asmenys. Ikiteisminio tyrimo pareigūnais, esant galimybei, turi būti paskirti asmenys, turintys teisinį išsilavinimą.
+Kai ikiteisminio tyrimo įstaigos negali atlikti joms Lietuvos Respublikos baudžiamojo proceso kodekso pavestų funkcijų, jas atlieka karo policija, o jei savo funkcijų atlikti negali, – karo komendanto paskirti asmenys. Teritorijoje, kurioje karo policija ir karinės komendantūros negali atlikti savo funkcijų, ikiteisminį tyrimą atlieka šioje teritorijoje veikiančio ar dislokuoto karinio dalinio ar kito karinio vieneto vado paskirti asmenys. Ikiteisminio tyrimo pareigūnais, esant galimybei, turi būti paskirti asmenys, turintys teisinį išsilavinimą.
 
 Straipsnio pakeitimai:
 
 Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
 
 Nr. XI-1268, 2010-12-23, Žin., 2011, Nr. 2-41 (2011-01-06), i. k. 1101010ISTA0XI-1268
+
+Nr. XII-1542, 2015-03-19, paskelbta TAR 2015-03-27, i. k. 2015-04360
 
 27 straipsnis. Ikiteisminio tyrimo atlikimas
 
@@ -560,4 +576,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1282, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15006
 
 Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2 ir 21 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1542, 2015-03-19, paskelbta TAR 2015-03-27, i. k. 2015-04360
+
+Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 3, 4 ir 26 straipsnių pakeitimo įstatymas
 
