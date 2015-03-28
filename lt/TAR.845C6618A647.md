@@ -4,7 +4,7 @@ identifier: "TAR.845C6618A647"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-06"
-last_updated: "2013-01-01"
+last_updated: "2015-03-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2015-03-27
+Suvestinė redakcija nuo 2015-03-28 iki 2016-08-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
 
@@ -83,11 +83,11 @@ NEPAPRASTOSIOS PADĖTIES ĮVEDIMO IR ATŠAUKIMO TVARKA
 
 6 straipsnis. Sprendimo įvesti nepaprastąją padėtį priėmimas
 
-1. Sprendimą įvesti nepaprastąją padėtį priima:
+1. Sprendimą įvesti nepaprastąją padėtį visoje valstybės teritorijoje ar jos dalyje priima Seimas, jeigu valstybėje iškyla grėsmė konstitucinei santvarkai ar visuomenės rimčiai. Tarp Seimo sesijų neatidėliotinais atvejais tokį sprendimą turi teisę priimti Respublikos Prezidentas, kartu šaukdamas neeilinę Seimo sesiją svarstyti šio klausimo. Seimas patvirtina arba panaikina Respublikos Prezidento sprendimą.
 
-1) Seimo sesijos metu – Seimas, priimdamas atitinkamą nutarimą;
+Straipsnio dalies pakeitimai:
 
-2) tarp Seimo sesijų – Respublikos Prezidentas, išleisdamas atitinkamą dekretą ir šaukdamas neeilinę Seimo sesiją Respublikos Prezidento sprendimui svarstyti. Seimas nutarimu gali patvirtinti ar panaikinti Respublikos Prezidento sprendimą. Seimo panaikintas Respublikos Prezidento sprendimas netenka galios.
+Nr. XII-1544, 2015-03-19, paskelbta TAR 2015-03-27, i. k. 2015-04364
 
 2. Seimas, tvirtindamas Respublikos Prezidento sprendimą įvesti nepaprastąją padėtį, gali pakeisti jo nuostatas, sumažindamas ar padidindamas:
 
@@ -484,4 +484,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2253, 2012-10-02, Žin., 2012, Nr. 122-6112 (2012-10-20), i. k. 1121010ISTA0XI-2253
 
 Lietuvos Respublikos nepaprastosios padėties įstatymo 19 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1544, 2015-03-19, paskelbta TAR 2015-03-27, i. k. 2015-04364
+
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 6 straipsnio pakeitimo įstatymas
 
