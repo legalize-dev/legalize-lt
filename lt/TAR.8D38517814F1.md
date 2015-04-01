@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2014-12-31"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2014-12-31 iki 2015-03-31
+Suvestinė redakcija nuo 2015-04-01 iki 2015-05-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -139,7 +139,7 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 27. Elektros ir elektroninė įranga – įranga, kuriai tinkamai funkcionuoti reikalingos elektros srovės arba elektromagnetiniai laukai, ir įranga, skirta kurti, perduoti arba išmatuoti tokias sroves ar laukus, priklausanti Aplinkos ministerijos nustatytoms kategorijoms ir skirta naudoti su ne didesne kaip 1 000 V įtampa esant kintamajai srovei ir su ne didesne kaip 1 500 V įtampa esant nuolatinei srovei.
 
-Redakcija nuo 2018-08-15:
+27 dalies redakcija nuo 2018-08-15:
 
 27. Elektros ir elektroninė įranga – įranga, kuriai tinkamai funkcionuoti reikalingos elektros srovės arba elektromagnetiniai laukai, ir įranga, skirta kurti, perduoti arba išmatuoti tokias sroves ar laukus, skirta naudoti su ne didesne kaip 1 000 V įtampa esant kintamajai srovei ir su ne didesne kaip 1 500 V įtampa esant nuolatinei srovei. Elektros ir elektroninės įrangos kategorijų sąrašą tvirtina Aplinkos ministerija.
 
@@ -1929,9 +1929,17 @@ Nr. XII-137, 2012-12-20, Žin., 2012, Nr. 155-8003 (2012-12-31)
 
 2. Komunalinių atliekų tvarkymo paslaugų kaina turi būti pagrįsta būtinosiomis su komunalinių atliekų tvarkymu susijusiomis sąnaudomis. Komunalinių atliekų tvarkymo paslaugų kaina turi užtikrinti ilgalaikį komunalinėms atliekoms tvarkyti skirtos infrastruktūros eksploatavimą, jos atnaujinimą ir sudaryti komunalinių atliekų turėtojams priimtinas sąlygas dalyvauti komunalinių atliekų tvarkyme, taip pat mažinti aplinkos taršą.
 
-3. Nustatant rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį, turi būti atsižvelgiama į Vyriausybės patvirtintą metodiką.
+3. Nustatant rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį, turi būti vadovaujamasi Vyriausybės patvirtintomis taisyklėmis.
 
-4. Komunalinių atliekų tvarkymo paslaugų kainą ir įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį nustato savivaldybė, vadovaudamasi šio straipsnio 1, 2 ir 3 dalyse nurodytais principais.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1590, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04838
+
+4. Komunalinių atliekų tvarkymo paslaugų kainą ir įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį nustato savivaldybė, vadovaudamasi šio straipsnio 1 ir 2 dalyse nurodytais principais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1590, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04838
 
 Įstatymas papildytas straipsniu:
 
@@ -2257,7 +2265,7 @@ gaminių ir (ar) Pakuočių ATLIEKŲ TVARKYMO organizavimo licencijavimas
 
 3) volframinėms lemputėms.
 
-Redakcija nuo 2018-08-15:
+1 dalies redakcija nuo 2018-08-15:
 
 1. Šio Įstatymo aštuntojo1 skirsnio nuostatos netaikomos:
 
