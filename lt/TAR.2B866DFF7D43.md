@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2015-03-24"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2015-03-24 iki 2015-03-31
+Suvestinė redakcija nuo 2015-04-01 iki 2015-04-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -2038,7 +2038,11 @@ Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 
 6. Jeigu Europos arešto orderis išduotas dėl nusikalstamos veikos, už kurią Europos arešto orderį išdavusios valstybės įstatymai numato laisvės atėmimo iki gyvos galvos bausmę, Lietuvos Respublikos pilietis ar užsienietis perduodamas su sąlyga, kad Europos arešto orderį išdavusios valstybės įstatymai numato galimybę nuteistajam ne vėliau kaip atlikus dvidešimt metų laisvės atėmimo bausmės kreiptis dėl atleidimo nuo bausmės ar jos sušvelninimo.
 
-7. Jeigu Europos arešto orderis išduotas baudžiamojo persekiojimo tikslais, Lietuvos Respublikos pilietis ar nuolat Lietuvos Respublikoje gyvenantis asmuo gali būti perduodamas su sąlyga, kad asmuo, dėl kurio Europos arešto orderį išdavusi valstybė priėmė nuosprendį, bus grąžintas į Lietuvos Respubliką atlikti jam paskirtą su laisvės atėmimu susijusią bausmę, jeigu to prašytų perduotasis asmuo arba to pareikalautų Lietuvos Respublikos generalinė prokuratūra.
+7. Jeigu Europos arešto orderis išduotas baudžiamojo persekiojimo tikslais, Lietuvos Respublikos pilietis ar nuolat Lietuvos Respublikoje gyvenantis asmuo gali būti perduodamas su sąlyga, kad asmuo, dėl kurio Europos arešto orderį išdavusi valstybė priėmė nuosprendį, bus grąžintas į Lietuvos Respubliką atlikti jam paskirtą su laisvės atėmimu susijusią bausmę, jeigu to prašytų perduotasis asmuo arba to pareikalautų Lietuvos Respublikos generalinė prokuratūra. Ši sąlyga netaikoma, jeigu iš anksto nustatomas vienas ar daugiau Lietuvos Respublikos įstatyme „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ nurodytų pagrindų, dėl kurių Lietuvos Respublika galėtų atsisakyti perimti paskirtos su laisvės atėmimu susijusios bausmės vykdymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
 
 Kodeksas papildytas straipsniu:
 
@@ -4976,19 +4980,53 @@ priedas
 
 21. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/99/EB dėl aplinkos apsaugos pagal baudžiamąją teisę (OL 2008 L 328, p. 28).
 
-22. 2008 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2008/913/TVR dėl kovos su tam tikromis rasizmo ir ksenofobijos formomis bei apraiškomis baudžiamosios teisės priemonėmis (OL 2008 L 328, p. 55–58).
+22. 2008 m. lapkričio 27 d. Tarybos pamatinis sprendimas 2008/909/TVR dėl nuosprendžių baudžiamosiose bylose tarpusavio pripažinimo principo taikymo skiriant laisvės atėmimo bausmes ar su laisvės atėmimu susijusias priemones, siekiant jas vykdyti Europos Sąjungoje (OL 2008 L 327, p. 27), iš dalies pakeistas 2009 m. vasario 26 d. Tarybos pamatiniu sprendimu 2009/299/TVR (OL 2009 L 81, p. 24).
 
-23. 2008 m. lapkričio 28 d. Tarybos pamatinis sprendimas 2008/919/TVR, iš dalies keičiantis Pamatinį sprendimą 2002/475/TVR dėl kovos su terorizmu (OL 2008 L 330, p. 21).
+Papildyta punktu:
 
-24. 2009 m. vasario 26 d. Tarybos pamatinis sprendimas 2009/299/TVR, iš dalies keičiantis pamatinius sprendimus 2002/584/TVR, 2005/214/TVR, 2006/783/TVR, 2008/909/TVR ir 2008/947/TVR ir stiprinantis asmenų procesines teises bei skatinantis tarpusavio pripažinimo principo taikymą sprendimams, priimtiems atitinkamam asmeniui asmeniškai nedalyvavus teisminiame nagrinėjime (OL 2009 L 81, p. 24).
+Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
 
-25. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB, iš dalies keičianti Direktyvą 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2009 L 280, p. 52).
+23. 2008 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2008/913/TVR dėl kovos su tam tikromis rasizmo ir ksenofobijos formomis bei apraiškomis baudžiamosios teisės priemonėmis (OL 2008 L 328, p. 55–58).
 
-26. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
+Punkto numeracijos pakeitimas:
 
-27. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR (OL 2011 L 101, p. 1).
+Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
 
-28. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR (OL 2011 L 335, p. 1).
+24. 2008 m. lapkričio 28 d. Tarybos pamatinis sprendimas 2008/919/TVR, iš dalies keičiantis Pamatinį sprendimą 2002/475/TVR dėl kovos su terorizmu (OL 2008 L 330, p. 21).
+
+Punkto numeracijos pakeitimas:
+
+Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
+
+25. 2009 m. vasario 26 d. Tarybos pamatinis sprendimas 2009/299/TVR, iš dalies keičiantis pamatinius sprendimus 2002/584/TVR, 2005/214/TVR, 2006/783/TVR, 2008/909/TVR ir 2008/947/TVR ir stiprinantis asmenų procesines teises bei skatinantis tarpusavio pripažinimo principo taikymą sprendimams, priimtiems atitinkamam asmeniui asmeniškai nedalyvavus teisminiame nagrinėjime (OL 2009 L 81, p. 24).
+
+Punkto numeracijos pakeitimas:
+
+Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
+
+26. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB, iš dalies keičianti Direktyvą 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2009 L 280, p. 52).
+
+Punkto numeracijos pakeitimas:
+
+Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
+
+27. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
+
+Punkto numeracijos pakeitimas:
+
+Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
+
+28. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR (OL 2011 L 101, p. 1).
+
+Punkto numeracijos pakeitimas:
+
+Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
+
+29. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR (OL 2011 L 335, p. 1).
+
+Punkto numeracijos pakeitimas:
+
+Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
 
 Kodeksas papildytas priedu:
 
@@ -5483,6 +5521,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087
 
 Lietuvos Respublikos baudžiamojo kodekso 27, 38, 39, 55, 56, 60, 62, 75, 179 ir 187 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
+
+Lietuvos Respublikos baudžiamojo kodekso 9-1 straipsnio ir Kodekso priedo pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
