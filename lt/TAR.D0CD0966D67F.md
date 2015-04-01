@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2015-01-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-03-31
+Suvestinė redakcija nuo 2015-04-01 iki 2015-04-13
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -491,13 +491,25 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 3. Pirmajam ir kitiems išrinktos naujos savivaldybės tarybos posėdžiams, iki prisieks tarybos nariai, pirmininkauja šio straipsnio 2 dalyje nustatyti asmenys. Po tarybos narių (mero) priesaikos priėmimo posėdžiui pirmininkauja meras arba, jeigu jo nėra, – vyriausias pagal amžių tarybos narys. Pirmajame išrinktos naujos savivaldybės tarybos posėdyje:
 
-1) prisiekia savivaldybės tarybos nariai;
+1) prisiekia savivaldybės tarybos nariai; jeigu meras neišrinktas, renkamas laikinai mero pareigas einantis tarybos narys;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1595, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04843
 
 2) gali būti posėdžio pirmininkui įteikiami vieši pareiškimai dėl savivaldybės tarybos narių vienijimosi į frakcijas, dėl savivaldybės tarybos daugumos ir savivaldybės tarybos mažumos (opozicijos) sudarymo;
 
-3) priimamas sprendimas dėl savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo) atleidimo iš pareigų, nes baigėsi jo įgaliojimų laikas, ir pavedimo savivaldybės administracijos direktoriui, savivaldybės administracijos direktoriaus pavaduotojui ar kitam savivaldybės administracijos valstybės tarnautojui eiti savivaldybės administracijos direktoriaus pareigas arba mero siūlymu dėl pavedimo savivaldybės administracijos valstybės tarnautojui eiti savivaldybės administracijos direktoriaus pareigas tol, kol bus paskirtas savivaldybės administracijos direktorius (direktoriaus pavaduotojas) naujai kadencijai;
+3) priimamas sprendimas dėl savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo) atleidimo iš pareigų, nes baigėsi jo įgaliojimų laikas, ir mero, o jeigu meras neišrinktas, jo pareigas laikinai einančio savivaldybės tarybos nario siūlymu dėl pavedimo savivaldybės administracijos direktoriui, savivaldybės administracijos direktoriaus pavaduotojui ar kitam savivaldybės administracijos valstybės tarnautojui eiti savivaldybės administracijos direktoriaus pareigas tol, kol bus paskirtas savivaldybės administracijos direktorius (direktoriaus pavaduotojas) naujai kadencijai;
 
-4) gali būti skiriami mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius. Mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius negali būti skiriami, jeigu pirmajame posėdyje meras neprisiekė. Jeigu pirmajame posėdyje meras neprisiekė, savivaldybės taryba priima sprendimą dėl kito posėdžio datos. Kitas posėdis turi įvykti ne vėliau kaip per 5 kalendorines dienas po pirmojo posėdžio, kuriam pirmininkauja šioje dalyje nustatyti asmenys. Jeigu ir šiame posėdyje meras neprisiekė arba prisiekė, bet dėl laikinojo nedarbingumo ar kitų pateisinamų priežasčių laikinai negali eiti savo pareigų, šio įstatymo 19 straipsnio 1 dalyje nustatyta tvarka skiriamas tarybos narys laikinai eiti mero pareigas.
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1595, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04843
+
+4) gali būti skiriami mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius. Mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius negali būti skiriami, jeigu meras neišrinktas ar pirmajame posėdyje meras neprisiekė. Jeigu pirmajame posėdyje meras neprisiekė, savivaldybės taryba priima sprendimą dėl kito posėdžio datos. Kitas posėdis turi įvykti ne vėliau kaip per 5 kalendorines dienas po pirmojo posėdžio ir jam pirmininkauja šioje dalyje nustatyti asmenys. Jeigu ir šiame posėdyje meras neprisiekė arba prisiekė, bet dėl laikinojo nedarbingumo ar kitų pateisinamų priežasčių laikinai negali eiti savo pareigų, šio įstatymo 19 straipsnio 1 dalyje nustatyta tvarka skiriamas tarybos narys laikinai eiti mero pareigas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1595, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04843
 
 4. Kitus savivaldybės tarybos posėdžius prireikus, bet ne rečiau kaip kas 3 mėnesiai, šaukia meras, o kai jo nėra, – mero pavaduotojas. Savivaldybės tarybos posėdžiams pirmininkauja meras, o kai jo nėra (reglamento nustatytais atvejais), – mero pavaduotojas. Meras, o kai jo nėra, – mero pavaduotojas privalo sušaukti savivaldybės tarybos posėdį, jeigu to raštu reikalauja ne mažiau kaip 1/3 išrinktų tarybos narių pateikdami svarstytinus klausimus kartu su sprendimų projektais, ne vėliau kaip per dvi savaites nuo tarybos narių reikalavimo gavimo. Jeigu per nustatytą laiką meras ar jo pavaduotojas savivaldybės tarybos posėdžio nesušaukia, jį gali šaukti ne mažiau kaip 1/3 išrinktų tarybos narių. Jeigu meras ar jo pavaduotojas posėdyje nedalyvauja, posėdžiui pirmininkauja ir visus posėdyje priimtus dokumentus pasirašo savivaldybės tarybos paskirtas tarybos narys.
 
