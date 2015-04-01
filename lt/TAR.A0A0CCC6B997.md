@@ -4,7 +4,7 @@ identifier: "TAR.A0A0CCC6B997"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-27"
-last_updated: "2015-02-27"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0A0CCC6B997"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Lietuvos Respublikos bausmių vykdymo kodeksas įsigalioja 2003-05-01."
 
 PATVIRTINTAS
 
-Suvestinė redakcija nuo 2015-02-27 iki 2015-03-31
+Suvestinė redakcija nuo 2015-04-01 iki 2015-08-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
 
@@ -1029,7 +1029,11 @@ Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 
 1. Laisvės atėmimo bausmę atliekantys nuteistieji užsieniečiai turi teisę per Lietuvos Respublikos užsienio reikalų ministeriją palaikyti ryšius su savo valstybių diplomatinėmis atstovybėmis ir konsulinėmis įstaigomis bei tarptautinėmis organizacijomis.
 
-2. Lietuvos Respublikos tarptautinių sutarčių numatytais atvejais ir tvarka nuteistieji užsieniečiai, kuriems paskirta laisvės atėmimo bausmė, gali būti perduoti bausmės atlikti į kitą valstybę.
+2. Lietuvos Respublikos tarptautinių sutarčių ir Lietuvos Respublikos įstatymų numatytais atvejais ir tvarka nuteistieji užsieniečiai, kuriems paskirta laisvės atėmimo bausmė, gali būti perduoti bausmei atlikti į kitą valstybę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1323, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17300
 
 110 straipsnis. Specialiosios nuteistųjų, kuriems paskirta laisvės atėmimo bausmė, pareigos
 
@@ -1923,7 +1927,11 @@ BAUSMIŲ VYKDYMO PRINCIPAI
 
 5 straipsnis. Teisėtumo principas
 
-1. Bausmės vykdymo pagrindas yra tik įsiteisėjęs apkaltinamasis Lietuvos Respublikos teismo nuosprendis. Lietuvos Respublikos tarptautinių sutarčių numatytais atvejais bausmės vykdymo pagrindu yra užsienio valstybės teismo arba tarptautinės teisminės institucijos įsiteisėjęs apkaltinamasis nuosprendis (sprendimas).
+1. Bausmės vykdymo pagrindas yra tik įsiteisėjęs apkaltinamasis Lietuvos Respublikos teismo nuosprendis. Lietuvos Respublikos tarptautinių sutarčių ir Lietuvos Respublikos įstatymų numatytais atvejais bausmės vykdymo pagrindu yra užsienio valstybės teismo arba tarptautinės teisminės institucijos įsiteisėjęs apkaltinamasis nuosprendis (sprendimas).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1323, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17300
 
 2. Nuteistų asmenų teisių bei laisvių apribojimus ir nuteistų asmenų pareigas nustato tik Lietuvos Respublikos įstatymai.
 
