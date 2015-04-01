@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2015-03-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-03-01 iki 2015-03-31
+Suvestinė redakcija nuo 2015-04-01 iki 2015-04-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -389,7 +389,17 @@ Nr. XI-2199, 2012-06-30, Žin., 2012, Nr. 82-4277 (2012-07-13)
 
 14) nuosprendis, kuriuo nuteistajam paskiriama bausmė už labai sunkų ar sunkų nusikaltimą, nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamą veiką, – bausmę vykdančiai institucijai ir nuteistojo darbovietės, kurioje jis dirbo arba ėjo pareigas nusikalstamos veikos padarymo metu, administracijai, jeigu nuteistasis toliau dirba arba eina pareigas toje darbovietėje.
 
-5. Jeigu nuosprendžiu nuteistajam paskirta bausmė – bauda arba baudžiamojo poveikio ar auklėjamojo poveikio  priemonės – įmoka į Nukentėjusių nuo nusikaltimų asmenų fondą arba turto konfiskavimas ar išplėstinis turto konfiskavimas, turtinės žalos atlyginimas arba pašalinimas, arba teismas iš nuteistojo nusprendė išieškoti proceso išlaidas, o nuteistasis ar turtas, į kurį gali būti nukreiptas išieškojimas, arba konfiskuotinas turtas yra kitoje Europos Sąjungos valstybėje narėje, teismas savo iniciatyva arba bausmę (baudžiamojo poveikio ar auklėjamojo poveikio priemonę) vykdančios institucijos teikimu gali šią bausmę ar baudžiamojo poveikio ar auklėjamojo poveikio  priemonę arba sprendimą dėl proceso išlaidų išieškojimo perduoti vykdyti Europos Sąjungos valstybės narės kompetentingai institucijai. Sprendimas priimamas šio Kodekso 362 straipsnyje nustatyta tvarka. Lietuvos Respublikos teismų paskirtų piniginių sankcijų ir sprendimų konfiskuoti perdavimo vykdyti kitoms Europos Sąjungos valstybėms narėms taisykles patvirtina Lietuvos Respublikos Vyriausybė.
+5. Jeigu nuosprendžiu nuteistajam paskirta bausmė – bauda arba baudžiamojo poveikio priemonės – įmoka į Nukentėjusių nuo nusikaltimų asmenų fondą arba turto konfiskavimas ar išplėstinis turto konfiskavimas, arba teismas iš nuteistojo nusprendė išieškoti proceso išlaidas, o nuteistasis ar turtas, į kurį gali būti nukreiptas išieškojimas, arba konfiskuotinas turtas yra kitoje Europos Sąjungos valstybėje narėje, teismas savo iniciatyva arba bausmę (baudžiamojo poveikio priemonę) vykdančios institucijos teikimu gali šią bausmę ar baudžiamojo poveikio priemonę arba sprendimą dėl proceso išlaidų išieškojimo perduoti vykdyti Europos Sąjungos valstybės narės kompetentingai institucijai. Sprendimas priimamas šio Kodekso 362 straipsnyje nustatyta tvarka. Lietuvos Respublikos teismų paskirtų piniginių sankcijų ir sprendimų konfiskuoti perdavimo vykdyti kitoms Europos Sąjungos valstybėms narėms taisykles patvirtina Lietuvos Respublikos Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
+
+6. Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ numatytais atvejais ir tvarka teismas nuosprendį dėl tam tikrų rūšių bausmių ar kitų priemonių gali perduoti vykdyti kitai Europos Sąjungos valstybei narei.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
 
 Straipsnio pakeitimai:
 
@@ -2619,33 +2629,65 @@ priedas
 
 6. 2006 m. spalio 6 d. Tarybos pamatinis sprendimas 2006/783/TVR dėl tarpusavio pripažinimo principo taikymo nutarimams konfiskuoti (OL 2006 L 328, p. 59).
 
-7. 2008 m. gruodžio 16 d. Tarybos sprendimas 2009/426/TVR dėl Eurojusto stiprinimo ir iš dalies keičiantis sprendimą 2002/187/TVR, įkuriantį Eurojustą siekiant sustiprinti kovą su sunkiais nusikaltimais (OL 2009 L 138, p. 14).
+7. 2008 m. lapkričio 27 d. Tarybos pamatinis sprendimas 2008/909/TVR dėl nuosprendžių baudžiamosiose bylose tarpusavio pripažinimo principo taikymo skiriant laisvės atėmimo bausmes ar su laisvės atėmimu susijusias priemones, siekiant jas vykdyti Europos Sąjungoje (OL 2008 L 327, p. 27), iš dalies pakeistas 2009 m. vasario 26 d. Tarybos pamatiniu sprendimu 2009/299/TVR (OL 2009 L 81, p. 24).
 
-8. 2009 m. vasario 26 d. Tarybos pamatinis sprendimas 2009/299/TVR, iš dalies keičiantis pamatinius sprendimus 2002/584/TVR, 2005/214/TVR, 2006/783/TVR, 2008/909/TVR ir 2008/947/TVR ir stiprinantis asmenų procesines teises bei skatinantis tarpusavio pripažinimo principo taikymą sprendimams, priimtiems atitinkamam asmeniui asmeniškai nedalyvavus teisminiame nagrinėjime (OL 2009 L 81, p. 24).
+Papildyta punktu:
 
-10. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos direktyva 2010/64/ES dėl teisės į vertimo žodžiu ir raštu paslaugas baudžiamajame procese (OL 2010 L 280, p. 1).
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
+
+8. 2008 m. gruodžio 16 d. Tarybos sprendimas 2009/426/TVR dėl Eurojusto stiprinimo ir iš dalies keičiantis sprendimą 2002/187/TVR, įkuriantį Eurojustą siekiant sustiprinti kovą su sunkiais nusikaltimais (OL 2009 L 138, p. 14).
+
+Punkto numeracijos pakeitimas:
+
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
+
+9. 2009 m. vasario 26 d. Tarybos pamatinis sprendimas 2009/299/TVR, iš dalies keičiantis pamatinius sprendimus 2002/584/TVR, 2005/214/TVR, 2006/783/TVR, 2008/909/TVR ir 2008/947/TVR ir stiprinantis asmenų procesines teises bei skatinantis tarpusavio pripažinimo principo taikymą sprendimams, priimtiems atitinkamam asmeniui asmeniškai nedalyvavus teisminiame nagrinėjime (OL 2009 L 81, p. 24).
+
+Punkto numeracijos pakeitimas:
+
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
+
+10. 2009 m. lapkričio 30 d. Tarybos pamatinis sprendimas 2009/948/TVR dėl jurisdikcijos įgyvendinimo kolizijų baudžiamuosiuose procesuose prevencijos ir sprendimo (OL 2009 L 328, p. 42).
+
+Papildyta punktu:
+
+Nr. XII-1295, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16788
+
+Punkto numeracijos pakeitimas:
+
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
+
+11. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos direktyva 2010/64/ES dėl teisės į vertimo žodžiu ir raštu paslaugas baudžiamajame procese (OL 2010 L 280, p. 1).
 
 Punkto numeracijos pakeitimas:
 
 Nr. XII-1295, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16788
 
-11. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR (OL 2011 L 101, p. 1).
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
+
+12. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR (OL 2011 L 101, p. 1).
 
 Punkto numeracijos pakeitimas:
 
 Nr. XII-1295, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16788
 
-12. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR (OL 2011 L 335, p. 1).
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
+
+13. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR (OL 2011 L 335, p. 1).
 
 Punkto numeracijos pakeitimas:
 
 Nr. XII-1295, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16788
 
-13. 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos direktyva 2012/13/ES dėl teisės į informaciją baudžiamajame procese (OL 2012 L 142, p. 1).
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
+
+14. 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos direktyva 2012/13/ES dėl teisės į informaciją baudžiamajame procese (OL 2012 L 142, p. 1).
 
 Punkto numeracijos pakeitimas:
 
 Nr. XII-1295, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16788
+
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
 
 Kodeksas papildytas priedu:
 
@@ -3967,14 +4009,6 @@ Kodeksas papildytas straipsniu:
 
 Nr. XI-2200, 2012-06-30, Žin., 2012, Nr. 82-4278 (2012-07-13)
 
-VIII dalis
-
-Bylų procesas kasacinės instancijos teisme
-
-XXVI skyrius
-
-Įsiteisėjusio nuosprendžio ar nutarties apskundimas ir kasacinės bylos parengimas
-
 261 straipsnis. Teisiamojo posėdžio protokolas
 
 1. Teisiamojo posėdžio protokole turi būti nurodoma: posėdžio vieta ir laikas (kada jis buvo pradėtas ir baigtas); teismo pavadinimas ir sudėtis, sekretorius, vertėjas, nagrinėjimo teisme dalyviai ir kiti teismo pašaukti asmenys; nagrinėjama byla; kaltinamajam paskirta kardomoji priemonė; kaltinamojo asmens duomenys; teismo veiksmai iš eilės, kaip jie buvo atliekami; nagrinėjimo teisme dalyvių, liudytojų, ekspertų ir kitų asmenų pareiškimai bei prašymai; nutartys, teismo priimtos pačioje posėdžių salėje; nuoroda apie nutarčių priėmimą pasitarimų kambaryje; kad kaltinamajam ir kitiems bylos nagrinėjimo teisme dalyviams išaiškintos jų teisės ir pareigos; kaltinamųjų, nukentėjusiųjų ir liudytojų parodymų turinys, šių asmenų pavardės, vardai ir gimimo metai, taip pat ekspertų ir specialistų išvadų turinys; teisiamajame posėdyje atliktų apžiūrų ir kitų įrodymų rinkimo bei tyrimo veiksmų rezultatai; turinys viso to, ką nagrinėjimo teisme dalyviai prašė įrašyti į protokolą; buvę teisiamojo posėdžio salėje tvarkos pažeidimo faktai ir pažeidėjai, taip pat teisiamojo posėdžio pirmininko patvarkymai pagal šio Kodekso 259 straipsnio 3 dalį; trumpas nagrinėjimo teisme dalyvių baigiamųjų kalbų turinys; trumpas kaltinamojo paskutinio žodžio turinys; nuoroda apie nuosprendžio paskelbimą ir nuosprendžio apskundimo tvarkos bei termino išaiškinimą.
@@ -4549,9 +4583,23 @@ Nr. XII-346, 2013-05-30, Žin., 2013, Nr. 62-3058 (2013-06-12)
 
 3. Jei Vilniaus apygardos teismas nusprendžia asmenį išduoti iš Lietuvos Respublikos ar perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, tokiam asmeniui suėmimo skyrimo ar pratęsimo klausimai sprendžiami bendra šio Kodekso 127 straipsnyje numatyta tvarka apylinkės ar apygardos teisme, atsižvelgiant į reikalingą skirti suėmimui terminą. Teisėjas, nusprendęs išduoti ar atsisakyti išduoti asmenį, priima nutartį. Nutartis atsisakyti perduoti asmenį pagal Europos arešto orderį turi būti motyvuota.
 
-4. Jeigu gautos informacijos nepakanka sprendimui dėl asmens išdavimo iš Lietuvos Respublikos arba perdavimo Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį priimti, Vilniaus apygardos teismo teisėjas paveda Lietuvos Respublikos generalinei prokuratūrai nedelsiant kreiptis į prašymą pateikusią instituciją dėl reikalingos papildomos informacijos suteikimo.
+4. Vilniaus apygardos teismas, spręsdamas, ar perduoti Lietuvos Respublikos pilietį arba nuolat Lietuvos Respublikoje gyvenantį asmenį pagal Europos arešto orderį, atsižvelgia į laisvės atėmimo bausmės vykdymo perėmimo sąlygas, nustatytas Lietuvos Respublikos įstatyme „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“. Nusprendęs atsisakyti perduoti asmenį pagal Europos arešto orderį Lietuvos Respublikos baudžiamojo kodekso 91 straipsnio 4 dalies 3 punkte numatytu pagrindu ir perimti bausmės, dėl kurios buvo išduotas Europos arešto orderis, vykdymą, Vilniaus apygardos teismas ta pačia nutartimi išsprendžia šios bausmės suderinimo su Lietuvos Respublikos baudžiamaisiais įstatymais klausimą, vadovaudamasis Lietuvos Respublikos įstatyme „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ nustatytomis taisyklėmis.
 
-5. Jeigu dėl vieno asmens gaunami keli prašymai išduoti iš Lietuvos Respublikos arba perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, sprendimą dėl jų priima Vilniaus apygardos teismas, paprastai vadovaudamasis šiomis taisyklėmis:
+Papildyta straipsnio dalimi:
+
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
+
+5. Jeigu gautos informacijos nepakanka šiame straipsnyje nurodytiems sprendimams priimti, Vilniaus apygardos teismo teisėjas paveda Lietuvos Respublikos generalinei prokuratūrai nedelsiant kreiptis į prašymą pateikusią instituciją dėl reikalingos papildomos informacijos suteikimo. Jeigu gautos informacijos nepakanka sprendimui dėl asmens perdavimo pagal Europos arešto orderį ar sprendimui dėl šio straipsnio 4 dalyje numatyto bausmės suderinimo su Lietuvos Respublikos baudžiamaisiais įstatymais priimti, Vilniaus apygardos teismo teisėjas dėl reikalingos papildomos informacijos suteikimo gali kreiptis tiesiogiai į prašymą pateikusią instituciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
+
+6. Jeigu dėl vieno asmens gaunami keli prašymai išduoti iš Lietuvos Respublikos arba perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, sprendimą dėl jų priima Vilniaus apygardos teismas, paprastai vadovaudamasis šiomis taisyklėmis:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
 
 1) prašymas perduoti Tarptautiniam baudžiamajam teismui turi viršenybę prieš kitus prašymus;
 
@@ -4975,6 +5023,12 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 
 5. Kardomoji priemonė taip pat gali būti skiriama kaltinamajam ir nuteistajam.
 
+6. Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ numatytais atvejais ir tvarka tam tikrų rūšių kardomosios priemonės gali būti perduotos vykdyti kitai Europos Sąjungos valstybei narei arba gali būti perimtos vykdyti iš kitos Europos Sąjungos valstybės narės.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
+
 Straipsnio pakeitimai:
 
 Nr. IX-2553, 2004-11-09, Žin., 2004, Nr. 171-6307 (2004-11-26)
@@ -5003,7 +5057,11 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 
 4. Kai pagrįstai manoma, kad įtariamasis darys naujus nusikaltimus, suėmimas gali būti paskirtas, jei yra duomenų, jog asmuo, įtariamas padaręs vieną ar kelis labai sunkius ar sunkius nusikaltimus arba Lietuvos Respublikos baudžiamojo kodekso 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 187 straipsnio 2 dalyje numatytus apysunkius nusikaltimus, iki nuosprendžio priėmimo gali padaryti naujų labai sunkių, sunkių ar šioje dalyje nurodytų apysunkių nusikaltimų, taip pat jei yra duomenų, kad būdamas laisvėje asmuo, įtariamas grasinimu ar pasikėsinimu padaryti nusikaltimą, gali tą nusikaltimą padaryti.
 
-5. Be to, suėmimo pagrindas yra prašymas išduoti asmenį užsienio valstybei arba perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, taip pat užsienio valstybės prašymas laikinai sulaikyti ieškomą asmenį, kol bus atsiųstas prašymas dėl asmens ekstradicijos ar Europos arešto orderis.
+5. Be to, suėmimo pagrindas yra prašymas išduoti asmenį užsienio valstybei arba perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, užsienio valstybės prašymas laikinai sulaikyti ieškomą asmenį, kol bus atsiųstas prašymas dėl asmens ekstradicijos ar Europos arešto orderis, ir užsienio valstybės prašymas suimti nuteistą asmenį, kol bus priimtas sprendimas dėl užsienio valstybės teismo nuosprendžio pripažinimo ir bausmės vykdymo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
 
 6. Skiriant suėmimą turi būti nurodytas jo skyrimo pagrindas ir motyvai.
 
@@ -7038,4 +7096,20 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Straipsnio pakeitimai:
 
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
+
+3655 straipsnis. Europos Sąjungos valstybių narių paskirtų tam tikrų rūšių bausmių ar kitų priemonių pripažinimas ir vykdymas Lietuvos Respublikoje
+
+Europos Sąjungos valstybės narės teismo priimti sprendimai dėl laisvės atėmimo bausmės, sprendimai dėl su laisvės atėmimu nesusijusios bausmės ir sprendimai dėl probacijos Lietuvos Respublikoje pripažįstami ir vykdomi pagal Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ ir šio Kodekso VII dalies nuostatas.
+
+Papildyta straipsniu:
+
+Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
+
+VIII dalis
+
+Bylų procesas kasacinės instancijos teisme
+
+XXVI skyrius
+
+Įsiteisėjusio nuosprendžio ar nutarties apskundimas ir kasacinės bylos parengimas
 
