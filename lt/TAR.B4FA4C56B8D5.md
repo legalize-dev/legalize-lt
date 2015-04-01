@@ -4,7 +4,7 @@ identifier: "TAR.B4FA4C56B8D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-09-18"
-last_updated: "2015-03-19"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FA4C56B8D5"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "25 ir 28 straipsniai įsigalioja 2012-09-22."
 
 LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2015-03-19 iki 2015-03-31
+Suvestinė redakcija nuo 2015-04-01 iki 2019-05-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
 
@@ -148,7 +148,11 @@ BENDROSIOS NUOSTATOS
 
 6) kiti Seimo priimti teisės aktai;
 
-7) Lietuvos Respublikos tarptautinės sutartys;
+7) Lietuvos Respublikos tarptautinės sutartys, išskyrus Europos Sąjungos ir Lietuvos Respublikos, kaip Europos Sąjungos valstybės narės, atstovaujančių vienai tarptautinės sutarties šaliai, tarptautines sutartis, kurios lietuvių kalba skelbiamos Europos Sąjungos oficialiajame leidinyje, ir Lietuvos Respublikos užsienio reikalų ministerijos teikiami pranešimai dėl visų Lietuvos Respublikos tarptautinių sutarčių įsigaliojimo, galiojimo, pakeitimo, laikino taikymo, sustabdymo, nutraukimo, prieštaravimo sutarties pakeitimui ar išlygoms;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1411, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20435
 
 8) Respublikos Prezidento dekretai ir potvarkiai;
 
@@ -368,7 +372,11 @@ TEISĖS AKTŲ PRIĖMIMAS, PASIRAŠYMAS, REGISTRAVIMAS, SKELBIMAS IR ĮSIGALIOJIM
 
 1. Šio įstatymo 6 straipsnio 2 dalies 1–18 punktuose nurodyti teisės aktai registruojami ir oficialiai skelbiami Teisės aktų registre.
 
-2. Teisės aktų nustatytus įgaliojimus turinčio subjekto pasirašytas teisės aktas, kuris yra Teisės aktų registro objektas, ne vėliau kaip kitą darbo dieną po pasirašymo įregistruojamas ir paskelbiamas Teisės aktų registre.
+2. Teisės aktų nustatytus įgaliojimus turinčio subjekto pasirašytas teisės aktas, kuris yra Teisės aktų registro objektas, ne vėliau kaip kitą darbo dieną po pasirašymo įregistruojamas ir paskelbiamas Teisės aktų registre, išskyrus šio įstatymo 6 straipsnio 2 dalies 7 punkte nurodytus Teisės aktų registro objektus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1411, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20435
 
 3. Teisės akto įregistravimas ir paskelbimas Teisės aktų registre laikomas oficialiu teisės akto paskelbimu. Šio įstatymo 20 straipsnio 12 dalyje numatytų teisės aktų ir jais patvirtintų teritorijų planavimo dokumentų įregistravimas ir paskelbimas Lietuvos Respublikos teritorijų planavimo dokumentų registre laikomas oficialiu jų paskelbimu.
 
@@ -377,6 +385,12 @@ Straipsnio dalies pakeitimai:
 Nr. XII-415, 2013-06-27, Žin., 2013, Nr. 76-3832 (2013-07-16), i. k. 1131010ISTA0XII-415
 
 4. Pasirašytus teisės aktus saugo jį priėmęs subjektas šio subjekto nustatyta tvarka. Vieną atspausdintą elektroniniu parašu pasirašyto teisės akto egzempliorių saugo teisės aktą priėmęs subjektas šio subjekto nustatyta tvarka.
+
+5. Šio įstatymo 6 straipsnio 2 dalies 7 punkte nurodyti Teisės aktų registro objektai Teisės aktų registre skelbiami Lietuvos Respublikos užsienio reikalų ministerijos teikimu.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1411, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20435
 
 20 straipsnis. Teisės aktų įsigaliojimas
 
@@ -603,4 +617,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1539, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03950
 
 Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 26 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1411, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20435
+
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 6 ir 19 straipsnių pakeitimo įstatymas
 
