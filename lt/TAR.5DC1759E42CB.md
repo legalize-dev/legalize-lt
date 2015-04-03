@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2015-02-06"
+last_updated: "2015-04-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2015-02-06 iki 2015-04-02
+Suvestinė redakcija nuo 2015-04-03 iki 2015-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -86,10 +86,6 @@ Bendrosios nuostatos
 
 17. Eismo tvarka – transporto priemonių, pėsčiųjų, kitų eismo dalyvių judėjimo, sustojimo, stovėjimo keliuose tvarka, nustatyta šiame ir kituose įstatymuose bei teisės aktuose.
 
-18. Galingasis keturratis – keturratė motorinė transporto priemonė atviru kėbulu, kuri skirta daugiausia naudoti pramogai arba žemės ūkyje ir važiuoti bekele arba keliais be dangos, kurios didžiausiasis projektinis greitis didesnis kaip 45 km/h ir (arba) variklio darbinis tūris didesnis kaip 50 cm3, bet ne didesnis kaip 1 000 cm3, masė be krovinio didesnė kaip 400 kg, o kroviniams vežti skirtos šios keturratės motorinės transporto priemonės masė be krovinio didesnė kaip 550 kg (be akumuliatorių baterijų, jeigu tai elektros varikliu varoma transporto priemonė) ir didžiausioji naudingoji galia didesnė kaip 15 kW, bet ne didesnė kaip 100 kW. Prie galingųjų keturračių taip pat priskiriamos daugiau kaip 4 ratus turinčios motorinės transporto priemonės, atitinkančios galingiesiems keturračiams taikomus techninius reikalavimus.
-
-Redakcija nuo 2015-01-01:
-
 18. Galingasis keturratis – keturratė motorinė transporto priemonė, kuri negali būti klasifikuojama kaip lengvasis keturratis ar keturratis ir kurios didžiausioji naudingoji galia didesnė kaip 15 kW, bet ne didesnė kaip 100 kW, variklio darbinis tūris ne didesnis kaip 1 000 cm3. Prie galingųjų keturračių taip pat priskiriamos daugiau kaip 4 ratus turinčios motorinės transporto priemonės, atitinkančios galingiesiems keturračiams taikomus techninius reikalavimus.
 
 19. Gyvenvietė – namų pristatyta teritorija, kurios pradžioje keliai pažymėti ženklais „Gyvenvietės pradžia“, o pabaigoje – „Gyvenvietės pabaiga“.
@@ -130,17 +126,9 @@ Redakcija nuo 2015-01-01:
 
 37. Nauja transporto priemonė – transporto priemonė, kuri anksčiau nebuvo registruota arba nuo kurios pirmo registravimo yra praėję ne daugiau kaip šeši mėnesiai.
 
-38. Neblaivumas – nuo etilo alkoholio apsvaigusio asmens būsena, kai alkoholio koncentracija biologinėse organizmo terpėse (iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose) viršija įstatymų nustatytą leidžiamą normą. Asmenų, vairuojančių transporto priemones, iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose leidžiama didžiausia etilo alkoholio koncentracija vairavimo metu yra 0,4 promilės. Pradedantieji vairuotojai, taip pat transporto priemonių, kurių didžiausioji leidžiamoji masė didesnė kaip 3,5 t arba kurios turi daugiau kaip 9 sėdimas vietas, taksi automobilių ir motociklų vairuotojai laikomi neblaiviais, kai alkoholio koncentracija jų iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose yra 0,2 promilės.
-
-Redakcija nuo 2015-01-01:
-
 38. Neblaivumas – etilo alkoholio vartojusio asmens būsena, kai šio alkoholio koncentracija biologinėse organizmo terpėse (iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose) viršija įstatymų nustatytą leidžiamą normą. Asmenų, vairuojančių transporto priemones, iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose leidžiama didžiausia etilo alkoholio koncentracija vairavimo metu yra 0,4 promilės. Pradedantieji vairuotojai, taksi automobilių, mopedų, motociklų, triračių, lengvųjų keturračių, keturračių, galingųjų keturračių, transporto priemonių, kurių didžiausioji leidžiamoji masė didesnė kaip 3,5 t arba kurios turi daugiau kaip 9 sėdimąsias vietas, arba kuriomis vežami pavojingieji kroviniai, vairuotojai laikomi neblaiviais, kai etilo alkoholio koncentracija jų iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose yra daugiau kaip 0 promilių.
 
 39. Oficialus vizitas – užsienio valstybės, tarptautinės organizacijos arba religinės bendrijos oficialaus asmens apsilankymas Lietuvos Respublikoje Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko, užsienio reikalų ministro arba kito Vyriausybės nario, taip pat kariuomenės vado oficialiu kvietimu kviečiančiajai institucijai ir oficialaus asmens institucijai susitarus dėl vizito oficialaus statuso.
-
-40. Papildomas vairuotojų mokymas – Susisiekimo ministerijos arba jos įgaliotos institucijos nustatyta tvarka organizuojamas ir vykdomas pradedančiųjų vairuotojų, pažeidusių KET reikalavimą (reikalavimus), susijusį (susijusius) su vairuotojų pareigų pėstiesiems, lenkimo taisyklių, draudimo vairuotojams naudotis mobiliojo ryšio priemonėmis, eismo reguliavimo signalų nesilaikymu, taip pat ir įspėjamųjų signalų naudojimo, važiavimo per sankryžas, vairuotojų naudojimosi saugos diržais, motociklininko šalmais pažeidimais, nustatyto greičio viršijimu daugiau kaip 10 km/h ir transporto priemonių vairavimu, kai nustatomas lengvas neblaivumo laipsnis (nuo 0,2 promilės iki 0,4 promilės), mokymas, taip pat sukėlusių eismo įvykį, kurio metu buvo sutrikdyta eismo dalyvių sveikata, motorinių transporto priemonių vairuotojų, kuriems teisė vairuoti buvo atimta dėl KET pažeidimų, mokymas.
-
-Redakcija nuo 2015-01-01:
 
 40. Papildomas vairuotojų mokymas – Susisiekimo ministerijos arba jos įgaliotos institucijos nustatyta tvarka organizuojamas ir vykdomas mokymas:
 
@@ -430,7 +418,11 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 4. Užtikrindama eismo saugumą, Švietimo ir mokslo ministerija ar jos įgaliotos institucijos:
 
-1) organizuoja ir koordinuoja privalomąjį eismo saugumo pagrindų mokymą ikimokyklinio ugdymo, bendrojo lavinimo ir neformaliojo suaugusiųjų švietimo įstaigose;
+1) organizuoja ir koordinuoja privalomąjį eismo saugumo pagrindų mokymą ikimokyklinio ugdymo, bendrojo ugdymo ir neformaliojo suaugusiųjų švietimo įstaigose;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1584, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05020
 
 2) organizuoja mokinių (vaikų) mokymą, per kurį įgyjama saugaus važiavimo dviračiais įgūdžių;
 
@@ -674,7 +666,11 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 17 straipsnis. Reikalavimai dviračių vairuotojams
 
-1. Važiuoti važiuojamąja kelio dalimi dviračiu leidžiama ne jaunesniems kaip 14 metų, o išklausiusiems Švietimo ir mokslo ministerijos nustatytą mokymo kursą ir turintiems mokymo įstaigos išduotą pažymėjimą, – ne jaunesniems kaip 12 metų asmenims. Prižiūrint suaugusiajam, važiuoti važiuojamąja kelio dalimi dviračiu leidžiama ne jaunesniems kaip 8 metų asmenims. Gyvenamojoje zonoje dviračių vairuotojų amžius neribojamas.
+1. Važiuoti važiuojamąja kelio dalimi dviračiu leidžiama ne jaunesniems kaip 14 metų, o išklausiusiems Švietimo ir mokslo ministerijos nustatytą mokymo kursą ir turintiems mokyklos išduotą pažymėjimą, – ne jaunesniems kaip 12 metų asmenims. Prižiūrint suaugusiajam, važiuoti važiuojamąja kelio dalimi dviračiu leidžiama ne jaunesniems kaip 8 metų asmenims. Gyvenamojoje zonoje dviračių vairuotojų amžius neribojamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1584, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05020
 
 2. Dviračio vairuotojui leidžiama važiuoti keliu tik tvarkingą stabdį ir garso signalą turinčiu dviračiu. Dviračio gale turi būti raudonas šviesos atšvaitas arba raudonas šviesos žibintas, iš abiejų šonų – oranžiniai šviesos atšvaitai, pritvirtinti prie ratų stipinų. Važiuodamas važiuojamąja kelio dalimi, dviračio vairuotojas privalo dėvėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais arba dviračio priekyje turi degti baltas šviesos žibintas, o gale – raudonas šviesos žibintas. Važiuojant keliu tamsiuoju paros metu arba kai blogas matomumas, dviračio priekyje turi degti baltas šviesos žibintas, o gale – raudonas šviesos žibintas, dviračio vairuotojas privalo dėvėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais. Dviračio vairuotojai (keleiviai) iki 18 metų, važiuodami (vežami) keliu, privalo būti užsidėję ir užsisegę dviratininko šalmus. Vyresniems kaip 18 metų asmenims, dviračiu važiuojantiems keliu, rekomenduojama būti užsidėjus ir užsisegus dviratininko šalmą.
 
