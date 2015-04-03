@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2015-01-01"
+last_updated: "2015-04-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-02
+Suvestinė redakcija nuo 2015-04-03 iki 2015-06-16
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -2319,7 +2319,11 @@ Išieškojimo iš darbo užmokesčio taisyklės taip pat taikomos ir išieškant
 
 2) autorinio atlyginimo už literatūros, mokslo ar meno kūrinį ir išradimą, dėl kurio išduotas patentas;
 
-3) moksleivių, studentų, doktorantų stipendijų;
+3) mokinių, studentų stipendijų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1571, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05018
 
 4) sumų, gaunamų atlyginti žalai, padarytai suluošinimu ar kitaip sužalojus sveikatą, taip pat atėmus maitintojo gyvybę;
 
