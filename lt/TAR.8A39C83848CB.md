@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2015-01-01"
+last_updated: "2015-04-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-08
+Suvestinė redakcija nuo 2015-04-09 iki 2015-07-07
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -6721,7 +6721,11 @@ Pasibaigus darbo sutarčiai (tarnybai), darbuotojas, kuriam nustatyta tvarka buv
 
 6.623 straipsnis. Bendrabučiai
 
-1. Darbininkus, tarnautojus, studentus, moksleivius jų darbo ar mokymosi metu galima apgyvendinti bendrabučiuose. Bendrabučiai yra specialiai pastatyti ar šiam tikslui įrengti gyvenamieji namai. Bendrabučių suteikimo ir naudojimosi jais tvarka nustatoma juridinių asmenų kolektyvinėse sutartyse. Organizacijose, kuriose tokia sutartis nesudaroma, ši tvarka nustatoma administracijos ir darbuotojų susitarimu, o mokslo ir mokymo įstaigose – šių įstaigų valdymo organų sprendimu.
+1. Darbininkus, tarnautojus, studentus, mokinius jų darbo ar mokymosi metu galima apgyvendinti bendrabučiuose. Bendrabučiai yra specialiai pastatyti ar šiam tikslui įrengti gyvenamieji namai. Bendrabučių suteikimo ir naudojimosi jais tvarka nustatoma juridinių asmenų kolektyvinėse sutartyse. Organizacijose, kuriose tokia sutartis nesudaroma, ši tvarka nustatoma administracijos ir darbuotojų susitarimu, o švietimo įstaigų, mokslo ir studijų institucijose šių įstaigų ir institucijų valdymo organų sprendimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1580, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05376
 
 2. Darbuotojai, pasibaigus darbo sutarčiai ar mokymosi laikui, iš bendrabučio iškeldinami, išskyrus šio kodekso 6.621 straipsnyje numatytus atvejus. Asmenys, kurie mokosi, pasibaigus mokslo metams, iš bendrabučio iškeldinami. Bendrabučių gyventojai gali būti iškeldinti nesuteikiant kitos gyvenamosios patalpos, jei jie savo netinkamu elgesiu sudaro neįmanomas sąlygas kitiems kartu ar greta gyventi, taip pat jei jie nuolat gadina gyvenamąją patalpą arba naudoja ją ne pagal paskirtį.
 
@@ -9970,4 +9974,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1453, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21192
 
 Lietuvos Respublikos civilinio kodekso 6.927 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1580, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05376
+
+Lietuvos Respublikos civilinio kodekso 6.623 straipsnio pakeitimo įstatymas
 
