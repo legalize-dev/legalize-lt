@@ -4,7 +4,7 @@ identifier: "TAR.65AD818F5F9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "2014-01-01"
+last_updated: "2015-04-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2015-04-13
+Suvestinė redakcija nuo 2015-04-14 iki 2016-09-30
 
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
 
@@ -462,7 +462,11 @@ Nr. X-476, 2005-12-23, Žin., 2005, Nr. 153-5643 (2005-12-31), i. k. 1051010ISTA
 
 Nr. XI-573, 2009-12-17, Žin., 2009, Nr. 154-6952 (2009-12-28), i. k. 1091010ISTA00XI-573
 
-5. Specialūs reisai – reisai, kai vežamos specialios keleivių grupės (darbininkų – į darbovietes ir iš jų, moksleivių – į mokyklas ir iš jų ir pan.).
+5. Specialūs reisai – reisai, kai vežamos specialios keleivių grupės (darbininkų – į darbovietes ir iš jų, mokinių – į mokyklas ir iš jų ir pan.).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1574, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05688
 
 6. Vietinio (miesto) susisiekimo maršrutas – nustatyta gatvių (kelių) trasa, kuria keleiviai vežami miesto teritorijoje.
 
@@ -1121,6 +1125,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-266, 2013-05-07, Žin., 2013, Nr. 54-2671 (2013-05-25), i. k. 1131010ISTA0XII-266
 
 Lietuvos Respublikos kelių transporto kodekso 21, 56 straipsnių ir priedo pakeitimo ir papildymo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1574, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05688
+
+Lietuvos Respublikos kelių transporto kodekso 18 straipsnio pakeitimo įstatymas
 
 171 straipsnis. Viešųjų paslaugų teikimo organizavimas
 
