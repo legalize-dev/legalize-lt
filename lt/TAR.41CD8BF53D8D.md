@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2015-03-02"
+last_updated: "2015-04-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2015-03-02 iki 2015-04-13
+Suvestinė redakcija nuo 2015-04-14 iki 2015-11-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
 
@@ -146,7 +146,11 @@ Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
 
 20) civilinės aviacijos specialisto licencijos išdavimą darbuotojams, papildomos kvalifikacijos suteikimą, civilinės aviacijos teorijos egzamino perlaikymą, skrydžio (praktinių gebėjimų) egzamino perlaikymą, civilinės aviacijos specialisto licencijos (kvalifikacijos) galiojimo laiko pratęsimą, civilinės aviacijos specialisto licencijos (kvalifikacijos) atnaujinimą, pirmos, antros ir trečios klasės sveikatos pažymėjimo išdavimą darbuotojams, kurie atlieka valstybinę civilinės aviacijos priežiūrą, ir civilinės aviacijos specialisto licencijos išdavimą studentams, kurie, atlikdami praktiką, privalo turėti galiojančią atitinkamą civilinės aviacijos specialisto licenciją;
 
-21) jūrininkų knygelės (išduodamos pirmą kartą), jūrinio laipsnio kvalifikacijos, kovos su gaisrais kursų baigimo liudijimo, pirmosios medicinos pagalbos kursų baigimo, darbo su gelbėjimo plaustais, valtimis (išskyrus greitaeiges) kursų baigimo, laivo gyvybingumo ir žmonių gyvybės išsaugojimo užtikrinimo kursų baigimo liudijimo, darbo tanklaiviuose įvadinių kursų baigimo liudijimų išdavimą mokymo įstaigų, rengiančių jūrų transporto specialistus, dieninių skyrių studentams ir moksleiviams (mokiniams);
+21) jūrininkų knygelės (išduodamos pirmą kartą), jūrinio laipsnio kvalifikacijos, kovos su gaisrais kursų baigimo liudijimo, pirmosios medicinos pagalbos kursų baigimo, darbo su gelbėjimo plaustais, valtimis (išskyrus greitaeiges) kursų baigimo, laivo gyvybingumo ir žmonių gyvybės išsaugojimo užtikrinimo kursų baigimo liudijimo, darbo tanklaiviuose įvadinių kursų baigimo liudijimų išdavimą mokyklų, rengiančių jūrų transporto specialistus, studentams, studijuojantiems pagal dieninės ir nuolatinės studijų formų programas, ir mokiniams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1575, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05689
 
 22) išduotų licencijų, kai keičiasi rekvizitai, tiesiogiai nepriklausantys nuo ūkio subjekto, patikslinimą;
 
@@ -591,4 +595,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1520, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21282
 
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6, 6-1 straipsnių ir priedo pakeitimo įstatymo Nr. XII-1397 2 ir 4 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1575, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05689
+
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6 straipsnio pakeitimo įstatymas
 
