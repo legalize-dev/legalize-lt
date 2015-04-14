@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2015-01-01"
+last_updated: "2015-04-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-13
+Suvestinė redakcija nuo 2015-04-14 iki 2015-04-20
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
 
@@ -1928,6 +1928,10 @@ Straipsnio dalies pakeitimai:
 Nr. XII-1168, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13582
 
 12. Pagal šio straipsnio 11 dalį kompensacija lygiomis dalimis išmokama žuvusiojo sutuoktiniui, tėvui, motinai bei kiekvienam iš kario išlaikytinių. Išlaikytiniai yra nedarbingi asmenys, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti iš jo išlaikymą; taip pat žuvusiojo vaikai, gimę po jo mirties; nepilnamečiai vaikai, kol jiems sukaks 16 metų, o besimokantieji nustatyta tvarka įregistruotų mokymo įstaigų dieniniuose skyriuose – kol jiems sukaks 24 metai, taip pat neįgalūs asmenys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1582, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05697
 
 13. Krašto apsaugos ministerija teisės aktų nustatyta tvarka gali drausti savo civilinę atsakomybę kario žūties ir jo ligos ar sveikatos problemos atvejais.
 
