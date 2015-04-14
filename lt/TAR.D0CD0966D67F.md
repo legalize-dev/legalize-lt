@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2015-04-01"
+last_updated: "2015-04-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2015-04-01 iki 2015-04-13
+Suvestinė redakcija nuo 2015-04-14 iki 2015-06-17
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -189,7 +189,11 @@ Savarankiškosios (Konstitucijos ir įstatymų nustatytos (priskirtos) savivaldy
 
 6) švietimo pagalbos teikimo mokiniui, mokytojui, šeimai, mokyklai, vaiko minimaliosios priežiūros priemonių vykdymo organizavimas ir koordinavimas;
 
-7) bendrojo lavinimo mokyklų moksleivių, gyvenančių kaimo gyvenamosiose vietovėse, neatlygintino pavėžėjimo į mokyklas ir į namus organizavimas;
+7) bendrojo ugdymo mokyklų mokinių, gyvenančių kaimo gyvenamosiose vietovėse, neatlygintino pavėžėjimo į mokyklas ir į namus organizavimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1577, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05691
 
 8) ikimokyklinio ugdymo, vaikų ir suaugusiųjų neformaliojo švietimo organizavimas, vaikų ir jaunimo užimtumo organizavimas;
 
