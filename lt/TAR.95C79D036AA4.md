@@ -4,7 +4,7 @@ identifier: "TAR.95C79D036AA4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2015-01-01"
+last_updated: "2015-04-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.95C79D036AA4"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-13
+Suvestinė redakcija nuo 2015-04-14 iki 2015-10-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 70-3170, i. k. 1031010ISTA0IX-1672
 
@@ -199,11 +199,19 @@ Valstybės, darbuotojų ir darbdavių interesams saugos ir sveikatos srityje der
 
 8 straipsnis. Mokymas saugos ir sveikatos srityje
 
-1. Darbuotojų saugos ir sveikatos specialistus pagal specialias programas ekonominėms veiklos sritims rengia Lietuvos Respublikos aukštosios mokyklos ir mokymo įstaigos, turinčios Lietuvos Respublikos švietimo ir mokslo ministerijos išduotas licencijas mokyti pagal tokias programas. Statinių projektavimo, statinių statybos saugos ir sveikatos koordinatorius pagal specialias programas rengia Lietuvos Respublikos aukštosios mokyklos.
+1. Darbuotojų saugos ir sveikatos specialistus pagal specialias programas ekonominėms veiklos sritims rengia mokyklos ir mokymo įstaigos, turinčios Lietuvos Respublikos švietimo ir mokslo ministerijos išduotas licencijas mokyti pagal tokias programas. Statinių projektavimo, statinių statybos saugos ir sveikatos koordinatorius pagal specialias programas rengia Lietuvos Respublikos aukštosios mokyklos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1581, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05694
 
 2. Aukštųjų mokyklų studentai, profesinių mokyklų mokiniai privalo būti mokomi darbuotojų saugos ir sveikatos reikalavimų pagal įgyjamas kvalifikacijas ir profesijas.
 
-3. Bendrojo lavinimo mokyklos privalo supažindinti mokinius su bendraisiais saugos ir sveikatos darbe ir buityje reikalavimais.
+3. Bendrojo ugdymo mokyklos privalo supažindinti mokinius su bendraisiais saugos ir sveikatos darbe ir buityje reikalavimais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1581, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05694
 
 4. Profesinės sveikatos specialistais gali dirbti sveikatos priežiūros specialistai, turintys aukštąjį medicinos, visuomenės sveikatos ar slaugos išsilavinimą ir atitinkantys sveikatos apsaugos ministro nustatytus kvalifikacinius reikalavimus.
 
@@ -389,7 +397,11 @@ DARBDAVIŲ PAREIGOS IR TEISĖS
 
 27 straipsnis. Darbuotojų instruktavimas ir mokymas
 
-1. Darbdavys negali reikalauti, kad darbuotojas pradėtų darbą įmonėje, jeigu jis neinstruktuotas saugiai dirbti jam pavestą darbą. Darbuotojai instruktuojami šio Įstatymo 25 straipsnio 6 punkte nustatytais ir kitais atvejais, kai darbdaviui atstovaujantis asmuo, darbdavio įgaliotas asmuo nusprendžia, kad to reikia siekiant apsaugoti darbuotojus nuo traumų ar profesinių ligų. Kai darbuotojui nepakanka profesinių įgūdžių arba instruktavimo metu suteiktų žinių, kad darbuotojas galėtų saugiai dirbti ir nebūtų pakenkta jo sveikatai, darbdaviui atstovaujantis asmuo, darbdavio įgaliotas asmuo organizuoja darbuotojo mokymą darbo vietoje, įmonėje ar mokymo įstaigose, kurios vykdo mokymą vadovaudamosi šio Įstatymo 12 straipsnio 2 dalyje nurodytais Mokymo ir atestavimo darbuotojų saugos ir sveikatos klausimais bendraisiais nuostatais. Darbuotojų instruktavimo ir mokymo tvarką įmonėje nustato darbdaviui atstovaujantis asmuo.
+1. Darbdavys negali reikalauti, kad darbuotojas pradėtų darbą įmonėje, jeigu jis neinstruktuotas saugiai dirbti jam pavestą darbą. Darbuotojai instruktuojami šio Įstatymo 25 straipsnio 6 punkte nustatytais ir kitais atvejais, kai darbdaviui atstovaujantis asmuo, darbdavio įgaliotas asmuo nusprendžia, kad to reikia siekiant apsaugoti darbuotojus nuo traumų ar profesinių ligų. Kai darbuotojui nepakanka profesinių įgūdžių arba instruktavimo metu suteiktų žinių, kad darbuotojas galėtų saugiai dirbti ir nebūtų pakenkta jo sveikatai, darbdaviui atstovaujantis asmuo, darbdavio įgaliotas asmuo organizuoja darbuotojo mokymą darbo vietoje, įmonėje ar mokyklose, mokymo įstaigose, kurios vykdo mokymą vadovaudamosi šio Įstatymo 12 straipsnio 2 dalyje nurodytais Mokymo ir atestavimo darbuotojų saugos ir sveikatos klausimais bendraisiais nuostatais. Darbuotojų instruktavimo ir mokymo tvarką įmonėje nustato darbdaviui atstovaujantis asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1581, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05694
 
 2. Darbuotojas, darbdavių susitarimu pasiųstas laikinam darbui į įmonę iš kitos įmonės, negali pradėti dirbti tol, kol jis neinformuotas apie esamus ir galimus rizikos veiksnius įmonėje, į kurią jis pasiųstas dirbti, neinstruktuotas saugiai dirbti konkrečioje darbo vietoje, nepaisant to, kad įmonėje, kurioje jis nuolat dirba, buvo nustatyta tvarka instruktuotas ir apmokytas saugiai dirbti. Į kitą įmonę pasiųstiems dirbti darbuotojams taip pat privalo būti suteikta informacija apie įmonėje paskirtus darbuotojus, atsakingus už pirmosios pagalbos suteikimą, gelbėjimo darbų organizavimą, darbuotojų evakavimą galimų avarijų, stichinių nelaimių ar gaisrų atvejais, ir apie gaisrų gesinimo bei evakavimo priemones, taip pat jie turi būti supažindinti su šio Įstatymo 22 straipsnyje nurodytais darbuotojų evakavimo planais. Darbuotojus, atliekančius kitose įmonėse darbus ar teikiančius paslaugas, ir darbuotojus, atliekančius įstatymų ar kitų norminių teisės aktų nustatytas kontrolės funkcijas, instruktuoja jų darbdaviai.
 
@@ -895,6 +907,14 @@ Nr. XII-1437, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20565
 
 Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2 ir 26 straipsnių pakeitimo įstatymas
 
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1581, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05694
+
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 8, 13 ir 27 straipsnių pakeitimo įstatymas
+
 13 straipsnis. Darbuotojų dalyvavimas įgyvendinant darbuotojų saugos ir sveikatos priemones. Darbuotojų saugos ir sveikatos komitetai, darbuotojų atstovai
 
 1. Darbdaviui atstovaujantis asmuo, darbdavio įgalioti asmenys privalo informuoti darbuotojus ir su jais konsultuotis visais darbuotojų saugos ir sveikatos būklės ir jos gerinimo planavimo, priemonių organizavimo, jų įgyvendinimo ir kontrolės klausimais. Šiuo tikslu renkami darbuotojų atstovai saugai ir sveikatai ir steigiami darbuotojų saugos ir sveikatos komitetai. Darbdaviui atstovaujantis asmuo, padalinių vadovai sudaro sąlygas darbuotojams, darbuotojų atstovams saugai ir sveikatai dalyvauti diskusijose svarstant darbuotojų saugos ir sveikatos klausimus.
@@ -909,7 +929,11 @@ Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2 ir 
 
 4) komiteto veiklą organizuoja ir jam vadovauja komiteto pirmininkas – darbdaviui atstovaujantis asmuo arba jo paskirtas darbdavio įgaliotas asmuo. Pirmininkas organizuoja komiteto darbą. Komiteto sekretoriumi renkamas darbuotojų atstovas saugai ir sveikatai;
 
-5) darbdavys komiteto narius aprūpina jų pareigoms atlikti reikalingomis priemonėmis ir informacija. Įmonės kolektyvinėje sutartyje numatytu periodiškumu komiteto nariai mokomi mokymo įstaigose, teikiančiose mokymo darbuotojų saugos ir sveikatos srityje paslaugas, vadovaujantis Mokymo ir atestavimo darbuotojų saugos ir sveikatos klausimais bendraisiais nuostatais, seminaruose ar įmonėje įmonės lėšomis. Naujai išrinkti ar paskirti komiteto nariai mokomi mokymo įstaigose, teikiančiose mokymo darbuotojų saugos ir sveikatos srityje paslaugas, vadovaujantis Mokymo ir atestavimo darbuotojų saugos ir sveikatos klausimais bendraisiais nuostatais. Komiteto narių mokymo klausimai sprendžiami sudarant kolektyvines sutartis;
+5) darbdavys komiteto narius aprūpina jų pareigoms atlikti reikalingomis priemonėmis ir informacija. Įmonės kolektyvinėje sutartyje numatytu periodiškumu komiteto nariai mokomi mokyklose, mokymo įstaigose, teikiančiose mokymo darbuotojų saugos ir sveikatos srityje paslaugas, vadovaujantis Mokymo ir atestavimo darbuotojų saugos ir sveikatos klausimais bendraisiais nuostatais, seminaruose ar įmonėje įmonės lėšomis. Naujai išrinkti ar paskirti komiteto nariai mokomi mokyklose, mokymo įstaigose, teikiančiose mokymo darbuotojų saugos ir sveikatos srityje paslaugas, vadovaujantis Mokymo ir atestavimo darbuotojų saugos ir sveikatos klausimais bendraisiais nuostatais. Komiteto narių mokymo klausimai sprendžiami sudarant kolektyvines sutartis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1581, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05694
 
 6) už laiką, kurį komiteto narys vykdo jam pavestus įpareigojimus, susijusius su darbuotojų sauga ir sveikata, ar mokosi, jam mokamas vidutinis darbo užmokestis.
 
@@ -945,7 +969,11 @@ Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2 ir 
 
 9. Darbuotojų atstovui saugai ir sveikatai taikomos Darbo kodekso 134 straipsnyje nustatytos garantijos. Darbuotojų atstovo saugai ir sveikatai įgaliojimus gali sustabdyti ar atšaukti jį išrinkę darbuotojų atstovai.
 
-10. Darbuotojų atstovai mokomi įmonėje, mokymui skirtuose seminaruose, mokymo įstaigose, teikiančiose mokymo darbuotojų saugos ir sveikatos srityje paslaugas, vadovaujantis Mokymo ir atestavimo darbuotojų saugos ir sveikatos klausimais bendraisiais nuostatais, darbdavio lėšomis. Mokymosi laikotarpiu jiems mokamas vidutinis darbo užmokestis. Klausimai, susiję su darbuotojų atstovų saugai ir sveikatai mokymu, sprendžiami įmonėje svarstant darbuotojų atstovų saugai ir sveikatai mokymo klausimus komitete, sudarant įmonės kolektyvines sutartis.
+10. Darbuotojų atstovai mokomi įmonėje, mokymui skirtuose seminaruose, mokyklose, mokymo įstaigose, teikiančiose mokymo darbuotojų saugos ir sveikatos srityje paslaugas, vadovaujantis Mokymo ir atestavimo darbuotojų saugos ir sveikatos klausimais bendraisiais nuostatais, darbdavio lėšomis. Mokymosi laikotarpiu jiems mokamas vidutinis darbo užmokestis. Klausimai, susiję su darbuotojų atstovų saugai ir sveikatai mokymu, sprendžiami įmonėje svarstant darbuotojų atstovų saugai ir sveikatai mokymo klausimus komitete, sudarant įmonės kolektyvines sutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1581, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05694
 
 11. Darbuotojų atstovai saugai ir sveikatai privalo saugoti gamybines ir komercines paslaptis, kurias sužino atlikdami savo funkcijas.
 
