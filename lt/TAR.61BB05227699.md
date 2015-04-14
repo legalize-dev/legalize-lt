@@ -4,7 +4,7 @@ identifier: "TAR.61BB05227699"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-30"
-last_updated: "2015-01-01"
+last_updated: "2015-04-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.61BB05227699"
 department: "Lietuvos Respublikos Seimas"
@@ -18,11 +18,11 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-13
+Suvestinė redakcija nuo 2015-04-14 iki 2019-01-01
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1243, i. k. 0951010ISTA000I-907
 
-Nauja įstatymo redakcija nuo 2002 m. kovo 1 d.:
+Nauja įstatymo redakcija nuo 2002-03-01:
 
 Nr. IX-650, 2001-12-13, Žin., 2001, Nr. 112-4070 (2001-12-30)
 
@@ -686,7 +686,11 @@ VALSTYBĖS KONTROLĖS PAREIGŪNŲ MOKYMAS IR KVALIFIKACIJOS KĖLIMAS
 
 2. Valstybės kontrolė turi sudaryti sąlygas pareigūnų kvalifikacijai kelti, o pareigūnai privalo nuolat kelti savo kvalifikaciją valstybės kontrolieriaus nustatyta tvarka.
 
-3. Mokymas ir kvalifikacijos kėlimas organizuojamas vadovaujantis metiniais planais, pagal specialias programas, sudarant sutartis su Lietuvos Respublikos bei užsienio valstybių mokymo įstaigomis, taip pat kitais būdais ir formomis.
+3. Mokymas ir kvalifikacijos kėlimas organizuojamas vadovaujantis metiniais planais, pagal specialias programas, sudarant sutartis su Lietuvos Respublikos bei užsienio valstybių mokyklomis, taip pat kitais būdais ir formomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1588, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05703
 
 4. Valstybės kontrolės pareigūnų sisteminio, profesinio mokymo ir kvalifikacijos kėlimo tvarką valstybinio audito srityje nustato valstybės kontrolierius.
 
@@ -963,6 +967,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1291, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16779
 
 Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 2, 4, 6, 9 ir 23 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1588, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05703
+
+Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 39 straipsnio pakeitimo įstatymas
 
 46 straipsnis.
 
