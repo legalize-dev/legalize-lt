@@ -4,7 +4,7 @@ identifier: "TAR.7690C98816CA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-01"
-last_updated: "2014-10-04"
+last_updated: "2015-04-14"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7690C98816CA"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2014-10-04 iki 2015-04-13
+Suvestinė redakcija nuo 2015-04-14 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 38-1656, i. k. 1031010ISTA0IX-1409
 
@@ -785,7 +785,11 @@ Nr. X-664, 2006-06-08, Žin., 2006, Nr. 72-2680 (2006-06-28)
 
 31 straipsnis. Kompensacijos ir pašalpos
 
-1. Tarnybos pareigūnui žuvus dėl tarnybos Specialiųjų tyrimų tarnyboje, jo šeimai – vaikams (įvaikiams), kol jiems sueis 18 metų, taip pat vaikams (įvaikiams), kurie mokosi nustatyta tvarka įregistruotų mokymo įstaigų dieniniuose skyriuose, kol jiems sueis 24 metai, sutuoktiniui, žuvusiojo vaikams, gimusiems po jo mirties, tėvui ar motinai – bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno mirties lygiomis dalimis išmokama 120 mėnesių darbo užmokesčio dydžio vienkartinė kompensacija. Tarnybos pareigūnas, žuvęs dėl tarnybos Specialiųjų tyrimų tarnyboje, laidojamas valstybės lėšomis.
+1. Tarnybos pareigūnui žuvus dėl tarnybos Specialiųjų tyrimų tarnyboje, jo šeimai – vaikams (įvaikiams), kol jiems sueis 18 metų, taip pat vaikams (įvaikiams), kurie mokosi nustatyta tvarka įregistruotose bendrojo ugdymo mokyklose, profesinio mokymo įstaigose, aukštosiose mokyklose pagal dieninės, nuolatinės ar ištęstinės studijų formų programas, kol jiems sueis 24 metai, sutuoktiniui, žuvusiojo vaikams, gimusiems po jo mirties, tėvui ar motinai – bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno mirties lygiomis dalimis išmokama 120 mėnesių darbo užmokesčio dydžio vienkartinė kompensacija. Tarnybos pareigūnas, žuvęs dėl tarnybos Specialiųjų tyrimų tarnyboje, laidojamas valstybės lėšomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1585, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05700
 
 2. Tarnybos pareigūną pripažinus nežinia kur esančiu ar paskelbus žuvusiu, laikoma, kad jis yra pripažintas nežinia kur esančiu ar paskelbtas žuvusiu dėl tarnybos, jeigu neįrodyta kitaip, ir jo šeimai bei nedarbingiems asmenims, kurie buvo jo išlaikomi arba nurodytą dieną turėjo teisę gauti jo išlaikymą, nuo tarnybos pareigūno pripažinimo nežinia kur esančiu ar jo paskelbimo žuvusiu dienos kas mėnesį lygiomis dalimis mokama jo vidutinio darbo užmokesčio pašalpa, neviršijant 120 mėnesių darbo užmokesčio dydžio sumos.
 
