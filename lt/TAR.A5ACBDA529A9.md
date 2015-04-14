@@ -4,7 +4,7 @@ identifier: "TAR.A5ACBDA529A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-12-20"
-last_updated: "2015-01-01"
+last_updated: "2015-04-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 2 straipsnio 16 dalies 5 punkto, 40 stra
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-13
+Suvestinė redakcija nuo 2015-04-14 iki 2015-05-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
 
@@ -485,7 +485,11 @@ Nr. X-1110, 2007-05-03, Žin., 2007, Nr. 55-2126 (2007-05-19)
 
 2. Vieneto turtas skirstomas į ilgalaikį ir trumpalaikį. Vieneto ilgalaikis ir trumpalaikis turtas yra materialusis ir nematerialusis.
 
-3. Ilgalaikis turtas – tai turtas, kuris naudojamas vieneto pajamoms uždirbti (ekonominei naudai gauti) ar šio Įstatymo 26 straipsnio 2 dalyje nurodytai naudai teikti ilgiau kaip vienerius metus ir kurio įsigijimo kaina ne mažesnė už vieneto pagal šio Įstatymo 1 priedėlyje išvardytas ilgalaikio turto grupes nustatytą kainą. Šio turto įsigijimo kaina į vieneto sąnaudas įskaitoma dalimis per turto nusidėvėjimo arba amortizacijos laikotarpį. Vieneto tiesiogiai sumokėtos sumos Europos ekonominės erdvės valstybių ir užsienio valstybių, kurios nepriklauso Europos ekonominei erdvei, tačiau su kuriomis Lietuvos Respublika yra sudariusi dvigubo apmokestinimo išvengimo sutartis, mokymo įstaigoms už fizinių asmenų, kurie nėra susiję su šiuo vienetu darbo santykiais, mokymą, kurį baigę jie įgyja aukštesnįjį arba aukštąjį išsilavinimą ir (arba) kvalifikaciją, jeigu šis išsilavinimas ir (arba) kvalifikacija būtina vieneto pajamoms uždirbti, šiems fiziniams asmenims pradėjus dirbti vienete gali būti priskiriamos ilgalaikiam nematerialiajam turtui.
+3. Ilgalaikis turtas – tai turtas, kuris naudojamas vieneto pajamoms uždirbti (ekonominei naudai gauti) ar šio Įstatymo 26 straipsnio 2 dalyje nurodytai naudai teikti ilgiau kaip vienerius metus ir kurio įsigijimo kaina ne mažesnė už vieneto pagal šio Įstatymo 1 priedėlyje išvardytas ilgalaikio turto grupes nustatytą kainą. Šio turto įsigijimo kaina į vieneto sąnaudas įskaitoma dalimis per turto nusidėvėjimo arba amortizacijos laikotarpį. Vieneto tiesiogiai sumokėtos sumos Europos ekonominės erdvės valstybių ir užsienio valstybių, kurios nepriklauso Europos ekonominei erdvei, tačiau su kuriomis Lietuvos Respublika yra sudariusi dvigubo apmokestinimo išvengimo sutartis, mokykloms už fizinių asmenų, kurie nėra susiję su šiuo vienetu darbo santykiais, mokymą, kurį baigę jie įgyja aukštąjį išsilavinimą ir (arba) kvalifikaciją, jeigu šis išsilavinimas ir (arba) kvalifikacija būtina vieneto pajamoms uždirbti, šiems fiziniams asmenims pradėjus dirbti vienete gali būti priskiriamos ilgalaikiam nematerialiajam turtui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1583, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05699
 
 4. Trumpalaikis turtas – tai turtas, kuris gali būti naudojamas vieneto pajamoms uždirbti (ekonominei naudai gauti) ar šio Įstatymo 26 straipsnio 2 dalyje nurodytai naudai teikti trumpiau kaip vienerius metus, o jo įsigijimo kaina į vienetui leidžiamas atskaityti sąnaudas įskaitoma tą mokestinį laikotarpį, kurį šis turtas pradėtas naudoti.
 
@@ -1565,13 +1569,15 @@ Nr. XI-1716, 2011-11-22, Žin., 2011, Nr. 146-6852 (2011-12-01)
 
 Nr. X-1484, 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
 
-Įstatymas papildytas straipsniu nuo 2014-01-01:
-
 26 straipsnis. Išlaidos darbuotojų ir (arba) jų šeimos narių naudai, kuri nėra
 
 gyventojų pajamų mokesčio objektas
 
-1. Mokestiniu laikotarpiu iš pajamų gali būti atskaitomos vieneto tiesiogiai sumokėtos sumos Europos ekonominės erdvės valstybių ir užsienio valstybių, kurios nepriklauso Europos ekonominei erdvei, tačiau su kuriomis Lietuvos Respublika yra sudariusi dvigubo apmokestinimo išvengimo sutartis, mokymo įstaigoms už fizinių asmenų, susijusių su šiuo vienetu darbo santykiais, mokymą, kurį baigę jie įgyja aukštąjį išsilavinimą ir (arba) kvalifikaciją, jeigu šis išsilavinimas ir (arba) kvalifikacija būtini vieneto pajamoms uždirbti.
+1. Mokestiniu laikotarpiu iš pajamų gali būti atskaitomos vieneto tiesiogiai sumokėtos sumos Europos ekonominės erdvės valstybių ir užsienio valstybių, kurios nepriklauso Europos ekonominei erdvei, tačiau su kuriomis Lietuvos Respublika yra sudariusi dvigubo apmokestinimo išvengimo sutartis, mokykloms už fizinių asmenų, susijusių su šiuo vienetu darbo santykiais, mokymą, kurį baigę jie įgyja aukštąjį išsilavinimą ir (arba) kvalifikaciją, jeigu šis išsilavinimas ir (arba) kvalifikacija būtini vieneto pajamoms uždirbti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1583, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05699
 
 2. Jeigu teikiant naudą vieneto darbuotojams ir (arba) jų šeimos nariams (sutuoktiniams, vaikams (įvaikiams) neįmanoma nustatyti konkretaus darbuotojo ir (arba) jo šeimos nario (sutuoktinio, vaiko (įvaikio) gautos individualios naudos, dėl tokios naudos teikimo patirtos išlaidos, kurios pagal kitas šio Įstatymo nuostatas nėra priskiriamos leidžiamiems atskaitymams arba ribojamų dydžių leidžiamiems atskaitymams, mokestiniu laikotarpiu iš pajamų gali būti atskaitomos tik tuo atveju, kai tokios naudos teikimas numatytas vieneto kolektyvinėje sutartyje ir šia nauda be diskriminacijos ir apribojimų turi teisę naudotis visi to vieneto darbuotojai. Iš pajamų atskaitoma šioje dalyje nurodytų išlaidų suma negali viršyti 5 procentų per mokestinį laikotarpį darbuotojams apskaičiuoto darbo užmokesčio (nuo kurio skaičiuojamos valstybinio socialinio draudimo įmokos) sumos.
 
@@ -1734,8 +1740,6 @@ Straipsnio pakeitimai:
 Nr. XI-1716, 2011-11-22, Žin., 2011, Nr. 146-6852 (2011-12-01)
 
 Nr. XII-428, 2013-06-27, Žin., 2013, Nr. 75-3757 (2013-07-13)
-
-Įstatymas papildytas straipsniu nuo 2014-01-01:
 
 561 straipsnis. Mokestinių nuostolių perdavimas tarp vienetų grupės vienetų
 
