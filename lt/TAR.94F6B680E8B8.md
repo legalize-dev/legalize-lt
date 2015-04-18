@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2015-04-14"
+last_updated: "2015-04-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2015-04-14 iki 2015-04-17
+Suvestinė redakcija nuo 2015-04-18 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -80,6 +80,12 @@ Nr. XII-1140, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13461
 
 11. Tarpvalstybinė sveikatos priežiūra – kitoje Europos ekonominės erdvės valstybėje sveikatos priežiūros specialistų apdraustiesiems teikiamos asmens sveikatos priežiūros paslaugos, siekiant įvertinti, palaikyti ar pagerinti jų sveikatos būklę, taip pat vaistų, medicinos pagalbos priemonių ir medicinos prietaisų išrašymas ir išdavimas. Tarpvalstybinė sveikatos priežiūra neapima socialinių paslaugų ir patarnavimų, nepriskirtų asmens sveikatos priežiūrai, transplantacijai skirtų audinių, ląstelių ir (arba) organų paskirstymo bei gavimo ir skiepijimo paslaugų pagal gyventojų skiepijimo nuo užkrečiamųjų ligų programas.
 
+12. Užsienietis – kaip ši sąvoka apibrėžta Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1602, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05896
+
 Straipsnio pakeitimai:
 
 Nr. XI-98, 2008-12-22, Žin., 2008, Nr. 149-6022 (2008-12-30)
@@ -118,7 +124,11 @@ Privalomojo sveikatos draudimo draudiminiai įvykiai yra gydytojo diagnozuoti pr
 
 1) Lietuvos Respublikos piliečiai ir užsieniečiai, nuolat gyvenantys Lietuvos Respublikoje;
 
-2) laikinai Lietuvos Respublikoje gyvenantys užsieniečiai, jeigu jie teisėtai dirba Lietuvos Respublikoje, bei nepilnamečiai jų šeimos nariai;
+2) leidimą laikinai gyventi Lietuvos Respublikoje turintys užsieniečiai (išskyrus šios dalies 5 punkte nurodytus asmenis), kurie dirba Lietuvos Respublikoje arba kurie dirbo Lietuvos Respublikoje ne trumpiau kaip 6 mėnesius ir yra įsiregistravę Lietuvos Respublikos teritorinėse darbo biržose kaip bedarbiai, bei nepilnamečiai jų šeimos nariai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1602, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05896
 
 3) nelydimi nepilnamečiai užsieniečiai;
 
@@ -1113,6 +1123,12 @@ priedas
 2. 2011 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 2011/24/ES dėl pacientų teisių į tarpvalstybines sveikatos priežiūros paslaugas įgyvendinimo (OL 2011 L 88, p. 45).
 
 3. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/95/ES dėl trečiųjų šalių piliečių ar asmenų be pilietybės priskyrimo prie tarptautinės apsaugos gavėjų, vienodo statuso pabėgėliams arba papildomą apsaugą galintiems gauti asmenims ir suteikiamos apsaugos pobūdžio reikalavimų (OL 2011 L 337, p. 9).
+
+4. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių (OL 2011 L 343, p. 1).
+
+Papildyta punktu:
+
+Nr. XII-1602, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05896
 
 Pakeitimai:
 
