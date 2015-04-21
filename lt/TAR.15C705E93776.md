@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2015-04-14"
+last_updated: "2015-04-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2015-04-14 iki 2015-04-20
+Suvestinė redakcija nuo 2015-04-21 iki 2015-06-19
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
 
@@ -1801,7 +1801,11 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 64 straipsnis. Karių pašto siuntos, kelionių ir persikėlimo išlaidos
 
-1. Privalomąją pradinę karo tarnybą atliekančių karių pašto siuntos apmokamos iš Krašto apsaugos ministerijai šiems tikslams skirtų valstybės biudžeto lėšų.
+1. Neteko galios nuo 2015-04-21
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-1608, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06034
 
 2. Perkeliamiems į kitą vietovę profesinės karo tarnybos kariams apmokamos persikėlimo išlaidos pagal Vyriausybės arba jos įgaliotos institucijos nustatytas normas.
 
@@ -1813,17 +1817,11 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 6. Kelionės išlaidos atlyginamos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Kelionės nuosavu transportu vieno kilometro atlyginamų išlaidų dydį nustato Vyriausybė arba jos įgaliota institucija.
 
-7. Privalomosios pradinės tarnybos kariams iš Krašto apsaugos ministerijai skirtų lėšų apmokamos kelionės visų rūšių keleiviniu transportu (išskyrus taksi) išlaidos:
+7. Neteko galios nuo 2015-04-21
 
-1) vykti namo atostogų ir grįžti iš jų;
+Straipsnio dalies naikinimas:
 
-2) vykti į sveikatos priežiūros ar reabilitacijos įstaigą ir grįžti iš jos;
-
-3) vadams leidus, vykti lankyti sunkiai sergančių šeimos narių;
-
-4) vadams leidus, vykti į šeimos narių, globėjų ir pirmos eilės giminių laidotuves;
-
-5) grįžti namo išleistiesiems į atsargą.
+Nr. XII-1608, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06034
 
 8. Kariams savanoriams ir kitiems aktyviojo rezervo kariams, taip pat parengtojo rezervo kariams, pašauktiems į pratybas, mokymus ar vykdyti tarnybos užduočių, iš Krašto apsaugos ministerijai skirtų lėšų Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka atlyginamos kelionės išlaidos vykti į tarnybą ir grįžti iš jos, taip pat kelionės išlaidos vykdyti tarnybines pareigas.
 
@@ -1967,7 +1965,11 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 8. Neteko galios nuo 2011 m. liepos 1 d.
 
-9. Privalomosios pradinės karo tarnybos kariams, nuosavybės teise turintiems arba nuomojantiems valstybės ar savivaldybės gyvenamojo fondo butą (gyvenamąjį namą), taip pat mažas pajamas turinčioms privalomosios pradinės karo tarnybos karių šeimoms kario tarnybos metu Vyriausybės nustatyta tvarka ir sąlygomis iš Krašto apsaugos ministerijai valstybės biudžete numatytų asignavimų kompensuojama dalis buto (gyvenamojo namo) šilumos tiekimo ir su namo bendrosios dalinės nuosavybės išlaikymu susijusių išlaidų. Jei privalomosios pradinės karo tarnybos karys pateikia krašto apsaugos ministro nustatytos formos pažymą, pasirašytą karinio vieneto, kuriame jis tarnauja, vado, neskaičiuojami mokesčiai už komunalines paslaugas (šiukšlių išvežimą, liftą, bendro naudojimo patalpų ir teritorijos valymą ir kitas), kuriomis karys nesinaudoja.
+9. Neteko galios nuo 2015-04-21
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-1608, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06034
 
 Straipsnio pakeitimai:
 
