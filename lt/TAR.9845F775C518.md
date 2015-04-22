@@ -4,7 +4,7 @@ identifier: "TAR.9845F775C518"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-06-15"
-last_updated: "2015-01-01"
+last_updated: "2015-04-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9845F775C518"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-21
+Suvestinė redakcija nuo 2015-04-22 iki 2015-06-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 59-1916; Žin. 1999, Nr.60-0, i. k. 0991010ISTAIII-1227
 
@@ -387,7 +387,11 @@ Nr. XI-1600, 2011-09-22, Žin., 2011, Nr. 121-5706 (2011-10-08)
 
 1. Auditorių rūmai savo sprendimu sustabdo auditoriaus pažymėjimo galiojimą:
 
-1) šio įstatymo 39 straipsnio 1 dalies 2 punkte nustatytu atveju – iki bus pakartotinai išlaikytas (išlaikyti) nurodytas (nurodyti) egzaminas (egzaminai);
+1) šio įstatymo 38 straipsnio 2 dalies 3 punkte nustatytu atveju – iki bus pakartotinai išlaikytas (išlaikyti) nurodytas (nurodyti) egzaminas (egzaminai);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1612, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06059
 
 2) rašytiniu auditoriaus prašymu šio įstatymo 43 straipsnio 3 dalyje nustatytu atveju;
 
@@ -415,9 +419,17 @@ Nr. XI-1600, 2011-09-22, Žin., 2011, Nr. 121-5706 (2011-10-08)
 
 1. Auditorius netenka auditoriaus vardo Auditorių rūmų sprendimu:
 
-1) šio įstatymo 39 straipsnio 2 dalies 1 punkte nustatytu atveju;
+1) šio įstatymo 38 straipsnio 2 dalies 4 punkte nustatytu atveju;
 
-2) auditoriui pakartotinai neišlaikius šio įstatymo 39 straipsnio 1 dalies 2 punkte nurodyto (nurodytų) egzamino (egzaminų) ilgiau kaip per 3 metus nuo tokio nurodymo davimo dienos;
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1612, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06059
+
+2) auditoriui pakartotinai neišlaikius šio įstatymo 38 straipsnio 2 dalies 3 punkte nurodyto (nurodytų) egzamino (egzaminų) ilgiau kaip per 3 metus nuo tokio nurodymo davimo dienos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1612, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06059
 
 3) auditoriui per šio įstatymo 13 straipsnio 3 dalyje nustatytą terminą nepateikus Auditorių rūmams teisingų ir (arba) šio įstatymo 23 straipsnyje nustatytam auditorių sąrašui tvarkyti reikalingų duomenų;
 
@@ -593,7 +605,11 @@ Nr. XII-340, 2013-05-28, Žin., 2013, Nr. 62-3055 (2013-06-12)
 
 3) jei ji paskelbta bankrutuojančia arba likviduojama;
 
-4) šio įstatymo 39 straipsnio 2 dalies 2 punkte nurodytu atveju;
+4) šio įstatymo 38 straipsnio 2 dalies 5 punkte nurodytu atveju;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1612, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06059
 
 5) jei ji per šio įstatymo 21 straipsnio 2 dalyje nustatytą terminą nepateikė Auditorių rūmams reikalingų ir (arba) teisingų duomenų, kaip nustatyta šio įstatymo 24 straipsnyje, ir informacijos, kaip nustatyta šio įstatymo 30 straipsnio 6 punkte, ar nesumokėjo atskaitymų, kaip nustatyta šio įstatymo 60 straipsnio 2 dalyje;
 
@@ -901,7 +917,11 @@ AUDITORIŲ IR AUDITO ĮMONIŲ ATLIKTO AUDITO KOKYBĖS UŽTIKRINIMAS IR TYRIMAS
 
 4) nagrinėja ir tvirtina auditorių kontrolierių atliktų peržiūrų ataskaitas;
 
-5) jei peržiūros metu nustatyta audito atlikimo kokybės trūkumų, teikia Įstaigai įvertinti siūlomą sprendimą ir, gavę Įstaigos įvertinimą dėl siūlomo sprendimo šio įstatymo 37 straipsnio 3 dalyje nustatyta tvarka, turi teisę skirti šio įstatymo 39 straipsnio 1 dalyje nurodytas drausmines nuobaudas ir duoti šio įstatymo 38 straipsnyje nurodytus privalomus vykdyti nurodymus;
+5) jei peržiūros metu nustatyta audito atlikimo kokybės trūkumų, teikia Įstaigai įvertinti siūlomą sprendimą ir, gavę Įstaigos įvertinimą dėl siūlomo sprendimo šio įstatymo 37 straipsnio 3 dalyje nustatyta tvarka, turi teisę skirti šio įstatymo 38 straipsnio 2 dalies 1 ar 3 punkte nurodytas drausmines nuobaudas ir (ar) duoti šio įstatymo 38 straipsnio 1 dalyje nurodytus privalomus vykdyti nurodymus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1612, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06059
 
 6) jei peržiūros metu nustatomi reikšmingi audito atlikimo trūkumai, kreipiasi į Įstaigą dėl auditoriaus ir (arba) audito įmonės atlikto audito tyrimo inicijavimo.
 
@@ -1025,7 +1045,11 @@ Nr. XII-340, 2013-05-28, Žin., 2013, Nr. 62-3055 (2013-06-12)
 
 7) gauti iš Auditorių rūmų siūlomus sprendimus dėl atliktos audito kokybės peržiūros ir teikti jų įvertinimus;
 
-8) atlikusi tyrimą, duoti šio įstatymo 38 straipsnyje nustatytus nurodymus ir skirti šio įstatymo 39 straipsnyje nurodytas drausmines nuobaudas;
+8) atlikusi tyrimą, duoti šio įstatymo 38 straipsnio 1 dalyje nurodytus nurodymus ir (ar) skirti šio įstatymo 38 straipsnio 2 dalyje nurodytas drausmines nuobaudas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1612, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06059
 
 9) dalyvauti atliekant audito kokybės peržiūras.
 
@@ -1041,7 +1065,11 @@ Nr. XII-340, 2013-05-28, Žin., 2013, Nr. 62-3055 (2013-06-12)
 
 5) gauti iš kitų asmenų audito kokybei užtikrinti reikalingą informaciją;
 
-6) gavę Įstaigos įvertinimą dėl siūlomo sprendimo, tvirtinti atlikto audito kokybės peržiūros ataskaitas, įskaitant sprendimą duoti šio įstatymo 38 straipsnyje nustatytus nurodymus, ir skirti šio įstatymo 39 straipsnio 1 dalyje nurodytas drausmines nuobaudas arba kreiptis į Įstaigą dėl tyrimo atlikimo.
+6) gavę Įstaigos įvertinimą dėl siūlomo sprendimo, tvirtinti atlikto audito kokybės peržiūros ataskaitas, įskaitant sprendimą duoti šio įstatymo 38 straipsnio 1 dalyje nurodytus nurodymus, ir skirti šio įstatymo 38 straipsnio 2 dalies 1 ar 3 punkte nurodytas drausmines nuobaudas arba kreiptis į Įstaigą dėl tyrimo atlikimo.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1612, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06059
 
 3. Įstaiga privalo pateikti savo įvertinimą dėl siūlomo sprendimo, nurodyto šio įstatymo 34 straipsnio 7 dalies 5 punkte, ir:
 
@@ -1061,43 +1089,57 @@ Nr. XI-1600, 2011-09-22, Žin., 2011, Nr. 121-5706 (2011-10-08)
 
 Nr. XII-951, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09156
 
-38 straipsnis. Nurodymai auditoriams ir audito įmonėms
+38 straipsnis. Nurodymai ir drausminės nuobaudos auditoriams ir audito įmonėms
 
-1. Auditorių rūmai, išnagrinėję ir tvirtindami atlikto audito kokybės peržiūros ataskaitą, arba Įstaiga, atlikusi tyrimą, gali:
+1. Auditoriams ir audito įmonėms gali būti skiriami šie nurodymai:
 
-1) nurodyti auditoriui arba audito įmonei ištaisyti nustatytus trūkumus per nurodytą terminą;
+1) pavesti auditoriui ir (arba) audito įmonei ištaisyti nustatytus trūkumus per nurodytą terminą;
 
-2) nurodyti auditoriui papildomai kelti profesinę kvalifikaciją (nustatyti valandų skaičių ir nurodyti terminą). Šis nurodymas gali būti skirtas kartu su šio įstatymo 39 straipsnio 1 dalyje nurodyta drausmine nuobauda arba be jos.
+2) pavesti auditoriui papildomai kelti profesinę kvalifikaciją (nustatyti valandų skaičių ir nurodyti terminą).
 
-2. Auditorių rūmai tikrina, kaip auditorius ir (arba) audito įmonė vykdo šio straipsnio 1 dalyje nustatytus nurodymus. Kaip vykdomi šie nurodymai, Auditorių rūmai informuoja Įstaigą su ja suderinta tvarka.
+2. Auditoriams ir audito įmonėms gali būti skiriamos šios drausminės nuobaudos:
+
+1) pareikšti auditoriui ir (arba) audito įmonei įspėjimą;
+
+2) sustabdyti auditoriaus ir (arba) audito įmonės pažymėjimo galiojimą ne ilgesniam negu 3 metų laikotarpiui;
+
+3) sustabdyti auditoriaus pažymėjimo galiojimą ir pavesti auditoriui perlaikyti vieną ar kelis kvalifikacinius egzaminus, nurodytus šio įstatymo 11 straipsnyje, per ne ilgesnį negu 3 metų laikotarpį;
+
+4) panaikinti auditoriaus vardą;
+
+5) atimti iš audito įmonės audito įmonės pažymėjimą ir išbraukti audito įmonę iš audito įmonių sąrašo.
+
+3. Auditorių rūmai tikrina, kaip auditorius ir (arba) audito įmonė vykdo šio straipsnio 1 dalyje nustatytus nurodymus, ir apie tai informuoja Įstaigą su ja suderinta tvarka.
+
+4. Šiame straipsnyje numatyti nurodymai ir drausminės nuobaudos gali būti skiriami ne vėliau kaip per 7 metus, o viešojo intereso įmonių atlikto audito atveju – ne vėliau kaip per 4 metus nuo auditoriaus išvados pateikimo datos.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1600, 2011-09-22, Žin., 2011, Nr. 121-5706 (2011-10-08)
 
-39 straipsnis. Drausminės nuobaudos
+Straipsnio pakeitimai:
 
-1. Jeigu auditorius ir (arba) audito įmonė nevykdo šio įstatymo 38 straipsnyje nustatytų nurodymų arba atlikus auditoriaus ir audito įmonės atlikto audito kokybės peržiūrą ir pakartotinai nustačius ankstesnių peržiūrų metu nustatytus kokybės trūkumus, arba atlikus tyrimą ir paaiškėjus audito atlikimo trūkumams, Auditorių rūmai arba Įstaiga gali skirti vieną iš šių nuobaudų:
+Nr. XII-1612, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06059
 
-1) auditoriui arba audito įmonei pareikšti įspėjimą;
+39 straipsnis. Nurodymų ir drausminių nuobaudų auditoriams ir audito įmonėms skyrimo ir informavimo tvarka
 
-2) nurodyti Auditorių rūmams sustabdyti auditoriaus pažymėjimo galiojimą ir pavesti auditoriui perlaikyti vieną ar kelis kvalifikacinius egzaminus, nurodytus šio įstatymo 11 straipsnyje, per ne ilgesnį negu 3 metų laikotarpį.
+1. Atlikus auditoriaus ir audito įmonės atlikto audito kokybės peržiūrą ir paaiškėjus atlikto audito kokybės trūkumams, Auditorių rūmai, atsižvelgdami į trūkumų reikšmingumą, gali priimti sprendimą skirti vieną ar abu šio įstatymo 38 straipsnio 1 dalyje nurodytus nurodymus, o pakartotinai nustačius ankstesnių peržiūrų metu nustatytus kokybės trūkumus arba jeigu auditorius ir (arba) audito įmonė nevykdo skirtų nurodymų, – ir šio įstatymo 38 straipsnio 2 dalies 1 ar 3 punkte nurodytas drausmines nuobaudas.
 
-2. Atlikto audito tyrimą atlikusi ir konstatavusi reikšmingus audito atlikimo trūkumus, Įstaiga gali skirti auditoriui ir (arba) audito įmonei vieną iš šių nuobaudų:
+2. Atlikus auditoriaus ir audito įmonės atlikto audito tyrimą ir paaiškėjus atlikto audito atlikimo trūkumams, Įstaiga, atsižvelgdama į trūkumų reikšmingumą, gali priimti sprendimą skirti vieną ar abu šio įstatymo 38 straipsnio 1 dalyje nurodytus nurodymus ir (ar) vieną iš šio įstatymo 38 straipsnio 2 dalyje nurodytų nuobaudų. Jeigu auditorius ir (arba) audito įmonė nevykdo skirtų nurodymų, Įstaiga gali skirti vieną iš šio įstatymo 38 straipsnio 2 dalyje nurodytų drausminių nuobaudų.
 
-1) priimti sprendimą nurodyti Auditorių rūmams panaikinti auditoriaus vardą;
+3. Apie priimtą sprendimą jį priėmę Auditorių rūmai ar Įstaiga privalo per 10 darbo dienų nuo atitinkamo sprendimo priėmimo dienos raštu pranešti auditoriui ir (arba) audito įmonei, o jeigu nuobaudos buvo skirtos viešojo intereso įmones audituojantiems auditoriams ir (arba) audito įmonėms, – ir Lietuvos bankui. Informacija apie paskirtas nuobaudas skelbiama auditorių ir audito įmonių sąrašuose kitą darbo dieną pasibaigus šio įstatymo 40 straipsnyje nustatytam terminui.
 
-2) priimti sprendimą nurodyti Auditorių rūmams atimti audito įmonės pažymėjimą ir išbraukti audito įmonę iš audito įmonių sąrašo.
-
-3. Apie priimtą sprendimą jį priėmę Auditorių rūmai ar Įstaiga privalo per 10 darbo dienų nuo atitinkamo sprendimo priėmimo dienos raštu pranešti auditoriui ir (arba) audito įmonei, o jei nuobaudos buvo skirtos viešojo intereso įmones audituojantiems auditoriams ir (arba) audito įmonėms, – ir Lietuvos bankui. Informacija apie paskirtas nuobaudas paskelbiama auditorių ir audito įmonių sąrašuose pasibaigus šio įstatymo 40 straipsnyje nustatytam terminui.
-
-4. Šio straipsnio 1 dalies 1 punkte nurodytos drausminės nuobaudos galioja vienus metus.
+4. Šio įstatymo 38 straipsnio 2 dalies 1 punkte nurodyta drausminė nuobauda galioja vienus metus.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1600, 2011-09-22, Žin., 2011, Nr. 121-5706 (2011-10-08)
 
 Nr. XI-1707, 2011-11-17, Žin., 2011, Nr. 146-6851 (2011-12-01)
+
+Straipsnio pakeitimai:
+
+Nr. XII-1612, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06059
 
 40 straipsnis. Auditorių rūmų ir Įstaigos sprendimų apskundimo tvarka
 
@@ -1185,7 +1227,11 @@ Nr. XII-340, 2013-05-28, Žin., 2013, Nr. 62-3055 (2013-06-12)
 
 4) stebi, kaip verčiami Buhalterių profesionalų etikos kodeksas, tarptautiniai audito standartai ir Tarptautinis kokybės kontrolės standartas į lietuvių kalbą, ir prireikus imasi veiksmų, kad būtų garantuotas jų tinkamos kokybės vertimas laiku;
 
-5) kartu su Auditorių rūmais įgyvendina auditorių ir audito įmonių atlikto audito kokybės užtikrinimą, atlieka tyrimus, skiria šio įstatymo 39 straipsnio 1 ir 2 dalyse nustatytas nuobaudas ir duoda šio įstatymo 38 straipsnyje nustatytus nurodymus, įvertina Auditorių rūmų siūlomus sprendimus dėl šių nuobaudų ar nurodymų skyrimo arba neskyrimo šio įstatymo 37 straipsnio 3 dalyje nustatyta tvarka;
+5) kartu su Auditorių rūmais įgyvendina auditorių ir audito įmonių atlikto audito kokybės užtikrinimą, atlieka tyrimus, skiria šio įstatymo 38 straipsnio 2 dalyje nurodytas nuobaudas ir (ar) duoda šio įstatymo 38 straipsnio 1 dalyje nurodytus nurodymus, įvertina Auditorių rūmų siūlomus sprendimus dėl šių nuobaudų ar nurodymų skyrimo arba neskyrimo šio įstatymo 37 straipsnio 3 dalyje nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1612, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06059
 
 6) nedelsdama perduoda Lietuvos bankui, Finansų ministerijai, valstybių narių ir valstybių ne narių kompetentingoms institucijoms informaciją, taip pat konfidencialią, reikalingą jų priežiūros funkcijoms atlikti. Iš valstybių narių ir valstybių ne narių atitinkamų institucijų gautą informaciją, taip pat konfidencialią, naudoja tik audito viešajai priežiūrai atlikti;
 
@@ -1670,6 +1716,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1127, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13618
 
 Lietuvos Respublikos audito įstatymo Nr. VIII-1227 20 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1612, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06059
+
+Lietuvos Respublikos audito įstatymo Nr. VIII-1227 13, 14, 22, 34, 37, 38, 39 ir 44 straipsnių pakeitimo įstatymas
 
 63 straipsnis. Auditorių rūmų
 
