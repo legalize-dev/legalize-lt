@@ -4,7 +4,7 @@ identifier: "TAR.1FD5C3A4D10A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-10-14"
-last_updated: "2015-01-01"
+last_updated: "2015-04-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-21
+Suvestinė redakcija nuo 2015-04-22 iki 2015-10-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 102-4585, i. k. 1031010ISTA0IX-1768
 
@@ -74,6 +74,18 @@ Nr. XII-1144, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13456
 2) teisės gauti subsidijas, išmokas ar kitą valstybės pagalbą, įskaitant Europos Sąjungos struktūrinių fondų paramą ir kitą paramą, išskyrus tiesioginę Europos Sąjungos paramą, atėmimas iki 5 metų Lietuvos Respublikos Vyriausybės nustatyta tvarka;
 
 3) įpareigojimas Lietuvos Respublikos Vyriausybės nustatyta tvarka sugrąžinti tam tikrą dalį arba visas per 12 mėnesių laikotarpį iki nelegalaus darbo nustatymo suteiktų subsidijų, išmokų ar kitos valstybės pagalbos, įskaitant Europos Sąjungos struktūrinių fondų paramą ir kitą paramą, išskyrus tiesioginę Europos Sąjungos paramą, lėšas.
+
+10. Už šio straipsnio 3 dalyje nurodytų piniginių įpareigojimų įvykdymą nelegaliai Lietuvos Respublikoje esančiam trečiosios šalies piliečiui ir šio straipsnio 1 dalyje ir (ar) Lietuvos Respublikos administracinių teisės pažeidimų kodekso 413 straipsnyje nurodytų baudų sumokėjimą rangovas, kai darbdavys yra subrangovas, atsako subsidiariai, išskyrus šio straipsnio 11 dalyje nurodytą atvejį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1617, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06061
+
+11. Rangovui, kai darbdavys yra subrangovas, kuris pasinaudojo Lietuvos Respublikos darbo kodekso 981 straipsnio 2 dalyje įtvirtinta teise, arba kai subrangovas, kuris yra darbdavys, neįvykdė Lietuvos Respublikos darbo kodekso 981 straipsnio 1 dalies 5 punkte nurodytos pareigos, nekyla subsidiari atsakomybė už šio straipsnio 3 dalyje nurodytų piniginių įpareigojimų įvykdymą nelegaliai Lietuvos Respublikoje esančiam trečiosios šalies piliečiui ir už šio straipsnio 1 dalyje ir (ar) Lietuvos Respublikos administracinių teisės pažeidimų kodekso 413 straipsnyje nurodytų baudų sumokėjimą, išskyrus atvejus, kai rangovas žinojo, kad dokumentas, suteikiantis teisę būti ar gyventi Lietuvos Respublikoje, buvo suklastotas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1617, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06061
 
 PENKTASIS SKIRSNIS
 
