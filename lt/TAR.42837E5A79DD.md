@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2015-03-01"
+last_updated: "2015-04-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2015-03-01 iki 2015-04-27
+Suvestinė redakcija nuo 2015-04-28 iki 2015-08-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
 
@@ -2380,11 +2380,13 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 6. Vizos turėjimas automatiškai nesuteikia teisės atvykti į Lietuvos Respubliką.
 
-7. Į Lietuvos Respublikos jūrų uostus atplaukusių laivų įgulų nariams, taip pat jūrininkams, atvykusiems į laivą vizos galiojimo laiku ir įtrauktiems į laivo įgulos sąrašą, leidžiama be vizos išlipti į krantą Lietuvos Respublikoje ir būti savivaldybės, į kurią įplaukia jų laivas, teritorijoje, bet ne ilgiau kaip 90 dienų.
+7. Į Lietuvos Respublikos jūrų uostus atplaukusių laivų civiliams įgulų nariams, kurie turi jūrininko tapatybės dokumentus, išduotus vadovaujantis Tarptautinės darbo organizacijos konvencijomis – 1958 m. gegužės 13 d. Konvencija Nr. 108 dėl jūreivių nacionalinių asmens pažymėjimų arba 2003 m. birželio 16 d. Konvencija Nr. 185 dėl jūrininkų nacionalinių asmens pažymėjimų (pataisyta) – arba 1965 m. balandžio 9 d. Tarptautinės jūrų organizacijos konvencija dėl tarptautinės jūrų laivybos sąlygų lengvinimo, taip pat civiliams jūrininkams, kurie atvyko į laivą vizos galiojimo laiku ir yra įtraukti į laivo įgulos sąrašą ir kurie turi šioje dalyje nurodytus jūrininko tapatybės dokumentus, leidžiama be vizos išlipti į krantą Lietuvos Respublikoje ir būti savivaldybės, į kurią įplaukia jų laivas, teritorijoje tol, kol laivas stovi uoste, bet ne ilgiau kaip šešis mėnesius.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
+
+Nr. XII-1611, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06355
 
 Straipsnio pakeitimas:
 
@@ -3731,4 +3733,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1611, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06355
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 11 straipsnio pakeitimo įstatymas
 
