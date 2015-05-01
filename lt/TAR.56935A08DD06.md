@@ -4,7 +4,7 @@ identifier: "TAR.56935A08DD06"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-13"
-last_updated: "2010-12-28"
+last_updated: "2015-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.56935A08DD06"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos jūros aplinkos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2010-12-28 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2016-07-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2731, i. k. 0971010ISTAVIII-512
 
@@ -68,7 +68,11 @@ BENDROSIOS NUOSTATOS
 
 6. Jūros aplinka – gyvosios ir negyvosios gamtos elementai, esantys jūroje, virš jūros ir žemės gelmėse po jūra (oras, vanduo, dugnas ir žemės gelmės po jūros dugnu, jų gamtos ištekliai).
 
-7. Jūros aplinkos būklė – jūros ekosistemų struktūra, funkcijos ir procesai, natūralios ir dėl žmogaus veiklos tam tikroje akvatorijoje ar už jos ribų susidarančios geomorfologinės, geografinės, biologinės, geologinės, klimatinės, fizinės, akustinės ir cheminės sąlygos.
+7. Jūros aplinkos būklė – bendra Lietuvos Respublikos jūros rajono būklė, apimanti ekosistemų struktūrą, funkcijas ir procesus, natūralias ir dėl žmogaus veiklos tame rajone ar už jo ribų susidarančias geomorfologines, geografines, biologines, geologines, klimatines, fizines, akustines ir chemines sąlygas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1656, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06590
 
 8. Jūros aplinkos apsaugos tikslai – kokybiniai ar kiekybiniai teiginiai apie pageidautiną įvairių jūros aplinkos komponentų būklę, pavojus ir poveikį, kuriais vadovaujantis siekiama geros jūros aplinkos būklės. Šie tikslai nustatomi remiantis atliktu jūros aplinkos būklės įvertinimu ir atsižvelgiant į šio įstatymo 1 priedo 2 lentelėje nurodytus pavojus ir poveikį.
 
@@ -499,6 +503,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1205, 2010-12-07, Žin., 2010, Nr. 153-7780 (2010-12-28), i. k. 1101010ISTA0XI-1205
 
 Lietuvos Respublikos jūros aplinkos apsaugos įstatymo pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1656, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06590
+
+Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 3 straipsnio pakeitimo įstatymas
 
 35 straipsnis. Pasirengimas likviduoti teršimo incidentus
 
