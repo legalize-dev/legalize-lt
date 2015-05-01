@@ -4,7 +4,7 @@ identifier: "TAR.EBB4FD337ADE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-22"
-last_updated: "2011-11-18"
+last_updated: "2015-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EBB4FD337ADE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS FINANSINIO TVARUMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2011-11-18 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2015-12-02
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 93-3985, i. k. 1091010ISTA00XI-393
 
@@ -272,11 +272,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XI-1713, 2011-11-17, Žin., 2011, Nr. 139-6553 (2011-11-18), i. k. 1111010ISTA0XI-1713
 
-3. Kai valstybė steigia laikinąjį banką, įsigyja banko akcijas ar jas paima visuomenės poreikiams, Bankų įstatymo 5 straipsnio 2–8 dalių, 6 straipsnio 3 dalies, 8 straipsnio, 23 straipsnio 1 dalies, 24, 25 straipsnių ir 41 straipsnio 3, 4 ir 8 dalių nuostatos netaikomos.
+3.  Kai valstybė steigia laikinąjį banką, įsigyja banko akcijas ar jas paima visuomenės poreikiams, Bankų įstatymo 5 straipsnio 2–8 dalių,  24, 25 straipsnių ir 41 straipsnio 3, 4 ir 8 dalių nuostatos netaikomos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1713, 2011-11-17, Žin., 2011, Nr. 139-6553 (2011-11-18), i. k. 1111010ISTA0XI-1713
+
+Nr. XII-1550, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04831
 
 4. Kai valstybė įsigyja banko akcijas, Vertybinių popierių įstatymo ketvirtojo skirsnio nuostatos netaikomos.
 
@@ -311,6 +313,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1713, 2011-11-17, Žin., 2011, Nr. 139-6553 (2011-11-18), i. k. 1111010ISTA0XI-1713
 
 Lietuvos Respublikos finansinio tvarumo įstatymo 2, 4, 11, 14 straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir papildymo ir Įstatymo papildymo 7-1 ir 13-1 straipsniais įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1550, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04831
+
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 14 straipsnio pakeitimo įstatymas
 
 71 straipsnis. Laikinojo banko įsteigimas
 
