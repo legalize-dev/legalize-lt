@@ -4,7 +4,7 @@ identifier: "TAR.85C510BA700A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-15"
-last_updated: "2015-01-01"
+last_updated: "2015-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.85C510BA700A"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
 
@@ -102,17 +102,47 @@ BENDROSIOS NUOSTATOS
 
 12. Registro valdytojas – ministerija ar kita valstybės institucija ar valstybės įstaiga, kurios valdymo ar veiklos sričiai priskirtas registras ir kuri metodiškai vadovauja registro tvarkytojui ir koordinuoja registro funkcionavimą.
 
-13. Valstybės informacinė sistema – valstybės institucijai (institucijoms) ar valstybės įstaigai (įstaigoms) teisės aktų nustatytoms funkcijoms, išskyrus vidaus administravimą, atlikti reikalingą informaciją apdorojanti teisinių, organizacinių, techninių ir programinių priemonių visuma.
+13. Saugus valstybinis duomenų perdavimo tinklas – elektroninių ryšių tinklas, atskirtas ir apsaugotas nuo viešųjų elektroninių ryšių tinklų (interneto) bei neteikiamas viešai, skirtas visoms Lietuvos Respublikos valstybės ir savivaldybių institucijoms, įstaigoms ir įmonėms bei kitiems juridiniams asmenims, kuriuo jie gali saugiai teikti duomenis, bendradarbiauti su Europos Sąjungos institucijomis, užtikrinant duomenų mainų dalyvių tapatybės nustatymą, perduodamų duomenų konfidencialumą, vientisumą ir prieinamumą.
 
-14. Valstybės informacinės sistemos valdytojas – ministerija ar kita valstybės institucija ar valstybės įstaiga, kuri nustato valstybės informacinės sistemos tikslus ir valdo valstybės informacinę sistemą.
+Papildyta straipsnio dalimi:
 
-15. Valstybės informacinės sistemos tvarkytojas – juridinis asmuo, pagal valstybės informacinės sistemos nuostatus įgaliotas tvarkyti informacinės sistemos duomenis ir atsakyti už jų saugą.
+Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
 
-16. Valstybės informaciniai ištekliai – informacijos, kurią valdo institucijos, atlikdamos teisės aktų nustatytas funkcijas, apdorojamos informacinių technologijų priemonėmis, ir ją apdorojančių informacinių technologijų priemonių visuma.
+14. Valstybės informacinė sistema – valstybės institucijai (institucijoms) ar valstybės įstaigai (įstaigoms) teisės aktų nustatytoms funkcijoms, išskyrus vidaus administravimą, atlikti reikalingą informaciją apdorojanti teisinių, organizacinių, techninių ir programinių priemonių visuma.
 
-17. Valstybės informacinių išteklių valdymas – valstybės informacinių išteklių kūrimo, tvarkymo, plėtros tikslų nustatymas, jų tvarkymo ir priežiūros organizavimas ir kontrolė, valstybės tarnautojų ir (arba) darbuotojų, dirbančių pagal darbo ar karo tarnybos sutartis, informacinių technologijų priemonėmis apdorojančių informaciją, dokumentus ir (arba) jų kopijas, veiklos organizavimas ir priežiūra.
+Straipsnio dalies numeracijos pakeitimas:
 
-18. Valstybės informacinių sistemų ar registrų sąveika – abipusis valstybės informacinių sistemų ar registrų veikimas – duomenų perdavimas ir jų naudojimas.
+Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
+
+15. Valstybės informacinės sistemos valdytojas – ministerija ar kita valstybės institucija ar valstybės įstaiga, kuri nustato valstybės informacinės sistemos tikslus ir valdo valstybės informacinę sistemą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
+
+16. Valstybės informacinės sistemos tvarkytojas – juridinis asmuo, pagal valstybės informacinės sistemos nuostatus įgaliotas tvarkyti informacinės sistemos duomenis ir atsakyti už jų saugą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
+
+17. Valstybės informaciniai ištekliai – informacijos, kurią valdo institucijos, atlikdamos teisės aktų nustatytas funkcijas, apdorojamos informacinių technologijų priemonėmis, ir ją apdorojančių informacinių technologijų priemonių visuma.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
+
+18. Valstybės informacinių išteklių valdymas – valstybės informacinių išteklių kūrimo, tvarkymo, plėtros tikslų nustatymas, jų tvarkymo ir priežiūros organizavimas ir kontrolė, valstybės tarnautojų ir (arba) darbuotojų, dirbančių pagal darbo ar karo tarnybos sutartis, informacinių technologijų priemonėmis apdorojančių informaciją, dokumentus ir (arba) jų kopijas, veiklos organizavimas ir priežiūra.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
+
+19. Valstybės informacinių sistemų ar registrų sąveika – abipusis valstybės informacinių sistemų ar registrų veikimas – duomenų perdavimas ir jų naudojimas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
 
 4 straipsnis. Vyriausybės kompetencija
 
@@ -172,7 +202,17 @@ Vyriausybė:
 
 8) nustato informacijos svarbos įvertinimo, valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo pagal jose apdorojamos informacijos svarbą kriterijus ir jų priskyrimo atitinkamai kategorijai tvarką;
 
-9) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+9) valdo Saugų valstybinį duomenų perdavimo tinklą ir skiria jo tvarkytoją;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
+
+10) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
 
 Straipsnio dalies pakeitimai:
 
@@ -922,7 +962,11 @@ Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
 
 5. Fizinių asmenų asmens duomenų saugumas užtikrinamas vadovaujantis Asmens duomenų teisinės apsaugos įstatymu.
 
-6. Duomenys tarp institucijų teikiami saugiais elektroninių ryšių tinklais. Elektroninių ryšių tinklo saugumo lygio reikalavimus nustato Vyriausybė.
+6. Duomenys tarp institucijų teikiami saugiais elektroninių ryšių tinklais. Elektroninių ryšių tinklo saugumo lygio reikalavimus nustato Vyriausybė. Atlyginimo už naudojimąsi Saugiu valstybiniu duomenų perdavimo tinklu dydį pagal Vyriausybės patvirtintus kriterijus nustato vidaus reikalų ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
 
 44 straipsnis. Saugos įgaliotinis
 
