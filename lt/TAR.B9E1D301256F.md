@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2015-03-01"
+last_updated: "2015-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2015-03-01 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2015-06-30
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
 
@@ -221,7 +221,7 @@ BENDROSIOS NUOSTATOS
 
 9) nuosavybės teise priklausančias cigaretes, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas ir (arba) kurios iki naujo akcizų tarifo įsigaliojimo dienos buvo išleistos į laisvą apyvartą, naujo akcizų tarifo įsigaliojimo dieną asmenims, teisės aktų nustatyta tvarka turintiems teisę verstis didmenine prekyba tabako gaminiais. Ši nuostata taikoma tik tais atvejais, kai įsigaliojęs naujas akcizų tarifas yra didesnis už iki tol galiojusį akcizų tarifą, ir tik cigaretėms, laikomoms licencijose verstis didmenine prekyba tabako gaminiais nurodytuose padaliniuose (sandėliuose, filialuose ir pan.), iš kurių vyksta didmeninė prekyba tabako gaminiais ir (arba) kuriuose šie gaminiai laikomi;
 
-10) akcizais apmokestinamas prekes, kurioms šio įstatymo 37 straipsnio 2 ar 3 dalyje arba 38 straipsnio 2 dalyje nustatyta tvarka buvo pritaikytos nurodytose dalyse nustatytos akcizų lengvatos, tačiau kurios buvo panaudotos kitiems negu šiose dalyse nurodytiems tikslams.
+10) akcizais apmokestinamas prekes, kurioms šio įstatymo 37 straipsnio 2 ar 3 dalyje arba 38 straipsnio 2 dalyje nustatyta tvarka buvo pritaikytos nurodytose dalyse nustatytos akcizų lengvatos, tačiau kurios buvo panaudotos kitiems negu šiose dalyse nurodytiems tikslams;
 
 2. Be šio straipsnio 1 dalyje nurodytų atvejų, prievolė mokėti akcizus atsiranda už Lietuvos Respublikoje importuojamas (įskaitant neteisėto importo atvejus) akcizais apmokestinamas prekes, išskyrus importuojamas akcizais apmokestinamas prekes, registruoto siuntėjo išgabentas į bet kurią šio įstatymo 14 straipsnio 1 dalyje ir 15 straipsnio 1 dalyje nurodytą paskirties vietą, taip pat importuojamas akcizais apmokestinamas prekes, nugabenamas į akcizais apmokestinamų prekių sandėlį. Importuotų akcizais apmokestinamų prekių, registruoto siuntėjo išgabentų į šio įstatymo 14 straipsnio 1 dalyje ir 15 straipsnio 1 dalyje nurodytas paskirties vietas, taip pat importuotų akcizais apmokestinamų prekių nugabenimo į akcizais apmokestinamų prekių sandėlį tvarką nustato Vyriausybė ar jos įgaliota institucija. Laikoma, kad akcizais apmokestinamos prekės importuojamos Lietuvos Respublikoje, kai:
 
@@ -1229,7 +1229,17 @@ ENERGINIAI PRODUKTAI, KURIEMS TAIKOMI LIETUVOS RESPUBLIKOS AKCIZŲ ĮSTATYMO REI
 
 6. KN 1507–1518, 3824 90 99 pozicijose klasifikuojami produktai, jeigu jie skirti naudoti kaip variklių degalai ar kaip šildymui skirtas kuras.
 
-7. Bet kuris kitas energinis produktas, kuriam Europos Komisija, vadovaudamasi procedūromis, nustatytomis atitinkamose Tarybos direktyvose, nusprendė taikyti akcizais apmokestinamų prekių kontrolės ir gabenimo tarp valstybių narių reikalavimus.
+7. KN 3811 11 10, 3811 11 90, 3811 19 00 ir 3811 90 00 subpozicijose klasifikuojami produktai.
+
+Papildyta punktu:
+
+Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
+
+8. Bet kuris kitas energinis produktas, kuriam Europos Komisija, vadovaudamasi procedūromis, nustatytomis atitinkamose Tarybos direktyvose, nusprendė taikyti akcizais apmokestinamų prekių kontrolės ir gabenimo tarp valstybių narių reikalavimus.
+
+Punkto numeracijos pakeitimas:
+
+Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 Lietuvos Respublikos
 
@@ -1270,6 +1280,12 @@ akcizų įstatymo
 12. 2009 m. liepos 24 d. Komisijos reglamentas (EB) Nr. 684/2009, kuriuo įgyvendinamos Tarybos direktyvos 2008/118/EB nuostatos, susijusios su akcizais apmokestinamų prekių, kurioms pritaikytas akcizų mokėjimo laikino atidėjimo režimas, gabenimo kompiuterinėmis procedūromis (OL 2009 L 197, p. 24).
 
 13. 2011 m. birželio 21 d. Tarybos direktyva 2011/64/ES dėl akcizų, taikomų apdorotam tabakui, struktūros ir tarifų (OL 2011 L 176, p. 24).
+
+14. 2012 m. balandžio 20 d. Komisijos įgyvendinimo sprendimas Nr. 2012/209/ES dėl Tarybos direktyvos 2008/118/EB kontrolės ir judėjimo nuostatų taikymo tam tikriems priedams, vadovaujantis Tarybos direktyvos 2003/96/EB 20 straipsnio 2 dalimi (OL 2012 L 110, p. 41).
+
+Papildyta punktu:
+
+Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 3 priedo pakeitimai:
 
