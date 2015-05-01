@@ -4,7 +4,7 @@ identifier: "TAR.9E5C5C16B6E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-18"
-last_updated: "2015-01-01"
+last_updated: "2015-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2015-05-27
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
 
@@ -308,7 +308,11 @@ DIDMENINĖS IR MAŽMENINĖS PREKYBOS ALKOHOLIO PRODUKTAIS VALSTYBINIS REGLAMENTA
 
 3. Mažmenine prekyba alkoholiniais gėrimais leidžiama verstis tik turint licenciją verstis mažmenine prekyba alkoholiniais gėrimais. Licencijas ir jų dublikatus išduoda, papildo, rekvizitus patikslina atitinkamos savivaldybės vykdomoji institucija. Licencijos verstis sezonine mažmenine prekyba alumi, alaus mišiniais su nealkoholiniais gėrimais, natūralios fermentacijos sidru, kurio tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, ir alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų, kurortuose ir kitose savivaldybių tarybų nustatytose poilsio bei turizmo teritorijose išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams savivaldybių tarybų nustatyto kurortinio, poilsio bei turizmo sezono laikotarpiui. Vienkartinės licencijos verstis mažmenine prekyba natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, parodose, natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 6 procentų, masiniuose renginiuose ir mugėse, taip pat verstis mažmenine prekyba visais alkoholiniais gėrimais parodose ir mugėse, vykstančiose stacionariuose pastatuose, išduodamos teisę verstis mažmenine prekyba atitinkamų grupių alkoholiniais gėrimais turinčioms įmonėms, Europos juridiniams asmenims ir jų filialams ne ilgesniam kaip renginio trukmės laikui. Kitos licencijos verstis mažmenine prekyba alkoholiniais gėrimais išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams neterminuotam laikui. Už licencijų išdavimą, papildymą, rekvizitų patikslinimą ir licencijų dublikatų išdavimą imama valstybės rinkliava Lietuvos Respublikos rinkliavų įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
-4. Įmonėms, Europos juridiniams asmenims ar jų filialams, norintiems verstis mažmenine prekyba alkoholiniais gėrimais mažmeninės prekybos ir viešojo maitinimo vietose, įrengtose daugiabučiuose gyvenamuosiuose namuose, licencijos išduodamos, jeigu šios įmonės, Europos juridiniai asmenys ar jų filialai pateikia Lietuvos Respublikos Vyriausybės nustatyta tvarka daugiabučio gyvenamojo namo savininkų bendrijos susirinkimo (valdybos) arba, jeigu tokia bendrija neįsteigta ar bendrija valdo daugiau kaip vieną daugiabutį gyvenamąjį namą, gyvenamojo namo patalpų savininkų ir neprivatizuotų butų nuomininkų daugumos sutikimą (sutikimą pasirašantys asmenys gali jame nurodyti prekybos alkoholiniais gėrimais laiką).
+4. Įmonėms, Europos juridiniams asmenims ar jų filialams, norintiems verstis mažmenine prekyba alkoholiniais gėrimais mažmeninės prekybos ir viešojo maitinimo vietose, įrengtose daugiabučiuose gyvenamuosiuose namuose, licencijos išduodamos, jeigu šios įmonės, Europos juridiniai asmenys ar jų filialai pateikia Lietuvos Respublikos Vyriausybės nustatyta tvarka daugiabučio gyvenamojo namo gyvenamosios paskirties patalpų savininkų ir neprivatizuotų butų nuomininkų daugumos sutikimą (sutikimą pasirašantys asmenys gali jame nurodyti prekybos alkoholiniais gėrimais laiką).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1337, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17991
 
 5. Mažmeninės prekybos alkoholiniais gėrimais licencijų išdavimo tvarką nustato ir visuomenės informavimo priemonėse skelbia savivaldybės taryba. Licencijų išdavimo savivaldybėse veiksmus koordinuoja ir jų stebėseną atlieka Narkotikų, tabako ir alkoholio kontrolės departamentas.
 
@@ -443,6 +447,12 @@ Nr. XII-934, 2014-06-12, paskelbta TAR 2014-06-19 i. k. 2014-07836
 12. Įmonėms, turinčioms licencijas gaminti alkoholio produktus ir licencijas verstis didmenine prekyba jais, taip pat leidžiama šiuos produktus ir eksportuoti.
 
 13. Įmonėms, Europos juridiniams asmenims ir jų filialams, nustatyta tvarka įsigijusiems etilo alkoholio gamybos, techninėms, medicinos, veterinarijos reikmėms arba mokslo ir tyrimo darbams, draudžiama jį naudoti ne pagal paskirtį.
+
+14. Turgavietes administruojantys fiziniai asmenys, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovai, užsienio juridinių asmenų ar jų filialų vadovai arba jų įgalioti asmenys turi vykdyti jų administruojamų turgaviečių stebėseną (imtis visų teisinių ir organizacinių priemonių), siekdami, kad jų administruojamoje turgavietėje nebūtų prekiaujama alkoholiniais gėrimais ir (ar) jie nebūtų gabenami, laikomi neturint licencijos verstis mažmenine prekyba alkoholiniais gėrimais. Turgavietes administruojantys fiziniai asmenys, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovai, užsienio juridinių asmenų ar jų filialų vadovai arba jų įgalioti asmenys, pastebėję arba įtarę, kad jų administruojamoje turgavietėje Lietuvos Respublikoje įsteigtas juridinis asmuo, užsienio juridinis asmuo ar jo filialas arba fizinis asmuo prekiauja alkoholiniais gėrimais ir (ar) juos gabena, laiko, neturėdamas licencijos verstis mažmenine prekyba alkoholiniais gėrimais, privalo nedelsdami, bet ne vėliau kaip tą pačią administruojamos turgavietės darbo dieną, pranešti apie tai policijai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1527, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21288
 
 Straipsnio pakeitimai:
 
