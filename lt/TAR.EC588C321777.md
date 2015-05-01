@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2015-04-01"
+last_updated: "2015-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-04-01 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2015-05-18
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -299,7 +299,11 @@ Baudžiamojo proceso terminai nustato procesinę reikšmę turinčių veiksmų p
 
 2. Jeigu šio straipsnio 1 dalyje nurodytos aplinkybės paaiškėja privataus kaltinimo bylos proceso metu, iki įrodymų tyrimo pradžios, prokuroras privalo pateikti teismui rašytinį pareiškimą, kad šioje byloje palaikys valstybinį kaltinimą. Šiuo atveju byla perduodama prokurorui. Ikiteisminis bylos tyrimas ir bylos nagrinėjimas teisme vyksta bendra tvarka.
 
-3. Jeigu Lietuvos Respublikos baudžiamojo kodekso 148, 152 ir 165 straipsniuose numatytos nusikalstamos veikos turi smurto artimoje aplinkoje požymių, ikiteisminis tyrimas pradedamas, nesvarbu, ar yra nukentėjusiojo skundas arba jo teisėto atstovo pareiškimas. Dėl šių veikų privaloma pradėti baudžiamąjį procesą bendra tvarka.
+3. Jeigu Lietuvos Respublikos baudžiamojo kodekso 140 straipsnio 1 dalyje, 148, 152 ir 165 straipsniuose numatytos nusikalstamos veikos turi smurto artimoje aplinkoje požymių, ikiteisminis tyrimas pradedamas, nesvarbu, ar yra nukentėjusiojo skundas arba jo teisėto atstovo pareiškimas. Dėl šių veikų privaloma pradėti baudžiamąjį procesą bendra tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1650, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06589
 
 4. Ikiteisminis tyrimas dėl nusikalstamų veikų, numatytų šio Kodekso 407 straipsnyje, atliekamas bendra tvarka, jeigu nusikalstamos veikos padarymu įtariamas asmuo nėra žinomas.
 
