@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2015-05-01"
+last_updated: "2015-05-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-05-18
+Suvestinė redakcija nuo 2015-05-19 iki 2015-06-18
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -2402,7 +2402,11 @@ BAUSMĖ
 
 5. Jeigu už kelis padarytus nusikaltimus skiriamos daugiau negu dvi skirtingų rūšių bausmės, teismas, skirdamas galutinę subendrintą bausmę, iš paskirtų bausmių palieka dvi bausmes: vieną iš jų – griežčiausią, o kitą parenka savo nuožiūra.
 
-6. Padariusiam nusikalstamą veiką asmeniui kartu su bausme, remiantis šio kodekso 67, 68, 681, 682, 72, 721, 722 ir 723 straipsniais, gali būti skiriamos viena arba daugiau šių baudžiamojo poveikio priemonių – uždraudimas naudotis specialia teise, viešųjų teisių atėmimas, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, turto konfiskavimas, draudimas prisiartinti prie nukentėjusio asmens, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas.
+6. Padariusiam nusikalstamą veiką asmeniui kartu su bausme, remiantis šio kodekso 67, 68, 681, 682, 72, 721, 722 ir 723 straipsniais, gali būti skiriamos viena arba daugiau šių baudžiamojo poveikio priemonių – uždraudimas naudotis specialia teise, viešųjų teisių atėmimas, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, turto konfiskavimas, įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1676, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07563
 
 7. Bausmių rūšis juridiniams asmenims ir bausmių skyrimo nepilnamečiams ypatumus nustato šio kodekso 43 ir 90 straipsniai.
 
@@ -2792,13 +2796,21 @@ BAUDŽIAMOJO POVEIKIO PRIEMONĖS IR JŲ SKYRIMAS
 
 7) turto konfiskavimas;
 
-8) draudimas prisiartinti prie nukentėjusio asmens;
+8) įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1676, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07563
 
 9) dalyvavimas smurtinį elgesį keičiančiose programose;
 
 10) išplėstinis turto konfiskavimas.
 
-3. Uždraudimas naudotis specialia teise, viešųjų teisių atėmimas, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, turto konfiskavimas, draudimas prisiartinti prie nukentėjusio asmens, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas gali būti skiriami kartu su bausme.
+3. Uždraudimas naudotis specialia teise, viešųjų teisių atėmimas, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, turto konfiskavimas, įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas gali būti skiriami kartu su bausme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1676, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07563
 
 4. Nepilnamečiui, atleistam nuo baudžiamosios atsakomybės šio kodekso VI ar XI skyriuje numatytais pagrindais arba atleistam nuo bausmės šio kodekso X skyriuje numatytais pagrindais, gali būti skiriamas turto konfiskavimas, išplėstinis turto konfiskavimas.
 
@@ -5036,6 +5048,12 @@ Punkto numeracijos pakeitimas:
 
 Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
 
+30. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/99/ES dėl Europos apsaugos orderio (OL 2011 L 338, p. 2).
+
+Papildyta punktu:
+
+Nr. XII-1676, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07563
+
 Kodeksas papildytas priedu:
 
 Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)
@@ -5546,6 +5564,14 @@ Nr. XII-1649, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06588
 
 Lietuvos Respublikos baudžiamojo kodekso 140 straipsnio pakeitimo įstatymas
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1676, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07563
+
+Lietuvos Respublikos baudžiamojo kodekso 42, 67, 72-1 straipsnių ir priedo pakeitimo įstatymas
+
 2771 straipsnis. Sąvokų išaiškinimas
 
 Ypatingai saugomi laukiniai gyvūnai, augalai ir grybai yra:
@@ -5870,17 +5896,19 @@ Kodeksas papildytas straipsniu:
 
 Nr. XII-499, 2013-07-02, Žin., 2013, Nr. 75-3770 (2013-07-13)
 
-721 straipsnis. Draudimas prisiartinti prie nukentėjusio asmens
+721 straipsnis. Įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu
 
-1. Teismas gali skirti draudimą prisiartinti prie nukentėjusio asmens, jei tai būtina siekiant apsaugoti nukentėjusio asmens teisėtus interesus.
+1. Teismas gali skirti įpareigojimą gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu, jei tai būtina siekiant apsaugoti nukentėjusio asmens teisėtus interesus.
 
-2. Paskyrus draudimą prisiartinti prie nukentėjusio asmens, iki teismo nustatyto termino pabaigos kaltininkui draudžiama bendrauti ir ieškoti ryšių su nukentėjusiu asmeniu, lankytis nurodytose vietose, kuriose būna nukentėjęs asmuo.
-
-3. Jei kaltininkas ir nukentėjęs asmuo gyvena vienoje gyvenamojoje patalpoje, paskyrus draudimą prisiartinti prie nukentėjusio asmens, teismas įpareigoja kaltininką gyventi skyrium iki teismo nustatyto termino pabaigos arba kol įstatymų nustatyta tvarka bus išspręstas teisės gyventi toje gyvenamojoje patalpoje suteikimo nukentėjusiam asmeniui arba kaltininkui  klausimas.
+2. Paskyrus įpareigojimą gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu, iki teismo nustatyto termino pabaigos kaltininkui draudžiama bet kokia forma bendrauti ir ieškoti ryšių su nukentėjusiu asmeniu, lankytis nurodytose vietose, kuriose būna nukentėjęs asmuo.
 
 Kodeksas papildytas straipsniu:
 
 Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)
+
+Straipsnio pakeitimai:
+
+Nr. XII-1676, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07563
 
 722 straipsnis. Dalyvavimas smurtinį elgesį keičiančiose programose
 
