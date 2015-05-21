@@ -4,7 +4,7 @@ identifier: "TAR.2C94E75C224B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-15"
-last_updated: "2015-01-01"
+last_updated: "2015-05-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2C94E75C224B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-20
+Suvestinė redakcija nuo 2015-05-21 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 120-4433, i. k. 1041010ISTA0IX-2387
 
@@ -149,7 +149,11 @@ BENDROSIOS NUOSTATOS
 
 23. Perdraudimo įmonė – perdraudimo įmonė, priklausoma perdraudimo įmonė, trečiosios valstybės perdraudimo įmonė arba specialioji įmonė, kaip šios sąvokos apibrėžtos Lietuvos Respublikos draudimo įstatyme.
 
-24. Priežiūros institucija – Lietuvos Respublikos ir (arba) kitų valstybių narių kredito įstaigas, draudimo įmones, perdraudimo įmones, finansų maklerio įmones, kolektyvinio investavimo subjektų valdymo įmones ir profesionaliesiems investuotojams skirtų kolektyvinių investavimo subjektų valdymo įmones prižiūrinti institucija. Lietuvos Respublikos priežiūros institucija yra Lietuvos bankas.
+24. Priežiūros institucija – Lietuvos Respublikos ir (arba) kitų valstybių narių kredito įstaigas, draudimo įmones, perdraudimo įmones, finansų maklerio įmones, kolektyvinio investavimo subjektų valdymo įmones ir profesionaliesiems investuotojams skirtų kolektyvinių investavimo subjektų valdymo įmones prižiūrinti institucija. Lietuvos Respublikos priežiūros institucija yra Lietuvos bankas arba Europos centrinis bankas, atsižvelgiant į 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63), nuostatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1695, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07675
 
 25. Priežiūros institucijos prižiūrima įmonė (toliau – prižiūrima įmonė) – kredito įstaiga, draudimo įmonė, perdraudimo įmonė, finansų maklerio įmonė, kolektyvinio investavimo subjekto valdymo įmonė arba profesionaliesiems investuotojams skirto kolektyvinio investavimo subjekto valdymo įmonė, kurias prižiūri priežiūros institucija.
 
