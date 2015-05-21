@@ -4,7 +4,7 @@ identifier: "TAR.E14E65020CCC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-05-26"
-last_updated: "2014-10-01"
+last_updated: "2015-05-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E14E65020CCC"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "15 straipsnis įsigalioja 2011 m. birželio 14 d."
 
 LIETUVOS RESPUBLIKOS APSAUGOS NUO SMURTO ARTIMOJE APLINKOJE ĮSTATYMAS
 
-Suvestinė redakcija nuo 2014-10-01 iki 2015-05-20
+Suvestinė redakcija nuo 2015-05-21 iki 2015-05-26
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 72-3475, i. k. 1111010ISTA0XI-1425
 
@@ -106,11 +106,13 @@ SMURTĄ PATYRUSIO ASMENS APSAUGA
 
 2) įpareigojimas smurtautojui nesiartinti prie smurtą patyrusio asmens, nebendrauti, neieškoti ryšių su juo.
 
-2. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytos priemonės skiriamos iki bylos nagrinėjimo pabaigos, jeigu ikiteisminio tyrimo teisėjas ar teismas neskiria Lietuvos Respublikos baudžiamojo proceso kodekse nustatytų kardomųjų priemonių – suėmimo ar įpareigojimo gyventi skyrium nuo nukentėjusiojo. Šias priemones skiria  teismas ne vėliau kaip per 48 valandas.
+2. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytos priemonės skiriamos iki bylos nagrinėjimo pabaigos, jeigu ikiteisminio tyrimo teisėjas ar teismas neskiria Lietuvos Respublikos baudžiamojo proceso kodekse nustatytų kardomųjų priemonių – suėmimo, įpareigojimo gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu. Šias priemones skiria teismas ne vėliau kaip per 48 valandas. Dėl šių priemonių į teismą gali kreiptis ir smurto artimoje aplinkoje faktą nustatęs policijos pareigūnas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-815, 2014-04-10, paskelbta TAR 2014-04-17, i. k. 2014-04537
+
+Nr. XII-1678, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07662
 
 3. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytos priemonės skiriamos kartu su bausme, išskyrus atvejus, kai nuteistajam skiriamas areštas arba laisvės atėmimas.
 
@@ -259,4 +261,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-474, 2013-07-02, Žin., 2013, Nr. 79-3995 (2013-07-23), i. k. 1131010ISTA0XII-474
 
 Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo 4 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1678, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07662
+
+Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 5 straipsnio pakeitimo įstatymas
 
