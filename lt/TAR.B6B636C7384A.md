@@ -4,7 +4,7 @@ identifier: "TAR.B6B636C7384A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-30"
-last_updated: "2015-05-01"
+last_updated: "2015-05-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-05-20
+Suvestinė redakcija nuo 2015-05-21 iki 2015-07-03
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
 
@@ -141,7 +141,11 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 13. Priežiūros institucija atsisako išduoti licenciją, jeigu:
 
-1) pateikti dokumentai neatitinka šio Įstatymo ir priežiūros institucijos teisės aktų nustatytų reikalavimų, pateikti ne visi teisės aktų nustatyti ar papildomai pareikalauti duomenys ar jie yra neteisingi;
+1) pateikti dokumentai neatitinka bankų veiklą ir jos priežiūrą reglamentuojančių teisės aktų nustatytų reikalavimų, pateikti ne visi teisės aktų nustatyti ar papildomai pareikalauti duomenys arba jie yra neteisingi;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
 
 2) bankas neatitinka šio straipsnio 12 dalyje nustatytų reikalavimų;
 
@@ -457,7 +461,11 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 2) asmenys, teisės aktų nustatytais atvejais ir tvarka priežiūros institucijai nepateikę duomenų, leidžiančių nustatyti jų tapatybę, dalyvius, veiklą, finansinę būklę, juridinio asmens vadovus, asmenis, kurių naudai įgyjamos akcijos, ar lėšų, panaudotų banko akcijoms įsigyti, įgijimo teisėtumą, arba pateiktais duomenimis neįrodę lėšų, panaudotų banko akcijoms įsigyti, įgijimo teisėtumo;
 
-3) asmenys, nesutinkantys, kad priežiūros institucija įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka tvarkytų šiame Įstatyme numatytoms funkcijoms atlikti reikalingus jų duomenis, tarp jų asmens duomenis ir informaciją apie asmens teistumą, sveikatą.
+3) asmenys, nesutinkantys, kad priežiūros institucija įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka tvarkytų jos funkcijoms atlikti reikalingus jų duomenis, tarp jų asmens duomenis ir informaciją apie asmens teistumą, sveikatą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
 
 4. Neteko galios nuo 2015-05-01
 
@@ -685,11 +693,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
-6. Prašymas išduoti leidimą rinkti ar skirti banko vadovą išnagrinėjamas ir sprendimas priimamas ne vėliau kaip per 30 darbo dienų nuo prašymo gavimo dienos. Jei priežiūros institucija pareikalauja papildomų dokumentų ar informacijos, reikalingos sprendimui priimti, kreipiasi dėl informacijos pateikimo į kompetentingas institucijas arba papildomą informaciją pateikia leidimo prašantis asmuo, 30 darbo dienų terminas sprendimui priimti skaičiuojamas nuo papildomos informacijos gavimo dienos.
+6. Prašymas išduoti leidimą rinkti ar skirti banko vadovą išnagrinėjamas ir sprendimas priimamas ne vėliau kaip per 40 darbo dienų nuo prašymo gavimo dienos. Jeigu priežiūros institucija pareikalauja papildomų dokumentų ar informacijos, reikalingos sprendimui priimti, kreipiasi dėl informacijos pateikimo į kompetentingas institucijas arba papildomą informaciją pateikia leidimo prašantis asmuo, 40 darbo dienų terminas sprendimui priimti skaičiuojamas nuo papildomos informacijos gavimo dienos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
+
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
 
 7. Priežiūros institucija atsisako išduoti leidimą rinkti ar skirti banko vadovą, jeigu:
 
@@ -1211,7 +1221,11 @@ Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
 
 64 straipsnis. Priežiūros institucija
 
-1. Priežiūros institucija yra Lietuvos bankas.
+1. Priežiūros institucija yra Europos centrinis bankas arba Lietuvos bankas, atitinkamai pagal Reglamente (ES) Nr. 1024/2013 nustatytą funkcijų paskirstymą. Lietuvos bankas šio Įstatymo priežiūros institucijai nustatytas funkcijas atlieka, suteiktomis teisėmis naudojasi tiek, kiek pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai nepavesta Europos centriniam bankui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
 
 2. Priežiūros institucija atlieka šio Įstatymo nustatyta tvarka išduotą licenciją turinčių bankų, įskaitant jų padalinius Lietuvos Respublikoje ir užsienio valstybėse, bei šio Įstatymo nustatyta tvarka išduotą licenciją turinčių užsienio bankų filialų priežiūrą. Jeigu šio Įstatymo nustatyta tvarka išduotą licenciją turintis bankas yra kontroliuojamas Europos Sąjungos valstybėje narėje licencijuoto užsienio banko, priežiūros institucija dvišalio susitarimo pagrindu, pagal Reglamento (ES) Nr. 1093/2010 28 straipsnį, turi teisę perduoti įgaliojimus atlikti tokio banko priežiūrą Europos Sąjungos valstybės narės priežiūros institucijai, kuri globojančiam (patronuojančiam) užsienio bankui yra išdavusi licenciją ir kuri atlieka globojančio (patronuojančio) užsienio banko priežiūrą tokiu būdu, kad yra prisiimama atsakomybė už šio Įstatymo nustatyta tvarka išduotą licenciją turinčio banko priežiūrą.
 
@@ -1239,11 +1253,13 @@ Papildyta straipsnio punktu:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
-6. Priežiūra atliekama vadovaujantis šiuo Įstatymu, Finansų įstaigų įstatymu, Lietuvos banko įstatymu, Europos Sąjungos ir priežiūros institucijos teisės aktais.
+6. Priežiūra atliekama vadovaujantis šiuo Įstatymu, Finansų įstaigų įstatymu, Lietuvos banko įstatymu, Europos Sąjungos ir priežiūros institucijos teisės aktais, reglamentuojančiais bankų veiklą ir jos priežiūrą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
+
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
 
 Straipsnio pakeitimai:
 
@@ -2251,6 +2267,14 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 3, 4, 5, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23, 24, 34, 35, 36, 40, 44, 48, 52, 53, 57, 59, 61, 64, 65, 67, 69, 70, 70-1, 71, 72, 73, 74, 75, 76, 78, 81, 82, 86 straipsnių ir priedo pakeitimo, Įstatymo papildymo 65-1, 68-1 ir 70-2 straipsniais ir 6, 7, 8, 18, 26, 37, 38, 39, 43, 49, 50 straipsnių pripažinimo netekusiais galios įstatymas
 
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
+
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 1, 9, 23, 34, 64, 66 ir 71 straipsnių pakeitimo įstatymas
+
 1 straipsnis. Įstatymo paskirtis
 
 1. Šio Įstatymo tikslas – reglamentuoti bankų ir užsienio bankų, veikiančių Lietuvos Respublikoje, taip pat jų padalinių steigimo, licencijavimo, veiklos, pabaigos ir pertvarkymo bei priežiūros tvarką, kad bankų sistema būtų stabili, patikima, efektyvi ir saugi.
@@ -2493,7 +2517,11 @@ BANKŲ PRIEŽIŪRA
 
 66 straipsnis. Prašymų išduoti licenciją, leidimą, sutikimą ar atlikti kitus veiksmus nagrinėjimas ir priežiūros institucijos sprendimai
 
-1. Detalias prašymų išduoti šio Įstatymo nustatytas licencijas, leidimus, sutikimus ar atlikti kitus veiksmus (toliau šiame straipsnyje – leidimai) pateikimo, nagrinėjimo ir leidimų išdavimo sąlygas ir tvarką bei detalius pateikiamų dokumentų reikalavimus nustato priežiūros institucijos teisės aktai.
+1. Detalias prašymų išduoti šio Įstatymo nustatytas licencijas, leidimus, sutikimus ar atlikti kitus veiksmus (toliau šiame straipsnyje – leidimai) pateikimo, nagrinėjimo ir leidimų išdavimo sąlygas ir tvarką bei detalius pateikiamų dokumentų reikalavimus nustato Reglamentas (ES) Nr. 1024/2013, jo įgyvendinamieji teisės aktai ir priežiūros institucijos teisės aktai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
 
 2. Prašymas išduoti leidimą išnagrinėjamas ir sprendimas priimamas per šiame Įstatyme nustatytus terminus, o jei terminai šiame Įstatyme nenustatyti, – per priežiūros institucijos teisės aktuose nustatytus terminus. Priežiūros institucija turi teisę pareikalauti papildomų dokumentų ir informacijos, reikalingų sprendimui priimti. Jei priežiūros institucija pareikalauja papildomų dokumentų ir informacijos arba juos savarankiškai pateikia leidimo prašantis asmuo, prašymo išnagrinėjimo ir sprendimo priėmimo terminas, jeigu šiame Įstatyme nenustatyta kitaip, skaičiuojamas nuo papildomų dokumentų ir informacijos gavimo dienos.
 
@@ -2537,7 +2565,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
-2. Priežiūros institucija, atlikdama šiame Įstatyme nustatytas funkcijas, pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją.
+2. Priežiūros institucija pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
 
 Straipsnio pakeitimai:
 
