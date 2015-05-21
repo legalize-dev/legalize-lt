@@ -4,7 +4,7 @@ identifier: "TAR.3EB34933E485"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-13"
-last_updated: "2015-01-01"
+last_updated: "2015-05-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-20
+Suvestinė redakcija nuo 2015-05-21 iki 2015-06-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
 
@@ -177,7 +177,11 @@ Nr. XII-1382, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19557
 
 27) (neteko galios nuo 2007-11-22);
 
-28) papildomos baltojo cukraus gamybos kvotos ir pridėtinės izogliukozės gamybos kvotos vienkartinio išsipirkimo mokestis.
+28) Neteko galios nuo 2015-05-21
+
+Straipsnio punkto naikinimas:
+
+Nr. XII-1668, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07659
 
 Straipsnio pakeitimai:
 
@@ -219,7 +223,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1382, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19557
 
-2. Šio įstatymo 13 straipsnio 20, 21 ir 28 punktuose nurodytus mokesčius administruoja Žemės ūkio ministerija ar jos įgaliota institucija, tačiau tik tiek, kiek nustatyta pagal Gamybos mokesčio cukraus sektoriuje įstatymą, Pertekliaus mokesčio cukraus sektoriuje įstatymą ir Papildomos baltojo cukraus gamybos kvotos ir pridėtinės izogliukozės gamybos kvotos vienkartinio išsipirkimo mokesčio įstatymą. Už teisingą mokesčių apskaičiavimą atsakinga, taip pat konsultacijas šių mokesčių mokėjimo klausimais teikia tik Žemės ūkio ministerija ar jos įgaliota institucija. Mokesčių deklaravimą ir sumokėjimą kontroliuoja Valstybinė mokesčių inspekcija.
+2. Šio įstatymo 13 straipsnio 20 ir 21 punktuose nurodytus mokesčius administruoja Žemės ūkio ministerija ar jos įgaliota institucija, tačiau tik tiek, kiek nustatyta pagal Gamybos mokesčio cukraus sektoriuje įstatymą ir Pertekliaus mokesčio cukraus sektoriuje įstatymą. Už teisingą mokesčių apskaičiavimą atsakinga, taip pat konsultacijas šių mokesčių mokėjimo klausimais teikia tik Žemės ūkio ministerija ar jos įgaliota institucija. Mokesčių deklaravimą ir sumokėjimą kontroliuoja Valstybinė mokesčių inspekcija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1668, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07659
 
 3. Dėl šio straipsnio 1 ir 2 dalyse nurodytų įstaigų ir institucijų atliekamų mokesčių apskaičiavimo, deklaravimo ir sumokėjimo teisingumo patikrinimų tvarkos, patikrinimų rezultatų įforminimo bei patvirtinimo, įstaigų ir institucijų bei jų pareigūnų veiksmų apskundimo šio Įstatymo nuostatos netaikomos. Minėtus teisinius santykius reguliuoja šių institucijų veiklą reglamentuojantys teisės aktai bei atitinkami administruojamų mokesčių įstatymai.
 
