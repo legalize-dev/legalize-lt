@@ -4,7 +4,7 @@ identifier: "TAR.29EEB33AFCD0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-18"
-last_updated: "2015-05-01"
+last_updated: "2015-05-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-05-20
+Suvestinė redakcija nuo 2015-05-21 iki 2015-07-03
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
 
@@ -503,21 +503,21 @@ Nr. XI-1338, 2011-04-21, Žin., 2011, Nr. 52-2513 (2011-05-03)
 
 50 straipsnis. Priežiūros institucija
 
-1. Lietuvos bankas yra priežiūros institucija, atliekanti Centrinės kredito unijos priežiūrą ir Centrinės kredito unijos finansinės grupės jungtinę (konsoliduotą) priežiūrą.
+1. Priežiūros institucija, atliekant Centrinės kredito unijos priežiūrą ir Centrinės kredito unijos finansinės grupės jungtinę (konsoliduotą) priežiūrą, yra Europos centrinis bankas ir Lietuvos bankas, atitinkamai pagal Reglamente (ES) Nr. 1024/2013 nustatytą funkcijų paskirstymą. Lietuvos bankas šio Įstatymo priežiūros institucijai nustatytas funkcijas vykdo, suteiktomis teisėmis naudojasi tiek, kiek pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai nepavesta Europos centriniam bankui.
 
-2. Priežiūra atliekama vadovaujantis šiuo Įstatymu, Finansų įstaigų įstatymu, Lietuvos banko įstatymu, Europos Sąjungos ir priežiūros institucijos teisės aktais. Atliekant Centrinės kredito unijos finansinės grupės jungtinę (konsoliduotą) priežiūrą, mutatis mutandis taikomos Bankų įstatymo ir priežiūros institucijos teisės aktų nuostatos, reglamentuojančios finansinių grupių jungtinę (konsoliduotą) priežiūrą.
+2. Priežiūra atliekama vadovaujantis šiuo Įstatymu, Finansų įstaigų įstatymu, Lietuvos banko įstatymu, Europos Sąjungos ir kitais kredito įstaigų veiklą ir jos priežiūrą reglamentuojančiais teisės aktais. Atliekant Centrinės kredito unijos finansinės grupės jungtinę (konsoliduotą) priežiūrą, mutatis mutandis taikomos Bankų įstatymo ir kitų kredito įstaigų veiklą ir jos priežiūrą reglamentuojančių teisės aktų nuostatos, reglamentuojančios finansinių grupių jungtinę (konsoliduotą) priežiūrą.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1546, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04834
-
-3. Atliekant Centrinės kredito unijos priežiūrą, taikomos Bankų įstatymo 64 straipsnio 5 dalies nuostatos.
+3. Atliekant Centrinės kredito unijos priežiūrą, taikomos Bankų įstatymo 64 straipsnio 5 dalies nuostatos.
 
 Straipsnio pakeitimai:
 
 Nr. X-1039, 2007-01-18, Žin., 2007, Nr. 12-500 (2007-01-30)
 
 Nr. XI-1338, 2011-04-21, Žin., 2011, Nr. 52-2513 (2011-05-03)
+
+Straipsnio pakeitimai:
+
+Nr. XII-1693, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07669
 
 51 straipsnis. Priežiūros tikslams gautos informacijos apsauga
 
@@ -1013,6 +1013,14 @@ Nr. XII-1546, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04834
 
 Lietuvos Respublikos centrinės kredito unijos įstatymo Nr. VIII-1682 2, 3, 8, 9, 10, 11, 22, 23, 24, 31, 34, 37, 41, 42, 47, 50, 53, 55, 56, 57, 58, 59, 60, 61, 65, 66 straipsnių ir priedo pakeitimo, Įstatymo papildymo 51-1, 54-1 straipsniais ir 28, 29, 30, 33, 38, 39 straipsnių pripažinimo netekusiais galios įstatymas
 
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1693, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07669
+
+Lietuvos Respublikos centrinės kredito unijos įstatymo Nr. VIII-1682 1, 9, 50, 52 ir 56 straipsnių pakeitimo įstatymas
+
 3 straipsnis. Centrinės kredito unijos pavadinimas, teisinė forma, jos veiklą  reglamentuojantys teisės aktai
 
 1. Žodžius „Centrinė kredito unija“ ar kitokius šių žodžių junginius arba vedinius Lietuvos Respublikoje gali vartoti savo pavadinime, reklamoje ar kitais tikslais tik pagal šį Įstatymą veikianti Centrinė kredito unija, išskyrus atvejus, kai akivaizdu, kad šių žodžių vartojimas nesusijęs su licencinių finansinių paslaugų teikimu. Centrinės kredito unijos pavadinimui Kooperatinių bendrovių (kooperatyvų) įstatymo 3 straipsnio 4 dalies nuostata netaikoma.
@@ -1053,7 +1061,11 @@ Nr. XII-1546, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04834
 
 52 straipsnis. Prašymų išduoti licenciją, leidimą, sutikimą ar atlikti kitus veiksmus nagrinėjimas ir priežiūros institucijos sprendimai
 
-1. Detalias prašymų išduoti šio Įstatymo nustatytas licencijas, leidimus, sutikimus ar atlikti kitus veiksmus (toliau šiame straipsnyje – išduoti leidimus) pateikimo, nagrinėjimo ir leidimų išdavimo sąlygas ir tvarką bei detalius pateikiamų dokumentų reikalavimus nustato priežiūros institucijos teisės aktai.
+1. Detalias prašymų išduoti šio Įstatymo nustatytas licencijas, leidimus, sutikimus ar atlikti kitus veiksmus (toliau šiame straipsnyje – išduoti leidimus) pateikimo, nagrinėjimo ir leidimų išdavimo sąlygas ir tvarką bei detalius pateikiamų dokumentų reikalavimus nustato Reglamentas (ES) Nr. 1024/2013, jo įgyvendinamieji teisės aktai ir priežiūros institucijos teisės aktai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1693, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07669
 
 2. Prašymas išduoti leidimą išnagrinėjamas ir sprendimas priimamas per šiame Įstatyme nustatytus terminus, o jei terminai šiame Įstatyme nenustatyti – per priežiūros institucijos teisės aktuose nustatytus terminus. Priežiūros institucija turi teisę pareikalauti papildomų dokumentų ir informacijos, reikalingų sprendimui priimti. Jei priežiūros institucija pareikalauja papildomų dokumentų ir informacijos, tai prašymo išnagrinėjimo ir sprendimo priėmimo terminas skaičiuojamas nuo papildomai pareikalautų dokumentų ir informacijos gavimo dienos.
 
@@ -1073,7 +1085,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1546, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04834
 
-2. Priežiūros institucija, vykdydama šiame Įstatyme nustatytas funkcijas, pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims vykdyti būtiną informaciją.
+2. Priežiūros institucija pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims vykdyti būtiną informaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1693, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07669
 
 Straipsnio pakeitimai:
 
@@ -1154,6 +1170,12 @@ CENTRINĖS KREDITO UNIJOS PRIEŽIŪRA
 1. Šis Įstatymas reglamentuoja Centrinės kredito unijos ir jos padalinių steigimo, licencijavimo, veiklos, pabaigos, pertvarkymo ir priežiūros tvarką, kad Centrinės kredito unijos veikla būtų stabili ir patikima.
 
 2. Šiuo Įstatymu įgyvendinami šio Įstatymo priede nurodyti Europos Sąjungos teisės aktai.
+
+3. Šio Įstatymo nuostatos taikomos atsižvelgiant į 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63) (toliau – Reglamentas (ES) Nr. 1024/2013), ir jo įgyvendinamųjų teisės aktų nuostatas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1693, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07669
 
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
@@ -1267,7 +1289,11 @@ Nr. XI-1884, 2011-12-22, Žin., 2011, Nr. 163-7773 (2011-12-31)
 
 10. Priežiūros institucija atsisako išduoti licenciją, jeigu:
 
-1) pateikti dokumentai neatitinka šio Įstatymo ir priežiūros institucijos teisės aktų nustatytų reikalavimų, pateikti ne visi teisės aktų nustatyti ar papildomai pareikalauti duomenys ar jie yra neteisingi;
+1) pateikti dokumentai neatitinka kredito įstaigų veiklą ir jos priežiūrą reglamentuojančių teisės aktų nustatytų reikalavimų, pateikti ne visi teisės aktų nustatyti ar papildomai pareikalauti duomenys ar jie yra neteisingi;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1693, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07669
 
 2) Centrinė kredito unija neatitinka šio straipsnio 9 dalyje nustatytų reikalavimų.
 
