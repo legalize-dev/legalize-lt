@@ -4,7 +4,7 @@ identifier: "TAR.E14E65020CCC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-05-26"
-last_updated: "2015-05-21"
+last_updated: "2015-05-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E14E65020CCC"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "15 straipsnis įsigalioja 2011 m. birželio 14 d."
 
 LIETUVOS RESPUBLIKOS APSAUGOS NUO SMURTO ARTIMOJE APLINKOJE ĮSTATYMAS
 
-Suvestinė redakcija nuo 2015-05-21 iki 2015-05-26
+Suvestinė redakcija nuo 2015-05-27 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 72-3475, i. k. 1111010ISTA0XI-1425
 
@@ -120,11 +120,15 @@ Nr. XII-1678, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07662
 
 5. Skiriant šio straipsnio 1 dalies 1 ir 2 punktuose nustatytas priemones, jeigu smurtą patyręs asmuo ar smurtautojas dėl savo fizinių ar psichinių trūkumų ar savybių negali likti be priežiūros, šių asmenų priežiūros klausimas sprendžiamas kitų Lietuvos Respublikos teisės aktų nustatyta tvarka.
 
-6. Ikiteisminiuose tyrimuose, susijusiuose su smurtu artimoje aplinkoje, Valstybinė teismo medicinos tarnyba prie Teisingumo ministerijos užtikrina, kad sveikatos sutrikdymo mastas būtų nustatomas ir specialistų išvados būtų teikiamos skubos tvarka.
+6. Ikiteisminiuose tyrimuose, susijusiuose su smurtu artimoje aplinkoje, Valstybinė teismo medicinos tarnyba užtikrina, kad sveikatos sutrikdymo mastas būtų nustatomas ir specialistų išvados būtų teikiamos skubos tvarka.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-815, 2014-04-10, paskelbta TAR 2014-04-17, i. k. 2014-04537
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1717, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08062
 
 6 straipsnis. Smurtą patyrusio asmens apsaugos užtikrinimo priemonių taikymas
 
@@ -267,6 +271,14 @@ Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo 4 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XII-1678, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07662
+
+Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 5 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1717, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08062
 
 Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 5 straipsnio pakeitimo įstatymas
 
