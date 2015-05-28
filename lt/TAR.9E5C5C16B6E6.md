@@ -4,7 +4,7 @@ identifier: "TAR.9E5C5C16B6E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-18"
-last_updated: "2015-05-01"
+last_updated: "2015-05-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-05-27
+Suvestinė redakcija nuo 2015-05-28 iki 2015-08-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
 
@@ -332,7 +332,11 @@ Nr. XI-2103, 2012-06-21, Žin., 2012, Nr. 78-4025 (2012-07-04)
 
 Nr. XII-934, 2014-06-12, paskelbta TAR 2014-06-19 i. k. 2014-07836
 
-17 straipsnis. Alkoholio produktų pardavimo, laikymo ir gabenimo reikalavimai
+17 straipsnis. Alkoholio produktų pardavimo, įsigijimo, laikymo ir gabenimo reikalavimai
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XII-1737, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08129
 
 1. Lietuvos Respublikoje parduoti draudžiama:
 
@@ -400,7 +404,11 @@ Nr. XII-934, 2014-06-12, paskelbta TAR 2014-06-19 i. k. 2014-07836
 
 7) etilo alkoholiui, naudojamam gamybos (įskaitant biodegalų arba standartus ar teisės aktų nustatytus reikalavimus atitinkančių degalų mišinių gamybą, kuriai naudojamas nedenatūruotas dehidratuotas ir dehidratuotas denatūruotas etilo alkoholis, ir atvejus, kai naudojant etilo alkoholį gamybos operacijų metu jis virsta kitu alkoholio produktu, kuris visas sunaudojamas kito galutinio ne alkoholio produkto gamybai), taip pat techninėms, medicinos, veterinarijos reikmėms arba mokslo ir tyrimo darbams, kurį įsigyja, laiko, gabena ir naudoja įmonės, Europos juridiniai asmenys ir jų filialai, turintys Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotus leidimus, išskyrus Lietuvos Respublikos Vyriausybės nustatytus atvejus, kai leidimai nėra privalomi. Už leidimo pirkti nedenatūruoto etilo alkoholio, leidimo pirkti ir (ar) naudoti denatūruotą etilo alkoholį išdavimą imama valstybės rinkliava Lietuvos Respublikos rinkliavų įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
-4. Fiziniams asmenims draudžiama vartoti, laikyti ir gabenti alkoholio produktus atidarytoje pakuotėje automobilių salonuose, išskyrus autotransporto priemones, kurių salonas yra stacionariai atskirtas nuo vairuotojo vietos. Fiziniams asmenims, turintiems verslo liudijimą, suteikiantį teisę verstis išvežiojamąja prekyba maisto produktais, ir vykdantiems verslo liudijime numatytą veiklą, draudžiama jų darbo metu specialiai šiai prekybai pritaikytose automobilinėse parduotuvėse laikyti ir gabenti alkoholio produktus, taip pat taksi vairuotojams jų darbo metu draudžiama taksi automobiliuose laikyti ir gabenti alkoholio produktus. Fiziniams asmenims taikomą alkoholio produktų laikymo ir gabenimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+4. Fiziniams asmenims draudžiama Lietuvos Respublikoje įsigyti alkoholinius gėrimus, teisės aktų nustatyta tvarka nepaženklintus specialiais ženklais – banderolėmis. Fiziniams asmenims draudžiama vartoti, laikyti ir gabenti alkoholio produktus atidarytoje pakuotėje automobilių salonuose, išskyrus autotransporto priemones, kurių salonas yra stacionariai atskirtas nuo vairuotojo vietos. Fiziniams asmenims, turintiems verslo liudijimą, suteikiantį teisę verstis išvežiojamąja prekyba maisto produktais, ir vykdantiems verslo liudijime numatytą veiklą, draudžiama jų darbo metu specialiai šiai prekybai pritaikytose automobilinėse parduotuvėse laikyti ir gabenti alkoholio produktus, taip pat taksi vairuotojams jų darbo metu draudžiama taksi automobiliuose laikyti ir gabenti alkoholio produktus. Fiziniams asmenims taikomą alkoholio produktų laikymo ir gabenimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1737, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08129
 
 5. Įmonėms, turinčioms licencijas gaminti alkoholio produktus, verstis didmenine prekyba jais, taip pat įmonėms, Europos juridiniams asmenims ir jų filialams, turintiems licencijas verstis mažmenine prekyba alkoholiniais gėrimais, draudžiama įgalioti kitus asmenis verstis licencijose nurodyta veikla ar pagal sutartį perduoti kitiems asmenims šią teisę.
 
