@@ -4,7 +4,7 @@ identifier: "TAR.F0E2E67B1F2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-03-19"
-last_updated: "2015-01-01"
+last_updated: "2015-05-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos turizmo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-27
+Suvestinė redakcija nuo 2015-05-28 iki 2015-10-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
 
@@ -714,7 +714,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
 
-9) planuoja ir organizuoja vaikų ir jaunimo stovyklų veiklą, nustato šioms stovykloms taikomus reikalavimus ir kontroliuoja jų vykdymą.
+9) planuoja ir organizuoja vaikų ir jaunimo stovyklų veiklą, nustato šioms stovykloms taikomus reikalavimus ir kontroliuoja jų vykdymą;
+
+10) siekdamos užtikrinti turistų poilsio rimtį, Lietuvos Respublikos Vyriausybės nustatyta tvarka turi teisę riboti statybos, remonto, rekonstrukcijos, montavimo darbus kurortuose ir kurortinėse teritorijose savivaldybės tarybos nustatyto turizmo sezono metu.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1724, 2015-05-19, paskelbta TAR 2015-05-27, i. k. 2015-08126
 
 SEPTINTASIS SKIRSNIS
 
@@ -843,6 +849,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1307, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17033
 
 Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 8 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1724, 2015-05-19, paskelbta TAR 2015-05-27, i. k. 2015-08126
+
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 18 straipsnio pakeitimo įstatymas
 
 21 straipsnis. Apskrities viršininko kompetencija plėtojant turizmą
 
