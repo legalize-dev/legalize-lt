@@ -4,7 +4,7 @@ identifier: "TAR.A1FD809510BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-06-29"
-last_updated: "2015-01-01"
+last_updated: "2015-05-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A1FD809510BB"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "32 straipsnis įsigalioja 2012-07-14"
 
 LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-27
+Suvestinė redakcija nuo 2015-05-28 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
 
@@ -179,7 +179,11 @@ MAŽOSIOS BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
 
 3. Mažosios bendrijos narys turi vykdyti prisiimtus įsipareigojimus mažajai bendrijai, atlikti šiame įstatyme ir kituose įstatymuose nustatytas pareigas, taip pat mažosios bendrijos nuostatuose jam nustatytas pareigas, neprieštaraujančias šiam ir kitiems įstatymams.
 
-4. Mažosios bendrijos narys negali turėti darbo santykių su mažąja bendrija.
+4. Mažosios bendrijos narys negali turėti darbo santykių su mažąja bendrija, taip pat sudaryti su ja civilinių sutarčių dėl paslaugų mažajai bendrijai teikimo ar darbų atlikimo, išskyrus vadovaujantis šio įstatymo 22 straipsnio 2 dalimi su mažosios bendrijos vadovu sudaromą civilinę (paslaugų) sutartį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1700, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08122
 
 8 straipsnis. Įnašai į mažąją bendriją
 
@@ -748,6 +752,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1075, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10456
 
 Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 30 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1700, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08122
+
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1 ir 7 straipsnių pakeitimo įstatymas
 
 61 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
 
