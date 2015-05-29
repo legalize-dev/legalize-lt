@@ -4,7 +4,7 @@ identifier: "TAR.DE0B1FF26D01"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-21"
-last_updated: "2015-01-01"
+last_updated: "2015-05-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DE0B1FF26D01"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-28
+Suvestinė redakcija nuo 2015-05-29 iki 2015-07-03
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
 
@@ -1892,6 +1892,14 @@ Nr. XII-1104, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13434
 
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 32, 38, 39, 63 ir 75 straipsnių pakeitimo įstatymas
 
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1728, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08226
+
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 48-1 straipsnio pakeitimo įstatymas
+
 54 straipsnis. Reikalavimai auditoriui ir audito įmonei, jų pareigos ir atsakomybė
 
 Reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Lietuvos Respublikos finansų įstaigų įstatymas.
@@ -1946,11 +1954,15 @@ Nr. XII-1047, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10853
 
 481 straipsnis. Apribojimai disponuoti kredito unijos pajiniais įnašais
 
-Kredito unijos nariui apribojama teisė disponuoti pajiniu įnašu ar jo dalimi, neviršijančia skolinamų pinigų sumos kartu su už ją mokamomis palūkanomis, tol, kol bus grąžinta skolinama suma su palūkanomis.
+Kredito unijos nariui kredito unijos įstatuose nustatyta tvarka gali būti apribojama teisė disponuoti pajiniu įnašu ar jo dalimi, neviršijančia skolinamų pinigų sumos kartu su už ją mokamomis palūkanomis, tol, kol bus grąžinta skolinama suma su palūkanomis.
 
 Papildyta straipsniu:
 
 Nr. XII-1047, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10853
+
+Straipsnio pakeitimai:
+
+Nr. XII-1728, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08226
 
 641 straipsnis. Laikinasis atstovas kredito unijos veiklos priežiūrai
 
