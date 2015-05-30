@@ -4,7 +4,7 @@ identifier: "TAR.43178AA9832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2015-01-01"
+last_updated: "2015-05-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-29
+Suvestinė redakcija nuo 2015-05-30 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
 
@@ -302,7 +302,29 @@ Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
 
 8. Gyventojo, kuris verčiasi individualia veikla, apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti pats gyventojas.
 
-Straipsnio redakcija nuo 2016-01-01:
+Straipsnio pakeitimai:
+
+Nr. IX-1159, 2002-10-29, Žin., 2002, Nr. 112-4967 (2002-11-22)
+
+Nr. IX-1263, 2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24)
+
+Nr. IX-1619, 2003-06-10, Žin., 2003, Nr. 61-2771 (2003-06-27)
+
+Nr. IX-1668, 2003-07-01, Žin., 2003, Nr. 73-3347 (2003-07-23)
+
+Nr. IX-1914, 2003-12-18, Žin., 2003, Nr. 123-5586 (2003-12-30)
+
+Nr. X-1178, 2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
+
+Nr. X-1679, 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
+
+Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
+
+Nr. XI-2163, 2012-06-29, Žin., 2012, Nr. 83-4337 (2012-07-14)
+
+Nr. XI-2174, 2012-06-29, Žin., 2012, Nr. 83-4348 (2012-07-14), atitaisymas skelbtas: Žin., 2012, Nr. 107
+
+Nr. XII-1726, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08377
 
 11 straipsnis. Atsakomybė už buhalterinių įrašų teisingumą
 
@@ -873,6 +895,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1480, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21141
 
 Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 3 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1726, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08377
+
+Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, 21 straipsnių, trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymo Nr. XI-1988 8, 23 straipsnių pakeitimo ir 9 straipsnio pripažinimo netekusiu galios įstatymas
 
 19 straipsnis. Apskaitos dokumentų, apskaitos registrų saugojimo tvarka
 
