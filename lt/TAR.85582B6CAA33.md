@@ -4,7 +4,7 @@ identifier: "TAR.85582B6CAA33"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-04-24"
-last_updated: "2013-01-01"
+last_updated: "2015-05-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.85582B6CAA33"
 department: "Lietuvos Respublikos Seimas"
@@ -25,7 +25,7 @@ SKIRSNIŲ PAVADINIMŲ IR PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 10
 
 IR 102 STRAIPSNIAIS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2013-01-01 iki 2015-05-29
+Suvestinė redakcija nuo 2015-05-30
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 51-2531, i. k. 1121010ISTA0XI-1988
 
@@ -137,7 +137,15 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 
 8. Gyventojo, kuris verčiasi individualia veikla, apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti pats gyventojas.“
 
-2. Pakeisti 10 straipsnį ir jį išdėstyti taip:
+2. Neteko galios nuo 2015-05-30
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-1726, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08377
+
+Straipsnio pakeitimai:
+
+Nr. XI-2174, 2012-06-29, Žin., 2012, Nr. 83-4348 (2012-07-14); Žin., 2012, Nr. 107-0 (2012-09-14), i. k. 1121010ISTA0XI-2174
 
 „101 straipsnis. Reikalavimai asmenims, atliekantiems vyriausiojo buhalterio (buhalterio) pareigas arba teikiantiems vyriausiojo buhalterio (buhalterio) pareigas atitinkančias paslaugas
 
@@ -255,11 +263,45 @@ Pakeisti Įstatymo priedo 3 punktą ir jį išdėstyti taip:
 
 23 straipsnis. Baigiamosios nuostatos
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 dalyje nustatytą atvejį, šio įstatymo 8 straipsnio 2 dalį, 9 straipsnį ir šio įstatymo 16 straipsniu keičiamo 16 straipsnio 5 dalį, įsigalioja 2013 m. sausio 1 d.
+1. Šis įstatymas, išskyrus šio straipsnio 2 dalyje nustatytą atvejį ir šio įstatymo 16 straipsniu keičiamo 16 straipsnio 5 dalį, įsigalioja 2013 m. sausio 1 d.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-2174, 2012-06-29, Žin., 2012, Nr. 83-4348 (2012-07-14); Žin., 2012, Nr. 107-0 (2012-09-14), i. k. 1121010ISTA0XI-2174
 
+Nr. XII-1726, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08377
+
 2. Šio įstatymo 3 straipsnio 2 dalis dėl Verslo apskaitos standartų rengimo klausimais įstaigoje sudaromo kolegialaus patariamojo organo – Apskaitos standartų komiteto – įsigalioja 2012 m. gegužės 1 d.
+
+3. Šio įstatymo 16 straipsniu keičiamo 16 straipsnio 5 dalis įsigalioja 2016 m. sausio 1 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XI-2174, 2012-06-29, Žin., 2012, Nr. 83-4348 (2012-07-14); Žin., 2012, Nr. 107-0 (2012-09-14), i. k. 1121010ISTA0XI-2174
+
+Nr. XII-1726, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08377
+
+4. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki šio įstatymo įsigaliojimo pagal kompetenciją priima šio įstatymo įgyvendinamuosius teisės aktus.
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2174, 2012-06-29, Žin., 2012, Nr. 83-4348 (2012-07-14); Žin., 2012, Nr. 107-0 (2012-09-14), i. k. 1121010ISTA0XI-2174
+
+Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, 21 straipsnių, trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymo 2, 8 ir 23 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1726, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08377
+
+Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, 21 straipsnių, trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymo Nr. XI-1988 8, 23 straipsnių pakeitimo ir 9 straipsnio pripažinimo netekusiu galios įstatymas
 
