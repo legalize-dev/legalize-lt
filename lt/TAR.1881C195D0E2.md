@@ -4,7 +4,7 @@ identifier: "TAR.1881C195D0E2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2015-05-01"
+last_updated: "2015-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-05-31
+Suvestinė redakcija nuo 2015-06-01 iki 2015-06-25
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
 
@@ -237,7 +237,13 @@ KETVIRTASIS SKIRSNIS
 
 4) informacijos apie elektroninių ryšių įvykius gavimas;
 
-5) pinigų, piniginių srautų, vertybinių popierių, elektroninių ir kitų atsiskaitymo būdų, taip pat bet kokių finansinių operacijų stebėjimas ir fiksavimas.
+5) pinigų, piniginių srautų, vertybinių popierių, elektroninių ir kitų atsiskaitymo būdų, taip pat bet kokių finansinių operacijų stebėjimas ir fiksavimas;
+
+6) informacijos apie fizinių ir (ar) juridinių asmenų iki teikimo teismui gauti tokią informaciją pateikimo atliktas ūkines, finansines operacijas, finansinių ir (ar) mokėjimo priemonių panaudojimą gavimas iš finansų įmonių ir kredito įstaigų, taip pat iš kitų juridinių asmenų.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 
 2. Šio straipsnio 1 dalyje nurodytų veiksmų atlikimą motyvuota nutartimi sankcionuoja apygardos teismo pirmininko įgaliotas šio teismo teisėjas pagal žvalgybos institucijų vadovų ar jų įgaliotų pavaduotojų motyvuotus teikimus.
 
@@ -251,7 +257,11 @@ KETVIRTASIS SKIRSNIS
 
 4) veiksmai, kuriuos prašoma leisti atlikti;
 
-5) prašomų taikyti veiksmų trukmė;
+5) prašomų taikyti veiksmų trukmė arba prašomos pateikti informacijos apimtis ir periodas, kai prašoma taikyti šio straipsnio 1 dalies 6 punkte nurodytą veiksmą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 
 6) siekiamas rezultatas.
 
@@ -267,11 +277,19 @@ KETVIRTASIS SKIRSNIS
 
 4) veiksmai, kuriuos leidžiama atlikti;
 
-5) leidžiamų atlikti veiksmų trukmė;
+5) leidžiamų atlikti veiksmų trukmė arba leidžiamos gauti informacijos apimtis ir periodas, kai leidžiama atlikti šio straipsnio 1 dalies 6 punkte nurodytą veiksmą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 
 6) siekiamas rezultatas.
 
-6. Šio straipsnio 1 dalyje nurodyti veiksmai negali trukti ilgiau kaip 6 mėnesius. Prireikus šių veiksmų atlikimas gali būti pratęstas dar iki 3 mėnesių. Pratęsimų skaičius neribojamas. Apygardos teismas, kaskart dar 3 mėnesiams pratęsdamas išduotą leidimą atlikti teismo sankcionuojamus veiksmus, įvertina pateikto teikimo pratęsti šių veiksmų atlikimą pagrįstumą.
+6. Šio straipsnio 1 dalies 1–5 punktuose nurodyti veiksmai negali trukti ilgiau kaip 6 mėnesius. Prireikus šių veiksmų atlikimas gali būti pratęstas dar iki 3 mėnesių. Pratęsimų skaičius neribojamas. Apygardos teismas, kaskart dar 3 mėnesiams pratęsdamas išduotą leidimą atlikti teismo sankcionuojamus veiksmus, įvertina pateikto teikimo pratęsti šių veiksmų atlikimą pagrįstumą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 
 7. Žvalgybos institucijos dėl šio straipsnio 1 dalyje nurodytų veiksmų sankcionavimo turi teisę kreiptis į bet kurį apygardos teismą. Teismui atsisakius sankcionuoti veiksmus, kreiptis į kitą apygardos teismą dėl tų pačių veiksmų sankcionavimo draudžiama.
 
@@ -447,7 +465,11 @@ Skundus dėl žvalgybos pareigūnų veiksmų, pažeidžiančių žmogaus teises 
 
 1) steigia sau tiesiogiai pavaldžius kontrolės padalinius, kurie, tikrindami ir vertindami žvalgybos institucijos veiklą, atlieka veiklos, valdymo, atitikties, informacinių sistemų ir kitus įvertinimus;
 
-2) pagal savo kompetenciją leidžia vidaus teisės aktus, reglamentuojančius vidaus kontrolę.
+2) nustato valstybės biudžeto ir kitų lėšų, skirtų žvalgybos metodams taikyti, panaudojimo tvarką ir pagal savo kompetenciją leidžia kitus vidaus teisės aktus, reglamentuojančius vidaus kontrolę.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 
 2. Žvalgybos institucijos Seimo komitetui du kartus per metus arba pagal atskirą šio komiteto reikalavimą teikia susistemintą statistinę informaciją apie vykdomos vidaus kontrolės rezultatus, taip pat atliekamus tarnybinius vidaus tyrimus, personalo administravimą, struktūrą ir kitą su vidaus kontrole susijusią informaciją.
 
@@ -1584,4 +1606,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1645, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06587
 
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 67 ir 69 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
+
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 13 ir 24 straipsnių pakeitimo įstatymas
 
