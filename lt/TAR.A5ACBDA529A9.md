@@ -4,7 +4,7 @@ identifier: "TAR.A5ACBDA529A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-12-20"
-last_updated: "2015-04-14"
+last_updated: "2015-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 2 straipsnio 16 dalies 5 punkto, 40 stra
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-04-14 iki 2015-05-31
+Suvestinė redakcija nuo 2015-06-01 iki 2016-03-25
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
 
@@ -335,7 +335,7 @@ Nr. XII-428, 2013-06-27, Žin., 2013, Nr. 75-3757 (2013-07-13)
 
 2) užsienio vienetų pajamos, kurių šaltinis yra Lietuvos Respublikoje, gautos ne per jų nuolatines buveines Lietuvos Respublikoje, išvardytos šio Įstatymo 4 straipsnio 4 dalies 3 ir 5 punktuose, apmokestinamos be atskaitymų taikant 10 procentų mokesčio tarifą, o išvardytos šio Įstatymo 4 straipsnio 4 dalies 4, 6 ir 7 punktuose, – taikant 15 procentų mokesčio tarifą, jeigu šis Įstatymas nenustato ko kita. Užsienio vienetų, kurie yra įregistruoti ar kitaip organizuoti Europos ekonominės erdvės valstybėje arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, pajamos, kurių šaltinis yra Lietuvos Respublikoje, gautos ne per jų nuolatines buveines Lietuvos Respublikoje, išvardytos šio Įstatymo 4 straipsnio 4 dalies 1 punkte, neapmokestinamos. Užsienio vienetų, kurie nėra įregistruoti ar kitaip organizuoti Europos ekonominės erdvės valstybėje arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, pajamos, kurių šaltinis yra Lietuvos Respublikoje, gautos ne per jų nuolatines buveines Lietuvos Respublikoje, išvardytos šio Įstatymo 4 straipsnio 4 dalies 1 punkte, apmokestinamos be atskaitymų taikant 10 procentų mokesčio tarifą;
 
-Pastaba. 1 dalies 2 punkto nuostatos taikomos ir žemės ūkio veiklą vykdantiems vienetams (Įstatymas Nr. XI-539).
+TAR pastaba. 1 dalies 2 punkto nuostatos taikomos ir žemės ūkio veiklą vykdantiems vienetams (Įstatymas Nr. XI-539).
 
 3) pajamos iš paskirstytojo pelno apmokestinamos taikant 15 procentų mokesčio tarifą;
 
@@ -695,7 +695,7 @@ Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 
 7. Šio straipsnio 4, 5 ir 6 dalyse nurodytas mokestinių nuostolių perkėlimas tęsiamas šio Įstatymo 30 straipsnyje nustatyta tvarka. Šio straipsnio 1 ir 2 dalyje nurodytas mokestinių nuostolių perkėlimas tęsiamas taip, kad tiek šiame straipsnyje nustatyta tvarka, tiek šio Įstatymo 30 straipsnyje nustatyta tvarka atskaitomų mokestinių nuostolių, išskyrus mokestinius nuostolius vienetų, kurių apmokestinamasis pelnas pagal šio Įstatymo 5 straipsnio 2 dalies nuostatas apmokestinamas taikant 5 procentų mokesčio tarifą, suma negali būti didesnė kaip 70 procentų mokesčio mokėtojo mokestinio laikotarpio pajamų, apskaičiuotų iš pajamų atėmus neapmokestinamąsias pajamas, leidžiamus atskaitymus ir ribojamų dydžių leidžiamus atskaitymus, išskyrus ankstesnių metų mokestinių laikotarpių nuostolius.
 
-Pastaba. 7 dalies nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-661).
+TAR pastaba. 7 dalies nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-661).
 
 Straipsnio pakeitimai:
 
@@ -1187,7 +1187,7 @@ Nr. X-1110, 2007-05-03, Žin., 2007, Nr. 55-2126 (2007-05-19)
 
 16) socialinis mokestis;
 
-Pastaba. 16 punkto nuostatos taikomos apskaičiuojant 2006 metų ir 2007 metų mokestinių laikotarpių apmokestinamąjį pelną (Įstatymas Nr. X-232).
+TAR pastaba. 16 punkto nuostatos taikomos apskaičiuojant 2006 metų ir 2007 metų mokestinių laikotarpių apmokestinamąjį pelną (Įstatymas Nr. X-232).
 
 17) neapmokestinamosioms pajamoms tenkantys leidžiami atskaitymai ir ribojamų dydžių leidžiami atskaitymai;
 
@@ -1301,11 +1301,11 @@ Mokesčiu neapmokestinamos šios Lietuvos vieneto bei užsienio vieneto per nuol
 
 15) turto vertės padidėjimo pajamos už vieneto, kuris įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, ir kuris yra pelno mokesčio arba jam tapataus mokesčio mokėtojas, akcijų perleidimą kitam vienetui arba fiziniam asmeniui, jei akcijas perleidžiantis vienetas ne trumpiau kaip 2 metus be pertraukų turėjo daugiau kaip 25 procentus balsus suteikiančių šio vieneto akcijų arba jei akcijos buvo perleistos šio Įstatymo 41 straipsnio 2 dalyje nurodytais reorganizavimo ar perleidimo atvejais, ne trumpiau kaip 3 metus be pertraukų turėjo daugiau kaip 25 procentus balsus suteikiančių šio vieneto akcijų. Ši lengvata netaikoma tuo atveju, kai akcijas perleidžiantis vienetas jas perleidžia šias akcijas išleidusiam vienetui. Į šiame punkte nustatytus terminus dėl akcijų turėjimo neatsižvelgiama tais atvejais, kai akcijos perleidžiamos dėl teisės aktų reikalavimų;
 
-Pastaba. 15 punkto nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-428).
+TAR pastaba. 15 punkto nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-428).
 
 16) draudimo įmonių gyvybės draudimo įmokos, jei draudimo sutarties terminas ne trumpesnis kaip 10 metų arba jei draudimo išmoka išmokama apdraustajam sulaukus pensinio amžiaus pagal Profesinių pensijų kaupimo įstatymo nuostatas, draudimo įmonių gyvybės draudimo investicinės pajamos, išskyrus dividendus ir kitą paskirstytąjį pelną, bei draudimo įmonių draudimo investicinės pajamos pagal profesinių pensijų gyvybės draudimo sutartis, sudarytas pagal Profesinių pensijų kaupimo įstatymo nuostatas;
 
-Pastaba. 16 punkto nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-661).
+TAR pastaba. 16 punkto nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-661).
 
 17) Lietuvos Respublikos įstatymuose arba kituose teisės aktuose nustatyto dydžio tiesioginės ir kitos kompensacinės išmokos pajamų lygiui palaikyti, kurias gauna žemės ūkio veiklą vykdantys vienetai.
 
@@ -1401,7 +1401,13 @@ Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 
 1. Lietuvos vienetai ir nuolatinės buveinės, kurių pajamos apmokestinamos šio Įstatymo nustatyta tvarka, privalo užpildyti metines pelno mokesčio ir (arba) metines fiksuoto pelno mokesčio bei avansinio pelno mokesčio deklaracijas ir pateikti jas tam vietos mokesčio administratoriui, kurio veiklos teritorijoje jie yra arba privalo būti įregistruoti mokesčio mokėtojais. Vienetai, gautą paramą panaudoję ne pagal Lietuvos Respublikos labdaros ir paramos įstatyme nustatytą paramos paskirtį, taip pat iš vieno paramos teikėjo per mokestinį laikotarpį grynais pinigais gavę paramą, viršijančią 250 MGL dydžio sumą, privalo užpildyti metines pelno mokesčio deklaracijas ir pateikti jas tam vietos mokesčio administratoriui, kurio veiklos teritorijoje jie yra arba privalo būti įregistruoti mokesčio mokėtojais.
 
-2. Metinė pelno mokesčio ir (arba) metinė fiksuoto pelno mokesčio deklaracijos kartu su finansinių ataskaitų rinkiniu (jeigu teisės aktų nustatyta tvarka jis privalo būti sudarytas) pateikiamos pasibaigus mokestiniam laikotarpiui iki kito mokestinio laikotarpio šešto mėnesio pirmos dienos. Lietuvos vieneto arba nuolatinės buveinės paskutinio mokestinio laikotarpio metinė pelno mokesčio ir (arba) metinė fiksuoto pelno mokesčio deklaracijos kartu su finansinių ataskaitų rinkiniu (jeigu teisės aktų nustatyta tvarka jis privalo būti sudarytas) pateikiamos per 30 dienų nuo veiklos pabaigos.
+2. Metinė pelno mokesčio ir (arba) metinė fiksuoto pelno mokesčio deklaracijos pateikiamos pasibaigus mokestiniam laikotarpiui iki kito mokestinio laikotarpio šešto mėnesio pirmos dienos. Lietuvos vieneto arba nuolatinės buveinės paskutinio mokestinio laikotarpio metinė pelno mokesčio ir (arba) metinė fiksuoto pelno mokesčio deklaracijos pateikiamos per 30 dienų nuo veiklos pabaigos.
+
+TAR pastaba. 2 dalies nuostatos taikomos deklaruojant 2015 m. sausio 1 d. ir vėliau prasidedančių mokestinių laikotarpių pelno mokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1654, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06528
 
 3. Avansinio pelno mokesčio deklaracijos pateikimas:
 
@@ -1619,7 +1625,7 @@ Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 
 10. Šio straipsnio nuostatos taikomos tik tuo atveju, kai šio Įstatymo 41 straipsnio 2 dalies 4, 5, 6 ir 7 punktuose nustatytais atvejais vienetas ar jo dalyviai, mainais gavę akcijų (dalių, pajų), jų neparduoda ar kitaip neperleidžia nuosavybėn trejus metus, išskyrus atvejus, kai akcijos (dalys, pajai) perleidžiamos dėl teisės aktų reikalavimų, ar vėlesnius šio Įstatymo 41 straipsnio 2 dalies 4, 5, 6 ir 7 punktuose nustatytus atvejus.
 
-Pastaba. 10 dalies nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-428).
+TAR pastaba. 10 dalies nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-428).
 
 11. Šio Įstatymo 41 straipsnyje nustatytais atvejais pinigais apmokėtas akcijų kainų skirtumas priskiriamas jį gavusio vieneto dalyvio pajamoms.
 
@@ -1975,11 +1981,11 @@ Nr. XI-1698, 2011-11-17, Žin., 2011, Nr. 146-6844 (2011-12-01)
 
 4. Mokestinio laikotarpio nuostolius, išskyrus nuostolius dėl vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo (ne finansų įstaigų), galima perkėlinėti neribotą laikotarpį, tačiau toks perkėlimas nutraukiamas, jeigu vienetas nebetęsia veiklos, dėl kurios šie nuostoliai susidarė, išskyrus atvejus, kai vienetas veiklos nebetęsia dėl nuo jo nepriklausančių priežasčių. Šioje dalyje nurodytų perkeliamų atskaitomų mokestinių nuostolių, išskyrus mokestinius nuostolius vienetų, kurių apmokestinamasis pelnas pagal šio Įstatymo 5 straipsnio 2 dalies nuostatas apmokestinamas taikant 5 procentų mokesčio tarifą, suma negali būti didesnė kaip 70 procentų mokesčio mokėtojo mokestinio laikotarpio pajamų, apskaičiuotų iš pajamų atėmus neapmokestinamąsias pajamas, leidžiamus atskaitymus ir ribojamų dydžių leidžiamus atskaitymus, išskyrus ankstesnių metų mokestinių laikotarpių nuostolius.
 
-Pastaba. 4 dalies nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-661).
+TAR pastaba. 4 dalies nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-661).
 
 5. Nuostoliai dėl vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo (ne finansų įstaigų) perkeliami ne ilgiau kaip penkis vienas po kito einančius mokestinius laikotarpius, pradedant tuo mokestiniu laikotarpiu, kuris eina po to mokestinio laikotarpio, kurį šie nuostoliai susidarė.
 
-Pastaba. 5 dalies nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-661).
+TAR pastaba. 5 dalies nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-661).
 
 6. Lietuvos vienetų nuolatinių buveinių, laikomų mokesčių mokėtojais ne pagal Lietuvos Respublikos teisės aktus, mokestinio laikotarpio nuostoliai neperkeliami.
 
