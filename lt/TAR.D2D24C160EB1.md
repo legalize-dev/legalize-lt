@@ -4,7 +4,7 @@ identifier: "TAR.D2D24C160EB1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-14"
-last_updated: "2015-01-01"
+last_updated: "2015-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D2D24C160EB1"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-31
+Suvestinė redakcija nuo 2015-06-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-787, i. k. 0961010ISTA00I-1232
 
@@ -218,7 +218,11 @@ FONDO VALDYMAS
 
 6. Visuotinis dalininkų susirinkimas turi įvykti fondo įstatuose nustatyta tvarka pasibaigus finansiniams metams, bet ne vėliau kaip per 4 mėnesius.
 
-7. Visuotinis dalininkų susirinkimas gali priimti sprendimus, kai jame dalyvauja daugiau kaip 1/2 balsų visuotiniame dalininkų susirinkime turinčių fondo dalininkų, jeigu fondo įstatuose nenustatyta didesnė dauguma. Jeigu visuotiniame dalininkų susirinkime nėra kvorumo, fondo įstatuose nustatyta tvarka turi būti šaukiamas pakartotinis susirinkimas ne anksčiau kaip po 5 dienų ir ne vėliau kaip po 21 dienos nuo neįvykusio visuotinio akcininkų susirinkimo dienos. Šis susirinkimas turi teisę priimti sprendimus neįvykusio visuotinio dalininkų susirinkimo darbotvarkės klausimais, nepaisydamas jame dalyvaujančių dalininkų skaičiaus.
+7. Visuotinis dalininkų susirinkimas gali priimti sprendimus, kai jame dalyvauja daugiau kaip 1/2 balsų visuotiniame dalininkų susirinkime turinčių fondo dalininkų, jeigu fondo įstatuose nenustatyta didesnė dauguma. Jeigu visuotiniame dalininkų susirinkime nėra kvorumo, fondo įstatuose nustatyta tvarka turi būti šaukiamas pakartotinis susirinkimas ne anksčiau kaip po 5 dienų ir ne vėliau kaip po 21 dienos nuo neįvykusio visuotinio dalininkų susirinkimo dienos. Šis susirinkimas turi teisę priimti sprendimus neįvykusio visuotinio dalininkų susirinkimo darbotvarkės klausimais, nepaisydamas jame dalyvaujančių dalininkų skaičiaus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
 
 8. Visuotinio dalininkų susirinkimo sprendimas laikomas priimtu, kai už jį gauta daugiau balsavimo metu dalyvaujančių fondo dalininkų balsų „už“ negu „prieš“ (asmenys, kurie balsuodami susilaiko, neskaičiuojami, tai yra jie laikomi balsuojant nedalyvavusiais asmenimis), jeigu fondo įstatuose nenustatyta didesnė dauguma. Šio straipsnio 2 dalies 1, 7 ir 8 punktuose nurodytiems visuotinio dalininkų susirinkimo sprendimams priimti ir skiriant (renkant) kolegialių valdymo organų narius reikia ne mažiau kaip 2/3 susirinkime dalyvaujančių fondo dalininkų balsų. Šios dalies nuostatos taikomos ir priimant sprendimus pakartotiniame dalininkų susirinkime.
 
@@ -228,7 +232,11 @@ FONDO VALDYMAS
 
 1. Valdymo organas veikia fondo vardu, kai fondas palaiko santykius su kitais asmenimis, taip pat sudaro sandorius fondo vardu.
 
-2. Valdymo organas, be Civilinio kodekso 2.82 straipsnyje nustatytų funkcijų, priima į darbą ir iš jo atleidžia darbuotojus, sudaro su jais darbo sutartis, rengia ir pateikia visuotiniam dalininkų susirinkimui fondo metinį pranešimą, skirsto lėšas labdarai ir paramai, tvirtina turtinių įnašų įvertinimą, analizuoja fondo veiklos rezultatus, pajamų ir išlaidų sąmatas, mokestinių patikrinimų ir auditų, inventorizacijos ir kitus vertybių apskaitos duomenis, skelbia viešą informaciją ar organizuoja jos paskelbimą, organizuoja savanoriškus darbus Lietuvos Respublikos savanoriškos veiklos įstatymo nustatyta tvarka, sprendžia kitus šiame įstatyme ir fondo įstatuose valdymo organo kompetencijai priskirtus klausimus. Valdymo organas taip pat priima sprendimus dėl filialų ir atstovybių steigimo bei jų veiklos nutraukimo ir tvirtina jų nuostatus, jeigu fondo įstatuose nenustatyta kitaip.
+2. Valdymo organas, be Civilinio kodekso 2.82 straipsnyje nustatytų funkcijų, priima į darbą ir iš jo atleidžia darbuotojus, sudaro su jais darbo sutartis, rengia ir pateikia visuotiniam dalininkų susirinkimui fondo metinį pranešimą ir metinių finansinių ataskaitų rinkinį, skirsto lėšas labdarai ir paramai, tvirtina turtinių įnašų įvertinimą, analizuoja fondo veiklos rezultatus, pajamų ir išlaidų sąmatas, mokestinių patikrinimų ir auditų, inventorizacijos ir kitus vertybių apskaitos duomenis, skelbia viešą informaciją ar organizuoja jos paskelbimą, organizuoja savanorišką veiklą Lietuvos Respublikos savanoriškos veiklos įstatymo nustatyta tvarka, sprendžia kitus šiame įstatyme ir fondo įstatuose valdymo organo kompetencijai priskirtus klausimus. Valdymo organas taip pat priima sprendimus dėl filialų ir atstovybių steigimo bei jų veiklos nutraukimo ir tvirtina jų nuostatus, jeigu fondo įstatuose nenustatyta kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
 
 3. Jeigu fondas valdo neliečiamąjį kapitalą, privalo būti sudarytas kolegialus valdymo organas. Kolegialus valdymo organas atsako už neliečiamajam kapitalui perduotų lėšų investavimo tvarkos (strategijos) įgyvendinimą, taip pat už neliečiamąjį kapitalą sudarančių lėšų investavimo ir valdymo tikslų pasiekimą.
 
@@ -298,9 +306,13 @@ FONDO VALDYMAS
 
 5. Fondo metiniame pranešime gali būti pateikiama ir kita informacija, kurią nustato įstatymai ar visuotinis dalininkų susirinkimas.
 
-6. Kiekvienais metais fondo, valdančio neliečiamąjį kapitalą, audituotas metinių finansinių ataskaitų rinkinys kartu su metiniu pranešimu per 30 dienų nuo visuotinio akcininkų susirinkimo turi būti pateiktas Juridinių asmenų registro tvarkytojui. Fondas, valdantis neliečiamąjį kapitalą, pateikdamas metinį pranešimą, Juridinių asmenų registro tvarkytojui pateikia duomenis ir apie neliečiamojo kapitalo dydį ir sudėtį finansinių metų pabaigoje.
+6. Kiekvienais metais fondo metinių finansinių ataskaitų rinkinys, o tais atvejais, kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada ar fondo, valdančio neliečiamąjį kapitalą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada ir metinis pranešimas turi būti pateikti Juridinių asmenų registro tvarkytojui. Fondas, valdantis neliečiamąjį kapitalą, pateikdamas metinį pranešimą, Juridinių asmenų registro tvarkytojui pateikia duomenis ir apie neliečiamojo kapitalo dydį ir sudėtį finansinių metų pabaigoje.
 
-TAR pastaba. Lietuvos Respublikos labdaros ir paramos fondų įstatymo 12 straipsnio 6 dalies nuostatos dėl labdaros ir paramos fondo, valdančio neliečiamąjį kapitalą, audito taikomos atliekant 2013 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių labdaros ir paramos fondo, valdančio neliečiamąjį kapitalą, metinių finansinių ataskaitų rinkinio auditą.
+TAR pastaba. 6 dalies nuostatos dėl metinių finansinių ataskaitų rinkinio teikimo Juridinių asmenų registro tvarkytojui taikomos teikiant 2015 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
 
 KETVIRTASIS SKIRSNIS
 
@@ -645,4 +657,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1247, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14871
 
 Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 20 ir 21 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
+
+Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 8, 9 ir 12 straipsnių pakeitimo įstatymas
 
