@@ -4,7 +4,7 @@ identifier: "TAR.C71CC1B1BFCE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-03-16"
-last_updated: "2015-01-01"
+last_updated: "2015-06-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C71CC1B1BFCE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,15 +16,11 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-15
+Suvestinė redakcija nuo 2015-06-16 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-851, i. k. 0991010ISTAIII-1087
 
-LIETUVOS RESPUBLIKOS
-
-ĮSAKOMŲJŲ IR PAPRASTŲJŲ VEKSELIŲ
-
-Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS ĮSAKOMŲJŲ IR PAPRASTŲJŲ VEKSELIŲ Į S T A T Y M A S
 
 1999 m. kovo 16 d. Nr. VIII-1087
 
@@ -92,7 +88,13 @@ I SKYRIUS
 
 7) vekselio išrašymo vieta ir data;
 
-8) išrašančio vekselį asmens (vekselio davėjo) parašas.
+8) išrašančio vekselį asmens (vekselio davėjo) parašas;
+
+9) tais atvejais, kai įsakomąjį vekselį išrašantis ūkio subjektas netvarko apskaitos pagal supaprastintos apskaitos taisykles, – tai patvirtinanti informacija.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1761, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09297
 
 2. Įsakomasis vekselis, kurio suma didesnė kaip trys tūkstančiai eurų, turi būti notarinės formos, jeigu vekselio davėjas yra fizinis asmuo arba ūkio subjektas, tvarkantis apskaitą pagal supaprastintos apskaitos taisykles.
 
@@ -420,9 +422,7 @@ Nepateikus vekselio apmokėti šio įstatymo 40 straipsnyje nurodytu terminu, sk
 
 VII SKYRIUS
 
-REIKALAVIMAI VEKSELIO NEAKCEPTAVUS
-
-ARBA NEAPMOKĖJUS
+REIKALAVIMAI VEKSELIO NEAKCEPTAVUS ARBA NEAPMOKĖJUS
 
 45 straipsnis. Reikalavimų sumokėti pareiškimas
 
@@ -686,9 +686,7 @@ Reikalavimų pateikimo senaties terminas gali būti nutrauktas tik tam asmeniui,
 
 XII SKYRIUS
 
-ĮSIPAREIGOJIMŲ PAGAL VEKSELĮ
-
-ĮVYKDYMO TERMINŲ SKAIČIAVIMAS
+ĮSIPAREIGOJIMŲ PAGAL VEKSELĮ  ĮVYKDYMO TERMINŲ SKAIČIAVIMAS
 
 74 straipsnis. Nedarbo dienos
 
@@ -724,7 +722,13 @@ PAPRASTASIS VEKSELIS
 
 6) išrašymo vieta ir data;
 
-7) išrašančiojo paprastąjį vekselį asmens (paprastojo vekselio davėjo) parašas.
+7) išrašančiojo paprastąjį vekselį asmens (paprastojo vekselio davėjo) parašas;
+
+8) tais atvejais, kai paprastąjį vekselį išrašantis ūkio subjektas netvarko apskaitos pagal supaprastintos apskaitos taisykles, – tai patvirtinanti informacija.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1761, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09297
 
 2. Paprastasis vekselis, kurio suma didesnė kaip trys tūkstančiai eurų, turi būti notarinės formos, jeigu vekselio davėjas yra fizinis asmuo arba ūkio subjektas, tvarkantis apskaitą pagal supaprastintos apskaitos taisykles.
 
@@ -805,4 +809,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1093, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12713
 
 Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymo Nr. VIII-1087 3, 15, 27, 59, 77 ir 80 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1761, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09297
+
+Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymo Nr. VIII-1087 3 ir 77 straipsnių pakeitimo įstatymas
 
