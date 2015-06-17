@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2015-04-03"
+last_updated: "2015-06-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2015-04-03 iki 2015-06-16
+Suvestinė redakcija nuo 2015-06-17 iki 2015-07-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -565,7 +565,7 @@ TEISMO POSĖDŽIO PERTRAUKA, BYLOS NAGRINĖJIMO ATIDĖJIMAS IR BYLOS SUSTABDYMAS
 
 163 straipsnis. Privalomas bylos sustabdymas
 
-Teismas privalo sustabdyti bylą šiais atvejais:
+1. Teismas privalo sustabdyti bylą šiais atvejais:
 
 1) kai miršta fizinis asmuo arba pasibaigia juridinis asmuo, kuris buvo bylos šalis, jeigu atsižvelgiant į ginčo teisinius santykius yra leidžiamas teisių perėmimas;
 
@@ -579,7 +579,7 @@ Teismas privalo sustabdyti bylą šiais atvejais:
 
 6) kai nagrinėjant bylą, kurioje komerciniam bankui pareikšti turtiniai reikalavimai, paaiškėja, kad Lietuvos bankas yra paskyręs komerciniam bankui laikinąjį administratorių;
 
-7) kai teismas kreipiasi arba kiti teismai jau kreipėsi į Konstitucinį Teismą šio Kodekso 3 straipsnio 3 dalyje nustatyta tvarka ir pagrindais;
+7) kai teismas kreipiasi arba kiti teismai jau kreipėsi į Konstitucinį Teismą šio Kodekso 3 straipsnio 3 dalyje nustatyta tvarka ir pagrindais;
 
 8) kai teismas kreipiasi arba kiti teismai jau kreipėsi į administracinį teismą šio Kodekso 3 straipsnio 4 dalyje nustatyta tvarka ir pagrindais;
 
@@ -587,9 +587,13 @@ Teismas privalo sustabdyti bylą šiais atvejais:
 
 10) kitais įstatymų numatytais atvejais.
 
+2. Lietuvos Aukščiausiasis Teismas sustabdo bylą, kai kreipiasi į Europos Žmogaus Teisių Teismą šio Kodekso 3 straipsnio 6 dalyje nustatyta tvarka ir pagrindais.
+
+TAR pastaba. Papildymas 2 dalimi įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną.
+
 Straipsnio pakeitimai:
 
-Nr. IX-1490, 2003-04-08, Žin., 2003, Nr. 39-1765 (2003-04-25)
+Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
 
 5) kurios grindžiamos šalių pripažintais faktais (šio Kodekso 187 straipsnis);
 
@@ -5459,6 +5463,14 @@ Teismas gali dalyvaujančių byloje asmenų pareiškimu ar savo iniciatyva susta
 
 Dėl teismo nutarties sustabdyti bylą, išskyrus nutartį sustabdyti bylą dėl kreipimosi į kompetentingą Europos Sąjungos teisminę instituciją, Konstitucinį Teismą ar administracinį teismą, gali būti duodamas atskirasis skundas.
 
+1 dalies redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos:
+
+Dėl teismo nutarties sustabdyti bylą, išskyrus nutartį sustabdyti bylą dėl kreipimosi į kompetentingą Europos Sąjungos teisminę instituciją, Europos Žmogaus Teisių Teismą, Konstitucinį Teismą ar administracinį teismą, gali būti duodamas atskirasis skundas.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
+
 166 straipsnis. Bylos sustabdymo terminai ir pasekmės
 
 1. Byla sustabdoma:
@@ -7090,6 +7102,14 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 1. Procesas gali būti atnaujinamas, jei yra šie pagrindai:
 
 1) kai Europos žmogaus teisių teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika;
+
+1 punkto redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos:
+
+1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
 
 2) naujai paaiškėja esminių bylos aplinkybių, kurios nebuvo ir negalėjo būti žinomos pareiškėjui bylos nagrinėjimo metu;
 
