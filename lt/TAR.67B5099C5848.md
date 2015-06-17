@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2015-03-01"
+last_updated: "2015-06-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr. –––––
 
-Suvestinė redakcija nuo 2015-03-01 iki 2015-06-16
+Suvestinė redakcija nuo 2015-06-17 iki 2015-12-01
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
 
@@ -129,11 +129,37 @@ Nr. X-1174, 2007-06-07, Žin., 2007, Nr. 72-2830 (2007-06-30)
 
 3. Taikydamas Europos Sąjungos teisės normas, teismas taip pat vadovaujasi Europos Sąjungos teisminių institucijų sprendimais ir preliminariais nutarimais. Įstatymų nustatytais atvejais teismas kreipiasi į kompetentingą Europos Sąjungos teisminę instituciją prašydamas preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu.
 
-4. Administracinių bylų procesas vyksta pagal administracinio proceso įstatymus, galiojančius bylos nagrinėjimo, atskirų procesinių veiksmų atlikimo arba teismo sprendimo vykdymo metu.
+4. Lietuvos vyriausiasis administracinis teismas, kai tai susiję su jo nagrinėjama byla, gali kreiptis į Europos žmogaus teisių teismą su prašymu pateikti konsultacinę išvadą dėl principinių klausimų, susijusių su Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu.
 
-5. Jeigu yra prieštaravimas tarp šio įstatymo normų ir kitų įstatymų (išskyrus specialiuosius įstatymus), teismas turi vadovautis Administracinių bylų teisenos įstatymo normomis.
+TAR pastaba. Papildymas 4 dalimi įsigalioja nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
 
-6. Jeigu nėra įstatymo, reglamentuojančio ginčo santykį, teismas taiko įstatymą, reglamentuojantį panašius santykius, o jei ir tokio įstatymo nėra, – vadovaujasi bendraisiais įstatymų pradmenimis ir jų prasme, taip pat teisingumo ir protingumo kriterijais.
+Papildyta straipsnio dalimi:
+
+Nr. XII-1774, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09618
+
+5. Administracinių bylų procesas vyksta pagal administracinio proceso įstatymus, galiojančius bylos nagrinėjimo, atskirų procesinių veiksmų atlikimo arba teismo sprendimo vykdymo metu.
+
+TAR pastaba. Buvusi 4 dalis laikoma 5 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1774, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09618
+
+6. Jeigu yra prieštaravimas tarp šio įstatymo normų ir kitų įstatymų (išskyrus specialiuosius įstatymus), teismas turi vadovautis Administracinių bylų teisenos įstatymo normomis.
+
+TAR pastaba. Buvusi 5 dalis laikoma 6 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1774, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09618
+
+7. Jeigu nėra įstatymo, reglamentuojančio ginčo santykį, teismas taiko įstatymą, reglamentuojantį panašius santykius, o jei ir tokio įstatymo nėra, – vadovaujasi bendraisiais įstatymų pradmenimis ir jų prasme, taip pat teisingumo ir protingumo kriterijais.
+
+TAR pastaba. Buvusi 6 dalis laikoma 7 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1774, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09618
 
 Straipsnio pakeitimai:
 
@@ -1825,7 +1851,21 @@ IR SKUNDO (PRAŠYMO) PALIKIMAS NENAGRINĖTO
 
 8) kai teismas kreipiasi į kompetentingą Europos Sąjungos teisminę instituciją prašydamas preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu.
 
-2. Dėl teismo nutarties sustabdyti bylą, išskyrus nutartį sustabdyti bylą dėl kreipimosi į Konstitucinį Teismą ar administracinį teismą arba nutartį pradėti norminio administracinio akto teisėtumo tyrimą, gali būti duodamas atskirasis skundas.
+2. Lietuvos vyriausiasis administracinis teismas sustabdo bylą, kai kreipiasi į Europos žmogaus teisių teismą su prašymu pateikti konsultacinę išvadą dėl principinių klausimų, susijusių su Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu.
+
+TAR pastaba. Papildymas 2 dalimi įsigalioja nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1774, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09618
+
+3. Dėl teismo nutarties sustabdyti bylą, išskyrus nutartį sustabdyti bylą dėl kreipimosi į Konstitucinį Teismą ar administracinį teismą arba nutartį pradėti norminio administracinio akto teisėtumo tyrimą, gali būti duodamas atskirasis skundas.
+
+TAR pastaba. Buvusi 2 dalis laikoma 3 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1774, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09618
 
 Straipsnio pakeitimai:
 
@@ -1841,7 +1881,15 @@ Byla sustabdoma:
 
 3) šio įstatymo 98 straipsnio 1 dalies 4, 5, 6 ir 7 punktuose numatytais atvejais – kol atitinkamai Konstitucinis Teismas ar administracinis teismas išnagrinės bylą ar kol bus atlikta ekspertizė arba gauti įrodymai iš užsienio valstybės.
 
-4) šio įstatymo 98 straipsnio 1 dalies 8 punkte numatytu atveju – kol bus gautas kompetentingos Europos Sąjungos teisminės institucijos preliminarus nutarimas.
+4) šio įstatymo 98 straipsnio 1 dalies 8 punkte numatytu atveju – kol bus gautas kompetentingos Europos Sąjungos teisminės institucijos preliminarus nutarimas;
+
+5) šio įstatymo 98 straipsnio 2 dalyje numatytu atveju – kol bus gauta Europos žmogaus teisių teismo konsultacinė išvada.
+
+TAR pastaba. Papildymas 5 punktu įsigalioja nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1774, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09618
 
 Straipsnio pakeitimai:
 
