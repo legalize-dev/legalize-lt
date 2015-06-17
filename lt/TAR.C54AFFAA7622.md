@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2015-01-01"
+last_updated: "2015-06-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-16
+Suvestinė redakcija nuo 2015-06-17 iki 2015-07-01
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
 
@@ -72,7 +72,11 @@ Nr. XII-1326, 2014-11-13, paskelbta TAR 2014-11-18, i. k. 2014-17045
 
 1) darbo sutartims;
 
-2) finansinių paslaugų, susijusių su pinigų, valiutų keitimo kurso, valstybės skolos valdymo, iždo agento, užsienio atsargų valdymo arba kitų politikos sričių, susijusių su vertybinių popierių arba kitokių finansinių priemonių sandoriais, pirkimams;
+2) finansinių paslaugų, susijusių su pinigų, valiutų keitimo kurso, valstybės skolos valdymo, iždo agento, finansinio turto valdymo arba kitų politikos sričių, susijusių su vertybinių popierių arba kitokių finansinių priemonių sandoriais, pirkimams, finansinių paslaugų, susijusių su vertybinių popierių arba kitokių finansinių priemonių emisija, pardavimu, pirkimu ar perleidimu, pirkimams ir paskolų, susijusių ar nesusijusių su vertybinių popierių arba kitokių finansinių priemonių emisija, pardavimu, pirkimu ar perleidimu, pirkimams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
 
 3) Lietuvos banko teikiamų paslaugų pirkimams;
 
@@ -1096,7 +1100,15 @@ Nr. XI-678, 2010-02-11, Žin., 2010, Nr. 25-1174 (2010-03-02)
 
 33 straipsnis. Sąlygos, draudžiančios ir ribojančios tiekėjų dalyvavimą pirkime
 
-1. Perkančioji organizacija atmeta paraiškas ir pasiūlymus, jei tiekėjas, kuris yra fizinis asmuo, arba tiekėjo, kuris yra juridinis asmuo, vadovas ar ūkinės bendrijos tikrasis narys (nariai), turintis (turintys) teisę juridinio asmens vardu sudaryti sandorį, ar buhalteris (buhalteriai) ar kitas (kiti) asmuo (asmenys), turintis (turintys) teisę surašyti ir pasirašyti tiekėjo apskaitos dokumentus, turi neišnykusį ar nepanaikintą teistumą arba dėl tiekėjo (juridinio asmens) per pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už dalyvavimą nusikalstamame susivienijime, jo organizavimą ar vadovavimą jam, už kyšininkavimą, tarpininko kyšininkavimą, papirkimą, sukčiavimą, kredito, paskolos ar tikslinės paramos panaudojimą ne pagal paskirtį ar nustatytą tvarką, kreditinį sukčiavimą, mokesčių nesumokėjimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, nusikalstamu būdu gauto turto įgijimą ar realizavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, arba dėl kitų valstybių tiekėjų yra priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyvos 2004/18/EB dėl viešojo darbų, prekių ir paslaugų pirkimo sutarčių sudarymo tvarkos derinimo 45 straipsnio 1 dalyje išvardytuose Europos Sąjungos teisės aktuose apibrėžtus nusikaltimus.
+1. Perkančioji organizacija atmeta paraiškas ir pasiūlymus, jeigu tiekėjas:
+
+1) fizinis asmuo arba tiekėjo, kuris yra juridinis asmuo, vadovas ar ūkinės bendrijos tikrasis narys (nariai), turintis (turintys) teisę juridinio asmens vardu sudaryti sandorį, ar buhalteris (buhalteriai) ar kitas (kiti) asmuo (asmenys), turintis (turintys) teisę surašyti ir pasirašyti tiekėjo apskaitos dokumentus, turi neišnykusį ar nepanaikintą teistumą arba dėl tiekėjo (juridinio asmens) per pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už dalyvavimą nusikalstamame susivienijime, jo organizavimą ar vadovavimą jam, už kyšininkavimą, tarpininko kyšininkavimą, papirkimą, sukčiavimą, kredito, paskolos ar tikslinės paramos panaudojimą ne pagal paskirtį ar nustatytą tvarką, kreditinį sukčiavimą, mokesčių nesumokėjimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, nusikalstamu būdu gauto turto įgijimą ar realizavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, arba dėl kitų valstybių tiekėjų yra priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyvos 2004/18/EB dėl viešojo darbų, prekių ir paslaugų pirkimo sutarčių sudarymo tvarkos derinimo 45 straipsnio 1 dalyje išvardytuose Europos Sąjungos teisės aktuose apibrėžtus nusikaltimus;
+
+2) nėra įvykdęs įsipareigojimų, susijusių su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu pagal šalies, kurioje jis registruotas, ar šalies, kurioje yra perkančioji organizacija, reikalavimus. Tiekėjas laikomas įvykdžiusiu įsipareigojimus, susijusius su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, jeigu jo neįvykdytų įsipareigojimų suma yra mažesnė kaip 50 eurų;
+
+TAR pastaba. 2 punktas įsigalioja 2016-01-01.
+
+3) fizinis asmuo arba tiekėjo, kuris yra juridinis asmuo, dalyvis, turintis balsų daugumą juridinio asmens dalyvių susirinkime, turi neišnykusį ar nepanaikintą teistumą už nusikalstamą bankrotą.
 
 2. Perkančioji organizacija pirkimo dokumentuose gali nustatyti, kad paraiška ar pasiūlymas atmetami, jeigu tiekėjas:
 
@@ -1106,25 +1118,27 @@ Nr. XI-678, 2010-02-11, Žin., 2010, Nr. 25-1174 (2010-03-02)
 
 3) fizinis asmuo turi neišnykusį ar nepanaikintą teistumą arba juridinis asmuo, dėl kurio per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis už nusikalstamas veikas nuosavybei, turtinėms teisėms ir turtiniams interesams, intelektinei ar pramoninei nuosavybei, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, išskyrus šio straipsnio 1 dalyje išvardytas veikas;
 
-4) yra padaręs rimtą profesinį pažeidimą, kurį perkančioji organizacija gali įrodyti bet kokiomis teisėtomis priemonėmis. Šiame punkte vartojama sąvoka „profesinis pažeidimas“ suprantama kaip profesinės etikos pažeidimas, kai nuo tiekėjo pripažinimo nesilaikančiu profesinės etikos normų momento praėjo mažiau kaip vieni metai, arba kaip konkurencijos, darbo, darbuotojų saugos ir sveikatos, aplinkosaugos teisės aktų pažeidimas, už kurį tiekėjui, kuris yra fizinis asmuo, yra paskirta administracinė nuobauda, o tiekėjui, kuris yra juridinis asmuo, – ekonominė sankcija, nustatyta Lietuvos Respublikos įstatymuose, kai nuo sprendimo, kuriuo buvo paskirta ši sankcija, įsiteisėjimo dienos praėjo mažiau kaip vieni metai. Jeigu pirkime dalyvaujantis tiekėjas, kuris yra juridinis asmuo, pažeidė Lietuvos Respublikos konkurencijos įstatymo 5 straipsnį, toks pažeidimas pagal šį punktą laikomas profesiniu, jeigu nuo sprendimo paskirti Lietuvos Respublikos konkurencijos įstatyme nustatytą ekonominę sankciją įsiteisėjimo dienos praėjo mažiau kaip 3 metai;
+4) yra padaręs rimtą profesinį pažeidimą, kurį perkančioji organizacija gali įrodyti bet kokiomis teisėtomis priemonėmis. Šiame punkte vartojama sąvoka „rimtas profesinis pažeidimas“ suprantama kaip profesinės etikos pažeidimas, kai nuo tiekėjo pripažinimo nesilaikančiu profesinės etikos normų momento praėjo mažiau kaip vieni metai, arba kaip konkurencijos, darbo, darbuotojų saugos ir sveikatos, aplinkosaugos teisės aktų pažeidimas, už kurį tiekėjui, kuris yra fizinis asmuo, yra paskirta administracinė nuobauda, o tiekėjui, kuris yra juridinis asmuo, – ekonominė sankcija, nustatyta Lietuvos Respublikos įstatymuose, kai nuo sprendimo, kuriuo buvo paskirta ši sankcija, įsiteisėjimo dienos praėjo mažiau kaip vieni metai. Jeigu pirkime dalyvaujantis tiekėjas, kuris yra juridinis asmuo, pažeidė Lietuvos Respublikos konkurencijos įstatymo 5 straipsnį, toks pažeidimas pagal šį punktą laikomas rimtu profesiniu pažeidimu, jeigu nuo sprendimo paskirti Lietuvos Respublikos konkurencijos įstatyme nustatytą ekonominę sankciją įsiteisėjimo dienos praėjo mažiau kaip 3 metai. Jeigu tiekėjas, kuris yra fizinis asmuo, arba tiekėjo, kuris yra juridinis asmuo, dalyvis, turintis balsų daugumą juridinio asmens dalyvių susirinkime, yra pripažintas kaltu dėl tyčinio bankroto, kaip jis apibrėžtas Lietuvos Respublikos įmonių bankroto įstatyme, toks pažeidimas pagal šį punktą laikomas rimtu profesiniu pažeidimu, jeigu nuo teismo sprendimo įsiteisėjimo dienos praėjo mažiau kaip 3 metai;
 
-5) nėra įvykdęs įsipareigojimų, susijusių su socialinio draudimo įmokų mokėjimu pagal šalies, kurioje jis registruotas, ar šalies, kurioje yra perkančioji organizacija, reikalavimus;
+5) apie atitiktį nustatytiems reikalavimams yra pateikęs melagingą informaciją, kurią perkančioji organizacija gali įrodyti bet kokiomis teisėtomis priemonėmis;
 
-6) nėra įvykdęs įsipareigojimų, susijusių su mokesčių mokėjimu pagal šalies, kurioje jis registruotas, ar šalies, kurioje yra perkančioji organizacija, reikalavimus;
+6) fizinis asmuo yra baustas už leidimą dirbti nelegalų darbą, jeigu nuo administracinės nuobaudos paskyrimo praėjo mažiau kaip vieni metai, arba tiekėjas, kuris yra juridinis asmuo, yra baustas už leidimą dirbti nelegaliai trečiųjų šalių piliečiams, jeigu nuo nuobaudos paskyrimo praėjo mažiau kaip vieni metai;
 
-7) apie nustatytų reikalavimų atitikimą yra pateikęs melagingą informaciją, kurią perkančioji organizacija gali įrodyti bet kokiomis teisėtomis priemonėmis;
+7) fizinis asmuo turi neišnykusį ar nepanaikintą teistumą arba tiekėjui, kuris yra juridinis asmuo, per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis už Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbą;
 
-8) fizinis asmuo yra baustas už leidimą dirbti nelegalų darbą, jeigu nuo administracinės nuobaudos paskyrimo praėjo mažiau kaip vieni metai, arba tiekėjas, kuris yra juridinis asmuo, yra baustas už leidimą dirbti nelegaliai trečiųjų šalių piliečiams, jeigu nuo nuobaudos paskyrimo praėjo mažiau kaip vieni metai;
+8) yra neįvykdęs pirkimo sutarties ar netinkamai ją įvykdęs ir tai buvo esminis pirkimo sutarties pažeidimas, dėl to per pastaruosius 3 metus buvo nutraukta pirkimo sutartis arba per pastaruosius 3 metus buvo priimtas ir įsiteisėjęs teismo sprendimas, kuriuo tenkinami perkančiosios organizacijos reikalavimai pripažinti pirkimo sutarties neįvykdymą ar netinkamą įvykdymą esminiu ir atlyginti dėl to patirtus nuostolius;
 
-9) fizinis asmuo turi neišnykusį ar nepanaikintą teistumą arba tiekėjui, kuris yra juridinis asmuo, per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis už Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbą.
+TAR pastaba. 8 punktas įsigalioja 2016-01-01.
 
-3. Perkančioji organizacija, pirkimo dokumentuose reikalaudama, kad tiekėjas įrodytų, jog šio straipsnio 1 dalyje ir 2 dalies 1, 2, 3, 5, 6 ir 9 punktuose nurodytų aplinkybių nėra, kaip pakankamą įrodymą priima teismo, valstybės įmonės Registrų centro ar kitos kompetentingos institucijos dokumentą. Tiekėjas nurodytoms aplinkybėms įrodyti gali pateikti valstybės įmonės Registrų centro Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotą dokumentą, patvirtinantį jungtinius kompetentingų institucijų tvarkomus duomenis. Perkančioji organizacija negali reikalauti dokumentų ir informacijos, kurie perkančiajai organizacijai pagal Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymą ar kitus teisės aktus yra neatlygintinai prieinami Lietuvos Respublikos registruose, valstybės informacinėse sistemose ir kitose informacinėse sistemose.
+8 punkto nuostatos taikomos esminiams pirkimo sutarties pažeidimams ir esminiu pripažintinam pirkimo sutarties neįvykdymui ar netinkamam įvykdymui, atsiradusiems nuo 2016-01-01.
 
-4. Jeigu perkančiajai organizacijai kyla abejonių dėl tiekėjo tinkamumo, ji turi teisę kreiptis į kompetentingas institucijas, kad gautų visą reikiamą informaciją. Jei reikalinga informacija yra susijusi su tiekėju iš kitos valstybės narės nei perkančioji organizacija, ji gali kreiptis į atitinkamas tos valstybės narės kompetentingas institucijas.
+3. Perkančioji organizacija, pirkimo dokumentuose reikalaudama, kad tiekėjas įrodytų, jog šio straipsnio 1 dalyje ir 2 dalies 1, 2, 3 ir 7 punktuose nurodytų aplinkybių nėra, kaip pakankamą įrodymą priima teismo, valstybės įmonės Registrų centro ar kitos kompetentingos institucijos dokumentą. Tiekėjas nurodytoms aplinkybėms įrodyti gali pateikti valstybės įmonės Registrų centro Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotą dokumentą, patvirtinantį jungtinius kompetentingų institucijų tvarkomus duomenis. Perkančioji organizacija negali reikalauti dokumentų ir informacijos, kurie perkančiajai organizacijai pagal Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymą yra neatlygintinai prieinami Lietuvos Respublikos registruose, valstybės informacinėse sistemose ir kitose informacinėse sistemose.
 
-5. Jeigu tiekėjas negali pateikti šio straipsnio 3 dalyje nurodytų dokumentų, nes atitinkamoje šalyje tokie dokumentai neišduodami arba toje šalyje išduodami dokumentai neapima visų šio straipsnio 1 dalyje ir 2 dalies 1, 2, 3 ar 9 punkte keliamų klausimų, jie gali būti pakeisti priesaikos deklaracija arba šalyse, kuriose ji netaikoma, – oficialia tiekėjo deklaracija, kurią jis yra pateikęs kompetentingai teisinei arba administracinei institucijai, notarui arba kompetentingai profesinei ar prekybos organizacijai savo kilmės šalyje arba šalyje, iš kurios jis atvyko, o šio straipsnio 2 dalies 1 punkte nurodytais atvejais, kai tiekėjas su kreditoriais nėra sudaręs taikos sutarties, sustabdęs ar apribojęs veiklos, šio straipsnio 2 dalies 2 punkte nurodytu atveju, kai nesiekiama priverstinio likvidavimo procedūros ar susitarimo su kreditoriais, ir šio straipsnio 2 dalies 4 ir 8 punktuose nurodytais atvejais – ir laisvos formos tiekėjo deklaracija.
+4. Jeigu perkančiajai organizacijai kyla abejonių dėl tiekėjo tinkamumo, ji turi teisę kreiptis į kompetentingas institucijas, kad gautų visą reikiamą informaciją. Jeigu reikalinga informacija yra susijusi su tiekėju iš kitos valstybės narės negu perkančioji organizacija, ji gali kreiptis į atitinkamas tos valstybės narės kompetentingas institucijas.
 
-6. Viešųjų pirkimų tarnyba privalo sudaryti Lietuvos Respublikos įmonių ir institucijų, kompetentingų išduoti šio straipsnio 3 dalyje nurodytus dokumentus, sąrašą ir pateikti Europos Komisijai. Viešųjų pirkimų tarnyba taip pat atsakinga už šio sąrašo naujų duomenų pateikimą Europos Komisijai.
+5. Jeigu tiekėjas negali pateikti šio straipsnio 3 dalyje nurodytų dokumentų, nes atitinkamoje šalyje tokie dokumentai neišduodami arba toje šalyje išduodami dokumentai neapima visų šio straipsnio 1 dalies 1 ir 3 punktuose ir 2 dalies 1, 2, 3 ar 7 punkte nurodytų atvejų, jie gali būti pakeisti priesaikos deklaracija arba šalyse, kuriose ji netaikoma, – oficialia tiekėjo deklaracija, kurią jis yra pateikęs kompetentingai teisinei arba administracinei institucijai, notarui arba kompetentingai profesinei ar prekybos organizacijai savo kilmės šalyje arba šalyje, iš kurios jis atvyko, o šio straipsnio 2 dalies 1 punkte nurodytais atvejais, kai tiekėjas su kreditoriais nėra sudaręs taikos sutarties, sustabdęs ar apribojęs veiklos, šio straipsnio 2 dalies 2 punkte nurodytu atveju, kai nesiekiama priverstinio likvidavimo procedūros ar susitarimo su kreditoriais, ir šio straipsnio 2 dalies 4, 6 ir 8 punktuose nurodytais atvejais – ir laisvos formos tiekėjo deklaracija.
+
+6. Viešųjų pirkimų tarnyba privalo sudaryti Lietuvos Respublikos įmonių ir institucijų, kompetentingų išduoti šio straipsnio 3 dalyje nurodytus dokumentus, sąrašą ir pateikti jį Europos Komisijai. Viešųjų pirkimų tarnyba taip pat atsakinga už šio sąrašo naujų duomenų pateikimą Europos Komisijai.
 
 Straipsnio pakeitimai:
 
@@ -1137,6 +1151,10 @@ Nr. XI-1255, 2010-12-23, Žin., 2011, Nr. 2-36 (2011-01-06)
 Nr. XI-1494, 2011-06-21, Žin., 2011, Nr. 85-4137 (2011-07-13)
 
 Nr. XII-569, 2013-10-22, Žin., 2013, Nr. 112-5575 (2013-10-26)
+
+Straipsnio pakeitimai:
+
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
 
 34 straipsnis. Kandidatų ir dalyvių teisė verstis veikla
 
@@ -1206,13 +1224,21 @@ Nr. XI-1255, 2010-12-23, Žin., 2011, Nr. 2-36 (2011-01-06)
 
 1. Siekiant operatyviau įvertinti, ar tiekėjų kvalifikacija atitinka nustatytus reikalavimus, gali būti sudaryti oficialūs patvirtintų prekių tiekėjų, paslaugų teikėjų ar rangovų, atitinkančių kvalifikacijos reikalavimus, sąrašai. Oficialius patvirtintų tiekėjų sąrašus sudaro Lietuvos Respublikos Vyriausybės paskirta kompetentinga institucija (institucijos). Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija tvirtina tiekėjų įrašymo į oficialius sąrašus taisykles.
 
-2. Tiekėjų įregistravimo į oficialius patvirtintų tiekėjų sąrašus reikalavimai nustatomi vadovaujantis šio įstatymo 33 straipsnio 1 dalies, 33 straipsnio 2 dalies 1–4 ir 7 punktų, 34, 35, 36 straipsnių, 37 straipsnio 1 dalies ir, jei reikia, 2 dalies nuostatomis. Kai prašymą įregistruoti į sąrašus pateikia ūkio subjektai, priklausantys jungtinei ūkio subjektų grupei, jie gali remtis kitų grupės ūkio subjektų pajėgumais. Šiuo atveju tokie ūkio subjektai privalo įrodyti oficialius sąrašus sudarančiai institucijai, kad reikalingais pajėgumais jie galės naudotis visą pažymos apie jų registraciją sąraše galiojimo laiką ir visą šį laikotarpį šie ūkio subjektai atitiks įregistravimo į sąrašus reikalavimus.
+2. Tiekėjų įregistravimo į oficialius patvirtintų tiekėjų sąrašus reikalavimai nustatomi vadovaujantis šio įstatymo 33 straipsnio 1 dalies 1, 3 punktų, 33 straipsnio 2 dalies 1–5 punktų, 34, 35, 36 straipsnių, 37 straipsnio 1 dalies ir, jeigu reikia, 2 dalies nuostatomis. Kai prašymą įregistruoti į sąrašus pateikia ūkio subjektai, priklausantys jungtinei ūkio subjektų grupei, jie gali remtis kitų grupės ūkio subjektų pajėgumais. Šiuo atveju tokie ūkio subjektai privalo įrodyti oficialius sąrašus sudarančiai institucijai, kad reikalingais pajėgumais jie galės naudotis visą pažymos apie jų registraciją sąraše galiojimo laiką ir visą šį laikotarpį šie ūkio subjektai atitiks įregistravimo į sąrašus reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
 
 3. Kompetentinga institucija registruoja tiekėjus oficialiuose sąrašuose jų prašymu, jei jie atitinka šio straipsnio 2 dalyje jiems keliamus reikalavimus. Lietuvos ir kitų valstybių narių tiekėjai registruojami vienodomis sąlygomis. Apie priimtą sprendimą institucija nedelsdama informuoja tiekėjus.
 
 4. Kiekvieno pirkimo atveju tiekėjas perkančiajai organizacijai gali pateikti kompetentingos institucijos išduotą pažymą, kad jis yra registruotas oficialiuose patvirtintų tiekėjų sąrašuose. Pažymoje nurodomos sąlygos, kurių pagrindu tiekėjas įregistruotas sąraše, ir kokia klasifikacija šiame sąraše jam suteikta.
 
-5. Perkančioji organizacija iš oficialiame sąraše įregistruoto tiekėjo gali papildomai pareikalauti pateikti pažymas apie socialinio draudimo ar mokesčių įmokas ir kitus jo kvalifikaciją įrodančius dokumentus, kurie nebuvo pateikti įrašant tiekėją į šiuos sąrašus.
+5. Perkančioji organizacija iš oficialiame sąraše įregistruoto tiekėjo, kurio pasiūlymas pagal vertinimo rezultatus pripažintas geriausiu, papildomai reikalauja pateikti pažymas apie socialinio draudimo ar mokesčių įmokas. Perkančioji organizacija nereikalauja dokumentų ir informacijos, kurie perkančiajai organizacijai pagal Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymą yra neatlygintinai prieinami Lietuvos Respublikos registruose, valstybės informacinėse sistemose ir kitose informacinėse sistemose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
 
 6. Perkančioji organizacija nereikalauja, kad tiekėjai, norintys dalyvauti pirkimo procedūrose, būtų registruoti oficialiuose sąrašuose. Perkančioji organizacija pripažįsta kompetentingos institucijos išduotą pažymą, taip pat kitų valstybių narių kompetentingų institucijų išduotas lygiavertes pažymas ir be pagrindo negali jomis abejoti. Tiekėjas taip pat gali pateikti ir kitus dokumentus, įrodančius, kad jo kvalifikacija atitinka perkančiosios organizacijos nustatytus reikalavimus.
 
@@ -2326,7 +2352,11 @@ Nr. XII-569, 2013-10-22, Žin., 2013, Nr. 112-5575 (2013-10-26)
 
 87 straipsnis. Supaprastintų pirkimų tiekėjų kvalifikacija
 
-1. Parinkdama tiekėją, perkančioji organizacija, vadovaudamasi šio įstatymo 32–38 straipsniuose nustatytais reikalavimais, įsitikina, ar tiekėjas bus pajėgus įvykdyti pirkimo sutartį. Perkančioji organizacija, veikianti vandentvarkos, energetikos, transporto ar pašto paslaugų srityse, tiekėjų kvalifikaciją gali tikrinti taikydama kvalifikacinę sistemą, kaip nustatyta šio įstatymo 77 straipsnyje.
+1. Perkančioji organizacija, parinkdama tiekėją ir siekdama įsitikinti, ar tiekėjas bus pajėgus įvykdyti pirkimo sutartį, vadovaujasi šio įstatymo 32–38 straipsniuose nustatytais reikalavimais (šio įstatymo 33 straipsnio 1 dalyje nustatytų reikalavimų neprivaloma taikyti mažos vertės pirkimų atveju). Perkančioji organizacija, veikianti vandentvarkos, energetikos, transporto ar pašto paslaugų srityse, tiekėjų kvalifikaciją gali tikrinti taikydama kvalifikacinę sistemą, kaip nustatyta šio įstatymo 77 straipsnyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
 
 2. Perkančioji organizacija šio įstatymo 85 straipsnyje nurodytose taisyklėse gali nustatyti atvejus, kuriais tiekėjų kvalifikacija netikrinama pagal šio straipsnio 1 dalyje nustatytus reikalavimus.
 
@@ -2844,19 +2874,19 @@ viešųjų pirkimų įstatymo
 
 2 priedėlis
 
-PASLAUGOS, NURODYTOS LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2 STRAIPSNIO 31 DALYJE
+PASLAUGOS, NURODYTOS LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2 STRAIPSNIO 31 DALYJE
 
-Priedėlio pavadinimas keistas:
-
-Nr. XI-1255, 2010-12-23, Žin., 2011, Nr. 2-36 (2011-01-06)
+1. A ir B paslaugų, nurodytų Lietuvos Respublikos viešųjų pirkimų įstatymo 2 straipsnio 31 dalyje, sąrašai pateikiami lentelėje:
 
 Kate-gorijos Nr.
 
 Paslaugų pavadinimas
 
-Kodai pagal Laikinąjį svarbiausią produktų klasifikatorių (CPC1)
+Kodai pagal Laikinąjį svarbiausią produktų klasifikatorių (CPC). CPC naudojamas Lietuvos Respublikos viešųjų pirkimų įstatymo reglamentuo- jamai paslaugų sričiai nustatyti
 
 Kodai pagal Bendrąjį viešųjų pirkimų žodyną (CPV)
+
+A PASLAUGOS
 
 1.
 
@@ -2864,15 +2894,15 @@ Priežiūros ir remonto paslaugos
 
 6112, 6122, 633, 886
 
-Nuo 50100000-6 iki 50884000-5 (išskyrus nuo 50310000-1 iki 50324200-4 ir 50116510-9,  50190000-3, 50229000-6, 50243000-0) ir nuo 51000000-9 iki 51900000-1
+Nuo 50100000-6 iki 50884000-5 (išskyrus nuo 50310000-1 iki 50324200-4 ir 50116510-9, 50190000-3, 50229000-6, 50243000-0) ir nuo 51000000-9 iki 51900000-1
 
 2.
 
-Sausumos transporto paslaugos2, apimančios šarvuotų automobilių paslaugas ir kurjerių paslaugas, išskyrus pašto vežimą
+Sausumos transporto paslaugos (išskyrus 18 kategorijai priskirtas geležinkelių transporto paslaugas), apimančios šarvuotų automobilių paslaugas ir kurjerių paslaugas, išskyrus pašto vežimą
 
 712 (išskyrus 71235), 7512, 87304
 
-Nuo 60100000-9 iki 60183000-4 (išskyrus 60160000-7, 60161000-4, 60220000-6) ir nuo 64120000-3 iki  64121200-2
+Nuo 60100000-9 iki 60183000-4 (išskyrus 60160000-7, 60161000-4, 60220000-6) ir nuo 64120000-3 iki 64121200-2
 
 3.
 
@@ -2884,11 +2914,11 @@ Nuo 60410000-5 iki 60424120-3 (išskyrus 60411000-2, 60421000-5) ir 60500000-3 n
 
 4.
 
-Sausumos2 ir oro pašto transportas
+Sausumos (išskyrus 18 kategorijai priskirtas geležinkelių transporto paslaugas) ir oro pašto transportas
 
 71235, 7321
 
-60160000-7,60161000-4 60411000-2, 60421000-5
+60160000-7, 60161000-4, 60411000-2, 60421000-5
 
 5.
 
@@ -2896,15 +2926,15 @@ Ryšių paslaugos
 
 752
 
-Nuo 64200000-8 iki 64228200-2 72318000-7, ir  nuo 72700000-7 iki 72720000-3
+Nuo 64200000-8 iki 64228200-2,  72318000-7 ir nuo 72700000-7 iki 72720000-3
 
 6.
 
-Finansinės paslaugos: a) draudimo paslaugos; b) bankų ir investavimo paslaugos3
+Finansinės paslaugos: a) draudimo paslaugos; b) bankų ir investavimo paslaugos (išskyrus finansines paslaugas, susijusias su pinigų, valiutų keitimo kurso, valstybės skolos valdymo, iždo agento, finansinio turto valdymo arba kitų politikos sričių, susijusių su vertybinių popierių arba kitokių finansinių priemonių sandoriais, finansines paslaugas, susijusias su vertybinių popierių arba kitokių finansinių priemonių emisija, pardavimu, pirkimu ar perleidimu, taip pat paskolas, susijusias ar nesusijusias su vertybinių popierių arba kitų finansinių priemonių emisija, pardavimu, pirkimu ar perleidimu, ir centrinio banko paslaugas. Į šias paslaugas taip pat neįeina paslaugos, susijusios su žemės, esamų pastatų arba kitų nekilnojamųjų daiktų įsigijimu ar nuoma arba teisių į juos įsigijimu bet kokiomis finansinėmis priemonėmis; finansinės paslaugos, suteiktos prieš sudarant, sudarant arba sudarius bet kokios formos žemės, esamų pastatų ar kitų nekilnojamųjų daiktų arba teisių į juos įsigijimo ar nuomos sutartis, nepaisant jų formos, patenka į šio įstatymo taikymo sritį)
 
 ex. 81, 812, 814
 
-Nuo 66100000-1 iki 66720000-3 (3)
+Nuo 66100000-1 iki 66720000-3 (išskyrus finansines paslaugas, susijusias su pinigų, valiutų keitimo kurso, valstybės skolos valdymo, iždo agento, finansinio turto valdymo arba kitų politikos sričių, susijusių su vertybinių popierių arba kitokių finansinių priemonių sandoriais, finansines paslaugas, susijusias su vertybinių popierių arba kitokių finansinių priemonių emisija, pardavimu, pirkimu ar perleidimu, taip pat paskolas, susijusias ar nesusijusias su vertybinių popierių arba kitų finansinių priemonių emisija, pardavimu, pirkimu ar perleidimu, ir centrinio banko paslaugas. Į šias paslaugas taip pat neįeina paslaugos, susijusios su žemės, esamų pastatų arba kitų nekilnojamųjų daiktų įsigijimu ar nuoma arba teisių į juos įsigijimu  bet kokiomis finansinėmis priemonėmis; finansinės paslaugos, suteiktos prieš sudarant, sudarant arba sudarius bet kokios formos žemės, esamų pastatų ar kitų nekilnojamųjų daiktų arba teisių į juos įsigijimo ar nuomos sutartis, nepaisant jų formos, patenka į šio įstatymo taikymo sritį)
 
 7.
 
@@ -2912,15 +2942,15 @@ Kompiuterių ir susijusios paslaugos
 
 84
 
-Nuo 50310000-1 iki 50324200-4 Nuo 72000000-5 iki 72920000-5  (išskyrus 72318000-7, ir nuo 72700000-7 iki 72720000-3), 79342410-4
+Nuo 50310000-1 iki 50324200-4, nuo 72000000-5 iki 72920000-5  (išskyrus 72318000-7 ir nuo 72700000-7 iki 72720000-3), 79342410-4
 
 8.
 
-Mokslinių tyrimų ir taikomosios veiklos paslaugos4
+Mokslinių tyrimų ir taikomosios veiklos paslaugos (išskyrus sutartis dėl mokslinių tyrimų ir eksperimentinės plėtros paslaugų, tačiau ne tokių, kurios naudingos tik perkančiajai organizacijai ir už kurias visiškai atlygina perkančioji organizacija)
 
 85
 
-Nuo 73000000-2 iki 73436000-7 (išskyrus 73200000-4, 73210000-7, 73220000-0
+Nuo 73000000-2 iki 73436000-7 (išskyrus 73200000-4, 73210000-7, 73220000-0)
 
 9.
 
@@ -2936,15 +2966,15 @@ Rinkos tyrimų ir viešosios nuomonės apklausos paslaugos
 
 864
 
-Nuo 79300000-7 iki 79330000-6, ir 79342310-9, 79342311-6
+Nuo 79300000-7 iki 79330000-6 ir 79342310-9, 79342311-6
 
 11.
 
-Valdymo konsultavimo5 ir susijusios paslaugos
+Valdymo konsultavimo (išskyrus arbitražo ir taikinimo paslaugas) ir susijusios paslaugos
 
 865, 866
 
-Nuo 73200000-4 iki 73220000-0 nuo 79400000-8 iki 79421200-3 ir 79342000-3, 79342100-4 79342300-6, 79342320-2 79342321-9, 79910000-6, 79991000-7 98362000-8
+Nuo 73200000-4 iki 73220000-0, nuo 79400000-8 iki 79421200-3 ir 79342000-3, 79342100-4, 79342300-6, 79342320-2, 79342321-9, 79910000-6, 79991000-7, 98362000-8
 
 12.
 
@@ -2952,7 +2982,7 @@ Architektūrinės paslaugos: inžinerijos ir integruotos inžinerijos paslaugos;
 
 867
 
-Nuo 71000000-8 iki 71900000-7 (išskyrus 71550000-8) ir  79994000-8
+Nuo 71000000-8 iki 71900000-7 (išskyrus 71550000-8) ir 79994000-8
 
 13.
 
@@ -2960,15 +2990,15 @@ Reklamos paslaugos
 
 871
 
-Nuo 79341000-6 iki 79342200-5  (išskyrus 79342000-3 ir 79342100-4
+Nuo 79341000-6 iki 79342200-5  (išskyrus 79342000-3 ir 79342100-4)
 
 14.
 
 Pastatų valymo paslaugos ir nuosavybės valdymo paslaugos
 
-874 82201 – 82206
+874, 82201–82206
 
-Nuo 70300000-4 iki 70340000-6 ir nuo 90900000-6 iki  90924000-0
+Nuo 70300000-4 iki 70340000-6 ir nuo 90900000-6 iki 90924000-0
 
 15.
 
@@ -2976,7 +3006,7 @@ Leidybos ir spausdinimo paslaugos už užmokestį ar sutarties pagrindu
 
 88442
 
-Nuo 79800000-2 iki 79824000-6 nuo 79970000-6 iki  79980000-7
+Nuo 79800000-2 iki 79824000-6 ir nuo 79970000-6 iki 79980000-7
 
 16.
 
@@ -2984,27 +3014,9 @@ Nuotekų ir atliekų šalinimo bei valymo paslaugos; sanitarinės ir panašios p
 
 94
 
-Nuo 90400000-1 iki 90743200-9 (išskyrus 90712200-3), nuo 90910000-9 iki 90920000-2 ir 50190000-3, 50229000-6 50243000-0
-
-1CPC naudojamas Viešųjų pirkimų įstatymo reglamentuojamai paslaugų sričiai nustatyti.
-
-2Išskyrus 18 kategorijai priskirtas geležinkelių transporto paslaugas.
-
-3Išskyrus finansines paslaugas, susijusias su pinigų, valiutų keitimo kurso, valstybės skolos valdymo, iždo agento, užsienio atsargų valdymo arba kitų politikos sričių, susijusių su vertybinių popierių arba kitokių finansinių priemonių sandoriais, ir centrinio banko paslaugas. Taip pat neįeina paslaugos, susijusios su žemės, esamų pastatų arba kitų nekilnojamųjų daiktų įsigijimu ar nuoma arba teisių į juos įsigijimą bet kokiomis finansinėmis priemonėmis; tačiau finansinės paslaugos, suteiktos prieš sudarant, sudarant arba sudarius bet kokios formos žemės, esamų pastatų arba kitų nekilnojamųjų daiktų, arba teisių į juos įsigijimo ar nuomos sutartis, nepaisant jų formos, patenka į šio įstatymo taikymo sritį.
-
-4Išskyrus sutartis dėl mokslinių tyrimų ir plėtros paslaugų, tačiau ne tokių, kurios naudingos tik perkančiajai organizacijai ir už kurias visiškai atlygina perkančioji organizacija.
-
-5Išskyrus arbitražo ir taikinimo paslaugas.
+Nuo 90400000-1 iki 90743200-9 (išskyrus 90712200-3), nuo 90910000-9 iki 90920000-2 ir 50190000-3, 50229000-6, 50243000-0
 
 B PASLAUGOS
-
-Kate-gorijos Nr.
-
-Paslaugų pavadinimas
-
-Kodai pagal Laikinąjį svarbiausią produktų klasifikatorių (CPC)
-
-Kodai pagal Bendrąjį viešųjų pirkimų žodyną (CPV)
 
 17.
 
@@ -3012,7 +3024,7 @@ Viešbučių ir restoranų paslaugos
 
 64
 
-Nuo 55100000-1 iki 55524000-9  ir nuo  98340000-8 iki 98341100-6
+Nuo 55100000-1 iki 55524000-9  ir nuo 98340000-8 iki 98341100-6
 
 18.
 
@@ -3036,7 +3048,7 @@ Pagalbinio transporto paslaugos
 
 74
 
-Nuo 63000000-9 iki 63734000-3 (išskyrus 63711200-8, 63712700-0, 63712710-3, ir nuo 63727000-1 iki 63727200-3) ir 98361000-1
+Nuo 63000000-9 iki 63734000-3 (išskyrus 63711200-8, 63712700-0, 63712710-3 ir nuo 63727000-1 iki 63727200-3) ir 98361000-1
 
 21.
 
@@ -3048,11 +3060,11 @@ Nuo 79100000-5 iki 79140000-7
 
 22.
 
-Personalo įdarbinimo ir aprūpinimo paslaugos1
+Personalo įdarbinimo ir aprūpinimo paslaugos (išskyrus darbo sutartis)
 
 872
 
-Nuo 79600000-0 iki 79635000-4 (išskyrus 79611000-0, 79632000-3, 79633000-0), ir nuo 98500000-8 iki 98514000-9
+Nuo 79600000-0 iki 79635000-4 (išskyrus 79611000-0, 79632000-3, 79633000-0) ir nuo 98500000-8 iki 98514000-9
 
 23.
 
@@ -3068,7 +3080,7 @@ Nuo 79700000-1 iki 79723000-8
 
 92
 
-Nuo 80100000-5 iki 80660000-8 (išskyrus 80533000-9, 80533100-0, 80533200-1
+Nuo 80100000-5 iki 80660000-8 (išskyrus 80533000-9, 80533100-0, 80533200-1)
 
 25.
 
@@ -3076,29 +3088,29 @@ Sveikatos ir socialinės paslaugos
 
 93
 
-79611000-0, ir nuo 85000000-9 iki 85323000-9 (išskyrus 85321000-5 ir 85322000-2
+79611000-0 ir nuo 85000000-9 iki 85323000-9 (išskyrus 85321000-5 ir 85322000-2)
 
 26.
 
-Rekreacijos, kultūros ir sporto paslaugos2
+Rekreacijos, kultūros ir sporto paslaugos (išskyrus paslaugų sutartis, skirtas radijo ir televizijos programų sukūrimo, jų parengimo transliuoti paslaugų, jau parengtų programų bei radijo ir televizijos laidų transliavimo eteryje laiko pirkimams, kai juos atlieka Lietuvos Respublikos viešųjų pirkimų įstatymo 4 straipsnio 1 dalies 1, 2, 3 punktuose nurodytai perkančiajai organizacijai nustatytus reikalavimus atitinkantis transliuotojas)
 
 96
 
-Nuo 79995000-5 iki 79995200-7, ir nuo 92000000-1 iki 92700000-8 (išskyrus 92230000-2, 92231000-9, 92232000-6
+Nuo 79995000-5 iki 79995200-7 ir nuo 92000000-1 iki 92700000-8 (išskyrus 92230000-2, 92231000-9, 92232000-6)
 
 27.
 
 Kitos paslaugos
 
-1Išskyrus darbo sutartis.
-
-2Išskyrus paslaugų sutartis, skirtas radijo ir televizijos programų sukūrimo, jų parengimo transliuoti paslaugų, jau parengtų programų bei radijo ir televizijos laidų transliavimo eteryje laiko pirkimams, kai juos atlieka šio įstatymo 4 straipsnio 1 dalies 1, 2, 3 punktuose nurodytai perkančiajai organizacijai nustatytus reikalavimus atitinkantis transliuotojas.
-
-Pastaba: Jeigu iškyla CPC ir CPV paslaugų aiškinimo skirtumų, vadovaujamasi CPC.
+2. Jeigu kyla paslaugų pagal CPC ir CPV aiškinimo skirtumų, vadovaujamasi CPC.
 
 2 priedėlio pakeitimai:
 
 Nr. X-1673, 2008-07-03, Žin., 2008, Nr. 81-3179 (2008-07-17)
+
+Priedo pakeitimai:
+
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
 
 Lietuvos Respublikos
 
@@ -3213,6 +3225,12 @@ priedas
 12. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/33/EB dėl skatinimo naudoti netaršias ir efektyviai energiją vartojančias kelių transporto priemones (OL 2009 L 120, p. 5).
 
 13. 2011 m. rugpjūčio 19 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 842/2011, kuriuo nustatomos standartinės formos, naudojamos skelbiant su viešaisiais pirkimais susijusius pranešimus, ir panaikinamas Reglamentas (EB) Nr. 1564/2005 (OL 2011 L 222, p. 1).
+
+14. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/24/ES dėl viešųjų pirkimų, kuria panaikinama Direktyva 2004/18/EB (OL 2014 L 94, p. 65).
+
+Papildyta punktu:
+
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
 
 Priedo pakeitimai:
 
@@ -5976,7 +5994,11 @@ Nr. XI-395, 2009-07-22, Žin., 2009, Nr. 93-3986 (2009-08-04)
 
 3. Viešuosius pirkimus kontroliuojančios institucijos turi teisę stebėti visas pirkimų procedūras, prireikus filmuoti Komisijos posėdžius ir kitas pirkimo procedūras.
 
-4. Perkančiosios organizacijos vadovai, Komisijos nariai, ekspertai, kiti pirkimus atliekantys asmenys, pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
+4. Perkančiosios organizacijos vadovai ar jų įgalioti asmenys, Komisijos nariai, ekspertai, perkančiųjų organizacijų valstybės tarnautojai ar darbuotojai, pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
 
 Įstatymas papildytas straipsniu:
 
