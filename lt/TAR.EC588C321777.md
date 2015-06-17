@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2015-05-19"
+last_updated: "2015-06-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-05-19 iki 2015-06-16
+Suvestinė redakcija nuo 2015-06-17 iki 2015-07-03
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -2082,6 +2082,14 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 2. Jeigu proceso dalyvis, kurio dalyvavimą žodiniame teismo posėdyje teismas pripažįsta būtinu, dėl ligos ar dėl kitos svarbios priežasties neatvyko į teismo posėdį, kasacinės bylos nagrinėjimas atidedamas.
 
 3. Kasacinės bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu.
+
+3 dalies redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos:
+
+3. Kasacinės bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu, arba jei prireikia prašyti Europos žmogaus teisių teismo konsultacinės išvados dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1773, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09616
 
 Straipsnio pakeitimai:
 
