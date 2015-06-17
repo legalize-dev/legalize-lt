@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2014-12-30"
+last_updated: "2015-06-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2014-12-30 iki 2015-06-16
+Suvestinė redakcija nuo 2015-06-17 iki 2015-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
 
@@ -2690,18 +2690,6 @@ Nr. XII-74, 2012-12-20, Žin., 2012, Nr. 153-7826 (2012-12-29)
 
 Nr. IX-1490, 2003-04-08, Žin., 2003, Nr. 39-1765 (2003-04-25)
 
-III DALIS
-
-TEISĖJAI
-
-VI SKYRIUS
-
-TEISĖJŲ STATUSAS. SKIRIAMIEJI ŽENKLAI
-
-PIRMASIS SKIRSNIS
-
-TEISĖJŲ ĮGALIOJIMAI, TEISĖS IR PAREIGOS
-
 532 straipsnis. Preliminarus pretendentų į teisėjus dokumentų tikrinimas
 
 1. Pretendentas į teisėjus pateikia Nacionalinei teismų administracijai dokumentus, patvirtinančius, kad jis atitinka šio Įstatymo 51 straipsnio 1 dalyje nustatytus reikalavimus (išskyrus reikalavimą būti išlaikius pretendentų į teisėjus egzaminą). Be to, pretendentas į teisėjus pateikia užpildytą Lietuvos Respublikos paslapčių apsaugos koordinavimo komisijos nustatytos formos klausimyną ir raštu sutinka, kad būtų tikrinama jo kandidatūra.
@@ -2831,4 +2819,26 @@ Nr. XI-523, 2009-12-03, Žin., 2009, Nr. 147-6559 (2009-12-12)
 X SKYRIUS
 
 TEISĖJŲ, TEISMO TARNAUTOJŲ MOKYMAS IR KVALIFIKACIJOS KĖLIMAS
+
+402 straipsnis. Teismų kreipimasis į Europos Žmogaus Teisių Teismą
+
+Aukščiausiasis Teismas ir Vyriausiasis administracinis teismas, kai nagrinėjant bylą iškilo principinis klausimas, susijęs su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu, gali kreiptis į Europos Žmogaus Teisių Teismą su prašymu pateikti dėl to konsultacinę išvadą.
+
+TAR pastaba. Įstatymas papildomas straipsniu nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+
+Papildyta straipsniu:
+
+Nr. XII-1776, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09620
+
+III DALIS
+
+TEISĖJAI
+
+VI SKYRIUS
+
+TEISĖJŲ STATUSAS. SKIRIAMIEJI ŽENKLAI
+
+PIRMASIS SKIRSNIS
+
+TEISĖJŲ ĮGALIOJIMAI, TEISĖS IR PAREIGOS
 
