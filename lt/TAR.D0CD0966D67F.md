@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2015-04-14"
+last_updated: "2015-06-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2015-04-14 iki 2015-06-17
+Suvestinė redakcija nuo 2015-06-18 iki 2015-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -451,11 +451,29 @@ Straipsnio redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldy
 
 6. Per du mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos arba nuo tiesiogiai išrinkto mero priesaikos priėmimo dienos turi būti paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryti savivaldybės tarybos komitetai ir paskirti šių komitetų pirmininkai, sudarytos šiame įstatyme nustatytos komisijos ir paskirti šių komisijų pirmininkai, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti.
 
-7. Jeigu išrinktos naujos savivaldybės tarybos rinkimų rezultatai pripažinti negaliojančiais, esamos savivaldybės tarybos įgaliojimai tęsiasi iki savivaldybės tarybos, kuri bus išrinkta per pakartotinius rinkimus, pirmojo posėdžio arba tiesioginio valdymo laikino įvedimo savivaldybės teritorijoje.
+8. Jeigu išrinktos naujos savivaldybės tarybos rinkimų rezultatai pripažinti negaliojančiais, esamos savivaldybės tarybos įgaliojimai tęsiasi iki savivaldybės tarybos, kuri bus išrinkta per pakartotinius rinkimus, pirmojo posėdžio arba tiesioginio valdymo laikino įvedimo savivaldybės teritorijoje.
 
-8. Kai savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas, savivaldybės taryba netenka įgaliojimų arba savivaldybės tarybos įgaliojimai laikino tiesioginio valdymo laikotarpiu sustabdomi, jeigu savivaldybės taryba negali vykdyti savo įgaliojimų dėl aplinkybių, susijusių su nepaprastosios padėties įvedimu savivaldybės teritorijoje.
+TAR pastaba. Buvusi 7 dalis laikoma 8 dalimi  nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 
-9. Ypatingomis aplinkybėmis, kai nei savivaldybės meras, nei savivaldybės mero pavaduotojas (pavaduotojai) negali eiti savo pareigų dėl nuo jų nepriklausančių priežasčių, savivaldybės tarybos posėdžiai šaukiami ir mero pareigos vykdomos reglamento nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
+
+9. Kai savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas, savivaldybės taryba netenka įgaliojimų arba savivaldybės tarybos įgaliojimai laikino tiesioginio valdymo laikotarpiu sustabdomi, jeigu savivaldybės taryba negali vykdyti savo įgaliojimų dėl aplinkybių, susijusių su nepaprastosios padėties įvedimu savivaldybės teritorijoje.
+
+TAR pastaba. Buvusi 8 dalis laikoma 9 dalimi  nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
+
+10. Ypatingomis aplinkybėmis, kai nei savivaldybės meras, nei savivaldybės mero pavaduotojas (pavaduotojai) negali eiti savo pareigų dėl nuo jų nepriklausančių priežasčių, savivaldybės tarybos posėdžiai šaukiami ir mero pareigos vykdomos reglamento nustatyta tvarka.
+
+TAR pastaba. Buvusi 9 dalis laikoma 10 dalimi  nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
 
 Straipsnio pakeitimai:
 
