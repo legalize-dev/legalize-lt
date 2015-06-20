@@ -4,7 +4,7 @@ identifier: "TAR.FE3C428580B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-11-20"
-last_updated: "2015-01-01"
+last_updated: "2015-06-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FE3C428580B8"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-19
+Suvestinė redakcija nuo 2015-06-20 iki 2016-07-15
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 115-5192, i. k. 1031010ISTA0IX-1837
 
@@ -1089,11 +1089,15 @@ Rinkėjo kortelių, rinkimų biuletenių, vidinių ir išorinių balsavimo pašt
 
 61 straipsnis. Rinkimų stebėtojai
 
-1. Partijos, rinkimų komitetai, partijų ir rinkimų komitetų atstovai rinkimų komisijose ir kandidatai turi teisę skirti ne daugiau kaip po du rinkimų stebėtojus kiekvienoje rinkimų apylinkėje. Rinkimų stebėtojas yra asmuo, turintis Vyriausiosios rinkimų komisijos nustatytos formos rinkimų stebėtojo pažymėjimą. Jis turi teisę stebėti rinkimus savivaldybės ar rinkimų apylinkės, kuri nurodyta jo pažymėjime, teritorijoje ir bet kuriame pašto skyriuje. Rinkimų stebėtojo pažymėjimą išduoda:
+1. Partijos, rinkimų komitetai, partijų ir rinkimų komitetų atstovai rinkimų komisijose ir kandidatai turi teisę skirti ne daugiau kaip po du rinkimų stebėtojus kiekvienoje rinkimų apylinkėje. Stebėtojais draudžiama skirti seniūnus ir seniūnų pavaduotojus tose rinkimų apylinkėse, kurios įeina į jų seniūnijų aptarnaujamą teritoriją. Rinkimų stebėtojas yra asmuo, turintis Vyriausiosios rinkimų komisijos nustatytos formos rinkimų stebėtojo pažymėjimą. Jis turi teisę stebėti rinkimus savivaldybės ar rinkimų apylinkės, kuri nurodyta jo pažymėjime, teritorijoje ir bet kuriame pašto skyriuje. Rinkimų stebėtojo pažymėjimą išduoda:
 
 1) Vyriausioji rinkimų komisija – pažymėjimą, suteikiantį teisę stebėti rinkimus visoje Lietuvos Respublikos teritorijoje, Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose arba tik konkrečiose savivaldybėse ar rinkimų apylinkėse, užsienio reikalų ministro, Respublikos Prezidento teikimu, užsienio valstybėms arba tarptautinėms institucijoms atstovaujančių asmenų prašymu, taip pat savo nuožiūra;
 
 2) savivaldybės rinkimų komisija – pažymėjimą, suteikiantį teisę stebėti rinkimus visoje šios savivaldybės teritorijoje, vienoje arba keliose rinkimų apylinkėse, vyresniems kaip 18 metų Lietuvos Respublikos piliečiams arba kitiems rinkimų teisę turintiems asmenims rinkimų komiteto, partijos vietos skyriaus ar jo atstovo rinkimams prašymu, kuriame turi būti nurodyta asmens, siūlomo būti rinkimų stebėtoju, pavardė, vardas, asmens kodas, rinkimų apylinkės (apylinkių) pavadinimas (pavadinimai).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1797, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09818
 
 2. Rinkimų stebėtojo pažymėjimus rinkimų komisijos vardu išduoda jos pirmininkas arba kitas komisijos narys komisijos pirmininko pavedimu. Negalima atsisakyti išduoti rinkimų stebėtojo pažymėjimą arba vilkinti jo išdavimą. Apie visus atsisakymus išduoti rinkimų stebėtojo pažymėjimą turi būti pranešta artimiausiame rinkimų komisijos posėdyje ir atitinkamam atstovui rinkimams.
 
@@ -1526,6 +1530,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1254, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14864
 
 Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo Nr. IX-1837 5 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1797, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09818
+
+Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo Nr. IX-1837 61 straipsnio pakeitimo įstatymas
 
 971 straipsnis. Europos Parlamento nario mandato netekimas paaiškėjus, kad išrinkto į Europos Parlamentą asmens kilmės valstybėje narėje jam yra atimta teisė būti kandidatu
 
