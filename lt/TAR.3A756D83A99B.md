@@ -4,7 +4,7 @@ identifier: "TAR.3A756D83A99B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2014-07-24"
+last_updated: "2015-06-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3A756D83A99B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,13 +17,15 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Įstatymas
+Suvestinė redakcija nuo 2015-06-20 iki 2017-12-31
 
-paskelbtas: Žin., 1995, Nr. 104-2322
+Įstatymas paskelbtas: Žin. 1995, Nr. 104-2322; Žin. 1996, Nr.5-0, i. k. 0951010ISTA00I-1113
 
-Neoficialus
+Nauja įstatymo redakcija nuo 2010 m. balandžio 1 d.,
 
-įstatymo tekstas
+4 straipsnio 5 ir 6 dalys galioja nuo 2010 m. vasario 4 d.:
+
+Nr. XI-666, 2010-01-21, Žin., 2010, Nr. 15-699 (2010-02-04)
 
 LIETUVOS RESPUBLIKOS
 
@@ -31,21 +33,9 @@ BIUDŽETINIŲ ĮSTAIGŲ
 
 ĮSTATYMAS
 
-1995 m. gruodžio
-
-5 d. Nr. I-1113
+1995 m. gruodžio 5 d. Nr. I-1113
 
 Vilnius
-
-Nauja įstatymo redakcija nuo 2010 m. balandžio 1 d.,
-
-4 straipsnio 5 ir 6 dalys galioja nuo 2010 m.
-
-vasario 4 d.:
-
-Nr. XI-666, 2010-01-21,
-
-Žin., 2010, Nr. 15-699 (2010-02-04)
 
 I SKYRIUS
 
@@ -53,1851 +43,351 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
-1. Šis įstatymas
+1. Šis įstatymas reglamentuoja biudžetinių įstaigų steigimą, pertvarkymą, pabaigą, veiklą ir valdymą, jei kiti specialieji biudžetinių įstaigų veiklą reglamentuojantys įstatymai nenustato kitaip.
 
-reglamentuoja biudžetinių įstaigų steigimą, pertvarkymą, pabaigą, veiklą ir valdymą,
+2. Iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikomoms biudžetinėms įstaigoms šis įstatymas taikomas tiek, kiek šių fondų ir iš jų išlaikomų biudžetinių įstaigų veiklą reglamentuojantys įstatymai nenustato kitaip.
 
-jei kiti specialieji biudžetinių įstaigų veiklą reglamentuojantys įstatymai nenustato
+2 straipsnis. Biudžetinės įstaigos samprata
 
-kitaip.
+1. Biudžetinė įstaiga – ribotos civilinės atsakomybės viešasis juridinis asmuo, įgyvendinantis valstybės ar savivaldybės funkcijas ir išlaikomas iš valstybės ar savivaldybės biudžetų asignavimų, taip pat iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų lėšų.
 
-2. Iš Valstybinio
+2. Pagal savo prievoles biudžetinė įstaiga atsako tik savo lėšomis. Jeigu biudžetinės įstaigos prievolėms padengti lėšų nepakanka, prievolės padengiamos biudžetinės įstaigos savininko lėšomis neviršijant biudžetinės įstaigos teisės aktų nustatyta tvarka naudojamo, valdomo ir disponuojamo turto vertės.
 
-socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų
+3. Biudžetinė įstaiga savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos civiliniu kodeksu (toliau – Civilinis kodeksas), šiuo ir kitais įstatymais, kitais teisės aktais ir savo nuostatais.
 
-valstybės pinigų fondų išlaikomoms biudžetinėms įstaigoms šis įstatymas taikomas
+4. Biudžetinės įstaigos interneto svetainėje turi būti Civilinio kodekso 2.44 straipsnyje nurodyta informacija.
 
-tiek, kiek šių fondų ir iš jų išlaikomų biudžetinių įstaigų veiklą reglamentuojantys
+3 straipsnis. Biudžetinės įstaigos teisės ir pareigos
 
-įstatymai nenustato kitaip.
+1. Biudžetinė įstaiga gali turėti ir įgyti tik tokias civilines teises ir pareigas, kurios neprieštarauja biudžetinės įstaigos nuostatams ir jos veiklos tikslams.
 
-2
+2. Biudžetinė įstaiga įgyja civilines teises, prisiima civilines pareigas ir jas įgyvendina per biudžetinės įstaigos vadovą. Biudžetinė įstaiga teisės aktų nustatytais atvejais gali įgyti civilines teises ir pareigas per biudžetinės įstaigos savininką ar savininko teises ir pareigas įgyvendinančią instituciją.
 
-straipsnis. Biudžetinės įstaigos samprata
+3. Biudžetinė įstaiga gali steigti filialus Lietuvos Respublikoje.
 
-1. Biudžetinė įstaiga
+4. Biudžetinei įstaigai draudžiama:
 
-– ribotos civilinės atsakomybės viešasis juridinis asmuo, įgyvendinantis valstybės
-
-ar savivaldybės funkcijas ir išlaikomas iš valstybės ar savivaldybės biudžetų asignavimų,
-
-taip pat iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo
-
-fondo biudžetų ir kitų valstybės pinigų fondų lėšų.
-
-2. Pagal savo prievoles
-
-biudžetinė įstaiga atsako tik savo lėšomis. Jeigu biudžetinės įstaigos prievolėms
-
-padengti lėšų nepakanka, prievolės padengiamos biudžetinės įstaigos savininko lėšomis
-
-neviršijant biudžetinės įstaigos teisės aktų nustatyta tvarka naudojamo, valdomo
-
-ir disponuojamo turto vertės.
-
-3. Biudžetinė įstaiga
-
-savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos
-
-civiliniu kodeksu (toliau – Civilinis kodeksas), šiuo ir kitais įstatymais, kitais
-
-teisės aktais ir savo nuostatais.
-
-4. Biudžetinės įstaigos
-
-interneto svetainėje turi būti Civilinio kodekso 2.44 straipsnyje nurodyta informacija.
-
-3
-
-straipsnis. Biudžetinės įstaigos teisės ir pareigos
-
-1. Biudžetinė įstaiga
-
-gali turėti ir įgyti tik tokias civilines teises ir pareigas, kurios neprieštarauja
-
-biudžetinės įstaigos nuostatams ir jos veiklos tikslams.
-
-2. Biudžetinė įstaiga
-
-įgyja civilines teises, prisiima civilines pareigas ir jas įgyvendina per biudžetinės
-
-įstaigos vadovą. Biudžetinė įstaiga teisės aktų nustatytais atvejais gali įgyti
-
-civilines teises ir pareigas per biudžetinės įstaigos savininką ar savininko teises
-
-ir pareigas įgyvendinančią instituciją.
-
-3. Biudžetinė įstaiga
-
-gali steigti filialus Lietuvos Respublikoje.
-
-4. Biudžetinei įstaigai
-
-draudžiama:
-
-1) būti kitų juridinių
-
-asmenų dalyve;
+1) būti kitų juridinių asmenų dalyve;
 
 2) steigti atstovybes;
 
-3) užtikrinti kitų
+3) užtikrinti kitų asmenų prievolių vykdymą.
 
-asmenų prievolių vykdymą.
+4 straipsnis. Biudžetinės įstaigos savininkas
 
-4
+1. Iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos savininkė yra valstybė. Iš savivaldybės biudžeto išlaikomos biudžetinės įstaigos savininkė yra savivaldybė.
 
-straipsnis. Biudžetinės įstaigos savininkas
+2. Iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos savininko teises ir pareigas įgyvendina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) arba jos įgaliota valstybės valdymo institucija. Iš savivaldybės biudžeto išlaikomos biudžetinės įstaigos savininko teises ir pareigas įgyvendina savivaldybės taryba. Toliau šiame įstatyme biudžetinės įstaigos savininko teises ir pareigas įgyvendinanti Vyriausybė arba jos įgaliota valstybės valdymo institucija, taip pat savivaldybės taryba vadinamos savininko teises ir pareigas įgyvendinančiomis institucijomis.
 
-1. Iš valstybės biudžeto
+3. Savininko teises ir pareigas įgyvendinančios institucijos:
 
-arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo
+1) tvirtina biudžetinės įstaigos nuostatus;
 
-biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos savininkė
+2) priima į pareigas ir iš jų atleidžia biudžetinės įstaigos vadovą;
 
-yra valstybė. Iš savivaldybės biudžeto išlaikomos biudžetinės įstaigos savininkė
+3) priima sprendimą dėl biudžetinės įstaigos buveinės pakeitimo;
 
-yra savivaldybė.
+4) priima sprendimą dėl biudžetinės įstaigos pertvarkymo, reorganizavimo ar likvidavimo;
 
-2. Iš valstybės biudžeto
+Straipsnio punkto pakeitimai:
 
-arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo
+Nr. XII-1790, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09812
 
-biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos savininko
+5) priima sprendimą dėl biudžetinės įstaigos filialo steigimo ir jo veiklos nutraukimo;
 
-teises ir pareigas įgyvendina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė)
+6) skiria ir atleidžia likvidatorių arba sudaro likvidacinę komisiją ir nutraukia jos įgaliojimus;
 
-arba jos įgaliota valstybės valdymo institucija. Iš savivaldybės biudžeto išlaikomos
+7) sprendžia kitus šiame įstatyme, kituose įstatymuose ir biudžetinės įstaigos nuostatuose jos kompetencijai priskirtus klausimus.
 
-biudžetinės įstaigos savininko teises ir pareigas įgyvendina savivaldybės taryba.
+4. Savininko teises ir pareigas įgyvendinančių institucijų sprendimai turi būti įforminami raštu.
 
-Toliau šiame įstatyme biudžetinės įstaigos savininko teises ir pareigas įgyvendinanti
+5. Iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos savininko teisės ir pareigos gali būti perduotos savivaldybei, o biudžetinės įstaigos patikėjimo teise valdomas turtas – savivaldybės nuosavybėn įstatymų nustatytoms funkcijoms įgyvendinti, kai yra priimtas savivaldybės tarybos sprendimas perimti ir Vyriausybės nutarimas perduoti biudžetinės įstaigos savininko teises ir pareigas bei turtą, išskyrus atvejus, kai funkcijoms ar savininko teisėms ir pareigoms perduoti priimamas atskiras įstatymas arba yra priimtas savivaldybės tarybos sprendimas perimti ir Vyriausybės nutarimas perduoti savivaldybei biudžetinės įstaigos patikėjimo teise valdomą turtą savivaldybei valdyti, naudoti ir disponuoti juo patikėjimo teise.
 
-Vyriausybė arba jos įgaliota valstybės valdymo institucija, taip pat savivaldybės
+6. Iš savivaldybės biudžeto išlaikomos biudžetinės įstaigos savininko teisės ir pareigos gali būti perduotos valstybei, o biudžetinės įstaigos patikėjimo teise valdomas turtas – valstybės nuosavybėn, kai yra priimtas savivaldybės tarybos sprendimas perduoti ir Vyriausybės nutarimas perimti biudžetinės įstaigos savininko teises ir pareigas bei turtą. Tais atvejais, kai įstatymų nustatyta tvarka teismas pripažino, kad savivaldybė nevykdė įstatymų nustatytų funkcijų, su šių funkcijų vykdymu susijusios biudžetinės įstaigos savininko teisės ir pareigos gali būti perduotos valstybei, o biudžetinės įstaigos patikėjimo teise valdomas turtas – valstybės nuosavybėn Vyriausybės nutarimu (be savivaldybės tarybos sprendimo). Vyriausybės nutarime taip pat turi būti nurodyta valstybės valdymo institucija, įgyvendinsianti šios biudžetinės įstaigos savininko teises ir pareigas.
 
-taryba vadinamos savininko teises ir pareigas įgyvendinančiomis institucijomis.
+7. Valstybės valdymo institucijos – iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos savininko teisės ir pareigos ir biudžetinės įstaigos patikėjimo teise valdomas turtas gali būti perduoti kitai biudžetinės įstaigos savininko teises įgyvendinančiai institucijai įstatymų nustatytoms funkcijoms įgyvendinti, kai yra Vyriausybės nutarimas perduoti tai Vyriausybės įgaliotai institucijai įgyvendinti biudžetinės įstaigos savininko teises ir pareigas ir valdyti, naudoti ir disponuoti juo patikėjimo teise biudžetinės įstaigos turtą. Savivaldybės biudžetinei įstaigai patikėjimo teise perduotas turtas savivaldybių funkcijoms įgyvendinti gali būti savivaldybės tarybos sprendimu perduotas kitai biudžetinei įstaigai pagal įstatymus valdyti, naudoti ir disponuoti juo patikėjimo teise.
 
-3. Savininko teises
+8. Sprendimas dėl biudžetinės įstaigos savininko teisių ir pareigų bei turto perdavimo turi būti priimtas ne vėliau kaip likus 4 mėnesiams iki finansinių metų pabaigos.
 
-ir pareigas įgyvendinančios institucijos:
+9. Savininko teises ir pareigas įgyvendinsianti institucija, priėmusi sprendimą dėl savininko teisių ir pareigų bei turto perėmimo, pakeičia biudžetinės įstaigos nuostatus.
 
-1) tvirtina biudžetinės
+II SKYRIUS
 
-įstaigos nuostatus;
-
-2) priima į pareigas
-
-ir iš jų atleidžia biudžetinės įstaigos vadovą;
-
-3) priima sprendimą
-
-dėl biudžetinės įstaigos buveinės pakeitimo;
-
-4) priima sprendimą
-
-dėl biudžetinės įstaigos reorganizavimo ar likvidavimo;
-
-5) priima sprendimą
-
-dėl biudžetinės įstaigos filialo steigimo ir jo veiklos nutraukimo;
-
-6) skiria ir atleidžia
-
-likvidatorių arba sudaro likvidacinę komisiją ir nutraukia jos įgaliojimus;
-
-7) sprendžia kitus
-
-šiame įstatyme, kituose įstatymuose ir biudžetinės įstaigos nuostatuose jos kompetencijai
-
-priskirtus klausimus.
-
-4. Savininko teises
-
-ir pareigas įgyvendinančių institucijų sprendimai turi būti įforminami raštu.
-
-5. Iš valstybės biudžeto
-
-arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo
-
-biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos savininko
-
-teisės ir pareigos gali būti perduotos savivaldybei, o biudžetinės įstaigos patikėjimo
-
-teise valdomas turtas – savivaldybės nuosavybėn įstatymų nustatytoms funkcijoms
-
-įgyvendinti, kai yra priimtas savivaldybės tarybos sprendimas perimti ir Vyriausybės
-
-nutarimas perduoti biudžetinės įstaigos savininko teises ir pareigas bei turtą,
-
-išskyrus atvejus, kai funkcijoms ar savininko teisėms ir pareigoms perduoti priimamas
-
-atskiras įstatymas arba yra priimtas savivaldybės tarybos sprendimas perimti ir
-
-Vyriausybės nutarimas perduoti savivaldybei biudžetinės įstaigos patikėjimo teise
-
-valdomą turtą savivaldybei valdyti, naudoti ir disponuoti juo patikėjimo teise.
-
-6. Iš savivaldybės
-
-biudžeto išlaikomos biudžetinės įstaigos savininko teisės ir pareigos gali būti
-
-perduotos valstybei, o biudžetinės įstaigos patikėjimo teise valdomas turtas – valstybės
-
-nuosavybėn, kai yra priimtas savivaldybės tarybos sprendimas perduoti ir Vyriausybės
-
-nutarimas perimti biudžetinės įstaigos savininko teises ir pareigas bei turtą. Tais
-
-atvejais, kai įstatymų nustatyta tvarka teismas pripažino, kad savivaldybė nevykdė
-
-įstatymų nustatytų funkcijų, su šių funkcijų vykdymu susijusios biudžetinės įstaigos
-
-savininko teisės ir pareigos gali būti perduotos valstybei, o biudžetinės įstaigos
-
-patikėjimo teise valdomas turtas – valstybės nuosavybėn Vyriausybės nutarimu (be
-
-savivaldybės tarybos sprendimo). Vyriausybės nutarime taip pat turi būti nurodyta
-
-valstybės valdymo institucija, įgyvendinsianti šios biudžetinės įstaigos savininko
-
-teises ir pareigas.
-
-7. Valstybės valdymo
-
-institucijos – iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo,
-
-Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikomos
-
-biudžetinės įstaigos savininko teisės ir pareigos ir biudžetinės įstaigos patikėjimo
-
-teise valdomas turtas gali būti perduoti kitai biudžetinės įstaigos savininko teises
-
-įgyvendinančiai institucijai įstatymų nustatytoms funkcijoms įgyvendinti, kai yra
-
-Vyriausybės nutarimas perduoti tai Vyriausybės įgaliotai institucijai įgyvendinti
-
-biudžetinės įstaigos savininko teises ir pareigas ir valdyti, naudoti ir disponuoti
-
-juo patikėjimo teise biudžetinės įstaigos turtą. Savivaldybės biudžetinei įstaigai
-
-patikėjimo teise perduotas turtas savivaldybių funkcijoms įgyvendinti gali būti
-
-savivaldybės tarybos sprendimu perduotas kitai biudžetinei įstaigai pagal įstatymus
-
-valdyti, naudoti ir disponuoti juo patikėjimo teise.
-
-8. Sprendimas dėl
-
-biudžetinės įstaigos savininko teisių ir pareigų bei turto perdavimo turi būti priimtas
-
-ne vėliau kaip likus 4 mėnesiams iki finansinių metų pabaigos.
-
-9. Savininko teises
-
-ir pareigas įgyvendinsianti institucija, priėmusi sprendimą dėl savininko teisių
-
-ir pareigų bei turto perėmimo, pakeičia biudžetinės įstaigos nuostatus.
-
-II SKYRIUSBIUDŽETINĖS ĮSTAIGOS STEIGIMAS, ĮREGISTRAVIMAS IR VALDYMAS
-
-2 straipsnis. Biudžetinė
-
-įstaiga
-
-Biudžetinė įstaiga yra
-
-valstybės arba savivaldybės institucija, steigiama įstatymų nustatyta tvarka,
-
-visiškai arba iš dalies išlaikoma iš biudžeto ir taip įvardyta steigimo akte
-
-bei nuostatuose.
-
-3 straipsnis. Biudžetinių
-
-įstaigų steigimas
-
-Biudžetinių įstaigų,
-
-išlaikomų iš Lietuvos valstybės biudžeto, steigimo teisinis pagrindas yra
-
-įstaigos steigimo aktas, kurį gali priimti Lietuvos Respublikos Seimas,
-
-Lietuvos Respublikos Vyriausybė, ministerijos, apskričių viršininkai arba kitos
-
-valstybinės institucijos. Steigdami biudžetinę įstaigą, steigėjai, išskyrus
-
-Lietuvos Respublikos Seimą, Lietuvos Respublikos Prezidentūrą, Lietuvos
-
-Respublikos Vyriausybę, Konstitucinį Teismą ir Aukščiausiąjį Teismą, privalo
-
-steigimo aktą suderinti su Finansų ministerija.
-
-Biudžetinių įstaigų,
-
-išlaikomų iš savivaldybių biudžetų, steigimo aktus priima vietos savivaldybių
-
-tarybos Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-322,
-
-97.06.26, Žin., 1997, Nr.66-1601 (97.07.11)
-
-4
-
-straipsnis. Biudžetinių įstaigų reorganizavimas ir likvidavimas
-
-1.
-
-Biudžetinių įstaigų veikla pasibaigia likvidavimo arba reorganizavimo būdu.
-
-2.
-
-Biudžetinės įstaigos gali būti likviduojamos tik Civilinio kodekso nustatytais
-
-pagrindais.
-
-3.
-
-Biudžetinės įstaigos gali būti reorganizuojamos į šių formų juridinio asmens
-
-teises turinčias įstaigas ar įmones:
-
-1)
-
-biudžetines įstaigas (sujungus ar išskaidžius);
-
-2)
-
-valstybės ar savivaldybės įmones;
-
-3)
-
-viešąsias įstaigas.
-
-4. Sprendimą dėl
-
-biudžetinės įstaigos reorganizavimo priima valstybinė ar savivaldybės
-
-institucija, įstaiga, priėmusi teisės aktą dėl biudžetinės įstaigos steigimo.
-
-5.
-
-Reorganizuojamos biudžetinės įstaigos, kuri išlaikoma iš valstybės biudžeto,
-
-įvertintas turtas perduodamas Vyriausybės nustatyta tvarka steigiamai valstybės
-
-įmonei valdyti, naudoti ir juo disponuoti patikėjimo teise.
-
-6. Reorganizuojamos biudžetinės
-
-įstaigos, kuri išlaikoma iš savivaldybės biudžeto, įvertintas turtas
-
-perduodamas Vyriausybės nustatyta tvarka steigiamai savivaldybės įmonei
-
-valdyti, naudoti ir juo disponuoti patikėjimo teise.
-
-7. Kai
-
-biudžetinė įstaiga reorganizuojama į viešąją įstaigą, jos įvertintas turtas
-
-Vyriausybės nustatyta tvarka steigėjo sprendimu perduodamas steigiamai viešajai
-
-įstaigai panaudos sutarties pagrindais.
-
-Straipsnio pakeitimai:
-
-Nr. VIII-1919, 00.09.12, Žin., 2000,
-
-Nr.83-2511 (00.10.04)
-
-4 straipsnis.
-
-Biudžetinių įstaigų reorganizavimas ir likvidavimas
-
-Biudžetines įstaigas
-
-reorganizuoja arba  likviduoja jų steigėjai Lietuvos Respublikos Vyriausybės
-
-nustatyta tvarka, jeigu įstatymai nenumato kitaip.
+BIUDŽETINĖS ĮSTAIGOS STEIGIMAS, ĮREGISTRAVIMAS IR VALDYMAS
 
 5 straipsnis. Biudžetinės įstaigos steigimas
 
-1. Valstybės funkcijoms
+1. Valstybės funkcijoms įgyvendinti steigiama iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikoma biudžetinė įstaiga, savivaldybės funkcijoms įgyvendinti – iš savivaldybės biudžeto išlaikoma biudžetinė įstaiga.
 
-įgyvendinti steigiama iš valstybės biudžeto arba iš Valstybinio socialinio draudimo
+2. Iš valstybės biudžeto arba Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikoma biudžetinė įstaiga steigiama įstatymu arba Vyriausybės nutarimu.
 
-fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų
+3. Iš savivaldybės biudžeto išlaikomą biudžetinę įstaigą sprendimu steigia savivaldybės taryba.
 
-išlaikoma biudžetinė įstaiga, savivaldybės funkcijoms įgyvendinti – iš savivaldybės
+4. Šio straipsnio 2 ir 3 dalyse nurodytuose teisės aktuose, kuriais steigiama biudžetinė įstaiga, be kita ko, turi būti nurodyta:
 
-biudžeto išlaikoma biudžetinė įstaiga.
+1) biudžetinės įstaigos pavadinimas ir buveinė;
 
-2. Iš valstybės biudžeto
+2) biudžetinės įstaigos steigimo tikslas;
 
-arba Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo
+3) biudžetinės įstaigos savininko teises ir pareigas įgyvendinanti institucija.
 
-biudžetų ir kitų valstybės pinigų fondų išlaikoma biudžetinė įstaiga steigiama įstatymu
+6 straipsnis. Biudžetinės įstaigos nuostatai
 
-arba Vyriausybės nutarimu.
+1. Biudžetinės įstaigos nuostatai yra dokumentas, kuriuo biudžetinė įstaiga vadovaujasi savo veikloje.
 
-3. Iš savivaldybės
-
-biudžeto išlaikomą biudžetinę įstaigą sprendimu steigia savivaldybės taryba.
-
-4. Šio straipsnio
-
-2 ir 3 dalyse nurodytuose teisės aktuose, kuriais steigiama biudžetinė įstaiga,
-
-be kita ko, turi būti nurodyta:
-
-1) biudžetinės įstaigos
-
-pavadinimas ir buveinė;
-
-2) biudžetinės įstaigos
-
-steigimo tikslas;
-
-3) biudžetinės įstaigos savininko teises
-
-ir pareigas įgyvendinanti institucija.
-
-6
-
-straipsnis. Biudžetinės įstaigos nuostatai
-
-1. Biudžetinės įstaigos
-
-nuostatai yra dokumentas, kuriuo biudžetinė įstaiga vadovaujasi savo veikloje.
-
-2. Biudžetinės įstaigos
-
-nuostatuose turi būti nurodyta biudžetinės įstaigos:
+2. Biudžetinės įstaigos nuostatuose turi būti nurodyta biudžetinės įstaigos:
 
 1) pavadinimas;
 
-2) teisinė forma
-
-– biudžetinė įstaiga;
+2) teisinė forma – biudžetinė įstaiga;
 
 3) savininkas;
 
-4) savininko teises
+4) savininko teises ir pareigas įgyvendinanti institucija ir jos kompetencija;
 
-ir pareigas įgyvendinanti institucija ir jos kompetencija;
+5) veiklos laikotarpis, jei jis ribotas;
 
-5) veiklos laikotarpis,
+6) priskirtos funkcijos ir veiklos tikslai – aiškiai ir išsamiai nurodoma veiklos sritis ir rūšys;
 
-jei jis ribotas;
+7) vadovo kompetencija, skyrimo ir atleidimo tvarka;
 
-6) priskirtos funkcijos
+8) kiti biudžetinės įstaigos organai, jei pagal kitus įstatymus ar Vyriausybės nutarimus tokie organai sudaromi, šių organų sudarymo tvarka ir kompetencija, sprendimų priėmimo tvarka;
 
-ir veiklos tikslai – aiškiai ir išsamiai nurodoma veiklos sritis ir rūšys;
+9) šaltinis, kuriame skelbiami vieši pranešimai;
 
-7) vadovo kompetencija,
+10) nuostatų keitimo tvarka.
 
-skyrimo ir atleidimo tvarka;
+3. Biudžetinės įstaigos nuostatuose gali būti ir kitų nuostatų, neprieštaraujančių šiam ir kitiems įstatymams.
 
-8) kiti biudžetinės
+4. Steigiamos biudžetinės įstaigos nuostatus rengia ir tvirtina teisės akte, kuriuo steigiama biudžetinė įstaiga, nurodyta savininko teises ir pareigas įgyvendinanti institucija. Steigiamos biudžetinės įstaigos nuostatus pasirašo savininko teises ir pareigas įgyvendinančios institucijos vardu veikiantis asmuo arba savininko teises ir pareigas įgyvendinančios institucijos įgaliotas asmuo.
 
-įstaigos organai, jei pagal kitus įstatymus ar Vyriausybės nutarimus tokie organai
+5. Pakeistus biudžetinės įstaigos nuostatus tvirtina savininko teises ir pareigas įgyvendinanti institucija. Pakeistus biudžetinės įstaigos nuostatus pasirašo savininko teises ir pareigas įgyvendinančios institucijos vardu veikiantis asmuo arba savininko teises ir pareigas įgyvendinančios institucijos įgaliotas asmuo. Pakeisti biudžetinės įstaigos nuostatai įsigalioja nuo jų įregistravimo Juridinių asmenų registre dienos. Pakeitus nuostatus, kartu su teisės aktų nustatytais dokumentais Juridinių asmenų registrui turi būti pateikti pakeisti biudžetinės įstaigos nuostatai ir nurodyti jų pakeitimai.
 
-sudaromi, šių organų sudarymo tvarka ir kompetencija, sprendimų priėmimo tvarka;
+6. Biudžetinės įstaigos nuostatus ir pakeistus nuostatus pasirašiusių fizinių asmenų parašų tikrumas notaro netvirtinamas.
 
-9) šaltinis, kuriame
+7 straipsnis. Biudžetinės įstaigos įregistravimas
 
-skelbiami vieši pranešimai;
+1. Biudžetinė įstaiga laikoma įsteigta nuo jos įregistravimo Juridinių asmenų registre dienos.
 
-10) nuostatų keitimo
+2. Biudžetinei įstaigai įregistruoti Juridinių asmenų registre pateikiami patvirtinti steigiamos biudžetinės įstaigos nuostatai, teisės aktas dėl biudžetinės įstaigos steigimo ir kiti teisės aktų nustatyti dokumentai.
 
-tvarka.
+8 straipsnis. Juridinių asmenų registro duomenys
 
-3. Biudžetinės įstaigos
+Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, Juridinių asmenų registre nurodoma:
 
-nuostatuose gali būti ir kitų nuostatų, neprieštaraujančių šiam ir kitiems įstatymams.
+1) duomenys apie savininką;
 
-4. Steigiamos biudžetinės
+2) savininko teises ir pareigas įgyvendinanti institucija;
 
-įstaigos nuostatus rengia ir tvirtina teisės akte, kuriuo steigiama biudžetinė įstaiga,
+3) vadovo įgaliojimų pradžios ir pabaigos datos;
 
-nurodyta savininko teises ir pareigas įgyvendinanti institucija. Steigiamos biudžetinės
+4) biudžetinės įstaigos veiklos laikotarpis, jei jis yra ribotas;
 
-įstaigos nuostatus pasirašo savininko teises ir pareigas įgyvendinančios institucijos
+5) kiti teisės aktų nustatyti duomenys.
 
-vardu veikiantis asmuo arba savininko teises ir pareigas įgyvendinančios institucijos
+9 straipsnis. Biudžetinės įstaigos valdymas
 
-įgaliotas asmuo.
+1. Biudžetinės įstaigos vadovas yra vienasmenis biudžetinės įstaigos valdymo organas. Biudžetinės įstaigos vadovas pareigas pradeda eiti nuo jo priėmimo į pareigas dienos. Apie biudžetinės įstaigos vadovo priėmimą į pareigas ar atleidimą iš pareigų savininko teises ir pareigas įgyvendinančios institucijos įgaliotas asmuo ne vėliau kaip per 5 dienas privalo pranešti Juridinių asmenų registro tvarkytojui.
 
-5. Pakeistus biudžetinės
+2. Biudžetinės įstaigos vadovo pareigos:
 
-įstaigos nuostatus tvirtina savininko teises ir pareigas įgyvendinanti institucija.
+1) organizuoti biudžetinės įstaigos darbą, kad būtų įgyvendinami biudžetinės įstaigos tikslai ir atliekamos nustatytos funkcijos;
 
-Pakeistus biudžetinės įstaigos nuostatus pasirašo savininko teises ir pareigas įgyvendinančios
+2) užtikrinti, kad būtų laikomasi įstatymų, kitų teisės aktų ir biudžetinės įstaigos nuostatų;
 
-institucijos vardu veikiantis asmuo arba savininko teises ir pareigas įgyvendinančios
+3) nustatyta tvarka priimti ir atleisti biudžetinės įstaigos darbuotojus;
 
-institucijos įgaliotas asmuo. Pakeisti biudžetinės įstaigos nuostatai įsigalioja
+4) tvirtinti biudžetinės įstaigos struktūrą ir pareigybių sąrašą, neviršijant nustatyto didžiausio leistino pareigybių skaičiaus;
 
-nuo jų įregistravimo Juridinių asmenų registre dienos. Pakeitus nuostatus, kartu
+5) garantuoti, kad pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą teikiami ataskaitų rinkiniai ir statistinės ataskaitos būtų teisingi;
 
-su teisės aktų nustatytais dokumentais Juridinių asmenų registrui turi būti pateikti
+6) užtikrinti racionalų ir taupų lėšų bei turto naudojimą, veiksmingą biudžetinės įstaigos vidaus kontrolės sistemos sukūrimą, jos veikimą ir tobulinimą.
 
-pakeisti biudžetinės įstaigos nuostatai ir nurodyti jų pakeitimai.
-
-6. Biudžetinės įstaigos
-
-nuostatus ir pakeistus nuostatus pasirašiusių fizinių asmenų parašų tikrumas notaro
-
-netvirtinamas.
-
-7
-
-straipsnis. Biudžetinės įstaigos įregistravimas
-
-1.
-
-Biudžetinė įstaiga laikoma įsteigta nuo jos įregistravimo Juridinių asmenų registre
-
-dienos.
-
-2. Biudžetinei įstaigai
-
-įregistruoti Juridinių asmenų registre pateikiami patvirtinti steigiamos biudžetinės
-
-įstaigos nuostatai, teisės aktas dėl biudžetinės įstaigos steigimo ir kiti teisės
-
-aktų nustatyti dokumentai.
-
-8
-
-straipsnis. Juridinių asmenų registro duomenys
-
-Be Civilinio kodekso
-
-2.66 straipsnyje išvardytų duomenų, Juridinių asmenų registre nurodoma:
-
-1) duomenys apie
-
-savininką;
-
-2) savininko teises
-
-ir pareigas įgyvendinanti institucija;
-
-3) vadovo įgaliojimų
-
-pradžios ir pabaigos datos;
-
-4) biudžetinės įstaigos
-
-veiklos laikotarpis, jei jis yra ribotas;
-
-5) kiti teisės aktų
-
-nustatyti duomenys.
-
-9
-
-straipsnis. Biudžetinės įstaigos valdymas
-
-1. Biudžetinės įstaigos
-
-vadovas yra vienasmenis biudžetinės įstaigos valdymo organas. Biudžetinės įstaigos
-
-vadovas pareigas pradeda eiti nuo jo priėmimo į pareigas dienos. Apie biudžetinės
-
-įstaigos vadovo priėmimą į pareigas ar atleidimą iš pareigų savininko teises ir
-
-pareigas įgyvendinančios institucijos įgaliotas asmuo ne vėliau kaip per 5 dienas
-
-privalo pranešti Juridinių asmenų registro tvarkytojui.
-
-2. Biudžetinės įstaigos
-
-vadovo pareigos:
-
-1) organizuoti biudžetinės
-
-įstaigos darbą, kad būtų įgyvendinami biudžetinės įstaigos tikslai ir atliekamos
-
-nustatytos funkcijos;
-
-2) užtikrinti, kad
-
-būtų laikomasi įstatymų, kitų teisės aktų ir biudžetinės įstaigos nuostatų;
-
-3) nustatyta tvarka
-
-priimti ir atleisti biudžetinės įstaigos darbuotojus;
-
-4) tvirtinti biudžetinės
-
-įstaigos struktūrą ir pareigybių sąrašą, neviršijant nustatyto didžiausio leistino
-
-pareigybių skaičiaus;
-
-5) garantuoti, kad
-
-pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą teikiami ataskaitų
-
-rinkiniai ir statistinės ataskaitos būtų teisingi;
-
-6) užtikrinti racionalų
-
-ir taupų lėšų bei turto naudojimą, veiksmingą biudžetinės įstaigos vidaus kontrolės
-
-sistemos sukūrimą, jos veikimą ir tobulinimą.
-
-3. Biudžetinės įstaigos
-
-vadovas gali turėti ir kitų jam biudžetinės įstaigos nuostatuose arba kituose teisės
-
-aktuose nustatytų pareigų.
+3. Biudžetinės įstaigos vadovas gali turėti ir kitų jam biudžetinės įstaigos nuostatuose arba kituose teisės aktuose nustatytų pareigų.
 
 III SKYRIUS
 
-BIUDŽETINĖS
+BIUDŽETINĖS ĮSTAIGOS TURTAS. BUHALTERINĖ APSKAITA, FINANSINIŲ IR BIUDŽETO VYKDYMO ATASKAITŲ RINKINIAI. AUDITAS
 
-ĮSTAIGOS TURTAS. BUHALTERINĖ APSKAITA, FINANSINIŲ IR BIUDŽETO VYKDYMO ATASKAITŲ
+10 straipsnis. Biudžetinės įstaigos turtas
 
-RINKINIAI. AUDITAS
+1. Biudžetinės įstaigos savininko jai perduotas ir biudžetinės įstaigos įgytas turtas nuosavybės teise priklauso biudžetinės įstaigos savininkui, o biudžetinė įstaiga šį turtą valdo, naudoja ir disponuoja juo teisės aktų nustatyta tvarka.
 
-6 straipsnis. Biudžetinių
+2. Biudžetinės įstaigos lėšų šaltiniai gali būti:
 
-įstaigų valdymas
+1) valstybės biudžeto ir (arba) savivaldybės biudžeto asignavimai;
 
-Biudžetinei įstaigai
+2) Valstybinio socialinio draudimo fondo ir Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės ir savivaldybių pinigų fondų lėšos;
 
-vadovauja vadovas, kurį skiria pareigoms ir atleidžia iš jų steigėjas, jeigu
+3) kitos teisėtai gautos lėšos.
 
-įstatymai nenustato kitaip.
+3. Šio straipsnio 2 dalies 3 punkte nurodytas lėšas iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikoma biudžetinė įstaiga naudoja Vyriausybės, o iš savivaldybės biudžeto išlaikoma biudžetinė įstaiga – savivaldybės tarybos nustatyta tvarka.
 
-7 straipsnis. Biudžetinių
+11 straipsnis. Biudžetinės įstaigos buhalterinė apskaita, finansinių ir biudžeto vykdymo ataskaitų rinkiniai
 
-įstaigų finansavimas
+Biudžetinės įstaigos buhalterinė apskaita organizuojama ir finansinių ir biudžeto vykdymo ataskaitų rinkiniai sudaromi ir teikiami Lietuvos Respublikos buhalterinės apskaitos įstatymo, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo ir kitų teisės aktų nustatyta tvarka.
 
-Biudžetinės įstaigos yra
+12 straipsnis. Biudžetinės įstaigos auditas
 
-finansuojamos iš valstybės biudžeto arba savivaldybių biudžetų, atsižvelgiant į
+1. Iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos ir iš savivaldybės biudžeto išlaikomos biudžetinės įstaigos valstybinį auditą atlieka Lietuvos Respublikos valstybės kontrolė.
 
-tai, kas yra steigėjas, pagal asignavimų valdytojų patvirtintas sąmatas,
+2. Iš savivaldybės biudžeto išlaikomos biudžetinės įstaigos veiklos ir išorės finansinį auditą atlieka savivaldybės kontrolierius (savivaldybės kontrolės ir audito tarnyba).
 
-laikantis Finansų ministerijos nustatytų finansavimo taisyklių ir iždo
-
-procedūrų.
-
-8 straipsnis. Biudžetinių įstaigų
-
-asignavimų valdymas
-
-Biudžetinių
-
-įstaigų asignavimų valdytojai turi teisę naudoti biudžeto lėšas savo
-
-vadovaujamai įstaigai išlaikyti ir sąmatose numatytoms priemonėms finansuoti,
-
-taip pat paskirstyti jiems skirtas biudžeto lėšas pavaldžioms įstaigoms.
-
-Asignavimų
-
-valdytojai organizuoja socialinių ekonominių programų finansavimą ir tvirtina
-
-jų išlaidų apmokėjimo įkainius, normas bei sąlygas.
-
-Biudžetinių
-
-įstaigų asignavimų valdytojai yra atsakingi už teisingą pavaldžių įstaigų
-
-išlaidų sąmatų bei  piniginių lėšų, gautų ne kaip biudžeto asignavimai,  sąmatų
-
-sudarymą. Jie turi užtikrinti, kad biudžetinės įstaigos laiku išmokėtų darbuotojams
-
-apskaičiuotus atlyginimus, laiku atsiskaitytų su biudžetu ir valstybinio
-
-socialinio draudimo fondo administravimo įstaigomis, taip pat už įstaigose
-
-sunaudotą visų rūšių energiją ir kitas paslaugas.
-
-Valstybės
-
-biudžeto asignavimų valdytojai turi:
-
-rengti
-
-pavaldžioms įstaigoms darbų, paslaugų, valdymo ir aptarnaujančio personalo
-
-etatų normatyvus, materialinių vertybių atsargų, inventoriaus, mitybos,
-
-medikamentų finansinius normatyvus ir, suderinę su Finansų ministerija, juos
-
-tvirtinti bei taikyti;
-
-prižiūrėti
-
-apskaitos tvarkymą, kontroliuoti įsiskolinimus bei imtis visų priemonių jiems
-
-išvengti ir analizuoti pavaldžių įstaigų  finansinių ir biudžeto vykdymo
-
-ataskaitų rinkinius;
-
-garantuoti
-
-pavaldžių įstaigų bei savo finansinių ir biudžeto vykdymo ataskaitų rinkinių
-
-ir statistinių ataskaitų teisingumą.
-
-Iš asignavimų
-
-valdytojų gautus biudžeto asignavimus įstaigos naudoja racionaliai ir taupiai
-
-ir tik pagal asignavimų valdytojų patvirtintas išlaidų sąmatas.
-
-Valstybės ir savivaldybių biudžetų
-
-asignavimų valdytojai, taip pat jiems pavaldžių biudžetinių įstaigų vadovai,
-
-pažeidę biudžetų asignavimų paskirstymo ir naudojimo tvarką, atsako pagal
-
-Lietuvos Respublikos įstatymus.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-127,
-
-97.02.25, Žin., 1997, Nr.20-449 (97.03.07)
-
-Nr. IX-2536,
-
-2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
-
-Nr.
-
-X-1216,
-
-2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
-
-Nr. X-1824,
-
-2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
-
-9
-
-straipsnis. Biudžetinių įstaigų išlaidos
-
-Išlaidų sandarą
-
-nustato asignavimų valdytojai, neviršydami jiems patvirtintų bendrųjų
-
-asignavimų, tarp jų – išlaidoms, iš jų – darbo užmokesčiui ir turtui įsigyti.
-
-Biudžetinių įstaigų
-
-darbuotojų tarnybiniai atlyginimai ir darbo apmokėjimo sąlygos tvirtinamos
-
-Lietuvos Respublikos įstatymų ir Vyriausybės nutarimų nustatyta tvarka.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-X-1216,
-
-2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
-
-Nr. X-1824,
-
-2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
-
-9 straipsnis. Biudžetinių
-
-įstaigų išlaidos
-
-Išlaidų sandarą nustato
-
-asignavimų valdytojai, neviršydami jiems patvirtintų bendrųjų asignavimų, tarp
-
-jų - darbo užmokesčio, paprastųjų ir nepaprastųjų išlaidų.
-
-Biudžetinių įstaigų
-
-darbuotojų tarnybiniai atlyginimai ir darbo apmokėjimo sąlygos tvirtinamos
-
-Lietuvos Respublikos įstatymų ir Vyriausybės nutarimų nustatyta tvarka.
-
-10 straipsnis. Biudžetinės įstaigos
-
-turtas
-
-1. Biudžetinės įstaigos
-
-savininko jai perduotas ir biudžetinės įstaigos įgytas turtas nuosavybės teise priklauso
-
-biudžetinės įstaigos savininkui, o biudžetinė įstaiga šį turtą valdo, naudoja ir
-
-disponuoja juo teisės aktų nustatyta tvarka.
-
-2.
-
-Biudžetinės įstaigos lėšų šaltiniai gali būti:
-
-1)
-
-valstybės biudžeto ir (arba) savivaldybės biudžeto asignavimai;
-
-2)
-
-Valstybinio socialinio draudimo fondo ir Privalomojo sveikatos draudimo fondo biudžetų
-
-ir kitų valstybės ir savivaldybių pinigų fondų lėšos;
-
-3)
-
-kitos teisėtai gautos lėšos.
-
-3. Šio straipsnio
-
-2 dalies 3 punkte nurodytas lėšas iš valstybės biudžeto arba iš Valstybinio socialinio
-
-draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės
-
-pinigų fondų išlaikoma biudžetinė įstaiga naudoja Vyriausybės, o iš savivaldybės
-
-biudžeto išlaikoma biudžetinė įstaiga – savivaldybės tarybos nustatyta tvarka.
-
-11
-
-straipsnis. Biudžetinės įstaigos buhalterinė apskaita, finansinių ir biudžeto vykdymo
-
-ataskaitų rinkiniai
-
-Biudžetinės įstaigos
-
-buhalterinė apskaita organizuojama ir finansinių ir biudžeto vykdymo ataskaitų rinkiniai
-
-sudaromi ir teikiami Lietuvos Respublikos buhalterinės apskaitos įstatymo, Lietuvos
-
-Respublikos viešojo sektoriaus atskaitomybės įstatymo ir kitų teisės aktų nustatyta
-
-tvarka.
-
-12
-
-straipsnis. Biudžetinės įstaigos auditas
-
-1. Iš valstybės biudžeto arba iš Valstybinio
-
-socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų
-
-valstybės pinigų fondų išlaikomos biudžetinės įstaigos ir iš savivaldybės biudžeto
-
-išlaikomos biudžetinės įstaigos valstybinį auditą atlieka Lietuvos Respublikos valstybės
-
-kontrolė.
-
-2. Iš savivaldybės biudžeto išlaikomos biudžetinės
-
-įstaigos veiklos ir išorės finansinį auditą atlieka savivaldybės kontrolierius (savivaldybės
-
-kontrolės ir audito tarnyba).
-
-3. Biudžetinės įstaigos
-
-vidaus auditas atliekamas vadovaujantis Lietuvos Respublikos vidaus kontrolės ir
-
-vidaus audito įstatymu ir kitais vidaus auditą reglamentuojančiais teisės aktais.
+3. Biudžetinės įstaigos vidaus auditas atliekamas vadovaujantis Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymu ir kitais vidaus auditą reglamentuojančiais teisės aktais.
 
 IV skYRIUs
 
 BIUDŽETINĖS ĮSTAIGOS PERTVARKYMAS IR PABAIGA
 
-13
+13 straipsnis. Biudžetinės įstaigos pertvarkymas
 
-straipsnis. Biudžetinės įstaigos pertvarkymas
+1. Iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikoma biudžetinė įstaiga gali būti pertvarkoma į valstybės įmonę. Iš savivaldybės biudžeto išlaikoma biudžetinė įstaiga gali būti pertvarkoma į savivaldybės įmonę. Kituose įstatymuose nustatytais atvejais biudžetinė įstaiga gali būti pertvarkoma į kitos teisinės formos viešąjį juridinį asmenį šiame straipsnyje nustatyta tvarka.
 
-Biudžetinė įstaiga
+2. Iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos pertvarkymo procedūros gali būti pradėtos vykdyti tik turint Vyriausybės sutikimą pertvarkyti biudžetinę įstaigą. Iš savivaldybės biudžeto išlaikomos biudžetinės įstaigos pertvarkymo procedūros gali būti pradėtos vykdyti tik turint savivaldybės tarybos sutikimą pertvarkyti biudžetinę įstaigą. Vyriausybės nutarime ar savivaldybės tarybos sprendime dėl sutikimo pertvarkyti biudžetinę įstaigą taip pat turi būti nurodyti biudžetinės įstaigos pertvarkymo tikslai, juridinio asmens, į kurį pertvarkoma biudžetinė įstaiga, teisinė forma, pavadinimas, buveinė, numatomi jo veiklos tikslai ir jo savininko ar dalyvio teises ir pareigas įgyvendinanti institucija.
 
-negali būti pertvarkyta į kitos teisinės formos juridinį asmenį, išskyrus įstatymų
+3. Sprendimą pertvarkyti biudžetinę įstaigą priima jos savininko teises ir pareigas įgyvendinanti institucija.
 
-nustatytus atvejus.
+4. Apie priimtą sprendimą pertvarkyti biudžetinę įstaigą biudžetinės įstaigos vadovas teisės aktų nustatyta tvarka ne vėliau kaip pirmą sprendimo viešo paskelbimo dieną turi pranešti Juridinių asmenų registrui, taip pat viešai paskelbti biudžetinės įstaigos nuostatuose nurodytame šaltinyje tris kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbti nuostatuose nurodytame šaltinyje vieną kartą ir pranešti visiems biudžetinės įstaigos kreditoriams raštu. Pranešime ir skelbime turi būti nurodyta:
 
-14
+1) pertvarkomos biudžetinės įstaigos pavadinimas, buveinė, kodas ir registras, kuriame kaupiami ir saugomi duomenys apie pertvarkomą biudžetinę įstaigą;
 
-straipsnis. Biudžetinės įstaigos reorganizavimas
+2) juridinio asmens, į kurį pertvarkoma biudžetinė įstaiga, teisinė forma ir jo savininko ar dalyvio teises ir pareigas įgyvendinsianti institucija;
 
-1. Biudžetinė įstaiga
+3) kur ir kada galima susipažinti su juridinio asmens, kuris veiks po pertvarkymo, įstatais ir pertvarkomos biudžetinės įstaigos praėjusių trejų finansinių metų finansinių ir biudžeto vykdymo ataskaitų rinkiniais, finansinės būklės ataskaitomis ir žemesniojo lygio biudžeto išlaidų sąmatos vykdymo ataskaitomis.
 
-reorganizuojama Civiliniame kodekse nustatytais jungimo ar skaidymo būdais. Biudžetinė
+5. Reorganizuojama biudžetinė įstaiga negali būti pertvarkoma.
 
-įstaiga gali būti reorganizuojama arba dalyvauti reorganizavime tik tada, jei įstatymų
+6. Nuo sprendimo pertvarkyti biudžetinę įstaigą priėmimo dienos biudžetinė įstaiga įgyja pertvarkomos biudžetinės įstaigos statusą.
 
-nustatyta tvarka nėra įgijusi reorganizuojamos, reorganizavime dalyvaujančios, likviduojamos
+7. Pertvarkymas laikomas baigtu ir biudžetinė įstaiga netenka pertvarkomos biudžetinės įstaigos statuso nuo juridinio asmens, kuris veiks po pertvarkymo, įstatų įregistravimo Juridinių asmenų registre. Naujos teisinės formos juridinio asmens steigimo dokumentai įregistruojami Juridinių asmenų registre ir Juridinių asmenų registro duomenys pakeičiami, kai išrenkami (sudaromi) naujos teisinės formos juridinio asmens valdymo organai.
 
-biudžetinės įstaigos teisinio statuso.
+Straipsnio pakeitimai:
 
-2. Reorganizuojant
+Nr. XII-1790, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09812
 
-iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo
+14 straipsnis. Biudžetinės įstaigos reorganizavimas
 
-sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikomą biudžetinę
+1. Biudžetinė įstaiga reorganizuojama Civiliniame kodekse nustatytais jungimo ar skaidymo būdais. Biudžetinė įstaiga gali būti reorganizuojama arba dalyvauti reorganizavime tik tada, jei įstatymų nustatyta tvarka nėra įgijusi reorganizuojamos, reorganizavime dalyvaujančios, likviduojamos biudžetinės įstaigos teisinio statuso.
 
-įstaigą, reorganizavime gali dalyvauti tik iš valstybės biudžeto arba iš Valstybinio
+2. Reorganizuojant iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikomą biudžetinę įstaigą, reorganizavime gali dalyvauti tik iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos.
 
-socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų
+3. Reorganizuojant iš savivaldybės biudžeto išlaikomą biudžetinę įstaigą, reorganizavime gali dalyvauti tik iš tos pačios savivaldybės biudžeto išlaikomos biudžetinės įstaigos.
 
-valstybės pinigų fondų išlaikomos biudžetinės įstaigos.
+4. Iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos reorganizavimo procedūros gali būti pradėtos vykdyti tik turint Vyriausybės sutikimą reorganizuoti biudžetinę įstaigą. Iš savivaldybės biudžeto išlaikomos biudžetinės įstaigos reorganizavimo procedūros gali būti pradėtos vykdyti tik turint savivaldybės tarybos sutikimą reorganizuoti biudžetinę įstaigą. Vyriausybės nutarime ar savivaldybės tarybos sprendime dėl sutikimo reorganizuoti biudžetinę įstaigą, be kita ko, turi būti nurodyti reorganizavimo tikslai, reorganizavimo būdas, reorganizuojamos biudžetinės įstaigos, dalyvaujančios reorganizavime biudžetinės įstaigos, po reorganizavimo veiksiančios biudžetinės įstaigos, numatomos jų funkcijos, kurias įgyvendins kiekviena po reorganizavimo veiksianti biudžetinė įstaiga, kiekvienos po reorganizavimo veiksiančios biudžetinės įstaigos savininko teises ir pareigas įgyvendinanti institucija.
 
-3. Reorganizuojant
+5. Kai Vyriausybė priima nutarimą ar savivaldybės taryba priima sprendimą dėl sutikimo reorganizuoti biudžetinę įstaigą, reorganizavime dalyvaujančių biudžetinių įstaigų vadovai parengia biudžetinės įstaigos reorganizavimo sąlygų aprašą.
 
-iš savivaldybės biudžeto išlaikomą biudžetinę įstaigą, reorganizavime gali dalyvauti
+6. Biudžetinės įstaigos reorganizavimo sąlygų apraše turi būti nurodyta:
 
-tik iš tos pačios savivaldybės biudžeto išlaikomos biudžetinės įstaigos.
+1) kiekvienos reorganizavime dalyvaujančios biudžetinės įstaigos pavadinimas, teisinė forma, buveinė, kodas, registras, kuriame kaupiami ir saugomi duomenys apie šias biudžetines įstaigas;
 
-4. Iš valstybės biudžeto
+2) reorganizavimo būdas, pasibaigiančios biudžetinės įstaigos, po reorganizavimo veiksiančios biudžetinės įstaigos;
 
-arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo
+3) momentas, nuo kurio pasibaigiančios biudžetinės įstaigos teisės ir pareigos pereina po reorganizavimo veiksiančiai biudžetinei įstaigai;
 
-biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos reorganizavimo
+4) po reorganizavimo veiksiančių biudžetinių įstaigų savininko teises ir pareigas įgyvendinančios institucijos.
 
-procedūros gali būti pradėtos vykdyti tik turint Vyriausybės sutikimą reorganizuoti
+7. Apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą turi būti viešai paskelbta visų reorganizavime dalyvaujančių biudžetinių įstaigų nuostatuose nurodytame šaltinyje tris kartus ne mažesniais kaip 30 dienų intervalais arba paskelbta vieną kartą ir pranešta raštu visiems biudžetinės įstaigos kreditoriams. Pranešime turi būti nurodyta:
 
-biudžetinę įstaigą. Iš savivaldybės biudžeto išlaikomos biudžetinės įstaigos reorganizavimo
+1) šio straipsnio 6 dalies 1, 2 ir 3 punktuose nurodyta informacija;
 
-procedūros gali būti pradėtos vykdyti tik turint savivaldybės tarybos sutikimą reorganizuoti
+2) kur ir nuo kada galima susipažinti su biudžetinės įstaigos reorganizavimo sąlygomis, po reorganizavimo veiksiančių biudžetinių įstaigų nuostatų projektais ir reorganizavime dalyvaujančių biudžetinių įstaigų praėjusių trejų finansinių metų finansinių ir biudžeto vykdymo ataskaitų rinkiniais, finansinės būklės ataskaitomis ir žemesniojo lygio biudžeto išlaidų sąmatos vykdymo ataskaitomis.
 
-biudžetinę įstaigą. Vyriausybės nutarime ar savivaldybės tarybos sprendime dėl sutikimo
+8. Biudžetinės įstaigos reorganizavimo sąlygų aprašas ne vėliau kaip pirmą viešo paskelbimo apie jų parengimą dieną turi būti pateiktas Juridinių asmenų registrui.
 
-reorganizuoti biudžetinę įstaigą, be kita ko, turi būti nurodyti reorganizavimo
+9. Nuo viešo paskelbimo apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą dienos biudžetinė įstaiga, kuri po reorganizavimo pasibaigia, įgyja reorganizuojamos biudžetinės įstaigos statusą, o biudžetinė įstaiga, kuri po reorganizavimo tęsia veiklą, – dalyvaujančios reorganizavime biudžetinės įstaigos teisinį statusą.
 
-tikslai, reorganizavimo būdas, reorganizuojamos biudžetinės įstaigos, dalyvaujančios
+10. Reorganizuojamos biudžetinės įstaigos kreditorius turi teisę reikalauti prievolę nutraukti ar ją įvykdyti prieš terminą, taip pat atlyginti nuostolius, jei tai numatyta sandoryje ar yra pagrindas manyti, kad prievolės įvykdymas dėl reorganizavimo pasunkės, ir jei kreditoriaus reikalavimu biudžetinė įstaiga papildomai neužtikrino prievolių įvykdymo. Reorganizuojamos biudžetinės įstaigos kreditorius savo reikalavimus gali pateikti ne vėliau kaip per 60 dienų nuo viešo paskelbimo apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą pirmos dienos. Reorganizuojamos biudžetinės įstaigos kreditoriai turi teisę susipažinti su reorganizavimo sąlygomis, po reorganizavimo veiksiančių biudžetinių įstaigų nuostatų projektais, taip pat visų reorganizavime dalyvaujančių biudžetinių įstaigų praėjusių trejų finansinių metų finansinių ir biudžeto vykdymo ataskaitų rinkiniais, finansinės būklės ataskaitomis ir žemesniojo lygio biudžeto išlaidų sąmatos vykdymo ataskaitomis. Kiekvienas biudžetinės įstaigos kreditorius turi teisę gauti visų šioje dalyje išvardytų dokumentų kopijas.
 
-reorganizavime biudžetinės įstaigos, po reorganizavimo veiksiančios biudžetinės
+11. Sprendimas dėl biudžetinės įstaigos reorganizavimo gali būti priimtas tik praėjus 30 dienų nuo paskutinio viešo paskelbimo arba viešo paskelbimo, kai apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą paskelbta vieną kartą ir apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą raštu pranešta visiems biudžetinės įstaigos kreditoriams, dienos.
 
-įstaigos, numatomos jų funkcijos, kurias įgyvendins kiekviena po reorganizavimo
+12. Sprendimą dėl biudžetinės įstaigos reorganizavimo priima ir kartu tvirtina biudžetinės įstaigos reorganizavimo sąlygų aprašą ir po reorganizavimo veiksiančių biudžetinių įstaigų nuostatus kiekvienos reorganizuojamos ir reorganizavime dalyvaujančios biudžetinės įstaigos savininko teises ir pareigas įgyvendinanti institucija. Jeigu biudžetinė įstaiga reorganizuojama prijungimo būdu ir po reorganizavimo tęsiančios veiklą biudžetinės įstaigos nuostatai nesikeičia, jų pakartotinai tvirtinti nereikia.
 
-veiksianti biudžetinė įstaiga, kiekvienos po reorganizavimo veiksiančios biudžetinės
+13. Sprendimo dėl biudžetinės įstaigos reorganizavimo priėmimą įrodantis dokumentas turi būti pateiktas Juridinių asmenų registrui. Juridinių asmenų registro tvarkytojas apie sprendimą dėl biudžetinės įstaigos reorganizavimo turi paskelbti teisės aktų nustatyta tvarka.
 
-įstaigos savininko teises ir pareigas įgyvendinanti institucija.
+14. Reorganizavimas laikomas baigtu, kai į Juridinių asmenų registrą įregistruojamos po reorganizavimo sukurtos naujos biudžetinės įstaigos nuostatai ar įregistruojami tęsiančių veiklą biudžetinių įstaigų pakeisti nuostatai. Jeigu biudžetinės įstaigos nuostatai šio straipsnio 12 dalyje nustatytais atvejais iš naujo netvirtinami, Juridinių asmenų registrui turi būti pateiktas pranešimas apie tai, kad visos reorganizavimo sąlygų apraše nustatytos prievolės yra įvykdytos ir atsirado įstatymuose ar reorganizavimo sąlygų apraše nurodytos aplinkybės.
 
-5. Kai Vyriausybė
+15. Reorganizuota biudžetinė įstaiga pasibaigia nuo jos išregistravimo iš Juridinių asmenų registro dienos.
 
-priima nutarimą ar savivaldybės taryba priima sprendimą dėl sutikimo reorganizuoti
+16 straipsnis. Likvidatoriaus arba likvidacinės komisijos kompetencija
 
-biudžetinę įstaigą, reorganizavime dalyvaujančių biudžetinių įstaigų vadovai parengia
+1. Nuo paskyrimo dienos likvidatorius arba likvidacinė komisija turi biudžetinės įstaigos vadovo teises ir pareigas.
 
-biudžetinės įstaigos reorganizavimo sąlygų aprašą.
+2. Be kitų šiame įstatyme ir Civiliniame kodekse nustatytų pareigų, likvidatorius arba likvidacinė komisija privalo:
 
-6. Biudžetinės įstaigos
+1) pranešti Juridinių asmenų registrui apie sprendimą likviduoti biudžetinę įstaigą, pateikti sprendimo įrodymo dokumentą ir pranešti duomenis apie likvidatorių arba likvidacinę komisiją;
 
-reorganizavimo sąlygų apraše turi būti nurodyta:
+2) sudaryti likvidavimo laikotarpio pradžios biudžetinės įstaigos balansą;
 
-1) kiekvienos reorganizavime
+3) baigti vykdyti biudžetinės įstaigos prievoles, atsiskaityti su kreditoriais;
 
-dalyvaujančios biudžetinės įstaigos pavadinimas, teisinė forma, buveinė, kodas,
+4) pateikti reikalavimus biudžetinės įstaigos skolininkams;
 
-registras, kuriame kaupiami ir saugomi duomenys apie šias biudžetines įstaigas;
+5) perduoti likusį biudžetinės įstaigos turtą šio įstatymo nustatyta tvarka;
 
-2) reorganizavimo
+6) sudaryti biudžetinės įstaigos likvidavimo aktą;
 
-būdas, pasibaigiančios biudžetinės įstaigos, po reorganizavimo veiksiančios biudžetinės
+7) perduoti dokumentus saugoti teisės aktų nustatyta tvarka;
 
-įstaigos;
+8) pateikti Juridinių asmenų registrui biudžetinės įstaigos likvidavimo aktą ir kitus teisės aktų nustatytus dokumentus, reikalingus likviduojamai biudžetinei įstaigai išregistruoti.
 
-3) momentas, nuo
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-kurio pasibaigiančios biudžetinės įstaigos teisės ir pareigos pereina po reorganizavimo
-
-veiksiančiai biudžetinei įstaigai;
-
-4) po reorganizavimo
-
-veiksiančių biudžetinių įstaigų savininko teises ir pareigas įgyvendinančios institucijos.
-
-7. Apie biudžetinės
-
-įstaigos reorganizavimo sąlygų aprašo parengimą turi būti viešai paskelbta visų
-
-reorganizavime dalyvaujančių biudžetinių įstaigų nuostatuose nurodytame šaltinyje
-
-tris kartus ne mažesniais kaip 30 dienų intervalais arba paskelbta vieną kartą ir
-
-pranešta raštu visiems biudžetinės įstaigos kreditoriams. Pranešime turi būti nurodyta:
-
-1) šio straipsnio
-
-6 dalies 1, 2 ir 3 punktuose nurodyta informacija;
-
-2) kur ir nuo kada
-
-galima susipažinti su biudžetinės įstaigos reorganizavimo sąlygomis, po reorganizavimo
-
-veiksiančių biudžetinių įstaigų nuostatų projektais ir reorganizavime dalyvaujančių
-
-biudžetinių įstaigų praėjusių trejų finansinių metų finansinių ir biudžeto vykdymo
-
-ataskaitų rinkiniais, finansinės būklės ataskaitomis ir žemesniojo lygio biudžeto
-
-išlaidų sąmatos vykdymo ataskaitomis.
-
-8. Biudžetinės įstaigos
-
-reorganizavimo sąlygų aprašas ne vėliau kaip pirmą viešo paskelbimo apie jų parengimą
-
-dieną turi būti pateiktas Juridinių asmenų registrui.
-
-9. Nuo viešo paskelbimo
-
-apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą dienos biudžetinė
-
-įstaiga, kuri po reorganizavimo pasibaigia, įgyja reorganizuojamos biudžetinės įstaigos
-
-statusą, o biudžetinė įstaiga, kuri po reorganizavimo tęsia veiklą, – dalyvaujančios
-
-reorganizavime biudžetinės įstaigos teisinį statusą.
-
-10. Reorganizuojamos
-
-biudžetinės įstaigos kreditorius turi teisę reikalauti prievolę nutraukti ar ją
-
-įvykdyti prieš terminą, taip pat atlyginti nuostolius, jei tai numatyta sandoryje
-
-ar yra pagrindas manyti, kad prievolės įvykdymas dėl reorganizavimo pasunkės, ir
-
-jei kreditoriaus reikalavimu biudžetinė įstaiga papildomai neužtikrino prievolių
-
-įvykdymo. Reorganizuojamos biudžetinės įstaigos kreditorius savo reikalavimus gali
-
-pateikti ne vėliau kaip per 60 dienų nuo viešo paskelbimo apie biudžetinės įstaigos
-
-reorganizavimo sąlygų aprašo parengimą pirmos dienos. Reorganizuojamos biudžetinės
-
-įstaigos kreditoriai turi teisę susipažinti su reorganizavimo sąlygomis, po reorganizavimo
-
-veiksiančių biudžetinių įstaigų nuostatų projektais, taip pat visų reorganizavime
-
-dalyvaujančių biudžetinių įstaigų praėjusių trejų finansinių metų finansinių ir
-
-biudžeto vykdymo ataskaitų rinkiniais, finansinės būklės ataskaitomis ir žemesniojo
-
-lygio biudžeto išlaidų sąmatos vykdymo ataskaitomis. Kiekvienas biudžetinės įstaigos
-
-kreditorius turi teisę gauti visų šioje dalyje išvardytų dokumentų kopijas.
-
-11. Sprendimas dėl
-
-biudžetinės įstaigos reorganizavimo gali būti priimtas tik praėjus 30 dienų nuo
-
-paskutinio viešo paskelbimo arba viešo paskelbimo, kai apie biudžetinės įstaigos
-
-reorganizavimo sąlygų aprašo parengimą paskelbta vieną kartą ir apie biudžetinės
-
-įstaigos reorganizavimo sąlygų aprašo parengimą raštu pranešta visiems biudžetinės
-
-įstaigos kreditoriams, dienos.
-
-12. Sprendimą dėl
-
-biudžetinės įstaigos reorganizavimo priima ir kartu tvirtina biudžetinės įstaigos
-
-reorganizavimo sąlygų aprašą ir po reorganizavimo veiksiančių biudžetinių įstaigų
-
-nuostatus kiekvienos reorganizuojamos ir reorganizavime dalyvaujančios biudžetinės
-
-įstaigos savininko teises ir pareigas įgyvendinanti institucija. Jeigu biudžetinė
-
-įstaiga reorganizuojama prijungimo būdu ir po reorganizavimo tęsiančios veiklą biudžetinės
-
-įstaigos nuostatai nesikeičia, jų pakartotinai tvirtinti nereikia.
-
-13. Sprendimo dėl
-
-biudžetinės įstaigos reorganizavimo priėmimą įrodantis dokumentas turi būti pateiktas
-
-Juridinių asmenų registrui. Juridinių asmenų registro tvarkytojas apie sprendimą
-
-dėl biudžetinės įstaigos reorganizavimo turi paskelbti teisės aktų nustatyta tvarka.
-
-14. Reorganizavimas
-
-laikomas baigtu, kai į Juridinių asmenų registrą įregistruojamos po reorganizavimo
-
-sukurtos naujos biudžetinės įstaigos nuostatai ar įregistruojami tęsiančių veiklą
-
-biudžetinių įstaigų pakeisti nuostatai. Jeigu biudžetinės įstaigos nuostatai šio
-
-straipsnio 12 dalyje nustatytais atvejais iš naujo netvirtinami, Juridinių asmenų
-
-registrui turi būti pateiktas pranešimas apie tai, kad visos reorganizavimo sąlygų
-
-apraše nustatytos prievolės yra įvykdytos ir atsirado įstatymuose ar reorganizavimo
-
-sąlygų apraše nurodytos aplinkybės.
-
-15. Reorganizuota
-
-biudžetinė įstaiga pasibaigia nuo jos išregistravimo iš Juridinių asmenų registro
-
-dienos.
-
-15
-
-straipsnis. Biudžetinės įstaigos likvidavimas
-
-1. Biudžetinė įstaiga
-
-gali būti likviduojama Civilinio kodekso nustatytais juridinių asmenų likvidavimo
-
-pagrindais.
-
-2. Kai sprendimą likviduoti biudžetinę įstaigą
-
-priima savininko teises ir pareigas įgyvendinanti institucija, sprendimas gali būti
-
-priimtas tik tada, kai yra Vyriausybės nutarimas nutraukti iš valstybės biudžeto
-
-arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo
-
-biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos veiklą ar
-
-savivaldybės tarybos sprendimas nutraukti iš savivaldybės biudžeto išlaikomos biudžetinės
-
-įstaigos veiklą.
-
-Redakcija
-
-nuo 2015-01-01:
-
-2. Kai sprendimą
-
-likviduoti biudžetinę įstaigą priima savininko teises ir pareigas įgyvendinanti
-
-institucija, sprendimas gali būti priimtas tik tada, kai yra Vyriausybės
-
-nutarimas nutraukti iš valstybės biudžeto arba iš Valstybinio socialinio
-
-draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų
-
-valstybės pinigų fondų išlaikomos biudžetinės įstaigos veiklą ar
-
-savivaldybės tarybos sprendimas nutraukti iš savivaldybės biudžeto išlaikomos
-
-biudžetinės įstaigos veiklą. Kai sprendimą likviduoti biudžetinę įstaigą priima
-
-Juridinių asmenų registro tvarkytojas, biudžetinė įstaiga likviduojama taikant
-
-Civilinio kodekso nuostatas, reglamentuojančias juridinio asmens likvidavimą
-
-Juridinių asmenų registro tvarkytojo iniciatyva.
-
-3. Sprendimą likviduoti biudžetinę įstaigą
-
-priėmusi savininko teises ir pareigas įgyvendinanti institucija, teismas arba Juridinių
-
-asmenų registro tvarkytojas, kai jo iniciatyva teismas priima sprendimą likviduoti
-
-biudžetinę įstaigą, privalo paskirti likvidatorių arba sudaryti likvidacinę komisiją.
-
-Redakcija
-
-nuo 2015-01-01:
-
-3. Sprendimą likviduoti biudžetinę
-
-įstaigą priėmusi savininko teises ir pareigas įgyvendinanti institucija arba
-
-teismas privalo paskirti likvidatorių arba sudaryti likvidacinę komisiją.
-
-4. Likvidatoriumi arba likvidacinės komisijos
-
-pirmininku paprastai yra skiriamas biudžetinės įstaigos vadovas.
-
-5. Jeigu biudžetinė įstaiga įsteigta ribotam
-
-laikui, likus ne mažiau kaip 90 dienų iki nustatyto laikotarpio pabaigos, savininko
-
-teises ir pareigas įgyvendinanti institucija privalo paskirti likvidatorių ar sudaryti
-
-likvidacinę komisiją arba priimti sprendimą pratęsti veiklos laikotarpį ir pakeisti
-
-biudžetinės įstaigos nuostatus. Jeigu šio įstatymo 5 straipsnyje nurodytame teisės
-
-akte yra nustatytas laikotarpis, kuriam steigiama biudžetinė įstaiga, sprendimas
-
-pratęsti šį biudžetinės įstaigos veiklos laikotarpį gali būti priimamas gavus išankstinį
-
-Vyriausybės sutikimą, kai biudžetinė įstaiga yra išlaikoma iš valstybės biudžeto
-
-arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo
-
-biudžetų ir kitų valstybės pinigų fondų, ar išankstinį savivaldybės tarybos sutikimą,
-
-kai biudžetinė įstaiga yra išlaikoma iš savivaldybės biudžeto.
-
-6. Jeigu savininko teises ir pareigas įgyvendinanti
-
-institucija nepriima sprendimo pratęsti biudžetinės įstaigos veiklos laikotarpį
-
-ir nepaskiria likvidatoriaus arba nesudaro likvidacinės komisijos, biudžetinės įstaigos
-
-vadovas ar Juridinių asmenų registro tvarkytojas turi teisę kreiptis į teismą, kad
-
-jis paskirtų biudžetinės įstaigos likvidatorių arba sudarytų likvidacinę komisiją.
-
-7. Apie sprendimą
-
-likviduoti biudžetinę įstaigą turi būti viešai paskelbta nuostatuose nustatyta tvarka
-
-ir nuostatuose nurodytame šaltinyje tris kartus ne mažesniais kaip 30 dienų intervalais
-
-arba viešai paskelbta vieną kartą nuostatuose nurodytame šaltinyje ir pranešta visiems
-
-kreditoriams raštu. Skelbime arba pranešime turi būti nurodyta:
-
-1) biudžetinės įstaigos pavadinimas, teisinė
-
-forma, kodas ir buveinė;
-
-2) registras, kuriame
-
-kaupiami ir saugomi duomenys apie likviduojamą biudžetinę įstaigą;
-
-3) sprendimo likviduoti
-
-biudžetinę įstaigą priėmimo diena. Kai sprendimą priima teismas, taip pat turi būti
-
-nurodoma sprendimo įsiteisėjimo diena;
-
-4) duomenys apie
-
-likvidatorių ar likvidacinę komisiją, jų įgaliojimų pradžios ir pabaigos datos.
-
-8. Apie biudžetinės
-
-įstaigos likvidavimą pranešama Juridinių asmenų registrui teisės aktų nustatyta
-
-tvarka ne vėliau kaip pirmą viešo paskelbimo dieną. Nuo sprendimo likviduoti biudžetinę
-
-įstaigą priėmimo dienos ji įgyja likviduojamos biudžetinės įstaigos statusą, kurio
-
-netenka ją likvidavus ar įstatymų nustatytais atvejais atšaukus sprendimą ją likviduoti.
-
-9. Likviduojamos biudžetinės įstaigos kreditorių
-
-reikalavimai tenkinami įstatymų nustatyta tvarka. Patenkinus visus likviduojamos
-
-biudžetinės įstaigos kreditorių reikalavimus, biudžetinei įstaigai skirti, bet nepanaudoti
-
-valstybės biudžeto ar savivaldybės biudžeto asignavimai grąžinami į atitinkamą biudžetą,
-
-o kitas turtas perduodamas savininko teises ir pareigas įgyvendinančiai institucijai,
-
-jeigu Vyriausybė (kai likviduojama iš valstybės biudžeto ir iš Valstybinio socialinio
-
-draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės
-
-pinigų fondų išlaikoma biudžetinė įstaiga) arba savivaldybės taryba (kai likviduojama
-
-iš savivaldybės biudžeto išlaikoma biudžetinė įstaiga) nenustato kitaip.
-
-Straipsnio
-
-pakeitimai:
-
-Nr. XII-1073,
-
-2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10458
-
-11 straipsnis.
-
-Biudžetinių įstaigų piniginės lėšos, gautos ne kaip biudžeto asignavimai
-
-Biudžetinės
-
-įstaigos gali turėti piniginių lėšų, gautų ne kaip biudžeto asignavimai.
-
-Šių lėšų
-
-naudojimo taisykles nustato Lietuvos Respublikos Vyriausybė, o savivaldybių
-
-biudžetinėms įstaigoms – savivaldybių tarybos.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-X-1216,
-
-2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
-
-Nr. X-1824,
-
-2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
-
-12
-
-straipsnis. Materialinių vertybių nurašymas ir realizavimas
-
-Biudžetinės įstaigos
-
-susidėvėjusias ar joms nereikalingas materialines vertybes nurašo ar realizuoja
-
-ir gautas pajamas naudoja Lietuvos Respublikos įstatymų ar Vyriausybės
-
-nustatyta tvarka.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-639,
-
-98.02.24, Žin., 1998, Nr.25-635 (98.03.13)
-
-13
-
-straipsnis. Biudžetinių įstaigų registravimas
-
-Biudžetinės įstaigos
-
-įregistruojamos, perregistruojamos ir išregistruojamos Lietuvos Respublikos
-
-įstatymų nustatyta tvarka.
-
-14
-
-straipsnis. Įstatymo įsigaliojimas
-
-Šis įstatymas įsigalioja nuo
-
-1996 m. sausio 1 dienos.
-
-Skelbiu šį Lietuvos
-
-Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS
-
-ALGIRDAS BRAZAUSKAS
-
-________________
+RESPUBLIKOS PREZIDENTAS                                            ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
 1.
 
-Lietuvos
+Lietuvos Respublikos Seimas, Įstatymas
 
-Respublikos Seimas, Įstatymas
+Nr. VIII-127, 97.02.25, Žin., 1997, Nr.20-449 (97.03.07)
 
-Nr.
-
-VIII-127,
-
-97.02.25, Žin., 1997, Nr.20-449 (97.03.07)
-
-LIETUVOS
-
-RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
 2.
 
-Lietuvos
+Lietuvos Respublikos Seimas, Įstatymas
 
-Respublikos Seimas, Įstatymas
+Nr. VIII-322, 97.06.26, Žin., 1997, Nr.66-1601 (97.07.11)
 
-Nr.
-
-VIII-322,
-
-97.06.26, Žin., 1997, Nr.66-1601 (97.07.11)
-
-LIETUVOS
-
-RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 3.
 
-Lietuvos
+Lietuvos Respublikos Seimas, Įstatymas
 
-Respublikos Seimas, Įstatymas
+Nr. VIII-639, 98.02.24, Žin., 1998, Nr.25-635 (98.03.13)
 
-Nr.
-
-VIII-639,
-
-98.02.24, Žin., 1998, Nr.25-635 (98.03.13)
-
-LIETUVOS
-
-RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 4.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1919, 00.09.12, Žin., 2000,
+Nr. VIII-1919, 00.09.12, Žin., 2000, Nr.83-2511 (00.10.04)
 
-Nr.83-2511 (00.10.04)
-
-BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR
-
-PAPILDYMO ĮSTATYMAS
+BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 5.
 
-Lietuvos
+Lietuvos Respublikos Seimas, Įstatymas
 
-Respublikos Seimas, Įstatymas
+Nr. IX-2536, 2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
 
-Nr.
+VALSTYBĖS TARNYBOS ĮSTATYMO, VIDAUS TARNYBOS STATUTO, BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO, DIPLOMATINĖS TARNYBOS ĮSTATYMO, KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
-IX-2536,
-
-2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
-
-VALSTYBĖS
-
-TARNYBOS ĮSTATYMO, VIDAUS TARNYBOS STATUTO, BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO,
-
-DIPLOMATINĖS TARNYBOS ĮSTATYMO, KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO
-
-TARNYBOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2005 m. sausio 1 d.
+Šis įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 
 6.
 
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. X-1216,
-
-2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
-
-BIUDŽETINIŲ
-
-ĮSTAIGŲ ĮSTATYMO 8, 9, 10, 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus
-
-subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą,
-
-sausio 1 dieną.
-
-Šio įstatymo įsigaliojimas keistas:
-
-Lietuvos Respublikos Seimas,
-
-Įstatymas
-
-Nr. X-1824,
-
-2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
-
-BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8,
-
-9, 10, 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-7.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-XI-609,
-
-2009-12-22, Žin., 2010, Nr. 1-20 (2010-01-05)
-
-BIUDŽETINIŲ
-
-ĮSTAIGŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-***
-
-Pabaiga ***
-
-Redagavo
-
-Aušrinė Trapinskienė (2010-01-11)
-
-autrap@lrs.lt
-
-12 straipsnis. Materialinių
-
-vertybių nurašymas ir realizavimas
-
-Biudžetinės įstaigos susidėvėjusias
-
-ar joms nereikalingas materialines vertybes nurašo ar realizuoja ir gautas
-
-pajamas naudoja Lietuvos Respublikos įstatymų ar Vyriausybės nustatyta tvarka.
-
-Straipsnio
-
-pakeitimai:
-
-Nr.
-
-VIII-639,
-
-98.02.24, Žin., 1998, Nr.25-635 (98.03.13)
-
-išdėstyto Lietuvos Respublikos biudžetinių įstaigų įstatymo 13 straipsnis iki 2011
-
-m. gruodžio 31 d. netaikomas valstybinėms aukštosioms mokykloms.
-
-Nauja įstatymo redakcija
-
-Biudžetinės įstaigos, dėl kurių
-
-steigimo, pertvarkymo, reorganizavimo ir likvidavimo sprendimai priimti iki šio
-
-įstatymo įsigaliojimo dienos, taip pat biudžetinės įstaigos, iki šio įstatymo
-
-įsigaliojimo dienos įgijusios reorganizuojamos biudžetinės įstaigos ar
-
-dalyvaujančios reorganizavime biudžetinės įstaigos teisinį statusą, steigiamos,
-
-pertvarkomos, reorganizuojamos ir likviduojamos pagal biudžetinių įstaigų
-
-steigimą, pertvarkymą, pabaigą reglamentuojančius teisės aktus, galiojusius iki
-
-šio įstatymo įsigaliojimo dienos.
-
-10.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-XII-1073,
-
-2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10458
-
-LIETUVOS
-
-RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO NR. I-1113 15 STRAIPSNIO PAKEITIMO
-
-ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja 2015 m. sausio 1 d.
-
-***
-
-Pabaiga ***
-
-Redagavo
-
-Aušrinė Trapinskienė (2014-07-25)
-
-ausrine.trapinskiene@lrs.lt
-
-14 straipsnis. Įstatymo
-
-įsigaliojimas
-
-Šis įstatymas įsigalioja nuo
-
-1996 m. sausio 1 dienos.
-
-Skelbiu šį Lietuvos
-
-Respublikos Seimo priimtą įstatymą.
-
-RESPUBLIKOS
-
-PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
-
-________________
-
-Pakeitimai:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-127,
-
-97.02.25, Žin., 1997, Nr.20-449 (97.03.07)
-
-LIETUVOS
-
-RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-322,
-
-97.06.26, Žin., 1997, Nr.66-1601 (97.07.11)
-
-LIETUVOS
-
-RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-639,
-
-98.02.24, Žin., 1998, Nr.25-635 (98.03.13)
-
-LIETUVOS
-
-RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-4.
-
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. VIII-1919, 00.09.12, Žin., 2000,
+Nr. X-1216, 2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
 
-Nr.83-2511 (00.10.04)
+BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8, 9, 10, 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR
-
-PAPILDYMO ĮSTATYMAS
-
-5.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-2536,
-
-2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
-
-VALSTYBĖS
-
-TARNYBOS ĮSTATYMO, VIDAUS TARNYBOS STATUTO, BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO,
-
-DIPLOMATINĖS TARNYBOS ĮSTATYMO, KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO
-
-TARNYBOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2005 m. sausio 1 d.
-
-***
-
-Pabaiga ***
-
-Redagavo:
-
-Aušrinė Trapinskienė (2004-12-06)
-
-autrap@lrs.lt
-
-16 straipsnis. Likvidatoriaus arba
-
-likvidacinės komisijos kompetencija
-
-1. Nuo paskyrimo
-
-dienos likvidatorius arba likvidacinė komisija turi biudžetinės įstaigos vadovo
-
-teises ir pareigas.
-
-2. Be kitų šiame
-
-įstatyme ir Civiliniame kodekse nustatytų pareigų, likvidatorius arba likvidacinė
-
-komisija privalo:
-
-1)
-
-pranešti Juridinių asmenų registrui apie sprendimą likviduoti biudžetinę įstaigą,
-
-pateikti sprendimo įrodymo dokumentą ir pranešti duomenis apie likvidatorių arba
-
-likvidacinę komisiją;
-
-2) sudaryti likvidavimo
-
-laikotarpio pradžios biudžetinės įstaigos balansą;
-
-3) baigti vykdyti
-
-biudžetinės įstaigos prievoles, atsiskaityti su kreditoriais;
-
-4) pateikti reikalavimus
-
-biudžetinės įstaigos skolininkams;
-
-5) perduoti likusį
-
-biudžetinės įstaigos turtą šio įstatymo nustatyta tvarka;
-
-6) sudaryti biudžetinės
-
-įstaigos likvidavimo aktą;
-
-7) perduoti dokumentus
-
-saugoti teisės aktų nustatyta tvarka;
-
-8) pateikti Juridinių
-
-asmenų registrui biudžetinės įstaigos likvidavimo aktą ir kitus teisės aktų nustatytus
-
-dokumentus, reikalingus likviduojamai biudžetinei įstaigai išregistruoti.
-
-Skelbiu šį Lietuvos Respublikos
-
-Seimo priimtą įstatymą.
-
-RESPUBLIKOS PREZIDENTAS
-
-ALGIRDAS BRAZAUSKAS
-
-Pakeitimai:
-
-1.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-127,
-
-97.02.25, Žin., 1997, Nr.20-449 (97.03.07)
-
-LIETUVOS
-
-RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-
-2.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-322,
-
-97.06.26, Žin., 1997, Nr.66-1601 (97.07.11)
-
-LIETUVOS
-
-RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-3.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-VIII-639,
-
-98.02.24, Žin., 1998, Nr.25-635 (98.03.13)
-
-LIETUVOS
-
-RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-4.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. VIII-1919, 00.09.12, Žin., 2000, Nr.83-2511
-
-(00.10.04)
-
-BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR PAPILDYMO
-
-ĮSTATYMAS
-
-5.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr.
-
-IX-2536, 2004-11-04,
-
-Žin., 2004, Nr. 171-6296 (2004-11-26)
-
-VALSTYBĖS
-
-TARNYBOS ĮSTATYMO, VIDAUS TARNYBOS STATUTO, BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO, DIPLOMATINĖS
-
-TARNYBOS ĮSTATYMO, KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO
-
-PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja nuo 2005 m. sausio 1 d.
-
-6.
-
-Lietuvos
-
-Respublikos Seimas, Įstatymas
-
-Nr. X-1216, 2007-06-26,
-
-Žin., 2007, Nr. 77-3048 (2007-07-12)
-
-BIUDŽETINIŲ
-
-ĮSTAIGŲ ĮSTATYMO 8, 9, 10, 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-Šis
-
-įstatymas įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai
-
-privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
+Šis įstatymas įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
 
 Šio įstatymo įsigaliojimas keistas:
 
@@ -1905,51 +395,57 @@ privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 d
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. X-1824, 2008-11-14,
+Nr. X-1824, 2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
 
-Žin., 2008, Nr. 137-5373 (2008-11-29)
-
-BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8, 9,
-
-10, 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8, 9, 10, 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 7.
 
-Lietuvos
+Lietuvos Respublikos Seimas, Įstatymas
 
-Respublikos Seimas, Įstatymas
+Nr. XI-609, 2009-12-22, Žin., 2010, Nr. 1-20 (2010-01-05)
 
-Nr.
+BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-XI-609, 2009-12-22,
+8.
 
-Žin., 2010, Nr. 1-20 (2010-01-05)
+Lietuvos Respublikos Seimas, Įstatymas
 
-BIUDŽETINIŲ
+Nr. XI-666, 2010-01-21, Žin., 2010, Nr. 15-699 (2010-02-04)
 
-ĮSTAIGŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
-9.
+Šis įstatymas, išskyrus šio įstatymo 1 straipsnyje nauja redakcija išdėstyto Lietuvos Respublikos biudžetinių įstaigų įstatymo 4 straipsnio 5 ir 6 dalis, įsigalioja 2010 m. balandžio 1 d.
 
-Lietuvos
+15 straipsnis. Biudžetinės įstaigos likvidavimas
 
-Respublikos Seimas, Įstatymas
+1. Biudžetinė įstaiga gali būti likviduojama Civilinio kodekso nustatytais juridinių asmenų likvidavimo pagrindais.
 
-Nr.
+2. Kai sprendimą likviduoti biudžetinę įstaigą priima savininko teises ir pareigas įgyvendinanti institucija, sprendimas gali būti priimtas tik tada, kai yra Vyriausybės nutarimas nutraukti iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos veiklą ar savivaldybės tarybos sprendimas nutraukti iš savivaldybės biudžeto išlaikomos biudžetinės įstaigos veiklą. Kai sprendimą likviduoti biudžetinę įstaigą priima Juridinių asmenų registro tvarkytojas, biudžetinė įstaiga likviduojama taikant Civilinio kodekso nuostatas, reglamentuojančias juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva.
 
-XI-666, 2010-01-21,
+3. Sprendimą likviduoti biudžetinę įstaigą priėmusi savininko teises ir pareigas įgyvendinanti institucija arba teismas privalo paskirti likvidatorių arba sudaryti likvidacinę komisiją.
 
-Žin., 2010, Nr. 15-699 (2010-02-04)
+4. Likvidatoriumi arba likvidacinės komisijos pirmininku paprastai yra skiriamas biudžetinės įstaigos vadovas.
 
-BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO PAKEITIMO
+5. Jeigu biudžetinė įstaiga įsteigta ribotam laikui, likus ne mažiau kaip 90 dienų iki nustatyto laikotarpio pabaigos, savininko teises ir pareigas įgyvendinanti institucija privalo paskirti likvidatorių ar sudaryti likvidacinę komisiją arba priimti sprendimą pratęsti veiklos laikotarpį ir pakeisti biudžetinės įstaigos nuostatus. Jeigu šio įstatymo 5 straipsnyje nurodytame teisės akte yra nustatytas laikotarpis, kuriam steigiama biudžetinė įstaiga, sprendimas pratęsti šį biudžetinės įstaigos veiklos laikotarpį gali būti priimamas gavus išankstinį Vyriausybės sutikimą, kai biudžetinė įstaiga yra išlaikoma iš valstybės biudžeto arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų, ar išankstinį savivaldybės tarybos sutikimą, kai biudžetinė įstaiga yra išlaikoma iš savivaldybės biudžeto.
 
-ĮSTATYMAS
+6. Jeigu savininko teises ir pareigas įgyvendinanti institucija nepriima sprendimo pratęsti biudžetinės įstaigos veiklos laikotarpį ir nepaskiria likvidatoriaus arba nesudaro likvidacinės komisijos, biudžetinės įstaigos vadovas ar Juridinių asmenų registro tvarkytojas turi teisę kreiptis į teismą, kad jis paskirtų biudžetinės įstaigos likvidatorių arba sudarytų likvidacinę komisiją.
 
-Šis įstatymas, išskyrus
+7. Apie sprendimą likviduoti biudžetinę įstaigą turi būti viešai paskelbta nuostatuose nustatyta tvarka ir nuostatuose nurodytame šaltinyje tris kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbta vieną kartą nuostatuose nurodytame šaltinyje ir pranešta visiems kreditoriams raštu. Skelbime arba pranešime turi būti nurodyta:
 
-šio įstatymo 1 straipsnyje nauja redakcija išdėstyto Lietuvos Respublikos biudžetinių
+1) biudžetinės įstaigos pavadinimas, teisinė forma, kodas ir buveinė;
 
-įstaigų įstatymo 4 straipsnio 5 ir 6 dalis, įsigalioja 2010 m. balandžio 1 d.
+2) registras, kuriame kaupiami ir saugomi duomenys apie likviduojamą biudžetinę įstaigą;
 
-Šio įstatymo 1 straipsnyje nauja redakcija
+3) sprendimo likviduoti biudžetinę įstaigą priėmimo diena. Kai sprendimą priima teismas, taip pat turi būti nurodoma sprendimo įsiteisėjimo diena;
+
+4) duomenys apie likvidatorių ar likvidacinę komisiją, jų įgaliojimų pradžios ir pabaigos datos.
+
+8. Apie biudžetinės įstaigos likvidavimą pranešama Juridinių asmenų registrui teisės aktų nustatyta tvarka ne vėliau kaip pirmą viešo paskelbimo dieną. Nuo sprendimo likviduoti biudžetinę įstaigą priėmimo dienos ji įgyja likviduojamos biudžetinės įstaigos statusą, kurio netenka ją likvidavus ar įstatymų nustatytais atvejais atšaukus sprendimą ją likviduoti.
+
+9. Likviduojamos biudžetinės įstaigos kreditorių reikalavimai tenkinami įstatymų nustatyta tvarka. Patenkinus visus likviduojamos biudžetinės įstaigos kreditorių reikalavimus, biudžetinei įstaigai skirti, bet nepanaudoti valstybės biudžeto ar savivaldybės biudžeto asignavimai grąžinami į atitinkamą biudžetą, o kitas turtas perduodamas savininko teises ir pareigas įgyvendinančiai institucijai, jeigu Vyriausybė (kai likviduojama iš valstybės biudžeto ir iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų išlaikoma biudžetinė įstaiga) arba savivaldybės taryba (kai likviduojama iš savivaldybės biudžeto išlaikoma biudžetinė įstaiga) nenustato kitaip.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1073, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10458
 
