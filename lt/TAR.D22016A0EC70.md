@@ -4,7 +4,7 @@ identifier: "TAR.D22016A0EC70"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-27"
-last_updated: "2015-01-01"
+last_updated: "2015-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-29
+Suvestinė redakcija nuo 2015-06-30 iki 2015-07-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
 
@@ -1970,6 +1970,14 @@ Nr. XII-1523, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21157
 
 Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 papildymo 17-1 straipsniu ir 31 straipsnio pakeitimo įstatymas
 
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1836, 2015-06-23, paskelbta TAR 2015-06-29, i. k. 2015-10370
+
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 14-3 straipsnio pakeitimo įstatymas
+
 141 straipsnis. Teisė į žvejybos kvotą
 
 1. Teisė į žvejybos kvotą suteikiama ūkio subjektams ne ilgesniam negu 5 metų laikotarpiui.
@@ -2064,7 +2072,11 @@ Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
 
 2) nustatoma, kad ūkio subjektas, suteikiant teisę į žvejybos kvotą verslinei žvejybai tame vidaus vandenų telkinyje, pateikė Žemės ūkio ministerijos įgaliotai institucijai iš esmės neteisingus duomenis, kuriais remiantis buvo neteisingai įvertintas ūkio subjektas;
 
-3) ūkio subjektas padarė šiurkštų verslinės žvejybos vidaus vandenyse tvarkos pažeidimą;
+3) ūkio subjektas padarė du ir daugiau šiurkščių verslinės žvejybos vidaus vandenyse tvarkos pažeidimų per vienus metus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1836, 2015-06-23, paskelbta TAR 2015-06-29, i. k. 2015-10370
 
 4) ūkio subjektas neskyrė lėšų žuvų ištekliams atkurti ir išsaugoti per šio straipsnio 2 dalies 3 punkte nustatytą laikotarpį.
 
