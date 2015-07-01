@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2015-06-17"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2015-06-17 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2016-02-29
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
 
@@ -2694,7 +2694,11 @@ Nr. IX-1490, 2003-04-08, Žin., 2003, Nr. 39-1765 (2003-04-25)
 
 1. Pretendentas į teisėjus pateikia Nacionalinei teismų administracijai dokumentus, patvirtinančius, kad jis atitinka šio Įstatymo 51 straipsnio 1 dalyje nustatytus reikalavimus (išskyrus reikalavimą būti išlaikius pretendentų į teisėjus egzaminą). Be to, pretendentas į teisėjus pateikia užpildytą Lietuvos Respublikos paslapčių apsaugos koordinavimo komisijos nustatytos formos klausimyną ir raštu sutinka, kad būtų tikrinama jo kandidatūra.
 
-2. Nacionalinė teismų administracija patikrina pretendento į teisėjus pateiktus dokumentus. Siekdama nustatyti, ar pretendentas į teisėjus atitinka reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, Nacionalinė teismų administracija kreipiasi į Valstybės saugumo departamentą. Valstybės saugumo departamentas per 40 darbo dienų nuo kreipimosi gavimo dienos privalo pateikti motyvuotą išvadą, ar pretendentas į teisėjus atitinka reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija. Prieš priimdamas sprendimą, Valstybės saugumo departamentas gali pretendentą į teisėjus iškviesti pokalbio, pareikalauti rašytinių jo paaiškinimų ir prireikus, jeigu šis asmuo sutinka, patikrinti poligrafu. Pretendento į teisėjus patikrinimo metu negali būti naudojami kriminalinės žvalgybos informacijos rinkimo būdai ir priemonės, išskyrus apklausą ir duomenų, esančių kriminalinės žvalgybos informacinėse sistemose, peržiūrą.
+2. Nacionalinė teismų administracija patikrina pretendento į teisėjus pateiktus dokumentus. Siekdama nustatyti, ar pretendentas į teisėjus atitinka reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, Nacionalinė teismų administracija kreipiasi į Valstybės saugumo departamentą prašydama Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka ir terminais patikrinti asmens kandidatūrą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1564, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05016
 
 3. Nustačiusi, kad pateikti dokumentai patvirtina, kad pretendentas į teisėjus atitinka šio straipsnio 1 dalyje nurodytus reikalavimus, Nacionalinė teismų administracija:
 
