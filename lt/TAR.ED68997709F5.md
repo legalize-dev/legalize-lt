@@ -4,7 +4,7 @@ identifier: "TAR.ED68997709F5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2015-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ entry_into_force_conditions: "1. Įstatymo 19 straipsnio 3 dalies 2 punktas įsi
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
 
@@ -460,13 +460,13 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 3. Lengvatinis 9 procentų PVM tarifas taikomas:
 
-1) iki 2015 m. liepos 1 d. šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti;
-
-TAR pastaba. 19 straipsnio 3 dalies 1 punkto nuostatos taikomos iki 2015-07-01 tame punkte nurodytoms faktiškai patiektoms prekėms.
+1) iki 2016 m. gruodžio 31 d. šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1380, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19664
+
+Nr. XII-1910, 2015-06-30, paskelbta TAR 2015-07-01, i. k. 2015-10504
 
 2) knygoms ir neperiodiniams informaciniams leidiniams (įskaitant vadovėlius, pratybų sąsiuvinius, enciklopedijas, žodynus, žinynus, informacines brošiūras, nuotraukų ir reprodukcijų albumus, vaikiškas knygeles su paveikslėliais, piešimo ir spalvinimo knygeles, spausdintas ar rankraštines natas, žemėlapius, schemas ir brėžinius, tačiau išskyrus kalendorius, užrašų knygeles ir kitus panašaus pobūdžio spaudinius);
 
@@ -2142,7 +2142,19 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 
 96 straipsnis. Atvejai, kai pirkėjas privalo išskaityti ir sumokėti PVM už jam tiekiamas prekes ar teikiamas paslaugas
 
-1. Išskaityti ir sumokėti į biudžetą PVM, apskaičiuotą už nuosavybės teisės objektus, perimtus kaip turtinis įnašas arba dėl kito PVM mokėtojo reorganizavimo, taip pat šio Įstatymo 9 straipsnio 4 dalyje nustatyto prekių tiekimo atveju apskaičiuotą PVM už perduodamą pastato (statinio) esminį pagerinimą privalo PVM mokėtojas, kuriam išrašomas tokį prekių tiekimą arba paslaugų teikimą įforminantis dokumentas, t. y. PVM mokėtojas, perimantis nuosavybės teisės objektus kaip turtinį įnašą arba dėl kito PVM mokėtojo reorganizavimo, arba PVM mokėtojas – pagerinto pastato (statinio) daikto savininkas. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija turi teisę nustatyti ir kitus atvejus, kai PVM už tiekiamas prekes ir (arba) teikiamas paslaugas išskaito ir sumoka į biudžetą šių prekių ir (arba) paslaugų pirkėjas (klientas), jeigu jis yra PVM mokėtojas.
+1. PVM mokėtojas, kuriam išrašomas prekių tiekimą arba paslaugų teikimą įforminantis dokumentas, privalo išskaityti ir sumokėti į biudžetą:
+
+1) PVM, apskaičiuotą už nuosavybės teisės objektus, perimtus kaip turtinis įnašas arba dėl kito PVM mokėtojo reorganizavimo, t. y. PVM mokėtojas, perimantis nuosavybės teisės objektus kaip turtinį įnašą arba dėl kito PVM mokėtojo reorganizavimo;
+
+2) šio Įstatymo 9 straipsnio 4 dalyje nustatyto prekių tiekimo atveju apskaičiuotą PVM už perduodamą pastato (statinio) esminį pagerinimą, t. y. PVM mokėtojas – pagerinto pastato (statinio) daikto savininkas;
+
+3) PVM, apskaičiuotą už šio Įstatymo 7 straipsnio 4 punkte numatytus statybos darbus, kaip jie apibrėžti Lietuvos Respublikos statybos įstatymo 2 straipsnio 15 dalyje, t. y. apmokestinamasis asmuo PVM mokėtojas, kurio užsakymu atliekami statybos darbai;
+
+4) kitais Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais apskaičiuotą PVM, kai PVM už tiekiamas prekes ir (arba) teikiamas paslaugas išskaito ir sumoka į biudžetą šių prekių ir (arba) paslaugų pirkėjas (klientas), jeigu jis yra PVM mokėtojas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1502, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21259
 
 2. Neteko galios nuo 2006-12-16.
 
