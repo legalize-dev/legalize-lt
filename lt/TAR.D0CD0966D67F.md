@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2015-06-18"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2015-06-18 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-07-09
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -555,11 +555,11 @@ Nr. XII-1595, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04843
 
 8. Apie savivaldybės tarybos posėdžio laiką, svarstyti parengtus ir reglamento nustatyta tvarka įregistruotus klausimus kartu su sprendimų projektais meras, o kai jo nėra (reglamento nustatytais atvejais), – mero pavaduotojas arba įgaliojimus iš 1/3 išrinktų tarybos narių gavęs tarybos narys ne vėliau kaip prieš 3 darbo dienas iki posėdžio pradžios reglamento nustatyta tvarka praneša visiems tarybos nariams, gyventojams ir seniūnaičiui, kai svarstomi klausimai yra susiję su jo atstovaujama gyvenamosios vietovės bendruomene, taip pat seniūnui ir vietos gyventojų apklausos iniciatyvinės grupės atstovui (atstovams), kai svarstomi vietos gyventojų apklausos rezultatai ar klausimai dėl vietos gyventojų apklausai pateikto (pateiktų) klausimo (klausimų).
 
-9. Savivaldybės tarybos sprendimai priimami posėdyje dalyvaujančių tarybos narių balsų dauguma. Jeigu balsai pasiskirsto po lygiai, lemia mero balsas. Jeigu meras posėdyje nedalyvauja, o balsai pasiskirsto po lygiai, laikoma, kad sprendimas nepriimtas. Dėl savivaldybės tarybos posėdžiuose svarstomų klausimų balsuojama atvirai, išskyrus atvejus, kai renkamas meras, skiriamas mero pavaduotojas, savivaldybės administracijos direktorius, savivaldybės administracijos direktoriaus pavaduotojai, sprendžiamas nepasitikėjimo meru, mero pavaduotojais, savivaldybės administracijos direktoriumi, savivaldybės administracijos direktoriaus pavaduotojais klausimas. Slaptas balsavimas reglamente nustatyta tvarka galimas ir tais atvejais, kai skiriami Kontrolės komiteto pirmininkas, Kontrolės komiteto pirmininko pavaduotojas, Administracinės komisijos pirmininkas, Etikos komisijos pirmininkas, sprendžiamas nepasitikėjimo Kontrolės komiteto pirmininku, Kontrolės komiteto pirmininko pavaduotoju, Administracinės komisijos pirmininku, Etikos komisijos pirmininku klausimas. Duomenys apie kiekvieno tarybos nario balsavimą, išskyrus atvejus, kai balsuojama slaptai, yra vieši. Kiekvieno tarybos nario balsavimo rezultatai turi būti saugomi informacinėse laikmenose ir skelbiami savivaldybės interneto tinklalapyje.
+9. Savivaldybės tarybos sprendimai priimami posėdyje dalyvaujančių tarybos narių balsų dauguma. Jeigu balsai pasiskirsto po lygiai, lemia mero balsas. Jeigu meras posėdyje nedalyvauja, o balsai pasiskirsto po lygiai, laikoma, kad sprendimas nepriimtas. Dėl savivaldybės tarybos posėdžiuose svarstomų klausimų balsuojama atvirai, išskyrus atvejus, kai skiriamas mero pavaduotojas, savivaldybės administracijos direktorius, savivaldybės administracijos direktoriaus pavaduotojai, sprendžiamas nepasitikėjimo meru, mero pavaduotojais, savivaldybės administracijos direktoriumi, savivaldybės administracijos direktoriaus pavaduotojais klausimas. Slaptas balsavimas reglamente nustatyta tvarka galimas ir tais atvejais, kai skiriami Kontrolės komiteto pirmininkas, Kontrolės komiteto pirmininko pavaduotojas, Administracinės komisijos pirmininkas, Etikos komisijos pirmininkas, Antikorupcijos komisijos pirmininkas, sprendžiamas nepasitikėjimo Kontrolės komiteto pirmininku, Kontrolės komiteto pirmininko pavaduotoju, Administracinės komisijos pirmininku, Etikos komisijos pirmininku, Antikorupcijos komisijos pirmininku klausimas. Duomenys apie kiekvieno tarybos nario balsavimą, išskyrus atvejus, kai balsuojama slaptai, yra vieši. Kiekvieno tarybos nario balsavimo rezultatai turi būti saugomi informacinėse laikmenose ir skelbiami savivaldybės interneto svetainėje.
 
-9 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
+Straipsnio dalies pakeitimai:
 
-9. Savivaldybės tarybos sprendimai priimami posėdyje dalyvaujančių tarybos narių balsų dauguma. Jeigu balsai pasiskirsto po lygiai, lemia mero balsas. Jeigu meras posėdyje nedalyvauja, o balsai pasiskirsto po lygiai, laikoma, kad sprendimas nepriimtas. Dėl savivaldybės tarybos posėdžiuose svarstomų klausimų balsuojama atvirai, išskyrus atvejus, kai renkamas meras, skiriamas mero pavaduotojas, savivaldybės administracijos direktorius, savivaldybės administracijos direktoriaus pavaduotojai, sprendžiamas nepasitikėjimo meru, mero pavaduotojais, savivaldybės administracijos direktoriumi, savivaldybės administracijos direktoriaus pavaduotojais klausimas. Slaptas balsavimas reglamente nustatyta tvarka galimas ir tais atvejais, kai skiriami Kontrolės komiteto pirmininkas, Kontrolės komiteto pirmininko pavaduotojas, Administracinės komisijos pirmininkas, Etikos komisijos pirmininkas, sprendžiamas nepasitikėjimo Kontrolės komiteto pirmininku, Kontrolės komiteto pirmininko pavaduotoju, Administracinės komisijos pirmininku, Etikos komisijos pirmininku klausimas. Duomenys apie kiekvieno tarybos nario balsavimą, išskyrus atvejus, kai balsuojama slaptai, yra vieši. Kiekvieno tarybos nario balsavimo rezultatai turi būti saugomi informacinėse laikmenose ir skelbiami savivaldybės interneto svetainėje.
+Nr. XII-1621, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06522
 
 10. Tarybos narys privalo nusišalinti nedalyvaudamas balsavime, kai sprendžiami su juo ar jo šeimos nariais ir artimaisiais giminaičiais susiję turtiniai ar finansiniai klausimai arba kai jo dalyvavimas balsuojant galėtų sukelti viešųjų ir privačių interesų konfliktą.
 
@@ -645,7 +645,7 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 15 straipsnis. Savivaldybės tarybos komisijos
 
-1. Savivaldybės taryba savo įgaliojimų laikui sudaro Administracinę komisiją ir Etikos komisiją. Savivaldybės taryba šių komisijų pirmininkus mero teikimu skiria iš tarybos narių. Jeigu yra paskelbta savivaldybės tarybos mažuma (opozicija), Etikos komisijos pirmininko kandidatūrą meras teikia savivaldybės tarybos mažumos (opozicijos) siūlymu reglamento nustatyta tvarka. Jeigu savivaldybės tarybos mažuma (opozicija) nepasiūlo Etikos komisijos pirmininko kandidatūros, Etikos komisijos pirmininką savivaldybės taryba skiria mero teikimu. Komisijų atsakingųjų sekretorių pareigas atlieka savivaldybės administracijos direktoriaus paskirti valstybės tarnautojai, šios funkcijos įrašomos į jų pareigybės aprašymą.
+1. Savivaldybės taryba savo įgaliojimų laikui sudaro Administracinę komisiją, Etikos komisiją ir Antikorupcijos komisiją. Savivaldybės taryba šių komisijų pirmininkus mero teikimu skiria iš tarybos narių. Jeigu yra paskelbta savivaldybės tarybos mažuma (opozicija), Etikos komisijos ir Antikorupcijos komisijos pirmininkų kandidatūras meras teikia savivaldybės tarybos mažumos (opozicijos) siūlymu reglamento nustatyta tvarka. Jeigu savivaldybės tarybos mažuma (opozicija) nepasiūlo Etikos komisijos ir Antikorupcijos komisijos pirmininkų kandidatūrų, Etikos komisijos ir Antikorupcijos komisijos pirmininkus savivaldybės taryba skiria mero teikimu. Komisijų atsakingųjų sekretorių pareigas atlieka savivaldybės administracijos direktoriaus paskirti valstybės tarnautojai, šios funkcijos įrašomos į jų pareigybės aprašymą.
 
 2. Administracinė komisija nagrinėja Administracinių teisės pažeidimų kodekso jos kompetencijai priskirtas administracinių teisės pažeidimų bylas.
 
@@ -661,15 +661,31 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 5) teikia Vyriausiajai rinkimų komisijai siūlymą dėl savivaldybės tarybos nario įgaliojimų nutraukimo, jeigu šis tarybos narys yra praleidęs iš eilės tris savivaldybės tarybos posėdžius be pateisinamos priežasties.
 
-4. Įstatymų nustatytais atvejais arba savivaldybės tarybos sprendimu gali būti sudaromos ir kitos nuolatinės (tos kadencijos laikotarpiui) bei laikinosios (atskiriems klausimams nagrinėti) komisijos.
+4. Antikorupcijos komisija:
 
-5. Savivaldybės tarybos sudaromų komisijų nariais gali būti savivaldybės tarybos nariai, valstybės tarnautojai, gyvenamųjų vietovių bendruomenių ir bendruomeninių organizacijų atstovai, kiti savivaldybės bendruomenės nariai. Etikos komisijoje gyvenamųjų vietovių bendruomenių atstovai turi sudaryti ne mažiau kaip 1/3 komisijos narių.
+1) reglamento nustatyta tvarka savivaldybės tarybos ar mero iniciatyva dalyvauja atliekant savivaldybės institucijų parengtų teisės aktų projektų antikorupcinį vertinimą;
 
-6. Savivaldybės tarybos komisijų sudarymo tvarka nustatyta reglamente. Komisijų nuostatus tvirtina savivaldybės taryba.
+2) dalyvauja rengiant kovos su korupcija programas ir teikia išvadas savivaldybės tarybai dėl šių programų ir jų įgyvendinimo;
+
+3) nagrinėja savivaldybės bendruomenės narių, valstybės institucijų, gyvenamųjų vietovių bendruomenių ar bendruomeninių organizacijų atstovų siūlymus ir pastabas dėl kovos su korupcija priemonių vykdymo;
+
+4) informuoja visuomenę apie savo veiklą, vykdomas korupcijos prevencijos priemones savivaldybėje, taip pat apie kovos su korupcija rezultatus;
+
+5) atlieka kitas kituose teisės aktuose nustatytas funkcijas, susijusias su savivaldybėje įgyvendinama valstybės politika korupcijos prevencijos srityje.
+
+5. Įstatymų nustatytais atvejais arba savivaldybės tarybos sprendimu gali būti sudaromos ir kitos nuolatinės (tos kadencijos laikotarpiui) bei laikinosios (atskiriems klausimams nagrinėti) komisijos.
+
+6. Savivaldybės tarybos sudaromų komisijų nariais gali būti savivaldybės tarybos nariai, valstybės tarnautojai, ekspertai, gyvenamųjų vietovių bendruomenių ir bendruomeninių organizacijų atstovai, kiti savivaldybės bendruomenės nariai. Etikos komisijoje ir Antikorupcijos komisijoje gyvenamųjų vietovių bendruomenių atstovai turi sudaryti ne mažiau kaip 1/3 komisijos narių.
+
+7. Savivaldybės tarybos komisijų sudarymo tvarka nustatyta reglamente. Komisijų nuostatus tvirtina savivaldybės taryba.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1327, 2011-04-19, Žin., 2011, Nr. 52-2504 (2011-05-03)
+
+Straipsnio pakeitimai:
+
+Nr. XII-1621, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06522
 
 16 straipsnis. Savivaldybės tarybos kompetencija
 
