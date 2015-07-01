@@ -4,7 +4,7 @@ identifier: "TAR.3EB53577EFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-10-13"
-last_updated: "2015-06-16"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB53577EFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.03.17)
 
-Suvestinė redakcija nuo 2015-06-16 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 81-1514, i. k. 0941010ISTA000I-599
 
@@ -377,7 +377,11 @@ Prokurorai turi teisę dalyvauti rengiant ir įgyvendinant nacionalines ir tarpt
 
 2) reikalauti iš valstybės ar savivaldybių institucijų, įstaigų ar įmonių, kitų juridinių ir fizinių asmenų pateikti dokumentus ir informaciją;
 
-3) reikalauti iš valstybės ar savivaldybių institucijų jų veiklos srityse spręsti dėl priemonių teisės pažeidimams pašalinti taikymo ir per 20 darbo dienų nuo reikalavimo gavimo dienos informuoti prokuratūrą apie priimtą sprendimą;
+3) reikalauti iš valstybės ar savivaldybių institucijų jų veiklos srityse spręsti dėl priemonių teisės pažeidimams pašalinti taikymo ir per 20 darbo dienų nuo reikalavimo gavimo dienos informuoti prokuratūrą apie priimtą sprendimą, taip pat per 20 darbo dienų nuo sprendimo priėmimo dienos pateikti prokuratūrai informaciją apie jo vykdymo rezultatus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1779, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09699
 
 4) reikalauti iš valstybės ar savivaldybių institucijų, įstaigų atlikti patikrinimus, auditą, pateikti išvadas;
 
@@ -1544,6 +1548,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1763, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09299
 
 Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 1 straipsnio pakeitimo ir Įstatymo papildymo 37-2, 37-3, 37-4, 37-5, 37-6 straipsniais ir priedu įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1779, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09699
+
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 19 straipsnio pakeitimo įstatymas
 
 371 straipsnis. Prokuroro delegavimas į tarptautines, Europos Sąjungos institucijas ar užsienio valstybių institucijas
 
