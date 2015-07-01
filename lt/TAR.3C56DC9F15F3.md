@@ -4,7 +4,7 @@ identifier: "TAR.3C56DC9F15F3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-20"
-last_updated: "2015-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3C56DC9F15F3"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2023-03-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1162, i. k. 0941010ISTA000I-576
 
@@ -33,11 +33,17 @@ Vilnius
 
 Asmenys, žuvę ar mirę būtinosios karinės tarnybos ir karinių apmokymų metu sovietinėje armijoje ar mirę vėliau dėl ligų, susijusių su tarnyba, yra laikomi žuvusiais.
 
-2 straipsnis. Asmenys, pašaukti į būtinąją karinę tarnybą ar karinius apmokymus sovietinėje armijoje, dėl sužalojimų ar ligų, susijusių su karine tarnyba ar kariniais apmokymais, pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais), laikomi sužalotais karinėje tarnyboje.
+2 straipsnis. Sužalotais karinėje tarnyboje laikomi asmenys, kurie buvo pašaukti į būtinąją karinę tarnybą ar karinius apmokymus sovietinėje armijoje ir dėl sužalojimų ar ligų, susijusių su karine tarnyba ar kariniais apmokymais:
+
+1) pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) arba netekusiais 20–40 procentų darbingumo;
+
+2) karo gydytojų sprendimu pripažinti netinkamais karo tarnybai.
 
 Straipsnio pakeitimai:
 
 Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+
+Nr. XII-1627, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06450
 
 3 straipsnis. Neteko galios nuo 1995-01-01
 
@@ -67,7 +73,13 @@ Nr. XII-1210, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14115
 
 3) pripažintiems netekusiais 45–55 procentų darbingumo (iki 2005 m. liepos 1 d. – III grupės invalidais) – 1 252 eurai;
 
-4) pripažintiems netekusiais 20–40 procentų darbingumo – 835 eurai.
+4) pripažintiems netekusiais 20–40 procentų darbingumo – 835 eurai;
+
+5) karo gydytojų sprendimu pripažintiems netinkamais karo tarnybai – 835 eurai.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1627, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06450
 
 Straipsnio pakeitimai:
 
@@ -107,7 +119,7 @@ Nr. VIII-241, 1997-06-05, Žin., 1997, Nr. 63-1467 (1997-07-02), i. k. 0971010IS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -150,4 +162,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1210, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14115
 
 Lietuvos Respublikos įstatymo „Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 – 1991 12 31)“ Nr. I-576 5 ir 6 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1627, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06450
+
+Lietuvos Respublikos įstatymo „Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22–1991 12 31)“ Nr. I-576 2 ir 6 straipsnių pakeitimo įstatymas
 
