@@ -4,7 +4,7 @@ identifier: "TAR.82D8168D3049"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2015-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
 
@@ -254,7 +254,11 @@ Nr. XI-2322, 2012-11-06, Žin., 2012, Nr. 132-6650 (2012-11-15)
 
 4) bendradarbiauja ir konsultuojasi su Ryšių reguliavimo tarnyba, vykdydama elektroninių ryšių paslaugų vartotojų teisių apsaugą.
 
-3. Valstybinė ne maisto produktų inspekcija pagal Vartotojų teisių gynimo įstatymo, Produktų saugos įstatymo nustatytą kompetenciją ir Vyriausybės įgaliojimus gina elektroninių ryšių vartotojų teises ir prižiūri produktų, tarp jų ir produktų, susijusių su elektroninių ryšių tinklais, paslaugomis bei radijo ryšio įrenginiais ir galiniais įrenginiais, saugą.
+3. Valstybinė vartotojų teisių apsaugos tarnyba pagal Vartotojų teisių apsaugos įstatymo, Produktų saugos įstatymo nustatytą kompetenciją ir Vyriausybės įgaliojimus gina elektroninių ryšių vartotojų teises ir prižiūri produktų, tarp jų ir produktų, susijusių su elektroninių ryšių tinklais, paslaugomis bei radijo ryšio įrenginiais ir galiniais įrenginiais, saugą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1891, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10508
 
 4. Lietuvos radijo ir televizijos komisija:
 
@@ -384,7 +388,11 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 5. Ryšių reguliavimo tarnyba turi teisę nustatyti reikalavimus, susijusius su elektroninių programų vadovų ir panašių sąrašų bei navigacijos priemonių teikimu ir naudojimu.
 
-6. Draudžiama komerciniais tikslais gaminti, laikyti, naudoti, importuoti, eksportuoti, parduoti, nuomoti ar kitaip perleisti, pakeisti, instaliuoti, prižiūrėti dekoderius, kitus įrenginius ar programinę įrangą, kuri suteiktų galimybę neteisėtai gauti prieigą prie apsaugotųjų paslaugų. Reklamuoti šią įrangą draudžiama. Asmenys, padarę šioje dalyje nurodytas draudžiamas veikas, atsako įstatymų nustatyta tvarka. Kaip laikomasi šios dalies nuostatų, prižiūri Valstybinė ne maisto produktų inspekcija Vyriausybės nustatyta tvarka.
+6. Draudžiama komerciniais tikslais gaminti, laikyti, naudoti, importuoti, eksportuoti, parduoti, nuomoti ar kitaip perleisti, pakeisti, instaliuoti, prižiūrėti dekoderius, kitus įrenginius ar programinę įrangą, kuri suteiktų galimybę neteisėtai gauti prieigą prie apsaugotųjų paslaugų. Reklamuoti šią įrangą draudžiama. Asmenys, padarę šioje dalyje nurodytas draudžiamas veikas, atsako įstatymų nustatyta tvarka. Kaip laikomasi šios dalies nuostatų, prižiūri Valstybinė vartotojų teisių apsaugos tarnyba Vyriausybės nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1891, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10508
 
 27 straipsnis. Elektroninių ryšių sąveikos užtikrinimo priemonės
 
@@ -1569,6 +1577,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1260, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14859
 
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 26 ir 74 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1891, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10508
+
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 12 ir 25 straipsnių pakeitimo įstatymas
 
 3 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
