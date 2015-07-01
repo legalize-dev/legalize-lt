@@ -4,7 +4,7 @@ identifier: "TAR.F8090E375DA0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2015-05-28"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.02.25)
 
-Suvestinė redakcija nuo 2015-05-28 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-07-02
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
 
@@ -564,6 +564,12 @@ Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
 4) visų rūšių viešajame transporte, išskyrus tolimojo susisiekimo traukinius, kuriuose turi būti numatyti atskiri vagonai nerūkantiesiems ir rūkantiesiems, taip pat orlaivius, kuriuose numatytos atskiros vietos nerūkantiesiems ir rūkantiesiems;
 
 5) restoranuose, kavinėse, baruose, kitose viešojo maitinimo įstaigose, klubuose, diskotekose, interneto kavinėse (interneto klubuose ir pan.), lošimo namuose (kazino), automatų ar bingo salonuose, kitose laisvalaikio praleidimo įstaigose, patalpose, kuriose vyksta sporto varžybos ar kiti renginiai, ir kitose žmonėms aptarnauti skirtose patalpose, išskyrus specialiai įrengtus cigarų ir (ar) pypkių klubus. Cigarų ir (ar) pypkių klubų įrengimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija;
+
+6) transporto priemonių salonuose, jeigu juose yra asmenų iki 18 metų ir (ar) nėščių moterų.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1594, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05704
 
 2. Neteko galios nuo 2007-01-01.
 
@@ -1116,6 +1122,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1738, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08130
 
 Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 14 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1594, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05704
+
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 19 straipsnio pakeitimo įstatymas
 
 91 straipsnis. Tabako gaminių gamybos ir realizavimo ataskaitos
 
