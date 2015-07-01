@@ -4,7 +4,7 @@ identifier: "TAR.423D6799832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-01-28"
-last_updated: "2013-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.423D6799832E"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 17-701, i. k. 1031010ISTA0IX-1315
 
@@ -163,7 +163,11 @@ SPROGMENŲ SAUGOS KONTROLĖ IR ŽENKLINIMAS
 
 8. Atitikties ženklu „CE“ ir unikaliu atpažinties žymeniu sprogmenys turi būti ženklinami tokiu būdu, kad žymenys būtų aiškiai pastebimi, lengvai įskaitomi ir patvarūs. Atitikties ženklu „CE“ ženklinamas pats sprogmuo arba, jeigu tai neįmanoma, prie sprogmens pritvirtinta duomenų plokštelė; tuo atveju, kai taip ženklinti techniškai neįmanoma, ženklinama sprogmens pakuotė. Duomenų plokštelė pagaminama taip, kad jos nebūtų galima panaudoti antrą kartą. Draudžiama ženklinti sprogmenis užrašais, kuriuos galima būtų klaidingai palaikyti atitikties ženklu „CE“ ir unikaliu atpažinties žymeniu. Kitus žymenis ant sprogmenų galima tvirtinti tik tuo atveju, jeigu jie netrukdo pamatyti ir perskaityti atitikties ženklą „CE“ ir unikalų atpažinties žymenį.
 
-9. Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos (toliau – Valstybinė ne maisto produktų inspekcija) teisės aktų nustatyta tvarka prižiūri, ar sprogmenys, tiekiami Lietuvos Respublikos rinkai, atitinka šiame straipsnyje nustatytus ženklinimo reikalavimus. Jeigu Valstybinė ne maisto produktų inspekcija nustato, kad Lietuvos Respublikos rinkai tiekiami sprogmenys yra nesertifikuoti, nepaženklinti unikaliu atpažinties žymeniu arba atitikties ženklu „CE“, kad unikaliu atpažinties žymeniu arba atitikties ženklu „CE“ sprogmenys paženklinti neteisėtai, ši institucija privalo užtikrinti tokių sprogmenų pašalinimą iš rinkos ir įpareigoti sprogmenų gamintoją (prekiautoją) per nurodytą laiką pašalinti nustatytus trūkumus. Jeigu sprogmenų gamintojas (prekiautojas) neįvykdo šių reikalavimų, sprogmenys paimami šio įstatymo 20 straipsnyje nustatyta tvarka.
+9. Valstybinė vartotojų teisių apsaugos tarnyba teisės aktų nustatyta tvarka prižiūri, ar sprogmenys, tiekiami Lietuvos Respublikos rinkai, atitinka šiame straipsnyje nustatytus ženklinimo reikalavimus. Jeigu Valstybinė vartotojų teisių apsaugos tarnyba nustato, kad Lietuvos Respublikos rinkai tiekiami sprogmenys yra nesertifikuoti, nepaženklinti unikaliu atpažinties žymeniu arba atitikties ženklu „CE“, kad unikaliu atpažinties žymeniu arba atitikties ženklu „CE“ sprogmenys paženklinti neteisėtai, ši institucija privalo užtikrinti tokių sprogmenų pašalinimą iš rinkos ir įpareigoti sprogmenų gamintoją (prekiautoją) per nurodytą laiką pašalinti nustatytus trūkumus. Jeigu sprogmenų gamintojas (prekiautojas) neįvykdo šių reikalavimų, sprogmenys paimami šio įstatymo 20 straipsnyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1889, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10507
 
 TREČIASIS SKIRSNIS
 
@@ -497,7 +501,11 @@ SPROGMENŲ CIVILINĖS APYVARTOS KONTROLĖ
 
 2. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytais atvejais sprogmenis paima Ginklų fondas kartu su teritorine policijos įstaiga. Jeigu sprendimas dėl licencijos ar rašytinio sutikimo galiojimo panaikinimo įstatymų nustatyta tvarka apskundžiamas, sprogmenys laikinai paimami saugoti iki galutinio sprendimo priėmimo. Laikinai paimti sprogmenys saugomi licencijos ar rašytinio sutikimo turėtojo, iš kurio sprogmenys paimti, patalpose ar sprogmenims laikyti pritaikytose Lietuvos kariuomenės arba specializuotos policijos įstaigos patalpose.
 
-3. Šio straipsnio 1 dalies 3 punkte nustatytais atvejais sprogmenis paima Valstybinė ne maisto produktų inspekcija kartu su teritorine policijos įstaiga. Paimti sprogmenys saugomi licencijos ar rašytinio sutikimo turėtojo, iš kurio sprogmenys paimti, patalpose ar sprogmenims laikyti pritaikytose Lietuvos kariuomenės arba specializuotos policijos įstaigos patalpose.
+3. Šio straipsnio 1 dalies 3 punkte nustatytais atvejais sprogmenis paima Valstybinė vartotojų teisių apsaugos tarnyba kartu su teritorine policijos įstaiga. Paimti sprogmenys saugomi licencijos ar rašytinio sutikimo turėtojo, iš kurio sprogmenys paimti, patalpose ar sprogmenims laikyti pritaikytose Lietuvos kariuomenės arba specializuotos policijos įstaigos patalpose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1889, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10507
 
 4. Šio straipsnio 1 dalies 4 ir 5 punktuose nustatytais atvejais, taip pat sprogmenų civilinės apyvartos kontrolę atliekančios institucijos prašymu sprogmenis paima Lietuvos kariuomenė ar specializuota policijos įstaiga. Paimti sprogmenys saugomi sprogmenims laikyti pritaikytose Lietuvos kariuomenės arba specializuotos policijos įstaigos patalpose.
 
@@ -590,6 +598,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2154, 2012-06-29, Žin., 2012, Nr. 81-4220 (2012-07-12), i. k. 1121010ISTA0XI-2154
 
 Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1889, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10507
+
+Lietuvos Respublikos sprogmenų apyvartos kontrolės Nr. IX-1315 įstatymo 5 ir 20 straipsnių pakeitimo įstatymas
 
 23 straipsnis. Sprogmenų apskaita
 
