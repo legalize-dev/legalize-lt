@@ -4,7 +4,7 @@ identifier: "TAR.A845E65C32A2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-06-01"
-last_updated: "2015-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A845E65C32A2"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos produktų saugos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 52-1673, i. k. 0991010ISTAIII-1206
 
@@ -290,7 +290,11 @@ VALSTYBINĖ PRODUKTŲ SAUGOS KONTROLĖ
 
 12 straipsnis. Produktų saugos reikalavimų laikymosi kontrolė
 
-Šio įstatymo ir kitų teisės aktų nustatytų reikalavimų, užtikrinančių, kad į rinką būtų teikiami tik saugūs produktai, laikymąsi kontroliuoja Vyriausybės įsteigtos maisto ir ne maisto produktų saugos kontrolės institucijos Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
+Šio įstatymo ir kitų teisės aktų nustatytų reikalavimų, užtikrinančių, kad į rinką būtų teikiami tik saugūs produktai, laikymąsi kontroliuoja Vyriausybės ar jos įgaliotų institucijų įsteigtos produktų saugos kontrolės institucijos Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1490, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21245
 
 13 straipsnis. Valstybinės produktų saugos kontrolės turinys
 
