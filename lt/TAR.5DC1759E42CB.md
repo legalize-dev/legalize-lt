@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2015-04-03"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2015-04-03 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-07-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -1078,13 +1078,21 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 29 straipsnis. Motorinių transporto priemonių ir priekabų privalomoji techninė apžiūra ir techninė ekspertizė
 
-1. Lietuvos Respublikoje registruotų motorinių transporto priemonių ir priekabų valdytojai privalo šias transporto priemones pateikti periodinei privalomajai techninei apžiūrai.
+1. Lietuvos Respublikoje registruotų motorinių transporto priemonių ir priekabų valdytojai privalo šias transporto priemones pateikti privalomajai techninei apžiūrai susisiekimo ministro ar jo įgaliotos institucijos nustatyta tvarka. Europos ekonominės erdvės šalyse atlikta Lietuvos Respublikoje registruotų motorinių transporto priemonių ir priekabų privalomoji techninė apžiūra pripažįstama galiojančia susisiekimo ministro ar jo įgaliotos institucijos nustatytomis sąlygomis ir tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1679, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07663
 
 2. Šio įstatymo 25 straipsnio 6 ir 7 dalyse nurodytais atvejais motorinių transporto priemonių, priekabų valdytojai privalo pateikti jas privalomajai neeilinei techninei apžiūrai.
 
 3. Naujos motorinės transporto priemonės ir priekabos laikotarpiu nuo transporto priemonės pirmo registravimo datos iki pirmos privalomosios techninės apžiūros dalyvauja viešajame eisme be privalomosios techninės apžiūros (išskyrus vienetinės gamybos transporto priemones).
 
-4. Privalomąsias technines apžiūras ir technines ekspertizes atlieka įmonės, kurioms suteikta teisė verstis šia veikla. Privalomąsias technines apžiūras atliekančios įmonės turi būti akredituotos kaip A tipo kontrolės įstaigos pagal tarptautinį standartą LST EN ISO/IEC 17020 „Bendrieji įvairių tipų kontrolės įstaigų veikimo kriterijai“.
+4. Privalomąsias technines apžiūras ir technines ekspertizes atlieka įmonės, kurioms suteikta teisė verstis šia veikla. Privalomąsias technines apžiūras atliekančios įmonės turi būti akredituotos kaip A tipo kontrolės įstaigos pagal tarptautinį standartą LST EN ISO/IEC 17020 „Atitikties įvertinimas. Reikalavimai, keliami įvairių tipų kontrolės įstaigų veiklai (ISO/IEC 17020)“.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1679, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07663
 
 5. Motorinių transporto priemonių ir priekabų techninė ekspertizė atliekama Susisiekimo ministerijos arba jos įgaliotos institucijos nustatyta tvarka.
 
