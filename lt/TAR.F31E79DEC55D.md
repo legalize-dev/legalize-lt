@@ -4,7 +4,7 @@ identifier: "TAR.F31E79DEC55D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-19"
-last_updated: "2015-01-01"
+last_updated: "2015-07-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-07-01
+Suvestinė redakcija nuo 2015-07-02 iki 2015-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
 
@@ -2451,6 +2451,12 @@ STATYBOS TECHNINĖS VEIKLOS PAGRINDINĖS SRITYS
 6) poilsio paskirties, sodų paskirties pastatams, naudojamiems ne ilgiau kaip keturis mėnesius per metus;
 
 7) nešildomiems pastatams;
+
+8) avarinės būklės pastatams, kurių atnaujinimas sąnaudų atžvilgiu, skaičiuojant per apytikrį avarinės būklės pastatų ekonominio gyvavimo ciklą, būtų nenaudingas.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1842, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10588
 
 3. Pastatų energinio naudingumo sertifikavimas privalomas:
 
