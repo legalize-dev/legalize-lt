@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2015-07-01"
+last_updated: "2015-07-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-07-01
+Suvestinė redakcija nuo 2015-07-02 iki 2015-12-29
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -169,8 +169,6 @@ Bendrosios nuostatos
 56. Specialioji transporto priemonė – policijos, greitosios medicinos pagalbos, priešgaisrinės apsaugos ir gelbėjimo tarnybos, dujų įmonės avarinės tarnybos, aplinkos apsaugos valstybinės kontrolės institucijos motorinė transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais, Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos pavaldžios laisvės atėmimo vietos transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais, pritaikyta suimtiesiems ir nuteistiesiems konvojuoti į gydymo įstaigas, vidaus reikalų statutinės įstaigos, prokuratūros, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos, Lietuvos kariuomenės Specialiųjų operacijų pajėgų, Karo policijos, muitinės, Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos specialiomis spalvomis nudažyta ar nenudažyta motorinė transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais.
 
 57. Specialiųjų transporto priemonių vairuotojų mokymas – Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka organizuojamas ir vykdomas specialiųjų transporto priemonių vairuotojų mokymas.
-
-57 dalis įsigalioja 2015-07-01.
 
 58. Šaligatvis – kelio dalis pėstiesiems prie važiuojamosios kelio dalies, atskirta arba neatskirta nuo jos. Šaligatvis gali būti naudojamas dviračių eismui KET nustatytais atvejais.
 
@@ -1136,9 +1134,11 @@ Siekiant užtikrinti eismo keliais saugumą ir apsaugoti žmonių gyvybę, sveik
 
 5. Priverstinio transporto priemonių nuvežimo ar draudimo vairuoti tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
-6. Išlaidas, susijusias su priverstiniu transporto priemonės nuvežimu į transporto priemonės stovėjimo aikštelę šio straipsnio 1 dalyje nurodytais atvejais ir jos saugojimu transporto priemonės stovėjimo aikštelėje, ūkio subjektui transporto priemonės savininkas ir valdytojas atlygina solidariai. Išlaidos turi būti atlygintos iki transporto priemonės paėmimo iš transporto priemonės stovėjimo aikštelės.
+6. Išlaidas, susijusias su priverstiniu transporto priemonės nuvežimu į transporto priemonės stovėjimo aikštelę šio straipsnio 1 dalyje nurodytais atvejais ir jos saugojimu transporto priemonės stovėjimo aikštelėje, ūkio subjektui transporto priemonės savininkas ir valdytojas atlygina solidariai. Šios išlaidos atlyginamos arba adekvatus prievolės atlyginti išlaidas įvykdymo užtikrinimas Civiliniame kodekse nustatytais būdais ir tvarka pateikiamas iki transporto priemonės paėmimo iš transporto priemonės stovėjimo aikštelės.
 
-Pastaba. Pripažinti, kad Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo (2007 m. lapkričio 22 d. redakcija; Žin., 2007, Nr. 128-5213) 33 straipsnio 6 dalies nuostata „Išlaidos turi būti atlygintos iki transporto priemonės paėmimo iš transporto priemonės stovėjimo aikštelės“ tiek, kiek ja nesudaryta galimybė susigrąžinti transporto priemonę adekvačiai užtikrinus prievolės atlyginti išlaidas įvykdymą, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1, 2 dalims, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1849, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10594
 
 Straipsnio pakeitimai:
 
