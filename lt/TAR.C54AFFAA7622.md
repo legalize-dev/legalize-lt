@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2015-06-17"
+last_updated: "2015-07-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2015-06-17 iki 2015-07-01
+Suvestinė redakcija nuo 2015-07-02 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
 
@@ -1132,11 +1132,31 @@ TAR pastaba. 8 punktas įsigalioja 2016-01-01.
 
 8 punkto nuostatos taikomos esminiams pirkimo sutarties pažeidimams ir esminiu pripažintinam pirkimo sutarties neįvykdymui ar netinkamam įvykdymui, atsiradusiems nuo 2016-01-01.
 
-3. Perkančioji organizacija, pirkimo dokumentuose reikalaudama, kad tiekėjas įrodytų, jog šio straipsnio 1 dalyje ir 2 dalies 1, 2, 3 ir 7 punktuose nurodytų aplinkybių nėra, kaip pakankamą įrodymą priima teismo, valstybės įmonės Registrų centro ar kitos kompetentingos institucijos dokumentą. Tiekėjas nurodytoms aplinkybėms įrodyti gali pateikti valstybės įmonės Registrų centro Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotą dokumentą, patvirtinantį jungtinius kompetentingų institucijų tvarkomus duomenis. Perkančioji organizacija negali reikalauti dokumentų ir informacijos, kurie perkančiajai organizacijai pagal Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymą yra neatlygintinai prieinami Lietuvos Respublikos registruose, valstybės informacinėse sistemose ir kitose informacinėse sistemose.
+9) nėra įvykdęs įsipareigojimų, susijusių su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu pagal šalies, kurioje jis registruotas, ar šalies, kurioje yra perkančioji organizacija, reikalavimus. Tiekėjas laikomas įvykdžiusiu įsipareigojimus, susijusius su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, jeigu jo neįvykdytų įsipareigojimų suma yra mažesnė kaip 50 eurų.
+
+TAR pastaba. Iki įstatymo Nr. XII-1852 įsigaliojimo (2015-07-02) pradėtos pirkimų procedūros tęsiamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1852, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10598
+
+3. Perkančioji organizacija, pirkimo dokumentuose reikalaudama, kad tiekėjas įrodytų, jog šio straipsnio 1 dalies 1 ir 3 punktuose ir 2 dalies 1, 2, 3, 7 ir 9 punktuose nurodytų aplinkybių nėra, kaip pakankamą įrodymą priima teismo, valstybės įmonės Registrų centro ar kitos kompetentingos institucijos dokumentą. Tiekėjas nurodytoms aplinkybėms įrodyti gali pateikti valstybės įmonės Registrų centro Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotą dokumentą, patvirtinantį jungtinius kompetentingų institucijų tvarkomus duomenis. Perkančioji organizacija negali reikalauti dokumentų ir informacijos, kurie perkančiajai organizacijai pagal Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymą yra neatlygintinai prieinami Lietuvos Respublikos registruose, valstybės informacinėse sistemose ir kitose informacinėse sistemose.
+
+TAR pastaba. Iki įstatymo Nr. XII-1852 įsigaliojimo (2015-07-02) pradėtos pirkimų procedūros tęsiamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1852, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10598
 
 4. Jeigu perkančiajai organizacijai kyla abejonių dėl tiekėjo tinkamumo, ji turi teisę kreiptis į kompetentingas institucijas, kad gautų visą reikiamą informaciją. Jeigu reikalinga informacija yra susijusi su tiekėju iš kitos valstybės narės negu perkančioji organizacija, ji gali kreiptis į atitinkamas tos valstybės narės kompetentingas institucijas.
 
-5. Jeigu tiekėjas negali pateikti šio straipsnio 3 dalyje nurodytų dokumentų, nes atitinkamoje šalyje tokie dokumentai neišduodami arba toje šalyje išduodami dokumentai neapima visų šio straipsnio 1 dalies 1 ir 3 punktuose ir 2 dalies 1, 2, 3 ar 7 punkte nurodytų atvejų, jie gali būti pakeisti priesaikos deklaracija arba šalyse, kuriose ji netaikoma, – oficialia tiekėjo deklaracija, kurią jis yra pateikęs kompetentingai teisinei arba administracinei institucijai, notarui arba kompetentingai profesinei ar prekybos organizacijai savo kilmės šalyje arba šalyje, iš kurios jis atvyko, o šio straipsnio 2 dalies 1 punkte nurodytais atvejais, kai tiekėjas su kreditoriais nėra sudaręs taikos sutarties, sustabdęs ar apribojęs veiklos, šio straipsnio 2 dalies 2 punkte nurodytu atveju, kai nesiekiama priverstinio likvidavimo procedūros ar susitarimo su kreditoriais, ir šio straipsnio 2 dalies 4, 6 ir 8 punktuose nurodytais atvejais – ir laisvos formos tiekėjo deklaracija.
+5. Jeigu tiekėjas negali pateikti šio straipsnio 3 dalyje nurodytų dokumentų, nes atitinkamoje šalyje tokie dokumentai neišduodami arba toje šalyje išduodami dokumentai neapima visų šio straipsnio 1 dalies 1 ir 3 punktuose ir 2 dalies 1, 2, 3, 7 ar 9 punkte nurodytų atvejų, jie gali būti pakeisti priesaikos deklaracija arba šalyse, kuriose ji netaikoma, – oficialia tiekėjo deklaracija, kurią jis yra pateikęs kompetentingai teisinei arba administracinei institucijai, notarui arba kompetentingai profesinei ar prekybos organizacijai savo kilmės šalyje arba šalyje, iš kurios jis atvyko, o šio straipsnio 2 dalies 1 punkte nurodytais atvejais, kai tiekėjas su kreditoriais nėra sudaręs taikos sutarties, sustabdęs ar apribojęs veiklos, šio straipsnio 2 dalies 2 punkte nurodytu atveju, kai nesiekiama priverstinio likvidavimo procedūros ar susitarimo su kreditoriais, ir šio straipsnio 2 dalies 4 ir 6 punktuose nurodytais atvejais – ir laisvos formos tiekėjo deklaracija.
+
+TAR pastaba. Iki įstatymo Nr. XII-1852 įsigaliojimo (2015-07-02) pradėtos pirkimų procedūros tęsiamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1852, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10598
 
 6. Viešųjų pirkimų tarnyba privalo sudaryti Lietuvos Respublikos įmonių ir institucijų, kompetentingų išduoti šio straipsnio 3 dalyje nurodytus dokumentus, sąrašą ir pateikti jį Europos Komisijai. Viešųjų pirkimų tarnyba taip pat atsakinga už šio sąrašo naujų duomenų pateikimą Europos Komisijai.
 
@@ -1234,11 +1254,15 @@ Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
 
 4. Kiekvieno pirkimo atveju tiekėjas perkančiajai organizacijai gali pateikti kompetentingos institucijos išduotą pažymą, kad jis yra registruotas oficialiuose patvirtintų tiekėjų sąrašuose. Pažymoje nurodomos sąlygos, kurių pagrindu tiekėjas įregistruotas sąraše, ir kokia klasifikacija šiame sąraše jam suteikta.
 
-5. Perkančioji organizacija iš oficialiame sąraše įregistruoto tiekėjo, kurio pasiūlymas pagal vertinimo rezultatus pripažintas geriausiu, papildomai reikalauja pateikti pažymas apie socialinio draudimo ar mokesčių įmokas. Perkančioji organizacija nereikalauja dokumentų ir informacijos, kurie perkančiajai organizacijai pagal Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymą yra neatlygintinai prieinami Lietuvos Respublikos registruose, valstybės informacinėse sistemose ir kitose informacinėse sistemose.
+5. Perkančioji organizacija iš oficialiame sąraše įregistruoto tiekėjo, kurio pasiūlymas pagal vertinimo rezultatus pripažintas geriausiu, gali papildomai pareikalauti pateikti pažymas apie socialinio draudimo ar mokesčių įmokas. Perkančioji organizacija nereikalauja dokumentų ir informacijos, kurie perkančiajai organizacijai pagal Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymą yra neatlygintinai prieinami Lietuvos Respublikos registruose, valstybės informacinėse sistemose ir kitose informacinėse sistemose.
+
+TAR pastaba. Iki įstatymo Nr. XII-1852 įsigaliojimo (2015-07-02) pradėtos pirkimų procedūros tęsiamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
+
+Nr. XII-1852, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10598
 
 6. Perkančioji organizacija nereikalauja, kad tiekėjai, norintys dalyvauti pirkimo procedūrose, būtų registruoti oficialiuose sąrašuose. Perkančioji organizacija pripažįsta kompetentingos institucijos išduotą pažymą, taip pat kitų valstybių narių kompetentingų institucijų išduotas lygiavertes pažymas ir be pagrindo negali jomis abejoti. Tiekėjas taip pat gali pateikti ir kitus dokumentus, įrodančius, kad jo kvalifikacija atitinka perkančiosios organizacijos nustatytus reikalavimus.
 
