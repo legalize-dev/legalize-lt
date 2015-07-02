@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2015-01-01"
+last_updated: "2015-07-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-07-01
+Suvestinė redakcija nuo 2015-07-02 iki 2016-09-29
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
 
@@ -358,7 +358,11 @@ TURTO VERTĖS NORMATYVO PINIGINEI SOCIALINEI PARAMAI GAUTI NUSTATYMAS
 
 2) autorinis atlyginimas, pajamos, gautos iš sporto veiklos, atlikėjo veiklos;
 
-3) pensijos ir (ar) pensijų išmokos, šalpos išmokos (išskyrus slaugos ar priežiūros (pagalbos) išlaidų tikslines kompensacijas ir tikslinį priedą);
+3) pensijos ir (ar) pensijų išmokos (išskyrus senatvės ir netekto darbingumo (invalidumo) pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės ir netekto darbingumo (invalidumo) pensijų kompensavimo įstatymą, taip pat senatvės ir valstybinių pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų ir valstybinių pensijų, sumažintų dėl draudžiamųjų pajamų turėjimo, kompensavimo įstatymą), šalpos išmokos (išskyrus slaugos ar priežiūros (pagalbos) išlaidų tikslines kompensacijas ir tikslinį priedą);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1853, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10599
 
 4) dividendai;
 
