@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2015-07-01"
+last_updated: "2015-07-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-07-02
+Suvestinė redakcija nuo 2015-07-03 iki 2015-07-14
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
 
@@ -2597,7 +2597,11 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 12. Vaistinės darbo laiku vaistinėje turi dirbti ne mažiau kaip vienas vaistininkas.
 
-12 dalis įsigalioja nuo 2016-01-01.
+TAR pastaba. 12 dalis įsigalioja 2021-01-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1906, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10696
 
 13. Vaistininko padėjėjo (farmakotechniko) teikiamos farmacinės paslaugos, vaistinių preparatų pardavimo (išdavimo) ir ekstemporalių vaistinių preparatų gamybos priežiūra vaistinėje suprantama kaip receptų, pagal kuriuos vaistininko padėjėjas (farmakotechnikas) pardavė (išdavė) vaistinius preparatus, patikrinimas, jeigu reikia, vaistininko padėjėjo (farmakotechniko) konsultavimas (žodžiu ar ryšio priemonėmis), parenkant gyventojui reikalingus vaistinius preparatus, teikiant farmacinę informaciją, vaistininko padėjėjo (farmakotechniko) pagamintų ekstemporalių vaistinių preparatų patikrinimas.
 
