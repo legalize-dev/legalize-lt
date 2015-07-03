@@ -4,7 +4,7 @@ identifier: "TAR.C9C9C1E801C4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-05-15"
-last_updated: "2012-09-06"
+last_updated: "2015-07-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C9C9C1E801C4"
 department: "Lietuvos Respublikos Seimas"
@@ -20,6 +20,10 @@ entry_into_force_conditions: "Įstatymo 8 straipsnio 3 dalis įsigalioja 2012-06
 LIETUVOS RESPUBLIKOS FARMACIJOS ĮSTATYMO 2, 4, 5, 7, 35, 39, 76
 
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Suvestinė redakcija nuo 2015-07-03 iki 2020-12-30
+
+Įstatymas paskelbtas: Žin. 2012, Nr. 63-3161, i. k. 1121010ISTA0XI-2017
 
 LIETUVOS RESPUBLIKOS
 
@@ -99,11 +103,25 @@ Pakeisti 39 straipsnio 1 punktą ir jį išdėstyti taip:
 
 1. Šis įstatymas, išskyrus 5 straipsnio 1 dalį ir šio straipsnio 3 dalį, įsigalioja po trijų mėnesių nuo šio įstatymo paskelbimo leidinyje „Valstybės žinios“.
 
-2. Šio įstatymo 5 straipsnio 1 dalis įsigalioja 2016 m. sausio 1 d.
+2. Šio įstatymo 5 straipsnio 1 dalis įsigalioja 2021 m. sausio 1 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1906, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10696
 
 3. Sveikatos apsaugos ministras iki šio įstatymo įsigaliojimo parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus.
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1906, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10696
+
+Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 8 straipsnio pakeitimo įstatymas
 
