@@ -4,7 +4,7 @@ identifier: "TAR.F8D00907FFBE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-23"
-last_updated: "2014-01-01"
+last_updated: "2015-07-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8D00907FFBE"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2015-07-03
+Suvestinė redakcija nuo 2015-07-04 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 104-2976, i. k. 0991010ISTAIII-1436
 
@@ -197,7 +197,11 @@ Nr. VIII-1726, 2000-06-13, Žin., 2000, Nr. 52-1485 (2000-06-28), i. k. 1001010I
 
 8 straipsnis. Prisipažinusiųjų asmenų apsauga ir duomenų paskelbimo atvejai
 
-1. Užregistruotų, prisipažinusių ir įrašytų į įskaitą asmenų pateikta informacija bei duomenys apie juos yra įslaptinami ir saugomi įstatymų nustatyta tvarka.
+1. Užregistruotų, prisipažinusių ir įrašytų į įskaitą asmenų pateikta informacija ir duomenys apie juos yra įslaptinami 75 metams ir saugomi įstatymų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1911, 2015-06-30, paskelbta TAR 2015-07-03, i. k. 2015-10826
 
 2. Šio straipsnio 1 dalyje nurodyti asmenys praneša Valstybės saugumo departamentui, jei patiria šantažą ir verbavimą ar bandymą įtraukti į neteisėtą veiklą, Valstybės saugumo departamentas prisipažinusių asmenų prašymu imasi priemonių jiems apsaugoti bei nusikalstamai veikai atskleisti. Asmenų įrašymas į įskaitą ir jų pateikti duomenys išslaptinami, jeigu šie asmenys įsiteisėjusiu teismo nuosprendžiu yra apkaltinti padarę veikas, pripažintas nusikaltimais žmoniškumui, karo ar genocido nusikaltimais, bei kitais įstatymų nustatytais įslaptintos informacijos išslaptinimo atvejais.
 
@@ -304,4 +308,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2340, 2012-11-06, Žin., 2012, Nr. 132-6668 (2012-11-15), i. k. 1121010ISTA0XI-2340
 
 Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo 8 ir 9 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1911, 2015-06-30, paskelbta TAR 2015-07-03, i. k. 2015-10826
+
+Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo Nr. VIII-1436 8 straipsnio pakeitimo įstatymas
 
