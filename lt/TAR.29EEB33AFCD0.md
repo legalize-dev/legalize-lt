@@ -4,7 +4,7 @@ identifier: "TAR.29EEB33AFCD0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-18"
-last_updated: "2015-05-21"
+last_updated: "2015-07-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2015-05-21 iki 2015-07-03
+Suvestinė redakcija nuo 2015-07-04 iki 2015-12-02
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
 
@@ -419,24 +419,6 @@ Nr. XI-1338, 2011-04-21, Žin., 2011, Nr. 52-2513 (2011-05-03)
 
 44 straipsnis. Centrinės kredito unijos paslaptis
 
-1. Centrinės kredito unijos paslaptimi laikomi visi Centrinei kredito unijai žinomi duomenys ir informacija apie:
-
-1) Centrinės kredito unijos kliento turimas Centrinėje kredito unijoje sąskaitas, lėšų likučius šiose sąskaitose, kliento vykdomas operacijas su jo sąskaitoje esančiomis lėšomis, sutarčių, pagal kurias klientui buvo atidarytos sąskaitos, sąlygas;
-
-2) Centrinės kredito unijos kliento skolinius įsipareigojimus Centrinei kredito unijai, sutarčių, pagal kurias atsirado šie skoliniai įsipareigojimai, sąlygas;
-
-3) kitas Centrinės kredito unijos klientui suteiktas finansines paslaugas, sutarčių, pagal kurias teikiamos finansinės paslaugos, sąlygas;
-
-4) Centrinės kredito unijos kliento finansinę būklę ir turtą, veiklą, veiklos planus, skolinius įsipareigojimus kitiems asmenims ar sandorius su kitais asmenimis, kliento komercines (gamybines) ar profesines paslaptis.
-
-2. Centrinė kredito unija, jos darbuotojai ir bet kurie kiti asmenys, kurie žino Centrinės kredito unijos paslaptį sudarančią informaciją, privalo neribotą laiką neatskleisti tokios informacijos, išskyrus šio straipsnio 3–5 dalyse nustatytus atvejus.
-
-3. Centrinės kredito unijos paslaptį sudaranti informacija gali būti atskleista tik Centrinės kredito unijos klientui, su kuriuo susijusi Centrinės kredito unijos paslaptį sudaranti informacija, arba jo rašytiniu prašymu, kuriame nurodyta, kam ir kokia informacija turi būti atskleista.
-
-4. Centrinė kredito unija turi teisę atskleisti informaciją, sudarančią Centrinės kredito unijos paslaptį, teismui ar kitiems asmenims, jei tai būtina ginant Centrinės kredito unijos teisėtus interesus, ir tik tiek, kiek tai būtina jos interesams ginti.
-
-5. Centrinė kredito unija teikia Centrinės kredito unijos paslaptį sudarančią informaciją Pinigų plovimo prevencijos įstatyme nurodytoms institucijoms, taip pat įstatymų nustatyta tvarka kitiems asmenims, jei pagal įstatymus Centrinė kredito unija privalo joms teikti tokią informaciją.
-
 45 straipsnis. Klientų interesų apsauga
 
 1. Vietose, kuriose Centrinė kredito unija teikia finansines paslaugas klientams, kiekvienam galimam klientui laisvai prieinamoje vietoje privalo būti nurodytas Centrinės kredito unijos pavadinimas ir finansinės paslaugos, kurias turi teisę teikti Centrinė kredito unija, taip pat turi būti sudarytos sąlygos viešai susipažinti su šio straipsnio 2 dalyje nurodyta informacija.
@@ -605,41 +587,11 @@ Straipsnio pakeitimai:
 
 Nr. XII-1546, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04834
 
-55 straipsnis. Centrinės kredito unijos inspektavimas (tikrinimas)
+Centrinės kredito unijos paslapties apsaugai mutatis mutandis taikomas Lietuvos Respublikos bankų įstatymo 55 straipsnis.
 
-1. Centrinę kredito uniją inspektuoja (tikrina) priežiūros institucijos darbuotojai.
+Straipsnio pakeitimai:
 
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1546, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04834
-
-2. Centrinė kredito unija privalo sudaryti šias sąlygas inspektavimui (tikrinimui) atlikti:
-
-1) inspektuojantiems (tikrinantiems) asmenims pateikti visą jų prašomą informaciją ir dokumentus;
-
-2) suteikti galimybę inspektavimą (tikrinimą) atliekantiems asmenims naudotis Centrinės kredito unijos informacinių sistemų duomenimis;
-
-3) suteikti inspektuojantiems (tikrinantiems) asmenims atskiras patalpas su telefono ryšio tinklu.
-
-3. Inspektuojantys (tikrinantys) asmenys turi teisę:
-
-1) inspektuojamos (tikrinamos) Centrinės kredito unijos darbo metu nekliudomi įeiti į Centrinės kredito unijos ir jos padalinių patalpas;
-
-2) reikalauti ir gauti inspektavimui (tikrinimui) atlikti reikalingą informaciją ir dokumentus (originalus arba patvirtintus jų nuorašus), Centrinės kredito unijos vadovų ir kitų darbuotojų paaiškinimus žodžiu ar raštu;
-
-3) reikalauti padaryti pateiktų dokumentų kopijas ar patys juos kopijuoti Centrinės kredito unijos lėšomis;
-
-4) turėti teisės aktų nustatytų kitų teisių.
-
-4. Atlikus inspektavimą (tikrinimą), jo rezultatai raštu pateikiami Centrinei kredito unijai. Centrinės kredito unijos stebėtojų tarybos, valdybos nariai, administracijos vadovai privalo pasirašytinai susipažinti su inspektavimo (tikrinimo) rezultatais.
-
-5. Priežiūros institucijos teisės aktai nustato detalią inspektavimo (tikrinimo) ir jo rezultatų įforminimo tvarką.
-
-6. Šio straipsnio nustatyta tvarka priežiūros institucija turi teisę inspektuoti (tikrinti) šio Įstatymo 541 straipsnio 1 dalies 2–6 punktuose nurodytus asmenis ir Centrinės kredito unijos finansinės grupės narius, jeigu ji atlieka finansinės grupės jungtinę (konsoliduotą) priežiūrą.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1546, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04834
+Nr. XII-1900, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10786
 
 57 straipsnis. Poveikio priemonės
 
@@ -1020,6 +972,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1693, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07669
 
 Lietuvos Respublikos centrinės kredito unijos įstatymo Nr. VIII-1682 1, 9, 50, 52 ir 56 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1900, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10786
+
+Lietuvos Respublikos centrinės kredito unijos įstatymo Nr. VIII-1682 44 straipsnio pakeitimo įstatymas
 
 3 straipsnis. Centrinės kredito unijos pavadinimas, teisinė forma, jos veiklą  reglamentuojantys teisės aktai
 
