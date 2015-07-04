@@ -4,7 +4,7 @@ identifier: "TAR.DE0B1FF26D01"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-21"
-last_updated: "2015-05-29"
+last_updated: "2015-07-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DE0B1FF26D01"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2015-05-29 iki 2015-07-03
+Suvestinė redakcija nuo 2015-07-04 iki 2015-12-02
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
 
@@ -1188,24 +1188,6 @@ Kredito unija neturi teisės skolinti įsigyjamo jos pajaus pajiniam įnašui at
 
 49 straipsnis. Kredito unijos paslaptis
 
-1. Kredito unijos paslaptimi laikomi visi kredito unijai žinomi kredito unijos kliento duomenys ir informacija apie:
-
-1) kredito unijos kliento turimas kredito unijoje sąskaitas, lėšų likučius šiose sąskaitose, kliento atliekamas operacijas su savo sąskaitoje esančiomis lėšomis, sutarčių, pagal kurias klientui buvo atidarytos sąskaitos, sąlygas;
-
-2) kredito unijos kliento skolinius įsipareigojimus kredito unijai, sutarčių, pagal kurias atsirado šie skoliniai įsipareigojimai, sąlygas;
-
-3) kitas kredito unijos klientui suteiktas finansines paslaugas, sutarčių, pagal kurias teikiamos finansinės paslaugos, sąlygas;
-
-4) kredito unijos kliento finansinę būklę ir turtą, veiklą, veiklos planus, skolinius įsipareigojimus kitiems asmenims ar sandorius su kitais asmenimis, kliento komercines (gamybos) ar profesines paslaptis.
-
-2. Kredito unija, kredito unijos darbuotojai ir bet kurie kiti asmenys, kurie žino kredito unijos paslaptį sudarančią informaciją, privalo neribotą laiką neatskleisti tokios informacijos, išskyrus šio straipsnio 3-5 dalyse ir kituose įstatymuose nustatytus atvejus.
-
-3. Kredito unijos klientui arba kliento rašytiniu prašymu, kuriame nurodyta, kam ir kokia informacija turi būti pateikta, gali būti atskleista tik su klientu susijusi kredito unijos paslaptį sudaranti informacija.
-
-4. Kredito unija turi teisę atskleisti informaciją, sudarančią kredito unijos paslaptį, teismui ar kitiems asmenims, jei tai būtina ginant kredito unijos teisėtus interesus ir tik tiek, kiek tai būtina savo interesams ginti.
-
-5. Kredito unija teikia kredito unijos paslaptį sudarančią informaciją Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme nurodytoms institucijoms, taip pat įstatymų nustatyta tvarka kitiems asmenims, jei pagal šį ir (ar) kitus įstatymus kredito unija privalo teikti joms tokią informaciją.
-
 50 straipsnis. Su finansinių paslaugų teikimu susijusios informacijos teikimas
 
 1. Vietose, kuriose kredito unija teikia finansines paslaugas klientams, kiekvienam galimam klientui laisvai prieinamoje vietoje privalo būti nurodytas kredito unijos pavadinimas ir finansinės paslaugos, kurias turi teisę teikti kredito unija, taip pat turi būti sudarytos sąlygos viešai susipažinti su šio straipsnio 2 dalyje nurodyta informacija.
@@ -1334,13 +1316,11 @@ Straipsnio pakeitimai:
 
 Nr. XII-1047, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10853
 
-55 straipsnis. Kredito unijų priežiūros institucija
+Kredito unijos paslapties apsaugai mutatis mutandis taikomas Lietuvos Respublikos bankų įstatymo 55 straipsnis.
 
-1. Kredito unijų priežiūros institucija yra Lietuvos bankas.
+Straipsnio pakeitimai:
 
-2. Priežiūros institucija atlieka šio įstatymo nustatyta tvarka išduotą licenciją turinčių kredito unijų priežiūrą.
-
-3. Priežiūra atliekama vadovaujantis šiuo įstatymu, Lietuvos Respublikos finansų įstaigų įstatymu, Lietuvos Respublikos Lietuvos banko įstatymu ir priežiūros institucijos teisės aktais.
+Nr. XII-1901, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10788
 
 56 straipsnis. Priežiūros tikslams gautos informacijos apsauga
 
@@ -1899,6 +1879,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1728, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08226
 
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 48-1 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1901, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10788
+
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 49 straipsnio pakeitimo įstatymas
 
 54 straipsnis. Reikalavimai auditoriui ir audito įmonei, jų pareigos ir atsakomybė
 
