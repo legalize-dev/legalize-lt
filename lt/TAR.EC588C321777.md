@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2015-06-17"
+last_updated: "2015-07-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-06-17 iki 2015-07-03
+Suvestinė redakcija nuo 2015-07-04 iki 2015-07-09
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -3057,7 +3057,11 @@ Kardomosios priemonės
 
 149 straipsnis. Kratos ir poėmio tvarka
 
-1. Pareigūnas, pradėdamas kratą ir poėmį, privalo paskelbti nutartį ar nutarimą dėl kratos ar poėmio, po to pareikalauti atiduoti nutartyje ar nutarime nurodytus daiktus ar dokumentus arba nurodyti besislapstančio asmens buvimo vietą.
+1. Pareigūnas, pradėdamas kratą ir poėmį, privalo paskelbti nutartį ar nutarimą dėl kratos ar poėmio ir vieną nutarties ar nutarimo dėl kratos ar poėmio nuorašą įteikti asmeniui, pas kurį daroma krata. Po to pareigūnas privalo pareikalauti atiduoti nutartyje ar nutarime nurodytus daiktus ar dokumentus arba nurodyti besislapstančio asmens buvimo vietą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1877, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10781
 
 2. Darydamas kratą ar poėmį, pareigūnas turi teisę atidaryti užrakintas patalpas ir talpyklas, jeigu atidaryti jas atsisakoma. Pareigūnas turi vengti nereikalingo užraktų, durų ir kitų daiktų gadinimo.
 
