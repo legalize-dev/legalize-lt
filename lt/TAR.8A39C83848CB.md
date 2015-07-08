@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2015-04-09"
+last_updated: "2015-07-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2015-04-09 iki 2015-07-07
+Suvestinė redakcija nuo 2015-07-08 iki 2015-07-09
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -1389,7 +1389,11 @@ Nr. XII-1066, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10460
 
 1. Civilinio kodekso 3.24, 3.25, 3.304 straipsniuose nustatytos normos dėl bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų oficialios apskaitos taikomos toms santuokoms, kurios sudaromos įsigaliojus šiam kodeksui.
 
-2. Nuo Lietuvos Respublikos Konstitucijos įsigaliojimo iki Civilinio kodekso įsigaliojimo bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų registravimo duomenis religinės bendruomenės ir bendrijos perduoda civilinės metrikacijos įstaigoms Lietuvos Respublikos Vyriausybės ir religinių organizacijų susitarimo nustatyta tvarka.
+2. Nuo Lietuvos Respublikos Konstitucijos įsigaliojimo iki Civilinio kodekso įsigaliojimo bažnyčios (konfesijų) nustatyta tvarka sudaryta santuoka sutuoktinių arba vieno iš jų prašymu įtraukiama į apskaitą, jeigu ši santuoka jos sudarymo metu pagal galiojusį teisinį reguliavimą atitiko santuokos sudarymo sąlygas ir po santuokos sudarymo bažnyčios (konfesijų) nustatyta tvarka nebuvo įregistruota nė vieno iš bažnytiniame santuokos dokumente nurodytų sutuoktinių santuoka civilinės metrikacijos įstaigoje. Tokios santuokos pradžia laikoma bažnytiniame santuokos dokumente nurodyta data. Jeigu santuokos įtraukimo į apskaitą metu vienas iš sutuoktinių yra miręs, civilinės metrikacijos įstaiga įrašo atkurtąjį santuokos sudarymo įrašą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1881, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11082
 
 47 straipsnis. Civilinio kodekso šeštosios knygos XXII skyriaus normų taikymas
 
@@ -9982,4 +9986,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1580, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05376
 
 Lietuvos Respublikos civilinio kodekso 6.623 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1881, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11082
+
+Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo Nr. VIII-1864 21 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1928, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11103
+
+Lietuvos Respublikos civilinio kodekso 5.50, 5.57 ir 5.63 straipsnių pakeitimo įstatymas
 
