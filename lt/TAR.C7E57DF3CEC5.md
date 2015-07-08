@@ -4,7 +4,7 @@ identifier: "TAR.C7E57DF3CEC5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-07"
-last_updated: "2015-02-01"
+last_updated: "2015-07-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2015-02-01 iki 2015-07-07
+Suvestinė redakcija nuo 2015-07-08 iki 2015-10-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
 
@@ -255,7 +255,11 @@ VALSTYBINĖ INVESTAVIMO POLITIKA
 
 12 straipsnis. Valstybinė investicijų politika
 
-1. Valstybė sudaro palankias sąlygas privačioms investicijoms bei užtikrina efektyvų valstybės lėšų, skirtų investicijoms, panaudojimą siekiant valstybės ekonominės ir socialinės plėtros.
+1. Valstybė sudaro palankias sąlygas privačioms investicijoms ir užtikrina efektyvų valstybės lėšų, skirtų investicijoms ar jų skatinimui, panaudojimą siekiant valstybės ekonominės ir socialinės plėtros.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1898, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11088
 
 2. Valstybė remia investicijas 13 straipsnyje nustatytais būdais, kai:
 
@@ -290,6 +294,24 @@ Straipsnio dalies pakeitimai:
 Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010ISTA0IX-1645
 
 3. Valstybė, atsižvelgdama į Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus parametrus, gali skirti lėšų bei suteikti paskolas ir paskolų garantijas investicijoms ūkio sektoriams restruktūrizuoti, ekonominiams bei socialiniams skirtumams tarp atskirų šalies regionų sumažinti, naujoms darbo vietoms kurti bei stichinių nelaimių padariniams likviduoti.
+
+4. Valstybė, siekdama skatinti investicijas smulkiojo ir vidutinio verslo ir ūkio subjektų veiklos pradžios, vykdymo ir plėtros, būsto ir viešosios infrastruktūros objektų atnaujinimo, energijos vartojimo efektyvumo, žemės ūkio produktų gamybos ir perdirbimo srityse, gali skirti lėšų finansinėms priemonėms įgyvendinti ir (arba) fondų fondams valdyti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1898, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11088
+
+5. Valdyti fondų fondą arba įgyvendinti finansines priemones, kai fondų fondas nesteigiamas, Lietuvos Respublikos Vyriausybė paveda Lietuvos Respublikos Vyriausybės įsteigtoms ir valstybės valdomoms finansų įstaigoms, išskyrus atvejus, kai fondų fondą valdo ir (arba) finansines priemones įgyvendina, jei fondų fondas nesteigiamas, tarptautinės finansų institucijos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1898, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11088
+
+6. Šio straipsnio 4 ir 5 dalyse nurodytos finansinės priemonės suprantamos kaip nacionalinio biudžeto, Europos Sąjungos, tarptautinių finansų institucijų ir (ar) kitomis lėšomis įgyvendinamos paskolų, garantijų, rizikos kapitalo investicijų arba kitos priemonės, kurioms finansuoti ir (ar) įgyvendinti skirtos lėšos (ar jų dalis) grįžta ir pakartotinai naudojamos tiems patiems finansinės priemonės kūrimo metu nustatytiems tikslams, o fondų fondas suprantamas kaip fondas, skirtas finansinėms priemonėms įgyvendinti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1898, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11088
 
 13 straipsnis. Investavimo skatinimas
 
@@ -538,6 +560,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1082, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10852
 
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 13 straipsnio pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1898, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11088
+
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12 straipsnio pakeitimo įstatymas
 
 151 straipsnis. Valdžios ir privataus subjektų partnerystės sutarties samprata
 
