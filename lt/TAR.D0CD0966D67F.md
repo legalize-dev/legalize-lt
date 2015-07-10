@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2015-07-01"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-07-09
+Suvestinė redakcija nuo 2015-07-10 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -763,7 +763,11 @@ Nr. XII-1621, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06522
 
 27) sprendimų dėl savivaldybei priskirtos valstybinės žemės ir kito valstybės turto valdymo, naudojimo ir disponavimo juo patikėjimo teise priėmimas;
 
-28) sprendimų dėl paskolų ėmimo ir garantijų teikimo už ilgalaikes paskolas priėmimas; šios paskolos naudojamos tik investicijų projektams finansuoti pagal Vyriausybės nustatytą tvarką, laikantis įstatymų nustatytų skolinimosi limitų ir gavus savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) išvadą;
+28) sprendimų dėl paskolų ėmimo ir garantijų teikimo už ilgalaikes paskolas priėmimas; šios paskolos naudojamos tik investicijų projektams, tarp jų pagal Vyriausybės patvirtintas programas savivaldybių įgyvendinamiems energijos vartojimo efektyvumo didinimo projektams, finansuoti pagal Vyriausybės nustatytą tvarką, laikantis įstatymų nustatytų skolinimosi limitų ir gavus savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) išvadą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1932, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11214
 
 29) sprendimų dėl koncesijų suteikimo tikslingumo priėmimas; gavus savivaldybės kontrolieriaus išvadą iki konkurso paskelbimo, koncesijos konkurso sąlygų ir pagrindinės koncesijos sutarties sąlygų tvirtinimas, konkurso etapų nustatymas ir, gavus savivaldybės kontrolieriaus išvadą, pritarimas galutiniam koncesijos sutarties projektui iki koncesijos sutarties pasirašymo;
 
@@ -1838,6 +1842,12 @@ TURTAS IR FINANSAI
 6. Papildomos ir planą viršijančios biudžeto pajamos, gautos vykdant biudžetą, taip pat sutaupytos lėšos (išlaidos) lieka savivaldybėms, išskyrus kitus įstatymuose nustatytus atvejus.
 
 7. Lėšos valstybinėms (valstybės perduotoms savivaldybėms) funkcijoms atlikti skiriamos iš valstybės biudžeto arba valstybės piniginių fondų ir pervedamos savivaldybėms kaip specialioji tikslinė dotacija.
+
+8. Savivaldybių biudžetų lėšos, skirtos investicijoms įgyvendinant savivaldybių energijos vartojimo efektyvumo didinimo projektus jų įgyvendinimo laikotarpiu pagal Vyriausybės patvirtintas programas, naudojamos pagal jų paskirtį tik šiose programose nurodytiems tikslams ir sąlygomis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1932, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11214
 
 Straipsnio pakeitimai:
 
