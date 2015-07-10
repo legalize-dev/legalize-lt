@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "2015-07-01"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-07-09
+Suvestinė redakcija nuo 2015-07-10 iki 2015-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
 
@@ -648,9 +648,13 @@ MOKYKLŲ, PAGALBOS ĮSTAIGŲ STEIGIMAS, VEIKLA, PABAIGA IR PERTVARKYMAS
 
 2. Bendrojo ugdymo mokyklų tipai yra: pradinė mokykla, progimnazija, pagrindinė mokykla, vidurinė mokykla, gimnazija.
 
-Redakcija nuo 2015-09-01:
+2 dalies redakcija nuo 2017-09-01:
 
 2. Bendrojo ugdymo mokyklų tipai yra: pradinė mokykla, progimnazija, pagrindinė mokykla, gimnazija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
 
 3. Pradinės mokyklos tipui priskiriamos mokyklos, vykdančios pradinio ugdymo programą.
 
@@ -660,7 +664,11 @@ Redakcija nuo 2015-09-01:
 
 6. Vidurinės mokyklos tipui priskiriamos mokyklos, vykdančios vidurinio ugdymo programą ar vidurinio ir pagrindinio ugdymo programas arba vidurinio, pagrindinio ir pradinio ugdymo programas.
 
-Pastaba. 6 dalis pripažįstama netekusia galios 2015-09-01.
+6 dalis pripažįstama netekusia galios 2017-09-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
 
 7. Gimnazijos tipui priskiriamos mokyklos, vykdančios švietimo ir mokslo ministro nustatyta tvarka akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programos antrąją dalį. Atskiru atveju (mokykla gyvenamosiose vietovėse, kuriose nėra kitų vidurinio ugdymo programą lietuvių ar (ir) tautinės mažumos kalba vykdančių bendrojo ugdymo mokyklų, arba bendrojo ugdymo mokykla, pagal Vyriausybės patvirtintus kriterijus priskirta miesto pakraščio mokyklai; pasienio ruože esanti bendrojo ugdymo mokykla; nevalstybinė mokykla; mokykla, skirta šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių; mokykla, vykdanti specializuoto ugdymo krypties programą, kuriai reikalingas ugdymo nuoseklumas, ir atitinkanti Vyriausybės patvirtintus kriterijus) gimnazija gali vykdyti akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programą ar akredituotą vidurinio ugdymo programą, pagrindinio ugdymo programą ir pradinio ugdymo programą vadovaudamasi šio įstatymo 28 straipsnio nuostatomis ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis.
 
@@ -1645,6 +1653,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
 
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 53, 56 straipsnių pakeitimo ir Įstatymo papildymo 56-1, 56-2 straipsniais įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
+
+Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymo Nr. XI-1281 3 straipsnio pakeitimo įstatymas
 
 73 straipsnis.
 
