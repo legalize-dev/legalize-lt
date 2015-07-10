@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2015-07-04"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-07-04 iki 2015-07-09
+Suvestinė redakcija nuo 2015-07-10 iki 2015-07-10
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -99,17 +99,19 @@ Kai asmuo įtariamas padaręs kelias nusikalstamas veikas, iš kurių viena ar k
 
 1. Byla teisme nagrinėjama tik dėl tų kaltinamųjų ir tik dėl tų nusikalstamų veikų, dėl kurių ji perduota nagrinėti teisiamajame posėdyje.
 
-2. Kaltinamasis negali būti nuteistas pagal kitą baudžiamąjį įstatymą, numatantį sunkesnį nusikaltimą ar baudžiamąjį nusižengimą, arba dėl nusikalstamos veikos, kurios faktinės aplinkybės iš esmės skiriasi nuo kaltinamajame akte išdėstytųjų, jeigu apie tokią galimybę teisiamajame posėdyje jam iš anksto nebuvo pranešta.
+2. Kaltinamasis negali būti nuteistas dėl nusikalstamos veikos, kuri buvo perkvalifikuota, arba dėl nusikalstamos veikos, kurios faktinės aplinkybės iš esmės skiriasi nuo kaltinamajame akte išdėstytųjų, jeigu apie tokią galimybę teisiamajame posėdyje jam iš anksto nebuvo pranešta.
 
-Pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo proceso kodekso 255 straipsnio 2 dalis (2003 m. balandžio 10 d. redakcija; Žin., 2003, Nr. 38-1734) tiek, kiek joje nenustatyta, kad kaltinamasis negali būti nuteistas pagal kitą baudžiamąjį įstatymą, numatantį lengvesnį nusikaltimą ar baudžiamąjį nusižengimą, kuriame nustatyti kitokie ar nauji nusikalstamos veikos požymiai ar kitos veikos kvalifikavimui reikšmingos aplinkybės, palyginti su nustatytosiomis kaltinamajame akte nurodytame baudžiamajame įstatyme, jeigu apie tokią galimybę teisiamajame posėdyje jam iš anksto nebuvo pranešta, prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 2, 6 dalims, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
 
-Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-
-2013-11-15, Žin., 2013, Nr. 119-6005 (2013-11-20)
+Nr. XII-1848, 2015-06-23, paskelbta TAR 2015-07-09, i. k. 2015-11213
 
 Straipsnio pakeitimai:
 
 Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+2013-11-15, Žin., 2013, Nr. 119-6005 (2013-11-20)
 
 262 straipsnis. Teisiamojo posėdžio pradžia
 
@@ -883,13 +885,19 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 Nr. XII-1017, 2014-07-10, paskelbta TAR 2014-07-18, i. k. 2014-10348
 
-91 straipsnis. Daiktai, turintys reikšmės nusikalstamai veikai tirti ir nagrinėti
+91 straipsnis. Bylos medžiagos viešumas
 
-Daiktais, turinčiais reikšmės nusikalstamai veikai tirti ir nagrinėti, laikomi materialūs objektai, kurie buvo nusikalstamos veikos padarymo įrankiais ar priemonėmis, nusikalstamos veikos rezultatais arba ant kurių išliko nusikalstamos veikos pėdsakų, arba kurie buvo kaltininko nusikalstamų veikų objektais, taip pat visi kiti daiktai, kurie gali būti priemonėmis nusikalstamai veikai atskleisti ir kaltininkams nustatyti arba kaltinimui paneigti ar atsakomybei palengvinti.
+1. Išnagrinėtos bylos medžiaga, išskyrus medžiagą tų bylų ar jų dalių, kurios buvo išnagrinėtos neviešame teismo posėdyje, yra vieša ir su ja gali susipažinti ir byloje nedalyvavę asmenys. Šią teisę byloje nedalyvavę asmenys įgyja, kai teismo nuosprendis ar teismo procesą užbaigianti nutartis įsiteisėja, o jeigu byla gali būti nagrinėjama kasacine tvarka, – ją išnagrinėjus kasacine tvarka arba pasibaigus apskundimo kasacine tvarka terminui.
 
-Straipsnio pakeitimai:
+2. Viešame posėdyje priimdamas nuosprendį ar teismo procesą užbaigiančią nutartį, teismas turi teisę dalyvaujančių byloje asmenų prašymu ar savo iniciatyva motyvuota nutartimi nustatyti, kad bylos medžiaga ar jos dalis yra nevieša, kai reikia apsaugoti žmogaus asmens, jo privataus gyvenimo ir nuosavybės slaptumą, informacijos apie žmogaus sveikatą konfidencialumą ir kitais šio kodekso 9 straipsnio 3 dalyje nurodytais atvejais, taip pat kai yra rimtas pagrindas manyti, kad bus atskleista valstybės, tarnybos, profesinė ar komercinė paslaptis.
 
-Nr. XI-1200, 2010-12-02, Žin., 2010, Nr. 145-7440 (2010-12-11)
+3. Norėdamas susipažinti su išnagrinėtos bylos medžiaga, asmuo pateikia nustatytos formos prašymą. Prašymo formą ir susipažinimo su išnagrinėtų bylų medžiaga tvarką nustato teisingumo ministras, suderinęs su Lietuvos vyriausiuoju archyvaru.
+
+4. Su bylos medžiaga, sudarančia valstybės ar tarnybos paslaptį, turi teisę susipažinti asmenys, kuriems ši teisė yra suteikta vadovaujantis įstatymais ir kuriems tokios informacijos reikia jų pareigoms atlikti.
+
+Papildyta straipsniu:
+
+Nr. XII-1848, 2015-06-23, paskelbta TAR 2015-07-09, i. k. 2015-11213
 
 92 straipsnis. Daiktų, turinčių reikšmės nusikalstamai veikai tirti ir nagrinėti, procesinis įforminimas ir laikymo tvarka
 
@@ -3485,21 +3493,11 @@ Nr. XII-1080, 2014-07-17, paskelbta TAR 2014-07-22, i. k. 2014-10422
 
 256 straipsnis. Kaltinime nurodytos veikos esminių faktinių aplinkybių ir jos kvalifikavimo pakeitimas teisme
 
-1. Prokuroras, privatus kaltintojas ir nukentėjusysis turi teisę iki įrodymų tyrimo teisme pabaigos pateikti rašytinį prašymą kaltinime nurodytos veikos faktines aplinkybes pakeisti iš esmės skirtingomis. Šiame prašyme turi būti išdėstytos šios iš esmės skirtingos faktinės aplinkybės. Teismas, gavęs tokį prašymą, apie tai nedelsdamas praneša kaltinamajam. Šio prašymo nuorašai įteikiami nagrinėjimo teisme dalyviams. Išnagrinėjus baudžiamąją bylą, nuosprendyje gali būti paliekamos ir kaltinamajame akte nurodytos faktinės veikos aplinkybės.
+1. Prokuroras, privatus kaltintojas ir nukentėjusysis turi teisę iki įrodymų tyrimo teisme pabaigos pateikti rašytinį prašymą kaltinime nurodytos veikos faktines aplinkybes pakeisti iš esmės skirtingomis. Šiame prašyme turi būti išdėstytos šios iš esmės skirtingos faktinės aplinkybės. Teismas, gavęs tokį prašymą, taip pat tais atvejais, kai yra pagrindas manyti, kad kaltinime nurodytos veikos faktinės aplinkybės gali būti pakeistos iš esmės skirtingomis, apie tai nedelsdamas praneša nagrinėjimo teisme dalyviams. Jeigu yra gautas prokuroro, privataus kaltintojo ar nukentėjusiojo prašymas kaltinime nurodytos veikos faktines aplinkybes pakeisti iš esmės skirtingomis, šio prašymo nuorašai įteikiami nagrinėjimo teisme dalyviams. Išnagrinėjus baudžiamąją bylą, nuosprendyje gali būti paliekamos ir kaltinamajame akte nurodytos veikos faktinės aplinkybės.
 
-2. Prokuroras, privatus kaltintojas ir nukentėjusysis turi teisę iki įrodymų tyrimo teisme pabaigos pateikti rašytinį prašymą pakeisti kaltinime nurodytos veikos kvalifikavimą pritaikant baudžiamąjį įstatymą, numatantį sunkesnę nusikalstamą veiką. Teismas, gavęs tokį prašymą, taip pat kitais atvejais, kai yra pagrindas manyti, kad kaltinime nurodyta veika gali būti kvalifikuojama pagal baudžiamąjį įstatymą, numatantį sunkesnę nusikalstamą veiką, apie tokią galimybę nedelsdamas praneša nagrinėjimo teisme dalyviams. Minėto prašymo nuorašai įteikiami kaltinamajam, jo gynėjui ir kitiems nagrinėjimo teisme dalyviams. Išnagrinėjus baudžiamąją bylą, kaltinamasis gali būti pripažintas kaltu ir remiantis kaltinamajame akte pateiktu veikos kvalifikavimu.
+2. Prokuroras, privatus kaltintojas ir nukentėjusysis turi teisę iki įrodymų tyrimo teisme pabaigos pateikti rašytinį prašymą pakeisti kaltinime nurodytos veikos kvalifikavimą. Teismas, gavęs tokį prašymą, taip pat tais atvejais, kai yra pagrindas manyti, kad kaltinime nurodyta veika gali būti perkvalifikuota, apie šią galimybę nedelsdamas praneša nagrinėjimo teisme dalyviams. Jeigu yra gautas prokuroro, privataus kaltintojo ar nukentėjusiojo prašymas pakeisti kaltinime nurodytos veikos kvalifikavimą, šio prašymo nuorašai įteikiami kaltinamajam, jo gynėjui ir kitiems nagrinėjimo teisme dalyviams. Išnagrinėjus baudžiamąją bylą, kaltinamasis gali būti pripažintas kaltu ir remiantis kaltinamajame akte pateiktu veikos kvalifikavimu.
 
 3. Šio straipsnio 1 ir 2 dalyse nurodytais atvejais teismas praneša kaltinamajam ir jo gynėjui apie teisę prašyti pertraukos pasirengti gynybai. Patenkinęs tokį prašymą, teismas nustato konkretų pertraukos laiką.
-
-4. Šio straipsnio 1, 2 ir 3 dalių nuostatos netaikomos, kai kaltinime nurodyta veika perkvalifikuojama pagal baudžiamąjį įstatymą, numatantį lengvesnį nusikaltimą ar baudžiamąjį nusižengimą, jeigu iš esmės nesikeičia faktinės nusikalstamos veikos aplinkybės.
-
-Pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo proceso kodekso 256 straipsnio 1 dalis (2007 m. birželio 28 d. redakcija, Žin., 2007, Nr. 81-3312; 2011 m. gruodžio 22 d. redakcija, Žin., 2011, Nr. 164-7797) tiek, kiek joje nenustatyta, kad teismas savo iniciatyva kaltinime nurodytos veikos faktines aplinkybes gali pakeisti iš esmės skirtingomis, prieštarauja (prieštaravo) Lietuvos Respublikos Konstitucijos 31 straipsnio 2 daliai, 109 straipsnio 1 daliai, konstituciniams teisingumo, teisinės valstybės principams.
-
-Pripažinti, kad Lietuvos Respublikos baudžiamojo proceso kodekso 256 straipsnio 4 dalis (2011 m. gruodžio 22 d. redakcija; Žin., 2011, Nr. 164-7797) tiek, kiek joje nustatyta, kad Baudžiamojo proceso kodekso 256 straipsnio 1, 2 ir 3 dalių nuostatos netaikomos kaltinime nurodytą veiką perkvalifikuojant pagal baudžiamąjį įstatymą, numatantį lengvesnį nusikaltimą ar baudžiamąjį nusižengimą, kuriame nustatyti kitokie ar nauji nusikalstamos veikos požymiai ar kitos veikos kvalifikavimui reikšmingos aplinkybės, palyginti su nustatytosiomis kaltinamajame akte nurodytame baudžiamajame įstatyme, jeigu iš esmės nesikeičia faktinės nusikalstamos veikos aplinkybės, prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 2, 6 dalims, konstituciniam teisinės valstybės principui.
-
-Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-
-2013-11-15, Žin., 2013, Nr. 119-6005 (2013-11-20)
 
 Straipsnio pakeitimai:
 
@@ -3508,6 +3506,14 @@ Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 Nr. XI-1852, 2011-12-22, Žin., 2011, Nr. 164-7797 (2011-12-31)
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+2013-11-15, Žin., 2013, Nr. 119-6005 (2013-11-20)
+
+Straipsnio pakeitimai:
+
+Nr. XII-1848, 2015-06-23, paskelbta TAR 2015-07-09, i. k. 2015-11213
 
 287 straipsnis. Teismo teisė atlikti bet kokį proceso veiksmą
 
