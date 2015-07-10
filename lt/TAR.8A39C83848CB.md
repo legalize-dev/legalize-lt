@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2015-07-08"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2015-07-08 iki 2015-07-09
+Suvestinė redakcija nuo 2015-07-10 iki 2015-07-14
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -3193,7 +3193,11 @@ SANTUOKOS REGISTRAVIMAS
 
 3.298 straipsnis. Santuokos registravimo vieta
 
-Santuoka registruojama vieno iš susituokiančiųjų arba jų tėvų gyvenamosios vietos civilinės metrikacijos įstaigose, taip pat Lietuvos Respublikos konsulinėse įstaigose.
+Santuoka registruojama civilinės metrikacijos įstaigose, taip pat Lietuvos Respublikos konsulinėse įstaigose.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1880, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11206
 
 3.301 straipsnis. Santuokos registravimo laikas
 
@@ -3203,7 +3207,13 @@ Santuoka registruojama vieno iš susituokiančiųjų arba jų tėvų gyvenamosio
 
 3.302 straipsnis. Prašymo įregistruoti santuoką viešas skelbimas
 
-1. Prašymo įregistruoti santuoką padavimo faktas skelbiamas viešai civilinės metrikacijos įstaigoje ne vėliau kaip dvi savaitės iki santuokos registravimo dienos.
+1. Prašymo įregistruoti santuoką padavimo faktas skelbiamas viešai teisingumo ministro nustatyta tvarka ne vėliau kaip prieš dvi savaites iki santuokos registravimo dienos.
+
+TAR pastaba. Iki įstatymo Nr. XII-1880 įsigaliojimo (2015-07-10) pateikti, bet civilinės metrikacijos įstaigoje viešai nepaskelbti prašymai įregistruoti santuoką skelbiami šio įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1880, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11206
 
 2. Skelbime nurodoma ketinančių susituokti asmenų vardai, pavardės, gimimo data ir būsimos santuokos registravimo data.
 
@@ -4287,7 +4297,11 @@ Banko indėlis
 
 3.299 straipsnis. Prašymas įregistruoti santuoką
 
-1. Norintys susituokti asmeniškai paduoda nustatytos formos prašymą vieno iš jų arba jų tėvų gyvenamosios vietos civilinės metrikacijos įstaigai savo pasirinkimu.
+1. Norintys susituokti asmeniškai paduoda nustatytos formos prašymą pasirinktai civilinės metrikacijos įstaigai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1880, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11206
 
 2. Prašyme jie turi patvirtinti, kad yra įvykdytos visos šio kodekso 3.12–3.17 straipsniuose numatytos santuokos sudarymo sąlygos, taip pat nurodyti, kelintą kartą kiekvienas iš jų tuokiasi ir kiek turi vaikų.
 
@@ -10002,4 +10016,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1928, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11103
 
 Lietuvos Respublikos civilinio kodekso 5.50, 5.57 ir 5.63 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1880, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11206
+
+Lietuvos Respublikos civilinio kodekso 3.298, 3.299 ir 3.302 straipsnių pakeitimo įstatymas
 
