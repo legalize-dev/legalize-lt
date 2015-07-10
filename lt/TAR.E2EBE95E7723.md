@@ -4,7 +4,7 @@ identifier: "TAR.E2EBE95E7723"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-03-17"
-last_updated: "2011-07-01"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2EBE95E7723"
 department: "Lietuvos Respublikos Seimas"
@@ -17,6 +17,10 @@ entry_into_force_conditions: "2 straipsnio 1 dalis įsigalioja 2011 m. kovo 31 d
 # Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Suvestinė redakcija nuo 2015-07-10
+
+Įstatymas paskelbtas: Žin. 2011, Nr. 38-1804, i. k. 1111010ISTA0XI-1281
 
 LIETUVOS RESPUBLIKOS  ŠVIETIMO ĮSTATYMO PAKEITIMO  ĮSTATYMAS
 
