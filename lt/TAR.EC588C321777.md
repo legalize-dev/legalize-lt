@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2015-07-10"
+last_updated: "2015-07-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-07-10 iki 2015-07-10
+Suvestinė redakcija nuo 2015-07-11 iki 2015-08-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -71,7 +71,11 @@ Baudžiamojo proceso terminai
 
 3) duomenys, leidžiantys manyti, kad įtariamasis padarė tą nusikalstamą veiką;
 
-4) tikslas, kurio siekiama skiriant kardomąją priemonę, o kai priimama nutartis skirti suėmimą, – suėmimo skyrimo sąlygos, vienas ar keli šio Kodekso 122 straipsnyje nustatyti suėmimo skyrimo pagrindai ir motyvai.
+4) tikslas, kurio siekiama skiriant kardomąją priemonę, o kai priimama nutartis skirti suėmimą, – suėmimo skyrimo sąlygos, vienas ar keli šio Kodekso 122 straipsnyje nustatyti suėmimo skyrimo pagrindai ir motyvai, taip pat faktinės aplinkybės ir motyvai, kuriais remiantis nebuvo skirtos švelnesnės kardomosios priemonės siekiant šio Kodekso 119 straipsnyje numatytų tikslų.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 
 3. Nutarimas ar nutartis skirti kardomąją priemonę paskelbiami įtariamajam pasirašytinai.
 
@@ -999,17 +1003,23 @@ Nr. XI-2003, 2012-05-10, Žin., 2012, Nr. 57-2826 (2012-05-19)
 
 2. Jeigu suimto asmens apklausoje negali dalyvauti gynėjas arba teismui negali būti pateikta visa suėmimo klausimui išspręsti reikalinga medžiaga, o teisėjas nemano, kad reikia šią kardomąją priemonę pakeisti ar ją panaikinti, jis laikinai palieka galioti nutartį skirti suėmimą ir nustato terminą, per kurį suimtasis turi būti pristatytas teisėjui pagal šio Kodekso 123 straipsnio 3 dalį sprendimui dėl tolesnio suėmimo.
 
-130 straipsnis. Suimtojo arba jo gynėjo teisė apskųsti nutartį paskirti suėmimą arba nutartį pratęsti suėmimo terminą
+130 straipsnis. Suimtojo arba jo gynėjo teisė apskųsti nutartį paskirti suėmimą arba nutartį pratęsti suėmimo terminą, arba nutartį atsisakyti skirti suėmimą ir skirti kitą kardomąją priemonę
 
-1. Suimtasis arba jo gynėjas turi teisę aukštesniajam teismui paduoti skundą dėl suėmimo paskyrimo bei dėl šios kardomosios priemonės termino pratęsimo. Skundą dėl suėmimo paskyrimo ar šios kardomosios priemonės termino pratęsimo galima paduoti per dvidešimt dienų nuo atitinkamos nutarties priėmimo. Skundas paduodamas per suėmimą paskyrusį ar jo terminą pratęsusį teismą, o šis privalo nedelsdamas perduoti skundą aukštesniajam teismui. Aukštesniojo teismo teisėjas privalo išnagrinėti skundą ne vėliau kaip per septynias dienas nuo jo gavimo dienos. Skundui dėl suėmimo paskyrimo nagrinėti rengiamas posėdis; į jį šaukiami suimtasis ir gynėjas ar vien tik gynėjas. Prokuroro dalyvavimas tokiame posėdyje būtinas. Prokuroras turi pateikti aukštesniajam teismui skundui nagrinėti reikalingą ikiteisminio tyrimo medžiagą. Jei skundas paduotas nagrinėjant bylą teisme, teismas, kurio nutartis apskųsta, privalo aukštesniajam teismui perduoti skundui nagrinėti reikalingą bylos medžiagą.
+1. Suimtasis arba jo gynėjas turi teisę aukštesniajam teismui paduoti skundą dėl suėmimo paskyrimo, dėl šios kardomosios priemonės termino pratęsimo ir dėl atsisakymo skirti suėmimą ir kitos kardomosios priemonės skyrimo. Skundą dėl suėmimo paskyrimo ar šios kardomosios priemonės termino pratęsimo arba dėl atsisakymo skirti suėmimą ir kitos kardomosios priemonės skyrimo galima paduoti per dvidešimt dienų nuo atitinkamos nutarties priėmimo. Skundas paduodamas per suėmimą paskyrusį ar jo terminą pratęsusį teismą, o šis privalo nedelsdamas perduoti skundą aukštesniajam teismui. Aukštesniojo teismo trijų teisėjų kolegija privalo išnagrinėti skundą ne vėliau kaip per septynias dienas nuo jo gavimo dienos. Skundui nagrinėti rengiamas posėdis; į jį šaukiami suimtasis ir gynėjas ar vien tik gynėjas. Prokuroro dalyvavimas šiame posėdyje būtinas. Prokuroras turi pateikti aukštesniajam teismui skundui nagrinėti reikalingą ikiteisminio tyrimo medžiagą. Suimtasis, kuris dalyvauja šioje dalyje nurodytame posėdyje, ir gynėjas turi teisę susipažinti su visa prokuroro pateikta medžiaga. Jei skundas paduotas nagrinėjant bylą teisme, teismas, kurio nutartis apskųsta, privalo aukštesniajam teismui perduoti skundui nagrinėti reikalingą bylos medžiagą.
 
-2. Aukštesniojo teismo teisėjo priimta nutartis yra galutinė ir neskundžiama.
+2. Išnagrinėjęs skundą, aukštesnysis teismas priima nutartį paskirtą suėmimą arba pratęstą suėmimo terminą palikti galioti arba pakeisti suėmimo terminą, arba pakeisti suėmimą kita kardomąja priemone, arba suėmimą panaikinti. Aukštesniojo teismo trijų teisėjų kolegijos priimta nutartis yra galutinė ir neskundžiama.
 
 3. Jei suėmimas paskiriamas ar jo terminas pratęsiamas nagrinėjant bylą Lietuvos apeliaciniame teisme, skundus dėl suėmimo paskyrimo ir pratęsimo nagrinėja Lietuvos apeliacinio teismo trijų teisėjų kolegija, į kurios sudėtį negali įeiti tą bylą nagrinėjantys teisėjai.
+
+TAR pastaba. Lietuvos Respublikos baudžiamojo proceso kodekso 130 straipsnyje nustatyta tvarka iki 2015 m. birželio 25 d. įstatymo Nr. XII-1878 įsigaliojimo (2015-07-11) paduoti skundai nagrinėjami pagal iki šio įstatymo įsigaliojimo galiojusią tvarką.
 
 Straipsnio pakeitimai:
 
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
+
+Straipsnio pakeitimai:
+
+Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 
 135 straipsnis. Įtariamojo įpareigojimas periodiškai registruotis policijos įstaigoje
 
@@ -1227,7 +1237,11 @@ Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
 
 1. Įtariamasis ir jo gynėjas, nukentėjusysis ir jo atstovas ikiteisminio tyrimo metu bet kuriuo momentu turi teisę susipažinti su ikiteisminio tyrimo duomenimis, išskyrus proceso dalyvių asmens duomenis, saugomus atskirai nuo kitos ikiteisminio tyrimo medžiagos, taip pat susipažinimo metu daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus. Rašytinis prašymas susipažinti su ikiteisminio tyrimo medžiaga ar susipažinimo metu daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus pateikiamas prokurorui. Prokuroras privalo išnagrinėti prašymą ne vėliau kaip per septynias dienas nuo jo gavimo dienos, o kai prašymui išnagrinėti reikalinga ikiteisminio tyrimo medžiaga, – per septynias dienas nuo šios medžiagos gavimo. Prokuroras turi teisę neleisti susipažinti su visais ikiteisminio tyrimo duomenimis ar jų dalimi, taip pat neleisti daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus, jei toks susipažinimas, prokuroro manymu, galėtų pakenkti ikiteisminio tyrimo sėkmei. Atsisakydamas leisti susipažinti su visais ikiteisminio tyrimo duomenimis ar jų dalimi, taip pat atsisakydamas leisti daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus, prokuroras privalo surašyti motyvuotą nutarimą. Šis nutarimas per septynias dienas nuo jo nuorašo gavimo dienos gali būti apskųstas ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjas privalo tokį skundą išnagrinėti per septynias dienas nuo jo gavimo ir priimti nutartį. Ikiteisminio tyrimo teisėjo priimta nutartis neskundžiama.
 
-2. Prokuroras neturi teisės neleisti susipažinti su visais ikiteisminio tyrimo duomenimis, jei ikiteisminis tyrimas baigtas ir yra rašomas kaltinamasis aktas. Susipažinimo su ikiteisminio tyrimo medžiaga metu proceso dalyviai turi teisę šio straipsnio 1 ir 6 dalyse nustatyta tvarka daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus.
+2. Prokuroras neturi teisės neleisti susipažinti su visais ikiteisminio tyrimo duomenimis ar daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus, jei ikiteisminis tyrimas baigtas ir yra rašomas kaltinamasis aktas. Susipažinimo su ikiteisminio tyrimo medžiaga metu proceso dalyviai turi teisę šio straipsnio 1 ir 6 dalyse nustatyta tvarka daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus. Prokuroras taip pat neturi teisės neleisti įtariamajam ir jo gynėjui bet kuriuo ikiteisminio tyrimo metu susipažinti su prokuroro pateikta medžiaga, kuri yra ar buvo teikiama teismui prašant skirti ar pratęsti kardomąją priemonę, dėl kurios skyrimo sprendžia ikiteisminio tyrimo teisėjas ar teismas, ar daryti šios medžiagos dalies kopijas ar išrašus šio straipsnio 1 ir 6 dalyse nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 
 3. Jeigu įtariamasis yra suimtas, teisę susipažinti su ikiteisminio tyrimo duomenimis ir teisę daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus turi jo gynėjas, o atsisakius gynėjo – įtariamasis.
 
@@ -3455,9 +3469,9 @@ Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
 
 Nr. XII-1017, 2014-07-10, paskelbta TAR 2014-07-18, i. k. 2014-10348
 
-126 straipsnis. Nutarties atsisakyti skirti suėmimą, intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu turinys
+126 straipsnis. Nutarties atsisakyti skirti suėmimą, intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu ir nutarties atsisakyti skirti suėmimą ir skirti kitą kardomąją priemonę turinys
 
-Nutartyje atsisakyti skirti suėmimą, intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu turi būti nurodomi šio Kodekso 125 straipsnio 2 dalies 1 ir 2 punktuose išvardyti duomenys, taip pat motyvai, dėl kurių atsisakoma skirti suėmimą, intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu.
+Nutartyje atsisakyti skirti suėmimą, intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu ir nutartyje atsisakyti skirti suėmimą ir skirti kitą kardomąją priemonę turi būti nurodomi šio Kodekso 125 straipsnio 2 dalies 1 ir 2 punktuose išvardyti duomenys, taip pat faktinės aplinkybės ir motyvai, dėl kurių atsisakoma skirti suėmimą, intensyvią priežiūrą, namų areštą, įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu, arba faktinės aplinkybės ir motyvai, dėl kurių atsisakoma skirti suėmimą ir skiriama kita kardomoji priemonė.
 
 Straipsnio pakeitimai:
 
@@ -3468,6 +3482,8 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 Straipsnio pakeitimai:
 
 Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
+
+Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 
 186 straipsnis. Nepilnamečio liudytojo ir nukentėjusiojo apklausa
 
@@ -5061,7 +5077,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
 
-2. Kardomosios priemonės gali būti skiriamos tik tuo atveju, kai yra pakankamai duomenų, leidžiančių manyti, kad įtariamasis padarė nusikalstamą veiką.
+2. Kardomosios priemonės gali būti skiriamos tik tuo atveju, kai yra pakankamai duomenų, leidžiančių manyti, kad įtariamasis padarė nusikalstamą veiką. Kai kardomosios priemonės skyrimo klausimą sprendžia ikiteisminio tyrimo teisėjas ar teismas, iki teismo posėdžio asmuo, kuriam skiriama kardomoji priemonė, ir jo gynėjas turi teisę susipažinti su visa prokuroro pateikta medžiaga, kuria grindžiamas pareiškimas dėl kardomosios priemonės skyrimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 
 3. Vienu metu gali būti skiriamos kelios švelnesnės už suėmimą kardomosios priemonės.
 
@@ -5123,11 +5143,11 @@ Nr. IX-2170, 2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
 
 1. Suėmimas gali būti skiriamas įtariamajam, kuris nėra sulaikytas, ar įtariamajam, kuris yra sulaikytas šio Kodekso 140 straipsnyje nustatyta tvarka.
 
-2. Prokuroras, manydamas, kad įtariamajam, kuris nėra sulaikytas, būtina skirti suėmimą, kreipiasi su pareiškimu į tyrimo atlikimo vietos apylinkės teismo ikiteisminio tyrimo teisėją. Prokuroro pareiškime turi būti nurodyti šio Kodekso 125 straipsnio 2 dalyje nustatyti duomenys. Teisėjas, nusprendęs patenkinti prokuroro pareiškimą, priima nutartį skirti suėmimą, nusprendęs atsisakyti pareiškimą patenkinti, – nutartį atsisakyti skirti suėmimą.
+2. Prokuroras, manydamas, kad įtariamajam, kuris nėra sulaikytas, būtina skirti suėmimą, kreipiasi su pareiškimu į tyrimo atlikimo vietos apylinkės teismo ikiteisminio tyrimo teisėją. Prokuroro pareiškime turi būti nurodyti šio Kodekso 125 straipsnio 2 dalyje nustatyti duomenys. Teisėjas, nusprendęs patenkinti prokuroro pareiškimą, priima nutartį skirti suėmimą, nusprendęs atsisakyti pareiškimą patenkinti, – nutartį atsisakyti skirti suėmimą ar nutartį atsisakyti skirti suėmimą ir skirti kitą kardomąją priemonę.
 
-3. Remiantis šio straipsnio 2 dalyje nurodyta nutartimi suimtą asmenį ne vėliau kaip per keturiasdešimt aštuonias valandas nuo suėmimo momento prokuroras pristato ikiteisminio tyrimo teisėjui, o jeigu tokių galimybių nėra, – kitam tyrimo atlikimo vietos apylinkės teismo ikiteisminio tyrimo teisėjui. Teisėjas privalo pristatytą asmenį apklausti dėl suėmimo pagrįstumo. Suimto asmens apklausoje gali dalyvauti gynėjas ir prokuroras. Apklausęs suimtą asmenį, teisėjas priima vieną iš šių sprendimų: nutartį skirti suėmimą palikti galioti (šiuo atveju teisėjas nustato konkretų suėmimo terminą) arba pakeisti šią kardomąją priemonę ar ją panaikinti.
+3. Remiantis šio straipsnio 2 dalyje nurodyta nutartimi suimtą asmenį ne vėliau kaip per keturiasdešimt aštuonias valandas nuo suėmimo momento prokuroras pristato ikiteisminio tyrimo teisėjui, o jeigu tokių galimybių nėra, – kitam tyrimo atlikimo vietos apylinkės teismo ikiteisminio tyrimo teisėjui. Teisėjas privalo pristatytą asmenį apklausti dėl suėmimo pagrįstumo. Suimto asmens apklausoje dalyvauja gynėjas ir prokuroras. Apklausęs suimtą asmenį, teisėjas priima vieną iš šių sprendimų: nutartį skirti suėmimą palikti galioti (šiuo atveju teisėjas nustato konkretų suėmimo terminą) arba pakeisti šią kardomąją priemonę ar ją panaikinti.
 
-4. Šio Kodekso 140 straipsnyje nustatyta tvarka sulaikytą asmenį, kuriam reikia skirti suėmimą, prokuroras ne vėliau kaip per keturiasdešimt aštuonias valandas nuo sulaikymo momento kartu su pareiškimu dėl suėmimo pristato tyrimo atlikimo vietos apylinkės teismo ikiteisminio tyrimo teisėjui. Teisėjas privalo pristatytą asmenį apklausti dėl suėmimo pagrįstumo. Sulaikyto asmens apklausoje gali dalyvauti gynėjas ir prokuroras. Apklausęs sulaikytą asmenį, teisėjas patenkina prokuroro pareiškimą ir priima nutartį skirti suėmimą, kurioje nustatomas konkretus suėmimo terminas, arba atsisako patenkinti pareiškimą ir priima nutartį atsisakyti skirti suėmimą.
+4. Šio Kodekso 140 straipsnyje nustatyta tvarka sulaikytą asmenį, kuriam reikia skirti suėmimą, prokuroras ne vėliau kaip per keturiasdešimt aštuonias valandas nuo sulaikymo momento kartu su pareiškimu dėl suėmimo pristato tyrimo atlikimo vietos apylinkės teismo ikiteisminio tyrimo teisėjui. Teisėjas privalo pristatytą asmenį apklausti dėl suėmimo pagrįstumo. Sulaikyto asmens apklausoje dalyvauja gynėjas ir prokuroras. Apklausęs sulaikytą asmenį, teisėjas patenkina prokuroro pareiškimą ir priima nutartį skirti suėmimą, kurioje nustatomas konkretus suėmimo terminas, arba atsisako patenkinti pareiškimą ir priima nutartį atsisakyti skirti suėmimą ar nutartį atsisakyti skirti suėmimą ir skirti kitą kardomąją priemonę.
 
 5. Teisėjas, priimdamas nutartį skirti suėmimą arba palikdamas šią nutartį galioti, gali pavesti prokurorui per nustatytą terminą surinkti papildomą medžiagą. Gavęs šią medžiagą, teisėjas gali nutartį skirti suėmimą palikti galioti ir nustatyti naują suėmimo terminą arba pakeisti šią kardomąją priemonę ar ją panaikinti.
 
@@ -5135,19 +5155,41 @@ Nr. IX-2170, 2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
 
 7. Teisėjui nagrinėjant suėmimo skyrimo klausimą, rašomas posėdžio protokolas. Jame užrašomi pristatyto teisėjui asmens paaiškinimai, prokuroro ir gynėjo pareiškimai bei pastabos.
 
+Straipsnio pakeitimai:
+
+Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
+
 127 straipsnis. Suėmimo taikymo trukmė ir jo termino pratęsimas
 
-1. Suėmimas negali būti taikomas ilgiau kaip šešis mėnesius. Konkretų suėmimo terminą nustato ikiteisminio tyrimo teisėjas nutartyje skirti suėmimą, tačiau iš karto suėmimas negali būti paskirtas ilgesnis kaip trys mėnesiai. Šį terminą pratęsti, bet ne ilgiau kaip iki šešių mėnesių gali tas pats arba kitas tos pačios ar kitos apylinkės teismo ikiteisminio tyrimo teisėjas.
+1. Suėmimas negali būti taikomas ilgiau kaip šešis mėnesius. Konkretų suėmimo terminą nustato ikiteisminio tyrimo teisėjas nutartyje skirti suėmimą, tačiau iš karto suėmimas negali būti paskirtas ilgesnis kaip trys mėnesiai. Nepilnamečiui iš karto suėmimas negali būti paskirtas ilgesnis kaip du mėnesiai. Suėmimo terminą pratęsti, bet ne ilgiau kaip iki šešių mėnesių, o nepilnamečiams – ne ilgiau kaip iki keturių mėnesių gali tas pats arba kitas tos pačios ar kitos apylinkės teismo ikiteisminio tyrimo teisėjas. Suėmimo skyrimo taisyklės, skirtos nepilnamečiams, taip pat taikomos asmeniui, kuris teisėjo sprendimo priėmimo metu yra sulaukęs pilnametystės.
 
-2. Dėl ypatingo bylos sudėtingumo ar didelės apimties šio straipsnio 1 dalyje numatytą suėmimo terminą apygardos teismo teisėjas gali pratęsti, bet ne ilgiau kaip iki trijų mėnesių. Suėmimo terminas gali būti pratęstas pakartotinai, bet ikiteisminio tyrimo metu terminas negali tęstis ilgiau kaip aštuoniolika mėnesių, o nepilnamečių suėmimo terminas – ne ilgiau kaip dvylika mėnesių.
+2. Dėl ypatingo bylos sudėtingumo ar didelės apimties šio straipsnio 1 dalyje numatytą suėmimo terminą apygardos teismo teisėjas gali pratęsti, bet ne ilgiau kaip iki trijų mėnesių, o nepilnamečiams – ne ilgiau kaip iki dviejų mėnesių. Suėmimo terminas gali būti pratęstas pakartotinai, bet ikiteisminio tyrimo metu terminas negali tęstis ilgiau kaip devynis mėnesius, o nepilnamečių suėmimo terminas – ne ilgiau kaip šešis mėnesius. Bylose dėl sunkių ar labai sunkių nusikaltimų, taip pat bylose, kuriose nusikalstamų veikų padarymu įtariami ar kaltinami bendrininkų grupės, organizuotos grupės ar nusikalstamo susivienijimo nariai, arba kai asmenys suimti užsienio valstybėje, ikiteisminio tyrimo metu suėmimo terminas negali tęstis ilgiau kaip aštuoniolika mėnesių, o nepilnamečių suėmimo terminas – ilgiau kaip dvylika mėnesių.
 
-3. Dėl suėmimo termino pratęsimo ikiteisminio tyrimo metu prokuroras likus ne mažiau kaip dešimčiai dienų, o kai suėmimas paskirtas ar pratęstas trumpesniam negu vieno mėnesio terminui, – likus ne mažiau kaip penkioms dienoms iki anksčiau paskirto ar pratęsto suėmimo termino pabaigos turi su pareiškimu kreiptis į ikiteisminio tyrimo teisėją, o jei pratęsus suėmimo terminą bendra suėmimo trukmė viršytų šešis mėnesius arba jei suėmimas trunka ilgiau kaip šešis mėnesius, – į apygardos teismą.
+3. Dėl suėmimo termino pratęsimo ikiteisminio tyrimo metu prokuroras likus ne mažiau kaip dešimčiai dienų, o kai suėmimas paskirtas ar pratęstas trumpesniam negu vieno mėnesio terminui, – likus ne mažiau kaip penkioms dienoms iki anksčiau paskirto ar pratęsto suėmimo termino pabaigos turi su pareiškimu kreiptis į ikiteisminio tyrimo teisėją, o jei pratęsus suėmimo terminą bendra suėmimo trukmė viršytų šešis mėnesius, nepilnamečiams paskirto ar pratęsto suėmimo trukmė viršytų keturis mėnesius arba jei suėmimas trunka ilgiau kaip šešis mėnesius, o nepilnamečių suėmimas – ilgiau kaip keturis mėnesius, – į apygardos teismą.
 
-4. Prokuroro pareiškime dėl suėmimo termino pratęsimo turi būti nurodyti šio Kodekso 125 straipsnio 2 dalyje išvardyti duomenys. Jei pratęsus suėmimo terminą bendra suėmimo trukmė viršytų šešis mėnesius arba jei suėmimas trunka ilgiau kaip šešis mėnesius, pareiškime turi būti pateikti motyvai, kodėl byla laikytina ypač sudėtinga ar didelės apimties, ir išvardyti pagrindiniai ikiteisminio tyrimo veiksmai, atlikti po suėmimo paskyrimo ar suėmimo termino paskutinio pratęsimo.
+4. Prokuroro pareiškime dėl suėmimo termino pratęsimo turi būti nurodyti šio Kodekso 125 straipsnio 2 dalyje išvardyti duomenys. Jei pratęsus suėmimo terminą bendra suėmimo trukmė viršytų šešis mėnesius, nepilnamečiams paskirto ar pratęsto suėmimo trukmė viršytų keturis mėnesius arba jei suėmimas trunka ilgiau kaip šešis mėnesius, o nepilnamečių suėmimas – ilgiau kaip keturis mėnesius, prokuroro pareiškime turi būti pateikti faktiniai duomenys ir motyvai, kodėl byla laikytina ypač sudėtinga ar didelės apimties, ir išvardyti pagrindiniai ikiteisminio tyrimo veiksmai, atlikti po suėmimo paskyrimo ar suėmimo termino paskutinio pratęsimo.
 
 5. Teismas negali atsisakyti patenkinti prokuroro pareiškimą dėl suėmimo termino pratęsimo vien dėl tos priežasties, kad toks pareiškimas paduotas praleidus šio straipsnio 3 dalyje numatytus terminus.
 
-6. Suėmimo termino pratęsimo ikiteisminio tyrimo metu klausimui išspręsti ikiteisminio tyrimo teisėjas ar apygardos teismo teisėjas privalo surengti posėdį, į kurį šaukiami gynėjas ir prokuroras. Šių asmenų dalyvavimas tokiame posėdyje būtinas. Prireikus į posėdį gali būti pristatomas suimtasis. Suimtąjį privaloma pristatyti į posėdį tuo atveju, kai sprendžiamas ilgiau kaip šešis mėnesius trunkančio suėmimo termino pratęsimo klausimas.
+6. Suėmimo termino pratęsimo ikiteisminio tyrimo metu klausimui išspręsti ikiteisminio tyrimo teisėjas ar apygardos teismo teisėjas privalo surengti posėdį, į kurį šaukiami gynėjas ir prokuroras. Šių asmenų dalyvavimas šiame posėdyje būtinas. Prireikus į posėdį gali būti pristatomas suimtasis. Suimtąjį privaloma pristatyti į posėdį tuo atveju, kai sprendžiamas ilgiau kaip šešis mėnesius trunkančio suėmimo termino pratęsimo klausimas. Nepilnametį suimtąjį privaloma pristatyti į posėdį tuo atveju, kai sprendžiamas ilgiau kaip keturis mėnesius trunkančio suėmimo termino pratęsimo klausimas. Suimtasis, kuris dalyvauja šioje dalyje nurodytame posėdyje, ir gynėjas turi teisę susipažinti su visa prokuroro pateikta medžiaga, pagal kurią prašoma pratęsti suėmimo terminą.
+
+7. Teisėjas šio straipsnio 6 dalyje nurodytame posėdyje priima nutartį pratęsti suėmimo terminą arba šio termino nepratęsti, arba šio termino nepratęsti ir skirti kitą kardomąją priemonę. Teisėjas priima nutartį nepratęsti suėmimo termino, jei nustato, kad per paskutinius du kardomosios priemonės – suėmimo taikymo mėnesius nebuvo imtasi visų įstatymuose numatytų priemonių, kad per trumpiausią laiką būtų atliktas tyrimas ir atskleista nusikalstama veika, ir prokuroras nenurodė jokių objektyvių priežasčių, dėl kurių tai nebuvo daroma. Teisėjo priimamos nutarties turinys nustatytas šio Kodekso 125 straipsnyje.
+
+8. Jei teisėjas priima nutartį nepratęsti suėmimo termino, suimtasis į laisvę paleidžiamas tik pasibaigus anksčiau paskirtam ar pratęstam suėmimo terminui. Teisėjas gali nuspręsti paleisti asmenį tuoj pat, jei nustato, kad suėmimas buvo paskirtas ar pratęstas, nors aiškiai tam nebuvo būtinų sąlygų ar pagrindo.
+
+9. Kai byla perduota teismui, suėmimo termino pratęsimo klausimą teismas, kurio žinioje yra byla, sprendžia nepaisydamas to, ar dėl to gautas prokuroro pareiškimas. Jei teismas perdavė bylą prokurorui, suėmimo terminas teismo gali būti pratęstas ne ilgiau kaip iki trijų mėnesių, o nepilnamečių suėmimo terminas – ne ilgiau kaip iki dviejų mėnesių.
+
+10. Pagal Lietuvos Respublikos tarptautines sutartis ar Europos arešto orderį Lietuvos Respublikai išduotiems asmenims šiame straipsnyje nustatyti terminai taikomi nuo jų perdavimo Lietuvos Respublikai.
+
+11. Viso baudžiamojo proceso metu suėmimas negali trukti ilgiau kaip du trečdalius didžiausios laisvės atėmimo bausmės, baudžiamajame įstatyme nustatytos už sunkiausią nusikaltimą, dėl kurio tiriama ir nagrinėjama byla.
+
+Straipsnio pakeitimai:
+
+Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
+
+Straipsnio pakeitimai:
+
+Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 
 128 straipsnis. Pranešimas apie įtariamojo suėmimą
 
@@ -5165,9 +5207,21 @@ Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17)
 
 131 straipsnis. Prokuroro teisė apskųsti teisėjo nutartį
 
-1. Prokuroras ikiteisminio tyrimo arba bylos nagrinėjimo teisme metu ne vėliau kaip per tris dienas nuo atitinkamos nutarties priėmimo turi teisę aukštesniajam teismui paduoti skundą dėl suėmimo nepaskyrimo arba suimtojo paleidimo į laisvę, arba suėmimo termino nepratęsimo. Skundas paduodamas per suėmimo nepaskyrusį, suimtąjį paleidusį arba suėmimo termino nepratęsusį teismą, o šis privalo nedelsdamas perduoti skundą aukštesniajam teismui. Aukštesniojo teismo teisėjas privalo išnagrinėti skundą ne vėliau kaip per septynias dienas nuo jo gavimo dienos. Skundui nagrinėti rengiamas posėdis; į jį šaukiami įtariamasis ar kaltinamasis ir gynėjas. Šių asmenų neatvykimas netrukdo teismui nagrinėti skundą. Prokuroro dalyvavimas tokiame posėdyje būtinas. Prokuroras turi pateikti aukštesniajam teismui skundui nagrinėti reikalingą ikiteisminio tyrimo medžiagą. Jei skundas paduotas nagrinėjant bylą teisme, teismas, kurio nutartis apskųsta, privalo aukštesniajam teismui perduoti skundui nagrinėti reikalingą bylos medžiagą.
+1. Prokuroras ikiteisminio tyrimo arba bylos nagrinėjimo teisme metu ne vėliau kaip per tris dienas nuo atitinkamos nutarties priėmimo turi teisę aukštesniajam teismui paduoti skundą dėl suėmimo nepaskyrimo arba suimtojo paleidimo į laisvę, arba suėmimo termino nepratęsimo arba dėl atsisakymo skirti suėmimą ir kitos kardomosios priemonės skyrimo. Skundas paduodamas per suėmimo nepaskyrusį, suimtąjį paleidusį arba suėmimo termino nepratęsusį arba atsisakiusį skirti suėmimą ir kitos kardomosios priemonės nepaskyrusį teismą, o šis privalo nedelsdamas perduoti skundą aukštesniajam teismui. Aukštesniojo teismo trijų teisėjų kolegija privalo išnagrinėti skundą ne vėliau kaip per septynias dienas nuo jo gavimo dienos. Skundui nagrinėti rengiamas posėdis; į jį šaukiami įtariamasis ar kaltinamasis ir gynėjas. Įtariamojo ar kaltinamojo neatvykimas netrukdo teismui nagrinėti skundą. Prokuroro ir gynėjo dalyvavimas šiame posėdyje būtinas. Prokuroras turi pateikti aukštesniajam teismui skundui nagrinėti reikalingą ikiteisminio tyrimo medžiagą. Įtariamasis ar kaltinamasis, jei jis dalyvauja tokiame posėdyje, ir gynėjas turi teisę susipažinti su visa prokuroro pateikta medžiaga. Jei skundas paduotas nagrinėjant bylą teisme, teismas, kurio nutartis apskųsta, privalo aukštesniajam teismui perduoti skundui nagrinėti reikalingą bylos medžiagą.
 
-2. Aukštesniojo teismo teisėjo priimta nutartis yra galutinė ir neskundžiama.
+TAR pastaba. Lietuvos Respublikos baudžiamojo proceso kodekso 131 straipsnyje nustatyta tvarka iki 2015 m. birželio 25 d. įstatymo Nr. XII-1878 įsigaliojimo (2015-07-11) paduoti skundai nagrinėjami pagal iki šio įstatymo įsigaliojimo galiojusią tvarką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
+
+2. Išnagrinėjęs skundą, aukštesnysis teismas priima nutartį paskirtą suėmimą arba pratęstą suėmimo terminą palikti galioti arba pakeisti suėmimo terminą, arba pakeisti suėmimą kita kardomąja priemone, arba suėmimą panaikinti. Aukštesniojo teismo trijų teisėjų kolegijos priimta nutartis yra galutinė ir neskundžiama.
+
+TAR pastaba. Lietuvos Respublikos baudžiamojo proceso kodekso 131 straipsnyje nustatyta tvarka iki 2015 m. birželio 25 d. įstatymo Nr. XII-1878 įsigaliojimo (2015-07-11) paduoti skundai nagrinėjami pagal iki šio įstatymo įsigaliojimo galiojusią tvarką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 
 3. Jei suėmimas paskiriamas ar jo terminas pratęsiamas nagrinėjant bylą Lietuvos apeliaciniame teisme, skundus dėl suėmimo paskyrimo ir pratęsimo nagrinėja Lietuvos apeliacinio teismo trijų teisėjų kolegija, į kurios sudėtį negali įeiti tą bylą nagrinėjantys teisėjai.
 
