@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2015-07-03"
+last_updated: "2015-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2015-07-03 iki 2015-07-14
+Suvestinė redakcija nuo 2015-07-15 iki 2015-10-31
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
 
@@ -55,7 +55,11 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 6. Ekstemporalus vaistinis preparatas – gamybinėje visuomenės vaistinėje pagamintas kartinis vaistinis preparatas ar aprašinis vaistinis preparatas:
 
-1) kartinis vaistinis preparatas – pavieniam pacientui pagal gydytojo receptą ir (arba) sveikatos priežiūros įstaigos užsakymą pagamintas vaistinis preparatas;
+1) kartinis vaistinis preparatas – pavieniam pacientui pagal receptą ir (arba) sveikatos priežiūros įstaigos užsakymą pagamintas vaistinis preparatas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
 
 2) aprašinis vaistinis preparatas – pagal vaistinio preparato aprašą pagamintas vaistinis preparatas.
 
@@ -85,7 +89,11 @@ Nr. XII-1438, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20557
 
 12. Farmacinė informacija – bet kokia forma ir bet kokiomis priemonėmis skelbiama ir platinama informacija apie vaistinio preparato farmacines, klinikines ir farmakologines savybes, taip pat vaistinių preparatų kainos prekybos kataloguose ir kainoraščiuose (jeigu juose nėra teiginių apie vaistinių preparatų savybes).
 
-13. Farmacinė paslauga – vaistinėje farmacijos specialistų teikiama paslauga, apimanti gydytojo išrašytų receptų kontrolę, vertinimą, nereceptinių vaistinių preparatų parinkimą, farmacinės informacijos apie vaistinius preparatus teikimą gyventojams, sveikatos priežiūros ir farmacijos specialistams, taip pat jų konsultavimą.
+13. Farmacinė paslauga – vaistinėje farmacijos specialistų teikiama paslauga, apimanti išrašytų receptų kontrolę, vertinimą, nereceptinių vaistinių preparatų parinkimą, farmacinės informacijos apie vaistinius preparatus teikimą gyventojams, sveikatos priežiūros ir farmacijos specialistams, taip pat jų konsultavimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
 
 14. Farmacinė veikla – juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, apimanti vaistinių preparatų, tiriamųjų vaistinių preparatų, veikliųjų medžiagų gamybą, importą iš trečiųjų šalių, kokybės kontrolę; didmeninį vaistinių preparatų platinimą ir vaistinių preparatų prekybos tarpininkavimą, veikliųjų medžiagų platinimą; vaistinių preparatų lygiagretų importą ir lygiagretų platinimą; vaistinių preparatų pardavimą ar išdavimą galutiniams vartotojams; farmacinės informacijos apie vaistinius preparatus teikimą.
 
@@ -176,6 +184,12 @@ Nr. XII-1438, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20557
 37. Radionuklidų pirmtakas – bet koks radionuklidas, pagamintas kitai medžiagai prieš vartojimą radioaktyviai pažymėti.
 
 38. Radionuklidų rinkinys – bet koks ruošinys, kuris (dažniausiai prieš jo vartojimą) turi būti atskiestas ar sujungtas su radionuklidais galutiniame radiofarmaciniame preparate.
+
+381. Receptas – sveikatos apsaugos ministro nustatytos formos rašytinis nurodymas vaistininkui, pagal kurį vaistinė paruošia ir (ar) išduoda vaistus, medicinos pagalbos priemones.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
 
 39. Receptinis vaistinis preparatas – vaistinis preparatas, kurio priskyrimą šiai vaistinių preparatų grupei patvirtina Valstybinė vaistų kontrolės tarnyba arba Europos vaistų agentūra.
 
@@ -1379,7 +1393,11 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 4. Vaistinė turi teisę keisti pramoniniu būdu ar pramoninį gamybos procesą apimančiu metodu pagamintų vaistinių preparatų pakuotę, kaip nurodyta 24 straipsnio 3 dalies 2 punkte. Vaistinius preparatus, kurių pakuotė pakeista, parduoti (išduoti) kitai vaistinei ar jos filialui draudžiama.
 
-5. Gamybinė vaistinė gali parduoti (išduoti) kartinius vaistinius preparatus kitoms vaistinėms, jų filialams pagal gamybinei vaistinei pateiktus gydytojo receptus, juridiniams asmenims, turintiems asmens sveikatos priežiūros veiklos licencijas, – pagal gamybinei vaistinei pateiktus užsakymus.
+5. Gamybinė vaistinė gali parduoti (išduoti) kartinius vaistinius preparatus kitoms vaistinėms, jų filialams pagal gamybinei vaistinei pateiktus receptus, juridiniams asmenims, turintiems asmens sveikatos priežiūros veiklos licencijas, – pagal gamybinei vaistinei pateiktus užsakymus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
 
 6. Neteko galios nuo 2010-01-05
 
@@ -2031,7 +2049,11 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 11. Vaistinių preparatų receptų rašymo ir vaistinių preparatų išdavimo (pardavimo) gyventojams taisykles tvirtina sveikatos apsaugos ministras.
 
-12. Receptiniai vaistiniai preparatai ambulatoriškai besigydantiems pacientams išduodami (parduodami) tik pagal gydytojų receptus.
+12. Receptiniai vaistiniai preparatai ambulatoriškai besigydantiems pacientams išduodami (parduodami) tik pagal receptus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
 
 13. Fizinis asmuo turi teisę savo individualioms reikmėms įvežti į Lietuvos Respubliką ir išvežti iš jos, gauti ar siųsti paštu vaistinius preparatus sveikatos apsaugos ministro nustatyta tvarka.
 
@@ -2647,7 +2669,11 @@ Vaistinės veiklos licencijos turėtojas privalo:
 
 1) įdarbinti farmacinės veiklos vadovą ir pakankamai tinkamos kvalifikacijos farmacijos specialistų, suteikti jiems pakankamus įgaliojimus atlikti jiems pavestas pareigas. Pareigybių aprašymuose aiškiai nustatyti farmacinės veiklos vadovo ir kitų farmacijos specialistų, teikiančių farmacinę paslaugą ir parduodančių (išduodančių) vaistinius preparatus, gaminančių ekstemporalius vaistinius preparatus, pareigas, atsakomybę, įgaliojimus ir tarpusavio ryšius. Vaistinės kokybės užtikrinimo sistemos dokumentuose aprašyti vaistininko veiksmus, kuriuos jis atlieka vaistinėje siekdamas užtikrinti, kad vaistininko padėjėjo (farmakotechniko) teikiamos farmacinės paslaugos, vaistinių preparatų pardavimas (išdavimas) ir ekstemporalių vaistinių preparatų gamyba atitiktų teisės aktų reikalavimus;
 
-2) įsigyti vaistinius preparatus tik iš juridinių asmenų, turinčių gamybos ar didmeninio platinimo licenciją, išduotą Valstybinės vaistų kontrolės tarnybos, arba asmenų, turinčių gamybos ar didmeninio platinimo licenciją, išduotą kitos EEE valstybės įgaliotos institucijos, įsigyti veikliąsias medžiagas tik iš jų gamintojų, importuotojų ar platintojų, kurie įregistravę savo veiklą Valstybinėje vaistų kontrolės tarnyboje arba kitos EEE valstybės įgaliotoje institucijoje, kartinius vaistinius preparatus įsigyti tik iš juos pagaminusios pagal pateiktą gydytojo receptą gamybinės visuomenės vaistinės;
+2) įsigyti vaistinius preparatus tik iš juridinių asmenų, turinčių gamybos ar didmeninio platinimo licenciją, išduotą Valstybinės vaistų kontrolės tarnybos, arba asmenų, turinčių gamybos ar didmeninio platinimo licenciją, išduotą kitos EEE valstybės įgaliotos institucijos, įsigyti veikliąsias medžiagas tik iš jų gamintojų, importuotojų ar platintojų, kurie įregistravę savo veiklą Valstybinėje vaistų kontrolės tarnyboje arba kitos EEE valstybės įgaliotoje institucijoje, kartinius vaistinius preparatus įsigyti tik iš juos pagaminusios pagal pateiktą receptą gamybinės visuomenės vaistinės;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
 
 3) užtikrinti vaistinių preparatų laikymą gamintojo nurodytomis sąlygomis;
 
