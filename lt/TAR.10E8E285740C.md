@@ -4,7 +4,7 @@ identifier: "TAR.10E8E285740C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-25"
-last_updated: "2012-11-22"
+last_updated: "2015-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.10E8E285740C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos medicinos praktikos įstatymas
 
-Suvestinė redakcija nuo 2012-11-22 iki 2015-07-14
+Suvestinė redakcija nuo 2015-07-15 iki 2015-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2313, i. k. 0961010ISTA00I-1555
 
@@ -101,7 +101,11 @@ Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010IST
 
 14. Medicinos studijos – ne trumpesnės kaip 6 metų arba ne mažiau kaip 240 kreditų vientisosios universitetinės medicinos krypties studijos, kurias baigusiesiems išduodamas aukštojo mokslo diplomas, patvirtinantis suteiktą gydytojo kvalifikaciją, ir internatūros pažymėjimas, patvirtinantis suteiktą medicinos gydytojo profesinę kvalifikaciją.
 
-15. Receptas – sveikatos apsaugos ministro nustatytos formos rašytinis gydytojo nurodymas vaistininkui, pagal kurį vaistinė paruošia ir (ar) išduoda vaistus, medicinos pagalbos priemones.
+15. Receptas – sveikatos apsaugos ministro nustatytos formos rašytinis nurodymas vaistininkui, pagal kurį vaistinė paruošia ir (ar) išduoda vaistus, medicinos pagalbos priemones.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1915, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11093
 
 16. Rezidentūros bazė – universiteto ligoninė ar kita sveikatos priežiūros įstaiga, sveikatos apsaugos ministro ir švietimo ir mokslo ministro nustatyta tvarka įgijusi teisę vykdyti rezidentūros programą ar jos dalį.
 
@@ -406,6 +410,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2371, 2012-11-06, Žin., 2012, Nr. 135-6862 (2012-11-22), i. k. 1121010ISTA0XI-2371
 
 Lietuvos Respublikos medicinos praktikos įstatymo 6 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1915, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11093
+
+Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 2 straipsnio pakeitimo įstatymas
 
 13 straipsnis. Licencijų galiojimo panaikinimo tvarka
 
