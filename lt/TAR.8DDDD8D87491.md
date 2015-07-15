@@ -4,7 +4,7 @@ identifier: "TAR.8DDDD8D87491"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-06"
-last_updated: "2015-01-01"
+last_updated: "2015-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-07-14
+Suvestinė redakcija nuo 2015-07-15 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
 
@@ -277,13 +277,21 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 3. Už žiaurų elgesį su gyvūnais ir gyvūnų kankinimą asmenys traukiami administracinėn ar baudžiamojon atsakomybėn.
 
-4. Iš gyvūnų savininkų ar laikytojų, kurie kankina gyvūnus ar žiauriai elgiasi su jais, teismo sprendimu gyvūnai gali būti Lietuvos Respublikos įstatymų nustatyta tvarka paimti skersti, parduoti, perduoti kitam gyvūno laikytojui (įskaitant perdavimą gyvūnų globėjui) ar nugaišinti.
+4. Iš gyvūnų savininkų ar laikytojų, kurie kankina gyvūnus, žiauriai elgiasi su jais, teismo sprendimu gyvūnai gali būti Lietuvos Respublikos teisės aktų nustatyta tvarka konfiskuojami.
 
-5. Kol teismas priims sprendimą dėl gyvūno, kuriam dėl žiauraus elgesio su juo ar jo kankinimo gresia suluošinimas ar žūtis, savivaldybės administracijos direktoriaus įgaliotas asmuo, dalyvaujant Valstybinės maisto ir veterinarijos tarnybos veterinarijos gydytojui ir policijos pareigūnui, jeigu būtina užtikrinti viešąją tvarką, turi paimti tokį gyvūną ir perduoti jį gyvūnų globėjui.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
+
+5. Kol teismas priims sprendimą ar įsiteisės teismo sprendimas dėl gyvūno konfiskavimo, savivaldybės administracijos direktoriaus įgaliotas asmuo, dalyvaujant Valstybinės maisto ir veterinarijos tarnybos veterinarijos gydytojui ir policijos pareigūnui, jeigu būtina užtikrinti viešąją tvarką, turi paimti tokį gyvūną ir perduoti jį gyvūnų globėjui ar kitokiu būdu užtikrinti tinkamą gyvūno laikymą. Siekiant nutraukti gyvūnų kančias, iš gyvūno savininko ar laikytojo paimtas suluošintas ar sunkiai sergantis gyvūnas, neprašant gyvūno savininko ar laikytojo sutikimo, veterinarijos gydytojo sprendimu gali būti nugaišinamas. Gyvūno laikinosios globos, gydymo, laikymo, nugaišinimo ar gaišenos tvarkymo išlaidas atlygina gyvūno savininkas ar laikytojas. Kilus ginčui dėl šių išlaidų atlyginimo ar jų dydžio nustatymo, jis sprendžiamas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
 
 5 straipsnis. Veiksmai, nelaikomi žiauriu elgesiu su gyvūnais ir jų kankinimu
 
-1. Žiauriu elgesiu su gyvūnais ar jų kankinimu nelaikomi šie veiksmai:
+1. Žiauriu elgesiu su gyvūnais, jų kankinimu nelaikomi šie veiksmai:
 
 1) akvakultūros gyvūnų gaudymas, vadovaujantis teisės aktų reikalavimais;
 
@@ -309,9 +317,9 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 12) ūkinių gyvūnų skerdimas, prieš tai jų neapsvaiginus, religinėms apeigoms atlikti būtinais metodais, jeigu šie gyvūnai skerdžiami skerdykloje.
 
-Papildyta straipsnio punktu:
+Straipsnio dalies pakeitimai:
 
-Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
+Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
 
 2. Nugaišinti gyvūnus gali tik veterinarijos gydytojas, turintis veterinarijos praktikos licenciją, ar jo pavedimu – veterinarijos felčeris.
 
@@ -553,6 +561,12 @@ ASMENŲ TEISĖS, PAREIGOS, ATSAKOMYBĖ IR ŠIO ĮSTATYMO VYKDYMO KONTROLĖ
 
 6. Kai gyvūno augintinio savininkas nebegali daugiau suteikti gyvūnui augintiniui reikiamos priežiūros, jis privalo perduoti gyvūną augintinį naujam savininkui (įskaitant perdavimą gyvūnų globėjui), kuris privalės prižiūrėti gyvūną augintinį pagal šio įstatymo ir kitų teisės aktų reikalavimus. Gyvūno augintinio savininkas, nebegalintis suteikti gyvūnui augintiniui reikiamos priežiūros ir išnaudojęs visas galimybes perduoti gyvūną augintinį kitam savininkui ir išsaugoti jo gyvybę, gali kreiptis į veterinarijos gydytoją dėl nugaišinimo.
 
+7. Pilnamečiams neveiksniems asmenims draudžiama laikyti gyvūnus. Asmenys, kurių veiksnumas yra apribotas, gali įsigyti, laikyti gyvūnus tik turėdami rūpintojo sutikimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
+
 21 straipsnis. Įstatymo vykdymo priežiūra ir atsakomybė už jo pažeidimus
 
 1. Šio įstatymo reikalavimus pažeidę asmenys atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
@@ -638,6 +652,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 1, 2, 5 ir 17 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
+
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 4, 5 ir 20 straipsnių pakeitimo įstatymas
 
 61 straipsnis. Agresyvių šunų įvežimas, įsigijimas, laikymas, registravimas, ženklinimas, veisimas, dresavimas, prekyba jais bei jų paėmimas
 
