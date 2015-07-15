@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2015-07-10"
+last_updated: "2015-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2015-07-10 iki 2015-07-14
+Suvestinė redakcija nuo 2015-07-15 iki 2015-10-27
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -4706,9 +4706,15 @@ Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404
 
 310 straipsnis. Žiaurus elgesys su gyvūnais
 
-Tas, kas žiauriai elgėsi su gyvūnu, jeigu dėl to gyvūnas žuvo arba buvo suluošintas, arba kankino gyvūną,
+1. Tas, kas žiauriai elgėsi su gyvūnu, jį kankino, jeigu dėl to gyvūnas žuvo arba buvo suluošintas,
 
 baudžiamas viešaisiais darbais arba bauda, arba areštu, arba laisvės atėmimu iki vienerių metų.
+
+2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1830, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10580
 
 XLV SKYRIUS
 
@@ -5595,6 +5601,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1888, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11179
 
 Lietuvos Respublikos baudžiamojo kodekso 155 ir 290 straipsnių pripažinimo netekusiais galios įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1830, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10580
+
+Lietuvos Respublikos baudžiamojo kodekso 310 straipsnio pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
