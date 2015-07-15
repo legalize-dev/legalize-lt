@@ -4,7 +4,7 @@ identifier: "TAR.369CF9E97755"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-28"
-last_updated: "2012-11-22"
+last_updated: "2015-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.369CF9E97755"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymas
 
-Suvestinė redakcija nuo 2012-11-22 iki 2015-07-14
+Suvestinė redakcija nuo 2015-07-15 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2224, i. k. 1011010ISTA00IX-413
 
@@ -73,11 +73,19 @@ Papildyta straipsnio dalimi:
 
 Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA00XI-343
 
-7. Grubi slaugos ar akušerijos praktikos klaida – slaugytojo ar akušerio veika, kai dėl jų kaltės paciento sveikatai buvo padaryta žala, sukėlusi paciento neįgalumą arba mirtį.
+7. Šiurkšti slaugos ar akušerijos praktikos klaida – slaugytojo ar akušerio veika, kai dėl jų kaltės paciento sveikatai buvo padaryta žala, sukėlusi paciento neįgalumą arba mirtį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 
 8. Slaugos ar akušerijos praktikos klaida – slaugytojo ar akušerio veika, kai dėl jų kaltės kyla pavojus arba padaroma žala paciento sveikatai.
 
-9. Slaugos praktika – bendroji ir (ar) specialioji slaugos praktika.
+9. Slaugos praktika – bendroji, išplėstinė ir (ar) specialioji slaugos praktika.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 
 10. Specialioji slaugos praktika – šio įstatymo ir kitų teisės aktų reglamentuotos bendrosios praktikos slaugytojo, turinčio galiojančią bendrosios slaugos praktikos licenciją, arba akušerio, turinčio galiojančią akušerijos praktikos licenciją, ir turinčių įgytą atitinkamą slaugos specializaciją patvirtinantį dokumentą, teikiamos asmens sveikatos priežiūros paslaugos.
 
@@ -91,9 +99,17 @@ ANTRASIS SKIRSNIS
 
 SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 
-3 straipsnis. Bendrosios praktikos slaugytojų ir akušerių profesinės kvalifikacijos ir slaugos specializacijos įgijimas
+3 straipsnis. Bendrosios praktikos slaugytojų, išplėstinės praktikos slaugytojų ir akušerių profesinės kvalifikacijos ir slaugos specializacijos įgijimas
 
-1. Bendrosios praktikos slaugytojo ar akušerio profesinė kvalifikacija įgyjama aukštojoje mokykloje baigus slaugos ar akušerijos studijų programas.
+Pakeistas straipsnio pavadinimas:
+
+Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
+
+1. Bendrosios praktikos slaugytojo ar akušerio profesinė kvalifikacija įgyjama aukštojoje mokykloje baigus slaugos ar akušerijos studijų programas. Išplėstinės praktikos slaugytojo profesinė kvalifikacija įgyjama baigus medicinos gydytojus rengiančiame universitete slaugos magistrantūros studijų programą ir išlaikius kvalifikacinį egzaminą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 
 2. Slaugos specializaciją aukštojoje mokykloje įgyja bendrosios praktikos slaugytojai arba akušeriai, baigę pasirinktos specializuotos slaugos srities neformaliojo švietimo programą. Specializuotų slaugos sričių sąrašą ir specializuotų slaugos sričių neformaliojo švietimo programų reikalavimus nustato sveikatos apsaugos ministras.
 
@@ -141,11 +157,23 @@ Papildyta straipsnio dalimi:
 
 Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA00XI-343
 
-4. Akušerijos praktika Lietuvos Respublikoje galima verstis tik turint galiojančią akušerijos praktikos licenciją, išskyrus šio įstatymo 9 straipsnyje nurodytus atvejus.
+5. Akušerijos praktika Lietuvos Respublikoje galima verstis tik turint galiojančią akušerijos praktikos licenciją, išskyrus šio įstatymo 9 straipsnyje nurodytus atvejus.
 
-5. Slaugos ir (ar) akušerijos paslaugas asmenims teikia juridiniai asmenys, turintys asmens sveikatos priežiūros licenciją atitinkamoms sveikatos priežiūros paslaugoms teikti.
+Straipsnio dalies numeracijos pakeitimas:
 
-6. Bendrosios praktikos slaugytojai ir akušeriai, užsienyje įgiję Lietuvos Respublikoje pripažįstamą profesinę kvalifikaciją, profesine veikla Lietuvos Respublikoje verčiasi tokiomis pačiomis sąlygomis kaip ir asmenys, įgiję atitinkamą profesinę kvalifikaciją Lietuvos Respublikoje.
+Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
+
+6. Slaugos ir (ar) akušerijos paslaugas asmenims teikia juridiniai asmenys, turintys asmens sveikatos priežiūros licenciją atitinkamoms sveikatos priežiūros paslaugoms teikti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
+
+7. Bendrosios praktikos slaugytojai ir akušeriai, užsienyje įgiję Lietuvos Respublikoje pripažįstamą profesinę kvalifikaciją, profesine veikla Lietuvos Respublikoje verčiasi tokiomis pačiomis sąlygomis kaip ir asmenys, įgiję atitinkamą profesinę kvalifikaciją Lietuvos Respublikoje.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 
 6 straipsnis. Atsisakymo išduoti licenciją pagrindai
 
@@ -199,7 +227,11 @@ Nr. XI-2373, 2012-11-06, Žin., 2012, Nr. 135-6864 (2012-11-22), i. k. 1121010IS
 
 2) kai paaiškėja, kad licencijai gauti pateikti suklastoti dokumentai;
 
-3) kai licencijos turėtojas padaro grubią slaugos ar akušerijos praktikos klaidą, kurią nustato Profesinės kompetencijos vertinimo komisija;
+3) kai licencijos turėtojas padaro šiurkščią slaugos ar akušerijos praktikos klaidą, kurią nustato Profesinės kompetencijos vertinimo komisija;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 
 4) kai Profesinės kompetencijos vertinimo komisija nustato, kad licencijos turėtojas per kalendorinius metus padarė dvi ar daugiau slaugos ar akušerijos praktikos klaidų ir jos sukėlė arba galėjo sukelti paciento sveikatos pablogėjimą ar grėsmę jo gyvybei;
 
@@ -247,9 +279,11 @@ Nr. XI-2373, 2012-11-06, Žin., 2012, Nr. 135-6864 (2012-11-22), i. k. 1121010IS
 
 TREČIASIS SKIRSNIS
 
-BENDROSIOS PRAKTIKOS SLAUGYTOJO IR AKUŠERIO
+BENDROSIOS PRAKTIKOS SLAUGYTOJO, IŠPLĖSTINĖS PRAKTIKOS SLAUGYTOJO IR AKUŠERIO TEISĖS, PAREIGOS IR ATSAKOMYBĖ
 
-TEISĖS, PAREIGOS IR ATSAKOMYBĖ
+Pakeistas skirsnio pavadinimas:
+
+Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 
 11 straipsnis. Bendrosios praktikos slaugytojo teisės
 
@@ -262,6 +296,12 @@ TEISĖS, PAREIGOS IR ATSAKOMYBĖ
 3) dalyvauti bendrosios praktikos slaugytojų profesinio rengimo, tobulinimo, slaugos paslaugų kokybės gerinimo ir vertinimo procese;
 
 4) dalyvauti slaugos moksliniuose tyrimuose;
+
+5) skirti ir išrašyti medicinos pagalbos priemones sveikatos apsaugos ministro nustatyta tvarka.
+
+Papildyta straipsnio punktu:
+
+Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA00XI-343
 
 2. Bendrosios praktikos slaugytojas turi ir kitų teisių, nustatytų kituose Lietuvos Respublikos teisės aktuose.
 
@@ -277,11 +317,17 @@ TEISĖS, PAREIGOS IR ATSAKOMYBĖ
 
 4) dalyvauti akušerijos moksliniuose tyrimuose;
 
+5) skirti ir išrašyti medicinos pagalbos priemones sveikatos apsaugos ministro nustatyta tvarka.
+
+Papildyta straipsnio punktu:
+
+Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA00XI-343
+
 2. Akušeris turi ir kitų teisių, nustatytų kituose Lietuvos Respublikos teisės aktuose.
 
-13 straipsnis. Bendrosios praktikos slaugytojo pareigos
+13 straipsnis. Bendrosios praktikos slaugytojo ir išplėstinės praktikos slaugytojo pareigos
 
-Bendrosios praktikos slaugytojas privalo:
+Bendrosios praktikos slaugytojas ir išplėstinės praktikos slaugytojas privalo:
 
 1) versdamasis slaugos praktika laikytis šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų;
 
@@ -302,6 +348,10 @@ Bendrosios praktikos slaugytojas privalo:
 9) nepriimti kyšių ir elgtis taip, kad savo veiksmais neprovokuotų paciento, jo artimųjų giminaičių ar kitų paciento atstovų duoti kyšį;
 
 10) atlikti kitas Lietuvos Respublikos teisės aktų nustatytas pareigas.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 
 14 straipsnis. Akušerio pareigos
 
@@ -378,4 +428,20 @@ Pasiūlyti Vyriausybei ar jos įgaliotai institucijai iki 2001 m. spalio 1 d. pa
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+
+111 straipsnis. Išplėstinės praktikos slaugytojo teisės
+
+1. Išplėstinės praktikos slaugytojas turi šias teises:
+
+1) išrašyti receptus sveikatos apsaugos ministro nustatyta tvarka;
+
+2) išduoti asmens sveikatos pažymėjimus (pažymas) sveikatos apsaugos ministro nustatyta tvarka;
+
+3) atlikti asmens sveikatos būklės tikrinimą, ligų profilaktiką sveikatos apsaugos ministro nustatyta tvarka.
+
+2. Išplėstinės praktikos slaugytojas turi ir kitų teisių, nustatytų kituose Lietuvos Respublikos teisės aktuose.
+
+Papildyta straipsniu:
+
+Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA00XI-343
 
