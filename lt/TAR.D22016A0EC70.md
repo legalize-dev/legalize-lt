@@ -4,7 +4,7 @@ identifier: "TAR.D22016A0EC70"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-27"
-last_updated: "2015-06-30"
+last_updated: "2015-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2015-06-30 iki 2015-07-31
+Suvestinė redakcija nuo 2015-08-01 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
 
@@ -1872,6 +1872,12 @@ priedas
 
 10. 2011 m. balandžio 8 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 404/2011, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 1224/2009, nustatančio Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, įgyvendinimo taisyklės (OL 2011 L 112, p. 1).
 
+11. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1380/2013 dėl bendros žuvininkystės politikos, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1954/2003 ir (EB) Nr. 1224/2009 bei panaikinami Tarybos reglamentai (EB) Nr. 2371/2002 ir (EB) Nr. 639/2004 bei Tarybos sprendimas 2004/585/EB (OL 2013 L 354, p. 22), su paskutiniais pakeitimais, padarytais 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/812 (OL 2015 L 133, p. 1).
+
+Papildyta punktu:
+
+Nr. XII-1929, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11212
+
 Pakeitimai:
 
 1.
@@ -1977,6 +1983,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1836, 2015-06-23, paskelbta TAR 2015-06-29, i. k. 2015-10370
 
 Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 14-3 straipsnio pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1929, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11212
+
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 17-1 straipsnio ir priedo pakeitimo įstatymas
 
 141 straipsnis. Teisė į žvejybos kvotą
 
@@ -2128,7 +2142,11 @@ Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
 
 5. Jei apskaičiuotų ūkio subjektams skiriamų individualių žvejybos galimybių suma viršija paskirstomas pagal istorinę dalį Lietuvos Respublikos žvejybos galimybes, kiekvienam ūkio subjektui skiriamos individualios žvejybos galimybės proporcingai mažinamos.
 
-6. Vienas ūkio subjektas, įskaitant su juo susijusius ūkio subjektus, kaip jie apibrėžti šio įstatymo 142 straipsnio 12, 13, 14, 15, 16, 17, 18 ir 19 dalyse, negali turėti daugiau kaip  40 procentų kiekvienos žuvų rūšies Lietuvos Respublikai skirtų žvejybos galimybių.
+6. Vienas ūkio subjektas, įskaitant su juo susijusius ūkio subjektus, kaip jie apibrėžti šio įstatymo 142 straipsnio 12, 13, 14, 15, 16, 17, 18 ir 19 dalyse, negali turėti ir jam kalendoriniams metams negali būti skirta daugiau kaip 40 procentų kiekvienos žuvų rūšies Lietuvos Respublikai skirtų žvejybos galimybių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1929, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11212
 
 7. Priekrantės žvejybai individualios žvejybos galimybės ūkio subjektams neskirstomos, tačiau ūkio subjektų, valdančių Lietuvos Respublikos žvejybos laivą, jei nebus viršyta Žemės ūkio ministerijos nustatyta žvejybos pajėgumo riba priekrantės žvejybos zonoje, bendram naudojimui skiriama:
 
@@ -2140,9 +2158,23 @@ Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
 
 4) 15 procentų Lietuvos Respublikai skirtų lašišų žvejybos galimybių Baltijos jūroje.
 
-8. Bendram naudojimui priekrantės žvejybai atėmus šio straipsnio 7 dalyje nustatytas žvejybos galimybes, likusi nepaskirstyta pagal istorinę dalį Lietuvos Respublikai skirtų kiekvienos rūšies žuvų žvejybos galimybių dalis, bet ne mažiau kaip 5 procentai, paskirstoma aukciono būdu Žemės ūkio ministerijos nustatyta tvarka ūkio subjektams, valdantiems Lietuvos Respublikos žvejybos laivą, jei nebus viršyta Žemės ūkio ministerijos nustatyta žvejybos pajėgumo riba atitinkamame geografiniame žvejybos rajone.
+8. 5 procentai Lietuvos Respublikai skirtų žvejybos galimybių paskirstomi žemės ūkio ministro nustatyta tvarka aukciono būdu ūkio subjektams, valdantiems Lietuvos Respublikos žvejybos laivą, neviršijant žemės ūkio ministro nustatytos žvejybos pajėgumo ribos atitinkamame geografiniame žvejybos rajone.
 
-9. Žemės ūkio ministras tvirtina selektyvių verslinės žvejybos įrankių sąrašą, tausojančių gamtines buveines žvejybos būdų ir mažiau teršiančių aplinką bei sunaudojančių mažiau energijos žvejybos laivų nustatymo kriterijus.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1929, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11212
+
+9. Iš Lietuvos Respublikai skirtų žvejybos galimybių atėmus šio straipsnio 7 ir 8 dalyse nustatytas žvejybos galimybes ir paskirsčius individualias žvejybos galimybes pagal istorinę dalį, likusios nepaskirstytos pagal istorinę dalį kiekvienos žuvų rūšies žvejybos galimybės paskirstomos ūkio subjektams proporcingai einamaisiais metais pagal kiekvieno ūkio subjekto istorinę dalį skirtoms kiekvienos žuvų rūšies individualioms žvejybos galimybėms, išreikštoms leidžiamu sugauti žuvų kiekiu.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1929, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11212
+
+10. Žemės ūkio ministras tvirtina selektyvių verslinės žvejybos įrankių sąrašą, tausojančių gamtines buveines žvejybos būdų ir mažiau teršiančių aplinką bei sunaudojančių mažiau energijos žvejybos laivų nustatymo kriterijus.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1929, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11212
 
 Papildyta straipsniu:
 
