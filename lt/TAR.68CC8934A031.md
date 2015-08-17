@@ -4,7 +4,7 @@ identifier: "TAR.68CC8934A031"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-13"
-last_updated: "2015-01-11"
+last_updated: "2015-08-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.68CC8934A031"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS CIVILINĮ PROCESĄ REGLAMENTUOJANČIŲ EUROPOS SĄJUNGOS
 
 IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2015-01-11 iki 2015-08-16
+Suvestinė redakcija nuo 2015-08-17 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
 
@@ -386,9 +386,9 @@ Papildyta skirsniu:
 
 Nr. XII-392, 2013-06-18, Žin., 2013, Nr. 68-3419 (2013-06-28), i. k. 1131010ISTA0XII-392
 
-DEVINTASIS4 SKIRSNIS
+DEVINTASIS3 SKIRSNIS
 
-2013 M. BIRŽELIO 12 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (ES) NR. 606/2013 DĖL APSAUGOS PRIEMONIŲ TARPUSAVIO PRIPAŽINIMO CIVILINĖSE BYLOSE ĮGYVENDINIMAS
+2012 M. LIEPOS 4 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (ES) NR. 650/2012 DĖL JURISDIKCIJOS, TAIKYTINOS TEISĖS, TEISMO SPRENDIMŲ PAVELDĖJIMO KLAUSIMAIS PRIPAŽINIMO IR VYKDYMO BEI AUTENTIŠKŲ DOKUMENTŲ PAVELDĖJIMO KLAUSIMAIS PRIĖMIMO IR VYKDYMO BEI DĖL EUROPOS PAVELDĖJIMO PAŽYMĖJIMO SUKŪRIMO ĮGYVENDINIMAS
 
 121 straipsnis. 1996 m. spalio 19 d. Hagos konvencijos dėl jurisdikcijos, taikytinos teisės, pripažinimo, vykdymo ir bendradarbiavimo tėvų pareigų ir vaikų apsaugos priemonių srityje įgyvendinimas
 
@@ -469,4 +469,16 @@ Nr. XII-1412, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20541
 DEŠIMTASIS SKIRSNIS
 
 BAIGIAMOSIOS NUOSTATOS
+
+3112 straipsnis. Europos paveldėjimo pažymėjimo išdavimas
+
+Institucija, kuri, vadovaujantis 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 650/2012 dėl jurisdikcijos, taikytinos teisės, teismo sprendimų paveldėjimo klausimais pripažinimo ir vykdymo bei autentiškų dokumentų paveldėjimo klausimais priėmimo ir vykdymo bei dėl Europos paveldėjimo pažymėjimo sukūrimo 64 straipsnio b punkto nuostatomis, išduoda Europos paveldėjimo pažymėjimą, yra palikimo atsiradimo vietos notaras.
+
+Papildyta skirsniu:
+
+Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
+
+DEVINTASIS4 SKIRSNIS
+
+2013 M. BIRŽELIO 12 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (ES) NR. 606/2013 DĖL APSAUGOS PRIEMONIŲ TARPUSAVIO PRIPAŽINIMO CIVILINĖSE BYLOSE ĮGYVENDINIMAS
 
