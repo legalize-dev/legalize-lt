@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2015-07-11"
+last_updated: "2015-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-07-11 iki 2015-08-31
+Suvestinė redakcija nuo 2015-09-01 iki 2015-09-24
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -1885,33 +1885,37 @@ Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
 
 1. Lietuvos Respublikos bausmių vykdymo kodekse numatytais atvejais klausimus dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimų nagrinėja ir nutartimi išsprendžia bausmės atlikimo vietos apylinkės teismas rašytinio proceso tvarka. Proceso dalyviai į teismo posėdį nešaukiami.
 
-2. Kai nagrinėjamas klausimas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo taikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos, teismas apie paskirtą šio klausimo nagrinėjimo datą praneša nuteistajam ir prokurorui. Prokuroras privalo pateikti atsiliepimą į Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimą likus ne mažiau kaip penkioms dienoms iki klausimo nagrinėjimo.
+2. Kai nagrinėjamas klausimas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo taikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos patvirtinimo, teismas apie paskirtą šio klausimo nagrinėjimo datą praneša nuteistajam ir prokurorui. Teismas, įvertinęs, ar Lygtinio paleidimo iš pataisos įstaigos komisijos nutarime išdėstytos išvados atitinka faktines aplinkybes, ar tinkamai taikytos Lietuvos Respublikos bausmių vykdymo kodekse nustatytos lygtinio paleidimo iš pataisos įstaigų sąlygos, priima motyvuotą nutartį patvirtinti šį nutarimą arba jo nepatvirtinti. Jei dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo taikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos buvo gautas skundas, šį klausimą teismas išnagrinėja ir išsprendžia kartu su skundu.
 
-3. Kai nagrinėjamas nuteistojo skundas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo netaikyti nuteistajam lygtinio paleidimo iš pataisos įstaigos, teismas apie paskirtą šio klausimo nagrinėjimo datą praneša nuteistajam, Lygtinio paleidimo iš pataisos įstaigos komisijai, bausmę vykdančiai institucijai ir prokurorui. Bausmę vykdanti institucija privalo pateikti teismui nuteistojo asmens bylą, Lygtinio paleidimo iš pataisos įstaigos komisija – nurodyti nuteistajam galimas nustatyti auklėjamojo poveikio ar baudžiamojo poveikio priemones ir (ar) Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 ar 3 dalyje numatytas pareigas ir laiką, per kurį nuteistasis privalėtų įvykdyti paskirtas auklėjamojo poveikio ar baudžiamojo poveikio priemones ir (ar) pareigas, jeigu būtų priimta nutartis tenkinti nuteistojo skundą ir taikyti jam lygtinį paleidimą iš pataisos įstaigos, prokuroras – pateikti atsiliepimą į nuteistojo skundą. Šie dokumentai turi būti pateikti likus ne mažiau kaip penkioms dienoms iki klausimo nagrinėjimo teisme.
+3. Kai nagrinėjamas skundas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo, teismas per tris darbo dienas nuo skundo gavimo apie gautą skundą ir teisę per keturiolika dienų nuo pranešimo išsiuntimo pateikti atsiliepimą, taip pat apie paskirtą šio klausimo nagrinėjimo datą praneša nuteistajam ir prokurorui. Teismo reikalavimu bausmę vykdanti institucija asmens bylą pateikia likus ne mažiau kaip penkioms dienoms iki klausimo nagrinėjimo teisme.
 
-4. Šio straipsnio 3 dalyje nurodytas pranešimas Lygtinio paleidimo iš pataisos įstaigos komisijai nesiunčiamas, kai nagrinėjamas nuteistojo, sutikusio, kad jam būtų taikoma intensyvi priežiūra, skundas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo netaikyti nuteistajam lygtinio paleidimo iš pataisos įstaigos.
+4. Teismas, išnagrinėjęs skundą dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo, priima vieną iš šių nutarčių:
 
-5. Teismas, išnagrinėjęs šio straipsnio 1 dalyje nurodytus klausimus, priima vieną iš šių nutarčių:
+1) atmesti skundą;
 
-1) patvirtinti Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimą taikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos;
+2) patenkinti skundą ir taikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos – kai nagrinėjamas klausimas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo netaikyti nuteistajam lygtinio paleidimo iš pataisos įstaigos;
 
-2) atsisakyti patvirtinti Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimą taikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos;
+3) patenkinti skundą ir pakeisti Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimą – kai nagrinėjamas šios dalies 2 punkte nenurodytas klausimas.
 
-3) atmesti nuteistojo skundą, kai nagrinėjamas klausimas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo netaikyti nuteistajam lygtinio paleidimo iš pataisos įstaigos;
+5. Priėmęs nutartį patvirtinti Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimą arba patenkinti skundą ir taikyti lygtinį paleidimą iš pataisos įstaigos, teismas kartu nustato nuteistajam probacijos sąlygas.
 
-4) patenkinti nuteistojo skundą ir taikyti jam lygtinį paleidimą iš pataisos įstaigos, kai nagrinėjamas klausimas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo netaikyti nuteistajam lygtinio paleidimo iš pataisos įstaigos.
+6. Nuteistajam, pateikusiam Lietuvos Respublikos bausmių vykdymo kodekso 157 straipsnio 3 dalyje nurodytą sutikimą, nustatoma intensyvi priežiūra, kitos probacijos sąlygos nustatomos atsižvelgiant į Lygtinio paleidimo iš pataisos įstaigos komisijos rekomendacijas ir (ar) lygtinai paleidžiamo iš pataisos įstaigos nuteistojo kriminogeninius veiksnius.
 
-6. Priėmęs vieną iš šio straipsnio 5 dalies 1 ir 4 punktuose nurodytų nutarčių, teismas kartu nustato nuteistajam Lygtinio paleidimo iš pataisos įstaigų komisijos siūlomas jam nustatyti auklėjamojo poveikio ar baudžiamojo poveikio priemones ir (ar) Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 ar 3 dalyje numatytas pareigas ir laiką, per kurį nuteistasis privalo įvykdyti paskirtas auklėjamojo poveikio ar baudžiamojo poveikio priemones ir (ar) pareigas, arba paskiria intensyvią priežiūrą. Šios nutarties nuorašai nedelsiant, ne vėliau kaip kitą darbo dieną, išsiunčiami prokurorui ir nuteistajam.
+7. Šiame straipsnyje nurodytų teismo nutarčių nuorašai ne vėliau kaip kitą darbo dieną nuo nutarčių priėmimo išsiunčiami nuteistajam ir prokurorui. Nutartys skundžiamos ir skundai nagrinėjami šio Kodekso 364 straipsnyje nustatyta tvarka.
 
-7. Šio straipsnio 5 dalyje nurodytos teismo nutartys skundžiamos ir skundai nagrinėjami šio Kodekso 364 straipsnyje nustatyta tvarka.
+8. Nuteistajam, kuris lygtinai paleistas iš pataisos įstaigos remiantis Lietuvos Respublikos bausmių vykdymo kodekso 157 straipsniu, probacijos sąlygas pakeičia arba lygtinį paleidimą iš pataisos įstaigos panaikina ir nuteistąjį pasiunčia atlikti likusią nuosprendžiu paskirtos laisvės atėmimo bausmės dalį nuteistojo gyvenamosios vietos apylinkės teismas probacijos tarnybos teikimu šio Kodekso 362 straipsnyje nustatyta tvarka.
 
-8. Nuteistajam, kuris lygtinai paleistas iš pataisos įstaigos remiantis Lietuvos Respublikos bausmių vykdymo kodekso 157 straipsniu, lygtinio paleidimo iš pataisos įstaigos sąlygas pakeičia arba lygtinį paleidimą iš pataisos įstaigos panaikina ir nuteistąjį pasiunčia atlikti likusią bausmę nuteistojo gyvenamosios vietos apylinkės teismas probacijos tarnybos teikimu šio Kodekso 362 straipsnyje nustatyta tvarka.
+TAR pastaba. Klausimus dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimų ir skundų (atsiliepimų) dėl šių nutarimų, pateiktų iki 2015 m. rugpjūčio 31 d., teismas nuo 2015 m. rugsėjo 1 d. sprendžia 2015 m. birželio 23 d. įstatymo Nr. XII-1820 išdėstytame Lietuvos Respublikos baudžiamojo proceso kodekso 360 straipsnyje nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
 Nr. IX-2336, 2004-07-08, Žin., 2004, Nr. 115-4276 (2004-07-24)
 
 Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
+
+Straipsnio pakeitimai:
+
+Nr. XII-1820, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11076
 
 361 straipsnis. Socialinio tyrimo išvada
 
@@ -1929,7 +1933,11 @@ Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
 
 3. Klausimus dėl baudos, turtinės žalos atlyginimo ar pašalinimo, įmokos į Nukentėjusių nuo nusikaltimų asmenų fondą, turto konfiskavimo, išplėstinio turto konfiskavimo vykdymo ar proceso išlaidų išieškojimo perdavimo vykdyti Europos Sąjungos valstybės narės kompetentingai institucijai pagal šio Kodekso 342 straipsnį nagrinėja ir nutartimi išsprendžia nuosprendį priėmęs teismas. Šiems klausimams spręsti gali būti rengiamas teismo posėdis. Į teismo posėdį reikiamais atvejais teismas šaukia prokurorą, gynėją ir kitus proceso dalyvius, tačiau šių asmenų neatvykimas klausimo sprendimo nesustabdo.
 
-4. Klausimus dėl nuosprendžio vykdymo metu kylančių abejonių ir neaiškumų pagal šio Kodekso 361 straipsnį, taip pat klausimus, numatytus Lietuvos Respublikos bausmių vykdymo kodekse, nagrinėja ir nutartimi išsprendžia nuosprendį priėmęs teismas. Šiems klausimams spręsti gali būti rengiamas teismo posėdis. Į teismo posėdį reikiamais atvejais teismas šaukia prokurorą, gynėją ir kitus proceso dalyvius, tačiau šių asmenų neatvykimas klausimo sprendimo nesustabdo.
+4. Klausimus dėl nuosprendžio vykdymo metu kylančių abejonių ir neaiškumų pagal šio Kodekso 361 straipsnį, taip pat klausimus, numatytus Lietuvos Respublikos bausmių vykdymo kodekse, nagrinėja ir nutartimi išsprendžia nuosprendį priėmęs teismas. Lietuvos Respublikos probacijos įstatyme nurodytus klausimus nagrinėja ir nutartimi išsprendžia nuteistojo gyvenamosios vietos apylinkės teismas. Šioje dalyje nurodytiems klausimams spręsti gali būti rengiamas teismo posėdis. Į teismo posėdį reikiamais atvejais teismas šaukia prokurorą, gynėją ir kitus proceso dalyvius, tačiau šių asmenų neatvykimas klausimo sprendimo nesustabdo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1820, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11076
 
 5. Tais atvejais, kai šiame straipsnyje nurodytiems klausimams spręsti teismo posėdis nerengiamas, teismas ne vėliau kaip per tris dienas nuo teikimo ar prašymo gavimo teisme dienos suinteresuotiems asmenims praneša apie gauto teikimo, prašymo ar teismo iniciatyva nagrinėjamo klausimo nagrinėjimo laiką ir apie teisę per keturiolika dienų nuo pranešimo išsiuntimo dienos pateikti atsiliepimą, pareiškimus dėl nušalinimo ir kitus prašymus. Šiame straipsnyje nurodyti klausimai teisme, kai teismo posėdis nerengiamas, turi būti išnagrinėti per septynias dienas nuo atsiliepimų pateikimo termino pabaigos.
 
@@ -1965,9 +1973,17 @@ Nr. XII-775, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03406
 
 2. Nutartis dėl šio Kodekso 361–363, 365, 3651, 3653 straipsniuose nurodytų klausimų gali apskųsti prokuroras, nuteistasis, asmuo, dėl kurio turto konfiskavimo priimtas sprendimas, ir jų gynėjas, nepilnamečio nuteistojo atstovas pagal įstatymą, juridinio asmens atstovas, o kai klausimas susijęs su nuosprendžio vykdymu civilinio ieškinio atžvilgiu, – taip pat civilinis ieškovas ir civilinis atsakovas arba jų atstovai.
 
-3. Skundas dėl apylinkės teismo nutarties paduodamas apygardos teismui, dėl apygardos teismo nutarties – Lietuvos apeliaciniam teismui per septynias dienas nuo nutarties gavimo dienos. Prokurorui, nuteistojo gynėjui ir nepilnamečio nuteistojo atstovui pagal įstatymą dėl šio Kodekso 360 straipsnio 5 dalyje nurodytos teismo nutarties ir suimtam nuteistajam šis terminas skaičiuojamas nuo nutarties nuorašo įteikimo jiems dienos. Skundas paduodamas per nutartį priėmusį teismą. Skundą gavęs teismas per tris dienas nuo jo gavimo teisme dienos praneša šio straipsnio 2 dalyje nurodytiems asmenims apie gautą skundą ir teisę per keturiolika dienų nuo pranešimo išsiuntimo dienos aukštesniajam teismui pateikti atsiliepimą, pareiškimus dėl nušalinimo ir kitus prašymus, o skundą kartu su medžiaga perduoda atitinkamam teismui.
+3. Skundas dėl apylinkės teismo nutarties paduodamas apygardos teismui, dėl apygardos teismo nutarties – Lietuvos apeliaciniam teismui per septynias dienas nuo nutarties gavimo dienos. Prokurorui, nuteistojo gynėjui ir nepilnamečio nuteistojo atstovui pagal įstatymą dėl šio Kodekso 360 straipsnio 2 ir 4 dalyse nurodytų teismo nutarčių ir suimtam nuteistajam šis terminas skaičiuojamas nuo nutarties nuorašo įteikimo jiems dienos. Skundas paduodamas per nutartį priėmusį teismą. Skundą gavęs teismas per tris dienas nuo jo gavimo teisme dienos praneša šio straipsnio 2 dalyje nurodytiems asmenims apie gautą skundą ir teisę per keturiolika dienų nuo pranešimo išsiuntimo dienos aukštesniajam teismui pateikti atsiliepimą, pareiškimus dėl nušalinimo ir kitus prašymus, o skundą kartu su medžiaga perduoda atitinkamam teismui.
 
-4. Skundo padavimas sustabdo teismo nutarčių atidėti nuosprendžio vykdymą, atleisti nuteistąjį nuo bausmės atlikimo dėl ligos, pripažinti Europos Sąjungos valstybės narės teismo priimtą sprendimą konfiskuoti ir šio Kodekso 360 straipsnio 5 dalies 1 ir 4 punktuose nurodytų nutarčių vykdymą.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1820, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11076
+
+4. Skundo padavimas sustabdo teismo nutarčių atidėti nuosprendžio vykdymą, atleisti nuteistąjį nuo bausmės atlikimo dėl ligos, pripažinti Europos Sąjungos valstybės narės teismo priimtą sprendimą konfiskuoti ir šio Kodekso 360 straipsnio 5 dalyje nurodytų nutarčių vykdymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1820, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11076
 
 5. Aukštesniojo teismo pirmininkas ar Baudžiamųjų bylų skyriaus pirmininkas skundą paskiria nagrinėti teisėjui ar trijų teisėjų kolegijai ir vieną iš šių teisėjų patvirtina kolegijos pirmininku. Kai skundžiamą nutartį žemesniajame teisme priėmė vienas teisėjas, aukštesniajame teisme skundą nagrinėja vienas teisėjas; kai nutartį žemesniajame teisme priėmė teisėjų kolegija, aukštesniajame teisme skundą nagrinėja trijų teisėjų kolegija.
 
@@ -3963,7 +3979,11 @@ Nr. XI-1852, 2011-12-22, Žin., 2011, Nr. 164-7797 (2011-12-31)
 
 2531 straipsnis. Pavedimas parengti socialinio tyrimo išvadą
 
-1. Kai asmuo yra kaltinamas nesunkaus, apysunkio ar neatsargaus nusikaltimo padarymu, teisėjas nutartimi gali pavesti probacijos tarnybai parengti socialinio tyrimo išvadą. Kartu teismas nustato ne trumpesnį kaip 20 darbo dienų terminą socialinio tyrimo išvadai parengti.
+1. Atsižvelgdamas į prokuroro, kaltinamojo ar jo gynėjo prašymą, taip pat savo nuožiūra teisėjas nutartimi gali pavesti probacijos tarnybai parengti socialinio tyrimo išvadą. Kartu teismas nustato ne trumpesnį kaip 20 darbo dienų terminą socialinio tyrimo išvadai parengti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1820, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11076
 
 2. Jeigu kaltinamasis nesutinka arba vengia pateikti socialinio tyrimo išvadai parengti reikalingą informaciją, apie tai pažymima socialinio tyrimo išvadoje.
 
