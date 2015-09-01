@@ -4,7 +4,7 @@ identifier: "TAR.9E5C5C16B6E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-18"
-last_updated: "2015-05-28"
+last_updated: "2015-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2015-05-28 iki 2015-08-31
+Suvestinė redakcija nuo 2015-09-01 iki 2015-10-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
 
@@ -526,9 +526,19 @@ Redakcija nuo 2016-01-01:
 
 11) nuo 22 valandos iki 8 valandos mažmeninės prekybos vietose (išskyrus savivaldybių tarybų ribojamus atvejus). Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems tarptautinio susisiekimo traukiniuose, laivuose, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, viešbučių kambariuose įrengtuose minibaruose, neapmuitinamose parduotuvėse ir specialiosiose prekybos vietose;
 
-12) koncertų, teatro spektaklių, cirko ir kitų renginių, skirtų nepilnamečiams, metu;
+12) švenčių, masinių renginių, parodų, koncertų, teatro spektaklių, cirko ir kitų renginių, skirtų nepilnamečiams, metu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1739, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08524
 
 13) nuo 22 valandos iki 8 valandos viešojo maitinimo vietose, turinčiose licencijas mažmeninei prekybai alkoholiniais gėrimais. Šis draudimas netaikomas viešojo maitinimo vietose, turinčiose licencijas mažmeninei prekybai alkoholiniais gėrimais, parduodamiems pilstomiems alkoholiniams gėrimams ar alkoholiniams gėrimams, parduodamiems atidarytoje pakuotėje ir tik vartoti vietoje;
+
+14) švenčių, masinių renginių, parodų, koncertų, teatro spektaklių, cirko ir kitų renginių, dėl kurių yra priimtas savivaldybės tarybos sprendimas, numatytas šio straipsnio 8 dalyje, metu.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1739, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08524
 
 4. Lietuvos Respublikoje draudžiama parduoti:
 
@@ -552,7 +562,11 @@ Pastaba. Nuostata, reglamentuojanti draudimą parduoti fermentuotų gėrimų gru
 
 7. Mažmeninės prekybos alkoholiniais gėrimais taisykles, vadovaudamasi šiuo Įstatymu ir Civiliniu kodeksu, tvirtina Lietuvos Respublikos Vyriausybė.
 
-8. Savivaldybių tarybos turi teisę riboti ar uždrausti prekybą alkoholiniais gėrimais švenčių ir masinių renginių dienomis.
+8. Savivaldybių tarybos turi teisę riboti ar uždrausti prekybą alkoholiniais gėrimais švenčių, masinių renginių, parodų, koncertų, teatro spektaklių, cirko ir kitų renginių metu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1739, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08524
 
 9. Savivaldybių tarybos, atsižvelgdamos į prekybos alkoholiniais gėrimais vietą, gyventojų, bendrijų, bendruomenių ar jų atstovų, visuomeninių organizacijų ar kitų institucijų raštu pareikštą nuomonę, policijos komisariatų pasiūlymus, turi teisę riboti laiką, kuriuo leidžiama prekiauti alkoholiniais gėrimais, neišduoti licencijos verstis mažmenine prekyba alkoholiniais gėrimais.
 
@@ -1761,6 +1775,12 @@ kontrolės įstatymo 4 straipsnio antroji dalis, 5 straipsnio antroji dalis, 6
 4) viešose vietose, išskyrus viešojo maitinimo vietas, kuriose išduotos licencijos verstis mažmenine prekyba alkoholiniais gėrimais, ir parodose, mugėse bei masiniuose renginiuose, kuriuose savivaldybių tarybų nustatyta tvarka įmonėms, Europos juridiniams asmenims ar jų filialams yra išduotos licencijos prekiauti alkoholiniais gėrimais;
 
 5) sporto renginių metu salėse, kuriose jie vyksta;
+
+6) švenčių, masinių renginių, parodų, koncertų, teatro spektaklių, cirko ir kitų renginių, dėl kurių yra priimtas savivaldybės tarybos sprendimas, numatytas šio įstatymo 18 straipsnio 8 dalyje, metu.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1739, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08524
 
 2. Lietuvos Respublikoje draudžiama asmenims iki 18 metų vartoti alkoholinius gėrimus ar jų turėti.
 
