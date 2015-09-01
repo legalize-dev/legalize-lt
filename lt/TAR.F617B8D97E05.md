@@ -4,7 +4,7 @@ identifier: "TAR.F617B8D97E05"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-09"
-last_updated: "2015-03-02"
+last_updated: "2015-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2015-03-02 iki 2015-08-31
+Suvestinė redakcija nuo 2015-09-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
 
@@ -225,9 +225,17 @@ Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010IST
 
 6. Šio straipsnio nuostatos mutatis mutandis taikomos ir Lietuvos Respublikos nacionalinę priklausomybę turintiems orlaiviams, jei toks taikymas neprieštarauja Lietuvos Respublikos tarptautinių sutarčių nuostatoms.
 
-22 straipsnis. Materialinė pagalba
+22 straipsnis. Valstybės materialinė pagalba
 
-Konsulinis pareigūnas padeda gauti materialinę pagalbą Lietuvos Respublikos piliečiams, nukentėjusiems užsienio valstybėse, tik Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+1. Valstybės materialinė pagalba teikiama užsienio valstybėse esantiems Lietuvos Respublikos piliečiams, kurie susirgo arba susižalojo, taip pat jeigu nukentėjo dėl nelaimingo atsitikimo, įvykdytos nusikalstamos veikos ar kito teisės pažeidimo. Valstybės materialinė pagalba teikiama, kai nėra galimybių nukentėjusiam Lietuvos Respublikos piliečiui gauti pagalbą iš kitų šaltinių, ir yra grąžintina.
+
+2. Jeigu, pasibaigus valstybės materialinės pagalbos grąžinimo terminui, Lietuvos Respublikos piliečiui suteikta valstybės materialinė pagalba nėra grąžinta, Lietuvos Respublikos užsienio reikalų ministras priima sprendimą dėl Lietuvos Respublikos piliečiui, nukentėjusiam užsienio valstybėje, suteiktos valstybės materialinės pagalbos išieškojimo. Lietuvos Respublikos užsienio reikalų ministro sprendimas yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+
+3. Valstybės materialinės pagalbos Lietuvos Respublikos piliečiams, nukentėjusiems užsienio valstybėse, teikimo, grąžinimo tvarką ir terminus nustato Lietuvos Respublikos Vyriausybė.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1702, 2015-05-14, paskelbta TAR 2015-05-28, i. k. 2015-08222
 
 ANTRASIS SKIRSNIS
 
@@ -510,6 +518,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1521, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21283
 
 Lietuvos Respublikos konsulinio statuto Nr. I-886 25 straipsnio pakeitimo ir Statuto papildymo 25-1 straipsniu įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1702, 2015-05-14, paskelbta TAR 2015-05-28, i. k. 2015-08222
+
+Lietuvos Respublikos konsulinio statuto Nr. I-886 22 straipsnio pakeitimo įstatymas
 
 43 straipsnis
 
