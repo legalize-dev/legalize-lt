@@ -4,7 +4,7 @@ identifier: "TAR.6EA8AC8A483B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-22"
-last_updated: "2015-05-29"
+last_updated: "2015-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2015-05-29 iki 2015-08-31
+Suvestinė redakcija nuo 2015-09-01 iki 2015-10-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
 
@@ -604,7 +604,11 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 2. Važtaraščio formą ir jo užpildymo tvarką nustato Krovinių vežimo geležinkelių transportu taisyklės.
 
-3. Važtaraštis tampa krovinių vežimo sutarties sudarymo ir jos turinio įrodymu uždėjus kalendorinį pradinės geležinkelio stoties antspaudą.
+3. Važtaraštis tampa krovinių vežimo sutarties sudarymo ir jos turinio įrodymu uždėjus kalendorinį pradinės geležinkelio stoties antspaudą arba patvirtinus važtaraštį saugiu elektroniniu parašu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
 
 38 straipsnis. Važtaraščio turinys
 
@@ -754,7 +758,11 @@ Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
 
 50 straipsnis. Papildomų pavedimų pateikimo forma
 
-Papildomi krovinio siuntėjo ar gavėjo pavedimai geležinkelio įmonei (vežėjui) turi būti pateikiami raštu Krovinių vežimo geležinkelių transportu taisyklių nustatyta tvarka. Papildomi pavedimai, pateikti kita forma, negalioja.
+Papildomi krovinio siuntėjo ar gavėjo pavedimai geležinkelio įmonei (vežėjui) turi būti pateikiami Krovinių vežimo geležinkelių transportu taisyklėse nustatyta tvarka. Papildomi pavedimai, pateikti kita forma, negu nustatyta Krovinių vežimo geležinkelių transportu taisyklėse, negalioja.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
 
 51 straipsnis. Atsisakymas atlikti papildomus pavedimus
 
@@ -806,7 +814,11 @@ Geležinkelio įmonė (vežėjas) Krovinių vežimo geležinkelių transportu ta
 
 4. Krovinio gavėjas šio straipsnio 3 dalyje nurodytais atvejais gali atsisakyti priimti krovinį, kol nebus patenkintas jo reikalavimas krovinį patikrinti.
 
-5. Gavėjas krovinio gavimą patvirtina parašu važtaraštyje.
+5. Gavėjas krovinio gavimą patvirtina Krovinių vežimo geležinkelių transportu taisyklėse nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
 
 6. Kroviniai išduodami Krovinių vežimo geležinkelių transportu taisyklių nustatyta tvarka.
 
