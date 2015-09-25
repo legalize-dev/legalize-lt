@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2015-09-01"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-09-01 iki 2015-09-24
+Suvestinė redakcija nuo 2015-09-25 iki 2015-11-25
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -1102,6 +1102,12 @@ Nr. XII-777, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03403
 Straipsnio pakeitimai:
 
 Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
+
+TAR pastaba. Vadovaudamasis Lietuvos Respublikos Konstitucijos 106 straipsnio 4 dalimi, Lietuvos Respublikos Konstitucinio Teismo įstatymo 26 straipsnio 2 dalimi, pranešama, kad nuo šio pranešimo oficialaus paskelbimo Teisės aktų registre dienos (2015-09-25) iki bus paskelbtas Konstitucinio Teismo nutarimas šioje byloje sustabdomas Lietuvos Respublikos baudžiamojo proceso kodekso 157 straipsnio (2002 m. kovo 14 d. redakcija (Žin., 2002, Nr. 37-1341) su 2010 m. rugsėjo 21 d. pakeitimu (Žin., 2010, Nr. 113-5742)) tiek, kiek jame, pasak pareiškėjo, nenustatytas draudimas ar nenumatyti kokie nors papildomi kriterijai, neleidžiantys neribotam laikui nuo pareigų nušalinti tiesiogiai išrinktą valstybės politiką, galiojimas.
+
+Straipsnio pakeitimai:
+
+Nr. 2B-43P, 2015-09-25, paskelbta TAR 2015-09-25, i. k. 2015-14241
 
 158 straipsnis. Savo tapatybės neatskleidžiančių ikiteisminio tyrimo pareigūnų veiksmai
 
