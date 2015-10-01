@@ -4,7 +4,7 @@ identifier: "TAR.8A16A03D98D4"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-01"
-last_updated: "2015-09-01"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A16A03D98D4"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Neoficialus įstatymo tekstas
 
-Suvestinė redakcija nuo 2015-09-01 iki 2015-09-30
+Suvestinė redakcija nuo 2015-10-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 65-1558, i. k. 0971010ISTAVIII-359
 
@@ -153,7 +153,11 @@ ir tvarka
 
 10. Žemė, apsodinta ir apaugusi mišku, grąžinama natūra. Jeigu pilietis atsisako imti apsodintą ir apaugusį mišku žemės sklypą, valstybė jam atlygina pagal šio įstatymo 16 straipsnį.
 
-11. Kaimo vietovėje žemė, kuri naudojama ar nuomojama fiziniams, juridiniams asmenims ir Lietuvos Respublikoje įsteigtiems Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės valstybėse įsisteigusių įmonių filialams, grąžinama natūra, jeigu ji pagal šio įstatymo 12 straipsnį nepriskirta valstybės išperkamai žemei. Priėmus sprendimą atkurti nuosavybės teises grąžinant šią žemę natūra, valstybinės žemės nuomos sutartis nutraukiama prieš terminą nuomotojo reikalavimu. Kai grąžinama natūra kitų fizinių ir juridinių asmenų naudojama ar nuomojama žemė, reikalinga nuosavybės teise jų valdomų pastatų ir statinių (statomų ar pastatytų), taip pat poilsiaviečių pastatų ir statinių (statomų ar pastatytų) eksploatacijai, arba kai nuosavybės teisės atkuriamos perduodant kitų asmenų nuomojamą žemę neatlygintinai nuosavybėn lygiaverčiu žemės sklypu, teisės ir pareigos pagal valstybinės žemės nuomos sutartį pereina naujajam žemės savininkui, jeigu šalys nesusitaria kitaip.
+11. Kaimo vietovėje žemė, kuri naudojama ar nuomojama fiziniams, juridiniams asmenims ir Lietuvos Respublikoje įsteigtiems Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės valstybėse įsisteigusių įmonių filialams, grąžinama natūra, jeigu ji pagal šio įstatymo 12 straipsnį nepriskirta valstybės išperkamai žemei. Priėmus sprendimą atkurti nuosavybės teises grąžinant šią žemę natūra, valstybinės žemės nuomos sutartis nutraukiama prieš terminą nuomotojo reikalavimu. Kai grąžinama natūra kitų fizinių ir juridinių asmenų naudojama ar nuomojama žemė, reikalinga nuosavybės teise jų valdomų pastatų ir statinių (statomų ar pastatytų), taip pat poilsiaviečių pastatų ir statinių (statomų ar pastatytų) eksploatacijai, arba kai nuosavybės teisės atkuriamos perduodant kitų asmenų nuomojamą žemę neatlygintinai nuosavybėn lygiaverčiu žemės sklypu, teisės ir pareigos pagal valstybinės žemės nuomos sutartį pereina naujajam žemės savininkui, jeigu šalys nesusitaria kitaip. Kai grąžinamam natūra žemės sklypui yra nustatomas servitutas, reikalingas kitų fizinių ir juridinių asmenų nuosavybės teise jų valdomų pastatų ir statinių (statomų ar pastatytų), taip pat poilsiaviečių pastatų ir statinių (statomų ar pastatytų) eksploatacijai, kompensacija už servitutą nustatoma tokio pat dydžio kaip valstybinės žemės nuomos mokestis, apskaičiuotas už žemės plotą, reikalingą šių pastatų ir statinių eksploatacijai, nustatytas tos savivaldybės, kurioje yra šis žemės sklypas, teritorijoje, išskyrus atvejus, jeigu šalys susitaria kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1808, 2015-06-18, paskelbta TAR 2015-07-01, i. k. 2015-10571
 
 12. Žemė, kurioje įrengti tvenkiniai, neprivatizuoti pagal Lietuvos Respublikos valstybinio turto pirminio privatizavimo bei Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymus, grąžinama natūra piliečiams (išskyrus tvenkinio užtvankos įrenginius, jeigu jie priskirti pavojingiems įrenginiams) ribotam tiksliniam naudojimui. Žemė, kurioje įrengti tvenkiniai (įskaitant su jais susijusių užtvankos įrenginių užimtą žemę), privatizuoti pagal Lietuvos Respublikos valstybinio turto pirminio privatizavimo bei Valstybės ir savivaldybių turto privatizavimo įstatymus ir naudojami pagal paskirtį, išperkama valstybės ir už ją atlyginama pagal šio įstatymo 16 straipsnį.
 
@@ -972,4 +976,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1809, 2015-06-18, paskelbta TAR 2015-07-01, i. k. 2015-10572
 
 Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo Nr. VIII-359 12 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1808, 2015-06-18, paskelbta TAR 2015-07-01, i. k. 2015-10571
+
+Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo Nr. VIII-359 4 straipsnio pakeitimo įstatymas
 
