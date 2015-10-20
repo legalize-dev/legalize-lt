@@ -4,7 +4,7 @@ identifier: "TAR.06267D86738E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-07-09"
-last_updated: "2015-09-01"
+last_updated: "2015-10-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2015-09-01 iki 2015-10-19
+Suvestinė redakcija nuo 2015-10-20 iki 2015-11-27
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
 
@@ -427,6 +427,12 @@ RINKIMŲ APYGARDOS IR APYLINKĖS
 9 straipsnis. Rinkimų apygardų sudarymas
 
 1. Rinkimams organizuoti ir vykdyti Lietuvos Respublikos teritorija dalijama į 71 vienmandatę rinkimų apygardą, atsižvelgiant į rinkėjų skaičių rinkimų apygardoje, Lietuvos Respublikos teritorijos suskirstymą į vienmandates rinkimų apygardas per ankstesnius Seimo rinkimus ir administracinį teritorinį padalijimą. Rinkimų apygarda sudaroma iš bendrą ribą turinčių rinkimų apylinkių. Rinkėjų skaičius apygardoje turi būti nuo 0,8 iki 1,2 vidutinio rinkėjų visose vienmandatėse rinkimų apygardose skaičiaus. Vyriausioji rinkimų komisija, likus ne mažiau kaip 95 dienoms iki rinkimų, nustato ir, likus ne mažiau kaip 90 dienų iki rinkimų, savo interneto svetainėje skelbia rinkimų apygardas sudarančių rinkimų apylinkių sąrašą, jų balsavimo būstinių adresus ir telefonus, apygardos rinkėjų skaičių, apygardų rinkimų komisijų adresus ir telefonus.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Seimo rinkimų įstatymo 9 straipsnio 1 dalies (2012 m. lapkričio 6 d. redakcija; Žin., 2012, Nr. 132-6666) nuostata „Rinkėjų skaičius apygardoje turi būti nuo 0,8 iki 1,2 vidutinio rinkėjų visose vienmandatėse rinkimų apygardose skaičiaus“ tiek, kiek pagal ją leidžiamas iki 20 proc. rinkėjų vienmandatėje rinkimų apygardoje skaičiaus nuokrypis nuo vidutinio rinkėjų visose vienmandatėse rinkimų apygardose skaičiaus, prieštarauja Lietuvos Respublikos Konstitucijos 55 straipsnio 1 daliai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT27-N16/2015, 2015-10-20, paskelbta TAR 2015-10-20, i. k. 2015-15777
 
 2. Taip pat sudaroma viena daugiamandatė rinkimų apygarda, kurioje balsuoja visi turintys rinkimų teisę Lietuvos Respublikos piliečiai. Šioje apygardoje pagal proporcinę rinkimų sistemą renkama 70 Seimo narių.
 
@@ -2059,6 +2065,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
 
 Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 6, 40, 45, 86, 93 ir 95 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT27-N16/2015, 2015-10-20, paskelbta TAR 2015-10-20, i. k. 2015-15777
+
+Dėl Lietuvos Respublikos Seimo rinkimų įstatymo 9 straipsnio 1 dalies (2012 m. lapkričio 6 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
 
 671 straipsnis. Balsavimas namuose ir balsavimas iš anksto
 
