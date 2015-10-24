@@ -4,7 +4,7 @@ identifier: "TAR.38B0127A21E8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-12"
-last_updated: "2015-05-01"
+last_updated: "2015-10-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.38B0127A21E8"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-10-23
+Suvestinė redakcija nuo 2015-10-24 iki 2015-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 101-2300, i. k. 0961010ISTA00I-1513
 
@@ -156,17 +156,19 @@ Nr. X-115, 2005-02-15, Žin., 2005, Nr. 31-973 (2005-03-05)
 
 Nr. XII-438, 2013-06-27, Žin., 2013, Nr. 75-3764 (2013-07-13)
 
-3 straipsnis. Vežimas ir buksyravimas kabotažu
+3 straipsnis. Teisė teikti jūrų kabotažo paslaugas
 
-1. Vežti ir buksyruoti jūra tarp Lietuvos Respublikos uostų (jūrų kabotažas) gali laivai, plaukiojantys su Lietuvos valstybės vėliava.
-
-2. Teisę teikti jūrų kabotažo paslaugas tarp Lietuvos Respublikos uostų taip pat turi ir laivai, plaukiojantys su bet kurios Europos Sąjungos valstybės vėliava, jeigu šie laivai atitinka toje valstybėje jūrų kabotažo paslaugoms keliamus reikalavimus.
+Teikti jūrų kabotažo paslaugas, kaip tai apibrėžta 1992 m. gruodžio 7 d. Tarybos reglamente EEB Nr. 3577/92, taikančiame laisvės teikti paslaugas principą jūrų transportui valstybėse narėse (jūrų kabotažas), Lietuvos Respublikoje gali laivai, plaukiojantys su Lietuvos valstybės vėliava, ir laivai, kuriems tokią teisę suteikia šis reglamentas.
 
 Straipsnio pakeitimai:
 
 Nr. IX-595, 2001-11-13, Žin., 2001, Nr. 99-3527 (2001-11-28)
 
 Nr. IX-1680, 2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
+
+Straipsnio pakeitimai:
+
+Nr. XII-1959, 2015-10-15, paskelbta TAR 2015-10-23, i. k. 2015-16727
 
 4 straipsnis. Prekybinės laivybos valstybinis valdymas
 
@@ -1554,11 +1556,23 @@ priedas
 
 Įgyvendinami Europos Sąjungos teisės aktai
 
-1. 1986 m. gruodžio 22 d. Tarybos reglamentas EEB Nr. 4055/86 dėl laisvės teikti paslaugas principo taikymo jūrų transporto paslaugoms tarp valstybių narių bei valstybių narių ir trečiųjų šalių.
+1. 1986 m. gruodžio 22 d. Tarybos reglamentas EEB Nr. 4055/86 dėl laisvės teikti paslaugas principo taikymo jūrų transporto paslaugoms tarp valstybių narių bei valstybių narių ir trečiųjų šalių (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 174).
 
-2. 1992 m. gruodžio 7 d. Tarybos reglamentas EEB Nr. 3577/92, taikantis laisvės teikti paslaugas jūrų transportui valstybėse narėse principą (jūrų kabotažas).
+Punkto pakeitimai:
 
-3. 1999 m. liepos 21 d. Tarybos direktyva Nr. 1999/63/EB dėl susitarimo dėl jūrininkų darbo laiko, sudaryto tarp Europos Bendrijų laivų savininkų asociacijos (ECSA) ir Transporto darbuotojų sąjungų federacijos.
+Nr. XII-1959, 2015-10-15, paskelbta TAR 2015-10-23, i. k. 2015-16727
+
+2. 1992 m. gruodžio 7 d. Tarybos reglamentas EEB Nr. 3577/92, taikantis laisvės teikti paslaugas principą jūrų transportui valstybėse narėse (jūrų kabotažas) (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 10).
+
+Punkto pakeitimai:
+
+Nr. XII-1959, 2015-10-15, paskelbta TAR 2015-10-23, i. k. 2015-16727
+
+3. 1999 m. birželio 21 d. Tarybos direktyva Nr. 1999/63/EB dėl Europos bendrijos laivų savininkų asociacijos (ECSA) ir Europos Sąjungos transporto darbuotojų profesinių sąjungų federacijos (FST) susitarimo dėl jūreivių darbo laiko organizavimo (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 363).
+
+Punkto pakeitimai:
+
+Nr. XII-1959, 2015-10-15, paskelbta TAR 2015-10-23, i. k. 2015-16727
 
 4. 2009 m. vasario 16 d. Tarybos direktyva 2009/13/EB, įgyvendinanti Europos bendrijos laivų savininkų asociacijų (ECSA) ir Europos transporto darbuotojų federacijos (ETF) sudarytą susitarimą dėl 2006 m. Konvencijos dėl darbo jūrų laivyboje ir iš dalies keičianti Direktyvą 1999/63/EB (OL 2009 L 124, p. 30).
 
