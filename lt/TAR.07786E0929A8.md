@@ -4,7 +4,7 @@ identifier: "TAR.07786E0929A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-01-18"
-last_updated: "2012-02-03"
+last_updated: "2015-10-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 department: "Lietuvos Respublikos Seimas"
@@ -17,9 +17,23 @@ X skirsnis įsigalioja pradėjus galioti Lietuvos Respublikos Vyriausybės ir Eu
 ---
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 2012-02-03 iki 2015-10-27
+Suvestinė redakcija nuo 2015-10-28 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
+
+Nauja redakcija nuo 2012-02-03:
+
+Nr. XI-1261, 2010-12-23, Žin. 2011, Nr. 4-127 (2011-01-10), i. k. 1101010ISTA0XI-1261
+
+LIETUVOS RESPUBLIKOS PATENTŲ ĮSTATYMAS
+
+1994 m. sausio 18 d. Nr. I-372
+
+Vilnius
+
+PIRMASIS SKIRSNIS
+
+BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis ir taikymo sritis
 
@@ -463,7 +477,11 @@ PATENTO GALIOJIMAS
 
 2) atliekami eksperimentiniams arba mokslinių tyrimų tikslams ir tai netrukdo normaliai naudoti patentą ir nepagrįstai nepažeidžia teisėtų patento savininko interesų;
 
-3) atliekami vienkartiniam vaistų gaminimui vaistinėje pagal gydytojo receptą arba jeigu nurodyta, kaip naudotis taip pagamintais vaistais;
+3) atliekami vienkartiniam vaistų gaminimui vaistinėje pagal receptą arba jeigu nurodyta, kaip naudotis taip pagamintais vaistais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1975, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16929
 
 4) susiję su gaminiais, kurie paties patento savininko arba jo sutikimu yra pateikti rinkai Europos ekonominės erdvės valstybėse.
 
@@ -1013,27 +1031,15 @@ VI SKIRSNIS
 
 PRIVERSTINĖ LICENCIJA
 
-TAR pastaba. Šis įstatymas įsigalioja Patentų teisės sutarties įsigaliojimo Lietuvos Respublikai dieną. Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos patentų įstatymo 66 straipsnis netenka galios praėjus 31 mėnesiui nuo šio įstatymo įsigaliojimo datos.
+66 straipsnis. Tarptautinė patento paraiška, kai Valstybinis patentų biuras yra nurodytoji ar pasirinktoji patentų tarnyba
 
-Lietuvos Respublikos Seimas, Įstatymas
+1. Patentinės kooperacijos sutarties, šio įstatymo ir šio įstatymo įgyvendinamųjų teisės aktų nuostatos taikomos tarptautinei patento paraiškai, kai Valstybinis patentų biuras yra nurodytoji ar pasirinktoji patentų tarnyba.
 
-Nr. XI-1261, 2010-12-23, Žin., 2011, Nr. 4-127 (2011-01-10), i. k. 1101010ISTA0XI-1261
+2. Pagal Patentinės kooperacijos sutarties 21 straipsnį paskelbtai tarptautinei patento paraiškai, vadovaujantis šio įstatymo 26 straipsnio 3 dalimi, suteikiama laikina teisinė apsauga, kai Valstybinis patentų biuras yra nurodytoji ar pasirinktoji patentų tarnyba.
 
-Lietuvos Respublikos patentų įstatymo pakeitimo įstatymas
+3. Laikina teisinė apsauga įsigalioja nuo datos, kai Valstybinio patentų biuro oficialiame biuletenyje buvo paskelbtas tarptautinėje patento paraiškoje nurodyto išradimo apibrėžties vertimas į valstybinę kalbą.
 
-Nauja redakcija nuo 2012-02-03:
-
-Nr. XI-1261, 2010-12-23, Žin. 2011, Nr. 4-127 (2011-01-10), i. k. 1101010ISTA0XI-1261
-
-LIETUVOS RESPUBLIKOS PATENTŲ ĮSTATYMAS
-
-1994 m. sausio 18 d. Nr. I-372
-
-Vilnius
-
-PIRMASIS SKIRSNIS
-
-BENDROSIOS NUOSTATOS
+4. Kai Valstybinis patentų biuras yra nurodytoji ar pasirinktoji patentų tarnyba, tarptautinės patento paraiškos pareiškėjas, norėdamas pagal šį įstatymą gauti Lietuvos Respublikos patentą, privalo per Patentinės kooperacijos sutarties 22 ar 39 straipsnyje nustatytą terminą pateikti tarptautinės patento paraiškos vertimą į valstybinę kalbą ir sumokėti mokestį.
 
 63 straipsnis. Patento pripažinimas negaliojančiu
 
@@ -1304,4 +1310,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1261, 2010-12-23, Žin., 2011, Nr. 4-127 (2011-01-10), i. k. 1101010ISTA0XI-1261
 
 Lietuvos Respublikos patentų įstatymo pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1975, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16929
+
+Lietuvos Respublikos patentų įstatymo Nr. I-372 35 straipsnio pakeitimo įstatymas
 
