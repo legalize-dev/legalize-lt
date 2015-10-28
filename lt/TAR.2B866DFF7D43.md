@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2015-07-15"
+last_updated: "2015-10-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2015-07-15 iki 2015-10-27
+Suvestinė redakcija nuo 2015-10-28 iki 2015-11-25
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -1721,10 +1721,6 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 Kodeksas papildytas straipsniu:
 
 Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
-
-XLIV SKYRIUS
-
-NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI DOROVEI
 
 309 straipsnis. Disponavimas pornografinio turinio dalykais
 
@@ -5610,6 +5606,14 @@ Nr. XII-1830, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10580
 
 Lietuvos Respublikos baudžiamojo kodekso 310 straipsnio pakeitimo įstatymas
 
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1987, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16936
+
+Lietuvos Respublikos baudžiamojo kodekso papildymo 306-2 straipsniu įstatymas
+
 2771 straipsnis. Sąvokų išaiškinimas
 
 Ypatingai saugomi laukiniai gyvūnai, augalai ir grybai yra:
@@ -6179,4 +6183,20 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki trejų metų.
 Papildyta straipsniu:
 
 Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
+
+3062 straipsnis. Transporto priemonės ridos suklastojimas
+
+1. Tas, kas suklastojo transporto priemonės ridą,
+
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
+
+2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+
+Papildyta straipsniu:
+
+Nr. XII-1987, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16936
+
+XLIV SKYRIUS
+
+NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI DOROVEI
 
