@@ -4,7 +4,7 @@ identifier: "TAR.B8F45E398856"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-28"
-last_updated: "2012-11-22"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B8F45E398856"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymas
 
-Suvestinė redakcija nuo 2012-11-22 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 35-855, i. k. 0961010ISTA00I-1246
 
@@ -97,7 +97,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
 
-14. Receptas – sveikatos apsaugos ministro nustatytos formos rašytinis odontologo nurodymas vaistininkui, pagal kurį vaistinė paruošia ir išduoda vaistus, odontologijos pagalbos priemones.
+14. Neteko galios nuo 2015-11-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1974, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16904
 
 15. Rezidentūros bazė – universiteto ligoninė ar kita sveikatos priežiūros įstaiga, sveikatos apsaugos ministro ir švietimo ir mokslo ministro nustatyta tvarka įgijusi teisę vykdyti rezidentūros programą ar jos dalį.
 
@@ -396,6 +400,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2372, 2012-11-06, Žin., 2012, Nr. 135-6863 (2012-11-22), i. k. 1121010ISTA0XI-2372
 
 Lietuvos Respublikos odontologijos praktikos įstatymo 5 ir 7 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1974, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16904
+
+Lietuvos Respublikos odontologijos praktikos įstatymo Nr. I-1246 2 straipsnio pakeitimo įstatymas
 
 12 straipsnis.       Asmenys, turintys teisę į valstybės ar savivaldybių remiamas (nemokamas) stomatologinės priežiūros (pagalbos) paslaugas LNSS įstaigose
 
