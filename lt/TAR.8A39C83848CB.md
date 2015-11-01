@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2015-07-15"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2015-07-15 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2015-12-02
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -551,7 +551,17 @@ Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518
 
 9) taikos sutartys;
 
-10) kiti sandoriai, kuriems šis kodeksas ar kiti įstatymai nustato privalomą paprastą rašytinę formą.
+10) motorinės transporto priemonės pirkimo–pardavimo sutartys;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1851, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10597
+
+11) kiti sandoriai, kuriems šis kodeksas ar kiti įstatymai nustato privalomą paprastą rašytinę formą.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-1851, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10597
 
 2. Rašytinės formos sandoriai sudaromi surašant vieną dokumentą, pasirašomą visų sandorio šalių, arba šalims apsikeičiant atskirais dokumentais. Rašytinės formos dokumentui prilyginami šalių pasirašyti dokumentai, perduoti telegrafinio, faksimilinio ryšio ar kitokiais telekomunikacijų galiniais įrenginiais, jeigu yra užtikrinta teksto apsauga ir galima identifikuoti parašą.
 
@@ -5645,10 +5655,6 @@ Kitokių pirkimo–pardavimo sutarčių ypatumai
 
 2. Pagal pirkimo–pardavimo sutartį su išlyga dėl nuosavybės teisės pirkėjas neturi disponavimo parduodamu daiktu teisės tol, kol neįvykdo sutartyje nurodytų sąlygų.
 
-XXIV skyrius
-
-Mainai
-
 6.433 straipsnis. Kaina ir sutarties sudarymo išlaidos
 
 1. Jeigu ko kita nenumato mainų sutartis, preziumuojama, kad daiktų kaina yra vienoda ir jais keičiamasi be jokių priemokų, o daiktų perdavimo ir priėmimo išlaidas turi apmokėti ta šalis, kuri atitinkamai privalo perduoti ir priimti daiktus.
@@ -10032,4 +10038,32 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1831, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10581
 
 Lietuvos Respublikos civilinio kodekso 2.11 straipsnio pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1851, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10597
+
+Lietuvos Respublikos civilinio kodekso 1.73 straipsnio pakeitimo ir Kodekso papildymo 6.431-1 straipsniu įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1961, 2015-10-15, paskelbta TAR 2015-10-19, i. k. 2015-15743
+
+Lietuvos Respublikos civilinio kodekso 1.73 straipsnio pakeitimo ir Kodekso papildymo 6.431-1 straipsniu įstatymo Nr. XII-1851 2 straipsnio pakeitimo įstatymas
+
+6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
+
+Motorinės transporto priemonės pirkimo–pardavimo sutartyje privalo būti nurodyti duomenys apie motorinę transporto priemonę, kurią pardavėjas privalo pagal sutartį perduoti pirkėjui. Pardavėjas pirkimo–pardavimo sutartyje privalo pirkėjui nurodyti (deklaruoti) ridos duomenis, visus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta per laikotarpį, kurį pardavėjas yra motorinės transporto priemonės savininkas, taip pat visus jam žinomus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta. Privalomų pirkimo–pardavimo sutartyje nurodyti duomenų apie motorinę transporto priemonę ir jos trūkumus sąrašą tvirtina Vyriausybė arba jos įgaliota institucija.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1961, 2015-10-15, paskelbta TAR 2015-10-19, i. k. 2015-15743
+
+XXIV skyrius
+
+Mainai
 
