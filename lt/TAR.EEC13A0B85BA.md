@@ -4,7 +4,7 @@ identifier: "TAR.EEC13A0B85BA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-06-01"
-last_updated: "2015-01-01"
+last_updated: "2015-11-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EEC13A0B85BA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos socialinių įmonių įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2015-11-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3519, i. k. 1041010ISTA0IX-2251
 
@@ -379,7 +379,11 @@ Nr. XII-1146, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13455
 
 24 straipsnis. Socialinių įmonių veiklos priežiūra
 
-Vyriausybės įgaliota institucija Viešojo administravimo įstatymo ketvirtajame skirsnyje nustatyta tvarka prižiūri, kaip socialinės įmonės laikosi įstatymuose ir kituose teisės aktuose nustatytų reikalavimų.
+Vyriausybės įgaliota institucija Viešojo administravimo įstatymo ketvirtajame skirsnyje nustatyta tvarka atlieka socialinių įmonių veiklos priežiūrą.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1670, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07404
 
 25 straipsnis. Informacijos apie suteiktą valstybės pagalbą kaupimas
 
@@ -403,7 +407,11 @@ Baigiamosios nuostatos
 
 5) vertina socialinių įmonių pateiktas iš visų šaltinių gautos ir panaudotos valstybės pagalbos ataskaitas, teikia metines suvestines socialinių įmonių veiklos ir valstybės pagalbos lėšų panaudojimo ataskaitas Lietuvos Respublikos socialinės apsaugos ir darbo ministerijai;
 
-6) Viešojo administravimo įstatymo ketvirtajame skirsnyje nustatyta tvarka atlieka socialinių įmonių veiklos priežiūrą;
+6) neteko galios nuo 2015-11-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1670, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07404
 
 7) prireikus organizuoja mokymus socialinių įmonių vadovams ir personalui, dirbančiam su socialinėse įmonėse įdarbinamų asmenų tikslinėmis grupėmis;
 
@@ -484,6 +492,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1146, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13455
 
 Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 22 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1670, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07404
+
+Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 24 ir 26 straipsnių pakeitimo įstatymas
 
 27 straipsnis. Pereinamojo laikotarpio nuostatos
 
