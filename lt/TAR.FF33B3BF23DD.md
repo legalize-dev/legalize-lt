@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2015-07-15"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2015-07-15 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
 
@@ -53,15 +53,11 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 5. Didmeninis vaistinių preparatų platinimas – veikla, apimanti vaistinių preparatų įsigijimą, laikymą, tiekimą ar eksportą, išskyrus atvejus, kai šie veiksmai atliekami vaistinių preparatų pardavimo ar išdavimo gyventojams ar pacientams tikslu. Didmeninio platinimo veiksmus didmeninis vaistinių preparatų platintojas atlieka su vaistinių preparatų gamintojais, importuotojais, kitais didmeniniais vaistinių preparatų platintojais ir asmenimis, turinčiais teisę parduoti ar išduoti vaistinius preparatus gyventojams ar pacientams.
 
-6. Ekstemporalus vaistinis preparatas – gamybinėje visuomenės vaistinėje pagamintas kartinis vaistinis preparatas ar aprašinis vaistinis preparatas:
+6. Ekstemporalusis vaistinis preparatas – vaistinėje gaminamas kartinis vaistinis preparatas – pavieniam pacientui pagal receptą ir (arba) asmens sveikatos priežiūros įstaigos užsakymą gaminamas vaistinis preparatas, ar aprašinis vaistinis preparatas – pagal vaistinio preparato aprašą gaminamas vaistinis preparatas.
 
-1) kartinis vaistinis preparatas – pavieniam pacientui pagal receptą ir (arba) sveikatos priežiūros įstaigos užsakymą pagamintas vaistinis preparatas;
+Straipsnio dalies pakeitimai:
 
-Straipsnio punkto pakeitimai:
-
-Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
-
-2) aprašinis vaistinis preparatas – pagal vaistinio preparato aprašą pagamintas vaistinis preparatas.
+Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
 
 7. Europos farmakopėja – farmakopėja, rengiama pagal Konvenciją dėl Europos farmakopėjos rengimo.
 
@@ -89,11 +85,13 @@ Nr. XII-1438, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20557
 
 12. Farmacinė informacija – bet kokia forma ir bet kokiomis priemonėmis skelbiama ir platinama informacija apie vaistinio preparato farmacines, klinikines ir farmakologines savybes, taip pat vaistinių preparatų kainos prekybos kataloguose ir kainoraščiuose (jeigu juose nėra teiginių apie vaistinių preparatų savybes).
 
-13. Farmacinė paslauga – vaistinėje farmacijos specialistų teikiama paslauga, apimanti išrašytų receptų kontrolę, vertinimą, nereceptinių vaistinių preparatų parinkimą, farmacinės informacijos apie vaistinius preparatus teikimą gyventojams, sveikatos priežiūros ir farmacijos specialistams, taip pat jų konsultavimą.
+13. Farmacinė paslauga – vaistinėje farmacijos specialistų teikiama paslauga, apimanti receptų tikrinimą, vertinimą, nereceptinių vaistinių preparatų parinkimą, farmacinės informacijos apie vaistinius preparatus teikimą gyventojams, sveikatos priežiūros ir farmacijos specialistams, taip pat jų konsultavimą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
+
+Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
 
 14. Farmacinė veikla – juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, apimanti vaistinių preparatų, tiriamųjų vaistinių preparatų, veikliųjų medžiagų gamybą, importą iš trečiųjų šalių, kokybės kontrolę; didmeninį vaistinių preparatų platinimą ir vaistinių preparatų prekybos tarpininkavimą, veikliųjų medžiagų platinimą; vaistinių preparatų lygiagretų importą ir lygiagretų platinimą; vaistinių preparatų pardavimą ar išdavimą galutiniams vartotojams; farmacinės informacijos apie vaistinius preparatus teikimą.
 
@@ -185,11 +183,15 @@ Nr. XII-1438, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20557
 
 38. Radionuklidų rinkinys – bet koks ruošinys, kuris (dažniausiai prieš jo vartojimą) turi būti atskiestas ar sujungtas su radionuklidais galutiniame radiofarmaciniame preparate.
 
-381. Receptas – sveikatos apsaugos ministro nustatytos formos rašytinis nurodymas vaistininkui, pagal kurį vaistinė paruošia ir (ar) išduoda vaistus, medicinos pagalbos priemones.
+381. Receptas – dokumentas, kuriuo suteikiama teisė įsigyti vaistinį preparatą, medicinos priemonę (medicinos prietaisą), kompensuojamąją medicinos pagalbos priemonę ir kuris išrašytas reglamentuojamos sveikatos priežiūros profesijos, nurodytos Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, atstovo, teisiškai įgalioto tą daryti valstybėje, kurioje išrašytas tas dokumentas.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
 
 39. Receptinis vaistinis preparatas – vaistinis preparatas, kurio priskyrimą šiai vaistinių preparatų grupei patvirtina Valstybinė vaistų kontrolės tarnyba arba Europos vaistų agentūra.
 
@@ -1327,6 +1329,12 @@ priedas
 
 9. 2008 m. lapkričio 24 d. Europos Komisijos reglamentas (EB) Nr. 1234/2008 dėl žmonėms skirtų vaistų ir veterinarinių vaistų rinkodaros pažymėjimų sąlygų keitimo nagrinėjimo (tekstas svarbus EEE) (OL 2008 L 334, p. 7) su paskutiniais pakeitimais.
 
+10. 2011 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 2011/24/ES dėl pacientų teisių į tarpvalstybines sveikatos priežiūros paslaugas įgyvendinimo (OL 2011 L 88, p. 45).
+
+Papildyta punktu:
+
+Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
+
 Priedo pakeitimai:
 
 Nr. XI-1383, 2011-05-19, Žin., 2011, Nr. 69-3291 (2011-06-07)
@@ -2047,7 +2055,11 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 10. Juridiniai asmenys, neturintys asmens sveikatos priežiūros veiklos licencijos ar licencijos verstis farmacine veikla, vaistinių preparatų gali įsigyti tik iš vaistinių.
 
-11. Vaistinių preparatų receptų rašymo ir vaistinių preparatų išdavimo (pardavimo) gyventojams taisykles tvirtina sveikatos apsaugos ministras.
+11. Receptų rašymo, vaistinių preparatų, medicinos priemonių (prietaisų) ir kompensuojamųjų medicinos pagalbos priemonių išdavimo (pardavimo) vaistinėse gyventojams taisykles, popierinių receptų, pagal kuriuos vaistinėse buvo išduoti (parduoti) vaistiniai preparatai, medicinos priemonės (prietaisai) ir kompensuojamosios medicinos pagalbos priemonės, saugojimo ir naikinimo tvarką vaistinėse nustato sveikatos apsaugos ministras. Receptų blankų, kuriuose išrašomi kompensuojamieji vaistiniai preparatai ir kompensuojamosios medicinos pagalbos priemonės, įsigijimo, apskaitos, saugojimo ir išdavimo tvarką nustato sveikatos apsaugos ministras ar jo įgaliotas asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
 
 12. Receptiniai vaistiniai preparatai ambulatoriškai besigydantiems pacientams išduodami (parduodami) tik pagal receptus.
 
@@ -2101,13 +2113,17 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 
 7) skirti ambulatoriniam gydymui, tačiau galintys sukelti sunkius padarinius sukėlusią nepageidaujamą reakciją, dėl to šiuos vaistinius preparatus turi paskirti gydytojas, o pacientas, kol vartoja šiuos vaistinius preparatus, turi būti specialiai gydytojo prižiūrimas.
 
-3. Receptinių vaistinių preparatų grupėje nustatomas specialiuose receptų blankuose išrašomų preparatų pogrupis. Jam priskiriami vaistiniai preparatai, atitinkantys nors vieną iš šių kriterijų:
+3. Receptinių vaistinių preparatų grupėje nustatomas vaistinių preparatų, kuriems taikomi specialūs sveikatos apsaugos ministro nustatyti išrašymo reikalavimai, pogrupis. Jam priskiriami vaistiniai preparatai, atitinkantys nors vieną iš šių kriterijų:
 
-1) jų sudėtyje yra narkotinių ar psichotropinių medžiagų, įrašytų į Lietuvos Respublikos sveikatos apsaugos ministro tvirtinamų Narkotinių ir psichotropinių medžiagų sąrašų II sąrašą (Narkotinės ir psichotropinės medžiagos, leidžiamos vartoti medicinos tikslams);
+1) jų sudėtyje yra narkotinių ar psichotropinių medžiagų, įrašytų į Lietuvos Respublikos sveikatos apsaugos ministro tvirtinamų narkotinių ir psichotropinių medžiagų sąrašų II sąrašą (Narkotinės ir psichotropinės medžiagos, leidžiamos vartoti medicinos tikslams);
 
 2) netinkamai vartojami jie gali kelti didelį piktnaudžiavimo pavojų, sukelti priklausomybę arba gali būti vartojami neteisėtais tikslais;
 
-3) jų sudėtyje yra vaistinių medžiagų, kurias dėl naujumo arba savybių atsargumo dėlei galima priskirti nurodytiesiems šio straipsnio 3 dalies 2 punkte.
+3) jų sudėtyje yra vaistinių medžiagų, kurias dėl naujumo arba savybių dėl atsargumo galima priskirti nurodytiesiems šios dalies 2 punkte.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
 
 4. Vaistiniai preparatai, kurie neatitinka šio straipsnio 2 ir (ar) 3 dalies kriterijų, priskiriami nereceptinių vaistinių preparatų grupei.
 
@@ -2613,7 +2629,11 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 9. Vaistiniai preparatai gyventojams parduodami (išduodami) sveikatos apsaugos ministro nustatyta tvarka. Parduodant (išduodant) gyventojams vaistinius preparatus turi būti tiesiogiai bendraujant suteikiama farmacinė paslauga, išskyrus tuos atvejus, kai vaistiniai preparatai siūlomi parduoti nuotoliniu būdu. Kai vaistinės siūlo parduoti vaistinius preparatus nuotoliniu būdu, farmacijos specialistas farmacinę paslaugą gyventojui teikia naudodamasis ryšio priemonėmis.
 
-10. Vaistiniai preparatai gali būti parduodami pagal veterinarijos gydytojo receptus ir paraiškas sveikatos apsaugos ministro ir Valstybinės maisto ir veterinarijos tarnybos direktoriaus nustatyta tvarka.
+10. Vaistiniai preparatai gali būti parduodami pagal veterinarinių vaistų receptus ir paraiškas sveikatos apsaugos ministro ir Valstybinės maisto ir veterinarijos tarnybos direktoriaus nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
 
 11. Vaistinės savo veiklą vykdo pagal sveikatos apsaugos ministro patvirtintus geros vaistinių praktikos nuostatus.
 
