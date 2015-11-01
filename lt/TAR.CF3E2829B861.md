@@ -4,7 +4,7 @@ identifier: "TAR.CF3E2829B861"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-01-08"
-last_updated: "2015-01-01"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CF3E2829B861"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 8-161, i. k. 0981010ISTAVIII-602
 
@@ -342,7 +342,11 @@ KETVIRTASIS SKIRSNIS
 
 1. Į II ir III sąrašus įtrauktos medžiagos gali būti skiriamos tik sveikatos priežiūros ar veterinarijos tikslams. Tokių vaistų skyrimo (išrašymo) tvarką nustato Sveikatos apsaugos ministerija.
 
-2. Asmuo, pateikęs galiojantį receptą, sveikatos priežiūros ar veterinarijos tikslams turi teisę įsigyti vaistinėse į II ir III sąrašus įtrauktų paruoštos formos medžiagų.
+2. Asmuo pagal galiojantį receptą sveikatos priežiūros ar veterinarijos tikslams turi teisę įsigyti vaistinėse į II ir III sąrašus įtrauktų paruoštos formos medžiagų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1972, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16902
 
 3. Į II ir III sąrašus įtrauktų medžiagų įsigijimo, išdavimo sveikatos priežiūros ar veterinarijos tikslams vaistinėse tvarką nustato Sveikatos apsaugos ministerija kartu su Valstybine maisto ir veterinarijos tarnyba.
 
@@ -370,7 +374,11 @@ Nr. VIII-1796, 2000-07-04, Žin., 2000, Nr. 61-1807 (2000-07-26), i. k. 1001010I
 
 18 straipsnis. Į II ir III sąrašus įtrauktų medžiagų receptai
 
-1. Į II sąrašą įtrauktos medžiagos išrašomos specialiuose receptų blankuose. Specialių receptų blankų formą, jų išrašymo, apskaitos ir saugojimo tvarką nustato Sveikatos apsaugos ministerija.
+1. Į II sąrašą įtrauktos medžiagos išrašomos receptuose naudojant specialiuosius receptų blankus arba elektroninėmis sveikatos sistemos priemonėmis. Specialiųjų receptų blankų formą, įsigijimo, apskaitos, saugojimo ir išdavimo tvarką nustato sveikatos apsaugos ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1972, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16902
 
 2. Į III sąrašą įtrauktos medžiagos išrašomos Sveikatos apsaugos ministerijos nustatyta tvarka.
 
@@ -384,7 +392,11 @@ Tarptautinio susisiekimo transporto vaistinėlėse į II ir III sąrašus įtrau
 
 1. Asmenys, vykstantys į Šengeno valstybę ar atvykstantys iš jos, gali vežtis gydymo tikslais asmeniniam vartojimui skirtų į II ir III sąrašus įtrauktų medžiagų ne ilgesniam kaip 30 dienų laikotarpiui, jeigu jie su savimi turi valstybės, kurioje gyvena, kompetentingos institucijos išduotą nustatytos formos pažymą.
 
-2. Asmenys, vykstantys į kitą, nei šio straipsnio 1 dalyje nurodyta, valstybę ar atvykstantys iš jos, gali vežtis gydymo tikslais asmeniniam vartojimui skirtų į II sąrašą įtrauktų medžiagų ne ilgesniam kaip 15 dienų laikotarpiui, į III sąrašą įtrauktų – ne ilgesniam kaip 30 dienų laikotarpiui, jeigu jie su savimi turi receptų šioms medžiagoms įsigyti kopijas.
+2. Asmenys, vykstantys į kitą, negu šio straipsnio 1 dalyje nurodyta, valstybę ar atvykstantys iš jos, gali vežtis gydymo tikslais asmeniniam vartojimui skirtų į II sąrašą įtrauktų medžiagų ne ilgesniam kaip 15 dienų laikotarpiui, į III sąrašą įtrauktų – ne ilgesniam kaip 30 dienų laikotarpiui, jeigu jie su savimi turi receptų šioms medžiagoms įsigyti kopijas arba nuorašus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1972, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16902
 
 Straipsnio pakeitimai:
 
@@ -527,6 +539,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
 
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 2, 8, 8-1, 10, 12, 13, 14, 16, 21, 21-1, 22, 24 straipsnių pakeitimo ir Įstatymo papildymo 10-1, 10-2, 10-3, 10-4 straipsniais įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1972, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16902
+
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 17, 18 ir 20 straipsnių pakeitimo įstatymas
 
 81 straipsnis. Į I sąrašą įtrauktų medžiagų siuntimas
 
