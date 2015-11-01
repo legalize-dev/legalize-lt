@@ -4,7 +4,7 @@ identifier: "TAR.1FD5C3A4D10A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-10-14"
-last_updated: "2015-04-22"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Suvestinė redakcija nuo 2015-04-22 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2016-02-29
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 102-4585, i. k. 1031010ISTA0IX-1768
 
@@ -159,11 +159,19 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-1155, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13598
 
-9) tiria sunkių ir mirtinų nelaimingų atsitikimų darbe aplinkybes ir priežastis. Sunkių ir mirtinų nelaimingų atsitikimų darbe atvejais Valstybinės darbo inspekcijos inspektorius nelaimingo atsitikimo darbe tyrimo medžiagą perduoda teisėsaugos institucijai. Tikrina, ar laikomasi nustatytos nelaimingų atsitikimų darbe tyrimo tvarkos, ar darbdaviai diegia prevencines priemones, kad būtų išvengta nelaimingų atsitikimų, susirgimų profesine liga;
+9) Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatyme nustatytais atvejais tiria įvykius darbe, dėl kurių darbuotojai patiria žalą sveikatai, ir nelaimingus atsitikimus pakeliui į darbą ar iš darbo. Tikrina, ar laikomasi nustatytos įvykių darbe, dėl kurių darbuotojai patiria žalą sveikatai, nelaimingų atsitikimų pakeliui į darbą ar iš darbo tyrimo tvarkos, ar įmonėje nustatyta pranešimų apie incidentus, incidentų tyrimo ir registravimo tvarka ir ar darbdaviai diegia prevencines priemones, kad būtų išvengta nelaimingų atsitikimų darbe, susirgimų profesinėmis ligomis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 
 10) organizuoja ir kartu su sveikatos priežiūros įstaigų atstovais tiria profesinių ligų aplinkybes ir priežastis;
 
-11) registruoja sunkius ir mirtinus nelaimingus atsitikimus darbe, kaupia iš darbdavių gautą informaciją apie lengvus nelaimingus atsitikimus darbe, nustatyta tvarka saugo nelaimingų atsitikimų darbe, profesinių ligų priežasčių tyrimo aktus;
+11) registruoja nelaimingų atsitikimų darbe aktus, profesinių ligų patvirtinimo aktus, Lietuvos vyriausiojo archyvaro nustatytais terminais saugo nelaimingų atsitikimų darbe aktus ir tyrimo medžiagą, profesinių ligų patvirtinimo aktus ir tyrimo medžiagą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 
 12) tikrina žalos atlyginimo apskaičiavimą ir mokėjimą už padarytą žalą darbuotojo sveikatai, kai už žalos mokėjimą atsakingi darbdaviai;
 
@@ -297,9 +305,17 @@ Nr. XI-2128, 2012-06-26, Žin., 2012, Nr. 80-4139 (2012-07-10)
 
 3) gauti iš darbdaviams atstovaujančių asmenų, darbdavio įgaliotų asmenų, darbuotojų, kitų tikrinamoje darbo vietoje esančių asmenų paaiškinimus žodžiu ar raštu dėl darbo, darbuotojų saugos ir sveikatos įstatymų, kitų norminių teisės aktų, reglamentuojančių darbuotojų saugą ir sveikatą bei darbo santykius, pažeidimų ar dėl Valstybinės darbo inspekcijos nurodymų nevykdymo (jeigu nėra galimybės gauti šią informaciją vietoje, darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo kviečiamas į Valstybinės darbo inspekcijos struktūrinį padalinį);
 
-4) tiriant sunkius, mirtinus nelaimingus atsitikimus darbe, jeigu būtina, nemokamai naudotis darbdavio ryšio ir transporto priemonėmis;
+4) tiriant įvykius darbe, dėl kurių sunkiai pakenkiama darbuotojų sveikatai ar darbuotojai miršta, jeigu būtina, nemokamai naudotis darbdavio ryšio ir transporto priemonėmis;
 
-5) tiriant nelaimingą atsitikimą darbe, profesinę ligą, iš darbdavio gauti jų tyrimui reikiamus duomenis ir dokumentus, o iš darbdaviui atstovaujančio asmens, darbdavio įgalioto asmens (asmenų), darbuotojų ir liudytojų – paaiškinimus dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga aplinkybių ir priežasčių, taip pat prireikus skirti ekspertizę. Norminių teisės aktų nustatyta tvarka iš sveikatos priežiūros įstaigų, teisėsaugos ir kitų institucijų gauti papildomą informaciją;
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
+
+5) tiriant įvykius darbe, dėl kurių darbuotojai patyrė žalą sveikatai, nelaimingus atsitikimus pakeliui į darbą ar iš darbo, profesines ligas, iš darbdavių gauti jų tyrimui reikiamus duomenis ir dokumentus, o iš darbdaviams atstovaujančių asmenų, darbdavių įgaliotų asmenų, darbuotojų ir liudytojų – paaiškinimus dėl įvykių darbe, dėl kurių darbuotojai patyrė žalą sveikatai, nelaimingų atsitikimų pakeliui į darbą ar iš darbo arba susirgimų profesinėmis ligomis aplinkybių ir priežasčių, taip pat prireikus skirti darbuotojų saugos ir sveikatos ekspertizes. Norminių teisės aktų nustatyta tvarka iš sveikatos priežiūros įstaigų, teisėsaugos ir kitų institucijų gauti papildomą informaciją;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 
 6) atlikti kontrolinius darbo aplinkos parametrų matavimus;
 
@@ -355,7 +371,11 @@ Nr. XI-2193, 2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
 
 2. Valstybinės darbo inspekcijos inspektoriai apie savo atvykimą praneša darbuotojų atstovams, jei inspektavimas atliekamas jų prašymu.
 
-3. Darbdavys privalo sudaryti darbo sąlygas Valstybinės darbo inspekcijos inspektoriams, atliekantiems tarnybines pareigas, ir jų pasitelktiems specialistams, kurie atlieka kontrolinius darbo aplinkos parametrų matavimus ar ekspertizes tiriant nelaimingus atsitikimus darbe ar profesines ligas.
+3. Darbdavys privalo sudaryti darbo sąlygas Valstybinės darbo inspekcijos inspektoriams, atliekantiems tarnybines pareigas, ir jų pasitelktiems specialistams, kurie atlieka kontrolinius darbo aplinkos parametrų matavimus ar darbuotojų saugos ir sveikatos ekspertizes tiriant įvykius darbe, dėl kurių darbuotojai patyrė žalą sveikatai, ar profesines ligas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 
 4. Valstybinės darbo inspekcijos inspektoriai, atlikę inspektavimą ir nustatę darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimų, nustatyta tvarka surašo patvirtintos formos dokumentus (reikalavimą, protokolą, aktą, nutarimą ir kt.). Jie įteikiami darbdaviui atstovaujančiam asmeniui ar darbdavio įgaliotam asmeniui pasirašytinai arba išsiunčiami paštu.
 
@@ -365,9 +385,13 @@ Nr. XI-2193, 2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
 
 7. Inspektavimo vykdymo tvarka nustatoma socialinės apsaugos ir darbo ministro tvirtinamuose Valstybinės darbo inspekcijos nuostatuose.
 
-12 straipsnis. Išlaidų ekspertizėms atlyginimas
+12 straipsnis. Išlaidų darbuotojų saugos ir sveikatos ekspertizėms atlyginimas
 
-Išlaidas Valstybinės darbo inspekcijos paskirtoms ekspertizėms, susijusioms su profesinių ligų, nelaimingų atsitikimų tyrimu, kurias atlieka nevalstybinės įstaigos, apmoka Valstybinė darbo inspekcija iš jai šiam tikslui skirtų valstybės biudžeto lėšų.
+Išlaidas Valstybinės darbo inspekcijos paskirtoms darbuotojų saugos ir sveikatos ekspertizėms, kurias atlieka nevalstybinės įstaigos tirdamos įvykius darbe, dėl kurių darbuotojai patyrė žalą sveikatai, profesines ligas, apmoka Valstybinė darbo inspekcija iš jai šiam tikslui skirtų valstybės biudžeto lėšų.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 
 Įstatymas papildytas ketvirtuoju1 skirsniu:
 
