@@ -4,7 +4,7 @@ identifier: "TAR.95C79D036AA4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2015-04-14"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.95C79D036AA4"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas
 
-Suvestinė redakcija nuo 2015-04-14 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2016-03-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 70-3170, i. k. 1031010ISTA0IX-1672
 
@@ -619,13 +619,21 @@ Nr. XII-1024, 2014-07-15, paskelbta TAR 2014-07-23, i. k. 2014-10463
 
 41 straipsnis. Darbuotojų saugos ir sveikatos ekspertizės
 
-1. Darbuotojų saugos ir sveikatos ekspertizė (darbuotojų saugos ir sveikatos reikalavimų užtikrinimo atitikties įvertinimas) skiriama prieš pradedant naudoti naujas įmones ar įmonių padalinius, prieš tiekiant į rinką darbo priemones, asmenines apsaugos priemones, tiriant nelaimingų atsitikimų darbe ar profesinių ligų aplinkybes ir priežastis, sprendžiant ginčus, kilusius dėl profesinės rizikos įvertinimo duomenų tikrumo.
+1. Darbuotojų saugos ir sveikatos ekspertizė (darbuotojų saugos ir sveikatos reikalavimų užtikrinimo atitikties įvertinimas) skiriama prieš pradedant naudoti naujas įmones ar įmonių padalinius, prieš tiekiant į rinką darbo priemones, asmenines apsaugos priemones, tiriant įvykių darbe, dėl kurių darbuotojai patiria žalą sveikatai, ar profesinių ligų aplinkybes ir priežastis, sprendžiant ginčus, kilusius dėl profesinės rizikos įvertinimo duomenų tikrumo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1806, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10367
 
 2. Įvertinimą, ar naujos įmonės arba jų padaliniai atitinka darbuotojų saugos ir sveikatos reikalavimus, reglamentuoja Statybos įstatymas ir atitinkami reglamentai.
 
 3. Darbo priemonių, asmeninių apsaugos priemonių atitikties privalomiesiems saugos reikalavimams įvertinimo tvarką nustato atitinkami techniniai reglamentai.
 
-4. Vyriausiasis valstybinis darbo inspektorius tvirtina ekspertizių skyrimo tiriant nelaimingus atsitikimus darbe ir profesines ligas tvarką. Šios ekspertizės, jeigu jas atlieka ne valstybinės įstaigos, apmokamos iš Valstybinei darbo inspekcijai šiam tikslui skirtų lėšų.
+4. Vyriausiasis valstybinis darbo inspektorius tvirtina darbuotojų saugos ir sveikatos ekspertizių skyrimo tiriant įvykius darbe, dėl kurių darbuotojai patiria žalą sveikatai, ir profesines ligas tvarkos aprašą. Šios ekspertizės, jeigu jas atlieka ne valstybinės įstaigos, apmokamos iš Valstybinei darbo inspekcijai šiam tikslui skirtų lėšų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1806, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10367
 
 VII SKYRIUS
 
@@ -659,9 +667,17 @@ Nr. XII-739, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 214-00017
 
 1. Įvykis darbe, dėl kurio darbuotojas patiria žalą sveikatai, nelaimingas atsitikimas pakeliui į darbą ar iš darbo turi būti ištirti ir jų tyrimo rezultatai surašyti Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatuose nustatyta tvarka. Incidentas tiriamas ir registruojamas įmonės darbo tvarkos taisyklėse nustatyta tvarka. Atliekant įvykio darbe, dėl kurio darbuotojas patiria žalą sveikatai, tyrimą, nustatomos jo aplinkybės ir priežastys bei nurodomos priemonės panašių įvykių priežastims pašalinti.
 
-2. Įvykį darbe, dėl kurio darbuotojas patiria žalą sveikatai, išskyrus tą, kurį tiria Valstybinė darbo inspekcija, nelaimingą atsitikimą pakeliui į darbą ar iš darbo tiria darbdaviui atstovaujančio asmens įsakymu ar kitu tvarkomuoju dokumentu patvirtinta dvišalė komisija, sudaryta iš darbdavio atstovo (atstovų), kurį (kuriuos) skiria darbdaviui atstovaujantis asmuo, ir darbuotojų atstovo (atstovų) saugai ir sveikatai.
+2. Įvykį darbe, dėl kurio darbuotojas patyrė žalą sveikatai, bet jo sveikatai nėra sunkiai pakenkta, nelaimingą atsitikimą pakeliui į darbą ar iš darbo tiria darbdaviui atstovaujančio asmens įsakymu ar kitu tvarkomuoju dokumentu patvirtinta dvišalė komisija, sudaryta iš darbdavio atstovo (atstovų), kurį (kuriuos) skiria darbdaviui atstovaujantis asmuo, ir darbuotojų atstovo (atstovų) saugai ir sveikatai.
 
-3. Įvykį darbe, dėl kurio sunkiai pakenkiama darbuotojo sveikatai ar darbuotojas miršta, tiria Valstybinė darbo inspekcija, dalyvaujant darbdavio atstovui ir darbuotojų atstovui saugai ir sveikatai.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1806, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10367
+
+3. Įvykį darbe, dėl kurio sunkiai pakenkta darbuotojo sveikatai ar darbuotojas mirė, tiria Valstybinė darbo inspekcija, dalyvaujant darbdavio atstovui ir darbuotojų atstovui saugai ir sveikatai. Valstybinė darbo inspekcija taip pat tiria įvykį darbe, dėl kurio darbuotojas patyrė žalą sveikatai, bet jo sveikatai nėra sunkiai pakenkta, ir nelaimingą atsitikimą pakeliui į darbą ar iš darbo, kai įmonėje nepakanka darbuotojų dvišalei komisijai, nurodytai šio straipsnio 2 dalyje, sudaryti arba kai darbuotojas ar darbdavys, nesutikdamas su dvišalės komisijos ištirto nelaimingo atsitikimo darbe arba nelaimingo atsitikimo pakeliui į darbą ar iš darbo tyrimo aktu, pateikia skundą vyriausiajam valstybiniam darbo inspektoriui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1806, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10367
 
 4. Įvykis darbe, dėl kurio darbuotojas patiria žalą sveikatai ar miršta dėl su darbu nesusijusios ligos arba norėdamas nusižudyti ar susižaloti, kai prieš jį yra panaudojamas smurtas, jeigu smurto aplinkybės ir motyvai nesusiję su darbu, kai darbuotojas daro nusikalstamą veiką arba savavališkai (be darbdavio žinios) dirba sau (savo interesais), nelaimingiems atsitikimams darbe nepriskiriamas.
 
@@ -914,6 +930,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1581, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05694
 
 Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 8, 13 ir 27 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1806, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10367
+
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 41, 43 ir 44 straipsnių pakeitimo įstatymas
 
 13 straipsnis. Darbuotojų dalyvavimas įgyvendinant darbuotojų saugos ir sveikatos priemones. Darbuotojų saugos ir sveikatos komitetai, darbuotojų atstovai
 
@@ -1211,13 +1235,27 @@ Nr. X-1169, 2007-06-07, Žin., 2007, Nr. 69-2720 (2007-06-23)
 
 43 straipsnis. Pranešimai apie nelaimingus atsitikimus pakeliui į darbą ar iš darbo, įvykius darbe, dėl kurių darbuotojai patiria žalą sveikatai, incidentus, profesines ligas
 
-1. Darbuotojas, nukentėjęs dėl įvykio darbe, dėl kurio darbuotojas patyrė žalą sveikatai, arba ūmios profesinės ligos, jeigu pajėgia, taip pat asmuo, matęs įvykį arba jo pasekmes, privalo nedelsdami apie tai pranešti padalinio vadovui, darbdaviui atstovaujančiam asmeniui, įmonės darbuotojų saugos ir sveikatos tarnybai arba darbuotojų saugos ir sveikatos specialistui. Apie incidentus pranešama įmonės darbo tvarkos taisyklėse nustatyta tvarka.
+1. Darbuotojas, nukentėjęs dėl įvykio darbe, dėl kurio darbuotojas patyrė žalą sveikatai, nelaimingo atsitikimo pakeliui į darbą ar iš darbo arba dėl ūmios profesinės ligos, jeigu pajėgia, taip pat darbuotojas, matęs įvykį arba jo padarinius, privalo nedelsdami apie tai pranešti padalinio vadovui, darbdaviui atstovaujančiam asmeniui, įmonės darbuotojų saugos ir sveikatos tarnybai arba darbuotojų saugos ir sveikatos specialistui. Apie incidentus pranešama įmonės darbo tvarkos taisyklėse nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1806, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10367
 
 2. Darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo nedelsdami privalo pranešti atitinkamai teritorinei prokuratūrai ir Valstybinei darbo inspekcijai apie visus įvykius darbe, dėl kurių darbuotojas mirė arba per kuriuos buvo sunkiai pakenkta darbuotojo sveikatai. Ūmių profesinių ligų, dėl kurių darbuotojas mirė, atvejais darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo nedelsdami privalo pranešti ir visuomenės sveikatos centrui apskrityje.
 
 3. Lėtinę profesinę ligą įtaręs gydytojas ne vėliau kaip per 3 dienas apie tai raštu praneša darbdaviui, Valstybinei darbo inspekcijai ir visuomenės sveikatos centrui apskrityje.
 
-4. Pranešimų apie įvykius darbe, dėl kurių darbuotojai patiria žalą sveikatai, nelaimingus atsitikimus pakeliui į darbą ar iš darbo, profesines ligas ir jų registravimo tvarka nustatoma atitinkamai Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatuose, Profesinių ligų tyrimo ir apskaitos nuostatuose.
+4. Darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo nedelsdamas privalo pranešti Valstybinei darbo inspekcijai apie įvykį darbe, dėl kurio darbuotojas patyrė žalą sveikatai, bet jo sveikatai nėra sunkiai pakenkta, nelaimingą atsitikimą pakeliui į darbą ar iš darbo, kai įmonėje nepakanka darbuotojų dvišalei komisijai, nurodytai šio Įstatymo 44 straipsnio 2 dalyje, sudaryti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1806, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10367
+
+5. Pranešimų apie įvykius darbe, dėl kurių darbuotojai patiria žalą sveikatai, nelaimingus atsitikimus pakeliui į darbą ar iš darbo, profesines ligas teikimo ir jų registravimo tvarka nustatoma atitinkamai Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatuose, Profesinių ligų tyrimo ir apskaitos nuostatuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1806, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10367
 
 Straipsnio pakeitimai:
 
