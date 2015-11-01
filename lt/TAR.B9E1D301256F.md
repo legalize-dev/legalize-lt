@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2015-07-01"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
 
@@ -65,7 +65,11 @@ BENDROSIOS NUOSTATOS
 
 4) elektros energija.
 
-2. Kiti, negu nurodyta šio įstatymo 2 priede, energiniai produktai tampa akcizų objektu, jeigu jie parduodami arba naudojami kaip variklių degalai, jų priedai arba kaip šildymui skirtas kuras, tačiau jiems netaikomi šio įstatymo reikalavimai dėl prekių kontrolės ir gabenimo (reikalavimas, kad jie būtų gaminami, perdirbami, maišomi, laikomi akcizais apmokestinamų prekių sandėlyje, reikalavimas, kad jie būtų gabenami tokia pačia tvarka kaip ir šio įstatymo 2 priede nurodyti produktai, ir t. t.).
+2. Šio įstatymo 2 priede nenurodyti energiniai produktai, išskyrus KN 2710 19 91‒2710 19 99 subpozicijose klasifikuojamus energinius produktus, tampa akcizų objektu, jeigu jie parduodami arba naudojami kaip variklių degalai, jų priedai arba kaip šildymui skirtas kuras. Šio įstatymo 2 priede nenurodytiems energiniams produktams netaikomi šio įstatymo reikalavimai dėl prekių kontrolės ir gabenimo (reikalavimas, kad jie būtų gaminami, perdirbami, maišomi, laikomi akcizais apmokestinamų prekių sandėlyje, reikalavimas, kad jie būtų gabenami tokia pačia tvarka kaip ir šio įstatymo 2 priede nurodyti produktai, ir t. t.).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 3. Visi kiti šio straipsnio 1 dalyje nenurodyti produktai tampa akcizų objektu, jeigu jie parduodami arba naudojami kaip variklių degalai arba jų priedai. Šioje dalyje nurodytiems produktams taikomi akcizų tarifai, šiame įstatyme nustatyti atitinkamam ekvivalentiškam energiniam produktui, vietoj kurio arba kaip kurio priedas produktas parduodamas arba naudojamas.
 
@@ -223,6 +227,12 @@ BENDROSIOS NUOSTATOS
 
 10) akcizais apmokestinamas prekes, kurioms šio įstatymo 37 straipsnio 2 ar 3 dalyje arba 38 straipsnio 2 dalyje nustatyta tvarka buvo pritaikytos nurodytose dalyse nustatytos akcizų lengvatos, tačiau kurios buvo panaudotos kitiems negu šiose dalyse nurodytiems tikslams;
 
+11) laikomus KN 2710 19 91‒2710 19 99 subpozicijose klasifikuojamus energinius produktus, už kuriuos akcizai vadovaujantis šio įstatymo nuostatomis nesumokėti.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
+
 2. Be šio straipsnio 1 dalyje nurodytų atvejų, prievolė mokėti akcizus atsiranda už Lietuvos Respublikoje importuojamas (įskaitant neteisėto importo atvejus) akcizais apmokestinamas prekes, išskyrus importuojamas akcizais apmokestinamas prekes, registruoto siuntėjo išgabentas į bet kurią šio įstatymo 14 straipsnio 1 dalyje ir 15 straipsnio 1 dalyje nurodytą paskirties vietą, taip pat importuojamas akcizais apmokestinamas prekes, nugabenamas į akcizais apmokestinamų prekių sandėlį. Importuotų akcizais apmokestinamų prekių, registruoto siuntėjo išgabentų į šio įstatymo 14 straipsnio 1 dalyje ir 15 straipsnio 1 dalyje nurodytas paskirties vietas, taip pat importuotų akcizais apmokestinamų prekių nugabenimo į akcizais apmokestinamų prekių sandėlį tvarką nustato Vyriausybė ar jos įgaliota institucija. Laikoma, kad akcizais apmokestinamos prekės importuojamos Lietuvos Respublikoje, kai:
 
 1) ne Europos Sąjungos prekės yra Lietuvos Respublikos teritorijoje tuo metu, kai jos įvežamos į Europos Sąjungos teritoriją. Jeigu į Europos Sąjungos teritoriją įvežtos ne Europos Sąjungos prekės ne išleidžiamos į laisvą apyvartą, o joms pradedama taikyti sąlyginio neapmokestinimo procedūra arba priemonė, laikoma, kad ne Europos Sąjungos prekės yra importuotos Lietuvos Respublikos teritorijoje tuo atveju, jeigu, nustojus taikyti šias procedūras arba priemones, prekės yra Lietuvos Respublikos teritorijoje;
@@ -251,9 +261,23 @@ BENDROSIOS NUOSTATOS
 
 11. Šio straipsnio 1 dalies 10 punkte nurodytu atveju prievolė mokėti akcizų skirtumą (tarp šio įstatymo 37 straipsnio 1 dalyje nurodyto akcizų tarifo ir akcizais apmokestinamai prekei pritaikyto akcizų tarifo) tenka asmeniui, panaudojusiam akcizais apmokestinamas prekes kitaip, negu nustato akcizų lengvatų taikymo sąlygos.
 
-12. Prievolė mokėti akcizus šio straipsnio 2 dalyje nurodytu atveju tenka importuotojui. Importuotoju laikomas asmuo, kuris turi sumokėti už prekes nustatytą importo skolą muitinei arba turėtų sumokėti importo skolą muitinei, jeigu prekėms būtų nustatyti importo muitai, žemės ūkio ar kitos rinkliavos. Kai akcizais apmokestinamos prekės importuojamos neteisėtai, prievolė mokėti akcizus tenka bet kuriam asmeniui, dalyvavusiam neteisėtai importuojant šias prekes.
+12. Šio straipsnio 1 dalies 11 punkte nurodytu atveju prievolė mokėti akcizus tenka asmeniui, laikančiam šio straipsnio 1 dalies 11 punkte nurodytas akcizais apmokestinamas prekes.
 
-13. Tais atvejais, kai prievolė mokėti akcizus tenka keliems asmenims, jie solidariai atsako už akcizų sumokėjimą. Kiti atvejai, kai atsiranda prievolė mokėti akcizus Lietuvos Respublikoje, taip pat asmenys, kuriems tenka ši prievolė, nurodyti šio įstatymo 16 straipsnyje.
+Papildyta straipsnio dalimi:
+
+Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
+
+13. Prievolė mokėti akcizus šio straipsnio 2 dalyje nurodytu atveju tenka importuotojui. Importuotoju laikomas asmuo, kuris turi sumokėti už prekes nustatytą importo skolą muitinei arba turėtų sumokėti importo skolą muitinei, jeigu prekėms būtų nustatyti importo muitai, žemės ūkio ar kitos rinkliavos. Kai akcizais apmokestinamos prekės importuojamos neteisėtai, prievolė mokėti akcizus tenka bet kuriam asmeniui, dalyvavusiam neteisėtai importuojant šias prekes.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
+
+14. Tais atvejais, kai prievolė mokėti akcizus tenka keliems asmenims, jie solidariai atsako už akcizų sumokėjimą. Kiti atvejai, kai atsiranda prievolė mokėti akcizus Lietuvos Respublikoje, taip pat asmenys, kuriems tenka ši prievolė, nurodyti šio įstatymo 16 straipsnyje.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 Straipsnio pakeitimai:
 
@@ -275,7 +299,11 @@ Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 
 7. Jeigu asmuo, pažeisdamas šio įstatymo 4 straipsnio 1, 5, 6 ir 7 dalių reikalavimus, bet kokiu būdu pagamina akcizais apmokestinamas prekes ne akcizais apmokestinamų prekių sandėlyje, jis privalo ne vėliau kaip kitą darbo dieną po prekių pagaminimo dienos pateikti akcizų deklaraciją ir joje deklaruoti mokėtiną už taip pagamintas prekes akcizų sumą, apskaičiuotą taikant akcizų tarifus, galiojusius prekių pagaminimo dieną. Akcizų deklaracija pateikiama vietos mokesčių administratoriui, kurio veiklos teritorijoje asmuo registruotas mokesčių mokėtoju.
 
-8. Bet kuris asmuo, kuriam prievolė mokėti akcizus atsiranda vadovaujantis šio įstatymo 9 straipsnio 1 dalies 4 ir (ar) 5, ir (ar) 8, ir (ar) 10 punktais, privalo ne vėliau kaip kitą darbo dieną po prievolės atsiradimo dienos pateikti akcizų deklaraciją ir joje deklaruoti mokėtiną akcizų sumą. Akcizų deklaracija pateikiama vietos mokesčių administratoriui, kurio veiklos teritorijoje asmuo registruotas mokesčių mokėtoju.
+8. Bet kuris asmuo, kuriam prievolė mokėti akcizus atsiranda vadovaujantis šio įstatymo 9 straipsnio 1 dalies 4 ir (ar) 5, ir (ar) 8, ir (ar) 10, ir (ar) 11 punktais, privalo ne vėliau kaip kitą darbo dieną po prievolės atsiradimo dienos pateikti akcizų deklaraciją ir joje deklaruoti mokėtiną akcizų sumą. Akcizų deklaracija pateikiama vietos mokesčių administratoriui, kurio veiklos teritorijoje asmuo registruotas mokesčių mokėtoju.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 9. Tais atvejais, kai prievolė mokėti akcizus už gabenant Lietuvos Respublikoje prarastas akcizais apmokestinamas prekes tenka asmeniui, kuris laidavo arba garantavo, kad akcizai bus sumokėti, ir kuris nėra akcizais apmokestinamų prekių sandėlio savininkas, registruotas gavėjas ar registruotas siuntėjas, šis asmuo ne vėliau kaip kitą darbo dieną nuo prievolės atsiradimo dienos centrinio mokesčių administratoriaus nustatyta tvarka turi pateikti akcizų deklaraciją ir jos priedus.
 
@@ -477,11 +505,29 @@ Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 
 5. Jeigu akcizais apmokestinamos prekės, už kurias akcizai buvo sumokėti Lietuvos Respublikoje, išgabenamos į kitą valstybę narę komerciniams tikslams, už šias prekes sumokėti akcizai turi būti grąžinti pateikus vietos mokesčių administratoriui šio įstatymo 15 straipsnio 11 dalyje nurodytą patvirtintą supaprastinto akcizais apmokestinamų prekių vežimo dokumento egzempliorių ir kompetentingos kitos valstybės narės institucijos patvirtinimą ar kitokius įrodymus, kad už šias prekes toje valstybėje narėje akcizai sumokėti, jų sumokėjimas garantuotas arba šios prekės toje valstybėje narėje gali būti atleistos nuo akcizų.
 
-6. Akcizai grąžinami ir už akcizais apmokestinamas prekes, už kurias akcizai sumokėti Lietuvos Respublikoje ir kurios iš Lietuvos Respublikos prekių pardavėjo ar jo užsakymu kito asmens išgabentos į kitą valstybę narę asmeniui, kuris nėra registruotas gavėjas ir nevykdo ekonominės veiklos, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme, arba ne į akcizais apmokestinamų prekių sandėlį. Šiuo atveju vietos mokesčių administratoriui turi būti pateiktas kompetentingos kitos valstybės narės institucijos patvirtinimas ar kitokie įrodymai, kad už šias prekes toje valstybėje narėje akcizai sumokėti arba šios prekės toje valstybėje narėje gali būti atleistos nuo akcizų.
+6. Jeigu KN 2710 19 91‒2710 19 99 subpozicijose klasifikuojami energiniai produktai, už kuriuos akcizai buvo sumokėti Lietuvos Respublikoje, išgabenami į kitą valstybę narę, už šias prekes sumokėti akcizai turi būti grąžinti pateikus vietos mokesčių administratoriui įrodymus, kad už šias prekes toje valstybėje narėje akcizai sumokėti, jų sumokėjimas garantuotas arba šios prekės toje valstybėje narėje gali būti atleistos nuo akcizų ar neapmokestinamos akcizais.
 
-7. Tuo atveju, kai akcizais apmokestinamos prekės šio straipsnio 5 ir 6 dalyse nurodytiems tikslams į kitą valstybę narę išgabentos iš akcizais apmokestinamų prekių sandėlio ir akcizų už šias prekes sumokėjimo Lietuvos Respublikoje terminas nėra suėjęs, o vietos mokesčių administratoriui gali būti pateikti šio straipsnio 5 ar 6 dalyje nurodyti dokumentai, apskaičiuota mokėtina už šias prekes akcizų suma panaikinama.
+Papildyta straipsnio dalimi:
 
-8. Konkrečias šio straipsnio 5 ir 6 dalių nuostatų įgyvendinimo taisykles nustato Vyriausybė ar jos įgaliota institucija.
+Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
+
+7. Akcizai grąžinami ir už akcizais apmokestinamas prekes, už kurias akcizai sumokėti Lietuvos Respublikoje ir kurios iš Lietuvos Respublikos prekių pardavėjo ar jo užsakymu kito asmens išgabentos į kitą valstybę narę asmeniui, kuris nėra registruotas gavėjas ir nevykdo ekonominės veiklos, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme, arba ne į akcizais apmokestinamų prekių sandėlį. Šiuo atveju vietos mokesčių administratoriui turi būti pateiktas kompetentingos kitos valstybės narės institucijos patvirtinimas ar kitokie įrodymai, kad už šias prekes toje valstybėje narėje akcizai sumokėti arba šios prekės toje valstybėje narėje gali būti atleistos nuo akcizų.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
+
+8. Tuo atveju, kai akcizais apmokestinamos prekės šio straipsnio 5 ir 7 dalyse nurodytiems tikslams į kitą valstybę narę išgabentos iš akcizais apmokestinamų prekių sandėlio ir akcizų už šias prekes sumokėjimo Lietuvos Respublikoje terminas nėra suėjęs, o vietos mokesčių administratoriui gali būti pateikti šio straipsnio 5 ar 7 dalyje nurodyti dokumentai, apskaičiuota mokėtina už šias prekes akcizų suma panaikinama.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
+
+9. Konkrečias šio straipsnio 5, 6 ir 7 dalių nuostatų įgyvendinimo taisykles nustato Vyriausybė ar jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 Straipsnio pakeitimai:
 
@@ -1117,7 +1163,11 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 41 straipsnis. Energiniams produktams taikomų akcizų skaičiavimo metodas
 
-Akcizų tarifas už energinius produktus, nurodytus šio įstatymo 35, 36, 37 ir 40 straipsniuose, nustatytas, kai produkto temperatūra yra 15 °C. Akcizų perskaičiavimo metodiką tais atvejais, kai produktas yra kitokios temperatūros, nustato centrinis mokesčių administratorius.
+Akcizų tarifas už energinius produktus, nurodytus šio įstatymo 35, 36, 37, 371 ir 40 straipsniuose, nustatytas, kai produkto temperatūra yra 15 °C. Akcizų perskaičiavimo metodiką tais atvejais, kai produktas yra kitokios temperatūros, nustato centrinis mokesčių administratorius.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 42 straipsnis. Kitiems energiniams produktams taikomi akcizų tarifai
 
@@ -1354,4 +1404,14 @@ Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 58 straipsnis. Akcizų už gamtines dujas mokėtojai
 
 Akcizų už gamtines dujas, kurios naudojamos kaip variklių degalai, mokėtojai yra asmenys, parduodantys ar kitaip perduodantys gamtines dujas naudoti kaip variklių degalus, taip pat asmenys, naudojantys gamtines dujas, už kurias akcizai dar nesumokėti, kaip variklių degalus.
+
+371 straipsnis. KN 2710 19 91‒2710 19 99 subpozicijose klasifikuojamiems energiniams produktams taikomi akcizų tarifai
+
+1. KN 2710 19 91‒2710 19 99 subpozicijose klasifikuojamiems energiniams produktams, išskyrus šio straipsnio 2 dalyje nurodytus energinius produktus, taikomas šio įstatymo 37 straipsnio 1 dalyje nurodytas akcizų tarifas.
+
+2. Šildymui skirtiems KN 2710 19 91‒2710 19 99 subpozicijose klasifikuojamiems energiniams produktams, pažymėtiems šio įstatymo 44 straipsnyje nustatyta tvarka, taikomas šio įstatymo 37 straipsnio 2 dalyje nustatytas akcizų tarifas.
+
+Papildyta straipsniu:
+
+Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
