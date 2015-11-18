@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2015-08-01"
+last_updated: "2015-11-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2015-08-01 iki 2015-11-17
+Suvestinė redakcija nuo 2015-11-18 iki 2015-12-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -3187,7 +3187,11 @@ TĖVŲ VALDŽIOS APRIBOJIMAS
 
 429 straipsnis. Preliminaraus teismo sprendimo ir jo priedų kopijų išsiuntimas
 
-1. Preliminaraus teismo sprendimo patvirtinta kopija kartu su ieškinio ir jo priedų kopijomis išsiunčiamos atsakovui ne vėliau kaip kitą darbo dieną po preliminaraus sprendimo priėmimo ir įteikiamos šio Kodekso 124 straipsnyje nustatyta tvarka, išskyrus įteikimą kuratoriui ir viešo paskelbimo būdu. Ieškovui preliminaraus teismo sprendimo patvirtinta kopija išsiunčiama ne vėliau kaip per tris darbo dienas po šio sprendimo įsiteisėjimo.
+1. Preliminaraus teismo sprendimo patvirtinta kopija kartu su ieškinio ir jo priedų kopijomis išsiunčiamos atsakovui ne vėliau kaip kitą darbo dieną po preliminaraus sprendimo priėmimo ir įteikiamos šio Kodekso 123 ir 124 straipsniuose nustatyta tvarka, išskyrus įteikimą kuratoriui ir viešo paskelbimo būdu. Ieškovui preliminaraus teismo sprendimo patvirtinta kopija išsiunčiama ne vėliau kaip per tris darbo dienas po šio sprendimo įsiteisėjimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2011, 2015-11-12, paskelbta TAR 2015-11-17, i. k. 2015-18264
 
 2. Jeigu šio straipsnio 1 dalyje nurodytų procesinių dokumentų atsakovui įteikti nepavyksta, teismas nustato ieškovui terminą patikslinti skolininko gyvenamąją vietą arba atlikti veiksmus, kad teismas galėtų procesinius dokumentus įteikti kitu būdu, arba primokėti trūkstamą žyminį mokestį, kad ieškinys galėtų būti nagrinėjamas pagal bendrąsias ginčo teisenos taisykles. Jeigu patikslinus skolininko gyvenamąją vietą arba kitu būdu procesinių dokumentų įteikti nepavyksta, teismas nustato terminą primokėti trūkstamą žyminį mokestį, kad ieškinys galėtų būti nagrinėjamas pagal bendrąsias ginčo teisenos taisykles. Jeigu per nustatytą terminą ieškovas teismo reikalavimų neįvykdo, preliminarus sprendimas panaikinamas ir ieškinys paliekamas nenagrinėtas.
 
@@ -3209,11 +3213,15 @@ Nr. XII-72, 2012-12-20, Žin., 2012, Nr. 153-7824 (2012-12-29)
 
 438 straipsnis. Procesinių dokumentų įteikimas
 
-Kreditoriaus pareiškimo ir teismo įsakymo kopijos ir teismo pranešimas skolininkui įteikiami šio Kodekso 124 straipsnyje nustatyta tvarka, išskyrus įteikimą kuratoriui ir viešo paskelbimo būdu. Įsiteisėjęs teismo įsakymas per tris darbo dienas išsiunčiamas išieškotojui.
+Kreditoriaus pareiškimo ir teismo įsakymo kopijos ir teismo pranešimas skolininkui įteikiami šio Kodekso 123 ir 124 straipsniuose nustatyta tvarka, išskyrus įteikimą kuratoriui ir viešo paskelbimo būdu. Įsiteisėjęs teismo įsakymas per tris darbo dienas išsiunčiamas išieškotojui.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+
+Straipsnio pakeitimai:
+
+Nr. XII-2011, 2015-11-12, paskelbta TAR 2015-11-17, i. k. 2015-18264
 
 496 straipsnis. Teismo sprendimų ir nutarčių vykdymas
 
