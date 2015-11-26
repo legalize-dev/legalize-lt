@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2015-09-25"
+last_updated: "2015-11-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-09-25 iki 2015-11-25
+Suvestinė redakcija nuo 2015-11-26 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -5241,13 +5241,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 
-2. Išnagrinėjęs skundą, aukštesnysis teismas priima nutartį paskirtą suėmimą arba pratęstą suėmimo terminą palikti galioti arba pakeisti suėmimo terminą, arba pakeisti suėmimą kita kardomąja priemone, arba suėmimą panaikinti. Aukštesniojo teismo trijų teisėjų kolegijos priimta nutartis yra galutinė ir neskundžiama.
-
-TAR pastaba. Lietuvos Respublikos baudžiamojo proceso kodekso 131 straipsnyje nustatyta tvarka iki 2015 m. birželio 25 d. įstatymo Nr. XII-1878 įsigaliojimo (2015-07-11) paduoti skundai nagrinėjami pagal iki šio įstatymo įsigaliojimo galiojusią tvarką.
+2. Išnagrinėjęs skundą, aukštesnysis teismas priima nutartį atsisakyti skirti suėmimą arba atsisakyti pratęsti suėmimo terminą, arba atsisakyti skirti suėmimą, arba pratęsti suėmimo terminą ir skirti kitą kardomąją priemonę, arba skirti suėmimą, arba pratęsti suėmimo terminą, arba suėmimą panaikinti. Aukštesniojo teismo trijų teisėjų kolegijos priimta nutartis yra galutinė ir neskundžiama.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
+
+Nr. XII-2047, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18710
 
 3. Jei suėmimas paskiriamas ar jo terminas pratęsiamas nagrinėjant bylą Lietuvos apeliaciniame teisme, skundus dėl suėmimo paskyrimo ir pratęsimo nagrinėja Lietuvos apeliacinio teismo trijų teisėjų kolegija, į kurios sudėtį negali įeiti tą bylą nagrinėjantys teisėjai.
 
@@ -5327,7 +5327,11 @@ Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
 
 4. Nutarime ar nutartyje skirti kardomąją priemonę – užstatą nurodoma, kad įtariamajam išaiškinta jo pareiga šaukiamam atvykti pas ikiteisminio tyrimo pareigūną, prokurorą, teisėją ar į teismą, nekliudyti proceso eigos, nedaryti naujų nusikalstamų veikų ir kad jis pasižada šią pareigą vykdyti, o užstato davėjas įspėtas, kad jei įtariamasis nevykdys šios pareigos, užstatas pereis valstybei. Be to, nutarime ar nutartyje pažymima, kokioje banko įstaigoje įtariamasis ar užstato davėjas sumokėjo nustatyto dydžio piniginę įmoką, ir nurodomas įmokos dokumento (kvito) numeris. Įmokos dokumentas (kvitas) pridedamas prie baudžiamosios bylos. Įtariamajam ir užstato davėjui pasirašytinai įteikiami nutarimo ar nutarties skirti kardomąją priemonę – užstatą nuorašas.
 
-5. Jei įtariamasis pažeidžia kardomąją priemonę – užstatą, jam kaip kardomoji priemonė skiriamas suėmimas, kai tam yra pagrindas, o užstatas pereina valstybei. Dėl to, kad kaip užstatas sumokėta piniginė įmoka pereina valstybei, priimamas nutarimas ar nutartis arba tai pažymima nuosprendžio rezoliucinėje dalyje. Prokuroro nutarimas gali būti apskųstas ikiteisminio tyrimo teisėjui, o teisėjo ar teismo nutartis – aukštesniajam teismui per penkias dienas nuo pranešimo apie tokio nutarimo ar nutarties priėmimą gavimo dienos.
+5. Jei įtariamasis pažeidžia kardomąją priemonę – užstatą, jam gali būti paskirta kita kardomoji priemonė, o užstatas pereina valstybei. Dėl to, kad kaip užstatas sumokėta piniginė įmoka pereina valstybei, priimamas nutarimas ar nutartis arba tai pažymima nuosprendžio rezoliucinėje dalyje. Prokuroro nutarimas gali būti apskųstas ikiteisminio tyrimo teisėjui, o teisėjo ar teismo nutartis – aukštesniajam teismui per penkias dienas nuo pranešimo apie tokio nutarimo ar nutarties priėmimą gavimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2047, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18710
 
 6. Kardomąją priemonę – užstatą  baigus taikyti, užstatas grąžinamas užstato davėjui.
 
