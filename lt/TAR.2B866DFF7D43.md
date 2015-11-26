@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2015-10-28"
+last_updated: "2015-11-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2015-10-28 iki 2015-11-25
+Suvestinė redakcija nuo 2015-11-26 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -38,7 +38,7 @@ BAUDŽIAMOJO KODEKSO PATVIRTINIMO IR ĮSIGALIOJIMO
 
 1. Lietuvos Respublikos baudžiamasis kodeksas įsigalioja kartu ir tik suderintas su naujais Lietuvos Respublikos baudžiamojo proceso kodeksu ir Lietuvos Respublikos bausmių vykdymo kodeksu.
 
-2. Konkreti visų šio straipsnio 1 dalyje nurodytų kodeksų įsigaliojimo data nustatoma atskiru įstatymu
+2. Konkreti visų šio straipsnio 1 dalyje nurodytų kodeksų įsigaliojimo data nustatoma atskiru įstatymu.
 
 Straipsnio pakeitimai:
 
@@ -4274,7 +4274,11 @@ Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 
 1. Šiame skyriuje nurodyti valstybės tarnautojai yra valstybės politikai, valstybės pareigūnai, teisėjai, valstybės tarnautojai pagal Valstybės tarnybos įstatymą ir kiti asmenys, kurie, dirbdami ar kitais įstatyme numatytais pagrindais eidami pareigas valstybės ar savivaldybių institucijose ar įstaigose, atlieka valdžios atstovo funkcijas arba turi administracinius įgaliojimus, taip pat oficialūs kandidatai į šias pareigas.
 
-2. Valstybės tarnautojui prilyginamas asmuo, turintis atitinkamus įgaliojimus užsienio valstybės ar Europos Sąjungos institucijoje ar įstaigoje, tarptautinėje viešojoje organizacijoje arba tarptautinėje ar Europos Sąjungos teisminėje institucijoje, taip pat oficialūs kandidatai į šias pareigas.
+2. Valstybės tarnautojui prilyginamas asmuo, kuris atlieka valdžios atstovo funkcijas, turi administracinius įgaliojimus arba kitaip užtikrina viešojo intereso įgyvendinimą dirbdamas ar kitais pagrindais eidamas pareigas užsienio valstybės ar Europos Sąjungos institucijoje ar įstaigoje, tarptautinėje viešojoje organizacijoje arba tarptautinėje ar Europos Sąjungos teisminėje institucijoje, arba juridiniame asmenyje ar kitoje organizacijoje, kuriuos kontroliuoja užsienio valstybė, taip pat oficialūs kandidatai į šias pareigas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711
 
 3. Be to, valstybės tarnautojui prilyginamas asmuo, kuris dirba arba kitais įstatyme numatytais pagrindais eina pareigas viešajame arba privačiajame juridiniame asmenyje ar kitoje organizacijoje arba verčiasi profesine veikla ir turi atitinkamus administracinius įgaliojimus, arba turi teisę veikti šio juridinio asmens ar kitos organizacijos vardu, arba teikia viešąsias paslaugas, taip pat arbitras arba prisiekusysis.
 
@@ -5613,6 +5617,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1987, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16936
 
 Lietuvos Respublikos baudžiamojo kodekso papildymo 306-2 straipsniu įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711
+
+Lietuvos Respublikos baudžiamojo kodekso 226, 227 ir 230 straipsnių pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
