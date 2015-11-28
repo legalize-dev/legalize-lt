@@ -4,7 +4,7 @@ identifier: "TAR.F628061443C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-12-02"
-last_updated: "2014-01-01"
+last_updated: "2015-11-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F628061443C6"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 46 straipsnis įsigalioja 2010-12-09.
 
 LIETUVOS RESPUBLIKOS PILIETYBĖS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2014-01-01 iki 2015-11-27
+Suvestinė redakcija nuo 2015-11-28 iki 2016-06-30
 
 Įstatymas paskelbtas: Žin. 2010, Nr. 144-7361, i. k. 1101010ISTA0XI-1196
 
@@ -129,7 +129,11 @@ Lietuvos Respublikos piliečiai yra:
 
 Lietuvos Respublikos pilietis gali būti kartu ir kitos valstybės pilietis, jeigu jis atitinka bent vieną iš šių sąlygų:
 
-1) Lietuvos Respublikos pilietybę ir kitos valstybės pilietybę įgijo gimdamas ir jam nėra sukakę 21 metai;
+1) Lietuvos Respublikos pilietybę ir kitos valstybės pilietybę įgijo gimdamas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2050, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18859
 
 2) yra asmuo, ištremtas iš okupuotos Lietuvos Respublikos iki 1990 m. kovo 11 d. ir įgijęs kitos valstybės pilietybę;
 
@@ -411,7 +415,11 @@ Lietuvos Respublikos pilietybės netenkama:
 
 7) paaiškėjus, kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidus šį ar kitus Lietuvos Respublikos įstatymus;
 
-8) jeigu Lietuvos Respublikos pilietis būdamas kartu ir kitos valstybės pilietis pagal šio įstatymo 7 straipsnio 1, 6 ir 7 punktus, sukakus 21 metams nėra atsisakęs kitos valstybės (valstybių) pilietybės.
+8) jeigu Lietuvos Respublikos pilietis, būdamas kartu ir kitos valstybės pilietis pagal šio įstatymo 7 straipsnio 6 ir 7 punktus, sukakus 21 metams nėra atsisakęs kitos valstybės (valstybių) pilietybės.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2050, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18859
 
 25 straipsnis. Lietuvos Respublikos piliečio teisė atsisakyti pilietybės
 
@@ -820,4 +828,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010ISTA0XII-269
 
 Lietuvos Respublikos pilietybės įstatymo 18 ir 40 straipsnių papildymo ir pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2050, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18859
+
+Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 7 ir 24 straipsnių pakeitimo įstatymas
 
