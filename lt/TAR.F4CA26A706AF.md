@@ -4,7 +4,7 @@ identifier: "TAR.F4CA26A706AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-25"
-last_updated: "2015-07-01"
+last_updated: "2015-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-11-30
+Suvestinė redakcija nuo 2015-12-01 iki 2016-09-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 105-3019, i. k. 0991010ISTAIII-1443
 
@@ -154,7 +154,13 @@ BENDROSIOS NUOSTATOS
 
 28) detalūs duomenys apie žvalgybos institucijų lėšas ir išlaidas žvalgybos institucijų veiklai vykdyti, ginklams, šaudmenims, sprogmenims, kovinei technikai, techninėms sistemoms, kitoms priemonėms ir medžiagoms įsigyti;
 
-29) detalūs duomenys apie žvalgybos institucijų veiklos organizavimą ir eigą, metodų, techninių sistemų, priemonių, medžiagų naudojimą, žvalgybos užduotis, operacijas, jų finansavimą, rezultatus, materialinį ir techninį aprūpinimą, žvalgybos informacija, jeigu tokia informacija nepriskiriama valstybės paslaptims.
+29) detalūs duomenys apie žvalgybos institucijų veiklos organizavimą ir eigą, metodų, techninių sistemų, priemonių, medžiagų naudojimą, žvalgybos užduotis, operacijas, jų finansavimą, rezultatus, materialinį ir techninį aprūpinimą, žvalgybos informacija, jeigu tokia informacija nepriskiriama valstybės paslaptims;
+
+30) informacija, susijusi su prašymo suteikti prieglobstį pateikimu ir nagrinėjimu.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2082, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18923
 
 3. Įslaptinta informacija, išvardyta šio straipsnio 1 dalyje, informacijos rengėjo sprendimu gali būti įslaptinama kaip tarnybos paslaptis, jei pagal savo turinį bei dydį galimos žalos, kurią patirtų valstybė ją neteisėtai atskleidus ar praradus, tokia informacija nereikalauja aukštesnio apsaugos lygio.
 
@@ -1633,6 +1639,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1562, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05374
 
 Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 17 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2082, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18923
+
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 7 straipsnio pakeitimo įstatymas
 
 151 straipsnis. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“
 
