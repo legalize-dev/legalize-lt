@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2015-04-14"
+last_updated: "2015-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2015-04-14 iki 2015-11-30
+Suvestinė redakcija nuo 2015-12-01 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
 
@@ -310,7 +310,11 @@ Nr.IX-847, 2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04)
 
 10) leidimo pardavinėti I, II ir TO klasės civilines pirotechnikos priemones išdavimą;
 
-11) naudojimąsi gyvenamųjų vietovių, turinčių kurorto ar kurortinės teritorijos statusą, viešąja infrastruktūra (viešoji kurorto ar kurortinės teritorijos infrastruktūra – valstybei ar savivaldybei nuosavybės teise priklausantys statiniai, įranga ir bendro naudojimo želdynai, sudarantys visuomenei galimybę naudoti kurorte esančius gamtinius išteklius sveikatinimo, turizmo ir poilsio reikmėms).
+11) naudojimąsi gyvenamųjų vietovių viešąja turizmo ir poilsio infrastruktūra, kaip ji apibrėžta Lietuvos Respublikos turizmo įstatyme, išskyrus vaikus iki 18 metų.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1669, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07660
 
 2. Iš vietinės rinkliavos mokėtojo negali būti reikalaujama atlyginti už objektą, už kurį pagal šį įstatymą nustatyta vietinė rinkliava, kitaip negu sumokant vietinę rinkliavą.
 
@@ -603,4 +607,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1575, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05689
 
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1669, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07660
+
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 11 straipsnio pakeitimo įstatymas
 
