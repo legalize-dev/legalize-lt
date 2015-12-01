@@ -4,7 +4,7 @@ identifier: "TAR.EEC13A0B85BA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-06-01"
-last_updated: "2015-11-01"
+last_updated: "2015-12-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EEC13A0B85BA"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos socialinių įmonių įstatymas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2015-11-30
+Suvestinė redakcija nuo 2015-12-01 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3519, i. k. 1041010ISTA0IX-2251
 
@@ -73,7 +73,11 @@ Socialinių įmonių tikslas – įdarbinant šiame įstatyme nurodytoms tikslin
 
 2) ilgalaikiai bedarbiai, kurių nedarbo trukmė nuo įsiregistravimo teritorinėje darbo biržoje dienos yra ilgesnė kaip dveji metai;
 
-3) asmenys, kuriems iki senatvės pensijos amžiaus likę ne daugiau kaip penkeri metai, jeigu nedarbo trukmė nuo įsiregistravimo teritorinėje darbo biržoje dienos yra ilgesnė kaip vieni metai;
+3) vyresni kaip 50 metų asmenys, teritorinėje darbo biržoje įsiregistravę kaip bedarbiai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2043, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18857
 
 4) vaiko motina (įmotė) arba tėvas (įtėvis), vaiko globėjas arba rūpintojas, vieni auginantys vaiką (įvaikį) iki aštuonerių metų arba neįgalų vaiką (įvaikį) iki 18 metų (iki 2005 m. liepos 1 d. pripažintą vaiku invalidu), ar kitas asmuo, prižiūrintis sergantį ar neįgalųjį šeimos narį, kuriam Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos sprendimu nustatytas specialusis nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikis, jeigu nedarbo trukmė nuo įsiregistravimo teritorinėje darbo biržoje dienos yra ilgesnė kaip šeši mėnesiai;
 
@@ -287,11 +291,9 @@ VALSTYBĖS PAGALBA SocialinĖMS įmonĖMS
 
 1. Siekiant kompensuoti socialinių įmonių išlaidas tikslinėms asmenų grupėms priklausantiems darbuotojams mokyti, šioms įmonėms gali būti skiriama subsidija. Šie mokymai turi būti skiriami socialinės įmonės veiklai reikalingai darbuotojų kvalifikacijai kelti.
 
-2. Subsidija tikslinėms asmenų grupėms priklausantiems darbuotojams mokyti gali sudaryti iki 35 procentų išlaidų, reikalingų specialiam mokymui, arba iki 60 procentų išlaidų, reikalingų bendrojo pobūdžio mokymui. Ši subsidija gali būti padidinta 10 procentų, jeigu pagalba skiriama vidutinėms įmonėms, arba 20 procentų, jeigu pagalba skiriama mažoms įmonėms.
+2. Subsidija tikslinėms asmenų grupėms priklausantiems darbuotojams mokyti gali sudaryti iki 60 procentų šiam mokymui reikalingų išlaidų. Ši subsidija gali būti padidinta 10 procentų, jeigu pagalba skiriama vidutinėms, mažoms ar labai mažoms įmonėms.
 
-3. Šiame įstatyme bendrojo pobūdžio mokymas yra asmens ar asmenų grupės mokymas, tiesiogiai nesusijęs su asmens atliekamu darbu ar pareigomis socialinėje įmonėje, arba toks mokymas, kurio metu gautus įgūdžius ir žinias asmuo galėtų pritaikyti ir kitoje darbovietėje. Specialus mokymas yra asmens ar asmenų grupės mokymas, kuris tiesiogiai susijęs su atliekamu darbu ar pareigomis socialinėje įmonėje ir kurio metu gauti įgūdžiai ir žinios negali būti pritaikyti arba gali būti ribotai pritaikyti kitoje darbovietėje. Mokymas laikomas specialiu, jeigu nėra nustatyta, kad tai yra bendrojo pobūdžio mokymas.
-
-4. Subsidijuojamos šios bendrojo pobūdžio ir specialiam mokymui reikalingos išlaidos:
+3. Subsidijuojamos šios mokymui reikalingos išlaidos:
 
 1) mokytojų (auklėtojų, instruktorių, socialinių darbuotojų) darbo apmokėjimo ir socialinio draudimo už tą laiką, kai jie tiesiogiai dirba su asmenimis, kurie mokosi, išlaidos;
 
@@ -301,7 +303,11 @@ VALSTYBĖS PAGALBA SocialinĖMS įmonĖMS
 
 4) darbo užmokestis asmenims, kurie mokosi, apskaičiuotas už jų mokymosi laiką.
 
-5. Šio straipsnio 4 dalies 4 punkte nurodytų išlaidų bendra suma negali viršyti bendros šio straipsnio 4 dalies 1, 2, 3 punktuose nurodytų išlaidų sumos.
+4. Šio straipsnio 3 dalies 4 punkte nurodytų išlaidų bendra suma negali viršyti bendros šio straipsnio 3 dalies 1, 2, 3 punktuose nurodytų išlaidų sumos.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2043, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18857
 
 17 straipsnis. Subsidija neįgalių darbuotojų darbo aplinkai, gamybinėms ir poilsio patalpoms pritaikyti
 
@@ -361,17 +367,17 @@ VALSTYBĖS PAGALBA SocialinĖMS įmonĖMS
 
 22 straipsnis. Valstybės pagalbos dydžio apribojimai
 
-1. Šiame įstatyme nustatyta socialinių įmonių teisė gauti subsidijas nepanaikina teisės gauti kituose įstatymuose ar teisės aktuose nustatytą valstybės ar Europos Sąjungos pagalbą, atitinkančią Sutarties dėl Europos Sąjungos veikimo 107 straipsnyje nustatytus kriterijus, tačiau bendras šios pagalbos dydis vienai įmonei per trejus metus iš eilės neturi viršyti 15 000 000 eurų, o per vienus metus – 5 000 000 eurų. Valstybės pagalba mokymui negali sudaryti daugiau kaip 2 000 000 eurų bendros valstybės pagalbos dydžio vienam mokymo projektui. Jeigu valstybės ar Europos Sąjungos finansinė pagalba teikiama ne subsidijomis, ši pagalba išreiškiama subsidijos ekvivalentu.
+1. Socialinei įmonei skiriama valstybės pagalba šio įstatymo 4 straipsnio 1 dalies 1 punkte nurodytų asmenų darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų sumai padengti negali sudaryti daugiau kaip 10 000 000 eurų per metus. Kitų rūšių valstybės pagalba, skiriama neįgaliųjų socialinei įmonei, negali sudaryti daugiau kaip 10 000 000 eurų per metus.
 
-Straipsnio dalies pakeitimai:
+2. Socialinei įmonei skiriama valstybės pagalba šio įstatymo 4 straipsnio 1 dalies 2–6 punktuose nurodytų asmenų darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų sumai padengti negali sudaryti daugiau kaip 5 000 000 eurų per metus.
 
-Nr. XII-1146, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13455
+3. Valstybės pagalba mokymui negali sudaryti daugiau kaip 2 000 000 eurų vienam mokymo projektui.
 
-2. Be šiame įstatyme numatytos valstybės pagalbos, socialinės įmonės turi teisę gauti kitą, negu nustatyta šio įstatymo 14 straipsnyje, pagalbą šio įstatymo 4 straipsnio 1 dalies 1 punkte nurodytų asmenų darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų sumai padengti, tačiau bendras šios pagalbos dydis neturi viršyti 100 procentų šio įstatymo 4 straipsnio 1 dalies 1 punkte nurodytų asmenų darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo valstybinio socialinio draudimo įmokų sumos.
+4. Jeigu paskutinę ketvirčio dieną apskaičiuojama faktiškai gauta valstybės pagalbos suma viršija leistinas ribas, tai per vieną mėnesį nuo ataskaitos, kurioje pateikiama informacija apie gautą ir panaudotą pagalbą, pateikimo Vyriausybės įgaliotai institucijai termino ši perviršio suma turi būti grąžinama valstybės pagalbos teikėjui.
 
-3. Jeigu socialinė įmonė gauna šio įstatymo 13 straipsnio 1 dalies 1 punkte nurodytą valstybės pagalbą, skiriamą 4 straipsnio 1 dalies 2–6 punktuose nurodytiems asmenims, ar valstybės pagalbą šio įstatymo 13 straipsnio 1 dalies 2 ir 3 punktuose bei 2 dalyje nurodytų valstybės pagalbos rūšių forma iš kelių šaltinių, tai bendras iš kelių šaltinių gautos valstybės pagalbos dydis pagal kiekvieną valstybės pagalbos rūšį negali viršyti šiame įstatyme nustatyto atitinkamos rūšies valstybės pagalbos dydžio.
+Straipsnio pakeitimai:
 
-4. Jeigu paskutinę ketvirčio dieną apskaičiuojama faktiškai gauta valstybės pagalbos suma viršija leistinas ribas, tai per vieną mėnesį nuo ataskaitos, kurioje pateikiama informacija apie gautą ir panaudotą pagalbą pateikimo Vyriausybės įgaliotai institucijai termino ši perviršio suma turi būti grąžinama valstybės pagalbos teikėjui.
+Nr. XII-2043, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18857
 
 23 straipsnis. Lėšos socialinėms įmonėms remti
 
@@ -433,7 +439,11 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2008 m. rugpjūčio 6 d. Europos Komisijos reglamentas (EB) Nr. 800/2008, skelbiantis tam tikrų rūšių pagalbą, suderinamą su bendrąja rinka, taikant Sutarties 87 ir 88 straipsnius (Bendrasis bendrosios išimties reglamentas) (OL 2008 L 214, p. 3).
+1. 2014 m. birželio 17 d. Komisijos reglamentas (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius (OL 2014 L 187, p. 1).
+
+Priedo pakeitimai:
+
+Nr. XII-2043, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18857
 
 Pakeitimai:
 
@@ -500,6 +510,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1670, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07404
 
 Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 24 ir 26 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2043, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18857
+
+Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 4, 16, 22 straipsnių ir priedo pakeitimo įstatymas
 
 27 straipsnis. Pereinamojo laikotarpio nuostatos
 
