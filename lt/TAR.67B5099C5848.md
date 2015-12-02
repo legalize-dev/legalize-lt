@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2015-06-17"
+last_updated: "2015-12-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr. –––––
 
-Suvestinė redakcija nuo 2015-06-17 iki 2015-12-01
+Suvestinė redakcija nuo 2015-12-02 iki 2015-12-02
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
 
@@ -1883,13 +1883,17 @@ Byla sustabdoma:
 
 4) šio įstatymo 98 straipsnio 1 dalies 8 punkte numatytu atveju – kol bus gautas kompetentingos Europos Sąjungos teisminės institucijos preliminarus nutarimas;
 
-5) šio įstatymo 98 straipsnio 2 dalyje numatytu atveju – kol bus gauta Europos žmogaus teisių teismo konsultacinė išvada.
+6) šio įstatymo 98 straipsnio 2 dalyje numatytu atveju – kol bus gauta Europos žmogaus teisių teismo konsultacinė išvada.
 
-TAR pastaba. Papildymas 5 punktu įsigalioja nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+TAR pastaba. Papildymas 6 punktu įsigalioja nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
 
 Papildyta straipsnio punktu:
 
 Nr. XII-1774, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09618
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2069, 2015-11-24, paskelbta TAR 2015-12-01, i. k. 2015-19108
 
 Straipsnio pakeitimai:
 
