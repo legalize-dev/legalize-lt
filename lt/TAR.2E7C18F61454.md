@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2015-11-18"
+last_updated: "2015-12-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2015-11-18 iki 2015-12-01
+Suvestinė redakcija nuo 2015-12-02 iki 2015-12-02
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -587,6 +587,10 @@ TEISMO POSĖDŽIO PERTRAUKA, BYLOS NAGRINĖJIMO ATIDĖJIMAS IR BYLOS SUSTABDYMAS
 
 6) kai nagrinėjant bylą, kurioje komerciniam bankui pareikšti turtiniai reikalavimai, paaiškėja, kad Lietuvos bankas yra paskyręs komerciniam bankui laikinąjį administratorių;
 
+6 punkto redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos:
+
+6) kai nagrinėjant bylą, kurioje bankui ar Centrinei kredito unijai pareikšti turtiniai reikalavimai, paaiškėja, kad bankui ar Centrinei kredito unijai yra paskelbtas veiklos apribojimas (moratoriumas);
+
 7) kai teismas kreipiasi arba kiti teismai jau kreipėsi į Konstitucinį Teismą šio Kodekso 3 straipsnio 3 dalyje nustatyta tvarka ir pagrindais;
 
 8) kai teismas kreipiasi arba kiti teismai jau kreipėsi į administracinį teismą šio Kodekso 3 straipsnio 4 dalyje nustatyta tvarka ir pagrindais;
@@ -602,6 +606,8 @@ TAR pastaba. Papildymas 2 dalimi įsigalioja Žmogaus teisių ir pagrindinių la
 Straipsnio pakeitimai:
 
 Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
+
+Nr. XII-2068, 2015-11-24, paskelbta TAR 2015-12-01, i. k. 2015-19107
 
 5) kurios grindžiamos šalių pripažintais faktais (šio Kodekso 187 straipsnis);
 
