@@ -4,7 +4,7 @@ identifier: "TAR.DE0B1FF26D01"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-21"
-last_updated: "2015-07-04"
+last_updated: "2015-12-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DE0B1FF26D01"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2015-07-04 iki 2015-12-02
+Suvestinė redakcija nuo 2015-12-03 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
 
@@ -1462,7 +1462,11 @@ Nr. XII-1047, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10853
 
 3) nebetenkinami reikalavimai, nustatyti licencijos išdavimui;
 
-4) pažeidžiami įstatymų, reglamentuojančių saugią ir patikimą kredito unijų veiklą, ir priežiūros institucijos teisės aktų reikalavimai arba yra grėsmė, kad dėl kredito unijos veiklos arba dėl finansinės būklės būtų pažeisti visuomenės ir (arba) klientų interesai arba sutriktų Lietuvos Respublikos kredito unijų sistemos funkcionavimas;
+4) pažeidžiami įstatymų, reglamentuojančių saugią ir patikimą kredito unijų veiklą, tarp jų Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo, ir priežiūros institucijos teisės aktų reikalavimai arba yra grėsmė, kad dėl kredito unijos veiklos arba dėl finansinės būklės būtų pažeisti visuomenės ir (arba) klientų interesai arba sutriktų Lietuvos Respublikos kredito unijų sistemos funkcionavimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2060, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19171
 
 5) kitais šio įstatymo nustatytais atvejais.
 
@@ -1472,7 +1476,11 @@ Nr. XII-1047, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10853
 
 4. Sprendimas dėl poveikio priemonės taikymo per 5 dienas išsiunčiamas (įteikiamas) kredito unijai. Informacija apie pritaikytą poveikio priemonę skelbiama priežiūros institucijos teisės aktuose nustatyta tvarka, tačiau priežiūros institucija gali priimti sprendimą viešai neskelbti tokios informacijos, jeigu jos paskelbimas viešai gali turėti neigiamos įtakos kredito unijos ar Lietuvos Respublikos kredito unijų sistemos stabilumui ir patikimumui.
 
-5. Priežiūros institucija sprendimą dėl poveikio priemonės taikymo, kuris pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą laikomas draudžiamuoju įvykiu, priima ne vėliau kaip per 5 darbo dienas po to, kai nustato, kad priežiūros institucijos išduotą licenciją turinti kredito unija negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir yra pagrindas manyti, kad to negalės padaryti artimiausiu metu.
+5. Priežiūros institucija sprendimą dėl poveikio priemonės taikymo, kuris pagal Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymą laikomas indėlių draudžiamuoju įvykiu, priima ne vėliau kaip per 5 darbo dienas po to, kai nustato, kad priežiūros institucijos išduotą licenciją turinti kredito unija negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir yra pagrindas manyti, kad to negalės padaryti artimiausiu metu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2060, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19171
 
 Straipsnio pakeitimai:
 
@@ -1632,7 +1640,17 @@ Kredito unijų bankroto procedūras reglamentuoja šis įstatymas, Lietuvos Resp
 
 73 straipsnis. Sąlygos pripažinti kredito uniją nemokia
 
-1. Sąlygas, kuriomis kredito unija gali būti pripažįstama nemokia, ir kredito unijos nemokumo apskaičiavimo ir įvertinimo tvarką nustato priežiūros institucijos teisės aktai.
+1. Kredito unija gali būti pripažinta nemokia, jeigu yra bent viena iš šių sąlygų:
+
+1) kredito unija dėl to, kad patyrė arba, tikėtina, patirs nuostolių, kuriems padengti reikės visų jos nuosavų lėšų arba didelės jų dalies, arba dėl kitų su jos finansine būkle susijusių priežasčių pažeidžia arba, remiantis objektyviais tokį vertinimą pagrindžiančiais veiksniais, artimiausiu metu pažeis licencijai išduoti taikomus reikalavimus taip, kad priežiūros institucijai būtų pagrindas atšaukti licenciją;
+
+2) kredito unijos turtas yra arba, remiantis objektyviais tokį vertinimą pagrindžiančiais veiksniais, nustatoma, kad artimiausiu metu bus mažesnis už jos įsipareigojimus;
+
+3) kredito unija negali arba, remiantis objektyviais tokį vertinimą pagrindžiančiais veiksniais, nustatoma, kad artimiausiu metu negalės suėjus terminui apmokėti savo skolų arba įvykdyti kitų įsipareigojimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2060, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19171
 
 2. Kredito unijos bankroto bylą teismas iškelia tik tuo atveju, jeigu yra priežiūros institucijos išvada apie kredito unijos nemokumą.
 
@@ -1706,11 +1724,15 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2009 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 2009/14/EB, iš dalies keičianti Direktyvos 94/19/EB dėl indėlių garantijų sistemų nuostatas dėl kompensacijų lygio ir išmokėjimo termino (OL 2009 L 68, p. 3).
+1. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/49/ES dėl indėlių garantijų sistemų (OL 2014 L 173, p. 149).
 
 Papildyta priedu:
 
-Nr. XI-378, 2009-07-21, Žin., 2009, Nr. 93-3971 (2009-08-04)
+Nr. XI-378, 2009-07-21, Žin., 2009, Nr. 93-3971 (2009-08-04
+
+Priedo pakeitimai:
+
+Nr. XII-2060, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19171
 
 Pakeitimai:
 
@@ -1887,6 +1909,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1901, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10788
 
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 49 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2060, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19171
+
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 62, 73 straipsnių ir priedo pakeitimo įstatymas
 
 54 straipsnis. Reikalavimai auditoriui ir audito įmonei, jų pareigos ir atsakomybė
 
