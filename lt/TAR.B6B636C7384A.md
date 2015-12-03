@@ -4,7 +4,7 @@ identifier: "TAR.B6B636C7384A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-30"
-last_updated: "2015-10-01"
+last_updated: "2015-12-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2015-10-01 iki 2015-12-02
+Suvestinė redakcija nuo 2015-12-03 iki 2015-12-03
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
 
@@ -197,7 +197,11 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 4. Licencija taip pat gali būti atšaukiama ar jos galiojimas gali būti sustabdomas šio Įstatymo dešimtajame skirsnyje nustatytais pagrindais ir tvarka.
 
-5. Atšaukus licenciją, bankas neturi teisės teikti finansinių paslaugų, išskyrus, kiek tai būtina atsiskaitant su banko kreditoriais, o jeigu banko turtas, teisės, sandoriai ir įsipareigojimai perduodami pagal šio Įstatymo 761 straipsnį – kiek tai būtina, kad banko turtą, teises, sandorius ir įsipareigojimus perėmęs bankas galėtų tinkamai teikti su perimtu turtu, teisėmis, sandoriais ir įsipareigojimais susijusias finansines paslaugas, ir šio Įstatymo vienuoliktajame ir dvyliktajame skirsniuose nustatyta tvarka turi būti sprendžiamas klausimas dėl banko likvidavimo ar bankroto bylos jam kėlimo.
+5. Atšaukus licenciją, bankas neturi teisės teikti finansinių paslaugų, išskyrus atvejus, kai tai būtina atsiskaitant su banko kreditoriais ar vykdant pagal Finansinio tvarumo įstatymo 47 straipsnio nuostatas duotus įpareigojimus, ir šio Įstatymo vienuoliktajame ir dvyliktajame skirsniuose nustatyta tvarka turi būti sprendžiamas klausimas dėl banko likvidavimo ar bankroto bylos jam kėlimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 Straipsnio pakeitimai:
 
@@ -771,10 +775,6 @@ Straipsnio pakeitimai:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
-ŠEŠTASIS SKIRSNIS
-
-BANKO KAPITALAS IR PELNO PASKIRSTYMAS
-
 37 straipsnis. Neteko galios nuo 2015-05-01
 
 Straipsnio naikinimas:
@@ -1183,7 +1183,11 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 4. Pasibaigus finansiniams metams, bankas privalo:
 
-1) ne vėliau kaip prieš 10 dienų iki eilinio visuotinio akcininkų susirinkimo sudaryti sąlygas banko akcininkams ir priežiūros institucijai susipažinti su audito įmonės patikrintu metinių finansinių ataskaitų rinkiniu, sprendimo dėl pelno paskirstymo projektu ir auditoriaus išvada;
+1) ne vėliau kaip prieš 10 dienų iki eilinio visuotinio akcininkų susirinkimo sudaryti sąlygas banko akcininkams ir priežiūros institucijai susipažinti su audito įmonės audituotu metinių finansinių ataskaitų rinkiniu, sprendimo dėl pelno paskirstymo projektu ir auditoriaus išvada;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 2) ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos banko visuotinio akcininkų susirinkimo sprendimu patvirtinti metinių finansinių ataskaitų rinkinį ir priimti sprendimą dėl pelno paskirstymo;
 
@@ -1237,7 +1241,11 @@ Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
 
 6) turi tinkamas vidaus kontrolės ir informacines sistemas.
 
-2. Banko visuotinis akcininkų susirinkimas renka audito įmonę metinėms finansinėms ataskaitoms patikrinti. Auditorius, taip pat kitas asmuo, dalyvaujantis kartu su auditoriumi atliekant auditą, negali atlikti to paties banko audito ilgiau kaip 3 finansinius metus iš eilės.
+2. Banko visuotinis akcininkų susirinkimas renka audito įmonę metinių finansinių ataskaitų auditui atlikti. Auditorius, taip pat kitas asmuo, dalyvaujantis kartu su auditoriumi atliekant auditą, negali atlikti to paties banko audito ilgiau kaip 3 finansinius metus iš eilės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 3. Bankas iki einamųjų finansinių metų pirmojo pusmečio pabaigos privalo su banko visuotinio akcininkų susirinkimo išrinkta audito įmone sudaryti sutartį dėl metinių finansinių ataskaitų audito ir pateikti ją priežiūros institucijai.
 
@@ -1371,37 +1379,37 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 1. Be kitų šiame Įstatyme ir kituose teisės aktuose nustatytų pareigų ir teisių, priežiūros institucija turi teisę:
 
-1) duoti bankui šio straipsnio 2 dalyje nustatytus privalomus nurodymus, o bankas privalo juos įvykdyti per priežiūros institucijos nustatytą terminą ir nedelsdamas raštu apie tai pranešti priežiūros institucijai;
+1) duoti bankui šio straipsnio 2 ir 3 dalyse nustatytus privalomus nurodymus, o bankas privalo juos įvykdyti per priežiūros institucijos nustatytą terminą ir nedelsdamas raštu apie tai pranešti priežiūros institucijai;
 
-2) jei banko organų priimti sprendimai kelia pavojų banko veiklos stabilumui ir patikimumui, įstatymų nustatyta tvarka kreiptis į teismą, kad jie, esant įstatymų nustatytiems pagrindams, būtų pripažinti negaliojančiais;
+2) jeigu banko organų priimti sprendimai kelia pavojų banko veiklos stabilumui ir patikimumui, įstatymų nustatyta tvarka kreiptis į teismą, kad jie, jeigu yra įstatymų nustatyti pagrindai, būtų pripažinti negaliojančiais;
 
 3) sudaryti sutartis su audito įmonėmis, turto vertintojais ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl banko patikrinimo, kad būtų nustatyta banko turto vertė, banko finansinė būklė, įvertintos prisiimtos rizikos ar patikrintos kitos banko veiklos sritys. Šių asmenų darbą ir kitas su tuo susijusias jų išlaidas apmoka bankas. Pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys turi teises, nustatytas šio Įstatymo 69 straipsnio 2 ir 3 dalyse;
 
-4) reikalauti, kad būtų pakeista banko finansinių ataskaitų rinkinius tikrinanti audito įmonė, jei ji ar auditorius neatitinka (nevykdo) įstatymų nustatytų reikalavimų;
+4) reikalauti, kad būtų pakeista banko finansinių ataskaitų rinkinių auditą atliekanti audito įmonė, jeigu ji ar auditorius neatitinka (nevykdo) įstatymų nustatytų reikalavimų;
 
 5) pagal šio Įstatymo 681 straipsnį reikalauti pateikti priežiūros funkcijai vykdyti reikalingą informaciją ir atlikti priežiūros funkcijai vykdyti reikalingus tyrimus, taip pat atlikti inspektavimus (tikrinimus) pagal šio Įstatymo 69 straipsnį;
 
-6) paskirti nuolatinį priežiūros institucijos atstovą banko veiklai prižiūrėti. Nuolatinis priežiūros institucijos atstovas mutatis mutandis turi teises, nustatytas šio Įstatymo 69 straipsnyje.
+6) paskirti nuolatinį priežiūros institucijos atstovą banko veiklai prižiūrėti. Nuolatinis priežiūros institucijos atstovas mutatis mutandis turi teises, numatytas šio Įstatymo 69 straipsnyje.
 
-2. Priežiūros institucija, nustačiusi teisės aktų pažeidimus ar banko veiklos trūkumus arba turėdama duomenų, kad per ateinančius 12 mėnesių teisės aktai gali būti pažeisti, arba jei banko veikla kelia grėsmę banko veiklos stabilumui ir patikimumui, turi teisę duoti bankui tokius privalomus nurodymus:
+2. Priežiūros institucija, nustačiusi teisės aktų pažeidimus ar banko veiklos trūkumus arba turėdama duomenų, kad per ateinančius 12 mėnesių teisės aktai gali būti pažeisti, arba jeigu banko veikla kelia grėsmę banko veiklos stabilumui ir patikimumui, turi teisę duoti bankui tokius privalomus nurodymus:
 
 1) per priežiūros institucijos nustatytą terminą pašalinti teisės aktų pažeidimus ar banko veiklos trūkumus;
 
-2) turėti kapitalą, kuris viršytų šiame Įstatyme ir Reglamente (ES) Nr. 575/2013 nustatytus kapitalo reikalavimus ir (arba) sudaryti tinkamus kapitalo rezervus;
+2) turėti kapitalą, kuris viršytų šiame Įstatyme ir Reglamente (ES) Nr. 575/2013 nustatytus kapitalo reikalavimus, ir (arba) sudaryti tinkamus kapitalo rezervus;
 
 3) pagerinti vidaus kontrolės ir (arba) rizikos valdymo procesus;
 
 4) tinkamai įvertinti paskolų vertės sumažėjimą ir suformuoti papildomus specialiuosius atidėjinius ar pagerinti turto valdymo tvarką;
 
-5) nevykdyti tam tikros veiklos, nesudaryti tam tikrų sandorių arba sumažinti tokios veiklos arba sandorių apimtis, įskaitant sandorius dėl banko veiklą papildančių paslaugų pirkimo, dėl kitų juridinių asmenų įstatinio kapitalo ir (arba) balsavimo teisių dalių ar nekilnojamojo turto įsigijimo, arba sumažinti investicijas į veiklą, kuri kelia pernelyg didelę riziką banko patikimumui;
+5) nevykdyti tam tikros veiklos, nesudaryti tam tikrų sandorių arba sumažinti tokios veiklos arba sandorių apimtį, įskaitant sandorius dėl banko veiklą papildančių paslaugų pirkimo, dėl kitų juridinių asmenų įstatinio kapitalo ir (arba) balsavimo teisių dalių ar nekilnojamojo turto įsigijimo, arba sumažinti investicijas į veiklą, kuri kelia pernelyg didelę riziką banko patikimumui;
 
-6) sumažinti su banko veikla, produktais ir sistemomis susijusias rizikas;
+6) sumažinti su banko veikla, produktais ir sistemomis susijusią riziką;
 
 7) sumažinti kintamąją atlygio dalį, mokamą banko vadovams ir darbuotojams, jeigu tai nesuderinama su patikimos kapitalo bazės išlaikymu;
 
 8) naudoti banko grynąjį pelną nuosavam kapitalui stiprinti;
 
-9) apriboti arba nutraukti dividendų mokėjimą banko akcininkams arba palūkanų mokėjimą banko išleistų ne nuosavybės vertybinių popierių, kurie įtraukiami į banko kapitalą, turėtojams, jei toks draudimas nereiškia banko įsipareigojimų neįvykdymo;
+9) apriboti arba nutraukti dividendų mokėjimą banko akcininkams arba palūkanų mokėjimą banko išleistų ne nuosavybės vertybinių popierių, kurie įtraukiami į banko kapitalą, turėtojams, jeigu toks draudimas nereiškia banko įsipareigojimų neįvykdymo;
 
 10) priežiūros institucijai pateikti papildomą arba teikti dažniau informaciją, reikalingą priežiūros funkcijoms vykdyti;
 
@@ -1411,25 +1419,41 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 13) per priežiūros institucijos nustatytą terminą atlikti banko tarpinių finansinių ataskaitų rinkinio auditą;
 
-14) parengti ir įgyvendinti per priežiūros institucijos nustatytą terminą jai priimtiną banko veiklos pertvarkymo ar (ir) nustatytų pažeidimų ir (ar) trūkumų pašalinimo priemonių planą;
+14) parengti ir įgyvendinti per priežiūros institucijos nustatytą terminą jai priimtiną banko veiklos pakeitimo ar (ir) nustatytų pažeidimų ir (arba) trūkumų pašalinimo priemonių planą;
 
-15) sušaukti banko visuotinį akcininkų susirinkimą arba banko stebėtojų tarybos ar valdybos posėdį ir jame svarstyti priežiūros institucijos pasiūlytus klausimus;
+15) sušaukti banko visuotinį akcininkų susirinkimą arba banko stebėtojų tarybos ar valdybos posėdį ir jame svarstyti priežiūros institucijos pasiūlytus klausimus. Jeigu banko organai nevykdo nurodymo sušaukti visuotinį akcininkų susirinkimą, priežiūros institucija turi teisę pati sušaukti visuotinį akcininkų susirinkimą, parengti jo darbotvarkę ir reikalauti, kad jame būtų apsvarstyti priežiūros institucijos pasiūlyti klausimai;
 
 16) banko vadovams atvykti į priežiūros instituciją ir duoti paaiškinimus. Priežiūros institucija apie nurodymą banko vadovams atvykti į priežiūros instituciją turi teisę paskelbti viešai;
 
 17) vykdyti papildomus reikalavimus dėl banko veiklos rizikos ribojimo arba atlikti kitus veiksmus ar neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai ar banko veiklos trūkumai arba kad banko veikla būtų stabili ir patikima.
 
-3. Šio straipsnio 2 dalyje nustatyti privalomi nurodymai gali būti duodami kartu taikant ir poveikio priemones.
+3. Priežiūros institucija, nustačiusi, kad bankas pažeidžia šio įstatymo, Reglamento (ES) Nr. 575/2013, 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 600/2014 dėl finansinių priemonių rinkų, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2014, L 173, p. 84), 3, 4, 5, 6, 7, 14, 15, 16, 17, 24, 25 ir 26 straipsnių reikalavimus, arba turėdama duomenų, kad artimiausiu metu dėl sparčiai blogėjančios finansinės būklės bankas juos pažeis, turi teisę bankui duoti šio straipsnio 2 dalies 14 ir 15 punktuose nustatytus ir šiuos privalomus nurodymus:
 
-4. Pagal šio straipsnio 2 dalį priežiūros institucija, nustatydama tinkamą individualaus kapitalo reikalavimo dydį ar tinkamus kapitalo rezervų dydžius, taip pat specialius likvidumo reikalavimus, atsižvelgia į kiekybinius ir kokybinius priežiūrinio tikrinimo ir vertinimo rezultatus, sisteminės rizikos įvertinimą, banko valdymo struktūrą, rizikos nustatymo, valdymo, vidaus kontrolės procesus.
+1) įgyvendinti vieną ar daugiau gaivinimo plane, parengtame pagal Finansinio tvarumo įstatymo 4–11 straipsnių nuostatas, nustatytų procedūrų ar priemonių arba atnaujinti gaivinimo planą, kai šioje dalyje nustatytų nurodymų taikymą paskatinusios aplinkybės skiriasi nuo galiojančiame gaivinimo plane nustatytų prielaidų, ir įgyvendinti vieną ar daugiau atnaujintame gaivinimo plane nustatytų procedūrų ar priemonių per priežiūros institucijos nustatytą laikotarpį, užtikrinant, kad būtų pašalintos šioje dalyje nustatytų priemonių taikymą paskatinusios aplinkybės;
 
-5. Priežiūros institucijos nustatyta tvarka priežiūros institucijos darbuotojai turi teisę dalyvauti banko organų ir banko komitetų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti banko organų, banko komitetų ir banko vadovų veiklą.
+2) nušalinti arba pakeisti vieną ar daugiau banko stebėtojų tarybos narių, banko valdybos narių, banko administracijos vadovų ar asmenų, priklausančių banko vyresniajai vadovybei, jeigu nustatyta, kad tas asmuo (asmenys) neatitinka šio Įstatymo 34 straipsnyje nustatytų reikalavimų;
 
-6. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie bankų skolininkus. Bankai priežiūros institucijai privalo teikti duomenis apie banko skolininkus ir turi teisę naudotis šiais duomenimis priežiūros institucijos teisės aktų nustatyta tvarka.
+3) vadovaujantis gaivinimo planu, parengti derybų dėl skolos restruktūrizavimo su kai kuriais ar visais savo kreditoriais planą;
 
-7. Šiame straipsnyje nustatytas teises priežiūros institucija turi ir šio Įstatymo nustatyta tvarka išduotą licenciją turinčio užsienio banko filialo atžvilgiu.
+4) pakeisti banko verslo strategiją;
 
-8. Šiame Įstatyme nustatytomis teisėmis priežiūros institucija naudojasi:
+5) pakeisti banko teisinę ir organizacinę ar veiklos struktūrą.
+
+4. Šio straipsnio 2 dalyje nustatyti nurodymai gali būti duodami kartu taikant ir poveikio priemones. Šio straipsnio 3 dalyje nustatyti nurodymai gali būti duodami kartu su šio straipsnio 2 dalyje nustatytais nurodymais ir (arba) taikant ir poveikio priemones.
+
+5. Pagal šio straipsnio 2 dalį nustatant tinkamą individualaus kapitalo reikalavimo dydį ar tinkamus kapitalo rezervų dydžius, taip pat specialius likvidumo reikalavimus, atsižvelgiama į kiekybinius ir kokybinius priežiūrinio tikrinimo ir vertinimo rezultatus, sisteminės rizikos įvertinimą, banko valdymo struktūrą, rizikos nustatymo, valdymo, vidaus kontrolės procesus.
+
+6. Priežiūros institucija, nustačiusi, kad bankas atitinka šio straipsnio 3 dalyje nurodytas sąlygas, nedelsdama apie tai turi pranešti finansų sektoriaus subjektų pertvarkymo institucijai (toliau – pertvarkymo institucija). Tokiu atveju priežiūros institucija (įskaitant atvejus, kai priežiūros institucija atlieka inspektavimus (tikrinimus) pagal šio Įstatymo 69 straipsnį) turi teisę gauti visą informaciją, būtiną pertvarkymo planui, parengtam pagal Finansinio tvarumo įstatymą, atnaujinti, galimam banko pertvarkymui pasirengti ir banko turto bei įsipareigojimų įvertinimui. Priežiūros institucija šią informaciją turi pateikti pertvarkymo institucijai.
+
+7. Priežiūros institucijos nustatyta tvarka priežiūros institucijos darbuotojai turi teisę dalyvauti banko organų ir banko komitetų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti banko organų, banko komitetų ir banko vadovų veiklą.
+
+8. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie bankų skolininkus. Bankai priežiūros institucijai privalo teikti duomenis apie banko skolininkus ir turi teisę naudotis šiais duomenimis priežiūros institucijos teisės aktų nustatyta tvarka.
+
+9. Jeigu pagal šį Įstatymą pritaikomos banko veiklą ribojančios priemonės arba iškeliama banko likvidavimo byla, kaip jie suprantami pagal Finansinio tvarumo įstatymo 121 straipsnį, tai priežiūros institucija mutatis mutandis turi Finansinio tvarumo įstatymo VII skyriuje pertvarkymo institucijai nustatytas teises ir pareigas.
+
+10. Šiame straipsnyje nustatytas teises priežiūros institucija turi ir dėl šio Įstatymo nustatyta tvarka išduotą licenciją turinčio užsienio banko filialo.
+
+11. Šiame Įstatyme nustatytomis teisėmis priežiūros institucija naudojasi:
 
 1) tiesiogiai;
 
@@ -1439,6 +1463,8 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 4) pasitelkdama teisėsaugos institucijas.
 
+12. Priežiūros institucija, spręsdama dėl privalomų nurodymų davimo pagal šio straipsnio 3 dalį, taip pat turi vadovautis taikytinais Europos Sąjungos teisės aktais.
+
 Straipsnio pakeitimai:
 
 Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
@@ -1446,6 +1472,8 @@ Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
 Straipsnio pakeitimai:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 69 straipsnis. Banko inspektavimas (tikrinimas)
 
@@ -1503,7 +1531,7 @@ Nr. X-273, 2005-06-23, Žin., 2005, Nr. 84-3110 (2005-07-12)
 
 3) skirti šio Įstatymo nustatytas baudas;
 
-4) laikinai nušalinti banko stebėtojų tarybos narį (narius), banko valdybos narį (narius), banko administracijos vadovą (vadovus), užsienio banko filialo vadovą (vadovus) nuo pareigų arba nušalinti banko stebėtojų tarybos narį (narius), banko valdybos narį (narius), banko administracijos vadovą (vadovus), užsienio banko filialo vadovą (vadovus) nuo pareigų ir reikalauti, kad jie būtų atšaukti iš pareigų ir (ar) su jais būtų nutraukta sutartis ar būtų panaikinti jų įgaliojimai;
+4) laikinai nušalinti banko stebėtojų tarybos narį (narius), banko valdybos narį (narius), banko administracijos vadovą (vadovus), užsienio banko filialo vadovą (vadovus), vieną ar daugiau asmenų, priklausančių banko vyresniajai vadovybei, nuo pareigų arba nušalinti banko stebėtojų tarybos narį (narius), banko valdybos narį (narius), banko administracijos vadovą (vadovus), užsienio banko filialo vadovą (vadovus), vieną ar daugiau asmenų, priklausančių banko vyresniajai vadovybei, nuo pareigų ir reikalauti, kad jie būtų atšaukti iš pareigų ir (ar) su jais būtų nutraukta sutartis ar būtų panaikinti jų įgaliojimai;
 
 5) laikinai uždrausti teikti vieną ar kelias finansines paslaugas;
 
@@ -1511,11 +1539,17 @@ Nr. X-273, 2005-06-23, Žin., 2005, Nr. 84-3110 (2005-07-12)
 
 7) laikinai sustabdyti (apriboti) banko akcininko balsavimo teisę;
 
-8) paskelbti banko ar užsienio banko filialo veiklos apribojimą (moratoriumą);
+8) paskirti laikinąjį administratorių;
 
-9) laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito įstaigose, ir kitu turtu;
+9) paskelbti banko ar užsienio banko filialo veiklos apribojimą (moratoriumą);
 
-10) atšaukti išduotą licenciją ar laikinai sustabdyti jos galiojimą tol, kol tam yra pagrindas. Išnykus licencijos galiojimo sustabdymo pagrindui, priežiūros institucija nedelsdama, bet ne vėliau kaip per 5 darbo dienas nuo tada, kai įsitikino, kad pagrindas išnyko, atnaujina licencijos galiojimą.
+10) laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito įstaigose, ir kitu turtu;
+
+11) atšaukti išduotą licenciją ar laikinai sustabdyti jos galiojimą tol, kol yra pagrindas licenciją sustabdyti. Išnykus licencijos sustabdymo pagrindui, priežiūros institucija nedelsdama, bet ne vėliau kaip per 5 darbo dienas nuo tada, kai įsitikino, kad pagrindas išnyko, atnaujina licencijos galiojimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 2. Priežiūros institucija užsienio banko atstovybei turi teisę taikyti šias poveikio priemones:
 
@@ -1543,9 +1577,17 @@ Nr. X-273, 2005-06-23, Žin., 2005, Nr. 84-3110 (2005-07-12)
 
 8. Priežiūros institucijos sprendimas dėl poveikio priemonės (priemonių) taikymo turi būti motyvuotas ir įstatymų nustatyta tvarka gali būti skundžiamas teismui. Sprendimo, išskyrus sprendimą skirti šiame Įstatyme nustatytas baudas, apskundimas nesustabdo šio sprendimo vykdymo. Teismas nevertina ir nesprendžia klausimo dėl poveikio priemonės rūšies parinkimo ir jos taikymo tikslingumo.
 
-9. Bylose, kuriose nagrinėjami skundai (prašymai) dėl Lietuvos banko sprendimo taikyti šio straipsnio 1 dalies 8–10 punktuose ir 3 dalies 2 ir 3 punktuose nustatytas poveikio priemones, negali būti taikomos reikalavimo užtikrinimo priemonės, numatytos Administracinių bylų teisenos įstatymo 71 straipsnio 3 dalies 1 ir 3 punktuose.
+9. Bylose, kuriose nagrinėjami skundai (prašymai) dėl Lietuvos banko sprendimo taikyti šio straipsnio 1 dalies 8–11 punktuose ir 3 dalies 2 ir 3 punktuose nustatytas poveikio priemones, negali būti taikomos reikalavimo užtikrinimo priemonės, numatytos Administracinių bylų teisenos įstatymo 71 straipsnio 3 dalies 1 ir 3 punktuose.
 
-10. Teismas, išnagrinėjęs skundą (prašymą) dėl Lietuvos banko sprendimo taikyti šio straipsnio 1 dalies 8–10 punktuose ir 3 dalies 2 ir 3 punktuose nustatytas poveikio priemones, turi teisę priteisti atlyginti žalą, tačiau neturi teisės tenkindamas skundą (prašymą) panaikinti skundžiamą sprendimą, įpareigoti Lietuvos banką atlikti bet kokius veiksmus, dėl kurių būtų sustabdomas ar panaikinamas skundžiamo sprendimo galiojimas arba kitaip atkuriama buvusi iki sprendimo priėmimo padėtis.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
+
+10. Teismas, išnagrinėjęs skundą (prašymą) dėl Lietuvos banko sprendimo taikyti šio straipsnio 1 dalies 8–11 punktuose ir 3 dalies 2 ir 3 punktuose nustatytas poveikio priemones, turi teisę priteisti atlyginti žalą, tačiau neturi teisės tenkindamas skundą (prašymą) panaikinti skundžiamą sprendimą, įpareigoti Lietuvos banką atlikti bet kokius veiksmus, dėl kurių būtų sustabdomas ar panaikinamas skundžiamo sprendimo galiojimas arba kitaip atkuriama buvusi iki sprendimo priėmimo padėtis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 11. Poveikio priemonės, kurios pritaikomos laikinai, galioja iki priežiūros institucijos sprendime taikyti poveikio priemones nurodyto termino. Šis terminas gali būti apibrėžtas konkrečia data, laikotarpiu ar susietas su tam tikrų sąlygų atsiradimu (aplinkybių išnykimu), nebent priežiūros institucija priima sprendimą jas atšaukti anksčiau nustatyto termino.
 
@@ -1579,7 +1621,11 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 6) per nustatytus terminus nepateikiama šio Įstatymo, kitų teisės aktų nustatyta arba priežiūros institucijos pareikalauta informacija ar pateikiama neišsami arba netiksli informacija;
 
-7) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio Įstatymo 67 straipsnio 2 dalį duoti privalomi nurodymai;
+7) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio Įstatymo 67 straipsnio 2 ar 3 dalį duoti privalomi nurodymai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 8) nebetenkinami reikalavimai, nustatyti banko ar užsienio banko filialo licencijai gauti;
 
@@ -1603,7 +1649,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
-5. Priežiūros institucija sprendimą dėl poveikio priemonės taikymo, kuris pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą laikomas draudžiamuoju įvykiu, priima ne vėliau kaip per 5 darbo dienas po to, kai nustato, kad priežiūros institucijos išduotą licenciją turintis bankas ar užsienio banko filialas negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir yra pagrindas manyti, kad to negalės padaryti artimiausiu metu.
+5. Priežiūros institucija sprendimą dėl poveikio priemonės taikymo, kuris pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą laikomas indėlių draudžiamuoju įvykiu, priima ne vėliau kaip per 5 darbo dienas po to, kai nustato, kad priežiūros institucijos išduotą licenciją turintis bankas ar užsienio banko filialas negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir yra pagrindas manyti, kad to negalės padaryti artimiausiu metu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 6. Poveikio priemonių taikymas juridiniams asmenims neatleidžia jų vadovų ir darbuotojų nuo įstatymų nustatytos civilinės, administracinės ir baudžiamosios atsakomybės.
 
@@ -1633,83 +1683,51 @@ Straipsnio pakeitimai:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
-75 straipsnis. Banko stebėtojų tarybos nario (narių), banko valdybos nario (narių), banko administracijos vadovo (vadovų), užsienio banko filialo vadovo (vadovų) nušalinimas nuo pareigų
+75 straipsnis. Banko stebėtojų tarybos nario (narių), banko valdybos nario (narių), banko administracijos vadovo (vadovų), užsienio banko filialo vadovo (vadovų) ar asmenų, priklausančių banko vyresniajai vadovybei, nušalinimas nuo pareigų
 
-1. Nuo priežiūros institucijos sprendimo laikinai nušalinti banko stebėtojų tarybos narį (narius), banko valdybos narį (narius), banko administracijos vadovą (vadovus), užsienio banko filialo vadovą (vadovus) pateikimo bankui dienos nušalintas nuo pareigų asmuo neturi teisės atlikti savo funkcijų ir visi jo po tokio sprendimo įsigaliojimo dienos priimti sprendimai yra negaliojantys.
+1. Nuo priežiūros institucijos sprendimo laikinai nušalinti banko stebėtojų tarybos narį (narius), banko valdybos narį (narius), banko administracijos vadovą (vadovus), užsienio banko filialo vadovą (vadovus) ar asmenis, priklausančius banko vyresniajai vadovybei, pateikimo bankui dienos nušalintas nuo pareigų asmuo neturi teisės atlikti savo funkcijų ir visi jo po tokio sprendimo įsigaliojimo dienos priimti sprendimai yra negaliojantys.
 
-2. Jei priežiūros institucija priima sprendimą nušalinti banko stebėtojų tarybos narį (narius), banko valdybos narį (narius), banko administracijos vadovą (vadovus), užsienio banko filialo vadovą (vadovus) ir reikalauti, kad jie būtų atšaukti iš pareigų ir (ar) su jais būtų nutraukta sutartis ar būtų panaikinti jų įgaliojimai, tai banko organas, kuriam suteikta tokia teisė, ar filialą įsteigęs užsienio bankas privalo per priežiūros institucijos sprendime nustatytą terminą atšaukti tokį asmenį iš pareigų ir (ar) nutraukti su juo sudarytą sutartį ar panaikinti jo įgaliojimus.
+2. Jeigu priežiūros institucija priima sprendimą nušalinti banko stebėtojų tarybos narį (narius), banko valdybos narį (narius), banko administracijos vadovą (vadovus), užsienio banko filialo vadovą (vadovus) arba vieną ar daugiau asmenų, priklausančių banko vyresniajai vadovybei, ir reikalauti, kad jie būtų atšaukti iš pareigų ir (ar) su jais būtų nutraukta sutartis ar būtų panaikinti jų įgaliojimai, tai banko organas, kuriam suteikta tokia teisė, ar filialą įsteigęs užsienio bankas privalo per priežiūros institucijos sprendime nustatytą terminą atšaukti tokį asmenį iš pareigų ir (ar) nutraukti su juo sudarytą sutartį ar panaikinti jo įgaliojimus.
 
-3. Apie priimtą sprendimą nušalinti banko stebėtojų tarybos narį (narius), banko valdybos narį (narius), banko administracijos vadovą (vadovus), užsienio banko filialo vadovą (vadovus) pranešama bankui ir juridinių asmenų registrui ir paskelbiama priežiūros institucijos interneto svetainėje.
+3. Apie priimtą sprendimą nušalinti banko stebėtojų tarybos narį (narius), banko valdybos narį (narius), banko administracijos vadovą (vadovus), užsienio banko filialo vadovą (vadovus) arba vieno ar daugiau asmenų, priklausančių banko vyresniajai vadovybei, pranešama bankui ir juridinių asmenų registrui ir paskelbiama priežiūros institucijos interneto svetainėje.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 76 straipsnis. Banko veiklos apribojimas (moratoriumas)
 
-1. Banko veiklos apribojimas (moratoriumas) yra banko veiklos laikinas dalinis apribojimas. Banko veiklos apribojimus nustato šis Įstatymas ir priežiūros institucijos sprendimas dėl banko veiklos apribojimo (moratoriumo) paskelbimo.
+1. Banko veiklos apribojimas (moratoriumas) yra banko ar licenciją turinčio užsienio banko filialo veiklos laikinas dalinis apribojimas. Banko veiklos apribojimus nustato šis Įstatymas ir priežiūros institucijos sprendimas dėl banko veiklos apribojimo (moratoriumo) paskelbimo.
 
-2. Be kitų šio Įstatymo 73 straipsnyje nustatytų pagrindų, priežiūros institucija turi teisę paskelbti banko veiklos apribojimą (moratoriumą), jei bankas per 5 darbo dienas negali įvykdyti bent vieno kreditoriaus pagrįsto finansinio reikalavimo (dėl lėšų banko sąskaitose trūkumo negali atlikti kliento mokėjimo pavedimo, grąžinti indėlių ar kitų pasiskolintų lėšų arba vykdyti kitų finansinių įsipareigojimų ir pan.) ar yra pagrįstas pagrindas manyti, kad to negalės padaryti artimiausiu metu.
+2. Banko veiklos apribojimo (moratoriumo) terminą nustato priežiūros institucija. Šis terminas negali būti ilgesnis kaip 6 mėnesiai. Išimtiniais atvejais, kai nustatoma, kad veiklos apribojimo (moratoriumo) skelbimo pagrindu galinčios būti aplinkybės nėra išnykusios, veiklos apribojimo (moratoriumo) terminas motyvuotu priežiūros institucijos sprendimu gali būti pratęstas.
 
-3. Banko veiklos apribojimo (moratoriumo) terminą nustato priežiūros institucija. Šis terminas negali būti ilgesnis kaip 6 mėnesiai. Jei priežiūros institucija pritaria laikinojo administratoriaus pateiktoms išvadoms ir pasiūlymams dėl banko veiklos stabilumo ir patikimumo atkūrimo, banko veiklos apribojimo (moratoriumo) terminas priežiūros institucijos sprendimu gali būti pratęstas dar iki 6 mėnesių.
+3. Apie priimtą sprendimą skelbti banko veiklos apribojimą (moratoriumą) ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos pranešama bankui ir juridinių asmenų registrui, taip pat paskelbiama priežiūros institucijos interneto svetainėje.
 
-4. Priežiūros institucija, priimdama sprendimą skelbti banko veiklos apribojimą (moratoriumą), paskiria banko laikinąjį administratorių (toliau – laikinasis administratorius). Laikinojo administratoriaus veiklos sąlygos nustatomos laikinojo administravimo sutartyje, sudarytoje tarp priežiūros institucijos ir laikinojo administratoriaus. Tokia sutartis gali nustatyti priežiūros institucijos įsipareigojimus, susijusius su laikinojo administratoriaus veiksmais tretiesiems asmenims padarytos žalos atlyginimu, kiek tai neprieštarauja Civilinio kodekso normoms. Laikinasis administratorius, apie tai prieš protingą terminą raštu įspėjęs priežiūros instituciją, turi teisę atsistatydinti. Jeigu laikinasis administratorius atsistatydina, priežiūros institucija privalo nedelsdama priimti sprendimą dėl naujo laikinojo administratoriaus paskyrimo.
+4. Nuo sprendimo paskelbti banko veiklos apribojimą (moratoriumą) pateikimo bankui momento:
 
-5. Laikinuoju administratoriumi gali būti paskirtas juridinis ar fizinis asmuo. Jeigu laikinuoju administratoriumi skiriamas fizinis asmuo, gali būti paskirti vienas ar keli laikinojo administratoriaus padėjėjai. Laikinasis administratorius savo nuožiūra turi teisę pasitelkti paslaugų teikėjų (įskaitant teisės, apskaitos, audito, valdymo konsultantus), reikalingų tam, kad būtų galima tinkamai atlikti savo funkcijas. Atlyginimas ir kitos išlaidos (įskaitant išlaidas paslaugų teikėjams) laikinajam administratoriui ir jo padėjėjams, atsižvelgiant į laikinojo administratoriaus veiklos mastą, kvalifikaciją, veiklos terminus, nustatomi sutartyje, sudaromoje tarp priežiūros institucijos ir laikinojo administratoriaus. Atlyginimas ir išlaidos (įskaitant išlaidas paslaugų teikėjams) išmokami iš banko lėšų prieš bet kokius kitus banko mokėjimus. Tuo atveju, jeigu administruojamam bankui iškeliama bankroto byla, mokėjimai laikinajam administratoriui išmokami prieš bet kokius kitus banko mokėjimus. Tuo atveju, jeigu bankas nesumoka laikinajam administratoriui laiku, laikinajam administratoriui privalo sumokėti priežiūros institucija, kuri tuo metu turi teisę reikalauti sumokėtų sumų iš banko. Laikinuoju administratoriumi negali būti paskirtas priežiūros institucijos darbuotojas.
+1) jeigu kitaip nenustatyta priežiūros institucijos sprendime dėl banko veiklos apribojimo (moratoriumo) paskelbimo, bankui draudžiama vykdyti įsipareigojimus mokėti ar perleisti banko turtą, jeigu šie įsipareigojimai kyla iš sandorių ar kitų juridinių faktų, atsiradusių iki banko veiklos apribojimo (moratoriumo) paskelbimo dienos, išskyrus mokėjimus, būtinus apribotai banko veiklai apribojimo (moratoriumo) metu užtikrinti. Banko veiklos apribojimo (moratoriumo) metu netesybos už banko prievolės neįvykdymą ar netinkamą įvykdymą neskaičiuojamos ir nemokamos. Palūkanos pagal banko prievoles skaičiuojamos, tačiau išmokamos tik pasibaigus banko veiklos apribojimo (moratoriumo) terminui;
 
-6. Apie priimtą sprendimą skelbti banko veiklos apribojimą (moratoriumą) ir paskirti banko laikinąjį administratorių ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos pranešama bankui ir juridinių asmenų registrui, taip pat paskelbiama priežiūros institucijos interneto svetainėje.
+2) draudžiama įskaityti bet kokius banko ir jo klientų reikalavimus;
 
-Straipsnio dalies pakeitimai:
+3) sustabdomos teisme nagrinėjamos bylos, kuriose bankui pareikšti turtiniai reikalavimai, taip pat vykdomosios bylos ar kitaip vykdomi išieškojimai, kai skolininkas yra bankas.
 
-Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
-
-7. Nuo sprendimo paskelbti banko veiklos apribojimą (moratoriumą) ir paskirti banko laikinąjį administratorių pateikimo bankui dienos:
-
-1) sustabdomi banko stebėtojų tarybos, banko valdybos ir administracijos vadovų įgaliojimai. Laikinasis administratorius tiek, kiek būtina, įgyvendina banko stebėtojų tarybos, banko valdybos ir administracijos vadovų įgaliojimus. Visi šiame punkte nurodytų banko organų sprendimai, priimti po sprendimo paskelbti banko veiklos apribojimą (moratoriumą) ir paskirti laikinąjį administratorių įsigaliojimo dienos, yra negaliojantys ir nevykdytini;
-
-2) banko visuotinio akcininkų susirinkimo sprendimai įsigalioja tik juos suderinus su banko laikinuoju administratoriumi ir priežiūros institucija. Jie savo nuomonę dėl pateikto derinti visuotinio akcininkų susirinkimo sprendimo privalo pateikti ne vėliau kaip per 15 dienų nuo visuotinio akcininkų susirinkimo sprendimo gavimo;
-
-3) bankui draudžiama vykdyti įsipareigojimus mokėti ar perleisti banko turtą, jei šie įsipareigojimai kyla iš sandorių ar kitų juridinių faktų, atsiradusių iki banko veiklos apribojimo (moratoriumo) paskelbimo dienos, išskyrus mokėjimus, būtinus apribotai banko veiklai apribojimo (moratoriumo) metu užtikrinti. Banko veiklos apribojimo (moratoriumo) metu netesybos už banko prievolės neįvykdymą ar netinkamą įvykdymą neskaičiuojamos ir nemokamos. Palūkanos pagal banko prievoles skaičiuojamos, tačiau išmokamos tik pasibaigus banko veiklos apribojimo (moratoriumo) terminui;
-
-4) draudžiama įskaityti bet kokius banko ir jo klientų reikalavimus;
-
-5) sustabdomos teisme nagrinėjamos bylos, kuriose bankui pareikšti turtiniai reikalavimai, taip pat vykdomosios bylos ar kitaip vykdomi išieškojimai, kai skolininkas yra bankas.
-
-8. Šio straipsnio 7 dalies 3 ir 4 punktuose nustatyti draudimai netaikomi, jeigu Lietuvos Respublikos įstatymai, reglamentuojantys mokėjimų ir vertybinių popierių atsiskaitymo sistemų funkcionavimą, bei kiti įstatymai nustato, kad bankas privalo vykdyti prievoles ir jo veiklą apribojus.
-
-9. Laikinasis administratorius veikia pagal šį Įstatymą ir priežiūros institucijos nurodymus. Laikinasis administratorius, be kita ko:
-
-1) vadovauja bankui pagal priežiūros institucijos nurodymus ir siekia užtikrinti patikimą ir riziką ribojantį banko valdymą, prisidėti prie banko problemų sprendimo pats spręsdamas jo kompetencijai priskirtus klausimus arba siūlydamas banko visuotiniam akcininkų susirinkimui priimti tam reikalingus sprendimus;
-
-2) per priežiūros institucijos nustatytą terminą privalo išnagrinėti ir įvertinti banko finansinę būklę, galimus banko veiklos stabilumo ir patikimumo atkūrimo ir kitus banko problemų sprendimo būdus ir pateikti priežiūros institucijai išvadą bei pasiūlymus kartu su atlikto finansinės būklės įvertinimo pagrindu sudarytomis tarpinėmis finansinėmis ataskaitomis bei kitais priežiūros institucijos nurodytais duomenimis. Laikinojo administratoriaus išvadoje ir pasiūlymuose, be kita ko, turi būti numatyta galimų banko veiklos stabilumo ir patikimumo atkūrimo ir kitų banko problemų sprendimo būdų sėkmingo įgyvendinimo lyginamoji tikimybė, jų įgyvendinimo terminai, galimos išlaidos ir nauda, taip pat poreikis pratęsti banko veiklos apribojimo (moratoriumo) terminą ir (ar) priimti kitus sprendimus, leidžiančius įgyvendinti banko veiklos stabilumo ir patikimumo atkūrimo ar kitus banko problemų sprendimo būdus. Jeigu nėra realių galimybių atkurti banko veiklos stabilumą ir patikimumą, taikyti šio Įstatymo 761 straipsnyje nustatytą arba kitus banko problemų sprendimo būdus, laikinojo administratoriaus išvadoje ir pasiūlymuose gali būti siūloma spręsti klausimus dėl banko likvidavimo ar bankroto bylos iškėlimo;
-
-3) turi teisę be įspėjimo nutraukti sutartis su banko valdybos nariais ir administracijos vadovais. Šiems asmenims išeitinė išmoka nemokama;
-
-4) apie administravimo eigą privalo teikti informaciją priežiūros institucijai jos nustatyta tvarka ir banko visuotiniam akcininkų susirinkimui jo nustatyta tvarka;
-
-5) veikia pagal kitus priežiūros institucijos nurodymus.
-
-10. Laikinasis administratorius turi teisę kreiptis į priežiūros instituciją su prašymu pateikti nurodymus tam tikrais klausimais, susijusiais su banku ir laikinojo administratoriaus veikla. Priežiūros institucija privalo nedelsdama pateikti tokius nurodymus. Laikinasis administratorius, jeigu tam yra tinkamas pagrindas, turi teisę sustabdyti savo veiklą, susijusią su iškeltais klausimais, iki bus pateikti aiškūs priežiūros institucijos nurodymai.
-
-11. Laikinasis administratorius privalo savo funkcijas atlikti apdairiai ir sąžiningai. Laikinasis administratorius negali jam suteiktų teisių panaudoti savo asmeniniams ar trečiųjų asmenų poreikiams tenkinti. Laikinasis administratorius už padarytą žalą atsako įstatymų nustatyta tvarka, nebent kitaip nustatyta sutartyje, sudarytoje tarp priežiūros institucijos ir laikinojo administratoriaus. Bet kuriuo atveju laikinasis administratorius neatsako už žalą, atsiradusią dėl veiksmų, atliktų vadovaujantis priežiūros institucijos duotais nurodymais. Tokiu atveju už padarytą žalą esant įstatymuose nustatytoms sąlygoms atsako priežiūros institucija.
-
-12. Priežiūros institucija, atsižvelgdama į laikinojo administratoriaus pasiūlymus, iki banko veiklos apribojimo (moratoriumo) termino pabaigos priima vieną iš šių sprendimų:
-
-1) atšaukti banko veiklos apribojimą (moratoriumą), jeigu bankas atitinka teisės aktų nustatytus reikalavimus ir gali stabiliai bei patikimai veikti;
-
-2) pratęsti banko veiklos apribojimo (moratoriumo) terminą, jeigu priežiūros institucija pritaria laikinojo administratoriaus pateiktoms išvadoms ir pasiūlymams dėl banko veiklos stabilumo ir patikimumo atkūrimo ar kitų banko problemų sprendimo būdų taikymo;
-
-3) atšaukti licenciją, jeigu nėra realių galimybių atkurti banko veiklos stabilumo ir patikimumo, taikyti šio Įstatymo 761 straipsnyje numatytus ar kitus banko problemų sprendimo būdus arba jeigu yra užbaigiamas pagal šio Įstatymo 761 straipsnio nuostatas vykdytas banko turto, teisių, sandorių ir įsipareigojimų perdavimas.
-
-13. Šiame straipsnyje nustatyta poveikio priemonė gali būti taikoma ir licenciją turinčiam užsienio banko filialui.
+5. Šio straipsnio 4 dalies 1 ir 2 punktuose nustatyti draudimai netaikomi, jeigu Lietuvos Respublikos įstatymai, reglamentuojantys mokėjimų ir vertybinių popierių atsiskaitymo sistemų funkcionavimą, bei kiti įstatymai nustato, kad bankas privalo vykdyti prievoles ir jo veiklą apribojus.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1714, 2011-11-17, Žin., 2011, Nr. 139-6554 (2011-11-18)
 
+Straipsnio pakeitimai:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
+
 77 straipsnis. Teisės disponuoti lėšomis ir kitu turtu laikinas apribojimas
 
-1. Priežiūros institucijai pritaikius šio Įstatymo 72 straipsnio 1 dalies 7 punkte ar 3 dalies 2 punkte nurodytą poveikio priemonę, asmuo, kuriam pritaikyta poveikio priemonė, neturi teisės disponuoti lėšomis, esančiomis jo sąskaitose Lietuvos banke bei kitose kredito įstaigose, ir kitu priežiūros institucijos sprendime nurodytu turtu.
+1. Priežiūros institucijai pritaikius šio Įstatymo 72 straipsnio 1 dalies 9 punkte ar 3 dalies 2 punkte nurodytą poveikio priemonę, asmuo, kuriam pritaikyta poveikio priemonė, neturi teisės disponuoti lėšomis, esančiomis jo sąskaitose Lietuvos banke bei kitose kredito įstaigose, ir kitu priežiūros institucijos sprendime nurodytu turtu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 2. Priežiūros institucija gali laikinai apriboti teisę disponuoti visomis lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito įstaigose, ir visu kitu turtu ar lėšų ir kito turto dalimi.
 
@@ -1817,13 +1835,27 @@ BANKO BANKROTAS
 
 83 straipsnis. Bankų bankroto procedūros teisinis reglamentavimas
 
-Bankų bankroto procedūras reglamentuoja šis Įstatymas, Finansų įstaigų įstatymas ir Įmonių bankroto įstatymas, jeigu šis Įstatymas bei Finansų įstaigų įstatymas nenustato kitaip.
+Bankų bankroto procedūras reglamentuoja Įmonių bankroto įstatymas, jeigu šis Įstatymas, Finansinio tvarumo įstatymas ir Finansų įstaigų įstatymas nenustato kitaip.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 84 straipsnis. Sąlygos pripažinti banką nemokiu
 
-1. Sąlygas, kurioms esant bankas gali būti pripažįstamas nemokiu, ir banko nemokumo apskaičiavimo ir įvertinimo tvarką nustato priežiūros institucijos teisės aktai.
+1. Bankas gali būti pripažintas nemokiu, jeigu yra bent viena iš šių sąlygų:
 
-2. Banko bankroto bylą teismas iškelia tik jeigu yra priežiūros institucijos išvada dėl banko nemokumo.
+1) bankas dėl to, kad patyrė arba, tikėtina, kad patirs nuostolių, kuriems padengti reikės visų jo nuosavų lėšų arba didelės jų dalies arba dėl kitų su jo finansine būkle susijusių priežasčių pažeidžia arba, remiantis objektyviais tokį vertinimą pagrindžiančiais veiksniais, artimiausiu metu pažeis licencijai išduoti taikomus reikalavimus taip, kad priežiūros institucijai būtų pagrindas atšaukti licenciją;
+
+2) banko turtas yra arba, remiantis objektyviais veiksniais, nustatoma, kad artimiausiu metu bus mažesnis už jo įsipareigojimus;
+
+3) bankas negali arba, remiantis objektyviais tokį vertinimą pagrindžiančiais veiksniais, nustatoma, kad artimiausiu metu negalės suėjus terminui apmokėti savo skolų arba įvykdyti kitų įsipareigojimų.
+
+2. Banko bankroto bylą teismas iškelia tik pertvarkymo institucijos iniciatyva arba jeigu į teismą kreipiasi kiti įstatymuose nurodyti asmenys ir yra įvykdytos Finansinio tvarumo įstatymo 102 straipsnyje nustatytos sąlygos. Jeigu pertvarkymo institucija Finansinio tvarumo įstatymo 102 straipsnyje nustatyta tvarka teismui nepateikia informacijos apie jos ketinimus imtis pertvarkymo veiksmų, teismas dėl bankroto bylos bankui iškėlimo sprendžia tik gavęs priežiūros institucijos išvadą dėl banko nemokumo.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 85 straipsnis. Banko bankroto byla
 
@@ -1849,7 +1881,11 @@ Bankų bankroto procedūras reglamentuoja šis Įstatymas, Finansų įstaigų į
 
 8. Iškėlus banko bankroto bylą, taikos sutartis negali būti sudaroma.
 
-9. Iškėlus bankroto bylą bankui, kuris pagal šio Įstatymo 761 straipsnio nuostatas yra perdavęs banko turtą, teises, sandorius ir įsipareigojimus kitam bankui, banko administratorius neturi teisės tikrinti sandorių, sudarytų pagal šio Įstatymo 761 straipsnio nuostatas vykdant banko turto, teisių, sandorių ir įsipareigojimų perdavimą, ir reikšti ieškinių teisme dėl tokių sandorių pripažinimo negaliojančiais.
+9. Neteko galios nuo 2015-12-03
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 Straipsnio pakeitimai:
 
@@ -1877,17 +1913,19 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 1. Pirmąja eile yra tenkinami darbuotojų reikalavimai, susiję su darbo santykiais; reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe.
 
-2. Antrąja eile tenkinami valstybės įmonės Indėlių ir investicijų draudimas reikalavimai dėl išlaidų, susijusių su draudimo išmokų banko indėlininkams ar investuotojams, nurodytiems Indėlių ir įsipareigojimų investuotojams draudimo įstatyme, išmokėjimu.
+2. Antrąja eile tenkinami reikalavimai dėl apdraustųjų indėlių, taip pat valstybės įmonės „Indėlių ir investicijų draudimas“ reikalavimai dėl išlaidų, susijusių su Indėlių draudimo fondo lėšų panaudojimu pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą ir (arba) Finansinio tvarumo įstatymą.
 
 3. Trečiąja eile tenkinami reikalavimai dėl mokesčių ir kitų mokėjimų į biudžetą bei valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokų, taip pat dėl suteiktų paskolų, gautų valstybės vardu ir su valstybės garantija.
 
-4. Ketvirtąja eile tenkinami kiti banko kreditorių, išskyrus nurodytus šio straipsnio 1, 2, 3, 5, 6 ir 7 dalyse, reikalavimai.
+4. Ketvirtąja eile tenkinami fizinių asmenų ir labai mažų, mažų ir vidutinių įmonių, kaip jos apibrėžtos Smulkiojo ir vidutinio verslo plėtros įstatyme, reikalavimai dėl indėlių dalies, viršijančios draudžiamą sumą, numatytą Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 4 straipsnyje, ir fizinių asmenų ir labai mažų, mažų ir vidutinių įmonių reikalavimai dėl indėlių, kurie būtų laikomi reikalavimus atitinkančiais indėliais, jeigu būtų laikomi Lietuvos Respublikoje įsisteigusiuose bankuose, o ne jų filialuose, esančiuose trečiosiose valstybėse.
 
-5. Penktąja eile tenkinami kreditorių reikalavimai dėl bankui suteiktų pasitikėtinių (subordinuotų) paskolų ir banko išleistų ne nuosavybės vertybinių popierių, kurie turi visus pasitikėtinės (subordinuotos) paskolos požymius, išskyrus reikalavimus, kurie nurodyti šio straipsnio 6 dalyje.
+5. Penktąja eile tenkinami kiti banko kreditorių reikalavimai, išskyrus šio straipsnio 1, 2, 3, 4, 6, 7 ir 8 dalyse nurodytus reikalavimus.
 
-6. Šeštąja eile tenkinami kreditorių reikalavimai dėl banko išleistų ne nuosavybės vertybinių popierių, kurie turi visus pasitikėtinės (subordinuotos) paskolos požymius ir kurių įsigijimo sandoriuose numatyta, kad pagal juos reikalavimai tenkinami tik po kitų banko kreditorių reikalavimų, įskaitant reikalavimus dėl bankui suteiktų pasitikėtinių (subordinuotų) paskolų ir kitų banko išleistų ne nuosavybės vertybinių popierių, kurie turi visus pasitikėtinės (subordinuotos) paskolos požymius.
+6. Šeštąja eile tenkinami kreditorių reikalavimai dėl bankui suteiktų pasitikėtinių (subordinuotų) paskolų ir banko išleistų ne nuosavybės vertybinių popierių, kurie turi visus pasitikėtinės (subordinuotos) paskolos požymius, išskyrus šio straipsnio 7 dalyje nurodytus reikalavimus.
 
-7. Septintąja eile tenkinami banko akcininkų, turinčių banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, banko stebėtojų tarybos narių, banko valdybos narių ir banko administracijos vadovų reikalavimai.
+7. Septintąja eile tenkinami kreditorių reikalavimai dėl banko išleistų ne nuosavybės vertybinių popierių, kurie turi visus pasitikėtinės (subordinuotos) paskolos požymius ir kurių įsigijimo sandoriuose numatyta, kad pagal juos reikalavimai tenkinami tik po kitų banko kreditorių reikalavimų, įskaitant reikalavimus dėl bankui suteiktų pasitikėtinių (subordinuotų) paskolų ir kitų banko išleistų ne nuosavybės vertybinių popierių, kurie turi visus pasitikėtinės (subordinuotos) paskolos požymius.
+
+8. Aštuntąja eile tenkinami banko akcininkų, turinčių banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, banko stebėtojų tarybos narių, banko valdybos narių ir banko administracijos vadovų reikalavimai.
 
 Straipsnio pakeitimai:
 
@@ -1895,9 +1933,19 @@ Nr. IX-2537, 2004-11-04, Žin., 2004, Nr. 171-6297 (2004-11-26)
 
 Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
 
-TRYLIKTASIS SKIRSNIS
+Straipsnio pakeitimai:
 
-PAPILDOMOS NUOSTATOS DĖL BANKO VEIKLĄ RIBOJANČIŲ PRIEMONIŲ IR BANKO LIKVIDAVIMO BYLŲ
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
+
+13 skirsnis. Neteko galios nuo 2015-12-03
+
+Skirsnio naikinimas:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
+
+KETURIOLIKTASIS SKIRSNIS
+
+BAIGIAMOSIOS NUOSTATOS
 
 88 straipsnis. Banko veiklą ribojančios priemonės ir banko likvidavimo byla
 
@@ -2059,7 +2107,11 @@ priedas
 
 3. 1989 m. vasario 13 d. Tarybos Direktyva 89/117/EEB dėl valstybėje narėje įsteigtų kredito ir finansų įstaigų, kurių pagrindinės buveinės yra kitoje valstybėje narėje, filialų prievolių, susijusių su metinės finansinės atskaitomybės dokumentų skelbimu (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 213).
 
-4. 1994 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva 94/19/EB dėl indėlių garantijų sistemų (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 252).
+4. Neteko galios nuo 2015-12-03
+
+Punkto naikinimas:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 5. Neteko galios 2012-01-01.
 
@@ -2094,6 +2146,18 @@ Nr. XII-1474, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21136
 Papildyta punktu:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
+
+14. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/49/ES dėl indėlių garantijų sistemų (OL 2014 L 173, p. 149).
+
+Papildyta punktu:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
+
+15. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012 (OL 2014 L 173, p. 190).
+
+Papildyta punktu:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 Priedo pakeitimai:
 
@@ -2311,6 +2375,14 @@ Nr. XII-1899, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10790
 
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 55 straipsnio pakeitimo įstatymas
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
+
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 10, 61, 62, 67, 71, 72, 73, 75, 76, 77, 83, 84, 85, 87 straipsnių, priedo pakeitimo, Įstatymo papildymo 36-1, 75-1, 75-2 straipsniais, 76-1 straipsnio ir tryliktojo skirsnio pripažinimo netekusiais galios įstatymas
+
 1 straipsnis. Įstatymo paskirtis
 
 1. Šio Įstatymo tikslas – reglamentuoti bankų ir užsienio bankų, veikiančių Lietuvos Respublikoje, taip pat jų padalinių steigimo, licencijavimo, veiklos, pabaigos ir pertvarkymo bei priežiūros tvarką, kad bankų sistema būtų stabili, patikima, efektyvi ir saugi.
@@ -2361,11 +2433,13 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 11. Užsienio bankas – užsienio valstybėje įsteigta kredito įstaiga, kuri turi užsienio valstybės priežiūros institucijos išduotą leidimą ar licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionaliųjų rinkos dalyvių ir jų skolinimu.
 
-12. Kitos šio Įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Finansų įstaigų įstatyme ir 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) (toliau – Reglamentas (ES) Nr. 575/2013).
+12. Kitos šio Įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Finansų įstaigų įstatyme, Lietuvos Respublikos finansinio tvarumo įstatyme ir 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) (toliau – Reglamentas (ES) Nr. 575/2013).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 Straipsnio pakeitimai:
 
@@ -2595,11 +2669,13 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 71 straipsnis. Bendradarbiavimas su Europos Komisija, Europos bankininkystės institucija ir Europos Sąjungos valstybių narių priežiūros institucijomis
 
-1. Priežiūros institucija praneša Europos bankininkystės institucijai apie šio Įstatymo nustatyta tvarka išduotas licencijas, pritaikytas poveikio priemones ir dėl šių poveikio priemonių paduotus skundus bei jų nagrinėjimo eigą, Europos Komisijai ir Europos bankininkystės institucijai – apie atšauktas licencijas, taip pat joms ir Europos Sąjungos valstybių narių priežiūros institucijoms teikia kitą informaciją. Pranešimų ir informacijos teikimo atvejus ir tvarką nustato priežiūros institucijos teisės aktai.
+1. Priežiūros institucija praneša Europos bankininkystės institucijai apie šio Įstatymo nustatyta tvarka išduotas licencijas, nurodydama, kurioje indėlių draudimo sistemoje dalyvauja licenciją gavusi kredito įstaiga, pritaikytas poveikio priemones ir dėl šių poveikio priemonių paduotus skundus bei jų nagrinėjimo eigą, Europos Komisijai ir Europos bankininkystės institucijai – apie atšauktas licencijas, taip pat joms ir Europos Sąjungos valstybių narių priežiūros institucijoms teikia kitą informaciją. Pranešimų ir informacijos teikimo atvejus ir tvarką nustato priežiūros institucijos teisės aktai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 2. Priežiūros institucija pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją.
 
@@ -2693,61 +2769,11 @@ Straipsnio pakeitimai:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
-761 straipsnis. Banko turto, teisių, sandorių ir įsipareigojimų perdavimas
+761 straipsnis. Neteko galios nuo 2015-12-03
 
-1. Banko, kuriam pagal šio Įstatymo 76 straipsnį paskelbtas veiklos apribojimas (moratoriumas) ir paskirtas laikinasis administratorius (toliau šiame straipsnyje – administruojamas bankas), turtas, teisės, sandoriai ir įsipareigojimai gali būti perduodami kitam bankui, jeigu:
+Straipsnio naikinimas:
 
-1) yra reali grėsmė, kad administruojamo banko turto grynoji vertė taps mažesnė negu banko įsipareigojimai ar bankas atitiks kitas pagal šio Įstatymo 84 straipsnio 1 dalį priežiūros institucijos priimtuose teisės aktuose nustatytas sąlygas, kada bankas gali būti pripažįstamas nemokiu, arba nustatoma, kad bankas jau atitinka sąlygas, kada bankas gali būti pripažįstamas nemokiu, ir
-
-2) administruojamo banko turto, teisių, sandorių ir įsipareigojimų perdavimas kitam bankui leistų išlaikyti indėlininkų pasitikėjimą bankų sistemos stabilumu ir patikimumu ir kitaip apsaugoti viešuosius interesus, o administruojamo banko likvidavimas dėl bankroto tokiu pačiu mastu neapsaugotų šių interesų.
-
-2. Administruojamo banko turto, teisių, sandorių ir įsipareigojimų perdavimą priežiūros institucijos pritarimu ir atsižvelgdamas į jos duotus nurodymus organizuoja ir vykdo laikinasis administratorius.
-
-3. Jeigu priežiūros institucija pritaria administruojamo banko turto, teisių, sandorių ir įsipareigojimų perdavimui, laikinasis administratorius, atsižvelgdamas į priežiūros institucijos nurodymus, organizuoja ir vykdo derybas dėl administruojamo banko turto, teisių, sandorių ir įsipareigojimų perėmimo su bankais, kurie turi teisę teikti su administruojamo banko turtu, teisėmis, sandoriais ir įsipareigojimais susijusias finansines paslaugas. Derybose dalyvaujantys bankai turi teisę susipažinti su informacija apie administruojamo banko finansinę būklę, kuri, laikinojo administratoriaus manymu, reikalinga sprendimui dėl administruojamo banko turto, teisių, sandorių ir įsipareigojimų perėmimo priimti. Tokios informacijos apsaugai mutatis mutandis taikomos šio Įstatymo 55 straipsnio nuostatos.
-
-4. Priežiūros institucija, atsižvelgdama į būtinumą ypač greitai ir veiksmingai spręsti klausimą dėl administruojamo banko turto, teisių, sandorių ir įsipareigojimų perdavimo, taip pat į sprendimo priėmimo metu priežiūros institucijos turimą informaciją apie Lietuvos Respublikoje finansines paslaugas turinčių teisę teikti bankų pajėgumą perimti administruojamo banko turtą, teises, sandorius ir įsipareigojimus arba dėl kitų priežasčių manydama, kad derybų organizavimas ir vykdymas pagal šio straipsnio 3 dalies nuostatas nebūtų tinkamas, turi teisę laikinajam administratoriui nurodyti derybas organizuoti ir vykdyti tik su kai kuriais su administruojamo banko turtu, teisėmis, sandoriais ir įsipareigojimais susijusias finansines paslaugas turinčiais teikti bankais, su vienu iš jų, arba nurodyti iš viso neorganizuoti ir nevykdyti derybų, o administruojamo banko turtą, teises, sandorius ir įsipareigojimus pasirengti perduoti ar perduoti pagal Lietuvos Respublikos finansinio tvarumo įstatymo 71 straipsnio nuostatas galimam įsteigti arba jau įsteigtam laikinajam bankui.
-
-5. Administruojamo banko turto, teisių, sandorių ir įsipareigojimų perdavimo metu gali būti perduodamas visas arba dalis administruojamo banko turto, teisių (turtinių ir neturtinių) ir sandorių bei visi arba dalis administruojamo banko įsipareigojimų, tačiau:
-
-1) visais atvejais turi būti perduodami administruojamo banko įsipareigojimai Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme nurodytiems indėlininkams ir investuotojams, kuriems, esant draudžiamajam įvykiui, būtų mokamos draudimo išmokos, neviršijančios sumos, kurią jiems privalėtų išmokėti valstybės įmonė „Indėlių ir investicijų draudimas“, ir banko įsipareigojimai valstybės institucijoms ir įstaigoms, atsirandantys iš sandorių, sudarytų po banko veiklos apribojimo (moratoriumo) paskelbimo dienos;
-
-2) neperduodami administruojamo banko įsipareigojimai kreditoriams, kurių reikalavimai banko bankroto atveju pagal šio Įstatymo 87 straipsnio nuostatas tenkinami penktąja, šeštąja ir septintąja eile;
-
-3) turi būti laikomasi principo, kad šios dalies 1 ir 2 punktuose nenurodyti administruojamo banko kreditoriai, kurių reikalavimai banko bankroto atveju būtų tenkinami ta pačia šio Įstatymo 87 straipsnyje nustatyta eile, traktuojami vienodai ir neturi patirti daugiau nuostolių, negu jų būtų patyrę tuo atveju, jeigu vietoj administruojamo banko turto, teisių, sandorių ir įsipareigojimų perdavimo kitam bankui, administruojamam bankui tuo pačiu metu būtų buvusi iškelta bankroto byla.
-
-6. Administruojamo banko turtas, teisės, sandoriai ir įsipareigojimai gali būti perduodami tik po to, kai jų vertinimą atlieka laikinojo administratoriaus pasitelkta audito įmonė ir (ar) turtą vertinanti įmonė. Vertinimo išlaidas apmoka administruojamas bankas. Esant būtinumui ypač greitai spręsti klausimą dėl administruojamo banko turto, teisių, sandorių ir įsipareigojimų perdavimo, administruojamo banko turtas, teisės, sandoriai ir įsipareigojimai gali būti perduodami tik laikinajam administratoriui atlikus preliminarų jų vertinimą ir jo išvadas patvirtinus priežiūros institucijai, o audito įmonei ir (ar) turtą vertinančiai įmonei vertinimą atliekant jau po turto, teisių, sandorių ir įsipareigojimų perdavimo. Nustatant banko turto, teisių, sandorių ir įsipareigojimų vertę, turi būti atsižvelgiama į priežiūros institucijos pateiktą išvadą dėl to, ar yra pagrindai administruojamo banko licencijai atšaukti, ir į šio Įstatymo 10 straipsnyje nustatytas licencijos atšaukimo pasekmes, tačiau negali būti atsižvelgiama į bankui pagal Lietuvos Respublikos finansinio tvarumo įstatymą jau taikomas ar galimas taikyti finansinio stabilumo stiprinimo priemones.
-
-7. Jeigu perduodamų administruojamo banko įsipareigojimų vertė yra didesnė negu kartu perduodamo administruojamo banko turto, teisių ir sandorių vertė, tai banko turto, teisių, sandorių ir įsipareigojimų perdavimas vykdomas pagal Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 121 straipsnio nuostatas ar iš kitų šaltinių padengiant verčių skirtumo sumą. Jeigu po audito įmonės ir (ar) turtą vertinančios įmonės pagal šio straipsnio 6 dalį atlikto vertinimo paaiškėja, kad administruojamo banko perduodamų įsipareigojimų vertė yra mažesnė negu kartu perduodamo administruojamo banko turto, teisių ir sandorių vertė, bankas, kuriam perduodami administruojamo banko turtas, teisės, sandoriai ir įsipareigojimai, sumoka administruojamam bankui verčių skirtumo piniginę kompensaciją.
-
-8. Vykdant administruojamo banko turto, teisių, sandorių ir įsipareigojimų perdavimą kitam bankui:
-
-1) gali būti perduodamas iš karto visas numatytas perduoti turtas, teisės, sandoriai ir įsipareigojimai arba perdavimas gali būti vykdomas dalimis;
-
-2) jau perduotas turtas, teisės, sandoriai ir įsipareigojimai turto, teisių, sandorių ir įsipareigojimų perdavimo dokumentuose numatytomis sąlygomis ir terminais gali būti grąžinami, esant reikalui atitinkamai tikslinant pagal šio straipsnio 7 dalį sumokėtą verčių skirtumo padengimo sumą, administruojamam bankui, jeigu tokia galimybė aiškiai numatyta tokiuose dokumentuose arba paaiškėja aplinkybės, kad yra perduotas turtas, teisės, sandoriai ir įsipareigojimai, kurių nebuvo numatyta perduoti;
-
-3) tuo atveju, jeigu yra perduodamas turtas, teisės, sandoriai ir įsipareigojimai, kuriems taikoma užsienio teisė, ir toks perdavimas nėra pripažįstamas pagal užsienio jurisdikciją, administruojamas bankas privalo perduoti tokį turtą, teises, sandorius ir įsipareigojimus patikėjimo teise bankui, kuris perima turtą, teises, sandorius ir įsipareigojimus. Administruojamas bankas ir turtą, teises, sandorius ir įsipareigojimus perimantis bankas turi imtis visų veiksmų, siekiant teisiškai įgyvendinti tokį turto, teisių, sandorių ir įsipareigojimų perdavimą.
-
-9. Vykdant administruojamo banko turto, teisių, sandorių ir įsipareigojimų perdavimą:
-
-1) netaikomos Lietuvos Respublikos civilinio kodekso, kitų įstatymų ir teisės aktų ar banko sudarytų sandorių nuostatos, numatančios reikalavimus iš anksto kreditoriams, skolininkams ar kitiems asmenims pranešti apie tokius veiksmus, kurie atliekami vykdant turto, teisių, sandorių ir įsipareigojimų perdavimą, numatančios reikalavimus tokiems veiksmams atlikti gauti kitų asmenų leidimus ar sutikimus, įskaitant kreditoriaus sutikimą perkelti skolą kitam asmeniui, arba kitaip ribojančios turto, teisių, sandorių ir įsipareigojimų perdavimo vykdymą;
-
-2) turto, teisių, sandorių ir įsipareigojimų perdavimas nelaikomas sandorio pažeidimu ir (arba) teisėta priežastimi kreditoriams, skolininkams ar kitiems asmenims nutraukti sandorį, sudarytą su administruojamu banku. Tuo atveju, jeigu kreditoriai, skolininkai ar kiti asmenys, nesilaikydami šios nuostatos, nutraukia sandorį, toks sandoris gali būti grąžinamas atgal į administruojamą banką.
-
-10. Apie turto, teisių, sandorių ir įsipareigojimų perdavimą laikinasis administratorius nedelsdamas paskelbia administruojamo banko interneto svetainėje ir ne vėliau kai per 5 darbo dienas nuo turto, teisių, sandorių ir įsipareigojimų perdavimo – bent dviejuose iš nacionalinių Lietuvos Respublikos laikraščių.
-
-11. Įvykdžius turto, teisių, sandorių ir įsipareigojimų perdavimą, priežiūros institucija, tuo atveju, jeigu yra duomenų, kad administruojamas bankas yra nemokus, kreipiasi į teismą dėl bankroto bylos administruojamam bankui iškėlimo. Laikinojo administratoriaus įgaliojimai baigiasi, kai teismas priima nutartį dėl bankroto bylos iškėlimo administruojamam bankui ir paskiria administratorių. Teismas banko administratoriumi turi teisę skirti ir laikinąjį administratorių. Kai teismas banko administratoriumi skiria banko laikinąjį administratorių, netaikomi Lietuvos Respublikos įmonių bankroto įstatymo nustatyti reikalavimai dėl būtinumo Lietuvos Respublikos įmonių bankroto įstatymo ir su jo įgyvendinimu susijusių teisės aktų nustatyta tvarka būti įgijus teisę teikti įmonių bankroto administravimo paslaugas.
-
-12. Vykdant administruojamo banko turto, teisių, sandorių ir įsipareigojimų perdavimą ir jam pasibaigus, administruojamas bankas, net ir tuo atveju, jeigu jam iškeliama bankroto byla, privalo bendradarbiauti su jo turtą, teises, sandorius ir įsipareigojimus perėmusiu banku ir jam laikinai ir už įprastas rinkos sąlygas atitinkantį atlyginimą leisti naudotis savo informacinėmis, apskaitos sistemomis, dokumentais, teikti informaciją ir paslaugas, kurios turtą, teises, sandorius ir įsipareigojimus perėmusiam bankui reikalingos tinkamai teikti su perimtu turtu, teisėmis, sandoriais ir įsipareigojimais susijusias finansines paslaugas.
-
-13. Šio straipsnio 12 dalyje nustatyta pareiga bendradarbiauti ir teikti paslaugas administruojamo banko turtą, teises, sandorius ir įsipareigojimus perėmusiam bankui taip pat taikoma asmenims, kurie veiklos apribojimo (moratoriumo) paskelbimo metu teikia paslaugas administruojamam bankui.
-
-14. Teismuose nagrinėjant ieškinius ar skundus (prašymus) dėl Lietuvos banko, laikinojo administratoriaus, kitų subjektų veiksmų (aktų), susijusių su banko turto, teisių, sandorių ir įsipareigojimų perdavimo (grąžinimo) organizavimu ir vykdymu, mutatis mutandis taikomos Lietuvos Respublikos finansinio tvarumo įstatymo 131 straipsnio nuostatos.
-
-15. Bankas, perėmęs administruojamo banko turtą, teises, sandorius ir įsipareigojimus, neatsako administruojamo banko kreditoriams, kurių reikalavimai jam nebuvo perduoti.
-
-Įstatymas papildytas straipsniu:
-
-Nr. XI-1714, 2011-11-17, Žin., 2011, Nr. 139-6554 (2011-11-18)
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 651 straipsnis. Pranešimas apie pažeidimus
 
@@ -2810,4 +2836,82 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 Papildyta straipsniu:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
+
+361 straipsnis. Informavimo apie šaukiamą neeilinį visuotinį akcininkų susirinkimą ypatumai
+
+1. Banko visuotinis akcininkų susirinkimas ne mažesne kaip 2/3 visų susirinkime dalyvaujančių akcininkų akcijų suteikiamų balsų dauguma gali nuspręsti, kad, jeigu pagal šio Įstatymo 751 straipsnį bankui yra paskiriamas laikinasis administratorius arba, priežiūros institucijos vertinimu, yra tenkinamos šio Įstatymo 67 straipsnio 3 dalyje nurodytos sąlygos ir būtina padidinti įstatinį kapitalą, siekiant išvengti Finansinio tvarumo įstatymo 42 straipsnyje nustatytų pertvarkymo sąlygų, apie šaukiamą neeilinį visuotinį akcininkų susirinkimą dėl įstatinio kapitalo didinimo gali būti pranešama per trumpesnį laikotarpį, negu nustatyta Akcinių bendrovių įstatymo 26 straipsnio 4, 5 ir 6 dalyse ar 261 straipsnio 3, 4 ir 5 dalyse, arba priimti sprendimą dėl įstatų keitimo, kuris numatytų tokio trumpesnio pranešimo laikotarpio galimybę. Tačiau bet kokiu atveju pranešimas apie šaukiamą neeilinį visuotinį akcininkų susirinkimą turi būti paskelbtas likus ne mažiau kaip 10 dienų iki susirinkimo.
+
+2. Šio straipsnio 1 dalyje nurodytu atveju sutrumpintais terminais šaukiant visuotinį akcininkų susirinkimą netaikomos: Akcinių bendrovių įstatymo 21 straipsnio 1 dalies nuostatos dėl visuotinio akcininkų susirinkimo apskaitos dienos; Akcinių bendrovių įstatymo 25 straipsnio 3 dalyje nustatytas terminas pateikti siūlymams papildyti visuotinio akcininkų susirinkimo darbotvarkę ir 25 straipsnio 5 dalyje nustatyta pareiga ne vėliau kaip likus 10 dienų iki visuotinio akcininkų susirinkimo pranešti akcininkams apie visuotinio akcininkų susirinkimo darbotvarkės papildymus; Akcinių bendrovių įstatymo 26 straipsnio 7 dalyje nustatytas reikalavimas gauti visų akcininkų rašytinį sutikimą, norint sušaukti visuotinį akcininkų susirinkimą nesilaikant Akcinių bendrovių įstatymo 26 straipsnio 4, 5 ir 6 dalyse nustatytų terminų.
+
+Papildyta straipsniu:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
+
+ŠEŠTASIS SKIRSNIS
+
+BANKO KAPITALAS IR PELNO PASKIRSTYMAS
+
+751 straipsnis. Laikinasis administratorius
+
+1. Priežiūros institucija turi teisę bankui ar licenciją turinčiam užsienio banko filialui paskirti vieną ar daugiau laikinųjų administratorių. Laikinuoju administratoriumi gali būti paskirtas juridinis asmuo, kita organizacija ar jų padalinys arba fizinis asmuo, kuris nėra priežiūros institucijos darbuotojas.
+
+2. Laikinuoju administratoriumi skiriamam fiziniam asmeniui ar juridinio asmens, kitos organizacijos ar jų padalinio vadovui mutatis mutandis taikomi šio Įstatymo 34 straipsnyje nustatyti nepriekaištingos reputacijos ir kvalifikacijos bei patirties reikalavimai, jo neturi saistyti interesų konfliktas su banku ir priežiūros institucija.
+
+3. Laikinojo administratoriaus veiklos sąlygos, funkcijos ir jų apribojimai nustatomi laikinojo administravimo paslaugų sutartyje, sudarytoje tarp priežiūros institucijos ir laikinojo administratoriaus. Tokia sutartis turi nustatyti priežiūros institucijos įsipareigojimus, susijusius su laikinojo administratoriaus veiksmais tretiesiems asmenims padarytos žalos atlyginimu, kiek tai neprieštarauja Civilinio kodekso normoms. Atlyginimas ir kitos išlaidos (įskaitant išlaidas paslaugų teikėjams) laikinajam administratoriui ir jo padėjėjams, atsižvelgiant į laikinojo administratoriaus veiklos mastą, kvalifikaciją ir veiklos terminus, nustatomi laikinojo administravimo sutartyje. Atlyginimas ir išlaidos (įskaitant išlaidas paslaugų teikėjams) išmokami iš banko lėšų prieš bet kokius kitus banko mokėjimus. Tuo atveju, jeigu administruojamam bankui iškeliama bankroto byla, mokėjimai laikinajam administratoriui taip pat išmokami prieš bet kokius kitus banko mokėjimus. Jeigu bankas laikinajam administratoriui nesumoka laiku, laikinajam administratoriui privalo sumokėti priežiūros institucija, kuri turi teisę reikalauti sumokėtų sumų iš banko.
+
+4. Laikinasis administratorius neatsako už žalą, atsiradusią dėl veiksmų, atliktų vadovaujantis priežiūros institucijos duotais nurodymais, tokiu atveju už padarytą žalą, kai yra įstatymuose nustatytos sąlygos, atsako priežiūros institucija.
+
+5. Laikinasis administratorius savo nuožiūra turi teisę pasitelkti paslaugų teikėjų (įskaitant teisės, apskaitos, audito, valdymo konsultantus), reikalingų tam, kad būtų galima tinkamai atlikti savo funkcijas.
+
+6. Priežiūros institucija, priimdama sprendimą skirti laikinąjį administratorių, gali nustatyti, kad:
+
+1) laikinai sustabdomi banko stebėtojų tarybos, banko valdybos ir administracijos vadovų įgaliojimai ir juos laikinai perima paskirtas laikinasis administratorius. Tokiu atveju banko stebėtojų tarybos, banko valdybos ir administracijos vadovų sprendimai, priimti po sprendimo paskirti laikinąjį administratorių įsigaliojimo dienos, yra negaliojantys ir nevykdytini arba
+
+2) banko stebėtojų tarybos, banko valdybos ir administracijos vadovų įgaliojimai nėra sustabdomi, o paskirtas laikinasis administratorius laikinai veikia kartu su šiais banko organais.
+
+7. Priežiūros institucija sprendime dėl laikinojo administratoriaus paskyrimo turi nustatyti laikinojo administratoriaus paskyrimo terminą, įgaliojimus, funkcijas ir veiksmus, kuriuos laikinasis administratorius gali atlikti tik priežiūros institucijai iš anksto pritarus.
+
+8. Jeigu laikinasis administratorius skiriamas pagal šio straipsnio 6 dalies 1 punktą, jam gali būti suteikiami kai kurie arba visi Akcinių bendrovių įstatyme, kituose teisės aktuose ir banko įstatuose nustatyti banko stebėtojų tarybos, banko valdybos ir administracijos vadovų įgaliojimai. Laikinajam administratoriui gali būti pavedama išsiaiškinti ir įvertinti banko finansinę būklę, vadovauti banko veiklai (arba jos daliai) siekiant išsaugoti arba atkurti banko finansinę būklę ir užtikrinant patikimą ir riziką ribojantį banko veiklos valdymą ir (arba) vykdyti kitas funkcijas.
+
+9. Jeigu laikinasis administratorius skiriamas pagal šio straipsnio 6 dalies 2 punktą, priežiūros institucija sprendime dėl laikinojo administratoriaus paskyrimo turi nurodyti, kokiems sprendimams priimti ir kokių veiksmų imantis banko stebėtojų taryba, banko valdyba ir administracijos vadovai turi gauti laikinojo administratoriaus pritarimą.
+
+10. Laikinasis administratorius skiriamas ne ilgesniam negu vienų metų laikotarpiui. Išimtiniais atvejais laikinojo administratoriaus paskyrimo terminas motyvuotu priežiūros institucijos sprendimu gali būti pratęstas. Priežiūros institucijos sprendimas dėl laikinojo administratoriaus paskyrimo termino pratęsimo pateikiamas banko akcininkams.
+
+11. Priežiūros institucija, atsižvelgdama į šio straipsnio nuostatas, bet kuriuo metu gali pakeisti sprendimo dėl laikinojo administratoriaus paskyrimo nuostatas, taip pat bet kuriuo metu ir dėl bet kokios priežasties gali atšaukti laikinąjį administratorių. Laikinasis administratorius turi teisę atsistatydinti priežiūros institucijos ir laikinojo administratoriaus sudarytoje sutartyje nustatyta tvarka. Jeigu laikinasis administratorius atsistatydina, priežiūros institucija nedelsdama priima sprendimą dėl naujo laikinojo administratoriaus paskyrimo.
+
+12. Apie pagal šio straipsnio 6 dalies 1 punktą priimtą sprendimą paskirti laikinąjį administratorių arba jį atšaukti ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos priežiūros institucija raštu praneša bankui, juridinių asmenų registro tvarkytojui ir paskelbia priežiūros institucijos interneto svetainėje.
+
+13. Laikinasis administratorius gali sušaukti banko visuotinį akcininkų susirinkimą ir nustatyti tokio susirinkimo darbotvarkę tik gavęs išankstinį priežiūros institucijos pritarimą.
+
+14. Laikinojo administratoriaus paskyrimas neriboja teisės aktuose nustatytų banko akcininkų teisių.
+
+15. Priežiūros institucija gali reikalauti, kad laikinasis administratorius priežiūros institucijos nustatytais terminais jai teiktų informaciją apie banko finansinę būklę ir per laikinojo administratoriaus paskyrimo terminą atliktus veiksmus.
+
+16. Laikinasis administratorius privalo savo funkcijas atlikti apdairiai ir sąžiningai. Laikinasis administratorius negali jam suteiktų teisių panaudoti savo asmeniniams ar trečiųjų asmenų poreikiams tenkinti. Laikinojo administratoriaus ir banko, kurį administruoti jis paskirtas, nesieja pasitikėjimo santykiai, jis neturi pareigos veikti banko ir jo akcininkų interesais.
+
+Papildyta straipsniu:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
+
+752 straipsnis. Privalomų nurodymų davimas ir laikinojo administratoriaus skyrimas finansinei grupei priklausančiam bankui
+
+1. Priežiūros institucija, jeigu ji yra atsakinga už finansinės grupės jungtinę (konsoliduotą) priežiūrą, prieš taikydama bankui, kuris yra Europos Sąjungos patronuojančioji įmonė, šio Įstatymo 67 straipsnio 3 dalyje arba 72 straipsnio 1 dalies 8 punkte nustatytas priemones, praneša apie tai Europos bankininkystės institucijai ir konsultuojasi su kitomis Europos Sąjungos valstybių narių priežiūros institucijomis priežiūros institucijų kolegijoje. Po pranešimo ir konsultacijų sprendimas dėl tokių priemonių taikymo priimamas atsižvelgus į tų priemonių poveikį grupės subjektams kitose Europos Sąjungos valstybėse narėse. Apie priimtą sprendimą priežiūros institucija praneša kitoms atitinkamoje priežiūros institucijų kolegijoje dalyvaujančioms kitų Europos Sąjungos valstybių narių priežiūros institucijoms ir Europos bankininkystės institucijai.
+
+2. Priežiūros institucija prieš taikydama bankui, kuris yra Europos Sąjungos patronuojančiosios įmonės patronuojamoji įmonė, šio Įstatymo 67 straipsnio 3 dalyje arba 72 straipsnio 1 dalies 8 punkte nustatytas priemones, praneša apie tai Europos bankininkystės institucijai ir konsultuojasi su už finansinės grupės jungtinę (konsoliduotą) priežiūrą atsakinga priežiūros institucija. Jeigu už finansinės grupės jungtinę (konsoliduotą) priežiūrą atsakinga priežiūros institucija per 3 dienas nuo priežiūros institucijos kreipimosi dienos pateikia priežiūros institucijai savo vertinimą, priežiūros institucija, deramai atsižvelgusi į tokį vertinimą, priima sprendimą. Apie priimtą sprendimą priežiūros institucija praneša už finansinės grupės jungtinę (konsoliduotą) priežiūrą atsakingai priežiūros institucijai, atitinkamoje priežiūros institucijų kolegijoje dalyvaujančioms kitų Europos Sąjungos valstybių narių priežiūros institucijoms ir Europos bankininkystės institucijai.
+
+3. Jeigu priežiūros institucija yra atsakinga už finansinės grupės jungtinę (konsoliduotą) priežiūrą ir iš kitos Europos Sąjungos valstybės narės priežiūros institucijos gauna pranešimą apie ketinimą finansinei grupei priklausančiam subjektui paskirti laikinąjį administratorių ar taikyti šio Įstatymo 67 straipsnio 3 dalyje nustatytoms priemonėms analogiškas tos valstybės teisės aktuose numatytas priemones, ji turi teisę įvertinti tikėtiną tokių priemonių taikymo poveikį tokiam subjektui, finansinei grupei ar grupės subjektams Lietuvoje ir kitose Europos Sąjungos valstybėse narėse ir per 3 dienas tokio įvertinimo rezultatus pateikti pranešimą pateikusiai kitos Europos Sąjungos valstybės narės priežiūros institucijai.
+
+4. Kai priežiūros institucija bankui, kuris yra Europos Sąjungos patronuojančioji įmonė arba Europos Sąjungos patronuojančiosios įmonės patronuojamoji įmonė, ketina taikyti šio Įstatymo 67 straipsnio 3 dalyje arba 72 straipsnio 1 dalies 8 punkte nustatytas priemones ir nors viena kita Europos Sąjungos valstybės narės priežiūros institucija ketina paskirti laikinąjį administratorių ar taikyti šio Įstatymo 67 straipsnio 3 dalyje nustatytoms priemonėms analogiškas tos valstybės teisės aktuose numatytas priemones dar nors vienam tai pačiai grupei priklausančiam subjektui, priežiūros institucija su kitomis atitinkamomis Europos Sąjungos valstybės narės priežiūros institucijomis įvertina, ar nebūtų tikslingiau paskirti tą patį laikinąjį administratorių visiems atitinkamiems subjektams arba koordinuoti bet kurios iš šio Įstatymo 67 straipsnio 3 dalyje nustatytoms priemonėms analogiškos priemonės taikymą daugiau negu vienam finansinei grupei priklausančiam subjektui, kad būtų galima lengviau įgyvendinti sprendimus siekiant atkurti atitinkamo subjekto finansinę būklę. Vertinimo rezultatai įforminami priimant už grupės jungtinę (konsoliduotą) priežiūrą atsakingos priežiūros institucijos ir kitų atitinkamų priežiūros institucijų motyvuotą bendrą sprendimą. Jeigu per 5 dienas nuo šio straipsnio 1 ar 2 dalyse nurodyto pranešimo pateikimo ar gavimo dienos bendras sprendimas nepriimamas, priežiūros institucija turi teisę priimti individualų sprendimą dėl šio Įstatymo 67 straipsnio 3 dalyje arba 72 straipsnio 1 dalies 8 punkte nustatytų priemonių taikymo bankui. Priežiūros institucija gali kreiptis į Europos bankininkystės instituciją, kad ji padėtų priežiūros institucijoms susitarti pagal Reglamento (ES) Nr. 1093/2010 31 straipsnio nuostatas.
+
+5. Jeigu priežiūros institucijai pranešama apie kitos Europos Sąjungos valstybės narės priežiūros institucijos sprendimą taikyti šio Įstatymo 67 straipsnio 3 dalyje nustatytoms priemonėms analogiškas tos valstybės teisės aktuose numatytas priemones Europos Sąjungos patronuojančiajai įmonei arba Europos Sąjungos patronuojančiosios įmonės patronuojamajai įmonei ir priežiūros institucija nesutinka su tokiu sprendimu, arba, jeigu, kaip numatyta šio straipsnio 4 dalyje, nepriimamas bendras sprendimas, priežiūros institucija gali kreiptis į Europos bankininkystės instituciją, kad ji padėtų priežiūros institucijoms susitarti pagal Reglamento (ES) Nr. 1093/2010 19 straipsnio 3 dalies nuostatas. Tačiau toks kreipimasis galimas tik tada, jeigu ketinama taikyti vieną ar daugiau šio Įstatymo 67 straipsnio 3 dalies 1, 3 ar 5 punktuose nustatytoms priemonėms alternatyvias priemones, nustatytas atitinkamos Europos Sąjungos valstybės narės teisės aktuose.
+
+6. Jeigu priežiūros institucija pagal šio straipsnio 5 dalies nuostatas kreipiasi į Europos bankininkystės instituciją arba dėl priežiūros institucijos sprendimo taikyti atitinkamas šio Įstatymo 67 straipsnio 3 dalyje nustatytas priemones į Europos bankininkystės instituciją kreipiasi kitos Europos Sąjungos valstybės narės priežiūros institucija ir dar nėra pasibaigęs 3 dienų priežiūros institucijų konsultavimosi laikotarpis arba nėra priimtas bendras sprendimas ir nėra pasibaigęs 5 dienų laikotarpis jam priimti, priežiūros institucija nepriima savo sprendimo iki tol, kol sprendimo pagal Reglamento (ES) Nr. 1093/2010 19 straipsnio 3 dalį nepriima Europos bankininkystės institucija. Europos bankininkystės institucijai per 3 dienas priėmus sprendimą, priežiūros institucija privalo juo vadovautis.
+
+7. Jeigu baigėsi šio straipsnio 4 dalyje nustatytas 5 dienų terminas arba buvo priimtas bendras sprendimas, priežiūros institucija negali kreiptis į Europos bankininkystės instituciją dėl to, kad ji padėtų priežiūros institucijoms susitarti pagal Reglamento (ES) Nr. 1093/2010 19 straipsnio 3 dalies nuostatas.
+
+8. Šiame straipsnyje nurodyti priežiūros institucijos sprendimai turi būti motyvuoti. Juos priimant turi būti atsižvelgiama į pareikštas kitų Europos Sąjungos valstybių narių priežiūros institucijų nuomones ir išlygas, taip pat į galimą sprendimų poveikį kitų atitinkamų Europos Sąjungos valstybių narių finansiniam stabilumui. Jeigu priežiūros institucija yra atsakinga už grupės jungtinę (konsoliduotą) priežiūrą, ji dokumentą, kuriame išdėstytas bendras sprendimas dėl Europos Sąjungos patronuojančiosios įmonės, pateikia Europos Sąjungos patronuojančiajai įmonei. Taip pat priežiūros institucija Europos Sąjungos patronuojančiosios įmonės patronuojamajai įmonei, veikiančiai Lietuvos Respublikoje, pateikia dėl jos priimtą sprendimą.
+
+Papildyta straipsniu:
+
+Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
