@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2015-12-02"
+last_updated: "2015-12-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr. –––––
 
-Suvestinė redakcija nuo 2015-12-02 iki 2015-12-02
+Suvestinė redakcija nuo 2015-12-03 iki 2016-06-08
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
 
@@ -1393,7 +1393,11 @@ Nr. XI-1485, 2011-06-21, Žin., 2011, Nr. 85-4131 (2011-07-13)
 
 1. Teismas arba teisėjas proceso dalyvių motyvuotu prašymu arba savo iniciatyva gali imtis priemonių reikalavimui užtikrinti. Prašymas dėl reikalavimo užtikrinimo priemonių paduodamas raštu arba teisingumo ministro nustatyta tvarka elektronine forma elektroninių ryšių priemonėmis. Reikalavimas gali būti užtikrinamas bet kurioje proceso stadijoje, jeigu, nesiėmus užtikrinimo priemonių, teismo sprendimo įvykdymas gali pasunkėti arba pasidaryti negalimas.
 
-2. Teismas arba teisėjas proceso dalyvių motyvuotu prašymu ar savo iniciatyva  negali taikyti šio straipsnio 3 dalyje nustatytų reikalavimo užtikrinimo priemonių, jeigu tai numatyta kituose įstatymuose, reglamentuojančiuose poveikio priemonių arba finansinio stabilumo ir patikimumo stiprinimo priemonių taikymą kredito įstaigoms.
+2. Teismas arba teisėjas proceso dalyvių motyvuotu prašymu ar savo iniciatyva negali taikyti šio straipsnio 3 dalyje nustatytų reikalavimo užtikrinimo priemonių, jeigu tai numatyta kituose įstatymuose, reglamentuojančiuose poveikio priemonių arba finansinio stabilumo ir patikimumo stiprinimo priemonių taikymą finansų įstaigoms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2067, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19180
 
 3. Reikalavimo užtikrinimo priemonės gali būti:
 
@@ -1849,7 +1853,13 @@ IR SKUNDO (PRAŠYMO) PALIKIMAS NENAGRINĖTO
 
 7) kai teismas pripažįsta, kad būtina gauti bylai reikalingus įrodymus (dokumentus) iš užsienio valstybės;
 
-8) kai teismas kreipiasi į kompetentingą Europos Sąjungos teisminę instituciją prašydamas preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu.
+8) kai teismas kreipiasi į kompetentingą Europos Sąjungos teisminę instituciją prašydamas preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu;
+
+9) kai nagrinėjant bylą, kurioje bankui ar Centrinei kredito unijai pareikšti turtiniai reikalavimai, paaiškėja, kad bankui ar Centrinei kredito unijai yra paskelbtas veiklos apribojimas (moratoriumas).
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2067, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19180
 
 2. Lietuvos vyriausiasis administracinis teismas sustabdo bylą, kai kreipiasi į Europos žmogaus teisių teismą su prašymu pateikti konsultacinę išvadą dėl principinių klausimų, susijusių su Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu.
 
@@ -1882,6 +1892,12 @@ Byla sustabdoma:
 3) šio įstatymo 98 straipsnio 1 dalies 4, 5, 6 ir 7 punktuose numatytais atvejais – kol atitinkamai Konstitucinis Teismas ar administracinis teismas išnagrinės bylą ar kol bus atlikta ekspertizė arba gauti įrodymai iš užsienio valstybės.
 
 4) šio įstatymo 98 straipsnio 1 dalies 8 punkte numatytu atveju – kol bus gautas kompetentingos Europos Sąjungos teisminės institucijos preliminarus nutarimas;
+
+5) šio įstatymo 98 straipsnio 1 dalies 9 punkte numatytu atveju – iki banko ar Centrinės kredito unijos veiklos apribojimo (moratoriumo) taikymo pabaigos;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2067, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19180
 
 6) šio įstatymo 98 straipsnio 2 dalyje numatytu atveju – kol bus gauta Europos žmogaus teisių teismo konsultacinė išvada.
 
@@ -2969,9 +2985,9 @@ Nr. X-1174, 2007-06-07, Žin., 2007, Nr. 72-2830 (2007-06-30)
 
 Nr. XI-1143, 2010-11-18, Žin., 2010, Nr. 142-7258 (2010-12-04), administracinių teisės pažeidimų, pradėtų ir nebaigtų iki šio įstatymo įsigaliojimo, bylų teisena vyksta iki šio įstatymo įsigaliojimo galiojusia tvarka
 
-881 straipsnis. Sprendimai, kurie galėtų turėti įtakos kredito įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui
+881 straipsnis. Sprendimai, kurie galėtų turėti įtakos finansų įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui
 
-Kiti įstatymai gali numatyti atvejus, kuriais teismo sprendimai, kurie galėtų turėti įtakos kredito įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui, priimami tik dėl žalos priteisimo.
+Kiti įstatymai gali numatyti atvejus, kuriais teismo sprendimai, kurie galėtų turėti įtakos finansų įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui, priimami tik dėl žalos priteisimo.
 
 Įstatymas papildytas straipsniu:
 
@@ -2980,6 +2996,10 @@ Nr. XI-1709, 2011-11-17, Žin., 2011, Nr. 139-6549 (2011-11-18)
 Straipsnio pakeitimai:
 
 Nr. XII-1051, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10746
+
+Straipsnio pakeitimai:
+
+Nr. XII-2067, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19180
 
 451 straipsnis. Valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo valstybei tvarka
 
