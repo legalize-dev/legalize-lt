@@ -4,7 +4,7 @@ identifier: "TAR.DF274349E79B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-06-17"
-last_updated: "2008-07-05"
+last_updated: "2015-12-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DF274349E79B"
 department: "Lietuvos Respublikos Seimas"
@@ -20,6 +20,10 @@ eu_legal_act: "true"
 LIETUVOS RESPUBLIKOS ĮSTATYMAS DĖL DARBUOTOJŲ DALYVAVIMO BENDROVĖJE PO
 
 VIENOS VALSTYBĖS RIBAS PERŽENGIANČIO RIBOTOS
+
+Suvestinė redakcija nuo 2015-12-03 iki 2022-11-30
+
+Įstatymas paskelbtas: Žin. 2008, Nr. 76-3001, i. k. 1081010ISTA00X-1607
 
 LIETUVOS RESPUBLIKOS  ĮSTATYMAS  DĖL DARBUOTOJŲ DALYVAVIMO BENDROVĖJE PO VIENOS VALSTYBĖS RIBAS PERŽENGIANČIO RIBOTOS ATSAKOMYBĖS BENDROVIŲ JUNGIMOSI
 
@@ -80,6 +84,12 @@ BENDROSIOS NUOSTATOS
 5) darbuotojų atstovų veiklos tęstinumo garantijas bendrovėje, kuri veiks po jungimosi;
 
 6) pranešimo apie darbuotojų atstovus bendrovės, kuri veiks po jungimosi, administravimo ar priežiūros, ar kitame organe tvarką.
+
+3. Šio įstatymo nuostatos netaikomos Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje nurodytiems subjektams, kuriems taikomos Finansinio tvarumo įstatymo III skyriaus nuostatos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2064, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19177
 
 ANTRASIS SKIRSNIS
 
@@ -403,25 +413,35 @@ Asmenys, pažeidę šį įstatymą, atsako Lietuvos Respublikos įstatymų nusta
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS
 
-Lietuvos Respublikos įstatymo
+Lietuvos Respublikos
 
-„Dėl darbuotojų dalyvavimo bendrovėje po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi“
+įstatymo „Dėl darbuotojų dalyvavimo
+
+bendrovėje po vienos valstybės ribas
+
+peržengiančio ribotos atsakomybės
+
+bendrovių jungimosi“
 
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2005 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva 2005/56/EB dėl ribotos atsakomybės bendrovių jungimųsi, peržengiančių vienos valstybės ribas (OL 2005 L 310, p. 1).
+1. 2005 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva 2005/56/EB dėl ribotos atsakomybės bendrovių jungimųsi, peržengiančių vienos valstybės ribas (OL 2005 L 310, p. 1), su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190).
 
-2. Su šio straipsnio 1 dalyje nurodytais darbuotojais jų narystės specialiajame derybų komitete, taip pat bendrovės, kuri veikia po vienos valstybės ribas peržengiančio bendrovių pertvarkymo, jungimosi ar skaidymo, priežiūros ar narystės kitame organe laikotarpiu darbo sutartis negali būti nutraukta darbdavio iniciatyva be juos skyrusio darbuotojų atstovo sutikimo. Jeigu šie nariai buvo išrinkti visuotiniame darbuotojų susirinkime ar bendrojoje bendrovių ir (ar) padalinių darbuotojų delegatų konferencijoje (toliau – konferencija), sutikimą juos atleisti iš darbo turi teisę duoti Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus įgaliotas Valstybinės darbo inspekcijos teritorinio skyriaus vadovas. Atleidimo iš darbo atveju mutatis mutandis taikomas Darbo kodekso 168 straipsnis.
+Priedo pakeitimai:
 
-3. Specialiojo derybų komiteto nariams, į bendrovės, kuri veikia po vienos valstybės ribas peržengiančio bendrovių pertvarkymo, jungimosi ar skaidymo, priežiūros ar kitą organą išrinktiems, paskirtiems ar pasiūlytiems darbuotojų atstovams nuo jų skyrimo ar išrinkimo į pareigas dienos taikoma teisių apsauga ir garantijos pagal tos valstybės narės, kurioje yra juos įdarbinusios bendrovės buveinė ar kurioje veikia juos įdarbinęs padalinys, teisės aktus ir (ar) nusistovėjusią praktiką.
+Nr. XII-2064, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19177
 
-4. Darbuotojų atstovai tęsia veiklą dėl bendrovių pertvarkymo, jungimosi ar skaidymo veiklą baigusiose Lietuvos Respublikoje buveinę turinčiose susijusiose kontroliuojamosiose bendrovėse, Lietuvos Respublikoje veikiančiuose susijusiuose padaliniuose. Pareiga užtikrinti darbuotojų atstovų veiklos tęstinumą tenka bendrovės, kuri veiks po vienos valstybės ribas peržengiančio bendrovių pertvarkymo, jungimosi ar skaidymo, valdymo organui.
+Pakeitimai:
 
-III SKYRIUS
+1.
 
-DERYBŲ ORGANIZAVIMAS
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2064, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19177
+
+Lietuvos Respublikos įstatymo „Dėl darbuotojų dalyvavimo bendrovėje po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi“ Nr. X-1607 3 straipsnio ir priedo pakeitimo įstatymas
 
