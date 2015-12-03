@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2015-12-02"
+last_updated: "2015-12-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2015-12-02 iki 2015-12-02
+Suvestinė redakcija nuo 2015-12-03 iki 2015-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -585,11 +585,11 @@ TEISMO POSĖDŽIO PERTRAUKA, BYLOS NAGRINĖJIMO ATIDĖJIMAS IR BYLOS SUSTABDYMAS
 
 5) kai iki nutarties skirti nagrinėti bylą, kurioje atsakovui pareikšti turtiniai reikalavimai, teismo posėdyje priėmimo paaiškėja, kad jam iškelta bankroto byla;
 
-6) kai nagrinėjant bylą, kurioje komerciniam bankui pareikšti turtiniai reikalavimai, paaiškėja, kad Lietuvos bankas yra paskyręs komerciniam bankui laikinąjį administratorių;
-
-6 punkto redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos:
-
 6) kai nagrinėjant bylą, kurioje bankui ar Centrinei kredito unijai pareikšti turtiniai reikalavimai, paaiškėja, kad bankui ar Centrinei kredito unijai yra paskelbtas veiklos apribojimas (moratoriumas);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 
 7) kai teismas kreipiasi arba kiti teismai jau kreipėsi į Konstitucinį Teismą šio Kodekso 3 straipsnio 3 dalyje nustatyta tvarka ir pagrindais;
 
@@ -2831,7 +2831,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 2. Teismas gali taikyti kelias laikinąsias apsaugos priemones, tačiau bendra jų suma neturi būti iš esmės didesnė už ieškinio sumą. Laikinosios apsaugos priemonės parenkamos vadovaujantis ekonomiškumo principu.
 
-3. Teismas dalyvaujančių byloje ar kitų suinteresuotų asmenų prašymu ar savo iniciatyva negali taikyti šio straipsnio 1 dalies 6, 7, 12 ir 13 punktuose nustatytų laikinųjų apsaugos priemonių, jei tai yra numatyta kituose įstatymuose, reglamentuojančiuose poveikio priemonių arba finansinio stabilumo ir patikimumo stiprinimo priemonių taikymą kredito įstaigoms.
+3. Teismas dalyvaujančių byloje ar kitų suinteresuotų asmenų prašymu ar savo iniciatyva negali taikyti šio straipsnio 1 dalies 6, 7 ir 12 punktuose nustatytų ar kitų laikinųjų apsaugos priemonių, kurios ribotų finansų sektoriaus subjektų pertvarkymo veiksmus, atliekamus pagal Lietuvos Respublikos finansinio tvarumo įstatymo nustatytą tvarką, jei tai yra numatyta kituose įstatymuose, reglamentuojančiuose poveikio priemonių arba finansinio stabilumo ir patikimumo stiprinimo priemonių taikymą finansų įstaigoms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 
 4. Tam tikrų kategorijų civilinėse bylose įstatymais gali būti nustatytas konkrečių laikinųjų apsaugos priemonių taikymas.
 
@@ -3305,7 +3309,11 @@ VYKDYMO VEIKSMŲ SUSTABDYMAS IR ATIDĖJIMAS. VYKDOMŲJŲ DOKUMENTŲ GRĄŽINIMAS
 
 3) iškėlus skolininkui bankroto ar restruktūrizavimo bylą. Šiuo atveju vykdomasis dokumentas persiunčiamas bankroto ar restruktūrizavimo bylą iškėlusiam teismui;
 
-4) kai skolininkui komerciniam bankui Lietuvos bankas paskiria laikinąjį administratorių;
+4) skolininkui bankui ar Centrinei kredito unijai paskelbus veiklos apribojimą (moratoriumą);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 
 5) gavęs išieškotojo ir skolininko sudarytą taikos sutartį;
 
@@ -3433,9 +3441,9 @@ Straipsnio pakeitimai:
 
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
-2671 straipsnis. Sprendimai, kurie galėtų turėti įtakos kredito įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui
+2671 straipsnis. Sprendimai, kurie galėtų turėti įtakos finansų įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui
 
-Kiti įstatymai gali numatyti atvejus, kuriais teismo sprendimai, kurie galėtų turėti įtakos kredito įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui, priimami tik dėl žalos priteisimo.
+Kiti įstatymai gali numatyti atvejus, kuriais teismo sprendimai, kurie galėtų turėti įtakos finansų įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui, priimami tik dėl žalos priteisimo.
 
 Įstatymas papildytas straipsniu:
 
@@ -3444,6 +3452,10 @@ Nr. XI-1711, 2011-11-17, Žin., 2011, Nr. 139-6551 (2011-11-18)
 Straipsnio pakeitimai:
 
 Nr. XII-1050, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10745
+
+Straipsnio pakeitimai:
+
+Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 
 587 straipsnis. Vykdomieji dokumentai
 
@@ -5525,7 +5537,11 @@ Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
 
 3) šio Kodekso 163 straipsnio 4 punkte numatytais atvejais – iki bus išnagrinėta baudžiamoji byla arba bus panaikintas laikinasis nuosavybės teisių apribojimas;
 
-4) šio Kodekso 163 straipsnio 6 punkte numatytais atvejais – iki komercinio banko laikinojo administratoriaus įgaliojimų pabaigos;
+4) šio Kodekso 163 straipsnio 6 punkte numatytais atvejais – iki banko ar Centrinės kredito unijos veiklos apribojimo (moratoriumo) taikymo pabaigos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 
 5) šio Kodekso 164 straipsnio 3 punkte numatytais atvejais – iki šalis baigs tarnybą Lietuvos Respublikos krašto apsaugos dalinyje, kuriame paskelbta karinė padėtis;
 
