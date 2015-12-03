@@ -4,7 +4,7 @@ identifier: "TAR.E22116F1B0E0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-13"
-last_updated: "2015-01-01"
+last_updated: "2015-12-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-02
+Suvestinė redakcija nuo 2015-12-03 iki 2016-10-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
 
@@ -55,13 +55,27 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 Nr. XI-1489, 2011-06-21, Žin., 2011, Nr. 81-3966 (2011-07-05)
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis ir taikymo sritis
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
 
 1. Šis Įstatymas reglamentuoja įmonių, kurių teisinės formos yra akcinė bendrovė ir uždaroji akcinė bendrovė, steigimą, valdymą, veiklą, reorganizavimą, pertvarkymą, atskyrimą ir likvidavimą, akcininkų teises ir pareigas, taip pat užsienio bendrovių filialų steigimą bei jų veiklos nutraukimą. Kai šio Įstatymo normos taikomos ir akcinei bendrovei, ir uždarajai akcinei bendrovei, vartojamas žodis „bendrovė“.
 
 2. Įstatyme nenustatytus akcinių bendrovių, kurios pagal Vertybinių popierių įstatymą laikomos vertybinių popierių emitentais, reglamentavimo ypatumus nustato Vertybinių popierių įstatymas. Šio Įstatymo nuostatos dėl akcinių bendrovių, kurių akcijomis leista prekiauti reguliuojamoje rinkoje, taikomos akcinėms bendrovėms, kurių akcijomis leista prekiauti Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominei erdvei priklausančioje valstybėje veikiančioje reguliuojamoje rinkoje.
 
-3. Įstatymo nuostatos yra suderintos su šio Įstatymo priede pateiktais Europos Sąjungos teisės aktais.
+3. Šis Įstatymas finansų įstaigoms taikomas tiek, kiek kiti įstatymai, reglamentuojantys finansinių paslaugų teikimą ar finansų įstaigų veiklą arba finansų įstaigų ir finansų įstaigų sistemos stabilumą, nenustato kitaip.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
+
+4. Įstatymo nuostatos yra suderintos su šio Įstatymo priede pateiktais Europos Sąjungos teisės aktais.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
 
 Straipsnio pakeitimai:
 
@@ -2427,13 +2441,21 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1982 m. gruodžio 17 d. Šeštoji Tarybos direktyva 82/891/EEB, pagrįsta Sutarties 54 straipsnio 3 dalies g punktu dėl akcinių bendrovių skaidymo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 50).
+1. 1982 m. gruodžio 17 d. Šeštoji Tarybos direktyva 82/891/EEB, pagrįsta Sutarties 54 straipsnio 3 dalies g punktu dėl akcinių bendrovių skaidymo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 50) su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190).
+
+Punkto pakeitimai:
+
+Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
 
 2. 1989 m. gruodžio 21 d. Vienuoliktoji Tarybos direktyva 89/666/EEB dėl atskleidimo reikalavimų filialams, įsteigtiems valstybėse narėse tam tikrų tipų bendrovių, kurioms taikomi kitos valstybės narės įstatymai (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 100).
 
 3. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/63/EB, iš dalies keičianti Tarybos direktyvas 78/855/EEB ir 82/891/EEB dėl reikalavimo, kad jungiant arba skaidant akcines bendroves nepriklausomas ekspertas parengtų ataskaitą (OL 2007 L 300, p. 47).
 
-4. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos direktyva 2007/36/EB dėl naudojimosi tam tikromis akcininkų teisėmis bendrovėse, kurių akcijos įtrauktos į prekybą reguliuojamoje rinkoje (OL 2007 L 184, p. 17).
+4. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos direktyva 2007/36/EB dėl naudojimosi tam tikromis akcininkų teisėmis bendrovėse, kurių akcijos įtrauktos į prekybą reguliuojamoje rinkoje (OL 2007 L 184, p. 17), su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190).
+
+Punkto pakeitimai:
+
+Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
 
 5. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/101/EB dėl apsaugos priemonių, kurių valstybės narės reikalauja iš Sutarties 48 straipsnio antroje pastraipoje apibrėžtų bendrovių siekiant apsaugoti narių ir trečiųjų asmenų interesus, koordinavimo, siekiant suvienodinti tokias apsaugos priemones (OL 2009 L 258, p. 11).
 
@@ -2441,29 +2463,21 @@ priedas
 
 7. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/109/EB, iš dalies keičianti Tarybos direktyvų 77/91/EEB, 78/855/EEB ir 82/891/EEB bei Direktyvos 2005/56/EB nuostatas dėl ataskaitų bei dokumentų rengimo ir teikimo reikalavimų jungiant ir skaidant bendroves (OL 2009 L 259, p. 14).
 
-8. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/35/ES dėl akcinių bendrovių jungimo (OL 2011 L 110, p. 1).
+8. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/35/ES dėl akcinių bendrovių jungimo (OL 2011 L 110, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190).
 
-9. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/30/ES dėl apsaugos priemonių, kurių valstybės narės, siekdamos tokias priemones suvienodinti, reikalauja iš Sutarties dėl Europos Sąjungos veikimo 54 straipsnio antroje pastraipoje apibrėžtų bendrovių, jų narių ir kitų interesų apsaugai, akcines bendroves steigiant, palaikant ir keičiant jų kapitalą, koordinavimo (OL 2012 L 315, p. 74).
+Punkto pakeitimai:
 
-Papildymas 10 punktu įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių centrinių, komercinių ir bendrovių registrų sąveikos sistema:
+Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
+
+9. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/30/ES dėl apsaugos priemonių, kurių valstybės narės, siekdamos tokias priemones suvienodinti, reikalauja iš Sutarties dėl Europos Sąjungos veikimo 54 straipsnio antroje pastraipoje apibrėžtų bendrovių, jų narių ir kitų interesų apsaugai, akcines bendroves steigiant, palaikant ir keičiant jų kapitalą, koordinavimo (OL 2012 L 315, p. 74), su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190).
+
+Punkto pakeitimai:
+
+Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
 
 10. 2012 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva 2012/17/ES, kuria iš dalies keičiamos Tarybos direktyvos 89/666/EEB ir Europos Parlamento ir Tarybos direktyvų 2005/56/EB ir 2009/101/EB nuostatos dėl centrinių, komercinių ir bendrovių registrų sąveikos (OL 2012 L 156, p. 1).
 
-Priedo pakeitimai:
-
-Nr. X-750, 2006-07-11, Žin., 2006, Nr. 82-3252 (2006-07-27)
-
-Nr. X-1540, 2008-05-15, Žin., 2008, Nr. 63-2378 (2008-06-03)
-
-Nr. X-1805, 2008-11-11, Žin., 2008, Nr. 135-5241 (2008-11-25)
-
-Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
-
-Nr. XI-1489, 2011-06-21, Žin., 2011, Nr. 81-3966 (2011-07-05)
-
-Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
-
-Nr. XII-985, 2014-06-26, paskelbta TAR 2014-07-07, i. k. 2014-09904
+TAR pastaba. Papildymas 10 punktu įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių centrinių, komercinių ir bendrovių registrų sąveikos sistema.
 
 Priedo pakeitimai:
 
