@@ -4,7 +4,7 @@ identifier: "TAR.1B4D7B687895"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-01"
-last_updated: "2015-05-21"
+last_updated: "2015-12-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Neoficialus ?statymo tekstas
 
-Suvestinė redakcija nuo 2015-05-21 iki 2015-12-02
+Suvestinė redakcija nuo 2015-12-03 iki 2015-12-03
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
 
@@ -42,7 +42,11 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Lietuvos bankas
 
-1. Lietuvos Respublikoje centrinis bankas yra Lietuvos bankas, kuris nuosavybės teise priklauso Lietuvos valstybei. Lietuvos bankas yra sudedamoji Europos centrinių bankų sistemos dalis ir Europos centrinių bankų sistemos tikslų siekia bei uždavinius vykdo vadovaudamasis Europos centrinio banko gairėmis ir nurodymais. Lietuvos bankas savo funkcijas atlieka ir veiklą vykdo tiek, kiek tai neprieštarauja Europos centrinio banko ir Europos centrinių bankų sistemos tikslams ir Europos Sąjungos teisės aktams, tarp jų Europos centrinio banko teisės aktams. Lietuvos banko veiklos reglamentavimas suderintas su šio įstatymo priede nurodytais Europos Sąjungos teisės aktais.
+1. Lietuvos Respublikoje centrinis bankas yra Lietuvos bankas, kuris nuosavybės teise priklauso Lietuvos valstybei. Lietuvos bankas yra sudedamoji Europos centrinių bankų sistemos dalis ir Europos centrinių bankų sistemos tikslų siekia bei uždavinius vykdo vadovaudamasis Europos centrinio banko gairėmis ir nurodymais. Lietuvos bankas savo funkcijas atlieka ir veiklą vykdo tiek, kiek tai neprieštarauja Europos centrinio banko ir Europos centrinių bankų sistemos tikslams ir Europos Sąjungos teisės aktams, tarp jų Europos centrinio banko teisės aktams. Lietuvos banko veiklos reglamentavimas suderintas su šio įstatymo 3 priede nurodytais Europos Sąjungos teisės aktais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 
 2. Lietuvos valstybės nuosavybę Lietuvos banke išreiškia Lietuvos banko kapitalas. Lietuvos banko turtas jam priklauso nuosavybės teise. Lietuvos bankas savo turtą valdo, naudoja ir juo disponuoja pagal Europos Sąjungos teisės aktus ir šį įstatymą.
 
@@ -154,7 +158,13 @@ Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
 
 6) išleidžia monetas, laikydamasis Sutarties dėl Europos Sąjungos veikimo reikalavimų, ir vykdo kitą su tuo susijusią veiklą;
 
-7) vykdo politiką, kuria siekia prisidėti prie visos finansų sistemos stabilumo apsaugos, įskaitant finansų sistemos atsparumo stiprinimą ir sisteminės rizikos susidarymo mažinimą, kad būtų užtikrintas tvarus finansų sektoriaus įnašas į ekonomikos augimą (toliau – makroprudencinė politika).
+7) vykdo politiką, kuria siekia prisidėti prie visos finansų sistemos stabilumo apsaugos, įskaitant finansų sistemos atsparumo stiprinimą ir sisteminės rizikos susidarymo mažinimą, kad būtų užtikrintas tvarus finansų sektoriaus įnašas į ekonomikos augimą (toliau – makroprudencinė politika);
+
+8) vykdo Lietuvos Respublikos įstatymais finansų sektoriaus subjektų pertvarkymo institucijai priskirtas funkcijas, išskyrus atvejus, kai pagal 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010 (OL 2014 L 225, p. 1) (toliau – Reglamentas (ES) Nr. 806/2014) nuostatas šias funkcijas atlieka Bendra pertvarkymo valdyba, taip pat pagal Reglamentą (ES) Nr. 806/2014 atlieka nacionalinei pertvarkymo institucijai priskirtas funkcijas.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 
 3. Lietuvos bankas vykdo veiklą, reikalingą šio straipsnio 1 ir 2 dalyse numatytoms funkcijoms įgyvendinti ir tam reikalingai infrastruktūrai sukurti bei palaikyti.
 
@@ -242,7 +252,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
 
-14) kreipiasi į teismą dėl bankroto bylų iškėlimo prižiūrimiems finansų rinkos dalyviams;
+14) vadovaudamasi Finansinio tvarumo įstatymo nuostatomis priima sprendimus dėl finansų sektoriaus subjektų pertvarkymo, kreipiasi į teismą dėl bankroto bylų iškėlimo prižiūrimiems finansų rinkos dalyviams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 
 15) tvirtina Lietuvos banko biudžetą;
 
@@ -776,33 +790,19 @@ Straipsnio pakeitimai:
 
 Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
 
-44 straipsnis. Finansų rinkos priežiūros finansavimas
+44 straipsnis. Neteko galios nuo 2015-12-03
 
-1. Finansų rinkos priežiūra finansuojama iš prižiūrimų finansų rinkos dalyvių įmokų Lietuvos bankui ir kitomis Lietuvos banko lėšomis.
+Straipsnio naikinimas:
 
-2. Prižiūrimi finansų rinkos dalyviai, kurie privalo mokėti įmokas, jų mokamų įmokų bazė ir maksimalūs įmokų dydžiai nustatyti šio įstatymo 1 priede. Atitinkamų metų įmokų dydžius nustato Lietuvos bankas, pasikonsultavęs su prižiūrimais finansų rinkos dalyviais. Nustatant įmokų dydį, atsižvelgiama į Lietuvos banko atliekamas funkcijas ir patiriamas išlaidas, susijusias su prižiūrimais finansų rinkos dalyviais, taip pat į prižiūrimų finansų rinkos dalyvių veiklos mastą ir jų prisiimamą riziką. Detalią įmokų apskaičiavimo metodiką ir mokėjimo tvarką nustato Lietuvos banko priimti teisės aktai.
-
-3. Jeigu atitinkamais metais prižiūrimų finansų rinkos dalyvių sumokėtų įmokų suma viršija Lietuvos banko tiems metams planuotas išlaidas finansų rinkos priežiūrai atlikti, Lietuvos bankas proporcingai sumažina kitų metų planuojamas įmokas veikiantiems prižiūrimiems finansų rinkos dalyviams, o perviršį panaudoja kitų metų finansų rinkos priežiūrai finansuoti.
-
-4. Prižiūrimi finansų rinkos dalyviai privalo pervesti įmokas į Lietuvos banko sąskaitą kas ketvirtį ne vėliau kaip iki kito ketvirčio pirmojo mėnesio 30 dienos. Už praleistą terminą sumokėti įmokas prižiūrimi finansų rinkos dalyviai į Lietuvos banko sąskaitą privalo pervesti delspinigius: 0,05 procento nuo nesumokėtos sumos už kiekvieną dieną. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą uždelstą sumą.
-
-5. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu išieškomi ne ginčo tvarka (be asmens nurodymo nurašyti lėšas) iš prižiūrimo finansų rinkos dalyvio piniginių lėšų, esančių jo sąskaitose Lietuvos banke, kredito ar mokėjimo įstaigose. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu gali būti išieškomi taip pat iš kito prižiūrimo finansų rinkos dalyvio turto. Šiuo atveju sprendimą vykdo antstoliai Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
-
-6. Pagal Reglamentą (ES) Nr. 1024/2013 prižiūrimi finansų rinkos dalyviai taip pat moka įmokas už priežiūrą Europos centriniam bankui Reglamento (ES) Nr. 1024/2013 ir jo įgyvendinamųjų teisės aktų nustatyta tvarka.
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
-
-Straipsnio pakeitimai:
-
-Nr. XI-557, 2009-12-10, Žin., 2009, Nr. 153-6895 (2009-12-28)
-
-Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
+Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 
 45 straipsnis. Lietuvos banko ir Lietuvos banko tarnautojų neteisėtais veiksmais padarytos žalos atlyginimas ir kompensacija Lietuvos banko tarnautojams dėl išlaidų, susijusių su jiems iškeltomis bylomis ar pareikštais ieškiniais
 
-1. Žala, atsiradusi dėl Lietuvos banko ar Lietuvos banko tarnautojų neteisėtų veiksmų, susijusių su finansų rinkos priežiūros atlikimu, atlyginama tik tuo atveju, jeigu nukentėjęs asmuo įrodo, kad žala padaryta dėl Lietuvos banko ar Lietuvos banko tarnautojų kaltės.
+1. Žala, atsiradusi dėl Lietuvos banko ar Lietuvos banko tarnautojų neteisėtų veiksmų, susijusių su finansų rinkos priežiūros atlikimu, atlyginama tik tuo atveju, jeigu nukentėjęs asmuo įrodo, kad žala padaryta dėl Lietuvos banko ar Lietuvos banko tarnautojų tyčios ar didelio neatsargumo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 
 2. Lietuvos bankas Lietuvos banko tarnautojams ir jame dirbusiems tarnautojams išmoka kompensaciją, lygią jų išlaidoms, turėtoms dėl iškeltų baudžiamųjų ar administracinių teisės pažeidimų bylų ar kitų su tokiomis veikomis susijusių teisėsaugos institucijų veiksmų, arba dėl jiems pareikštų civilinių ieškinių už vykdant tarnybos pareigas, susijusias su finansų rinkos priežiūros atlikimu, padarytas veikas. Kompensacijos išmokėjimo tvarką nustato Lietuvos banko valdyba.
 
@@ -1136,7 +1136,7 @@ Lietuvos banko įstatymo
 
 1 priedas
 
-FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS, ĮMOKŲ BAZĖ IR MAKSIMALŪS ĮMOKŲ DYDŽIAI
+FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ RINKOS PRIEŽIŪROS IŠLAIDOMS PADENGTI, ĮMOKŲ BAZĖ IR MAKSIMALŪS ĮMOKŲ DYDŽIAI
 
 Eil. Nr.
 
@@ -1310,11 +1310,111 @@ Priedo pakeitimai:
 
 Nr. XII-1118, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13410
 
+Pakeistas priedo pavadinimas:
+
+Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
+
 Lietuvos Respublikos
 
 Lietuvos banko įstatymo
 
 2 priedas
+
+FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ SEKTORIAUS SUBJEKTŲ PERTVARKYMO INSTITUCIJOS IŠLAIDOMS PADENGTI, ĮMOKŲ BAZĖ IR MAKSIMALŪS ĮMOKŲ DYDŽIAI
+
+Eil. Nr.
+
+Rinkos dalyviai
+
+Įmokų bazė
+
+Maksimalus įmokų dydis
+
+1.
+
+Lietuvos Respublikoje licencijuoti bankai, Centrinė kredito unija, kitose negu Europos ekonominės erdvės valstybėse licencijuotų užsienio bankų filialai, įsteigti Lietuvos Respublikoje
+
+Vidutinis metinis turtas
+
+0,0043 proc.
+
+2.
+
+Europos ekonominės erdvės valstybėse licencijuotų užsienio bankų filialai, įsteigti Lietuvos Respublikoje
+
+Vidutinis metinis turtas
+
+0,0014 proc.
+
+3.
+
+Lietuvos Respublikoje licencijuotos finansų maklerio įmonės, kurioms taikomas Finansinių priemonių rinkų įstatymo 121 straipsnio 2 dalyje nustatytas reikalavimas
+
+Metinės pajamos
+
+0,075 proc.
+
+4.
+
+Kitose valstybėse licencijuotų finansų maklerio įmonių filialai, įsteigti Lietuvos Respublikoje
+
+Metinės pajamos
+
+0,038 proc.
+
+5.
+
+Lietuvos Respublikoje įsteigtos finansų įmonės (išskyrus finansų maklerio įmones), kurios yra šio priedo 1 ir 3 punktuose nurodytų subjektų patronuojamosios įmonės ir kurioms taikoma patronuojančiosios įmonės konsoliduota priežiūra pagal Reglamentą (ES) Nr. 806/2014:
+
+5.1.
+
+Elektroninių pinigų įstaigos
+
+Neapmokėtų elektroninių pinigų metinis vidurkis ir mokėjimo paslaugų metinė apyvarta
+
+0,0025 proc.
+
+5.2.
+
+Mokėjimo įstaigos
+
+Mokėjimo paslaugų metinė apyvarta
+
+0,0013 proc.
+
+5.3.
+
+Valdymo įmonės, investicinės kintamojo kapitalo bendrovės, uždaro tipo investicinės bendrovės ir šių subjektų filialai, įsteigti Lietuvos Respublikoje
+
+Valdomas kolektyvinio investavimo subjektų ir papildomo savanoriško pensijų kaupimo fondų turtas
+
+0,013 proc.
+
+5.4.
+
+Finansų patarėjo įmonės
+
+–
+
+109 Eur
+
+5.5.
+
+Valiutos keityklos operatoriai
+
+–
+
+109 Eur
+
+Papildyta priedu:
+
+Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
+
+Lietuvos Respublikos
+
+Lietuvos banko įstatymo
+
+3 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
@@ -1326,23 +1426,17 @@ Lietuvos banko įstatymo
 
 4. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3604/93, nustatantis apibrėžimus, susijusius su Sutarties 104a straipsnyje numatytos privilegijos naudotis finansų įstaigomis uždraudimo taikymu (OL 2004 m. specialusis leidimas, 10 skyrius, 1 tomas, p. 30).
 
-5. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1338/2001, nustatantis priemones, būtinas euro apsaugai nuo padirbinėjimo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 152), su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 44/2009 (OL 2009 L 17, p. 1).
+5. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1338/2001, nustatantis priemones, būtinas euro apsaugai nuo padirbinėjimo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 152), su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 44/2009 (OL 2009 L 17, p. 1).
 
 6. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1339/2001, išplečiantis Reglamento (EB) Nr. 1338/2001, nustatančio priemones, būtinas euro apsaugai nuo padirbinėjimo, veikimą toms valstybėms narėms, kurios nėra priėmusios euro kaip savo bendros valiutos (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 157).
 
-7. 2011 m. gruodžio 22 d. Europos sisteminės rizikos valdybos rekomendacija ESRV/2011/3 dėl nacionalinių institucijų įgaliojimų makrolygio rizikos ribojimo srityje (OL 2012 C 41, p. 1).
+7. 2002 m. birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito (OL 2004 m. specialusis leidimas, 10 skyrius, 3 tomas, p. 89).
 
-Papildyta punktu:
+8. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013 (OL 2013 L 146, p. 1).
 
-Nr. XII-1097, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12712
+9. 2011 m. gruodžio 22 d. Europos sisteminės rizikos valdybos rekomendacija ESRV/2011/3 dėl nacionalinių institucijų įgaliojimų makrolygio rizikos ribojimo srityje (OL 2012 C 41, p. 1).
 
-8. 2002 m. birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito (OL 2004 m. specialusis leidimas, 10 skyrius, 3 tomas, p. 89).
-
-9. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013 (OL 2013 L 146, p. 1).
-
-Papildyta punktu:
-
-Nr. XII-1473, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21134
+10. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų̨ ir investicinių įmonių̨ gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012 (OL 2014 L 173, p. 190).
 
 Įstatymas papildytas priedu:
 
@@ -1357,6 +1451,10 @@ Nr. XI-1667, 2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
 Nr. XII-1046, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10742
 
 Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
+
+Priedo pakeitimai:
+
+Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 
 Pakeitimai:
 
@@ -1655,4 +1753,32 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
 
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 11, 42, 43 ir 44 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
+
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 1, 8, 11, 45 straipsnių, 1 ir 2 priedų pakeitimo, 44 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 21-1 straipsniu ir nauju 2 priedu įstatymas
+
+211 straipsnis. Finansų rinkos priežiūros ir finansų sektoriaus subjektų pertvarkymo institucijos veiklos finansavimas
+
+1. Finansų rinkos priežiūra finansuojama iš finansų rinkos dalyvių įmokų ir kitomis Lietuvos banko lėšomis. Finansų sektoriaus subjektų pertvarkymo institucijos veikla finansuojama iš finansų rinkos dalyvių įmokų.
+
+2. Finansų rinkos dalyviai, privalantys mokėti įmokas finansų rinkos priežiūros išlaidoms padengti, jų mokamų įmokų bazė ir maksimalūs įmokų dydžiai nustatyti šio įstatymo 1 priede. Finansų rinkos dalyviai, privalantys mokėti įmokas finansų sektoriaus subjektų pertvarkymo institucijos išlaidoms padengti, jų mokamų įmokų bazė ir maksimalūs įmokų dydžiai nustatyti šio įstatymo 2 priede. Kiekvienų metų įmokų dydžius nustato Lietuvos bankas. Įmokų už finansų rinkos priežiūrą dydžius Lietuvos bankas nustato pasikonsultavęs su prižiūrimais finansų rinkos dalyviais. Nustatant įmokų dydį, atsižvelgiama į Lietuvos banko atliekamas funkcijas ir patiriamas išlaidas, susijusias su atitinkamais finansų rinkos dalyviais, taip pat į šių finansų rinkos dalyvių veiklos mastą, formą, o prižiūrimų finansų rinkos dalyvių atveju – ir jų prisiimamą riziką. Išsamią prižiūrimų finansų rinkos dalyvių įmokų apskaičiavimo metodiką ir mokėjimo tvarką bei įmokų pertvarkymo institucijos veiklai finansuoti mokėjimo tvarką nustato Lietuvos banko teisės aktai.
+
+3. Jeigu tam tikrais metais finansų rinkos dalyvių sumokėtų įmokų suma viršija Lietuvos banko tais metais patirtas išlaidas, susijusias su finansų rinkos priežiūra arba finansų sektoriaus subjektų pertvarkymo institucijos funkcijomis, Lietuvos bankas ta suma sumažina kitų metų planuojamas įmokas, o perviršį panaudoja atitinkamai kitų metų finansų rinkos priežiūrai arba finansų sektoriaus subjektų pertvarkymo institucijos veiklai finansuoti.
+
+4. Jeigu tam tikrais metais finansų rinkos dalyvių sumokėtų įmokų suma yra nepakankama Lietuvos banko išlaidoms, susijusioms su finansų sektoriaus subjektų pertvarkymo institucijos funkcijomis, padengti, Lietuvos bankas gali laikinai padengti trūkumą kitomis Lietuvos banko lėšomis, tačiau atitinkama suma turi padidinti vėlesnių metų planuojamas įmokas finansų sektoriaus subjektų pertvarkymo institucijos veiklai finansuoti (neviršydamas šio įstatymo 2 priede nustatytų maksimalių metinių įmokų dydžių), kad būtų kompensuotos panaudotos kitos Lietuvos banko lėšos.
+
+5. Šio įstatymo 1 ir 2 prieduose nurodyti finansų rinkos dalyviai įmokas už einamuosius metus privalo pervesti į Lietuvos banko nurodytas sąskaitas ne vėliau kaip iki tų metų gegužės 31 dienos. Už praleistą įmokų sumokėjimo terminą finansų rinkos dalyviai privalo mokėti delspinigius: 0,05 procento nuo nesumokėtos sumos už kiekvieną dieną. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą uždelstą sumą.
+
+TAR pastaba. 211 straipsnio 5 dalyje nustatyta įmokų surinkimo tvarka pradedama taikyti finansų rinkos dalyvių įmokoms už 2016 metus.
+
+6. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu išieškomi ne ginčo tvarka (be asmens nurodymo nurašyti lėšas) iš finansų rinkos dalyvio piniginių lėšų, esančių jo sąskaitose Lietuvos banke, kredito ar mokėjimo įstaigose. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu gali būti išieškomi ir iš finansų rinkos dalyvio kito turto. Tokiu atveju sprendimą vykdo antstoliai Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 
