@@ -4,7 +4,7 @@ identifier: "TAR.B6B636C7384A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-30"
-last_updated: "2015-12-03"
+last_updated: "2015-12-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2015-12-03 iki 2015-12-03
+Suvestinė redakcija nuo 2015-12-04 iki 2016-07-13
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
 
@@ -503,7 +503,11 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 2. Asmuo, nusprendęs perleisti banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį arba ją sumažinti tiek, kad turima banko įstatinio kapitalo ir (arba) balsavimo teisių dalis sudarytų mažiau kaip 20 procentų, 30 procentų ar 50 procentų, arba tiek, kad bankas nustotų būti jo kontroliuojamas, privalo apie tai raštu pranešti priežiūros institucijai ir nurodyti ketinamos perleisti ar sumažinti banko kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies dydį.
 
-3. Šiame straipsnyje ir šio Įstatymo 23 straipsnyje nurodytais tikslais nustatant kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, atsižvelgiama į Vertybinių popierių įstatymo 23 ir 24 straipsnių nuostatas. Be to, nustatant banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, neatsižvelgiama į balsavimo teises ar akcijas, kurias finansų maklerio įmonės ar kredito įstaigos gali turėti po teiktos finansinių priemonių pasirašymo ir (arba) platinimo įsipareigojant jas išplatinti paslaugos, jei šiomis teisėmis nesinaudojama ar jos kitaip nenaudojamos siekiant kištis į emitento valdymą ir jei jos perleidžiamos per vienus metus po įsigijimo.
+3. Šiame straipsnyje ir šio Įstatymo 23 straipsnyje nurodytais tikslais nustatant kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, atsižvelgiama į Vertybinių popierių įstatyme nustatytą pareigą pranešti apie akcijų paketo įsigijimą ar jo netekimą ir asmens turimų balsų skaičiavimo tvarką. Be to, nustatant banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, neatsižvelgiama į balsavimo teises ar akcijas, kurias finansų maklerio įmonės ar kredito įstaigos gali turėti po teiktos finansinių priemonių pasirašymo ir (arba) platinimo įsipareigojant jas išplatinti paslaugos, jei šiomis teisėmis nesinaudojama ar jos kitaip nenaudojamos siekiant kištis į emitento valdymą ir jei jos perleidžiamos per vienus metus po įsigijimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2077, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19285
 
 4. Jei banko kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis įsigyta ar padidinta apie tai nepranešus priežiūros institucijai pagal šio straipsnio 1 dalį arba nepasibaigus šio Įstatymo 25 straipsnio 4 dalyje nustatytam terminui (išskyrus atvejį, kai nepasibaigus šio Įstatymo 25 straipsnio 4 dalyje nustatytam terminui gautas priežiūros institucijos sprendimas neprieštarauti siūlomam įsigijimui), arba esant priežiūros institucijos prieštaravimui siūlomam įsigijimui, taip pat priežiūros institucijai pritaikius šio Įstatymo 72 straipsnio 1 dalies 7 punkte nustatytą poveikio priemonę, visa įsigyjančio asmens turima banko įstatinio kapitalo ir (arba) balsavimo teisių dalis banko visuotiniame akcininkų susirinkime praranda balsavimo teisę. Balsavimo teisė vėl įgyjama tą dieną, kurią yra gaunamas priežiūros institucijos sprendimas neprieštarauti siūlomam įsigijimui arba jei priežiūros institucija nepareiškia prieštaravimo siūlomam įsigijimui, arba kai šio Įstatymo 72 straipsnio 1 dalies 7 punkte nustatyta poveikio priemonė nustoja galioti šio Įstatymo 72 straipsnio 11 dalyje nustatyta tvarka.
 
@@ -2382,6 +2386,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 10, 61, 62, 67, 71, 72, 73, 75, 76, 77, 83, 84, 85, 87 straipsnių, priedo pakeitimo, Įstatymo papildymo 36-1, 75-1, 75-2 straipsniais, 76-1 straipsnio ir tryliktojo skirsnio pripažinimo netekusiais galios įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2077, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19285
+
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 24 straipsnio pakeitimo įstatymas
 
 1 straipsnis. Įstatymo paskirtis
 
