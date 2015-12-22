@@ -4,7 +4,7 @@ identifier: "TAR.94F5702CA0F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-09"
-last_updated: "2015-01-01"
+last_updated: "2015-12-22"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-21
+Suvestinė redakcija nuo 2015-12-22 iki 2017-07-12
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
 
@@ -789,7 +789,11 @@ ANTSTOLIŲ SAVIVALDA
 
 6) teisingumo ministro nustatyta tvarka tvarkyti antstolių, kurių įgaliojimai yra pasibaigę, archyvą;
 
-7) kitos šiame Įstatyme nustatytos funkcijos.
+7) kitos šiame ir kituose įstatymuose nustatytos funkcijos.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2168, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20138
 
 2. Lietuvos antstolių rūmai gali atlikti ir kitas Lietuvos antstolių rūmų įstatuose nustatytas funkcijas.
 
@@ -950,6 +954,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1245, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14873
 
 Lietuvos Respublikos antstolių įstatymo Nr. IX-876 17 straipsnio pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2168, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20138
+
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 46 straipsnio pakeitimo įstatymas
 
 431 straipsnis. Elektroninės vykdomosios bylos, informacinių ir elektroninių ryšių technologijų naudojimas antstolių veikloje
 
