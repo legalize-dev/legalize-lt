@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2015-07-02"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2015-07-02 iki 2015-12-29
+Suvestinė redakcija nuo 2015-12-30 iki 2016-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -777,6 +777,12 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 5. Pradedantiesiems vairuotojams išduodamas 2 metus galiojantis vairuotojo pažymėjimas, kurį jie vidaus reikalų ministro ar jo įgaliotos institucijos nustatyta tvarka turės teisę pakeisti į 10 metų galiojantį vairuotojo pažymėjimą nebaigę papildomo vairuotojų mokymo, jeigu per 2 metus nepažeidė KET reikalavimo (reikalavimų), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, arba nesukėlė eismo įvykio, dėl kurio buvo sutrikdyta eismo dalyvio sveikata. Pradedantysis vairuotojas, pažeidęs KET reikalavimą (reikalavimus), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, papildomą vairuotojų mokymą privalo baigti per vienus metus nuo pažeidimo padarymo datos.
 
 6. C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių vairuotojai privalo nustatyta tvarka baigti mokymus pradinei profesinei kvalifikacijai įgyti bei periodinius profesinius mokymus.
+
+7. Asmenims, iki 2004 m. balandžio 30 d. įgijusiems teisę vairuoti C, D kategorijų transporto priemones, suteikiama teisė Lietuvos Respublikos teritorijoje vairuoti B kategorijos transporto priemones.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2186, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20889
 
 7. Vairuodamas motorinę transporto priemonę, traktorių, savaeigę mašiną, vairuotojas privalo vykdyti vairuotojo pažymėjime nurodytas sąlygas (vairuoti tik su akiniais ar kontaktiniais lęšiais; tik transporto priemones su rankiniu valdymu, transporto priemones su automatine pavarų dėže ir pan.).
 
