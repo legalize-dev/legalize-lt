@@ -4,7 +4,7 @@ identifier: "TAR.2E8452AA51C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-09-19"
-last_updated: "2011-07-13"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E8452AA51C0"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešojo saugumo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2011-07-13 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 102-3935, i. k. 1061010ISTA000X-813
 
@@ -173,9 +173,13 @@ Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010IST
 
 1. Tarnybai vadovauja ir už jos veiklą atsako Tarnybos vadas.
 
-2. Vidaus reikalų ministras, suderinęs su Ministru Pirmininku, skiria Tarnybos vadą į pareigas penkerių metų kadencijai. Tarnybos vadas tiesiogiai pavaldus ir atskaitingas vidaus reikalų ministrui.
+2. Tarnybos vadą vidaus reikalų ministro teikimu penkeriems metams į pareigas skiria ir iš jų atleidžia Vyriausybė. Tarnybos vadas tiesiogiai pavaldus ir atskaitingas vidaus reikalų ministrui.
 
-3. Tarnybos vado pavaduotojus Tarnybos vado teikimu į pareigas skiria ir iš jų atleidžia vidaus reikalų ministras Vidaus tarnybos statuto nustatyta tvarka.
+3. Tarnybos vado pavaduotojus į pareigas skiria ir iš jų atleidžia vidaus reikalų ministras Vidaus tarnybos statuto nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1861, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10823
 
 IV SKYRIUS  TARNYBOS PAREIGŪNŲ TEISĖS IR PAREIGOS
 
@@ -428,6 +432,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
 
 Lietuvos Respublikos viešojo saugumo tarnybos įstatymo 2, 3, 6, 7, 8, 10, 11, 17, 18, 19, 20 straipsnių pakeitimo ir papildymo, VI skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1861, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10823
+
+Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 9 straipsnio pakeitimo įstatymas
 
 201 straipsnis. Tarnybos teritorija
 
