@@ -4,7 +4,7 @@ identifier: "TAR.46EF9E1D52E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-29"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
 
@@ -920,7 +920,7 @@ Darbdavio atstovas              __________________        �
 
 A. V.
 
-Diplomatas                        __________________              ________________________
+Diplomatas                        __________________              ________________________
 
 (parašas)                                                     (vardas ir pavardė)
 
@@ -1208,7 +1208,11 @@ personalas
 
 3. Lietuvos Respublikos specialiųjų atašė, tarp jų ir Lietuvos Respublikos gynybos atašė, skyrimą ir veiklą reglamentuoja Vyriausybės patvirtinti Lietuvos Respublikos specialiųjų atašė nuostatai.
 
-4. Specialieji patarėjai – valstybės tarnautojai, laikinai perkelti dirbti į Lietuvos Respublikos atstovybę prie tarptautinės organizacijos, padedantys įgyvendinti Lietuvos Respublikos užsienio politiką daugiašalių santykių srityje. Kiekvienos atskiros srities specialiųjų patarėjų skyrimo tvarką, jų darbo užsienyje ypatumus ir sąlygas nustato Vyriausybė.
+4. Specialieji patarėjai – valstybės tarnautojai, laikinai perkelti dirbti į Lietuvos Respublikos atstovybę prie tarptautinės organizacijos, padedantys įgyvendinti Lietuvos Respublikos užsienio politiką daugiašalių santykių srityje. Valstybės tarnautojai prireikus gali būti laikinai perkelti į specialaus patarėjo pareigas ir Lietuvos Respublikos diplomatinėje atstovybėje užsienio valstybėje padėti įgyvendinti Lietuvos Respublikos užsienio politiką gynybos srityje. Kiekvienos atskiros srities specialiųjų patarėjų skyrimo tvarką, jų darbo užsienyje ypatumus ir sąlygas nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2029, 2015-11-17, paskelbta TAR 2015-11-25, i. k. 2015-18706
 
 Straipsnio pakeitimai:
 
