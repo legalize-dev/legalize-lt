@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2015-12-03"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2015-12-03 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-02-29
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -227,7 +227,11 @@ Procesiniai terminai
 
 1. Bylose, kurias nagrinėja teismai, nuo žyminio mokesčio mokėjimo atleidžiami:
 
-1) darbuotojai ir vartotojai – bylose dėl visų reikalavimų, atsirandančių iš darbo ir vartojimo teisinių santykių;
+1) darbuotojai – bylose dėl visų reikalavimų, atsirandančių iš darbo teisinių santykių, ir vartotojai – bylose dėl vartojimo sutarčių nesąžiningų sąlygų taikymo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2084, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19289
 
 2) ieškovai – bylose dėl išlaikymo priteisimo;
 
@@ -577,7 +581,15 @@ TEISMO POSĖDŽIO PERTRAUKA, BYLOS NAGRINĖJIMO ATIDĖJIMAS IR BYLOS SUSTABDYMAS
 
 1) kai miršta fizinis asmuo arba pasibaigia juridinis asmuo, kuris buvo bylos šalis, jeigu atsižvelgiant į ginčo teisinius santykius yra leidžiamas teisių perėmimas;
 
+2) kai šalis netenka veiksnumo tam tikroje srityje;
+
+2 punkto redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos:
+
 2) kai šalis netenka veiksnumo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 3) kai negalima nagrinėti tos bylos tol, kol bus išspręsta kita byla, nagrinėjama civiline, baudžiamąja ar administracine tvarka;
 
@@ -1251,13 +1263,21 @@ Teismas nustato juridinę reikšmę turinčius faktus tik tada, kai pareiškėja
 
 488 straipsnis. Sutikimas įvaikinti
 
-1. Vaiko tėvai, o jeigu jie yra nepilnamečiai ar neveiksnūs, – jų tėvai arba globėjai (rūpintojai), vaiko globėjas (rūpintojas) rašytinį sutikimą įvaikinti, įformintą pareiškimu, paduoda apylinkės teismui pagal savo gyvenamąją vietą arba pagal vaiko, dėl kurio duodamas sutikimas, gyvenamąją vietą.
+1. Vaiko tėvai, o jeigu jie yra nepilnamečiai ar neveiksnūs šioje srityje, – jų tėvai arba globėjai (rūpintojai), vaiko globėjas (rūpintojas) rašytinį sutikimą įvaikinti, įformintą pareiškimu, paduoda apylinkės teismui pagal savo gyvenamąją vietą arba pagal vaiko, dėl kurio duodamas sutikimas, gyvenamąją vietą. Vaiko tėvai, kurių veiksnumas šioje srityje yra apribotas, sutikimą įvaikinti paduoda kartu su rūpintojo sutikimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 2. Pareiškime dėl sutikimo įvaikinti patvirtinimo turi būti nurodyta:
 
 1) duomenys apie sutikimą duodantį asmenį (vardas, pavardė, asmens kodas, gimimo data ir vieta, gyvenamoji vieta);
 
-2) duomenys apie vaiko tėvų amžių ar sveikatos būklę, jeigu jie yra nepilnamečiai ar neveiksnūs;
+2) duomenys apie vaiko tėvų amžių ar sveikatos būklę, jeigu jie yra nepilnamečiai ar neveiksnūs šioje srityje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 3) duomenys apie vaiką (vardas, pavardė, asmens kodas, gimimo data ir vieta, jo tėvai ar globėjai (rūpintojai), vaiko gyvenamoji ir buvimo vieta).
 
@@ -1305,45 +1325,65 @@ Pareiškime turi būti nurodyta:
 
 4) duomenys apie vaiko turtą.
 
-505 straipsnis. Teismo pareiga inicijuoti bylos dėl globos ar rūpybos nustatymo, globėjo ar rūpintojo paskyrimo neveiksniam ar ribotai veiksniam asmeniui nagrinėjimą
+505 straipsnis. Teismo pareiga inicijuoti bylos dėl globos ar rūpybos nustatymo, globėjo ar rūpintojo paskyrimo neveiksniam tam tikroje srityje ar ribotai veiksniam tam tikroje srityje asmeniui nagrinėjimą
 
-1. Teismas, priėmęs sprendimą pripažinti pilnametį asmenį neveiksniu ar ribotai veiksniu, privalo savo iniciatyva pradėti bylos dėl globos ar rūpybos šiam asmeniui nustatymo, globėjo ar rūpintojo paskyrimo nagrinėjimą.
+1. Teismas, priėmęs sprendimą pripažinti pilnametį asmenį neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, privalo savo iniciatyva pradėti bylos dėl globos ar rūpybos šiam asmeniui nustatymo, globėjo ar rūpintojo toje srityje paskyrimo nagrinėjimą.
 
-2. Teismas, priėmęs sprendimą pripažinti pilnametį asmenį neveiksniu ar ribotai veiksniu, jeigu šis asmuo yra gydymo, auklėjimo ar globos ir rūpybos institucijoje, privalo savo iniciatyva nustatyti šiam asmeniui globą ar rūpybą.
+2. Teismas, priėmęs sprendimą pripažinti pilnametį asmenį neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, jeigu šis asmuo yra gydymo, auklėjimo ar globos ir rūpybos institucijoje, privalo savo iniciatyva nustatyti šiam asmeniui globą ar rūpybą toje srityje.
 
-3. Teismas, priėmęs sprendimą pripažinti pilnametį asmenį neveiksniu ar ribotai veiksniu, jeigu šis asmuo nėra gydymo, auklėjimo ar globos ir rūpybos institucijoje, privalo savo iniciatyva nustatyti šiam asmeniui globą ar rūpybą ir paskirti globėją ar rūpintoją.
+3. Teismas, priėmęs sprendimą pripažinti pilnametį asmenį neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, jeigu šis asmuo nėra gydymo, auklėjimo ar globos ir rūpybos institucijoje, privalo savo iniciatyva nustatyti šiam asmeniui globą ar rūpybą ir paskirti globėją ar rūpintoją toje srityje.
 
-506 straipsnis. Pasirengimas nagrinėti bylą dėl globos ar rūpybos nustatymo,  globėjo ar rūpintojo paskyrimo neveiksniam ar ribotai veiksniam asmeniui
+Straipsnio pakeitimai:
 
-1. Teismas, priėmęs sprendimą pripažinti pilnametį asmenį neveiksniu ar ribotai veiksniu, tą pačią dieną nutartimi paveda globos ir rūpybos institucijai per dešimt dienų pateikti teismui duomenis, būtinus bylai išnagrinėti.
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
+
+506 straipsnis. Pasirengimas nagrinėti bylą dėl globos ar rūpybos nustatymo, globėjo ar rūpintojo paskyrimo neveiksniam tam tikroje srityje ar ribotai veiksniam tam tikroje srityje asmeniui
+
+1. Teismas, priėmęs sprendimą pripažinti pilnametį asmenį neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, tą pačią dieną nutartimi paveda globos ir rūpybos institucijai per dešimt dienų pateikti teismui duomenis, būtinus bylai išnagrinėti.
 
 2. Globos ir rūpybos institucija raštu pateikia teismui išvadą, kurioje nurodo:
 
 1) duomenis apie asmens, dėl kurio nagrinėjama byla, buvimo vietą ir globėjo ar rūpintojo paskyrimo reikalingumą;
 
-2) jeigu reikia skirti globėją ar rūpintoją, pateikiama globėjo ar rūpintojo kandidatūra; nurodomi duomenys apie jį (vardas, pavardė, asmens kodas, gimimo data ir vieta, darbovietė, šeiminė ir turtinė padėtis, sveikatos būklė, giminystės ryšys ir santykiai su pripažintu neveiksniu ar ribotai veiksniu asmeniu, moralinės ir kitokios savybės, jo galimybė įgyvendinti globėjo ar rūpintojo pareigas), taip pat kitos turinčios reikšmės aplinkybės; nurodoma neveiksniu ar ribotai veiksniu pripažinto asmens nuomonė dėl globėjo ar rūpintojo kandidatūros;
+2) jeigu reikia skirti globėją ar rūpintoją, pateikiama globėjo ar rūpintojo kandidatūra; nurodomi duomenys apie jį (vardas, pavardė, asmens kodas, gimimo data ir vieta, darbovietė, šeiminė ir turtinė padėtis, sveikatos būklė, giminystės ryšys ir santykiai su pripažintu neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje asmeniu, moralinės ir kitokios savybės, jo galimybė įgyvendinti globėjo ar rūpintojo pareigas), taip pat kitos turinčios reikšmės aplinkybės; nurodoma neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje pripažinto asmens nuomonė dėl globėjo ar rūpintojo kandidatūros;
 
 3) jeigu pateikiama globėjo ar rūpintojo kandidatūra, pridedamas rašytinis šio asmens sutikimas ir sveikatos būklės pažyma, išduota sveikatos apsaugos ministro nustatyta tvarka;
 
-4) kai neveiksnus ar ribotai veiksnus asmuo turi nekilnojamųjų ar kilnojamųjų daiktų, kuriems reikalinga nuolatinė priežiūra (įmonė, žemė, pastatas ir kt.), globos ir rūpybos institucijos rašte tai turi būti nurodoma bei rekomenduojama paskirti šio turto administratorių.
+4) kai neveiksnus tam tikroje srityje ar ribotai veiksnus tam tikroje srityje asmuo turi nekilnojamųjų ar kilnojamųjų daiktų, kuriems reikalinga nuolatinė priežiūra (įmonė, žemė, pastatas ir kt.), globos ir rūpybos institucijos rašte tai turi būti nurodoma bei rekomenduojama paskirti šio turto administratorių.
 
 3. Jeigu reikalinga skirti globėją ar rūpintoją, teismas išreikalauja duomenis apie asmens, rekomenduojamo paskirti globėju ar rūpintoju, teistumą ir administracinės teisės pažeidimus.
 
-4. Jeigu, nagrinėdamas bylą dėl globos ar rūpybos nustatymo, globėjo paskyrimo neveiksniu pripažintam asmeniui, teismas pripažįsta, kad būtina, kad šiam asmeniui atstovautų advokatas, o neveiksniu pripažintas asmuo advokato, teiksiančio jam teisinę pagalbą, neturi, teisėjas, kuriam paskirta parengti bylą nagrinėti, praneša valstybės garantuojamą teisinę pagalbą organizuojančiai institucijai apie tai, kad šiam asmeniui būtinas advokatas.
+4. Jeigu, nagrinėdamas bylą dėl globos ar rūpybos nustatymo, globėjo paskyrimo neveiksniu tam tikroje srityje pripažintam asmeniui, teismas pripažįsta, kad būtina, kad šiam asmeniui atstovautų advokatas, o neveiksniu tam tikroje srityje pripažintas asmuo advokato, teiksiančio jam teisinę pagalbą, neturi, teisėjas, kuriam paskirta parengti bylą nagrinėti, praneša valstybės garantuojamą teisinę pagalbą organizuojančiai institucijai apie tai, kad šiam asmeniui būtinas advokatas.
 
-5. Pasirengimas nagrinėti bylą turi būti baigtas iki teismo sprendimo, kuriuo asmuo pripažintas neveiksniu ar ribotai veiksniu, įsiteisėjimo.
+5. Pasirengimas nagrinėti bylą turi būti baigtas iki teismo sprendimo, kuriuo asmuo pripažintas neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, įsiteisėjimo.
 
 Straipsnio pakeitimai:
 
 Nr. XII-276, 2013-05-09, Žin., 2013, Nr. 54-2681 (2013-05-25)
 
-507 straipsnis. Bylos dėl globos ar rūpybos nustatymo, globėjo ar rūpintojo paskyrimo neveiksniam ar ribotai veiksniam asmeniui nagrinėjimas
+Straipsnio pakeitimai:
 
-1. Byla teismo posėdyje nagrinėjama nedelsiant po sprendimo, kuriuo asmuo pripažintas neveiksniu ar ribotai veiksniu, įsiteisėjimo.
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
+
+507 straipsnis. Bylos dėl globos ar rūpybos nustatymo, globėjo ar rūpintojo paskyrimo neveiksniam tam tikroje srityje ar ribotai veiksniam tam tikroje srityje asmeniui nagrinėjimas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
+
+1. Byla teismo posėdyje nagrinėjama nedelsiant po sprendimo, kuriuo asmuo pripažintas neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, įsiteisėjimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 2. Byla dėl globos ar rūpybos nustatymo nagrinėjama rašytinio proceso tvarka, išskyrus atvejus, kai teismas pripažįsta būtinu žodinį bylos nagrinėjimą.
 
-3. Byla dėl globos ar rūpybos nustatymo ir globėjo ar rūpintojo paskyrimo nagrinėjama žodinio proceso tvarka. Apie bylos nagrinėjimą pranešama globos ir rūpybos institucijai, asmeniui, pripažintam neveiksniu ar ribotai veiksniu, asmeniui, rekomenduojamam skirti globėju ar rūpintoju, kitiems suinteresuotiems bylos baigtimi asmenims. Byla nagrinėjama būtinai dalyvaujant globos ir rūpybos institucijos atstovui, kuris duoda išvadą teisme, ir asmeniui, kurį rekomenduojama skirti globėju ar rūpintoju. Neveiksniu ar ribotai veiksniu pripažintas asmuo turi teisę teismo posėdyje išdėstyti savo nuomonę dėl globėjo ar rūpintojo kandidatūros, jeigu tai galima atsižvelgiant į jo sveikatos būklę. Teismas gali pripažinti būtinu asmens, pripažinto neveiksniu ar ribotai veiksniu, dalyvavimą teismo posėdyje. Be to, teismas, atsižvelgdamas į bylos sudėtingumą, gali pripažinti, kad būtina, kad neveiksniu pripažintam asmeniui atstovautų advokatas.
+3. Byla dėl globos ar rūpybos nustatymo ir globėjo ar rūpintojo paskyrimo nagrinėjama žodinio proceso tvarka. Apie bylos nagrinėjimą pranešama globos ir rūpybos institucijai, asmeniui, pripažintam neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, asmeniui, rekomenduojamam skirti globėju ar rūpintoju toje srityje, kitiems suinteresuotiems bylos baigtimi asmenims. Byla nagrinėjama būtinai dalyvaujant asmeniui, pripažintam neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, globos ir rūpybos institucijos atstovui, kuris duoda išvadą teisme, ir asmeniui, kurį rekomenduojama skirti globėju ar rūpintoju. Neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje pripažintas asmuo turi teisę teismo posėdyje išdėstyti savo nuomonę dėl globėjo ar rūpintojo kandidatūros, jeigu tai galima atsižvelgiant į jo sveikatos būklę. Kai neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje pripažinto fizinio asmens dėl sveikatos būklės, patvirtintos asmens sveikatos priežiūros įstaigos išvada, negalima iškviesti ir apklausti teisme, byla gali būti nagrinėjama šiam asmeniui nedalyvaujant. Be to, teismas, atsižvelgdamas į bylos sudėtingumą, gali pripažinti, kad būtina, kad neveiksniu tam tikroje srityje pripažintam asmeniui atstovautų advokatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 4. Skiriant globėją ar rūpintoją, turi būti atsižvelgiama į jo moralines ir kitokias savybes, jo galimybę įgyvendinti globėjo ar rūpintojo funkcijas, jo santykius su asmeniu, kuriam reikalinga globa ar rūpyba, taip pat, jeigu galima, į globos ar rūpybos reikalingo asmens pageidavimą.
 
@@ -1547,7 +1587,11 @@ Be bendrųjų procesinių dokumentų formai ir turiniui keliamų reikalavimų, p
 
 582 straipsnis. Bylos nagrinėjimas
 
-1. Byla nagrinėjama rašytinio proceso tvarka, išskyrus atvejus, kai pats teismas, atsižvelgdamas į bylos aplinkybes, nusprendžia bylą nagrinėti žodinio proceso tvarka. Nagrinėjant bylą žodinio proceso tvarka, teismo posėdžio eiga nefiksuojama.
+1. Byla nagrinėjama rašytinio proceso tvarka, išskyrus atvejus, kai pats teismas, atsižvelgdamas į bylos aplinkybes, nusprendžia bylą nagrinėti žodinio proceso tvarka. Bylos dėl teismo leidimo pratęsti asmens priverstinį hospitalizavimą ir (ar) priverstinį gydymą nagrinėjamos žodinio proceso tvarka. Nagrinėjant bylą žodinio proceso tvarka, teismo posėdžio eiga nefiksuojama.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 2. Prašymai, paduoti šiame skyriuje nustatyta tvarka, teisme turi būti išnagrinėti ne vėliau kaip per penkias darbo dienas nuo jų priėmimo dienos.
 
@@ -1555,11 +1599,29 @@ Be bendrųjų procesinių dokumentų formai ir turiniui keliamų reikalavimų, p
 
 4. Kai sprendžiamas klausimas, susijęs su vaiko teisėmis, leidimo išdavimo klausimą teismas turi spręsti atsižvelgdamas išimtinai į vaiko interesus. Kai sprendžiamas klausimas dėl leidimo perleisti nuosavybės teisę į šeimos turtą, šeimos turtą įkeisti ar kitaip suvaržyti teises į jį, teismas, atsižvelgdamas į aplinkybes, turi teisę reikalauti, kad pareiškėjas pateiktų įrodymus, patvirtinančius šeimos turtinę padėtį (pajamas, santaupas, kitą turtą, prievoles), duomenis apie perleidžiamą šeimos turtą, duomenis iš vaiko teisių apsaugos tarnybos apie vaiko tėvus, taip pat būsimo sandorio preliminarias sąlygas ir jo įvykdymo galimybes bei vaiko teisių apsaugos galimybes sandorio neįvykdymo atveju ir kitus įrodymus.
 
-5. Byla nagrinėjama šiame skyriuje nustatyta tvarka, neatsižvelgiant į tai, kad ginčas kyla dėl teisės, išskyrus Civiliniame kodekse numatytus atvejus.
+5. Teismui nagrinėjant bylą dėl teismo leidimo pratęsti asmens priverstinį hospitalizavimą ir (ar) priverstinį gydymą arba bylą dėl teismo leidimo pratęsti asmens būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą, būtina, kad asmeniui, kurio priverstinį hospitalizavimą ir (ar) priverstinį gydymą arba būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą prašoma pratęsti, atstovautų advokatas.
 
-6. Bylą teismas išsprendžia priimdamas nutartį. Teismo nutartis išduoti leidimą, patvirtinti pareiškimą ar faktus apeliacine tvarka neskundžiama ir įsiteisėja nuo priėmimo dienos, tačiau teismo atsisakymas išduoti leidimą, patvirtinti pareiškimą ar faktą neatima iš pareiškėjo teisės, pasikeitus aplinkybėms, pakartotinai kreiptis į teismą dėl leidimo išdavimo, pareiškimo ar fakto patvirtinimo.
+Papildyta straipsnio dalimi:
 
-7. Šiame skyriuje nustatyta tvarka nagrinėtoje byloje dalyvaujančių asmenų turėtos bylinėjimosi išlaidos neatlyginamos.
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
+
+6. Byla nagrinėjama šiame skyriuje nustatyta tvarka, neatsižvelgiant į tai, kad ginčas kyla dėl teisės, išskyrus Civiliniame kodekse numatytus atvejus.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
+
+7. Bylą teismas išsprendžia priimdamas nutartį. Teismo nutartis išduoti leidimą, patvirtinti pareiškimą ar faktus apeliacine tvarka neskundžiama ir įsiteisėja nuo priėmimo dienos, tačiau teismo atsisakymas išduoti leidimą, patvirtinti pareiškimą ar faktą neatima iš pareiškėjo teisės, pasikeitus aplinkybėms, pakartotinai kreiptis į teismą dėl leidimo išdavimo, pareiškimo ar fakto patvirtinimo.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
+
+8. Šiame skyriuje nustatyta tvarka nagrinėtoje byloje dalyvaujančių asmenų turėtos bylinėjimosi išlaidos neatlyginamos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 Straipsnio pakeitimai:
 
@@ -3237,7 +3299,11 @@ Nr. XII-2011, 2015-11-12, paskelbta TAR 2015-11-17, i. k. 2015-18264
 
 1. Teismo sprendimai ir nutartys dėl globos ar rūpybos nustatymo ir panaikinimo, globėjo ar rūpintojo paskyrimo, atleidimo ar nušalinimo nuo pareigų vykdomi skubiai. Atskirojo skundo padavimas jų vykdymo nesustabdo.
 
-2. Teismas ne vėliau kaip kitą darbo dieną po sprendimų ir nutarčių dėl globos ir rūpybos nustatymo ir panaikinimo asmenims, kurie teismo tvarka pripažinti neveiksniais arba kurių civilinis veiksnumas apribotas, nepilnamečiams nuo keturiolikos iki aštuoniolikos metų, kuriems atimta ar apribota teisė savarankiškai disponuoti savo pajamomis ir turtu, taip pat nuo sprendimų ir nutarčių dėl globėjo ar rūpintojo šiems asmenims paskyrimo, atleidimo ar nušalinimo nuo pareigų įsiteisėjimo privalo šių sprendimų ir nutarčių duomenis pateikti neveiksnių ir ribotai veiksnių asmenų registro tvarkymo įstaigai Neveiksnių ir ribotai veiksnių asmenų registro nuostatų nustatyta tvarka.
+2. Teismas ne vėliau kaip kitą darbo dieną po sprendimų ir nutarčių dėl globos ir rūpybos nustatymo ir panaikinimo asmenims, kurie teismo tvarka pripažinti neveiksniais tam tikroje srityje arba kurių civilinis veiksnumas tam tikroje srityje apribotas, nepilnamečiams nuo keturiolikos iki aštuoniolikos metų, kuriems atimta ar apribota teisė savarankiškai disponuoti savo pajamomis ir turtu, taip pat nuo sprendimų ir nutarčių dėl globėjo ar rūpintojo šiems asmenims paskyrimo, atleidimo ar nušalinimo nuo pareigų įsiteisėjimo privalo šių sprendimų ir nutarčių duomenis pateikti Neveiksnių ir ribotai veiksnių asmenų registro tvarkymo įstaigai Neveiksnių ir ribotai veiksnių asmenų registro nuostatuose nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 Straipsnio pakeitimai:
 
@@ -3905,29 +3971,49 @@ Bendrosios nuostatos
 
 466 straipsnis. Pasirengimas bylai
 
-1. Jeigu yra duomenų apie fizinio asmens psichikos sutrikimą, teisėjas, kuriam paskirta parengti bylą nagrinėti, asmens psichinei būsenai nustatyti nutartimi paskiria teismo psichiatrijos ekspertizę, jeigu tokia ekspertizė nebuvo atlikta anksčiau, ir išreikalauja būtinus ekspertizei atlikti asmens medicininius dokumentus.
+1. Jeigu yra duomenų apie fizinio asmens psichikos sutrikimą, teisėjas, kuriam paskirta parengti bylą nagrinėti, asmens psichinei būklei nustatyti nutartimi paskiria teismo psichiatrijos ekspertizę, jeigu tokia ekspertizė nebuvo atlikta anksčiau, ir išreikalauja būtinus ekspertizei atlikti asmens medicininius dokumentus. Šia ekspertize siekiama nustatyti, ar yra pagrindas pripažinti asmenį neveiksniu tam tikroje srityje ar jo veiksnumą tam tikroje srityje apriboti. Teismo psichiatrijos ekspertizės galima neskirti, jei yra kreiptasi dėl pirmiau priimto teismo sprendimo panaikinimo ar dėl teismo sprendimo peržiūrėjimo šio Kodekso 469 straipsnyje nustatyta tvarka ir teismui pakanka kitų įrodymų apie asmens psichinę būklę. Be to, teismas kreipiasi į Neveiksnių ir ribotai veiksnių asmenų registro tvarkymo įstaigą prašydamas pateikti duomenis apie asmens, kurį prašoma pripažinti neveiksniu tam tikroje srityje, pateiktus išankstinius nurodymus. Šiuo atveju Neveiksnių ir ribotai veiksnių asmenų registre esantys duomenys apie asmens pateiktą išankstinį nurodymą perduodami teismui Neveiksnių ir ribotai veiksnių asmenų registro nuostatuose nustatyta tvarka.
 
-2. Teisėjas praneša fiziniam asmeniui, kurį prašoma pripažinti neveiksniu, kad nagrinėjant bylą dėl fizinio asmens pripažinimo neveiksniu būtina, kad jam atstovautų advokatas. Fizinis asmuo, pasirinkęs advokatą, teiksiantį jam teisinę pagalbą, apie tai praneša teisėjui.
+2. Teisėjas praneša fiziniam asmeniui, kurį prašoma pripažinti neveiksniu tam tikroje srityje, kad nagrinėjant bylą dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje būtina, kad jam atstovautų advokatas, ir nustato terminą, per kurį šis fizinis asmuo turi pasirinkti advokatą, teiksiantį jam teisinę pagalbą, ir pranešti apie tai teisėjui. Fizinis asmuo, pasirinkęs advokatą, teiksiantį jam teisinę pagalbą, apie tai praneša teisėjui.
 
-3. Jeigu fizinis asmuo, kurį prašoma pripažinti neveiksniu, pats nepasirenka advokato, teiksiančio jam teisinę pagalbą, teisėjas, kuriam paskirta parengti bylą nagrinėti, praneša valstybės garantuojamos teisinės pagalbos teikimą organizuojančiai institucijai apie tai, kad asmeniui, kurį prašoma pripažinti neveiksniu, būtinas advokatas.
-
-Straipsnio pakeitimai:
-
-Nr. XII-276, 2013-05-09, Žin., 2013, Nr. 54-2681 (2013-05-25)
-
-469 straipsnis. Teismo sprendimo panaikinimas
-
-1. Jeigu pripažintas neveiksniu fizinis asmuo pasveiksta arba labai pagerėja jo sveikatos būklė, bylą išnagrinėjęs pirmosios instancijos teismas pagal asmens globėjo ar kitų šio Kodekso 463 straipsnio 1 dalyje išvardytų asmenų pareiškimą, remdamasis teismo psichiatrijos ekspertizės išvada, priima sprendimą panaikinti pirmiau priimtą savo sprendimą ir pripažinti pasveikusįjį veiksniu arba pripažinimą neveiksniu pakeisti į pripažinimą ribotai veiksniu. Pats neveiksniu pripažintas asmuo teisės kreiptis į teismą dėl jo pripažinimo veiksniu ar dėl pripažinimo neveiksniu pakeitimo į pripažinimą ribotai veiksniu neturi.
-
-2. Teismui nagrinėjant šio straipsnio 1 dalyje nurodytas bylas, būtina, kad neveiksniu pripažintam asmeniui atstovautų advokatas. Jeigu neveiksniu pripažintas asmuo neturi advokato, teiksiančio jam teisinę pagalbą, teisėjas, kuriam paskirta parengti bylą nagrinėti, praneša valstybės garantuojamą teisinę pagalbą organizuojančiai institucijai apie tai, kad šiam asmeniui būtinas advokatas.
+3. Jeigu fizinis asmuo, kurį prašoma pripažinti neveiksniu tam tikroje srityje, per teismo nustatytą terminą pats nepasirenka advokato, teiksiančio jam teisinę pagalbą, teisėjas, kuriam paskirta parengti bylą nagrinėti, praneša valstybės garantuojamos teisinės pagalbos teikimą organizuojančiai institucijai apie tai, kad asmeniui, kurį prašoma pripažinti neveiksniu tam tikroje srityje, būtinas advokatas.
 
 Straipsnio pakeitimai:
 
-Nr. XII-276, 2013-05-09, Žin., 2013, Nr. 54-2681 (2013-05-25)
+Nr. XII-2127, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19743
 
-Trečiasis skirsnis
+469 straipsnis. Teismo sprendimo peržiūrėjimas ir panaikinimas
 
-BYLOS DĖL FIZINIO Asmens pripažinimO ribotai veiksniu
+1. Jeigu pripažintas neveiksniu tam tikroje srityje fizinis asmuo pasveiksta arba pagerėja jo sveikatos būklė ir dėl šio sveikatos pagerėjimo jis gali visiškai ar iš dalies suprasti savo veiksmų reikšmę ar juos valdyti, bylą išnagrinėjęs pirmosios instancijos teismas pagal asmens globėjo ar kitų šio Kodekso 463 straipsnio 1 dalyje išvardytų asmenų arba paties neveiksniu tam tikroje srityje pripažinto asmens pareiškimą, remdamasis teismo psichiatrijos ekspertizės išvada, priima sprendimą panaikinti pirmiau priimtą savo sprendimą ir pripažinti pasveikusįjį veiksniu arba pripažinimą neveiksniu tam tikroje srityje pakeisti į pripažinimą ribotai veiksniu tam tikroje srityje. Teismo psichiatrijos ekspertizės galima neskirti, jei teismui pakanka kitų įrodymų apie asmens psichinę būklę. Priėmęs šioje dalyje nurodytų asmenų pareiškimą, teismas apie pareiškimo priėmimą praneša neveiksnaus tam tikroje srityje asmens, dėl kurio gautas pareiškimas teisme, gyvenamosios vietos savivaldybėje sudarytai ar veikiančiai Neveiksnių asmenų būklės peržiūrėjimo komisijai. Pripažinęs asmenį neveiksniu tam tikroje srityje, teismas ex officio įvertina, ar šiam asmeniui reikalinga pagalba priimant sprendimus kitose srityse, ir, kai reikia, pasiūlo jam sudaryti sutartį dėl pagalbos priimant sprendimus.
+
+2. Teismas peržiūri sprendimą, kuriuo asmuo pripažintas neveiksniu tam tikroje srityje, kai į teismą dėl šio sprendimo peržiūrėjimo kreipiasi Neveiksnių asmenų būklės peržiūrėjimo komisija. Peržiūrint teismo sprendimą, mutatis mutandis taikomos šiame skyriuje nustatytos taisyklės.
+
+3. Teismas, nagrinėdamas šiame straipsnyje nurodytas bylas, sprendžia, ar yra pagrindas panaikinti arba pakeisti teismo sprendimą, kuriuo asmuo pripažintas neveiksniu tam tikroje srityje.
+
+4. Teismas, nagrinėdamas šiame straipsnyje nurodytas bylas, gali priimti šiuos sprendimus:
+
+1) palikti galioti peržiūrimą teismo sprendimą;
+
+2) pakeisti peržiūrimą teismo sprendimą, pripažinti asmenį ribotai veiksniu tam tikroje srityje ir nustatyti sričių, kuriose asmuo pripažįstamas ribotai veiksniu, sąrašą;
+
+3) pakeisti peržiūrimą teismo sprendimą ir nustatyti naują sričių, kuriose asmuo pripažįstamas neveiksniu, sąrašą ir sričių, kuriose asmuo pripažįstamas ribotai veiksniu, sąrašą;
+
+4) panaikinti peržiūrimą teismo sprendimą ir pasiūlyti asmeniui sudaryti sutartį dėl pagalbos priimant sprendimus;
+
+5) panaikinti peržiūrimą teismo sprendimą.
+
+5. Teismui nagrinėjant šiame straipsnyje nurodytas bylas, būtina, kad neveiksniu tam tikroje srityje pripažintam asmeniui atstovautų advokatas. Jeigu neveiksniu tam tikroje srityje pripažintas asmuo neturi advokato, teiksiančio jam teisinę pagalbą, teisėjas, kuriam paskirta parengti bylą nagrinėti, praneša valstybės garantuojamą teisinę pagalbą organizuojančiai institucijai apie tai, kad šiam asmeniui būtinas advokatas.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2127, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19743
+
+Skirsnio pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
+
+TREČIASIS SKIRSNIS
+
+BYLOS DĖL FIZINIO ASMENS PRIPAŽINIMO RIBOTAI VEIKSNIU TAM TIKROJE SRITYJE
 
 510 straipsnis. Skundo dėl antstolių veiksmų padavimas
 
@@ -4257,11 +4343,19 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 1. Galėjimas įgyvendinti savo teises teisme ir pavesti atstovui vesti bylą (civilinis procesinis veiksnumas) priklauso juridiniams asmenims ir fiziniams asmenims, kurie yra pasiekę pilnametystę – aštuoniolika metų, nepilnamečiams, įstatymų nustatyta tvarka sudariusiems santuoką, taip pat nepilnamečiams, kurie įstatymų nustatyta tvarka teismo pripažinti visiškai veiksniais (emancipuotais).
 
-2. Nepilnamečių nuo keturiolikos iki aštuoniolikos metų, taip pat fizinių asmenų, kurių civilinis veiksnumas apribotas, atstovais pagal įstatymą teisme yra atitinkamai jų tėvai, įtėviai ar rūpintojai. Šioje dalyje nurodytiems nepilnamečiams ir fiziniams asmenims, kurių civilinis veiksnumas apribotas, kurie yra bylos šalys arba tretieji asmenys, turi būti pranešta apie prasidėjusį teismo procesą ir pasiūloma jame dalyvauti.
+2. Nepilnamečių nuo keturiolikos iki aštuoniolikos metų, taip pat fizinių asmenų, kurių civilinis veiksnumas tam tikroje srityje apribotas, atstovais pagal įstatymą teisme yra atitinkamai jų tėvai, įtėviai ar rūpintojai. Šioje dalyje nurodytiems nepilnamečiams ir fiziniams asmenims, kurių civilinis veiksnumas tam tikroje srityje apribotas, kurie yra bylos šalys arba tretieji asmenys, turi būti pranešta apie prasidėjusį teismo procesą ir pasiūloma jame dalyvauti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 3. Nepilnamečiai nuo keturiolikos metų turi teisę kreiptis į teismą dėl savo teisių ar įstatymų saugomų interesų gynimo savarankiškai, jeigu ginčas yra dėl santykių, kuriuose jie turi visišką civilinį veiksnumą.
 
-4. Nepilnamečių iki keturiolikos metų, taip pat fizinių asmenų, pripažintų neveiksniais, teises ir įstatymų saugomus interesus gina teisme jų atstovai pagal įstatymą – atitinkamai jų tėvai, įtėviai, globėjai.
+4. Nepilnamečių iki keturiolikos metų, taip pat fizinių asmenų, pripažintų neveiksniais tam tikroje srityje, teises ir įstatymų saugomus interesus gina teisme jų atstovai pagal įstatymą – atitinkamai jų tėvai, įtėviai, globėjai, išskyrus šiame Kodekse numatytus atvejus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 Straipsnio pakeitimai:
 
@@ -4757,7 +4851,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 4) kai byla nutraukiama, jei ji nenagrinėtina teisme, arba kai ieškovas nesilaikė tos kategorijos byloms nustatytos išankstinio ginčų sprendimo ne teisme tvarkos ir negalima šia tvarka pasinaudoti;
 
-5) ieškinį palikus nenagrinėtą, kai ieškovas nesilaikė tos kategorijos byloms nustatytos išankstinio ginčų sprendimo ne teisme tvarkos ir galima pasinaudoti šia tvarka, kai ieškinį padavė neveiksnus asmuo, kai šalis neprimokėjo žyminio mokesčio, taip pat palikus pareiškimą nenagrinėtą šio Kodekso 431 straipsnio 3 dalyje numatytu atveju;
+5) ieškinį palikus nenagrinėtą, kai ieškovas nesilaikė tos kategorijos byloms nustatytos išankstinio ginčų sprendimo ne teisme tvarkos ir galima pasinaudoti šia tvarka, kai ieškinį pareiškė neveiksnus tam tikroje srityje asmuo, kai šalis neprimokėjo žyminio mokesčio, taip pat palikus pareiškimą nenagrinėtą šio Kodekso 431 straipsnio 3 dalyje numatytu atveju;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 6) sustabdžius bylos nagrinėjimą, kai yra įsiteisėjusi nutartis iškelti atsakovui bankroto bylą;
 
@@ -5245,7 +5343,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 6) šalys yra sudariusios susitarimą perduoti tą ginčą spręsti arbitražui;
 
-7) pareiškimą padavė neveiksnus fizinis asmuo;
+7) pareiškimą padavė neveiksnus tam tikroje srityje fizinis asmuo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 8) pareiškimą suinteresuoto asmens vardu padavė neįgaliotas vesti bylą asmuo.
 
@@ -5531,7 +5633,11 @@ Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
 
 1. Byla sustabdoma:
 
-1) šio Kodekso 163 straipsnio 1 ir 2 punktuose numatytais atvejais – iki paaiškės mirusio fizinio asmens ar pasibaigusio juridinio asmens teisių perėmėjas ar aplinkybės, dėl kurių teisių perėmimas neįvyko, arba iki bus paskirtas neveiksnaus fizinio asmens atstovas pagal įstatymą;
+1) šio Kodekso 163 straipsnio 1 ir 2 punktuose numatytais atvejais – iki paaiškės mirusio fizinio asmens ar pasibaigusio juridinio asmens teisių perėmėjas ar aplinkybės, dėl kurių teisių perėmimas neįvyko, arba iki bus paskirtas neveiksnaus tam tikroje srityje fizinio asmens atstovas pagal įstatymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 2) šio Kodekso 163 straipsnio 3 punkte numatytais atvejais – iki įsiteisės teismo sprendimas, nuosprendis, nutartis ar nutarimas arba iki bus priimtas nutarimas byloje, nagrinėjamoje administracine tvarka;
 
@@ -6619,7 +6725,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 1) jeigu ieškovas ar pareiškėjas, kurie kreipėsi į teismą, nesilaikė tos kategorijos byloms nustatytos išankstinio bylos sprendimo ne teisme tvarkos ir dar galima pasinaudoti šia tvarka;
 
-2) jeigu pareiškimą padavė neveiksnus fizinis asmuo;
+2) jeigu pareiškimą padavė neveiksnus tam tikroje srityje fizinis asmuo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 3) jeigu pareiškimą ieškovo ar pareiškėjo vardu padavė neįgaliotas vesti bylą asmuo;
 
@@ -6761,7 +6871,11 @@ Apeliacinės instancijos teismas dėl apelianto negali priimti blogesnio, negu y
 
 1) skundas paduotas praleidus nustatytą apeliacinio skundo padavimo terminą ir šis terminas neatnaujinamas;
 
-2) skundą paduoda neveiksnus asmuo arba asmuo, neturintis teisės jį paduoti;
+2) skundą paduoda neveiksnus tam tikroje srityje asmuo arba asmuo, neturintis teisės jį paduoti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 3) skundžiamas sprendimas (nutartis), kuris pagal įstatymus negali būti apeliacinio apskundimo objektas.
 
@@ -7179,7 +7293,11 @@ Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
 
 5) panaikinamas kaip neteisėtas ar nepagrįstas teismo sprendimas, nuosprendis arba kitoks valstybės ar savivaldybių institucijų individualaus pobūdžio aktas, kuris buvo pagrindas tam sprendimui, nutarčiai ar nutarimui priimti;
 
-6) jeigu viena iš šalių proceso metu buvo neveiksni ir nebuvo atstovaujama atstovo pagal įstatymą;
+6) jeigu viena iš šalių proceso metu buvo neveiksni tam tikroje srityje ir nebuvo atstovaujama atstovo pagal įstatymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 7) jeigu sprendimu teismas nusprendė dėl neįtrauktų į bylos nagrinėjimą asmenų materialiųjų teisių ar pareigų;
 
@@ -8017,7 +8135,11 @@ Ypatingosios teisenos tvarka teismas nagrinėja bylas:
 
 2) dėl fizinio asmens paskelbimo mirusiu ar nežinia kur esančiu;
 
-3) dėl fizinio asmens pripažinimo neveiksniu arba ribotai veiksniu ir nepilnamečio pripažinimo veiksniu (emancipuotu);
+3) dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje arba ribotai veiksniu tam tikroje srityje ir nepilnamečio pripažinimo veiksniu (emancipuotu);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 4) dėl įvaikinimo;
 
@@ -8247,7 +8369,11 @@ Jeigu byla nagrinėjama žodinio proceso tvarka, į teismo posėdį šaukiami as
 
 XXVIII skyrius
 
-BYLOS DĖL FIZINIO Asmens pripažinimO neveiksniu arba ribotai veiksniu ir nepilnamečio pripažinimO veiksniu (EMANCIPUOTU)
+BYLOS DĖL FIZINIO ASMENS PRIPAŽINIMO NEVEIKSNIU TAM TIKROJE SRITYJE ARBA RIBOTAI VEIKSNIU TAM TIKROJE SRITYJE IR NEPILNAMEČIO PRIPAŽINIMO VEIKSNIU (EMANCIPUOTU)
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 Pirmasis skirsnis
 
@@ -8255,133 +8381,141 @@ Bendrosios nuostatos
 
 462 straipsnis. Teismingumas
 
-1. Pareiškimas dėl fizinio asmens pripažinimo neveiksniu ar ribotai veiksniu paduodamas asmens, kurį prašoma pripažinti neveiksniu ar ribotai veiksniu, gyvenamosios vietos apylinkės teismui.
+1. Pareiškimas dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje paduodamas asmens, kurį prašoma pripažinti neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, gyvenamosios vietos apylinkės teismui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 2. Pareiškimas dėl nepilnamečio pripažinimo veiksniu (emancipuotu) paduodamas nepilnamečio gyvenamosios vietos apylinkės teismui.
 
 463 straipsnis. Pareiškimo padavimas
 
-1. Pareiškimą dėl fizinio asmens pripažinimo neveiksniu ar ribotai veiksniu gali paduoti:
+1. Pareiškimą dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje gali paduoti:
 
-1) asmens, kurį prašoma pripažinti neveiksniu ar ribotai veiksniu, sutuoktinis;
+1) asmens, kurį prašoma pripažinti neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, sutuoktinis;
 
-2) asmens, kurį prašoma pripažinti neveiksniu ar ribotai veiksniu, tėvai, pilnamečiai vaikai;
+2) asmens, kurį prašoma pripažinti neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, tėvai, pilnamečiai vaikai;
 
 3) globos (rūpybos) institucija;
 
 4) prokuroras.
 
-2. Pareiškimą dėl nepilnamečio fizinio asmens pripažinimo ribotai veiksniu galima paduoti ne anksčiau kaip likus šešiems mėnesiams iki asmens, kuris turėtų būti pripažintas ribotai veiksniu, pilnametystės.
+2. Pareiškimą dėl nepilnamečio fizinio asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje galima paduoti ne anksčiau kaip likus šešiems mėnesiams iki asmens, kuris turėtų būti pripažintas neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, pilnametystės.
 
-3. Pareiškimą pripažinti fizinį asmenį neveiksniu padavęs asmuo gali iki bylos nagrinėjimo užbaigimo reikalavimą pakeisti ir prašyti tą asmenį pripažinti ribotai veiksniu, o pradiniame pareiškime prašęs fizinį asmenį pripažinti ribotai veiksniu – prašyti jį pripažinti neveiksniu.
+3. Pareiškimą pripažinti fizinį asmenį neveiksniu tam tikroje srityje padavęs asmuo gali iki bylos nagrinėjimo užbaigimo reikalavimą pakeisti ir prašyti tą asmenį pripažinti ribotai veiksniu tam tikroje srityje, o pradiniame pareiškime prašęs fizinį asmenį pripažinti ribotai veiksniu tam tikroje srityje – prašyti jį pripažinti neveiksniu tam tikroje srityje.
 
-4. Asmuo, kuris padavė aiškiai nepagrįstą pareiškimą dėl fizinio asmens pripažinimo neveiksniu ar ribotai veiksniu, teismo nutartimi gali būti nubaustas nuo vieno šimto keturiasdešimt keturių iki penkių šimtų septyniasdešimt devynių eurų bauda. Iš šio asmens taip pat priteisiamos bylinėjimosi išlaidos.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
+4. Asmuo, kuris padavė aiškiai nepagrįstą pareiškimą dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, teismo nutartimi gali būti nubaustas nuo vieno šimto keturiasdešimt keturių iki penkių šimtų septyniasdešimt devynių eurų bauda. Iš šio asmens taip pat priteisiamos bylinėjimosi išlaidos.
 
 5. Pareiškimą dėl nepilnamečio pripažinimo veiksniu (emancipuotu) gali paduoti pats nepilnametis, jo tėvai, rūpintojas ir globos (rūpybos) institucija.
 
 6. Pareiškimą dėl nepilnamečio nuo keturiolikos iki aštuoniolikos metų teisės savarankiškai disponuoti savo pajamomis bei turtu apribojimo ar atėmimo gali paduoti vaikų globos (rūpybos) institucija, prokuroras ir kiti suinteresuoti asmenys. Nagrinėjant šį pareiškimą, mutatis mutandis taikomos šio skyriaus ketvirtojo skirsnio nuostatos.
 
+Straipsnio pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
+
 464 straipsnis. Dalyvaujantys byloje asmenys
 
-1. Byloje dėl fizinio asmens pripažinimo neveiksniu ar ribotai veiksniu dalyvaujantys asmenys, be pareiškėjo, yra asmuo, kurį prašoma pripažinti neveiksniu ar ribotai veiksniu, taip pat globos (rūpybos) institucija. Teismas kaip dalyvaujančius byloje suinteresuotus asmenis gali įtraukti asmens, kurį prašoma pripažinti neveiksniu ar ribotai veiksniu, artimuosius giminaičius ar kartu gyvenančius jo šeimos narius.
+1. Byloje dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje dalyvaujantys asmenys, be pareiškėjo, yra asmuo, kurį prašoma pripažinti neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, taip pat globos (rūpybos) institucija. Teismas kaip dalyvaujančius byloje suinteresuotus asmenis gali įtraukti asmens, kurį prašoma pripažinti neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, artimuosius giminaičius ar kartu gyvenančius jo šeimos narius.
 
-2. Jeigu fizinio asmens, kurį prašoma pripažinti neveiksniu ar ribotai veiksniu, dėl sveikatos būklės, patvirtintos eksperto išvada, negalima iškviesti ir apklausti teisme ar įteikti jam teismo dokumentus, teismas bylą nagrinėja šiam asmeniui nedalyvaujant.
+2. Tik tais atvejais, kai fizinio asmens, kurį prašoma pripažinti neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, dėl sveikatos būklės, patvirtintos asmens sveikatos priežiūros įstaigos išvada, negalima iškviesti ir apklausti teisme ar įteikti jam teismo dokumentų, byla gali būti nagrinėjama šiam asmeniui nedalyvaujant.
 
 3. Byloje dėl nepilnamečio pripažinimo veiksniu (emancipuotu) ar byloje dėl nepilnamečio nuo keturiolikos iki aštuoniolikos metų teisės savarankiškai disponuoti savo pajamomis bei turtu apribojimo ar atėmimo dalyvaujantys asmenys, be pareiškėjo, yra pats nepilnametis, jo tėvai ar rūpintojas, taip pat globos (rūpybos) institucija, jei nepilnametis neturi tėvų.
 
+Straipsnio pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
+
 4641 straipsnis. Registravimas
 
-Teismas ne vėliau kaip kitą darbo dieną po sprendimo pripažinti fizinį asmenį neveiksniu ar panaikinti fizinio asmens neveiksnumą, apriboti fizinio asmens veiksnumą ar panaikinti veiksnumo apribojimą ir šiame skyriuje nustatyta tvarka priimto sprendimo dėl nepilnamečio nuo keturiolikos iki aštuoniolikos metų teisės savarankiškai disponuoti savo pajamomis ir turtu apribojimo ar atėmimo, taip pat sprendimo panaikinti atitinkamą ankstesnį sprendimą įsiteisėjimo privalo sprendimo duomenis pateikti neveiksnių ir ribotai veiksnių asmenų registro tvarkymo įstaigai Neveiksnių ir ribotai veiksnių asmenų registro nuostatų nustatyta tvarka.
+Teismas ne vėliau kaip kitą darbo dieną po sprendimo pripažinti fizinį asmenį neveiksniu tam tikroje srityje ar panaikinti fizinio asmens neveiksnumą, apriboti fizinio asmens veiksnumą tam tikroje srityje ar panaikinti veiksnumo apribojimą ir šiame skyriuje nustatyta tvarka priimto sprendimo dėl nepilnamečio nuo keturiolikos iki aštuoniolikos metų teisės savarankiškai disponuoti savo pajamomis ir turtu apribojimo ar atėmimo, taip pat sprendimo panaikinti atitinkamą ankstesnį sprendimą įsiteisėjimo privalo sprendimo duomenis pateikti Neveiksnių ir ribotai veiksnių asmenų registro tvarkymo įstaigai Neveiksnių ir ribotai veiksnių asmenų registro nuostatuose nustatyta tvarka.
 
 Kodeksas papildytas straipsniu:
 
 Nr. XI-1032, 2010-09-23, Žin., 2010, Nr. 126-6457 (2010-10-26)
 
+Straipsnio pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
+
 Antrasis skirsnis
 
-BYLOS DĖL Fizinio Asmens pripažinimO neveiksniu
+BYLOS DĖL Fizinio Asmens pripažinimO neveiksniu TAM TIKROJE SRITYJE
 
 465 straipsnis. Pareiškimo turinys
 
-Pareiškime dėl fizinio asmens pripažinimo neveiksniu, be bendrųjų reikalavimų, keliamų procesinių dokumentų turiniui ir formai, turi būti išdėstytos aplinkybės, rodančios fizinio asmens psichikos sutrikimą, dėl kurio tas asmuo negali suprasti savo veiksmų reikšmės ar jų valdyti, taip pat turi būti pateikta gydytojo pažyma bei kiti įrodymai apie asmens psichinę būseną.
+Pareiškime dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje, be bendrųjų reikalavimų, keliamų procesinių dokumentų turiniui ir formai, turi būti išdėstytos aplinkybės, rodančios fizinio asmens psichikos sutrikimą, dėl kurio tas asmuo negali suprasti savo veiksmų reikšmės ar jų valdyti, taip pat turi būti pateikta sveikatos priežiūros įstaigos pažyma, kiti įrodymai apie asmens psichinę būklę, socialinio darbuotojo išvada apie asmens, kurį prašoma pripažinti neveiksniu tam tikroje srityje, gebėjimą pasirūpinti savimi ir priimti kasdienius sprendimus savarankiškai ar naudojantis pagalba konkrečiose srityse. Asmens gebėjimo pasirūpinti savimi ir priimti kasdienius sprendimus nustatymo tvarką nustato socialinės apsaugos ir darbo ministras. Šiame straipsnyje numatytame pareiškime turi būti nurodytos sritys, kuriose pareiškėjas siūlo pripažinti asmenį neveiksniu.
 
 467 straipsnis. Bylos nagrinėjimas
 
-1. Bylą dėl fizinio asmens pripažinimo neveiksniu teismas nagrinėja žodinio nagrinėjimo tvarka, pranešęs byloje dalyvaujantiems asmenims.
+1. Bylą dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje teismas nagrinėja žodinio nagrinėjimo tvarka, pranešęs byloje dalyvaujantiems asmenims.
 
-2. Jeigu teismas pripažįsta, kad yra būtina apklausti asmenį, kurį prašoma pripažinti neveiksniu, o šis į teismo posėdį neatvyksta, teismas gali nutarti atvesdinti šį asmenį į teismą padedant policijai arba pavesti jį apklausti kitam to asmens buvimo vietos teismui. Asmens apklausa atliekama dalyvaujant gydytojui teismo psichiatrui.
+2. Jeigu asmuo, kurį prašoma pripažinti neveiksniu tam tikroje srityje, į teismo posėdį neatvyksta ir nėra šio Kodekso 464 straipsnio 2 dalyje nurodytų aplinkybių, teismas gali nutarti atvesdinti šį asmenį į teismą padedant policijai arba pavesti jį apklausti kitam to asmens buvimo vietos teismui. Asmens apklausa atliekama dalyvaujant gydytojui psichiatrui.
 
-3. Jeigu asmuo vengia teismo psichiatrijos ekspertizės, teismas gali priimti nutartį priverstinai nusiųsti asmenį ambulatorinei teismo psichiatrijos ekspertizei atlikti. Šią nutartį vykdo policija. Dėl nutarties gali būti duodamas atskirasis skundas.
+3. Jeigu asmuo, kurį prašoma pripažinti neveiksniu tam tikroje srityje, vengia teismo psichiatrijos ekspertizės, teismas gali priimti nutartį priverstinai nusiųsti asmenį ambulatorinei teismo psichiatrijos ekspertizei atlikti. Šią nutartį vykdo policija. Dėl nutarties gali būti duodamas atskirasis skundas.
 
-4. Tais atvejais, kai ambulatorinio tyrimo metu gautų duomenų teismo psichiatrijos ekspertizės išvadai apie asmens psichinę būseną pateikti nepakanka, teismas gali priimti nutartį paskirti stacionarinę teismo psichiatrijos ekspertizę ir ne ilgiau kaip šešioms savaitėms pasiųsti asmenį, kurį prašoma pripažinti neveiksniu, į ekspertizės įstaigą stebėti. Prieš priimdamas tokią nutartį teismas turi apklausti byloje dalyvaujančius asmenis. Išimtiniais atvejais teismas motyvuotu ekspertų prašymu gali pratęsti nurodytą terminą iki trijų mėnesių. Dėl teismo nutarties skirti stacionarinę teismo psichiatrijos ekspertizę ir pasiųsti asmenį į ekspertizės įstaigą ar pratęsti asmens laikymo joje terminą gali būti duodamas atskirasis skundas.
+4. Tais atvejais, kai ambulatorinio tyrimo metu gautų duomenų teismo psichiatrijos ekspertizės išvadai apie asmens psichikos būklę pateikti nepakanka, teismas gali priimti nutartį paskirti stacionarinę teismo psichiatrijos ekspertizę ir ne ilgiau kaip šešioms savaitėms pasiųsti asmenį, kurį prašoma pripažinti neveiksniu tam tikroje srityje, į ekspertizės įstaigą stebėti. Prieš priimdamas tokią nutartį teismas turi apklausti byloje dalyvaujančius asmenis. Išimtiniais atvejais teismas motyvuotu ekspertų prašymu gali pratęsti nurodytą terminą iki trijų mėnesių. Dėl teismo nutarties skirti stacionarinę teismo psichiatrijos ekspertizę ir pasiųsti asmenį į ekspertizės įstaigą ar pratęsti asmens laikymo joje terminą gali būti duodamas atskirasis skundas.
 
-5. Nagrinėdamas bylą dėl fizinio asmens pripažinimo neveiksniu, teismas pareiškėjo prašymu ar savo iniciatyva gali aiškintis ir aplinkybes, ar nėra pagrindo asmens veiksnumą apriboti.
+5. Nagrinėdamas bylą dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje, teismas asmens, kurį prašoma pripažinti neveiksniu tam tikroje srityje, ar pareiškėjo prašymu arba savo iniciatyva turi aiškintis ir aplinkybes, ar nėra pagrindo apriboti asmens veiksnumą tam tikroje srityje, arba siūlyti jam sudaryti sutartį dėl pagalbos priimant sprendimus teikimo. Kai teismui kyla abejonių dėl asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje tikslingumo, visos abejonės turi būti vertinamos asmens, kurį prašoma pripažinti neveiksniu tam tikroje srityje, naudai ir visais atvejais turi būti taikomos kuo mažiau asmens veiksnumą ribojančios priemonės.
 
-6. Teismui nagrinėjant bylą dėl fizinio asmens pripažinimo neveiksniu, būtina, kad asmeniui, kurį prašoma pripažinti neveiksniu, atstovautų advokatas.
-
-Straipsnio pakeitimai:
-
-Nr. XII-276, 2013-05-09, Žin., 2013, Nr. 54-2681 (2013-05-25)
+6. Teismui nagrinėjant bylą dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje, būtina, kad asmeniui, kurį prašoma pripažinti neveiksniu tam tikroje srityje, atstovautų advokatas.
 
 468 straipsnis. Teismo sprendimas
 
-1. Išnagrinėjęs bylą teismo posėdyje, teismas priima sprendimą pripažinti fizinį asmenį neveiksniu arba pareiškimą atmeta.
+1. Išnagrinėjęs bylą teismo posėdyje, teismas priima sprendimą pripažinti fizinį asmenį neveiksniu tam tikroje srityje arba pareiškimą atmeta. Priėmęs sprendimą pripažinti asmenį neveiksniu tam tikroje srityje, teismas sprendime nurodo baigtinį sričių, kuriose asmuo pripažįstamas neveiksniu, sąrašą.
 
-2. Bylos nagrinėjimo metu nustatęs, kad nėra pagrindo fizinį asmenį pripažinti neveiksniu, tačiau yra pagrindas fizinio asmens veiksnumą apriboti, teismas priima sprendimą fizinį asmenį pripažinti ribotai veiksniu.
+2. Bylos nagrinėjimo metu nustatęs, kad nėra pagrindo fizinį asmenį pripažinti neveiksniu tam tikroje srityje, tačiau yra pagrindas fizinio asmens veiksnumą tam tikroje srityje apriboti, teismas priima sprendimą fizinį asmenį pripažinti ribotai veiksniu tam tikroje srityje. Bylos nagrinėjimo metu nustatęs, kad nėra pagrindo pripažinti fizinį asmenį neveiksniu tam tikroje srityje ar apriboti fizinio asmens veiksnumą tam tikroje srityje, tačiau šiam asmeniui reikalinga pagalba priimant sprendimus, teismas pasiūlo asmeniui, kurio veiksnumą tam tikroje srityje prašoma apriboti, sudaryti su asmeniu, kuriuo jis pasitiki, sutartį dėl pagalbos priimant sprendimus ir tai nurodo sprendime. Bylos nagrinėjimo metu nustatęs, kad yra pagrindas pripažinti asmenį neveiksniu tam tikroje srityje ir kad taip pat yra pagrindas pripažinti asmenį ribotai veiksniu tam tikroje srityje, teismas sprendime nustato baigtinį sričių, kuriose asmuo pripažįstamas neveiksniu, sąrašą ir sričių, kuriose asmens veiksnumas apribojamas, sąrašą.
 
-3. Bylinėjimosi dėl fizinio asmens pripažinimo neveiksniu išlaidos, išskyrus atstovavimo išlaidas, padengiamos iš valstybės lėšų. Už teismo paskirtas ekspertizes šiose bylose apmokama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+3. Bylinėjimosi dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje išlaidos, išskyrus atstovavimo išlaidas, padengiamos iš valstybės lėšų. Už teismo paskirtas ekspertizes šiose bylose apmokama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
-4. Teismo sprendimas pripažinti fizinį asmenį neveiksniu yra pagrindas šiam asmeniui nustatyti globą arba paskirti globėją. Globos nustatymo ar globėjo šiam asmeniui paskyrimo klausimai sprendžiami šio Kodekso XXX skyriuje nustatyta tvarka.
+4. Teismo sprendimu, kuriuo fizinis asmuo pripažįstamas neveiksniu tam tikroje srityje, gali būti išsprendžiami ir globos nustatymo ar globėjo šiam asmeniui paskyrimo klausimai šio Kodekso XXX skyriuje nustatyta tvarka.
 
-5. Teismo sprendimą turi teisę apskųsti dalyvaujantys byloje asmenys, taip pat ir pats neveiksniu pripažintas fizinis asmuo.
-
-Straipsnio pakeitimai:
-
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+5. Teismo sprendimą turi teisę apskųsti dalyvaujantys byloje asmenys, taip pat ir pats neveiksniu tam tikroje srityje pripažintas fizinis asmuo.
 
 470 straipsnis. Pareiškimo turinys
 
-Be bendrųjų reikalavimų, keliamų procesinių dokumentų turiniui ir formai, pareiškime dėl fizinio asmens pripažinimo ribotai veiksniu turi būti išdėstytos aplinkybės, rodančios, kad asmuo piktnaudžiauja alkoholiniais gėrimais, narkotikais, narkotinėmis ar toksinėmis medžiagomis.
+Be bendrųjų reikalavimų, keliamų procesinių dokumentų turiniui ir formai, pareiškime dėl fizinio asmens pripažinimo ribotai veiksniu tam tikroje srityje turi būti išdėstytos aplinkybės, rodančios fizinio asmens psichikos sutrikimą, dėl kurio tas asmuo iš dalies negali suprasti savo veiksmų reikšmės ar jų valdyti, taip pat turi būti pateikta asmens sveikatos priežiūros įstaigos pažyma, socialinio darbuotojo išvada apie asmens, kurį prašoma pripažinti ribotai veiksniu tam tikroje srityje, gebėjimą pasirūpinti savimi ir priimti kasdienius sprendimus savarankiškai ar naudojantis pagalba. Šiame pareiškime turi būti nurodytos sritys, kuriose pareiškėjas siūlo pripažinti asmenį ribotai veiksniu.
 
 471 straipsnis. Pasirengimas bylai
 
-Jeigu yra šio Kodekso 470 straipsnyje numatytų duomenų apie fizinio asmens piktnaudžiavimą alkoholiniais gėrimais, narkotikais, narkotinėmis ar toksinėmis medžiagomis, teismas, rengdamas bylą nagrinėti, asmens sveikatos būsenai nustatyti nutartimi paskiria teismo ekspertizę, jeigu tokia ekspertizė nebuvo atlikta anksčiau, ir išreikalauja būtinus ekspertizei atlikti asmens medicininius dokumentus.
+Jeigu yra šio Kodekso 470 straipsnyje numatytų duomenų apie fizinio asmens psichikos sutrikimą, turintį įtakos asmens gebėjimui iš dalies suprasti savo veiksmų reikšmę ar juos valdyti, teismas, rengdamas bylą nagrinėti, asmens sveikatos būklei nustatyti nutartimi paskiria teismo ekspertizę, jeigu tokia ekspertizė nebuvo atlikta anksčiau, ir išreikalauja būtinus ekspertizei atlikti asmens medicininius dokumentus. Šia ekspertize siekiama nustatyti, ar yra pagrindas pripažinti asmenį ribotai veiksniu tam tikroje srityje arba pripažinti asmenį neveiksniu tam tikroje srityje. Teismo psichiatrijos ekspertizės galima neskirti, jei yra kreiptasi dėl pirmiau priimto teismo sprendimo panaikinimo šio Kodekso 474 straipsnyje nustatyta tvarka ir teismui pakanka kitų įrodymų apie asmens psichinę būklę. Be to, teismas kreipiasi į Neveiksnių ir ribotai veiksnių asmenų registro tvarkymo įstaigą prašydamas pateikti duomenis apie asmens, kurį prašoma pripažinti ribotai veiksniu tam tikroje srityje, pateiktus išankstinius nurodymus. Šiuo atveju Neveiksnių ir ribotai veiksnių asmenų registre esantys duomenys apie asmens pateiktą išankstinį nurodymą perduodami teismui Neveiksnių ir ribotai veiksnių asmenų registro nuostatuose nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2127, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19743
 
 472 straipsnis. Bylos nagrinėjimas
 
 1. Byla dėl fizinio asmens pripažinimo ribotai veiksniu nagrinėjama laikantis šio Kodekso 467 straipsnio 1, 2 ir 3 dalyse nustatytų taisyklių.
 
-2. Jeigu bylos dėl fizinio asmens pripažinimo ribotai veiksniu nagrinėjimo metu nustatoma, kad šis asmuo dėl psichikos sveikatos sutrikimo negali suprasti savo veiksmų reikšmės ar jų valdyti, teismas pareiškėjo prašymu ar savo iniciatyva gali aiškintis ir aplinkybes, ar nėra pagrindo asmenį pripažinti neveiksniu. Tokiu atveju asmeniui teismas gali taikyti šio Kodekso 467 straipsnio 4 dalyje numatytas priemones. Be to, teismas turi išspręsti šio Kodekso 466 straipsnio 2 ir 3 dalyse nurodytus klausimus.
-
-Straipsnio pakeitimai:
-
-Nr. XII-276, 2013-05-09, Žin., 2013, Nr. 54-2681 (2013-05-25)
+2. Jeigu bylos dėl fizinio asmens pripažinimo ribotai veiksniu tam tikroje srityje nagrinėjimo metu nustatoma, kad šis asmuo dėl psichikos sutrikimo negali suprasti savo veiksmų reikšmės ar jų valdyti, teismas pareiškėjo prašymu ar savo iniciatyva turi aiškintis ir aplinkybes, ar nėra pagrindo asmenį pripažinti neveiksniu tam tikroje srityje. Šiuo atveju asmeniui teismas gali taikyti šio Kodekso 467 straipsnio 4 dalyje numatytas priemones. Be to, teismas turi išspręsti šio Kodekso 466 straipsnio 2 ir 3 dalyse nurodytus klausimus. Kai teismui kyla abejonių dėl asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje tikslingumo, visos abejonės turi būti vertinamos asmens, kurį prašoma pripažinti ribotai veiksniu tam tikroje srityje, naudai ir visais atvejais turi būti taikomos kuo mažiau asmens veiksnumą ribojančios priemonės.
 
 473 straipsnis. Teismo sprendimas
 
-1. Išnagrinėjęs bylą teismo posėdyje, teismas priima sprendimą pripažinti asmenį ribotai veiksniu arba pareiškimą atmeta.
+1. Išnagrinėjęs bylą teismo posėdyje, teismas priima sprendimą pripažinti asmenį ribotai veiksniu tam tikroje srityje arba pareiškimą atmeta. Priėmęs sprendimą pripažinti asmenį ribotai veiksniu tam tikroje srityje, teismas sprendime nurodo baigtinį sričių, kuriose asmuo pripažįstamas ribotai veiksniu, sąrašą. Bylos nagrinėjimo metu nustatęs, kad nėra pagrindo pripažinti asmenį ribotai veiksniu tam tikroje srityje, tačiau asmeniui reikalinga pagalba priimant sprendimus, pasiūlo asmeniui sudaryti sutartį dėl pagalbos priimant sprendimus ir tai nurodo sprendime.
 
-2. Bylos nagrinėjimo metu nustatęs, kad asmuo dėl psichikos sutrikimo negali suprasti savo veiksmų reikšmės ar jų valdyti, teismas priima sprendimą asmenį pripažinti neveiksniu.
+2. Bylos nagrinėjimo metu nustatęs, kad asmuo dėl psichikos sutrikimo negali suprasti savo veiksmų reikšmės ar jų valdyti, teismas priima sprendimą asmenį pripažinti neveiksniu tam tikroje srityje ir nurodo baigtinį sričių, kuriose asmuo pripažįstamas neveiksniu, sąrašą. Bylos nagrinėjimo metu nustatęs, kad yra pagrindas pripažinti asmenį neveiksniu tam tikroje srityje ir kad taip pat yra pagrindas pripažinti asmenį ribotai veiksniu tam tikroje srityje, teismas sprendime nustato baigtinį sričių, kuriose asmuo pripažįstamas neveiksniu, sąrašą ir sričių, kuriose asmuo pripažįstamas ribotai veiksniu, sąrašą.
 
-3. Bylinėjimosi dėl asmens pripažinimo ribotai veiksniu išlaidos, išskyrus atstovavimo išlaidas, padengiamos iš valstybės lėšų. Už teismo paskirtas ekspertizes šiose bylose apmokama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+3. Bylinėjimosi dėl asmens pripažinimo ribotai veiksniu tam tikroje srityje išlaidos, išskyrus atstovavimo išlaidas, padengiamos iš valstybės lėšų. Už teismo paskirtas ekspertizes šiose bylose apmokama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
-4. Teismo sprendimas pripažinti asmenį ribotai veiksniu yra pagrindas šiam asmeniui paskirti rūpintoją. Rūpybos nustatymo ar rūpintojo šiam asmeniui paskyrimo klausimai sprendžiami šio Kodekso XXX skyriuje nustatyta tvarka.
+4. Teismo sprendimu, kuriuo asmuo pripažįstamas ribotai veiksniu tam tikroje srityje, šio Kodekso XXX skyriuje nustatyta tvarka gali būti išsprendžiami ir rūpybos nustatymo ar rūpintojo šiam asmeniui paskyrimo klausimai.
 
-5. Teismo sprendimą turi teisę apskųsti dalyvaujantys byloje asmenys, tarp jų ir pats ribotai veiksniu pripažintas asmuo.
-
-Straipsnio pakeitimai:
-
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+5. Teismo sprendimą turi teisę apskųsti dalyvaujantys byloje asmenys, tarp jų ir pats ribotai veiksniu tam tikroje srityje pripažintas asmuo.
 
 474 straipsnis. Teismo sprendimo panaikinimas
 
-1. Išnykus aplinkybėms, dėl kurių fizinio asmens veiksnumas buvo apribotas, bylą išnagrinėjęs teismas pagal paties asmens, jo rūpintojo ar kitų šio Kodekso 463 straipsnio 1 dalyje išvardytų asmenų pareiškimą priima sprendimą panaikinti pirmiau priimtą sprendimą ir pripažinti fizinį asmenį veiksniu.
+1. Išnykus aplinkybėms, dėl kurių fizinio asmens veiksnumas tam tikroje srityje buvo apribotas, bylą išnagrinėjęs teismas pagal paties asmens, jo rūpintojo ar kitų šio Kodekso 463 straipsnio 1 dalyje išvardytų asmenų pareiškimą priima sprendimą panaikinti pirmiau priimtą sprendimą ir pripažinti fizinį asmenį veiksniu.
 
-2. Jeigu pripažinto ribotai veiksniu fizinio asmens sveikatos būklė labai pablogėja, bylą išnagrinėjęs teismas pagal asmens rūpintojo ar šio Kodekso 463 straipsnio 1 dalyje išvardytų asmenų pareiškimą, remdamasis teismo psichiatrijos ekspertizės išvada, priima sprendimą panaikinti pirmiau priimtą sprendimą ir fizinio asmens pripažinimą ribotai veiksniu pakeisti į jo pripažinimą neveiksniu.
+2. Jeigu pripažinto ribotai veiksniu tam tikroje srityje fizinio asmens sveikatos būklė pablogėja ir dėl šio sveikatos būklės pablogėjimo jis negali suprasti savo veiksmų reikšmės ar jų valdyti, bylą išnagrinėjęs teismas pagal asmens rūpintojo ar šio Kodekso 463 straipsnio 1 dalyje išvardytų asmenų pareiškimą, remdamasis teismo psichiatrijos ekspertizės išvada, priima sprendimą panaikinti pirmiau priimtą sprendimą ir fizinio asmens pripažinimą ribotai veiksniu tam tikroje srityje pakeisti į jo pripažinimą neveiksniu tam tikroje srityje. Teismo psichiatrijos ekspertizės galima neskirti, jei teismui pakanka kitų įrodymų apie asmens psichinę būklę. Šiuo atveju mutatis mutandis taip pat taikomos šio Kodekso 473 straipsnio 2 dalies nuostatos.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2127, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19743
+
+Skirsnio pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 Ketvirtasis skirsnis
 
@@ -8475,7 +8609,11 @@ BYLOS DĖL ĮvaikinimO
 
 1) įvaikintojų ir, jeigu yra galimybė, – įvaikinamojo sveikatos būklės pažymos, išduotos sveikatos apsaugos ministro nustatyta tvarka;
 
-2) jeigu yra galimybė, – teismo nutartis, patvirtinanti vaiko tėvų, o jei vaiko tėvai yra nepilnamečiai ar neveiksnūs, – jų tėvų arba globėjų (rūpintojų) sutikimą įvaikinti, išskyrus įstatymų numatytus atvejus;
+2) jeigu yra galimybė, – teismo nutartis, patvirtinanti vaiko tėvų, o jei vaiko tėvai yra nepilnamečiai ar neveiksnūs šioje srityje, – jų tėvų arba globėjų (rūpintojų) sutikimą įvaikinti, išskyrus įstatymų numatytus atvejus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 3) jeigu yra galimybė ir vaikas turi įstatymų nustatyta tvarka paskirtą globėją (rūpintoją), išskyrus valstybinę globos instituciją, – teismo nutartis, patvirtinanti globėjo (rūpintojo) sutikimą įvaikinti;
 
@@ -8510,6 +8648,14 @@ Teismas, rengdamasis nagrinėti bylą:
 5. Teismas patikrina, ar įvaikintojai turi tinkamas sąlygas ir ar yra deramai pasirengę įvaikinti.
 
 6. Tėvų, globėjų (rūpintojų) sutikimas įvaikinti gali būti atšauktas iki teismo sprendimo dėl įvaikinimo priėmimo. Padavus pareiškimą atšaukti sutikimą įvaikinti, bylos dėl įvaikinimo nagrinėjimas sustabdomas, kol bus išspręstas klausimas, ar atšaukti sutikimą.
+
+7. Paprastai bylos nagrinėjimas teisme baigiamas ir sprendimas dėl įvaikinimo priimamas ne vėliau kaip per du mėnesius nuo pareiškimo priėmimo dienos. Išimtiniais atvejais, kai tai būtina dėl vaiko interesų, šis terminas gali būti pratęstas.
+
+TAR pastaba. Iki įstatymo Nr. XII-2236 įsigaliojimo (2016-01-01) pradėtos bylos, nurodytos Lietuvos Respublikos civilinio proceso kodekso V dalies XXIX skyriuje ir XXX skyriaus antrajame skirsnyje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
 
 485 straipsnis. Įvaikinamo vaiko sutikimas
 
@@ -8557,7 +8703,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 489 straipsnis. Sutikimo įvaikinti atšaukimas
 
-1. Tėvai, globėjai (rūpintojai) gali atšaukti savo duotą sutikimą įvaikinti. Jei sutikimas įvaikinti nepilnamečių ar neveiksnių tėvų vaiką buvo duotas jų tėvų ar globėjų (rūpintojų), tai, kai vaiko tėvai tampa pilnamečiais ar veiksniais, sutikimas įvaikinti netenka galios. Pareiškimas dėl sutikimo įvaikinti atšaukimo paduodamas tam teismui, kuris patvirtino sutikimą įvaikinti.
+1. Tėvai, globėjai (rūpintojai) gali atšaukti savo duotą sutikimą įvaikinti. Jei sutikimas įvaikinti nepilnamečių ar neveiksnių šioje srityje tėvų vaiką buvo duotas jų tėvų ar globėjų (rūpintojų), tai, kai vaiko tėvai tampa pilnamečiais ar veiksniais šioje srityje, sutikimas įvaikinti netenka galios. Pareiškimas dėl sutikimo įvaikinti atšaukimo paduodamas tam teismui, kuris patvirtino sutikimą įvaikinti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 2. Pareiškime dėl sutikimo įvaikinti vaiką atšaukimo turi būti nurodyti:
 
@@ -8605,7 +8755,11 @@ Bendrosios nuostatos
 
 491 straipsnis. Leistinumas ir teismo vaidmuo
 
-1. Šiame skyriuje nustatyta tvarka nagrinėjamos bylos dėl globos (rūpybos) nustatymo nepilnamečiams asmenims bei pilnamečiams asmenims, kurie teismo sprendimu yra pripažinti neveiksniais ar ribotai veiksniais, taip pat bylos dėl rūpybos nustatymo veiksniems asmenims.
+1. Šiame skyriuje nustatyta tvarka nagrinėjamos bylos dėl globos (rūpybos) nustatymo nepilnamečiams asmenims bei pilnamečiams asmenims, kurie teismo sprendimu yra pripažinti neveiksniais tam tikroje srityje ar ribotai veiksniais tam tikroje srityje, taip pat bylos dėl rūpybos nustatymo veiksniems asmenims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 2. Bylą nagrinėjantis teismas turi imtis visų būtinų priemonių, kad būtų apsaugotos globos ar rūpybos reikalingų asmenų teisės ir interesai.
 
@@ -8613,7 +8767,11 @@ Bendrosios nuostatos
 
 493 straipsnis. Turto administratoriaus paskyrimas
 
-1. Jei neveiksnus ar ribotai veiksnus asmuo turi nekilnojamųjų ar kilnojamųjų daiktų, kuriems reikalinga nuolatinė priežiūra (įmonė, žemė, pastatas ir kt.), teismas pagal globos ir rūpybos institucijos prašymą ar savo iniciatyva paskiria turto administratorių. Šiuo administratoriumi būti skiriamas globėjas (rūpintojas) arba kitas asmuo.
+1. Jei neveiksnus tam tikroje srityje ar ribotai veiksnus tam tikroje srityje asmuo turi nekilnojamųjų ar kilnojamųjų daiktų, kuriems reikalinga nuolatinė priežiūra (įmonė, žemė, pastatas ir kt.), teismas pagal globos ir rūpybos institucijos prašymą ar savo iniciatyva paskiria turto administratorių. Šiuo administratoriumi gali būti skiriamas globėjas (rūpintojas) arba kitas asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 2. Turto administratoriaus paskyrimo klausimas išsprendžiamas teismo nutartimi. Paskirtam turto administratoriui jo teises ir pareigas išaiškina teismas.
 
@@ -8643,7 +8801,13 @@ Bendrosios nuostatos
 
 Pareiškime turi būti pateikti duomenys apie vaiką, nurodyti šio Kodekso 498 straipsnio 1 punkte, taip pat:
 
-1) prašoma taikyti globos ar rūpybos forma ir jos pagrindimas;
+1) prašoma taikyti globos ar rūpybos forma ir jos pagrindimas, o tais atvejais, kai vaiko globėju ar rūpintoju rekomenduojama skirti vaikų globos (rūpybos) instituciją, taip pat duomenys apie priemones, kurios buvo panaudotos siekiant užtikrinti vaiko globą ar rūpybą šeimoje arba šeimynoje;
+
+TAR pastaba. Iki įstatymo Nr. XII-2236 įsigaliojimo (2016-01-01) pradėtos bylos, nurodytos Lietuvos Respublikos civilinio proceso kodekso V dalies XXIX skyriuje ir XXX skyriaus antrajame skirsnyje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
 
 2) duomenys apie asmenį, kurį rekomenduojama skirti globėju ar rūpintoju (fizinio asmens – vardas, pavardė, asmens kodas, gimimo data ir vieta, gyvenamoji vieta, darbovietė, šeiminė ir materialinė padėtis, sveikatos būklė, giminystės ryšys ir santykiai su globos ar rūpybos reikalingu vaiku, moralinės ir kitokios savybės, jo galimybė būti globėju ar rūpintoju ir atlikti globėjo ar rūpintojo pareigas; juridinio asmens – kodas, kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų rekvizitai, buveinė, finansinė būklė);
 
@@ -8657,7 +8821,7 @@ Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
 
 500 straipsnis. Įrodymų pateikimas
 
-Prie pareiškimo atitinkamai turi būti pridėta:
+1. Prie pareiškimo atitinkamai turi būti pridėta:
 
 1) įrodymai, pagrindžiantys reikalingumą nustatyti vaiko nuolatinę globą ar rūpybą;
 
@@ -8669,9 +8833,23 @@ Prie pareiškimo atitinkamai turi būti pridėta:
 
 5) jei pareiškimą paduoda valstybinė vaiko teisių apsaugos institucija, prie pareiškimo turi būti pridėta išvada dėl vaiko nuolatinės globos ar rūpybos nustatymo reikalingumo ir globėjo ar rūpintojo paskyrimo.
 
+2. Jei pareiškimą dėl vaiko nuolatinės globos ar rūpybos nustatymo paduoda prokuroras, prie šio pareiškimo gali būti pridėti valstybinės vaiko teisių apsaugos institucijos pareiškimas dėl globėjo ar rūpintojo skyrimo ir išvada dėl vaiko nuolatinės globos ar rūpybos nustatymo reikalingumo ir globėjo ar rūpintojo paskyrimo. Šie valstybinės vaiko teisių apsaugos institucijos dokumentai turi būti parengti ne anksčiau kaip prieš mėnesį iki prokuroro pareiškimo teismui įteikimo dienos.
+
+TAR pastaba. Iki įstatymo Nr. XII-2236 įsigaliojimo (2016-01-01) pradėtos bylos, nurodytos Lietuvos Respublikos civilinio proceso kodekso V dalies XXIX skyriuje ir XXX skyriaus antrajame skirsnyje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
+
 501 straipsnis. Pasirengimas nagrinėti bylą
 
-1. Priėmęs prokuroro pareiškimą dėl vaiko nuolatinės globos ar rūpybos nustatymo, teismas paveda valstybinei vaiko teisių apsaugos institucijai pateikti pareiškimą dėl globėjo ar rūpintojo skyrimo bei išvadą dėl vaiko nuolatinės globos ar rūpybos nustatymo reikalingumo ir globėjo ar rūpintojo paskyrimo.
+1. Priėmęs prokuroro pareiškimą dėl vaiko nuolatinės globos ar rūpybos nustatymo, teismas paveda valstybinei vaiko teisių apsaugos institucijai pateikti pareiškimą dėl globėjo ar rūpintojo skyrimo ir išvadą dėl vaiko nuolatinės globos ar rūpybos nustatymo reikalingumo ir globėjo ar rūpintojo paskyrimo, išskyrus atvejus, kai šie dokumentai pateikiami kartu su prokuroro pareiškimu.
+
+TAR pastaba. Iki įstatymo Nr. XII-2236 įsigaliojimo (2016-01-01) pradėtos bylos, nurodytos Lietuvos Respublikos civilinio proceso kodekso V dalies XXIX skyriuje ir XXX skyriaus antrajame skirsnyje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
 
 2. Priėmęs valstybinės vaiko teisių apsaugos institucijos pareiškimą dėl vaiko nuolatinės globos ar rūpybos nustatymo ir (ar) globėjo ar rūpintojo paskyrimo, teismas, jeigu globėju ar rūpintoju rekomenduojama skirti fizinį asmenį arba šeimyną, išreikalauja duomenis apie šio fizinio asmens ir kartu su juo gyvenančių kitų asmenų ar šeimynos narių teistumą ir administracinės teisės pažeidimus.
 
@@ -8707,6 +8885,14 @@ Prie pareiškimo atitinkamai turi būti pridėta:
 
 4. Paskirtam globėjui ar rūpintojui, turto administratoriui teismas išaiškina jų teises ir pareigas.
 
+5. Paprastai bylos dėl vaiko nuolatinės globos ar rūpybos nustatymo ir (ar) globėjo ar rūpintojo paskyrimo (kai kartu nepareiškiama kitų reikalavimų, dėl kurių kyla ginčas) nagrinėjimas teisme baigiamas ir teismo nutartis dėl vaiko nuolatinės globos ar rūpybos nustatymo priimama ne vėliau kaip per vieną mėnesį nuo dienos, kurią buvo baigta pasirengti bylą nagrinėti teisme. Išimtiniais atvejais, kai tai būtina dėl vaiko interesų, bylos nagrinėjimas gali būti pratęstas.
+
+TAR pastaba. Iki įstatymo Nr. XII-2236 įsigaliojimo (2016-01-01) pradėtos bylos, nurodytos Lietuvos Respublikos civilinio proceso kodekso V dalies XXIX skyriuje ir XXX skyriaus antrajame skirsnyje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
+
 Straipsnio pakeitimai:
 
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
@@ -8717,11 +8903,19 @@ bylos dėl Pilnamečių asmenų globos ir rūpybos
 
 508 straipsnis. Teismo nutartis
 
-1. Pareiškimas dėl globos ar rūpybos nustatymo, globėjo ar rūpintojo paskyrimo neveiksniam ar ribotai veiksniam asmeniui išsprendžiamas teismo nutartimi.
+1. Pareiškimas dėl globos ar rūpybos nustatymo, globėjo ar rūpintojo paskyrimo neveiksniam tam tikroje srityje ar ribotai veiksniam tam tikroje srityje asmeniui išsprendžiamas teismo nutartimi.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 2. Tenkinant pareiškimą dėl nuolatinės globos ar rūpybos nustatymo, nutartyje nurodomi duomenys apie globotinį ar rūpintinį, o kai tenkinamas pareiškimas dėl globėjo ar rūpintojo paskyrimo, papildomai nurodomi duomenys apie globėją ar rūpintoją.
 
-3. Jei neveiksnus ar ribotai veiksnus asmuo turi nekilnojamųjų ar kilnojamųjų daiktų, kuriems reikalinga nuolatinė priežiūra, teismas paskiria to turto administratorių.
+3. Jei neveiksnus tam tikroje srityje ar ribotai veiksnus tam tikroje srityje asmuo turi nekilnojamųjų ar kilnojamųjų daiktų, kuriems reikalinga nuolatinė priežiūra, teismas paskiria to turto administratorių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 4. Paskirtam globėjui ar rūpintojui, taip pat turto administratoriui teismas išaiškina jų teises ir pareigas.
 
@@ -9435,7 +9629,11 @@ Policijos ar išieškotojo pareiškimu teismas priima nutartį išieškoti iš s
 
 628 straipsnis. Vykdomosios bylos sustabdymo terminai
 
-1. Vykdomoji byla sustabdoma, kol po skolininko (išieškotojo) mirties ar juridinio asmens reorganizavimo (likvidavimo) atsiras jo teisių perėmėjas, neveiksniam asmeniui bus paskirtas globėjas arba išnyks kitos aplinkybės, dėl kurių vykdomoji byla buvo sustabdyta.
+1. Vykdomoji byla sustabdoma, kol po skolininko (išieškotojo) mirties ar juridinio asmens reorganizavimo (likvidavimo) atsiras jo teisių perėmėjas, neveiksniam tam tikroje srityje asmeniui bus paskirtas globėjas arba išnyks kitos aplinkybės, dėl kurių vykdomoji byla buvo sustabdyta.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 2. Vykdomoji byla atnaujinama išieškotojo ar skolininko pareiškimu arba antstolio iniciatyva.
 
@@ -10401,7 +10599,11 @@ teisenoje
 
 789 straipsnis. Principai
 
-1. Išimtinai tik Lietuvos Respublikos teismai gali nagrinėti bylas dėl fizinio asmens pripažinimo neveiksniu ar ribotai veiksniu, paskelbimo mirusiu ar pripažinimo nežinia kur esančiu, jeigu šis asmuo yra Lietuvos Respublikos pilietis arba asmuo be pilietybės, bet jo nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje.
+1. Išimtinai tik Lietuvos Respublikos teismai gali nagrinėti bylas dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, paskelbimo mirusiu ar pripažinimo nežinia kur esančiu, jeigu šis asmuo yra Lietuvos Respublikos pilietis arba asmuo be pilietybės, bet jo nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 2. Lietuvos Respublikos teismas turi teisę taip pat pripažinti mirusiu ar nežinia kur esančiu užsienietį, jeigu:
 
@@ -10601,7 +10803,11 @@ Nr. IX-2171, 2004-04-27, Žin., 2004, Nr. 72-2494 (2004-04-30)
 
 2) pagal Lietuvos Respublikos teisę ar tarptautinės sutarties nuostatas byla priskirtina išimtinai Lietuvos Respublikos ar trečiosios valstybės teismų kompetencijai;
 
-3) šaliai, kuri nedalyvavo nagrinėjant bylą, nebuvo tinkamai pranešta apie civilinės bylos iškėlimą bei proceso metu nebuvo sudarytos procesinės gynybos galimybės, o tais atvejais, kai ji buvo neveiksni, – tinkamo atstovavimo galimybės;
+3) šaliai, kuri nedalyvavo nagrinėjant bylą, nebuvo tinkamai pranešta apie civilinės bylos iškėlimą bei proceso metu nebuvo sudarytos procesinės gynybos galimybės, o tais atvejais, kai ji buvo neveiksni tam tikroje srityje ar jos veiksnumas tam tikroje srityje buvo apribotas, – tinkamo atstovavimo galimybės;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 4) užsienio teismo sprendimas, kurio pripažinimo yra prašoma, nėra suderinamas su Lietuvos Respublikos teismo sprendimu, priimtu byloje tarp tų pačių šalių;
 
