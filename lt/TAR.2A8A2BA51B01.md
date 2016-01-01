@@ -4,7 +4,7 @@ identifier: "TAR.2A8A2BA51B01"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2010-11-11"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2A8A2BA51B01"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2010-11-11 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1928, i. k. 1031010ISTA0IX-1539
 
@@ -31,11 +31,13 @@ Vilnius
 
 1 straipsnis. Tarnybos tęstinumas
 
-1. Pareigūnai, iki Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo (toliau – Statuto patvirtinimo įstatymas) įsigaliojimo tarnavę vidaus reikalų sistemoje arba Lietuvos teisės universiteto policijos fakultetuose (nuo 2004 m. lapkričio 10 d. – Mykolo Romerio universiteto policijos fakultetuose, nuo 2007 m. spalio 18 d. – Mykolo Romerio universiteto Viešojo saugumo fakultete), Tarnybos vidaus reikalų sistemoje statuto (Žin., 1991, Nr. 25-679; 1992, Nr. 7-205, Nr. 25-738; 1993, Nr. 56-1102; 1998, Nr. 44-1207; 1999, Nr. 21-592; 2000, Nr. 14-363) nustatyta tvarka laikomi vidaus tarnybos sistemos pareigūnais, tarnaujančiais Statuto patvirtinimo įstatymo nustatyta tvarka.
+1. Pareigūnai, iki Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo (toliau – Statuto patvirtinimo įstatymas) įsigaliojimo tarnavę vidaus reikalų sistemoje, Tarnybos vidaus reikalų sistemoje statuto nustatyta tvarka laikomi vidaus tarnybos sistemos pareigūnais, tarnaujančiais Statuto patvirtinimo įstatymo nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1075, 2010-10-26, Žin., 2010, Nr. 132-6719 (2010-11-11), i. k. 1101010ISTA0XI-1075
+
+Nr. XII-1912, 2015-06-30, paskelbta TAR 2015-07-03, i. k. 2015-10827
 
 2. Pareigūnai, kurie įsigaliojus Statuto patvirtinimo įstatymui eina pareigas vidaus reikalų sistemoje neturėdami reikiamo išsilavinimo, negali dalyvauti atrankoje aukštesnėms pareigoms eiti.
 
@@ -59,7 +61,11 @@ Nr. X-804, 2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08), i. k. 1061010ISTA0
 
 3) Universiteto Viešojo saugumo fakulteto pareigūnams darbo užmokestis, pensijos mokami ir kitos socialinės garantijos taikomos vadovaujantis Valstybės tarnybos įstatymu (Žin., 1999, Nr. 66-2130; 2002, Nr. 45-1708, Nr. 73-3103, Nr. 116-5192, Nr. 123-5541, Nr. 127-5750; 2003, Nr. 17-705) ir Statuto patvirtinimo įstatymo patvirtintu Vidaus tarnybos statutu;
 
-4) Universiteto Viešojo saugumo fakulteto dieninių studijų, kuriose rengiami vidaus tarnybos sistemos pareigūnai, programų studentų gyvybė ir sveikata privalomai draudžiama valstybės biudžeto lėšomis nuo nelaimingų atsitikimų viešosios tvarkos palaikymo bei praktikos vidaus reikalų statutinėse įstaigose metu, taip pat tarnybinių ir specialaus rengimo užsiėmimų metu Vidaus tarnybos statute nustatytais dydžiais ir tvarka. Šiems studentams mokamos įstatymais ir Vyriausybės nutarimais nustatytos stipendijos ir jie nemokamai aprūpinami uniforma.
+4) Mykolo Romerio universiteto Viešojo saugumo fakulteto nuolatinės studijų formos studijų, skirtų vidaus tarnybos sistemos pareigūnams rengti, programų studentų gyvybė ir sveikata Vyriausybės nustatytu mastu ir tvarka privalomai draudžiama valstybės biudžeto lėšomis nuo nelaimingų atsitikimų viešosios tvarkos palaikymo ir praktikos vidaus reikalų statutinėse įstaigose metu, taip pat tarnybinių ir specialaus rengimo užsiėmimų metu. Šie studentai nemokamai aprūpinami uniforma.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1912, 2015-06-30, paskelbta TAR 2015-07-03, i. k. 2015-10827
 
 Straipsnio dalies pakeitimai:
 
@@ -216,4 +222,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1075, 2010-10-26, Žin., 2010, Nr. 132-6719 (2010-11-11), i. k. 1101010ISTA0XI-1075
 
 Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymo 1 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1912, 2015-06-30, paskelbta TAR 2015-07-03, i. k. 2015-10827
+
+Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymo Nr. IX-1539 1 straipsnio pakeitimo įstatymas
 
