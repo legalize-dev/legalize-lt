@@ -4,7 +4,7 @@ identifier: "TAR.74602705CADB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-25"
-last_updated: "2015-03-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.74602705CADB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas
 
-Suvestinė redakcija nuo 2015-03-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3008, i. k. 1021010ISTA00IX-986
 
@@ -104,7 +104,11 @@ ATSARGŲ KAUPIMO ĮGYVENDINIMO IR PRIEŽIŪROS SUBJEKTAI
 
 2. Atlikdami Agentūros, įpareigotųjų įmonių ir kitų įmonių, teikiančių atsargų kaupimo ir tvarkymo paslaugas, patikrinimus, Inspekcijos pareigūnai turi teisę, neatsižvelgdami į atsargų nuosavybę, laikymo vietą ar sąlygas, patekti į Agentūros, įpareigotųjų įmonių ir kitų įmonių, teikiančių atsargų kaupimo ir tvarkymo paslaugas, teritoriją ar patalpas ir patikrinti su atsargų kaupimu ir tvarkymu susijusius dokumentus ir duomenis, atsargų tvarkymą, naudojimą, terminalų, kuriuose laikomos atsargos, techninę būklę, jų tinkamumą atsargoms laikyti. Šie patikrinimai įforminami aktu, kurio formą ir užpildymo tvarką nustato Inspekcija. Šiuose patikrinimuose gali dalyvauti ir kitų valstybės institucijų atstovai. Inspekcija informuoja Energetikos ministeriją apie šių patikrinimų rezultatus.
 
-3. Atsargų kokybę Taisyklėse nustatyta tvarka kontroliuoja Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos.
+3. Atsargų kokybę Taisyklėse nustatyta tvarka kontroliuoja Valstybinė vartotojų teisių apsaugos tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1890, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11084
 
 4. Atsargų, laikomų kitose valstybėse narėse, kaupimo ir tvarkymo priežiūra atliekama šių valstybių narių teisės aktuose nustatyta tvarka.
 
@@ -427,6 +431,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
 
 Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 2, 5, 7, 11, 14, 15, 16, 19 ir 21 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1890, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11084
+
+Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 4 straipsnio pakeitimo įstatymas
 
 15 straipsnis. Atsargų panaudojimas ir nurašymas
 
