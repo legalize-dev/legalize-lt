@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-03-29
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
 
@@ -43,7 +43,11 @@ BENDROSIOS NUOSTATOS
 
 2) asmenys, nurodyti Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalies 2 punkte;
 
-3) profesinių mokyklų mokiniai, aukštųjų mokyklų studentai ir asmenys, teritorinių darbo biržų siųsti profesiniam mokymui ar profesinei reabilitacijai, – jų profesinės veiklos praktikos įstaigoje ar įmonėje laikui; asmenys, atliekantys savanorišką praktiką Užimtumo rėmimo įstatymo nustatyta tvarka, – savanoriškos praktikos sutarties galiojimo laikotarpiu;
+3) profesinių mokyklų mokiniai, aukštųjų mokyklų studentai ir asmenys, teritorinių darbo biržų siųsti profesiniam mokymui ar profesinei reabilitacijai, – jų profesinės veiklos praktikos įstaigoje ar įmonėje laikui; asmenys, kurie mokosi pataisos pareigūnų švietimo įstaigoje pagal profesinio mokymo programas (kursantai), – jų mokymo ir pratybų laikui; asmenys, atliekantys savanorišką praktiką Užimtumo rėmimo įstatymo nustatyta tvarka, – savanoriškos praktikos sutarties galiojimo laikotarpiu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1991, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18258
 
 4) asmenys, esantys socialinės bei psichologinės reabilitacijos įstaigose, – šių asmenų darbo laikui;
 
@@ -107,7 +111,11 @@ Nr. XI-640, 2009-12-22, Žin., 2010, Nr. 1-35 (2010-01-05)
 
 1) (neteko galios nuo 2009 m. gruodžio 28 d.);
 
-2) apdraustasis nukentėjo dėl savo veikos, kurioje ikiteisminio tyrimo institucija arba teismas nustatė nusikalstamos veikos požymius arba kad ši veika yra susijusi su administraciniu teisės pažeidimu, išskyrus darbo saugos ar darbo higienos norminių teisės aktų pažeidimus;
+2) apdraustasis nukentėjo dėl savo veikos, kurioje ikiteisminio tyrimo institucija arba teismas nustatė nusikalstamos veikos požymius arba kad ši veika yra susijusi su administraciniu nusižengimu, išskyrus darbo saugos ar darbo higienos norminių teisės aktų pažeidimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1991, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18258
 
 3) apdraustasis sąmoningai (tyčia) siekė, kad įvyktų nelaimingas atsitikimas;
 
@@ -215,7 +223,11 @@ Nr. X-1840, 2008-11-14, Žin., 2008, Nr. 137-5384 (2008-11-29)
 
 2. Nukentėjusiųjų gydymo ir medicininės reabilitacijos paslaugos kompensuojamos Sveikatos draudimo įstatymo nustatyta tvarka.
 
-3. Šis Įstatymas netaikomas asmenims, kurie įstatymų nustatyta tvarka valstybės lėšomis yra apdrausti nelaimingų atsitikimų, susijusių su tarnyba, draudimu ir (arba) kurių profesinę veiklą reglamentuojančiuose teisės aktuose numatytas kompensacijų mokėjimas juos sužeidus arba jiems žuvus dėl tarnybos.
+3. Šis Įstatymas netaikomas asmenims, kurie įstatymų nustatyta tvarka valstybės lėšomis yra apdrausti nelaimingų atsitikimų, susijusių su tarnyba, draudimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1991, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18258
 
 Straipsnio pakeitimai:
 
@@ -223,15 +235,27 @@ Nr. IX-2262, 2004-06-08, Žin., 2004, Nr. 98-3624 (2004-06-24)
 
 3 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
-1. Apdraustasis – privalomai draudžiamas nelaimingų atsitikimų darbe socialiniu draudimu asmuo, apie kurio draudimą teisės aktų nustatyta tvarka draudėjas pateikė pranešimą Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui arba už kurį jis mokėjo ar privalėjo mokėti nelaimingų atsitikimų darbe socialinio draudimo įmokas.
+1. Apdraustasis – privalomai draudžiamas nelaimingų atsitikimų darbe socialiniu draudimu asmuo, apie kurio draudimą teisės aktų nustatyta tvarka draudėjas pateikė pranešimą Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui ar Valstybinio socialinio draudimo fondo valdybos Karinių ir joms prilygintų struktūrų skyriui (toliau šis skyrius taip pat vadinamas Valstybinio socialinio draudimo fondo valdybos teritoriniu skyriumi) arba už kurį jis mokėjo ar privalėjo mokėti nelaimingų atsitikimų darbe socialinio draudimo įmokas.
 
-2. Apdraustojo asmens draudžiamosios pajamos – visos pajamos, nuo kurių buvo mokamos arba turėjo būti mokamos valstybinio socialinio draudimo įmokos nelaimingų atsitikimų darbe socialiniam draudimui, taip pat priskaičiuotos ligos dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos pašalpos, nustatytos šiame Įstatyme, priskaičiuotos ligos, profesinės reabilitacijos, motinystės, tėvystės, motinystės (tėvystės) pašalpos, nustatytos Ligos ir motinystės socialinio draudimo įstatyme, bei priskaičiuotos nedarbo socialinio draudimo išmokos, kurios pagal Nedarbo socialinio draudimo įstatymą yra mokamos bedarbiams. Apdraustojo asmens draudžiamosioms pajamoms taip pat prilyginamos sumos, nuo kurių Biudžeto sandaros įstatyme nurodyti valstybės biudžeto asignavimų valdytojai skaičiuoja valstybinio socialinio draudimo įmokas nelaimingų atsitikimų darbe socialiniam draudimui už profesinių mokyklų mokinius, aukštųjų mokyklų studentus, asmenis, teritorinių darbo biržų siųstus profesiniam mokymui ar profesinei reabilitacijai, ir asmenis, atliekančius savanorišką praktiką Užimtumo rėmimo įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1991, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18258
+
+2. Apdraustojo asmens draudžiamosios pajamos – visos pajamos, nuo kurių buvo mokamos arba turėjo būti mokamos valstybinio socialinio draudimo įmokos nelaimingų atsitikimų darbe socialiniam draudimui, taip pat priskaičiuotos ligos dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos pašalpos, nustatytos šiame Įstatyme, priskaičiuotos ligos, profesinės reabilitacijos, motinystės, tėvystės, motinystės (tėvystės) pašalpos, nustatytos Ligos ir motinystės socialinio draudimo įstatyme, bei priskaičiuotos nedarbo socialinio draudimo išmokos, kurios pagal Nedarbo socialinio draudimo įstatymą yra mokamos bedarbiams. Apdraustojo asmens draudžiamosioms pajamoms taip pat prilyginamos sumos, nuo kurių Biudžeto sandaros įstatyme nurodyti valstybės biudžeto asignavimų valdytojai skaičiuoja valstybinio socialinio draudimo įmokas nelaimingų atsitikimų darbe socialiniam draudimui už profesinių mokyklų mokinius, aukštųjų mokyklų studentus, asmenis, teritorinių darbo biržų siųstus profesiniam mokymui ar profesinei reabilitacijai, taip pat asmenis, kurie mokosi pataisos pareigūnų švietimo įstaigoje pagal profesinio mokymo programas (kursantus), ir asmenis, atliekančius savanorišką praktiką Užimtumo rėmimo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1991, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18258
 
 3. Darbingumo netekimas – darbingumo netekimas dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba dėl susirgimo profesine liga. Netektas darbingumas išreiškiamas procentais. Jei nukentėjusysis miršta dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba dėl ūmios profesinės ligos, laikoma, kad netekta 100 procentų darbingumo. Darbingumo netekimą dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba susirgimo profesine liga Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nustato Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – NDNT).
 
 4. Darbingumo netekimo koeficientas (d) – vieneto dalimis išreikštas dydis, apskaičiuojamas netekto darbingumo procentą dalijant iš 100.
 
-5. Darbo vieta – vieta, kurioje asmuo dirba ar privalo dirbti darbo sutartyje sulygtą darbą arba atlieka viešojo administravimo funkcijas.
+5. Darbo (tarnybos) vieta (toliau – darbo vieta) – vieta, kurioje asmuo dirba ar privalo dirbti darbo sutartyje sulygtą darbą arba atlieka viešojo administravimo funkcijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1991, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18258
 
 6. Draudėjas – darbdavys, kaip nustatyta Darbo kodekso 16 straipsnyje, taip pat valstybės ar savivaldybės institucija ar įstaiga bei įmonė, mokantys arba pagal įstatymus privalantys mokėti valstybinio socialinio draudimo įmokas nelaimingų atsitikimų darbe socialiniam draudimui.
 
@@ -249,9 +273,13 @@ Nr. IX-2262, 2004-06-08, Žin., 2004, Nr. 98-3624 (2004-06-24)
 
 10. Kompensavimo koeficiento (k) ribos – šio Įstatymo nustatytoms išmokoms apskaičiuoti taikomas kompensavimo koeficientas, ne mažesnis kaip 0,25 ir ne didesnis kaip 3.
 
-11. Nelaimingas atsitikimas darbe – įvykis darbe, įskaitant eismo įvykį, atliekant darbo funkcijas ar būnant darbo vietoje, dėl kurio darbuotojas patiria žalą sveikatai ir netenka darbingumo nors vienai dienai arba dėl kurio darbuotojas miršta, nustatyta tvarka ištirtas ir pripažintas nelaimingu atsitikimu darbe.
+11. Nelaimingas atsitikimas darbe (tarnyboje) (toliau – nelaimingas atsitikimas darbe) – įvykis darbe (tarnyboje), įskaitant eismo įvykį, atliekant darbo (tarnybos) funkcijas ar būnant darbo vietoje, dėl kurio darbuotojas patiria žalą sveikatai ir netenka darbingumo nors vienai dienai arba dėl kurio darbuotojas miršta, nustatyta tvarka ištirtas ir pripažintas nelaimingu atsitikimu darbe. Nelaimingu atsitikimu darbe taip pat pripažįstamas su pareigūno tarnybinių pareigų atlikimu susijęs įvykis, kurio metu pareigūnas patiria rizikos veiksnio (cheminio, fizikinio, biologinio, fizinio arba ergonominio) ar kelių veiksnių poveikį, kurio padarinys yra pareigūno mirtis ar sveikatos sutrikdymas.
 
-12. Nelaimingas atsitikimas pakeliui į darbą ar iš darbo – įvykis, įskaitant eismo įvykį, darbuotojui vykstant į darbą ar iš darbo darbuotojo darbo dienomis kelyje tarp darbo vietos ir:
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1991, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18258
+
+12. Nelaimingas atsitikimas pakeliui į darbą (tarnybą) ar iš darbo (tarnybos) (toliau – nelaimingas atsitikimas pakeliui į darbą ar iš darbo) – įvykis, įskaitant eismo įvykį, darbuotojui vykstant į darbą (tarnybą) ar iš darbo (tarnybos) darbuotojo darbo dienomis kelyje tarp darbo vietos ir:
 
 1) gyvenamosios vietos;
 
@@ -260,6 +288,10 @@ Nr. IX-2262, 2004-06-08, Žin., 2004, Nr. 98-3624 (2004-06-24)
 3) vietos ne darbovietės teritorijoje, kurioje darbuotojas gali būti pertraukos pailsėti ir pavalgyti metu;
 
 4) kitos darbovietės. Šiuo atveju nelaimingą atsitikimą pakeliui į darbą tiria darbdavio, pas kurį vykstama, sudaryta komisija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1991, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18258
 
 13. Nukentėjusysis – apdraustasis, kurio sveikatai yra padaryta žala dėl draudiminiu įvykiu pripažinto nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba dėl draudiminiu įvykiu pripažintos nustatytos profesinės ligos.
 
@@ -299,7 +331,13 @@ Nr. XII-1003, 2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10430
 
 5) bausmių vykdymo institucijos ir įstaigos.
 
-6) įmonės, įstaigos, organizacijos ar kitos organizacinės struktūros, kuriose asmenys atlieka savanorišką praktiką Užimtumo rėmimo įstatymo nustatyta tvarka.
+6) įmonės, įstaigos, organizacijos ar kitos organizacinės struktūros, kuriose asmenys atlieka savanorišką praktiką Užimtumo rėmimo įstatymo nustatyta tvarka;
+
+7) pataisos pareigūnų švietimo įstaigos, kuriose mokosi asmenys pagal profesinio mokymo programas (kursantai).
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1991, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18258
 
 Straipsnio pakeitimai:
 
@@ -517,7 +555,11 @@ Nr. XI-401, 2009-07-23, Žin., 2009, Nr. 93-3990 (2009-08-04)
 
 1. Šiame Įstatyme nustatytos valstybinio socialinio draudimo rūšies valstybinio socialinio draudimo įmokos už kiekvieną apdraustąjį, nurodytą šio Įstatymo 4 straipsnio 1 dalies 1, 2 punktuose, skaičiuojamos ir mokamos įstatymų nustatyta tvarka kartu su kitomis valstybinio socialinio draudimo įmokomis.
 
-2. Valstybinio socialinio draudimo įmokos už apdraustuosius, nurodytus šio Įstatymo 4 straipsnio 1 dalies 3 punkte, Valstybinio socialinio draudimo įstatymo ir Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka valstybės lėšomis mokamos už tą laiką, kurį jie atlieka profesinės veiklos praktiką arba savanorišką praktiką Užimtumo rėmimo įstatymo nustatyta tvarka. Valstybinio socialinio draudimo įmokos už apdraustuosius, nurodytus šio Įstatymo 4 straipsnio 1 dalies 4 ir 5 punktuose, mokamos už tą laiką, kurį jiems už darbą mokamas darbo užmokestis.
+2. Valstybinio socialinio draudimo įmokos už apdraustuosius, nurodytus šio Įstatymo 4 straipsnio 1 dalies 3 punkte, Valstybinio socialinio draudimo įstatymo ir Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka valstybės lėšomis mokamos už tą laiką, kurį jie atlieka profesinės veiklos praktiką arba savanorišką praktiką Užimtumo rėmimo įstatymo nustatyta tvarka, taip pat už pataisos pareigūnų švietimo įstaigose pagal profesinio mokymo programas besimokančių asmenų (kursantų) mokymo ir pratybų laiką. Valstybinio socialinio draudimo įmokos už apdraustuosius, nurodytus šio Įstatymo 4 straipsnio 1 dalies 4 ir 5 punktuose, mokamos už tą laiką, kurį jiems už darbą mokamas darbo užmokestis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1991, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18258
 
 Straipsnio pakeitimai:
 
