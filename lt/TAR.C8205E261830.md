@@ -4,7 +4,7 @@ identifier: "TAR.C8205E261830"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-14"
-last_updated: "2015-10-28"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2015-10-28 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
 
@@ -586,10 +586,6 @@ Nr. IX-495, 2001-08-03, Žin., 2001, Nr. 71-2523 (2001-08-17), i. k. 1011010ISTA
 
 4. Valstybės bei savivaldybių valdininkai ir kiti darbuotojai, atliekantys vaikų auklėjimo funkcijas, įstatymų nustatyta tvarka gali būti atleisti iš darbo, kai jų elgesys, nors ir ne darbo metu, yra amoralus.
 
-X SKYRIUS
-
-VAIKO TEISIŲ APSAUGOS INSTITUCIJŲ SISTEMA
-
 58 straipsnis. Vaiko teisių apsaugos institucijos ir jų veiklos organizavimas
 
 1. Vaiko teisių apsaugą Lietuvos Respublikoje užtikrina:
@@ -731,4 +727,32 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1965, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16900
 
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 43, 47 straipsnių pakeitimo ir Įstatymo papildymo 57-1 straipsniu ir priedu įstatymas
+
+571 straipsnis. Asmenų, pripažintų kaltais už nusikalstamas veikas, darbo apribojimai
+
+1. Asmenims, įsiteisėjusiu apkaltinamuoju teismo nuosprendžiu pripažintiems kaltais už veikas, nurodytas Baudžiamojo kodekso XXI skyriuje, ar už kitas nusikalstamas veikas, susijusias su vaiko seksualiniu išnaudojimu, vaikų pornografija ar prostitucija, t. y. už vaiko išnaudojimą pornografijai, vaiko pirkimą arba pardavimą, pelnymąsi iš vaiko prostitucijos, vaiko įtraukimą į prostituciją ar disponavimą pornografinio turinio dalykais, kuriuose vaizduojamas vaikas arba asmuo pateikiamas kaip vaikas, ar už analogiškas veikas, numatytas kitų valstybių baudžiamuosiuose įstatymuose, neatsižvelgiant į teistumo išnykimą ar panaikinimą, draudžiama:
+
+1) dirbti ar užsiimti savanoriška veikla vaikų socialinėse, švietimo ir sporto, sveikatos priežiūros paslaugas vaikams teikiančiose įstaigose, įmonėse ir organizacijose;
+
+2) dirbti darbą kitose, negu nurodytos šio straipsnio 1 dalies 1 punkte, įstaigose, įmonėse ir organizacijose, taip pat jose užsiimti savanoriška veikla, jeigu šis darbas ar savanoriška veikla tiesiogiai (nuolat ar laikinai) susiję su vaikų auklėjimu, mokymu, priežiūra ar jų saugumo užtikrinimu;
+
+3) verstis individualia veikla, jeigu ši veikla tiesiogiai (nuolat ar laikinai) susijusi su vaikų auklėjimu, mokymu, priežiūra ar jų saugumo užtikrinimu.
+
+2. Mokytojams papildomai taikomi darbo apribojimai, nustatyti Švietimo įstatyme.
+
+3. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija tvirtina sąrašą darbų, veiklų ar paslaugų, nurodytų šio straipsnio 1 dalies 2 ir 3 punktuose, kurių dirbti, atlikti ar teikti dėl tiesioginių kontaktų su vaikais neturi teisės asmenys, įsiteisėjusiu apkaltinamuoju teismo nuosprendžiu pripažinti kaltais už nusikalstamas veikas, nurodytas šio straipsnio 1 dalyje.
+
+4. Asmenys, ketinantys dirbti šio straipsnio 1 dalies 1 punkte nurodytose įstaigose, įmonėse ir organizacijose ar dirbti į šio straipsnio 3 dalyje nurodytą sąrašą įtrauktus darbus, prieš įsidarbindami darbdaviui turi pristatyti pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų apie fizinį asmenį.
+
+5. Asmenys, norintys užsiimti savanoriška veikla šio straipsnio 1 dalies 1 punkte nurodytose įstaigose, įmonėse ir organizacijose ar vykdyti į šio straipsnio 3 dalyje nurodytą sąrašą įtrauktą savanorišką veiklą, prieš pradėdami vykdyti šią veiklą ir (ar) sudarydami savanoriškos veiklos sutartį savanoriškos veiklos organizatoriui turi pristatyti pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų apie fizinį asmenį.
+
+6. Paslaugų, įtrauktų į šio straipsnio 3 dalyje nurodytą sąrašą, gavėjas, sudarantis su asmeniu, vykdančiu individualią veiklą, sutartį dėl paslaugų teikimo vaikui, turi teisę paslaugų teikėjo paprašyti, o paslaugų teikėjas privalo pateikti pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų apie fizinį asmenį.
+
+Papildyta straipsniu:
+
+Nr. XII-1965, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16900
+
+X SKYRIUS
+
+VAIKO TEISIŲ APSAUGOS INSTITUCIJŲ SISTEMA
 
