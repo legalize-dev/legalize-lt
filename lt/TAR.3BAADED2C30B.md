@@ -4,7 +4,7 @@ identifier: "TAR.3BAADED2C30B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-20"
-last_updated: "2015-12-03"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3BAADED2C30B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas
 
-Suvestinė redakcija nuo 2015-12-03 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2018-06-14
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2635, i. k. 1021010ISTA00IX-975
 
@@ -519,6 +519,18 @@ Trečiasis SKIRSNIS
 
 2. Indėlių draudimo išmokos išmokamos, išskyrus šio straipsnio 4 dalyje nustatytas išimtis, per 20 darbo dienų nuo indėlių draudžiamojo įvykio dienos.
 
+2 dalies redakcija nuo 2019 m. sausio 1 d. iki 2020 m. gruodžio 31 d.:
+
+2. Indėlių draudimo išmokos išmokamos, išskyrus šio straipsnio 4 dalyje nustatytas išimtis, per 15 darbo dienų nuo indėlių draudžiamojo įvykio dienos.
+
+2 dalies redakcija nuo 2021 m. sausio 1 d. iki 2023 m. gruodžio 31 d.:
+
+2. Indėlių draudimo išmokos išmokamos, išskyrus šio straipsnio 4 dalyje nustatytas išimtis, per 10 darbo dienų nuo indėlių draudžiamojo įvykio dienos.
+
+2 dalies redakcija nuo 2024 m. sausio 1 d.:
+
+2. Indėlių draudimo išmokos išmokamos, išskyrus šio straipsnio 4 dalyje nustatytas išimtis, per 7 darbo dienas nuo indėlių draudžiamojo įvykio dienos.
+
 3. Indėlininkas turi teisę į avansinę minimaliosios mėnesinės algos dydžio, bet ne didesnę negu indėlininko turima tinkamo drausti indėlio suma, indėlių draudimo išmokos dalį (toliau – avansinė indėlių draudimo išmoka), kuri indėlininko prašymu išmokama per 5 darbo dienas nuo jo prašymo gavimo draudimo įmonėje dienos, su sąlyga, kad draudimo įmonė neišmokės indėlių draudimo išmokos per 7 darbo dienas nuo indėlių draudžiamojo įvykio dienos. Išmokėta avansinė indėlių draudimo išmoka atimama iš bendros šiam indėlininkui apskaičiuotos indėlių draudimo išmokos sumos. Avansinės indėlių draudimo išmokos dydis apskaičiuojamas pagal šio įstatymo 6 straipsnio 7 dalį, o išmokėjimo tvarkai mutatis mutandis taikomos šio straipsnio 4, 5, 6 ir 7 dalių nuostatos.
 
 TAR pastaba. 7 straipsnio 3 dalis įsigalioja 2016 m. gegužės 31 d. 7 straipsnio 3 dalis pripažįstama netekusia galios nuo 2024 m. sausio 1 d.
@@ -837,9 +849,9 @@ INFORMAVIMAS APIE DRAUDIMĄ IR DRAUDIMO NUTRAUKIMAS
 
 33 straipsnis. Įmokos į Pertvarkymo fondą
 
-1. Pertvarkymo fonde ne vėliau kaip 2024 m. gruodžio 31 d. turi būti sukaupta suma, lygi 1 procentui visų įstaigų – bankų, Centrinės kredito unijos ir finansų maklerio įmonių, kurioms taikomas Lietuvos Respublikos finansinių priemonių rinkų įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas (toliau šiame straipsnyje – įstaigos), licencijuotų Lietuvos Respublikoje, pagrindinių apdraustųjų indėlių (toliau – Pertvarkymo fondo tikslinis lygis).
+1. Pertvarkymo fonde ne vėliau kaip 2024 m. gruodžio 31 d. turi būti sukaupta suma, lygi daliai, kurią šio straipsnio 2 dalyje nurodyti subjektai turėtų sumokėti, jeigu reikėtų sukaupti sumą, lygią vienam procentui visų įstaigų – bankų, Centrinės kredito unijos ir finansų maklerio įmonių, kuriems taikomas Lietuvos Respublikos finansinių priemonių rinkų įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas (toliau šiame straipsnyje – įstaigos), licencijuotų Lietuvos Respublikoje, pagrindinių apdraustųjų indėlių, o įmokas mokėtų visos Lietuvos Respublikos licencijuotos įstaigos ir trečiosiose valstybėse licencijuotų įstaigų Lietuvos Respublikoje įsteigti filialai (toliau – Pertvarkymo fondo tikslinis lygis).
 
-2. Įstaigos ir trečiosiose valstybėse licencijuotų įstaigų Lietuvos Respublikoje įsteigti filialai (toliau kartu – Pertvarkymo fondo dalyviai) privalo mokėti periodines (ex ante) įmokas į Pertvarkymo fondą, iki pasiekiamas šio straipsnio 1 dalyje nurodytas Pertvarkymo fondo tikslinis lygis.
+2. Pertvarkymo fondas finansuojamas Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalies 3 punkte nurodytų subjektų, kurie nepatenka į 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010 (OL 2014 L 225, p. 1), 2 straipsnyje nurodytą to reglamento taikymo apimtį, ir trečiose valstybėse licencijuotų kredito įstaigų ir finansų maklerio įmonių filialų, įsteigtų Lietuvos Respublikoje, lėšomis (toliau – Pertvarkymo fondo dalyviai). Kiti Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje išvardyti subjektai moka įmokas į Bendrą pertvarkymo fondą Reglamento (ES) Nr. 806/2014 ir jo įgyvendinamųjų teisės aktų nustatyta tvarka.
 
 3. Kiekvieno Pertvarkymo fondo dalyvio įmoka nustatoma proporcingai jo įsipareigojimų, išskyrus nuosavas lėšas ir pagrindinius apdraustuosius indėlius, sumos ir bendros visų Lietuvos Respublikoje licencijuotų įstaigų įsipareigojimų, išskyrus nuosavas lėšas ir pagrindinius apdraustuosius indėlius, sumos santykiui. Šis dydis koreguojamas įvertinus Pertvarkymo fondo dalyvio rizikos pobūdį, kaip nustatyta Europos Komisijos deleguotuosiuose ir pertvarkymo institucijos teisės aktuose.
 
@@ -879,15 +891,15 @@ INFORMAVIMAS APIE DRAUDIMĄ IR DRAUDIMO NUTRAUKIMAS
 
 35 straipsnis. Pertvarkymo fondo administravimo finansavimas
 
-1. Pertvarkymo fondo administravimas finansuojamas iš Pertvarkymo fondo dalyvių mokamų administravimo įmokų.
+1. Pertvarkymo fondo administravimas finansuojamas iš Pertvarkymo fondo dalyvių mokamų administravimo įmokų. Kiti Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje išvardyti subjektai moka įmokas Bendros pertvarkymo valdybos administracinėms išlaidoms finansuoti Reglamento (ES) Nr. 806/2014 ir jo įgyvendinamųjų teisės aktų nustatyta tvarka.
 
-2. Pertvarkymo fondo dalyvio administravimo įmokos metinė norma yra ne didesnė kaip 0,1 procento nuo jo metinės periodinės (ex ante) įmokos sumos, mokamos į Pertvarkymo fondą pagal šio įstatymo 33 straipsnį.
+2. Pertvarkymo fondo dalyvio administravimo įmokos metinė norma yra ne didesnė kaip 0,1 procento nuo jo metinės įmokos sumos, mokamos į Pertvarkymo fondą pagal šio įstatymo 33 straipsnį, bet visais atvejais mokėtina įmokos suma yra ne mažesnė kaip 1 000 eurų.
 
-3. Tam tikrų metų administravimo įmokų dydžius nustato draudimo įmonės savininko teises ir pareigas įgyvendinanti institucija. Nustatant įmokų dydį, atsižvelgiama į draudimo įmonės atliekamas funkcijas ir patiriamas išlaidas, susijusias su Pertvarkymo fondo administravimu. Draudimo įmonė, pasikonsultavusi su Pertvarkymo fondo dalyviais, pateikia draudimo įmonės savininko teises ir pareigas įgyvendinančiai institucijai pagrįstus pasiūlymus dėl tam tikrų metų administravimo įmokų dydžio. Įmokų apskaičiavimo metodiką nustato draudimo įmonės savininko teises ir pareigas įgyvendinanti institucija, gavusi priežiūros institucijos išvadą.
+3. Tam tikrų metų administravimo įmokų dydžius nustato draudimo įmonės savininko teises ir pareigas įgyvendinanti institucija. Nustatant įmokų dydį, atsižvelgiama į draudimo įmonės atliekamas funkcijas ir patiriamas išlaidas, susijusias su Pertvarkymo fondo administravimu. Draudimo įmonė, pasikonsultavusi su Pertvarkymo fondo dalyviais, pateikia draudimo įmonės savininko teises ir pareigas įgyvendinančiai institucijai pagrįstus pasiūlymus dėl tam tikrų metų administravimo įmokų dydžio. Detalią įmokų apskaičiavimo metodiką nustato draudimo įmonės savininko teises ir pareigas įgyvendinanti institucija.
 
 4. Jeigu tam tikrais metais Pertvarkymo fondo dalyvių sumokėtų administravimo įmokų suma viršija draudimo įmonės tais metais patirtas išlaidas Pertvarkymo fondui administruoti, draudimo įmonė atitinkamai sumažina kitų metų planuojamas įmokas Pertvarkymo fondo dalyviams, o perviršį panaudoja kitų metų Pertvarkymo fondo administravimui finansuoti. Jeigu tam tikrais metais Pertvarkymo fondo dalyvių sumokėtų įmokų suma yra nepakankama Pertvarkymo fondo administravimo išlaidoms padengti, draudimo įmonė atitinkamai padidina kitų metų planuojamas įmokas ir dalį įmokų panaudoja ankstesnių metų įsiskolinimui padengti.
 
-5. Pertvarkymo fondo dalyviai administravimo įmokas už einamuosius metus privalo pervesti į draudimo įmonės nurodytą sąskaitą ne vėliau kaip iki einamųjų metų gruodžio 31 dienos. Už praleistą terminą sumokėti administravimo įmokas Pertvarkymo fondo dalyviai privalo už kiekvieną pavėluotą dieną mokėti 0,02 procento delspinigius nuo nesumokėtos sumos. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą uždelstą sumą.
+5. Pertvarkymo fondo dalyviai administravimo įmokas už einamuosius metus privalo pervesti į draudimo įmonės nurodytą sąskaitą ne vėliau kaip iki einamųjų metų sausio 15 dienos. Už praleistą terminą sumokėti administravimo įmokas Pertvarkymo fondo dalyviai privalo už kiekvieną pavėluotą dieną mokėti 0,02 procento delspinigius nuo nesumokėtos sumos. Pertvarkymo fondo dalyvių sumokėtos sumos pirmiausia užskaitomos delspinigiams sumokėti. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą uždelstą sumą.
 
 PENKTASIS SKIRSNIS
 
