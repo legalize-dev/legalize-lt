@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2015-12-03"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2015-12-03 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-07-14
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -607,9 +607,17 @@ kitokioms prievolėms taikytina Teisė
 
 2. Vaikų laikinoji globa (rūpyba) organizuojama pagal vaikų laikinosios globos (rūpybos) nuostatus, kuriuos tvirtina Vyriausybė ar jos įgaliota valstybės institucija.
 
-3.244 straipsnis. Neveiksnaus ar ribotai veiksnaus asmens turto ir pajamų naudojimas
+3.244 straipsnis. Neveiksnaus tam tikroje srityje ir ribotai veiksnaus tam tikroje srityje asmens turto ir pajamų naudojimas
 
-1. Neveiksnaus ar ribotai veiksnaus asmens turtą ir jo duodamas pajamas globėjas ar rūpintojas turi naudoti išimtinai neveiksnaus ar ribotai veiksnaus asmens interesais.
+Pakeistas straipsnio pavadinimas:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
+
+1. Neveiksnaus tam tikroje srityje ar ribotai veiksnaus tam tikroje srityje asmens turtą ir jo duodamas pajamas globėjas ar rūpintojas turi naudoti išimtinai neveiksnaus tam tikroje srityje ar ribotai veiksnaus tam tikroje srityje asmens interesais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 2. Sandoriams, kurių suma didesnė kaip vienas tūkstantis penki šimtai eurų, sudaryti yra reikalingas išankstinis teismo leidimas.
 
@@ -617,7 +625,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518
 
-3. Visais atvejais yra reikalingas išankstinis teismo leidimas, jeigu globėjas nori parduoti, dovanoti ar kitokiu būdu perleisti globotinio nekilnojamąjį daiktą ar daiktines teises, jį išnuomoti, perduoti neatlygintinai naudotis, įkeisti ar kitokiu būdu suvaržyti teises į nekilnojamąjį daiktą ar daiktines teises, taip pat sudaryti bet kokį kitą sandorį, jeigu dėl šio sandorio globotinio turtas sumažėtų ar būtų perleistos ar suvaržytos globotinio daiktinės teisės. Šios taisyklės taip pat taikomos ir tais atvejais, kai rūpintojas ketina duoti sutikimą ribotai veiksniam asmeniui sudaryti analogišką sandorį.
+3. Visais atvejais yra reikalingas išankstinis teismo leidimas, jeigu globėjas nori parduoti, dovanoti ar kitokiu būdu perleisti globotinio nekilnojamąjį daiktą ar daiktines teises, jį išnuomoti, perduoti neatlygintinai naudotis, įkeisti ar kitokiu būdu suvaržyti teises į nekilnojamąjį daiktą ar daiktines teises, taip pat sudaryti bet kokį kitą sandorį, jeigu dėl šio sandorio globotinio turtas sumažėtų ar būtų perleistos ar suvaržytos globotinio daiktinės teisės. Šios taisyklės taip pat taikomos ir tais atvejais, kai rūpintojas ketina duoti sutikimą tam tikroje srityje ribotai veiksniam asmeniui sudaryti analogišką sandorį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 4. Globėjas, rūpintojas, jų artimieji giminaičiai negali sudaryti sandorių su globotiniu ar rūpintiniu, išskyrus atvejus, kai turtas globotiniui ar rūpintiniui yra dovanojamas ar perduodamas neatlygintinai naudotis, jeigu tai atitinka globotinio ar rūpintinio interesus.
 
@@ -739,7 +751,11 @@ Ieškinio senatis – tai įstatymų nustatytas laiko tarpas (terminas), per kur
 
 1. Įvaikinimui būtinas vaiko tėvų rašytinis sutikimas, patvirtintas teismo.
 
-2. Jei įvaikinamo vaiko tėvai yra nepilnamečiai ar neveiksnūs, būtinas jų tėvų arba globėjų (rūpintojų) rašytinis sutikimas, patvirtintas teismo. Jei įvaikinamas vaikas turi įstatymų nustatyta tvarka paskirtą globėją (rūpintoją) (išskyrus valstybinę globos instituciją), būtinas globėjo (rūpintojo) rašytinis sutikimas, patvirtintas teismo.
+2. Jei įvaikinamo vaiko tėvai yra nepilnamečiai ar neveiksnūs šioje srityje, būtinas jų tėvų arba globėjų (rūpintojų) rašytinis sutikimas, patvirtintas teismo. Jei įvaikinamo vaiko tėvai yra ribotai veiksnūs šioje srityje, būtinas jų ir jų rūpintojų rašytinis sutikimas, patvirtintas teismo. Jeigu rūpintojas sutikimo neduoda, ribotai veiksnaus šioje srityje asmens prašymu jo rašytinį sutikimą įvaikinti gali patvirtinti teismas. Šiuo atveju papildomo teismo patvirtinimo nereikalaujama. Jei įvaikinamas vaikas turi įstatymų nustatyta tvarka paskirtą globėją (rūpintoją) (išskyrus valstybinę globos instituciją), būtinas globėjo (rūpintojo) rašytinis sutikimas, patvirtintas teismo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3. Tėvai sutikimą įvaikinti vaiką konkrečiam įvaikintojui gali duoti tik tuo atveju, jei jis yra giminaitis.
 
@@ -1451,19 +1467,29 @@ Civilinio kodekso šeštosios knygos X skyriaus normos dėl restitucijos taikomo
 
 1. Nepilnamečio iki keturiolikos metų sudarytas sandoris negalioja, išskyrus smulkius buitinius sandorius, kuriuos pagal šį kodeksą ir kitus įstatymus nepilnamečiai iki keturiolikos metų gali sudaryti savarankiškai.
 
-2. Fizinio asmens, kuris įstatymų nustatyta tvarka yra pripažintas neveiksniu dėl psichinės ligos ar silpnaprotystės, sudarytas sandoris negalioja.
+2. Fizinio asmens, kuris dėl psichikos sutrikimo įstatymų nustatyta tvarka yra pripažintas neveiksniu tam tikroje srityje, toje srityje sudarytas sandoris negalioja.
 
-3. Šio straipsnio 1 ir 2 dalyse numatytais atvejais, be šio kodekso 1.80 straipsnio 2 dalyje numatytų pasekmių, veiksnioji šalis privalo atlyginti antrajai šaliai šios turėtas išlaidas, taip pat jos turto netekimą ar sužalojimą, jeigu veiksnioji šalis žinojo arba turėjo žinoti, kad antroji šalis yra neveiksni.
+3. Šio straipsnio 1 ir 2 dalyse numatytais atvejais, be šio kodekso 1.80 straipsnio 2 dalyje numatytų pasekmių, veiksnioji šalis privalo atlyginti antrajai šaliai šios turėtas išlaidas, taip pat jos turto netekimą ar sužalojimą, jeigu veiksnioji šalis žinojo arba turėjo žinoti, kad antroji šalis yra neveiksni šioje srityje.
 
-4. Ieškinį dėl tokio sandorio pripažinimo negaliojančiu gali pareikšti neveiksnaus asmens atstovai pagal įstatymą ir prokuroras. Jeigu sandoris yra naudingas neveiksniam asmeniui, jo atstovas pagal įstatymą įstatymų nustatyta tvarka sandorį gali patvirtinti.
+4. Ieškinį dėl tokio sandorio pripažinimo negaliojančiu gali pareikšti neveiksnaus tam tikroje srityje asmens atstovai pagal įstatymą ir prokuroras. Jeigu sandoris yra naudingas neveiksniam tam tikroje srityje asmeniui, jo atstovas pagal įstatymą įstatymų nustatyta tvarka sandorį gali patvirtinti.
 
-1.85 straipsnis. Alkoholiniais gėrimais arba narkotinėmis medžiagomis piktnaudžiaujančio fizinio asmens sudaryto sandorio pripažinimas negaliojančiu
+Straipsnio pakeitimai:
 
-1. Fizinio asmens, kurio veiksnumas apribotas dėl piktnaudžiavimo alkoholiniais gėrimais arba narkotinėmis medžiagomis, be rūpintojo sutikimo sudarytas turto ar daiktinės teisės perdavimo sandoris, išskyrus smulkius buitinius sandorius, gali būti teismo tvarka pripažintas negaliojančiu pagal rūpintojo ar prokuroro ieškinį.
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
-2. Jeigu toks sandoris pripažįstamas negaliojančiu, taikomos šio kodekso 1.84 straipsnio 3 dalies nuostatos.
+1.85 straipsnis. Ribotai veiksnaus fizinio asmens ir fizinio asmens, kuris sprendimus tam tikroje srityje priima naudodamasis pagalba, nesinaudojant pagalba sudarytų sandorių pripažinimas negaliojančiais
 
-3. Rūpintojas gali duoti sutikimą sudaryti sandorį ir po jo sudarymo, jeigu sandoris yra naudingas asmeniui, kurio veiksnumas apribotas.
+1. Fizinio asmens, kurio veiksnumas apribotas tam tikroje srityje dėl psichikos sutrikimo, toje srityje be rūpintojo sutikimo sudarytas sandoris gali būti teismo tvarka pripažintas negaliojančiu pagal rūpintojo ar prokuroro ieškinį.
+
+2. Fizinio asmens, kuris sprendimus tam tikroje srityje priima naudodamasis pagalba, toje srityje nesinaudojant pagalba sudarytas sandoris gali būti pripažintas negaliojančiu šiame kodekse numatytais sandorių negaliojimo pagrindais pagal pagalbą teikiančio asmens ar prokuroro ieškinį.
+
+3. Jeigu toks sandoris pripažįstamas negaliojančiu, taikomos šio kodekso 1.84 straipsnio 3 dalies nuostatos.
+
+4. Rūpintojas gali duoti sutikimą sudaryti sandorį ir po jo sudarymo, jeigu sandoris yra naudingas asmeniui, kurio veiksnumas apribotas tam tikroje srityje.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 1.93 straipsnis. Sandorio negaliojimas dėl įstatymų reikalaujamos sandorio formos nesilaikymo
 
@@ -1861,7 +1887,11 @@ Prievolės asmenų pasikeitimas nepakeičia ieškinio senaties termino ir jo ska
 
 3) jeigu ieškovas arba atsakovas tarnauja Lietuvos Respublikos krašto apsaugos dalinyje, kuriame paskelbta karinė padėtis;
 
-4) jeigu neveiksniam ar ribotai veiksniam asmeniui nepaskirtas globėjas ar rūpintojas;
+4) jeigu neveiksniam tam tikroje srityje ar ribotai veiksniam tam tikroje srityje asmeniui nepaskirtas globėjas ar rūpintojas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 5) jeigu prievolės šalys yra sutuoktiniai;
 
@@ -2031,9 +2061,17 @@ Trečiasis asmuo, su kuriuo atstovaujamasis sudaro sandorį, turi teisę reikala
 
 5) nustojus egzistuoti juridiniam asmeniui, kuriam duotas įgaliojimas, arba jam iškėlus bankroto bylą;
 
-6) mirus davusiam įgaliojimą fiziniam asmeniui ar pripažinus jį neveiksniu arba ribotai veiksniu, arba nežinia kur esančiu;
+6) mirus davusiam įgaliojimą fiziniam asmeniui ar pripažinus jį neveiksniu srityje, kurioje duotas įgaliojimas, arba ribotai veiksniu srityje, kurioje duotas įgaliojimas, arba nežinia kur esančiu;
 
-7) mirus fiziniam asmeniui, kuriam duotas įgaliojimas, ar pripažinus jį neveiksniu arba ribotai veiksniu, arba nežinia kur esančiu.
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
+
+7) mirus fiziniam asmeniui, kuriam duotas įgaliojimas, ar pripažinus jį neveiksniu srityje, kurioje duotas įgaliojimas, arba ribotai veiksniu srityje, kurioje duotas įgaliojimas, arba nežinia kur esančiu.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 2. Duomenys apie įgaliojimo pasibaigimą turi būti pateikti Įgaliojimų registro tvarkytojui.
 
@@ -2355,9 +2393,17 @@ I skyrius
 
 2. Išlaikymo tvarkai mutatis mutandis taikomos šios knygos XII skyriaus antrojo skirsnio normos.
 
-3.245 straipsnis. Neveiksnaus ar ribotai veiksnaus asmens turto administravimas
+3.245 straipsnis. Neveiksnaus tam tikroje srityje ir ribotai veiksnaus tam tikroje srityje asmens turto administravimas
 
-1. Tais atvejais, kai neveiksnus ar ribotai veiksnus asmuo turi nekilnojamųjų ar kilnojamųjų daiktų, kuriems reikalinga nuolatinė priežiūra (įmonė, žemė, pastatas ir kt.), teismas savo nutartimi paskiria turto administratorių. Turto administratoriumi gali būti skiriamas globėjas (rūpintojas) arba kitas asmuo. Turto administratoriui yra taikomi šio kodekso normų nustatyti globėjo ir rūpintojo veiksmų apribojimai.
+Pakeistas straipsnio pavadinimas:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
+
+1. Tais atvejais, kai neveiksnus tam tikroje srityje ar ribotai veiksnus tam tikroje srityje asmuo turi nekilnojamųjų ar kilnojamųjų daiktų, kuriems reikalinga nuolatinė priežiūra (įmonė, žemė, pastatas ir kt.), teismas savo nutartimi paskiria turto administratorių. Turto administratoriumi gali būti skiriamas globėjas (rūpintojas) arba kitas asmuo. Turto administratoriui yra taikomi šio kodekso normų nustatyti globėjo ir rūpintojo veiksmų apribojimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 2. Administratoriaus įgaliojimai pasibaigia panaikinus globą arba rūpybą, taip pat teismo nutartimi jį nušalinus ar jį pakeitus kitu asmeniu.
 
@@ -2607,7 +2653,11 @@ Išlaikymas priteisiamas nuo teisės į išlaikymą atsiradimo dienos, tačiau i
 
 3. Nesusituokę asmenys to paties vaiko įvaikinti negali.
 
-4. Įvaikintojai negali būti asmenys, teismo pripažinti neveiksniais arba ribotai veiksniais, asmenys, kuriems yra ar buvo apribota tėvų valdžia, buvę vaiko globėjai (rūpintojai), jei globa (rūpyba) panaikinta dėl jų kaltės.
+4. Įvaikintojai negali būti asmenys, teismo pripažinti neveiksniais šioje srityje arba ribotai veiksniais šioje srityje, asmenys, kuriems yra ar buvo apribota tėvų valdžia, buvę vaiko globėjai (rūpintojai), jei globa (rūpyba) panaikinta dėl jų kaltės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 5. Asmenys, norintys įsivaikinti vaiką (išskyrus vaiko motinos (tėvo) sutuoktinį ir giminaičius), turi būti įtraukti į asmenų, norinčių įsivaikinti vaiką, apskaitą, kurią tvarko valstybinė įvaikinimo institucija.
 
@@ -2633,15 +2683,23 @@ Išlaikymas priteisiamas nuo teisės į išlaikymą atsiradimo dienos, tačiau i
 
 3.213 straipsnis. Tėvų sutikimo įvaikinti vaiką atšaukimas
 
-1. Tėvai savo duotą sutikimą įvaikinti gali atšaukti, jei dėl įvaikinimo nėra priimtas teismo sprendimas.
+1. Tėvai savo duotą sutikimą įvaikinti gali atšaukti, jei dėl įvaikinimo nėra priimtas teismo sprendimas. Atšaukti tėvų, kurie yra neveiksnūs šioje srityje, sutikimą įvaikinti gali globėjai. Tėvai, pripažinti ribotai veiksniais šioje srityje, savo sutikimą įvaikinti gali atšaukti tik kartu su rūpintojais. Jeigu rūpintojai nesutinka atšaukti sutikimą įvaikinti, ribotai veiksnių šioje srityje asmenų prašymu jų sutikimo įvaikinti atšaukimą gali patvirtinti teismas. Šiuo atveju papildomo teismo patvirtinimo nereikalaujama.
 
-2. Pareiškimą dėl sutikimo įvaikinti vaiką atšaukimo tėvai turi įteikti valstybinei įvaikinimo institucijai. Jei vaikas įvaikintas, valstybinė įvaikinimo institucija apie tai praneša tėvams, neatskleisdama įvaikintojų. Prašymą įteikus iki dienos, kurią turi būti nagrinėjamas teisme prašymas dėl įvaikinimo, valstybinė įvaikinimo institucija praneša teismui, nagrinėjančiam šį prašymą, apie sutikimo atšaukimą ir pasiunčia sutikimo atšaukimo pareiškimą nagrinėti tą sutikimą patvirtinusiam teismui. Prašymo dėl įvaikinimo nagrinėjimas sustabdomas, kol bus išspręstas sutikimo atšaukimo klausimas.
+2. Pareiškimą dėl sutikimo įvaikinti vaiką atšaukimo tėvai (neveiksnių šioje srityje tėvų globėjai ar ribotai veiksnūs šioje srityje tėvai kartu su rūpintojais) turi įteikti valstybinei įvaikinimo institucijai. Jei vaikas įvaikintas, valstybinė įvaikinimo institucija apie tai praneša tėvams, neatskleisdama įvaikintojų. Prašymą įteikus iki dienos, kurią turi būti nagrinėjamas teisme prašymas dėl įvaikinimo, valstybinė įvaikinimo institucija praneša teismui, nagrinėjančiam šį prašymą, apie sutikimo atšaukimą ir pasiunčia sutikimo atšaukimo pareiškimą nagrinėti tą sutikimą patvirtinusiam teismui. Prašymo dėl įvaikinimo nagrinėjimas sustabdomas, kol bus išspręstas sutikimo atšaukimo klausimas.
 
-3. Teismas nepatvirtina sutikimo įvaikinti atšaukimo, jei nuo tėvų valdžios apribojimo yra praėję vieneri metai ir tėvų valdžios apribojimas nepanaikintas arba jeigu nustato, jog tėvai duotą sutikimą atšaukia tik siekdami materialinės naudos.
+3. Teismas nepatvirtina sutikimo įvaikinti atšaukimo, jei nuo tėvų valdžios apribojimo yra praėję vieneri metai ir tėvų valdžios apribojimas nepanaikintas arba jeigu nustato, kad tėvai (neveiksnių šioje srityje tėvų globėjai ar ribotai veiksnūs šioje srityje tėvai kartu su rūpintojais) duotą sutikimą atšaukia tik siekdami materialinės naudos.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3.214 straipsnis. Įvaikinimas be tėvų sutikimo
 
-Įvaikinamo vaiko tėvų sutikimo nereikalaujama, jeigu tėvai yra nežinomi ar mirę, jeigu tėvams neterminuotai apribota tėvų valdžia arba jeigu tėvai pripažinti neveiksniais arba paskelbti mirusiais.
+Įvaikinamo vaiko tėvų sutikimo nereikalaujama, jeigu tėvai yra nežinomi ar mirę, jeigu tėvams neterminuotai apribota tėvų valdžia arba jeigu tėvai paskelbti mirusiais.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3.215 straipsnis. Įvaikinamo vaiko sutikimas
 
@@ -2651,9 +2709,13 @@ Išlaikymas priteisiamas nuo teisės į išlaikymą atsiradimo dienos, tačiau i
 
 3.216 straipsnis. Įvaikintojo sutuoktinio sutikimas įvaikinti
 
-1. Jeigu vaiką įvaikina vienas iš sutuoktinių, būtinas kito sutuoktinio rašytinis sutikimas įvaikinti.
+1. Jeigu vaiką įvaikina vienas iš sutuoktinių, būtinas kito sutuoktinio rašytinis sutikimas įvaikinti. Jeigu kitas sutuoktinis ribotai veiksnus šioje srityje, būtinas šio ribotai veiksnaus sutuoktinio ir jo rūpintojo rašytinis sutikimas įvaikinti. Jeigu rūpintojas sutikimo įvaikinti neduoda, ribotai veiksnaus šioje srityje sutuoktinio prašymu jo rašytinį sutikimą įvaikinti gali patvirtinti teismas.
 
-2. Kito sutuoktinio sutikimo įvaikinti nereikalaujama, jeigu teismas yra priėmęs sprendimą dėl sutuoktinių gyvenimo skyrium arba jei sutuoktinis yra paskelbtas nežinia kur esantis ar pripažintas neveiksniu.
+2. Kito sutuoktinio sutikimo įvaikinti nereikalaujama, jeigu teismas yra priėmęs sprendimą dėl sutuoktinių gyvenimo skyrium arba jeigu sutuoktinis yra paskelbtas nežinia kur esančiu ar pripažintas neveiksniu šioje srityje.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3.220 straipsnis. Prašymų įvaikinti nagrinėjimas
 
@@ -2773,47 +2835,75 @@ BENDROSIOS NUOSTATOS
 
 3.238 straipsnis. Globa
 
-1. Globa yra nustatoma siekiant įgyvendinti, apsaugoti ir apginti neveiksnaus fizinio asmens teises ir interesus.
+1. Globa yra nustatoma siekiant įgyvendinti, apsaugoti ir apginti neveiksnaus tam tikroje srityje fizinio asmens teises ir interesus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 2. Asmens globa apima ir jo turto globą, tačiau prireikus turtui valdyti ir tvarkyti gali būti paskirtas turto administratorius.
 
 3.239 straipsnis. Rūpyba
 
-1. Rūpyba yra nustatoma siekiant apsaugoti ir apginti ribotai veiksnaus fizinio asmens teises ir interesus.
+1. Rūpyba yra nustatoma siekiant apsaugoti ir apginti ribotai veiksnaus tam tikroje srityje fizinio asmens teises ir interesus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 2. Asmens rūpyba apima ir jo turto rūpybą, tačiau prireikus turtui valdyti ir tvarkyti gali būti paskirtas turto administratorius.
 
 3.240 straipsnis. Globėjo ir rūpintojo teisinė padėtis
 
-1. Globėjas ir rūpintojas yra savo globotinių atstovai pagal įstatymą ir gina neveiksnių ar ribotai veiksnių asmenų teises ir interesus be specialaus pavedimo.
+1. Globėjas ir rūpintojas yra savo globotinių ir rūpintinių atstovai pagal įstatymą ir gina neveiksnių tam tikroje srityje ar ribotai veiksnių tam tikroje srityje asmenų teises ir interesus be specialaus pavedimo.
 
-2. Globėjas turi teisę sudaryti atstovaujamo neveiksnaus asmens vardu ir interesais visus būtinus sandorius.
+2. Globėjas turi teisę sudaryti atstovaujamo neveiksnaus tam tikroje srityje asmens vardu ir interesais visus būtinus sandorius toje srityje.
 
-3. Rūpintojas duoda sutikimą ribotai veiksniam asmeniui sudaryti sandorį, kurio šis negali sudaryti savarankiškai, taip pat padeda ribotai veiksniam asmeniui įgyvendinti kitas jo teises ar įvykdyti pareigas bei saugo jo teises ir teisėtus interesus nuo trečiųjų asmenų piktnaudžiavimo.
+3. Rūpintojas duoda sutikimą ribotai veiksniam tam tikroje srityje asmeniui sudaryti sandorį, kurio šis negali sudaryti savarankiškai, taip pat padeda ribotai veiksniam tam tikroje srityje asmeniui įgyvendinti kitas jo teises ar įvykdyti pareigas bei saugo jo teises ir teisėtus interesus nuo trečiųjų asmenų piktnaudžiavimo toje srityje.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3.241 straipsnis. Globos ir rūpybos institucijos
 
-1. Globos ir rūpybos institucijos yra savivaldybių ar apskričių institucijos, kurios prižiūri ir kontroliuoja globėjų ir rūpintojų veiklą.
+1. Globos ir rūpybos institucijos yra savivaldybių institucijos, kurios prižiūri ir kontroliuoja globėjų, rūpintojų ir pagalbą priimant sprendimus teikiančių asmenų veiklą.
 
-2. Asmenų, teismo pripažintų neveiksniais ar ribotai veiksniais, esančių gydymo, auklėjimo ar globos (rūpybos) institucijose, globos ir rūpybos funkcijas atlieka atitinkama gydymo, auklėjimo ar globos (rūpybos) institucija tik tol, kol paskiriamas nuolatinis globėjas ar rūpintojas.
+2. Asmenų, teismo pripažintų neveiksniais tam tikroje srityje ar ribotai veiksniais tam tikroje srityje, esančių gydymo, auklėjimo ar globos (rūpybos) institucijose, globos ir rūpybos funkcijas atlieka atitinkama gydymo, auklėjimo ar globos (rūpybos) institucija tik tol, kol paskiriamas nuolatinis globėjas ar rūpintojas.
 
 3. Nepilnamečių globos ir rūpybos institucijos yra valstybinė vaiko teisių apsaugos institucija bei kitos šioje knygoje numatytos institucijos.
 
+Straipsnio pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
+
 3.242 straipsnis. Globėjo ir rūpintojo paskyrimas
 
-1. Teismas, pripažinęs asmenį neveiksniu ar ribotai veiksniu, privalo nedelsdamas paskirti šio asmens globėją ar rūpintoją.
+1. Teismas, pripažinęs asmenį neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, privalo nedelsdamas paskirti šio asmens globėją ar rūpintoją toje srityje.
 
 2. Nepilnamečio globėjas ar rūpintojas skiriamas šios knygos XVIII skyriaus normų nustatyta tvarka.
 
-3. Globėju ar rūpintoju gali būti skiriamas tik veiksnus fizinis asmuo ir tik tuo atveju, kai yra jo rašytinis sutikimas. Skiriant asmenį globėju ar rūpintoju, turi būti atsižvelgiama į jo moralines ir kitokias savybes, jo galimybę įgyvendinti globėjo ar rūpintojo funkcijas, jo santykius su asmeniu, kuriam nustatoma globa ar rūpyba, į globėjo ar rūpintojo pageidavimą bei kitas turinčias reikšmės aplinkybes.
+3. Globėju ar rūpintoju gali būti skiriamas tik veiksnus šioje srityje fizinis asmuo ir tik tuo atveju, kai yra jo rašytinis sutikimas. Skiriant asmenį globėju ar rūpintoju, turi būti atsižvelgiama į jo moralines ir kitokias savybes, jo galimybę įgyvendinti globėjo ar rūpintojo funkcijas, jo santykius su asmeniu, kuriam nustatoma globa ar rūpyba, į globotinio ar rūpintinio pageidavimą, į globėjo ar rūpintojo pageidavimą bei kitas turinčias reikšmės aplinkybes.
 
-4. Šio straipsnio normos netaikomos, jeigu globėju ar rūpintoju yra paskirta atitinkama gydymo, auklėjimo ar globos (rūpybos) institucija, kurioje yra neveiksnus ar ribotai veiksnus asmuo.
+4. Šio straipsnio normos netaikomos, jeigu globėju ar rūpintoju yra paskirta atitinkama gydymo, auklėjimo ar globos (rūpybos) institucija, kurioje yra neveiksnus tam tikroje srityje ar ribotai veiksnus tam tikroje srityje asmuo.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3.243 straipsnis. Globėjo ir rūpintojo pareigų atlikimas
 
-1. Globėjas, kuris yra globotinio tėvas, motina ar kitas artimasis giminaitis, pareigas atlieka neatlygintinai. Kitais atvejais globėjas turi teisę į savo patirtų būtinų išlaidų, susijusių su globėjo pareigomis, atlyginimą iš neveiksnaus asmens turto. Šių išlaidų dydį bei jų atlyginimo tvarką nustato teismas pagal globėjo prašymą.
+1. Globėjas, kuris yra globotinio tėvas, motina ar kitas artimasis giminaitis, pareigas atlieka neatlygintinai. Kitais atvejais globėjas turi teisę į savo patirtų būtinų išlaidų, susijusių su globėjo pareigomis, atlyginimą iš neveiksnaus tam tikroje srityje asmens turto. Šių išlaidų dydį ir jų atlyginimo tvarką nustato teismas pagal globėjo prašymą.
 
-2. Rūpintojas, kuris yra ribotai veiksnaus asmens tėvas, motina ar kitas artimasis giminaitis, visais atvejais pareigas atlieka neatlygintinai. Kitais atvejais rūpintojas turi teisę į savo patirtų būtinų išlaidų, susijusių su rūpintojo pareigomis, atlyginimą iš ribotai veiksnaus asmens turto. Šių išlaidų dydį bei jų atlyginimo tvarką nustato teismas pagal rūpintojo prašymą.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
+
+2. Rūpintojas, kuris yra ribotai veiksnaus tam tikroje srityje asmens tėvas, motina ar kitas artimasis giminaitis, visais atvejais pareigas atlieka neatlygintinai. Kitais atvejais rūpintojas turi teisę į savo patirtų būtinų išlaidų, susijusių su rūpintojo pareigomis, atlyginimą iš ribotai veiksnaus tam tikroje srityje asmens turto. Šių išlaidų dydį ir jų atlyginimo tvarką nustato teismas pagal rūpintojo prašymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3. Šis straipsnis netaikomas tais atvejais, kai globėjo ar rūpintojo funkcijas atlieka gydymo, auklėjimo ar globos (rūpybos) institucija.
 
@@ -2821,7 +2911,11 @@ BENDROSIOS NUOSTATOS
 
 5. Globėjai ir rūpintojai privalo informuoti globos (rūpybos) instituciją apie savo gyvenamosios vietos pasikeitimą.
 
-6. Jeigu išnyksta aplinkybės, dėl kurių asmuo buvo pripažintas neveiksniu ar ribotai veiksniu, asmens globėjas ar rūpintojas turi kreiptis į teismą dėl globos ar rūpybos panaikinimo. Dėl globos ar rūpybos panaikinimo teisę kreiptis į teismą taip pat turi globos ir rūpybos institucijos ir prokuroras.
+6. Jeigu išnyksta aplinkybės, dėl kurių asmuo buvo pripažintas neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, asmens globėjas ar rūpintojas turi kreiptis į teismą dėl asmens pripažinimo veiksniu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3.246 straipsnis. Globėjo ir rūpintojo atleidimas nuo pareigų atlikimo
 
@@ -2829,7 +2923,11 @@ BENDROSIOS NUOSTATOS
 
 2. Globėjas ar rūpintojas gali būti teismo nutartimi atleistas nuo pareigų atlikimo, jeigu jų negali atlikti dėl savo ar artimųjų giminaičių ligos, savo turtinės padėties pablogėjimo ar dėl kitų svarbių priežasčių.
 
-3. Jeigu globėjas ar rūpintojas netinkamai atlieka pareigas, neužtikrina globotinio ar rūpintinio teisių ir interesų apsaugos, naudojasi savo teisėmis savanaudiškais tikslais, jie gali būti teismo nutartimi nušalinti nuo globėjo ar rūpintojo pareigų. Jeigu šiais globėjo ar rūpintojo veiksmais buvo padaryta žala neveiksniam ar ribotai veiksniam asmeniui, globėjas ar rūpintojas privalo ją atlyginti. Kreiptis į teismą dėl globėjo ar rūpintojo nušalinimo turi teisę globos (rūpybos) institucijos arba prokuroras.
+3. Globėjas ar rūpintojas, kurie netinkamai atlieka pareigas, neužtikrina globotinio ar rūpintinio teisių ir interesų apsaugos, naudojasi savo teisėmis savanaudiškais tikslais, gali būti teismo nutartimi nušalinti nuo globėjo ar rūpintojo pareigų. Jeigu šiais globėjo ar rūpintojo veiksmais buvo padaryta žala neveiksniam tam tikroje srityje ar ribotai veiksniam tam tikroje srityje asmeniui, globėjas ar rūpintojas privalo ją atlyginti. Kreiptis į teismą dėl globėjo ar rūpintojo nušalinimo turi teisę pats neveiksnus tam tikroje srityje ar ribotai veiksnus tam tikroje srityje asmuo, globos (rūpybos) institucijos arba prokuroras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3.247 straipsnis. Globos ir rūpybos pasibaigimas
 
@@ -2935,7 +3033,11 @@ Vaikui nuolatinė globa (rūpyba) nustatoma, kai vaiko:
 
 4) tėvystės ar artimos giminystės ryšiai nuo vaiko radimo dienos nenustatyti per tris mėnesius;
 
-5) tėvai arba turimas vienintelis iš tėvų nustatyta tvarka pripažinti neveiksniais.
+5) tėvai arba turimas vienintelis iš tėvų nustatyta tvarka pripažinti neveiksniais šioje srityje.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3.258 straipsnis. Vaiko nuolatinės globos (rūpybos) pabaiga
 
@@ -3023,7 +3125,11 @@ Vaiko globėju (rūpintoju) negali būti skiriamas asmuo:
 
 1) neturintis dvidešimt vienerių metų, išskyrus atvejus, kai globoti pageidauja artimasis giminaitis;
 
-2) pripažintas neveiksniu arba ribotai veiksniu;
+2) pripažintas neveiksniu šioje srityje arba ribotai veiksniu šioje srityje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3) nuo kurio buvo atskirtas vaikas;
 
@@ -3035,7 +3141,11 @@ Vaiko globėju (rūpintoju) negali būti skiriamas asmuo:
 
 7) sulaukęs šešiasdešimt penkerių metų arba vyresnis, išskyrus artimąjį giminaitį, jei jis nori laikinai globoti jaunesnį kaip dešimties metų vaiką;
 
-8) sergantis chronišku alkoholizmu, narkomanija, psichinėmis ar kitomis ligomis, kurių sąrašą tvirtina Vyriausybės įgaliota institucija.
+8) turintis psichikos sutrikimą ar sergantis kitomis ligomis, kurių sąrašą tvirtina Vyriausybės įgaliota institucija.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3.270 straipsnis. Pasirengimas vaiko globai (rūpybai)
 
@@ -3087,9 +3197,13 @@ PILNAMEČIŲ ASMENŲ GLOBA IR RŪPYBA
 
 3.277 straipsnis. Globos ir rūpybos nustatymas
 
-1. Globa teismo sprendimu skiriama pilnamečiam asmeniui, kuris teismo pripažintas neveiksniu.
+1. Globa teismo sprendimu skiriama pilnamečiam asmeniui, kuris teismo pripažintas neveiksniu tam tikroje srityje.
 
-2. Rūpyba skiriama pilnamečiam asmeniui, kuris teismo sprendimu pripažintas ribotai veiksniu.
+2. Rūpyba skiriama pilnamečiam asmeniui, kuris teismo sprendimu pripažintas ribotai veiksniu tam tikroje srityje.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3.278 straipsnis. Globėjo ir rūpintojo veiklos kontrolė
 
@@ -5891,9 +6005,17 @@ Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518
 
 6.470 straipsnis. Galėjimas dovanoti ir galėjimas priimti dovanas
 
-1. Dovanotojas negali būti neveiksnus asmuo. Neveiksnaus asmens globėjui draudžiama dovanoti neveiksnaus asmens turtą pastarojo vardu, išskyrus simbolines dovanas, kurių vertė neviršija vieno minimalaus gyvenimo lygio dydžio sumos.
+1. Dovanotojas negali būti neveiksnus šioje srityje asmuo. Ribotai veiksnus šioje srityje asmuo gali būti dovanotojas su rūpintojo sutikimu. Jeigu rūpintojas šio sutikimo neduoda, ribotai veiksnaus šioje srityje asmens prašymu leidimą būti dovanotoju gali duoti teismas. Rūpintojo sutikimas nereikalingas, kai ribotai veiksnus šioje srityje asmuo dovanoja simbolines dovanas, kurių vertė neviršija vienos bazinės socialinės išmokos dydžio sumos. Neveiksnaus šioje srityje asmens globėjui draudžiama dovanoti neveiksnaus šioje srityje asmens turtą pastarojo vardu, išskyrus simbolines dovanas, kurių vertė neviršija vienos bazinės socialinės išmokos dydžio sumos.
 
-2. Neveiksniam asmeniui skirtas dovanas turi teisę priimti tik jo globėjas, išskyrus simbolines dovanas, kurių vertė neviršija vieno minimalaus gyvenimo lygio dydžio sumos.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
+
+2. Neveiksniam šioje srityje asmeniui skirtas dovanas turi teisę priimti tik jo globėjas, išskyrus simbolines dovanas, kurių vertė neviršija vienos bazinės socialinės išmokos dydžio sumos. Ribotai veiksnus šioje srityje asmuo turi teisę priimti jam skirtas dovanas su rūpintojo sutikimu. Jeigu rūpintojas šio sutikimo neduoda, ribotai veiksnaus šioje srityje asmens prašymu leidimą priimti dovanas gali duoti teismas. Rūpintojo sutikimas nereikalingas, kai ribotai veiksnus šioje srityje asmuo priima simbolines dovanas, kurių vertė neviršija vienos bazinės socialinės išmokos dydžio sumos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3. Dovanojimo sutartis negalioja, jeigu dovanotojas nebuvo dovanos savininkas arba nebuvo tinkamai įgaliotas sudaryti tokią sutartį.
 
@@ -6609,7 +6731,11 @@ Gyvenamųjų patalpų nuomos sutarties dalyku gali būti tik tinkamas gyventi gy
 
 1. Gyvenamosios patalpos nuomos sutartis gali būti pripažinta negaliojančia šio kodekso nustatytais sandorių negaliojimo pagrindais, tarp jų: jeigu nuomininkui pateiktos tikrovės neatitinkantys duomenys apie nuomotojo teisę į gyvenamąsias patalpas; jeigu nuomos sutartimi pažeistos kitų asmenų pagrįstos teisės į šią gyvenamąją patalpą; jeigu pareigūnų veiksmai, susiję su gyvenamosios patalpos sutarties sudarymu, buvo neteisėti.
 
-2. Gyvenamosios patalpos nuomos sutartis negali būti pripažinta negaliojančia nuomotojo reikalavimu, jei jis sudarydamas sutartį su asmeniu, kuris buvo tokios būsenos, kai negalėjo suprasti savo veiksmų reikšmės ir jų valdyti, ar su neveiksniu nuomininku, tai žinojo.
+2. Gyvenamosios patalpos nuomos sutartis negali būti pripažinta negaliojančia nuomotojo reikalavimu, jei jis, sudarydamas sutartį su asmeniu, kuris buvo tokios būklės, kai negalėjo suprasti savo veiksmų reikšmės ir jų valdyti, ar su neveiksniu šioje srityje arba ribotai veiksniu šioje srityje nuomininku, tai žinojo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3. Gyvenamosios patalpos nuomos sutartį pripažinus negaliojančia, nuomininkas ir visi su juo gyvenantys asmenys iškeldinami ir kita gyvenamoji patalpa jiems nesuteikiama, išskyrus šio straipsnio 4 dalyje numatytą atvejį.
 
@@ -7383,7 +7509,11 @@ Jeigu paslaugų sutartis nenustato ko kita, paslaugų teikėjas privalo:
 
 1. Klientui mirus, paslaugų sutartis nenutrūksta, išskyrus atvejus, kai paslaugų teikimo sutartis buvo susijusi tik su to kliento asmeniu arba jei paslaugų teikimas po kliento mirties tampa neįmanomas ar beprasmiškas. Sutartis šiuo pagrindu pasibaigia nuo to momento, kai paslaugų teikėjas sužinojo ar turėjo sužinoti apie kliento mirtį. Paslaugų teikėjas visais atvejais privalo imtis jam prieinamų adekvačių priemonių, kad apsaugotų kliento interesus.
 
-2. Paslaugų teikėjo mirtis ar neveiksnumas nutraukia paslaugų sutartį, išskyrus atvejus, kai analogiškas paslaugas turi teisę ir gali taip pat kvalifikuotai teikti paslaugų teikėjo teisių perėmėjai. Paslaugų teikėjo įpėdiniai, žinantys apie užsakymą, privalo imtis jiems prieinamų adekvačių priemonių kliento interesams apsaugoti.
+2. Paslaugų teikėjo mirtis ar neveiksnumas šioje srityje arba ribotas veiksnumas šioje srityje nutraukia paslaugų sutartį, išskyrus atvejus, kai analogiškas paslaugas turi teisę ir gali taip pat kvalifikuotai teikti paslaugų teikėjo teisių perėmėjai. Paslaugų teikėjo įpėdiniai, žinantys apie užsakymą, privalo imtis jiems prieinamų adekvačių priemonių kliento interesams apsaugoti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 6.725 straipsnis. Asmens sveikatos priežiūros paslaugų sutartis
 
@@ -7693,7 +7823,11 @@ Pavedimas
 
 2. Pareigas, numatytas šio straipsnio 1 dalyje, taip pat turi ir įgaliotiniu esančio likviduojamo juridinio asmens likvidatorius.
 
-3. Šio straipsnio 1 ir 2 dalyse nustatytos taisyklės taip pat taikomos neveiksniu pripažinto įgaliotinio globėjui arba įgaliotinio, kuriam iškelta bankroto byla, administratoriui.
+3. Šio straipsnio 1 ir 2 dalyse nustatytos taisyklės taip pat taikomos neveiksniu šioje srityje pripažinto įgaliotinio globėjui, ribotai veiksniu šioje srityje pripažintam įgaliotiniui kartu su rūpintoju arba įgaliotinio, kuriam iškelta bankroto byla, administratoriui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 XXXVII skyrius
 
@@ -7909,7 +8043,11 @@ Komitentas privalo:
 
 2) komisionierius atsisako komiso sutarties įstatymo ar sutarties numatytais atvejais;
 
-3) komisionierius miršta, pripažįstamas neveiksniu, ribotai veiksniu ar nežinia kur esančiu, likviduojamas arba tampa nemokus (iškeliama bankroto byla).
+3) komisionierius miršta, pripažįstamas neveiksniu šioje srityje arba ribotai veiksniu šioje srityje ar nežinia kur esančiu, likviduojamas arba tampa nemokus (iškeliama bankroto byla).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 2. Jeigu komisionieriui iškeliama bankroto byla, visos teisės ir pareigos pagal komitento nurodymu sudarytą sandorį pereina komitentui.
 
@@ -9151,7 +9289,11 @@ Patikėtinis turi teisę į sutartyje nustatytą atlyginimą ir būtinų išlaid
 
 2) kai naudos gavėjas atsisako pagal sutartį gaunamos naudos, jeigu sutartis nenustato ko kita;
 
-3) kai patikėtinis miršta, pripažįstamas neveiksniu, ribotai veiksniu ar nežinia kur esančiu ar jis likviduojamas;
+3) kai patikėtinis miršta, pripažįstamas neveiksniu šioje srityje arba ribotai veiksniu šioje srityje ar nežinia kur esančiu, ar likviduojamas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 4) kai patikėtojui iškeliama bankroto byla;
 
@@ -10063,6 +10205,22 @@ Nr. XII-2065, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19178
 
 Lietuvos Respublikos civilinio kodekso 6.116 straipsnio pakeitimo įstatymas
 
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
+
+Lietuvos Respublikos civilinio kodekso pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2126, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19742
+
+Lietuvos Respublikos civilinio kodekso pakeitimo įstatymo Nr. XII-1566 72 straipsnio pakeitimo įstatymas
+
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
 Motorinės transporto priemonės pirkimo–pardavimo sutartyje privalo būti nurodyti duomenys apie motorinę transporto priemonę, kurią pardavėjas privalo pagal sutartį perduoti pirkėjui. Pardavėjas pirkimo–pardavimo sutartyje privalo pirkėjui nurodyti (deklaruoti) ridos duomenis, visus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta per laikotarpį, kurį pardavėjas yra motorinės transporto priemonės savininkas, taip pat visus jam žinomus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta. Privalomų pirkimo–pardavimo sutartyje nurodyti duomenų apie motorinę transporto priemonę ir jos trūkumus sąrašą tvirtina Vyriausybė arba jos įgaliota institucija.
@@ -10074,4 +10232,88 @@ Nr. XII-1961, 2015-10-15, paskelbta TAR 2015-10-19, i. k. 2015-15743
 XXIV skyrius
 
 Mainai
+
+2.1371 straipsnis. Išankstinis nurodymas
+
+1. Pilnametis veiksnus fizinis asmuo gali pateikti išankstinį nurodymą, kaip turėtų būti tvarkomi klausimai dėl jo turtinių ir asmeninių neturtinių teisių ir pareigų įgyvendinimo tuo atveju, jei jis ateityje būtų pripažintas neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje.
+
+2. Išankstiniame nurodyme asmuo gali:
+
+1) nurodyti asmenis, kuriuos pageidauja, kad teismas skirtų jo globėjais arba rūpintojais, jei jis būtų pripažintas neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje;
+
+2) nurodyti asmenis, kurių teismas neturėtų skirti jo globėjais arba rūpintojais, jei jis būtų pripažintas neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje;
+
+3) pareikšti valią dėl gyvenamosios vietos (apgyvendinimo globos (rūpybos) institucijoje);
+
+4) nurodyti konkretų asmenį, kuris spręstų klausimus dėl jo turtinių ir asmeninių neturtinių teisių ir pareigų įgyvendinimo;
+
+5) pateikti kitus nurodymus.
+
+3. Išankstiniai nurodymai turi būti notarinės formos ir yra registruojami notariniame registre ir Neveiksnių ir ribotai veiksnių asmenų registre. Išankstinius nurodymus turi teisę tvirtinti notarai ir Lietuvos Respublikos konsuliniai pareigūnai. Vienas išankstinio nurodymo egzempliorius duodamas jį pateikusiam asmeniui, o kitas lieka jį patvirtinusioje įstaigoje. Informacija apie išankstinio nurodymo pateikimą ir jo turinį iki išankstinio nurodymo įsigaliojimo yra konfidenciali.
+
+4. Išankstinis nurodymas įsigalioja, kai įsiteisėja teismo sprendimas, kuriuo asmuo pripažįstamas neveiksniu tam tikroje srityje arba kuriuo asmuo pripažįstamas ribotai veiksniu tam tikroje srityje, ir galioja išankstiniame nurodyme numatytą terminą. Išankstinis nurodymas, kuriame galiojimo terminas nenustatytas, galioja tol, kol panaikinamas teismo sprendimas, kuriuo asmuo pripažintas neveiksniu tam tikroje srityje arba kuriuo asmuo pripažintas ribotai veiksniu tam tikroje srityje.
+
+5. Kai išankstinis nurodymas įsigalioja, jo nuostatomis privalo vadovautis visi asmenys ir institucijos, atliekantys veiksmus dėl išankstinį nurodymą pateikusio asmens turtinių ir asmeninių neturtinių teisių ir pareigų įgyvendinimo, išskyrus atvejus, kai dėl pasikeitusių aplinkybių vadovavimasis išankstiniu nurodymu aiškiai nebeatitinka jį pateikusio asmens interesų. Tai, kad išankstinis nurodymas nebeatitinka jį pateikusio asmens interesų, turi būti konstatuota teismo tvarka. Kreiptis į teismą dėl leidimo nesilaikyti išankstinio nurodymo turi teisę visi suinteresuoti asmenys ar institucijos, kurie turi atlikti veiksmus dėl išankstinį nurodymą pateikusio asmens turtinių ir asmeninių neturtinių teisių ir pareigų įgyvendinimo.
+
+Papildyta straipsniu:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
+
+2.1372 straipsnis. Išankstinių nurodymų registravimas
+
+1. Lietuvos Respublikos notarų ar konsulinių pareigūnų patvirtinti išankstiniai nurodymai registruojami Neveiksnių ir ribotai veiksnių asmenų registre.
+
+2. Notarai ir konsuliniai pareigūnai Neveiksnių ir ribotai veiksnių asmenų registro nuostatų nustatyta tvarka pateikia Neveiksnių ir ribotai veiksnių asmenų registrui duomenis apie pateiktus, pakeistus ir panaikintus išankstinius nurodymus.
+
+3. Neveiksnių ir ribotai veiksnių asmenų registre esantys duomenys apie pateiktą išankstinį nurodymą perduodami teismui, kai teismas kreipiasi spręsdamas klausimą dėl asmens veiksnumo tam tikroje srityje apribojimo arba pripažinimo neveiksniu tam tikroje srityje.
+
+Papildyta straipsniu:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
+
+2.1373 straipsnis. Išankstinio nurodymo pakeitimas, papildymas ir panaikinimas
+
+1. Asmuo turi teisę savo išankstinį nurodymą bet kada pakeisti ar papildyti pateikdamas naują išankstinį nurodymą. Asmuo turi teisę savo išankstinį nurodymą bet kada panaikinti.
+
+2. Vėliau pateiktas išankstinis nurodymas panaikina visą pirmesnį išankstinį nurodymą ar jo dalį, kuri prieštarauja vėliau pateiktam išankstiniam nurodymui.
+
+3. Asmuo gali panaikinti savo išankstinį nurodymą, paduodamas pareiškimą išankstinį nurodymą patvirtinusiam notarui ar konsuliniam pareigūnui. Šis pareiškimas turi būti notarinės formos.
+
+Papildyta straipsniu:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
+
+3.2791 straipsnis. Pagalba priimant sprendimus
+
+1. Pilnametis veiksnus fizinis asmuo gali raštu sudaryti sutartį su pilnamečiu veiksniu fiziniu asmeniu, kuriuo jis pasitiki, dėl pagalbos priimant sprendimus tam tikrose gyvenimo srityse. Sutartis dėl pagalbos priimant sprendimus gali būti sudaroma, kai asmeniui dėl psichikos sutrikimo arba dėl kitų aplinkybių (amžiaus, ligos ar kitų) sudėtinga priimti geriausiai jo interesus atitinkančius sprendimus. Sutartį dėl pagalbos priimant sprendimus srityse, kuriose yra veiksnus, gali sudaryti ir fizinis asmuo, kuris yra neveiksnus tam tikroje srityje ar ribotai veiksnus tam tikroje srityje.
+
+2. Sutartys dėl pagalbos priimant sprendimus sudaromos notarine forma. Sutartys dėl pagalbos priimant sprendimus ar jų pakeitimai registruojami Neveiksnių ir ribotai veiksnių asmenų registre. Sutarčiai dėl pagalbos priimant sprendimus ar jos pakeitimams įregistruoti reikalingus duomenis Neveiksnių ir ribotai veiksnių asmenų registrui pateikia šią sutartį ar jos pakeitimus patvirtinęs notaras ar konsulinis pareigūnas Neveiksnių ir ribotai veiksnių asmenų registro nuostatų nustatyta tvarka. Sutartis dėl pagalbos priimant sprendimus prieš trečiuosius asmenis gali būti panaudota ir jiems sukelia teisines pasekmes tik tuo atveju, jei ji įregistruota Neveiksnių ir ribotai veiksnių asmenų registre.
+
+3. Pagalbą teikiantis asmuo turi vengti savo ir asmens, kuriam teikiama pagalba, interesų konflikto. Jei teikiant pagalbą kilo interesų konfliktas, mutatis mutandis taikomos šio kodekso 2.135 straipsnio nuostatos.
+
+4. Pagalbą teikiančių asmenų veiklą prižiūri ir kontroliuoja šio kodekso 3.241 straipsnio 1 dalyje nurodytos globos ir rūpybos institucijos.
+
+3.2792 straipsnis. Sprendimų, priimtų naudojantis pagalba, teisinė galia
+
+1. Asmens, sudariusio sutartį dėl pagalbos priimant sprendimus, sprendimai yra jo asmeniniai.
+
+2. Atsakomybė dėl asmens, sudariusio sutartį dėl pagalbos priimant sprendimus, sprendimų ir jų pagrindu atliktų veiksmų tenka asmeniui, kuris priėmė sprendimus.
+
+3.2793 straipsnis. Pagalbos priimant sprendimus teikimo pabaiga
+
+1. Bet kuri iš sutarties dėl pagalbos priimant sprendimus šalių gali kreiptis į notarą ar konsulinį pareigūną ir pateikti pareiškimą dėl sutarties nutraukimo. Pareiškimą dėl sutarties dėl pagalbos priimant sprendimus nutraukimo tvirtina notaras ar konsulinis pareigūnas. Pareiškimą dėl sutarties dėl pagalbos priimant sprendimus nutraukimo patvirtinęs notaras ar konsulinis pareigūnas Neveiksnių ir ribotai veiksnių asmenų registro nuostatų nustatyta tvarka pateikia Neveiksnių ir ribotai veiksnių asmenų registrui duomenis, reikalingus šios sutarties nutraukimo faktui įregistruoti.
+
+2. Sutarties dėl pagalbos priimant sprendimus nutraukimo faktas prieš trečiuosius asmenis gali būti panaudotas ir jiems sukelia teisinių pasekmių tik tuo atveju, jei jis įregistruotas Neveiksnių ir ribotai veiksnių asmenų registre.
+
+Papildyta skyriumi:
+
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
+
+VIII dalis
+
+CIVILINĖS BŪKLĖS AKTŲ REGISTRAVIMAS
+
+XX skyrius
+
+BENDROSIOS NUOSTATOS
 
