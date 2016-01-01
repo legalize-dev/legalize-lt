@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2015-12-11"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2015-12-11 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-04-26
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
 
@@ -120,7 +120,11 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 1. Valstybės biudžeto ir savivaldybių biudžetų pajamos ir asignavimai gali būti tik piniginės lėšos.
 
-2. Valstybės biudžeto ir savivaldybių biudžetų asignavimai naudojami valstybės ir savivaldybių funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos įmokos ir rinkliavos gali būti perskirstomi tik per valstybės biudžetą ir savivaldybių biudžetus, Valstybinį socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, Privatizavimo fondą, Rezervinį (stabilizavimo) fondą, Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą, Garantinį fondą, savivaldybių privatizavimo fondus.
+2. Valstybės biudžeto ir savivaldybių biudžetų asignavimai naudojami valstybės ir savivaldybių funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos įmokos ir rinkliavos gali būti perskirstomi tik per valstybės biudžetą ir savivaldybių biudžetus, Valstybinio socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, Rezervinį (stabilizavimo) fondą, Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą, Garantinį fondą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
 
 3. Seimas tvirtina trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų konsoliduotos visumos (neįskaitant savivaldybių biudžetams skirtų valstybės biudžeto asignavimų) planuojamus rodiklius – pajamas ir asignavimus.
 
@@ -332,7 +336,11 @@ VALSTYBĖS BIUDŽETAS
 
 1) pajamos iš mokesčių, gaunamos į valstybės biudžetą pagal įstatymus ir kitus teisės aktus;
 
-2) pajamos iš valstybės turto (išskyrus pajamas, gaunamas įstatymų nustatyta tvarka privatizavus valstybei nuosavybės teise priklausančias akcijas ir pardavus valstybei nuosavybės teise priklausančius nekilnojamuosius daiktus);
+2) pajamos iš valstybės turto (išskyrus pajamas, gautas atliekant valstybės nekilnojamojo turto atnaujinimą, taip pat įstatymų nustatytą pajamų, gautų realizavus valstybės ilgalaikį materialųjį ir nematerialųjį turtą, dalį, neįskaitomą į valstybės biudžeto pajamas);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
 
 3) valstybės biudžetinių įstaigų pajamos;
 
@@ -342,7 +350,11 @@ VALSTYBĖS BIUDŽETAS
 
 6) kitos pajamos.
 
-2. Į valstybės biudžeto pajamas gali būti įskaitoma dalis pajamų, gautų teisės aktų nustatyta tvarka realizavus valstybės ilgalaikį materialųjį ir nematerialųjį turtą. Pajamų dalies įmokos į valstybės biudžeto pajamas dydį nustato įstatymai arba Vyriausybės nutarimai.
+2. Neteko galios nuo 2016-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
 
 Straipsnio pakeitimai:
 
@@ -560,7 +572,15 @@ SAVIVALDYBIŲ BIUDŽETAI
 
 2. Kiekviena savivaldybė turi savarankišką biudžetą.
 
-3. Savivaldybės biudžeto deficitas negali viršyti tais metais planuojamų išlaidų iš skolintų (neviršijant Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme patvirtintų savivaldybių skolinimosi limitų) lėšų investicijų projektams finansuoti dydžio. Kiekvienos savivaldybės, kurios biudžeto išlaidos pagal pinigų srautus viršija 0,3 procento praėjusių metų BVP to meto kainomis, biudžetas vykdomas taip, kad biudžetinių metų išlaidos pagal įsipareigojimus neviršytų nominalių pajamų pagal įsipareigojimus, išskyrus išlaidas investicijų projektams finansuoti.
+3. Savivaldybių biudžeto balanso rodiklis valdomas taip, kaip nustatyta Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 4 dalyje.
+
+3 dalies redakcija nuo 2018-01-01:
+
+3. Savivaldybių biudžeto balanso rodiklis valdomas taip, kaip nustatyta Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 2 ir 4 dalyse.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
 
 4. Kiekvienos savivaldybės, kurios biudžeto išlaidos pagal pinigų srautus viršija 0,3 procento praėjusių metų BVP to meto kainomis, biudžetas vykdomas taip, kad biudžetinių metų išlaidos pagal įsipareigojimus neviršytų nominalių pajamų pagal įsipareigojimus, išskyrus išlaidas investicijų projektams finansuoti.
 
@@ -584,7 +604,11 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 1) pajamos iš mokesčių, gaunamos į savivaldybių biudžetus pagal įstatymus ir kitus teisės aktus;
 
-2) pajamos iš savivaldybių turto (išskyrus pajamas, gaunamas įstatymų nustatyta tvarka privatizavus savivaldybei nuosavybės teise priklausančias akcijas ir pardavus savivaldybei nuosavybės teise priklausančius nekilnojamuosius daiktus);
+2) pajamos iš savivaldybių turto;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
 
 3) savivaldybių biudžetinių įstaigų pajamos;
 
@@ -634,7 +658,11 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 5. Savivaldybių tarybos biudžetus patvirtina per du mėnesius nuo valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo. Jeigu savivaldybių biudžetų projektai laiku nepatvirtinami, biudžetai vykdomi šio Įstatymo 29 straipsnyje nustatyta tvarka.
 
-6. Patvirtintus biudžetus ir savivaldybių privatizavimo fondo sąmatas savivaldybių administracijų direktoriai pateikia Finansų ministerijai.
+6. Patvirtintus biudžetus savivaldybių administracijų direktoriai pateikia Finansų ministerijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
 
 7. Jeigu savivaldybė nustatytu laiku nepatvirtina biudžeto, lėšos iš valstybės biudžeto atitinkamai savivaldybei iki biudžeto patvirtinimo laikinai nepervedamos.
 
@@ -1260,7 +1288,15 @@ _
 
 1. Savivaldybės gali sudaryti savivaldybės administracijos direktoriaus rezervą, kuris turi būti ne didesnis kaip 1 procentas patvirtintų savivaldybės biudžeto asignavimų sumos. Konkretų savivaldybės administracijos direktoriaus rezervo dydį kasmet nustato savivaldybės taryba, tvirtindama atitinkamų metų savivaldybės biudžetą. Savivaldybės administracijos direktoriaus rezervo lėšas skirsto savivaldybės administracijos direktorius.
 
-2. Savivaldybės administracijos direktoriaus rezervo lėšos naudojamos tik ekstremaliosioms situacijoms ir (arba) ekstremaliesiems įvykiams likviduoti, jų padariniams šalinti ir padarytiems nuostoliams iš dalies apmokėti savivaldybių tarybų nustatyta tvarka.
+2. Savivaldybės administracijos direktoriaus rezervo lėšos naudojamos savivaldybės tarybos nustatyta tvarka:
+
+1) ekstremaliosioms situacijoms ir (arba) ekstremaliesiems įvykiams likviduoti, jų padariniams šalinti ir padarytiems nuostoliams iš dalies apmokėti;
+
+2) gaisrų ir stichinių nelaimių padariniams likviduoti ir jų padarytiems nuostoliams iš dalies apmokėti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1884, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10782
 
 Straipsnio pakeitimai:
 
