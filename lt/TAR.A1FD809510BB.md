@@ -4,7 +4,7 @@ identifier: "TAR.A1FD809510BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-06-29"
-last_updated: "2015-05-28"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A1FD809510BB"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "32 straipsnis įsigalioja 2012-07-14"
 
 LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2015-05-28 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
 
@@ -775,7 +775,11 @@ Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1 ir 7 straipsn
 
 5) mažosios bendrijos nario įnašo dydis (kai įnašas piniginis) ir (ar) vertė (kai įnašas nepiniginis).
 
-2. Šio straipsnio 1 dalyje nurodyti duomenys Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami Juridinių asmenų dalyvių informacinės sistemos nuostatuose nustatyta tvarka ne vėliau kaip per 5 dienas nuo mažosios bendrijos įregistravimo Juridinių asmenų registre dienos, o pasikeitus mažosios bendrijos nariams ar jų duomenims – ne vėliau kaip per 5 dienas nuo šių pasikeitimų dienos.
+2. Šio straipsnio 1 dalyje nurodyti duomenys Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami Juridinių asmenų dalyvių informacinės sistemos nuostatuose nustatyta tvarka ne vėliau kaip per 5 dienas nuo mažosios bendrijos įregistravimo Juridinių asmenų registre dienos, o pasikeitus šio straipsnio 1 dalyje nurodytiems duomenims – ne vėliau kaip per 5 dienas nuo šių pasikeitimų dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1700, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08122
 
 3. Už mažosios bendrijos narių duomenų pateikimą Juridinių asmenų dalyvių informacinės sistemos tvarkytojui atsako:
 
