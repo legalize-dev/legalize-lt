@@ -4,7 +4,7 @@ identifier: "TAR.EAA93A47BAA1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-28"
-last_updated: "2015-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
 
@@ -319,7 +319,11 @@ Teisę gauti antrinę teisinę pagalbą, neatsižvelgiant į Vyriausybės nustat
 
 6) asmenys, pateikę įrodymus, kad dėl objektyvių priežasčių negali disponuoti savo turtu ir lėšomis ir dėl to jų turtas ir metinės pajamos, kuriais jie gali laisvai disponuoti, neviršija Vyriausybės nustatytų turto ir pajamų lygių teisinei pagalbai gauti pagal šį įstatymą;
 
-7) asmenys, sergantys sunkiomis psichikos ligomis, kai sprendžiami jų priverstinio hospitalizavimo ir gydymo klausimai pagal Lietuvos Respublikos psichikos sveikatos priežiūros įstatymą (toliau – Psichikos sveikatos priežiūros įstatymas), ir jų globėjai (rūpintojai), kai valstybės garantuojama teisinė pagalba reikalinga globotinio (rūpintinio) teisėms ir interesams atstovauti;
+7) asmenys, kai sprendžiami jų priverstinio hospitalizavimo ir gydymo, priverstinio hospitalizavimo ir gydymo pratęsimo klausimai pagal Lietuvos Respublikos psichikos sveikatos priežiūros įstatymą (toliau – Psichikos sveikatos priežiūros įstatymas), taip pat asmenys, kuriems taikomas būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas, pratęsiamas būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas pagal Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymą (toliau – Žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas), ir jų globėjai (rūpintojai), kai valstybės garantuojama teisinė pagalba reikalinga globotinio (rūpintinio) teisėms ir interesams atstovauti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1568, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05576
 
 8) skolininkai vykdymo procese, kai išieškoma iš paskutinio gyvenamojo būsto, kuriame jie gyvena;
 
@@ -333,7 +337,11 @@ Papildyta straipsnio punktu:
 
 Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
 
-12) asmenys, kuriuos prašoma pripažinti neveiksniais bylose dėl fizinio asmens pripažinimo neveiksniu, taip pat neveiksniais pripažinti asmenys bylose dėl globos ir neveiksniu pripažinto asmens pripažinimo veiksniu ar ribotai veiksniu;
+12) asmenys, kuriuos prašoma pripažinti neveiksniais tam tikroje srityje bylose dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje, taip pat neveiksniais pripažinti asmenys bylose dėl globos, bylose dėl teismo sprendimo, kuriuo asmuo pripažintas neveiksniu tam tikroje srityje, peržiūrėjimo ir neveiksniu tam tikroje srityje pripažinto asmens pripažinimo veiksniu ar ribotai veiksniu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1568, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05576
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -373,7 +381,11 @@ Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
 
 7. Šio įstatymo 12 straipsnio 6 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo turto arešto aktas ir (ar) kiti dokumentai, patvirtinantys objektyvias priežastis, dėl kurių asmuo negali disponuoti savo turtu ir lėšomis, ir deklaracija antrinei teisinei pagalbai gauti.
 
-8. Šio įstatymo 12 straipsnio 7 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo sveikatos priežiūros įstaigos pažyma, patvirtinanti, kad asmuo serga sunkia psichikos liga, arba šio įstatymo 22 straipsnio 1 dalyje nurodytas psichiatrijos įstaigos administracijos pranešimas dėl antrinės teisinės pagalbos teikimo.
+8. Šio įstatymo 12 straipsnio 7 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo sveikatos priežiūros įstaigos pažyma, patvirtinanti, kad asmeniui taikomas priverstinis hospitalizavimas ir gydymas ar kad asmeniui taikomas būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas, arba šio įstatymo 22 straipsnio 1 dalyje nurodytas sveikatos priežiūros įstaigos pranešimas dėl antrinės teisinės pagalbos teikimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1568, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05576
 
 9. Šio įstatymo 12 straipsnio 8 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentai, patvirtinantys varžytynių, kuriose parduodamas skolininko paskutinis gyvenamasis būstas, paskelbimą.
 
@@ -381,11 +393,13 @@ Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
 
 11. Šio įstatymo 12 straipsnio 10 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentai, patvirtinantys šių asmenų amžių.
 
-12. Šio įstatymo 12 straipsnio 12 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentai, patvirtinantys pradėtą bylos procesą dėl fizinio asmens pripažinimo neveiksniu ir jo globos, dėl neveiksniu pripažinto asmens pripažinimo veiksniu ar ribotai veiksniu, arba šio įstatymo 22 straipsnio 2 dalyje nurodytas teismo pranešimas.
+12. Šio įstatymo 12 straipsnio 12 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentai, patvirtinantys pradėtą bylos procesą dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje ir jo globos, dėl teismo sprendimo, kuriuo asmuo pripažintas neveiksniu tam tikroje srityje, peržiūrėjimo, dėl neveiksniu tam tikroje srityje pripažinto asmens pripažinimo veiksniu ar ribotai veiksniu, arba šio įstatymo 22 straipsnio 2 dalyje nurodytas teismo pranešimas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
+
+Nr. XII-1568, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05576
 
 13. Šio įstatymo 12 straipsnio 13 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo civilinės metrikacijos įstaigos išvada dėl atsisakymo registruoti gimimą ar atkurti gimimo įrašą.
 
@@ -577,9 +591,13 @@ Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
 
 22 straipsnis. Sprendimo dėl antrinės teisinės pagalbos teikimo priėmimo ypatumai atskirų kategorijų bylose
 
-1. Psichiatrijos įstaigos administracija, kreipdamasi dėl antrinės teisinės pagalbos suteikimo Psichikos sveikatos priežiūros įstatymo 28 straipsnio 4 dalyje nurodytu atveju, pateikia tarnybai teisingumo ministro nustatytos formos pranešimą dėl antrinės teisinės pagalbos teikimo. Tarnyba sprendimą dėl antrinės teisinės pagalbos teikimo priima šio pranešimo gavimo dieną arba artimiausią darbo dieną, jeigu pranešimas gautas ne darbo laiku, ir nedelsdama apie priimtą sprendimą raštu praneša psichiatrijos įstaigos administracijai. Psichiatrijos įstaigos administracija privalo su tarnybos sprendimu dėl antrinės teisinės pagalbos teikimo supažindinti šio įstatymo 12 straipsnio 7 punkte nurodytą asmenį ir sudaryti tinkamas sąlygas jo ir advokato bendravimui.
+1. Sveikatos priežiūros įstaiga, kreipdamasi dėl antrinės teisinės pagalbos suteikimo Psichikos sveikatos priežiūros įstatymo arba Žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo nurodytais atvejais, pateikia tarnybai teisingumo ministro nustatytos formos pranešimą dėl antrinės teisinės pagalbos teikimo. Tarnyba sprendimą dėl antrinės teisinės pagalbos teikimo priima šio pranešimo gavimo dieną arba artimiausią darbo dieną, jeigu pranešimas gautas ne darbo laiku, ir nedelsdama apie priimtą sprendimą raštu praneša sveikatos priežiūros įstaigai. Sveikatos priežiūros įstaiga privalo su tarnybos sprendimu dėl antrinės teisinės pagalbos teikimo supažindinti šio įstatymo 12 straipsnio 7 punkte nurodytą asmenį ir sudaryti tinkamas sąlygas jo ir advokato bendravimui.
 
-2. Kai dėl antrinės teisinės pagalbos suteikimo Civilinio proceso kodekso nustatytais atvejais, nagrinėjant bylas dėl fizinio asmens pripažinimo neveiksniu ir jo globos, dėl neveiksniu pripažinto asmens pripažinimo veiksniu ar ribotai veiksniu, kreipiasi teismas, tarnyba sprendimą dėl antrinės teisinės pagalbos teikimo priima ne vėliau kaip per 3 darbo dienas nuo teismo pranešimo gavimo dienos ir apie priimtą sprendimą nedelsdama raštu praneša teismo pranešime nurodytam asmeniui ir teismui.
+2. Kai dėl antrinės teisinės pagalbos suteikimo Civilinio proceso kodekso nustatytais atvejais, nagrinėjant bylas dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje ir jo globos, dėl teismo sprendimo, kuriuo asmuo pripažintas neveiksniu tam tikroje srityje, peržiūrėjimo, dėl neveiksniu tam tikroje srityje pripažinto asmens pripažinimo veiksniu ar ribotai veiksniu tam tikroje srityje, kreipiasi teismas, tarnyba sprendimą dėl antrinės teisinės pagalbos teikimo priima ne vėliau kaip per 3 darbo dienas nuo teismo pranešimo gavimo dienos ir apie priimtą sprendimą nedelsdama raštu praneša teismo pranešime nurodytam asmeniui ir teismui.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1568, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05576
 
 17 straipsnis. Sutarčių dėl antrinės teisinės pagalbos teikimo sudarymas ir užmokestis už antrinės teisinės pagalbos teikimą
 
