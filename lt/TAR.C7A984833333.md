@@ -4,7 +4,7 @@ identifier: "TAR.C7A984833333"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-16"
-last_updated: "2015-09-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7A984833333"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas
 
-Suvestinė redakcija nuo 2015-09-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-11-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-27, i. k. 1031010ISTA0IX-1905
 
@@ -1109,13 +1109,21 @@ GELEŽINKELIŲ TRANSPORTO KATASTROFŲ, Eismo įvykių IR RIKTŲ tyrimas
 
 1. Eismo saugos institucija tiria geležinkelių transporto katastrofas, eismo įvykius ir riktus, siekdama nustatyti asmenis, pažeidusius eismo saugos reikalavimus, ir teisės aktų nustatyta tvarka traukia juos atsakomybėn.
 
-2. Geležinkelių transporto katastrofas tiria Lietuvos Respublikos susisiekimo ministro paskirtas katastrofų ar eismo įvykių ir riktų, kurie kitomis sąlygomis būtų galėję sukelti katastrofą, tyrimų vadovas (vadovai) (toliau – katastrofų tyrimų vadovas), siekdamas (siekdami) pagerinti eismo saugą ir užtikrinti eismo įvykių prevenciją. Katastrofų tyrimų vadovas gali tirti ir eismo įvykius bei riktus (taip pat posistemių ar sąveikos sudedamųjų dalių techninius gedimus), kurie kitomis sąlygomis būtų galėję sukelti geležinkelių transporto katastrofas. Įvykus eismo įvykiui ar riktui, katastrofų tyrimų vadovas įvertina, ar eismo įvykis ar riktas kitomis sąlygomis būtų galėję sukelti geležinkelių transporto katastrofą, ir priima sprendimą tirti eismo įvykį ar riktą arba atsisakyti juos tirti.
+2. Geležinkelių transporto katastrofas tiria Lietuvos Respublikos teisingumo ministro paskirtas katastrofų ar eismo įvykių ir riktų, kurie kitomis sąlygomis būtų galėję sukelti katastrofą, tyrimų vadovas (vadovai) (toliau – katastrofų tyrimų vadovas), siekdamas (siekdami) pagerinti eismo saugą ir užtikrinti eismo įvykių prevenciją. Katastrofų tyrimų vadovas gali tirti ir eismo įvykius bei riktus (taip pat posistemių ar sąveikos sudedamųjų dalių techninius gedimus), kurie kitomis sąlygomis būtų galėję sukelti geležinkelių transporto katastrofas. Įvykus eismo įvykiui ar riktui, katastrofų tyrimų vadovas įvertina, ar eismo įvykis ar riktas kitomis sąlygomis būtų galėję sukelti geležinkelių transporto katastrofą, ir priima sprendimą tirti eismo įvykį ar riktą arba atsisakyti juos tirti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2071, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19358
 
 3. Katastrofų tyrimų vadovas organizacine struktūra, teisine forma ir priimdamas sprendimus turi būti nepriklausomas nuo eismo saugos institucijos, bet kurios geležinkelių transporto kontrolės funkcijas atliekančios institucijos ar įstaigos, geležinkelių infrastruktūros valdytojų, geležinkelio įmonių (vežėjų), rinkliavą už naudojimąsi viešąja geležinkelių infrastruktūra renkančios organizacijos, viešosios geležinkelių infrastruktūros pajėgumus skiriančios organizacijos, paskelbtosios įstaigos ir bet kurio asmens, kurio interesai gali nesutapti su katastrofų tyrimų vadovo uždaviniais. Katastrofų tyrimų vadovo veiklai turi būti skiriama pakankamai finansinių išteklių, užtikrinančių nepriklausomą jam skirtų užduočių atlikimą.
 
 4. Geležinkelių transporto katastrofos, eismo įvykio ar rikto tyrimo, kuriuo siekiama nustatyti ir patraukti atsakomybėn asmenis, pažeidusius eismo saugos reikalavimus, tvarką, pranešimų apie katastrofas, eismo įvykius ir riktus tvarką, katastrofų, eismo įvykių ir riktų padarinių likvidavimo tvarką ir katastrofų, eismo įvykių ir riktų apskaitos tvarką nustato Lietuvos Respublikos susisiekimo ministras.
 
-5. Katastrofos, eismo įvykio ar rikto tyrimo, ataskaitų ir eismo saugos rekomendacijų rengimo ir teikimo tvarką nustato Lietuvos Respublikos susisiekimo ministras.
+5. Katastrofos, eismo įvykio ar rikto tyrimo, ataskaitų ir eismo saugos rekomendacijų rengimo ir teikimo tvarką nustato Lietuvos Respublikos teisingumo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2071, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19358
 
 6. Asmenys, kuriems skirtos eismo saugos rekomendacijos, privalo jas įvertinti, prireikus imtis veiksmų eismo saugos rekomendacijoms įgyvendinti ir bent vieną kartą per metus informuoti katastrofų tyrimų vadovą apie eismo saugos rekomendacijų įgyvendinimo eigą arba apie priimtą sprendimą neįgyvendinti eismo saugos rekomendacijų.
 
