@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2015-11-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-10-20
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
 
@@ -435,7 +435,7 @@ Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
 
 11. Centralizuotai valdomo valstybės turto valdytojo prašymu Vyriausybė valstybės vardu jos nustatyta tvarka turi teisę skolintis lėšų, reikalingų valstybės nekilnojamajam turtui atnaujinti. Prireikus Vyriausybei atstovaujanti Finansų ministerija šiam tikslui turi teisę valstybės vardu skolintis lėšų vidaus ir užsienio rinkose imdama paskolas, išleisdama Vyriausybės vertybinius popierius ir kitus įsipareigojamuosius skolos dokumentus.
 
-Pastaba. 18 straipsnio nuostatos taikomos atnaujinant valstybės nekilnojamąjį turtą, kuris iki įstatymo (Nr. XII-802) įsigaliojimo dienos (2014-10-01) buvo įtrauktas į Vyriausybės patvirtintą Atnaujinamo valstybės nekilnojamojo turto sąrašą kaip atnaujinamas valstybės nekilnojamasis turtas ir dėl kurio atnaujinimo iki įstatymo (Nr. XII-802) įsigaliojimo dienos (2014-10-01) buvo sudaryti susitarimai dėl jo atnaujinimo. Nuo įstatymo (Nr. XII-802) įsigaliojimo dienos (2014-10-01) nauji atnaujinamo valstybės nekilnojamojo turto objektai į Vyriausybės tvirtinamą Atnaujinamo valstybės nekilnojamojo turto sąrašą neįtraukiami.
+TAR pastaba. 18 straipsnio nuostatos taikomos atnaujinant valstybės nekilnojamąjį turtą, kuris iki įstatymo (Nr. XII-802) įsigaliojimo dienos (2014-10-01) buvo įtrauktas į Vyriausybės patvirtintą Atnaujinamo valstybės nekilnojamojo turto sąrašą kaip atnaujinamas valstybės nekilnojamasis turtas ir dėl kurio atnaujinimo iki įstatymo (Nr. XII-802) įsigaliojimo dienos (2014-10-01) buvo sudaryti susitarimai dėl jo atnaujinimo. Nuo įstatymo (Nr. XII-802) įsigaliojimo dienos (2014-10-01) nauji atnaujinamo valstybės nekilnojamojo turto objektai į Vyriausybės tvirtinamą Atnaujinamo valstybės nekilnojamojo turto sąrašą neįtraukiami.
 
 19 straipsnis. Valstybės nekilnojamojo turto centralizuotas valdymas, naudojimas ir disponavimas juo
 
@@ -573,13 +573,17 @@ Nr. XII-1199, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14278
 
 12. Už laiku neįvykdytą piniginę prievolę viešo aukciono laimėtojas (pirkėjas) privalo viešo aukciono organizatoriui sumokėti pirkimo–pardavimo sutartyje nustatytus, bet ne mažesnius kaip 0,1 procento dydžio nuo laiku nesumokėtos sumos už kiekvieną uždelstą kalendorinę dieną, delspinigius. Viešo aukciono organizatorius gali nustatyti papildomą terminą, bet ne ilgiau kaip 30 kalendorinių dienų, sutarties sąlygoms įvykdyti. Jeigu viešo aukciono laimėtojas (pirkėjas) per viešo aukciono organizatoriaus nustatytą terminą arba per papildomai nustatytą laiką neįvykdo sutarties, nesumoka pirkimo kainos ir pradinės įmokos skirtumo sumos ir (ar) delspinigių, viešo aukciono organizatorius gali nutraukti pirkimo–pardavimo sutartį. Viešo aukciono organizatoriui nutraukus pirkimo–pardavimo sutartį dėl viešo aukciono laimėtojo (pirkėjo) kaltės, viešo aukciono organizatoriui grąžinamas viešame aukcione parduotas turtas, o pirkėjui grąžinama jo sumokėta pirkimo kainos dalis kartu su pradine įmoka, atskaičius viešo aukciono organizatoriaus patirtus nuostolius, įskaitant netesybas. Viešo aukciono organizatorius turi teisę reikalauti iš viešo aukciono laimėtojo (pirkėjo) padengti viešo aukciono rengimo išlaidas ir kainų skirtumą, jeigu naujame viešame aukcione nekilnojamasis turtas ir jam priskirtas žemės sklypas (jeigu žemės sklypas yra parduodamas kartu su nekilnojamuoju turtu) ar kiti nekilnojamieji daiktai buvo parduoti už mažesnę kainą negu ta, kurią turėjo sumokėti viešo aukciono laimėtojas (pirkėjas).
 
-13. Viešo aukciono organizatoriaus lėšos, gautos pardavus:
+13. Lėšos, gautos pardavus:
 
-1) valstybės nekilnojamąjį turtą ir kitus nekilnojamuosius daiktus, taip pat palūkanos, netesybos ir kiti su pirkimo–pardavimo sutarties vykdymu susiję mokėjimai, išskyrus šio įstatymo 18 straipsnio 8 dalyje nustatytą atvejį, atskaičius centralizuotai valdomo valstybės turto valdytojui Vyriausybės nustatytą atlygį už nekilnojamojo turto ar kitų nekilnojamųjų daiktų pardavimą ir jo patirtas išnuomojamo žemės sklypo detaliojo plano ar žemės valdos projekto, ar žemės sklypo plano, prilyginamo žemės reformos žemėtvarkos projektams, ar žemės sklypo plano, prilyginamo detaliojo teritorijų planavimo dokumentams, ir žemės sklypo plano parengimo išlaidas arba užsienio valstybėse esančio valstybės nekilnojamojo turto viešo aukciono organizatoriaus patirtas su viešo aukciono organizavimu susijusias išlaidas, pervedamos į Privatizavimo fondo sąskaitą arba Valstybinio socialinio draudimo fondo sąskaitą, jeigu valstybei nuosavybės teise priklausantis nekilnojamasis turtas yra įtrauktas į Valstybinio socialinio draudimo fondo apskaitą pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymą;
+1) valstybės nekilnojamąjį turtą ir kitus nekilnojamuosius daiktus, taip pat palūkanos, netesybos ir kiti su pirkimo–pardavimo sutarties vykdymu susiję mokėjimai, išskyrus šio įstatymo 18 straipsnio 8 dalyje nustatytą atvejį, atskaičius centralizuotai valdomo valstybės turto valdytojui Vyriausybės nustatyta tvarka apskaičiuotą atlygį už valstybės nekilnojamojo turto ir jam priskirtų valstybinės žemės sklypų ar kitų nekilnojamųjų daiktų pardavimą ir jo patirtas išnuomojamo žemės sklypo detaliojo plano ar žemės valdos projekto, ar žemės sklypo plano, prilyginamo žemės reformos žemėtvarkos projektams, ar žemės sklypo plano, prilyginamo detaliojo teritorijų planavimo dokumentams, ir žemės sklypo plano parengimo išlaidas arba užsienio valstybėse esančio valstybės nekilnojamojo turto viešo aukciono organizatoriaus patirtas su viešo aukciono organizavimu susijusias išlaidas, pervedami į Lietuvos Respublikos valstybės biudžetą arba Valstybinio socialinio draudimo fondo lėšų sąskaitą, jeigu valstybei nuosavybės teise priklausantis nekilnojamasis turtas yra įtrauktas į Valstybinio socialinio draudimo fondo apskaitą pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymą;
 
-2) savivaldybės nekilnojamąjį turtą ir kitus nekilnojamuosius daiktus, taip pat palūkanos, netesybos ir kiti su pirkimo–pardavimo sutarties vykdymu susiję mokėjimai, atskaičius sutartyse (jeigu tokios sudaromos) dėl savivaldybės turto pardavimo nustatytą atlygį centralizuotai valdomo valstybės turto valdytojui, pervedamos į savivaldybės specialiąją sąskaitą;
+2) savivaldybės nekilnojamąjį turtą ir kitus nekilnojamuosius daiktus, taip pat palūkanos, netesybos ir kiti su pirkimo–pardavimo sutarties vykdymu susiję mokėjimai, atskaičius sutartyse (jeigu tokios sudaromos) dėl savivaldybės turto pardavimo nustatytą atlygį centralizuotai valdomo valstybės turto valdytojui, pervedami į savivaldybės biudžetą;
 
-3) valstybės ar savivaldybės nekilnojamajam turtui priskirtą valstybinės žemės sklypą, išskyrus šio įstatymo 18 straipsnio 8 dalyje nustatytą atvejį, atskaičius viešo aukciono organizatoriaus patirtas parduodamo žemės sklypo detaliojo plano ar žemės valdos projekto, ar žemės sklypo plano, prilyginamo žemės reformos žemėtvarkos projektams, ar žemės sklypo plano, prilyginamo detaliojo teritorijų planavimo dokumentams, ir žemės sklypo plano parengimo išlaidas, paskirstomos taip: 50 procentų – į Lietuvos Respublikos valstybės biudžetą, 50 procentų – į savivaldybės, kurios teritorijoje parduotas žemės sklypas, biudžeto specialiąją sąskaitą lėšoms už parduotus valstybinės žemės sklypus kaupti.
+3) valstybės ar savivaldybės nekilnojamajam turtui priskirtą valstybinės žemės sklypą, išskyrus šio įstatymo 18 straipsnio 8 dalyje nustatytą atvejį, atskaičius viešo aukciono organizatoriaus patirtas parduodamo žemės sklypo detaliojo plano ar žemės valdos projekto, ar žemės sklypo plano, prilyginamo žemės reformos žemėtvarkos projektams, ar žemės sklypo plano, prilyginamo detaliojo teritorijų planavimo dokumentams, ir žemės sklypo plano parengimo išlaidas, paskirstomos taip: 50 procentų – į Lietuvos Respublikos valstybės biudžetą, 50 procentų – į savivaldybės, kurios teritorijoje parduotas žemės sklypas, biudžeto atskirą sąskaitą lėšoms už parduotus valstybinės žemės sklypus kaupti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2023, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18614
 
 14. Įstatymų nustatyta tvarka valstybei ar savivaldybei nuosavybės teise priklausantis nekilnojamasis turtas, esantis privačios žemės sklype, gali būti parduodamas viešame aukcione be žemės savininko sutikimo, jeigu tai neprieštarauja įstatymų ir (ar) sutarties nustatytoms žemės sklypo naudojimo sąlygoms.
 
@@ -1274,6 +1278,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1986, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16909
 
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2023, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18614
+
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 21 straipsnio pakeitimo įstatymas
 
 26 straipsnis. Valstybės ir savivaldybių turto pripažinimas nereikalingu arba netinkamu (negalimu) naudoti
 
