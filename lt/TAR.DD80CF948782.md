@@ -4,7 +4,7 @@ identifier: "TAR.DD80CF948782"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2015-10-28"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2015-10-28 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-03-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2225, i. k. 1021010ISTA00IX-886
 
@@ -84,6 +84,12 @@ Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
 Papildyta straipsnio dalimi:
 
 Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
+
+19. Trauma ir nelaimingas atsitikimas – bet kuris žmogaus audinių arba organų sužalojimas, sukeltas išorinių veiksnių poveikio.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1924, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11099
 
 Straipsnio pakeitimai:
 
@@ -453,9 +459,23 @@ LIGŲ IR TRAUMŲ PROFILAKTIKA BEI KONTROLĖ
 
 3. Sveikatos apsaugos ministerija nustato epidemiologiškai analizuojamų neinfekcinių ligų sąrašus bei specialiuosius higienos reikalavimus šio straipsnio 2 dalyje numatytai veiklai vykdyti.
 
-4. Teritorinės ligonių kasos kartą per dvejus metus organizuoja Lietuvos Respublikos privalomuoju sveikatos draudimu apdraustų asmenų sveikatos būklės ir rizikos veiksnių paplitimo tyrimus. Šių tyrimų tvarką nustato Vyriausybė ar jos įgaliota institucija.
+4. Visos traumos ir nelaimingi atsitikimai registruojami Traumų ir nelaimingų atsitikimų stebėsenos informacinėje sistemoje. Traumų ir nelaimingų atsitikimų stebėsenos informacinės sistemos valdytoja yra Sveikatos apsaugos ministerija arba jos įgaliota institucija, tvarkytoja – Sveikatos apsaugos ministerijos įgaliota institucija, kuri yra atsakinga už informacinės sistemos duomenų tvarkymą ir jų saugą, tinkamą šios informacinės sistemos funkcionavimą ir priežiūrą, duomenų teikėjai – juridiniai ir fiziniai asmenys, turintys licenciją verstis sveikatos priežiūros veikla, kitos valstybės institucijos, pagal kompetenciją dalyvaujančios vykdant traumų ir nelaimingų atsitikimų stebėseną. Informacinės sistemos valdytojo, tvarkytojo ir duomenų teikėjų kompetenciją, informacijos teikimo tvarką ir terminus reglamentuoja sveikatos apsaugos ministro patvirtinti informacinės sistemos nuostatai.
 
-5. Teritorinės ligonių kasos organizuoja privalomuoju sveikatos draudimu apdraustų asmenų ligų ir traumų pasekmių bei sveikatos priežiūros ekonominį įvertinimą. Šio darbo turinį ir tvarką nustato Vyriausybė ar jos įgaliota institucija.
+Papildyta straipsnio dalimi:
+
+Nr. XII-1924, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11099
+
+5. Teritorinės ligonių kasos kartą per dvejus metus organizuoja Lietuvos Respublikos privalomuoju sveikatos draudimu apdraustų asmenų sveikatos būklės ir rizikos veiksnių paplitimo tyrimus. Šių tyrimų tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1924, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11099
+
+6. Teritorinės ligonių kasos organizuoja privalomuoju sveikatos draudimu apdraustų asmenų ligų ir traumų pasekmių bei sveikatos priežiūros ekonominį įvertinimą. Šio darbo turinį ir tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1924, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11099
 
 27 straipsnis. Neinfekcinių ligų kontrolės ir profilaktikos valdymas
 
@@ -477,13 +497,11 @@ trečiasis skirsnis
 
 VARTOTOJŲ SVEIKATOS SAUGA
 
-30 straipsnis. Informacinė sistema
+30 straipsnis. Neteko galios nuo 2016-01-01
 
-1. Siekdama skatinti nelaimingų atsitikimų buityje profilaktiką, produktų saugumo gerinimą bei vartotojų informavimą ir ugdymą, kad šie saugiau vartotų produktus, Sveikatos apsaugos ministerija parengia vartotojų apsinuodijimų ir nelaimingų atsitikimų informacinę sistemą.
+Straipsnio naikinimas:
 
-2. Vartotojų apsinuodijimų ir nelaimingų atsitikimų informacinėje sistemoje kaupiama informacija apie apsinuodijimus ir nelaimingus atsitikimus buityje, kurių metu nukentėjo ir (ar) žuvo žmonės.
-
-3. Vartotojų apsinuodijimų ir nelaimingų atsitikimų informacinę sistemą sudaro sveikatos priežiūros įstaigų, gelbėjimo tarnybų bei kitų institucijų teikiama informacija.
+Nr. XII-1924, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11099
 
 31 straipsnis. Produktų sauga
 
@@ -786,6 +804,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1958, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16899
 
 Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 6, 10 ir 34 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1924, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11099
+
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 2, 26 straipsnių pakeitimo ir 30 straipsnio pripažinimo netekusiu galios įstatymas
 
 5 straipsnis. Visuomenės sveikatos priežiūros įstaigų sistemos struktūra
 
