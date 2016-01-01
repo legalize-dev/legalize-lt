@@ -4,7 +4,7 @@ identifier: "TAR.2839C21F55BD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-30"
-last_updated: "2003-01-01"
+last_updated: "2016-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2839C21F55BD"
 department: "Lietuvos Respublikos Seimas"
@@ -15,10 +15,6 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2003-01-01 iki 2015-12-31
-
-Įstatymas paskelbtas: Žin. 2000, Nr. 27-717, i. k. 1001010ISTAIII-1602
-
 LIETUVOS RESPUBLIKOS
 
 GYVENAMOSIOS VIETOS DEKLARAVIMO ĮSTATYMO ĮGYVENDINIMO
@@ -28,6 +24,10 @@ GYVENAMOSIOS VIETOS DEKLARAVIMO ĮSTATYMO ĮGYVENDINIMO
 2000 m. kovo 30 d. Nr. VIII-1602
 
 Vilnius
+
+Neteko galios nuo 2016-01-01
+
+Nr. XII-1919, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11182
 
 1 straipsnis. Pasiūlymai Vyriausybei
 
