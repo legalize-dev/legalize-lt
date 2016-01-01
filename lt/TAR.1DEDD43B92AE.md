@@ -4,7 +4,7 @@ identifier: "TAR.1DEDD43B92AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-03"
-last_updated: "2014-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,6 +18,10 @@ eu_legal_act: "true"
 # Lietuvos Respublikos išmokų vaikams įstatymas
 
 LIETUVOS RESPUBLIKOS
+
+Suvestinė redakcija nuo 2016-01-01 iki 2016-09-30
+
+Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
 
 Nauja įstatymo redakcija nuo 2004-07-01:
 
@@ -117,15 +121,41 @@ Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
 2. Jeigu pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar santuokos sudarymo asmuo mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą ar studijuoja aukštojoje mokykloje pagal dieninės studijų formos nuosekliųjų studijų programą ar nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį), taip pat tuo atveju, kai yra mirę pilnamečio asmens abu tėvai (turėtas vienintelis iš tėvų), mokymosi laikotarpiu, bet ne ilgiau kaip iki asmeniui sukanka 24 metai, skiriama ir kartą per mėnesį mokama 4 bazinių socialinių išmokų dydžio išmoka. Ši išmoka neskiriama ir nemokama asmenims, daugiau kaip du kartus įstojusiems į tos pačios mokyklų grupės mokyklą (kaip suskirstyta pagal Lietuvos Respublikos švietimo įstatymą).
 
-3. Šeimynos vykdomai vaiko globai (rūpybai) užtikrinti už vaiką, kuriam globa (rūpyba) nustatyta šeimynoje, yra mokamas 4 bazinių socialinių išmokų dydžio globos (rūpybos) išmokos tikslinis priedas, kuris naudojamas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+3. Vaiko globėjui (rūpintojui) už vaiką, kuriam globa (rūpyba) nustatyta šeimoje, nuo 2016 m. sausio 1 d. yra mokamas vieno bazinės socialinės išmokos dydžio, o nuo 2017 m. sausio 1 d. – 4 bazinių socialinių išmokų dydžio globos (rūpybos) išmokos tikslinis priedas.
 
-4. Kai išmokos gavėjas, gaunantis globos (rūpybos) išmoką, įstatymų nustatyta tvarka gauna našlaičių pensiją ir (ar) vaiko išlaikymui kas mėnesį mokamą periodinę išmoką, globos (rūpybos) išmokos dydis yra lygus skirtumui tarp išmokos gavėjui nustatyto globos (rūpybos) išmokos dydžio ir gaunamos našlaičių pensijos bei (ar) vaiko išlaikymui kas mėnesį mokamos periodinės išmokos dydžio.
+Papildyta straipsnio dalimi:
 
-5. Išmokos gavėjas, gaunantis šio straipsnio 2 dalyje nustatytą išmoką, turi teisę gauti stipendiją pagal mokymosi rezultatus.
+Nr. XII-2191, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20217
 
-6. Vaikui (asmeniui), kuris mokosi pagal bendrojo ugdymo ir (ar) pagal formaliojo profesinio mokymo programas ir yra išlaikomas (nemokamai gauna nakvynę ir maistą) bendrojo ugdymo mokyklos ar profesinio mokymo įstaigos bendrabutyje ar vaikų socializacijos centre, mokslo metais skiriama 2 bazinių socialinių išmokų dydžio išmoka per mėnesį.
+4. Šeimynos vykdomai vaiko globai (rūpybai) užtikrinti už vaiką, kuriam globa (rūpyba) nustatyta šeimynoje, yra mokamas 4 bazinių socialinių išmokų dydžio globos (rūpybos) išmokos tikslinis priedas, kuris naudojamas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
-7. Globos (rūpybos) išmoka ir globos (rūpybos) išmokos tikslinis priedas neskiriami ir nemokami:
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2191, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20217
+
+5. Kai išmokos gavėjas, gaunantis globos (rūpybos) išmoką, įstatymų nustatyta tvarka gauna našlaičių pensiją ir (ar) vaiko išlaikymui kas mėnesį mokamą periodinę išmoką, globos (rūpybos) išmokos dydis yra lygus skirtumui tarp išmokos gavėjui nustatyto globos (rūpybos) išmokos dydžio ir gaunamos našlaičių pensijos bei (ar) vaiko išlaikymui kas mėnesį mokamos periodinės išmokos dydžio.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2191, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20217
+
+6. Išmokos gavėjas, gaunantis šio straipsnio 2 dalyje nustatytą išmoką, turi teisę gauti stipendiją pagal mokymosi rezultatus.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2191, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20217
+
+7. Vaikui (asmeniui), kuris mokosi pagal bendrojo ugdymo ir (ar) pagal formaliojo profesinio mokymo programas ir yra išlaikomas (nemokamai gauna nakvynę ir maistą) bendrojo ugdymo mokyklos ar profesinio mokymo įstaigos bendrabutyje ar vaikų socializacijos centre, mokslo metais skiriama 2 bazinių socialinių išmokų dydžio išmoka per mėnesį.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2191, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20217
+
+8. Globos (rūpybos) išmoka ir globos (rūpybos) išmokos tikslinis priedas neskiriami ir nemokami:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2191, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20217
 
 1) jeigu vaikas (asmuo) yra suimtas, atlieka su laisvės atėmimu susijusią bausmę, jam Baudžiamojo proceso kodekso nustatyta tvarka paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės, paskelbta jo paieška ar jis teismo pripažintas nežinia kur esančiu, – kol neišnyksta nurodytos aplinkybės;
 
