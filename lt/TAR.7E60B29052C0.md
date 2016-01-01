@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2015-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2017-12-13
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2271, i. k. 1001010ISTAIII-1904
 
@@ -76,13 +76,23 @@ Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
 
 7) žurnalistų etikos inspektoriui;
 
-8) Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus Specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus bei policijos generalinį komisarą) bei pareigūnams;
+8) Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus policijos generalinį komisarą) bei pareigūnams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
 
 9) Seimo, Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams;
 
 10) Vyriausybės įstaigų vadovams;
 
-11) žvalgybos pareigūnams.
+11) žvalgybos pareigūnams;
+
+12) Specialiųjų tyrimų tarnybos pareigūnams.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
 
 Straipsnio pakeitimai:
 
@@ -152,17 +162,45 @@ Nr. XI-2296, 2012-10-17, Žin., 2012, Nr. 129-6470 (2012-11-08)
 
 5. Žvalgybos pareigūnų priedų už tarnybinį rangą ar kario laipsnį ir tarnybos stažą dydžius nustato Lietuvos Respublikos žvalgybos įstatymas.
 
-6. Duomenys apie valstybės politikų ir valstybės pareigūnų darbo užmokestį yra vieši. Šie duomenys teikiami vadovaujantis Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo nustatyta tvarka.
+6. Specialiųjų tyrimų tarnybos pareigūnų darbo užmokestis susideda iš:
 
-7. Valstybės pareigūnų, nurodytų šio įstatymo priedėlio IV skirsnyje, einančių pareigas įstaigose, kuriose pagal šiame įstatyme nustatytą tvarką apskaičiuotas darbo užmokestis yra mažesnis negu 115 procentų toje įstaigoje dirbančio ir didžiausią darbo užmokestį gaunančio valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, o kai tokiu didžiausią darbo užmokestį gaunančiu tarnautoju ar darbuotoju, dirbančiu pagal darbo sutartį, yra vadovo pavaduotojas, – mažesnė negu 110 procentų, darbo užmokesčio vidurkis, įvertinus per praėjusius kalendorinius metus apskaičiuotą darbo užmokestį, darbo užmokesčio dydis apskaičiuojamas šiame straipsnyje nustatyta tvarka. Valstybės pareigūnų, einančių institucijos vadovo pareigas, darbo užmokestis šiame straipsnyje apibrėžtais atvejais yra 15 procentų didesnis negu toje įstaigoje didžiausią darbo užmokestį gaunančio valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, darbo užmokesčio per praėjusius kalendorinius metus vidurkis, o kai tokiu didžiausią darbo užmokestį gaunančiu tarnautoju ar darbuotoju, dirbančiu pagal darbo sutartį, yra vadovo pavaduotojas, – 10 procentų didesnis. Valstybės pareigūnų, einančių įstaigos vadovo pavaduotojo pareigas, darbo užmokestis yra 5 procentais didesnis negu toje įstaigoje didžiausią darbo užmokestį gaunančio valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, darbo užmokesčio per praėjusius kalendorinius metus vidurkis. Kitų valstybės pareigūnų, dirbančių toje įstaigoje, darbo užmokestis yra 10 procentų mažesnis negu įstaigos vadovo darbo užmokestis, apskaičiuotas šioje dalyje nustatyta tvarka. Šioje dalyje nustatytas darbo užmokesčio skaičiavimas atliekamas vieną kartą per metus.
+1) pareiginės algos;
 
-TAR pastaba. Papildymas 7 dalimi galioja iki 2017-12-31.
+2) priedo už tarnybinį rangą;
+
+3) priedo už ištarnautus Lietuvos valstybei metus;
+
+4) vienkartinės priemokos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
+
+7. Specialiųjų tyrimų tarnybos pareigūnų priedo už tarnybinį rangą dydį nustato Lietuvos Respublikos specialiųjų tyrimų tarnybos statutas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
+
+8. Duomenys apie valstybės politikų ir valstybės pareigūnų darbo užmokestį yra vieši. Šie duomenys teikiami vadovaujantis Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo nustatyta tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
+
+9. Valstybės pareigūnų, nurodytų šio įstatymo priedėlio IV skirsnyje, einančių pareigas įstaigose, kuriose pagal šiame įstatyme nustatytą tvarką apskaičiuotas darbo užmokestis yra mažesnis negu 115 procentų toje įstaigoje dirbančio ir didžiausią darbo užmokestį gaunančio valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, o kai tokiu didžiausią darbo užmokestį gaunančiu tarnautoju ar darbuotoju, dirbančiu pagal darbo sutartį, yra vadovo pavaduotojas, – mažesnė negu 110 procentų, darbo užmokesčio vidurkis, įvertinus per praėjusius kalendorinius metus apskaičiuotą darbo užmokestį, darbo užmokesčio dydis apskaičiuojamas šiame straipsnyje nustatyta tvarka. Valstybės pareigūnų, einančių institucijos vadovo pareigas, darbo užmokestis šiame straipsnyje apibrėžtais atvejais yra 15 procentų didesnis negu toje įstaigoje didžiausią darbo užmokestį gaunančio valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, darbo užmokesčio per praėjusius kalendorinius metus vidurkis, o kai tokiu didžiausią darbo užmokestį gaunančiu tarnautoju ar darbuotoju, dirbančiu pagal darbo sutartį, yra vadovo pavaduotojas, – 10 procentų didesnis. Valstybės pareigūnų, einančių įstaigos vadovo pavaduotojo pareigas, darbo užmokestis yra 5 procentais didesnis negu toje įstaigoje didžiausią darbo užmokestį gaunančio valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, darbo užmokesčio per praėjusius kalendorinius metus vidurkis. Kitų valstybės pareigūnų, dirbančių toje įstaigoje, darbo užmokestis yra 10 procentų mažesnis negu įstaigos vadovo darbo užmokestis, apskaičiuotas šioje dalyje nustatyta tvarka. Šioje dalyje nustatytas darbo užmokesčio skaičiavimas atliekamas vieną kartą per metus.
+
+TAR pastaba. Papildymas šia dalimi galioja iki 2017-12-31.
 
 Nuo 2018 m. sausio 1 d. apskaičiuojant darbo užmokestį valstybės pareigūnams, nurodytiems šio įstatymo priedėlio IV skirsnyje, taikomi iki šio įstatymo įsigaliojimo nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1807, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10146
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
 
 Straipsnio pakeitimai:
 
@@ -796,6 +834,168 @@ Jaunesnysis specialistas
 
 5
 
+VI. SPECIALIŲJŲ TYRIMŲ TARNYBOS PAREIGŪNŲ PAREIGINĖS ALGOS
+
+(Baziniais dydžiais)
+
+Eil. Nr.
+
+Pareigų pavadinimas
+
+Pareiginės algos koeficientas
+
+I  pakopa
+
+II pakopa
+
+III pakopa
+
+IV pakopa
+
+V pakopa
+
+VI pakopa
+
+1.
+
+Direktorius
+
+15,35
+
+2.
+
+Direktoriaus pavaduotojas
+
+14,61
+
+3.
+
+Valdybos viršininkas
+
+11,42
+
+11,88
+
+12,34
+
+12,80
+
+13,26
+
+13,72
+
+4.
+
+Valdybos viršininko pavaduotojas
+
+10,72
+
+11,15
+
+11,58
+
+12,01
+
+12,44
+
+12,87
+
+5.
+
+Skyriaus viršininkas
+
+10,47
+
+10,87
+
+11,27
+
+11,67
+
+12,07
+
+12,47
+
+6.
+
+Skyriaus viršininko pavaduotojas, poskyrio viršininkas
+
+9,93
+
+10,31
+
+10,69
+
+11,07
+
+11,45
+
+11,83
+
+7.
+
+Vyriausiasis specialistas
+
+9,55
+
+9,89
+
+10,23
+
+10,57
+
+10,93
+
+11,29
+
+8.
+
+Vyresnysis specialistas
+
+8,27
+
+8,56
+
+8,85
+
+9,14
+
+9,43
+
+9,74
+
+9.
+
+Specialistas
+
+7,00
+
+7,25
+
+7,50
+
+7,75
+
+8,00
+
+8,25
+
+10.
+
+Jaunesnysis specialistas
+
+5,30
+
+5,59
+
+5,88
+
+6,17
+
+6,46
+
+6,75
+
 Priedėlio pakeitimai:
 
 Nr. VIII-2057, 2000 10 17, Žin., 2000, Nr. 92-2887 (2000 10 31)
@@ -895,6 +1095,8 @@ Priedo pakeitimai:
 Nr. XII-1630, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06452
 
 Nr. XII-1764, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09300
+
+Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
 
 Pakeitimai:
 
