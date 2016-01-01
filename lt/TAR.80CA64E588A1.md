@@ -4,7 +4,7 @@ identifier: "TAR.80CA64E588A1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-25"
-last_updated: "2015-10-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.80CA64E588A1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymo 17 straipsnio 5 dalis įsigalioja nuo Li
 ---
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas
 
-Suvestinė redakcija nuo 2015-10-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3009, i. k. 1021010ISTA00IX-987
 
@@ -191,10 +191,6 @@ Straipsnio pakeitimai:
 
 Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
 
-TREČIASIS SKIRSNIS
-
-PARAMA ŽEMĖS ŪKIUI, MAISTO ŪKIUI IR KAIMO PLĖTRAI
-
 6 straipsnis. Žemės ūkio, maisto ūkio ir kaimo plėtros paramos įgyvendinimo principai
 
 Parama žemės ūkiui, maisto ūkiui ir kaimo plėtrai teikiama vadovaujantis šiais principais:
@@ -328,6 +324,24 @@ Asmenys, pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Lietuvos Respublikos
+
+žemės ūkio, maisto ūkio ir
+
+kaimo plėtros įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/128/EB, nustatanti Bendrijos veiksmų pagrindus siekiant tausiojo pesticidų naudojimo (OL 2009 L 309, p. 71).
+
+2. 2013 m. vasario 5 d. Europos Tarybos ir Parlamento reglamentas (ES) Nr. 167/2013 dėl žemės ir miškų ūkio transporto priemonių patvirtinimo ir rinkos priežiūros (OL 2013 L 60, p. 1).
+
+Papildyta priedu:
+
+Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
 
 Pakeitimai:
 
@@ -574,4 +588,20 @@ Asmenys, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvar
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+51 straipsnis. Žemės ūkio, maisto ūkio ir kaimo plėtros politika Šiaurės Lietuvos karstiniame regione
+
+1. Šiaurės Lietuvos karstiniame regione, kurio teritoriją nustato Lietuvos Respublikos Vyriausybė, požeminiams vandenims nuo taršos apsaugoti ir ekstensyvaus ūkininkavimo metodams plėtoti, nepažeidžiant šiame regione gyvenančių ir dirbančių asmenų teisėtų interesų, sudaromas veiksmų planas.
+
+2. Žemės ūkio ministerijos parengtą ir su Aplinkos ministerija suderintą veiksmų planą tvirtina žemės ūkio ministras. Veiksmų planas finansuojamas iš Žemės ūkio ministerijai ir Aplinkos ministerijai skirtų Lietuvos Respublikos valstybės biudžeto lėšų lygiomis dalimis.
+
+3. Patvirtintą veiksmų planą įgyvendina viešoji įstaiga „Tatulos programa“.
+
+Papildyta straipsniu:
+
+Nr. XII-1729, 2015-05-19, paskelbta TAR 2015-05-27, i. k. 2015-08127
+
+TREČIASIS SKIRSNIS
+
+PARAMA ŽEMĖS ŪKIUI, MAISTO ŪKIUI IR KAIMO PLĖTRAI
 
