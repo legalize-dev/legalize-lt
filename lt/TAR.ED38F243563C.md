@@ -4,7 +4,7 @@ identifier: "TAR.ED38F243563C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-07-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
 
@@ -79,7 +79,11 @@ Nr. X-1387, 2007-12-18, Žin., 2007, Nr. 138-5646 (2007-12-29)
 
 3 straipsnis. Valstybinių pensijų mokėjimo sąlygos
 
-Asmeniui, turinčiam teisę gauti kelias valstybines pensijas, jo pasirinkimu mokama tik viena iš jų, išskyrus valstybinę našlių ir našlaičių pensiją, kuri taip pat gali būti mokama tik viena su viena iš valstybinių pensijų. Šio įstatymo 14 straipsnio 3 dalyje nurodytiems asmenims nustatyta nukentėjusių asmenų valstybinė našlaičių pensija skiriama ir mokama, jeigu asmuo neturi teisės į kitą nukentėjusių asmenų valstybinę pensiją.
+Asmeniui, turinčiam teisę gauti kelias valstybines pensijas, jo pasirinkimu mokama tik viena iš jų, išskyrus valstybinę našlių ir našlaičių pensiją, kuri taip pat gali būti mokama tik viena su viena iš valstybinių pensijų. Asmeniui, turinčiam teisę gauti šio įstatymo 14 straipsnio 3 dalyje nustatytą nukentėjusiųjų asmenų valstybinę našlaičių pensiją ir kitą nukentėjusiųjų asmenų valstybinę pensiją (taip pat nukentėjusiųjų asmenų valstybinę našlių pensiją pagal šio įstatymo 14 straipsnio 5 dalies 5 punktą), jo pasirinkimu mokama tik viena iš jų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2222, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20902
 
 Asmeniui, turinčiam teisę gauti valstybinę našlių pensiją už mirusį valstybinės pensijos, nurodytos šio įstatymo 1 straipsnio 1 dalies 1 ir 3 punktuose, gavėją ir valstybinę socialinio draudimo našlių pensiją, jo pasirinkimu skiriama ir mokama arba valstybinė našlių pensija, arba valstybinė socialinio draudimo našlių pensija. Asmeniui, turinčiam teisę gauti valstybinę našlaičių pensiją už mirusį valstybinės pensijos, nurodytos šio įstatymo 1 straipsnio 1 dalies 1–3 punktuose, gavėją ir valstybinę socialinio draudimo našlaičių pensiją, jo pasirinkimu skiriama ir mokama arba valstybinė našlaičių pensija, arba valstybinė socialinio draudimo našlaičių pensija.
 
@@ -567,7 +571,11 @@ Nukentėjusiųjų asmenų valstybinė našlių ir našlaičių pensija skiriama 
 
 Kiekvienam iš šių asmenų mokama 8 valstybinių pensijų bazių dydžio našlių ar našlaičių pensija.
 
-Teisę į valstybinių pensijų bazės dydžio nukentėjusiųjų asmenų valstybinę našlių ir našlaičių pensiją turi pasipriešinimo 1940–1990 metų okupacijoms dalyvių, žuvusių kovos lauke ar suėmimo metu, nužudytų ar mirusių tardymo ar kalinimo metu, nuteistų mirties bausme, jei bausmė įvykdyta, našliai (našlės), taip pat našlaičiai vaikai (įvaikai), jeigu jie tėvų mirties metu buvo nepilnamečiai, bei politinių kalinių vaikai (įvaikai), jeigu jie abiejų kalinčių tėvų mirties metu (taip pat jeigu vienas tėvų (įtėvių) buvo miręs, ištremtas arba dingęs be žinios, o kitas kalėjo) buvo nepilnamečiai. Šioje dalyje nurodytiems asmenims nustatyta nukentėjusiųjų asmenų valstybinė našlaičių pensija skiriama ir mokama, jei jie neturi teisės į kitą nukentėjusiųjų asmenų valstybinę pensiją.
+Teisę į valstybinių pensijų bazės dydžio nukentėjusiųjų asmenų valstybinę našlių ir našlaičių pensiją turi pasipriešinimo 1940–1990 metų okupacijoms dalyvių, žuvusių kovos lauke, ginkluoto susirėmimo, sulaikymo, suėmimo ar okupacinės valdžios vykdytų slaptų operacijų, baudžiamųjų akcijų metu, GULAG’o politinių kalinių sukilimų ar streikų malšinimo metu, nužudytų ar mirusių tardymo ar kalinimo metu, nuteistų mirties bausme, jeigu bausmė įvykdyta, našliai (našlės), taip pat našlaičiai vaikai (įvaikiai), jeigu jie tėvų mirties metu buvo nepilnamečiai, ir politinių kalinių vaikai (įvaikiai), jeigu jie abiejų kalinčių tėvų mirties metu (taip pat jeigu vienas tėvų (įtėvių) buvo miręs, ištremtas arba dingęs be žinios, o kitas kalėjo) buvo nepilnamečiai. Nukentėjusiųjų asmenų valstybinė našlaičių pensija šioje dalyje nurodytiems asmenims skiriama tik už vieną iš tėvų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2222, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20902
 
 Šio straipsnio trečiojoje dalyje nurodytų nukentėjusiųjų asmenų valstybinė našlių ir našlaičių pensija skiriama ir mokama, jeigu turintys teisę ją gauti asmenys yra sukakę senatvės pensijos amžių arba pripažinti nedarbingais ar iš dalies darbingais, netekusiais 60 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. - I ar II grupės invalidais).
 
