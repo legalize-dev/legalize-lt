@@ -4,7 +4,7 @@ identifier: "TAR.68CC8934A031"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-13"
-last_updated: "2015-08-17"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.68CC8934A031"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS CIVILINĮ PROCESĄ REGLAMENTUOJANČIŲ EUROPOS SĄJUNGOS
 
 IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2015-08-17 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-05-24
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
 
@@ -50,21 +50,13 @@ Vykdomuosius raštus dėl Europos Sąjungos Tarybos ar Europos Bendrijų Komisij
 
 TREČIASIS SKIRSNIS
 
-2007 M. LAPKRIČIO 13 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (EB) NR. 1393/2007 DĖL TEISMINIŲ IR NETEISMINIŲ DOKUMENTŲ CIVILINĖSE ARBA KOMERCINĖSE BYLOSE ĮTEIKIMO VALSTYBĖSE NARĖSE („DOKUMENTŲ ĮTEIKIMAS“) IR PANAIKINANČIO TARYBOS REGLAMENTĄ (EB) NR. 1348/2000 IR 1965 M. LAPKRIČIO 15 D. HAGOS KONVENCIJOS DĖL TEISMINIŲ IR NETEISMINIŲ DOKUMENTŲ CIVILINĖSE ARBA KOMERCINĖSE BYLOSE ĮTEIKIMO UŽSIENYJE
+2007 M. LAPKRIČIO 13 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (EB) NR. 1393/2007 DĖL TEISMINIŲ IR NETEISMINIŲ DOKUMENTŲ CIVILINĖSE ARBA KOMERCINĖSE BYLOSE ĮTEIKIMO VALSTYBĖSE NARĖSE („DOKUMENTŲ ĮTEIKIMAS“) IR PANAIKINANČIO TARYBOS REGLAMENTĄ (EB) NR. 1348/2000 IR 1965 M. LAPKRIČIO 15 D. HAGOS KONVENCIJOS DĖL TEISMINIŲ IR NETEISMINIŲ DOKUMENTŲ CIVILINĖSE ARBA KOMERCINĖSE BYLOSE ĮTEIKIMO UŽSIENYJE ĮGYVENDINIMAS
 
-ĮGYVENDINIMAS
+3 straipsnis. Iš užsienio gautų dokumentų įteikimo tvarka
 
-3 straipsnis. Praleisto apeliacinio skundo padavimo termino atnaujinimas
+1. Iš užsienio gauti dokumentai įteikiami Lietuvos Respublikos civilinio proceso kodekso ir Lietuvos Respublikos teisingumo ministro nustatyta tvarka tiek, kiek 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1393/2007 dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo valstybėse narėse („dokumentų įteikimas“) ir panaikinantis Tarybos reglamentą (EB) Nr. 1348/2000 (toliau šiame skirsnyje – Reglamentas (EB) Nr. 1393/2007), 1965 m. lapkričio 15 d. Hagos konvencija dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo užsienyje (toliau šiame skirsnyje – 1965 m. Hagos konvencija) ir šis įstatymas nenustato kitaip.
 
-2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1393/2007 dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo valstybėse narėse („dokumentų įteikimas“) ir panaikinančio Tarybos reglamentą (EB) Nr. 1348/2000 19 straipsnio 4 dalyje ir 1965 m. lapkričio 15 d. Hagos konvencijos dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo užsienyje 16 straipsnio 1 dalyje nustatytais atvejais atsakovas turi teisę paduoti prašymą atnaujinti praleistą apeliacinio skundo padavimo terminą. Prašymas atnaujinti praleistą apeliacinio skundo padavimo terminą negali būti paduotas, jeigu praėjo daugiau kaip vieni metai nuo teismo sprendimo priėmimo dienos.
-
-KETVIRTASIS SKIRSNIS
-
-EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMŲ SPRENDIMŲ PRIPAŽINIMO IR VYKDYMO TVARKA
-
-Pakeistas skirsnio pavadinimas:
-
-Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
+2. Apmokestinimo už dokumentų įteikimą Lietuvos Respublikoje tvarką nustato Lietuvos Respublikos teisingumo ministras Lietuvos Respublikos antstolių įstatymo nustatyta tvarka.
 
 4 straipsnis. Europos Sąjungos valstybių narių teismų sprendimų pripažinimo ir vykdymo tvarka
 
@@ -278,27 +270,25 @@ Teismų sprendimai, priimti pagal Europos ieškinių dėl nedidelių sumų nagri
 
 4. Jeigu toje pačioje byloje dėl Europos ieškinių dėl nedidelių sumų paduodamas apeliacinis skundas ir prašymas dėl sprendimo peržiūrėjimo, pirmiausia turi būti išnagrinėtas apeliacinis skundas.
 
-31 straipsnis. Sprendimų vykdymas
+31 straipsnis. 1965 m. Hagos konvencijos įgyvendinimas
 
-1. Teismo sprendimas, priimtas pagal Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą ir patvirtintas Reglamento (EB) Nr. 861/2007 IV priede išdėstyta standartine D forma, laikomas vykdomuoju dokumentu.
+1965 m. Hagos konvencija Lietuvos Respublikoje įgyvendinama vadovaujantis Lietuvos Respublikos Konvencijos dėl teisminių ir neteisminių dokumentų civilinėse ar komercinėse bylose įteikimo užsienyje ratifikavimo įstatymu.
 
-2. Reglamento (EB) Nr. 861/2007 22 straipsnio 1 dalyje nurodytus prašymus dėl atsisakymo vykdyti sprendimus, priimtus pagal Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą, nagrinėja Lietuvos apeliacinis teismas. Šie prašymai nagrinėjami mutatis mutandis taikant šio įstatymo 4 straipsnio 4, 5 ir 6 dalių nuostatas.
+32 straipsnis. Centrinė įstaiga
 
-3. Reglamento (EB) Nr. 861/2007 23 straipsnyje nurodytus prašymus dėl sprendimų, priimtų pagal Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą, vykdymo sustabdymo ar apribojimo nagrinėja vykdymo vietos apylinkės teismas.
+1. Centrinė įstaiga Reglamento (EB) Nr. 1393/2007 3 straipsnyje nustatytoms funkcijoms atlikti yra Lietuvos Respublikos teisingumo ministerija.
 
-DEVINTASIS1 SKIRSNIS
+2. Centrinė įstaiga 1965 m. Hagos konvencijoje nustatytoms funkcijoms atlikti, paskirta pagal 1965 m. Hagos konvencijos 2 straipsnį, yra Lietuvos Respublikos teisingumo ministerija.
 
-2008 M. GRUODŽIO 18 D. TARYBOS REGLAMENTO (EB) Nr. 4/2009 DĖL JURISDIKCIJOS, TAIKYTINOS TEISĖS, TEISMO SPRENDIMŲ PRIPAŽINIMO IR VYKDYMO BEI BENDRADARBIAVIMO IŠLAIKYMO PRIEVOLIŲ SRITYJE ĮGYVENDINIMAS
+33 straipsnis. Dokumentus perduodančios ir priimančios įstaigos
 
-32 straipsnis. Įstatymo taikymas
+1. Perduoti dokumentus užsienio valstybei pagal Reglamentą (EB) Nr. 1393/2007 ir 1965 m. Hagos konvenciją yra kompetentingi visi Lietuvos Respublikos bendrosios kompetencijos teismai, kurie nagrinėja civilines ir komercines bylas.
 
-1. Šis įstatymas yra taikomas ieškiniams (prašymams, pareiškimams), kurie pareikšti po šio įstatymo įsigaliojimo.
+2. Pagal Reglamento (EB) Nr. 1393/2007 2 straipsnio 2 dalį paskirta įstaiga, kompetentinga priimti kitų valstybių narių prašymus dėl dokumentų įteikimo, yra Lietuvos antstolių rūmai.
 
-2. Ieškiniai (prašymai, pareiškimai), pareikšti iki šio įstatymo įsigaliojimo, nagrinėjami pagal iki šio įstatymo įsigaliojimo galiojusias nuostatas.
+3. Pagal 1965 m. Hagos konvencijos 2 straipsnį paskirta centrinė įstaiga priima kitų susitariančiųjų valstybių prašymus dėl dokumentų įteikimo ir perduoda Lietuvos antstolių rūmams.
 
-33 straipsnis. Teisės aktų pripažinimas netekusiais galios
-
-Įsigaliojus šiam įstatymui, netenka galios:
+4. Lietuvos antstolių rūmai šio straipsnio 2 ir 3 dalyse nustatytais atvejais organizuoja ir koordinuoja dokumentų įteikimą ir jų perdavimą antstoliams vykdyti.
 
 311 straipsnis. Su išlaikymo prievolėmis susijusių bylų nagrinėjimas
 
@@ -481,4 +471,20 @@ Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
 DEVINTASIS4 SKIRSNIS
 
 2013 M. BIRŽELIO 12 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (ES) NR. 606/2013 DĖL APSAUGOS PRIEMONIŲ TARPUSAVIO PRIPAŽINIMO CIVILINĖSE BYLOSE ĮGYVENDINIMAS
+
+34 straipsnis. Praleisto apeliacinio skundo padavimo termino atnaujinimas
+
+Reglamento (EB) Nr. 1393/2007 19 straipsnio 4 dalyje ir 1965 m. Hagos konvencijos 16 straipsnio 1 dalyje nustatytais atvejais atsakovas turi teisę paduoti prašymą atnaujinti praleistą apeliacinio skundo padavimo terminą. Prašymas atnaujinti praleistą apeliacinio skundo padavimo terminą nenagrinėjamas, jeigu praėjo daugiau kaip vieni metai nuo teismo sprendimo priėmimo dienos.
+
+Skirsnio pakeitimai:
+
+Nr. XII-2197, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20895
+
+KETVIRTASIS SKIRSNIS
+
+EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMŲ SPRENDIMŲ PRIPAŽINIMO IR VYKDYMO TVARKA
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
 
