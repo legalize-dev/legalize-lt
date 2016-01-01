@@ -4,7 +4,7 @@ identifier: "TAR.9F4371AB03A3"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-18"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos advokatūros įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-01-17
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 50-1632, i. k. 1041010ISTA0IX-2066
 
@@ -208,7 +208,11 @@ Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 
 17 straipsnis. Teisė verstis advokato veikla
 
-1. Teisę verstis advokato veikla turi ir advokatų teises ir pareigas įgyja į advokatų, turinčių teisę verstis advokato veikla, sąrašą (toliau – Lietuvos praktikuojančių advokatų sąrašas) įrašyti advokatai, kurie turi šio straipsnio 3 dalyje nurodytą liudijimą. Teisės verstis advokato veikla liudijimo išdavimo diena laikoma advokato teisės verstis advokato veikla suteikimo diena.
+1. Teisę verstis advokato veikla turi ir advokatų teises ir pareigas įgyja į advokatų, turinčių teisę verstis advokato veikla, sąrašą (toliau – Lietuvos praktikuojančių advokatų sąrašas) įrašyti advokatai, kurie turi šio straipsnio 3 dalyje nurodytą advokato pažymėjimą. Advokato pažymėjimo išdavimo diena laikoma advokato teisės verstis advokato veikla suteikimo diena.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
 2. Advokatas įrašomas į Lietuvos praktikuojančių advokatų sąrašą, jeigu:
 
@@ -220,7 +224,11 @@ Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 
 4) nuo sprendimo pripažinti asmenį advokatu priėmimo dienos iki prašymo įrašyti į Lietuvos praktikuojančių advokatų sąrašą pateikimo Lietuvos advokatūrai dienos nepraėjo penkeri metai. Ši nuostata netaikoma šio Įstatymo 23 straipsnio 1 dalies 1 ir 4 punktuose nustatytais pagrindais iš Lietuvos praktikuojančių advokatų sąrašo išbrauktiems asmenims, pakartotinai įrašomiems į šį sąrašą.
 
-3. Lietuvos advokatūra ne vėliau kaip per dešimt dienų nuo sprendimo įrašyti advokatą į Lietuvos praktikuojančių advokatų sąrašą priėmimo dienos advokatui išduoda teisingumo ministro nustatytos formos teisės verstis advokato veikla liudijimą (jo kopija saugoma advokato asmens byloje) ir advokato pažymėjimą. Jeigu Lietuvos advokatūra nesilaiko šioje dalyje nustatyto termino, advokatas turi teisę per trisdešimt dienų kreiptis į Vilniaus apygardos teismą su prašymu įpareigoti Lietuvos advokatūrą išduoti teisės verstis advokato veikla liudijimą ir advokato pažymėjimą.
+3. Lietuvos advokatūra ne vėliau kaip per dešimt darbo dienų nuo sprendimo įrašyti advokatą į Lietuvos praktikuojančių advokatų sąrašą priėmimo dienos advokatui išduoda advokato pažymėjimą. Jeigu Lietuvos advokatūra nesilaiko šioje dalyje nustatyto termino, advokatas turi teisę per trisdešimt dienų kreiptis į Vilniaus apygardos teismą su prašymu įpareigoti Lietuvos advokatūrą išduoti advokato pažymėjimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
 4. Užsienio valstybių advokatai verstis advokato veikla Lietuvoje gali tik pagal Lietuvos Respublikos tarptautines sutartis dėl teisinės pagalbos, išskyrus šio Įstatymo dvyliktajame ir tryliktajame skirsniuose numatytus atvejus.
 
@@ -286,17 +294,17 @@ Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 
 3. Advokatas turi teisę keisti veiklos formą. Pakeitęs savo veiklos formą, advokatas apie tai turi pranešti Lietuvos advokatūrai.
 
-22 straipsnis. Reikalavimai advokato darbo vietai
+22 straipsnis. Advokato darbo vieta
 
-1. Advokato darbo vietoje turi būti priimamasis, telefoninis ryšis, užtikrintas korespondencijos priėmimas darbo dienomis ir kitos advokato veiklai tinkamai atlikti reikalingos priemonės.
+1. Advokato darbo vietoje turi būti sudarytos tinkamos klientų priėmimo sąlygos, užtikrintas korespondencijos priėmimas darbo dienomis ir kitos advokato veiklai tinkamai atlikti reikalingos priemonės. Advokato darbo vieta registruojama Lietuvos advokatūroje.
 
-2. Advokato darbo vietoje turi būti sudarytos tinkamos sąlygos klientams priimti.
+2. Advokato darbo vieta tame pačiame pastate, kuriame yra policijos, prokuratūros, teismo įstaiga, gali būti tik Lietuvos advokatūros leidimu.
 
-3. Advokato darbo vieta turi turėti matomoje vietoje pakabintą iškabą, kurioje turi būti nurodytas 26 straipsnio 3 dalyje ar 27 straipsnio 2 dalyje numatytas pavadinimas ar profesinės bendrijos pavadinimas.
+3. Lietuvos advokatūra nustato detalius advokato darbo vietai taikomus reikalavimus pagal šio straipsnio 1 dalį ir advokatų darbo vietų registravimo tvarką, tvarko advokatų darbo vietų sąrašą. Advokatų darbo vietų sąraše įrašomas advokato darbo vietos adresas, advokato vardas ir pavardė, telefono bei fakso numeriai, elektroninio pašto adresas.
 
-4. Advokato darbo vieta tame pačiame pastate, kuriame yra policijos, prokuratūros, teismo įstaiga, gali būti tik Lietuvos advokatūros leidimu.
+Straipsnio pakeitimai:
 
-5. Advokato darbo vietos (įskaitant advokatų profesinės bendrijos buveinę) adresą ir apie jo pasikeitimą advokatas turi pranešti Lietuvos advokatūrai. Lietuvos advokatūra tvarko advokatų darbo vietų sąrašą. Advokatų darbo vietų sąraše įrašomas advokato darbo vietos adresas, advokato vardas ir pavardė, telefono bei fakso numeriai, elektroninio pašto adresas.
+Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
 23 straipsnis. Išbraukimas iš Lietuvos praktikuojančių advokatų sąrašo
 
@@ -644,6 +652,12 @@ Nr. X-334, 2005-07-07, Žin., 2005, Nr. 88-3296 (2005-07-21)
 
 2. Klientų ir advokatų ginčus dėl teisinių paslaugų Lietuvos advokatūroje nagrinėja Lietuvos advokatūros advokatų taryba ar jos sudarytas organas. Šie ginčai nagrinėjami Lietuvos advokatūros advokatų tarybos nustatyta tvarka, suderinta su Lietuvos Respublikos teisingumo ministerija. Lietuvos advokatūros advokatų taryba ar jos sudarytas organas turi teisę priimti rekomendacinius sprendimus.
 
+3. Klientas – fizinis asmuo, kuris su savo verslu, prekyba, amatu ar profesija nesusijusiais tikslais (vartojimo tikslais) siekia sudaryti ar sudaro sutartį su advokatu dėl teisinių paslaugų, turi teisę kreiptis į Lietuvos advokatūros advokatų tarybos sudarytą komisiją (toliau – komisija) dėl šios sutarties standartinių sąlygų nesąžiningumo nustatymo. Komisiją sudaro penki nariai. Tris komisijos narius skiria Lietuvos advokatūros advokatų taryba ir du narius – teisingumo ministras. Komisijos darbo reglamentą tvirtina Lietuvos advokatūros advokatų taryba, suderinusi su Lietuvos Respublikos teisingumo ministerija. Komisijos sprendimas įsigalioja ir yra privalomas vykdyti, jeigu per trisdešimt dienų nuo jo įteikimo ginčo šalims nėra apskųstas Vilniaus apygardos teismui. Įsigaliojęs komisijos sprendimas yra vykdomasis dokumentas. Neįvykdytas komisijos sprendimas gali būti priverstinai vykdomas Civilinio proceso kodekso nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
+
 DEŠIMTASIS SKIRSNIS
 
 ADVOKATŲ (ADVOKATŲ PADĖJĖJŲ) DRAUSMINĖ ATSAKOMYBĖ
@@ -796,11 +810,19 @@ Nr. XI-2316, 2012-11-06, Žin., 2012, Nr. 132-6644 (2012-11-15)
 
 3) skiria narius į advokatų egzaminų komisiją ir pasiūlo advokatų egzaminų komisijos pirmininką;
 
-4) išduoda teisės verstis advokato veikla liudijimą;
+4) išduoda advokato pažymėjimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
 5) nustato nuorašų, nurodytų šio Įstatymo 44 straipsnio 5 punkte, tvirtinimo ir registravimo tvarką;
 
-6) tvarko advokatų darbo vietų sąrašą, nustato leidimų kurti darbo vietas tuose pačiuose pastatuose, kuriuose jau yra policijos, prokuratūros, teismo įstaigos, suteikimo tvarką;
+6) nustato detalius advokato darbo vietai taikomus reikalavimus, advokatų darbo vietų registravimo tvarką, leidimų kurti darbo vietas tuose pačiuose pastatuose, kuriuose jau yra policijos, prokuratūros, teismo įstaigos, suteikimo tvarką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
 7) priima sprendimus dėl advokatų įrašymo ir išbraukimo iš Lietuvos praktikuojančių advokatų sąrašo;
 
@@ -824,17 +846,23 @@ Nr. XI-2316, 2012-11-06, Žin., 2012, Nr. 132-6644 (2012-11-15)
 
 17) suderinusi su Lietuvos Respublikos teisingumo ministerija, nustato advokatų veiklos reklamos naudojimo reikalavimus ir kontrolės tvarką pagal šio Įstatymo 42 straipsnio 2 dalį;
 
-18) atlieka kitas Lietuvos advokatūros įstatuose numatytas funkcijas.
+18) suderinusi su Lietuvos Respublikos teisingumo ministerija, tvirtina advokatų ir fizinių asmenų, kurie su savo verslu, prekyba, amatu ar profesija nesusijusiais tikslais (vartojimo tikslais) siekia sudaryti ar sudaro sutartis, teisinių paslaugų sutarčių standartines sąlygas;
 
-Straipsnio pakeitimai:
+Papildyta straipsnio punktu:
 
-Nr. X-1494, 2008-04-15, Žin., 2008, Nr. 50-1843 (2008-04-30)
+Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
-Nr. XII-272, 2013-05-09, Žin., 2013, Nr. 54-2677 (2013-05-25)
+19) suderinusi su Lietuvos Respublikos teisingumo ministerija, tvirtina klientų ir advokatų ginčų dėl teisinių paslaugų nagrinėjimo tvarką ir šio įstatymo 51 straipsnio 3 dalyje nurodytos komisijos darbo reglamentą;
 
-Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
+Papildyta straipsnio punktu:
 
-Nr. XII-931, 2014-06-10, paskelbta TAR 2014-06-13, i. k. 2014-07627
+Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
+
+20) atlieka kitas Lietuvos advokatūros įstatuose numatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
 Straipsnio pakeitimai:
 
