@@ -4,7 +4,7 @@ identifier: "TAR.FC7AB69BE291"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-05-12"
-last_updated: "2015-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-02-29
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
 
@@ -663,21 +663,29 @@ Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
 
 11. Elektrinės, naudojančios atsinaujinančius energijos išteklius, kurioms netaikomos šiame straipsnyje numatytos skatinimo priemonės, gali būti statomos vadovaujantis bendraisiais teisės aktų reikalavimais. Šio įstatymo 13 straipsnio 3 dalyje nustatyti įrengtosios galios dydžiai ir (ar) Vyriausybės nustatoma didžiausia elektros energijos gamybos skatinimo kvota neriboja tokių elektrinių statybos ir (ar) eksploatavimo. Elektros energija, pagaminta elektrinėse, kurioms netaikoma skatinimo priemonė, prekiaujama Prekybos elektros energija taisyklėse nustatyta tvarka ir būdais.
 
-12. Elektros energiją gaminančių vartotojų (toliau – gaminantys vartotojai), kaip jie yra apibrėžti Elektros energetikos įstatymo 2 straipsnio 9 dalyje, saulės šviesos energijos elektrinėse, kurių įrengtoji galia yra ne didesnė kaip 10 kW, o biudžetinių ir viešųjų įstaigų, valdomų valstybės ar savivaldybės nuosavybės ar patikėjimo teise, statiniuose – ne didesnė kaip 50 kW, ir neviršija pusės gaminančio vartotojo objektui suteiktos leistinosios naudoti galios dydžio, pagaminto elektros energijos kiekio apskaita tvarkoma pagal elektros energijos apskaitos prietaisų, fiksuojančių suvartotą ir pagamintą elektros energiją, rodmenis. Jų pagrindu nustatoma:
+12. Elektros energiją gaminančių vartotojų (toliau – gaminantys vartotojai), kaip jie yra apibrėžti Elektros energetikos įstatymo 2 straipsnio 9 dalyje, saulės šviesos energijos elektrinėse, kurių įrengtoji galia yra ne didesnė kaip 10 kW, o saulės šviesos energijos elektrinėse, pastatytose ant valstybei ar savivaldybei priklausančių pastatų, kuriuos biudžetinės ar viešosios įstaigos valdo patikėjimo teise, ar integruotose į šiuos pastatus saulės šviesos energijos elektrinėse – ne didesnė kaip 50 kW, ir neviršija pusės gaminančio vartotojo objektui suteiktos leistinosios naudoti galios dydžio, pagaminto elektros energijos kiekio apskaita tvarkoma pagal elektros energijos apskaitos prietaisų, fiksuojančių suvartotą ir pagamintą elektros energiją, rodmenis. Jų pagrindu nustatoma:
 
-1) per kalendorinį mėnesį gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekis ir iš elektros energijos tinklų suvartotos elektros energijos kiekis;
+1) per kalendorinį mėnesį gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekis ir iš elektros tinklų suvartotos elektros energijos kiekis;
 
-2) per kalendorinius metus gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekio ir iš elektros energijos tinklų suvartotos elektros energijos kiekio santykis: jeigu gaminantis vartotojas per einamąjį kalendorinį mėnesį į elektros tinklus patiekia daugiau elektros energijos negu suvartoja, tai tarp patiektos į elektros tinklus ir suvartotos elektros energijos susidaręs elektros energijos skirtumas perkeliamas į kitą kalendorinį mėnesį kaip gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekis, kuris yra kaupiamas einamųjų kalendorinių metų laikotarpiu; jeigu gaminantis vartotojas per einamąjį kalendorinį mėnesį į elektros tinklus patiekia mažiau elektros energijos negu suvartoja, tai tarp per einamąjį kalendorinį mėnesį patiektos į elektros tinklus ir suvartotos elektros energijos susidaręs elektros energijos skirtumas yra atimamas iš per einamuosius kalendorinius metus gaminančio vartotojo sukaupto į elektros tinklus patiektos elektros energijos kiekio; jeigu pasibaigus kalendoriniam mėnesiui gaminančio vartotojo suvartotos elektros energijos kiekis yra didesnis negu jo į elektros tinklus patiektos elektros energijos kiekis, už šį skirtumą gaminantis vartotojas moka pagal gaminančio vartotojo ir elektros tiekėjo sudarytoje elektros energijos pirkimo–pardavimo sutartyje nustatytą įkainį; per einamuosius kalendorinius metus gaminančio vartotojo suvartotą elektros energiją viršijantis į elektros tinklus patiektos elektros energijos kiekis į kitus kalendorinius metus nėra perkeliamas ir už šį kiekį gaminančiam vartotojui nėra mokama.
+2) per laikotarpį nuo einamųjų metų balandžio 1 dienos iki kitų metų kovo 31 dienos (toliau – kaupimo laikotarpis) gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekio ir iš elektros tinklų suvartotos elektros energijos kiekio santykis: jeigu gaminantis vartotojas per einamąjį kalendorinį mėnesį į elektros tinklus patiekia daugiau elektros energijos negu suvartoja, tai tarp patiektos į elektros tinklus ir suvartotos elektros energijos susidaręs elektros energijos skirtumas perkeliamas į kitą kalendorinį mėnesį kaip gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekis, kuris yra kaupiamas kaupimo laikotarpiu; jeigu gaminantis vartotojas per einamąjį kalendorinį mėnesį į elektros tinklus patiekia mažiau elektros energijos negu suvartoja, tai tarp per einamąjį kalendorinį mėnesį patiektos į elektros tinklus ir suvartotos elektros energijos susidaręs elektros energijos skirtumas yra atimamas iš per kaupimo laikotarpį gaminančio vartotojo sukaupto į elektros tinklus patiektos elektros energijos kiekio; jeigu pasibaigus kalendoriniam mėnesiui gaminančio vartotojo suvartotos elektros energijos kiekis yra didesnis negu jo į elektros tinklus patiektos elektros energijos kiekis, už šį skirtumą gaminantis vartotojas moka pagal gaminančio vartotojo ir elektros tiekėjo sudarytoje elektros energijos pirkimo–pardavimo sutartyje nustatytą įkainį; per kaupimo laikotarpį gaminančio vartotojo suvartotą elektros energiją viršijantis į elektros tinklus patiektos elektros energijos kiekis į kitą kaupimo laikotarpį nėra perkeliamas ir už šį kiekį gaminančiam vartotojui nėra mokama.
+
+TAR pastaba. Elektros energiją gaminančių vartotojų į elektros tinklus patiektos elektros energijos kiekio, iš elektros tinklų suvartotos elektros energijos kiekio bei šių kiekių santykio 2015 metų apskaičiavimo laikotarpis pratęsiamas iki 2016 m. kovo 31 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2185, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20142
+
+13. Gaminantis vartotojas už elektros energijos kiekį, kuris kaupimo laikotarpiu buvo patiektas į elektros tinklus ir po to suvartotas savo reikmėms ir ūkio poreikiams, nemoka už viešuosius interesus atitinkančias paslaugas ir už tinklų operatorių suteiktas paslaugas, išskyrus Elektros energetikos įstatymo nustatyta tvarka ir sąlygomis Valstybinės kainų ir energetikos kontrolės komisijos gaminantiems vartotojams nustatytą naudojimosi elektros tinklais kainą.
+
+TAR pastaba. Elektros energiją gaminančių vartotojų į elektros tinklus patiektos elektros energijos kiekio, iš elektros tinklų suvartotos elektros energijos kiekio bei šių kiekių santykio 2015 metų apskaičiavimo laikotarpis pratęsiamas iki 2016 m. kovo 31 d.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1389, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20428
 
-13. Gaminantis vartotojas už elektros energijos kiekį, kuris einamųjų kalendorinių metų laikotarpiu buvo patiektas į elektros tinklus ir po to suvartotas savo reikmėms ir ūkio poreikiams, nemoka už viešuosius interesus atitinkančias paslaugas ir už tinklų operatorių suteiktas paslaugas, išskyrus Elektros energetikos įstatymo nustatyta tvarka ir sąlygomis Valstybinės kainų ir energetikos kontrolės komisijos gaminantiems vartotojams nustatytą naudojimosi elektros tinklais kainą.
+Straipsnio dalies pakeitimai:
 
-Papildyta straipsnio dalimi:
-
-Nr. XII-1389, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20428
+Nr. XII-2185, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20142
 
 14. Vyriausybės nustatyta tvarka ir sąlygomis ne didesnės kaip 10 kW įrengtosios galios elektrinėse pagaminta perteklinė elektros energija privalomai superkama už nustatytą fiksuotą tarifą. Pertekline elektros energija pripažįstama ne daugiau kaip 50 procentų vartotojo elektros tinkle įrengtose elektrinėse, kuriose elektros energijai gaminti naudojami atsinaujinantys energijos ištekliai, pagamintos elektros energijos per kalendorinius metus. Perteklinė elektros energija superkama Valstybinės kainų ir energetikos kontrolės komisijos nustatytais fiksuotais tarifais, kurie galiojo perteklinės elektros energijos patiekimo į elektros tinklus dieną. Perteklinė elektros energija superkama ne ilgiau kaip 12 metų nuo to momento, kai perteklinės elektros energijos gamintojas pasirašė prijungimo prie tinklų sutartį su tinklų operatoriumi.
 
