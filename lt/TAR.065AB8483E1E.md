@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2015-10-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2015-10-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-01-06
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
 
@@ -594,11 +594,37 @@ VIešosios informacijos rengėjų, SKLEIDĖJŲ, ŽURNALISTŲ STATUSO REGLAMENTAV
 
 7. Komisijos sprendimas, kuriuo atsisakoma duoti sutikimą dėl transliavimo ir (ar) retransliuojamo turinio licencijos turėtojo akcijų (dalių, pajų) ir (ar) kontrolės (valdymo) perleidimo, gali būti skundžiamas Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-8. Valstybės ir savivaldybių institucijos bei įstaigos (išskyrus mokslo ir mokymo įstaigas), bankai, politinės partijos negali būti viešosios informacijos rengėjais ir (ar) jų dalyviais, bet gali leisti neperiodinius informacinio pobūdžio leidinius, turėti informacinės visuomenės informavimo priemones, skirtas visuomenei informuoti apie savo veiklą, jeigu įstatymų nenustatyta kitaip.
+8. Viešosios informacijos rengėjais ir (ar) jų dalyviais negali būti, taip pat negali įgaliojimo pagrindu jų valdyti:
 
-9. Kiekvienas viešosios informacijos rengėjas ar jo dalyvis turi paskirti asmenį (vyriausiąjį redaktorių, redaktorių, programos vedėją ar kitą asmenį), kuris atsako už visuomenės informavimo priemonės turinį. Kai viešosios informacijos rengėjas ir dalyvis yra tas pats fizinis asmuo, jis atsako už savo visuomenės informavimo priemonės turinį.
+1) valstybės institucijos ir įstaigos (išskyrus mokslo ir studijų institucijas bei švietimo įstaigas), taip pat juridiniai asmenys, kurių steigėjas, dalininkas ar akcininkas yra valstybė, jos institucija ar įstaiga;
 
-10. Viešosios informacijos rengėjai ir (ar) skleidėjai:
+2) savivaldybių institucijos ir įstaigos (išskyrus mokslo ir studijų institucijas bei švietimo įstaigas), taip pat juridiniai asmenys, kurių steigėjas, dalininkas ar akcininkas yra savivaldybė, jos institucija ar įstaiga;
+
+3) bankai ir jų įsteigti ir (ar) valdomi juridiniai asmenys;
+
+4) politinės partijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1941, 2015-09-22, paskelbta TAR 2015-09-25, i. k. 2015-14259
+
+9. Šio straipsnio 8 dalyje nurodyti subjektai gali leisti neperiodinius informacinio pobūdžio leidinius, turėti informacinės visuomenės informavimo priemonių, skirtų visuomenei informuoti apie savo veiklą. Valstybės ir savivaldybių mokslo ir studijų institucijos bei švietimo įstaigos turimas informacinės visuomenės informavimo priemones ir jose skleidžiamą viešąją informaciją naudoja tik tiek, kiek tai susiję su mokslo, studijų ir švietimo veikla.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1941, 2015-09-22, paskelbta TAR 2015-09-25, i. k. 2015-14259
+
+10. Kiekvienas viešosios informacijos rengėjas ar jo dalyvis turi paskirti asmenį (vyriausiąjį redaktorių, redaktorių, programos vedėją ar kitą asmenį), kuris atsako už visuomenės informavimo priemonės turinį. Kai viešosios informacijos rengėjas ir dalyvis yra tas pats fizinis asmuo, jis atsako už savo visuomenės informavimo priemonės turinį.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1941, 2015-09-22, paskelbta TAR 2015-09-25, i. k. 2015-14259
+
+11. Viešosios informacijos rengėjai ir (ar) skleidėjai:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1941, 2015-09-22, paskelbta TAR 2015-09-25, i. k. 2015-14259
 
 1) skleisdami informaciją visuomenei, neturi iškraipyti teisingos, nešališkos informacijos bei nuomonių ir panaudoti tai savanaudiškiems tikslams. Viešoji informacija yra nesuderinama su žurnalistinėmis kampanijomis, rengiamomis pagal išankstinius nusistatymus ar tenkinant grupinius, politinius interesus;
 
