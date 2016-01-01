@@ -4,7 +4,7 @@ identifier: "TAR.B68E6BF6330B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-07-08"
-last_updated: "2012-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B68E6BF6330B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 117-4369, i. k. 1041010ISTA0IX-2332
 
@@ -49,8 +49,6 @@ Nr. XI-1161, 2010-11-23, Žin., 2010, Nr. 145-7418 (2010-12-11), i. k. 1101010IS
 
 Mokesčio objektas yra valstybės įmonės savininko patikėjimo teise valstybės įmonei perduotas turtas, kurio vertė šiame įstatyme prilyginama valstybės įmonės savininko kapitalui, išskyrus žemę.
 
-TAR pastaba. 4 straipsnio nuostata taikoma apskaičiuojant mokestį už valstybės turto naudojimą patikėjimo teise už 2005 metais prasidėjusį ir vėlesnius mokestinius laikotarpius.
-
 Straipsnio pakeitimai:
 
 Nr. X-246, 2005-06-16, Žin., 2005, Nr. 81-2938 (2005-06-30), i. k. 1051010ISTA000X-246
@@ -83,7 +81,11 @@ Nr. XI-1753, 2011-12-01, Žin., 2011, Nr. 150-7052 (2011-12-08), i. k. 1111010IS
 
 1. Valstybės įmonės savininko kapitalo dydis, nuo kurio skaičiuojamas mokestis, nustatomas pagal mokestinio laikotarpio pirmos dienos būklę.
 
-2. Valstybės įmonė pateikia teritorinei valstybinei mokesčių inspekcijai, kurioje ji įregistruota kaip mokesčių mokėtoja, mokesčio deklaraciją iki mokestinio laikotarpio septinto mėnesio pirmos dienos.
+2. Valstybės įmonė pateikia teritorinei valstybinei mokesčių inspekcijai, kurioje ji įregistruota kaip mokesčių mokėtoja, mokesčio deklaraciją iki mokestinio laikotarpio septinto mėnesio penkioliktos dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2156, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19853
 
 3. Mokesčio deklaracijos formą bei užpildymo tvarką nustato Valstybinė mokesčių inspekcija prie Finansų ministerijos.
 
@@ -113,7 +115,7 @@ Už šio įstatymo pažeidimus skiriamos baudos ir skaičiuojami delspinigiai Li
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -148,4 +150,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1753, 2011-12-01, Žin., 2011, Nr. 150-7052 (2011-12-08), i. k. 1111010ISTA0XI-1753
 
 Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymo 5 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2156, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19853
+
+Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymo Nr. IX-2332 7 straipsnio pakeitimo įstatymas
 
