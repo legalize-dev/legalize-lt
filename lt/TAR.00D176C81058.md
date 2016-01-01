@@ -4,7 +4,7 @@ identifier: "TAR.00D176C81058"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-02-11"
-last_updated: "2013-07-13"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.00D176C81058"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Šio įstatymo 22 straipsnis įsigalioja 2010 m. k
 
 LIETUVOS RESPUBLIKOS ŠEIMYNŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2013-07-13 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 2010, Nr. 25-1176, i. k. 1101010ISTA00XI-681
 
@@ -136,25 +136,33 @@ TREČIASIS SKIRSNIS
 
 ŠEIMYNOS TEISĖS, PAREIGOS IR ATSAKOMYBĖ
 
-7 straipsnis. Šeimynos teisės
+7 straipsnis. Šeimynos teisės ir garantijos
 
-1. Šeimyna gali turėti ir įgyti tik tokias civilines teises ir pareigas, kurios neprieštarauja šeimynos įstatams ir jos veiklos tikslams.
+1. Šeimyna gali turėti ir įgyti tik tokias civilines teises, kurios neprieštarauja šeimynos įstatams ir jos veiklos tikslams.
 
 2. Šeimyna gali:
 
-1) gauti iš valstybės, savivaldybės ir kitų asmenų finansinę ir materialinę pagalbą šeimynos veiklai užtikrinti;
+1) sudaryti sandorius, neprieštaraujančius šeimynos veiklos tikslams;
 
-2) gauti teisės aktų nustatyta tvarka finansavimą už vaiko poreikius atitinkančios socialinės globos teikimą;
+2) sudaryti sandorius šeimynos globojamų vaikų iki keturiolikos metų vardu ar duoti sutikimą šeimynos rūpinamiems vaikams nuo keturiolikos iki aštuoniolikos metų patiems sudaryti sandorius įstatymų nustatyta tvarka;
 
-3) sudaryti sandorius, neprieštaraujančius šeimynos veiklos tikslams;
+3) gauti iš valstybės ir savivaldybių institucijų ir įstaigų dokumentus ir informaciją, tiesiogiai susijusius su šeimynos globojamais (rūpinamais) vaikais;
 
-4) sudaryti sandorius šeimynos globojamų vaikų iki keturiolikos metų vardu ar duoti sutikimą šeimynos rūpinamiems vaikams nuo keturiolikos iki aštuoniolikos metų patiems sudaryti sandorius įstatymų nustatyta tvarka;
+4) gauti kitokią negu valstybės ar savivaldybės garantuojamą, kitų asmenų finansinę ir materialinę pagalbą šeimynos veiklai užtikrinti.
 
-5) gauti iš valstybės ir savivaldybių institucijų ir įstaigų dokumentus ir informaciją, tiesiogiai susijusius su šeimynos globojamais (rūpinamais) vaikais;
+3. Šeimynai garantuojama:
 
-6) neatlygintinai gauti iš valstybės ir savivaldybių vaiko teisių apsaugos institucijų metodinę pagalbą vaiko globos (rūpybos), o iš socialinę globą organizuojančių institucijų – socialinės globos klausimais.
+1) valstybės ir savivaldybės finansinė ir materialinė pagalba šeimynos veiklai užtikrinti;
 
-3. Šeimyna gali turėti ir kitų teisių, nustatytų įstatymuose ir kituose teisės aktuose.
+2) teisės aktų nustatyta tvarka finansavimas už vaiko poreikius atitinkančios socialinės globos teikimą;
+
+3) neatlygintina valstybės ir savivaldybių vaiko teisių apsaugos institucijų teikiama metodinė pagalba vaiko globos (rūpybos), o iš socialinę globą organizuojančių institucijų – socialinės globos klausimais.
+
+4. Šeimyna gali turėti ir kitų teisių bei garantijų, nustatytų įstatymuose ir kituose teisės aktuose.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
 
 8 straipsnis. Šeimynos pareigos ir atsakomybė
 
@@ -220,7 +228,7 @@ KETVIRTASIS SKIRSNIS
 
 5. Šeimynos dalyvis veikia šeimynos vardu vienasmeniškai, o šeimynos dalyviai sprendimus priima bendru sutarimu šio įstatymo nustatyta tvarka.
 
-10 straipsnis. Šeimynos dalyvių teisės
+10 straipsnis. Šeimynos dalyvių teisės ir garantijos
 
 1. Šeimynos dalyviai tik bendru sutarimu turi teisę:
 
@@ -228,19 +236,17 @@ KETVIRTASIS SKIRSNIS
 
 2) surašyti ir pasirašyti pinigų ar kito turto perdavimo šeimynai dokumentus;
 
-3) gauti šio įstatymo 12 straipsnio 1 dalyje nurodytas išlaikymo pajamas;
+3) sudaryti darbo sutartis su socialinę globą teikiančiais ir kitais darbuotojais;
 
-4) sudaryti darbo sutartis su socialinę globą teikiančiais ir kitais darbuotojais;
-
-5) Neteko galios nuo 2011-07-01
-
-Straipsnio punkto naikinimas:
-
-Nr. XI-1471, 2011-06-21, Žin. 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010ISTA0XI-1471
-
-6) priimti sprendimą likviduoti šeimyną.
+4) priimti sprendimą likviduoti šeimyną.
 
 2. Šeimynos dalyviai turi ir kitų teisės aktuose jiems nustatytų teisių.
+
+3. Šeimynos dalyviams garantuojamos ne mažesnės negu šio įstatymo 12 straipsnio 1 dalyje nurodytos išlaikymo pajamos.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
 
 11 straipsnis. Šeimynos dalyvių pareigos ir atsakomybė
 
@@ -264,7 +270,11 @@ Nr. XI-1471, 2011-06-21, Žin. 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010ISTA
 
 12 straipsnis. Šeimynos dalyvių socialinės garantijos
 
-1. Šeimynos dalyviams garantuojamos Vyriausybės ar jos įgaliotos institucijos patvirtintoje Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje nustatytos išlaikymo pajamos, kurios negali būti mažesnės negu minimalioji mėnesinė alga ir didesnės negu Vyriausybės tvirtinamos einamųjų metų draudžiamosios pajamos.
+1. Šeimynos dalyviams garantuojamos Vyriausybės ar jos įgaliotos institucijos patvirtintoje Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje nustatytos išlaikymo pajamos, kurios negali būti mažesnės negu Vyriausybės tvirtinamos einamųjų metų draudžiamosios pajamos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
 
 2. Šeimynų dalyviai draudžiami sveikatos draudimu ir valstybiniu socialiniu draudimu Lietuvos Respublikos sveikatos draudimo įstatymo ir Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka.
 
@@ -292,17 +302,23 @@ PENKTASIS SKIRSNIS
 
 2. Šeimynos dalyviai jiems nuosavybės teise priklausantį kilnojamąjį ir nekilnojamąjį turtą, reikalingą šeimynos veiklai, jeigu jis neperleistas tretiesiems asmenims, neišnuomotas, nesuteiktas neatlyginamai naudotis, neareštuotas, neįkeistas, nėra teisminio ginčo objektas, gali perduoti šeimynos nuosavybėn arba panaudos pagrindais.
 
-3. Savivaldybė, kurios teritorijoje šeimyna steigiama (veikia), gali įstatymų nustatyta tvarka savivaldybei nuosavybės teise priklausantį turtą, reikalingą šeimynos veiklai, perduoti šeimynai panaudos pagrindais.
+3. Valstybės ir savivaldybių turtas gali būti perduodamas šeimynai jos veiklai vykdyti panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis atitinkamai Vyriausybės arba savivaldybės tarybos nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
 
 4. Iš šeimynos poreikiams tenkinti naudojamo kilnojamojo ir nekilnojamojo turto negali būti išieškoma pagal kreditorių reikalavimus, jeigu kreditoriai žinojo arba turėjo žinoti, kad sandorio sudarymas nesusijęs su šeimynos poreikių tenkinimu ir prieštarauja šeimynos veiklos tikslams.
 
 15 straipsnis. Šeimynos finansavimas
 
-1. Šeimyna sudaro sutartį su savivaldybės, kuri apgyvendino likusį be tėvų globos vaiką šeimynoje, administracija dėl socialinės globos finansavimo. Sutartyje gali būti aptartos kitos finansinės ir materialinės paramos šeimynai skyrimo sąlygos.
+1. Šeimyna sudaro su savivaldybės, kuri apgyvendino likusį be tėvų globos vaiką šeimynoje, administracija sutartį dėl socialinės globos finansavimo, o esant šeimynos dalyvio rašytiniam prašymui, – ir dėl finansinės paramos šeimynos naudojamo ar nuosavybės teise valdomo nekilnojamojo turto, naudojamo šeimynos veiklai, rekonstravimo ar remonto. Sutartyje aptariamos socialinės globos finansavimo, finansinės paramos, šeimynos nekilnojamojo turto rekonstravimo ar remonto, šeimynos dalyvio išlaikymo pajamų, kitos finansinės ir materialinės pagalbos, užtikrinančios kokybišką šeimynos veiklą, skyrimo sąlygos ir priemonės. Pavyzdinę sutarties formą tvirtina Vyriausybė ar jos įgaliota institucija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1471, 2011-06-21, Žin., 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010ISTA0XI-1471
+
+Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
 
 2. Vaikų globa (rūpyba) ir socialinė globa šeimynoje finansuojamos išmokų vaikams skyrimą reglamentuojančiuose teisės aktuose ir Vyriausybės ar jos įgaliotos institucijos patvirtintoje Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje nustatyta tvarka.
 
@@ -433,4 +449,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-507, 2013-07-02, Žin., 2013, Nr. 75-3778 (2013-07-13), i. k. 1131010ISTA0XII-507
 
 Lietuvos Respublikos šeimynų įstatymo 2 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
+
+Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 7, 10, 12, 14 ir 15 straipsnių pakeitimo įstatymas
 
