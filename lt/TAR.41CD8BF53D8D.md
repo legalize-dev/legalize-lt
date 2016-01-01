@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2015-12-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2015-12-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
 
@@ -352,13 +352,13 @@ Nr. XII-1128, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13616
 
 3. Savivaldybės taryba atskiru sprendimu gali vietinės rinkliavos dydį kartą per metus indeksuoti, taikydama metinį vartojimo kainų indeksą, jeigu jis didesnis negu 1,1.
 
-IV SKYRIUS
-
-RINKLIAVŲ RINKIMO KONTROLĖ IR ATSAKOMYBĖ
-
 14 straipsnis. Rinkliavų rinkimo kontrolė
 
-1. Rinkliavų rinkimą kontroliuoja vietos mokesčio administratorius, Valstybės kontrolė, o vietinių rinkliavų - dar ir savivaldybės kontrolieriai.
+1. Valstybės rinkliavų rinkimą kontroliuoja Valstybinė mokesčių inspekcija, Valstybės kontrolė, o vietinių rinkliavų rinkimą – savivaldybės, nustačiusios vietinę rinkliavą, kontrolierius (savivaldybės kontrolės ir audito tarnyba).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2157, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19855
 
 2. Jeigu patikrinimo metu nustatyta, kad valstybės rinkliavos buvo paimta per mažai arba ji iš viso nebuvo paimta, tai trūkstama arba visa valstybės rinkliavos suma išieškoma į atitinkamą biudžetą iš institucijos, dėl kurios kaltės paimta per maža arba visai nepaimta valstybės rinkliava, Mokesčių administravimo įstatymo nustatyta tvarka. Institucijai žalą atlygina atsakingi valstybės tarnautojai įstatymų nustatyta tvarka.
 
@@ -615,4 +615,24 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1669, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07660
 
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 11 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2157, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19855
+
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 papildymo 13-1 straipsniu ir 14 straipsnio pakeitimo įstatymas
+
+131 straipsnis. Vietinių rinkliavų mokėjimas
+
+Vietinė rinkliava mokama į savivaldybės, nustačiusios vietinę rinkliavą, biudžeto sąskaitą.
+
+Papildyta straipsniu:
+
+Nr. XII-2157, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19855
+
+IV SKYRIUS
+
+RINKLIAVŲ RINKIMO KONTROLĖ IR ATSAKOMYBĖ
 
