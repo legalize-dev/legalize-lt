@@ -4,7 +4,7 @@ identifier: "TAR.FFF9AE9162EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-13"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 47-1469, i. k. 0991010ISTAIII-1183
 
@@ -80,17 +80,47 @@ Nr. X-1438, 2008-01-29, Žin., 2008, Nr. 18-631 (2008-02-12)
 
 18. Pakartotinis naudojimas – bet kokia operacija, kurios metu apmokestinamoji gaminio pakuotė (sukonstruota taip, kad per naudojimo laikotarpį atlaikytų minimalų pervežimų skaičių) yra vėl pripildoma naudojant papildomus rinkoje esančius gaminius arba be jų ar panaudojama tam pačiam tikslui, kuriam ji buvo pagaminta. Jei tokia pakartotinio naudojimo pakuotė daugiau neužpildoma, ji tampa pakuočių atlieka.
 
-19. Stacionarus taršos šaltinis – taršos objektas, kuris negali būti perkeltas iš vienos vietos į kitą, nepakeitus jo paskirties ir iš esmės nesumažinus jo vertės.
+19. Sąvartyne šalinamos atliekos – nepavojingųjų atliekų sąvartyne šalinamos atliekos, išskyrus nepavojingųjų atliekų sąvartyno atskirose sekcijose šalinamas asbesto atliekas; inertinių atliekų sąvartyne šalinamos atliekos ir nepavojingųjų atliekų sąvartyno atskirose sekcijose šalinamos asbesto atliekos; pavojingųjų atliekų sąvartyne šalinamos atliekos, kurios pagal Įstatymo 7 priedėlį yra mokesčio už aplinkos teršimą objektas.
 
-20. Teršalai – į aplinką išmetamos teršiančios medžiagos, kurios kenksmingai veikia žmogaus sveikatą ir aplinką.
+Papildyta straipsnio dalimi:
 
-21. Tiekimas Lietuvos Respublikos vidaus rinkai:
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
+
+20. Sąvartyno operatorius – fiziniai ir juridiniai asmenys, vykdantys atliekų šalinimo sąvartyne veiklą (eksploatuojantys sąvartyną).
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
+
+21. Stacionarus taršos šaltinis – taršos objektas, kuris negali būti perkeltas iš vienos vietos į kitą, nepakeitus jo paskirties ir iš esmės nesumažinus jo vertės.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
+
+22. Teršalai – į aplinką išmetamos teršiančios medžiagos, kurios kenksmingai veikia žmogaus sveikatą ir aplinką.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
+
+23. Tiekimas Lietuvos Respublikos vidaus rinkai:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 
 1) Lietuvos Respublikos teritorijoje pagamintų apmokestinamųjų gaminių ir (ar) pripildytos gaminių apmokestinamosios pakuotės atlygintinai arba neatlygintinai perleidimas bet kuriam kitam asmeniui Lietuvos Respublikos teritorijoje ar sunaudojimas gamintojo reikmėms arba
 
 2) įvežtų į Lietuvos Respublikos teritoriją apmokestinamųjų gaminių ir (ar) pripildytos gaminių apmokestinamosios pakuotės atlygintinai arba neatlygintinai perleidimas bet kuriam kitam asmeniui Lietuvos Respublikos teritorijoje ar sunaudojimas importuotojo reikmėms, arba
 
 3) likviduojamų ar reorganizuojamų mokesčio mokėtojų apmokestinamųjų gaminių ir (ar) gaminių, supakuotų į apmokestinamąją pakuotę, neperleistų kitam asmeniui, pagaminimas ir (ar) įvežimas į Lietuvos Respublikos teritoriją.
+
+24. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos atliekų tvarkymo įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 
 Straipsnio pakeitimai:
 
@@ -110,7 +140,13 @@ Mokesčio objektas yra:
 
 2) Įstatymo 3 priedėlyje nurodyti gaminiai, kurie nėra bet kokio kito pagaminto ar įvežto (importuoto) į Lietuvos Respublikos teritoriją gaminio sudedamoji dalis, be kurios gaminys negali būti naudojamas pagal paskirtį;
 
-3) pripildyta pakuotė, nurodyta Įstatymo 4 priedėlyje.
+3) pripildyta pakuotė, nurodyta Įstatymo 4 priedėlyje;
+
+4) sąvartyne šalinamos atliekos, nurodytos šio Įstatymo 7 priedėlyje.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 
 Straipsnio pakeitimai:
 
@@ -123,6 +159,12 @@ Nr. XI-1371, 2011-04-28, Žin., 2011, Nr. 57-2706 (2011-05-12)
 2. Mokestį už aplinkos teršimą iš mobilių taršos šaltinių moka fiziniai ir juridiniai asmenys, teršiantys aplinką iš ūkinei komercinei veiklai naudojamų mobilių taršos šaltinių.
 
 3. Mokestį už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis moka gaminių gamintojai ir importuotojai.
+
+4. Mokestį už aplinkos teršimą sąvartyne šalinamomis atliekomis moka sąvartyno operatorius.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 
 Straipsnio pakeitimai:
 
@@ -153,6 +195,12 @@ Nr. XII-288, 2013-05-09, Žin., 2013, Nr. 55-2728 (2013-05-28)
 6. Gamintojai ir importuotojai atleidžiami nuo mokesčio už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis už tą gaminių ir (ar) pakuotės kiekį, kuris proporcingas įvykdytos Vyriausybės nustatytos gaminių ir (ar) pakuotės atliekų naudojimo ir (ar) perdirbimo užduoties daliai. Norėdami pasinaudoti šia mokesčio lengvata, gamintojai ir importuotojai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi pateikti dokumentus, patvirtinančius šių gaminių ar pakuotės atliekų perdirbtą ar panaudotą energijai gauti kiekį.
 
 7. Nuo mokesčio už aplinkos teršimą pakuotės atliekomis atleidžiami gamintojai ir importuotojai, per mokestinį laikotarpį Lietuvos Respublikos vidaus rinkai tiekiantys ne daugiau kaip 0,5 tonos pakuočių ir tvarkantys pakuočių ir pakuočių atliekų apskaitą aplinkos ministro nustatyta tvarka.
+
+8. Nuo mokesčio už aplinkos teršimą sąvartyne šalinamomis atliekomis atleidžiami sąvartynų operatoriai už pašalintas fosfogipso atliekas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 
 Straipsnio pakeitimai:
 
@@ -190,7 +238,17 @@ Nr. XII-288, 2013-05-09, Žin., 2013, Nr. 55-2728 (2013-05-28)
 
 8. Apmokestinamosios pakuotės rūšys ir mokesčio už aplinkos teršimą pakuotės atliekomis tarifai pateikti šio Įstatymo 4 priedėlyje.
 
-9. Mokesčio už aplinkos teršimą tarifai, išskyrus tuos, kurie nustatomi kaip tam tikras kainos procentas, indeksuojami Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka, taikant vartotojų prekių ir paslaugų kainų indeksą.
+9. Mokesčio už aplinkos teršimą tarifai, išskyrus tuos, kurie nustatomi už aplinkos teršimą sąvartyne šalinamomis atliekomis, indeksuojami Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka, taikant vartotojų prekių ir paslaugų kainų indeksą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
+
+10. Mokesčio už aplinkos teršimą sąvartyne šalinamomis atliekomis tarifai pateikti šio Įstatymo 7 priedėlyje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 
 Straipsnio pakeitimai:
 
@@ -200,7 +258,11 @@ Nr. XI-254, 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
 
 1. Mokesčio už aplinkos teršimą mokestinis laikotarpis yra kalendoriniai metai.
 
-2. Mokestis už aplinkos teršimą sumokamas ir mokesčio už aplinkos teršimą deklaracija pateikiama ne vėliau kaip per 60 dienų nuo mokestinio laikotarpio pabaigos teritorinei valstybinei mokesčių inspekcijai, kurios veiklos teritorijoje mokesčio mokėtojas yra įregistruotas mokesčių mokėtojų registre.
+2. Mokestis už aplinkos teršimą sumokamas ir mokesčio už aplinkos teršimą deklaracija pateikiama ne vėliau kaip pasibaigus mokestiniam laikotarpiui, iki kalendorinių metų, einančių po to mokestinio laikotarpio, vasario 15 dienos teritorinei valstybinei mokesčių inspekcijai, kurios veiklos teritorijoje mokesčio mokėtojas yra įregistruotas mokesčių mokėtojų registre.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2154, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19850
 
 Straipsnio pakeitimai:
 
@@ -212,7 +274,11 @@ Nr. XI-254, 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
 
 8 straipsnis. Mokesčio už aplinkos teršimą apskaita
 
-1. Fiziniai ir juridiniai asmenys, kurie pagal šį Įstatymą privalo mokėti mokestį už aplinkos teršimą, Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka tvarko teršalų išmetimo į aplinką, apmokestinamųjų gaminių ir pripildytos gaminių apmokestinamosios pakuotės apskaitą.
+1. Fiziniai ir juridiniai asmenys, kurie pagal šį Įstatymą privalo mokėti mokestį už aplinkos teršimą, Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka tvarko teršalų išmetimo į aplinką, sąvartyne pašalintų atliekų, apmokestinamųjų gaminių ir pripildytos gaminių apmokestinamosios pakuotės apskaitą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 
 2. Mokestis už aplinkos teršimą apskaičiuojamas ir mokamas Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka.
 
@@ -220,7 +286,17 @@ Nr. XI-254, 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
 
 4. Mokestis už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis mokamas pagal faktiškai per mokestinį laikotarpį tiektą Lietuvos Respublikos vidaus rinkai apmokestinamųjų gaminių ir (ar) pripildytos gaminių apmokestinamosios pakuotės kiekį.
 
-5. Mokesčio už aplinkos teršimą mokėtojas yra atsakingas už teršalų išmetimo į aplinką, apmokestinamųjų gaminių ir pripildytos gaminių apmokestinamosios pakuotės apskaitos tvarkymą ir mokesčio už aplinkos teršimą deklaracijoje pateiktus duomenis.
+5. Mokestis už aplinkos teršimą sąvartyne šalinamomis atliekomis mokamas pagal faktiškai per mokestinį laikotarpį sąvartyne pašalintų atliekų kiekį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
+
+6. Mokesčio už aplinkos teršimą mokėtojas yra atsakingas už teršalų išmetimo į aplinką, sąvartyne pašalintų atliekų, apmokestinamųjų gaminių ir pripildytos gaminių apmokestinamosios pakuotės apskaitos tvarkymą ir mokesčio už aplinkos teršimą deklaracijoje pateiktus duomenis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 
 Straipsnio pakeitimai:
 
@@ -232,11 +308,19 @@ Nr. XI-1894, 2011-12-22, Žin., 2011, Nr. 164-7798 (2011-12-31)
 
 9 straipsnis. Mokesčio už aplinkos teršimą mokėjimo kontrolė
 
-1. Aplinkos ministerija kontroliuoja teršalų išmetimo į aplinką, apmokestinamųjų gaminių ir pripildytos gaminių apmokestinamosios pakuotės apskaitą, tikrina mokesčio už aplinkos teršimą apskaičiavimą.
+1. Aplinkos ministerija kontroliuoja teršalų išmetimo į aplinką, sąvartyne pašalintų atliekų, apmokestinamųjų gaminių ir pripildytos gaminių apmokestinamosios pakuotės apskaitą, tikrina mokesčio už aplinkos teršimą apskaičiavimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 
 2. Fiziniams ir juridiniams asmenims, kurie netvarko privalomos teršalų išmetimo į aplinką apskaitos, teršalų kiekis nustatomas pagal aplinkos ministro patvirtintas metodikas ir (arba) metodikas, kurių sąrašas tvirtinamas aplinkos ministro įsakymu.
 
-3. Už išmestą iš stacionarių taršos šaltinių normatyvus viršijantį teršalų kiekį ar nuslėptą teršalų ir (ar) sunaudotų degalų, ir (ar) apmokestinamųjų gaminių bei pripildytos gaminių apmokestinamosios pakuotės kiekį mokestis už aplinkos teršimą mokamas taikant didesnį tarifą.
+3. Už išmestą iš stacionarių taršos šaltinių normatyvus viršijantį teršalų kiekį ar nuslėptą teršalų ir (ar) sunaudotų degalų, sąvartyne pašalintų atliekų ir (ar) apmokestinamųjų gaminių bei pripildytos gaminių apmokestinamosios pakuotės kiekį mokestis už aplinkos teršimą mokamas taikant didesnį tarifą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 
 4. Mokestis už aplinkos teršimą taikant didesnį tarifą apskaičiuojamas:
 
@@ -244,7 +328,13 @@ Nr. XI-1894, 2011-12-22, Žin., 2011, Nr. 164-7798 (2011-12-31)
 
 2) nuslėptą degalų kiekį, sunaudotą mobiliuose taršos šaltiniuose, dauginant iš mokesčio už aplinkos teršimą iš mobilių taršos šaltinių tarifo, nurodyto šio Įstatymo 5 priedėlyje, ir iš mokesčio už aplinkos teršimą iš mobilių taršos šaltinių tarifo koeficiento, nurodyto šio Įstatymo 6 priedėlyje;
 
-3) nuslėptą apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį dauginant iš tarifo, nurodyto šio Įstatymo 3 ar 4 priedėlyje, ir koeficiento 2.
+3) nuslėptą apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį dauginant iš tarifo, nurodyto šio Įstatymo 3 ar 4 priedėlyje, ir koeficiento 2;
+
+4) nuslėptą sąvartyne pašalintų atliekų kiekį dauginant iš tarifo, nurodyto šio Įstatymo 7 priedėlyje, ir koeficiento 2.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 
 5. Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos ir teritorinės valstybinės mokesčių inspekcijos, taip pat Aplinkos ministerija ar jos įgaliotos institucijos keičiasi mokesčiui už aplinkos teršimą administruoti reikalinga informacija. Keitimosi mokesčio už aplinkos teršimą administravimui reikalinga informacija tvarką nustato Aplinkos ministerija, suderinusi su Valstybine mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos.
 
@@ -258,15 +348,15 @@ Nr. XII-288, 2013-05-09, Žin., 2013, Nr. 55-2728 (2013-05-28)
 
 10 straipsnis. Mokesčio sumokėjimas, išieškojimas ir paskirstymas
 
-1. Mokestis už aplinkos teršimą, išskyrus mokestį už aplinkos teršimą gaminių ar pakuotės atliekomis, paskirstomas taip:
+1. Mokestis už aplinkos teršimą, išskyrus mokestį už aplinkos teršimą sąvartyne šalinamomis atliekomis ir gaminių ar pakuotės atliekomis, paskirstomas taip:
 
 1) 30 procentų mokama į valstybės biudžetą. Šios lėšos naudojamos pagal tikslinę paskirtį Lietuvos aplinkos apsaugos investicijų fondo programos lėšoms administruoti ir šioje programoje numatytiems aplinkos apsaugos investiciniams projektams finansuoti aplinkos ministro nustatyta tvarka;
 
 2) 70 procentų mokama į savivaldybės, kurios teritorijoje yra taršos objektas, biudžetą. Šios lėšos naudojamos pagal tikslinę paskirtį Savivaldybių aplinkos apsaugos rėmimo specialiojoje programoje numatytoms priemonėms finansuoti.
 
-2. Mokestis už aplinkos teršimą gaminių ar pakuotės atliekomis mokamas į valstybės biudžetą. Šios lėšos naudojamos Atliekų tvarkymo įstatyme numatytiems Gaminių ar pakuotės atliekų tvarkymo programos tikslams įgyvendinti.
+2. Mokestis už aplinkos teršimą gaminių ar pakuotės atliekomis ir mokestis už aplinkos teršimą sąvartyne šalinamomis atliekomis mokamas į valstybės biudžetą. Šios lėšos naudojamos Atliekų tvarkymo įstatyme numatytiems Atliekų tvarkymo programos tikslams įgyvendinti.
 
-3. Didesnio tarifo mokestis už aplinkos teršimą, kai jis taikomas už nuslėptą teršalų, sunaudotų degalų ir apmokestinamųjų gaminių bei pripildytos gaminių apmokestinamosios pakuotės kiekį, už normatyvus viršijantį teršalų kiekį, mokamas arba išieškomas iš pažeidėjo į valstybės biudžetą. Šios lėšos naudojamos Aplinkos apsaugos rėmimo programos įstatyme nustatytiems tikslams įgyvendinti.
+3. Didesnio tarifo mokestis už aplinkos teršimą, kai jis taikomas už nuslėptą teršalų, sunaudotų degalų, sąvartyne pašalintų atliekų, apmokestinamųjų gaminių ir pripildytos gaminių apmokestinamosios pakuotės kiekį, už normatyvus viršijantį teršalų kiekį, mokamas arba išieškomas iš pažeidėjo į valstybės biudžetą. Šios lėšos naudojamos Aplinkos apsaugos rėmimo programos įstatyme nustatytiems tikslams įgyvendinti.
 
 4. Nesumokėtas mokestis už aplinkos teršimą sumokamas arba išieškomas, delspinigiai skaičiuojami, permokėta mokesčio suma grąžinama Mokesčių administravimo įstatymo nustatyta tvarka.
 
@@ -277,6 +367,10 @@ Nr. IX-1608, 2003-06-10, Žin., 2003, Nr. 61-2761 (2003-06-27)
 Nr. XI-254, 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
 
 Nr. XI-1169, 2010-11-23, Žin., 2010, Nr. 145-7426 (2010-12-11)
+
+Straipsnio pakeitimai:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 
 11 straipsnis. Mokesčio tarifų galiojimo terminas
 
@@ -805,6 +899,94 @@ už vieną pakilimo ir nusileidimo ciklą
 6 priedėlio pakeitimai:
 
 Nr. XI-254, 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
+
+Lietuvos Respublikos
+
+mokesčio už aplinkos teršimą
+
+įstatymo
+
+7 priedėlis
+
+MOKESČIO UŽ APLINKOS TERŠIMĄ SĄVARTYNE ŠALINAMOMIS
+
+ATLIEKOMIS TARIFAI
+
+Sąvartyne šalinamų atliekų rūšis
+
+Mokesčio tarifai, Eur/t faktiškai pašalintų atliekų
+
+2016 m.
+
+2017 m.
+
+2018 m.
+
+2019 m.
+
+nuo 2020 m.
+
+1. Nepavojingųjų atliekų sąvartyne šalinamos atliekos, išskyrus nepavojingųjų atliekų sąvartyno atskirose sekcijose šalinamas asbesto atliekas
+
+3
+
+3
+
+5
+
+21,72
+
+27,51
+
+2. Inertinių atliekų sąvartyne šalinamos atliekos ir nepavojingųjų atliekų sąvartyno atskirose sekcijose šalinamos asbesto atliekos
+
+7,24
+
+13,03
+
+18,83
+
+24,62
+
+30,41
+
+3. Pavojingųjų atliekų sąvartyne šalinamos atliekos
+
+47,79
+
+53,58
+
+59,37
+
+65,16
+
+70,96
+
+Papildyta priedu:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
+
+Priedo pakeitimai:
+
+Nr. XII-2244, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21031
+
+Lietuvos Respublikos
+
+mokesčio už aplinkos teršimą
+
+įstatymo
+
+8 priedėlis
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 94/62/EB dėl pakuočių ir pakuočių atliekų (OL 2004 m. specialusis leidimas, 13 skyrius, 13 tomas, p. 349) su paskutiniais pakeitimais, padarytais 2005 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva Nr. 2005/20/EB (OL 2005 L 70, p. 17).
+
+2. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos direktyva 2006/66/EB dėl baterijų ir akumuliatorių bei baterijų ir akumuliatorių atliekų ir Direktyvos 91/157/EEB panaikinimo (OL 2006 L 266, p. 1).
+
+Papildyta priedu:
+
+Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 
 Pakeitimai:
 
