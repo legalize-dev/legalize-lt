@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2015-12-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2015-12-01
+Suvestinė redakcija nuo 2016-01-01 iki 2016-09-19
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
 
@@ -3660,9 +3660,11 @@ Europos Sąjungos valstybės narės piliečiams ir jų šeimos nariams, kurie ke
 
 108 straipsnis. Lietuvos valstybės parama užsieniečių integracijai
 
-1. Užsieniečiams, gavusiems prieglobstį Lietuvos Respublikoje, teikiama Lietuvos valstybės parama integracijai socialinės apsaugos ir darbo ministro nustatyta tvarka.
+Užsieniečiams, gavusiems prieglobstį Lietuvos Respublikoje, teikiama Lietuvos valstybės parama integracijai Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
-2. Užsieniečiai, norintys gauti Lietuvos valstybės paramą integracijai, turi pateikti pajamų ir turto deklaraciją.
+Straipsnio pakeitimai:
+
+Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 109 straipsnis. Užsieniečių integracijos organizavimas
 
@@ -3884,7 +3886,7 @@ Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
 
 3) užsieniečiui atsisakoma suteikti prieglobstį, išskyrus atvejį, kai sprendimas priimtas prašymą suteikti prieglobstį išnagrinėjus iš esmės skubos tvarka, nutraukiamas prašymo suteikti prieglobstį nagrinėjimas arba suteiktas prieglobstis panaikinamas ir jis išsiunčiamas iš Lietuvos Respublikos arba grąžinamas į užsienio valstybę.
 
-2. Šio straipsnio 1 dalyje nenustatytais atvejais apskųsto sprendimo vykdymas gali būti sustabdomas atitinkamo administracinio teismo nutartimi dėl reikalavimo užtikrinimo priemonių.part_ac2e0d016e7d422682d3923763bed6e1 Straipsnio pakeitimas:
+2. Šio straipsnio 1 dalyje nenustatytais atvejais apskųsto sprendimo vykdymas gali būti sustabdomas atitinkamo administracinio teismo nutartimi dėl reikalavimo užtikrinimo priemonių. Straipsnio pakeitimas:
 
 Nr. XI-1786, 2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
 
