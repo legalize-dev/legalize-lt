@@ -4,7 +4,7 @@ identifier: "TAR.0F470A65DFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2014-06-27"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2014-06-27 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-07-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
 
@@ -155,7 +155,17 @@ Nr. XII-937, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09159
 
 9) neetatiniams aplinkos apsaugos inspektoriams skatinti ir atliekamiems aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės darbams bei rengiamoms programoms įgyvendinti – ne daugiau kaip 5 procentai Programos metinių įplaukų (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 5, 6, 7, 8, 11 ir 12 punktus);
 
-10) savavališkai pastatytiems ar savavališkai statomiems statiniams, statiniams, pastatytiems ar statomiems pagal neteisėtai išduotus statybą leidžiančius dokumentus, nugriauti, savavališkai ar pagal neteisėtai išduotus statybą leidžiančius dokumentus perstatytoms ar pertvarkytoms statinio dalims išardyti ar nugriautam kultūros paveldo statiniui (jo daliai) atstatyti pagal teismo sprendimą; savavališkų statybų prevencijai; statinių ekspertizėms atlikti tais atvejais, kai šias ekspertizes būtina atlikti dėl statinių avarijų prevencijos ar pareiškiant ieškinius teismams; teritorijų planavimo valstybinės priežiūros ir statybos valstybinės priežiūros srityse švietimui, leidybai, specialistų mokymui, jų kvalifikacijai kelti; statybos valstybinę priežiūrą atliekantiems specialistams aprūpinti prietaisais, įrenginiais, medžiagomis ir kitomis materialinėmis priemonėmis jų veiklai statybos valstybinės priežiūros srityje vykdyti – įplaukos pagal šio įstatymo 3 straipsnio 11 ir 12 punktus.
+10) savavališkai pastatytiems ar savavališkai statomiems statiniams, statiniams, pastatytiems ar statomiems pagal neteisėtai išduotus statybą leidžiančius dokumentus, nugriauti, savavališkai ar pagal neteisėtai išduotus statybą leidžiančius dokumentus perstatytoms ar pertvarkytoms statinio dalims išardyti ar nugriautam kultūros paveldo statiniui (jo daliai) atstatyti pagal teismo sprendimą; savavališkų statybų prevencijai; statinių ekspertizėms atlikti tais atvejais, kai šias ekspertizes būtina atlikti dėl statinių avarijų prevencijos ar pareiškiant ieškinius teismams; teritorijų planavimo valstybinės priežiūros ir statybos valstybinės priežiūros srityse švietimui, leidybai, specialistų mokymui, jų kvalifikacijai kelti; statybos valstybinę priežiūrą atliekantiems specialistams aprūpinti prietaisais, įrenginiais, medžiagomis ir kitomis materialinėmis priemonėmis jų veiklai statybos valstybinės priežiūros srityje vykdyti, jų darbo užmokesčiui – įplaukos pagal šio įstatymo 3 straipsnio 11 ir 12 punktus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2199, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20900
+
+11) kraujasiurbių upinių mašalų populiacijos pokyčių stebėjimams ir populiacijos reguliavimo priemonėms finansuoti (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 11 ir 12 punktus).
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2199, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20900
 
 Straipsnio dalies pakeitimai:
 
@@ -244,6 +254,14 @@ Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 4 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XII-937, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09159
+
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 4 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2199, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20900
 
 Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 4 straipsnio pakeitimo įstatymas
 
