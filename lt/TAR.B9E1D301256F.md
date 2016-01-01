@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2015-11-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-02-29
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
 
@@ -49,7 +49,11 @@ BENDROSIOS NUOSTATOS
 
 4. Apmokestinant akcizais akmens anglis, koksą, lignitą, taikomos tik šio įstatymo 20, 21, 22, 43 straipsnių ir II skyriaus penktojo skirsnio nuostatos.
 
-5. Apmokestinant akcizais gamtines dujas, kurios tampa akcizų objektu pagal šio įstatymo 2 straipsnio 3 dalį, taikomos tik šio įstatymo 20, 21, 22, 43 straipsnių ir II skyriaus šeštojo skirsnio nuostatos.
+5. Apmokestinant akcizais gamtines dujas, taikomos tik šio įstatymo 20, 21, 22, 43 straipsnių ir II skyriaus šeštojo skirsnio nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
 6. Šio įstatymo nuostatos, reglamentuojančios akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, gamybos, perdirbimo, laikymo ir gabenimo tvarką, netaikomos akcizais apmokestinamoms prekėms, kurioms taikoma sąlyginio neapmokestinimo muitinės procedūra arba priemonė.
 
@@ -73,7 +77,11 @@ Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 3. Visi kiti šio straipsnio 1 dalyje nenurodyti produktai tampa akcizų objektu, jeigu jie parduodami arba naudojami kaip variklių degalai arba jų priedai. Šioje dalyje nurodytiems produktams taikomi akcizų tarifai, šiame įstatyme nustatyti atitinkamam ekvivalentiškam energiniam produktui, vietoj kurio arba kaip kurio priedas produktas parduodamas arba naudojamas.
 
-4. Visi kiti šio straipsnio 1 dalyje nenurodyti angliavandeniliai, išskyrus gamtines dujas ir durpes, tampa akcizų objektu, jeigu jie parduodami arba naudojami kaip šildymui skirtas kuras. Šioje dalyje nurodytiems produktams taikomi akcizų tarifai, šiame įstatyme nustatyti atitinkamam ekvivalentiškam energiniam produktui, vietoj kurio produktas parduodamas arba naudojamas.
+4. Visi kiti šio straipsnio 1 dalyje nenurodyti angliavandeniliai, išskyrus durpes, tampa akcizų objektu, jeigu jie parduodami arba naudojami kaip šildymui skirtas kuras. Šioje dalyje nurodytiems produktams taikomi akcizų tarifai, šiame įstatyme nustatyti atitinkamam ekvivalentiškam energiniam produktui, vietoj kurio produktas parduodamas arba naudojamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
 4 straipsnis. Akcizais apmokestinamų prekių sandėlio steigimas
 
@@ -289,7 +297,13 @@ Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 
 2. Jeigu vienas savininkas turi kelis akcizais apmokestinamų prekių sandėlius, deklaracija pateikiama dėl kiekvieno sandėlio atskirai.
 
-3. Akcizais apmokestinamų prekių sandėlio savininko, registruoto gavėjo arba registruoto siuntėjo pateikiamoje akcizų deklaracijoje turi būti deklaruojama akcizų suma, kurią mokėti prievolė pagal šio įstatymo 9 straipsnį atsirado tą mokestinį laikotarpį, už kurį pateikiama akcizų deklaracija.
+3. Akcizais apmokestinamų prekių sandėlio savininko, registruoto gavėjo arba registruoto siuntėjo pateikiamoje akcizų deklaracijoje turi būti deklaruojama akcizų suma, kurią mokėti prievolė pagal šio įstatymo 9 straipsnį atsirado tą mokestinį laikotarpį, kurio akcizų deklaracija pateikiama, kartu su einamojo mokestinio laikotarpio avansine akcizų suma, kurią mokėti prievolė atsirado pagal šio įstatymo 12 straipsnį.
+
+TAR pastaba. 3 dalis taikoma deklaruojant ir mokant 2016 m. sausio mėnesio ir vėlesnių mokestinių laikotarpių akcizus, įskaitant avansines akcizų sumas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2152, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19848
 
 4. Panaikinus leidimą steigti akcizais apmokestinamų prekių sandėlį, akcizų deklaracijoje, pateikiamoje už mokestinį laikotarpį, kurį panaikintas leidimas steigti akcizais apmokestinamų prekių sandėlį, be šio straipsnio 3 dalyje nustatyta tvarka apskaičiuotos akcizų sumos, turi būti deklaruota ir akcizų suma, mokėtina už visas kitą dieną po leidimo panaikinimo šiame sandėlyje buvusias akcizais apmokestinamas prekes, už kurias akcizai dar nebuvo sumokėti, ir iš sandėlio išgabentas akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, tačiau kurių pristatymo į paskirties vietą (eksportuojant prekes – išgabenimo iš Europos Sąjungos teritorijos) faktas nebuvo patvirtintas iki leidimo panaikinimo dienos, išskyrus atvejus, kai už tokias prekes pagal šį įstatymą akcizai neturi būti skaičiuojami. Ši suma apskaičiuojama taikant akcizų tarifus, galiojusius leidimo panaikinimo, o už išgabentas prekes – išgabenimo dieną. Tuo atveju, kai po leidimo panaikinimo dienos gaunama įrodymų, kad prekės pristatytos į paskirties vietą (ar atitinkamai išgabentos iš Europos Sąjungos teritorijos), už prekių kiekį, kuris buvo pristatytas į paskirties vietą (ar atitinkamai išgabentas iš Europos Sąjungos teritorijos), permokėta akcizų suma įskaitoma arba grąžinama Mokesčių administravimo įstatymo nustatyta tvarka, tačiau tik tuo atveju, jeigu nuo prekių išgabenimo dienos praėjo ne ilgiau kaip 3 metai.
 
@@ -321,15 +335,21 @@ Už akcizais apmokestinamas prekes, už kurias pagal šį įstatymą Lietuvos Re
 
 12 straipsnis. Mokesčio mokėjimo tvarka
 
-1. Mokėtina akcizų suma turi būti sumokėta ne vėliau kaip iki šiame įstatyme nurodyto akcizų deklaracijos pateikimo termino pabaigos į to vietos mokesčių administratoriaus, kurio teritorijoje yra akcizais apmokestinamų prekių sandėlis, surenkamąją sąskaitą, o jeigu mokėtojas nėra akcizais apmokestinamų prekių sandėlio savininkas, – į to vietos mokesčių administratoriaus, kurio teritorijoje jis (ar jo paskirtas fiskalinis agentas) įregistruotas mokesčių mokėtoju. Jeigu šio įstatymo ar jo įgyvendinamųjų teisės aktų nustatytais atvejais asmuo, kuriam tenka prievolė mokėti akcizus, prieš gaudamas, atsigabendamas ar atsiųsdamas akcizais apmokestinamas prekes buvo sumokėjęs piniginį užstatą, mokėtina akcizų suma visų pirma įskaitoma iš piniginio užstato.
+1. Mokėtina akcizų suma turi būti sumokėta ne vėliau kaip iki šiame įstatyme nurodyto akcizų deklaracijos pateikimo termino pabaigos į mokesčių administratoriaus surenkamąją sąskaitą. Jeigu buvo sumokėta mokestinio laikotarpio avansinė akcizų suma, kurią mokėti prievolė atsirado pagal šio straipsnio 2 dalį, mokėtina to mokestinio laikotarpio akcizų suma mažinama sumokėtos avansinės akcizų sumos dydžiu. Jeigu šio įstatymo ar jo įgyvendinamųjų teisės aktų nustatytais atvejais asmuo, kuriam tenka prievolė mokėti akcizus, prieš gaudamas, atsigabendamas ar atsiųsdamas akcizais apmokestinamas prekes buvo sumokėjęs piniginį užstatą, mokėtina akcizų suma visų pirma įskaitoma iš piniginio užstato.
 
-2. Vyriausybė ar jos įgaliota institucija turi teisę nustatyti už mokestinį laikotarpį mokėtinos akcizų sumos ribą ir tuo atveju, jeigu už konkretų akcizais apmokestinamų prekių sandėlį šio sandėlio savininko (ar atitinkamai registruoto gavėjo) teikiamoje akcizų deklaracijoje apskaičiuota už mokestinį laikotarpį mokėtina akcizų suma šią ribą viršytų, akcizais apmokestinamų prekių sandėlio savininkas už šį sandėlį (ar registruotas gavėjas) akcizus šio įstatymo 11 straipsnyje nustatyta tvarka turi apskaičiuoti kas dešimtadienį ir mokėti šia tvarka:
+TAR pastaba. 1 dalis taikoma deklaruojant ir mokant 2016 m. sausio mėnesio ir vėlesnių mokestinių laikotarpių akcizus, įskaitant avansines akcizų sumas.
 
-1) už pirmąjį mokestinio laikotarpio dešimtadienį – iki to paties mėnesio 15 dienos;
+Straipsnio dalies pakeitimai:
 
-2) už antrąjį mokestinio laikotarpio dešimtadienį – iki to paties mėnesio paskutinės dienos;
+Nr. XII-2152, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19848
 
-3) už likusią mokestinio laikotarpio dalį – iki akcizų deklaracijos pateikimo termino pabaigos.
+2. Jeigu už konkretų akcizais apmokestinamų prekių sandėlį šio sandėlio savininko (ar atitinkamai registruoto gavėjo) vidutinė mokestiniam laikotarpiui tenkanti mokėtina į biudžetą akcizų suma 3 praėjusius mokestinius laikotarpius iš eilės viršijo 15 000 eurų, pradedant kitu mokestiniu laikotarpiu po to, kurį paaiškėjo šios aplinkybės, iki einamojo mokestinio laikotarpio 15 dienos į biudžetą mokama avansinė akcizų suma. Ši avansinė akcizų suma yra lygi 1/3 vidutinės mokėtinos į biudžetą akcizų sumos, kuri buvo (ar privalėjo būti) deklaruota šioje dalyje nurodytų 3 praėjusių mokestinių laikotarpių deklaracijose.
+
+TAR pastaba. 2 dalis taikoma deklaruojant ir mokant 2016 m. sausio mėnesio ir vėlesnių mokestinių laikotarpių akcizus, įskaitant avansines akcizų sumas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2152, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19848
 
 3. Šio straipsnio 2 dalies nuostatos netaikomos akcizais apmokestinamų prekių sandėlio savininko arba registruoto gavėjo šio įstatymo 10 straipsnio 10 dalyje nustatyta tvarka apskaičiuotai mokėtinai akcizų sumai.
 
@@ -869,9 +889,17 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 3. Šio straipsnio nuostatos taikomos tik tiems produktams, kurie atitinka Atsinaujinančių išteklių energetikos įstatyme biodegalams ir (ar) biokurui keliamus reikalavimus.
 
-4. Šio straipsnio reikalavimus atitinkantiems produktams, kuriuose biologinės kilmės priemaišų dalis (procentais) yra 30 procentų arba didesnė, taikomas šio įstatymo 35–39 straipsniuose nustatytas akcizų tarifas, sumažintas dalimi, proporcingai atitinkančia biologinės kilmės priemaišų dalį (procentais) produkte, arba produktai atleidžiami nuo akcizų, kai produktai pagaminti tik iš šio straipsnio 1 dalyje nurodytų produktų.
+4. Šio straipsnio reikalavimus ir Europos standartizacijos komiteto patvirtintus standartus EN 14214 ir CEN/TS 15293 atitinkantiems biodegalų ir degalų mišiniams taikomas šio įstatymo 35–39 straipsniuose nustatytas akcizų tarifas, sumažintas dalimi, proporcingai atitinkančia biologinės kilmės priemaišų dalį (procentais) biodegalų ir degalų mišinyje.
 
-5. Kitiems šio straipsnio reikalavimus atitinkantiems produktams, nenurodytiems šio straipsnio 4 dalyje, taikomas šio įstatymo 35–39 straipsniuose nustatytas akcizų tarifas, sumažintas dalimi, proporcingai atitinkančia biologinės kilmės priemaišų dalį (procentais), viršijančią teisės aktuose nustatytą privalomų biologinės kilmės priemaišų dalį (procentais).
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2160, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19858
+
+5. Kitiems šio straipsnio reikalavimus atitinkantiems produktams, nenurodytiems šio straipsnio 4 dalyje, taikomas šio įstatymo 35–39 straipsniuose nustatytas akcizų tarifas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2160, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19858
 
 6. Šiame straipsnyje nurodytas akcizų tarifas taikomas tik centrinio mokesčių administratoriaus nustatyta tvarka išduotą atitinkamą leidimą turinčių asmenų pagamintiems, taip pat iš kitos valstybės narės atgabentiems arba importuotiems produktams.
 
@@ -1093,7 +1121,11 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 2) elektros energija, pagaminta naudojant atsinaujinančius energijos išteklius;
 
-3) elektros energija, tiekiama buitiniams vartotojams, kaip jie apibrėžti Elektros energetikos įstatyme, taip pat viešiesiems juridiniams asmenims, kurie pagal Lietuvos Respublikos labdaros ir paramos įstatymą (toliau – Labdaros ir paramos įstatymas) yra paramos gavėjai;
+3) elektros energija, tiekiama buitiniams elektros energijos vartotojams, kaip jie apibrėžti Elektros energetikos įstatyme, taip pat asmenims, kurie pagal Lietuvos Respublikos labdaros ir paramos įstatymą (toliau – Labdaros ir paramos įstatymas) turi paramos gavėjo statusą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
 4) elektros energija, eksportuojama ar tiekiama į kitą valstybę narę;
 
@@ -1179,11 +1211,15 @@ Akcizų už akmens anglis, koksą ir (arba) lignitą mokėtojai yra registruoti 
 
 53 straipsnis. Akmens anglių, kokso ir lignito atleidimas nuo akcizų
 
-Nuo akcizų už akmens anglis, koksą ir lignitą atleidžiami akmens anglys, koksas ir lignitas, kai jie parduodami ar kitaip perduodami nuosavybėn gyventojams, taip pat viešiesiems juridiniams asmenims, kurie pagal Labdaros ir paramos įstatymą yra paramos gavėjai.
+Nuo akcizų už akmens anglis, koksą ir lignitą atleidžiami akmens anglys, koksas ir lignitas, kai jie parduodami ar kitaip perduodami nuosavybėn gyventojams, taip pat asmenims, kurie pagal Labdaros ir paramos įstatymą turi paramos gavėjo statusą.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1740, 2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
+
+Straipsnio pakeitimai:
+
+Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
 56 straipsnis. Akcizų už akmens anglis, koksą, lignitą deklaracijos pateikimas ir mokesčio sumokėjimas
 
@@ -1197,25 +1233,43 @@ Nr. XI-1740, 2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
 
 GAMTINIŲ DUJŲ APMOKESTINIMAS
 
-57 straipsnis. Prievolė mokėti akcizus už gamtines dujas, kurios naudojamos kaip variklių degalai
+57 straipsnis. Prievolė mokėti akcizus už gamtines dujas
 
-Prievolė mokėti akcizus už gamtines dujas, kurios naudojamos kaip variklių degalai, atsiranda, kai jos:
+Prievolė mokėti akcizus už gamtines dujas atsiranda, kai:
 
-1) parduodamos ar kitaip perduodamos naudoti kaip variklių degalai arba
+1) gamtinės dujos, kurių tiekimas vyksta ne gamtinių dujų perdavimo sistemos virtualiame prekybos taške, kuriame prekiaujama gamtinėmis dujomis, parduodamos ar kitaip perduodamos naudoti kaip variklių degalai ar šildymui skirtas kuras arba
 
-2) naudojamos kaip variklių degalai ir už jas akcizai dar nesumokėti.
+2) gamtinės dujos, kurių tiekimas vyksta gamtinių dujų perdavimo sistemos virtualiame prekybos taške, kuriame prekiaujama gamtinėmis dujomis, asmens, kuriam šios dujos parduotos ar kitaip perduotos, naudojamos kaip variklių degalai ar šildymui skirtas kuras, arba
 
-59 straipsnis. Gamtinėms dujoms, kurios naudojamos kaip variklių degalai, taikomi akcizų tarifai
+3) gamtinės dujos naudojamos kaip variklių degalai ar šildymui skirtas kuras ir už jas akcizai dar nesumokėti.
 
-Gamtinėms dujoms, kurios naudojamos kaip variklių degalai, taikomas 219,53 euro už 1 000 kubinių metrų produkto akcizų tarifas.
+Straipsnio pakeitimai:
+
+Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
+
+59 straipsnis. Gamtinėms dujoms taikomi akcizų tarifai
+
+1. Gamtinėms dujoms, kurios naudojamos kaip variklių degalai, taikomas 23,60 euro už vieną megavatvalandę produkto akcizų tarifas.
+
+2. Gamtinėms dujoms, kurios naudojamos kaip šildymui skirtas kuras, išskyrus šio straipsnio 3 dalyje nurodytą atvejį, taikomas 1,08 euro už vieną megavatvalandę produkto akcizų tarifas.
+
+3. Gamtinėms dujoms, kurios naudojamos kaip šildymui skirtas kuras verslo reikmėms, taikomas 0,54 euro už vieną megavatvalandę produkto akcizų tarifas. Šiame įstatyme gamtinių dujų kaip šildymui skirto kuro naudojimas verslo reikmėms suprantamas kaip jų naudojimas asmens, kuris vykdo ekonominę veiklą, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme.
 
 Straipsnio pakeitimai:
 
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
-60 straipsnis. Akcizų už gamtines dujas, kurios naudojamos kaip variklių degalai, deklaracijos pateikimas ir mokesčio sumokėjimas
+Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
-Akcizų už gamtines dujas, kurios naudojamos kaip variklių degalai, mokestinis laikotarpis yra kalendorinis mėnuo. Jam pasibaigus iki kito mėnesio 15 dienos asmuo, parduodantis ar kitaip perduodantis gamtines dujas naudoti kaip variklių degalus, taip pat asmuo, naudojantis gamtines dujas, už kurias akcizai dar nesumokėti, kaip variklių degalus, privalo vietos mokesčių administratoriui, kurio veiklos teritorijoje jis registruotas, pateikti akcizų už gamtines dujas, kurios naudojamos kaip variklių degalai, deklaraciją. Deklaracijos formą ir užpildymo taisykles nustato centrinis mokesčių administratorius. Joje privalo būti deklaruota akcizų suma, apskaičiuota už gamtines dujas, už kurias šio įstatymo 57 straipsnyje nustatyta tvarka prievolė sumokėti akcizus atsirado tą mokestinį laikotarpį. Akcizai sumokami iki šioje dalyje nustatyto deklaracijos pateikimo termino pabaigos.
+60 straipsnis. Akcizų už gamtines dujas deklaracijos pateikimas ir mokesčio sumokėjimas
+
+1. Akcizų už gamtines dujas mokestinis laikotarpis yra kalendorinis mėnuo. Jam pasibaigus, iki kito mėnesio 15 dienos asmuo, kuriam šio įstatymo 57 straipsnyje nustatytais pagrindais atsiranda prievolė mokėti akcizus, privalo vietos mokesčių administratoriui, kurio veiklos teritorijoje jis registruotas mokesčių mokėtoju, pateikti akcizų už gamtines dujas deklaraciją, kurioje privalo būti deklaruota akcizų suma, apskaičiuota už gamtines dujas, už kurias šio įstatymo 57 straipsnyje nustatytais pagrindais atsirado prievolė tą mokestinį laikotarpį sumokėti akcizus. Deklaracijos formą ir jos užpildymo taisykles nustato centrinis mokesčių administratorius.
+
+2. Akcizai sumokami iki šio straipsnio 1 dalyje nustatyto deklaracijos pateikimo termino pabaigos.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
 III SKYRIUS
 
@@ -1243,7 +1297,11 @@ akcizų įstatymo
 
 ENERGINIAI PRODUKTAI
 
-1. KN 2701, 2702, 2704–2715 pozicijose klasifikuojami produktai, išskyrus KN 2711 11 ir 2711 21 pozicijose klasifikuojamus produktus, jeigu jie nėra skirti naudoti arba nėra naudojami kaip variklių degalai.
+1. KN 2701, 2702, 2704–2715 pozicijose klasifikuojami produktai.
+
+Punkto pakeitimai:
+
+Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
 2. KN 2901 ir 2902 pozicijose klasifikuojami produktai.
 
@@ -1389,21 +1447,47 @@ AKCIZŲ ĮSTATYMO 25, 31 IR 40 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Šis Įstatymas, išskyrus 1 ir 3 straipsnius, įsigalioja nuo 2003 m. sausio 1 d.
 
-581 straipsnis. Atleidimas nuo akcizų už gamtines dujas, kurios naudojamos kaip variklių degalai
+581 straipsnis. Gamtinių dujų atleidimas nuo akcizų
 
-1. Nuo akcizų už gamtines dujas atleidžiamos gamtinės dujos, naudojamos kaip vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusų variklių degalai.
+1. Nuo akcizų už gamtines dujas atleidžiamos:
 
-2. Asmenys, teikiantys vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais paslaugas ir tam naudojantys nuo akcizų atleistas gamtines dujas kaip vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusų variklių degalus, registruojami centrinio mokesčių administratoriaus nustatyta tvarka.
+1) eksportuojamos gamtinės dujos;
 
-3. Nuo akcizų atleistų gamtinių dujų, naudojamų kaip vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusų variklių degalai, apskaita tvarkoma centrinio mokesčių administratoriaus nustatyta tvarka.
+2) į kitą valstybę narę tiekiamos gamtinės dujos;
+
+3) gamtinės dujos, naudojamos kaip vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusų variklių degalai;
+
+4) buitiniams gamtinių dujų vartotojams, kaip jie apibrėžti Gamtinių dujų įstatyme, taip pat asmenims, kurie pagal Labdaros ir paramos įstatymą turi paramos gavėjo statusą, tiekiamos gamtinės dujos, išskyrus gamtines dujas, naudojamas kaip variklių degalai;
+
+5) gamtinės dujos, naudojamos technologinėms reikmėms gamtinių dujų perdavimo ir skirstymo tinkluose ir gamtinių dujų skystinimo proceso metu;
+
+6) gamtinės dujos, naudojamos mišriai šilumos ir elektros energijos gamybai.
+
+2. Asmenys, teikiantys vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais paslaugas ir tam naudojantys nuo akcizų atleistas gamtines dujas kaip vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusų variklių degalus, taip pat asmenys, naudojantys gamtines dujas mišriai šilumos ir elektros energijos gamybai, registruojami centrinio mokesčių administratoriaus nustatyta tvarka.
+
+3. Nuo akcizų atleistų gamtinių dujų, naudojamų kaip vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusų variklių degalai, taip pat nuo akcizų atleistų gamtinių dujų, naudojamų mišriai šilumos ir elektros energijos gamybai, apskaita tvarkoma centrinio mokesčių administratoriaus nustatyta tvarka.
+
+4. Tais atvejais, kai asmuo gamtines dujas, už kurias šio įstatymo nustatyta tvarka buvo sumokėti akcizai, panaudoja šio straipsnio 1 dalyje nurodytais būdais, akcizai grąžinami Mokesčių administravimo įstatymo nustatyta tvarka, reglamentuojančia mokesčių permokos grąžinimą.
 
 Įstatymas papildytas straipsniu:
 
 Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 
+Straipsnio pakeitimai:
+
+Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
+
 58 straipsnis. Akcizų už gamtines dujas mokėtojai
 
-Akcizų už gamtines dujas, kurios naudojamos kaip variklių degalai, mokėtojai yra asmenys, parduodantys ar kitaip perduodantys gamtines dujas naudoti kaip variklių degalus, taip pat asmenys, naudojantys gamtines dujas, už kurias akcizai dar nesumokėti, kaip variklių degalus.
+1. Šio įstatymo 57 straipsnio 1 punkte nurodytu atveju prievolė mokėti akcizus tenka asmeniui, kuris gamtines dujas ne gamtinių dujų perdavimo sistemos virtualiame prekybos taške, kuriame prekiaujama gamtinėmis dujomis, parduoda ar kitaip perduoda naudoti kaip variklių degalus ar šildymui skirtą kurą.
+
+2. Šio įstatymo 57 straipsnio 2 punkte nurodytu atveju prievolė mokėti akcizus tenka asmeniui, kuris gamtines dujas, jam parduotas ar kitaip perduotas gamtinių dujų perdavimo sistemos virtualiame prekybos taške, kuriame prekiaujama gamtinėmis dujomis, naudoja kaip variklių degalus ar šildymui skirtą kurą.
+
+3. Šio įstatymo 57 straipsnio 3 punkte nurodytu atveju prievolė mokėti akcizus tenka asmeniui, kuris gamtines dujas, už kurias akcizai dar nesumokėti, naudoja kaip variklių degalus ar šildymui skirtą kurą.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
 371 straipsnis. KN 2710 19 91‒2710 19 99 subpozicijose klasifikuojamiems energiniams produktams taikomi akcizų tarifai
 
