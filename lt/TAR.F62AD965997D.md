@@ -4,7 +4,7 @@ identifier: "TAR.F62AD965997D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-05-20"
-last_updated: "2015-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-11-14
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
 
@@ -50,25 +50,23 @@ BENDROSIOS NUOSTATOS
 
 6. Sutartyse nustatomos sąlygos šilumos ir (ar) karšto vandens tiekėjo arba šilumos ir karšto vandens sistemos prižiūrėtojo įgaliotiems asmenims įstatymų nustatyta tvarka patekti į šilumos ir (ar) karšto vandens vartotojui priklausančias patalpas, kad jie galėtų prižiūrėti ir patikrinti atsiskaitomuosius šilumos ir karšto vandens apskaitos prietaisus.
 
-21 straipsnis. Ginčus nagrinėjančios institucijos, jų teisės ir pareigos
+21 straipsnis. Ginčų sprendimas ne teismo tvarka. Skundų nagrinėjimas
 
-1. Ginčus, kylančius iš sutartinių santykių tarp buitinių šilumos vartotojų ir šilumos bei karšto vandens tiekėjų, priežiūros paslaugų teikėjų, ginčo sprendimo ne teisme tvarka nagrinėja šios valstybės ir savivaldybės institucijos:
+1. Vartotojų ir šilumos ir (ar) karšto vandens tiekėjų, pastato šildymo ir karšto vandens sistemos prižiūrėtojų (eksploatuotojų) ginčai nagrinėjami Lietuvos Respublikos energetikos įstatyme nustatyta tvarka.
 
-1) Valstybinė energetikos inspekcija prie Energetikos ministerijos – dėl energetikos objektų, įrenginių ir apskaitos priemonių gedimų, eksploatavimo, energijos kokybės reikalavimų, energijos apskaitos ir apmokėjimo už suvartotą energiją pažeidimų, avarijų, energijos tiekimo nutraukimo, sustabdymo ar ribojimo, dėl šilumos ir karšto vandens sistemų prižiūrėtojo veiklos ar neveikimo;
+2. Asmenų skundus dėl šilumos ir karšto vandens tiekimo organizavimo, dėl daugiabučių namų šildymo ir karšto vandens sistemų priežiūros tarifų nustatymo, dėl bendrojo naudojimo objektų administratorių įgaliojimų, administruojant pastato bendrojo naudojimo objektus ir įgyvendinant kitas teises, susijusias su bendrojo naudojimo objektų valdymu ir naudojimu, nagrinėja savivaldybės vykdomoji institucija. Kitus  asmenų skundus nagrinėja Valstybinė vartotojų teisių apsaugos tarnyba, Valstybinė energetikos inspekcija ir Valstybinė kainų ir energetikos kontrolės komisija Lietuvos Respublikos energetikos įstatyme nustatyta tvarka.
 
-2) Valstybinė kainų ir energetikos kontrolės komisija – dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl teisės joms pasinaudoti tinklais ir sistemomis nesuteikimo, dėl prisijungimo, energijos tiekimo srautų balansavimo, kainų ir tarifų taikymo;
-
-3) savivaldybės vykdomoji institucija – dėl šilumos ir karšto vandens tiekimo organizavimo, dėl daugiabučių namų šildymo ir karšto vandens sistemų priežiūros tarifų nustatymo, dėl administracinę priežiūrą atliekančių pareigūnų įgaliojimų bei šios priežiūros atlikimo tvarkos;
-
-4) Valstybinė vartotojų teisių apsaugos tarnyba – dėl šilumos energijos pirkimo–pardavimo ar paslaugų teikimo sutarčių nesąžiningų sąlygų taikymo ir kitose nenumatytose valstybinės vartotojų teisių apsaugos srityse.
-
-2. Ginčai nagrinėjami Lietuvos Respublikos vartotojų teisių apsaugos įstatymo nustatyta tvarka.
+TAR pastaba. Iki 2015 m. gruodžio 31 d. pradėti nagrinėti vartotojų ir šilumos ir (ar) karšto vandens tiekėjų, pastato šildymo ir karšto vandens sistemos prižiūrėtojų (eksploatuotojų) ginčai, taip pat  asmenų skundai baigiami nagrinėti ir sprendimai dėl jų priimami ir vykdomi vadovaujantis iki 2015 m. gruodžio 31 d. galiojusių teisės aktų nuostatomis.
 
 Straipsnio pakeitimai:
 
 Nr. XI-133, 2009-01-12, Žin., 2009, Nr. 10-355 (2009-01-27)
 
 Nr. XI-592, 2009-12-21, Žin., 2010, Nr. 1-6 (2010-01-05)
+
+Straipsnio pakeitimai:
+
+Nr. XII-2092, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19370
 
 26 straipsnis. Šilumos tiekėjo, šildymo ir karšto vandens sistemos prižiūrėtojo arba karšto vandens tiekėjo teisė patekti į butų ir kitų patalpų savininkams priklausančias patalpas
 
