@@ -4,7 +4,7 @@ identifier: "TAR.9F4371AB03A3"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-18"
-last_updated: "2016-01-01"
+last_updated: "2016-01-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos advokatūros įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-01-17
+Suvestinė redakcija nuo 2016-01-18 iki 2017-05-24
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 50-1632, i. k. 1041010ISTA0IX-2066
 
@@ -834,35 +834,75 @@ Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
 11) registruoja Europos Sąjungos valstybių narių teisininkus, pageidaujančius verstis advokato veikla Lietuvos Respublikoje;
 
-12) suderinusi su Lietuvos Respublikos teisingumo ministerija, nustato veiksmingų ir reguliarių teisinių paslaugų teikimo bei reikiamų Lietuvos Respublikos nacionalinės teisės žinių pakankamumo kriterijus pagal šio Įstatymo 68 straipsnio 1 dalį ir 69 straipsnio 1 dalį;
+12) atlieka kompetentingos institucijos funkcijas dėl advokatų padėjėjų profesinės praktikos pripažinimo pagal Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo 57 straipsnį;
 
-13) tvirtina ir pateikia suinteresuotoms institucijoms advokatų sąrašą pagal šio Įstatymo 46 straipsnio 4 dalį;
+Papildyta straipsnio punktu:
 
-14) suderinusi su Lietuvos Respublikos finansų ministerija, nustato individualiai ar partnerystės pagrindais veikiančių advokatų pajamų ir sąnaudų pripažinimo bei apskaitos tvarką;
+Nr. XII-2234, 2015-12-22, paskelbta TAR 2016-01-04, i. k. 2016-00047
 
-15) organizuoja antrinę teisinę pagalbą teikiančių advokatų, advokatų padėjėjų veiklos kokybės tikrinimą pagal Lietuvos advokatūros patvirtintas antrinės teisinės pagalbos kokybės vertinimo taisykles;
+13) suderinusi su Lietuvos Respublikos teisingumo ministerija, nustato veiksmingų ir reguliarių teisinių paslaugų teikimo bei reikiamų Lietuvos Respublikos nacionalinės teisės žinių pakankamumo kriterijus pagal šio Įstatymo 68 straipsnio 1 dalį ir 69 straipsnio 1 dalį;
 
-16) nustato šio Įstatymo 26 straipsnio 3 dalyje, 27 straipsnio 2 dalyje ir 28 straipsnio 3 dalyje nurodytų advokatų veikloje naudojamų pavadinimų registravimo tvarką;
+Straipsnio punkto numeracijos pakeitimas:
 
-17) suderinusi su Lietuvos Respublikos teisingumo ministerija, nustato advokatų veiklos reklamos naudojimo reikalavimus ir kontrolės tvarką pagal šio Įstatymo 42 straipsnio 2 dalį;
+Nr. XII-2234, 2015-12-22, paskelbta TAR 2016-01-04, i. k. 2016-00047
 
-18) suderinusi su Lietuvos Respublikos teisingumo ministerija, tvirtina advokatų ir fizinių asmenų, kurie su savo verslu, prekyba, amatu ar profesija nesusijusiais tikslais (vartojimo tikslais) siekia sudaryti ar sudaro sutartis, teisinių paslaugų sutarčių standartines sąlygas;
+14) tvirtina ir pateikia suinteresuotoms institucijoms advokatų sąrašą pagal šio Įstatymo 46 straipsnio 4 dalį;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-2234, 2015-12-22, paskelbta TAR 2016-01-04, i. k. 2016-00047
+
+15) suderinusi su Lietuvos Respublikos finansų ministerija, nustato individualiai ar partnerystės pagrindais veikiančių advokatų pajamų ir sąnaudų pripažinimo bei apskaitos tvarką;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-2234, 2015-12-22, paskelbta TAR 2016-01-04, i. k. 2016-00047
+
+16) organizuoja antrinę teisinę pagalbą teikiančių advokatų, advokatų padėjėjų veiklos kokybės tikrinimą pagal Lietuvos advokatūros patvirtintas antrinės teisinės pagalbos kokybės vertinimo taisykles;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-2234, 2015-12-22, paskelbta TAR 2016-01-04, i. k. 2016-00047
+
+17) nustato šio Įstatymo 26 straipsnio 3 dalyje, 27 straipsnio 2 dalyje ir 28 straipsnio 3 dalyje nurodytų advokatų veikloje naudojamų pavadinimų registravimo tvarką;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-2234, 2015-12-22, paskelbta TAR 2016-01-04, i. k. 2016-00047
+
+18) suderinusi su Lietuvos Respublikos teisingumo ministerija, nustato advokatų veiklos reklamos naudojimo reikalavimus ir kontrolės tvarką pagal šio Įstatymo 42 straipsnio 2 dalį;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-2234, 2015-12-22, paskelbta TAR 2016-01-04, i. k. 2016-00047
+
+19) suderinusi su Lietuvos Respublikos teisingumo ministerija, tvirtina advokatų ir fizinių asmenų, kurie su savo verslu, prekyba, amatu ar profesija nesusijusiais tikslais (vartojimo tikslais) siekia sudaryti ar sudaro sutartis, teisinių paslaugų sutarčių standartines sąlygas;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
-19) suderinusi su Lietuvos Respublikos teisingumo ministerija, tvirtina klientų ir advokatų ginčų dėl teisinių paslaugų nagrinėjimo tvarką ir šio įstatymo 51 straipsnio 3 dalyje nurodytos komisijos darbo reglamentą;
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-2234, 2015-12-22, paskelbta TAR 2016-01-04, i. k. 2016-00047
+
+20) suderinusi su Lietuvos Respublikos teisingumo ministerija, tvirtina klientų ir advokatų ginčų dėl teisinių paslaugų nagrinėjimo tvarką ir šio įstatymo 51 straipsnio 3 dalyje nurodytos komisijos darbo reglamentą;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
-20) atlieka kitas Lietuvos advokatūros įstatuose numatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-2234, 2015-12-22, paskelbta TAR 2016-01-04, i. k. 2016-00047
+
+21) atlieka kitas Lietuvos advokatūros įstatuose numatytas funkcijas.
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
+
+Nr. XII-2234, 2015-12-22, paskelbta TAR 2016-01-04, i. k. 2016-00047
 
 Straipsnio pakeitimai:
 
