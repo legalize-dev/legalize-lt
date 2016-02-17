@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2016-01-01"
+last_updated: "2016-02-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-02-16
+Suvestinė redakcija nuo 2016-02-17 iki 2016-02-29
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -1115,11 +1115,13 @@ Straipsnio pakeitimai:
 
 Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
 
-TAR pastaba. Vadovaudamasis Lietuvos Respublikos Konstitucijos 106 straipsnio 4 dalimi, Lietuvos Respublikos Konstitucinio Teismo įstatymo 26 straipsnio 2 dalimi, pranešama, kad nuo šio pranešimo oficialaus paskelbimo Teisės aktų registre dienos (2015-09-25) iki bus paskelbtas Konstitucinio Teismo nutarimas šioje byloje sustabdomas Lietuvos Respublikos baudžiamojo proceso kodekso 157 straipsnio (2002 m. kovo 14 d. redakcija (Žin., 2002, Nr. 37-1341) su 2010 m. rugsėjo 21 d. pakeitimu (Žin., 2010, Nr. 113-5742)) tiek, kiek jame, pasak pareiškėjo, nenustatytas draudimas ar nenumatyti kokie nors papildomi kriterijai, neleidžiantys neribotam laikui nuo pareigų nušalinti tiesiogiai išrinktą valstybės politiką, galiojimas.
+TAR pastaba. Vadovaudamasis Lietuvos Respublikos Konstitucinio Teismo įstatymo 26 straipsnio 3 dalimi, pranešama, kad nuo Konstitucinio Teismo 2016 m. vasario 17 d. nutarimo Nr. KT7-N4/2016 „Dėl Lietuvos Respublikos baudžiamojo proceso kodekso 157 straipsnio (2002 m. kovo 14 d. redakcija su 2010 m. rugsėjo 21 d. pakeitimu) atitikties Lietuvos Respublikos Konstitucijai“ oficialaus paskelbimo dienos visa apimtimi atstatomas Lietuvos Respublikos baudžiamojo proceso kodekso 157 straipsnio (2002 m. kovo 14 d. redakcija (Žin., 2002, Nr. 37-1341) su 2010 m. rugsėjo 21 d. pakeitimu (Žin., 2010, Nr. 113-5742)) galiojimas.
 
 Straipsnio pakeitimai:
 
 Nr. 2B-43P, 2015-09-25, paskelbta TAR 2015-09-25, i. k. 2015-14241
+
+Nr. 2B-8P, 2016-02-17, paskelbta TAR 2016-02-17, i. k. 2016-02987
 
 158 straipsnis. Savo tapatybės neatskleidžiančių ikiteisminio tyrimo pareigūnų veiksmai
 
