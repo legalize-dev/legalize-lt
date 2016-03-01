@@ -4,7 +4,7 @@ identifier: "TAR.4CF08CA2BA45"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-05-10"
-last_updated: "2016-01-01"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4CF08CA2BA45"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ BANKROTO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 57-2823, i. k. 1121010ISTA0XI-2000
 
@@ -515,7 +515,17 @@ BANKROTO ADMINISTRATORIUS
 
 15) pateikia Garantiniam fondui dokumentus dėl lėšų skyrimo darbuotojų reikalavimams, susijusiems su darbo santykiais, tenkinti;
 
-16) atlieka kitas šio įstatymo nustatytas funkcijas.
+16) pateikia Nacionalinei mokėjimo agentūrai prie Žemės ūkio ministerijos dokumentus dėl lėšų skyrimo kreditorių – žemės ūkio veiklos subjektų, kaip jie apibrėžti Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme, reikalavimams sumokėti už parduotus žemės ūkio produktus tenkinti;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2108, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19294
+
+17) atlieka kitas šio įstatymo nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-2108, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19294
 
 3. Bankroto administratorius ne vėliau kaip per 6 mėnesius nuo dokumentų apie fizinio asmens sandorių sudarymą gavimo dienos patikrina fizinio asmens sandorius, sudarytus per ne trumpesnį kaip 36 mėnesių laikotarpį iki bankroto bylos iškėlimo, ir pareiškia ieškinius fizinio asmens bankroto bylą nagrinėjančiame teisme dėl sandorių, galėjusių turėti įtakos tam, kad fizinis asmuo negali įvykdyti prievolių kreditoriams, pripažinimo negaliojančiais. Šiuo atveju laikytina, kad bankroto administratorius apie sandorius sužinojo nuo dokumentų apie šių sandorių sudarymą gavimo dienos. Bankroto administratorius motyvuotu prašymu kreipiasi į ikiteisminio tyrimo įstaigas dėl fizinio asmens veiksmų, atitinkančių Baudžiamojo kodekso 207, 208, 209, 216, 222 ir 223 straipsniuose nustatytus požymius, nustatymo.
 
@@ -911,7 +921,11 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 2. Kreditorių reikalavimai tenkinami dviem etapais (išskyrus įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus). Pirmuoju etapu pagal šiame straipsnyje nustatytą eiliškumą tenkinami kreditorių reikalavimai be priskaičiuotų palūkanų ir netesybų, antruoju etapu ta pačia eile tenkinama likusi kreditorių reikalavimų dalis (palūkanos ir netesybos).
 
-3. Pirmąja eile tenkinami darbuotojų reikalavimai, susiję su darbo santykiais (įskaitant gyventojų pajamų mokestį, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokas); reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe ir piniginės lėšos vaikui (įvaikiui) išlaikyti (alimentai).
+3. Pirmąja eile tenkinami darbuotojų reikalavimai, susiję su darbo santykiais (įskaitant gyventojų pajamų mokestį, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokas); reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe ir piniginės lėšos vaikui (įvaikiui) išlaikyti (alimentai); iš Lietuvos Respublikos žemės ūkio ministerijos skirtų lėšų tenkinami žemės ūkio veiklos subjektų reikalavimai sumokėti už parduotus žemės ūkio produktus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2108, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19294
 
 4. Antrąja eile tenkinami visi likusieji kreditorių reikalavimai.
 
@@ -929,7 +943,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
-8. Šio straipsnio 3 dalyje nurodytų kreditorių reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe gali būti tenkinami iš Garantinio fondo lėšų. Šiuo atveju kreditoriaus patvirtinti reikalavimai mažinami iš Garantinio fondo sumokėtos sumos dydžiu, o dėl šios priežasties Garantinio fondo atgręžtiniai reikalavimai turi būti tenkinami antrąja eile.
+8. Šio straipsnio 3 dalyje nurodytų kreditorių reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe gali būti tenkinami iš Garantinio fondo lėšų, o žemės ūkio veiklos subjektų reikalavimai sumokėti už parduotus žemės ūkio produktus gali būti tenkinami Lietuvos Respublikos Vyriausybės nustatyta tvarka iki 40 procentų reikalaujamos sumokėti sumos iš Lietuvos Respublikos žemės ūkio ministerijos einamaisiais metais šiam tikslui skirtų valstybės biudžeto lėšų. Šiuo atveju kreditoriaus patvirtinti reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe mažinami iš Garantinio fondo sumokėtos sumos dydžiu, o kreditoriaus – žemės ūkio veiklos subjekto reikalavimai sumokėti už parduotus žemės ūkio produktus mažinami iš Lietuvos Respublikos žemės ūkio ministerijos skirtų lėšų sumokėtos sumos dydžiu. Dėl šios priežasties Garantinio fondo ir Nacionalinės mokėjimo agentūros prie Žemės ūkio ministerijos atgręžtiniai reikalavimai turi būti tenkinami antrąja eile.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2108, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19294
 
 9. Fizinio asmens ir kreditoriaus priešpriešinių vienarūšių reikalavimų įskaitymo atveju, kai toks įskaitymas galimas pagal mokesčių įstatymuose nustatytas mokesčio permokos (skirtumo) įskaitymo nuostatas, kreditoriaus reikalavimai mažinami įskaitytos sumos dydžiu kartu su priskaičiuotomis palūkanomis ir netesybomis. Jeigu įskaitomos sumos neužtenka visiems kreditoriaus reikalavimams tenkinti, pirmiausia tenkinama reikalavimo dalis be palūkanų ir netesybų, likusi reikalavimų dalis tenkinama šiame straipsnyje nustatyta tvarka, atsižvelgiant į šio straipsnio 2 dalyje nustatytą reikalavimų tenkinimą dviem etapais.
 
