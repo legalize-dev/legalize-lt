@@ -4,7 +4,7 @@ identifier: "TAR.5368B592234C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-11"
-last_updated: "2015-01-01"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
 
@@ -739,7 +739,11 @@ Nr. XI-1372, 2011-05-12, Žin., 2011, Nr. 65-3046 (2011-05-28), i. k. 1111010IST
 
 3. Svarbiausi Valstybinės duomenų apsaugos inspekcijos veiklos tikslai yra prižiūrėti duomenų valdytojų veiklą tvarkant asmens duomenis, kontroliuoti asmens duomenų tvarkymo teisėtumą, užkirsti kelią duomenų tvarkymo pažeidimams, užtikrinti duomenų subjekto teisių apsaugą.
 
-4. Valstybinė duomenų apsaugos inspekcija neturi teisės kontroliuoti asmens duomenų tvarkymo teismuose.
+4. Valstybinė duomenų apsaugos inspekcija neturi teisės kontroliuoti asmens duomenų tvarkymo, kurį atlieka teismai, vykdydami teisingumą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2103, 2015-12-01, paskelbta TAR 2015-12-09, i. k. 2015-19490
 
 37 straipsnis. Valstybinės duomenų apsaugos inspekcijos veiklos teisiniai pagrindai ir principai
 
@@ -1070,6 +1074,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1430, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20555
 
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 15 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2103, 2015-12-01, paskelbta TAR 2015-12-09, i. k. 2015-19490
+
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 36 straipsnio pakeitimo įstatymas
 
 151 straipsnis. Asmens duomenų tvarkymas vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, numatytą Sutarties dėl Europos Sąjungos veikimo trečiosios dalies V antraštinėjedalyje
 
