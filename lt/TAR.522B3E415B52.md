@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2015-07-01"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2015-07-01 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2016-06-08
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
 
@@ -605,6 +605,16 @@ Lietuvos Respublikos teismai, kuriems byloms nagrinėti reikalinga informacija a
 1. Teisėjas yra valstybės pareigūnas ir turi šiame bei kituose įstatymuose numatytus valstybės valdžios įgaliojimus.
 
 2. Teisėjo reikalavimai, susiję su teisingumo vykdymu, yra privalomi visoms valstybės valdžios institucijoms, pareigūnams ir tarnautojams, įmonėms, įstaigoms, organizacijoms, kitiems juridiniams bei fiziniams asmenims. Už teisėjo reikalavimų nevykdymą atsakoma įstatymų nustatyta tvarka.
+
+3. Nepažeisdamas šiame ir kituose įstatymuose nustatytų reikalavimų, apylinkės teismo teisėjas proceso įstatymų nustatytais atvejais turi įgaliojimus nagrinėti visas bylas, teismingas apylinkės teismams.
+
+4. Nepažeisdamas šiame ir kituose įstatymuose nustatytų reikalavimų, apygardos teismo teisėjas proceso įstatymų nustatytais atvejais turi įgaliojimus nagrinėti visas bylas, teismingas apygardų teismams.
+
+5. Kai teisėjas nagrinėja bylą, teismingą kitam teismui, ir dėl to jam reikia išvykti iš savo darbo vietos, teisėjo komandiruotės išlaidos, taip pat važiavimo išlaidos kompensuojamos Vyriausybės nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2246, 2015-12-23, paskelbta TAR 2016-01-04, i. k. 2016-00048
 
 42 straipsnis. Teisėjų skiriamieji ženklai
 
