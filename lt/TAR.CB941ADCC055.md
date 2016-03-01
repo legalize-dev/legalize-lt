@@ -4,7 +4,7 @@ identifier: "TAR.CB941ADCC055"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-01"
-last_updated: "2015-04-14"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2015-04-14 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2016-07-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
 
@@ -158,7 +158,7 @@ APLINKOS APSAUGOS VALSTYBINĖS KONTROLĖS ORGANIZAVIMAS, VYKDYMAS IR PRIEŽIŪRA
 
 7 straipsnis. Aplinkos apsaugos valstybinės kontrolės priežiūra
 
-Aplinkos apsaugos valstybinės kontrolės Lietuvos Respublikoje priežiūrą atlieka Aplinkos ministerija ir (arba) jos įgaliotos institucijos.
+Aplinkos apsaugos valstybinės kontrolės Lietuvos Respublikoje priežiūrą atlieka Aplinkos ministerija.
 
 Straipsnio pakeitimai:
 
@@ -169,6 +169,10 @@ Nr. X-1510, 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
 Nr. XI-1463, 2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
 
 Nr. XII-884, 2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
+
+Straipsnio pakeitimai:
+
+Nr. XII-1952, 2015-10-01, paskelbta TAR 2015-10-08, i. k. 2015-14939
 
 8 straipsnis. Aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančios institucijos pagrindinės funkcijos
 
@@ -762,6 +766,14 @@ Nr. XII-1579, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05693
 
 Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 13 straipsnio pakeitimo įstatymas
 
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1952, 2015-10-01, paskelbta TAR 2015-10-08, i. k. 2015-14939
+
+Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 6 ir 7 straipsnių pakeitimo įstatymas
+
 21 straipsnis. Privalomojo nurodymo įvykdymo terminai
 
 1. Privalomojo nurodymo įvykdymo terminus, ne ilgesnius kaip 2 mėnesiai, nustato privalomąjį nurodymą duodantis aplinkos apsaugos valstybinės kontrolės pareigūnas pagal tai, koks laikotarpis, atsižvelgiant į objektyvias aplinkybes, yra reikalingas privalomajame nurodyme nustatytiems reikalavimams įgyvendinti.
@@ -860,7 +872,7 @@ Nr. X-1510, 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
 
 6 straipsnis. Aplinkos apsaugos valstybinės kontrolės vykdymas
 
-Aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdo Valstybinė aplinkos apsaugos tarnyba, regionų aplinkos apsaugos departamentai, Aplinkos apsaugos agentūra, Valstybinė miškų tarnyba, Valstybinei saugomų teritorijų tarnybai prie Aplinkos ministerijos pavaldžios parkų ir rezervatų direkcijos, Lietuvos geologijos tarnyba prie Aplinkos ministerijos (toliau – aplinkos apsaugos valstybinę kontrolę vykdančios institucijos).
+Aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdo regionų aplinkos apsaugos departamentai, Aplinkos apsaugos agentūra, Valstybinė miškų tarnyba, Valstybinei saugomų teritorijų tarnybai prie Aplinkos ministerijos pavaldžios parkų ir rezervatų direkcijos, Lietuvos geologijos tarnyba prie Aplinkos ministerijos (toliau – aplinkos apsaugos valstybinę kontrolę vykdančios institucijos).
 
 Straipsnio pakeitimai:
 
@@ -869,6 +881,10 @@ Nr. X-1510, 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
 Nr. XI-1463, 2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
 
 Nr. XII-884, 2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
+
+Straipsnio pakeitimai:
+
+Nr. XII-1952, 2015-10-01, paskelbta TAR 2015-10-08, i. k. 2015-14939
 
 121 straipsnis. Teismo leidimų įeiti į fizinių asmenų gyvenamąsias patalpas išdavimo tvarka
 
