@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2016-01-01"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
 
@@ -299,9 +299,9 @@ Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 
 3. Akcizais apmokestinamų prekių sandėlio savininko, registruoto gavėjo arba registruoto siuntėjo pateikiamoje akcizų deklaracijoje turi būti deklaruojama akcizų suma, kurią mokėti prievolė pagal šio įstatymo 9 straipsnį atsirado tą mokestinį laikotarpį, kurio akcizų deklaracija pateikiama, kartu su einamojo mokestinio laikotarpio avansine akcizų suma, kurią mokėti prievolė atsirado pagal šio įstatymo 12 straipsnį.
 
-TAR pastaba. 3 dalis taikoma deklaruojant ir mokant 2016 m. sausio mėnesio ir vėlesnių mokestinių laikotarpių akcizus, įskaitant avansines akcizų sumas.
-
 Straipsnio dalies pakeitimai:
+
+TAR pastaba. 3 dalis taikoma deklaruojant ir mokant 2016 m. sausio mėnesio ir vėlesnių mokestinių laikotarpių akcizus, įskaitant avansines akcizų sumas.
 
 Nr. XII-2152, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19848
 
@@ -337,17 +337,17 @@ Už akcizais apmokestinamas prekes, už kurias pagal šį įstatymą Lietuvos Re
 
 1. Mokėtina akcizų suma turi būti sumokėta ne vėliau kaip iki šiame įstatyme nurodyto akcizų deklaracijos pateikimo termino pabaigos į mokesčių administratoriaus surenkamąją sąskaitą. Jeigu buvo sumokėta mokestinio laikotarpio avansinė akcizų suma, kurią mokėti prievolė atsirado pagal šio straipsnio 2 dalį, mokėtina to mokestinio laikotarpio akcizų suma mažinama sumokėtos avansinės akcizų sumos dydžiu. Jeigu šio įstatymo ar jo įgyvendinamųjų teisės aktų nustatytais atvejais asmuo, kuriam tenka prievolė mokėti akcizus, prieš gaudamas, atsigabendamas ar atsiųsdamas akcizais apmokestinamas prekes buvo sumokėjęs piniginį užstatą, mokėtina akcizų suma visų pirma įskaitoma iš piniginio užstato.
 
-TAR pastaba. 1 dalis taikoma deklaruojant ir mokant 2016 m. sausio mėnesio ir vėlesnių mokestinių laikotarpių akcizus, įskaitant avansines akcizų sumas.
-
 Straipsnio dalies pakeitimai:
+
+TAR pastaba. 1 dalis taikoma deklaruojant ir mokant 2016 m. sausio mėnesio ir vėlesnių mokestinių laikotarpių akcizus, įskaitant avansines akcizų sumas.
 
 Nr. XII-2152, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19848
 
 2. Jeigu už konkretų akcizais apmokestinamų prekių sandėlį šio sandėlio savininko (ar atitinkamai registruoto gavėjo) vidutinė mokestiniam laikotarpiui tenkanti mokėtina į biudžetą akcizų suma 3 praėjusius mokestinius laikotarpius iš eilės viršijo 15 000 eurų, pradedant kitu mokestiniu laikotarpiu po to, kurį paaiškėjo šios aplinkybės, iki einamojo mokestinio laikotarpio 15 dienos į biudžetą mokama avansinė akcizų suma. Ši avansinė akcizų suma yra lygi 1/3 vidutinės mokėtinos į biudžetą akcizų sumos, kuri buvo (ar privalėjo būti) deklaruota šioje dalyje nurodytų 3 praėjusių mokestinių laikotarpių deklaracijose.
 
-TAR pastaba. 2 dalis taikoma deklaruojant ir mokant 2016 m. sausio mėnesio ir vėlesnių mokestinių laikotarpių akcizus, įskaitant avansines akcizų sumas.
-
 Straipsnio dalies pakeitimai:
+
+TAR pastaba. 2 dalis taikoma deklaruojant ir mokant 2016 m. sausio mėnesio ir vėlesnių mokestinių laikotarpių akcizus, įskaitant avansines akcizų sumas.
 
 Nr. XII-2152, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19848
 
@@ -601,13 +601,15 @@ ETILO ALKOHOLIS IR ALKOHOLINIAI GĖRIMAI
 
 23 straipsnis. Alui taikomi akcizų tarifai
 
-1. Alui taikomas 3,11 euro už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą.
+1. Alui taikomas 3,36 euro už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
+
+Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 
 2. Akcizų už alų apskaičiavimo pagal faktinę tūrinę alkoholio koncentraciją taisykles nustato Vyriausybė ar jos įgaliota institucija.
 
@@ -619,9 +621,9 @@ Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 
 Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi tokie akcizų tarifai:
 
-1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 28,67 euro už produkto hektolitrą;
+1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 30,96 euro už produkto hektolitrą;
 
-2) šio straipsnio 1 punkte nenurodytiems gėrimams – 72,12 euro už produkto hektolitrą.
+2) šio straipsnio 1 punkte nenurodytiems gėrimams – 77,89 euro už produkto hektolitrą.
 
 Straipsnio pakeitimai:
 
@@ -634,14 +636,16 @@ Straipsnio pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
+
+Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 
 25 straipsnis. Tarpiniams produktams taikomi akcizų tarifai
 
 Tarpiniams produktams taikomi tokie akcizų tarifai:
 
-1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 89,49 euro už produkto hektolitrą;
+1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 96,65 euro už produkto hektolitrą;
 
-2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 126,27 euro už produkto hektolitrą.
+2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 136,37 euro už produkto hektolitrą.
 
 Straipsnio pakeitimai:
 
@@ -655,15 +659,19 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 
+Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
+
 26 straipsnis. Etilo alkoholiui taikomi akcizų tarifai
 
-1. Etilo alkoholiui taikomas 1 320,67 euro už gryno etilo alkoholio hektolitrą akcizų tarifas.
+1. Etilo alkoholiui taikomas 1 353,69 euro už gryno etilo alkoholio hektolitrą akcizų tarifas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
+
+Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 
 2. Apskaičiuojant mokėtiną akcizų sumą už šiame straipsnyje nurodytus produktus, gryno etilo alkoholio hektolitru laikoma 100 litrų etilo alkoholio, kurio faktinė tūrinė alkoholio koncentracija procentais yra 100 procentų, o temperatūra – 20 °C. Visas gryno etilo alkoholio kiekis hektolitrais apvalinamas iki sveikojo skaičiaus tūkstantosios dalies.
 
@@ -723,19 +731,23 @@ APDOROTAS TABAKAS
 
 2. Cigaretėms taikomas toks akcizų tarifas:
 
-1) specifinis elementas – 48,08 euro;
+1) specifinis elementas – 50,68 euro;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 
+Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
+
 2) vertybinis elementas – 25 procentai.
 
-3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 77,91 euro už 1 000 cigarečių.
+3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 85 eurai už 1 000 cigarečių.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
+
+Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 
 4. Šio įstatymo 3 straipsnio 11 dalyje nurodytus požymius atitinkantis tabako ritinėlis, kuris (be filtro ar kandiklio) yra ilgesnis kaip 8 cm, bet ne ilgesnis kaip 11 cm, šiame įstatyme laikomas dviem cigaretėmis; ritinėlis, kuris ilgesnis kaip 11 cm, bet ne ilgesnis kaip 14 cm, atitinkamai laikomas trimis cigaretėmis ir taip toliau.
 
@@ -757,13 +769,15 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 31 straipsnis. Kitam apdorotam tabakui taikomi akcizų tarifai
 
-1. Cigarams ir cigarilėms taikomas 28,09 euro už kilogramą produkto akcizų tarifas.
+1. Cigarams ir cigarilėms taikomas 29,54 euro už kilogramą produkto akcizų tarifas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
+
+Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 
 2. Rūkomajam tabakui taikomas 54,16 euro už kilogramą produkto akcizų tarifas.
 
