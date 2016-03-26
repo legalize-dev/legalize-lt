@@ -4,7 +4,7 @@ identifier: "TAR.A5ACBDA529A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-12-20"
-last_updated: "2015-06-01"
+last_updated: "2016-03-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 2 straipsnio 16 dalies 5 punkto, 40 stra
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-06-01 iki 2016-03-25
+Suvestinė redakcija nuo 2016-03-26 iki 2016-12-23
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
 
@@ -1071,6 +1071,18 @@ pelno mokesčio įstatymo
 
 11. 2013 m. gegužės 13 d. Tarybos direktyva 2013/13/ES, kuria dėl Kroatijos Respublikos stojimo adaptuojamos tam tikros mokesčių srities direktyvos (OL 2013 L 141, p. 30).
 
+12. 2014 m. liepos 8 d. Tarybos direktyva 2014/86/ES, kuria iš dalies keičiama Direktyva 2011/96/ES dėl bendrosios mokesčių sistemos, taikomos įvairių valstybių narių patronuojančioms ir dukterinėms bendrovėms (OL 2014 L 219, p. 40).
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
+
+13. 2015 m. sausio 27 d. Tarybos direktyva (ES) 2015/121, kuria iš dalies keičiama Direktyva 2011/96/ES dėl bendrosios mokesčių sistemos, taikomos įvairių valstybių narių patronuojančioms ir dukterinėms bendrovėms (OL 2015 L 21, p. 1).
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
+
 Įstatymas papildytas priedėliu:
 
 Nr. IX-2102, 2004-04-08, Žin., 2004, Nr. 60-2117 (2004-04-24)
@@ -1242,6 +1254,12 @@ DIVIDENDŲ IR KITO PASKIRSTYTOJO PELNO  APMOKESTINIMO TVARKA
 3. Lietuvos vieneto ar nuolatinės buveinės gaunami dividendai iš užsienio vienetų, nenurodytų šio straipsnio 2 dalyje, kuriuose dividendus gaunantis Lietuvos vienetas ar užsienio vienetas, kurio nuolatinė buveinė (kai jai priskirtos akcijos, kapitalo dalis ar kitos teisės, už kurių turėjimą mokami šie dividendai) gauna šiuos dividendus, ne trumpiau kaip 12 mėnesių be pertraukų, įskaitant dividendų paskirstymo momentą, valdo ne mažiau kaip 10 procentų balsus suteikiančių akcijų (dalių, pajų), neapmokestinami, jei dividendai gaunami iš užsienio vieneto, kurio pelnas yra apmokestinamas pelno mokesčiu arba jam tapačiu mokesčiu ir kuris nėra įregistruotas ar kitaip organizuotas tikslinėse teritorijose.
 
 4. Lietuvos vienetas neįtraukia į pajamas iš užsienio vieneto gautų dividendų.
+
+5. Šio straipsnio 2 ir 3 dalių nuostatos dėl iš užsienio vienetų gaunamų dividendų neapmokestinimo netaikomos dividendams, kuriais užsienio vienetai sumažina pelną, apmokestinamą pelno mokesčiu ar jam tapačiu mokesčiu.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
 
 Straipsnio pakeitimai:
 
@@ -2016,6 +2034,12 @@ NELEIDŽIAMI ATSKAITYMAI
 4. Jei vienetas paskirsto pelną turtu, o ne pinigais ir šio perleisto turto tikroji rinkos kaina, nustatyta tą dieną, kurią turtas vieneto dalyviui perleistas, yra didesnė už šio turto įsigijimo kainą, tai šis skirtumas yra turto vertės padidėjimo pajamos, jeigu šiame Įstatyme nenustatyta kitaip.
 
 5. Mažinant vieneto įstatinį kapitalą, vieneto dalyviams išmokamos lėšos ar jų dalis, tenkančios įstatinio kapitalo, sudaryto ne iš vieneto dalyvių įnašų, sumažinimo daliai, laikomos dividendais ir apmokestinamos šio Įstatymo 33 ir 34 straipsniuose nustatyta tvarka. Mažinant vieneto įstatinį kapitalą, laikoma, kad pirma vieneto dalyviams išmokama ta įstatinio kapitalo dalis, kuri buvo sudaryta ne iš vieneto dalyvių įnašų, o didinant įstatinį kapitalą iš vieneto lėšų. Dėl įstatinio kapitalo dalies, sudarytos ne iš vieneto dalyvių įnašų, sumažinimo anuliuotų akcijų įsigijimo kainos ir šioje dalyje nurodytų išmokamų lėšų sumos teigiamą skirtumą vieneto dalyvis gali priskirti nuostoliams dėl vertybinių popierių perleidimo.
+
+6. Šio skyriaus 34 straipsnio 2 dalies, 35 straipsnio 2 ir 3 dalių nuostatos dėl dividendų neapmokestinimo netaikomos dariniui ar keliems dariniams, jeigu jų nustatymo pagrindinis tikslas arba vienas iš pagrindinių tikslų buvo gauti mokestinės naudos, kuri prieštarauja 2011 m. lapkričio 30 d. Tarybos direktyvos 2011/96/ES dėl bendrosios mokesčių sistemos, taikomos įvairių valstybių narių patronuojančioms ir dukterinėms bendrovėms, dalykui ar tikslui, ir todėl jie yra apsimestiniai atsižvelgus į visus susijusius faktus ir aplinkybes. Darinys gali apimti daugiau negu vieną etapą ar dalį. Darinys arba keli dariniai laikomi apsimestiniais tiek, kiek jie nebuvo nustatyti dėl svarių komercinių priežasčių, atspindinčių ekonominę realybę.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
 
 Straipsnio pakeitimai:
 
