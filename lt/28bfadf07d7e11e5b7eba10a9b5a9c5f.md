@@ -4,7 +4,7 @@ identifier: "28bfadf07d7e11e5b7eba10a9b5a9c5f"
 country: "lt"
 rank: "istatymas"
 publication_date: "2015-10-15"
-last_updated: "2016-01-01"
+last_updated: "2016-03-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/28bfadf07d7e11e5b7eba10a9b5a9c5f"
 department: "Lietuvos Respublikos Seimas"
@@ -19,6 +19,18 @@ entry_into_force_conditions: "Įstatymo 10 straipsnio 4 dalis įsigalioja 2015-1
 Įstatymo 9 straipsnis įsigalioja 2016-05-01."
 ---
 # Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 4, 5, 8, 9, 10, 11, 23, 33 ir 36 straipsnių pakeitimo įstatymas
+
+Įstatymas netenka galios 2020-01-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2221, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10324
+
+Lietuvos Respublikos juridinių asmenų nemokumo įstatymas
+
+Suvestinė redakcija nuo 2016-03-30 iki 2019-12-31
+
+Įstatymas paskelbtas: TAR 2015-10-28, i. k. 2015-17031
 
 LIETUVOS RESPUBLIKOS
 
@@ -122,5 +134,9 @@ Papildyti 11 straipsnio 5 dalį 26 punktu:
 
 1. Šis įstatymas, išskyrus 3 straipsnio 2 dalį, 9 straipsnį ir šio straipsnio 4 dalį, įsigalioja 2016 m. sausio 1 d.
 
-2. Šio įstatymo 3 straipsnio 2 dalis įsigalioja 2016 m. balandžio 1 d.
+2. Šio įstatymo 3 straipsnio 2 dalis įsigalioja 2017 m. sausio 1 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2279, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06430
 
