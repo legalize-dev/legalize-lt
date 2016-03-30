@@ -4,7 +4,7 @@ identifier: "0a8ebbe09f4e11e58fd1fc0b9bba68a7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2015-12-08"
-last_updated: "2015-12-11"
+last_updated: "2016-03-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/0a8ebbe09f4e11e58fd1fc0b9bba68a7"
 department: "Lietuvos Respublikos Seimas"
@@ -20,6 +20,10 @@ entry_into_force_conditions: "Įstatymo 4 straipsnio 1 dalis įsigalioja 2016-01
 Įstatymo 5 straipsnio įsigaliojimas pakeistas 2016-03-25 įstatymu Nr. XII-2284."
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 14, 18, 19, 21, 28, 32, 35, 38 ir 39 straipsnių pakeitimo įstatymas
+
+Suvestinė redakcija nuo 2016-03-30 iki 2016-04-26
+
+Įstatymas paskelbtas: TAR 2015-12-10, i. k. 2015-19627
 
 LIETUVOS RESPUBLIKOS
 
