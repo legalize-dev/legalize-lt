@@ -4,7 +4,7 @@ identifier: "9ecc4bb0aee911e5b12fbb7dc920ee2c"
 country: "lt"
 rank: "istatymas"
 publication_date: "2015-12-22"
-last_updated: "2016-01-01"
+last_updated: "2016-03-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/9ecc4bb0aee911e5b12fbb7dc920ee2c"
 department: "Lietuvos Respublikos Seimas"
@@ -20,6 +20,10 @@ entry_into_force_conditions: "Įstatymo 13 straipsnio 3 dalis įsigalioja 2015-1
 Įstatymo įsigaliojimas pakeistas 2016-03-25 įstatymu Nr. XII-2286."
 ---
 # Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 4, 5, 6, 7, 8, 9, 14, 17, 19, 25, 27 ir 29 straipsnių pakeitimo įstatymas
+
+Suvestinė redakcija nuo 2016-03-30
+
+Įstatymas paskelbtas: TAR 2015-12-30, i. k. 2015-21017
 
 LIETUVOS RESPUBLIKOS
 
@@ -203,9 +207,17 @@ Pakeisti 25 straipsnio 6 dalį ir ją išdėstyti taip:
 
 1. Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2016 m. sausio 1 d.
 
-2. Šio įstatymo 12 straipsnio 3 dalyje išdėstytos Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalies nuostatos galioja iki 2016 m. kovo 31 d.
+2. Šio įstatymo 12 straipsnio 3 dalyje išdėstytos Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalies nuostatos galioja iki 2016 m. gruodžio 31 d.
 
-3. Šio įstatymo 12 straipsnio 4 dalyje išdėstytos Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalies nuostatos įsigalioja 2016 m. balandžio 1 d.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2286, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06438
+
+3. Šio įstatymo 12 straipsnio 4 dalyje išdėstytos Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalies nuostatos įsigalioja 2017 m. sausio 1 d.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2286, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06438
 
 4. Iki šio įstatymo įsigaliojimo dienos iškeltos fizinių asmenų bankroto bylos nagrinėjamos vadovaujantis iki šio įstatymo įsigaliojimo dienos galiojusiomis Lietuvos Respublikos fizinių asmenų bankroto įstatymo nuostatomis, išskyrus šio straipsnio 5 ir 6 dalyse nustatytas išimtis.
 
@@ -216,4 +228,14 @@ Pakeisti 25 straipsnio 6 dalį ir ją išdėstyti taip:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2286, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06438
+
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 4, 5, 6, 7, 8, 9, 14, 17, 19, 25, 27 ir 29 straipsnių pakeitimo įstatymo Nr. XII-2235 13 straipsnio pakeitimo įstatymas
 
