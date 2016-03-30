@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2016-01-01"
+last_updated: "2016-03-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-03-29
+Suvestinė redakcija nuo 2016-03-30 iki 2016-03-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
 
@@ -395,7 +395,11 @@ Nr. XI-1644, 2011-11-10, Žin., 2011, Nr. 144-6753 (2011-11-29)
 
 3) darbuotojų saugos ir sveikatos teisės aktų nustatyta tvarka pranešti apie nelaimingą atsitikimą darbe, pakeliui į darbą ar iš darbo, ūmią profesinę ligą Darbuotojų saugos ir sveikatos įstatymo nustatytoms institucijoms bei Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui, kurio aptarnaujamoje teritorijoje yra draudėjas;
 
-4) Vyriausybės nustatyta tvarka organizuoti nelaimingų atsitikimų darbe, pakeliui į darbą ar iš darbo tyrimą bei dalyvauti tiriant profesines ligas;
+4) įstatymų ar Vyriausybės nustatyta tvarka organizuoti nelaimingų atsitikimų darbe, pakeliui į darbą ar iš darbo tyrimą ir dalyvauti tiriant profesines ligas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2281, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06432
 
 5) laiku ir teisingai apskaičiuoti bei mokėti nelaimingų atsitikimų darbe socialinio draudimo įmokas. Šiame punkte nurodytos prievolės draudėjams netaikomos už šio įstatymo 4 straipsnio 1 dalies 3 punkte išvardytus asmenis, kurie draudžiami valstybės biudžeto lėšomis.
 
