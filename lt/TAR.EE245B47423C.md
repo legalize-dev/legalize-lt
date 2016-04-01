@@ -4,7 +4,7 @@ identifier: "TAR.EE245B47423C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-25"
-last_updated: "2016-01-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Šio įstatymo 3, 5, 10 straipsniai, 13 straipsnio
 ---
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-03-31
+Suvestinė redakcija nuo 2016-04-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
 
@@ -123,7 +123,11 @@ Straipsnio dalies naikinimas:
 
 Nr. X-1149, 2007-05-24, Žin. 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
 
-29. Visuomenės sveikatos centrai apskrityse – Lietuvos Respublikos sveikatos apsaugos ministerijai pavaldžios teritorinės visuomenės sveikatos priežiūros įstaigos, įgyvendinančios šiame Įstatyme ir kituose teisės aktuose nustatytas užkrečiamųjų ligų profilaktikos ir kontrolės funkcijas.
+29. Neteko galios nuo 2016-04-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 Straipsnio dalies pakeitimai:
 
@@ -151,13 +155,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
 
-33. Apskrities vyriausiasis epidemiologas – visuomenės sveikatos centro apskrityje valstybės tarnautojas, atitinkantis sveikatos apsaugos ministro patvirtintus kvalifikacinius reikalavimus.
+33. Apskrities vyriausiasis epidemiologas – Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos (toliau – Nacionalinis visuomenės sveikatos centras) valstybės tarnautojas, atitinkantis sveikatos apsaugos ministro patvirtintus kvalifikacinius reikalavimus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
 
 Nr. XI-1761, 2011-12-01, Žin., 2011, Nr. 153-7198 (2011-12-15), i. k. 1111010ISTA0XI-1761
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 34. Tarptautinės teisės aktai – Pasaulio Sveikatos Organizacijos Asamblėjos patvirtintos taisyklės užkrečiamųjų ligų profilaktikos ir kontrolės klausimais, kiti Pasaulio Sveikatos Organizacijos Asamblėjos priimti teisės aktai, prie kurių įstatymų nustatyta tvarka yra prisijungusi Lietuvos Respublika.
 
@@ -191,9 +197,17 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 4) komplikacijos po skiepų.
 
-2. Juridiniai ir fiziniai asmenys, licencijuoti sveikatos priežiūros veiklai, įtarę ar nustatę privalomo epidemiologinio registravimo objektus, privalo tvarkyti jų apskaitą ir nustatyta tvarka teikti informaciją apie juos atitinkamoms teritorinėms visuomenės sveikatos priežiūros įstaigoms.
+2. Juridiniai ir fiziniai asmenys, licencijuoti sveikatos priežiūros veiklai, įtarę ar nustatę privalomo epidemiologinio registravimo objektus, privalo tvarkyti jų apskaitą ir nustatyta tvarka teikti informaciją apie juos Nacionaliniam visuomenės sveikatos centrui.
 
-3. Privalomo epidemiologinio registravimo tvarką, privalomą informacijos apie epidemiologinio registravimo objektus turinį ir informacijos privalomo perdavimo šio straipsnio 2 dalyje nurodytoms visuomenės sveikatos priežiūros įstaigoms ir pareigūnams tvarką bei terminus nustato Sveikatos apsaugos ministerija.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
+
+3. Privalomo epidemiologinio registravimo tvarką, privalomą informacijos apie epidemiologinio registravimo objektus turinį ir informacijos privalomo perdavimo Nacionaliniam visuomenės sveikatos centrui tvarką ir terminus nustato Sveikatos apsaugos ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 4. Neteko galios nuo 2008-01-01
 
@@ -209,25 +223,17 @@ Nr. X-1149, 2007-05-24, Žin. 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA0
 
 2. Užkrečiamųjų ligų privalomos epidemiologinės analizės ir prognozės tvarką nustato Sveikatos apsaugos ministerija.
 
-3. Užkrečiamųjų ligų epidemiologinę analizę ir prognozę atlieka teritorinės visuomenės sveikatos priežiūros įstaigos. Šios analizės duomenis bei užkrečiamosiomis ligomis sergančiųjų sveikatos priežiūros vertinimą ne rečiau kaip kartą per metus pateikia:
+3. Užkrečiamųjų ligų epidemiologinę analizę ir prognozę atlieka Nacionalinis visuomenės sveikatos centras. Šios analizės duomenis ir užkrečiamosiomis ligomis sergančiųjų sveikatos priežiūros vertinimą ne rečiau kaip kartą per metus pateikia:
 
 1) savivaldybėse savivaldybės gydytojas – savivaldybės administracijos direktoriui;
 
-Straipsnio punkto pakeitimai:
+2) apskričių vyriausieji epidemiologai – Lietuvos Respublikos vyriausiajam epidemiologui;
 
-Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+3) Krašto apsaugos ministerijos, Vidaus reikalų ministerijos ir Kalėjimų departamento prie Teisingumo ministerijos sveikatos priežiūros tarnybos – atitinkamai krašto apsaugos ministrui, Kalėjimų departamento prie Teisingumo ministerijos direktoriui ar vidaus reikalų ministrui ir Lietuvos Respublikos vyriausiajam epidemiologui Sveikatos apsaugos ministerijos nustatyta tvarka, suderinusios su Krašto apsaugos, Vidaus reikalų, Teisingumo ministerijomis.
 
-Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+Straipsnio dalies pakeitimai:
 
-2) Neteko galios nuo 2010-07-01
-
-Straipsnio punkto naikinimas:
-
-Nr. XI-768, 2010-04-20, Žin. 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
-
-3) apskričių vyriausieji epidemiologai – Lietuvos Respublikos vyriausiajam epidemiologui;
-
-4) Krašto apsaugos ministerijos, Vidaus reikalų ministerijos ir Kalėjimų departamento prie Teisingumo ministerijos sveikatos priežiūros tarnybos – atitinkamai krašto apsaugos ministrui, Kalėjimų departamento prie Teisingumo ministerijos direktoriui ar vidaus reikalų ministrui ir Lietuvos Respublikos vyriausiajam epidemiologui Sveikatos apsaugos ministerijos nustatyta tvarka, suderinusios su Krašto apsaugos, Vidaus reikalų, Teisingumo ministerijomis.
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 6 straipsnis. Užkrečiamųjų ligų epidemiologinė diagnostika
 
@@ -235,11 +241,19 @@ Nr. XI-768, 2010-04-20, Žin. 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA0
 
 1) teisės aktų nustatyta tvarka gavę licencijas sveikatos priežiūros veiklai juridiniai ir fiziniai asmenys, įtarę ar nustatę privalomojo epidemiologinio registravimo objektus;
 
-2) teritorinės visuomenės sveikatos priežiūros įstaigos, gavusios informaciją apie privalomo epidemiologinio registravimo objektus ar patvirtinusios užkrečiamųjų ligų sukėlėjų išskyrimą.
+2) Nacionalinis visuomenės sveikatos centras, gavęs informaciją apie privalomo epidemiologinio registravimo objektus ar patvirtinęs užkrečiamųjų ligų sukėlėjų išskyrimą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 2. Užkrečiamųjų ligų epidemiologinės diagnostikos tvarką nustato Sveikatos apsaugos ministerija.
 
-3. Užregistravę bendras žmonių ir gyvulių užkrečiamąsias ligas, veterinarijos specialistai Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka ir metodais atlieka epizootologinį tyrimą ir apie tyrimo duomenis informuoja atitinkamą teritorinę visuomenės sveikatos priežiūros įstaigą.
+3. Užregistravę bendras žmonių ir gyvulių užkrečiamąsias ligas, veterinarijos specialistai Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka ir metodais atlieka epizootologinį tyrimą ir apie tyrimo duomenis informuoja Nacionalinį visuomenės sveikatos centrą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 ANTRASIS SKIRSNIS
 
@@ -287,11 +301,13 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 1. Ligonių, asmenų, įtariamų, kad serga, turėjusių sąlytį, ar sukėlėjų nešiotojų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas taikomas:
 
-1) jei ligoniai ir asmenys, turėję sąlytį ar įtariami, kad serga pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis, šių ligų, įrašytų į šio Įstatymo 8 straipsnio 2 dalyje nurodytą sąrašą, sukėlėjų nešiotojai (kai šie asmenys neveiksnūs tam tikroje srityje, – vienas iš jų atstovų pagal įstatymą) atsisako arba vengia hospitalizavimo ir (ar) izoliavimo, pažeidžia nustatytą asmens sveikatos priežiūros įstaigos vidaus tvarką, užkrečiamųjų ligų profilaktikos taisykles ir tuo sukelia pavojų aplinkinių sveikatai. Atsisakymo būtinai gultis į ligoninę arba būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo vengimo faktas, taip pat šiame punkte nurodyti pažeidimai turi būti įrašyti asmens medicininiuose dokumentuose, o bendrosios praktikos gydytojai, gydytojai infektologai ar kiti gydytojai specialistai, nustatę šiuos asmenis, turi apie juos nedelsdami informuoti teritorinę visuomenės sveikatos priežiūros įstaigą ir atitinkamos savivaldybės gydytoją. Asmenys, vengiantys būtinojo hospitalizavimo, būtinojo izoliavimo, atsako pagal įstatymus ir kitus teisės aktus;
+1) jei ligoniai ir asmenys, turėję sąlytį ar įtariami, kad serga pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis, šių ligų, įrašytų į šio Įstatymo 8 straipsnio 2 dalyje nurodytą sąrašą, sukėlėjų nešiotojai (kai šie asmenys neveiksnūs tam tikroje srityje, – vienas iš jų atstovų pagal įstatymą) atsisako arba vengia hospitalizavimo ir (ar) izoliavimo, pažeidžia nustatytą asmens sveikatos priežiūros įstaigos vidaus tvarką, užkrečiamųjų ligų profilaktikos taisykles ir tuo sukelia pavojų aplinkinių sveikatai. Atsisakymo būtinai gultis į ligoninę arba būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo vengimo faktas, taip pat šiame punkte nurodyti pažeidimai turi būti įrašyti asmens medicininiuose dokumentuose, o bendrosios praktikos gydytojai, gydytojai infektologai ar kiti gydytojai specialistai, nustatę šiuos asmenis, turi apie juos nedelsdami informuoti Nacionalinį visuomenės sveikatos centrą ir atitinkamos savivaldybės gydytoją. Asmenys, vengiantys būtinojo hospitalizavimo, būtinojo izoliavimo, atsako pagal įstatymus ir kitus teisės aktus;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 2) jei ligonis ar asmuo, įtariamas, kad serga pavojinga ar ypač pavojinga liga, yra be sąmonės ar nesugeba teisingai įvertinti savo sveikatos būklės, o jį būtina skubiai gydyti norint išgelbėti gyvybę;
 
@@ -375,7 +391,11 @@ Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
 
 13 straipsnis. Privalomas profilaktinis aplinkos kenksmingumo pašalinimas
 
-1. Įmonės, įstaigos ir organizacijos privalo per 24 valandas organizuoti savo aplinkos (patalpų ir teritorijos) privalomą profilaktinį kenksmingumo pašalinimą (dezinfekciją, dezinsekciją, deratizaciją), kai teritorinių visuomenės sveikatos priežiūros įstaigų specialistai nustato, kad įmonėms, įstaigoms ar organizacijoms priklausančiuose statiniuose ar jų teritorijose yra susikaupę užkrečiamųjų ligų sukėlėjų ir juos platinančių vabzdžių ar graužikų. Kenksmingumo pašalinimą atitinkamose įmonėse, įstaigose, organizacijose, joms priklausančiuose riboto karantino objektuose reglamentuoja higienos normos.
+1. Įmonės, įstaigos ir organizacijos privalo per 24 valandas organizuoti savo aplinkos (patalpų ir teritorijos) privalomą profilaktinį kenksmingumo pašalinimą (dezinfekciją, dezinsekciją, deratizaciją), kai Nacionalinio visuomenės sveikatos centro specialistai nustato, kad įmonėms, įstaigoms ar organizacijoms priklausančiuose statiniuose ar jų teritorijose yra susikaupę užkrečiamųjų ligų sukėlėjų ir juos platinančių vabzdžių ar graužikų. Kenksmingumo pašalinimą atitinkamose įmonėse, įstaigose, organizacijose, joms priklausančiuose riboto karantino objektuose reglamentuoja higienos normos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 2. Privalomą profilaktinį aplinkos kenksmingumo pašalinimą turi teisę atlikti tik nustatyta tvarka licencijuoti dezinfekcijos, dezinsekcijos ir deratizacijos veiklai juridiniai asmenys.
 
@@ -389,7 +409,11 @@ Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
 
 3. Jei pavojingų ir ypač pavojingų užkrečiamųjų ligų židiniuose esančio turto savininkai neduoda sutikimo atlikti privalomo aplinkos kenksmingumo pašalinimo (dezinfekcijos, dezinsekcijos, deratizacijos) darbų, šie darbai atliekami priverstinai, dalyvaujant policijos pareigūnams. Policijos pareigūnų dalyvavimo tvarką nustato Vyriausybės įgaliota institucija.
 
-4. Privalomą aplinkos kenksmingumo pašalinimą (dezinfekciją, dezinsekciją, deratizaciją) pavojingų ir ypač pavojingų užkrečiamųjų ligų židiniuose organizuoja ir atlieka teritorinės visuomenės sveikatos priežiūros įstaigos arba jų pavedimu kiti šiai veiklai licencijuoti juridiniai asmenys.
+4. Privalomą aplinkos kenksmingumo pašalinimą (dezinfekciją, dezinsekciją, deratizaciją) pavojingų ir ypač pavojingų užkrečiamųjų ligų židiniuose organizuoja ir atlieka Nacionalinis visuomenės sveikatos centras ir jo pavedimu šiai veiklai licencijuoti juridiniai asmenys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 5. Pavojingų ir ypač pavojingų užkrečiamųjų ligų židiniuose privalomo aplinkos kenksmingumo pašalinimo (dezinfekcijos, dezinsekcijos, deratizacijos) tvarką tvirtina sveikatos apsaugos ministras.
 
@@ -397,7 +421,11 @@ Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
 
 1. Juridiniams ir fiziniams asmenims verstis veikla, kuriai naudojami genetiškai modifikuoti užkrečiamųjų ligų sukėlėjai, Lietuvos Respublikoje leidžiama tik turint Aplinkos ministerijos nustatyta tvarka išduotą leidimą tokiai veiklai.
 
-2. Leidimo gavėjas turi teisę pradėti šio straipsnio 1 dalyje nurodytą veiklą tik pateikęs šį leidimą teritorinei visuomenės sveikatos priežiūros įstaigai.
+2. Leidimo gavėjas turi teisę pradėti šio straipsnio 1 dalyje nurodytą veiklą tik pateikęs šį leidimą Nacionaliniam visuomenės sveikatos centrui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 16 straipsnis. Užkrečiamųjų ligų sukėlėjų importas, eksportas, vežimas ir laikymas
 
@@ -407,7 +435,11 @@ Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
 
 3. Užkrečiamųjų ligų sukėlėjai įvežami ir išvežami teisės aktų ar (ir) Lietuvos Respublikos tarptautinių sutarčių pavojingiems kroviniams vežti keliais, vandeniu, oru ir geležinkeliais nustatyta tvarka.
 
-4. Licencijos turėtojas turi teisę pradėti šio straipsnio 1 dalyje numatytą veiklą tik pateikęs šią licenciją teritorinei visuomenės sveikatos priežiūros įstaigai.
+4. Licencijos turėtojas turi teisę pradėti šio straipsnio 1 dalyje nurodytą veiklą tik pateikęs šią licenciją Nacionaliniam visuomenės sveikatos centrui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 17 straipsnis. Asmenų, mirusių nuo užkrečiamųjų ligų, palaikų vežimas ir laidojimas
 
@@ -441,7 +473,11 @@ Ypatingųjų epideminių situacijų nustatymo pagrindus reglamentuoja šis įsta
 
 1. Jei tam tikroje Lietuvos Respublikos teritorijoje dėl užkrečiamųjų ligų sukėlėjų ir (ar) jų plitimo ypatumų nuolat išlieka galimybė užsikrėsti šiomis ligomis, ši teritorija turi būti paskelbta užkrėsta užkrečiamųjų ligų sukėlėjais.
 
-2. Teritorijų užkrėstumą užkrečiamųjų ligų sukėlėjais nustato teritorinės visuomenės sveikatos priežiūros įstaigos.
+2. Teritorijų užkrėstumą užkrečiamųjų ligų sukėlėjais nustato Nacionalinis visuomenės sveikatos centras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 3. Teritorijas skelbia užkrėstomis užkrečiamųjų ligų sukėlėjais ir tokius skelbimus atšaukia:
 
@@ -461,7 +497,11 @@ Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA
 
 1. Karantino tikslas – nustatyti specialią asmenų darbo, gyvenimo, poilsio, kelionių tvarką, ūkinės ir kitokios veiklos sąlygas, produktų gamybos, jų realizavimo, geriamojo vandens tiekimo bei paslaugų teikimo tvarką ir tuo riboti užkrečiamųjų ligų plitimą.
 
-2. Teritorijų, kuriose skelbiamas karantinas, dydį ir ribas nustato teritorinės visuomenės sveikatos priežiūros įstaigos.
+2. Teritorijų, kuriose skelbiamas karantinas, dydį ir ribas nustato Nacionalinis visuomenės sveikatos centras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 3. Teritorijų karantiną skelbia ir atšaukia, jo dydį, ribas, trukmę ir režimą tvirtina:
 
@@ -499,17 +539,23 @@ Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA
 
 10. Riboto karantino skelbimo ir tokio skelbimo atšaukimo pagrindus ir tvarką nustato Sveikatos apsaugos ministerija.
 
-11. Riboto karantino režimo priemonių naudojimą šio straipsnio 8 dalies 1 punkte išvardytiems objektams organizuoja Muitinės departamentas prie Finansų ministerijos. Riboto karantino režimo priemonių naudojimą šio straipsnio 8 dalies 2 ir 3 punktuose išvardytiems objektams organizuoja atitinkamos savivaldybės gydytojas ir teritorinė visuomenės sveikatos priežiūros įstaiga.
+11. Riboto karantino režimo priemonių naudojimą šio straipsnio 8 dalies 1 punkte išvardytiems objektams organizuoja Muitinės departamentas prie Finansų ministerijos. Riboto karantino režimo priemonių naudojimą šio straipsnio 8 dalies 2 ir 3 punktuose išvardytiems objektams organizuoja atitinkamos savivaldybės gydytojas ir Nacionalinis visuomenės sveikatos centras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 12. Riboto karantino objektų apsaugą Lietuvos Respublikos vyriausiojo epidemiologo prašymu organizuoja Vidaus reikalų ministerija.
 
-13. Teritorijų ir riboto karantino režimo kontrolę Sveikatos apsaugos ministerijos nustatyta tvarka pagal savo kompetenciją vykdo visuomenės sveikatos centrai apskrityse bei Valstybinė maisto ir veterinarijos tarnyba ir jos teritorinės įstaigos.
+13. Teritorijų ir riboto karantino režimo kontrolę Sveikatos apsaugos ministerijos nustatyta tvarka pagal savo kompetenciją vykdo Nacionalinis visuomenės sveikatos centras bei Valstybinė maisto ir veterinarijos tarnyba ir jos teritorinės įstaigos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
 
 Nr. XI-1761, 2011-12-01, Žin., 2011, Nr. 153-7198 (2011-12-15), i. k. 1111010ISTA0XI-1761
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 IV SKYRIUS
 
@@ -631,7 +677,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-466, 2013-07-02, Žin., 2013, Nr. 79-3987 (2013-07-23), i. k. 1131010ISTA0XII-466
 
-3) suderinusi su teritorinės visuomenės sveikatos priežiūros įstaigos vadovu, tvirtina savivaldybės teritorijos sanitarinės kontrolės taisykles;
+3) suderinusi su Nacionaliniu visuomenės sveikatos centru, tvirtina savivaldybės teritorijos sanitarinės kontrolės taisykles;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 4) suderinusi su Sveikatos apsaugos ministerija, prireikus tvirtina savo teritorijoje griežtesnius negu pagal higienos normas užkrečiamųjų ligų profilaktikos reikalavimus.
 
@@ -659,65 +709,53 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
 
-3. Savivaldybės administracijos direktorius teritorinių visuomenės sveikatos priežiūros įstaigų vadovų teikimu:
+3. Savivaldybės administracijos direktorius Nacionalinio visuomenės sveikatos centro teikimu:
 
-3) uždraudžia žmonių susibūrimus savivaldybės teritorijoje esančiose įmonėse, įstaigose, organizacijose, viešose vietose, kai iškyla pavojingų ir ypač pavojingų užkrečiamųjų ligų išplitimo pavojus;
+1) uždraudžia žmonių susibūrimus savivaldybės teritorijoje esančiose įmonėse, įstaigose, organizacijose, viešose vietose, kai iškyla pavojingų ir ypač pavojingų užkrečiamųjų ligų išplitimo pavojus;
 
-4) riboja gyventojų keliones ir transporto priemonių judėjimą apkrėstoje teritorijoje ir išvykimą už jos ribų;
+2) riboja gyventojų keliones ir transporto priemonių judėjimą apkrėstoje teritorijoje ir išvykimą už jos ribų;
 
-5) organizuoja nustatytose teritorijose karantino režimo priemonių įgyvendinimą, kai savivaldybės teritorijai yra paskelbtas teritorijų karantinas;
+3) organizuoja nustatytose teritorijose karantino režimo priemonių įgyvendinimą, kai savivaldybės teritorijai yra paskelbtas teritorijų karantinas;
 
-6) organizuoja savivaldybės tikslinių sveikatos programų dėl užkrečiamųjų ligų profilaktikos ir kontrolės rengimą ir jas finansuoja.
+4) organizuoja savivaldybės tikslinių sveikatos programų dėl užkrečiamųjų ligų profilaktikos ir kontrolės rengimą ir jas finansuoja.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 SEPTINTASIS SKIRSNIS
 
 VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ TARNAUTOJŲ IR PAREIGŪNŲ KOMPETENCIJA VALDYTI UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKĄ IR KONTROLĘ
 
-27 straipsnis. Visuomenės sveikatos centrų apskrityse ir kitų institucijų, pagal kompetenciją vykdančių užkrečiamųjų ligų profilaktiką ir kontrolę, valstybės tarnautojų kompetencija užkrečiamųjų ligų profilaktikos ir kontrolės srityje
+27 straipsnis. Nacionalinio visuomenės sveikatos centro ir kitų institucijų, pagal kompetenciją vykdančių užkrečiamųjų ligų profilaktiką ir kontrolę, valstybės tarnautojų kompetencija užkrečiamųjų ligų profilaktikos ir kontrolės srityje
 
-Pakeistas straipsnio pavadinimas:
-
-Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
-
-Nr. XI-1761, 2011-12-01, Žin., 2011, Nr. 153-7198 (2011-12-15), i. k. 1111010ISTA0XI-1761
-
-1. Visuomenės sveikatos centrų apskrityse ir kitų institucijų, pagal kompetenciją vykdančių užkrečiamųjų ligų profilaktiką ir kontrolę, tarnautojai turi šias teises ir pareigas užkrečiamųjų ligų profilaktikos ir kontrolės srityje:
+1. Nacionalinio visuomenės sveikatos centro ir kitų institucijų, pagal kompetenciją vykdančių užkrečiamųjų ligų profilaktiką ir kontrolę, tarnautojai turi šias teises ir pareigas užkrečiamųjų ligų profilaktikos ir kontrolės srityje:
 
 1) vykdydami valstybinę užkrečiamųjų ligų profilaktikos ir kontrolės priežiūrą, organizuodami imunoprofilaktiką, chemoprofilaktiką ar privalomąjį aplinkos kenksmingumo pašalinimą, imdami medžiagą mikrobiologiniams tyrimams bei aiškindamiesi susirgimų priežastis, pateikę pavedimą ir tarnybinį pažymėjimą bei pranešę įmonių, įstaigų ir organizacijų administracijai ar vadovybei ir lydimi jos atstovo, netrukdomai lankytis visose įmonėse, įstaigose, organizacijose, krašto apsaugos sistemos ir vidaus reikalų sistemos objektuose, pasienio ruožo teritorijose, muitinės sandėliuose, Lietuvos Respublikos ir užsienio laivuose, esančiuose Lietuvos Respublikos uostuose ir teritoriniuose vandenyse, lėktuvuose, esančiuose Lietuvos Respublikos oro uostuose, kituose objektuose;
 
-2) lankydamiesi įmonėse, įstaigose, organizacijose ir kituose objektuose, apklausti personalą bei lankytojus (interesantus, klientus, pacientus) ir, nepažeisdami valstybės, komercinių, karinių ar kitų paslapčių bei asmens sveikatos informacijos konfidencialumo, susipažinti su objekto technologiniais ir naudojamų žaliavų, gamybos (paslaugų) procesų bei gaminamos produkcijos ir jos realizavimo dokumentais, kurių reikia įvertinti gamybos proceso ar produkto (paslaugos) epidemiologinę saugą ir įtaką gyventojų apsikrėtimui užkrečiamosiomis ligomis, arba įtraukti objektą, jo žaliavas ir (ar) produkciją bei paslaugas į teritorijos ar ribotą karantiną;
+2) lankydamiesi įmonėse, įstaigose, organizacijose ir kituose objektuose, apklausti personalą bei lankytojus (interesantus, klientus, pacientus) ir, nepažeisdami valstybės, komercinių, karinių ar kitų paslapčių bei asmens sveikatos informacijos konfidencialumo, susipažinti su objekto technologiniais ir naudojamų žaliavų, gamybos (paslaugų) procesų bei gaminamos produkcijos ir jos realizavimo dokumentais, kurių reikia gamybos proceso ar produkto (paslaugos) epidemiologinei saugai ir įtakai gyventojų apsikrėtimui užkrečiamosiomis ligomis įvertinti, arba įtraukti objektą, jo žaliavas ir (ar) produkciją bei paslaugas į teritorijos ar ribotą karantiną;
 
 3) gauti iš įmonių, įstaigų ir organizacijų, kitų juridinių bei fizinių asmenų dokumentų kopijas ir informaciją apie jų veiklos srityje galimus užkrečiamųjų ligų sukėlėjų plitimo veiksnius, užkrečiamųjų ligų atsiradimo ir jų paplitimo priežastis, teritorijų karantino ir riboto karantino objektus;
 
-4) pagal savo kompetenciją apklausti ligonio ar asmens, įtariamo, kad serga pavojingomis ir ypač pavojingomis užkrečiamosiomis ligomis, ar sukėlėjo nešiotojo šeimos narius. Visuomenės sveikatos centrų apskrityse ir kitų institucijų užkrečiamųjų ligų profilaktiką ir kontrolę vykdantys tarnautojai, nepažeisdami informacijos apie asmens sveikatą konfidencialumo reikalavimų, turi informuoti tokių asmenų šeimos narius ir kartu dirbančius asmenis apie galimą pavojų jų sveikatai ir galimybę to pavojaus išvengti naudojant profilaktines ir apsaugos priemones;
+4) pagal savo kompetenciją apklausti ligonio ar asmens, įtariamo, kad serga pavojingomis ir ypač pavojingomis užkrečiamosiomis ligomis, ar sukėlėjo nešiotojo šeimos narius. Nacionalinio visuomenės sveikatos centro ir kitų institucijų užkrečiamųjų ligų profilaktiką ir kontrolę vykdantys tarnautojai, nepažeisdami informacijos apie asmens sveikatą konfidencialumo reikalavimų, turi informuoti tokių asmenų šeimos narius ir kartu dirbančius asmenis apie galimą pavojų jų sveikatai ir galimybę to pavojaus išvengti naudojant profilaktines ir apsaugos priemones;
 
-5) Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka Lietuvos Respublikos vyriausiojo epidemiologo ar apskrities (regiono) vyriausiojo epidemiologo sprendimu, padedami policijos, patekti į pavojinga ar ypač pavojinga užkrečiamąja liga susirgusio, įtariamo, kad serga, asmens būstą be jo sutikimo, kai reikia gelbėti šio asmens ir aplinkinių gyvybę ar sveikatą;
+5) Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka Lietuvos Respublikos vyriausiojo epidemiologo ar apskrities vyriausiojo epidemiologo sprendimu, padedami policijos, patekti į pavojinga ar ypač pavojinga užkrečiamąja liga susirgusio, įtariamo, kad serga, asmens būstą be jo sutikimo, kai reikia gelbėti šio asmens ir aplinkinių gyvybę ar sveikatą;
 
 6) apžiūrėti pasienio kontrolės postuose, importo ir eksporto terminaluose kiekvieną transporto priemonę, įvažiavusią į Lietuvos Respubliką, ir pagal savo kompetenciją apklausti valstybės sieną kertančius asmenis, jeigu jie atvyksta (tiesiai ar tranzitu) iš pavojingų ir ypač pavojingų užkrečiamųjų ligų sukėlėjais užkrėstų teritorijų, reikalauti tarptautinės teisės aktuose numatytų užkrečiamųjų ligų profilaktikos ir kontrolės dokumentų;
 
 7) teikti motyvuotas išvadas Vyriausybės įgaliotoms institucijoms dėl geriamojo vandens, maisto produktų, kurių vartojimas galėjo lemti ar lėmė užkrečiamųjų ligų atsiradimą ir išplitimą, realizavimo sustabdymo ir jų išėmimo iš apyvartos, geriamojo vandens tiekimo sustabdymo, apkrėstų maisto produktų nustatyta tvarka sunaikinimo ar utilizavimo, geriamojo vandens tiekimo sistemų dezinfekcijos;
 
-8) neleisti išvykti Lietuvos Respublikoje įregistruotiems laivams be visuomenės sveikatos centro apskrityje visuomenės sveikatos specialisto, atliekančio medicininės karantininės priežiūros funkcijas, žymos „Išvykti leidžiama“ į šalis, įrašytas į sveikatos apsaugos ministro patvirtintą sąrašą.
-
-Straipsnio dalies pakeitimai:
-
-Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
-
-Nr. XI-1761, 2011-12-01, Žin., 2011, Nr. 153-7198 (2011-12-15), i. k. 1111010ISTA0XI-1761
+8) neleisti išvykti Lietuvos Respublikoje įregistruotiems laivams be Nacionalinio visuomenės sveikatos centro visuomenės sveikatos specialisto, atliekančio medicininės karantininės priežiūros funkcijas, žymos „Išvykti leidžiama“ į šalis, įrašytas į sveikatos apsaugos ministro patvirtintą sąrašą.
 
 2. Užkrečiamųjų ligų profilaktiką ir kontrolę vykdantys tarnautojai turi teisę nustatyti taisyklių, higienos normų, kitų pagal standartus parengtų normatyvinių dokumentų, skirtų užkirsti kelią užkrečiamosioms ligoms arba kovai su jomis, pažeidimus, dėl kurių galėjo atsirasti ir išplisti užkrečiamosios ligos. Nustatant taisyklių, skirtų užkirsti kelią užkrečiamosioms ligoms arba kovai su jomis, pažeidimus, dėl kurių galėjo atsirasti ir išplisti užkrečiamosios ligos, įrodymų pakankamumą ir įrodinėjimo priemones kiekvienu konkrečiu atveju nustato pagal savo kompetenciją šio straipsnio 1 dalyje nurodyti tarnautojai (pareigūnai). Nustatant šių taisyklių pažeidimus, epidemiologinės diagnostikos ir epidemiologinės analizės duomenys turi vienodą reikšmę.
 
-3. Visuomenės sveikatos centrų apskrityse ir kitų institucijų tarnautojai gali turėti ir kitų teisių bei pareigų užkrečiamųjų ligų profilaktikos ir kontrolės srityje, numatytų kituose įstatymuose, tarptautinės teisės aktuose ir kituose norminiuose teisės aktuose.
+3. Nacionalinio visuomenės sveikatos centro ir kitų institucijų tarnautojai gali turėti ir kitų teisių bei pareigų užkrečiamųjų ligų profilaktikos ir kontrolės srityje, numatytų kituose įstatymuose, tarptautinės teisės aktuose ir kituose norminiuose teisės aktuose.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
-
-Nr. XI-1761, 2011-12-01, Žin., 2011, Nr. 153-7198 (2011-12-15), i. k. 1111010ISTA0XI-1761
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 28 straipsnis. Lietuvos Respublikos vyriausiojo epidemiologo ir apskričių vyriausiųjų epidemiologų kompetencija užkrečiamųjų ligų profilaktikos ir kontrolės srityje
 
@@ -767,7 +805,11 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 3) gauti iš įmonių, įstaigų ir organizacijų, kitų juridinių bei fizinių asmenų dokumentų kopijas ir informaciją apie jų veiklos srityje galimus užkrečiamųjų ligų sukėlėjų plitimo veiksnius, užkrečiamųjų ligų atsiradimo ir jų paplitimo priežastis, teritorijų karantino ir riboto karantino objektus;
 
-4) Lietuvos Respublikos vyriausiojo epidemiologo ar apskrities (regiono) vyriausiojo epidemiologo sprendimu, padedamas policijos, patekti į pavojinga ar ypač pavojinga užkrečiamąja liga susirgusio, įtariamo, kad serga, asmens būstą be jo sutikimo, kai reikia gelbėti šio asmens ir aplinkinių gyvybę ar sveikatą;
+4) Lietuvos Respublikos vyriausiojo epidemiologo ar apskrities vyriausiojo epidemiologo sprendimu, padedamas policijos, patekti į pavojinga ar ypač pavojinga užkrečiamąja liga susirgusio, įtariamo, kad serga, asmens būstą be jo sutikimo, kai reikia gelbėti šio asmens ir aplinkinių gyvybę ar sveikatą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 5) organizuoti privalomų valstybinių programų užkrečiamųjų ligų klausimais įgyvendinimą savivaldybėje, nagrinėti šių programų įgyvendinimo eigą;
 
@@ -855,7 +897,7 @@ Duomenys apie asmenų, sergančių, įtariamų, kad serga užkrečiamosiomis lig
 
 1. Juridiniai ir fiziniai asmenys turi teisę:
 
-1) ginčyti teismo tvarka visuomenės sveikatos centrų apskrityse tarnautojų (pareigūnų) sprendimų teisėtumą;
+1) ginčyti teismo tvarka Nacionalinio visuomenės sveikatos centro tarnautojų (pareigūnų) sprendimų teisėtumą;
 
 Straipsnio punkto pakeitimai:
 
@@ -863,7 +905,15 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 Nr. XI-1761, 2011-12-01, Žin., 2011, Nr. 153-7198 (2011-12-15), i. k. 1111010ISTA0XI-1761
 
-2) gauti iš visuomenės sveikatos priežiūros ir kitų įstaigų mokamas konsultacijas ir žaliavos, produktų, geriamojo vandens, darbo bei gamtinės aplinkos mikrobiologinio tyrimo išvadas.
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
+
+2) gauti iš visuomenės sveikatos priežiūros ir kitų įstaigų mokamas konsultacijas ir žaliavos, produktų, geriamojo vandens, darbo bei gamtinės aplinkos mikrobiologinio tyrimo išvadas;
+
+3) sudaryti sąlygas Nacionalinio visuomenės sveikatos centro ir kitų įstaigų tarnautojams (pareigūnams) įgyvendinti šio Įstatymo jiems nustatytas teises.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 2. Juridiniai ir fiziniai asmenys privalo:
 
@@ -1002,4 +1052,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
 
 Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 8, 9, 11 ir 12 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
+
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 2, 4, 5, 6, 9, 13, 14, 15, 16, 20, 21, 26, 27, 29 ir 37 straipsnių pakeitimo įstatymas
 
