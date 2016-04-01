@@ -4,7 +4,7 @@ identifier: "TAR.F31E79DEC55D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-19"
-last_updated: "2015-11-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2015-11-01 iki 2016-03-31
+Suvestinė redakcija nuo 2016-04-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
 
@@ -28,9 +28,9 @@ TAR pastaba. Iki įstatymo Nr. XII-1834 įsigaliojimo (2015-11-01) baigti statyt
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XII-1834, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10583
+Nr. XII-1713, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08054
 
-Lietuvos Respublikos statybos įstatymo Nr. I-1240 24, 34, 40, 45, 55 straipsnių pakeitimo ir Įstatymo papildymo 54-2 straipsniu įstatymas
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 23 straipsnio pakeitimo įstatymas
 
 Nauja įstatymo redakcija nuo 2002 m. liepos 1 d.:
 
@@ -1212,7 +1212,11 @@ Nr. XI-992, 2010-07-02, Žin., 2010, Nr. 84-4401 (2010-07-15)
 
 5) Kultūros paveldo departamentas prie Kultūros ministerijos;
 
-6) visuomenės sveikatos centrai apskrityse;
+6) Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1713, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08054
 
 7) Lietuvos Respublikos valstybinė darbo inspekcija;
 
