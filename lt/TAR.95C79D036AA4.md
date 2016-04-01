@@ -4,7 +4,7 @@ identifier: "TAR.95C79D036AA4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2015-11-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.95C79D036AA4"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2016-03-31
+Suvestinė redakcija nuo 2016-04-01 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 70-3170, i. k. 1031010ISTA0IX-1672
 
@@ -691,7 +691,11 @@ Nr. XII-1806, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10367
 
 9. Įvykį darbe, dėl kurio darbuotojas patiria žalą sveikatai ir dėl kurio mirė 3 ir daugiau darbuotojų, tiria komisija. Šios komisijos pirmininkas yra vyriausiasis valstybinis darbo inspektorius, nariai – vyriausiojo valstybinio darbo inspektoriaus pavaduotojas, Valstybinės darbo inspekcijos teritorinio skyriaus vedėjas ir šio skyriaus 2 darbo inspektoriai. Atliekant tyrimą, dalyvauja darbdavio atstovas ir darbuotojų atstovo (atstovų) skirti asmenys.
 
-10. Ūmias profesines ligas, dėl kurių mirė 3 ir daugiau darbuotojų, tiria komisija. Šios komisijos pirmininkas yra vyriausiasis valstybinis darbo inspektorius, nariai – visuomenės sveikatos centrų apskrityse direktoriai (jų pavaduotojai) ar kiti direktorių paskirti atstovai, Valstybinės darbo inspekcijos teritorinio skyriaus vedėjas, Valstybinės darbo inspekcijos teritorinio skyriaus inspektorius. Atliekant tyrimą dalyvauja darbdavio atstovas ir darbuotojų atstovas (atstovai) saugai ir sveikatai.
+10. Ūmias profesines ligas, dėl kurių mirė 3 ir daugiau darbuotojų, tiria komisija. Šios komisijos pirmininkas yra vyriausiasis valstybinis darbo inspektorius, nariai – Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos vadovas (jo pavaduotojas) ar vadovo paskirti atstovai, Valstybinės darbo inspekcijos teritorinio skyriaus vedėjas, Valstybinės darbo inspekcijos teritorinio skyriaus inspektorius. Atliekant tyrimą dalyvauja darbdavio atstovas ir darbuotojų atstovas (atstovai) saugai ir sveikatai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1709, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08041
 
 Straipsnio pakeitimai:
 
@@ -705,9 +709,17 @@ Nr. XII-739, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 214-00017
 
 1. Nelaimingų atsitikimų darbe aktai įteikiami nukentėjusiam darbuotojui arba jo atstovui, darbdaviui atstovaujančiam asmeniui, Valstybinei darbo inspekcijai ir draudimo įstaigai, kurioje nukentėjusysis apdraustas nuo nelaimingų atsitikimų darbe ir profesinių ligų. Sunkių ir mirtinų nelaimingų atsitikimų darbe atvejais Valstybinė darbo inspekcija nelaimingo atsitikimo darbe tyrimo medžiagą perduoda prokuratūrai.
 
-2. Profesinių ligų patvirtinimo aktai įteikiami nukentėjusiam darbuotojui arba jo atstovui, darbdaviui atstovaujančiam asmeniui, Valstybinei darbo inspekcijai, visuomenės sveikatos centrui apskrityje ir draudimo įstaigai, kurioje nukentėjusysis apdraustas nuo nelaimingų atsitikimų darbe ir profesinių ligų.
+2. Profesinių ligų patvirtinimo aktai įteikiami nukentėjusiam darbuotojui arba jo atstovui, darbdaviui atstovaujančiam asmeniui, Valstybinei darbo inspekcijai, Nacionaliniam visuomenės sveikatos centrui prie Sveikatos apsaugos ministerijos ir draudimo įstaigai, kurioje nukentėjusysis apdraustas nuo nelaimingų atsitikimų darbe ir profesinių ligų.
 
-3. Visų ištirtų nelaimingų atsitikimų darbe aktai, taip pat profesinių ligų patvirtinimo aktai registruojami ir įtraukiami į apskaitą Valstybinėje darbo inspekcijoje vadovaujantis atitinkamai Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatais, Profesinių ligų tyrimo ir apskaitos nuostatais. Profesinių ligų tyrimo ir apskaitos nuostatuose ir Profesinių ligų valstybės registro nuostatuose nustatyta tvarka profesinės ligos taip pat registruojamos visuomenės sveikatos centre apskrityje ir Profesinių ligų valstybės registre. Profesinių ligų valstybės registro nuostatus tvirtina Vyriausybė.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1709, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08041
+
+3. Visų ištirtų nelaimingų atsitikimų darbe aktai, taip pat profesinių ligų patvirtinimo aktai registruojami ir įtraukiami į apskaitą Valstybinėje darbo inspekcijoje vadovaujantis atitinkamai Nelaimingų atsitikimų darbe tyrimo ir apskaitos nuostatais, Profesinių ligų tyrimo ir apskaitos nuostatais. Profesinių ligų tyrimo ir apskaitos nuostatuose ir Profesinių ligų valstybės registro nuostatuose nustatyta tvarka profesinės ligos taip pat registruojamos Nacionaliniame visuomenės sveikatos centre prie Sveikatos apsaugos ministerijos ir Profesinių ligų valstybės registre. Profesinių ligų valstybės registro nuostatus tvirtina Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1709, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08041
 
 4. Nelaimingų atsitikimų darbe aktai ir tyrimo medžiaga, profesinių ligų patvirtinimo aktai ir tyrimo medžiaga saugomi įmonėje, kurioje įvyko nelaimingas atsitikimas ar buvo užregistruota profesinė liga, ir Valstybinėje darbo inspekcijoje vadovaujantis Lietuvos vyriausiojo archyvaro tarnybos nustatytais dokumentų saugojimo terminais.
 
@@ -938,6 +950,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1806, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10367
 
 Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 41, 43 ir 44 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1709, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08041
+
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 43, 44 ir 45 straipsnių pakeitimo įstatymas
 
 13 straipsnis. Darbuotojų dalyvavimas įgyvendinant darbuotojų saugos ir sveikatos priemones. Darbuotojų saugos ir sveikatos komitetai, darbuotojų atstovai
 
@@ -1241,9 +1261,17 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1806, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10367
 
-2. Darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo nedelsdami privalo pranešti atitinkamai teritorinei prokuratūrai ir Valstybinei darbo inspekcijai apie visus įvykius darbe, dėl kurių darbuotojas mirė arba per kuriuos buvo sunkiai pakenkta darbuotojo sveikatai. Ūmių profesinių ligų, dėl kurių darbuotojas mirė, atvejais darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo nedelsdami privalo pranešti ir visuomenės sveikatos centrui apskrityje.
+2. Darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo nedelsdami privalo pranešti atitinkamai teritorinei prokuratūrai ir Valstybinei darbo inspekcijai apie visus įvykius darbe, dėl kurių darbuotojas mirė arba per kuriuos buvo sunkiai pakenkta darbuotojo sveikatai. Ūmių profesinių ligų, dėl kurių darbuotojas mirė, atvejais darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo nedelsdami privalo pranešti ir Nacionaliniam visuomenės sveikatos centrui prie Sveikatos apsaugos ministerijos.
 
-3. Lėtinę profesinę ligą įtaręs gydytojas ne vėliau kaip per 3 dienas apie tai raštu praneša darbdaviui, Valstybinei darbo inspekcijai ir visuomenės sveikatos centrui apskrityje.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1709, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08041
+
+3. Lėtinę profesinę ligą įtaręs gydytojas ne vėliau kaip per 3 dienas apie tai raštu praneša darbdaviui, Valstybinei darbo inspekcijai ir Nacionaliniam visuomenės sveikatos centrui prie Sveikatos apsaugos ministerijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1709, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08041
 
 4. Darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo nedelsdamas privalo pranešti Valstybinei darbo inspekcijai apie įvykį darbe, dėl kurio darbuotojas patyrė žalą sveikatai, bet jo sveikatai nėra sunkiai pakenkta, nelaimingą atsitikimą pakeliui į darbą ar iš darbo, kai įmonėje nepakanka darbuotojų dvišalei komisijai, nurodytai šio Įstatymo 44 straipsnio 2 dalyje, sudaryti.
 
