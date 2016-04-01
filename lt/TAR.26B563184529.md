@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2015-11-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2015-11-01 iki 2016-03-31
+Suvestinė redakcija nuo 2016-04-01 iki 2016-05-24
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
 
@@ -760,7 +760,11 @@ TERITORIJŲ PLANAVIMO PROCESAS
 
 3) Aplinkos ministerijos įgaliotos institucijos, atsakingos už aplinkos apsaugą, atstovas;
 
-4) visuomenės sveikatos centro apskrityje atstovas;
+4) Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos atstovas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1719, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08064
 
 5) saugomos teritorijos direkcijos įgaliotas atstovas – kai planuojama teritorija patenka į valstybinius parkus, valstybinius draustinius, valstybinius rezervatus, biosferos rezervatus, biosferos poligonus, atkuriamuosius ir genetinius sklypus;
 
@@ -1103,6 +1107,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1945, 2015-09-24, paskelbta TAR 2015-09-28, i. k. 2015-14292
 
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 30 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1719, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08064
+
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 26 straipsnio pakeitimo įstatymas
 
 40 straipsnis. Teritorijų planavimo dokumentų rengėjai, jų atestavimo tvarka ir kvalifikaciniai reikalavimai
 
