@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2016-01-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-03-31
+Suvestinė redakcija nuo 2016-04-01 iki 2016-04-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
 
@@ -1474,11 +1474,11 @@ Nr. IX-1841, 2003-11-20, Žin., 2003, Nr. 115-5195 (2003-12-10)
 
 Nr. XI-1129, 2010-11-16, Žin., 2010, Nr. 139-7112 (2010-11-27)
 
-71 straipsnis. Visuomenės sveikatos centrai apskrityse
+71 straipsnis. Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos
 
-1. Valstybės politiką visuomenės sveikatos priežiūros srityje įgyvendina visuomenės sveikatos centrai apskrityse (toliau – centrai). Centrai yra viešieji juridiniai asmenys, išlaikomi iš valstybės biudžeto asignavimų ir kitų valstybės pinigų fondų lėšų. Centrai veikia pagal Vyriausybės patvirtintus nuostatus. Vyriausybė centrų nuostatus gali pavesti tvirtinti sveikatos apsaugos ministrui.
+1. Valstybės politiką visuomenės sveikatos priežiūros srityje nacionaliniu ir apskrities lygiu įgyvendina Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos (toliau – Nacionalinis visuomenės sveikatos centras). Nacionalinis visuomenės sveikatos centras yra Vyriausybės įsteigta biudžetinė įstaiga, išlaikoma iš valstybės biudžeto ir kitų valstybės pinigų fondų. Nacionalinis visuomenės sveikatos centras turi teritorinius padalinius, kurie nėra juridiniai asmenys.
 
-2. Centrų kompetenciją nustato Visuomenės sveikatos priežiūros įstatymas ir kiti įstatymai bei teisės aktai.
+2. Nacionalinio visuomenės sveikatos centro kompetenciją nustato Visuomenės sveikatos priežiūros įstatymas ir kiti įstatymai bei teisės aktai.
 
 Straipsnio pakeitimai:
 
@@ -1487,6 +1487,10 @@ Nr. VIII-1799, 00.07.04, Žin., 2000, Nr.61-1810 (00.07.26)
 Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 Nr. XI-1759, 2011-12-01, Žin., 2011, Nr. 153-7196 (2011-12-15)
+
+Straipsnio pakeitimai:
+
+Nr. XII-1704, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08038
 
 72 straipsnis. Valstybinė vaistų kontrolės tarnyba prie Lietuvos Respublikos sveikatos apsaugos ministerijos
 
