@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2016-03-30"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2016-03-30 iki 2016-03-31
+Suvestinė redakcija nuo 2016-04-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
 
@@ -355,13 +355,23 @@ Nr. XII-1003, 2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10430
 
 3) dirbant darbą, už kurį mokamas darbo užmokestis, nuo kurio mokamos arba turi būti mokamos nelaimingų atsitikimų darbe socialinio draudimo įmokos.
 
-2. Draudiminiais įvykiais pripažįstami apdraustiesiems, nurodytiems 4 straipsnio 1 dalies 3–5 punktuose, įvykę nelaimingi atsitikimai darbe arba nustatytos profesinės ligos, kuriuos ištyrus nustatoma, kad jie įvyko esant visoms žemiau išvardytoms sąlygoms:
+2. Draudiminiais įvykiais pripažįstami apdraustiesiems, nurodytiems šio Įstatymo 4 straipsnio 1 dalies 3, 4 ir 5 punktuose (išskyrus pataisos pareigūnų švietimo įstaigose pagal profesinio mokymo programas besimokantiems asmenims (kursantams), įvykę nelaimingi atsitikimai darbe arba nustatytos profesinės ligos, kuriuos ištyrus nustatoma, kad jie įvyko esant visoms šioms sąlygoms:
 
 1) dirbant draudėjo nustatytu darbo laiku, o jeigu apdraustajam darbo laikas draudėjo nėra nustatytas, tai draudėjo nustatytu darbo laiku, taip pat atskiru draudėjo nurodymu paskirtu dirbti laiku;
 
 2) dirbant draudėjo pavestus darbus (įskaitant ir darbo vietos parengimą bei sutvarkymą);
 
 3) dirbant darbą, už kurį mokamas darbo užmokestis, nuo kurio mokamos arba turi būti mokamos nelaimingų atsitikimų darbe socialinio draudimo įmokos, arba kai nelaimingų atsitikimų darbe socialinio draudimo įmokas moka Biudžeto sandaros įstatyme nurodyti valstybės biudžeto asignavimų valdytojai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1991, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18258
+
+21. Draudiminiais įvykiais pripažįstami ir su pareigūno tarnybinių pareigų atlikimu susiję įvykiai, kurių metu pareigūnas patiria rizikos veiksnio (cheminio, fizikinio, biologinio, fizinio arba ergonominio) ar kelių veiksnių poveikį, kurio padarinys yra pareigūno mirtis ar sveikatos sutrikdymas. Draudiminiais įvykiais taip pat pripažįstami apdraustiesiems asmenims, kurie mokosi pataisos pareigūnų švietimo įstaigoje pagal profesinio mokymo programas (kursantams), įvykę nelaimingi atsitikimai darbe arba nustatytos profesinės ligos jų mokymo ir pratybų laiku.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1991, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18258
 
 3. Draudiminiais įvykiais pripažįstamos nustatytos lėtinės profesinės ligos, kai nustatoma, kad nukentėjusieji, įsigaliojus Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymui (Žin., 1999, Nr. 110-3207), buvo draudžiami nelaimingų atsitikimų darbe socialiniu draudimu kaip šio Įstatymo 4 straipsnyje nurodyti asmenys.
 
