@@ -4,7 +4,7 @@ identifier: "0a8ebbe09f4e11e58fd1fc0b9bba68a7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2015-12-08"
-last_updated: "2016-03-30"
+last_updated: "2016-04-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/0a8ebbe09f4e11e58fd1fc0b9bba68a7"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ entry_into_force_conditions: "Įstatymo 4 straipsnio 1 dalis įsigalioja 2016-01
 ---
 # Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 14, 18, 19, 21, 28, 32, 35, 38 ir 39 straipsnių pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2016-03-30 iki 2016-04-26
+Suvestinė redakcija nuo 2016-04-27
 
 Įstatymas paskelbtas: TAR 2015-12-10, i. k. 2015-19627
 
@@ -85,7 +85,11 @@ Pakeisti 18 straipsnio 2 dalies 9 punktą ir jį išdėstyti taip:
 
 2. Pakeisti 21 straipsnio 3 dalį ir ją išdėstyti taip:
 
-„3. Savivaldybių biudžeto balanso rodiklis valdomas taip, kaip nustatyta Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 2 ir 4 dalyse.“
+„3. Savivaldybių biudžeto balanso rodiklis valdomas taip, kaip nustatyta Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 2 ir 4 dalyse. Savivaldybės biudžeto einamųjų metų pajamos koreguojamos pridedant nepanaudotą pajamų dalį – praėjusių metų biudžeto pajamų dalį, kuri viršija praėjusių metų panaudotus asignavimus (toliau – nepanaudota pajamų dalis). Einamųjų metų savivaldybės biudžete turi būti numatyti asignavimai visiems trumpalaikiams įsipareigojimams, išskyrus skolinius įsipareigojimus (toliau – trumpalaikiai įsipareigojimai), buvusiems praėjusių metų gruodžio 31 dieną, padengti, nebent trumpalaikiai įsipareigojimai viršija nepanaudotų pajamų dalį – tada numatomų padengti trumpalaikių įsipareigojimų suma turi būti ne mažesnė negu nepanaudota pajamų dalis.“
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2314, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10425
 
 3. Papildyti 21 straipsnį 4 dalimi:
 
