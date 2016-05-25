@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2016-04-01"
+last_updated: "2016-05-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -18,9 +18,17 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2016-04-01 iki 2016-05-24
+Suvestinė redakcija nuo 2016-05-25 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
+
+TAR pastaba. Įstatymo taikymas nuo 2016-05-25 yra papildytas įstatymu Nr. XII-2359.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2359, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13920
+
+Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymo Nr. XII-407 3 straipsnio pakeitimo įstatymas
 
 Nauja įstatymo redakcija nuo 2014-01-01:
 
@@ -1064,6 +1072,8 @@ Iki šio įstatymo įsigaliojimo parengti ir patvirtinti teritorijų planavimo d
 
 4) žemės valdos projektams – žemės sklypų planai, prilyginami detaliojo teritorijų planavimo dokumentams.
 
+5) valstybei svarbių projektų teritorijų planavimo dokumentams – teritorijų planavimo dokumentai, kuriais įgyvendinami valstybei svarbūs projektai (5 punktu nuo 2016-05-25 papildyta įstatymu Nr. XII-2359).
+
 Iki šio įstatymo įsigaliojimo patvirtinti specialieji planai, kurių sprendiniai turėjo privalomąją teisinę galią, išlieka privalomais tol, kol bus parengti juos keičiantys to paties ar žemesnio lygmens kompleksinio teritorijų planavimo dokumentai. Įsigaliojus kompleksinio teritorijų planavimo dokumentui, apimančiam tik dalį specialiuoju planu suplanuotos teritorijos, specialiojo plano sprendiniai teritorijoje, kuriai neparengtas kompleksinio teritorijų planavimo dokumentas, turi privalomąją teisinę galią.
 
 Iki šio įstatymo įsigaliojimo pradėti rengti detalieji planai planavimo organizatoriaus sprendimu gali būti nerengiami ar nebaigiami rengti.
@@ -1081,6 +1091,10 @@ Valstybei svarbių projektų teritorijų planavimo dokumentai, dėl kurių iki 2
 Šis įstatymas, išskyrus 2 straipsnį, įsigalioja 2014 m. sausio 1 d.
 
 Nauja įstatymo redakcija
+
+Šio įstatymo taikymas yra papildytas įstatymu Nr. XII-2359 (įsigalioja 2016-05-25)
+
+Projektui, kuris pripažįstamas valstybei svarbiu projektu po 2014 m. sausio 1 d., įgyvendinti rengiami teritorijų planavimo dokumentai, dėl kurių rengimo kreiptasi planavimo sąlygų iki 2014 m. sausio 1 d., nuo valstybei svarbaus projekto statuso šiam projektui suteikimo momento taip pat yra laikomi valstybei svarbaus projekto teritorijų planavimo dokumentais. Šioje dalyje nurodyti teritorijų planavimo dokumentai planavimo organizatoriaus pasirinkimu yra baigiami rengti, derinami, viešai skelbiami ir tikrinami pagal iki 2014 m. sausio 1 d. galiojusius teisės aktus ir tvirtinami Lietuvos Respublikos Vyriausybės šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos teritorijų planavimo įstatymo ketvirtajame skirsnyje nustatyta tvarka arba pradedami rengti iš naujo pagal šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos teritorijų planavimo įstatymo ketvirtajame skirsnyje nustatytą valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarką.
 
 26.
 
@@ -1115,6 +1129,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1719, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08064
 
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 26 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2359, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13920
+
+Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymo Nr. XII-407 3 straipsnio pakeitimo įstatymas
 
 40 straipsnis. Teritorijų planavimo dokumentų rengėjai, jų atestavimo tvarka ir kvalifikaciniai reikalavimai
 
