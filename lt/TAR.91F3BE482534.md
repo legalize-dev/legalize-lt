@@ -4,7 +4,7 @@ identifier: "TAR.91F3BE482534"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-06-27"
-last_updated: "2014-01-01"
+last_updated: "2016-05-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.91F3BE482534"
 department: "Lietuvos Respublikos Seimas"
@@ -18,6 +18,10 @@ eu_legal_act: "true"
 # Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Suvestinė redakcija nuo 2016-05-25
+
+Įstatymas paskelbtas: Žin. 2013, Nr. 76-3824, i. k. 1131010ISTA0XII-407
 
 LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO PAKEITIMO  ĮSTATYMAS
 
