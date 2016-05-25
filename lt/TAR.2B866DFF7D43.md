@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2016-04-01"
+last_updated: "2016-05-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2016-04-01 iki 2016-05-24
+Suvestinė redakcija nuo 2016-05-25 iki 2016-06-27
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -5695,6 +5695,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2277, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06428
 
 Lietuvos Respublikos baudžiamojo kodekso 47, 176, 220, 221, 272, 273, 281, 284 straipsnių pakeitimo įstatymo Nr. XII-1871 9 straipsnio pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2340, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13906
+
+Lietuvos Respublikos baudžiamojo kodekso 147 ir 157 straipsnių pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
