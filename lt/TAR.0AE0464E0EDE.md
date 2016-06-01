@@ -4,7 +4,7 @@ identifier: "TAR.0AE0464E0EDE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-07-13"
-last_updated: "2016-01-01"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0AE0464E0EDE"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Geriamojo vandens tiekimo ir nuotekų tvarkymo įs
 ---
 # Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-05-31
+Suvestinė redakcija nuo 2016-06-01 iki 2018-02-28
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3260, i. k. 1061010ISTA000X-764
 
@@ -331,13 +331,17 @@ GERIAMOJO VANDENS TIEKIMO IR NUOTEKŲ TVARKYMO PLANAVIMAS IR ORGANIZAVIMAS
 
 3. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planai rengiami ir derinami vadovaujantis Teritorijų planavimo įstatymu, Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planų rengimo taisyklėmis.
 
-4. Į savivaldybės viešojo geriamojo vandens tiekimo teritoriją įtraukiama savivaldybės teritorija (gyvenamosios vietovės, pavieniai gyvenamieji namai, kiti pastatai), kurioje:
+4. Į savivaldybės viešojo geriamojo vandens tiekimo teritoriją įtraukiama savivaldybės teritorija (gyvenamosios vietovės, pavieniai gyvenamieji namai, kiti pastatai), atitinkanti nors vieną iš šių kriterijų:
 
 1) geriamuoju vandeniu aprūpinama ne mažiau kaip 50 asmenų, deklaravusių gyvenamąją vietą šioje vietovėje;
 
 2) yra savivaldybei arba savivaldybės (savivaldybių) kontroliuojamai įmonei priklausanti naudoti tinkama geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūra;
 
 3) gyventojai dėl geriamojo vandens išteklių trūkumo, aplinkosaugos reikalavimų, ekonominių ar kitų priežasčių negali individualiai išgauti saugos ir kokybės reikalavimus atitinkančio geriamojo vandens ir individualiai tvarkyti nuotekų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2292, 2016-04-07, paskelbta TAR 2016-04-12, i. k. 2016-08688
 
 13 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo organizavimas
 
@@ -1052,4 +1056,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2093, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19416
 
 Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 37 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2292, 2016-04-07, paskelbta TAR 2016-04-12, i. k. 2016-08688
+
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 12 straipsnio pakeitimo įstatymas
 
