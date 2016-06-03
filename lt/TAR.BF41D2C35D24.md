@@ -4,7 +4,7 @@ identifier: "TAR.BF41D2C35D24"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-11"
-last_updated: "2015-08-01"
+last_updated: "2016-06-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2015-08-01 iki 2016-06-02
+Suvestinė redakcija nuo 2016-06-03 iki 2017-06-27
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
 
@@ -52,39 +52,113 @@ Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
 
 3. Gatvė – kelias ar atskiras jo ruožas, esantis miesto ar kaimo gyvenamojoje vietovėje, paprastai turintis pavadinimą.
 
-4. Kelias – inžinerinis statinys, skirtas transporto priemonių ir pėsčiųjų eismui. Kelio elementai yra šie: žemės sankasa, važiuojamoji dalis, kelkraščiai, skiriamoji juosta, kelio grioviai ir kitos vandens nuleidimo sistemos, sankryžos, autobusų sustojimo aikštelės, poilsio aikštelės, pėsčiųjų ir dviračių takai, kelio statiniai, techninės eismo reguliavimo priemonės, želdiniai, esantys kelio juostoje, kelio oro sąlygų stebėjimo ir transporto eismo apskaitos, apšvietimo ir kiti įrenginiai su šių elementų užimama žeme.
+4. Jungiamasis kelias – kelio ruožas, kuris sujungia valstybinės reikšmės kelią su vietinės reikšmės miesto ar kaimo gyvenamojoje vietovėje esančiais viešaisiais keliais.
 
-5. Kelio apsaugos zona – šio Įstatymo 12 straipsnio 1 dalyje nustatyto pločio žemės juosta abipus kelio briaunų, kurioje ribojama ūkinė veikla.
+Papildyta straipsnio dalimi:
 
-6. Kelio briauna – kelkraščio ir žemės sankasos šlaito plokštumų susikirtimo linija.
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
 
-7. Kelio juosta – žemės juosta, kurioje nutiestas arba tiesiamas kelias.
+5. Kelias – inžinerinis statinys, skirtas transporto priemonių ir pėsčiųjų eismui. Kelio elementai yra šie: žemės sankasa, važiuojamoji dalis, kelkraščiai, skiriamoji juosta, kelio grioviai ir kitos vandens nuleidimo sistemos, sankryžos, autobusų sustojimo aikštelės, poilsio aikštelės, pėsčiųjų ir dviračių takai, kelio statiniai, techninės eismo reguliavimo priemonės, želdiniai, esantys kelio juostoje, kelio oro sąlygų stebėjimo ir transporto eismo apskaitos, apšvietimo ir kiti įrenginiai su šių elementų užimama žeme.
 
-8. Kelio kategorija – rodiklis, kuriuo išreiškiami kelio techniniai parametrai (kelio ir jo statinių matmenys, eismo juostų skaičius, sankryžų tipas, eismo pralaidumas ir kt.).
+Straipsnio dalies numeracijos pakeitimas:
 
-9. Kelio priežiūra – nuolatiniai kelio darbai siekiant užtikrinti saugų eismą ir numatytą kelio ir jo statinių naudojimo laiką.
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
 
-10. Kelio rekonstrukcija – statybos rūšis, kurios tikslas – iš esmės pertvarkyti esamą kelią ar jo statinius, pakeisti kelio ir (ar) jo statinių laikančiąsias konstrukcijas, padidinti ar sumažinti kelio ir (ar) jo statinių išorės matmenis.
+6. Kelio apsaugos zona – šio Įstatymo 12 straipsnio 1 dalyje nustatyto pločio žemės juosta abipus kelio briaunų, kurioje ribojama ūkinė veikla.
 
-11. Kelio savininkas – valstybė, savivaldybės, fizinis ar juridinis asmuo, kita organizacija, jų padaliniai, kuriems kelias priklauso nuosavybės teise.
+Straipsnio dalies numeracijos pakeitimas:
 
-12. Kelio statinys – kelio elementas, turintis laikančiąsias konstrukcijas (tiltas, viadukas, estakada, tunelis, pralaida, triukšmo užtvara, atraminė sienelė, rėminė ar gembinė konstrukcija, pylimas ir kt.).
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
 
-13. Kelio taisymas – statybos rūšis – darbai, kurių tikslas – iš dalies arba visiškai atkurti statybos techninių reglamentų nustatytas kelio ar jo statinių savybes, pablogėjusias dėl šio kelio ar šių statinių naudojimo, arba jas pagerinti.
+7. Kelio briauna – kelkraščio ir žemės sankasos šlaito plokštumų susikirtimo linija.
 
-14. Kelio tiesimas – naujo kelio, jo ruožo su naujais kelio statiniais ar be jų tiesimas.
+Straipsnio dalies numeracijos pakeitimas:
 
-15. Kelio valdytojas – fizinis ar juridinis asmuo, kita organizacija, jų padaliniai, kurie valdo kelią ir disponuoja juo teisėtu pagrindu.
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
 
-16. Kelių duomenys – duomenys apie kelius ir kelio elementus, įskaitant duomenis apie technines eismo reguliavimo priemones, apšvietimą, kelio dangą, nuovažas, tiltus, viadukus, estakadas ir kt.
+8. Kelio juosta – žemės juosta, kurioje nutiestas arba tiesiamas kelias.
 
-17. Kelių eismo duomenys – praeities ir tikralaikiai kelių eismo charakteristikų (eismo intensyvumo, eismo ribojimo, eismo sutrikimų ir kitų charakteristikų, kurios turi įtakos eismui arba kuriomis aprašomas eismas) duomenys.
+Straipsnio dalies numeracijos pakeitimas:
 
-18. Sunkiasvorė transporto priemonė – transporto priemonė, įskaitant jų junginį, kurios ašies (ašių) apkrova ir (ar) masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovą ir (ar) masę.
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
 
-19. Techninės eismo reguliavimo priemonės – kelio ženklai, šviesoforai, atitvarai, kelių ženklinimas ir kitos techninės priemonės eismui reguliuoti.
+9. Kelio kategorija – rodiklis, kuriuo išreiškiami kelio techniniai parametrai (kelio ir jo statinių matmenys, eismo juostų skaičius, sankryžų tipas, eismo pralaidumas ir kt.).
 
-20. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme ir Lietuvos Respublikos žemės įstatyme.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+
+10. Kelio priežiūra – nuolatiniai kelio darbai siekiant užtikrinti saugų eismą ir numatytą kelio ir jo statinių naudojimo laiką.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+
+11. Kelio rekonstrukcija – statybos rūšis, kurios tikslas – iš esmės pertvarkyti esamą kelią ar jo statinius, pakeisti kelio ir (ar) jo statinių laikančiąsias konstrukcijas, padidinti ar sumažinti kelio ir (ar) jo statinių išorės matmenis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+
+12. Kelio savininkas – valstybė, savivaldybės, fizinis ar juridinis asmuo, kita organizacija, jų padaliniai, kuriems kelias priklauso nuosavybės teise.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+
+13. Kelio statinys – kelio elementas, turintis laikančiąsias konstrukcijas (tiltas, viadukas, estakada, tunelis, pralaida, triukšmo užtvara, atraminė sienelė, rėminė ar gembinė konstrukcija, pylimas ir kt.).
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+
+14. Kelio taisymas – statybos rūšis – darbai, kurių tikslas – iš dalies arba visiškai atkurti statybos techninių reglamentų nustatytas kelio ar jo statinių savybes, pablogėjusias dėl šio kelio ar šių statinių naudojimo, arba jas pagerinti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+
+15. Kelio tiesimas – naujo kelio, jo ruožo su naujais kelio statiniais ar be jų tiesimas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+
+16. Kelio valdytojas – fizinis ar juridinis asmuo, kita organizacija, jų padaliniai, kurie valdo kelią ir disponuoja juo teisėtu pagrindu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+
+17. Kelių duomenys – duomenys apie kelius ir kelio elementus, įskaitant duomenis apie technines eismo reguliavimo priemones, apšvietimą, kelio dangą, nuovažas, tiltus, viadukus, estakadas ir kt.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+
+18. Kelių eismo duomenys – praeities ir tikralaikiai kelių eismo charakteristikų (eismo intensyvumo, eismo ribojimo, eismo sutrikimų ir kitų charakteristikų, kurios turi įtakos eismui arba kuriomis aprašomas eismas) duomenys.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+
+19. Sunkiasvorė transporto priemonė – transporto priemonė, įskaitant jų junginį, kurios ašies (ašių) apkrova ir (ar) masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovą ir (ar) masę.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+
+20. Techninės eismo reguliavimo priemonės – kelio ženklai, šviesoforai, atitvarai, kelių ženklinimas ir kitos techninės priemonės eismui reguliuoti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+
+21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme ir Lietuvos Respublikos žemės įstatyme.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
 
 Straipsnio pakeitimai:
 
@@ -108,7 +182,11 @@ Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
 
 3. Vietinės reikšmės keliai skirstomi į:
 
-1) viešuosius kelius. Tai keliai, jungiantys rajoninius kelius, gyvenamąsias vietoves, sąvartynus, rekreacijos objektus, lankomus gamtos, kultūros paminklus, taip pat gatvės gyvenamosiose vietovėse ir kiti keliai, nepriskirti valstybinės reikšmės keliams;
+1) viešuosius kelius. Tai keliai, jungiantys rajoninius kelius, gyvenamąsias vietoves, sąvartynus, rekreacijos objektus, lankomus gamtos, kultūros paminklus, taip pat gatvės gyvenamosiose vietovėse, jungiamieji ir kiti keliai, nepriskirti valstybinės reikšmės keliams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
 
 2) vidaus kelius. Tai fizinių ar juridinių asmenų, kitų organizacijų, jų padalinių (toliau – fiziniai ar juridiniai asmenys) reikmėms naudojami keliai (miškų, nacionalinių parkų, valstybės saugomų teritorijų, pasienio, karjerų, privažiavimo prie hidrotechninių įrenginių, ribotų teritorijų – kiemų keliai ir visi kiti keliai, nepriskirti viešiesiems keliams).
 
@@ -649,6 +727,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1843, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10589
 
 Lietuvos Respublikos kelių įstatymo Nr. I-891 20 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+
+Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 3 straipsnių pakeitimo įstatymas
 
 25 straipsnis.
 
