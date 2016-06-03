@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2016-05-01"
+last_updated: "2016-06-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2016-05-01 iki 2016-06-02
+Suvestinė redakcija nuo 2016-06-03 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
 
@@ -703,7 +703,11 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 7. Žemės savininkams ir valstybinės žemės patikėtiniams nuostoliai dėl nustatytų servitutų (išskyrus nuostolius žemės savininkams dėl servitutų, nustatytų sandoriais, kai nuostoliai atlyginami šalių susitarimu) turi būti atlyginami viešpataujančiuoju tampančio daikto savininko lėšomis.
 
-8. Žemės savininkas ar valstybinės žemės patikėtinis dėl nuostolių, patiriamų dėl Nekilnojamojo turto registre įregistruoto servituto, atlyginimo turi teisę kreiptis į viešpataujančiojo daikto savininką, o kai nustatytas servitutas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, – į valstybės ar savivaldybės instituciją, atsakingą už šių kompleksų ir objektų apsaugą. Nuostolių dydis ir atlyginimo terminai nustatomi viešpataujančiojo ir tarnaujančiojo daiktų savininkų ar valstybinės žemės patikėtinių susitarimu, o tais atvejais, kai servitutas nustatytas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, – valstybės ar savivaldybės institucijos, atsakingos už tokių kompleksų ir objektų apsaugą, ir tarnaujančiojo daikto savininko ar valstybinės žemės patikėtinio susitarimu. Šalims nesusitarus, ginčus dėl nuostolių dydžio ir atlyginimo Civilinio proceso kodekso nustatyta tvarka sprendžia teismas. Kai servitutas nustatomas administraciniu aktu, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui atlyginama sunaikintų sodinių, pasėlių, iškirsto miško rinkos vertė bei nuostoliai, atsiradę dėl galimybės naudoti žemės sklypą ar jo dalį pagal pagrindinę žemės naudojimo paskirtį, naudojimo būdą praradimo. Vienkartinės ar periodinės kompensacijos, mokamos už naudojimąsi administraciniu aktu nustatytu servitutu, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui apskaičiavimo metodiką tvirtina Vyriausybė.
+8. Žemės savininkas ar valstybinės žemės patikėtinis dėl nuostolių, patiriamų dėl Nekilnojamojo turto registre įregistruoto servituto, atlyginimo turi teisę kreiptis į viešpataujančiojo daikto savininką, o kai nustatytas servitutas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, – į valstybės ar savivaldybės instituciją, atsakingą už šių kompleksų ir objektų apsaugą. Nuostolių dydis ir atlyginimo terminai nustatomi viešpataujančiojo ir tarnaujančiojo daiktų savininkų ar valstybinės žemės patikėtinių susitarimu, o tais atvejais, kai servitutas nustatytas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą, – valstybės ar savivaldybės institucijos, atsakingos už tokių kompleksų ir objektų apsaugą, ir tarnaujančiojo daikto savininko ar valstybinės žemės patikėtinio susitarimu. Šalims nesusitarus, ginčus dėl nuostolių dydžio ir atlyginimo Civilinio proceso kodekso nustatyta tvarka sprendžia teismas. Kai servitutas nustatomas administraciniu aktu, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui atlyginama sunaikintų sodinių, pasėlių, iškirsto miško rinkos vertė bei nuostoliai, atsiradę dėl galimybės naudoti žemės sklypą ar jo dalį pagal pagrindinę žemės naudojimo paskirtį, naudojimo būdą praradimo. Vienkartinės ar periodinės kompensacijos, mokamos už naudojimąsi administraciniu aktu nustatytu servitutu, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui dydis apskaičiuojamas Vyriausybės nustatyta tvarka, jeigu įstatymai nenustato kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2362, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14732
 
 9. Administraciniu aktu nustatytas servitutas Civilinio kodekso nustatytais pagrindais baigiasi, kai institucija, priėmusi sprendimą nustatyti servitutą, priima sprendimą tokį servitutą panaikinti.
 
@@ -2042,6 +2046,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2173, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20862
 
 Lietuvos Respublikos žemės įstatymo Nr. I-446 1, 2 ir 41 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2362, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14732
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 23 straipsnio pakeitimo įstatymas
 
 55 straipsnis. Žemės ginčų
 
