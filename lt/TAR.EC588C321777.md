@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2016-03-01"
+last_updated: "2016-06-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2016-03-01 iki 2016-06-08
+Suvestinė redakcija nuo 2016-06-09 iki 2016-06-26
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -1923,11 +1923,29 @@ Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
 
 1. Nuteistajam, kuriam bausmės vykdymas atidėtas remiantis Lietuvos Respublikos baudžiamojo kodekso 75 ar 92 straipsniu, bausmės vykdymo atidėjimo sąlygas pakeičia arba bausmės vykdymo atidėjimą panaikina ir nuteistąjį pasiunčia atlikti paskirtą bausmę nuteistojo gyvenamosios vietos apylinkės teismas nuteistojo elgesį kontroliuojančios institucijos teikimu.
 
-2. Šio straipsnio 1 dalyje nurodytus klausimus teismas nagrinėja teismo posėdyje. Šiame posėdyje dalyvauja prokuroras ir nuteistojo elgesį kontroliuojančios institucijos atstovas. Į teismo posėdį šaukiamas nuteistasis arba jo atstovas pagal įstatymą ir gynėjas, tačiau šių asmenų neatvykimas nesustabdo klausimo nagrinėjimo.
+2. Teismas, gavęs Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje nurodytą probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos.
 
-3. Bylos nagrinėjimas pradedamas teisėjo pranešimu. Po to teismas išklauso atvykusius į posėdį asmenis.
+Papildyta straipsnio dalimi:
 
-4. Teismas nuteistajam pakeičia bausmės vykdymo atidėjimo sąlygas arba panaikina bausmės vykdymo atidėjimą ir nuteistąjį pasiunčia atlikti paskirtą bausmę motyvuota nutartimi. Nutarties nuorašas išsiunčiamas bylą nagrinėjusiam pirmosios instancijos teismui.
+Nr. XII-2409, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15664
+
+3. Šio straipsnio 1 ir 2 dalyse nurodytus klausimus teismas nagrinėja teismo posėdyje. Šiame posėdyje dalyvauja prokuroras ir nuteistojo elgesį kontroliuojančios institucijos atstovas. Į teismo posėdį šaukiamas nuteistasis arba jo atstovas pagal įstatymą ir gynėjas, tačiau šių asmenų neatvykimas nesustabdo klausimo nagrinėjimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2409, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15664
+
+4. Bylos nagrinėjimas pradedamas teisėjo pranešimu. Po to teismas išklauso atvykusius į posėdį asmenis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2409, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15664
+
+5. Teismas nuteistajam pakeičia bausmės vykdymo atidėjimo sąlygas arba panaikina bausmės vykdymo atidėjimą ir nuteistąjį pasiunčia atlikti paskirtą bausmę motyvuota nutartimi. Nutarties nuorašas išsiunčiamas bylą nagrinėjusiam pirmosios instancijos teismui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2409, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15664
 
 Straipsnio pakeitimai:
 
@@ -1958,6 +1976,12 @@ Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
 7. Šiame straipsnyje nurodytų teismo nutarčių nuorašai ne vėliau kaip kitą darbo dieną nuo nutarčių priėmimo išsiunčiami nuteistajam ir prokurorui. Nutartys skundžiamos ir skundai nagrinėjami šio Kodekso 364 straipsnyje nustatyta tvarka.
 
 8. Nuteistajam, kuris lygtinai paleistas iš pataisos įstaigos remiantis Lietuvos Respublikos bausmių vykdymo kodekso 157 straipsniu, probacijos sąlygas pakeičia arba lygtinį paleidimą iš pataisos įstaigos panaikina ir nuteistąjį pasiunčia atlikti likusią nuosprendžiu paskirtos laisvės atėmimo bausmės dalį nuteistojo gyvenamosios vietos apylinkės teismas probacijos tarnybos teikimu šio Kodekso 362 straipsnyje nustatyta tvarka.
+
+9. Teismas, gavęs Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje nurodytą probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2409, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15664
 
 TAR pastaba. Klausimus dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimų ir skundų (atsiliepimų) dėl šių nutarimų, pateiktų iki 2015 m. rugpjūčio 31 d., teismas nuo 2015 m. rugsėjo 1 d. sprendžia 2015 m. birželio 23 d. įstatymo Nr. XII-1820 išdėstytame Lietuvos Respublikos baudžiamojo proceso kodekso 360 straipsnyje nustatyta tvarka.
 
