@@ -4,7 +4,7 @@ identifier: "TAR.9D2F66B96EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2016-01-01"
+last_updated: "2016-06-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-06-15
+Suvestinė redakcija nuo 2016-06-16 iki 2016-09-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
 
@@ -549,6 +549,12 @@ Nr. IX-2399, 2004-07-15, Žin., 2004, Nr. 120-4438 (2004-08-03), i. k. 1041010IS
 Papildyta straipsnio dalimi:
 
 Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
+
+7. Nuostatos dėl tarptautinių oro uostų žemės taikomos tiek, kiek to nereglamentuoja Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatymas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2417, 2016-06-09, paskelbta TAR 2016-06-15, i. k. 2016-16858
 
 4 straipsnis. Kiti civilinės aviacijos teisės aktai
 
@@ -1474,31 +1480,19 @@ BAIGIAMOSIOS NUOSTATOS
 
 72 straipsnis. Rinkliavos
 
-1. Fiziniai ir juridiniai asmenys, valstybės orlaivių naudotojai už oro navigacijos paslaugas Lietuvos Respublikos oro erdvėje ir už naudojimąsi oro uostais moka paslaugų teikėjams šias rinkliavas:
+1. Fiziniai ir juridiniai asmenys, valstybės orlaivių naudotojai moka paslaugų teikėjams rinkliavas už oro navigacijos paslaugas Lietuvos Respublikos oro erdvėje (maršruto ir terminalo) ir rinkliavas už naudojimąsi oro uostais.
 
-1) už oro navigacijos paslaugas – maršruto ir terminalo;
+2. Rinkliavų už naudojimąsi oro uostais tvirtinimo tvarką, taip pat rinkliavų už naudojimąsi oro uostais ir oro navigacijos paslaugas Lietuvos Respublikos oro erdvėje mokėjimo ir naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
-Straipsnio punkto pakeitimai:
+3. Rinkliavas už naudojimąsi oro uostais ir jų dydžius nustato tarptautinį oro uostą valdančios įmonės vadovas, vadovaudamasis šio straipsnio 2 dalyje nurodyta tvarka.
 
-Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
+4. Rinkliavų už oro navigacijos paslaugas dydžiai, jų mokėjimo ir naudojimo tvarka nustatomi pagal 2013 m. gegužės 3 d. Komisijos įgyvendinimo reglamentą (ES) Nr. 391/2013, kuriuo nustatoma bendroji mokesčių už oro navigacijos paslaugas sistema, ir 1981 m. vasario 12 d. Daugiašalį susitarimą dėl maršruto rinkliavų.
 
-2) už naudojimąsi oro uostais – orlaivio tūpimo, išskrendančio keleivio, orlaivio stovėjimo, orlaivio saugumo ir orlaivio palydos.
+5. Teikiant oro navigacijos paslaugas, išlaidomis pripažįstamos ir išlaidos, patirtos dėl tarptautinių susitarimų civilinės aviacijos srityje.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
-
-2. Rinkliavų už naudojimąsi oro uostais maksimalius dydžius, rinkliavų už naudojimąsi oro uostais ir oro navigacijos paslaugas Lietuvos Respublikos oro erdvėje mokėjimo ir naudojimosi tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Maršruto ir terminalo rinkliavų dydžiai, jų mokėjimo ir naudojimo tvarka nustatoma pagal 2006 m. gruodžio 6 d. Komisijos reglamentą (EB) Nr. 1794/2006, nustatantį bendrąją mokesčių už oro navigacijos paslaugas sistemą, ir Daugiašalį susitarimą dėl maršruto rinkliavų.
-
-Straipsnio dalies pakeitimai:
-
-Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
-
-3. Teikiant oro navigacijos paslaugas, išlaidomis pripažįstamos ir išlaidos, patirtos dėl tarptautinių susitarimų civilinės aviacijos srityje.
-
-Straipsnio dalies pakeitimai:
-
-Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
+Nr. XII-2417, 2016-06-09, paskelbta TAR 2016-06-15, i. k. 2016-16858
 
 73 straipsnis. Draudimas
 
@@ -1588,11 +1582,15 @@ Nr. XII-50, 2012-12-13, Žin., 2012, Nr. 151-7721 (2012-12-21), i. k. 1121010IST
 
 13. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru (OL 2006 L 204, p. 1).
 
-14. 2006 m. gruodžio 6 d. Komisijos reglamentas (EB) Nr. 1794/2006, nustatantis bendrąją mokesčių už oro navigacijos paslaugas sistemą (OL 2006 L 341, p. 3).
+14. 2013 m. gegužės 3 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 391/2013, kuriuo nustatoma bendroji mokesčių už oro navigacijos paslaugas sistema (OL 2013 L 128, p. 31).
 
 Papildyta punktu:
 
 Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
+
+Punkto pakeitimai:
+
+Nr. XII-2417, 2016-06-09, paskelbta TAR 2016-06-15, i. k. 2016-16858
 
 15. 1991 m. gruodžio 16 d. Tarybos reglamento (EEB) Nr. 3922/91 dėl techninių reikalavimų ir administracinės tvarkos suderinimo civilinės aviacijos srityje (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 348) su paskutiniais pakeitimais, padarytais 2008 m. rugpjūčio 20 d. Komisijos reglamentu (EB) Nr. 859/2008 (OL 2008 L 254, p. 1).
 
@@ -1811,6 +1809,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
 
 Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 67 straipsnio ir priedo pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2417, 2016-06-09, paskelbta TAR 2016-06-15, i. k. 2016-16858
+
+Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 3, 72 straipsnių ir priedo pakeitimo įstatymas
 
 141 straipsnis. Oro navigacijos paslaugos
 
