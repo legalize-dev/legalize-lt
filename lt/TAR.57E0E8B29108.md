@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2014-11-01"
+last_updated: "2016-06-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2014-11-01 iki 2016-06-15
+Suvestinė redakcija nuo 2016-06-16 iki 2016-07-15
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -24,11 +24,7 @@ Nauja redakcija nuo 2012-06-30:
 
 Nr. XI-2087, 2012-06-21, Žin. 2012, Nr. 76-3931 (2012-06-30), i. k. 1121010ISTA0XI-2087
 
-lietuvos respublikos
-
-Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių
-
-ĮSTATYMAS
+lietuvos respublikos Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių ĮSTATYMAS
 
 2002 m. spalio 10 d. Nr. IX-1132
 
@@ -130,7 +126,11 @@ Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 4. Šio straipsnio 1 dalyje nurodytos valstybės įmonės gali būti pertvarkytos į akcines bendroves ar uždarąsias akcines bendroves arba reorganizuotos Lietuvos Respublikos civilinio kodekso nustatytais būdais tik Lietuvos Respublikos Seimui priėmus atitinkamą įstatymą.
 
-5. Šio straipsnio 2 dalyje nurodyti įrenginiai nuosavybės teise priklauso valstybei, bet įstatymų numatytais atvejais ir teisės aktų nustatyta tvarka gali būti išnuomoti ir perduoti pagal panaudos sutartį arba gali būti perduoti valdyti, naudoti ir disponuoti jais patikėjimo teise tik šio straipsnio 1 dalyje nurodytoms valstybės įmonėms, šio straipsnio 2 dalies 5 punkte nurodytoms savivaldybėms ir šio įstatymo 4 straipsnio 1 dalyje nurodytoms įmonėms.
+5. Šio straipsnio 2 dalyje nurodyti įrenginiai nuosavybės teise priklauso valstybei, bet įstatymų numatytais atvejais ir teisės aktų nustatyta tvarka gali būti išnuomoti ir perduoti pagal panaudos sutartį arba gali būti perduoti valdyti, naudoti ir disponuoti jais patikėjimo teise tik šio straipsnio 1 dalyje nurodytoms valstybės įmonėms, šio straipsnio 2 dalies 5 punkte nurodytoms savivaldybėms ir šio įstatymo 4 straipsnio 1 dalyje nurodytoms įmonėms. Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatyme nustatyta tvarka tarptautinių Vilniaus, Kauno ir Palangos oro uostų  aerodromai gali būti perduoti valdyti ir naudoti nacionalinio saugumo interesus atitinkančiam potencialiam dalyviui pagal koncesijos sutartį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2396, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16847
 
 Straipsnio pakeitimai:
 
@@ -324,8 +324,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
-______________
-
 Pakeitimai:
 
 1.
@@ -399,6 +397,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 1, 2, 3 ir 7 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2396, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16847
+
+Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 3 straipsnio pakeitimo įstatymas
 
 7 straipsnis. Potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimas
 
