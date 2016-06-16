@@ -4,7 +4,7 @@ identifier: "TAR.6A449FCC534B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-10"
-last_updated: "2015-01-01"
+last_updated: "2016-06-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos koncesijų įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-06-15
+Suvestinė redakcija nuo 2016-06-16 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
 
@@ -36,7 +36,11 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis Įstatymas nustato koncesijos Lietuvos Respublikoje sampratą, koncesijos sutarties dalyką, koncesininkų atrankos ir koncesijų suteikimo tvarką, suteikiančiųjų institucijų bei koncesininkų įgaliojimus, teises ir pareigas, koncesijos sutarčių turinį, taip pat nustato su tuo susijusius santykius.
+1. Šis Įstatymas nustato koncesijos Lietuvos Respublikoje sampratą, koncesijos sutarties dalyką, koncesininkų atrankos ir koncesijų suteikimo tvarką, suteikiančiųjų institucijų bei koncesininkų įgaliojimus, teises ir pareigas, koncesijos sutarčių turinį, taip pat nustato su tuo susijusius santykius tiek, kiek to nereglamentuoja kiti koncesijas reglamentuojantys įstatymai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2397, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16848
 
 2. Šiuo Įstatymu viešosios darbų koncesijos reglamentavimas suderinamas su Europos Sąjungos teisės aktais, nurodytais šio Įstatymo priede.
 
@@ -835,4 +839,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1262, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14857
 
 Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 5 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2397, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16848
+
+Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 1 straipsnio pakeitimo įstatymas
 
