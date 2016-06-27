@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2016-06-09"
+last_updated: "2016-06-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2016-06-09 iki 2016-06-26
+Suvestinė redakcija nuo 2016-06-27 iki 2016-06-27
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -370,6 +370,12 @@ Nr. XII-1080, 2014-07-17, paskelbta TAR 2014-07-22, i. k. 2014-10422
 Apeliacinės instancijos teismas panaikina pirmosios instancijos teismo nuosprendį ir nutraukia bylą, jeigu:
 
 1) yra šio Kodekso 3 straipsnio 1 dalies 2–9 punktuose numatytos aplinkybės, dėl kurių baudžiamasis procesas negalimas;
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo proceso kodekso 327 straipsnio 1 punktas (2007 m. birželio 28 d. redakcija; Žin., 2007, Nr. 81-3312) tiek, kiek pagal jį apeliacinės instancijos teismas panaikina pirmosios instancijos teismo išteisinamąjį nuosprendį ir nutraukia bylą, jeigu yra Baudžiamojo proceso kodekso 3 straipsnio 1 dalies 2 punkte numatyta aplinkybė, teismui neišsprendus, ar išteisintasis pagrįstai išteisintas dėl nusikalstamos veikos, kurios padarymu buvo kaltinamas, prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+
+Straipsnio punkto pakeitimai:
+
+Nr. KT19-N10/2016, 2016-06-27, paskelbta TAR 2016-06-27, i. k. 2016-17705
 
 2) yra Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose,  114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 227 straipsnio 4 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti kaltinamąjį nuo baudžiamosios atsakomybės.
 
@@ -1538,6 +1544,12 @@ Nepilnamečio kaltinamojo atstovo pagal įstatymą neatvykimas nesustabdo bylos 
 3. Jeigu nagrinėjimo teisme metu nustatoma, kad surašytas iš esmės šio Kodekso 219 straipsnio reikalavimų neatitinkantis kaltinamasis aktas ar padaryta kitų esminių baudžiamojo proceso pažeidimų, kurie trukdo nagrinėti bylą, byla perduodama prokurorui. Byla gali būti perduota prokurorui ir tuo atveju, jeigu yra jo prašymas, kai reikia papildyti ikiteisminį tyrimą. Teismas, perduodamas bylą prokurorui dėl baudžiamojo proceso pažeidimų ar tyrimo papildymo, nustato konkretų terminą pažeidimams pašalinti ar ikiteisminiam tyrimui papildyti. Per teismo nustatytą terminą prokuroras privalo pašalinti pažeidimus ar papildyti ikiteisminį tyrimą ir surašyti kaltinamąjį aktą arba surašyti nutarimą nutraukti ikiteisminį tyrimą. Prokuroras gali šio Kodekso 215 straipsnio 5 dalyje nustatyta tvarka kreiptis į ikiteisminio tyrimo teisėją su prašymu pratęsti ikiteisminiam tyrimui užbaigti nustatytą terminą.
 
 4. Nagrinėjimo teisme metu, kai nustatomos šio Kodekso 3 straipsnio 1 dalies 2–9 punktuose numatytos aplinkybės, byla nutraukiama teismo nutartimi.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo proceso kodekso 254 straipsnio 4 dalis (2003 m. balandžio 10 d. redakcija; Žin., 2003, Nr. 38-1734) tiek, kiek pagal ją nagrinėjimo teisme metu, kai nustatoma Baudžiamojo proceso kodekso 3 straipsnio 1 dalies 2 punkte numatyta aplinkybė, byla nutraukiama teismo nutartimi, teismui neišsprendus, ar kaltinamasis pagrįstai buvo kaltinamas padaręs nusikalstamą veiką, prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT19-N10/2016, 2016-06-27, paskelbta TAR 2016-06-27, i. k. 2016-17705
 
 5. Nagrinėjimo teisme metu, kai nustatomi Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 259 straipsnio 3 dalyje, 227 straipsnio 4 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti asmenį nuo baudžiamosios atsakomybės, byla nutraukiama nuosprendžiu.
 
@@ -6196,6 +6208,12 @@ Nr. XII-775, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03406
 235 straipsnis. Bylos nutraukimas
 
 1. Byla nutraukiama, kai yra šio Kodekso 3 straipsnio 1 dalyje numatytos aplinkybės, dėl kurių procesas negalimas, arba yra Lietuvos Respublikos baudžiamojo kodekso 36–40 ir 93 straipsniuose numatyti pagrindai atleisti asmenį nuo baudžiamosios atsakomybės. Kai baudžiamoji byla nutraukiama, nutraukiamas ir procesinių prievartos priemonių taikymas, suimtas kaltinamasis nedelsiant paleidžiamas iš kardomojo kalinimo vietos, taip pat nusprendžiama dėl daiktinių įrodymų.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo proceso kodekso 235 straipsnio 1 dalis (Žin., 2002, Nr. 37-1341) tiek, kiek nustatyta, kad byla nutraukiama, kai yra Baudžiamojo proceso kodekso 3 straipsnio 1 dalies 2 punkte numatyta aplinkybė, prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT19-N10/2016, 2016-06-27, paskelbta TAR 2016-06-27, i. k. 2016-17705
 
 2. Bylos nutraukimo klausimai nagrinėjami teismo posėdyje. Šiame posėdyje dalyvauja prokuroras, kaltinamasis, gynėjas, nukentėjusysis ir jo atstovas. Jeigu kaltinamasis neturi pasirinkęs gynėjo, jį paskiria teisėjas. Jeigu bylą teisiamajame posėdyje turėtų nagrinėti trijų teisėjų kolegija, bylos nutraukimo klausimą turi spręsti ši kolegija.
 
