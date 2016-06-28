@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2016-06-27"
+last_updated: "2016-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2016-06-27 iki 2016-06-27
+Suvestinė redakcija nuo 2016-06-28 iki 2016-07-13
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -2820,6 +2820,12 @@ Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
 Papildyta straipsnio dalimi:
 
 Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+
+17. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/42/ES dėl nusikaltimų priemonių ir pajamų iš nusikaltimų įšaldymo ir konfiskavimo Europos Sąjungoje (OL 2014 L 127, p. 39).
+
+Papildyta punktu:
+
+Nr. XII-2434, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17731
 
 Kodeksas papildytas priedu:
 
