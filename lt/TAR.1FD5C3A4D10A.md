@@ -4,7 +4,7 @@ identifier: "TAR.1FD5C3A4D10A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-10-14"
-last_updated: "2016-03-01"
+last_updated: "2016-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Suvestinė redakcija nuo 2016-03-01 iki 2016-06-27
+Suvestinė redakcija nuo 2016-06-28 iki 2016-06-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 102-4585, i. k. 1031010ISTA0IX-1768
 
@@ -205,7 +205,23 @@ Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 
 27) kasmet iki liepos 1 d. teikia Europos Komisijai praėjusiais metais atliktų patikrinimų duomenis (apie kiekvieną tikrintą sektorių absoliučiais skaičiais ir nurodant trečiųjų šalių piliečių dalį procentais) ir patikrinimų dėl trečiųjų šalių piliečių darbo rezultatus ir juos registruoja Darbo sąlygų darbo vietose nuolatinės stebėsenos informacinėje sistemoje;
 
-28) atlieka kitas funkcijas, nustatytas kitų norminių teisės aktų.
+28) teikia ir gauna prašymus dėl finansinių administracinių sankcijų ir (ar) baudų išieškojimo arba pranešimus apie sprendimus dėl tokių sankcijų ir (ar) baudų skyrimo Lietuvos Respublikos garantijų komandiruotiems darbuotojams įstatymo nustatyta tvarka;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2438, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17711
+
+29) tikrina, ar nepažeidžiamos komandiruotų darbuotojų garantijos;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2438, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17711
+
+30) atlieka kitas funkcijas, nustatytas kitų norminių teisės aktų.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-2438, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17711
 
 Straipsnio pakeitimai:
 
@@ -443,9 +459,15 @@ priedas
 
 1. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
 
+2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/67/ES dėl Direktyvos 96/71/EB dėl darbuotojų komandiravimo paslaugų teikimo sistemoje vykdymo užtikrinimo ir kuria iš dalies keičiamas Reglamentas (ES) Nr. 1024/2012 dėl administracinio bendradarbiavimo per Vidaus rinkos informacinę sistemą (IMI reglamentas) (OL L 159, p. 11).
+
 Įstatymas papildytas priedu:
 
 Nr. XI-2193, 2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
+
+Papildyta punktu:
+
+Nr. XII-2438, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17711
 
 Pakeitimai:
 
