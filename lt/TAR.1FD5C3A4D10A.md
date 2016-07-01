@@ -4,7 +4,7 @@ identifier: "TAR.1FD5C3A4D10A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-10-14"
-last_updated: "2016-06-28"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Suvestinė redakcija nuo 2016-06-28 iki 2016-06-30
+Suvestinė redakcija nuo 2016-07-01 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 102-4585, i. k. 1031010ISTA0IX-1768
 
@@ -47,11 +47,15 @@ INSPEKTAVIMO TVARKA
 
 121 straipsnis. Nuobaudų ir kitų apribojimų taikymas
 
-1. Darbdaviams – juridiniams asmenims, leidusiems dirbti nelegaliai trečiosios šalies piliečiams, skiriama nuo 868 iki 2 896 eurų bauda už kiekvieną nelegaliai dirbusį trečiosios šalies pilietį. Tokie patys veiksmai, padaryti už šį pažeidimą bausto juridinio asmens per metus nuo tos dienos, kurią pasibaigė paskirtos baudos įvykdymo terminas, užtraukia baudą juridiniam asmeniui už kiekvieną trečiosios šalies pilietį nuo 2 896 iki 5 792 eurų.
+1. Darbdaviams – juridiniams asmenims, leidusiems dirbti nelegaliai trečiosios šalies piliečiams, skiriama nuo 868 iki 2 896 eurų bauda už kiekvieną nelegaliai dirbusį trečiosios šalies pilietį. Tokie patys veiksmai, padaryti už šį pažeidimą bausto juridinio asmens per metus nuo tos dienos, kai paskirta bauda baigta vykdyti, užtraukia baudą juridiniam asmeniui už kiekvieną trečiosios šalies pilietį nuo 2 896 iki 5 792 eurų.
+
+TAR pastaba. 121 straipsnio 1 dalies nuostatos taikomos, kai nelegaliai Lietuvos Respublikoje esantys trečiųjų šalių piliečiai įdarbinami po įstatymo Nr. XII-2435 įsigaliojimo dienos (2016-07-01).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1144, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13456
+
+Nr. XII-2435, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17708
 
 2. Šio straipsnio 1 dalyje numatyta bauda skiriama, jeigu padaryta veika neužtraukia baudžiamosios atsakomybės.
 
@@ -75,17 +79,37 @@ Nr. XII-1144, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13456
 
 3) įpareigojimas Lietuvos Respublikos Vyriausybės nustatyta tvarka sugrąžinti tam tikrą dalį arba visas per 12 mėnesių laikotarpį iki nelegalaus darbo nustatymo suteiktų subsidijų, išmokų ar kitos valstybės pagalbos, įskaitant Europos Sąjungos struktūrinių fondų paramą ir kitą paramą, išskyrus tiesioginę Europos Sąjungos paramą, lėšas.
 
-10. Už šio straipsnio 3 dalyje nurodytų piniginių įpareigojimų įvykdymą nelegaliai Lietuvos Respublikoje esančiam trečiosios šalies piliečiui ir šio straipsnio 1 dalyje ir (ar) Lietuvos Respublikos administracinių teisės pažeidimų kodekso 413 straipsnyje nurodytų baudų sumokėjimą rangovas, kai darbdavys yra subrangovas, atsako subsidiariai, išskyrus šio straipsnio 11 dalyje nurodytą atvejį.
+10. Už šio straipsnio 3 dalyje nurodytų piniginių įpareigojimų įvykdymą nelegaliai Lietuvos Respublikoje esančiam trečiosios šalies piliečiui rangovas, kai darbdavys yra subrangovas, atsako subsidiariai, išskyrus šio straipsnio 11 dalyje nurodytą atvejį.
+
+TAR pastaba. 121 straipsnio 10 dalies nuostatos taikomos, kai nelegaliai Lietuvos Respublikoje esantys trečiųjų šalių piliečiai įdarbinami po įstatymo Nr. XII-2435 įsigaliojimo dienos (2016-07-01).
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1617, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06061
 
-11. Rangovui, kai darbdavys yra subrangovas, kuris pasinaudojo Lietuvos Respublikos darbo kodekso 981 straipsnio 2 dalyje įtvirtinta teise, arba kai subrangovas, kuris yra darbdavys, neįvykdė Lietuvos Respublikos darbo kodekso 981 straipsnio 1 dalies 5 punkte nurodytos pareigos, nekyla subsidiari atsakomybė už šio straipsnio 3 dalyje nurodytų piniginių įpareigojimų įvykdymą nelegaliai Lietuvos Respublikoje esančiam trečiosios šalies piliečiui ir už šio straipsnio 1 dalyje ir (ar) Lietuvos Respublikos administracinių teisės pažeidimų kodekso 413 straipsnyje nurodytų baudų sumokėjimą, išskyrus atvejus, kai rangovas žinojo, kad dokumentas, suteikiantis teisę būti ar gyventi Lietuvos Respublikoje, buvo suklastotas.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2435, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17708
+
+11. Rangovui, kai darbdavys yra subrangovas, kuris įvykdė Lietuvos Respublikos darbo kodekso 981 straipsnio 2 dalyje nurodytas pareigas, arba kai subrangovas, kuris yra darbdavys, neįvykdė Lietuvos Respublikos darbo kodekso 981 straipsnio 1 dalies 5 punkte nurodytos pareigos, nekyla subsidiari atsakomybė už šio straipsnio 3 dalyje nurodytų piniginių įpareigojimų įvykdymą nelegaliai Lietuvos Respublikoje esančiam trečiosios šalies piliečiui, išskyrus atvejus, kai rangovas žinojo, kad dokumentas, suteikiantis teisę būti ar gyventi Lietuvos Respublikoje, buvo suklastotas.
+
+TAR pastaba. 121 straipsnio 11 dalies nuostatos taikomos, kai nelegaliai Lietuvos Respublikoje esantys trečiųjų šalių piliečiai įdarbinami po įstatymo Nr. XII-2435 įsigaliojimo dienos (2016-07-01).
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1617, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06061
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2435, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17708
+
+12. Rangovui, neįvykdžiusiam Lietuvos Respublikos darbo kodekso 981 straipsnio 2 dalyje nurodytų pareigų, kai subrangovas, kuris yra darbdavys, leido dirbti nelegaliai Lietuvos Respublikoje esančiam trečiosios šalies piliečiui, skiriama nuo 868 iki 2 896 eurų bauda už kiekvieną nelegaliai Lietuvos Respublikoje esantį trečiosios šalies pilietį. Tokie patys veiksmai, padaryti už šį pažeidimą bausto rangovo per metus nuo tos dienos, kai paskirta bauda baigta vykdyti, užtraukia baudą rangovui už kiekvieną nelegaliai Lietuvos Respublikoje esantį trečiosios šalies pilietį nuo 2 896 iki 5 792 eurų.
+
+TAR pastaba. 121 straipsnio 12 dalies nuostatos taikomos, kai nelegaliai Lietuvos Respublikoje esantys trečiųjų šalių piliečiai įdarbinami po įstatymo Nr. XII-2435 įsigaliojimo dienos (2016-07-01).
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2435, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17708
 
 PENKTASIS SKIRSNIS
 
