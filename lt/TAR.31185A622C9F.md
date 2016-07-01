@@ -4,7 +4,7 @@ identifier: "TAR.31185A622C9F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-04"
-last_updated: "2016-04-01"
+last_updated: "2016-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.31185A622C9F"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,15 @@ entry_into_force_conditions: "Darbo kodeksas įsigalioja 2003-01-01, 47 straipsn
 
 Projektas
 
-Suvestinė redakcija nuo 2016-04-01 iki 2016-06-30
+Įstatymas netenka galios 2017-07-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2603, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23709
+
+Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
+
+Suvestinė redakcija nuo 2016-07-01 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2569; Žin. 2002, Nr.71-0, i. k. 1021010ISTA00IX-926
 
@@ -327,9 +335,11 @@ Nr. XII-1019, 2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10428
 
 175 straipsnis. Nepanaudotų kasmetinių atostogų suteikimas atleidžiant iš darbo
 
-Atleidžiant darbuotoją iš darbo (išskyrus atvejus, kai atleidžiama dėl jo paties kaltės), nepanaudotos kasmetinės atostogos jo pageidavimu suteikiamos nukeliant atleidimo datą. Tokiu atveju atleidimo iš darbo diena yra laikoma kita diena po kasmetinių atostogų pabaigos dienos.
+Atleidžiant darbuotoją iš darbo (išskyrus atvejus, kai atleidžiama dėl jo paties kaltės), nepanaudotos kasmetinės atostogos jo pageidavimu suteikiamos nukeliant atleidimo datą, bet ne daugiau kaip už trejų darbo metų nepanaudotas kasmetines atostogas, jeigu darbuotojas faktiškai galėjo jomis pasinaudoti ir kolektyvinėje sutartyje nenustatyta kitaip. Tokiu atveju atleidimo iš darbo diena yra laikoma kita diena, einanti po kasmetinių atostogų pabaigos dienos.
 
-Straipsnio redakcija nuo 2015-12-01:
+Straipsnio pakeitimai:
+
+Nr. XII-919, 2014-06-05, paskelbta TAR 2014-06-11, i. k. 2014-07395
 
 177 straipsnis. Piniginė kompensacija už nepanaudotas kasmetines atostogas
 
@@ -1979,11 +1989,17 @@ Papildyta straipsnio punktu:
 
 Nr. XII-1616, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06060
 
-2. Rangovui, gavusiam informaciją iš darbdavio, kuris yra subrangovas, apie darbo sutarties su trečiosios šalies piliečiu sudarymą, pareikalavus, darbdavys turi pateikti rangovui susipažinti turimą informaciją (dokumentus), nurodytą šio straipsnio 1 dalies 2 punkte.
+2. Rangovas, gavęs informaciją iš darbdavio, kuris yra subrangovas, apie darbo sutarties su trečiosios šalies piliečiu sudarymą, turi pareikalauti, kad darbdavys pateiktų rangovui turimą informaciją (dokumentus), nurodytą (nurodytus) šio straipsnio 1 dalies 2 punkte, ją (juos) patikrinti ir, paaiškėjus, kad Lietuvos Respublikoje esantis trečiosios šalies pilietis dirba nelegaliai, nedelsdamas pranešti apie tai bent vienai nelegalaus darbo kontrolę vykdančiai institucijai (Valstybinei darbo inspekcijai, Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos, Finansinių nusikaltimų tyrimo tarnybai prie Vidaus reikalų ministerijos arba Policijos departamentui prie Vidaus reikalų ministerijos).
+
+TAR pastaba. 2 dalis taikoma, kai nelegaliai Lietuvos Respublikoje esantys trečiųjų šalių piliečiai įdarbinami po įstatymo Nr. XII-2436 įsigaliojimo dienos (2016-07-01).
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1616, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06060
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2436, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17709
 
 3. Darbdavys, įvykdęs šio straipsnio 1 dalyje nurodytas pareigas, nelaikomas pažeidusiu šio Kodekso 98 straipsnio 1 dalies 4 punktą, išskyrus atvejus, kai jis žinojo, kad dokumentas, suteikiantis teisę būti ar gyventi Lietuvos Respublikoje, buvo suklastotas.
 
@@ -2096,20 +2112,6 @@ Nr. XI-2358, 2012-11-06, Žin., 2012, Nr. 135-6859 (2012-11-22)
 109 straipsnis. Terminuota darbo sutartis
 
 1. Terminuota darbo sutartis gali būti sudaroma tam tikram laikui arba tam tikrų darbų atlikimo laikui, bet ne ilgiau kaip penkeriems metams.
-
-2. Neleidžiama sudaryti terminuotos darbo sutarties, jeigu darbas yra nuolatinio pobūdžio, išskyrus atvejus, kai tai nustato įstatymai ar kolektyvinės sutartys arba kai darbuotojas priimamas į naujai steigiamą darbo vietą.
-
-TAR pastaba. Pagal Darbo kodekso 109 straipsnio 2 dalį (toliau – Darbo kodekso 109 straipsnio 2 dalis) terminuotas darbo sutartis nuolatinio pobūdžio darbui galima sudaryti tik po įstatymo Nr. XI-927 įsigaliojimo įsteigtoms naujoms darbo vietoms. Naujai įsteigtomis darbo vietomis nelaikomos tokios darbo vietos, kurios po įstatymo Nr. XI-927 įsigaliojimo steigiamos tokiam pačiam darbui atlikti panaikinant buvusias darbo vietas.
-
-Terminuotų darbo sutarčių, sudaromų pagal Darbo kodekso 109 straipsnio 2 dalį naujai įsteigtoms darbo vietoms, skaičius įmonėje, įstaigoje, organizacijoje negali viršyti 50 procentų visų įmonės, įstaigos, organizacijos darbo vietų (pareigybių) skaičiaus.
-
-Terminuota darbo sutartis pagal Darbo kodekso 109 straipsnio 2 dalį naujai įsteigtai darbo vietai negali būti sudaryta su toje pačioje įmonėje, įstaigoje, organizacijoje dirbusiu darbuotoju, su kuriuo darbo sutartis buvo nutraukta pagal Darbo kodekso 125 ar 129 straipsnį įsigaliojus šiam įstatymui.
-
-Terminuotos darbo sutartys pagal Darbo kodekso 109 straipsnio 2 dalį naujai įsteigtoms darbo vietoms gali būti sudaromos ne ilgesniam laikui kaip iki 2015 m. liepos 31 d. Darbo santykiams pagal tokią terminuotą darbo sutartį tęsiantis po 2015 m. liepos 31 d., darbo sutartis tampa neterminuota darbo sutartimi.
-
-Darbo sutartys su namudininkais, sudarytos iki šio įstatymo Nr. XI-927 įsigaliojimo, tęsiasi toliau ir joms taikomos nuotolinio darbo sutarties nuostatos.
-
-2 dalies redakcija nuo 2015-08-01:
 
 2. Neleidžiama sudaryti terminuotos darbo sutarties, jeigu darbas yra nuolatinio pobūdžio, išskyrus atvejus, kai tai nustato įstatymai ar kolektyvinės sutartys.
 
