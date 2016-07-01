@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2015-12-30"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2015-12-30 iki 2016-06-30
+Suvestinė redakcija nuo 2016-07-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -784,11 +784,29 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-2186, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20889
 
-7. Vairuodamas motorinę transporto priemonę, traktorių, savaeigę mašiną, vairuotojas privalo vykdyti vairuotojo pažymėjime nurodytas sąlygas (vairuoti tik su akiniais ar kontaktiniais lęšiais; tik transporto priemones su rankiniu valdymu, transporto priemones su automatine pavarų dėže ir pan.).
+8. Turintiems teisę vairuoti B, C arba D kategorijų transporto priemones vairuotojams suteikiama teisė vairuoti A kategorijos transporto priemones tik po to, kai jie išlaiko egzaminą.
 
-8. Vairavimo praktinį egzaminą asmuo gali laikyti tik sukakęs šio įstatymo 23 straipsnyje nustatytą amžių, atsižvelgiant į motorinės transporto priemonės, traktoriaus ar savaeigės mašinos kategoriją, taip pat pasibaigus teisės vairuoti transporto priemones atėmimo terminui.
+Papildyta straipsnio dalimi:
 
-9. Asmenys, kurie vairavo transporto priemonę neturėdami teisės vairuoti transporto priemones, tokią teisę gali įgyti ne anksčiau kaip po vienų metų nuo šio pažeidimo padarymo dienos.
+Nr. XII-2186, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20889
+
+9. Vairuodamas motorinę transporto priemonę, traktorių, savaeigę mašiną, vairuotojas privalo vykdyti vairuotojo pažymėjime nurodytas sąlygas (vairuoti tik su akiniais ar kontaktiniais lęšiais; tik transporto priemones su rankiniu valdymu, transporto priemones su automatine pavarų dėže ir pan.).
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2186, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20889
+
+10. Vairavimo praktinį egzaminą asmuo gali laikyti tik sukakęs šio įstatymo 23 straipsnyje nustatytą amžių, atsižvelgiant į motorinės transporto priemonės, traktoriaus ar savaeigės mašinos kategoriją, taip pat pasibaigus teisės vairuoti transporto priemones atėmimo terminui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2186, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20889
+
+11. Asmenys, kurie vairavo transporto priemonę neturėdami teisės vairuoti transporto priemones, tokią teisę gali įgyti ne anksčiau kaip po vienų metų nuo šio pažeidimo padarymo dienos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2186, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20889
 
 Straipsnio pakeitimai:
 
