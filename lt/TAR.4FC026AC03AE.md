@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2016-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-06-30
+Suvestinė redakcija nuo 2016-07-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
 
@@ -1150,15 +1150,15 @@ PAREIGŪNŲ DARBO LAIKAS IR ATOSTOGOS
 
 37 straipsnis. Pareigūnų darbo laikas
 
-1. Pareigūnų, išskyrus šio straipsnio 3 ir 4 dalyse nurodytus pareigūnus, darbo laiko trukmė negali būti ilgesnė kaip 40 valandų per savaitę (7 dienų laikotarpį). Šio statuto 38 straipsnyje nurodytais pagrindais vidaus reikalų įstaigos vadovas savo sprendimu pareigūnui gali pavesti dirbti ilgiau negu nustatyta savaitės darbo laiko trukmė.
+1. Pareigūnų darbo laiko trukmė negali būti ilgesnė kaip 40 valandų per savaitę (7 dienų laikotarpį).
 
-2. Pareigūnui negalima pavesti dirbti daugiau kaip 8 valandas viršvalandžių per vieną dieną. Pamainos trukmė kartu su viršvalandžiais negali būti ilgesnė kaip 24 valandos. Į pamainos trukmę įskaičiuojamas laikas, skirtas pareigūnams instruktuoti, apsiginkluoti ir atsiskaityti už tarnybos rezultatus. Vieno pareigūno viršvalandžiai per metus negali viršyti 250 valandų.
+2. Vidaus reikalų įstaigos vadovas gali šio statuto 38 straipsnyje nurodytais atvejais pavesti pareigūnui dirbti iki 8 valandų viršvalandžių per savaitę.
 
-3. Nustatytas funkcijas nepertraukiamai vykdančiose vidaus reikalų įstaigose tam tikras pareigas einantiems pareigūnams, dirbantiems pamainomis, vidaus reikalų centrinės įstaigos vadovo sprendimu gali būti nustatyta ne ilgesnė kaip 24 valandų pamainos trukmė, viršijanti šio straipsnio 1 dalyje nustatytą 40 valandų per savaitę (7 dienų laikotarpį) darbo laiko trukmę, bet ne ilgesnė kaip 48 valandų per savaitę (7 dienų laikotarpį). Šių pareigūnų darbas, kiekvieną savaitę (7 dienų laikotarpį) neviršijantis 48 valandų darbo laiko normos, nelaikomas viršvalandiniu. Šioje dalyje nurodytų pareigūnų pareigybių sąrašą, šių pareigūnų darbo ir poilsio laiko apskaitos ypatumus nustato Vyriausybė.
+3. Maksimalus darbo laikas per savaitę, įskaitant viršvalandžius, negali viršyti 48 valandų. Viršvalandžiai per metus negali viršyti 180 valandų.
 
-4. Šio straipsnio 3 dalyje nurodytiems pareigūnams dirbti viršvalandžius galima pavesti tik šio statuto 38 straipsnyje nustatytais atvejais. Tokiais atvejais pamainos trukmė kartu su viršvalandžiais negali būti ilgesnė kaip 26 valandos, o vieno pareigūno viršvalandžiai per metus negali viršyti 164 valandų.
+4. Nustatytas funkcijas nepertraukiamai atliekantiems tam tikras pareigas einantiems pareigūnams, dirbantiems ne ilgesnėmis kaip 24 valandų trukmės pamainomis, gali būti taikoma suminė darbo laiko apskaita. Šių pareigūnų vidutinis darbo laikas per 7 dienų laikotarpį, įskaitant viršvalandžius, neturi viršyti 48 valandų, o nepertraukiamo poilsio tarp darbo dienų laikas privalo būti ne trumpesnis kaip 24 valandos. Suminės darbo laiko apskaitos laikotarpio trukmė negali būti ilgesnė negu 4 mėnesiai. Šioje dalyje nurodytų pareigūnų pareigybių sąrašą tvirtina vidaus reikalų centrinės įstaigos vadovas.
 
-37 straipsnio redakcija nuo 2016-07-01:
+5. Į darbo laiką įskaičiuojamas laikas, skirtas pareigūnams instruktuoti, apginkluoti ar pamainai perduoti (priimti).
 
 41 straipsnis. Kasmetinių atostogų nutraukimas
 
