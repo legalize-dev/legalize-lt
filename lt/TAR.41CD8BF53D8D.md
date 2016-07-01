@@ -4,7 +4,7 @@ identifier: "TAR.41CD8BF53D8D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-13"
-last_updated: "2016-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 department: "Lietuvos Respublikos Seimas"
@@ -18,15 +18,11 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-06-30
+Suvestinė redakcija nuo 2016-07-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
 
-LIETUVOS RESPUBLIKOS
-
-RINKLIAVŲ
-
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS RINKLIAVŲ ĮSTATYMAS
 
 2000 m. birželio 13 d. Nr. VIII-1725 Vilnius
 
@@ -300,7 +296,11 @@ Nr.IX-847, 2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04)
 
 5) leidimo įvažiuoti mechaninėmis transporto priemonėmis į valstybės saugomas teritorijas, savivaldybių įsteigtus saugomus draustinius, jų paskelbtų kraštovaizdžio objektų teritorijas ir nustatytas vietinės reikšmės apsaugines zonas išdavimą (išskyrus važiavimą per šias teritorijas valstybinės reikšmės keliais, naudojimąsi jų statiniais, stovėjimo ir poilsio aikštelėmis, terminalais ir pasienio kontrolės punktais; šios išimtys netaikomos Neringos miestui);
 
-6) naudojimąsi savivaldybių tarybų nustatytomis vietomis automobiliams statyti (išskyrus vietas automobiliams statyti prie valstybinės reikšmės kelių, 5–15 m pažymėtoje atkarpoje prie valstybės įstaigų, institucijų ir tarnybų, taip pat vietas, kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar kitus viešuosius interesus užtikrinančius reikalavimus; taip pat išskyrus automobilių, pažymėtų neįgalių asmenų automobilių statymo kortele, statymą savivaldybių tarybų nustatytose nerezervuotose mokamose vietose automobiliams statyti);
+6) naudojimąsi savivaldybių tarybų nustatytomis vietomis automobiliams statyti (išskyrus vietas automobiliams statyti prie valstybinės reikšmės kelių, 5–15 m pažymėtoje atkarpoje prie valstybės įstaigų, institucijų ir tarnybų, taip pat vietas, kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar kitus viešuosius interesus užtikrinančius reikalavimus; taip pat išskyrus automobilių, pažymėtų neįgalių asmenų automobilių statymo kortele, statymą savivaldybių tarybų nustatytose nerezervuotose mokamose vietose automobiliams statyti ir Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos transporto priemonių, naudojamų saugomų asmenų ir (ar) saugomų objektų apsaugai, statymą);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1970, 2015-10-20, paskelbta TAR 2015-10-30, i. k. 2015-17123
 
 7) gyvūnų (šunų, kačių) registravimą ir laikymą daugiabučiuose namuose;
 
@@ -623,6 +623,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2157, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19855
 
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 papildymo 13-1 straipsniu ir 14 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1970, 2015-10-20, paskelbta TAR 2015-10-30, i. k. 2015-17123
+
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 11 straipsnio pakeitimo įstatymas
 
 131 straipsnis. Vietinių rinkliavų mokėjimas
 
