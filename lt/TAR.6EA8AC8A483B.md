@@ -4,7 +4,7 @@ identifier: "TAR.6EA8AC8A483B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-22"
-last_updated: "2015-11-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2016-06-30
+Suvestinė redakcija nuo 2016-07-01 iki 2016-10-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
 
@@ -84,9 +84,7 @@ PATVIRTINTA
 
 įstatymu Nr. IX-2152
 
-LIETUVOS RESPUBLIKOS GELEŽINKELIŲ TRANSPORTO
-
-K O D E K S A S
+LIETUVOS RESPUBLIKOS GELEŽINKELIŲ TRANSPORTO  K O D E K S A S
 
 PIRMASIS SKIRSNIS
 
@@ -436,7 +434,11 @@ VIEŠOSIOS GELEŽINKELIŲ INFRASTRUKTŪROS VALDYMAS, NAUDOJIMAS IR PRIEŽIŪRA
 
 23 straipsnis. Viešosios geležinkelių infrastruktūros valdymas, naudojimas ir disponavimas ja, pripažinimas nereikalinga arba netinkama (negalima) naudoti
 
-1. Lietuvos Respublikos įstatymų nustatyta tvarka viešąją geležinkelių infrastruktūrą patikėjimo teise valdo, naudoja, ja disponuoja, nepažeisdamas šio Kodekso ir kitų teisės aktų nustatytų apribojimų, ir įmonėms teikia su viešosios geležinkelių infrastruktūros valdymu ir priežiūra susijusias paslaugas viešosios geležinkelių infrastruktūros valdytojas – akcinė bendrovė „Lietuvos geležinkeliai“. Viešosios geležinkelių infrastruktūros valdytojo funkcijas atlieka atskiras akcinės bendrovės „Lietuvos geležinkeliai“ padalinys, nevykdantis šio Kodekso 10 straipsnio 1 dalyje nurodytos licencijuojamos veiklos.
+1. Lietuvos Respublikos įstatymų nustatyta tvarka viešąją geležinkelių infrastruktūrą patikėjimo teise valdo, naudoja, ja disponuoja, nepažeisdamas šio Kodekso ir kitų teisės aktų nustatytų apribojimų, tiek, kiek šis Kodeksas nenustato kitaip, ir įmonėms teikia su viešosios geležinkelių infrastruktūros valdymu ir priežiūra susijusias paslaugas viešosios geležinkelių infrastruktūros valdytojas – akcinė bendrovė „Lietuvos geležinkeliai“. Viešosios geležinkelių infrastruktūros valdytojo funkcijas atlieka atskiras akcinės bendrovės „Lietuvos geležinkeliai“ padalinys, nevykdantis šio Kodekso 10 straipsnio 1 dalyje nurodytos licencijuojamos veiklos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2363, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14733
 
 2. Viešosios geležinkelių infrastruktūros valdytojas privalo užtikrinti, kad viešosios geležinkelių infrastruktūros valdytojo funkcijas atliekančio padalinio apskaita būtų atskirta nuo padalinių, kurie vykdo šio Kodekso 10 straipsnio 1 dalyje nurodytą veiklą, apskaitos, kad būtų sudaromos atskiros pelno (nuostolių) ataskaitos ir balansai. Sąskaitų ir balansų atskyrimo priežiūrą atlieka rinkos reguliuotojas. Viešosios geležinkelių infrastruktūros valdymo funkcijas atliekančio padalinio finansinės ataskaitos skelbiamos viešai susisiekimo ministro nustatyta tvarka.
 
@@ -446,13 +448,69 @@ VIEŠOSIOS GELEŽINKELIŲ INFRASTRUKTŪROS VALDYMAS, NAUDOJIMAS IR PRIEŽIŪRA
 
 5. Sprendimus dėl viešosios geležinkelių infrastruktūros objektų pripažinimo nereikalingais arba netinkamais (negalimais) naudoti priima viešosios geležinkelių infrastruktūros valdytojas. Sprendimus dėl nereikalingais arba netinkamais (negalimais) naudoti pripažintų viešosios geležinkelių infrastruktūros objektų perdavimo ar nurašymo teisės aktų nustatyta tvarka priima Vyriausybė. Perduodamo turto vertės dydžiu sumažinamas viešosios geležinkelių infrastruktūros valdytojo įstatinis kapitalas, jeigu perduodamas turtas buvo įvertintas akcijomis, ir anuliuojamos valstybei nuosavybės teise priklausančios akcijos.
 
-6. Viešosios geležinkelių infrastruktūros valdytojui netaikomi kituose įstatymuose nustatyti apribojimai dėl valstybei nuosavybės teise priklausančios viešosios geležinkelių infrastruktūros objektų nuomos. Viešosios geležinkelių infrastruktūros objektus viešosios geležinkelių infrastruktūros valdytojas gali išnuomoti Vyriausybės nustatyta tvarka. Lėšas, gautas iš viešosios geležinkelių infrastruktūros objektų nuomos, viešosios geležinkelių infrastruktūros valdytojas privalo apskaityti atskirai ir naudoti tik viešosios geležinkelių infrastruktūros priežiūrai, atnaujinimui, modernizavimui ir plėtrai.
+6. Viešosios geležinkelių infrastruktūros valdytojui netaikomi kituose įstatymuose nustatyti apribojimai dėl valstybei nuosavybės teise priklausančios viešosios geležinkelių infrastruktūros objektų nuomos. Viešosios geležinkelių infrastruktūros objektus, nenaudojamus viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti, išskyrus viešosios geležinkelių infrastruktūros geležinkelio kelius, viešosios geležinkelių infrastruktūros valdytojas gali išnuomoti Vyriausybės nustatyta tvarka šiais atvejais ir sąlygomis:
 
-7. Išlaidos, patiriamos atliekant viešosios geležinkelių infrastruktūros valdytojo funkcijas, apmokamos iš rinkliavų už viešosios geležinkelių infrastruktūros valdytojo teikiamas paslaugas, valstybės biudžeto lėšų, skiriamų pagal šio straipsnio 8 dalyje nurodytą sutartį, valstybės biudžeto lėšų, skiriamų viešosios geležinkelių infrastruktūros atnaujinimo, modernizavimo ir plėtros projektams įgyvendinti, Europos Sąjungos fondų, paskolų, kitų lėšų.
+1) ne aukciono būdu – asmenims, nuosavybės teise valdantiems statinius (išskyrus laikinuosius statinius, inžinerinius tinklus ir neturinčius aiškios funkcinės priklausomybės ar apibrėžto naudojimo arba ūkinės veiklos pobūdžio statinius, kurie tarnauja pagrindiniam statiniui ar įrenginiui arba jo priklausiniui), esančius tame pačiame viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklype (ar jo dalyje) kaip ir nuomojami viešosios geležinkelių infrastruktūros objektai, – ne ilgesniam kaip 20 metų terminui (į šį terminą įskaitomas nuomos sutarties termino pratęsimas). Jeigu statinys, esantis tam pačiame viešosios geležinkelių infrastruktūros objektų užimame valstybinės žemės sklype kaip ir nuomojamas viešosios geležinkelių infrastruktūros objektas, bendrosios dalinės nuosavybės teise priklauso keliems asmenims (bendraturčiams), tokio statinio bendraturčiams išnuomojamos atitinkamos viešosios geležinkelių infrastruktūros objekto dalys proporcingai jų turimai nuosavybei;
 
-8. Vyriausybė ar jos įgaliota institucija sudaro sutartį su viešosios geležinkelių infrastruktūros valdytoju dėl viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo. Sutartis sudaroma ne trumpesniam kaip 3 metų laikotarpiui. Sutartyje nustatomi siektini viešosios geležinkelių infrastruktūros parametrai, priemonės viešosios geležinkelių infrastruktūros išlaidoms ir rinkliavų už viešosios geležinkelių infrastruktūros valdytojo teikiamas paslaugas dydžiams mažinti, šių priemonių įgyvendinimo vertinimo kriterijai, valstybės biudžeto lėšos, skiriamos šioms priemonėms įgyvendinti ir viešosios geležinkelių infrastruktūros valdymo veiklos įplaukoms ir išlaidoms subalansuoti.
+2) ne aukciono būdu – valstybės institucijoms ir įstaigoms, kurių veikla viešosios geležinkelių infrastruktūros objektuose privaloma pagal Lietuvos Respublikos įstatymus, išskyrus atvejus, kai viešosios geležinkelių infrastruktūros objektai pagal šių institucijų ir įstaigų veiklą reglamentuojančius Lietuvos Respublikos įstatymus turi būti perduoti laikinai neatlygintinai naudotis, – privalomos veiklos pagal Lietuvos Respublikos įstatymus vykdymo trukmei;
 
-9. Rinkliavų už viešosios geležinkelių infrastruktūros valdytojo teikiamas paslaugas lėšos ir valstybės lėšos, skirtos viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti, turi būti apskaitomos atskirai ir negali būti naudojamos kitai veiklai.
+3) ne aukciono būdu – asmenims trumpalaikiams renginiams organizuoti (parodoms, sporto varžyboms, pasitarimams, seminarams, šventėms, kultūros renginiams, darbuotojų socialinėms reikmėms skirtiems renginiams ir panašiai), trumpalaikiams neatidėliotiniems darbams atlikti (avarijų, stichinių nelaimių padariniams likviduoti ir panašiai) – trumpalaikių renginių ir trumpalaikių neatidėliotinų darbų vykdymo trukmei (bendra nuomos trukmė – iki 30 kalendorinių dienų per kalendorinius metus);
+
+4) ne aukciono būdu – asmenims, vykdantiems viešosios geležinkelių infrastruktūros objektų remonto, rekonstrukcijos ar naujų statinių statybos darbus, – viešosios geležinkelių infrastruktūros objektų remonto, rekonstrukcijos ar naujų statinių statybos darbų vykdymo trukmei (į šį terminą įskaitomas nuomos sutarties termino pratęsimas);
+
+5) aukciono būdu – asmenims visais kitais atvejais, nenurodytais šios dalies 1–4 punktuose, – ne ilgesniam kaip 20 metų terminui (į šį terminą įskaitomas nuomos sutarties termino pratęsimas).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2363, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14733
+
+7. Viešosios geležinkelių infrastruktūros valdytojas, raštu iš anksto per viešosios geležinkelių infrastruktūros objektų nuomos sutartyje nustatytą terminą įspėjęs viešosios geležinkelių infrastruktūros objekto nuomininką, turi teisę nutraukti viešosios geležinkelių infrastruktūros objektų nuomos sutartį prieš terminą, jeigu išnuomoto objekto reikia viešosios geležinkelių infrastruktūros valdytojo reikmėms ir toks nuomos sutarties nutraukimo pagrindas numatytas viešosios geležinkelių infrastruktūros objekto nuomos sutartyje. Viešosios geležinkelių infrastruktūros objekto nuomos nutraukimo prieš terminą atveju viešosios geležinkelių infrastruktūros objekto nuomininko dėl tokio viešosios geležinkelių infrastruktūros objektų nuomos sutarties nutraukimo patiriami nuostoliai atlyginami teisės aktų nustatyta tvarka.
+
+TAR pastaba. 7 dalyje nustatyti reikalavimai taikomi viešosios geležinkelių infrastruktūros objektų ir šių objektų užimamos valstybinės žemės nuomos sutartims, sudaromoms po įstatymo Nr. XII-2363 įsigaliojimo dienos (2016-07-01).
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2363, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14733
+
+8. Viešosios geležinkelių infrastruktūros objektų nuomininkas neturi teisės įkeisti nuomos teisės, perduoti jos kaip turtinio įnašo ar kitaip jos suvaržyti. Viešosios geležinkelių infrastruktūros objektų subnuoma draudžiama.
+
+TAR pastaba. 8 dalyje nustatyti reikalavimai taikomi viešosios geležinkelių infrastruktūros objektų ir šių objektų užimamos valstybinės žemės nuomos sutartims, sudaromoms po įstatymo Nr. XII-2363 įsigaliojimo dienos (2016-07-01).
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2363, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14733
+
+9. Nuomos mokestis už viešosios geležinkelių infrastruktūros objekto nuomą nustatomas Vyriausybės nustatyta tvarka. Lėšas, gautas iš viešosios geležinkelių infrastruktūros objektų nuomos, viešosios geležinkelių infrastruktūros valdytojas privalo apskaityti atskirai ir naudoti tik viešosios geležinkelių infrastruktūros priežiūrai, atnaujinimui, modernizavimui ir plėtrai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2363, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14733
+
+10. Viešosios geležinkelių infrastruktūros objekto nuomininkui, pagerinusiam išsinuomotą viešosios geležinkelių infrastruktūros objektą, už pagerinimą neatlyginama. Kitos viešosios geležinkelių infrastruktūros objektų nuomos sąlygos nustatomos viešosios geležinkelių infrastruktūros objektų nuomos sutartyse.
+
+TAR pastaba. 10 dalyje nustatyti reikalavimai taikomi viešosios geležinkelių infrastruktūros objektų ir šių objektų užimamos valstybinės žemės nuomos sutartims, sudaromoms po įstatymo Nr. XII-2363 įsigaliojimo dienos (2016-07-01).
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2363, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14733
+
+11. Išlaidos, patiriamos atliekant viešosios geležinkelių infrastruktūros valdytojo funkcijas, apmokamos iš rinkliavų už viešosios geležinkelių infrastruktūros valdytojo teikiamas paslaugas, valstybės biudžeto lėšų, skiriamų pagal šio straipsnio 8 dalyje nurodytą sutartį, valstybės biudžeto lėšų, skiriamų viešosios geležinkelių infrastruktūros atnaujinimo, modernizavimo ir plėtros projektams įgyvendinti, Europos Sąjungos fondų, paskolų, kitų lėšų.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2363, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14733
+
+12. Vyriausybė ar jos įgaliota institucija sudaro sutartį su viešosios geležinkelių infrastruktūros valdytoju dėl viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo. Sutartis sudaroma ne trumpesniam kaip 3 metų laikotarpiui. Sutartyje nustatomi siektini viešosios geležinkelių infrastruktūros parametrai, priemonės viešosios geležinkelių infrastruktūros išlaidoms ir rinkliavų už viešosios geležinkelių infrastruktūros valdytojo teikiamas paslaugas dydžiams mažinti, šių priemonių įgyvendinimo vertinimo kriterijai, valstybės biudžeto lėšos, skiriamos šioms priemonėms įgyvendinti ir viešosios geležinkelių infrastruktūros valdymo veiklos įplaukoms ir išlaidoms subalansuoti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2363, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14733
+
+13. Rinkliavų už viešosios geležinkelių infrastruktūros valdytojo teikiamas paslaugas lėšos ir valstybės lėšos, skirtos viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti, turi būti apskaitomos atskirai ir negali būti naudojamos kitai veiklai.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2363, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14733
 
 Straipsnio pakeitimai:
 
@@ -1116,23 +1174,47 @@ Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 
 1. Viešosios geležinkelių infrastruktūros objektų užimamą valstybinę žemę Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos pagal patikėjimo sutartis Vyriausybės nustatyta tvarka perduoda valdyti, naudoti ir disponuoti ja turto patikėjimo teise viešosios geležinkelių infrastruktūros valdytojui.
 
-Straipsnio dalies pakeitimai:
+2. Viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklypus (ar jų dalis), nenaudojamus viešosios geležinkelių infrastruktūros valdytojo veiklai vykdyti, viešosios geležinkelių infrastruktūros valdytojas gali išnuomoti Vyriausybės nustatyta tvarka šiais atvejais ir sąlygomis:
 
-Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+1) ne aukciono būdu – asmenims, nuosavybės teise valdantiems statinius (išskyrus laikinuosius statinius, inžinerinius tinklus ir neturinčius aiškios funkcinės priklausomybės ar apibrėžto naudojimo arba ūkinės veiklos pobūdžio statinius, kurie tarnauja pagrindiniam statiniui ar įrenginiui arba jo priklausiniui), esančius viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklype (ar jo dalyje), kurį (kurią) tie statiniai užima ir kuris (kuri) būtinas (būtina) jiems naudoti pagal paskirtį, – ne ilgesniam kaip 20 metų terminui (į šį terminą įskaitomas nuomos sutarties termino pratęsimas);
 
-2. Viešosios geležinkelių infrastruktūros objektų užimama valstybinė žemė gali būti išnuomota viešiesiems interesams tenkinti aukciono būdu Vyriausybės nustatyta tvarka didžiausią nuomos mokestį pasiūliusiam asmeniui. Jeigu viešosios geležinkelių infrastruktūros objektų užimama valstybinė žemė užstatyta fiziniams ar juridiniams asmenims nuosavybės teise priklausančiais ar jų nuomojamais pastatais, šiems asmenims ji gali būti išnuomota ne aukciono būdu ne ūkinei komercinei veiklai vykdyti teisės aktų nustatyta tvarka.
+2) ne aukciono būdu – asmenims, nuomojantiems statinius (išskyrus laikinuosius statinius, inžinerinius tinklus ir neturinčius aiškios funkcinės priklausomybės ar apibrėžto naudojimo arba ūkinės veiklos pobūdžio statinius, kurie tarnauja pagrindiniam statiniui ar įrenginiui arba jo priklausiniui) viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklype (ar jo dalyje), kurį (kurią) tie statiniai užima ir kuris (kuri) būtinas (būtina) jiems naudoti pagal paskirtį, – nuomos terminui, kuris negali būti ilgesnis kaip 20 metų (į šį terminą įskaitomas nuomos sutarties termino pratęsimas);
 
-3. Lėšas, gautas iš viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės nuomos, viešosios geležinkelių infrastruktūros valdytojas privalo apskaityti atskirai ir naudoti tik viešosios geležinkelių infrastruktūros priežiūrai, atnaujinimui, modernizavimui ir plėtrai.
+3) aukciono būdu – asmenims visais kitais atvejais, nenurodytais šios dalies 1 ir 2 punktuose, – ne ilgesniam kaip 20 metų terminui (į šį terminą įskaitomas nuomos sutarties termino pratęsimas).
 
-4. Viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės subnuoma draudžiama.
+3. Viešosios geležinkelių infrastruktūros valdytojas turi teisę nutraukti viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklypo (ar jo dalies) nuomos sutartį prieš terminą, jeigu išnuomoto žemės sklypo (ar jo dalies) reikia viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti. Toks nuomos sutarties nutraukimo pagrindas numatomas viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklypo (ar jo dalies) nuomos sutartyje. Šiuo atveju viešosios geležinkelių infrastruktūros valdytojas turi teisę nutraukti viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklypo (ar jo dalies) nuomos sutartį prieš terminą, apie tai pranešęs viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklypo (ar jo dalies) nuomininkui raštu prieš 2 mėnesius iki šios sutarties nutraukimo. Viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklypo (ar jo dalies) nuomos sutarties nutraukimo prieš terminą atveju viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklypo (ar jo dalies) nuomininko dėl tokio viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklypo (ar jo dalies) nuomos sutarties nutraukimo patiriami nuostoliai atlyginami teisės aktų nustatyta tvarka.
 
-5. Viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės nuomos sutartis sudaroma ne ilgesniam kaip 50 metų terminui.
+TAR pastaba. 3 dalyje nustatyti reikalavimai taikomi viešosios geležinkelių infrastruktūros objektų ir šių objektų užimamos valstybinės žemės nuomos sutartims, sudaromoms po įstatymo Nr. XII-2363 įsigaliojimo dienos (2016-07-01).
 
-6. Viešosios geležinkelių infrastruktūros objektų užimama valstybinė žemė, kurią viešosios geležinkelių infrastruktūros valdytojas valdo, naudoja ir ja disponuoja patikėjimo teise, perduodama laikinai neatlygintinai naudotis valstybės institucijoms ir įstaigoms, kurių veikla geležinkelio stotyse privaloma pagal Lietuvos Respublikos įstatymus.
+4. Nuomos mokestis už viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės nuomą nustatomas Vyriausybės nustatyta tvarka. Lėšas, gautas iš viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės nuomos, viešosios geležinkelių infrastruktūros valdytojas privalo apskaityti atskirai ir naudoti tik viešosios geležinkelių infrastruktūros priežiūrai, atnaujinimui, modernizavimui ir plėtrai.
+
+TAR pastaba. 4 dalyje nustatyti reikalavimai taikomi viešosios geležinkelių infrastruktūros objektų ir šių objektų užimamos valstybinės žemės nuomos sutartims, sudaromoms po įstatymo Nr. XII-2363 įsigaliojimo dienos (2016-07-01).
+
+5. Viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės nuomininkas neturi teisės perleisti žemės sklypo (ar jo dalies) nuomos teisės kitiems asmenims, jo (ar jo dalies) įkeisti ar kitaip suvaržyti, negali juo (ar jo dalimi) laiduoti, garantuoti ar kitu būdu užtikrinti savo ir kitų asmenų prievolių įvykdymo. Viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės subnuoma draudžiama.
+
+TAR pastaba. 5 dalyje nustatyti reikalavimai taikomi viešosios geležinkelių infrastruktūros objektų ir šių objektų užimamos valstybinės žemės nuomos sutartims, sudaromoms po įstatymo Nr. XII-2363 įsigaliojimo dienos (2016-07-01).
+
+6. Viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklypo (ar jo dalies) nuomos sutartyje turi būti numatyta, kad viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės nuomininkas, sudarydamas viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklypo (ar jo dalies) nuomos sutartį pagal šio straipsnio 2 dalies 3 punktą, įsipareigoja pasibaigus nuomos terminui (jeigu viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės nuomininkas nedalyvauja viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės aukcione ar jo nelaimi) perleisti jam nuosavybės teise priklausančius statinius naujajam viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės nuomininkui ar viešosios geležinkelių infrastruktūros valdytojui arba šiuos statinius nugriauti:
+
+1) pasibaigus nuomos terminui statiniai perleidžiami naujajam viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės nuomininkui ar viešosios geležinkelių infrastruktūros valdytojui už nepriklausomo turto vertintojo nustatytą turto rinkos vertę;
+
+2) tuo atveju, kai pasibaigus nuomos terminui viešosios geležinkelių infrastruktūros valdytojas nusprendžia, kad viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės nuomininkui nuosavybės teise priklausančius statinius perimti netikslinga, šie statiniai nugriaunami viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės nuomininko lėšomis ir viešosios geležinkelių infrastruktūros objektų užimamos žemės nuomininkui patirti nuostoliai dėl jam nuosavybės teise priklausančių statinių nugriovimo neatlyginami.
+
+TAR pastaba. 6 dalyje nustatyti reikalavimai taikomi viešosios geležinkelių infrastruktūros objektų ir šių objektų užimamos valstybinės žemės nuomos sutartims, sudaromoms po įstatymo Nr. XII-2363 įsigaliojimo dienos (2016-07-01).
+
+7. Šio straipsnio 6 dalyje nustatyti reikalavimai taikomi ir tais atvejais, kai viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklypo (ar jo dalies) nuomos sutartis sudaroma pagal šio straipsnio 2 dalies 1 ir 2 punktus, tačiau tik tiems statiniams, kuriuos nuomininkas pastato viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės sklypo (ar jo dalies) nuomos sutarties galiojimo laikotarpiu.
+
+TAR pastaba. 7 dalyje nustatyti reikalavimai taikomi viešosios geležinkelių infrastruktūros objektų ir šių objektų užimamos valstybinės žemės nuomos sutartims, sudaromoms po įstatymo Nr. XII-2363 įsigaliojimo dienos (2016-07-01).
+
+8. Viešosios geležinkelių infrastruktūros objektų užimama valstybinė žemė, kurią viešosios geležinkelių infrastruktūros valdytojas valdo, naudoja ir ja disponuoja patikėjimo teise, perduodama laikinai neatlygintinai naudotis valstybės institucijoms ir įstaigoms, kurių veikla geležinkelių infrastruktūros objektuose privaloma pagal Lietuvos Respublikos įstatymus.
 
 Kodeksas papildytas straipsniu:
 
 Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
+
+Straipsnio pakeitimai:
+
+Nr. XII-2363, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14733
 
 251 straipsnis. Geležinkelių tinklo veiklos rezultatų gerinimo sistema
 
