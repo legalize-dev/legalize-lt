@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2016-05-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2016-05-01 iki 2016-06-30
+Suvestinė redakcija nuo 2016-07-01 iki 2017-04-07
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
 
@@ -1788,11 +1788,11 @@ Nr. XII-1939, 2015-09-17, paskelbta TAR 2015-09-25, i. k. 2015-14256
 
 2. Asmens sveikatos priežiūros įstaigų medicinos etikos komisijos sudaromos ir veikia pagal Sveikatos apsaugos ministerijos patvirtintus pavyzdinius nuostatus.
 
-82 straipsnis. Savivaldybių sanitarijos inspekcija
+82 straipsnis. Neteko galios nuo 2016-07-01
 
-1. Savivaldybių sanitarijos inspekcija yra specializuotas savivaldybės administracijos padalinys, kontroliuojantis, kaip laikomasi sanitarijos reikalavimų savivaldybės teritorijoje.
+Straipsnio naikinimas:
 
-2. Savivaldybių sanitarijos inspekcijos uždavinius, kompetenciją, struktūrą, jos pareigūnų teises ir pareigas, sanitarinės kontrolės turinį ir tvarką reglamentuoja nuostatai, kuriuos tvirtina Vyriausybė Sveikatos apsaugos ministerijos teikimu.
+Nr. XII-2343, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13910
 
 83 straipsnis. Kitų sveikatinimo veiklos valdymo ir kontrolės institucijų kompetencija
 
@@ -2577,6 +2577,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2228, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00086
 
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 1, 2, 3, 4, 14, 16, 20, 54, 75, 84 straipsnių pakeitimo ir Įstatymo III dalies papildymo IV skyriumi įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2343, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13910
+
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 82 straipsnio pripažinimo netekusiu galios įstatymas
 
 ir trečioji dalys, 94, 95 straipsniai, 96 straipsnis, 98  straipsnio antroji ir
 
