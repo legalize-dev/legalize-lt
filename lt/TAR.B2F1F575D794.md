@@ -4,7 +4,7 @@ identifier: "TAR.B2F1F575D794"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "2015-03-02"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 @D1=19940623;D2=19960430;D3=19960603
 
-Suvestinė redakcija nuo 2015-03-02 iki 2016-06-30
+Suvestinė redakcija nuo 2016-07-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 51-951, i. k. 0941010ISTA000I-509
 
@@ -80,6 +80,12 @@ Nr. XII-1522, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21284
 13) pinigų, brangenybių, vertybinių popierių ir dokumentų saugojimą;
 
 14) pinigų pasinaudojant Lietuvos Respublikos užsienio reikalų ministerijos ar konsulinių įstaigų sąskaitomis pervedimą, jei to reikia konsulinei pagalbai suteikti ir nukentėjusiam asmeniui dėl svarbių priežasčių negalima pervesti pinigų kitais būdais.
+
+15) laikino paso išdavimą.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-1522, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21284
 
 Straipsnio pakeitimas:
 
