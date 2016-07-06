@@ -4,7 +4,7 @@ identifier: "TAR.F628061443C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-12-02"
-last_updated: "2016-07-01"
+last_updated: "2016-07-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F628061443C6"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 46 straipsnis įsigalioja 2010-12-09.
 
 LIETUVOS RESPUBLIKOS PILIETYBĖS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2016-07-01 iki 2016-07-05
+Suvestinė redakcija nuo 2016-07-06 iki 2018-10-30
 
 Įstatymas paskelbtas: Žin. 2010, Nr. 144-7361, i. k. 1101010ISTA0XI-1196
 
@@ -43,7 +43,11 @@ BENDROSIOS NUOSTATOS
 
 2. Asmuo, ištremtas iš okupuotos Lietuvos Respublikos iki 1990 m. kovo 11 d., – iki 1940 m. birželio 15 d. Lietuvos Respublikos pilietybę turėjęs asmuo ar jo palikuonis, kurie 1940 m. birželio 15 d. – 1990 m. kovo 11 d. okupacinių režimų institucijų arba teismų sprendimais buvo prievarta iškeldinti iš Lietuvos dėl pasipriešinimo okupaciniams režimams, politinių, socialinių ar kilmės motyvų.
 
-3. Asmuo, pasitraukęs iš Lietuvos iki 1990 m. kovo 11 d., – iki 1940 m. birželio 15 d. Lietuvos Respublikos pilietybę turėjęs asmuo ar jo palikuonis, iki 1990 m. kovo 11 d. išvykę iš dabartinės Lietuvos Respublikos teritorijos nuolat gyventi į kitą valstybę, jeigu 1990 m. kovo 11 d. jų nuolatinė gyvenamoji vieta buvo ne Lietuvoje.
+3. Asmuo, išvykęs iš Lietuvos iki 1990 m. kovo 11 d., – iki 1940 m. birželio 15 d. Lietuvos Respublikos pilietybę turėjęs asmuo ar jo palikuonis, iki 1990 m. kovo 11 d. išvykę iš dabartinės Lietuvos Respublikos teritorijos nuolat gyventi į kitą valstybę, jeigu 1990 m. kovo 11 d. jų nuolatinė gyvenamoji vieta buvo ne Lietuvoje. Ši sąvoka neapima asmenų, kurie po 1940 m. birželio 15 d. išvyko iš Lietuvos teritorijos į buvusią Sovietų Sąjungos teritoriją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2473, 2016-06-23, paskelbta TAR 2016-07-05, i. k. 2016-18828
 
 4. Kitos valstybės pilietis – asmuo, turintis kitos valstybės, ne Lietuvos Respublikos, pilietybę.
 
@@ -151,9 +155,17 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-2050, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18859
 
-2) yra asmuo, ištremtas iš okupuotos Lietuvos Respublikos iki 1990 m. kovo 11 d. ir įgijęs kitos valstybės pilietybę;
+2) yra asmuo, ištremtas iš okupuotos Lietuvos Respublikos iki 1990 m. kovo 11 d.;
 
-3) yra asmuo, pasitraukęs iš Lietuvos iki 1990 m. kovo 11 d. ir įgijęs kitos valstybės pilietybę;
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2473, 2016-06-23, paskelbta TAR 2016-07-05, i. k. 2016-18828
+
+3) yra asmuo, išvykęs iš Lietuvos iki 1990 m. kovo 11 d.;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2473, 2016-06-23, paskelbta TAR 2016-07-05, i. k. 2016-18828
 
 4) yra šio straipsnio 2 ar 3 punkte nurodyto asmens palikuonis;
 
@@ -926,6 +938,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
 
 Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 2, 5, 7, 20, 21, 24, 26, 30, 31, 32, 36, 42 straipsnių pakeitimo ir Įstatymo papildymo 9-1, 41-1 straipsniais įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2473, 2016-06-23, paskelbta TAR 2016-07-05, i. k. 2016-18828
+
+Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 2 ir 7 straipsnių pakeitimo įstatymas
 
 91 straipsnis. Lietuvos Respublikos pilietybės išsaugojimas
 
