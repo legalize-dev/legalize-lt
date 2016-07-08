@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2016-01-01"
+last_updated: "2016-07-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-07-07
+Suvestinė redakcija nuo 2016-07-08 iki 2016-09-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
