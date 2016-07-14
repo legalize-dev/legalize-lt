@@ -4,7 +4,7 @@ identifier: "TAR.40DFB5151B33"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-22"
-last_updated: "2015-01-01"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.40DFB5151B33"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-07-13
+Suvestinė redakcija nuo 2016-07-14 iki 2018-06-14
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7759, i. k. 1111010ISTA0XI-1868
 
@@ -161,7 +161,11 @@ Elektroninių pinigų leidėjams draudžiama mokėti palūkanas arba teikti kito
 
 8 straipsnis. Atsakomybė už šio įstatymo antrajame skirsnyje numatytų sąlygų nevykdymą ir prašymų (skundų) nagrinėjimo tvarka
 
-Už šio įstatymo antrojo skirsnio pažeidimus ir prašymų (skundų) nagrinėjimo tvarkos pažeidimus mutatis mutandis taikomos Mokėjimų įstatymo šeštojo skyriaus nuostatos.
+Už šio įstatymo antrojo skirsnio pažeidimus ir prašymų (skundų) nagrinėjimo tvarkos pažeidimus mutatis mutandis taikomos Mokėjimų įstatymo devintojo skyriaus nuostatos.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2563, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20317
 
 TREČIASIS SKIRSNIS
 
@@ -862,4 +866,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1107, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13430
 
 Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 12, 20 ir 37 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2563, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20317
+
+Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 8 straipsnio pakeitimo įstatymas
 
