@@ -4,7 +4,7 @@ identifier: "TAR.D790096B17EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-10"
-last_updated: "2016-03-01"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2016-03-01 iki 2016-07-13
+Suvestinė redakcija nuo 2016-07-14 iki 2016-11-14
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
 
@@ -52,7 +52,11 @@ BENDROSIOS NUOSTATOS
 
 3. Šis įstatymas netaikomas švietimo ir socialinėms paslaugoms, finansuojamoms iš valstybės ir savivaldybių biudžetų lėšų, asmens ir visuomenės sveikatos priežiūros paslaugoms, kurių išlaidos pagal įstatymus yra apmokamos (kompensuojamos) iš Privalomojo sveikatos draudimo fondo biudžeto, valstybės ar savivaldybių biudžetų lėšų, aprūpinimui vaistais, taip pat vykdant teismų sprendimus.
 
-4. Tais atvejais, kai taikomas Mokėjimų įstatymas, vietoj šio įstatymo 36 straipsnio 5–9 dalyse nustatytų informacijos reikalavimų, išskyrus šio įstatymo 36 straipsnio 7 dalies 3–8 punktus, 8 dalies 1, 4 ir 5 punktus ir 9 dalies 2 punktą, taikomos Mokėjimų įstatymo 10 ir 17 straipsnių nuostatos.
+4. Tais atvejais, kai taikomas Mokėjimų įstatymas, vietoj šio įstatymo 36 straipsnio 5–9 dalyse nustatytų informacijos reikalavimų, išskyrus šio įstatymo 36 straipsnio 7 dalies 3–8 punktus, 8 dalies 1, 4 ir 5 punktus ir 9 dalies 2 punktą, taikomos Mokėjimų įstatymo 11 ir 18 straipsnių nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2564, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20318
 
 Straipsnio pakeitimas:
 
