@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2016-06-09"
+last_updated: "2016-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2016-06-09 iki 2016-07-14
+Suvestinė redakcija nuo 2016-07-15 iki 2016-11-16
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -2063,7 +2063,11 @@ Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
 
 690 straipsnis. Turto priklausymo skolininkui nustatymas
 
-1. Jeigu išieškojimas nukreipiamas į nekilnojamąjį bei kitą nustatyta tvarka registruojamą turtą, antstolis nustato, ar visas šis turtas priklauso skolininkui, kokia yra tikroji to turto vertė, taip pat ar turtas neįkeistas hipotekos įstaigoje, ar neareštuotas ir kokie yra jam nustatyti apribojimai.
+1. Jeigu išieškojimas nukreipiamas į nekilnojamąjį bei kitą nustatyta tvarka registruojamą turtą, antstolis nustato, ar visas šis turtas priklauso skolininkui, kokia yra tikroji to turto vertė, taip pat ar turtas neįkeistas, ar neareštuotas ir kokie yra jam nustatyti apribojimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2543, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20311
 
 2. Prieš pradedant realizuoti šio straipsnio 1 dalyje nurodytą turtą, vykdomojoje byloje iš atitinkamos registro įstaigos turi būti gauti rašytiniai duomenys apie realizuojamo turto priklausymą skolininkui ir tam turtui uždėtus apribojimus.
 
