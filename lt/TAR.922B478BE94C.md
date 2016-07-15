@@ -4,7 +4,7 @@ identifier: "TAR.922B478BE94C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-24"
-last_updated: "2012-07-01"
+last_updated: "2016-07-15"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.922B478BE94C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,15 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos hipotekos registro įstatymas
 
-Suvestinė redakcija nuo 2012-07-01 iki 2016-07-14
+Įstatymas netenka galios 2022-01-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2725, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00085
+
+Lietuvos Respublikos hipotekos registro įstatymo Nr. I-1544 pripažinimo netekusiu galios įstatymas
+
+Suvestinė redakcija nuo 2016-07-15 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2266, i. k. 0961010ISTA00I-1544
 
@@ -44,9 +52,13 @@ Vilnius
 
 Hipotekos registro objektas yra sutartinė ir priverstinė hipoteka (įkeitimas) ir hipotekos sandoriai.
 
-4 straipsnis. Hipotekos registro tvarkymo įstaigos
+4 straipsnis. Hipotekos registro valdytojas ir tvarkytojas
 
-Hipotekos registrą tvarko vadovaujančioji registro tvarkymo įstaiga – Lietuvos Respublikos teisingumo ministerija ir registro tvarkymo įstaiga – Centrinė hipotekos įstaiga.
+Hipotekos registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, šio registro tvarkytoją skiria Lietuvos Respublikos Vyriausybė.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2547, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19352
 
 5 straipsnis. Hipotekos registro objektų registravimas ir registro duomenų tvarkymas
 
@@ -54,11 +66,19 @@ Hipotekos registro objektai registruojami ir registro duomenys tvarkomi Lietuvos
 
 6 straipsnis. Hipotekos registro finansavimas
 
-Hipotekos registras finansuojamas iš Lietuvos Respublikos valstybės biudžeto lėšų, taip pat iš lėšų, gautų už hipotekos ir įkeitimo sandorių, jų pakeitimo registravimą ir registro duomenų teikimą.
+Hipotekos registras finansuojamas lėšomis, gautomis už registro objektų registravimą, registro duomenų ir kitų paslaugų teikimą, taip pat iš kitų Lietuvos Respublikos teisės aktuose nustatytų finansavimo šaltinių.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2547, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19352
 
 7 straipsnis. Hipotekos registro reorganizavimo ir likvidavimo tvarka
 
-Hipotekos registras reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės registrų įstatymo nustatytais atvejais ir tvarka.
+Hipotekos registras reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo nustatytais atvejais ir tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2547, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19352
 
 51 straipsnis. Hipotekos kreditorių pareiškimų dėl skolos išieškojimo tenkinimo termino atidėjimas
 
@@ -72,7 +92,11 @@ Nr. VIII-668, 1998-03-19, Žin., 1998, Nr. 31-820 (1998-04-01); Žin., 1998, Nr.
 
 8 straipsnis. Kreditorių reikalavimų, atsiradusių iš turto įkeitimo sutarčių, sudarytų iki 1998 m. balandžio 1 d., tenkinimo tvarka
 
-1. Reikalavimus dėl išieškojimo nukreipimo į turtą, įkeistą iki 1998 m. balandžio 1 d., kai duomenys apie šį įkeitimą įrašyti į Hipotekos registro duomenų bazę, kreditoriai gali pareikšti paduodami pareiškimą dėl priverstinio skolos išieškojimo arba pareikšdami ieškinį teismui. Teismas, priėmęs kreditoriaus ieškinį, apie tai per 10 dienų turi raštu pranešti Hipotekos registro tvarkymo įstaigai.
+1. Reikalavimus dėl išieškojimo nukreipimo į turtą, įkeistą iki 1998 m. balandžio 1 d., kai duomenys apie šį įkeitimą įrašyti į Hipotekos registro duomenų bazę, kreditoriai gali pareikšti paduodami pareiškimą dėl priverstinio skolos išieškojimo arba pareikšdami ieškinį teismui. Teismas, priėmęs kreditoriaus ieškinį, apie tai per 10 dienų turi raštu pranešti Hipotekos registro tvarkytojui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2547, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19352
 
 2. Jeigu iki 1998 m. balandžio 1 d. įkeistas turtas pakartotinai įkeičiamas pagal Lietuvos Respublikos civilinį kodeksą arba yra įkeistas pagal Lietuvos Respublikos hipotekos įstatymą ar Lietuvos Respublikos kilnojamojo turto įkeitimo įstatymą ir, pradėjus išieškojimą ne ginčo tvarka pagal hipotekos kreditoriaus pareiškimą, kyla ginčas, išieškojimas ne ginčo tvarka sustabdomas ir pasiūloma į Hipotekos registrą įrašytiems kreditoriams spręsti ginčą ginčo teisenos tvarka.
 
@@ -123,4 +147,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1851, 2011-12-22, Žin., 2012, Nr. 6-187 (2012-01-10), i. k. 1111010ISTA0XI-1851
 
 Lietuvos Respublikos hipotekos registro steigimo įstatymo pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2547, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19352
+
+Lietuvos Respublikos hipotekos registro įstatymo Nr. I-1544 4, 6, 7 ir 8 straipsnių pakeitimo įstatymas
 
