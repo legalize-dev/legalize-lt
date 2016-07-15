@@ -4,7 +4,7 @@ identifier: "TAR.A516DE6B7EC2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-05-22"
-last_updated: "2015-01-01"
+last_updated: "2016-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A516DE6B7EC2"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS ENERGIJOS IŠTEKLIŲ RINKOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-07-14
+Suvestinė redakcija nuo 2016-07-15 iki 2018-04-30
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 63-3164, i. k. 1121010ISTA0XI-2023
 
@@ -42,7 +42,11 @@ BENDROSIOS NUOSTATOS
 
 2. Šis įstatymas taikomas prekybai energijos ištekliais tiek, kiek to nereglamentuoja Lietuvos Respublikos elektros energetikos įstatymas (toliau – Elektros energetikos įstatymas), Lietuvos Respublikos gamtinių dujų įstatymas (toliau – Gamtinių dujų įstatymas), Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas (toliau – Atsinaujinančių išteklių energetikos įstatymas) ir (ar) kiti įstatymai, nustatantys specialiuosius reikalavimus prekybai energija ar energijos ištekliais.
 
-3. Energetikos įmonėms įsigyjant energijos išteklius elektros ir (ar) šilumos energijai gaminti, šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose reglamentuojamam energijos išteklių, skirtų elektros ir (ar) šilumos energijai gaminti, įsigijimo energijos išteklių biržoje būdui turi būti teikiama pirmenybė prieš kitus teisės aktuose numatytus energijos išteklių įsigijimo būdus. Kiti teisės aktuose numatyti energijos išteklių įsigijimo būdai taikytini tada, kai tais būdais įsigyti energijos išteklių, skirtų elektros ir (ar) šilumos energijai gaminti, yra ekonomiškai naudingiau arba dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo atitinkamos biokuro rūšies kiekio ar jo dalies, arba įstatymai nustato energetikos įmonėms privalomus vykdyti reikalavimus dėl energijos išteklių įsigijimo šaltinio ir (ar) būdo.
+3. Neteko galios nuo 2016-07-15.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2498, 2016-06-28, paskelbta TAR 2016-07-04, i. k. 2016-18459
 
 Straipsnio pakeitimai:
 
@@ -511,6 +515,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1432, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20609
 
 Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 2, 8, 9, 10 19-1 straipsnių ir aštuntojo skirsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2498, 2016-06-28, paskelbta TAR 2016-07-04, i. k. 2016-18459
+
+Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 1 straipsnio pakeitimo įstatymas
 
 171 straipsnis. Atsiskaitymas pagal energijos išteklių biržoje sudarytus sandorius
 
