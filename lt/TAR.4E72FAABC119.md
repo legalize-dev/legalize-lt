@@ -4,7 +4,7 @@ identifier: "TAR.4E72FAABC119"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-01"
-last_updated: "2004-05-08"
+last_updated: "2016-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4E72FAABC119"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2004-04-01"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įstatymas dėl Konvencijos dėl testamentų registravimo sistemos sukūrimo ratifikavimo
+
+Suvestinė redakcija nuo 2016-07-15
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 77-2658, i. k. 1041010ISTA0IX-2097
 
 LIETUVOS RESPUBLIKOS Į S T A T Y M A S DĖL KONVENCIJOS DĖL TESTAMENTŲ REGISTRAVIMO SISTEMOS SUKŪRIMO RATIFIKAVIMO
 
@@ -27,11 +31,25 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 2 straipsnis. Lietuvos Respublikos pareiškimas
 
-Vadovaudamasis Konvencijos 2 ir 3 straipsniais, Lietuvos Respublikos Seimas pareiškia, kad Centrinė hipotekos įstaiga yra skiriama atsakinga įstaiga už Konvencijoje nustatytą registravimą, prašymus dėl informacijos ir tarptautinį bendradarbiavimą.
+Vadovaudamasis Konvencijos 2 ir 3 straipsniais, Lietuvos Respublikos Seimas pareiškia, kad testamentų registro tvarkytojas yra skiriamas atsakinga įstaiga už Konvencijoje nustatytą registravimą, prašymus dėl informacijos ir tarptautinį bendradarbiavimą.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2550, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19356
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 LAIKINAI EINANTIS
 
 RESPUBLIKOS PREZIDENTO PAREIGAS                                      ARTŪRAS PAULAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2550, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19356
+
+Lietuvos Respublikos įstatymo dėl Konvencijos dėl testamentų registravimo sistemos sukūrimo ratifikavimo Nr. IX-2097 2 straipsnio pakeitimo įstatymas
 
