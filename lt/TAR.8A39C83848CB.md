@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2016-01-01"
+last_updated: "2016-07-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-07-14
+Suvestinė redakcija nuo 2016-07-15 iki 2016-09-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -1413,7 +1413,7 @@ Nr. XII-1066, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10460
 
 21 straipsnis. Civilinio kodekso nustatytų normų, susijusių su bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų apskaita, taikymas
 
-1. Civilinio kodekso 3.24, 3.25, 3.304 straipsniuose nustatytos normos dėl bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų oficialios apskaitos taikomos toms santuokoms, kurios sudaromos įsigaliojus šiam kodeksui.
+1. Civilinio kodekso 3.24 straipsnyje nustatyta norma dėl bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų oficialios apskaitos taikoma po šio kodekso įsigaliojimo sudarytoms santuokoms.
 
 2. Nuo Lietuvos Respublikos Konstitucijos įsigaliojimo iki Civilinio kodekso įsigaliojimo bažnyčios (konfesijų) nustatyta tvarka sudaryta santuoka sutuoktinių arba vieno iš jų prašymu įtraukiama į apskaitą, jeigu ši santuoka jos sudarymo metu pagal galiojusį teisinį reguliavimą atitiko santuokos sudarymo sąlygas ir po santuokos sudarymo bažnyčios (konfesijų) nustatyta tvarka nebuvo įregistruota nė vieno iš bažnytiniame santuokos dokumente nurodytų sutuoktinių santuoka civilinės metrikacijos įstaigoje. Tokios santuokos pradžia laikoma bažnytiniame santuokos dokumente nurodyta data. Jeigu santuokos įtraukimo į apskaitą metu vienas iš sutuoktinių yra miręs, civilinės metrikacijos įstaiga įrašo atkurtąjį santuokos sudarymo įrašą.
 
@@ -2417,9 +2417,19 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3.261 straipsnis. Vaiko globa (rūpyba) valstybinėse ir nevyriausybinėse globos institucijose
 
-1. Likęs be tėvų globos vaikas apgyvendinamas valstybinėje arba nevyriausybinėje vaikų globos institucijoje, kai nėra galimybės jo globoti šeimoje arba šeimynoje.
+1. Likęs be tėvų globos vaikas apgyvendinamas valstybinėje arba nevyriausybinėje vaikų globos institucijoje tik išimtiniais atvejais, kai nėra galimybės jo globoti šeimoje arba šeimynoje.
 
-2. Vaiko globą (rūpybą) institucijose nustato įstatymai ir kiti teisės aktai.
+2. Vaiko iki trejų metų globa vaikų globos institucijoje įstatymų nustatyta tvarka gali būti nustatyta tik išimtiniais atvejais ir gali trukti ne ilgiau kaip tris mėnesius, išskyrus atvejus, kai Vyriausybės įgaliota institucija pritaria, kad vaiko globa vaikų globos institucijoje tęstųsi ilgiau dėl šių objektyvių priežasčių:
+
+1) vaikui reikalingos specializuotos sveikatos priežiūros ir (ar) slaugos paslaugos, kurių teikimas negali būti užtikrinamas vaikui nustatant globą šeimoje ar šeimynoje arba
+
+2) vaiko išskyrimas su broliais, seserimis pažeistų geriausius jo interesus, arba
+
+3) kai globa nustatoma dėl skubaus vaiko paėmimo iš šeimos ir nėra galimybių vaikui nustatyti globą šeimoje arba šeimynoje.
+
+3. Vaiko globą (rūpybą) institucijose nustato įstatymai ir kiti teisės aktai.
+
+TAR pastaba. 3.261 straipsnio nuostatos dėl apribojimo nustatant vaiko iki trejų metų globą vaikų globos institucijoje netaikomos iki įstatymo Nr. XII-1879 įsigaliojimo (2017-01-01) nustatytai vaiko globai.
 
 3.280 straipsnis. Civilinės būklės aktus registruojančios įstaigos ir jų kompetencija
 
@@ -2723,7 +2733,7 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 2. Užsienio valstybių piliečių prašymus įvaikinti Lietuvos Respublikos pilietį, gyvenantį Lietuvos Respublikoje arba užsienio valstybėje, nagrinėja Vilniaus apygardos teismas.
 
-3. Prašymas įvaikinti nagrinėjamas ypatingosios teisenos tvarka. Įsiteisėjusį teismo sprendimą teismas per tris darbo dienas išsiunčia civilinės metrikacijos įstaigai, įregistravusiai vaiko gimimą.
+3. Prašymas įvaikinti nagrinėjamas ypatingosios teisenos tvarka. Įsiteisėjusį teismo sprendimą įvaikinti teismas ne vėliau kaip kitą darbo dieną po šio sprendimo įsiteisėjimo dienos privalo elektroninių ryšių priemonėmis išsiųsti vaiko gimimą įregistravusiai civilinės metrikacijos įstaigai.
 
 3.221 straipsnis. Įvaikinimo konfidencialumas
 
@@ -2957,7 +2967,7 @@ NEPILNAMEČIŲ GLOBA IR RŪPYBA
 
 1. Vaiko globos (rūpybos) nustatymo principai:
 
-1) vaiko interesų pirmumas;
+1) geriausių vaiko interesų pirmumas;
 
 2) pirmumo teisę tapti globėjais (rūpintojais) turi vaiko artimieji giminaičiai, jeigu tai atitinka vaiko interesus;
 
@@ -2991,7 +3001,11 @@ NEPILNAMEČIŲ GLOBA IR RŪPYBA
 
 3.253 straipsnis. Vaiko laikinoji globa (rūpyba)
 
-Vaiko laikinoji globa (rūpyba) – laikinai be tėvų globos likusio vaiko priežiūra, auklėjimas, jo teisių ir teisėtų interesų atstovavimas bei gynimas šeimoje, šeimynoje ar institucijoje. Vaiko laikinosios globos (rūpybos) tikslas – grąžinti vaiką į šeimą.
+1. Vaiko laikinoji globa (rūpyba) – laikinai be tėvų globos likusio vaiko priežiūra, auklėjimas, jo teisių ir teisėtų interesų atstovavimas bei gynimas šeimoje, šeimynoje ar institucijoje. Vaiko laikinosios globos (rūpybos) tikslas – grąžinti vaiką į šeimą.
+
+2. Vaiko laikinoji globa (rūpyba) trunka ne ilgiau kaip dvylika mėnesių. Valstybinė vaiko teisių apsaugos institucija Vyriausybės nustatyta tvarka ir terminais informuoja Vyriausybės įgaliotą instituciją apie atvejus, kai vaiko laikinoji globa (rūpyba) trunka ilgiau kaip dvylika mėnesių. Vyriausybės įgaliota institucija per mėnesį nuo šios informacijos gavimo dienos Vyriausybės nustatyta tvarka įvertina šeimai teiktų socialinių paslaugų efektyvumą ir galimybes grąžinti vaiką į šeimą ir įpareigoja valstybinę vaiko teisių apsaugos instituciją priimti sprendimą grąžinti vaiką į šeimą arba sprendimą tęsti vaiko laikinąją globą ir paslaugų teikimą šeimai, arba kreiptis į teismą dėl vaiko nuolatinės globos (rūpybos) nustatymo.
+
+TAR pastaba. Iki įstatymo Nr. XII-1879 įsigaliojimo (2017-01-01) nustatytai vaiko laikinajai globai (rūpybai) 3.253 straipsnio 2 dalyje nustatytas dvylikos mėnesių terminas pradedamas skaičiuoti nuo šio įstatymo įsigaliojimo dienos.
 
 3.254 straipsnis. Vaiko laikinosios globos (rūpybos) nustatymo pagrindai
 
@@ -4365,7 +4379,11 @@ Turto patikėjimas
 
 2. Registruojant šio straipsnio 1 dalyje nurodytus įgaliojimus, Įgaliojimų registrui pateikiami duomenys apie įgaliojimą davusį asmenį, įgaliotinį, įgaliojimą patvirtinusį asmenį (išskyrus atvejus, kai šiame kodekse nustatytais atvejais įgaliojimas neturi būti ir nėra patvirtinamas), įgaliojimo patvirtinimo ir pasibaigimo datas, įgaliojimo turinį ir kiti Įgaliojimų registro nuostatų nustatyti duomenys.
 
-3. Įgaliojimų registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, šio registro tvarkytoja – Centrinė hipotekos įstaiga.
+3. Įgaliojimų registro valdytoja yra Teisingumo ministerija, šio registro tvarkytoją skiria Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2544, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20313
 
 4. Įgaliojimų registro duomenys tvarkomi Įgaliojimų registro nuostatų nustatyta tvarka.
 
@@ -10220,6 +10238,38 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2126, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19742
 
 Lietuvos Respublikos civilinio kodekso pakeitimo įstatymo Nr. XII-1566 72 straipsnio pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1879, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11177
+
+Lietuvos Respublikos civilinio kodekso 3.249, 3.253 ir 3.261 straipsnių pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+
+Lietuvos Respublikos civilinio kodekso 2.18, 2.19, 3.8, 3.18, 3.24, 3.37, 3.66, 3.138, 3.139, 3.140, 3.142, 3.143, 3.144, 3.145, 3.147, 3.152, 3.157, 3.167, 3.220, 4.255 straipsnių pakeitimo, 3.19, 3.20, 3.21, 3.22, 3.23, 3.25 straipsnių ir Kodekso trečiosios knygos VIII dalies pripažinimo netekusiais galios įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2125, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19718
+
+Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo Nr. VIII-1864 21 straipsnio pakeitimo įstatymas
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2544, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20313
+
+Lietuvos Respublikos civilinio kodekso 2.11-1, 2.138-1, 3.103, 3.125, 5.32 ir 5.50 straipsnių pakeitimo įstatymas
 
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
