@@ -4,7 +4,7 @@ identifier: "TAR.97BDCD719E57"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-12-17"
-last_updated: "2011-07-01"
+last_updated: "2016-07-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.97BDCD719E57"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos veterinarijos įstatymas
 
-Suvestinė redakcija nuo 2011-07-01 iki 2016-07-15
+Suvestinė redakcija nuo 2016-07-16 iki 2018-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 3-0; Žin. 1992, Nr.2-15, i. k. 091XX01ISTA00I-2110
 
@@ -108,7 +108,11 @@ VALSTYBINĖ VETERINARIJA
 
 2. Valstybinė maisto ir veterinarijos tarnyba yra Vyriausybės įstaiga.
 
-3. Valstybinės maisto ir veterinarijos tarnybos nuostatus ir Valstybinės maisto ir veterinarijos tarnybos administracijos struktūrą tvirtina Vyriausybė.
+3. Neteko galios nuo 2016-07-16.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2539, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20660
 
 6 straipsnis. Valstybinės maisto ir veterinarijos tarnybos kompetencija
 
@@ -443,6 +447,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1189, 2010-11-30, Žin., 2010, Nr. 148-7563 (2010-12-18), i. k. 1101010ISTA0XI-1189
 
 Lietuvos Respublikos veterinarijos įstatymo pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2539, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20660
+
+Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 5 straipsnio pakeitimo įstatymas
 
 161 straipsnis. Gyvulių registravimas ir identifikavimas
 
