@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2016-06-16"
+last_updated: "2016-07-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2016-06-16 iki 2016-07-15
+Suvestinė redakcija nuo 2016-07-16 iki 2017-06-27
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -152,7 +152,7 @@ Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 6) akcinė bendrovė LITGRID AB;
 
-7) akcinė bendrovė AB LESTO;
+7) akcinė bendrovė „Energijos skirstymo operatorius“;
 
 8) akcinė bendrovė „Klaipėdos nafta“;
 
@@ -160,7 +160,13 @@ Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 10) suskystintų gamtinių dujų terminalo operatorius;
 
-11) suskystintų gamtinių dujų terminalo projekto įgyvendinimo bendrovė.
+11) suskystintų gamtinių dujų terminalo projekto įgyvendinimo bendrovė;
+
+12) akcinė bendrovė Giraitės ginkluotės gamykla.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2593, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20670
 
 2. Strateginę reikšmę nacionaliniam saugumui turi įrenginiai, sudarantys 110 kV ir aukštesnės įtampos elektros perdavimo tinklą ir naftos terminalas, esantis Klaipėdos valstybinio jūrų uosto teritorijoje, bei jų priklausiniai. Šie įrenginiai gali priklausyti nuosavybės teise arba būti naudojami valstybės, valstybės (tiesiogiai arba netiesiogiai) kontroliuojamų juridinių asmenų arba kitų nacionalinio saugumo interesus atitinkančių subjektų.
 
@@ -178,23 +184,19 @@ Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 1) akcinė bendrovė „ORLEN Lietuva“;
 
-2) akcinė bendrovė „Lietuvos dujos“;
+2) projekto įgyvendinimo bendrovė, numatyta Branduolinės (atominės) elektrinės įstatyme;
 
-3) projekto įgyvendinimo bendrovė, numatyta Branduolinės (atominės) elektrinės įstatyme;
+3) akcinė bendrovė TEO LT, AB;
 
-4) akcinė bendrovė TEO LT, AB;
+4) akcinė bendrovė „Achema“;
 
-5) akcinė bendrovė „Achema“;
+5) vandens tiekimo ir nuotekų šalinimo paslaugas teikiančios įmonės pagal Vyriausybės patvirtintą sąrašą;
 
-6) vandens tiekimo ir nuotekų šalinimo paslaugas teikiančios įmonės pagal Vyriausybės patvirtintą sąrašą;
+6) akcinė bendrovė AB „Amber Grid.
 
-7) akcinė bendrovė Giraitės ginkluotės gamykla.
+Straipsnio dalies pakeitimai:
 
-8) akcinė bendrovė AB „Amber Grid.
-
-Papildyta straipsnio punktu:
-
-Nr. XII-853, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04861
+Nr. XII-2593, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20670
 
 2. Vandens tiekimo ir nuotekų šalinimo paslaugas teikiančios įmonės, nurodytos šio straipsnio 1 dalies 6 punkte, nuosavybės teise turi priklausyti valstybei ar savivaldybei arba valstybei ar savivaldybei turi priklausyti daugiau kaip 3/4 balsų visuotiniame akcininkų susirinkime suteikiančių šių įmonių akcijų.
 
@@ -405,6 +407,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2396, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16847
 
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 3 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2593, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20670
+
+Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 4 ir 5 straipsnių pakeitimo įstatymas
 
 7 straipsnis. Potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimas
 
