@@ -4,7 +4,7 @@ identifier: "TAR.56935A08DD06"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-13"
-last_updated: "2015-05-01"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.56935A08DD06"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos jūros aplinkos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2019-07-24
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2731, i. k. 0971010ISTAVIII-512
 
@@ -196,7 +196,11 @@ Lietuvos Respublikos jūros rajone esantys įrenginiai turi būti eksploatuojami
 
 13 straipsnis. Grunto kasimas ir šalinimas jūroje
 
-1. Lietuvos Respublikos jūros rajone gruntas gali būti šalinamas vadovaujantis aplinkos ministro nustatyta tvarka gavus Aplinkos ministerijos įgaliotos institucijos leidimą. Prieš išduodant leidimą šalinti gruntą išskirtinėje ekonominėje zonoje, Aplinkos ministerija ar jos įgaliota institucija konsultuojasi su Helsinkio komisija.
+1. Lietuvos Respublikos jūros rajone gruntas gali būti šalinamas tik turint tam teisę (turint aplinkos ministro nustatyta tvarka Aplinkos ministerijos įgaliotos institucijos išduotą leidimą šalinti gruntą, neviršijant leidime šalinti gruntą nustatyto grunto kiekio ir šalinant leidime šalinti gruntą nurodytoje vietoje). Prieš išduodant leidimą šalinti gruntą išskirtinėje ekonominėje zonoje, Aplinkos ministerija ar jos įgaliota institucija konsultuojasi su Helsinkio komisija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2303, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10408
 
 2. Leidimų kasti gruntą jūrų ir jūrų uostų akvatorijose ir šalinti iškastą gruntą jūroje išdavimo taisykles tvirtina aplinkos ministras.
 
@@ -296,9 +300,13 @@ Lietuvos Respublikos jūros rajono vertingiems arba būdingiems gamtiniams kompl
 
 30 straipsnis. Lietuvos Respublikos jūros rajono tyrimai
 
-1. Aplinkos ministerija ar jos įgaliota institucija koordinuoja Lietuvos Respublikos fizinių ir juridinių asmenų mokslinius tyrimus, susijusius su Lietuvos Respublikos jūros rajono gamtos ištekliais, jų naudojimu ir aplinkos apsauga, o suderinusi su Užsienio reikalų ministerija pagal Jūrų teisės konvencijos nuostatas nustato sąlygas ir išduoda leidimus užsienio šalių fiziniams ir juridiniams asmenims, jų filialams ar kitoms organizacijoms atlikti Lietuvos Respublikos jūros rajone mokslinius tyrimus. Jeigu tyrimai susiję su Helsinkio komisijos vykdoma Baltijos jūros stebėsenos programa išskirtinėje ekonominėje zonoje, leidimų tyrimams nereikia.
+1. Aplinkos ministerija ar jos įgaliota institucija koordinuoja Lietuvos Respublikos fizinių ir juridinių asmenų mokslinius tyrimus, susijusius su Lietuvos Respublikos jūros rajono gamtos ištekliais, jų naudojimu ir aplinkos apsauga, o suderinusi su Užsienio reikalų ministerija pagal Jūrų teisės konvencijos nuostatas nustato sąlygas ir išduoda leidimus užsienio valstybių fiziniams asmenims, juridiniams asmenims ar kitoms organizacijoms arba šių juridinių asmenų ar kitų organizacijų padaliniams atlikti Lietuvos Respublikos jūros rajone mokslinius tyrimus. Jeigu tyrimai susiję su Helsinkio komisijos vykdoma Baltijos jūros stebėsenos programa išskirtinėje ekonominėje zonoje, leidimų tyrimams nereikia.
 
-2. Leidimų užsienio šalių fiziniams ir juridiniams asmenims, jų filialams ar kitoms organizacijoms atlikti Lietuvos Respublikos jūros rajone mokslinius tyrimus išdavimo tvarkos aprašą tvirtina aplinkos ministras ir užsienio reikalų ministras.
+2. Leidimų užsienio valstybių fiziniams asmenims, juridiniams asmenims ar kitoms organizacijoms, šių juridinių asmenų ar kitų organizacijų padaliniams atlikti Lietuvos Respublikos jūros rajone mokslinius tyrimus išdavimo tvarkos aprašą tvirtina aplinkos ministras ir užsienio reikalų ministras.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2303, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10408
 
 SEPTINTASIS SKIRSNIS
 
@@ -511,6 +519,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1656, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06590
 
 Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 3 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2303, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10408
+
+Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 13 ir 30 straipsnių pakeitimo įstatymas
 
 35 straipsnis. Pasirengimas likviduoti teršimo incidentus
 
