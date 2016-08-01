@@ -4,7 +4,7 @@ identifier: "TAR.1A98CE535B1C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-20"
-last_updated: "2006-05-20"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1A98CE535B1C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aplinkos monitoringo įstatymas
 
-Suvestinė redakcija nuo 2006-05-20 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2020-04-30
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 112-2824, i. k. 0971010ISTAVIII-529
 
@@ -48,7 +48,11 @@ Aplinkos monitoringo įstatymas nustato aplinkos monitoringo turinį, struktūr�
 
 4. Savivaldybių aplinkos monitoringas – savivaldybių lygmeniu joms priskirtose teritorijose vykdomas aplinkos monitoringas.
 
-5. Ūkio subjektai – fiziniai ar juridiniai asmenys, ar juridinių asmenų, įsisteigusių Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse, filialai Lietuvos Respublikoje, eksploatuojantys ūkinės veiklos objektus ir vykdantys ūkinę veiklą, turinčią ar galinčią turėti įtakos gamtinei aplinkai.
+5. Ūkio subjektai – fiziniai ar juridiniai asmenys (įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat jų padalinius), eksploatuojantys ūkinės veiklos objektus ir (ar) vykdantys ūkinę veiklą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2299, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10403
 
 6. Ūkio subjektų aplinkos monitoringas – teisės aktų nustatyta tvarka ūkio subjektų vietiniu lygmeniu vykdomas aplinkos monitoringas.
 
@@ -146,7 +150,11 @@ APLINKOS MONITORINGO ĮGYVENDINIMAS
 
 2. Ūkio subjektų aplinkos monitoringas vykdomas pagal ūkio subjektų aplinkos monitoringo programą, kurią rengia patys ūkio subjektai. Ūkio subjektų aplinkos monitoringo programų turinį, jų rengimo, derinimo, vykdymo, kontrolės užtikrinimo ir informacijos teikimo tvarką nustato Ūkio subjektų aplinkos monitoringo nuostatai. Šiuos nuostatus rengia ir tvirtina Aplinkos ministerija.
 
-3. Ūkio subjektų aplinkos monitoringo programa turi būti suderinta ir patvirtinta Ūkio subjektų aplinkos monitoringo nuostatų nustatyta tvarka.
+3. Ūkio subjektų aplinkos monitoringo programa turi būti pateikta, suderinta ir patvirtinta Ūkio subjektų aplinkos monitoringo nuostatų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2299, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10403
 
 10 straipsnis. Aplinkos monitoringo kontrolė
 
@@ -166,13 +174,21 @@ APLINKOS MONITORINGO ĮGYVENDINIMAS
 
 4. Monitoringo duomenų kokybė turi būti užtikrinama diegiant duomenų kokybės vadybos sistemas, atitinkančias teisės aktų reikalavimus.
 
-12 straipsnis. Aplinkos monitoringo duomenų ir informacijos kaupimas ir saugojimas
+12 straipsnis. Aplinkos monitoringo duomenų ir informacijos rinkimas, saugojimas ir teikimas
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XII-2299, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10403
 
 1. Valstybinio aplinkos monitoringo duomenis ir informaciją pagal kompetenciją renka ir saugo Aplinkos ministerija arba jos įgaliotos institucijos bei kitos valstybinį aplinkos monitoringą vykdančios valstybės institucijos arba jų įgaliotos institucijos Valstybinio aplinkos monitoringo nuostatų nustatyta tvarka.
 
 2. Savivaldybių aplinkos monitoringo duomenys ir informacija renkama ir saugoma Bendrųjų savivaldybių aplinkos monitoringo nuostatų nustatyta tvarka.
 
-3. Ūkio subjektų aplinkos monitoringo duomenys ir informacija renkama ir saugoma Ūkio subjektų aplinkos monitoringo nuostatų nustatyta tvarka.
+3. Ūkio subjektų aplinkos monitoringo duomenys ir informacija renkama, saugoma ir teikiama Ūkio subjektų aplinkos monitoringo nuostatų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2299, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10403
 
 13 straipsnis. Aplinkos monitoringo informacijos pateikimas
 
@@ -223,6 +239,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-595, 2006-05-04, Žin., 2006, Nr. 57-2025 (2006-05-20), i. k. 1061010ISTA000X-595
 
 Lietuvos Respublikos aplinkos monitoringo įstatymo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2299, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10403
+
+Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 2, 9 ir 12 straipsnių pakeitimo įstatymas
 
 17 straipsnis. Aplinkos monitoringo informacijos pateikimas
 
