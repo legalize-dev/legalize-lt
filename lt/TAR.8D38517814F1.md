@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2016-01-01"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2017-07-11
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -25,11 +25,7 @@ Nauja įstatymo redakcija nuo 2003-01-01:
 
 Nr. IX-1004, 2002-07-01, Žin., 2002, Nr. 72-3016 (2002-07-17)
 
-LIETUVOS RESPUBLIKOS
-
-ATLIEKŲ TVARKYMO
-
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ATLIEKŲ TVARKYMO ĮSTATYMAS
 
 1998 m. birželio 16 d. Nr. VIII-787 Vilnius
 
@@ -373,13 +369,21 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 4 straipsnis. Atliekų tvarkymo organizavimas
 
-1. Atliekų turėtojas šio Įstatymo ir kitų teisės aktų nustatyta tvarka turi atliekas perduoti atliekų tvarkytojams arba gali tvarkyti atliekas pats. Komunalinės atliekos tvarkomos savivaldybių atliekų tvarkymo taisyklėse nustatyta tvarka.
+1. Atliekų turėtojas šio Įstatymo ir kitų teisės aktų nustatyta tvarka turi atliekas perduoti atliekų tvarkytojams arba gali tvarkyti atliekas pats. Atliekos tvarkomos aplinkos ministro patvirtintose Atliekų tvarkymo taisyklėse nustatyta tvarka. Komunalinės atliekos tvarkomos savivaldybių atliekų tvarkymo taisyklėse nustatyta tvarka. Atliekų turėtojas pagal sudarytą rašytinės formos sutartį dėl atliekų naudojimo ir (ar) šalinimo atliekas perduoda atliekų tvarkytojams, turintiems teisę tvarkyti atliekas, išskyrus komunalinių atliekų perdavimą vadovaujantis šio Įstatymo 301 straipsniu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
 
 2. Atliekų turėtojai privalo rūšiuoti atliekas jų susidarymo vietoje. Išrūšiavus atliekas jų susidarymo vietoje, atliekas surenkančios įmonės privalo atlikti rūšiuojamąjį atliekų surinkimą.
 
 3. Neteko galios nuo 2011 m. gegužės 3 d.
 
-4. Atliekas tvarkančios įmonės vadovaujasi darbuotojų saugos ir sveikatos teisės aktais.
+4. Atliekas tvarkančios įmonės vadovaujasi šio Įstatymo ir aplinkos ministro nustatytais atliekų tvarkymo reikalavimais, taip pat darbuotojų saugos ir sveikatos teisės aktais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
 
 5. Atliekų vežimą tranzitu, išvežimą iš Lietuvos Respublikos ir įvežimą į Lietuvos Respubliką reglamentuoja Lietuvos Respublikos, Europos Sąjungos teisės aktai ir tarptautinės sutartys. Aplinkos ministerijos įgaliota institucija pagal kompetenciją kontroliuoja atliekų vežimo tranzitu, išvežimo iš Lietuvos Respublikos ir įvežimo į Lietuvos Respubliką reikalavimų vykdymą pagal 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1013/2006 dėl atliekų vežimo (OL 2006 L 190, p. 1) su paskutiniais pakeitimais, padarytais 2010 m. gegužės 12 d. Komisijos reglamentu (ES) Nr. 413/2010 (OL 2010 L 119, p. 1), ir kitų Lietuvos Respublikos, Europos Sąjungos teisės aktų ir tarptautinių sutarčių nuostatas.
 
@@ -396,6 +400,18 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 11. Pavojingąsias atliekas surenkančios, vežančios, šalinančios ar naudojančios įmonės apdraudžia savo civilinę atsakomybę už žalą, kuri, vykdant tokią veiklą, gali būti padaryta tretiesiems asmenims ir (ar) jų turtui bei aplinkai.
 
 12. Įmonės, dėl kurių veiklos susidaro atliekų, nelaikomos atliekų tvarkytojais, jeigu atliekos laikinai laikomos jų susidarymo vietoje iki jų surinkimo.
+
+13. Neturintis teisės pats apdoroti atliekas asmuo, kuris apdorojo atliekas arba kuris perdavė atliekas šio straipsnio 9 dalyje nurodytiems subjektams neturėdamas teisėtą atliekų perdavimą patvirtinančio dokumento, laikomas apdorojusiu atliekas neturint tam teisės.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
+
+14. Sutartis dėl atliekų naudojimo ir (ar) šalinimo, sudaryta su asmenimis, neturinčiais teisės tvarkyti šias atliekas, yra niekinė.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
 
 Straipsnio pakeitimai:
 
@@ -2009,7 +2025,17 @@ ALYVOS ATLIEKŲ TVARKYMO YPATUMAI
 
 16. Baterijų ir akumuliatorių atliekų tvarkytojai privalo baterijų ir akumuliatorių atliekas surinkti atskirai, nemaišyti jų su kitomis atliekomis ar medžiagomis ir tvarkyti pagal atliekų tvarkymo prioritetus aplinkai ir visuomenės sveikatai saugiu būdu, taikydami baterijų ir akumuliatorių atliekų tvarkymo geriausiai prieinamus gamybos būdus.
 
-17. Šio straipsnio 1 dalies 5 punkto nuostatos netaikomos baterijas ir akumuliatorius Lietuvos Respublikos teritorijoje pagaminantiems ar įvežantiems į Lietuvos Respublikos teritoriją ir savoms reikmėms sunaudojantiems gamintojams ir (ar) importuotojams.
+17. Baterijų ir akumuliatorių gamintojai ir (ar) importuotojai, kurie nevykdo Vyriausybės ar jos įgaliotos institucijos nustatytų baterijų ir akumuliatorių atliekų tvarkymo užduočių, privalo Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka mokėti mokestį už aplinkos teršimą apmokestinamųjų gaminių atliekomis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
+
+18. Šio straipsnio 1 dalies 5 punkto nuostatos netaikomos baterijas ir akumuliatorius Lietuvos Respublikos teritorijoje pagaminantiems ar įvežantiems į Lietuvos Respublikos teritoriją ir savoms reikmėms sunaudojantiems gamintojams ir (ar) importuotojams.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
 
 Straipsnio pakeitimai:
 
