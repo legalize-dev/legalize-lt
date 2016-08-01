@@ -4,7 +4,7 @@ identifier: "TAR.5D6D055CC00C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-22"
-last_updated: "2015-10-01"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2015-10-01 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2016-09-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
 
@@ -320,7 +320,17 @@ Nr. XI-2362, 2012-11-06, Žin., 2012, Nr. 132-6688 (2012-11-15)
 
 8) Ginklų ir šaudmenų kontrolės įstatymo nustatyta tvarka saugoti, laikyti ir nešioti šaunamąjį ginklą, o šio straipsnio 3–9 dalyse nustatyta tvarka naudoti šaunamąjį ginklą, fizinę ir psichinę prievartą bei specialiąsias priemones;
 
-9) valstybiniai miškų pareigūnai turi ir kitų įstatymų suteiktų teisių.
+9) įstatymų nustatyta tvarka surašyti juridinių asmenų padarytų pažeidimų protokolus, nagrinėti bylas dėl ekonominių sankcijų skyrimo, skirti ekonomines sankcijas juridiniams asmenims už šio įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Lietuvos Respublikos aplinkos apsaugos įstatyme;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
+
+10) valstybiniai miškų pareigūnai turi ir kitų įstatymų suteiktų teisių.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
 
 3. Atlikdamas tarnybines pareigas valstybinis miškų pareigūnas turi teisę panaudoti fizinę prievartą (fizinę jėgą, kovinių imtynių veiksmus) ir psichinę prievartą (įspėjimą apie ketinimą panaudoti fizinę prievartą, specialiąsias priemones ar šaunamąjį ginklą), specialiąsias priemones (įstatymų leidžiamas priemones (gumines lazdas, antrankius ir surišimo priemones, asmens apsaugai skirtas dujas, transporto priemonių priverstinio stabdymo priemones, elektrošoko įrenginius, tarnybinius šunis), skirtas savigynai, asmenims sulaikyti, sutramdyti, kai jie kelia ar gali kelti grėsmę valstybiniam miškų pareigūnui, taip pat skirtas transporto priemonėms priverstinai stabdyti):
 
@@ -400,6 +410,12 @@ Nr. XII-761, 2014-01-23, paskelbta TAR 2014-01-23, i. k. 2014-00791
 
 4. Uždraustų ar apribotų lankyti miškų ribas rodo miško valdytojo, savininko ar naudotojo pastatyti informaciniai ženklai.
 
+5. Miškų lankymą reglamentuoja Lankymosi miške taisyklės. Šias taisykles tvirtina aplinkos ministras.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
+
 II SKYRIUS
 
 MIŠKO NAUDOJIMAS
@@ -418,13 +434,27 @@ MIŠKO NAUDOJIMAS
 
 6. Draudžiama atlikti kirtimus ir naudoti kitus miško išteklius negavus nustatyta tvarka išduoto leidimo, kai pagal galiojančius teisės aktus toks leidimas reikalingas.
 
-7. Privačių miškų savininkai Aplinkos ministerijos ir Statistikos departamento nustatyta tvarka teikia informaciją ir statistikos duomenis apie miškų ūkio veiklą savo valdose.
+7. Draudžiama ištraukti ar išvežti savavališkai iškirstus medžius ir krūmus, augusius miško žemėje, ir pagamintą apvaliąją medieną, jei tai pažeidžia aplinkos ministro nustatytą savavališkai iškirstų medžių ir krūmų, augusių miško žemėje, ir pagamintos apvaliosios medienos ištraukimo arba išvežimo tvarką.
 
-8. Apvaliosios medienos ir nenukirsto miško matavimo ir tūrio nustatymo, apvaliosios medienos apskaitos, klasifikavimo ir ženklinimo tvarką nustato Aplinkos ministerija.
+Papildyta straipsnio dalimi:
+
+Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
+
+8. Privačių miškų savininkai Aplinkos ministerijos ir Statistikos departamento nustatyta tvarka teikia informaciją ir statistikos duomenis apie miškų ūkio veiklą savo valdose.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
+
+9. Apvaliosios medienos ir nenukirsto miško matavimo ir tūrio nustatymo, apvaliosios medienos apskaitos, klasifikavimo ir ženklinimo tvarką nustato Aplinkos ministerija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
 
 10 straipsnis. Miško valdytojų, savininkų ir naudotojų teisė naudotis mišku bei jo ištekliais
 
@@ -672,7 +702,11 @@ ATSAKOMYBĖ UŽ MIŠKŲ ĮSTATYMO PAŽEIDIMUS
 
 22 straipsnis. Atsakomybė
 
-Fiziniai ir juridiniai asmenys, pažeidę šio įstatymo reikalavimus, traukiami atsakomybėn įstatymų nustatyta tvarka.
+Asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
 
 23 straipsnis. Neteisėta veika padarytos žalos atlyginimas
 
