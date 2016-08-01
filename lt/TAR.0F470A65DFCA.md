@@ -4,7 +4,7 @@ identifier: "TAR.0F470A65DFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2016-01-01"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2016-10-06
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
 
@@ -47,7 +47,11 @@ Programos lėšas (įplaukas) sudaro:
 
 1) lėšos, nustatyta tvarka išieškotos už aplinkai ir valstybiniams gamtos ištekliams padarytą žalą pažeidus aplinkos apsaugos įstatymus ar kitus aplinkos apsaugą reglamentuojančius teisės aktus;
 
-2) lėšos iš sumokėtų Administracinių teisės pažeidimų bei Baudžiamajame kodeksuose nustatytų baudų už aplinkos apsaugos įstatymų ar kitų aplinkos apsaugą reglamentuojančių teisės aktų pažeidimus;
+2) lėšos iš sumokėtų Lietuvos Respublikos administracinių teisės pažeidimų kodekse ir Lietuvos Respublikos baudžiamajame kodekse nustatytų baudų už aplinkos apsaugos įstatymų ar kitų aplinkos apsaugą reglamentuojančių teisės aktų pažeidimus, taip pat lėšos iš juridinių asmenų (įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat šių juridinių asmenų ir organizacijų padalinius) sumokėtų baudų už aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2297, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10401
 
 3) lėšos, gautos kaip didesnio tarifo mokestis už aplinkos teršimą, kai šis mokestis taikomas už nuslėptą teršalų ir apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį, už normatyvus viršijantį teršalų kiekį, taip pat lėšos iš baudų už nuslėptą, limitus viršijantį, sugadintą valstybinių gamtos išteklių kiekį ar valstybinių gamtos išteklių, kurių panaudojimo sąlygos buvo pablogintos, kiekį;
 
@@ -264,4 +268,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2199, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20900
 
 Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 4 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2297, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10401
+
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 3 straipsnio pakeitimo įstatymas
 
