@@ -4,7 +4,7 @@ identifier: "TAR.FF1083B528B7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-09"
-last_updated: "2015-09-01"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF1083B528B7"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redaguota : 1995 07 21
 
-Suvestinė redakcija nuo 2015-09-01 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2016-10-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
 
@@ -842,7 +842,11 @@ Nr. XI-935, 2010-06-22, Žin., 2010, Nr. 81-4229 (2010-07-10)
 
 7. Regioninių parkų direkcijas taip pat gali steigti savivaldybių tarybos.
 
-8. Veiklą valstybiniuose rezervatuose, valstybiniuose parkuose ir biosferos rezervatuose organizuoja valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijos – biudžetinės įstaigos. Jos atsako už kraštovaizdžio kompleksų ir objektų (vertybių) apsaugą, organizuoja nuolatinę jų priežiūrą ir tvarkymą, skatina pažintinį turizmą, racionalų gamtos išteklių naudojimą, pagal kompetenciją kontroliuoja, kad fizinių ir juridinių asmenų veikla teritorijoje atitiktų nustatytą saugomos teritorijos apsaugos ir naudojimo tvarką, turi kitas direkcijos nuostatų nustatytas teises ir pareigas.
+8. Veiklą valstybiniuose rezervatuose, valstybiniuose parkuose ir biosferos rezervatuose organizuoja valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijos – biudžetinės įstaigos. Jos atsako už kraštovaizdžio kompleksų ir objektų (vertybių) apsaugą, organizuoja nuolatinę jų priežiūrą ir tvarkymą, skatina pažintinį turizmą, racionalų gamtos išteklių naudojimą, pagal kompetenciją kontroliuoja, kad asmenų veikla teritorijoje atitiktų nustatytą saugomos teritorijos apsaugos ir naudojimo tvarką, turi kitas direkcijos nuostatų nustatytas teises ir pareigas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2307, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10415
 
 9. Veiklą valstybiniuose parkuose gali organizuoti bei vykdyti valstybinių parkų direkcijos ir jungtinės tarybos, koordinuojančios santykius tarp valstybinių parkų direkcijų ir savivaldybių institucijų. Jungtinių tarybų nariai yra valstybinių parkų direktoriai bei jų pavaduotojai, skiriami Vyriausybės įgaliotos institucijos nustatyta tvarka, taip pat savivaldybių merai ir (ar) merų pavaduotojai jų sutikimu arba kiti savivaldybės tarybos skiriami savivaldybės atstovai.
 
@@ -914,7 +918,11 @@ VALSTYBINĖ SAUGOMŲ TERITORIJŲ KONTROLĖ
 
 2) įstatymų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus, skirti administracines nuobaudas už šio Įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Administracinių teisės pažeidimų kodekse;
 
-3) reikalauti iš juridinių ir fizinių asmenų, pažeidusių šio Įstatymo ir kitų teisės aktų reikalavimus ar teritorijų planavimo dokumentų, reglamentuojančių veiklą saugomose teritorijose, sprendinius, nutraukti neteisėtus veiksmus;
+3) reikalauti iš asmenų, pažeidusių šio Įstatymo ir kitų teisės aktų reikalavimus ar teritorijų planavimo dokumentų, reglamentuojančių veiklą saugomose teritorijose, sprendinius, nutraukti neteisėtus veiksmus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2307, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10415
 
 4) stabdyti transportą, gabenantį gamtos išteklius, įskaitant medieną ar kitą miško produkciją, tikrinti transporto priemonėse esančių gamtos išteklių įsigijimo dokumentus, taip pat, įtarus neteisėtą gamtos išteklių įsigijimą, tikrinti juos gabenančių asmenų dokumentus, naudoti transporto priemonių priverstinio stabdymo priemones;
 
@@ -970,9 +978,9 @@ DEVINTASIS SKIRSNIS
 
 7. Valstybinių draustinių, valstybinių parkų ir biosferos stebėsenos (monitoringo) teritorijų draustinių, taip pat rekreacinių zonų valstybinė žemė, miškai, vandenys, krūmai, pelkės, akmenynai ir kita nenaudojama žemė neparduodama, išskyrus pagal Lietuvos Respublikos žemės reformos įstatymą parduodamą namų valdų, asmeninio ūkio, taip pat mėgėjų sodo ir sodininkų bendrijų bendrojo naudojimo žemę bei iki 1 hektaro žemės ūkio veiklai tinkamus naudoti žemės plotus, įsiterpusius tarp privačios žemės sklypų.
 
-TAR pastaba. Iki įstatymo Nr. XII-1305 įsigaliojimo žemės reformos žemėtvarkos projekte ar jam prilyginamame žemės sklypo plane, ar kitame žemės valdos projekte, ar teritorijų planavimo dokumente suprojektuoti žemės sklypai parduodami pagal iki šio įstatymo įsigaliojimo galiojusias įstatymų nuostatas. Jeigu asmuo iki šio įstatymo įsigaliojimo teisės aktų, reglamentuojančių žemės reformos žemėtvarkos projektų ir jiems prilyginamų žemės sklypų planų rengimą ir įgyvendinimą, nustatyta tvarka pretendentų gauti (įsigyti) žemės susirinkimo metu pasirinko žemės sklypą tai patvirtindamas parašu žemėtvarkos projekto svarstymo su pretendentais gauti (įsigyti) žemės žiniaraštyje arba pretendentų gauti (įsigyti) žemės susirinkimo protokole (kai rengiamas žemės reformos žemėtvarkos projektui prilyginamas žemės sklypo planas), laikoma, kad toks žemės sklypas suprojektuotas žemės reformos žemėtvarkos projekte ar jam prilyginamame žemės sklypo plane. Jeigu iki šio įstatymo įsigaliojimo nustatyta tvarka žemės sklypui yra nustatytos planavimo sąlygos, laikoma, kad toks žemės sklypas suprojektuotas teritorijų planavimo dokumente. Jeigu iki šio įstatymo įsigaliojimo nustatyta tvarka žemės sklypui nustatyti žemės valdos projekto (išskyrus žemės reformos žemėtvarkos projektą) rengimo reikalavimai, laikoma, kad toks žemės sklypas suprojektuotas žemės valdos projekte.
-
 Straipsnio dalies pakeitimai:
+
+TAR pastaba. Iki įstatymo Nr. XII-1305 įsigaliojimo žemės reformos žemėtvarkos projekte ar jam prilyginamame žemės sklypo plane, ar kitame žemės valdos projekte, ar teritorijų planavimo dokumente suprojektuoti žemės sklypai parduodami pagal iki šio įstatymo įsigaliojimo galiojusias įstatymų nuostatas. Jeigu asmuo iki šio įstatymo įsigaliojimo teisės aktų, reglamentuojančių žemės reformos žemėtvarkos projektų ir jiems prilyginamų žemės sklypų planų rengimą ir įgyvendinimą, nustatyta tvarka pretendentų gauti (įsigyti) žemės susirinkimo metu pasirinko žemės sklypą tai patvirtindamas parašu žemėtvarkos projekto svarstymo su pretendentais gauti (įsigyti) žemės žiniaraštyje arba pretendentų gauti (įsigyti) žemės susirinkimo protokole (kai rengiamas žemės reformos žemėtvarkos projektui prilyginamas žemės sklypo planas), laikoma, kad toks žemės sklypas suprojektuotas žemės reformos žemėtvarkos projekte ar jam prilyginamame žemės sklypo plane. Jeigu iki šio įstatymo įsigaliojimo nustatyta tvarka žemės sklypui yra nustatytos planavimo sąlygos, laikoma, kad toks žemės sklypas suprojektuotas teritorijų planavimo dokumente. Jeigu iki šio įstatymo įsigaliojimo nustatyta tvarka žemės sklypui nustatyti žemės valdos projekto (išskyrus žemės reformos žemėtvarkos projektą) rengimo reikalavimai, laikoma, kad toks žemės sklypas suprojektuotas žemės valdos projekte.
 
 Nr. XII-1305, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16784
 
@@ -1038,7 +1046,11 @@ Nr. XII-746, 2013-12-23, paskelbta TAR 2014-01-06, i. k. 2014-00032
 
 8. Saugomose teritorijose žemės savininkams ir valdytojams gali būti teikiamos žemės mokesčio bei kitos lengvatos įstatymų nustatytais atvejais ir Vyriausybės nustatyta tvarka.
 
-9. Saugomose teritorijose žemės ir kito nekilnojamojo turto savininkai, naudotojai bei valdytojai, kiti juridiniai bei fiziniai asmenys privalo laikytis įstatymų ir kitų teisės aktų, teritorijų planavimo dokumentuose toms teritorijoms nustatytų, taip pat nekilnojamojo turto registre įregistruotų veiklos apribojimų ir reikalavimų.
+9. Saugomose teritorijose žemės ir kito nekilnojamojo turto savininkai, naudotojai bei valdytojai, kiti asmenys privalo laikytis įstatymų ir kitų teisės aktų, teritorijų planavimo dokumentuose toms teritorijoms nustatytų, taip pat nekilnojamojo turto registre įregistruotų veiklos apribojimų ir reikalavimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2307, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10415
 
 10. Jeigu, suteikiant naudotis, perleidžiant ar parduodant žemę arba atkuriant nuosavybės teises į žemę saugomose teritorijose, į nekilnojamojo turto registro duomenis nebuvo įrašyti teisės aktų ar teritorijų planavimo dokumentų nustatyti veiklos apribojimai ar kiti reikalavimai, susiję su saugoma teritorija, juos į šio registro duomenis Vyriausybės įgaliotos institucijos teikimu Nekilnojamojo turto registro įstatymo bei kitų teisės aktų nustatyta tvarka įrašo nekilnojamojo turto registro tvarkytojas.
 
@@ -1056,7 +1068,11 @@ ATSAKOMYBĖ UŽ SAUGOMŲ TERITORIJŲ ĮSTATYMO PAŽEIDIMUS
 
 33 straipsnis. Atsakomybė už Įstatymo pažeidimus
 
-1. Juridiniai ir fiziniai asmenys, pažeidę Saugomų teritorijų įstatymo reikalavimus, traukiami atsakomybėn įstatymų nustatyta tvarka.
+1. Asmenys, pažeidę šio Įstatymo reikalavimus, traukiami atsakomybėn įstatymų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2307, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10415
 
 2. Vyriausybės įgaliotos institucijos atsako už saugomų teritorijų apsaugos ir tvarkymo organizavimą ir negatyvių reiškinių šiame procese prevenciją. Šių institucijų įgalioti pareigūnai asmeniškai atsako už jiems patikėtų uždavinių užtikrinant gamtos ir kultūros paveldo teritorinių kompleksų ir objektų (vertybių) išsaugojimą saugomose teritorijose vykdymą.
 
