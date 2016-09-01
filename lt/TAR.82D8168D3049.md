@@ -4,7 +4,7 @@ identifier: "TAR.82D8168D3049"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2016-06-28"
+last_updated: "2016-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2016-06-28 iki 2016-08-31
+Suvestinė redakcija nuo 2016-09-01 iki 2016-10-17
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
 
@@ -1638,6 +1638,14 @@ Nr. XII-2461, 2016-06-21, paskelbta TAR 2016-06-27, i. k. 2016-17732
 
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 77 straipsnio pakeitimo įstatymas
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2345, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13912
+
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 37 straipsnio pakeitimo įstatymas
+
 3 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 1. Abonentas – asmuo, kuris yra viešųjų elektroninių ryšių paslaugų teikimo sutarties su šių paslaugų teikėju šalis.
@@ -2248,7 +2256,11 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 37 straipsnis. Elektroninių ryšių infrastruktūros įrengimo pagrindai
 
-1. Elektroninių ryšių tinklų teikėjai turi teisę įrengti elektroninių ryšių infrastruktūrą žemėje, kuri jiems priklauso nuosavybės teise, taip pat jei yra nustatytas servitutas ar elektroninių ryšių tinklų teikėjai turi teisę naudoti žemę kitu pagrindu, nekeisdami žemės paskirties.
+1. Elektroninių ryšių tinklų teikėjai turi teisę įrengti elektroninių ryšių infrastruktūrą žemėje, kuri jiems priklauso nuosavybės teise, taip pat jei yra nustatytas servitutas ar elektroninių ryšių tinklų teikėjai turi teisę naudoti žemę kitu pagrindu, nekeisdami žemės paskirties. Teritorijų planavimo įstatyme numatytais atvejais elektroninių ryšių infrastruktūrai priklausančių bokštų ir stiebų, priskiriamų ypatingiems statiniams, išdėstymui rengiami Elektroninių ryšių infrastruktūros vystymo specialieji planai, kurių organizavimo, rengimo, koregavimo, derinimo, tikrinimo, tvirtinimo tvarką nustato Elektroninių ryšių infrastruktūros vystymo specialiųjų planų rengimo taisyklės, tvirtinamos Lietuvos Respublikos susisiekimo ministro ir Lietuvos Respublikos aplinkos ministro įsakymu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2345, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13912
 
 2. Elektroninių ryšių infrastruktūros iškėlimo darbus, atliekamus statant ar rekonstruojant pastatus, tiltus ir kitus statinius, suderinę su elektroninių ryšių infrastruktūros savininkais, turi atlikti statybų užsakovai savo lėšomis pagal elektroninių ryšių infrastruktūros savininkų nurodytas technines sąlygas, jei statybų užsakovai ir elektroninių ryšių infrastruktūros savininkai nesusitaria kitaip.
 
