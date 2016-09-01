@@ -4,7 +4,7 @@ identifier: "TAR.199156E4E004"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-11-28"
-last_updated: "2014-10-01"
+last_updated: "2016-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2014-10-01 iki 2016-08-31
+Suvestinė redakcija nuo 2016-09-01 iki 2016-10-06
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
 
@@ -34,11 +34,19 @@ BENDROSIOS NUOSTATOS
 
 1. Šio Įstatymo tikslas – užtikrinti neįgaliųjų lygias teises ir galimybes visuomenėje, nustatyti neįgaliųjų socialinės integracijos principus, apibrėžti socialinės integracijos sistemą ir jos prielaidas bei sąlygas, neįgaliųjų socialinę integraciją įgyvendinančias institucijas, neįgalumo lygio ir darbingumo lygio nustatymą, profesinės reabilitacijos paslaugų teikimą, specialiųjų poreikių nustatymo ir tenkinimo principus.
 
-2. Šis Įstatymas taikomas Lietuvos Respublikoje nuolat gyvenantiems asmenims.
+2. Šis Įstatymas taikomas Lietuvos Respublikos piliečiams, kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės susitarimą sudariusios valstybės piliečiams ir jų šeimos nariams, kuriems teisės aktų nustatyta tvarka išduoti dokumentai, patvirtinantys jų teisę gyventi Lietuvos Respublikoje, asmenims, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas, ir užsieniečiams, turintiems Lietuvos Respublikos ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 3. Šio Įstatymo 20 ir 23 straipsniai taip pat taikomi Lietuvos Respublikoje gyvenantiems užsieniečiams, kuriems leidimas laikinai gyventi išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą, kaip ši sąvoka apibrėžta tai reglamentuojančiuose Lietuvos Respublikos teisės aktuose.
 
-4. Šio Įstatymo 19, 20, 23 ir 24 straipsniai taip pat taikomi kitiems asmenims, kuriems, įgyvendinant Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentus, turi būti taikomi šiame Įstatyme nurodyti straipsniai.
+4. Neteko galios nuo 2016-09-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 5. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktų, nurodytų šio Įstatymo priede, nuostatomis.
 
@@ -178,7 +186,11 @@ Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA
 
 2. Už aplinkos pritaikymo neįgaliųjų specialiesiems poreikiams statybos normatyvinių techninių dokumentų parengimą ir jų įgyvendinimo priežiūrą atsako Aplinkos ministerija.
 
-3. Už objektų pritaikymą neįgaliųjų specialiesiems poreikiams atsako savivaldybių institucijos ir šio straipsnio 1 dalyje nurodytų objektų savininkai bei naudotojai.
+3. Už objektų pritaikymą neįgaliųjų specialiesiems poreikiams atsako savivaldybių institucijos ir šio straipsnio 1 dalyje nurodytų objektų savininkai bei naudotojai. Sprendimą pritaikyti daugiabučio namo bendrojo naudojimo objektus neįgaliųjų specialiesiems poreikiams priima butų ir kitų patalpų savininkai Lietuvos Respublikos civilinio kodekso nustatyta tvarka. Jeigu butų ir kitų patalpų savininkų susirinkime priimamas sprendimas nepritaikyti daugiabučio namo bendrojo naudojimo objektų neįgaliųjų specialiesiems poreikiams, sprendimą, ar pritaikyti daugiabučio namo bendrojo naudojimo objektus neįgaliųjų specialiesiems poreikiams, kai toks pritaikymas finansuojamas ne iš bendrojo naudojimo objektų savininkų lėšų, priima savivaldybės vykdomoji institucija, gavusi buto ir kitų patalpų savininko prašymą dėl būsto pritaikymo neįgaliajam, vadovaudamasi socialinės apsaugos ir darbo ministro nustatyta būsto pritaikymo neįgaliesiems tvarka. Sprendimą pritaikyti daugiabučio namo bendrojo naudojimo objektus neįgaliųjų specialiesiems poreikiams, kai toks pritaikymas finansuojamas ne iš bendrojo naudojimo objektų savininkų lėšų, priėmusi savivaldybės vykdomoji institucija užtikrina, kad daugiabučio namo bendrojo naudojimo objektų pritaikymas neįgaliųjų specialiesiems poreikiams turi būti atliktas nesumažinant kitų daugiabučio namo butų ir kitų patalpų savininkų nekilnojamojo turto vertės. Už daugiabučio namo bendrojo naudojimo objektų pritaikymą neįgaliųjų specialiesiems poreikiams, kai toks pritaikymas finansuojamas ne iš bendrojo naudojimo objektų savininkų lėšų, atsako savivaldybės vykdomoji institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 4. Už informacinės aplinkos neįgaliesiems pritaikymo organizavimą atsako Vyriausybės įgaliota institucija.
 
@@ -228,53 +240,51 @@ Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA
 
 TREČIASIS SKIRSNIS
 
-NEĮGALIŲJŲ SOCIALINĘ INTEGRACIJĄ ĮGYVENDINANČIOS INSTITUCIJOS
+NEĮGALIŲJŲ SOCIALINĖS INTEGRACIJOS POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 16 straipsnis. Neįgaliųjų socialinės integracijos valdymas
 
 1. Neįgaliųjų socialinės integracijos valdymas apima neįgaliųjų socialinės integracijos priemonių planavimą, administravimą, organizavimą, įgaliojimų ir atsakomybės paskirstymą bei priežiūrą.
 
-2. Pagrindinės neįgaliųjų socialinę integraciją įgyvendinančios institucijos yra:
+2. Neįgaliųjų socialinės integracijos politiką formuoja ir įgyvendina:
 
-1) Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. Ji koordinuoja ir įgyvendina neįgaliųjų socialinės integracijos sistemą, tvirtina ilgalaikes valstybines neįgaliųjų socialinės integracijos programas ir strategijas;
+1) Lietuvos Respublikos Vyriausybė nustato neįgaliųjų socialinės integracijos politikos plėtros kryptis;
 
-Straipsnio punkto pakeitimai:
+2) Socialinės apsaugos ir darbo ministerija formuoja neįgaliųjų socialinės integracijos politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
 
-Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA00XI-791
+3) ministerijos pagal kompetenciją formuoja neįgaliųjų socialinės integracijos politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
 
-2) ministerijos. Jos pagal savo kompetenciją rengia ir teikia Lietuvos Respublikos Vyriausybei siūlymus, įstatymų ir kitų teisės aktų projektus dėl neįgaliųjų socialinės integracijos sistemos tobulinimo ir organizuoja neįgaliųjų socialinės integracijos sistemos įgyvendinimą;
+4) Neįgaliųjų reikalų departamentas prie Socialinės apsaugos ir darbo ministerijos (toliau – Neįgaliųjų reikalų departamentas) pagal kompetenciją organizuoja neįgaliųjų socialinės integracijos politikos įgyvendinimą ir, įtraukdamas neįgaliųjų asociacijas, organizuoja neįgaliųjų socialinės integracijos veiklos rezultatų stebėseną, rengia Jungtinių Tautų neįgaliųjų teisių konvencijos ir jos Fakultatyvaus protokolo įgyvendinimo stebėsenos ataskaitas;
 
-3) Neįgaliųjų reikalų departamentas prie Socialinės apsaugos ir darbo ministerijos (toliau – Neįgaliųjų reikalų departamentas). Jis koordinuoja ir įgyvendina Nacionalinę žmonių su negalia socialinės integracijos programą ir vykdo kitas neįgaliųjų socialinės integracijos politikos įgyvendinimo priemones;
+5) Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Tarnyba) pagal kompetenciją dalyvauja formuojant ir įgyvendinant neįgaliųjų socialinės integracijos politiką dėl neįgalumo lygio, darbingumo lygio, profesinės reabilitacijos paslaugų poreikio ir specialiųjų poreikių nustatymo;
 
-4) Neteko galios nuo 2010-07-01
+6) savivaldybės vykdo neįgaliųjų socialinės integracijos, neįgaliųjų specialiųjų poreikių tenkinimo teikiant bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymo ir bendradarbiavimo su neįgaliųjų asociacijomis srityse veiklą ir planuoja ją savivaldybės strateginio planavimo dokumentuose;
 
-Straipsnio punkto naikinimas:
+7) neįgaliųjų asociacijos atstovauja neįgaliųjų interesams, padeda įgyvendinti neįgaliųjų socialinės integracijos priemones: organizuoja socialinės reabilitacijos paslaugų teikimą neįgaliesiems, neįgaliųjų poilsį, sportą, turizmą, kultūrinę veiklą, tarptautinį bendradarbiavimą. Organizuodamos savo veiklą, neįgaliųjų asociacijos bendradarbiauja su valstybės ir savivaldybių institucijomis ir įstaigomis, gali gauti šių institucijų ir įstaigų finansinę paramą.
 
-Nr. XI-791, 2010-04-29, Žin. 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA00XI-791
+Straipsnio dalies pakeitimai:
 
-5) savivaldybės. Jos savo veiklą neįgaliųjų socialinės integracijos, neįgaliųjų specialiųjų poreikių tenkinimo teikiant bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymo ir bendradarbiavimo su neįgaliųjų asociacijomis srityse planuoja savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XII-471, 2013-07-02, Žin., 2013, Nr. 79-3992 (2013-07-23), i. k. 1131010ISTA0XII-471
-
-6) neįgaliųjų asociacijos. Jos atstovauja neįgaliųjų interesams, padeda įgyvendinti neįgaliųjų socialinės integracijos priemones: organizuoja socialinių paslaugų teikimą neįgaliesiems, neįgaliųjų poilsį, sportą, turizmą, kultūrinę veiklą, tarptautinį bendradarbiavimą. Organizuodamos savo veiklą, neįgaliųjų asociacijos bendradarbiauja su valstybės ir savivaldybių institucijomis ir įstaigomis, gali gauti šių institucijų ir įstaigų finansinę paramą. Neįgaliųjų asociacijos dalyvauja formuojant ir vykdant šalies socialinę politiką.
-
-Straipsnio punkto pakeitimai:
-
-Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA00XI-791
+Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 Straipsnio pakeitimai:
 
 Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA000X-373
 
-17 straipsnis. Neįgaliųjų reikalų taryba prie Socialinės apsaugos ir darbo ministerijos
+17 straipsnis. Neįgaliųjų reikalų taryba
 
-Neįgaliųjų reikalų taryba prie Socialinės apsaugos ir darbo ministerijos (toliau – Neįgaliųjų reikalų taryba) nagrinėja svarbiausius neįgaliųjų socialinės integracijos klausimus ir teikia pasiūlymus socialinės apsaugos ir darbo ministrui dėl neįgaliųjų reikmes atitinkančios neįgaliųjų socialinės integracijos politikos įgyvendinimo. Ji sudaroma visuomeniniais pagrindais, lygiateisės partnerystės pagrindu iš valstybės institucijų ir neįgaliųjų asociacijų deleguotų atstovų. Neįgaliųjų reikalų tarybos sudėtį ir jos nuostatus socialinės apsaugos ir darbo ministro teikimu tvirtina Lietuvos Respublikos Vyriausybė.
+1. Neįgaliųjų reikalų taryba yra visuomeninė patariamoji institucija, sudaroma iš valstybės institucijų, neįgaliųjų asociacijų, savivaldybių, akademinės bendruomenės atstovų. Neįgaliųjų reikalų tarybos sudarymo tvarką ir nuostatus tvirtina Lietuvos Respublikos Vyriausybė. Neįgaliųjų reikalų tarybos sudėtį tvirtina socialinės apsaugos ir darbo ministras.
+
+2. Neįgaliųjų reikalų taryba nagrinėja neįgaliųjų socialinės integracijos klausimus ir teikia pasiūlymus Lietuvos Respublikos Vyriausybei, ministerijoms, kitoms valstybės ir savivaldybių institucijoms ir įstaigoms dėl neįgaliųjų socialinės integracijos politikos, jos įgyvendinimo, neįgaliųjų visuomeninius santykius reglamentuojančių teisės aktų projektų ir Jungtinių Tautų neįgaliųjų teisių konvencijos ir jos Fakultatyvaus protokolo įgyvendinimo stebėsenos ataskaitų.
 
 Straipsnio pakeitimai:
 
 Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA000X-373
+
+Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 KETVIRTASIS SKIRSNIS
 
@@ -282,7 +292,11 @@ NEĮGALUMO LYGIO IR DARBINGUMO LYGIO NUSTATYMAS, PROFESINĖS REABILITACIJOS PASL
 
 18 straipsnis. Neįgalumo lygį ir darbingumo lygį nustatanti įstaiga
 
-1. Neįgalumo lygį ir darbingumo lygį nustato Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Tarnyba).
+1. Neįgalumo lygį ir darbingumo lygį nustato Tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 2. Tarnybos nuostatus tvirtina Socialinės apsaugos ir darbo ministerija.
 
@@ -510,7 +524,11 @@ Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA
 
 2. Techninės pagalbos priemonių poreikį nustato Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigų reabilitacijos specialistai ar (ir) savivaldybių administracijų padalinių, atsakingų už socialinių paslaugų organizavimą ir administravimą, sudarytos komisijos (į šias komisijas turi būti įtraukti medicininės reabilitacijos ir socialinio darbo specialistai), ar (ir) ugdymo įstaigos specialiojo ugdymo komisijos, ar (ir) pedagoginės psichologinės tarnybos.
 
-3. Aprūpinimą techninės pagalbos priemonėmis pagal kompetenciją organizuoja ir aprūpinimo atitinkamomis techninės pagalbos priemonėmis tvarką nustato Sveikatos apsaugos ministerija, Socialinės apsaugos ir darbo ministerija bei Švietimo ir mokslo ministerija.
+3. Aprūpinimas techninės pagalbos priemonėmis organizuojamas fiziniams asmenims, kuriems nustatytas techninės pagalbos priemonių poreikis, perduodant reikalingas techninės pagalbos priemones nuosavybėn ir (ar) panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis ir (ar) kompensuojant jiems reikalingų techninės pagalbos priemonių įsigijimo išlaidas arba techninės pagalbos priemones perduodant panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis savivaldybėms, kurios perduoda fiziniams asmenims reikalingas techninės pagalbos priemones nuosavybėn ir (ar) panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis. Aprūpinimą techninės pagalbos priemonėmis pagal kompetenciją organizuoja ir aprūpinimo atitinkamomis techninės pagalbos priemonėmis tvarką nustato sveikatos apsaugos ministras, socialinės apsaugos ir darbo ministras bei švietimo ir mokslo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 26 straipsnis. Finansinės pagalbos priemonės
 
@@ -589,6 +607,12 @@ priedas
 Papildyta punktu:
 
 Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
+
+3. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis (OL 2014 L 128, p. 8).
+
+Papildyta punktu:
+
+Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 Papildyta priedu:
 
@@ -731,4 +755,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-471, 2013-07-02, Žin., 2013, Nr. 79-3992 (2013-07-23), i. k. 1131010ISTA0XII-471
 
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 16 straipsnio pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
+
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1, 11, 16, 17, 18, 25 straipsnių, trečiojo skirsnio pavadinimo ir priedo pakeitimo įstatymas
 
