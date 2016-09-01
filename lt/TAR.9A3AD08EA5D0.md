@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "2016-01-01"
+last_updated: "2016-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-08-31
+Suvestinė redakcija nuo 2016-09-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
 
@@ -88,7 +88,11 @@ BENDROSIOS NUOSTATOS
 
 20. Pedagogo kvalifikacija – Lietuvos Respublikos teisės aktų nustatyta tvarka pripažįstama asmens turimų kompetencijų arba profesinės patirties ir turimų kompetencijų, reikalingų mokiniams ugdyti, visuma.
 
-21. Privalomasis švietimas – Lietuvos Respublikos piliečiams, gyvenantiems Lietuvos Respublikoje, ir užsieniečiams, turintiems teisę nuolat ar laikinai gyventi Lietuvos Respublikoje, privalomas ir valstybės garantuojamas ugdymas iki 16 metų pagal pradinio, pagrindinio ugdymo programas.
+21. Privalomasis švietimas – Lietuvos Respublikos piliečiams, gyvenantiems Lietuvos Respublikoje, ir užsieniečiams, turintiems teisę nuolat ar laikinai gyventi Lietuvos Respublikoje, privalomas ir valstybės garantuojamas ugdymas iki 16 metų pagal priešmokyklinio, pradinio, pagrindinio ugdymo programas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 22. Savišvieta – savarankiškas mokymasis, kuris remiasi asmens iš įvairių šaltinių gaunamomis žiniomis ir jo praktine patirtimi.
 
@@ -180,7 +184,11 @@ Lietuvos švietimo sistema apima:
 
 2. Ikimokyklinis ugdymas vyksta šeimoje, o tėvų (globėjų) pageidavimu – pagal ikimokyklinio ugdymo programą. Švietimo ir mokslo ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka ir atvejais vaikui ikimokyklinis ugdymas gali būti privalomas.
 
-3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis arba pradinis ugdymas.
+3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 4. Ikimokyklinio ugdymo programą, parengtą pagal švietimo ir mokslo ministro patvirtintus ikimokyklinio ugdymo programų kriterijus, vykdo ikimokyklinio ugdymo, bendrojo ugdymo mokyklos, laisvasis mokytojas ar kitas švietimo teikėjas.
 
@@ -192,7 +200,11 @@ Lietuvos švietimo sistema apima:
 
 2. Priešmokyklinis ugdymas vykdomas pagal vienų metų švietimo ir mokslo ministro patvirtintą priešmokyklinio ugdymo bendrąją programą. Priešmokyklinį ugdymą vykdo ikimokyklinio ugdymo, bendrojo ugdymo mokyklos, laisvasis mokytojas ar kitas švietimo teikėjas, vadovaudamiesi švietimo ir mokslo ministro nustatyta tvarka.
 
-3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais jam sueina 6 metai. Priešmokyklinis ugdymas gali būti teikiamas anksčiau tėvų (globėjų) prašymu, vadovaujantis švietimo ir mokslo ministro patvirtintu Vaiko brandumo mokytis pagal priešmokyklinio ir pradinio ugdymo programas įvertinimo tvarkos aprašu, bet ne anksčiau, negu jam sueina 5 metai. Švietimo ir mokslo ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka ir atvejais vaikui priešmokyklinis ugdymas gali būti privalomas.
+3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais jam sueina 6 metai. Priešmokyklinis ugdymas gali būti teikiamas anksčiau tėvų (globėjų) prašymu, vadovaujantis švietimo ir mokslo ministro patvirtintu Vaiko brandumo mokytis pagal priešmokyklinio ir pradinio ugdymo programas įvertinimo tvarkos aprašu, bet ne anksčiau, negu jam sueina 5 metai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 4. Priešmokyklinio amžiaus vaikui ir jo tėvams (globėjams) kompleksiškai teikiamos švietimo pagalba, socialinė parama, sveikatos priežiūros paslaugos švietimo ir mokslo ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.
 
@@ -202,7 +214,11 @@ Lietuvos švietimo sistema apima:
 
 2. Pradinis ugdymas vykdomas pagal ketverių metų pradinio ugdymo programas. Jos įgyvendinamos vadovaujantis Pradinio ugdymo programos aprašu, Pradinio ugdymo bendrosiomis programomis, bendraisiais ugdymo planais, kuriuos tvirtina švietimo ir mokslo ministras. Pradinis ugdymas gali būti vykdomas kartu su dailės, muzikiniu, meniniu, sportiniu ar kitu ugdymu.
 
-3. Pagal pradinio ugdymo programą vaikas pradedamas ugdyti, kai jam tais kalendoriniais metais sueina 7 metai. Atskiru atveju vaikas, kuriam tais kalendoriniais metais sueina 7 metai ir kuriam reikalinga nuolatinė kvalifikuotų specialistų pagalba bei sveikatą tausojantis dienos režimas, tėvų (globėjų) prašymu švietimo ir mokslo ministro nustatyta tvarka vienus metus gali būti ugdomas ikimokyklinio ugdymo įstaigoje ar namuose pagal jo specialiesiems ugdymo poreikiams pritaikytą ugdymo programą.
+3. Pagal pradinio ugdymo programą vaikas pradedamas ugdyti, kai jam tais kalendoriniais metais sueina 7 metai. Atskiru atveju vaikas, kuriam tais kalendoriniais metais sueina 7 metai ir kuriam reikalinga nuolatinė kvalifikuotų specialistų pagalba bei sveikatą tausojantis dienos režimas, tėvų (globėjų) prašymu švietimo ir mokslo ministro nustatyta tvarka vienus metus gali būti ugdomas įstaigoje, vykdančioje priešmokyklinio ugdymo programą, ar namuose pagal jo specialiesiems ugdymosi poreikiams pritaikytas programas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 4. Tėvų (globėjų) prašymu, vadovaujantis švietimo ir mokslo ministro patvirtintu Vaiko brandumo mokytis pagal priešmokyklinio ir pradinio ugdymo programas įvertinimo tvarkos aprašu, pradinis ugdymas pradedamas teikti vienais metais anksčiau, negu nurodyta šio straipsnio 3 dalyje.
 
@@ -382,11 +398,19 @@ TREČIASIS SKIRSNIS
 
 1. Kiekvienas Lietuvos Respublikos pilietis, užsienietis, turintis teisę nuolat ar laikinai gyventi Lietuvos Respublikoje, turi teisę mokytis, įgyti išsilavinimą ir kvalifikaciją.
 
-2. Valstybė imasi priemonių, kad kiekvienas vaikas Lietuvoje mokytųsi pagal pradinio, pagrindinio, vidurinio ugdymo programas.
+2. Valstybė imasi priemonių, kad kiekvienas vaikas Lietuvoje mokytųsi pagal priešmokyklinio, pradinio, pagrindinio, vidurinio ugdymo programas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 3. Kiekvienam Lietuvos Respublikos piliečiui, užsieniečiui, turinčiam teisę nuolat ar laikinai gyventi Lietuvos Respublikoje, valstybė garantuoja:
 
-1) pradinį, pagrindinį ir vidurinį ugdymą;
+1) priešmokyklinį, pradinį, pagrindinį ir vidurinį ugdymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 2) aukštojo mokslo studijų arba profesinio mokymo, suteikiančio pirmąją kvalifikaciją, programų prieinamumą.
 
@@ -428,7 +452,11 @@ Nr. XII-2010, 2015-11-12, paskelbta TAR 2015-11-18, i. k. 2015-18318
 
 3. Mokinys, be privalomųjų mokomųjų dalykų, jų skirtingų programų (kursų), gali mokytis mokyklos siūlomų pasirenkamųjų dalykų.
 
-4. Neformaliojo švietimo programas ir savišvietą asmuo renkasi laisvai.
+4. Neformaliojo švietimo programas (išskyrus priešmokyklinio ugdymo programą) ir savišvietą asmuo renkasi laisvai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 28 straipsnis. Švietimo teikėjų tinklas
 
@@ -554,9 +582,17 @@ Nr. XII-2010, 2015-11-12, paskelbta TAR 2015-11-18, i. k. 2015-18318
 
 36 straipsnis. Vežimas, apgyvendinimas, maitinimas
 
-1. Mokiniai į atitinkamą ugdymo programą vykdančią mokyklą vadovaujantis Lietuvos Respublikos transporto lengvatų įstatymu (toliau – Transporto lengvatų įstatymas) vežami visuomeniniu transportu mokinio pažymėjime nurodytu maršrutu, mokykliniu autobusu arba kitu transportu. Į mokyklą ir atgal privalo būti vežami kaimuose, miesteliuose toliau kaip 3 kilometrai nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendrojo ugdymo programas.
+1. Mokiniai į atitinkamą ugdymo programą vykdančią mokyklą, vadovaujantis Lietuvos Respublikos transporto lengvatų įstatymu (toliau – Transporto lengvatų įstatymas), vežami visuomeniniu transportu mokinio pažymėjime nurodytu maršrutu, mokykliniu autobusu arba kitu transportu. Į mokyklą ir atgal privalo būti vežami kaimuose, miesteliuose toliau kaip 3 kilometrai nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendrojo ugdymo programas. Mokinių vežimo mokykliniu autobusu tvarką nustato švietimo ir mokslo ministras.
 
-2. Mokinių, kurie turi specialiųjų ugdymosi poreikių ir nepajėgia patys atvykti į bendrojo ugdymo mokyklą (negali savarankiškai vaikščioti, dėl didelių sutrikimų yra nesaugūs gatvėje), vežimą į mokyklą ir atgal organizuoja valstybinės ir savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas) savo nustatyta tvarka ir atvejais.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
+
+2. Mokinių, kurie turi specialiųjų ugdymosi poreikių ir nepajėgia patys atvykti į mokyklą mokytis pagal priešmokyklinio ugdymo ar bendrojo ugdymo programas (negali savarankiškai vaikščioti, dėl didelių sutrikimų yra nesaugūs gatvėje), vežimą į mokyklą ir atgal organizuoja valstybinės ir savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas) savo nustatyta tvarka ir atvejais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 3. Studentai, profesinio mokymo įstaigų mokiniai, kurie mokosi pagal pirminio profesinio mokymo programas, ir neformaliojo vaikų švietimo mokyklų mokiniai į mokyklą vežami vietinio (miesto) ir (ar) tolimojo susisiekimo transportu. Kelionės į mokyklą ir atgal lengvatos jiems suteikiamos ir išlaidos kompensuojamos Transporto lengvatų įstatymo nustatyta tvarka ir atvejais.
 
@@ -588,7 +624,11 @@ Nr. XII-553, 2013-10-15, Žin., 2013, Nr. 114-5683 (2013-11-01)
 
 5. Mokyklos (išskyrus aukštąsias mokyklas) veiklos įsivertinimo sritis, atlikimo metodiką pasirenka mokyklos taryba. Ji analizuoja įsivertinimo rezultatus ir priima sprendimus dėl veiklos tobulinimo.
 
-6. Mokyklos (išskyrus aukštąsias mokyklas) išorinis vertinimas atliekamas periodiškai, jį inicijuoja mokyklos savininko teises ir pareigas įgyvendinanti institucija (valstybinės mokyklos – biudžetinės įstaigos), savivaldybės vykdomoji institucija (savivaldybės mokyklos – biudžetinės įstaigos), savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) (valstybinės ir savivaldybės mokyklos – viešosios įstaigos), savininkas (dalyvių susirinkimas) (kitų mokyklų). Mokyklų, vykdančių bendrojo ugdymo ir formaliojo profesinio mokymo programas, veiklos išorinio vertinimo organizavimo ir vykdymo tvarką nustato švietimo ir mokslo ministras. Neformaliojo švietimo mokyklų veiklos išorinio vertinimo tvarką nustato valstybinės ir savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas).
+6. Mokyklos (išskyrus aukštąsias mokyklas) išorinis vertinimas atliekamas periodiškai, jį inicijuoja mokyklos savininko teises ir pareigas įgyvendinanti institucija (valstybinės mokyklos – biudžetinės įstaigos), savivaldybės vykdomoji institucija (savivaldybės mokyklos – biudžetinės įstaigos), savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) (valstybinės ir savivaldybės mokyklos – viešosios įstaigos), savininkas (dalyvių susirinkimas) (kitų mokyklų). Mokyklų, vykdančių ikimokyklinio, priešmokyklinio, bendrojo ugdymo ir formaliojo profesinio mokymo programas, veiklos išorinio vertinimo organizavimo ir vykdymo tvarką nustato švietimo ir mokslo ministras. Neformaliojo švietimo mokyklų (išskyrus mokyklas, vykdančias ikimokyklinio ir (ar) priešmokyklinio ugdymo programas) veiklos išorinio vertinimo tvarką nustato valstybinės ir savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 7. Aukštosios mokyklos veiklos vertinimas atliekamas Mokslo ir studijų įstatymo nustatyta tvarka.
 
@@ -734,7 +774,11 @@ Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
 
 5. Aukštosios mokyklos veiklą nustato jos statutas. Statutas rengiamas ir tvirtinamas Mokslo ir studijų įstatymo nustatyta tvarka.
 
-6. Mokslo metų pradžią ir trukmę bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose pagal pirminio profesinio mokymo programas nustato švietimo ir mokslo ministras; valstybinėse ir savivaldybių neformaliojo švietimo mokyklose – savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitose neformaliojo švietimo mokyklose – savininkas (dalyvių susirinkimas). Tęstinio profesinio mokymo pradžią nustato mokykla. Ugdymo pagal neformaliojo švietimo programas pradžią valstybinėse ir savivaldybių bendrojo ugdymo mokyklose, profesinio mokymo įstaigose nustato savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitose bendrojo ugdymo mokyklose, profesinio mokymo įstaigose – savininkas (dalyvių susirinkimas).
+6. Mokslo metų pradžią ir trukmę pagal priešmokyklinio ugdymo programas, bendrojo ugdymo programas, pirminio profesinio mokymo programas nustato švietimo ir mokslo ministras, pagal neformaliojo švietimo programas (išskyrus priešmokyklinio ugdymo ir tęstinio profesinio mokymo programas) – savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), savininkas, pagal tęstinio profesinio mokymo programas – mokykla.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 7. Mokykloje gali būti vykdomos tik Studijų, mokymo programų ir kvalifikacijų registre įregistruotos formaliojo švietimo programos. Mokykla bendrojo ugdymo programas gali vykdyti, jei atitinka Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytus bendruosius ir specialiuosius kriterijus. Mokykla formaliojo profesinio mokymo programas gali vykdyti tik turėdama švietimo ir mokslo ministro išduotą licenciją, už kurios išdavimą, papildymą ar patikslinimą mokama valstybės rinkliava. Formaliojo profesinio mokymo licencijavimo taisykles tvirtina Vyriausybė.
 
@@ -832,7 +876,11 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 
 2) lankyti mokyklą, stropiai mokytis, laikytis mokinio elgesio normų, gerbti mokytojus ir kitus mokyklos bendruomenės narius, nepažeisti jų teisių ir teisėtų interesų;
 
-3) mokytis pagal pradinio ir pagrindinio ugdymo programas iki 16 metų.
+3) mokytis pagal priešmokyklinio, pradinio ir pagrindinio ugdymo programas iki 16 metų.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 47 straipsnis. Tėvų (globėjų, rūpintojų) teisės ir pareigos
 
@@ -848,7 +896,11 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 
 5) dalyvauti įvertinant vaiko specialiuosius ugdymosi poreikius ir gauti išsamią informaciją apie įvertinimo rezultatus;
 
-6) 6 metų sulaukusį vaiką, jei jis yra pakankamai subrendęs, leisti mokytis pagal pradinio ugdymo programą;
+6) 5 metų sulaukusį vaiką, jeigu jis yra pakankamai subrendęs, leisti mokytis pagal priešmokyklinio ugdymo programą, o 6 metų sulaukusį vaiką – pagal pradinio ugdymo programą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 7) reikalauti, kad vaikui būtų teikiamas geros kokybės ugdymas;
 
@@ -856,7 +908,11 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 
 2. Tėvai (globėjai, rūpintojai) privalo:
 
-1) vaiką, kuriam tais kalendoriniais metais sueina 7 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus;
+1) vaiką, kuriam tais kalendoriniais metais sueina 6 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais sueina 7 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 2) sudaryti vaikui sveikas ir saugias gyvenimo sąlygas, gerbti vaiko asmenybę, apsaugoti jį nuo smurto, prievartos ir išnaudojimo, užtikrinti, kad vaikas laiku pasitikrintų sveikatą;
 
@@ -866,7 +922,11 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 
 5) ugdyti vaiko vertybines orientacijas, kontroliuoti ir koreguoti jo elgesį;
 
-6) užtikrinti vaiko parengimą mokyklai, jo mokymąsi pagal pradinio ir pagrindinio ugdymo programas iki 16 metų;
+6) užtikrinti vaiko parengimą mokyklai, jo mokymąsi pagal priešmokyklinio, pradinio ir pagrindinio ugdymo programas iki 16 metų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 7) užtikrinti vaiko punktualų ir reguliarų mokyklos lankymą; jeigu vaikas negali atvykti į mokyklą, nedelsdami informuoti mokyklą;
 
@@ -1675,6 +1735,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2010, 2015-11-12, paskelbta TAR 2015-11-18, i. k. 2015-18318
 
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 25 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 7, 8, 9, 24, 27, 36, 37, 43, 46 ir 47 straipsnių pakeitimo įstatymas
 
 73 straipsnis.
 
