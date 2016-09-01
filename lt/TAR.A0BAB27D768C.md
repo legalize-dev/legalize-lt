@@ -4,7 +4,7 @@ identifier: "TAR.A0BAB27D768C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-12-19"
-last_updated: "2014-10-29"
+last_updated: "2016-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2014-10-29 iki 2016-08-31
+Suvestinė redakcija nuo 2016-09-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
 
@@ -643,7 +643,7 @@ PirmasIS skirsnis
 
 Seimas rūpinasi, kad būtų laiku priimti nacionaliniam saugumui užtikrinti būtini įstatymai, kiti teisės aktai, galiojančių įstatymų papildymai ir pakeitimai.
 
-Seimas, atsižvelgdamas į ilgalaikius nacionalinio saugumo užtikrinimo poreikius, įstatymu reglamentuoja krašto apsaugos sistemą, taip pat kiekvienais metais įstatymu nustato kitų metų principinę kariuomenės struktūrą ir ribinius karių, statutinių krašto apsaugos sistemos tarnautojų ir kiekvieno laipsnio vyresniųjų karininkų, generolų ir admirolų skaičius, taip pat principinės kariuomenės struktūros 6 metų planavimo gaires, karių ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinius skaičius.
+Seimas, atsižvelgdamas į ilgalaikius nacionalinio saugumo užtikrinimo poreikius, Valstybės gynimo tarybos nutarimus, įstatymu reglamentuoja krašto apsaugos sistemą, taip pat kiekvienais metais įstatymu nustato kitų metų principinę kariuomenės struktūrą ir ribinius karių, statutinių krašto apsaugos sistemos tarnautojų ir kiekvieno laipsnio vyresniųjų karininkų, generolų ir admirolų skaičius, taip pat principinės kariuomenės struktūros 6 metų planavimo gaires, karių ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinius skaičius.
 
 Seimas įgyvendina nacionalinio saugumo pagrindų nuostatas sukurdamas teisinę nacionalinio saugumo ir gynybos bazę – įstatymais reglamentuoja nacionalinį saugumą užtikrinančių institucijų veiklą.
 
@@ -656,6 +656,10 @@ Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 Nr. XI-1515, 2011-06-23, Žin., 2011, Nr. 86-4157 (2011-07-13)
+
+Skirsnio pakeitimai:
+
+Nr. XII-2428, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17525
 
 AntrasIS skirsnis
 
@@ -733,6 +737,8 @@ Kariuomenė turi būti rengiama ugdant kario asmenybę, pilietiškumą ir patrio
 
 Karo tarnybos rūšis ir atlikimo tvarką bei karių teisinį statusą reglamentuoja Lietuvos Respublikos Konstitucija, įstatymai ir kiti teisės aktai.
 
+Kariuomenės vienetai komplektuojami profesinės ir nuolatinės privalomosios pradinės karo tarnybos kariais. Parengtojo kariuomenės personalo rezervo skaičius ir kartotinis jų rengimas turi atitikti valstybės gynybinius poreikius.
+
 Kariuomenę sudaro šios pajėgų rūšys: sausumos pajėgos, karinės oro pajėgos, karinės jūrų pajėgos, specialiųjų operacijų pajėgos. Į sausumos pajėgas įeina krašto apsaugos savanorių pajėgos, sudarančios kariuomenės aktyvųjį rezervą. Kariuomenės pajėgų rūšių sudėtį, uždavinius ir funkcijas nustato įstatymai ir kiti teisės aktai.
 
 Principinę kariuomenės struktūrą krašto apsaugos ministro teikimu, jam gavus Valstybės gynimo tarybos pritarimą ir Vyriausybės įgaliojimą, tvirtina Seimas.
@@ -758,6 +764,10 @@ Nr. X-1466, 2008-03-20, Žin., 2008, Nr. 38-1378 (2008-04-03)
 Nr. XI-409, 2009-07-23, Žin., 2009, Nr. 95-4034 (2009-08-08)
 
 Nr. XI-480, 2009-11-12, Žin., 2009, Nr. 141-6203 (2009-11-28)
+
+Skyriaus pakeitimai:
+
+Nr. XII-2428, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17525
 
 19 skyrius
 
@@ -1080,6 +1090,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1284, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15004
 
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio 7 ir 19 skyrių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2428, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17525
+
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio 15 ir 18 skyrių pakeitimo įstatymas
 
 – Konstitucijos 135 straipsnis, įpareigojantis Lietuvos Respubliką įgyvendinant užsienio politiką vadovautis visuotinai pripažintais tarptautinės teisės principais ir normomis, siekti užtikrinti šalies saugumą ir nepriklausomybę, piliečių gerovę ir pagrindines jų teises bei laisves, prisidėti prie teise ir teisingumu pagrįstos tarptautinės tvarkos kūrimo;
 
