@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2016-07-01"
+last_updated: "2016-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2016-07-01 iki 2016-08-31
+Suvestinė redakcija nuo 2016-09-01 iki 2016-11-15
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
 
@@ -567,7 +567,11 @@ Nr. XI-2292, 2012-10-17, Žin., 2012, Nr. 129-6466 (2012-11-08)
 
 3. Kariuomenės dalinių, junginių, tarnybų ar kitokių karinių vienetų ir jų vadų kompetencijos ribas ir atstovavimo kariuomenei, sudarant sandorius bei kituose civiliniuose teisiniuose santykiuose, tvarką kariuomenės vado siūlymu nustato krašto apsaugos ministras.
 
-4. Kariuomenę sudaro kariuomenės pajėgos, junginiai, daliniai ir kiti kariniai vienetai.
+4. Kariuomenę sudaro kariuomenės pajėgos, junginiai, daliniai ir kiti kariniai vienetai. Kariuomenės vienetai komplektuojami profesinės ir nuolatinės privalomosios pradinės karo tarnybos kariais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2429, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17526
 
 5. Kariuomenės pajėgų rūšys yra:
 
@@ -1925,7 +1929,11 @@ Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
 12. Nuolatinės privalomosios pradinės karo tarnybos kariams du kartus per tarnybos metus suteikiama po 7 kalendorines dienas atostogų, įskaitant kelionės dienas.
 
-13. Karo prievolininkams, dalyvaujantiems baziniuose kariniuose mokymuose, vieną kartą per šį mokymosi laikotarpį, bet ne anksčiau kaip po 30 mokymosi dienų, suteikiamos 3 kalendorinių dienų atostogos, įskaitant kelionės dienas.
+13. Neteko galios nuo 2016-09-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2429, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17526
 
 14. Karo prievolininkams, nepertraukiamai dalyvaujantiems jaunesniųjų karininkų vadų mokymuose 2 mėnesius, suteikiamos 3 kalendorinių dienų atostogos, įskaitant kelionės dienas, o už kiekvienus 2 paskesnius nepertraukiamo dalyvavimo šiuose mokymuose mėnesius papildomai suteikiamos 3 kalendorinės dienos atostogų, įskaitant kelionės dienas, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 9 kalendorinės dienos.
 
@@ -3245,7 +3253,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 2) ribiniai profesinės karo tarnybos karių skaičiai;
 
-3) ribiniai privalomosios pradinės karo tarnybos karių skaičiai (atskirai nurodant nuolatinę privalomąją pradinę karo tarnybą atliekančių, baziniuose kariniuose mokymuose ir jaunesniųjų karininkų vadų mokymuose dalyvaujančių karių skaičius);
+3) ribiniai privalomosios pradinės karo tarnybos karių skaičiai (atskirai nurodant nuolatinę privalomąją pradinę karo tarnybą atliekančių ir jaunesniųjų karininkų vadų mokymuose dalyvaujančių karių skaičius);
 
 4) ribiniai karių savanorių ir kitų aktyviojo rezervo karių skaičiai;
 
@@ -3255,15 +3263,17 @@ BAIGIAMOSIOS NUOSTATOS
 
 7) ribinis kiekvieno laipsnio vyresniųjų karininkų, generolų ir admirolų skaičius.
 
-3. Tvirtindamas šio straipsnio 2 dalies 3 punkte nurodytus ribinius skaičius, Seimas nurodo privalomosios pradinės karo tarnybos atlikimo būdą. Vienu metu negali būti organizuojama nuolatinė privalomoji pradinė karo tarnyba ir baziniai kariniai mokymai.
+3. Šio straipsnio 2 dalyje nurodyti privalomosios karo tarnybos karių ribiniai skaičiai netaikomi paskelbus mobilizaciją ir ginkluotos gynybos nuo agresijos (karo) atveju. Skelbiant dalinę mobilizaciją, gali būti nustatytas jos mastas nurodant mobilizuojamų karių ribinius skaičius.
 
-4. Šio straipsnio 2 dalyje nurodyti privalomosios karo tarnybos karių ribiniai skaičiai netaikomi paskelbus mobilizaciją ir ginkluotos gynybos nuo agresijos (karo) atveju. Skelbiant dalinę mobilizaciją, gali būti nustatytas jos mastas nurodant mobilizuojamų karių ribinius skaičius.
-
-5. Parengtojo rezervo karinių vienetų struktūrą nustato krašto apsaugos ministras Seimo Nacionalinio saugumo ir gynybos komiteto pritarimu.
+4. Parengtojo rezervo karinių vienetų struktūrą nustato krašto apsaugos ministras Seimo Nacionalinio saugumo ir gynybos komiteto pritarimu. Parengtojo kariuomenės personalo rezervo skaičius ir kartotinis jų rengimas turi atitikti valstybės gynybinius poreikius.
 
 Įstatymas papildytas straipsniu:
 
 Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
+
+Straipsnio pakeitimai:
+
+Nr. XII-2429, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17526
 
 TREČIASIS SKIRSNIS
 
