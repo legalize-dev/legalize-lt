@@ -4,7 +4,7 @@ identifier: "TAR.389CB90C666D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-01-15"
-last_updated: "2014-10-04"
+last_updated: "2016-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "1. Įstatymo 51 straipsnis įsigalioja 2002 m. vas
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2014-10-04 iki 2016-08-31
+Suvestinė redakcija nuo 2016-09-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
 
@@ -25,11 +25,7 @@ Nauja įstatymo redakcija nuo 2011-03-01:
 
 Nr. XI-1146, 2010-11-18, Žin., 2010, Nr. 142-7261 (2010-12-04)
 
-LIETUVOS RESPUBLIKOS
-
-GINKLŲ IR ŠAUDMENŲ KONTROLĖS
-
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMAS
 
 2002 m. sausio 15 d. Nr. IX-705 Vilnius
 
@@ -97,13 +93,35 @@ GINKLų IR ŠAUDMENų įSIgijimas IR TURĖJIMAS
 
 8. Moksliniam tyrimui, savo pagamintų ginklų, jų priedėlių, šaudmenų ir jų dalių išbandymui A, B, C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti Lietuvos Respublikoje įregistruoti juridiniai asmenys, gavę leidimą.
 
-9. D kategorijos ginklus, jų šaudmenis be leidimų gali įsigyti ir turėti juridiniai asmenys bei fiziniai asmenys nuo 18 metų, jais prekiaujančiai įmonei pateikę asmens dokumentus. Sportui D kategorijos pneumatinius ginklus, jų šaudmenis be leidimų gali įsigyti ir turėti fiziniai asmenys nuo 16 metų – šaudymo sporto organizacijų nariai, jais prekiaujančiai įmonei pateikę asmens dokumentus, sporto organizacijos tarpininkavimo raštą ir galiojantį šios organizacijos nario pažymėjimą. Šie ginklai neregistruojami.
+9. Šaulio tarnybai B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti ne jaunesni kaip 18 metų šauliai, išlaikę egzaminą ir gavę leidimą. Kario savanorio ar kito aktyviojo rezervo kario tarnybai B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti kariai savanoriai ar kiti aktyviojo rezervo kariai, išlaikę egzaminą ir gavę leidimą.
 
-10. Lazerinius taikiklius gali įsigyti, turėti ir naudoti asmenys, turintys šaunamąjį ginklą sportui.
+Papildyta straipsnio dalimi:
 
-11. Mokymui B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti Europos fiziniai ir Europos juridiniai asmenys, gavę leidimą.
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
-12. Visų kategorijų šaunamuosius ginklus, gavę leidimą, gali įsigyti ir turėti teatrai ir kiti juridiniai asmenys, kurie verčiasi teatralizuotų vaidinimų kūrimu ar filmų gamyba arba televizijos laidų kūrimu. Jie privalo per 30 kalendorinių dienų nuo įsigijimo perdirbti šaunamuosius ginklus taip, kad jais būtų galima šaudyti tik imitaciniais šaudmenimis. Perdirbtus šaunamuosius ginklus galima naudoti tik vaidinimo ar filmavimo vietose. Ginklų perdirbimo ir naudojimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+10. D kategorijos ginklus, jų šaudmenis be leidimų gali įsigyti ir turėti juridiniai asmenys bei fiziniai asmenys nuo 18 metų, jais prekiaujančiai įmonei pateikę asmens dokumentus. Sportui D kategorijos pneumatinius ginklus, jų šaudmenis be leidimų gali įsigyti ir turėti fiziniai asmenys nuo 16 metų – šaudymo sporto organizacijų nariai, jais prekiaujančiai įmonei pateikę asmens dokumentus, sporto organizacijos tarpininkavimo raštą ir galiojantį šios organizacijos nario pažymėjimą. Šie ginklai neregistruojami.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
+
+11. Lazerinius taikiklius gali įsigyti, turėti ir naudoti asmenys, turintys šaunamąjį ginklą sportui, šaulio ar kario savanorio, ar kito aktyviojo rezervo kario tarnybai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
+
+12. Mokymui B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti Europos fiziniai ir Europos juridiniai asmenys, gavę leidimą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
+
+13. Visų kategorijų šaunamuosius ginklus, gavę leidimą, gali įsigyti ir turėti teatrai ir kiti juridiniai asmenys, kurie verčiasi teatralizuotų vaidinimų kūrimu ar filmų gamyba arba televizijos laidų kūrimu. Jie privalo per 30 kalendorinių dienų nuo įsigijimo perdirbti šaunamuosius ginklus taip, kad jais būtų galima šaudyti tik imitaciniais šaudmenimis. Perdirbtus šaunamuosius ginklus galima naudoti tik vaidinimo ar filmavimo vietose. Ginklų perdirbimo ir naudojimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 Straipsnio pakeitimai:
 
@@ -383,11 +401,29 @@ GINKLŲ IR ŠAUDMENų kolekcionavimas, Parodų organizavimas
 
 4. Fizinio asmens, turinčio ginklą sportui, leidimas laikyti ginklą taip pat panaikinamas netekus narystės šaudymo sporto organizacijoje.
 
-5. Leidimo nešiotis ar leidimo laikyti ginklą panaikinimas įsigalioja iš karto po sprendimo jį panaikinti priėmimo, nors jis ir ginčijamas.
+5. Fizinio asmens, turinčio ginklą šaulio ar kario savanorio, ar kito aktyviojo rezervo kario tarnybai, leidimas laikyti ginklą ir leidimas nešiotis ginklą panaikinamas netekus narystės Lietuvos šaulių sąjungoje arba nutraukus (nutrūkus) kario savanorio ar aktyviojo rezervo kario tarnybos sutartį.
 
-6. Sprendimą panaikinti leidimą nešiotis ar leidimą laikyti ginklus arba sprendimą nepratęsti leidimo galiojimo priima leidimą išdavusios policijos įstaigos vadovas. Sprendimas turi būti motyvuotas šio straipsnio 1 dalyje nurodytais pagrindais. Asmuo turi teisę ne vėliau kaip per 30 kalendorinių dienų apskųsti sprendimą teismui.
+Papildyta straipsnio dalimi:
 
-7. Asmuo, turintis leidimą nešiotis ar leidimą laikyti ginklą, turi teisę gauti paaiškinimus dėl leidimo panaikinimo.
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
+
+6. Leidimo nešiotis ar leidimo laikyti ginklą panaikinimas įsigalioja iš karto po sprendimo jį panaikinti priėmimo, nors jis ir ginčijamas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
+
+7. Sprendimą panaikinti leidimą nešiotis ar leidimą laikyti ginklus arba sprendimą nepratęsti leidimo galiojimo priima leidimą išdavusios policijos įstaigos vadovas. Sprendimas turi būti motyvuotas šio straipsnio 1 dalyje nurodytais pagrindais. Asmuo turi teisę ne vėliau kaip per 30 kalendorinių dienų apskųsti sprendimą teismui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
+
+8. Asmuo, turintis leidimą nešiotis ar leidimą laikyti ginklą, turi teisę gauti paaiškinimus dėl leidimo panaikinimo.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 DVYLIKTASIS SKIRSNIS
 
@@ -435,7 +471,11 @@ GINKLŲ, ŠAUDMENŲ, JŲ DALIŲ SUNAIKINIMAS
 
 5) šoviniai, kurių kulkos yra su kieto metalo šerdimi ar kieto metalo apvalkalu;
 
-6) lazeriniai taikikliai, išskyrus sportui naudojamus lazerinius taikiklius;
+6) lazeriniai taikikliai, išskyrus sportui ir Lietuvos šaulių sąjungos nario (toliau – šaulys) ar kario savanorio, ar kito aktyviojo rezervo kario tarnybai naudojamus lazerinius taikiklius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 7) kastetai, blakštai, mėtomosios žvaigždės ir kiti šaltieji smogiamojo ir svaidomojo pobūdžio ginklai;
 
@@ -509,7 +549,11 @@ A kategorijai priskiriami:
 
 16) šaudmenys, skirti tik A kategorijos ginklams;
 
-17) snaiperiniai šaunamieji ginklai, skirti kariniam naudojimui.
+17) graižtviniai šaunamieji ginklai, kurių kalibras yra 12,7 mm arba didesnis, išskyrus senovinius ginklus ir senovinių ginklų kopijas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 18 straipsnis. Nepriekaištingos reputacijos asmuo
 
@@ -573,7 +617,11 @@ A kategorijai priskiriami:
 
 4. Daiktų ir įrenginių modelius ginklams ir konkrečiai jų kategorijai priskiria Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) arba jos įgaliotos institucijos sudaryta ekspertų komisija.
 
-5. Specialaus statuso subjektų veiklai, susijusiai su ginklų apyvarta, galioja jų veiklą reglamentuojantys įstatymai, išskyrus šio įstatymo nustatytus atvejus.
+5. Specialaus statuso subjektų veiklai, susijusiai su ginklų apyvarta, galioja jų veiklą reglamentuojantys įstatymai ir specialaus statuso subjekto vadovo patvirtinti aprašai, išskyrus šio įstatymo nustatytus atvejus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 6. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
@@ -595,7 +643,17 @@ A kategorijai priskiriami:
 
 7) moksliniam tyrimui;
 
-8) kitiems tikslams, jeigu tai neprieštarauja įstatymams, tarptautinėms sutartims ir susitarimams.
+8) šaulio ar kario savanorio, ar kito aktyviojo rezervo kario tarnybai;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
+
+9) kitiems tikslams, jeigu tai neprieštarauja įstatymams, tarptautinėms sutartims ir susitarimams.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 2. Europos fiziniai ir Europos juridiniai asmenys, išskyrus asmenis, nurodytus šio straipsnio 1 dalyje, gali įsigyti ir turėti ginklus, šaudmenis šiems tikslams:
 
@@ -907,7 +965,11 @@ Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 
 4. Šio straipsnio 1 dalies 3, 7, 8 ir 10 punktų nuostatos netaikomos asmenims, norintiems įsigyti ir turėti šio įstatymo 5 straipsnio 5, 6, 7 ir 8 punktuose nurodytus ginklus.
 
-5. Šio straipsnio 1 dalies 3, 4 ir 7 punktų nuostatos netaikomos specialaus statuso subjektų pareigūnams, turintiems teisę tarnybos metu nešiotis šaunamąjį ginklą ir norintiems gauti leidimą laikyti ar leidimą nešiotis ginklus.
+5. Šio straipsnio 1 dalies 3, 4 ir 7 punktų nuostatos netaikomos specialaus statuso subjektų pareigūnams ir (ar) kariams, turintiems teisę tarnybos metu nešiotis šaunamąjį ginklą ir norintiems gauti leidimą laikyti ar leidimą nešiotis ginklus. Šio straipsnio 1 dalies 7 punkto nuostatos netaikomos buvusiems specialaus statuso subjektų pareigūnams ir (ar) kariams, pateikusiems pažymą (raštą), kad jie specialaus statuso subjektų nustatyta tvarka yra išlaikę egzaminą (įskaitą) dėl tarnybinio ginklo nešiojimo (priskyrimo).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2372, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14175
 
 Straipsnio pakeitimai:
 
@@ -1105,7 +1167,11 @@ Ginklininkas privalo:
 
 1. A, B, C kategorijų ginklų, jų šaudmenų savininkas, valdytojas, naudotojas privalo:
 
-1) trumpuosius šaunamuosius ginklus nešiotis taip, kad kiti asmenys jų nematytų. Matomoje vietoje dėkle ginklą gali nešiotis uniformuotas valstybės institucijos pareigūnas ar asmuo, turintis ginklą profesinei veiklai vykdyti;
+1) trumpuosius šaunamuosius ginklus nešiotis taip, kad kiti asmenys jų nematytų. Matomoje vietoje dėkle ginklą gali nešiotis uniformuotas valstybės institucijos pareigūnas, uniformuotas šaulys, karys savanoris ar kitas aktyviojo rezervo karys, vykdydami tarnybines funkcijas, ar asmuo, turintis ginklą profesinei veiklai vykdyti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 2) įsirengti tinkamas sąlygas laikyti ginklą, šaudmenis ir laikytis ginklo, šaudmenų laikymo reikalavimų;
 
@@ -1149,7 +1215,11 @@ Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 
 1. D kategorijos ginklo savininkas privalo:
 
-1) dujinį ginklą nešiotis taip, kad kiti asmenys jo nematytų. Matomoje vietoje dėkle ginklą gali nešiotis uniformuotas valstybės institucijų pareigūnas ar asmuo, turintis ginklą profesinei veiklai vykdyti;
+1) dujinį ginklą nešiotis taip, kad kiti asmenys jo nematytų. Matomoje vietoje dėkle ginklą gali nešiotis uniformuotas valstybės institucijų pareigūnas, uniformuotas šaulys, karys savanoris ar kitas aktyviojo rezervo karys, vykdydami tarnybines funkcijas, ar asmuo, turintis ginklą profesinei veiklai vykdyti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 2) ne vėliau kaip per 5 darbo dienas informuoti teritorinę policijos įstaigą apie kitam asmeniui perduotą naudoti D kategorijos ginklą, nurodydamas ginklo markę, modelį, numerį ir asmens, kuriam perduotas naudoti ginklas, vardą, pavardę ir gyvenamosios vietos adresą;
 
@@ -1217,11 +1287,29 @@ Nr. XII-1157, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13596
 
 7. Medžioklės plotuose medžioklei skirti ginklai ir šaudmenys naudojami šio įstatymo ir medžioklę reglamentuojančių teisės aktų nustatyta tvarka. Medžioklei taip pat gali būti naudojami teisėtai turimi B ir C kategorijų trumpieji šaunamieji ginklai.
 
-8. Sportui, profesinei veiklai vykdyti, kolekcijoms sudaryti, parodoms, mokymui, moksliniam tyrimui B, C, D kategorijų ginklai, šaudmenys naudojami kitų teisės aktų nustatyta tvarka.
+8. Šaulio tarnybai skirti ginklai ir šoviniai mokymų ir pratybų metu naudojami Lietuvos šaulių sąjungos vado nustatyta tvarka, o atliekant Lietuvos šaulių sąjungos įstatymo 9 straipsnio 1 dalies 7 punkte ir 14 straipsnyje nustatytą šaulio tarnybą, šaunamieji ginklai naudojami Karinės jėgos naudojimo statuto 8 straipsnyje nustatytais pagrindais.
 
-9. A kategorijos ginklų panaudojimo tvarką nustato įstatymai, kiti teisės aktai, reglamentuojantys juridinių asmenų, kurie naudoja šiuos ginklus, darbo tvarką.
+Papildyta straipsnio dalimi:
 
-10. Masinių renginių metu šaudyti iš senovinių ginklų kopijų galima tik renginio organizatoriams tai suderinus su atitinkamos savivaldybės administracija ir nenaudojant sviedinių.
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
+
+9. Sportui, profesinei veiklai vykdyti, kolekcijoms sudaryti, parodoms, mokymui, moksliniam tyrimui B, C, D kategorijų ginklai, šaudmenys naudojami kitų teisės aktų nustatyta tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
+
+10. A kategorijos ginklų panaudojimo tvarką nustato įstatymai, kiti teisės aktai, reglamentuojantys juridinių asmenų, kurie naudoja šiuos ginklus, darbo tvarką.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
+
+11. Masinių renginių metu šaudyti iš senovinių ginklų kopijų galima tik renginio organizatoriams tai suderinus su atitinkamos savivaldybės administracija ir nenaudojant sviedinių.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 Straipsnio pakeitimai:
 
