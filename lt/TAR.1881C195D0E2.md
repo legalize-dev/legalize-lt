@@ -4,7 +4,7 @@ identifier: "TAR.1881C195D0E2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2016-01-01"
+last_updated: "2016-09-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-09-28
+Suvestinė redakcija nuo 2016-09-29 iki 2016-09-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
 
@@ -1493,6 +1493,12 @@ Nr. XII-1645, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06587
 
 3. Asmuo gali būti priimamas į tarnybą žvalgybos institucijoje arba jam leidžiama toliau tęsti tarnybą ir esant neigiamiems sveikatos patikrinimo rezultatams, jeigu dėl žvalgybos institucijos vadovo pripažintų svarbių priežasčių to reikia tarnybos interesams užtikrinti.
 
+4. Darbo kodekse nustatytos garantijos darbuotojams, auginantiems vaikus, taikomos žvalgybos pareigūnams tiek, kiek jų nenustato šis įstatymas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2621, 2016-09-20, paskelbta TAR 2016-09-28, i. k. 2016-24162
+
 71 straipsnis. Specialiosios žvalgybos pareigūnų ir slaptųjų bendradarbių socialinės garantijos
 
 Žvalgybos pareigūnams ir slaptiesiems bendradarbiams specialiąsias socialines garantijas nustato Vyriausybė.
@@ -1630,4 +1636,28 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1801, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10142
 
 Lietuvos Respublikos žvalgybos įstatymo Nr. XI-2289 46 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2382, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14743
+
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 20 ir 32 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2526, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20284
+
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 52 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2621, 2016-09-20, paskelbta TAR 2016-09-28, i. k. 2016-24162
+
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 69 ir 70 straipsnių pakeitimo įstatymas
 
