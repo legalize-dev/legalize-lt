@@ -4,7 +4,7 @@ identifier: "TAR.A7F77DF94F5D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-18"
-last_updated: "2015-01-01"
+last_updated: "2016-09-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7F77DF94F5D"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-09-29
+Suvestinė redakcija nuo 2016-09-30 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
 
@@ -107,11 +107,19 @@ Nr. X-1756, 2008-10-20, Žin., 2008, Nr. 127-4833 (2008-11-06)
 
 2. Šio straipsnio 1 dalyje nustatytos sąlygos, skiriant našlių pensiją šio įstatymo 35 straipsnyje nurodytam mirusio asmens sutuoktiniui, netaikomos, jeigu asmuo mirė iki 1991 m. birželio 1 d.
 
-3. Asmenų, mirusių po Valstybinio socialinio draudimo įstatymo įsigaliojimo, t. y. po 1991 m. birželio 1 d., sutuoktiniui bei vaikams (įvaikiams) našlių ar našlaičių pensija skiriama, jei asmuo mirties dieną buvo nuolatinis Lietuvos Respublikos gyventojas.
+3. Neteko galios nuo 2016-09-30
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2626, 2016-09-21, paskelbta TAR 2016-09-29, i. k. 2016-24198
 
 4. Našlių ir našlaičių pensija neskiriama, o paskirtosios mokėjimas nutraukiamas asmenims, teismo nuosprendžiu pripažintiems kaltais už tyčinio nusikaltimo mirusiajam, už kurį ši pensija skiriama ir mokama, padarymą.
 
-5. Šiame įstatyme nustatyta tvarka teisę gauti našlių ar našlaičių pensiją įgyja asmenys, gyvenantys valstybėse, kuriose jiems netaikomos Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos dėl pensijų mokėjimo, taip pat asmenys, kuriems taikomi šio įstatymo priede nurodyti Europos Sąjungos teisės aktai, jeigu mirusysis (nustatyta tvarka pripažintas mirusiu ar nežinia kur esančiu) buvo įgijęs ne mažesnį kaip minimalų valstybinio socialinio pensijų draudimo stažą atitinkamos rūšies pensijai gauti (atsižvelgiant į asmens amžių mirties (pripažinimo nežinia kur esančiu) dieną) dirbdamas Lietuvos įmonėse, įstaigose, organizacijose arba buvo Lietuvos Respublikos teisės aktų nustatyta tvarka reabilituotas politinis kalinys ar tremtinys, dalį stažo įgijęs kalinimo metu ar tremtyje.
+5. Šio įstatymo nustatyta tvarka našlių ar našlaičių pensija skiriama asmenims, gyvenantiems valstybėse, kuriose jiems netaikomos Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos, taip pat mirus asmeniui (asmenį pripažinus mirusiu ar nežinia kur esančiu), nurodytam šio įstatymo 1 straipsnio 1 dalies 4 punkte, jeigu mirusysis (pripažintas mirusiu ar nežinia kur esančiu) buvo įgijęs ne mažesnį kaip minimalų valstybinio socialinio pensijų draudimo stažą atitinkamos rūšies pensijai gauti (atsižvelgiant į asmens amžių mirties (pripažinimo mirusiu ar nežinia kur esančiu) dieną) dirbdamas Lietuvos įmonėse, įstaigose, organizacijose arba buvo reabilituotas politinis kalinys ar tremtinys, dalį stažo įgijęs kalinimo metu ar tremtyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2626, 2016-09-21, paskelbta TAR 2016-09-29, i. k. 2016-24198
 
 Straipsnio pakeitimai:
 
@@ -177,21 +185,29 @@ Nr. XI-528, 2009-12-08, Žin., 2009, Nr. 151-6775 (2009-12-22)
 
 1 straipsnis. Teisė gauti valstybinę socialinio draudimo pensiją
 
-1. Teisę gauti valstybinę socialinio draudimo pensiją turi nuolatiniai Lietuvos Respublikos gyventojai, asmenys, kuriems taikomi Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentai, taip pat asmenys, nurodyti šio straipsnio 3, 4 ir 5 dalyse, kurie visi šio įstatymo nustatytą laiką buvo privalomai draudžiami arba patys draudėsi valstybiniu socialiniu pensijų draudimu.
+1. Teisę gauti valstybinę socialinio draudimo pensiją turi asmenys, jeigu jie:
 
-2. Nuolatiniais Lietuvos Respublikos gyventojais laikomi Lietuvos Respublikos piliečiai, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje, o neturinčių gyvenamosios vietos – apie savivaldybę, kurioje jie gyvena, yra įrašyti į Lietuvos Respublikos gyventojų registrą, taip pat nuolat Lietuvos Respublikoje gyvenantys užsieniečiai.
+1) gyvena Lietuvos Respublikoje ir Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka yra deklaravę gyvenamąją vietą Lietuvos Respublikoje (neturintys gyvenamosios vietos – įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą);
 
-3. Lietuvoje nuolat gyvenantys užsieniečiai, taip pat asmenys, kuriems taikomi šio įstatymo priede nurodyti Europos Sąjungos teisės aktai ir kurie šio įstatymo nustatytą laiką buvo privalomai draudžiami arba patys draudėsi valstybiniu socialiniu pensijų draudimu, turi vienodą teisę gauti valstybinę socialinio draudimo pensiją pagal šį įstatymą, jeigu Lietuvos Respublikos tarptautinės sutartys nenustato kitokių šių asmenų pensinio aprūpinimo sąlygų.
+2) gyvena valstybėse, kuriose jiems taikomos Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos;
 
-4. Užsienyje nuolat gyvenantys asmenys, kurie šio įstatymo nustatytą laiką buvo privalomai draudžiami arba patys draudėsi valstybiniu socialiniu pensijų draudimu, turi teisę gauti valstybines socialinio draudimo pensijas pagal šį įstatymą ir Lietuvos Respublikos tarptautinėse sutartyse ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentuose nustatyta tvarka. Užsienyje gyvenantys asmenys, kuriems taikomi šio įstatymo priede nurodyti Europos Sąjungos teisės aktai, turi teisę gauti valstybinę socialinio draudimo pensiją šio straipsnio 5 dalyje nustatytomis sąlygomis.
+3) gyvena valstybėse, kuriose jiems taikomos Lietuvos Respublikos tarptautinių sutarčių nuostatos dėl pensijų mokėjimo;
 
-5. Asmenys, gyvenantys valstybėse, kuriose jiems netaikomos Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos dėl pensijų mokėjimo, jeigu jie yra įgiję ne mažesnį už minimalų valstybinio socialinio pensijų draudimo stažą atitinkamos rūšies pensijai gauti dirbdami Lietuvos įmonėse, įstaigose, organizacijose, turi teisę gauti valstybines socialinio draudimo pensijas pagal šį įstatymą už šio įstatymo 8 straipsnyje (išskyrus 8 straipsnio 4 dalį) ir 54 straipsnyje nurodytus laikotarpius Lietuvos Respublikos Vyriausybės nustatyta tvarka. Lietuvos Respublikos teisės aktų nustatyta tvarka reabilituotiems politiniams kaliniams ir tremtiniams, dalį stažo įgijusiems kalinimo metu ar tremtyje, sąlyga įgyti minimalų stažą dirbant Lietuvos įmonėse, įstaigose, organizacijose netaikoma.
+4) gyvena valstybėse, kuriose jiems netaikomos Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų ir Lietuvos Respublikos tarptautinių sutarčių nuostatos dėl pensijų mokėjimo.
+
+2. Šio straipsnio 1 dalies 1–3 punktuose nurodyti asmenys turi teisę gauti valstybinę socialinio draudimo pensiją, jeigu jie atitinka šio įstatymo nustatytus valstybinio socialinio pensijų draudimo stažo reikalavimus atitinkamos rūšies valstybinei socialinio draudimo pensijai skirti ir yra sukakę šio įstatymo nustatytą senatvės pensijos amžių ar pripažinti nedarbingais arba iš dalies darbingais, o tokiems asmenims mirus (Lietuvos Respublikos civilinio kodekso nustatyta tvarka asmenis pripažinus mirusiais ar nežinia kur esančiais), – jų sutuoktiniai ir vaikai (įvaikiai).
+
+3. Šio straipsnio 1 dalies 4 punkte nurodyti asmenys pagal šį įstatymą teisę gauti valstybinę socialinio draudimo pensiją įgyja tik tuo atveju, jeigu jie yra sukakę šio įstatymo nustatytą senatvės pensijos amžių ar pripažinti nedarbingais arba iš dalies darbingais ir įgiję ne mažesnį kaip minimalų valstybinio socialinio pensijų draudimo stažą atitinkamos rūšies valstybinei socialinio draudimo pensijai gauti dirbdami Lietuvos įmonėse, įstaigose, organizacijose. Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymo nustatyta tvarka reabilituotiems politiniams kaliniams ir tremtiniams (toliau – reabilituoti politiniai kaliniai ir tremtiniai), dalį valstybinio socialinio pensijų draudimo stažo įgijusiems kalinimo metu ar tremtyje, sąlyga įgyti minimalų stažą dirbant Lietuvos įmonėse, įstaigose ar organizacijose netaikoma.
 
 Straipsnio pakeitimai:
 
 Nr. XI-2137, 2012-06-28, Žin., 2012, Nr. 80-4141 (2012-07-10)
 
 Nr. XII-738, 2013-12-23, Žin., 2013, Nr. 140-7089 (2013-12-30)
+
+Straipsnio pakeitimai:
+
+Nr. XII-2626, 2016-09-21, paskelbta TAR 2016-09-29, i. k. 2016-24198
 
 2 straipsnis. Asmenys, draudžiami valstybiniu socialiniu pensijų draudimu
 
@@ -711,7 +727,7 @@ VII SKYRIUS
 
 NUO 1995 M. SAUSIO 1 D. SKIRIAMOS PENSIJOS
 
-1. Pensijos gavėjui persikėlus nuolat gyventi į kitą valstybę, jam mokama paskirtoji pensija, išskyrus našlių ar našlaičių pensijas, jeigu pensijos gavėjas yra įgijęs ne mažesnį kaip minimalų valstybinio socialinio pensijų draudimo stažą atitinkamos rūšies pensijai gauti ir visą valstybinio socialinio pensijų draudimo stažą įgijo dirbdamas Lietuvos įmonėse, įstaigose ar organizacijose arba pensijos gavėjas yra reabilituotas politinis kalinys ar tremtinys, įgijęs dalį stažo kalinimo metu ar tremtyje (54 straipsnis). Tais atvejais, kai pensijos gavėjas yra įgijęs ne mažesnį kaip minimalų valstybinio socialinio pensijų draudimo stažą atitinkamos rūšies pensijai gauti dirbdamas Lietuvos įmonėse, įstaigose ar organizacijose, tačiau į jo valstybinio socialinio pensijų draudimo stažą buvo įskaityti šiam stažui prilyginti laikotarpiai, įgyti dirbant kitose valstybėse (54 straipsnis), pensija perskaičiuojama tik pagal valstybinio socialinio pensijų draudimo stažo, įgyto dirbant Lietuvos įmonėse, įstaigose ar organizacijose, duomenis ir mokama perskaičiuotoji pensija.
+1. Pensijos gavėjui persikėlus gyventi į kitą valstybę, kurioje jam netaikomos Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos dėl pensijų mokėjimo, ir savo išvykimą deklaravus Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka, jam mokama paskirtoji pensija, išskyrus našlių ar našlaičių pensijas, jeigu pensijos gavėjas yra įgijęs ne mažesnį kaip minimalų valstybinio socialinio pensijų draudimo stažą atitinkamos rūšies pensijai gauti ir visą valstybinio socialinio pensijų draudimo stažą įgijo dirbdamas Lietuvos įmonėse, įstaigose ar organizacijose arba pensijos gavėjas yra reabilituotas politinis kalinys ar tremtinys, įgijęs dalį stažo kalinimo metu ar tremtyje (54 straipsnis). Tais atvejais, kai pensijos gavėjas yra įgijęs ne mažesnį kaip minimalų valstybinio socialinio pensijų draudimo stažą atitinkamos rūšies pensijai gauti dirbdamas Lietuvos įmonėse, įstaigose ar organizacijose, tačiau į jo valstybinio socialinio pensijų draudimo stažą buvo įskaityti šiam stažui prilyginti laikotarpiai, įgyti dirbant kitose valstybėse (54 straipsnis), pensija perskaičiuojama tik pagal valstybinio socialinio pensijų draudimo stažo, įgyto dirbant Lietuvos įmonėse, įstaigose ar organizacijose, duomenis ir mokama perskaičiuotoji pensija.
 
 55 straipsnis. Pajamos, prilyginamos asmens draudžiamosioms pajamoms
 
@@ -753,15 +769,17 @@ PENKTASIS SKIRSNIS
 
 VALSTYBINIO SOCIALINIO PENSIJŲ DRAUDIMO STAŽAS
 
-43 straipsnis. Pensijos mokėjimas pensijos gavėjui persikėlus gyventi į užsienį (atvykus gyventi į Lietuvos Respubliką)
+43 straipsnis. Pensijos mokėjimas pensijos gavėjui persikėlus gyventi į užsienį
 
 51 straipsnis. Pensijos nesumažinimo taisyklė
 
 Jei po 1995 m. sausio 1 d. perskaičiavus pensiją, paskirtą iki 1995 m. sausio 1 d., jos dydis sumažėja, palyginti su ankstesniu dydžiu, pensininkui toliau mokama anksčiau paskirta ir pagal šį įstatymą neperskaičiuota pensija, toliau indeksuojant ją šio įstatymo 52 straipsnyje nustatyta tvarka.
 
-3 straipsnis. Valstybinių socialinio draudimo pensijų skyrimo sąlygos
+3 straipsnis. Neteko galios nuo 2016-09-30
 
-Pagal šį įstatymą valstybinės socialinio draudimo pensijos skiriamos asmenims, nurodytiems 1 ir 2 straipsniuose, jeigu jie atitinka šio įstatymo nustatytus valstybinio socialinio pensijų draudimo stažo reikalavimus atitinkamai pensijos rūšiai skirti ir sukanka šio įstatymo nustatytą amžių, pripažįstami nedarbingais arba iš dalies darbingais, o tokiems asmenims mirus, – jų šeimos nariams.
+Straipsnio naikinimas:
+
+Nr. XII-2626, 2016-09-21, paskelbta TAR 2016-09-29, i. k. 2016-24198
 
 ANTRASIS SKIRSNIS
 
@@ -1068,6 +1086,12 @@ priedas
 1. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą (OL 2009 L 155, p. 17).
 
 2. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių (OL 2011 L 343, p. 1).
+
+3. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/36/ES dėl trečiųjų šalių piliečių atvykimo ir buvimo tikslu dirbti sezoniniais darbuotojais sąlygų (OL 2014 L 94, p. 375).
+
+Papildyta punktu:
+
+Nr. XII-2626, 2016-09-21, paskelbta TAR 2016-09-29, i. k. 2016-24198
 
 Įstatymas papildytas priedu:
 
@@ -1501,7 +1525,7 @@ Nr. X-658, 2006-06-08, Žin., 2006, Nr. 72-2675 (2006-06-28)
 
 VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 6, 8 IR 14 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
-Valstybinių socialinio draudimo pensijų įstatymo 8 straipsnio  2 dalies pakeitimas įsigalioja nuo 2006 m. liepos 1 d., 2 straipsnio 1 dalies 10 punkto pakeitimas, 6 straipsnio 4 dalies pakeitimas, 8 straipsnio 3 ir 6 dalių pakeitimas bei 14 straipsnio pakeitimas įsigalioja nuo 2008 m. sausio 1 d.
+Valstybinių socialinio draudimo pensijų įstatymo 8 straipsnio  2 dalies pakeitimas įsigalioja nuo 2006 m. liepos 1 d., 2 straipsnio 1 dalies 10 punkto pakeitimas, 6 straipsnio 4 dalies pakeitimas, 8 straipsnio 3 ir 6 dalių pakeitimas bei 14 straipsnio pakeitimas įsigalioja nuo 2008 m. sausio 1 d.
 
 Šio įstatymo pakeitimas:
 
