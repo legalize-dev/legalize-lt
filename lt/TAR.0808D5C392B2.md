@@ -4,7 +4,7 @@ identifier: "TAR.0808D5C392B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-03-20"
-last_updated: "2016-05-01"
+last_updated: "2016-09-30"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0808D5C392B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,17 +16,9 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 2016-05-01 iki 2016-09-29
+Suvestinė redakcija nuo 2016-09-30 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 31-1010; Žin. 2001, Nr.37-0; Žin. 2001, Nr.52-0, i. k. 1011010ISTA00IX-216
-
-TAR pastaba. Įmonių bankroto procesai, pradėti iki šio įstatymo įsigaliojimo, baigiami pagal iki įstatymo Nr. XII-2107 įsigaliojimo (2016-03-01) galiojusias nuostatas, išskyrus  nustatytą išimtį: dokumentai dėl lėšų skyrimo bankrutavusiai įmonei žemės ūkio veiklos subjektų reikalavimams sumokėti už parduotus žemės ūkio produktus tenkinti, vykdant įmonių bankroto procesus, pradėtus iki šio įstatymo įsigaliojimo, teikiami Nacionalinei mokėjimo agentūrai prie Žemės ūkio ministerijos.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2107, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19293
-
-Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 3, 11 ir 35 straipsnių pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS ĮMONIŲ BANKROTO  ĮSTATYMAS
 
@@ -1224,17 +1216,15 @@ PROCEso METU
 
 1) gyvūnai, produktai, kitas greitai gendantis ar galintis greitai prarasti savo prekinę vertę turtas – už administratoriaus, atsižvelgiant į analogiškų objektų (prekių) faktinių sandorių rinkoje kainas, nustatytą (kai turtas įkeistas – suderinus su įkaito turėtoju) kainą;
 
-2) nekilnojamasis ir įkeistas turtas, taip pat turtas, kurio vertė viršija 250 bazinių socialinių išmokų dydžio sumą, išskyrus šios dalies 1 punkte ir šio straipsnio 4, 5 dalyse nurodytus atvejus, – iš varžytynių Vyriausybės nustatyta tvarka;
+2) nekilnojamasis ir įkeistas turtas, taip pat turtas, kurio vertė viršija 250 bazinių socialinių išmokų dydžio sumą, išskyrus šios dalies 1 ir 4 punktuose ir šio straipsnio 4, 5 dalyse nurodytus atvejus, – iš varžytynių Vyriausybės nustatyta tvarka;
 
-Straipsnio punkto pakeitimai:
+3) kitas ir neparduotas dvejose varžytynėse šios dalies 2 punkte nurodytas turtas – kreditorių susirinkimo nustatyta tvarka tos pačios apimties ir detalumo, kaip buvo siūloma varžytynių metu. Kreditorių susirinkimui nusprendus pakeisti neparduoto dvejose varžytynėse turto apimtį ir detalumą, turtas parduodamas šios dalies 2 punkte nustatyta tvarka. Kai iš varžytynių neparduotas turtas išskaidomas dalimis, atskiriant menkavertį turtą, kurio kreditorių susirinkimo nustatyta kaina nesiekia 2 000 eurų, o turtas nėra įkeistas arba, jeigu turtas įkeistas, jo pardavimas yra suderintas su įkaito turėtoju ar hipotekos kreditoriumi, toks menkavertis turtas gali būti parduodamas kreditorių susirinkimo nustatyta tvarka be varžytynių;
 
-Nr. XII-1962, 2015-10-15, paskelbta TAR 2015-10-28, i. k. 2015-17031
+4) bankrutuojančiam ar bankrutavusiam bankui ar kredito unijai priklausančios reikalavimo teisės pagal skolininkų prievoles ir kitas finansinis turtas gali būti parduodamas kita, negu šios dalies 2 punkte nustatyta, tvarka. Sprendimus dėl tokių prievolių ir kito finansinio turto pardavimo priima kreditorių komitetas, o jeigu jis įstatymų nustatyta tvarka nėra renkamas, – kreditorių susirinkimas.
 
-3) kitas ir neparduotas dvejose varžytynėse šios dalies 2 punkte nurodytas turtas – kreditorių susirinkimo nustatyta tvarka tos pačios apimties ir detalumo, kaip buvo siūloma varžytynių metu. Kreditorių susirinkimui nusprendus pakeisti neparduoto dvejose varžytynėse turto apimtį ir detalumą, turtas parduodamas šios dalies 2 punkte nustatyta tvarka. Kai iš varžytynių neparduotas turtas išskaidomas dalimis, atskiriant menkavertį turtą, kurio kreditorių susirinkimo nustatyta kaina nesiekia 2 000 eurų, o turtas nėra įkeistas arba, jeigu turtas įkeistas, jo pardavimas yra suderintas su įkaito turėtoju ar hipotekos kreditoriumi, toks menkavertis turtas gali būti parduodamas kreditorių susirinkimo nustatyta tvarka be varžytynių.
+Straipsnio dalies pakeitimai:
 
-Straipsnio punkto pakeitimai:
-
-Nr. XII-1962, 2015-10-15, paskelbta TAR 2015-10-28, i. k. 2015-17031
+Nr. XII-2630, 2016-09-21, paskelbta TAR 2016-09-29, i. k. 2016-24201
 
 2. Neparduotas turtas gali būti perduodamas kreditoriams. Turto perdavimo aktą tvirtina administratorius.
 
@@ -1693,6 +1683,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2107, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19293
 
 Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 3, 11 ir 35 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2279, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06430
+
+Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 4, 5, 8, 9, 10, 11, 23, 33 ir 36 straipsnių pakeitimo įstatymo Nr. XII-1962 10 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2630, 2016-09-21, paskelbta TAR 2016-09-29, i. k. 2016-24201
+
+Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 33 straipsnio pakeitimo įstatymas
 
 16 straipsnis. Mokėjimo terminai
 
