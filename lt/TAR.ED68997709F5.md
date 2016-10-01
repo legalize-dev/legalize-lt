@@ -4,7 +4,7 @@ identifier: "TAR.ED68997709F5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2016-01-01"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ entry_into_force_conditions: "1. Įstatymo 19 straipsnio 3 dalies 2 punktas įsi
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
 
@@ -1672,7 +1672,11 @@ Nr. X-932, 2006-11-28, Žin., 2006, Nr. 137-5203 (2006-12-16)
 
 4. Apmokestinamieji asmenys privalo atskirai tvarkyti prekių, kurias šiems asmenims į šalies teritoriją atgabena kitoje valstybėje narėje PVM mokėtoju registruotas asmuo ar jo užsakymu kitas asmuo prekių vertinimo, taip pat jų aptarnavimo (remonto, priežiūros, derinimo ir kt.), apdirbimo ir perdirbimo paslaugoms atlikti, ir suteiktų paslaugų (įskaitant tam sunaudotas prekes) apskaitą. Šios apskaitos tvarkymo reikalavimus nustato centrinis mokesčio administratorius.
 
-5. Apmokestinamieji asmenys privalo tvarkyti gaunamų ir išrašomų PVM sąskaitų faktūrų registrus; į juos turi būti įtraukiamos visos išrašytos, taip pat gautos PVM sąskaitos faktūros, išskyrus PVM sąskaitas faktūras, nurodytas šio Įstatymo 80 straipsnio 7 dalyje, ar supaprastintas PVM sąskaitas faktūras. Šių registrų tvarkymo, taip pat jų saugojimo ir pateikimo reikalavimus nustato centrinis mokesčio administratorius.
+5. Apmokestinamieji asmenys privalo tvarkyti gaunamų ir išrašomų PVM sąskaitų faktūrų registrus; į juos turi būti įtraukiamos visos išrašytos, taip pat gautos PVM sąskaitos faktūros, išskyrus PVM sąskaitas faktūras, nurodytas šio Įstatymo 80 straipsnio 7 dalyje. Šių registrų tvarkymo reikalavimus nustato centrinis mokesčio administratorius. Iš šių registrų PVM sąskaitų faktūrų duomenys Valstybinei mokesčių inspekcijai teikiami laikantis Mokesčių administravimo įstatymo nuostatų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2039, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18854
 
 6. Centrinis mokesčio administratorius turi teisę nustatyti ir kitus reikalavimus dėl PVM apskaičiavimui naudojamų apskaitos registrų, jų pildymo bei tvarkymo.
 
@@ -1708,7 +1712,11 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 
 3. Lietuvos Respublikos PVM mokėtojai PVM sąskaita faktūra privalo įforminti ir prekių tiekimą ar paslaugų teikimą fiziniams asmenims, kurie nėra apmokestinamieji asmenys, jeigu prekių tiekimas ar paslaugų teikimas įvyko šalies teritorijoje, išskyrus Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus atvejus.
 
-4. Jeigu bet kuriuo iš šio straipsnio 1, 2 ir 3 dalyse nurodytų atvejų prieš prekių tiekimą (paslaugų teikimą) gaunamas avansas, dėl kurio gavimo pagal šio Įstatymo 14 straipsnio nuostatas atsiranda prievolė apskaičiuoti PVM, toks avanso gavimas turi būti įformintas PVM sąskaita faktūra.
+4. Jeigu bet kuriuo iš šio straipsnio 1, 2 ir 3 dalyse nurodytų atvejų prieš prekių tiekimą (paslaugų teikimą) gaunamas avansas, dėl kurio gavimo pagal šio Įstatymo 14 straipsnio nuostatas atsiranda prievolė apskaičiuoti PVM, toks avanso gavimas turi būti įformintas PVM sąskaita faktūra, o pačių prekių tiekimas (paslaugų teikimas) įformintas PVM sąskaita faktūra, kurioje atlygis sumažinamas gautu avansu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2039, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18854
 
 5. Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais viena PVM sąskaita faktūra gali būti įforminamos kelių PVM mokėtojų bendrai tiekiamos prekės arba teikiamos paslaugos.
 
@@ -1964,7 +1972,11 @@ Mokestinio laikotarpio PVM deklaracijos formą, reikalaujamus joje pateikti duom
 
 2. Jeigu per mokestinį laikotarpį turėjo būti tikslinama apmokestinamoji vertė ir (arba) PVM atskaita, šio straipsnio 1 dalyje nustatyta tvarka apskaičiuota mokėtina į biudžetą PVM suma didinama arba mažinama atitinkamomis apmokestinamąją vertę ir (arba) PVM atskaitą tikslinančiomis sumomis.
 
-3. Jeigu per mokestinį laikotarpį pardavimo PVM apskaičiuotas už prekes ir (arba) paslaugas, už kurias ankstesnį mokestinį laikotarpį (ankstesnius mokestinius laikotarpius) buvo gautas avansas, nuo kurio šio Įstatymo nustatyta tvarka buvo apskaičiuotas ir deklaruotas pardavimo PVM, mokėtina į biudžetą PVM suma papildomai sumažinama nuo avanso apskaičiuotu ir deklaruotu pardavimo PVM.
+3. Neteko galios nuo 2016-10-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2039, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18854
 
 4. Jeigu skaičiuojant šio straipsnio 1–3 dalyse nustatyta tvarka gaunamas neigiamas skaičius, laikoma, kad PVM mokėtojui už mokestinį laikotarpį susidarė grąžintina iš biudžeto PVM suma (šiame Įstatyme vadinama PVM skirtumu).
 
@@ -3226,9 +3238,7 @@ Straipsnio pakeitimai:
 
 Nr. XI-518, 2009-12-03, Žin., 2009, Nr. 151-6772 (2009-12-22)
 
-882 straipsnis. Deklaracijų ir ataskaitų teikimas
-
-Šiame Įstatyme numatytos PVM deklaracijos bei prekių tiekimo ir (arba) paslaugų teikimo į kitas valstybes nares ataskaitos gali būti teikiamos ir elektroninėmis priemonėmis laikantis centrinio mokesčio administratoriaus nustatytų reikalavimų.
+882 straipsnis. Neteko galios nuo 2016-10-01.
 
 Įstatymas papildytas straipsniu:
 
@@ -3237,6 +3247,10 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Straipsnio pakeitimai:
 
 Nr. XI-518, 2009-12-03, Žin., 2009, Nr. 151-6772 (2009-12-22)
+
+Straipsnio pakeitimai:
+
+Nr. XII-2039, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18854
 
 1191 straipsnis. Lietuvos Respublikos apmokestinamųjų asmenų prašymų grąžinti PVM, sumokėtą kitose valstybėse narėse, pateikimas
 
