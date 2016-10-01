@@ -4,7 +4,7 @@ identifier: "TAR.DC31692BA9D2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2015-07-01"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DC31692BA9D2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos poligrafo naudojimo įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2273, i. k. 1001010ISTAIII-1906
 
@@ -51,7 +51,11 @@ Nr. XII-1561, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05373
 
 4. Tyrimo subjektai – valstybės institucijos, pagal šį įstatymą įgaliotos atlikti tyrimą poligrafu.
 
-5. Įslaptinta informacija – informacija, apibrėžta Valstybės ir tarnybos paslapčių įstatymo 2 straipsnio 1 dalyje.
+5. Neteko galios nuo 2016-10-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2377, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14737
 
 3 straipsnis. Tyrimo subjektų veiklos teisiniai pagrindai
 
@@ -153,7 +157,11 @@ Nr. XII-1561, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05373
 
 TAR pastaba. Tyrimo specialistai, neatitinkantys įstatymo (Nr. XII-1561) 5 straipsnio 1 dalyje išdėstytame Lietuvos Respublikos poligrafo naudojimo įstatymo 8 straipsnio 1 dalies 3 punkte nustatyto reikalavimo, privalo iki 2016 m. sausio 1 d. įgyti atitinkamą kvalifikaciją.
 
-4) turėti leidimą dirbti ar susipažinti su įslaptinta informacija ir (ar) asmens patikimumo pažymėjimą.
+4) turėti leidimą dirbti ar susipažinti su įslaptinta informacija.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2377, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14737
 
 Straipsnio dalies pakeitimai:
 
@@ -209,9 +217,11 @@ Nr. XII-1561, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05373
 
 10 straipsnis. Tyrimo ar jo atsisakymo pasekmės
 
-1. Tyrimo išvada yra naudojama kaip papildoma informacija, apibūdinanti tiriamą asmenį ir jo aplinką. Jeigu asmens tyrimo išvada yra neigiama, taip pat asmeniui atsisakius tirtis poligrafu, atsižvelgiant į visą turimą informaciją apie tiriamą asmenį ir jo aplinką, šiam asmeniui gali būti neišduodamas ar panaikinamas leidimas dirbti ar susipažinti su įslaptinta informacija.
+Tyrimo išvada yra naudojama kaip papildoma informacija, apibūdinanti tiriamą asmenį ir jo aplinką. Jeigu asmens tyrimo išvada yra neigiama, taip pat asmeniui atsisakius tirtis poligrafu, atsižvelgiant į visą turimą informaciją apie tiriamą asmenį ir jo aplinką, jam leidimas dirbti ar susipažinti su įslaptinta informacija neišduodamas ar turėtas panaikinamas Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatytais atvejais ir tvarka.
 
-2. Sprendimas dėl leidimo dirbti ar susipažinti su įslaptinta informacija neišdavimo ar panaikinimo gali būti skundžiamas Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka.
+Straipsnio pakeitimai:
+
+Nr. XII-2377, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14737
 
 11 straipsnis. Tyrimo metu gautos informacijos panaudojimas ir apsauga
 
@@ -254,4 +264,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1561, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05373
 
 Lietuvos Respublikos poligrafo naudojimo įstatymo Nr. VIII-1906 2, 4, 5, 7, 8 ir 11 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2377, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14737
+
+Lietuvos Respublikos poligrafo naudojimo įstatymo Nr. VIII-1906 2, 8 ir 10 straipsnių pakeitimo įstatymas
 
