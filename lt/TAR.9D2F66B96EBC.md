@@ -4,7 +4,7 @@ identifier: "TAR.9D2F66B96EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-17"
-last_updated: "2016-06-16"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2016-06-16 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
 
@@ -1038,7 +1038,11 @@ Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA00
 
 2. Tarptautinį oro uostą valdanti valstybės institucija, valstybės ar savivaldybės įmonė oro uosto žemę valdo, naudoja ir ja disponuoja turto patikėjimo teisėmis, vadovaudamasi šiuo ir kitais Lietuvos Respublikos įstatymais. Tarptautinio oro uosto teritorijos ribas ir plotą tvirtina Lietuvos Respublikos Vyriausybė.
 
-3. Tarptautinį oro uostą valdanti valstybės institucija, valstybės ar savivaldybės įmonė turi teisę išnuomoti tarptautinio oro uosto žemės sklypus su šio oro uosto veikla susijusioms reikmėms, taip pat juridiniams ar fiziniams asmenims, kurių veikla nesusijusi su šio oro uosto veikla, šiems asmenims priklausantiems nuosavybės teise ar nuomojamiems pastatams, statiniams ar įrenginiams, esantiems tarptautinio oro uosto teritorijoje, eksploatuoti. Kontroliuojamoje teritorijoje esanti tarptautinio oro uosto žemė gali būti išnuomojama tik su šio oro uosto veikla susijusioms reikmėms. Žemės sklypai išnuomojami aukciono būdu, išskyrus žemės sklypus, užstatytus fiziniams ar juridiniams asmenims priklausančiais nuosavybės teise ar jų nuomojamais pastatais, statiniais ir įrenginiais (išskyrus laikinuosius statinius, inžinerinius tinklus ir neturinčius aiškios funkcinės priklausomybės ar apibrėžto naudojimo arba ūkinės veiklos pobūdžio statinius, kurie tarnauja pagrindiniam statiniui ar įrenginiui arba jo priklausiniui). Žemės sklypai, užstatyti fizinių ar juridinių asmenų nuomojamais pastatais, statiniais ar įrenginiais, išnuomojami tik šių pastatų, statinių ar įrenginių nuomos terminui. Žemės sklypai išnuomojami teritorijų planavimo dokumentuose nustatyto dydžio, kuris būtinas pastatams, statiniams ar įrenginiams eksploatuoti pagal Nekilnojamojo turto kadastre įrašytą jų tiesioginę paskirtį.
+3. Tarptautinį oro uostą valdanti valstybės institucija, valstybės ar savivaldybės įmonė turi teisę išnuomoti tarptautinio oro uosto žemės sklypus su šio oro uosto veikla susijusioms reikmėms, taip pat juridiniams ar fiziniams asmenims, kurių veikla nesusijusi su šio oro uosto veikla, šiems asmenims nuosavybės teise priklausantiems ar jų nuomojamiems statiniams ar įrenginiams, esantiems tarptautinio oro uosto teritorijoje, eksploatuoti. Kontroliuojamoje teritorijoje esanti tarptautinio oro uosto žemė gali būti išnuomojama tik su šio oro uosto veikla susijusioms reikmėms. Žemės sklypai išnuomojami aukciono būdu, išskyrus žemės sklypus, užstatytus fiziniams ar juridiniams asmenims nuosavybės teise priklausančiais ar jų nuomojamais statiniais ar įrenginiais (išskyrus laikinuosius statinius, inžinerinius tinklus ir neturinčius aiškios funkcinės priklausomybės ar apibrėžto naudojimo arba ūkinės veiklos pobūdžio statinius, kurie tarnauja pagrindiniam statiniui ar įrenginiui arba jo priklausiniui). Žemės sklypai, užstatyti fizinių ar juridinių asmenų nuomojamais statiniais ar įrenginiais, išnuomojami tik šių statinių ar įrenginių nuomos terminui. Žemės sklypai išnuomojami teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatyto dydžio, kuris būtinas statiniams ar įrenginiams eksploatuoti pagal Nekilnojamojo turto kadastre įrašytą jų tiesioginę paskirtį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2484, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18453
 
 4. Tarptautinio oro uosto žemės nuomos aukciono ir ne aukciono būdu tvarką, oro uosto žemės nuomos mokesčio apskaičiavimo tvarką ir oro uosto žemės nuomos mokesčio dydžius tvirtina Lietuvos Respublikos Vyriausybė.
 
@@ -1817,6 +1821,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2417, 2016-06-09, paskelbta TAR 2016-06-15, i. k. 2016-16858
 
 Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 3, 72 straipsnių ir priedo pakeitimo įstatymas
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2484, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18453
+
+Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 44 straipsnio pakeitimo įstatymas
 
 141 straipsnis. Oro navigacijos paslaugos
 
