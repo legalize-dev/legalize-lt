@@ -4,7 +4,7 @@ identifier: "TAR.1881C195D0E2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2016-09-29"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2016-09-29 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
 
@@ -409,7 +409,11 @@ PENKTASIS SKIRSNIS
 
 1. Žvalgybos institucijos vadovas kiekvienais metais atsiskaito Valstybės gynimo tarybai už savo vadovaujamos žvalgybos institucijos veiklą, teikia žvalgybos institucijos veiklos strategijos projektus pagal žvalgybos institucijos veiklos sritis.
 
-2. Asmenys, atliekantys žvalgybos institucijų veiklos kontrolę, turi turėti leidimus dirbti ar susipažinti su valstybės paslaptį sudarančia informacija, žymima slaptumo žyma „Visiškai slaptai“, ir asmens patikimumo pažymėjimus, suteikiančius teisę dirbti ar susipažinti su užsienio valstybių ar tarptautinių organizacijų perduota įslaptinta informacija, žymima slaptumo žymos „Visiškai slaptai“ atitikmeniu.
+2. Asmenys, atliekantys žvalgybos institucijų veiklos kontrolę, turi turėti leidimus dirbti ar susipažinti su valstybės paslaptį sudarančia informacija, žymima slaptumo žyma „Visiškai slaptai“.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2382, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14743
 
 3. Duomenys, galintys atskleisti įslaptintų žvalgybos pareigūnų ar žvalgybos slaptųjų bendradarbių tapatybę, žvalgybos metodus ir priemones, veiklos taktiką ir padaryti žalos žvalgybos institucijų veiklai, vykdant žvalgybos institucijų veiklos kontrolę neteikiami.
 
@@ -613,7 +617,11 @@ PRIĖMIMAS Į TARNYBĄ (DARBĄ) ŽVALGYBOS INSTITUCIJOJE
 
 5) būti tinkamas pagal sveikatos būklę;
 
-6) atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija arba asmens patikimumo pažymėjimą, jeigu pareigos susijusios su įslaptintos informacijos naudojimu;
+6) atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, jeigu pareigos susijusios su įslaptintos informacijos naudojimu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2382, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14743
 
 7) gauti teigiamus šio įstatymo 34 straipsnio 1 dalyje numatytos atrankos rezultatus.
 
@@ -1484,6 +1492,12 @@ Nr. XII-1645, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06587
 7. Žvalgybos pareigūnui, kuriam buvo išmokėta kompensacija pagal šio straipsnio 3 dalies 5, 6 arba 7 punktą ir kuriam vėliau dėl to paties sveikatos sutrikdymo nustatomas ir darbingumo lygis, papildomai išmokamas pagal šio straipsnio 3 dalies 5, 6 arba 7 punktą išmokėtos kompensacijos ir šio straipsnio 3 dalies 1, 2, 3 arba 4 punkte nurodytos kompensacijos, atsižvelgiant į nustatytą darbingumo lygį, skirtumas.
 
 8. Mokėtinos kompensacijos dydis apskaičiuojamas pagal vidutinį žuvusio ar nukentėjusio žvalgybos pareigūno tarnybinį atlyginimą.
+
+9. Žvalgybos pareigūnai, žuvę (mirę) dėl tarnybos žvalgybos institucijoje, laidojami valstybės lėšomis. Valstybės finansuojamų laidojimo išlaidų dydį nustato ir Žvalgybos pareigūnų, žuvusių (mirusių) dėl tarnybos žvalgybos institucijoje, valstybės finansuojamų laidojimo išlaidų aprašą tvirtina Vyriausybė.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2621, 2016-09-20, paskelbta TAR 2016-09-28, i. k. 2016-24162
 
 70 straipsnis. Kitos žvalgybos pareigūnų garantijos
 
