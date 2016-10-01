@@ -4,7 +4,7 @@ identifier: "TAR.CB9B34EA4BA1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-15"
-last_updated: "2011-01-01"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB9B34EA4BA1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas
 
-Suvestinė redakcija nuo 2011-01-01 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2002, i. k. 0961010ISTA00I-1494
 
@@ -205,7 +205,11 @@ MENO KŪRĖJO IR MENO KŪRĖJŲ ORGANIZACIJŲ TEISĖS Į VALSTYBĖS PARAMĄ
 
 1. Meno kūrėjų kūrybinei veiklai skatinti skiriamos valstybės stipendijos ir premijos.
 
-2. Valstybės stipendijų ir premijų meno kūrėjams skyrimo tvarką nustato Vyriausybė.
+2. Valstybės premijų meno kūrėjams skyrimo tvarką nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2001, 2015-11-10, paskelbta TAR 2015-11-18, i. k. 2015-18316
 
 3. Meno kūrėjai Vyriausybės nustatyta tvarka turi teisę įsivežti į Lietuvos Respubliką užsienio valstybių, ne Europos Sąjungos valstybių narių, renginiuose sukurtus savo kūrinius.
 
@@ -312,4 +316,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1101, 2010-11-09, Žin., 2010, Nr. 137-7002 (2010-11-23), i. k. 1101010ISTA0XI-1101
 
 Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2001, 2015-11-10, paskelbta TAR 2015-11-18, i. k. 2015-18316
+
+Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo Nr. I-1494 10 straipsnio pakeitimo įstatymas
 
