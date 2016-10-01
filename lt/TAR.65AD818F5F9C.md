@@ -4,7 +4,7 @@ identifier: "TAR.65AD818F5F9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "2015-04-14"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2015-04-14 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
 
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
 
@@ -692,7 +692,13 @@ Krovinio vežimo sutartyje vežėjas pagal priimtą užsakymą įsipareigoja pri
 
 10) mokestį už vežimą ir suteiktas paslaugas;
 
-11) vežant pavojingą krovinį – jo klasę ir nustatytą numerį.
+11) vežant pavojingą krovinį – jo klasę ir nustatytą numerį;
+
+12) važtaraščio seriją ir numerį arba tik numerį, leidžiančius identifikuoti važtaraštį.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2040, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18917
 
 3. Važtaraštyje gali būti įrašyti ir kiti duomenys, susiję su krovinio pristatymo terminu, jo įvertinimu, pakuote ar kitomis vežimo sąlygomis.
 
@@ -711,6 +717,18 @@ Nr. VIII-346, 1997-06-30, Žin., 1997, Nr. 66-1611 (1997-07-11), i. k. 0971010IS
 Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 
 Nr. X-151, 2005-03-31, Žin., 2005, Nr. 47-1559 (2005-04-12), i. k. 1051010ISTA000X-151
+
+5. Važtaraštis gali būti spausdintas (surašytas) popieriuje ir (arba) elektroninės formos. Elektroniniu važtaraščiu laikomas važtaraštis, kuriame nurodyti nustatyti važtaraščio duomenys ir kuris išrašytas ir gautas elektroniniu būdu. Elektroninis važtaraštis gali būti naudojamas tik tuo atveju, kai yra išankstinis vežėjo ir gavėjo sutikimas. Siuntėjas ir (arba) vežėjas, įformindami važtaraštį, turi užtikrinti važtaraščio kilmės autentiškumą, turinio vientisumą ir įskaitomumą. Važtaraščio kilmės autentiškumu laikomas siuntėjo ir (arba) vežėjo tapatybės tikrumas, važtaraščio turinio vientisumu – važtaraščio duomenų keitimo (išskyrus techninių klaidų taisymą) nebuvimas. Važtaraščio įskaitomumas reiškia, kad važtaraštis yra įskaitomas (perskaitomas) ir pateiktas taip, kad visą jo turinį galima aiškiai įskaityti popieriuje arba ekrane, kad nereikėtų papildomo interpretavimo ar nagrinėjimo. Elektroninio važtaraščio kilmės autentiškumas ir turinio vientisumas užtikrinami bent vienu iš šių būdų:
+
+1) naudojant saugų elektroninį parašą, kaip nustatyta Lietuvos Respublikos elektroninio parašo įstatyme;
+
+2) naudojantis Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos teikiamomis elektroninių važtaraščių išrašymo, perdavimo, gavimo paslaugomis;
+
+3) bet kokiomis verslo kontrolės priemonėmis (bet kokia atsakingų asmenų (vadovų, savininkų, darbuotojų) nustatyta ir įgyvendinama tvarka, kuri yra skirta užtikrinti tinkamą šioje dalyje nurodytų elektroniniam važtaraščiui taikomų reikalavimų laikymąsi).
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2040, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18917
 
 30 straipsnis. Važtaraščio išdavimas
 
@@ -804,7 +822,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-504, 2013-07-02, Žin., 2013, Nr. 75-3775 (2013-07-13), i. k. 1131010ISTA0XII-504
 
-9) vežant pavojingą krovinį – jo klasė ir nustatytas numeris.
+9) vežant pavojingą krovinį – jo klasė ir nustatytas numeris;
+
+10) važtaraščio serija ir numeris arba tik numeris, leidžiantys identifikuoti važtaraštį.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2040, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18917
 
 3. Veždamas krovinius savo sąskaita, vežėjas privalo laikytis darbo ir poilsio režimo, kitų krovinių vežimą reguliuojančių teisės aktų.
 
@@ -1133,6 +1157,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1574, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05688
 
 Lietuvos Respublikos kelių transporto kodekso 18 straipsnio pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2040, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18917
+
+Lietuvos Respublikos kelių transporto kodekso Nr. I-1628 29 ir 38 straipsnių pakeitimo įstatymas
 
 171 straipsnis. Viešųjų paslaugų teikimo organizavimas
 
