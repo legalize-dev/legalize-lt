@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2016-07-08"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2016-07-08 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2016-11-16
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -953,7 +953,11 @@ PRIĖMIMAS Į VALSTYBĖS TARNAUTOJŲ PAREIGAS
 
 5. Be to, į valstybės tarnautojo pareigas priimami asmenys turi atitikti specialiuosius reikalavimus, nustatytus pareigybės aprašyme. Pareigybės aprašyme negali būti nustatyti tokie specialieji reikalavimai, kurie nebūtini pareigybės aprašyme nustatytoms funkcijoms atlikti. Į karjeros valstybės tarnautojo pareigas priimamam asmeniui nėra privalomas reikalavimas turėti valstybės tarnybos stažą, išskyrus įstatymų nustatytus atvejus.
 
-6. Jei valstybės tarnautojo pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, kandidatūra teisės aktų nustatyta tvarka patikrinama iki asmens, pripažinto laimėjusiu konkursą, priėmimo į valstybės tarnautojo pareigas arba iki asmens priėmimo į valstybės tarnautojo pareigas, į kurias šio Įstatymo nustatyta tvarka priimama be konkurso. Į valstybės tarnautojo pareigas asmuo yra priimamas gavus kompetentingos valstybės institucijos išvadą, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.
+6. Jei valstybės tarnautojo pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, kandidatūra patikrinama iki asmens, pripažinto laimėjusiu konkursą, priėmimo į valstybės tarnautojo pareigas arba iki asmens priėmimo į valstybės tarnautojo pareigas, į kurias šio Įstatymo nustatyta tvarka priimama be konkurso. Į valstybės tarnautojo pareigas asmuo yra priimamas gavus kompetentingos valstybės institucijos išvadą, kad šiam asmeniui gali būti išduotas leidimas dirbti ar susipažinti su įslaptinta informacija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
 
 Straipsnio pakeitimai:
 
@@ -1333,7 +1337,11 @@ VALSTYBĖS TARNAUTOJŲ KARJERA
 
 8. Karjeros valstybės tarnautoją laikinai perkelti į kitas pareigas galima tik jo rašytiniu sutikimu, išskyrus karo padėties, nepaprastosios padėties ar ypatingų situacijų atvejus.
 
-9. Karjeros valstybės tarnautojas šio straipsnio 1–8 dalyse nurodytais atvejais ir sąlygomis į pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.
+9. Karjeros valstybės tarnautojas šio straipsnio 1–8 dalyse nurodytais atvejais ir sąlygomis į pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas leidimas dirbti ar susipažinti su įslaptinta informacija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
 
 10. Į karjeros valstybės tarnautojo ar įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu), laikinai negalinčio eiti pareigų, pareigas kitas karjeros valstybės tarnautojas gali būti perkeltas, iki grįš negalintis eiti pareigų valstybės tarnautojas. Kitais atvejais laikinai perkeltas į kitas pareigas karjeros valstybės tarnautojas negali būti ilgiau negu vienerius metus per penkerius tarnybos metus. Šis reikalavimas netaikomas valstybės tarnautojo laikino perkėlimo, uždraudus jam dirbti ar susipažinti su įslaptinta informacija, atvejais.
 
@@ -1355,7 +1363,11 @@ Nr. XII-692, 2013-12-17, Žin., 2013, Nr. 140-7069 (2013-12-30)
 
 1. Karjeros valstybės tarnautojas arba statutinis valstybės tarnautojas jo rašytiniu sutikimu gali būti perkeltas į kitas pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, taip pat dirbti į specialiąsias misijas.
 
-2. Karjeros valstybės tarnautojas arba statutinis valstybės tarnautojas į šio straipsnio 1 dalyje nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.
+2. Karjeros valstybės tarnautojas arba statutinis valstybės tarnautojas į šio straipsnio 1 dalyje nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas leidimas dirbti ar susipažinti su įslaptinta informacija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
 
 3. Atsižvelgiant į delegavimą į tarptautines institucijas ir užsienio valstybių institucijas reglamentuojančius teisės aktus, karjeros valstybės tarnautojas arba statutinis valstybės tarnautojas jo rašytiniu sutikimu gali būti laikinai perkeltas į pareigas tarptautinėje institucijoje ar užsienio valstybės institucijoje. Pretenduojantys būti laikinai perkelti į šias pareigas valstybės tarnautojai atrenkami Vyriausybės nustatyta tvarka.
 
@@ -1385,7 +1397,11 @@ Nr. X-1742, 2008-10-06, Žin., 2008, Nr. 120-4549 (2008-10-18)
 
 4. Įstaigos vadovas (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu) jo prašymu gali būti perkeltas į kitas laisvas tos pačios ar žemesnės kategorijos karjeros valstybės tarnautojo pareigas toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, jeigu jis atitinka pareigybės aprašyme nustatytus specialiuosius reikalavimus.
 
-5. Valstybės tarnautojas ir įstaigos vadovas į šio straipsnio 1, 2 ir 4 dalyse nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialusis reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.
+5. Valstybės tarnautojas ir įstaigos vadovas į šio straipsnio 1, 2 ir 4 dalyse nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas leidimas dirbti ar susipažinti su įslaptinta informacija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
 
 6. Valstybės tarnautojo perkėlimo tarnybinio kaitumo būdu į kitas valstybės tarnautojo pareigas tvarką nustato Vyriausybė.
 
@@ -10287,7 +10303,11 @@ Nr. IX-815,
 
 2. Statutinį valstybės tarnautoją laikinai perkelti į kitas pareigas galima tik jo rašytiniu sutikimu, kuriame nurodomas perkėlimo terminas, išskyrus karo padėties, nepaprastosios padėties ar ypatingų situacijų atvejus. Statutinis valstybės tarnautojas gali būti perkeltas į kitas pareigas šio straipsnio 1 dalyje nurodytu atveju, jeigu jis atitinka pareigybės aprašyme nustatytus specialiuosius reikalavimus.
 
-3. Statutinis valstybės tarnautojas šiame straipsnyje nurodytais atvejais ir sąlygomis į pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.
+3. Statutinis valstybės tarnautojas šiame straipsnyje nurodytais atvejais ir sąlygomis į pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas leidimas dirbti ar susipažinti su įslaptinta informacija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
 
 4. Laikinai perkeltam į kitas pareigas statutiniam valstybės tarnautojui mokamas ne mažesnis kaip iki perkėlimo nustatytas darbo užmokestis.
 
@@ -10415,7 +10435,7 @@ Nr. XI-2041, 2012-06-05, Žin., 2012, Nr. 69-3523 (2012-06-21)
 
 183 straipsnis. Valstybės tarnautojo laikinas perkėlimas į kitas valstybės tarnautojo pareigas uždraudus jam dirbti ar susipažinti su įslaptinta informacija
 
-1. Valstybės tarnautojui, kurio pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, uždraudus dirbti ar susipažinti su įslaptinta informacija ir paslapčių subjekto vadovui ar jo įgaliotam asmeniui nusprendus, kad tas valstybės tarnautojas negali vykdyti pavestų funkcijų nesinaudodamas įslaptinta informacija, šis tarnautojas gali būti laikinai perkeltas į kitas valstybės tarnautojo pareigas, kurių pareigybės aprašyme nėra nustatytas specialusis reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija:
+1. Valstybės tarnautojui, kurio pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, uždraudus dirbti ar susipažinti su įslaptinta informacija ir paslapčių subjekto vadovui ar jo įgaliotam asmeniui nusprendus, kad tas valstybės tarnautojas negali vykdyti pavestų funkcijų nesinaudodamas įslaptinta informacija, šis tarnautojas gali būti laikinai perkeltas į kitas valstybės tarnautojo pareigas, kurių pareigybės aprašyme nėra nustatytas specialusis reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija:
 
 1) karjeros valstybės tarnautojas – į to paties lygio ar žemesnes karjeros valstybės tarnautojo ar įstaigos vadovo pareigas;
 
@@ -10425,6 +10445,10 @@ Nr. XI-2041, 2012-06-05, Žin., 2012, Nr. 69-3523 (2012-06-21)
 
 4) statutinis valstybės tarnautojas – į to paties lygio ar žemesnes statutinio, karjeros valstybės tarnautojo ar įstaigos vadovo pareigas.
 
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
+
 2. Valstybės tarnautojas gali būti laikinai perkeltas į kitas pareigas, jeigu jis atitinka jo pareigybės aprašyme nustatytus specialiuosius reikalavimus.
 
 3. Valstybės tarnautojas gali būti perkeltas į kitas pareigas toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, esančioje toje pačioje arba kitoje gyvenamojoje vietovėje.
@@ -10433,7 +10457,11 @@ Nr. XI-2041, 2012-06-05, Žin., 2012, Nr. 69-3523 (2012-06-21)
 
 5. Valstybės tarnautoją laikinai perkelti į kitas pareigas galima tik jo rašytiniu sutikimu, išskyrus karo padėties, nepaprastosios padėties ar ypatingų situacijų atvejus.
 
-6. Valstybės tarnautojas į kitas pareigas laikinai perkeliamas ne ilgesniam kaip Valstybės ir tarnybos paslapčių įstatymo 17 straipsnio 7 dalyje nustatytam asmens kandidatūros tikrinimo laikotarpiui.
+6. Valstybės tarnautojas į kitas pareigas laikinai perkeliamas ne ilgesniam kaip Valstybės ir tarnybos paslapčių įstatymo 18 straipsnio 8 dalyje nustatytam asmens kandidatūros tikrinimo laikotarpiui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
 
 7. Laikinai perkeltam į kitas pareigas valstybės tarnautojui mokamas ne mažesnis kaip iki perkėlimo nustatytas darbo užmokestis.
 
