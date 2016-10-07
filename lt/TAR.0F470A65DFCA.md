@@ -4,7 +4,7 @@ identifier: "TAR.0F470A65DFCA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2016-08-01"
+last_updated: "2016-10-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2016-08-01 iki 2016-10-06
+Suvestinė redakcija nuo 2016-10-07 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
 
@@ -53,11 +53,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-2297, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10401
 
-3) lėšos, gautos kaip didesnio tarifo mokestis už aplinkos teršimą, kai šis mokestis taikomas už nuslėptą teršalų ir apmokestinamųjų gaminių bei apmokestinamosios pakuotės kiekį, už normatyvus viršijantį teršalų kiekį, taip pat lėšos iš baudų už nuslėptą, limitus viršijantį, sugadintą valstybinių gamtos išteklių kiekį ar valstybinių gamtos išteklių, kurių panaudojimo sąlygos buvo pablogintos, kiekį;
+3) lėšos, gautos kaip didesnio tarifo mokestis už aplinkos teršimą, kai šis mokestis taikomas už nuslėptą teršalų, sunaudotų degalų, sąvartyne pašalintų atliekų ir apmokestinamųjų gaminių bei pripildytos gaminių apmokestinamosios pakuotės kiekį, už normatyvus viršijantį teršalų kiekį, taip pat lėšos iš baudų už nuslėptą, limitus viršijantį, sugadintą valstybinių gamtos išteklių kiekį ar valstybinių gamtos išteklių, kurių panaudojimo sąlygos buvo pablogintos, kiekį;
 
 Straipsnio punkto pakeitimai:
 
 Nr. IX-2380, 2004-07-15, Žin., 2004, Nr. 116-4328 (2004-07-27), i. k. 1041010ISTA0IX-2380
+
+Nr. XII-2644, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24684
 
 4) lėšos, gautos Lietuvos Respublikos teisės aktų nustatyta tvarka realizavus konfiskuotus aplinkos apsaugos nusikaltimų ir pažeidimų padarymo įrankius bei priemones ir neteisėtai įgytus gamtos išteklius;
 
@@ -185,7 +187,7 @@ Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010IST
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                        VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -274,6 +276,14 @@ Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XII-2297, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10401
+
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 3 straipsnio pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2644, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24684
 
 Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 3 straipsnio pakeitimo įstatymas
 
