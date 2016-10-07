@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2016-10-01"
+last_updated: "2016-10-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2016-10-01 iki 2016-10-06
+Suvestinė redakcija nuo 2016-10-07 iki 2016-11-17
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -4297,7 +4297,11 @@ Davėjas turi teisę bet kuriuo metu pareikalauti grąžinti daiktą, o saugotoj
 
 7. Pasibaigus daikto saugojimui, saugotojas privalo parengti turto saugojimo ataskaitą ir ją perduoti šalims arba teismui.
 
-8. Jeigu areštuoto daikto saugotoju asmenį skiria teismas, teismo antstolis, mokesčių administratorius ar kitas pareigūnas, tai tokiai pasaugai, be šio straipsnio taisyklių, taip pat yra taikomos Civilinio proceso kodekso normos.
+8. Jeigu areštuoto daikto saugotoju asmenį skiria teismas, antstolis, mokesčių administratorius ar kitas pareigūnas, tai tokiai pasaugai, be šio straipsnio taisyklių, taip pat yra taikomos Civilinio proceso kodekso normos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685
 
 6.876 straipsnis. Paskolos gavėjo prievolių įvykdymo užtikrinimo praradimo teisinės pasekmės
 
@@ -5643,7 +5647,11 @@ Jeigu pagal nekilnojamojo daikto pirkimo–pardavimo sutartį pardavėjas perduo
 
 6.410 straipsnis. Atvejai, kuriais šio skirsnio normos netaikomos
 
-Šio skirsnio normos, reglamentuojančios įmonės pirkimą–pardavimą, netaikomos tais atvejais, kai parduodamas įkeistas įmonės turtas, taip pat kai įmonės turtą parduoda jos administratorius ar teismo antstolis.
+Šio skirsnio normos, reglamentuojančios įmonės pirkimą–pardavimą, netaikomos tais atvejais, kai parduodamas įkeistas įmonės turtas, taip pat kai įmonės turtą parduoda jos administratorius ar antstolis.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685
 
 Dešimtasis skirsnis
 
@@ -5761,7 +5769,11 @@ Teisių pirkimo–pardavimo sutarčiai taikomos šio skyriaus nuostatos tiek, ki
 
 1. Teisė yra ginčo objektas, jeigu ją ginčija asmuo, pareikšdamas ieškinį, arba yra reali tikimybė, kad toks ieškinys gali būti pareikštas.
 
-2. Ginčijamų teisių, kurios yra ginčo objektas, neturi teisės pirkti advokatai, teisėjai, notarai, teismo antstoliai, jų šeimos nariai ir artimieji giminaičiai. Šių asmenų sudarytos ginčijamų teisių pirkimo–pardavimo sutartys negalioja.
+2. Ginčijamų teisių, kurios yra ginčo objektas, neturi teisės pirkti advokatai, teisėjai, notarai, antstoliai, jų šeimos nariai ir artimieji giminaičiai. Šių asmenų sudarytos ginčijamų teisių pirkimo–pardavimo sutartys negalioja.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685
 
 3. Jeigu ginčijamos teisės parduotos, asmuo, iš kurio šios teisės išreikalaujamos, visiškai atleidžiamas nuo prievolės po to, kai sumoka pirkėjui pirkimo–pardavimo sutarties kainą, pirkimo–pardavimo sutarties sudarymo išlaidas ir palūkanas, skaičiuojamas nuo kainos. Ši išpirkimo teisė negali būti įgyvendinama, jeigu teisės parduotos kreditoriui kaip skolos grąžinimas arba vienam iš parduotos teisės įpėdinių ar bendraturčių. Išpirkimo teisė taip pat negali būti įgyvendinama, jeigu teismas priėmė sprendimą, pripažįstantį parduotą teisę.
 
@@ -10278,6 +10290,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2398, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15659
 
 Lietuvos Respublikos civilinio kodekso 2.46 straipsnio pakeitimo įstatymas
+
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685
+
+Lietuvos Respublikos civilinio kodekso 6.410, 6.427 ir 6.863 straipsnių pakeitimo įstatymas
 
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
