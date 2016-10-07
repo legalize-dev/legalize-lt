@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2016-07-01"
+last_updated: "2016-10-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr. –––––
 
-Suvestinė redakcija nuo 2016-07-01 iki 2016-10-06
+Suvestinė redakcija nuo 2016-10-07 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
 
@@ -1905,7 +1905,11 @@ GRUPĖS SKUNDAS
 
 127 straipsnis. Individualiosios vienarūšės bylos
 
-1. Teisės ir faktų požiūriu vienarūšės individualiosios administracinės bylos (toliau – individualiosios vienarūšės bylos), kurios kyla dėl norminio teisės administracinio akto pripažinimo prieštaraujančiu Konstitucijai ar įstatymams pasekmių, gali būti nagrinėjamos šiame skirsnyje nustatyta modelinio teismo proceso tvarka. Šiame skirsnyje neaptartais atvejais taikomos kitos šio įstatymo nuostatos.
+1. Teisės ir faktų požiūriu vienarūšės individualiosios administracinės bylos (toliau – individualiosios vienarūšės bylos), kurios kyla dėl norminio teisės akto pripažinimo prieštaraujančiu Konstitucijai ar įstatymams pasekmių, gali būti nagrinėjamos šiame skirsnyje nustatyta modelinio teismo proceso tvarka. Šiame skirsnyje neaptartais atvejais taikomos kitos šio įstatymo nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
 
 2. Jeigu yra duomenų, kad viename ar keliuose apygardų administraciniuose teismuose yra nagrinėjama daugiau kaip 20 individualiųjų vienarūšių bylų, viena ar daugiau iš anksčiau nurodytų administracinių bylų gali būti nagrinėjama šio įstatymo 129 straipsnyje nustatyta tvarka ir vadinama modeline byla (modelinėmis bylomis).
 
