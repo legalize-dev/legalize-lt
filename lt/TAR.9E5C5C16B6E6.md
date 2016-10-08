@@ -4,7 +4,7 @@ identifier: "TAR.9E5C5C16B6E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-18"
-last_updated: "2015-11-01"
+last_updated: "2016-10-08"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2015-11-01 iki 2016-10-07
+Suvestinė redakcija nuo 2016-10-08 iki 2016-10-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
 
@@ -550,15 +550,7 @@ Nr. XII-934, 2014-06-12, paskelbta TAR 2014-06-19 i. k. 2014-07836
 
 1. Lietuvos Respublikoje prekiauti leidžiama:
 
-1) alkoholiniais gėrimais – stacionariosiose alkoholinių gėrimų parduotuvėse, stacionariųjų parduotuvių alkoholinių gėrimų skyriuose, stacionariosiose viešojo maitinimo vietose, stacionariųjų degalinių, vykdant tik mažmeninės prekybos veiklą, ir kaimo gyvenamosiose vietovėse esančių stacionariųjų parduotuvių nespecializuotuose skyriuose, tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, parodose ir mugėse, vykstančiose stacionariuose pastatuose, viešbučių kambariuose įrengtuose minibaruose, taip pat specialiosiose prekybos vietose;
-
-1 punkto redakcija nuo 2016-01-01:
-
 1) alkoholiniais gėrimais – stacionariosiose alkoholinių gėrimų parduotuvėse, stacionariųjų parduotuvių alkoholinių gėrimų skyriuose, stacionariosiose viešojo maitinimo vietose, kaimo gyvenamosiose vietovėse esančių stacionariųjų parduotuvių nespecializuotuose skyriuose, tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, parodose ir mugėse, vykstančiose stacionariuose pastatuose, viešbučių kambariuose įrengtuose minibaruose, taip pat specialiosiose prekybos vietose;
-
-2) gamyklų supilstytais į tarą natūralios fermentacijos sidru, alumi ir alaus mišiniais su nealkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento – paviljonuose, automobilinėse parduotuvėse (iš kurių aptarnaujami kaimo gyventojai savivaldybės tarybos nustatyta tvarka) ir stacionariųjų parduotuvių nespecializuotuose skyriuose;
-
-2 punkto redakcija nuo 2016-01-01:
 
 2) gamyklų supilstytais į tarą natūralios fermentacijos sidru, alumi ir alaus mišiniais su nealkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento – paviljonuose, automobilinėse parduotuvėse (iš kurių yra aptarnaujami kaimo gyventojai savivaldybės tarybos nustatyta tvarka);
 
@@ -648,7 +640,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-1752, 2015-06-04, paskelbta TAR 2015-06-15, i. k. 2015-09296
 
-5. Alkoholinių gėrimų pardavėjai turi teisę, o kai yra abejonių, kad asmuo yra jaunesnis negu nurodyta šio straipsnio 4 dalies 3 punkte, privalo iš perkančio alkoholinius gėrimus asmens reikalauti pateikti asmens amžių liudijantį dokumentą. Jeigu toks asmuo nepateikia jo amžių liudijančio dokumento, alkoholinių gėrimų pardavėjai privalo atsisakyti parduoti jam alkoholinius gėrimus.
+5. Alkoholinių gėrimų pardavėjai iš perkančio alkoholinius gėrimus asmens privalo reikalauti pateikti asmens amžių liudijantį dokumentą tik tuo atveju, kai yra abejonių, kad asmuo yra jaunesnis, negu nurodyta šio straipsnio 4 dalies 3 punkte. Jeigu toks asmuo nepateikia jo amžių liudijančio dokumento, alkoholinių gėrimų pardavėjai privalo atsisakyti parduoti jam alkoholinius gėrimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2651, 2016-09-27, paskelbta TAR 2016-10-07, i. k. 2016-24833
 
 6. Alkoholinių gėrimų pirkėjai turi teisę pardavimo vietoje gauti išsamią, teisingą, tikslią ir aiškią informaciją apie perkamą prekę.
 
