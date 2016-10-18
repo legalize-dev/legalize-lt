@@ -4,7 +4,7 @@ identifier: "TAR.82D8168D3049"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2016-09-01"
+last_updated: "2016-10-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,17 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2016-09-01 iki 2016-10-17
+Suvestinė redakcija nuo 2016-10-18 iki 2016-12-23
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
+
+TAR pastaba. Įstatymuose ir kituose teisės aktuose pateiktos nuorodos į 2004 m. gruodžio 15 d. Europos Parlamento ir Tarybos direktyvą 2004/108/EB dėl valstybių narių įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo, panaikinančią Direktyvą 89/336/EEB (OL 2004 L 390, p. 24), yra laikomos nuorodomis į 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyvą 2014/30/ES dėl valstybių narių įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo (nauja redakcija) (OL 2014 L 96, p. 79). Įstatymuose ir kituose teisės aktuose pateiktos nuorodos į 1999 m. kovo 9 d. Europos Parlamento ir Tarybos direktyvą 1999/5/EB dėl radijo ryšio įrenginių ir telekomunikacijų galinių įrenginių bei abipusio jų atitikties pripažinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 23 tomas, p. 254) yra laikomos nuorodomis į 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyvą 2014/53/ES dėl valstybių narių įstatymų, susijusių su radijo įrenginių tiekimu rinkai, suderinimo, kuria panaikinama Direktyva 1999/5/EB (OL 2014 L 153, p. 62).
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
+
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 12, 43, 45, 46, 72, 73, 74 straipsnių, septintojo skirsnio pavadinimo ir 2 priedo pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -718,9 +726,13 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 Prisijungti prie elektroninių ryšių tinklų be ūkio subjekto, teikiančio elektroninių ryšių tinklus ir (ar) paslaugas, sutikimo draudžiama.
 
-43 straipsnis. Radijo ryšio įrenginiai ir telekomunikacijų galiniai įrenginiai
+43 straipsnis. Radijo ryšio įrenginiai ir galiniai įrenginiai
 
-Radijo ryšio įrenginių ir telekomunikacijų galinių įrenginių jungimo sąlygas, esminius reikalavimus, įpareigojimus, susijusius su informacijos apie sąsajų specifikacijas teikimu bei radijo ryšio įrenginių ir telekomunikacijų galinių įrenginių prijungimu, taip pat jų teikimo į rinką, pardavimo ir naudojimo tvarką bei sąlygas, reikalavimus, taikomus radijo ryšio įrenginiams ir telekomunikacijų galiniams įrenginiams, jų atitikties vertinimo, patvirtinimo bei priežiūros tvarką ir sąlygas bei susijusius reikalavimus nustato Radijo ryšio įrenginių ir telekomunikacijų galinių įrenginių techninis reglamentas, tvirtinamas Ryšių reguliavimo tarnybos direktoriaus įsakymu.
+Reikalavimus, taikomus radijo ryšio įrenginiams, jų tiekimo rinkai, eksploatacijos pradžios ir naudojimo, atitikties vertinimo, priežiūros tvarką ir sąlygas nustato Radijo ryšio įrenginių techninis reglamentas, tvirtinamas Ryšių reguliavimo tarnybos direktoriaus įsakymu. Įpareigojimai, susiję su informacijos apie sąsajų technines specifikacijas teikimu, galinių įrenginių prijungimu, taip pat gamintojo kodų skyrimo nestandartinių galinių įrenginių gamintojams, šių kodų naudojimo tvarka ir sąlygos nustatomos Ryšių reguliavimo tarnybos direktoriaus įsakymais.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
 
 44 straipsnis. Elektromagnetinis suderinamumas
 
@@ -1236,7 +1248,11 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 74 straipsnis. Ekonominės sankcijos
 
-1. Ūkio subjektui, kuris nesilaiko vertimosi elektroninių ryšių veikla sąlygas nustatančių teisės aktų ar elektroninių ryšių išteklių naudojimo sąlygų, įskaitant vartotojų, paslaugų gavėjų teises, arba nevykdo įpareigojimų, nustatytų kaip ūkio subjektui, turinčiam didelę įtaką atitinkamoje rinkoje arba paskirtam teikti universaliąsias paslaugas, arba nevykdo Ryšių reguliavimo tarnybos įpareigojimų, nustatytų pagal šio Įstatymo 22 straipsnio 6 dalį, arba nesilaiko radijo ryšio įrenginių ir telekomunikacijų galinių įrenginių techninio reglamento arba elektromagnetinio suderinamumo techninio reglamento, Ryšių reguliavimo tarnyba turi teisę skirti baudą iki 3 procentų bendrųjų metinių pajamų iš veiklos, susijusios su elektroniniais ryšiais, o jeigu tokios veiklos mastą apskaičiuoti sunku arba neįmanoma, – iki 86 886 eurų.
+1. Ūkio subjektui, kuris nesilaiko vertimosi elektroninių ryšių veikla sąlygas nustatančių teisės aktų ar elektroninių ryšių išteklių naudojimo sąlygų, paslaugų gavėjų, įskaitant vartotojus, teisių arba nevykdo įpareigojimų, nustatytų kaip ūkio subjektui, turinčiam didelę įtaką atitinkamoje rinkoje arba paskirtam teikti universaliąsias paslaugas, arba nevykdo Ryšių reguliavimo tarnybos įpareigojimų, nustatytų pagal šio Įstatymo 22 straipsnio 6 dalį, arba nesilaiko radijo ryšio įrenginių techninio reglamento arba elektromagnetinio suderinamumo techninio reglamento, Ryšių reguliavimo tarnyba turi teisę skirti iki 3 procentų bendrųjų metinių pajamų iš veiklos, susijusios su elektroniniais ryšiais, dydžio baudą, o jeigu tokios veiklos mastą apskaičiuoti sunku arba neįmanoma, – iki 86 886 eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
 
 2. Ūkio subjektui, padariusiam pakartotinį arba sunkų šio straipsnio 1 dalyje nurodytą pažeidimą, Ryšių reguliavimo tarnyba turi teisę skirti baudą iki 5 procentų bendrųjų metinių pajamų iš veiklos, susijusios su elektroniniais ryšiais, o jeigu tokios veiklos mastą apskaičiuoti sunku arba neįmanoma, – iki 144 810 eurų.
 
@@ -1458,7 +1474,11 @@ elektroninių ryšių įstatymo
 
 3. 1998 m. lapkričio 20 d. Europos Parlamento ir Tarybos direktyva 98/84/EB dėl sąlygine prieiga grindžiamų paslaugų ir sąlyginės prieigos paslaugų teisinės apsaugos (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 147).
 
-4. 1999 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 1999/5/EB dėl radijo ryšio įrenginių ir telekomunikacijų galinių įrenginių bei abipusio jų atitikties pripažinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 23 tomas, p. 254).
+4. Neteko galios nuo 2016-10-18
+
+Punkto naikinimas:
+
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
 
 5. 2002 m. kovo 7 d. Europos Parlamento ir Tarybos sprendimas Nr. 676/2002/EB dėl radijo spektro politikos teisinio reguliavimo pagrindų Europos bendrijoje (Sprendimas dėl radijo spektro) (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 317).
 
@@ -1478,11 +1498,27 @@ elektroninių ryšių įstatymo
 
 13. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 L 364, p. 1).
 
-14. 2004 m. gruodžio 15 d. Europos Parlamento ir Tarybos direktyva 2004/108/EB dėl valstybių narių įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo, panaikinanti Direktyvą 89/336/EEB (OL 2004 L 390, p. 24).
+14. Neteko galios nuo 2016-10-18
+
+Punkto naikinimas:
+
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
 
 15. 2008 m. birželio 20 d. Europos Komisijos direktyva 2008/63/EB dėl konkurencijos telekomunikacijų galinių įrenginių rinkose (OL 2008 L 162, p. 20).
 
 16. 2013 m. birželio 24 d. Komisijos reglamentas (ES) Nr. 611/2013 dėl priemonių, kurios pagal Europos Parlamento ir Tarybos direktyvą 2002/58/EB dėl privatumo ir elektroninių ryšių taikomos pranešimams apie asmens duomenų saugumo pažeidimus (OL 2013 L 173, p. 2).
+
+17. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/30/ES dėl valstybių narių įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo (nauja redakcija) (OL 2014 L 96, p. 79).
+
+Papildyta punktu:
+
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
+
+18. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/53/ES dėl valstybių narių įstatymų, susijusių su radijo įrenginių tiekimu rinkai, suderinimo, kuria panaikinama Direktyva 1999/5/EB (OL 2014 L 153, p. 62).
+
+Papildyta punktu:
+
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
 
 Priedo pakeitimai:
 
@@ -1646,6 +1682,14 @@ Nr. XII-2345, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13912
 
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 37 straipsnio pakeitimo įstatymas
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
+
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 12, 43, 45, 46, 72, 73, 74 straipsnių, septintojo skirsnio pavadinimo ir 2 priedo pakeitimo įstatymas
+
 3 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 1. Abonentas – asmuo, kuris yra viešųjų elektroninių ryšių paslaugų teikimo sutarties su šių paslaugų teikėju šalis.
@@ -1710,6 +1754,12 @@ Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 37 straipsnio p
 
 31. Nesėkmingas skambutis – ryšys, kai skambutis buvo sėkmingai sujungtas, bet į jį nebuvo atsakyta arba buvo tinklo valdymo intervencija.
 
+311. Nustatymas radijo bangomis – vietos, greičio ir (ar) kitų objekto parametrų nustatymas arba informacijos apie šiuos parametrus gavimas naudojant radijo bangų sklidimo savybes.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
+
 32. Operatorius – ūkio subjektas, teikiantis ar turintis teisę teikti viešąjį ryšių tinklą ar susijusias priemones.
 
 33. Paslaugų gavėjas – asmuo, kuriam teikiamos viešosios elektroninių ryšių paslaugos ar kuris kreipėsi dėl jų teikimo.
@@ -1740,11 +1790,19 @@ Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 37 straipsnio p
 
 8) prieigą prie virtualiojo tinklo paslaugų.
 
-39. Radijo bangos – laisvai sklindančios erdvėje elektromagnetinės bangos.
+39. Radijo bangos – laisvai sklindančios erdvėje elektromagnetinės bangos, kurių dažnis žemesnis kaip 3 000 GHz.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
 
 40. Radijo mėgėjas – fizinis asmuo, užsiimantis radijo ryšio veikla asmeniniais ir su verslu nesusijusiais tikslais ir iš jos nesipelnantis.
 
-41. Radijo ryšio įrenginys – įrenginys arba atitinkama jo dalis, leidžiantys palaikyti radijo ryšį siunčiant ir (arba) priimant radijo bangas naudojant radijo ryšiui skirtą radijo spektro dalį.
+41. Radijo ryšio įrenginys – elektros ar elektroninis gaminys, kurio paskirtis – kartu su pagalbiniu įtaisu, pavyzdžiui, antena, arba be jo radijo ryšio, taip pat nustatymo radijo bangomis tikslu skleisti ir (arba) priimti radijo bangas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
 
 42. Radijo ryšio kanalas – radijo dažnių juosta nustatytai techninių priemonių ir radijo bangų sklidimo aplinkos visumai, skirta tam tikrai informacijai perduoti ir priimti.
 
@@ -2008,7 +2066,11 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 SEPTINTASIS SKIRSNIS
 
-Radijo RYŠIO ĮRENGINIAI ir TELEKOMUNIKACIJŲ galiniai įrenginiai. Elektromagnetinis suderinamumas
+RADIJO RYŠIO ĮRENGINIAI IR GALINIAI ĮRENGINIAI. ELEKTROMAGNETINIS SUDERINAMUMAS
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
 
 57 straipsnis. Teisės naudoti elektroninių ryšių išteklius perleidimas
 
