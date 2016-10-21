@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2016-01-01"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-10-20
+Suvestinė redakcija nuo 2016-10-21 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
 
@@ -23,11 +23,7 @@ Nauja įstatymo redakcija nuo 2014-10-01:
 
 Nr. XII-802, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04025
 
-LIETUVOS RESPUBLIKOS
-
-VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO
-
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMAS
 
 1998 m. gegužės 12 d. Nr. VIII-729 Vilnius
 
@@ -342,6 +338,18 @@ Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
 6. Asmenys, kuriems valstybės ir savivaldybių turtas perduotas neatlygintinai naudotis, negali jo išnuomoti ar kitaip perduoti naudotis tretiesiems asmenims.
 
 7. Šio straipsnio nuostatos netaikomos, kai valstybei nuosavybės teise priklausantis nekilnojamasis turtas suteikiamas pagal panaudos sutartį vadovaujantis šio įstatymo 18 straipsnio 5 dalimi ir 19 straipsnio 4 dalies 1 punktu.
+
+8. Šio straipsnio 3 dalis netaikoma juridiniams asmenims, kurie vykdo Lietuvos Respublikos įstatymų pavestas funkcijas ir kurių turimo nekilnojamojo turto nepakanka ar  jis yra netinkamas vykdomai veiklai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2678, 2016-10-11, paskelbta TAR 2016-10-20, i. k. 2016-25456
+
+9. Valstybės ar savivaldybės turto panaudos gavėjas panaudos sutarties galiojimo laikotarpiu ne vėliau kaip per keturis mėnesius nuo kiekvienų kalendorinių metų pabaigos teikia šio turto valdytojui ataskaitą, kurioje nurodoma, kaip yra naudojamas panaudos pagrindais perduotas ilgalaikis materialusis turtas, kokią veiklą vykdo panaudos gavėjas, ar panaudos gavėjas vykdo įsipareigojimus savo lėšomis atlikti nekilnojamojo daikto einamąjį ar statinio kapitalinį remontą arba kito ilgalaikio materialiojo turto remontą, ar vykdomos kitos panaudos sutarties sąlygos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2678, 2016-10-11, paskelbta TAR 2016-10-20, i. k. 2016-25456
 
 15 straipsnis. Valstybės ir savivaldybių ilgalaikio materialiojo turto nuoma
 
@@ -1286,6 +1294,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2023, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18614
 
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 21 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2678, 2016-10-11, paskelbta TAR 2016-10-20, i. k. 2016-25456
+
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas
 
 26 straipsnis. Valstybės ir savivaldybių turto pripažinimas nereikalingu arba netinkamu (negalimu) naudoti
 
