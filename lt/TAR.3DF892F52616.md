@@ -4,7 +4,7 @@ identifier: "TAR.3DF892F52616"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-01-18"
-last_updated: "2015-12-04"
+last_updated: "2016-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3DF892F52616"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vertybinių popierių įstatymas
 
-Suvestinė redakcija nuo 2015-12-04 iki 2016-10-31
+Suvestinė redakcija nuo 2016-11-01 iki 2017-06-27
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-626, i. k. 1071010ISTA00X-1023
 
@@ -1201,15 +1201,23 @@ TAR pastaba. 20 straipsnio 2 dalies 2 ir 3 punktuose nurodytas emitentas, kurio 
 
 2. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Finansinių priemonių rinkų įstatymo 81 straipsnio 2 dalyje nustatytas teises. Šioms teisėms įgyvendinti priežiūros institucija gali pasitelkti policijos pareigūnų.
 
-51 straipsnis. Atsakomybė už šio įstatymo pažeidimus
+51 straipsnis. Atsakomybė už teisės aktų pažeidimus
 
-1. Poveikio priemonės Finansinių priemonių rinkų įstatymo 94 straipsnyje nustatyta tvarka taikomos už šio įstatymo ar jo pagrindu priimtų teisės aktų ir (arba) 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (toliau – Reglamentas (EB) Nr. 1060/2009) nustatytų reikalavimų ir (arba) priežiūros institucijos duotų privalomų vykdyti nurodymų nesilaikymą:
+Pakeistas straipsnio pavadinimas:
+
+Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
+
+1. Poveikio priemonės Finansinių priemonių rinkų įstatymo 94 straipsnyje nustatyta tvarka taikomos už šio įstatymo ar jo pagrindu priimtų teisės aktų ir (arba) 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (toliau – Reglamentas (EB) Nr. 1060/2009) nustatytų reikalavimų arba Lietuvos Respublikos akcinių bendrovių įstatyme ar šio įstatymo pagrindu priimtuose teisės aktuose viešam vertybinių popierių siūlymui nustatytų sąlygų ir reikalavimų ir (arba) priežiūros institucijos duotų privalomų vykdyti nurodymų nesilaikymą:
 
 1) paskelbimas asmens (tarp jų ir emitento), nurodant jo padarytą pažeidimą;
 
 2) įspėjimas;
 
 3) piniginė bauda.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
 
 2. Priežiūros institucija sprendimą dėl poveikio priemonės taikymo priima, jeigu praėjo ne daugiau kaip 2 metai nuo pažeidimo padarymo dienos, o kai pažeidimas tęstinis ar trunkamasis, – nuo paskutinių tęstinio pažeidimo veiksmų atlikimo dienos ar trunkamojo pažeidimo paaiškėjimo dienos.
 
@@ -1235,7 +1243,11 @@ TAR pastaba. 20 straipsnio 2 dalies 2 ir 3 punktuose nurodytas emitentas, kurio 
 
 2) emitentams, kurie laiku neįvykdė jiems taikomų reikalavimų pagal šio įstatymo 21, 22, 23, 29 ir 32 straipsnius, asmenims, kurie laiku nepranešė apie balso teisių įgijimą ar praradimą šio įstatymo 25, 26, 27 ir 28 straipsniuose nustatyta tvarka, – iki 2 000 000 eurų, jeigu tai fiziniai asmenys;
 
-3) asmenims, organizuojantiems ar įgyvendinantiems vertybinių popierių viešą siūlymą arba prekybą reguliuojamoje rinkoje, jeigu prieš tai nebuvo patvirtintas ir (arba) paskelbtas prospektas arba šių vertybinių popierių viešas siūlymas ar prekyba reguliuojamoje rinkoje yra uždrausti arba sustabdyti, – iki viešai siūlytų ar į prekybą reguliuojamoje rinkoje įtrauktų vertybinių popierių bendros nominaliosios vertės dydžio;
+3) asmenims, organizuojantiems ar įgyvendinantiems vertybinių popierių viešą siūlymą arba prekybą reguliuojamoje rinkoje, jeigu prieš tai nebuvo patvirtintas ir (arba) paskelbtas prospektas arba šių vertybinių popierių viešas siūlymas ar prekyba reguliuojamoje rinkoje yra uždrausti, sustabdyti arba neatitinka šiame įstatyme, Lietuvos Respublikos akcinių bendrovių įstatyme ar šių įstatymų pagrindu priimtuose teisės aktuose viešam vertybinių popierių siūlymui ir įtraukimui į prekybą reguliuojamoje rinkoje nustatytų sąlygų ir reikalavimų, – iki viešai siūlytų ar į prekybą reguliuojamoje rinkoje įtrauktų vertybinių popierių bendros nominaliosios vertės dydžio;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
 
 4) asmenims, atsakingiems už prospekte pateiktos informacijos teisingumą ir išsamumą, prospekte pateikusiems ne visą, neišsamią ar klaidinančią informaciją ir taip nesilaikantiems šio įstatymo 6 straipsnyje nustatytų reikalavimų, – iki 28 962 eurų;
 
@@ -1309,7 +1321,11 @@ priedas
 
 4. 2004 m. gruodžio 15 d. Europos Parlamento ir Tarybos direktyva 2004/109/EB dėl informacijos apie emitentus, kurių vertybiniais popieriais leista prekiauti reguliuojamoje rinkoje, skaidrumo reikalavimų suderinimo, iš dalies keičianti Direktyvą 2001/34/EB (OL 2004 L 390, p. 38), su paskutiniais pakeitimais, padarytais 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/78/ES (OL 2010 L 331, p. 120).
 
-5. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013 (OL 2013 L 146, p. 1).
+5. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d.  Europos Parlamento ir Tarybos direktyva 2014/51/ES (OL 2014 L 153, p. 1).
+
+Punkto pakeitimai:
+
+Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
 
 6. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/73/ES, kuria iš dalies keičiama Direktyva 2003/71/EB dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi visuomenei ar įtraukiami į prekybos sąrašą, ir Direktyva 2004/109/EB dėl informacijos apie emitentus, kurių vertybiniais popieriais leista prekiauti reguliuojamoje rinkoje, skaidrumo reikalavimų suderinimo (OL 2010 L 327, p. 1).
 
@@ -1430,4 +1446,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2074, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19282
 
 Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
+
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 51 ir 52 straipsnių ir priedo pakeitimo įstatymas
 
