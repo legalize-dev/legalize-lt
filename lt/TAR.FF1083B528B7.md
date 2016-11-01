@@ -4,7 +4,7 @@ identifier: "TAR.FF1083B528B7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-09"
-last_updated: "2016-08-01"
+last_updated: "2016-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF1083B528B7"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redaguota : 1995 07 21
 
-Suvestinė redakcija nuo 2016-08-01 iki 2016-10-31
+Suvestinė redakcija nuo 2016-11-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
 
@@ -62,7 +62,11 @@ Nr. XI-935, 2010-06-22, Žin., 2010, Nr. 81-4229 (2010-07-10)
 
 5. Biosferos stebėsenos (monitoringo) teritorijos – saugomos teritorijos (biosferos rezervatai ir biosferos poligonai), įsteigtos globalinei bei regioninei biosferos stebėsenai (monitoringui) ir gamtosaugos eksperimentams vykdyti, taip pat jose esantiems gamtos kompleksams išsaugoti.
 
-6. Natūralios buveinės apsaugos būklė – apsaugos kokybę rodanti natūralią buveinę ir jos būdingas rūšis veikiančių poveikių visuma, galinti turėti ilgalaikę įtaką buveinės natūraliam paplitimui, struktūrai, funkcijoms ir jos būdingų rūšių išlikimui europinėje teritorijoje valstybių narių, kurioms taikoma Europos bendrijos steigimo sutartis.
+6. Natūralios buveinės apsaugos būklė – natūralią buveinę ir jos būdingas rūšis veikiančių poveikių visuma, galinti turėti ilgalaikę įtaką buveinės natūraliam paplitimui, struktūrai, funkcijoms ir jos būdingų rūšių išlikimui, atsižvelgiant į vertinimą, europinėje teritorijoje valstybių narių, kurioms taikoma Sutartis dėl Europos Sąjungos veikimo, arba Lietuvos Respublikos teritorijoje, arba šios buveinės natūraliame areale.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
 
 7. Buveinių apsaugai svarbi teritorija – Europos bendrijos svarbos teritorijoje įstatymų, administracinių aktų ir (arba) sutarčių pagrindu nustatyta teritorija, kurioje taikomos būtinos apsaugos priemonės palankiai natūralių buveinių ir (ar) rūšių populiacijų, kurioms teritorija yra nustatyta, apsaugos būklei palaikyti ar jai atkurti.
 
@@ -992,7 +996,7 @@ Nr. XII-1305, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16784
 
 3) miško žemę kitomis naudmenomis paversti būtina įgyvendinant valstybei svarbius projektus;
 
-4) formuojamos šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose ar bendruosiuose planuose numatytos visuomeninės paskirties, bendrojo naudojimo ir atskirųjų želdynų teritorijos.
+4) formuojamos šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose ar bendruosiuose planuose numatytos visuomeninės paskirties, bendrojo naudojimo ir atskirųjų želdynų teritorijos;
 
 9. Valstybiniuose draustiniuose privačios nuosavybės teise priklausančio žemės sklypo neleidžiama dalyti dalimis, jeigu po padalijimo (atidalijimo) bent viena sklypo dalis tampa mažesnė kaip 7 hektarai, o besiribojančių su vandens telkiniu žemės sklypų pakrančių ilgis – mažesnis kaip 50 metrų, išskyrus atvejus, kai:
 
@@ -1000,7 +1004,7 @@ Nr. XII-1305, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16784
 
 2) pagal Miškų įstatymo nustatytas sąlygas atidalijama miškų ūkio paskirties žemės sklypo dalis buvusiai sodybai atstatyti;
 
-3) atidalijama miškų ūkio paskirties žemės sklypo dalis, kurioje yra teisėtai pastatytas gyvenamasis namas arba gyvenamasis namas kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotas kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas), formuojant atskirus žemės sklypus – miškų ūkio paskirties žemės sklypą ir kitos paskirties žemės sklypą, kuris formuojamas gyvenamajam namui kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotam kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas), eksploatuoti.
+3) atidalijama miškų ūkio paskirties žemės sklypo dalis, kurioje yra teisėtai pastatytas gyvenamasis namas arba gyvenamasis namas kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotas kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas), formuojant atskirus žemės sklypus – miškų ūkio paskirties žemės sklypą ir kitos paskirties žemės sklypą, kuris formuojamas gyvenamajam namui kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotam kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas), eksploatuoti;
 
 10. Valstybiniuose parkuose privačios nuosavybės teise priklausančio žemės sklypo neleidžiama dalyti dalimis, jeigu po padalijimo (atidalijimo) bent viena sklypo dalis tampa mažesnė kaip 7 hektarai, o besiribojančių su vandens telkiniu žemės sklypų pakrančių ilgis – mažesnis kaip 50 metrų, išskyrus atvejus, kai:
 
@@ -1012,7 +1016,7 @@ Nr. XII-1305, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16784
 
 4) pagal Miškų įstatymo nustatytas sąlygas atidalijama miškų ūkio paskirties žemės sklypo dalis buvusiai sodybai atstatyti;
 
-5) atidalijama miškų ūkio paskirties žemės sklypo dalis, kurioje yra teisėtai pastatytas gyvenamasis namas arba gyvenamasis namas kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotas kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas), formuojant atskirus žemės sklypus – miškų ūkio paskirties žemės sklypą ir kitos paskirties žemės sklypą, kuris formuojamas gyvenamajam namui kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotam kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas), eksploatuoti.
+5) atidalijama miškų ūkio paskirties žemės sklypo dalis, kurioje yra teisėtai pastatytas gyvenamasis namas arba gyvenamasis namas kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotas kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas), formuojant atskirus žemės sklypus – miškų ūkio paskirties žemės sklypą ir kitos paskirties žemės sklypą, kuris formuojamas gyvenamajam namui kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotam kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas), eksploatuoti;
 
 11. Šio straipsnio 9 ir 10 dalyse nustatyti apribojimai dalyti dalimis privačios nuosavybės teise priklausančius žemės sklypus valstybiniuose draustiniuose ir valstybiniuose parkuose netaikomi, kai keičiamos gretimų žemės sklypų ribos. Šios ribos keičiamos neatsižvelgiant į žemės sklypų pagrindinę žemės naudojimo paskirtį, prie šių žemės sklypų prijungiant jų paskirtį atitinkančias žemės naudmenas.
 
@@ -1096,13 +1100,15 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1979 m. balandžio 2 d. Tarybos direktyva 79/409/EEB dėl laukinių paukščių apsaugos (OL 2004 m. specialusis leidimas, 15 skyrius, 1 tomas, p. 98) su paskutiniais pakeitimais, padarytais 1997 m. liepos 29 d. Komisijos direktyva 97/49/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 3 tomas, p. 344).
+1. 1992 m. gegužės 21 d. Tarybos direktyva 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei floros apsaugos (OL 2004 m. specialusis leidimas, 15 skyrius, 2 tomas, p. 102) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos direktyva 2013/17/ES (OL 2013 L 158, p. 193).
 
-2. 1992 m. gegužės 21 d. Tarybos direktyva 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei floros apsaugos (OL 2004 m. specialusis leidimas, 15 skyrius, 2 tomas, p. 102) su paskutiniais pakeitimais, padarytais 1997 m. spalio 27 d. Tarybos direktyva 97/62/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 3).
+2. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/35/EB dėl atsakomybės už aplinkos apsaugą siekiant išvengti žalos aplinkai ir ją ištaisyti (atlyginti) (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 357) su paskutiniais pakeitimais, padarytais 2013 m. birželio 12 d. Europos Parlamento ir Tarybos direktyva 2013/30/ES (OL 2013 L 178, p. 66).
 
-Įstatymas papildytas priedu:
+3. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos direktyva 2009/147/EB dėl laukinių paukščių apsaugos (kodifikuota redakcija) (OL 2010 L 20, p. 7) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos direktyva 2013/17/ES (OL 2013 L 158, p. 193).
 
-Nr. XI-935, 2010-06-22, Žin., 2010, Nr. 81-4229 (2010-07-10)
+Priedo pakeitimai:
+
+Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
 
 Pakeitimai:
 
