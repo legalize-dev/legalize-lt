@@ -4,7 +4,7 @@ identifier: "TAR.9D1ADB9E1518"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-09-25"
-last_updated: "2016-08-01"
+last_updated: "2016-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2016-08-01 iki 2016-10-31
+Suvestinė redakcija nuo 2016-11-01 iki 2018-01-23
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
 
@@ -47,6 +47,12 @@ Nr. XII-545, 2013-10-08, Žin., 2013, Nr. 110-5429 (2013-10-19)
 
 1. Atliekų tvarkytojas – įmonė ar kitas juridinis asmuo, kuris tvarko atliekas pagal Atliekų tvarkymo įstatymo ir kitų teisės aktų reikalavimus.
 
+11. Aerobiškai skaidus plastikinis pirkinių maišelis – plastikinis pirkinių maišelis, kurio medžiagos sudėtyje yra aerobinį skilimą į mikrodaleles spartinančių priedų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
+
 2. Daugkartinis pakuočių naudojimas (toliau – pakartotinis naudojimas) – operacija, kai pakuotės (sukonstruotos taip, kad naudojimo laikotarpiu galima būtų transportuoti daugiau nei vieną kartą) yra vėl pripildomos naudojant pripildant reikalingus papildomus rinkoje esančius produktus ar jų nenaudojant ar panaudojamos tam pačiam tikslui, kuriam jos buvo pagamintos. Jei tokios daugkartinės pakuotės daugiau nebenaudojamos pagal paskirtį, jos tampa pakuočių atliekomis.
 
 21. Daugkartinė pakuotė – pakuotė, skirta naudoti pagal paskirtį daugiau negu vieną kartą.
@@ -58,6 +64,18 @@ Nr. XII-545, 2013-10-08, Žin., 2013, Nr. 110-5429 (2013-10-19)
 5. Grupinė, arba antrinė, pakuotė (toliau – grupinė pakuotė) – pakuotė, kurioje vartotojams ar gaminio naudotojams pateikiama tam tikra grupė prekinių vienetų ar kuri naudojama prekių atsargoms papildyti. Grupinę pakuotę galima pašalinti nepažeidus gaminio.
 
 6. Importuotojas – kaip ši sąvoka apibrėžta Lietuvos Respublikos atliekų tvarkymo įstatyme.
+
+61. Labai lengvas plastikinis pirkinių maišelis – plastikinis pirkinių maišelis, kurio sienelės plonesnės kaip 15 mikronų ir kuris būtinas higienos tikslais arba pateikiamas kaip nefasuotiems maisto produktams skirta pirminė pakuotė siekiant išvengti maisto švaistymo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
+
+62. Lengvasis plastikinis pirkinių maišelis – plastikinis pirkinių maišelis, kurio sienelės plonesnės kaip 50 mikronų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
 
 7. Organinis perdirbimas – aerobinis (kompostavimas) ar anaerobinis (biometanizavimas) pakuočių atliekų biologiškai skylančios dalies apdorojimas naudojant mikroorganizmus, kurio metu gaunama stabilizuota organinė liekana arba metanas. Šalinimas į sąvartyną negali būti laikomas pakuočių atliekų organinio perdirbimo būdu.
 
@@ -100,6 +118,12 @@ Nr. XII-2306, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10413
 3) pakuotę sudarantys pakuotės komponentai ir pagalbiniai elementai yra šios pakuotės dalys. Pagalbiniai elementai, tiesiogiai prikabinti ar pritvirtinti prie gaminio ir atliekantys pakuotės funkciją, yra pakuotė, išskyrus atvejus, kai jie yra gaminio sudedamoji dalis ir visos dalys yra skirtos kartu naudoti ir pašalinti (šiam kriterijui paaiškinti skirti pavyzdžiai pateikti Įstatymo 1 priedo 3 punkte).
 
 22. Perdirbimas – pakuočių atliekas sudarančių medžiagų perdirbimas gamybos proceso metu, įskaitant organinį perdirbimą, bet išskyrus naudojimą energijai gauti, norint pakuočių atliekas sudarančias medžiagas panaudoti pagal pirminę ar kitokią paskirtį.
+
+221. Plastikinis pirkinių maišelis – iš plastiko pagamintas maišelis (su rankenomis arba be jų), teikiamas vartotojui prekių ar produktų pardavimo vietoje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
 
 23. Prekinė, arba pirminė, pakuotė (toliau – prekinė pakuotė) – pakuotė, kuri kartu su gaminiu sudaro prekinį vienetą ir pateikiama vartotojams ar gaminio naudotojams.
 
@@ -560,6 +584,12 @@ tvarkymo įstatymo
 2. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos direktyva 2004/12/EB, iš dalies keičianti direktyvą 94/62/EB dėl pakuočių ir pakuočių atliekų (OL 2004 m. specialusis leidimas, 13 skyrius, 34 tomas, p. 3).
 
 3. 2013 m. vasario 7 d. Komisijos direktyva 2013/2/ES, kuria iš dalies keičiamas Europos Parlamento ir Tarybos direktyvos 94/62/EB dėl pakuočių ir pakuočių atliekų I priedas (OL 2013 L 37, p. 10).
+
+4. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/720, kuria dėl lengvųjų plastikinių pirkinių maišelių sunaudojimo mažinimo iš dalies keičiama Direktyva 94/62/EB (OL 2015 L 115, p. 11).
+
+Papildyta punktu:
+
+Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
 
 Įstatymas papildytas priedu:
 
