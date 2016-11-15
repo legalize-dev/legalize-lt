@@ -4,7 +4,7 @@ identifier: "TAR.D790096B17EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-10"
-last_updated: "2016-07-14"
+last_updated: "2016-11-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2016-07-14 iki 2016-11-14
+Suvestinė redakcija nuo 2016-11-15 iki 2016-11-17
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
 
@@ -554,7 +554,11 @@ TAR pastaba. Įstatymo nuostatos dėl vartojimo ginčų neteisminio sprendimo pr
 
 3) Valstybinė kainų ir energetikos kontrolės komisija – vartotojų ir energetikos įmonių, geriamojo vandens tiekimo ir (ar) nuotekų tvarkymo įmonių ginčus dėl apmokėjimo už suvartotą energiją ar paslaugas, dėl valstybės reguliuojamų kainų ir (ar) tarifų taikymo, dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl prisijungimo, energijos ir energijos išteklių tiekimo srautų balansavimo, taip pat kitus vartotojų ir energetikos įmonių ginčus energetikos srityje, nepriskirtus Valstybinei energetikos inspekcijai prie Energetikos ministerijos;
 
-4) Valstybinė energetikos inspekcija prie Energetikos ministerijos – vartotojų ir energetikos įmonių ginčus dėl energetikos objektų, įrenginių ir apskaitos priemonių naudojimo, energijos tiekimo nutraukimo, sustabdymo ar ribojimo;
+4) Valstybinė energetikos inspekcija prie Energetikos ministerijos – vartotojų ir energetikos įmonių ginčus dėl energetikos objektų, įrenginių ir apskaitos priemonių naudojimo, energijos tiekimo nutraukimo, sustabdymo ar ribojimo, taip pat vartotojų ir energijos taupymo paslaugų teikėjų ginčus dėl energijos taupymo paslaugų teikimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2707, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26491
 
 5) Lietuvos advokatūros advokatų taryba ar jos sudarytas organas – vartotojų ir advokatų ginčus dėl teisinių paslaugų;
 
