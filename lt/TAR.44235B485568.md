@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2016-01-01"
+last_updated: "2016-11-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-11-14
+Suvestinė redakcija nuo 2016-11-15 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
 
@@ -89,7 +89,11 @@ Nr. XI-2093, 2012-06-21, Žin., 2012, Nr. 76-3936 (2012-06-30)
 
 19. Energijos tranzitas – energijos ir (ar) energijos išteklių persiuntimas, kai vienoje valstybėje esanti energija ar energijos ištekliai perduodami energijos ar energijos išteklių gavėjui, esančiam kitoje valstybėje, pasinaudojant tarpinės trečiosios šalies (ar trečiųjų šalių) perdavimo tinklais arba perdavimo sistemomis (magistraliniais dujotiekiais).
 
-20. Energijos vartojimo auditas – procedūra, kurios metu nustatomos ir įvertinamos energijos išteklių ir (ar) energijos sąnaudos pastatuose, įrenginiuose ir technologiniams procesams arba bendros energijos išteklių ir (ar) energijos sąnaudos, reikalingos teikiant viešąsias ar privačias paslaugas, parenkamos ir ekonomiškai pagrindžiamos energijos išteklių ir (ar) energijos taupymo priemonės ir pateikiama ataskaita energijos vartojimo audito užsakovui.
+20. Energijos vartojimo auditas – procedūra, kurios metu nustatomos ir įvertinamos energijos išteklių ir (ar) energijos sąnaudos pastatuose, transporto priemonėse, įrenginiuose ir technologiniams procesams arba bendros energijos išteklių ir (ar) energijos sąnaudos, reikalingos teikiant viešąsias ar privačias paslaugas, parenkamos ir ekonomiškai pagrindžiamos energijos išteklių ir (ar) energijos taupymo priemonės ir pateikiama ataskaita energijos vartojimo audito užsakovui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 
 21. Energijos vartotojas (toliau – vartotojas) – asmuo, kurio įrenginiai yra prijungti prie energetikos įmonių valdomų energetikos objektų ir kuris perka energiją vartojimo tikslams.
 
@@ -99,7 +103,11 @@ Nr. XI-2093, 2012-06-21, Žin., 2012, Nr. 76-3936 (2012-06-30)
 
 24. Reguliuojamoji energetikos veikla (toliau – reguliuojamoji veikla) – energetikos veikla, kuriai reikalingi licencijos, leidimai, atestatai ir (ar) kuriai taikomos valstybės reguliuojamos kainos.
 
-25. Savanoriškas susitarimas – viešai skelbiamas Lietuvos Respublikos energetikos ministerijos ir energetikos įmonių susitarimas, kuriame šalys savanoriškai nustato energijos išteklių ir energijos vartojimo efektyvumo didinimo ir (ar) aplinkos apsaugos tikslus, sudaro tų tikslų pasiekimo grafiką, nustato susitarimo įgyvendinimo stebėsenos ir atskaitomybės reikalavimus.
+25. Neteko galios nuo 2016-11-15.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 
 26. Suskystintos naftos dujos – sočiųjų ir nesočiųjų angliavandenilių mišinys, išgautas perdirbant naftos produktus, kuris normaliomis sąlygomis yra dujinės būsenos.
 
@@ -315,11 +323,35 @@ Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 
 18) nustato energijos vartojimo pastatuose, įrenginiuose ir technologiniams procesams audito atlikimo tvarką ir sąlygas, tvirtina šio audito metodikas, taip pat energijos vartojimo auditą atliekančių specialistų rengimo ir atestavimo taisykles, organizuoja šio įstatymo 28 straipsnyje nurodytų energijos vartojimo auditą atliekančių specialistų atestavimą arba paskiria už tai atsakingą instituciją;
 
-19) nustato savanoriškų susitarimų sudarymo tvarką ir sudaro su energetikos įmonėmis savanoriškus susitarimus;
+19) kartu su Susisiekimo ministerija nustato ir tvirtina energijos vartojimo audito transporto priemonėse metodiką;
 
-20) organizuoja keitimąsi patirtimi efektyvaus energijos išteklių ir energijos vartojimo srityje tarp valstybės institucijų, įstaigų, įmonių, organizacijų nacionaliniu ir tarptautiniu lygiu;
+Straipsnio punkto pakeitimai:
 
-21) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
+Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
+
+20) nustato susitarimų dėl energijos sutaupymo sudarymo tvarką ir sudaro su energetikos įmonėmis susitarimus;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
+
+21) nustato susitarimų dėl vartotojų švietimo ir konsultavimo sudarymo su energijos tiekėjais tvarką;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
+
+22) organizuoja keitimąsi patirtimi efektyvaus energijos išteklių ir energijos vartojimo srityje tarp valstybės institucijų, įstaigų, įmonių, organizacijų nacionaliniu ir tarptautiniu lygiu;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
+
+23) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 
 7 straipsnis. Susisiekimo ministerijos kompetencija
 
@@ -953,7 +985,11 @@ SKUNDŲ IR GINČŲ NAGRINĖJIMAS. atsakomybė
 
 4. Vartotojų ir energetikos įmonių ginčus ne teismo tvarka nagrinėja:
 
-1) Valstybinė energetikos inspekcija – dėl energetikos objektų, įrenginių ir apskaitos priemonių naudojimo, energijos tiekimo nutraukimo, sustabdymo ar ribojimo;
+1) Valstybinė energetikos inspekcija – dėl energetikos objektų, įrenginių ir apskaitos priemonių naudojimo, energijos tiekimo nutraukimo, sustabdymo ar ribojimo, energijos taupymo paslaugų teikimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 
 2) Komisija – dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl prisijungimo, apmokėjimo už suvartotą energiją ar paslaugas, valstybės reguliuojamų kainų ir (ar) tarifų taikymo, dėl energijos ir energijos išteklių tiekimo srautų balansavimo, taip pat kitus vartotojų ir energetikos įmonių ginčus energetikos srityje, nepriskirtus Valstybinei energetikos inspekcijai.
 
@@ -1109,6 +1145,12 @@ Lietuvos Respublikos                              �
 
 16. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo (OL 2011 L 326, p. 1).
 
+17. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/27/ES dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamos direktyvos 2009/125/EB ir 2010/30/ES bei kuria panaikinamos direktyvos 2004/8/EB ir 2006/32/EB (OL 2012 L 315, p. 1).
+
+Papildyta punktu:
+
+Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
+
 Priedo pakeitimai:
 
 Nr. XII-576, 2013-11-07, Žin., 2013, Nr. 120-6048 (2013-11-23)
@@ -1262,6 +1304,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2089, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19367
 
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 34 straipsnio pakeitimo ir Įstatymo papildymo 34-1 straipsniu įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
+
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 34 straipsnių ir priedo pakeitimo įstatymas
 
 191 straipsnis. Centralizuotai tiekiamų suskystintų naftos dujų kainos
 
