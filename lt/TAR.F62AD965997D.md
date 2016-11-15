@@ -4,7 +4,7 @@ identifier: "TAR.F62AD965997D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-05-20"
-last_updated: "2016-01-01"
+last_updated: "2016-11-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-11-14
+Suvestinė redakcija nuo 2016-11-15 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
 
@@ -42,7 +42,11 @@ BENDROSIOS NUOSTATOS
 
 2. Daugiabučiuose namuose atsiskaitomieji šilumos apskaitos prietaisai įrengiami šilumos pirkimo–pardavimo vietoje.
 
-3. Daugiabučiuose namuose, jeigu yra techninės galimybės ir vartotojai pageidauja, šilumos tiekėjai įrengia vartotojo bute ar kitose patalpose suvartotos šilumos apskaitos prietaisus tiekimo–vartojimo ribos vietoje. Šių apskaitos prietaisų įrengimo, priežiūros ir patikros sąnaudos įtraukiamos į šilumos pardavimo kainas arba nustatomas atskiras mokestis tik atitinkamos grupės vartotojams. Šių apskaitos prietaisų rodmenys naudojami atsiskaitomaisiais šilumos apskaitos prietaisais nustatytam šilumos kiekiui paskirstyti buitiniams šilumos vartotojams.
+3. Daugiabučiuose namuose, jeigu yra techninės galimybės ir vartotojai pageidauja, šilumos tiekėjai įrengia vartotojo bute ar kitose patalpose šilumos skaitiklius arba daliklius. Šiems vartotojams yra taikomas šio įstatymo 11 straipsnio 5 dalyje numatytas atskiras mokestis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
 4. Karšto vandens tiekėjas arba šio įstatymo 15 straipsnio 2 dalyje nustatytu atveju esamas tiekėjas įrengia vartotojo bute ar kitose patalpose karšto vandens apskaitos prietaisus tiekimo–vartojimo ribos vietoje. Šių apskaitos prietaisų įrengimo, priežiūros ir patikros sąnaudos įtraukiamos į karšto vandens apskaitos prietaisų aptarnavimo mokestį. Šių apskaitos prietaisų rodmenys naudojami atsiskaityti su karšto vandens tiekėjais už karštam vandeniui paruošti suvartotą geriamojo vandens kiekį, taip pat šilumos kiekiui, suvartotam su karštu vandeniu, paskirstyti buitiniams šilumos vartotojams.
 
@@ -144,6 +148,26 @@ DEŠIMTASIS SKIRSNIS
 
 3. Jeigu į pastatą pristatomas šilumnešis patenka ir į pastato patalpose įrengtus šildymo, vėdinimo ir (ar) karšto vandens prietaisus, šilumos tiekėjas turi teisę, pateikęs raštišką prašymą patalpų savininkams, patikrinti, ar nėra šilumnešio nutekėjimų bet kurioje pastato šildymo ir karšto vandens sistemos vietoje.
 
+4. Šilumos tiekėjai įrengia vartotojo bute ar kitose patalpose:
+
+1) šilumos skaitiklius, jeigu prie šilumos perdavimo tinklo prijungiamas naujas statomas pastatas;
+
+2) šilumos skaitiklius, jeigu atkuriant ar pagerinant pastato atitvarų ir (ar) inžinerinių sistemų fizines ir energines savybes yra rekonstruojamas, atnaujinamas (modernizuojamas) ar remontuojamas pastatas (jo dalis), kurio rekonstravimo, atnaujinimo (modernizavimo) ar remonto kaina sudaro daugiau kaip 25 procentus pastato atkuriamosios vertės, neįskaitant žemės sklypo, ant kurio stovi pastatas, ir gautas daugumos rekonstruojamo, atnaujinamo (modernizuojamo) ar remontuojamo pastato savininkų sutikimas įrengti šilumos skaitiklius;
+
+3) šilumos skaitiklius arba daliklius, jeigu yra techninės galimybės ir vartotojai pageidauja.
+
+TAR pastaba. 11 straipsnio 4 dalis įsigalioja 2017-03-01.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+5. Už šio straipsnio 4 dalyje numatytų šilumos skaitiklių arba daliklių įrengimą ir eksploatavimą vartotojams, kuriems įrengti šilumos skaitikliai arba dalikliai, yra nustatomas atskiras mokestis. Šilumos skaitiklių arba daliklių aptarnavimo mokestį nustato savivaldybės taryba pagal Valstybinės kainų ir energetikos kontrolės komisijos patvirtintą metodiką. Šių apskaitos prietaisų rodmenys naudojami atsiskaitomaisiais šilumos apskaitos prietaisais nustatytam šilumos kiekiui paskirstyti vartotojams.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
 20 straipsnis. Pastatų šildymo ir karšto vandens sistemų priežiūra
 
 1. Prie šilumos tiekimo sistemos prijungtas daugiabučio namo šildymo ir karšto vandens sistemas, bendrosios dalinės nuosavybės teise priklausančias butų ir kitų patalpų savininkams, taip pat šilumos punktus, tiek nuosavybės teise priklausančius šilumos ir (ar) karšto vandens tiekėjui ar tretiesiems asmenims, tiek butų ir kitų patalpų savininkams, turi prižiūrėti (eksploatuoti) pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas). Teisę reguliuoti (nuotoliniu būdu ar kitaip daryti įtaką) namo šilumos punkto įrenginių darbą, laikydamasis nustatytų higienos normų, turi tik pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) arba atitinkamą kvalifikaciją turintys daugiabučio namo bendrijos atstovas ar daugiabučio namo butų ir kitų patalpų savininkų išrinktas jų įgaliotas atstovas. Daugiabučio namo šilumos punktus, nuosavybės teise priklausančius šilumos ir (ar) karšto vandens tiekėjui ar tretiesiems asmenims, pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) prižiūri (eksploatuoja) šio įstatymo pagrindu, nesudarydamas atskirų sutarčių su šilumos punktų savininkais. Pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) savo prievoles vykdo apdairiai, sąžiningai ir šilumos ir (ar) karšto vandens vartotojų interesais. Pastato šildymo ir karšto vandens sistemos prižiūrėtoją (eksploatuotoją) Civilinio kodekso 4.85 straipsnyje nustatyta sprendimų priėmimo tvarka pasirenka daugiabučio namo butų ir kitų patalpų savininkai, daugiabučio namo butų ir kitų patalpų savininkų bendrija arba, jeigu šie nepriima sprendimo, bendrojo naudojimo objektų administratorius. Daugiabučio namo šildymo ir karšto vandens sistemos priežiūros (eksploatavimo) sutartį su pastato šildymo ir karšto vandens sistemos prižiūrėtoju (eksploatuotoju) sudaro daugiabučio namo butų ir kitų patalpų savininkų bendrija, butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotas asmuo arba bendrojo naudojimo objektų administratorius. Pastato šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) neturi teisės įgalioti kitų asmenų verstis atestatu reguliuojama veikla arba perduoti jiems šią teisę pagal sutartį, arba kitaip pavesti vykdyti šią veiklą. Kai pastato šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) yra bendrija, ji gali pirkti atskirus darbus ar paslaugas iš subjektų, turinčių atitinkamą kompetenciją, technines priemones ir gebėjimus. Daugiabučio namo savininkų bendrija ir (ar) bendrojo naudojimo objektų administratorius gali būti pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas).
@@ -238,95 +262,271 @@ Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
 
 8. Buitinis šilumos vartotojas – fizinis asmuo, perkantis šilumą ir (ar) karštą vandenį savo buities reikmėms.
 
-9. Karštas vanduo – iš geriamojo vandens paruoštas, pašildant jį iki higienos normomis nustatytos temperatūros, vanduo.
+9. Efektyvaus centralizuoto šilumos tiekimo sistema – aprūpinimo šiluma sistema, kurioje esamam šilumos energijos poreikiui pagaminti naudojama ne mažiau kaip 50 procentų atsinaujinančiųjų išteklių energijos, 50 procentų technologinio proceso metu nepanaudotos šilumos, 75 procentai bendruose šilumos ir elektros gamybos įrenginiuose pagamintos šilumos arba ne mažiau kaip 50 procentų bendro jų derinio.
 
-10. Karšto vandens tiekėjas – asmuo, tiekiantis karštą vandenį vartotojams pagal pirkimo–pardavimo sutartis.
+Papildyta straipsnio dalimi:
 
-11. Karšto vandens tiekimas – centralizuotai paruošto karšto vandens pristatymas ir pardavimas karšto vandens vartotojams.
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
-12. Kintamoji karšto vandens kainos dedamoji – kintanti karšto vandens kainos dalis, išreiškiama formule, kuri taikoma ne dažniau kaip kas mėnesį, apskaičiuojant konkretų kintamosios dedamosios dydį, atsižvelgus į tiekiamos šilumos ir geriamojo vandens kainų pokytį.
+10. Karštas vanduo – iš geriamojo vandens paruoštas, pašildant jį iki higienos normomis nustatytos temperatūros, vanduo.
 
-13. Kintamoji šilumos bazinės kainos dedamoji – kintanti šilumos bazinės kainos dalis, išreiškiama formule, kuri koreguojama kasmet, atsižvelgus į kuro struktūros pasikeitimą ir veiklos efektyvumo užduotis, nustatytas Valstybinės kainų ir energetikos kontrolės komisijos, vadovaujantis jos patvirtintu Lyginamosios analizės aprašu, ir taikoma ne dažniau kaip kas mėnesį, apskaičiuojant konkretų kintamosios dedamosios dydį, atsižvelgus į kuro ir iš nepriklausomų gamintojų perkamos šilumos kainų pokytį.
+Straipsnio dalies numeracijos pakeitimas:
 
-14. Kompensacija už rezervinę galią – pagal Vyriausybės ar jos įgaliotos institucijos patvirtintą metodiką apskaičiuota su rezervuota galia susijusių papildomų sąnaudų kompensacija, mokama vartotojo, naudojančio šilumos tiekimo sistemą kaip rezervinį šildymo būdą.
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
-15. Konkurencinis šilumos vartotojas – šilumos vartotojas, esantis šilumos tiekimo konkurencinėje zonoje, nustatytoje savivaldybės tarybos patvirtintame specialiajame šilumos ūkio plane, arba kitas Valstybinės kainų ir energetikos kontrolės komisijos nustatytas šilumos vartotojas, suvartojantys daugiau kaip 1 procentą šilumos tiekėjo per praėjusius kalendorinius metus realizuoto šilumos kiekio. Šiems vartotojams šilumos kaina nustatoma individualių sąnaudų principu.
+11. Karšto vandens tiekėjas – asmuo, tiekiantis karštą vandenį vartotojams pagal pirkimo–pardavimo sutartis.
 
-16. Mokėjimo už šilumą pranešimas – pagal Vyriausybės ar jos įgaliotos institucijos nustatytą formą šilumos tiekėjo parengta ir privalomus apskaitos dokumentų rekvizitus turinti išsami, tiksli, aiški ir visus mokesčiams apskaičiuoti reikalingus išeities duomenis turinti informacija buitiniam šilumos vartotojui apie jam už atsiskaitymo laikotarpį apskaičiuotas mokėtinas už patiektą šilumą šildymui ir (ar) karštam vandeniui ruošti sumas.
+Straipsnio dalies numeracijos pakeitimas:
 
-17. Nacionalinė šilumos ūkio plėtros programa – Vyriausybės tvirtinamas nacionalinio lygmens strateginio planavimo dokumentas, kuriuo, atsižvelgiant į Nacionalinę energetinės nepriklausomybės strategiją, yra nustatomos ilgalaikės ir kompleksinės šilumos gamybos, bendros šilumos ir elektros energijos gamybos (kogeneracijos) bei šilumos perdavimo plėtros ir modernizavimo kryptys bei įgyvendinimo priemonės valstybės teritorijoje.
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
-18. Nenutrūkstamo aprūpinimo šiluma vartotojai – Vyriausybės ar jos įgaliotos institucijos, savivaldybių tarybų patvirtintuose sąrašuose numatytos įstaigos ar organizacijos, kurioms būtinas nenutrūkstamas aprūpinimas šiluma.
+12. Karšto vandens tiekimas – centralizuotai paruošto karšto vandens pristatymas ir pardavimas karšto vandens vartotojams.
 
-19. Nepaskirstytasis karšto vandens kiekis – viršijantis leistinas apskaitos prietaisų paklaidas skirtumas tarp geriamojo vandens karštam vandeniui paruošti kiekio, išmatuoto daugiabučio namo įvade, ir butų karšto vandens skaitiklių rodmenų sumos.
+Straipsnio dalies numeracijos pakeitimas:
 
-20. Nepriklausomas šilumos gamintojas – asmuo, gaminantis ir parduodantis šilumą ir (ar) karštą vandenį šilumos tiekėjui arba, turėdamas šilumos tiekimo licenciją, – vartotojui.
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
-21. Pastato šildymo būdas – pastato projektavimo dokumentuose techniniu sprendimu nustatytas būdas pastato patalpoms šildyti, apimantis ir karšto vandens tiekimo sistemoje įrengtus šildymo prietaisus.
+13. Kintamoji karšto vandens kainos dedamoji – kintanti karšto vandens kainos dalis, išreiškiama formule, kuri taikoma ne dažniau kaip kas mėnesį, apskaičiuojant konkretų kintamosios dedamosios dydį, atsižvelgus į tiekiamos šilumos ir geriamojo vandens kainų pokytį.
 
-22. Pastato šildymo ir karšto vandens sistema – pastate įrengtas techninių priemonių kompleksas, skirtas į pastatą perduotai arba pastate gaminamai šilumai ir (ar) karštam vandeniui į patalpas pristatyti. Nuo tiekėjo tinklų ji atribojama pastato įvadu.
+Straipsnio dalies numeracijos pakeitimas:
 
-23. Pastato šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) – asmuo, kuris atitinka šio įstatymo keliamus reikalavimus, yra atestuotas nustatyta tvarka ir verčiasi sistemų priežiūros (eksploatavimo) veikla.
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
-24. Pastovioji karšto vandens kainos dedamoji – pastovi karšto vandens kainos dalis, apskaičiuota karšto vandens kainos galiojimo laikotarpiui.
+14. Kintamoji šilumos bazinės kainos dedamoji – kintanti šilumos bazinės kainos dalis, išreiškiama formule, kuri koreguojama kasmet, atsižvelgus į kuro struktūros pasikeitimą ir veiklos efektyvumo užduotis, nustatytas Valstybinės kainų ir energetikos kontrolės komisijos, vadovaujantis jos patvirtintu Lyginamosios analizės aprašu, ir taikoma ne dažniau kaip kas mėnesį, apskaičiuojant konkretų kintamosios dedamosios dydį, atsižvelgus į kuro ir iš nepriklausomų gamintojų perkamos šilumos kainų pokytį.
 
-25. Pastovioji šilumos bazinės kainos dedamoji – pastovi šilumos bazinės kainos dalis, antraisiais ir kitais jos galiojimo metais taikoma perskaičiuojant pastoviosios dedamosios dydį metams.
+Straipsnio dalies numeracijos pakeitimas:
 
-26. Sąskaita už šilumą – Lietuvos Respublikos buhalterinės apskaitos įstatymo reikalavimus atitinkantis dokumentas, kuriame nurodytas atsiskaitymo laikotarpiu vartotojui patiektos šilumos ar karšto vandens kiekis, jų kaina ir suma, kurią turi sumokėti vartotojas.
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
-27. Šildymo sezonas – laikotarpis, kurio pradžia ir pabaiga nustatoma savivaldybės vykdomosios institucijos sprendimu pagal statybos techniniais reglamentais apibrėžtą lauko oro temperatūrą, kuriai esant privaloma pradėti ir galima baigti nustatytos paskirties savivaldybių pastatų šildymą.
+15. Kompensacija už rezervinę galią – pagal Vyriausybės ar jos įgaliotos institucijos patvirtintą metodiką apskaičiuota su rezervuota galia susijusių papildomų sąnaudų kompensacija, mokama vartotojo, naudojančio šilumos tiekimo sistemą kaip rezervinį šildymo būdą.
 
-28. Šilumnešis – specialiai paruoštas vanduo, karštas vanduo, garas, kondensatas, kitas skystis ar dujos, naudojami šilumai pristatyti.
+Straipsnio dalies numeracijos pakeitimas:
 
-29. Šilumos bazinė kaina – ilgalaikė šilumos kaina, sudaryta iš pastoviosios ir kintamosios šilumos bazinės kainos dedamųjų, apskaičiuotų pagal Valstybinės kainų ir energetikos kontrolės komisijos patvirtintą Šilumos kainų nustatymo metodiką, parengtą pagal Valstybinės kainų ir energetikos kontrolės komisijos parengtus ir Vyriausybės patvirtintus Šilumos kainų nustatymo metodikos principus, nustatyta ne trumpesniam kaip 3 metų ir ne ilgesniam kaip 5 metų laikotarpiui. Minėtą laikotarpį pasirenka savivaldybių tarybos ar šio įstatymo 32 straipsnio 11 ir 12 dalyse numatytais atvejais – įmonės. Abi kainos dedamosios taikomos šilumos kainoms apskaičiuoti. Šilumos bazinė kaina gali būti vienanarė arba dvinarė.
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
-30. Šilumos dalikliai – netiesioginio matavimo prietaisai, kurių sistema kartu su atsiskaitomuoju prietaisu, kaip papildoma dalimi, naudojama išmatuotam šilumos energijos kiekiui paskirstyti.
+16. Konkurencinis šilumos vartotojas – šilumos vartotojas, esantis šilumos tiekimo konkurencinėje zonoje, nustatytoje savivaldybės tarybos patvirtintame specialiajame šilumos ūkio plane, arba kitas Valstybinės kainų ir energetikos kontrolės komisijos nustatytas šilumos vartotojas, suvartojantys daugiau kaip 1 procentą šilumos tiekėjo per praėjusius kalendorinius metus realizuoto šilumos kiekio. Šiems vartotojams šilumos kaina nustatoma individualių sąnaudų principu.
 
-31. Šilumos dvinarė kaina – šilumos kaina, sudaryta iš pastoviosios, mokamos už vidutinę šilumos vartojimo galią eurais už kilovatą per mėnesį, ir kintamosios, mokamos euro centais už šilumos kilovatvalandę, dedamųjų.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+17. Mokėjimo už šilumą pranešimas – pagal Vyriausybės ar jos įgaliotos institucijos nustatytą formą šilumos tiekėjo parengta ir privalomus apskaitos dokumentų rekvizitus turinti išsami, tiksli, aiški ir visus mokesčiams apskaičiuoti reikalingus išeities duomenis turinti informacija buitiniam šilumos vartotojui apie jam už atsiskaitymo laikotarpį apskaičiuotas mokėtinas už patiektą šilumą šildymui ir (ar) karštam vandeniui ruošti sumas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+18. Nacionalinė šilumos ūkio plėtros programa – Vyriausybės tvirtinamas nacionalinio lygmens strateginio planavimo dokumentas, kuriuo, atsižvelgiant į Nacionalinę energetinės nepriklausomybės strategiją, yra nustatomos ilgalaikės ir kompleksinės šilumos gamybos, bendros šilumos ir elektros energijos gamybos (kogeneracijos) bei šilumos perdavimo plėtros ir modernizavimo kryptys bei įgyvendinimo priemonės valstybės teritorijoje.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+19. Nenutrūkstamo aprūpinimo šiluma vartotojai – Vyriausybės ar jos įgaliotos institucijos, savivaldybių tarybų patvirtintuose sąrašuose numatytos įstaigos ar organizacijos, kurioms būtinas nenutrūkstamas aprūpinimas šiluma.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+20. Nepaskirstytasis karšto vandens kiekis – viršijantis leistinas apskaitos prietaisų paklaidas skirtumas tarp geriamojo vandens karštam vandeniui paruošti kiekio, išmatuoto daugiabučio namo įvade, ir butų karšto vandens skaitiklių rodmenų sumos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+21. Nepriklausomas šilumos gamintojas – asmuo, gaminantis ir parduodantis šilumą ir (ar) karštą vandenį šilumos tiekėjui arba, turėdamas šilumos tiekimo licenciją, – vartotojui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+22. Pastato šildymo būdas – pastato projektavimo dokumentuose techniniu sprendimu nustatytas būdas pastato patalpoms šildyti, apimantis ir karšto vandens tiekimo sistemoje įrengtus šildymo prietaisus.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+23. Pastato šildymo ir karšto vandens sistema – pastate įrengtas techninių priemonių kompleksas, skirtas į pastatą perduotai arba pastate gaminamai šilumai ir (ar) karštam vandeniui į patalpas pristatyti. Nuo tiekėjo tinklų ji atribojama pastato įvadu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+24. Pastato šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) – asmuo, kuris atitinka šio įstatymo keliamus reikalavimus, yra atestuotas nustatyta tvarka ir verčiasi sistemų priežiūros (eksploatavimo) veikla.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+25. Pastovioji karšto vandens kainos dedamoji – pastovi karšto vandens kainos dalis, apskaičiuota karšto vandens kainos galiojimo laikotarpiui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+26. Pastovioji šilumos bazinės kainos dedamoji – pastovi šilumos bazinės kainos dalis, antraisiais ir kitais jos galiojimo metais taikoma perskaičiuojant pastoviosios dedamosios dydį metams.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+27. Sąskaita už šilumą – Lietuvos Respublikos buhalterinės apskaitos įstatymo reikalavimus atitinkantis dokumentas, kuriame nurodytas atsiskaitymo laikotarpiu vartotojui patiektos šilumos ar karšto vandens kiekis, jų kaina ir suma, kurią turi sumokėti vartotojas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+28. Šildymo sezonas – laikotarpis, kurio pradžia ir pabaiga nustatoma savivaldybės vykdomosios institucijos sprendimu pagal statybos techniniais reglamentais apibrėžtą lauko oro temperatūrą, kuriai esant privaloma pradėti ir galima baigti nustatytos paskirties savivaldybių pastatų šildymą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+29. Šilumnešis – specialiai paruoštas vanduo, karštas vanduo, garas, kondensatas, kitas skystis ar dujos, naudojami šilumai pristatyti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+30. Šilumos bazinė kaina – ilgalaikė šilumos kaina, sudaryta iš pastoviosios ir kintamosios šilumos bazinės kainos dedamųjų, apskaičiuotų pagal Valstybinės kainų ir energetikos kontrolės komisijos patvirtintą Šilumos kainų nustatymo metodiką, parengtą pagal Valstybinės kainų ir energetikos kontrolės komisijos parengtus ir Vyriausybės patvirtintus Šilumos kainų nustatymo metodikos principus, nustatyta ne trumpesniam kaip 3 metų ir ne ilgesniam kaip 5 metų laikotarpiui. Minėtą laikotarpį pasirenka savivaldybių tarybos ar šio įstatymo 32 straipsnio 11 ir 12 dalyse numatytais atvejais – įmonės. Abi kainos dedamosios taikomos šilumos kainoms apskaičiuoti. Šilumos bazinė kaina gali būti vienanarė arba dvinarė.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+31. Šilumos dalikliai – netiesioginio matavimo prietaisai, kurių sistema kartu su atsiskaitomuoju prietaisu, kaip papildoma dalimi, naudojama išmatuotam šilumos energijos kiekiui paskirstyti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+32. Šilumos dvinarė kaina – šilumos kaina, sudaryta iš pastoviosios, mokamos už vidutinę šilumos vartojimo galią eurais už kilovatą per mėnesį, ir kintamosios, mokamos euro centais už šilumos kilovatvalandę, dedamųjų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1259, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14860
 
-32. Šilumos ir (ar) karšto vandens vartojimo pirkimo–pardavimo sutartis – sutartis tarp šilumos tiekėjo ar gamintojo ir buitinio šilumos vartotojo ar šilumos vartotojo, vartojančio šilumą ir (ar) karštą vandenį patalpose, kuriose neįrengti atsiskaitomieji šilumos apskaitos prietaisai.
+Straipsnio dalies numeracijos pakeitimas:
 
-33. Šilumos įrenginys – techninių priemonių kompleksas, skirtas šilumai ir (ar) karštam vandeniui gaminti, transportuoti ar kaupti.
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
-34. Šilumos įvadas – šilumos perdavimo tinklo atšaka, įskaitant pastato pirmuosius uždaromuosius įtaisus ir apskaitos prietaisus, jungianti pastato šilumos įrenginius ir šilumos perdavimo tinklą.
+33. Šilumos ir (ar) karšto vandens vartojimo pirkimo–pardavimo sutartis – sutartis tarp šilumos tiekėjo ar gamintojo ir buitinio šilumos vartotojo ar šilumos vartotojo, vartojančio šilumą ir (ar) karštą vandenį patalpose, kuriose neįrengti atsiskaitomieji šilumos apskaitos prietaisai.
 
-35. Šilumos perdavimas – šilumos pristatymas šilumnešiu šilumos perdavimo tinklo vamzdynais.
+Straipsnio dalies numeracijos pakeitimas:
 
-36. Šilumos perdavimo tinklas – sujungtų vamzdynų ir įrenginių sistema, skirta pristatyti šilumnešiu šilumą iš gamintojo vartotojams.
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
-37. Šilumos pirkimo–pardavimo vieta – šilumnešio vamzdynų vieta, kurioje tiekėjas parduoda šilumą vartotojui.
+34. Šilumos įrenginys – techninių priemonių kompleksas, skirtas šilumai ir (ar) karštam vandeniui gaminti, transportuoti ar kaupti.
 
-38. Šilumos punktas – prie šilumos įvado prijungtas pastato šildymo ir karšto vandens sistemos įrenginys, su šilumnešiu gaunamą šilumą transformuojantis pristatymui į pastato šildymo prietaisus. Daugiabučio namo šilumos punkto įrenginiai, būtini namo tinkamam eksploatavimui ir naudojimui, yra neatskiriama namo dalis ir šio namo butų ir patalpų savininkų bendroji dalinė nuosavybė, kurią draudžiama perduoti tretiesiems asmenims (kurie nėra šio namo butų ir patalpų savininkai).
+Straipsnio dalies numeracijos pakeitimas:
 
-39. Šilumos tiekėjas – asmuo, turintis šilumos tiekimo licenciją ir tiekiantis šilumą vartotojams pagal pirkimo–pardavimo sutartis.
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
-40. Šilumos tiekimas – centralizuotai pagamintos šilumos pristatymas ir pardavimas šilumos vartotojams.
+35. Šilumos įvadas – šilumos perdavimo tinklo atšaka, įskaitant pastato pirmuosius uždaromuosius įtaisus ir apskaitos prietaisus, jungianti pastato šilumos įrenginius ir šilumos perdavimo tinklą.
 
-41. Šilumos tiekimo licencija – dokumentas, suteikiantis licencijos turėtojui teisę verstis šilumos tiekimu nustatytoje teritorijoje.
+Straipsnio dalies numeracijos pakeitimas:
 
-42. Šilumos tiekimo nutraukimas – šilumnešį perduodančio vamzdyno išardymas, kad tiekti šilumą būtų techniškai negalima.
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
-43. Šilumos ūkio specialusis planas – savivaldybių specialiojo planavimo dokumentas, kuriame, vertinant Nacionalinėje šilumos ūkio plėtros programoje numatytais sprendiniais ir priemonėmis, nustatomos esamos ir planuojamos naujos šilumos vartotojų teritorijos, nurodomi galimi ir alternatyvūs šildymo būdai, tenkinant šilumos vartotojų poreikius mažiausiomis sąnaudomis ir neviršijant leidžiamo neigiamo poveikio aplinkai.
+36. Šilumos perdavimas – šilumos pristatymas šilumnešiu šilumos perdavimo tinklo vamzdynais.
 
-44. Šilumos ūkis – energetikos ūkio sritis, tiesiogiai susijusi su šilumos ir karšto vandens gamyba, perdavimu, tiekimu ir vartojimu.
+Straipsnio dalies numeracijos pakeitimas:
 
-45. Šilumos vartotojas (vartotojas) – juridinis ar fizinis asmuo, kurio naudojami šildymo prietaisai nustatyta tvarka prijungti prie šilumos perdavimo tinklų ar pastatų šildymo ir karšto vandens sistemų.
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
-46. Šilumos vienanarė kaina – šilumos kaina, sudaryta iš pastoviosios ir kintamosios dedamųjų, mokamų euro centais už kilovatvalandę.
+37. Šilumos perdavimo tinklas – sujungtų vamzdynų ir įrenginių sistema, skirta pristatyti šilumnešiu šilumą iš gamintojo vartotojams.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+38. Šilumos pirkimo–pardavimo vieta – šilumnešio vamzdynų vieta, kurioje tiekėjas parduoda šilumą vartotojui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+39. Šilumos punktas – prie šilumos įvado prijungtas pastato šildymo ir karšto vandens sistemos įrenginys, su šilumnešiu gaunamą šilumą transformuojantis pristatymui į pastato šildymo prietaisus. Daugiabučio namo šilumos punkto įrenginiai, būtini namo tinkamam eksploatavimui ir naudojimui, yra neatskiriama namo dalis ir šio namo butų ir patalpų savininkų bendroji dalinė nuosavybė, kurią draudžiama perduoti tretiesiems asmenims (kurie nėra šio namo butų ir patalpų savininkai).
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+40. Šilumos skaitiklis – neatsiskaitomasis šilumos apskaitos prietaisas, įrengtas šilumos vartotojų butuose ar kitose patalpose ir matuojantis suvartotą šilumos kiekį. Šių apskaitos prietaisų rodmenys naudojami į pastatą patiektam šilumos kiekiui paskirstyti šilumos vartotojams.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+41. Šilumos tiekėjas – asmuo, turintis šilumos tiekimo licenciją ir tiekiantis šilumą vartotojams pagal pirkimo–pardavimo sutartis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+42. Šilumos tiekimas – centralizuotai pagamintos šilumos pristatymas ir pardavimas šilumos vartotojams.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+43. Šilumos tiekimo licencija – dokumentas, suteikiantis licencijos turėtojui teisę verstis šilumos tiekimu nustatytoje teritorijoje.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+44. Šilumos tiekimo nutraukimas – šilumnešį perduodančio vamzdyno išardymas, kad tiekti šilumą būtų techniškai negalima.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+45. Šilumos ūkio specialusis planas – savivaldybių specialiojo planavimo dokumentas, kuriame, vertinant Nacionalinėje šilumos ūkio plėtros programoje numatytais sprendiniais ir priemonėmis, nustatomos esamos ir planuojamos naujos šilumos vartotojų teritorijos, nurodomi galimi ir alternatyvūs šildymo būdai, tenkinant šilumos vartotojų poreikius mažiausiomis sąnaudomis ir neviršijant leidžiamo neigiamo poveikio aplinkai.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+46. Šilumos ūkis – energetikos ūkio sritis, tiesiogiai susijusi su šilumos ir karšto vandens gamyba, perdavimu, tiekimu ir vartojimu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+47. Šilumos vartotojas (vartotojas) – juridinis ar fizinis asmuo, kurio naudojami šildymo prietaisai nustatyta tvarka prijungti prie šilumos perdavimo tinklų ar pastatų šildymo ir karšto vandens sistemų.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+48. Šilumos vienanarė kaina – šilumos kaina, sudaryta iš pastoviosios ir kintamosios dedamųjų, mokamų euro centais už kilovatvalandę.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1259, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14860
 
-47. Tiekimo–vartojimo riba – šilumnešio vamzdynų vieta, iki kurios tiekėjas pristato šilumą vartotojui.
+Straipsnio dalies numeracijos pakeitimas:
 
-48. Valdymo perdavimas – šilumos ūkio ar jo dalies valdymo teisės perdavimas asmeniui nuomos, koncesijos ar kitų valdymo perdavimo sutarčių pagrindu.
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
-49. Viešuosius interesus atitinkančios paslaugos – šilumos ūkio paslaugos, kurias nustato įstatymai, Vyriausybė ar jos įgaliota institucija vadovaudamasi visuomenės interesais.
+49. Tiekimo–vartojimo riba – šilumnešio vamzdynų vieta, iki kurios tiekėjas pristato šilumą vartotojui.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+50. Valdymo perdavimas – šilumos ūkio ar jo dalies valdymo teisės perdavimas asmeniui nuomos, koncesijos ar kitų valdymo perdavimo sutarčių pagrindu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+51. Viešuosius interesus atitinkančios paslaugos – šilumos ūkio paslaugos, kurias nustato įstatymai, Vyriausybė ar jos įgaliota institucija vadovaudamasi visuomenės interesais.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
 Straipsnio pakeitimai:
 
@@ -544,7 +744,17 @@ Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
 
 2. Jeigu pastate yra daugiau kaip vienas šilumos vartotojas, visas pastate suvartotas šilumos kiekis paskirstomas (išdalijamas) vartotojams, o kiekvienas vartotojas moka už jam priskirtą šilumos kiekį, išmatavus, įvertinus ar kitaip pagal Valstybinės kainų ir energetikos kontrolės komisijos rekomenduojamus taikyti ar su ja suderintus metodus nustačius, kokia visų vartotojų bendrai suvartoto šilumos kiekio dalis tenka tam šilumos vartotojui. Šių dalių matavimo, nustatymo ar įvertinimo metodą šilumos vartotojai pasirenka Civilinio kodekso nustatyta sprendimų priėmimo tvarka iš Valstybinės kainų ir energetikos kontrolės komisijos rekomenduotų taikyti metodų. Kiti metodai gali būti taikomi tik suderinti su Valstybine kainų ir energetikos kontrolės komisija. Kol vartotojai pasirenka metodą, taikomas pastato šildymo ir karšto vandens sistemą bei įrengtus atsiskaitomuosius apskaitos prietaisus atitinkantis metodas.
 
-3. Atsiskaitymo dokumentas yra sąskaita už šilumą. Buitiniam šilumos vartotojui išrašytoje sąskaitoje turi būti pateikta tiksli, aiški ir išsami informacija, kuria remdamasis šilumos tiekėjas apskaičiavo vartotojo mokesčio dydį už jo suvartotą šilumos kiekį patalpoms šildyti ir šilumos kiekį karštam vandeniui ruošti bei karšto vandens temperatūrai palaikyti. Pateiktos informacijos privalo pakakti, kad vartotojas galėtų pasitikrinti, ar teisingai jam apskaičiuoti mokesčiai. Savivaldybės institucijos turi teisę nustatyti, kad buitiniams šilumos vartotojams vietoj sąskaitų už šilumą būtų išduodami mokesčio už šilumą pranešimai. Buitinio šilumos vartotojo reikalavimu šilumos tiekėjas privalo išduoti sąskaitą, kai vartotojas apmoka su tiekimo sąskaita susijusias papildomas šilumos tiekėjo sąnaudas. Savivaldybės institucijai nustačius, kad buitiniams šilumos vartotojams vietoj sąskaitų būtų išduodami mokesčio už šilumą pranešimai, į šilumos kainą neįtraukiamos sąskaitų už šilumą parengimo ir pateikimo vartotojams sąnaudos.
+3. Atsiskaitymo dokumentas yra sąskaita už šilumą arba, savivaldybės institucijoms nustačius, mokesčio už šilumą pranešimas, kuris išrašomas buitiniams šilumos vartotojams (toliau kartu – sąskaita (mokėjimo pranešimas). Buitiniam šilumos vartotojui išrašytoje sąskaitoje (mokėjimo pranešime) turi būti pateikta tiksli, aiški ir išsami informacija, kuria remdamasis šilumos tiekėjas apskaičiavo vartotojo mokesčio dydį už jo suvartotą šilumos kiekį patalpoms šildyti ir šilumos kiekį karštam vandeniui ruošti bei karšto vandens temperatūrai palaikyti. Pateiktos informacijos privalo pakakti, kad vartotojas galėtų pasitikrinti, ar teisingai jam apskaičiuoti mokesčiai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
+
+4. Šilumos vartotojams pateikiamos popierinės sąskaitos (mokėjimo pranešimai), išskyrus atvejus, kai vartotojas pageidauja gauti sąskaitas (mokėjimo pranešimus) elektroniniu būdu. Šilumos ir (ar) karšto vandens tiekėjai teikia vartotojams sąskaitas (mokėjimo pranešimus) netaikydami papildomų mokesčių.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
 Straipsnio pakeitimai:
 
@@ -564,7 +774,11 @@ Nr. XI-133, 2009-01-12, Žin., 2009, Nr. 10-355 (2009-01-27)
 
 14 straipsnis. Šilumos ir (ar) karšto vandens pristatymo sustabdymas įsiskolinusiems šilumos vartotojams
 
-1. Šilumos vartotojui, neapmokėjusiam sąskaitos už šilumą daugiau kaip 30 kalendorinių dienų, skaičiuojant nuo vėliausios leistinos sąskaitos apmokėjimo dienos, (įsiskolinusiam vartotojui), šilumos tiekėjas turi teisę sutartyse nustatyta tvarka sustabdyti šilumos ir (ar) karšto vandens pristatymą į įsiskolinusio vartotojo šildymo ir (ar) karšto vandens prietaisus. Daugiabučiame name leidžiama sustabdyti tik karšto vandens pristatymą į įsiskolinusio vartotojo karšto vandens prietaisus.
+1. Šilumos vartotojui, neapmokėjusiam sąskaitos (mokėjimo pranešimo) daugiau kaip 30 kalendorinių dienų, skaičiuojant nuo vėliausios leistinos sąskaitos (mokėjimo pranešimo) apmokėjimo dienos, (įsiskolinusiam vartotojui) šilumos tiekėjas turi teisę sutartyse nustatyta tvarka sustabdyti šilumos ir (ar) karšto vandens pristatymą į įsiskolinusio vartotojo šildymo ir (ar) karšto vandens prietaisus. Daugiabučiame name leidžiama sustabdyti tik karšto vandens pristatymą į įsiskolinusio vartotojo karšto vandens prietaisus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 
 2. Sutartyse nustatoma šilumos tiekėjo prievolė ne vėliau kaip prieš 10 kalendorinių dienų iki numatomos šilumos ir (ar) karšto vandens pristatymo sustabdymo datos raštu įspėti įsiskolinusį vartotoją.
 
