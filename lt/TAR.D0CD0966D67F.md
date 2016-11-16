@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2016-11-01"
+last_updated: "2016-11-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2016-11-01 iki 2016-11-15
+Suvestinė redakcija nuo 2016-11-16 iki 2016-11-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -127,9 +127,21 @@ Pagrindiniai principai, kuriais grindžiama vietos savivalda, yra:
 
 11) plėtros ir veiklos planingumo. Savivaldybės savo veiklą vykdo pagal tarpusavyje suderintus skirtingos trukmės teritorijų, strateginio ir finansinio planavimo dokumentus, į kurių rengimą, svarstymą ir įgyvendinimo priežiūrą (stebėseną, ataskaitų svarstymą) įtraukiami ir savivaldybės gyventojai;
 
-12) viešumo ir reagavimo į savivaldybės gyventojų nuomonę. Savivaldybės gyventojai ar jų atstovai turi teisę susipažinti su savivaldybės institucijų sprendimų projektais ir priimtais sprendimais, gauti viešus ir motyvuotus atsakymus į pareikštą nuomonę apie savivaldybės institucijų ir kitų savivaldybės viešojo administravimo subjektų ar atskirų valstybės tarnautojų darbą;
+12) reagavimo į savivaldybės gyventojų nuomonę. Savivaldybės gyventojai ar jų atstovai turi teisę susipažinti su savivaldybės institucijų sprendimų projektais ir priimtais sprendimais, gauti viešus ir motyvuotus atsakymus į pareikštą nuomonę apie savivaldybės institucijų ir kitų savivaldybės viešojo administravimo subjektų ar atskirų valstybės tarnautojų darbą;
 
-13) žmogaus teisių ir laisvių užtikrinimo ir gerbimo. Savivaldybės institucijų ar valstybės tarnautojų priimami sprendimai turi nepažeisti žmogaus orumo, jo teisių ir laisvių, lygių galimybių.
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2741, 2016-11-08, paskelbta TAR 2016-11-15, i. k. 2016-26839
+
+13) žmogaus teisių ir laisvių užtikrinimo ir gerbimo. Savivaldybės institucijų ar valstybės tarnautojų priimami sprendimai turi nepažeisti žmogaus orumo, jo teisių ir laisvių, lygių galimybių;
+
+14) subsidiarumo. Savivaldybės viešojo administravimo subjektų sprendimai turi būti priimami ir įgyvendinami tuo lygmeniu, kuriuo jie yra efektyviausi;
+
+15) viešumo. Savivaldybė savo interneto svetainėje teikia ir nuolat atnaujina šio įstatymo numatytą informaciją, taip pat informaciją apie savivaldybės kontroliuojamas įmones, jų vadovus, valdybų narius, pateikia šių įmonių veiklos rezultatų ir finansines ataskaitas bei kitą aktualią informaciją, taip pat informaciją apie savivaldybės gaunamą paramą (paramos teikėją (teikėjus), paramos sumas, paramos tikslą, paramos laikotarpį ir pan.), savivaldybės skiriamas pinigines lėšas nevyriausybinių organizacijų ir viešųjų įstaigų projektams finansuoti bei projektų finansavimo ir atrankos kriterijus, kvietimus organizacijoms teikti paraiškas paramai gauti ir kitą informaciją, susijusią su savivaldybės veikla.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2741, 2016-11-08, paskelbta TAR 2016-11-15, i. k. 2016-26839
 
 Straipsnio pakeitimai:
 
@@ -971,7 +983,7 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 21) suteikia patalpas Seimo nariams pagal Lietuvos Respublikos Seimo statutą;
 
-22) skelbia vietos gyventojų apklausą.
+22) skelbia vietos gyventojų apklausą;
 
 3. Meras rūpinasi, kad:
 
@@ -1275,7 +1287,7 @@ SAVIVALDYBĖS VYKDOMOJI INSTITUCIJA, VIEŠOJO ADMINISTRAVIMO ĮSTAIGOS, JŲ SUDA
 
 5. Savivaldybės administracijos direktoriaus atostogų ar ligos metu, taip pat kai jis laikinai negali eiti pareigų dėl kitų priežasčių, savivaldybės administracijos direktoriaus pareigas, nustatytas šiame ir kituose įstatymuose, taip pat kituose teisės aktuose, reglamento nustatyta tvarka atlieka savivaldybės administracijos direktoriaus pavaduotojas. Jeigu savivaldybės administracijos direktoriaus pavaduotojo pareigybė nesteigiama, savivaldybės administracijos direktoriaus atostogų ar ligos metu, taip pat kai jis laikinai negali eiti pareigų dėl kitų priežasčių, jo pareigybės aprašyme nustatytos funkcijos teisės aktų nustatyta tvarka pavedamos atlikti kitam savivaldybės administracijos valstybės tarnautojui.
 
-*6. Pasibaigus savivaldybės administracijos direktorių, administracijos direktoriaus pavaduotoją į pareigas paskyrusios savivaldybės tarybos kadencijai, savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas, jeigu jie į šias pareigas nepaskiriami naujai kadencijai arba jeigu savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas atsistatydina ar atleidžiamas iš šių pareigų, išskyrus atleidimą už tarnybinius nusižengimus, turi teisę Vyriausybės nustatyta tvarka grįžti į iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju eitas pareigas, o kai tokios galimybės nėra, – į kitas tos pačios ar žemesnės kategorijos pareigas, jeigu eitos pareigos pagal teisės aktus priskiriamos valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms. Be to, šioje dalyje nustatytu atveju savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas turi teisę grįžti į iki išrinkimo savivaldybės tarybos nariais eitas pareigas, jeigu jie ėjo šias pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, o kai tokios galimybės nėra, – į kitas pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje. Jeigu šie asmenys iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju tokių pareigų nėjo arba atsisakė pasiūlytų kitų žemesnės kategorijos pareigų, pagal teisės aktus priskiriamų valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms, arba kitų pareigų savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, išmokos jiems mokamos Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka.
+6. Pasibaigus savivaldybės administracijos direktorių, administracijos direktoriaus pavaduotoją į pareigas paskyrusios savivaldybės tarybos kadencijai, savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas, jeigu jie į šias pareigas nepaskiriami naujai kadencijai arba jeigu savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas atsistatydina ar atleidžiamas iš šių pareigų, išskyrus atleidimą už tarnybinius nusižengimus, turi teisę Vyriausybės nustatyta tvarka grįžti į iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju eitas pareigas, o kai tokios galimybės nėra, – į kitas tos pačios ar žemesnės kategorijos pareigas, jeigu eitos pareigos pagal teisės aktus priskiriamos valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms. Be to, šioje dalyje nustatytu atveju savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas turi teisę grįžti į iki išrinkimo savivaldybės tarybos nariais eitas pareigas, jeigu jie ėjo šias pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, o kai tokios galimybės nėra, – į kitas pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje. Jeigu šie asmenys iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju tokių pareigų nėjo arba atsisakė pasiūlytų kitų žemesnės kategorijos pareigų, pagal teisės aktus priskiriamų valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms, arba kitų pareigų savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, išmokos jiems mokamos Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka.
 
 7. Savivaldybės administracijos direktorius jam įstatymų nustatytus ir savivaldybės tarybos perduotus įgaliojimus, išskyrus šio straipsnio 8 dalies 4 ir 5 punktuose nustatytus įgaliojimus, turi teisę, kiek ji neapribota savivaldybės tarybos sprendimu, pavesti vykdyti savivaldybės administracijos direktoriaus pavaduotojui (pavaduotojams). Savivaldybės administracijos direktoriaus pavaduotojas atsiskaito savivaldybės administracijos direktoriui, o prireikus – ir savivaldybės tarybai.
 
@@ -1325,7 +1337,7 @@ Nr. XII-460, 2013-07-02, Žin., 2013, Nr. 79-3981 (2013-07-23)
 
 Nr. XII-929, 2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07837
 
-*Pastaba: Šis įstatymas (Nr. XII-929) taikomas tik asmenims, į savivaldybės administracijos direktoriaus, savivaldybės administracijos direktoriaus pavaduotojo pareigas paskirtiems po šio įstatymo įsigaliojimo.
+Pastaba: Šis įstatymas (Nr. XII-929) taikomas tik asmenims, į savivaldybės administracijos direktoriaus, savivaldybės administracijos direktoriaus pavaduotojo pareigas paskirtiems po šio įstatymo įsigaliojimo.
 
 Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
