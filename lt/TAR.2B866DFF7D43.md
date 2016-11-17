@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2016-07-14"
+last_updated: "2016-11-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2016-07-14 iki 2016-11-16
+Suvestinė redakcija nuo 2016-11-17 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -2168,15 +2168,21 @@ Asmuo pripažįstamas kaltu padaręs nusikaltimą ar baudžiamąjį nusižengim�
 
 3) kontroliuoti juridinio asmens veiklą.
 
-3. Juridinis asmuo gali atsakyti už nusikalstamas veikas ir tuo atveju, jeigu jas juridinio asmens naudai padarė juridinio asmens darbuotojas ar įgaliotas atstovas dėl šio straipsnio 2 dalyje nurodyto asmens nepakankamos priežiūros arba kontrolės.
+3. Juridinis asmuo gali atsakyti už nusikalstamas veikas ir tuo atveju, jeigu jas juridinio asmens naudai padarė juridinio asmens darbuotojas ar įgaliotas atstovas šio straipsnio 2 dalyje nurodyto asmens nurodymu ar leidimu arba dėl nepakankamos priežiūros arba kontrolės.
 
-4. Juridinio asmens baudžiamoji atsakomybė nepašalina fizinio asmens, kuris padarė, organizavo, kurstė arba padėjo padaryti nusikalstamą veiką, baudžiamosios atsakomybės.
+4. Juridinis asmuo gali atsakyti už kontroliuojamo arba jam atstovaujančio kito juridinio asmens šio straipsnio 2 ar 3 dalyje nurodytomis sąlygomis padarytas nusikalstamas veikas, jeigu jos padarytos pirmiau nurodyto juridinio asmens naudai jame vadovaujančias pareigas einančio ar jo įgalioto asmens nurodymu ar leidimu arba dėl nepakankamos priežiūros ar kontrolės.
 
-5. Pagal šį kodeksą neatsako valstybė, savivaldybė, valstybės ir savivaldybės institucija ir įstaiga bei tarptautinė viešoji organizacija.
+5. Juridinio asmens baudžiamoji atsakomybė nepašalina fizinio asmens, kuris padarė, organizavo, kurstė arba padėjo padaryti nusikalstamą veiką, baudžiamosios atsakomybės. Juridinio asmens baudžiamosios atsakomybės už jo naudai arba jo interesais fizinio asmens padarytą, organizuotą, kurstytą ar padėtą padaryti nusikalstamą veiką nepašalina fizinio asmens baudžiamoji atsakomybė, taip pat tai, kad fizinis asmuo už šią veiką atleidžiamas nuo baudžiamosios atsakomybės arba jis nėra traukiamas atsakomybėn dėl kitų priežasčių.
+
+6. Pagal šį kodeksą neatsako valstybė, savivaldybė, valstybės ir savivaldybės institucija ir įstaiga bei tarptautinė viešoji organizacija.
 
 Straipsnio pakeitimai:
 
 Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
+
+Straipsnio pakeitimai:
+
+Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876
 
 IV SKYRIUS
 
@@ -4338,6 +4344,12 @@ Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711
 
 4. Šiame skyriuje nurodytas kyšis yra bet kokios turtinės ar kitokios asmeninės naudos sau ar kitam asmeniui (materialios ar nematerialios, turinčios ekonominę vertę rinkoje ar tokios vertės neturinčios) forma išreikštas neteisėtas ar nepagrįstas atlygis už pageidaujamą valstybės tarnautojo ar jam prilyginto asmens teisėtą ar neteisėtą veikimą arba neveikimą vykdant įgaliojimus.
 
+5. Šio kodekso 72 straipsnio nuostatų taikymo tikslais šio skyriaus 226 straipsnio 1, 3, 5 dalyse ir 227 straipsnyje uždraustų veikų rezultatu pripažįstamas tiesiogiai ar netiesiogiai iš šių veikų gautas bet kokio pavidalo turtas, įskaitant turtinę naudą, atsiradusią dėl pageidaujamo valstybės tarnautojo ar jam prilyginto asmens veikimo ar neveikimo vykdant įgaliojimus, nesvarbu, ar ji gauta vykdant veiklą, kuria teisės aktų nustatyta tvarka gali būti verčiamasi teisėtai, ar ne.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876
+
 Straipsnio pakeitimai:
 
 Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
@@ -5122,23 +5134,35 @@ Papildyta punktu:
 
 Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
 
-31. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/42/ES dėl nusikaltimų priemonių ir pajamų iš nusikaltimų įšaldymo ir konfiskavimo Europos Sąjungoje (OL 2014 L 127, p. 39).
+31. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/42/ES dėl nusikaltimų priemonių ir pajamų iš nusikaltimų įšaldymo ir konfiskavimo Europos Sąjungoje (OL 2014 L 127, p. 39)
 
 Papildyta punktu:
 
 Nr. XII-2433, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17730
 
-31. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/57/ES dėl baudžiamųjų sankcijų už manipuliavimą rinka (manipuliavimo rinka direktyva) (OL 2014 L 173, p. 179).
+Punkto pakeitimai:
+
+Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876
+
+32. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/57/ES dėl baudžiamųjų sankcijų už manipuliavimą rinka (manipuliavimo rinka direktyva) (OL 2014 L 173, p. 179)
 
 Papildyta punktu:
 
 Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
 
-32. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/62/ES dėl euro ir kitų valiutų apsaugos nuo padirbinėjimo baudžiamosios teisės priemonėmis, kuria pakeičiamas Tarybos pamatinis sprendimas 2000/383/TVR (OL 2014 L 151, p. 1).
+Punkto pakeitimai:
+
+Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876
+
+33. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/62/ES dėl euro ir kitų valiutų apsaugos nuo padirbinėjimo baudžiamosios teisės priemonėmis, kuria pakeičiamas Tarybos pamatinis sprendimas 2000/383/TVR (OL 2014 L 151, p. 1).
 
 Papildyta punktu:
 
 Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
+
+Punkto pakeitimai:
+
+Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876
 
 Kodeksas papildytas priedu:
 
@@ -5753,6 +5777,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
 
 Lietuvos Respublikos baudžiamojo kodekso 7, 213, 217, 218, 224-1 straipsnių ir priedo pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876
+
+Lietuvos Respublikos baudžiamojo kodekso 20, 225, 226, 227, 230 straipsnių ir priedo pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
