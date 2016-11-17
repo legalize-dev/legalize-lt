@@ -4,7 +4,7 @@ identifier: "TAR.278D4FD8E838"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-25"
-last_updated: "2015-01-01"
+last_updated: "2016-11-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-11-16
+Suvestinė redakcija nuo 2016-11-17 iki 2017-06-27
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 52-1672, i. k. 0991010ISTAIII-1202
 
@@ -161,7 +161,11 @@ Turto arba verslo vertintoju gali būti fizinis asmuo, kuris:
 
 1) yra laikomas nepriekaištingos reputacijos, atsižvelgiant į šio įstatymo 9 straipsnio 13 dalies nuostatas;
 
-2) turi aukštąjį universitetinį išsilavinimą fizinių mokslų srities matematikos, statistikos arba informatikos krypties, technologijos mokslų srities bendrosios inžinerijos, statybos inžinerijos, gamybos inžinerijos, inžinerijos arba statybų technologijų krypties arba socialinių mokslų srities ekonomikos, verslo, vadybos arba verslo ir vadybos krypties ar teritorijų planavimo krypties, kai siekiama nekilnojamojo turto vertintojo asistento (žemiausios), vertintojo (aukštesnės) arba vertintojo eksperto (aukščiausios) kvalifikacijos, fizinių mokslų srities matematikos, statistikos arba informatikos krypties, technologijos mokslų srities bendrosios inžinerijos, mechanikos inžinerijos, elektronikos ir elektros inžinerijos, gamybos inžinerijos, sausumos transporto inžinerijos arba inžinerijos krypties arba socialinių mokslų srities ekonomikos, verslo, vadybos arba verslo ir vadybos krypties, kai siekiama kilnojamojo turto vertintojo asistento (žemiausios), vertintojo (aukštesnės) arba vertintojo eksperto (aukščiausios) kvalifikacijos, ir socialinių mokslų srities ekonomikos, verslo, vadybos arba verslo ir vadybos krypties, kai siekiama verslo vertintojo asistento (žemiausios), vertintojo (aukštesnės) arba vertintojo eksperto (aukščiausios) kvalifikacijos;
+2) turi aukštąjį universitetinį išsilavinimą, kai siekiama turto arba verslo vertintojo asistento (žemiausios), vertintojo (aukštesnės) arba vertintojo eksperto (aukščiausios) kvalifikacijos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2744, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26898
 
 3) turi darbo, susijusio su turto vertinimu, patirties, kai siekiama turto vertintojo asistento (žemiausios) kvalifikacijos, arba darbo, susijusio su verslo vertinimu, patirties, kai siekiama verslo vertintojo asistento (žemiausios) kvalifikacijos;
 
@@ -742,4 +746,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1200, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14277
 
 Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo Nr. VIII-1202 17 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2744, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26898
+
+Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo Nr. VIII-1202 8 straipsnio pakeitimo įstatymas
 
