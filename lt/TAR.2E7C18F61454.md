@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2016-07-15"
+last_updated: "2016-11-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2016-07-15 iki 2016-11-16
+Suvestinė redakcija nuo 2016-11-17 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -7279,11 +7279,13 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 1 punkto redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos:
 
-1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika;
+1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika, arba kai Europos Žmogaus Teisių Teismas nagrinėjamą peticiją išbraukia iš bylų sąrašo taikaus susitarimo ar vienašalės deklaracijos pagrindu, jeigu taikiu susitarimu ar vienašale deklaracija pripažįstama, kad Lietuvos Respublikos teismų sprendimais, nutartimis ar nutarimais civilinėse bylose buvo pažeistos Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ir (ar) jos papildomuose protokoluose, kurių dalyvė yra Lietuvos Respublika, nustatytos pareiškėjų teisės dėl Lietuvos Respublikos teismų sprendimų, nutarčių ar nutarimų civilinėse bylose;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
+
+Nr. XII-2754, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26874
 
 2) naujai paaiškėja esminių bylos aplinkybių, kurios nebuvo ir negalėjo būti žinomos pareiškėjui bylos nagrinėjimo metu;
 
