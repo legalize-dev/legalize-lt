@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2016-10-07"
+last_updated: "2016-11-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2016-10-07 iki 2016-11-17
+Suvestinė redakcija nuo 2016-11-18 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -4551,7 +4551,11 @@ Nr. XII-423, 2013-06-27, Žin., 2013, Nr. 76-3840 (2013-07-16)
 
 6.2284 straipsnis. Vartojimo sutarčių nesąžiningos sąlygos
 
-1. Vartotojas turi teisę teismo tvarka reikalauti pripažinti negaliojančiomis vartojimo sutarties nesąžiningas sąlygas.
+1. Vartotojas turi teisę teismo tvarka reikalauti pripažinti negaliojančiomis vartojimo sutarties nesąžiningas sąlygas. Šiame straipsnyje vartojimo sutartimi laikoma bet kuri verslininko ir vartotojo sudaryta sutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 2. Nesąžiningomis laikomos vartojimo sutarčių sąlygos, kurios šalių nebuvo individualiai aptartos ir kuriomis dėl sąžiningumo reikalavimo pažeidimo iš esmės pažeidžiama šalių teisių ir pareigų pusiausvyra vartotojo nenaudai. Preziumuojama, kad nesąžiningos yra sutarties sąlygos, kuriomis:
 
@@ -4615,7 +4619,11 @@ Nr. XII-423, 2013-06-27, Žin., 2013, Nr. 76-3840 (2013-07-16)
 
 2) duomenys apie verslininką (vardas ir pavardė ar pavadinimas, juridinio asmens teisinė forma);
 
-3) verslininko buveinės adresas, telefono ryšio, fakso numeriai ir, jei turi, elektroninio pašto adresas, kuriais vartotojas gali susisiekti su verslininku, adresas, kuriuo vartotojas gali pateikti skundus, ir, jeigu reikalinga, duomenys apie verslininką, kurio vardu veikiama (vardas ir pavardė ar pavadinimas, buveinės adresas);
+3) verslininko buveinės adresas ir, jei turi, telefono ryšio, fakso numeriai ir elektroninio pašto adresas, kuriais vartotojas gali susisiekti su verslininku, ir, jeigu reikalinga, duomenys apie verslininką, kurio vardu veikiama (vardas ir pavardė ar pavadinimas, buveinės adresas). Verslininko ir, jeigu reikalinga, verslininko, kurio vardu veikiama, ekonominės veiklos vietos adresas, kuriuo vartotojas gali pateikti skundus, nurodomas, jeigu ekonominės veiklos vietos adresas skiriasi nuo buveinės adreso;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 4) bendra prekių ar paslaugų kaina, į kurią įskaičiuoti mokesčiai, arba kai dėl prekių arba paslaugų pobūdžio kaina pagrįstai negali būti iš anksto apskaičiuota, metodas, pagal kurį ši kaina apskaičiuojama, ir, jeigu reikalinga, visos papildomos vežimo, pristatymo, pašto ir kitos išlaidos, arba kai šios papildomos išlaidos dėl pagrįstų priežasčių negali būti iš anksto apskaičiuotos, informacija apie tai, kad gali tekti jas apmokėti. Kai sudaroma neterminuota sutartis arba sutartis, kurioje numatytas periodinių įmokų mokėjimas, bendrą kainą sudaro visos tam tikro sąskaitos pateikimo laikotarpio išlaidos. Jeigu pagal sutartį turi būti mokamas fiksuotas mokestis, bendra kaina taip pat reiškia visas mėnesio išlaidas. Jeigu visos išlaidos negali būti iš anksto pagrįstai apskaičiuotos, turi būti nurodytas metodas, pagal kurį apskaičiuojama kaina;
 
@@ -4629,7 +4637,11 @@ Nr. XII-423, 2013-06-27, Žin., 2013, Nr. 76-3840 (2013-07-16)
 
 9) informacija, kad vartotojas, atsisakęs sutarties pagal šio kodekso 6.22810 straipsnio 9 ar 10 dalį, turi sumokėti verslininkui pagrįstas išlaidas pagal šio kodekso 6.22811 straipsnio 9 dalį;
 
-10) prekės garantija pagal įstatymą;
+10) priminimas apie prekės garantiją pagal įstatymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 11) jeigu reikalinga, vartotojų aptarnavimas, jiems teikiamos paslaugos po sutarties sudarymo ir kokybės garantija (komercinė garantija) bei jų sąlygos;
 
@@ -4641,7 +4653,19 @@ Nr. XII-423, 2013-06-27, Žin., 2013, Nr. 76-3840 (2013-07-16)
 
 15) jeigu reikalinga, užstatai ar kitos finansinės garantijos, kurias vartotojas turi pateikti ar sumokėti verslininko reikalavimu, ir jų taikymo sąlygos;
 
-16) jeigu reikalinga, galimybė pateikti skundą ar reikalauti žalos atlyginimo ne teismo tvarka ir pasinaudojimo ja sąlygos.
+16) jeigu reikalinga, galimybė pateikti skundą ar reikalauti žalos atlyginimo ne teismo tvarka ir pasinaudojimo ja sąlygos;
+
+17) jeigu reikalinga, skaitmeninio turinio funkcinės savybės, įskaitant taikomas technines apsaugos priemones;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
+
+18) jeigu reikalinga, skaitmeninio turinio suderinamumas su technine ir programine įranga tiek, kiek verslininkas žino ar turi žinoti.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 2. Šio straipsnio 1 dalies 7, 8 ir 9 punktuose nurodyta informacija gali būti vartotojui suteikta pateikiant užpildytą pavyzdinę informacijos apie sutarties atsisakymą formą. Šią formą tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Jeigu verslininkas pateikė vartotojui tinkamai užpildytą pavyzdinę informacijos apie sutarties atsisakymą formą, laikoma, kad verslininkas tinkamai įvykdė šio straipsnio 1 dalies 7, 8 ir 9 punktuose nustatytus informacijos teikimo reikalavimus.
 
@@ -4707,7 +4731,11 @@ c) jeigu sudaroma sutartis dėl reguliaraus prekių pristatymo per nustatytą la
 
 2) pateikdamas aiškų pareiškimą, kuriame išdėstytas jo sprendimas atsisakyti sutarties.
 
-7. Verslininkas gali sudaryti sąlygas vartotojui elektroninėmis priemonėmis atsisakyti nuotolinės sutarties ar ne prekybos patalpose sudarytos sutarties. Šiuo atveju verslininkas privalo nedelsdamas patvirtinti patvariojoje laikmenoje vartotojui, kad gavo jo sutarties atsisakymą.
+7. Verslininkas gali sudaryti sąlygas vartotojui interneto svetainėje elektroniniu būdu pateikti šio straipsnio 6 dalyje nurodytus dokumentus dėl nuotolinės sutarties ar ne prekybos patalpose sudarytos sutarties atsisakymo. Šiuo atveju verslininkas privalo nedelsdamas patvirtinti patvariojoje laikmenoje vartotojui, kad gavo jo sutarties atsisakymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 8. Pareiga įrodyti, kad laikėsi šio straipsnio reikalavimų dėl sutarties atsisakymo, tenka vartotojui.
 
@@ -4717,15 +4745,19 @@ c) jeigu sudaroma sutartis dėl reguliaraus prekių pristatymo per nustatytą la
 
 6.22812 straipsnis. Vartojimo sutarčių dėl skaitmeninio turinio teikimo ypatumai
 
-1. Vartojimo sutartimi dėl skaitmeninio turinio teikimo verslininkas įsipareigoja vartotojui suteikti patvariojoje laikmenoje neįrašytą skaitmeninį turinį (duomenis, kurie kuriami ir pateikiami skaitmenine forma), o vartotojas įsipareigoja sumokėti kainą.
+1. Vartojimo sutartimi dėl skaitmeninio turinio teikimo verslininkas įsipareigoja vartotojui suteikti patvariojoje laikmenoje neįrašytą skaitmeninį turinį (duomenis, kurie kuriami ir pateikiami skaitmenine forma).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 2. Vartojimo sutartims dėl skaitmeninio turinio teikimo taikomos šio skyriaus nuostatos, jeigu šiame kodekse ar kituose įstatymuose nenustatyta kitaip.
 
-3. Prieš sudarydamas vartojimo sutartį dėl skaitmeninio turinio teikimo, verslininkas kartu su šio kodekso 6.2286 straipsnio 1 dalyje arba 6.2287 straipsnio 1 dalyje nustatyta informacija privalo vartotojui suteikti informaciją apie:
+3. Neteko galios nuo 2016-11-18
 
-1) skaitmeninio turinio funkcines savybes, įskaitant taikomas technines apsaugos priemones;
+Straipsnio dalies naikinimas:
 
-2) skaitmeninio turinio suderinamumą su technine ir programine įranga tiek, kiek verslininkas žino ar turi žinoti.
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 4. Jeigu vartojimo sutartis dėl skaitmeninio turinio teikimo yra nuotolinė sutartis ar ne prekybos patalpose sudaryta sutartis, kurią įvykdyti vartotojas pageidauja nepasibaigus šio kodekso 6.22810 straipsnyje nustatytam sutarties atsisakymo terminui, verslininkas privalo sutarties patvirtinime vartotojui papildomai nurodyti, kad yra gautas vartotojo išankstinis aiškus sutikimas ir pripažinimas dėl teisės atsisakyti sutarties praradimo.
 
@@ -4733,13 +4765,17 @@ c) jeigu sudaroma sutartis dėl reguliaraus prekių pristatymo per nustatytą la
 
 6. Šio kodekso 6.22810 straipsnio 2 dalies 13 punkte numatytais atvejais vartotojas neturi teisės atsisakyti sutarties dėl skaitmeninio turinio teikimo.
 
-7. Vartotojas neturi pareigos mokėti už viso ar dalies patvariojoje laikmenoje neįrašyto skaitmeninio turinio teikimą, kai:
+7. Vartotojas neturi pareigos mokėti už viso ar dalies patvariojoje laikmenoje neįrašyto skaitmeninio turinio teikimą, kai yra bent viena iš šių sąlygų:
 
-1) vartotojas iki šio kodekso 6.22810 straipsnyje nustatyto termino pabaigos nepateikė savo išankstinio aiškaus sutikimo dėl skaitmeninio turinio teikimo pradžios;
+1) vartotojas nepateikė savo išankstinio aiškaus sutikimo dėl skaitmeninio turinio teikimo pradžios iki šio kodekso 6.22810 straipsnyje nustatyto termino pabaigos;
 
 2) vartotojas, pateikdamas savo sutikimą dėl skaitmeninio turinio teikimo pradžios, nepripažino, kad praranda teisę atsisakyti sutarties;
 
 3) verslininkas nepateikė vartotojui patvirtinimo pagal šio straipsnio 4 dalį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 6.22814 straipsnis. Kokybės garantija (komercinė garantija)
 
@@ -4855,7 +4891,11 @@ Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 
 6.2281 straipsnis. Vartojimo sutarties samprata ir kitos sąvokos
 
-1. Vartojimo sutartimi verslininkas įsipareigoja perduoti vartotojui prekes nuosavybės teise arba suteikti paslaugas vartotojui, o vartotojas įsipareigoja priimti prekes ar paslaugas ir sumokėti jų kainą.
+1. Vartojimo sutartimi verslininkas įsipareigoja perduoti vartotojui prekes nuosavybės teise arba suteikti paslaugas vartotojui, o vartotojas įsipareigoja priimti prekes ar paslaugas ir sumokėti jų kainą. Šio kodekso nustatytais atvejais vartojimo sutartimis laikomos ir kitos verslininko ir vartotojo sudarytos sutartys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 2. Vartotojas – fizinis asmuo, su savo verslu, prekyba, amatu ar profesija nesusijusiais tikslais (vartojimo tikslais) siekiantis sudaryti ar sudarantis sutartis.
 
@@ -4893,7 +4933,11 @@ Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 
 12) sutartims dėl azartinių lošimų, loterijos ar kitokių žaidimų, grindžiamų rizika ar atsitiktinumu;
 
-13) sutartims dėl keleivių vežimo, išskyrus šio kodekso 6.2285 straipsnio 3 dalį ir 6.2288 straipsnio 3 dalį.
+13) sutartims dėl keleivių vežimo, išskyrus šio kodekso 6.2285 straipsnio 3 ir 6 dalis bei 6.2288 straipsnio 3 dalį.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 3. Šio skyriaus normos, reglamentuojančios vartotojų teisių apsaugą, taip pat taikomos šiais atvejais:
 
@@ -4907,11 +4951,25 @@ Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 
 2. Kai vartojimo sutartyje numatytas išankstinis kainos sumokėjimas, bet vartotojas per sutartyje nustatytą terminą kainos nesumoka, laikoma, kad vartotojas atsisakė sutarties, jeigu sutartyje nenumatyta ko kita.
 
-3. Prieš sudarydamas vartojimo sutartį, verslininkas turi gauti aiškų vartotojo sutikimą dėl kiekvieno papildomo mokesčio, numatyto prie kainos. Jeigu verslininkas negavo aiškaus vartotojo sutikimo, bet numanė jį iš išankstinių teiginių, su kuriais vartotojas, norėdamas išvengti papildomų mokesčių, turėjo nesutikti, vartotojas turi teisę tokius mokesčius susigrąžinti.
+3. Prieš sudarydamas vartojimo sutartį, verslininkas turi gauti aiškų vartotojo sutikimą dėl kiekvieno papildomo mokesčio, numatyto prie kainos (atlyginimo už verslininko pagrindinės sutartinės prievolės įvykdymą). Jeigu verslininkas negavo aiškaus vartotojo sutikimo, bet numanė jį iš išankstinių teiginių, su kuriais vartotojas, norėdamas išvengti papildomų mokesčių, turėjo nesutikti, vartotojas turi teisę tokius mokesčius susigrąžinti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 4. Vartojimo sutarties sudarymo išlaidos tenka vartotojui tik tuo atveju, kai sutarties sudarymo metu verslininkas jas atskirai aptarė su vartotoju ir gavo jo aiškų sutikimą dėl šių išlaidų apmokėjimo.
 
-5. Verslininkas, suteikiantis vartotojui galimybę susisiekti su juo dėl sudarytos sutarties naudojantis telefono ryšio paslaugomis, negali naudoti telefono ryšio numerio, kuriuo skambinant būtų taikoma didesnė telefono ryšio paslaugų kaina, negu nustatyta vartotojo ir telefono ryšio paslaugų teikėjo sutartyje. Verslininkas, pažeidęs šią pareigą, turi atlyginti dėl to vartotojo patirtas išlaidas.
+5. Verslininkas, suteikiantis vartotojui galimybę susisiekti su juo dėl sudarytos sutarties naudojantis telefono ryšio paslaugomis, negali naudoti telefono ryšio numerio, kuriuo skambinant būtų taikoma didesnė negu bazinė skambučių kaina, t. y. didesnė kaina negu vartotojas moka už skambučius viešųjų fiksuotojo ir judriojo telefono ryšio paslaugų numeriais. Verslininkas, pažeidęs šią pareigą, turi atlyginti dėl to vartotojo patirtas išlaidas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
+
+6. Verslininkui draudžiama reikalauti iš vartotojo atlyginimo už tam tikros mokėjimo priemonės naudojimą ar mokėjimą grynaisiais pinigais, viršijančio verslininko išlaidas, patiriamas dėl tos mokėjimo priemonės naudojimo ar mokėjimo grynaisiais pinigais. Įstatymuose gali būti nustatytas draudimas reikalauti iš vartotojų atlyginimo už tam tikros mokėjimo priemonės naudojimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 6.2286 straipsnis. Bendrieji vartotojų teisės į informaciją reikalavimai
 
@@ -4925,9 +4983,25 @@ Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 
 4) jeigu reikalinga, apmokėjimo, pristatymo, sutarties vykdymo tvarka, prekių pristatymo ar paslaugų suteikimo terminas, verslininko atliekamo vartotojų skundų nagrinėjimo tvarka;
 
-5) garantija pagal įstatymą, tinkamumo naudoti terminas, garantinio aptarnavimo ir kokybės garantijos (komercinės garantijos) sąlygos, jeigu reikalinga;
+5) priminimas apie prekės garantiją pagal įstatymą, tinkamumo naudoti terminas, garantinio aptarnavimo ir kokybės garantijos (komercinės garantijos) sąlygos, jeigu reikalinga;
 
-6) jeigu reikalinga, sutarties trukmė, o kai sutartis neterminuota ar pratęsiama automatiškai, – sutarties nutraukimo sąlygos.
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
+
+6) jeigu reikalinga, sutarties trukmė, o kai sutartis neterminuota ar pratęsiama automatiškai, – sutarties nutraukimo sąlygos;
+
+7) jeigu reikalinga, skaitmeninio turinio funkcinės savybės, įskaitant taikomas technines apsaugos priemones;
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
+
+8) jeigu reikalinga, skaitmeninio turinio suderinamumas su technine ir programine įranga tiek, kiek verslininkas žino ar turi žinoti.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 2. Įstatymuose ir Mažmeninės prekybos taisyklėse gali būti nustatyta reikalavimų dėl papildomos informacijos, kurią būtina suteikti vartotojams prieš sudarant vartojimo sutartis dėl tam tikrų rūšių prekių ar paslaugų, teikimo.
 
@@ -4973,13 +5047,13 @@ Nr. XII-916, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07638
 
 2. Prekybos patalpomis laikomos nekilnojamosios patalpos, kuriose verslininkas nuolat verčiasi mažmenine prekyba, ir kilnojamosios patalpos, kuriose verslininkas paprastai verčiasi mažmenine prekyba.
 
-3. Ne prekybos patalpose sudarytoms sutartims, kai suma, kurią turi sumokėti vartotojas, yra mažesnė už dvidešimt penkis eurus, netaikomi šis straipsnis, šio kodekso 6.2287 ir 6.22810 straipsniai. Kai sudaroma neterminuota sutartis arba sutartis, kurioje numatomas periodinių įmokų mokėjimas, atsižvelgiama į sumą, kurią turi sumokėti vartotojas per metus.
-
-TAR pastaba. 6.2289 straipsnio 3 dalies nuostatos taikomos sutartims, sudarytoms po šio įstatymo įsigaliojimo.
+3. Ne prekybos patalpose sudarytoms sutartims, kai suma, kurią turi sumokėti vartotojas, yra mažesnė už dvidešimt penkis eurus, netaikomi šis straipsnis, šio kodekso 6.2287 ir 6.22810 straipsniai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 4. Ne prekybos patalpose sudarydamas sutartį, verslininkas privalo suteikti vartotojui šio kodekso 6.2287 straipsnio 1 dalyje nurodytą informaciją raštu popieriuje arba vartotojo sutikimu kitoje patvariojoje laikmenoje. Informacija turi būti įskaitoma ir pateikiama aiškia ir suprantama kalba.
 
@@ -5009,7 +5083,11 @@ Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518
 
 10. Vartotojas neatlygina už suteiktas paslaugas ar energijos tiekimą per sutarties atsisakymo laikotarpį, jeigu:
 
-1) verslininkas nepateikė vartotojui informacijos apie teisę atsisakyti sutarties pagal šio kodekso 6.2287 straipsnio 1 dalies 7 punktą arba informacijos apie prekių grąžinimo išlaidas pagal šio kodekso 6.2287 straipsnio 1 dalies 8 punktą arba
+1) verslininkas nepateikė vartotojui informacijos apie teisę atsisakyti sutarties pagal šio kodekso 6.2287 straipsnio 1 dalies 7 punktą arba šio kodekso 6.2287 straipsnio 1 dalies 9 punkte nustatytos informacijos, kad vartotojas turi sumokėti verslininkui pagrįstas išlaidas pagal šio straipsnio 9 dalį, arba
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 2) vartotojas nepateikė aiškaus prašymo pradėti teikti paslaugas arba tiekti energiją per sutarties atsisakymo laikotarpį pagal šio kodekso 6.22810 straipsnio 9 ar 10 dalį.
 
@@ -8789,15 +8867,21 @@ VARTOJIMO KREDITAS
 
 6.895 straipsnis. Indėlių rūšys
 
-1. Banko indėlio sutartis gali būti sudaryta nustatant banko ar kitos kredito įstaigos pareigą išmokėti indėlį pagal pirmą pareikalavimą (indėlis iki pareikalavimo) arba nustatant banko ar kitos kredito įstaigos pareigą išmokėti indėlį praėjus tam tikram terminui (terminuotas indėlis).
+1. Banko indėlio sutartis gali būti sudaryta nustatant banko ar kitos kredito įstaigos pareigą išmokėti indėlį pagal pirmą pareikalavimą (indėlis iki pareikalavimo) arba nustatant banko ar kitos kredito įstaigos pareigą išmokėti indėlį praėjus tam tikram terminui (terminuotas indėlis, neatšaukiamas terminuotas indėlis).
 
-2. Bankų ar kitų kreditų įstaigų veiklą reglamentuojantys teisės aktai bei šalys susitarimu gali nustatyti ir kitokias indėlių rūšis.
+2. Bankų ar kitų kredito įstaigų veiklą reglamentuojantys teisės aktai bei šalys susitarimu gali nustatyti ir kitokias indėlių rūšis.
 
-3. Nepaisant indėlio rūšies, bankas ar kita kredito įstaiga privalo išmokėti visą ar dalį indėlio pagal pirmą indėlininko pareikalavimą. Sutarties sąlyga, numatanti indėlininko atsisakymą teisės gauti indėlį pagal pirmą pareikalavimą, negalioja.
+3. Nepaisant indėlio rūšies, išskyrus  neatšaukiamus terminuotus indėlius, bankas ar kita kredito įstaiga privalo išmokėti visą ar dalį indėlio pagal pirmą indėlininko pareikalavimą. Sutarties sąlyga, numatanti indėlininko atsisakymą teisės gauti indėlį pagal pirmą pareikalavimą, išskyrus  neatšaukiamus terminuotus indėlius, negalioja.
 
-4. Kai indėlis išmokamas indėlininkui prieš sueinant sutartyje nustatytam terminui ar prieš susidarant kitoms joje numatytoms aplinkybėms (išskyrus indėlius iki pareikalavimo), palūkanos išmokamos tokio dydžio, kuris atitinka indėliams iki pareikalavimo nustatytas palūkanas, jeigu sutartis nenustato ko kita.
+4. Neatšaukiamas terminuotas indėlis nesuteikia indėlininkui teisės atsiimti indėlį ar jo dalį nesuėjus sutartyje nustatytam terminui, išskyrus šio kodekso 6.8951 straipsnyje nustatytus atvejus. Prieš neatšaukiamo terminuoto indėlio sutarties sudarymą bankas ar kita kredito įstaiga privalo informuoti indėlininką apie neatšaukiamo terminuoto indėlio ypatumus, skirtumus nuo kitų siūlomų indėlių, neatšaukiamo terminuoto indėlio sutarties sudarymo, pratęsimo ir nutraukimo sąlygas. Pareiga įrodyti, kad ši informacija indėlininkui suteikta, tenka bankui ar kitai kredito įstaigai.
 
-5. Jeigu indėlininkas nereikalauja išmokėti terminuoto indėlio pasibaigus jo terminui ar susidaro kitos sutartyje numatytos aplinkybės, tai sutartis pripažįstama pratęsta indėlio iki pareikalavimo sąlygomis, jeigu sutartis nenustato ko kita.
+5. Kai indėlis išmokamas indėlininkui nesuėjus sutartyje nustatytam terminui ar iki kitų sutartyje numatytų aplinkybių susidarymo (išskyrus indėlius iki pareikalavimo), palūkanos išmokamos tokio dydžio, kuris atitinka indėliams iki pareikalavimo nustatytas palūkanas, jeigu sutartis nenustato ko kita.
+
+6. Jeigu indėlininkas nereikalauja išmokėti terminuoto ar neatšaukiamo terminuoto indėlio pasibaigus jo terminui ar susidaro kitos sutartyje numatytos aplinkybės, tai sutartis pripažįstama pratęsta indėlio iki pareikalavimo sąlygomis, jeigu sutartis nenustato ko kita. Indėlininkas sutikimą dėl kiekvieno sutarties pratęsimo neatšaukiamo terminuoto indėlio sąlygomis turi pareikšti bankui ar kitai kredito įstaigai likus ne mažiau negu keturiolikai ir ne daugiau kaip šešiasdešimt dienų iki neatšaukiamo terminuoto indėlio termino pabaigos. Pareiga įrodyti, kad šis indėlininko sutikimas gautas, tenka bankui ar kitai kredito įstaigai.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2755, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26958
 
 6.896 straipsnis. Palūkanos
 
@@ -8809,7 +8893,11 @@ VARTOJIMO KREDITAS
 
 4. Jeigu sutartis nenustato ko kita, bankas ar kita kredito įstaiga turi teisę vienašališkai keisti palūkanų, mokamų už indėlius iki pareikalavimo, dydį. Jeigu bankas ar kita kredito įstaiga sumažina palūkanų dydį, tai nauja palūkanų norma pradedama taikyti indėliams, kurie yra įmokėti iki pranešimo indėlininkams apie palūkanų dydžio sumažinimą, tik praėjus mėnesiui nuo šio pranešimo, jeigu ko kita nenustato sutartis.
 
-5. Palūkanų, mokamų už terminuotus ar kitokius indėlius, dydžio bankas ar kita kredito įstaiga vienašališkai mažinti neturi teisės, jeigu ko kita nenustato sutartis.
+5. Bankas ar kita kredito įstaiga neturi teisės vienašališkai mažinti sutartyje numatytų palūkanų, mokamų už neatšaukiamus terminuotus indėlius, dydžio. Palūkanų, mokamų už kitokius indėlius (išskyrus indėlius iki pareikalavimo), dydžio bankas ar kita kredito įstaiga vienašališkai mažinti neturi teisės, jeigu ko kita nenustato sutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2755, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26958
 
 6.897 straipsnis. Palūkanų apskaičiavimas ir mokėjimas
 
@@ -10299,6 +10387,22 @@ Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685
 
 Lietuvos Respublikos civilinio kodekso 6.410, 6.427 ir 6.863 straipsnių pakeitimo įstatymas
 
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2755, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26958
+
+Lietuvos Respublikos civilinio kodekso 6.895, 6.896 straipsnių pakeitimo ir Kodekso papildymo 6.895-1 straipsniu įstatymas
+
+24.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
+
+Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-3, 6.228-4, 6.228-5, 6.228-6, 6.228-7, 6.228-9, 6.228-10, 6.228-11 ir 6.228-12 straipsnių pakeitimo įstatymas
+
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
 Motorinės transporto priemonės pirkimo–pardavimo sutartyje privalo būti nurodyti duomenys apie motorinę transporto priemonę, kurią pardavėjas privalo pagal sutartį perduoti pirkėjui. Pardavėjas pirkimo–pardavimo sutartyje privalo pirkėjui nurodyti (deklaruoti) ridos duomenis, visus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta per laikotarpį, kurį pardavėjas yra motorinės transporto priemonės savininkas, taip pat visus jam žinomus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta. Privalomų pirkimo–pardavimo sutartyje nurodyti duomenų apie motorinę transporto priemonę ir jos trūkumus sąrašą tvirtina Vyriausybė arba jos įgaliota institucija.
@@ -10394,4 +10498,12 @@ CIVILINĖS BŪKLĖS AKTŲ REGISTRAVIMAS
 XX skyrius
 
 BENDROSIOS NUOSTATOS
+
+6.8951 straipsnis. Neatšaukiamo terminuoto indėlio sutarties nutraukimas
+
+Indėlininkas, kuris yra vartotojas, ypatingomis aplinkybėmis (darbo netekimas, sunki liga, indėlininko, jo sutuoktinio, vaiko ar kito artimojo giminaičio mirtis, kitos sutartyje numatytos svarbios aplinkybės), o kitais atvejais – banko ar kitos kredito įstaigos sutikimu turi teisę prieš terminą nutraukti neatšaukiamo terminuoto indėlio sutartį arba atsiimti dalį indėlio. Visais šiais atvejais bankas ar kita kredito įstaiga privalo išmokėti visą indėlį arba jo dalį pagal indėlininko pareikalavimą, indėlininkui nepatiriant papildomų su sutarties nutraukimu susijusių išlaidų.
+
+Papildyta straipsniu:
+
+Nr. XII-2755, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26958
 
