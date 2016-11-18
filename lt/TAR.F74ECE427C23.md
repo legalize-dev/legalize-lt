@@ -4,7 +4,7 @@ identifier: "TAR.F74ECE427C23"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-07-02"
-last_updated: "2016-05-12"
+last_updated: "2016-11-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F74ECE427C23"
 department: "Lietuvos Respublikos Seimas"
@@ -15,15 +15,15 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas
 
-Suvestinė redakcija nuo 2016-05-12 iki 2016-11-17
+Suvestinė redakcija nuo 2016-11-18 iki 2017-08-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 66-1910, i. k. 0981010ISTAVIII-840
 
-TAR pastaba. Asmenys, kurie iki šio įstatymo  įsigaliojimo buvo įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą pagal savivaldybę, kurios teritorijoje jie gyvena, privalo per 12 mėnesių, įsigaliojus šiam įstatymui, šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka deklaruoti savo gyvenamąją vietą arba, jeigu atitinka šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 6 straipsnio 1 ar 2 dalyje nustatytas sąlygas, pateikti prašymus įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą.  Asmenys, kurie iki šio įstatymo įsigaliojimo deklaruodami savo gyvenamąją vietą nebuvo nurodę visų gyvenamosios vietos adresą sudarančių duomenų (buvo nurodyta tik gyvenamoji vietovė), privalo per 12 mėnesių, įsigaliojus šiam įstatymui, kreiptis į gyvenamosios vietos deklaravimo įstaigą dėl deklaruotos gyvenamosios vietos adreso pakeitimo (tikslinimo). (Įstatymo Nr. VIII-840 naujos redakcijos įstatymo Nr. XII-1919 2 straipsnio 2 ir 3 dalių pakeitimas)
+TAR pastaba. Asmenys, kurie iki šio įstatymo įsigaliojimo buvo įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą pagal savivaldybę, kurios teritorijoje jie gyvena, privalo per 24 mėnesius, įsigaliojus šiam įstatymui, šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka deklaruoti savo gyvenamąją vietą arba, jeigu atitinka šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 6 straipsnio 1 ar 2 dalyje nustatytas sąlygas, pateikti prašymus įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą. Asmenys, kurie iki šio įstatymo įsigaliojimo deklaruodami savo gyvenamąją vietą nebuvo nurodę visų gyvenamosios vietos adresą sudarančių duomenų (buvo nurodyta tik gyvenamoji vietovė), privalo per 24 mėnesius, įsigaliojus šiam įstatymui, kreiptis į gyvenamosios vietos deklaravimo įstaigą dėl deklaruotos gyvenamosios vietos adreso pakeitimo (tikslinimo). (Įstatymo Nr. VIII-840 naujos redakcijos įstatymo Nr. XII-1919 2 straipsnio 2 ir 3 dalių pakeitimo įstatymas)
 
 Lietuvos Respublikos Seimas, Įstatymas
 
-Nr. XII-2333, 2016-05-05, paskelbta TAR 2016-05-11, i. k. 2016-12226
+Nr. XII-2766, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26965
 
 Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 pakeitimo įstatymo Nr. XII-1919 2 straipsnio pakeitimo įstatymas
 
@@ -380,6 +380,14 @@ Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 pake
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XII-2333, 2016-05-05, paskelbta TAR 2016-05-11, i. k. 2016-12226
+
+Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 pakeitimo įstatymo Nr. XII-1919 2 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2766, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26965
 
 Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 pakeitimo įstatymo Nr. XII-1919 2 straipsnio pakeitimo įstatymas
 
