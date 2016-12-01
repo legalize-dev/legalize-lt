@@ -4,7 +4,7 @@ identifier: "TAR.EA5F9F0D6DBB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-03-28"
-last_updated: "2003-06-13"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EA5F9F0D6DBB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos  tiesioginio valdymo savivaldybės teritorijoje įstatymas
 
-Suvestinė redakcija nuo 2003-06-13 iki 2016-11-30
+Suvestinė redakcija nuo 2016-12-01 iki 2019-02-28
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 31-701, i. k. 0951010ISTA000I-830
 
@@ -46,7 +46,11 @@ Vilnius
 
 2) remdamasi teismų sprendimais, Vyriausybė konstatuoja, kad savivaldybės taryba šiurkščiai pažeidinėja Lietuvos Respublikos Konstituciją bei įstatymus;
 
-3) savivaldybės taryba per Vietos savivaldos įstatyme nustatytą laiką neišrenka mero ir nepaskiria mero pavaduotojo bei savivaldybės administracijos direktoriaus;
+3) savivaldybės taryba per Vietos savivaldos įstatyme nustatytą laiką nepaskiria mero pavaduotojo (pavaduotojų), savivaldybės administracijos direktoriaus, nesudaro savivaldybės tarybos Kontrolės komiteto ir (ar) nepaskiria šio komiteto pirmininko, nesudaro Vietos savivaldos įstatyme nustatytų savivaldybės tarybos komisijų ir (ar) nepaskiria šių komisijų pirmininkų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2637, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24612
 
 4) 2 ketvirčius iš eilės nevyksta savivaldybės tarybos posėdžiai;
 
@@ -112,7 +116,7 @@ Savivaldybė, kurios teritorijoje laikinai įvestas tiesioginis valdymas, naudoj
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                              ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -147,6 +151,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1584, 2003-05-27, Žin., 2003, Nr. 57-2532 (2003-06-13), i. k. 1031010ISTA0IX-1584
 
 Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos miestų ir rajonų laikino tiesioginio valdymo" pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2637, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24612
+
+Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo Nr. I-830 2 straipsnio pakeitimo įstatymas
 
 10 straipsnis.
 
