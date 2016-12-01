@@ -4,7 +4,7 @@ identifier: "TAR.C44837068B55"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-19"
-last_updated: "2015-01-01"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C44837068B55"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1998
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-11-30
+Suvestinė redakcija nuo 2016-12-01 iki 2017-07-12
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
 
@@ -65,7 +65,11 @@ BENDROSIOS NUOSTATOS
 
 7. Fiktyvus bankas – juridinis asmuo, turintis teisę verstis vienos ar daugiau rūšių kredito įstaigos veikla, bet faktinės veiklos nevykdantis, neturintis realiai veikiančių valdymo ir vadovavimo organų ir nepriklausantis valdomai finansų grupei.
 
-8. Finansų įstaigos – Lietuvos Respublikos finansų įstaigų įstatyme apibrėžtos kredito įstaigos ir finansų įmonės, Lietuvos Respublikos mokėjimų įstatyme apibrėžtos elektroninių pinigų įstaigos ir mokėjimo įstaigos, Lietuvos Respublikos valiutos keityklos operatorių įstatyme apibrėžti valiutos keityklos operatoriai, taip pat investicinės kintamojo kapitalo bendrovės.
+8. Finansų įstaigos – Lietuvos Respublikos finansų įstaigų įstatyme apibrėžtos kredito įstaigos ir finansų įmonės, Lietuvos Respublikos mokėjimų įstatyme apibrėžtos elektroninių pinigų įstaigos ir mokėjimo įstaigos, Lietuvos Respublikos valiutos keityklos operatorių įstatyme apibrėžti valiutos keityklos operatoriai, Lietuvos Respublikos sutelktinio finansavimo įstatyme apibrėžti sutelktinio finansavimo platformų operatoriai, taip pat investicinės kintamojo kapitalo bendrovės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2693, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26831
 
 9. Įtartina piniginė operacija ar sandoris – piniginė operacija arba sandoris, atliekami su turtu, kuris, kaip įtariama, yra tiesiogiai arba netiesiogiai gautas iš nusikalstamos veikos arba dalyvaujant tokioje veikoje ir (ar) yra susijęs su teroristų finansavimu.
 
@@ -191,7 +195,11 @@ Nr. XI-1687, 2011-11-17, Žin., 2011, Nr. 146-6833 (2011-12-01)
 
 4 straipsnis. Už pinigų plovimo ir (ar) teroristų finansavimo prevenciją atsakingų institucijų pareigos
 
-1. Lietuvos bankas patvirtina kredito įstaigoms, elektroninių pinigų įstaigoms, mokėjimo įstaigoms, valiutos keityklos operatoriams, draudimo įmonėms, vykdančioms gyvybės draudimo veiklą, draudimo brokerių įmonėms, vykdančioms su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, finansų maklerio įmonėms, valdymo įmonėms, investicinėms bendrovėms ir depozitoriumui skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri šių subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, konsultuoja šiuos subjektus minėtų nurodymų įgyvendinimo klausimais.
+1. Lietuvos bankas patvirtina kredito įstaigoms, elektroninių pinigų įstaigoms, mokėjimo įstaigoms, valiutos keityklos operatoriams, sutelktinio finansavimo platformų operatoriams, draudimo įmonėms, vykdančioms gyvybės draudimo veiklą, draudimo brokerių įmonėms, vykdančioms su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, finansų maklerio įmonėms, valdymo įmonėms, investicinėms bendrovėms ir depozitoriumui skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri šių subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, konsultuoja šiuos subjektus minėtų nurodymų įgyvendinimo klausimais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2693, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26831
 
 2. Kultūros paveldo departamentas patvirtina asmenims, kurie verčiasi ūkine komercine veikla, susijusia su prekyba kilnojamosiomis kultūros vertybėmis ir (ar) antikvariniais daiktais, skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri šių subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, konsultuoja šiuos subjektus minėtų nurodymų įgyvendinimo klausimais.
 
