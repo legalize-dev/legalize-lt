@@ -4,7 +4,7 @@ identifier: "TAR.C7A984833333"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-16"
-last_updated: "2016-01-01"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7A984833333"
 department: "Lietuvos Respublikos Seimas"
@@ -17,9 +17,17 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-11-30
+Suvestinė redakcija nuo 2016-12-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-27, i. k. 1031010ISTA0IX-1905
+
+TAR pastaba. Iki įstatymo Nr. XII-2652 įsigaliojimo (2016-12-01) parengtos ir pasirašytos Europos Bendrijos patikros deklaracijos ir Lietuvos Respublikos patikros deklaracijos galioja po šio įstatymo įsigaliojimo, jeigu nėra keičiami šiose deklaracijose nurodytų geležinkelių sistemos struktūrinių posistemių pagrindiniai parametrai ir (ar) geležinkelių sistemos struktūriniams posistemiams nėra atliekamos papildomos Europos Bendrijos ir (ar) Lietuvos Respublikos patikros procedūros. Po šio įstatymo įsigaliojimo pakeitus geležinkelių sistemos struktūrinių posistemių pagrindinius parametrus ir (ar) atlikus papildomas Europos Bendrijos ir (ar) Lietuvos Respublikos patikros procedūras, Europos Bendrijos patikros deklaracija rengiama Lietuvos Respublikos susisiekimo ministro nustatyta Europos Bendrijos patikros deklaracijos rengimo tvarka.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2652, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24694
+
+Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 2, 6, 9 straipsnių ir priedo pakeitimo įstatymas
 
 Nauja redakcija nuo 2015-09-01:
 
@@ -63,7 +71,11 @@ BENDROSIOS NUOSTATOS
 
 6. Europos Bendrijos patikra – procedūra, kurią vykdydama paskelbtoji įstaiga tikrina, ar geležinkelių sistemos struktūrinis posistemis (toliau – struktūrinis posistemis) atitinka geležinkelių techninio sąveikumo specifikacijas.
 
-7. Europos Bendrijos patikros deklaracija – pareiškėjo pasirašomas patikros dokumentas, kuriuo patvirtinama, kad struktūrinis posistemis atitinka esminius reikalavimus, nustatytus atitinkamose geležinkelių techninio sąveikumo specifikacijose.
+7. Europos Bendrijos patikros deklaracija – pareiškėjo pasirašomas patikros dokumentas, kuriuo pareiškėjas, prisiimdamas visą atsakomybę, patvirtina, kad struktūrinis posistemis, kuriam buvo taikomos Europos Bendrijos ir (ar) Lietuvos Respublikos patikros procedūros, atitinka reikalavimus, nustatytus atitinkamose geležinkelių techninio sąveikumo specifikacijose ir (ar) geležinkelių posistemių techninių taisyklių sąraše.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2652, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24694
 
 8. Europos Bendrijos patikros sertifikatas – paskelbtosios įstaigos išduodamas dokumentas, kuriuo patvirtinama, kad Europos Bendrijos patikros rezultatas yra teigiamas.
 
@@ -227,7 +239,11 @@ Eismo SAUGOS UŽTIKRINIMAS IR eismo saugos reikalavimų ĮGYVENDINIMAS
 
 3. Eismo saugos institucija atlieka šias funkcijas:
 
-1) Lietuvos Respublikos susisiekimo ministro nustatyta tvarka tvirtina geležinkelių riedmenų tipus, išduoda leidimus pradėti naudoti Lietuvos Respublikoje struktūrinius posistemius, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina jų galiojimą ir tikrina, ar struktūrinių posistemių naudojimas ir priežiūra atitinka esminius reikalavimus;
+1) Lietuvos Respublikos susisiekimo ministro nustatyta tvarka tvirtina geležinkelių riedmenų tipus, išduoda leidimus pradėti naudoti Lietuvos Respublikoje struktūrinius posistemius, pakeičia išduotus leidimus, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina jų galiojimą ir tikrina, ar struktūrinių posistemių naudojimas ir priežiūra atitinka esminius reikalavimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2652, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24694
 
 2) atlieka eismo saugos reglamentavimo ir nacionalinių geležinkelių transporto eismo saugos taisyklių stebėseną, jų derinimą ir tobulinimą, o prireikus imasi priemonių, kuriomis įpareigoja laikytis šių taisyklių reikalavimų;
 
@@ -311,7 +327,11 @@ Eismo SAUGOS UŽTIKRINIMAS IR eismo saugos reikalavimų ĮGYVENDINIMAS
 
 1. Geležinkelių sistema, geležinkelių posistemiai, geležinkelių sistemos sąveikaujančios dalys ir jų sąsajos turi atitikti esminius, taip pat šio įstatymo ir kitų teisės aktų reikalavimus. Geležinkelių posistemiai turi nuolat atitikti TSS (pradedant juos naudoti, naudojant, tobulinant ir atnaujinant).
 
-2. Leidžiama pradėti naudoti tik tuos struktūrinius posistemius, kurie turi Lietuvos Respublikos susisiekimo ministro nustatyta tvarka išduotus leidimus (leidimą pradėti naudoti Lietuvos Respublikoje struktūrinius posistemius, geležinkelių riedmenų serijas ir (ar) patvirtintą geležinkelių riedmenų tipą atitinkančius geležinkelių riedmenis ir (arba) pirmą ir (ar) papildomą leidimą pradėti naudoti TSS atitinkančius arba jų neatitinkančius geležinkelių riedmenis Lietuvos Respublikoje). Struktūriniai posistemiai, kurie turi pasirašytą Europos Bendrijos ir (ar) Lietuvos Respublikos patikros deklaraciją ir išduotą Europos Bendrijos ir (ar) Lietuvos Respublikos patikros sertifikatą, atitinka esminius reikalavimus ir užtikrina geležinkelių sistemos sąveikumą. Struktūrinių posistemių Europos Bendrijos ir Lietuvos Respublikos patikros sertifikatai išduodami ir Europos Bendrijos ir Lietuvos Respublikos patikros deklaracijos rengiamos Lietuvos Respublikos susisiekimo ministro nustatyta tvarka.
+2. Leidžiama pradėti naudoti tik tuos struktūrinius posistemius, kurie turi Lietuvos Respublikos susisiekimo ministro nustatyta tvarka išduotus leidimus (leidimą pradėti naudoti geležinkelių sistemos struktūrinius posistemius, pirmą leidimą pradėti naudoti TSS atitinkančius geležinkelių riedmenis, pirmą leidimą pradėti naudoti TSS neatitinkančius geležinkelių riedmenis, papildomą leidimą pradėti naudoti TSS atitinkančius geležinkelių riedmenis, papildomą leidimą pradėti naudoti TSS neatitinkančius geležinkelių riedmenis, leidimą pradėti naudoti geležinkelių riedmenų seriją ir (ar) leidimą pradėti naudoti patvirtintą geležinkelių riedmenų tipą atitinkančius geležinkelių riedmenis). Struktūriniai posistemiai, kurie turi pasirašytą Europos Bendrijos patikros deklaraciją ir išduotą Europos Bendrijos ir (ar) Lietuvos Respublikos patikros sertifikatą, laikomi atitinkančiais esminius reikalavimus ir užtikrinančiais geležinkelių sistemos sąveikumą. Struktūrinių posistemių Europos Bendrijos patikros atlikimo tvarką, Lietuvos Respublikos patikros atlikimo tvarką ir Europos Bendrijos patikros deklaracijos rengimo tvarką nustato Lietuvos Respublikos susisiekimo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2652, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24694
 
 3. Leidžiama pradėti naudoti tik tas geležinkelių sistemos sąveikaujančias dalis, kurios užtikrina geležinkelių sistemos sąveikumą ir atitinka esminius reikalavimus. Geležinkelių sistemos sąveikaujančios dalys, kurių atitiktį geležinkelių techninio sąveikumo specifikacijose nustatytiems reikalavimams patvirtina Europos Bendrijos atitikties arba tinkamumo naudoti deklaracija arba išduotas Europos Bendrijos atitikties arba tinkamumo naudoti sertifikatas ir pasirašyta Europos Bendrijos atitikties arba tinkamumo naudoti deklaracija, atitinka esminius reikalavimus ir užtikrina geležinkelių sistemos sąveikumą. Geležinkelių sistemos sąveikaujančių dalių Europos Bendrijos atitikties arba tinkamumo naudoti sertifikatas išduodamas ir Europos Bendrijos atitikties arba tinkamumo naudoti deklaracija rengiama Lietuvos Respublikos susisiekimo ministro nustatyta tvarka.
 
@@ -1191,7 +1211,11 @@ priedas
 
 3. 2007 m. lapkričio 9 d. Komisijos sprendimas 2007/756/EB, kuriuo priimama bendra nacionalinio geležinkelių riedmenų registro specifikacija, kaip numatyta Direktyvų 96/48/EB ir 2001/16/EB 14 straipsnio 4 ir 5 dalyse (OL 2007 L 305, p. 30).
 
-4. 2008 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 2008/57/EB dėl geležinkelių sistemos sąveikos Bendrijoje (nauja redakcija) (OL 2008 L 191, p. 1) su paskutiniais pakeitimais, padarytais 2011 m. kovo 1 d. Komisijos direktyva 2011/18/ES (OL 2011 L 57, p. 21), 2013 m. kovo 11 d. Komisijos direktyva 2013/9/ES (OL 2013 L 68, p. 55).
+4. 2008 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 2008/57/EB dėl geležinkelių sistemos sąveikos Bendrijoje (nauja redakcija) (OL 2008 L 191, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. gruodžio 5 d. Komisijos direktyva 2014/106/ES (OL 2014 L 355, p. 42).
+
+Punkto pakeitimai:
+
+Nr. XII-2652, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24694
 
 5. 2011 m. gegužės 10 d. Komisijos reglamentas (ES) Nr. 445/2011 dėl subjektų, atsakingų už prekinių vagonų priežiūrą, sertifikavimo sistemos, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 653/2007 (OL 2011 L 122, p. 22).
 
