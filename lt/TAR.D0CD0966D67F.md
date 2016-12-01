@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2016-11-16"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2016-11-16 iki 2016-11-30
+Suvestinė redakcija nuo 2016-12-01 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -457,7 +457,11 @@ PLANAVIMAS IR PLANAI SAVIVALDYBĖJE
 
 5. Tarybos narys visas valstybės politiko ir savivaldybės bendruomenės atstovo teises įgyja tik po to, kai prisiekia šio įstatymo nustatyta tvarka.
 
-6. Per du mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos arba nuo tiesiogiai išrinkto mero priesaikos priėmimo dienos turi būti paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryti savivaldybės tarybos komitetai ir paskirti šių komitetų pirmininkai, sudarytos šiame įstatyme nustatytos komisijos ir paskirti šių komisijų pirmininkai, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti.
+6. Per du mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos arba nuo tiesiogiai išrinkto mero priesaikos priėmimo dienos turi būti paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryti savivaldybės tarybos komitetai ir paskirti šių komitetų pirmininkai, sudarytos šiame įstatyme nustatytos komisijos ir paskirti šių komisijų pirmininkai, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti. Jeigu mero pavaduotojo (pavaduotojų) įgaliojimai nutrūksta ir (ar) savivaldybės administracijos direktorius atleidžiamas iš pareigų prieš terminą, per du mėnesius nuo jo įgaliojimų nutrūkimo ar atleidimo iš pareigų dienos savivaldybės taryba turi paskirti mero pavaduotoją (pavaduotojus) ir (ar) savivaldybės administracijos direktorių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
 
 7. Šio straipsnio 6 dalies nuostata (išskyrus tarybos komitetų bei įstatyme nustatytų komisijų sudarymą) netaikoma, jeigu išrinktas meras kitų įstatymų nustatyta tvarka laikinai nušalintas nuo pareigų. Pasibaigus išrinkto mero laikino nušalinimo laikotarpiui ne vėliau kaip per 5 kalendorines dienas turi būti sušauktas savivaldybės tarybos posėdis, kuriame išrinktas meras prisiekia (jeigu jis nebuvo prisiekęs). Nuo šio posėdžio dienos per du mėnesius turi būti paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti.
 
@@ -531,7 +535,11 @@ Nr. XII-1595, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04843
 
 6. Savivaldybės tarybos posėdžio darbotvarkę sudaro meras. Ne vėliau kaip prieš 4 darbo dienas iki savivaldybės tarybos posėdžio svarstytinus klausimus kartu su įregistruotais sprendimų projektais meras privalo įtraukti į posėdžio darbotvarkę. Jeigu meras svarstytinų klausimų į posėdžio darbotvarkę neįtraukia, dėl jų įtraukimo į darbotvarkę sprendžia savivaldybės taryba reglamente nustatyta tvarka. Savivaldybės tarybos posėdžio darbotvarkė ne vėliau kaip prieš 3 darbo dienas iki savivaldybės tarybos posėdžio paskelbiama savivaldybės interneto svetainėje.
 
-7. Savivaldybės tarybos posėdžio darbotvarkė gali būti papildyta ar pakeista savivaldybės tarybos sprendimu komiteto, komisijos, frakcijos ar 1/3 dalyvaujančių posėdyje tarybos narių siūlymu, jei dėl šių siūlymų sprendimų projektai įregistruoti ne vėliau kaip prieš 24 valandas iki posėdžio pradžios. Ši nuostata netaikoma siūlymams, susijusiems su norminio pobūdžio sprendimų projektų pateikimu. Ekstremaliųjų įvykių, atitinkančių Vyriausybės patvirtintus kriterijus, atvejais meras turi teisę pateikti savivaldybės tarybai svarstyti klausimą ir siūlyti priimti sprendimą skubos tvarka.
+7. Savivaldybės tarybos posėdžio darbotvarkė gali būti papildyta ar pakeista savivaldybės tarybos sprendimu komiteto, komisijos, frakcijos ar 1/3 dalyvaujančių posėdyje tarybos narių siūlymu, jeigu dėl šių siūlymų sprendimų projektai įregistruoti ne vėliau kaip prieš 24 valandas iki posėdžio pradžios. Ši nuostata netaikoma siūlymams, susijusiems su norminio pobūdžio sprendimų projektų pateikimu, siūlymams, susijusiems su mero pavaduotojo (pavaduotojų), savivaldybės administracijos direktoriaus, savivaldybės administracijos direktoriaus pavaduotojo (pavaduotojų), Kontrolės komiteto ir šiame įstatyme nustatytų komisijų pirmininkų kandidatūrų pateikimu, taip pat siūlymams, susijusiems su nepasitikėjimo meru, mero pavaduotoju (pavaduotojais), savivaldybės administracijos direktoriumi, savivaldybės administracijos direktoriaus pavaduotoju (pavaduotojais), Kontrolės komiteto ir šiame įstatyme nustatytų komisijų pirmininku pareiškimu. Ekstremaliųjų įvykių, atitinkančių Vyriausybės patvirtintus kriterijus, atvejais meras turi teisę pateikti savivaldybės tarybai svarstyti klausimą ir siūlyti priimti sprendimą skubos tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
 
 8. Apie savivaldybės tarybos posėdžio laiką, svarstyti parengtus ir reglamento nustatyta tvarka įregistruotus klausimus kartu su sprendimų projektais meras, o kai jo nėra (reglamento nustatytais atvejais), – mero pavaduotojas arba įgaliojimus iš 1/3 išrinktų tarybos narių gavęs tarybos narys ne vėliau kaip prieš 3 darbo dienas iki posėdžio pradžios reglamento nustatyta tvarka praneša visiems tarybos nariams, gyventojams ir seniūnaičiui, kai svarstomi klausimai yra susiję su jo atstovaujama gyvenamosios vietovės bendruomene, taip pat seniūnui ir vietos gyventojų apklausos iniciatyvinės grupės atstovui (atstovams), kai svarstomi vietos gyventojų apklausos rezultatai ar klausimai dėl vietos gyventojų apklausai pateikto (pateiktų) klausimo (klausimų).
 
@@ -947,7 +955,11 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 3) atstovauja savivaldybei regiono plėtros taryboje ir turi sprendžiamojo balso teisę sudarant ir įgyvendinant regiono plėtros programą;
 
-4) teikia savivaldybės tarybai mero pavaduotojo (pavaduotojų), savivaldybės administracijos direktoriaus, savivaldybės administracijos direktoriaus pavaduotojo (savivaldybės administracijos direktoriaus siūlymu) ir savivaldybės tarybos sudaromų komisijų pirmininkų kandidatūras, taip pat gali siūlyti atleisti juos iš pareigų, siūlyti skirti nuobaudas savivaldybės administracijos direktoriui;
+4) reglamento nustatyta tvarka pristato, derina ir teikia savivaldybės tarybai mero pavaduotojo (pavaduotojų), savivaldybės administracijos direktoriaus, savivaldybės administracijos direktoriaus pavaduotojo (savivaldybės administracijos direktoriaus siūlymu), savivaldybės tarybos Kontrolės komiteto pirmininko pavaduotojo, šiame įstatyme nustatytais atvejais Kontrolės komiteto pirmininko ir šiame įstatyme nustatytų savivaldybės tarybos komisijų pirmininkų kandidatūras, taip pat reglamento nustatyta tvarka gali siūlyti atleisti juos iš pareigų, siūlyti skirti nuobaudas savivaldybės administracijos direktoriui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
 
 5) nustato mero pavaduotojo (pavaduotojų) veiklos sritis;
 
@@ -1014,6 +1026,12 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 Papildyta straipsnio dalimi:
 
 Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
+
+10. Kai šio įstatymo nustatytais atvejais ir tvarka mero įgaliojimai nutrūksta prieš terminą, naujai išrinktas meras turi teisę siūlyti savivaldybės tarybai atleisti iš pareigų asmenis, einančius mero pavaduotojo (pavaduotojų), savivaldybės administracijos direktoriaus, savivaldybės administracijos direktoriaus pavaduotojo (pavaduotojų) pareigas, ir siūlyti į šias pareigas naujus asmenis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
 
 Straipsnio pakeitimai:
 
@@ -1281,7 +1299,11 @@ SAVIVALDYBĖS VYKDOMOJI INSTITUCIJA, VIEŠOJO ADMINISTRAVIMO ĮSTAIGOS, JŲ SUDA
 
 2. Savivaldybės administracijos direktorius vadovauja savivaldybės administracijai. Jis yra įstaigos vadovas. Savivaldybės administracijos direktoriaus skyrimo ir atleidimo tvarka nustatyta šiame ir Valstybės tarnybos įstatymuose.
 
-3. Savivaldybės administracijos direktorius į pareigas skiriamas mero teikimu savivaldybės tarybos sprendimu savivaldybės tarybos įgaliojimų laikui politinio (asmeninio) pasitikėjimo pagrindu. Savivaldybės administracijos direktoriaus kadencijų skaičius tam pačiam asmeniui neribojamas. Tol, kol administracijos direktorius ir jo pavaduotojas nėra paskirti, direktoriaus pareigas gali eiti laikinai mero pareigas einančio tarybos nario siūlymu savivaldybės tarybos paskirtas savivaldybės administracijos valstybės tarnautojas. Savivaldybės administracijos direktoriaus pavaduotojas (pavaduotojai) į pareigas skiriamas (skiriami) savivaldybės administracijos direktoriaus siūlymu mero teikimu savivaldybės tarybos sprendimu politinio (asmeninio) pasitikėjimo pagrindu. Tarnybines nuobaudas savivaldybės administracijos direktoriui (direktoriaus pavaduotojui (pavaduotojams) už tarnybinius nusižengimus skiria savivaldybės taryba. Tarnybinės nuobaudos skyrimo procedūra pradedama mero iniciatyva arba remiantis jo gauta rašytine informacija apie savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo (pavaduotojų) tarnybinius nusižengimus.
+3. Savivaldybės administracijos direktorius į pareigas skiriamas mero teikimu savivaldybės tarybos sprendimu savivaldybės tarybos įgaliojimų laikui politinio (asmeninio) pasitikėjimo pagrindu. Savivaldybės administracijos direktoriaus kadencijų skaičius tam pačiam asmeniui neribojamas. Tol, kol administracijos direktorius ir jo pavaduotojas nėra paskirti, direktoriaus pareigas gali eiti mero ar laikinai mero pareigas einančio tarybos nario siūlymu savivaldybės tarybos paskirtas savivaldybės administracijos valstybės tarnautojas. Savivaldybės administracijos direktoriaus pavaduotojas (pavaduotojai) į pareigas skiriamas (skiriami) savivaldybės administracijos direktoriaus siūlymu mero teikimu savivaldybės tarybos sprendimu politinio (asmeninio) pasitikėjimo pagrindu. Tarnybines nuobaudas savivaldybės administracijos direktoriui (direktoriaus pavaduotojui (pavaduotojams) už tarnybinius nusižengimus skiria savivaldybės taryba. Atleidimo iš pareigų praradus pasitikėjimą ar tarnybinės nuobaudos skyrimo procedūra pradedama mero iniciatyva arba remiantis jo gauta rašytine informacija apie savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo (pavaduotojų) tarnybinius nusižengimus ar apie savivaldybės tarybos pateiktus nepasitikėjimo savivaldybės administracijos direktoriumi motyvus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
 
 4. Dėl savivaldybės administracijos direktoriaus pavaduotojo pareigybės (pavaduotojų pareigybių) steigimo ir savivaldybės administracijos direktoriaus pavadavimo sprendžia savivaldybės taryba. Didžiausias galimas savivaldybės administracijos direktoriaus pavaduotojų skaičius nustatomas atsižvelgiant į savivaldybės tarybos narių skaičių. Savivaldybėje, kurios taryboje Savivaldybių tarybų rinkimų įstatymo nustatyta tvarka yra 41 ir daugiau tarybos narių, gali būti steigiamos ne daugiau kaip trys savivaldybės administracijos direktoriaus pavaduotojo pareigybės, savivaldybėje, kurios taryboje Savivaldybių tarybų rinkimų įstatymo nustatyta tvarka yra 27–31 tarybos narys, gali būti steigiamos ne daugiau kaip dvi savivaldybės administracijos direktoriaus pavaduotojo pareigybės; kitose savivaldybėse gali būti steigiama ne daugiau kaip viena savivaldybės administracijos direktoriaus pavaduotojo pareigybė.
 
