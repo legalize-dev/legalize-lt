@@ -4,7 +4,7 @@ identifier: "TAR.A0A0CCC6B997"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-27"
-last_updated: "2016-04-01"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0A0CCC6B997"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Lietuvos Respublikos bausmių vykdymo kodeksas įsigalioja 2003-05-01."
 
 PATVIRTINTAS
 
-Suvestinė redakcija nuo 2016-04-01 iki 2016-12-20
+Suvestinė redakcija nuo 2016-12-21 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
 
@@ -1905,6 +1905,14 @@ Nr. XII-2195, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20997
 
 Lietuvos Respublikos bausmių vykdymo kodekso 180 straipsnio ir 3 priedo pakeitimo įstatymas
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-67, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29147
+
+Lietuvos Respublikos bausmių vykdymo kodekso 145 straipsnio pakeitimo įstatymas
+
 62 straipsnis. Pataisos įstaigų rūšys
 
 1. Laisvės atėmimo bausmę vykdančios pataisos įstaigos yra šių rūšių: pataisos namai, nepilnamečių pataisos namai, kalėjimai, atviros kolonijos ir laisvės atėmimo vietų ligoninės.
@@ -3093,7 +3101,11 @@ Nr. X-164, 2005-04-21, Žin., 2005, Nr. 58-2002 (2005-05-07)
 
 145 straipsnis. Nuteistųjų laikymo sąlygos kamerų tipo patalpose
 
-1. Nuteistieji, atliekantys šio Kodekso 142 straipsnio 1 dalies 4 punkte nurodytą nuobaudą, kamerų tipo patalpose laikomi po vieną ir į darbą nevedami. Perkelti į kamerų tipo patalpas nuteistieji neturi teisės gauti pasimatymų, smulkiųjų paketų, siųsti laiškų (išskyrus atvejus, kai jie įgyvendina šio Kodekso 100, 109 ir 183 straipsniuose nurodytas teises), taip pat paskambinti telefonu. Jiems neleidžiama apsipirkti pataisos įstaigos parduotuvėje, išskyrus higienos reikmenų įsigijimą, turėti maisto produktų ir kitų Pataisos įstaigų vidaus tvarkos taisyklėse nurodytų daiktų. Šioje dalyje nurodytiems nuteistiesiems leidžiama skaityti knygas, žurnalus, laikraščius ir kitą literatūrą, kasdien vieną valandą, o nepilnamečiams, neįgaliesiems, kuriems nustatytas 0–40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, ir ligoniams (pagal gydytojo išvadą) – dvi valandas pasivaikščioti.
+1. Nuteistieji, atliekantys šio Kodekso 142 straipsnio 1 dalies 4 punkte nurodytą nuobaudą, kamerų tipo patalpose laikomi po vieną, o jeigu nėra tokios galimybės, – po du ir į darbą nevedami. Perkelti į kamerų tipo patalpas nuteistieji neturi teisės gauti pasimatymų, smulkiųjų paketų, siųsti laiškų (išskyrus atvejus, kai jie įgyvendina šio Kodekso 100, 109 ir 183 straipsniuose nurodytas teises), taip pat paskambinti telefonu. Jiems neleidžiama apsipirkti pataisos įstaigos parduotuvėje, išskyrus higienos reikmenų įsigijimą, turėti maisto produktų ir kitų Pataisos įstaigų vidaus tvarkos taisyklėse nurodytų daiktų. Šioje dalyje nurodytiems nuteistiesiems leidžiama skaityti knygas, žurnalus, laikraščius ir kitą literatūrą, kasdien vieną valandą, o nepilnamečiams, neįgaliesiems, kuriems nustatytas 0–40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, ir ligoniams (pagal gydytojo išvadą) – dvi valandas pasivaikščioti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-67, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29147
 
 2. Kamerų tipo patalpose laikomiems nuteistiesiems, atliekantiems šio Kodekso 142 straipsnio 2 dalies 3 punkte nurodytą nuobaudą, nustatomas režimas, atitinkantis šio Kodekso 86 straipsnyje nurodytas drausmės grupei priskirtų nuteistųjų laikymo kalėjime sąlygas. Kamerų tipo patalpose laikomi nuteistieji dirba atskirai nuo kitų nuteistųjų.
 
