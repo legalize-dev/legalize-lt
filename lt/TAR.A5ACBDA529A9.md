@@ -4,7 +4,7 @@ identifier: "TAR.A5ACBDA529A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-12-20"
-last_updated: "2016-03-26"
+last_updated: "2016-12-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Įstatymo 2 straipsnio 16 dalies 5 punkto, 40 stra
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2016-03-26 iki 2016-12-23
+Suvestinė redakcija nuo 2016-12-24 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
 
@@ -1709,23 +1709,11 @@ Vienetas nuo gautos paramos, panaudotos ne pagal Lietuvos Respublikos labdaros i
 
 Nr. X-456, 2005-12-20, Žin., 2005, Nr. 153-5635 (2005-12-31)
 
-401 straipsnis. Fiziniams asmenims paskirstyto pelno apmokestinimas pelno mokesčiu
+401 straipsnis. Neteko galios nuo 2016-12-24
 
-1. Lietuvos vieneto, kuris nėra laisvosios ekonominės zonos įmonė, fiziniams asmenims paskirstomas 2009 metų ir vėlesnių metų pelnas (ar jo dalis), proporcingai tenkantis dėl šio Įstatymo 12 straipsnio 5, 15, 16 punktuose, 461 straipsnyje nustatytų lengvatų neapmokestintam ir (arba) taikant 0 procentų tarifą apmokestintam apmokestinamajam pelnui, apmokestinamas taikant 15 procentų mokesčio tarifą.
+Straipsnio naikinimas:
 
-2. Lietuvos vienetas nuo šio straipsnio 1 dalyje nurodyto paskirstomo pelno apskaičiuotą pelno mokestį į biudžetą sumoka ne vėliau kaip iki kito mėnesio, einančio po mėnesio, kurį toks paskirstytas pelnas buvo išmokėtas fiziniams asmenims, dešimtos dienos.
-
-Įstatymas papildytas straipsniu:
-
-Nr. XI-73, 2008-12-18, Žin., 2008, Nr. 149-6000 (2008-12-30)
-
-Straipsnio pakeitimai:
-
-Nr. XI-174, 2009-02-19, Žin., 2009, Nr. 25-976 (2009-03-05)
-
-Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
-
-Nr. XI-1156, 2010-11-23, Žin., 2010, Nr. 145-7413 (2010-12-11)
+Nr. XIII-88, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29276
 
 IX SKYRIUS
 
