@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2016-04-27"
+last_updated: "2016-12-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2016-04-27 iki 2016-12-23
+Suvestinė redakcija nuo 2016-12-24 iki 2016-12-31
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
 
@@ -94,7 +94,11 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 18. Savivaldybės biudžetas – savivaldybės tarybos tvirtinamas savivaldybės biudžeto pajamų ir asignavimų planas biudžetiniams metams.
 
-19. Struktūrinis valdžios sektoriaus balanso rodiklis – pagal ekonominį ciklą patikslintas valdžios sektoriaus balanso rodiklis, kuriuo rodoma, koks būtų valdžios sektoriaus pajamų ir išlaidų skirtumas, jei faktinis BVP būtų lygus potencialiam, kai netaikytos laikinojo poveikio priemonės. Laikinojo poveikio priemonės – su ekonomikos cikliniais svyravimais nesusiję veiksniai, kurie paveikia biudžeto rodiklius tik nurodytu laikotarpiu, sumažindami (ar padidindami) valdžios sektoriaus balanso rodiklį arba valstybės skolą (vienkartinis poveikis) arba pagerindami (ar pablogindami) biudžeto būklę biudžeto būklės ateityje sąskaita.
+19. Struktūrinis valdžios sektoriaus balanso rodiklis – pagal ekonominį ciklą patikslintas valdžios sektoriaus balanso rodiklis, kuriuo rodoma, koks būtų valdžios sektoriaus pajamų ir išlaidų skirtumas, jei faktinis BVP būtų lygus potencialiam, kai netaikytos laikinojo poveikio priemonės. Laikinojo poveikio priemonės – su ekonomikos cikliniais svyravimais nesusiję veiksniai, kurie paveikia biudžeto rodiklius tik nurodytu laikotarpiu, sumažindami (ar padidindami) valdžios sektoriaus balanso rodiklį arba valstybės skolą (vienkartinis poveikis) arba pagerindami (ar pablogindami) biudžeto būklę biudžeto būklės ateityje sąskaita. Struktūrinis valdžios sektoriaus balanso rodiklis apskaičiuojamas ir vertinamas, kaip nustatyta Stabilumo ir augimo pakto reglamente.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-85, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29273
 
 20. Valstybės biudžetas – Lietuvos Respublikos Seimo (toliau – Seimas) tvirtinamas valstybės biudžeto pajamų ir asignavimų planas biudžetiniams metams.
 
@@ -116,11 +120,13 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 1. Valstybės biudžeto ir savivaldybių biudžetų pajamos ir asignavimai gali būti tik piniginės lėšos.
 
-2. Valstybės biudžeto ir savivaldybių biudžetų asignavimai naudojami valstybės ir savivaldybių funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos įmokos ir rinkliavos gali būti perskirstomi tik per valstybės biudžetą ir savivaldybių biudžetus, Valstybinio socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, Rezervinį (stabilizavimo) fondą, Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą, Garantinį fondą.
+2. Valstybės biudžeto ir savivaldybių biudžetų asignavimai naudojami valstybės ir savivaldybių funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos įmokos ir rinkliavos gali būti perskirstomi tik per valstybės biudžetą ir savivaldybių biudžetus, Valstybinio socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, Rezervinį (stabilizavimo) fondą, Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą, Garantinį fondą, Ilgalaikio darbo išmokų fondą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
+
+Nr. XIII-85, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29273
 
 3. Seimas tvirtina trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų konsoliduotos visumos (neįskaitant savivaldybių biudžetams skirtų valstybės biudžeto asignavimų) planuojamus rodiklius – pajamas ir asignavimus.
 
