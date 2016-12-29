@@ -4,7 +4,7 @@ identifier: "TAR.33A63C3E9D4C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-03-25"
-last_updated: "2014-01-01"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.33A63C3E9D4C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2016-12-28
+Suvestinė redakcija nuo 2016-12-29 iki 2023-05-04
 
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 58-0; Žin. 1993, Nr.11-265, i. k. 0931010ISTA000I-108
 
@@ -38,13 +38,17 @@ LIETUVOS RESPUBLIKOS VALSTYBINĖS LIETUVIŲ KALBOS KOMISIJOS ĮSTATYMAS
 
 2 straipsnis. Kalbos komisijos sudėtis ir sudarymo tvarka
 
-1. Kalbos komisiją sudaro 17 narių. Kalbos komisijos narius skiria ir atleidžia Seimas Švietimo, mokslo ir kultūros komiteto teikimu. Siūlymus Seimo Švietimo, mokslo ir kultūros komitetui teikia universitetai, mokslinių tyrimų įstaigos ir kūrybinės sąjungos.
+1. Kalbos komisiją sudaro 17 narių. Kalbos komisijos narius skiria ir atleidžia Seimas Švietimo ir mokslo komiteto teikimu. Siūlymus Seimo Švietimo ir mokslo komitetui teikia universitetai, mokslinių tyrimų įstaigos ir kūrybinės sąjungos.
 
 2. Kalbos komisijos nariai skiriami 5 metams. Jų įgaliojimų laikotarpių skaičius neribojamas. Kalbos komisijos nario įgaliojimų laikas skaičiuojamas nuo paskyrimo į pareigas dienos.
 
-3. Kalbos komisijai vadovauja pirmininkas. Kalbos komisijos pirmininką ir pirmininko pavaduotoją Švietimo, mokslo ir kultūros komiteto teikimu iš Kalbos komisijos narių 5 metų laikotarpiui skiria ir atleidžia Seimas.
+3. Kalbos komisijai vadovauja pirmininkas. Kalbos komisijos pirmininką ir pirmininko pavaduotoją Švietimo ir mokslo komiteto teikimu iš Kalbos komisijos narių 5 metų laikotarpiui skiria ir atleidžia Seimas.
 
-4. Seimas Švietimo, mokslo ir kultūros komiteto teikimu dėl svarbių priežasčių ar paties Kalbos komisijos pirmininko, jo pavaduotojo ar nario prašymu gali atleisti juos iš pareigų ir nesibaigus įgaliojimų laikui.
+4. Seimas Švietimo ir mokslo komiteto teikimu dėl svarbių priežasčių ar paties Kalbos komisijos pirmininko, jo pavaduotojo ar nario prašymu gali atleisti juos iš pareigų ir nesibaigus įgaliojimų laikui.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-115, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29766
 
 3 straipsnis. Kalbos komisijos uždaviniai
 
@@ -240,7 +244,7 @@ Nr. IX-2231, 2004-05-11, Žin. 2004, Nr. 83-2985 (2004-05-22), i. k. 1041010ISTA
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Vilnius, 1993 m. kovo 25 d.
 
@@ -319,4 +323,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2356, 2012-11-06, Žin., 2012, Nr. 132-6684 (2012-11-15), i. k. 1121010ISTA0XI-2356
 
 Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymo 6 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-115, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29766
+
+Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymo Nr. I-108 2 straipsnio pakeitimo įstatymas
 
