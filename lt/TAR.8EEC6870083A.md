@@ -4,7 +4,7 @@ identifier: "TAR.8EEC6870083A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-09-28"
-last_updated: "2016-05-25"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8EEC6870083A"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymo 3 straipsnio 1 dalis įsigalioja 2007-03
 ---
 # Lietuvos Respublikos Valstybinės kultūros paveldo komisijos įstatymas
 
-Suvestinė redakcija nuo 2016-05-25 iki 2016-12-28
+Suvestinė redakcija nuo 2016-12-29 iki 2017-09-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 153-5572, i. k. 1041010ISTA0IX-2453
 
@@ -45,13 +45,21 @@ Vilnius
 
 3 straipsnis. Komisijos sudėtis ir sudarymo tvarka
 
-1. Komisiją sudaro 12 narių: 2 narius skiria ir atleidžia Respublikos Prezidentas, 4 narius – Seimas Seimo Švietimo, mokslo ir kultūros komiteto (toliau – Švietimo, mokslo ir kultūros komitetas) teikimu, 4 narius – Ministras Pirmininkas kultūros ministro teikimu, 2 narius renka ir atšaukia įstatymų nustatyta tvarka įregistruotos asociacijos, kurių veikla susijusi su kultūros paveldo paieška, saugojimu ir propagavimu.
+1. Komisiją sudaro 12 narių: 2 narius skiria ir atleidžia Respublikos Prezidentas, 4 narius – Seimas Seimo Kultūros komiteto (toliau – Kultūros komitetas) teikimu, 4 narius – Ministras Pirmininkas kultūros ministro teikimu, 2 narius renka ir atšaukia įstatymų nustatyta tvarka įregistruotos asociacijos, kurių veikla susijusi su kultūros paveldo paieška, saugojimu ir propagavimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-114, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29765
 
 2. Komisijos nariai skiriami (renkami) 4 metams. Pasibaigus Komisijos narių kadencijai, Komisijos nariai pareigas eina tol, kol į jas šio įstatymo nustatyta tvarka paskiriami nauji asmenys.
 
 3. Komisijos nariai iš asociacijų renkami vadovaujantis Valstybinės kultūros paveldo komisijos narių iš asociacijų rinkimų nuostatuose, patvirtintuose Lietuvos Respublikos Seimo nutarimu „Dėl Valstybinės kultūros paveldo komisijos narių iš asociacijų rinkimų nuostatų patvirtinimo“, nustatyta tvarka.
 
-4. Komisijai vadovauja pirmininkas. Pirmininką Švietimo, mokslo ir kultūros komiteto teikimu iš Komisijos narių 4 metams skiria ir atleidžia Seimas. Komisijos pirmininko kandidatūrą Švietimo, mokslo ir kultūros komitetui teikia Komisija. Pasibaigus Komisijos pirmininko kadencijai, Komisijos pirmininkas eina pareigas tol, kol į jas šio įstatymo nustatyta tvarka paskiriamas naujas asmuo.
+4. Komisijai vadovauja pirmininkas. Pirmininką Kultūros komiteto teikimu iš Komisijos narių 4 metams skiria ir atleidžia Seimas. Komisijos pirmininko kandidatūrą Kultūros komitetui teikia Komisija. Pasibaigus Komisijos pirmininko kadencijai, Komisijos pirmininkas eina pareigas tol, kol į jas šio įstatymo nustatyta tvarka paskiriamas naujas asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-114, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29765
 
 5. Komisijos pirmininkas turi pavaduotoją. Jį pirmininko teikimu skiria Komisija iš savo narių. Pirmininkas ne vėliau kaip per 30 dienų nuo jo paskyrimo teikia pirmininko pavaduotojo kandidatūrą Komisijai skirti.
 
@@ -188,6 +196,14 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XII-2355, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13916
+
+Lietuvos Respublikos valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2453 3 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-114, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29765
 
 Lietuvos Respublikos valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2453 3 straipsnio pakeitimo įstatymas
 
