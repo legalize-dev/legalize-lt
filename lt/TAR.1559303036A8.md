@@ -4,7 +4,7 @@ identifier: "TAR.1559303036A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-08"
-last_updated: "2015-01-01"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1559303036A8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-28
+Suvestinė redakcija nuo 2016-12-29 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2319; Žin. 1996, Nr.103-0, i. k. 0961010ISTA00I-1571
 
@@ -152,7 +152,11 @@ LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS VALDYMAS
 
 2. Taryba yra aukščiausiasis organas, atstovaujantis visuomenės interesams. Ji sudaroma 6 metams iš 12 asmenų – visuomenės, mokslo ir kultūros veikėjų. Pirmajai Tarybos, sudaromos šio įstatymo nustatyta tvarka, kadencijai 4 tarybos narius 6 metams skiria Respublikos Prezidentas; 4 narius 4 metams skiria Seimas (2 nariai skiriami iš opozicinių frakcijų pasiūlytų kandidatų); 4 narius, kaip savo atstovus (po vieną), 2 metams skiria šios organizacijos: Lietuvos mokslo taryba, Lietuvos švietimo taryba, Lietuvos meno kūrėjų asociacija, Lietuvos vyskupų konferencija. Pasibaigus Tarybos nario įgaliojimų laikui, jį paskyrusi ar delegavusi institucija (organizacija) naują narį skiria 6 metams.
 
-3. Tarybos sudarymą organizuoja Seimo Švietimo, mokslo ir kultūros komitetas. Jis kviečia pirmąjį Tarybos posėdį, kuriame Tarybos nariai paprasta visų Tarybos narių balsų dauguma 3 metams išsirenka Tarybos pirmininką.
+3. Tarybos sudarymą organizuoja Seimo Kultūros komitetas. Jis kviečia pirmąjį Tarybos posėdį, kuriame Tarybos nariai paprasta visų Tarybos narių balsų dauguma 3 metams išsirenka Tarybos pirmininką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-113, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29763
 
 4. Tarybos nariais negali būti Seimo, Vyriausybės, Lietuvos radijo ir televizijos komisijos nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, asmenys, dirbantys pagal darbo sutartis radijo ir televizijos stotyse, tarp jų LRT, taip pat radijo ir televizijos stočių savininkai ir bendraturčiai.
 
@@ -172,9 +176,17 @@ LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS VALDYMAS
 
 8. Taryba turi teisę atsistatydinti nepasibaigus kadencijai. Jeigu Taryba atsistatydina, Tarybos ir visų jos narių įgaliojimai nutrūksta naujai sudarytai Tarybai susirinkus į pirmąjį posėdį. Tarybos atsistatydinimo atveju šio straipsnio 6 dalies nuostata netaikoma.
 
-9. Kai Taryba atsistatydina, Seimo Švietimo, mokslo ir kultūros komitetas ne vėliau kaip per 10 dienų kreipiasi į institucijas, paskyrusias ar delegavusias Tarybos narius, prašydamas paskirti Tarybos narius.
+9. Kai Taryba atsistatydina, Seimo Kultūros komitetas ne vėliau kaip per 10 dienų kreipiasi į institucijas, paskyrusias ar delegavusias Tarybos narius, prašydamas paskirti Tarybos narius.
 
-10. Institucijos, įgaliotos skirti Tarybos narius, privalo juos paskirti ne vėliau kaip per 10 dienų nuo Seimo Švietimo, mokslo ir kultūros komiteto kreipimosi dienos. Paskyrus visus Tarybos narius, Seimo Švietimo, mokslo ir kultūros komitetas ne vėliau kaip per 10 dienų organizuoja Tarybos pirmininko rinkimą. Tarybos pirmininkas renkamas 3 metams paprasta visų Tarybos narių balsų dauguma, jeigu nesusidaro daugiau kaip dvi kadencijos iš eilės. Tarybos pirmininko pavaduotojas renkamas ta pačia tvarka Tarybos pirmininko teikimu.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-113, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29763
+
+10. Institucijos, įgaliotos skirti Tarybos narius, privalo juos paskirti ne vėliau kaip per 10 dienų nuo Seimo Kultūros komiteto kreipimosi dienos. Paskyrus visus Tarybos narius, Seimo Kultūros komitetas ne vėliau kaip per 10 dienų organizuoja Tarybos pirmininko rinkimą. Tarybos pirmininkas renkamas 3 metams paprasta visų Tarybos narių balsų dauguma, jeigu nesusidaro daugiau kaip dvi kadencijos iš eilės. Tarybos pirmininko pavaduotojas renkamas ta pačia tvarka Tarybos pirmininko teikimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-113, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29763
 
 11. Tarybos posėdžius ne rečiau kaip kartą per mėnesį šaukia Tarybos pirmininkas, o kai jis neina pareigų, – pirmininko pavaduotojas savo iniciatyva arba trečdalio Tarybos narių reikalavimu. Posėdžiai yra teisėti, kai juose dalyvauja daugiau kaip pusė Tarybos narių. Nutarimai priimami paprasta visų Tarybos narių balsų dauguma, išskyrus šio įstatymo 12 straipsnio 4 dalyje nurodytą atvejį.
 
@@ -561,4 +573,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1142, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13458
 
 Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 11 ir 14 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-113, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29763
+
+Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 9 straipsnio pakeitimo įstatymas
 
