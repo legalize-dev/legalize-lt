@@ -4,7 +4,7 @@ identifier: "TAR.A14C258694ED"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "2006-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A14C258694ED"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokslininkų valstybinių pensijų laikinasis įstatymas
 
-Suvestinė redakcija nuo 2006-07-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2020-06-02
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 1-4, i. k. 0941010ISTA000I-732
 
@@ -57,7 +57,7 @@ Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA0
 
 2) turi ne mažesnį kaip 10 metų daktaro ar habilituoto daktaro darbo stažą.
 
-Šio straipsnio 1 dalyje nurodytiems asmenims mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama tol, kol jie turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba jei jie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, tėvystės, motinystės (tėvystės), profesinės reabilitacijos pašalpas ar nedarbo socialinio draudimo išmokas. Apie draudžiamųjų pajamų turėjimą mokslininkų valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos dydis išieškomas iš pensijos gavėjo, neapribojant kokiu nors terminu, Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
+Šio straipsnio 1 dalyje nurodytiems asmenims mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama tol, kol jie turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba jeigu jie gauna ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, tėvystės, vaiko priežiūros, profesinės reabilitacijos ar nedarbo socialinio draudimo išmokas. Apie draudžiamųjų pajamų turėjimą mokslininkų valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos dydis išieškomas iš pensijos gavėjo, neapribojant kokiu nors terminu, Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
@@ -66,6 +66,8 @@ Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. 1041010IS
 Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
 
 Nr. X-669, 2006-06-08, Žin., 2006, Nr. 72-2685 (2006-06-28), i. k. 1061010ISTA000X-669
+
+Nr. XII-2517, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20652
 
 Mokslininkų valstybinė pensija neskiriama, o paskirtosios skyrimas ir mokėjimas panaikinamas asmenims, teismo nuosprendžiu pripažintiems kaltais už tyčinio nusikaltimo padarymą.
 
@@ -182,4 +184,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-669, 2006-06-08, Žin., 2006, Nr. 72-2685 (2006-06-28), i. k. 1061010ISTA000X-669
 
 Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 3 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2517, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20652
+
+Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo Nr. I-732 3 straipsnio pakeitimo įstatymas
 
