@@ -4,7 +4,7 @@ identifier: "TAR.4334D941D3DC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-05-23"
-last_updated: "2016-04-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4334D941D3DC"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS PLUOŠTINIŲ KANAPIŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2016-04-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-09-30
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 61-3025, i. k. 1131010ISTA0XII-336
 
@@ -213,7 +213,13 @@ IMPORTAS
 
 3) jam Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka skirtas vienas ar keli teismo įpareigojimai, – kol galioja įpareigojimai;
 
-4) per pastaruosius metus nustatyta tvarka pripažintas padaręs administracinį teisės pažeidimą, nurodytą Lietuvos Respublikos administracinių teisės pažeidimų kodekso 44, 441, 442, 1071 ir 1072 straipsniuose.
+4) per pastaruosius metus nustatyta tvarka pripažintas padaręs administracinį nusižengimą, nurodytą Lietuvos Respublikos administracinių nusižengimų kodekso 65, 67, 71, 339 ir 340 straipsniuose.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+
+Nr. XII-2285, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06437
 
 2. Patvirtintiesiems importuotojams licencijos išduodamos, jeigu jie raštu įsipareigoja per 12 mėnesių po licencijos išdavimo pateikti Agentūrai dokumentus, patvirtinančius, kad su licencijose nurodytomis sėjai neskirtomis pluoštinių kanapių sėklomis bus atlikta viena iš Reglamento (EB) Nr. 507/2008 17 straipsnio 2 dalies antrojoje pastraipoje nurodytų operacijų.
 
@@ -422,4 +428,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
 
 Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 3, 4, 6, 9 ir 10 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2285, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06437
+
+Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 3, 4, 6, 9 ir 10 straipsnių pakeitimo įstatymo Nr. XII-2130 7 straipsnio pakeitimo įstatymas
 
