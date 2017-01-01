@@ -4,7 +4,7 @@ identifier: "TAR.F617B8D97E05"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-09"
-last_updated: "2015-09-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2015-09-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-11-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
 
@@ -329,9 +329,13 @@ Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010IST
 
 31 straipsnis. Civilinės būklės aktų registravimas
 
-1. Konsulinis pareigūnas turi teisę registruoti Lietuvos Respublikos piliečių gimimą, santuoką ir mirtį. Civilinės būklės aktų registravimo diplomatinėse atstovybėse ar konsulinėse įstaigose tvarką nustato Lietuvos Respublikos teisingumo ir Lietuvos Respublikos užsienio reikalų ministrai, suderinę su Lietuvos Respublikos vidaus reikalų ministru.
+1. Konsulinis pareigūnas turi teisę registruoti Lietuvos Respublikos piliečių gimimą, santuoką ir mirtį Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo nustatyta tvarka.
 
-2. Konsulinis pareigūnas priima nuolat užsienio valstybėje gyvenančių Lietuvos Respublikos piliečių prašymus pakeisti vardą, pavardę, tautybę, ištaisyti ir papildyti civilinės būklės aktų įrašus, atkurti prarastus civilinės būklės aktų įrašus ir perduoda juos Lietuvos Respublikos civilinės metrikacijos įstaigoms.
+2. Konsulinis pareigūnas priima nuolat užsienio valstybėje gyvenančių Lietuvos Respublikos piliečių prašymus pakeisti vardą ir pavardę, ištaisyti, pakeisti, papildyti ar anuliuoti civilinės būklės aktų įrašus, atkurti neišlikusius civilinės būklės aktų įrašus ir perduoda juos Lietuvos Respublikos civilinės metrikacijos įstaigoms.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2117, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19706
 
 32 straipsnis. Konsulinių pareigūnų atliekami notariniai veiksmai
 
@@ -526,6 +530,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1702, 2015-05-14, paskelbta TAR 2015-05-28, i. k. 2015-08222
 
 Lietuvos Respublikos konsulinio statuto Nr. I-886 22 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2117, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19706
+
+Lietuvos Respublikos konsulinio statuto Nr. I-886 31 straipsnio pakeitimo įstatymas
 
 43 straipsnis
 
