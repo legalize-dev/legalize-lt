@@ -4,7 +4,7 @@ identifier: "TAR.0058572509B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-12-18"
-last_updated: "2001-12-30"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0058572509B3"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2001-12-18"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybinės kalbos inspekcijos įstatymas
+
+Suvestinė redakcija nuo 2017-01-01
+
+Įstatymas paskelbtas: Žin. 2001, Nr. 111-4027, i. k. 1011010ISTA00IX-672
 
 LIETUVOS RESPUBLIKOS VALSTYBINĖS KALBOS INSPEKCIJOS ĮSTATYMAS
 
@@ -45,7 +49,11 @@ Vilnius
 
 2. Kalbos inspekcija, įgyvendindama jai pavestus uždavinius, atlieka šias funkcijas:
 
-1) nagrinėja jos įgaliojimų sričiai priskirtas administracinių teisės pažeidimų bylas;
+1) nagrinėja jos įgaliojimų sričiai priskirtas administracinių nusižengimų bylas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2620, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24194
 
 2) pagal savo įgaliojimus nagrinėja skundus ir prašymus;
 
@@ -71,9 +79,17 @@ Vilnius
 
 5) teikti valstybės ir savivaldybių institucijoms, visoms Lietuvos Respublikoje veikiančioms įmonėms, įstaigoms ir organizacijoms privalomus nurodymus valstybinės kalbos vartojimo ir taisyklingumo klausimais;
 
-6) įstatymų nustatytais atvejais surašyti administracinių teisės pažeidimų protokolus;
+6) įstatymų nustatytais atvejais surašyti administracinių nusižengimų protokolus;
 
-7) nagrinėti administracinių teisės pažeidimų bylas ir taikyti administracines nuobaudas;
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2620, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24194
+
+7) nagrinėti administracinių nusižengimų bylas ir taikyti administracines nuobaudas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2620, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24194
 
 8) teikti siūlymus Valstybinei lietuvių kalbos komisijai ir Seimo komitetams dėl teisės norminių aktų tobulinimo valstybinės kalbos vartojimo ir taisyklingumo klausimais;
 
@@ -136,4 +152,14 @@ Kalbos inspekcija įstatymų nustatyta tvarka įsteigiama nuo 2002 m. sausio 1 d
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2620, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24194
+
+Lietuvos Respublikos valstybinės kalbos inspekcijos įstatymo Nr. IX-672 4 ir 5 straipsnių pakeitimo įstatymas
 
