@@ -4,7 +4,7 @@ identifier: "TAR.0808D5C392B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-03-20"
-last_updated: "2016-09-30"
+last_updated: "2017-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0808D5C392B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 2016-09-30 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 31-1010; Žin. 2001, Nr.37-0; Žin. 2001, Nr.52-0, i. k. 1011010ISTA00IX-216
 
@@ -230,7 +230,11 @@ Nr. X-1557, 2008-05-22, Žin., 2008, Nr. 65-2456 (2008-06-07)
 
 4. Įmonės vadovas ar kiti asmenys pagal kompetenciją privalo atlyginti žalą, kurią įmonė ir (ar) kreditoriai patyrė dėl to, kad įmonės vadovas ar kiti asmenys pagal kompetenciją, esant šio straipsnio 1 dalyje nurodytoms aplinkybėms, nepateikė teismui pareiškimo dėl bankroto bylos iškėlimo ar pavėlavo jį pateikti. Įmonės vadovas ar kiti asmenys pagal kompetenciją kreditoriams atsako solidariai.
 
-5. Įmonės vadovas ar kiti asmenys pagal kompetenciją, esant šio straipsnio 1 dalyje nurodytoms aplinkybėms, nepateikę teismui pareiškimo dėl bankroto bylos iškėlimo ar pavėlavę jį pateikti, taip pat atsako Administracinių teisės pažeidimų kodekso nustatyta tvarka.
+5. Įmonės vadovas ar kiti asmenys pagal kompetenciją, esant šio straipsnio 1 dalyje nurodytoms aplinkybėms, nepateikę teismui pareiškimo dėl bankroto bylos iškėlimo ar pavėlavę jį pateikti, taip pat atsako Administracinių nusižengimų kodekso nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2279, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06430
 
 Straipsnio pakeitimai:
 
