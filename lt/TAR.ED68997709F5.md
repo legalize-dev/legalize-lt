@@ -4,7 +4,7 @@ identifier: "TAR.ED68997709F5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2016-10-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ entry_into_force_conditions: "1. Įstatymo 19 straipsnio 3 dalies 2 punktas įsi
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-09-26
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
 
@@ -108,7 +108,11 @@ Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
 
 2) Europos Sąjungos prekių įvežimas į Europos Sąjungos teritoriją iš trečiųjų teritorijų arba jų įvežimą sukėlę veiksmai.
 
-25. Prekių importuotojas – prekes šalies teritorijoje importuojantis asmuo, kuris turi sumokėti už importuojamas šalies teritorijoje prekes nustatytą importo skolą muitinei arba turėtų sumokėti importo skolą muitinei, jeigu importuojamoms prekėms būtų nustatyti importo muitai, žemės ūkio ar kitos rinkliavos.
+25. Prekių importuotojas – prekes šalies teritorijoje importuojantis asmuo, kuris turi sumokėti už importuojamas šalies teritorijoje prekes nustatytą importo skolą muitinei arba turėtų sumokėti importo skolą muitinei, jeigu importuojamoms prekėms būtų nustatyti importo muitai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 26. Prekių vežimas – prekių (įskaitant paštą) gabenimas visų rūšių transporto priemonėmis, taip pat prekių transportavimas vamzdynais, elektros energijos perdavimo linijomis ir kt.
 
@@ -202,7 +206,11 @@ Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
 
 39. Valstybė narė (arba valstybės narės teritorija) – Europos Sąjungos valstybės narės teritorija, kaip ji apibrėžta Sutarties dėl Europos Sąjungos veikimo 355 straipsnyje, išskyrus trečiąsias teritorijas. Valstybės narės teritorija laikomos ir finansų ministro patvirtintame sąraše nurodytos teritorijos, kuriose sudaryti ar kurioms skirti sandoriai laikomi toje valstybėje narėje sudarytais ar jai skirtais sandoriais.
 
-40. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas), Europos Bendrijų muitinės kodekse (toliau – Muitinės kodeksas), taip pat Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas), – kiek tai neprieštarauja šiam Įstatymui (išskyrus Civilinio kodekso įsakmiai nurodytus atvejus), tačiau mokesčio administratoriumi šiame Įstatyme vadinama tik Valstybinė mokesčių inspekcija.
+40. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas), 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas (OL 2013 L 269, p. 1) (toliau – Sąjungos muitinės kodeksas), taip pat Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas), – kiek tai neprieštarauja šiam Įstatymui (išskyrus Civilinio kodekso įsakmiai nurodytus atvejus), tačiau mokesčio administratoriumi šiame Įstatyme vadinama tik Valstybinė mokesčių inspekcija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 Straipsnio pakeitimai:
 
@@ -460,13 +468,17 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 3. Lengvatinis 9 procentų PVM tarifas taikomas:
 
-1) iki 2016 m. gruodžio 31 d. šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti;
+1) iki 2017 m. gegužės 31 d. šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti;
+
+TAR pastaba. 19 straipsnio 3 dalies 1 punkto nuostatos taikomos tame punkte nurodytoms prekėms, faktiškai patiektoms iki 2017 m. gegužės 31 d.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1380, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19664
 
 Nr. XII-1910, 2015-06-30, paskelbta TAR 2015-07-01, i. k. 2015-10504
+
+Nr. XIII-154, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29793
 
 2) knygoms ir neperiodiniams informaciniams leidiniams (įskaitant vadovėlius, pratybų sąsiuvinius, enciklopedijas, žodynus, žinynus, informacines brošiūras, nuotraukų ir reprodukcijų albumus, vaikiškas knygeles su paveikslėliais, piešimo ir spalvinimo knygeles, spausdintas ar rankraštines natas, žemėlapius, schemas ir brėžinius, tačiau išskyrus kalendorius, užrašų knygeles ir kitus panašaus pobūdžio spaudinius);
 
@@ -476,7 +488,11 @@ Nr. XII-1910, 2015-06-30, paskelbta TAR 2015-07-01, i. k. 2015-10504
 
 5) keleivių vežimo Susisiekimo ministerijos ar jos įgaliotos institucijos arba savivaldybių nustatytais reguliaraus susisiekimo maršrutais paslaugoms, taip pat šiame punkte nurodytų keleivių bagažo vežimo paslaugoms.
 
-4. Lengvatinis 5 procentų PVM tarifas taikomas vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka.
+4. Lengvatinis 5 procentų PVM tarifas taikomas vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka, taip pat nekompensuojamiesiems receptiniams vaistams, kurių išorinės pakuotės apmokestinamoji vertė yra didesnė negu 300 eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2749, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26871
 
 5. Lengvatinis 5 procentų PVM tarifas taikomas neįgaliųjų techninės pagalbos priemonėms ir jų remontui.
 
@@ -1048,7 +1064,11 @@ Nr. X-261, 2005-06-21, Žin., 2005, Nr. 81-2944 (2005-06-30)
 
 1. Taikant 0 procentų PVM tarifą apmokestinamos paslaugos, įskaitant vežimą bei papildomas vežimo paslaugas, kai šios paslaugos yra tiesiogiai susijusios su prekių eksportu iš Europos Sąjungos teritorijos.
 
-2. Taikant 0 procentų PVM tarifą apmokestinamos paslaugos, įskaitant vežimą bei papildomas vežimo paslaugas, kai šios paslaugos yra tiesiogiai susijusios su prekėmis, kurioms taikomi šio Įstatymo 123 straipsnio 1 ar 3 dalyje nurodyti veiksmai, procedūros ar režimas, taip pat su į Europos Sąjungos teritoriją įvežtomis prekėmis, gabenamomis į PVM lengvatų sandėlį.
+2. Taikant 0 procentų PVM tarifą apmokestinamos paslaugos, įskaitant vežimą bei papildomas vežimo paslaugas, kai šios paslaugos yra tiesiogiai susijusios su prekėmis, kurioms taikomi šio Įstatymo 123 straipsnio 1 ar 3 dalyje nurodytos procedūros ar režimas, taip pat su į Europos Sąjungos teritoriją įvežtomis prekėmis, gabenamomis į PVM lengvatų sandėlį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 3. Taikant 0 procentų PVM tarifą apmokestinamos paslaugos, įskaitant vežimą ir papildomas vežimo paslaugas, kai šios paslaugos yra susijusios su prekių importavimu Europos Sąjungos teritorijoje ir šių paslaugų apmokestinamoji vertė pagal šio Įstatymo 15 straipsnio 15 dalies nuostatas ar joms tolygias valstybės narės, kurioje prekės bus importuojamos, nuostatas privalo būti įtrauktos į apmokestinamąją importuojamų prekių vertę.
 
@@ -1182,19 +1202,21 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 
 1. Taikant 0 procentų PVM tarifą apmokestinami šie sandoriai:
 
-1) prekių tiekimo, kai tiekiamos prekės pateikiamos laikinai saugoti muitinės prižiūrimose laikino prekių saugojimo vietose;
+1) prekių tiekimo, kai tiekiamos prekės pateikiamos laikinai saugoti;
 
-2) prekių tiekimo, kai tiekiamos prekės įvežamos į laisvąją zoną arba padedamos į laisvąjį sandėlį;
+2) prekių tiekimo, kai tiekiamoms prekėms įforminama laisvosios zonos, muitinio sandėliavimo ar laikinojo įvežimo perdirbti muitinės procedūra;
 
-3) prekių tiekimo, kai tiekiamoms prekėms įforminama muitinio sandėliavimo, muitinės prižiūrimo perdirbimo ar laikinojo įvežimo perdirbti neapmokestinant importo muitais muitinės procedūra;
+3) prekių, kurios laikinai saugomos, taip pat prekių, kurioms taikoma laisvosios zonos ar laikinojo įvežimo perdirbti muitinės procedūra, tiekimo, jeigu ir tiekimo metu minėtosios aplinkybės tebegalioja;
 
-4) prekių, kurios laikinai saugomos muitinės prižiūrimose laikino prekių saugojimo vietose, laikomos laisvojoje zonoje ar laisvajame sandėlyje, taip pat prekių, kurioms taikoma muitinės prižiūrimo perdirbimo ar laikinojo įvežimo perdirbti neapmokestinant importo muitais muitinės procedūra, tiekimo, jeigu ir tiekimo metu minėtosios aplinkybės tebegalioja;
+4) prekių, kurioms taikoma laikinojo įvežimo visai neapmokestinant importo muitais, išorinio tranzito ar vidinio tranzito muitinės procedūra, tiekimo, jeigu tiekimo metu minėtosios aplinkybės tebegalioja;
 
-5) prekių, kurioms taikoma laikinojo įvežimo visiškai atleidžiant nuo importo muitų, išorinio tranzito muitinės procedūra ar vidinio tranzito procedūra, tiekimo, jeigu tiekimo metu minėtosios aplinkybės tebegalioja;
+5) prekių tiekimo, kai tiekiamos prekės išgabenamos į PVM lengvatų sandėlį;
 
-6) prekių tiekimo, kai tiekiamos prekės išgabenamos į PVM lengvatų sandėlį;
+6) prekių, kurioms taikomas PVM lengvatų sandėlyje galiojantis režimas, tiekimo šalies teritorijoje, jeigu tiekimo metu ši aplinkybė tebegalioja.
 
-7) prekių, kurioms taikomas PVM lengvatų sandėlyje galiojantis režimas, tiekimo šalies teritorijoje, jeigu tiekimo metu ši aplinkybė tebegalioja.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 2. Importo PVM neapmokestinamos importuojamos prekės, kurios nugabenamos į PVM lengvatų sandėlį.
 
@@ -1202,19 +1224,31 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 
 4. PVM lengvatų sandėliu laikoma patalpa ir (arba) teritorija, kurioje atitinkamos valstybės narės kompetentingos institucijos (Lietuvos Respublikoje – centrinis mokesčio administratorius) suteikė teisę laikyti prekes atidėjus PVM mokėjimą, jeigu tiekiamos, importuojamos ar iš kitos valstybės narės įsigyjamos prekės, skirtos:
 
-1) parduoti specialioje tarptautiniame jūrų ar oro uoste bei Lietuvos Respublikos valstybės sienos su trečiosiomis šalimis perėjimo punkte esančioje prekybos vietoje, kurioje šios prekės bus tiekiamos keleiviams, išvykstantiems į trečiąsias teritorijas ar trečiąsias valstybes, jeigu toks prekių tiekimas pagal bendras šio Įstatymo nuostatas būtų apmokestinamas taikant 0 procentų PVM tarifą;
+1) parduoti specialioje tarptautiniame jūrų ar oro uoste esančioje prekybos vietoje, kurioje šios prekės bus tiekiamos keleiviams, išvykstantiems į trečiąsias teritorijas ar trečiąsias valstybes, jeigu toks prekių tiekimas pagal bendras šio Įstatymo nuostatas būtų apmokestinamas taikant 0 procentų PVM tarifą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 2) reiso metu tiekti keleiviams, oro ar jūrų transportu vykstantiems į paskirties vietą, esančią ne Europos Sąjungos teritorijoje.
 
 5. Atstovavimo (agento) paslaugų teikimas, kai kito vardu ir sąskaita atstovaujama šio straipsnio 1 dalyje nurodytuose prekių tiekimo sandoriuose, apmokestinamas taikant 0 procentų PVM tarifą.
 
-6. Su šio straipsnio 1 dalies 4, 5 ir 7 punktuose nurodytomis prekėmis tiesiogiai susijusių paslaugų (tokių kaip tų prekių tvarkymas, pakavimas) ir pagal savo esmę panašių paslaugų teikimas apmokestinamas taikant 0 procentų PVM tarifą.
+6. Su šio straipsnio 1 dalies 3, 4 ir 6 punktuose nurodytomis prekėmis tiesiogiai susijusių paslaugų (tokių kaip tų prekių tvarkymas, pakavimas) ir pagal savo esmę panašių paslaugų teikimas apmokestinamas taikant 0 procentų PVM tarifą.
 
-7. Jeigu pagal šio straipsnio 1–3 dalių nuostatas atleistoms nuo PVM ar apmokestintoms taikant 0 procentų PVM tarifą ir esančioms šalies teritorijoje prekėms nustoja galioti šio straipsnio 1 dalyje nurodytos aplinkybės ir tai nebūtų pagrindas prievolei apskaičiuoti importo PVM atsirasti šalies teritorijoje, PVM už šias prekes turi būti apskaičiuotas nuo tokios apmokestinamosios vertės:
+Straipsnio dalies pakeitimai:
 
-1) kai buvo sudaromi vien šio straipsnio 1 dalies 1–3 ir 6 punktuose nurodyti sandoriai ar atitinkamai importuojama arba įsigyjama iš kitos valstybės narės, – nuo prekių apmokestinamosios vertės, nuo kurios šio Įstatymo nustatyta tvarka būtų skaičiuojamas PVM, jeigu prekių tiekimas, importas ar įsigijimas iš kitos valstybės narės nebūtų apmokestinamas taikant 0 procentų PVM tarifą (ar atitinkamai atleistas nuo PVM), taip pat nuo paslaugų, kurių teikimas remiantis šio Įstatymo nuostatomis buvo apmokestintas taikant 0 procentų PVM tarifą, apmokestinamosios vertės;
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
-2) kai buvo sudaromi šio straipsnio 1 dalies 4, 5 ir 7 punktuose nurodyti prekių tiekimo sandoriai, – nuo prekių apmokestinamosios vertės, nuo kurios paskutinio tokių sandorių atveju šio Įstatymo nustatyta tvarka būtų skaičiuojamas PVM, jeigu prekių tiekimas nebūtų apmokestinamas taikant 0 procentų PVM tarifą, taip pat nuo paslaugų, kurių teikimas remiantis šio Įstatymo nuostatomis buvo apmokestintas taikant 0 procentų PVM tarifą, apmokestinamosios vertės, kai šių paslaugų vertė nėra įskaičiuota į paskutinio šių prekių tiekimo sandorio vertę.
+7. Jeigu pagal šio straipsnio 1, 2 ir 3 dalių nuostatas atleistoms nuo PVM ar apmokestintoms taikant 0 procentų PVM tarifą ir esančioms šalies teritorijoje prekėms nustoja galioti šio straipsnio 1 dalyje nurodytos aplinkybės ir tai nebūtų pagrindas prievolei apskaičiuoti importo PVM atsirasti šalies teritorijoje, PVM už šias prekes turi būti apskaičiuotas nuo tokios apmokestinamosios vertės:
+
+1) kai buvo sudaromi vien šio straipsnio 1 dalies 1, 2 ir 5 punktuose nurodyti sandoriai ar atitinkamai importuojama arba įsigyjama iš kitos valstybės narės, – nuo prekių apmokestinamosios vertės, nuo kurios šio Įstatymo nustatyta tvarka būtų skaičiuojamas PVM, jeigu prekių tiekimas, importas ar įsigijimas iš kitos valstybės narės nebūtų apmokestinamas taikant 0 procentų PVM tarifą (ar atitinkamai atleistas nuo PVM), taip pat nuo paslaugų, kurių teikimas remiantis šio Įstatymo nuostatomis buvo apmokestintas taikant 0 procentų PVM tarifą, apmokestinamosios vertės;
+
+2) kai buvo sudaromi šio straipsnio 1 dalies 3, 4 ir 6 punktuose nurodyti prekių tiekimo sandoriai, – nuo prekių apmokestinamosios vertės, nuo kurios paskutinio tokių sandorių atveju šio Įstatymo nustatyta tvarka būtų skaičiuojamas PVM, jeigu prekių tiekimas nebūtų apmokestinamas taikant 0 procentų PVM tarifą, taip pat nuo paslaugų, kurių teikimas remiantis šio Įstatymo nuostatomis buvo apmokestintas taikant 0 procentų PVM tarifą, apmokestinamosios vertės, kai šių paslaugų vertė nėra įskaičiuota į paskutinio šių prekių tiekimo sandorio vertę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 8. Prievolė apskaičiuoti PVM nustatyta tvarka tenka asmeniui, dėl kurio veiksmų ar neveikimo prekėms nustojo galioti šio straipsnio 1 dalyje nurodytos aplinkybės (tuo atveju, kai asmuo sudaro prekių tiekimo sandorį, kurio metu žinoma, kad nustos galioti šio straipsnio 1 dalyje nurodytos aplinkybės, – prekių tiekėjui). Laikoma, kad šio straipsnio 1 dalyje nurodytos aplinkybės nustoja galioti ir tada, kai prekės suvartojamos ar prarandamos, išskyrus atvejus, kai prekės prarastos dėl nenugalimos jėgos (force majeure) ar nusikalstamos trečiųjų asmenų veikos, jeigu tai įrodyta Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, arba kitų nuo asmens nepriklausančių priežasčių (prekių sunaikinimo dėl realizacijos terminų pasibaigimo ir kt.), kai šis asmuo gali pateikti tai patvirtinančius dokumentus. Prievolė apskaičiuoti PVM neatsiranda, jeigu prekės, kurioms nustojo galioti šio straipsnio 1 dalyje nurodytos aplinkybės, išgabenamos iš Europos Sąjungos teritorijos ar išgabenamos į kitą valstybę narę, kai toks išgabenimas laikomas prekių tiekimu į kitą valstybę narę pagal šio Įstatymo 51 straipsnį.
 
@@ -1248,7 +1282,11 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 1. PVM mokėtojas, pritaikęs 0 procentų PVM tarifą pagal šio Įstatymo 41 straipsnį, privalo turėti dokumentus, įrodančius, kad prekės išgabentos iš Europos Sąjungos teritorijos. PVM mokėtojas, pritaikęs 0 procentų PVM tarifą pagal šio Įstatymo 49 straipsnį, privalo turėti įrodymus, kad prekės išgabentos iš šalies teritorijos, o tais atvejais, kai 0 procentų PVM tarifas taikomas prekes tiekiant kitoje valstybėje narėje registruotam PVM mokėtojui, – ir įrodymus, kad asmuo, kuriam prekės išgabentos, yra kitoje valstybėje narėje registruotas PVM mokėtojas, o kai 0 procentų PVM tarifas taikomas prekes tiekiant atvejais, nurodytais šio Įstatymo 4 straipsnio 1 dalies 2 punkte, – ir įrodymus, kad tenkinamos šio Įstatymo 4 straipsnio 1 dalies 2 punkte nurodytos sąlygos.
 
-2. PVM mokėtojas, pritaikęs 0 procentų PVM tarifą 53 straipsnio 1 dalies 1–5 punktuose nurodytais atvejais, privalo turėti atitinkamus muitinės dokumentus, įrodančius prekių pateikimą saugoti muitinės prižiūrimoje laikino prekių saugojimo vietoje, įvežimą į laisvąją zoną, padėjimą į laisvąjį sandėlį ar atitinkamų muitinės procedūrų įforminimą.
+2. PVM mokėtojas, pritaikęs 0 procentų PVM tarifą 53 straipsnio 1 dalies 1–4 punktuose nurodytais atvejais, privalo turėti įrodymus, patvirtinančius prekių laikinąjį saugojimą ar atitinkamų muitinės procedūrų įforminimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 3. Kitais šiame skyriuje nurodytais atvejais pritaikęs 0 procentų PVM tarifą, PVM mokėtojas privalo turėti dokumentus, įrodančius, kad įvyko šiame skyriuje nurodytas prekių tiekimo, prekių įsigijimo iš kitos valstybės narės arba paslaugų teikimo sandoris.
 
@@ -1542,7 +1580,11 @@ Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
 
 2) tiekia prekes ir (arba) teikia paslaugas, kurios pagal šį Įstatymą nėra PVM objektas;
 
-3) tiekia prekes ir (arba) teikia paslaugas, kurios pagal šį Įstatymą būtų apmokestinamos taikant 0 procentų PVM tarifą, išskyrus šio Įstatymo 41, 49 straipsniuose, taip pat 53 straipsnio 1 dalies 1, 2, 3, 6 ir 7 punktuose ir 5, 6, 10 dalyse nurodytą veiklą.
+3) tiekia prekes ir (arba) teikia paslaugas, kurios pagal šį Įstatymą būtų apmokestinamos taikant 0 procentų PVM tarifą, išskyrus šio Įstatymo 41, 49 straipsniuose, taip pat 53 straipsnio 1 dalies 1, 2, 5 ir 6 punktuose ir 5, 6, 10 dalyse nurodytą veiklą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 Straipsnio dalies pakeitimai:
 
@@ -2120,13 +2162,17 @@ IMPORTO PVM APSKAIČIAVIMAS IR MOKĖJIMAS
 
 93 straipsnis. Mokėtinos importo PVM sumos apskaičiavimas
 
-Mokėtina importo PVM suma apskaičiuojama Muitinės kodekso, šio Įstatymo ir jų taikymą reglamentuojančių teisės aktų nustatyta tvarka.
+Mokėtina importo PVM suma apskaičiuojama šio Įstatymo ir jo taikymą reglamentuojančių teisės aktų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 94 straipsnis. Importo PVM mokėjimo tvarka
 
-1. Importo PVM už prekes mokamas tokiais pačiais terminais, kaip būtų mokami importo muitai už šias prekes (jeigu jie joms būtų nustatyti), kaip tai nustatyta Muitinės kodekse. Importo PVM mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė. Importo PVM už prekes, kurias importuoja PVM mokėtojai, gali būti įskaitomas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija nustato ir kriterijus, kuriuos turi atitikti PVM mokėtojai, pageidaujantys įskaityti importo PVM.
+1. Importo PVM už prekes mokamas tokiais pačiais terminais, kaip būtų mokami importo muitai už šias prekes (jeigu jie joms būtų nustatyti), kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. Importo PVM už prekes, kurias importuoja PVM mokėtojai, gali būti įskaitomas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija nustato ir kriterijus, kuriuos turi atitikti PVM mokėtojai, pageidaujantys įskaityti importo PVM.
 
-2. Lietuvos Respublikos muitinė, kai importo PVM nėra sumokamas iš anksto ar iš karto atsiradus prievolei jį apskaičiuoti ir kai tai reikalinga tinkamam įsipareigojimų muitinei įvykdymui užtikrinti, turi teisę reikalauti, kad būtų sumokėtas užstatas ar pateikta garantija, užtikrinanti minėtųjų įsipareigojimų įvykdymą. Šios nuostatos įgyvendinamos ta pačia tvarka kaip ir skolininko įsipareigojimai, susiję su importo muitais.
+2. Tais atvejais, kai importo PVM nėra sumokamas iš anksto ar iš karto atsiradus prievolei jį apskaičiuoti ir kai tai reikalinga tinkamam įsipareigojimų muitinei įvykdymui užtikrinti, atsiradusios mokestinės prievolės įvykdymas užtikrinamas ta pačia tvarka, kokia užtikrinami įsipareigojimai, susiję su importo skola muitinei, kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose.
 
 3. Sumokėti importo PVM privalo importuotojas.
 
@@ -2135,6 +2181,10 @@ Straipsnio pakeitimai:
 Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 Nr. X-932, 2006-11-28, Žin., 2006, Nr. 137-5203 (2006-12-16)
+
+Straipsnio pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 XI SKYRIUS
 
@@ -2636,21 +2686,25 @@ Nr. XI-518, 2009-12-03, Žin., 2009, Nr. 151-6772 (2009-12-22)
 
 1. PVM, išskyrus šio straipsnio 2 dalyje nurodytą atvejį, kontroliuoja valstybinė mokesčių inspekcija. Valstybinė mokesčių inspekcija kontroliuoja PVM mokėjimą ir už importuotas prekes, jeigu jų importo PVM įskaitomas šio Įstatymo 94 straipsnyje nustatyta tvarka.
 
-2. PVM už importuojamas prekes (įskaitant Europos Sąjungos prekes, į Europos Sąjungos teritoriją įvežamas iš trečiųjų teritorijų), nenurodytas šio straipsnio 1 dalyje, kontroliuoja teritorinės muitinės.
+2. PVM už importuojamas prekes (įskaitant Europos Sąjungos prekes, į Europos Sąjungos teritoriją įvežamas iš trečiųjų teritorijų), nenurodytas šio straipsnio 1 dalyje, kontroliuoja Lietuvos Respublikos muitinė.
 
-3. Europos Sąjungos prekių įvežimui iš trečiųjų teritorijų į Europos Sąjungos teritoriją taikomi tokie pat muitinės formalumai kaip ir į Europos Sąjungos muitų teritoriją įvežamoms ne Europos Sąjungos prekėms. Kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, skirtos nugabenti į kitą valstybę narę negu ta, į kurią jos buvo įvežtos iš trečiųjų teritorijų, šios prekės gali būti pateiktos vidinio tranzito procedūrai, numatytai Muitinės kodekse, įforminti. Kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, kurios, jeigu būtų įvežtos iš trečiųjų valstybių, galėtų būti pateiktos laikinajam saugojimui muitinės prižiūrimose laikino prekių saugojimo vietose, įvežtos į laisvąją zoną ar padėtos į laisvąjį sandėlį, joms galėtų būti įformintos muitinio sandėliavimo, laikinojo įvežimo perdirbti neapmokestinant importo muitais, muitinės prižiūrimo perdirbimo, laikinojo įvežimo visiškai neapmokestinant importo muitais procedūros, joms taikomos tokios pat sąlygos kaip ir atlikus minėtus muitinės sankcionuotus veiksmus ar įforminus atitinkamas procedūras.
+3. Europos Sąjungos prekių įvežimui iš trečiųjų teritorijų į Europos Sąjungos teritoriją taikomi tokie pat muitinės formalumai kaip ir į Sąjungos muitų teritoriją įvežamoms ne Europos Sąjungos prekėms. Kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, skirtos nugabenti į kitą valstybę narę negu ta, į kurią jos buvo įvežtos iš trečiųjų teritorijų, šios prekės gali būti pateiktos vidinio tranzito muitinės procedūrai, numatytai Sąjungos muitinės kodekso 227 straipsnyje, įforminti. Kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, kurios, jeigu būtų įvežtos iš trečiųjų valstybių, galėtų būti laikinai saugomos, joms galėtų būti įformintos laisvosios zonos, muitinio sandėliavimo, laikinojo įvežimo perdirbti, laikinojo įvežimo visai neapmokestinant importo muitais muitinės procedūros, joms taikomos tokios pat sąlygos kaip ir atlikus laikinąjį saugojimą ar įforminus atitinkamas procedūras.
 
-4. Prekių išvežimui iš Europos Sąjungos teritorijos į trečiąsias teritorijas taikomi tokie pat muitinės formalumai kaip ir eksportuojant prekes iš Europos Sąjungos muitų teritorijos. Kai prekės laikinai išvežamos iš Europos Sąjungos teritorijos į trečiąsias teritorijas, jas grąžinus, joms taikomos tokios pat nuostatos kaip ir prekėms, laikinai išvežtoms iš Europos Sąjungos muitų teritorijos.
+4. Prekių išvežimui iš Europos Sąjungos teritorijos į trečiąsias teritorijas taikomi tokie pat muitinės formalumai kaip ir eksportuojant prekes iš Sąjungos muitų teritorijos. Kai prekės laikinai išvežamos iš Europos Sąjungos teritorijos į trečiąsias teritorijas, jas grąžinus, joms taikomos tokios pat nuostatos kaip ir prekėms, laikinai išvežtoms iš Sąjungos muitų teritorijos.
 
-5. Šio straipsnio 3 ir 4 dalių nuostatų įgyvendinimo tvarką nustato Muitinės departamentas.
+5. Šio straipsnio 3 ir 4 dalys įgyvendinamos Sąjungos muitinės kodekso, jį papildančių ir įgyvendinančių Europos Sąjungos teisės aktų nustatyta tvarka.
 
-6. Mokestinių prievolių, galinčių atsirasti dėl įvežtų į Europos Sąjungos teritoriją ne Europos Sąjungos prekių, kurios nėra išleistos laisvai cirkuliuoti, taip pat dėl iš trečiųjų teritorijų įvežtų prekių, įvykdymas užtikrinamas ta pačia tvarka, kaip yra užtikrinami įsipareigojimai, susiję su galinčia atsirasti importo muitų skola.
+6. Mokestinių prievolių, galinčių atsirasti dėl įvežtų į Europos Sąjungos teritoriją ne Europos Sąjungos prekių, kurios nėra išleistos į laisvą apyvartą, taip pat dėl iš trečiųjų teritorijų įvežtų prekių, įvykdymas užtikrinamas ta pačia tvarka, kaip yra užtikrinami įsipareigojimai, susiję su galinčia atsirasti importo skola muitinei.
 
 Straipsnio pakeitimai:
 
 Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
+
+Straipsnio pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 121 straipsnis. Prekių tiekimo ir maitinimo paslaugų teikimo keleivius Europos Sąjungos teritorijoje vežančiuose laivuose, orlaiviuose arba traukiniuose vieta
 
@@ -2698,13 +2752,13 @@ Nr. X-1251, 2007-07-03, Žin., 2007, Nr. 80-3222 (2007-07-19)
 
 123 straipsnis. Prekių importo vieta
 
-1. Laikoma, kad ne Europos Sąjungos prekės importuotos šalies teritorijoje, jeigu šios prekės yra šalies teritorijoje tuo metu, kai jos įvežamos į Europos Sąjungos teritoriją, išskyrus atvejus, kai įvežtos į Europos Sąjungos teritoriją ne Europos Sąjungos prekės ne išleidžiamos laisvai cirkuliuoti, o pateikiamos laikinajam saugojimui muitinės prižiūrimose laikino prekių saugojimo vietose, įvežamos į laisvąją zoną ar padedamos į laisvąjį sandėlį, joms įforminama muitinio sandėliavimo, muitinės prižiūrimo perdirbimo, laikinojo įvežimo perdirbti neapmokestinant importo muitais, laikinojo įvežimo visiškai neapmokestinant importo muitais ar išorinio tranzito muitinės procedūra. Pastaraisiais atvejais laikoma, kad ne Europos Sąjungos prekės importuotos šalies teritorijoje tik tuo atveju, jeigu nustojus taikyti minėtąsias procedūras ar veiksmus prekės tebėra šalies teritorijoje.
+1. Laikoma, kad ne Europos Sąjungos prekės importuotos šalies teritorijoje, jeigu šios prekės yra šalies teritorijoje tuo metu, kai jos įvežamos į Europos Sąjungos teritoriją, išskyrus atvejus, kai įvežtos į Europos Sąjungos teritoriją ne Europos Sąjungos prekės laikinai saugomos, joms įforminama laisvosios zonos, muitinio sandėliavimo, laikinojo įvežimo perdirbti, laikinojo įvežimo visai neapmokestinant importo muitais ar išorinio tranzito muitinės procedūra. Pastaraisiais atvejais laikoma, kad ne Europos Sąjungos prekės importuotos šalies teritorijoje tik tuo atveju, jeigu nustojus taikyti laikinąjį saugojimą ar minėtąsias procedūras prekės tebėra šalies teritorijoje.
 
-2. Laikoma, kad ne Europos Sąjungos prekės importuotos šalies teritorijoje ir tuo atveju, kai įvežimo į Europos Sąjungos teritoriją metu prekės yra ne šalies teritorijoje, tačiau jos ne išleidžiamos laisvai cirkuliuoti, o pateikiamos laikinajam saugojimui muitinės prižiūrimose laikino prekių saugojimo vietose, įvežamos į laisvąją zoną ar padedamos į laisvąjį sandėlį, joms įforminama muitinio sandėliavimo, laikinojo įvežimo perdirbti neapmokestinant importo muitais, laikinojo įvežimo visiškai neapmokestinant importo muitais ar išorinio tranzito muitinės procedūra ir nustojus taikyti minėtąsias procedūras ar veiksmus prekės yra šalies teritorijoje.
+2. Laikoma, kad ne Europos Sąjungos prekės importuotos šalies teritorijoje ir tuo atveju, kai įvežimo į Europos Sąjungos teritoriją metu prekės yra ne šalies teritorijoje ir laikinai saugomos, joms įforminama laisvosios zonos, muitinio sandėliavimo, laikinojo įvežimo perdirbti, laikinojo įvežimo visai neapmokestinant importo muitais ar išorinio tranzito muitinės procedūra, o nustojus taikyti laikinąjį saugojimą ar minėtąsias procedūras prekės yra šalies teritorijoje.
 
-3. Laikoma, kad Europos Sąjungos prekės importuotos šalies teritorijoje, jeigu šios prekės yra šalies teritorijoje tuo metu, kai jos įvežamos į Europos Sąjungos teritoriją, išskyrus atvejus, kai įvežtoms šioms prekėms taikomas toks režimas, kuris, jeigu šios prekės būtų ne Europos Sąjungos prekės, leistų jas pateikti laikinajam saugojimui muitinės prižiūrimose laikino prekių saugojimo vietose, įvežti į laisvąją zoną ar padėti į laisvąjį sandėlį, joms įforminti muitinio sandėliavimo, laikinojo įvežimo perdirbti neapmokestinant importo muitais, laikinojo įvežimo visiškai neapmokestinant importo muitais procedūrą, arba joms įforminama vidinio tranzito procedūra. Pastaraisiais atvejais laikoma, kad minėtosios Europos Sąjungos prekės importuotos šalies teritorijoje tik tuo atveju, kai nustojus taikyti minėtąjį režimą ar vidinio tranzito procedūrą prekės tebėra šalies teritorijoje.
+3. Laikoma, kad Europos Sąjungos prekės importuotos šalies teritorijoje, jeigu šios prekės yra šalies teritorijoje tuo metu, kai jos įvežamos į Europos Sąjungos teritoriją, išskyrus atvejus, kai įvežtoms šioms prekėms taikomas toks režimas, kuris, jeigu šios prekės būtų ne Europos Sąjungos prekės, būtų laikinasis saugojimas, leistų joms įforminti laisvosios zonos, muitinio sandėliavimo, laikinojo įvežimo perdirbti, laikinojo įvežimo visai neapmokestinant importo muitais muitinės procedūrą, arba joms įforminama vidinio tranzito muitinės procedūra. Pastaraisiais atvejais laikoma, kad Europos Sąjungos prekės importuotos šalies teritorijoje tik tuo atveju, kai nustojus taikyti minėtąjį režimą ar vidinio tranzito muitinės procedūrą prekės tebėra šalies teritorijoje.
 
-4. Laikoma, kad Europos Sąjungos prekės importuotos šalies teritorijoje ir tuo atveju, kai įvežimo į Europos Sąjungos teritoriją metu prekės yra ne šalies teritorijoje, tačiau įvežtoms šioms prekėms taikomas toks režimas, kuris, jeigu šios prekės būtų ne Europos Sąjungos prekės, leistų jas pateikti laikinajam saugojimui muitinės prižiūrimose laikino prekių saugojimo vietose, įvežti į laisvąją zoną ar padėti į laisvąjį sandėlį, joms įforminti muitinio sandėliavimo, laikinojo įvežimo perdirbti neapmokestinant importo muitais, laikinojo įvežimo visiškai neapmokestinant importo muitais procedūrą, arba joms įforminama vidinio tranzito procedūra ir, nustojus taikyti minėtąjį režimą ar vidinio tranzito procedūrą, prekės yra šalies teritorijoje.
+4. Laikoma, kad Europos Sąjungos prekės importuotos šalies teritorijoje ir tuo atveju, kai įvežimo į Europos Sąjungos teritoriją metu prekės yra ne šalies teritorijoje, tačiau įvežtoms šioms prekėms taikomas toks režimas, kuris, jeigu šios prekės būtų ne Europos Sąjungos prekės, būtų laikinasis saugojimas, leistų joms įforminti laisvosios zonos, muitinio sandėliavimo, laikinojo įvežimo perdirbti, laikinojo įvežimo visai neapmokestinant importo muitais muitinės procedūrą, arba joms įforminama vidinio tranzito muitinės procedūra ir, nustojus taikyti minėtąjį režimą ar vidinio tranzito muitinės procedūrą, prekės yra šalies teritorijoje.
 
 Įstatymas papildytas straipsniu:
 
@@ -2713,6 +2767,10 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Straipsnio pakeitimai:
 
 Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
+
+Straipsnio pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 124 straipsnis. Neteko galios nuo 2004-05-01.
 
@@ -3028,9 +3086,17 @@ APMOKESTINIMO MOMENTAS IR APMOKESTINAMOJI VERTĖ
 
 11. Prievolė apskaičiuoti PVM už prekių įsigijimą iš kitos valstybės narės atsiranda, kai šių prekių tiekėjas išrašo PVM sąskaitą-faktūrą, bet ne vėliau kaip kito mėnesio, einančio po mėnesio, kurį prekės buvo išgabentos, 15 dieną.
 
-12. Prievolė apskaičiuoti importo PVM atsiranda, kai prekės ne iš Europos Sąjungos teritorijos įvežamos į šalies teritoriją. Kai įvežtoms į Europos Sąjungos teritoriją prekėms pradedami taikyti šio Įstatymo 123 straipsnio 1 ar 3 dalyje nurodyti veiksmai, procedūros ar režimas, prievolė apskaičiuoti importo PVM atsiranda, kai prekėms šie veiksmai, procedūros ar režimas nustojami taikyti šalies teritorijoje.
+12. Prievolė apskaičiuoti importo PVM atsiranda, kai prekės ne iš Europos Sąjungos teritorijos įvežamos į šalies teritoriją. Kai įvežtoms į Europos Sąjungos teritoriją prekėms pradedamos taikyti šio Įstatymo 123 straipsnio 1 ar 3 dalyje nurodytos procedūros ar režimas, prievolė apskaičiuoti importo PVM atsiranda, kai prekėms šios procedūros ar režimas nustojami taikyti šalies teritorijoje.
 
-13. Prievolė apskaičiuoti importo PVM už prekes, kurioms pagal atitinkamus Europos Sąjungos teisės aktus yra taikomi importo muitai, žemės ūkio ar kitos rinkliavos, nustatytos Europos Sąjungos mastu, atsiranda tuo metu, kai pagal minėtus teisės aktus atsiranda prievolė už jas apskaičiuoti importo muitus, žemės ūkio ar kitas rinkliavas. Kai prekėms netaikomi jokie importo muitai, žemės ūkio ar kitos rinkliavos, prievolė apskaičiuoti importo PVM atsiranda tada, kai pagal atitinkamas Muitinės kodekso nuostatas šalies teritorijoje būtų apskaičiuota importo skola muitinei, jeigu prekėms šie muitai ar rinkliavos būtų taikomi.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
+
+13. Prievolė apskaičiuoti importo PVM už prekes, kurioms pagal atitinkamus Europos Sąjungos teisės aktus yra taikomi importo muitai, atsiranda tuo metu, kai pagal minėtus teisės aktus atsiranda prievolė už jas apskaičiuoti importo muitus. Kai prekėms netaikomi jokie importo muitai, prievolė apskaičiuoti importo PVM atsiranda tada, kai pagal atitinkamas Sąjungos muitinės kodekso nuostatas šalies teritorijoje būtų apskaičiuota importo skola muitinei, jeigu prekėms šie muitai būtų taikomi.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 14. Atsiradus prievolei apskaičiuoti PVM pagal šio Įstatymo 53 straipsnio 7 dalį, PVM turi būti apskaičiuojamas tame straipsnyje nustatytu momentu.
 
@@ -3092,7 +3158,11 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 
 14. Kai asmenims, kurie nėra apmokestinamieji asmenys, kaip jie suprantami šio Įstatymo 13 straipsnyje, teikiamos prekių vežimo tarp valstybių narių paslaugos ir dalis vežimo maršruto eina per Europos Sąjungos teritorijai nepriklausančius vandenis, apmokestinamoji paslaugos vertė sumažinama dalimi, proporcinga tai maršruto daliai visame maršrute.
 
-15. Importuojamų prekių apmokestinamoji vertė, nuo kurios skaičiuojamas importo PVM, apskaičiuojama prie šių prekių muitinės vertės, nustatytos vadovaujantis Muitinės kodeksu ir jo taikymą reglamentuojančiais teisės aktais (o Europos Sąjungos prekių, kurių įvežimas į Europos Sąjungos teritoriją laikomas importu, atveju – prie prekių vertės, nustatytos pagal Muitinės kodekso ir jo taikymą reglamentuojančių teisės aktų nuostatas dėl prekių muitinės vertės nustatymo), papildomai pridedant šias sumas (jeigu jos nėra įtrauktos į šių prekių muitinę vertę):
+15. Importuojamų prekių apmokestinamoji vertė, nuo kurios skaičiuojamas importo PVM, apskaičiuojama prie šių prekių muitinės vertės, nustatytos vadovaujantis Sąjungos muitinės kodeksu ir jo taikymą reglamentuojančiais teisės aktais (o Europos Sąjungos prekių, kurių įvežimas į Europos Sąjungos teritoriją laikomas importu, atveju – prie prekių vertės, nustatytos pagal Sąjungos muitinės kodekso ir jo taikymą reglamentuojančių teisės aktų nuostatas dėl prekių muitinės vertės nustatymo), papildomai pridedant šias sumas (jeigu jos nėra įtrauktos į šių prekių muitinę vertę):
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 1) už šias prekes sumokėtus arba sumokėtinus ne Europos Sąjungoje ar ne Lietuvos Respublikoje nustatytus muitus, mokesčius ir kitas įmokas, taip pat Europos Sąjungoje už šias prekes nustatytus importo muitus, Europos Sąjungoje ar Lietuvos Respublikoje nustatytus mokesčius ir kitas įmokas (išskyrus patį PVM);
 
@@ -3106,13 +3176,19 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 
 18. Importuojamų prekių pakuotei mutatis mutandis taikomos šio straipsnio 8 dalies nuostatos.
 
-19. Kai po apmokestinimo momento prekės ar paslaugos atsisakoma ar ji grąžinama arba pardavėjas suteikia nuolaidų (įvykdžius tam tikras papildomas sąlygas ar dėl kitų priežasčių), arba įrodoma, kad už iš kitos valstybės narės įsigytas prekes PVM buvo sumokėtas toje valstybėje narėje, kurioje baigėsi šių prekių gabenimas, prekės arba paslaugos apmokestinamoji vertė atitinkamai mažinama. Importuotų prekių apmokestinamoji vertė mažinama Muitinės kodekso nustatyta tvarka ir atvejais.
+19. Kai po apmokestinimo momento prekės ar paslaugos atsisakoma ar ji grąžinama arba pardavėjas suteikia nuolaidų (įvykdžius tam tikras papildomas sąlygas ar dėl kitų priežasčių), arba įrodoma, kad už iš kitos valstybės narės įsigytas prekes PVM buvo sumokėtas toje valstybėje narėje, kurioje baigėsi šių prekių gabenimas, prekės arba paslaugos apmokestinamoji vertė atitinkamai mažinama. Importuotų prekių apmokestinamoji vertė mažinama Sąjungos muitinės kodekso nustatyta tvarka ir atvejais.
 
-20. Kai importuojamų prekių apmokestinamoji vertė yra nurodyta ne eurais, apmokestinamoji vertė perskaičiuojama į eurus laikantis Muitinės kodekso ir jo taikymą reglamentuojančių teisės aktų nuostatų.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
+
+20. Kai importuojamų prekių apmokestinamoji vertė yra nurodyta ne eurais, apmokestinamoji vertė perskaičiuojama į eurus laikantis Sąjungos muitinės kodekso ir jo taikymą reglamentuojančių teisės aktų nuostatų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+
+Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 21. Kitais, negu nurodyta šio straipsnio 20 dalyje, atvejais, kai apmokestinamoji vertė yra nurodyta ne eurais, apmokestinamoji vertė perskaičiuojama į eurus taikant euro ir užsienio valiutos santykį, nustatytą pagal Lietuvos Respublikos buhalterinės apskaitos įstatymą apmokestinimo momentu, o jeigu dėl šio Įstatymo 83 straipsnyje nurodytų aplinkybių keičiasi pirkėjo mokėtinas atlygis, – tų aplinkybių įforminimo dieną.
 
