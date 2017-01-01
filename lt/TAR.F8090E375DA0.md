@@ -4,7 +4,7 @@ identifier: "TAR.F8090E375DA0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2016-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.02.25)
 
-Suvestinė redakcija nuo 2016-07-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
 
@@ -227,7 +227,11 @@ Valstybės tabako, tabako gaminių ir susijusių gaminių kontrolės politikos p
 
 5) drausti tabako gaminių ir susijusių gaminių reklamą;
 
-6) drausti tabako gaminių ir susijusių gaminių įsigijimo ir (ar) vartojimo skatinimą ir riboti jų rėmimą;
+6) drausti tabako gaminių ir su jais susijusių gaminių įsigijimo ir (ar) vartojimo skatinimą bei rėmimą bet kokia forma ir bet kokiomis priemonėmis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-69, 2016-12-08, paskelbta TAR 2016-12-14, i. k. 2016-28885
 
 7) didinti visuomenės informuotumą apie tabako gaminių ir susijusių gaminių vartojimo daromą žalą žmonių sveikatai, taip pat socialinę ir ekonominę žalą valstybei;
 
@@ -237,7 +241,13 @@ Valstybės tabako, tabako gaminių ir susijusių gaminių kontrolės politikos p
 
 10) remti socialinę reklamą, nerūkymo propagavimą per visuomenės informavimo priemones;
 
-11) siekti sukurti darbo, poilsio ir gyvenamąją aplinką be tabako dūmų.
+11) siekti sukurti darbo, poilsio ir gyvenamąją aplinką be tabako dūmų;
+
+12) nustatant ir įgyvendinant su tabako kontrole susijusias politikos kryptis, apsaugoti jas nuo komercinių ir kitų tabako pramonės interesų.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-69, 2016-12-08, paskelbta TAR 2016-12-14, i. k. 2016-28885
 
 Straipsnio pakeitimai:
 
@@ -689,7 +699,11 @@ Lietuvos Respublikoje parduoti prekes, skirtas tabako gaminiams rūkyti (ar pasi
 
 3) tabako gaminius gaminančių arba jais prekiaujančių juridinių asmenų ar užsienio juridinių asmenų filialų registruotiems pavadinimams ir prekių ženklams (jeigu tabako gaminio, tabako gaminių gamintojo pavadinimas ar prekių ženklas yra sudedamoji šių juridinių asmenų ar užsienio juridinių asmenų filialų registruoto pavadinimo dalis), kai šie pavadinimai ir prekių ženklai pateikiami iškabose ant šių juridinių asmenų ar užsienio juridinių asmenų filialų buveinės ar padalinio pastato. Ant juridinių asmenų ar užsienio juridinių asmenų filialų valdomo transporto gali būti pateikiami tik tabako gaminius gaminančių arba jais prekiaujančių juridinių asmenų ar užsienio juridinių asmenų filialų registruoti pavadinimai;
 
-4) juridinio asmens ar užsienio juridinio asmens filialo, gaminančio tabako gaminius arba kurio pagrindinė veikla yra prekyba tabako gaminiais, pavadinimo (firmos vardo) pateikimui šių juridinių asmenų ar užsienio juridinių asmenų filialų remiamų renginių metu ir šių renginių rėmėjų sąrašuose, išskyrus tokį pateikimą televizijos ir radijo programose.
+4) netenka galios 2017-01-01.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-69, 2016-12-08, paskelbta TAR 2016-12-14, i. k. 2016-28885
 
 3. Mažmeninės prekybos vietose ant įrangos, skirtos tabako gaminiams išdėstyti, leidžiama pateikti tik šią informaciją:
 
@@ -751,7 +765,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
 
-2. Lietuvos Respublikoje juridiniams asmenims ir užsienio juridinių asmenų filialams, gaminantiems tabako gaminius arba kurių pagrindinė veikla yra prekyba tabako gaminiais, draudžiama remti renginius, skirtus asmenims iki 18 metų, televizijos ir radijo programas, taip pat veiklą ir renginius, kuriuose dalyvauja kelios valstybės arba kurie vykdomi keliose valstybėse, arba kitokiais būdais galinčius turėti poveikį už Lietuvos Respublikos teritorijos ribų.
+2. Lietuvos Respublikoje juridiniams asmenims ir užsienio juridinių asmenų filialams, gaminantiems tabako gaminius ir (ar) su jais susijusius gaminius arba kurių pagrindinė veikla yra prekyba tabako gaminiais ir (ar) su jais susijusiais gaminiais, draudžiama bet kokia forma ir bet kokiomis priemonėmis remti visus renginius, veiklas, asmenis ir visuomenės informavimo priemones.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-69, 2016-12-08, paskelbta TAR 2016-12-14, i. k. 2016-28885
 
 Straipsnio pakeitimai:
 
@@ -779,7 +797,7 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1905, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10695
 
-2. Neteko galios nuo 2007-01-01.
+2. Neteko galios 2007-01-01.
 
 3. Savivaldybių tarybos turi teisę uždrausti rūkyti viešose (parkuose, skveruose ir kt.) ir kitose jų valdymo kompetencijai priklausančiose vietose.
 
@@ -857,9 +875,17 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1868, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10769
 
-2. Fiziniai asmenys už šio Įstatymo pažeidimus atsako Lietuvos Respublikos administracinių teisės pažeidimų kodekse ir Lietuvos Respublikos baudžiamajame kodekse nustatyta tvarka.
+2. Fiziniai asmenys už šio Įstatymo pažeidimus atsako Lietuvos Respublikos administracinių nusižengimų kodekse (toliau – Administracinių nusižengimų kodeksas) ir Lietuvos Respublikos baudžiamajame kodekse (toliau – Baudžiamasis kodeksas) nustatyta tvarka.
 
-3. Lietuvos Respublikoje parduodami, laikomi, gabenami kontrabandiniai, falsifikuoti tabako gaminiai, tabako gaminiai be specialių ženklų – banderolių, taip pat tabako gaminiai, kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais arba kurie buvo laikomi, parduodami neturint licencijos, konfiskuojami vadovaujantis atitinkamai Lietuvos Respublikos administracinių teisės pažeidimų kodeksu ar Lietuvos Respublikos baudžiamuoju kodeksu.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-157, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29850
+
+3. Lietuvos Respublikoje parduodami, laikomi, gabenami kontrabandiniai, falsifikuoti tabako gaminiai, tabako gaminiai be specialių ženklų – banderolių, taip pat tabako gaminiai, kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais arba kurie buvo laikomi, parduodami neturint licencijos, konfiskuojami vadovaujantis arba Administracinių nusižengimų kodeksu, arba Baudžiamuoju kodeksu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-157, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29850
 
 4. Konfiskuoti tabako gaminiai sunaikinami Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
@@ -995,7 +1021,11 @@ Nr. XII-1188, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14286
 
 27 straipsnis. Įstatymo pažeidimų protokolas ir bylų nagrinėjimo terminai
 
-1. Šio Įstatymo 26 straipsnio 13 dalyje nurodytų institucijų įgalioti darbuotojai (pareigūnai), nustatę šio Įstatymo nuostatų pažeidimą, surašo Lietuvos Respublikos administracinių teisės pažeidimų kodekse nustatyto turinio protokolą.
+1. Šio Įstatymo 26 straipsnio 13 dalyje nurodytų institucijų įgalioti darbuotojai (pareigūnai), nustatę šio Įstatymo nuostatų pažeidimą, surašo Administracinių nusižengimų kodekse nustatyto turinio protokolą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-157, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29850
 
 2. Šio Įstatymo 26 straipsnio 13 dalyje nurodytos institucijos bylas išnagrinėja ir ekonomines sankcijas paskiria ne vėliau kaip per du mėnesius nuo pažeidimo nustatymo dienos. Sankcijos už šio Įstatymo pažeidimus gali būti skiriamos ne vėliau kaip per trejus metus nuo pažeidimo padarymo dienos, o trunkamo pažeidimo atveju – per trejus metus nuo jo paaiškėjimo dienos.
 
@@ -1484,6 +1514,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
 
 Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 1, 2, 4, 4-1, 6, 8, 8-1, 8-2, 8-3, 8-4, 8-7, 9, 13, 15, 16-1, 16-2, 17, 17-1, 19, 26 straipsnių, II skyriaus pavadinimo ir antrojo skirsnio, 2 priedo pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-69, 2016-12-08, paskelbta TAR 2016-12-14, i. k. 2016-28885
+
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 3, 17 ir 18 straipsnių pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-157, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29850
+
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 25 ir 27 straipsnių pakeitimo įstatymas
 
 91 straipsnis. Tabako gaminių gamybos ir realizavimo ataskaitos
 
