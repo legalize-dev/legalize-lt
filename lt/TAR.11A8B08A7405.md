@@ -4,7 +4,7 @@ identifier: "TAR.11A8B08A7405"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-01-18"
-last_updated: "2016-04-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2016-04-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-05-24
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
 
@@ -372,7 +372,15 @@ Civilinio kodekso nustatyta tvarka suimtieji turi teisę disponuoti savo turtu, 
 
 3. Šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodyti asmenys turi teisę į vieną pasimatymą.
 
-4. Pasimatymų tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse. Suimtojo pasimatymai vyksta tardymo izoliatoriaus atstovo akivaizdoje specialiose patalpose, įrengtose taip, kad lankytojų ir suimtojo fizinis kontaktas negalimas.
+4. Suimtojo pasimatymai vyksta tardymo izoliatoriaus atstovo akivaizdoje specialiose patalpose, įrengtose taip, kad lankytojų ir suimtojo fizinis kontaktas negalimas.
+
+5. Suimtojo pasimatymas su sutuoktiniu, sugyventiniu, artimaisiais giminaičiais arba asmeniu, su kuriuo suimtasis turi bendrą vaiką, jei nei suimtasis, nei šis asmuo nėra susituokęs su kitu asmeniu arba neturi sugyventinių ir šis vaikas yra Lietuvos Respublikos teisės aktų nustatyta tvarka registruotas kaip bendras suimtojo ir į pasimatymą atvykusio asmens vaikas, ne dažniau kaip vieną kartą per mėnesį gali vykti neatskiriant lankytojų ir suimtojo. Šioje dalyje numatyti pasimatymai vyksta tardymo izoliatoriaus atstovo akivaizdoje, tačiau pokalbio nesiklausoma.
+
+6. Suimtojo pasimatymas su sutuoktiniu, sugyventiniu arba asmeniu, su kuriuo suimtasis turi bendrą vaiką, jei nei suimtasis, nei šis asmuo nėra susituokęs su kitu asmeniu arba neturi sugyventinių ir šis vaikas yra Lietuvos Respublikos teisės aktų nustatyta tvarka registruotas kaip bendras suimtojo ir į pasimatymą atvykusio asmens vaikas, gali vykti be tardymo izoliatoriaus atstovo. Šį pasimatymą tardymo izoliatoriaus direktorius ar jo įgaliotas pareigūnas gali suteikti galiojančių nuobaudų neturinčiam suimtajam ne anksčiau kaip po dviejų savaičių nuo suimtojo uždarymo į tardymo izoliatorių dienos, vėliau toks pasimatymas gali būti suteikiamas ne dažniau kaip vieną kartą per mėnesį. Šioje dalyje nurodyti pasimatymai vyksta specialiai įrengtose uždarose patalpose ne ilgiau kaip vieną parą. Į ilgalaikius pasimatymus atvykusiems asmenims sudaromos sąlygos įsigyti maisto produktų tardymo izoliatorių parduotuvėse arba, kai yra galimybių, jiems nemokamai tiekiamas šio įstatymo 44 straipsnio 5 dalyje nurodytas maistas. Į ilgalaikius pasimatymus atvykusių asmenų apsipirkimo pataisos įstaigų parduotuvėse ir maitinimo tvarką nustato Kalėjimų departamento direktorius.
+
+7. Pasimatymas, kurio metu pažeidžiama pasimatymų tvarka, nedelsiant nutraukiamas. Jeigu per šešis mėnesius nuo pasimatymų tvarkos pažeidimo pakartotinai pažeidžiama pasimatymų tvarka arba jeigu už padarytą pasimatymų tvarkos pažeidimą suimtajam buvo paskirta nuobauda, kiti šio suimtojo pasimatymai vyksta atskiriant jį nuo lankytojų, o pasimatymai jų neatskiriant vėl leidžiami praėjus trims mėnesiams nuo pasimatymų tvarkos pažeidimo ir jeigu suimtasis neturi nuobaudų, paskirtų už padarytus pasimatymų tvarkos pažeidimus.
+
+8. Pasimatymų tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
 
 Straipsnio pakeitimai:
 
