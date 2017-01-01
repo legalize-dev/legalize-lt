@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2016-10-21"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2016-10-21 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
 
@@ -1303,6 +1303,14 @@ Nr. XII-2678, 2016-10-11, paskelbta TAR 2016-10-20, i. k. 2016-25456
 
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2334, 2016-05-05, paskelbta TAR 2016-05-11, i. k. 2016-12227
+
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 27 straipsnio pakeitimo įstatymas
+
 26 straipsnis. Valstybės ir savivaldybių turto pripažinimas nereikalingu arba netinkamu (negalimu) naudoti
 
 1. Nematerialusis, ilgalaikis materialusis ir trumpalaikis materialusis turtas pripažįstamas nereikalingu arba netinkamu (negalimu) naudoti, kai:
@@ -1355,7 +1363,13 @@ Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir dis
 
 4. Valstybės ar savivaldybės institucija, įmonė, įstaiga ar organizacija, panaudojusios turtą šio straipsnio 1 dalyje, išskyrus 1 dalies 2 punktą, nurodytais būdais, turi jį nurašyti.
 
-5. Šio įstatymo 26 straipsnio 1 dalies 6 punkte nurodytu atveju nepadengta finansinio turto (gautinų lėšų) dalis nurašoma įsiteisėjus prokuroro nutarimui ar ikiteisminio tyrimo teisėjo sprendimui dėl ikiteisminio tyrimo nutraukimo arba teismo ar teisėjo nutarimui nutraukti administracinio teisės pažeidimo bylą.
+5. Šio įstatymo 26 straipsnio 1 dalies 6 punkte nurodytu atveju nepadengta finansinio turto (gautinų lėšų) dalis nurašoma įsiteisėjus prokuroro nutarimui ar ikiteisminio tyrimo teisėjo nutarčiai dėl ikiteisminio tyrimo nutraukimo arba teismo ar bylą ne teismo tvarka nagrinėjančio pareigūno nutarimui nutraukti administracinio nusižengimo teiseną.
+
+TAR pastaba. 27 straipsnio 5 dalies nuostata dėl turto nurašymo taikoma ir tais atvejais, kai įsiteisėja prokuroro nutarimas ar ikiteisminio tyrimo teisėjo nutartis dėl ikiteisminio tyrimo nutraukimo arba teismo ar teisėjo nutartis nutraukti administracinio teisės pažeidimo, numatyto Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449, teiseną.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2334, 2016-05-05, paskelbta TAR 2016-05-11, i. k. 2016-12227
 
 6. Valstybės ir savivaldybių turtas, pripažinus jį nereikalingu arba netinkamu (negalimu) naudoti, nurašomas, išardomas ir likviduojamas Vyriausybės nustatyta tvarka. Valstybei ar savivaldybei priklausantys gyvūnai, pripažinti nereikalingais arba netinkamais (negalimais) naudoti, numarinami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
