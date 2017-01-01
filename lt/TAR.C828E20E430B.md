@@ -4,7 +4,7 @@ identifier: "TAR.C828E20E430B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2014-06-17"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C828E20E430B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 8 straipsnio 2 dalies 1, 2 ir 3 punktai 
 ---
 # Lietuvos Respublikos kino įstatymas
 
-Suvestinė redakcija nuo 2014-06-17 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 31-1107, i. k. 1021010ISTA00IX-752
 
@@ -266,7 +266,13 @@ Valstybinis finansavimas skiriamas:
 
 1) jo valdymo organų narys ar dalininkas įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl nusikaltimo ar baudžiamojo nusižengimo finansų sistemai, intelektinei nuosavybei, ekonomikai ir verslo tvarkai;
 
-2) jo valdymo organų narys ar dalininkas yra nubaustas už administracinius teisės pažeidimus: viešųjų pirkimų, komercinės ar ūkinės veiklos tvarkos pažeidimus, ataskaitų ir dokumentų apie pajamas, turtą, pelną ir mokesčius pateikimo tvarkos pažeidimus, vengimą mokėti mokesčius, neteisėtą vertimąsi komercine, ūkine, finansine ar profesine veikla, apskaitos taisyklių pažeidimus, autorių teisių ir gretutinių teisių pažeidimus;
+2) jo valdymo organų narys ar dalininkas yra nubaustas už administracinius nusižengimus, numatytus Lietuvos Respublikos administracinių nusižengimų kodekso 122, 127, 150, 184, 187, 192 ir 205 straipsniuose;
+
+Straipsnio punkto pakeitimai:
+
+TAR pastaba. 2 punktas taikytinas ir tais atvejais, kai paskirta administracinė nuobauda už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekso, patvirtinto 1984 m. įstatymu Nr. X-4449, 1713, 172, 1721, 173, 1731 ir 21410 straipsniuose
+
+Nr. XII-2616, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24190
 
 3) jis neatsiskaitė už gautą valstybinį finansavimą;
 
@@ -276,7 +282,13 @@ Valstybinis finansavimas skiriamas:
 
 8. Valstybinis finansavimas neskiriamas juridiniam asmeniui iki visiško jo valdymo organų nario ar dalininko dėl šio straipsnio 7 dalies 1 punkte nurodyto nusikaltimo ar baudžiamojo nusižengimo teistumo išnykimo.
 
-9. Valstybinis finansavimas neskiriamas juridiniam asmeniui dvejus metus nuo administracinės nuobaudos už šio straipsnio 7 dalies 2 punkte nurodytus administracinius teisės pažeidimus paskyrimo jo valdymo organų nariui ar dalininkui dienos.
+9. Valstybinis finansavimas neskiriamas juridiniam asmeniui dvejus metus nuo administracinės nuobaudos už šio straipsnio 7 dalies 2 punkte nurodytus administracinius nusižengimus paskyrimo jo valdymo organų nariui ar dalininkui dienos.
+
+Straipsnio dalies pakeitimai:
+
+TAR pastaba. 9 straipsnio 9 dalis taikytina ir tais atvejais, kai paskirta administracinė nuobauda už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekso, patvirtinto 1984 m. įstatymu Nr. X-4449, 1713, 172, 1721, 173, 1731 ir 21410 straipsniuose.
+
+Nr. XII-2616, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24190
 
 10. Valstybinis finansavimas neskiriamas juridiniam asmeniui penkerius metus nuo teisės aktų nustatyta tvarka išieškoto valstybinio finansavimo dienos.
 
@@ -511,4 +523,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-925, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07637
 
 Lietuvos Respublikos kino įstatymo Nr. IX-752 14 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2616, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24190
+
+Lietuvos Respublikos kino įstatymo Nr. IX-752 9 straipsnio pakeitimo įstatymas
 
