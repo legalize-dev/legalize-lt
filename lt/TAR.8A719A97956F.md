@@ -4,7 +4,7 @@ identifier: "TAR.8A719A97956F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-05-25"
-last_updated: "2013-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A719A97956F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-05-08
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 65-2380, i. k. 1061010ISTA000X-614
 
@@ -41,7 +41,11 @@ BENDROSIOS NUOSTATOS
 
 2) tiems su informacinės visuomenės paslaugomis susijusiems santykiams, kuriuos reglamentuoja Asmens duomenų teisinės apsaugos įstatymas ir Elektroninių ryšių įstatymo devintasis skirsnis;
 
-3) tiems su draudžiamais susitarimais susijusiems santykiams, kuriuos reglamentuoja Konkurencijos įstatymas ir Europos Bendrijos steigimo sutartis;
+3) tiems su draudžiamais susitarimais susijusiems santykiams, kuriuos reglamentuoja Konkurencijos įstatymas ir Sutartis dėl Europos Sąjungos veikimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
 4) notarų ir atskirus notarinius veiksmus atliekančių asmenų veiklai;
 
@@ -221,17 +225,31 @@ Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010IS
 
 1) tokios priemonės yra būtinos viešojo intereso (ypač tai susiję su nusikaltimų prevencija, tyrimu, atskleidimu ir asmenų baudžiamuoju persekiojimu, įskaitant nepilnamečių apsaugą ir kovą su rasinės, lytinės, religinės ar tautinės neapykantos kurstymu bei asmenų žmogiškojo orumo pažeidimu), visuomenės sveikatos apsaugai, visuomenės saugumo, įskaitant nacionalinį saugumą ir gynybą, interesų, vartotojų, tarp jų ir investuotojų, apsaugai. Šios priemonės taikomos tai informacinės visuomenės paslaugai, kuri pažeidžia šiuos interesus arba kelia grėsmę, kad jie bus pažeisti. Taikomos priemonės turi atitikti siekiamus tikslus;
 
-2) Informacinės visuomenės plėtros komitetas prie Susisiekimo ministerijos (toliau – Informacinės visuomenės plėtros komitetas), gavęs kompetentingos institucijos prašymą (jei tokia institucija nėra pats Informacinės visuomenės plėtros komitetas), prieš kompetentingai institucijai kreipiantis į teismą su prašymu imtis tokių priemonių arba įstatymų nustatytais atvejais prieš kompetentingai institucijai pačiai imantis tokių priemonių, kreipiasi į Europos Sąjungos valstybę narę, kurioje paslaugų teikėjas yra įsisteigęs, su prašymu imtis priemonių, jeigu ši tokių priemonių nesiėmė arba jos priemonės, kompetentingos institucijos nuomone, yra nepakankamos, taip pat kai Informacinės visuomenės plėtros komitetas pranešė Europos Bendrijų Komisijai ir Europos Sąjungos valstybei narei, kurioje paslaugų teikėjas yra įsisteigęs, apie kompetentingos institucijos ketinimą kreiptis į teismą su prašymu imtis priemonių arba ketinimą imtis priemonių.
+2) Informacinės visuomenės plėtros komitetas prie Susisiekimo ministerijos (toliau – Informacinės visuomenės plėtros komitetas), gavęs kompetentingos institucijos prašymą (jeigu tokia institucija nėra pats Informacinės visuomenės plėtros komitetas), prieš kompetentingai institucijai kreipiantis į teismą su prašymu imtis tokių priemonių arba įstatymų nustatytais atvejais prieš kompetentingai institucijai pačiai imantis tokių priemonių, kreipiasi į Europos Sąjungos valstybę narę, kurioje paslaugų teikėjas yra įsisteigęs, su prašymu imtis priemonių, jeigu ši tokių priemonių nesiėmė arba jos priemonės, kompetentingos institucijos nuomone, yra nepakankamos, taip pat kai Informacinės visuomenės plėtros komitetas pranešė Europos Komisijai ir Europos Sąjungos valstybei narei, kurioje paslaugų teikėjas yra įsisteigęs, apie kompetentingos institucijos ketinimą kreiptis į teismą su prašymu imtis priemonių arba ketinimą imtis priemonių.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XI-800, 2010-05-11, Žin., 2010, Nr. 60-2959 (2010-05-25), i. k. 1101010ISTA00XI-800
 
-4. Skubiu atveju, taip pat kai imamasi priemonių pagal teisės normas, reglamentuojančias teismo procesą ir (ar) kitas teisės pažeidimų tyrimo, ginčų sprendimo ir (ar) kitas panašias procedūras, šio straipsnio 3 dalies 2 punktas netaikomas. Tokiu atveju apie kreipimąsi į teismą su prašymu imtis tokių priemonių arba tokių priemonių ėmimąsi kompetentinga institucija nedelsdama praneša Informacinės visuomenės plėtros komitetui, o Informacinės visuomenės plėtros komitetas praneša Europos Bendrijų Komisijai ir Europos Sąjungos valstybei narei, kurioje paslaugų teikėjas yra įsisteigęs, nurodydama priežastis, kodėl tai yra skubus atvejis.
+Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
-5. Jeigu Europos Bendrijų Komisija, nustačiusi, kad priemonė nesuderinama su Europos Bendrijos teise, paprašė nesiimti priemonės arba tuoj pat nustoti ją taikyti, kompetentinga institucija turi įvertinti Europos Bendrijų Komisijos prašymą prieš nuspręsdama kreiptis į teismą su prašymu imtis priemonių ar pati imdamasi tokių priemonių. Jeigu į teismą su prašymu imtis priemonių jau kreiptasi ar tokių priemonių jau imtasi, kompetentinga institucija turi nuspręsti, ar priemonės gali būti toliau taikomos. Nusprendusi, kad priemonės, dėl kurių ketinama kreiptis ar kreiptasi į teismą arba kurių jau imtasi, atsižvelgiant į Europos Bendrijų Komisijos prašymą, neturėtų būti taikomos, kompetentinga institucija nesikreipia į teismą, o jei tai jau buvo padaryta, skubiai kreipiasi į teismą prašydama panaikinti šias priemones ir (arba) pati panaikina pačios kompetentingos institucijos priimtas priemones.
+4. Skubiu atveju, taip pat kai imamasi priemonių pagal teisės normas, reglamentuojančias teismo procesą ir (ar) kitas teisės pažeidimų tyrimo, ginčų sprendimo ir (ar) kitas panašias procedūras, šio straipsnio 3 dalies 2 punktas netaikomas. Tokiu atveju apie kreipimąsi į teismą su prašymu imtis tokių priemonių arba tokių priemonių ėmimąsi kompetentinga institucija nedelsdama praneša Informacinės visuomenės plėtros komitetui, o Informacinės visuomenės plėtros komitetas praneša Europos Komisijai ir Europos Sąjungos valstybei narei, kurioje paslaugų teikėjas yra įsisteigęs, nurodydama priežastis, kodėl tai yra skubus atvejis.
 
-6. Kai informacinės visuomenės paslaugų teikimą ir kitą paslaugų teikėjų veiklą reglamentuojančios Europos Sąjungos teisės nuostatos taikomos taip pat ir Europos ekonominės erdvės valstybėms, kurios nėra Europos Sąjungos valstybės narės, šiame įstatyme Europos Sąjunga bei Europos Bendrija suprantama kaip Europos ekonominė erdvė.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
+
+5. Jeigu Europos Komisija, nustačiusi, kad priemonė nesuderinama su Europos Sąjungos teise, paprašė nesiimti priemonės arba tuoj pat nustoti ją taikyti, kompetentinga institucija turi įvertinti Europos Komisijos prašymą prieš nuspręsdama kreiptis į teismą su prašymu imtis priemonių ar pati imdamasi tokių priemonių. Jeigu į teismą su prašymu imtis priemonių jau kreiptasi ar tokių priemonių jau imtasi, kompetentinga institucija turi nuspręsti, ar priemonės gali būti toliau taikomos. Nusprendusi, kad priemonės, dėl kurių ketinama kreiptis ar kreiptasi į teismą arba kurių jau imtasi, atsižvelgiant į Europos Komisijos prašymą, neturėtų būti taikomos, kompetentinga institucija nesikreipia į teismą, o jeigu tai jau buvo padaryta, skubiai kreipiasi į teismą prašydama panaikinti šias priemones ir (arba) pati panaikina pačios kompetentingos institucijos priimtas priemones.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
+
+6. Kai informacinės visuomenės paslaugų teikimą ir kitą paslaugų teikėjų veiklą reglamentuojančios Europos Sąjungos teisės nuostatos taikomos taip pat ir Europos ekonominės erdvės valstybėms, kurios nėra Europos Sąjungos valstybės narės, šiame įstatyme Europos Sąjunga suprantama kaip Europos ekonominė erdvė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
 7. Paslaugų teikėjo, kuris nėra įsisteigęs Europos Sąjungoje, informacinės visuomenės paslaugų teikimo laisvę Lietuvos Respublikoje riboja šio įstatymo ir kitų Lietuvos Respublikos teisės aktų nuostatos, jeigu tarptautinės sutartys ir (ar) Europos Sąjungos teisė nenustato kitaip.
 
@@ -395,11 +413,19 @@ ELGESIO (ETIKOS) KODEKSAI
 
 3. Paslaugų teikėjams atstovaujančios verslo ir profesinės asociacijos privalo viešai skelbti informaciją apie šio straipsnio 1 dalyje nurodytų elgesio (etikos) kodeksų rengimą ir įgyvendinimą ir sudaryti galimybes vartotojų asociacijoms pateikti savo pastabas ir pasiūlymus šiems kodeksams bei jų taikymui. Kai rengiami elgesio (etikos) kodeksai gali turėti įtakos asmenims, turintiems regėjimo sutrikimų ar kitą negalią, elgesio (etikos) kodeksų rengėjai privalo konsultuotis su vartotojų asociacijomis ir kitais juridiniais asmenimis, atstovaujančiais asmenims, turintiems regėjimo sutrikimų ar kitą negalią, kad būtų nustatyti šių asmenų specifiniai poreikiai.
 
-4. Šio straipsnio 1 dalyje nurodytos asociacijos privalo elektroninėmis priemonėmis Informacinės visuomenės plėtros komitetui pateikti jų parengtus elgesio (etikos) kodeksus. Elgesio (etikos) kodeksai turėtų būti pateikiami lietuvių, anglų ir dar bent viena Europos Bendrijos oficialia kalba. Informacinės visuomenės plėtros komitetas šiuos etikos (elgesio) kodeksus skelbia savo interneto tinklalapyje.
+4. Šio straipsnio 1 dalyje nurodytos asociacijos privalo elektroninėmis priemonėmis Informacinės visuomenės plėtros komitetui pateikti jų parengtus elgesio (etikos) kodeksus. Elgesio (etikos) kodeksai turėtų būti pateikiami lietuvių, anglų ir dar bent viena Europos Sąjungos oficialia kalba. Informacinės visuomenės plėtros komitetas šiuos etikos (elgesio) kodeksus skelbia savo interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
 5. Informacinės visuomenės plėtros komitetas skatina rengti elgesio kodeksus dėl nepilnamečių ir žmogiškojo orumo apsaugos.
 
-6. Informacinės visuomenės plėtros komiteto iniciatyva šio straipsnio 1 dalyje nurodytos asociacijos teikia elgesio (etikos) kodeksų projektus, elgesio (etikos) kodeksų taikymo ir jų įtakos praktikai, susijusiai su elektronine komercija, įvertinimus Europos Bendrijų Komisijai ir Informacinės visuomenės plėtros komitetui.
+6. Informacinės visuomenės plėtros komiteto iniciatyva šio straipsnio 1 dalyje nurodytos asociacijos teikia elgesio (etikos) kodeksų projektus, elgesio (etikos) kodeksų taikymo ir jų įtakos praktikai, susijusiai su elektronine komercija, įvertinimus Europos Komisijai ir Informacinės visuomenės plėtros komitetui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
 7. Informacinės visuomenės plėtros komitetas turi teisę kreiptis į teismą su reikalavimu, kad verslo, profesinės ir vartotojų asociacijos, atstovaujančios paslaugų teikėjams ar paslaugų gavėjams, pakeistųjų parengtus paslaugų teikėjų veiklą reglamentuojančius elgesio (etikos) kodeksus, jei jie neatitinka suderintos srities.
 
@@ -411,27 +437,35 @@ GINČŲ SPRENDIMAS
 
 1. Paslaugų teikėjai ir paslaugų gavėjai turi teisę bendru sutarimu spręsti savo ginčus, susijusius su informacinės visuomenės paslaugų teikimu, ne teismo tvarka, įskaitant ir ginčų sprendimą naudojant elektronines priemones. Ginčus, susijusius su informacinės visuomenės paslaugų teikimu, ne teismo tvarka nagrinėjančios institucijos sprendimas yra rekomendacinio pobūdžio. Ginčo, susijusio su informacinės visuomenės paslaugų teikimu, sprendimas ne teismo tvarka bendru paslaugos teikėjo ir paslaugos gavėjo sutarimu neužkerta kelio jiems naudotis kitais teisės aktuose numatytais ginčų sprendimo ne teismo tvarka būdais. Ginčo, susijusio su informacinės visuomenės paslaugų teikimu, šalys turi teisę kreiptis į bendrosios kompetencijos teismą, kad šis nagrinėtų ginčą iš esmės tiek ginčo, susijusio su informacinės visuomenės paslaugų teikimu, nagrinėjimo ne teismo tvarka metu, tiek ginčą, susijusį su informacinės visuomenės paslaugų teikimu, ne teismo tvarka nagrinėjusiai institucijai priėmus sprendimą. Ginčus, susijusius su informacinės visuomenės paslaugų teikimu, ne teismo tvarka nagrinėjančios institucijos turi nustatyti šių ginčų nagrinėjimo taisykles. Jose nustatomi prašymų išspręsti ginčą formos, turinio ir pateikimo, įrodymų rinkimo ir pateikimo reikalavimai, taip pat šalių taikinimo procedūra ir ginčų nagrinėjimo procedūra, kitos ginčų nagrinėjimo taisyklės.
 
-2. Teismai ir ginčus, susijusius su informacinės visuomenės paslaugų teikimu, ne teismo tvarka sprendžiančios institucijos turi teisę informuoti Europos Bendrijų Komisiją ir Informacinės visuomenės plėtros komitetą apie jų reikšmingus sprendimus, susijusius su informacinės visuomenės paslaugomis, ir perduoti šioms institucijoms informaciją, kaip sprendžiami ginčai, susiję su elektronine komercija.
+2. Teismai ir ginčus, susijusius su informacinės visuomenės paslaugų teikimu, ne teismo tvarka sprendžiančios institucijos turi teisę informuoti Europos Komisiją ir Informacinės visuomenės plėtros komitetą apie jų reikšmingus sprendimus, susijusius su informacinės visuomenės paslaugomis, ir perduoti šioms institucijoms informaciją, kaip sprendžiami ginčai, susiję su elektronine komercija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
 VIII SKYRIUS
 
 INFORMACINĖS VISUOMENĖS PASLAUGŲ REGLAMENTAVIMAS IR PRIEŽIŪRA
 
-18 straipsnis. Informacinės visuomenės paslaugų teikimo politikos formavimo ir reguliavimo institucijos
+18 straipsnis. Susisiekimo ministerijos funkcijos
 
-Informacinės visuomenės paslaugų teikimo ir kitos paslaugų teikėjų veiklos politiką Lietuvos Respublikoje formuoja ir įgyvendina bei tarpinstitucinį koordinavimą atlieka Susisiekimo ministerija. Informacinės visuomenės paslaugų teikimą ir kitą paslaugų teikėjų veiklą reguliuoja Informacinės visuomenės plėtros komitetas.
+Susisiekimo ministerija:
+
+1) formuoja valstybės informacinės visuomenės plėtros politiką;
+
+2) pagal kompetenciją atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas, susijusias su valstybės informacinės visuomenės plėtra.
 
 Straipsnio pakeitimai:
 
 Nr. XI-800, 2010-05-11, Žin., 2010, Nr. 60-2959 (2010-05-25), i. k. 1101010ISTA00XI-800
 
-19 straipsnis. Informacinės visuomenės plėtros komitetas
+Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
-1. Informacinės visuomenės plėtros komitetas – įstaiga prie Susisiekimo ministerijos, dalyvaujanti formuojant valstybės informacinės visuomenės plėtros bei valstybės informacinių išteklių kūrimo ir funkcinio suderinamumo politiką ir koordinuojanti jos įgyvendinimą ir efektyvų informacinių išteklių panaudojimą pagal Lietuvos Respublikos Vyriausybės patvirtintus informacinės visuomenės plėtros planavimo dokumentus, koordinuojanti informacinės visuomenės plėtrą valstybėje, elektroninio turinio, informacinių ir ryšių technologijų infrastruktūros ir informacinių ir ryšių technologijų naujovių kūrimą ir diegimą bei prižiūrinti, kaip laikomasi šio įstatymo ir su jo įgyvendinimu susijusių teisės aktų reikalavimų.
+19 straipsnis. Neteko galios nuo 2017-01-01
 
-2. Informacinės visuomenės plėtros komitetas veikia pagal šį ir kitus Lietuvos Respublikos įstatymus, teisės aktus, tarptautinius įsipareigojimus, savo nuostatus, kuriuos tvirtina Lietuvos Respublikos Vyriausybė ar jos pavedimu susisiekimo ministras, ir yra finansuojamas iš valstybės biudžeto.
+Straipsnio naikinimas:
 
-3. Informacinės visuomenės plėtros komitete sudaromas kolegialus patariamasis organas – Informacinės visuomenės plėtros komiteto taryba, kurios personalinę sudėtį tvirtina susisiekimo ministras.
+Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
 Straipsnio pakeitimai:
 
@@ -441,19 +475,25 @@ Nr. XI-800, 2010-05-11, Žin., 2010, Nr. 60-2959 (2010-05-25), i. k. 1101010ISTA
 
 Informacinės visuomenės plėtros komitetas:
 
-1) prižiūri, kaip paslaugų teikėjai laikosi šio įstatymo ir jį įgyvendinančių teisės aktų;
+1) įgyvendina valstybės informacinės visuomenės plėtros politiką;
 
-2) Europos Sąjungos teisės aktų nustatyta tvarka ir sąlygomis bendradarbiauja su Europos Bendrijų Komisija ir atitinkamomis Europos Sąjungos valstybių narių institucijomis, duomenis ryšiui palaikyti praneša Europos Bendrijų Komisijai ir Europos Sąjungos valstybėms narėms;
+2) prižiūri informacinės visuomenės paslaugų teikimą ir paslaugų teikėjų veiklą;
 
-3) teikia prašomą informaciją Europos Bendrijų Komisijai ir atitinkamoms Europos Sąjungos valstybių narių institucijoms (taip pat ir elektroninėmis priemonėmis), nepažeisdama teisės aktų teikia šioms institucijoms kitą reikiamą pagalbą;
+3) Europos Sąjungos teisės aktų nustatyta tvarka ir sąlygomis bendradarbiauja su Europos Komisija ir atitinkamomis Europos Sąjungos valstybių narių institucijomis, duomenis ryšiui palaikyti praneša Europos Komisijai ir Europos Sąjungos valstybėms narėms;
 
-4) informuoja Europos Bendrijų Komisiją apie sutarčių, kurių negalima sudaryti elektroninėmis priemonėmis, rūšis. Kartą per 5 metus parengia ataskaitą dėl teisės sudaryti sutartis elektroninėmis priemonėmis išimčių, kurioje nurodoma, kodėl šios išimtys būtinos. Minėtą ataskaitą patvirtinus Vyriausybei, Informacinės visuomenės plėtros komitetas ją pateikia Europos Bendrijų Komisijai;
+4) teikia prašomą informaciją Europos Komisijai ir atitinkamoms Europos Sąjungos valstybių narių institucijoms (taip pat ir elektroninėmis priemonėmis), nepažeisdamas teisės aktų teikia šioms institucijoms kitą reikiamą pagalbą;
 
-5) elektroninėmis priemonėmis (taip pat turi teisę naudoti ir kitus būdus) teikia bendrą informaciją (tačiau ne teisines konsultacijas) apie paslaugos teikėjų ir paslaugos gavėjų teises ir pareigas, susijusias su elektroninėmis priemonėmis sudaromomis sutartimis, galimus paslaugos teikėjų ir paslaugos gavėjų ginčų sprendimo ir žalos atlyginimo būdus bei jų naudojimo praktinius aspektus, valstybės ir savivaldybių institucijas ar įstaigas, kurios gali suteikti papildomos informacijos ir (ar) praktinę pagalbą. Informacinės visuomenės plėtros komitetas savo interneto tinklalapyje skelbia apie būdus susisiekti su Informacinės visuomenės plėtros komitetu elektroninėmis priemonėmis;
+5) informuoja Europos Komisiją apie sutarčių, kurių negalima sudaryti elektroninėmis priemonėmis, rūšis; kartą per 5 metus parengia ataskaitą dėl teisės sudaryti sutartis elektroninėmis priemonėmis išimčių, kurioje nurodoma, kodėl šios išimtys būtinos; minėtą ataskaitą, ją patvirtinus Vyriausybei, pateikia Europos Komisijai;
 
-6) įgyvendina 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo, kiek tai susiję su šio įstatymo reguliavimo dalyku;
+6) elektroninėmis priemonėmis (taip pat turi teisę naudoti ir kitus būdus) teikia bendrą informaciją (tačiau ne teisines konsultacijas) apie paslaugos teikėjų ir paslaugos gavėjų teises ir pareigas, susijusias su elektroninėmis priemonėmis sudaromomis sutartimis, galimus paslaugos teikėjų ir paslaugos gavėjų ginčų sprendimo ir žalos atlyginimo būdus bei jų naudojimo praktinius aspektus, valstybės ir savivaldybių institucijas ar įstaigas, kurios gali suteikti papildomos informacijos ir (ar) praktinę pagalbą; savo interneto svetainėje skelbia apie būdus susisiekti su Informacinės visuomenės plėtros komitetu elektroninėmis priemonėmis;
 
-7) atlieka kitas šio ir kitų teisės aktų nustatytas funkcijas.
+7) įgyvendina 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo, kiek tai susiję su šio įstatymo reguliavimo dalyku;
+
+8) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
 21 straipsnis. Informacinės visuomenės plėtros komiteto teisės
 
@@ -530,6 +570,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
 
 Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo 2 straipsnio papildymo ir pakeitimo ir Įstatymo papildymo IV-1 skyriumi įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
+
+Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 1, 4, 16, 17, 18, 20 straipsnių pakeitimo ir 19 straipsnio pripažinimo netekusiu galios įstatymas
 
 111 straipsnis. Elektroninės siuntos išsiuntimas, pristatymas ir gavimas
 
