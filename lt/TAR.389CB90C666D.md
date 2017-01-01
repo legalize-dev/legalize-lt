@@ -4,7 +4,7 @@ identifier: "TAR.389CB90C666D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-01-15"
-last_updated: "2016-09-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 department: "Lietuvos Respublikos Seimas"
@@ -17,9 +17,17 @@ entry_into_force_conditions: "1. Įstatymo 51 straipsnis įsigalioja 2002 m. vas
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2016-09-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
+
+TAR pastaba. Asmenys, iki įstatymo Nr. XII-2528 įsigaliojimo (2017-01-01) įgiję licenciją ar rašytinį sutikimą verstis Lietuvos Respublikoje ginklų, A kategorijos ginklų priedėlių, šaudmenų, jų dalių gamyba, ginklų taisymu, ginklų ir šaudmenų perdirbimu, įsigaliojus šiam įstatymui, turi teisę ir toliau verstis licencijoje ar rašytiniame sutikime nurodyta veikla. Licencijų ir rašytinių sutikimų išdavimo, galiojimo sustabdymo, panaikinimo ir pažymų, kad ginklas yra visiškai netinkamas naudoti, išdavimo procedūras, pradėtas iki įstatymo Nr. XII-2528 įsigaliojimo (2017-01-01), baigia Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos, vadovaudamasis iki šio įstatymo įsigaliojimo galiojusia tvarka.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
+
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 2, 9, 12, 18, 19, 21, 22, 23, 25, 26, 28, 29, 30, 31 ir 38 straipsnių pakeitimo įstatymas
 
 Nauja įstatymo redakcija nuo 2011-03-01:
 
@@ -65,7 +73,11 @@ DraudžIami GINKLai, GINKLŲ PRIEDĖLIAI IR ŠAUDMENys
 
 1. Specialaus statuso subjektai privalo tvarkyti savo ginklų apskaitą. Šie subjektai duomenis apie turimus A, B, C kategorijų ginklus Ginklų registro nuostatų nustatyta tvarka privalo teikti Ginklų registrui.
 
-2. Civilinėje apyvartoje esančių ginklų, jų savininkų ir valdytojų apskaitą tvarko policijos įstaigos. Duomenis apie civilinėje apyvartoje esančius A, B, C kategorijų ginklus, jų savininkus ir valdytojus Ginklų registro nuostatų nustatyta tvarka Ginklų registrui teikia vidaus reikalų ministro įgaliota įstaiga.
+2. Civilinėje apyvartoje esančių ginklų, jų savininkų ir valdytojų apskaitą tvarko Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Policijos departamentas) kartu su apskričių vyriausiaisiais policijos komisariatais (toliau – teritorinė policijos įstaiga) (toliau Policijos departamentas ir teritorinės policijos įstaigos kartu vadinamos policijos įstaigomis). Duomenis apie civilinėje apyvartoje esančius A, B, C kategorijų ginklus, jų savininkus ir valdytojus Ginklų registro nuostatuose nustatyta tvarka Ginklų registrui teikia vidaus reikalų ministro įgaliota įstaiga.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 Straipsnio pakeitimai:
 
@@ -155,13 +167,25 @@ Nr. XII-978, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09407
 
 3) pasikeitus veiklos pobūdžiui ar kitoms sąlygoms, kurios buvo nurodytos dokumentuose, pateiktuose registruojantis Policijos departamente, apie tai ne vėliau kaip per 10 darbo dienų informuoti Policijos departamentą;
 
-4) kontroliuojančiųjų valstybės institucijų reikalavimu pateikti informaciją apie darbuotojus, dirbančius tiesiogiai su ginklų, šaudmenų, jų dalių, ginklų priedėlių apyvarta susijusį darbą, ir jų asmens duomenis;
+4) kontroliuojančiųjų institucijų reikalavimu pateikti informaciją apie darbuotojus, dirbančius tiesiogiai su ginklų, šaudmenų, jų dalių, ginklų priedėlių apyvarta susijusį darbą, ir jų asmens duomenis;
 
-5) sudaryti sąlygas kontroliuojančiųjų valstybės institucijų darbuotojams tikrinti veiklą, susijusią su tarpininko veikla;
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
+
+5) sudaryti sąlygas kontroliuojančiųjų institucijų valstybės tarnautojams tikrinti veiklą, susijusią su tarpininko veikla;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 6) sandėliuoti, laikyti, realizuoti ginklus, šaudmenis, jų dalis tik tose patalpose, kurios atitinka Vyriausybės arba jos įgaliotos institucijos nustatytus reikalavimus;
 
-7) prieš priimdamas į darbą naują darbuotoją, kurio darbas yra tiesiogiai susijęs su ginklų, šaudmenų, jų dalių, ginklų priedėlių apyvarta, pateikti teritorinei policijos įstaigai šio asmens duomenis (vardą, pavardę, asmens kodą, gyvenamosios vietos adresą) ir medicininio patikrinimo išvadas, patvirtinančias, kad jis neserga ligomis ar neturi fizinių trūkumų, trukdančių tinkamai elgtis su ginklu, nėra įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos, nėra sveikatos priežiūros įstaigos priežiūroje dėl psichikos ligos ar sutrikimo;
+7) prieš priimdamas į darbą naują darbuotoją, kurio darbas yra tiesiogiai susijęs su ginklų, šaudmenų, jų dalių, ginklų priedėlių apyvarta, pateikti teritorinei policijos įstaigai šio asmens duomenis (vardą, pavardę, asmens kodą, gyvenamosios vietos adresą) ir medicininio patikrinimo išvadas, patvirtinančias, kad jis neserga ligomis ar neturi fizinių trūkumų, trukdančių tinkamai elgtis su ginklu, nėra įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos, nėra sveikatos priežiūros įstaigos prižiūrimas dėl psichikos ligos ar sutrikimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 8) ginklų, šaudmenų, jų dalių, ginklų priedėlių apskaitos žurnalus ir kitus su tarpininko veikla susijusius dokumentus saugoti ne mažiau kaip 20 metų nuo paskutinio įrašo padarymo dienos, neatsižvelgiant į tai, ar tarpininkas verčiasi tarpininko veikla, ar ne (nutraukus tarpininko veiklą, apskaitos dokumentai perduodami Policijos departamentui);
 
@@ -245,53 +269,67 @@ BAIGIAMOSIOS NUOSTATOS
 
 2. Licenciją verstis šio straipsnio 1 dalies 1 punkte nurodyta veikla turi teisę gauti tik Europos juridiniai asmenys. Licencijas verstis šio straipsnio 1 dalies 2, 3, 4, 5 ir 6 punktuose nurodyta veikla turi teisę gauti Europos fiziniai asmenys ir Europos juridiniai asmenys.
 
-3. Lietuvos Respublikoje verstis šio straipsnio 1 dalies 2, 3, 4, 5 ir 6 punktuose nurodyta veikla turi teisę kitų valstybių narių paslaugų teikėjai, pateikę licencijas išduodančiai institucijai savo registracijos valstybėje narėje gautas licencijas verstis atitinkama veikla. Licencijas išduodanti institucija, patikrinusi pateiktos licencijos galiojimą ir gavusi licenciją išdavusios valstybės narės patikrintų asmenų, kurie turi teisę dirbti su licencijuojama veikla tiesiogiai susijusį darbą, sąrašus, išduoda rašytinį sutikimą vykdyti Lietuvos Respublikoje licencijuojamą veiklą. Toks sutikimas neišduodamas, jeigu gaunama duomenų, kad juridinio asmens registracija ar licencija negalioja, taip pat jeigu į patikrintų asmenų sąrašus yra įtraukti asmenys, neturintys teisės dirbti su licencijuojama veikla tiesiogiai susijusį darbą. Jeigu per 30 kalendorinių dienų nuo licencijos pateikimo dienos negaunamas joks atsakymas, laikoma, kad priežasčių neišduoti sutikimo nėra.
+3. Lietuvos Respublikoje verstis šio straipsnio 1 dalies 2, 3, 4, 5 ir 6 punktuose nurodyta veikla turi teisę kitų valstybių narių paslaugų teikėjai, pateikę licencijas išduodančiai institucijai savo registracijos valstybėje narėje gautas licencijas ir (ar) leidimus verstis atitinkama veikla. Licencijas išduodanti institucija, patikrinusi pateiktos licencijos ir (ar) leidimo galiojimą ir gavusi licenciją ir (ar) leidimą išdavusios valstybės narės patikrintų asmenų, kurie dirba su licencijuojama veikla tiesiogiai susijusį darbą, sąrašus, išduoda rašytinį sutikimą verstis Lietuvos Respublikoje licencijuojama veikla (toliau – rašytinis sutikimas).
 
-4. Sprendimas dėl licencijos išdavimo priimamas ne vėliau kaip per 30 kalendorinių dienų nuo visų dokumentų, reikalingų licencijai išduoti, pateikimo dienos.
+4. Sprendimas dėl licencijos ar rašytinio sutikimo išdavimo priimamas ir licencija ar rašytinis sutikimas išduodami arba pateikiamas motyvuotas rašytinis atsisakymas išduoti licenciją ar rašytinį sutikimą ne vėliau kaip per 30 kalendorinių dienų nuo visų tinkamai įformintų dokumentų, nurodytų šiame įstatyme ar šio straipsnio 10 dalyje nurodytose licencijavimo taisyklėse ir reikalingų licencijai ar rašytiniam sutikimui išduoti, gavimo licencijas išduodančioje institucijoje dienos.
 
-5. Gavusi prašymą išduoti licenciją, licencijas išduodanti institucija ne vėliau kaip per 5 darbo dienas išsiunčia pareiškėjui patvirtinimą, kad prašymas gautas. Patvirtinime taip pat nurodoma šio straipsnio 4 dalyje nurodytas terminas licencijai išduoti, sprendimo apskundimo tvarka bei terminai ir tai, kad tuo atveju, jeigu pareiškėjas ar jo įgaliotas asmuo per 30 kalendorinių dienų nuo visų dokumentų, reikalingų licencijai išduoti, pateikimo dienos negauna jokio atsakymo, yra laikoma, kad priimamas teigiamas sprendimas.
+5. Gavusi šio straipsnio 4 dalyje nurodytus dokumentus, licencijas išduodanti institucija ne vėliau kaip per 5 darbo dienas išsiunčia pareiškėjui ar jo įgaliotam asmeniui patvirtinimą, kad šie dokumentai gauti. Patvirtinime taip pat nurodoma šio straipsnio 4 dalyje nurodytas terminas licencijai ar rašytiniam sutikimui išduoti, sprendimo apskundimo tvarka bei terminai ir tai, kad tuo atveju, jeigu pareiškėjas ar jo įgaliotas asmuo per 30 kalendorinių dienų nuo visų šio straipsnio 4 dalyje nurodytų dokumentų gavimo licencijas išduodančioje institucijoje dienos negauna jokio atsakymo, yra laikoma, kad licencija išduota ar rašytinis sutikimas išduotas.
 
-6. Atsisakymas išduoti licenciją turi būti motyvuotas vadovaujantis šio įstatymo nustatytais reikalavimais. Pareiškėjas ar jo įgaliotas asmuo atsisakymą išduoti licenciją turi teisę ne vėliau kaip per 30 kalendorinių dienų nuo sprendimo gavimo dienos apskųsti teismui.
+6. Atsisakymas išduoti licenciją ar rašytinį sutikimą turi būti motyvuotas vadovaujantis atitinkamai šio straipsnio 8 ir (ar) 9 dalyse nustatytais reikalavimais. Pareiškėjas ar jo įgaliotas asmuo atsisakymą išduoti licenciją ar rašytinį sutikimą turi teisę ne vėliau kaip per 30 kalendorinių dienų nuo sprendimo gavimo dienos apskųsti teismui.
 
-7. Jeigu pareiškėjas ar jo įgaliotas asmuo per 30 kalendorinių dienų nuo visų dokumentų, reikalingų licencijai išduoti, pateikimo dienos negauna jokio atsakymo, yra laikoma, kad priimamas teigiamas sprendimas.
+7. Jeigu pareiškėjas ar jo įgaliotas asmuo per 30 kalendorinių dienų nuo visų šio straipsnio 4 dalyje nurodytų dokumentų gavimo licencijas išduodančioje institucijoje dienos negauna jokio atsakymo, yra laikoma, kad licencija išduota ar rašytinis sutikimas išduotas.
 
-8. Ūkinės komercinės veiklos, nurodytos šio straipsnio 1 dalyje, licencijavimo taisykles tvirtina Vyriausybė.
+8. Licencija ar rašytinis sutikimas neišduodami, jeigu:
 
-9. Sprendimas dėl sutikimo verstis licencijuojama veikla išdavimo ar neišdavimo paslaugų teikėjui, pateikusiam kitoje valstybėje narėje išduotą licenciją, priimamas ne vėliau kaip per 30 kalendorinių dienų nuo turimos licencijos pateikimo licencijas išduodančiai institucijai dienos. Jeigu paslaugų teikėjas per 30 kalendorinių dienų nuo licencijos pateikimo dienos negauna jokio atsakymo, yra laikoma, kad priimamas teigiamas sprendimas.
+1) buvo pateikti ne visi arba netinkamai įforminti dokumentai, nurodyti šio straipsnio 4 dalyje, ar pateikti klaidingi, netikslūs, neišsamūs duomenys ir per šio straipsnio 10 dalyje nurodytose licencijavimo taisyklėse nustatytą terminą duomenys nebuvo patikslinti ir (ar) nepateikti trūkstami dokumentai;
 
-10. Licencija turi būti patikslinta (papildyta), jeigu pasikeičia bent vienas juridinio (pavadinimas, teisinė forma, kodas, adresas) ar fizinio (vardas, pavardė, asmens kodas, licencijoje nurodytos vykdomos veiklos adresas) asmens, kuris verčiasi licencijuojama veikla, rekvizitas. Tokiu atveju juridinis ar fizinis asmuo, kuris verčiasi licencijuojama veikla, ne vėliau kaip per 15 kalendorinių dienų nuo duomenų pasikeitimo dienos turi pateikti licenciją išdavusiai institucijai rašytinį prašymą patikslinti (papildyti) išduotą licenciją, turimą licencijos originalą (dublikatą) ir dokumentus, patvirtinančius pasikeitusius duomenis. Licenciją išdavusi institucija per 10 darbo dienų nuo nurodytų dokumentų gavimo dienos patikslina (papildo) licenciją.
+2) paaiškėja, kad Europos juridinio asmens kontroliuojančiajam asmeniui, administracijos vadovui taikoma bent viena šio įstatymo 18 straipsnio 2 dalyje nurodyta aplinkybė arba Europos fiziniam asmeniui ar Europos juridinio asmens darbuotojui, dirbančiam su licencijuojama veikla tiesiogiai susijusį darbą, taip pat ginklininkui taikoma bent viena šio įstatymo 17 straipsnio 1 dalies 3 ir (ar) 4 punktuose ir (ar) 18 straipsnio 2 dalyje nurodyta aplinkybė.
 
-11. Licencijos turėtojas licencijas išduodančios institucijos yra įspėjamas apie galimą licencijos ar rašytinio sutikimo galiojimo sustabdymą, jeigu jis pažeidžia šiame skirsnyje nustatytus ūkinės komercinės veiklos reikalavimus. Licencijos turėtojas, įspėtas apie galimą licencijos ar rašytinio sutikimo galiojimo sustabdymą, turi pašalinti licencijuojamos veiklos pažeidimus per licencijas išduodančios institucijos nustatytą laiką.
+9. Rašytinis sutikimas neišduodamas ir tuo atveju, kai iš paslaugų teikėjo registracijos valstybės narės gaunama informacija, kad paslaugų teikėjo registracija, licencija ir (ar) leidimas negalioja, licencijos ir (ar) leidimo galiojimas sustabdytas, taip pat jeigu į patikrintų asmenų, kurie dirba su licencijuojama veikla tiesiogiai susijusį darbą, sąrašus yra įtraukti asmenys, neturintys teisės dirbti su licencijuojama veikla tiesiogiai susijusio darbo.
 
-12. Licencijos ar rašytinio sutikimo galiojimas yra sustabdomas, jeigu:
+10. Ūkinės komercinės veiklos, nurodytos šio straipsnio 1 dalyje, licencijavimo taisykles tvirtina Vyriausybė.
 
-1) licencijos turėtojas, įspėtas apie galimą licencijos ar rašytinio sutikimo galiojimo sustabdymą, per nustatytą laiką nepašalina šių pažeidimų;
+11. Licencija ar rašytinis sutikimas turi būti patikslinti (papildyti), jeigu pasikeičia bent vienas Europos juridinio (pavadinimas, teisinė forma, kodas, licencijoje nurodytos vykdomos veiklos adresas) ar Europos fizinio (vardas, pavardė, asmens kodas, licencijoje nurodytos vykdomos veiklos adresas) asmens, kuris verčiasi licencijuojama veikla, rekvizitas. Tokiu atveju juridinis ar fizinis asmuo, kuris verčiasi licencijuojama veikla, ne vėliau kaip per 15 kalendorinių dienų nuo duomenų pasikeitimo dienos turi pateikti licenciją ar rašytinį sutikimą išdavusiai institucijai rašytinį prašymą patikslinti (papildyti) išduotą licenciją ar rašytinį sutikimą, turimą licencijos ar rašytinio sutikimo originalą (dublikatą) ir dokumentus, patvirtinančius pasikeitusius duomenis. Licenciją ar rašytinį sutikimą išdavusi institucija per 10 darbo dienų nuo nurodytų dokumentų gavimo dienos patikslina (papildo) licenciją ar rašytinį sutikimą.
 
-2) paaiškėja, kad licencijos turėtojo kontroliuojančiajam asmeniui, administracijos vadovui iškilo bent viena šio įstatymo 18 straipsnio 2 dalyje nurodyta aplinkybė, o ginklininkui ar bet kuriam darbuotojui, kurio darbas tiesiogiai susijęs su licencijuojama veikla, – bent viena šio įstatymo 17 straipsnio 1 dalies 3 ir 4 punktuose ir 18 straipsnio 2 dalyje nurodyta aplinkybė;
+12. Licencijos ir rašytinio sutikimo turėtojas licencijas išduodančios institucijos yra įspėjamas apie galimą licencijos ar rašytinio sutikimo galiojimo sustabdymą, jeigu jis pažeidžia šiame skirsnyje nustatytus ūkinės komercinės veiklos reikalavimus. Licencijos ir rašytinio sutikimo turėtojas, įspėtas apie galimą licencijos ar rašytinio sutikimo galiojimo sustabdymą, turi pašalinti licencijuojamos veiklos pažeidimus per licencijas išduodančios institucijos nustatytą terminą.
 
-3) licencijas išduodančioje institucijoje gautas policijos įstaigų ar kitų kontroliuojančiųjų institucijų motyvuotas pasiūlymas sustabdyti licencijos ar rašytinio sutikimo galiojimą dėl įstatymų, kitų teisės aktų, nustatančių licencijuojamos veiklos sąlygas, pažeidimų.
+13. Licencijos ar rašytinio sutikimo galiojimas yra sustabdomas, jeigu:
 
-13. Rašytinio sutikimo galiojimas sustabdomas ir tuo atveju, kai iš licencijos registracijos valstybės narės gaunama informacija apie šioje valstybėje narėje priimtą sprendimą sustabdyti licencijos galiojimą.
+1) licencijos ir rašytinio sutikimo turėtojas, įspėtas apie galimą licencijos ar rašytinio sutikimo galiojimo sustabdymą, per licencijas išduodančios institucijos nustatytą terminą nepašalina šių licencijuojamos veiklos pažeidimų;
 
-14. Licencijos ar rašytinio sutikimo galiojimas panaikinamas, jeigu:
+2) paaiškėja, kad licencijos ir rašytinio sutikimo turėtojo kontroliuojančiajam asmeniui, administracijos vadovui iškilo bent viena šio įstatymo 18 straipsnio 2 dalyje nurodyta aplinkybė, o Europos fiziniam asmeniui, kuris verčiasi licencijuojama veikla, ar Europos juridinio asmens, kuris verčiasi licencijuojama veikla, darbuotojui, dirbančiam su licencijuojama veikla tiesiogiai susijusį darbą, taip pat ginklininkui, – bent viena šio įstatymo 17 straipsnio 1 dalies 3 ir (ar) 4 punktuose ir (ar) 18 straipsnio 2 dalyje nurodyta aplinkybė.
 
-1) licencijos turėtojas raštu prašo panaikinti licenciją ar rašytinį sutikimą;
+14. Rašytinio sutikimo galiojimas sustabdomas ir tuo atveju, kai iš paslaugų teikėjo registracijos valstybės narės gaunama informacija apie šioje valstybėje narėje priimtą sprendimą sustabdyti licencijos ir (ar) leidimo galiojimą.
 
-2) licencijos turėtojas per 3 mėnesius nuo licencijos ar rašytinio sutikimo galiojimo sustabdymo nepašalina licencijuojamos veiklos pažeidimo (pažeidimų);
+15. Jeigu licencijos ir rašytinio sutikimo turėtojas per šio straipsnio 16 dalies 2 punkte nustatytą terminą pateikia dokumentus, įrodančius, kad nebėra aplinkybių, dėl kurių buvo sustabdytas licencijos ar rašytinio sutikimo galiojimas (arba licencijas išduodančiai institucijai atlikus patikrinimą ir tai nustačius), licencijas išduodanti institucija sprendimu licencijos ar rašytinio sutikimo galiojimo sustabdymą panaikina.
 
-3) licencijos turėtojas, kuris įspėtas apie galimą licencijos ar rašytinio sutikimo galiojimo sustabdymą arba kuriam sustabdytas licencijos ar rašytinio sutikimo galiojimas, per vienus metus antrą kartą padaro pažeidimą, susijusį su licencijuojama veikla;
+16. Licencijos ar rašytinio sutikimo galiojimas panaikinamas, jeigu:
 
-4) licencijos turėtojas – juridinis asmuo likviduotas;
+1) licencijos ir rašytinio sutikimo turėtojas raštu prašo panaikinti licenciją ar rašytinį sutikimą;
 
-5) licencijos turėtojas miršta;
+2) licencijos ir rašytinio sutikimo turėtojas per 3 mėnesius nuo licencijos ar rašytinio sutikimo galiojimo sustabdymo nepašalina licencijuojamos veiklos pažeidimo (pažeidimų);
 
-6) nustatoma, kad licencijos turėtojas policijos įstaigai pateikė su licencijuojama veikla susijusią tikrovės neatitinkančią informaciją;
+3) licencijos ir rašytinio sutikimo turėtojas, kuriam sustabdytas licencijos ar rašytinio sutikimo galiojimas, per vienus metus antrą kartą padaro pažeidimą, susijusį su licencijuojama veikla;
 
-7) licencijos turėtojas per 3 metus nuo licencijos ar rašytinio sutikimo išdavimo nepradeda licencijoje nurodytos veiklos arba daugiau kaip 3 metus iš eilės nevykdo licencijoje ar rašytiniame sutikime nurodytos veiklos;
+4) licencijos ir rašytinio sutikimo turėtojas – juridinis asmuo – likviduotas;
 
-8) licencijos turėtojas, kurio licencijos ar rašytinio sutikimo galiojimas sustabdytas, vykdo licencijuojamą veiklą.
+5) licencijos ir rašytinio sutikimo turėtojas – fizinis asmuo – miršta;
 
-15. Rašytinio sutikimo galiojimas panaikinamas ir tuo atveju, kai iš licencijos registracijos valstybės narės gaunama informacija apie šioje valstybėje narėje priimtą sprendimą panaikinti licencijos galiojimą.
+6) nustatoma, kad licencijos ir rašytinio sutikimo turėtojas policijos įstaigai ar kitai kontroliuojančiajai institucijai pateikė su licencijuojama veikla susijusią tikrovės neatitinkančią informaciją;
+
+7) licencijos ir rašytinio sutikimo turėtojas per 3 metus nuo licencijos ar rašytinio sutikimo išdavimo nepradeda licencijoje nurodytos veiklos arba daugiau kaip 3 metus iš eilės nevykdo licencijoje ar rašytiniame sutikime nurodytos veiklos;
+
+8) licencijos ir rašytinio sutikimo turėtojas, kurio licencijos ar rašytinio sutikimo galiojimas sustabdytas, vykdo licencijuojamą veiklą.
+
+17. Rašytinio sutikimo galiojimas panaikinamas ir tuo atveju, kai iš paslaugų teikėjo registracijos valstybės narės gaunama informacija apie šioje valstybėje narėje priimtą sprendimą panaikinti licencijos ir (ar) leidimo galiojimą.
+
+18. Licencijos, rašytiniai sutikimai gali būti išduodami tiek popierinės, tiek ir elektroninės formos.
+
+19. Pareiškėjas ar jo įgaliotas asmuo, taip pat licencijos ar rašytinio sutikimo turėtojas šiame straipsnyje nurodytus dokumentus licencijas išduodančiai institucijai gali pateikti per atstumą, elektroninėmis priemonėmis per Paslaugų ir gaminių kontaktinį centrą, per Policijos elektroninių paslaugų sistemą arba tiesiogiai.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 20 straipsnis. Teisės dirbti darbą, tiesiogiai susijusį su licencijuojama veikla, apribojimai
 
@@ -301,25 +339,29 @@ Fiziniu asmeniu, kuris verčiasi licencijuojama veikla, ar juridinio asmens, kur
 
 1. Ginklų fondas turi teisę importuoti (įvežti), eksportuoti (išvežti) visų kategorijų ginklus, jų šaudmenis, ginklų priedėlius, ginklų ir šaudmenų dalis. Krašto apsaugos ministerija turi teisę importuoti (įvežti) visų kategorijų krašto apsaugos sistemai skirtus ginklus, jų šaudmenis, ginklų priedėlius, ginklų ir šaudmenų dalis.
 
-2. Europos fizinis asmuo ar Europos juridinis asmuo, norintys importuoti (įvežti), eksportuoti (išvežti) B, C, D kategorijų ginklus, jų šaudmenis, jų dalis ir ginklų priedėlius (išskyrus šio įstatymo 4 straipsnio 1, 2, 3 punktuose ir 5 straipsnio 4 punkte nurodytus ginklus, jų dalis, kuriuos turi teisę importuoti (įvežti) tik Ginklų fondas ir Krašto apsaugos ministerija), privalo turėti licenciją. Tokią licenciją Vyriausybės nustatyta tvarka išduoda Policijos departamentas prie Vidaus reikalų ministerijos (toliau – Policijos departamentas). Licencija importuoti, eksportuoti ginklus, šaudmenis, jų dalis ir ginklų priedėlius licencijos turėtojui suteikia teisę:
+2. Europos fizinis asmuo ar Europos juridinis asmuo, norintys importuoti (įvežti), eksportuoti (išvežti) B, C, D kategorijų ginklus, jų šaudmenis, jų dalis ir ginklų priedėlius (išskyrus šio įstatymo 4 straipsnio 1, 2, 3 punktuose ir 5 straipsnio 4 punkte nurodytus ginklus, jų dalis, kuriuos turi teisę importuoti (įvežti) tik Ginklų fondas ir Krašto apsaugos ministerija), privalo turėti licenciją. Tokią licenciją Vyriausybės nustatyta tvarka išduoda Policijos departamentas. Licencija importuoti, eksportuoti ginklus, šaudmenis, jų dalis ir ginklų priedėlius licencijos ir rašytinio sutikimo turėtojui suteikia teisę:
 
 1) juos gabenti tranzitu per Lietuvos Respubliką;
 
 2) juos įvežti į Europos Sąjungos valstybę narę ar iš jos išvežti.
 
-3. Norintys importuoti, eksportuoti ar gabenti tranzitu per Lietuvos Respubliką B, C, D kategorijos ginklus, jų šaudmenis, jų dalis, importuotojas, eksportuotojas, užsienio valstybės ūkio subjektas (tik dėl gabenimo tranzitu per Lietuvos Respubliką) kiekvienai jų partijai turi gauti vienkartinį leidimą. Eksporto atveju eksportuotojas vietoj vienkartinio leidimo gali gauti daugkartinį leidimą, kai eksportuojamos kelios B, C, D kategorijos ginklų, jų šaudmenų, jų dalių partijos vienam nustatytam gavėjui, arba bendrąjį leidimą, kai eksportuojamos kelios B, C, D kategorijos ginklų, jų šaudmenų, jų dalių partijos keliems nustatytiems gavėjams. Šiuos leidimus Reglamento (ES) Nr. 258/2012 ir Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka išduoda Policijos departamentas, suderinęs su Ginklų fondu. Be šių leidimų galima eksportuoti, importuoti, gabenti tranzitu per Lietuvos Respubliką senovinius ginklus.
+3. Norintys importuoti, eksportuoti ar gabenti tranzitu per Lietuvos Respubliką B, C, D kategorijos ginklus, jų šaudmenis, jų dalis, importuotojas, eksportuotojas, užsienio valstybės ūkio subjektas (tik dėl gabenimo tranzitu per Lietuvos Respubliką) kiekvienai jų partijai turi gauti vienkartinį leidimą. Eksporto atveju eksportuotojas vietoj vienkartinio leidimo gali gauti daugkartinį leidimą, kai eksportuojamos kelios B, C, D kategorijų ginklų, jų šaudmenų, jų dalių partijos vienam nustatytam gavėjui, arba bendrąjį leidimą, kai eksportuojamos kelios B, C, D kategorijų ginklų, jų šaudmenų, jų dalių partijos keliems nustatytiems gavėjams. Šiuos leidimus Reglamento (ES) Nr. 258/2012 ir Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka išduoda Policijos departamentas. Be šių leidimų galima eksportuoti, importuoti, gabenti tranzitu per Lietuvos Respubliką senovinius ginklus.
 
-4. Tvarką, reglamentuojančią B, C, D kategorijų ginklų, jų šaudmenų, jų dalių eksportą (išvežimą), importą (įvežimą), gabenimą tranzitu per Lietuvos Respubliką, nustato Vyriausybė.
+4. B, C, D kategorijų ginklų, jų šaudmenų, jų dalių eksporto (išvežimo), importo (įvežimo), gabenimo tranzitu per Lietuvos Respubliką tvarką nustato Vyriausybė.
 
-5. Licencijos turėtojas, norintis išvežti ginklus, šaudmenis, jų dalis iš Lietuvos Respublikos į kitą Europos Sąjungos valstybę narę, turi gauti Policijos departamento leidimą vežti ginklus, šaudmenis, jų dalis. Šis leidimas galioja ne ilgiau kaip 3 metus. Policijos departamentas leidimą vežti ginklus, šaudmenis, jų dalis išduoda tik gavęs išankstinį Europos Sąjungos valstybės narės sutikimą dėl ginklų, šaudmenų, jų dalių įvežimo į Europos Sąjungos valstybę narę. Be šio leidimo galima išvežti senovinius ginklus.
+5. Licencijos ir rašytinio sutikimo turėtojas, norintis išvežti ginklus, šaudmenis, jų dalis iš Lietuvos Respublikos į kitą Europos Sąjungos valstybę narę, turi gauti Policijos departamento leidimą vežti ginklus, šaudmenis, jų dalis. Šis leidimas galioja ne ilgiau kaip 3 metus. Policijos departamentas leidimą vežti ginklus, šaudmenis, jų dalis išduoda tik gavęs išankstinį Europos Sąjungos valstybės narės sutikimą dėl ginklų, šaudmenų, jų dalių įvežimo į Europos Sąjungos valstybę narę. Be šio leidimo galima išvežti senovinius ginklus.
 
-6. Licencijos turėtojas, norintis įvežti ginklus, šaudmenis, jų dalis iš Europos Sąjungos valstybės narės į Lietuvos Respubliką, turi gauti išankstinį Policijos departamento sutikimą dėl ginklų, šaudmenų, jų dalių įvežimo į Lietuvos Respubliką. Šis išankstinis sutikimas galioja ne ilgiau kaip 3 metus. Be išankstinio sutikimo galima įvežti senovinius ginklus.
+6. Licencijos ir rašytinio sutikimo turėtojas, norintis įvežti ginklus, šaudmenis, jų dalis į Lietuvos Respubliką iš kitos Europos Sąjungos valstybės narės, turi gauti išankstinį Policijos departamento sutikimą dėl ginklų, šaudmenų, jų dalių įvežimo į Lietuvos Respubliką. Šis išankstinis sutikimas galioja ne ilgiau kaip 3 metus. Be išankstinio sutikimo galima įvežti senovinius ginklus.
 
 Straipsnio pakeitimai:
 
 Nr. XI-2155, 2012-06-29, Žin., 2012, Nr. 81-4221 (2012-07-12)
 
 Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
+
+Straipsnio pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 33 straipsnis. Ginklų ir šaudmenų nešiojimasis, gabenimas
 
@@ -479,7 +521,11 @@ Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 7) kastetai, blakštai, mėtomosios žvaigždės ir kiti šaltieji smogiamojo ir svaidomojo pobūdžio ginklai;
 
-8) elektros šoko įtaisai su iššaunamosiomis adatomis, lanksčiais laidais sujungtomis su aukštosios įtampos elektros energijos šaltiniu.
+8) elektros šoko įtaisai su iššaunamosiomis adatomis, lanksčiais laidais sujungtomis su aukštosios įtampos elektros energijos šaltiniu, išskyrus atvejus, kai juos naudoja Lietuvos Respublikos aplinkos ministerijai pavaldžios institucijos, vykdančios aplinkos apsaugos valstybinę kontrolę.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2373, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14192
 
 4. Civilinėje apyvartoje draudžiami šaltieji ginklai su automatiškai iššokančia ar atsilenkiančia geležte, kurie atitinka bent vieną iš šių kriterijų:
 
@@ -581,7 +627,11 @@ Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 10) per pastaruosius 3 metus ne mažiau kaip 2 kartus baustas už šiurkštų teisės aktų, reglamentuojančių medžioklę, reikalavimų pažeidimą;
 
-11) kuris per pastaruosius 3 metus ne mažiau kaip 2 kartus padarė administracinius teisės pažeidimus, būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;
+11) kuris, būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, per pastaruosius 3 metus ne mažiau kaip 2 kartus padarė administracinius nusižengimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 12) kuriam leidimas nešiotis, leidimas laikyti ginklą buvo panaikintas ar nepratęstas šio straipsnio pagrindais, taip pat už kitus ginklų apyvartos pažeidimus, ir nuo to laiko nėra praėję 3 metai.
 
@@ -685,9 +735,17 @@ Ginklų ir šaudmenų nuosavybės teisės subjektais gali būti valstybė, fizin
 
 5. Elektros šoko įtaisas – nešaunamasis ginklas, sukonstruotas ar pritaikytas tiesiogiai prisilietus ar per atstumą paveikti taikinį elektros srove.
 
-6. Europos fizinis asmuo – Lietuvos Respublikos ar kitos valstybės narės pilietis ar nuolatinis gyventojas.
+6. Europos fizinis asmuo – Lietuvos Respublikos ar kitos valstybės narės pilietis arba kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis.
 
-7. Europos juridinis asmuo – Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
+
+7. Europos juridinis asmuo – Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo, kita organizacija arba jų padalinys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 8. Europos šaunamojo ginklo leidimas – dokumentas, patvirtinantis šaunamojo ginklo priklausymą asmeniui ir suteikiantis teisę šį ginklą bei jam skirtus šaudmenis įvežti į Europos Sąjungos valstybes nares.
 
@@ -861,7 +919,11 @@ Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 
 12 straipsnis. Bendrieji leidimų išdavimo reikalavimai
 
-1. Leidimus įsigyti ginklus, leidimus laikyti ir leidimus nešiotis A, B, C kategorijų ginklus išduoda policijos įstaigos, gavusios asmenų rašytinius prašymus arba elektroninėmis priemonėmis per Paslaugų ir gaminių kontaktinį centrą arba Policijos elektroninių paslaugų sistemą, pagal kuriuos galima identifikuoti juos pateikusį asmenį (toliau šiame straipsnyje – prašymas).
+1. Leidimus įsigyti ginklus, leidimus laikyti ir leidimus nešiotis A, B, C kategorijų ginklus išduoda policijos įstaigos, gavusios asmenų prašymus per atstumą, elektroninėmis priemonėmis per Paslaugų ir gaminių kontaktinį centrą ar Policijos elektroninių paslaugų sistemą arba tiesiogiai, pagal kuriuos galima identifikuoti juos pateikusį asmenį (toliau šiame straipsnyje – prašymas).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 2. Leidimai laikyti ar leidimai nešiotis A, B, C kategorijų ginklus išduodami:
 
@@ -873,7 +935,11 @@ Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 
 3. Patikrinimus, siekdamos nustatyti, ar asmenims, pretenduojantiems gauti leidimus įsigyti ginklus, leidimus laikyti ar leidimus nešiotis A, B, C kategorijų ginklus, netaikomi šio įstatymo nustatyti apribojimai, atlieka policijos įstaigos, gavusios prašymą. Patikrinimai atliekami, sprendimas dėl leidimo įsigyti ginklus išdavimo priimamas ir leidimas įsigyti ginklus išduodamas arba jį išduoti atsisakoma ne vėliau kaip per 10 kalendorinių dienų nuo prašymo pateikimo dienos, o dėl leidimo laikyti ar leidimo nešiotis A, B, C kategorijų ginklus išdavimo – ne vėliau kaip per 30 kalendorinių dienų nuo prašymo pateikimo dienos.
 
-4. Policijos įstaiga, gavusi prašymą, ne vėliau kaip per 5 darbo dienas raštu arba elektroninėmis priemonėmis per Paslaugų ir gaminių kontaktinį centrą arba Policijos elektroninių paslaugų sistemą išsiunčia pareiškėjui patvirtinimą, kad prašymas gautas. Patvirtinime taip pat nurodoma šio straipsnio 3 dalyje nurodytas terminas leidimui išduoti, sprendimo apskundimo tvarka bei terminai ir tai, kad tuo atveju, jeigu pareiškėjas ar jo įgaliotas asmuo atitinkamai per 10 ar per 30 kalendorinių dienų nuo prašymo pateikimo dienos negauna jokio atsakymo, yra laikoma, kad priimamas teigiamas sprendimas.
+4. Policijos įstaiga, gavusi prašymą, ne vėliau kaip per 5 darbo dienas per atstumą arba elektroninėmis priemonėmis per Paslaugų ir gaminių kontaktinį centrą ar Policijos elektroninių paslaugų sistemą išsiunčia pareiškėjui ar jo įgaliotam asmeniui patvirtinimą, kad prašymas gautas. Patvirtinime taip pat nurodoma šio straipsnio 3 dalyje nurodytas terminas leidimui išduoti, sprendimo apskundimo tvarka bei terminai ir tai, kad tuo atveju, jeigu pareiškėjas ar jo įgaliotas asmuo atitinkamai per 10 kalendorinių dienų ar per 30 kalendorinių dienų nuo prašymo pateikimo dienos negauna jokio atsakymo, yra laikoma, kad priimamas teigiamas sprendimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 5. Leidimas laikyti ginklus suteikia teisę įsigyti jame nurodytus ginklus ir šaudmenis turimiems ginklams.
 
@@ -888,6 +954,12 @@ Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 10. Leidimai įsigyti ginklus, leidimai laikyti ir leidimai nešiotis A, B, C kategorijų ginklus, jų šaudmenis fiziniams ir juridiniams asmenims išduodami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Fiziniams asmenims gali būti išduodamas vienas leidimas laikyti (nešiotis) ginklus. Šiame leidime nurodoma, kokius ginklus asmuo gali laikyti, kokius – nešiotis. Dėl šio įstatymo 5 straipsnio 5, 6, 7 ir 8 punktuose nurodytų ginklų gali būti išduodamas vienas bendras neterminuotas leidimas laikyti (nešiotis) ginklus. Išduodant šioje dalyje nurodytus leidimus, ginklų identifikaciniai duomenys į leidimus neįrašomi.
 
 11. Leidimas įsigyti ginklus, leidimas laikyti ir leidimas nešiotis A, B, C kategorijų ginklus nepaprastosios ir karo padėties metu, kitais šio įstatymo nustatytais atvejais neišduodamas.
+
+12. Leidimas įsigyti, leidimas laikyti ir leidimas nešiotis B, C kategorijų ginklus neišduodamas fiziniam asmeniui, dėl kurio dėl mokestinės nepriemokos ar baudos už administracinį nusižengimą priimtas sprendimas dėl priverstinio išieškojimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 Straipsnio pakeitimai:
 
@@ -975,11 +1047,11 @@ Straipsnio pakeitimai:
 
 Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 
-21 straipsnis. Bendrosios licencijos turėtojų pareigos
+21 straipsnis. Bendrosios licencijos ir rašytinio sutikimo turėtojų pareigos
 
-1. Už šiame skirsnyje nurodytų reikalavimų laikymąsi yra atsakingas licencijos turėtojas.
+1. Už šiame skirsnyje nurodytų reikalavimų laikymąsi yra atsakingas licencijos ir rašytinio sutikimo turėtojas.
 
-2. Licencijos turėtojas privalo:
+2. Licencijos ir rašytinio sutikimo turėtojas privalo:
 
 1) užtikrinti ginklų, šaudmenų, jų dalių apskaitą, laikymą ir apsaugą;
 
@@ -991,11 +1063,11 @@ Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 
 5) kontroliuojančiųjų institucijų reikalavimu pateikti informaciją apie darbuotojus, dirbančius tiesiogiai su licencijuojama veikla susijusį darbą, ir jų asmens duomenis;
 
-6) sudaryti sąlygas kontroliuojančiųjų valstybės institucijų darbuotojams tikrinti su licencijuojama veikla susijusią veiklą;
+6) sudaryti sąlygas kontroliuojančiųjų institucijų valstybės tarnautojams tikrinti su licencijuojama veikla susijusią veiklą;
 
 7) gaminti, sandėliuoti, laikyti, realizuoti, taisyti, perdirbti, naudoti ginklus, šaudmenis tik tose patalpose, kurios atitinka Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus;
 
-8) prieš priimdamas į darbą naują darbuotoją, kurio darbas yra tiesiogiai susijęs su licencijuojama veikla, pateikti teritorinei policijos įstaigai šio asmens duomenis (vardą, pavardę, asmens kodą, gyvenamosios vietos adresą) ir medicininio patikrinimo išvadas, patvirtinančias, kad jis neserga ligomis ar neturi fizinių trūkumų, trukdančių tinkamai elgtis su ginklu, nėra įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos, nėra sveikatos priežiūros įstaigos priežiūroje dėl psichikos ligos ar sutrikimo;
+8) prieš priimdamas į darbą naują darbuotoją, kurio darbas yra tiesiogiai susijęs su licencijuojama veikla, pateikti teritorinei policijos įstaigai šio asmens duomenis (vardą, pavardę, asmens kodą, gyvenamosios vietos adresą) ir medicininio patikrinimo išvadas, patvirtinančias, kad jis neserga ligomis ar neturi fizinių trūkumų, trukdančių tinkamai elgtis su ginklu, nėra įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos, nėra sveikatos priežiūros įstaigos prižiūrimas dėl psichikos ligos ar sutrikimo;
 
 9) ginklų, šaudmenų, jų dalių, ginklų priedėlių apskaitos žurnalus ir kitus dokumentus saugoti ne mažiau kaip 20 metų nuo paskutinio įrašo padarymo dienos, neatsižvelgiant į tai, ar verčiamasi licencijuojama veikla, ar ne (likvidavus juridinį asmenį ar mirus fiziniam asmeniui, apskaitos dokumentai perduodami policijos įstaigoms, kurios tvarko civilinėje apyvartoje esančių ginklų, jų savininkų ir valdytojų apskaitą);
 
@@ -1003,11 +1075,13 @@ Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 
 11) Vyriausybės nustatyta tvarka įvežęs į Lietuvos Respubliką ginklus, šaudmenis, ne vėliau kaip per 5 darbo dienas, o norėdamas išvežti ginklus, šaudmenis iš Lietuvos Respublikos, ne vėliau kaip prieš 5 darbo dienas iki numatomo ginklų, šaudmenų išvežimo elektroninėmis priemonėmis per Policijos elektroninių paslaugų sistemą pateikti įvežtų ar numatomų išvežti B ir C kategorijų šaunamųjų ginklų identifikacinius duomenis (ginklo šalį gamintoją ir gamybos vietą, markę, modelį, kalibrą, gamintojo pavadinimą, pagaminimo metus ir numerį), šaudmenų duomenis (identifikacinį gamintojo žymenį, gamintojo pavadinimą, šaudmenų partijos identifikacinį numerį, kalibrą ir šaudmenų tipą, kiekį), ginklų, šaudmenų tiekėjų ar gavėjų duomenis (pavadinimą, vardą, pavardę, adresą) policijos įstaigoms, kurios tvarko civilinėje apyvartoje esančių ginklų, jų savininkų ir valdytojų apskaitą.
 
-3. Licencijos turėtojui draudžiama:
+3. Licencijos ir rašytinio sutikimo turėtojui draudžiama:
 
 1) pavesti, įgalioti ar kitaip perleisti teisę verstis licencijoje nurodyta veikla kitam asmeniui, išskyrus sandorių sudarymą per tarpininkus, turinčius šio įstatymo nustatyta tvarka išduotą prekybos ginklais tarpininko registravimo pažymėjimą;
 
-2) verstis licencijuojama veikla objektuose, kuriems neišduotas teritorinės policijos įstaigos leidimas.
+2) verstis licencijuojama veikla objektuose, kuriems neišduotas teritorinės policijos įstaigos leidimas;
+
+3) verstis licencijuojama veikla, kai sustabdytas licencijos ar rašytinio sutikimo galiojimas.
 
 4. Ginklų apskaitos tvarką nustato Vyriausybės įgaliota institucija.
 
@@ -1015,11 +1089,23 @@ Straipsnio pakeitimai:
 
 Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 
+Straipsnio pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
+
 22 straipsnis. Ginklų, jų dalių ir šaudmenų gamyba
 
-1. Licenciją verstis ginklų, A kategorijos ginklų priedėlių, šaudmenų, jų dalių gamyba Vyriausybės nustatyta tvarka išduoda Ginklų fondas.
+1. Licenciją verstis ginklų, A kategorijos ginklų priedėlių, šaudmenų, jų dalių gamyba Vyriausybės nustatyta tvarka išduoda Policijos departamentas.
 
-2. A kategorijos ginklai, jų šaudmenys, A kategorijos ginklų priedėliai gali būti gaminami tik suderinus su Ginklų fondu.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
+
+2. A kategorijos ginklai, jų šaudmenys, A kategorijos ginklų priedėliai gali būti gaminami tik suderinus su Policijos departamentu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 3. Visi Europos juridiniai asmenys, gaminantys ginklus, šaudmenis, privalo užtikrinti gamybos saugumą, kontrolę ir gaminių kokybę. Pagamintas ginklas ir šaudmenys turi atitikti techniniuose dokumentuose nurodomus parametrus.
 
@@ -1109,7 +1195,11 @@ Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 
 26 straipsnis. Ginklų taisymas, ginklų ir šaudmenų perdirbimas
 
-1. Europos fizinis asmuo ar Europos juridinis asmuo, norintys taisyti ginklus, perdirbti ginklus ir šaudmenis, privalo gauti licenciją. Šią licenciją Vyriausybės nustatyta tvarka išduoda Ginklų fondas. Licencija taisyti ginklus, perdirbti ginklus ir šaudmenis suteikia teisę įsigyti Lietuvos Respublikoje ir įsivežti iš užsienio valstybių šiai veiklai reikalingas ginklų dalis.
+1. Europos fizinis asmuo ar Europos juridinis asmuo, norintys taisyti ginklus, perdirbti ginklus ir šaudmenis, privalo gauti licenciją. Šią licenciją Vyriausybės nustatyta tvarka išduoda Policijos departamentas. Licencija taisyti ginklus, perdirbti ginklus ir šaudmenis suteikia teisę įsigyti Lietuvos Respublikoje ir įsivežti iš užsienio valstybių šiai veiklai reikalingas ginklų dalis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 2. Lietuvos Respublikoje ginklus, jų pagrindines dalis gali taisyti, perdirbti tik fizinis asmuo ar juridinis asmuo, turintys licenciją taisyti ir perdirbti ginklus.
 
@@ -1129,7 +1219,11 @@ Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 
 28 straipsnis. Ginklų nuoma
 
-1. Europos fizinis asmuo ar Europos juridinis asmuo, norintys nuomoti ginklus medžioklei, sportui, profesinei veiklai ar mokymui, privalo gauti licenciją. Šią licenciją Vyriausybės nustatyta tvarka išduoda Policijos departamentas. Licencija nuomoti ginklus suteikia teisę licencijos turėtojui įsigyti šaudmenų iš subjektų, turinčių teisę prekiauti šaudmenimis, ir juos parduoti asmeniui, išsinuomojusiam ginklą.
+1. Europos fizinis asmuo ar Europos juridinis asmuo, norintys nuomoti ginklus medžioklei, sportui, profesinei veiklai ar mokymui, privalo gauti licenciją. Šią licenciją Vyriausybės nustatyta tvarka išduoda Policijos departamentas. Licencija nuomoti ginklus suteikia teisę licencijos ir rašytinio sutikimo turėtojui įsigyti šaudmenų iš subjektų, turinčių teisę prekiauti šaudmenimis, ir juos parduoti asmeniui, išsinuomojusiam ginklą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 2. Subjektas, turintis licenciją nuomoti ginklus, turi teisę medžioklei nuomoti B ir C kategorijų medžioklinius ginklus, o sportui, profesinei veiklai ar mokymui – B, C ir D kategorijų ginklus.
 
@@ -1161,7 +1255,11 @@ Ginklininkas privalo:
 
 5) nedelsdamas pranešti policijos įstaigai apie ginklų, šaudmenų, jų dalių vagystę ar praradimą;
 
-6) sudaryti sąlygas kontroliuojančiųjų valstybės institucijų pareigūnams patekti į ginklų, šaudmenų gamybos, taisymo ir perdirbimo, prekybos, laikymo, nuomos, tirų, šaudyklų eksploatavimo vietas ir teikti jiems reikiamą pagalbą atliekant patikrinimą.
+6) sudaryti sąlygas kontroliuojančiųjų institucijų valstybės tarnautojams patekti į ginklų, šaudmenų gamybos, taisymo ir perdirbimo, prekybos, laikymo, nuomos, tirų, šaudyklų eksploatavimo vietas ir teikti jiems reikiamą pagalbą atliekant patikrinimą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 30 straipsnis. Ginklo, šaudmenų savininko, valdytojo, naudotojo pareigos
 
@@ -1175,7 +1273,11 @@ Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 2) įsirengti tinkamas sąlygas laikyti ginklą, šaudmenis ir laikytis ginklo, šaudmenų laikymo reikalavimų;
 
-3) sudaryti sąlygas kontroliuojančiųjų valstybės institucijų tarnautojams patekti į ginklų, šaudmenų laikymo vietas ir jų reikalavimu pateikti patikrinti ginklą, šaudmenis ir leidimą nešiotis ar leidimą laikyti ginklus, šaudmenis, taip pat ginklo pažymėjimą;
+3) sudaryti sąlygas kontroliuojančiųjų institucijų valstybės tarnautojams patekti į ginklų, šaudmenų laikymo vietas ir jų reikalavimu pateikti patikrinti ginklą, šaudmenis ir leidimą nešiotis ar leidimą laikyti ginklus, šaudmenis, taip pat ginklo pažymėjimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 4) teisėsaugos institucijų pareigūnų reikalavimu pateikti ginklus, šaudmenis ir leidimą juos nešiotis ar leidimą laikyti, taip pat ginklo pažymėjimą;
 
@@ -1205,21 +1307,21 @@ Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 7) ilgąjį šaunamąjį ginklą nešiotis medžioklės plotuose neturint teisės medžioti;
 
-8) sudaryti kliūtis kontroliuojančiųjų institucijų pareigūnams apžiūrėti ginklus, šaudmenis, jų laikymo vietas ir ginklų, šaudmenų įsigijimo, laikymo, apskaitos dokumentus.
+8) sudaryti kliūtis kontroliuojančiųjų institucijų valstybės tarnautojams apžiūrėti ginklus, šaudmenis, jų laikymo vietas ir ginklų, šaudmenų įsigijimo, laikymo, apskaitos dokumentus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 Straipsnio pakeitimai:
 
 Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 
-31 straipsnis. D kategorijos ginklo savininko pareigos
+31 straipsnis. D kategorijos ginklo savininko ir naudotojo pareigos
 
-1. D kategorijos ginklo savininkas privalo:
+1. D kategorijos ginklo savininkas ir naudotojas privalo:
 
 1) dujinį ginklą nešiotis taip, kad kiti asmenys jo nematytų. Matomoje vietoje dėkle ginklą gali nešiotis uniformuotas valstybės institucijų pareigūnas, uniformuotas šaulys, karys savanoris ar kitas aktyviojo rezervo karys, vykdydami tarnybines funkcijas, ar asmuo, turintis ginklą profesinei veiklai vykdyti;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 2) ne vėliau kaip per 5 darbo dienas informuoti teritorinę policijos įstaigą apie kitam asmeniui perduotą naudoti D kategorijos ginklą, nurodydamas ginklo markę, modelį, numerį ir asmens, kuriam perduotas naudoti ginklas, vardą, pavardę ir gyvenamosios vietos adresą;
 
@@ -1229,7 +1331,7 @@ Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 5) panaudojęs ginklą, nevartoti alkoholinių gėrimų, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, iki bus patikrintas blaivumas ar apsvaigimas arba bus atsisakyta tai atlikti.
 
-2. D kategorijos ginklo savininkui draudžiama:
+2. D kategorijos ginklo savininkui ir naudotojui draudžiama:
 
 1) ginklą ar šaudmenis perduoti naudoti be priežiūros asmenims, neturintiems 18 metų, o naudojant sportui, – asmenims, neturintiems 16 metų;
 
@@ -1239,9 +1341,15 @@ Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
 
 4) užtaisyti senovinius ginklus, taip pat šaudyti iš jų ar kitaip panaudoti juos kaip ginklus.
 
+3. D kategorijos ginklo naudotojui draudžiama be D kategorijos ginklo savininko rašytinio sutikimo ginklą perduoti kitam asmeniui naudoti.
+
 Straipsnio pakeitimai:
 
 Nr. XII-978, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09407
+
+Straipsnio pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 AŠTUNTASIS SKIRSNIS
 
@@ -1365,7 +1473,11 @@ ginklų IR ŠAUDMENų įvežimas, išvežimas,  GABENIMAS LIETUVOS RESPUBLIKOje
 
 6. Tvarką, reglamentuojančią ginklų, šaudmenų, jų dalių kolekcijų sudarymą, laikymą, eksponavimą, likvidavimą, ginklų, šaudmenų perdirbimą kolekcijoms, nustato Vyriausybė arba jos įgaliota institucija.
 
-7. Pažymą, kad ginklas yra visiškai netinkamas naudoti, išduoda Ginklų fondas.
+7. Pažymą, kad ginklas yra visiškai netinkamas naudoti, išduoda policijos įstaigos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 
 41 straipsnis. Ginklų, ginklų priedėlių, šaudmenų, jų dalių paėmimas
 
