@@ -4,7 +4,7 @@ identifier: "TAR.58398896D322"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-22"
-last_updated: "2016-06-09"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.58398896D322"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "34 str. 1 dalis įsigalioja 2012-01-06"
 
 LIETUVOS RESPUBLIKOS PROBACIJOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2016-06-09 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-09-30
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 4-108, i. k. 1111010ISTA0XI-1860
 
@@ -104,7 +104,11 @@ BENDRADARBIAVIMAS SU VALSTYBĖS IR SAVIVALDYBIŲ InstitucijoMIS, įstaigoMIS, or
 
 1. Probacijos tarnybos bendradarbiauja su valstybės ir savivaldybių institucijomis ir įstaigomis.
 
-2. Policijos įstaigos vykdo probuojamųjų, kurių buvimo vieta nežinoma, paiešką, praneša probacijos tarnyboms apie probuojamųjų padarytus administracinius teisės pažeidimus ir probuojamiesiems pradėtus ikiteisminius tyrimus.
+2. Policijos įstaigos vykdo probuojamųjų, kurių buvimo vieta nežinoma, paiešką, praneša probacijos tarnyboms apie probuojamųjų padarytus administracinius nusižengimus ir probuojamiesiems pradėtus ikiteisminius tyrimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2712, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26511
 
 3. Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas), laisvės atėmimo vietų įstaigos ir probacijos tarnybos kartu planuoja ir organizuoja nusikalstamo elgesio rizikos (toliau – rizika) vertinimų ir resocializacijos priemonių nuteistiesiems, atliekantiems laisvės atėmimo bausmę, diegimą laisvės atėmimo vietų įstaigose ir vertina jų veiksmingumą.
 
@@ -384,11 +388,19 @@ Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
 
 22 straipsnis. Probuojamojo priežiūros vykdymo sustabdymas
 
-Probacijos tarnybos direktoriaus ar jo įgalioto probuotojo sprendimu probuojamojo priežiūros vykdymas gali būti laikinai sustabdytas, kol probacijos vykdymo metu probuojamajam taikoma kardomoji priemonė – suėmimas arba administracinė nuobauda – administracinis areštas. Šis laikas įskaitomas į probacijos laikotarpį, jeigu probuojamasis vėliau buvo išteisintas arba baudžiamoji byla ar ikiteisminis tyrimas jam buvo nutrauktas, arba kardomoji priemonė ar administracinė nuobauda buvo pripažinta nepagrįsta (neteisėta).
+Probacijos tarnybos direktoriaus ar jo įgalioto probuotojo sprendimu probuojamojo priežiūros vykdymas gali būti laikinai sustabdytas, kol probacijos vykdymo metu probuojamajam taikoma kardomoji priemonė – suėmimas. Šis laikas įskaitomas į probacijos laikotarpį, jeigu probuojamasis vėliau buvo išteisintas arba baudžiamoji byla ar ikiteisminis tyrimas jam buvo nutrauktas, arba kardomoji priemonė buvo pripažinta nepagrįsta (neteisėta).
+
+Straipsnio pakeitimai:
+
+Nr. XII-2712, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26511
 
 23 straipsnis. Probuojamojo priežiūros vykdymo nutraukimas prieš terminą
 
-1. Probacijos tarnybos teikimu apylinkės teismas gali prieš terminą nutraukti vykdomą probuojamojo priežiūrą, jam faktiškai atlikus ne mažiau kaip tris ketvirtadalius, o nepilnamečiui probuojamajam – du trečdalius probacijos termino, kai jo rizika ir elgesys probacijos vykdymo metu rodo, kad probacijos tikslai gali būti pasiekti be tolesnės probuojamojo priežiūros, jeigu probuojamasis nepažeidė probacijos sąlygų, nepadarė administracinių teisės pažeidimų, nepadarė arba nėra įtariamas ar kaltinamas naujos nusikalstamos veikos padarymu.
+1. Probacijos tarnybos teikimu apylinkės teismas gali prieš terminą nutraukti vykdomą probuojamojo priežiūrą, jam faktiškai atlikus ne mažiau kaip tris ketvirtadalius, o nepilnamečiui probuojamajam – du trečdalius probacijos termino, kai jo rizika ir elgesys probacijos vykdymo metu rodo, kad probacijos tikslai gali būti pasiekti be tolesnės probuojamojo priežiūros, jeigu probuojamasis nepažeidė probacijos sąlygų, nepadarė administracinių nusižengimų, nepadarė arba nėra įtariamas ar kaltinamas naujos nusikalstamos veikos padarymu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2712, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26511
 
 2. Jeigu teismas nenutraukia probuojamojo priežiūros vykdymo prieš terminą, pakartotinis teikimas galimas ne anksčiau kaip po šešių mėnesių nuo teismo nutarties atsisakyti nutraukti prieš terminą probuojamojo priežiūros vykdymą priėmimo dienos.
 
@@ -458,11 +470,15 @@ PROBACIJOS SĄLYGŲ KEITIMAS. PROBACIJOS VYKDYMO IR VENGIMO VYKDYTI TEISINĖS PA
 
 2. Jeigu probuojamasis probacijos vykdymo laikotarpiu:
 
-1) dėl pateisinamų priežasčių per teismo nustatytą laiką neįvykdė probacijos sąlygų, teismas probacijos tarnybos teikimu šį laiką gali pratęsti. Paskirtas ir pratęstas laikas negali būti ilgesnis už bausmės vykdymo atidėjimo ar likusios bausmės laiką;
+1) dėl pateisinamų priežasčių per teismo nustatytą laiką neįvykdo probacijos sąlygų, teismas probacijos tarnybos teikimu šį laiką gali pratęsti. Paskirtas ir pratęstas laikas negali būti ilgesnis už bausmės vykdymo atidėjimo ar likusios bausmės laiką;
 
-2) vykdo probacijos sąlygas, tačiau padaro kitų teisės pažeidimų, už kuriuos jam taikytos administracinės nuobaudos, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu gali jam papildomai paskirti Lietuvos Respublikos baudžiamojo kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių ir (ar) šio kodekso 75 straipsnio 2 ar 3 dalyje numatytų pareigų arba šio kodekso 82 straipsnyje numatytų auklėjamojo poveikio priemonių arba priimti sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį, kai pagrįstai manoma, kad probacijos tikslo nebus įmanoma pasiekti skirtinomis baudžiamojo poveikio priemonėmis ir (ar) pareigomis arba auklėjamojo poveikio priemonėmis;
+2) vykdo probacijos sąlygas, tačiau padaro administracinių nusižengimų, už kuriuos jam taikytos administracinės nuobaudos ir (ar) administracinio poveikio priemonės, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu gali jam papildomai paskirti Lietuvos Respublikos baudžiamojo kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių ir (ar) šio kodekso 75 straipsnio 2 ar 3 dalyje numatytų pareigų arba šio kodekso 82 straipsnyje numatytų auklėjamojo poveikio priemonių arba priimti sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį, kai pagrįstai manoma, kad probacijos tikslo nebus įmanoma pasiekti skirtinomis baudžiamojo poveikio priemonėmis ir (ar) pareigomis arba auklėjamojo poveikio priemonėmis;
 
-3) be pateisinamų priežasčių nevykdo probacijos sąlygų arba ir po papildomų probacijos sąlygų paskyrimo jų nevykdo ar padaro teisės pažeidimą, už kurį jam taikyta administracinė nuobauda, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu priima sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį.
+3) be pateisinamų priežasčių nevykdo probacijos sąlygų arba ir po papildomų probacijos sąlygų paskyrimo jų nevykdo ar padaro administracinį nusižengimą, už kurį jam taikyta administracinė nuobauda ir (ar) administracinio poveikio priemonė, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu priima sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2712, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26511
 
 3. Probacijos tarnyba, nustačiusi šio straipsnio 2 dalies 2 ar 3 punkte nurodytus probuojamojo padarytus teisės pažeidimus ir (ar) probacijos sąlygų nevykdymo atvejus, teikimą teismui pateikia nedelsdama, bet ne vėliau kaip per vieną darbo dieną.
 
@@ -551,4 +567,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2408, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15663
 
 Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 30 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2712, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26511
+
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 6, 22, 23 ir 30 straipsnių pakeitimo įstatymas
 
