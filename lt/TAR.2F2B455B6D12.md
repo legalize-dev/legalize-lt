@@ -4,7 +4,7 @@ identifier: "TAR.2F2B455B6D12"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2006-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2F2B455B6D12"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos įmonių ir organizacijų nekilnojamojo turto mokesčio įstatymo, Kelių priežiūros ir plėtros programos finansavimo įstatymo, Garantinio fondo įstatymo, Rinkliavų įstatymo, Mokesčių už pramoninės nuosavybės objektų registravimą įstatymo, Mokesčio už aplinkos teršimą įstatymo, Konsulinio mokesčio įstatymo, Lietuvos banko įstatymo pakeitimo ir papildymo įstatymas
 
-Suvestinė redakcija nuo 2006-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 61-2188, i. k. 1041010ISTA0IX-2139
 
@@ -47,11 +47,17 @@ Papildyti 4 straipsnio 6 dalį 10 punktu:
 
 „10) Lietuvos bankas.“
 
-TREČIASIS SKIRSNIS
+3 skirsnis. Neteko galios nuo 2017-01-01
 
-GARANTINIO FONDO ĮSTATYMO 1 STRAIPSNIO PAKEITIMAS
+Skirsnio naikinimas:
 
-(Žin., 2000, Nr. 82-2478)
+Nr. XII-2604, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23708
+
+KETVIRTASIS SKIRSNIS
+
+RINKLIAVŲ ĮSTATYMO 3 STRAIPSNIO PAKEITIMAS
+
+(Žin., 2000, Nr. 52-1484; 2001, Nr. 62-2233)
 
 „3 straipsnis. Rinkliavų mokėtojai
 
