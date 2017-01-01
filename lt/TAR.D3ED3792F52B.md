@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2016-11-17"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2016-11-17 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-13
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -865,10 +865,6 @@ Nr. X-1349, 2007-12-04, Žin., 2007, Nr. 135-5453 (2007-12-21)
 
 1) valstybės ir savivaldybių institucijose ir įstaigose – valstybės ir savivaldybių institucijų ir įstaigų vadovai;
 
-2) Lietuvos Respublikos Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, Lietuvos vyriausiojo administracinio teismo ir kitų teismų – šių teismų pirmininkai;
-
-2 punkto redakcija nuo 2017-01-01:
-
 2) teismuose – atitinkamo teismo kancleris;
 
 Straipsnio punkto pakeitimai:
@@ -987,19 +983,13 @@ Nr. XII-27, 2012-12-04, Žin., 2012, Nr. 143-7378 (2012-12-11)
 
 4) valstybės ir savivaldybių institucijose ir įstaigose – tų institucijų ir įstaigų vadovai;
 
-5) Lietuvos Respublikos Konstituciniame Teisme, Lietuvos Aukščiausiajame Teisme, Lietuvos vyriausiajame administraciniame teisme – teismo kancleris, o teismo kanclerį – teismo pirmininkas;
-
-5 punkto redakcija nuo 2017-01-01:
-
 5) teismuose – atitinkamo teismo kancleris, o teismo kanclerį – teismo pirmininkas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1496, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20797
 
-6) kituose teismuose – teismo pirmininkas;
-
-6 punktas netenka galios nuo 2017-01-01.
+6) neteko galios nuo 2017-07-01;
 
 Straipsnio punkto pakeitimai:
 
