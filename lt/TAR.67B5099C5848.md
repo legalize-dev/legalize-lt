@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2016-10-07"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr. –––––
 
-Suvestinė redakcija nuo 2016-10-07 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-27
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
 
@@ -967,7 +967,11 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 1. Jeigu šaukiamas asmuo be svarbios priežasties neatvyko į teismą, jis teisėjo arba teismo nutartimi gali būti atvesdinamas. Už neatvykimą į teismą ar atsisakymą teisme duoti parodymus, paaiškinimus ar išvadą gali būti skiriama bauda iki 300 eurų arba skiriamas iki vieno mėnesio areštas.
 
-2. Už žinomai melagingų liudytojo parodymų, eksperto melagingos išvados, specialisto melagingo paaiškinimo ar išvados davimą, žinomai neteisingą vertėjo vertimą asmenys atsako Lietuvos Respublikos baudžiamojo kodekso ir Lietuvos Respublikos administracinių teisės pažeidimų kodekso nustatyta tvarka. Apie tai liudytojas, specialistas, ekspertas, vertėjas pasirašytinai įspėjami bylą nagrinėjančio teisėjo ar teismo.
+2. Už melagingų liudytojo parodymų, eksperto melagingos išvados, specialisto melagingo paaiškinimo davimą, melagingą ar žinomai neteisingą vertėjo vertimą asmenys atsako Lietuvos Respublikos baudžiamojo kodekso nustatyta tvarka. Apie tai liudytojas, specialistas, ekspertas, vertėjas pasirašytinai įspėjami bylą nagrinėjančio teisėjo ar teismo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2718, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26503
 
 59 straipsnis. Liudytojas
 
