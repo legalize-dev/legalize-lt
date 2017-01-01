@@ -4,7 +4,7 @@ identifier: "TAR.23C5BC14E2B6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-10-22"
-last_updated: "2015-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.23C5BC14E2B6"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karo policijos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-12-28
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 98-2713, i. k. 0981010ISTAVIII-911
 
@@ -244,13 +244,17 @@ Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010IS
 
 1. Karo policininkas asmeniškai atsako už savo sprendimus, veiksmus ir jų pasekmes.
 
-2. Už padarytas nusikalstamas veikas ir administracinius teisės pažeidimus karo policininkas atsako Lietuvos Respublikos įstatymų nustatyta tvarka. Už drausminius nusižengimus karo policininkas atsako drausmės statutų nustatyta tvarka.
+2. Už padarytas nusikalstamas veikas ir administracinius nusižengimus karo policininkas atsako Lietuvos Respublikos baudžiamojo kodekso ir Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka. Už drausminius nusižengimus karo policininkas atsako drausmės statutų nustatyta tvarka.
+
+TAR pastaba. 15 straipsnio 2 dalies nuostatos taikomos ir tais atvejais, kai yra padaryti administraciniai teisės pažeidimai, numatyti Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. 1031010ISTA0IX-1434
 
 Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010ISTA0XI-1635
+
+Nr. XII-2522, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20280
 
 3. Karo policininkas neturi vykdyti akivaizdžiai neteisėto įsakymo. Apie tokio įsakymo gavimą jis turi pranešti karo policijos vadovybei. Akivaizdžiai neteisėto įsakymo vykdymas karo policininko nuo atsakomybės neatleidžia.
 
@@ -489,6 +493,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1446, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20787
 
 Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 papildymo penktuoju-1 skirsniu įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2522, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20280
+
+Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 15 straipsnio pakeitimo įstatymas
 
 181 straipsnis. Prievartos rūšys ir jos panaudojimo sąlygos
 
