@@ -4,7 +4,7 @@ identifier: "TAR.CF3E2829B861"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-01-08"
-last_updated: "2015-11-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CF3E2829B861"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-10-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 8-161, i. k. 0981010ISTAVIII-602
 
@@ -548,6 +548,14 @@ Nr. XII-1972, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16902
 
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 17, 18 ir 20 straipsnių pakeitimo įstatymas
 
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-161, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29855
+
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 10-3 straipsnio pakeitimo įstatymas
+
 81 straipsnis. Į I sąrašą įtrauktų medžiagų siuntimas
 
 Į I sąrašą įtrauktas medžiagas siųsti paštu draudžiama, išskyrus Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka diplomatiniu ar registruotu (greituoju) paštu Europos Sąjungos valstybių narių ir pagal tarptautinius susitarimus diplomatiniu ar registruotu (greituoju) paštu trečiųjų šalių kompetentingoms institucijoms siunčiamus arba iš jų gaunamus šių medžiagų pavyzdžius, siekiant atskleisti ir tirti nusikalstamas veikas, vykdyti baudžiamąjį persekiojimą, atlikti ekspertizes ar objektų tyrimus.
@@ -678,9 +686,13 @@ Juridinis asmuo nelaikomas nepriekaištingos reputacijos, jeigu:
 
 3) juridinio asmens valdymo organų nariai teisti už tyčinį nusikaltimą, numatytą Lietuvos Respublikos baudžiamajame kodekse ar kitų valstybių baudžiamuosiuose įstatymuose, – jeigu teistumas neišnykęs ar nepanaikintas;
 
-4) juridinio asmens valdymo organų nariai per pastaruosius vienus metus padarė administracinį teisės pažeidimą, numatytą Lietuvos Respublikos administracinių teisės pažeidimų kodekso 44, 441, 442, 443, 1071 ir 1072 straipsniuose, ir jiems buvo paskirta administracinė nuobauda ar jie buvo patraukti atsakomybėn už analogiškas veikas, numatytas kitų valstybių įstatymuose, reglamentuojančiuose tokius pažeidimus.
+4) juridinio asmens valdymo organų nariai per pastaruosius vienus metus padarė administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 62, 65, 66, 71, 339 ir 340 straipsniuose, ir jiems buvo paskirta administracinė nuobauda ar jie buvo patraukti atsakomybėn už analogiškas veikas, numatytas kitų valstybių įstatymuose.
 
-TAR pastaba. 103 straipsnyje nustatyti apribojimai netaikomi juridiniams asmenims ir užsienio juridinių asmenų filialams, kurie iki 2014 m. gruodžio 31 d. turėjo licenciją verstis veikla, susijusia su II ir III sąrašų narkotinėmis ir psichotropinėmis medžiagomis, arba verstis veikla, susijusia su III sąrašo psichotropinėmis medžiagomis, jeigu aplinkybės, dėl kurių gali būti taikomi apribojimai, atsirado iki įstatymo (Nr. XII-1344) įsigaliojimo (2015-01-01).
+TAR pastaba. Administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekso 44, 441, 442, 443, 1071 ir 1072 straipsniuose, padariusiems asmenims, kuriems administracinė nuobauda paskirta iki 2017 m. sausio 1 d., taikoma iki įstatymo Nr. XIII-161 įsigaliojimo (2017-01-01) galiojusi Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo 103 straipsnio 4 punkto nuostata.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-161, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29855
 
 Papildyta straipsniu:
 
