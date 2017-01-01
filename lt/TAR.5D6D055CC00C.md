@@ -4,7 +4,7 @@ identifier: "TAR.5D6D055CC00C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-22"
-last_updated: "2016-10-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-04-26
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
 
@@ -416,13 +416,25 @@ Nr. XI-2362, 2012-11-06, Žin., 2012, Nr. 132-6688 (2012-11-15)
 
 3) reikalauti iš juridinių ir fizinių asmenų pažymų apie miško išteklių įsigijimą ir naudojimą, o jeigu jų nėra, – reikalauti žodinių ir raštiškų pasiaiškinimų dėl veiksmų, susijusių su miško išteklių naudojimu;
 
-4) įstatymų nustatyta tvarka paimti iš asmenų, padariusių administracinės teisės pažeidimus, neteisėtai įsigytą medieną, kitus miško išteklius ar sumedžiotus gyvūnus, brakonieriavimo priemones;
+4) įstatymų nustatyta tvarka paimti iš asmenų, padariusių administracinius nusižengimus, neteisėtai įsigytą medieną, kitus miško išteklius ar sumedžiotus gyvūnus, brakonieriavimo priemones;
 
-5) asmenis, padariusius administracinius teisės pažeidimus, įstatymų nustatyta tvarka pristatyti į policiją arba į savivaldybės seniūnijos patalpas kaimo gyvenamojoje vietovėje asmens tapatybei nustatyti;
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2641, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24677
+
+5) asmenis, padariusius administracinius nusižengimus, jų sutikimu, įstatymų nustatyta tvarka pristatyti į policiją arba į savivaldybės seniūnijos patalpas kaimo gyvenamojoje vietovėje asmens tapatybei nustatyti, o jiems nesutinkant – kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2641, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24677
 
 6) sustabdyti arba uždrausti neteisėtą ūkinę veiklą miško valdoje, jeigu šia veikla pažeidžiamas šis įstatymas, kitų teisės aktų reikalavimai ir daroma žala miškui;
 
-7) įstatymų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus, skirti administracines nuobaudas už šio įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Administracinių teisės pažeidimų kodekse;
+7) įstatymų nustatyta tvarka surašyti administracinių nusižengimų protokolus, skirti administracines nuobaudas už šio įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Administracinių nusižengimų kodekse;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2641, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24677
 
 8) Ginklų ir šaudmenų kontrolės įstatymo nustatyta tvarka saugoti, laikyti ir nešioti šaunamąjį ginklą, o šio straipsnio 3–9 dalyse nustatyta tvarka naudoti šaunamąjį ginklą, fizinę ir psichinę prievartą bei specialiąsias priemones;
 
