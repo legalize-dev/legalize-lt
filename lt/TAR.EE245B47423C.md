@@ -4,7 +4,7 @@ identifier: "TAR.EE245B47423C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-25"
-last_updated: "2016-04-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "Šio įstatymo 3, 5, 10 straipsniai, 13 straipsnio
 ---
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 2016-04-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
 
@@ -69,11 +69,19 @@ BENDROSIOS NUOSTATOS
 
 11. Užkrečiamųjų ligų profilaktika – organizacinės, teisinės, ekonominės, technologinės, higienos, epidemiologijos, imunobiologijos, chemoprofilaktikos, sveikatos ugdymo priemonės, taip pat kiti veiksmai ir metodai, kurie leidžia išvengti apsikrėtimo ir susirgimo užkrečiamosiomis ligomis.
 
-12. Užkrečiamųjų ligų kontrolė – organizacinės, techninės, ekonominės, taip pat epidemiologijos bei kitos medicinos priemonės ir tokių priemonių programos, sudarančios galimybę mažinti ar (ir) likviduoti sergamumą užkrečiamosiomis ligomis, taip pat išvengti tų ligų išplitimo.
+12. Užkrečiamųjų ligų kontrolė – organizacinės, techninės, ekonominės, taip pat epidemiologijos ir kitos medicinos priemonės, sudarančios galimybę mažinti ar (ir) likviduoti sergamumą užkrečiamosiomis ligomis, taip pat išvengti tų ligų išplitimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
 
 13. Užkrečiamųjų ligų epidemiologinė priežiūra (toliau – epidemiologinė priežiūra) – užkrečiamųjų ligų profilaktikos ir kontrolės priemonių visuma, leidžianti kontroliuoti užkrečiamųjų ligų paplitimą ir riboti to plitimo sąlygas.
 
-14. Užkrečiamųjų ligų epidemiologinė stebėsena (monitoringas) (toliau – epidemiologinė stebėsena (monitoringas) – sergamumo užkrečiamosiomis ligomis bei jų paplitimo lygių, mirtingumo, mirštamumo nuo užkrečiamųjų ligų, žmogui patogeninių mikroorganizmų cirkuliavimo, užkrečiamųjų ligų atsiradimo ir paplitimo dėsningumų, užkrečiamųjų ligų profilaktikos ir kontrolės priemonių bei programų įgyvendinimo kokybės ir veiksmingumo ištisiniai ir atrankiniai stebėjimai.
+14. Užkrečiamųjų ligų epidemiologinė stebėsena (monitoringas) (toliau – epidemiologinė stebėsena (monitoringas) – sergamumo užkrečiamosiomis ligomis bei jų paplitimo lygių, mirtingumo, mirštamumo nuo užkrečiamųjų ligų, žmogui patogeninių mikroorganizmų cirkuliavimo, užkrečiamųjų ligų atsiradimo ir paplitimo dėsningumų, užkrečiamųjų ligų profilaktikos ir kontrolės priemonių įgyvendinimo kokybės ir veiksmingumo ištisiniai ir atrankiniai stebėjimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
 
 15. Užkrečiamųjų ligų epidemiologinė analizė – epidemiologinės stebėsenos (monitoringo) duomenų apdorojimas, saugojimas, šių duomenų retrospektyvi ir operatyvi analizė, užkrečiamųjų ligų kontrolės ir profilaktikos priemonių pagrindimas, šių priemonių kokybės ir veiksmingumo įvertinimas.
 
@@ -317,13 +325,19 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
 
-2. Sprendimą dėl būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo ir jo trukmės priima komisija, sudaryta iš ne mažiau kaip trijų gydytojų specialistų, iš kurių vienas turi būti bendrosios praktikos gydytojas, o antras – gydytojas infektologas (gydytojas dermatovenerologas ar ftiziatras, pulmonologas). Šį sprendimą tvirtina savivaldybės gydytojas. Jis privalo informuoti apie tai asmenį, dėl kurio priimtas toks sprendimas, o jei šis asmuo yra neveiksnus tam tikroje srityje, – vieną iš jo atstovų pagal įstatymą. Apie šį sprendimą asmuo, kuriam taikomas būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas, turi būti pasirašytinai supažindintas. Jei asmuo atsisako arba nesugeba pasirašyti, jo informavimą dėl būtinojo hospitalizavimo, būtinojo izoliavimo turi patvirtinti du liudytojai. Apie būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo paskyrimą turi būti įrašoma į ligos istoriją. Asmenų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas taikomas tol, kol pacientas tampa nebepavojingas kitiems asmenims, bet ne ilgiau kaip 7 kalendorines dienas, įskaitant būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo dieną.
+2. Sprendimą dėl būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo ir jo trukmės priima komisija, sudaryta iš ne mažiau kaip trijų gydytojų specialistų, iš kurių vienas turi būti bendrosios praktikos gydytojas, o antras – gydytojas infektologas (gydytojas dermatovenerologas ar ftiziatras, pulmonologas). Šį sprendimą tvirtina savivaldybės gydytojas. Jis privalo informuoti apie tai asmenį, dėl kurio priimtas toks sprendimas, o jei šis asmuo yra neveiksnus tam tikroje srityje, – vieną iš jo atstovų pagal įstatymą. Apie šį sprendimą asmuo, kuriam taikomas būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas, turi būti pasirašytinai supažindintas. Jei asmuo atsisako arba nesugeba pasirašyti, jo informavimą dėl būtinojo hospitalizavimo, būtinojo izoliavimo turi patvirtinti du liudytojai. Apie būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo paskyrimą turi būti įrašoma į ligos istoriją. Asmenų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas taikomas tol, kol pacientas tampa nebepavojingas kitiems asmenims, bet ne ilgiau kaip 7 kalendorines dienas be teismo sprendimo, įskaitant būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo dieną.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
 
-3. Jei pacientas dėl sveikatos būklės tebėra pavojingas kitiems asmenims, būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminą, nurodytą šio straipsnio 2 dalyje, gali pratęsti tik teismas savivaldybės gydytojo motyvuotu prašymu. Tokie prašymai išnagrinėjami Civilinio proceso kodekso 312(30)–312(33) straipsniuose nustatyta tvarka per 3 dienas nuo prašymo gavimo dienos. Būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminą pratęsti galima ne ilgiau kaip 6 mėnesiams. Teismo sprendimas būtinai hospitalizuoti ligonį vykdomas skubiai.
+Nr. XII-2385, 2016-05-19, paskelbta TAR 2016-05-31, i. k. 2016-14395
+
+3. Jei pacientas dėl sveikatos būklės tebėra pavojingas kitiems asmenims, būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminą, nurodytą šio straipsnio 2 dalyje, gali pratęsti tik teismas savivaldybės gydytojo motyvuotu prašymu. Tokie prašymai išnagrinėjami Civilinio proceso kodekso 579–582 straipsniuose nustatyta tvarka per 3 dienas nuo prašymo gavimo dienos. Būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminą pratęsti galima ne ilgiau kaip 6 mėnesiams. Jei pacientas dėl sveikatos būklės išlieka pavojingas kitiems asmenims, būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą šioje dalyje nustatyta tvarka galima pratęsti pakartotinai iki 6 mėnesių, tačiau bendras asmens būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminas negali būti ilgesnis kaip 24 mėnesiai. Teismo sprendimas būtinai hospitalizuoti ir (ar) būtinai izoliuoti pacientą vykdomas skubiai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2385, 2016-05-19, paskelbta TAR 2016-05-31, i. k. 2016-14395
 
 4. Asmenų būtinąjį hospitalizavimą ir būtinąjį izoliavimą organizuoja savivaldybės gydytojas. Pristatant asmenį būtinajam hospitalizavimui ir būtinajam izoliavimui, privalo dalyvauti policija. Ji užtikrina viešąją tvarką būtinai hospitalizuojant asmenis.
 
@@ -565,19 +579,17 @@ PENKTASIS SKIRSNIS
 
 UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS FORMAVIMAS IR ĮGYVENDINIMAS
 
-22 straipsnis. Užkrečiamųjų ligų profilaktikos ir kontrolės strateginių krypčių ir priemonių tvirtinimas ir įgyvendinimas
+22 straipsnis. Užkrečiamųjų ligų profilaktikos ir kontrolės priemonių planavimas ir įgyvendinimas
 
-1. Užkrečiamųjų ligų profilaktikos ir kontrolės strateginės kryptys ir priemonės numatomos Lietuvos nacionalinėje visuomenės sveikatos priežiūros strategijoje ir jos įgyvendinimo priemonių plane.
+1. Sveikatos apsaugos ministerija, atsižvelgdama į Nacionalinėje visuomenės sveikatos priežiūros plėtros programoje numatytus uždavinius, organizuoja, koordinuoja ir kontroliuoja užkrečiamųjų ligų profilaktikos ir kontrolės priemonių įgyvendinimą.
 
-2. Valstybės ir savivaldybių institucijos, vadovaudamosi Lietuvos nacionaline visuomenės sveikatos priežiūros strategija ir jos įgyvendinimo priemonių planu ir atsižvelgdamos į Lietuvos Respublikos administracinių teritorinių vienetų higieninę ir gyventojų sveikatos būklę, privalo pagal savo kompetenciją planuoti užkrečiamųjų ligų profilaktikos ir kontrolės organizacines, teisines ir ekonomines priemones, įgyvendinti valstybines tikslines užkrečiamųjų ligų profilaktikos ir kontrolės programas ir užtikrinti jų įgyvendinimą.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-466, 2013-07-02, Žin., 2013, Nr. 79-3987 (2013-07-23), i. k. 1131010ISTA0XII-466
+2. Valstybės ir savivaldybių institucijos, vadovaudamosi Nacionaline visuomenės sveikatos priežiūros plėtros programa ir atsižvelgdamos į Lietuvos Respublikos administracinių teritorinių vienetų gyventojų sveikatos būklę ir kitas su užkrečiamųjų ligų plitimu susijusias sąlygas, privalo pagal savo kompetenciją planuoti užkrečiamųjų ligų profilaktikos ir kontrolės organizacines, teisines ir ekonomines priemones ir užtikrinti jų įgyvendinimą.
 
 Straipsnio pakeitimai:
 
 Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+
+Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
 
 23 straipsnis. Neteko galios nuo 2010-07-01
 
@@ -605,7 +617,11 @@ Straipsnio dalies naikinimas:
 
 Nr. XI-768, 2010-04-20, Žin. 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
 
-3. Užkrečiamųjų ligų profilaktikos ir kontrolės valdymą savivaldybėse šio ir kitų įstatymų bei kitų teisės aktų nustatyta tvarka vykdo pagal savo kompetenciją savivaldybių merai ir savivaldybių gydytojai.
+3. Užkrečiamųjų ligų profilaktikos ir kontrolės valdymą savivaldybėse vykdo savivaldybės administracijos direktorius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
 
 4. Lietuvos Respublikoje užkrečiamųjų ligų profilaktikos ir kontrolės priemonių įgyvendinimo valstybinę priežiūrą koordinuoja Sveikatos apsaugos ministerija, o pagal savo kompetenciją vykdo Sveikatos apsaugos ministerijos įstaigos, Valstybinė maisto ir veterinarijos tarnyba, Lietuvos Respublikos vyriausiasis epidemiologas, apskričių vyriausieji epidemiologai, savivaldybių gydytojai.
 
@@ -619,41 +635,17 @@ Straipsnio dalies pakeitimai:
 
 Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
 
-6. Vyriausybė, vykdydama užkrečiamųjų ligų profilaktikos ir kontrolės valdymą:
+6. Neteko galios nuo 2017-01-01
 
-1) tvirtina užkrečiamųjų ligų profilaktikos ir kontrolės valstybines privalomąsias programas;
+Straipsnio dalies naikinimas:
 
-2) atlieka kitas šio ir kitų įstatymų nustatytas užkrečiamųjų ligų profilaktikos ir kontrolės funkcijas.
+Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
 
-Straipsnio punkto numeracijos pakeitimas:
+7. Neteko galios nuo 2017-01-01
 
-Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+Straipsnio dalies naikinimas:
 
-7. Sveikatos apsaugos ministerija, vykdydama užkrečiamųjų ligų profilaktikos ir kontrolės valdymą:
-
-1) pagal savo kompetenciją įgyvendina priemones ir atlieka funkcijas užkrečiamųjų ligų profilaktikos ir kontrolės srityje, rengia valstybines privalomąsias ir tikslines užkrečiamųjų ligų profilaktikos ir kontrolės programas ir kontroliuoja, kaip jos vykdomos;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
-
-2) rengia užkrečiamųjų ligų profilaktikos ir kontrolės teisės aktų projektus, pagal savo kompetenciją atlieka ministerijų, kitų Vyriausybės įstaigų, savivaldybių vykdomųjų, kitų institucijų teisės aktų, reguliuojančių sveikatos santykius užkrečiamųjų ligų profilaktikos ir kontrolės srityse ar galinčių turėti jiems poveikio, projektų ekspertizę;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
-
-3) rengia ir tvirtina medicinos bei higienos normas, reglamentuojančias asmens sveikatos priežiūrą užkrečiamųjų ligų profilaktikos ir kontrolės požiūriu;
-
-4) priima teisės aktus, nustatančius užkrečiamųjų ligų profilaktikos ir kontrolės tvarką;
-
-5) organizuoja gyventojų sveikatos būklės ir sveikatos priežiūros išteklių atrankinius statistikos tyrimus užkrečiamųjų ligų profilaktikos ir kontrolės požiūriu;
-
-6) rengia ir tvirtina žmonių sveikatai bei sveikatos priežiūros įstaigoms padarytos žalos ir nuostolių, kurie atsirado dėl užkrečiamųjų ligų nustatymo, jų plitimo ribojimo ir pasekmių likvidavimo, apskaičiavimo metodikas;
-
-7) informuoja visuomenę apie gyventojų sergamumo užkrečiamosiomis ligomis būklę;
-
-8) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas užkrečiamųjų ligų profilaktikos ir kontrolės srityse.
+Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
 
 8. Neteko galios nuo 2010-07-01
 
@@ -687,11 +679,13 @@ Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 2. Savivaldybės administracijos direktorius:
 
-1) organizuoja savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose nustatytų užkrečiamųjų ligų profilaktikos ir kontrolės priemonių įgyvendinimą;
+1) koordinuoja savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose nustatytų užkrečiamųjų ligų profilaktikos ir kontrolės priemonių įgyvendinimą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-466, 2013-07-02, Žin., 2013, Nr. 79-3987 (2013-07-23), i. k. 1131010ISTA0XII-466
+
+Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
 
 2) organizuoja centralizuotai tiekiamo geriamojo vandens šaltinių apsaugą nuo mikrobinio teršimo ir higienos standartus atitinkančio geriamojo vandens tiekimą;
 
@@ -717,7 +711,11 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 3) organizuoja nustatytose teritorijose karantino režimo priemonių įgyvendinimą, kai savivaldybės teritorijai yra paskelbtas teritorijų karantinas;
 
-4) organizuoja savivaldybės tikslinių sveikatos programų dėl užkrečiamųjų ligų profilaktikos ir kontrolės rengimą ir jas finansuoja.
+4) Neteko galios nuo 2017-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
 
 Straipsnio dalies pakeitimai:
 
@@ -811,11 +809,15 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
-5) organizuoti privalomų valstybinių programų užkrečiamųjų ligų klausimais įgyvendinimą savivaldybėje, nagrinėti šių programų įgyvendinimo eigą;
+5) organizuoti užkrečiamųjų ligų profilaktikos ir kontrolės priemonių įgyvendinimą savivaldybėje, nagrinėti šių priemonių įgyvendinimo eigą;
 
 Papildyta straipsnio punktu:
 
 Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
 
 6) koordinuoti savivaldybėje veikiančių sveikatos priežiūros įstaigų pasirengimą ir veiksmus užkrečiamųjų ligų ekstremaliosiose situacijose.
 
@@ -1060,4 +1062,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 2, 4, 5, 6, 9, 13, 14, 15, 16, 20, 21, 26, 27, 29 ir 37 straipsnių pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2385, 2016-05-19, paskelbta TAR 2016-05-31, i. k. 2016-14395
+
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 9 straipsnio pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
+
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 2, 22, 25, 26 ir 29 straipsnių pakeitimo įstatymas
 
