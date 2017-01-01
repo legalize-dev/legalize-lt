@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2016-09-30"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,17 +16,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2016-09-30 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-05-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
-
-TAR pastaba. Piniginės socialinės paramos skyrimas įsigaliojus šiam įstatymui: 1) jeigu sprendimas dėl piniginės socialinės paramos skyrimo priimtas iki šio įstatymo įsigaliojimo, piniginės socialinės paramos dydis neperskaičiuojamas; 2) jeigu dėl piniginės socialinės paramos buvo kreiptasi iki šio įstatymo įsigaliojimo, skiriant piniginę socialinę paramą, taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo nuostatos; 3) jeigu dėl piniginės socialinės paramos buvo kreiptasi įsigaliojus šiam įstatymui ir vadovaujantis Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 21 straipsnio 3, 5 ir (ar) 6 dalimis skiriama piniginė socialinė parama už mėnesius iki šio įstatymo įsigaliojimo, taikomos šio įstatymo nuostatos.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
-
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 1, 2, 8, 10, 12, 17, 20, 23, 25 straipsnių ir priedo pakeitimo įstatymas
 
 Nauja įstatymo redakcija nuo 2012-01-01:
 
@@ -226,7 +218,11 @@ Nr. XII-1145, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13604
 
 4. Paskirta, bet laiku neatsiimta socialinė pašalpa ir (ar) kompensacijos išmokamos, jeigu dėl jų buvo kreiptasi ne vėliau kaip per 3 mėnesius nuo paskutinio mėnesio, už kurį socialinė pašalpa ir (ar) kompensacijos buvo paskirtos.
 
-5. Mirus asmeniui, kurio vardu bendrai gyvenantiems asmenims mokama socialinė pašalpa ir (ar) kompensacijos, šiems bendrai gyvenantiems asmenims paskirta ir iki kito mėnesio po jo mirties neišmokėta pašalpa ir (ar) kompensacijos, jeigu dėl jų buvo kreiptasi ne vėliau kaip per 3 mėnesius po socialinę pašalpą ir (ar) kompensacijas gavusio asmens mirties dienos, išmokamos mirusįjį laidojusiam vienam iš bendrai gyvenančių asmenų, pateikus laisvos formos prašymą ir mirties liudijimo originalą, o jeigu tokio bendrai gyvenančio asmens nėra, pervedamos į vaiko (įvaikio) ar vaikų (įvaikių) vardu atidarytą sąskaitą banke. Mirus vienam gyvenančiam asmeniui, socialinės pašalpos ir (ar) kompensacijų teikimas nutraukiamas nuo jo mirties mėnesio pirmos dienos, o už praėjusį laikotarpį paskirta ir neatsiimta socialinė pašalpa ir (ar) kompensacijos neišmokamos.
+5. Mirus asmeniui, kurio vardu bendrai gyvenantiems asmenims mokama socialinė pašalpa ir (ar) kompensacijos, šiems bendrai gyvenantiems asmenims paskirta ir iki kito mėnesio po jo mirties neišmokėta pašalpa ir (ar) kompensacijos, jeigu dėl jų buvo kreiptasi ne vėliau kaip per 3 mėnesius po socialinę pašalpą ir (ar) kompensacijas gavusio asmens mirties dienos, išmokamos mirusįjį laidojusiam vienam iš bendrai gyvenančių asmenų, pateikus laisvos formos prašymą ir medicininį mirties liudijimą, kai asmens mirtis neįregistruota Lietuvos Respublikos gyventojų registre, o jeigu tokio bendrai gyvenančio asmens nėra, pervedamos į vaiko (įvaikio) ar vaikų (įvaikių) vardu atidarytą sąskaitą banke. Mirus vienam gyvenančiam asmeniui, socialinės pašalpos ir (ar) kompensacijų teikimas nutraukiamas nuo jo mirties mėnesio pirmos dienos, o už praėjusį laikotarpį paskirta ir neatsiimta socialinė pašalpa ir (ar) kompensacijos neišmokamos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2124, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19717
 
 6. Socialinė pašalpa išmokama už kiekvieną praėjusį mėnesį.
 
@@ -382,11 +378,13 @@ Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 
 2) autorinis atlyginimas, pajamos, gautos iš sporto veiklos, atlikėjo veiklos;
 
-3) pensijos ir (ar) pensijų išmokos (išskyrus senatvės ir netekto darbingumo (invalidumo) pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės ir netekto darbingumo (invalidumo) pensijų kompensavimo įstatymą, taip pat senatvės ir valstybinių pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų ir valstybinių pensijų, sumažintų dėl draudžiamųjų pajamų turėjimo, kompensavimo įstatymą), šalpos išmokos (išskyrus slaugos ar priežiūros (pagalbos) išlaidų tikslines kompensacijas ir tikslinį priedą);
+3) pensijos ir (ar) pensijų išmokos (išskyrus senatvės ir netekto darbingumo (invalidumo) pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės ir netekto darbingumo (invalidumo) pensijų kompensavimo įstatymą, taip pat senatvės ir valstybinių pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų ir valstybinių pensijų, sumažintų dėl draudžiamųjų pajamų turėjimo, kompensavimo įstatymą), šalpos išmokos;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1853, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10599
+
+Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
 
 4) dividendai;
 
@@ -408,17 +406,23 @@ Nr. XII-1145, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13604
 
 11) išmokos iš Vaikų išlaikymo fondo;
 
-12) socialinio pobūdžio pajamos (išskyrus vienkartines išmokas ir (ar) pašalpas, mokamas iš valstybės, Valstybinio socialinio draudimo fondo ar savivaldybių biudžetų, subsidijas užimtumui remti, mokamas iš valstybės ar savivaldybių biudžetų, Europos Sąjungos struktūrinių fondų ir Europos prisitaikymo prie globalizacijos padarinių fondo, ir darbdavio mokamas vienkartines išmokas ir (ar) pašalpas bei kas mėnesį gaunamas socialinio pobūdžio pajamas: transporto išlaidų kompensacijas neįgaliesiems; kompensacijas donorams; pagalbos pinigus, mokamus pagal Lietuvos Respublikos socialinių paslaugų įstatymą; globos (rūpybos) išmokos tikslinį priedą, mokamą pagal Lietuvos Respublikos išmokų vaikams įstatymą; būsto nuomos ar išperkamosios būsto nuomos mokesčių dalies kompensaciją, mokamą pagal Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymą);
+12) socialinio pobūdžio pajamos (išskyrus vienkartines išmokas ir (ar) pašalpas, mokamas iš valstybės, Valstybinio socialinio draudimo fondo ar savivaldybių biudžetų, subsidijas užimtumui remti, mokamas iš valstybės ar savivaldybių biudžetų, Europos Sąjungos struktūrinių fondų ir Europos prisitaikymo prie globalizacijos padarinių fondo, ir darbdavio mokamas vienkartines išmokas ir (ar) pašalpas bei kas mėnesį gaunamas socialinio pobūdžio pajamas: transporto išlaidų kompensacijas neįgaliesiems; kompensacijas donorams; pagalbos pinigus, mokamus pagal Lietuvos Respublikos socialinių paslaugų įstatymą; globos (rūpybos) išmokos tikslinį priedą, mokamą pagal Lietuvos Respublikos išmokų vaikams įstatymą; būsto nuomos ar išperkamosios būsto nuomos mokesčių dalies kompensaciją, mokamą pagal Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymą; tikslines kompensacijas ir tikslinį priedą, mokamus pagal Lietuvos Respublikos tikslinių kompensacijų įstatymą);
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 
+Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
+
 13) išeitinė išmoka, išmokama nutraukiant darbo sutartį;
 
 14) išeitinė išmoka atleidžiamam iš pareigų valstybės tarnautojui;
 
-15) ligos, profesinės reabilitacijos, motinystės, tėvystės, motinystės (tėvystės) pašalpos, statutiniams valstybės tarnautojams (pareigūnams) ir krašto apsaugos sistemos kariams laikinojo nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ar vaiko priežiūros atostogų laikotarpiais mokamos išmokos;
+15) ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokos, statutiniams valstybės tarnautojams (pareigūnams) ir krašto apsaugos sistemos kariams laikinojo nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ar atostogų vaikui prižiūrėti laikotarpiais išmokėtos išmokos.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
 
 16) turtinės ar neturtinės žalos atlyginimas (įskaitant vienkartinę netekto darbingumo kompensaciją);
 
@@ -446,13 +450,19 @@ Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 
 5. Piniginės lėšos vaikui (įvaikiui) išlaikyti (alimentai) į jas mokančio asmens pajamas neįskaitomos.
 
-6. Darbo užmokestis, užmokestis už prastovas ne dėl darbuotojo kaltės, užmokestis už kasmetines atostogas, pensijos, pensijų išmokos, šalpos išmokos, kas mėnesį gaunamos išmokos ir (ar) pašalpos, ligos, profesinės reabilitacijos, motinystės, tėvystės, motinystės (tėvystės) pašalpos, statutiniams valstybės tarnautojams (pareigūnams) ir krašto apsaugos sistemos kariams laikinojo nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ar vaiko priežiūros atostogų laikotarpiais mokamos išmokos, taip pat kitos kas mėnesį gaunamos pajamos įskaitomos į pajamas tų mėnesių, už kuriuos jos paskirtos, išskyrus šio straipsnio 7 dalyje numatytą atvejį.
+6. Darbo užmokestis, užmokestis už prastovas ne dėl darbuotojo kaltės, užmokestis už kasmetines atostogas, pensijos, pensijų išmokos, šalpos išmokos, kas mėnesį gaunamos išmokos ir (ar) pašalpos, ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokos, statutiniams valstybės tarnautojams (pareigūnams) ir krašto apsaugos sistemos kariams laikinojo nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ar atostogų vaikui prižiūrėti laikotarpiais išmokėtos išmokos, taip pat kitos kas mėnesį gaunamos pajamos įskaitomos į pajamas tų mėnesių, už kuriuos jos paskirtos, išskyrus šio straipsnio 7 dalyje numatytą atvejį.
 
-7. Darbo užmokestis, užmokestis už prastovas ne dėl darbuotojo kaltės, užmokestis už kasmetines atostogas, pensijos, pensijų išmokos, šalpos išmokos, kas mėnesį gaunamos išmokos ir (ar) pašalpos, ligos, profesinės reabilitacijos, motinystės, tėvystės, motinystės (tėvystės) pašalpos, statutiniams valstybės tarnautojams (pareigūnams) ir krašto apsaugos sistemos kariams laikinojo nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ar vaiko priežiūros atostogų laikotarpiais mokamos išmokos, taip pat kitos kas mėnesį gaunamos pajamos, kurios buvo išmokėtos ne mažiau kaip vieną mėnesį pavėluotai, taip pat vienkartinės bei už du ar daugiau mėnesių iš karto išmokėtos kas mėnesį gaunamos pajamos ir piniginės lėšos, gautos vaikui (įvaikiui) išlaikyti (alimentai), išmokos iš Vaikų išlaikymo fondo įskaitomos į pajamas tų mėnesių, kuriais jos buvo išmokėtos.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
+
+7. Darbo užmokestis, užmokestis už prastovas ne dėl darbuotojo kaltės, užmokestis už kasmetines atostogas, pensijos, pensijų išmokos, šalpos išmokos, kas mėnesį gaunamos išmokos ir (ar) pašalpos, ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokos, statutiniams valstybės tarnautojams (pareigūnams) ir krašto apsaugos sistemos kariams laikinojo nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ar atostogų vaikui prižiūrėti laikotarpiais išmokėtos išmokos, taip pat kitos kas mėnesį gaunamos pajamos, kurios buvo išmokėtos ne mažiau kaip vieną mėnesį pavėluotai, taip pat vienkartinės bei už du ar daugiau mėnesių iš karto išmokėtos kas mėnesį gaunamos pajamos ir piniginės lėšos, gautos vaikui (įvaikiui) išlaikyti (alimentai), išmokos iš Vaikų išlaikymo fondo įskaitomos į pajamas tų mėnesių, kuriais jos buvo išmokėtos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1366, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19552
+
+Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
 
 8. Kai vienas iš tėvų vaikui (įvaikiui) ar vaikams (įvaikiams) išlaikyti gauna teismo priteistą konkrečią pinigų sumą, vidutinė vaikui (įvaikiui) ar vaikams (įvaikiams) išlaikyti skirta suma per mėnesį apskaičiuojama gautą pinigų sumą padalijus iš mėnesių iki vaiko (įvaikio) pilnametystės skaičiaus.
 
