@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2016-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2016-07-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-09
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -482,7 +482,11 @@ Nr. XII-1584, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05020
 
 2) reguliuoja eismą;
 
-3) tiria KET pažeidimus, atlieka ikiteisminį tyrimą eismo įvykių bylose, įstatymų nustatytais atvejais surašo administracinių teisės pažeidimų protokolus, nagrinėja administracinių teisės pažeidimų bylas ir priima nutarimus šiose bylose, taiko kitas įstatymų numatytas priemones;
+3) tiria KET pažeidimus, atlieka ikiteisminį tyrimą eismo įvykių bylose, įstatymų nustatytais atvejais surašo administracinių nusižengimų protokolus, nagrinėja administracinių nusižengimų bylas ir priima nutarimus šiose bylose, taiko kitas įstatymų numatytas priemones;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-106, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29755
 
 4) kontroliuoja, ar neviršyti leistini transporto priemonių masė ir matmenys;
 
@@ -912,7 +916,11 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 1. Transporto priemonės savininkas ar valdytojas rūpinasi ir atsako už jam nuosavybės ar kita teise priklausančią transporto priemonę.
 
-2. Policijos pareigūnui, aplinkos apsaugos valstybinės kontrolės pareigūnui, savivaldybės vykdomajai institucijai arba jos įgaliotam pareigūnui pareikalavus teisės pažeidimo išaiškinimo tikslu, transporto priemonės savininkas (valdytojas) turi nurodyti šiam pareigūnui duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuris tam tikru metu valdė ar naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto priemone, o juridinio asmens vadovas ar jo filialo vadovas privalo nurodyti šiam pareigūnui duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuris tam tikru metu naudojosi juridiniam asmeniui priklausančia transporto priemone. Transporto priemonės savininkas (valdytojas) arba juridinio asmens vadovas (ar jo filialo vadovas), nepateikę šioje dalyje nurodytų duomenų, atsako už transporto priemonės savininko (valdytojo) pareigų neatlikimą Administracinių teisės pažeidimų kodekso nustatyta tvarka. Transporto priemonės savininkui (valdytojui) arba juridinio asmens vadovui (ar jo filialo vadovui) atsakomybė už pareigų neatlikimą netaikoma, jeigu jis prarado transporto priemonę prieš savo valią.
+2. Policijos pareigūnui, aplinkos apsaugos valstybinės kontrolės pareigūnui, savivaldybės vykdomajai institucijai arba jos įgaliotam pareigūnui pareikalavus, siekiant išaiškinti teisės pažeidimą, transporto priemonės savininkas (valdytojas) turi nurodyti šiam pareigūnui duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuris tam tikru metu valdė transporto priemonės savininkui (valdytojui) priklausančią transporto priemonę ar ja naudojosi, o juridinio asmens vadovas ar jo filialo vadovas privalo nurodyti šiam pareigūnui duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuris tam tikru metu naudojosi juridiniam asmeniui priklausančia transporto priemone. Transporto priemonės savininkas (valdytojas) arba juridinio asmens vadovas (ar jo filialo vadovas), nepateikę šioje dalyje nurodytų duomenų, atsako už transporto priemonės savininko (valdytojo) pareigų neatlikimą Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka. Transporto priemonės savininkas (valdytojas) arba juridinio asmens vadovas (ar jo filialo vadovas) už pareigų neatlikimą neatsako, jeigu jis prarado transporto priemonę prieš savo valią.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-106, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29755
 
 3. Gavęs kvietimą, transporto priemonės savininkas (valdytojas) arba jo įgaliotas asmuo (jeigu savininkas – juridinis asmuo) privalo nurodytu laiku atvykti į policijos įstaigą ir turėti asmens tapatybę patvirtinantį dokumentą bei kitus kvietime nurodytus dokumentus.
 
@@ -1248,7 +1256,11 @@ SAUGAUS EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 3, 6, 12 STRAIPSNIŲ PAPILDYMO I
 
 3. Lietuvos Respublikos taktinės ir logistinės paskirties transporto priemonių registro valdytoja – Krašto apsaugos ministerija, o registro tvarkytoja – Lietuvos kariuomenė.
 
-4. Administracinių teisės pažeidimų ir eismo įvykių registro valdytojas – Policijos departamentas prie Vidaus reikalų ministerijos, o registro tvarkytojai – Informatikos ir ryšių departamentas prie Vidaus reikalų ministerijos, Policijos departamentas prie Vidaus reikalų ministerijos ir teritorinės ir specializuotos policijos įstaigos.
+4. Administracinių nusižengimų registro valdytoja yra Lietuvos Respublikos vidaus reikalų ministerija. Šio registro tvarkytojai paskiriami Vyriausybės priimtu teisės aktu, kuriuo tvirtinami Registro nuostatai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-106, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29755
 
 5. Ieškomų transporto priemonių registro valdytojas – Policijos departamentas prie Vidaus reikalų ministerijos, o registro tvarkytojai – Informatikos ir ryšių departamentas prie Vidaus reikalų ministerijos, Lietuvos kriminalinės policijos biuras, teritorinės policijos įstaigos, Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos ir jos padaliniai, Muitinės kriminalinė tarnyba.
 
