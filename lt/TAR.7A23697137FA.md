@@ -4,7 +4,7 @@ identifier: "TAR.7A23697137FA"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-05-02"
-last_updated: "2008-11-29"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7A23697137FA"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -15,17 +15,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymas
 
-Suvestinė redakcija nuo 2008-11-29 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2023-06-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 1-0; Žin. 1990, Nr.14-386, i. k. 0901010ISTA000I-180
-
-TAR pastaba. Įsigaliojus šiam įstatymui, šio įstatymo 1 straipsnio 3 dalyje numatytu pagrindu besikreipiančių asmenų pakartotinių prašymų išduoti pažymėjimus nagrinėjimas nėra atnaujinamas ir šie asmenys, jų giminaičiai (sutuoktiniai, vaikai, įvaikiai, taip pat broliai ir seserys), politinė ar visuomeninė organizacija su rašytiniais prašymais kreipiasi pagal Įstatymo 3 straipsnyje nustatytas taisykles. Bylų procesas dėl asmenų, kurių pilietinių teisių atkūrimo klausimas jau buvo išspręstas, neatnaujinamas ir šių asmenų pakartotiniai prašymai nagrinėjami įprasta tvarka. Priėmus naują sprendimą pripažinti asmenį nekaltu Lietuvos Respublikai, atkurti visas jo pilietines teises ir išduoti atitinkamą pažymėjimą, ankstesnis sprendimas netenka galios. Priėmus naują sprendimą neatkurti visų asmens pilietinių teisių ir neišduoti pažymėjimo, lieka galioti ankstesnis sprendimas neatkurti visų asmens pilietinių teisių ir neišduoti pažymėjimo.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. X-1814, 2008-11-13, Žin., 2008, Nr. 137-5368 (2008-11-29), i. k. 1081010ISTA00X-1814
-
-Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymo pakeitimo įstatymas
 
 Nauja redakcija nuo 2008-11-29:
 
@@ -63,13 +55,17 @@ priima šį įstatymą.
 
 3 straipsnis. Pažymėjimų apie asmenų nuteisimo, įkalinimo, ištrėmimo ar kitokio laisvės apribojimo laiką išdavimas
 
-1. Šio įstatymo 1 straipsnyje nurodytiems asmenims pažymėjimus apie jų nuteisimo, įkalinimo, ištrėmimo ar kitokio laisvės apribojimo laiką (toliau – pažymėjimas) pagal šių asmenų, jų giminaičių (sutuoktinių, vaikų, įvaikių, taip pat brolių ir seserų) arba politinių ir visuomeninių organizacijų rašytinius prašymus išduoda:
+1. Šio įstatymo 1 straipsnyje nurodytiems asmenims pažymėjimus apie jų nuteisimo, įkalinimo, ištrėmimo ar kitokio laisvės apribojimo laiką (toliau – pažymėjimas) pagal šių asmenų, jų sutuoktinių, giminaičių (vaikų, įvaikių, vaikaičių, taip pat brolių ir seserų) arba politinių kalinių ir tremtinių interesams atstovaujančių asociacijų, taip pat pagal kitų valstybės institucijų ir asociacijų, kurios kreipiasi už pasipriešinimą okupacijoms represuotų ir dėl to nukentėjusių asmenų interesais, rašytinius prašymus išduoda:
 
 1) Lietuvos Aukščiausiasis Teismas – teisminių institucijų represuotiems asmenims;
 
 2) Lietuvos Respublikos generalinė prokuratūra (toliau – Generalinė prokuratūra) – ne teismo tvarka represuotiems asmenims;
 
 3) Lietuvos Respublikos vidaus reikalų ministerija (toliau – Vidaus reikalų ministerija) – ištremtiems asmenims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2661, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25260
 
 2. Asmenims, kurie buvo represuoti teisminių institucijų ar ne teismo tvarka arba buvo ištremti ir po to jiems buvo apribota gyvenamosios vietos pasirinkimo teisė, pažymėjimus apie tokį apribojimą išduoda atitinkamai Lietuvos Aukščiausiasis Teismas, Generalinė prokuratūra ir Vidaus reikalų ministerija.
 
@@ -103,11 +99,19 @@ priima šį įstatymą.
 
 3. Trijų teisėjų kolegija gautą skundą privalo išnagrinėti per 3 mėnesius. Jeigu byla yra didelė ir sudėtinga, taip pat jeigu reikia atlikti papildomą tyrimą, Lietuvos Aukščiausiojo Teismo pirmininkas gali pratęsti terminą, tačiau ne ilgiau kaip dar 3 mėnesiams.
 
-4. Teismo posėdyje, kuriame nagrinėjamas skundas dėl sprendimo išduoti pažymėjimą arba atsisakymo jį išduoti pagrįstumo, gali dalyvauti prokuroras, taip pat asmuo, kuriam buvo išduotas pažymėjimas arba atsisakyta jį išduoti, arba šio asmens atstovas, nukentėjusysis arba nukentėjusiojo atstovas. Šių asmenų neatvykimas nekliudo nagrinėti bylą.
+4. Teismo posėdyje, kuriame nagrinėjamas skundas dėl sprendimo išduoti pažymėjimą arba atsisakymo jį išduoti pagrįstumo, gali dalyvauti prokuroras, taip pat asmuo, kuriam buvo išduotas pažymėjimas arba atsisakyta jį išduoti, šio asmens sutuoktinis, giminaičiai (vaikai, įvaikiai, vaikaičiai, broliai ir seserys), šio asmens atstovas, nukentėjusysis, nukentėjusiojo sutuoktinis, giminaičiai (vaikai, įvaikiai, vaikaičiai, broliai ir seserys), nukentėjusiojo atstovas, taip pat politinių kalinių ir tremtinių interesams atstovaujančių asociacijų, taip pat kitų valstybės institucijų ir asociacijų, kurios kreipiasi už pasipriešinimą okupacijoms represuotų ir dėl to nukentėjusių asmenų interesais, įgaliotieji atstovai. Šių asmenų neatvykimas nekliudo nagrinėti bylą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2661, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25260
 
 5. Bylos nagrinėjimas pradedamas teisėjo pranešimu, kuriame jis išdėsto bylos ir papildomos medžiagos esmę, skundo argumentus. Teismo posėdyje gali būti apklausiami liudytojai.
 
-6. Po teisėjo kalba prokuroras. Šiam baigus, kalba asmuo, kuriam buvo išduotas pažymėjimas arba atsisakyta jį išduoti, arba šio asmens atstovas, nukentėjusysis arba nukentėjusiojo atstovas.
+6. Po teisėjo kalba prokuroras. Šiam baigus, kalba asmuo, kuriam buvo išduotas pažymėjimas arba atsisakyta jį išduoti, kiti asmenys, nurodyti šio straipsnio 4 dalyje, jeigu jie yra pareiškėjai byloje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2661, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25260
 
 7. Po šio straipsnio 6 dalyje nurodytų proceso dalyvių kalbų teisėjų kolegija priima vieną iš šių sprendimų:
 
@@ -167,7 +171,7 @@ LIETUVOS RESPUBLIKOS
 
 AUKŠČIAUSIOSIOS TARYBOS
 
-PIRMININKAS                                                                                                    V. LANDSBERGIS
+PIRMININKAS                                                                                                     V. LANDSBERGIS
 
 Vilnius, 1990 m. gegužės 2 d.
 
@@ -222,4 +226,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1814, 2008-11-13, Žin., 2008, Nr. 137-5368 (2008-11-29), i. k. 1081010ISTA00X-1814
 
 Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymo pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2661, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25260
+
+Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymo Nr. I-180 3 ir 5 straipsnių pakeitimo įstatymas
 
