@@ -4,7 +4,7 @@ identifier: "TAR.6D4A06291FF1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-11-04"
-last_updated: "2005-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6D4A06291FF1"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2004-11-04"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos garantinio fondo įstatymo, Įmonių bankroto įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo, Žemės ūkio bendrovių įstatymo, Ūkininko ūkio įstatymo pakeitimo įstatymas
+
+Suvestinė redakcija nuo 2017-01-01
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 171-6298, i. k. 1041010ISTA0IX-2538
 
 LIETUVOS RESPUBLIKOS
 
@@ -25,23 +29,23 @@ GARANTINIO FONDO ĮSTATYMO, ĮMONIŲ BANKROTO ĮSTATYMO, LAISVŲJŲ EKONOMINIŲ 
 
 Vilnius
 
-PIRMASIS SKIRSNIS
+1 skirsnis. Neteko galios nuo 2017-01-01
 
-GARANTINIO FONDO ĮSTATYMO 4 STRAIPSNIO PAKEITIMAS
+Skirsnio naikinimas:
 
-(Žin., 2000, Nr. 82-2478; 2001, Nr. 22-716)
-
-1 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas
-
-4 straipsnio 1 dalies 1 punkte išbraukti žodį „privalomojo“ ir šį punktą išdėstyti taip:
-
-„1) įmonių, nurodytų šio įstatymo 1 straipsnio 2 dalyje, įmokos – 0,2 proc. priskaičiuoto darbuotojams darbo užmokesčio (nuo kurio skaičiuojamos valstybinio socialinio draudimo įmokos);“.
+Nr. XII-2604, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23708
 
 ANTRASIS SKIRSNIS
 
 ĮMONIŲ BANKROTO ĮSTATYMO 3, 10, 29, 32 IR 35 STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2001, Nr. 31-1010; 2002, Nr. 116-5193; 2003, Nr. 17-708, Nr. 38-1708, Nr. 61-2757; 2004, Nr. 61-2185)
+
+1 straipsnis. 3 straipsnio 1 dalies 1 punkto pakeitimas
+
+3 straipsnio 1 dalies 1 punkte po žodžio „mokesčių“ išbraukti žodį „privalomojo“ ir šį punktą išdėstyti taip:
+
+„1) mokesčių, valstybinio socialinio draudimo įmokų bei privalomojo sveikatos draudimo įmokų nemokėjimo atveju – valstybės institucijos, įpareigotos juos surinkti;“.
 
 2 straipsnis. 10 straipsnio 4 dalies 3 punkto pakeitimas
 
