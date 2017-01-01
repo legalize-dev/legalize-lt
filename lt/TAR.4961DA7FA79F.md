@@ -4,7 +4,7 @@ identifier: "TAR.4961DA7FA79F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-14"
-last_updated: "2015-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4961DA7FA79F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-11-28
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 56-1977, i. k. 1011010ISTA00IX-378
 
@@ -58,9 +58,11 @@ Biuro sprendimai įstatymų nustatyta tvarka gali būti skundžiami teismui.
 
 43 straipsnis. Atsakomybė už draudimo sutarties, atitinkančios šio įstatymo reikalavimus, nesudarymą
 
-1. Atsakingi už draudimo sutarties sudarymą fiziniai ir juridiniai asmenys, nesudarę šio įstatymo reikalavimus atitinkančios draudimo sutarties, taip pat transporto priemonių valdytojai, neturintys galiojančio draudimo liudijimo ar kito dokumento, kitos valstybės teisės aktų nustatyta tvarka patvirtinančio draudimo sutarties sudarymą, atsako pagal Administracinių teisės pažeidimų kodeksą.
+Atsakingi už draudimo sutarties sudarymą asmenys, nesudarę šio įstatymo reikalavimus atitinkančios draudimo sutarties, taip pat transporto priemonių valdytojai, neturintys galiojančio draudimo liudijimo ar kito dokumento, kitos valstybės teisės aktų nustatyta tvarka patvirtinančio draudimo sutarties sudarymą, atsako pagal Lietuvos Respublikos administracinių nusižengimų kodeksą.
 
-2. Nuobaudų taikymas neatleidžia nuo pareigos sudaryti draudimo sutartį.
+Straipsnio pakeitimai:
+
+Nr. XII-2745, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26865
 
 ŠEŠTASIS SKIRSNIS
 
@@ -1119,4 +1121,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1116, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13413
 
 Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 44 straipsnio pripažinimo netekusiu galios įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2745, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26865
+
+Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 43 straipsnio pakeitimo įstatymas
 
