@@ -4,7 +4,7 @@ identifier: "TAR.3EB34933E485"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-13"
-last_updated: "2016-10-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-05-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
 
@@ -37,7 +37,15 @@ BENDROSIOS NUOSTATOS
 
 3. Biudžetas – valstybės biudžetas, savivaldybių biudžetai, taip pat pinigų fondai, į kuriuos teisės aktų nustatyta tvarka mokami (paskirstomi) šio Įstatymo 13 straipsnyje nurodyti mokesčiai.
 
-4. Baudų už administracinius teisės pažeidimus administravimas – mokesčių administratoriaus funkcijų, susijusių su nutarimų skirti baudas už administracinius teisės pažeidimus vykdymu, įgyvendinimas atliekant šių baudų apskaitą, įskaitymą, sumokėjimo atidėjimą ar išdėstymą ir priverstinio išieškojimo inicijavimą, ir priverstinio išieškojimo priežiūrą Administracinių teisės pažeidimų kodekso, šio Įstatymo ir kitų įstatymų nustatyta tvarka.
+4. Baudų už administracinius nusižengimus administravimas – mokesčių administratoriaus funkcijų, susijusių su nutarimų ir (ar) administracinių nurodymų skirti baudas už administracinius nusižengimus vykdymu, įgyvendinimas atliekant šių baudų apskaitą, įskaitymą, sumokėjimo atidėjimą ar išdėstymą, priverstinio išieškojimo inicijavimą, priverstinio išieškojimo priežiūrą, priverstinio išieškojimo sustabdymą, priverstinai išieškotų baudų paskirstymą Lietuvos Respublikos administracinių nusižengimų kodekso, šio Įstatymo ir kitų įstatymų nustatyta tvarka.
+
+TAR pastaba. 4 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
+
+Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 5. Elektroninių pinigų įstaiga – kaip ši sąvoka apibrėžta Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme.
 
@@ -47,7 +55,11 @@ BENDROSIOS NUOSTATOS
 
 8. Mokesčio deklaracija – mokesčių mokėtojo pateikiamas mokesčių administratoriui dokumentas, kuriame nurodoma informacija apie mokesčių mokėtojo apskaičiuotą mokesčio sumą už mokesčio įstatyme nustatytą laikotarpį, taip pat su mokesčio apskaičiavimu ar sumokėjimu susiję kiti duomenys.
 
-9. Mokesčio įstatymas – Lietuvos Respublikos įstatymas, nustatantis šio Įstatymo 13 straipsnyje nurodytą mokestį, šis Įstatymas, Muitinės įstatymas, taip pat Lietuvos Respublikos tarptautinė sutartis arba Bendrijos muitų teisės aktai, kurie nustato mokestį ir (arba) apibrėžia su mokesčio taikymu arba mokesčio lengvatomis susijusius klausimus.
+9. Mokesčio įstatymas – Lietuvos Respublikos įstatymas, nustatantis šio Įstatymo 13 straipsnyje nurodytą mokestį, šis Įstatymas, Muitinės įstatymas, taip pat Lietuvos Respublikos tarptautinė sutartis arba Europos Sąjungos muitų teisės aktai, kurie nustato mokestį ir (arba) apibrėžia su mokesčio taikymu arba mokesčio lengvatomis susijusius klausimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 10. Mokesčio lengvata – mokesčių mokėtojui ar jų grupei mokesčio įstatymo nustatytos išskirtinės apmokestinimo sąlygos, kurios yra palankesnės, palyginti su įprastinėmis sąlygomis.
 
@@ -85,7 +97,11 @@ BENDROSIOS NUOSTATOS
 
 27. Mokėjimo paslaugų teikėjas – kaip ši sąvoka apibrėžta Lietuvos Respublikos mokėjimų įstatyme.
 
-28. Muitai – importo muitai ir (arba) eksporto muitai, kaip jie apibrėžti Bendrijos muitinės kodekso 4 straipsnyje.
+28. Neteko galios nuo 2017-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 29. Mutatis mutandis (lot.) – teisinė sąvoka, reiškianti „su tam tikrais pakeitimais“.
 
@@ -95,17 +111,19 @@ BENDROSIOS NUOSTATOS
 
 32. Kitos mokesčių įstatymuose vartojamos sąvokos yra apibrėžtos atskiruose šio Įstatymo straipsniuose ir atitinkamų mokesčių įstatymuose.
 
-33. Pagal šį Įstatymą Bendrijos muitų teisės aktais laikomi:
+33. Pagal šį Įstatymą Europos Sąjungos muitų teisės aktais laikomi:
 
-1) 1992 m. spalio 12 d. Tarybos reglamentas (EEB) Nr. 2913/92, nustatantis Bendrijos muitinės kodeksą (toliau – Bendrijos muitinės kodeksas) (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 307 (su paskutiniais pakeitimais, padarytais 2005 m. balandžio 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 648/2005, OL 2005 L 117, p. 13);
+1) 1987 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2658/87 dėl tarifų ir statistinės prekių nomenklatūros bei dėl bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382) (su paskutiniais pakeitimais, padarytais 2016 m. birželio 28 d. Komisijos įgyvendinimo reglamentu (ES) 2016/1047 (OL 2016 L 170, p. 36);
 
-2) 1993 m. liepos 2 d. Komisijos reglamentas (EEB) Nr. 2454/93, išdėstantis Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas (toliau – Bendrijos muitinės kodekso įgyvendinimo nuostatos) (OL 2004 m. specialusis leidimas, 2 skyrius, 6 tomas, p. 3 (su paskutiniais pakeitimais, padarytais 2006 m. kovo 8 d. Komisijos reglamentu (EB) Nr. 402/2006, OL 2006 L 70, p. 35);
+2) 2009 m. lapkričio 16 d. Tarybos reglamentas (EB) Nr. 1186/2009, nustatantis Bendrijos atleidimo nuo muitų sistemą (OL 2009 L 324, p. 23), ir jo taikymą reglamentuojantys Europos Sąjungos teisės aktai;
 
-3) 1983 m. kovo 28 d. Tarybos reglamentas (EEB) Nr. 918/83, nustatantis Bendrijos atleidimo nuo muitų sistemą (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 419 (su paskutiniais pakeitimais, padarytais 2000 m. liepos 20 d. Tarybos reglamentu (EB) Nr. 1671/2000, OL 2000 L 193, p. 11);
+3) 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas (OL 2013 L 269, p. 1) (toliau – Sąjungos muitinės kodeksas), ir jį papildantys bei įgyvendinantys Europos Sąjungos teisės aktai;
 
-4) 1987 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2658/87 dėl tarifų ir statistinės prekių nomenklatūros bei dėl bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382 (su paskutiniais pakeitimais, padarytais 2006 m. birželio 29 d. Komisijos reglamentu (EB) Nr. 996/2006, OL 2006 L 179, p. 26);
+4) tarptautiniai susitarimai, kuriuos yra sudariusi arba prie jų prisijungusi Europos Sąjunga, reglamentuojantys prekių įvežimo į Europos Sąjungos muitų teritoriją ir (arba) išvežimo iš jos tvarką bei importo ir (arba) eksporto muitų taikymo tvarką.
 
-5) kiti Europos Bendrijos Tarybos ir Komisijos teisės aktai bei tarptautinės sutartys, kurias yra sudariusi arba prie jų prisijungusi Europos Bendrija, reglamentuojantys prekių importo į Bendrijos muitų teritoriją iš trečiųjų šalių ir eksporto iš šios teritorijos į trečiąsias šalis tvarką bei importo ir eksporto muitų taikymo tokioms importuojamoms ir eksportuojamoms prekėms tvarką.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 Straipsnio pakeitimai:
 
@@ -225,7 +243,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1985, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16907
 
-6. Šio Įstatymo 13 straipsnio 23 punkte nurodyti muitai pagal šį Įstatymą administruojami tiek, kiek šio Įstatymo nuostatos neprieštarauja Bendrijos muitų teisės aktams.
+6. Šio Įstatymo 13 straipsnio 23 punkte nurodyti muitai ir su jais susijusios sumos pagal šį Įstatymą administruojami tiek, kiek šio Įstatymo nuostatos neprieštarauja Europos Sąjungos muitų teisės aktams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 16 straipsnis. Valstybės institucijos ir įstaigos, įgaliotos atlikti tam tikrus mokesčių administravimo veiksmus
 
@@ -587,7 +609,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
 
-5. Apskaičiuojant muitus, šio straipsnio nuostatos taikomos tiek, kiek jos neprieštarauja Bendrijos muitų teisės aktams.
+5. Neteko galios nuo 2017-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -715,7 +741,11 @@ MOKESTINĖ PRIEVOLĖ
 
 3. Mokestinė nepriemoka, kurios sumokėjimas yra atidėtas šio Įstatymo nustatyta tvarka, sumokama mokestinės paskolos sutartyje numatytu terminu.
 
-4. Muitinės administruojamus papildomai apskaičiuotus mokesčius ir su jais susijusias sumas mokesčių mokėtojas privalo sumokėti Bendrijos muitinės kodekse nustatytais muitų mokėjimo terminais. Muitinės administruojamų mokesčių (įskaitant papildomai apskaičiuotus mokesčius) mokėjimo tvarką nustato Vyriausybė, jeigu įstatymai nenustato kitaip.
+4. Muitinės administruojamus papildomai apskaičiuotus mokesčius ir su jais susijusias sumas mokesčių mokėtojas privalo sumokėti Sąjungos muitinės kodekse nustatytais muitų mokėjimo terminais. Muitinės administruojamų mokesčių (įskaitant papildomai apskaičiuotus mokesčius) ir su jais susijusių sumų mokėjimo tvarką nustato Vyriausybė, jeigu įstatymai nenustato kitaip.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 Straipsnio pakeitimai:
 
@@ -801,7 +831,11 @@ Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
 
 13. Jei atitinkamame mokesčio įstatyme nenustatyta kitaip, mokesčio permoka gali būti grąžinta (įskaityta), jeigu ji susidarė ne anksčiau kaip per einamuosius ir prieš juos einančius penkerius kalendorinius metus, – skaičiuojama atgal nuo įskaitymo dienos, kai įskaitymas atliekamas mokesčių administratoriaus iniciatyva be atskiro mokesčių mokėtojo prašymo, o kai yra mokesčių mokėtojo prašymas, – skaičiuojama atgal nuo šio prašymo pateikimo dienos. Jei iki prašymo pateikimo mokesčių mokėtojas atlieka veiksmą, liudijantį tai, kad jis žino apie mokesčio permokos buvimą ir siekia ją susigrąžinti (įskaityti), minėtas terminas skaičiuojamas nuo to veiksmo atlikimo dienos. Šiuo atveju mokesčių mokėtojas prie prašymo grąžinti (įskaityti) mokesčio permoką privalo pateikti mokesčių administratoriui minėto veiksmo atlikimą pagrindžiančius įrodymus. Į paminėtą terminą neįskaičiuojami kalendoriniai metai, kuriais dėl grąžintinų (įskaitytinų) sumų vyko mokestiniai arba teisminiai ginčai arba buvo taikoma abipusio susitarimo procedūra, numatyta Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse arba Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną.
 
-14. Muitų permokoms šio straipsnio nuostatos taikomos tik tiek, kiek jos neprieštarauja Bendrijos muitų teisės aktams.
+14. Neteko galios nuo 2017-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 15. Mokesčio permoka (skirtumas), kuri negali būti grąžinta (įskaityta) šio straipsnio 13 dalyje nurodytu pagrindu, nurašoma iš biudžeto apskaitos dokumentų.
 
@@ -821,11 +855,13 @@ Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
 
 4. Tuo atveju, kai mokestinės nepriemokos sumokėjimo terminas yra atidedamas ar išdėstomas, iš mokesčių mokėtojo gali būti pareikalauta Civilinio kodekso nustatyta tvarka užtikrinti mokestinės nepriemokos sumokėjimą įkeitimu, hipoteka, laidavimu ar garantija.
 
-5. Už suteiktą mokestinę paskolą mokamos palūkanos, kurių dydį nustato finansų ministras, atsižvelgdamas į praėjusio kalendorinio ketvirčio aukciono būdu išleistų Lietuvos Respublikos valstybės iždo vekselių metinės palūkanų normos svertinį vidurkį. Mokesčių mokėtojui laiku nesumokėjus įmokų pagal mokestinės paskolos sutartimi patvirtintą mokėjimo grafiką, skaičiuojamos padidintos palūkanos, o nesumokėjus palūkanų pagal mokestinės paskolos sutartį – palūkanų delspinigiai. Padidintos palūkanos ir palūkanų delspinigiai skaičiuojami iki tos dienos, kol atitinkamos sumos yra sumokamos (įskaitomos). Padidintų palūkanų ir palūkanų delspinigių dydis yra lygus delspinigių už laiku nesumokėtą mokestį dydžiui.
+5. Už suteiktą mokestinę paskolą mokamos palūkanos, kurių dydį nustato finansų ministras, atsižvelgdamas į praėjusio kalendorinio ketvirčio aukciono būdu išleistų Lietuvos Respublikos valstybės iždo vekselių metinės palūkanų normos svertinį vidurkį. Jeigu kitas palūkanų dydis nenustatytas, taikomas paskutinis finansų ministro nustatytas palūkanų dydis. Mokesčių mokėtojui laiku nesumokėjus įmokų pagal mokestinės paskolos sutartimi patvirtintą mokėjimo grafiką, skaičiuojamos padidintos palūkanos, o nesumokėjus palūkanų pagal mokestinės paskolos sutartį – palūkanų delspinigiai. Padidintos palūkanos ir palūkanų delspinigiai skaičiuojami iki tos dienos, kol atitinkamos sumos yra sumokamos (įskaitomos). Padidintų palūkanų ir palūkanų delspinigių dydis yra lygus delspinigių už laiku nesumokėtą mokestį dydžiui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1137, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13606
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 6. Šio Įstatymo 100 straipsnio 1 dalyje nustatytais pagrindais mokesčių mokėtojas gali būti atleidžiamas nuo skaičiuojamų (apskaičiuotų), bet nesumokėtų (neišieškotų) palūkanų, padidintų palūkanų, palūkanų delspinigių ar jų dalies. Šiam atleidimui mutatis mutandis taikomos šio Įstatymo 100 straipsnio nuostatos, reglamentuojančios atleidimo nuo delspinigių tvarką.
 
@@ -833,7 +869,11 @@ Nr. XII-1137, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13606
 
 8. Šio straipsnio nuostatos netaikomos gyventojų pajamų mokestį išskaičiuojančiam asmeniui, išskyrus atvejus, kai prašoma atidėti mokesčio apskaičiavimo ir sumokėjimo patikrinimo metu papildomai apskaičiuoto gyventojų pajamų mokesčio bei su juo susijusių sumų sumokėjimo terminą.
 
-9. Muitams ir su jais susijusioms sumoms šio straipsnio nuostatos taikomos tiek, kiek jos neprieštarauja Bendrijos muitų teisės aktams.
+9. Neteko galios nuo 2017-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 Straipsnio pakeitimai:
 
@@ -911,13 +951,11 @@ Mirusio fizinio asmens mokestinę nepriemoką privalo padengti šio asmens turto
 
 8) suėjo mokestinės nepriemokos priverstinio išieškojimo senaties terminas.
 
-2. Muitinės administruojamų mokesčių mokestinė prievolė, be šio straipsnio 1 dalyje nurodytų pagrindų, taip pat pasibaigia, jei deklaravus prekes muitinės procedūrai įforminti:
+2. Neteko galios nuo 2017-01-01
 
-1) muitinės deklaracija pripažįstama negaliojančia;
+Straipsnio dalies naikinimas:
 
-2) tos prekės iki jų išleidimo sulaikomos ir tuo pat metu arba vėliau konfiskuojamos, muitinės nurodymu sunaikinamos arba perduodamos valstybės nuosavybėn, arba sunaikinamos, arba negrįžtamai prarandamos dėl faktinės prekių prigimties, nenumatytų arba nenugalimos jėgos aplinkybių;
-
-3) jeigu prekės sulaikomos jų neteisėto įvežimo metu ir tuo pačiu metu arba vėliau konfiskuojamos.
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 3. Mokesčių administratoriui perleidus reikalavimo teisę centralizuotai valdomo valstybės turto valdytojui, mokestinė nepriemoka nurašoma iš biudžeto pajamų apskaitos dokumentų.
 
@@ -999,9 +1037,21 @@ Nr. XII-1454, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21202
 
 2. Teisė išieškoti mokestinę nepriemoką įgyjama kitą dieną po to, kai pasibaigia raginime geruoju sumokėti mokestį ir su juo susijusias sumas nurodytas terminas, o jeigu raginimas nesiunčiamas, – kitą dieną po šio straipsnio 1 dalies 2 ir 3 punktuose nustatyto termino pabaigos. Tais atvejais, kai pasibaigus mokesčio sumokėjimo terminui mokesčių mokėtojas mokesčio deklaraciją pateikia pavėluotai arba pateikia patikslintą mokesčių deklaraciją, mokesčių administratorius įgyja teisę išieškoti patikslintoje mokesčių deklaracijoje nurodytą mokestį ir su juo susijusius delspinigius kitą dieną po minėtos deklaracijos pateikimo dienos.
 
-3. Teisę priverstinai išieškoti laiku nesumokėtą baudą už administracinį teisės pažeidimą mokesčių administratorius įgyja kitą dieną po to, kai pasibaigia Administracinių teisės pažeidimų kodekso 313 straipsnyje numatytas baudos sumokėjimo terminas. Tuo atveju, kai baudos už administracinį teisės pažeidimą mokėjimas buvo atidėtas ar išdėstytas šio Įstatymo ar Administracinių teisės pažeidimų kodekso nustatyta tvarka, teisę priverstinai išieškoti laiku nesumokėtą baudą už administracinį teisės pažeidimą mokesčių administratorius įgyja kitą dieną po to, kai nutraukiama mokestinės paskolos sutartis arba pasibaigia baudos už administracinį teisės pažeidimą mokėjimo, atidėjimo ar išdėstymo terminas.
+3. Teisę priverstinai išieškoti laiku nesumokėtą baudą už administracinį nusižengimą mokesčių administratorius įgyja kitą dieną po to, kai pasibaigia Administracinių nusižengimų kodekso 675 straipsnyje numatytas baudos sumokėjimo terminas. Tuo atveju, kai baudos už administracinį nusižengimą mokėjimas buvo atidėtas ar išdėstytas šio Įstatymo ar Administracinių nusižengimų kodekso nustatyta tvarka, teisę priverstinai išieškoti laiku nesumokėtą baudą už administracinį nusižengimą mokesčių administratorius įgyja kitą dieną po to, kai nutraukiama mokestinės paskolos sutartis arba pasibaigia baudos už administracinį nusižengimą mokėjimo, atidėjimo ar išdėstymo terminas.
 
-4. Šio straipsnio nuostatos muitų ir su jais susijusių sumų nepriemokai taikomi tiek, kiek jos neprieštarauja Bendrijos muitų teisės aktų nuostatoms.
+TAR pastaba. 3 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
+
+Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
+
+4. Neteko galios nuo 2017-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 Straipsnio pakeitimai:
 
@@ -1149,7 +1199,15 @@ Mokesčių administratoriaus pareigūnas turi teisę tikrinti mokesčių mokėto
 
 125 straipsnis. Daiktų paėmimas
 
-1. Mokesčių administratoriaus pareigūnas turi teisę paimti mokesčių mokėtojui priklausančius daiktus, prekių ar produkcijos mėginius ir pavyzdžius, jei tai būtina mokesčių administratoriaus funkcijoms atlikti. Šie veiksmai turi būti įforminti Administracinių teisės pažeidimų kodekso, o jei šis kodeksas šių veiksmų įforminimo nereglamentuoja, – centrinio mokesčių administratoriaus nustatyta tvarka.
+1. Mokesčių administratoriaus pareigūnas turi teisę paimti mokesčių mokėtojui priklausančius daiktus, prekių ar produkcijos mėginius ir pavyzdžius, jei tai būtina mokesčių administratoriaus funkcijoms atlikti. Šie veiksmai turi būti įforminti Administracinių nusižengimų kodekso 599 straipsnyje nustatyta tvarka, o jei šis kodeksas šių veiksmų įforminimo nereglamentuoja, – centrinio mokesčių administratoriaus nustatyta tvarka.
+
+TAR pastaba. 1 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
+
+Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 2. Daiktai, prekių ar produkcijos pavyzdžiai grąžinami, jei jie nėra fiziškai sunaudoti. Sunaudotų daiktų, prekių ar produkcijos pavyzdžių vertė mokesčių mokėtojui kompensuojama teisės aktų nustatytais atvejais ir tvarka.
 
@@ -1371,7 +1429,15 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 1. Teisės aktai, kuriais sumažinamos arba panaikinamos baudos, taikomi ir už mokesčių įstatymų pažeidimus, padarytus iki šių aktų įsigaliojimo, jei baudas sumažinantis arba panaikinantis teisės aktas įsigalioja ne vėliau kaip sprendimo, pagal kurį mokesčių mokėtojui naujai apskaičiuojamas ir nurodomas sumokėti mokestis ir (arba) su juo susijusios sumos, priėmimo dieną, o jei mokesčių mokėtojas apskundžia mokesčių administratoriaus sprendimą, – ne vėliau kaip mokestinį ginčą nagrinėjančios institucijos sprendimo priėmimo dieną.
 
-2. Administracinę arba baudžiamąją atsakomybę švelninančio teisės akto galiojimo klausimas sprendžiamas atitinkamai pagal Administracinių teisės pažeidimų kodeksą arba Baudžiamąjį kodeksą.
+2. Administracinę arba baudžiamąją atsakomybę švelninančio teisės akto galiojimo klausimas sprendžiamas atitinkamai pagal Administracinių nusižengimų kodeksą arba Baudžiamąjį kodeksą.
+
+TAR pastaba. 2 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
+
+Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 Straipsnio pakeitimai:
 
@@ -1379,7 +1445,15 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 143 straipsnis. Mokesčių mokėtojų ir trečiųjų asmenų atsakomybė už kitus mokesčių įstatymų pažeidimus
 
-Mokesčių mokėtojai, tretieji asmenys ir (arba) juridinių asmenų vadovai bei kiti atsakingi darbuotojai už šiame Įstatyme nustatytų pareigų nevykdymą ar netinkamą jų vykdymą taip pat atsako pagal Administracinių teisės pažeidimų kodeksą arba pagal Baudžiamąjį kodeksą.
+Mokesčių mokėtojai, tretieji asmenys ir (arba) juridinių asmenų vadovai bei kiti atsakingi darbuotojai už šiame Įstatyme nustatytų pareigų nevykdymą ar netinkamą jų vykdymą taip pat atsako pagal Administracinių nusižengimų kodeksą arba pagal Baudžiamąjį kodeksą.
+
+TAR pastaba. 143 straipsnio nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
+
+Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 IX SKYRIUS
 
@@ -1513,9 +1587,17 @@ Trečiųjų asmenų pareigos mokesčių administravimo procedūrų taikymo srity
 
 104 straipsnis. Laidavimo arba garantijos pareikalavimas
 
-1. Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais, kai to reikia tinkamam mokestinių prievolių vykdymui užtikrinti (įskaitant mokesčio permokos (skirtumo) įskaitymo ir grąžinimo pagrįstumą), mokesčių administratorius turi teisę pareikalauti, kad mokesčių mokėtojas pateiktų laidavimo arba garantijos dokumentą, pagal kurį laiduotojas arba garantas įsipareigoja įvykdyti mokesčio mokėtojo mokestines prievoles, jei šios nebus vykdomos atitinkamų mokesčių įstatymų nustatytais terminais.
+1. Mokesčių įstatymų, taip pat Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais, kai to reikia tinkamam mokestinių prievolių vykdymui užtikrinti (įskaitant mokesčio permokos (skirtumo) įskaitymo ir grąžinimo pagrįstumą), mokesčių administratorius turi teisę pareikalauti, kad mokesčių mokėtojas pateiktų laidavimo arba garantijos dokumentą, pagal kurį laiduotojas arba garantas įsipareigoja įvykdyti mokesčio mokėtojo mokestines prievoles, jeigu šios nebus vykdomos atitinkamų mokesčių įstatymų nustatytais terminais.
 
-2. Laiduotoju arba garantu gali būti centriniame mokesčių administratoriuje jo nustatyta tvarka užregistruotas Lietuvos Respublikos asmuo – bankas, draudimo įmonė arba kitas trečiasis asmuo, taip pat kitas Bendrijoje įsteigtas trečiasis asmuo, kurie atitinka Vyriausybės arba jos įgaliotos institucijos nustatytus kriterijus.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
+
+2. Jeigu atitinkamo mokesčio įstatyme nenustatyta kitaip, laiduotoju arba garantu gali būti centriniame mokesčių administratoriuje jo nustatyta tvarka užregistruotas Europos Sąjungoje įsteigtas asmuo – kredito įstaiga, draudimo įmonė arba kitas trečiasis asmuo, atitinkantis Vyriausybės arba jos įgaliotos institucijos nustatytus kriterijus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 3. Jei atitinkamo mokesčio įstatyme nenumatyta kitaip, šiame straipsnyje nurodytų laidavimo arba garantijos sumos apskaičiavimo, tikslinimo, taip pat laidavimo arba garantijos dokumentų priėmimo ir naudojimo tvarką nustato Vyriausybė arba jos įgaliota valstybės institucija.
 
@@ -1531,9 +1613,11 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 2. Valstybinės mokesčių inspekcijos valstybės tarnautojų darbo ir apmokėjimo sąlygas, socialines garantijas nustato Valstybės tarnybos įstatymas, kiti įstatymai ir įstatymų lydimieji teisės aktai.
 
-161 straipsnis. Bendrijos muitų teisės aktų viršenybė
+161 straipsnis. Neteko galios nuo 2017-01-01
 
-Nagrinėjant skundus, susijusius su muitų administravimu, Bendrijos muitų teisės aktai turi viršenybę nacionalinės teisės atžvilgiu.
+Straipsnio naikinimas:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 X SKYRIUS
 
@@ -1575,7 +1659,11 @@ Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
 
 1. Jeigu Lietuvos Respublikos tarptautinėse sutartyse nustatytos kitokios negu atitinkamų mokesčių įstatymuose apmokestinimo taisyklės ir šios sutartys yra ratifikuotos, įsigaliojusios ir taikomos Lietuvos Respublikoje, tai viršenybę turi minėtose tarptautinėse sutartyse nustatytos taisyklės.
 
-2. Muitų atžvilgiu šio straipsnio 1 dalies nuostatos taikomos tiek, kiek neprieštarauja Bendrijos muitų teisės aktams.
+2. Neteko galios nuo 2017-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 103 straipsnis. Hipoteka (įkeitimas)
 
@@ -1615,7 +1703,15 @@ Papildyta straipsniu:
 
 Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)
 
-7. Už administracinius teisės pažeidimus Administracinių teisės pažeidimų kodekso nustatyta tvarka paskirtų baudų administravimui ir išieškojimui tiesiogiai taikomi šio Įstatymo 26 straipsnio 1 dalies 12 punktas, 105 straipsnio 3 dalis, 106 straipsnio 2 dalis, 107 straipsnio 6 dalis, 113 straipsnio 2 ir 5 dalys ir mutatis mutandis yra taikytini šio Įstatymo 26 straipsnis (išskyrus 1 dalies 9 punktą), 84, 85 straipsniai, 87 straipsnio 1 ir 5 dalys, 88 straipsnio 1, 2 ir 7 dalys, 108–112 straipsniai, 113 straipsnio 3 ir 4 dalys, IX, X skyriai, o asmenims, kuriems paskirtos baudos už administracinius teisės pažeidimus, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams.
+7. Už administracinius nusižengimus Administracinių nusižengimų kodekso nustatyta tvarka paskirtų baudų administravimui ir išieškojimui tiesiogiai taikomi šio Įstatymo 26 straipsnio 1 dalies 12 punktas, 105 straipsnio 3 dalis, 106 straipsnio 2 dalis, 107 straipsnio 6 dalis, 113 straipsnio 2 ir 5 dalys ir mutatis mutandis yra taikytini šio Įstatymo 26 straipsnis (išskyrus 1 dalies 9 punktą), 84, 85 straipsniai, 87 straipsnio 1 ir 5 dalys, 88 straipsnio 1, 2 ir 7 dalys, 108–112 straipsniai, 113 straipsnio 3 ir 4 dalys, IX, X skyriai, o asmenims, kuriems paskirtos baudos už administracinius nusižengimus, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams.
+
+TAR pastaba. 7 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
+
+Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 Straipsnio pakeitimai:
 
@@ -1651,7 +1747,15 @@ Nr. XII-1454, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21202
 
 5) priimant sprendimą dėl priverstinio mokestinės nepriemokos, užtikrintos priverstine hipoteka (įkeitimu), išieškojimo iš įkeisto turto. Šis sprendimas yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka.
 
-2. Administracinių teisės pažeidimų kodekso nustatyta tvarka priimtus nutarimus skirti baudas priverstine tvarka iš asmens turto ir (ar) lėšų (įskaitant pinigines lėšas asmens sąskaitose, esančiose kredito, mokėjimo ar elektroninių pinigų įstaigose) vykdo antstoliai pagal mokesčių administratoriaus sprendimą dėl priverstinio baudos išieškojimo Civilinio proceso kodekso nustatyta tvarka. Jeigu antstolis, vykdydamas priverstinį baudos už administracinį teisės pažeidimą išieškojimą, per vienerius metus nuo mokesčių administratoriaus sprendimo dėl priverstinio baudos išieškojimo pateikimo jam neranda asmens turto ir (ar) lėšų, iš kurių gali būti priverstinai išieškota bauda, antstolis mokesčių administratoriaus sprendimą dėl priverstinio baudos išieškojimo su žyma, kad išieškojimas negalimas, grąžina mokesčių administratoriui.
+2. Administracinių nusižengimų kodekso nustatyta tvarka priimti nutarimai skirti baudas priverstine tvarka vykdomi pagal Administracinių nusižengimų kodekso 676 straipsnyje nustatytas procedūras.
+
+TAR pastaba. 2 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
+
+Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 3. Šio straipsnio 1 dalies nuostatos taip pat taikomos, kai mokesčių administratorius įstatymų arba tarptautinių sutarčių nustatytais atvejais atlieka išieškojimą kitos valstybės naudai.
 
@@ -1677,13 +1781,37 @@ Nr. XII-602, 2013-11-19, Žin., 2013, Nr. 124-6281 (2013-12-05)
 
 3) netikslinga priverstinai išieškoti nepriemoką, kadangi sunki fizinio asmens ekonominė (socialinė) padėtis: fiziniam asmeniui reikia valstybės paramos (asmuo yra pensinio amžiaus, neįgalusis, asmeniui reikalingas gydymas, medicininė profilaktika ir reabilitacija, asmuo yra bedarbis, gauna socialinę pašalpą) arba tokia parama jau teikiama. Šis nepriemokos pripažinimo beviltiška pagrindas taikomas tik mokesčių mokėtojams, kurie yra fiziniai asmenys, arba kai individualių (personalinių) įmonių savininkų ar ūkinių bendrijų narių sunki ekonominė (socialinė) padėtis.
 
-2. Jeigu vykdant priverstinį išieškojimą nerandama asmens turto ir (ar) lėšų, iš kurių gali būti priverstinai išieškota bauda už administracinį teisės pažeidimą, neišieškota bauda ar jos dalis pripažįstama beviltiška, kai antstolis mokesčių administratoriui grąžina mokesčių administratoriaus sprendimą dėl priverstinio baudos išieškojimo su žyma, kad išieškojimas negalimas.
+2. Jeigu vykdant priverstinį išieškojimą nerandama asmens turto ir (ar) lėšų, iš kurių gali būti priverstinai išieškota bauda už administracinį nusižengimą, neišieškota bauda ar jos dalis pripažįstama beviltiška, kai antstolis mokesčių administratoriui grąžina mokesčių administratoriaus sprendimą dėl priverstinio baudos išieškojimo su žyma, kad išieškojimas negalimas.
 
-3. Mokestinei nepriemokai, pripažintai beviltiška šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytais pagrindais, ir neišieškotai baudai už administracinį teisės pažeidimą ar jos daliai, pripažintai beviltiška šio straipsnio 2 dalyje nurodytais pagrindais, neteikiama priverstinio išieškojimo pirmenybė ir į jas neatsižvelgiama planuojant biudžeto pajamas. Nustačius, kad yra galimybė ir tikslinga šioje dalyje nurodytas mokestinę nepriemoką ir neišieškotą baudą ar jos dalį priverstinai išieškoti, jos išieškomos.
+TAR pastaba. 2 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
+
+Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
+
+3. Mokestinei nepriemokai, pripažintai beviltiška šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytais pagrindais, ir neišieškotai baudai už administracinį nusižengimą ar jos daliai, pripažintai beviltiška šio straipsnio 2 dalyje nurodytais pagrindais, neteikiama priverstinio išieškojimo pirmenybė ir į jas neatsižvelgiama planuojant biudžeto pajamas. Nustačius, kad yra galimybė ir tikslinga šioje dalyje nurodytas mokestinę nepriemoką ir neišieškotą baudą ar jos dalį priverstinai išieškoti, jos išieškomos.
+
+TAR pastaba. 3 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
+
+Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 4. Mokestinės nepriemokos pripažinimo beviltiška, beviltiškų mokestinių nepriemokų revizavimo bei apskaitos tvarką ir mokestinės nepriemokos priverstinio išieškojimo išlaidų apskaičiavimo metodiką nustato centrinis mokesčių administratorius, suderinęs su finansų ministru.
 
-5. Nesumokėta bauda ar jos dalis pakartotinai gali būti perduota antstoliui priverstinai išieškoti netaikant 6 mėnesių baudos perdavimo priverstinai išieškoti termino, kai pasikeičia baudos pripažinimo beviltiška sąlygos – atsiranda turto ar pajamų, iš kurių gali būti vykdomas išieškojimas.
+5. Nesumokėta bauda ar jos dalis pakartotinai gali būti perduota antstoliui priverstinai išieškoti Administracinių nusižengimų kodekso 676 straipsnyje nustatytais atvejais ir tvarka.
+
+TAR pastaba. 5 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
+
+Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 Straipsnio pakeitimai:
 
@@ -1889,7 +2017,11 @@ Mokesčių administratorius (jo pareigūnas), atlikdamas jam pavestas funkcijas,
 
 8) priverstinai išieškoti iš asmenų mokestines nepriemokas;
 
-9) pagal kompetenciją surašyti administracinių teisės pažeidimų protokolus ir atlikti kitus veiksmus, numatytus Administracinių teisės pažeidimų kodekse, skirti kitas administracines sankcijas, baudas, nustatytas įstatymuose;
+9) Neteko galios nuo 2017-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 10) atlikti pats arba pareikalauti iš kitų kompetentingų institucijų atlikti kontrolinius matavimus, kompiuterinių programų bei jų duomenų patikrinimus, materialinių vertybių inventorizaciją ir kitus faktinius tikrinimus;
 
@@ -2115,7 +2247,11 @@ Gyventojų registrą tvarkanti įstaiga gyventojų registro duomenis mokesčių 
 
 3. Šio Įstatymo 96 straipsnio 1 dalies 3 punkte nurodytu atveju delspinigiai skaičiuojami nuo tos dienos, kai tokia permoka buvo grąžinta (įskaityta).
 
-4. Delspinigiams už nesumokėtus muitus šio straipsnio nuostatos taikomos tiek, kiek jos neprieštarauja Bendrijos muitų teisės aktams.
+4. Neteko galios nuo 2017-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 Straipsnio pakeitimai:
 
@@ -2133,15 +2269,21 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 3. Teisės aktai, kuriuose nustatomas trumpesnis delspinigių skaičiavimo laikotarpis, taikomi po jų įsigaliojimo pradėtiems skaičiuoti delspinigiams. Iki minėtų teisės aktų įsigaliojimo pradėtų skaičiuoti delspinigių skaičiavimas tęsiamas ne ilgiau, negu šiuose teisės aktuose nustatytas delspinigių skaičiavimo terminas. Jeigu delspinigiai iki minėtų teisės aktų įsigaliojimo buvo skaičiuojami ilgiau, negu nustatyta šiuose teisės aktuose, delspinigių skaičiavimas nutraukiamas.
 
-4. Šio straipsnio 2 ir 3 dalių nuostatos netaikomos skaičiuojant delspinigius už nesumokėtus muitus.
+4. Neteko galios nuo 2017-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 99 straipsnis. Delspinigių dydis
 
-Delspinigių dydį ir jo apskaičiavimo tvarką nustato finansų ministras, atsižvelgdamas į praėjusio kalendorinio ketvirčio aukciono būdu išleistų Lietuvos Respublikos valstybės iždo vekselių metinės palūkanų normos svertinį vidurkį. Delspinigių dydis nustatomas minėtąją palūkanų normą padidinus 10 procentinių punktų.
+Delspinigių dydį ir jo apskaičiavimo tvarką nustato finansų ministras, atsižvelgdamas į praėjusio kalendorinio ketvirčio aukciono būdu išleistų Lietuvos Respublikos valstybės iždo vekselių metinės palūkanų normos svertinį vidurkį. Delspinigių dydis nustatomas minėtąją palūkanų normą padidinus 10 procentinių punktų. Jeigu kitas delspinigių dydis nenustatytas, taikomas paskutinis finansų ministro nustatytas delspinigių dydis.
 
 Straipsnio pakeitimai:
 
 Nr. XII-1137, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13606
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 100 straipsnis. Atleidimas nuo delspinigių
 
@@ -2157,7 +2299,11 @@ Nr. XII-1137, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13606
 
 3. Atsisakymą atleisti nuo delspinigių mokesčių mokėtojas gali apskųsti šio Įstatymo IX skyriuje nustatyta tvarka.
 
-4. Priimant sprendimus atleisti nuo už nesumokėtus muitus skaičiuojamų delspinigių arba jų netaikyti, šio straipsnio nuostatų laikomasi tiek, kiek jos neprieštarauja Bendrijos muitinės kodekso nuostatoms.
+4. Neteko galios nuo 2017-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 Straipsnio pakeitimai:
 
@@ -2209,11 +2355,17 @@ Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)
 
 1. Mokesčių administratorius, siekdamas užtikrinti galimos paslėpti atsiskaitant grynaisiais pinigais mokestinės prievolės įvykdymą, turi teisę duoti nurodymą mokesčių mokėtojui laikinai (iki vienų metų) su juridiniais asmenimis ir ūkinę komercinę veiklą vykdančiais fiziniais asmenimis atsiskaityti (išmokėti arba gauti pinigus) tik negrynaisiais pinigais (toliau šiame straipsnyje – nurodymas atsiskaityti negrynaisiais pinigais). Nurodymas atsiskaityti negrynaisiais pinigais gali būti duodamas tik juridiniams asmenims ir ūkinę komercinę veiklą vykdantiems fiziniams asmenims.
 
-2. Nurodymas atsiskaityti negrynaisiais pinigais gali būti duodamas, jeigu mokesčių mokėtojas arba mokesčių mokėtojo – juridinio asmens vadovas ar jo įgaliotas asmuo, veikdami to juridinio asmens naudai arba interesais, buvo pripažinti kaltais arba jiems buvo paskirta administracinė nuobauda dėl apgaulingo ar aplaidaus apskaitos tvarkymo, nusikalstamu būdu įgytų pinigų ar turto legalizavimo ir (ar) jo realizavimo, nelegalaus darbo, darbo užmokesčio mokėjimo tvarkos pažeidimo, buhalterinės piniginių lėšų ir materialinių vertybių apskaitos taisyklių pažeidimo, neteisingų duomenų apie pajamas, pelną ar turtą pateikimo ir teistumas neišnykęs ir nepanaikintas arba nuo tos dienos, kurią pasibaigia administracinės nuobaudos vykdymas, nėra praėję daugiau kaip vieni metai, taip pat kai mokesčių administratorius vykdo mokesčių mokėtojo mokestinės nepriemokos priverstinį išieškojimą.
+2. Nurodymas atsiskaityti negrynaisiais pinigais gali būti duodamas, jeigu mokesčių mokėtojas arba mokesčių mokėtojo – juridinio asmens vadovas ar jo įgaliotas asmuo, veikdami to juridinio asmens naudai arba interesais, buvo pripažinti kaltais arba jiems buvo paskirta administracinė nuobauda dėl apgaulingo ar aplaidaus buhalterinės apskaitos tvarkymo, nusikalstamu būdu įgytų pinigų ar turto legalizavimo ir (ar) jo realizavimo, nelegalaus darbo, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimo, buhalterinės piniginių lėšų ir materialinių vertybių apskaitos taisyklių pažeidimo, neteisingų duomenų apie pajamas, pelną, turtą ar jų naudojimą pateikimo ir teistumas neišnykęs ir nepanaikintas arba nuo tos dienos, kurią pasibaigia administracinės nuobaudos vykdymas, nėra praėję daugiau kaip vieni metai, taip pat kai mokesčių administratorius vykdo mokesčių mokėtojo mokestinės nepriemokos priverstinį išieškojimą.
+
+TAR pastaba. 2 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
+
+Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+
+Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 3. Nurodymas atsiskaityti negrynaisiais pinigais taip pat gali būti duodamas, jeigu patikrinimo, ar teisingai apskaičiuotas ir sumokėtas mokestis, mokestinio tyrimo, taip pat pavedimo dėl specialisto išvados teikimo vykdymo metu nustatoma mokesčių įstatymų pažeidimų ir yra pagrįsta rizika, kad mokesčių mokėtojas, atsiskaitydamas grynaisiais pinigais, gali slėpti pajamas ar kitaip vengti mokėti mokesčius.
 
@@ -2243,7 +2395,15 @@ MOKESTINĖS NEPRIEMOKOS PRIVERSTINIS IŠIEŠKOJIMAS
 
 5. Šio Įstatymo 106 straipsnyje nurodytais būdais pradėjus mokestinės nepriemokos priverstinio išieškojimo procedūras, jos užbaigiamos nepaisant to, jog jų vykdymo metu pasibaigia mokestinės nepriemokos priverstinio išieškojimo senaties terminas. Tuo atveju, kai nurodytais atvejais išieškoti mokestinės nepriemokos visiškai ar iš dalies nepavyksta, pakartotinai inicijuoti mokestinės nepriemokos priverstinio išieškojimo procedūrą galima tik tuo atveju, jei nepasibaigęs mokestinės nepriemokos priverstinio išieškojimo senaties terminas.
 
-6. Baudų už administracinius teisės pažeidimus priverstinio išieškojimo senaties terminas nustatytas Administracinių teisės pažeidimų kodekse.
+6. Baudų už administracinius nusižengimus priverstinio išieškojimo senaties terminas nustatytas Administracinių nusižengimų kodekso 672 straipsnyje.
+
+TAR pastaba. 6 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
+
+Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 Straipsnio pakeitimai:
 
@@ -2261,7 +2421,15 @@ Mokestinio patikrinimo rūšys yra:
 
 2) teminis patikrinimas – mokestinės prievolės įvykdymo patikrinimas, kuris apima mokesčių mokėtojo mokamo tam tikro mokesčio (mokesčių), administruojamo (administruojamų) atitinkamo mokesčių administratoriaus, per tam tikrą laikotarpį apskaičiavimo, deklaravimo ir sumokėjimo teisingumo patikrinimą;
 
-3) operatyvus patikrinimas – įstatymuose bei jų lydimuosiuose teisės aktuose numatytų atskirų mokesčių mokėtojų pareigų apskaitos, mokesčių deklaravimo, sumokėjimo, registravimosi mokesčių mokėtoju ir kitose srityse vykdymo patikrinimas. Operatyvus patikrinimas atliekamas vadovaujantis šiuo Įstatymu, taip pat Administracinių teisės pažeidimų kodeksu ir kitais įstatymais.
+3) operatyvus patikrinimas – įstatymuose ir jų lydimuosiuose teisės aktuose numatytų atskirų mokesčių mokėtojų pareigų apskaitos, mokesčių deklaravimo, sumokėjimo, registravimosi mokesčių mokėtoju ir kitose srityse vykdymo patikrinimas. Operatyvus patikrinimas atliekamas vadovaujantis šiuo Įstatymu, taip pat Administracinių nusižengimų kodeksu ir kitais įstatymais.
+
+TAR pastaba. 3 punkto nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
+
+Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 116 straipsnis. Mokestinio patikrinimo atlikimo vieta
 
