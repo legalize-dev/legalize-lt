@@ -4,7 +4,7 @@ identifier: "TAR.0EC89509170B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-02-21"
-last_updated: "2015-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0EC89509170B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,17 +15,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2022-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 20-449, i. k. 0951010ISTA000I-798
-
-TAR pastaba. Daugiabučio gyvenamojo namo ar kitos paskirties pastato savininkų bendrijos, įsteigtos ir Juridinių asmenų registre įregistruotos iki šio įstatymo įsigaliojimo dienos, pirmininkas per 3 mėnesius nuo šio įstatymo įsigaliojimo dienos pateikia Nekilnojamojo turto registro tvarkytojui prašymą bendrijos įsteigimo ir įregistravimo Juridinių asmenų registre faktą įregistruoti Nekilnojamojo turto registre, jeigu toks faktas nebuvo įregistruotas iki šio įstatymo įsigaliojimo dienos. Bendrijos, steigiamos ir Juridinių asmenų registre įregistruojamos nuo šio įstatymo įsigaliojimo dienos iki 2015 m. sausio 1 d., pirmininkas prašymą Nekilnojamojo turto registro tvarkytojui dėl bendrijos įsteigimo ir įregistravimo Juridinių asmenų registre fakto įregistravimo Nekilnojamojo turto registre teikia per 3 mėnesius nuo bendrijos įsteigimo ir Juridinių asmenų registre įregistravimo dienos.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
-
-Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 2, 7, 8 ir 14 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2012-07-01:
 
@@ -503,7 +495,11 @@ Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 
 1. Bendrijos valdymo organų veiklos priežiūrą ir kontrolę pagal Lietuvos Respublikos vietos savivaldos įstatymą atlieka savivaldybės.
 
-2. Savivaldybės vykdomoji institucija ar jos įgaliotas asmuo turi teisę kontroliuoti, kaip bendrijos valdymo organai atlieka pagal šį įstatymą jiems priskirtas funkcijas ir, vadovaudamasis Lietuvos Respublikos administracinių teisės pažeidimų kodeksu, surašyti administracinių teisės pažeidimų protokolus, nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas arba perduoti administracinių teisės pažeidimų bylas nagrinėti teismui.
+2. Savivaldybės vykdomoji institucija ar jos įgaliotas asmuo turi teisę kontroliuoti, kaip bendrijos valdymo organai atlieka pagal šį įstatymą jiems priskirtas funkcijas, ir, vadovaudamiesi Lietuvos Respublikos administracinių nusižengimų kodeksu, surašyti administracinių nusižengimų protokolus, nagrinėti administracinių nusižengimų bylas ir skirti administracines nuobaudas arba perduoti administracinių nusižengimų bylas nagrinėti teismui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2639, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24672
 
 KETVIRTASIS SKIRSNIS
 
@@ -653,7 +649,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -720,6 +716,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 
 Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 2, 7, 8 ir 14 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2639, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24672
+
+Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 20 straipsnio pakeitimo įstatymas
 
 28 straipsnis. Bendrijos nario teisės
 
