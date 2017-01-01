@@ -4,7 +4,7 @@ identifier: "TAR.D00D08A48D5D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "2014-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D00D08A48D5D"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žmogaus audinių, ląstelių, organų donorystės ir transplantacijos įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2696, i. k. 0961010ISTA00I-1626
 
@@ -254,7 +254,11 @@ Nacionalinis transplantacijos biuras prie Sveikatos apsaugos ministerijos:
 
 4) duoti asmens sveikatos priežiūros įstaigų, kurių veiklos priežiūra yra atliekama, įgaliotiems asmenims privalomus vykdyti nurodymus, kad būtų užtikrintas įstatymų ir kitų teisės aktų, reglamentuojančių žmogaus audinių, ląstelių, organų donorystę, paėmimą, ištyrimą, apdorojimą, konservavimą, laikymą, paskirstymą ir transplantaciją, tinkamas įgyvendinimas, reikalauti iš asmens sveikatos priežiūros įstaigų, kurių veiklos priežiūra yra atliekama, įgaliotų asmenų pašalinti aplinkybes ir sąlygas, trukdančias atlikti veiklos priežiūros veiksmus, įspėti asmens sveikatos priežiūros įstaigų, kurių veiklos priežiūra yra atliekama, įgaliotus asmenis dėl nustatytų trūkumų bei pažeidimų ir nustatyti jų pašalinimo terminus iki 60 dienų;
 
-5) teisės aktų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus;
+5) Neteko galios nuo 2017-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XII-2344, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13911
 
 6) naudotis kitomis įstatymų ir kitų teisės aktų nustatytomis teisėmis.
 
@@ -419,4 +423,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-593, 2013-11-14, Žin., 2013, Nr. 120-6057 (2013-11-23), i. k. 1131010ISTA0XII-593
 
 Lietuvos Respublikos žmogaus audinių, ląstelių ir organų donorystės ir transplantacijos įstatymo pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2344, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13911
+
+Lietuvos Respublikos žmogaus audinių, ląstelių, organų donorystės ir transplantacijos įstatymo Nr. I-1626 10 straipsnio pakeitimo įstatymas
 
