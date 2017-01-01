@@ -4,7 +4,7 @@ identifier: "TAR.C7A984833333"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-16"
-last_updated: "2016-12-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7A984833333"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas
 
-Suvestinė redakcija nuo 2016-12-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-08-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-27, i. k. 1031010ISTA0IX-1905
 
@@ -1033,7 +1033,11 @@ Nr. XII-1688, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07414
 
 2. Teisė valdyti geležinkelių riedmenis traukinio mašinistui, iš kurio ji buvo atimta pagal šio straipsnio 1 dalies 1 punktą, grąžinama ne vėliau kaip per 3 darbo dienas, kai jo sveikatos būklė atitinka Lietuvos Respublikos sveikatos apsaugos ministro nustatytus reikalavimus ir traukinio mašinistas apie tai raštu informuoja eismo saugos instituciją.
 
-3. Teisė valdyti geležinkelių riedmenis traukinio mašinistui, iš kurio vadovaujantis Lietuvos Respublikos administracinių teisės pažeidimų kodeksu ji buvo atimta vieniems metams ir ilgiau, grąžinama tik pasibaigus šios teisės atėmimo laikotarpiui ir iš naujo išlaikius egzaminą.
+3. Teisė valdyti geležinkelių riedmenis traukinio mašinistui, iš kurio vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodeksu ji buvo atimta vieniems metams ir ilgiau, grąžinama tik pasibaigus šios teisės atėmimo terminui ir iš naujo išlaikius egzaminą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2600, 2016-09-13, paskelbta TAR 2016-09-19, i. k. 2016-23694
 
 4. Teisė valdyti geležinkelių riedmenis atimama ir grąžinama Lietuvos Respublikos susisiekimo ministro nustatyta tvarka.
 
