@@ -4,7 +4,7 @@ identifier: "TAR.29FB2C8807FE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "2015-10-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2015-10-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
 
@@ -286,13 +286,27 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 10 straipsnis. Valdyba
 
-1. Įmonės valdyba sudaroma, jeigu tai nustatyta įmonės įstatuose. Valdyba sudaroma 4 metams iš ne mažiau kaip 3 narių. Valdybai vadovauja valdybos pirmininkas, kurį iš savo narių renka valdyba.
+1. Įmonės valdyba sudaroma, jeigu tai nustatyta įmonės įstatuose. Valdyba sudaroma 4 metams iš ne mažiau kaip 5 narių. Valdybai vadovauja valdybos pirmininkas, kurį iš savo narių renka valdyba.
+
+TAR pastaba. 10 straipsnio 1 dalies nuostatos taikomos valstybės ir savivaldybės įmonėse sudarant naują valdybą. Iki įstatymo Nr. XII-2465 įsigaliojimo (2017-01-01) sudaryta valdyba atlieka savo funkcijas iki kadencijos, kuriai ji buvo sudaryta, pabaigos arba iki bus sudaryta nauja valdyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2465, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18821
 
 2. Valdybos nariais turi būti skiriami:
 
 1) valstybės tarnautojai;
 
-2) kiti fiziniai asmenys, kurių skaičius valstybės įmonėse, kurių balanse nurodyto turto vertė ne mažesnė negu 14 000 000 eurų ir pardavimo grynosios pajamos per ataskaitinius finansinius metus yra lygios arba viršija 5 800 000 eurų, turi sudaryti ne mažiau kaip 1/3 įmonės įstatuose nurodyto valdybos narių skaičiaus. Kitų įmonių valdybose pagal poreikį taip pat gali būti tokių fizinių asmenų.
+2) kiti fiziniai asmenys, kurių skaičius valstybės įmonėse, kurių balanse nurodyto turto vertė ne mažesnė negu 14 000 000 eurų ir pardavimo grynosios pajamos per ataskaitinius finansinius metus yra lygios arba viršija 5 800 000 eurų, turi sudaryti ne mažiau kaip 1/3 įmonės įstatuose nurodyto valdybos narių skaičiaus. Kitų įmonių valdybose pagal poreikį taip pat gali būti tokių fizinių asmenų;
+
+3) darbuotojų atstovai, kurie turi sudaryti ne mažiau kaip 1/5 įmonės įstatuose nurodyto valdybos narių skaičiaus, bet ne mažiau kaip vieną.
+
+TAR pastaba. 10 straipsnio 2 dalies 3 punkto nuostatos taikomos valstybės ir savivaldybės įmonėse sudarant naują valdybą. Iki įstatymo Nr. XII-2465 įsigaliojimo (2017-01-01) sudaryta valdyba atlieka savo funkcijas iki kadencijos, kuriai ji buvo sudaryta, pabaigos arba iki bus sudaryta nauja valdyba.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2465, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18821
 
 3. Valdybos nariu gali būti skiriamas ir įmonės vadovas.
 
@@ -522,7 +536,11 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 
 5. Sprendime įmonei perduoti įmonės savininko turtą patikėjimo teise, jeigu perduodamas turtas nėra dotacija, turi būti nurodyta, kurioje nuosavo kapitalo dalyje – įmonės savininko kapitalo ar turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė, atitinkančio kapitalo – turi būti registruojamas įmonės turto vertės padidėjimas. Įmonei perduodamas patikėjimo teise valdyti turtas laikytinas dotacija, jeigu šis turtas yra trumpalaikis. Sprendime dėl turto perdavimo patikėjimo teise turi būti nurodyta, kad turtas yra dotacija.
 
-6. Dalis įmonės turto Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais atvejais ir tvarka gali būti perduota kitiems asmenims nuosavybės ar patikėjimo teise, jeigu įmonės įsipareigojimai po įmonės turto sumažėjimo neviršytų 1/3 likusio įmonės savininko kapitalo. Vyriausybės ar savivaldybės tarybos sprendime perduoti įmonės turto dalį kitiems asmenims turi būti nurodyta, kurioje nuosavo kapitalo dalyje – įmonės savininko kapitalo ar turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė, atitinkančio kapitalo – turi būti registruojamas įmonės turto vertės sumažėjimas.
+6. Dalis įmonės turto Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais atvejais ir tvarka gali būti perduota kitiems asmenims nuosavybės ar patikėjimo teise Vyriausybės ar savivaldybės tarybos sprendimu. Sprendimo projektą rengianti valstybės ar savivaldybės įmonės savininko teises ir pareigas įgyvendinanti institucija Vyriausybės nustatyta tvarka turi pagrįsti jo atitiktį Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme nustatytiems valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo principams bei įvertinti dėl dalies įmonės turto perdavimo kitiems asmenims kylančią riziką tenkinti įmonės kreditorių reikalavimus Lietuvos Respublikos valstybės biudžeto ar savivaldybių biudžetų lėšomis. Sprendime perduoti įmonės turto dalį kitiems asmenims turi būti nurodyta, kurioje nuosavo kapitalo dalyje – įmonės savininko kapitalo ar turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė, atitinkančio kapitalo – turi būti registruojamas įmonės turto vertės sumažėjimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2613, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24187
 
 7. Apie Vyriausybės ar savivaldybės tarybos sprendimą perduoti įmonės turto dalį įmonės vadovas per 30 dienų nuo sprendimo priėmimo turi viešai paskelbti šio Įstatymo 3 straipsnio 9 dalyje nurodytame leidinyje arba raštu pranešti kiekvienam įmonės kreditoriui. Įmonė privalo suteikti papildomą prievolių įvykdymo užtikrinimą to pareikalavusiam kreditoriui, jeigu yra pagrindas manyti, kad prievolę įvykdyti bus sunkiau. Kreditorius reikalavimus papildomai užtikrinti prievolių įvykdymą gali pateikti ne vėliau kaip per 2 mėnesius nuo viešo paskelbimo apie sprendimą perduoti įmonės turto dalį dienos arba nuo rašytinio pranešimo įteikimo jam dienos.
 
@@ -1145,4 +1163,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1619, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06521
 
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 11 straipsnio pakeitimo įstatymas
+
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2465, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18821
+
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 10 straipsnio pakeitimo įstatymas
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2613, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24187
+
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 13 straipsnio pakeitimo įstatymas
 
