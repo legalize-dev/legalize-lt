@@ -4,7 +4,7 @@ identifier: "TAR.FF1083B528B7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-09"
-last_updated: "2016-11-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF1083B528B7"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redaguota : 1995 07 21
 
-Suvestinė redakcija nuo 2016-11-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-04-26
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
 
@@ -920,7 +920,11 @@ VALSTYBINĖ SAUGOMŲ TERITORIJŲ KONTROLĖ
 
 1) turėti ir dėvėti nustatyto pavyzdžio uniformą ir skiriamuosius ženklus;
 
-2) įstatymų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus, skirti administracines nuobaudas už šio Įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Administracinių teisės pažeidimų kodekse;
+2) įstatymų nustatyta tvarka surašyti administracinių nusižengimų protokolus, skirti administracines nuobaudas už šio Įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Administracinių nusižengimų kodekse;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2642, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24682
 
 3) reikalauti iš asmenų, pažeidusių šio Įstatymo ir kitų teisės aktų reikalavimus ar teritorijų planavimo dokumentų, reglamentuojančių veiklą saugomose teritorijose, sprendinius, nutraukti neteisėtus veiksmus;
 
@@ -930,7 +934,11 @@ Nr. XII-2307, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10415
 
 4) stabdyti transportą, gabenantį gamtos išteklius, įskaitant medieną ar kitą miško produkciją, tikrinti transporto priemonėse esančių gamtos išteklių įsigijimo dokumentus, taip pat, įtarus neteisėtą gamtos išteklių įsigijimą, tikrinti juos gabenančių asmenų dokumentus, naudoti transporto priemonių priverstinio stabdymo priemones;
 
-5) pristatyti pažeidėjus į policiją arba į patalpas savivaldybės seniūnijos kaimo vietovėje asmenų tapatybei nustatyti, protokolams, aktams surašyti;
+5) pažeidėjus, jų sutikimu, pristatyti į policiją arba į patalpas savivaldybės seniūnijos kaimo vietovėje asmens tapatybei nustatyti, protokolams, aktams surašyti, o jiems nesutinkant – kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2642, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24682
 
 6) vykdant saugomų teritorijų kontrolę pateikę tarnybinį pažymėjimą, nekliudomai įeiti (įvažiuoti) į įmonių, įstaigų, organizacijų, esančių saugomose teritorijose, teritorijas. Į pasienio ruožo teritorijas ir objektus įeiti (įvažiuoti) galima suderinus su pasienio policijos pareigūnais;
 
