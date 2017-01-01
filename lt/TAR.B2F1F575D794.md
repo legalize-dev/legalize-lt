@@ -4,7 +4,7 @@ identifier: "TAR.B2F1F575D794"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-06-23"
-last_updated: "2016-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 @D1=19940623;D2=19960430;D3=19960603
 
-Suvestinė redakcija nuo 2016-07-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 51-951, i. k. 0941010ISTA000I-509
 
@@ -67,7 +67,11 @@ Nr. XII-1522, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21284
 
 7) dokumentų legalizavimą ir tvirtinimą pažyma (Apostille);
 
-8) civilinės būklės aktų įregistravimą ir dokumentų išdavimą;
+8) civilinės būklės aktų įregistravimą ir civilinės būklės aktų įrašus liudijančių išrašų išdavimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2118, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19707
 
 9) atliekamus notarinius veiksmus;
 
@@ -167,7 +171,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-1522, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21284
 
-18) mirties įregistravimą ir mirties liudijimo išdavimą;
+18) gimimo ir mirties įregistravimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2118, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19707
 
 19) dokumentų, susijusių su alimentų išieškojimu, pareikalavimą ir legalizavimą;
 
@@ -366,6 +374,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1522, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21284
 
 Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 3, 6 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2118, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19707
+
+Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 3 ir 6 straipsnių pakeitimo įstatymas
 
 11 straipsnis. Baigiamosios nuostatos
 
