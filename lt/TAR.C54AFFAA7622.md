@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
 
@@ -350,7 +350,7 @@ Nr. XII-569, 2013-10-22, Žin., 2013, Nr. 112-5575 (2013-10-26)
 
 2. Pirkimas prasideda, kai Viešųjų pirkimų tarnyba gauna perkančiosios organizacijos pateiktą skelbimą apie pirkimą arba perkančiosios organizacijos, veikiančios vandentvarkos, energetikos, transporto ar pašto paslaugų srityje, pateiktą išankstinį skelbimą apie numatomą pirkimą, kuriuo jau kviečiama varžytis dėl pirkimo sutarties; kai pirkimas atliekamas neskelbiamų derybų būdu – pateikus kandidatui (kandidatams) kvietimą dalyvauti derybose; atliekant šio įstatymo IV skyriuje reglamentuojamą pirkimą, apie kurį neskelbiama, – kai perkančioji organizacija kreipiasi į tiekėją (tiekėjus) prašydama pateikti pasiūlymą (pasiūlymus).
 
-3. Perkančioji organizacija apie pradedamą bet kurį pirkimą, taip pat nustatytą laimėtoją ir ketinamą sudaryti bei sudarytą pirkimo sutartį nedelsdama, tačiau ne anksčiau negu skelbimas bus išsiųstas Europos Sąjungos oficialiųjų leidinių biurui ir (ar) paskelbtas Centrinėje viešųjų pirkimų informacinėje sistemoje, informuoja savo tinklalapyje bei leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ (mažos vertės pirkimų atveju – tik savo tinklalapyje) nurodydama:
+3. Perkančioji organizacija apie pradedamą bet kurį pirkimą, taip pat nustatytą laimėtoją ir ketinamą sudaryti bei sudarytą pirkimo sutartį nedelsdama, tačiau ne anksčiau negu skelbimas bus išsiųstas Europos Sąjungos oficialiųjų leidinių biurui ir (ar) paskelbtas Centrinėje viešųjų pirkimų informacinėje sistemoje, informuoja savo interneto svetainėje nurodydama:
 
 1) apie pradedamą pirkimą – pirkimo objektą, pirkimo būdą ir jo pasirinkimo priežastis;
 
@@ -359,6 +359,10 @@ Nr. XII-569, 2013-10-22, Žin., 2013, Nr. 112-5575 (2013-10-26)
 3) apie sudarytą pirkimo sutartį – pirkimo objektą, pirkimo sutarties kainą, laimėjusio dalyvio pavadinimą ir, jeigu žinoma, pirkimo sutarties įsipareigojimų dalį, kuriai laimėtojas ketina pasitelkti subrangovus, subtiekėjus ar subteikėjus;
 
 4) taip pat kitą Viešųjų pirkimų tarnybos nustatytą informaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2624, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24197
 
 4. Pirkimas (ar atskiros dalies pirkimas) pasibaigia, kai:
 
