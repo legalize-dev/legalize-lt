@@ -4,7 +4,7 @@ identifier: "TAR.424F7C72601E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-06-28"
-last_updated: "2015-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.424F7C72601E"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS BRANDUOLINĖS SAUGOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-10-09
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 91-4316; Žin. 2011, Nr.109-0; Žin. 2011, Nr.118-0, i. k. 1111010ISTA0XI-1539
 
@@ -167,7 +167,11 @@ Pagrindinės branduolinės saugos reglamentavimo sritys yra:
 
 4. Sprendimą dėl laikino branduolinės energetikos objekto veiklos sustabdymo bet kuriuo branduolinės energetikos objekto gyvavimo etapu teisės aktų nustatyta tvarka taip pat turi teisę priimti branduolinės energetikos objektą eksploatuojanti organizacija ar kitas asmuo, turintis šio įstatymo 22 straipsnio 1 dalies 1, 4 ir 5 punktuose nurodytas licencijas.
 
-5. Valstybinės atominės energetikos saugos inspekcijos viršininko įgalioti darbuotojai turi teisę teisės aktų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus ir skirti administracines nuobaudas.
+5. Neteko galios nuo 2017-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2610, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24184
 
 7 straipsnis. Teisės aktų viešumas
 
@@ -855,7 +859,11 @@ Nr. XII-1175, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13572
 
 13. Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimas dėl baudos skyrimo yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas, jis turi būti priverstinai vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 
-14. Šio įstatymo 47 straipsnio 1 ir 2 dalyse nurodyti pažeidimai tiriami, nagrinėjami, sprendimai dėl baudos skyrimo skundžiami ir vykdomi Lietuvos Respublikos administracinių teisės pažeidimų kodekso nustatyta tvarka, kiek šios tvarkos nereglamentuoja šis įstatymas.
+14. Neteko galios nuo 2017-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2610, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24184
 
 VIENUOLIKTASIS SKYRIUS
 
@@ -968,4 +976,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1175, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13572
 
 Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 47 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2610, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24184
+
+Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 6 ir 48 straipsnių pakeitimo įstatymas
 
