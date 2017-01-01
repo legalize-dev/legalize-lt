@@ -4,7 +4,7 @@ identifier: "TAR.1881C195D0E2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2016-10-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-10-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
 
@@ -945,7 +945,13 @@ DEŠIMTASIS SKIRSNIS
 
 1) atliekamas tarnybinis patikrinimas dėl tarnybinio nusižengimo;
 
-2) jis įtariamas padaręs nusikalstamą veiką ar administracinį teisės pažeidimą, dėl kurio jam negalima leisti atlikti pareigų;
+2) jis įtariamas padaręs nusikalstamą veiką ar administracinį nusižengimą, kuriuo pažemino žvalgybos pareigūno vardą;
+
+TAR pastaba. 52 straipsnio 1 dalies 2 punkto nuostatos taikomos ir tais atvejais, kai yra padaryti administraciniai teisės pažeidimai, numatyti Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2526, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20284
 
 3) tarnyboje jis yra apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, – tą dieną.
 
@@ -955,7 +961,13 @@ DEŠIMTASIS SKIRSNIS
 
 4. Žvalgybos pareigūnas gali būti nušalintas nuo pareigų ne ilgiau kaip 3 mėnesius. Į šį terminą neįskaitomas žvalgybos pareigūno laikinojo nedarbingumo ir atostogų laikas.
 
-5. Jeigu žvalgybos pareigūnas nėra įstatymų nustatyta tvarka pripažintas kaltu dėl administracinio teisės pažeidimo ar nusikalstamos veikos padarymo ir (ar) tarnybinio patikrinimo metu nustatoma, kad žvalgybos pareigūnas nepadarė tarnybinio nusižengimo, jis grąžinamas į eitas pareigas ir jam išmokamas tarnybinis atlyginimas už laikotarpį, kurį jis buvo nušalintas nuo pareigų.
+5. Jeigu žvalgybos pareigūnas nėra Lietuvos Respublikos administracinių nusižengimų kodekso ar Lietuvos Respublikos baudžiamojo kodekso nustatyta tvarka pripažintas kaltu dėl administracinio nusižengimo ar nusikalstamos veikos padarymo ir (ar) tarnybinio patikrinimo metu nustatoma, kad žvalgybos pareigūnas nepadarė tarnybinio nusižengimo, jis grąžinamas į eitas pareigas ir jam išmokamas tarnybinis atlyginimas už laikotarpį, kurį jis buvo nušalintas nuo pareigų.
+
+TAR pastaba. 52 straipsnio 5 dalies nuostatos taikomos ir tais atvejais, kai yra padaryti administraciniai teisės pažeidimai, numatyti Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2526, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20284
 
 6. Žvalgybos pareigūnas gali būti nušalintas nuo pareigų ir kitų įstatymų nustatytais atvejais ir tvarka.
 
