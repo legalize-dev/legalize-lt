@@ -4,7 +4,7 @@ identifier: "TAR.B6B636C7384A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-30"
-last_updated: "2016-07-14"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2016-07-14 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-02-28
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
 
@@ -84,6 +84,12 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 1. Steigiamas bankas registruojamas juridinių asmenų registre, o jeigu licencija išduodama ne steigiamam bankui, atitinkami pakeitimai juridinių asmenų registre daromi tik po to, kai priežiūros institucija išduoda licenciją.
 
 2. Priežiūros institucija išduodama licenciją gali apriboti banko teisę teikti vieną ar kelias licencines finansines paslaugas, jei to prašo bankas ar jei jis nėra pasirengęs teikti visas licencines finansines paslaugas. Apribojimai teikti licencines finansines paslaugas panaikinami, jei bankas pateikia prašymą ir dokumentus bei duomenis, įrodančius, kad bankas yra pasirengęs teikti visas licencines finansines paslaugas.
+
+21. Priežiūros institucija išduodama licenciją specializuotam bankui licencijoje nurodo apie šio Įstatymo 4 straipsnio 5 dalyje nustatytus specializuoto banko veiklai taikomus apribojimus. Specializuotam bankui, kuris ketina teikti kitas finansines paslaugas, negu nurodyta šio Įstatymo 4 straipsnio 5 dalyje, pateikus prašymą ir dokumentus bei duomenis, įrodančius, kad specializuotas bankas atitinka šio Įstatymo 40 straipsnio 1 dalyje nustatytą minimalaus banko kapitalo reikalavimą ir yra pasirengęs teikti visas finansines paslaugas, priežiūros institucija pakeičia licenciją.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2568, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20322
 
 3. Licencija išduodama neterminuotam laikui.
 
@@ -805,7 +811,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
-2. Neteko galios 2012-01-01.
+2. Specializuoto banko Reglamento (ES) Nr. 575/2013 26 straipsnio 1 dalies a–e punktuose nustatytų banko nuosavo kapitalo dalių suma turi būti ne mažesnė kaip vienas milijonas eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2568, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20322
 
 3. Banko valdyba, nustačiusi, kad banko kapitalas yra mažesnis už minimalų banko kapitalą, privalo apie tai nedelsdama pranešti priežiūros institucijai ir tuoj pat sušaukti neeilinį visuotinį akcininkų susirinkimą. Banko visuotinis akcininkų susirinkimas privalo priimti sprendimus, kurie leistų kaip galima greičiau atkurti banko kapitalą iki minimalaus banko kapitalo dydžio. Apie visuotinio akcininkų susirinkimo priimtus sprendimus dėl kapitalo atkūrimo banko valdyba praneša priežiūros institucijai ne vėliau kaip per 3 darbo dienas.
 
@@ -2409,11 +2419,33 @@ Nr. XII-2570, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20323
 
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 55, 64 straipsnių pakeitimo ir Įstatymo papildymo 56-1 straipsniu įstatymas
 
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2449, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17717
+
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 15 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2568, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20322
+
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 4, 9 ir 40 straipsnių pakeitimo įstatymas
+
 1 straipsnis. Įstatymo paskirtis
 
 1. Šio Įstatymo tikslas – reglamentuoti bankų ir užsienio bankų, veikiančių Lietuvos Respublikoje, taip pat jų padalinių steigimo, licencijavimo, veiklos, pabaigos ir pertvarkymo bei priežiūros tvarką, kad bankų sistema būtų stabili, patikima, efektyvi ir saugi.
 
 2. Šiuo Įstatymu įgyvendinami Įstatymo priede nurodyti Europos Sąjungos teisės aktai.
+
+3. Šio Įstatymo nuostatos taikomos atsižvelgiant į 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63) (toliau – Reglamentas (ES) Nr. 1024/2013), ir jo įgyvendinamųjų teisės aktų nuostatas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
 
 Straipsnio pakeitimai:
 
@@ -2421,7 +2453,11 @@ Nr. XI-1869, 2011-12-22, Žin., 2011, Nr. 163-7760 (2011-12-31)
 
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
-1. Bankas – Lietuvos Respublikoje įsteigta kredito įstaiga, kuri turi licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionaliųjų rinkos dalyvių ir jų skolinimu ir prisiima su tuo susijusią riziką bei atsakomybę.
+1. Bankas – Lietuvos Respublikoje įsteigta kredito įstaiga, kuri turi licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionaliųjų rinkos dalyvių ir jų skolinimu ir prisiima su tuo susijusią riziką bei atsakomybę. Šiame Įstatyme sąvoka „bankas“ apima ir sąvoką „specializuotas bankas“.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2568, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20322
 
 2. Banko licencija (toliau – licencija) – šio Įstatymo nustatyta tvarka išduotas leidimas teikti licencines finansines paslaugas.
 
@@ -2456,6 +2492,12 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 Straipsnio dalies naikinimas:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
+
+10. Specializuotas bankas – Lietuvos Respublikoje įsteigta kredito įstaiga, kuri turi licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionaliųjų rinkos dalyvių ir jų skolinimu ir prisiima su tuo susijusią riziką bei atsakomybę ir kuri turi teisę teikti tik šio Įstatymo 4 straipsnio 5 dalyje nurodytas kitas finansines paslaugas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2568, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20322
 
 11. Užsienio bankas – užsienio valstybėje įsteigta kredito įstaiga, kuri turi užsienio valstybės priežiūros institucijos išduotą leidimą ar licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionaliųjų rinkos dalyvių ir jų skolinimu.
 
@@ -2501,7 +2543,35 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 4. Jeigu bankas nusprendžia pats nevykdyti tam tikros veiklos, be kurios neįmanoma teikti finansinių paslaugų, kuri padeda teikti finansines paslaugas ar yra kitaip tiesiogiai susijusi su finansinių paslaugų teikimu, ir sudaryti sandorius su kitais asmenimis dėl atitinkamų paslaugų teikimo bankui (toliau – banko veiklą papildančių paslaugų pirkimas), prieš sudarydamas tokius sandorius bankas privalo apie tai pranešti priežiūros institucijai ir pateikti jai priežiūros institucijos teisės aktų nustatytą informaciją. Priežiūros institucijos teisės aktai gali nustatyti banko veiklą papildančių paslaugų pirkimo reikalavimus.
 
-5. Neteko galios 2012-01-01.
+5. Specializuotas bankas turi teisę, jeigu ši teisė neapribota šio ar kitų įstatymų nustatyta tvarka, teikti tik šias finansines paslaugas:
+
+1) indėlių ir kitų grąžintinų lėšų priėmimas;
+
+2) skolinimas (įskaitant hipotekines paskolas);
+
+3) finansinė nuoma (lizingas);
+
+4) mokėjimo paslaugos;
+
+5) kelionių čekių, vekselių ir kitų mokėjimo priemonių išdavimas ir administravimas, jeigu šios veiklos neapima šio straipsnio 5 dalies 4 punkte nurodytos paslaugos;
+
+6) finansinių laidavimų ir finansinių garantijų teikimas;
+
+7) finansinis tarpininkavimas (agento veikla);
+
+8) pinigų tvarkymas;
+
+9) kreditingumo vertinimo paslaugos;
+
+10) seifo kamerų nuoma;
+
+11) valiutos keitimas (grynaisiais pinigais);
+
+12) elektroninių pinigų leidimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2568, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20322
 
 6. Lietuvos Respublikos teismas, kitos įstatymų nustatytos institucijos ar pareigūnai, prieš priimdami sprendimus, kuriais apribojama banko galimybė disponuoti jo sąskaitose esančiomis lėšomis ar kuriais kitaip apribojama banko teisė teikti finansines paslaugas banko klientams, privalo gauti priežiūros institucijos išvadą dėl šių sprendimų įtakos banko ir visos bankų sistemos stabilumui ir patikimumui.
 
@@ -2613,7 +2683,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
-3. Finansų įmonė, dėl kurios šio straipsnio nustatyta tvarka buvo pateiktas pranešimas, privalo priežiūros institucijai teikti šios teisės aktų nustatytą informaciją, reikalingą prižiūrėti, kaip vykdomos šiame straipsnyje nustatytos sąlygos. Po to, kai yra pateiktas pranešimas, negali sumažėti tokios finansų įmonės kapitalas ir joje turi būti užtikrinama vykdomai veiklai tinkama valdymo ir organizacinė struktūra, apskaitos sistema, vidaus kontrolės sistema. Be to, tokią finansų įmonę priežiūros institucija turi teisę šio Įstatymo nustatyta tvarka inspektuoti ir jai taikyti administracines nuobaudas pagal Administracinių teisės pažeidimų kodeksą. Jei kontroliuojama finansų įmonė nebeatitinka nors vienos sąlygos, nustatytos šio straipsnio 1 dalyje, priežiūros institucija praneša apie tai užsienio valstybės priežiūros institucijai.
+3. Finansų įmonė, dėl kurios šiame straipsnyje nustatyta tvarka buvo pateiktas pranešimas, privalo priežiūros institucijai teikti šios teisės aktų nustatytą informaciją, reikalingą prižiūrėti, kaip vykdomos šiame straipsnyje nustatytos sąlygos. Po to, kai yra pateiktas pranešimas, negali sumažėti tokios finansų įmonės kapitalas ir joje turi būti užtikrinama vykdomai veiklai tinkama valdymo ir organizacinė struktūra, apskaitos sistema, vidaus kontrolės sistema. Be to, tokią finansų įmonę priežiūros institucija turi teisę šio Įstatymo nustatyta tvarka inspektuoti. Jei kontroliuojama finansų įmonė nebeatitinka nors vienos sąlygos, nustatytos šio straipsnio 1 dalyje, priežiūros institucija praneša apie tai užsienio valstybės priežiūros institucijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2449, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17717
 
 TREČIASIS SKIRSNIS
 
