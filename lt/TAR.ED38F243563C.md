@@ -4,7 +4,7 @@ identifier: "TAR.ED38F243563C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "2016-08-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2016-08-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
 
@@ -207,7 +207,13 @@ Ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams pirm
 
 Asmenims, teismo nuosprendžiu pripažintiems kaltais už tyčinio nusikaltimo padarymą, pirmojo ar antrojo laipsnio valstybinės pensijos paskyrimas panaikinamas nuo nuosprendžio įsigaliojimo dienos.
 
-Asmenims, kurie po pirmojo ir antrojo laipsnių valstybinių pensijų paskyrimo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba kurie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, tėvystės, motinystės (tėvystės), profesinės reabilitacijos pašalpas ar nedarbo socialinio draudimo išmokas (toliau šiame straipsnyje – draudžiamosios pajamos), paskirtos pensijos nemokamos. Ši nuostata netaikoma ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams pirmojo laipsnio valstybinių pensijų gavėjams, antrojo laipsnio valstybinių pensijų gavėjoms šio įstatymo 4 straipsnio trečiosios dalies 1 punkte nurodytoms motinoms, garbės donorams. Apie draudžiamųjų pajamų turėjimą pirmojo ir antrojo laipsnių valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos suma išieškoma iš pensijos gavėjo Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
+Asmenims, kurie po pirmojo ir antrojo laipsnių valstybinių pensijų paskyrimo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba kurie gauna ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, tėvystės, vaiko priežiūros, profesinės reabilitacijos ar nedarbo socialinio draudimo išmokas (toliau šiame straipsnyje – draudžiamosios pajamos), paskirtos pensijos nemokamos. Ši nuostata netaikoma ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams pirmojo laipsnio valstybinių pensijų gavėjams, antrojo laipsnio valstybinių pensijų gavėjoms šio įstatymo 4 straipsnio trečiosios dalies 1 punkte nurodytoms motinoms, garbės donorams. Apie draudžiamųjų pajamų turėjimą pirmojo ir antrojo laipsnių valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos suma išieškoma iš pensijos gavėjo Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka.
+
+TAR pastaba. 5 straipsnio 5 dalis įsigalioja 2017-01-01 ir galioja iki 2017-12-31.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2514, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20671
 
 Straipsnio pakeitimai:
 
