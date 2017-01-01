@@ -4,7 +4,7 @@ identifier: "TAR.FBE404535C5B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-10-08"
-last_updated: "2016-06-16"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FBE404535C5B"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2016-06-16 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2019-04-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 215-0; Žin. 1991, Nr.30-804, i. k. 0911010ISTA00I-1863
 
@@ -42,7 +42,11 @@ BENDROSIOS NUOSTATOS
 
 2. Šis Įstatymas nereglamentuoja karinio, bevariklio ir vamzdynų transporto veiklos, jeigu kiti įstatymai nenustato ko kita.
 
-3. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio Įstatymo priede.
+3. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio Įstatymo 3 priede.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 
 Straipsnio pakeitimai:
 
@@ -274,7 +278,7 @@ Nr. X-747, 2006-07-04, Žin., 2006, Nr. 82-3250 (2006-07-27)
 
 1. Jeigu asmuo, kuris nėra Europos Sąjungos valstybės narės pilietis (toliau – užsienietis), neįleidžiamas į Lietuvos Respubliką arba vežėjas, kuris verčiasi keleivių vežimu, įsipareigojęs nuvežti užsienietį tranzitu per Lietuvos Respubliką į paskirties valstybę, atsisako jį vežti, arba paskirties valstybės institucijos neleidžia užsieniečiui, važiavusiam per Lietuvos Respubliką tranzitu, įvažiuoti ir išsiunčia jį į Lietuvos Respubliką, vežėjas, kuris verčiasi keleivių vežimu, atvežęs užsienietį iki Lietuvos Respublikos valstybės sienos, privalo nedelsdamas įvykdyti šio straipsnio 2 arba 3 dalyje numatytus reikalavimus.
 
-2. Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba) reikalavimu vežėjas privalo įvykdyti vieną iš šių punktų:
+2. Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), įgyvendinančios valstybės politiką vidaus reikalų ministrui priskirtose valstybės sienos apsaugos ir jos kirtimo kontrolės srityse, reikalavimu vežėjas privalo įvykdyti vieną iš šių punktų:
 
 1) už savo lėšas nuvežti užsienietį į užsienio valstybę, iš kurios jis atvyko;
 
@@ -282,83 +286,69 @@ Nr. X-747, 2006-07-04, Žin., 2006, Nr. 82-3250 (2006-07-27)
 
 3) už savo lėšas nuvežti užsienietį į užsienio valstybę, į kurią jam leista įvažiuoti.
 
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
+
 3. Jeigu vežėjas, kuris verčiasi keleivių vežimu, negali užsieniečio sugrąžinti į užsienio valstybę, jis privalo nedelsdamas rasti tiesioginio transporto priemones ir padengti su jomis susijusias išlaidas arba, jei tokios galimybės nėra, prisiimti atsakomybę už lėšų, susijusių su užsieniečio buvimu pasienio kontrolės punkte ir sugrąžinimu į šio straipsnio 2 dalies 1–3 punktuose išvardytas valstybes, padengimą.
 
 4. Vyriausybė arba jos įgaliota institucija nustato lėšų, susijusių su užsieniečio buvimu pasienio kontrolės punkte ir sugrąžinimu į užsienio valstybę, padengimo tvarką ir šių lėšų dydį.
 
-19(1) straipsnis. Vežėjų pareiga teikti informaciją
-
-1. Vežėjas, kuris verčiasi keleivių vežimu oro keliais, Valstybės sienos apsaugos tarnybos prašymu iki keleivių registracijos pabaigos privalo jai pateikti šio straipsnio 2 dalyje nurodytą informaciją apie užsieniečius, kuriuos jis pristatys į pasienio kontrolės punktą, per kurį šie užsieniečiai pateks į Lietuvos Respublikos teritoriją iš valstybių, nesančių Europos Sąjungos valstybėmis narėmis.
-
-2. Vežėjas, kuris verčiasi keleivių vežimu oro keliais, Valstybės sienos apsaugos tarnybos prašymu privalo jai pateikti šią informaciją:
-
-1) užsieniečių naudojamų kelionės dokumentų numeriai ir tipai;
-
-2) užsieniečių pilietybės;
-
-3) visi kelionės dokumentuose nurodyti užsieniečių vardai ir pavardės;
-
-4) užsieniečių gimimo datos;
-
-5) pasienio kontrolės punktas, per kurį vežėjas pristatys užsieniečius į Lietuvos Respublikos teritoriją;
-
-6) reiso numeris;
-
-7) transporto priemonės išvykimo ir atvykimo laikas;
-
-8) bendras transporto priemone vežamų užsieniečių skaičius;
-
-9) pradinė užsieniečių įlaipinimo vieta.
-
-3. Vežėjas, kuris verčiasi keleivių vežimu oro keliais, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 18 straipsnyje nustatyta tvarka privalo informuoti užsieniečius, apie kuriuos šio Įstatymo 19(1) straipsnio 2 dalyje nurodyta informacija teikiama, apie numatomą jų asmens duomenų tvarkymą.
-
-4. Vyriausybė ar jos įgaliota institucija nustato šio straipsnio 2 dalyje nurodytos informacijos pateikimo ir tvarkymo taisykles.
-
-Įstatymas papildytas straipsniu:
-
-Nr. X-747, 2006-07-04, Žin., 2006, Nr. 82-3250 (2006-07-27)
-
 20 straipsnis. Vežėjų atsakomybė
 
-1. Vežėjai, kurie verčiasi keleivių vežimu oro ar jūros keliais arba kurie tarptautinio susisiekimo maršrutais autobusais sausuma veža keleivių grupes specialiais bei užsakomaisiais reisais, įveždami užsieniečius į Lietuvos Respublikos teritoriją per valstybės sieną, privalo užtikrinti, kad šie turėtų kelionės dokumentus, kurie reikalingi įvažiuoti į Lietuvos Respubliką. Vežėjai turi teisę tikrinti keleivių kelionės dokumentus, kad įsitikintų, ar keleivis turi kelionės dokumentus, reikalingus įvažiuoti į Lietuvos Respubliką.
+1. Vežėjai, kurie verčiasi keleivių vežimu oro ar jūros keliais ar kurie tarptautinio susisiekimo maršrutais autobusais sausuma veža keleivių grupes specialiais ir užsakomaisiais reisais, įveždami užsieniečius į Lietuvos Respublikos teritoriją per valstybės sieną, privalo užtikrinti, kad šie turėtų kelionės dokumentus, kurie reikalingi įvažiuoti į Lietuvos Respubliką. Vežėjai turi teisę tikrinti keleivių kelionės dokumentus, kad įsitikintų, ar keleivis turi kelionės dokumentus, reikalingus įvažiuoti į Lietuvos Respubliką.
 
-2. Jeigu Valstybės sienos apsaugos tarnyba nustato, kad šio straipsnio 1 dalyje nurodyto vežėjo vežamas užsienietis neturi kelionės dokumentų, kurie reikalingi įvažiuoti į Lietuvos Respubliką, vežėjui skiriama bauda nuo vienuolikos tūkstančių litų iki aštuoniolikos tūkstančių litų už kiekvieną be reikalingų dokumentų vežamą užsienietį.
+TAR pastaba. Bylos dėl Lietuvos Respublikos transporto veiklos pagrindų 20 straipsnio 1 dalies reikalavimų pažeidimo, pradėtos iki 2017-01-01, baigiamos nagrinėti pagal tvarką, galiojusią iki įstatymo Nr. XII-2483 įsigaliojimo (2017-01-01), išskyrus įstatymo Nr. XII-2483 16  straipsnio 4 dalyje nurodytą išimtį.
 
-3. Vežėjui bauda neskiriama, jeigu:
+2. Jeigu Valstybės sienos apsaugos tarnyba nustato, kad šio straipsnio 1 dalyje nurodyto vežėjo vežamas užsienietis neturi kelionės dokumentų, kurie reikalingi įvažiuoti į Lietuvos Respubliką, vežėjui skiriama bauda nuo trijų tūkstančių šimto aštuoniasdešimt šešių iki penkių tūkstančių dviejų šimtų keturiolikos eurų už kiekvieną be reikalingų kelionės dokumentų vežamą užsienietį.
 
-1) vežamas užsienietis siekia prieglobsčio Lietuvos Respublikoje, vadovaudamasis Lietuvos Respublikos įstatymu „Dėl užsieniečių teisinės padėties“;
+3. Šio straipsnio 1 dalyje nurodytų reikalavimų pažeidimo nagrinėjimas nepradedamas, o pradėtas nutraukiamas ir bauda neskiriama, jeigu vežamas užsienietis siekia prieglobsčio Lietuvos Respublikoje, vadovaudamasis Lietuvos Respublikos įstatymu „Dėl užsieniečių teisinės padėties“.
 
-2) vežėjas įrodo, kad priimdamas užsienietį į transporto priemonę įsitikino, kad šis turi kelionės dokumentus, kurie reikalingi įvažiuoti į Lietuvos Respubliką;
-
-3) Valstybės sienos apsaugos tarnyba nustato, kad užsieniečio kelionės dokumentas, kuris reikalingas įvažiuoti į Lietuvos Respubliką, yra suklastotas.
-
-4. Jeigu Valstybės sienos apsaugos tarnyba nustato, kad šio Įstatymo 19(1) straipsnio 1 dalyje nurodytas vežėjas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nepateikė arba pateikė ne visą ar neteisingą šio Įstatymo 19(1) straipsnio 2 dalyje nurodytą informaciją, tokiam vežėjui skiriama nuo vienuolikos tūkstančių iki aštuoniolikos tūkstančių litų bauda už kiekvieną reisą, kuriuo buvo vežami užsieniečiai, apie kuriuos vežėjas nepateikė šio Įstatymo 19(1) straipsnio 2 dalyje nurodytos informacijos arba pateikė ne visą ar neteisingą informaciją.
+4. Jeigu policijos įstaiga nustato, kad šio Įstatymo 191 straipsnio 1 dalyje nurodytas vežėjas nepateikė arba pateikė ne visus ar neteisingus šio Įstatymo 1 priede nurodytus duomenis arba juos pateikė vėliau negu nustatyta šio Įstatymo 191 straipsnio 1 dalyje, tokiam vežėjui skiriama nuo trijų tūkstančių šimto aštuoniasdešimt šešių iki penkių tūkstančių dviejų šimtų keturiolikos eurų bauda už kiekvieną skrydį, kuriuo buvo vežami keleiviai.
 
 Straipsnio pakeitimai:
 
 Nr. X-747, 2006-07-04, Žin., 2006, Nr. 82-3250 (2006-07-27)
 
-21 straipsnis. Įstatymo pažeidimo protokolas ir bylų nagrinėjimo terminai
+Straipsnio pakeitimai:
 
-1. Valstybės sienos apsaugos tarnybos įgalioti darbuotojai (pareigūnai), nustatę, kad pažeisti šio Įstatymo 19(1) straipsnio 1 dalies arba 20 straipsnio 1 dalies reikalavimai, surašo įstatymo pažeidimo protokolą. Protokole nurodoma jo surašymo data ir vieta, protokolą surašiusio asmens pareigos, pavardė, vardas, žinios apie šį Įstatymą pažeidusį asmenį, šio Įstatymo pažeidimo padarymo vieta, laikas ir esmė, šio Įstatymo straipsnis, straipsnio dalis, kurios reikalavimus pažeidė asmuo, liudytojų ir nukentėjusiųjų, jeigu jų yra, pavardės, adresai, šį Įstatymą pažeidusio asmens paaiškinimas, kitokios žinios, būtinos bylai išspręsti.
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 
-2. Valstybės sienos apsaugos tarnyba bylas nagrinėja ir baudas skiria ne vėliau kaip per mėnesį nuo pažeidimo nustatymo dienos.
+21 straipsnis. Įstatymo pažeidimo protokolas, bylų nagrinėjimo ir baudų skyrimo terminai
+
+1. Policijos įstaigos įgalioti darbuotojai (pareigūnai), nustatę, kad pažeisti šio Įstatymo 191 straipsnio 1 dalyje nurodyti reikalavimai, o Valstybės sienos apsaugos tarnybos įgalioti darbuotojai (pareigūnai), nustatę, kad pažeisti šio Įstatymo 20 straipsnio 1 dalyje nurodyti reikalavimai, surašo įstatymo pažeidimo protokolą. Šiame protokole nurodoma jo surašymo data ir vieta, protokolą surašiusio asmens pareigos, vardas, pavardė, vežėjo pavadinimas, šio Įstatymo pažeidimo padarymo vieta, laikas ir esmė, šio Įstatymo straipsnis ir jo nuostata, kurios reikalavimų pažeidimu įtariamas vežėjas, liudytojų ir nukentėjusiųjų, jeigu jų yra, vardai, pavardės, gyvenamųjų vietų adresai, vežėjo paaiškinimas, kitokios žinios, būtinos bylai išspręsti.
+
+2. Šio straipsnio 1 dalyje nurodytas protokolas kartu su šio Įstatymo 23 straipsnio 1 dalyje nurodytu pranešimu pateikiamas vežėjui šio Įstatymo 23 straipsnio 3 dalyje nustatyta tvarka.
+
+3. Valstybės sienos apsaugos tarnyba bylas dėl šio Įstatymo 20 straipsnio 1 dalyje nurodytų reikalavimų pažeidimų, o policijos įstaiga bylas dėl šio Įstatymo 191 straipsnio 1 dalyje nurodytų reikalavimų pažeidimų nagrinėja ir baudas skiria ne vėliau kaip per 30 darbo dienų nuo šio Įstatymo reikalavimų pažeidimo nustatymo dienos.
+
+4. Bauda vežėjui negali būti paskirta, jeigu nuo šio Įstatymo reikalavimų pažeidimo padarymo dienos praėjo daugiau kaip dveji metai. Praėjus šiam terminui, bylos dėl šio Įstatymo reikalavimų pažeidimo nagrinėjimas nepradedamas, o pradėtas – nutraukiamas.
+
+TAR pastaba. 21 straipsnio 4 dalies nuostata taikoma ir nagrinėjant bylas dėl Lietuvos Respublikos transporto veiklos pagrindų įstatymo 191 straipsnio 1 dalies ir 20 straipsnio 1 dalies reikalavimų pažeidimų, padarytų iki 2017-01-01, jeigu bylos dėl šių pažeidimų nebuvo baigtos nagrinėti.
 
 Straipsnio pakeitimai:
 
 Nr. X-747, 2006-07-04, Žin., 2006, Nr. 82-3250 (2006-07-27)
+
+Straipsnio pakeitimai:
+
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 
 22 straipsnis. Bylos nagrinėjimo proceso dalyviai
 
-1. Nagrinėjant bylas dėl šio Įstatymo 19(1) straipsnio 1 dalyje arba 20 straipsnio 1 dalyje numatytų pažeidimų, dalyvauja šie proceso dalyviai:
+1. Nagrinėjant bylas dėl šio Įstatymo 191 straipsnio 1 dalyje arba 20 straipsnio 1 dalyje nurodytų reikalavimų pažeidimų, dalyvauja šie proceso dalyviai:
 
-1) šį Įstatymą pažeidęs asmuo;
+1) šį Įstatymą pažeidęs vežėjas;
 
-2) Valstybės sienos apsaugos tarnybos sprendimu – kiti asmenys, su kurių interesais tiesiogiai susijusi nagrinėjama byla;
+2) Valstybės sienos apsaugos tarnybos ar policijos įstaigos sprendimu – kiti asmenys, su kurių interesais tiesiogiai susijusi nagrinėjama byla;
 
 3) valstybės ir savivaldybių institucijų atstovai – šių institucijų prašymu;
 
-4) Valstybės sienos apsaugos tarnybos sprendimu – ekspertai, specialistai bei kiti asmenys.
+4) Valstybės sienos apsaugos tarnybos ar policijos įstaigos sprendimu – ekspertai, specialistai ir kiti asmenys, turintys su nagrinėjama byla susijusios informacijos ar kitų bylos nagrinėjimui svarbių duomenų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 
 2. Asmenys, nurodyti šio straipsnio 1 dalies 1 ir 2 punktuose, toliau šiame Įstatyme vadinami proceso šalimis.
 
@@ -370,63 +360,93 @@ Nr. X-747, 2006-07-04, Žin., 2006, Nr. 82-3250 (2006-07-27)
 
 23 straipsnis. Pranešimas apie bylos nagrinėjimą
 
-Proceso šalims ne vėliau kaip prieš 5 darbo dienas iki bylos nagrinėjimo raštu pranešama apie nustatytus šio Įstatymo 19(1) straipsnio 1 dalyje arba 20 straipsnio 1 dalyje numatytus pažeidimus, bylos nagrinėjimo vietą ir laiką, taip pat pasiūloma susipažinti su bylos medžiaga, raštu pateikti paaiškinimus. Apie bylos nagrinėjimo vietą ir laiką kitiems proceso dalyviams pranešama raštu ne vėliau kaip prieš 3 darbo dienas iki bylos nagrinėjimo.
+1. Proceso šalims ne vėliau kaip prieš 14 darbo dienų iki bylos nagrinėjimo raštu pranešama apie nustatytus šio Įstatymo 191 straipsnio 1 dalyje arba 20 straipsnio 1 dalyje nurodytų reikalavimų pažeidimus, bylos nagrinėjimo vietą ir laiką, taip pat pasiūloma susipažinti su bylos medžiaga, raštu pateikti paaiškinimus.
+
+2. Apie bylos nagrinėjimo vietą ir laiką kitiems proceso dalyviams raštu pranešama ne vėliau kaip prieš 8 darbo dienas iki bylos nagrinėjimo.
+
+3. Tinkamu pranešimu apie bylos nagrinėjimo vietą ir laiką laikomas pranešimas, išsiųstas registruotu paštu Juridinių asmenų registre nurodytu proceso šalies buveinės adresu, išskyrus atvejus, kai proceso šalis nurodo kitą korespondencijos įteikimo adresą, arba pranešimas, išsiųstas Juridinių asmenų registre nurodytu proceso šalies elektroninių siuntų pristatymo adresu, arba pranešimas, pasirašytinai įteiktas proceso šaliai ar kitam proceso dalyviui, arba pranešimas, proceso šalims ar kitiems proceso dalyviams išsiųstas registruotu paštu jų deklaruotos gyvenamosios vietos ar kitu jų raštu nurodytu adresu.
 
 Straipsnio pakeitimai:
 
 Nr. X-747, 2006-07-04, Žin., 2006, Nr. 82-3250 (2006-07-27)
+
+Straipsnio pakeitimai:
+
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 
 24 straipsnis. Bylos nagrinėjimas
 
 1. Byla nagrinėjama, kai dalyvauja proceso šalys ir kiti proceso dalyviai.
 
-2. Bylos nagrinėjimo metu proceso šalys ir kiti proceso dalyviai turi teisę susipažinti su surinkta bylos medžiaga, duoti paaiškinimus žodžiu ar raštu, pateikti įrodymų, teikti prašymus.
+2. Bylos nagrinėjimo metu proceso šalys ir kiti proceso dalyviai turi teisę susipažinti su surinkta bylos medžiaga, duoti paaiškinimus žodžiu ar raštu, pateikti įrodymus, teikti prašymus. Jeigu bylos nagrinėjimo metu apklausiami liudytojai, vežėjas turi teisę užduoti jiems klausimus, taip pat siūlyti savo liudytojus, teikti kitus įrodymus. Jeigu bylos nagrinėjimo metu pateikiami nauji įrodymai, vežėjas turi teisę ne vėliau kaip per 5 darbo dienas nuo jų pateikimo susipažinti su jais ir pateikti savo paaiškinimus dėl jų.
 
-3. Jeigu proceso šalys ar kiti proceso dalyviai bylos nagrinėjimo metu nedalyvauja, byla gali būti išnagrinėta tik tais atvejais, kai proceso šalims ar kitiems proceso dalyviams laiku buvo pranešta apie bylos nagrinėjimo vietą bei laiką ir proceso šalys bei kiti proceso dalyviai nepateikia dokumentų, patvirtinančių, kad yra svarbių priežasčių, dėl kurių jie negalėjo dalyvauti procese.
+3. Jeigu proceso šalys ar kiti proceso dalyviai bylos nagrinėjimo metu nedalyvauja, byla gali būti išnagrinėta tik tais atvejais, kai yra duomenų, kad proceso šalims ar kitiems proceso dalyviams buvo tinkamai pranešta apie bylos nagrinėjimo vietą ir laiką, taip pat suteikta teisė susipažinti su bylos medžiaga ir duoti paaiškinimus ir proceso šalys bei kiti proceso dalyviai nepateikia dokumentų, patvirtinančių, kad yra svarbių priežasčių, dėl kurių jie negali dalyvauti procese. Atostogos, komandiruotė, kitoks užimtumas nelaikomi svarbiomis priežastimis, taip pat svarbiomis priežastimis paprastai nelaikomas proceso šalies įgalioto atstovo užimtumas kitose bylose.
+
+4. Bylos nagrinėjimas yra viešas. Valstybės sienos apsaugos tarnyba ar policijos įstaiga savo iniciatyva arba proceso šalių ar kitų proceso dalyvių prašymu gali paskelbti posėdį, kuriame nagrinėjama byla, ar jo dalį uždarą, jeigu tai būtina siekiant apsaugoti valstybės ar tarnybos paslaptį arba vežėjo komercinę paslaptį.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 
 25 straipsnis. Sprendimai, priimami išnagrinėjus bylą
 
-1. Valstybės sienos apsaugos tarnyba, išnagrinėjusi bylą, turi teisę priimti sprendimą:
+1. Valstybės sienos apsaugos tarnyba ar policijos įstaiga, išnagrinėjusios bylą, turi teisę priimti sprendimą:
 
-1) skirti šio Įstatymo nustatytą baudą;
+1) skirti baudą;
 
-2) atsisakyti skirti baudą ir bylą nutraukti, kai nėra šio Įstatymo 19(1) straipsnio 1 dalyje arba 20 straipsnio 1 dalyje numatyto pažeidimo.
+2) atsisakyti skirti baudą ir bylą nutraukti, kai nėra šio Įstatymo 191 straipsnio 1 dalyje arba 20 straipsnio 1 dalyje nurodytų reikalavimų pažeidimo.
 
-2. Išnagrinėjus bylą, surašomas nutarimas. Jame turi būti nurodyta sprendimą priėmusios institucijos pavadinimas, bylos nagrinėjimo data ir vieta, priimtas sprendimas, jo apskundimo terminai ir tvarka. Jei priimamas šio straipsnio 1 dalies 1 punkte nurodytas sprendimas, papildomai nurodomi duomenys apie pažeidėją, pažeidimo padarymo aplinkybės, pažeidėjo kaltės įrodymai, kuriais grindžiamas sprendimas, šio Įstatymo straipsnis, nustatantis atsakomybę už pažeidimą, pažeidėjo paaiškinimai ir jų įvertinimas.
+2. Išnagrinėjus bylą, surašomas nutarimas. Jame turi būti nurodyta sprendimą priėmusios institucijos pavadinimas, bylos nagrinėjimo data ir vieta, priimtas sprendimas, jo apskundimo terminai ir tvarka. Jeigu priimamas šio straipsnio 1 dalies 1 punkte nurodytas sprendimas, nutarime papildomai nurodomi duomenys apie šio Įstatymo reikalavimus pažeidusį vežėją, šio Įstatymo reikalavimų pažeidimo padarymo aplinkybės, šio Įstatymo reikalavimus pažeidusio vežėjo kaltės įrodymai, kuriais grindžiamas sprendimas, šio Įstatymo straipsnio nuostata, nustatanti atsakomybę už šio Įstatymo reikalavimų pažeidimą, šio Įstatymo reikalavimus pažeidusio vežėjo paaiškinimai ir jų įvertinimas.
 
-3. Valstybės sienos apsaugos tarnybos nutarimas per 2 dienas nuo jo priėmimo išsiunčiamas šį Įstatymą pažeidusiam asmeniui.
+3. Valstybės sienos apsaugos tarnybos ar policijos įstaigos nutarimas per 2 darbo dienas nuo jo priėmimo išsiunčiamas šio Įstatymo reikalavimus pažeidusiam vežėjui.
 
 Straipsnio pakeitimai:
 
 Nr. X-747, 2006-07-04, Žin., 2006, Nr. 82-3250 (2006-07-27)
 
-26 straipsnis. Sankcijų vežėjams už šio Įstatymo pažeidimus taikymas
+Straipsnio pakeitimai:
 
-1. Konkretus skiriamos baudos dydis nustatomas atsižvelgiant į šio straipsnio 2 ir 3 dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas šio Įstatymo 25 straipsnio 2 dalyje nurodytame nutarime.
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
+
+26 straipsnis. Baudų skyrimas šio Įstatymo reikalavimus pažeidusiems vežėjams
+
+1. Konkretus skiriamos baudos dydis nustatomas pagal sankcijoje numatytų minimalios ir maksimalios baudų vidurkį, atsižvelgiant į šio straipsnio 2 ir 3 dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas šio Įstatymo 25 straipsnio 2 dalyje nurodytame nutarime.
 
 2. Atsakomybę lengvinančiomis aplinkybėmis laikoma:
 
-1) padariusių pažeidimą fizinių ar juridinių asmenų pagalba Valstybės sienos apsaugos tarnybai išaiškinant pažeidimą;
+1) vežėjo pagalba Valstybės sienos apsaugos tarnybai ar policijos įstaigai atliekant šio Įstatymo reikalavimų pažeidimo tyrimą;
 
-2) kad pažeidimas padarytas dėl psichinės ar fizinės prievartos.
+2) tai, kad šio Įstatymo reikalavimų pažeidimas padarytas dėl psichinės ar fizinės prievartos.
 
 3. Atsakomybę sunkinančiomis aplinkybėmis laikoma:
 
-1) pažeidimą padariusių fizinių ar juridinių asmenų kliudymas atlikti tyrimą;
+1) vežėjo kliudymas Valstybės sienos apsaugos tarnybai ar policijos įstaigai atlikti šio Įstatymo reikalavimų pažeidimo tyrimą;
 
-2) kad pažeidimas padarytas pasinaudojant stichine nelaime.
+2) tai, kad šio Įstatymo reikalavimų pažeidimas padarytas pasinaudojant ekstremaliąja situacija.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 
 27 straipsnis. Baudų mokėjimas ir išieškojimas
 
 1. Bauda turi būti sumokėta į valstybės biudžetą ne vėliau kaip per 1 mėnesį nuo nutarimo išsiuntimo dienos.
 
-2. Vežėjų nesumokėtas baudas išieško antstoliai, vykdydami pateiktus Valstybės sienos apsaugos tarnybos nutarimus, Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Nutarimai pateikiami vykdyti ne vėliau kaip per 1 mėnesį nuo baudos sumokėjimo termino pabaigos.
+2. Šio Įstatymo reikalavimus pažeidusio vežėjo nesumokėtas baudas išieško antstoliai, vykdydami jiems pateiktus Valstybės sienos apsaugos tarnybos ar policijos įstaigos nutarimus Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Nutarimai antstoliams pateikiami vykdyti ne vėliau kaip per 20 darbo dienų nuo baudos sumokėjimo termino pabaigos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 
 28 straipsnis. Nutarimų dėl baudų skyrimo apskundimas
 
-1. Vežėjai, nesutinkantys su Valstybės sienos apsaugos tarnybos nutarimu dėl baudos skyrimo, gali apskųsti jį per 1 mėnesį nuo nutarimo priėmimo dienos Administracinių bylų teisenos įstatymo nustatyta tvarka.
+1. Šio Įstatymo reikalavimus pažeidęs vežėjas, nesutinkantis su Valstybės sienos apsaugos tarnybos ar policijos įstaigos nutarimu dėl baudos skyrimo, gali apskųsti jį Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
-2. Skundo padavimas teismui sustabdo Valstybės sienos apsaugos tarnybos nutarimų dėl baudų skyrimo vykdymą.
+2. Skundo padavimas administraciniam teismui sustabdo Valstybės sienos apsaugos tarnybos ar policijos įstaigos nutarimų dėl baudų skyrimo vykdymą.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 
 LIETUVOS RESPUBLIKOS
 
@@ -440,19 +460,107 @@ Nr. I-1863
 
 Lietuvos Respublikos
 
-transporto veiklos
+transporto veiklos pagrindų įstatymo
 
-pagrindų įstatymo
+1 priedas
 
-priedas
+Bilietų užsakymo ir išvykimo kontrolės, KELEIVIŲ skrydžio DUOMENYS
+
+1. Keleivių duomenys (kiekvieno keleivio):
+
+1.1. keleivio duomenų įrašo (PNR) unikalus kodas;
+
+1.2. vardas (vardai), pavardė (pavardės), gimimo data, lytis;
+
+1.3. pilietybė;
+
+1.4. vizos ar kito dokumento, pagrindžiančio galimybę būti šalyje, duomenys (tipas, numeris, išdavimo data, išdavimo įstaiga, galiojimo pabaigos data);
+
+1.5. kelionės dokumento duomenys (tipas, numeris, išdavusi valstybė, galiojimo pabaigos data);
+
+1.6. kontaktinio adreso duomenys (valstybė, gyvenamoji vietovė, gatvė, namo numeris, buto numeris, pašto kodas);
+
+TAR pastaba. 1 priedo 1.6 papunktyje nurodyti duomenys Lietuvos policijos generalinio komisaro įgaliotai policijos įstaigai teikiami nuo 2018-01-01.
+
+1.7. kontaktiniai duomenys (elektroninio pašto adresas, telefono numeris);
+
+TAR pastaba. 1 priedo 1.7 papunktyje nurodyti duomenys Lietuvos policijos generalinio komisaro įgaliotai policijos įstaigai teikiami nuo 2018-01-01.
+
+1.8. keleivio registravimo laikas, įlipimo į lėktuvą būsena (neatvyko, atvyko).
+
+2. Bilietų duomenys (kiekvieno bilieto):
+
+2.1. bilieto numeris;
+
+2.2. bilieto rezervavimo arba patvirtinimo data, bilieto klasė;
+
+2.3. skrydį vykdantis faktinis oro vežėjas (pavadinimas, kodas);
+
+2.4. skrydžio duomenys (numeris, išvykimo data, atvykimo data, informacija, iš kur arba į kur vykdomas skrydis (galutinis tikslas), iš kur arba į kur vykdomas skrydis (tarpinis tikslas), atvykimo ir išvykimo neatitikimas);
+
+2.5. registruoto bagažo duomenys (numeris, vienetai, svoris, specialusis bagažas, papildomas bagažas);
+
+TAR pastaba. 1 priedo 2.5 papunktyje nurodyti duomenys Lietuvos policijos generalinio komisaro įgaliotai policijos įstaigai teikiami nuo 2018-01-01.
+
+2.6. sėdimoji vieta (bilieto pirkimo arba rezervavimo metu ir skrydžio metu);
+
+TAR pastaba. 1 priedo 2.6 papunktyje nurodyti duomenys Lietuvos policijos generalinio komisaro įgaliotai policijos įstaigai teikiami nuo 2018-01-01.
+
+2.7. bilieto rezervavimą atlikusios kelionių agentūros, kelionių agento ar kito bilietą pardavusio ūkio subjekto unikalus atpažinimo kodas.
+
+TAR pastaba. 1 priedo 2.7 papunktyje nurodyti duomenys Lietuvos policijos generalinio komisaro įgaliotai policijos įstaigai teikiami nuo 2018-01-01.
+
+3. Mokėjimo duomenys:
+
+3.1. mokėjimo tipas (grynaisiais, mokėjimo kortele, banko pavedimu);
+
+3.2. suma (eurais);
+
+3.3. mokėtojo duomenys (vardas, pavardė, gyvenamosios vietos duomenys, pavadinimas, buveinės adresas, elektroninio pašto adresas, telefono numeris);
+
+3.4. mokėjimo kortelės duomenys (tipas, numeris, galiojimo pabaigos data, savininko vardas, pavardė, pavadinimas).
+
+Papildyta priedu:
+
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
+
+Lietuvos Respublikos
+
+transporto veiklos pagrindų įstatymo
+
+2 priedas
+
+KOMPETENTINGŲ VALDŽIOS INSTITUCIJŲ SĄRAŠAS
+
+1. Ikiteisminio tyrimo įstaigos, numatytos Lietuvos Respublikos baudžiamojo proceso kodekse.
+
+2. Kriminalinės žvalgybos subjektai, numatyti Lietuvos Respublikos kriminalinės žvalgybos įstatyme.
+
+3. Prokuratūra.
+
+4. Teismai.
+
+5. Žvalgybos institucijos, numatytos Lietuvos Respublikos žvalgybos įstatyme.
+
+Papildyta priedu:
+
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
+
+Lietuvos Respublikos
+
+transporto veiklos pagrindų įstatymo
+
+3 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2001 m. birželio 28 d. Tarybos direktyva 2001/51/EB dėl Konvencijos, įgyvendinančios 1985 m. birželio 14 d. Šengeno susitarimą, 26 straipsnio nuostatų papildymo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 160).
+1. 2001 m. birželio 28 d. Tarybos direktyva 2001/51/EB dėl Konvencijos, įgyvendinančios 1985 m. birželio 14 d. Šengeno susitarimą, 26 straipsnio nuostatų papildymo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 160).
 
 2. 2004 m. balandžio 29 d. Tarybos direktyva 2004/82/EB dėl vežėjų įpareigojimo perduoti keleivių duomenis (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 74).
 
 3. 2010 m. liepos 7 d. Europos Parlamento ir Tarybos direktyva 2010/40/ES dėl kelių transporto ir jo sąsajų su kitų rūšių transportu srities intelektinių transporto sistemų diegimo sistemos (OL 2010 L 207, p. 1).
+
+4. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos direktyva 2016/681 dėl keleivio duomenų įrašo (PNR) duomenų naudojimo teroristinių nusikaltimų ir sunkių nusikaltimų prevencijos, nustatymo, tyrimo ir patraukimo už juos baudžiamojon atsakomybėn tikslais (OL 2016 L 119, p. 132).
 
 Įstatymas papildytas priedu:
 
@@ -465,6 +573,10 @@ Nr. X-747, 2006-07-04, Žin., 2006, Nr. 82-3250 (2006-07-27)
 Nr. XI-1744, 2011-11-29, Žin., 2011, Nr. 150-7049 (2011-12-08)
 
 Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
+
+Priedo pakeitimai:
+
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 
 Pakeitimai:
 
@@ -584,6 +696,14 @@ Nr. XII-2395, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16846
 
 Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 9 ir 15 straipsnių pakeitimo įstatymas
 
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
+
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 1, 19, 19-1, 20, 21, 22, 23, 24, 25, 26, 27 ir 28 straipsnių pakeitimo, Įstatymo papildymo nauju 1 ir 2 priedais ir priedo pakeitimo įstatymas
+
 13 straipsnis. Viešųjų keleivinio transporto paslaugų teikimas
 
 1. Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybių institucijos užtikrina socialiai būtinų transporto paslaugų teikimą visuomenei. Patiriami dėl šių paslaugų teikimo nuostoliai vežėjams yra kompensuojami Vyriausybės ar jos įgaliotos institucijos ir (ar) savivaldybių.
@@ -651,4 +771,38 @@ Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 ANTRASIS SKIRSNIS
 
 VIEŠOJO NAUDOJIMO INFRASTRUKTŪROS VALDYMAS IR PLĖTRA
+
+191 straipsnis. Vežėjų, kurie verčiasi keleivių vežimu oro keliais, pareiga teikti informaciją
+
+1. Vežėjas, kuris verčiasi keleivių vežimu oro keliais, ne vėliau kaip prieš 48 valandas iki tvarkaraštyje numatyto skrydžio laiko ir iš karto po to, kai uždaromi keleivių įlaipinimo vartai, bet ne vėliau negu pradedamas skrydis, privalo šio straipsnio 2 dalyje nurodytam įgaliotam padaliniui neatlygintinai elektroninių ryšių priemonėmis pateikti šio Įstatymo 1 priede nurodytus bilietų užsakymo ir išvykimo kontrolės, keleivių skrydžio duomenis apie atvykstančius į Lietuvos Respublikos teritoriją ar išvykstančius iš jos oro keliais keleivius.
+
+TAR pastaba. Bylos dėl Lietuvos Respublikos transporto veiklos pagrindų 191 straipsnio 1 dalies reikalavimų pažeidimo, pradėtos iki 2017-01-01, baigiamos nagrinėti pagal tvarką, galiojusią iki įstatymo Nr. XII-2483 įsigaliojimo (2017-01-01), išskyrus įstatymo Nr. XII-2483 16  straipsnio 4 dalyje nurodytą išimtį.
+
+2. Įgaliotas padalinys yra Lietuvos policijos generalinio komisaro įsakymu įgaliota policijos įstaiga ar jos struktūrinis padalinys. Įgaliotam padaliniui priklauso Valstybės sienos apsaugos tarnybos ir Lietuvos Respublikos valstybės saugumo departamento (toliau – Valstybės saugumo departamentas) deleguoti pareigūnai, įgalioti atlikti funkcijas, susijusias su šio Įstatymo 1 priede nurodytų duomenų tvarkymu.
+
+3. Šio Įstatymo 1 priede nurodyti duomenys tvarkomi teroristinių nusikaltimų ir su teroristine veikla susijusių nusikaltimų, taip pat sunkių ir labai sunkių nusikaltimų, kaip jie apibrėžti Lietuvos Respublikos baudžiamajame kodekse, prevencijos, nustatymo, tyrimo ir patraukimo už juos baudžiamojon atsakomybėn tikslais.
+
+4. Valstybės sienos apsaugos tarnyba šio Įstatymo 1 priedo 1.1, 1.2, 1.3, 1.4, 1.5, 2.3, 2.4 papunkčiuose nurodytus duomenis apie užsieniečius, atvykstančius į Lietuvos Respublikos teritoriją iš valstybių, ne Europos Sąjungos valstybių narių, tvarko siekiant kovoti su nelegalia migracija ir sugriežtinti pasienio kontrolę.
+
+5. Atliekant keleivių įvertinimą prieš jiems atvykstant į Lietuvos Respubliką ar išvykstant iš jos, šio Įstatymo 1 priede nurodyti duomenys automatizuotu būdu yra palyginami su duomenimis, tvarkomais valstybės ir žinybiniuose registruose, informacinėse sistemose teroristinių ar labai sunkių ir sunkių nusikaltimų prevencijos, nustatymo, tyrimo ar patraukimo baudžiamojon atsakomybėn, taip pat įtariamųjų, kaltinamųjų, nuteistųjų, dingusių be žinios ar įtrauktų į Šengeno informacinę sistemą asmenų paieškos tikslais. Keleivių vertinimas atliekamas pagal iš anksto nustatytus ir Lietuvos policijos generalinio komisaro nustatyta tvarka patvirtintus tikslinius, proporcingus, konkrečius, nediskriminacinius kriterijus; gavus teigiamą rezultatą, duomenys turi būti atskirai peržiūrėti įgalioto padalinio neautomatizuotu būdu.
+
+6. Šio Įstatymo 1 priede nurodyti duomenys tvarkomi teisės aktų nustatyta tvarka įsteigtoje informacinėje sistemoje ir saugomi 5 metus. Šio Įstatymo 1 priedo 1.2, 1.4, 1.5 papunkčiuose ir 3 punkte nurodyti duomenys po 6 mėnesių nuo jų įrašymo į informacinę sistemą yra nuasmeninami ir užmaskuojami, išskyrus atvejus, kai šie duomenys yra naudojami konkrečiais teroristinių ar labai sunkių ir sunkių nusikaltimų prevencijos, nustatymo, tyrimo ar patraukimo baudžiamojon atsakomybėn tikslais. Oro vežėjo pateikti šio Įstatymo 1 priede nenumatyti ypatingi ir kiti asmens duomenys informacinėje sistemoje nedelsiant ištrinami.
+
+7. Įgaliotas padalinys šio Įstatymo 1 priede nurodytus duomenis ar tų duomenų tvarkymo rezultatus šio Įstatymo 2 priede nurodytoms kompetentingoms institucijoms ar kitų valstybių narių įgaliotiems padaliniams ar Europos policijos biurui (Europolui) teikia pagrįsto prašymo pagrindu tik konkrečiais teroristinių nusikaltimų ar labai sunkių ir sunkių nusikaltimų prevencijos, nustatymo, tyrimo ar patraukimo baudžiamojon atsakomybėn tikslais. Įgaliotas padalinys teikia šio straipsnio 1 dalyje nurodytus duomenis ar tų duomenų tvarkymo rezultatus trečiosioms šalims tik atskirai įvertinęs kiekvieną konkretų atvejį, laikydamasis šiame straipsnyje ir Lietuvos Respublikos asmens duomenų, tvarkomų vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, teisinės apsaugos įstatyme nustatytų sąlygų. Šio Įstatymo 1 priede nurodytų duomenų teikimo kompetentingoms institucijoms ir jų naudojimo sąlygas, būdus ir tvarką nustato Lietuvos Respublikos Vyriausybė.
+
+8. Šio Įstatymo 1 priede nurodyti duomenys įgaliotam padaliniui teikiami ir tvarkomi Lietuvos policijos generalinio komisaro nustatyta tvarka.
+
+9. Vežėjas, kuris verčiasi keleivių vežimu oro keliais, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 24 straipsnyje nustatyta tvarka privalo informuoti keleivius apie numatomą jų asmens duomenų, nurodytų šio straipsnio 1 dalyje, tvarkymą.
+
+10. Savo teises dėl asmens duomenų tvarkymo keleivis įgyvendina Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo nustatyta tvarka.
+
+11. Asmenims, pažeidusiems duomenų tvarkymo nuostatas, taikoma įstatymų nustatyta atsakomybė.
+
+Įstatymas papildytas straipsniu:
+
+Nr. X-747, 2006-07-04, Žin., 2006, Nr. 82-3250 (2006-07-27)
+
+Straipsnio pakeitimai:
+
+Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 
