@@ -4,7 +4,7 @@ identifier: "TAR.AB7AFE2F35B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-01-18"
-last_updated: "2015-12-04"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2015-12-04 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-27
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
 
@@ -330,7 +330,11 @@ Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
 
 2. Priežiūros institucija turi teisę licencijuotoms kredito įstaigoms, reguliuojamos rinkos operatoriams ir Centriniam depozitoriumui taikyti šio straipsnio 1 dalies 1 ir 2 punktuose, o finansų patarėjo įmonėms – šio straipsnio 1 dalies 1, 2, 4, 5 ir 6 punktuose nustatytas poveikio priemones.
 
-3. Priežiūros institucija turi teisę skirti Lietuvos Respublikos administracinių teisės pažeidimų kodekse nustatytas nuobaudas fiziniams asmenims.
+3. Neteko galios nuo 2017-01-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2454, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17721
 
 4. Priežiūros institucijos pritaikytos poveikio priemonės ar sankcijos skelbiamos viešai ne vėliau kaip per 3 darbo dienas, išskyrus atvejus, kai toks paskelbimas padarytų žalos rinkai ar padarytų neproporcingos žalos dalyvaujančioms šalims. Jeigu priežiūros institucija viešai paskelbia apie pritaikytą poveikio priemonę ar sankciją, ji tuo pačiu metu apie tai praneša Europos vertybinių popierių ir rinkų institucijai.
 
@@ -2999,6 +3003,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2076, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19284
 
 Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 3 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2454, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17721
+
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 83 straipsnio pakeitimo įstatymas
 
 121 straipsnis. Pradinio kapitalo reikalavimai
 
