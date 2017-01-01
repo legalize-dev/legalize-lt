@@ -4,7 +4,7 @@ identifier: "TAR.551F0CDE5B64"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-18"
-last_updated: "2016-12-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.551F0CDE5B64"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas
 
-Suvestinė redakcija nuo 2016-12-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-07-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1598, i. k. 0991010ISTAIII-1185
 
@@ -482,7 +482,11 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
 87 straipsnis. Administracinė ir baudžiamoji atsakomybė
 
-Administracinę ir baudžiamąją atsakomybę už autorių teisių, gretutinių teisių ir sui generis teisių pažeidimus nustato atitinkamai Administracinių teisės pažeidimų kodeksas ir Baudžiamasis kodeksas.
+Administracinę ir baudžiamąją atsakomybę už autorių teisių, gretutinių teisių ir sui generis teisių pažeidimus nustato atitinkamai Administracinių nusižengimų kodeksas ir Baudžiamasis kodeksas.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2617, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24191
 
 88 straipsnis. Muitinės priežiūros priemonių taikymas
 
