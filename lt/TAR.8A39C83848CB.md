@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2016-11-18"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2016-11-18 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-01-01
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -763,13 +763,9 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 5. Nutarties, patvirtinančios sutikimą įvaikinti, įsiteisėjusį nuorašą teismas per tris darbo dienas išsiunčia valstybinei įvaikinimo institucijai.
 
-3.295 straipsnis. Duomenų apie tėvą įrašas vaiko gimimo įraše
+6.295 straipsnis. Atsakomybės sąlygos
 
-Civilinės metrikacijos įstaiga, remdamasi prašymu dėl tėvystės pripažinimo arba teismo sprendimu nustatyti tėvystę, įrašo į vaiko gimimo įrašą duomenis apie tėvą ir išduoda naują gimimo liudijimą.
-
-XXIII skyrius
-
-ĮVAIKINIMO REGISTRAVIMAS
+Žala atlyginama, jeigu nukentėjęs asmuo įrodo, kad žalos padaryta, kad produktas (paslauga) yra netinkamos kokybės ir kad egzistuoja priežastinis netinkamos kokybės ir nuostolių ryšys.
 
 6.358 straipsnis. Daiktų pardavimas naudojant automatus
 
@@ -1414,6 +1410,10 @@ Nr. XII-1066, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10460
 21 straipsnis. Civilinio kodekso nustatytų normų, susijusių su bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų apskaita, taikymas
 
 1. Civilinio kodekso 3.24 straipsnyje nustatyta norma dėl bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų oficialios apskaitos taikoma po šio kodekso įsigaliojimo sudarytoms santuokoms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2125, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19718
 
 2. Nuo Lietuvos Respublikos Konstitucijos įsigaliojimo iki Civilinio kodekso įsigaliojimo bažnyčios (konfesijų) nustatyta tvarka sudaryta santuoka sutuoktinių arba vieno iš jų prašymu įtraukiama į apskaitą, jeigu ši santuoka jos sudarymo metu pagal galiojusį teisinį reguliavimą atitiko santuokos sudarymo sąlygas ir po santuokos sudarymo bažnyčios (konfesijų) nustatyta tvarka nebuvo įregistruota nė vieno iš bažnytiniame santuokos dokumente nurodytų sutuoktinių santuoka civilinės metrikacijos įstaigoje. Tokios santuokos pradžia laikoma bažnytiniame santuokos dokumente nurodyta data. Jeigu santuokos įtraukimo į apskaitą metu vienas iš sutuoktinių yra miręs, civilinės metrikacijos įstaiga įrašo atkurtąjį santuokos sudarymo įrašą.
 
@@ -2431,71 +2431,97 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 TAR pastaba. 3.261 straipsnio nuostatos dėl apribojimo nustatant vaiko iki trejų metų globą vaikų globos institucijoje netaikomos iki įstatymo Nr. XII-1879 įsigaliojimo (2017-01-01) nustatytai vaiko globai.
 
-3.280 straipsnis. Civilinės būklės aktus registruojančios įstaigos ir jų kompetencija
+Straipsnio pakeitimai:
 
-1. Miestų ir rajonų civilinės metrikacijos įstaigos registruoja gimimą, tėvystės pripažinimą, tėvystės nustatymą, santuokos sudarymą, santuokos nutraukimą, įvaikinimą, vardo, pavardės, tautybės pakeitimą ir mirtį.
+Nr. XII-1879, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11177
 
-2. Miestų, kuriuose nėra civilinės metrikacijos įstaigų, seniūnijų (išskyrus savivaldybių centrų seniūnijas) seniūnai turi teisę registruoti mirtį.
+6.280 straipsnis. Regreso teisė į žalos padariusį asmenį
 
-3. Lietuvos Respublikos konsulinės įstaigos turi teisę registruoti Lietuvos Respublikos piliečių gimimą, santuoką ir mirtį.
+1. Atlyginęs kito asmens padarytą žalą asmuo turi į padariusį žalą asmenį regreso (atgręžtinio reikalavimo) teisę tokio dydžio, kiek sumokėjo žalos atlyginimo, jeigu įstatymai nenustato kitokio dydžio.
 
-3.283 straipsnis. Draudimas įrašyti civilinės būklės aktų įrašus sau ir giminaičiams
+2. Atlyginęs kelių asmenų bendrai padarytą žalą asmuo turi teisę iš kiekvieno reikalauti jų išmokėto žalos atlyginimo dalies, proporcingos jų kaltei. Kai neįmanoma nustatyti kiekvieno iš žalą padariusių asmenų kaltės dydžio, laikoma, kad jie žalą turi atlyginti lygiomis dalimis.
 
-Draudžiama įrašyti civilinės būklės aktų įrašus sau, savo sutuoktiniui, tėvams, vaikams, broliams ir seserims.
+3. Tėvai, globėjas ar rūpintojas, taip pat šio kodekso 6.275, 6.276 ir 6.278 straipsniuose nurodytos institucijos, atlyginę nepilnamečio ar pripažinto neveiksniu tam tikroje srityje fizinio asmens padarytą žalą, neturi regreso teisės į šiuos fizinius asmenis.
 
-3.300 straipsnis. Dokumentai, pateikiami kartu su prašymu įregistruoti santuoką
+Straipsnio dalies pakeitimai:
 
-1. Norintys susituokti kartu su prašymu įregistruoti santuoką pateikia savo gimimo liudijimą ir pasą arba jį atstojantį dokumentą.
+Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
-2. Ištuoktas asmuo pateikia taip pat ištuokos liudijimą.
+6.283 straipsnis. Žalos atlyginimas sveikatos sužalojimo atveju
 
-3. Užsienio valstybių piliečiai, paduodami prašymus įregistruoti santuoką, privalo pateikti taip pat savo valstybės kompetentingos įstaigos išduotą dokumentą, patvirtinantį, kad santuokai nėra kliūčių.
+1. Jeigu fizinis asmuo suluošintas ar kitaip sužalota jo sveikata, tai už žalą atsakingas asmuo privalo nukentėjusiam asmeniui atlyginti visus šio patirtus nuostolius ir neturtinę žalą.
 
-3.304 straipsnis. Bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų apskaita
+2. Nuostolius šio straipsnio 1 dalyje nurodytais atvejais sudaro negautos pajamos, kurias nukentėjęs asmuo būtų gavęs, jeigu jo sveikata nebūtų sužalota, ir su sveikatos grąžinimu susijusios išlaidos (gydymo, papildomo maitinimo, vaistų įsigijimo, protezavimo, sužaloto asmens priežiūros, specialių transporto priemonių įsigijimo, sužaloto asmens perkvalifikavimo išlaidos bei kitos sveikatos grąžinimui būtinos išlaidos).
 
-1. Atitinkamos religinės organizacijos įgaliotas asmuo privalo per dešimt dienų po santuokos sudarymo bažnyčios nustatyta tvarka pateikti santuokos sudarymo vietos civilinės metrikacijos įstaigai Teisingumo ministerijos nustatytos formos pranešimą apie santuokos įregistravimą bažnyčios (konfesijų) nustatyta tvarka.
+3. Jeigu po sprendimo dėl žalos atlyginimo priėmimo nukentėjusio asmens sveikata pablogėja, jis turi teisę pareikšti ieškinį dėl papildomų išlaidų atlyginimo, išskyrus atvejus, kai žala buvo atlyginta konkrečia vienkartine pinigų suma.
 
-2. Civilinės metrikacijos įstaiga, gavusi pranešimą apie santuokos sudarymą bažnyčios nustatyta tvarka, įrašo santuokos įrašą ir išduoda santuokos liudijimą pagal šio kodekso 3.303 straipsnio 2, 3 ir 4 dalyse nustatytas taisykles tuo atveju, jeigu yra laikytasi šio kodekso 3.12–3.17 straipsnių reikalavimų. Tokiu atveju santuoka laikoma sudaryta nuo jos įregistravimo bažnyčios nustatyta tvarka dienos.
+4. Šis straipsnis taikomas tik tais atvejais, kai nukentėjęs asmuo nėra apdraustas nuo nelaimingų atsitikimų darbe socialiniu draudimu įstatymų nustatyta tvarka.
 
-3. Jeigu per šio straipsnio 1 dalyje nustatytą terminą pranešimas apie santuokos įregistravimą bažnyčios nustatyta tvarka civilinės metrikacijos įstaigai nepateikiamas, santuoka laikoma sudaryta nuo tos dienos, kai ji buvo įtraukta į apskaitą civilinės metrikacijos įstaigoje.
+6.300 straipsnis. Ieškinio senatis
 
-XXV skyrius
+1. Ieškiniai dėl nuostolių (žalos), atsiradusių vartojant netinkamos kokybės produktus (paslaugas), gali būti pareiškiami per trejus metus nuo tos dienos, kurią nukentėjęs asmuo sužinojo arba turėjo sužinoti apie jam padarytą žalą, trūkumą ir kas yra gamintojas.
 
-SANTUOKOS NUTRAUKIMO REGISTRAVIMAS
+2. Teisė pareikšti šio straipsnio 1 dalyje nurodytą ieškinį išnyksta suėjus dešimties metų terminui nuo tos dienos, kurią produkto gamintojas išleido žalos padariusį produktą į apyvartą.
 
-3.308 straipsnis. Civilinės būklės aktų įrašuose pakeitimų dėl vardo, pavardės, tautybės pakeitimo padarymas
+Penktasis skirsnis
 
-Jeigu Teisingumo ministerija leido pakeisti vardą, pavardę, tautybę, civilinės metrikacijos įstaiga padaro atitinkamus pakeitimus gimimo, santuokos sudarymo, santuokos nutraukimo įrašuose ir išduoda vardo, pavardės, tautybės pakeitimo liudijimą bei naujus gimimo, santuokos, ištuokos liudijimus.
+DĖL klaidinančiOS reklamOS ATSIRADUSIOS  ŽALOS atlyginimas
 
-XXVII skyrius
+6.304 straipsnis. Klaidinančios reklamos uždraudimas ir paneigimas
 
-MIRTIES REGISTRAVIMAS
+Suinteresuotų asmenų prašymu teismas, nagrinėjantis žalos atlyginimo bylą, gali uždrausti toliau skleisti klaidinančią reklamą arba uždrausti skleisti parengtą, bet dar nepaskleistą klaidinančią reklamą, taip pat įpareigoti klaidinančią reklamą viešai ir adekvačiai paneigti.
 
-3.313 straipsnis. Civilinės būklės aktų įrašų atkūrimo, papildymo ir ištaisymo tvarka
+IV dalis
 
-1. Civilinės būklės aktų įrašus atkuria, papildo ir ištaiso, jeigu dėl to yra pakankamas pagrindas ir nėra suinteresuotų asmenų ginčo, civilinės metrikacijos įstaigos.
+ATSKIROS SUTARČIŲ RŪŠYS
 
-2. Jei tarp suinteresuotų asmenų iškyla ginčas, civilinės būklės aktų įrašai atkuriami, papildomi ir ištaisomi teismo sprendimu.
+XXIII skyrius
 
-XXIX Skyrius
+PIRKIMAS–PARDAVIMAS
 
-CIVILINĖS BŪKLĖS AKTŲ ĮRAŠŲ IR JŲ KEITIMO DOKUMENTŲ SAUGOJIMAS
+Pirmasis skirsnis
 
-3.314 straipsnis. Civilinės būklės aktų įrašų ir jų keitimo dokumentų saugojimo tvarka
+BendrOSIOS nuostatOS
 
-Civilinės būklės aktų įrašų ir jų keitimo dokumentų saugojimo tvarką nustato Teisingumo ministerija kartu su Lietuvos archyvų departamentu.
+6.308 straipsnis. Draudimas pirkti ir parduoti daiktą
 
-KETVIRTOJI KNYGA
+1. Asmuo, kuriam pavesta parduoti kito asmens daiktą, neturi teisės to daikto pirkti nei tiesiogiai, nei per tarpininkus, išskyrus įstatymų nustatytas išimtis. Šis draudimas taikomas ir asmeniui, administruojančiam kito asmens turtą pagal šio kodekso ketvirtosios knygos nuostatas.
 
-DAIKTINĖ TEISĖ
+2. Asmuo, administruojantis kito asmens turtą, neturi teisės parduoti savo turto, jeigu šio turto kaina apmokama iš jo administruojamo turto.
 
-I dalis
+3. Šio straipsnio 1 ir 2 dalyse nurodyti asmenys neturi teisės reikalauti pripažinti negaliojančia pirkimo–pardavimo sutartį, sudarytą pažeidžiant šiame straipsnyje nustatytas taisykles.
 
-DAIKTAI
+6.313 straipsnis. Kaina
 
-I SKYRIUS
+1. Parduodamo daikto kaina nustatoma pinigais šalių susitarimu.
 
-BENDROSIOS NUOSTATOS
+2. Tais atvejais, kai pirkimo–pardavimo sutartyje nei tiesiogiai, nei netiesiogiai nenustatyta kaina ar nenurodyta tvarka jai nustatyti ir šalys nėra susitarusios kitaip, laikoma, kad šalys turėjo omenyje kainą, kuri sutarties sudarymo metu buvo įprastai toje prekybos srityje mokama už tokius pat daiktus, parduodamus atitinkamomis aplinkybėmis, o jeigu ši kaina neegzistuoja, – protingumo kriterijus atitinkanti kaina.
+
+3. Kai kaina turi būti nustatyta pagal daiktų svorį, ji nustatoma pagal neto svorį, jeigu šalys nėra susitarusios kitaip.
+
+4. Jeigu kainą turi nustatyti viena šalis ir tokiu būdu nustatyta kaina aiškiai neatitinka protingumo kriterijų, tai nepaisant šalių susitarimų sutarties kaina turi būti pakeista atitinkančia protingumo kriterijus kaina.
+
+5. Kai kainą turi nustatyti trečiasis asmuo, bet jis to nedaro ar negali padaryti, laikoma, kad protingumo kriterijus atitinkanti kaina yra sutarties kaina.
+
+6. Kai kaina turi būti nustatyta remiantis kriterijais, kurių nėra ar kurie išnyko arba negali būti nustatyti, kaina nustatoma remiantis artimiausios reikšmės kriterijais.
+
+7. Jeigu sutartyje numatyta, kad kaina turi būti keičiama atsižvelgiant į tam tikrus kainai įtakos turinčius rodiklius (savikainą, išlaidas ir t. t.), tačiau nenurodyta kainos pakeitimo tvarka, tai kaina nustatoma atsižvelgiant į šių rodiklių santykį sutarties sudarymo ir daikto perdavimo metu. Kai pardavėjas praleidžia daikto perdavimo terminą, kaina nustatoma atsižvelgiant į šių rodiklių santykį sutarties sudarymo ir daikto perdavimo metu, numatytu sutartyje.
+
+6.314 straipsnis. Kainos sumokėjimas
+
+1. Jeigu pirkėjas neįpareigotas sumokėti kainą konkrečioje vietoje, jis privalo sumokėti ją pardavėjui daiktų perdavimo vietoje.
+
+2. Jeigu pirkėjas neįpareigotas sumokėti kainą konkrečiu laiku, jis privalo ją sumokėti, kai pardavėjas pagal sutartį ar šį kodeksą perduoda pirkėjui daiktus arba disponavimo jais dokumentus.
+
+3. Pirkėjas neturi pareigos sumokėti kainą, kol jis neturėjo galimybės patikrinti daiktus, išskyrus atvejus, kai šalių susitarimas numato ką kita.
+
+4. Jeigu sutartyje nenumatyta ko kita, pirkėjas privalo iš karto sumokėti visą kainą.
+
+5. Kai pirkėjas laiku nesumoka už jam perduotus daiktus, pardavėjas turi teisę reikalauti iš pirkėjo sumokėti kainą bei įstatymų ar sutarties nustatytas palūkanas.
+
+6. Kai pirkėjas atsisako priimti daiktus ir už juos sumokėti, pardavėjas gali savo nuožiūra reikalauti sumokėti kainą arba atsisakyti vykdyti sutartį.
+
+7. Kai pardavėjas pagal sutartį turi perduoti pirkėjui ne tik daiktus, už kuriuos pirkėjas dar nesumokėjo, bet ir kitus daiktus, šių daiktų perdavimą pardavėjas gali sustabdyti, kol pirkėjas visiškai sumokės už anksčiau perduotus daiktus, jeigu įstatymai ar sutartis nenumato ko kita.
 
 3.187 straipsnis. Nepilnamečių vaikų turtas, kuriam uzufruktas netaikomas
 
@@ -2735,6 +2761,10 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 3. Prašymas įvaikinti nagrinėjamas ypatingosios teisenos tvarka. Įsiteisėjusį teismo sprendimą įvaikinti teismas ne vėliau kaip kitą darbo dieną po šio sprendimo įsiteisėjimo dienos privalo elektroninių ryšių priemonėmis išsiųsti vaiko gimimą įregistravusiai civilinės metrikacijos įstaigai.
 
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+
 3.221 straipsnis. Įvaikinimo konfidencialumas
 
 1. Įvaikinimo bylą teismas nagrinėja uždarame teismo posėdyje.
@@ -2969,6 +2999,10 @@ NEPILNAMEČIŲ GLOBA IR RŪPYBA
 
 1) geriausių vaiko interesų pirmumas;
 
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1879, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11177
+
 2) pirmumo teisę tapti globėjais (rūpintojais) turi vaiko artimieji giminaičiai, jeigu tai atitinka vaiko interesus;
 
 3) vaiko globa (rūpyba) šeimoje;
@@ -3006,6 +3040,10 @@ NEPILNAMEČIŲ GLOBA IR RŪPYBA
 2. Vaiko laikinoji globa (rūpyba) trunka ne ilgiau kaip dvylika mėnesių. Valstybinė vaiko teisių apsaugos institucija Vyriausybės nustatyta tvarka ir terminais informuoja Vyriausybės įgaliotą instituciją apie atvejus, kai vaiko laikinoji globa (rūpyba) trunka ilgiau kaip dvylika mėnesių. Vyriausybės įgaliota institucija per mėnesį nuo šios informacijos gavimo dienos Vyriausybės nustatyta tvarka įvertina šeimai teiktų socialinių paslaugų efektyvumą ir galimybes grąžinti vaiką į šeimą ir įpareigoja valstybinę vaiko teisių apsaugos instituciją priimti sprendimą grąžinti vaiką į šeimą arba sprendimą tęsti vaiko laikinąją globą ir paslaugų teikimą šeimai, arba kreiptis į teismą dėl vaiko nuolatinės globos (rūpybos) nustatymo.
 
 TAR pastaba. Iki įstatymo Nr. XII-1879 įsigaliojimo (2017-01-01) nustatytai vaiko laikinajai globai (rūpybai) 3.253 straipsnio 2 dalyje nustatytas dvylikos mėnesių terminas pradedamas skaičiuoti nuo šio įstatymo įsigaliojimo dienos.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1879, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11177
 
 3.254 straipsnis. Vaiko laikinosios globos (rūpybos) nustatymo pagrindai
 
@@ -3235,177 +3273,239 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 4. Rūpyba panaikinama teismo nutartimi pagal veiksnaus asmens pareiškimą.
 
-3.281 straipsnis. Civilinės būklės aktų registravimo taisyklės
+6.281 straipsnis. Žalos atlyginimo būdas ir dydis
 
-Civilinės būklės aktai registruojami, atkuriami, keičiami, papildomi ir ištaisomi, laikantis Civilinės metrikacijos taisyklių, kurias tvirtina teisingumo ministras.
+1. Priteisdamas žalos atlyginimą, teismas, atsižvelgdamas į bylos aplinkybes, įpareigoja atsakingą už žalą asmenį atlyginti ją natūra (pateikti tos pat rūšies ir kokybės daiktą, pataisyti sužalotą daiktą ir pan.) arba visiškai atlyginti padarytus nuostolius.
 
-3.282 straipsnis. Civilinės būklės aktų įrašų kalba
+2. Jeigu teismo sprendimas atlyginti žalą natūra neįvykdomas per protingą laiką, tai kreditorius turi teisę reikalauti atlyginti žalą pinigais.
 
-Civilinės būklės aktų įrašai įrašomi lietuvių kalba. Vardas, pavardė ir vietovardžiai rašomi pagal lietuvių kalbos taisykles.
+6.282 straipsnis. Atsižvelgimas į nukentėjusio asmens kaltę ir padariusio žalą asmens turtinę padėtį
 
-3.284 straipsnis. Dokumentai, pateikiami įrašant civilinės būklės aktų įrašus
+1. Kai paties nukentėjusio asmens didelis neatsargumas padėjo žalai atsirasti arba jai padidėti, tai atsižvelgiant į nukentėjusio asmens kaltės dydį (o kai yra žalos padariusio asmens kaltės, – ir į jo kaltės dydį) žalos atlyginimas, jeigu įstatymai nenustato ko kita, gali būti sumažintas arba reikalavimas atlyginti žalą gali būti atmestas.
 
-Įrašant civilinės būklės aktų įrašus, turi būti pateikiami dokumentai, patvirtinantys pareiškėjų asmens tapatybę ir aktus, registruotinus civilinės metrikacijos įstaigose.
+2. Į nukentėjusio asmens kaltę neatsižvelgiama išieškant dėl maitintojo gyvybės atėmimo atsiradusią žalą ir atlyginant laidojimo išlaidas.
 
-3.285 straipsnis. Civilinės būklės aktų įrašų įrašymas
+3. Teismas gali sumažinti atlygintinos žalos dydį, atsižvelgdamas į žalą padariusio asmens sunkią turtinę padėtį, išskyrus atvejus, kai žala padaryta tyčia.
 
-Kiekvienas įrašomas civilinės būklės akto įrašas turi būti perskaitomas pareiškėjams, jų ir aktą surašančio pareigūno pasirašomas ir patvirtinamas civilinės būklės aktus registruojančios įstaigos antspaudu. Apie gimimo, santuokos sudarymo, santuokos nutraukimo, pavardės, vardo, tautybės pakeitimo ir mirties įrašų įrašymą pareiškėjams išduodami atitinkami liudijimai.
+6.284 straipsnis. Atsakomybė už dėl gyvybės atėmimo atsiradusią žalą
 
-3.286 straipsnis. Civilinės būklės aktų įrašų nuginčijimo ir anuliavimo tvarka
+1. Fizinio asmens mirties atveju teisę į žalos atlyginimą turi asmenys, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti iš jo išlaikymą (nepilnamečiai vaikai, sutuoktinis, nedarbingi tėvai ar kiti faktiniai nedarbingi išlaikytiniai), taip pat mirusiojo vaikas, gimęs po jo mirties. Šie asmenys taip pat turi teisę į neturtinės žalos atlyginimą.
 
-1. Civilinės būklės aktų įrašai gali būti nuginčyti tik teismo tvarka.
+2. Asmenims, turintiems teisę į žalos atlyginimą netekus maitintojo, atlyginama ta mirusiojo pajamų dalis, kurią jie gavo ar turėjo teisę gauti mirusiajam esant gyvam.
 
-2. Atkurtieji civilinės būklės aktų įrašai, kai surandami pirminiai įrašai, anuliuojami civilinės metrikacijos įstaigos vadovo sprendimu.
+3. Atlygintinos žalos dydis negali būti keičiamas, išskyrus atvejus, kai po maitintojo netekimo gimsta vaikas.
 
-3.287 straipsnis. Civilinės būklės aktų įrašų įrašymo teisėtumo priežiūra
+4. Šis straipsnis taikomas tik tais atvejais, kai nukentėjęs asmuo nėra apdraustas nuo nelaimingų atsitikimų darbe socialiniu draudimu įstatymų nustatyta tvarka.
 
-Civilinės būklės aktų įrašų įrašymo civilinės metrikacijos įstaigose ir seniūnijose teisėtumą prižiūri Teisingumo ministerija jos nuostatuose nustatyta tvarka.
+6.285 straipsnis. Žalos atlyginimas fizinio asmens, kuriam nėra suėję keturiolikos metų, sveikatos sužalojimo atveju
 
-3.288 straipsnis. Valstybės rinkliava už civilinės būklės aktų registravimą
+1. Jeigu fizinis asmuo, kuriam nėra suėję keturiolikos metų ir kuris neturi savarankiškų pajamų, suluošintas arba kitaip sužalota jo sveikata, tai atsakingas už žalą asmuo privalo atlyginti išlaidas, susijusias su nukentėjusio asmens sveikatos sužalojimu, ir neturtinę žalą.
 
-Civilinės metrikacijos įstaigose registruojant civilinės būklės aktus, taip pat ištaisant ir keičiant aktų įrašus, valstybės rinkliava imama įstatymų nustatyta tvarka.
+2. Kai nukentėjusiam asmeniui sueina keturiolika metų, atsakingas už žalą asmuo taip pat privalo atlyginti jam žalą, susijusią su darbingumo netekimu ar sumažėjimu, atsižvelgiant į iki sužalojimo nepilnamečio turėtus sugebėjimus, jo tėvų bei žalą padariusio asmens turtinę padėtį ir kitas bylai turinčias reikšmės aplinkybes.
 
-XXI skyrius
+3. Jeigu fizinis asmuo, kuriam nėra suėję keturiolikos metų, sveikatos sužalojimo metu turėjo savarankiškų pajamų, tai jam turi būti atlyginama tokio dydžio žala, kiek savarankiškų pajamų jis prarado dėl šio sužalojimo.
 
-GIMIMO REGISTRAVIMAS
+6.286 straipsnis. Atlyginimo dydžio pakeitimas nukentėjusio asmens reikalavimu, kai pasikeičia jo darbingumas
 
-3.289 straipsnis. Gimimo registravimo tvarka
+Iš dalies netekęs darbingumo nukentėjęs asmuo turi teisę bet kada reikalauti iš atsakingo už žalą asmens atitinkamai padidinti žalos atlyginimą, jeigu jo darbingumas dėl sveikatos sužalojimo paskiau sumažėjo palyginti su tuo darbingumu, kuris jam buvo likęs tuo metu, kai priteistas žalos atlyginimas, išskyrus atvejus, kai žala buvo atlyginta priteisiant konkrečią vienkartinę pinigų sumą.
 
-1. Gimimas registruojamas vaiko gimimo vietos arba tėvų ar vieno iš jų gyvenamosios vietos civilinės metrikacijos įstaigoje.
+6.287 straipsnis. Atlyginimo dydžio pakeitimas asmenų, iš kurių priteistas žalos atlyginimas, reikalavimu
 
-2. Vaiko tėvų pageidavimu civilinės metrikacijos įstaiga sukuria iškilmingą gimimo registravimo aplinką.
+Asmuo, iš kurio priteistas dėl suluošinimo ar kitokio sveikatos sužalojimo atsiradusios žalos atlyginimas, turi teisę reikalauti atitinkamai sumažinti priteistą atlyginimą, jeigu nukentėjusio asmens darbingumas, palyginti su tuo, kuris jam buvo likęs tuo metu, kai priteistas žalos atlyginimas, padidėja, išskyrus atvejus, kai žala buvo atlyginta priteisiant konkrečią vienkartinę pinigų sumą.
 
-3.290 straipsnis. Pareiškimas apie gimimą
+6.288 straipsnis. Žalos atlyginimo mokėjimas
 
-1. Apie gimimą žodžiu arba raštu pareiškia tėvai ar vienas iš jų, o jeigu tėvai serga, yra mirę ar dėl kitų priežasčių negali to atlikti, pareiškia giminaičiai, kaimynai, medicinos įstaigos, kurioje motina pagimdė vaiką, administracija, taip pat valstybinė vaiko teisių apsaugos institucija.
+1. Žala atlyginama nuo jos padarymo dienos, o jeigu žala atsirado vėliau, – nuo žalos atsiradimo dienos.
 
-2. Rasto vaiko gimimas įregistruojamas jį radusio asmens arba valstybinės vaiko teisių apsaugos institucijos pareiškimu.
+2. Jeigu teisę į žalos atlyginimą turintys asmenys kreipiasi dėl žalos atlyginimo praėjus trejiems metams nuo jos padarymo dienos, tai atlyginimas mokamas nuo kreipimosi dienos.
 
-3.291 straipsnis. Terminai vaiko gimimui įregistruoti
+3. Su nukentėjusio asmens suluošinimu ar kitokiu sveikatos sužalojimu susijusi žala, taip pat su gyvybės atėmimu susijusi žala atlyginama periodinėmis išmokomis arba visos žalos dydžio vienkartine išmoka. Jeigu žala atlyginama periodinėmis išmokomis, tai šios išmokos indeksuojamos teisės aktų nustatyta tvarka.
 
-1. Apie vaiko gimimą turi būti pareikšta ir vaiko gimimas turi būti įregistruotas per tris mėnesius nuo jo gimimo dienos, o jeigu vaikas gimė negyvas, – per tris paras nuo gimimo laiko.
+6.289 straipsnis. Žalos atlyginimas, kai pasibaigia įpareigotas atlyginti žalą juridinis asmuo ar miršta įpareigotas fizinis asmuo
 
-2. Pareiškimas dėl rasto vaiko gimimo įregistravimo turi būti paduotas per tris paras nuo vaiko radimo laiko.
+1. Po įpareigoto atlyginti su fizinio asmens sveikatos sužalojimu ar gyvybės atėmimu susijusią žalą juridinio asmens reorganizavimo reikalavimai atlyginti žalą pareiškiami juridinio asmens teisių perėmėjui. Po valstybės ar savivaldybės įmonės ar įstaigos likvidavimo pareiga atlyginti žalą pereina valstybei ar savivaldybei. Kai įpareigotas asmuo miršta, reikalavimai atlyginti žalą pareiškiami jo įpėdiniams. Šie tokius reikalavimus tenkina pagal šio kodekso penktosios knygos nustatytas taisykles.
 
-3.292 straipsnis. Gimimo įrašas
+2. Jeigu įpareigotas atlyginti dėl fizinio asmens sveikatos sužalojimo ar gyvybės atėmimo atsiradusią žalą juridinis asmuo likviduojamas, žalos atlyginimo sumos kaupiamos įstatymų nustatyta tvarka išieškant konkrečią sumą iš karto arba sudarant draudimo sutartį.
 
-1. Gimimo įraše vaiko vardas, pavardė ir tautybė, taip pat duomenys apie jo tėvus įrašomi laikantis šio kodekso 3.139, 3.140, 3.166 ir 3.167 straipsniuose nustatytų taisyklių.
+6.290 straipsnis. Socialinio draudimo išmokų įskaitymas
 
-2. Jeigu vaiko tėvystė nenustatyta, duomenys apie tėvą neįrašomi.
+1. Socialinio draudimo išmokos, mokamos sveikatos sužalojimo ar gyvybės atėmimo atvejais, yra įskaitomos į atlygintinos žalos dydį.
 
-3. Vaiko, kurio tėvai nežinomi, vardas ir pavardė įrašomi valstybinės vaiko teisių apsaugos institucijos nurodymu. Vaiko tautybė šiuo atveju neįrašoma.
+2. Savanoriškojo draudimo išmokos į atlygintinos žalos dydį neįskaitomos.
 
-4. Įregistravus vaiko gimimą, išduodamas gimimo liudijimas.
+3. Draudimo išmokas išmokėjusios socialinio draudimo įstaigos įgyja regreso teisę į žalą padariusį asmenį, išskyrus atvejus, kai draudimo įmokas už nukentėjusį asmenį mokėjo žalą padaręs asmuo.
 
-XXII skyrius
+6.291 straipsnis. Laidojimo išlaidų atlyginimas
 
-TĖVYSTĖS PRIPAŽINIMO IR TĖVYSTĖS NUSTATYMO REGISTRAVIMAS
+1. Jeigu nukentėjęs asmuo miršta, jo laidojimo išlaidas turėjusiam asmeniui atlygina tas asmuo, kuris yra atsakingas už žalą, susijusią su nukentėjusio asmens gyvybės atėmimu. Atlyginamos tik protingumo kriterijus atitinkančios laidojimo išlaidos.
 
-3.293 straipsnis. Tėvystės pripažinimo registravimas
+2. Įstatymų nustatytais atvejais mokama laidojimo pašalpa įskaitoma į laidojimo išlaidas.
 
-1. Tėvystės pripažinimas registruojamas vaiko motinos gyvenamosios vietos civilinės metrikacijos įstaigoje remiantis motinos ir tėvo prašymais dėl tėvystės pripažinimo. Jeigu tėvystė pripažįstama po to, kai vaiko gimimas buvo įregistruotas, tėvystės pripažinimas registruojamas vaiko gimimą įregistravusioje civilinės metrikacijos įstaigoje.
+Ketvirtasis skirsnis
 
-2. Šio kodekso 3.140 straipsnio 5 dalyje ir 3.144 straipsnyje numatytais atvejais tėvystės pripažinimas registruojamas pateikus teismo patvirtintą prašymą dėl tėvystės pripažinimo.
+Atsakomybė už žalą, ATSIRADUSIĄ DĖL NETINKAMOS KOKYBĖS produktŲ ar paslaugŲ
 
-3.294 straipsnis. Tėvystės nustatymo registravimas
+6.292 straipsnis. Gamintojo ir paslaugų teikėjo atsakomybė
 
-Tėvystės nustatymas registruojamas vaiko gimimą įregistravusioje civilinės metrikacijos įstaigoje remiantis teismo sprendimu nustatyti tėvystę.
+1. Gamintojas ar paslaugų teikėjas privalo atlyginti dėl netinkamos kokybės produktų ar netinkamos kokybės paslaugų atsiradusią žalą.
 
-3.296 straipsnis. Įvaikinimo registravimo vieta
+2. Gamintoju laikomas galutinio produkto, produkto dalies arba žaliavų gamintojas, paslaugų teikėjas ar kitas asmuo, kuris pažymėdamas produktą (paslaugas) savo vardu, prekės ženklu ar kitu skiriamuoju žymeniu nurodo save kaip gamintoją (paslaugų teikėją).
 
-Įvaikinimas registruojamas civilinės metrikacijos įstaigoje, įregistravusioje vaiko gimimą, remiantis teismo sprendimu įvaikinti.
+3. Kiekvienas asmuo, kuris dėl savo verslo importuoja į Europos ekonominės erdvės valstybių teritoriją netinkamos kokybės produktą turėdamas tikslą jį parduoti, išnuomoti ar kitaip paskirstyti, atsako kaip gamintojas.
 
-3.297 straipsnis. Duomenų įrašymas įvaikio gimimo įraše
+4. Jeigu produkto gamintojo neįmanoma nustatyti, kiekvienas produktą realizavęs asmuo laikomas gamintoju, išskyrus atvejus, kai jis per protingą terminą praneša nukentėjusiam asmeniui apie produkto gamintoją arba apie produktą patiekusį asmenį. Ši taisyklė taikoma ir tais atvejais, kai produktas buvo importuotas nenurodant jo importuotojo, nors jo gamintojas žinomas.
 
-1. Jeigu teismo sprendimu įvaikiui suteiktas kitas vardas ar įtėvių pavardė, šie duomenys jo gimimo įraše atitinkamai pakeičiami.
-
-2. Įvaikio gimimo įraše jo tėvų duomenys pakeičiami duomenimis apie įtėvius.
-
-3. Jeigu vaiką įvaikino vienas vyras arba viena moteris, antrojo iš vaiko tėvų duomenys išbraukiami ir nauji duomenys neįrašomi.
-
-4. Pakeitus įvaikio gimimo įraše duomenis, išduodamas naujas jo gimimo liudijimas.
-
-XXIV skyrius
-
-SANTUOKOS REGISTRAVIMAS
-
-3.298 straipsnis. Santuokos registravimo vieta
-
-Santuoka registruojama civilinės metrikacijos įstaigose, taip pat Lietuvos Respublikos konsulinėse įstaigose.
+5. Šio skirsnio normos taikomos tik tais atvejais, kai produktai (paslaugos) įsigyjami vartojimo, o ne verslo tikslais.
 
 Straipsnio pakeitimai:
 
-Nr. XII-1880, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11206
+Nr. IX-2172, 2004-04-27, Žin., 2004, Nr. 72-2495 (2004-04-30)
 
-3.301 straipsnis. Santuokos registravimo laikas
+6.293 straipsnis. Produkto ir paslaugų samprata
 
-1. Santuoka registruojama praėjus ne mažiau kaip vienam mėnesiui nuo prašymo įregistruoti santuoką padavimo dienos.
+1. Šiame skirsnyje vartojamas terminas „produktas“ reiškia kiekvieną kilnojamąjį daiktą (turtą), įskaitant pirminius žemės ūkio produktus ir žvėrieną (paukštieną), taip pat kilnojamąjį daiktą (turtą), kuris įeina į kitą kilnojamąjį ar nekilnojamąjį daiktą. Produktu laikoma ir elektros energija.
 
-2. Civilinės metrikacijos įstaigos vadovas norinčių susituokti prašymu ir tuo atveju, kai yra svarbių priežasčių, turi teisę leisti registruoti santuoką nepraėjus vienam mėnesiui nuo prašymo padavimo dienos.
+2. Šiame skirsnyje vartojamas terminas „paslauga“ reiškia veiklą, kuria tenkinamas konkretus materialus ar nematerialus vartotojo poreikis, išskyrus sveikatos priežiūros, teisines, švietimo, šiluminės energijos, dujų, vandens tiekimo, nuotėkų šalinimo ir transporto paslaugas.
 
-3.302 straipsnis. Prašymo įregistruoti santuoką viešas skelbimas
+6.294 straipsnis. Netinkamos kokybės samprata
 
-1. Prašymo įregistruoti santuoką padavimo faktas skelbiamas viešai teisingumo ministro nustatyta tvarka ne vėliau kaip prieš dvi savaites iki santuokos registravimo dienos.
+1. Produktas (paslaugos) yra netinkamos kokybės, jeigu jis neatitinka saugos reikalavimų, kurių protingai gali tikėtis vartotojas. Ar produktas (paslaugos) yra tinkamos ar netinkamos kokybės, nustatoma atsižvelgiant į:
 
-TAR pastaba. Iki įstatymo Nr. XII-1880 įsigaliojimo (2015-07-10) pateikti, bet civilinės metrikacijos įstaigoje viešai nepaskelbti prašymai įregistruoti santuoką skelbiami šio įstatymo nustatyta tvarka.
+1) nurodomas produkto (paslaugų) savybes (reklamą);
 
-Straipsnio dalies pakeitimai:
+2) tai, ar produktą (paslaugas) galima naudoti tam, kam tikimasi jį naudoti;
 
-Nr. XII-1880, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11206
+3) laiką, kai produktas (paslaugos) buvo išleistas į apyvartą;
 
-2. Skelbime nurodoma ketinančių susituokti asmenų vardai, pavardės, gimimo data ir būsimos santuokos registravimo data.
+4) produkto (paslaugų) konstrukcinius, receptinius ar kitokius trūkumus;
 
-3.303 straipsnis. Santuokos registravimas
+5) kitas aplinkybes.
 
-1. Santuoka registruojama, kai dalyvauja ketinantys susituokti asmenys ir du liudytojai.
+2. Negalima produkto laikyti netinkamos kokybės tik dėl to, kad vėliau į apyvartą išleistas geresnis produktas.
 
-2. Civilinės metrikacijos įstaigos pareigūnas, prieš įregistruodamas santuoką, privalo dar kartą patikrinti, ar yra įvykdytos visos šio kodekso 3.12–3.17 straipsniuose numatytos santuokos sudarymo sąlygos.
+6.296 straipsnis. Solidarioji atsakomybė
 
-3. Įrašius santuokos sudarymo įrašą, sutuoktiniams išduodamas santuokos liudijimas.
+Jeigu žala atsirado dėl kelių asmenų (pavyzdžiui, netinkamos kokybės produkto gamintojo ir asmens, įkomponavusio šį produktą į kitą daiktą) veiksmų, šie asmenys atsako solidariai.
 
-4. Santuoką sudariusių asmenų pasuose arba kituose jų asmens tapatybę patvirtinančiuose dokumentuose įrašoma apie santuokos įregistravimą ir nurodoma kito sutuoktinio vardas, pavardė ir gimimo metai, santuokos įregistravimo vieta ir data.
+6.297 straipsnis. Nukentėjusio asmens kaltė
 
-3.305 straipsnis. Santuokos nutraukimo registravimo vieta
+Jeigu nukentėjęs ar turintis teisę reikalauti žalos atlyginimo asmuo dėl savo kaltės prisidėjo prie žalos atsiradimo ar padidėjimo, žalos atlyginimo dydis gali būti sumažintas arba žala apskritai gali būti neatlyginama atsižvelgiant į visas bylos aplinkybes.
 
-Santuokos nutraukimas registruojamas teismo, priėmusio sprendimą nutraukti santuoką, buvimo vietos civilinės metrikacijos įstaigoje.
+6.298 straipsnis. Atleidimas nuo atsakomybės
 
-3.306 straipsnis. Santuokos nutraukimo registravimo tvarka
+1. Gamintojas atleidžiamas nuo atsakomybės, jeigu įrodo, kad:
 
-1. Civilinės metrikacijos įstaiga, gavusi teismo sprendimą nutraukti santuoką, įrašo santuokos nutraukimo įrašą, abiem buvusiems sutuoktiniams išduoda ištuokos liudijimus ir pažymi apie ištuoką jų pasuose ar kituose jų asmens tapatybę patvirtinančiuose dokumentuose.
+1) ne jis išleido produktą į apyvartą;
 
-2. Civilinės metrikacijos įstaiga, įregistravusi santuokos nutraukimą, išsiunčia civilinės metrikacijos įstaigai, įregistravusiai santuoką, nustatytos formos pranešimą, o pastaroji padaro pakeitimą santuokos sudarymo akto įraše.
+2) atsižvelgiant į aplinkybes, yra pagrindas manyti, kad produktas išleidimo į apyvartą metu nebuvo netinkamos kokybės arba kad kokybė pablogėjo vėliau;
 
-XXVI skyrius
+3) produktas nebuvo pagamintas turint tikslą jį parduoti, išnuomoti ar kitaip paskirstyti verslo tikslais arba nebuvo pagamintas ar paskirstytas gamintojo ūkinės veiklos metu;
 
-VARDO, PAVARDĖS, TAUTYBĖS PAKEITIMO REGISTRAVIMAS
+4) produkto kokybė pablogėjo dėl atitinkamų valstybės institucijų nustatytų privalomų taisyklių laikymosi;
 
-3.307 straipsnis. Vardo, pavardės, tautybės pakeitimo registravimo tvarka
+5) mokslo ir techninių žinių lygis produkto išleidimo į apyvartą metu nebuvo toks, kad leistų nustatyti netinkamą kokybę;
 
-Vardo, pavardės, tautybės pakeitimas registruojamas pareiškėjo gyvenamosios vietos civilinės metrikacijos įstaigoje Teisingumo ministerijos leidimu.
+6) jo pagamintas produktas buvo įkomponuotas į kitą produktą ir žala atsirado dėl kito produkto konstrukcijos arba dėl viso produkto gamintojo pateiktų vartojimo taisyklių.
 
-3.309 straipsnis. Mirties registravimo tvarka
+2. Gamintojo atsakomybė nemažinama, jeigu žala atsirado ir dėl netinkamos produkto kokybės, ir dėl trečiojo asmens veiksmų ar neveikimo.
 
-1. Mirtis registruojama mirusiojo gyvenamosios vietos arba mirimo vietos vienoje iš įstaigų, nurodytų šio kodekso 3.280 straipsnyje, remiantis medicininiu mirties liudijimu.
+3. Gamintojo atsakomybė gali būti sumažinta arba jis gali būti visiškai atleistas nuo atsakomybės, jeigu atsižvelgiant į visas aplinkybes žala atsirado ir dėl netinkamos produkto kokybės, ir dėl nukentėjusio ar kito asmens, už kurį šis atsako, kaltės.
 
-2. Mirtis, remiantis teismo sprendimu paskelbti asmenį mirusiu ar nustačius asmens mirties faktą, registruojama sprendimą priėmusio teismo buvimo vietos civilinės metrikacijos įstaigoje.
+4. Įstatymai gali nustatyti kitas paslaugų teikėjo atleidimo nuo atsakomybės sąlygas, negu nustatyta šio straipsnio 1 dalyje.
 
-3.310 straipsnis. Pareiškimas apie mirtį
+Straipsnio pakeitimai:
 
-Mirtis registruojama mirusiojo giminaičių, jo kaimynų, gyvenamosios patalpos savininko pareiškimu, taip pat medicinos įstaigos, kurioje šis asmuo mirė, administracijos ar policijos komisariato pranešimu.
+Nr. IX-2172, 2004-04-27, Žin., 2004, Nr. 72-2495 (2004-04-30)
 
-3.311 straipsnis. Terminas mirčiai įregistruoti
+6.301 straipsnis. Klaidinančios reklamos samprata
 
-Apie mirtį turi būti pareikšta ir mirtis turi būti įregistruota ne vėliau kaip per tris paras nuo mirimo arba mirusiojo suradimo laiko.
+1. Pagal šį skirsnį klaidinančia reklama laikoma bet kokios formos ir bet kokiomis perdavimo priemonėmis skleidžiama su ūkine komercine, finansine ar profesine veikla susijusi informacija, kuria siekiama skatinti prekių ar paslaugų, įskaitant nekilnojamuosius daiktus, teises ir pareigas, pardavimą (teikimą), kai ji bet kokiu būdu, įskaitant ir jos pateikimo būdą, klaidina arba gali suklaidinti asmenis, kuriems ji skirta arba kuriuos ji pasiekia, ir kai dėl jos klaidinančio pobūdžio atsirado žalos.
 
-3.312 straipsnis. Mirties įrašas
+2. Vertinant, ar žalą lėmusi reklama yra klaidinanti, atsižvelgiama į jos teisingumą, visapusiškumą ir pateikimo kriterijus:
 
-Registruodama mirtį, šio kodekso 3.280 straipsnyje nurodyta įstaiga įrašo mirties įrašą ir išduoda mirties liudijimą.
+1) reklamoje skelbiami teiginiai yra neteisingi, jeigu reklamos davėjas negali jų teisingumo pagrįsti reklamos skelbimo metu. Ar pakanka teiginių teisingumą pagrindžiančių duomenų, sprendžiama kiekvienu konkrečiu atveju atsižvelgiant į konkrečios bylos aplinkybes. Skelbiamų teiginių teisingumą pagrindžiančiais duomenimis nelaikomi asmenų, kurių veikla nesusijusi su skleidžiama informacija, parodymai;
 
-XXVIII skyrius
+2) reklamos skleidžiama informacija yra nevisapusiška, jeigu praleista tam tikra informacijos dalis, kurią paskelbti atsižvelgiant į kitą toje reklamoje esančią informaciją būtina, kad nebūtų suklaidinti reklamos vartotojai;
 
-CIVILINĖS BŪKLĖS AKTŲ ĮRAŠŲ ATKŪRIMAS,
+3) reklamos pateikimo būdas ar forma yra tokie, kad jos vartotojai gali suvokti reklamoje esantį numanomą klaidinantį teiginį;
 
-PAPILDYMAS IR IŠTAISYMAS
+4) reklamos vartotojai pagal reklamos pateikimo būdą ir formą susidaro nuomonę, kad skleidžiama informacija yra teisinga, visapusiška, ir priima tokius sprendimus, kurių atitinkamomis aplinkybėmis galima tikėtis iš eilinio reklamos vartotojo.
+
+3. Sprendžiant, ar reklama yra klaidinanti, turi būti atsižvelgiama į joje esančią informaciją apie:
+
+1) reklamos davėją ar kitą asmenį, jų veiklą, buveinę, firmos vardą, prekės ar paslaugos ženklą, autorines teises ar gretutines teises, patentus, licencijas ir pan.;
+
+2) prekes ir paslaugas – jų gamybos vietą ar kilmę, prekės gamintojo ar paslaugų tiekėjo identiškumą, patyrimą ar kvalifikaciją, pagaminimo laiką, gamybos būdą, paskirtį, kiekį, sudėtį, energetinę vertę, vartojamąsias savybes, atitikimą paskirčiai ir tinkamumą vartoti (naudoti), patikros laiką, vietą, būdą bei įvertinimus, vartojimo (naudojimo) būdą, prekių (paslaugų) ir nustatyto standarto atitikimą, sertifikavimą, oficialų prekės pripažinimą ir apdovanojimą mugėse, parodose, premijas, dovanas ar prizus, suteiktus už įsigyjamas prekes ar paslaugas, arba panaudotus mokslinius ar profesinius terminus arba bandymų techninius ar statistinius duomenis ir pan.;
+
+3) prekių (paslaugų) įsigijimo ir vartojimo (naudojimo) sąlygas – kainą ar jos apskaičiavimo būdą, mokėjimo sąlygas, garantijas, pristatymo, keitimo, remonto, aptarnavimo, grąžinimo sąlygas, pardavimo ar tiekimo mastą, specialiosios ofertos priežastį ar tikslą ir pan.;
+
+4) prekių ar paslaugų lyginimą (gretinimą) su kitomis prekėmis ar paslaugomis.
+
+6.302 straipsnis. Atsakomybės subjektas
+
+1. Už žalą, atsiradusią dėl klaidinančios reklamos, atsako reklamos davėjas, reklamos gamintojas, reklamos tarpininkas arba reklamos skleidėjas.
+
+2. Reklamos davėjas atsako, jeigu neįrodo, kad žala atsirado ne dėl jo kaltės.
+
+3. Reklamos gamintojas, tarpininkas ar skleidėjas atsako už dėl klaidinančios reklamos atsiradusią žalą tik tuo atveju, jeigu jie žinojo ar turėjo žinoti, kad reklama yra klaidinanti, arba vartotojai klaidinami dėl jų veiksmų gaminant ar skelbiant reklamą, arba reklamos gamintojas, tarpininkas ar skleidėjas neįrodo, kas buvo reklamos davėjas (gamintojas).
+
+6.303 straipsnis. Atsakomybės sąlygos
+
+Šio kodekso 6.302 straipsnyje nurodyti asmenys atsako už žalą, atsiradusią dėl klaidinančios reklamos, jeigu neįrodo, kad paskleista informacija atitinka tikrovę ir kad dėl informacijos turinio arba jos paskelbimo ir atsiradusios žalos nėra jų kaltės.
+
+6.305 straipsnis. Pirkimo–pardavimo sutarties samprata
+
+1. Pirkimo–pardavimo sutartimi viena šalis (pardavėjas) įsipareigoja perduoti daiktą (prekę) kitai šaliai (pirkėjui) nuosavybės ar patikėjimo teise, o pirkėjas įsipareigoja priimti daiktą (prekę) ir sumokėti už jį nustatytą pinigų sumą (kainą).
+
+2. Vertybinių popierių, valiutinių vertybių pirkimui–pardavimui taikomos šio skyriaus normos, jeigu kiti įstatymai nenustato specialių jų pirkimo–pardavimo taisyklių.
+
+3. Atskirų rūšių daiktų (prekių) pirkimo–pardavimo ypatumus gali nustatyti atitinkami įstatymai.
+
+4. Šio skyriaus normos taikomos turtinių teisių pirkimui – pardavimui tiek, kiek tai neprieštarauja šių teisių prigimčiai ir esmei.
+
+6.306 straipsnis. Pirkimo–pardavimo sutarties dalykas
+
+1. Pirkimo–pardavimo sutarties dalyku gali būti neišimti iš apyvartos daiktai, kuriuos pardavėjas jau turi ar kurie gali būti sukurti ar pardavėjo įgyti ateityje, vertybiniai popieriai ir kitokie daiktai bei turtinės teisės.
+
+2. Pirkimo–pardavimo sutarties dalyku taip pat gali būti prieauglis, derlius ir kiti atsirandantys daiktai.
+
+3. Pirkimo–pardavimo sutarties dalykas gali būti apibūdintas tiek pagal individualius požymius, tiek pagal rūšį.
+
+4. Pirkimo–pardavimo sutarties sąlyga dėl sutarties dalyko laikoma suderinta, jeigu sutarties turinys leidžia nustatyti daikto (prekės) pavadinimą ir kiekį.
+
+6.307 straipsnis. Pardavėjui nepriklausančio daikto pardavimas
+
+1. Pirkimo–pardavimo sutartis, pagal kurią pardavėjas parduoda jam nepriklausantį daiktą nebūdamas daikto savininko įgaliotas ar neturėdamas tam teisės pagal įstatymus, gali būti pripažinta negaliojančia pagal daikto savininko, valdytojo arba pirkėjo ieškinį.
+
+2. Tokia pirkimo–pardavimo sutartis nėra negaliojanti, jeigu pardavėjas pirkimo–pardavimo sutarties įvykdymo metu tapo parduodamo daikto savininku.
+
+3. Jeigu sutartis negaliojančia pripažinta šio straipsnio 1 dalyje numatytu pagrindu, daiktas grąžinamas savininkui, išskyrus atvejus, numatytus šio kodekso 4.96 straipsnyje.
+
+6.309 straipsnis. Įsipareigojimas parduoti ar pirkti daiktą
+
+1. Laikoma, kad įsipareigojimas parduoti daiktą kartu perduodant daiktą būsimajam pirkėjui valdyti yra to daikto pirkimas–pardavimas.
+
+2. Pinigų sumos sumokėjimas parduoti daiktą įsipareigojusiam asmeniui pripažįstamas dalies kainos sumokėjimu (avansu), jeigu šalys nėra susitarusios kitaip.
+
+3. Kai pirkti ar parduoti daiktą įpareigojęs asmuo atsisako įforminti sutartį įstatymų nustatyta forma, kita šalis turi teisę teismo tvarka reikalauti patvirtinti sutarties sudarymą.
+
+6.310 straipsnis. Pirkimo-pardavimo sutarties sudarymo išlaidos
+
+1. Pirkimo-pardavimo sutarties sudarymo išlaidos tenka pirkėjui, jeigu šalys nesusitaria kitaip.
+
+2. Daiktų pristatymo, jų svėrimo ir perskaičiavimo (kiekio patikrinimo) išlaidos tenka pardavėjui, jeigu šalys nėra susitarusios kitaip.
+
+3. Daiktų priėmimo, daiktų perdavimo–priėmimo dokumento sudarymo išlaidos tenka pirkėjui.
+
+6.311 straipsnis. Pirkimo-pardavimo sutarties forma
+
+Pirkimo–pardavimo sutarties formą nustato sandorių sudarymo formos taisyklės. Atskiroms pirkimo–pardavimo sutartims įstatymai gali nustatyti specialias jų sudarymo taisykles.
+
+6.312 straipsnis. Pirkimo–pardavimo sutartis, kurioje yra sąlyga dėl parduodamo daikto naudojimo
+
+1. Asmuo, parduodamas daiktą, gali nustatyti sąlygą, kad tas daiktas turi būti naudojamas tam tikram tikslui nepažeidžiant kitų asmenų teisių ir teisėtų interesų.
+
+2. Jeigu pirkėjas nevykdo pirkimo–pardavimo sutartyje nustatytos sąlygos, tai pardavėjas teismo tvarka turi teisę reikalauti, kad sąlyga būtų įvykdyta arba kad būtų nutraukta sutartis, daiktas grąžintas jam ir atlyginti nuostoliai.
 
 6.322 straipsnis. Pardavėjo ir pirkėjo pareigos, kai trečiasis asmuo pareiškia ieškinį dėl daikto paėmimo
 
@@ -4441,17 +4541,23 @@ XLiV skyrius
 
 Banko indėlis
 
-3.299 straipsnis. Prašymas įregistruoti santuoką
+6.299 straipsnis. Atlygintina žala
 
-1. Norintys susituokti asmeniškai paduoda nustatytos formos prašymą pasirinktai civilinės metrikacijos įstaigai.
+1. Šiame skirsnyje vartojamas terminas „žala“ reiškia:
 
-Straipsnio dalies pakeitimai:
+1) dėl gyvybės atėmimo ar sveikatos sužalojimo atsiradusią žalą, įskaitant neturtinę;
 
-Nr. XII-1880, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11206
+2) nukentėjusio asmens turtui, kuris yra skirtas ir paprastai buvo naudojamas asmeniniams poreikiams tenkinti, išskyrus patį netinkamos kokybės produktą, padarytą ne mažesnę kaip penkių šimtų eurų žalą. Ši suma netaikoma, kai žala atsirado dėl netinkamos kokybės paslaugų.
 
-2. Prašyme jie turi patvirtinti, kad yra įvykdytos visos šio kodekso 3.12–3.17 straipsniuose numatytos santuokos sudarymo sąlygos, taip pat nurodyti, kelintą kartą kiekvienas iš jų tuokiasi ir kiek turi vaikų.
+Straipsnio punkto pakeitimai:
 
-3. Prašymas įregistruoti santuoką netenka galios, jeigu bent vienas asmenų, padavusių prašymą, nustatytu laiku neatvyksta įregistruoti santuokos arba prašymas atsiimamas.
+Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518
+
+2. Šio skirsnio nuostatos netaikomos atlyginant branduolinę žalą.
+
+Straipsnio pakeitimai:
+
+Nr. IX-2172, 2004-04-27, Žin., 2004, Nr. 72-2495 (2004-04-30)
 
 3.1921 straipsnis. Tėvų pareiga išlaikyti savo vaikus, sulaukusius pilnametystės
 
@@ -7399,13 +7505,19 @@ Jeigu dėl nuo šalių nepriklausančių priežasčių statybos darbai buvo sust
 
 6.696 straipsnis. Atsakomybė už statinio sugriuvimą
 
-1. Už statinio sugriuvimą ir tuo padarytą žalą atitinkamai atsako rangovas, projektuotojas ir statybos techninis prižiūrėtojas, jeigu objektas sugriuvo dėl projektavimo, konstrukcijų ar statybos darbų defektų ar netinkamo žemės grunto.
+1. Už statinio sugriuvimą ir tuo padarytą žalą atitinkamai atsako rangovas, projektuotojas, statinio projekto ekspertizės rangovas ir statybos techninis prižiūrėtojas, jeigu objektas sugriuvo dėl projektavimo, konstrukcijų ar statybos darbų defektų ar netinkamo žemės grunto.
 
-2. Projektuotojas arba statybos techninis prižiūrėtojas gali būti atleisti nuo atsakomybės, jeigu jie įrodo, kad objektas sugriuvo ne dėl jo projektavimo ar konstrukcinių defektų arba ne dėl nepakankamos statybos darbų priežiūros ar kontrolės, o dėl rangovo ar užsakovo kaltų veiksmų.
+2. Projektuotojas, statinio projekto ekspertizės rangovas arba statybos techninis prižiūrėtojas gali būti atleisti nuo atsakomybės, jeigu jie įrodo, kad objektas sugriuvo ne dėl jo projektavimo ar konstrukcinių defektų arba ne dėl nepakankamos statybos darbų priežiūros ar kontrolės, o dėl rangovo ar užsakovo kaltų veiksmų.
 
-3. Rangovas gali būti atleistas nuo atsakomybės, jeigu įrodo, kad objektas sugriuvo dėl projektuotojo ar statybos techninio prižiūrėtojo, kuriuos pasirinko užsakovas, kaltės arba dėl užsakovo kaltų veiksmų.
+3. Rangovas gali būti atleistas nuo atsakomybės, jeigu įrodo, kad objektas sugriuvo dėl projektuotojo, statinio projekto ekspertizės rangovo ar statybos techninio prižiūrėtojo, kuriuos pasirinko užsakovas, kaltės arba dėl užsakovo kaltų veiksmų.
 
 4. Jeigu negalima nustatyti, dėl kurių konkrečiai iš šio straipsnio 1 dalyje numatytų asmenų kaltės statinys sugriuvo, jie visi atsako solidariai.
+
+Straipsnio pakeitimai:
+
+TAR pastaba. Statinio projekto ekspertizės rangovai atsako pagal 6.696 straipsnį tik dėl tų statinių projektų, kurių ekspertizė atliekama po įstatymo Nr. XII-2579 įsigaliojimo (2017-01-01).
+
+Nr. XII-2579, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20331
 
 6.697 straipsnis. Darbų kokybės garantija
 
@@ -7413,7 +7525,11 @@ Jeigu dėl nuo šalių nepriklausančių priežasčių statybos darbai buvo sust
 
 2. Sutarties šalys turi teisę įstatymų nustatytą garantinį terminą savo susitarimu pratęsti.
 
-3. Rangovas, projektuotojas ir statybos techninis prižiūrėtojas atsako už defektus, nustatytus per garantinį terminą, jeigu neįrodo, kad jie atsirado dėl objekto ar jo dalių normalaus susidėvėjimo, jo netinkamo naudojimo ar užsakovo arba jo pasamdytų asmenų netinkamai atlikto remonto arba dėl užsakovo ar jo pasamdytų asmenų kitokių kaltų veiksmų.
+3. Rangovas, projektuotojas, statinio projekto ekspertizės rangovas ir statybos techninis prižiūrėtojas atsako už defektus, nustatytus per garantinį terminą, jeigu neįrodo, kad jie atsirado dėl objekto ar jo dalių normalaus susidėvėjimo, jo netinkamo naudojimo ar užsakovo arba jo pasamdytų asmenų netinkamai atlikto remonto arba dėl užsakovo ar jo pasamdytų asmenų kitokių kaltų veiksmų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2579, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20331
 
 4. Garantinis terminas sustabdomas tiek laiko, kiek objektas negalėjo būti naudojamas dėl nustatytų defektų, už kuriuos atsako rangovas.
 
@@ -7421,7 +7537,7 @@ Jeigu dėl nuo šalių nepriklausančių priežasčių statybos darbai buvo sust
 
 6.698 straipsnis. Garantiniai terminai
 
-1. Rangovas, projektuotojas ar statybos techninis prižiūrėtojas atsako už objekto sugriuvimą ar defektus, jeigu objektas sugriuvo ar defektai buvo nustatyti per:
+1. Rangovas, projektuotojas, statinio projekto ekspertizės rangovas ar statybos techninis prižiūrėtojas atsako už objekto sugriuvimą ar defektus, jeigu objektas sugriuvo ar defektai buvo nustatyti per:
 
 1) penkerius metus;
 
@@ -7429,7 +7545,11 @@ Jeigu dėl nuo šalių nepriklausančių priežasčių statybos darbai buvo sust
 
 3) dvidešimt metų – esant tyčia paslėptų defektų.
 
-2. Šio straipsnio 1 dalyje nustatyti terminai pradedami skaičiuoti nuo darbų rezultato atidavimo naudoti dienos.
+2. Šio straipsnio 1 dalyje nustatyti terminai pradedami skaičiuoti nuo visų rangovo atliktų statybos darbų rezultatų perdavimo užsakovui dienos (kai statyba vyko rangos būdu) arba nuo statybos užbaigimo dienos (kai statyba vyko ūkio arba mišriu būdu).
+
+Straipsnio pakeitimai:
+
+Nr. XII-2579, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20331
 
 6.699 straipsnis. Darbų trūkumų pašalinimas užsakovo lėšomis
 
@@ -10403,6 +10523,14 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-3, 6.228-4, 6.228-5, 6.228-6, 6.228-7, 6.228-9, 6.228-10, 6.228-11 ir 6.228-12 straipsnių pakeitimo įstatymas
 
+25.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2579, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20331
+
+Lietuvos Respublikos civilinio kodekso 6.696, 6.697 ir 6.698 straipsnių pakeitimo įstatymas
+
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
 Motorinės transporto priemonės pirkimo–pardavimo sutartyje privalo būti nurodyti duomenys apie motorinę transporto priemonę, kurią pardavėjas privalo pagal sutartį perduoti pirkėjui. Pardavėjas pirkimo–pardavimo sutartyje privalo pirkėjui nurodyti (deklaruoti) ridos duomenis, visus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta per laikotarpį, kurį pardavėjas yra motorinės transporto priemonės savininkas, taip pat visus jam žinomus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta. Privalomų pirkimo–pardavimo sutartyje nurodyti duomenų apie motorinę transporto priemonę ir jos trūkumus sąrašą tvirtina Vyriausybė arba jos įgaliota institucija.
@@ -10491,11 +10619,21 @@ Papildyta skyriumi:
 
 Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
-VIII dalis
+8 dalis. Neteko galios nuo 2017-01-01
 
-CIVILINĖS BŪKLĖS AKTŲ REGISTRAVIMAS
+Dalies naikinimas:
 
-XX skyrius
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+
+KETVIRTOJI KNYGA
+
+DAIKTINĖ TEISĖ
+
+I dalis
+
+DAIKTAI
+
+I SKYRIUS
 
 BENDROSIOS NUOSTATOS
 
