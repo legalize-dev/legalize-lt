@@ -4,7 +4,7 @@ identifier: "TAR.103565D95E60"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-07-04"
-last_updated: "2015-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.103565D95E60"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos profesinių pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-05-20
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3248, i. k. 1061010ISTA000X-745
 
@@ -957,10 +957,6 @@ Nr. XI-2125, 2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
 
 1. apibrėžtų išmokų pensijų fondą valdanti pensijų asociacija, jeigu ji pati, o ne finansuojantis subjektas, prisiima įsipareigojimus dėl apsaugos nuo biometrinės rizikos arba garantuoja tam tikrus investavimo rezultatus ar tam tikrą išmokų dydį, visada turi turėti papildomo techninius atidėjinius viršijančio turto, kuris gali būti panaudojamas kaip rezervas. Jo dydis turi atitikti visų pensijų asociacijos apibrėžtų išmokų pensijų fondų rizikos tipą ir turto pagrindą. Šis turtas turi būti be jokių iš anksto numatomų įsipareigojimų ir naudojamas kaip apsaugos kapitalas numatytų ir faktinių išlaidų bei pelno neatitikimams padengti.
 
-2. Būtinas papildomo turto dydis apskaičiuojamas Draudimo įstatymo 39 straipsnyje nustatyta tvarka.
-
-Redakcija nuo 2016-01-01:
-
 2. Būtinas papildomo turto dydis apskaičiuojamas Draudimo įstatymo 37 straipsnio 9 dalyje nustatyta tvarka.
 
 Straipsnio pakeitimai:
@@ -1135,7 +1131,11 @@ PENSIJŲ ASOCIACIJŲ VEIKLOS PRIEŽIŪRA
 
 6) savo funkcijoms atlikti pasitelkti kompetentingus asmenis ir suteikti jiems reikiamus įgaliojimus;
 
-7) už pensijų asociacijos valdymą atsakingiems asmenims taikyti poveikio priemones, tarp jų administracines ar finansinio pobūdžio priemones, kurios yra tinkamos ir būtinos užkirsti kelią pažeidimams, kenkiantiems dalyvių ir išmokų gavėjų interesams, arba jau atsiradusiems ištaisyti.
+7) už pensijų asociacijos valdymą atsakingiems asmenims taikyti poveikio priemones, tarp jų finansinio pobūdžio priemones, kurios yra tinkamos ir būtinos užkertant kelią pažeidimams, kenkiantiems dalyvių ir išmokų gavėjų interesams, arba jau atsiradusiems pažeidimams ištaisyti.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2448, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17716
 
 7. Priežiūros institucija, atlikdama šio įstatymo 57 straipsnyje nustatytas funkcijas ir teikdama informaciją apie Lietuvos Respublikoje galiojančius socialinės apsaugos ir darbo teisės aktus, taikomus profesinių pensijų srityje, bendradarbiauja su Lietuvos Respublikos socialinės apsaugos ir darbo ministerija (toliau – Socialinės apsaugos ir darbo ministerija). Socialinės apsaugos ir darbo ministerija teikia informaciją apie socialinės apsaugos ir darbo teisės reikalavimus, kurių laikymasis yra privalomas kitose valstybėse narėse veikiantiems analogiškiems subjektams, priimantiems įmokas iš Lietuvos Respublikoje esančių finansuojančių subjektų, ir apie tai praneša priežiūros institucijai. Socialinės apsaugos ir darbo ministerija taip pat turi informuoti priežiūros instituciją apie visus reikšmingus socialinės apsaugos ir darbo teisės nuostatų pasikeitimus profesinių pensijų srityje.
 
@@ -1175,7 +1175,11 @@ Priežiūros institucija turi teisę pensijų asociacijoms taikyti šias poveiki
 
 1) įspėti dėl veiklos trūkumų bei pažeidimų ir nustatyti jų pašalinimo terminus;
 
-2) vadovams ar darbuotojams skirti administracines nuobaudas;
+2) Neteko galios nuo 2017-01-01.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2448, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17716
 
 3) skirti šio įstatymo numatytas pinigines baudas;
 
@@ -1383,17 +1387,27 @@ Nr. XI-2125, 2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
 
 38 straipsnis. Draudimo išmokos
 
-Gyvybės draudimo sutartyse, pagal kurias kaupiamos profesinės pensijos, gali būti numatytas kitų, negu pensijų fondo taisyklėse ir šio įstatymo 29 straipsnyje nurodytų išmokų, draudimo išmokų mokėjimas. Tokioms draudimo išmokoms taikomos Draudimo įstatymo šeštojo skyriaus nuostatos.
+Gyvybės draudimo sutartyse, pagal kurias kaupiamos profesinės pensijos, gali būti numatytas kitų, negu šio įstatymo 27 ir 29 straipsniuose nurodytų išmokų, draudimo išmokų mokėjimas. Tokioms draudimo išmokoms taikomos Draudimo įstatymo penktojo skyriaus nuostatos.
 
-Redakcija nuo 2016-01-01:
+Straipsnio pakeitimai:
 
-39 straipsnis. Techniniai atidėjiniai ir jų padengimas turtu
+Nr. XI-2278, 2012-10-16, Žin., 2012, Nr. 127-6386 (2012-11-03)
 
-1. Gyvybės draudimo įmonėms, vykdančioms profesinių pensijų kaupimo veiklą, mutatis mutandis taikomos šio įstatymo 43, 44, 45 straipsnių nuostatos. Priežiūros institucija nustato profesinių pensijų kaupimo techninio atidėjinio sudarymo tvarką.
+Nr. XII-723, 2013-12-19, Žin., 2013, Nr. 140-7084 (2013-12-30)
 
-2. Profesinių pensijų kaupimo techninis atidėjinys dengiamas turtu vadovaujantis Draudimo įstatymo 35 straipsnio nuostatomis.
+Nr. XII-71, 2012-12-20, Žin., 2012, Nr. 155-7981 (2012-12-31)
 
-Redakcija nuo 2016-01-01:
+39 straipsnis. Techniniai atidėjiniai
+
+1. Gyvybės draudimo įmonėms, vykdančioms profesinių pensijų kaupimo veiklą, mutatis mutandis taikomos šio įstatymo 43, 44, 45 straipsnių nuostatos.
+
+2. Profesinių pensijų kaupimo techninis atidėjinys skaičiuojamas vadovaujantis Draudimo įstatymo 41 straipsnio 8 dalies nuostatomis.
+
+Straipsnio pakeitimai:
+
+Nr. XI-2278, 2012-10-16, Žin., 2012, Nr. 127-6386 (2012-11-03)
+
+Nr. XII-723, 2013-12-19, Žin., 2013, Nr. 140-7084 (2013-12-30)
 
 58 straipsnis. Baigiamosios nuostatos
 
@@ -1530,4 +1544,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1469, 2014-12-18, paskelbta TAR 2014-12-30, i. k. 2014-21096
 
 Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 31, 32, 47, 55, 56 straipsnių ir priedo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2448, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17716
+
+Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 52 ir 54 straipsnių pakeitimo įstatymas
 
