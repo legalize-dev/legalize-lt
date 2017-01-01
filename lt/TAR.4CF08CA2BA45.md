@@ -4,7 +4,7 @@ identifier: "TAR.4CF08CA2BA45"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-05-10"
-last_updated: "2016-03-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4CF08CA2BA45"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ BANKROTO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2016-03-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-05-18
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 57-2823, i. k. 1121010ISTA0XI-2000
 
@@ -937,11 +937,13 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 6. Kiekvienu etapu kiekvienos paskesnės eilės kreditorių reikalavimai tenkinami po to, kai visiškai patenkinti atitinkamo etapo pirmesnės eilės kreditorių reikalavimai. Jeigu neužtenka lėšų visiems vieno etapo vienos eilės kreditorių reikalavimams visiškai patenkinti, šie reikalavimai tenkinami proporcingai pagal kiekvienam kreditoriui priklausančią sumą.
 
-7. Plane numatyti likę nepatenkinti kreditorių reikalavimai, tarp jų įkeitimu ir (ar) hipoteka užtikrinti kreditorių reikalavimai, baigus fizinio asmens bankroto procesą, išskyrus šio įstatymo 30 straipsnio 3 dalies 2 punkte nurodytą atvejį, nurašomi, išskyrus reikalavimus dėl žalos atlyginimo dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties ir piniginių lėšų vaikui (įvaikiui) išlaikyti (alimentų) bei reikalavimus, kurie kyla iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus administracinius teisės pažeidimus arba nusikalstamas veikas, ir įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus, jeigu šie kreditoriai ir fizinis asmuo susitarė dėl įkeisto turto išsaugojimo fizinio asmens bankroto proceso metu, nebent šio įstatymo 4 straipsnio 4 dalies 10 punkte nurodytame susitarime susitarta kitaip.
+7. Plane numatyti likę nepatenkinti kreditorių reikalavimai, tarp jų įkeitimu ir (ar) hipoteka užtikrinti kreditorių reikalavimai, baigus fizinio asmens bankroto procesą, išskyrus šio įstatymo 30 straipsnio 3 dalies 2 punkte nurodytą atvejį, nurašomi, išskyrus reikalavimus dėl žalos atlyginimo dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties ir piniginių lėšų vaikui (įvaikiui) išlaikyti (alimentų) bei reikalavimus, kurie kyla iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus administracinius nusižengimus arba nusikalstamas veikas, ir įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus, jeigu šie kreditoriai ir fizinis asmuo susitarė dėl įkeisto turto išsaugojimo fizinio asmens bankroto proceso metu, nebent šio įstatymo 4 straipsnio 4 dalies 10 punkte nurodytame susitarime susitarta kitaip.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
+
+Nr. XII-2286, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06438
 
 8. Šio straipsnio 3 dalyje nurodytų kreditorių reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe gali būti tenkinami iš Garantinio fondo lėšų, o žemės ūkio veiklos subjektų reikalavimai sumokėti už parduotus žemės ūkio produktus gali būti tenkinami Lietuvos Respublikos Vyriausybės nustatyta tvarka iki 40 procentų reikalaujamos sumokėti sumos iš Lietuvos Respublikos žemės ūkio ministerijos einamaisiais metais šiam tikslui skirtų valstybės biudžeto lėšų. Šiuo atveju kreditoriaus patvirtinti reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe mažinami iš Garantinio fondo sumokėtos sumos dydžiu, o kreditoriaus – žemės ūkio veiklos subjekto reikalavimai sumokėti už parduotus žemės ūkio produktus mažinami iš Lietuvos Respublikos žemės ūkio ministerijos skirtų lėšų sumokėtos sumos dydžiu. Dėl šios priežasties Garantinio fondo ir Nacionalinės mokėjimo agentūros prie Žemės ūkio ministerijos atgręžtiniai reikalavimai turi būti tenkinami antrąja eile.
 
@@ -1056,4 +1058,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 4, 5, 6, 7, 8, 9, 14, 17, 19, 25, 27 ir 29 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2286, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06438
+
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 4, 5, 6, 7, 8, 9, 14, 17, 19, 25, 27 ir 29 straipsnių pakeitimo įstatymo Nr. XII-2235 13 straipsnio pakeitimo įstatymas
 
