@@ -4,7 +4,7 @@ identifier: "TAR.90D8CF4E3E9F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-28"
-last_updated: "2011-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.90D8CF4E3E9F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 31 ir 32 straipsniai įsigalioja 2007-07
 ---
 # Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2011-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-08-31
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3214, i. k. 1071010ISTA00X-1238
 
@@ -154,9 +154,21 @@ VAIKO MINIMALIOS IR VIDUTINĖS priežiūros priemonių SKYRIMAS, PRATĘSIMAS, PA
 
 1) kuris padarė nusikaltimo ar baudžiamojo nusižengimo požymių turinčią veiką, tačiau šios veikos padarymo metu nebuvo sukakęs Lietuvos Respublikos baudžiamajame kodekse nustatyto amžiaus, nuo kurio pagal Lietuvos Respublikos baudžiamuosius įstatymus galima baudžiamoji atsakomybė už jo padarytą veiką;
 
-2) kuris padarė administracinių teisės pažeidimų požymių turinčią veiką, tačiau šios veikos padarymo metu nebuvo sukakęs Lietuvos Respublikos administracinių teisės pažeidimų kodekse nustatyto amžiaus, nuo kurio atsiranda administracinė atsakomybė;
+2) kuris padarė administracinių nusižengimų požymių turinčią veiką, tačiau šios veikos padarymo metu nebuvo sukakęs Lietuvos Respublikos administracinių nusižengimų kodekse nustatyto amžiaus, nuo kurio atsiranda administracinė atsakomybė;
 
-3) kuris padarė administracinį teisės pažeidimą, tačiau jam, vadovaujantis Lietuvos Respublikos administracinių teisės pažeidimų kodekso nuostatomis, nebuvo paskirta administracinė nuobauda;
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1870, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11176
+
+Nr. XII-2276, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06426
+
+3) kuris padarė administracinį nusižengimą, tačiau jam, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso nuostatomis, nebuvo paskirta administracinė nuobauda;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1870, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11176
+
+Nr. XII-2276, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06426
 
 4) kurio elgesys daro žalą ar kelia pavojų jam pačiam ar aplinkiniams, o vaiko atstovų pagal įstatymą, vietos bendruomenės pastangų nepakanka teigiamiems jo elgesio pokyčiams pasiekti;
 
@@ -168,7 +180,13 @@ VAIKO MINIMALIOS IR VIDUTINĖS priežiūros priemonių SKYRIMAS, PRATĘSIMAS, PA
 
 1) kuris padarė nusikaltimo ar baudžiamojo nusižengimo požymių turinčią veiką, tačiau šios veikos padarymo metu nebuvo sukakęs Lietuvos Respublikos baudžiamajame kodekse nustatyto amžiaus, nuo kurio pagal Lietuvos Respublikos baudžiamuosius įstatymus galima baudžiamoji atsakomybė už jo padarytą veiką;
 
-2) kuris per vienų metų laikotarpį 3 ir daugiau kartų padarė administracinių teisės pažeidimų požymių turinčią veiką, tačiau šios veikos padarymo metu jis nebuvo sukakęs Lietuvos Respublikos administracinių teisės pažeidimų kodekse nustatyto amžiaus, nuo kurio atsiranda administracinė atsakomybė;
+2) kuris per vienų metų laikotarpį 3 ir daugiau kartų padarė administracinių nusižengimų požymių turinčią veiką, tačiau šios veikos padarymo metu jis nebuvo sukakęs Lietuvos Respublikos administracinių nusižengimų kodekse nustatyto amžiaus, nuo kurio atsiranda administracinė atsakomybė;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-1870, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11176
+
+Nr. XII-2276, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06426
 
 3) kuriam pritaikius minimalios priežiūros priemones nebuvo pasiekta teigiamų jo elgesio pokyčių.
 
@@ -180,7 +198,13 @@ Vaikui minimalios ir vidutinės priežiūros priemones skiria vaiko nuolatinės 
 
 10 straipsnis. Vaiko minimalios ir vidutinės priežiūros priemonių skyrimo, pratęsimo, pakeitimo ir panaikinimo tvarka
 
-1. Vaiko atstovai pagal įstatymą, teritorinė policijos įstaiga, mokykla, vaiko teisių apsaugos skyrius, seniūnija, prokuroras, vaiko minimalios priežiūros priemonę vykdantis asmuo (kai vaikui buvo skirta minimalios priežiūros priemonė) ir vaiko vidutinės priežiūros priemonę vykdantis asmuo (kai vaikui buvo skirta vidutinės priežiūros priemonė) turi teisę kreiptis į vaiko nuolatinės gyvenamosios vietos savivaldybės administracijos direktorių su prašymu dėl vaiko minimalios priežiūros priemonės ar vidutinės priežiūros priemonės skyrimo, pakeitimo, pratęsimo arba panaikinimo (toliau – prašymas).
+1. Vaiko atstovai pagal įstatymą, teritorinė policijos įstaiga, mokykla, vaiko teisių apsaugos skyrius, seniūnija, prokuroras, teismas (dėl vaikų nuo 16 iki 18 metų padarytų administracinių nusižengimų), vaiko minimalios priežiūros priemonę vykdantis asmuo (kai vaikui buvo skirta minimalios priežiūros priemonė) ir vaiko vidutinės priežiūros priemonę vykdantis asmuo (kai vaikui buvo skirta vidutinės priežiūros priemonė) turi teisę kreiptis į vaiko nuolatinės gyvenamosios vietos savivaldybės administracijos direktorių su prašymu dėl vaiko minimalios priežiūros priemonės ar vidutinės priežiūros priemonės skyrimo, pakeitimo, pratęsimo arba panaikinimo (toliau – prašymas).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1870, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11176
+
+Nr. XII-2276, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06426
 
 2. Savivaldybės administracijos direktorius, gavęs prašymą, ne vėliau kaip kitą darbo dieną jį perduoda savivaldybės administracijos vaiko gerovės komisijai.
 
@@ -607,6 +631,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1232, 2010-12-14, Žin., 2010, Nr. 157-7969 (2010-12-31), i. k. 1101010ISTA0XI-1232
 
 Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1870, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11176
+
+Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 8 ir 10 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2276, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06426
+
+Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 8 ir 10 straipsnių pakeitimo įstatymo Nr. XII-1870 3 straipsnio pakeitimo įstatymas
 
 30 straipsnis. Vaiko minimalios ar vidutinės priežiūros priemonių finansavimas
 
