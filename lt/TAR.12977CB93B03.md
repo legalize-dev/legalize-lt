@@ -4,7 +4,7 @@ identifier: "TAR.12977CB93B03"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-23"
-last_updated: "2016-09-30"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 department: "Lietuvos Respublikos Seimas"
@@ -16,17 +16,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
-Suvestinė redakcija nuo 2016-09-30 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-04-30
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
-
-TAR pastaba. Jeigu teisė gauti paramą užsienyje mirusių (žuvusių) piliečių palaikams parvežti į Lietuvos Respubliką atsirado iki šio įstatymo įsigaliojimo, ši parama skiriama ir mokama pagal šio įstatymo nuostatas. Jeigu teisė gauti laidojimo pašalpą atsirado iki šio įstatymo įsigaliojimo, skiriant laidojimo pašalpą taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos paramos mirties atveju įstatymo nuostatos. Jeigu asmuo mirė iki 2017 m. sausio 1 d., laidojimo pašalpa išmokama remiantis mirties liudijimu (tais atvejais, kai vaikas gimė negyvas, – gimimo įrašo nuorašu), jeigu mirusio asmens mirtis neįregistruota Lietuvos Respublikos gyventojų registre.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2612, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24186
-
-Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 pakeitimo įstatymas
 
 Nauja redakcija nuo 2016-09-30:
 
@@ -66,7 +58,7 @@ Nustatomos šios paramos mirties atveju rūšys:
 
 1. Parama mirties atveju finansuojama iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams.
 
-2. Paramai mirties atveju administruoti iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams skiriama nuo 2 iki 4 procentų paramai mirties atveju skirtų lėšų. Paramai mirties atveju administruoti panaudojama ne didesnė lėšų suma, negu nustatytas paramai mirties atveju administruoti skiriamų lėšų procento dydis nuo panaudotų lėšų šiai paramai mokėti.
+2. Paramai mirties atveju administruoti iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams skiriama 3 procentai paramai mirties atveju skirtų lėšų. Paramai mirties atveju administruoti panaudojama ne didesnė lėšų suma, negu nustatytas paramai mirties atveju administruoti skiriamų lėšų procento dydis nuo panaudotų lėšų šiai paramai mokėti.
 
 3. Valstybės biudžeto lėšų, skirtų specialioms tikslinėms dotacijoms paramai mirties atveju administruoti, naudojimo ir atsiskaitymo tvarką nustato Lietuvos Respublikos socialinės apsaugos ir darbo ministras (toliau – socialinės apsaugos ir darbo ministras).
 
@@ -98,7 +90,7 @@ LAIDOJIMO PAŠALPA
 
 4. Laidojimo pašalpa nemokama, kai laidojama valstybės biudžeto ar savivaldybių biudžetų lėšomis.
 
-5. Teisės į laidojimo pašalpą atsiradimo diena yra asmens mirties data (rasto mirusio asmens – mirties liudijimo išdavimo data).
+5. Teisės į laidojimo pašalpą atsiradimo diena yra asmens mirties data (rasto mirusio asmens – medicininio mirties liudijimo (tais atvejais, kai vaikas gimė negyvas, – medicininio perinatalinės mirties liudijimo) išrašymo data).
 
 6 straipsnis. Laidojimo pašalpos dydis
 
@@ -130,7 +122,7 @@ PARAMOS MIRTIES ATVEJU TEIKIMO TVARKA
 
 2. Palaikų parvežimą organizavęs fizinis asmuo dėl paramos palaikams parvežti turi kreiptis į savivaldybės administraciją pagal mirusio asmens buvusią deklaruotą gyvenamąją vietą, o jeigu jo gyvenamoji vieta nebuvo deklaruota, – pagal paskutinę buvusią gyvenamąją vietą arba pagal savo deklaruotą gyvenamąją vietą ne vėliau kaip per 12 mėnesių nuo teisės į paramą palaikams parvežti atsiradimo dienos.
 
-3. Kreipiantis dėl paramos mirties atveju, turi būti pateiktas asmens, turinčio teisę gauti minėtą paramą, tapatybę patvirtinantis dokumentas, socialinės apsaugos ir darbo ministro patvirtintos formos prašymas (toliau – prašymas), mirusio asmens mirties liudijimas (tais atvejais, kai vaikas gimė negyvas, – jo gimimo įrašo nuorašas), o kai kreipiamasi dėl paramos palaikams parvežti, – ir dokumentai, įrodantys patirtas palaikų parvežimo į Lietuvos Respubliką išlaidas, ir Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 20 straipsnio 3 dalyje nurodyti dokumentai apie bendrai gyvenančių asmenų ar vieno gyvenančio asmens gautas pajamas. Mirties liudijimo pateikti nereikia, jeigu mirusio asmens mirtis įregistruota Lietuvos Respublikos gyventojų registre, kituose valstybės registruose ar informacinėse sistemose.
+3. Kreipiantis dėl paramos mirties atveju, turi būti pateiktas asmens, turinčio teisę gauti minėtą paramą, tapatybę patvirtinantis dokumentas, socialinės apsaugos ir darbo ministro patvirtintos formos prašymas (toliau – prašymas), jeigu asmens mirtis neįregistruota Lietuvos Respublikos gyventojų registre, turi būti pateiktas medicininis mirties liudijimas (tais atvejais, kai vaikas gimė negyvas, – medicininis perinatalinės mirties liudijimas), o kai kreipiamasi dėl paramos palaikams parvežti, – ir dokumentai, įrodantys patirtas palaikų parvežimo į Lietuvos Respubliką išlaidas, ir Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 20 straipsnio 3 dalyje nurodyti dokumentai apie vieno gyvenančio asmens gautas vidutines pajamas arba vienam asmeniui tenkančias vidutines pajamas (kai jis yra vienas iš bendrai gyvenančių asmenų).
 
 4. Prašymas gali būti pateiktas asmeniškai, paštu arba elektroniniu būdu, kai valstybės elektroninės valdžios sistemoje teikiama elektroninė paslauga. Jeigu prašymas siunčiamas paštu arba elektroniniu būdu, prie prašymo turi būti pridedamos visų reikiamų dokumentų kopijos, patvirtintos teisės aktų nustatyta tvarka.
 
