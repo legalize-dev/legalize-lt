@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2016-12-29"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2016-12-29 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
 
@@ -1436,11 +1436,13 @@ Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
 
 12. Komisijos posėdžiai yra vieši. Komisijos posėdis ne mažiau kaip 2/3 dalyvaujančių Komisijos narių balsų dauguma gali būti paskelbtas uždaru, kai reikia apsaugoti asmens privataus gyvenimo slaptumą ar jo nuosavybę, taip pat jeigu viešas nagrinėjimas gali atskleisti valstybės, profesines ar komercines paslaptis.
 
-13. Komisijos posėdžiai laikomi teisėtais, jeigu juose dalyvauja ne mažiau kaip 2/3 Komisijos narių. Komisija priima sprendimus. Sprendimai priimami atviru balsavimu paprasta visų Komisijos narių balsų dauguma, išskyrus šiame įstatyme nustatytus atvejus. Sprendimai išduoti licenciją, atsisakyti ją išduoti, taip pat dėl Administracinių teisės pažeidimų kodekse ir šiame įstatyme numatytų nuobaudų skyrimo, konkursų sąlygų ir rezultatų, licencijos galiojimo sustabdymo, licencijos galiojimo panaikinimo priimami ne mažesne kaip 2/3 visų Komisijos narių balsų dauguma.
+13. Komisijos posėdžiai laikomi teisėtais, jeigu juose dalyvauja ne mažiau kaip 2/3 Komisijos narių. Komisija priima sprendimus. Sprendimai priimami atviru balsavimu paprasta visų Komisijos narių balsų dauguma, išskyrus šiame įstatyme nustatytus atvejus. Sprendimai išduoti licenciją, atsisakyti ją išduoti, taip pat dėl Administracinių nusižengimų kodekse ir šiame įstatyme numatytų nuobaudų skyrimo, konkursų sąlygų ir rezultatų, licencijos galiojimo sustabdymo, licencijos galiojimo panaikinimo priimami ne mažesne kaip 2/3 visų Komisijos narių balsų dauguma.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1487, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21232
+
+Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
 
 14. Komisijos sprendimus pasirašo Komisijos pirmininkas arba jo pavaduotojas, kai Komisijos pirmininkas yra laikinai išvykęs į užsienį arba dėl ligos laikinai negali eiti savo pareigų. Komisijos pirmininko pavaduotojas atlieka ir kitas funkcijas, kai Komisijos pirmininkas laikinai negali eiti savo pareigų. Komisijos sprendimai, kurie yra norminiai teisės aktai, skelbiami Teisės aktų registre. Komisijos sprendimai, kurie yra norminiai teisės aktai, įsigalioja kitą dieną po jų paskelbimo Teisės aktų registre, jeigu pačiuose sprendimuose nenustatyta vėlesnė jų įsigaliojimo data. Kiti Komisijos priimti individualūs teisės aktai skelbiami Komisijos interneto svetainėje – informacinės visuomenės informavimo priemonėje, kurios valdytoja yra Komisija, ir įsigalioja jų paskelbimo dieną, jeigu juose nenustatyta vėlesnė jų įsigaliojimo data. Visi Komisijos norminių teisės aktų projektai derinami su visuomene viešosiomis konsultacijomis. Viešųjų konsultacijų tvarka nustatoma Komisijos nuostatuose. Komisijos sprendimai radijo ir (ar) televizijos programų transliuotojams, retransliuotojams, kitiems asmenims, teikiantiems Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, arba užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjams yra privalomi, juos šie asmenys gali skųsti teismui per 30 dienų nuo Komisijos sprendimų įsigaliojimo dienos.
 
@@ -1534,7 +1536,11 @@ Nr. XI-2353, 2012-11-06, Žin., 2012, Nr. 132-6681 (2012-11-15)
 
 2) už šio įstatymo 33 straipsnio 12 dalies 1 ir 2 punktuose, taip pat šio įstatymo 341 straipsnyje nurodytų Komisijos sprendimų nevykdymą – taikyti šio straipsnio 3 dalyje nurodytą baudą retransliuotojui, kitam asmeniui, teikiančiam Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas;
 
-3) už transliavimo licencijoje ir (ar) retransliuojamo turinio licencijoje nurodytų reikalavimų pažeidimą ir (ar) Komisijos sprendimų, išskyrus šio straipsnio 2 dalies 2 punkte nurodytų sprendimų, nevykdymą – skirti Administracinių teisės pažeidimų kodekse nurodytas nuobaudas;
+3) už transliavimo licencijoje ir (ar) retransliuojamo turinio licencijoje nurodytų reikalavimų pažeidimą ir (ar) Komisijos sprendimų, išskyrus šio straipsnio 2 dalies 2 punkte nurodytus sprendimus, nevykdymą skirti Administracinių nusižengimų kodekse nurodytas nuobaudas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
 
 4) šio įstatymo nustatytais atvejais sustabdyti arba panaikinti transliavimo licencijos ir (ar) retransliuojamo turinio licencijos galiojimą;
 
@@ -1586,7 +1592,11 @@ Nr. XI-2353, 2012-11-06, Žin., 2012, Nr. 132-6681 (2012-11-15)
 
 16. Radijo ir (ar) televizijos programų transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas Komisijos paskirtą baudą privalo sumokėti į valstybės biudžetą ne vėliau kaip per 3 mėnesius nuo baudos paskyrimo dienos. Jeigu radijo ir (ar) televizijos programų transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas sumoka baudą, o įsiteisėjusiu teismo sprendimu paskirta bauda sumažinama arba panaikinama, permokėta piniginė suma įskaitoma arba grąžinama radijo ir (ar) televizijos programų transliuotojui, retransliuotojui, kitam asmeniui, teikiančiam Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjui mutatis mutandis vadovaujantis Mokesčių administravimo įstatymo nustatyta mokesčių permokų įskaitymo arba grąžinimo tvarka. Jeigu radijo ir (ar) televizijos programų transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas nesumoka baudos per šioje dalyje nustatytą terminą, skaičiuojamos Civilinio kodekso 6.210 straipsnio 1 dalyje nustatyto dydžio palūkanos. Palūkanos pradedamos skaičiuoti nuo kitos dienos po to, kai sueina šioje dalyje nustatytas terminas. Palūkanos yra skaičiuojamos kiekvieną dieną ir baigiamos skaičiuoti tą dieną, kai bauda sumokama į valstybės biudžetą, bet ne ilgiau kaip 180 dienų.
 
-17. Šio straipsnio 4 ir 5 dalyse numatytais atvejais kreipdamasi į Vilniaus apygardos administracinį teismą, Komisija pateikia teismui objektyviais duomenimis (faktais) ir teisės aktų normomis pagrįstą prašymą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklos laikino sustabdymo ar neteisėtos transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklos nutraukimo ir pateikia prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą faktinį ir juridinį pagrindą patvirtinančių dokumentų kopijas ir kitą būtiną medžiagą. Vilniaus apygardos administracinis teismas turi priimti sprendimą laikinai sustabdyti nelicencijuojamą veiklą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą arba atmesti prašymą ne vėliau kaip per 30 dienų nuo prašymo priėmimo dienos. Vilniaus apygardos administracinio teismo sprendimas dėl Komisijos prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą per 14 dienų nuo jo paskelbimo gali būti apeliacine tvarka skundžiamas Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas apeliacinį skundą turi išnagrinėti ne vėliau kaip per 30 dienų nuo jo priėmimo dienos. Jeigu teismas, nagrinėdamas Komisijos prašymą laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veiklą, nustato administracinio teisės pažeidimo arba nusikalstamos veikos požymių, apie tai praneša atitinkamai institucijai, įgaliotai surašyti administracinio teisės pažeidimo protokolą, arba prokurorui.
+17. Šio straipsnio 4 ir 5 dalyse numatytais atvejais kreipdamasi į Vilniaus apygardos administracinį teismą, Komisija pateikia teismui objektyviais duomenimis (faktais) ir teisės aktų normomis pagrįstą prašymą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklos laikino sustabdymo ar neteisėtos transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklos nutraukimo ir pateikia prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą faktinį ir juridinį pagrindą patvirtinančių dokumentų kopijas ir kitą būtiną medžiagą. Vilniaus apygardos administracinis teismas turi priimti sprendimą laikinai sustabdyti nelicencijuojamą veiklą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą arba atmesti prašymą ne vėliau kaip per 30 dienų nuo prašymo priėmimo dienos. Vilniaus apygardos administracinio teismo sprendimas dėl Komisijos prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą per 14 dienų nuo jo paskelbimo gali būti apeliacine tvarka skundžiamas Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas apeliacinį skundą turi išnagrinėti ne vėliau kaip per 30 dienų nuo jo priėmimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
 
 18. Vykdydama šio straipsnio 1 dalies 9 punkte nustatytas funkcijas, Komisija gali kreiptis dėl išvadų į žurnalistų etikos inspektorių dėl viešosios informacijos priskyrimo informacijos, kuri daro neigiamą poveikį nepilnamečių fiziniam, protiniam ar doroviniam vystymuisi, kategorijai, jeigu Komisijos nariams kyla abejonių vertinant viešosios informacijos žalą nepilnamečių fiziniam, protiniam ar doroviniam vystymuisi arba tokios viešosios informacijos vertinimas reikalauja specialių žinių. Gavęs tokį paklausimą, žurnalistų etikos inspektorius privalo per 10 darbo dienų pateikti Komisijai savo arba Žurnalistų etikos inspektoriaus tarnybos ekspertų išvadas prašomu klausimu.
 
@@ -1736,9 +1746,17 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
 
-4) Administracinių teisės pažeidimų kodekso nustatytais atvejais surašyti administracinių teisės pažeidimų protokolus;
+4) Administracinių nusižengimų kodekso nustatytais atvejais pradėti administracinio nusižengimo teiseną;
 
-5) Administracinių teisės pažeidimų kodekso nustatytais atvejais nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas;
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
+
+5) Administracinių nusižengimų kodekso nustatytais atvejais nagrinėti administracinių nusižengimų bylas ir skirti administracines nuobaudas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
 
 6) skundą (pareiškimą) pripažinti nepagrįstu;
 
