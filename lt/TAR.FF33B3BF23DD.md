@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2016-11-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2016-11-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
 
@@ -387,7 +387,11 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 68. Vaistinio preparato stiprumas – veikliųjų medžiagų kiekis dozuotėje, tūrio arba masės vienete (atsižvelgiant į farmacinę formą).
 
-69. Vaistinių prekės – prekės, kurių grupių sąrašą tvirtina sveikatos apsaugos ministras ir kurias leidžiama įsigyti, laikyti ir parduoti (išduoti) vaistinėse. Ši sąvoka neapima vaistinių preparatų.
+69. Vaistinių prekės – gyventojų sveikatos stiprinimui ir išsaugojimui, ligų prevencijai, taip pat asmens higienai ir kūno priežiūrai skirtos prekės, kurias galima įsigyti, laikyti ir parduoti (išduoti) vaistinėse laikantis šio įstatymo ir kitų teisės aktų, reglamentuojančių vaistinių veiklą, reikalavimų. Ši sąvoka neapima vaistinių preparatų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2646, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24686
 
 691. Vaistinių preparatų prekybos tarpininkas – asmuo, užsiimantis vaistinių preparatų prekybos tarpininkavimu.
 
@@ -3081,7 +3085,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
-14. Be vaistinių preparatų, vaistinės gali parduoti (išduoti) sveikatos apsaugos ministro nustatytas vaistinių prekes.
+14. Be vaistinių preparatų, vaistinės gali parduoti (išduoti) saugos, kokybės, ženklinimo ir kitus atitinkamoms prekių grupėms teisės aktų nustatytus reikalavimus atitinkančias vaistinių prekes, jeigu atitinkamoms prekėms įsigyti, laikyti ir parduoti (išduoti) yra gauti Lietuvos Respublikos ar Europos Sąjungos kompetentingų institucijų leidimai, kai pagal teisės aktų reikalavimus tokie leidimai yra būtini. Vaistinių prekės laikomos atskirai nuo vaistinių preparatų sveikatos apsaugos ministro nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2646, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24686
 
 15. Visuomenės vaistinė, universiteto vaistinė, ligoninės vaistinė, jas likviduojant, reorganizuojant ar pradėjus bankroto procedūrą, gali grąžinti turimus vaistinius preparatus didmeninio platinimo licencijos turėtojui ar gamybos licencijos turėtojui, iš kurio juos įsigijo, arba jas reorganizuojant gali perduoti turimus vaistinius preparatus kitai vaistinei, kuri dalyvauja reorganizavime, kol galioja juridinio asmens vaistinės veiklos licencija.
 
