@@ -4,7 +4,7 @@ identifier: "TAR.A0A0CCC6B997"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-27"
-last_updated: "2016-12-21"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0A0CCC6B997"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ Lietuvos Respublikos bausmių vykdymo kodeksas įsigalioja 2003-05-01."
 
 PATVIRTINTAS
 
-Suvestinė redakcija nuo 2016-12-21 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-08-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
 
@@ -825,7 +825,11 @@ Nr. IX-2338, 2004-07-08, Žin., 2004, Nr. 115-4278 (2004-07-24)
 
 6. Jeigu pataisos įstaigoje bausmę atliekantis nuteistasis raštu prašo pataisos įstaigos administraciją dėl svarbių priežasčių laikyti jį izoliuotą nuo kitų nuteistųjų, pataisos įstaigos direktorius turi teisę nutarimu perkelti šį nuteistąjį į kamerų tipo patalpas ir laikyti jį kameroje vieną arba kartu su kitais tuo pačiu pagrindu kamerų tipo patalpose laikomais nuteistaisiais. Laiką, kuriam nuteistasis perkeliamas į kamerų tipo patalpas, nustato pataisos įstaigos direktorius. Toks nuteistojo perkėlimas į kamerų tipo patalpas nėra nuobauda.
 
-7. Pataisos namuose laikomi nuteistieji gyvenamosiose patalpose Pataisos įstaigų vidaus tvarkos taisyklėse nustatyta tvarka nakties metu gali būti užrakinami.
+7. Pataisos namuose laikomi nuteistieji gyvenamosiose patalpose Pataisos įstaigų vidaus tvarkos taisyklėse nustatyta tvarka užrakinami.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 Straipsnio pakeitimai:
 
@@ -953,7 +957,17 @@ SPECIALIOSIOS NUTEISTŲJŲ, KURIEMS PASKIRTOS LAISVĖS ATĖMIMO BAUSMĖS, TEISĖ
 
 1. Nuteistieji turi teisę už asmeninėse sąskaitose turimus pinigus apsipirkti pataisos įstaigos parduotuvėje – įsigyti maisto produktų, būtiniausių reikmenų ir kitų daiktų.
 
-2. Pataisos įstaigose nuteistiesiems leidžiamų įsigyti ir turėti maisto produktų, būtiniausių reikmenų ir kitų daiktų sąrašą nustato Pataisos įstaigų vidaus tvarkos taisyklės.
+2. Didžiausia pinigų suma, už kurią nuteistieji gali per mėnesį apsipirkti pataisos įstaigos parduotuvėje, yra:
+
+1) trijų bazinių socialinių išmokų dydžio – paprastajai grupei priskirtiems nuteistiesiems;
+
+2) keturių bazinių socialinių išmokų dydžio – lengvajai grupei priskirtiems nuteistiesiems ir dirbantiems nuteistiesiems;
+
+3) dviejų bazinių socialinių išmokų dydžio – drausmės grupei priskirtiems nuteistiesiems.
+
+3. Į šio straipsnio 2 dalyje nurodytą apsipirkimo pataisos įstaigos parduotuvėje sumą neįskaitomos pinigų, už kuriuos įsigyjami laikraščiai, žurnalai, knygos ar Pataisos įstaigų vidaus tvarkos taisyklėse nurodyti elektros prietaisai, sumos. Apsipirkimo pataisos įstaigos parduotuvėje suma neribojama nėščioms moterims, krūtimi maitinančioms motinoms, nuteistoms motinoms, apgyvendintoms kartu su vaikais pataisos namų vaikų (kūdikių) namuose arba ne pataisos namų teritorijoje esančiose patalpose, teisę išvykti be sargybos arba be palydos turintiems nuteistiesiems, apgyvendintiems pataisos įstaigos ar kardomojo kalinimo vietos gyvenamosiose patalpose, esančiose už šių įstaigų teritorijos ribų.
+
+4. Maisto produktų, būtiniausių reikmenų ir kitų daiktų, kuriuos nuteistieji gali įsigyti pataisos įstaigos parduotuvėje ir turėti pataisos įstaigoje, sąrašą nustato Pataisos įstaigų vidaus tvarkos taisyklės.
 
 Straipsnio pakeitimai:
 
@@ -963,11 +977,19 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 1. Nuteistiesiems leidžiami pasimatymai: trumpalaikiai – iki trijų valandų ir ilgalaikiai – iki vienos paros. Pasimatymų skaičių ir rūšį nustato šio Kodekso 73, 74, 75, 79, 80, 85, 91 ir 152 straipsniai.
 
-2. Trumpalaikiai pasimatymai, išskyrus šio Kodekso 85 straipsnio 2 dalyje numatytus atvejus, su sutuoktiniu, sugyventiniu, artimaisiais giminaičiais ir kitais asmenimis vyksta pataisos įstaigos atstovo akivaizdoje, tačiau pokalbio nesiklausoma. Nuteistojo pageidavimu trumpalaikis pasimatymas gali būti pakeistas dviem telefoniniais pokalbiais.
+2. Trumpalaikiai pasimatymai vyksta specialiose patalpose, įrengtose taip, kad lankytojų ir nuteistojo fizinis kontaktas negalimas. Neatskiriant nuteistojo nuo lankytojų vyksta papildomi trumpalaikiai pasimatymai socialiniams ryšiams palaikyti arba trumpalaikiai pasimatymai su sutuoktiniu, sugyventiniu, artimaisiais giminaičiais ir asmeniu, su kuriuo nuteistasis turi bendrą vaiką, jei nei nuteistasis, nei šis asmuo nėra susituokęs su kitu asmeniu arba neturi sugyventinių ir šis vaikas yra Lietuvos Respublikos teisės aktų nustatyta tvarka registruotas kaip bendras nuteistojo ir į pasimatymą atvykusio asmens vaikas. Trumpalaikiai pasimatymai vyksta pataisos įstaigos atstovo akivaizdoje, tačiau pokalbio nesiklausoma. Nuteistojo pageidavimu trumpalaikis pasimatymas gali būti pakeistas dviem telefoniniais pokalbiais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 3. Ilgalaikiai pasimatymai leidžiami tik su sutuoktiniu, sugyventiniu arba asmeniu, su kuriuo nuteistasis turi bendrą vaiką, jei nei nuteistasis, nei šis asmuo nėra susituokęs su kitu asmeniu arba neturi sugyventinių ir šis vaikas yra Lietuvos Respublikos teisės aktų nustatyta tvarka registruotas kaip bendras nuteistojo ir į pasimatymą atvykusio asmens vaikas. Į ilgalaikius pasimatymus atvykusiems asmenims sudaromos sąlygos įsigyti maisto produktų pataisos įstaigų parduotuvėse arba, kai yra galimybių, jiems nemokamai tiekiamas šio Kodekso 173 straipsnio 4 dalyje nurodytas maistas. Į ilgalaikius pasimatymus atvykusių asmenų apsipirkimo pataisos įstaigų parduotuvėse ir maitinimo tvarką nustato Kalėjimų departamento direktorius. Nuteistojo pageidavimu vienas ilgalaikis pasimatymas gali būti pakeistas dviem trumpalaikiais pasimatymais arba keturiais telefoniniais pokalbiais.
 
-4. Nuteistiesiems, paliktiems atlikti ūkio darbų kardomojo kalinimo vietose, laisvės atėmimo vietų ligoninėse arba kalėjimuose, kuriuose nėra galimybių suteikti ilgalaikių pasimatymų, vienas ilgalaikis pasimatymas pakeičiamas trimis trumpalaikiais pasimatymais.
+4. Pasimatymas, kurio metu pažeidžiama pasimatymų tvarka, nedelsiant nutraukiamas. Jeigu per vienerius metus nuo pasimatymų tvarkos pažeidimo pakartotinai pažeidžiama pasimatymų tvarka arba jeigu už padarytą pasimatymų tvarkos pažeidimą nuteistajam buvo paskirta nuobauda, kiti šio nuteistojo pasimatymai vyksta atskiriant jį nuo lankytojų, o pasimatymai jų neatskiriant vėl leidžiami praėjus šešiems mėnesiams nuo trumpalaikių pasimatymų tvarkos pažeidimo ir jeigu nuteistasis neturi nuobaudų, paskirtų už padarytus pasimatymų tvarkos pažeidimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 5. Nuteistąjį, sergantį sunkia liga, gresiančia jo gyvybei, pataisos įstaigos direktorius arba jį pavaduojantis pareigūnas privalo leisti aplankyti sutuoktiniui, sugyventiniui, artimiesiems giminaičiams ir asmeniui, su kuriuo nuteistasis turi bendrą vaiką, jei nei nuteistasis, nei šis asmuo nėra susituokęs su kitu asmeniu arba neturi sugyventinių. Šie aplankymai į pasimatymų skaičių neįskaitomi.
 
@@ -1283,13 +1305,15 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 6) pasivaikščiojimo laiko pailginimas ne daugiau kaip dviem valandomis;
 
-7) leidimas nepilnamečiams pasimatymo su tėvais, globėjais (rūpintojais), artimaisiais giminaičiais ar kitais pasitikėjimo vertais asmenimis metu išeiti iki aštuonių valandų už nepilnamečių pataisos namų teritorijos ribų;
+7) didžiausios pinigų sumos, už kurią nuteistasis gali per mėnesį apsipirkti pataisos įstaigos parduotuvėje, padidinimas vienos bazinės socialinės išmokos dydžio suma;
 
-8) leidimas atostogų metu parvykti į Lietuvos Respublikos teritorijoje esančius namus;
+8) leidimas nepilnamečiams pasimatymo su tėvais, globėjais (rūpintojais), artimaisiais giminaičiais ar kitais pasitikėjimo vertais asmenimis metu išeiti iki aštuonių valandų už nepilnamečių pataisos namų teritorijos ribų;
 
-9) trumpalaikės išvykos į Lietuvos Respublikos teritorijoje esančius namus suteikimas;
+9) leidimas atostogų metu parvykti į Lietuvos Respublikos teritorijoje esančius namus;
 
-10) atlikusiems ne mažiau kaip vienerius metus, o nepilnamečiams, atlikusiems ne mažiau kaip šešis mėnesius paskirtos bausmės, – perkėlimas iš paprastosios grupės į lengvąją grupę.
+10) trumpalaikės išvykos į Lietuvos Respublikos teritorijoje esančius namus suteikimas;
+
+11) atlikusiems ne mažiau kaip vienerius metus, o nepilnamečiams, atlikusiems ne mažiau kaip šešis mėnesius paskirtos bausmės, – perkėlimas iš paprastosios grupės į lengvąją grupę.
 
 Straipsnio dalies pakeitimai:
 
@@ -2279,9 +2303,17 @@ Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 
 55 straipsnis. Areštą atliekančių nuteistųjų specialiosios teisės ir pareigos
 
-1. Areštą atliekantys nuteistieji turi šio Kodekso 11–15, 92, 93, 96–101, 106–110 straipsniuose nustatytas teises ir pareigas.
+1. Areštą atliekantys nuteistieji turi šio Kodekso 11–15, 92, 93, 96–101, 106–110 straipsniuose nustatytas teises ir pareigas. Areštą atliekantys nuteistieji areštinės parduotuvėje per mėnesį gali apsipirkti už ne didesnę kaip trijų bazinių socialinių išmokų dydžio pinigų sumą. Į šią sumą neįskaitomos pinigų, už kuriuos įsigyjami laikraščiai, žurnalai, knygos ir Areštinių vidaus tvarkos taisyklėse nurodyti elektros prietaisai, sumos. Šioje dalyje nurodyta apsipirkimo suma neribojama krūtimi maitinančioms motinoms.
 
-2. Areštą atliekantys nuteistieji turi teisę du kartus per savaitę paskambinti telefonu ir gauti vieną trumpalaikį (iki trijų valandų) pasimatymą per trisdešimt parų. Trumpalaikiai pasimatymai vyksta specialiose patalpose, įrengtose taip, kad lankytojų ir nuteistojo fizinis kontaktas negalimas. Trumpalaikiai pasimatymai vyksta areštinės atstovo akivaizdoje, tačiau šis pokalbio nesiklauso. Areštinės direktorius arba jį pavaduojantis pareigūnas turi teisę leisti nuteistiesiems papildomai paskambinti telefonu ir suteikti papildomų trumpalaikių pasimatymų socialiniams ryšiams palaikyti. Jeigu nuteistasis serga sunkia jo gyvybei gresiančia liga, areštinės direktorius arba jį pavaduojantis pareigūnas privalo leisti nuteistąjį aplankyti jo sutuoktiniui, sugyventiniui, artimiesiems giminaičiams ir asmeniui, su kuriuo nuteistasis turi bendrą vaiką, jei nei nuteistasis, nei šis asmuo nėra susituokęs su kitu asmeniu arba neturi sugyventinių ir šis vaikas yra Lietuvos Respublikos teisės aktų nustatyta tvarka registruotas kaip bendras nuteistojo ir į pasimatymą atvykusio asmens vaikas. Toks aplankymas neįskaitomas į pasimatymus. Pasimatymų ir areštą atliekančių nuteistųjų lankymo tvarką nustato Areštinių vidaus tvarkos taisyklės.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+
+2. Areštą atliekantys nuteistieji turi teisę du kartus per savaitę paskambinti telefonu ir gauti vieną trumpalaikį (iki trijų valandų) pasimatymą per trisdešimt parų. Trumpalaikiai pasimatymai vyksta specialiose patalpose, įrengtose taip, kad lankytojų ir nuteistojo fizinis kontaktas negalimas. Neatskiriant nuteistojo nuo lankytojų vyksta trumpalaikiai pasimatymai su sutuoktiniu, sugyventiniu, artimaisiais giminaičiais ir asmeniu, su kuriuo nuteistasis turi bendrą vaiką, jei nei nuteistasis, nei šis asmuo nėra susituokęs su kitu asmeniu arba neturi sugyventinių ir šis vaikas yra Lietuvos Respublikos teisės aktų nustatyta tvarka registruotas kaip bendras nuteistojo ir į pasimatymą atvykusio asmens vaikas. Trumpalaikis pasimatymas, kurio metu pažeidžiama trumpalaikių pasimatymų tvarka, nedelsiant nutraukiamas. Jeigu pakartotinai pažeidžiama trumpalaikių pasimatymų tvarka arba už trumpalaikių pasimatymų tvarkos pažeidimą nuteistajam buvo paskirta nuobauda, kiti nuteistojo trumpalaikiai pasimatymai vyksta specialiose patalpose, įrengtose taip, kad lankytojų ir nuteistojo fizinis kontaktas negalimas. Trumpalaikiai pasimatymai vyksta areštinės atstovo akivaizdoje, tačiau šis pokalbio nesiklauso. Areštinės direktorius arba jį pavaduojantis pareigūnas turi teisę leisti nuteistiesiems papildomai paskambinti telefonu ir suteikti papildomų trumpalaikių pasimatymų socialiniams ryšiams palaikyti. Jeigu nuteistasis serga sunkia jo gyvybei gresiančia liga, areštinės direktorius arba jį pavaduojantis pareigūnas privalo leisti nuteistąjį aplankyti jo sutuoktiniui, sugyventiniui, artimiesiems giminaičiams ir asmeniui, su kuriuo nuteistasis turi bendrą vaiką, jei nei nuteistasis, nei šis asmuo nėra susituokęs su kitu asmeniu arba neturi sugyventinių ir šis vaikas yra Lietuvos Respublikos teisės aktų nustatyta tvarka registruotas kaip bendras nuteistojo ir į pasimatymą atvykusio asmens vaikas. Toks aplankymas neįskaitomas į pasimatymus. Pasimatymų ir areštą atliekančių nuteistųjų lankymo tvarką nustato Areštinių vidaus tvarkos taisyklės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 3. Areštą atliekantys nuteistieji turi teisę gauti vieną pašto ar perduodamą drabužių, patalynės, avalynės siuntinį, taip pat teisę gauti smulkiųjų paketų. Vienas pašto siuntinys neturi sverti daugiau kaip dešimt kilogramų, o perduodamas siuntinys – daugiau kaip penkiolika kilogramų. Areštinės administracija gali priimti drabužių labdaros siuntas. Skambinimo telefonu, pašto, perduodamų drabužių, patalynės, avalynės siuntinių ir smulkiųjų paketų priėmimo ir įteikimo nuteistiesiems tvarką, taip pat labdaros siuntų priėmimo ir paskirstymo nuteistiesiems tvarką nustato Areštinių vidaus tvarkos taisyklės.
 
@@ -3077,9 +3109,17 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 2. Piniginė premija įrašoma į asmeninę nuteistojo sąskaitą.
 
-3. Paskatinimas, kuriuo leidžiama papildomai paskambinti telefonu, gauti pasimatymą, gali būti skiriamas tik nuteistiesiems, kurie pagal šį Kodeksą turi teisę paskambinti telefonu, gauti pasimatymų.
+3. Paskatinimas, kuriuo leidžiama papildomai paskambinti telefonu, gauti pasimatymą, apsipirkti pataisos įstaigos parduotuvėje už didesnę pinigų sumą, gali būti skiriamas tik nuteistiesiems, kurie pagal šį Kodeksą turi teisę paskambinti telefonu, gauti pasimatymų, apsipirkti pataisos įstaigos parduotuvėje.
 
-4. Laisvės atėmimo bausmę atliekantiems kalėjime nuteistiesiems kaip paskatinimas gali būti suteikiamas tik trumpalaikis pasimatymas.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+
+4. Paskatinimas – padidinti didžiausią apsipirkimo pataisos įstaigos parduotuvėje sumą nuteistajam gali būti taikomas ne ilgiau kaip vieną mėnesį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 5. Kalėjime laikomiems nuteistiesiems pasivaikščiojimo laikas paskatinimo tvarka pailginamas ne ilgiau kaip vieną mėnesį.
 
