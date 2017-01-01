@@ -4,7 +4,7 @@ identifier: "TAR.29CFE27F6B13"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-20"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29CFE27F6B13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 51-1635, i. k. 0991010ISTAIII-1191
 
@@ -56,7 +56,13 @@ LIETUVOS KARIUOMENĖS DRAUSMĖS STATUTO PASKIRTIS IR BENDROSIOS NUOSTATOS
 
 3. Už baudžiamajame įstatyme apibrėžtą veiką karys traukiamas baudžiamojon atsakomybėn Lietuvos Respublikos baudžiamojo kodekso ir Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka.
 
-4. Karys, padaręs Lietuvos Respublikos administracinių teisės pažeidimų kodekse apibrėžtą veiką, traukiamas administracinėn atsakomybėn bendrais pagrindais.
+4. Karys, padaręs Lietuvos Respublikos administracinių nusižengimų kodekse apibrėžtą veiką, traukiamas administracinėn atsakomybėn bendrais pagrindais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
+
+Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
 
 II SKYRIUS
 
@@ -254,7 +260,13 @@ Drausmės pažeidimų ir skundų tyrimo tikslas:
 
 2. Jeigu drausmės pažeidimo ar skundo tyrimo metu nustatoma nusikalstamos veikos požymių, vadas (viršininkas) nedelsdamas privalo informuoti Karo policiją ir suteikti jai visą ikiteisminiam tyrimui atlikti reikalingą medžiagą.
 
-3. Jeigu drausmės pažeidimo ar skundo tyrimo metu nustatoma administracinio teisės pažeidimo požymių, tyrimo medžiaga perduodama kompetentingiems organams (pareigūnams), įgaliotiems nagrinėti administracinių teisės pažeidimų bylas.
+3. Jeigu drausmės pažeidimo ar skundo tyrimo metu nustatoma administracinio nusižengimo požymių, tyrimo medžiaga perduodama kompetentingoms institucijoms (pareigūnams), įgaliotoms (įgaliotiems) tirti administracinių nusižengimų bylas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
+
+Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
 
 4. Vadas (viršininkas) ar krašto apsaugos generalinis inspektorius, pažeidę drausmės pažeidimų ir skundų tyrimo tvarką, atsako šio statuto nustatyta tvarka.
 
@@ -300,7 +312,13 @@ Tarnybinis patikrinimas neatliekamas:
 
 3) tiriamo įvykio dalyviui atsisakius pateikti paaiškinimus, surašyti šį faktą patvirtinančią pažymą, kurią pasirašytinai patvirtina jis ir ne mažiau kaip du asmenys;
 
-4) nedelsdamas informuoti tarnybinį patikrinimą paskyrusį vadą (viršininką) apie patikrinimo metu nustatytą veiką, turinčią nusikalstamos veikos ar administracinio teisės pažeidimo požymių;
+4) nedelsdamas informuoti tarnybinį patikrinimą paskyrusį vadą (viršininką) apie patikrinimo metu nustatytą veiką, turinčią nusikalstamos veikos ar administracinio nusižengimo požymių;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
+
+Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
 
 5) saugoti valstybės ir tarnybos paslaptis, taip pat konfidencialias apie asmenis žinias, kurias sužinojo tarnybinio patikrinimo metu.
 
@@ -1227,6 +1245,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
 
 Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimo įstatymo Nr. VIII-1191 pakeitimo ir Lietuvos kariuomenės drausmės statuto 2, 14, 18, 21, 36, 40, 48, 50, 55, 56, 61, 62, 63, 64 straipsnių pakeitimo ir 47 straipsnio pripažinimo netekusiu galios įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
+
+Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimo įstatymo Nr. VIII-1191 pakeitimo ir Lietuvos kariuomenės drausmės statuto 2, 14, 18, 21, 36, 40, 48, 50, 55, 56, 61, 62, 63, 64 straipsnių pakeitimo ir 47 straipsnio pripažinimo netekusiu galios įstatymo Nr. XII-2101 17 straipsnio pakeitimo įstatymas
 
 101 straipsnis. Rūkymas ne tam skirtose vietose
 
