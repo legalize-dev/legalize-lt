@@ -4,7 +4,7 @@ identifier: "TAR.06C50B65B6B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-21"
-last_updated: "2015-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.06C50B65B6B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-14
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2228, i. k. 1021010ISTA00IX-895
 
@@ -216,11 +216,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
 
-2. Valstybė, atlyginusi žalą, įgyja regreso (atgręžtinio reikalavimo) teisę į asmenį, melagingai pranešusį apie nusikalstamą veiką, melagingai asmenį įskundusį, kad šis padarė nusikalstamą veiką ar administracinį teisės pažeidimą, arba asmenį, davusį melagingus parodymus, melagingą eksperto ar revizoriaus išvadą, melagingą specialisto paaiškinimą ar išvadą arba pateikusio žinomai neteisingą vertimą, jeigu šiais veiksmais toks asmuo padarė nusikalstamą veiką, kuri nustatyta įsiteisėjusiu teismo nuosprendžiu.
+2. Valstybė, atlyginusi žalą, įgyja regreso (atgręžtinio reikalavimo) teisę į asmenį, melagingai pranešusį apie nusikalstamą veiką, melagingai asmenį įskundusį, kad šis padarė nusikalstamą veiką ar administracinį nusižengimą, arba asmenį, davusį melagingus parodymus, melagingą eksperto ar revizoriaus išvadą, melagingą specialisto paaiškinimą ar išvadą arba pateikusio žinomai neteisingą vertimą, jeigu šiais veiksmais toks asmuo padarė nusikalstamą veiką, kuri nustatyta įsiteisėjusiu teismo nuosprendžiu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-1437, 2003-04-03, Žin., 2003, Nr. 38-1682 (2003-04-24), i. k. 1031010ISTA0IX-1437
+
+Nr. XII-2716, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26501
 
 3. Lėšos, kurias valstybė išieškojo regreso (atgręžtinio reikalavimo) tvarka, sumokamos į valstybės biudžetą.
 
@@ -315,6 +317,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
 
 Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei įstatymo Nr. IX-895 pavadinimo, 1, 2, 5-1 straipsnių ir priedo pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2716, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26501
+
+Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo Nr. IX-895 5 straipsnio pakeitimo įstatymas
 
 51 straipsnis. Atstovavimas valstybei ir Lietuvos Respublikos Vyriausybei
 
