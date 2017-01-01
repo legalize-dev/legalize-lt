@@ -4,7 +4,7 @@ identifier: "TAR.DCBDC82E26CD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-23"
-last_updated: "2015-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DCBDC82E26CD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų registro įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-07-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 21-0; Žin. 1992, Nr.5-78, i. k. 0921010ISTA00I-2237
 
@@ -36,7 +36,11 @@ GYVENTOJŲ REGISTRO
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Asmens civilinės būklės pasikeitimas – gimimas, tėvystės (motinystės) nustatymas, tėvystės pripažinimas, tėvystės (motinystės) nuginčijimas, mirtis, santuokos sudarymas, santuokos nutraukimas ar pripažinimas negaliojančia, įvaikinimas, vardo, pavardės pakeitimas ir kiti su asmens civiline būkle susiję pasikeitimai.
+1. Neteko galios nuo 2017-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XII-2116, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19704
 
 2. Asmens dokumentas – Lietuvos Respublikos gyventojų registro nuostatuose nurodytas Lietuvos Respublikos valstybės ar savivaldybės institucijos asmeniui išduotas dokumentas, kuriame įrašyti duomenys apie šį asmenį.
 
@@ -66,7 +70,11 @@ Gyventojų registro objektai yra šie asmenys, kurių duomenys tvarkomi Gyventoj
 
 1) Lietuvos Respublikos piliečiai;
 
-2) asmenys be pilietybės ir kitų valstybių piliečiai, gaunantys Lietuvos Respublikoje išduodamus asmens dokumentus, deklaruojantys gyvenamąją vietą Lietuvos Respublikos teritorijoje ar registruojantys asmens civilinės būklės pasikeitimus Lietuvos Respublikos institucijose.
+2) asmenys be pilietybės ir kitų valstybių piliečiai, kurie gauna Lietuvos Respublikoje išduodamus asmens dokumentus, deklaruoja gyvenamąją vietą Lietuvos Respublikos teritorijoje ar kurių civilinės būklės aktai registruojami Lietuvos Respublikos institucijose.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2116, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19704
 
 6 straipsnis. Gyventojų registro valdytojas ir tvarkytojas (tvarkytojai)
 
@@ -279,6 +287,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1297, 2014-11-06, paskelbta TAR 2014-11-14, i. k. 2014-16874
 
 Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2116, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19704
+
+Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 2 ir 5 straipsnių pakeitimo įstatymas
 
 18 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
