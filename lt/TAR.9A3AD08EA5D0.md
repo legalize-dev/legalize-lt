@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "2017-01-01"
+last_updated: "2017-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-01-01
+Suvestinė redakcija nuo 2017-01-02 iki 2017-08-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
 
@@ -26,11 +26,7 @@ Nauja įstatymo redakcija nuo 2011-07-01:
 
 Nr. XI-1281, 2011-03-17, Žin., 2011, Nr. 38-1804 (2011-03-31)
 
-LIETUVOS RESPUBLIKOS
-
-ŠVIETIMO
-
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ŠVIETIMO  ĮSTATYMAS
 
 1991 m. birželio 25 d. Nr. I-1489
 
@@ -862,9 +858,7 @@ Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
 
 5. Pagrindinės mokyklos tipui priskiriamos mokyklos, vykdančios pagrindinio ugdymo programą ar pagrindinio ugdymo ir pradinio ugdymo programas.
 
-6. Vidurinės mokyklos tipui priskiriamos mokyklos, vykdančios vidurinio ugdymo programą ar vidurinio ir pagrindinio ugdymo programas arba vidurinio, pagrindinio ir pradinio ugdymo programas.
-
-6 dalis pripažįstama netekusia galios 2017-09-01.
+6. netenka galios nuo 2017-09-01.
 
 Straipsnio dalies pakeitimai:
 
@@ -1022,7 +1016,7 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 
 10) įstatymų nustatyta tvarka ginti savo teises;
 
-11) naudotis kitomis Profesinio mokymo įstatymo ar Neformaliojo suaugusiųjų švietimo įstatymo ir kitų įstatymų nustatytomis teisėmis.
+11) naudotis kitomis Profesinio mokymo įstatymo ar Neformaliojo suaugusiųjų švietimo įstatymo ir kitų įstatymų nustatytomis teisėmis;
 
 2. Mokinys privalo:
 
@@ -1030,7 +1024,7 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 
 2) lankyti mokyklą, stropiai mokytis, laikytis mokinio elgesio normų, gerbti mokytojus ir kitus mokyklos bendruomenės narius, nepažeisti jų teisių ir teisėtų interesų;
 
-3) mokytis pagal priešmokyklinio, pradinio ir pagrindinio ugdymo programas iki 16 metų.
+3) mokytis pagal priešmokyklinio, pradinio ir pagrindinio ugdymo programas iki 16 metų;
 
 Straipsnio punkto pakeitimai:
 
@@ -1084,7 +1078,7 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 7) užtikrinti vaiko punktualų ir reguliarų mokyklos lankymą; jeigu vaikas negali atvykti į mokyklą, nedelsdami informuoti mokyklą;
 
-8) dalyvauti parenkant vaikui, turinčiam specialiųjų ugdymosi poreikių, ugdymo programą ir mokyklą.
+8) dalyvauti parenkant vaikui, turinčiam specialiųjų ugdymosi poreikių, ugdymo programą ir mokyklą;
 
 48 straipsnis. Teisė dirbti mokytoju
 
@@ -1322,7 +1316,7 @@ Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
 
 15) rūpintis lietuvių kalbos mokymu ir mokymu lietuvių kalba užsienio valstybėse; analizuoti, ar tinkamai naudojamos švietimui skirtos valstybės biudžeto lėšos, atsiskaityti visuomenei už bendrąją švietimo būklę šalyje ir atlikti kitas įstatymų ir Vyriausybės nustatytas funkcijas;
 
-16) konkurso tvarka skirti biudžeto lėšas įstaigoms, įmonėms ir organizacijoms, vykdančioms švietimo, mokslo, kultūros ir sporto programas, projektus.
+16) konkurso tvarka skirti biudžeto lėšas įstaigoms, įmonėms ir organizacijoms, vykdančioms švietimo, mokslo, kultūros ir sporto programas, projektus;
 
 58 straipsnis. Savivaldybės institucijų įgaliojimai švietimo valdymo srityje
 
@@ -1511,6 +1505,12 @@ Nr. XII-398, 2013-06-20, Žin., 2013, Nr. 73-3655 (2013-07-09)
 2. Valstybinės (išskyrus aukštąsias mokyklas) ir savivaldybės mokyklos mokytojo, pagalbos mokiniui specialisto darbo užmokestis priklauso nuo išsilavinimo, pedagoginio darbo stažo, kvalifikacinės kategorijos ir veiklos sudėtingumo.
 
 3. Valstybinės (išskyrus aukštąsias mokyklas) ir savivaldybės mokyklos vadovo, jo pavaduotojo ugdymui, ugdymą organizuojančio skyriaus vedėjo, mokytojo, pagalbos mokiniui specialisto ir kito ugdymo procese dalyvaujančio darbuotojo darbo apmokėjimo tvarką nustato Vyriausybė.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos švietimo įstatymo (2011 m. kovo 17 d. redakcija; Žin., 2011, Nr. 38-1804) 68 straipsnio 3 dalis tiek, kiek ja Vyriausybei pavesta nustatyti šioje dalyje nurodytų pedagogų darbo apmokėjimo tvarką, įstatymų leidėjui nenustačius esminių jų darbo apmokėjimo sąlygų, prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus <...> turi teisę <...> gauti teisingą apmokėjimą už darbą“, 128 straipsnio 1 dalies nuostatai „sprendimus dėl <...> valstybės <...> esminių turtinių įsipareigojimų priima Seimas Vyriausybės siūlymu“, konstituciniams teisinės valstybės, valdžių padalijimo principams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT26-N15/2015, 2015-09-29, paskelbta TAR 2017-01-02, i. k. 2017-00001
 
 4. Valstybinės (išskyrus aukštąsias mokyklas) ir savivaldybės mokyklos vadovo, jo pavaduotojo ugdymui, ugdymą organizuojančio skyriaus vedėjo vadybinės kvalifikacinės kategorijos nustatomos ir šių asmenų veiklos atitikties įgytai kvalifikacinei kategorijai vertinimas atliekamas kas penkeri metai, mokytojų, pagalbos mokiniui specialistų kvalifikacinės kategorijos nustatomos švietimo ir mokslo ministro nustatyta tvarka.
 
@@ -1913,6 +1913,30 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2537, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20659
 
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 35 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 12, 14, 20, 21, 23 ir 58 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 1, 2, 19, 23, 43, 46, 47, 49, 56, 58, 59 straipsnių pakeitimo ir Įstatymo papildymo 23-1, 23-2 straipsniais įstatymas
+
+10.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT26-N15/2015, 2015-09-29, paskelbta TAR 2017-01-02, i. k. 2017-00001
+
+Dėl Lietuvos Respublikos švietimo įstatymo 68  straipsnio 3 dalies ir Lietuvos Respublikos Vyriausybės 1993 m. liepos 8 d. nutarimo Nr. 511 „Dėl biudžetinių įstaigų ir organizacijų darbuotojų darbo apmokėjimo tvarkos tobulinimo“ atitikties Lietuvos Respublikos Konstitucijai
 
 73 straipsnis.
 
