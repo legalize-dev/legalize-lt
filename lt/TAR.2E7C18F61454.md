@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2017-01-01"
+last_updated: "2017-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-01-01
+Suvestinė redakcija nuo 2017-01-02 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -3937,7 +3937,7 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 
 44110 straipsnis. Grupės ieškinio ir individualių ieškinių santykis
 
-Kai iki  galutinio grupės sąrašo patvirtinimo pagal šio Kodekso 4418 straipsnio 5 dalį buvo pareikštas tapačiomis arba panašiomis faktinėmis aplinkybėmis grindžiamas individualus ieškinys, kuriame keliami tapatūs arba panašūs reikalavimai tam pačiam atsakovui ir siekiama tuo pačiu teisinės gynybos būdu apginti materialines teises ar įstatymų saugomus interesus, ieškovas savo iniciatyva arba teismo siūlymu gali pasinaudoti šio Kodekso 139 straipsnyje numatyta teise atsiimti ieškinį ir tapti grupės nariu pagal šio Kodekso 4418 straipsnyje nustatytas taisykles. Šiuo atveju, jeigu grupės ieškinį nagrinėjantis teismas patvirtina asmenį grupės nariu, ieškovo individualus reikalavimas paliekamas nenagrinėtas teismo iniciatyva be atsakovo sutikimo.
+Kai iki  galutinio grupės sąrašo patvirtinimo pagal šio Kodekso 4418 straipsnio 5 dalį buvo pareikštas tapačiomis arba panašiomis faktinėmis aplinkybėmis grindžiamas individualus ieškinys, kuriame keliami tapatūs arba panašūs reikalavimai tam pačiam atsakovui ir siekiama tuo pačiu teisinės gynybos būdu apginti materialines teises ar įstatymų saugomus interesus, ieškovas savo iniciatyva arba teismo siūlymu gali pasinaudoti šio Kodekso 139 straipsnyje numatyta teise atsiimti ieškinį ir tapti grupės nariu pagal šio Kodekso 4418 straipsnyje nustatytas taisykles. Šiuo atveju, jeigu grupės ieškinį nagrinėjantis teismas patvirtina asmenį grupės nariu, ieškovo individualus reikalavimas paliekamas nenagrinėtas teismo iniciatyva be atsakovo sutikimo.
 
 44111 straipsnis. Teismo vaidmuo
 
@@ -7567,7 +7567,13 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 385 straipsnis. Teismo sprendimas
 
-1. Priimdamas sprendimą nutraukti santuoką, teismas privalo išspręsti pareikštų reikalavimų dėl vaikų išlaikymo ir jų gyvenamosios vietos nustatymo, vieno sutuoktinio išlaikymo ir turto padalijimo, žalos atlyginimo, jeigu šis reikalavimas pareikštas, klausimą. Pripažindamas santuoką negaliojančia, teismas turi išspręsti vaikų ir sąžiningo sutuoktinio išlaikymo, taip pat vaikų gyvenamosios vietos nustatymo klausimus.
+1. Priimdamas sprendimą nutraukti santuoką, teismas privalo išspręsti pareikštų reikalavimų dėl vaikų išlaikymo, jų gyvenamosios vietos, dalyvavimo juos auklėjant ir nepilnamečių vaikų bendravimo su skyrium gyvenančiu tėvu (motina) tvarkos nustatymo, vieno sutuoktinio išlaikymo ir turto padalijimo, žalos atlyginimo, jeigu šis reikalavimas pareikštas, klausimus. Pripažindamas santuoką negaliojančia, teismas turi išspręsti vaikų ir sąžiningo sutuoktinio išlaikymo, taip pat vaikų gyvenamosios vietos, dalyvavimo juos auklėjant ir nepilnamečių vaikų bendravimo su skyrium gyvenančiu tėvu (motina) tvarkos nustatymo klausimus.
+
+TAR pastaba. Iki įstatymo Nr. XII-2553 įsigaliojimo (2017-01-02) pradėtos bylos, nurodytos Lietuvos Respublikos civilinio proceso kodekso IV dalies XIX skyriaus antrajame skirsnyje ir V dalies XXXV skyriuje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2553, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19359
 
 2. Santuoka laikoma nutraukta nuo teismo sprendimo ją nutraukti įsiteisėjimo dienos. Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo nutraukti santuoką ar pripažinti santuoką negaliojančia įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti santuoką įregistravusiai civilinės metrikacijos įstaigai, kad ši Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo nustatyta tvarka įregistruotų santuokos nutraukimą.
 
@@ -9357,7 +9363,13 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 1. Priimdamas sprendimą nutraukti santuoką abiejų sutuoktinių bendru sutikimu, teismas patvirtina sutuoktinių pateiktą sutartį dėl santuokos nutraukimo pasekmių, jeigu ši sutartis atitinka įstatymų reikalavimus.
 
-2. Priimdamas sprendimą nutraukti santuoką vieno sutuoktinio prašymu, teismas taip pat turi išspręsti sutuoktinių nepilnamečių vaikų gyvenamosios vietos ir jų išlaikymo, taip pat vieno sutuoktinio išlaikymo bei jų bendro turto padalijimo klausimus, išskyrus atvejus, kai turtas padalytas bendru sutuoktinių susitarimu, patvirtintu notaro, arba yra įsiteisėjęs teismo sprendimas dėl bendro turto padalijimo.
+2. Priimdamas sprendimą nutraukti santuoką vieno sutuoktinio prašymu, teismas taip pat turi išspręsti sutuoktinių nepilnamečių vaikų gyvenamosios vietos, dalyvavimo juos auklėjant ir nepilnamečių vaikų bendravimo su skyrium gyvenančiu tėvu (motina) tvarkos nustatymo ir jų išlaikymo, taip pat vieno sutuoktinio išlaikymo bei jų bendro turto padalijimo klausimus, išskyrus atvejus, kai turtas padalytas bendru sutuoktinių susitarimu, patvirtintu notaro, arba yra įsiteisėjęs teismo sprendimas dėl bendro turto padalijimo.
+
+TAR pastaba. Iki įstatymo Nr. XII-2553 įsigaliojimo (2017-01-02) pradėtos bylos, nurodytos Lietuvos Respublikos civilinio proceso kodekso IV dalies XIX skyriaus antrajame skirsnyje ir V dalies XXXV skyriuje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2553, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19359
 
 3. Santuoka laikoma nutraukta nuo teismo sprendimo ją nutraukti įsiteisėjimo dienos. Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo nutraukti santuoką įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti santuoką įregistravusiai civilinės metrikacijos įstaigai, kad ši Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo nustatyta tvarka įregistruotų santuokos nutraukimą.
 
