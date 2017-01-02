@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2017-01-01"
+last_updated: "2017-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-01-01
+Suvestinė redakcija nuo 2017-01-02 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -2541,7 +2541,11 @@ Tėvai neturi teisės tvarkyti uzufrukto teisėmis savo nepilnamečių vaikų tu
 
 3.190 straipsnis. Uzufrukto teisė, kai turtą tvarko tik vienas iš tėvų
 
-1. Jeigu tėvų valdžia priklauso tik vienam iš nepilnamečio vaiko tėvų, tai vaiko turtą uzufrukto teise tvarko tik šis tėvas arba motina. Ištuokos ar gyvenimo skyrium atveju turto tvarkymo teisė priklauso tam iš tėvų, su kuriuo lieka gyventi vaikas.
+1. Jeigu tėvų valdžia priklauso tik vienam iš nepilnamečio vaiko tėvų, vaiko turtą uzufrukto teise tvarko tik šis tėvas arba motina. Ištuokos ar tėvų gyvenimo skyrium atveju nepilnamečio vaiko turto tvarkymo teisė priklauso tam iš tėvų, su kuriuo teismo sprendimu nustatyta vaiko gyvenamoji vieta.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358
 
 2. Jei nepilnamečio vaiko tėvas (motina) sudaro naują santuoką, jis (ji) išsaugo uzufrukto teisę į nepilnamečio vaiko turtą, tačiau privalo pervesti į vaiko sąskaitą visas turto duodamas pajamas ir atskirai sutvarkyti vaisių apskaitą, kurie viršija išlaidas vaiko ugdymui (auklėjimui, lavinimui, materialiniam aprūpinimui). Jeigu naujas vaiko tėvo (motinos) sutuoktinis vaiką įvaikina, tai jis taip pat įgyja turto tvarkymo teisę.
 
@@ -10530,6 +10534,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2579, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20331
 
 Lietuvos Respublikos civilinio kodekso 6.696, 6.697 ir 6.698 straipsnių pakeitimo įstatymas
+
+26.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358
+
+Lietuvos Respublikos civilinio kodekso 3.43, 3.48, 3.53, 3.59, 3.64, 3.65, 3.76, 3.156, 3.157, 3.163, 3.169, 3.170, 3.174, 3.175, 3.178, 3.184 ir 3.190 straipsnių pakeitimo įstatymas
 
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
