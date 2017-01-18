@@ -4,7 +4,7 @@ identifier: "TAR.68CC8934A031"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-13"
-last_updated: "2016-05-25"
+last_updated: "2017-01-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.68CC8934A031"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS CIVILINĮ PROCESĄ REGLAMENTUOJANČIŲ EUROPOS SĄJUNGOS
 
 IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2016-05-25
+Suvestinė redakcija nuo 2017-01-18 iki 2017-07-13
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
 
@@ -460,9 +460,9 @@ Papildyta skirsniu:
 
 Nr. XII-1412, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20541
 
-DEŠIMTASIS SKIRSNIS
+DEVINTASIS5 SKIRSNIS
 
-BAIGIAMOSIOS NUOSTATOS
+2014 M. GEGUŽĖS 15 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (ES) NR. 655/2014, KURIUO NUSTATOMA EUROPINIO SĄSKAITOS BLOKAVIMO ĮSAKYMO PROCEDŪRA, SIEKIANT PALENGVINTI TARPVALSTYBINĮ SKOLŲ IŠIEŠKOJIMĄ CIVILINĖSE IR KOMERCINĖSE BYLOSE, ĮGYVENDINIMAS
 
 3112 straipsnis. Europos paveldėjimo pažymėjimo išdavimas
 
@@ -491,4 +491,66 @@ EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMŲ SPRENDIMŲ PRIPAŽINIMO IR VYKDYMO T
 Pakeistas skirsnio pavadinimas:
 
 Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
+
+3117 straipsnis. Proceso ypatumai
+
+Europinio sąskaitos blokavimo įsakymo procedūrai taikomos Lietuvos Respublikos civilinio proceso kodekse nustatytos taisyklės tiek, kiek 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 655/2014, kuriuo nustatoma europinio sąskaitos blokavimo įsakymo procedūra, siekiant palengvinti tarpvalstybinį skolų išieškojimą civilinėse ir komercinėse bylose (toliau šiame skirsnyje – Reglamentas (ES) Nr. 655/2014), ir šis įstatymas nenustato kitaip.
+
+3118 straipsnis. Teismingumas
+
+1. Išskyrus šio straipsnio 2 dalyje nurodytą atvejį, Reglamento (ES) Nr. 655/2014 6 straipsnio 1 ir 2 dalyse nurodytais atvejais prašymas dėl europinio sąskaitos blokavimo įsakymo išdavimo paduodamas pirmosios instancijos teismui, kuriam teisminga byla dėl ginčo esmės.
+
+2. Reglamento (ES) Nr. 655/2014 6 straipsnio 2 dalyje nurodytu atveju, kai byla dėl ginčo esmės yra teisminga ne Lietuvos Respublikos teismui, prašymas dėl europinio sąskaitos blokavimo įsakymo išdavimo paduodamas vartotojo nuolatinės gyvenamosios vietos apylinkės teismui.
+
+3. Reglamento (ES) Nr. 655/2014 6 straipsnio 3 dalyje nurodytu atveju prašymas dėl europinio sąskaitos blokavimo įsakymo išdavimo paduodamas pirmosios instancijos teismui, kuris išnagrinėjo bylą iš esmės ar patvirtino taikos sutartį.
+
+4. Šio straipsnio 1 ir 3 dalyse nurodytos teismingumo taisyklės taikomos ir tais atvejais, kai byla dėl ginčo esmės yra nagrinėjama ar jau išnagrinėta apeliacinės instancijos ar kasaciniame teisme.
+
+5. Reglamento (ES) Nr. 655/2014 6 straipsnio 4 dalyje nurodytu atveju prašymas dėl europinio sąskaitos blokavimo įsakymo išdavimo paduodamas autentišką dokumentą išdavusios institucijos buveinės vietos apylinkės teismui.
+
+3119 straipsnis. Žyminis mokestis
+
+Paduodant prašymą dėl europinio sąskaitos blokavimo įsakymo išdavimo, taip pat taikant Reglamento (ES) Nr. 655/2014 4 skyriuje nurodytas teisių gynimo priemones, kai kreipiamasi į teismą, mokamas žyminis mokestis, lygus atitinkamai už prašymus dėl laikinųjų apsaugos priemonių ar už atskiruosius skundus dėl nutarčių dėl laikinųjų apsaugos priemonių mokėtinam žyminiam mokesčiui, jei toks yra nustatytas.
+
+3120 straipsnis. Informavimo institucija
+
+Reglamento (ES) Nr. 655/2014 14 straipsnyje nurodytą informaciją teismui, nagrinėjančiam prašymą dėl europinio sąskaitos blokavimo įsakymo išdavimo, teikia Lietuvos Respublikos Vyriausybės įgaliota institucija.
+
+3121 straipsnis. Vykdymo proceso ypatumai
+
+1. Europinis sąskaitos blokavimo įsakymas yra vykdomasis dokumentas.
+
+2. Europinio sąskaitos blokavimo įsakymo turiniui netaikomi Lietuvos Respublikos civilinio proceso kodekso 648 straipsnyje nustatyti reikalavimai.
+
+3. Europinį sąskaitos blokavimo įsakymą vykdo antstolis. Antstolis atlieka Reglamento (ES) Nr. 655/2014 4 straipsnio 14 punkte nurodytus procesinių dokumentų priėmimo, perdavimo ir įteikimo veiksmus, taip pat Reglamento (ES) Nr. 655/2014 24 straipsnio 4 dalyje, 25 straipsnio 1, 2 ir 4 dalyse nurodytus veiksmus.
+
+3122 straipsnis. Teisių gynimo priemonės
+
+1. Reglamento (ES) Nr. 655/2014 21 straipsnio 1 dalyje nurodytu atveju gali būti duodamas atskirasis skundas.
+
+2. Dėl Reglamento (ES) Nr. 655/2014 33 ir 35 straipsniuose nurodytų teisių gynimo priemonių, kurios taikomos kilmės Europos Sąjungos valstybėje narėje, kreipiamasi į europinį sąskaitos blokavimo įsakymą išdavusį teismą. Šio teismo nutartis dėl teisių gynimo priemonių gali būti skundžiama atskiruoju skundu.
+
+3. Dėl Reglamento (ES) Nr. 655/2014 34 ir 35 straipsniuose, išskyrus šio reglamento 34 straipsnio 1 dalies a punktą ir 35 straipsnio 3 dalį, nurodytų teisių gynimo priemonių, kurios taikomos vykdymo Europos Sąjungos valstybėje narėje, kreipiamasi į europinį sąskaitos blokavimo įsakymą vykdančio ar įvykdžiusio antstolio kontoros buveinės vietos apylinkės teismą. Šio teismo nutartis dėl teisių gynimo priemonių gali būti skundžiama atskiruoju skundu.
+
+4. Šio straipsnio 1, 2 ir 3 dalyse nurodytais atvejais apeliacinės instancijos teismo nutartys, priimtos išnagrinėjus atskiruosius skundus, kasacine tvarka neskundžiamos.
+
+5. Dėl Reglamento (ES) Nr. 655/2014 34 straipsnio 1 dalies a punkte ir 35 straipsnio 3 dalyje nurodytų teisių gynimo priemonių, kurios taikomos vykdymo Europos Sąjungos valstybėje narėje, kreipiamasi į europinį sąskaitos blokavimo įsakymą vykdantį ar įvykdžiusį antstolį. Antstolio veiksmai gali būti skundžiami teismui. Paduodant ir nagrinėjant tokį skundą mutatis mutandis taikomos Lietuvos Respublikos civilinio proceso kodekso 593 straipsnio 1–4 dalyse nustatytos taisyklės. Teismo nutartis dėl antstolio veiksmų atskiruoju skundu neskundžiama.
+
+6. Reglamento (ES) Nr. 655/2014 38 straipsnio 1 dalies b punkte nurodytas prašymas paduodamas europinį sąskaitos blokavimo įsakymą vykdančiam ar įvykdžiusiam antstoliui.
+
+7. Reglamento (ES) Nr. 655/2014 39 straipsnio 3 dalies a punkte nurodytu atveju kreipiamasi į europinį sąskaitos blokavimo įsakymą išdavusį teismą.
+
+8. Reglamento (ES) Nr. 655/2014 39 straipsnio 3 dalies b punkte nurodytu atveju kreipiamasi į europinį sąskaitos blokavimo įsakymą vykdantį ar įvykdžiusį antstolį.
+
+3123 straipsnis. Procesinių dokumentų įteikimo ypatumai
+
+Reglamento (ES) Nr. 655/2014 28 straipsnio 3 dalyje nurodytu atveju, kai skolininko gyvenamoji vieta (buveinė) yra Lietuvos Respublikoje ir Lietuvos Respublika nėra vykdymo Europos Sąjungos valstybė narė, procesiniai dokumentai skolininkui įteikiami šio įstatymo 3 straipsnyje ir 33 straipsnio 2 ir 4 dalyse nustatyta tvarka.
+
+Papildyta skirsniu:
+
+Nr. XII-2338, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13904
+
+DEŠIMTASIS SKIRSNIS
+
+BAIGIAMOSIOS NUOSTATOS
 
