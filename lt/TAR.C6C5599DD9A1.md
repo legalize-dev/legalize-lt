@@ -4,7 +4,7 @@ identifier: "TAR.C6C5599DD9A1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-10-28"
-last_updated: "2016-11-10"
+last_updated: "2017-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2016-11-10 iki 2017-01-31
+Suvestinė redakcija nuo 2017-02-01 iki 2018-06-14
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
 
@@ -299,7 +299,7 @@ Mokėjimo paslaugų teikėjai yra:
 
 2. Mokėjimo paslaugų teikėjas negali iš mokėjimo paslaugų vartotojo imti komisinio atlyginimo už informavimo pareigų vykdymą ar taisomąsias ir prevencines priemones pagal šio įstatymo IV, V, VI, VII, IX ir XI skyrius. Šio įstatymo 34 straipsnio 2 dalyje, 35 straipsnio 4 dalyje ir 41 straipsnio 2 dalyje numatytais atvejais mokėjimo paslaugų vartotojas ir mokėjimo paslaugų teikėjas gali susitarti dėl komisinio atlyginimo, kuris turi būti pagrįstas ir atitikti mokėjimo paslaugų teikėjo išlaidas.
 
-3. Jeigu vykdant mokėjimo operaciją valiuta nėra keičiama, gavėjas moka jo mokėjimo paslaugų teikėjo nustatytą komisinį atlyginimą, o mokėtojas moka jo mokėjimo paslaugų teikėjo nustatytą komisinį atlyginimą.
+3. Jeigu vykdant mokėjimo operaciją valiuta nėra keičiama, gavėjas moka jo mokėjimo paslaugų teikėjo nustatytą komisinį atlyginimą, o mokėtojas moka jo mokėjimo paslaugų teikėjo nustatytą komisinį atlyginimą. Vykdant kredito pervedimus ir tiesioginio debeto operacijas eurais pagal Europos Sąjungoje veikiančios mokėjimo schemos taisykles, mokėjimo paslaugų teikėjai negali diferencijuoti gavėjui taikomo komisinio atlyginimo pagal tai, kurioje mokėjimo paslaugų teikėjo įstaigoje mokėtojas turi mokėjimo sąskaitą.
 
 Straipsnio dalies pakeitimai:
 
