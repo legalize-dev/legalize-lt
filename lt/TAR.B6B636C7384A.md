@@ -4,7 +4,7 @@ identifier: "TAR.B6B636C7384A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-30"
-last_updated: "2017-01-01"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-02-28
+Suvestinė redakcija nuo 2017-03-01 iki 2017-07-12
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
 
@@ -775,7 +775,11 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 36 straipsnis. Banko komitetai
 
-1. Bankas privalo turėti nuolat veikiantį vidaus audito komitetą. Vidaus audito komitetą sudaro ir jo veiklą kontroliuoja banko stebėtojų taryba. Bankai, kurie yra svarbūs dėl savo dydžio, organizacinės struktūros ir veiklos pobūdžio, apimties ir sudėtingumo, turi sudaryti rizikos, skyrimo ir atlygio komitetus. Rizikos, skyrimo ir atlygio komitetus savo nuožiūra gali sudaryti ir kiti bankai. Rizikos, skyrimo ir atlygio komitetų nariais gali būti tik stebėtojų tarybos nariai. Priežiūros institucija nustato kriterijus, kuriais vadovaujantis bankai priskiriami svarbiems dėl savo dydžio, organizacinės struktūros ir veiklos pobūdžio, apimties ir sudėtingumo.
+1. Bankas privalo turėti nuolat veikiantį audito komitetą. Audito komitetą sudaro ir jo veiklą kontroliuoja banko stebėtojų taryba. Bankai, kurie yra svarbūs dėl savo dydžio, organizacinės struktūros ir veiklos pobūdžio, apimties ir sudėtingumo, turi sudaryti rizikos, skyrimo ir atlygio komitetus. Rizikos, skyrimo ir atlygio komitetus savo nuožiūra gali sudaryti ir kiti bankai. Rizikos, skyrimo ir atlygio komitetų nariais gali būti tik stebėtojų tarybos nariai. Priežiūros institucija nustato kriterijus, kuriais vadovaujantis bankai priskiriami svarbiems dėl savo dydžio, organizacinės struktūros ir veiklos pobūdžio, apimties ir sudėtingumo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-97, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29409
 
 2. Bankas turi teisę turėti ir kitų banko vidaus dokumentuose numatytų komitetų.
 
@@ -1255,11 +1259,13 @@ Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
 
 6) turi tinkamas vidaus kontrolės ir informacines sistemas.
 
-2. Banko visuotinis akcininkų susirinkimas renka audito įmonę metinių finansinių ataskaitų auditui atlikti. Auditorius, taip pat kitas asmuo, dalyvaujantis kartu su auditoriumi atliekant auditą, negali atlikti to paties banko audito ilgiau kaip 3 finansinius metus iš eilės.
+2. Banko visuotinis akcininkų susirinkimas renka audito įmonę metinių finansinių ataskaitų auditui atlikti.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
+
+Nr. XIII-97, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29409
 
 3. Bankas iki einamųjų finansinių metų pirmojo pusmečio pabaigos privalo su banko visuotinio akcininkų susirinkimo išrinkta audito įmone sudaryti sutartį dėl metinių finansinių ataskaitų audito ir pateikti ją priežiūros institucijai.
 
@@ -2435,13 +2441,19 @@ Nr. XII-2568, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20322
 
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 4, 9 ir 40 straipsnių pakeitimo įstatymas
 
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-97, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29409
+
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 36, 62 ir 63 straipsnių pakeitimo įstatymas
+
 1 straipsnis. Įstatymo paskirtis
 
 1. Šio Įstatymo tikslas – reglamentuoti bankų ir užsienio bankų, veikiančių Lietuvos Respublikoje, taip pat jų padalinių steigimo, licencijavimo, veiklos, pabaigos ir pertvarkymo bei priežiūros tvarką, kad bankų sistema būtų stabili, patikima, efektyvi ir saugi.
 
 2. Šiuo Įstatymu įgyvendinami Įstatymo priede nurodyti Europos Sąjungos teisės aktai.
-
-3. Šio Įstatymo nuostatos taikomos atsižvelgiant į 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63) (toliau – Reglamentas (ES) Nr. 1024/2013), ir jo įgyvendinamųjų teisės aktų nuostatas.
 
 Papildyta straipsnio dalimi:
 
@@ -2719,7 +2731,11 @@ Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
 
 63 straipsnis. Reikalavimai auditoriui ir audito įmonei, jų pareigos ir atsakomybė
 
-Reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Finansų įstaigų įstatymas.
+Reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Finansų įstaigų įstatymas, Lietuvos Respublikos finansinių ataskaitų audito įstatymas.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-97, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29409
 
 DEŠIMTASIS SKIRSNIS
 
