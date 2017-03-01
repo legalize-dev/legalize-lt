@@ -4,7 +4,7 @@ identifier: "TAR.8447F63760E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-09-18"
-last_updated: "2017-01-01"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8447F63760E9"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-02-28
+Suvestinė redakcija nuo 2017-03-01 iki 2018-05-02
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
 
@@ -1146,9 +1146,17 @@ Nr. XII-1883, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11083
 
 53 straipsnis. Auditas
 
-1. Draudimo ar perdraudimo įmonės metinių finansinių ataskaitų rinkinį turi audituoti audito įmonė, kurios auditoriai turi draudimo įmonių, perdraudimo įmonių arba finansų įstaigų audito patirties.
+1. Draudimo ar perdraudimo įmonės metinių finansinių ataskaitų rinkinį turi audituoti audito įmonė, kuri turi draudimo įmonių, perdraudimo įmonių arba finansų įstaigų audito patirties.
 
-2. Draudimo ar perdraudimo įmonė per 10 dienų nuo audito įmonės pasirinkimo privalo pranešti priežiūros institucijai apie pasirinktą audito įmonę ir jos paskirtus auditorius. Jeigu audito įmonės auditoriai neturi draudimo įmonių, perdraudimo įmonių arba finansų įstaigų audito patirties ar yra pagrindas abejoti audito įmonės nepriklausomumu nuo audituojamos draudimo įmonės ar perdraudimo įmonės, priežiūros institucijos reikalavimu draudimo ar perdraudimo įmonė privalo pakeisti audito įmonę ar paskirtus auditorius. Tas pats auditorius (auditorius, dalyvavęs atliekant draudimo ar perdraudimo įmonės auditą ar pasirašęs auditoriaus išvadą) negali atlikti tos pačios draudimo ar perdraudimo įmonės audito ilgiau kaip 5 metus iš eilės. Pasibaigus šiam laikotarpiui, auditorius 2 metus negali atlikti šios draudimo ar perdraudimo įmonės audito.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-98, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29410
+
+2. Draudimo ar perdraudimo įmonė per 10 dienų nuo audito įmonės pasirinkimo privalo pranešti priežiūros institucijai apie pasirinktą audito įmonę ir jos paskirtus auditorius. Jeigu audito įmonės auditoriai neturi draudimo įmonių, perdraudimo įmonių arba finansų įstaigų audito patirties ar yra pagrindas abejoti audito įmonės ar jos paskirto auditoriaus nepriklausomumu nuo audituojamos draudimo įmonės ar perdraudimo įmonės, priežiūros institucijos reikalavimu draudimo ar perdraudimo įmonė privalo pakeisti audito įmonę ar jos paskirtus auditorius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-98, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29410
 
 3. Audito įmonės pareigos atliekant draudimo ar perdraudimo įmonės finansinių ataskaitų rinkinio auditą:
 
@@ -3851,6 +3859,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2446, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17714
 
 Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 11, 204, 205, 209 ir 210 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-98, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29410
+
+Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 53 straipsnio pakeitimo įstatymas
 
 224 straipsnis. Piniginis vienetas
 
