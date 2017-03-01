@@ -4,7 +4,7 @@ identifier: "TAR.4A05AB3730DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-12-10"
-last_updated: "2015-01-01"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4A05AB3730DD"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS MOKĖJIMO ĮSTAIGŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2015-01-01 iki 2017-02-28
+Suvestinė redakcija nuo 2017-03-01 iki 2018-06-14
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 153-6887, i. k. 1091010ISTA00XI-549
 
@@ -146,7 +146,11 @@ MOKĖJIMO ĮSTAIGŲ LICENCIJAVIMAS
 
 10) vadovų, įskaitant asmenis, atsakingus už mokėjimo įstaigos mokėjimo paslaugų teikimo veiklos valdymą, jei mokėjimo įstaiga teikia mokėjimo paslaugas ir tuo pačiu metu vykdo kitą šio įstatymo 4 straipsnio 2 dalies 3 punkte nurodytą veiklą, tapatybės duomenys ir dokumentai, kuriais patvirtinama, kad jie yra nepriekaištingos reputacijos ir atitinka šio įstatymo 8 straipsnio 3 dalyje nustatytus kvalifikacijos ir patirties reikalavimus;
 
-11) auditą atliekančios (atliksiančios) audito įmonės, atitinkančios Finansų įstaigų įstatyme ir Lietuvos Respublikos audito įstatyme nustatytus reikalavimus, duomenys.
+11) auditą atliekančios (atliksiančios) audito įmonės, atitinkančios Finansų įstaigų įstatyme ir Lietuvos Respublikos finansinių ataskaitų audito įstatyme (toliau – Finansinių ataskaitų audito įstatymas) nustatytus reikalavimus, duomenys.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-103, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29415
 
 4. Pateikiant šio straipsnio 3 dalies 5, 6 ir 8 punktuose nurodytą informaciją, turi būti pateikiamas vidaus audito tvarkos ir organizacinės tvarkos aprašas, kuriame nustatyti veiksmai vartotojų interesams apsaugoti ir mokėjimo paslaugų teikimo tęstinumui ir patikimumui užtikrinti.
 
@@ -484,7 +488,11 @@ KITI MOKĖJIMO ĮSTAIGAI KELIAMI REIKALAVIMAI
 
 3. Mokėjimo įstaigos tarpinių ir metinių finansinių ataskaitų rinkinių sudėtį, kitų ataskaitų formas, ataskaitų sudarymo ir pateikimo tvarką nustato įstatymai ir priežiūros institucijos priimti teisės aktai.
 
-4. Mokėjimo įstaigos auditą, reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Finansų įstaigų įstatymas, Akcinių bendrovių įstatymas ir Audito įstatymas.
+4. Mokėjimo įstaigos auditą, reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Finansų įstaigų įstatymas, Akcinių bendrovių įstatymas ir Finansinių ataskaitų audito įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-103, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29415
 
 5. Mokėjimo įstaigos, kurioms yra privalomas finansinių ataskaitų auditas, kartu su audituotomis finansinėmis ataskaitomis priežiūros institucijai turi pateikti ir auditoriaus ataskaitą, kurioje turi būti atskleista informacija apie mokėjimo paslaugų ir kitos vykdomos veiklos atskyrimo teisingumą.
 
@@ -825,4 +833,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1311, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17043
 
 Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 6, 13 ir 31 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-103, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29415
+
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 5 ir 19 straipsnių pakeitimo įstatymas
 
