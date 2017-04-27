@@ -4,7 +4,7 @@ identifier: "TAR.068516AF734B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-12-21"
-last_updated: "2017-01-01"
+last_updated: "2017-04-27"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,17 +15,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-04-26
+Suvestinė redakcija nuo 2017-04-27 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
-
-TAR pastaba. Asmenims, įgijusiems teisę gauti socialinio draudimo išmokas iki šio įstatymo įsigaliojimo, išskyrus asmenis, kurie nuo 2016 m. kovo 15 d. iki šio įstatymo įsigaliojimo įgijo teisę gauti motinystės pašalpą (motinystės išmoką), socialinio draudimo išmokos neperskaičiuojamos ir mokamos pagal iki šio įstatymo įsigaliojimo nustatytą tvarką. Asmenims, nuo 2016 m. kovo 15 d. iki šio įstatymo įsigaliojimo įgijusiems teisę gauti motinystės pašalpą (motinystės išmoką), motinystės pašalpos (motinystės išmokos), apskaičiuotos pagal vidutinį mėnesinį kompensuojamąjį uždarbį, apribotą teisės į šią pašalpą (išmoką) atsiradimo mėnesį galiojusių Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų 3,2 dydžio suma, iki 2017 m. kovo 31 d. perskaičiuojamos taikant šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nuostatas ir iki 2017 m. birželio 30 d. išmokamas susidaręs motinystės pašalpos (motinystės išmokos) skirtumas. Šis skirtumas mokamas tuo pačiu būdu, kuriuo buvo mokama neperskaičiuota motinystės pašalpa (motinystės išmoka), jeigu asmuo, kuriam jis turi būti išmokėtas iki jo išmokėjimo nepateikia prašymo dėl kito išmokėjimo būdo.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
-
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 pakeitimo įstatymo Nr. XII-2501 1 ir 2 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2017-01-01:
 
@@ -103,7 +95,11 @@ LIGOS IŠMOKA
 
 2. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui), globėjui, slaugančiam sergantį iki 14 metų vaiką, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko slaugymo dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų.
 
-3. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui), prižiūrinčiam vaiką, kurio priežiūrai suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos kitam asmeniui, kuris dėl savo ar kito vaiko iki 3 metų, kurio priežiūrai jam suteiktos vaiko priežiūros atostogos, ligos ar traumos negali šio vaiko prižiūrėti, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko priežiūros dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. Bendras ligos išmokos mokėjimo terminas negali būti ilgesnis kaip 90 kalendorinių dienų per kalendorinius metus.
+3. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui) ar globėjui, prižiūrinčiam vaiką, kurio priežiūrai suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos kitam asmeniui (motinai (tėvui), įmotei (įtėviui) ar globėjui), kuris dėl savo ar kito vaiko (globojamo vaiko) iki 3 metų, kurio priežiūrai jam suteiktos vaiko priežiūros atostogos, ligos ar traumos negali šio vaiko prižiūrėti, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko priežiūros dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. Bendras ligos išmokos mokėjimo terminas negali būti ilgesnis kaip 90 kalendorinių dienų per kalendorinius metus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-299, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06976
 
 4. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui) ar globėjui, slaugančiam stacionare ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje sergantį iki 7 metų vaiką, taip pat motinai (tėvui), įmotei (įtėviui), globėjui ar rūpintojui, slaugančiam stacionare, ambulatoriškai ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje vaiką iki 18 metų, sergantį sunkiomis ligomis, kurių sąrašą tvirtina sveikatos apsaugos ministras ir socialinės apsaugos ir darbo ministras, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 120 dienų per kalendorinius metus.
 
@@ -237,7 +233,11 @@ Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 
 2. Kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokų dydis, yra apskaičiuojamas pagal apdraustojo asmens draudžiamąsias pajamas, turėtas per paeiliui einančius 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės, tėvystės ar vaiko priežiūros išmoką atsiradimo mėnesį.
 
-3. Jeigu visą šio straipsnio 2 dalyje nurodytą laikotarpį arba jo dalį apdraustajam asmeniui buvo mokama vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką arba jam buvo suteiktos prieš tai gimusio vaiko nėštumo ir gimdymo, tėvystės, vaiko priežiūros atostogos, globojamo vaiko nėštumo ir gimdymo, vaiko priežiūros atostogos arba įvaikinto vaiko tėvystės, vaiko priežiūros atostogos, jo prašymu nauja motinystės, tėvystės ar vaiko priežiūros išmoka gali būti apskaičiuota iš kompensuojamojo uždarbio, pagal kurį buvo apskaičiuota atitinkama ankstesnė (pirmesnė) motinystės, tėvystės ar vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką.
+3. Jeigu visą šio straipsnio 2 dalyje nurodytą laikotarpį arba jo dalį apdraustajam asmeniui buvo mokama vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką arba jam buvo suteiktos prieš tai gimusio vaiko nėštumo ir gimdymo, tėvystės, vaiko priežiūros atostogos, globojamo vaiko nėštumo ir gimdymo, vaiko priežiūros atostogos arba įvaikinto vaiko tėvystės, vaiko priežiūros atostogos, jo prašymu nauja motinystės, tėvystės ar vaiko priežiūros išmoka gali būti apskaičiuota iš kompensuojamojo uždarbio, pagal kurį buvo apskaičiuota atitinkama ankstesnė (pirmesnė) motinystės, tėvystės ar vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką. Kai ankstesnė (pirmesnė) motinystės, tėvystės ar vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką buvo apskaičiuota iš kompensuojamojo uždarbio, apriboto maksimaliu kompensuojamojo uždarbio dydžiu, nauja motinystės, tėvystės ar vaiko priežiūros išmoka apskaičiuojama pagal faktinį asmens kompensuojamąjį uždarbį, apskaičiuotą teisės į atitinkamą ankstesnę (pirmesnę) motinystės, tėvystės ar vaiko priežiūros išmoką dieną. Apskaičiuojant tėvystės ar vaiko priežiūros išmoką, taikomas šio straipsnio 5 dalyje nurodytas maksimalus kompensuojamojo uždarbio dydis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-299, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06976
 
 4. Jeigu vidutinis mėnesinis kompensuojamasis uždarbis ligos išmokai apskaičiuoti yra mažesnis negu 15 procentų šalies vidutinio mėnesinio darbo užmokesčio, galiojusio užpraeitą ketvirtį iki nedarbingumo atsiradimo mėnesio, ši išmoka skaičiuojama taikant pastarąjį dydį. Jeigu vidutinis mėnesinis kompensuojamasis uždarbis motinystės, tėvystės, vaiko priežiūros išmokai apskaičiuoti yra mažesnis negu 20 procentų šalies vidutinio mėnesinio darbo užmokesčio, galiojusio užpraeitą ketvirtį iki teisės gauti motinystės, tėvystės ar vaiko priežiūros išmoką atsiradimo dienos, šios išmokos skaičiuojamos taikant pastarąjį dydį. Jeigu profesinės reabilitacijos išmokos gavėjo vidutinis mėnesinis kompensuojamasis uždarbis yra mažesnis už profesinės reabilitacijos programos pradžios mėnesį galiojusių dviejų valstybinių socialinio draudimo bazinių pensijų sumą, profesinės reabilitacijos išmoka skaičiuojama pagal pastarąjį dydį.
 
@@ -956,4 +956,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 pakeitimo įstatymo Nr. XII-2501 1 ir 2 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-299, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06976
+
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 6 ir 10 straipsnių pakeitimo įstatymas
 
