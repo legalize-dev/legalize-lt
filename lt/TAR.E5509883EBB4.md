@@ -4,7 +4,7 @@ identifier: "TAR.E5509883EBB4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-05-17"
-last_updated: "2017-01-01"
+last_updated: "2017-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-04-30
+Suvestinė redakcija nuo 2017-05-01 iki 2017-07-12
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
 
@@ -142,7 +142,13 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 
 6) rengia lošimų organizavimą reglamentuojančių teisės aktų projektus;
 
-7) tvarko Lietuvos lošimo įrenginių registrą.
+7) tvarko Lietuvos lošimo įrenginių registrą;
+
+8) tvarko asmenų, pateikusių prašymus neleisti lošti, duomenis, taip pat ir ypatingus asmens duomenis (apie asmenų neveiksnumą arba ribotą veiksnumą šioje srityje).
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2588, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20336
 
 Straipsnio pakeitimai:
 
@@ -547,6 +553,18 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 Papildyta straipsnio dalimi:
 
 Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
+
+20. Kiekvienas asmuo turi teisę Priežiūros tarnybai arba lošimų organizatoriui pateikti prašymą neleisti jam lošti ir dalyvauti nuotoliniuose lošimuose (toliau – prašymas neleisti lošti). Prašyme neleisti lošti gali būti nurodomas asmens pasirinktas laikotarpis, per kurį jam neleidžiama lošti, kuris negali būti trumpesnis kaip 6 mėnesiai. Asmuo gali atsiimti pateiktą prašymą neleisti lošti arba sutrumpinti prašyme neleisti lošti nurodytą terminą, tačiau ne anksčiau kaip po 6 mėnesių nuo prašymo neleisti lošti pateikimo. Prašymų neleisti lošti pateikimo Priežiūros tarnybai arba lošimų organizatoriui tvarką nustato Priežiūros tarnyba.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2588, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20336
+
+21. Asmenis, pateikusius prašymus neleisti lošti, draudžiama įleisti į lošimų organizavimo vietas ir leisti jiems dalyvauti nuotoliniuose lošimuose jų prašyme neleisti lošti nurodytą laikotarpį, o jeigu prašyme neleisti lošti laikotarpis nenurodytas, – 2 metus nuo prašymo neleisti lošti pateikimo Priežiūros tarnybai arba lošimų organizatoriui dienos. Taip pat draudžiama į lošimų organizavimo vietas įleisti asmenis, kurie teismo tvarka pagal Lietuvos Respublikos civilinio kodekso antrosios knygos I dalies I skyriaus III skirsnį pripažinti neveiksniais arba ribotai veiksniais šioje srityje ir leisti tokiems asmenims dalyvauti nuotoliniuose lošimuose. Šių reikalavimų vykdymą privalo užtikrinti lošimų organizatorius.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2588, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20336
 
 Straipsnio pakeitimai:
 
@@ -1116,7 +1134,11 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 
 3) nustatyti vieno lošimo, kuriame lošėjas lošia nuo lošimo pradžios nenutraukiamai (be pertraukos), laiko limitą, kuriam suėjus lošėjui turi būti nutraukta galimybė dalyvauti nuotoliniame lošime;
 
-4) laikinai, lošėjo nurodytą laikotarpį, riboti galimybę lošėjui dalyvauti nuotoliniuose lošimuose.
+4) neteko galios nuo 2017-05-01.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2588, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20336
 
 2. Lošimų organizatorius privalo užtikrinti šio straipsnio 1 dalyje nurodytų apribojimų įgyvendinimą.
 
