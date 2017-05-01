@@ -4,7 +4,7 @@ identifier: "TAR.12977CB93B03"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-23"
-last_updated: "2017-01-01"
+last_updated: "2017-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-04-30
+Suvestinė redakcija nuo 2017-05-01 iki 2017-09-30
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
 
@@ -46,6 +46,12 @@ BENDROSIOS NUOSTATOS
 
 2. Palaikų parvežimo į Lietuvos Respubliką išlaidos – palaikų parengimo parvežti (laikymo, skrodimo, balzamavimo, kremavimo ar kita), palaikų parvežimo karste ar urnoje, palaikų parvežimo dokumentų sutvarkymo ir kitos būtinos palaikų parvežimo į Lietuvos Respubliką išlaidos.
 
+3. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-302, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06978
+
 3 straipsnis. Paramos mirties atveju rūšys
 
 Nustatomos šios paramos mirties atveju rūšys:
@@ -70,19 +76,29 @@ LAIDOJIMO PAŠALPA
 
 1. Laidojimo pašalpa mokama mirus:
 
-1) Lietuvos Respublikos piliečiui;
+1) Lietuvos Respublikos piliečiams;
 
-2) Lietuvos Respublikoje gyvenusiam užsieniečiui, turėjusiam Lietuvos Respublikos ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje;
+2) Lietuvos Respublikoje gyvenusiems užsieniečiams, turėjusiems Lietuvos Respublikos ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje;
 
-3) Lietuvos Respublikoje gyvenusiam užsieniečiui, kuriam leidimas laikinai gyventi buvo išduotas kaip ketinančiam dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą;
+3) Lietuvos Respublikoje gyvenusiems užsieniečiams, kuriems leidimas laikinai gyventi Lietuvos Respublikoje buvo išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą;
 
-4) Lietuvos Respublikoje gyvenusiam asmeniui, kuriam Lietuvos Respublikoje buvo suteiktas pabėgėlio statusas;
+4) Lietuvos Respublikoje gyvenusiems asmenims, kuriems Lietuvos Respublikoje buvo suteiktas pabėgėlio statusas;
 
-5) asmeniui, kuriam vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais turi būti taikomas šis įstatymas;
+5) asmenims, kuriems vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais turi būti taikomas šis įstatymas;
 
-6) Lietuvos Respublikoje gyvenusiam užsieniečiui, kuriam buvo išduotas leidimas laikinai gyventi ir leista dirbti Lietuvos Respublikoje ir kuris iki mirties dirbo Lietuvos Respublikoje arba anksčiau dirbo ne trumpesnį kaip 6 mėnesių laikotarpį ir buvo įsiregistravęs teritorinėje darbo biržoje kaip bedarbis;
+6) Lietuvos Respublikoje gyvenusiems užsieniečiams, kuriems buvo išduotas leidimas laikinai gyventi ir leista dirbti Lietuvos Respublikoje ir kurie iki mirties dirbo Lietuvos Respublikoje arba anksčiau dirbo ne trumpesnį kaip 6 mėnesių laikotarpį ir buvo įsiregistravę teritorinėje darbo biržoje kaip bedarbiai;
 
-7) Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams, kuriems buvo išduoti dokumentai, patvirtinantys ar suteikiantys teisę gyventi Lietuvos Respublikoje. Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio šeimos nariais laikomi sutuoktinis arba asmuo, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginiai palikuonys, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, įskaitant sutuoktinio arba asmens, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginius palikuonis, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio, sutuoktinio ar asmens, su kuriuo sudaryta registruotos partnerystės sutartis, išlaikomi giminaičiai pagal tiesiąją aukštutinę liniją.
+7) Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams, kuriems buvo išduoti dokumentai, patvirtinantys ar suteikiantys teisę gyventi Lietuvos Respublikoje. Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio šeimos nariais laikomi sutuoktinis arba asmuo, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginiai palikuonys, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, įskaitant sutuoktinio arba asmens, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginius palikuonis, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio, sutuoktinio ar asmens, su kuriuo sudaryta registruotos partnerystės sutartis, išlaikomi giminaičiai pagal tiesiąją aukštutinę liniją;
+
+8) Lietuvos Respublikoje gyvenusiems užsieniečiams, kuriems buvo išduotas leidimas dirbti sezoninį darbą Lietuvos Respublikoje;
+
+9) Lietuvos Respublikoje gyvenusiems užsieniečiams, kuriems buvo išduotas leidimas laikinai gyventi Lietuvos Respublikoje kaip perkeltiems įmonės viduje.
+
+TAR pastaba. 5 straipsnio 1 dalies 9 punktas įsigalioja 2017-06-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-302, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06978
 
 2. Laidojimo pašalpa taip pat mokama, kai Lietuvos Respublikoje gyvenančio asmens, turinčio šio straipsnio 1 dalyje nustatytą statusą, vaikas gimsta negyvas.
 
@@ -176,7 +192,9 @@ Lietuvos Respublikos
 
 paramos mirties atveju
 
-įstatymo priedas
+įstatymo
+
+priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
@@ -184,7 +202,17 @@ paramos mirties atveju
 
 2. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių (OL 2011 L 343, p. 1).
 
-3. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis (OL 2014 L 128, p. 8).
+3. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/36/ES dėl trečiųjų šalių piliečių atvykimo ir buvimo tikslu dirbti sezoniniais darbuotojais sąlygų (OL 2014 L 94, p. 375).
+
+4. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis (OL 2014 L 128, p. 8).
+
+5. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/66/ES dėl bendrovės viduje perkeliamų trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų (OL 2014 L 157, p. 1).
+
+TAR pastaba. 5 punktas įsigalioja 2017-06-01.
+
+Priedo pakeitimai:
+
+Nr. XIII-302, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06978
 
 Pakeitimai:
 
@@ -251,4 +279,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2612, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24186
 
 Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-302, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06978
+
+Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 2, 5 straipsnių ir priedo pakeitimo įstatymas
 
