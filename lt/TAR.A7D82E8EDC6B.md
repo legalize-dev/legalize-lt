@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2017-01-01"
+last_updated: "2017-05-07"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-05-06
+Suvestinė redakcija nuo 2017-05-07 iki 2017-12-13
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
 
@@ -877,7 +877,11 @@ programos finansavimo
 
 ĮGYVENDINAMI Europos Sąjungos TEISĖS AKTAI
 
-1. 1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis leidimas, 7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais 2002 m. vasario 18 d. Europos Parlamento ir Tarybos direktyva 2002/7/EB (OL 2004 m. specialusis leidimas, 7 skyrius, 6 tomas, p. 85).
+1. 1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis leidimas, 7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/719 (OL 2015 L 115, p. 1).
+
+Punkto pakeitimai:
+
+Nr. XII-2347, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13914
 
 2. 1999 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra infrastruktūra (OL 2004 m. specialusis leidimas, 7 skyrius, 4 tomas, p. 372) su paskutiniais pakeitimais, padarytais 2011 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2011/76/EB (OL 2011 L 269, p. 1).
 
