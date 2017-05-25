@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2017-05-06"
+last_updated: "2017-05-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2017-05-06 iki 2017-05-24
+Suvestinė redakcija nuo 2017-05-25 iki 2017-06-14
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -641,7 +641,11 @@ bAUDŽIAMOJO pROCESO PASKIRTIS IR pagrindinės tAISYKLĖS
 
 10 straipsnis. Įtariamojo, kaltinamojo ir nuteistojo teisės į gynybą užtikrinimas
 
-1. Įtariamasis, kaltinamasis ir nuteistasis turi teisę į gynybą. Ši teisė jiems užtikrinama nuo sulaikymo arba pirmosios apklausos.
+1. Įtariamasis, kaltinamasis ir nuteistasis turi teisę į gynybą. Ši teisė jiems užtikrinama nedelsiant nuo sulaikymo arba pirmosios apklausos momento.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 2. Teismas, prokuroras, ikiteisminio tyrimo pareigūnas privalo užtikrinti galimybę įtariamajam, kaltinamajam ir nuteistajam įstatymų nustatytomis priemonėmis ir būdais gintis nuo įtarimų bei kaltinimų ir imtis reikiamų priemonių užtikrinti jų asmeninių ir turtinių teisių apsaugą.
 
@@ -703,7 +707,11 @@ Nr. XII-775, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03406
 
 7. Kiekvienas nusikalstamos veikos padarymu įtariamas ar kaltinamas asmuo turi teisę, kad jam suprantama kalba būtų skubiai ir nuodugniai pranešta apie jam pareikšto kaltinimo pobūdį bei pagrindą, turėti pakankamai laiko bei galimybių pasirengti gynybai, pats apklausti liudytojus arba prašyti, kad liudytojai būtų apklausti, nemokamai naudotis vertėjo paslaugomis, jeigu nesupranta ar nekalba lietuviškai.
 
-8. Kiekvienas nusikalstamos veikos padarymu įtariamas ar kaltinamas asmuo gali gintis pats arba per pasirinktą gynėją, o neturėdamas pakankamai lėšų gynėjui atsilyginti turi nemokamai gauti teisinę pagalbą įstatymo, reglamentuojančio valstybės garantuojamos teisinės pagalbos teikimą, nustatyta tvarka.
+8. Kiekvienas nusikalstamos veikos padarymu įtariamas ar kaltinamas asmuo gali gintis pats arba per pasirinktą gynėją, o neturėdamas pakankamai lėšų gynėjui atsilyginti turi nemokamai gauti teisinę pagalbą įstatymo, reglamentuojančio valstybės garantuojamos teisinės pagalbos teikimą, nustatyta tvarka. Draudžiama kontroliuoti įtariamojo, kaltinamojo, nuteistojo, išteisintojo ir jų gynėjo bendravimą – susitikimus, korespondenciją, pokalbius telefonu ar kitų formų bendravimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 9. Kiekvienas asmuo turi teisę, kad būtų gerbiamas jo ir jo šeimos privatus gyvenimas, taip pat teisę į būsto neliečiamybę, susirašinėjimo, telefoninių pokalbių, telegrafo pranešimų ir kitokio susižinojimo slaptumą. Šios asmens teisės baudžiamojo proceso metu gali būti apribotos šio Kodekso numatytais atvejais ir tvarka.
 
@@ -901,7 +909,17 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 
 3. Asmenų, kuriuos prašoma išduoti iš Lietuvos Respublikos arba perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, suėmimo trukmę nustato Lietuvos Respublikos tarptautinės sutartys bei šis Kodeksas.
 
-4. Asmenims, kuriuos prašoma išduoti iš Lietuvos Respublikos arba perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, gali būti taikomos ir kitos šiame Kodekse numatytos kardomosios priemonės, jeigu jų pakanka užtikrinti, kad asmuo nepabėgtų (nepasislėptų) nuo Lietuvos Respublikos teisėsaugos institucijų.
+4. Apie asmenų, kuriuos prašoma išduoti iš Lietuvos Respublikos arba perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, suėmimą nedelsiant pranešama šio Kodekso 128 straipsnio 1 ir 3 dalyse nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+
+5. Asmenims, kuriuos prašoma išduoti iš Lietuvos Respublikos arba perduoti Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį, gali būti taikomos ir kitos šiame Kodekse numatytos kardomosios priemonės, jeigu jų pakanka užtikrinti, kad asmuo nepabėgtų (nepasislėptų) nuo Lietuvos Respublikos teisėsaugos institucijų.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 Straipsnio pakeitimai:
 
@@ -2921,7 +2939,13 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
 
-17. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/42/ES dėl nusikaltimų priemonių ir pajamų iš nusikaltimų įšaldymo ir konfiskavimo Europos Sąjungoje (OL 2014 L 127, p. 39)
+17. 2013 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2013/48/ES dėl teisės turėti advokatą vykstant baudžiamajam procesui ir Europos arešto orderio vykdymo procedūroms ir dėl teisės reikalauti, kad po laisvės atėmimo būtų informuota trečioji šalis, ir teisės susisiekti su trečiaisiais asmenimis ir konsulinėmis įstaigomis laisvės atėmimo metu (OL 2013 L 294, p. 1).
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+
+18. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/42/ES dėl nusikaltimų priemonių ir pajamų iš nusikaltimų įšaldymo ir konfiskavimo Europos Sąjungoje (OL 2014 L 127, p. 39)
 
 Papildyta punktu:
 
@@ -2931,7 +2955,11 @@ Punkto pakeitimai:
 
 Nr. XII-2781, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26877
 
-18. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/62/ES dėl euro ir kitų valiutų apsaugos nuo padirbinėjimo baudžiamosios teisės priemonėmis, kuria pakeičiamas Tarybos pamatinis sprendimas 2000/383/TVR (OL 2014 L 151, p. 1).
+Punkto numeracijos pakeitimas:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+
+19. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/62/ES dėl euro ir kitų valiutų apsaugos nuo padirbinėjimo baudžiamosios teisės priemonėmis, kuria pakeičiamas Tarybos pamatinis sprendimas 2000/383/TVR (OL 2014 L 151, p. 1).
 
 Papildyta punktu:
 
@@ -2940,6 +2968,10 @@ Nr. XII-2555, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20292
 Punkto pakeitimai:
 
 Nr. XII-2781, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26877
+
+Punkto numeracijos pakeitimas:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 Kodeksas papildytas priedu:
 
@@ -3141,7 +3173,11 @@ Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
 
 6. Laikinai sulaikytas asmuo po jo pristatymo į ikiteisminio tyrimo įstaigą ar prokuratūrą ne vėliau kaip per dvidešimt keturias valandas turi būti apklaustas kaip įtariamasis, prieš tai atlikus šio Kodekso 187 straipsnyje numatytus veiksmus.
 
-7. Apie sulaikymą nedelsiant pranešama šio Kodekso 128 straipsnio 1 ir 2 dalyse nustatyta tvarka.
+7. Apie sulaikymą nedelsiant pranešama šio Kodekso 128 straipsnio 1 ir 3 dalyse nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 8. Sulaikytas asmuo turi būti nedelsiant paleistas, jeigu:
 
@@ -3323,15 +3359,41 @@ Nr. XII-1017, 2014-07-10, paskelbta TAR 2014-07-18, i. k. 2014-10348
 
 2. Parodomų atpažinti asmenų turi būti ne mažiau kaip trys. Ši taisyklė netaikoma lavono atpažinimo atvejais.
 
-3. Parodymo atpažinti pradžioje atpažintinam asmeniui pasiūloma užimti bet kokią vietą tarp parodomų asmenų. Tai pažymima protokole.
+3. Atliekant asmens parodymą atpažinti, kuriame dalyvauja įtariamasis, įtariamojo prašymu turi dalyvauti jo gynėjas.
 
-4. Parodomų asmenų grupė nufotografuojama arba kitaip vizualiai užfiksuojama.
+Papildyta straipsnio dalimi:
 
-5. Jeigu parodyti asmens negalima, atpažinimas gali būti daromas pagal jo nuotrauką. Ji parodoma kartu su ne mažiau kaip trimis kitų asmenų nuotraukomis. Pagal nuotraukas asmuo gali būti parodomas atpažinti ir tais atvejais, kai to reikia liudytojo ar nukentėjusiojo asmens saugumui užtikrinti.
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
-6. Asmuo gali būti parodomas atpažinti ir iš vaizdo įrašo, padaryto laikantis šio straipsnio 1 ir 2 dalyse nustatytų taisyklių.
+4. Parodymo atpažinti pradžioje atpažintinam asmeniui pasiūloma užimti bet kokią vietą tarp parodomų asmenų. Tai pažymima protokole.
 
-7. Asmenį šiame straipsnyje nustatyta tvarka taip pat gali būti pasiūloma atpažinti ir pagal kitus jutimo organais suvokiamus požymius.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+
+5. Parodomų asmenų grupė nufotografuojama arba kitaip vizualiai užfiksuojama.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+
+6. Jeigu parodyti asmens negalima, atpažinimas gali būti daromas pagal jo nuotrauką. Ji parodoma kartu su ne mažiau kaip trimis kitų asmenų nuotraukomis. Pagal nuotraukas asmuo gali būti parodomas atpažinti ir tais atvejais, kai to reikia liudytojo ar nukentėjusiojo asmens saugumui užtikrinti.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+
+7. Asmuo gali būti parodomas atpažinti ir iš vaizdo įrašo, padaryto laikantis šio straipsnio 1 ir 2 dalyse nustatytų taisyklių.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+
+8. Asmenį šiame straipsnyje nustatyta tvarka taip pat gali būti pasiūloma atpažinti ir pagal kitus jutimo organais suvokiamus požymius.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 218 straipsnis. Ikiteisminio tyrimo pabaiga
 
@@ -4353,7 +4415,11 @@ Nr. XII-775, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03406
 
 1. Siekdama iš Europos Sąjungos valstybės narės perimti Lietuvos Respublikos pilietį arba kitą asmenį, kurio baudžiamasis persekiojimas yra pradėtas Lietuvos Respublikoje, Lietuvos Respublikos generalinė prokuratūra, gavusi teismo nutartį suimti asmenį, išduoda Europos arešto orderį ir tiesiogiai arba per Lietuvos Respublikos generalinės prokuratūros prokurorą – Lietuvos nacionalinį narį Eurojuste (Lietuvos nacionalinio nario Eurojuste pavaduotoją) kreipiasi į kompetentingą Europos Sąjungos valstybės narės instituciją, kad ši perduotų Europos arešto orderyje nurodytą asmenį.
 
-2. Dėl Lietuvos Respublikos piliečio ar kito asmens, kuris Lietuvos Respublikoje įsiteisėjusiu apkaltinamuoju nuosprendžiu nuteistas laisvės atėmimo bausme, tačiau nuo bausmės atlikimo pasislėpė Europos Sąjungos valstybėje narėje, Europos arešto orderį išduoda ir į kompetentingą šios valstybės instituciją tiesiogiai kreipiasi apygardos teismas pagal nuosprendį ar nutartį panaikinti bausmės vykdymo atidėjimą, nutartį panaikinti lygtinį atleidimą nuo laisvės atėmimo bausmės prieš terminą ar neatliktos laisvės atėmimo bausmės dalies pakeitimą švelnesne bausme arba nutartį dėl lygtinai iš pataisos įstaigos paleisto asmens pasiuntimo į pataisos įstaigą atlikti likusios laisvės atėmimo bausmės priėmusio teismo veiklos teritoriją. Prireikus apygardos teismas Europos arešto orderį kompetentingai Europos Sąjungos valstybės narės institucijai gali perduoti per Lietuvos Respublikos teisingumo ministeriją arba per Lietuvos Respublikos generalinės prokuratūros prokurorą – Lietuvos nacionalinį narį Eurojuste (Lietuvos nacionalinio nario Eurojuste pavaduotoją).
+2. Dėl Lietuvos Respublikos piliečio ar kito asmens, kuris Lietuvos Respublikoje įsiteisėjusiu apkaltinamuoju nuosprendžiu nuteistas laisvės atėmimo bausme, tačiau nuo bausmės atlikimo pasislėpė Europos Sąjungos valstybėje narėje, Europos arešto orderį išduoda ir į kompetentingą šios valstybės instituciją tiesiogiai kreipiasi apygardos teismas pagal nuosprendį ar nutartį panaikinti bausmės vykdymo atidėjimą arba nutartį dėl lygtinai iš pataisos įstaigos paleisto asmens pasiuntimo į pataisos įstaigą atlikti likusios laisvės atėmimo bausmės priėmusio teismo veiklos teritoriją. Prireikus apygardos teismas Europos arešto orderį kompetentingai Europos Sąjungos valstybės narės institucijai gali perduoti per Lietuvos Respublikos teisingumo ministeriją arba per Lietuvos Respublikos generalinės prokuratūros prokurorą – Lietuvos nacionalinį narį Eurojuste (Lietuvos nacionalinio nario Eurojuste pavaduotoją).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 3. Lietuvos Respublikos generalinė prokuratūra ar apygardos teismas, spręsdami dėl Europos arešto orderio išdavimo, įvertina, ar asmens perdavimas pagal Europos arešto orderį atitiktų proporcingumo ir proceso ekonomiškumo principus atsižvelgiant į padaryto nusikaltimo pavojingumo pobūdį ir mastą, įtariamojo, kaltinamojo ar nuteistojo asmenybę.
 
@@ -4609,23 +4675,31 @@ Asmens teisių užtikrinimo pagrindai
 
 1. Gynėjas turi teisę:
 
-1) susipažinti su įtariamojo sulaikymo protokolu;
+1) susipažinti su įtariamojo sulaikymo protokolu ir Europos arešto orderiu;
 
-2) dalyvauti įtariamojo apklausose;
+2) dalyvauti įtariamojo ar kaltinamojo apklausose, taip pat be pašalinių susitikti su įtariamuoju ar kaltinamuoju prieš apklausą arba prieš teismo posėdį;
 
-3) matytis su sulaikytu arba suimtu įtariamuoju be pašaliečių. Šių pasimatymų skaičius ir trukmė neribojami;
+3) nekliudomai bendrauti ir be pašalinių susitikti su įtariamuoju ar kaltinamuoju. Susitikimų su sulaikytu ar suimtu įtariamuoju ar kaltinamuoju skaičius ir trukmė neribojami;
 
-4) dalyvauti veiksmuose, kurie atliekami su įtariamuoju, taip pat įtariamojo arba jo gynėjo prašymu atliekamuose veiksmuose;
+4) dalyvauti veiksmuose, kurie atliekami su įtariamuoju ar kaltinamuoju, taip pat įtariamojo ar kaltinamojo arba jų gynėjo prašymu atliekamuose veiksmuose;
 
 5) ikiteisminio tyrimo pareigūno, prokuroro ar teisėjo leidimu dalyvauti bet kokiuose kituose įrodymų rinkimo veiksmuose;
 
-6) savarankiškai rinkti gynybai reikalingus duomenis, kuriuos gynėjas gali gauti nesinaudodamas procesinėmis prievartos priemonėmis: gauti iš įmonių, įstaigų ir organizacijų bei asmenų gynybai reikalingus dokumentus ir daiktus, kalbėtis su asmenimis apie jiems žinomas įvykio aplinkybes, apžiūrėti ir fotografuoti įvykio vietą, transporto priemones ar kitaip fiksuoti gynybai reikalingą informaciją;
+6) dalyvaudamas atliekant šios dalies 2, 4, 5 punktuose nurodytus veiksmus užduoti klausimus, prašyti paaiškinimų ir daryti pareiškimus;
 
-7) ikiteisminio tyrimo metu susipažinti su proceso veiksmų dokumentais šio Kodekso nustatytais atvejais ir tvarka;
+7) savarankiškai rinkti gynybai reikalingus duomenis, kuriuos gynėjas gali gauti nesinaudodamas procesinėmis prievartos priemonėmis: gauti iš įmonių, įstaigų ir organizacijų bei asmenų gynybai reikalingus dokumentus ir daiktus, kalbėtis su asmenimis apie jiems žinomas įvykio aplinkybes, apžiūrėti ir fotografuoti įvykio vietą, transporto priemones ar kitaip fiksuoti gynybai reikalingą informaciją;
 
-8) pateikti prašymus ir pareikšti nušalinimus;
+8) ikiteisminio tyrimo metu susipažinti su proceso veiksmų dokumentais šio Kodekso nustatytais atvejais ir tvarka;
 
-9) šio Kodekso nustatyta tvarka apskųsti ikiteisminio tyrimo pareigūno, prokuroro, ikiteisminio tyrimo teisėjo ir teismo veiksmus bei sprendimus ir dalyvauti teismo posėdžiuose nagrinėjant šiuos skundus.
+9) pateikti prašymus ir pareikšti nušalinimus;
+
+10) šio Kodekso nustatyta tvarka apskųsti ikiteisminio tyrimo pareigūno, prokuroro, ikiteisminio tyrimo teisėjo ir teismo veiksmus bei sprendimus ir dalyvauti teismo posėdžiuose nagrinėjant šiuos skundus;
+
+11) susižinoti su Europos arešto orderį išdavusioje ar vykdančioje valstybėje paskirtu gynėju ir gauti bei teikti gynybai reikalingus dokumentus ir daiktus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 2. Gynėjas privalo:
 
@@ -4649,7 +4723,11 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 50 straipsnis. Gynėjo kvietimas ir paskyrimas
 
-1. Ikiteisminio tyrimo pareigūnas, prokuroras ir teismas privalo išaiškinti įtariamajam ir kaltinamajam jo teisę turėti gynėją nuo sulaikymo ar pirmosios apklausos momento ir suteikti galimybę šia teise pasinaudoti. Dėl įtariamojo ar kaltinamojo prašymo turėti gynėją arba dėl gynėjo atsisakymo surašomas protokolas.
+1. Ikiteisminio tyrimo pareigūnas, prokuroras ir teismas privalo išaiškinti įtariamajam ir kaltinamajam jo teisę turėti gynėją nuo sulaikymo ar pirmosios apklausos momento ir suteikti galimybę šia teise pasinaudoti. Sulaikytam įtariamajam užtikrinama galimybė iki pirmosios apklausos be pašalinių susitikti su gynėju. Dėl įtariamojo ar kaltinamojo prašymo turėti gynėją arba dėl gynėjo atsisakymo surašomas protokolas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 2. Įtariamasis, kaltinamasis ir nuteistasis turi teisę pasirinkti ir pasikviesti sau tinkamą gynėją. Įtariamojo, kaltinamojo ar nuteistojo pavedimu gynėją gali pakviesti jų atstovai pagal įstatymą arba kiti asmenys, kuriems įtariamasis, kaltinamasis ar nuteistasis tai paveda.
 
@@ -4709,7 +4787,11 @@ Nr. XII-275, 2013-05-09, Žin., 2013, Nr. 54-2680 (2013-05-25)
 
 52 straipsnis. Atsisakymas gynėjo
 
-1. Įtariamasis ar kaltinamasis bet kuriuo proceso metu turi teisę atsisakyti gynėjo, išskyrus šio Kodekso 433 straipsnyje numatytą atvejį. Atsisakyti gynėjo leidžiama tik paties įtariamojo ar kaltinamojo iniciatyva. Dėl gynėjo atsisakymo surašomas protokolas.
+1. Įtariamasis ar kaltinamasis bet kuriuo proceso metu turi teisę atsisakyti gynėjo, išskyrus šio Kodekso 433 straipsnyje numatytą atvejį. Atsisakyti gynėjo leidžiama tik paties įtariamojo ar kaltinamojo iniciatyva. Prieš gynėjo atsisakymą įtariamajam ar kaltinamajam nedelsiant jam suprantama kalba turi būti išaiškintos gynėjo atsisakymo pasekmės, įskaitant galimybę bet kuriuo proceso metu vėl turėti gynėją. Dėl gynėjo atsisakymo surašomas protokolas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 2. Ikiteisminio tyrimo pareigūnui, prokurorui ir teismui neprivalomas nepilnamečio arba asmens, kuris dėl fizinių ar psichinių trūkumų negali pats pasinaudoti teise į gynybą, taip pat proceso kalbos nemokančio asmens ar asmens, įtariamo ar kaltinamo sunkaus ar labai sunkaus nusikaltimo padarymu, kai dėl bylos sudėtingumo ar didelės apimties arba kitais atvejais kyla abejonių dėl šio asmens galimybės pasinaudoti teise į gynybą, pareikštas atsisakymas gynėjo.
 
@@ -4900,6 +4982,12 @@ Nr. XIII-324, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07683
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-324, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07683
+
+10. Lietuvos Respublikos pilietis ar užsienietis, kurį prašoma perduoti iš Lietuvos Respublikos pagal Europos arešto orderį, turi teisę prašyti, kad iki jo perdavimo iš Lietuvos Respublikos Europos arešto orderį išdavusioje valstybėje jam būtų paskirtas gynėjas. Apie šią asmens, dėl kurio išduotas Europos arešto orderis, teisę jam suprantama kalba turi būti pranešta nedelsiant po suėmimo paskyrimo. Gavusi tokį prašymą, Lietuvos Respublikos generalinė prokuratūra nedelsdama apie tai informuoja kompetentingą Europos arešto orderį išdavusios valstybės instituciją, o gavusi atsakymą, nedelsdama su juo supažindina šį prašymą pateikusį asmenį ir jo gynėją. Asmens prašymas Europos arešto orderį išdavusioje valstybėje paskirti gynėją nesustabdo klausimo dėl asmens perdavimo iš Lietuvos Respublikos pagal Europos arešto orderį nagrinėjimo ir asmens, dėl kurio yra įsiteisėjusi nutartis išduoti iš Lietuvos Respublikos pagal Europos arešto orderį, perdavimo vykdymo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 Kodeksas papildytas straipsniu:
 
@@ -5487,15 +5575,21 @@ Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 
 128 straipsnis. Pranešimas apie įtariamojo suėmimą
 
-1. Paskiriant suėmimą dalyvavęs prokuroras nedelsdamas privalo apie įtariamojo suėmimą pranešti vienam iš suimtojo nurodytų šeimos narių, artimųjų giminaičių, o kai jų nėra, – kitam asmeniui. Jeigu suimtasis jokio asmens nenurodo, prokuroras savo nuožiūra turi pranešti vienam iš įtariamojo šeimos narių ar artimųjų giminaičių, jei šį pavyksta nustatyti. Prokuroras laikinai gali atsisakyti pranešti, jei toks pranešimas pakenktų ikiteisminio tyrimo sėkmei arba jei suimtasis motyvuotai paaiškina, kad toks pranešimas gali pakenkti jo šeimos narių, artimųjų giminaičių ar kitų asmenų saugumui. Be to, įtariamajam turi būti sudaryta galimybė pačiam pranešti šeimos nariams, artimiesiems giminaičiams, o kai jų nėra, – kitiems asmenims apie suėmimo paskyrimą.
+1. Paskiriant suėmimą dalyvavęs prokuroras nedelsdamas privalo apie įtariamojo suėmimą pranešti vienam iš suimtojo nurodytų šeimos narių, artimųjų giminaičių arba kitam suimtojo nurodytam asmeniui. Jeigu suimtasis jokio asmens nenurodo, prokuroras savo nuožiūra turi pranešti vienam iš įtariamojo šeimos narių ar artimųjų giminaičių, jei šį pavyksta nustatyti. Jeigu suimtasis yra nepilnametis, prokuroras nedelsdamas privalo apie nepilnamečio įtariamojo suėmimą pranešti nepilnamečio tėvams arba kitiems atstovams pagal įstatymą, o kai toks pranešimas prieštarautų suimto nepilnamečio interesams, – kitam tinkamam pilnamečiui asmeniui. Be to, suimtam įtariamajam turi būti nedelsiant sudaryta galimybė pačiam susisiekti su vienu iš jo nurodytų šeimos narių, artimųjų giminaičių arba kitu suimtojo nurodytu asmeniu. Prokuroras motyvuotu nutarimu laikinai gali atsisakyti pranešti apie paskirtą suėmimą arba neleisti susisiekti su suimtojo nurodytu asmeniu, jeigu tai pakenktų ikiteisminio tyrimo sėkmei arba sukeltų pavojų suimtojo šeimos narių, artimųjų giminaičių ar kitų asmenų saugumui. Šiuo atveju, taip pat tais atvejais, kai suimtas nepilnametis neturi tėvų ar kitų atstovų pagal įstatymą ar jų nepavyksta nustatyti arba kai pranešimas šiems asmenims prieštarautų suimto nepilnamečio interesams, apie nepilnamečio įtariamojo suėmimą būtina nedelsiant pranešti valstybinei vaiko teisių apsaugos institucijai. Prokuroro nutarimas per penkias dienas nuo nutarimo nuorašo įteikimo įtariamajam ar jo gynėjui dienos gali būti apskųstas ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjas privalo šį skundą išnagrinėti per septynias dienas nuo jo gavimo ir priimti nutartį. Ikiteisminio tyrimo teisėjo priimta nutartis neskundžiama.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
 
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+
 2. Prokuroras nutarties skirti suėmimą arba pratęsti suėmimo terminus nuorašus išsiunčia į suėmimo vietą.
 
-3. Apie tai, kad suėmimas paskirtas kitos valstybės piliečiui, prokuroras nedelsdamas praneša Lietuvos Respublikos užsienio reikalų ministerijai ir, jeigu suimtasis pageidauja, – jo valstybės diplomatinei atstovybei ar konsulinei įstaigai.
+3. Apie tai, kad suėmimas paskirtas kitos valstybės piliečiui, prokuroras nedelsdamas praneša Lietuvos Respublikos užsienio reikalų ministerijai ir, jeigu suimtasis pageidauja, – jo valstybės diplomatinei atstovybei ar konsulinei įstaigai. Įtariamasis, kuris turi dviejų ar daugiau valstybių pilietybę, gali, jeigu įmanoma, pasirinkti, kurios valstybės diplomatinei atstovybei ar konsulinei įstaigai turi būti pranešta apie jo suėmimą. Be to, suimto įtariamojo pageidavimu jam turi būti nedelsiant sudaryta galimybė pačiam susisiekti su savo valstybės diplomatinės atstovybės ar konsulinės įstaigos atstovais. Suimtajam turi būti nedelsiant jam suprantama kalba išaiškinta teisė susisiekti su šiomis įstaigomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 4. Apie įtariamojo suėmimą prokuroras arba ikiteisminio tyrimo pareigūnas privalo pranešti nukentėjusiajam ir išsiaiškinti, ar nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą įtariamojo paleidimą į laisvę ar įtariamojo pabėgimą iš laisvės atėmimo vietos. Nukentėjusiajam taip pat pranešama apie teisės aktuose nustatytas apsaugos priemones, kurios gali būti jam taikomos, ir jų skyrimo tvarką. Pranešti apie įtariamojo suėmimą nebūtina, jeigu nukentėjusiojo gyvenamoji vieta nežinoma, taip pat jeigu šis pranešimas galėtų padaryti žalos įtariamajam. Jeigu nukentėjusiųjų yra daug, apie įtariamojo suėmimą pakanka pranešti jų interesams atstovaujančiam asmeniui (asmenims). Dėl pranešimo nukentėjusiajam surašomas protokolas. Jeigu nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą įtariamojo paleidimą į laisvę ar įtariamojo pabėgimą iš laisvės atėmimo vietos, prokuroras arba ikiteisminio tyrimo pareigūnas surašo pažymą. Šią pažymą prokuroras arba ikiteisminio tyrimo pareigūnas išsiunčia į įtariamojo suėmimo vietą. Įtariamajam ir jo gynėjui neleidžiama susipažinti su šios pažymos turiniu.
 
@@ -5853,15 +5947,29 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 3. Nutarimo atsisakyti pradėti ikiteisminį tyrimą nuorašas siunčiamas skundą, pareiškimą ar pranešimą padavusiam asmeniui. Ikiteisminio tyrimo pareigūnas nutarimo nuorašą per dvidešimt keturias valandas privalo išsiųsti prokurorui.
 
-4. Ikiteisminio tyrimo pareigūno nutarimas atsisakyti pradėti ikiteisminį tyrimą gali būti skundžiamas prokurorui, o prokuroro nutarimas – ikiteisminio tyrimo teisėjui. Jeigu prokuroras nepanaikina nutarimo atsisakyti pradėti ikiteisminį tyrimą, jo sprendimas gali būti skundžiamas ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjo priimtas sprendimas skundžiamas šio Kodekso X dalyje nustatyta tvarka. Skundai gali būti paduodami per septynias dienas nuo nutarimo ar nutarties nuorašo gavimo dienos. Turintys teisę paduoti skundą asmenys, kurie dėl svarbių priežasčių praleido apskundimo terminą, turi teisę prašyti turinčio įgaliojimus nagrinėti skundą prokuroro arba ikiteisminio tyrimo teisėjo atnaujinti praleistą terminą. Prašymas atnaujinti minėtą terminą negali būti paduodamas praėjus daugiau kaip šešiems mėnesiams po skundžiamo sprendimo priėmimo.
+4. Šio straipsnio 1 dalyje nurodytais atvejais atsisakius pradėti ikiteisminį tyrimą, skundą, pareiškimą ar pranešimą padavęs asmuo turi teisę susipažinti su visa medžiaga, kurios pagrindu buvo priimtas ikiteisminio tyrimo pareigūno ar prokuroro nutarimas atsisakyti pradėti ikiteisminį tyrimą, ar jos dalimi, taip pat susipažinimo metu daryti šios medžiagos kopijas ar išrašus. Rašytinis prašymas susipažinti su šioje dalyje nurodyta medžiaga ir (ar) susipažinimo metu daryti šios medžiagos kopijas ar išrašus pateikiamas ikiteisminio tyrimo įstaigos (jos padalinio) vadovui, o tais atvejais, kai skundą, pareiškimą ar pranešimą nagrinėjo ir procesinį sprendimą priėmė prokuroras, – prokurorui. Ikiteisminio tyrimo įstaigos (jos padalinio) vadovas ar prokuroras privalo išnagrinėti šį prašymą ne vėliau kaip per tris dienas nuo jo gavimo dienos. Ikiteisminio tyrimo įstaigos (jos padalinio) vadovas ar prokuroras nurodo, su kokios apimties medžiaga skundą, pareiškimą ar pranešimą padavusiam asmeniui leidžiama susipažinti. Susipažinimo su šioje dalyje nurodyta medžiaga metu taip pat taikomi šio Kodekso 181 straipsnio 6 dalyje nurodyti draudimai.
 
-5. Atsisakius pradėti ikiteisminį tyrimą šio straipsnio 1 dalyje nustatytais atvejais ir esant duomenų apie administracinį nusižengimą ar kituose teisės aktuose numatytą nusižengimą, prokuroras, ikiteisminio tyrimo pareigūnas nutarimu atsisakyti pradėti ikiteisminį tyrimą perduoda šį skundą, pareiškimą ar pranešimą ir patikslinimą išspręsti Lietuvos Respublikos administracinių nusižengimų kodekse ar kituose teisės aktuose nustatyta tvarka.
+Papildyta straipsnio dalimi:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+
+5. Ikiteisminio tyrimo pareigūno nutarimas atsisakyti pradėti ikiteisminį tyrimą gali būti skundžiamas prokurorui, o prokuroro nutarimas – ikiteisminio tyrimo teisėjui. Jeigu prokuroras nepanaikina nutarimo atsisakyti pradėti ikiteisminį tyrimą, jo sprendimas gali būti skundžiamas ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjo priimtas sprendimas skundžiamas šio Kodekso X dalyje nustatyta tvarka. Skundai gali būti paduodami per septynias dienas nuo nutarimo ar nutarties nuorašo gavimo dienos. Turintys teisę paduoti skundą asmenys, kurie dėl svarbių priežasčių praleido apskundimo terminą, turi teisę prašyti turinčio įgaliojimus nagrinėti skundą prokuroro arba ikiteisminio tyrimo teisėjo atnaujinti praleistą terminą. Prašymas atnaujinti minėtą terminą negali būti paduodamas praėjus daugiau kaip šešiems mėnesiams po skundžiamo sprendimo priėmimo.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+
+6. Atsisakius pradėti ikiteisminį tyrimą šio straipsnio 1 dalyje nustatytais atvejais ir esant duomenų apie administracinį nusižengimą ar kituose teisės aktuose numatytą nusižengimą, prokuroras, ikiteisminio tyrimo pareigūnas nutarimu atsisakyti pradėti ikiteisminį tyrimą perduoda šį skundą, pareiškimą ar pranešimą ir patikslinimą išspręsti Lietuvos Respublikos administracinių nusižengimų kodekse ar kituose teisės aktuose nustatyta tvarka.
 
 TAR pastaba. 168 straipsnio 5 dalies nuostatos taikomos ir tais atvejais, kai yra duomenų apie administracinį teisės pažeidimą, numatytą Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2710, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26495
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 Straipsnio pakeitimai:
 
@@ -6077,7 +6185,11 @@ Nr. XII-1848, 2015-06-23, paskelbta TAR 2015-07-09, i. k. 2015-11213
 
 1. Į akistatą gali būti suvedami du pirmiau apklausti asmenys, kurių parodymai iš esmės prieštarauja vieni kitiems, siekiant sužinoti prieštaravimų priežastis ir juos pašalinti.
 
-2. Apklausiant į akistatą suvestus asmenis, turi būti laikomasi šiame Kodekse numatytų bendrųjų liudytojo ir įtariamojo apklausos taisyklių.
+2. Apklausiant į akistatą suvestus asmenis, turi būti laikomasi šiame Kodekse numatytų bendrųjų liudytojo ir įtariamojo apklausos taisyklių. Akistatoje, kurioje dalyvauja įtariamasis, įtariamojo prašymu turi dalyvauti jo gynėjas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 3. Suvestų į akistatą asmenų apklausos pradžioje paklausiama, ar jie pažįsta vienas kitą ir kokie jų tarpusavio santykiai. Po to šiems asmenims iš eilės pasiūloma duoti parodymus apie tas aplinkybes, kurioms nustatyti jie suvesti į akistatą. Kai kiekvienas iš apklaustųjų davė parodymus, jiems gali būti užduodami klausimai. Jeigu apklausiamas akistatos metu asmuo pakeičia savo ankstesnius parodymus, reikia jo paklausti apie parodymų pakeitimo priežastis.
 
@@ -6123,7 +6235,11 @@ Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
 
 1. Siekiant patikrinti ar patikslinti liudytojo, nukentėjusiojo ar įtariamojo parodymus dėl įvykio vietos arba situacijos, įvykio dalyvių veiksmų ar kitų aplinkybių, turinčių reikšmės nusikalstamai veikai ištirti, galima atvykti su asmeniu, kurio parodymai tikrinami ar tikslinami, į šio asmens nurodytą vietą ir sugretinti parodymus su aplinkybėmis vietoje.
 
-2. Asmuo, kurio parodymai tikrinami ar tikslinami, savarankiškai parodo vietą, apie kurią davė parodymus, paaiškina savo ankstesnius parodymus akivaizdžiai juos susiedamas su aplinkybėmis vietoje ir atsako į užduodamus klausimus. Parodymų tikrinimo vietoje metu turi būti laikomasi šiame Kodekse numatytų bendrųjų liudytojo ir įtariamojo apklausos taisyklių.
+2. Asmuo, kurio parodymai tikrinami ar tikslinami, savarankiškai parodo vietą, apie kurią davė parodymus, paaiškina savo ankstesnius parodymus akivaizdžiai juos susiedamas su aplinkybėmis vietoje ir atsako į užduodamus klausimus. Parodymų patikrinimo vietoje metu turi būti laikomasi šiame Kodekse numatytų bendrųjų liudytojo ir įtariamojo apklausos taisyklių. Atliekant parodymų patikrinimą vietoje, kuriame dalyvauja įtariamasis, įtariamojo prašymu turi dalyvauti jo gynėjas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 3. Pagal apklausiamo asmens parodymus gali būti atkuriama įvykio situacija ir šis asmuo gali pademonstruoti parodymuose minimus veiksmus.
 
@@ -6131,7 +6247,13 @@ Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
 
 197 straipsnis. Eksperimentas
 
-Liudytojų, nukentėjusiųjų, įtariamųjų parodymams ar versijoms patikrinti galima atkurti tiriamo įvykio situaciją, aplinką, asmenų veiksmus ar kitas aplinkybes ir atlikti reikiamus bandymus.
+1. Liudytojų, nukentėjusiųjų, įtariamųjų parodymams ar versijoms patikrinti galima atkurti tiriamo įvykio situaciją, aplinką, asmenų veiksmus ar kitas aplinkybes ir atlikti reikiamus bandymus.
+
+2. Eksperimente, kuriame dalyvauja įtariamasis, įtariamojo prašymu turi dalyvauti jo gynėjas.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 KETVIRTASIS SKIRSNIS
 
@@ -6385,11 +6507,13 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 4. Be to, teisėjas ta pačia nutartimi išsprendžia gautus prašymus, taip pat nusprendžia dėl gynėjo paskyrimo, vertėjo iškvietimo, kardomosios priemonės, išskyrus suėmimą, ir kitų procesinių prievartos priemonių kaltinamajam paskyrimo, pakeitimo ar panaikinimo, neviešo bylos nagrinėjimo.
 
-5. Dėl kardomosios priemonės – suėmimo paskyrimo, termino pratęsimo, pakeitimo ar panaikinimo teismas nusprendžia posėdyje vadovaudamasis šio Kodekso XI skyriaus nuostatomis. Teismo posėdyje dalyvauja prokuroras ir gynėjas. Suimtas kaltinamasis pristatomas į posėdį. Suimto kaltinamojo dalyvavimas teismo posėdyje gali būti užtikrinamas garso ir vaizdo nuotolinio perdavimo priemonėmis.
+5. Dėl kardomosios priemonės – suėmimo paskyrimo, termino pratęsimo, pakeitimo ar panaikinimo teismas nusprendžia posėdyje vadovaudamasis šio Kodekso XI skyriaus nuostatomis. Teismo posėdyje dalyvauja prokuroras ir gynėjas. Suimtas kaltinamasis pristatomas į posėdį. Apie kaltinamajam paskirtą suėmimą teismas (teisėjas) nedelsdamas praneša šio Kodekso 128 straipsnio 1, 3 ir 4 dalyse nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 Straipsnio pakeitimai:
 
