@@ -4,7 +4,7 @@ identifier: "TAR.9F4371AB03A3"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-18"
-last_updated: "2016-01-18"
+last_updated: "2017-05-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos advokatūros įstatymas
 
-Suvestinė redakcija nuo 2016-01-18 iki 2017-05-24
+Suvestinė redakcija nuo 2017-05-25 iki 2017-07-12
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 50-1632, i. k. 1041010ISTA0IX-2066
 
@@ -592,11 +592,15 @@ Advokatas, vykdydamas advokato veiklą, turi teisę:
 
 6) naudotis kitomis įstatymų numatytomis teisėmis, susijusiomis su advokato veikla.
 
-45 straipsnis. Advokato teisė susitikti su klientu
+45 straipsnis. Advokato teisė bendrauti ir susitikti su klientu
 
-1. Draudžiama kliudyti advokatui be pašalinių susitikti su klientu.
+1. Draudžiama kliudyti advokatui bendrauti ar be pašalinių susitikti su klientu.
 
-2. Advokato ir jo kliento susitikimo duomenys negali būti panaudoti kaip įrodymai.
+2. Advokato ir jo kliento susitikimo ar bendravimo duomenys negali būti panaudoti kaip įrodymai.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-358, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08717
 
 46 straipsnis. Advokato veiklos garantijos
 
@@ -608,7 +612,11 @@ Advokatas, vykdydamas advokato veiklą, turi teisę:
 
 4. Krata ar poėmis advokato, įrašyto į Lietuvos praktikuojančių advokatų sąrašą, darbo vietoje, gyvenamosiose patalpose, transporto priemonėje, asmens krata, dokumentų, pašto siuntos apžiūra, patikrinimas ar poėmis gali būti atliekami tik dalyvaujant Lietuvos advokatūros advokatų tarybos nariui arba jos įgaliotam advokatui. Lietuvos advokatūra privalo patvirtinti ir pateikti suinteresuotoms institucijoms Lietuvos advokatūros įgaliotų advokatų sąrašą. Dalyvaujantis Lietuvos advokatūros advokatų tarybos narys arba jos įgaliotas advokatas turi užtikrinti, kad nebūtų paimti dokumentai, nesusiję su advokatui pareikštais įtarimais ar kaltinimais.
 
-5. Draudžiama viešai arba slaptai susipažinti su advokato profesinę paslaptį sudarančia informacija ir ją naudoti kaip įrodymą. Advokato profesinę paslaptį sudaro kreipimosi į advokatą faktas, sutarties su klientu sąlygos, kliento suteikta informacija ir pateikti duomenys, konsultacijos pobūdis bei pagal kliento pavedimą advokato surinkti duomenys.
+5. Draudžiama viešai arba slaptai susipažinti su advokato profesinę paslaptį sudarančia informacija ir ją naudoti kaip įrodymą. Advokato profesinę paslaptį sudaro kreipimosi į advokatą faktas, sutarties su klientu sąlygos, kliento suteikta informacija ir pateikti duomenys, konsultacijos pobūdis bei pagal kliento pavedimą advokato surinkti duomenys, taip pat kitas advokato ir kliento bendravimo (susitikimų, korespondencijos, pokalbių telefonu ar kitų formų bendravimo) turinys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-358, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08717
 
 6. Kad advokatas tapo įtariamuoju ar kaltinamuoju arba kad atlikti proceso veiksmai, turi būti pranešta Lietuvos advokatūrai.
 
@@ -1237,6 +1245,12 @@ priedas
 1. 1977 m. kovo 22 d. Tarybos direktyva 77/249/EEB, skirta padėti teisininkams veiksmingai naudotis laisve teikti paslaugas (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 52), su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 20 d. Tarybos direktyva 2006/100/EB dėl Bulgarijos ir Rumunijos stojimo, adaptuojančia tam tikras direktyvas laisvo asmenų judėjimo srityje (OL 2006 L 363, p. 141).
 
 2. 1998 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 98/5/EB, skirta padėti teisininkams verstis nuolatine advokato praktika kitoje valstybėje narėje nei ta, kurioje buvo įgyta kvalifikacija (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 83), su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 20 d. Tarybos direktyva 2006/100/EB dėl Bulgarijos ir Rumunijos stojimo, adaptuojančia tam tikras direktyvas laisvo asmenų judėjimo srityje (OL 2006 L 363, p. 141).
+
+3. 2013 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2013/48/ES dėl teisės turėti advokatą vykstant baudžiamajam procesui ir Europos arešto orderio vykdymo procedūroms ir dėl teisės reikalauti, kad po laisvės atėmimo būtų informuota trečioji šalis, ir teisės susisiekti su trečiaisiais asmenimis ir konsulinėmis įstaigomis laisvės atėmimo metu (OL 2013 L 294, p. 1).
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-358, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08717
 
 Priedo pakeitimai:
 
