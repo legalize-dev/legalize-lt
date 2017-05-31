@@ -4,7 +4,7 @@ identifier: "TAR.C677663D2202"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2017-01-01"
+last_updated: "2017-05-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-05-30
+Suvestinė redakcija nuo 2017-05-31 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
 
@@ -1413,7 +1413,11 @@ PAJAMŲ MOKESČIO, SUMOKĖTO UŽSIENIO VALSTYBĖSE, ATSKAITYMAS
 
 5. Jeigu nuolatinis Lietuvos gyventojas per mokestinį laikotarpį gauna pajamų keliose užsienio valstybėse, tai atskaitoma pajamų mokesčio suma apskaičiuojama atskirai nuo kiekvienoje valstybėje  gautų pajamų.
 
-6. Jeigu nuo palūkanų buvo išskaičiuotas pajamų mokestis, nustatytas 2003 m. birželio 3 d. Tarybos direktyvos 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų, apmokestinimo 11 straipsnio 1 dalyje arba su šios Direktyvos 17 straipsnio 2 dalyje nurodytomis valstybėmis ar teritorijomis sudarytose ir taikomose sutartyse, tai visa išskaičiuoto pajamų mokesčio suma grąžinama (įskaitoma) Mokesčių administravimo įstatymo nustatyta mokesčio permokos grąžinimo (įskaitymo) tvarka, kai nuolatinis Lietuvos gyventojas pateikia metinę pajamų mokesčio deklaraciją.
+6. Neteko galios nuo 2017-05-31.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-376, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09156
 
 Straipsnio pakeitimai:
 
