@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2017-01-01"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-05-31
+Suvestinė redakcija nuo 2017-06-01 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -629,7 +629,17 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 7) periodiškai (kartą per ketvirtį) svarsto, kaip vykdomas savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) veiklos planas, savivaldybės kontrolieriaus ar savo iniciatyva išklauso institucijų, įstaigų ir įmonių vadovus dėl savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) atlikto finansinio ir veiklos audito metu nustatytų trūkumų ar teisės aktų pažeidimų pašalinimo, prireikus kreipiasi į savivaldybės administracijos direktorių arba savivaldybės tarybą dėl savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) reikalavimų įvykdymo;
 
-8) dirba pagal savivaldybės tarybos patvirtintą veiklos programą ir kiekvienų metų pabaigoje už savo veiklą atsiskaito savivaldybės tarybai.
+8) dirba pagal savivaldybės tarybos patvirtintą veiklos programą ir kiekvienų metų pradžioje už savo veiklą atsiskaito savivaldybės tarybai reglamento nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-384, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09280
+
+9) nagrinėja iš asmenų gaunamus pranešimus ir pareiškimus apie savivaldybės administracijos, įmonių, įstaigų ir jų vadovų veiklą ir teikia dėl jų siūlymus savivaldybės administracijai ir savivaldybės tarybai.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-384, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09280
 
 5. Komitetų posėdžiai yra teisėti, jeigu juose dalyvauja daugiau kaip pusė visų komiteto narių. Komitetai pagal savo kompetenciją priima rekomendacinius sprendimus. Savivaldybės administracija, jos padaliniai, biudžetinės ir viešosios įstaigos ir savivaldybės kontroliuojamos įmonės su jų veikla susijusius komitetų sprendimus turi apsvarstyti ir apie svarstymo rezultatus pranešti komitetams.
 
