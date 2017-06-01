@@ -4,7 +4,7 @@ identifier: "TAR.789C6EE505FD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-07-01"
-last_updated: "2016-01-01"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.789C6EE505FD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2016-01-01 iki 2017-05-31
+Suvestinė redakcija nuo 2017-06-01 iki 2017-06-29
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 81-3176, i. k. 1081010ISTA00X-1666
 
@@ -83,11 +83,13 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 
 1. VTEK sudaro 5 nariai.
 
-2. Po vieną kandidatą į VTEK narius Seimui teikia Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas, Teisėjų taryba ir Lietuvos savivaldybių asociacijos prezidentas. Seimo Pirmininkas VTEK nariu teikia skirti vieną iš Seimo frakcijų siūlomų kandidatų, Ministras Pirmininkas – vieną iš Vyriausybės siūlomų kandidatų, Teisėjų taryba – vieną iš Lietuvos teisininkų draugijos siūlomų kandidatų, Lietuvos savivaldybių asociacijos prezidentas – vieną iš šios asociacijos tarybos siūlomų kandidatų. Teikiantis VTEK nario kandidatūrą subjektas privalo ne vėliau kaip prieš tris mėnesius iki atitinkamo Komisijos nario kadencijos pabaigos pateikti Seimui naują VTEK nario kandidatūrą.
+2. Po vieną kandidatą į VTEK narius Seimui teikia Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas, du kandidatus – Lietuvos teisininkų draugija. VTEK nario kandidatūrą teikiantis subjektas privalo ne vėliau kaip prieš tris mėnesius iki atitinkamo Komisijos nario kadencijos pabaigos pateikti Seimui naują VTEK nario kandidatūrą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
+
+Nr. XIII-385, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09281
 
 3. VTEK narys yra Seimo skiriamas valstybės pareigūnas. VTEK nario kadencijos laikas – 5 metai. Tas pats asmuo VTEK nariu gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės.
 
@@ -673,15 +675,31 @@ Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
 
 Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 pakeitimo įstatymas
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-385, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09281
+
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 6 ir 16-1 straipsnių pakeitimo įstatymas
+
 161 straipsnis. VTEK posėdžiai
 
 1. VTEK jos kompetencijai priskirtus klausimus svarsto ir sprendimus priima kolegialiai savo posėdžiuose. Posėdžių organizavimo tvarką nustato Reglamentas.
 
 2. VTEK posėdžius šaukia, jiems pirmininkauja ir sprendimus pasirašo VTEK pirmininkas arba Reglamente nustatyta tvarka kitas Komisijos narys. VTEK posėdis gali būti sušauktas ir ne mažiau kaip trijų VTEK narių iniciatyva.
 
-3. VTEK posėdžiai teisėti, kai juose dalyvauja ne mažiau kaip trys VTEK nariai. Komisija sprendimą priima VTEK narių balsų dauguma atviru balsavimu. Balsuojant susilaikyti negalima. Balsams pasidalijus po lygiai, lemia posėdžio pirmininko balsas.
+3. VTEK posėdžiai teisėti, kai juose dalyvauja ir dėl sprendimo balsuoja ne mažiau kaip trys VTEK nariai. Komisija sprendimą priima VTEK narių balsų dauguma atviru vardiniu balsavimu. Balsuojant susilaikyti negalima. Balsams pasidalijus po lygiai, lemia posėdžio pirmininko balsas. VTEK sprendimai ir balsavimo rezultatai yra vieši. VTEK narys, turintis kitą nuomonę dėl VTEK priimto sprendimo, turi teisę ne vėliau kaip per 5 darbo dienas po atitinkamo VTEK sprendimo paskelbimo raštu išdėstyti motyvuotą atskirąją nuomonę. VTEK sprendimo rezoliucinė dalis ir narių vardinio balsavimo rezultatai skelbiami per vieną darbo dieną, o visas sprendimas per 5 darbo dienas po sprendimo priėmimo, atskirosios nuomonės skelbiamos kitą darbo dieną po atskirosios nuomonės pateikimo VTEK interneto svetainėje ir pridedamos prie sprendimo.
 
-4. Motyvuotu VTEK sprendimu VTEK posėdis gali būti uždaras – žmogaus asmeninio ar šeiminio gyvenimo slaptumui apsaugoti, taip pat kai viešai nagrinėjant klausimą gali būti atskleista valstybės, tarnybos ar kita įstatymų saugoma paslaptis. Tokiu atveju viešai paskelbiama tik VTEK priimto sprendimo rezoliucinė dalis.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-385, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09281
+
+4. Motyvuotu VTEK sprendimu VTEK posėdis gali būti uždaras – žmogaus asmeninio ar šeiminio gyvenimo slaptumui apsaugoti, taip pat kai viešai nagrinėjant klausimą gali būti atskleista valstybės, tarnybos ar kita įstatymų saugoma paslaptis. Tokiu atveju viešai skelbiama VTEK priimto sprendimo rezoliucinė dalis, VTEK narių vardinio balsavimo rezultatai ir informacija, kad yra atskiroji nuomonė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-385, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09281
 
 5. VTEK posėdyje kviečiamas dalyvauti asmuo, kurio veika tiriama, ir pranešimą pateikęs asmuo.
 
