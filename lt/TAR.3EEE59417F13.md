@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2017-01-01"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-05-31
+Suvestinė redakcija nuo 2017-06-01 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
 
@@ -138,7 +138,11 @@ Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 
 1. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui kompensuojama:
 
-1) šildymo sezono metu – būsto šildymo išlaidų, kai naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus, dalis, viršijanti 20 procentų skirtumo tarp bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų ir valstybės remiamų pajamų bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui dydžio;
+1) šildymo sezono metu – būsto šildymo išlaidų, kai naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus, dalis, viršijanti 10 procentų skirtumo tarp bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų ir valstybės remiamų pajamų bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui dydžio;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-373, 2017-05-23, paskelbta TAR 2017-05-31, i. k. 2017-09277
 
 2) geriamojo vandens, kurio kiekis ne didesnis už šio įstatymo 12 straipsnyje nustatytą normatyvą, išlaidų dalis, viršijanti 2 procentus bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų;
 
@@ -318,7 +322,11 @@ Bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į socialin�
 
 2. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui, pagal šio straipsnio 1 dalį turintiems teisę į kompensacijas, kompensacijos skiriamos, jeigu laikotarpiu, už kurį kompensacijos apskaičiuojamos:
 
-1) būsto šildymo išlaidos, kai naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus, viršija 20 procentų skirtumo tarp bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų ir valstybės remiamų pajamų bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui dydžio arba (ir)
+1) būsto šildymo išlaidos, kai naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus, viršija 10 procentų skirtumo tarp bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų ir valstybės remiamų pajamų bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui dydžio arba (ir)
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-373, 2017-05-23, paskelbta TAR 2017-05-31, i. k. 2017-09277
 
 2) geriamojo vandens, kurio kiekis ne didesnis už šio įstatymo 12 straipsnyje nustatytą normatyvą, išlaidos viršija 2 procentus bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų, arba (ir)
 
