@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2017-05-12"
+last_updated: "2017-06-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2017-05-12 iki 2017-06-02
+Suvestinė redakcija nuo 2017-06-03 iki 2017-10-05
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -2202,7 +2202,11 @@ Asmuo pripažįstamas kaltu padaręs nusikaltimą ar baudžiamąjį nusižengim�
 
 5. Juridinio asmens baudžiamoji atsakomybė nepašalina fizinio asmens, kuris padarė, organizavo, kurstė arba padėjo padaryti nusikalstamą veiką, baudžiamosios atsakomybės. Juridinio asmens baudžiamosios atsakomybės už jo naudai arba jo interesais fizinio asmens padarytą, organizuotą, kurstytą ar padėtą padaryti nusikalstamą veiką nepašalina fizinio asmens baudžiamoji atsakomybė, taip pat tai, kad fizinis asmuo už šią veiką atleidžiamas nuo baudžiamosios atsakomybės arba jis nėra traukiamas atsakomybėn dėl kitų priežasčių.
 
-6. Pagal šį kodeksą neatsako valstybė, savivaldybė, valstybės ir savivaldybės institucija ir įstaiga bei tarptautinė viešoji organizacija.
+6. Pagal šį kodeksą neatsako valstybė, savivaldybė, valstybės ir savivaldybės institucija ir įstaiga bei tarptautinė viešoji organizacija. Valstybės ir savivaldybės institucijomis ir įstaigomis nelaikomos ir pagal šį kodeksą atsako valstybės ir savivaldybės įmonės, taip pat viešosios įstaigos, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, ir akcinės bendrovės bei uždarosios akcinės bendrovės, kurių visos akcijos ar jų dalis nuosavybės teise priklauso valstybei ar savivaldybei.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472
 
 Straipsnio pakeitimai:
 
@@ -4362,21 +4366,33 @@ Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 
 1. Šiame skyriuje nurodyti valstybės tarnautojai yra valstybės politikai, valstybės pareigūnai, teisėjai, valstybės tarnautojai pagal Valstybės tarnybos įstatymą ir kiti asmenys, kurie, dirbdami ar kitais įstatyme numatytais pagrindais eidami pareigas valstybės ar savivaldybių institucijose ar įstaigose, atlieka valdžios atstovo funkcijas arba turi administracinius įgaliojimus, taip pat oficialūs kandidatai į šias pareigas.
 
-2. Valstybės tarnautojui prilyginamas asmuo, kuris atlieka valdžios atstovo funkcijas, turi administracinius įgaliojimus arba kitaip užtikrina viešojo intereso įgyvendinimą dirbdamas ar kitais pagrindais eidamas pareigas užsienio valstybės ar Europos Sąjungos institucijoje ar įstaigoje, tarptautinėje viešojoje organizacijoje arba tarptautinėje ar Europos Sąjungos teisminėje institucijoje, arba juridiniame asmenyje ar kitoje organizacijoje, kuriuos kontroliuoja užsienio valstybė, taip pat oficialūs kandidatai į šias pareigas.
+2. Valstybės tarnautojui prilyginamas asmuo, kuris, nesvarbu, koks jo statusas pagal užsienio valstybės ar tarptautinės viešosios organizacijos teisės aktus, atlieka valdžios atstovo funkcijas, įskaitant teismines, turi administracinius įgaliojimus arba kitaip užtikrina viešojo intereso įgyvendinimą dirbdamas ar kitais pagrindais eidamas pareigas užsienio valstybės ar Europos Sąjungos institucijoje ar įstaigoje, tarptautinėje viešojoje organizacijoje arba tarptautinėje ar Europos Sąjungos teisminėje institucijoje, arba juridiniame asmenyje ar kitoje organizacijoje, kuriuos kontroliuoja užsienio valstybė, taip pat oficialūs kandidatai į šias pareigas. Užsienio valstybe laikoma bet kokia užsienio teritorija, nesvarbu, koks jos teisinis statusas, ir apima visus valdymo lygmenis ir sritis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711
 
+Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472
+
 3. Be to, valstybės tarnautojui prilyginamas asmuo, kuris dirba arba kitais įstatyme numatytais pagrindais eina pareigas viešajame arba privačiajame juridiniame asmenyje ar kitoje organizacijoje arba verčiasi profesine veikla ir turi atitinkamus administracinius įgaliojimus, arba turi teisę veikti šio juridinio asmens ar kitos organizacijos vardu, arba teikia viešąsias paslaugas, taip pat arbitras arba prisiekusysis.
 
 4. Šiame skyriuje nurodytas kyšis yra bet kokios turtinės ar kitokios asmeninės naudos sau ar kitam asmeniui (materialios ar nematerialios, turinčios ekonominę vertę rinkoje ar tokios vertės neturinčios) forma išreikštas neteisėtas ar nepagrįstas atlygis už pageidaujamą valstybės tarnautojo ar jam prilyginto asmens teisėtą ar neteisėtą veikimą arba neveikimą vykdant įgaliojimus.
 
-5. Šio kodekso 72 straipsnio nuostatų taikymo tikslais šio skyriaus 226 straipsnio 1, 3, 5 dalyse ir 227 straipsnyje uždraustų veikų rezultatu pripažįstamas tiesiogiai ar netiesiogiai iš šių veikų gautas bet kokio pavidalo turtas, įskaitant turtinę naudą, atsiradusią dėl pageidaujamo valstybės tarnautojo ar jam prilyginto asmens veikimo ar neveikimo vykdant įgaliojimus, nesvarbu, ar ji gauta vykdant veiklą, kuria teisės aktų nustatyta tvarka gali būti verčiamasi teisėtai, ar ne.
+5. Šiame skyriuje nurodytas įgaliojimų vykdymas apima bet kokį naudojimąsi valstybės tarnautojo ar jam prilyginto asmens padėtimi, nesvarbu, ar tai patenka į valstybės tarnautojui ar jam prilygintam asmeniui teisės aktais apibrėžtą įgaliojimų sritį, ar ne.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472
+
+6. Šio kodekso 72 straipsnio nuostatų taikymo tikslais šio skyriaus 226 straipsnio 1, 3, 5 dalyse ir 227 straipsnyje uždraustų veikų rezultatu pripažįstamas tiesiogiai ar netiesiogiai iš šių veikų gautas bet kokio pavidalo turtas, įskaitant turtinę naudą, atsiradusią dėl pageidaujamo valstybės tarnautojo ar jam prilyginto asmens veikimo ar neveikimo vykdant įgaliojimus, nesvarbu, ar ji gauta vykdant veiklą, kuria teisės aktų nustatyta tvarka gali būti verčiamasi teisėtai, ar ne.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472
 
 Straipsnio pakeitimai:
 
@@ -5845,6 +5861,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-343, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08026
 
 Lietuvos Respublikos baudžiamojo kodekso 169, 170 ir 170-1 straipsnių pakeitimo įstatymas
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472
+
+Lietuvos Respublikos baudžiamojo kodekso 20, 225, 227 ir 230 straipsnių pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
