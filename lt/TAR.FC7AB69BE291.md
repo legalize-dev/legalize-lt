@@ -4,7 +4,7 @@ identifier: "TAR.FC7AB69BE291"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-05-12"
-last_updated: "2016-03-01"
+last_updated: "2017-06-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2016-03-01 iki 2017-06-09
+Suvestinė redakcija nuo 2017-06-10
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
 
@@ -89,7 +89,11 @@ BENDROSIOS NUOSTATOS
 
 17. Elektrinės prijungimo prie energetikos tinklų projektavimo sąlygos (toliau – prijungimo sąlygos) – techninės sąlygos, kuriose nustatomi privalomieji energetikos tinklų tiesimo, pertvarkymo ir (ar) plėtros reikalavimai, prijungiant energijos iš atsinaujinančių išteklių gamintojo elektrinę prie energetikos tinklų operatoriaus valdomų tinklų ar teikiant kitas teisės aktuose nustatytas paslaugas.
 
-18. Elektromobilis – transporto priemonė, kurioje energija mechaniniam judesiui atlikti tiekiama tik iš elektros energijos kaupiklio.
+18. Elektromobilis – motorinė transporto priemonė, kurioje sumontuota jėgos pavara, turinti bent vieną ne išorinį elektros energijos keitiklį su elektrine įkraunamąja energijos kaupimo sistema, kurią galima įkrauti iš išorės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
 
 19. Elektros įrenginių prijungimo prie elektros tinklų ketinimų protokolas  (toliau – ketinimų protokolas) – elektros tinklų operatoriaus ir elektros energijos iš atsinaujinančių išteklių gamintojo susitarimas, kuriuo, be kita ko, šis gamintojas įsipareigoja per nustatytą laikotarpį parengti savo elektros įrenginius prijungti prie elektros tinklų, o elektros tinklų operatorius – per nustatytą laikotarpį prijungti šio gamintojo elektros įrenginius prie savo valdomų elektros tinklų.
 
@@ -225,7 +229,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
 
-50. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos dokumentų ir archyvų įstatyme, Energetikos įstatyme, Elektros energetikos įstatyme, Gamtinių dujų įstatyme, Šilumos ūkio įstatyme, Statybos įstatyme, Vandens įstatyme ir Žemės įstatyme.
+50. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos dokumentų ir archyvų įstatyme, Energetikos įstatyme, Elektros energetikos įstatyme, Gamtinių dujų įstatyme, Šilumos ūkio įstatyme, Statybos įstatyme, Vandens įstatyme, Žemės įstatyme ir Atliekų tvarkymo įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
 
 Straipsnio dalies numeracijos pakeitimas:
 
