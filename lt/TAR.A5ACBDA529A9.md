@@ -4,7 +4,7 @@ identifier: "TAR.A5ACBDA529A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-12-20"
-last_updated: "2017-01-01"
+last_updated: "2017-06-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 department: "Lietuvos Respublikos Seimas"
@@ -19,9 +19,17 @@ entry_into_force_conditions: "Įstatymo 2 straipsnio 16 dalies 5 punkto, 40 stra
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-09
+Suvestinė redakcija nuo 2017-06-10 iki 2017-12-22
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
+
+TAR pastaba. Įstatymo (Nr. VIII-405) nuostatos taikomos apskaičiuojant 2017 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną. Laivybos vienetas, Lietuvos Respublikos pelno mokesčio įstatymo nustatyta tvarka pasirinkęs 2017 metais prasidėjusiu mokestiniu laikotarpiu apmokestinimo fiksuotu pelno mokesčiu tvarkos taikymą, apie pasirinkimą taikyti apmokestinimo fiksuotu pelno mokesčiu tvarką centrinio mokesčių administratoriaus nustatyta tvarka informuoja vietos mokesčių administratorių iki 2017 metų prasidėjusio mokestinio laikotarpio antrojo ketvirčio paskutinės dienos. Laivybos vieneto, Lietuvos Respublikos pelno mokesčio įstatymo nustatyta tvarka pasirinkusio 2017 metais prasidėjusiu mokestiniu laikotarpiu apmokestinimo fiksuotu pelno mokesčiu tvarkos taikymą, sumokėtas 2017 metais prasidėjusio mokestinio laikotarpio avansinis pelno mokestis grąžinamas (įskaitomas) Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
+
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2, 4, 11, 31, 38-1 ir 38-2 straipsnių pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -79,7 +87,11 @@ BENDROSIOS NUOSTATOS
 
 14. Jūrų laivo naudingoji talpa (jūrų laivo grynoji talpa) (toliau – jūrų laivo NT) – naudingoji talpa, nurodyta jūrų laivo tarptautiniame tonažo sertifikate, išduotame pagal 1969 m. Londono tarptautinę konvenciją dėl laivų matmenų nustatymo.
 
-15. Laivybos vienetas – Lietuvos apmokestinamasis vienetas arba užsienio apmokestinamasis vienetas, įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje ir vykdantis veiklą Lietuvos Respublikos teritorijoje per nuolatinę buveinę, užsiimantis tarptautiniu vežimu jūrų laivais ir su juo tiesiogiai susijusia veikla.
+15. Laivybos vienetas – Lietuvos apmokestinamasis vienetas arba užsienio apmokestinamasis vienetas, įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje ir vykdantis veiklą Lietuvos Respublikos teritorijoje per nuolatinę buveinę, užsiimantis tarptautiniu vežimu jūrų laivais arba tarptautiniu vežimu jūrų laivais ir su juo tiesiogiai susijusia veikla.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
 
 16. Kompiuterio programa – kaip ši sąvoka apibrėžta Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatyme.
 
@@ -88,6 +100,12 @@ BENDROSIOS NUOSTATOS
 17. Lietuvos Respublikos teritorija – Lietuvos Respublikos teritorija ir greta Lietuvos Respublikos teritorinių vandenų esantis plotas, kuriame pagal Lietuvos Respublikos įstatymus ir tarptautinę teisę Lietuvos Respublika turi teisę tyrinėti ir eksploatuoti jūros dugno ir požeminius gamtos išteklius.
 
 18. Moksliniai tyrimai ir eksperimentinė plėtra – kaip šios sąvokos apibrėžtos Lietuvos Respublikos mokslo ir studijų įstatyme.
+
+181. Nauda iš jūrų laivo perleidimo sutarties ar įsigijimo finansavimo sutarties – laivybos vieneto pajamos, gaunamos jūrų laivą perleidžiančiam asmeniui atsisakius visų ar dalies reikalavimų, kylančių iš jūrų laivo perleidimą reglamentuojančios sutarties, arba jūrų laivo įsigijimą finansuojančiai kredito įstaigai atsisakius visų ar dalies reikalavimų, kylančių iš kredito sutarties, įskaitant palūkanas ir kitus mokėjimus, numatytus šioje sutartyje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
 
 19. Neigiama prestižo vertė – dydis, kuriuo, įsigyjant kito vieneto veiklą kaip kompleksą ar jo veiklos dalį kaip teisių ir prievolių visumą, organizaciniu požiūriu sudarančią autonomišką ekonominį vienetą, vykdantį veiklą ir galintį atlikti savo funkcijas savo nuožiūra, arba siekiant valdyti kito vieneto grynąjį turtą ir veiklą, įsigyjant jo akcijas, įsigyjančiojo vieneto pinigais sumokėta kaina yra mažesnė už įsigyto vieneto grynojo turto dalies, įvertintos tikrąja rinkos kaina, vertę. Apskaičiuojant grynąjį turtą neatsižvelgiama į įsigyjamojo vieneto turimą turtą, kuris nebuvo pripažintas jo apskaitoje, nes šis turtas neturėjo reikalingų pripažinimo požymių (pagrįstai nebuvo tikimasi, kad vienetas iš turto gaus ekonominės naudos būsimaisiais laikotarpiais, ir nebuvo galima patikimai nustatyti turto įsigijimo kainos), arba buvo gautas neatlyginamai iš valstybės, savivaldybės ar viešojo juridinio asmens, kurio steigėjas yra valstybės ar savivaldybės institucija, tačiau turi tikrąją rinkos kainą.
 
@@ -153,9 +171,9 @@ BENDROSIOS NUOSTATOS
 
 11) du vienetai, kai vienam iš jų priklauso sprendimų priėmimo teisė kitame.
 
-34. Su tarptautiniu vežimu jūrų laivais tiesiogiai susijusi veikla – paslaugos, būtinos tarptautiniam vežimui jūrų laivais, ir kitos ekonomiškai svarbios priemonės:
+34. Su tarptautiniu vežimu jūrų laivais tiesiogiai susijusi veikla – paslaugos, būtinos tarptautiniam vežimui jūrų laivais, ir (arba) kitos ekonomiškai svarbios priemonės:
 
-1) jūrų laivo valdymo, administracinės, eksploatavimo ir priežiūros paslaugos, tiesiogiai susijusios su tarptautiniu vežimu jūrų laivais (degalų įgijimas, įgulos, kuri gali būti perduota trečiajai šaliai, samda, krovinių ir keleivių užsakymai, jūrų laivo remontas, techninis palaikymas, saugumo reikalavimų užtikrinimas ir kt.);
+1) jūrų laivo valdymo, administracinės, eksploatavimo ir priežiūros paslaugos, tiesiogiai susijusios su tarptautiniu vežimu jūrų laivais (degalų įgijimas, įgulos, kuri gali būti perduota trečiajai šaliai, samda, krovinių ir keleivių užsakymai, jūrų laivo remontas, techninė priežiūra, saugumo reikalavimų užtikrinimas ir kt.);
 
 2) draudimo paslaugos, tiesiogiai susijusios su tarptautiniu vežimu jūrų laivais;
 
@@ -165,11 +183,11 @@ BENDROSIOS NUOSTATOS
 
 5) konteinerių, būtinų prekėms vežti jūrų laive, išnuomojimas ar kitoks tiekimas užsakovui;
 
-6) paslaugų, būtinų jūrų laive ir atliekamų pačiame jūrų laive, teikimas ir prekių, reikalingų naudoti ar naudojamų jūrų laive, pardavimas tarptautinio keleivių vežimo metu, išskyrus prabangos paslaugų (lošimai ir stalo žaidimai, ekskursijos keleiviams ir kt.) teikimą ir prabangos prekių (juvelyrinių dirbinių, suvenyrų ir kt.) pardavimą;
+6) paslaugų, būtinų jūrų laive ir suteikiamų pačiame jūrų laive, teikimas ir prekių, reikalingų naudoti ar naudojamų jūrų laive, pardavimas tarptautinio keleivių vežimo metu, išskyrus prabangos paslaugų (lošimai ir stalo žaidimai, ekskursijos keleiviams ir kt.) teikimą ir prabangos prekių (juvelyrinių dirbinių, suvenyrų ir kt.) pardavimą;
 
 7) gelbėjimo ir kitos pagalbos jūroje paslaugos, kai jas jūroje suteikia jūrų laivas;
 
-8) jūrų laivo išnuomojimas pagal laivo frachtavimo sutartį, kaip numatyta Lietuvos Respublikos prekybinės laivybos įstatymo 2 straipsnyje, kai laivybos vienetas, užsiimantis tarptautiniu vežimu jūrų laivais ir valdantis tą laivą, išlaiko jūrų laivo eksploatacijos ir įgulos kontrolę;
+8) laivybos vieneto nuosavybės teise valdomo jūrų laivo išnuomojimas pagal laivo nuomos be įgulos sutartį (bareboat charter out), kai pajamos pagal šią sutartį gaunamos ne ilgiau negu trejus metus, o toks išnuomojimas yra susijęs su laikinu laivybos vieneto jūrų laivų tonažo pertekliumi ir jūrų laivas, išnuomojamas pagal laivo nuomos be įgulos sutartį (bareboat charter out), nebuvo įsigytas ar išsinuomotas pagal laivo nuomos be įgulos sutartį (bareboat charter in) vien tam, kad būtų išnuomotas pagal laivo nuomos be įgulos sutartį (bareboat charter out);
 
 9) trumpalaikės investicijos iš mokestinio laikotarpio pajamų, gautų iš tarptautinio vežimo jūrų laivais ir (arba) su tarptautiniu vežimu jūrų laivais tiesiogiai susijusių veiklos rūšių;
 
@@ -177,9 +195,21 @@ BENDROSIOS NUOSTATOS
 
 11) agentų ir laivų brokerių paslaugos, teikiamos laivybos vienetų nuosaviems jūrų laivams;
 
-12) eksploatuojamo turto perleidimas, jei pagal pobūdį šis turtas priskiriamas jūrų transportui.
+12) eksploatuojamo turto perleidimas, kai pagal pobūdį šis turtas priskiriamas jūrų transportui;
 
-35. Tarptautinis vežimas jūrų laivais – laivybos vieneto vykdomas keleivių ir (arba) krovinių vežimas jūrų laivais, kurie priklauso tam laivybos vienetui nuosavybės teise arba pagal finansinės nuomos sutartį, kurioje numatytas nuosavybės teisės perėjimas, arba pagal pirkimo–pardavimo ar nuomos sutartį, kurioje numatytas nuosavybės teisės perėjimas laivybos vienetui apmokėjus visą turto vertę, arba pagal laivo nuomos be įgulos sutartį (bareboat charter) ir kurie yra įregistruoti Lietuvos jūrų registre arba kitos Europos ekonominės erdvės valstybės jūrų laivų registre, išskyrus atvejus, kai jūrų laivai kursuoja tik tarp Lietuvos Respublikos uostų.
+13) jūrų laivo įsigijimo finansavimas, įskaitant įsigijimo finansavimą per laivybos vieneto patronuojamąją įmonę, tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusiai veiklai vykdyti;
+
+14) naudos iš jūrų laivo perleidimo sutarties ar įsigijimo finansavimo sutarties, sudarytos siekiant vykdyti tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusią veiklą, gavimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
+
+35. Tarptautinis vežimas jūrų laivais – laivybos vieneto vykdomas keleivių ir (arba) krovinių vežimas jūrų laivais, kuriuos laivybos vienetas valdo nuosavybės teise arba pagal finansinės nuomos sutartį, kurioje numatytas nuosavybės teisės perėjimas, arba pagal pirkimo–pardavimo ar nuomos sutartį, kurioje numatytas nuosavybės teisės perėjimas laivybos vienetui apmokėjus visą turto vertę, arba pagal laivo nuomos be įgulos sutartį (bareboat charter) arba kuriuos naudoja pagal laivo frachtavimo sutartį (laivo frachtavimo sutartį laivo reisui (voyage charter) arba terminuotą frachtavimo sutartį (time charter in arba time charter out), kaip numatyta Lietuvos Respublikos prekybinės laivybos įstatymo 2 straipsnyje, ir kurie plaukioja su Lietuvos Respublikos arba kitos Europos ekonominės erdvės valstybės vėliava, išskyrus atvejus, kai jūrų laivai kursuoja tik tarp Lietuvos Respublikos uostų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
 
 36. Tarptautinių telekomunikacijų pajamos – pajamos, gautos už telekomunikacijų paslaugas (kaip ši sąvoka apibrėžta Lietuvos Respublikos elektroninių ryšių įstatyme), jei teikiant šias paslaugas signalai perduodami, komutuojami ir programos siunčiamos iš Lietuvos Respublikos teritorijos į užsienį arba iš užsienio į Lietuvos Respublikos teritoriją.
 
@@ -309,7 +339,11 @@ Nr. X-1481, 2008-04-08, Žin., 2008, Nr. 47-1748 (2008-04-24)
 
 2) iš vieno paramos teikėjo per mokestinį laikotarpį grynais pinigais gautos paramos dalis, viršijanti 250 minimalių gyvenimo lygių (toliau – MGL) dydžio sumą.
 
-7. Šio straipsnio nuostatos netaikomos laivybos vieneto pajamoms iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, jei laivybos vieneto pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pagal šio Įstatymo 38(1) straipsnio nuostatas taikomas fiksuotas pelno mokestis.
+7. Šio straipsnio nuostatos netaikomos laivybos vieneto pajamoms iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, jei laivybos vieneto pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pagal šio Įstatymo 381 straipsnio nuostatas taikomas fiksuotas pelno mokestis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
 
 Straipsnio pakeitimai:
 
@@ -343,8 +377,6 @@ TAR pastaba. 1 dalies 2 punkto nuostatos taikomos ir žemės ūkio veiklą vykda
 
 2. Vienetų (išskyrus pelno nesiekiančius), kuriuose vidutinis sąrašuose esančių darbuotojų skaičius neviršija 10 žmonių ir mokestinio laikotarpio pajamos neviršija 300 000 eurų, apmokestinamasis pelnas apmokestinamas taikant 5 procentų mokesčio tarifą, išskyrus atvejus, nustatytus šio straipsnio 3 dalyje.
 
-TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
-
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
@@ -360,8 +392,6 @@ Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
 4) vienetams, kuriuose tie patys dalyviai kartu paskutinę mokestinio laikotarpio dieną valdo daugiau kaip 50 procentų akcijų (dalių, pajų).
 
 4. Pelno nesiekiančių vienetų, kurių mokestinio laikotarpio pajamos iš ūkinės komercinės veiklos neviršija 300 000 eurų, apmokestinamojo pelno dalis, atitinkanti 7 250 eurų sumą, apmokestinama taikant 0 procentų mokesčio tarifą, o likusi apmokestinamojo pelno dalis – taikant 15 procentų mokesčio tarifą. Pelno nesiekiančių vienetų ūkinės komercinės veiklos pajamoms nepriskiriamos pajamos, kurios tiesiogiai skiriamos tenkinant viešuosius interesus vykdomai veiklai finansuoti.
-
-TAR pastaba. 4 dalies nuostatos taikomos apskaičiuojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
 
 Straipsnio dalies pakeitimai:
 
@@ -431,8 +461,6 @@ PAJAMŲ IR SĄNAUDŲ PRIPAŽINIMAS
 
 3. Šio straipsnio nuostatos netaikomos bankrutuojančiojo statusą turintiems (įgijusiems) Lietuvos vienetams.
 
-TAR pastaba. 9 straipsnio nuostatos taikomos apskaičiuojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
-
 Straipsnio pakeitimai:
 
 Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
@@ -469,7 +497,11 @@ APMOKESTINAMOJO PELNO APSKAIČIAVIMO TVARKA
 
 6. Šio straipsnio 4 dalies reikalavimai netaikomi užsienio vienetų ar fizinių asmenų surašytiems dokumentams. Sąnaudos pagal užsienio vienetų arba fizinių asmenų surašytus dokumentus pripažįstamos, jei iš šių dokumentų galima nustatyti ūkinės operacijos turinį.
 
-7. Šio straipsnio nuostatos netaikomos laivybos vieneto pajamoms iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, jei laivybos vieneto pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pagal šio Įstatymo 38(1) straipsnio nuostatas taikomas fiksuotas pelno mokestis.
+7. Šio straipsnio nuostatos netaikomos laivybos vieneto pajamoms iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, jei laivybos vieneto pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pagal šio Įstatymo 381 straipsnio nuostatas taikomas fiksuotas pelno mokestis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
 
 Straipsnio pakeitimai:
 
@@ -698,8 +730,6 @@ Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 6. Kai šio Įstatymo 41 straipsnio 2 dalies 9 punkte nustatytu atveju Lietuvos vienetas perkelia registruotą buveinę, šio Lietuvos vieneto mokestinio laikotarpio nuostolius, susidariusius iki registruotos buveinės perkėlimo ir šio Įstatymo nustatyta tvarka neperkeltus į kitus metus, tęsdamas šių nuostolių perkėlimą, gali perkelti vienetas, toliau vykdantis veiklą Lietuvos Respublikoje per nuolatinę buveinę.
 
 7. Šio straipsnio 4, 5 ir 6 dalyse nurodytas mokestinių nuostolių perkėlimas tęsiamas šio Įstatymo 30 straipsnyje nustatyta tvarka. Šio straipsnio 1 ir 2 dalyje nurodytas mokestinių nuostolių perkėlimas tęsiamas taip, kad tiek šiame straipsnyje nustatyta tvarka, tiek šio Įstatymo 30 straipsnyje nustatyta tvarka atskaitomų mokestinių nuostolių, išskyrus mokestinius nuostolius vienetų, kurių apmokestinamasis pelnas pagal šio Įstatymo 5 straipsnio 2 dalies nuostatas apmokestinamas taikant 5 procentų mokesčio tarifą, suma negali būti didesnė kaip 70 procentų mokesčio mokėtojo mokestinio laikotarpio pajamų, apskaičiuotų iš pajamų atėmus neapmokestinamąsias pajamas, leidžiamus atskaitymus ir ribojamų dydžių leidžiamus atskaitymus, išskyrus ankstesnių metų mokestinių laikotarpių nuostolius.
-
-TAR pastaba. 7 dalies nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-661).
 
 Straipsnio pakeitimai:
 
@@ -1207,7 +1237,11 @@ TAR pastaba. 16 punkto nuostatos taikomos apskaičiuojant 2006 metų ir 2007 met
 
 17) neapmokestinamosioms pajamoms tenkantys leidžiami atskaitymai ir ribojamų dydžių leidžiami atskaitymai;
 
-18) sąnaudos, susijusios su pajamomis iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, jei laivybos vieneto pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pagal šio Įstatymo 38(1) straipsnio nuostatas taikomas fiksuotas pelno mokestis;
+18) sąnaudos, susijusios su pajamomis iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, jei laivybos vieneto pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pagal šio Įstatymo 381 straipsnio nuostatas taikomas fiksuotas pelno mokestis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
 
 19) leidžiami atskaitymai ir ribojamų dydžių leidžiami atskaitymai, tenkantys per Lietuvos vieneto nuolatines buveines, esančias Europos ekonominės erdvės valstybėse arba valstybėse, su kuriomis Lietuvos Respublika yra sudariusi ir taiko dvigubo apmokestinimo išvengimo sutartis, vykdomos veiklos pajamoms, jeigu per šias nuolatines buveines vykdomos veiklos pajamos nustatyta tvarka apmokestinamos pelno mokesčiu ar jam tapačiu mokesčiu tose valstybėse;
 
@@ -1327,11 +1361,7 @@ Mokesčiu neapmokestinamos šios Lietuvos vieneto bei užsienio vieneto per nuol
 
 15) turto vertės padidėjimo pajamos už vieneto, kuris įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, ir kuris yra pelno mokesčio arba jam tapataus mokesčio mokėtojas, akcijų perleidimą kitam vienetui arba fiziniam asmeniui, jei akcijas perleidžiantis vienetas ne trumpiau kaip 2 metus be pertraukų turėjo daugiau kaip 25 procentus balsus suteikiančių šio vieneto akcijų arba jei akcijos buvo perleistos šio Įstatymo 41 straipsnio 2 dalyje nurodytais reorganizavimo ar perleidimo atvejais, ne trumpiau kaip 3 metus be pertraukų turėjo daugiau kaip 25 procentus balsus suteikiančių šio vieneto akcijų. Ši lengvata netaikoma tuo atveju, kai akcijas perleidžiantis vienetas jas perleidžia šias akcijas išleidusiam vienetui. Į šiame punkte nustatytus terminus dėl akcijų turėjimo neatsižvelgiama tais atvejais, kai akcijos perleidžiamos dėl teisės aktų reikalavimų;
 
-TAR pastaba. 15 punkto nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-428).
-
 16) draudimo įmonių gyvybės draudimo įmokos, jei draudimo sutarties terminas ne trumpesnis kaip 10 metų arba jei draudimo išmoka išmokama apdraustajam sulaukus pensinio amžiaus pagal Profesinių pensijų kaupimo įstatymo nuostatas, draudimo įmonių gyvybės draudimo investicinės pajamos, išskyrus dividendus ir kitą paskirstytąjį pelną, bei draudimo įmonių draudimo investicinės pajamos pagal profesinių pensijų gyvybės draudimo sutartis, sudarytas pagal Profesinių pensijų kaupimo įstatymo nuostatas;
-
-TAR pastaba. 16 punkto nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-661).
 
 17) Lietuvos Respublikos įstatymuose arba kituose teisės aktuose nustatyto dydžio tiesioginės ir kitos kompensacinės išmokos pajamų lygiui palaikyti, kurias gauna žemės ūkio veiklą vykdantys vienetai.
 
@@ -1653,8 +1683,6 @@ Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 
 10. Šio straipsnio nuostatos taikomos tik tuo atveju, kai šio Įstatymo 41 straipsnio 2 dalies 4, 5, 6 ir 7 punktuose nustatytais atvejais vienetas ar jo dalyviai, mainais gavę akcijų (dalių, pajų), jų neparduoda ar kitaip neperleidžia nuosavybėn trejus metus, išskyrus atvejus, kai akcijos (dalys, pajai) perleidžiamos dėl teisės aktų reikalavimų, ar vėlesnius šio Įstatymo 41 straipsnio 2 dalies 4, 5, 6 ir 7 punktuose nustatytus atvejus.
 
-TAR pastaba. 10 dalies nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-428).
-
 11. Šio Įstatymo 41 straipsnyje nustatytais atvejais pinigais apmokėtas akcijų kainų skirtumas priskiriamas jį gavusio vieneto dalyvio pajamoms.
 
 Straipsnio pakeitimai:
@@ -1736,8 +1764,6 @@ REORGANIZAVIMO, PERLEIDIMO, LIKVIDAVIMO PASKIRŲ ATVEJŲ APMOKESTINIMAS, TURTO V
 1) turtas yra priskirtinas šio Įstatymo 1 priedėlyje nurodytoms ilgalaikio turto grupėms „mašinos ir įrengimai“, „įrenginiai (statiniai, gręžiniai ir kt.)“, „kompiuterinė technika ir ryšių priemonės (kompiuteriai, jų tinklai ir įranga)“, „programinė įranga“, „įsigytos teisės“ ir ilgalaikio turto grupės „krovininiai automobiliai, priekabos ir puspriekabės, autobusai – ne senesni kaip 5 metų“ turtui – krovininiams automobiliams, priekaboms ir puspriekabėms, ir
 
 2) turtas yra nenaudotas ir pagamintas ne anksčiau kaip prieš 2 metus (skaičiuojant nuo ilgalaikio turto naudojimo pradžios).
-
-TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
 
 Straipsnio dalies pakeitimai:
 
@@ -1851,8 +1877,6 @@ Nr. XI-73, 2008-12-18, Žin., 2008, Nr. 149-6000 (2008-12-30)
 
 2) ne mažiau kaip 80 procentų visų filmo ar jo dalies gamybos išlaidų patiriama Lietuvos Respublikoje ir Lietuvos Respublikoje patirtos išlaidos, neatsižvelgiant į šio straipsnio 3 dalyje nurodytas išlaidas, yra ne mažesnės kaip 43 000 eurų, ir
 
-TAR pastaba. 2 punkto nuostatos taikomos apskaičiuojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
-
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
@@ -1892,8 +1916,6 @@ Nr. XII-366, 2013-06-13, Žin., 2013, Nr. 68-3407 (2013-06-28)
 2. Ilgalaikio turto grupės ir jo nusidėvėjimo arba amortizacijos maksimalūs normatyvai (metais) nustatyti šio Įstatymo 1 priedėlyje. Ilgalaikis turtas, kuris yra registruojamas atitinkamo turto registre, tam tikrai ilgalaikio turto grupei gali būti priskiriamas atsižvelgiant vien tik į tokio turto naudojimo paskirtį. Vienetas pats nusistato (pasirenka) ilgalaikio turto nusidėvėjimo arba amortizacijos laikotarpį, ne trumpesnį negu nustatyti šio Įstatymo 1 priedėlyje ilgalaikio turto nusidėvėjimo arba amortizacijos normatyvai (metais), ir likvidacinę vertę, ne didesnę kaip 10 procentų įsigijimo kainos.
 
 3. Vienetai, kuriuose vidutinis sąrašuose esančių darbuotojų skaičius neviršija 10 žmonių ir mokestinio laikotarpio pajamos neviršija 150 000 eurų bei kurie neatitinka šio Įstatymo 5 straipsnio 3 dalyje nustatytų kriterijų, ilgalaikio turto grupėms, išskyrus naujus pastatus, naudojamus veiklai, ir pastatų, įtrauktų į Lietuvos Respublikos nekilnojamųjų kultūros vertybių registrą, rekonstravimą, jei pastatai pastatyti arba rekonstravimas atliktas nuo 2002 m. sausio 1 d., taip pat gyvenamuosius namus ir kitus pastatus, gali patys nusistatyti maksimalius nusidėvėjimo arba amortizacijos normatyvus, neatsižvelgdami į normatyvus, nustatytus šio Įstatymo 1 priedėlyje.
-
-TAR pastaba. 3 dalies nuostatos taikomos apskaičiuojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
 
 Straipsnio dalies pakeitimai:
 
@@ -1997,11 +2019,7 @@ Nr. XI-1698, 2011-11-17, Žin., 2011, Nr. 146-6844 (2011-12-01)
 
 4. Mokestinio laikotarpio nuostolius, išskyrus nuostolius dėl vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo (ne finansų įstaigų), galima perkėlinėti neribotą laikotarpį, tačiau toks perkėlimas nutraukiamas, jeigu vienetas nebetęsia veiklos, dėl kurios šie nuostoliai susidarė, išskyrus atvejus, kai vienetas veiklos nebetęsia dėl nuo jo nepriklausančių priežasčių. Šioje dalyje nurodytų perkeliamų atskaitomų mokestinių nuostolių, išskyrus mokestinius nuostolius vienetų, kurių apmokestinamasis pelnas pagal šio Įstatymo 5 straipsnio 2 dalies nuostatas apmokestinamas taikant 5 procentų mokesčio tarifą, suma negali būti didesnė kaip 70 procentų mokesčio mokėtojo mokestinio laikotarpio pajamų, apskaičiuotų iš pajamų atėmus neapmokestinamąsias pajamas, leidžiamus atskaitymus ir ribojamų dydžių leidžiamus atskaitymus, išskyrus ankstesnių metų mokestinių laikotarpių nuostolius.
 
-TAR pastaba. 4 dalies nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-661).
-
 5. Nuostoliai dėl vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo (ne finansų įstaigų) perkeliami ne ilgiau kaip penkis vienas po kito einančius mokestinius laikotarpius, pradedant tuo mokestiniu laikotarpiu, kuris eina po to mokestinio laikotarpio, kurį šie nuostoliai susidarė.
-
-TAR pastaba. 5 dalies nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį (įstatymas Nr. XII-661).
 
 6. Lietuvos vienetų nuolatinių buveinių, laikomų mokesčių mokėtojais ne pagal Lietuvos Respublikos teisės aktus, mokestinio laikotarpio nuostoliai neperkeliami.
 
@@ -2089,72 +2107,6 @@ Straipsnio pakeitimai:
 
 Nr. IX-1659, 2003-07-01, Žin., 2003, Nr. 74-3417 (2003-07-25)
 
-38(1) straipsnis. Tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pajamų apmokestinimas
-
-1. Laivybos vieneto pajamos iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos gali būti apmokestinamos pagal šio straipsnio nuostatas, jeigu visą Lietuvos apmokestinamojo vieneto mokestinį laikotarpį arba nuolatinės buveinės, per kurią užsienio apmokestinamasis vienetas, įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje, vykdo veiklą Lietuvos Respublikos teritorijoje, mokestinį laikotarpį:
-
-1) laivybos vienetas valdo nuosavybės teise arba pagal finansinės nuomos sutartį, kurioje numatytas nuosavybės teisės perėjimas, arba pagal pirkimo–pardavimo ar nuomos sutartį, kurioje numatytas nuosavybės teisės perėjimas laivybos vienetui apmokėjus visą turto vertę, arba pagal laivo nuomos be įgulos sutartį (bareboat charter) jūrų laivus (krovininius, konteinerinius, tanklaivius, ro-ro keleivinius, kruizinius), kurie yra įregistruoti Lietuvos jūrų laivų registre arba kitos Europos ekonominės erdvės valstybės jūrų laivų registre ir yra naudojami tarptautiniam vežimui ar su juo tiesiogiai susijusiai veiklai, ir
-
-2) laivybos vieneto nuosavybės teise valdomų jūrų laivų NT yra ne mažesnė kaip 25 procentai laivybos vieneto visų valdomų jūrų laivų NT, ir
-
-3) laivybos vienetas teikia Lietuvoje strateginio, komercinio, techninio vadovavimo paslaugas jūrų laivams, kuriais atliekamas tarptautinis vežimas jūrų laivais, ir
-
-4) laivybos vieneto valdomi nuosavybės teise arba pagal finansinės nuomos sutartį, kurioje numatytas nuosavybės teisės perėjimas, arba pagal pirkimo–pardavimo ar nuomos sutartį, kurioje numatytas nuosavybės teisės perėjimas laivybos vienetui apmokėjus visą turto vertę, arba pagal laivo nuomos be įgulos sutartį (bareboat charter) jūrų laivai, kurie naudojami tarptautiniam vežimui jūrų laivais ir su juo tiesiogiai susijusioje veikloje, atitinka Lietuvos Respublikos ir Europos Bendrijų teisės aktų nustatytus saugumo reikalavimus.
-
-2. Laivybos vienetui įgijus teisę ir pasirinkus mokėti fiksuotą pelno mokestį, apmokestinimo fiksuotu pelno mokesčiu tvarka taikoma ne trumpiau kaip iki šio straipsnio 5 dalyje nurodytos datos, išskyrus atvejus, kai laivybos vienetas nebeatitinka šio straipsnio 1 dalyje nustatytų kriterijų.
-
-3. Jei laivybos vienetas pasirinktu fiksuoto pelno mokesčio mokėjimo laikotarpiu (šis laikotarpis pradedamas skaičiuoti nuo mokestinio laikotarpio, kurį laivybos vienetas pirmą kartą įgijo teisę ir pasirinko mokėti fiksuotą pelno mokestį) praranda teisę mokėti fiksuotą pelno mokestį (t. y. nebeatitinka šio straipsnio 1 dalyje nustatytų kriterijų) arba atsisako teisės mokėti fiksuotą pelno mokestį nuo pajamų iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, tai pradedant mokestiniu laikotarpiu, kurį buvo prarasta ši teisė (išskyrus šio straipsnio 4 dalyje numatytus atvejus) arba kurį buvo atsisakyta šios teisės, šioms laivybos vieneto pajamoms taikomos bendros pelno mokesčio apskaičiavimo nuostatos, ir tokiam laivybos vienetui nebesuteikiama teisė pasirinkti mokėti fiksuotą pelno mokestį visus likusius mokestinius laikotarpius 10 metų periodu (šis periodas pradedamas skaičiuoti nuo mokestinio laikotarpio, kurį laivybos vienetas pirmą kartą įgijo teisę ir pasirinko mokėti fiksuotą pelno mokestį).
-
-4. Kai laivybos vienetas, atitinkantis šio straipsnio 1 dalyje nustatytus kriterijus, pasirinktu fiksuoto pelno mokesčio mokėjimo laikotarpiu (šis laikotarpis pradedamas skaičiuoti nuo mokestinio laikotarpio, kurį laivybos vienetas pirmą kartą įgijo teisę ir pasirinko mokėti fiksuotą pelno mokestį) nebeatitinka šio straipsnio 1 dalyje nustatytų kriterijų dėl nenugalimos jėgos (force majeure) (t. y. dėl nuo laivybos vieneto nepriklausančių priežasčių), teisės naudotis apmokestinimo fiksuotu pelno mokesčiu tvarka toks laivybos vienetas nepraranda, jei iki kito mokestinio laikotarpio, einančio po mokestinio laikotarpio, kurį dėl nenugalimos jėgos (force majeure) laivybos vienetas prarado teisę mokėti fiksuotą pelno mokestį nuo pajamų iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, pabaigos laivybos vienetas atitinka šio straipsnio 1 dalyje nustatytus kriterijus.
-
-5. Apmokestinimo fiksuotu pelno mokesčiu tvarka laivybos vienetui, atitinkančiam šio straipsnio 1 dalyje nustatytus kriterijus, taikoma iki 2016 m. gruodžio 31 d. Laivybos vienetas, atitinkantis šio straipsnio 1 dalyje nustatytus kriterijus ir pasirinkęs taikyti apmokestinimo fiksuotu pelno mokesčiu tvarką, apie pasirinkimą taikyti apmokestinimo fiksuotu pelno mokesčiu tvarką centrinio mokesčių administratoriaus nustatyta tvarka informuoja vietos mokesčių administratorių iki mokestinio laikotarpio, kurį pirmą kartą laivybos vienetas įgijo teisę ir pasirinko mokėti fiksuotą pelno mokestį, pirmojo ketvirčio paskutinės dienos.
-
-Įstatymas papildytas straipsniu:
-
-Nr. X-1110, 2007-05-03, Žin., 2007, Nr. 55-2126 (2007-05-19)
-
-Straipsnio pakeitimai:
-
-Nr. X-1484, 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
-
-38(2) straipsnis. Fiksuoto pelno mokesčio apskaičiavimas
-
-1. Jei laivybos vieneto pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pagal šio Įstatymo 381 straipsnio nuostatas taikomas fiksuotas pelno mokestis, tai fiksuoto pelno mokesčio bazė apskaičiuojama kiekvienam 100 jūrų laivo NT vienetų taikant fiksuotą dienos sumą ir gautą dydį dauginant iš laivybos vieneto mokestinio laikotarpio dienų skaičiaus. Fiksuota suma:
-
-1) kiekvienam 100 jūrų laivo NT vienetų iki 1 000 jūrų laivo NT vienetų – 0,93 euro per dieną;
-
-2) kiekvienam 100 jūrų laivo NT vienetų nuo 1 001 jūrų laivo NT vieneto iki 10 000 jūrų laivo NT vienetų – 0,67 euro per dieną;
-
-3) kiekvienam 100 jūrų laivo NT vienetų nuo 10 001 jūrų laivo NT vieneto iki 25 000 jūrų laivo NT vienetų – 0,43 euro per dieną;
-
-4) kiekvienam 100 jūrų laivo NT vienetų nuo 25 000 jūrų laivo NT vienetų – 0,27 euro per dieną.
-
-TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
-
-2. Fiksuoto pelno mokesčio bazei be jokių atskaitymų taikomas 15 procentų tarifas.
-
-3. Nusidėvėjimo ar amortizacijos skaičiavimo apribojimai:
-
-1) jei laivybos vieneto pasirinkimu pagal šio Įstatymo 38(1) straipsnio nuostatas pajamoms iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos buvo taikomos fiksuoto pelno mokesčio apskaičiavimo nuostatos, tai, šioms pajamoms pradėjus taikyti bendras pelno mokesčio apskaičiavimo nuostatas, turto, naudoto šioje veikloje, nusidėvėjimas ar amortizacija neskaičiuojami, jeigu nuo šio turto naudojimo pradžios iki fiksuoto pelno mokesčio mokėjimo laikotarpio pabaigos šis turtas būtų buvęs nudėvėtas ar amortizuotas pagal šio Įstatymo 1 priedėlyje nustatytus normatyvus;
-
-2) jei laivybos vienetas pagal šio Įstatymo 38(1) straipsnio nuostatas pasirinktu fiksuoto pelno mokesčio mokėjimo laikotarpiu (šis laikotarpis pradedamas skaičiuoti nuo mokestinio laikotarpio, kurį laivybos vienetas pirmą kartą įgijo teisę ir pasirinko mokėti fiksuotą pelno mokestį) praranda teisę mokėti fiksuotą pelno mokestį (t. y. nebeatitinka šio Įstatymo 38(1) straipsnio 1 dalyje nustatytų kriterijų) arba atsisako teisės mokėti fiksuotą pelno mokestį, tai pradedant mokestiniu laikotarpiu, kurį buvo prarasta ši teisė (išskyrus šio Įstatymo 38(1) straipsnio 4 dalyje numatytus atvejus) arba kurį buvo atsisakyta šios teisės, turto, naudojamo tarptautiniam vežimui jūrų laivais ir su juo tiesiogiai susijusiai veiklai, nusidėvėjimas ar amortizacija skaičiuojami nuo turto įsigijimo kainos, sumažintos nusidėvėjimo ar amortizacijos suma, kuri būtų apskaičiuota, jeigu laivybos vienetas visą laiką būtų taikęs bendras pelno mokesčio apskaičiavimo nuostatas. Tokiu atveju šio turto nusidėvėjimas ar amortizacija skaičiuojami pagal normatyvus, ne mažesnius, negu nustatyta šio Įstatymo 1 priedėlyje, įskaitant mokestinį(-ius) laikotarpį(-ius), kurį(-iais) tas turtas jau buvo naudotas šiame laivybos vienete.
-
-4. Jei laivybos vieneto pasirinkimu pagal šio straipsnio nuostatas pajamos iš tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos apmokestinamos fiksuotu pelno mokesčiu, avansinis fiksuotas pelno mokestis nemokamas.
-
-Įstatymas papildytas straipsniu:
-
-Nr. X-1110, 2007-05-03, Žin., 2007, Nr. 55-2126 (2007-05-19)
-
-Straipsnio pakeitimai:
-
-Nr. XI-73, 2008-12-18, Žin., 2008, Nr. 149-6000 (2008-12-30)
-
-Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
-
 39 straipsnis. Kontroliuojamųjų užsienio vienetų pajamų apmokestinimas
 
 1. Kontroliuojamųjų užsienio vienetų mokestinis laikotarpis yra kalendoriniai metai, tačiau jei kontroliuojamojo užsienio vieneto mokestinis laikotarpis nesutampa su kalendoriniais metais arba jis nenustatomas, laikoma, kad kontroliuojamojo užsienio vieneto mokestinis laikotarpis sutampa su kontroliuojančio vieneto mokestiniu laikotarpiu.
@@ -2192,8 +2144,6 @@ Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 5. Europos ekonominių interesų grupės dalyvis iš savo pajamų atskaito tas Europos ekonominių interesų grupės sąnaudas, kurios pagal šio Įstatymo nuostatas priskiriamos leidžiamiems atskaitymams ir ribojamų dydžių leidžiamiems atskaitymams.
 
 6. Priskiriamos Europos ekonominių interesų grupės pajamos ir sąnaudos išreiškiamos eurais taikant euro ir užsienio valiutos santykį, nustatytą pagal Lietuvos Respublikos buhalterinės apskaitos įstatymą pajamų ir sąnaudų priskyrimo dieną.
-
-TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
 
 Straipsnio dalies pakeitimai:
 
@@ -2244,8 +2194,6 @@ Straipsnio dalies pakeitimai:
 Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
 
 5. Jei praėjusio mokestinio laikotarpio apmokestinamosios pajamos neviršijo 300 000 eurų, vienetas mokestiniu laikotarpiu avansinio pelno mokesčio mokėti neprivalo.
-
-TAR pastaba. 5 dalies nuostatos taikomos apskaičiuojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
 
 Straipsnio dalies pakeitimai:
 
@@ -2348,4 +2296,76 @@ Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 8. Pasiūlyti Lietuvos Respublikos Vyriausybei parengti šiam Įstatymui įgyvendinti reikalingus teisės aktus.
 
 9. Individualių (personalinių) įmonių ir ūkinių bendrijų nuo 2002 m. liepos 1 d. sumokėta (išieškota) fizinių asmenų pajamų mokesčio, avansinio fizinių asmenų pajamų mokesčio ir išskaičiuoto prie šaltinio fizinių asmenų pajamų mokesčio (išskyrus fizinių asmenų pajamų mokesčio, išskaičiuoto nuo fiziniams asmenims išmokamų sumų) mokestinė nepriemoka įskaitoma ta pačia tvarka kaip ir pelno mokestis, avansinis pelno mokestis ir išskaičiuotas prie šaltinio pelno mokestis.
+
+381 straipsnis. Tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pajamų apmokestinimas
+
+1. Laivybos vieneto pajamos iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos gali būti apmokestinamos pagal šio straipsnio nuostatas, jeigu visą Lietuvos apmokestinamojo vieneto mokestinį laikotarpį arba užsienio apmokestinamojo vieneto, įregistruoto ar organizuoto Europos ekonominės erdvės valstybėje, vykdančio veiklą Lietuvos Respublikos teritorijoje per nuolatinę buveinę, mokestinį laikotarpį laivybos vienetas atitinka šiuos kriterijus:
+
+1) valdo nuosavybės teise arba pagal finansinės nuomos sutartį, kurioje numatytas nuosavybės teisės perėjimas, arba pagal pirkimo–pardavimo ar nuomos sutartį, kurioje numatytas nuosavybės teisės perėjimas laivybos vienetui apmokėjus visą turto vertę, arba pagal laivo nuomos be įgulos sutartį (bareboat charter) arba naudoja pagal laivo frachtavimo sutartį (laivo frachtavimo sutartį laivo reisui (voyage charter) arba terminuotą frachtavimo sutartį (time charter in arba time charter out), kaip numatyta Lietuvos Respublikos prekybinės laivybos įstatymo 2 straipsnyje, jūrų laivus (krovininius, konteinerinius, tanklaivius, keleivinius įvažiuojamuosius, keleivinius, kruizinius), kurie plaukioja su Lietuvos Respublikos arba kitos Europos ekonominės erdvės valstybės vėliava ir yra naudojami tarptautiniam vežimui jūrų laivais arba tarptautiniam vežimui jūrų laivais ar su juo tiesiogiai susijusiai veiklai;
+
+2) laivybos vieneto nuosavybės teise valdomų jūrų laivų NT yra ne mažesnė kaip 10 procentų laivybos vieneto visų valdomų jūrų laivų NT;
+
+3) laivybos vieneto pagal frachtavimo sutartis (laivo frachtavimo sutartis laivo reisui (voyage charter) arba terminuotas frachtavimo sutartis (time charter in), kaip numatyta Lietuvos Respublikos prekybinės laivybos įstatymo 2 straipsnyje, naudojamų jūrų laivų NT yra ne didesnė kaip 75 procentai visų laivybos vieneto valdomų jūrų laivų NT, o pagal laivo nuomos be įgulos sutartis (bareboat charter out) išnuomotų jūrų laivų, turimų nuosavybės teise, NT yra ne didesnė kaip 30 procentų visų laivybos vieneto valdomų jūrų laivų NT;
+
+4) teikia Europos ekonominės erdvės valstybėje strateginio, komercinio, techninio vadovavimo paslaugas jūrų laivams, kuriais atliekamas tarptautinis vežimas jūrų laivais, išskyrus atvejus, kai jūrų laivai naudojami pagal laivo frachtavimo sutartį (laivo frachtavimo sutartį laivo reisui (voyage charter) arba terminuotą frachtavimo sutartį (time charter in), kaip numatyta Lietuvos Respublikos prekybinės laivybos įstatymo 2 straipsnyje, ir kai laivybos vieneto jūrų laivai (valdomi nuosavybės teise) išnuomojami pagal laivo nuomos be įgulos sutartį (bareboat charter out);
+
+5) laivybos vieneto valdomi nuosavybės teise arba pagal finansinės nuomos sutartį, kurioje numatytas nuosavybės teisės perėjimas, arba pagal pirkimo–pardavimo ar nuomos sutartį, kurioje numatytas nuosavybės teisės perėjimas laivybos vienetui apmokėjus visą turto vertę, arba pagal laivo nuomos be įgulos sutartį (bareboat charter) arba naudojami pagal laivo frachtavimo sutartį (laivo frachtavimo sutartį laivo reisui (voyage charter) arba terminuotą frachtavimo sutartį (time charter in), kaip numatyta Lietuvos Respublikos prekybinės laivybos įstatymo 2 straipsnyje, jūrų laivai, kurie naudojami tarptautiniam vežimui jūrų laivais ir su juo tiesiogiai susijusiai veiklai vykdyti, atitinka Lietuvos Respublikos ir Europos Bendrijų teisės aktų nustatytus saugumo reikalavimus.
+
+2. Laivybos vienetui įgijus teisę ir pasirinkus mokėti fiksuotą pelno mokestį, apmokestinimo fiksuotu pelno mokesčiu tvarka taikoma ne trumpiau kaip iki šio straipsnio 5 dalyje nurodytos datos, išskyrus atvejus, kai laivybos vienetas nebeatitinka šio straipsnio 1 dalyje nustatytų kriterijų. Apmokestinimo fiksuotu pelno mokesčiu tvarka turi būti taikoma visiems laivybos vieneto, įskaitant patronuojamąsias bendroves, jūrų laivams, atitinkantiems šio straipsnio 1 dalies 1 punkte nustatytus kriterijus ir naudojamiems tarptautiniam vežimui jūrų laivais arba tarptautiniam vežimui jūrų laivais ir su juo tiesiogiai susijusiai veiklai.
+
+3. Jei laivybos vienetas pasirinktu fiksuoto pelno mokesčio mokėjimo laikotarpiu (šis laikotarpis pradedamas skaičiuoti nuo mokestinio laikotarpio, kurį laivybos vienetas pirmą kartą įgijo teisę ir pasirinko mokėti fiksuotą pelno mokestį) praranda teisę mokėti fiksuotą pelno mokestį (t. y. nebeatitinka šio straipsnio 1 dalyje nustatytų kriterijų) arba atsisako teisės mokėti fiksuotą pelno mokestį nuo pajamų iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, tai pradedant mokestiniu laikotarpiu, kurį buvo prarasta ši teisė (išskyrus šio straipsnio 4 dalyje numatytus atvejus) arba kurį buvo atsisakyta šios teisės, šioms laivybos vieneto pajamoms taikomos bendros pelno mokesčio apskaičiavimo nuostatos ir tokiam laivybos vienetui nebesuteikiama teisė pasirinkti mokėti fiksuotą pelno mokestį visus likusius mokestinius laikotarpius 10 metų periodu (šis periodas pradedamas skaičiuoti nuo mokestinio laikotarpio, kurį laivybos vienetas pirmą kartą įgijo teisę ir pasirinko mokėti fiksuotą pelno mokestį).
+
+4. Kai laivybos vienetas, atitinkantis šio straipsnio 1 dalyje nustatytus kriterijus, pasirinktu fiksuoto pelno mokesčio mokėjimo laikotarpiu (šis laikotarpis pradedamas skaičiuoti nuo mokestinio laikotarpio, kurį laivybos vienetas pirmą kartą įgijo teisę ir pasirinko mokėti fiksuotą pelno mokestį) nebeatitinka šio straipsnio 1 dalyje nustatytų kriterijų dėl nenugalimos jėgos (force majeure) (t. y. dėl nuo laivybos vieneto nepriklausančių priežasčių), teisės naudotis apmokestinimo fiksuotu pelno mokesčiu tvarka toks laivybos vienetas nepraranda, jei iki kito mokestinio laikotarpio, einančio po mokestinio laikotarpio, kurį dėl nenugalimos jėgos (force majeure) laivybos vienetas prarado teisę mokėti fiksuotą pelno mokestį nuo pajamų iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, pabaigos laivybos vienetas atitinka šio straipsnio 1 dalyje nustatytus kriterijus.
+
+5. Apmokestinimo fiksuotu pelno mokesčiu tvarka laivybos vienetui, atitinkančiam šio straipsnio 1 dalyje nustatytus kriterijus, taikoma iki 2026 m. gruodžio 31 d. Laivybos vienetas, atitinkantis šio straipsnio 1 dalyje nustatytus kriterijus ir pasirinkęs taikyti apmokestinimo fiksuotu pelno mokesčiu tvarką, apie pasirinkimą taikyti apmokestinimo fiksuotu pelno mokesčiu tvarką centrinio mokesčių administratoriaus nustatyta tvarka informuoja vietos mokesčių administratorių iki mokestinio laikotarpio, kurį pirmą kartą laivybos vienetas įgijo teisę ir pasirinko mokėti fiksuotą pelno mokestį, pirmojo ketvirčio paskutinės dienos.
+
+Įstatymas papildytas straipsniu:
+
+Nr. X-1110, 2007-05-03, Žin., 2007, Nr. 55-2126 (2007-05-19)
+
+Straipsnio pakeitimai:
+
+Nr. X-1484, 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
+
+382 straipsnis. Fiksuoto pelno mokesčio apskaičiavimas
+
+1. Jei laivybos vieneto pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pagal šio Įstatymo 381 straipsnio nuostatas taikomas fiksuotas pelno mokestis, tai fiksuoto pelno mokesčio bazė apskaičiuojama kiekvienam 100 jūrų laivo NT vienetų taikant fiksuotą dienos sumą ir gautą dydį dauginant iš laivybos vieneto mokestinio laikotarpio dienų skaičiaus. Fiksuota suma:
+
+1) kiekvienam 100 jūrų laivo NT vienetų iki 1 000 jūrų laivo NT vienetų – 0,93 euro per dieną;
+
+2) kiekvienam 100 jūrų laivo NT vienetų nuo 1 001 jūrų laivo NT vieneto iki 10 000 jūrų laivo NT vienetų – 0,67 euro per dieną;
+
+3) kiekvienam 100 jūrų laivo NT vienetų nuo 10 001 jūrų laivo NT vieneto iki 25 000 jūrų laivo NT vienetų – 0,43 euro per dieną;
+
+4) kiekvienam 100 jūrų laivo NT vienetų nuo 25 001 jūrų laivo NT vieneto – 0,27 euro per dieną.
+
+2. Fiksuoto pelno mokesčio bazei be jokių atskaitymų taikomas 15 procentų tarifas.
+
+3. Nusidėvėjimo ar amortizacijos skaičiavimo apribojimai:
+
+1) jei laivybos vieneto pasirinkimu pagal šio Įstatymo 381 straipsnio nuostatas pajamoms iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos buvo taikomos fiksuoto pelno mokesčio apskaičiavimo nuostatos, tai, šioms pajamoms pradėjus taikyti bendras pelno mokesčio apskaičiavimo nuostatas, turto, naudoto šioje veikloje, nusidėvėjimas ar amortizacija neskaičiuojami, jeigu nuo šio turto naudojimo pradžios iki fiksuoto pelno mokesčio mokėjimo laikotarpio pabaigos šis turtas būtų buvęs nudėvėtas ar amortizuotas pagal šio Įstatymo 1 priedėlyje nustatytus normatyvus;
+
+2) jei laivybos vienetas pagal šio Įstatymo 381 straipsnio nuostatas pasirinktu fiksuoto pelno mokesčio mokėjimo laikotarpiu (šis laikotarpis pradedamas skaičiuoti nuo mokestinio laikotarpio, kurį laivybos vienetas pirmą kartą įgijo teisę ir pasirinko mokėti fiksuotą pelno mokestį) praranda teisę mokėti fiksuotą pelno mokestį (t. y. nebeatitinka šio Įstatymo 381 straipsnio 1 dalyje nustatytų kriterijų) arba atsisako teisės mokėti fiksuotą pelno mokestį, tai pradedant mokestiniu laikotarpiu, kurį buvo prarasta ši teisė (išskyrus šio Įstatymo 381 straipsnio 4 dalyje numatytus atvejus) arba kurį buvo atsisakyta šios teisės, turto, naudojamo tarptautiniam vežimui jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusiai veiklai, nusidėvėjimas ar amortizacija skaičiuojami nuo turto įsigijimo kainos, sumažintos nusidėvėjimo ar amortizacijos suma, kuri būtų apskaičiuota, jeigu laivybos vienetas visą laiką būtų taikęs bendras pelno mokesčio apskaičiavimo nuostatas. Tokiu atveju šio turto nusidėvėjimas ar amortizacija skaičiuojami pagal normatyvus, ne mažesnius, negu nustatyta šio Įstatymo 1 priedėlyje, įskaitant mokestinį (mokestinius) laikotarpį (laikotarpius), kurį (kuriais) tas turtas jau buvo naudotas šiame laivybos vienete.
+
+4. Jei laivybos vieneto pasirinkimu pagal šio straipsnio nuostatas pajamos iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos apmokestinamos fiksuotu pelno mokesčiu, avansinis fiksuotas pelno mokestis nemokamas.
+
+5. Lietuvos Respublikos Vyriausybės įgaliota institucija nustato eksploatuojamo turto, kuris priskiriamas jūrų transportui, perleidimo pajamų priskyrimo tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pajamoms tvarką.
+
+Įstatymas papildytas straipsniu:
+
+Nr. X-1110, 2007-05-03, Žin., 2007, Nr. 55-2126 (2007-05-19)
+
+Straipsnio pakeitimai:
+
+Nr. XI-73, 2008-12-18, Žin., 2008, Nr. 149-6000 (2008-12-30)
+
+Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
 
