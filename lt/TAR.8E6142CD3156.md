@@ -4,7 +4,7 @@ identifier: "TAR.8E6142CD3156"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-11-13"
-last_updated: "2013-04-01"
+last_updated: "2017-06-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8E6142CD3156"
 department: "Lietuvos Respublikos Seimas"
@@ -19,6 +19,10 @@ entry_into_force_conditions: "7 straipsnis įsigalioja 2012-11-24."
 LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO IR MIŠKININKYSTĖS PASLAUGŲ TEIKIMO PAGAL
 
 PASLAUGŲ KVITĄ ĮSTATYMAS
+
+Suvestinė redakcija nuo 2017-06-10 iki 2021-08-31
+
+Įstatymas paskelbtas: Žin. 2012, Nr. 136-6965, i. k. 1121010ISTA0XI-2411
 
 LIETUVOS RESPUBLIKOS  ŽEMĖS ŪKIO IR MIŠKININKYSTĖS PASLAUGŲ TEIKIMO  PAGAL PASLAUGŲ KVITĄ  ĮSTATYMAS
 
@@ -88,11 +92,23 @@ Valstybinio socialinio draudimo fondo administravimo įstaigos yra pagal paslaug
 
 Vyriausybė ar jos įgaliota institucija iki 2013 m. kovo 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 
-8 straipsnis. Įstatymo stebėsena ir rezultatų įvertinimas
+8 straipsnis. Neteko galios nuo 2017-06-10
 
-Lietuvos Respublikos socialinės apsaugos ir darbo ministerija atlieka šio įstatymo įgyvendinimo stebėseną ir nuo 2013 metų kiekvienais metais iki gruodžio 31 dienos pateikia Vyriausybei šio įstatymo įgyvendinimo stebėsenos ir pasiektų rezultatų įvertinimo pažymą, kurioje nurodomos teigiamos ir neigiamos šio įstatymo įgyvendinimo pasekmės bei pasiūlymai dėl šio įstatymo ir kitų, su jo įgyvendinimu susijusių, įstatymų tobulinimo.
+Straipsnio naikinimas:
+
+Nr. XIII-407, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09792
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-407, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09792
+
+Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo Nr. XI-2411 8 straipsnio pripažinimo netekusiu galios įstatymas
 
