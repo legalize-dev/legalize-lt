@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2017-05-25"
+last_updated: "2017-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2017-05-25 iki 2017-06-14
+Suvestinė redakcija nuo 2017-06-15 iki 2017-06-25
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -813,6 +813,12 @@ Lietuvos Respublikos teismų ir prokuratūros susižinojimas su užsienio valsty
 
 2. Lietuvos Respublikos teismai ir prokuratūra prašymus užsienio valstybių įstaigoms ir tarptautinėms organizacijoms siunčia per Lietuvos Respublikos teisingumo ministeriją ar Lietuvos Respublikos generalinę prokuratūrą. Neatidėliotinais atvejais Lietuvos Respublikos teismų ir prokuratūros prašymai kitoms Europos Sąjungos valstybėms narėms gali būti siunčiami per Lietuvos Respublikos generalinės prokuratūros prokurorą – Lietuvos nacionalinį narį Eurojuste (Lietuvos nacionalinio nario Eurojuste pavaduotoją). Lietuvos Respublikos tarptautinių sutarčių numatytais atvejais Lietuvos Respublikos teismai, prokuratūra ir ikiteisminio tyrimo įstaigos prašymus užsienio valstybių įstaigoms ir tarptautinėms organizacijoms gali siųsti tiesiogiai.
 
+3. Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ numatytais atvejais ir tvarka procesiniai dokumentai, kuriais siekiama surinkti įrodymus ar gauti jau surinktus įrodymus arba laikinai apsaugoti daiktus, dokumentus ar kitą turtą, kurie galėtų būti konfiskuoti arba pripažinti turinčiais įrodomąją reikšmę baudžiamajame procese, nuo sunaikinimo, pakeitimo, išvežimo iš kitos Europos Sąjungos valstybės narės, pardavimo ar kitokio perleidimo, gali būti perduoti vykdyti kitai Europos Sąjungos valstybei narei.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-398, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09781
+
 Straipsnio pakeitimai:
 
 Nr. XII-346, 2013-05-30, Žin., 2013, Nr. 62-3058 (2013-06-12)
@@ -828,6 +834,12 @@ Nr. XII-346, 2013-05-30, Žin., 2013, Nr. 62-3058 (2013-06-12)
 4. Užsienio valstybių teismų, prokuratūros ir ikiteisminio tyrimo įstaigų arba Tarptautinio baudžiamojo teismo ar kitų tarptautinių organizacijų pareigūnams Lietuvos Respublikos teritorijoje leidžiama atlikti proceso veiksmus tik Lietuvos Respublikos tarptautinėje sutartyje numatytais atvejais ir dalyvaujant Lietuvos Respublikos pareigūnams.
 
 5. Lietuvos Respublikos tarptautinėje sutartyje numatytais atvejais Lietuvos Respublikos teismai, prokuratūra, ikiteisminio tyrimo įstaigos vykdo tiesiogiai gautus užsienio valstybių įstaigų ir tarptautinių organizacijų prašymus bei tiesiogiai užsienio valstybėms ir tarptautinėms organizacijoms siunčia atsakymus į prašymus.
+
+6. Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ numatytais atvejais ir tvarka gali būti vykdomi kitos Europos Sąjungos valstybės narės procesiniai dokumentai, kuriais siekiama surinkti ar gauti jau surinktus įrodymus arba laikinai apsaugoti daiktus, dokumentus ar kitą turtą, kurie galėtų būti konfiskuoti arba pripažinti turinčiais įrodomąją reikšmę baudžiamajame procese, nuo sunaikinimo, pakeitimo, išvežimo iš Lietuvos Respublikos, pardavimo ar kitokio perleidimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-398, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09781
 
 Straipsnio pakeitimai:
 
@@ -957,11 +969,17 @@ Straipsnio pakeitimai:
 
 Nr. IX-2170, 2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
 
-77 straipsnis. Suimto arba nuteisto asmens laikinas perdavimas kitai valstybei ar Tarptautiniam baudžiamajam teismui proceso veiksmams atlikti
+77 straipsnis. Suimto arba su laisvės atėmimu susijusią bausmę atliekančio asmens laikinas perdavimas kitai valstybei ar Tarptautiniam baudžiamajam teismui ir laikinas perėmimas iš kitos valstybės proceso veiksmams atlikti
 
-1. Lietuvos Respublikos tarptautinėje sutartyje numatytais atvejais ir tvarka suimtas arba nuteistas asmuo gali būti laikinai perduotas kitai valstybei ar Tarptautiniam baudžiamajam teismui proceso veiksmams atlikti.
+1. Lietuvos Respublikos tarptautinėje sutartyje numatytais atvejais ir tvarka suimtas arba su laisvės atėmimu susijusią bausmę atliekantis asmuo gali būti laikinai perduotas kitai valstybei ar Tarptautiniam baudžiamajam teismui ir laikinai perimtas iš kitos valstybės proceso veiksmams atlikti.
 
-2. Sprendimą dėl suimto arba nuteisto asmens laikino perdavimo kitai valstybei ir šio perdavimo sąlygų priima Lietuvos Respublikos generalinė prokuratūra.
+2. Sprendimą dėl suimto arba su laisvės atėmimu susijusią bausmę atliekančio asmens laikino perdavimo kitai valstybei ir laikino perėmimo iš kitos valstybės priima ir dėl šio perdavimo ar perėmimo sąlygų su kitos valstybės kompetentinga institucija susitaria Lietuvos Respublikos generalinės prokuratūros prokuroras.
+
+3. Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ numatytais atvejais ir tvarka suimtas arba su laisvės atėmimu susijusią bausmę atliekantis asmuo gali būti laikinai perduotas kitai Europos Sąjungos valstybei narei arba perimtas iš kitos Europos Sąjungos valstybės narės į Lietuvos Respubliką proceso veiksmams atlikti.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-398, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09781
 
 80 straipsnis. Aplinkybės, dėl kurių asmenys negali būti apklausiami kaip liudytojai
 
@@ -2859,7 +2877,11 @@ priedas
 
 3. 2002 m. birželio 13 d. Tarybos pagrindų sprendimas 2002/584/TVR dėl Europos arešto orderio perdavimo tarp valstybių narių tvarkos (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 34).
 
-4. 2003 m. liepos 22 d. Tarybos pagrindų sprendimas 2003/577/TVR dėl turto arba įrodymų arešto aktų vykdymo Europos Sąjungoje (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 185).
+4. Neteko galios nuo 2017-06-15
+
+Punkto naikinimas:
+
+Nr. XIII-398, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09781
 
 5. 2005 m. vasario 24 d. Tarybos pagrindų sprendimas 2005/214/TVR dėl abipusio pripažinimo principo taikymo finansinėms baudoms (OL 2005 L 76, p. 16).
 
@@ -4635,13 +4657,11 @@ Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
 
 Nr. XI-1481, 2011-06-21, Žin., 2011, Nr. 85-4127 (2011-07-13)
 
-411 straipsnis. Turto ar įrodymų arešto aktas
+411 straipsnis. Neteko galios nuo 2017-06-15
 
-Turto ar įrodymų arešto aktas – bet koks procesinis dokumentas, kurį išdavė Europos Sąjungos valstybės narės kompetentinga teisminė institucija siekdama laikinai apsaugoti daiktus, dokumentus ar kitą turtą, kurie galėtų būti konfiskuoti arba pripažinti turinčiais įrodomąją reikšmę baudžiamajame procese, nuo sunaikinimo, pakeitimo, išvežimo iš vykdančiosios valstybės, pardavimo ar kitokio perleidimo.
+Straipsnio naikinimas:
 
-Kodeksas papildytas straipsniu:
-
-Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
+Nr. XIII-398, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09781
 
 42 straipsnis. Valstybinis kaltinimas
 
@@ -5055,47 +5075,11 @@ Kodeksas papildytas straipsniu:
 
 Nr. IX-2170, 2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
 
-772 straipsnis. Europos Sąjungos valstybės narės kompetentingos teisminės institucijos išduoto turto ar įrodymų arešto akto pripažinimas ir vykdymas Lietuvos Respublikoje
+772 straipsnis. Neteko galios nuo 2017-06-15
 
-1. Europos Sąjungos valstybės narės kompetentingos teisminės institucijos išduoto turto ar įrodymų arešto akto pripažinimą ir vykdymą organizuoja Lietuvos Respublikos generalinė prokuratūra.
+Straipsnio naikinimas:
 
-2. Turto ar įrodymų arešto aktas pripažįstamas Lietuvos Respublikos generalinės prokuratūros prokuroro nutarimu.
-
-3. Lietuvos Respublikos generalinės prokuratūros prokuroras, gavęs turto ar įrodymų arešto aktą, jo nepripažįsta, jeigu:
-
-1) turto ar įrodymų arešto akto vykdymas pažeistų pagrindines žmogaus teises ir (ar) laisves;
-
-2) turto ar įrodymų arešto akto ar su juo susijusio teisinės pagalbos prašymo vykdymas pažeistų draudimą bausti asmenį už tą pačią nusikalstamą veiką antrą kartą;
-
-3) turto ar įrodymų arešto aktas skirtas daiktams, dokumentams ar kitam turtui, kuriems pagal tarptautinės ar nacionalinės teisės normas taikomas imunitetas nuo baudžiamosios jurisdikcijos, arba kai Lietuvos Respublikos įstatymai draudžia tokių daiktų, dokumentų ar kito turto paėmimą;
-
-4) turto ar įrodymų arešto aktas išduotas dėl veikos, kuri pagal Lietuvos Respublikos baudžiamuosius įstatymus nėra laikoma nusikaltimu ar baudžiamuoju nusižengimu, išskyrus atvejus, kai turto ar įrodymų arešto aktas išduotas dėl 2003 m. liepos 22 d. Tarybos pagrindų sprendimo 2003/577/TVR dėl turto arba įrodymų arešto aktų vykdymo Europos Sąjungoje 3 straipsnio 2 dalyje numatytos nusikalstamos veikos ir šį aktą išdavusios valstybės baudžiamieji įstatymai už šią nusikalstamą veiką numato ne mažesnę negu trejų metų su laisvės atėmimu susijusią bausmę.
-
-4. Lietuvos Respublikos generalinės prokuratūros prokuroras, gavęs turto ar įrodymų arešto aktą, jo gali nepripažinti ir tada, kai nėra gautas 2003 m. liepos 22 d. Tarybos pagrindų sprendimo 2003/577/TVR dėl turto arba įrodymų arešto aktų vykdymo Europos Sąjungoje 9 straipsnyje numatytas liudijimas arba jis yra neišsamus, arba aiškiai neatitinka turto ar įrodymų arešto akto, arba gauti dokumentai nėra išversti į lietuvių ar anglų kalbą. Tokiu atveju prokuroras gali nustatyti galutinį liudijimo ar kitų dokumentų pateikimo ar patikslinimo terminą, vietoj liudijimo priimti lygiavertį dokumentą arba atleisti turto ar įrodymų arešto aktą išdavusią instituciją nuo šio reikalavimo, jeigu pakanka pateiktos informacijos.
-
-5. Lietuvos Respublikos generalinės prokuratūros prokuroras, pripažinęs turto ar įrodymų arešto aktą, gali nuspręsti jo vykdymą laikinai atidėti, jeigu:
-
-1) turto ar įrodymų arešto akto vykdymas pakenktų vykstančiai kriminalinei žvalgybai arba baudžiamajam procesui;
-
-2) turto ar įrodymų arešto aktas išduotas daiktams, dokumentams ar kitam turtui, į kuriuos jau laikinai apribota nuosavybės teisė arba jie paimti šio Kodekso nustatyta tvarka.
-
-6. Nutarimas pripažinti turto ar įrodymų arešto aktą arba nutarimas atsisakyti pripažinti turto ar įrodymų arešto aktą, arba nutarimas laikinai atidėti jo vykdymą paprastai priimamas ne vėliau kaip per 24 valandas nuo turto ar įrodymų arešto akto gavimo. Apie priimtą sprendimą ir jo motyvus nedelsiant raštu informuojama turto ar įrodymų arešto aktą išdavusi institucija. Išnykus priežastims, dėl kurių buvo atidėtas turto ar įrodymų arešto akto vykdymas, Lietuvos Respublikos generalinė prokuratūra savarankiškai imasi veiksmų vykdyti turto ar įrodymų arešto aktą, apie tai raštu informuodama jį išdavusią instituciją.
-
-7. Priėmęs nutarimą pripažinti turto ar įrodymų arešto aktą, Lietuvos Respublikos generalinės prokuratūros prokuroras jį vykdo laikinai apribodamas asmens nuosavybės teisę į turto ar įrodymų arešto akte nurodytą turtą, darydamas kratą ar poėmį arba imdamasis kitų šiame Kodekse numatytų proceso veiksmų. Turto ar įrodymų arešto akto vykdymo veiksmai gali būti pavedami atlikti teritorinėms prokuratūroms ar ikiteisminio tyrimo įstaigoms. Jeigu turto ar įrodymų arešto akto neįmanoma įvykdyti dėl to, kad jame nurodyti daiktai, dokumentai ar kitas turtas yra dingę, sunaikinti arba jų negalima rasti nurodytoje vietoje, Lietuvos Respublikos generalinės prokuratūros prokuroras priima nutarimą nutraukti turto ar įrodymų arešto akto vykdymą ir apie tai raštu informuojama jį išdavusi institucija.
-
-8. Prokuroro nutarimas pripažinti turto ar įrodymų arešto aktą arba jo veiksmai vykdant turto ar įrodymų arešto aktą gali būti skundžiami ikiteisminio tyrimo teisėjui šio Kodekso nustatyta tvarka. Apie skundo padavimą, taip pat apie skundo nagrinėjimo rezultatus raštu informuojama turto ar įrodymų arešto aktą išdavusi institucija.
-
-9. Kartu su turto ar įrodymų arešto aktu atsiųsti ar vėliau gauti kitų valstybių prašymai perduoti turto ar įrodymų arešto akte nurodytus daiktus, dokumentus ar kitą turtą arba juos konfiskuoti nagrinėjami šio Kodekso ir Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka.
-
-10. Laikinas nuosavybės teisės apribojimas ar kitoks daiktų, dokumentų ar kito turto, dėl kurių buvo išduotas turto ar įrodymų arešto aktas, paėmimas taikomas tol, kol šio straipsnio 9 dalyje nustatyta tvarka bus nuspręsta dėl jų perdavimo prašančiajai valstybei ar jų konfiskavimo arba kol turto ar įrodymų arešto aktą išdavusi institucija informuos apie turto ar įrodymų arešto akto atšaukimą, arba kol sueis procesinių prievartos priemonių taikymo maksimalūs terminai, kuriuos analogiškais atvejais nustato šis Kodeksas. Apie būsimą laikino nuosavybės teisės apribojimo panaikinimą ar kitus veiksmus, kuriais nutraukiamas turto ar įrodymų arešto akto vykdymas, iš anksto raštu informuojama jį išdavusi institucija.
-
-Kodeksas papildytas straipsniu:
-
-Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
-
-Straipsnio pakeitimai:
-
-Nr. XI-2240, 2012-10-02, Žin., 2012, Nr. 122-6099 (2012-10-20)
+Nr. XIII-398, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09781
 
 V skyrius
 
