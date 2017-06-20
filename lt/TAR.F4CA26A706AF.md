@@ -4,7 +4,7 @@ identifier: "TAR.F4CA26A706AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-25"
-last_updated: "2016-10-01"
+last_updated: "2017-06-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas
 
-Suvestinė redakcija nuo 2016-10-01 iki 2017-06-19
+Suvestinė redakcija nuo 2017-06-20
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 105-3019, i. k. 0991010ISTAIII-1443
 
@@ -312,7 +312,11 @@ PERSONALO PATIKIMUMO UŽTIKRINIMAS
 
 17. Paslapčių subjektas – valstybės ir savivaldybės institucija, kurios veikla susijusi su informacijos įslaptinimu, išslaptinimu, įslaptintos informacijos naudojimu ir (ar) apsauga, tokiai institucijai pavaldi ar jos reguliavimo sričiai priskirta įstaiga, įmonė, kurioms suteiktas paslapčių subjekto statusas, pritarus Lietuvos Respublikos paslapčių apsaugos koordinavimo komisijai (toliau – Paslapčių apsaugos koordinavimo komisija).
 
-18. Paslapčių subjekto ar tiekėjo darbuotojas – asmuo, kurį su paslapčių subjektu ar tiekėju sieja tarnybos ar darbo santykiai.
+18. Paslapčių subjekto ar tiekėjo darbuotojas – asmuo, kurį su paslapčių subjektu ar tiekėju sieja tarnybos ar darbo santykiai, taip pat asmuo, kuris, sudaręs praktinio mokymo, savanoriškos praktikos ar profesinės veiklos praktikos sutartį, paslapčių subjekte ar pas tiekėją atlieka praktiką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 19. Personalo patikimumo užtikrinimas – darbo ar susipažinimo su įslaptinta informacija sąlygų nustatymas ir asmenų, kurie pretenduoja gauti leidimus dirbti ar susipažinti su įslaptinta informacija arba teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, tikrinimo procedūros, kurias atlikus priimamas sprendimas, ar asmeniui galima patikėti įslaptintą informaciją, taip pat šių asmenų kontrolė (priežiūra) ir periodiškas instruktavimas apie įslaptintos informacijos apsaugos reikalavimus ir supažindinimas su atsakomybe už tokių reikalavimų pažeidimą.
 
@@ -438,6 +442,12 @@ ANTRASIS SKIRSNIS
 
 5. Paslapčių subjektuose, paslapčių subjektui pavaldžiose ar jo reguliavimo sričiai priskirtose įstaigose, įmonėse, disponuojančiose Lietuvos Respublikos, užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų įslaptinta informacija, turi būti sudarytas sąrašas asmenų, kuriems yra išduoti leidimai dirbti ar susipažinti su įslaptinta informacija. Šiame sąraše turi būti nurodoma aukščiausia įslaptintos informacijos, su kuria asmeniui yra leidžiama dirbti ar susipažinti, slaptumo žyma, leidimo dirbti ar susipažinti su įslaptinta informacija registracijos numeris, išdavimo data ir galiojimo terminas.
 
+6. Krašto apsaugos ministras ar jo įgaliotas asmuo sudaro sąrašą nuolatinės šaulio tarnybos ir šaulio tarnybos Lietuvos šaulių sąjungos koviniuose būriuose pareigybių, kurioms nustatomas reikalavimas turėti leidimą dirbti ar susipažinti su įslaptinta informacija arba teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
+
 15 straipsnis. Darbo ar susipažinimo su įslaptinta informacija sąlygos
 
 1. Lietuvos Respublikos įslaptintą informaciją, žymimą slaptumo žymomis „Visiškai slaptai“, „Slaptai“ arba „Konfidencialiai“, užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų Lietuvos Respublikai perduotą įslaptintą informaciją, žymimą slaptumo žymų „Visiškai slaptai“, „Slaptai“ arba „Konfidencialiai“ atitikmenimis, naudoti, saugoti ar tokią informaciją gabenti gali tik atitinkamus leidimus dirbti ar susipažinti su įslaptinta informacija turintys asmenys.
@@ -456,11 +466,21 @@ ANTRASIS SKIRSNIS
 
 8. Išimtiniais atvejais, nustatytais NATO norminiuose dokumentuose, reglamentuojančiuose įslaptintos informacijos apsaugą, asmeniui, neturinčiam leidimo dirbti ar susipažinti su įslaptinta informacija, paslapčių subjekto vadovas gali išduoti rašytinį laikiną leidimą susipažinti su Lietuvos Respublikos perduota NATO įslaptinta informacija. Šiame leidime privalo būti nurodyta, su kokia įslaptinta informacija asmeniui suteikiama teisė susipažinti.
 
+81. Su įslaptinta informacija gali susipažinti ar ją naudoti krašto apsaugos ministro ar jo įgalioto asmens sudarytame sąraše nurodyti Lietuvos šaulių sąjungos nariai, atliekantys nuolatinę šaulio tarnybą Lietuvos šaulių sąjungoje, tarnaujantys Lietuvos šaulių sąjungos koviniuose būriuose ar kiti Lietuvos šaulių sąjungos nariai, dėl kurių yra priimamas krašto apsaugos ministro ar jo įgalioto asmens sprendimas, kad jiems vykdant tarnybą reikia susipažinti su įslaptinta informacija. Tokiems Lietuvos šaulių sąjungos nariams leidimai dirbti ar susipažinti su įslaptinta informacija išduodami arba teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikiama šiame skirsnyje nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
+
 9. Šio straipsnio 6, 7 ir 8 dalyse išvardyti asmenys, prieš jiems suteikiant teisę susipažinti su įslaptinta informacija, yra įspėjami dėl atsakomybės už įslaptintos informacijos neteisėtą atskleidimą ar praradimą ir už įslaptintos informacijos apsaugą atsakingam asmeniui turi pateikti rašytinį pasižadėjimą saugoti įslaptintą informaciją.
 
 16 straipsnis. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“
 
-1. Paslapčių subjekto darbuotojams teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikia paslapčių subjekto vadovas ar jo įgaliotas asmuo. Paslapčių subjekto vadovui teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikia paslapčių subjekto vadovą į pareigas skiriantis asmuo ar jo įgaliotas asmuo. Ši teisė suteikiama iki darbo (tarnybos) santykių nutraukimo ar iki renkamų arba skiriamų į pareigas asmenų įgaliojimų laiko pasibaigimo.
+1. Paslapčių subjekto darbuotojams teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikia paslapčių subjekto vadovas ar jo įgaliotas asmuo, šauliams – krašto apsaugos ministras ar jo įgaliotas asmuo. Paslapčių subjekto vadovui teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikia paslapčių subjekto vadovą į pareigas skiriantis asmuo ar jo įgaliotas asmuo. Ši teisė suteikiama iki darbo (tarnybos) santykių nutraukimo arba iki renkamų ar skiriamų į pareigas asmenų įgaliojimų laiko pasibaigimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 2. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, nesuteikiama arba panaikinama, jeigu asmuo:
 
@@ -476,13 +496,21 @@ ANTRASIS SKIRSNIS
 
 6) turi psichikos ar kitų sveikatos apsaugos ministro patvirtintame sąraše numatytų sveikatos būklės sutrikimų, dėl kurių kyla grėsmė patikėtos įslaptintos informacijos saugumui.
 
-3. Informaciją, ar asmuo atitinka šio straipsnio 2 dalyje nustatytas sąlygas, surenka paslapčių subjekto vadovas arba jo įgaliotas asmuo iš valstybės registrų (kadastrų), klasifikatorių ir kitų duomenų bankų arba kreipdamasis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, tvarkančias atitinkamą informaciją, kad šios ne vėliau kaip per 10 darbo dienų pateiktų apie tokį asmenį jų turimą informaciją. Paslapčių subjekto vadovas arba jo įgaliotas asmuo gali tikrinamo asmens paprašyti pateikti tikrinimui reikalingą informaciją ar dokumentus.
+3. Informaciją, ar asmuo atitinka šio straipsnio 2 dalyje nustatytas sąlygas, surenka paslapčių subjekto vadovas ar jo įgaliotas asmuo arba krašto apsaugos ministras ar jo įgaliotas asmuo, jeigu tikrinamas asmuo yra šaulys, iš valstybės registrų (kadastrų), klasifikatorių ir kitų duomenų bankų arba kreipdamasis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, tvarkančias atitinkamą informaciją, kad šios ne vėliau kaip per 10 darbo dienų pateiktų apie tokį asmenį jų turimą informaciją. Paslapčių subjekto vadovas arba jo įgaliotas asmuo gali tikrinamo asmens paprašyti pateikti tikrinimui reikalingą informaciją ar dokumentus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 4. Asmens tikrinimas dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo pradedamas gavus asmens rašytinį sutikimą būti tikrinamam. Sprendimas dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo turi būti priimtas ne vėliau kaip per 20 darbo dienų nuo tikrinimo pradžios.
 
 5. Asmenys, kuriems yra išduotas leidimas dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žymomis „Visiškai slaptai“, „Slaptai“ arba „Konfidencialiai“, nėra tikrinami dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo.
 
-6. Jeigu teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, asmeniui buvo panaikinta nutraukus darbo (tarnybos) santykius ar pasibaigus renkamų arba skiriamų į pareigas asmenų įgaliojimų laikui, teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, asmeniui iš naujo suteikiama be tikrinimo, jeigu nuo darbo (tarnybos) santykių nutraukimo ar renkamų arba skiriamų į pareigas asmenų įgaliojimų laiko pabaigos nepraėjo 12 mėnesių ir nuo paskutinio asmens tikrinimo dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo nepraėjo 10 metų.
+6. Jeigu leidimas dirbti ar susipažinti su įslaptinta informacija arba teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, asmeniui buvo panaikinta nutraukus darbo (tarnybos) santykius arba pasibaigus renkamų ar skiriamų į pareigas asmenų įgaliojimų laikui, teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, asmeniui iš naujo suteikiama be tikrinimo, jeigu nuo darbo (tarnybos) santykių nutraukimo arba renkamų ar skiriamų į pareigas asmenų įgaliojimų laiko pabaigos nepraėjo 12 mėnesių ir nuo paskutinio asmens tikrinimo dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo arba teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo nepraėjo 10 metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 17 straipsnis. Leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo sąlygos, galiojimas ir sprendimų apskundimas
 
@@ -962,7 +990,11 @@ DEVINTASIS SKIRSNIS
 
 6. Asmenis, kurie pretenduoja gauti leidimą dirbti ar susipažinti su įslaptinta informacija, tikrina:
 
-1) Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos, kai tikrinamas asmuo eina ar pretenduoja eiti pareigas krašto apsaugos sistemoje, Lietuvos šaulių sąjungoje;
+1) Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos, kai tikrinamas asmuo eina ar pretenduoja eiti pareigas krašto apsaugos sistemoje, yra šaulys ar pretenduoja juo tapti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 2) vidaus reikalų ministro įgaliotos institucijos, kai tikrinamas asmuo eina ar pretenduoja eiti pareigas vidaus reikalų sistemoje;
 
@@ -984,7 +1016,11 @@ DEVINTASIS SKIRSNIS
 
 19 straipsnis. Leidimo dirbti ar susipažinti su įslaptinta informacija išdavimas ir saugumo instruktažas
 
-1. Leidimą dirbti ar susipažinti su įslaptinta informacija, įvertinęs asmens tikrinimą atlikusios institucijos išvadą, išduoda paslapčių subjekto vadovas ar jo įgaliotas asmuo. Paslapčių subjekto vadovui leidimą dirbti ar susipažinti su įslaptinta informacija išduoda paslapčių subjekto vadovą į pareigas skiriantis asmuo ar jo įgaliotas asmuo.
+1. Leidimą dirbti ar susipažinti su įslaptinta informacija, įvertinęs asmens tikrinimą atlikusios institucijos išvadą, išduoda paslapčių subjekto vadovas ar jo įgaliotas asmuo. Paslapčių subjekto vadovui leidimą dirbti ar susipažinti su įslaptinta informacija išduoda paslapčių subjekto vadovą į pareigas skiriantis asmuo ar jo įgaliotas asmuo. Šauliams leidimus dirbti ar susipažinti su įslaptinta informacija išduoda krašto apsaugos ministras ar jo įgaliotas asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 2. Sprendimas dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Skundo dėl sprendimo išduoti leidimą dirbti ar susipažinti su įslaptinta informacija nustatytu laiku padavimas ir jo priėmimas sustabdo išduoto leidimo dirbti ar susipažinti su įslaptinta informacija galiojimą iki bylos dėl skundo išnagrinėjimo.
 
@@ -1505,4 +1541,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2375, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14735
 
 Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
+
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 2, 13, 15, 16, 18, 19 ir 36 straipsnių pakeitimo įstatymas
 
