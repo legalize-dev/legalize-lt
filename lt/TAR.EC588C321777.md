@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2017-06-15"
+last_updated: "2017-06-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2017-06-15 iki 2017-06-25
+Suvestinė redakcija nuo 2017-06-26 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -1896,6 +1896,12 @@ Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
 3) pakeisti nuosprendį šio Kodekso 328 straipsnio 3 ir 4 punktuose numatytais pagrindais;
 
 4) panaikinti nuosprendį ir perduoti bylą iš naujo nagrinėti teismui, jeigu bylą išnagrinėjo šališkas pirmosios instancijos teismas arba byla išnagrinėta pažeidžiant šio Kodekso 224 ir 225 straipsniuose nustatytas teismingumo taisykles, arba kai apeliacinės instancijos teisme paaiškėja, kad nuteistasis veikos padarymo metu sirgo ar iki nuosprendžio priėmimo pirmosios instancijos teisme susirgo psichikos liga ir jam turėjo būti taikomos priverčiamosios medicinos priemonės;
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo proceso kodekso 326 straipsnio 1 dalies 4 punktas (2007 m. birželio 28 d. redakcija; Žin., 2007, Nr. 81-3312) tiek, kiek jame nenustatyti apeliacinės instancijos teismo įgaliojimai, ištyrus įrodymus, kuriuos įvertinus galėtų būti padarytos išvados, kad faktinės aplinkybės iš esmės skiriasi nuo nustatytųjų pirmosios instancijos teismo ir tai gali lemti esminį nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, padėties pabloginimą, perduoti bylą iš naujo nagrinėti pirmosios instancijos teismui, prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 1 daliai, konstituciniams teisinės valstybės, teisingumo principams.
+
+Straipsnio punkto pakeitimai:
+
+Nr. KT8-N6/2017, 2017-06-26, paskelbta TAR 2017-06-26, i. k. 2017-10749
 
 5) panaikinti nuosprendį ir perduoti bylą prokurorui, kai ikiteisminio tyrimo metu buvo surašytas iš esmės šio Kodekso 219 straipsnio reikalavimų neatitinkantis kaltinamasis aktas ir tai trukdo nagrinėti bylą.
 
