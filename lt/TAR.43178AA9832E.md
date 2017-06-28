@@ -4,7 +4,7 @@ identifier: "TAR.43178AA9832E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-11-06"
-last_updated: "2017-01-01"
+last_updated: "2017-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.43178AA9832E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28 iki 2017-07-12
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
 
@@ -44,11 +44,13 @@ Nr. XII-2215, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21010
 
 2. Ūkininkų ūkių, gyventojų, kurie verčiasi individualia veikla, pelno nesiekiančių ribotos civilinės atsakomybės juridinių asmenų buhalterinės apskaitos tvarką nustato Vyriausybė arba jos įgaliota institucija tiek, kiek šis Įstatymas nenustato kitaip.
 
-3. Lietuvos banko, kitų kredito įstaigų, mokėjimo įstaigų, elektroninių pinigų įstaigų, valiutos keityklų operatorių, finansų maklerio įmonių, investicinių kintamojo kapitalo bendrovių ir jų valdymo įmonių, uždaro tipo investicinių bendrovių ir jų valdymo įmonių, pensijų fondų ir jų valdymo įmonių, investicinių fondų ir jų valdymo įmonių, reguliuojamos rinkos operatoriaus, Lietuvos centrinio vertybinių popierių depozitoriumo, draudimo įmonių, perdraudimo įmonių buhalterinės apskaitos tvarkymą ir organizavimą reglamentuoja šis įstatymas, jeigu kiti Lietuvos Respublikos įstatymai nenustato kitaip.
+3. Lietuvos banko, kitų kredito įstaigų, mokėjimo įstaigų, elektroninių pinigų įstaigų, valiutos keityklų operatorių, finansų maklerio įmonių, investicinių kintamojo kapitalo bendrovių ir jų valdymo įmonių, uždaro tipo investicinių bendrovių ir jų valdymo įmonių, pensijų fondų ir jų valdymo įmonių, investicinių fondų ir jų valdymo įmonių, reguliuojamos rinkos operatoriaus, Centrinio vertybinių popierių depozitoriumo, draudimo įmonių, perdraudimo įmonių buhalterinės apskaitos tvarkymą ir organizavimą reglamentuoja šis įstatymas, jeigu kiti Lietuvos Respublikos įstatymai nenustato kitaip.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2215, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21010
+
+Nr. XIII-467, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10829
 
 4. Šio Įstatymo nuostatos suderintos su šio Įstatymo priede nurodytais Europos Sąjungos teisės aktais.
 
@@ -226,7 +228,11 @@ Nr. XI-2174, 2012-06-29, Žin., 2012, Nr. 83-4348 (2012-07-14), atitaisymas skel
 
 Ūkio subjektai apskaitą tvarko taip, kad užtikrintų finansinių ataskaitų sudarymą pagal šiuos apskaitos standartus:
 
-1) pagal tarptautinius apskaitos standartus – finansų maklerio įmonės, reguliuojamos rinkos operatorius, Lietuvos centrinis vertybinių popierių depozitoriumas, draudimo įmonės, perdraudimo įmonės, valdymo įmonės, veikiančios pagal Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymą, Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymą ir Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymą, kredito įstaigos, išskyrus kredito unijas;
+1) pagal tarptautinius apskaitos standartus – finansų maklerio įmonės, reguliuojamos rinkos operatorius, Centrinis vertybinių popierių depozitoriumas, draudimo įmonės, perdraudimo įmonės, valdymo įmonės, veikiančios pagal Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymą, Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymą ir Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymą, kredito įstaigos, išskyrus kredito unijas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-467, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10829
 
 2) pagal verslo apskaitos standartus arba tarptautinius apskaitos standartus – ribotos civilinės atsakomybės juridiniai asmenys, savo veikla siekiantys pelno, išskyrus šio straipsnio 1 punkte nurodytus ūkio subjektus, investiciniai fondai, profesinių pensijų fondai, veikiantys pagal Lietuvos Respublikos profesinių pensijų kaupimo įstatymą, neribotos civilinės atsakomybės juridiniai asmenys, kai savo nuožiūra nusprendžia sudaryti finansines ataskaitas arba kai Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymas įpareigoja jas sudaryti. Ūkio subjektai, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, privalantys sudaryti konsoliduotąsias finansines ataskaitas, apskaitą tvarko taip, kad užtikrintų konsoliduotųjų finansinių ataskaitų sudarymą pagal tarptautinius apskaitos standartus;
 
@@ -1039,6 +1045,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2215, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21010
 
 Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 1, 2, 3, 5, 12, 13, 18, 21 straipsnių, penktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-467, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10829
+
+Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 1 ir 3 straipsnių pakeitimo įstatymas
 
 19 straipsnis. Apskaitos dokumentų, apskaitos registrų saugojimo tvarka
 
