@@ -4,7 +4,7 @@ identifier: "TAR.278D4FD8E838"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-25"
-last_updated: "2016-11-17"
+last_updated: "2017-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2016-11-17 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 52-1672, i. k. 0991010ISTAIII-1202
 
@@ -661,7 +661,11 @@ Priežiūros įstaiga nuo šio įstatymo 9 straipsnio 15 dalyje, 10 straipsnio 7
 
 29 straipsnis. Turto arba verslo vertintojo drausmės byla
 
-1. Už šio įstatymo, Tarptautinių vertinimo standartų, Europos vertinimo standartų, Turto ir verslo vertinimo metodikos, Turto arba verslo vertintojų profesinės etikos kodekso pažeidimus Turto arba verslo vertintojų garbės teismas turto arba verslo vertintojui skiria vieną iš šio straipsnio 4 dalyje nurodytų drausminių nuobaudų.
+1. Už šio įstatymo, Tarptautinių vertinimo standartų, Europos vertinimo standartų, Turto ir verslo vertinimo metodikos, Turto arba verslo vertintojų profesinės etikos kodekso pažeidimus Turto arba verslo vertintojų garbės teismas turto arba verslo vertintojui skiria vieną šio straipsnio 4 dalyje nurodytų drausminių nuobaudų, jeigu nuo pažeidimo padarymo nepraėjo treji metai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-490, 2017-06-22, paskelbta TAR 2017-06-27, i. k. 2017-10840
 
 2. Turto arba verslo vertintojų garbės teismui rašytinį teikimą iškelti turto arba verslo vertintojui drausmės bylą pagal esamą (asmenų raštu pateiktą arba Priežiūros įstaigos turimą) informaciją apie šio straipsnio 1 dalyje nurodytus pažeidimus per ne ilgiau kaip 10 darbo dienų nuo šios informacijos gavimo (paaiškėjimo) dienos parengia ir pateikia Priežiūros įstaiga. Informaciją apie kitos valstybės narės turto arba verslo vertintojo padarytus šio įstatymo, Tarptautinių vertinimo standartų, Europos vertinimo standartų, Turto ir verslo vertinimo metodikos, Turto arba verslo vertintojų profesinės etikos kodekso pažeidimus Priežiūros įstaiga praneša (registruotu laišku) tos valstybės narės kompetentingai institucijai.
 
@@ -711,7 +715,7 @@ Priežiūros įstaiga nuo šio įstatymo 9 straipsnio 15 dalyje, 10 straipsnio 7
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -754,4 +758,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2744, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26898
 
 Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo Nr. VIII-1202 8 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-490, 2017-06-22, paskelbta TAR 2017-06-27, i. k. 2017-10840
+
+Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo Nr. VIII-1202 29 straipsnio pakeitimo įstatymas
 
