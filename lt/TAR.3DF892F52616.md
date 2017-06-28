@@ -4,7 +4,7 @@ identifier: "TAR.3DF892F52616"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-01-18"
-last_updated: "2016-11-01"
+last_updated: "2017-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3DF892F52616"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vertybinių popierių įstatymas
 
-Suvestinė redakcija nuo 2016-11-01 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28 iki 2018-06-14
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-626, i. k. 1071010ISTA00X-1023
 
@@ -385,7 +385,11 @@ Emitentai, veikiantys gavybos pramonės ar pirmykščių miškų medienos ruošo
 
 33 straipsnis. Reglamentuojamos informacijos skelbimas ir saugojimas
 
-1. Emitentas arba asmuo, kuris kreipėsi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo, privalo šio įstatymo nustatytais terminais ir priežiūros institucijos nustatyta tvarka paskelbti ir pateikti priežiūros institucijai reglamentuojamą informaciją.
+1. Emitentas arba asmuo, kuris kreipėsi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo, privalo šio įstatymo nustatytais terminais ir priežiūros institucijos nustatyta tvarka paskelbti ir pateikti priežiūros institucijai reglamentuojamą informaciją. Viešai neatskleista informacija atskleidžiama nedelsiant Reglamento (ES) Nr. 596/2014, šio įstatymo ir priežiūros institucijos nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
 
 2. Emitentas, kurio vertybiniais popieriais leista prekiauti reguliuojamoje rinkoje vienoje ar keliose valstybėse narėse, arba asmuo, kuris kreipėsi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo, reglamentuojamą informaciją privalo paskelbti pasirinkdamas tokias informacijos skleidimo priemones, kurios užtikrintų, kad informacija būtų prieinama investuotojams Lietuvos Respublikoje ir visose kitose valstybėse narėse. Kiti emitentai, kurių vertybiniais popieriais nėra leidžiama prekiauti reguliuojamoje rinkoje vienoje ar keliose valstybėse narėse, reglamentuojamą informaciją skelbia tik Lietuvos Respublikoje.
 
@@ -555,17 +559,13 @@ Taikant šio skirsnio reikalavimus, turi būti vadovaujamasi šiais principais:
 
 43 straipsnis. Akcijų išbraukimas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje
 
-1. Sprendimą išbraukti emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje priima visuotinis akcininkų susirinkimas ne mažiau kaip 3/4 visų dalyvaujančių susirinkime akcininkų akcijų suteikiamų balsų dauguma. Priėmus sprendimą išbraukti emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje, turi būti pateiktas ir įgyvendintas oficialus siūlymas supirkti emitento akcijas, įtrauktas į prekybą Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje.
+1. Sprendimą išbraukti emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje priima visuotinis akcininkų susirinkimas ne mažiau kaip 3/4 visų dalyvaujančių susirinkime akcininkų akcijų suteikiamų balsų dauguma. Priėmus sprendimą išbraukti emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje, privalo būti pateiktas ir įgyvendintas oficialus siūlymas supirkti emitento akcijas, įtrauktas į prekybą Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje.
 
 2. Tais atvejais, kai sprendimas išbraukti emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje priimamas ne emitento iniciatyva, pareigos teikti oficialų siūlymą nėra. Reguliuojamos rinkos operatorius išbraukia emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje, kai tolesnis emitento akcijų buvimas Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje kelia grėsmę investuotojų interesams ar tinkamam vertybinių popierių rinkos veikimui.
 
-3. Oficialų siūlymą, kuriuo siekiama išbraukti akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje, turi teikti akcininkai, balsavę už sprendimą išbraukti emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje. Šią prievolę už kitus akcininkus turi teisę įvykdyti vienas ar keli akcininkai. Šio oficialaus siūlymo galiojimo metu parduoti akcijas turi teisę akcininkai, sprendimo išbraukti emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje priėmimo metu balsavę prieš arba nebalsavę.
+3. Emitento valdymo organas ne vėliau kaip prieš 21 dieną iki visuotinio akcininkų susirinkimo, kuriame numatoma svarstyti klausimą dėl akcijų išbraukimo iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje, dienos privalo parengti ir paskelbti pranešimą apie ketinimą išbraukti akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje. Šiame pranešime turi būti nurodyta:
 
-4. Oficialaus siūlymo, kuriuo siekiama išbraukti akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje, kaina turi būti ne mažesnė už vidutinę svertinę emitento akcijų rinkos kainą reguliuojamoje rinkoje ir daugiašalėje prekybos sistemoje per 6 mėnesius iki paskelbimo apie ketinimą išbraukti emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje dienos. Jeigu emitento akcininkas, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, ne anksčiau kaip prieš 3 mėnesius iki visuotinio akcininkų susirinkimo sprendimo išbraukti emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje priėmimo dienos teikė ir įgyvendino privalomą oficialų siūlymą, kaina nustatoma tokia, kokia buvo mokama jam įsigyjant akcijas šiuo būdu.
-
-5. Emitento valdymo organas ne vėliau kaip prieš 21 dieną iki visuotinio akcininkų susirinkimo, kuriame numatoma svarstyti klausimą dėl akcijų išbraukimo iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje, dienos privalo parengti ir paskelbti pranešimą apie ketinimą išbraukti akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje. Šiame pranešime turi būti nurodyta:
-
-1) informacija apie numatomą privalomo oficialaus siūlymo paskelbimą;
+1) informacija apie numatomą oficialaus siūlymo paskelbimą;
 
 2) akcijų išbraukimo iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje priežastys;
 
@@ -573,9 +573,19 @@ Taikant šio skirsnio reikalavimus, turi būti vadovaujamasi šiais principais:
 
 4) numatomi emitento valdymo organų sudėties ir veiklos pokyčiai;
 
-5) už akcijas siūloma preliminari kaina ir jos nustatymo būdas.
+5) už akcijas siūloma preliminari kaina.
 
-6. Šio straipsnio 5 dalyje nurodytą pranešimą emitentas privalo pateikti priežiūros institucijai ir Lietuvos Respublikos reguliuojamos rinkos operatoriui ir paskelbti emitento įstatuose nurodytame šaltinyje, kuriame skelbiami vieši pranešimai.
+4. Šio straipsnio 3 dalyje nurodytą pranešimą emitentas privalo pateikti priežiūros institucijai ir Lietuvos Respublikos reguliuojamos rinkos operatoriui ir paskelbti šio įstatymo 33 straipsnyje nustatyta tvarka.
+
+5. Jeigu šiame straipsnyje nenustatyta kitaip, oficialiems siūlymams, kuriais siekiama išbraukti akcijas iš prekybos reguliuojamoje rinkoje, mutatis mutandis taikomos privalomą oficialų siūlymą reglamentuojančios nuostatos.
+
+6. Oficialų siūlymą, kuriuo siekiama išbraukti akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje, turi teikti akcininkai, balsavę už sprendimą išbraukti emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje. Šią prievolę už kitus akcininkus turi teisę įvykdyti vienas ar keli akcininkai. Šio oficialaus siūlymo galiojimo metu parduoti akcijas turi teisę akcininkai, sprendimo išbraukti emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje priėmimo metu balsavę prieš arba nebalsavę.
+
+7. Oficialaus siūlymo, kuriuo siekiama išbraukti akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje, metu ne mažiau kaip 95 procentus balsavimo teises suteikiančio kapitalo ir ne mažiau kaip 95 procentus visų balsų emitento visuotiniame akcininkų susirinkime sudarančių akcijų įsigijęs akcininkas iki sprendimo nebelaikyti bendrovės emitentu priėmimo, bet ne vėliau kaip per 3 mėnesius nuo oficialaus siūlymo įgyvendinimo, turi teisę reikalauti, kad visi kiti emitento akcininkai parduotų jiems priklausančias balsavimo teisę suteikiančias akcijas, ir šie privalo jas parduoti šio įstatymo nustatyta tvarka. Kiti emitento akcininkai turi teisę reikalauti, kad akcininkas, kuris oficialaus siūlymo, kuriuo siekiama išbraukti akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje, metu įsigijo akcijų, sudarančių ne mažiau kaip 95 procentus balsavimo teises suteikiančio kapitalo ir ne mažiau kaip 95 procentus visų balsų emitento visuotiniame akcininkų susirinkime, nupirktų jam priklausančias balsavimo teisę suteikiančias akcijas, o šis akcininkas privalo jas nupirkti šio įstatymo nustatyta tvarka. Privalomam akcijų pardavimui ir pirkimui mutatis mutandis taikomos šio įstatymo 42 straipsnio nuostatos.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
 
 45 straipsnis. Taikytina teisė
 
@@ -615,7 +625,11 @@ PENKTASIS SKIRSNIS
 
 11. Elektroninės priemonės – elektroninė įranga duomenims apdoroti (įskaitant skaitmeninį glaudinimą), jiems laikyti ir perduoti laidinėmis, radijo, optinėmis ar kitomis elektromagnetinėmis priemonėmis.
 
-12. Esminis įvykis – su vertybinių popierių emitentu susijęs ir jam žinomas ar privalomas žinoti įvykis, informacijos apie kurį atskleidimas gali turėti didelį poveikį jo išleistų vertybinių popierių rinkos kainai.
+12. Neteko galios nuo 2017-06-28.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
 
 13. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) (toliau – Reglamentas (ES) Nr. 1092/2010) įsteigta institucija.
 
@@ -693,7 +707,11 @@ PENKTASIS SKIRSNIS
 
 44. Prospekto patvirtinimas – buveinės valstybės narės priežiūros institucijos teigiamas sprendimas, kuris priimamas patikrinus, ar išsami, nuosekli ir suprantama prospekte pateikta informacija, ir kuriuo patvirtinama, kad prospekte pateikta informacija atitinka tokios informacijos pateikimo taisykles.
 
-45. Reglamentuojama informacija – reguliuojamoji informacija, kaip ji apibrėžta 2004 m. balandžio 29 d. Europos Komisijos reglamente (EB) Nr. 809/2004, įgyvendinančiame Europos Parlamento ir Tarybos direktyvos 2003/71/EB nuostatas dėl prospektuose pateikiamos informacijos ir šių prospektų formato, įtraukimo nuorodos būdu ir paskelbimo bei reklamos skleidimo (OL 2004 L 149, p. 1), su paskutiniais pakeitimais, padarytais 2013 m. balandžio 30 d. Europos Komisijos reglamentu (ES) Nr. 759/2013 (OL 2013 L 213, p. 1) (toliau – Reglamentas (EB) Nr. 809/2004).
+45. Reglamentuojama informacija – informacija, kurią vertybinių popierių emitentas, siūlytojas ar asmuo, kuris kreipiasi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo, privalo teikti pagal šį įstatymą, įskaitant ir reguliuojamąją informaciją, apibrėžtą 2004 m. balandžio 29 d. Europos Komisijos reglamente (EB) Nr. 809/2004, įgyvendinančiame Europos Parlamento ir Tarybos direktyvos 2003/71/EB nuostatas dėl prospektuose pateikiamos informacijos ir šių prospektų formato, įtraukimo nuorodos būdu ir paskelbimo bei reklamos skleidimo (OL 2004 L 149, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 30 d. Komisijos deleguotuoju reglamentu (ES) 2016/301 (OL 2016 L 58, p. 13) (toliau – Reglamentas (EB) Nr. 809/2004), ir viešai neatskleista informacija, apibrėžta 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB (OL 2014 L 173, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/1033 (OL 2016 L 175, p. 1) (toliau – Reglamentas (ES) Nr. 596/2014).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
 
 46. Reguliuojama rinka – kaip tai apibrėžta Lietuvos Respublikos finansinių priemonių rinkų įstatyme.
 
@@ -977,19 +995,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 Antrinė vertybinių popierių apyvarta Lietuvos Respublikoje turi būti vykdoma vadovaujantis Finansinių priemonių rinkų įstatymo nuostatomis.
 
-19 straipsnis. Informacijos apie esminius įvykius skelbimas
+19 straipsnis. Neteko galios nuo 2017-06-28
 
-1. Emitentas, kurio vertybiniais popieriais leista prekiauti reguliuojamoje rinkoje Lietuvos Respublikoje, priežiūros institucijos priimtuose viešai neatskleistos informacijos konfidencialumo užtikrinimą ir atskleidimą reglamentuojančiuose teisės aktuose nustatyta tvarka nedelsdamas, bet ne vėliau kaip per 24 valandas, turi pateikti reguliuojamos rinkos, kurioje prekiaujama jo išleistais vertybiniais popieriais, operatoriui šio įstatymo 33 straipsnyje nustatyta tvarka paskelbti, įdėti į Centrinę reglamentuojamos informacijos bazę, paskelbti savo interneto svetainėje informacinį pranešimą apie kiekvieną esminį įvykį, išskyrus šio straipsnio 2 dalyje numatytą atvejį. Informaciniame pranešime turi būti atskleistas esminio įvykio pobūdis ir trumpas turinys.
+Straipsnio naikinimas:
 
-2. Jeigu dėl šio straipsnio 1 dalyje nurodyto informacijos apie esminį įvykį paskelbimo emitentas gali patirti finansinės ar konkurencinės žalos, o informacijos nepaskelbimas nesuklaidins visuomenės ir emitentas gali užtikrinti tos informacijos konfidencialumą, jis gali šio informacinio pranešimo neskelbti ir pateikti jį tik priežiūros institucijai su žyma „Konfidenciali informacija“. Kartu jis privalo raštu paaiškinti, kodėl negalima atskleisti informacijos, ir nurodyti datą, iki kurios ta informacija turi likti konfidenciali. Kitą darbo dieną po informacijos konfidencialumo pabaigos ši informacija turi būti atskleista priežiūros institucijos priimtuose viešai neatskleistos informacijos konfidencialumo užtikrinimą ir atskleidimą reglamentuojančiuose teisės aktuose nustatyta tvarka. Priežiūros institucija įpareigoja emitentą paskelbti informaciją apie esminį įvykį anksčiau negu emitento nustatytą informacijos atskleidimo dieną, jeigu atsiranda pagrindas manyti, kad:
-
-1) nebėra šioje dalyje nurodyto pagrindo neskelbti informacijos arba
-
-2) informacija tapo žinoma asmenims, kuriems ji neturėjo būti perduota.
-
-3. Reguliuojamos rinkos operatorius nustato informacijos apie esminius įvykius pateikimo tvarką, taikomą emitentams, kurių vertybiniai popieriai įtraukti į prekybą toje reguliuojamoje rinkoje.
-
-4. Priežiūros institucija nustato šiame straipsnyje nurodytos informacijos paskelbimo ir pateikimo priežiūros institucijai tvarką.
+Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
 
 TREČIASIS SKIRSNIS
 
@@ -1059,7 +1069,11 @@ TAR pastaba. 20 straipsnio 2 dalies 2 ir 3 punktuose nurodytas emitentas, kurio 
 
 24 straipsnis. Tarpinė informacija
 
-1. Tarpinė informacija sudaroma emitento pasirinkimu. Jeigu emitentas pasirenka sudaryti tarpinę informaciją ir (arba) konsoliduotąją tarpinę informaciją, apie tai jis turi paskelbti pranešimą šio įstatymo 19 straipsnyje nustatyta pranešimo apie esminį įvykį tvarka. Tarpinė informacija ir (arba) konsoliduotoji tarpinė informacija turi būti paskelbta nedelsiant, kai ji parengiama, bet ne vėliau kaip per 2 mėnesius nuo ataskaitinio laikotarpio pabaigos šio įstatymo 33 straipsnyje nustatyta tvarka. Jeigu buvo atliekamas tarpinių finansinių ataskaitų rinkinio (toliau – tarpinės finansinės ataskaitos) ir (arba) tarpinių konsoliduotųjų finansinių ataskaitų rinkinio (toliau – tarpinės konsoliduotosios finansinės ataskaitos) auditas arba finansinių ataskaitų peržiūra, tarpinė informacija paskelbiama kartu su auditoriaus išvada arba peržiūros išvada.
+1. Tarpinė informacija sudaroma emitento pasirinkimu. Jeigu emitentas pasirenka sudaryti tarpinę informaciją ir (arba) konsoliduotąją tarpinę informaciją, apie tai jis turi paskelbti. Tarpinė informacija ir (arba) konsoliduotoji tarpinė informacija turi būti paskelbta nedelsiant, kai ji parengiama, bet ne vėliau kaip per 2 mėnesius nuo ataskaitinio laikotarpio pabaigos. Jeigu buvo atliekamas tarpinių finansinių ataskaitų rinkinio (toliau – tarpinės finansinės ataskaitos) ir (arba) tarpinių konsoliduotųjų finansinių ataskaitų rinkinio (toliau – tarpinės konsoliduotosios finansinės ataskaitos) auditas arba finansinių ataskaitų peržiūra, tarpinė informacija paskelbiama kartu su auditoriaus išvada arba peržiūros išvada. Sprendimas sudaryti tarpinę informaciją ir (arba) konsoliduotąją tarpinę informaciją ir tarpinė informacija ir (arba) konsoliduotoji tarpinė informacija skelbiami šio įstatymo 33 straipsnyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
 
 2. Tarpinę informaciją sudaro 3, 9 ir 12 mėnesių tarpinės finansinės ataskaitos ir atsakingų asmenų patvirtinimo, kad, jų žiniomis, tarpinės finansinės ataskaitos, sudarytos pagal taikomus apskaitos standartus, atitinka tikrovę ir teisingai rodo emitento turtą, įsipareigojimus, finansinę būklę, pelną arba nuostolius ir pinigų srautus, dokumentas.
 
@@ -1251,7 +1265,17 @@ Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
 
 4) asmenims, atsakingiems už prospekte pateiktos informacijos teisingumą ir išsamumą, prospekte pateikusiems ne visą, neišsamią ar klaidinančią informaciją ir taip nesilaikantiems šio įstatymo 6 straipsnyje nustatytų reikalavimų, – iki 28 962 eurų;
 
-5) asmenims, nesilaikantiems šio įstatymo 19 straipsnyje nustatytų reikalavimų, – iki 57 924 eurų;
+5) juridiniams asmenims, nesilaikantiems Reglamento (ES) Nr. 596/2014 17 straipsnyje nustatytų reikalavimų, – iki 2 500 000 eurų arba 2 procentų juridinio asmens bendrųjų metinių pajamų. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės praėjusių metų konsoliduotojoje finansinėje ataskaitoje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
+
+51) fiziniams asmenims, nesilaikantiems Reglamento (ES) Nr. 596/2014 17 straipsnyje nustatytų reikalavimų, – iki 1 000 000 eurų;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
 
 6) asmenims, nesilaikantiems šio įstatymo 36 straipsnyje nustatyto reikalavimo pateikti privalomą oficialų siūlymą supirkti likusias balsavimo teisę suteikiančias bendrovės akcijas, – iki 144 810 eurų; asmenims, nesilaikantiems kitų šio įstatymo 36 straipsnyje nustatytų reikalavimų, – iki 28 962 eurų;
 
@@ -1270,6 +1294,12 @@ Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
 2. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos piniginės baudos dydis pagal šio straipsnio 1 dalies 1 punktą, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės praėjusių metų konsoliduotoje finansinėje ataskaitoje.
 
 3. Jeigu dėl šio straipsnio 1 dalies 1 ar 2 punkte nurodytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos ar išvengta nuostolių ir tokių pajamų, kitokios turtinės naudos ar išvengtų nuostolių dydis, jeigu jį įmanoma nustatyti, viršijo pusę šio straipsnio 1 dalies 1 ar 2 punkte nurodytų baudų dydžių, priežiūros institucija turi teisę skirti piniginę baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos ar išvengtų nuostolių dydžio.
+
+31. Jeigu dėl Reglamento (ES) Nr. 596/2014 17 straipsnio pažeidimo buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 dalies 5 ir 51 punktuose nurodytus baudų dydžius, skiriama bauda iki trigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
 
 4. Kai šio straipsnio 1 dalies 1 punkte nurodytas pažeidimas padarytas juridinio asmens arba šio straipsnio 1 dalies 2 punkte nurodytas pažeidimas padarytas fizinio asmens, priežiūros institucija privalo skirti didesnę iš šių punktų nuostatose ir šio straipsnio 3 dalyje nurodytų baudų.
 
@@ -1295,7 +1325,11 @@ LIETUVOS RESPUBLIKOJE ĮSTEIGTO JURIDINIO ASMENS NEBELAIKYMAS EMITENTU
 
 4) visuotinis akcininkų susirinkimas, teismas ar kreditorių susirinkimas nusprendžia jį likviduoti.
 
-2. Šio straipsnio 1 dalies 3 punkte nurodytu atveju bendrovėje turi būti pateiktas ir įgyvendintas oficialus siūlymas supirkti likusias bendrovės akcijas. Šiam oficialiam siūlymui taikomos šio įstatymo 39 straipsnio 1–7 dalys ir 43 straipsnio 3, 5, 6 dalys.
+2. Šio straipsnio 1 dalies 3 punkte nurodytu atveju bendrovėje turi būti pateiktas ir įgyvendintas oficialus siūlymas supirkti likusias bendrovės akcijas. Šiam oficialiam siūlymui mutatis mutandis taikomos privalomą oficialų siūlymą reglamentuojančios nuostatos ir šio įstatymo 43 straipsnio 3, 4, 6 dalys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
 
 3. Jeigu emitento akcijos buvo įtrauktos į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje ir visuotinis akcininkų susirinkimas sprendimą nebesiūlyti akcijų viešai priėmė kartu su sprendimu išbraukti akcijas iš prekybos reguliuojamoje rinkoje, pakanka vieną kartą pateikti ir įgyvendinti oficialų siūlymą šio įstatymo 38 straipsnyje nustatyta tvarka.
 
@@ -1330,6 +1364,12 @@ Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
 6. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/73/ES, kuria iš dalies keičiama Direktyva 2003/71/EB dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi visuomenei ar įtraukiami į prekybos sąrašą, ir Direktyva 2004/109/EB dėl informacijos apie emitentus, kurių vertybiniais popieriais leista prekiauti reguliuojamoje rinkoje, skaidrumo reikalavimų suderinimo (OL 2010 L 327, p. 1).
 
 7. 2013 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2013/50/ES, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2004/109/EB dėl informacijos apie emitentus, kurių vertybiniais popieriais leista prekiauti reguliuojamoje rinkoje, skaidrumo reikalavimų suderinimo, Europos Parlamento ir Tarybos direktyva 2003/71/EB dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi visuomenei ar įtraukiami į prekybos sąrašą, ir Komisijos direktyva 2007/14/EB, nustatanti išsamias tam tikrų Direktyvos 2004/109/EB nuostatų įgyvendinimo taisykles (OL 2013 L 294, p. 13).
+
+8. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB (OL 2014 L 173, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/1033 (OL 2016 L 175, p. 1).
+
+Papildyta punktu:
+
+Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
 
 Pakeitimai:
 
@@ -1454,4 +1494,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
 
 Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 51 ir 52 straipsnių ir priedo pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
+
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 24, 33, 43, 52, 54 straipsnių ir priedo pakeitimo ir 19 straipsnio pripažinimo netekusiu galios įstatymas
 
