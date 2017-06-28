@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2017-01-01"
+last_updated: "2017-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr. –––––
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28 iki 2017-11-16
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
 
@@ -843,7 +843,11 @@ ADMINISTRACINĖS BYLOS PROCESO DALYVIAI
 
 6) juridinio asmens kontroliuojantys ir (ar) kontroliuojami asmenys, patronuojančiosios ir (ar) patronuojamosios bendrovės. Šiais atvejais bylą teisme veda atitinkamo atstovaujančio juridinio asmens vienasmenis valdymo organas, įstatymų ar steigimo dokumentų nustatyta tvarka įgalioti kolegialių valdymo organų nariai arba atstovai pagal pavedimą – darbuotojai ar valstybės tarnautojai (apeliacinės instancijos teisme – turintys aukštąjį universitetinį teisinį išsilavinimą) ir (ar) advokatai (advokatų padėjėjai);
 
-7) profesinės sąjungos, jeigu jos atstovauja profesinės sąjungos nariams tarnybos teisinių santykių bylose. Šiuo atveju bylą teisme veda profesinės sąjungos vienasmenis valdymo organas, įstatymų ar steigimo dokumentų nustatyta tvarka įgalioti kolegialių valdymo organų nariai arba atstovai pagal pavedimą – darbuotojai (apeliacinės instancijos teisme – turintys aukštąjį universitetinį teisinį išsilavinimą) ir (ar) advokatai (advokatų padėjėjai).
+7) profesinės sąjungos, jeigu jos atstovauja profesinės sąjungos nariams tarnybos teisinių santykių bylose, o šio įstatymo 1268 straipsnio 1 dalyje nurodytu atveju – profesinės sąjungos arba asociacijos. Šiame punkte nurodytais atvejais bylą teisme veda profesinės sąjungos ar asociacijos vienasmenis valdymo organas, įstatymų ar steigimo dokumentų nustatyta tvarka įgalioti kolegialių valdymo organų nariai arba atstovai pagal pavedimą – darbuotojai (apeliacinės instancijos teisme – turintys aukštąjį universitetinį teisinį išsilavinimą) ir (ar) advokatai (advokatų padėjėjai).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
 
 5. Kartu su šio straipsnio 3 dalyje ir 4 dalies 1, 2 ir 5 punktuose nurodytais asmenimis atstovais pagal pavedimą gali būti ir kiti asmenys. Jeigu į teismo posėdį neatvyksta šio straipsnio 3 dalyje ir 4 dalies 1, 2 ir 5 punktuose nurodyti asmenys, kiti asmenys byloje atstovauti pagal pavedimą savarankiškai negali.
 
@@ -1577,9 +1581,17 @@ Papildyta straipsnio punktu:
 
 Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
-11) šio įstatymo 128 straipsnio 4 dalyje nurodytu atveju;
+12) šio įstatymo 128 straipsnio 4 dalyje nurodytu atveju;
 
-12) kitais atvejais, kai teismas pripažįsta, kad bylos nagrinėjimą sustabdyti yra būtina.
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
+
+13) kitais atvejais, kai teismas pripažįsta, kad bylos nagrinėjimą sustabdyti yra būtina.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
 
 2. Lietuvos vyriausiasis administracinis teismas sustabdo bylą, kai kreipiasi į Europos Žmogaus Teisių Teismą su prašymu pateikti konsultacinę išvadą dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu.
 
@@ -1611,7 +1623,11 @@ Papildyta straipsnio punktu:
 
 Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
-7) šio įstatymo 100 straipsnio 1 dalies 11 ir 12 punktuose nurodytais atvejais – iki bus pašalintos aplinkybės, dėl kurių buvo sustabdytas bylos nagrinėjimas.
+8) šio įstatymo 100 straipsnio 1 dalies 12 ir 13 punktuose nurodytais atvejais – iki bus pašalintos aplinkybės, dėl kurių buvo sustabdytas bylos nagrinėjimas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
 
 102 straipsnis. Bylos nagrinėjimo atnaujinimas
 
@@ -1683,7 +1699,11 @@ Papildyta straipsnio punktu:
 
 Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
-7) šio įstatymo 130 straipsnio 2 dalyje nurodytu atveju.
+8) šio įstatymo 130 straipsnio 2 dalyje nurodytu atveju.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
 
 106 straipsnis. Skundo (prašymo, pareiškimo) palikimo nenagrinėto tvarka ir pasekmės
 
