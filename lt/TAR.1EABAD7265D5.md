@@ -4,7 +4,7 @@ identifier: "TAR.1EABAD7265D5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-06-18"
-last_updated: "2017-01-01"
+last_updated: "2017-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1EABAD7265D5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS INFORMUOTIESIEMS INVESTUOTOJAMS SKIRTŲ KOLEKTYVINIO
 
 INVESTAVIMO SUBJEKTŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28 iki 2018-06-14
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 68-3410, i. k. 1131010ISTA0XII-376
 
@@ -220,7 +220,11 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS VEIKLOS LEIDIMO IŠDAVIMAS
 
 5) dokumentus, leidžiančius įvertinti kandidatų į valdymo įmonės vadovų pareigas ir akcijų paketų savininkų atitiktį nepriekaištingos reputacijos ir kitiems šiame įstatyme ir kituose teisės aktuose nustatytiems reikalavimams. Jeigu akcijų paketų savininkai yra akcinės bendrovės ar uždarosios akcinės bendrovės, taip pat turi būti pateikiamas paskutinių finansinių metų finansinių ataskaitų rinkinys ir, jeigu pagal įstatymus arba įstatus numatyta pareiga atlikti finansinių metų finansinių ataskaitų rinkinių auditą, – nepriklausomų auditorių išvada. Šiame punkte minimi duomenys pateikiami apie valdymo įmonės akcijų paketų savininkus – akcines bendroves ar uždarąsias akcines bendroves – duomenis atskleidžiant iki fizinių asmenų, turinčių daugiau kaip 10 procentų balsavimo teisių ir (ar) įstatinio kapitalo, o apie akcijų paketų savininkus – tikrąsias ūkines bendrijas ar komanditines ūkines bendrijas – duomenis atskleidžiant iki dalyvių – fizinių asmenų (jeigu akcijų paketą turinčios ūkinės bendrijos dalyviai yra akcinės bendrovės ar uždarosios akcinės bendrovės, duomenys atskleidžiami iki fizinių asmenų, turinčių daugiau kaip 10 procentų balsavimo teisių ir (ar) įstatinio kapitalo);
 
-6) duomenis, patvirtinančius, kad nė vienas iš valdymo įmonės darbuotojų nėra Lietuvos Respublikoje veikiančios reguliuojamos rinkos, daugiašalės prekybos sistemos operatoriaus, priežiūros institucijos ar Lietuvos centrinio vertybinių popierių depozitoriumo darbuotojas;
+6) duomenis, patvirtinančius, kad nė vienas iš valdymo įmonės darbuotojų nėra Lietuvos Respublikoje veikiančios reguliuojamos rinkos, daugiašalės prekybos sistemos operatoriaus, priežiūros institucijos ar Centrinio vertybinių popierių depozitoriumo darbuotojas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-470, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10833
 
 7) organizacinės struktūros aprašymą;
 
@@ -246,7 +250,11 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS VEIKLOS LEIDIMO IŠDAVIMAS
 
 8) dokumentus, leidžiančius įvertinti kandidatų į investicinės bendrovės vadovų pareigas atitiktį nepriekaištingos reputacijos ir kitiems šiame įstatyme ir kituose teisės aktuose nustatytiems reikalavimams. Jeigu tarp asmenų, siekiančių tapti investicinės bendrovės, veikiančios kaip tikroji ūkinė bendrija ar komanditinė ūkinė bendrija, tikraisiais nariais, yra juridinių asmenų, šiame punkte nurodyta informacija pateikiama apie šių juridinių asmenų vadovus – fizinius asmenis;
 
-9) duomenis, patvirtinančius, kad nė vienas iš investicinės bendrovės darbuotojų nėra Lietuvos Respublikoje veikiančios reguliuojamos rinkos, daugiašalės prekybos sistemos operatoriaus, priežiūros institucijos ar Lietuvos centrinio vertybinių popierių depozitoriumo darbuotojas;
+9) duomenis, patvirtinančius, kad nė vienas iš investicinės bendrovės darbuotojų nėra Lietuvos Respublikoje veikiančios reguliuojamos rinkos, daugiašalės prekybos sistemos operatoriaus, priežiūros institucijos ar Centrinio vertybinių popierių depozitoriumo darbuotojas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-470, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10833
 
 10) organizacinės struktūros aprašymą;
 
@@ -268,7 +276,11 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS VEIKLOS LEIDIMO IŠDAVIMAS
 
 4) veiklos leidimą ketinanti gauti bendrovė ar ūkinė bendrija, valdymo įmonės akcijų paketo savininkai ir (ar) valdymo įmonės ar investicinės bendrovės vadovai neatitinka šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų;
 
-5) bent vienas valdymo įmonės ar investicinės bendrovės darbuotojas yra Lietuvos Respublikoje veikiančios reguliuojamos rinkos ir (ar) daugiašalės prekybos sistemos operatoriaus, priežiūros institucijos ar Lietuvos centrinio vertybinių popierių depozitoriumo darbuotojas;
+5) bent vienas valdymo įmonės ar investicinės bendrovės darbuotojas yra Lietuvos Respublikoje veikiančios reguliuojamos rinkos ir (ar) daugiašalės prekybos sistemos operatoriaus, priežiūros institucijos ar Centrinio vertybinių popierių depozitoriumo darbuotojas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-470, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10833
 
 6) tarp valdymo įmonės, investicinės bendrovės ir kito juridinio ar fizinio asmens yra glaudus ryšys, kuris gali trukdyti priežiūros institucijai veiksmingai atlikti priežiūros funkcijas, arba atitinkamo asmens veiklą reglamentuojantys kitos valstybės narės ar trečiosios valstybės teisės aktai ar tų teisės aktų įgyvendinimas gali trukdyti priežiūros institucijai veiksmingai atlikti priežiūros funkcijas;
 
@@ -1217,4 +1229,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2451, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17719
 
 Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 53 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-470, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10833
+
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 9 straipsnio pakeitimo įstatymas
 
