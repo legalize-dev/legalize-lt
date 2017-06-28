@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2016-07-16"
+last_updated: "2017-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2016-07-16 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28 iki 2018-01-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -72,33 +72,17 @@ Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 5) valstybės įmonė „Oro navigacija“;
 
-6) valstybės įmonė „Automagistralė“;
+6) valstybės įmonė Vidaus vandens kelių direkcija;
 
-7) valstybės įmonė „Alytaus regiono keliai“;
+7) valstybės įmonė Lietuvos oro uostai;
 
-8) valstybės įmonė „Kauno regiono keliai“;
+8) savivaldybės įmonė Šiaulių oro uostas;
 
-9) valstybės įmonė „Klaipėdos regiono keliai“;
+9) valstybinės reikšmės kelius prižiūrinčios (prižiūrinti) valstybės įmonės (įmonė).
 
-10) valstybės įmonė „Marijampolės regiono keliai“;
+Straipsnio dalies pakeitimai:
 
-11) valstybės įmonė „Panevėžio regiono keliai“;
-
-12) valstybės įmonė „Šiaulių regiono keliai“;
-
-13) valstybės įmonė „Tauragės regiono keliai“;
-
-14) valstybės įmonė „Telšių regiono keliai“;
-
-15) valstybės įmonė „Utenos regiono keliai“;
-
-16) valstybės įmonė „Vilniaus regiono keliai“;
-
-17) valstybės įmonė Vidaus vandens kelių direkcija;
-
-18) valstybės įmonė Lietuvos oro uostai;
-
-19) savivaldybės įmonė Šiaulių oro uostas.
+Nr. XIII-473, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10837
 
 2. Strateginę reikšmę nacionaliniam saugumui turi šie valstybei nuosavybės teise priklausantys įrenginiai, jų priklausiniai ir Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nutarimu nustatytos šių įrenginių nacionaliniam saugumui svarbios apsaugos zonos:
 
@@ -124,7 +108,11 @@ Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 4) finansų ir kredito.
 
-4. Šio straipsnio 1 dalyje nurodytos valstybės įmonės gali būti pertvarkytos į akcines bendroves ar uždarąsias akcines bendroves arba reorganizuotos Lietuvos Respublikos civilinio kodekso nustatytais būdais tik Lietuvos Respublikos Seimui priėmus atitinkamą įstatymą.
+4. Šio straipsnio 1 dalyje nurodytos valstybės įmonės, išskyrus šio straipsnio 1 dalies 9 punkte nurodytas (nurodytą) valstybinės reikšmės kelius prižiūrinčias (prižiūrinčią) valstybės įmones (įmonę), gali būti pertvarkytos į akcines bendroves ar uždarąsias akcines bendroves arba reorganizuotos Lietuvos Respublikos civilinio kodekso nustatytais būdais tik Lietuvos Respublikos Seimui priėmus atitinkamą įstatymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-473, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10837
 
 5. Šio straipsnio 2 dalyje nurodyti įrenginiai nuosavybės teise priklauso valstybei, bet įstatymų numatytais atvejais ir teisės aktų nustatyta tvarka gali būti išnuomoti ir perduoti pagal panaudos sutartį arba gali būti perduoti valdyti, naudoti ir disponuoti jais patikėjimo teise tik šio straipsnio 1 dalyje nurodytoms valstybės įmonėms, šio straipsnio 2 dalies 5 punkte nurodytoms savivaldybėms ir šio įstatymo 4 straipsnio 1 dalyje nurodytoms įmonėms. Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatyme nustatyta tvarka tarptautinių Vilniaus, Kauno ir Palangos oro uostų  aerodromai gali būti perduoti valdyti ir naudoti nacionalinio saugumo interesus atitinkančiam potencialiam dalyviui pagal koncesijos sutartį.
 
@@ -415,6 +403,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2593, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20670
 
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 4 ir 5 straipsnių pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-473, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10837
+
+Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 3 straipsnio pakeitimo įstatymas
 
 7 straipsnis. Potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimas
 
