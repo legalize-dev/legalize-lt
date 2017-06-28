@@ -4,7 +4,7 @@ identifier: "TAR.AB7AFE2F35B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-01-18"
-last_updated: "2017-01-01"
+last_updated: "2017-06-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28 iki 2018-06-14
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
 
@@ -38,11 +38,19 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Įstatymo taikymo sritis
 
-1. Šis įstatymas nustato reikalavimus, kurių turi laikytis finansų maklerio įmonės ir reguliuojamos rinkos.
+1. Šis įstatymas nustato reikalavimus, kurių turi laikytis finansų maklerio įmonės, reguliuojamos rinkos ir centriniai vertybinių popierių depozitoriumai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 2. Kai kurie šio įstatymo reikalavimai šiame įstatyme nustatytais atvejais mutatis mutandis taikomi licencijuotoms kredito įstaigoms, teikiančioms investicines paslaugas ir (arba) vykdančioms investicinę veiklą (toliau – kredito įstaigos).
 
-3. Šio įstatymo IV skyrius yra taikomas visiems fiziniams ir juridiniams asmenims.
+3. Neteko galios nuo 2017-06-28.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 4. Šio įstatymo II ir III skyriuose nustatyti reikalavimai netaikomi:
 
@@ -97,6 +105,12 @@ Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
 2) reguliuojamos rinkos atžvilgiu – ta valstybė narė, kurioje yra registruota reguliuojamos rinkos buveinė. Jeigu kitoje valstybėje narėje įsteigta reguliuojama rinka pagal tos valstybės narės teisę neturi registruotos buveinės, – ta valstybė narė, kurioje yra reguliuojamos rinkos buveinė;
 
 3) daugiašalės prekybos sistemos atžvilgiu – ta valstybė narė, kurioje yra registruota daugiašalės prekybos sistemos operatoriaus buveinė. Jeigu kitoje valstybėje narėje įsteigtas daugiašalės prekybos sistemos operatorius pagal tos valstybės narės teisę neturi registruotos buveinės, – ta valstybė narė, kurioje yra daugiašalės prekybos sistemos operatoriaus buveinė.
+
+11. Centrinis vertybinių popierių depozitoriumas (toliau – Centrinis depozitoriumas) – kaip tai apibrėžta Reglamente (ES) Nr. 909/2014.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 2. Daugiašalė prekybos sistema – finansų maklerio įmonės arba rinkos operatoriaus administruojama daugiašalė sistema, kurioje pagal neleidžiančias veikti savo nuožiūra taisykles suderinami trečiųjų asmenų ketinimai pirkti ir parduoti finansines priemones, lemiantys sandorių dėl finansinių priemonių sudarymą.
 
@@ -264,7 +278,11 @@ Nr. XII-2076, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19284
 
 43. Valstybės narės priežiūros institucija – institucija, atliekanti šiame įstatyme nurodytoms priežiūros institucijos funkcijoms analogiškas finansinių priemonių rinkų priežiūros funkcijas valstybėje narėje.
 
-44. Viešai neatskleista informacija – tiesiogiai ar netiesiogiai su vienu ar keliais emitentais ar finansinėmis priemonėmis susijusi tikslaus pobūdžio informacija apie planuojamus ar įvykusius esminius įvykius ir kita informacija, kurios atskleidimas gali turėti didelės įtakos šių finansinių priemonių ar su jomis susietų išvestinių priemonių kainai, jeigu ši informacija nėra viešai atskleista. Su prekėmis susietų išvestinių priemonių atžvilgiu viešai neatskleista informacija laikoma tokia tikslaus pobūdžio viešai neatskleista informacija, kuri tiesiogiai ar netiesiogiai susieta su viena ar daugiau tokių priemonių ir kurią rinkos, kurioje prekiaujama tokiomis priemonėmis, naudotojai tikisi gauti pagal įprastą rinkos praktiką. Asmenų, vykdančių pavedimus dėl finansinių priemonių, atžvilgiu viešai neatskleista informacija taip pat yra kliento suteikta tikslaus pobūdžio informacija, susijusi su jo pavedimais, tiesiogiai ar netiesiogiai susijusi su vienu ar keliais emitentais ar finansinėmis priemonėmis, kurios atskleidimas gali turėti didelės įtakos šių finansinių priemonių ar su jomis susietų išvestinių priemonių kainai.
+44. Neteko galios nuo 2017-06-28.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 45. Viešas paskelbimas – informacijos skelbimas, teikimas priežiūros institucijos interneto svetainėje, jeigu šiame įstatyme nenumatyta kitaip.
 
@@ -274,7 +292,7 @@ Nr. XII-2076, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19284
 
 48. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84), įsteigta institucija.
 
-49. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Finansų įstaigų įstatyme, Lietuvos Respublikos finansinio tvarumo įstatyme ir 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) (toliau – Reglamentas (ES) Nr. 575/2013).
+49. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Finansų įstaigų įstatyme, Lietuvos Respublikos finansinio tvarumo įstatyme, 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) (toliau – Reglamentas (ES) Nr. 575/2013), Reglamente (ES) Nr. 596/2014 ir Reglamente (ES) Nr. 909/2014.
 
 Papildyta straipsnio dalimi:
 
@@ -283,6 +301,8 @@ Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 Straipsnio pakeitimai:
 
@@ -318,31 +338,43 @@ REIKALAVIMAI LICENCIJAI GAUTI
 
 4) įpareigoti finansų maklerio įmonę pakeisti vadovą;
 
-5) sustabdyti licencijos teikti vieną, kelias ar visas investicines paslaugas galiojimą tol, kol yra pagrindas sustabdyti licenciją; išnykus licencijos sustabdymo pagrindui, priežiūros institucija nedelsdama, bet ne vėliau kaip per 5 darbo dienas nuo tada, kai įsitikino, kad pagrindas išnyko, atnaujina licencijos teikti vieną, kelias ar visas investicines paslaugas galiojimą;
+5) sustabdyti licencijos teikti vieną, kelias ar visas investicines paslaugas galiojimą tol, kol yra pagrindas sustabdyti licenciją. Išnykus licencijos sustabdymo pagrindui, priežiūros institucija nedelsdama, ne vėliau kaip per 5 darbo dienas nuo tada, kai įsitikino, kad pagrindas išnyko, atnaujina licencijos teikti vieną, kelias ar visas investicines paslaugas galiojimą;
 
 6) panaikinti licencijos teikti vieną, kelias ar visas investicines paslaugas galiojimą;
 
-7) finansų maklerio įmonei, kuriai taikomas šio įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas, paskirti laikinąjį administratorių.
+7) finansų maklerio įmonei, kuriai taikomas šio įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas, paskirti laikinąjį administratorių;
 
-Papildyta straipsnio punktu:
+8) panaikinti Centriniam depozitoriumui išduotą licenciją;
 
-Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
+9) laikinai uždrausti Centrinio depozitoriumo valdymo organo nariui arba kitam atsakingam asmeniui vykdyti vadovaujamas funkcijas. Centrinio depozitoriumo valdymo organo nariui ar kitam atsakingam asmeniui pateikus dokumentus, kuriais įrodoma, kad nebėra aplinkybių, dėl kurių jam buvo laikinai neleista Centriniame depozitoriume vykdyti vadovaujamų funkcijų (arba priežiūros institucijai atlikus patikrinimą ir tai nustačius), priežiūros institucijos sprendimu laikinas draudimas nedelsiant, ne vėliau kaip per 5 darbo dienas nuo tos dienos, kai priežiūros institucija nustato, kad pagrindas išnyko, panaikinamas;
 
-2. Priežiūros institucija turi teisę licencijuotoms kredito įstaigoms, reguliuojamos rinkos operatoriams ir Centriniam depozitoriumui taikyti šio straipsnio 1 dalies 1 ir 2 punktuose, o finansų patarėjo įmonėms – šio straipsnio 1 dalies 1, 2, 4, 5 ir 6 punktuose nustatytas poveikio priemones.
+10) kai šiurkštūs pažeidimai padaryti pakartotinai per vienus metus nuo poveikio priemonės pritaikymo, uždrausti bet kuriam Centrinio depozitoriumo valdymo organo nariui arba kitam fiziniam asmeniui, kuris laikomas atsakingu, Centriniame depozitoriume vykdyti vadovaujamas funkcijas;
 
-3. Neteko galios nuo 2017-01-01.
+11) nurodyti per nustatytą terminą nutraukti teisės akto pažeidimą ir užtikrinti, kad jis nepasikartotų;
 
-Straipsnio dalies pakeitimai:
+12) viešai paskelbti Reglamento (ES) Nr. 596/2014 ar Reglamento (ES) Nr. 909/2014 pažeidimą ir jį padariusį asmenį;
 
-Nr. XII-2454, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17721
+13) kai nustatoma, kad dėl Reglamento (ES) Nr. 596/2014 nuostatų pažeidimo buvo gautas pelnas ar išvengta nuostolių, nurodyti atlyginti nukentėjusiesiems padarytą žalą;
 
-4. Priežiūros institucijos pritaikytos poveikio priemonės ar sankcijos skelbiamos viešai ne vėliau kaip per 3 darbo dienas, išskyrus atvejus, kai toks paskelbimas padarytų žalos rinkai ar padarytų neproporcingos žalos dalyvaujančioms šalims. Jeigu priežiūros institucija viešai paskelbia apie pritaikytą poveikio priemonę ar sankciją, ji tuo pačiu metu apie tai praneša Europos vertybinių popierių ir rinkų institucijai.
+14) vadovo pareigas finansų maklerio įmonėje einančiam asmeniui ar kitam fiziniam asmeniui, kuris laikomas atsakingu už Reglamento (ES) Nr. 596/2014 pažeidimą, laikinai uždrausti eiti vadovo pareigas finansų maklerio įmonėse;
 
-5. Priežiūros institucija kiekvienais metais pateikia Europos vertybinių popierių ir rinkų institucijai apibendrintą informaciją apie visas poveikio priemones, pritaikytas pagal šio straipsnio 1, 2 ir 3 dalis.
+15) jeigu pakartotinai per vienus metus nuo poveikio priemonės pritaikymo padaromi Reglamento (ES) Nr. 596/2014 14 ar 15 straipsnio pažeidimai, bet kuriam vadovo pareigas finansų maklerio įmonėje einančiam asmeniui ar kitam fiziniam asmeniui, kuris laikomas atsakingu už pažeidimą, uždrausti eiti vadovaujamas pareigas finansų maklerio įmonėse;
+
+16) uždrausti vadovo pareigas finansų maklerio įmonėje einančiam asmeniui ar kitam fiziniam asmeniui, kuris laikomas atsakingu už Reglamento (ES) Nr. 596/2014 pažeidimą, ne ilgiau kaip 3 mėnesiams sudaryti sandorius savo lėšomis.
+
+2. Taikant šio straipsnio 1 dalies 10 punktą, šiurkščiu pažeidimu laikomi Centrinio depozitoriumo valdymo organo nario ar kito fizinio asmens, kuris laikomas atsakingu, veiksmai, kuriais pažeidžiamos šio įstatymo, Reglamento (ES) Nr. 909/2014 ar jų įgyvendinamųjų teisės aktų nuostatos ir dėl kurių už pažeidimą atsakingas asmuo savo ar kitų asmenų naudai išvengė didelės turtinės žalos arba gavo didelės turtinės naudos, arba padarė didelės turtinės žalos tretiesiems asmenims, arba kilo grėsmė finansų rinkos stabilumui ir patikimumui. Turtinė žala yra didelė ir turtinė nauda yra didelė, kai jų vertė viršija 250 bazinių bausmių ir nuobaudų dydžio sumą.
+
+3. Informacija apie pritaikytas poveikio priemones, įskaitant informaciją apie padaryto teisės akto pažeidimo esmę ir jį padariusio asmens tapatybę, skelbiama priežiūros institucijos interneto svetainėje nedelsiant, kai priežiūros institucijos sprendimas šio įstatymo 94 straipsnio 8 dalyje nustatyta tvarka išsiunčiamas arba įteikiamas asmeniui, kuriam poveikio priemonė buvo pritaikyta. Jeigu sprendimas taikyti poveikio priemonę yra apskundžiamas, priežiūros institucijos interneto svetainėje taip pat pateikiama informacija apie dėl pritaikytų poveikio priemonių pateiktus skundus ir jų nagrinėjimo rezultatus. Be to, paskelbiami visi sprendimai, kuriais panaikinamas ankstesnis sprendimas taikyti poveikio priemonę. Jeigu informacijos apie pritaikytas poveikio priemones paskelbimas galėtų padaryti neigiamą įtaką finansų rinkos stabilumui, atliekamam ikiteisminiam tyrimui ar padaryti neproporcingos žalos fiziniams ar juridiniams asmenims, tokios informacijos skelbimas atidedamas, ji skelbiama neatskleidžiant informacijos apie pažeidimą padariusį asmenį arba sprendimas apie pažeidimą neskelbiamas. Priežiūros institucija užtikrina, kad paskelbta informacija jos interneto svetainėje būtų prieinama 5 metus nuo jos paskelbimo.
+
+4. Priežiūros institucija kiekvienais metais pateikia Europos vertybinių popierių ir rinkų institucijai apibendrintą informaciją apie visas poveikio priemones, pritaikytas pagal šio straipsnio 1 dalį.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1881, 2011-12-22, Žin., 2011, Nr. 163-7770 (2011-12-31)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 16 straipsnis. Papildomi reikalavimai finansų maklerio įmonėms ir rinkos operatoriams, administruojantiems daugiašalę prekybos sistemą
 
@@ -908,13 +940,21 @@ Finansinių priemonių rinkos priežiūros tikslai:
 
 2) reikalauti, kad asmenys pateiktų bet kokią kitą turimą informaciją, o esant poreikiui gauti papildomą informaciją – tokius asmenis iškviesti ir gauti jų paaiškinimus;
 
-3) atlikti tyrimus ir patikrinimus vietoje, jų metu pasitelkti auditorius ir ekspertus;
+3) atlikti tyrimus ir patikrinimus prižiūrimų finansų rinkos dalyvių patalpose, išskyrus privačias fizinių asmenų gyvenamąsias patalpas, jų metu pasitelkti auditorius ir ekspertus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 4) samdyti atitinkamų sričių specialistus, ekspertus (auditorius, buhalterius, teisininkus, informacinių technologijų specialistus ir kt.) pateikti nuomonę, išvadą, įvertinimą ar atlikti atitinkamos kvalifikacijos, žinių ar patirties reikalaujančius veiksmus;
 
 5) gauti informaciją apie elektroninių ryšių paslaugų abonentus ar registruotus elektroninių ryšių paslaugų naudotojus, su jais susijusius srauto duomenis ir elektroninių ryšių tinklais perduodamos informacijos turinį iš elektroninių ryšių tinklo ir (arba) paslaugų teikėjų;
 
-6) reikalauti nutraukti bet kokią veiklą, kuri pažeidžia šio įstatymo, jį detalizuojančių teisės aktų ar Reglamento (ES) Nr. 648/2012 nuostatas;
+6) reikalauti nutraukti bet kokią veiklą, kuri pažeidžia šio įstatymo, jo įgyvendinamųjų teisės aktų, Reglamento (ES) Nr. 648/2012, Reglamento (ES) Nr. 909/2014 ar Reglamento (ES) Nr. 596/2014 nuostatas, ir įpareigoti užtikrinti, kad ji nepasikartotų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 7) Neteko galios nuo 2015-05-01
 
@@ -938,7 +978,7 @@ Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
 
 15) įpareigoti asmenis atkurti iki pažeidimo buvusią padėtį;
 
-16) duoti šio įstatymo 81 straipsnio 6 ir 10 dalyse nustatytus privalomus nurodymus.
+16) duoti šio įstatymo 81 straipsnio 6 ir 10 dalyse nustatytus privalomus nurodymus;
 
 Papildyta straipsnio punktu:
 
@@ -947,6 +987,18 @@ Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
+
+17) reikalauti, kad neatidėliotinų sandorių rinkų dalyviai pateiktų standartinės formos informaciją apie biržos prekių išvestines finansines priemones, gauti ataskaitas apie sandorius ir turėti tiesioginę prieigą prie prekybos dalyvių sistemų;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+18) imtis visų reikalingų priemonių, kad visuomenė būtų teisingai informuota, taip pat ištaisyti tikrovės neatitinkančią ar klaidinančiai atskleistą informaciją, be kita ko, reikalaudama, kad emitentas ar kitas tikrovės neatitinkančią ar klaidinančią informaciją paskelbęs ar išplatinęs asmuo paskelbtų šią informaciją paneigiantį arba patikslinantį pareiškimą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 2. Šio straipsnio 1 dalies 5 punkte nurodyta teisė gali būti įgyvendinta tik turint teismo leidimą. Teismo leidimas gaunamas šio įstatymo 81 straipsnio 4 dalyje nustatyta tvarka.
 
@@ -1042,7 +1094,11 @@ Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
 
 6. Šio straipsnio 5 dalyje nurodytos institucijos turi teisę perduoti konfidencialią informaciją priežiūros institucijai, jeigu informacija reikalinga šiame įstatyme numatytoms funkcijoms atlikti.
 
-7. Jeigu priežiūros institucija turi duomenų, kad šio įstatymo 62 ar 63 straipsniuose uždrausti veiksmai yra atliekami ar buvo atlikti kitos valstybės narės teritorijoje ar jie yra susiję su finansinėmis priemonėmis, kuriomis prekiaujama tokios valstybės reguliuojamoje rinkoje, ji apie tai praneša atitinkamai valstybės narės priežiūros institucijai.
+7. Jeigu priežiūros institucija turi duomenų, kad Reglamente (ES) Nr. 596/2014 uždrausti veiksmai yra atliekami ar buvo atlikti kitos valstybės narės teritorijoje ar jie yra susiję su finansinėmis priemonėmis, kuriomis prekiaujama tokios valstybės reguliuojamoje rinkoje ar daugiašalės prekybos sistemoje, ji apie tai praneša atitinkamai valstybės narės priežiūros institucijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 Straipsnio pakeitimai:
 
@@ -1164,7 +1220,11 @@ Asmenys, pažeidę šį įstatymą, privalo:
 
 6) reguliuojamos rinkos operatoriams, nesilaikantiems kitų šio įstatymo III skyriuje nustatytų reikalavimų, – iki 28 962 eurų;
 
-7) juridiniams asmenims, nesilaikantiems šio įstatymo IV skyriuje nustatytų reikalavimų, – iki 57 924 eurų;
+7) neteko galios nuo 2017-06-28;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 8) juridiniams asmenims, nesilaikantiems šio įstatymo 82 straipsnyje nustatyto draudimo, – iki 28 962 eurų;
 
@@ -1176,17 +1236,77 @@ Asmenys, pažeidę šį įstatymą, privalo:
 
 12) juridiniams asmenims, nesilaikantiems Reglamento (ES) Nr. 648/2012 4, 5, 7–11 straipsniuose nustatytų reikalavimų, – iki 57 924 eurų;
 
-13) juridiniams asmenims, nesilaikantiems Reglamente (EB) Nr. 1060/2009  nustatytų reikalavimų, – iki 57 924 eurų.
+13) juridiniams asmenims, nesilaikantiems Reglamente (EB) Nr. 1060/2009  nustatytų reikalavimų, – iki 57 924 eurų;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-1470, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21127
 
+14) fiziniams asmenims, nesilaikantiems Reglamento (ES) Nr. 596/2014 14 ir 15 straipsniuose nustatytų draudimų, – iki 5 000 000 eurų;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+15) fiziniams asmenims, nesilaikantiems Reglamento (ES) Nr. 596/2014 16 straipsnyje nustatytų reikalavimų, – iki 1 000 000 eurų;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+16) fiziniams asmenims, nesilaikantiems Reglamento (ES) Nr. 596/2014 18, 19 ir 20 straipsniuose nustatytų reikalavimų, – iki 500 000 eurų;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+17) juridiniams asmenims, nesilaikantiems Reglamento (ES) Nr. 596/2014 14 ir 15 straipsniuose nustatytų draudimų, – iki 15 000 000 eurų arba iki 15 procentų bendrųjų metinių pajamų;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+18) juridiniams asmenims, nesilaikantiems Reglamento (ES) Nr. 596/2014 16 straipsnyje nustatytų reikalavimų, – iki 2 500 000 eurų arba iki 2 procentų bendrųjų metinių pajamų;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+19) juridiniams asmenims, nesilaikantiems Reglamento (ES) Nr. 596/2014 18, 19 ir 20 straipsniuose nustatytų reikalavimų, – iki 1 000 000 eurų;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+20) fiziniams asmenims, padariusiems Reglamento (ES) Nr. 909/2014 63 straipsnio 1 dalyje nustatytus pažeidimus, – iki 5 000 000 eurų;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+21) juridiniams asmenims, padariusiems Reglamento (ES) Nr. 909/2014 63 straipsnio 1 dalyje nustatytus pažeidimus, – iki 20 000 000 eurų arba iki 10 procentų to juridinio asmens bendros metinės apyvartos.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1103, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13435
 
+11. Jeigu juridinis asmuo yra patronuojamoji įmonė arba patronuojančioji įmonė, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis pagal šio straipsnio 1 dalies 17, 18 ir 21 punktus, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės parengtame ir patvirtintame praėjusių finansinių metų įmonių grupės konsoliduotųjų finansinių ataskaitų rinkinyje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
 2. Jeigu dėl šio straipsnio 1 dalies 1–8 ir 12 punktuose išvardytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar žalos dydis viršijo minėtuose punktuose nurodytų baudų dydžius, priežiūros institucija turi teisę skirti baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
+
+21. Jeigu dėl Reglamente (ES) Nr. 596/2014 ar Reglamente (ES) Nr. 909/2014 išvardytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 dalies 14–21 punktuose nurodytus baudų dydžius, skiriama bauda iki trigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 3. Šio straipsnio 1 dalyje nustatytų sankcijų taikymas juridiniams asmenims neatleidžia jų vadovų ar darbuotojų nuo įstatymų nustatytos civilinės, administracinės ir baudžiamosios atsakomybės, taip pat neužkerta kelio priežiūros institucijai svarstyti klausimą dėl jos išduotų licencijų galiojimo sustabdymo ar panaikinimo.
 
@@ -1758,37 +1878,11 @@ ausrine.trapinskiene@lrs.lt
 
 67 straipsnis. Centrinis depozitoriumas
 
-1. Centrinis depozitoriumas yra akcinė bendrovė, veikianti pagal šį įstatymą ir savo įstatus.
+Centrinio depozitoriumo organizacinius ir veiklos reikalavimus nustato Reglamentas (ES) Nr. 909/2014.
 
-2. Centrinio depozitoriumo stebėtojų tarybos nariai, valdybos nariai ar vadovas turi būti nepriekaištingos reputacijos, turėti priežiūros institucijos nustatytą kvalifikaciją ar darbo patirtį finansų ir joms prilygintose institucijose.
+Straipsnio pakeitimai:
 
-3. Centrinio depozitoriumo akcininkais gali būti tik Lietuvos Respublika, Lietuvos bankas, Lietuvos Respublikoje ar kitoje valstybėje narėje licencijuotos kredito įstaigos, finansų maklerio įmonės, draudimo įmonės, valdymo įmonės, rinkos operatoriai, centriniai depozitoriumai ir pagrindinės sutarties šalys. Centrinis depozitoriumas gali išleisti tik paprastąsias vardines akcijas.
-
-4. Centrinio depozitoriumo akcijų paketu laikoma jo įstatinio kapitalo ar balsavimo teisių dalis, sudaranti ne mažiau kaip 1/10 įstatinio kapitalo ar balsavimo teisių arba leidžianti daryti esminę įtaką Centrinio depozitoriumo valdymui.
-
-5. Juridinis asmuo arba kartu veikiantys asmenys, siekiantys įsigyti Centrinio depozitoriumo akcijų paketą arba padidinti turimą akcijų paketą (toliau šiame straipsnyje – įsigyjantis asmuo) tiek, kad būtų peržengtos šio įstatymo 10 straipsnio 1 dalyje nurodytos ribos (toliau šiame straipsnyje – siūlomas įsigijimas), turi gauti priežiūros institucijos sprendimą neprieštarauti siūlomam įsigijimui. Kartu veikiančiais asmenimis šiame straipsnyje laikomi du ar daugiau juridinių asmenų, kurie, remdamiesi aiškiai sudarytu ar numanomu žodiniu ar rašytiniu susitarimu, įgyvendina ar siekia įgyvendinti savo teises, kurias suteikia jų turimas Centrinio depozitoriumo akcijų paketas.
-
-6. Įsigyjantis asmuo privalo pateikti priežiūros institucijai rašytinį pranešimą apie siūlomą įsigijimą ir jame nurodyti ketinamo įsigyti akcijų paketo dydį. Kartu su pranešimu apie siūlomą įsigijimą reikia pateikti dokumentus ir duomenis, būtinus įsigyjančio asmens ir siūlomo įsigijimo vertinimui atlikti.
-
-7. Priežiūros institucija nustato kartu su pranešimu apie siūlomą įsigijimą pateikiamų dokumentų ir duomenų, būtinų įsigyjančio asmens ir siūlomo įsigijimo vertinimui atlikti, sąrašą. Šiame sąraše nurodyti dokumentai ir duomenys turi būti proporcingi, pritaikyti įsigyjančiam asmeniui ir siūlomam įsigijimui ir būtini įsigyjančio asmens ir siūlomo įsigijimo vertinimui pagal šio įstatymo 10 straipsnio 10 dalyje nustatytus kriterijus atlikti.
-
-8. Priežiūros institucija, gavusi įsigyjančio asmens pranešimą apie siūlomą įsigijimą ir visus šio straipsnio 7 dalyje nustatytame sąraše nurodytus dokumentus ir duomenis:
-
-1) per 20 darbo dienų atlieka įsigyjančio asmens vertinimą (toliau šiame straipsnyje – vertinimo laikotarpis);
-
-2) vertinimo laikotarpiu prireikus gali raštu paprašyti papildomos vertinimui užbaigti reikalingos informacijos. Šiuo atveju vertinimo laikotarpis skaičiuojamas nuo papildomos informacijos gavimo dienos;
-
-3) vertinimo laikotarpiu turi teisę konsultuotis su kitų valstybių narių priežiūros institucijomis, jeigu įsigyjantis asmuo yra valstybėje narėje licencijuota ir (arba) prižiūrima įmonė.
-
-9. Priežiūros institucija, atlikusi įsigyjančio asmens vertinimą, priima vieną iš šių sprendimų:
-
-1) neprieštarauti siūlomam įsigijimui. Apie šį sprendimą priežiūros institucija per  2 darbo dienas nuo sprendimo priėmimo raštu praneša įsigyjančiam asmeniui;
-
-2) prieštarauti siūlomam įsigijimui, vadovaujantis šio įstatymo 10 straipsnio  10 dalyje nustatytais kriterijais arba tais atvejais, kai įsigyjantis asmuo pateikė ne visus šio straipsnio 7 dalyje nustatytame sąraše nurodytus dokumentus ir duomenis ar nepateikė šio straipsnio 8 dalies 2 punkte nurodytos papildomos informacijos arba kai yra pagrindas manyti, kad siūlomas įsigijimas turės neigiamą įtaką saugiam ir veiksmingam finansinių priemonių rinkų veikimui. Apie šį sprendimą priežiūros institucija per 2 darbo dienas nuo sprendimo priėmimo raštu praneša įsigyjančiam asmeniui, nurodydama sprendimo motyvus.
-
-10. Jeigu priežiūros institucija per vertinimo laikotarpį nepriima sprendimo prieštarauti siūlomam įsigijimui, laikoma, kad priežiūros institucija siūlomam įsigijimui neprieštarauja.
-
-11. Asmens, įsigijusio Centrinio depozitoriumo akcijų paketą arba padidinusio akcijų paketą daugiau negu šio įstatymo 10 straipsnio 1 dalyje nurodytos ribos negavus priežiūros institucijos sprendimo neprieštarauti siūlomam įsigijimui arba nepasibaigus siūlomo įsigijimo vertinimui, visos turimos akcijos praranda balsavimo teisę visuotiniame akcininkų susirinkime. Balsavimo teisė vėl įgyjama tą dieną, kurią gaunamas priežiūros institucijos sprendimas neprieštarauti siūlomam įsigijimui, arba jeigu priežiūros institucija vertinimo laikotarpiu nepareiškia prieštaravimo dėl įsigijimo.
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 901 straipsnis. Jungtinė (konsoliduota)
 
@@ -1846,7 +1940,11 @@ XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
 
 6) įmonę siejantys glaudūs ryšiai su kitais fiziniais ar juridiniais asmenimis gali trukdyti priežiūros institucijai veiksmingai atlikti priežiūros funkcijas;
 
-7) bent vienas įmonės darbuotojas yra Lietuvos Respublikoje veikiančios reguliuojamos rinkos ar Lietuvos centrinio vertybinių popierių depozitoriumo (toliau – Centrinis depozitoriumas) darbuotojas;
+7) bent vienas įmonės darbuotojas yra Lietuvos Respublikoje veikiančios reguliuojamos rinkos ar Centrinio depozitoriumo darbuotojas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 8) turimos ar nuomojamos patalpos ar įranga nėra tinkamos investicinių paslaugų teikimo veiklai vykdyti;
 
@@ -1890,11 +1988,15 @@ Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
 
 2) teikia išaiškinimus ir rekomendacijas finansinių priemonių apyvartos klausimais;
 
-3) reguliuojamoms rinkoms, finansų maklerio įmonėms, finansų patarėjo įmonėms, makleriams išduoda licencijas ar panaikina jų galiojimą;
+3) reguliuojamoms rinkoms, finansų maklerio įmonėms, finansų patarėjo įmonėms, makleriams ir centriniams depozitoriumams išduoda licencijas ar panaikina jų galiojimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 4) stebi, analizuoja, tikrina ir kitaip prižiūri finansų maklerio įmonių, finansų patarėjo įmonių, reguliuojamų rinkų ir jų narių, Centrinio depozitoriumo ir sąskaitų tvarkytojų veiklą;
 
-5) atlieka kompetentingai institucijai priskirtas funkcijas, nustatytas Reglamente (EB) Nr. 1060/2009, 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 648/2012 (toliau – Reglamentas (ES) Nr. 648/2012) ir Reglamente (ES) Nr. 575/2013;
+5) atlieka kompetentingai institucijai priskirtas funkcijas, nustatytas Reglamente (EB) Nr. 1060/2009, 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 648/2012 (toliau – Reglamentas (ES) Nr. 648/2012), Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 909/2014 ir Reglamente (ES) Nr. 596/2014;
 
 Straipsnio punkto pakeitimai:
 
@@ -1902,11 +2004,15 @@ Nr. XII-1470, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21127
 
 Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
 
-6) taiko šiame ir kituose Lietuvos Respublikos įstatymuose nustatytas sankcijas asmenims, pažeidusiems šį įstatymą, Reglamentą (ES) Nr. 648/2012, Reglamentą (ES) Nr. 575/2013 ir priežiūros institucijos teisės aktus;
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+6) taiko šiame įstatyme nustatytas sankcijas asmenims, pažeidusiems šį įstatymą, Reglamentą (ES) Nr. 648/2012, Reglamentą (ES) Nr. 575/2013, Reglamentą (ES) Nr. 596/2014, Reglamentą (ES) Nr. 909/2014 ir jų įgyvendinamuosius teisės aktus;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 7) rengia ar dalyvauja rengiant leidinius apie finansinių priemonių rinkų veikimą ir reguliavimą;
 
@@ -1918,7 +2024,11 @@ Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
 
 11) bendradarbiauja ir keičiasi reikalinga informacija su kitų valstybių atitinkamomis institucijomis;
 
-12) bendradarbiauja su Europos vertybinių popierių ir rinkų institucija pagal Reglamentą (ES) Nr. 1095/2010 ir su Europos bankininkystės institucija pagal Reglamentą (ES) Nr. 1093/2010 ir nedelsdama teikia joms visą jų užduotims vykdyti būtiną informaciją;
+12) bendradarbiauja su Europos vertybinių popierių ir rinkų institucija pagal Reglamentą (ES) Nr. 1095/2010, Reglamentą (ES) Nr. 596/2014 ir Reglamentą (ES) Nr. 909/2014 ir su Europos bankininkystės institucija pagal Reglamentą (ES) Nr. 1093/2010 ir nedelsdama teikia joms visą jų užduotims vykdyti būtiną informaciją;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 13) atlieka jungtinę (konsoliduotą) priežiūrą;
 
@@ -1964,7 +2074,11 @@ Nr. XII-339, 2013-05-28, Žin., 2013, Nr. 62-3054 (2013-06-12)
 
 81 straipsnis. Priežiūros institucijos teisės nagrinėjant finansinių priemonių rinkų veikimą reglamentuojančių norminių teisės aktų pažeidimus
 
-1. Priežiūros institucija turi teisę organizuoti ir atlikti patikrinimus, kad nustatytų, ar laikomasi šio įstatymo, jo pagrindu priimtų teisės aktų ir Reglamento (ES) Nr. 648/2012 reikalavimų.
+1. Priežiūros institucija turi teisę organizuoti ir atlikti patikrinimus, kad nustatytų, ar laikomasi šio įstatymo, jo pagrindu priimtų teisės aktų, Reglamento (ES) Nr. 648/2012, Reglamento (ES) Nr. 909/2014 ir Reglamento (ES) Nr. 596/2014 reikalavimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 2. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi teisę:
 
@@ -1972,7 +2086,11 @@ Nr. XII-339, 2013-05-28, Žin., 2013, Nr. 62-3054 (2013-06-12)
 
 2) pateikę tarnybinį pažymėjimą ir priežiūros institucijos ar jos įgalioto tarnautojo motyvuotą sprendimą, atlikti patikrinimą (reviziją), laisvai įeiti į finansų maklerio įmonių, kredito įstaigų, rinkų operatorių, Centrinio depozitoriumo, emitentų, valdymo įmonių, finansų patarėjų įmonių, investicinių bendrovių patalpas, tikrinti dokumentus, darbuotojų užrašus, apskaitos registrus ir kitus patikrinimui reikalingus informacijos šaltinius, gauti jų kopijas ir išrašus, kopijuoti juos bei kompiuteriuose ir bet kokiose laikmenose esančią informaciją ir pagal tikrinimo medžiagą iš ekspertizės įstaigų gauti išvadas;
 
-3) įeiti į kitų juridinių asmenų, susijusių su galimais pažeidimais, taip pat juridinių asmenų, kurių darbuotojai susiję su galimais pažeidimais, patalpas ir atlikti patikrinimą, peržiūrėti tyrimui reikalingus juridinio asmens dokumentus, gauti jų kopijas ir išrašus, susipažinti su juridinio asmens darbuotojų užrašais, kopijuoti juos bei kompiuteriuose ir bet kokiose laikmenose esančią informaciją;
+3) įeiti ir atlikti patikrinimą kitų juridinių asmenų, įtariamų padarius finansų rinką reglamentuojančių teisės aktų pažeidimus ar susijusių su galimais pažeidimais, patalpose, taip pat patekti į fizinių asmenų gyvenamąsias patalpas, peržiūrėti patikrinimui atlikti reikalingus dokumentus, gauti jų kopijas ir išrašus, susipažinti su juridinio asmens darbuotojų užrašais, kopijuoti juos bei kompiuteriuose ir bet kokiose laikmenose esančią informaciją, taip pat atlikti dokumentų ir bet kokio formato duomenų poėmį;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 4) išreikalauti, kad būtų padarytos apskaitos dokumentų, sutarčių, įsakymų, memorandumų ir kitų dokumentų, kuriuos priežiūros institucija laiko svarbiais tyrimui, kopijos;
 
@@ -1984,11 +2102,19 @@ Nr. XII-339, 2013-05-28, Žin., 2013, Nr. 62-3054 (2013-06-12)
 
 3. Patikrinimo veiksmai, nurodyti šio straipsnio 2 dalies 3 punkte, gali būti atliekami tik turint teismo leidimą.
 
-4. Kai priežiūros institucija priima sprendimą dėl veiksmų, numatytų šio įstatymo 71 straipsnio 1 dalies 5 punkte, šio straipsnio 2 dalies 3 punkte ir 6 dalies 1 punkte, priežiūros institucijos įgaliotas tarnautojas pateikia Vilniaus apygardos administraciniam teismui prašymą dėl teismo leidimo atlikti šiuos veiksmus. Prašyme turi būti nurodytas juridinio asmens pavadinimas, įtariamų pažeidimų pobūdis ir numatomi tyrimo veiksmai. Prie prašymo turi būti pridėti įrodymai, patvirtinantys įtariamus pažeidimus. Prašymą dėl teismo leidimo išdavimo rašytinio proceso tvarka nagrinėja Vilniaus apygardos administracinio teismo teisėjas ir priima motyvuotą nutartį patenkinti prašymą arba jį atmesti. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu priežiūros institucija nesutinka su Vilniaus apygardos administracinio teismo teisėjo sprendimu atmesti prašymą, ji turi teisę per 7 dienas apskųsti teisėjo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas. Priežiūros institucijos atstovai turi teisę dalyvauti nagrinėjant skundą. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+4. Kai priežiūros institucija priima sprendimą dėl veiksmų, numatytų šio įstatymo 71 straipsnio 1 dalies 5 punkte, šio straipsnio 2 dalies 3 punkte ir 6 dalies 1 punkte, 83 straipsnio 1 dalies 9, 10, 14 ir 15 punktuose, priežiūros institucijos įgaliotas tarnautojas pateikia Vilniaus apygardos administraciniam teismui prašymą dėl teismo leidimo atlikti šiuos veiksmus. Prašyme turi būti nurodytas juridinio asmens pavadinimas, fizinio asmens duomenys, įtariamų pažeidimų pobūdis ir numatomi tyrimo veiksmai. Prie prašymo turi būti pridėti įrodymai, patvirtinantys įtariamus pažeidimus. Prašymą dėl teismo leidimo išdavimo rašytinio proceso tvarka nagrinėja Vilniaus apygardos administracinio teismo teisėjas ir priima motyvuotą nutartį patenkinti prašymą arba jį atmesti. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu priežiūros institucija nesutinka su Vilniaus apygardos administracinio teismo teisėjo sprendimu atmesti prašymą, ji turi teisę per 7 dienas apskųsti teisėjo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas. Priežiūros institucijos atstovai turi teisę dalyvauti nagrinėjant skundą. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 5. Šio straipsnio 2 dalyje nustatytoms teisėms įgyvendinti priežiūros institucija gali pasitelkti policijos pareigūnus.
 
-6. Priežiūros institucija, turėdama pagrindą įtarti, kad buvo pažeistos šio įstatymo, jo įgyvendinamųjų teisės aktų ar Reglamento (ES) Nr. 575/2013 nuostatos, arba turėdama duomenų, kad jos gali būti pažeistos per ateinančius 12 mėnesių, arba siekdama išvengti esminės žalos ar nepataisomų pasekmių investuotojų interesams, turi teisę finansų maklerio įmonei, finansų patarėjo įmonei, reguliuojamos rinkos operatoriui ar Centriniam depozitoriumui duoti tokius privalomus nurodymus:
+6. Priežiūros institucija, turėdama pagrindą įtarti, kad buvo pažeistos šio įstatymo, jo įgyvendinamųjų teisės aktų, Reglamento (ES) Nr. 596/2014 ar Reglamento (ES) Nr. 575/2013 nuostatos, arba turėdama duomenų, kad jos gali būti pažeistos per ateinančius 12 mėnesių, arba siekdama išvengti esminės žalos ar nepataisomų pasekmių investuotojų interesams, turi teisę finansų maklerio įmonei, finansų patarėjo įmonei, reguliuojamos rinkos operatoriui ar Centriniam depozitoriumui duoti tokius privalomus nurodymus:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 1) nutraukti tam tikrą veiklą, kol bus atliktas patikrinimas ir priimtas priežiūros institucijos sprendimas dėl įtariamo pažeidimo;
 
@@ -2488,7 +2614,11 @@ Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
 
 6. Reguliuojamos rinkos operatorius privalo laikytis rinkos operatoriui keliamų organizacinių ir veiklos reikalavimų (įskaitant pradinius reikalavimus reguliuojamos rinkos licencijai gauti) ir užtikrinti, kad jo administruojama reguliuojama rinka laikytųsi kitų šiame skyriuje nustatytų reikalavimų.
 
-7. Nepažeidžiant šio įstatymo 62 ir 63 straipsnių nuostatų, prekyba Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje vykdoma laikantis Lietuvos Respublikos teisės aktų reikalavimų.
+7. Neteko galios nuo 2017-06-28.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 45 straipsnis. Atsisakymo išduoti reguliuojamos rinkos licenciją pagrindai
 
@@ -2620,9 +2750,15 @@ Straipsnio pakeitimai:
 
 Nr. XI-1881, 2011-12-22, Žin., 2011, Nr. 163-7770 (2011-12-31)
 
-IV SKYRIUS
+4 skyrius. Neteko galios nuo 2017-06-28
 
-DRAUDIMAS PIKTNAUDŽIAUTI FINANSINIŲ PRIEMONIŲ RINKA
+Skyriaus naikinimas:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+V SKYRIUS
+
+FINANSINIŲ PRIEMONIŲ APSKAITA
 
 64 straipsnis. Finansinių priemonių apskaitos pagrindai
 
@@ -2642,59 +2778,11 @@ DRAUDIMAS PIKTNAUDŽIAUTI FINANSINIŲ PRIEMONIŲ RINKA
 
 Sąskaitų tvarkytojas finansinių priemonių savininkui privalo sutartyje su finansinių priemonių savininku nustatyta tvarka, būdu ir periodiškumu pranešti apie bet kokį pasikeitimą jo sąskaitoje. Pasibaigus kalendoriniams metams, sąskaitų tvarkytojai sutartyje nurodytu būdu ir tvarka privalo pateikti ataskaitą apie finansinių priemonių sąskaitos būklę paskutinės praėjusių metų dienos pabaigoje.
 
-68 straipsnis. Centrinio depozitoriumo teisės ir pareigos
+68 straipsnis. Neteko galios nuo 2017-06-28.
 
-1. Centrinis depozitoriumas privalo:
+Straipsnio pakeitimai:
 
-1) rengti ir teikti priežiūros institucijai tvirtinti Finansinių priemonių ir jų apyvartos apskaitos taisykles;
-
-2) rengti ir tvirtinti finansinių priemonių ir jų apyvartos apskaitos dokumentus, išsamiai nustatančius atskiras taisyklėse nustatytas procedūras, taip pat kitus dokumentus, reglamentuojančius finansinių priemonių ir jų apyvartos apskaitą;
-
-3) atidaryti sąskaitų tvarkytojų ir asmenines finansinių priemonių sąskaitas ir jas tvarkyti;
-
-4) užtikrinti, kad vykdant sandorius dėl finansinių priemonių šios finansinės priemonės būtų laiku pervestos iš vieno sąskaitų tvarkytojo finansinių priemonių sąskaitos į kito sąskaitų tvarkytojo finansinių priemonių sąskaitą;
-
-5) kontroliuoti, kad išleistų į apyvartą kiekvienos emisijos finansinių priemonių skaičius atitiktų faktiškai cirkuliuojančių šių finansinių priemonių skaičių;
-
-6) rengti ir diegti priemones, užtikrinančias finansinių priemonių apskaitos sistemos vientisumą ir saugumą;
-
-7) kontroliuoti, kaip sąskaitų tvarkytojai laikosi finansinių priemonių apskaitos taisyklių ir kitų dokumentų nuostatų, reglamentuojančių finansinių priemonių ir jų apyvartos apskaitą;
-
-8) kaupti, apdoroti ir platinti informaciją apie finansinių priemonių apskaitą, rengti ir konsultuoti finansinių priemonių apskaitos specialistus;
-
-9) išduoti sąskaitų tvarkytojams išrašus apie jų finansinių priemonių sąskaitos būklę;
-
-10) užtikrinti konfidencialios informacijos apsaugą ir vykdyti vidaus kontrolę;
-
-11) teikti priežiūros institucijai pasiūlymus finansinių priemonių apskaitos klausimais ir pateikti jai ataskaitą, kaip per metus buvo tobulinama apskaita ir kokios iškilo pagrindinės problemos;
-
-12) nemokamai teikti priežiūros institucijai jos funkcijoms atlikti reikalingą informaciją;
-
-13) turėti tinkamų priemonių valdyti riziką, kuri būdinga Centrinio depozitoriumo veiklai, naudoti priemones ir sistemas veiklos rizikai nustatyti ir turėti veiksmingų priemonių potencialiai rizikai sumažinti;
-
-14) turėti pakankamus finansinius išteklius, užtikrinančius tinkamą Centrinio depozitoriumo veikimą;
-
-15) turėti tinkamų priemonių ir nustatytų procedūrų, skirtų nustatyti ir valdyti situacijas, dėl kurių gali būti neigiamų pasekmių finansinių priemonių rinkų, atsiskaitymo sistemų veikimui ar jų dalyviams, taip pat skirtų nustatyti ir valdyti interesų konfliktus tarp Centrinio depozitoriumo, jo akcininkų ar kitų rinkos dalyvių, ypač tais atvejais, kai tokie interesų konfliktai galėtų turėti neigiamų pasekmių veiksmingam finansinių priemonių rinkų ar atsiskaitymo sistemų veikimui;
-
-16) teikti Lietuvos bankui finansinių priemonių saugojimo, apskaitos, pervedimo ir su tuo susijusias paslaugas, reikalingas Lietuvos bankui ir Europos centrinių bankų sistemos funkcijoms atlikti.
-
-2. Centrinis depozitoriumas turi teisę:
-
-1) tvarkyti tarpuskaitą ir piniginius atsiskaitymus už finansinių priemonių sandorius;
-
-2) iš sąskaitų tvarkytojų, kuriems iškelta bankroto byla, perimti finansinių priemonių apskaitos tvarkymą;
-
-3) teikti emitentams ir sąskaitų tvarkytojams kitas su finansinių priemonių ir jų apyvartos apskaita bei atsiskaitymais susijusias paslaugas;
-
-4) sudaryti sandorius su kitais asmenimis, pagal kuriuos šiems asmenims būtų perduodamas su finansinių priemonių ir jų apyvartos apskaita ir finansinių priemonių pervedimu susijusių funkcijų techninis atlikimas, jeigu tam neprieštarauja priežiūros institucija.
-
-3. Priežiūros institucijos atstovas, turintis patariamojo balso teisę, turi teisę dalyvauti Centrinio depozitoriumo valdymo organų posėdžiuose ir gauti posėdžio dalyviams teikiamą medžiagą.
-
-4. Centrinio depozitoriumo dokumentai finansinių priemonių ir jų apyvartos apskaitos, jos saugumo reikalavimų užtikrinimo klausimais yra privalomi visiems sąskaitų tvarkytojams.
-
-5. Centrinio depozitoriumo nustatyti bendrai ir standartizuotai taikomi sąskaitų tvarkytojų stojamųjų ir metų įmokų, ketvirčio sąskaitų tvarkymo įmokų ir operacijų įmokų už apskaitos įrašus dydžiai turi būti suderinti su priežiūros institucija.
-
-6. Priežiūros institucija nustato Centrinio depozitoriumo kapitalo reikalavimus ir lėšų investavimo apribojimus. Centrinis depozitoriumas priežiūros institucijos nustatyta tvarka privalo pateikti kapitalo pakankamumo skaičiavimo ataskaitą, finansines ataskaitas ir kitus priežiūros institucijos nustatytus dokumentus.
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 VI SKYRIUS
 
@@ -2732,11 +2820,15 @@ Nr. XI-1881, 2011-12-22, Žin., 2011, Nr. 163-7770 (2011-12-31)
 
 4) pažeisti Lietuvos Respublikos įstatymai ar kiti teisės aktai;
 
-5) pažeisti Reglamente (EB) Nr. 1060/2009 nustatyti reikalavimai;
+5) pažeisti Reglamente (EB) Nr. 1060/2009, Reglamente (ES) Nr. 596/2014 ir Reglamente (ES) Nr. 909/2014 nustatyti reikalavimai;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-1470, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21127
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 6) finansų maklerio įmonė nesugeba įvykdyti prievolių pagal savo įsipareigojimus ar yra duomenų, kad nesugebės to padaryti ateityje.;
 
@@ -2816,11 +2908,37 @@ Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
 
 1) pažeidimu padarytos žalos dydį;
 
-2) pažeidimo trukmę;
+2) nustatyto pažeidimo sunkumą ir trukmę;
 
-3) asmeniui dėl pažeidimo tekusių pajamų, kitokios turtinės naudos dydį ar į kitą iš pažeidimo gautą naudą;
+Straipsnio punkto pakeitimai:
 
-4) atsakomybę lengvinančias ar sunkinančias aplinkybes.
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+3) asmeniui dėl pažeidimo tekusių pajamų, kitokios turtinės naudos ar išvengtų nuostolių dydį ar kitą dėl pažeidimo gautą naudą, kai juos įmanoma nustatyti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+4) atsakomybę lengvinančias ar sunkinančias aplinkybes;
+
+5) asmens, kuriam taikoma poveikio priemonė, kaltę ir finansinį pajėgumą (juridinio asmens finansinis pajėgumas nustatomas pagal bendrą jo apyvartą, fizinio asmens – pagal jo metines pajamas);
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+6) asmens, kuriam taikoma poveikio priemonė, ankstesnius per pastaruosius 10 metų padarytus pažeidimus ir jam taikytas poveikio priemones, taip pat bendradarbiavimą su priežiūros institucija;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+7) priemones, kurių už pažeidimą atsakingas asmuo ėmėsi siekdamas, kad šis pažeidimas nepasikartotų.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 6. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad įtariamas asmuo savo noru užkerta kelią neigiamoms pažeidimo pasekmėms, padeda priežiūros institucijai tyrimo metu, atlygina nuostolius ar ištaiso padarytą žalą. Priežiūros institucija gali nutarti atsakomybę lengvinančiomis aplinkybėmis laikyti ir kitas čia nenurodytas aplinkybes.
 
@@ -2874,7 +2992,11 @@ Nauja priedo redakcija nuo 2015-12-03
 
 2. 2001 m. gegužės 28 d. Europos Parlamento ir Tarybos direktyva 2001/34/EB dėl vertybinių popierių įtraukimo į biržos oficialųjį prekybos sąrašą ir dėl informacijos, kuri turi būti skelbiama apie tuos vertybinius popierius (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 24).
 
-3. 2003 m. sausio 28 d. Europos Parlamento ir Tarybos direktyva 2003/6/EB dėl prekybos vertybiniais popieriais, pasinaudojant viešai neatskleista informacija, ir manipuliavimo rinka (piktnaudžiavimo rinka) (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 367) su paskutiniais pakeitimais, padarytais 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/78/ES (OL 2010 L 331, p. 120).
+3. Neteko galios nuo 2017-06-28.
+
+Punkto pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 4. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/39/EB dėl finansinių priemonių rinkų, iš dalies keičianti Tarybos direktyvas 85/611/EEB, 93/6/EEB ir Europos Parlamento ir Tarybos direktyvą 2000/12/EB bei panaikinanti Tarybos direktyvą 93/22/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 7 tomas, p. 263), su paskutiniais pakeitimais, padarytais 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/78/ES (OL 2010 L 331, p. 120).
 
@@ -2887,6 +3009,18 @@ Nauja priedo redakcija nuo 2015-12-03
 8. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
 
 9. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema, ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012 (OL 2014 L 173, p. 190).
+
+10. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB (OL 2014 L 173, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/1033 (OL 2016 L 175, p. 1).
+
+Papildyta punktu:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+11. 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 909/2014 dėl atsiskaitymo už vertybinius popierius gerinimo Europos Sąjungoje ir centrinių vertybinių popierių depozitoriumų, kuriuo iš dalies keičiamos direktyvos 98/26/EB ir 2014/65/ES bei Reglamentas (ES) Nr. 236/2012 (OL 2014 L 257, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/1033 (OL 2016 L 175, p. 1).
+
+Papildyta punktu:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 Priedo pakeitimai:
 
@@ -3012,6 +3146,14 @@ Nr. XII-2454, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17721
 
 Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 83 straipsnio pakeitimo įstatymas
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
+
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 7, 44, 67, 70, 71, 73-1, 76, 81, 83, 84, 93, 94 straipsnių ir priedo pakeitimo ir IV skyriaus, 25-1, 68 straipsnių pripažinimo netekusiais galios įstatymas
+
 121 straipsnis. Pradinio kapitalo reikalavimai
 
 1. Finansų maklerio įmonės pradinį kapitalą sudaro vieno ar daugiau Reglamento (ES) Nr. 575/2013 26 straipsnio 1 dalies a–e punktuose nustatytų nuosavo kapitalo dalių suma.
@@ -3068,29 +3210,29 @@ Papildyta straipsniu:
 
 Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
 
-251 straipsnis. Pranešimas apie pažeidimus finansų maklerio įmonėje
+251 straipsnis. Neteko galios nuo 2017-06-28.
 
-Finansų maklerio įmonė turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų jos darbuotojams specialiu, nepriklausomu ir autonomišku kanalu finansų maklerio įmonės vadovams ar kitiems įgaliotiems asmenims pranešti apie padarytą ar galimą šio įstatymo, jo įgyvendinamųjų teisės aktų ar Reglamento (ES) Nr. 575/2013 nuostatų pažeidimą. Šiam reikalavimui įgyvendinti finansų maklerio įmonė gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi šio įstatymo 731 straipsnio 2, 3 ir 4 punktuose nustatyti reikalavimai.
+Straipsnio pakeitimai:
 
-Papildyta straipsniu:
-
-Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 731 straipsnis. Pranešimas apie pažeidimus
 
-Priežiūros institucija nustato priemones, kurios skatintų pranešti jai apie šio įstatymo, jo įgyvendinamųjų teisės aktų ar Reglamento (ES) Nr. 575/2013 nuostatų pažeidimą. Šios priemonės turi atitikti šiuos reikalavimus:
+1. Priežiūros institucija nustato priemones, kurios skatintų pranešti jai apie šio įstatymo, Reglamento (ES) Nr. 575/2013, Reglamento (ES) Nr. 909/2014 ir Reglamento (ES) Nr. 596/2014 ar jų įgyvendinamųjų teisės aktų nuostatų pažeidimą. Šios priemonės turi atitikti šiuos reikalavimus:
 
-1) numatytos specialios pranešimo apie minėtus pažeidimus gavimo ir vertinimo procedūros;
+1) numatytos specialios pranešimo apie minėtus pažeidimus gavimo ir vertinimo procedūros ir su juo susiję tolesni veiksmai, įskaitant tokių pranešimų perdavimo saugių kanalų nustatymą;
 
-2) užtikrinamas asmens, kuris praneša apie padarytus pažeidimus, konfidencialumas, išskyrus atvejus, kai atskleisti tokią informaciją reikalaujama įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka;
+2) užtikrinamas asmenų, pranešusių apie pažeidimus, ir asmenų, įtariamų padarius pažeidimus, konfidencialumas, išskyrus atvejus, kai atskleisti tokią informaciją reikalaujama įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka;
 
 3) asmens duomenys tvarkomi asmens duomenų apsaugą reglamentuojančių teisės aktų nustatyta tvarka;
 
-4) užtikrinama tinkama darbuotojų, kurie praneša apie pažeidimus, apsauga nuo keršto, diskriminacijos ar kito neteisėto ar nesąžiningo elgesio.
+4) užtikrinama tinkama pagal darbo sutartis dirbančių asmenų, pranešusių apie pažeidimus, ir pagal darbo sutartis dirbančių asmenų, įtariamų padarius pažeidimus, apsauga nuo keršto, diskriminacijos ar kito neteisėto ar nesąžiningo elgesio.
 
-Papildyta straipsniu:
+2. Finansų maklerio įmonė ir Centrinis depozitoriumas turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu finansų maklerio įmonės ir Centrinio depozitoriumo vadovams ar kitiems įgaliotiems asmenims pranešti apie padarytą ar galimą šio įstatymo, jo įgyvendinamųjų teisės aktų, Reglamento (ES) Nr. 575/2013, Reglamento (ES) Nr. 596/2014 ar Reglamento (ES) Nr. 909/2014 nuostatų pažeidimą. Šiam reikalavimui įgyvendinti finansų maklerio įmonė ir Centrinis depozitoriumas gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi šio straipsnio 1 dalyje nustatyti reikalavimai.
 
-Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+Straipsnio pakeitimai:
+
+Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
 
 ANTRASIS SKIRSNIS
 
