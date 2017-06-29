@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2017-06-20"
+last_updated: "2017-06-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2017-06-20 iki 2017-06-28
+Suvestinė redakcija nuo 2017-06-29 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -657,6 +657,14 @@ Nr. XIII-422, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10246
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 12 straipsnio pakeitimo ir Įstatymo papildymo 72-1 straipsniu įstatymas
 
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-455, 2017-06-20, paskelbta TAR 2017-06-28, i. k. 2017-10912
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 17 straipsnio pakeitimo įstatymas
+
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
 1. Šio įstatymo 67 straipsnio 2 dalis ir 69 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d.
@@ -1129,7 +1137,11 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 19. Kontrolierius apie sprendime nustatytus akademinės etikos ir (arba) procedūrų pažeidimus informuoja atitinkamos mokslo ir studijų institucijos steigėją ir juridinio asmens dalyvius.
 
-20. Mokslo ir studijų institucija per 30 kalendorinių dienų nuo kontrolieriaus sprendimo priėmimo dienos privalo pateikti kontrolieriui informaciją, kokių veiksmų bus imamasi, atsižvelgiant į kontrolieriaus sprendimą.
+20. Mokslo ir studijų institucija privalo pateikti kontrolieriui informaciją, kokių veiksmų bus imamasi, atsižvelgiant į kontrolieriaus sprendimą. Informacija kontrolieriui pateikiama nedelsiant priėmus sprendimus dėl priemonių, kurių bus imamasi, atsižvelgiant į kontrolieriaus sprendimą, bet ne vėliau kaip per 30 dienų nuo sprendimo gavimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-455, 2017-06-20, paskelbta TAR 2017-06-28, i. k. 2017-10912
 
 18 straipsnis. Mokslo, inovacijų ir technologijų agentūra
 
