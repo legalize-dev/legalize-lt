@@ -4,7 +4,7 @@ identifier: "TAR.EC01522BCE65"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-03"
-last_updated: "2014-02-19"
+last_updated: "2017-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2014-02-19 iki 2017-06-29
+Suvestinė redakcija nuo 2017-06-30 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
 
@@ -301,7 +301,11 @@ Nr. XI-741, 2010-04-13, Žin., 2010, Nr. 48-2291 (2010-04-27), i. k. 1101010ISTA
 
 2. Nagrinėdamas skundą, Seimo kontrolierius turi teisę kreiptis į pareigūną, kurio veikla nagrinėjama, prašydamas šį pasiaiškinti per nustatytą terminą. Jeigu pasiaiškinimas nepateikiamas, Seimo kontrolierius turi teisę kreiptis į aukštesnįjį pareigūną (kolegialią instituciją) ir šis privalo užtikrinti, kad pasiaiškinimas būtų pateiktas arba pats paaiškinti per Seimo kontrolieriaus nustatytą terminą.
 
-3. Seimo kontrolieriaus siūlymą (rekomendaciją) privalo nagrinėti institucija ir įstaiga ar pareigūnas, kuriems toks siūlymas (rekomendacija) adresuojamas, ir apie nagrinėjimo rezultatus informuoti Seimo kontrolierių.
+3. Seimo kontrolieriaus siūlymą (rekomendaciją) privalo nagrinėti institucija ir įstaiga ar pareigūnas, kuriems toks siūlymas (rekomendacija) adresuojamas (adresuojama), ir apie nagrinėjimo rezultatus informuoti Seimo kontrolierių. Informacija Seimo kontrolieriui pateikiama nedelsiant priėmus sprendimus dėl priemonių, kurių bus imamasi, atsižvelgiant į Seimo kontrolieriaus siūlymą (rekomendaciją), bet ne vėliau kaip per 30 dienų nuo siūlymo (rekomendacijos) gavimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-458, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11072
 
 4. Asmenys, trukdantys Seimo kontrolieriui atlikti savo pareigas, atsako įstatymų nustatyta tvarka.
 
@@ -524,6 +528,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-629, 2013-12-03, Žin., 2013, Nr. 130-6618 (2013-12-19), i. k. 1131010ISTA0XII-629
 
 Lietuvos Respublikos Seimo kontrolierių įstatymo 3 straipsnio pakeitimo ir įstatymo papildymo 19-1 straipsniu įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-458, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11072
+
+Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 20 straipsnio pakeitimo įstatymas
 
 30 straipsnis. Seimo kontrolierių darbo apmokėjimas ir garantijos
 
