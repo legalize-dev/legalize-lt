@@ -4,7 +4,7 @@ identifier: "TAR.0CC6CB2A9E42"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-11-18"
-last_updated: "2017-01-01"
+last_updated: "2017-06-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0CC6CB2A9E42"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos lygių galimybių įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-29
+Suvestinė redakcija nuo 2017-06-30 iki 2017-06-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 114-5115, i. k. 1031010ISTA0IX-1826
 
@@ -434,7 +434,11 @@ Skundą galima pateikti per 3 mėnesius nuo skundžiamų veiksmų padarymo arba 
 
 2. Lygių galimybių kontrolieriaus prašoma informacija, jeigu nenurodytas konkretus terminas, turi būti pateikta ne vėliau kaip per 10 darbo dienų nuo prašymo pateikti informaciją gavimo dienos.
 
-3. Lygių galimybių kontrolieriaus sprendimą privalo nagrinėti asmenys, kuriems sprendimas adresuojamas, ir apie nagrinėjimo rezultatus bei sprendimo vykdymą informuoti lygių galimybių kontrolierių.
+3. Lygių galimybių kontrolieriaus sprendimą privalo nagrinėti asmenys, kuriems sprendimas adresuojamas, ir apie nagrinėjimo rezultatus bei sprendimo vykdymą informuoti lygių galimybių kontrolierių. Informacija lygių galimybių kontrolieriui pateikiama nedelsiant priėmus sprendimus dėl priemonių, kurių bus imamasi, atsižvelgiant į lygių galimybių kontrolieriaus sprendimą, bet ne vėliau kaip per 30 dienų nuo sprendimo gavimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-457, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11071
 
 4. Asmenys, nevykdantys lygių galimybių kontrolieriaus reikalavimų, atsako įstatymų nustatyta tvarka.
 
@@ -485,4 +489,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2768, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26967
 
 Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-365, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08724
+
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 7 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-457, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11071
+
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 30 straipsnio pakeitimo įstatymas
 
