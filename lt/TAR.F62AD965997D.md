@@ -4,7 +4,7 @@ identifier: "TAR.F62AD965997D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-05-20"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2018-04-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
 
@@ -1034,7 +1034,11 @@ Nr. XI-133, 2009-01-12, Žin., 2009, Nr. 10-355 (2009-01-27)
 
 37 straipsnis. Reikalavimai valdymą perėmusiam subjektui
 
-1. Valdymą perėmęs subjektas pirkimus vykdo pagal Viešųjų pirkimų įstatymą.
+1. Valdymą perėmęs subjektas pirkimus vykdo pagal Lietuvos Respublikos viešųjų pirkimų įstatymą ir (arba) Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-335, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07558
 
 2. Valstybinė kainų ir energetikos kontrolės komisija ir savivaldybių institucijos pagal savo kompetenciją privalo prižiūrėti ir kontroliuoti valdymą perėmusių subjektų kainodarą.
 
