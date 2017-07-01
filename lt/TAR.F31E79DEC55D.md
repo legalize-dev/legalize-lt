@@ -4,7 +4,7 @@ identifier: "TAR.F31E79DEC55D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-19"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D"
 department: "Lietuvos Respublikos Seimas"
@@ -20,17 +20,9 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-08-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
-
-TAR pastaba. Iki įstatymo Nr. XII-2573. įsigaliojimo (2017-01-01) pradėtos specialiųjų architektūros reikalavimų, specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ir apsaugos reikalavimų, prisijungimo sąlygų, statybą leidžiančių dokumentų išdavimo, statinių statybos užbaigimo procedūros baigiamos vykdyti pagal šių procedūrų vykdymo pradžios metu galiojusius teisės aktus. Iki šio įstatymo įsigaliojimo dienos išduoti kvalifikacijos atestatai ir teisės pripažinimo dokumentai turi tokią pačią teisinę galią kaip šiuo įstatymu keičiamame Lietuvos Respublikos statybos įstatyme nurodyti kvalifikacijos atestatai ir teisės pripažinimo dokumentai. Architektai ir statybos inžinieriai gali eiti neypatingųjų statinių statybos techninės veiklos pagrindinių sričių vadovų pareigas neturėdami kvalifikacijos atestatų ir teisės pripažinimo dokumentų, išduotų šiame įstatyme išdėstyto Lietuvos Respublikos statybos įstatymo 12 straipsnyje nustatyta tvarka, iki 2018 m. sausio 1 d. Teisę eiti šiame įstatyme išdėstyto Lietuvos Respublikos statybos įstatymo 12 straipsnio 20 ir 21 dalyse, 17 straipsnio 12 dalyje, 18 straipsnio 6 dalyje nurodytas pareigas ypatinguosiuose statiniuose turi ir asmenys iki šio įstatymo įsigaliojimo Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo, šiuo įstatymu keičiamo Lietuvos Respublikos statybos įstatymo, jų įgyvendinamųjų teisės aktų nustatyta tvarka gavę atestatus ar teisės pripažinimo dokumentus, suteikiančius teisę vykdyti atitinkamą veiklą. Ši teisė galioja iki atestato ar teisės pripažinimo dokumento galiojimo pabaigos dienos.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2573, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20300
-
-Lietuvos Respublikos statybos įstatymo Nr. I-1240 pakeitimo įstatymas
 
 Nauja redakcija nuo 2017-01-01:
 
@@ -694,7 +686,11 @@ STATYBOS DALYVIAI, JŲ PAREIGOS IR TEISĖS
 
 8) šio įstatymo 28 straipsnyje nustatyta tvarka organizuoti statybos užbaigimo procedūras;
 
-9) sustabdžius statybos darbus, kuriems pirkti taikomas Lietuvos Respublikos viešųjų pirkimų įstatymas, neatsižvelgiant į sustabdymo priežastis, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka organizuoti statomo statinio konservavimo darbus;
+9) sustabdžius statybos darbus, kuriems pirkti taikomas Lietuvos Respublikos viešųjų pirkimų įstatymas, Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas arba Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymas (toliau – Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymas) neatsižvelgiant į sustabdymo priežastis, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka organizuoti statomo statinio konservavimo darbus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-336, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07559
 
 10) kai statyba vykdoma ūkio būdu, leisti Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos pareigūnams bei statinio saugos ir paskirties reikalavimų valstybinės priežiūros institucijų pareigūnams, statinio projektuotojo įgaliotiems asmenims (kai tai susiję su jų pareigų vykdymu) netrukdomiems patekti į statybvietes, statomus (rekonstruojamus, remontuojamus) ar griaunamus statinius (juose esančius butus), šiame punkte nurodytų asmenų reikalavimu pateikti visus statybos dokumentus;
 
@@ -714,7 +710,11 @@ STATYBOS DALYVIAI, JŲ PAREIGOS IR TEISĖS
 
 2) pasirinkti statybos organizavimo būdą: rangos, ūkio ar mišrų (dalį darbų atliekant rangos, dalį – ūkio būdu), statinio statybos valdymo ar kitus būdus, kurie neprieštarautų Lietuvos Respublikos įstatymams ir kitiems teisės aktams;
 
-3) pasirinkti statinio projektuotojus, statinio projektavimo valdytojus, rangovus, statinio statybos valdytojus ir statybos produktų gamintojus, importuotojus, platintojus savo nuožiūra ar konkurso tvarka (jeigu teisės aktuose nenumatyta kitaip), o statinio projektavimo ir statybos darbams, kurių viešasis pirkimas yra privalomas, – Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka.
+3) pasirinkti statinio projektuotojus, statinio projektavimo valdytojus, rangovus, statinio statybos valdytojus ir statybos produktų gamintojus, importuotojus, platintojus savo nuožiūra ar konkurso tvarka (jeigu teisės aktuose nenumatyta kitaip), o statinio projektavimo ir statybos darbams, kurių pirkimas yra privalomas, – Lietuvos Respublikos viešųjų pirkimų įstatymo, Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo arba Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nustatyta tvarka.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-336, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07559
 
 3. Statytojas (užsakovas) turi ir kitų teisių bei pareigų, numatytų Lietuvos Respublikos civiliniame kodekse ir kituose Lietuvos Respublikos įstatymuose.
 
