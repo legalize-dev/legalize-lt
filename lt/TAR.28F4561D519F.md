@@ -4,7 +4,7 @@ identifier: "TAR.28F4561D519F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-12-15"
-last_updated: "2009-12-28"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.28F4561D519F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,6 +17,10 @@ eu_legal_act: "true"
 # Lietuvos Respublikos paslaugų įstatymas
 
 LIETUVOS RESPUBLIKOS PASLAUGŲ ĮSTATYMAS
+
+Suvestinė redakcija nuo 2017-07-01
+
+Įstatymas paskelbtas: Žin. 2009, Nr. 153-6901, i. k. 1091010ISTA00XI-570
 
 LIETUVOS RESPUBLIKOS
 
@@ -694,7 +698,11 @@ TEISĖS AKTUOSE NURODYTI DOKUMENTAI, KURIEMS NETAIKOMOS LIETUVOS RESPUBLIKOS PAS
 
 1. Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo 7 straipsnio 4 dalyje ir 46 straipsnyje nurodyti dokumentai.
 
-2. Lietuvos Respublikos viešųjų pirkimų įstatymo 33 straipsnio 3 dalyje, 34 ir 37 straipsniuose nurodyti dokumentai.
+2. Lietuvos Respublikos viešųjų pirkimų įstatymo 48 straipsnyje ir 51 straipsnio 2 ir 4 dalyse nurodyti dokumentai.
+
+Punkto pakeitimai:
+
+Nr. XIII-332, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07555
 
 3. Lietuvos Respublikos advokatūros įstatymo 64 straipsnio 3 dalies 2 punkte nurodyti dokumentai.
 
@@ -711,4 +719,14 @@ Lietuvos Respublikos paslaugų įstatymo
 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/123/EB dėl paslaugų vidaus rinkoje (OL 2006 L 376, p. 36).
 
 _________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-332, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07555
+
+Lietuvos Respublikos paslaugų įstatymo Nr. XI-570 3 priedo pakeitimo įstatymas
 
