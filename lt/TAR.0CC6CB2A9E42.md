@@ -4,7 +4,7 @@ identifier: "TAR.0CC6CB2A9E42"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-11-18"
-last_updated: "2017-06-30"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0CC6CB2A9E42"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos lygių galimybių įstatymas
 
-Suvestinė redakcija nuo 2017-06-30 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-07-24
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 114-5115, i. k. 1031010ISTA0IX-1826
 
@@ -148,9 +148,17 @@ LYGIŲ GALIMYBIŲ ĮGYVENDINIMAS
 
 5) už tokį patį ar vienodos vertės darbą mokėti vienodą darbo užmokestį;
 
-6) imtis priemonių, kad darbuotojas ar valstybės tarnautojas darbo vietoje nepatirtų priekabiavimo ir nebūtų duodami nurodymai diskriminuoti;
+6) užtikrinti, kad darbuotojas ar valstybės tarnautojas darbo vietoje nepatirtų priekabiavimo ir nebūtų duodami nurodymai diskriminuoti;
 
-7) imtis priemonių, kad darbuotojas, valstybės tarnautojas nepatirtų seksualinio priekabiavimo;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-365, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08724
+
+7) užtikrinti, kad siekiantis įsidarbinti asmuo, darbuotojas, valstybės tarnautojas nepatirtų seksualinio priekabiavimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-365, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08724
 
 8) imtis priemonių, kad darbuotojas, valstybės tarnautojas, pateikę skundą dėl diskriminacijos ar dalyvaujantys byloje dėl diskriminacijos, jų atstovas ar asmuo, liudijantys ir teikiantys paaiškinimus dėl diskriminacijos, nebūtų persekiojami ir būtų apsaugoti nuo priešiško elgesio ar neigiamų pasekmių;
 
