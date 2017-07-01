@@ -4,7 +4,7 @@ identifier: "TAR.C88302C3186F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-02-19"
-last_updated: "2017-05-03"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C88302C3186F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Europos darbo tarybų įstatymas
 
-Suvestinė redakcija nuo 2017-05-03
+Suvestinė redakcija nuo 2017-07-01
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 39-1271, i. k. 1041010ISTA0IX-2031
 
@@ -44,7 +44,11 @@ BENDROSIOS NUOSTATOS
 
 1. Šis įstatymas taikomas, jeigu Europos Sąjungos įmonės, taip pat Europos Sąjungos įmonių grupės kontroliuojančiosios įmonės buveinė yra Lietuvos Respublikoje.
 
-2. Šis įstatymas taip pat taikomas, jeigu Europos Sąjungos įmonės ar Europos Sąjungos įmonių grupės kontroliuojančiosios įmonės buveinė nėra valstybėje narėje, o Lietuvos Respublikoje veikia Europos Sąjungos įmonės padalinys ar yra registruota Europos Sąjungos įmonių grupės įmonė, kuris ar kuri yra paskirtas ar paskirta atitinkamai Europos Sąjungos įmonės ar Europos Sąjungos įmonių grupės kontroliuojančiosios įmonės atstovu šio įstatymo tikslui pasiekti. Kai toks atstovas nė vienoje valstybėje narėje nėra paskirtas, šis įstatymas taikomas tuo atveju, jeigu Lietuvos Respublikoje veikiančio Europos Sąjungos įmonės padalinio arba buveinę Lietuvos Respublikoje turinčios Europos Sąjungos įmonių grupės įmonės darbuotojų skaičius, apskaičiuotas šio įstatymo nustatyta tvarka, yra didžiausias, palyginti su darbuotojų skaičiumi kituose Europos Sąjungos įmonės padaliniuose ar Europos Sąjungos įmonių grupės įmonėse, kurie ar kurios yra kitose valstybėse narėse.
+2. Darbuotojų atstovai – Europos Sąjungos įmonės ar jos padalinių, taip pat Europos Sąjungos įmonių grupės įmonių ar jų padalinių darbuotojų atstovai; Lietuvos Respublikoje buveinę turinčios Europos Sąjungos įmonės ar jos padalinio, veikiančio Lietuvos Respublikoje, taip pat Lietuvos Respublikoje buveinę turinčios Europos Sąjungos įmonių grupės įmonės darbuotojų atstovai – kaip reglamentuota Lietuvos Respublikos darbo kodekso 165 straipsnyje; kitoje valstybėje buveinę turinčių Europos Sąjungos įmonės ar Europos Sąjungos įmonių grupės įmonės, taip pat kitoje valstybėje veikiančių šių įmonių padalinių darbuotojų atstovai – kaip jie apibūdinti pagal tų valstybių teisės aktus ir (arba) nusistovėjusią tvarką. Darbuotojų atstovais laikomi ir Europos darbo taryba, Europos darbo tarybos komitetas, specialusis derybų komitetas, taip pat kiti darbuotojams atstovaujantys asmenys, jeigu nesudaroma Europos darbo taryba, bet parengiama darbuotojų informavimo ir konsultavimo tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-301, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07279
 
 3. Šis įstatymas taip pat taikomas nustatant:
 
@@ -278,7 +282,11 @@ DERYBOS DĖL EUROPOS DARBO TARYBOS SUDARYMO AR DARBUOTOJŲ INFORMAVIMO IR KONSUL
 
 3. Jeigu Lietuvos Respublikoje veikia keli Europos Sąjungos įmonės padaliniai ar yra registruotos kelios Europos Sąjungos įmonių grupės įmonės ir šių padalinių ar įmonių darbuotojų atstovai tarpusavyje per 30 dienų nuo šio įstatymo 14 straipsnio 3 dalyje nurodyto pranešimo gavimo dienos nesusitarė dėl specialiojo derybų komiteto nario (narių) iš Lietuvos Respublikos skyrimo, toks narys (nariai) renkamas (renkami) slaptu balsavimu bendroje įmonės padalinių ar įmonių darbuotojų delegatų konferencijoje, kurioje kiekvienai dešimčiai darbuotojų atstovauja vienas delegatas. Tokią konferenciją turi sušaukti atitinkamai įmonės padalinio ar įmonės, kurioje dirba didžiausias darbuotojų skaičius, apskaičiuotas šio įstatymo nustatyta tvarka, vadovas ar valdymo organas.
 
-4. Visuotiniam darbuotojų susirinkimui ir bendrajai įmonės padalinių ar įmonių darbuotojų delegatų konferencijai mutatis mutandis taikomos Lietuvos Respublikos darbo kodekso 62 straipsnio 5 dalies nuostatos.
+4. Neteko galios nuo 2017-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-301, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07279
 
 5. Specialiojo derybų komiteto nariai nuo kitose valstybėse narėse veikiančių Europos Sąjungos įmonių grupės įmonių ar kitose valstybėse narėse buveinę turinčių Europos Sąjungos įmonės padalinių yra skiriami ar renkami pagal tų valstybių narių teisę ir (arba) nusistovėjusią tvarką.
 
@@ -633,4 +641,18 @@ priedas
 2. 1997 m. gruodžio 15 d. Tarybos direktyva Nr. 97/74/EB, išplečianti 1994 m. Direktyvos 94/45/EB dėl Europos darbų tarybos steigimo arba Bendrijos mastu veikiančių įmonių ir Bendrijos mastu veikiančių įmonių grupių darbuotojų informavimo bei konsultavimo tvarkos nustatymo taikymą Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei.
 
 ______________
+
+2. Su šio straipsnio 1 dalyje nurodytais asmenimis jų narystės Europos darbo taryboje ar specialiajame derybų komitete laikotarpiu darbo sutartis negali būti nutraukta darbdavio iniciatyva be juos skyrusio darbuotojų atstovo sutikimo. Jeigu šie asmenys buvo išrinkti darbuotojų susirinkime ar konferencijoje, sutikimą juos atleisti iš darbo turi teisę duoti Valstybinės darbo inspekcijos teritorinis skyrius, kurio teritorijoje yra įmonės arba įmonės padalinio buveinė. Tokiu atveju atleidimo iš darbo tvarkai mutatis mutandis taikomas Lietuvos Respublikos darbo kodekso 168 straipsnis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-301, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07279
+
+3. Darbuotojų, kurie yra įtraukti į darbuotojų informavimo ir konsultavimo procedūras pagal darbuotojų informavimo ir konsultavimo tvarką, teisių apsauga vykdoma ir garantijos taikomos, kaip numatyta toje tvarkoje. Bet kuriuo atveju jiems turi būti sudaromos sąlygos dalyvauti darbuotojų informavimo ir konsultavimo procedūrose, paliekant jiems darbo vietą ir vidutinį darbo užmokestį.
+
+4. Europos darbo tarybos, specialiojo derybų komiteto nariams nuo jų paskyrimo (išrinkimo) į pareigas, taip pat darbuotojų atstovams, dalyvaujantiems informavimo ir konsultavimo procedūrose pagal darbuotojų informavimo ir konsultavimo tvarką, taikoma teisių apsauga ir garantijos pagal tos valstybės narės, kurioje jie dirba, teisės aktus ir (arba) nusistovėjusią praktiką.
+
+TREČIASIS SKIRSNIS
+
+DERYBOS DĖL EUROPOS DARBO TARYBOS SUDARYMO AR DARBUOTOJŲ INFORMAVIMO IR KONSULTAVIMO TVARKOS PARENGIMO
 
