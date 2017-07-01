@@ -4,7 +4,7 @@ identifier: "TAR.C81BD50A27C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-06"
-last_updated: "2016-12-15"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2016-12-15 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-11-10
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
 
@@ -1577,6 +1577,22 @@ Nr. XIII-63, 2016-12-08, paskelbta TAR 2016-12-14, i. k. 2016-28883
 
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 39 straipsnio pakeitimo įstatymas
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2468, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18824
+
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-136, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29840
+
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1 straipsnio pakeitimo įstatymo Nr. XII-2468 2 straipsnio pakeitimo įstatymas
+
 62 straipsnis. Įstaigos laikinojo
 
 administratoriaus atšaukimas
@@ -1863,7 +1879,11 @@ Nr. XII-1335, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17988
 
 7. LNSS viešųjų įstaigų vadovaujančiajam darbuotojui už gerus darbo rezultatus ir gerą darbo pareigų atlikimą paskutinį kalendorinių metų mėnesį iš sutaupytų viešosios įstaigos lėšų, skirtų darbo užmokesčiui, gali būti išmokama premija, kuri negali būti didesnė už tą mėnesį mokamos mėnesinės algos pastoviosios dalies dydį.
 
-8. LNSS viešųjų įstaigų vadovaujantiesiems darbuotojams, su kuriais nutraukiama darbo sutartis šalių susitarimu pagal Darbo kodekso 125 straipsnį, gali būti išmokamos kompensacijos, kurių suma negali viršyti trijų jų vidutinių mėnesinių darbo užmokesčių, apskaičiuotų Vyriausybės nustatyta tvarka.
+8. LNSS viešųjų įstaigų vadovaujantiesiems darbuotojams, su kuriais nutraukiama darbo sutartis šalių susitarimu pagal Darbo kodekso 54 straipsnį, gali būti išmokamos kompensacijos, kurių suma negali viršyti trijų jų vidutinių mėnesinių darbo užmokesčių, apskaičiuotų Vyriausybės nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2468, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18824
 
 Įstatymas papildytas straipsniu:
 
