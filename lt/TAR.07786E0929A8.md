@@ -4,7 +4,7 @@ identifier: "TAR.07786E0929A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-01-18"
-last_updated: "2015-10-28"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ X skirsnis įsigalioja pradėjus galioti Lietuvos Respublikos Vyriausybės ir Eu
 ---
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 2015-10-28 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2018-04-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
 
@@ -45,45 +45,131 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Biologinė medžiaga – medžiaga, turinti genetinės informacijos ir galinti daugintis arba būti dauginama biologinėje sistemoje.
+1. Bendro galiojimo Europos patentas – Europos patentas, kurio bendrą galiojimą reglamentuoja 2012 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1257/2012, kuriuo įgyvendinamas tvirtesnis bendradarbiavimas kuriant bendrą patentinę apsaugą (toliau – Reglamentas (ES) Nr. 1257/2012).
 
-2. Europos patentas – patentas, išduotas pagal Europos patentų konvenciją.
+Papildyta straipsnio dalimi:
 
-3. Europos patento paraiška – paraiška gauti Europos patentą, paduota pagal Europos patentų konvenciją, taip pat tarptautinė patento paraiška, kai Europos patentų tarnyba yra nurodytoji arba pasirinktoji tarnyba, o Lietuvos Respublika yra nurodytoji valstybė.
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
 
-4. Europos patentų konvencija – Europos patentų išdavimo konvencija (Europos patentų konvencija), pasirašyta 2000 m. lapkričio 29 d. Miunchene.
+2. Biologinė medžiaga – medžiaga, turinti genetinės informacijos ir galinti daugintis arba būti dauginama biologinėje sistemoje.
 
-5. Išimtinė patento licencija – patento licencija, pagal kurią licenciaras, suteikęs licenciatui teisę naudoti licencijos dalyką, netenka teisės suteikti tokių pačių licencijų kitiems asmenims ir neturi teisės pats naudoti licencijos dalyko licenciatui suteiktomis teisėmis.
+Straipsnio dalies numeracijos pakeitimas:
 
-6. Išplėstas Europos patentas – Europos patentas, išduotas Europos patentų tarnybos pagal Europos patento paraišką, kurioje prašoma jo galiojimą išplėsti į Lietuvos Respubliką.
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
 
-7. Išradėjas – fizinis asmuo, sukūręs išradimą.
+3. Europos patentas – patentas, išduotas pagal Europos patentų konvenciją.
 
-8. Mikrobiologinis būdas – bet koks būdas, kuriame dalyvauja ar susidaro mikrobiologinė medžiaga arba kuriuo tokia medžiaga yra veikiama.
+Straipsnio dalies numeracijos pakeitimas:
 
-9. Neišimtinė patento licencija – patento licencija, pagal kurią licenciaras licenciatui suteikia teisę naudoti licencijos dalyką pasilikdamas teisę suteikti tokią teisę kitiems asmenims ir naudoti licencijos dalyką pats.
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
 
-10. Pareiškėjas – patento paraišką padavęs asmuo ar šių asmenų grupė.
+4. Europos patento paraiška – paraiška gauti Europos patentą, paduota pagal Europos patentų konvenciją, taip pat tarptautinė patento paraiška, kai Europos patentų tarnyba yra nurodytoji arba pasirinktoji tarnyba, o Lietuvos Respublika yra nurodytoji valstybė.
 
-11. Paryžiaus konvencija – 1883 m. kovo 20 d. Paryžiaus konvencija dėl pramoninės nuosavybės apsaugos, peržiūrėta Stokholme 1967 m. liepos 14 d. ir papildyta 1979 m. rugsėjo 28 d.
+Straipsnio dalies numeracijos pakeitimas:
 
-12. Patentinės kooperacijos sutartis – Patentinės kooperacijos sutartis, pasirašyta 1970 m. birželio 19 d. Vašingtone, peržiūrėta 1979 m. rugsėjo 28 d. ir 1984 m. vasario 3 d.
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
 
-13. Patentinis patikėtinis – fizinis asmuo, Lietuvos Respublikos Vyriausybės patvirtintų Patentinių patikėtinių nuostatų nustatyta tvarka įrašytas į Lietuvos Respublikos patentinių patikėtinių registrą.
+5. Europos patentų konvencija – Europos patentų išdavimo konvencija (Europos patentų konvencija), pasirašyta 2000 m. lapkričio 29 d. Miunchene.
 
-14. Patento licencija – licenciaro – pareiškėjo arba patento savininko – leidimas kitam asmeniui – licenciatui naudoti išradimą, kuris yra paskelbtos patento paraiškos arba išduoto patento objektas, licencinėje sutartyje nurodytomis sąlygomis. Licencija gali būti išimtinė ir neišimtinė.
+Straipsnio dalies numeracijos pakeitimas:
 
-15. Patento paraiška – pagal šį įstatymą Lietuvos Respublikos valstybiniam patentų biurui (toliau – Valstybinis patentų biuras) pateiktų dokumentų ir duomenų gauti patentą visuma.
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
 
-16. Patento savininkas – asmuo, kuriam šio įstatymo nustatyta tvarka Lietuvos Respublikoje išduotas patentas.
+6. Išimtinė patento licencija – patento licencija, pagal kurią licenciaras, suteikęs licenciatui teisę naudoti licencijos dalyką, netenka teisės suteikti tokių pačių licencijų kitiems asmenims ir neturi teisės pats naudoti licencijos dalyko licenciatui suteiktomis teisėmis.
 
-17. Patento sublicencija – licenciato leidimas kitam asmeniui naudoti išradimą, kuris yra paskelbtos patento paraiškos arba išduoto patento objektas, sublicencinėje sutartyje nurodytomis sąlygomis.
+Straipsnio dalies numeracijos pakeitimas:
 
-18. Patentų paraiškų padavimo, ekspertizės ir patentų išdavimo taisyklės (toliau – Taisyklės) – Valstybinio patentų biuro taisyklės, kuriose nurodoma patentų paraiškų padavimo, ekspertizės ir patentų išdavimo tvarka.
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
 
-19. Tarptautinė paroda – oficiali arba oficialiai pagal Konvenciją dėl tarptautinių parodų, pasirašytą Paryžiuje 1928 m. lapkričio 22 d., iš dalies pakeistą ir papildytą 1948 m. gegužės 10 d., 1966 m. lapkričio 16 d., 1972 m. lapkričio 30 d. protokolais ir 1982 m. birželio 24 d., 1988 m. gegužės 31 d. pakeitimais, pripažinta tarptautinė paroda.
+7. Išplėstas Europos patentas – Europos patentas, išduotas Europos patentų tarnybos pagal Europos patento paraišką, kurioje prašoma jo galiojimą išplėsti į Lietuvos Respubliką.
 
-20. Tarptautinė patento paraiška – pagal Patentinės kooperacijos sutartį paduota patento paraiška.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
+8. Išradėjas – fizinis asmuo, sukūręs išradimą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
+9. Mikrobiologinis būdas – bet koks būdas, kuriame dalyvauja ar susidaro mikrobiologinė medžiaga arba kuriuo tokia medžiaga yra veikiama.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
+10. Neišimtinė patento licencija – patento licencija, pagal kurią licenciaras licenciatui suteikia teisę naudoti licencijos dalyką pasilikdamas teisę suteikti tokią teisę kitiems asmenims ir naudoti licencijos dalyką pats.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
+11. Pareiškėjas – patento paraišką padavęs asmuo ar šių asmenų grupė.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
+12. Paryžiaus konvencija – 1883 m. kovo 20 d. Paryžiaus konvencija dėl pramoninės nuosavybės apsaugos, peržiūrėta Stokholme 1967 m. liepos 14 d. ir papildyta 1979 m. rugsėjo 28 d.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
+13. Patentinės kooperacijos sutartis – Patentinės kooperacijos sutartis, pasirašyta 1970 m. birželio 19 d. Vašingtone, peržiūrėta 1979 m. rugsėjo 28 d. ir 1984 m. vasario 3 d.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
+14. Patentinis patikėtinis – fizinis asmuo, Lietuvos Respublikos Vyriausybės patvirtintų Patentinių patikėtinių nuostatų nustatyta tvarka įrašytas į Lietuvos Respublikos patentinių patikėtinių registrą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
+15. Patento licencija – licenciaro – pareiškėjo arba patento savininko – leidimas kitam asmeniui – licenciatui naudoti išradimą, kuris yra paskelbtos patento paraiškos arba išduoto patento objektas, licencinėje sutartyje nurodytomis sąlygomis. Licencija gali būti išimtinė ir neišimtinė.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
+16. Patento paraiška – pagal šį įstatymą Lietuvos Respublikos valstybiniam patentų biurui (toliau – Valstybinis patentų biuras) pateiktų dokumentų ir duomenų gauti patentą visuma.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
+17. Patento savininkas – asmuo, kuriam šio įstatymo nustatyta tvarka Lietuvos Respublikoje išduotas patentas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
+18. Patento sublicencija – licenciato leidimas kitam asmeniui naudoti išradimą, kuris yra paskelbtos patento paraiškos arba išduoto patento objektas, sublicencinėje sutartyje nurodytomis sąlygomis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
+19. Patentų paraiškų padavimo, ekspertizės ir patentų išdavimo taisyklės (toliau – Taisyklės) – Valstybinio patentų biuro taisyklės, kuriose nurodoma patentų paraiškų padavimo, ekspertizės ir patentų išdavimo tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
+20. Tarptautinė paroda – oficiali arba oficialiai pagal Konvenciją dėl tarptautinių parodų, pasirašytą Paryžiuje 1928 m. lapkričio 22 d., iš dalies pakeistą ir papildytą 1948 m. gegužės 10 d., 1966 m. lapkričio 16 d., 1972 m. lapkričio 30 d. protokolais ir 1982 m. birželio 24 d., 1988 m. gegužės 31 d. pakeitimais, pripažinta tarptautinė paroda.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
+21. Tarptautinė patento paraiška – pagal Patentinės kooperacijos sutartį paduota patento paraiška.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
 
 ANTRASIS SKIRSNIS
 
@@ -393,13 +479,15 @@ Referate Taisyklėse nustatyta tvarka pateikiama techninė informacija apie išr
 
 29 straipsnis. Lietuvos Respublikos patentų registras
 
-1. Lietuvos Respublikos patentų registras yra valstybės registras, kurį tvarko Valstybinis patentų biuras. Valstybinis patentų biuras yra vadovaujančioji Lietuvos Respublikos patentų registro tvarkymo įstaiga ir tvarkymo įstaiga.
+1. Lietuvos Respublikos patentų registras yra valstybės registras. Registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, registro tvarkytojas – Valstybinis patentų biuras. Lietuvos Respublikos Vyriausybė gali skirti papildomą registro tvarkytoją.
 
-2. Lietuvos Respublikos patentų registro objektas yra duomenys apie patentą, taip pat patento taisymo ir kiti su patento išdavimu, naudojimu ir apsauga susiję duomenys.
+2. Lietuvos Respublikos patentų registro objektas yra pagal šį įstatymą išduotas patentas.
 
 3. Lietuvos Respublikos patentų registro objektų registravimo tvarka, registro duomenų tvarkymas reglamentuoti Lietuvos Respublikos patentų registro nuostatuose.
 
-4. Kiekvieno asmens, sumokėjusio mokestį, prašymu Valstybinis patentų biuras išduoda išrašą iš Lietuvos Respublikos patentų registro.
+Straipsnio pakeitimai:
+
+Nr. XIII-263, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06263
 
 30 straipsnis. Pakeitimai patento paraiškoje, patente ir Lietuvos Respublikos patentų registre
 
@@ -713,7 +801,13 @@ Ginčus dėl išradimų patentavimo ir naudojimo nagrinėja šios institucijos:
 
 1) Valstybinio patentų biuro Apeliacinis skyrius – iki patento išdavimo tarp pareiškėjo ir Valstybinio patentų biuro eksperto kilusius ginčus dėl patento paraiškos padavimo ir prioriteto datos nustatymo, ekspertizės išvadų ir atsisakymo išduoti patentą Valstybinio patentų biuro nustatyta tvarka;
 
-2) Vilniaus apygardos teismas – ginčus dėl Valstybinio patentų biuro Apeliacinio skyriaus sprendimų, teisės į patento paraišką ar patentą pripažinimo kitam asmeniui, išduoto patento pripažinimo visiškai ar iš dalies negaliojančiu, paskelbtos patento paraiškos, kuriai suteikta laikina teisine apsauga, pažeidimo, išduoto patento pažeidimo, patento pažeidimo fakto nebuvimo nustatymo, šio įstatymo 48, 49 straipsniuose nurodytų licencijų išdavimo, panaikinimo ir sąlygų pakeitimo, patento panaikinimo.
+2) Vilniaus apygardos teismas – ginčus dėl Valstybinio patentų biuro Apeliacinio skyriaus sprendimų, teisės į patento paraišką ar patentą pripažinimo kitam asmeniui, išduoto patento pripažinimo visiškai ar iš dalies negaliojančiu, paskelbtos patento paraiškos, kuriai suteikta laikina teisine apsauga, pažeidimo, išduoto patento pažeidimo, patento pažeidimo fakto nebuvimo nustatymo, šio įstatymo 48, 49 straipsniuose nurodytų licencijų išdavimo, panaikinimo ir sąlygų pakeitimo, patento panaikinimo;
+
+3) Bendras patentų teismas – teismas, nagrinėjantis ginčus dėl Europos patentų ir bendro galiojimo Europos patentų pagal Susitarimą dėl Bendro patentų teismo, pasirašytą Briuselyje 2013 m. vasario 19 d. (toliau – Susitarimas dėl Bendro patentų teismo).
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
 
 52 straipsnis. Teisių gynimo būdai
 
@@ -1177,7 +1271,11 @@ EUROPOS PATENTŲ KONVENCIJOS ĮGYVENDINIMAS
 
 1. Europos patentas, kuriame nurodyta Lietuvos Respublika, vadovaujantis šio straipsnio 2 ir 3 dalimis, nuo paskelbimo apie jo išdavimą Europos patentų tarnyboje datos suteikia tokias pat teises kaip ir patentas pagal šio įstatymo 35 straipsnį.
 
-2. Europos patento savininkas per 3 mėnesius nuo paskelbimo apie patento išdavimą dienos pateikia Valstybiniam patentų biurui Europos patento išradimo apibrėžties vertimą į valstybinę kalbą ir sumoka nustatyto dydžio mokestį už vertimo paskelbimą.
+2. Europos patento savininkas per 3 mėnesius nuo paskelbimo apie patento išdavimą dienos pateikia Valstybiniam patentų biurui Europos patento išradimo apibrėžties vertimą į valstybinę kalbą ir sumoka nustatyto dydžio mokestį už vertimo paskelbimą. Jeigu Europos patento savininkas per vieną mėnesį nuo nuorodos į Europos patento išdavimą paskelbimo Europos patentų biuletenyje dienos Europos patentų tarnybai pateikė prašymą užtikrinti bendrą Europos patento galiojimą ir šį prašymą Europos patentų tarnyba atmetė, 3 mėnesių terminas skaičiuojamas nuo Europos patentų tarnybos sprendimo dėl prašymo užtikrinti bendrą Europos patento galiojimą atmetimo įsigaliojimo datos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
 
 3. Jeigu dėl Europos patentų tarnybai paduoto protesto pakeičiama Europos patento išradimo apibrėžtis, patento savininkas per 3 mėnesius nuo pakeistos Europos patento išradimo apibrėžties paskelbimo dienos turi pateikti Valstybiniam patentų biurui pakeistos Europos patento išradimo apibrėžties vertimą į valstybinę kalbą ir sumokėti mokestį už jo paskelbimą.
 
@@ -1207,6 +1305,30 @@ Europos patento galiojimo terminui ir metų mokesčiui taikomos šio įstatymo 3
 
 Jeigu Europos patentas ir pagal šį įstatymą išduotas patentas, turintys tą pačią padavimo arba prioriteto datą, buvo išduoti tam pačiam asmeniui ar jo teisių perėmėjui už tą patį išradimą, pagal šį įstatymą išduotas patentas netenka galios nuo tos datos, kai pasibaigia Europos patentui užprotestuoti skirtas laikas ir protestas nebuvo gautas, arba nuo tos datos, kai, atsižvelgus į protestą, buvo priimtas sprendimas Europos patentą palikti galioti.
 
+DVYLIKTASIS SKIRSNIS
+
+BENDRO GALIOJIMO EUROPOS PATENTAS
+
+84 straipsnis. Dvigubos apsaugos draudimas
+
+1. Jeigu bendro galiojimo Europos patentas ir pagal šį įstatymą išduotas patentas, turintys tą pačią padavimo arba prioriteto datą, buvo išduoti tam pačiam asmeniui ar jo teisių perėmėjui už tą patį išradimą, pagal šį įstatymą išduotas patentas netenka galios nuo tos datos, kai pasibaigia bendro galiojimo Europos patentui užprotestuoti skirtas laikas ir protestas nebuvo gautas, arba nuo tos datos, kai, atsižvelgus į protestą, buvo priimtas sprendimas bendro galiojimo Europos patentą palikti galioti.
+
+2. Europos patentas, kurio išradimo apibrėžties vertimas buvo paskelbtas pagal šio įstatymo 79 straipsnį, laikomas ab initio negaliojančiu Lietuvos Respublikoje, jeigu šiam Europos patentui buvo įregistruotas bendras galiojimas pagal Reglamentą (ES) Nr. 1257/2012.
+
+85 straipsnis. Bendro patentų teismo sprendimų ir nutarčių vykdymas
+
+1. Bendro patentų teismo sprendimai ir nutartys yra vykdomieji dokumentai.
+
+2. Lietuvos Respublikoje vykdyti teikiami Bendro patentų teismo sprendimai ar nutartys, sprendimų vykdomieji raštai turi būti išversti į valstybinę kalbą.
+
+86 straipsnis. Atsakomybė už žalą dėl Europos Sąjungos teisės pažeidimų
+
+Ieškinys dėl Bendro patentų teismo padarytos žalos, atsiradusios dėl Europos Sąjungos teisės pažeidimo, pagal Susitarimo dėl Bendro patentų teismo 22 straipsnio 2 dalį pareiškiamas Vilniaus apygardos teismui.
+
+Papildyta skirsniu:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
@@ -1228,6 +1350,12 @@ priedas
 4. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo (OL 2004 m. specialusis leidimas, 17 skyrius, 2 tomas, p. 32).
 
 5. 2006 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 816/2006 dėl patentų, susijusių su farmacijos produktų, eksportuojamų į šalis, turinčias problemų visuomenės sveikatos srityje, gamyba, priverstinio licencijavimo (OL 2006 L 157, p. 1).
+
+6. 2012 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1257/2012, kuriuo įgyvendinamas tvirtesnis bendradarbiavimas kuriant bendrą patentinę apsaugą (OL 2012 L 361, p. 1).
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
 
 Pakeitimai:
 
@@ -1318,4 +1446,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1975, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16929
 
 Lietuvos Respublikos patentų įstatymo Nr. I-372 35 straipsnio pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-263, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06263
+
+Lietuvos Respublikos patentų įstatymo Nr. I-372 29 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
+
+Lietuvos Respublikos patentų įstatymo Nr. I-372 2, 51, 79 straipsnių ir priedo pakeitimo ir Įstatymo papildymo dvyliktuoju skirsniu įstatymas
 
