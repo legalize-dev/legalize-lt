@@ -4,7 +4,7 @@ identifier: "TAR.E0EA485657C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2017-06-20"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2017-06-20 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
 
@@ -492,11 +492,15 @@ Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
 
 Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
 
-11. Krašto apsaugos ministras LŠS Centro valdybos teikimu gali apdovanoti LŠS vadą pinigine premija už ypatingą pasižymėjimą tarnyboje. Ši premija gali būti skiriama ne daugiau kaip kartą per metus ir negali viršyti LŠS vadui nustatyto pagrindinio darbo užmokesčio dydžio.
+11. Krašto apsaugos ministras gali apdovanoti LŠS vadą pinigine premija už labai gerą tarnybos įvertinimą. Ši premija gali būti skiriama ne daugiau kaip kartą per metus ir negali viršyti LŠS vadui nustatytos pareiginės algos dydžio. LŠS vado tarnybos vertinimo tvarką nustato krašto apsaugos ministras.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
 
 12. Kai LŠS vado nėra arba jis negali eiti pareigų, arba yra nušalintas nuo pareigų, LŠS vado pareigas laikinai eina vienas iš jo pavaduotojų. Kai LŠS vadas atleidžiamas ar nušalinamas nuo pareigų, LŠS vado pavaduotojui laikinai eiti LŠS vado pareigas paveda krašto apsaugos ministras, kitais atvejais – LŠS vadas.
 
@@ -899,6 +903,10 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
 
 7. Krašto apsaugos ministras LŠS vado teikimu gali apdovanoti piniginėmis premijomis už labai gerą tarnybos įvertinimą LŠS vado pavaduotojus ir rinktinių vadus, LŠS vadas – rinktinių vadų pavaduotojus. Premija gali būti skiriama ne daugiau kaip kartą per metus ir negali viršyti apdovanojamam asmeniui nustatytos pareiginės algos dydžio. LŠS vado pavaduotojų, rinktinių vadų ir rinktinių vadų pavaduotojų tarnybos vertinimo tvarką nustato krašto apsaugos ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
 
 8. LŠS vado pavaduotojai ir rinktinių vadai yra tiesiogiai pavaldūs LŠS vadui, taip pat atskaitingi LŠS vadui ir krašto apsaugos ministrui.
 
