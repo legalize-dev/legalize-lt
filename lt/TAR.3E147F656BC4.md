@@ -4,7 +4,7 @@ identifier: "TAR.3E147F656BC4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-06-01"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3E147F656BC4"
 department: "Lietuvos Respublikos Seimas"
@@ -16,17 +16,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos profesionaliojo scenos meno įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3523, i. k. 1041010ISTA0IX-2257
-
-TAR pastaba. Juridiniai asmenys, pripažinti profesionaliu teatru ar koncertine įstaiga iki šio įstatymo įsigaliojimo, prilyginami šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos profesionaliojo scenos meno įstatymo reglamentuojamai profesionaliojo scenos meno įstaigai. Iki šio įstatymo įsigaliojimo savininko teises ir pareigas įgyvendinančių institucijų patvirtinti nacionalinių, valstybinių ir savivaldybių teatrų ir koncertinių įstaigų veiklos planai ir metinės kūrybinės veiklos programos vykdomi iki laikotarpio, kuriam buvo patvirtinti, pabaigos. Nacionalinių, valstybinių ir savivaldybių teatrų ir koncertinių įstaigų vadovai, paskirti iki šio įstatymo įsigaliojimo, eina pareigas iki kadencijos, kuriai jie buvo paskirti, pabaigos. Pasikeitus nacionalinio, valstybinio ar savivaldybės teatro ar koncertinės įstaigos teisinei formai iš biudžetinės įstaigos į viešąją įstaigą, teisės ir pareigos, susijusios su valstybinės ar savivaldybių žemės panaudos sutartimis, sudarytomis iki nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos pertvarkymo iš biudžetinės įstaigos į viešąją įstaigą, pereina viešajai įstaigai.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2614, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24188
-
-Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo Nr. IX-2257 pakeitimo įstatymas
 
 Nauja redakcija nuo 2017-01-01:
 
@@ -248,19 +240,69 @@ NACIONALINIŲ, VALSTYBINIŲ IR SAVIVALDYBIŲ TEATRŲ IR KONCERTINIŲ ĮSTAIGŲ V
 
 1. Nacionalinių, valstybinių ir savivaldybių teatrų ir koncertinių įstaigų vadovai priimami į pareigas konkurso būdu Vyriausybės nustatyta tvarka.
 
-2. Kultūros ministras nustato nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos vadovui keliamus kvalifikacinius reikalavimus.
+2. Nacionalinio, valstybinio ar savivaldybės teatro ar koncertinės įstaigos vadovai, taip pat pretenduojantys šias pareigas eiti asmenys turi atitikti nepriekaištingos reputacijos kriterijus. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu atitinka bent vieną iš šių sąlygų:
 
-3. Su konkursą laimėjusiu nacionalinio, valstybinio ar savivaldybės teatro ar koncertinės įstaigos vadovu sudaroma darbo sutartis penkeriems metams.
+1) yra pripažintas kaltu dėl tyčinio nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą;
 
-4. Nacionalinio, valstybinio ar savivaldybės teatro ar koncertinės įstaigos vadovo kadencijų skaičius neribojamas.
+2) yra pripažintas kaltu dėl baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio baudžiamojo nusižengimo padarymo ir nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai;
 
-5. Savininko teises ir pareigas įgyvendinanti institucija kiekvienais metais iki sausio 31 dienos įvertina nacionalinių, valstybinių ir savivaldybių teatrų ir koncertinių įstaigų vadovų (išskyrus nacionalinių, valstybinių ir savivaldybių teatrų ir koncertinių įstaigų vadovus, kurie buvo priimti į pareigas praėjusiais metais, iki metų pabaigos likus mažiau negu šešiems mėnesiams) praėjusių metų veiklą pagal nustatytas metines užduotis, siektinus rezultatus ir vertinimo rodiklius. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos vadovų veikla vertinama labai gerai, gerai ir nepatenkinamai savininko teises ir pareigas įgyvendinančios institucijos nustatyta tvarka. Jeigu nacionalinio, valstybinio ar savivaldybės teatro ar koncertinės įstaigos vadovo veikla įvertinama nepatenkinamai du kartus iš eilės, savininko teises ir pareigas įgyvendinanti institucija priima sprendimą nacionalinio, valstybinio ar savivaldybės teatro ar koncertinės įstaigos vadovą atleisti iš pareigų ir nutraukia su juo sudarytą darbo sutartį.
+3) yra pripažintas kaltu dėl nusikaltimų, kuriais padaryta turtinė žala valstybei, ir turi neišnykusį ar nepanaikintą teistumą;
 
-6. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos kūrybiniai darbuotojai kultūros ministro nustatyta tvarka atestuojami ne rečiau kaip kas penkeri metai. Neeilinis šių darbuotojų atestavimas rengiamas tik argumentuotais, ypatingais atvejais.
+4) yra uždraustos organizacijos narys;
 
-7. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinių įstaigų kūrybinius darbuotojus atestuoja atitinkamos įstaigos vadovo teikimu savininko teises ir pareigas įgyvendinančios institucijos penkeriems metams patvirtinta Atestavimo komisija, vadovaudamasi konstruktyvumo ir pozityvumo, atvirumo ir skaidrumo, objektyvumo, etiškumo ir nediskriminavimo principais.
+5) yra atleistas iš skiriamų arba renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo, darbo pareigų pažeidimų ir nuo atleidimo iš pareigų dienos nepraėjo 3 metai;
 
-8. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos kūrybinio darbuotojo veiklos atestavimo tikslas – individualiai įvertinti kūrybinio darbuotojo:
+6) piktnaudžiauja alkoholiu, psichotropinėmis, narkotinėmis ar kitomis psichiką veikiančiomis medžiagomis;
+
+7) yra pripažintas šiurkščiai pažeidęs Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimus ir nuo pažeidimo paaiškėjimo dienos nepraėjo 3 metai;
+
+8) yra pripažintas šiurkščiai pažeidęs kultūros ministro patvirtintas Kultūros įstaigų darbuotojų profesinės veiklos ir etikos taisykles ir nuo pažeidimo paaiškėjimo dienos nepraėjo 3 metai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
+
+3. Kultūros ministras nustato nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos vadovui keliamus kvalifikacinius reikalavimus.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
+
+4. Su konkursą laimėjusiu nacionalinio, valstybinio ar savivaldybės teatro ar koncertinės įstaigos vadovu sudaroma darbo sutartis penkeriems metams.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
+
+5. To paties nacionalinio, valstybinio ar savivaldybės teatro ar tos pačios koncertinės įstaigos vadovu tas pats asmuo gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
+
+6. Savininko teises ir pareigas įgyvendinanti institucija kiekvienais metais iki sausio 31 dienos įvertina nacionalinių, valstybinių ir savivaldybių teatrų ir koncertinių įstaigų vadovų (išskyrus nacionalinių, valstybinių ir savivaldybių teatrų ir koncertinių įstaigų vadovus, kurie buvo priimti į pareigas praėjusiais metais, iki metų pabaigos likus mažiau negu šešiems mėnesiams) praėjusių metų veiklą pagal nustatytas metines užduotis, siektinus rezultatus ir vertinimo rodiklius. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos vadovų veikla vertinama labai gerai, gerai ir nepatenkinamai savininko teises ir pareigas įgyvendinančios institucijos nustatyta tvarka. Jeigu nacionalinio, valstybinio ar savivaldybės teatro ar koncertinės įstaigos vadovo veikla įvertinama nepatenkinamai du kartus iš eilės, savininko teises ir pareigas įgyvendinanti institucija priima sprendimą nacionalinio, valstybinio ar savivaldybės teatro ar koncertinės įstaigos vadovą atleisti iš pareigų ir nutraukia su juo sudarytą darbo sutartį. Paaiškėjus, kad nacionalinio, valstybinio ar savivaldybės teatro ar koncertinės įstaigos vadovas neatitinka nepriekaištingos reputacijos kriterijų, nurodytų šio straipsnio 2 dalyje, savininko teises ir pareigas įgyvendinanti institucija priima sprendimą tokį vadovą atleisti iš pareigų ir nutraukia su juo sudarytą darbo sutartį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
+
+7. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos kūrybiniai darbuotojai kultūros ministro nustatyta tvarka atestuojami ne rečiau kaip kas penkeri metai. Neeilinis šių darbuotojų atestavimas rengiamas tik argumentuotais, ypatingais atvejais.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
+
+8. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinių įstaigų kūrybinius darbuotojus atestuoja atitinkamos įstaigos vadovo teikimu savininko teises ir pareigas įgyvendinančios institucijos penkeriems metams patvirtinta Atestavimo komisija, vadovaudamasi konstruktyvumo ir pozityvumo, atvirumo ir skaidrumo, objektyvumo, etiškumo ir nediskriminavimo principais.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
+
+9. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos kūrybinio darbuotojo veiklos atestavimo tikslas – individualiai įvertinti kūrybinio darbuotojo:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
 
 1) gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas;
 
@@ -268,9 +310,17 @@ NACIONALINIŲ, VALSTYBINIŲ IR SAVIVALDYBIŲ TEATRŲ IR KONCERTINIŲ ĮSTAIGŲ V
 
 3) dalykines ir asmenines savybes.
 
-9. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos kūrybinio darbuotojo veikla gali būti vertinama labai gerai, gerai arba nepatenkinamai. Jeigu nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos kūrybinio darbuotojo veikla įvertinama nepatenkinamai du kartus iš eilės, nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos vadovas priima sprendimą kūrybinį darbuotoją atleisti iš pareigų ir nutraukia su juo sudarytą darbo sutartį.
+10. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos kūrybinio darbuotojo veikla gali būti vertinama labai gerai, gerai arba nepatenkinamai. Jeigu nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos kūrybinio darbuotojo veikla įvertinama nepatenkinamai du kartus iš eilės, nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos vadovas priima sprendimą kūrybinį darbuotoją atleisti iš pareigų ir nutraukia su juo sudarytą darbo sutartį.
 
-10. Nacionalinių, valstybinių ir savivaldybių teatrų ir koncertinių įstaigų vadovai, suderinę su atitinkamos įstaigos meno taryba, nustato darbo laiko, į kurį įeina individualus darbas, repeticijos ir viešieji renginiai, apskaitos tvarką.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
+
+11. Nacionalinių, valstybinių ir savivaldybių teatrų ir koncertinių įstaigų vadovai, suderinę su atitinkamos įstaigos meno taryba, nustato darbo laiko, į kurį įeina individualus darbas, repeticijos ir viešieji renginiai, apskaitos tvarką.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
 
 12 straipsnis. Nacionalinių, valstybinių ir savivaldybių teatrų ir koncertinių įstaigų meno taryba
 
@@ -296,13 +346,17 @@ NACIONALINIŲ, VALSTYBINIŲ IR SAVIVALDYBIŲ TEATRŲ IR KONCERTINIŲ ĮSTAIGŲ V
 
 13 straipsnis. Nacionalinių, valstybinių ir savivaldybių teatrų ir koncertinių įstaigų vadovų teisė dirbti kitą darbą
 
-1. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos vadovui leidžiama dirbti kitą darbą ir gauti atlygį, jeigu tai:
+1. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos vadovui leidžiama dirbti kitą darbą ir už šį darbą gauti darbo užmokestį ar atlyginimą, jeigu tai:
 
 1) nesukelia viešųjų ir privačių interesų konflikto;
 
 2) nediskredituoja teatro ir koncertinės įstaigos autoriteto.
 
-2. Sprendimą dėl leidimo įstaigos vadovui dirbti kitą darbą priima savininko teises ir pareigas įgyvendinančios institucijos vadovas jo nustatyta tvarka.
+2. Sprendimą dėl leidimo įstaigos vadovui dirbti kitą darbą ir už šį darbą gauti darbo užmokestį ar atlyginimą, priima savininko teises ir pareigas įgyvendinančios institucijos vadovas jo nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
 
 14 straipsnis. Profesionaliojo scenos meno emeritas
 
@@ -529,6 +583,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2614, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24188
 
 Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo Nr. IX-2257 pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
+
+Lietuvos Respublikos profesionaliojo scenos meno įstatymo IX-2257 11 ir 13 straipsnių pakeitimo įstatymas
 
 20 straipsnis. Teatrų ir koncertinių įstaigų taryba
 
