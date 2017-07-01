@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
 
@@ -153,7 +153,11 @@ Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
-22. Liktinis – Lietuvos Respublikos pilietis, kuris atlikdamas privalomąją pradinę karo tarnybą buvo atrinktas į profesinę karo tarnybą ir sudarė profesinės karo tarnybos sutartį.
+22. Neteko galios nuo 2017-07-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -1377,23 +1381,21 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 2. Profesinės karo tarnybos sutartis sudaroma šiems terminams:
 
-1) su karininkais, pradedančiais tarnybą po Lietuvos karo akademijos ar karininkus rengiančios užsienio mokyklos baigimo, – iki sukaks šio įstatymo 45 straipsnio 4 dalyje nustatyti išleidimo į atsargą metai;
+1) su priimamais į profesinę karo tarnybą kariais – ne ilgesniam kaip 5 metų laikotarpiui ir terminui, ne ilgesniam kaip iki tos dienos, kai kariui sukaks šio įstatymo 45 straipsnyje nustatyti išleidimo į atsargą metai;
 
-2) su priimamais į profesinę karo tarnybą kariais – ne ilgesniam kaip 5 metų laikotarpiui ir terminui, ne ilgesniam kaip iki tos dienos, kai kariui sukaks šio įstatymo 45 straipsnyje nustatyti išleidimo į atsargą metai;
+2) su stojančiais į tarptautinių operacijų karinius vienetus – krašto apsaugos ministro nustatytam, bet ne ilgesniam kaip 5 metų, laikotarpiui.
 
-Straipsnio punkto pakeitimai:
+Straipsnio dalies pakeitimai:
 
-Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
-3) su liktiniais – ne trumpesniam kaip 2 metų ir ne ilgesniam kaip 5 metų laikotarpiui;
-
-4) su stojančiais į tarptautinių operacijų karinius vienetus – krašto apsaugos ministro nustatytam, bet ne ilgesniam kaip 5 metų laikotarpiui.
-
-3. Pasibaigus šio straipsnio 2 dalies 2 punkte nurodytais atvejais sudarytos terminuotos profesinės karo tarnybos sutarties terminui, sutartis su kariu gali būti pratęsta ne ilgiau kaip 5 metams ir ne ilgiau kaip iki tos dienos, kai kariui sukaks šio įstatymo 45 straipsnio 4, 5 ir 6 dalyse nustatyti išleidimo į atsargą metai.
+3. Pasibaigus profesinės karo tarnybos sutarties laikotarpiui ir (ar) terminui, sutartis su kariu, turinčiu mažesnį negu 8 metų nepertraukiamą profesinės karo tarnybos stažą, gali būti pratęsta ne ilgiau kaip 5 metams; turinčiu 8 metų ir didesnį nepertraukiamą profesinės karo tarnybos stažą, bet neįgijusiu teisės į pareigūnų ir karių valstybinę pensiją pagal ištarnautus metus – ne ilgiau kaip iki teisės į pareigūnų ir karių valstybinę pensiją pagal ištarnautus metus įgijimo; įgijusiu teisę į pareigūnų ir karių valstybinę pensiją pagal ištarnautus metus – ne ilgiau kaip 5 metams. Visais atvejais sutartys pratęsiamos laikotarpiui, ne ilgesniam kaip iki tos dienos, kai kariui sukaks šio įstatymo 45 straipsnio 4 ir 6 dalyse nustatyti išleidimo į atsargą metai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 4. Neatsižvelgiant į profesinės karo tarnybos sutarties terminą, šio įstatymo 37 ir 38 straipsniuose numatytais atvejais ji gali būti nutraukta prieš terminą.
 
@@ -1411,7 +1413,11 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 
 3) su kitų krašto apsaugos sistemos institucijų ir jų padalinių kariais iki seržantų majorų (vyresniųjų laivūnų) imtinai – krašto apsaugos ministro tam įgalioti krašto apsaugos sistemos institucijų ar jų padalinių vadovai (kariniai viršininkai).
 
-7. Šio straipsnio 6 dalyje nurodyti pareigūnai profesinės karo tarnybos sutartis be atskiro ministro sutikimo gali sudaryti su kariais, kurie pradeda karininko tarnybą baigę Lietuvos karo akademiją ar Krašto apsaugos ministerijos siuntimu kitą karo mokyklą.
+7. Šio straipsnio 6 dalyje nurodyti pareigūnai profesinės karo tarnybos sutartis be atskiro ministro sutikimo gali sudaryti su kariais, kurie pradeda karininko tarnybą baigę karo mokymo įstaigą ar Lietuvos aukštąją mokyklą ir karinio rengimo programą Akademijoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 Straipsnio pakeitimai:
 
@@ -1429,7 +1435,11 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 2. Kario savanorio sutartis sudaroma ne ilgesniam kaip 4 metų laikotarpiui.
 
-3. Kario savanorio sutarties terminui pasibaigus, ji gali būti pratęsta naujam, ne ilgesniam kaip 4 metų, laikotarpiui neribotą kartų skaičių, tačiau ne ilgesniam terminui, kaip iki tos dienos, kai kariui savanoriui sukanka 55 metai.
+3. Kario savanorio sutarties terminui pasibaigus, ji gali būti pratęsta naujam, ne ilgesniam kaip 4 metų, laikotarpiui neribotą kartų skaičių, tačiau ne ilgesniam terminui, kaip iki tos dienos, kai kariui savanoriui sukanka 60 metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 4. Kario savanorio sutarties formą ir sutarties sudarymo tvarką nustato krašto apsaugos ministras.
 
@@ -1485,11 +1495,15 @@ Nr. XI-822, 2010-05-18, Žin., 2010, Nr. 63-3099 (2010-05-31)
 
 7) kai karys savanoris ar kitas aktyviojo rezervo karys pateikia prašymą stoti į profesinę karo tarnybą;
 
-8) už pirmus 4 nepertraukiamos profesinės karo tarnybos metus arba tarnybos pagal kario savanorio ar aktyviojo rezervo kario sutartį metus, išskyrus pirmą kartą į pareigas profesinėje karo tarnyboje paskirtus karius, baigusius Akademiją ar užsienio valstybės karo mokymo įstaigą, į kurią buvo siųsti Krašto apsaugos ministerijos ir kurią baigusiems suteikiamas pirmasis karininko laipsnis.
+8) už pirmus 4 nepertraukiamos profesinės karo tarnybos metus arba tarnybos pagal kario savanorio ar aktyviojo rezervo kario sutartį metus, išskyrus pirmą kartą į pareigas profesinėje karo tarnyboje paskirtus karius, baigusius karo mokymo įstaigą ar Lietuvos aukštąją mokyklą ir karinio rengimo programą Akademijoje.
 
 Papildyta straipsnio punktu:
 
 Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 5. Šio straipsnio 4 dalies 1–5 punktuose nurodytais atvejais vertinimas galimas, kai nuo paskutinio vertinimo praėjo daugiau kaip 12 mėnesių.
 
@@ -1535,7 +1549,11 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 
 9. Karys negali priimti dovanų ar paslaugų, tiesiogiai ar netiesiogiai susijusių su jo pareigų ėjimu, išskyrus krašto apsaugos sistemos ar kitų valstybės institucijų oficialiai skirtas premijas ir dovanas, taip pat dovanas ir paslaugas pagal tarptautinį protokolą ar tradicijas, kurios įprastai yra susijusios su jo pareigomis.
 
-10. Profesinės karo tarnybos kariai, kurie krašto apsaugos sistemoje eina karo medicinos gydytojo ar jo padėjėjo pareigas, esant poreikiui gali būti siunčiami dirbti į kitą valstybės ir savivaldybių asmens sveikatos priežiūros įstaigą, paliekant tą patį tarnybinį atlyginimą, krašto apsaugos ir sveikatos apsaugos ministrų nustatyta tvarka sudarytoje dvišalėje sutartyje tarp krašto apsaugos sistemos institucijos ir asmens sveikatos priežiūros įstaigos nustatytomis sąlygomis. Teisė dirbti laisvu nuo tarnybos metu kitose sveikatos priežiūros įstaigose įgyvendinama krašto apsaugos ministro nustatytomis sąlygomis ir tvarka.
+10. Profesinės karo tarnybos kariai, kurie krašto apsaugos sistemoje eina karo medicinos gydytojo, jo padėjėjo ar paramediko pareigas, esant poreikiui gali būti siunčiami dirbti į kitą valstybės ir savivaldybių asmens sveikatos priežiūros įstaigą, paliekant tą patį tarnybinį atlyginimą, krašto apsaugos ir sveikatos apsaugos ministrų nustatyta tvarka sudarytoje dvišalėje sutartyje tarp krašto apsaugos sistemos institucijos ir asmens sveikatos priežiūros įstaigos nustatytomis sąlygomis. Teisė dirbti laisvu nuo tarnybos metu kitose sveikatos priežiūros įstaigose įgyvendinama krašto apsaugos ministro nustatytomis sąlygomis ir tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 11. Profesinėje karo tarnyboje negali tarnauti Lietuvos Respublikos piliečiai, kurie gauna kitų šalių valstybines pensijas už tarnybą tų šalių karinėse ar joms prilygintose struktūrose. Krašto apsaugos ministras turi teisę neatsižvelgdamas į asmens amžių priimti į profesinę karo tarnybą ne ilgiau kaip 5 metams arba įrašyti į parengtąjį kariuomenės personalo rezervą Lietuvos Respublikos piliečius, tarnavusius profesinės tarnybos kariais valstybių Šiaurės Atlanto Sutarties Organizacijos (NATO) narių karinėse ar joms prilygintose struktūrose ir gaunančius tų šalių karinę pensiją.
 
@@ -1679,29 +1697,29 @@ Nr. XII-1158, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13595
 
 3. Karys per laikotarpį nuo jo atleidimo iš pareigų iki išleidimo į atsargą perduoda savo pareigas. Už šį laikotarpį jam mokamas kario tarnybinis atlyginimas.
 
-4. Į atsargą profesinės karo tarnybos kariai, išskyrus nurodytus šio straipsnio 5 ir 6 dalyse, išleidžiami sukakę:
+4. Į atsargą profesinės karo tarnybos kariai, išskyrus nurodytus šio straipsnio 6 dalyje, išleidžiami sukakę:
 
-1) žemesnio negu grandinio laipsnio – 40 metų;
+1) kareiviai, jūreiviai – 40 metų;
 
-2) nuo grandinio iki seržanto majoro (vyresniojo laivūno) – 50 metų;
+2) puskarininkiai, jaunesnieji ir vyresnieji karininkai – 56 metus;
 
-3) leitenantai – 35 metus;
+3) generolai (admirolai) – 58 metus.
 
-4) vyresnieji leitenantai – 40 metų;
+Straipsnio dalies pakeitimai:
 
-5) kapitonai (kapitonai leitenantai) – 43 metus;
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
-6) majorai (komandorai leitenantai) – 46 metus;
+5. Neteko galios nuo 2017-07-01.
 
-7) pulkininkai leitenantai (komandorai) – 50 metų;
+Straipsnio dalies pakeitimai:
 
-8) pulkininkai (jūrų kapitonai) – 53 metus;
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
-9) generolai (admirolai) – 58 metus.
+6. Profesinės karo tarnybos kariai, kurie eina pareigas, kurioms nustatytas reikalavimas turėti karinę specialybę, gali būti išleidžiami į atsargą sukakę 60 metų, o karo kapelionai – 65 metus.
 
-5. Karo kapelionai, neatsižvelgiant į jų turimą laipsnį, gali būti išleidžiami į atsargą sukakę 60 metų, o vyriausiasis kariuomenės kapelionas – 65 metus.
+Straipsnio dalies pakeitimai:
 
-6. Profesinės karo tarnybos kariai, kurie eina karinių specialistų pareigas pagal krašto apsaugos ministro įsakymu patvirtintą karinių specialybių sąrašą, gali būti išleidžiami į atsargą sukakę 55 metus.
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 Straipsnio pakeitimai:
 
@@ -1719,13 +1737,13 @@ Nr. XI-822, 2010-05-18, Žin., 2010, Nr. 63-3099 (2010-05-31)
 
 1) profesinės karo tarnybos kariai išleidžiant juos į atsargą, jeigu išleidimo į atsargą metu jie jau yra sukakę 60 metų;
 
-2) atsargos karininkai ir generolai (admirolai) – buvę profesinės karo tarnybos kariai – sukakę 60 metų;
+2) atsargos kariai, sukakę 60 metų;
 
-3) atsargos kariai, turintys gydytojo ar gydytojo padėjėjo specialybę, sukakę 60 metų;
+3) dėl sveikatos būklės tapę netinkami mobilizacijai atsargos kariai, neatsižvelgiant į jų amžių.
 
-4) kiti atsargos kariai, sukakę 55 metus;
+Straipsnio dalies pakeitimai:
 
-5) dėl sveikatos būklės tapę netinkami mobilizacijai atsargos kariai, neatsižvelgiant į amžių.
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 3. Perkelti į dimisiją atsargos kariai išbraukiami iš karinės įskaitos ir į tikrąją karo tarnybą paskelbus mobilizaciją nešaukiami.
 
@@ -1885,7 +1903,11 @@ Nr. XI-822, 2010-05-18, Žin., 2010, Nr. 63-3099 (2010-05-31)
 
 2. Pirmasis suteikiamas puskarininkio laipsnis yra grandinio laipsnis.
 
-3. Įgijusiems pagrindinį karinį parengimą profesinės karo tarnybos kariams, turintiems ne žemesnį kaip aukštąjį neuniversitetinį (arba aukštesnįjį) išsilavinimą arba iki 1995 metų įgytą specialųjį vidurinį išsilavinimą ir pagal turimą specialybę (kvalifikaciją) paskirtiems į seržanto specialisto pareigas, vietoj pirmojo grandinio laipsnio suteikiamas aukštesnis seržanto specialisto laipsnis.
+3. Įgijusiems pagrindinį karinį parengimą profesinės karo tarnybos kariams, turintiems ne žemesnį kaip aukštąjį koleginį (arba iki 2006 m. įgytą aukštesnįjį) išsilavinimą arba iki 1995 metų įgytą specialųjį vidurinį išsilavinimą ir pagal turimą specialybę (kvalifikaciją) skiriamiems į seržanto specialisto pareigas, suteikiamas seržanto specialisto laipsnis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 4. Pirmasis suteikiamas karininko laipsnis yra leitenanto laipsnis.
 
@@ -1895,11 +1917,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
-6. Baigusiems karinio rengimo programas, skirtas karininkams parengti, ir stojantiems į profesinę karo tarnybą arba atliekantiems profesinę karo tarnybą ir jos metu baigusiems karinio rengimo programas, skirtas karininkams parengti, aukštąjį universitetinį išsilavinimą įgijusiems teisininkams, taip pat gydytojams vietoj pirmojo leitenanto laipsnio tokia pačia tvarka gali būti suteikiamas aukštesnis vyresniojo leitenanto ar kapitono (kapitono leitenanto) laipsnis.
+6. Baigusiems karinio rengimo programas, skirtas karininkams parengti, ir stojantiems į profesinę karo tarnybą arba atliekantiems profesinę karo tarnybą ir jos metu baigusiems karinio rengimo programas, skirtas karininkams, skiriamiems į pareigas, kurioms nustatytas reikalavimas turėti karinę specialybę, parengti, vietoj pirmojo leitenanto laipsnio tokia pačia tvarka gali būti suteikiamas aukštesnis vyresniojo leitenanto ar kapitono (kapitono leitenanto) laipsnis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 7. Karo kapelionui vietoj pirmojo leitenanto laipsnio gali būti suteiktas aukštesnis kapitono (kapitono leitenanto) laipsnis.
 
@@ -1919,9 +1943,17 @@ Nr. XI-822, 2010-05-18, Žin., 2010, Nr. 63-3099 (2010-05-31)
 
 2. Atrankoje aukštesniam laipsniui gauti taikos metu dalyvauja kariai, ištarnavę:
 
-1) jaunesniuoju eiliniu, jaunesniuoju jūreiviu – ne mažiau kaip 6 mėnesius pagal profesinės karo tarnybos sutartį arba ne mažiau kaip  8 mėnesius pagal kario savanorio arba aktyviojo rezervo kario sutartį, jeigu per tuos metus ištarnavo ne mažiau kaip  20 tarnybos dienų;
+1) jaunesniuoju eiliniu, jaunesniuoju jūreiviu – ne mažiau kaip 6 mėnesius nuolatinėje privalomojoje pradinėje karo tarnyboje arba pagal profesinės karo tarnybos sutartį, arba ne mažiau kaip 8 mėnesius pagal kario savanorio ar aktyviojo rezervo kario sutartį, jeigu per tuos metus ištarnavo ne mažiau kaip 20 tarnybos dienų;
 
-2) eiliniu, jūreiviu, vyresniuoju eiliniu, vyresniuoju jūreiviu – ne mažiau kaip 1 metus 6 mėnesius pagal profesinės karo tarnybos sutartį arba ne mažiau kaip 2 metus pagal kario savanorio arba aktyviojo rezervo kario sutartį, jeigu per tuos metus ištarnavo ne mažiau kaip 60 tarnybos dienų;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
+
+2) eiliniu, jūreiviu, vyresniuoju eiliniu, vyresniuoju jūreiviu – ne mažiau kaip vienus metus pagal profesinės karo tarnybos sutartį arba ne mažiau kaip vienus metus ir 3 mėnesius pagal kario savanorio ar aktyviojo rezervo kario sutartį, jeigu per tuos metus ištarnavo ne mažiau kaip 30 tarnybos dienų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 3) grandiniu, seržantu, seržantu specialistu – ne mažiau kaip 2 metus pagal profesinės karo tarnybos sutartį arba ne mažiau kaip  3 metus  pagal kario savanorio arba aktyviojo rezervo kario sutartį, jeigu per tuos metus ištarnavo ne mažiau kaip 80 tarnybos dienų;
 
@@ -1941,21 +1973,43 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 
-3. Atsižvelgiant į krašto apsaugos sistemos poreikius, tam tikram labiausiai pasižymėjusių tarnyboje karių skaičiui gali būti leista dalyvauti atrankoje aukštesniam laipsniui gauti ir pirma šio straipsnio 2 dalyje nustatyto laiko, jeigu jie ištarnavę bent pusę šio laiko, o gydytojams ir teisininkams, turintiems vyresniojo leitenanto laipsnį, – bent trečdalį šio laiko. Ne aukštesnį kaip pulkininko leitenanto turinčiam laipsnį karo kapelionui, jį paskyrus kariuomenės generaliniu vikaru (vyriausiuoju kapelionu), gali būti suteiktas aukštesnis laipsnis netaikant šio straipsnio 2 dalies, taip pat šios dalies sąlygų.
+3. Atsižvelgiant į krašto apsaugos sistemos poreikius, tam tikram labiausiai pasižymėjusių tarnyboje karių skaičiui gali būti leista dalyvauti atrankoje aukštesniam laipsniui gauti ir pirma šio straipsnio 2 dalyje nustatyto laiko, jeigu jie ištarnavę bent pusę šio laiko, o einantiems pareigas, kurioms nustatytas reikalavimas turėti karinę specialybę, ir turintiems vyresniojo leitenanto laipsnį, – bent trečdalį šio laiko. Ne aukštesnį kaip pulkininko leitenanto laipsnį turinčiam karo kapelionui, jį paskyrus kariuomenės generaliniu vikaru (vyriausiuoju kapelionu), gali būti suteiktas aukštesnis laipsnis netaikant šio straipsnio 2 dalies ir šios dalies sąlygų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
+
+31. Baigusiems karinio rengimo programas, skirtas karininkams parengti, ir stojantiems į profesinę karo tarnybą asmenims, turintiems leitenanto ar vyresniojo leitenanto laipsnį ir skiriamiems į pareigas, kurioms nustatytas reikalavimas turėti karinę specialybę, gali būti suteikiamas aukštesnis vyresniojo leitenanto ar kapitono (kapitono leitenanto) laipsnis netaikant šio straipsnio 2 dalies sąlygų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 4. Vyresniųjų karininkų, generolų (admirolų) laipsniai suteikiami kariams, turintiems aukštąjį ir specialųjį karinį išsilavinimą bei mokantiems bent vieną iš NATO oficialių darbo kalbų (anglų arba prancūzų).
 
-5. Pulkininko (jūrų kapitono) laipsnis gali būti suteikiamas kariui, ištarnavusiam dalinio, kovinio laivo, junginio ar pajėgų rūšies vadu arba jo pavaduotoju ne mažiau kaip 1 metus. Šis reikalavimas netaikomas karininkams medicinos, finansų ir teisės specialistams, turintiems ne žemesnį kaip magistro laipsnį.
+5. Pulkininko (jūrų kapitono) laipsnis gali būti suteikiamas kariui, ištarnavusiam dalinio, junginio vadu arba jo pavaduotoju (štabo viršininku) ne mažiau kaip vienus metus. Šis reikalavimas netaikomas kariams, einantiems pareigas, kurioms nustatytas reikalavimas turėti karinę specialybę, ir turintiems ne žemesnį kaip magistro (ar jam prilygintą) kvalifikacinį laipsnį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 6. (Neteko galios nuo 2008 m. balandžio 3 d.)
 
 7. Generolo majoro (kontradmirolo) laipsnis gali būti suteikiamas brigados generolui (flotilės admirolui), ištarnavusiam brigados generolu (flotilės admirolu) ne mažiau kaip 2 metus ir paskirtam į generolo majoro (kontradmirolo) laipsnį atitinkančias pareigas.
 
-8. Atsižvelgiant į Seimo patvirtintą generolų bei admirolų skaičių ir laikantis šio straipsnio 4 dalyje nustatytų sąlygų, brigados generolo (flotilės admirolo) laipsnis gali būti suteikiamas karininkui, ištarnavusiam pulkininku (jūrų kapitonu) ne mažiau kaip 3 metus ir atitinkančiam šio straipsnio 5 dalyje nustatytą reikalavimą, paskyrus jį pajėgumų ir ginkluotės generaliniu direktoriumi, Jungtinio štabo viršininku, kariuomenės pajėgų rūšies vadu arba į kitas generolo (admirolo) laipsnį atitinkančias pareigas.
+8. Atsižvelgiant į Seimo patvirtintą generolų bei admirolų skaičių ir laikantis šio straipsnio 4 dalyje nustatytų sąlygų, brigados generolo (flotilės admirolo) laipsnis gali būti suteikiamas karininkui, ištarnavusiam pulkininku (jūrų kapitonu) ne mažiau kaip 4 metus ir atitinkančiam šio straipsnio 5 dalyje nustatytą reikalavimą, paskyrus jį pajėgumų ir ginkluotės generaliniu direktoriumi, Jungtinio štabo viršininku, kariuomenės pajėgų rūšies vadu arba į kitas generolo (admirolo) laipsnį atitinkančias pareigas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 9. Kariuomenės vadui, kai jis yra ištarnavęs generolu majoru (kontradmirolu) ne mažiau kaip 2 metus, gali būti suteikiamas generolo leitenanto (viceadmirolo) laipsnis.
 
-10. Kariams, išskyrus generolus ir admirolus, aukštesnis karininko laipsnis gali būti suteikiamas, jeigu iki nustatyto išleidimo į atsargą amžiaus pagal suteikiamą laipsnį liko ne mažiau kaip 2 metai arba jo tarnyba pratęsiama šio įstatymo 46 straipsnyje nustatytomis sąlygomis.
+10. Neteko galios nuo 2017-07-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 11. Karo metu, atsižvelgdamas į to meto aplinkybes, krašto apsaugos ministras turi teisę nustatyti ginkluotosiose pajėgose kovojantiems kariams kitokias aukštesnių karinių laipsnių suteikimo sąlygas.
 
@@ -2161,7 +2215,11 @@ KARIŲ APRŪPINIMAS
 
 3. Profesinės karo tarnybos kario tarnybinio atlyginimo dydis priklauso nuo kario laipsnio ir pagal šį laipsnį ištarnautų metų. Profesinės karo tarnybos karių, tarnaujančių Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos, tarnybinių atlyginimų dydžius nustato Žvalgybos įstatymas.
 
-4. Tam tikroms profesinės karo tarnybos karių pareigoms, susijusioms su didesne vadų (ne žemesne kaip bataliono vado) atsakomybe ar ypatinga pareigų specifika, nustatomi pareiginiai tarnybinio atlyginimo priedai. Priedai mokami, kol karys eina šias pareigas.
+4. Tam tikroms profesinės karo tarnybos karių pareigoms, susijusioms su didesne vadų (ne žemesne kaip bataliono vado) ar juos pavaduojančių asmenų atsakomybe ar ypatinga pareigų specifika, nustatomi pareiginiai tarnybinio atlyginimo priedai. Priedai mokami tol, kol karys eina šias pareigas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 5. Profesinės karo tarnybos karių tarnybinių atlyginimų dydžius, taip pat pareigų, kurias einant mokamas pareiginis priedas, sąrašą ir šias pareigas atitinkančių priedų dydžius nustato Vyriausybė. Vyriausybė taip pat gali nustatyti priedus kariams, kurie turi ypatingų karinių specialybių kvalifikacines kategorijas.
 
@@ -2189,7 +2247,7 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
-10. Pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams, baigusiems Akademiją ar užsienio valstybės karo mokymo įstaigą, į kurią buvo siųsti Krašto apsaugos ministerijos ir kurią baigusiems suteikiamas pirmasis karininko laipsnis, mokama vienkartinė piniginė išmoka, išskyrus atvejus, kai jie įvertinti nepatenkinamai. Išmokos dydis priklauso nuo kariūno vertinimo, kurio tvarką ir kriterijus nustato krašto apsaugos ministras, rezultatų:
+10. Pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams, baigusiems karo mokymo įstaigą ar Lietuvos aukštąją mokyklą ir karinio rengimo programą Akademijoje, mokama vienkartinė piniginė išmoka, išskyrus atvejus, kai jie įvertinti nepatenkinamai. Išmokos dydis priklauso nuo kariūno vertinimo, kurio tvarką ir kriterijus nustato krašto apsaugos ministras, rezultatų:
 
 1) 7,3 bazinio dydžio – įvertinus labai gerai;
 
@@ -2197,11 +2255,9 @@ Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
 3) 3,3 bazinio dydžio – įvertinus patenkinamai.
 
-TAR pastaba. 60 straipsnio 10 dalyje nustatytos vienkartinės piniginės išmokos skiriamos profesinės karo tarnybos kariams, kariams savanoriams ir kitiems aktyviojo rezervo kariams, profesinės karo tarnybos, kario savanorio ar aktyviojo rezervo kario tarnybos sutartis sudariusiems po įstatymo Nr. XII-2489 įsigaliojimo dienos (2016-07-01).
+Straipsnio dalies pakeitimai:
 
-Papildyta straipsnio dalimi:
-
-Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 11. Kariams savanoriams ir kitiems aktyviojo rezervo kariams už pirmus 4 nepertraukiamos tarnybos metus pagal kario savanorio ar aktyviojo rezervo kario sutartį mokama vienkartinė piniginė išmoka, išskyrus atvejus, kai jų tarnyba įvertinta nepatenkinamai. Išmoka skiriama, kai per pirmų 4 nepertraukiamos tarnybos metų laikotarpį karys savanoris ar kitas aktyviojo rezervo karys kiekvienais metais ištarnauja ne mažiau kaip atitinkamais metais kariuomenės vado nustatytą aktyviojo rezervo karių pratybų ir mokymų trukmę, išskyrus ligos, nėštumo ir gimdymo atostogų laikotarpius. Išmokos dydis apskaičiuojamas pagal Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinį dydį, nustatytą tiems metams, kuriais karys savanoris ir kitas aktyviojo rezervo karys įgyja teisę gauti šią išmoką, ir priklauso nuo kario savanorio ir kito aktyviojo rezervo kario tarnybos vertinimo rezultatų:
 
@@ -2315,11 +2371,13 @@ Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
 3. Profesinės karo tarnybos kariams, kurie, vykdydami vado (karinio viršininko) pavestą tarnybos pareigą, važiuoja į kitą vietovę Lietuvos teritorijoje, atlyginamos kelionės bet kokios rūšies transportu (išskyrus taksi) išlaidos.
 
-4. Profesinės karo tarnybos kariams, perkeltiems (rotuotiems) į kitą savivaldybę, taip pat pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams, baigusiems Akademiją ar užsienio valstybės karo mokymo įstaigą, į kurią buvo siųsti Krašto apsaugos ministerijos ir kurią baigusiems suteikiamas pirmasis karininko laipsnis, jei toje savivaldybėje jie patys, jų šeimos nariai neturi nuosavybės teise priklausančių, techninius ir higienos reikalavimus atitinkančių gyvenamųjų patalpų ar jų dalies ir per pastaruosius 5 metus nėra jų perleidę (išskyrus perleidimą dėl santuokos nutraukimo), jie laikinai nėra apgyvendinti tarnybiniuose butuose, kai jiems nekompensuojamos gyvenamosios patalpos nuomos išlaidos ir nėra galimybės ar netikslinga juos į tarnybos vietą ir iš jos vežioti tarnybiniu transportu, atlyginamos kelionės iš gyvenamosios vietos į tarnybą ir atgal bet kokios rūšies transportu (išskyrus taksi) išlaidos. 5 metų gyvenamųjų patalpų ar jų dalies perleidimo terminas skaičiuojamas nuo perkėlimo (rotavimo) ar paskyrimo į kitas pareigas kitoje savivaldybėje dienos. Kelionės išlaidos atlyginamos 6 metus nuo perkėlimo (rotavimo) ar paskyrimo į pareigas. Jeigu per šį 6 metų laikotarpį profesinės karo tarnybos kariai perkeliami (rotuojami) tos pačios savivaldybės teritorijoje, kelionės išlaidos jiems ir toliau atlyginamos, bet ne ilgiau kaip 6 metus nuo jų perkėlimo (rotavimo) į kitą savivaldybę ar paskyrimo į pareigas. Profesinės karo tarnybos karį perkėlus (rotavus) į kitą savivaldybę, 6 metų terminas skaičiuojamas iš naujo.
+4. Profesinės karo tarnybos kariams, perkeltiems (rotuotiems) į kitą savivaldybę, pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams, taip pat po karo mokymo įstaigos ar Lietuvos aukštosios mokyklos ir karinio rengimo programos Akademijoje baigimo pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams, jeigu toje savivaldybėje jie patys, jų šeimos nariai neturi nuosavybės teise priklausančių, techninius ir higienos reikalavimus atitinkančių gyvenamųjų patalpų ar jų dalies ir per pastaruosius 5 metus nėra jų perleidę (išskyrus perleidimą dėl santuokos nutraukimo), jie laikinai nėra apgyvendinti tarnybiniuose butuose, kai jiems nekompensuojamos gyvenamosios patalpos nuomos išlaidos ir nėra galimybės ar netikslinga juos į tarnybos vietą ir iš jos vežioti tarnybiniu transportu, atlyginamos kelionės iš gyvenamosios vietos į tarnybą ir atgal bet kokios rūšies transportu (išskyrus taksi) išlaidos. 5 metų gyvenamųjų patalpų ar jų dalies perleidimo terminas skaičiuojamas nuo perkėlimo (rotavimo) ar paskyrimo į kitas pareigas kitoje savivaldybėje dienos. Kelionės išlaidos atlyginamos 6 metus nuo perkėlimo (rotavimo) ar paskyrimo į pareigas. Jeigu per šį 6 metų laikotarpį profesinės karo tarnybos kariai perkeliami (rotuojami) tos pačios savivaldybės teritorijoje, kelionės išlaidos jiems ir toliau atlyginamos, bet ne ilgiau kaip 6 metus nuo jų perkėlimo (rotavimo) į kitą savivaldybę ar paskyrimo į pareigas. Profesinės karo tarnybos karį perkėlus (rotavus) į kitą savivaldybę, 6 metų terminas skaičiuojamas iš naujo.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 5. Profesinės karo tarnybos karį atšaukus iš atostogų, apmokamos jo kelionės iš atostogų vietos Lietuvos teritorijoje į tarnybos vietą išlaidos ir išlaidos atgal į atostogų vietą.
 
@@ -2607,7 +2665,11 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 
 3. Civilinę krašto apsaugos tarnybą atliekantys statutiniai valstybės tarnautojai, vykdantys žmonių paieškos ir gelbėjimo darbus paieškos ir gelbėjimo rajone, teršimo incidentų likvidavimo darbus bei mokymus ir pratybas jūros rajone, kai šie darbai ar pratybos trunka ilgiau kaip 4 valandas, aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas.
 
-4. Asmenis, įstojusius į civilinę krašto apsaugos tarnybą tarptautinių operacijų kariniame vienete, darbdaviai privalo atleisti nuo darbo jų rengimosi tarnybai tarptautinėse operacijose ir tarnybos tarptautinėse operacijose metu. Šiuo laikotarpiu tokius asmenis draudžiama įspėti apie darbo sutarties nutraukimą ir atleisti iš darbo, išskyrus Darbo kodekso 136 straipsnio 1 dalyje nustatytus atvejus.
+4. Asmenis, įstojusius į civilinę krašto apsaugos tarnybą tarptautinių operacijų kariniame vienete, darbdaviai privalo atleisti nuo darbo jų rengimosi tarnybai tarptautinėse operacijose ir tarnybos tarptautinėse operacijose metu. Šiuo laikotarpiu tokius asmenis draudžiama įspėti apie darbo sutarties nutraukimą ir atleisti iš darbo, išskyrus Darbo kodekso 60 straipsnio 1 dalyje nustatytus atvejus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2510, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20647
 
 5. Asmenys, stojantys ar įstoję į civilinę krašto apsaugos tarnybą, krašto apsaugos sistemoje nustatyto turinio anketoje įstatymų ir kitų teisės aktų nustatyta tvarka privalo pateikti duomenis apie save, savo ryšius ir interesus, galinčius turėti reikšmės valstybės paslapčių apsaugai, tarnybos pareigų vykdymui ar galinčius būti interesų konflikto priežastimi. Šie duomenys tikrinami. Nuslėpęs ar sąmoningai pateikęs neteisingus duomenis asmuo traukiamas atsakomybėn pagal įstatymą. Su nuslėpusiuoju ar sąmoningai pateikusiuoju neteisingus duomenis gali būti nutraukta civilinės krašto apsaugos tarnybos sutartis ir jis atleistas iš tarnybos krašto apsaugos sistemoje.
 
@@ -2955,17 +3017,11 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 Nr. XI-1637, 2011-11-08, Žin., 2011, Nr. 143-6705 (2011-11-26)
 
-46 straipsnis. Karių, sukakusių išleidimo iš profesinės karo tarnybos į atsargą amžių, tarnybos pratęsimas
+46 straipsnis. Neteko galios nuo 2017-07-01
 
-1. Krašto apsaugos ministras, atsižvelgdamas į krašto apsaugos sistemos poreikius, gali pratęsti šio įstatymo 45 straipsnio 4 dalyje nustatytą amžių sukakusių kareivių (jūreivių), jaunesniųjų karininkų ir majorų (komandorų leitenantų) profesinę karo tarnybą ne ilgiau kaip 10 metų (arba 2 kartus po 5 metus), puskarininkių ir pulkininkų (jūrų kapitonų) profesinę karo tarnybą – ne ilgiau kaip 4 metams (arba 2 kartus po 2 metus), o pulkininkų leitenantų (komandorų) profesinę karo tarnybą – ne ilgiau kaip 6 metams (arba 2 kartus po 3 metus).
+Straipsnio naikinimas:
 
-2. Krašto apsaugos ministras, atsižvelgdamas į krašto apsaugos sistemos poreikius, jaunesniųjų karininkų ir majorų (komandorų leitenantų), kurie pagal Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo įgyvendinimo įstatymo 5 straipsnio 2 dalį į atsargą išleidžiami sukakę 47 metus, profesinę karo tarnybą gali pratęsti: vyresniesiems leitenantams – ne ilgiau kaip 3 metams, kapitonams (kapitonams leitenantams) – ne ilgiau kaip 6 metams (arba 2 kartus po 3 metus), majorams (komandorams leitenantams) – ne ilgiau kaip 9 metams (arba 5 metams ir 4 metams).
-
-Straipsnio pakeitimai:
-
-Nr. VIII-1289, 99.07.07, Žin., 1999, Nr.64-2069 (99.07.23)
-
-Nr. X-662, 2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 Straipsnio pakeitimai:
 
@@ -3481,7 +3537,11 @@ LIETUVOS KARIUOMENĖ
 
 2. Aktyviojo rezervo kario sutartis sudaroma ne ilgesniam kaip 4 metų laikotarpiui.
 
-3. Aktyviojo rezervo kario sutarties terminui pasibaigus, ji gali būti pratęsta naujam, ne ilgesniam kaip 4 metų, laikotarpiui neribotą kartų skaičių, tačiau ne ilgesniam terminui, kaip iki tos dienos, kai aktyviojo rezervo kariui sukanka 55 metai.
+3. Aktyviojo rezervo kario sutarties terminui pasibaigus, ji gali būti pratęsta naujam, ne ilgesniam kaip 4 metų, laikotarpiui neribotą kartų skaičių, tačiau ne ilgesniam terminui, kaip iki tos dienos, kai aktyviojo rezervo kariui sukanka 60 metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 4. Aktyviojo rezervo kario sutarties formą ir sutarties sudarymo tvarką nustato krašto apsaugos ministras.
 
@@ -3511,9 +3571,11 @@ Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
 631 straipsnis. Gyvenamosios patalpos nuomos išlaidų kompensavimas profesinės karo tarnybos kariams
 
-1. Į kitą apskritį perkeltiems (rotuotiems) profesinės karo tarnybos kariams, taip pat pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams, baigusiems Akademiją ar užsienio valstybės karo mokymo įstaigą, į kurią buvo siųsti Krašto apsaugos ministerijos ir kurią baigusiems suteikiamas pirmasis karininko laipsnis, iš Krašto apsaugos ministerijai skirtų asignavimų kompensuojamos gyvenamosios patalpos nuomos išlaidos.
+1. Į kitą apskritį perkeltiems (rotuotiems) profesinės karo tarnybos kariams, pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams, taip pat po karo mokymo įstaigos ar Lietuvos aukštosios mokyklos ir karinio rengimo programos Akademijoje baigimo pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams iš Krašto apsaugos ministerijai skirtų asignavimų kompensuojamos gyvenamosios patalpos nuomos išlaidos.
 
-TAR pastaba. 631 straipsnio 1 dalies nuostata taikoma po 2016-07-01 perkeltiems (rotuotiems) profesinės karo tarnybos kariams ar pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams, baigusiems Generolo Jono Žemaičio Lietuvos karo akademiją ar užsienio valstybės karo mokymo įstaigą, į kurią buvo siųsti Krašto apsaugos ministerijos ir kurią baigusiems suteikiamas pirmasis karininko laipsnis.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 2. Maksimalius gyvenamosios patalpos nuomos išlaidų dydžius, priklausančius nuo vietovės, į kurią perkelti (rotuoti) ar paskirti šio straipsnio 1 dalyje nurodyti asmenys, taip pat nuo kartu su jais gyvenančių šeimos narių, išskyrus sutuoktinį, skaičiaus, atsižvelgdama į gyvenamųjų patalpų nuomos rinkos kainas, tvirtina Vyriausybė. Gyvenamosios patalpos nuomos išlaidos kompensuojamos krašto apsaugos ministro nustatyta tvarka pagal profesinės karo tarnybos kario ir nuomotojo rašytine sutartimi nustatytą nuomos mokesčio dydį, neviršijant Vyriausybės patvirtintų maksimalių gyvenamosios patalpos nuomos išlaidų dydžių. Jeigu šeimoje yra du profesinės karo tarnybos kariai (sutuoktiniai), turintys teisę gauti gyvenamosios patalpos nuomos išlaidų kompensaciją ir tarnaujantys toje pačioje apskrityje, jiems kompensuojamos vienos gyvenamosios patalpos nuomos išlaidos, neviršijant tai tarnybos vietovei Vyriausybės nustatyto maksimalaus gyvenamosios patalpos nuomos išlaidų dydžio.
 
