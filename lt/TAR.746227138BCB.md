@@ -4,7 +4,7 @@ identifier: "TAR.746227138BCB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-01"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.746227138BCB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2024-10-10
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 112-3100, i. k. 0981010ISTAVIII-947
 
@@ -71,7 +71,11 @@ BENDROSIOS NUOSTATOS
 
 4) užtikrinti moterims ir vyrams vienodas sąlygas vertinant žinias;
 
-5) imtis priemonių, kad švietimo įstaigų, mokslo ir studijų institucijų mokiniai, studentai ir darbuotojai nepatirtų seksualinio priekabiavimo;
+5) užtikrinti, kad švietimo įstaigų, mokslo ir studijų institucijų mokiniai, studentai ir darbuotojai nepatirtų seksualinio priekabiavimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-364, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08723
 
 6) imtis priemonių, kad švietimo įstaigų, mokslo ir studijų institucijų mokiniai, studentai ar darbuotojai, liudijantys ar teikiantys paaiškinimus dėl diskriminacijos, būtų apsaugoti nuo priešiško elgesio, neigiamų pasekmių ir kitokio persekiojimo, kai reaguojama į skundą arba į kitą teisinę procedūrą dėl diskriminacijos.
 
@@ -87,7 +91,11 @@ BENDROSIOS NUOSTATOS
 
 3) už tokį patį ar vienodos vertės darbą mokėti vienodą darbo užmokestį, įskaitant visus papildomus uždarbius, bet kokiu būdu darbdavio arba darbdavio atstovo išmokamus darbuotojui už jo atliktą darbą;
 
-4) imtis priemonių, kad darbuotojas nepatirtų priekabiavimo ir seksualinio priekabiavimo;
+4) užtikrinti, kad siekiantis įsidarbinti asmuo ar darbuotojas nepatirtų priekabiavimo ir seksualinio priekabiavimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-364, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08723
 
 5) imtis priemonių, kad darbuotojas, darbuotojo atstovas, darbuotojas, liudijantis ar teikiantis paaiškinimus dėl diskriminacijos, būtų apsaugoti nuo priešiško elgesio, neigiamų pasekmių ir kitokio persekiojimo, kai reaguojama į skundą arba į kitą teisinę procedūrą dėl diskriminacijos.
 
@@ -368,6 +376,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2767, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26966
 
 Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo Nr. VIII-947 pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-364, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08723
+
+Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo Nr. VIII-947 5, 6 ir 11 straipsnių pakeitimo įstatymas
 
 20 straipsnis. Skundų padavimo terminas
 
@@ -707,7 +723,11 @@ Darbdavio arba darbdavio atstovo veiksmai yra pripažįstami pažeidžiančiais 
 
 4) persekioja darbuotoją, darbuotojo atstovą, darbuotoją, liudijantį ar teikiantį paaiškinimus dėl skundo arba dėl kitos teisinės procedūros dėl diskriminacijos;
 
-5) nesiima priemonių, kad darbuotojas nepatirtų priekabiavimo ir seksualinio priekabiavimo.
+5) neužtikrina, kad siekiantis įsidarbinti asmuo ar darbuotojas nepatirtų priekabiavimo ir seksualinio priekabiavimo.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-364, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08723
 
 15 straipsnis. Diskriminavimas dėl lyties socialinės apsaugos sistemose
 
