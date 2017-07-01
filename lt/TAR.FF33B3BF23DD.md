@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-10-31
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
 
@@ -1051,7 +1051,11 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 57 straipsnis. Kompensuojamųjų vaistinių preparatų ir medicinos pagalbos priemonių kainodaros bendrieji reikalavimai
 
-1. Sveikatos apsaugos ministras tvirtina bazines ir didžiausias mažmenines kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių kainas. Vieną kartą per metus jos skelbiamos Kompensuojamųjų vaistinių preparatų kainyne ir Kompensuojamųjų medicinos pagalbos priemonių kainyne. Šie kainynai papildomi ir (ar) patikslinami ne rečiau kaip kartą per ketvirtį. Visi kainynai ir jų papildymai skelbiami Teisės aktų registre. Kainynai įsigalioja po vieno mėnesio nuo jų paskelbimo, jų papildymai ir (ar) patikslinimai – teisės aktų nustatyta tvarka.
+1. Sveikatos apsaugos ministras tvirtina Kompensuojamųjų vaistinių preparatų kainyną ir Kompensuojamųjų medicinos pagalbos priemonių kainyną (toliau – Kainynai), kuriuose nustatomos bazinės ir didžiausios mažmeninės kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių kainos. Kompensuojamųjų vaistinių preparatų kainynas turi būti patvirtintas ne vėliau kaip iki kiekvieno einamųjų metų ketvirčio paskutinio mėnesio 15 dienos, o jo įsigaliojimas numatytas artimiausio ketvirčio pirmą dieną. Kompensuojamųjų medicinos pagalbos priemonių kainynas turi būti patvirtintas ne vėliau kaip iki einamųjų metų birželio 15 dienos, o jo įsigaliojimas numatytas liepos 1 dieną. Kainynų pakeitimai tvirtinami pagal poreikį. Kainynai ir jų pakeitimai skelbiami Sveikatos apsaugos ministerijos interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-362, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08721
 
 2. Kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių didžiausios mažmeninės kainos apskaičiuojamos prie vaistinio preparato registruotojo ar lygiagretaus importo leidimo turėtojo, ar jų atstovo arba medicinos pagalbos priemonės gamintojo ar jo atstovo deklaruotos kainos pridedant sveikatos apsaugos ministro nustatytus didmeninės ir mažmeninės prekybos antkainius ir pridėtinės vertės mokestį, jeigu vaistinis preparatas ar medicinos pagalbos priemonė apmokestinama šiuo mokesčiu. Didžiausios kompensuojamųjų ekstemporaliųjų vaistinių preparatų mažmeninės kainos apskaičiuojamos prie vaistinių medžiagų didmeninės kainos pridedant ne didesnį kaip 22 procentų šios kainos mažmeninės prekybos antkainį, ne didesnę kaip sveikatos apsaugos ministro patvirtintą šių vaistinių preparatų gamybos vaistinėse kainą, priklausančią nuo gamybos sąnaudų, vaistinių preparatų pakavimui ir ženklinimui naudojamų medžiagų kainas ir pridėtinės vertės mokestį, jeigu vaistinis preparatas apmokestinamas šiuo mokesčiu.
 
