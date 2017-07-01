@@ -4,7 +4,7 @@ identifier: "TAR.FF1083B528B7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-09"
-last_updated: "2017-05-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF1083B528B7"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redaguota : 1995 07 21
 
-Suvestinė redakcija nuo 2017-05-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-07-17
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
 
@@ -1146,7 +1146,11 @@ Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
 
 5. Rengiant valstybinių rezervatų, biosferos rezervatų ir valstybinių parkų planavimo schemas (ribų ir tvarkymo planus), vadovaujamasi Vyriausybės patvirtintais saugomų teritorijų tipiniais apsaugos reglamentais.
 
-6. Rengiant planavimo schemas (ribų ir tvarkymo planus) naujiems valstybiniams rezervatams, biosferos rezervatams ir valstybiniams parkams, ribų planus valstybiniams ir savivaldybių draustiniams ir biosferos poligonams steigti, atliekamas ekonominis vertinimas, numatomos kompensavimo už reikalingą nutraukti veiklą (jeigu tai būtina), žemės išpirkimo (pirkimo pagal Viešųjų pirkimų įstatyme nustatytą tvarką arba žemės paėmimo visuomenės poreikiams pagal Žemės įstatyme nustatytą procedūrą), pažeistų teritorijų atkūrimo išlaidos ir saugomai teritorijai steigti ir išlaikyti reikalingų lėšų šaltiniai. Kai steigiamos saugomos teritorijos reikiamos apsaugos negalima užtikrinti teisės aktais ar saugomų teritorijų tipiniais apsaugos reglamentais, steigiamo valstybinio parko ir biosferos rezervato planavimo schemoje (ribų ir tvarkymo plane) gali būti nurodyti papildomi reglamentai, nustatantys galimas arba ribojamas (draudžiamas) veiklos rūšis, leidžiamus statyti statinius, jų aukštį ir statybos produktus, teritorijos užstatymo tankį, statybos ribas ar statinių statybos zonas.
+6. Rengiant planavimo schemas (ribų ir tvarkymo planus) naujiems valstybiniams rezervatams, biosferos rezervatams ir valstybiniams parkams, ribų planus valstybiniams ir savivaldybių draustiniams ir biosferos poligonams steigti, atliekamas ekonominis vertinimas, numatomos kompensavimo už reikalingą nutraukti veiklą (jeigu tai būtina), žemės išpirkimo (pirkimo pagal Lietuvos Respublikos viešųjų pirkimų įstatyme arba Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme nustatytą tvarką arba žemės paėmimo visuomenės poreikiams pagal Žemės įstatyme nustatytą procedūrą), pažeistų teritorijų atkūrimo išlaidos ir saugomai teritorijai steigti ir išlaikyti reikalingų lėšų šaltiniai. Kai steigiamos saugomos teritorijos reikiamos apsaugos negalima užtikrinti teisės aktais ar saugomų teritorijų tipiniais apsaugos reglamentais, steigiamo valstybinio parko ir biosferos rezervato planavimo schemoje (ribų ir tvarkymo plane) gali būti nurodyti papildomi reglamentai, nustatantys galimas arba ribojamas (draudžiamas) veiklos rūšis, leidžiamus statyti statinius, jų aukštį ir statybos produktus, teritorijos užstatymo tankį, statybos ribas ar statinių statybos zonas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-337, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07560
 
 7. Inžinerinė ir socialinė infrastruktūra saugomose teritorijose numatoma rengiant kompleksinio teritorijų planavimo dokumentus ar inžinerinės infrastruktūros vystymo planus.
 
