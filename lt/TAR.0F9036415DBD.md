@@ -4,7 +4,7 @@ identifier: "TAR.0F9036415DBD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-05-21"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-07-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
 
@@ -170,7 +170,7 @@ SOCIALINIO DRAUDIMO ĮMOKOS IR IŠMOKOS
 
 1. Socialinio draudimo įmokos, skirtos šio įstatymo 3 straipsnio 1 dalyje nurodytų socialinio draudimo rūšių išmokoms finansuoti, mokamos į Fondo biudžetą.
 
-2. Socialinio draudimo įmokų tarifai, jų dydžiai (jų dalys) atskirų rūšių socialiniam draudimui tvirtinami Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu.
+2. Socialinio draudimo įmokų tarifai, jų dydžiai (jų dalys) atskirų rūšių socialiniam draudimui tvirtinami Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu. Terminuotoms darbo sutartims nedarbo draudimo įmokos tarifas, nustatytas Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu, didinamas du kartus.
 
 Straipsnio dalies pakeitimai:
 
@@ -216,7 +216,7 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 4) priedus ir išeitines išmokas, apskaičiuotus šio įstatymo 4 straipsnio 1–4 dalyse nurodytiems asmenims;
 
-5) apskaičiuotas kompensacijas už kasmetines, tikslines atostogas (išskyrus nėštumo ir gimdymo atostogas, tėvystės atostogas, atostogas vaikui prižiūrėti), apskaičiuotas pinigines kompensacijas už nepanaudotas kasmetines atostogas, už išmokas, mokamas pagal Darbo kodekso 300 straipsnio 4 dalį, ar už prastovos laiką;
+5) apskaičiuotas kompensacijas už kasmetines, tikslines atostogas (išskyrus nėštumo ir gimdymo atostogas, tėvystės atostogas, atostogas vaikui prižiūrėti), apskaičiuotas pinigines kompensacijas už nepanaudotas kasmetines atostogas, už kompensacijas, mokamas pagal Darbo kodekso 218 straipsnio 4 dalį, ar už prastovos laiką;
 
 Straipsnio punkto pakeitimai:
 
@@ -310,7 +310,7 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 21) draudimo įmokų, kurių mokėjimas privalomas pagal Lietuvos Respublikos įstatymus papildomam darbuotojo gyvybės ir sveikatos draudimui;
 
-22) Darbo kodekso 141 straipsnyje numatyto vidutinio darbo užmokesčio, sumokamo atleistam iš darbo darbuotojui už uždelstą laiką, kai su darbuotoju delsiama atsiskaityti ne dėl darbuotojo kaltės;
+22) Darbo kodekso 147 straipsnyje numatyto vidutinio darbo užmokesčio, sumokamo atleistam iš darbo darbuotojui už uždelstą laiką, kai su darbuotoju delsiama atsiskaityti ne dėl darbuotojo kaltės;
 
 Straipsnio punkto pakeitimai:
 
