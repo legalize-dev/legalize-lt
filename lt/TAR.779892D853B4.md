@@ -4,7 +4,7 @@ identifier: "TAR.779892D853B4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-09-10"
-last_updated: "2017-03-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 58 straipsnis įsigalioja 2002-09-18.
 ---
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2017-03-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2018-04-27
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
 
@@ -462,11 +462,17 @@ Papildyta straipsnio punktu:
 
 Nr. XI-203, 2009-03-19, Žin., 2009, Nr. 38-1442 (2009-04-04), i. k. 1091010ISTA00XI-203
 
-21) sutelktinio finansavimo platformos operatoriaus veikla, kaip tai apibrėžta Lietuvos Respublikos sutelktinio finansavimo įstatyme.
+21) sutelktinio finansavimo platformos operatoriaus veikla, kaip tai apibrėžta Lietuvos Respublikos sutelktinio finansavimo įstatyme;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-2691, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26829
+
+22) tarpusavio skolinimo platformos operatoriaus veikla.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2772, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26973
 
 2. Licencines finansines paslaugas nustato Lietuvos Respublikos įstatymai.
 
@@ -1759,6 +1765,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-99, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29411
 
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 4, 45, 46 straipsnių pakeitimo ir 47 straipsnio pripažinimo netekusiu galios įstatymas
+
+25.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2772, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26973
+
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 3 straipsnio pakeitimo įstatymas
 
 381 straipsnis. Finansinių grupių jungtinė (konsoliduota) priežiūra
 
