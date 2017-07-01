@@ -4,7 +4,7 @@ identifier: "TAR.EAA93A47BAA1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-28"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,9 +15,17 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-09-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
+
+TAR pastaba. Iki įstatymo Nr. XIII-164 įsigaliojimo (2017-07-01) su advokatais, kurie nuolat teikia antrinę teisinę pagalbą, sudarytoms sutartims 5 metų laikotarpis skaičiuojamas nuo šio įstatymo įsigaliojimo dienos.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
+
+Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 9, 17, 18, 21 ir 24 straipsnių pakeitimo įstatymas
 
 Nauja įstatymo redakcija nuo 2014-01-01:
 
@@ -211,7 +219,11 @@ Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
 
 3) priima sprendimus dėl antrinės teisinės pagalbos teikimo;
 
-4) sudaro su advokatais, kurie teikia antrinę teisinę pagalbą, sutartis dėl antrinės teisinės pagalbos teikimo ir kontroliuoja šių sutarčių vykdymą. Sutartyje dėl antrinės teisinės pagalbos teikimo turi būti nustatyta advokato pareiga teikti antrinę teisinę pagalbą, šios pareigos atlikimo sąlygos ir tvarka, sutarties nutraukimo sąlygos ir tvarka. Pavyzdinę sutartį dėl antrinės teisinės pagalbos teikimo tvirtina teisingumo ministras, suderinęs su Lietuvos advokatūra;
+4) sudaro su advokatais, kurie teikia antrinę teisinę pagalbą, sutartis dėl antrinės teisinės pagalbos teikimo ir kontroliuoja šių sutarčių vykdymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
 
 5) teisingumo ministro nustatyta tvarka sudaro sutartis dėl antrinės teisinės pagalbos baudžiamosiose bylose koordinavimo;
 
@@ -523,13 +535,19 @@ ANTRINĖS TEISINĖS PAGALBOS TEIKIMAS
 
 18 straipsnis. Antrinės teisinės pagalbos teikimo tvarka
 
-1. Norintis gauti antrinę teisinę pagalbą asmuo pateikia tarnybai prašymą suteikti antrinę teisinę pagalbą, jo reikalavimą pagrindžiančius dokumentus, jo teisę gauti antrinę teisinę pagalbą įrodančius dokumentus ir rašytinį advokato sutikimą dėl atstovavimo konkrečioje byloje, jeigu pageidauja, kad antrinę teisinę pagalbą teiktų advokatas, kuris neįtrauktas į šio įstatymo 17 straipsnio 2 dalyje nurodytus sąrašus. Prašymo suteikti antrinę teisinę pagalbą rekvizitus ir formą tvirtina teisingumo ministras. Prašymas suteikti antrinę teisinę pagalbą ir kiti šioje dalyje nurodyti dokumentai gali būti pateikiami asmeniškai, paštu arba elektroninėmis priemonėmis, jeigu yra galimybė identifikuoti pareiškėją. Asmuo, kuris, siekdamas gauti antrinę teisinę pagalbą, pateikė informaciją žinodamas, kad ji neteisinga, atsako įstatymų nustatyta tvarka.
+1. Norintis gauti antrinę teisinę pagalbą asmuo pateikia tarnybai prašymą suteikti antrinę teisinę pagalbą, jo reikalavimą pagrindžiančius dokumentus, jo teisę gauti antrinę teisinę pagalbą įrodančius dokumentus ir šio įstatymo 17 straipsnio 5 dalyje nurodytą sutikimą, jeigu pageidauja, kad antrinę teisinę pagalbą teiktų advokatas, kuris neįtrauktas į šio įstatymo 17 straipsnio 2 dalyje nurodytus sąrašus. Prašymo suteikti antrinę teisinę pagalbą rekvizitus ir formą tvirtina teisingumo ministras. Prašymas suteikti antrinę teisinę pagalbą ir kiti šioje dalyje nurodyti dokumentai gali būti pateikiami asmeniškai, paštu arba elektroninėmis priemonėmis, jeigu yra galimybė identifikuoti pareiškėją. Asmuo, kuris, siekdamas gauti antrinę teisinę pagalbą, pateikė informaciją žinodamas, kad ji neteisinga, atsako šio įstatymo ir Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka.
 
-2. Sprendimus dėl antrinės teisinės pagalbos teikimo priima tarnyba. Sprendimas dėl antrinės teisinės pagalbos teikimo priimamas iš karto, kai asmuo kreipiasi. Jeigu nėra galimybės sprendimą dėl antrinės teisinės pagalbos teikimo priimti iš karto, jis priimamas ne vėliau kaip per 5 darbo dienas nuo šio straipsnio 1 dalyje nurodytų dokumentų ir šio įstatymo 11 straipsnio 9 dalyje nurodytos advokato išvados arba šio straipsnio 13 dalyje nurodytos informacijos gavimo dienos. Apie priimtą sprendimą dėl antrinės teisinės pagalbos teikimo tarnyba nedelsdama raštu praneša pareiškėjui. Jeigu pareiškėjas nepateikė visų šio straipsnio 1 dalyje nurodytų dokumentų, reikalingų sprendimui dėl antrinės teisinės pagalbos teikimo priimti, tarnyba ne vėliau kaip per 5 darbo dienas nuo prašymo suteikti antrinę teisinę pagalbą gavimo dienos praneša pareiškėjui apie būtinybę per tarnybos nustatytą terminą, kuris turi būti ne trumpesnis kaip 5 darbo dienos, pateikti trūkstamus dokumentus. Jeigu pagal prašyme suteikti antrinę teisinę pagalbą pateiktą informaciją sprendimas dėl antrinės teisinės pagalbos teikimo, atsižvelgiant į pareiškėjo interesus, turi būti priimtas skubiai, tarnyba gali nustatyti trumpesnį kaip 5 darbo dienų terminą trūkstamiems dokumentams pateikti. Tarnybos sprendimai gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo (toliau – Administracinių bylų teisenos įstatymas) nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
+
+2. Sprendimus dėl antrinės teisinės pagalbos teikimo priima tarnyba. Sprendimas dėl antrinės teisinės pagalbos teikimo priimamas iš karto, kai asmuo kreipiasi. Jeigu nėra galimybės sprendimą dėl antrinės teisinės pagalbos teikimo priimti iš karto, jis priimamas ne vėliau kaip per 5 darbo dienas nuo šio straipsnio 1 dalyje nurodytų dokumentų ir šio įstatymo 11 straipsnio 9 dalyje nurodytos advokato išvados arba šio straipsnio 14 dalyje nurodytos informacijos gavimo dienos. Apie priimtą sprendimą dėl antrinės teisinės pagalbos teikimo tarnyba nedelsdama raštu praneša pareiškėjui ir advokatui. Jeigu pareiškėjas nepateikė visų šio straipsnio 1 dalyje nurodytų dokumentų, reikalingų sprendimui dėl antrinės teisinės pagalbos teikimo priimti, tarnyba ne vėliau kaip per 5 darbo dienas nuo prašymo suteikti antrinę teisinę pagalbą gavimo dienos praneša pareiškėjui apie būtinybę per tarnybos nustatytą terminą, kuris turi būti ne trumpesnis kaip 5 darbo dienos, pateikti trūkstamus dokumentus. Jeigu pagal prašyme suteikti antrinę teisinę pagalbą pateiktą informaciją sprendimas dėl antrinės teisinės pagalbos teikimo, atsižvelgiant į pareiškėjo interesus, turi būti priimtas skubiai, tarnyba gali nustatyti trumpesnį kaip 5 darbo dienų terminą trūkstamiems dokumentams pateikti. Tarnybos sprendimai gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo (toliau – Administracinių bylų teisenos įstatymas) nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
+
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
 
 3. Neteko galios nuo 2015-07-01
 
@@ -555,7 +573,11 @@ Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
 
 8) valstybės garantuojama ir apmokama antrinės teisinės pagalbos išlaidų dalis;
 
-9) kai priimamas sprendimas suteikti antrinę teisinę pagalbą, – teikti antrinę teisinę pagalbą skiriamo advokato vardas, pavardė, adresas, telefono numeris, priėmimo laikas. Tuo atveju, kai buvo gautas prašymas, kad antrinę teisinę pagalbą teiktų advokatas, kuris nėra įtrauktas į šio įstatymo 17 straipsnio 2 dalyje nurodytus sąrašus, konkretaus advokato paskyrimo tvarka nurodoma vadovaujantis šio straipsnio 6 dalies nuostatomis;
+9) kai priimamas sprendimas suteikti antrinę teisinę pagalbą, – teikti antrinę teisinę pagalbą skiriamo advokato vardas, pavardė, adresas, telefono numeris, priėmimo laikas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
 
 10) sprendimo galiojimo laikas, kai asmuo turi teisę į antrinę teisinę pagalbą pagal šio įstatymo 11 straipsnio 2 dalies 1 punktą ir 12 straipsnio 3 punktą;
 
@@ -565,11 +587,19 @@ Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
 
 5. Tarnyba, parinkdama advokatą, atsižvelgia į pareiškėjo siūlymą dėl konkretaus advokato paskyrimo, pareiškėjo gyvenamąją vietą, advokato darbo vietą, advokato darbo krūvį ir į kitas antrinės teisinės pagalbos teikimui reikšmingas aplinkybes. Į pareiškėjo siūlymą dėl konkretaus advokato paskyrimo gali būti neatsižvelgta dėl advokato darbo krūvio arba kitų aplinkybių, dėl kurių pasirinktas advokatas negali teikti antrinės teisinės pagalbos konkrečioje byloje.
 
-6. Jeigu buvo gautas prašymas, kad antrinę teisinę pagalbą teiktų advokatas, kuris nėra įtrauktas į šio įstatymo 17 straipsnio 2 dalyje nurodytus sąrašus, ir priimamas sprendimas suteikti antrinę teisinę pagalbą, sprendimas dėl advokato paskyrimo turi būti priimtas ne vėliau kaip per vieną mėnesį nuo sprendimo suteikti antrinę teisinę pagalbą priėmimo dienos. Jeigu sutartis dėl antrinės teisinės pagalbos teikimo konkrečioje byloje su pareiškėjo nurodytu advokatu sudaroma anksčiau negu per vieną mėnesį nuo sprendimo suteikti antrinę teisinę pagalbą priėmimo dienos, sprendimas dėl advokato paskyrimo turi būti priimtas ne vėliau kaip per 5 darbo dienas po šios sutarties sudarymo dienos. Šio įstatymo 17 straipsnio 4 dalyje nurodyta tvarka su pareiškėjo pasirinktu advokatu nesudariusi sutarties dėl antrinės teisinės pagalbos teikimo konkrečioje byloje, tarnyba ne vėliau kaip per 5 darbo dienas po atsisakymo sudaryti šią sutartį dienos parenka advokatą iš šio įstatymo 17 straipsnio 2 dalyje nurodytų sąrašų.
+6. Jeigu kartu su prašymu suteikti antrinę teisinę pagalbą buvo gautas šio įstatymo 17 straipsnio 5 dalyje nurodytas sutikimas, priimant sprendimą teikti antrinę teisinę pagalbą pareiškėjo pasirinktas advokatas paskiriamas teikti antrinę teisinę pagalbą konkrečioje byloje. Jeigu su pareiškėjo pasirinktu advokatu teisingumo ministro nustatytomis sąlygomis ir tvarka sutartis konkrečioje byloje nesudaroma, tarnyba parenka advokatą iš šio įstatymo 17 straipsnio 2 dalyje nurodytų sąrašų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
 
 7. Sprendimas suteikti antrinę teisinę pagalbą yra pavedimas advokatui teikti antrinę teisinę pagalbą ir advokato įgaliojimus patvirtinantis dokumentas. Pareiškėjo rašytiniu sutikimu sprendime suteikti antrinę teisinę pagalbą nurodytas advokatas gali pas jį praktiką atliekančiam advokato padėjėjui pavesti teikti antrinę teisinę pagalbą. Advokato padėjėjo įgaliojimus patvirtina sprendimas suteikti antrinę teisinę pagalbą, sprendime suteikti antrinę teisinę pagalbą nurodyto advokato, kaip advokato padėjėjo praktikos vadovo, teisės aktų nustatyta tvarka išduotas leidimas ar sutikimas ir pavedimas advokato padėjėjui teikti antrinę teisinę pagalbą konkrečioje byloje. Teikdamas antrinę teisinę pagalbą, advokato padėjėjas turi visas šiame įstatyme ir kituose teisės aktuose nustatytas advokato, teikiančio antrinę teisinę pagalbą, teises ir pareigas, išskyrus Advokatūros įstatyme ir proceso įstatymuose nustatytus apribojimus advokatų padėjėjams.
 
-8. Antrinę teisinę pagalbą visose proceso ikiteisminėse (neteisminėse) ir teisminėse stadijose paprastai teikia vienas (tas pats) advokatas. Antrinę teisinę pagalbą teikiantis advokatas gali būti pakeistas pareiškėjo arba paties advokato motyvuotu rašytiniu prašymu, jeigu nustatomas interesų konfliktas arba kitos aplinkybės, dėl kurių antrinę teisinę pagalbą teikiantis advokatas negali teikti antrinės teisinės pagalbos konkrečioje byloje. Be to, advokatas gali būti pakeistas tarnybos iniciatyva, pasibaigus paskirto advokato sutarčiai dėl antrinės teisinės pagalbos teikimo ar sustabdžius šios sutarties vykdymą. Sprendimą dėl antrinę teisinę pagalbą teikiančio advokato pakeitimo priima tarnyba.
+8. Antrinę teisinę pagalbą visose proceso ikiteisminėse (neteisminėse) ir teisminėse stadijose paprastai teikia vienas (tas pats) advokatas. Tarnybos sprendimu antrinę teisinę pagalbą teikti paskirtas advokatas gali būti pakeistas pareiškėjo arba paties advokato motyvuotu rašytiniu prašymu, jeigu nustatomas interesų konfliktas arba kitos aplinkybės, dėl kurių antrinę teisinę pagalbą teikiantis advokatas negali teikti antrinės teisinės pagalbos konkrečioje byloje. Pareiškėjo rašytiniu prašymu advokatas taip pat gali būti pakeistas, jeigu pateikiamas šio įstatymo 17 straipsnio 5 dalyje nurodytas sutikimas ir tarnyba su advokatu sudaro sutartį konkrečioje byloje. Be to, advokatas gali būti pakeistas tarnybos iniciatyva, pasibaigus paskirto advokato sutarčiai dėl antrinės teisinės pagalbos teikimo ar sustabdžius šios sutarties vykdymą. Sprendimą dėl antrinę teisinę pagalbą teikiančio advokato pakeitimo priima tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
 
 9. Kai teikiama antrinė teisinė pagalba trunka ilgiau kaip metus, tarnyba, praėjus metams nuo sprendimo suteikti antrinę teisinę pagalbą priėmimo dienos, kasmet patikrina, ar asmuo, remiantis pateikta deklaracija antrinei teisinei pagalbai gauti, turi teisę gauti antrinę teisinę pagalbą pagal šį įstatymą ir per šio straipsnio 2 dalyje nustatytus terminus priima naują sprendimą dėl antrinės teisinės pagalbos teikimo.
 
@@ -627,7 +657,11 @@ Nr. XII-1568, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05576
 
 1. Siekdama užtikrinti nuolatinę antrinę teisinę pagalbą, tarnyba sudaro atskiras sutartis dėl antrinės teisinės pagalbos teikimo:
 
-1) su advokatais, kurie nuolat teikia antrinę teisinę pagalbą tik asmenims, turintiems teisę ją gauti;
+1) su advokatais, kurie nuolat teikia antrinę teisinę pagalbą tik asmenims, turintiems teisę ją gauti. Šios sutartys sudaromos 5 metams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
 
 2) su advokatais, kurie prireikus teikia antrinę teisinę pagalbą.
 
@@ -641,47 +675,75 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
 
-3. Šio straipsnio 1 dalies 1 punkte nurodyti advokatai atrenkami konkurso būdu. Šio konkurso nuostatus, suderinęs su Lietuvos advokatūra, tvirtina teisingumo ministras. Su šio straipsnio 1 dalies 2 punkte nurodytais advokatais sutartys dėl antrinės teisinės pagalbos teikimo sudaromos teisingumo ministro nustatyta tvarka, suderinta su Lietuvos advokatūra.
+3. Šio straipsnio 1 dalies 1 punkte nurodytų advokatų skaičių nustato teisingumo ministras, atsižvelgdamas į antrinės teisinės pagalbos efektyvumo ir ekonomiškumo principus bei antrinės teisinės pagalbos poreikį, nustatytą įvertinus statistinius duomenis apie antrinės teisinės pagalbos teikimą. Šie advokatai atrenkami konkurso būdu. Konkurso nuostatus, suderinęs su Lietuvos advokatūra, tvirtina teisingumo ministras. Su šio straipsnio 1 dalies 2 punkte nurodytais advokatais sutartys dėl antrinės teisinės pagalbos teikimo sudaromos teisingumo ministro nustatyta tvarka, suderinta su Lietuvos advokatūra.
 
-4. Rašytinį advokato sutikimą dėl atstovavimo konkrečioje byloje pateikusio pareiškėjo prašymu su advokatu gali būti sudaroma sutartis dėl antrinės teisinės pagalbos teikimo konkrečioje byloje teisingumo ministro nustatyta tvarka, suderinta su Lietuvos advokatūra. Advokatai, su kuriais buvo sudaryta sutartis dėl antrinės teisinės pagalbos teikimo konkrečioje byloje, priskiriami prie advokatų, kurie prireikus teikia antrinę teisinę pagalbą, tačiau jie nėra įtraukiami į šio straipsnio 2 dalyje nurodytus sąrašus.
+Straipsnio dalies pakeitimai:
 
-5. Šio straipsnio 1 dalies 1 punkte nurodytiems advokatams, jeigu sutartyje dėl antrinės teisinės pagalbos teikimo nenumatyta kitaip, tarnyba neatlygintinai užtikrina darbo vietą tarnybos patalpose ir sudaro sąlygas naudotis kitu turtu, būtinu antrinei teisinei pagalbai teikti.
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
+
+4. Pavyzdinę sutartį dėl antrinės teisinės pagalbos teikimo tvirtina teisingumo ministras, suderinęs su Lietuvos advokatūra. Sutartyje dėl antrinės teisinės pagalbos teikimo turi būti nustatyta advokato pareiga teikti antrinę teisinę pagalbą, šios pareigos atlikimo sąlygos ir tvarka, sutarties nutraukimo sąlygos ir tvarka. Sutartis dėl antrinės teisinės pagalbos teikimo nuolat, kai nėra sutarties pažeidimo, gali būti vienašališkai nutraukta teisingumo ministrui sumažinus advokatų, kurie nuolat teikia antrinę teisinę pagalbą, skaičių. Sutartis dėl antrinės teisinės pagalbos teikimo prireikus, kai nėra sutarties pažeidimo, gali būti vienašališkai nutraukta teisingumo ministro nustatyta tvarka tarnybai nustačius, kad sumažėjo antrinės teisinės pagalbos poreikis, nustatytas įvertinus statistinius duomenis apie antrinės teisinės pagalbos teikimą. Šioje dalyje nurodytos sutartys nutraukiamos atsižvelgiant į konkretaus advokato, teikiančio antrinę teisinę pagalbą, darbo krūvį, raštu įspėjus advokatą ne vėliau kaip prieš tris mėnesius iki sutarties nutraukimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
+
+5. Teisingumo ministro nustatytos formos rašytinį advokato sutikimą dėl atstovavimo konkrečioje byloje (toliau – sutikimas) pateikusio pareiškėjo prašymu su advokatu sudaroma sutartis dėl antrinės teisinės pagalbos teikimo konkrečioje byloje (toliau – sutartis konkrečioje byloje). Sutikimas reiškia advokato įsipareigojimą, tarnybai priėmus sprendimą dėl antrinės teisinės pagalbos teikimo, sudaryti su tarnyba sutartį konkrečioje byloje. Sutarties konkrečioje byloje sudarymo sąlygas ir tvarką nustato teisingumo ministras, suderinęs su Lietuvos advokatūra. Advokatai, su kuriais buvo sudaryta sutartis konkrečioje byloje, priskiriami prie advokatų, kurie prireikus teikia antrinę teisinę pagalbą, tačiau jie nėra įtraukiami į šio straipsnio 2 dalyje nurodytus sąrašus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
+
+6. Šio straipsnio 1 dalies 1 punkte nurodytiems advokatams, jeigu sutartyje dėl antrinės teisinės pagalbos teikimo nenumatyta kitaip, tarnyba neatlygintinai užtikrina darbo vietą tarnybos patalpose ir sudaro sąlygas naudotis kitu turtu, būtinu antrinei teisinei pagalbai teikti.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
 
-6. Advokatams už antrinės teisinės pagalbos ir šio įstatymo 11 straipsnio 9 dalyje nurodytos išvados teikimą mokamas užmokestis. Advokatų užmokesčio dydis turi būti nustatytas taip, kad skatintų ginčus spręsti taikiai ir kad efektyviai bei ekonomiškai būtų naudojamos valstybės biudžeto lėšos, skirtos valstybės garantuojamai teisinei pagalbai. Šio straipsnio 1 dalies 1 punkte nurodytiems advokatams už antrinės teisinės pagalbos teikimą mokamas pastovus mėnesinis užmokestis. Šio straipsnio 1 dalies 2 punkte nurodytiems advokatams už antrinės teisinės pagalbos teikimą mokamas nustatyto dydžio užmokestis už kiekvieną bylą, atsižvelgiant į bylos sudėtingumą (bylos kategoriją, nagrinėjimo stadiją ir panašiai).
+Straipsnio dalies numeracijos pakeitimas:
 
-7. Šiame įstatyme numatytais atvejais antrinę teisinę pagalbą teikiantiems advokato padėjėjams mokama 80 procentų šio straipsnio 1 dalies 2 punkte nurodytiems advokatams už antrinės teisinės pagalbos teikimą mokamo Vyriausybės nustatyto dydžio užmokesčio.
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
 
-8. Antrinę teisinę pagalbą teikiantys advokatai teisingumo ministro nustatyta tvarka renka ir kaupia duomenis apie suteiktą (teikiamą) antrinę teisinę pagalbą. Duomenims rinkti, kaupti ir perduoti gali būti naudojamos informacinės technologijos, sudarančios valstybės garantuojamos teisinės pagalbos informacinę sistemą. Renkant, kaupiant ir perduodant duomenis apie suteiktą (teikiamą) antrinę teisinę pagalbą, turi būti užtikrinama advokato profesinės paslapties apsauga.
+7. Advokatams už antrinės teisinės pagalbos ir šio įstatymo 11 straipsnio 9 dalyje nurodytos išvados teikimą mokamas užmokestis. Advokatų užmokesčio dydis turi būti nustatytas taip, kad skatintų ginčus spręsti taikiai ir kad efektyviai bei ekonomiškai būtų naudojamos valstybės biudžeto lėšos, skirtos valstybės garantuojamai teisinei pagalbai. Šio straipsnio 1 dalies 1 punkte nurodytiems advokatams už antrinės teisinės pagalbos teikimą mokamas pastovus mėnesinis užmokestis. Šio straipsnio 1 dalies 2 punkte nurodytiems advokatams už antrinės teisinės pagalbos teikimą mokamas nustatyto dydžio užmokestis už kiekvieną bylą, atsižvelgiant į bylos sudėtingumą (bylos kategoriją, nagrinėjimo stadiją ir panašiai).
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
+
+8. Šiame įstatyme numatytais atvejais antrinę teisinę pagalbą teikiantiems advokato padėjėjams mokama 80 procentų šio straipsnio 1 dalies 2 punkte nurodytiems advokatams už antrinės teisinės pagalbos teikimą mokamo Vyriausybės nustatyto dydžio užmokesčio.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
+
+9. Antrinę teisinę pagalbą teikiantys advokatai teisingumo ministro nustatyta tvarka renka ir kaupia duomenis apie suteiktą (teikiamą) antrinę teisinę pagalbą. Duomenims rinkti, kaupti ir perduoti gali būti naudojamos informacinės technologijos, sudarančios valstybės garantuojamos teisinės pagalbos informacinę sistemą. Renkant, kaupiant ir perduodant duomenis apie suteiktą (teikiamą) antrinę teisinę pagalbą, turi būti užtikrinama advokato profesinės paslapties apsauga.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
 
 21 straipsnis. Antrinės teisinės pagalbos teikimo ypatumai baudžiamosiose bylose
 
 1. Kai gynėjo ar įgaliotojo atstovo dalyvavimas nagrinėjant baudžiamąsias bylas yra būtinas pagal Baudžiamojo proceso kodekso 51 ar 55 straipsnį, ikiteisminio tyrimo pareigūnas, prokuroras ar teismas praneša tarnybai ar jos nurodytam koordinatoriui apie tai, kad įtariamajam, kaltinamajam, nuteistajam būtinas gynėjas ar kad nukentėjusiajam būtinas įgaliotasis atstovas.
 
-Straipsnio dalies pakeitimai:
+2. Tarnyba ar jos nurodytas koordinatorius, gavę šio straipsnio 1 dalyje nurodytą pranešimą, privalo nedelsdami parinkti antrinę teisinę pagalbą teiksiantį advokatą ir pranešti apie tai ikiteisminio tyrimo pareigūnui, prokurorui ar teismui. Advokatas parenkamas iš šio įstatymo 17 straipsnio 2 dalyje nurodytų sąrašų, išskyrus šio straipsnio 3 dalyje nurodytą atvejį. Jeigu bylos, kurioje prašoma parinkti gynėją ar įgaliotąjį atstovą, ankstesnėje stadijoje (atliekant procesinį veiksmą) įtariamajam, kaltinamajam, nuteistajam ar nukentėjusiajam jau buvo teikiama antrinė teisinė pagalba, gynėju ar įgaliotuoju atstovu paprastai parenkamas advokatas, teikęs antrinę teisinę pagalbą šiam įtariamajam, kaltinamajam, nuteistajam ar nukentėjusiajam. Tarnybos ar koordinatoriaus parinktą gynėją ar įgaliotąjį atstovą paskiria ikiteisminio tyrimo pareigūnas, prokuroras ar teismas.
 
-Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
+3. Įtariamasis, kaltinamasis, nuteistasis ar nukentėjusysis, pageidaujantys, kad antrinę teisinę pagalbą teiktų jo pasirinktas advokatas, kuris neįtrauktas į šio įstatymo 17 straipsnio 2 dalyje nurodytus sąrašus, ikiteisminio tyrimo pareigūnui, prokurorui ar teismui pateikia šio įstatymo 17 straipsnio 5 dalyje nurodytą sutikimą. Ikiteisminio tyrimo pareigūnas, prokuroras ar teismas šį sutikimą tarnybai ar jos nurodytam koordinatoriui pateikia kartu su šio straipsnio 1 dalyje nurodytu pranešimu. Sudariusi sutartį konkrečioje byloje su įtariamojo, kaltinamojo, nuteistojo ar nukentėjusiojo pasirinktu advokatu tarnyba ar jos nurodytas koordinatorius parenka šį advokatą teikti antrinę teisinę pagalbą ir apie tai praneša ikiteisminio tyrimo pareigūnui, prokurorui ar teismui. Jeigu su įtariamojo, kaltinamojo, nuteistojo ar nukentėjusiojo pasirinktu advokatu teisingumo ministro nustatytomis sąlygomis ir tvarka sutartis konkrečioje byloje nesudaroma, tarnyba ar jos nurodytas koordinatorius parenka advokatą iš šio įstatymo 17 straipsnio 2 dalyje nurodytų sąrašų ir apie tai praneša ikiteisminio tyrimo pareigūnui, prokurorui ar teismui.
 
-2. Tarnyba ar jos nurodytas koordinatorius, gavę šio straipsnio 1 dalyje nurodytą pranešimą, privalo nedelsdami parinkti antrinę teisinę pagalbą teiksiantį advokatą ir pranešti apie tai ikiteisminio tyrimo pareigūnui, prokurorui ar teismui. Jeigu bylos, kurioje prašoma parinkti gynėją ar įgaliotąjį atstovą, ankstesnėje stadijoje (atliekant procesinį veiksmą) įtariamajam, kaltinamajam, nuteistajam ar nukentėjusiajam jau buvo teikiama antrinė teisinė pagalba, gynėju ar įgaliotuoju atstovu paprastai parenkamas advokatas, teikęs antrinę teisinę pagalbą šiam įtariamajam, kaltinamajam, nuteistajam ar nukentėjusiajam.
+4. Antrinę teisinę pagalbą teikiantis advokatas gali būti pakeistas įtariamojo, kaltinamojo, nuteistojo ar nukentėjusiojo motyvuotu rašytiniu prašymu, jeigu nustatomas interesų konfliktas arba kitos aplinkybės, dėl kurių advokatas negali teikti antrinės teisinės pagalbos konkrečioje byloje. Kitas advokatas parenkamas ir paskiriamas šio straipsnio 1, 2 ir 5 dalyse nustatyta tvarka. Be to, antrinę teisinę pagalbą teikiantis advokatas gali būti pakeistas ir tuo atveju, kai įtariamasis, kaltinamasis, nuteistasis ar nukentėjusysis kartu su rašytiniu prašymu pakeisti advokatą pateikia ikiteisminio tyrimo pareigūnui, prokurorui ar teismui šio įstatymo 17 straipsnio 5 dalyje nurodytą sutikimą, o ikiteisminio tyrimo pareigūnas, prokuroras ar teismas šį sutikimą su pranešimu dėl advokato pakeitimo pateikia tarnybai. Sudariusi sutartį konkrečioje byloje su įtariamojo, kaltinamojo, nuteistojo ar nukentėjusiojo pasirinktu advokatu, tarnyba ar jos nurodytas koordinatorius parenka šį advokatą teikti antrinę teisinę pagalbą ir apie tai praneša ikiteisminio tyrimo pareigūnui, prokurorui ar teismui. Ikiteisminio tyrimo pareigūnui, prokurorui ar teismui taip pat pranešama, jeigu sutartis konkrečioje byloje nesudaroma.
 
-Straipsnio dalies pakeitimai:
+5. Antrinę teisinę pagalbą teiksiantį advokatą poilsio ir švenčių dienomis bei tarnybos ne darbo valandomis paskiria ikiteisminio tyrimo pareigūnas, prokuroras ar teismas, remdamiesi tarnybos sudarytais advokatų, teikiančių antrinę teisinę pagalbą baudžiamosiose bylose, budėjimo sąrašais.
 
-Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
+6. Tarnyba šio straipsnio 2 ir 5 dalyse nurodytiems advokatams moka užmokestį šio įstatymo 17 straipsnyje nustatyta tvarka.
 
-3. Antrinę teisinę pagalbą teiksiantį advokatą poilsio ir švenčių dienomis bei tarnybos ne darbo valandomis paskiria ikiteisminio tyrimo pareigūnas, prokuroras ar teismas, remdamiesi tarnybos sudarytais advokatų, teikiančių antrinę teisinę pagalbą baudžiamosiose bylose, budėjimo sąrašais.
+7. Ikiteisminio tyrimo pareigūno, prokuroro ar teismo paskirtas advokatas praneša tarnybai apie antrinės teisinės pagalbos suteikimą ir pateikia tarnybai ikiteisminio tyrimo pareigūno, prokuroro ar teismo sprendimo paskirti advokatą kopiją.
 
-4. Tarnyba šio straipsnio 2 ir 3 dalyse nurodytiems advokatams moka užmokestį šio įstatymo 17 straipsnyje nustatyta tvarka.
+8. Kai gynėjo prašo įtariamasis, kaltinamasis ar nuteistasis ir gynėjo dalyvavimas nėra būtinas pagal Baudžiamojo proceso kodekso 51 straipsnį, sprendimą dėl antrinės teisinės pagalbos teikimo priima tarnyba šio įstatymo 18 straipsnyje nustatyta tvarka.
 
-5. Ikiteisminio tyrimo pareigūno, prokuroro ar teismo paskirtas advokatas praneša tarnybai apie antrinės teisinės pagalbos suteikimą ir pateikia tarnybai ikiteisminio tyrimo pareigūno, prokuroro ar teismo sprendimo paskirti advokatą kopiją.
+9. Pagal Baudžiamojo proceso kodekso 388 straipsnio 3 dalį trauktino baudžiamojon atsakomybėn juridinio asmens atstovu gali būti skiriamas ir antrinę teisinę pagalbą teikiantis advokatas, mutatis mutandis taikant šio straipsnio 1–7 dalių nuostatas, reglamentuojančias advokato parinkimo ir paskyrimo tvarką.
 
-6. Tais atvejais, kai pripažinęs kaltinamąjį kaltu teismas, priimdamas nuosprendį, nusprendžia išieškoti į valstybės biudžetą antrinės teisinės pagalbos išlaidas, skirtas užtikrinti būtiną gynėjo dalyvavimą, grąžintinų antrinės teisinės pagalbos išlaidų dydis nustatomas atsižvelgiant į šio įstatymo 11 straipsnio 2 dalies 1 punktą, 12 straipsnio 3 ir 5 punktus ir 14 straipsnio 5 dalį. Jeigu kaltinamasis negali būti priskirtas prie šio įstatymo 11 straipsnio 2 dalies 1 punkte arba 12 straipsnio 3 ar 5 punkte nurodytų asmenų, jis privalo grąžinti visas suteiktos antrinės teisinės pagalbos išlaidas. Jeigu šio asmens turtas ir pajamos atitinka antrąjį turto ir pajamų lygį teisinei pagalbai gauti pagal šį įstatymą, jis privalo grąžinti 50 procentų antrinės teisinės pagalbos išlaidų.
+Straipsnio pakeitimai:
 
-7. Kai gynėjo prašo įtariamasis, kaltinamasis ar nuteistasis ir gynėjo dalyvavimas nėra būtinas pagal Baudžiamojo proceso kodekso 51 straipsnį, sprendimą dėl antrinės teisinės pagalbos teikimo priima tarnyba šio įstatymo 18 straipsnyje nustatyta tvarka.
-
-8. Pagal Baudžiamojo proceso kodekso 388 straipsnio 3 dalį trauktino baudžiamojon atsakomybėn juridinio asmens atstovu gali būti skiriamas ir antrinę teisinę pagalbą teikiantis advokatas, mutatis mutandis taikant šio straipsnio 1, 2, 3, 4 ir 5 dalių nuostatas, reglamentuojančias advokato parinkimo ir paskyrimo tvarką.
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
 
 kodekso 51 straipsnis ir kitais įstatymų nustatytais atvejais, kai gynėjo
 
@@ -917,7 +979,11 @@ Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
 
 5. Jeigu pareiškėjas turi apmokėti 50 arba 75 procentus antrinės teisinės pagalbos išlaidų, tačiau jis neatlieka pareigos laikantis proceso įstatymų nustatytų terminų ir tvarkos apmokėti 50 arba 75 procentus bylinėjimosi išlaidų civilinio proceso atveju arba 50 arba 75 procentus išlaidų, susijusių su administracinės bylos nagrinėjimu, ir dėl to civilinė arba administracinė byla pasibaigia nepriėmus teismo sprendimo dėl bylos esmės ar nepradedamas išieškojimas, pareiškėjas privalo per tarnybos nustatytą terminą grąžinti suteiktos antrinės teisinės pagalbos išlaidas į valstybės biudžetą. Jeigu pareiškėjas šių išlaidų negrąžina, jos išieškomos įstatymų nustatyta tvarka.
 
-6. Šio įstatymo 21 straipsnio 8 dalyje nurodytu atveju išlaidos, susijusios su trauktino baudžiamojon atsakomybėn juridinio asmens atstovavimu, įstatymų nustatyta tvarka išieškomos į valstybės biudžetą iš atstovaujamo juridinio asmens.
+6. Šio įstatymo 21 straipsnio 9 dalyje nurodytu atveju išlaidos, susijusios su trauktino baudžiamojon atsakomybėn juridinio asmens atstovavimu, įstatymų nustatyta tvarka išieškomos į valstybės biudžetą iš atstovaujamo juridinio asmens.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
 
 7. Priteisiant antrinės teisinės pagalbos išlaidas šio straipsnio 1, 2, 3, 4 ir 5 dalyse numatytais atvejais, valstybei atstovauja tarnyba. Šio straipsnio 6 dalyje numatytu atveju išlaidos išieškomos vadovaujantis Baudžiamojo proceso kodekso 105 straipsnio nuostatomis. Antrinės teisinės pagalbos išlaidos pagal vykdomąjį dokumentą į valstybės biudžetą išieškomos įstatymų nustatyta tvarka.
 
