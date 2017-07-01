@@ -4,7 +4,7 @@ identifier: "TAR.9390A9F9A815"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-28"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9390A9F9A815"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 33-1250, i. k. 1021010ISTA00IX-816
 
@@ -159,7 +159,11 @@ Tarnybos pareigūnų statusą nustato Valstybės tarnybos įstatymas, šis įsta
 
 1. Tarnybai vadovauja Tarnybos direktorius, kuris koordinuoja Tarnybos veiklą ir už ją atsako.
 
-2. Tarnybos direktorių penkeriems metams į pareigas Vidaus tarnybos statute nustatytos atrankos būdu skiria ir iš jų atleidžia vidaus reikalų ministras. Tarnybos direktorius tiesiogiai pavaldus ir atskaitingas vidaus reikalų ministrui.
+2. Tarnybos direktorius į pareigas skiriamas ir iš jų atleidžiamas Vidaus tarnybos statuto nustatyta tvarka. Tarnybos direktorius tiesiogiai pavaldus ir atskaitingas vidaus reikalų ministrui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-436, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10252
 
 3. Tarnybos direktoriaus pavaduotojus į pareigas skiria ir iš jų atleidžia vidaus reikalų ministras Vidaus tarnybos statuto nustatyta tvarka.
 
@@ -498,4 +502,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
 
 Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 3, 7, 15, 17 straipsnių, V skyriaus pavadinimo pakeitimo ir 16, 18 straipsnių pripažinimo netekusiais galios įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-436, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10252
+
+Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 10 straipsnio pakeitimo įstatymas
 
