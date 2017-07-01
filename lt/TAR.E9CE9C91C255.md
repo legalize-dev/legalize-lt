@@ -4,7 +4,7 @@ identifier: "TAR.E9CE9C91C255"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-22"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-07-04
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
 
@@ -112,7 +112,11 @@ Nuo karo prievolės atleidžiami:
 
 4) asmenys, įstatymų nustatyta tvarka perkelti į dimisiją;
 
-5) pagrindinio karinio parengtumo neįgiję asmenys, kai jiems sukanka 55 metai, o baigę aukštojoje mokykloje medicinos, slaugos ar akušerijos studijų programas, – kai jiems sukanka 60 metų;
+5) pagrindinio karinio parengtumo neįgiję asmenys, kai jiems sukanka 60 metų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-380, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09161
 
 6) moterys, išskyrus tas, kurios raštu pareiškė norą tapti karo prievolininkėmis ir (ar) yra baigusios aukštojoje mokykloje medicinos, slaugos ar akušerijos studijų programas;
 
@@ -454,9 +458,13 @@ TARNYBA REZERVE
 
 2. Karo prievolininkai atrenkami ir skiriami:
 
-1) tarnybą rezerve atlikti kariniuose vienetuose, krašto apsaugos savanorių pajėgose ar kituose aktyviojo rezervo kariniuose vienetuose nuo 18 iki 55 metų;
+1) tarnybą rezerve atlikti kariniuose vienetuose, krašto apsaugos savanorių pajėgose ar kituose aktyviojo rezervo kariniuose vienetuose nuo 18 iki 60 metų;
 
-2) tarnybą rezerve atlikti parengtojo rezervo kariniuose vienetuose nuo 19 metų (o pareiškę norą raštu – nuo 18 metų) iki 55 metų, atsargos karininkai, generolai (admirolai), atsargos kariai, turintys gydytojo ar gydytojo padėjėjo specialybę, – iki 60 metų.
+2) tarnybą rezerve atlikti parengtojo rezervo kariniuose vienetuose nuo 19 metų (o pareiškę norą raštu – nuo 18 metų) iki 60 metų, atsargos karo kapelionai – iki 65 metų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-380, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09161
 
 3. Pašaukti į pratybas, mokymus ar vykdyti tarnybos užduočių tarnybą rezerve atliekantys karo prievolininkai Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka aprūpinami apranga, maistu ir tarnybine gyvenamąja patalpa, jiems mokamas atlyginimas už tarnybos rezerve dienas, taikomos socialinės garantijos.
 
@@ -1353,6 +1361,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2523, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20281
 
 Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 33 ir 34 straipsnių pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-380, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09161
+
+Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 3 ir 21 straipsnių pakeitimo įstatymas
 
 411 straipsnis. Nuolatinę privalomąją pradinę karo tarnybą atliekančių Lietuvos Respublikos piliečių skatinimas
 
