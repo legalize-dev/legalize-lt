@@ -4,7 +4,7 @@ identifier: "TAR.D5496D69DF98"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-12"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2018-02-28
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
 
@@ -653,9 +653,31 @@ Nr. XII-2023, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18614
 
 7. Šio straipsnio 6 dalis netaikoma, kai steigiama akcinė bendrovė ar uždaroji akcinė bendrovė institucinei viešojo ir privataus sektorių partnerystei įgyvendinti. Tokiu atveju informacija apie akcinės bendrovės ar uždarosios akcinės bendrovės steigimą institucinei viešojo ir privataus sektorių partnerystei įgyvendinti turi būti nurodyta konkurso koncesijai suteikti ar viešojo pirkimo, organizuojamo valdžios ir privataus subjekto partnerystei įgyvendinti, sąlygų apraše. Šiame sąlygų apraše ir akcinės bendrovės ar uždarosios akcinės bendrovės steigimo institucinei viešojo ir privataus sektorių partnerystei įgyvendinti sutartyje, be kituose įstatymuose nustatytų reikalavimų, turi būti nurodytas akcinės bendrovės ar uždarosios akcinės bendrovės veiklos laikotarpis, kuris negali būti ilgesnis negu koncesijos arba valdžios ir privataus subjekto partnerystės sutarties laikotarpis, ir akcinės bendrovės ar uždarosios akcinės bendrovės veiklos tęstinumo sąlygos, tarp kurių turi būti nustatytos valstybės ar savivaldybės, kaip akcininkės, dalyvavimo bendrovės veikloje sąlygos.
 
-23 straipsnis. Valstybės ir savivaldybių turtinių ir neturtinių juridinio asmens dalyvio teisių atstovavimas
+23 straipsnis. Valstybės ir savivaldybių, kaip juridinio asmens dalyvio, turtinių ir neturtinių teisių įgyvendinimas
 
-Valstybės ir savivaldybių turtinės ir neturtinės teisės viešosiose įstaigose, akcinėse bendrovėse, uždarosiose akcinėse bendrovėse ir kitos teisinės formos juridiniuose asmenyse įgyvendinamos Vyriausybės nustatyta tvarka.
+1. Valstybės ir savivaldybių, kaip valstybės įmonių, savivaldybės įmonių, akcinių bendrovių, uždarųjų akcinių bendrovių, viešųjų įstaigų ir kitos teisinės formos juridinių asmenų dalyvio, turtinės ir neturtinės teisės įgyvendinamos Vyriausybės nustatyta tvarka.
+
+2. Su valstybės įmonių, akcinių bendrovių ir uždarųjų akcinių bendrovių, kuriose valstybei nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, (toliau – valstybės valdomos įmonės) taip pat kitų akcinių bendrovių ir uždarųjų akcinių bendrovių, kuriose valstybei nuosavybės teise priklausančios akcijos suteikia 1/2 ar mažiau balsų visuotiniame akcininkų susirinkime, valdymu susijusias funkcijas atlieka Vyriausybės įgaliotos institucijos, kurios įgyvendina valstybės, kaip juridinio asmens dalyvio, turtines ir neturtines teises, ir viešoji įstaiga „Stebėsenos ir prognozių agentūra“, kuri vykdo su valstybės valdomų įmonių valdymo politikos įgyvendinimu susijusias funkcijas ir kurios savininkė yra valstybė.
+
+3. Viešoji įstaiga „Stebėsenos ir prognozių agentūra“:
+
+1) turi teisę iš institucijų, įgyvendinančių valstybės, kaip juridinio asmens dalyvio, teises ir pareigas valstybės valdomose įmonėse, gauti informaciją apie šių įmonių veiklą, jų rezultatus ir sprendimus, susijusius su šių įmonių valdymu, valstybei įgyvendinant turtines ir neturtines teises; gavusi šią informaciją, stebi ir analizuoja, kaip šios įmonės laikosi Vyriausybės joms nustatytų valdymo, skaidrumo ir rodiklių vykdymo reikalavimų;
+
+2) kiekvienais metais rengia ir viešai skelbia savo interneto svetainėje apibendrinamąsias metines ir tarpines ataskaitas apie valstybės valdomas įmones ir jų veiklą;
+
+3) konsultuoja institucijas, įgyvendinančias valstybės, kaip juridinio asmens dalyvio, teises ir pareigas valstybės valdomose įmonėse, taip pat kitose akcinėse bendrovėse ir uždarosiose akcinėse bendrovėse, kuriose valstybei nuosavybės teise priklausančios akcijos suteikia 1/2 ar mažiau balsų visuotiniame akcininkų susirinkime, (toliau – bendrovės) šių įmonių ir bendrovių veiksmingo valdymo, strategijų įgyvendinimo, ilgalaikių ir trumpalaikių tikslų ir pasiektų konkrečių rodiklių įgyvendinimo rezultatų klausimais ir teikia rekomendacijas, kaip gerinti šiuos rodiklius;
+
+4) konsultuoja ir teikia metodinę pagalbą valstybės valdomoms įmonėms ir bendrovėms strategijų rengimo, valstybės valdomų įmonių valdymo tobulinimo klausimais;
+
+5) teikia siūlymus institucijoms, įgyvendinančioms valstybės, kaip juridinio asmens dalyvio, teises ir pareigas valstybės valdomose įmonėse ir bendrovėse, dividendų ar pelno įmokų nustatymo klausimais;
+
+6) teikia siūlymus institucijoms, įgyvendinančioms valstybės, kaip juridinio asmens dalyvio, teises ir pareigas valstybės valdomose įmonėse ir bendrovėse, dėl šių įmonių atliekamų specialiųjų įpareigojimų.
+
+4. Viešosios įstaigos „Stebėsenos ir prognozių agentūra“ veikla atliekant šio straipsnio 3 dalyje nurodytas funkcijas finansuojama iš Lietuvos Respublikos ūkio ministerijai skirtų valstybės biudžeto asignavimų ir (arba) kitų lėšų.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-294, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06972
 
 25 straipsnis. Valstybės ir savivaldybių turto apskaitos, valdymo, naudojimo ir disponavimo juo kontrolė
 
@@ -1310,6 +1332,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2334, 2016-05-05, paskelbta TAR 2016-05-11, i. k. 2016-12227
 
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 27 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-294, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06972
+
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 23 straipsnio pakeitimo įstatymas
 
 26 straipsnis. Valstybės ir savivaldybių turto pripažinimas nereikalingu arba netinkamu (negalimu) naudoti
 
