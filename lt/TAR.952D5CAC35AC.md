@@ -4,7 +4,7 @@ identifier: "TAR.952D5CAC35AC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-04-02"
-last_updated: "2012-06-30"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.952D5CAC35AC"
 department: "Lietuvos Respublikos Seimas"
@@ -15,17 +15,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos komercinio arbitražo įstatymas
 
-Suvestinė redakcija nuo 2012-06-30 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 39-961; Žin. 1996, Nr.45-0, i. k. 0961010ISTA00I-1274
-
-TAR pastaba. Šio įstatymo įsigaliojimo dieną veikiančios nuolatinės arbitražo institucijos per 6 mėnesius nuo šio įstatymo įsigaliojimo dienos turi užtikrinti, kad jos atitinka šio įstatymo reikalavimus.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-2089, 2012-06-21, Žin., 2012, Nr. 76-3932 (2012-06-30), i. k. 1121010ISTA0XI-2089
-
-Lietuvos Respublikos komercinio arbitražo įstatymo pakeitimo įstatymas
 
 Nauja redakcija nuo 2012-06-30:
 
@@ -146,6 +138,12 @@ Jeigu šalys nesusitarė kitaip, laikoma, kad:
 1) Vilniaus apygardos teismą dėl šio įstatymo 14, 16, 17, 25, 27, 36 ir 38 straipsniuose nurodytų veiksmų atlikimo;
 
 2) Lietuvos apeliacinį teismą dėl šio įstatymo 26, 50 ir 51 straipsniuose nurodytų veiksmų atlikimo.
+
+2. Šio straipsnio 1  dalies 1 punkte nurodytus klausimus Vilniaus apygardos teismas sprendžia supaprastinto proceso tvarka mutatis mutandis taikydamas Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriaus nuostatas. Tokių bylų medžiaga yra nevieša.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2752, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26957
 
 II SKYRIUS
 
@@ -493,7 +491,23 @@ SPRENDIMŲ PRIĖMIMAS IR ARBITRAŽO BYLOS UŽBAIGIMAS NEPRIĖMUS SPRENDIMO IŠ E
 
 3. Įsiteisėjus arbitražo teismo sprendimui, tos pačios ginčo šalys netenka teisės pareikšti ieškinį dėl to paties dalyko ir tuo pačiu pagrindu.
 
-4. Arbitražo teismo sprendimas yra vykdytinas dokumentas, vykdomas nuo jo įsiteisėjimo Civilinio proceso kodekso nustatyta tvarka.
+4. Arbitražo teismo sprendimas yra vykdytinas dokumentas, vykdomas nuo jo įsiteisėjimo Civilinio proceso kodekso nustatyta tvarka. Jeigu arbitražo teismo, kurio vieta yra Lietuvos Respublikoje, sprendimas nevykdomas, arbitražo teismo vietos apylinkės teismas šalies prašymu Civilinio proceso kodekso nustatyta tvarka išduoda vykdomąjį raštą. Prašymas išduoti vykdomąjį raštą nagrinėjamas rašytinio proceso tvarka.
+
+5. Apylinkės teismas gali atsisakyti išduoti vykdomąjį raštą tik tuo atveju, kai:
+
+1) pateiktų duomenų nepakanka vykdomojo rašto privalomam turiniui nustatyti ir šio trūkumo neįmanoma pašalinti prašymo išduoti vykdomąjį raštą nagrinėjimo teisme metu;
+
+2) arbitražo teismo sprendimas yra panaikintas;
+
+3) yra Civilinio proceso kodekso 646 straipsnio 6 dalyje nurodytas vykdomojo rašto neišdavimo pagrindas.
+
+6. Dėl apylinkės teismo nutarties atsisakyti išduoti vykdomąjį raštą gali būti duodamas atskirasis skundas.
+
+7. Vykdomieji raštai pagal arbitražo teismo sprendimus gali būti pateikti vykdyti per penkerius metus nuo arbitražo teismo sprendimo įsiteisėjimo.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2752, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26957
 
 42 straipsnis. Arbitražo teismo sprendimų rūšys
 
@@ -651,7 +665,17 @@ ARBITRAŽO TEISMO SPRENDIMO PANAIKINIMAS
 
 6. Lietuvos apeliacinis teismas, gavęs skundą dėl arbitražo teismo sprendimo, gali motyvuota nutartimi, jeigu to pageidauja ginčo šalis, sustabdyti bylą dėl arbitražo teismo sprendimo panaikinimo, kad arbitražo teismas galėtų atnaujinti nagrinėjimą arba imtis kitų veiksmų, kurie, Lietuvos apeliacinio teismo nuomone, pašalintų arbitražo teismo sprendimo naikinimo pagrindą.
 
-7. Šio straipsnio 6 dalyje numatyta Lietuvos apeliacinio teismo nutartis dėl bylos sustabdymo, taip pat nutartis dėl arbitražo teismo sprendimo panaikinimo ar atsisakymo panaikinti arbitražo teismo sprendimą gali būti skundžiama Lietuvos Aukščiausiajam Teismui Civilinio proceso kodekso nustatyta tvarka.
+7. Skundas dėl arbitražo teismo sprendimo Lietuvos apeliaciniame teisme turi būti išnagrinėtas ne vėliau kaip per 90 dienų nuo skundo priėmimo Lietuvos apeliaciniame teisme dienos. Šis skundas nagrinėjamas rašytinio proceso tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2752, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26957
+
+8. Šio straipsnio 6 dalyje numatyta Lietuvos apeliacinio teismo nutartis dėl bylos sustabdymo, taip pat nutartis dėl arbitražo teismo sprendimo panaikinimo ar atsisakymo panaikinti arbitražo teismo sprendimą gali būti skundžiama Lietuvos Aukščiausiajam Teismui Civilinio proceso kodekso nustatyta tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2752, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26957
 
 IX SKYRIUS
 
@@ -696,4 +720,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2089, 2012-06-21, Žin., 2012, Nr. 76-3932 (2012-06-30), i. k. 1121010ISTA0XI-2089
 
 Lietuvos Respublikos komercinio arbitražo įstatymo pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2752, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26957
+
+Lietuvos Respublikos komercinio arbitražo įstatymo Nr. I-1274 9, 41 ir 50 straipsnių pakeitimo įstatymas
 
