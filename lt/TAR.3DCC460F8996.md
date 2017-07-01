@@ -4,7 +4,7 @@ identifier: "TAR.3DCC460F8996"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-12-09"
-last_updated: "2015-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3DCC460F8996"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokėjimų, atliekamų pagal komercines sutartis, vėlavimo prevencijos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 123-5571, i. k. 1031010ISTA0IX-1873
 
@@ -69,7 +69,11 @@ Nr. XII-1190, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14283
 
 6. Ūkio subjektas – asmuo, kuris įstatymų nustatyta tvarka verčiasi ūkine komercine ar profesine veikla.
 
-7. Viešasis subjektas – Lietuvos Respublikos viešųjų pirkimų įstatymo 4 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodyta perkančioji organizacija.
+7. Viešasis subjektas – perkančioji organizacija, kaip tai apibrėžta Lietuvos Respublikos viešųjų pirkimų įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-256, 2017-03-30, paskelbta TAR 2017-04-19, i. k. 2017-06596
 
 3 straipsnis. Teisės į palūkanas atsiradimas ir šiame įstatyme nustatytų palūkanų skaičiavimas
 
@@ -194,4 +198,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1190, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14283
 
 Lietuvos Respublikos mokėjimų, atliekamų pagal komercines sutartis, vėlavimo prevencijos įstatymo Nr. IX-1873 2 ir 7 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-256, 2017-03-30, paskelbta TAR 2017-04-19, i. k. 2017-06596
+
+Lietuvos Respublikos mokėjimų, atliekamų pagal komercines sutartis, vėlavimo prevencijos įstatymo Nr. IX-1873 2 straipsnio pakeitimo įstatymas
 
