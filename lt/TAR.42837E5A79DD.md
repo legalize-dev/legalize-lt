@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2017-05-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2017-05-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-08-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
 
@@ -3732,11 +3732,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
-4. Užsieniečio darbo santykius reglamentuoja Lietuvos Respublikos darbo kodeksas, Lietuvos Respublikos garantijų komandiruotiems darbuotojams įstatymas, šis Įstatymas ir Europos Sąjungos teisės aktai.
+4. Užsieniečio darbo santykius reglamentuoja Lietuvos Respublikos darbo kodeksas, šis Įstatymas ir Europos Sąjungos teisės aktai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+
+Nr. XIII-219, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04613
 
 Straipsnio pakeitimas:
 
@@ -4776,7 +4778,7 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 1. Užsieniečiui, kuris ketina dirbti Lietuvos Respublikoje sezoninį darbą, leidimas dirbti gali būti išduodamas, jeigu:
 
-1) Lietuvos Respublikoje nėra tinkamo darbuotojo dirbti sezoninį darbą. Sąvoka „tinkamas darbuotojas“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos užimtumo rėmimo įstatyme;
+1) Lietuvos Respublikoje nėra tinkamo darbuotojo dirbti sezoninį darbą. Sąvoka „tinkamas darbuotojas“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos užimtumo įstatyme;
 
 2) užsieniečio pagrindinė gyvenamoji vieta yra užsienio valstybėje;
 
@@ -4794,7 +4796,7 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 5. Leidimų dirbti sezoninį darbą užsieniečiams išdavimo tvarką ir sezoninių darbų sąrašą nustato socialinės apsaugos ir darbo ministras.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
 Nr. XIII-219, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04613
 
