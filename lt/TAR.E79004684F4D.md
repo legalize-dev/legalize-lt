@@ -4,7 +4,7 @@ identifier: "TAR.E79004684F4D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-28"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E79004684F4D"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 59-1462, i. k. 0951010ISTA000I-976
 
@@ -37,7 +37,11 @@ I SKYRIUS. BENDROSIOS NUOSTATOS
 
 1. Laisvoji ekonominė zona (toliau - zona) - tai ūkinei- komercinei ir finansinei veiklai skirta teritorija, kurioje yra šio įstatymo nustatytos ūkio subjektams specialios ekonominės ir teisinės funkcionavimo sąlygos. Šioje teritorijoje neturi būti nuolatinių gyventojų.
 
-2. Zonoje, suderinus su Muitinės departamentu prie Finansų ministerijos, gali būti įrengiamos zonos teritorijos dalys (toliau – laisvosios teritorijos), atitinkančios laisvosioms zonoms taikomus reikalavimus, nustatytus 1992 m. spalio 12 d. Tarybos reglamente (EEB) Nr. 2913/92, nustatančiame Bendrijos muitinės kodeksą, 1993 m. liepos 2 d. Komisijos reglamente (EEB) Nr. 2454/93, išdėstančiame Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas, Lietuvos Respublikos muitinės įstatyme ir kituose teisės aktuose.
+2. Zonoje, suderinus su Lietuvos Respublikos muitinės įstatymo 15 straipsnyje nurodyta įstaiga, gali būti įrengiamos zonos teritorijos dalys (toliau – laisvosios teritorijos), atitinkančios laisvosioms zonoms taikomus reikalavimus, nustatytus 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas (OL 2013 L 269, p. 1) (toliau – Reglamentas (ES) Nr. 952/2013), ir kituose teisės aktuose, kuriuose nustatyti laisvosioms teritorijoms taikomi reikalavimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 
 Straipsnio pakeitimai:
 
@@ -85,15 +89,27 @@ Nr. XI-1910, 2011-12-23, Žin., 2011, Nr. 164-7803 (2011-12-31)
 
 7 straipsnis. Zonos įmonė
 
-1. Zonos įmonė – toje zonoje esanti ir įregistruota Lietuvos Respublikos teisės aktų nustatyta tvarka bet kokios nuosavybės formos ir rūšies įmonė, kuriai taikomos šiame įstatyme nustatytos veiklos sąlygos ir valstybės garantijos jos veiklai zonoje.
+1. Zonos įmonė – Lietuvos Respublikos teisės aktų, reguliuojančių juridinių asmenų registravimą, nustatyta tvarka įregistruotas juridinis asmuo (ūkio subjektas), kuriam zonos valdymo bendrovė išdavė leidimą vykdyti veiklą toje zonoje ir kuriam taikomos šiame įstatyme nustatytos veiklos sąlygos ir valstybės garantijos jo veiklai zonoje.
 
-2. Zonos įmonės steigimo tvarką nustato įmonės steigimo tvarką reglamentuojantys įstatymai ir zonos įstatymas. Zonoje esanti ir jau veikianti įmonė zonos įmonės statusą įgyja po to, kai zonos valdymo bendrovė išduoda leidimą veiklai zonoje ir Juridinių asmenų registro tvarkytojas įregistruoja įmonės įstatų pakeitimus, susijusius su zonos įmonės statuso įgijimu.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
+
+2. Zonos įmonės steigimo tvarką nustato įmonės steigimo tvarką reglamentuojantys įstatymai ir zonos įstatymas. Įmonė zonos įmonės statusą įgyja po to, kai zonos valdymo bendrovė išduoda leidimą veiklai zonoje ir Juridinių asmenų registro tvarkytojas Lietuvos Respublikos Vyriausybės nustatyta tvarka įregistruoja duomenis (įskaitant ir įmonės įstatus ar įmonės įstatų pakeitimus, zonos valdymo bendrovės išduotą leidimą vykdyti veiklą zonoje), susijusius su zonos įmonės statuso įgijimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 
 3. Zonos įmonė veikia vadovaudamasi šiuo įstatymu, zonos įstatymu, zonos statutu, savo įstatais ir steigimo dokumentais bei sutartimi su zonos valdymo bendrove dėl veiklos zonoje sąlygų.
 
 4. Zonoje leidžiama Lietuvos Respublikos įstatymų nedraudžiama įmonės steigimo dokumentuose nurodytus tikslus atitinkanti ūkinė komercinė veikla. Mažmeninė prekyba laisvosiose teritorijose leidžiama tik jų vidaus poreikiams tenkinti.
 
-5. Steigėjai, pageidaujantys įregistruoti zonos įmonę, Juridinių asmenų registro tvarkytojui pateikia teisės aktų nustatytus registravimo dokumentus ir zonos valdymo bendrovės leidimą veiklai zonoje.
+5. Neteko galios.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 
 6. Sprendimą dėl leidimo išdavimo ūkio subjekto veiklai zonoje priima zonos valdymo bendrovė. Leidimas ūkio subjektui zonos statute nustatytais terminais ir tvarka išduodamas veiklos sritims, kurios yra nustatytos zonos įstatyme bei zonos statute.
 
@@ -247,7 +263,11 @@ Nr. XII-940, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07833
 
 1) laikydamasi zonos funkcionavimo tikslų, jos investicijų verslo projekto, statuto ir zonos valdymo bendrovės įstatų, priimti sprendimą išduoti leidimą ūkio subjekto veiklai zonoje;
 
-2) subnuomoti zonos valdymo bendrovei išnuomotą žemę ir nekilnojamąjį turtą zonos įmonėms, įregistruotoms šioje zonoje;
+2) subnuomoti zonos valdymo bendrovei išnuomotą žemę ir nekilnojamąjį turtą zonos įmonėms;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 
 3) nustatyti zonos vidaus tvarką;
 
@@ -263,23 +283,31 @@ Nr. XII-940, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07833
 
 9) nustatyti įmokas zonos įmonėms zonos įstatymo nustatyta tvarka;
 
-10) suderinusi su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos, skelbti zonos teritorijos dalis laisvosiomis teritorijomis ir nustatyti šių teritorijų ribas.
+10) suderinusi su Lietuvos Respublikos muitinės įstatymo 15 straipsnyje nurodyta įstaiga, skelbti zonos teritorijos dalis laisvosiomis teritorijomis ir nustatyti šių teritorijų ribas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 
 2. Zonos valdymo bendrovės pareigos:
 
-laikytis šio ir kitų zonoje galiojančių Lietuvos Respublikos įstatymų ir teisės aktų, zonos statuto, zonos valdymo bendrovės įstatų;
+1) laikytis šio ir kitų zonoje galiojančių Lietuvos Respublikos įstatymų ir teisės aktų, zonos statuto, zonos valdymo bendrovės įstatų;
 
-organizuoti zonos ūkinę veiklą;
+2) organizuoti zonos ūkinę veiklą;
 
-užtikrinti, kad zonoje registruoti ūkio subjektai laikytųsi zonos statuto, neužsiimtų veikla, draudžiama Lietuvos Respublikos įstatymų, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Lietuvos Respublikos aplinkos apsaugos įstatymo bei kitų teisės aktų aplinkos apsaugos srityje reikalavimų;
+3) užtikrinti, kad ūkio subjektai, turintys leidimą vykdyti veiklą zonoje, laikytųsi zonos statuto, neužsiimtų veikla, draudžiama Lietuvos Respublikos įstatymų, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Lietuvos Respublikos aplinkos apsaugos įstatymo bei kitų teisės aktų aplinkos apsaugos srityje reikalavimų;
 
-užtikrinti laisvųjų teritorijų ribų apsaugą ir sudaryti sąlygas Lietuvos Respublikos muitinės darbui laisvųjų teritorijų muitinės kontrolės postuose;
+4) užtikrinti laisvųjų teritorijų ribų apsaugą ir sudaryti sąlygas Lietuvos Respublikos muitinės darbui laisvųjų teritorijų muitinės kontrolės postuose;
 
-užtikrinti laisvųjų teritorijų fizinę apsaugą;
+5) užtikrinti laisvųjų teritorijų fizinę apsaugą;
 
-sudaryti sąlygas teisėsaugos institucijoms ir tarptautinėms kontrolės organizacijoms atlikti zonoje savo funkcijas;
+6) sudaryti sąlygas teisėsaugos institucijoms ir tarptautinėms kontrolės organizacijoms atlikti zonoje savo funkcijas;
 
-sudaryti ginčų komisiją ginčams tarp ūkio subjektų nagrinėti.
+7) sudaryti ginčų komisiją ginčams tarp ūkio subjektų nagrinėti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 
 3. Zonos valdymo bendrovė atsako už savo veiklą ir neigiamas pasekmes pagal Lietuvos Respublikos įstatymus.
 
@@ -317,7 +345,7 @@ Nr. IX-285, 2001 04 19, Žin., 2001, Nr. 39-1355 (2001 05 09)
 
 15 straipsnis. Mokesčiai, valstybės rinkliava ir kitos įmokos zonoje
 
-1. Zonoje įregistruotos įmonės ir jų darbuotojai Europos Sąjungos teisės aktų ir jų taikymo Lietuvos Respublikoje tvarką reglamentuojančių teisės aktų nustatyta tvarka moka importo muitus, apibrėžtus 1992 m. spalio 12 d. Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, 4 straipsnio 10 punkte. Zonoje įregistruotos įmonės ir jų darbuotojai Lietuvos Respublikos įstatymų nustatyta tvarka moka valstybės rinkliavą, mokesčius ir įmokas:
+1. Zonos įmonės ir jų darbuotojai Europos Sąjungos teisės aktų ir jų taikymo Lietuvos Respublikoje tvarką reglamentuojančių teisės aktų nustatyta tvarka moka importo muitus, apibrėžtus Reglamento (ES) Nr. 952/2013 5 straipsnio 20 punkte. Zonos įmonės ir jų darbuotojai Lietuvos Respublikos įstatymų, reglamentuojančių atitinkamos rinkliavos, mokesčio ir įmokos mokėjimą, nustatyta tvarka moka valstybės rinkliavą, mokesčius ir įmokas:
 
 1) pelno mokestį;
 
@@ -335,6 +363,10 @@ Nr. IX-285, 2001 04 19, Žin., 2001, Nr. 39-1355 (2001 05 09)
 
 8) kitus įstatymuose nustatytus mokesčius ir įmokas.
 
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
+
 2. Zonos valdymo bendrovė už nuomojamą valstybinę žemę moka lengvatinį – 50 procentų mažesnį – žemės nuomos mokestį. Zonos valdymo bendrovė turi teisę žemės nuomos mokestį Lietuvos Respublikos Vyriausybės arba jos įgaliotos valstybės institucijos nustatyta tvarka sumokėti iš anksto už visą nuomos laikotarpį ar jo dalį. Tokiu atveju sukauptos lėšos už laisvųjų ekonominių zonų teritorijoje išnuomotą valstybinę žemę skiriamos žemei, paimamai visuomenės poreikiams iš žemės savininkų šioje teritorijoje, išpirkti ar kitoms visuomeninėms reikmėms. Zonos valdymo bendrovės ir zonos įmonių privatus kapitalas, investuotas į zonos infrastruktūrą, į žemės vertę, nustatant jos nuomos mokestį, neįskaičiuojamas. Jeigu zonos valdymo bendrovė iš anksto sumokėjo žemės nuomos mokestį ar jo dalį, o vėliau pasikeitė žemės vertė, pagal kurią skaičiuojamas žemės nuomos mokesčio dydis, ar žemės nuomos mokesčio tarifas, ar kitoks žemės nuomos mokesčio skaičiavimo pagrindas, žemės nuomos mokesčio dydis už laikotarpį, už kurį žemės nuomos mokestis sumokėtas iš anksto, nekeičiamas.
 
 3. Zonos įmonė, į kurią kapitalo investicijos pasiekė ne mažesnę kaip vieno milijono eurų sumą, 6 mokestinius laikotarpius, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitais 10 mokestinių laikotarpių jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos prekių gamybos, apdirbimo, perdirbimo, sandėliavimo veiklos, orlaivių ir erdvėlaivių bei susijusios įrangos gamybos, orlaivių ir erdvėlaivių remonto ir techninės priežiūros, su orlaivių techniniu aptarnavimu ir remontu susijusios veiklos (elektroninės ir optinės įrangos remonto, techninio tikrinimo ir analizės), kompiuterių programavimo veiklos, kompiuterių konsultacinės veiklos, kompiuterinės įrangos tvarkybos, kitos informacinių technologijų ir kompiuterių paslaugų veiklos, duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusios veiklos, užsakomųjų informacinių paslaugų centrų veiklos, didmeninės prekybos zonoje sandėliuojamomis prekėmis ir (arba) teikiamų paslaugų, susijusių su minėtomis zonoje vykdomos veiklos rūšimis (zonoje pagamintų, apdirbtų, perdirbtų ar sandėliuojamų prekių, taip pat zonoje vykdomai gamybai, apdirbimui ar perdirbimui reikalingų prekių transportavimo, aptarnavimo, statybos zonos teritorijoje ir kitų su minėtomis veiklos rūšimis susijusių paslaugų). Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį. Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo investicijos suma sumažėja ir nebesiekia vieno milijono eurų, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma taip sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl pasiekia vieną milijoną eurų. Šioje dalyje nustatyta lengvata jokiais atvejais negali būti taikoma kredito įstaigoms ir draudimo įmonėms.
@@ -351,7 +383,11 @@ Nr. XII-2698, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26862
 
 6. Zonos valdymo bendrovė moka Lietuvos Respublikos įstatymų atitinkamoms įmonėms nustatytus mokesčius.
 
-7. Šio straipsnio 2, 3, 4 ir 5 dalyse nustatytos mokesčių lengvatos ir kiti valstybės pagalbos būdai zonos įmonėms taikomi tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, reglamentuojantiems valstybės pagalbos teikimą, ir Lietuvos Respublikos Vyriausybės nustatytai valstybės pagalbos teikimo ir priežiūros tvarkai.
+7. Šio straipsnio 2, 3, 31, 32, 4 ir 5 dalyse nustatytos mokesčių lengvatos ir kiti valstybės pagalbos būdai zonos įmonėms taikomi tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, reglamentuojantiems valstybės pagalbos teikimą, ir Lietuvos Respublikos Vyriausybės nustatytai valstybės pagalbos teikimo ir priežiūros tvarkai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 
 Straipsnio pakeitimai:
 
@@ -377,19 +413,11 @@ Nr. XI-1910, 2011-12-23, Žin., 2011, Nr. 164-7803 (2011-12-31)
 
 Nr. XII-940, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07833
 
-16 straipsnis. Muitinės priežiūros ypatumai laisvosiose teritorijose
+16 straipsnis. Neteko galios nuo 2017-07-01
 
-Laisvųjų ekonominių zonų laisvosios teritorijos 1992 m. spalio 12 d. Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, 1993 m. liepos 2 d. Komisijos reglamento (EEB) Nr. 2454/93, išdėstančio Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas, ir Muitinės įstatymo požiūriu laikomos laisvosiomis zonomis.
+Straipsnio naikinimas:
 
-Straipsnio pakeitimai:
-
-Nr. I-1268, 96.04.02, Žin., 1996, Nr. 35-871 (96.04.19)
-
-Nr. IX-668, 2001-12-18, Žin., 2001, Nr. 112-4084 (2001-12-30)
-
-Nr. IX-2014, 2004-02-12, Žin., 2004, Nr. 32-1006 (2004-02-28)
-
-Nr. IX-2191, 2004-04-27, Žin., 2004, Nr. 73-2525 (2004-04-30)
+Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 
 17 straipsnis. Bankų ir draudimo įmonių veikla zonoje. Valiutinės ir finansinės sąlygos
 
@@ -678,4 +706,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2698, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26862
 
 Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 15 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
+
+Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 2, 7, 12, 15 straipsnių pakeitimo ir 16 straipsnio pripažinimo netekusiu galios įstatymas
 
