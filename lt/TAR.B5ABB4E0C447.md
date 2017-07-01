@@ -4,7 +4,7 @@ identifier: "TAR.B5ABB4E0C447"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-23"
-last_updated: "2015-01-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B5ABB4E0C447"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "12 straipsnis įsigalioja 2011-12-31"
 
 LIETUVOS RESPUBLIKOS MARIJAMPOLĖS LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2015-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 164-7801, i. k. 1111010ISTA0XI-1907
 
@@ -146,7 +146,11 @@ Zonos teritorijos ribas nustato Lietuvos Respublikos Vyriausybė (toliau – Vyr
 
 3) sudaro savitarpio paslaugų teikimo sutartis su zonos įmonėmis pagal bendrovės valdybos nustatytas finansines ir kitas sąlygas;
 
-4) užtikrina, organizuodamas zonos priežiūrą, kad zonoje registruoti ūkio subjektai laikytųsi zonos statuto, neužsiimtų įstatymų draudžiama veikla, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Lietuvos Respublikos aplinkos apsaugos įstatymo ir kitų aplinkos apsaugos teisės aktų reikalavimų;
+4) užtikrina, organizuodamas zonos priežiūrą, kad ūkio subjektai, turintys leidimą vykdyti veiklą zonoje, laikytųsi zonos statuto, neužsiimtų įstatymų draudžiama veikla, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Lietuvos Respublikos aplinkos apsaugos įstatymo ir kitų aplinkos apsaugos teisės aktų reikalavimų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-521, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11230
 
 5) užtikrina laisvųjų teritorijų ribų apsaugą ir sudaro sąlygas Lietuvos Respublikos muitinės darbui laisvųjų teritorijų muitinės kontrolės postuose;
 
@@ -205,4 +209,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-943, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07828
 
 Lietuvos Respublikos Marijampolės laisvosios ekonominės zonos įstatymo Nr. XI-1907 4 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-521, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11230
+
+Lietuvos Respublikos Marijampolės laisvosios ekonominės zonos įstatymo Nr. XI-1907 8 straipsnio pakeitimo įstatymas
 
