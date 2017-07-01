@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2017-06-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2017-06-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-09-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
 
@@ -92,17 +92,23 @@ Nr. XII-329, 2013-05-16, Žin., 2013, Nr. 57-2861 (2013-06-01)
 
 10 straipsnis. Socialinės pašalpos papildomo skyrimo ir socialinės pašalpos mažinimo pagrindai
 
-1. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui papildomai skiriama socialinė pašalpa, kurios dydis lygus 50 procentų socialinės pašalpos, mokėtos per praėjusius 6 mėnesius iki įsidarbinimo, vidutinio dydžio, už kiekvieną su darbo ar tarnybos santykiais susijusį mėnesį, bet ne ilgiau kaip 6 mėnesius, jeigu vienas gyvenantis asmuo arba bendrai gyvenantys asmenys atitinka visas šias sąlygas:
+1. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui papildomai skiriama socialinė pašalpa, kurios dydis lygus 50 procentų socialinės pašalpos, mokėtos per praėjusius 6 mėnesius iki įsidarbinimo, vidutinio dydžio, už kiekvieną pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu dirbtą mėnesį, bet ne ilgiau kaip 6 mėnesius, jeigu vienas gyvenantis asmuo arba bendrai gyvenantys asmenys atitinka visas šias sąlygas:
 
-1) vienas gyvenantis asmuo arba bent vienas iš bendrai gyvenančių asmenų įsidarbina ir dirba (dirbo) šio įstatymo 8 straipsnio 1 dalies 1 punkte nustatytą darbo laiko trukmę ir jam darbo užmokesčio apskaičiuojama ne mažiau už minimaliąją mėnesinę algą arba minimalųjį valandinį atlygį proporcingai dirbtam laikui arba atliktam darbui, bet ne daugiau už dvi minimaliąsias mėnesines algas ar du minimaliuosius valandinius atlygius proporcingai dirbtam laikui arba atliktam darbui;
+1) vienas gyvenantis asmuo arba bent vienas iš bendrai gyvenančių asmenų įsidarbina ir dirba šio įstatymo 8 straipsnio 1 dalies 1 punkte nustatytą darbo laiko trukmę ir jam darbo užmokesčio apskaičiuojama ne mažiau už minimaliąją mėnesinę algą arba minimalųjį valandinį atlygį proporcingai dirbtam laikui arba atliktam darbui, bet ne daugiau už dvi minimaliąsias mėnesines algas ar du minimaliuosius valandinius atlygius proporcingai dirbtam laikui arba atliktam darbui;
 
-2) prieš įsidarbindami šio straipsnio 1 dalies 1 punkte nurodyti asmenys buvo įsiregistravę Lietuvos teritorinėje darbo biržoje ar kitos valstybės valstybinėje įdarbinimo tarnyboje ne trumpiau kaip 6 mėnesius iš eilės ir per šį laikotarpį nedirbo arba dirbo mažiau, negu nustatyta šio įstatymo 8 straipsnio 1 dalies 1 punkte, arba dirbo viešuosius darbus;
+2) prieš įsidarbinimą šio straipsnio 1 dalies 1 punkte nurodyti asmenys buvo įsiregistravę Lietuvos teritorinėje darbo biržoje ar kitos valstybės valstybinėje įdarbinimo tarnyboje ne trumpiau kaip 6 mėnesius iš eilės ir per šį laikotarpį nedirbo arba dirbo mažiau, negu nustatyta šio įstatymo 8 straipsnio 1 dalies 1 punkte, arba dirbo viešuosius darbus;
 
 3) bendrai gyvenantys asmenys arba vienas gyvenantis asmuo buvo socialinės pašalpos gavėjai bent vieną mėnesį per paskutinius 3 mėnesius prieš įsidarbinimą;
 
 4) vienas gyvenantis asmuo ar kiekvienas vyresnis kaip 18 metų bendrai gyvenantis asmuo arba vaikas (įvaikis) nuo 16 iki 18 metų atitinka bent vieną iš šio įstatymo 8 straipsnyje nurodytų sąlygų, kurioms esant bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į piniginę socialinę paramą;
 
 5) prašymas-paraiška skirti papildomą socialinės pašalpos dalį įsidarbinus pateiktas ne vėliau kaip per 6 mėnesius nuo įsidarbinimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
+
+Nr. XIII-145, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29779
 
 2. Darbingo amžiaus darbingiems, bet nedirbantiems (taip pat savarankiškai nedirbantiems) asmenims (išskyrus šio straipsnio 3 dalyje nurodytus atvejus) socialinės pašalpos, apskaičiuotos pagal šio įstatymo 9 straipsnį, dydis yra mažinamas:
 
@@ -378,11 +384,15 @@ TURTO VERTĖS NORMATYVO PINIGINEI SOCIALINEI PARAMAI GAUTI NUSTATYMAS
 
 1. Skiriant piniginę socialinę paramą, įskaitomos visų bendrai gyvenančių asmenų arba vieno gyvenančio asmens gaunamos pajamos:
 
-1) su darbo ar tarnybos santykiais susijusios pajamos, įskaitant dienpinigius, butpinigius, maistpinigius ir kitas pajamas (išskyrus asmenų iki 18 metų pajamas);
+1) pagal darbo sutartį arba darbo santykiams prilygintų teisinių santykių pagrindu gautos pajamos, įskaitant dienpinigius, butpinigius, maistpinigius ir kitas pajamas (išskyrus asmenų iki 18 metų pajamas);
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
+
+Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
+
+Nr. XIII-145, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29779
 
 2) autorinis atlyginimas, pajamos, gautos iš sporto veiklos, atlikėjo veiklos;
 
@@ -566,11 +576,13 @@ Nr. XII-329, 2013-05-16, Žin., 2013, Nr. 57-2861 (2013-06-01)
 
 1. Sąlygos, kurioms esant bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į piniginę socialinę paramą:
 
-1) vyresni kaip 18 metų asmenys dirba ir per laikotarpį, už kurį pajamos apskaičiuojamos, dirbo ne mažiau kaip du trečdalius maksimalios darbo laiko trukmės (įskaitant laikinojo nedarbingumo, prastovų ne dėl darbuotojo kaltės, kasmetinių atostogų ir kitą dėl pateisinamų priežasčių nedirbtą laiką, už kurį mokama įstatymų nustatyta tvarka), nustatytos Lietuvos Respublikos darbo kodekso (toliau – Darbo kodeksas) 144 straipsnio 1 dalyje arba 145 straipsnyje, arba dirba ne mažiau kaip du trečdalius laiko skaičiuojant nuo darbo sutartyje nustatyto ne viso darbo laiko (Darbo kodekso 146 straipsnio 1 dalis), tačiau ne viso darbo laiko Darbo kodekso 146 straipsnio 1 dalies 1 punkte nustatytu atveju trukmė negali būti trumpesnė kaip du trečdaliai maksimalios darbo laiko trukmės (įskaitant laikinojo nedarbingumo, prastovų ne dėl darbuotojo kaltės, kasmetinių atostogų ir kitą dėl pateisinamų priežasčių nedirbtą laiką, už kurį mokama įstatymų nustatyta tvarka), nustatytos Darbo kodekso 144 straipsnio 1 dalyje arba 145 straipsnyje, o jiems darbo užmokesčio apskaičiuojama ne mažiau už minimaliąją mėnesinę algą arba minimalųjį valandinį atlygį proporcingai dirbtam laikui arba atliktam darbui; savarankiškai dirbantys asmenys, kurie per laikotarpį, už kurį pajamos apskaičiuojamos, iš vykdomos veiklos gauna ne mažesnes kaip minimalioji mėnesinė alga vidutines pajamas per mėnesį;
+1) vyresni kaip 18 metų asmenys dirba ir per laikotarpį, už kurį pajamos apskaičiuojamos, dirbo ne mažiau kaip du trečdalius maksimalios darbo laiko trukmės (įskaitant laikinojo nedarbingumo, prastovų ne dėl darbuotojo kaltės, kasmetinių atostogų ir kitą dėl pateisinamų priežasčių nedirbtą laiką, už kurį mokama įstatymų nustatyta tvarka), nustatytos Lietuvos Respublikos darbo kodekso (toliau – Darbo kodeksas) 108 straipsnio 3 dalyje, tačiau ne viso darbo laiko atveju, išskyrus Darbo kodekso 40 straipsnio 5 dalyje nustatytus atvejus, darbo laiko trukmė negali būti trumpesnė kaip du trečdaliai maksimalios darbo laiko trukmės (įskaitant laikinojo nedarbingumo, prastovų ne dėl darbuotojo kaltės, kasmetinių atostogų ir kitą dėl pateisinamų priežasčių nedirbtą laiką, už kurį mokama įstatymų nustatyta tvarka), apskaičiuotos nuo 40 valandų per savaitę arba teisės aktuose nustatytos sutrumpintos darbo laiko normos, ir jiems darbo užmokesčio apskaičiuojama ne mažiau už minimaliąją mėnesinę algą arba minimalųjį valandinį atlygį proporcingai dirbtam laikui arba atliktam darbui; savarankiškai dirbantys asmenys, kurie per laikotarpį, už kurį pajamos apskaičiuojamos, iš vykdomos veiklos gauna ne mažesnes kaip minimalioji mėnesinė alga vidutines pajamas per mėnesį;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1366, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19552
+
+Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
 
 2) asmenys mokosi pagal bendrojo ugdymo programą ar pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje (studentai), įskaitant akademinių atostogų dėl ligos ar nėštumo laikotarpį, kol jiems sukaks 24 metai ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, bet ne ilgiau, negu jiems sukaks 24 metai;
 
