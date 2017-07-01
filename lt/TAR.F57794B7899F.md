@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2017-05-01"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2017-05-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-07-16
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -1504,7 +1504,17 @@ Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 3) kai tai įmanoma, palyginimą su vidutinio tos pačios grupės vartotojo elektros energijos suvartojimu.
 
-5. Tiekėjai savo, tiekėjų asociacijos, kuriai priklauso atitinkamas tiekėjas, ir (arba) elektros energijos biržos interneto svetainėje skelbia ir vartotojo prašymu pateikia:
+5. Informacija apie suvartotus elektros energijos kiekius ir jų palyginimą, kainas, tarifus be papildomo mokesčio turi būti teikiama sąskaitose ne rečiau kaip du kartus per kalendorinius metus, o vartotojų prašymu – kas ketvirtį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+
+6. Tiekėjai savo, tiekėjų asociacijos, kuriai priklauso atitinkamas tiekėjas, ir (arba) elektros energijos biržos interneto svetainėje skelbia ir vartotojo prašymu pateikia:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 1) suprantamą informaciją apie tai, kokią tiekėjo patiektos elektros energijos gamybai sunaudoto kuro išteklių, tarp jų ir atsinaujinančių energijos išteklių, dalį praėjusiais metais sudarė kiekvienas energijos šaltinis, jeigu tokia informacija yra prieinama;
 
@@ -1512,15 +1522,35 @@ Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 3) vartotojų organizacijų, asociacijų, agentūrų ar panašių įstaigų kontaktinę informaciją, įskaitant interneto svetainių adresus, kuriais galima rasti informacijos apie galimas energijos vartojimo efektyvumo didinimo priemones, lyginamuosius galutinių vartotojų apibūdinimus ir (ar) objektyvias energiją naudojančios įrangos technines specifikacijas.
 
-6. Kai vartotojai aprūpinami elektros energija, kuria prekiaujama elektros energijos biržoje ar kuri yra importuota iš asmenų, esančių ne valstybėje narėje, teikiant šio straipsnio 5 dalyje numatytą informaciją gali būti naudojami apibendrinti praėjusių metų biržos ar asmens, esančio ne valstybėje narėje, duomenys.
+7. Kai vartotojai aprūpinami elektros energija, kuria prekiaujama elektros energijos biržoje ar kuri yra importuota iš asmenų, esančių ne valstybėje narėje, teikiant šio straipsnio 6 dalyje numatytą informaciją gali būti naudojami apibendrinti praėjusių metų biržos ar asmens, esančio ne valstybėje narėje, duomenys.
 
-7. Vartotojui pakeitus elektros energijos tiekėją, ankstesnis tiekėjas ne vėliau kaip per 6 savaites, jeigu sutartyje nenustatytas trumpesnis laikotarpis, privalo pateikti vartotojui galutinę (uždarymo) sąskaitą už suvartotą elektros energiją ir (ar) suteiktas paslaugas.
+Straipsnio dalies pakeitimai:
 
-8. Komisija imasi būtinų priemonių, kad užtikrintų šiame straipsnyje nurodytos vartotojams teikiamos informacijos patikimumą ir kad tokia informacija būtų pateikiama nacionaliniu lygmeniu lengvai palyginamu būdu.
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
-9. Komisija parengia ir savo interneto svetainėje skelbia bei periodiškai atnaujina aiškų ir glaustą elektros energijos vartotojams skirtą klausimų ir atsakymų sąrašą, kuriame būtų teikiama praktinė informacija apie vartotojų teises. Rengdama informaciją buitinių vartotojų teisių klausimais, Komisija bendradarbiauja su Tarnyba. Be to, Komisija savo interneto svetainėje skelbia Europos Komisijos parengtą vartotojams skirtą klausimų ir atsakymų sąrašą ir užtikrina, kad tiekėjai ar skirstomųjų tinklų operatoriai, bendradarbiaudami su Komisija, imtųsi reikiamų veiksmų, kad atitinkamas klausimų ir atsakymų sąrašas būtų skelbiamas tiekėjų ir (ar) skirstomųjų tinklų operatorių interneto svetainėse, apie tai informuojant vartotojus elektroninių ryšių priemonėmis, o kai tokios galimybės nėra, – vartotojui būtų išsiųsta klausimų ir atsakymų sąrašo kopija.
+8. Vartotojui pakeitus elektros energijos tiekėją, ankstesnis tiekėjas ne vėliau kaip per 6 savaites, jeigu sutartyje nenustatytas trumpesnis laikotarpis, privalo pateikti vartotojui galutinę (uždarymo) sąskaitą už suvartotą elektros energiją ir (ar) suteiktas paslaugas.
 
-10. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir sąlygomis įsteigiamas bendrasis informacijos centras, skirtas teikti elektros energijos vartotojams visą reikiamą informaciją apie jų teises, galiojančius teisės aktus ir jiems prieinamus ginčų sprendimo būdus.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+
+9. Komisija imasi būtinų priemonių, kad užtikrintų šiame straipsnyje nurodytos vartotojams teikiamos informacijos patikimumą ir kad tokia informacija būtų pateikiama nacionaliniu lygmeniu lengvai palyginamu būdu.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+
+10. Komisija parengia ir savo interneto svetainėje skelbia bei periodiškai atnaujina aiškų ir glaustą elektros energijos vartotojams skirtą klausimų ir atsakymų sąrašą, kuriame būtų teikiama praktinė informacija apie vartotojų teises. Rengdama informaciją buitinių vartotojų teisių klausimais, Komisija bendradarbiauja su Tarnyba. Be to, Komisija savo interneto svetainėje skelbia Europos Komisijos parengtą vartotojams skirtą klausimų ir atsakymų sąrašą ir užtikrina, kad tiekėjai ar skirstomųjų tinklų operatoriai, bendradarbiaudami su Komisija, imtųsi reikiamų veiksmų, kad atitinkamas klausimų ir atsakymų sąrašas būtų skelbiamas tiekėjų ir (ar) skirstomųjų tinklų operatorių interneto svetainėse, apie tai informuojant vartotojus elektroninių ryšių priemonėmis, o kai tokios galimybės nėra, – vartotojui būtų išsiųsta klausimų ir atsakymų sąrašo kopija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+
+11. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir sąlygomis įsteigiamas bendrasis informacijos centras, skirtas teikti elektros energijos vartotojams visą reikiamą informaciją apie jų teises, galiojančius teisės aktus ir jiems prieinamus ginčų sprendimo būdus.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 421 straipsnis. Elektros energijos rinkos priežiūra
 
