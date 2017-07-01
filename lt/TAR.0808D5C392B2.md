@@ -4,7 +4,7 @@ identifier: "TAR.0808D5C392B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-03-20"
-last_updated: "2017-01-01"
+last_updated: "2017-07-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0808D5C392B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-12-29
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 31-1010; Žin. 2001, Nr.37-0; Žin. 2001, Nr.52-0, i. k. 1011010ISTA00IX-216
 
@@ -800,7 +800,11 @@ Nr. XI-1867, 2011-12-22, Žin., 2012, Nr. 4-112 (2012-01-06)
 
 1. Administratorius per 3 darbo dienas nuo teismo nutarties iškelti įmonei bankroto bylą įsiteisėjimo raštu įspėja įmonės darbuotojus apie būsimą darbo sutarties nutraukimą ir po 15 darbo dienų nuo tokio įspėjimo nutraukia su jais darbo sutartis. Apie būsimą darbuotojų atleidimą administratorius ne vėliau kaip per 3 darbo dienas nuo teismo nutarties iškelti įmonei bankroto bylą įsiteisėjimo dienos praneša teritorinei darbo biržai, savivaldybės institucijai ir įmonės darbuotojų atstovams.
 
-2. Nutraukus darbo sutartį, atleistam darbuotojui išmokama jo dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė išmoka.
+2. Nutraukus darbo sutartį, atleistam darbuotojui išmokama Darbo kodekso 62 straipsnio 3 dalyje nurodyta išeitinė išmoka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2463, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18820
 
 3. Su atleidžiamu darbuotoju atsiskaitoma šio įstatymo 35 straipsnyje nustatyta tvarka.
 
@@ -1703,6 +1707,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2630, 2016-09-21, paskelbta TAR 2016-09-29, i. k. 2016-24201
 
 Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 33 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2463, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18820
+
+Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 19 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-134, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29838
+
+Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 19 straipsnio pakeitimo įstatymo Nr. XII-2463 2 straipsnio pakeitimo įstatymas
 
 16 straipsnis. Mokėjimo terminai
 
