@@ -4,7 +4,7 @@ identifier: "TAR.B6AF7CC3E0DC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-06-23"
-last_updated: "2011-09-01"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B6AF7CC3E0DC"
 department: "Lietuvos Respublikos Seimas"
@@ -17,6 +17,10 @@ entry_into_force_conditions: "4 straipsnis įsigalioja 2011 m. liepos 13 d."
 # Lietuvos Respublikos karo prievolės įstatymo pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS KARO PRIEVOLĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+
+Suvestinė redakcija nuo 2017-07-05
+
+Įstatymas paskelbtas: Žin. 2011, Nr. 86-4150, i. k. 1111010ISTA0XI-1508
 
 LIETUVOS RESPUBLIKOS
 
@@ -115,6 +119,12 @@ Nuo karo prievolės atleidžiami:
 6) moterys, išskyrus tas, kurios raštu pareiškė norą tapti karo prievolininkėmis ir (ar) yra baigusios aukštojoje mokykloje medicinos, slaugos ar akušerijos studijų programas;
 
 7) valstybės pripažintų tradicinių Lietuvos religinių bendruomenių ir bendrijų dvasininkai.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos karo prievolės įstatymo (2011 m. birželio 23 d. redakcija; Žin., 2011, Nr. 86-4150) 3 straipsnio 7 punktas prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsniui, 139 straipsnio 2 daliai.
+
+Straipsnio punkto pakeitimai:
+
+Nr. KT9-N7/2017, 2017-07-04, paskelbta TAR 2017-07-04, i. k. 2017-11471
 
 II SKYRIUS
 
