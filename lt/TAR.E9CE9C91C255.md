@@ -4,7 +4,7 @@ identifier: "TAR.E9CE9C91C255"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-22"
-last_updated: "2017-07-01"
+last_updated: "2017-07-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-07-04
+Suvestinė redakcija nuo 2017-07-05 iki 2017-09-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
 
@@ -121,6 +121,12 @@ Nr. XIII-380, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09161
 6) moterys, išskyrus tas, kurios raštu pareiškė norą tapti karo prievolininkėmis ir (ar) yra baigusios aukštojoje mokykloje medicinos, slaugos ar akušerijos studijų programas;
 
 7) valstybės pripažintų tradicinių Lietuvos religinių bendruomenių ir bendrijų dvasininkai.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos karo prievolės įstatymo (2011 m. birželio 23 d. redakcija; Žin., 2011, Nr. 86-4150) 3 straipsnio 7 punktas prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsniui, 139 straipsnio 2 daliai.
+
+Straipsnio punkto pakeitimai:
+
+Nr. KT9-N7/2017, 2017-07-04, paskelbta TAR 2017-07-04, i. k. 2017-11471
 
 II SKYRIUS
 
@@ -1369,6 +1375,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-380, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09161
 
 Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 3 ir 21 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT9-N7/2017, 2017-07-04, paskelbta TAR 2017-07-04, i. k. 2017-11471
+
+Dėl Lietuvos Respublikos karo prievolės įstatymo nuostatos atitikties Lietuvos Respublikos Konstitucijai
 
 411 straipsnis. Nuolatinę privalomąją pradinę karo tarnybą atliekančių Lietuvos Respublikos piliečių skatinimas
 
