@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2016-08-01"
+last_updated: "2017-07-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2016-08-01 iki 2017-07-11
+Suvestinė redakcija nuo 2017-07-12 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -857,7 +857,11 @@ Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
 
 6. Programos lėšų naudojimo tvarką, finansuojamų priemonių tikslus, uždavinius, siekiamus rezultatus, paraiškų pateikimo ir vertinimo kriterijus, subsidijų ir dotacijų teikimo tvarką nustato Aplinkos ministerija.
 
-7. Programos lėšas administruoja Lietuvos aplinkos apsaugos investicijų fondas.
+7. Programos lėšas administruoja Aplinkos ministerijos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-584, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11952
 
 Straipsnio pakeitimai:
 
