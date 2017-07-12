@@ -4,7 +4,7 @@ identifier: "TAR.B494EC0B78B0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-10"
-last_updated: "2017-07-01"
+last_updated: "2017-07-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B494EC0B78B0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos prekių ženklų įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-07-11
+Suvestinė redakcija nuo 2017-07-12 iki 2018-04-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2844, i. k. 1001010ISTAIII-1981
 
@@ -1200,6 +1200,14 @@ Nr. XIII-264, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06264
 
 Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 21 straipsnio pakeitimo ir 22 straipsnio pripažinimo netekusiu galios įstatymas
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-549, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11946
+
+Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 2, 11 ir 55-1 straipsnių pakeitimo įstatymas
+
 551 straipsnis. Reglamento dėl Bendrijos prekių ženklo taikymas
 
 1. Valstybinis patentų biuras yra centrinė pramoninės nuosavybės tarnyba pagal Reglamentą dėl Bendrijos prekių ženklo.
@@ -1207,6 +1215,12 @@ Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 21 straipsnio pake
 2. Valstybinis patentų biuras patvirtina reikalingus teisės aktus, susijusius su Reglamento dėl Bendrijos prekių ženklo taikymu.
 
 3. Mokesčiai už Valstybinio patentų biuro atliekamus veiksmus padavus per Valstybinį patentų biurą paraišką Bendrijos prekių ženklui registruoti mokami Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo ir Reglamento dėl Bendrijos prekių ženklo nustatyta tvarka.
+
+4. Lietuvos apeliacinis teismas pagal Reglamento dėl Bendrijos prekių ženklo 86 straipsnio 2 dalį suinteresuotos šalies prašymu, pateikus teismui Europos Sąjungos intelektinės nuosavybės tarnybos sprendimo dėl atlyginamų išlaidų dydžio originalą ar patvirtintą kopiją kartu su patvirtintu sprendimo vertimu į lietuvių kalbą, ne vėliau kaip per penkias darbo dienas Civilinio proceso kodekso nustatyta tvarka patikrina įsiteisėjusio Europos Sąjungos intelektinės nuosavybės tarnybos sprendimo autentiškumą ir išduoda vykdomąjį raštą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-549, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11946
 
 Papildyta straipsniu:
 
