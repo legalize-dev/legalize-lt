@@ -4,7 +4,7 @@ identifier: "TAR.B6B636C7384A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-30"
-last_updated: "2017-03-01"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2017-03-01 iki 2017-07-12
+Suvestinė redakcija nuo 2017-07-13 iki 2017-11-28
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
 
@@ -1655,7 +1655,11 @@ Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 8) nebetenkinami reikalavimai, nustatyti banko ar užsienio banko filialo licencijai gauti;
 
-9) padaromas Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo, Indėlių ir įsipareigojimų investuotojams draudimo įstatymo pažeidimas;
+9) padaromas Indėlių ir įsipareigojimų investuotojams draudimo įstatymo pažeidimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-576, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12077
 
 10) banko vadovais paskiriami arba banko vadovų pareigas eina vienas ar keli asmenys, neatitinkantys šio Įstatymo ir kitų teisės aktų nustatytų kvalifikacijos, reputacijos ir patirties reikalavimų tokioms pareigoms eiti;
 
@@ -2448,6 +2452,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-97, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29409
 
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 36, 62 ir 63 straipsnių pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-576, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12077
+
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 73 straipsnio pakeitimo įstatymas
 
 1 straipsnis. Įstatymo paskirtis
 
