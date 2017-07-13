@@ -4,7 +4,7 @@ identifier: "TAR.94F5702CA0F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-09"
-last_updated: "2015-12-22"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2015-12-22 iki 2017-07-12
+Suvestinė redakcija nuo 2017-07-13 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
 
@@ -183,7 +183,13 @@ Nr. XI-2094, 2012-06-21, Žin., 2012, Nr. 76-3937 (2012-06-30), i. k. 1121010IST
 
 2) atlikus antstolio veiklos patikrinimą, buvo nustatyta šiurkščių pažeidimų tvarkant, saugant ir naudojant pinigines lėšas ar kitas materialines vertybes, kurios antstoliui buvo patikėtos ar buvo gautos jam atliekant šiame Įstatyme nustatytas funkcijas, ir dėl to iškelta drausmės byla;
 
-3) antstolis nesumoka Lietuvos antstolių rūmams profesinės civilinės atsakomybės privalomojo draudimo įmokos.
+3) antstoliui paskiriama Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė;
+
+4) antstolis nesumoka Lietuvos antstolių rūmams profesinės civilinės atsakomybės privalomojo draudimo įmokos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-572, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12072
 
 2. Teisingumo ministro sprendimas sustabdyti antstolio įgaliojimus turi būti motyvuotas. Teisingumo ministro įsakymas dėl antstolio įgaliojimų sustabdymo gali būti skundžiamas teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
@@ -229,7 +235,13 @@ Nr. XI-1978, 2012-04-19, Žin., 2012, Nr. 50-2443 (2012-04-28), i. k. 1121010IST
 
 8) jei, paskirtas antstoliu, per du mėnesius nuo paskyrimo dienos neprisiekia;
 
-9) jei po jo paskyrimo antstoliu paaiškėja anksčiau buvę faktai, kuriuos žinojus paskyrimo metu būtų buvę atsisakyta skirti jį antstoliu.
+9) jei po jo paskyrimo antstoliu paaiškėja anksčiau buvę faktai, kuriuos žinojus paskyrimo metu būtų buvę atsisakyta skirti jį antstoliu;
+
+10) įsiteisėjus sprendimui, kuriuo antstoliui paskirta Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė – leidimo vykdyti veiklą panaikinimas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-572, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12072
 
 3. Antstolis atleidžiamas teisingumo ministro įsakymu. Pasibaigus antstolio įgaliojimams, asmuo išbraukiamas iš Lietuvos antstolių sąrašo.
 
@@ -397,11 +409,17 @@ ANTSTOLIO VEIKLA
 
 5) tarpininkauti vykdant turtines prievoles;
 
-6) bankroto administravimo paslaugas.
+6) bankroto administravimo paslaugas;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-806, 2014-03-27, paskelbta TAR 2014-04-11, i. k. 2014-04325
+
+7) mediatoriaus paslaugas, kai sprendžiami ginčai.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-536, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12055
 
 3. Paslaugų teikimas neturi trukdyti atlikti įstatymų nustatytas funkcijas. Teikdamas paslaugas, antstolis privalo vengti interesų konflikto ar kitų aplinkybių, kurios galėtų kelti abejonių antstolio objektyvumu ir nešališkumu atliekant įstatymų nustatytas funkcijas. Visais atvejais antstolis privalo teikti pirmumą įstatymų nustatytoms funkcijoms. Antstolis negali teikti mokamų paslaugų vykdomosiose bylose, jeigu tuos pačius veiksmus jis turi atlikti priverstinio vykdymo priemonėmis. Atliekant funkcijas ir teikiant paslaugas, turi būti užtikrintas funkcijų atlikimo ir paslaugų teikimo atribojimas.
 
@@ -962,6 +980,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2168, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20138
 
 Lietuvos Respublikos antstolių įstatymo Nr. IX-876 46 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-536, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12055
+
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 21 straipsnio pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-572, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12072
+
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 11 ir 12 straipsnių pakeitimo įstatymas
 
 431 straipsnis. Elektroninės vykdomosios bylos, informacinių ir elektroninių ryšių technologijų naudojimas antstolių veikloje
 
