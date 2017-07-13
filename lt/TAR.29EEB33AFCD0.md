@@ -4,7 +4,7 @@ identifier: "TAR.29EEB33AFCD0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-18"
-last_updated: "2017-03-01"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2017-03-01 iki 2017-07-12
+Suvestinė redakcija nuo 2017-07-13 iki 2018-04-27
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
 
@@ -1768,6 +1768,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-101, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29413
 
 Lietuvos Respublikos Centrinės kredito unijos įstatymo Nr. VIII-1682 pakeitimo įstatymo Nr. XII-2566 2 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-577, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12078
+
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 55 straipsnio pakeitimo įstatymas
 
 71 straipsnis. Kreditorių reikalavimų tenkinimo eilė
 
