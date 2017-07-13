@@ -4,7 +4,7 @@ identifier: "TAR.9F4371AB03A3"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-18"
-last_updated: "2017-05-25"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos advokatūros įstatymas
 
-Suvestinė redakcija nuo 2017-05-25 iki 2017-07-12
+Suvestinė redakcija nuo 2017-07-13 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 50-1632, i. k. 1041010ISTA0IX-2066
 
@@ -320,7 +320,11 @@ Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
 5) advokatas neatitinka sąlygų, suteikiančių teisę verstis advokato veikla.
 
-2. Advokatas Lietuvos advokatūros sprendimu gali būti laikinai išbrauktas iš Lietuvos praktikuojančių advokatų sąrašo, jei jis yra įtariamas ar kaltinamas nusikalstamos veikos padarymu. Šiais atvejais advokatas yra išbraukiamas iš Lietuvos praktikuojančių advokatų sąrašo, kol išnyks šio išbraukimo pagrindą sudariusios aplinkybės. Šis sprendimas gali būti skundžiamas Vilniaus apygardos teismui per trisdešimt dienų nuo sprendimo įteikimo advokatui dienos.
+2. Advokatas Lietuvos advokatūros sprendimu gali būti laikinai išbrauktas iš Lietuvos praktikuojančių advokatų sąrašo, jei jis yra įtariamas ar kaltinamas nusikalstamos veikos padarymu, taip pat pritaikius Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatytą poveikio priemonę. Šiais atvejais advokatas yra išbraukiamas iš Lietuvos praktikuojančių advokatų sąrašo, kol išnyks šio išbraukimo pagrindą sudariusios aplinkybės. Šis sprendimas gali būti skundžiamas Vilniaus apygardos teismui per trisdešimt dienų nuo sprendimo įteikimo advokatui dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-571, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12071
 
 Straipsnio pakeitimai:
 
@@ -494,9 +498,19 @@ Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 
 5) paaiškėja, kad asmuo prieš įrašant jį į Lietuvos advokatų padėjėjų sąrašą pagal šio Įstatymo 35 straipsnio 1 ar 2 dalį pateikė neteisingus duomenis;
 
-6) jis mirė.
+6) jis mirė;
 
-2. Lietuvos advokatūros sprendimą išbraukti asmenį iš Lietuvos advokatų padėjėjų sąrašo, priimtą šio straipsnio 1 dalies 3, 4 ir 5 punktuose nurodytais pagrindais, išbrauktasis asmuo turi teisę per trisdešimt dienų nuo sprendimo priėmimo apskųsti Vilniaus apygardos teismui.
+7) jeigu Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo nustatyta tvarka jam pritaikyta Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė – leidimo vykdyti veiklą panaikinimas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-571, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12071
+
+2. Lietuvos advokatūros sprendimą išbraukti asmenį iš Lietuvos advokatų padėjėjų sąrašo, priimtą šio straipsnio 1 dalies 3, 4, 5 ir 7 punktuose nurodytais pagrindais, išbrauktasis asmuo turi teisę per trisdešimt dienų nuo sprendimo priėmimo apskųsti Vilniaus apygardos teismui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-571, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12071
 
 Straipsnio pakeitimai:
 
@@ -970,7 +984,13 @@ EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISININKŲ TEISĖ LAIKINAI TEIKTI PASLAUGAS
 
 5) pritaikius drausminę nuobaudą – panaikinti sprendimą pripažinti asmenį advokatu;
 
-6) jeigu asmuo per penkerius metus nuo sprendimo pripažinti jį advokatu priėmimo dienos nepateikė prašymo įrašyti į Lietuvos praktikuojančių advokatų sąrašą.
+6) jeigu asmuo per penkerius metus nuo sprendimo pripažinti jį advokatu priėmimo dienos nepateikė prašymo įrašyti į Lietuvos praktikuojančių advokatų sąrašą;
+
+7) jeigu Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo nustatyta tvarka Lietuvos advokatūra pritaiko Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatytą poveikio priemonę – leidimo vykdyti veiklą panaikinimą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-571, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12071
 
 2. Teisę panaikinti sprendimą pripažinti asmenį advokatu šiame straipsnyje nurodytais pagrindais turi Lietuvos advokatūra. Dėl sprendimo pripažinti asmenį advokatu panaikinimo į Lietuvos advokatūrą turi teisę kreiptis Lietuvos Respublikos teisingumo ministras (toliau – teisingumo ministras). Jeigu Lietuvos advokatūra atsisako patenkinti teisingumo ministro prašymą panaikinti sprendimą pripažinti asmenį advokatu arba per keturiasdešimt penkias dienas nuo šio prašymo gavimo dienos nepriėmė sprendimo, teisingumo ministras per trisdešimt dienų turi teisę kreiptis į Vilniaus apygardos teismą su prašymu įpareigoti Lietuvos advokatūrą panaikinti sprendimą pripažinti asmenį advokatu.
 
