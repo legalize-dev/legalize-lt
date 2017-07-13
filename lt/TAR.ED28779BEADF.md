@@ -4,7 +4,7 @@ identifier: "TAR.ED28779BEADF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-04"
-last_updated: "2017-06-28"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2017-06-28 iki 2017-07-12
+Suvestinė redakcija nuo 2017-07-13 iki 2018-06-14
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
 
@@ -3150,6 +3150,14 @@ Nr. XIII-472, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10836
 
 Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 5 straipsnio pakeitimo įstatymas
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-579, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12080
+
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 171 straipsnio pakeitimo įstatymas
+
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Atvirojo tipo kolektyvinio investavimo subjektas – kolektyvinio investavimo subjektas, kurio investiciniai vienetai ar akcijos išleidžiami ir išperkami investuotojo reikalavimu.
@@ -3662,7 +3670,11 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 6) valdymo įmonė ar investicinė bendrovė pažeidžia Reglamente (EB) Nr. 1060/2009 nustatytus reikalavimus;
 
-7) valdymo įmonė ar investicinė bendrovė nesilaiko Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo reikalavimų;
+7) neteko galios;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-579, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12080
 
 8) valdymo įmonės ar investicinės bendrovės vadovais išrenkami arba vadovų pareigas eina vienas ar keli asmenys, neatitinkantys finansinių priemonių rinkų veiklą reglamentuojančiuose įstatymuose nustatytų nepriekaištingos reputacijos ir priežiūros institucijos nustatytų kvalifikacijos ir patirties reikalavimų;
 
