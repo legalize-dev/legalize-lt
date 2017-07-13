@@ -4,7 +4,7 @@ identifier: "TAR.9845F775C518"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-06-15"
-last_updated: "2017-03-01"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9845F775C518"
 department: "Lietuvos Respublikos Seimas"
@@ -19,17 +19,9 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2017-03-01 iki 2017-07-12
+Suvestinė redakcija nuo 2017-07-13 iki 2017-11-28
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 59-1916; Žin. 1999, Nr.60-0, i. k. 0991010ISTAIII-1227
-
-TAR pastaba. Iki šio įstatymo įsigaliojimo išduoti auditorių ir audito įmonių pažymėjimai prilyginami šio įstatymo nustatyta tvarka išduotiems pažymėjimams.  Nuo šio įstatymo įsigaliojimo dienos nuoroda į Lietuvos Respublikos audito įstatymą laikoma nuoroda į Lietuvos Respublikos finansinių ataskaitų audito įstatymą, o nuorodos į sąvokas „auditas“, „audito ataskaita“ laikomos nuorodomis į sąvokas „finansinių ataskaitų auditas“, „finansinių ataskaitų audito ataskaita“.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-96, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29408
-
-Lietuvos Respublikos audito įstatymo Nr. VIII-1227 pakeitimo įstatymas
 
 Nauja redakcija nuo 2017-03-01:
 
@@ -269,7 +261,11 @@ Auditoriaus pažymėjimas išduodamas asmeniui, jeigu jis:
 
 Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis:
 
-1) buvo pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms, turtiniams interesams, elektroninių duomenų ar informacinių sistemų saugumui, ekonomikai, verslo tvarkai, finansų sistemai, valstybės tarnybai arba viešiesiems interesams ir teistumas neišnykęs arba nepanaikintas;
+1) buvo pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms, turtiniams interesams, ekonomikai, verslo tvarkai, finansų sistemai, valstybės tarnybai arba viešiesiems interesams ir teistumas neišnykęs arba nepanaikintas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-573, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12074
 
 2) piktnaudžiauja narkotinėmis, toksinėmis, psichotropinėmis medžiagomis arba alkoholiu;
 
@@ -277,7 +273,13 @@ Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis:
 
 4) pažeidė nepriekaištingos reputacijos reikalavimą, jeigu pagal teisės aktus asmeniui toks reikalavimas taikomas, dėl to turėjo nutraukti vykdomą veiklą ir po tokio veiklos nutraukimo nepraėjo 3 metai;
 
-5) buvo audito įmonės, kuriai buvo panaikintas audito įmonės pažymėjimo galiojimas, vadovas tuo metu, kai susidarė aplinkybės, dėl kurių audito įmonės pažymėjimo galiojimas buvo panaikintas, ir nuo to momento nepraėjo 3 metai. Šis punktas netaikomas, jeigu audito įmonei audito įmonės pažymėjimo galiojimas buvo panaikintas šio įstatymo 24 straipsnio 1 dalies 3 ir 4 punktuose nurodytais atvejais.
+5) buvo audito įmonės, kuriai buvo panaikintas audito įmonės pažymėjimo galiojimas, vadovas tuo metu, kai susidarė aplinkybės, dėl kurių audito įmonės pažymėjimo galiojimas buvo panaikintas, ir nuo to momento nepraėjo 3 metai. Šis punktas netaikomas, jeigu audito įmonei audito įmonės pažymėjimo galiojimas buvo panaikintas šio įstatymo 24 straipsnio 1 dalies 3 ir 4 punktuose nurodytais atvejais;
+
+6) pažeidė Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir jam buvo paskirta Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė – išduotos licencijos ar leidimo vykdyti veiklą panaikinimas ir nuo šios poveikio priemonės paskyrimo nepraėjo penkeri metai.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-573, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12074
 
 11 straipsnis. Auditoriaus padėjėjo praktika audito įmonėje
 
@@ -389,7 +391,13 @@ TAR pastaba. Asmenims, iki šio įstatymo įsigaliojimo (2017-03-01) išlaikiusi
 
 2) auditoriui nepateikus šio įstatymo 26 straipsnyje nustatytų duomenų ir (arba) paaiškėjus, kad pateikti duomenys yra neteisingi;
 
-3) rašytiniu auditoriaus prašymu.
+3) rašytiniu auditoriaus prašymu;
+
+4) auditoriui paskiriama Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-573, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12074
 
 2. Įstaiga savo nustatyta tvarka sustabdo auditoriaus pažymėjimo galiojimą šiais atvejais:
 
@@ -427,7 +435,13 @@ TAR pastaba. Asmenims, iki šio įstatymo įsigaliojimo (2017-03-01) išlaikiusi
 
 5) rašytiniu auditoriaus prašymu;
 
-6) auditoriui mirus.
+6) auditoriui mirus;
+
+7) įsiteisėjus sprendimui, kuriuo auditoriui paskiriama Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-573, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12074
 
 2. Įstaiga savo nustatyta tvarka panaikina auditoriaus pažymėjimo galiojimą šiais atvejais:
 
@@ -501,7 +515,11 @@ Audito įmonės pažymėjimas išduodamas įmonei, jeigu ji:
 
 20 straipsnis. Audito įmonių nepriekaištinga reputacija
 
-Audito įmonė nėra laikoma nepriekaištingos reputacijos, jeigu dėl jos arba jos patronuojančiosios įmonės yra įsiteisėjęs apkaltinamasis teismo nuosprendis už sunkų ar labai sunkų nusikaltimą nuosavybei, turtinėms teisėms, turtiniams interesams, ekonomikai, verslo tvarkai, finansų sistemai, viešiesiems interesams, teisingumui arba visuomenės saugumui arba per pastaruosius 3 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis už kitą tyčinę nusikalstamą veiką ir jos teistumas neišnykęs arba nepanaikintas.
+Audito įmonė nėra laikoma nepriekaištingos reputacijos, jeigu dėl jos arba jos patronuojančiosios įmonės yra įsiteisėjęs apkaltinamasis teismo nuosprendis už sunkų ar labai sunkų nusikaltimą nuosavybei, turtinėms teisėms, turtiniams interesams, ekonomikai, verslo tvarkai, finansų sistemai, viešiesiems interesams, teisingumui arba visuomenės saugumui arba per pastaruosius 3 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis už kitą tyčinę nusikalstamą veiką ir jos teistumas neišnykęs arba nepanaikintas, taip pat jeigu audito įmonei buvo paskirta Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė – išduotos licencijos ar leidimo vykdyti veiklą panaikinimas ir nuo šios poveikio priemonės paskyrimo nepraėjo penkeri metai.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-573, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12074
 
 21 straipsnis. Audito įmonių civilinės atsakomybės draudimas
 
@@ -541,7 +559,13 @@ Audito įmonė nėra laikoma nepriekaištingos reputacijos, jeigu dėl jos arba 
 
 4) jeigu audito įmonė neatitinka šio įstatymo 19 ir (arba) 21 straipsniuose nustatytų reikalavimų;
 
-5) rašytiniu audito įmonės prašymu.
+5) rašytiniu audito įmonės prašymu;
+
+6) audito įmonei paskiriama Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-573, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12074
 
 2. Įstaiga savo nustatyta tvarka sustabdo audito įmonės pažymėjimo galiojimą šiais atvejais:
 
@@ -577,7 +601,13 @@ Audito įmonė nėra laikoma nepriekaištingos reputacijos, jeigu dėl jos arba 
 
 3) rašytiniu audito įmonės prašymu;
 
-4) jeigu yra įsiteisėjusi teismo nutartis iškelti audito įmonei bankroto bylą ar yra priimtas kreditorių susirinkimo nutarimas bankroto procedūras vykdyti ne teismo tvarka arba audito įmonė likviduojama.
+4) jeigu yra įsiteisėjusi teismo nutartis iškelti audito įmonei bankroto bylą ar yra priimtas kreditorių susirinkimo nutarimas bankroto procedūras vykdyti ne teismo tvarka arba audito įmonė likviduojama;
+
+5) įsiteisėjus sprendimui, kuriuo audito įmonei paskiriama Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-573, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12074
 
 2. Įstaiga savo nustatyta tvarka panaikina audito įmonės pažymėjimo galiojimą šiais atvejais:
 
@@ -1880,4 +1910,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-96, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29408
 
 Lietuvos Respublikos audito įstatymo Nr. VIII-1227 pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-573, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12074
+
+Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 10, 14, 15, 20, 23 ir 24 straipsnių pakeitimo įstatymas
 
