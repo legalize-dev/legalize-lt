@@ -4,7 +4,7 @@ identifier: "TAR.E5509883EBB4"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-05-17"
-last_updated: "2017-05-01"
+last_updated: "2017-07-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2017-05-01 iki 2017-07-12
+Suvestinė redakcija nuo 2017-07-13 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
 
@@ -746,15 +746,21 @@ Nr. IX-995, 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
 
 20 straipsnis. Lošėjų tapatybės nustatymas
 
-1. Azartinius lošimus organizuojančios bendrovės privalo patikrinti kliento, įeinančio į lošimo automatų ir bingo salonus, lažybų bei totalizatoriaus punktus, tapatybę, jeigu kyla abejonių, kad asmuo yra jaunesnis negu 18 metų. Azartinius lošimus organizuojančios bendrovės privalo patikrinti kliento, įeinančio į lošimo namus (kazino), tapatybę ir jį registruoti. Lošimų organizatorius Vyriausybės nustatyta tvarka privalo registruoti asmenis, kurie arba keičia grynuosius pinigus į žetonus, arba įmoka, arba laimi sumą, viršijančią 1 000 eurų ar ją atitinkančią sumą užsienio valiuta.
+1. Azartinius lošimus organizuojančios bendrovės privalo patikrinti kliento, įeinančio į lošimo automatų ir bingo salonus, lažybų bei totalizatoriaus punktus, tapatybę, jeigu kyla abejonių, kad asmuo yra jaunesnis negu 18 metų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1166, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13586
 
+Nr. XIII-575, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12076
+
 2. Laimėjusio asmens reikalavimu lošimų organizatorius privalo jam išduoti Valstybinės mokesčių inspekcijos nustatytos formos pažymą, pagrindžiančią turto deklaravimą.
 
-3. Lošimų organizatorius dokumentus ir informaciją apie šio straipsnio 1 ir 2 dalyse nurodytus asmenis privalo saugoti 10 metų ir privalo pateikti tik Priežiūros tarnybai ir ikiteisminio tyrimo pareigūnams, prokurorams arba teismui įstatymų nustatyta tvarka.
+3. Lošimų organizatorius dokumentus ir informaciją apie šio straipsnio 2 dalyje nurodytus asmenis privalo saugoti 10 metų ir privalo pateikti tik Priežiūros tarnybai ir ikiteisminio tyrimo pareigūnams, prokurorams arba teismui įstatymų nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-575, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12076
 
 4. Lošimų organizatorius privalo Vyriausybės nustatyta tvarka pranešti teritorinei valstybinei mokesčių inspekcijai apie laimėjimus ir pralaimėjimus, jei laimėjimo ar pralaimėjimo suma viršija Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“ 2 straipsnyje nustatytą ir atsižvelgiant į vartojimo kainų pasikeitimus indeksuotą dydį.
 
