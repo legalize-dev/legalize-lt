@@ -4,7 +4,7 @@ identifier: "TAR.68CC8934A031"
 country: "lt"
 rank: "istatymas"
 publication_date: "2008-11-13"
-last_updated: "2017-01-18"
+last_updated: "2017-07-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.68CC8934A031"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS CIVILINĮ PROCESĄ REGLAMENTUOJANČIŲ EUROPOS SĄJUNGOS
 
 IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2017-01-18 iki 2017-07-13
+Suvestinė redakcija nuo 2017-07-14 iki 2018-03-31
 
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
 
@@ -42,11 +42,15 @@ BENDROSIOS NUOSTATOS
 
 ANTRASIS SKIRSNIS
 
-EUROPOS BENDRIJOS STEIGIMO SUTARTIES 244 IR 256 STRAIPSNIŲ ĮGYVENDINIMAS
+SUTARTIES DĖL EUROPOS SĄJUNGOS VEIKIMO 280 IR 299 STRAIPSNIŲ ĮGYVENDINIMAS
 
 2 straipsnis. Vykdomųjų raštų išdavimas
 
-Vykdomuosius raštus dėl Europos Sąjungos Tarybos ar Europos Bendrijų Komisijos sprendimų, kuriais asmenims, išskyrus valstybes, skiriama piniginė prievolė, taip pat dėl Europos Bendrijų Teisingumo Teismo sprendimų suinteresuotos šalies prašymu nedelsdamas, bet ne vėliau kaip per penkias darbo dienas išduoda Lietuvos apeliacinis teismas.
+Vykdomuosius raštus dėl Europos Sąjungos Tarybos, Europos Komisijos ar Europos Centrinio Banko sprendimų, kuriais asmenims, išskyrus valstybes, skiriama piniginė prievolė, taip pat dėl Europos Sąjungos Teisingumo Teismo sprendimų suinteresuotos šalies prašymu nedelsdamas, bet ne vėliau kaip per penkias darbo dienas, išduoda Lietuvos apeliacinis teismas.
+
+Skirsnio pakeitimai:
+
+Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
 
 TREČIASIS SKIRSNIS
 
@@ -216,7 +220,11 @@ Bylose dėl Europos mokėjimo įsakymo išdavimo taikomos Lietuvos Respublikos c
 
 1. Reglamento (EB) Nr. 1896/2006 10 straipsnio 2 dalyje nurodytu atveju dėl likusios reikalavimo dalies ieškovas gali pareikšti ieškinį teisme pagal ginčo teisenos taisykles arba pateikti naują prašymą išduoti Europos mokėjimo įsakymą, jeigu pašalinamos kliūtys, dėl kurių teismas atsisakė išduoti Europos mokėjimo įsakymą visam reikalavimui.
 
-2. Reglamento (EB) Nr. 1896/2006 17 straipsnio 1 dalyje nurodytu atveju teismo procesas tęsiamas Lietuvos Respublikos civilinio proceso kodekso 439 straipsnio 3, 5 ir 6 dalyse nustatyta tvarka.
+2. Reglamento (EB) Nr. 1896/2006 17 straipsnio 1 dalyje nurodytais atvejais teismo procesas tęsiamas mutatis mutandis taikant Lietuvos Respublikos civilinio proceso kodekso 439 straipsnio 3, 5 ir 6 dalių nuostatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
 
 23 straipsnis. Europos mokėjimo įsakymo peržiūra
 
@@ -266,7 +274,11 @@ Teismų sprendimai, priimti pagal Europos ieškinių dėl nedidelių sumų nagri
 
 2. Priėmęs prašymą dėl sprendimo peržiūrėjimo, teismas persiunčia prašymo ir jo priedų kopijas ieškovui ir informuoja, kad šis per keturiolika dienų nuo prašymo išsiuntimo privalo raštu pateikti atsiliepimą į prašymą.
 
-3. Paduotą prašymą dėl sprendimo peržiūrėjimo teismas rašytinio proceso tvarka išnagrinėja ne vėliau kaip per keturiolika dienų nuo termino atsiliepimui į prašymą pateikti pabaigos dienos ir priima nutartį dėl vieno iš Reglamento (EB) Nr. 861/2007 18 straipsnio 2 dalyje nurodytų sprendimų.
+3. Paduotą prašymą dėl sprendimo peržiūrėjimo teismas rašytinio proceso tvarka išnagrinėja ne vėliau kaip per keturiolika dienų nuo termino atsiliepimui į prašymą pateikti pabaigos dienos ir priima nutartį dėl vieno iš Reglamento (EB) Nr. 861/2007 18 straipsnio 3 dalyje nurodytų sprendimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
 
 4. Jeigu toje pačioje byloje dėl Europos ieškinių dėl nedidelių sumų paduodamas apeliacinis skundas ir prašymas dėl sprendimo peržiūrėjimo, pirmiausia turi būti išnagrinėtas apeliacinis skundas.
 
@@ -553,4 +565,12 @@ Nr. XII-2338, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13904
 DEŠIMTASIS SKIRSNIS
 
 BAIGIAMOSIOS NUOSTATOS
+
+271 straipsnis. Praktinė pagalba ir informacija proceso šalims
+
+Reglamento (EB) Nr. 861/2007 11 straipsnio 1 dalyje nurodytą praktinę pagalbą ir informaciją proceso šalims teikia pirminę valstybės garantuojamą teisinę pagalbą teikiantys subjektai.
+
+Papildyta straipsniu:
+
+Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
 
