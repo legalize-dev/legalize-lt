@@ -4,7 +4,7 @@ identifier: "TAR.FF1083B528B7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-09"
-last_updated: "2017-07-01"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF1083B528B7"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redaguota : 1995 07 21
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-07-17
+Suvestinė redakcija nuo 2017-07-18 iki 2018-10-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
 
@@ -1298,11 +1298,17 @@ Nr. XII-1305, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16784
 
 4) formuojamos šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose ar bendruosiuose planuose numatytos visuomeninės paskirties, bendrojo naudojimo ir atskirųjų želdynų teritorijos;
 
-5) padalijant miškų ūkio paskirties žemės sklypą atskiriama jo dalis, kurioje yra žemės ūkio naudmenos ir kurioje saugomos teritorijos specialiojo teritorijų planavimo dokumento sprendiniai numato naują statybą.
+5) padalijant miškų ūkio paskirties žemės sklypą atskiriama jo dalis, kurioje yra žemės ūkio naudmenos ir kurioje saugomos teritorijos specialiojo teritorijų planavimo dokumento sprendiniai numato naują statybą;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
+
+6) miško žemę kitomis naudmenomis paversti būtina teritorijose, skirtose valstybės sienos apsaugos tikslams ir krašto apsaugos tikslams.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-617, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12310
 
 9. Valstybiniuose draustiniuose privačios nuosavybės teise priklausančio žemės sklypo neleidžiama dalyti dalimis, jeigu po padalijimo (atidalijimo) bent viena sklypo dalis tampa mažesnė kaip 7 hektarai, o besiribojančių su vandens telkiniu žemės sklypų pakrančių ilgis – mažesnis kaip 50 metrų, išskyrus atvejus, kai:
 
