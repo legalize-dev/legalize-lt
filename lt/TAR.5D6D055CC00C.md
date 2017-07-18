@@ -4,7 +4,7 @@ identifier: "TAR.5D6D055CC00C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-22"
-last_updated: "2017-07-01"
+last_updated: "2017-07-18"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-07-17
+Suvestinė redakcija nuo 2017-07-18
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
 
@@ -564,7 +564,11 @@ Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
 
 4) naudingųjų iškasenų eksploatavimo teritorijoms formuoti ir naudoti, kai nėra galimybės šių iškasenų eksploatuoti ne miško žemėje savivaldybės teritorijoje arba kai baigiamas eksploatuoti pradėtas naudoti telkinys ar jo dalis, dėl kurių yra išduotas leidimas naudoti naudingąsias iškasenas;
 
-5) krašto apsaugos teritorijoms, skirtoms valstybės sienos apsaugai ir specialiems krašto apsaugos tikslams, formuoti;
+5) teritorijose, skirtose valstybės sienos apsaugos tikslams ir krašto apsaugos tikslams;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 
 6) atliekų saugojimo, rūšiavimo ir utilizavimo teritorijoms formuoti, kai nėra galimybės tokių teritorijų formuoti ne miško žemėje;
 
@@ -578,15 +582,15 @@ Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
 
 1) I grupės miškuose;
 
-2) II grupės – ekosistemų apsaugos miškuose, išskyrus šio straipsnio 1 dalies 1, 3, 7 ir 9 punktuose nustatytus atvejus;
+2) II grupės – ekosistemų apsaugos miškuose, išskyrus šio straipsnio 1 dalies 1, 3, 5, 7 ir 9 punktuose nustatytus atvejus;
 
-3) III grupės – draustinių miškuose ir valstybinių rezervatų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 1, 3, 7 ir 9 punktuose nustatytus atvejus;
+3) III grupės – draustinių miškuose ir valstybinių rezervatų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 1, 3, 5, 7 ir 9 punktuose nustatytus atvejus;
 
-4) kituose miškuose, esančiuose vieno kilometro atstumu nuo Baltijos jūros ir Kuršių marių, II grupės rekreaciniuose miškuose ir III grupės vandens telkinių apsaugos zonų, laukų apsauginiuose ir valstybinių parkų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 1, 2, 3, 8 punktuose nurodytus atvejus, jeigu atitinkamų objektų statyba ar atitinkamų teritorijų formavimas numatytas bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose arba šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose. Šiame punkte nustatyti draudimai ir apribojimai netaikomi miško žemę paverčiant kitomis naudmenomis šio straipsnio 1 dalies 7 ir 9 punktuose nustatytais atvejais ir 4 punkte nustatytu atveju, kai baigiama eksploatuoti šiuo metu naudojamo telkinio dalis, dėl kurios yra išduotas leidimas naudoti naudingąsias iškasenas, ir nėra galimybės tęsti telkinio eksploatavimo ne miško žemėje.
+4) kituose miškuose, esančiuose vieno kilometro atstumu nuo Baltijos jūros ir Kuršių marių, II grupės rekreaciniuose miškuose ir III grupės vandens telkinių apsaugos zonų, laukų apsauginiuose ir valstybinių parkų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 1, 2, 3, 8 punktuose nurodytus atvejus, jeigu atitinkamų objektų statyba ar atitinkamų teritorijų formavimas numatytas bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose arba šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose. Šiame punkte nustatyti draudimai ir apribojimai netaikomi miško žemę paverčiant kitomis naudmenomis šio straipsnio 1 dalies 5, 7 ir 9 punktuose nustatytais atvejais ir 4 punkte nustatytu atveju, kai baigiama eksploatuoti šiuo metu naudojamo telkinio dalis, dėl kurios yra išduotas leidimas naudoti naudingąsias iškasenas, ir nėra galimybės tęsti telkinio eksploatavimo ne miško žemėje.
 
-Straipsnio punkto pakeitimai:
+Straipsnio dalies pakeitimai:
 
-Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 
 3. Valstybiniuose parkuose, draustiniuose, biosferos rezervatuose ir biosferos poligonuose esančią miško žemę paversti kitomis naudmenomis leidžiama tik reikmėms, susijusioms su:
 
@@ -596,7 +600,11 @@ Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 
 3) šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose ar bendruosiuose planuose numatytų visuomeninės paskirties, bendrojo naudojimo ir atskirųjų želdynų teritorijų formavimu;
 
-4) šio straipsnio 1 dalies 7 ir 9 punktuose nustatytais atvejais.
+4) šio straipsnio 1 dalies 5, 7 ir 9 punktuose nustatytais atvejais.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 
 4. Šio straipsnio 2 ir 3 dalyse nenurodytuose miškuose miško žemę paversti kitomis naudmenomis leidžiama, jeigu šio straipsnio 1 dalies 1–6, 8 punktuose nurodyti atvejai yra numatyti bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose.
 
