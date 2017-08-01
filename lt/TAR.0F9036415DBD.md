@@ -4,7 +4,7 @@ identifier: "TAR.0F9036415DBD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-05-21"
-last_updated: "2017-07-01"
+last_updated: "2017-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-07-31
+Suvestinė redakcija nuo 2017-08-01 iki 2017-12-13
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
 
@@ -104,7 +104,11 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 4 straipsnis. Asmenų, turinčių darbo santykius arba santykius, savo esme atitinkančius darbo santykius, socialinis draudimas
 
-1. Asmenys, dirbantys pagal darbo sutartis Lietuvos Respublikos teritorijoje (įskaitant komandiruotus į Lietuvos Respubliką ilgesniam negu vienų metų laikotarpiui asmenis) arba ne Lietuvos Respublikos teritorijoje, bet pagal darbo sutartis, sudarytas su Lietuvos Respublikoje registruotais draudėjais, jeigu vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis arba Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais nenustatyta kitaip, asmenys, atlygintinai einantys narystės pagrindu renkamąsias ar skiriamąsias pareigas, asmenys, susiję su draudėju darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, tuo pačiu metu iš šio draudėjo gaunantys pajamas iš sporto veiklos ar atlikėjo veiklos, taip pat šioje dalyje ir šio straipsnio 2, 3, 4 ir 5 dalyse bei 6 straipsnio 1, 2 ir 3 dalyse nurodyti asmenys – nuolatiniai Lietuvos gyventojai, kaip jie apibrėžti Gyventojų pajamų mokesčio įstatyme (toliau – nuolatiniai Lietuvos gyventojai), gaunantys pajamas pagal autorines sutartis iš draudėjo – Lietuvos vieneto, kaip ši sąvoka apibrėžta Gyventojų pajamų mokesčio įstatyme (toliau – Lietuvos vienetas), draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
+1. Asmenys, dirbantys pagal darbo sutartis Lietuvos Respublikos teritorijoje (įskaitant komandiruotus į Lietuvos Respubliką ilgesniam negu vienų metų laikotarpiui asmenis) arba ne Lietuvos Respublikos teritorijoje, bet pagal darbo sutartis, sudarytas su Lietuvos Respublikoje registruotais draudėjais, jeigu vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis arba Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais nenustatyta kitaip, asmenys, atlygintinai einantys narystės pagrindu renkamąsias ar skiriamąsias pareigas, asmenys, susiję su draudėju darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, tuo pačiu metu iš šio draudėjo gaunantys pajamas pagal autorines sutartis, iš sporto veiklos ar atlikėjo veiklos, draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
 
 2. Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos teisėjų atlyginimų įstatyme ir Lietuvos Respublikos valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šio straipsnio 3 ir 4 dalyse), Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), gaunantys darbo užmokestį Lietuvos Respublikos Seimo (toliau – Seimas), Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
 
@@ -234,7 +238,11 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 11) atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete mokamą vietoj tantjemų arba kartu su tantjemomis.
 
-2. Šio įstatymo 5 straipsnio 1 dalyje nurodytų asmenų socialinio draudimo įmokos skaičiuojamos nuo apskaičiuoto atlygio pagal sudarytas sutartis.
+2. Meno kūrėjo statusą turinčių darbingo amžiaus asmenų ir šio įstatymo 5 straipsnio 1 dalyje nurodytų asmenų, gaunančių pajamas pagal autorines sutartis, iš sporto ar atlikėjo veiklos, socialinio draudimo įmokos skaičiuojamos nuo apskaičiuoto 50 procentų atlygio pagal sudarytas sutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
 
 3. Šio įstatymo 5 straipsnio 2 dalyje nurodytų asmenų socialinio draudimo įmokos skaičiuojamos taip:
 
@@ -316,7 +324,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
-23) kolektyvinio administravimo būdu autoriams ir gretutinių teisių subjektams mokamo atlyginimo už kūrinių ir gretutinių teisių objektų panaudojimą pagal suteiktas licencijas panaudoti kūrinius ar gretutinių teisių objektus, taip pat nuo autoriams ir gretutinių teisių subjektams mokamo kompensacinio atlyginimo už knygų panaudą bibliotekose, kūrinių atgaminimą reprografijos būdu ir kūrinių bei gretutinių teisių objektų atgaminimą asmeniniais tikslais, pajamų, gautų už perduotą ar pagal licencinę sutartį suteiktą teisę naudotis pramoninės nuosavybės objektu;
+23) autoriams ir gretutinių teisių subjektams mokamo atlyginimo už kūrinių ir gretutinių teisių objektų panaudojimą pagal suteiktas licencijas panaudoti kūrinius ar gretutinių teisių objektus, taip pat nuo autoriams ir gretutinių teisių subjektams mokamo kompensacinio atlyginimo už knygų panaudą bibliotekose, kūrinių atgaminimą reprografijos būdu ir kūrinių bei gretutinių teisių objektų atgaminimą asmeniniais tikslais, pajamų, gautų už perduotą ar pagal licencinę sutartį suteiktą teisę naudotis pramoninės nuosavybės objektu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
 
 24) apskaičiuotos pardavimo pridėtinės vertės mokesčio sumos už patiektas prekes ir suteiktas paslaugas;
 
