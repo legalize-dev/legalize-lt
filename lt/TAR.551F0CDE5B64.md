@@ -4,7 +4,7 @@ identifier: "TAR.551F0CDE5B64"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-18"
-last_updated: "2017-01-01"
+last_updated: "2017-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.551F0CDE5B64"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-07-31
+Suvestinė redakcija nuo 2017-08-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1598, i. k. 0991010ISTAIII-1185
 
@@ -242,7 +242,11 @@ GRETUTINĖS TEISĖS
 
 6) padaryti savo transliacijų įrašus ar jų kopijas viešai prieinamus, įskaitant perdavimą kompiuterių tinklais (internete);
 
-7) platinti savo transliacijų įrašus ar jų kopijas parduodant ar kitaip perduodant nuosavybėn arba valdyti, taip pat importuojant ir eksportuojant.
+7) platinti savo transliacijų įrašus ar jų kopijas parduodant, įskaitant viešą siūlymą juos pirkti ar tikslinę transliacijos įrašo ar jo kopijų reklamą, skatinančią vartotojus juos įsigyti, taip pat importuoti ar eksportuoti.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
 
 2. Kabelinės retransliacijos operatoriai, retransliuojantys transliuojančiųjų organizacijų transliacijas, neturi į jas šio straipsnio 1 dalyje nurodytų teisių.
 
@@ -278,7 +282,11 @@ DUOMENŲ BAZIŲ GAMINTOJŲ TEISĖS
 
 1) bet kokiu būdu ar forma visam laikui ar laikinai perkelti visą duomenų bazės turinį ar esminę jo dalį į kitą laikmeną;
 
-2) bet kokiu būdu padaryti viešai prieinamą visą duomenų bazės turinį ar esminę jo dalį platinant duomenų bazės kopijas, jas nuomojant, perduodant visą duomenų bazės turinį ar esminę jo dalį kompiuterių tinklais (internete) ar kitais perdavimo būdais.
+2) bet kokiu būdu padaryti viešai prieinamą visą duomenų bazės turinį ar esminę jo dalį kompiuterių tinklais (internete) ar kitais perdavimo būdais, taip pat platinti duomenų bazės kopijas, jas nuomojant, parduodant, įskaitant viešą siūlymą jas pirkti ar tikslinę duomenų bazės kopijų reklamą, skatinančią vartotojus jas įsigyti.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
 
 2. Šio straipsnio 1 dalyje nurodytos duomenų bazių gamintojų teisės gali būti perduodamos kitiems asmenims pagal sutartį, paveldėjimo tvarka ar kita įstatymų nustatyta tvarka.
 
@@ -1148,7 +1156,11 @@ Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
 
 4) adaptuoti, aranžuoti, inscenizuoti ar kitaip perdirbti kūrinį;
 
-5) platinti kūrinio originalą ar jo kopijas parduodant, nuomojant, teikiant panaudai ar kitaip perduodant nuosavybėn arba valdyti, taip pat importuojant, eksportuojant;
+5) platinti kūrinio originalą ar jo kopijas parduodant, įskaitant viešą siūlymą juos pirkti ar tikslinę kūrinio originalo ar jo kopijų reklamą, skatinančią vartotojus juos įsigyti, taip pat nuomoti, teikti panaudai ar kitaip perduoti kūrinio originalą ar jo kopijas nuosavybėn arba valdyti, importuoti ar eksportuoti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
 
 6) viešai rodyti kūrinio originalą ar kopijas;
 
@@ -1518,7 +1530,11 @@ Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
 
 4) padaryti atlikimo įrašą viešai prieinamą;
 
-5) platinti atlikimo įrašą arba jo kopijas juos parduodant, nuomojant, teikiant panaudai ar kitaip perduodant nuosavybėn arba valdyti, taip pat juos importuojant ir eksportuojant.
+5) platinti atlikimo įrašą arba jo kopijas juos parduodant, įskaitant viešą siūlymą juos pirkti ar tikslinę atlikimo įrašo ar jo kopijų reklamą, skatinančią vartotojus juos įsigyti, taip pat nuomoti, teikti panaudai ar kitaip perduoti atlikimo įrašą ar jo kopijas nuosavybėn arba valdyti, importuoti ar eksportuoti.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
 
 2. Šio straipsnio 1 dalies 4 punkte nurodyta teisė padaryti atlikimo įrašą viešai prieinamą apima jo perdavimą laidais ar bevielio ryšio priemonėmis, kad visuomenės nariai galėtų jį pasiekti individualiai pasirinktoje vietoje ir pasirinktu laiku (pvz., kompiuterių tinklais (internete) pagal pareikalavimą arba kitokiais būdais).
 
@@ -1554,7 +1570,11 @@ Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
 
 3) padaryti fonogramą ar jos kopiją viešai prieinamą;
 
-4) platinti fonogramą ar jos kopijas parduodant, nuomojant, teikiant panaudai ar kitaip perduodant nuosavybėn arba valdyti, taip pat jas importuojant ir eksportuojant.
+4) platinti fonogramą ar jos kopijas parduodant, įskaitant viešą siūlymą jas pirkti ar tikslinę fonogramos ar jos kopijų reklamą, skatinančią vartotojus jas įsigyti, taip pat nuomoti, teikti panaudai ar kitaip perduoti nuosavybėn arba valdyti, importuoti ar eksportuoti.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
 
 2. Šio straipsnio 1 dalies 3 punkte nurodyta teisė padaryti fonogramą ar jos kopiją viešai prieinamą apima jų perdavimą laidais ar bevielio ryšio priemonėmis, kad visuomenės nariai galėtų jas pasiekti individualiai pasirinktoje vietoje ir pasirinktu laiku (pvz., kompiuterių tinklais (internete) pagal pareikalavimą arba kitokiais būdais).
 
@@ -1594,7 +1614,11 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
 2) transliuoti, retransliuoti ir kitaip viešai skelbti audiovizualinio kūrinio (filmo) įrašą;
 
-3) platinti audiovizualinio kūrinio (filmo) įrašą ar jo kopijas parduodant, nuomojant, teikiant panaudai ar kitaip perduodant nuosavybėn arba valdyti, taip pat juos importuojant ir eksportuojant;
+3) platinti audiovizualinio kūrinio (filmo) įrašą ar jo kopijas parduodant, įskaitant viešą siūlymą juos pirkti ar tikslinę audiovizualinio kūrinio (filmo) įrašo ar jo kopijų reklamą, skatinančią vartotojus juos įsigyti, taip pat nuomoti, teikti panaudai ar kitaip perduoti nuosavybėn arba valdyti, importuoti ar eksportuoti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
 
 4) padaryti audiovizualinio kūrinio (filmo) įrašą ar jo kopijas viešai prieinamus, įskaitant perdavimą kompiuterių tinklais (internete).
 
