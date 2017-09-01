@@ -4,7 +4,7 @@ identifier: "TAR.F31E79DEC55D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-19"
-last_updated: "2017-07-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-08-31
+Suvestinė redakcija nuo 2017-09-01 iki 2017-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
 
@@ -1190,7 +1190,11 @@ STATYBĄ LEIDŽIANTYS DOKUMENTAI. STATYBOS UŽBAIGIMAS
 
 5) Radiacinės saugos centras;
 
-6) Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos;
+6) susisiekimo ministro įgaliota įstaiga, atsakinga už geležinkelių transporto eismo saugą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-591, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11960
 
 7) Neįgaliųjų reikalų departamentas prie Socialinės apsaugos ir darbo ministerijos ar jo įgaliota institucija;
 
