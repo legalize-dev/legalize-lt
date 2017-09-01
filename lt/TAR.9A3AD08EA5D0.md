@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "2017-01-02"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-01-02 iki 2017-08-31
+Suvestinė redakcija nuo 2017-09-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
 
@@ -40,7 +40,13 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Šio įstatymo paskirtis
 
-Šis įstatymas nustato Lietuvos Respublikos švietimo tikslus, švietimo sistemos principus, švietimo sistemos sandaros, švietimo veiklos, švietimo santykių pagrindus, valstybės įsipareigojimus švietimo srityje.
+1. Šis įstatymas nustato Lietuvos Respublikos švietimo tikslus, švietimo sistemos principus, švietimo sistemos sandaros, švietimo veiklos, švietimo santykių pagrindus, valstybės įsipareigojimus švietimo srityje.
+
+2. Šio įstatymo nuostatos taikomos tiek, kiek jos neprieštarauja Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo, Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo, Lietuvos Respublikos visuomenės informavimo įstatymo, Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo nuostatoms, reglamentuojančioms viešosios informacijos saugumą, smurto prevenciją ir kontrolę.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -160,6 +166,12 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
 
+221. Prevencinė programa – planingų ir sistemingų priemonių, padedančių stiprinti mokinio asmenybės ir aplinkos apsauginius veiksnius ir mažinti rizikos veiksnių įtaką, visuma.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
+
 23. Privalomasis švietimas – Lietuvos Respublikos piliečiams, gyvenantiems Lietuvos Respublikoje, ir užsieniečiams, turintiems teisę nuolat ar laikinai gyventi Lietuvos Respublikoje, privalomas ir valstybės garantuojamas ugdymas iki 16 metų pagal priešmokyklinio, pradinio, pagrindinio ugdymo programas.
 
 Straipsnio dalies pakeitimai:
@@ -181,6 +193,18 @@ Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+
+251. Smurtas – kaip ši sąvoka apibrėžta Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatyme. Šiame įstatyme išskiriamos šios smurto formos:
+
+1) patyčios – psichologinę ar fizinę jėgos persvarą turinčio asmens ar asmenų grupės kitam asmeniui daromi tyčiniai pasikartojantys veiksmai, kuriais siekiama pažeminti jo reputaciją ar orumą, jį įžeisti, įskaudinti ar kitaip sukelti jam psichologinę ar fizinę žalą;
+
+2) patyčios kibernetinėje erdvėje – patyčios iš kito asmens naudojantis informacinėmis technologijoms ir (ar) informacinės visuomenės informavimo priemonėmis, siekiant įbauginti tą asmenį, pakenkti jo reputacijai ar kitokiu būdu jį pažeminti, neatsižvelgiant į tai, ar patyčių informacija siunčiama asmeniškai, ar paskleidžiama neapibrėžtam gavėjų skaičiui;
+
+3) vaiko nepriežiūra – vaiko atstovo pagal įstatymą ir (ar) už vaiko priežiūrą atsakingo asmens nuolatinis nepakankamas pagrindinių vaiko fizinių ir dvasinių poreikių tenkinimas ar netenkinimas, keliantis grėsmę vaiko fizinei, protinei, emocinei ir socialinei sveikatai ir raidai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 26. Specialieji ugdymosi poreikiai – pagalbos ir paslaugų ugdymo procese reikmė, atsirandanti dėl išskirtinių asmens gabumų, įgimtų ar įgytų sutrikimų, nepalankių aplinkos veiksnių.
 
@@ -260,6 +284,12 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
 
+39. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Visuomenės informavimo įstatyme, Lietuvos Respublikos kibernetinio saugumo įstatyme ir Lietuvos Respublikos elektroninių ryšių įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
+
 Straipsnio pakeitimai:
 
 Nr. XII-398, 2013-06-20, Žin., 2013, Nr. 73-3655 (2013-07-09)
@@ -328,7 +358,11 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 4. Ikimokyklinio ugdymo programą, parengtą pagal švietimo ir mokslo ministro patvirtintus ikimokyklinio ugdymo programų kriterijus, vykdo ikimokyklinio ugdymo, bendrojo ugdymo mokyklos, laisvasis mokytojas ar kitas švietimo teikėjas.
 
-5. Ikimokyklinio amžiaus vaikui ir jo tėvams (globėjams) kompleksiškai teikiamos švietimo pagalba, socialinė parama, sveikatos priežiūros paslaugos švietimo ir mokslo ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.
+5. Pagal ikimokyklinio ugdymo programą ugdomam ikimokyklinio amžiaus vaikui ir jo tėvams (globėjams, rūpintojams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo ir mokslo ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 8 straipsnis. Priešmokyklinis ugdymas
 
@@ -342,7 +376,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
-4. Priešmokyklinio amžiaus vaikui ir jo tėvams (globėjams) kompleksiškai teikiamos švietimo pagalba, socialinė parama, sveikatos priežiūros paslaugos švietimo ir mokslo ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.
+4. Pagal priešmokyklinio ugdymo programą ugdomam priešmokyklinio amžiaus vaikui ir jo tėvams (globėjams, rūpintojams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo ir mokslo ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 9 straipsnis. Pradinis ugdymas
 
@@ -362,6 +400,12 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 6. Pradinis išsilavinimas įgyjamas baigus pradinio ugdymo programą.
 
+7. Pagal pradinio ugdymo programą ugdomam mokiniui ir jo tėvams (globėjams, rūpintojams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo ir mokslo ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
+
 10 straipsnis. Pagrindinis ugdymas
 
 1. Pagrindinio ugdymo paskirtis – suteikti asmeniui dorinės, sociokultūrinės ir pilietinės brandos pagrindus, bendrąjį raštingumą, technologinio raštingumo pradmenis, ugdyti tautinį sąmoningumą, išugdyti siekimą ir gebėjimą apsispręsti, pasirinkti ir mokytis toliau.
@@ -371,6 +415,12 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 3. Pagrindinis ugdymas vykdomas pagal šešerių metų pagrindinio ugdymo programas. Pagrindinio ugdymo programų pirmoji dalis apima ketverių metų pagrindinio ugdymo tarpsnį, antroji dalis – dvejų metų pagrindinio ugdymo tarpsnį. Pagrindinio ugdymo programos įgyvendinamos vadovaujantis Pagrindinio ugdymo programos aprašu, Pagrindinio ugdymo bendrosiomis programomis, bendraisiais ugdymo planais, kuriuos tvirtina švietimo ir mokslo ministras. Į pagrindinio ugdymo programų antrąją dalį gali būti įtraukiami profesinio mokymo programų moduliai ir įskaitomi tęsiant mokymąsi pagal profesinio mokymo programas švietimo ir mokslo ministro nustatyta tvarka. Pagrindinis ugdymas gali būti vykdomas kartu su dailės, muzikiniu, meniniu, sportiniu ar kitu ugdymu.
 
 4. Pagrindinis išsilavinimas įgyjamas baigus pagrindinio ugdymo programą ir patikrinus mokymosi pasiekimus, išskyrus atvejus, kai asmuo švietimo ir mokslo ministro nustatytais atvejais yra atleidžiamas nuo mokymosi pasiekimų patikrinimo.
+
+5. Pagal pagrindinio ugdymo programą ugdomam mokiniui ir jo tėvams (globėjams, rūpintojams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo ir mokslo ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 11 straipsnis. Vidurinis ugdymas
 
@@ -383,6 +433,12 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 4. Į vidurinio ugdymo programą profesinio mokymo programų moduliai gali būti įskaitomi tęsiant mokymąsi pagal profesinio mokymo programas švietimo ir mokslo ministro nustatyta tvarka.
 
 5. Vidurinis išsilavinimas įgyjamas baigus vidurinio ugdymo programą ir išlaikius brandos egzaminus, išskyrus atvejus, kai asmuo švietimo ir mokslo ministro nustatytais atvejais yra atleidžiamas nuo brandos egzaminų.
+
+6. Pagal vidurinio ugdymo programą ugdomam mokiniui ir jo tėvams (globėjams, rūpintojams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo ir mokslo ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 12 straipsnis. Profesinis mokymas
 
@@ -397,6 +453,12 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 5. Atitinkamo lygio kvalifikacija suteikiama asmeniui, baigusiam profesinio mokymo programą ir (arba) nustatyta tvarka gavusiam jo įgytų kompetencijų įvertinimą.
 
 6. Profesinį mokymą nustato Lietuvos Respublikos profesinio mokymo įstatymas (toliau – Profesinio mokymo įstatymas).
+
+7. Pagal pirminio profesinio mokymo programą mokomam mokiniui ir jo tėvams (globėjams, rūpintojams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo ir mokslo ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 13 straipsnis. Aukštojo mokslo studijos
 
@@ -425,6 +487,12 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 6. Mokiniai, turintys specialiųjų ugdymosi poreikių, formaliojo švietimo programas gali baigti per trumpesnį ar ilgesnį negu nustatytą laiką, gali mokytis su pertraukomis, šias programas gali baigti atskirais moduliais. Mokiniai, turintys labai didelių ir didelių specialiųjų ugdymosi poreikių, bendrojo ugdymo mokyklose (klasėse), skirtose mokiniams, turintiems specialiųjų ugdymosi poreikių, gali mokytis iki 21 metų.
 
 7. Mokinių, turinčių specialiųjų ugdymosi poreikių, ugdymą įgyvendina visos privalomąjį ir visuotinį švietimą teikiančios mokyklos, kiti švietimo teikėjai, atskirais atvejais – mokyklos (klasės), skirtos mokiniams, turintiems specialiųjų ugdymosi poreikių, ugdyti.
+
+8. Vaikams ir asmenims iki 21 metų, turintiems specialiųjų ugdymosi poreikių ir ugdomiems (mokomiems) pagal ikimokyklinio, priešmokyklinio, bendrojo ugdymo, pirminio profesinio mokymo programas, ir jų tėvams (globėjams, rūpintojams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo ir mokslo ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 15 straipsnis. Kitas neformalusis vaikų švietimas
 
@@ -482,7 +550,11 @@ Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
 
 1. Psichologinės pagalbos paskirtis – stiprinti mokinių psichologinį atsparumą ir psichikos sveikatą, prevencinėmis priemonėmis skatinti saugios ir palankios ugdymuisi aplinkos mokykloje kūrimą, padėti mokiniams atgauti dvasinę darną, gebėjimą gyventi ir mokytis, aktyviai bendradarbiaujant su jų tėvais (globėjais, rūpintojais).
 
-2. Asmenybės ir ugdymosi problemų turinčiam mokiniui psichologinė pagalba visuotinai teikiama pagalbos teikėjams bendradarbiaujant su mokinio tėvais (globėjais, rūpintojais) ir mokytojais, juos konsultuojant.
+2. Asmenybės ir ugdymosi problemų turinčiam, taip pat smurtaujančiam ar smurtą patyrusiam mokiniui psichologinė pagalba visuotinai teikiama pagalbos teikėjams bendradarbiaujant su mokinio tėvais (globėjais, rūpintojais) ir mokytojais, juos konsultuojant.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 3. Psichologinę pagalbą teikia, psichologinių problemų prevenciją vykdo pedagoginių psichologinių tarnybų, mokyklų psichologai, turintys psichologijos bakalauro ir psichologijos magistro kvalifikacinius laipsnius arba psichologijos magistro kvalifikacinį laipsnį baigus vientisąsias studijas arba švietimo ir mokslo ministro nustatyta tvarka prilygintą aukštojo mokslo kvalifikaciją, arba teisės aktų nustatyta tvarka pripažintą kaip lygiavertę užsienyje įgytą kvalifikaciją. Psichologinės pagalbos teikimo tvarką nustato švietimo ir mokslo ministras.
 
@@ -492,17 +564,29 @@ Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
 
 2. Mokykla, teikdama mokiniui socialinę pedagoginę pagalbą, bendradarbiauja su socialinę pagalbą teikiančiomis tarnybomis, sveikatos priežiūros ir teisėtvarkos institucijomis ir konsultuoja mokinio tėvus (globėjus, rūpintojus) ir mokytojus.
 
-3. Socialinės pedagoginės pagalbos teikimo tvarką vaikui ir mokiniui nustato švietimo ir mokslo ministras.
+3. Socialinę pedagoginę pagalbą teikia švietimo įstaigose, vaikų globos įstaigose ir kitose įstaigose ar organizacijose dirbantys socialiniai pedagogai, kurių išsilavinimas ir kvalifikacija atitinka švietimo ir mokslo ministro nustatytus reikalavimus. Socialinės pedagoginės pagalbos teikimo vaikams ir mokiniams tvarką nustato švietimo ir mokslo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 21 straipsnis. Specialioji pedagoginė ir specialioji pagalba
 
 1. Specialiosios pedagoginės ir specialiosios pagalbos paskirtis – didinti asmens, turinčio specialiųjų ugdymosi poreikių, ugdymosi veiksmingumą.
 
-2. Specialiąją pedagoginę pagalbą asmeniui iki 21 metų teikia pedagoginių psichologinių tarnybų, mokyklų specialieji pedagogai švietimo ir mokslo ministro nustatyta tvarka.
+2. Specialiąją pedagoginę pagalbą asmeniui iki 21 metų teikia specialieji pedagogai, logopedai, tiflopedagogai, surdopedagogai ir kiti specialistai, kurių išsilavinimas ir kvalifikacija atitinka švietimo ir mokslo ministro nustatytus reikalavimus. Specialiosios pedagoginės pagalbos teikimo asmenims iki 21 metų tvarką nustato švietimo ir mokslo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 3. Specialioji pagalba mokiniui, kuriam jos reikia, teikiama mokykloje. Jam teikiamos žodinės kalbos vertimo į gestų kalbą, teksto skaitymo ir konspektavimo bei kitos paslaugos, didinančios ugdymosi prieinamumą. Specialiosios pagalbos teikimo mokyklose (išskyrus aukštąsias mokyklas) tvarką nustato švietimo ir mokslo ministras. Aukštojoje mokykloje specialioji pagalba teikiama aukštosios mokyklos nustatyta tvarka.
 
-4. Pedagoginių psichologinių tarnybų, mokyklų specialieji pedagogai konsultuoja specialiosios pedagoginės pagalbos gavėjus, jų tėvus (globėjus, rūpintojus) ir mokytojus.
+4. Pedagoginėse psichologinėse tarnybose, mokyklose dirbantys specialieji pedagogai, logopedai, tiflopedagogai, surdopedagogai ir kiti specialistai konsultuoja specialiosios pedagoginės pagalbos gavėjus, jų tėvus (globėjus, rūpintojus) ir mokytojus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 22 straipsnis. Sveikatos priežiūra mokykloje
 
@@ -526,19 +610,55 @@ Nr. XII-1614, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06359
 
 23 straipsnis. Pagalba mokyklai ir mokytojui
 
-1. Pagalbos mokyklai ir mokytojui paskirtis – teikti informacinę, ekspertinę, konsultacinę ir kvalifikacijos tobulinimo pagalbą, didinančią švietimo veiksmingumą ir skatinančią mokyklos veiklos tobulinimą ir mokytojo profesinį tobulėjimą.
+1. Pagalbos mokyklai ir mokytojui paskirtis – teikti informacinę, ekspertinę, konsultacinę, psichologinę ir kvalifikacijos tobulinimo pagalbą, didinančią švietimo veiksmingumą ir skatinančią mokyklos veiklos tobulinimą ir mokytojo profesinį tobulėjimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 2. Mokyklai ir mokytojui padedama tobulinti veiklą, siekti geresnės švietimo kokybės konsultuojant, atliekant mokyklos veiklos kokybės įsivertinimą ir išorinį vertinimą bei sudarant sąlygas mokytojams tobulinti kvalifikaciją.
 
-3. Pagalbą mokykloms ir mokytojams teikia psichologinės, specialiosios pedagoginės, specialiosios, socialinės pedagoginės pagalbos teikėjai, kvalifikacijos tobulinimo, visuomenės sveikatos priežiūros specialistai, profesinės asociacijos ir kiti asmenys.
+3. Savivaldybėje koordinuotai teikiamų švietimo pagalbos, socialinių ir sveikatos priežiūros paslaugų vaikams nuo gimimo iki 18 metų (turintiems didelių ir labai didelių specialiųjų ugdymosi poreikių – iki 21 metų) ir jų tėvams (globėjams, rūpintojams) koordinavimą užtikrina savivaldybės administracijos valstybės tarnautojas – tarpinstitucinio bendradarbiavimo koordinatorius, kurio kvalifikacinius reikalavimus nustato švietimo ir mokslo ministras kartu su socialinės apsaugos ir darbo ministru ir sveikatos apsaugos ministru. Tarpinstitucinio bendradarbiavimo koordinatorius:
 
-4. Pedagoginių darbuotojų kvalifikacijos tobulinimas yra sudedamoji neformaliojo suaugusiųjų švietimo dalis. Valstybinių (išskyrus aukštųjų mokyklų darbuotojus) ir savivaldybių švietimo įstaigų pedagoginių darbuotojų kvalifikacija tobulinama vadovaujantis švietimo ir mokslo ministro patvirtintais nuostatais.
+1) koordinuoja koordinuotai teikiamas švietimo pagalbą, socialines ir sveikatos priežiūros paslaugas vaikams ir jų atstovams pagal įstatymą savivaldybėje, nustato šios pagalbos ir paslaugų poreikį;
 
-5. Kvalifikacijos tobulinimo programas įgyvendina švietimo ir mokslo ministro nustatyta tvarka akredituotos kvalifikacijos tobulinimo įstaigos.
+2) inicijuoja ir kartu su savivaldybės administracijos struktūriniais padaliniais, kitomis institucijomis ir organizacijomis rengia koordinuotai teikiamų švietimo pagalbos, socialinių ir sveikatos priežiūros paslaugų plėtros planą, buria specialistų grupę, teikiančią socialinės paramos ir sveikatos priežiūros paslaugas;
 
-TREČIASIS SKIRSNIS
+3) vykdo koordinuotai teikiamų švietimo pagalbos, socialinių ir sveikatos priežiūros paslaugų prieinamumo ir kokybės stebėseną, vadovaudamasis švietimo ir mokslo ministro kartu su socialinės apsaugos ir darbo ministru ir sveikatos apsaugos ministru nustatytais koordinuotai teikiamų švietimo pagalbos, socialinės paramos, sveikatos priežiūros paslaugų prieinamumo ir kokybės stebėsenos rodikliais ir tvarkos aprašu;
 
-ŠVIETIMO PRIEINAMUMAS IR KOKYBĖ
+4) informuoja vietos bendruomenę apie vaikų ir jų atstovų pagal įstatymą galimybes gauti švietimo pagalbos, socialines, sveikatos priežiūros paslaugas savivaldybėje;
+
+5) atlieka Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatyme nustatytas funkcijas;
+
+6) atlieka savivaldybės administracijos Vaiko gerovės komisijos pirmininko funkcijas;
+
+7) atlieka kitas teisės aktuose nustatytas funkcijas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
+
+4. Pedagoginių darbuotojų kvalifikacijos tobulinimas yra sudedamoji neformaliojo suaugusiųjų švietimo dalis. Ne rečiau kaip kartą per ketverius metus pedagoginiai darbuotojai privalo tobulinti kvalifikaciją mokinių socialinių ir emocinių kompetencijų ugdymo srityje. Valstybinių (išskyrus aukštųjų mokyklų darbuotojus) ir savivaldybių švietimo įstaigų pedagoginių darbuotojų kvalifikacija tobulinama vadovaujantis švietimo ir mokslo ministro patvirtintais nuostatais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
+
+5. Pedagoginių darbuotojų kvalifikacijos tobulinimas yra sudedamoji neformaliojo suaugusiųjų švietimo dalis. Valstybinių (išskyrus aukštųjų mokyklų darbuotojus) ir savivaldybių švietimo įstaigų pedagoginių darbuotojų kvalifikacija tobulinama vadovaujantis švietimo ir mokslo ministro patvirtintais nuostatais.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
+
+6. Kvalifikacijos tobulinimo programas įgyvendina švietimo ir mokslo ministro nustatyta tvarka akredituotos kvalifikacijos tobulinimo įstaigos.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 24 straipsnis. Lietuvos gyventojų teisė ir pareiga mokytis
 
@@ -842,10 +962,6 @@ MOKYKLŲ, PAGALBOS ĮSTAIGŲ STEIGIMAS, VEIKLA, PABAIGA IR PERTVARKYMAS
 
 3) aukštųjų mokyklų.
 
-2. Bendrojo ugdymo mokyklų tipai yra: pradinė mokykla, progimnazija, pagrindinė mokykla, vidurinė mokykla, gimnazija.
-
-2 dalies redakcija nuo 2017-09-01:
-
 2. Bendrojo ugdymo mokyklų tipai yra: pradinė mokykla, progimnazija, pagrindinė mokykla, gimnazija.
 
 Straipsnio dalies pakeitimai:
@@ -950,9 +1066,17 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 7) turėti kitų šio įstatymo nenustatytų teisių ir pareigų, jeigu jos neprieštarauja įstatymams.
 
-11. Mokykla privalo užtikrinti sveiką, saugią, užkertančią kelią smurto, prievartos apraiškoms ir žalingiems įpročiams aplinką, ugdymo, mokymo, studijų, švietimo programų vykdymą, atvirumą vietos bendruomenei, mokymo sutarties sudarymą ir sutartų įsipareigojimų vykdymą, geros kokybės švietimą.
+11. Mokykla privalo užtikrinti sveiką, saugią, užkertančią kelią smurto, prievartos apraiškoms ir žalingiems įpročiams aplinką, ugdymo, mokymo, studijų, švietimo programų vykdymą, atvirumą vietos bendruomenei, mokymo sutarties sudarymą ir sutartų įsipareigojimų vykdymą, geros kokybės švietimą. Švietimo įstaiga privalo sudaryti sąlygas kiekvienam mokiniui nuolat dalyvauti bent vienoje nuoseklioje, ilgalaikėje socialines ir emocines kompetencijas ugdančioje prevencinėje programoje, apimančioje smurto, alkoholio, tabako ir kitų psichiką veikiančių medžiagų vartojimo prevenciją, sveikos gyvensenos skatinimą, įgyvendinant pateiktas švietimo ir mokslo ministro patvirtintas rekomendacijas dėl smurto prevencijos įgyvendinimo mokyklose.
 
-12. Bendrojo ugdymo ir ikimokyklinio ugdymo mokyklose, profesinio mokymo įstaigose, vykdančiose pirminį profesinį mokymą, saugios ir palankios mokiniams aplinkos kūrimu rūpinasi Vaiko gerovės komisija. Ji organizuoja ir koordinuoja švietimo programų pritaikymą mokiniams, turintiems specialiųjų ugdymosi poreikių, švietimo pagalbos teikimą ir atlieka kitas su vaiko gerove susijusias funkcijas. Vaiko gerovės komisijos sudarymo ir jos darbo organizavimo tvarką nustato švietimo ir mokslo ministras.
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
+
+12. Švietimo įstaigose saugios ir palankios mokiniams aplinkos kūrimu rūpinasi Vaiko gerovės komisija. Ji organizuoja ir koordinuoja švietimo programų pritaikymą mokiniams, turintiems specialiųjų ugdymosi poreikių, švietimo pagalbos teikimą, atsižvelgdama į švietimo įstaigos poreikius, teikia švietimo įstaigos vadovui siūlymus dėl švietimo ir mokslo ministro patvirtintų rekomendacijų dėl smurto prevencijos įgyvendinimo mokyklose ir atlieka kitas su vaiko gerove susijusias funkcijas. Vaiko gerovės komisijos sudarymo ir jos darbo organizavimo tvarką nustato švietimo ir mokslo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 13. Mokykloje gali veikti mokinių ir jaunimo organizacijos, kurios skatina mokinių dorinį, tautinį, pilietinį sąmoningumą, patriotizmą, puoselėja kultūrinę ir socialinę brandą, padeda tenkinti jų saviugdos ir saviraiškos poreikius. Mokinių ir jaunimo organizacijos savo veiklą grindžia nustatyta tvarka įregistruotais įstatais, jų veikla neturi prieštarauti Lietuvos Respublikos Konstitucijai ir įstatymams.
 
@@ -1006,7 +1130,11 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 
 5) pasirinkti formaliojo švietimo programas papildančius ir jo saviraiškos poreikius tenkinančius šių programų modulius, pasirenkamųjų dalykų programas, kursus;
 
-6) į psichologinę, specialiąją pedagoginę, specialiąją, socialinę pedagoginę pagalbą, profesinį orientavimą ir švietimo informacinę pagalbą, sveikatos priežiūrą mokykloje, informaciją apie savo pasiekimų vertinimą ir kitą su mokymusi susijusią informaciją;
+6) į apsaugą nuo smurto, psichologinę, specialiąją pedagoginę, specialiąją, socialinę pedagoginę pagalbą, profesinį orientavimą ir švietimo informacinę pagalbą, sveikatos priežiūrą mokykloje, informaciją apie savo pasiekimų vertinimą ir kitą su mokymusi susijusią informaciją;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 7) mokytis savitarpio pagarba grįstoje, psichologiškai, dvasiškai ir fiziškai saugioje aplinkoje, turėti higienos reikalavimus atitinkančius mokymosi krūvį ir aplinką;
 
@@ -1017,6 +1145,12 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 10) įstatymų nustatyta tvarka ginti savo teises;
 
 11) naudotis kitomis Profesinio mokymo įstatymo ar Neformaliojo suaugusiųjų švietimo įstatymo ir kitų įstatymų nustatytomis teisėmis;
+
+12) į nuoseklų ir ilgalaikį socialinių ir emocinių kompetencijų ugdymą mokykloje.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 2. Mokinys privalo:
 
@@ -1029,6 +1163,12 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
+
+4) dalyvauti nuosekliose ir ilgalaikėse prevencinėse programose.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 47 straipsnis. Tėvų (globėjų, rūpintojų) teisės ir pareigos
 
@@ -1064,7 +1204,11 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 2) sudaryti vaikui sveikas ir saugias gyvenimo sąlygas, gerbti vaiko asmenybę, apsaugoti jį nuo smurto, prievartos ir išnaudojimo, užtikrinti, kad vaikas laiku pasitikrintų sveikatą;
 
-3) bendradarbiauti su mokyklos vadovu, kitu švietimo teikėju, mokytojais, kitais specialistais, teikiančiais specialiąją, psichologinę, socialinę pedagoginę, specialiąją pedagoginę pagalbą, sveikatos priežiūrą, sprendžiant vaiko ugdymosi klausimus ir vykdyti jų rekomendacijas;
+3) bendradarbiauti su mokyklos vadovu, kitu švietimo teikėju, mokytojais, kitais specialistais, teikiančiais specialiąją, psichologinę, socialinę pedagoginę, specialiąją pedagoginę pagalbą, sveikatos priežiūrą, sprendžiant vaiko ugdymosi klausimus ir vykdyti jų rekomendacijas. Vaikui smurtaujant ar patiriant smurtą, kartu su vaiku psichologo nurodytu laiku atvykti į konsultaciją;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 4) parinkti savo vaikams iki 14 metų dorinio ugdymo (tikybos arba etikos) programą;
 
@@ -1079,6 +1223,12 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 7) užtikrinti vaiko punktualų ir reguliarų mokyklos lankymą; jeigu vaikas negali atvykti į mokyklą, nedelsdami informuoti mokyklą;
 
 8) dalyvauti parenkant vaikui, turinčiam specialiųjų ugdymosi poreikių, ugdymo programą ir mokyklą;
+
+9) pranešti mokyklos vadovui apie žinomą smurto švietimo įstaigoje atvejį.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 48 straipsnis. Teisė dirbti mokytoju
 
@@ -1136,7 +1286,11 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 3) būti atestuotas ir įgyti kvalifikacinę kategoriją švietimo ir mokslo ministro nustatyta tvarka;
 
-4) dirbti savitarpio pagarba grįstoje, psichologiškai, dvasiškai ir fiziškai saugioje aplinkoje, turėti higienos reikalavimus atitinkančią ir tinkamai aprūpintą darbo vietą;
+4) dirbti savitarpio pagarba grįstoje, psichologiškai, dvasiškai ir fiziškai saugioje aplinkoje, būti apsaugotam nuo bet kokio smurto, turėti higienos reikalavimus atitinkančią ir tinkamai aprūpintą darbo vietą, gauti informacinę, ekspertinę, konsultacinę ir psichologinę pagalbą pedagoginėje psichologinėje tarnyboje arba iš psichologinės pagalbos teikėjo, su kuriuo savivaldybės vykdomoji institucija yra sudariusi sutartį dėl psichologinės pagalbos teikimo;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 5) dalyvauti mokyklos savivaldoje;
 
@@ -1152,13 +1306,21 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 3) laikytis švietimo įstaigų nusistatytų etikos normų ir švietimo įstaigos vidaus tvarką nustatančių dokumentų reikalavimų;
 
-4) tobulinti savo kvalifikaciją;
+4) tobulinti savo kvalifikaciją, socialines ir emocines kompetencijas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 5) ugdyti remdamasis mokinių gebėjimais ir polinkiais, stiprinti mokymosi motyvaciją ir pasitikėjimą savo gebėjimais, suteikti pagalbą mokiniams, turintiems ugdymosi, mokymosi sunkumų ir specialiųjų ugdymosi poreikių, pritaikyti jiems dalyko programą, turinį, metodus;
 
 6) nešališkai vertinti mokinių mokymosi pasiekimus ir nuolat juos informuoti apie mokymosi pažangą;
 
-7) mokyklos nustatyta tvarka informuoti tėvus (globėjus, rūpintojus) apie jų vaiko būklę, ugdymo ir ugdymosi poreikius, pažangą, mokyklos lankymą ir elgesį;
+7) mokyklos nustatyta tvarka informuoti tėvus (globėjus, rūpintojus) apie jų vaiko būklę, ugdymo ir ugdymosi poreikius, pažangą, mokyklos lankymą ir elgesį, taip pat informuoti švietimo įstaigos vadovą apie pastebėtą smurto atvejį;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 8) bendradarbiauti su kitais mokytojais, kad būtų pasiekti mokymo tikslai;
 
@@ -1318,6 +1480,12 @@ Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
 
 16) konkurso tvarka skirti biudžeto lėšas įstaigoms, įmonėms ir organizacijoms, vykdančioms švietimo, mokslo, kultūros ir sporto programas, projektus;
 
+17) parengti rekomendacijas dėl smurto prevencijos įgyvendinimo mokyklose.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
+
 58 straipsnis. Savivaldybės institucijų įgaliojimai švietimo valdymo srityje
 
 1. Savivaldybės atstovaujamoji institucija:
@@ -1334,7 +1502,13 @@ Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
 
 2) organizuoja ikimokyklinį ugdymą, priešmokyklinį ugdymą, bendrąjį ugdymą, profesinį mokymą ir profesinį orientavimą, kitą vaikų neformalųjį švietimą, suaugusiųjų neformalųjį švietimą;
 
-3) organizuoja ir koordinuoja švietimo pagalbos teikimą mokiniui, mokytojui, šeimai, mokyklai, vaiko minimalios priežiūros priemonių vykdymą;
+3) organizuoja ir koordinuoja švietimo pagalbos teikimą mokiniui, mokytojui, šeimai, mokyklai, vaiko minimalios priežiūros priemonių vykdymą, tvirtina prevencinių programų kriterijus, sudaro sutartis su psichologinės pagalbos teikėjais, teikiančiais švietimo pagalbą šio įstatymo 231 straipsnio 6 ir 7 dalyse nurodytais atvejais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 4) teisės aktų nustatyta tvarka skiria savivaldybės administracijos švietimo padalinių vadovus ir specialistus;
 
@@ -1362,7 +1536,11 @@ Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
 
 5. Švietimo įstaigos vadovas:
 
-1) vadovauja švietimo įstaigos strateginio plano ir metinių veiklos planų, švietimo programų rengimui, juos tvirtina, vadovauja jų vykdymui;
+1) vadovauja švietimo įstaigos strateginio plano ir metinių veiklos planų, švietimo programų rengimui, rekomendacijų dėl smurto prevencijos įgyvendinimo mokykloje priemonių įgyvendinimui, juos tvirtina, vadovauja jų vykdymui;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 2) nustatyta tvarka skiria ir atleidžia mokytojus, kitus ugdymo procese dalyvaujančius asmenis ir aptarnaujantį personalą, tvirtina jų pareigybių aprašymus;
 
@@ -2883,4 +3061,70 @@ Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
 Papildyta straipsniu:
 
 Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
+
+231 straipsnis. Apsauga nuo smurto švietimo įstaigose
+
+1. Švietimo įstaigose draudžiama bet kokia smurto forma, nukreipta:
+
+1) mokinių prieš mokinius;
+
+2) švietimo įstaigų darbuotojų prieš mokinius;
+
+3) mokinių prieš švietimo įstaigų darbuotojus;
+
+4) švietimo įstaigų darbuotojų prieš kitus tos įstaigos darbuotojus;
+
+5) mokinių tėvų (globėjų, rūpintojų) prieš mokinius, mokytojus.
+
+2. Bet kuris švietimo įstaigos bendruomenės narys apie pastebėtą šio straipsnio 1 dalyje nurodytą smurto atvejį privalo pranešti švietimo įstaigos vadovui.
+
+3. Tais atvejais, kai smurtauja ar smurtą patiria mokinys, švietimo įstaigos vadovas apie pastebėtą smurto atvejį nedelsdamas, bet ne vėliau kaip kitą darbo dieną, praneša ir smurtaujančio (smurtaujančių), ir smurtą patyrusio (patyrusių) mokinio (mokinių) tėvams (globėjams, rūpintojams), ir vaiko teisių ir teisėtų interesų apsaugą užtikrinančiai valstybės ir savivaldybės institucijai pagal kompetenciją.
+
+4. Tais atvejais, kai smurtauja ar smurtą patiria mokytojai, kiti švietimo įstaigos darbuotojai, švietimo įstaigos vadovas apie įvykusį smurto faktą nedelsdamas, bet ne vėliau kaip kitą darbo dieną, praneša atitinkamoje savivaldybėje veikiančiai pedagoginei psichologinei tarnybai ar atitinkamam psichologinės pagalbos teikėjui, su kuriuo savivaldybės vykdomoji institucija yra sudariusi sutartį dėl psichologinės pagalbos teikimo, ir rekomenduoja smurtavusiam ar smurtą patyrusiam asmeniui kreiptis psichologinės pagalbos.
+
+5. Šio straipsnio 3 dalyje nurodytais atvejais smurtavęs (smurtavę) ir smurtą patyręs (patyrę) nepilnametis (nepilnamečiai) asmuo (asmenys) kartu su jį (juos) lydinčiais tėvais (globėjais, rūpintojais) privalo neatlygintinai nedelsdamas (nedelsdami), bet ne vėliau kaip per 5 darbo dienas nuo pranešimo apie smurto faktą momento gauti psichologinę pagalbą. Psichologinės pagalbos trukmę nustato psichologas, įvertinęs kiekvieno smurto epizodo aplinkybių visumą ir atsižvelgdamas į švietimo ir mokslo ministro nustatytą psichologinės pagalbos teikimo tvarką.
+
+6. Švietimo įstaigos vadovas imasi priemonių, kad jo vadovaujamos švietimo įstaigos mokiniai, jų tėvai (globėjai, rūpintojai) turėtų galimybę neatlygintinai gauti psichologinę pagalbą.
+
+7. Šio straipsnio 4 dalyje nurodytais atvejais mokytojams, švietimo įstaigos darbuotojams psichologinė pagalba neatlygintinai pradedama teikti nedelsiant, bet ne vėliau kaip per 5 darbo dienas nuo pranešimo apie smurto faktą momento atvykus į atitinkamą pedagoginę psichologinę tarnybą arba atvykus pas atitinkamą psichologinės pagalbos teikėją, su kuriuo savivaldybės vykdomoji institucija yra sudariusi sutartį dėl psichologinės pagalbos teikimo.
+
+Papildyta straipsniu:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
+
+232 straipsnis. Pranešimas apie patyčias kibernetinėje erdvėje ir kitą draudžiamą ar ribojamą skleisti viešąją informaciją
+
+1. Sužinoję apie viešą patyčių kibernetinėje erdvėje panaudojus vaizdinę informaciją atvejį, ir smurtaujančio, ir smurtą patiriančio nepilnamečio mokinio tėvai (globėjai, rūpintojai) privalo, o kiti asmenys turi teisę apie tai pranešti Lietuvos Respublikos ryšių reguliavimo tarnybai (toliau – Ryšių reguliavimo tarnyba) pateikdami pranešimą interneto svetainėje adresu www.draugiskasinternetas.lt.
+
+2. Asmenys taip pat turi teisę pateikti pranešimą interneto svetainėje adresu www.draugiskasinternetas.lt, jeigu kibernetinėje erdvėje pastebi:
+
+1) viešąją informaciją, kuri pagal Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymą yra priskirtina draudžiamai skleisti informacijai, tai yra kuria iš vaikų ar kitų asmenų tyčiojamasi arba jie niekinami dėl tautybės, rasės, lyties, kilmės, neįgalumo, seksualinės orientacijos, socialinės padėties, kalbos, tikėjimo, įsitikinimų, pažiūrų ar kitais panašiais pagrindais arba kuri yra pornografinio turinio, skatina vaikų seksualinę prievartą, jų išnaudojimą, pateikia savitikslį smurtą ir (ar) yra kitais įstatymais draudžiama viešoji informacija;
+
+2) kitą negu šios dalies 1 punkte nurodytą viešąją informaciją, kuri pagal Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymą priskirtina neigiamą poveikį nepilnamečiams darančiai informacijai.
+
+3. Ryšių reguliavimo tarnyba, gavusi šio straipsnio 1 ar 2 dalyje nurodytą pranešimą, pagal kompetenciją įvertina pranešime pateiktą informaciją ir:
+
+1) jeigu pranešimas yra susijęs su šio straipsnio 1 dalyje ir (ar) 2 dalies 1 punkte nurodyta informacija, jeigu reikia, apie tai informuoja kompetentingas institucijas (pavyzdžiui, žurnalistų etikos inspektorių, policiją, Vaiko teisių apsaugos kontrolieriaus įstaigą) ir, bendradarbiaudama su jomis ir (ar) kitose valstybėse veikiančiomis nelegalaus ar žalingo turinio internete priežiūrą vykdančiomis kompetentingomis institucijomis ir su pranešimą apie viešą patyčių kibernetinėje erdvėje panaudojus vaizdinę informaciją atvejį pateikusiu asmeniu, siekia, kad šio straipsnio 1 dalyje ir (ar) 2 dalies 1 punkte nurodyta informacija būtų kuo greičiau pašalinta ar būtų panaikinta galimybė ją pasiekti; šiame punkte nurodyti Ryšių reguliavimo tarnybos veiksmai nepaneigia kompetentingų institucijų pareigos pagal kompetenciją išnagrinėti pranešimą teisės aktų nustatyta tvarka;
+
+2) jeigu pranešimas yra susijęs su šio straipsnio 2 dalies 2 punkte nurodyta informacija, apie tai informuoja kompetentingas institucijas (pavyzdžiui, žurnalistų etikos inspektorių, policiją, Vaiko teisių apsaugos kontrolieriaus įstaigą), o šios institucijos privalo pranešimą išnagrinėti pagal kompetenciją teisės aktų nustatyta tvarka;
+
+3) turi teisę duoti privalomus nurodymus elektroninės informacijos prieglobos paslaugų teikėjams pašalinti jų tarnybinėse stotyse saugomą šio straipsnio 1 dalyje ir (ar) 2 dalies 1 punkte nurodytą informaciją arba panaikinti galimybę pasiekti šią informaciją, taip pat nustatyti privalomų nurodymų įvykdymo terminą;
+
+4) turi teisę duoti privalomus nurodymus viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams panaikinti galimybę pasiekti šio straipsnio 1 dalyje ir (ar) 2 dalies 1 punkte nurodytą informaciją, taip pat nustatyti privalomų nurodymų įvykdymo terminą;
+
+5) turi teisę iš valstybės ir savivaldybės institucijų ir kitų asmenų gauti visą šiame straipsnyje nurodytoms funkcijoms įgyvendinti būtiną informaciją, įskaitant ir vertinimą, ar šio straipsnio 1 dalyje ir (ar) 2 dalies 1 punkte nurodytame pranešime nurodyta informacija priskirtina patyčioms ir (ar) viešajai informacijai, kuri pagal Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymą yra priskirtina draudžiamai skleisti informacijai.
+
+4. Elektroninės informacijos prieglobos paslaugų teikėjai, viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjai, gavę šio straipsnio 3 dalies 3 ar 4 punkte nurodytą Ryšių reguliavimo tarnybos nurodymą, privalo per Ryšių reguliavimo tarnybos nustatytą terminą pašalinti jų tarnybinėse stotyse saugomą šio straipsnio 1 dalyje ir (ar) 2 dalies 1 punkte nurodytą informaciją ar panaikinti galimybę pasiekti šią informaciją.
+
+5. Visuomenės informavimo įstatymo nustatyta tvarka viešosios informacijos rengėjai ir skleidėjai, siekdami prisidėti prie visuomenės švietimo, turi teisę dėti informacinius skydelius, skleisti šviečiamojo turinio informaciją ir socialinę reklamą apie patyčių kibernetinėje erdvėje ir kitos draudžiamos ar ribojamos skleisti informacijos prevenciją, įskaitant ir kreipimosi į Ryšių reguliavimo tarnybą tvarką.
+
+6. Už šio straipsnio 1 ar 4 dalyje nurodytų reikalavimų nesilaikymą taikomos administracinio poveikio priemonės, numatytos Lietuvos Respublikos administracinių nusižengimų kodekse ir kituose teisės aktuose.
+
+Papildyta straipsniu:
+
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
+
+TREČIASIS SKIRSNIS
+
+ŠVIETIMO PRIEINAMUMAS IR KOKYBĖ
 
