@@ -4,7 +4,7 @@ identifier: "TAR.717DD0E6FE37"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-02-13"
-last_updated: "2013-01-01"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.717DD0E6FE37"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo proceso ir  kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2017-08-31
+Suvestinė redakcija nuo 2017-09-01 iki 2020-08-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 20-520, i. k. 0961010ISTA00I-1202
 
@@ -53,21 +53,15 @@ Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010IS
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Saugomas asmuo – asmuo, kuriam taikomos šiame įstatyme numatytos apsaugos nuo nusikalstamo poveikio priemonės.
+1. Laisvės atėmimo vietos – arešto, terminuoto laisvės atėmimo, laisvės atėmimo iki gyvos galvos bausmes ir kardomąją priemonę – suėmimą vykdančios įstaigos.
 
-2. Laisvės atėmimo vietos – arešto, terminuoto laisvės atėmimo, laisvės atėmimo iki gyvos galvos bausmes ir kardomąją priemonę – suėmimą vykdančios įstaigos.
+2. Policijos kriminalinės žvalgybos subjektai – Policijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos kriminalinės policijos biuro ir teritorinių policijos įstaigų kriminalinę žvalgybą vykdantys padaliniai.
 
-3. Psichinė prievarta – įspėjimas apie ketinimą panaudoti specialią jėgą, šaunamąjį ginklą ar sprogstamąsias medžiagas. Psichinei prievartai prilyginami šaunamojo ginklo demonstravimas ir įspėjamieji šūviai.
+3. Saugomas asmuo – asmuo, kuriam taikomos šiame įstatyme numatytos apsaugos nuo nusikalstamo poveikio priemonės.
 
-4. Speciali jėga – bet kokio pobūdžio fizinė jėga, koviniai imtynių veiksmai ir specialiųjų priemonių naudojimas.
+Straipsnio pakeitimai:
 
-5. Specialiosios priemonės – guminės lazdos, antrankiai, surišimo priemonės, dujos, tarnybiniai šunys, transporto priverstinio sustabdymo ir kitos teisės aktų nustatytos aktyvios ir pasyvios gynybos priemonės.
-
-6. Policijos kriminalinės žvalgybos subjektai – Policijos departamento prie Vidaus reikalų ministerijos, Lietuvos kriminalinės policijos biuro ir teritorinių policijos įstaigų kriminalinę žvalgybą vykdantys padaliniai.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010ISTA0XI-2242
+Nr. XIII-492, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10913
 
 3 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių tikslas
 
@@ -255,9 +249,15 @@ Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010IS
 
 Kai išnyksta šio įstatymo 5 straipsnyje nurodyti pagrindai arba yra šio įstatymo 6 straipsnyje nurodytų aplinkybių, apsaugą nuo nusikalstamo poveikio paskyręs pareigūnas (pareigūnai) panaikina savo ankstesnį sprendimą paskirti apsaugos nuo nusikalstamo poveikio priemones. Šis sprendimas per 5 darbo dienas nuo supažindinimo gali būti skundžiamas Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. Apsaugos nuo nusikalstamo poveikio priemonės taikomos tol, kol bus priimtas galutinis sprendimas dėl apsaugos nuo nusikalstamo poveikio priemonių panaikinimo ar jų tolesnio taikymo.
 
-KETVIRTASIS SKIRSNIS
+4 skirsnis. Neteko galios nuo 2017-09-01
 
-PSICHINĖS PRIEVARTOS, SPECIALIOS JĖGOS, ŠAUNAMOJO GINKLO AR SPROGSTAMŲJŲ MEDŽIAGŲ PANAUDOJIMAS
+Skirsnio naikinimas:
+
+Nr. XIII-492, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10913
+
+PENKTASIS SKIRSNIS
+
+BAIGIAMOSIOS NUOSTATOS
 
 20 straipsnis. Psichinės prievartos, specialios jėgos, šaunamojo ginklo ar sprogstamųjų medžiagų panaudojimo bendrosios sąlygos
 
@@ -366,4 +366,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010ISTA0XI-2242
 
 Lietuvos Respublikos baudžiamojo proceso ir operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo pavadinimo ir 1, 2, 4, 5, 6, 15 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-492, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10913
+
+Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo Nr. I-1202 2 straipsnio pakeitimo ir ketvirtojo skirsnio pripažinimo netekusiu galios įstatymas
 
