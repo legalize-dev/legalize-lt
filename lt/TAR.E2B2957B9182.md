@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2017-04-08"
+last_updated: "2017-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-04-08 iki 2017-08-31
+Suvestinė redakcija nuo 2017-09-01 iki 2017-11-16
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
 
@@ -1738,9 +1738,17 @@ Nr. XI-2369, 2012-11-06, Žin., 2012, Nr. 135-6860 (2012-11-22)
 
 Valstybinė ir teritorinės ligonių kasos pagal kompetenciją užtikrina nustatytų rūšių asmens sveikatos priežiūros paslaugų apmokėjimą, kontroliuoja jų kiekį ir kokybę, atlieka privalomojo sveikatos draudimo lėšų naudojimo finansinę bei ekonominę analizę, teikia lėšas valstybės ir savivaldybių fondams, vykdo įstatymų ir ligonių kasų nuostatų nustatytas funkcijas.
 
-77 straipsnis. Sveikatos priežiūros tarnyba prie Vidaus reikalų ministerijos, Lietuvos kariuomenės padaliniai, vykdantys sveikatinimo veiklą, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos Sveikatos priežiūros skyrius, laisvės atėmimo vietų sveikatos priežiūros įstaigos ir Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos pavaldžių laisvės atėmimo vietų sveikatos priežiūros tarnybos
+77 straipsnis. Vidaus reikalų ministro valdymo srities įstaiga, vykdanti sveikatinimo veiklą, Lietuvos kariuomenės padaliniai, vykdantys sveikatinimo veiklą, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos Sveikatos priežiūros skyrius, laisvės atėmimo vietų sveikatos priežiūros įstaigos ir Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos pavaldžių laisvės atėmimo vietų sveikatos priežiūros tarnybos
 
-1. Sveikatos priežiūros tarnybą prie Vidaus reikalų ministerijos steigia ir jos nuostatus tvirtina Vyriausybė ar jos įgaliota Vidaus reikalų ministerija. Ši tarnyba yra juridinis asmuo. Jos veikla finansuojama iš valstybės biudžeto.
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIII-298, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06975
+
+1. Vidaus reikalų ministro valdymo srities įstaiga, vykdanti sveikatinimo veiklą, steigiama įstatymų nustatyta tvarka. Vidaus reikalų ministro valdymo srities įstaigos, vykdančios  sveikatinimo veiklą, nuostatus tvirtina vidaus reikalų ministras, suderinęs su sveikatos apsaugos ministru. Jos veikla finansuojama iš Vidaus reikalų ministerijai skirtų valstybės biudžeto lėšų, taip pat iš Privalomojo sveikatos draudimo fondo biudžeto lėšų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-298, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06975
 
 2. Lietuvos kariuomenės padalinius, vykdančius sveikatinimo veiklą, steigia ir jų nuostatus tvirtina krašto apsaugos ministras, suderinęs su sveikatos apsaugos ministru. Jų veikla finansuojama iš Krašto apsaugos ministerijai skirtų valstybės biudžeto lėšų, išskyrus privalomuoju sveikatos draudimu apdraustiems asmenims teikiamas pirminės asmens sveikatos priežiūros paslaugas, kurios finansuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų.
 
@@ -1760,11 +1768,15 @@ Nr. XII-1644, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06586
 
 6. Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos Sveikatos priežiūros skyriaus, laisvės atėmimo vietų sveikatos priežiūros įstaigų ir Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos pavaldžių laisvės atėmimo vietų sveikatos priežiūros tarnybų veikla finansuojama iš valstybės biudžeto.
 
-7. Sveikatos priežiūros tarnyba prie Vidaus reikalų ministerijos, Lietuvos kariuomenės padaliniai, vykdantys sveikatinimo veiklą, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos Sveikatos priežiūros skyrius, laisvės atėmimo vietų sveikatos priežiūros įstaigos ir Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos pavaldžių laisvės atėmimo vietų sveikatos priežiūros tarnybos:
+7. Vidaus reikalų ministro valdymo srities įstaiga, vykdanti sveikatinimo veiklą, Lietuvos kariuomenės padaliniai, vykdantys sveikatinimo veiklą, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos Sveikatos priežiūros skyrius, laisvės atėmimo vietų sveikatos priežiūros įstaigos ir Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos pavaldžių laisvės atėmimo vietų sveikatos priežiūros tarnybos:
 
 1) įgyvendina šio ir kitų įstatymų Vidaus reikalų ministerijos, Krašto apsaugos ministerijos ir Teisingumo ministerijos specialiajai kompetencijai priskiriamą sveikatinimo veiklą;
 
 2) vykdo įstatymų ir šių institucijų bei įstaigų nuostatuose numatytas kitas funkcijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-298, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06975
 
 Straipsnio pakeitimai:
 
@@ -2631,6 +2643,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-248, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05919
 
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 67 straipsnio pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-298, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06975
+
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 77 straipsnio pakeitimo įstatymas
 
 ir trečioji dalys, 94, 95 straipsniai, 96 straipsnis, 98  straipsnio antroji ir
 
