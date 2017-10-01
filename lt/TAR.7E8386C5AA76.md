@@ -4,7 +4,7 @@ identifier: "TAR.7E8386C5AA76"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2014-11-01"
+last_updated: "2017-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos regioninės plėtros įstatymas
 
-Suvestinė redakcija nuo 2014-11-01 iki 2017-09-30
+Suvestinė redakcija nuo 2017-10-01 iki 2018-09-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1987, i. k. 1001010ISTAIII-1889
 
@@ -312,9 +312,17 @@ d) svarsto atskirų valdymo sričių (sektorių) planavimo dokumentus, kuriuose 
 
 15 straipsnis. Regionų plėtros tarybos ir jų įgaliojimai
 
-1. Regiono plėtros taryba sudaroma iš regiono savivaldybių merų, deleguotų savivaldybių tarybų narių ir Vyriausybės arba jos įgaliotos institucijos paskirto asmens.
+1. Regiono plėtros taryba sudaroma iš regiono savivaldybių merų, deleguotų savivaldybių tarybų narių, Vyriausybės paskirto asmens ir socialinių ir ekonominių partnerių atstovų. Socialinių ir ekonominių partnerių pasiūlyti atstovai, kuriuos skiria Vyriausybė arba jos įgaliota institucija, turi sudaryti 1/3 visų regiono plėtros tarybos narių (apskaičiuojant jų skaičius yra aritmetiškai suapvalinamas). Socialinių ir ekonominių partnerių pasiūlyti atstovai į regiono plėtros tarybą skiriami ir iš jos atšaukiami Vyriausybės nustatyta tvarka.
 
-2. Regiono plėtros tarybos sudėtį per 3 mėnesius nuo galutinių savivaldybių tarybų rinkimų rezultatų paskelbimo tvirtina vidaus reikalų ministras. Vyriausybės ar jos įgaliotos institucijos paskirtas regiono plėtros tarybos narys kviečia pirmąjį regiono plėtros tarybos posėdį ir pirmininkauja regiono plėtros tarybos posėdžiams tol, kol regiono plėtros taryba išsirenka pirmininką.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-583, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11951
+
+2. Regiono plėtros tarybos sudėtį per 3 mėnesius nuo galutinių savivaldybių tarybų rinkimų rezultatų paskelbimo tvirtina vidaus reikalų ministras. Vyriausybės paskirtas regiono plėtros tarybos narys kviečia pirmąjį regiono plėtros tarybos posėdį ir pirmininkauja regiono plėtros tarybos posėdžiams tol, kol regiono plėtros taryba išsirenka pirmininką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-583, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11951
 
 3. Savivaldybių tarybų narius į regiono plėtros tarybą deleguoja savivaldybių tarybos pagal kiekvienos savivaldybės gyventojų skaičių:
 
@@ -326,7 +334,11 @@ d) svarsto atskirų valdymo sričių (sektorių) planavimo dokumentus, kuriuose 
 
 4. Savivaldybės gyventojų skaičius nustatomas pagal kalendorinių metų, einančių prieš kalendorinius metus, kuriais vyko paskutiniai savivaldybių tarybų rinkimai, sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje, šio tvarkytojo nuostatuose nustatyta tvarka ir per nustatytus terminus.
 
-5. Socialiniai ir ekonominiai partneriai regiono plėtros tarybos darbe dalyvauja patariamojo balso teise. Socialinius ir ekonominius partnerius į savo posėdžius kviečia regiono plėtros taryba.
+5. Kiti, nei vadovaujantis šio straipsnio 1 dalimi paskirti, socialinių ir ekonominių partnerių atstovai regiono plėtros tarybos darbe dalyvauja patariamojo balso teise. Socialinius ir ekonominius partnerius į savo posėdžius kviečia regiono plėtros taryba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-583, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11951
 
 6. Regionų, kuriuos sudaro Vyriausybė, plėtros tarybų sudarymo tvarką, vadovaudamasi šiuo įstatymu, nustato Vyriausybė.
 
@@ -485,4 +497,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1094, 2014-09-18, paskelbta TAR 2014-10-01, i. k. 2014-13329
 
 Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-583, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11951
+
+Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 15 straipsnio pakeitimo įstatymas
 
