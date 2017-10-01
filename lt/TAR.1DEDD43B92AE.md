@@ -4,7 +4,7 @@ identifier: "TAR.1DEDD43B92AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-03"
-last_updated: "2017-06-01"
+last_updated: "2017-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2017-06-01 iki 2017-09-30
+Suvestinė redakcija nuo 2017-10-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
 
@@ -235,17 +235,25 @@ Nr. XIII-303, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06979
 
 7) Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys ar suteikiantys teisę gyventi Lietuvos Respublikoje, ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas. Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio šeimos nariais laikomi sutuoktinis arba asmuo, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginiai palikuonys, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, įskaitant sutuoktinio arba asmens, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginius palikuonis, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio, sutuoktinio ar asmens, su kuriuo sudaryta registruotos partnerystės sutartis, išlaikomi giminaičiai pagal tiesiąją aukštutinę liniją;
 
-8) užsieniečiams, kuriems leidimas laikinai gyventi Lietuvos Respublikoje išduotas kaip perkeltiems įmonės viduje ne trumpesniam kaip 9 mėnesių laikotarpiui.
+8) užsieniečiams, kuriems leidimas laikinai gyventi Lietuvos Respublikoje išduotas kaip perkeltiems įmonės viduje ne trumpesniam kaip 9 mėnesių laikotarpiui;
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-303, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06979
 
-3. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas atitinka šio straipsnio 2 dalies 1, 2 ar 7 punkto nuostatas. Išmoka vaikui skiriama, jeigu šio straipsnio 2 dalies 1, 2, 4, 5, 7 ar 8 punkto nuostatas atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas arba jeigu šio straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje. Išmoka privalomosios pradinės karo tarnybos kario vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ir vaikas atitinka šio straipsnio 2 dalies 1 ar 2 punkto nuostatas. Vienkartinė išmoka įsikurti skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1 ar 2 punkte. Vienkartinė išmoka nėščiai moteriai skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1, 2 ar 7 punkte. Išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai ir išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas atitinka šio straipsnio 2 dalies 1 ar 2 punkto nuostatas.
+9) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-446, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10809
+
+3. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas atitinka šio straipsnio 2 dalies 1, 2, 7 ar 9 punkto nuostatas. Išmoka vaikui skiriama, jeigu šio straipsnio 2 dalies 1, 2, 4, 5, 7, 8 ar 9 punkto nuostatas atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas arba jeigu šio straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje. Išmoka privalomosios pradinės karo tarnybos kario vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ir vaikas atitinka šio straipsnio 2 dalies 1 ar 2 punkto nuostatas. Vienkartinė išmoka įsikurti skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1 ar 2 punkte. Vienkartinė išmoka nėščiai moteriai skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1, 2, 7 ar 9 punkte. Išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai ir išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas atitinka šio straipsnio 2 dalies 1, 2 ar 9 punkto nuostatas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-303, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06979
+
+Nr. XIII-446, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10809
 
 4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
@@ -307,7 +315,11 @@ Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
 2. Išmokoms administruoti skiriama nuo 2 iki 4 procentų šio įstatymo reglamentuotoms išmokoms mokėti skirtų lėšų. Konkretų išmokoms administruoti skiriamų lėšų procento dydį iki biudžetinių metų pradžios nustato socialinės apsaugos ir darbo ministras. Išmokoms administruoti panaudojama ne didesnė lėšų suma negu nustatytas išmokoms administruoti skiriamų lėšų procento dydis nuo panaudotų lėšų išmokoms mokėti.
 
-3. Valstybės biudžeto lėšų išmokoms administruoti paskirstymo, pervedimo, tikslinimo, naudojimo, atsiskaitymo už jas ir kontrolės tvarką nustato socialinės apsaugos ir darbo ministras.
+3. Valstybės biudžeto lėšų išmokoms mokėti ir administruoti paskirstymo, pervedimo, tikslinimo, naudojimo, atsiskaitymo už jas ir kontrolės tvarką nustato socialinės apsaugos ir darbo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-446, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10809
 
 Straipsnio pakeitimai:
 
