@@ -4,7 +4,7 @@ identifier: "TAR.9BC8AEE9D9F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "2017-01-01"
+last_updated: "2017-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9BC8AEE9D9F8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-09-30
+Suvestinė redakcija nuo 2017-10-01 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 3-37, i. k. 0941010ISTA000I-733
 
@@ -46,7 +46,11 @@ BENDROSIOS NUOSTATOS
 
 7 straipsnis. Valstybinė kultūros paveldo komisija
 
-Valstybinė kultūros paveldo komisija yra Seimo, Respublikos Prezidento ir Vyriausybės ekspertas ir patarėjas valstybinės nekilnojamojo kultūros paveldo apsaugos politikos klausimais. Komisijos valdymą, finansavimą, uždavinius ir teises nustato Valstybinės kultūros paveldo komisijos įstatymas.
+Valstybinė kultūros paveldo komisija yra Lietuvos Respublikos Seimo, Lietuvos Respublikos Prezidento ir Lietuvos Respublikos Vyriausybės ekspertė ir patarėja valstybinės kultūros paveldo apsaugos politikos, jos įgyvendinimo, vertinimo ir tobulinimo klausimais. Komisija atskaitinga Seimui. Komisijos valdymą, finansavimą, uždavinius ir teises nustato Valstybinės kultūros paveldo komisijos įstatymas.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-582, 2017-06-30, paskelbta TAR 2017-07-13, i. k. 2017-12167
 
 TREČIASIS SKIRSNIS
 
@@ -462,7 +466,11 @@ Nr. XII-549, 2013-10-10, Žin., 2013, Nr. 111-5489 (2013-10-24)
 
 2. Nacionalinio reikšmingumo lygmens kultūros paveldo objektus ir vietoves kultūros ministro teikimu, pritarus Valstybinei kultūros paveldo komisijai, Vyriausybė skelbia kultūros paminklais. Kultūros paminklus, kurie dėl išskirtinės mokslinės, istorinės ar kultūrinės vertės turi būti prieinami visuomenei, Vyriausybė kultūros ministro teikimu įrašo į Valstybinės reikšmės istorijos, archeologijos ir kultūros objektų sąrašą. Privačios nuosavybės prieinamų visuomenei lankyti kultūros paminklų, įrašytų į Valstybinės reikšmės istorijos, archeologijos ir kultūros objektų sąrašą, tvarkybos finansavimo ir tvarkomųjų paveldosaugos darbų išlaidų kompensavimo tvarką nustato Vyriausybė.
 
-3. Nacionalinio reikšmingumo lygmens kultūros paveldo objektus ir vietoves, kurie neskelbiami kultūros paminklais, ir regioninio reikšmingumo lygmens kultūros paveldo objektus ir vietoves valstybės saugomais skelbia kultūros ministras. Objektai ir vietovės atrenkami atsižvelgiant į nustatytas nekilnojamojo kultūros paveldo objektų ir vietovių vertingąsias savybes ir reikšmingumo kriterijus, jų kultūrinę vertę ir visuomeninę reikšmę.
+3. Nacionalinio reikšmingumo lygmens kultūros paveldo objektus ir vietoves, kurie neskelbiami kultūros paminklais, ir regioninio reikšmingumo lygmens kultūros paveldo objektus ir vietoves valstybės saugomais skelbia kultūros ministras. Dėl nacionalinio reikšmingumo lygmens kultūros paveldo objektų ir vietovių, kurie neskelbiami kultūros paminklais, skelbimo valstybės saugomais būtinas Valstybinės kultūros paveldo komisijos pritarimas. Objektai ir vietovės atrenkami atsižvelgiant į nustatytas nekilnojamojo kultūros paveldo objektų ir vietovių vertingąsias savybes ir reikšmingumo kriterijus, jų kultūrinę vertę ir visuomeninę reikšmę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-582, 2017-06-30, paskelbta TAR 2017-07-13, i. k. 2017-12167
 
 4. Vietinio reikšmingumo lygmens kultūros paveldo objektus ir vietoves savivaldybės saugomais skelbia savivaldybės taryba.
 
@@ -1511,6 +1519,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2619, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24193
 
 Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 5, 6 ir 31-1 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-582, 2017-06-30, paskelbta TAR 2017-07-13, i. k. 2017-12167
+
+Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 7 ir 10 straipsnių pakeitimo įstatymas
 
 231 straipsnis. Teisė vykdyti su nekilnojamojo kultūros paveldo tvarkyba susijusią veiklą
 
