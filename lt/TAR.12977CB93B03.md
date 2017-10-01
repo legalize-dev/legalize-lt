@@ -4,7 +4,7 @@ identifier: "TAR.12977CB93B03"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-23"
-last_updated: "2017-05-01"
+last_updated: "2017-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
-Suvestinė redakcija nuo 2017-05-01 iki 2017-09-30
+Suvestinė redakcija nuo 2017-10-01 iki 2018-09-30
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
 
@@ -82,7 +82,11 @@ LAIDOJIMO PAŠALPA
 
 3) Lietuvos Respublikoje gyvenusiems užsieniečiams, kuriems leidimas laikinai gyventi Lietuvos Respublikoje buvo išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą;
 
-4) Lietuvos Respublikoje gyvenusiems asmenims, kuriems Lietuvos Respublikoje buvo suteiktas pabėgėlio statusas;
+4) Lietuvos Respublikoje gyvenusiems užsieniečiams, kuriems buvo suteiktas prieglobstis Lietuvos Respublikoje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-447, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10811
 
 5) asmenims, kuriems vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais turi būti taikomas šis įstatymas;
 
@@ -287,4 +291,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-302, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06978
 
 Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 2, 5 straipsnių ir priedo pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-447, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10811
+
+Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 5 straipsnio pakeitimo įstatymas
 
