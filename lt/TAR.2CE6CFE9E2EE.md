@@ -4,7 +4,7 @@ identifier: "TAR.2CE6CFE9E2EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-29"
-last_updated: "2017-06-28"
+last_updated: "2017-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2017-06-28
+Suvestinė redakcija nuo 2017-10-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
 
@@ -44,9 +44,23 @@ BENDROSIOS NUOSTATOS
 
 2. Šis įstatymas nustato šalpos pensijų rūšis, šių pensijų finansavimo šaltinį, teisę į šalpos pensijas turinčius asmenis, šių pensijų skyrimo ir mokėjimo sąlygas bei tvarką. Šio įstatymo nustatyta tvarka taip pat skiriamos ir mokamos šio įstatymo 12 straipsnyje nurodytos šalpos kompensacijos bei mokamos šalpos pensijos už invalidų slaugą namuose, paskirtos iki 2004 m. balandžio 1 d., ir socialinės pensijos, paskirtos iki 1995 m. sausio 1 d.
 
-3. Šis įstatymas taikomas Europos Sąjungos valstybių narių ar Europos ekonominės erdvės susitarimą sudariusių valstybių piliečiams ir jų šeimų nariams, nuolat Lietuvos Respublikoje gyvenantiems užsieniečiams, Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka deklaravusiems gyvenamąją vietą Lietuvos Respublikoje (neturintiems gyvenamosios vietos – įtrauktiems į gyvenamosios vietos neturinčių asmenų apskaitą pagal savivaldybę, kurios teritorijoje gyvena), asmenims, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis įstatymas.
+3. Šis įstatymas taikomas asmenims, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje (neturintiems gyvenamosios vietos – apie savivaldybę, kurios teritorijoje gyvena) yra įrašyti į Lietuvos Respublikos gyventojų registrą:
 
-4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+1) Lietuvos Respublikos piliečiams;
+
+2) Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys ar suteikiantys teisę gyventi Lietuvos Respublikoje;
+
+3) užsieniečiams, turintiems Lietuvos Respublikos ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje;
+
+4) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje.
+
+4. Šis įstatymas taip pat taikomas asmenims, kuriems taikomi Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentai.
+
+5. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-449, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10813
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
