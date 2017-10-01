@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2017-07-01"
+last_updated: "2017-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-09-30
+Suvestinė redakcija nuo 2017-10-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
 
@@ -550,7 +550,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 
-4) užsieniečiams, kuriems suteikta papildoma apsauga arba laikinoji apsauga Lietuvos Respublikoje, išskyrus integracijos laikotarpiu gaunančius paramą iš integracijai skirtų lėšų.
+4) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje arba laikinoji apsauga.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-448, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10812
 
 3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
