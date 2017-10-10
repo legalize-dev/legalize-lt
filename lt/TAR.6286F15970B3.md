@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "2015-01-01"
+last_updated: "2017-10-10"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2017-10-09
+Suvestinė redakcija nuo 2017-10-10 iki 2017-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -424,7 +424,11 @@ Nr. XII-216, 2013-03-28, Žin., 2013, Nr. 36-1727 (2013-04-06), i. k. 1131010IST
 
 2. Valstybinė atominės energetikos saugos inspekcija yra iš valstybės biudžeto išlaikoma biudžetinė įstaiga, turinti sąskaitą banke, antspaudą su Lietuvos Respublikos valstybės herbu ir savo pavadinimu. Valstybinės atominės energetikos saugos inspekcijos lėšų šaltiniai yra valstybės biudžeto asignavimai ir kitos teisėtai gaunamos pajamos.
 
-3. Atlikdama įstatymų nustatytas funkcijas, Valstybinė atominės energetikos saugos inspekcija sprendimus priima savarankiškai. Valstybinės atominės energetikos saugos inspekcijos funkcijos yra atskirtos nuo kitų institucijų, įstaigų ar organizacijų, užsiimančių branduolinės energetikos plėtra ar branduolinės energijos panaudojimu, įskaitant elektros energijos gamybą, funkcijų. Valstybinės atominės energetikos saugos inspekcijos struktūra, kompetencija ir aprūpinimas ištekliais turi atitikti Lietuvos Respublikoje vykdomos ir planuojamos vykdyti branduolinės energetikos srities veiklos, veiklos su branduolinėmis medžiagomis ir kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais pobūdį ir mastą.
+3. Atlikdama įstatymų nustatytas funkcijas, Valstybinė atominės energetikos saugos inspekcija sprendimus priima savarankiškai. Valstybinės atominės energetikos saugos inspekcijos funkcijos yra atskirtos nuo kitų institucijų, įstaigų ar organizacijų, užsiimančių branduolinės energetikos plėtra ar branduolinės energijos panaudojimu, įskaitant elektros energijos gamybą, funkcijų. Valstybinės atominės energetikos saugos inspekcijos struktūra, kompetencija ir aprūpinimas ištekliais turi atitikti Lietuvos Respublikoje vykdomos ir planuojamos vykdyti branduolinės energetikos srities veiklos, veiklos su branduolinėmis medžiagomis ir kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais pobūdį ir mastą ir būti tokie, kad ši inspekcija galėtų vykdyti šio įstatymo, Branduolinės saugos įstatymo, Radioaktyviųjų atliekų tvarkymo įstatymo ir Radiacinės saugos įstatymo jai pavestas vykdyti funkcijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-654, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16004
 
 4. Valstybinė atominės energetikos saugos inspekcija turi teisę suinteresuotiems asmenims jų prašymu teikti branduolinės saugos, radiacinės saugos, fizinės saugos, veiklos su branduolinėmis medžiagomis, kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais tyrimų, bandymų, mokymų ir ekspertizės paslaugas. Paslaugų įkainius ir apmokėjimo už paslaugas tvarką, pagrįsdamas būtinomis veiklos sąnaudomis, nustato Valstybinės atominės energetikos saugos inspekcijos viršininkas, suderinęs su Vyriausybės įgaliota institucija.
 
@@ -890,7 +894,11 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2009 m. birželio 25 d. Tarybos direktyva 2009/71/Euratomas, kuria nustatoma Bendrijos branduolinių įrenginių branduolinės saugos sistema (OL 2009 L 172, p. 18).
+1. 2009 m. birželio 25 d. Tarybos direktyva 2009/71/Euratomas, kuria nustatoma Bendrijos branduolinių įrenginių branduolinės saugos sistema (OL 2009 L 172, p. 18), su paskutiniais pakeitimais, padarytais 2014 m. liepos 8 d. Tarybos direktyva 2014/87/Euratomas, kuria iš dalies keičiama Direktyva 2009/71/Euratomas, kuria nustatoma Bendrijos branduolinių įrenginių branduolinės saugos sistema (OL 2014 L 219, p. 42).
+
+Punkto pakeitimai:
+
+Nr. XIII-654, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16004
 
 2. 2011 m. liepos 19 d. Tarybos direktyva 2011/70/Euratomas, kuria nustatoma panaudoto branduolinio kuro ir radioaktyviųjų atliekų atsakingo ir saugaus tvarkymo Bendrijos sistema (OL 2011 L 199, p. 48).
 
@@ -1051,6 +1059,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1174, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13573
 
 Lietuvos Respublikos branduolinės energijos įstatymo Nr. XI-1537 42 straipsnio pakeitimo įstatymas
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-287, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07277
+
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 2, 7, 15, 16, 19, 20, 22, 23, 24, 25, 29, 30, 33, 34, 35, 36, 50 straipsnių pakeitimo ir Įstatymo papildymo 50-1 straipsniu įstatymas
+
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-654, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16004
+
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 7, 15, 17, 21, 23, 24, 30, 39 straipsnių ir priedo pakeitimo ir 45 straipsnio pripažinimo netekusiu galios įstatymas
 
 54 straipsnis. Branduolinės avarijos likvidavimas
 
