@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2017-10-01"
+last_updated: "2017-10-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2017-10-01 iki 2017-10-25
+Suvestinė redakcija nuo 2017-10-26 iki 2017-12-04
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -1401,7 +1401,11 @@ Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 
 3. Jeigu įtariamasis yra suimtas, teisę susipažinti su ikiteisminio tyrimo duomenimis ir teisę daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus turi jo gynėjas, o atsisakius gynėjo – įtariamasis.
 
-4. Jeigu įtariamasis – užsienio valstybės pilietis yra ne Lietuvos Respublikos teritorijoje, teisę susipažinti su ikiteisminio tyrimo dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, duomenimis ir teisę daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus turi jo gynėjas.
+4. Jeigu įtariamasis yra ne Lietuvos Respublikos teritorijoje, teisę susipažinti su ikiteisminio tyrimo dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, arba dėl nusikaltimo, kuriuo padaryta didelės žalos, duomenimis ir teisę daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus turi jo gynėjas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
 
 5. Turintys teisę paduoti skundą dėl sprendimo nutraukti ikiteisminį tyrimą asmenys, nurodyti šio Kodekso 214 straipsnio 3 dalyje, turi teisę šio straipsnio 1 ir 6 dalyse nustatyta tvarka susipažinti su visa nutraukto ikiteisminio tyrimo medžiaga ar jos dalimi.
 
@@ -3461,7 +3465,11 @@ Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 7. Atlikus šiame straipsnyje numatytus veiksmus, prokuroras surašo kaltinamąjį aktą.
 
-8. Jeigu įtariamasis – užsienio valstybės pilietis yra ne Lietuvos Respublikos teritorijoje, prokuroras siunčia pranešimą apie ikiteisminio tyrimo dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, pabaigą Lietuvos Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo įstaigoms užsienio valstybėje.
+8. Jeigu įtariamasis yra ne Lietuvos Respublikos teritorijoje, prokuroras siunčia pranešimą apie ikiteisminio tyrimo dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, arba dėl nusikaltimo, kuriuo padaryta didelės žalos, pabaigą Lietuvos Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo įstaigoms užsienio valstybėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
 
 Straipsnio pakeitimai:
 
@@ -3841,6 +3849,12 @@ Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
 
 3. Šio straipsnio 1 ir 2 dalyse nurodytais atvejais teismas praneša kaltinamajam ir jo gynėjui apie teisę prašyti pertraukos pasirengti gynybai. Patenkinęs tokį prašymą, teismas nustato konkretų pertraukos laiką.
 
+4. Jeigu kaltinamasis yra ne Lietuvos Respublikos teritorijoje, šio straipsnio 1 ir 2 dalyse nurodytais atvejais teismo pranešimas bylose dėl nusikaltimų, už kuriuos numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, arba dėl nusikaltimų, kuriais padaryta didelės žalos, siunčiamas Lietuvos Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo įstaigoms užsienio valstybėje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
+
 Straipsnio pakeitimai:
 
 Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
@@ -3937,7 +3951,11 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 1. Apskųsti įsiteisėjusį teismo nuosprendį ar nutartį remiantis šio Kodekso 369 straipsnyje numatytais pagrindais turi teisę prokuroras, nukentėjusysis, jo atstovas, nuteistasis, išteisintasis, asmuo, kuriam byla nutraukta, jų gynėjas ir atstovas pagal įstatymą, asmuo, kuriam paskirtos ar nepaskirtos priverčiamosios medicinos priemonės, jo gynėjas, atstovas pagal įstatymą, šeimos nariai ar artimieji giminaičiai, taip pat civilinis ieškovas, civilinis atsakovas ir jų atstovai, užstato davėjas, asmuo, kurio turtas ar jo vertę atitinkanti pinigų suma konfiskuoti, jų atstovas.
 
-2. Nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, gynėjas turi teisę paduoti kasacinį skundą tik tuo atveju, kai tai neprieštarauja raštu pareikštai ginamojo valiai. Asmens, kuris dėl fizinių ar psichinių trūkumų negali pats pasinaudoti teise į gynybą, ir nepilnamečio gynėjai gali paduoti kasacinį skundą nepaisydami ginamojo valios. Civilinis ieškovas, civilinis atsakovas ir jų atstovai turi teisę apskųsti nuosprendį ar nutartį tik dėl civilinio ieškinio. Užstato davėjas, asmuo, kurio turtas ar jo vertę atitinkanti pinigų suma konfiskuoti, jų atstovas gali apskųsti nuosprendį ar nutartį tik dėl šio sprendimo.
+2. Nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, gynėjas turi teisę paduoti kasacinį skundą tik tuo atveju, kai tai neprieštarauja raštu pareikštai ginamojo valiai. Tais atvejais, kai byla buvo nagrinėjama kaltinamajam nedalyvaujant, nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, gynėjai gali paduoti kasacinį skundą, jeigu nėra raštu išreikštos nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, valios. Asmens, kuris dėl fizinių ar psichinių trūkumų negali pats pasinaudoti teise į gynybą, ir nepilnamečio gynėjai gali paduoti kasacinį skundą nepaisydami ginamojo valios. Civilinis ieškovas, civilinis atsakovas ir jų atstovai turi teisę apskųsti nuosprendį ar nutartį tik dėl civilinio ieškinio. Užstato davėjas, asmuo, kurio turtas ar jo vertę atitinkanti pinigų suma konfiskuoti, jų atstovas gali apskųsti nuosprendį ar nutartį tik dėl šio sprendimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
 
 3. Kasacine tvarka neskundžiami ir nenagrinėjami apeliacine tvarka neskųsti ir nenagrinėti nuosprendžiai ar nutartys. Kasacine tvarka apskųsti įsiteisėjusį nuosprendį ar nutartį galima tik dėl tų klausimų, kurie buvo nagrinėti apeliacinės instancijos teisme.
 
@@ -4197,11 +4215,19 @@ Nr. XI-1200, 2010-12-02, Žin., 2010, Nr. 145-7440 (2010-12-11)
 
 187 straipsnis. Pranešimas apie įtarimą
 
-1. Prieš pirmąją apklausą įtariamajam turi būti pasirašytinai įteiktas pranešimas apie įtarimą ar prokuroro nutarimas pripažinti įtariamuoju. Kai užsienio valstybės pilietis, įtariamas dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, yra ne Lietuvos Respublikos teritorijoje ir Lietuvos Respublikos tarptautinių sutarčių numatytais atvejais negali būti išduotas ar perduotas Lietuvos Respublikai, prokuroro prašymu jis įtariamuoju pripažįstamas ikiteisminio tyrimo teisėjo nutartimi. Pranešime apie įtarimą, prokuroro nutarime ar ikiteisminio tyrimo teisėjo nutartyje pripažinti įtariamuoju turi būti nurodyta nusikalstama veika (padarymo vieta, laikas, kitos aplinkybės) ir baudžiamasis įstatymas, numatantis tą nusikalstamą veiką, taip pat išvardytos įtariamojo teisės.
+1. Prieš pirmąją apklausą įtariamajam turi būti pasirašytinai įteiktas pranešimas apie įtarimą ar prokuroro nutarimas pripažinti įtariamuoju. Kai asmuo, įtariamas dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, arba dėl nusikaltimo, kuriuo padaryta didelės žalos, yra ne Lietuvos Respublikos teritorijoje ir Lietuvos Respublikos tarptautinių sutarčių numatytais atvejais negali būti išduotas ar perduotas Lietuvos Respublikai, prokuroro prašymu jis įtariamuoju pripažįstamas ikiteisminio tyrimo teisėjo nutartimi. Ši nutartis siunčiama Lietuvos Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo įstaigoms užsienio valstybėje. Pranešime apie įtarimą, prokuroro nutarime ar ikiteisminio tyrimo teisėjo nutartyje pripažinti įtariamuoju turi būti nurodyta nusikalstama veika (padarymo vieta, laikas, kitos aplinkybės) ir baudžiamasis įstatymas, numatantis tą nusikalstamą veiką, taip pat išvardytos įtariamojo teisės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
 
 2. Prieš kitas apklausas naujas pranešimas apie įtarimą turi būti įteiktas tik tuo atveju, kai keičiasi įtarimo turinys.
 
-3. Ikiteisminio tyrimo teisėjo nutartis pripažinti įtariamuoju užsienio valstybės pilietį dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, siunčiamas Lietuvos Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo įstaigoms užsienio valstybėje.
+3. Neteko galios  2017-10-26.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
 
 Straipsnio pakeitimai:
 
@@ -6153,7 +6179,11 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 
 3. Ikiteisminio tyrimo teisėjo atliekamoje liudytojo apklausoje privalo dalyvauti prokuroras. Apklausos metu prokuroras turi teisę užduoti apklausiamam asmeniui papildomų klausimų. Kai apklausa baigta, prokuroras turi teisę susipažinti su apklausos protokolu ir prašyti jį papildyti.
 
-4. Apie ikiteisminio tyrimo teisėjo atliekamos apklausos vietą ir laiką, kai ji atliekama šio straipsnio 1 dalies numatytais atvejais, prokuroras privalo pranešti įtariamajam ir jo gynėjui. Suimtas įtariamasis pristatomas į apklausos vietą. Įtariamasis ir jo gynėjas turi teisę dalyvauti tokioje apklausoje, užduoti apklausiamam asmeniui klausimus, kai apklausa baigta, – susipažinti su apklausos protokolu ir teikti dėl jo pastabas.
+4. Apie ikiteisminio tyrimo teisėjo atliekamos apklausos vietą ir laiką, kai ji atliekama šio straipsnio 1 dalyje numatytais atvejais, prokuroras privalo pranešti įtariamajam ir jo gynėjui. Jeigu įtariamasis yra ne Lietuvos Respublikos teritorijoje, pranešimas apie ikiteisminio tyrimo teisėjo atliekamos liudytojo apklausos vietą ir laiką dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, arba dėl nusikaltimo, kuriuo padaryta didelės žalos, siunčiamas Lietuvos Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo įstaigoms užsienio valstybėje. Suimtas įtariamasis pristatomas į apklausos vietą. Įtariamasis ir jo gynėjas turi teisę dalyvauti tokioje apklausoje, užduoti apklausiamam asmeniui klausimus, kai apklausa baigta, – susipažinti su apklausos protokolu ir teikti dėl jo pastabas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
 
 5. Laisvėje esančio įtariamojo ar jo gynėjo neatvykimas į liudytojo apklausą netrukdo apklausą atlikti.
 
@@ -6187,7 +6217,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
 
-6. Įtariamasis – užsienio valstybės pilietis ikiteisminio tyrimo dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso  7 straipsnio pagrindais, metu gali būti neapklaustas tik tuo atveju, kai yra ne Lietuvos Respublikos teritorijoje ir Lietuvos Respublikos tarptautinių sutarčių numatytais atvejais negali būti išduotas ar perduotas Lietuvos Respublikai.
+6. Įtariamasis ikiteisminio tyrimo dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, arba dėl nusikaltimo, kuriuo padaryta didelės žalos, metu gali būti neapklaustas tik tuo atveju, kai yra ne Lietuvos Respublikos teritorijoje ir Lietuvos Respublikos tarptautinių sutarčių numatytais atvejais negali būti išduotas ar perduotas Lietuvos Respublikai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
 
 7. Įtariamasis, kuris negali atvykti į apklausą arba yra laikomas areštinėje, kardomojo kalinimo ar pataisos įstaigoje, gali būti apklausiamas garso ir vaizdo nuotolinio perdavimo priemonėmis.
 
@@ -6329,7 +6363,11 @@ Ekspertizė skiriama tais atvejais, kai ikiteisminio tyrimo teisėjas ar teismas
 
 209 straipsnis. Ekspertizės skyrimo tvarka
 
-1. Prokuroras, pripažinęs būtinumą skirti ekspertizę, raštu apie tai praneša įtariamajam, jo gynėjui ir kitiems ekspertizės rezultatais suinteresuotiems proceso dalyviams ir nurodo terminą, per kurį šie asmenys gali pateikti prašymus dėl klausimų ekspertui, dėl konkretaus eksperto skyrimo ir pateikti papildomą medžiagą ekspertizei. Po to prokuroras su pareiškimu dėl ekspertizės kreipiasi į ikiteisminio tyrimo teisėją. Prie pareiškimo pridedami proceso dalyvių prašymai arba jame nurodoma, kad prašymų negauta.
+1. Prokuroras, pripažinęs būtinumą skirti ekspertizę, raštu apie tai praneša įtariamajam, jo gynėjui ir kitiems ekspertizės rezultatais suinteresuotiems proceso dalyviams ir nurodo terminą, per kurį šie asmenys gali pateikti prašymus dėl klausimų ekspertui, dėl konkretaus eksperto skyrimo ir pateikti papildomą medžiagą ekspertizei. Jeigu įtariamasis yra ne Lietuvos Respublikos teritorijoje, pranešimas dėl ekspertizės dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, arba dėl nusikaltimo, kuriuo padaryta didelės žalos, siunčiamas Lietuvos Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo įstaigoms užsienio valstybėje. Po to prokuroras su pareiškimu dėl ekspertizės kreipiasi į ikiteisminio tyrimo teisėją. Prie pareiškimo pridedami proceso dalyvių prašymai arba jame nurodoma, kad prašymų negauta.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
 
 2. Ikiteisminio tyrimo teisėjas, nusprendęs, jog būtina skirti ekspertizę, priima nutartį skirti ekspertizę, o nusprendęs, jog ekspertizės skirti nebūtina, – nutartį atsisakyti skirti ekspertizę.
 
@@ -6433,7 +6471,11 @@ Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
 
 5. Jeigu įtariamasis yra suimtas, prokuroras privalo kaltinamąjį aktą su bylos medžiaga teismui perduoti likus ne mažiau kaip dešimčiai dienų iki suėmimo termino pabaigos.
 
-6. Jeigu kaltinamasis – užsienio valstybės pilietis yra ne Lietuvos Respublikos teritorijoje, prokuroras siunčia kaltinamojo akto dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, nuorašą Lietuvos Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo įstaigoms užsienio valstybėje.
+6. Jeigu kaltinamasis yra ne Lietuvos Respublikos teritorijoje, prokuroras siunčia kaltinamojo akto dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, arba dėl nusikaltimo, kuriuo padaryta didelės žalos, nuorašą Lietuvos Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo įstaigoms užsienio valstybėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
 
 Straipsnio pakeitimai:
 
@@ -7133,7 +7175,11 @@ Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
 
 4. Užstato davėjas, asmuo, kurio turtas ar jo vertę atitinkanti pinigų suma konfiskuoti, jų atstovas gali apskųsti nuosprendį tik dėl šio sprendimo.
 
-5. Nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, gynėjai turi teisę paduoti apeliacinį skundą tik tuo atveju, kai tai neprieštarauja raštu išreikštai nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, valiai.
+5. Nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, gynėjai turi teisę paduoti apeliacinį skundą tik tuo atveju, kai tai neprieštarauja raštu išreikštai nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, valiai. Tais atvejais, kai byla buvo nagrinėjama kaltinamajam nedalyvaujant, nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, gynėjai gali paduoti apeliacinį skundą, jeigu nėra raštu išreikštos nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, valios.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
 
 6. Asmens, kuris dėl fizinių ar psichinių trūkumų negali pats pasinaudoti teise į gynybą, ir nepilnamečio nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, gynėjai gali paduoti apeliacinį skundą, nepaisydami nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, valios.
 
