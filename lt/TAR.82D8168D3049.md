@@ -4,7 +4,7 @@ identifier: "TAR.82D8168D3049"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2017-05-01"
+last_updated: "2017-10-26"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2017-05-01 iki 2017-10-25
+Suvestinė redakcija nuo 2017-10-26 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
 
@@ -166,7 +166,11 @@ Ryšių reguliavimo tarnyba:
 
 1) prižiūri ir įgyvendina šio Įstatymo ir jo įgyvendinamųjų teisės aktų nuostatas, išskyrus šio Įstatymo ir kitų teisės aktų nuostatas, kurių priežiūra ir įgyvendinimas pagal šio Įstatymo nustatytą kompetenciją priklauso kitoms valstybės institucijoms;
 
-2) rengia ir tvirtina reikalavimus aparatūrai ir įrenginiams ir jų naudojimo sąlygas, teisės aktų nustatytais atvejais išduoda leidimus naudoti aparatūrą ir įrenginius, įvežti ir naudoti radijo stebėsenos ir radijo ryšio slopinimo įrenginius;
+2) rengia ir tvirtina reikalavimus aparatūrai ir įrenginiams ir jų naudojimo sąlygas, teisės aktų nustatytais atvejais išduoda leidimus naudoti aparatūrą ir įrenginius, įvežti ir naudoti radijo stebėsenos įrenginius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-698, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16807
 
 3) rengia ir tvirtina Nacionalinę radijo dažnių paskirstymo lentelę, kartu su Lietuvos radijo ir televizijos komisija rengia ir tvirtina radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti planą;
 
@@ -1756,6 +1760,14 @@ Nr. XIII-105, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29417
 
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 28, 37, 39 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 38-1 straipsniu įstatymas
 
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-698, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16807
+
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 9 ir 45 straipsnių pakeitimo įstatymas
+
 3 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 1. Abonentas – asmuo, kuris yra viešųjų elektroninių ryšių paslaugų teikimo sutarties su šių paslaugų teikėju šalis.
@@ -1891,6 +1903,12 @@ Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
 42. Radijo ryšio kanalas – radijo dažnių juosta nustatytai techninių priemonių ir radijo bangų sklidimo aplinkos visumai, skirta tam tikrai informacijai perduoti ir priimti.
 
 43. Radijo ryšio reglamentas – Tarptautinės telekomunikacijų sąjungos oficialus leidinys, nustatantis radijo ryšio valdymą.
+
+431. Radijo ryšio slopinimo įrenginys – įrenginys, skirtas arba pritaikytas radijo trukdžiams sukelti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-698, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16807
 
 44. Radijo ryšio stotis – vienas ar keli siųstuvai ar imtuvai arba siųstuvų ir imtuvų grupė bei pagalbiniai įrenginiai, kurių reikia tam tikroje vietoje radijo ryšio arba radioastronomijos tarnybų veiklai vykdyti.
 
@@ -2456,7 +2474,11 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 45 straipsnis. Aparatūros ir įrenginių naudojimas
 
-1. Pramonės, medicinos, mokslo reikmėms naudojamų aparatūros ir įrenginių, t .y. aparatūros ir įrenginių, kurie veikdami generuoja ir naudoja radijo bangų energiją ir yra skirti naudoti pramonės, medicinos, mokslo, namų ūkio ir panašiems tikslams, išskyrus elektroninių ryšių tikslus, naudojimo taisykles rengia ir tvirtina Ryšių reguliavimo tarnyba.
+1. Draudžiama naudoti ir (arba) laikyti radijo ryšio slopinimo įrenginius, išskyrus valstybės institucijoms atliekant joms įstatymų priskirtas valstybės gynybos, nacionalinio saugumo, viešosios tvarkos ir visuomenės saugumo užtikrinimo, nusikalstamų veikų ir kitų teisės pažeidimų prevencijos, valstybės sienos apsaugos funkcijas ir išskyrus radijo ryšio slopinimo įrenginių laikymą, kai šie įrenginiai yra tiekiami šias funkcijas atliekančioms valstybės institucijoms. Naudojant radijo ryšio slopinimo įrenginius šioje dalyje nurodytais tikslais, radijo ryšys negali būti trikdomas daugiau, negu yra būtina šiems tikslams pasiekti. Stacionarūs ir nepertraukiamai veikiantys radijo ryšio slopinimo įrenginiai šioje dalyje nurodytais tikslais gali būti naudojami tik su Ryšių reguliavimo tarnyba iš anksto raštu suderinus jų naudojimo sąlygas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-698, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16807
 
 2. Aparatūros ir (ar) įrenginių savininkas ar naudotojas privalo leisti Ryšių reguliavimo tarnybos įgaliotiems pareigūnams patikrinti aparatūrą ir (ar) įrenginius, taip pat paimti aparatūrą ir (ar) įrenginius.
 
