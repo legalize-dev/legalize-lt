@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2016-08-01"
+last_updated: "2017-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2016-08-01 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2017-11-14
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
 
@@ -53,7 +53,11 @@ Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 
 9) aplinkos stebėsena (monitoringas) – sistemingas aplinkos bei jos elementų būklės ir kitimo stebėjimas, antropogeninio poveikio įvertinimas ir prognozė;
 
-10) poveikio aplinkai vertinimas – planuojamos ūkinės veiklos galimo poveikio aplinkai nustatymo, apibūdinimo ir vertinimo procesas;
+10) neteko galios;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 11) informacija apie aplinką – bet kokia rašytinė, vaizdo, garso, elektroninė ar kitokia materialia forma saugoma informacija apie: aplinkos elementų būklę, kraštovaizdį ir biologinę įvairovę (įskaitant genetiškai modifikuotus organizmus) bei jų tarpusavio sąveiką; veiksnius, tokius kaip: medžiagos, energija, triukšmas ir radiacija, bei veiklą arba priemones (įskaitant administracines priemones, susitarimus aplinkosaugos srityje, politiką, įstatymų leidybą, planus ir programas, turinčius arba galinčius turėti poveikio aplinkos elementams, kraštovaizdžio ar biologinei įvairovei, taip pat išlaidų ir rezultatų bei kitą ekonominę analizę ir prielaidas, susijusias su priimamais sprendimais aplinkosaugos srityje); žmonių sveikatos ir saugos būklę, gyvenimo sąlygas, kultūros objektų ir statinių būklę tais atvejais, kai tam turi arba gali turėti įtakos aplinkos elementai, kraštovaizdžio ar biologinė įvairovė arba per šiuos elementus šiame punkte išvardyti veiksniai, veikla arba priemonės;
 
@@ -289,7 +293,11 @@ Vietos savivaldos institucijos, organizuodamos aplinkos apsaugos įstatymų, Vyr
 
 5) steigia ir tvarko įstatymų nustatyta tvarka savivaldybės saugomas teritorijas, kraštovaizdžio objektus;
 
-6) pagal kompetenciją nagrinėja ir derina planuojamos veiklos objektų projektus;
+6) dalyvauja ir teikia išvadas bei pasiūlymus planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir atrankos dėl poveikio aplinkai vertinimo procesuose;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 7) tvarko miestų ir kaimų gyvenamųjų vietovių želdynus, rengia ir tvirtina želdinių apsaugos taisykles, skelbia saugotinais vertingus dendrologiniu, ekologiniu, estetiniu, kultūriniu bei kraštovaizdžio formavimo požiūriu medžius ir krūmus, augančius valstybinėje ne miškų ūkio paskirties žemėje ir privačioje žemėje. Vyriausybės įgaliota institucija nustato kriterijus, pagal kuriuos medžiai ir krūmai priskiriami saugotiniems;
 
@@ -325,27 +333,27 @@ Nr. XI-858, 2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
 
 7 straipsnis. Suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų teisės
 
-1. Vienas arba daugiau fizinių ar juridinių asmenų, suinteresuota visuomenė turi teisę:
+Vienas arba daugiau fizinių ar juridinių asmenų, suinteresuota visuomenė turi teisę:
 
 1) nustatyta tvarka gauti informaciją apie aplinką;
 
-2) nustatyta tvarka dalyvauti planuojamos ūkinės veiklos poveikio aplinkai vertinimo procese;
+2) nustatyta tvarka dalyvauti planuojamos ūkinės veiklos atrankos dėl poveikio aplinkai vertinimo ir poveikio aplinkai vertinimo procesuose ir teikti pasiūlymus;
 
-3) reikalauti, kad būtų nutrauktas kenksmingas ūkinės veiklos objektų poveikis aplinkai;
+3) reikalauti, kad būtų nutrauktas kenksmingas ūkinės veiklos poveikis aplinkai;
 
-4) įstatymų nustatyta tvarka teikti pasiūlymus dėl poveikio aplinkai vertinimo privalomumo;
+4) organizuoti ir dalyvauti vykdant visuomeninę aplinkos kontrolę;
 
-5) atlikti visuomeninį poveikio aplinkai vertinimą;
+5) reikalauti, kad valstybės valdžios ir valdymo institucijos organizuotų aplinkosauginį švietimą ir mokymą, taip pat nevaržomai skleisti aplinkos apsaugos idėjas;
 
-6) organizuoti ir dalyvauti vykdant visuomeninę aplinkos kontrolę;
+6) Lietuvos Respublikos įstatymų nustatyta tvarka paduoti skundą (prašymą), reikalaudami imtis atitinkamų veiksmų, kad būtų išvengta ar sumažinta žala aplinkai arba atkurta iki pradinės aplinkos būklė, ir reikalaudami nubausti asmenis, kaltus dėl kenksmingo poveikio aplinkai, ir pareigūnus, kurių priimti sprendimai ar veiksmai (neveikimas) pažeidė piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų teises ar įstatymų saugomus interesus;
 
-7) reikalauti, kad valstybės valdžios ir valdymo institucijos organizuotų aplinkosauginį švietimą ir mokymą, taip pat nevaržomai skleisti aplinkos apsaugos idėjas;
+7) lankytis gamtinėse teritorijose, išskyrus tas, kurių lankymas draudžiamas ar ribojamas;
 
-8) Lietuvos Respublikos įstatymų nustatyta tvarka paduoti skundą (prašymą), reikalaudami imtis atitinkamų veiksmų, kad būtų išvengta ar sumažinta žala aplinkai arba atkurta iki pradinės aplinkos būklė, ir reikalaudami nubausti asmenis, kaltus dėl kenksmingo poveikio aplinkai, ir pareigūnus, kurių priimti sprendimai ar veiksmai (neveikimas) pažeidė piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų teises ar įstatymų saugomus interesus;
+8) Lietuvos Respublikos įstatymų nustatyta tvarka kreiptis į teismą, jeigu mano, kad jo (jų) prašymas, pateiktas teisės aktų, reglamentuojančių teisę gauti informaciją apie aplinką, nustatyta tvarka, buvo neteisėtai atmestas, į jį buvo iš dalies ar visiškai netinkamai atsakyta arba į prašymą deramai neatsižvelgta pagal teisės aktus, reglamentuojančius teisę gauti informaciją apie aplinką.
 
-9) lankytis gamtinėse teritorijose, išskyrus tas, kurių lankymas draudžiamas ar ribojamas;
+Straipsnio dalies pakeitimai:
 
-10) Lietuvos Respublikos įstatymų nustatyta tvarka kreiptis į teismą, jei mano, kad jo (jų) prašymas, pateiktas teisės aktų, reglamentuojančių teisę gauti informaciją apie aplinką, nustatyta tvarka, buvo neteisėtai atmestas, į jį buvo iš dalies ar visiškai netinkamai atsakyta arba į prašymą deramai neatsižvelgta pagal teisės aktus, reglamentuojančius teisę gauti informaciją apie aplinką.
+Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 2. Suinteresuota visuomenė turi teisę Lietuvos Respublikos įstatymų nustatyta tvarka kreiptis į teismą dėl viešojo intereso gynimo užginčijant sprendimų, veiksmų ar neveikimo aplinkos ir jos apsaugos bei gamtos išteklių naudojimo srityje materialinį ar procesinį teisėtumą.
 
@@ -369,13 +377,25 @@ Valstybės valdžios, valdymo ir kontrolės institucijos pagal savo kompetencij�
 
 2) tenkinti arba motyvuotai atmesti piliečių, suinteresuotos visuomenės, kitų juridinių ir fizinių asmenų pasiūlymus aplinkos apsaugos klausimais;
 
-3) viešai skelbti ūkinės veiklos, galinčios turėti kenksmingo poveikio aplinkai, projektus;
+3) informuoti visuomenę apie šio įstatymo 15 straipsnio ketvirtojoje dalyje nurodytus išduotus leidimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 4) neleisti, kad ūkinės veiklos subjektai pažeistų aplinkos apsaugos įstatymus, normatyvus ir standartus;
 
-5) įvertinti ir deramai atsižvelgti į visuomenės pasiūlymus dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo privalomumo;
+5) kai planuojamai ūkinei veiklai atliekama atranka dėl poveikio aplinkai vertinimo vadovaujantis Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatomis, įvertinti ir atsižvelgti į suinteresuotos visuomenės pasiūlymus atlikti planuojamos ūkinės veiklos poveikio aplinkai vertinimą;
 
-6) įvertinti ir deramai atsižvelgti į visuomenės pasiūlymus dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir galimo planuojamos ūkinės veiklos poveikio aplinkai;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
+
+6) įvertinti ir atsižvelgti į suinteresuotos visuomenės pasiūlymus dėl atliekamo planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir galimo planuojamos ūkinės veiklos poveikio aplinkai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 7) užtikrinti, kad būtų atlyginta padaryta žala ar neigiamas poveikis aplinkai, o neteisėta veikla padarę žalą aplinkai kalti asmenys – nubausti;
 
@@ -473,15 +493,23 @@ Nr. X-147, 2005-03-24, Žin., 2005, Nr. 47-1558 (2005-04-12)
 
 IV SKYRIUS. ŪKINĖS VEIKLOS REGULIAVIMAS
 
-15 straipsnis. Poveikio aplinkai vertinimas
+15 straipsnis. Ūkinės veiklos, galinčios turėti poveikį aplinkai, planavimas ir leidimų išdavimas
 
-Ūkinė veikla planuojama ir vykdoma remiantis šiuo ir kitais įstatymais, norminiais aktais, aplinkos monitoringo, valstybinės gamtos išteklių apskaitos duomenimis, aplinkos apsaugos programomis bei schemomis, kraštotvarkos projektais bei generaliniais planais atsižvelgiant į Lietuvos Respublikos gamtos potencialą.
+Fizinio asmens, juridinio asmens ar jo padalinio (įskaitant užsienio valstybės juridinį asmenį ar kitą organizaciją, taip pat jų padalinį) (toliau šiame straipsnyje – fizinis ar juridinis asmuo) ūkinės veiklos, galinčios turėti poveikį aplinkai, planavimas vykdomas pagal teritorijų planavimo dokumentus.
 
-Ūkinės veiklos leidimas, skirtas planuojamai veiklai, kuriai pagal Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą privaloma atlikti poveikio aplinkai vertinimą ar atranką dėl poveikio aplinkai vertinimo, gali būti išduotas esant galiojančiam atsakingos institucijos teigiamam sprendimui dėl planuojamos ūkinės veiklos galimybių ar atrankos dėl poveikio aplinkai vertinimo išvadai, kad atlikti poveikio aplinkai vertinimą yra neprivaloma.
+Planuojamos ūkinės veiklos organizatorius (užsakovas), planuojantis vykdyti ūkinę veiklą, kuriai reikia atlikti Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatytas procedūras, šias procedūras atlieka iki leidimo, nurodyto šio straipsnio ketvirtojoje dalyje, išdavimo.
 
-Šio straipsnio antrojoje dalyje nurodytos institucijos įvertina pateiktą dokumentaciją apie galimą ūkinės veiklos įtaką aplinkai ir pateikia pagal savo kompetenciją išvadas arba motyvuotą sprendimą dėl veiklos galimumo. Sprendimas privalomas institucijai, išduodančiai leidimus ūkinei veiklai.
+Valstybės institucijos ir savivaldybės vykdomoji institucija, įstatymuose nustatyta tvarka dalyvaujančios planuojamos ūkinės veiklos poveikio aplinkai vertinimo procese, įstatymų nustatyta tvarka įvertina pateiktus poveikio aplinkai vertinimo dokumentus ir pagal kompetenciją pateikia išvadas arba motyvuotą sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai.
 
-Dokumentacijos apie ūkinės veiklos galimą poveikį aplinkai rengimo tvarką nustato Lietuvos Respublikos aplinkos ministerija.
+Įstatymuose įtvirtinti leidimai (statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes, taršos integruotos prevencijos ir kontrolės leidimas, taršos leidimas ir kituose įstatymuose nurodyti leidimai), kuriuos išduodant nustatyta pareiga kartu su prašymu leidimus išduodančiai institucijai pateikti atsakingosios institucijos sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus (toliau šiame straipsnyje – sprendimas) ar atrankos dėl poveikio aplinkai vertinimo išvadą, kad poveikio aplinkai vertinimas neprivalomas (toliau šiame straipsnyje – atrankos išvada), gali būti išduodami esant galiojančiam atsakingosios institucijos sprendimui ar atrankos išvadai.
+
+TAR pastaba. Šio įstatymo 15 straipsnio 4 dalyje nustatytas reikalavimas netaikomas, jeigu taršos integruotos prevencijos ir kontrolės leidimas ar taršos leidimas, kuris buvo išduotas, pakeistas ar koreguotas iki 2017 m. lapkričio 1 d., yra keičiamas dėl priežasčių, nesusijusių su eksploatuojamo įrenginio ar įrenginyje vykdomos veiklos pakeitimu ar išplėtimu.
+
+Jeigu fizinis ar juridinis asmuo turi galiojantį statybą leidžiantį dokumentą ar leidimą naudoti žemės gelmių išteklius arba ertmes, išduotą galiojančios atrankos išvados arba sprendimo galiojimo metu, išduodant taršos integruotos prevencijos ir kontrolės leidimą, taršos leidimą ar kitą leidimą, pagal kurį bus vykdoma atrankos išvadoje ar sprendime nurodyta ūkinė veikla, šio straipsnio ketvirtosios dalies nuostatos netaikomos, išskyrus atvejus, kai planuojamas ūkinės veiklos pakeitimas, galintis sukelti neigiamą poveikį aplinkai.
+
+Juridiniai ir fiziniai asmenys, rengiantys statinių, kuriuose planuojama vykdyti ūkinę veiklą, galinčią turėti poveikį aplinkai, naujos statybos, rekonstravimo ar kitus Lietuvos Respublikos statybos įstatyme nurodytus projektus, statinio projekte privalo numatyti priemones gamtos ištekliams racionaliai naudoti, suprojektuoti priemones neigiamam poveikiui aplinkai išvengti, užkirsti jam kelią, jį sumažinti bei, jeigu galima, jį kompensuoti ir vadovautis šio straipsnio ketvirtojoje dalyje nurodytu sprendimu ar atrankos išvada, kai sprendimas ar atrankos išvada privalomi pagal teisės aktų reikalavimus.
+
+Statinių, kuriuose bus vykdoma ūkinė veikla, galinti turėti poveikį aplinkai, statybos ar rekonstravimo projektų atitiktį aplinkos apsaugos reikalavimams prieš išduodant statybą leidžiantį dokumentą tikrina už aplinkos apsaugą atsakinga institucija, nurodyta Lietuvos Respublikos statybos įstatyme. Šio straipsnio ketvirtojoje dalyje nurodytas leidimas turi atitikti sprendime ar atrankos išvadoje nurodytus sprendinius.
 
 Straipsnio pakeitimai:
 
@@ -491,39 +519,27 @@ Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093 (00.05.12)
 
 Nr. XII-287, 2013-05-09, Žin., 2013, Nr. 55-2727 (2013-05-28)
 
-16 straipsnis. Ūkinės veiklos, galinčios turėti poveikio aplinkai, projektavimas
-
-Juridinių bei fizinių asmenų ūkinės veiklos, galinčios turėti poveikį aplinkai, teritorinis organizavimas ir aplinkos tvarkymo valstybinis reguliavimas vykdomas pagal bendrojo ir specialiojo teritorinio planavimo dokumentus.
-
-Juridiniai ir fiziniai asmenys, projektuojantys objektų, galinčių turėti poveikio aplinkai, statybą, rekonstravimą ar plėtimą, rengiantys bendruosius ir specialiuosius teritorinio planavimo projektus, projektinėje dokumentacijoje privalo numatyti priemones gamtos ištekliams racionaliai naudoti, neigiamam poveikiui aplinkai išvengti.
-
-Projektinė dokumentacija nustatyta tvarka suderinama su vietos savivaldos institucijomis ir Aplinkos ministerija.
-
 Straipsnio pakeitimai:
 
-Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
+Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
-Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093 (00.05.12)
+16 straipsnis. Neteko galios nuo 2017-11-01
 
-17 straipsnis. Ūkinės veiklos objektų statyba, rekonstravimas ir plėtimas
+Straipsnio naikinimas:
 
-Juridiniai ir fiziniai asmenys gali statyti, rekonstruoti ar plėsti ūkinės veiklos objektus tik turėdami šio įstatymo 16 straipsnio reikalavimus atitinkančią projektinę dokumentaciją.
+Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
-Ūkinės veiklos objektų statyba, rekonstravimas ar plėtimas be projektinės dokumentacijos, numatytos šio įstatymo 16 straipsnyje, arba nesilaikant joje nustatytų aplinkos apsaugos reikalavimų, pažeidžiant statybos, rekonstravimo ar plėtimo darbų aplinkosauginius apribojimus užtraukia įstatymų numatytą atsakomybę.
+17 straipsnis. Neteko galios nuo 2017-11-01
 
-Atsakomybės taikymas neužkerta kelio šio įstatymo 6 straipsnyje nurodytoms valstybinio aplinkos apsaugos valdymo ir kontrolės institucijoms arba jų pareigūnams nustatyta tvarka sustabdyti ūkinės veiklos objektų statybos, rekonstravimo ar plėtimo darbus.
+Straipsnio naikinimas:
 
-18 straipsnis. Pastatytų, rekonstruotų ir išplėstų ūkinės veiklos objektų priėmimas
+Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
-Pastatyti, rekonstruoti ir išplėsti ūkinės veiklos objektai priimami eksploatuoti tik įvykdžius visas projektinėje dokumentacijoje numatytas aplinkos apsaugos priemones.
+18 straipsnis. Neteko galios nuo 2017-11-01
 
-Priimant pastatytus, rekonstruotus, išplėstus ūkinės veiklos objektus, dalyvauja Aplinkos ministerijos sistemos pareigūnai arba pateikiamos jų išvados.
+Straipsnio naikinimas:
 
-Straipsnio pakeitimai:
-
-Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
-
-Nr. IX-2113, 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
+Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 19 straipsnis. Ūkinės veiklos objektų eksploatavimas
 
@@ -2559,7 +2575,7 @@ LIETUVOS RESPUBLIKOS
 
 AUKŠČIAUSIOSIOS TARYBOS
 
-PIRMININKO PAVADUOTOJAS                               BRONISLOVAS KUZMICKAS
+PIRMININKO PAVADUOTOJAS                                           BRONISLOVAS KUZMICKAS
 
 Vilnius, 1992 m. sausio 21 d.
 
@@ -2578,6 +2594,12 @@ priedas
 2. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/35/EB dėl atsakomybės už aplinkos apsaugą siekiant išvengti žalos aplinkai ir ją ištaisyti (atlyginti) (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 357) su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB (OL 2009 L 140, p. 114).
 
 3. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/75/ES dėl pramoninių išmetamų teršalų (taršos integruotos prevencijos ir kontrolės) (OL 2010 L 334, p. 17).
+
+4. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (OL 2012 L 26, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/52/ES, kuria iš dalies keičiama Direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (OL 2014 L 124, p. 1).
+
+Papildyta punktu:
+
+Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 Įstatymas papildytas priedu:
 
@@ -2744,4 +2766,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 32, 32-1, 32-2, 33, 34 straipsnių pakeitimo ir Įstatymo papildymo 32-3 straipsniu įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
+
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 7, 8, 15 straipsnių ir priedo pakeitimo ir 16, 17, 18 straipsnių pripažinimo netekusiais galios įstatymas
 
