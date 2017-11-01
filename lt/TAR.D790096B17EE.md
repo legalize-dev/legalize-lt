@@ -4,7 +4,7 @@ identifier: "TAR.D790096B17EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-10"
-last_updated: "2016-11-18"
+last_updated: "2017-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2016-11-18 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2018-07-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
 
@@ -464,13 +464,15 @@ Straipsnio pakeitimai:
 
 Nr. XII-701, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
 
-15 straipsnis. Draudimas parduoti prekes pasibaigus jų tinkamumo naudoti terminui
-
-Draudžiama parduoti prekes, kurių tinkamumo naudoti terminas yra pasibaigęs. Gamintojas neatsako už prekių saugą ir tinkamumą naudoti pagal paskirtį (prekės savybes) suėjus šiam terminui.
+15 straipsnis. Neteko galios nuo 2017-11-01.
 
 Straipsnio pakeitimai:
 
 Nr. XII-701, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
+
+Straipsnio pakeitimai:
+
+Nr. XIII-65, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29146
 
 16 straipsnis. Kokybės garantija
 
