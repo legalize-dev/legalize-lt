@@ -4,7 +4,7 @@ identifier: "TAR.26B563184529"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-12"
-last_updated: "2017-01-01"
+last_updated: "2017-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529"
 department: "Lietuvos Respublikos Seimas"
@@ -18,9 +18,17 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2018-04-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
+
+TAR pastaba. Iki įstatymo (Nr. XIII-427)  įsigaliojimo (2017-11-01) pradėti rengti teritorijų planavimo dokumentai, dėl kurių rengimo kreiptasi planavimo sąlygų, baigiami rengti, derinami, tikrinami ir tvirtinami pagal iki šio įstatymo įsigaliojimo galiojusias teritorijų planavimą reglamentuojančias teisės aktų nuostatas.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-427, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10249
+
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 25 ir 41 straipsnių pakeitimo įstatymas
 
 Nauja įstatymo redakcija nuo 2014-01-01:
 
@@ -710,7 +718,11 @@ TERITORIJŲ PLANAVIMO PROCESAS
 
 3) baigiamasis.
 
-2. Parengiamuoju etapu planavimo organizatorius pagal nustatytus planavimo tikslus numato planuojamą teritoriją, parengia ir patvirtina planavimo darbų programą. Planavimo darbų programoje numatomi konkretūs planavimo uždaviniai, nurodoma, ar turi būti atliekami tyrimai, galimybių studijos, ar rengimo etapu bus rengiama teritorijos vystymo koncepcija (toliau – koncepcija) ir ar numatoma atlikti koncepcijos nepriklausomą profesinį vertinimą. Koncepcija rengiama, kai numatomos teritorijų planavimo dokumentų sprendinių alternatyvos, taip pat kitais Kompleksinio teritorijų planavimo dokumentų rengimo taisyklėse nustatytais atvejais. Šiuo etapu planavimo organizatorius viešai paskelbia apie priimtą sprendimą dėl teritorijų planavimo dokumento rengimo pradžios, planavimo tikslų ir planavimo darbų programą. Parengiamuoju etapu atliekami planuojamos teritorijos galimos taršos tyrimai, kai planuojama pramoninių teritorijų konversija, jeigu planavimo darbų programoje numatyta, atliekami kiti tyrimai, galimybių studijos. Be to, Vyriausybės nustatyta tvarka nustatoma, ar bus atliekamas strateginis pasekmių aplinkai vertinimas (toliau – SPAV).
+2. Parengiamuoju etapu planavimo organizatorius pagal nustatytus planavimo tikslus numato planuojamą teritoriją, parengia ir patvirtina planavimo darbų programą. Planavimo darbų programoje numatomi konkretūs planavimo uždaviniai, nurodoma, ar turi būti atliekami tyrimai, galimybių studijos, ar rengimo etapu bus rengiama teritorijos vystymo koncepcija (toliau – koncepcija) ir jai suformuoti išreiškiama urbanistinė idėja, išskyrus atvejus, kai urbanistinė idėja atrinkta pagal šio straipsnio 3 dalį, taip pat ar numatoma atlikti koncepcijos nepriklausomą profesinį vertinimą. Koncepcija rengiama, kai numatomos teritorijų planavimo dokumentų sprendinių alternatyvos, taip pat kitais Kompleksinio teritorijų planavimo dokumentų rengimo taisyklėse nustatytais atvejais. Šiuo etapu planavimo organizatorius viešai paskelbia apie priimtą sprendimą dėl teritorijų planavimo dokumento rengimo pradžios, planavimo tikslų ir planavimo darbų programą. Parengiamuoju etapu atliekami planuojamos teritorijos galimos taršos tyrimai, kai planuojama pramoninių teritorijų konversija, jeigu planavimo darbų programoje numatyta, atliekami kiti tyrimai, galimybių studijos. Be to, Vyriausybės nustatyta tvarka nustatoma, ar bus atliekamas strateginis pasekmių aplinkai vertinimas (toliau – SPAV).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-427, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10249
 
 3. Urbanistiniu, valstybiniu ar visuomenės (viešojo) intereso požiūriu reikšmingų objektų planavimo atvejais planavimo darbų programoje nurodoma parengti atvirą konkursą geriausiai urbanistinei idėjai atrinkti.
 
@@ -734,7 +746,11 @@ TERITORIJŲ PLANAVIMO PROCESAS
 
 4) kompleksinio teritorijų planavimo dokumento tvirtinimas ir registravimas Lietuvos Respublikos teritorijų planavimo dokumentų registre.
 
-7. Kiekviena kompleksinio teritorijų planavimo proceso etapo stadija gali būti pradedama tik užbaigus ankstesniąją.
+7. Kiekviena kompleksinio teritorijų planavimo proceso etapo stadija gali būti pradedama tik užbaigus ankstesniąją. Savivaldybės bendrojo plano ar savivaldybės dalies bendrojo plano savivaldybės teritorijoje rengimo atvejais kompleksinio teritorijų planavimo proceso rengimo etapo metu savivaldybės administracijos valstybės tarnautojas, atliekantis savivaldybės vyriausiojo architekto funkcijas, turi pritarti kiekvienos šio straipsnio 5 dalies 2 ir 3 punktuose nurodytos rengimo etapo stadijos sprendiniams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-427, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10249
 
 8. Jeigu rengiant savivaldybės dalies bendrąjį planą atliekamas SPAV, rengiant detalųjį planą toje savivaldybės dalyje, kuriai SPAV buvo atliktas, pakartotinis SPAV neatliekamas, jeigu nesuplanuotas joks kitas kiekybinis ir kokybinis poveikis aplinkai, išskyrus pirmiau įvertintą SPAV.
 
@@ -1150,6 +1166,14 @@ Nr. XII-2643, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24683
 
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 27 ir 45 straipsnių pakeitimo įstatymas
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-427, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10249
+
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 25 ir 41 straipsnių pakeitimo įstatymas
+
 40 straipsnis. Teritorijų planavimo dokumentų rengėjai ir vadovai, jų atestavimo tvarka ir kvalifikaciniai reikalavimai
 
 1. Kompleksinio teritorijų planavimo dokumentų rengėjų ir vadovų teisės:
@@ -1526,7 +1550,11 @@ TERITORIJŲ PLANAVIMO DOKUMENTŲ RENGĖJAI IR SAVIVALDYBIŲ VYRIAUSIEJI ARCHITEK
 
 41 straipsnis. Savivaldybių vyriausieji architektai
 
-Savivaldybių administracijų valstybės tarnautojais, atliekančiais savivaldybės vyriausiojo architekto funkcijas, numatytas šiame įstatyme ir kituose įstatymuose, turi teisę būti asmenys, turintys aukštąjį universitetinį meno studijų srities architektūros krypties ar lygiavertį aukštąjį universitetinį architektūrinį išsilavinimą ir 3 metų darbo stažą teritorijų planavimo ar ypatingų statinių projektavimo arba teritorijų planavimo valstybinės priežiūros srityse ir išmanantys teisės aktų, reglamentuojančių teritorijų planavimą, statinių projektavimą, statybą, teritorijų planavimo ir statybos valstybinę priežiūrą, nuostatas.
+Savivaldybių administracijų valstybės tarnautojų, atliekančių savivaldybės vyriausiojo architekto funkcijas, kvalifikacinius reikalavimus nustato Lietuvos Respublikos architektūros įstatymas.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-427, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10249
 
 DEVINTASIS SKIRSNIS
 
