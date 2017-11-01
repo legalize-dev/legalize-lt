@@ -4,7 +4,7 @@ identifier: "TAR.F31E79DEC55D"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-19"
-last_updated: "2017-09-01"
+last_updated: "2017-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F31E79DEC55D"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2017-09-01 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2018-04-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
 
@@ -168,11 +168,23 @@ Savavališkos statybos padariniai šalinami Lietuvos Respublikos teritorijų pla
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Architektas – fizinis asmuo, baigęs universitetines menų studijų srities architektūros krypties studijas ir įgijęs architektūros krypties kvalifikacinį laipsnį arba lygiavertę aukštojo mokslo kvalifikaciją, atitinkančią Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo aštuntajame skirsnyje nustatytus architektų rengimo reikalavimus.
+1. Architektas – fizinis asmuo, atitinkantis Lietuvos Respublikos architektūros įstatyme nustatytą apibrėžtį.
 
-2. Architekto veikla – veikla, kuriai vykdyti reikia architekto profesinės kvalifikacijos.
+Straipsnio dalies pakeitimai:
 
-3. Architektūra – funkcinis erdvinis ir vizualiai suvokiamas meninis statinių, kraštovaizdžio ir teritorijų planavimo objektų formavimas.
+Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
+
+2. Architekto veikla – Architektūros įstatyme nustatyta veikla.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
+
+3. Architektūra – sritis, kaip ji apibrėžta Architektūros įstatyme.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
 
 4. Atskirosios statinio inžinerinės sistemos – vieno inžinerinės sistemos naudotojo poreikiams tenkinti skirtos inžinerinės sistemos, nesusijusios su tos pačios paskirties bendrosiomis statinio inžinerinėmis sistemomis.
 
@@ -256,13 +268,21 @@ Savavališkos statybos padariniai šalinami Lietuvos Respublikos teritorijų pla
 
 44. Prisijungimo prie inžinerinių tinklų ar susisiekimo komunikacijų sąlygos (toliau – prisijungimo sąlygos) – statinio, žemės sklype esančių inžinerinių tinklų ar susisiekimo komunikacijų prijungimo prie kitiems savininkams priklausančių inžinerinių tinklų ar susisiekimo komunikacijų sąlygos, jeigu jos nenustatytos teritorijų planavimo dokumentuose.
 
-45. Projektiniai pasiūlymai – pasiūlymai, kurių tikslas – išreikšti projektuojamo statinio architektūros ir kitų pagrindinių sprendinių idėją ir kurie pateikiami kaip statinio projektuotojo parinkimo konkurso medžiaga ir (ar) informacija visuomenei apie numatomą statinių projektavimą bei gali būti naudojami rengiant specialiuosius architektūros reikalavimus, specialiuosius saugomos teritorijos tvarkymo ir apsaugos reikalavimus, specialiuosius paveldosaugos reikalavimus.
+45. Projektiniai pasiūlymai – pasiūlymai, kurių tikslas – išreikšti projektuojamo statinio architektūros ir kitų pagrindinių sprendinių idėją ir kurie pateikiami kaip informacija visuomenei apie numatomą statinių projektavimą bei gali būti naudojami rengiant specialiuosius architektūros reikalavimus, specialiuosius saugomos teritorijos tvarkymo ir apsaugos reikalavimus, specialiuosius paveldosaugos reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
 
 46. Savavališka statyba – statinio ar jo dalies statyba neturint galiojančio statybą leidžiančio dokumento arba jį turint, bet pažeidžiant esminius statinio projekto sprendinius.
 
 47. Specialieji reikalavimai – neprivalomas, statytojo (užsakovo) pageidavimu statiniui nustatytų specialiųjų architektūros reikalavimų, specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ir apsaugos reikalavimų rinkinys, kurį išduoda savivaldybės administracijos direktorius ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas.
 
-48. Statinio architektas – architektas, kuris yra statinio, kaip architektūros kūrinio, autorius ir (ar) statinio projekto architektūrinės dalies vadovas. Statinio architektu gali būti ir fizinių asmenų grupė.
+48. Statinio architektas – architektas, kuris yra statinio, kaip architektūros kūrinio, autorius ir (ar) statinio projekto architektūrinės dalies vadovas. Statinio architektu gali būti ir fizinių asmenų grupė, sudaryta iš architektų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
 
 49. Statinio architektūra – statinio, kaip meno kūrinio, vidaus erdvės ir išorės pavidalas, statinio dalių išdėstymas, jų formų meninė išraiška ir visų statinio elementų tarpusavio santykis.
 
