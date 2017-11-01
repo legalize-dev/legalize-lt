@@ -4,7 +4,7 @@ identifier: "TAR.F8090E375DA0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2017-01-01"
+last_updated: "2017-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8090E375DA0"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.02.25)
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
 
@@ -283,7 +283,11 @@ Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
 
 5 straipsnis. Tabako gaminių atitikties patvirtinimo dokumentai
 
-1. Kad tabako gaminiai atitinka teisės aktų nustatytus reikalavimus, įskaitant reikalavimus dėl dervų, nikotino ir anglies monoksido kiekio cigaretėse, turi būti patvirtinta Europos ekonominės erdvės susitarimo dalyvių ar Turkijos kompetentingų institucijų patvirtintose (akredituotose) bandymų laboratorijose atliktų bandymų pagrindu tabako gaminių gamintojo išduotais tabako gaminių atitiktį patvirtinančiais dokumentais.
+1. Kad tabako gaminiai atitinka nustatytus reikalavimus, įskaitant reikalavimus dėl dervų, nikotino ir anglies monoksido kiekio cigaretėse, turi būti patvirtinta Europos ekonominės erdvės susitarimo dalyvių ar Turkijos kompetentingų institucijų patvirtintose (akredituotose) bandymų laboratorijose atliktais bandymais. Tabako gaminių gamintojai ir importuotojai privalo turėti tabako gaminių atitiktį patvirtinančius dokumentus. Tabako gaminių importuotojams tabako gaminių atitiktį patvirtinančius dokumentus išduoda tabako gaminių gamintojai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-345, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08030
 
 2. Tabako gaminių atitiktį patvirtinančių dokumentų, nurodytų šio straipsnio 1 dalyje, pateikimo tvarką ir reikalavimus nustato Lietuvos Respublikos Vyriausybės įgaliota institucija.
 
@@ -613,7 +617,11 @@ Nr. XII-1916, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11094
 
 6) jeigu tabako gaminių ženklinimas neatitinka šiame Įstatyme ir kituose teisės aktuose nustatytų tabako gaminių ženklinimo reikalavimų;
 
-7) jeigu tabako gaminių atitiktis teisės aktuose nustatytiems reikalavimams nepatvirtinta šio įstatymo 5 straipsnyje nurodytais dokumentais ir tvarka;
+7) jeigu tabako gaminių gamintojų pagamintų ir tabako gaminių importuotojų importuotų tabako gaminių atitiktis nustatytiems reikalavimams nepatvirtinta šio įstatymo 5 straipsnyje nurodytais dokumentais ir tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-345, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08030
 
 8) neturint tabako gaminių pardavimo ir (ar) laikymo vietoje arba jų gabenimo metu juridinę galią turinčių privalomų tų gaminių įsigijimą arba gabenimą patvirtinančių dokumentų egzemplioriaus.
 
@@ -1530,6 +1538,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-157, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29850
 
 Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 25 ir 27 straipsnių pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-345, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08030
+
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 5 ir 14 straipsnių pakeitimo įstatymas
 
 91 straipsnis. Tabako gaminių gamybos ir realizavimo ataskaitos
 
