@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2017-07-01"
+last_updated: "2017-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2017-11-28
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -1287,7 +1287,13 @@ Prieš pradėdamas veiklą, prekybos agentas privalo apdrausti savo civilinę at
 
 8. Pirkėjas turi teisę iki sutarties sudarymo apžiūrėti daiktus ir pareikalauti, kad pardavėjas dalyvaujant pirkėjui patikrintų daiktus arba pademonstruotų, kaip juos naudoti, jeigu tai yra įmanoma atsižvelgiant į daiktų pobūdį.
 
-9. Jeigu pardavėjas nesudarė galimybės pirkėjui nedelsiant daiktų pardavimo vietoje gauti šio straipsnio 1–7 dalyse nurodytą informaciją, pirkėjas turi teisę reikalauti iš pardavėjo atlyginti nuostolius, atsiradusius dėl vengimo sudaryti sutartį, o kai sutartis sudaryta, – per protingą terminą vienašališkai nutraukti sutartį ir pareikalauti grąžinti sumokėtą kainą ir atlyginti kitus nuostolius.
+9. Jeigu pardavėjas nesudarė galimybės pirkėjui nedelsiant daiktų pardavimo vietoje gauti šio straipsnio 1–7 dalyse nurodytą informaciją, pirkėjas turi teisę reikalauti iš pardavėjo atlyginti nuostolius, atsiradusius dėl vengimo sudaryti sutartį, o kai sutartis sudaryta, – per protingą terminą vienašališkai nutraukti sutartį ir pareikalauti grąžinti sumokėtą kainą ir atlyginti kitus nuostolius. Pardavėjas turi grąžinti pirkėjui sumokėtą kainą ir atlyginti kitus nuostolius nedelsdamas, bet ne vėliau kaip per keturiolika dienų nuo sutarties nutraukimo dienos ar pirkėjo reikalavimo atlyginti nuostolius gavimo dienos.
+
+TAR pastaba. Nustatytas keturiolikos dienų terminas taikomas po įstatymo Nr. XIII-64 įsigaliojimo (2017-11-01) sudarytoms vartojimo pirkimo–pardavimo sutartims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
 
 10. Pardavėjas, nesudaręs galimybės pirkėjui gauti atitinkamą informaciją apie daiktus, atsako už daiktų trūkumus, atsiradusius po daiktų perdavimo pirkėjui, jeigu pirkėjas įrodo, kad trūkumai atsirado dėl to, kad jis neturėjo atitinkamos informacijos.
 
@@ -3623,7 +3629,13 @@ Bendrosios pirkėjo pareigos ir teisės
 
 4) vienašališkai nutraukti sutartį ir pareikalauti sugrąžinti sumokėtą kainą.
 
-8. Pirkėjas neturi teisės nutraukti sutarties, jeigu daikto trūkumas yra mažareikšmis. Pirkėjui nutraukus sutartį dėl daikto netinkamos kokybės, pardavėjas privalo grąžinti sumokėtą kainą. Netinkamos kokybės daikto grąžinimo išlaidos tenka pardavėjui. Pardavėjas, grąžindamas pirkėjui sumokėtą kainą, neturi teisės iš jos išskaičiuoti sumą, kuria sumažėjo daikto vertė dėl jo naudojimo ar daikto išvaizdos praradimo arba dėl kitokių aplinkybių.
+8. Pirkėjas neturi teisės nutraukti sutarties, jeigu daikto trūkumas yra mažareikšmis. Pirkėjui nutraukus sutartį dėl daikto netinkamos kokybės, pardavėjas privalo nedelsdamas, bet ne vėliau kaip per keturiolika dienų nuo daikto grąžinimo dienos, grąžinti sumokėtą kainą. Netinkamos kokybės daikto grąžinimo išlaidos tenka pardavėjui. Pardavėjas, grąžindamas pirkėjui sumokėtą kainą, neturi teisės iš jos išskaičiuoti sumą, kuria sumažėjo daikto vertė dėl jo naudojimo ar daikto išvaizdos praradimo arba dėl kitokių aplinkybių.
+
+TAR pastaba. Nustatytas keturiolikos dienų terminas taikomas po įstatymo Nr. XIII-64 įsigaliojimo (2017-11-01) sudarytoms vartojimo pirkimo–pardavimo sutartims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
 
 9. Visais atvejais pirkėjas turi teisę į nuostolių, atsiradusių dėl netinkamos kokybės prekės pardavimo, atlyginimą. Nuostoliais laikomos ir prekės trūkumų pašalinimo išlaidos, jeigu, pardavėjui per protingą terminą jų nepašalinus, trūkumus pašalino pirkėjas ar jo pasitelkti tretieji asmenys.
 
@@ -5081,6 +5093,12 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
+7. Verslininkui, parduodančiam sveriamas prekes, draudžiama į sveriamos prekės masę ir kainą įskaičiuoti šiai prekei sverti ir pakuoti naudojamos pakavimo medžiagos masę ir vertę.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
+
 6.2286 straipsnis. Bendrieji vartotojų teisės į informaciją reikalavimai
 
 1. Prieš sudarydamas vartojimo sutartį, kuri nėra nuotolinė ar ne prekybos patalpose sudaroma sutartis, verslininkas privalo aiškiai ir suprantamai suteikti vartotojui būtiną, teisingą, išsamią ir neklaidinančią informaciją. Informacija vartotojui turi būti suteikta valstybine kalba. Verslininkas ženklindamas prekes ar kitokiu būdu privalo vartotojui suteikti šią informaciją, jeigu ji nėra akivaizdi iš konteksto:
@@ -5209,7 +5227,11 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 1. Vartotojams parduodamos prekės ir teikiamos paslaugos turi būti saugios ir tinkamos kokybės. Prekių ir paslaugų kokybės ir saugos reikalavimus nustato įstatymai ir kiti teisės aktai.
 
-2. Draudžiama parduoti prekes, kurių tinkamumo naudoti terminas pasibaigęs.
+2. Draudžiama parduoti prekes, kurių tinkamumo naudoti terminas pasibaigęs arba kurios buvo perženklintos, perpakuotos ar kitaip apdorotos siekiant pratęsti jų tinkamumo naudoti terminą. Gamintojas neatsako už prekių saugą ir tinkamumą naudoti pagal paskirtį (prekės savybes) suėjus prekės tinkamumo naudoti terminui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
 
 6.315 straipsnis. Išankstinis mokėjimas už daiktus
 
@@ -5549,7 +5571,13 @@ Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 
 1. Pirkėjas turi teisę per keturiolika dienų nuo ne maisto daiktų perdavimo jam, jeigu pardavėjas nėra nustatęs ilgesnio termino, pakeisti nusipirktus daiktus pirkimo ar kitoje pardavėjo nurodytoje vietoje analogiškais kitokių matmenų, formos, spalvos, modelio ar komplektiškumo daiktais. Jeigu keičiant daiktus susidaro kainų skirtumas, pirkėjas su pardavėju privalo atsiskaityti pagal perskaičiuotas kainas.
 
-2. Jeigu pardavėjas neturi pakeitimui tinkamų daiktų, tai pirkėjas turi teisę per šio straipsnio 1 dalyje nustatytą terminą grąžinti daiktus pardavėjui ir atgauti už juos sumokėtą kainą.
+2. Jeigu pardavėjas neturi pakeitimui tinkamų daiktų, tai pirkėjas turi teisę per šio straipsnio 1 dalyje nustatytą terminą grąžinti daiktus pardavėjui ir atgauti už juos sumokėtą kainą. Pardavėjas turi grąžinti pirkėjui pastarojo sumokėtą kainą nedelsdamas, bet ne vėliau kaip per keturiolika dienų nuo daikto grąžinimo dienos.
+
+TAR pastaba. Nustatytas keturiolikos dienų terminas taikomas po įstatymo Nr. XIII-64 įsigaliojimo (2017-11-01) sudarytoms vartojimo pirkimo–pardavimo sutartims.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
 
 3. Pirkėjo reikalavimas pakeisti daiktus tenkinamas, jeigu daiktai nebuvo naudojami, nesugadinti, išsaugotos jų vartojamosios savybės bei nepraradę prekinės išvaizdos ir pirkėjas turi įrodymus, patvirtinančius, kad jis daiktus pirko iš to pardavėjo.
 
@@ -10551,6 +10579,14 @@ Nr. XII-2753, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26873
 
 Lietuvos Respublikos civilinio kodekso 3.183 ir 4.236 straipsnių pakeitimo įstatymas
 
+28.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
+
+Lietuvos Respublikos civilinio kodekso 6.228-5, 6.228-13, 6.353, 6.362, 6.363 straipsnių pakeitimo ir Kodekso papildymo 6.358-1 straipsniu įstatymas
+
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
 Motorinės transporto priemonės pirkimo–pardavimo sutartyje privalo būti nurodyti duomenys apie motorinę transporto priemonę, kurią pardavėjas privalo pagal sutartį perduoti pirkėjui. Pardavėjas pirkimo–pardavimo sutartyje privalo pirkėjui nurodyti (deklaruoti) ridos duomenis, visus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta per laikotarpį, kurį pardavėjas yra motorinės transporto priemonės savininkas, taip pat visus jam žinomus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta. Privalomų pirkimo–pardavimo sutartyje nurodyti duomenų apie motorinę transporto priemonę ir jos trūkumus sąrašą tvirtina Vyriausybė arba jos įgaliota institucija.
@@ -10664,4 +10700,12 @@ Indėlininkas, kuris yra vartotojas, ypatingomis aplinkybėmis (darbo netekimas,
 Papildyta straipsniu:
 
 Nr. XII-2755, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26958
+
+6.3581 straipsnis. Reikalavimai dėl atskirų rūšių daiktų pardavimo ir atskirų rūšių prekybos vietų
+
+Reikalavimai dėl atskirų rūšių daiktų pardavimo tik nustatytose prekybos vietose (specializuotose parduotuvėse, specializuotuose parduotuvių skyriuose, turgavietėse ar kitose prekybos vietose), taip pat reikalavimai, taikomi atskirų rūšių prekybos vietoms, gali būti nustatyti įstatymuose.
+
+Papildyta straipsniu:
+
+Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
 
