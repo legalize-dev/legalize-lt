@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2017-11-01"
+last_updated: "2017-11-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-11-01 iki 2017-11-14
+Suvestinė redakcija nuo 2017-11-15 iki 2017-11-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
 
@@ -737,15 +737,21 @@ Pripažįstama, kad žala aplinkai padaryta, jeigu yra tiesioginis ar netiesiogi
 
 4) kitiems aplinkos elementams ar kitoms jų funkcijoms.
 
+2 dalies redakcija iki 2017-12-31:
+
 Gamtos išteklių naudotojai ir asmenys, vykdantys ūkinę veiklą, (toliau – ūkio subjektai) privalo imtis visų būtinų priemonių, kad būtų išvengta žalos aplinkai, žmonių sveikatai ir gyvybei, kitų asmenų turtui ir interesams, o padariusieji žalos aplinkai privalo kuo skubiau imtis veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, o tuo atveju, kai žala aplinkai šio įstatymo nustatyta tvarka pripažįstama žala, darančia reikšmingą neigiamą poveikį aplinkai, privalo atkurti aplinkos būklę iki pirminės būklės, taikydami aplinkos atkūrimo priemones aplinkos ministro nustatyta tvarka. Pirminė būklė nustatoma pagal turimą informaciją apie geriausią aplinkos būklę, buvusią žalos aplinkai padarymo metu ir kuri būtų buvusi, jeigu žala aplinkai nebūtų padaryta.
 
-Padariusieji žalos aplinkai ūkio subjektai privalo šio įstatymo nustatyta tvarka atlyginti žalą aplinkai ir kitus susijusius nuostolius, nurodytus šio įstatymo 33 straipsnio 2 dalyje. Žalos aplinkai ir kitų susijusių nuostolių dydis sumažinamas ūkio subjektų savo lėšomis įgyvendintų priemonių, kuriomis buvo atkurta aplinka ar sumažinta padaryta žala, išlaidų dydžiu.
+2 dalies redakcija nuo 2018-01-01:
+
+Gamtos išteklių naudotojai ir asmenys, vykdantys ūkinę veiklą, (toliau – ūkio subjektai) privalo imtis visų būtinų priemonių, kad būtų išvengta žalos aplinkai, žmonių sveikatai ir gyvybei, kitų asmenų turtui ir interesams, o padariusieji žalos aplinkai privalo kuo skubiau imtis veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo. Padariusieji žalos aplinkai asmenys taip pat privalo aplinkos ministro nustatytais atvejais atkurti aplinkos būklę, taikydami aplinkos atkūrimo priemones aplinkos ministro nustatyta tvarka. Tais atvejais, kai žala aplinkai šio įstatymo nustatyta tvarka pripažįstama žala, darančia reikšmingą neigiamą poveikį aplinkai (išskyrus reikšmingą neigiamą poveikį žemei), šią žalą aplinkai padarę asmenys privalo atkurti aplinkos būklę iki pirminės būklės, taikydami aplinkos atkūrimo priemones aplinkos ministro nustatyta tvarka. Tais atvejais, kai žala aplinkai šio įstatymo nustatyta tvarka pripažįstama žala, darančia reikšmingą neigiamą poveikį žemei, šią žalą žemei padarę asmenys privalo atkurti aplinkos būklę iki būklės, kai pašalinama didelė grėsmė, kad žemės užteršimas neigiamai paveiks žmonių sveikatą, taikydami aplinkos atkūrimo priemones aplinkos ministro nustatyta tvarka. Pirminė būklė nustatoma pagal turimą informaciją apie geriausią aplinkos būklę, kuri buvo žalos aplinkai padarymo metu ir kuri būtų buvusi, jeigu žala aplinkai nebūtų padaryta.
+
+Padariusieji žalos aplinkai asmenys privalo šio įstatymo nustatyta tvarka atlyginti žalą aplinkai ir kitus susijusius nuostolius, nurodytus šio įstatymo 33 straipsnio antrojoje dalyje. Žalos aplinkai ir kitų susijusių nuostolių dydis sumažinamas asmenų savo lėšomis įgyvendintų priemonių, kuriomis buvo atkurta aplinka ar sumažinta padaryta žala, išlaidų dydžiu.
 
 Žala aplinkai vertinama ir žalos aplinkai atlyginimo dydis apskaičiuojamas pagal aplinkos ministro patvirtintą metodiką, įvertinant pirminę aplinkos būklę (sąlygas), neigiamo poveikio aplinkai reikšmingumą, natūralaus aplinkos atsikūrimo galimybes ir laiką, atliktus veiksmus, užtikrinančius teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, taip pat pritaikytas aplinkos atkūrimo priemones.
 
-Žala natūralioms buveinėms ir saugomoms rūšims nelaikomas Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka pagal teisės aktų, reglamentuojančių natūralių buveinių ir saugomų rūšių apsaugą, reikalavimus iki veiklos vykdymo pradžios nustatytas ir įvertintas neigiamas aplinkos ar jos elementų pokytis, atsiradęs dėl neigiamo ūkinės veiklos poveikio, kuriam esant atsakinga institucija leido vykdyti šią ūkinę veiklą. Taip pat žala saugomoms rūšims ir natūralioms buveinėms nelaikomas neigiamas aplinkos ar jos elementų pokytis, atsiradęs dėl ūkinės veiklos, kurią ūkio subjektui leidžiama vykdyti pagal Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo nuostatas dėl leidimo netaikyti draudimų ūkinei veiklai, susijusiai su Europos Sąjungos svarbos gyvūnų ir augalų rūšimis, kurioms reikalinga griežta apsauga ar kurių ėmimui iš gamtos ir naudojimui gali būti taikomos tvarkymo priemonės, pagal Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo nuostatas dėl leidimo netaikyti draudimų su laukiniais paukščiais susijusiai ūkinei veiklai, taip pat pagal Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo nuostatas dėl išimčių taikymo negalimam poveikiui Lietuvos Respublikos saugomoms rūšims.
+Žala natūralioms buveinėms ir saugomoms rūšims nelaikomas Lietuvos Respublikos saugomų teritorijų įstatymo 241 straipsnio 10 ir 11 dalyse, Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo 14, 16 straipsnių ir 17 straipsnio 2 dalyje nustatyta tvarka iki ūkinės veiklos vykdymo pradžios nustatytas ir įvertintas neigiamas aplinkos ar jos elementų pokytis, atsiradęs dėl neigiamo ūkinės veiklos poveikio, kuriam esant atsakinga institucija leido vykdyti šią ūkinę veiklą.
 
-Jeigu kiti įstatymai nenustato kitaip, žalos aplinkai atlyginimo dydis neskaičiuojamas ir nereikalaujama jos atlyginti, kai žala aplinkai atsirado dėl ūkinės veiklos, kurią įstatymų nustatyta tvarka leidžiama vykdyti ir kuri vykdoma nepažeidžiant aplinkos apsaugos reikalavimų (įskaitant leidimo sąlygas).
+Tais atvejais, kai žala aplinkai pripažįstama žala, darančia reikšmingą neigiamą poveikį aplinkai, šią žalą aplinkai padaręs asmuo privalo savo išlaidomis imtis veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių aplinkos ministro nustatyta tvarka nepaisant to, kad žalą aplinkai lėmė teršimas, kuris buvo leidžiamas ir atitiko leidimo sąlygas ir teisės aktuose nustatytus aplinkos apsaugos reikalavimus, taikytus teršimo metu. Tais atvejais, kai žala aplinkai nepripažįstama žala, darančia reikšmingą neigiamą poveikį aplinkai, žalos aplinkai atlyginimo dydis neskaičiuojamas ir nereikalaujama jos atlyginti, taip pat nereikalaujama imtis veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių, jei žalą aplinkai lėmė teršimas, kuris buvo aiškiai leidžiamas ir visiškai atitiko leidimo sąlygas ir teisės aktuose nustatytus aplinkos apsaugos reikalavimus, taikytus teršimo metu.
 
 Straipsnio pakeitimai:
 
@@ -757,6 +763,8 @@ Straipsnio pakeitimai:
 
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 
+Nr. XIII-703, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17961
+
 33 straipsnis. Ieškiniai dėl žalos atlyginimo
 
 Pareikšti ieškinius dėl padarytos žalos turi teisę:
@@ -765,11 +773,13 @@ Pareikšti ieškinius dėl padarytos žalos turi teisę:
 
 2) Aplinkos ministerijos pareigūnai, kiti įstatymų įgalioti pareigūnai, kai padaryta žalos valstybės interesams.
 
-Aplinkos ministerija, jai pavaldžios ar kitos valstybės ar savivaldybių institucijos pagal kompetenciją ieškinius dėl žalos aplinkai bei kitų nuostolių atlyginimo gali pareikšti ūkio subjektui arba kitam asmeniui, padariusiam aplinkai žalos arba sukėlusiam neišvengiamą (realią) žalos aplinkai grėsmę, per penkerius metus nuo dienos, kada šios priemonės buvo baigtos taikyti arba buvo nustatytas atsakingas ūkio subjektas arba kitas asmuo, atsižvelgus į tai, kuri iš minėtų aplinkybių atsirado vėliau. Žalos aplinkai dydis apskaičiuojamas šio įstatymo 32 straipsnio 4 dalyje nustatyta tvarka, o kitų nuostolių dydis apskaičiuojamas įvertinus žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių vykdymo, žalos aplinkai ar neišvengiamos (realios) žalos aplinkai grėsmės, taikytinų aplinkos atkūrimo priemonių alternatyvų įvertinimo, taip pat administracinių, teisinių, vykdymo išlaidų, duomenų surinkimo, stebėsenos ir priežiūros išlaidas.
+Aplinkos ministerija, jai pavaldžios ar kitos valstybės ar savivaldybių institucijos pagal kompetenciją ieškinius dėl žalos aplinkai bei kitų nuostolių atlyginimo gali pareikšti ūkio subjektui arba kitam asmeniui, padariusiam aplinkai žalos arba sukėlusiam neišvengiamą (realią) žalos aplinkai grėsmę, per penkerius metus nuo dienos, kurią buvo nustatytas atsakingas ūkio subjektas ar kitas asmuo arba buvo baigtos taikyti žalos aplinkai prevencijos priemonės, veiksmai, užtikrinantys teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, arba aplinkos atkūrimo priemonės, atsižvelgus į tai, kuri iš minėtų aplinkybių atsirado vėliau. Žalos aplinkai dydis apskaičiuojamas šio įstatymo 32 straipsnio ketvirtojoje dalyje nustatyta tvarka, kitų nuostolių dydis apskaičiuojamas įvertinus žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių vykdymo, žalos aplinkai ar neišvengiamos (realios) žalos aplinkai grėsmės, taikytinų aplinkos atkūrimo priemonių alternatyvų įvertinimo, taip pat administracinių, teisinių, vykdymo išlaidų, duomenų surinkimo, stebėsenos ir priežiūros išlaidas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
+
+Nr. XIII-703, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17961
 
 Žala aplinkai ir kiti nuostoliai gali būti pripažinti kaip mažareikšmė žala ir neišieškomi, jeigu žala aplinkai yra nedidelė ir jos išieškojimo išlaidos didesnės už išieškomą sumą.
 
@@ -2774,4 +2784,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 7, 8, 15 straipsnių ir priedo pakeitimo ir 16, 17, 18 straipsnių pripažinimo netekusiais galios įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-703, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17961
+
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 32 ir 33 straipsnių pakeitimo įstatymas
 
