@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2017-09-01"
+last_updated: "2017-11-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-09-01 iki 2017-11-16
+Suvestinė redakcija nuo 2017-11-17 iki 2017-11-23
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
 
@@ -1444,6 +1444,12 @@ SVEIKATINIMO VEIKLOS KOORDINAVIMO SUBJEKTAI
 
 2. Seimui patvirtinus Tarybą, ne vėliau kaip per 10 darbo dienų pradedami Tarybos pirmininko rinkimai. Taryba, dalyvaujant ne mažiau kaip 2/3 narių, iš Tarybos narių renka kandidatą į Tarybos pirmininko pareigas. Kandidatu į Tarybos pirmininkus išrinktu laikomas asmuo, surinkęs ne mažiau kaip pusę visų Tarybos narių balsų. Jeigu nė vienas kandidatas nesurenka reikiamo balsų skaičiaus, Taryba, dalyvaujant ne mažiau kaip 2/3 narių, kandidatą į Tarybos pirmininkus renka pakartotiniuose rinkimuose, kuriuose dalyvauja du daugiausia balsų surinkę kandidatai. Kandidatu į Tarybos pirmininkus išrinktu laikomas asmuo, surinkęs posėdyje dalyvaujančių Tarybos narių balsų daugumą. Seimo Pirmininkas teikia Seimui skirti Tarybos siūlomą kandidatą į Tarybos pirmininko pareigas Tarybos kadencijai. Jeigu Seimas nepaskiria į Tarybos pirmininko pareigas Tarybos išrinkto kandidato, Taryba renka kitą kandidatą šioje dalyje nustatyta tvarka. Tas pats asmuo Tarybos pirmininku gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės.
 
+21. Jeigu Taryba šio straipsnio 2 dalyje nustatyta tvarka neišrenka kandidato į Tarybos pirmininko pareigas per 5 mėnesius nuo Tarybos patvirtinimo, taip pat jeigu Seimas nepaskiria Tarybos išrinkto kandidato į Tarybos pirmininko pareigas du kartus iš eilės, sudaroma naujos sudėties Taryba.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-718, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18150
+
 3. Tarybos pirmininkas vadovauja Tarybai, jis teisės aktų nustatyta tvarka kartu yra ir šios įstaigos vadovas. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme. Jis gali dirbti mokslo ir studijų institucijose ir gauti atlyginimą už mokslinę, pedagoginę bei kūrybinę veiklą. Tarybos pirmininko, naudojančio tarnybos laiką darbui mokslo ir studijų institucijoje, darbo užmokestis apskaičiuojamas proporcingai valstybės tarnyboje dirbtam laikui. Tarybos pirmininko įgaliojimai tęsiasi iki naujos sudėties Tarybos įgaliojimų pradžios.
 
 4. Tarybos pirmininką iš pareigų atleidžia Seimas Seimo Pirmininko teikimu. Tarybos pirmininkas iš pareigų atleidžiamas šiais atvejais:
@@ -2651,6 +2657,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-298, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06975
 
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 77 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-718, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18150
+
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 67 straipsnio pakeitimo įstatymas
 
 ir trečioji dalys, 94, 95 straipsniai, 96 straipsnis, 98  straipsnio antroji ir
 
