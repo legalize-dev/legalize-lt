@@ -4,7 +4,7 @@ identifier: "TAR.9845F775C518"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-06-15"
-last_updated: "2017-07-13"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9845F775C518"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2017-07-13 iki 2017-11-28
+Suvestinė redakcija nuo 2017-11-29 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 59-1916; Žin. 1999, Nr.60-0, i. k. 0991010ISTAIII-1227
 
@@ -139,7 +139,11 @@ BENDROSIOS NUOSTATOS
 
 8) Lietuvos centrinis vertybinių popierių depozitoriumas, reguliuojamos rinkos operatorius;
 
-9) valstybės įmonė, savivaldybės įmonė, akcinė bendrovė, uždaroji akcinė bendrovė, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, priklauso valstybei ir (arba) savivaldybei nuosavybės teise ir kurios laikomos didelėmis įmonėmis pagal Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymą.
+9) valstybės įmonė ir (ar) savivaldybės įmonė, kurių ne mažiau kaip du rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 4 straipsnio 3 dalyje, akcinė bendrovė ir (ar) uždaroji akcinė bendrovė, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, priklauso valstybei ir (arba) savivaldybei nuosavybės teise ir kurių ne mažiau kaip du rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus Įmonių finansinės atskaitomybės įstatymo 4 straipsnio 3 dalyje.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-786, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18849
 
 33. Viešojo intereso įmonių audito įmonė – audito įmonė, atliekanti viešojo intereso įmonės finansinių ataskaitų auditą.
 
@@ -1597,9 +1601,17 @@ VIEŠOJO INTERESO ĮMONIŲ, JŲ AUDITORIŲ IR AUDITO ĮMONIŲ PAREIGOS
 
 6) atsakyti už auditoriaus (auditorių) arba audito įmonės (įmonių) atrankos procedūros atlikimą ir rekomendacijos, kurį (kuriuos) auditorių (auditorius) arba audito įmonę (įmones) paskirti, pateikimą pagal reglamento (ES) Nr. 537/2014 16 straipsnį, išskyrus atvejus, kai taikoma reglamento (ES) Nr. 537/2014 16 straipsnio 8 dalis.
 
-6. Lietuvos bankas, vykdydamas Lietuvos Respublikos Lietuvos banko įstatyme jam pavestas funkcijas, gali nustatyti papildomas, negu nurodytos šio straipsnio 5 dalyje, audito komiteto pareigas.
+6. Viešojo intereso įmonėse, nustatytose šio įstatymo 2 straipsnio 32 dalies 1 punkte, audito komitetas, be šio straipsnio 5 dalyje nustatytų pareigų, taip pat teikia nuomones dėl šių įmonių sudaromų sandorių su susijusiomis šalimis, kaip nustatyta Lietuvos Respublikos akcinių bendrovių įstatymo 372 straipsnyje.
 
-TAR pastaba. 2 straipsnio 32 dalies 9 punkte nurodytoms viešojo intereso įmonėms 69 straipsnio nuostatos taikomos nuo 2017 m. liepos 1 d., o šių įmonių finansinių ataskaitų auditui Lietuvos Respublikos finansinių ataskaitų audito įstatymo reikalavimai taikomi atliekant 2017 m. sausio 1 d. ir vėliau prasidedančių finansinių metų auditą.
+Papildyta straipsnio dalimi:
+
+Nr. XIII-786, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18849
+
+7. Lietuvos bankas, vykdydamas Lietuvos Respublikos Lietuvos banko įstatyme jam pavestas funkcijas, gali nustatyti papildomas, negu nurodytos šio straipsnio 5 dalyje, audito komiteto pareigas.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-786, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18849
 
 SEPTYNIOLIKTASIS SKIRSNIS
 
@@ -1918,4 +1930,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-573, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12074
 
 Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 10, 14, 15, 20, 23 ir 24 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-786, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18849
+
+Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 2 ir 69 straipsnių pakeitimo įstatymas
 
