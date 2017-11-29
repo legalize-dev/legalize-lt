@@ -4,7 +4,7 @@ identifier: "TAR.4961DA7FA79F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-14"
-last_updated: "2017-01-01"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4961DA7FA79F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-11-28
+Suvestinė redakcija nuo 2017-11-29
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 56-1977, i. k. 1011010ISTA00IX-378
 
@@ -98,9 +98,11 @@ Pastaba. Transporto priemonių valdytojų civilinės atsakomybės privalomojo dr
 
 Pastaba. Transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 11 straipsnio 1 dalies 2 ir 3 punktuose nurodytos draudimo sumos pradedamos taikyti nuo šiuose punktuose nurodytų datų.
 
-3) nuo 2012 m. birželio 11 d. – 5 000 000 eurų dėl žalos asmeniui (tarp jų 5 000 eurų dėl neturtinės žalos) ir 1 000 000 eurų dėl žalos turtui.
+3) nuo 2012 m. birželio 11 d. iki 2018 m. spalio 31 d. – 5 000 000 eurų dėl žalos asmeniui (tarp jų 5 000 eurų dėl neturtinės žalos) ir 1 000 000 eurų dėl žalos turtui;
 
-Pastaba. Transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 11 straipsnio 1 dalies 2 ir 3 punktuose nurodytos draudimo sumos pradedamos taikyti nuo šiuose punktuose nurodytų datų.
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
 
 2. Vienu eismo įvykiu laikomas įvykis, įvykęs dėl tos pačios priežasties, nepaisant to, kad dėl tokio eismo įvykio gali būti pareikštos kelių nukentėjusių trečiųjų asmenų pretenzijos.
 
@@ -146,9 +148,11 @@ TREČIASIS SKIRSNIS
 
 5. Atstovas pretenzijoms nagrinėti turi nuolat gyventi arba būti įsisteigęs toje Europos Sąjungos valstybėje narėje, į kurią jis paskirtas. Atstovą pretenzijoms nagrinėti draudikas skiria savo nuožiūra. Atstovas pretenzijoms nagrinėti gali dirbti vienam ar keliems draudikams. Jis privalo užtikrinti, kad žalos administravimo klausimai būtų nagrinėjami valstybine kalba (valstybinėmis kalbomis) tos Europos Sąjungos valstybės narės, kurioje nuolat gyvena nukentėjęs trečiasis asmuo.
 
-6. Draudikas turi suteikti visus būtinus įgaliojimus, kad atstovas pretenzijoms nagrinėti atliktų savo funkcijas (rinktų būtiną informaciją, spręstų klausimus dėl išmokos mokėjimo, mokėtų išmokas ir kita).
+6. Draudikas turi suteikti visus būtinus įgaliojimus, kad atstovas pretenzijoms nagrinėti atliktų savo funkcijas (rinktų būtiną informaciją, spręstų klausimus dėl išmokos mokėjimo, mokėtų išmokas, priimtų teismo įteikiamus dokumentus ir kita).
 
-Pastaba. Transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 12 ir 14 straipsnių nuostatos dėl galimybės į eismo įvykio vietą nekviesti policijos ir dėl eismo įvykio deklaracijos įsigalioja nuo atitinkamų Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo ir Kelių eismo taisyklių pakeitimo, bet ne anksčiau kaip nuo 2008 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
 
 15 straipsnis. Žalos nustatymas
 
@@ -1129,4 +1133,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2745, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26865
 
 Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 43 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
+
+Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 11, 14, 15, 19 straipsnių ir priedo pakeitimo įstatymas
 
