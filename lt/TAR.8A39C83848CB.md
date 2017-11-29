@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2017-11-01"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2017-11-01 iki 2017-11-28
+Suvestinė redakcija nuo 2017-11-29 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -3095,7 +3095,7 @@ Vaikui nuolatinė globa (rūpyba) nustatoma, kai vaiko:
 
 4) tėvystės ar artimos giminystės ryšiai nuo vaiko radimo dienos nenustatyti per tris mėnesius;
 
-5) tėvai arba turimas vienintelis iš tėvų nustatyta tvarka pripažinti neveiksniais šioje srityje.
+5) tėvai arba turimas vienintelis iš tėvų nustatyta tvarka pripažinti neveiksniais šioje srityje;
 
 Straipsnio punkto pakeitimai:
 
@@ -3153,7 +3153,7 @@ Vaiko globos (rūpybos) vieta gali būti:
 
 2) vaiko gyvenamojoje vietoje;
 
-3) vaikų globos institucijoje.
+3) vaikų globos institucijoje;
 
 3.266 straipsnis. Vaiko globos (rūpybos) organizavimas
 
@@ -10586,6 +10586,30 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
 
 Lietuvos Respublikos civilinio kodekso 6.228-5, 6.228-13, 6.353, 6.362, 6.363 straipsnių pakeitimo ir Kodekso papildymo 6.358-1 straipsniu įstatymas
+
+29.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
+
+Lietuvos Respublikos civilinio kodekso 3.172, 3.176, 3.180, 3.183, 3.210, 3.212, 3.217, 3.219, 3.222, 3.223, 3.224, 3.243, 3.249, 3.250, 3.252, 3.253, 3.254, 3.256, 3.257, 3.262, 3.264, 3.265, 3.266, 3.267, 3.269, 3.271, 3.274 straipsnių pakeitimo ir Kodekso papildymo 3.276-1 straipsniu įstatymas
+
+30.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-557, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12060
+
+Lietuvos Respublikos civilinio kodekso 1.74 ir 4.58 straipsnių pakeitimo įstatymas
+
+31.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-787, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18850
+
+Lietuvos Respublikos civilinio kodekso 2.87 straipsnio pakeitimo įstatymas
 
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
