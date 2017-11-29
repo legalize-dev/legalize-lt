@@ -4,7 +4,7 @@ identifier: "TAR.B6B636C7384A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-30"
-last_updated: "2017-07-13"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2017-07-13 iki 2017-11-28
+Suvestinė redakcija nuo 2017-11-29 iki 2018-04-27
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
 
@@ -287,7 +287,11 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 6. Lietuvos Respublikoje įsteigtas užsienio banko filialas, teikdamas finansines paslaugas kitoje nei filialo buveinė vietoje, neprivalo toje vietoje įsteigti filialo. Jei užsienio bankas įsteigia daugiau negu vieną filialą Lietuvos Respublikoje, jis privalo nurodyti vieną filialą, kuris teiktų šio Įstatymo ir priežiūros institucijos teisės aktų nustatytą informaciją priežiūros institucijai apie visus Lietuvos Respublikoje įsteigtus filialus.
 
-7. Jei ne Europos Sąjungos valstybės narės, kurios jurisdikcijai priklauso užsienio bankas, Lietuvos Respublikoje steigiantis banką, įsigyjantis banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį arba steigiantis filialą ar atstovybę, teisės aktai numato papildomus ar griežtesnius, negu numatyta šiame Įstatyme, banko steigimo, banko kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimo arba filialo ar atstovybės steigimo reikalavimus ar sąlygas Lietuvos bankams, norintiems veikti toje valstybėje, tai priežiūros institucija turi teisę reikalauti, kad tokius pačius reikalavimus ir sąlygas įvykdytų ir užsienio bankas, norintis veikti Lietuvos Respublikoje.
+7. Neteko galios 2017-11-29.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-729, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18796
 
 17 straipsnis. Licencijos užsienio banko Lietuvos Respublikoje steigiamam bankui išdavimas
 
@@ -697,7 +701,11 @@ Nr. XI-1714, 2011-11-17, Žin., 2011, Nr. 139-6554 (2011-11-18)
 
 2. Banko vadovai turi būti nepriekaištingos reputacijos (šio straipsnio 12 ir 13 dalys) ir turėti kvalifikaciją ir patirtį, leidžiančią tinkamai eiti pareigas. Banko vadovų kvalifikacijos ir patirties reikalavimus nustato priežiūros institucijos teisės aktai. Banko vadovais negali būti asmenys, nesutinkantys, kad priežiūros institucija įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka tvarkytų šiame Įstatyme numatytoms licencijoms, leidimams ir sutikimams išduoti reikalingus jų duomenis, tarp jų asmens duomenis bei informaciją apie asmens teistumą, sveikatą.
 
-3. Bent vienas banko administracijos vadovas turi mokėti lietuvių kalbą ir nuolat gyventi Lietuvos Respublikoje.
+3. Bent vienas banko administracijos vadovas turi mokėti lietuvių kalbą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-729, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18796
 
 4. Banko vadovais gali tapti tik tie asmenys, kurie turi priežiūros institucijos leidimą. Priežiūros institucijos teisės aktai gali nustatyti atvejus, kada toks priežiūros institucijos leidimas nereikalingas.
 
@@ -2460,6 +2468,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-576, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12077
 
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 73 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-729, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18796
+
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 16 ir 34 straipsnių pakeitimo įstatymas
 
 1 straipsnis. Įstatymo paskirtis
 
