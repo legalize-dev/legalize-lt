@@ -4,7 +4,7 @@ identifier: "TAR.BF41D2C35D24"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-11"
-last_updated: "2017-06-28"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2017-06-28 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2018-12-21
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
 
@@ -544,11 +544,11 @@ Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010IST
 
 2. Transporto priemonės savininko ar valdytojo tapatybę, transporto priemonės registraciją, krovinio masę ir matmenis patvirtinančių dokumentų, kurių reikia leidimui važiuoti valstybinės reikšmės keliais gauti, sąrašą nustato susisiekimo ministras, o leidimui važiuoti vietinės reikšmės viešaisiais keliais gauti – savivaldybių tarybos. Šios institucijos, nustatydamos dokumentų sąrašą, negali reikalauti, kad transporto priemonės savininkas ar valdytojas pateiktų informaciją, kurią galima gauti iš valstybės registrų ir informacinių sistemų.
 
-3. Leidimą važiuoti valstybinės reikšmės keliais išduoda Valstybinė kelių transporto inspekcija prie Susisiekimo ministerijos, važiavimo maršrutą suderinusi su:
+3. Leidimą važiuoti valstybinės reikšmės keliais išduoda Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos, važiavimo maršrutą suderinusi su Alytaus miesto, Druskininkų, Kauno miesto, Klaipėdos miesto, Marijampolės, Palangos miesto, Panevėžio miesto, Šiaulių miesto, Vilniaus miesto savivaldybių administracijomis, kai važiuojama jų teritorijose esančiomis gatvėmis, kurios yra valstybinės reikšmės kelių tąsa.
 
-1) Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos;
+Straipsnio dalies pakeitimai:
 
-2) Alytaus miesto, Druskininkų, Kauno miesto, Klaipėdos miesto, Marijampolės, Palangos miesto, Panevėžio miesto, Šiaulių miesto, Vilniaus miesto savivaldybių administracijomis, kai važiuojama jų teritorijose esančiomis gatvėmis, kurios yra valstybinės reikšmės kelių tąsa.
+Nr. XIII-757, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18808
 
 4. Transporto priemonės, kurių matmenys su kroviniu yra didesni už didžiausiuosius leidžiamuosius matmenis: aukštį daugiau kaip 50 cm ir (ar) plotį daugiau kaip 100 cm ir (ar) ilgį daugiau kaip 500 cm ir (ar) masė su kroviniu yra daugiau kaip du kartus didesnė už didžiausiąją leidžiamąją masę, savininkas ar valdytojas ar jo įgaliotas asmuo, prieš teikdamas prašymą išduoti leidimą, su šio straipsnio 3 dalies 1 ir 2 punktuose nurodytomis institucijomis suderina važiavimo maršrutą, kurį nurodo prašyme išduoti leidimą.
 
@@ -745,6 +745,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-474, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10838
 
 Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5 ir 10 straipsnių pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-757, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18808
+
+Lietuvos Respublikos kelių įstatymo Nr. I-891 20 straipsnio pakeitimo įstatymas
 
 25 straipsnis.
 
