@@ -4,7 +4,7 @@ identifier: "TAR.74D8B260CB90"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-11-16"
-last_updated: "2015-05-01"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.74D8B260CB90"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Šventosios jūrų uosto įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 132-4987, i. k. 1061010ISTA000X-910
 
@@ -202,7 +202,11 @@ Nr. XI-716, 2010-03-30, Žin., 2010, Nr. 41-1941 (2010-04-10), i. k. 1101010ISTA
 
 1. Uosto veiklą, susijusią su laivyba, užtikrina uosto kapitonas. Uosto kapitono pareigas gali eiti laivavedys, mokantis valstybinę ir anglų kalbas bei turintis aukštąjį jūrinį išsilavinimą ir ne mažesnį kaip penkerių metų plaukiojimo jūrų laivo, kurio bendroji talpa 3 000 ir daugiau tonų, kapitonu stažą.
 
-2. Uosto kapitono veiklą nustato Lietuvos Respublikos saugios laivybos įstatymas, šis įstatymas ir Uosto kapitono nuostatai. Uosto kapitono nuostatus, suderintus su Lietuvos saugios laivybos administracija, tvirtina Šventosios uosto direkcijos vadovas.
+2. Uosto kapitono veiklą nustato Lietuvos Respublikos saugios laivybos įstatymas, šis įstatymas ir Šventosios valstybinio jūrų uosto kapitono nuostatai (toliau – Uosto kapitono nuostatai). Uosto kapitono nuostatus, suderintus su Lietuvos transporto saugos administracija, tvirtina Šventosios uosto direkcijos vadovas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-763, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18815
 
 3. Uosto kapitonas neleidžia laivui išplaukti iš uosto, jeigu laivybos bendrovė nesumokėjo tam laivui apskaičiuotų uosto rinkliavų ir baudų, laivas sužalojo ar sunaikino uosto infrastruktūrą ir (ar) suprastruktūrą, laivybos bendrovė nepadengė išlaidų, kurias Šventosios uosto direkcija patyrė organizuodama laivo ar krovinio gelbėjimo darbus ir taršos iš laivų prevencijos ar likvidavimo darbus, arba nepateikė prievolių įvykdymo užtikrinimo Lietuvos Respublikos įstatymų nustatytais būdais. Kai laivybos bendrovė sumoka uosto rinkliavas, baudas ir padengia uostą valdančios įmonės išlaidas arba pateikia prievolių įvykdymo užtikrinimą Lietuvos Respublikos įstatymų nustatytais būdais, uosto kapitonas leidžia laivui išplaukti iš uosto.
 
@@ -463,4 +467,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1221, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14527
 
 Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 2, 4, 6, 10 ir 13 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-763, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18815
+
+Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 10 straipsnio pakeitimo įstatymas
 
