@@ -4,7 +4,7 @@ identifier: "TAR.CB941ADCC055"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-01"
-last_updated: "2017-01-01"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
 
@@ -590,7 +590,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
 
-9. Apie priimtą sprendimą sulaikyti laivą aplinkos apsaugos valstybinės kontrolės pareigūnas nedelsdamas informuoja valstybės, su kurios vėliava laivas plaukia, kompetentingas institucijas, Lietuvos saugios laivybos administraciją, Valstybės sienos apsaugos tarnybą prie Lietuos Respublikos vidaus reikalų ministerijos.
+9. Apie priimtą sprendimą sulaikyti laivą aplinkos apsaugos valstybinės kontrolės pareigūnas nedelsdamas informuoja valstybės, su kurios vėliava laivas plaukia, kompetentingas institucijas, Lietuvos transporto saugos administraciją, Valstybės sienos apsaugos tarnybą prie Lietuvos Respublikos vidaus reikalų ministerijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-755, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18806
 
 39(6) straipsnis. Sprendimo sulaikyti laivą panaikinimas ir galiojimas
 
@@ -614,11 +618,13 @@ Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
 
 3. Kai aplinkos apsaugos valstybinės kontrolės pareigūnas perduoda bylos medžiagą ikiteisminio tyrimo institucijai, sprendimas sulaikyti laivą galioja 5 kalendorines dienas nuo bylos medžiagos perdavimo ikiteisminio tyrimo institucijai dienos, išskyrus atvejus, kai prokuroras priima nutarimą nutraukti laivo sulaikymą ar Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka priima nutarimą dėl laikino nuosavybės teisės apribojimo. Šiuo atveju sprendimas sulaikyti laivą galioja iki nutarimo nutraukti laivo sulaikymą priėmimo ar nutarimo dėl laikino nuosavybės teisės apribojimo priėmimo.
 
-4. Priimto aplinkos apsaugos valstybinės kontrolės pareigūno nutarimo panaikinti sprendimą sulaikyti laivą administracinio nusižengimo bylą nagrinėjančio teismo nutarties, prokuroro nutarimo nutraukti laivo sulaikymą ar nutarimo dėl laikino nuosavybės teisės apribojimo paskyrimo, ikiteisminio tyrimo teisėjo nutarties dėl laikino nuosavybės teisės apribojimo panaikinimo ar termino pratęsimo, baudžiamąją bylą nagrinėjančio teismo nutarties dėl laikino nuosavybės teisės apribojimo paskyrimo, termino pratęsimo ar panaikinimo kopijos nedelsiant išsiunčiamos sulaikyto laivo kapitonui, valstybės, su kurios vėliava plaukia laivas, kompetentingoms institucijoms, Lietuvos saugios laivybos administracijai, Valstybės sienos apsaugos tarnybai prie Lietuvos Respublikos vidaus reikalų ministerijos ir jūrų uosto kapitonui.
+4. Priimto aplinkos apsaugos valstybinės kontrolės pareigūno nutarimo panaikinti sprendimą sulaikyti laivą administracinio nusižengimo bylą nagrinėjančio teismo nutarties, prokuroro nutarimo nutraukti laivo sulaikymą ar nutarimo dėl laikino nuosavybės teisės apribojimo paskyrimo, ikiteisminio tyrimo teisėjo nutarties dėl laikino nuosavybės teisės apribojimo panaikinimo ar termino pratęsimo, baudžiamąją bylą nagrinėjančio teismo nutarties dėl laikino nuosavybės teisės apribojimo paskyrimo, termino pratęsimo ar panaikinimo kopijos nedelsiant išsiunčiamos sulaikyto laivo kapitonui, valstybės, su kurios vėliava plaukia laivas, kompetentingoms institucijoms, Lietuvos transporto saugos administracijai, Valstybės sienos apsaugos tarnybai prie Lietuvos Respublikos vidaus reikalų ministerijos ir jūrų uosto kapitonui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
+
+Nr. XIII-755, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18806
 
 5. Jei nutarimas sulaikyti laivą nustoja galioti šio straipsnio 3 dalies numatytais pagrindais, prokuroras apie laivo sulaikymo galiojimo termino pabaigą nedelsdamas informuoja šio straipsnio 4 dalyje nurodytas institucijas ir laivo kapitoną.
 
@@ -893,6 +899,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
 
 Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 12, 39-5, 39-6, 49 ir 50 straipsnių pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-755, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18806
+
+Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 39-5 ir 39-6 straipsnių pakeitimo įstatymas
 
 21 straipsnis. Privalomojo nurodymo įvykdymo terminai
 
