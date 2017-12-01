@@ -4,7 +4,7 @@ identifier: "TAR.F617B8D97E05"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-05-09"
-last_updated: "2017-01-01"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2018-04-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
 
@@ -215,9 +215,17 @@ Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010IST
 
 1. Konsulinis pareigūnas privalo imtis priemonių, kad būtų suteikta pagalba jo konsulinėje apygardoje avariją patyrusiam Lietuvos Respublikos nacionalinę priklausomybę turinčiam laivui, jo įgulai ir keleiviams, ir kreiptis pagalbos į kompetentingas buvimo valstybės institucijas.
 
-2. Konsulinis pareigūnas, gavęs informacijos iš buvimo valstybės kompetentingų institucijų, kad Lietuvos Respublikos nacionalinę priklausomybę turintis laivas yra sulaikytas dėl tarptautinių saugios laivybos reikalavimų pažeidimų, praneša apie tai Lietuvos saugios laivybos administracijai.
+2. Konsulinis pareigūnas, gavęs informacijos iš buvimo valstybės kompetentingų institucijų, kad Lietuvos Respublikos nacionalinę priklausomybę turintis laivas yra sulaikytas dėl tarptautinių saugios laivybos reikalavimų pažeidimų, praneša apie tai Lietuvos transporto saugos administracijai.
 
-3. Jeigu, konsulinio pareigūno žiniomis, laivo, turinčio Lietuvos Respublikos nacionalinę priklausomybę, įplaukimas į kurį nors uostą yra nesaugus, nepageidautinas arba negalimas, konsulinis pareigūnas privalo apie tai pranešti Lietuvos saugios laivybos administracijai, Lietuvos Respublikos užsienio reikalų ministerijai ir, esant galimybei, įspėti apie tai laivo kapitoną.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-760, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18812
+
+3. Jeigu, konsulinio pareigūno žiniomis, laivo, turinčio Lietuvos Respublikos nacionalinę priklausomybę, įplaukimas į kurį nors uostą yra nesaugus, nepageidautinas arba negalimas, konsulinis pareigūnas privalo apie tai pranešti Lietuvos transporto saugos administracijai, Lietuvos Respublikos užsienio reikalų ministerijai ir, esant galimybei, įspėti apie tai laivo kapitoną.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-760, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18812
 
 4. Buvimo valstybės kompetentingų institucijų prašymu ir pritarus Lietuvos Respublikos užsienio reikalų ministerijai, konsulinis pareigūnas duoda sutikimą buvimo valstybei imtis veiksmų prieš Lietuvos Respublikos pilietį, įvykdžiusį nusikaltimą laive, turinčiame Lietuvos Respublikos nacionalinę priklausomybę, jam būnant buvimo valstybės teritorinėje jūroje, vidaus vandenyse ar uoste.
 
@@ -538,6 +546,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2117, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19706
 
 Lietuvos Respublikos konsulinio statuto Nr. I-886 31 straipsnio pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-760, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18812
+
+Lietuvos Respublikos konsulinio statuto Nr. I-886 21 straipsnio pakeitimo įstatymas
 
 43 straipsnis
 
