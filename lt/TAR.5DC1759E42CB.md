@@ -4,7 +4,7 @@ identifier: "TAR.5DC1759E42CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2017-06-10"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2017-06-10 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
 
@@ -166,7 +166,11 @@ Bendrosios nuostatos
 
 55. Skiriamoji kelio juosta (toliau – skiriamoji juosta) – gretimas važiuojamąsias dalis skiriantis konstrukcinis kelio elementas (apželdintas veja, želdiniais arba su kelio danga), kur transporto priemonėms draudžiama važiuoti, sustoti ir stovėti.
 
-56. Specialioji transporto priemonė – policijos, greitosios medicinos pagalbos, priešgaisrinės apsaugos ir gelbėjimo tarnybos, dujų įmonės avarinės tarnybos, aplinkos apsaugos valstybinės kontrolės institucijos motorinė transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais, Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos pavaldžios laisvės atėmimo vietos transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais, pritaikyta suimtiesiems ir nuteistiesiems konvojuoti į gydymo įstaigas, vidaus reikalų statutinės įstaigos, prokuratūros, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos, Lietuvos kariuomenės Specialiųjų operacijų pajėgų, Karo policijos, muitinės, Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos specialiomis spalvomis nudažyta ar nenudažyta motorinė transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais.
+56. Specialioji transporto priemonė – policijos, greitosios medicinos pagalbos, priešgaisrinės apsaugos ir gelbėjimo tarnybos, dujų įmonės avarinės tarnybos, aplinkos apsaugos valstybinės kontrolės institucijos motorinė transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais, Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos pavaldžios laisvės atėmimo vietos transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais, pritaikyta suimtiesiems ir nuteistiesiems konvojuoti į gydymo įstaigas, vidaus reikalų statutinės įstaigos, prokuratūros, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos, Lietuvos kariuomenės Specialiųjų operacijų pajėgų, Karo policijos, muitinės, Lietuvos transporto saugos administracijos specialiomis spalvomis nudažyta ar nenudažyta motorinė transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-766, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18819
 
 57. Specialiųjų transporto priemonių vairuotojų mokymas – Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka organizuojamas ir vykdomas specialiųjų transporto priemonių vairuotojų mokymas.
 
@@ -192,11 +196,21 @@ Bendrosios nuostatos
 
 68. Transporto priemonės savininkas – asmuo, kuriam transporto priemonė priklauso nuosavybės teise.
 
+69. Techninis patikrinimas kelyje (toliau – techninis patikrinimas) – policijos ir (ar) Lietuvos transporto saugos administracijos atliekamas netikėtas M2, M3, N2, N3, O3, O4 klasių transporto priemonių, T5 kategorijos ratinių traktorių, kurie dažniausiai naudojami viešuosiuose keliuose vežimams už atlygį ir kurių didžiausias projektinis greitis yra didesnis kaip 40 km/h, techninės būklės, krovinio išdėstymo ir (ar) pritvirtinimo patikrinimas kelyje. Techninį patikrinimą sudaro pradinis techninis patikrinimas kelyje ir esant pagrįstam poreikiui išsamesnis techninis patikrinimas techninės apžiūros įmonėje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-766, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18819
+
 69. Transporto priemonės stovėjimas (toliau – stovėjimas) – transporto priemonės sustabdymas ilgesniam laikui, negu reikia keleiviams laipinti arba transporto priemonei krauti.
 
 70. Transporto priemonės sustojimas (toliau – sustojimas) – transporto priemonės sustabdymas ne ilgesniam laikui, negu reikia keleiviams laipinti arba transporto priemonei krauti.
 
-71. Transporto priemones tikrinantys pareigūnai (toliau – tikrinantys pareigūnai) – uniformuoti valstybės institucijų (policijos, muitinės, Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos, Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos, aplinkos apsaugos valstybinės kontrolės) įgalioti pareigūnai, kuriems Lietuvos Respublikos įstatymų nustatyta tvarka suteikta teisė stabdyti transporto priemones ir atlikti būtiną patikrinimą.
+71. Transporto priemones tikrinantys pareigūnai (toliau – tikrinantys pareigūnai) – uniformuoti valstybės institucijų (policijos, muitinės, Lietuvos transporto saugos administracijos, Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos, aplinkos apsaugos valstybinės kontrolės) įgalioti pareigūnai, kuriems Lietuvos Respublikos įstatymų nustatyta tvarka suteikta teisė stabdyti transporto priemones ir atlikti būtiną patikrinimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-766, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18819
 
 72. Transporto priemonės tipo patvirtinimas (toliau – tipo patvirtinimas) – procedūra, per kurią patvirtinama, kad transporto priemonė atitinka tam tikras administracines nuostatas ir techninius reikalavimus. Prie šios procedūros priskiriamas ir transporto priemonės atskiros sistemos, sudedamosios dalies ar techninio mazgo atitikties administracinėms nuostatoms ir techniniams reikalavimams patvirtinimas.
 
@@ -776,6 +790,12 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 3. Asmens teisę vairuoti tam tikrų kategorijų motorines transporto priemones patvirtina įrašas Lietuvos Respublikos kelių transporto priemonių vairuotojų registre ir valstybės įmonės „Regitra“ išduotas vairuotojo pažymėjimas, taip pat policijos įstaigų išduoti vairuotojo pažymėjimai ir šio įstatymo 13 straipsnio 5 dalyje nurodyti užsienio valstybėse išduoti vairuotojo pažymėjimai.
 
+31. Asmeniui, nesumokėjusiam visų jam paskirtų baudų už padarytus Kelių eismo taisyklių pažeidimus (kai nustatytas terminas jas sumokėti pasibaigęs), vairuotojo pažymėjimas neišduodamas ir nekeičiamas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-491, 2017-06-22, paskelbta TAR 2017-06-30, i. k. 2017-11221
+
 4. Vairuotojo pažymėjimai išduodami ne ilgesniam kaip 10 metų laikotarpiui, o teisė vairuoti C1, C1E, C, CE, D1, D1E, D, DE kategorijų transporto priemones galioja ne ilgiau kaip 5 metus nuo vairuotojo pažymėjimo išdavimo dienos.
 
 5. Pradedantiesiems vairuotojams išduodamas 2 metus galiojantis vairuotojo pažymėjimas, kurį jie vidaus reikalų ministro ar jo įgaliotos institucijos nustatyta tvarka turės teisę pakeisti į 10 metų galiojantį vairuotojo pažymėjimą nebaigę papildomo vairuotojų mokymo, jeigu per 2 metus nepažeidė KET reikalavimo (reikalavimų), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, arba nesukėlė eismo įvykio, dėl kurio buvo sutrikdyta eismo dalyvio sveikata. Pradedantysis vairuotojas, pažeidęs KET reikalavimą (reikalavimus), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, papildomą vairuotojų mokymą privalo baigti per vienus metus nuo pažeidimo padarymo datos.
@@ -1160,7 +1180,7 @@ Siekiant užtikrinti eismo keliais saugumą ir apsaugoti žmonių gyvybę, sveik
 
 2. Priverstinai transporto priemonė gali būti nuvežama į kitą vietą iš vietų, kuriose leidžiama transporto priemonėms stovėti, jei trukdo šias vietas valyti ir tvarkyti savivaldybės vykdomosios institucijos prašymu arba jei trukdo valstybės institucijoms ar tarnyboms atlikti gelbėjimo darbus arba likviduoti avarijos padarinius, ir iš vietų, kurios turi būti atlaisvintos dėl rengiamo oficialaus vizito. Šioje dalyje numatytais atvejais transporto priemonės savininkas ar valdytojas neatlygina išlaidų, susijusių su transporto priemonės priverstiniu nuvežimu.
 
-3. Sprendimą dėl priverstinio transporto priemonės nuvežimo ar uždraudimo toliau važiuoti, jei yra šio straipsnio 1 dalyje nustatyti pagrindai, gali priimti policijos ir Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos pareigūnai, o jei yra šio straipsnio 2 dalyje nustatyti pagrindai, – policijos ir Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos pareigūnai.
+3. Sprendimą dėl priverstinio transporto priemonės nuvežimo ar uždraudimo toliau važiuoti, jei yra šio straipsnio 1 dalyje nustatyti pagrindai, gali priimti policijos ir Lietuvos transporto saugos administracijos pareigūnai, o jei yra šio straipsnio 2 dalyje nustatyti pagrindai, – policijos ir Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos pareigūnai.
 
 4. Policijos pareigūnai, priėmę sprendimą dėl priverstinio transporto priemonės nuvežimo, praneša transporto priemonės savininkui (valdytojui) teisės aktų nustatyta tvarka apie priimtą sprendimą dėl priverstinio transporto priemonės nuvežimo.
 
@@ -1168,17 +1188,13 @@ Siekiant užtikrinti eismo keliais saugumą ir apsaugoti žmonių gyvybę, sveik
 
 6. Išlaidas, susijusias su priverstiniu transporto priemonės nuvežimu į transporto priemonės stovėjimo aikštelę šio straipsnio 1 dalyje nurodytais atvejais ir jos saugojimu transporto priemonės stovėjimo aikštelėje, ūkio subjektui transporto priemonės savininkas ir valdytojas atlygina solidariai. Šios išlaidos atlyginamos arba adekvatus prievolės atlyginti išlaidas įvykdymo užtikrinimas Civiliniame kodekse nustatytais būdais ir tvarka pateikiamas iki transporto priemonės paėmimo iš transporto priemonės stovėjimo aikštelės.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1849, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10594
-
 Straipsnio pakeitimai:
 
 Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
-Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Straipsnio pakeitimai:
 
-2013-12-20, Žin., 2013, Nr. 133-6792 (2013-12-21)
+Nr. XIII-766, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18819
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
