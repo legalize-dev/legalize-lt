@@ -4,7 +4,7 @@ identifier: "TAR.D66F6A760DE7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2017-01-01"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7"
 department: "Lietuvos Respublikos Seimas"
@@ -16,17 +16,9 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2018-02-28
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 53-1245, i. k. 0961010ISTA00I-1340
-
-TAR pastaba. Uosto žemės naudotojai, įgiję leidimus vykdyti veiklą ar veiklas laisvajame uoste iki įstatymo Nr. XII-2540 įsigaliojimo (2017-01-01), laisvajame uoste gali verstis ūkine ir komercine veikla jų leidimuose nustatytais terminais. Įsigaliojus šiam įstatymui, prašymai vykdyti veiklą laisvajame uoste, kurie buvo pateikti iki šio įstatymo įsigaliojimo ir kurių Lietuvos Respublikos susisiekimo ministerija nespėjo išnagrinėti, prilyginami deklaracijoms dėl uosto žemės naudotojų atitikties ir uosto žemės naudotojas įgyja teisę vykdyti veiklą laisvajame uoste nuo to momento, kai Lietuvos Respublikos susisiekimo ministerijai jis pateikia pasirašytos (galiojančios) sutarties su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos ar Muitinės departamento generalinio direktoriaus įgaliota muitinės įstaiga dėl prekių muitinės priežiūros laisvajame uoste kopiją.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
-
-Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 2, 7, 10, 14, 17, 18, 21, 33 straipsnių pakeitimo, Įstatymo papildymo 31-2 straipsniu, priedu ir 13, 15, 20 straipsnių pripažinimo netekusiais galios įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -334,7 +326,11 @@ Nr. XI-715, 2010-03-30, Žin., 2010, Nr. 41-1940 (2010-04-10)
 
 2. Uosto kapitono pareigas gali eiti laivavedys, mokantis valstybinę ir anglų kalbas bei turintis aukštąjį jūrinį išsilavinimą ir ne mažesnį kaip penkerių metų plaukiojimo jūrų laivo, kurio bendroji talpa 3000 ir daugiau tonų, kapitonu stažą.
 
-3. Uosto kapitono veiklą nustato šis įstatymas, Lietuvos Respublikos saugios laivybos įstatymas bei Uosto kapitono nuostatai. Uosto kapitono nuostatus, suderintus su Lietuvos saugios laivybos administracija, tvirtina Uosto direkcijos vadovas.
+3. Uosto kapitono veiklą nustato šis įstatymas, Lietuvos Respublikos saugios laivybos įstatymas bei Klaipėdos valstybinio jūrų uosto kapitono nuostatai (toliau – Uosto kapitono nuostatai). Uosto kapitono nuostatus, suderintus su Lietuvos transporto saugos administracija, tvirtina Uosto direkcijos vadovas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-759, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18811
 
 4. Uosto kapitonas neleidžia laivui išplaukti iš uosto, jeigu laivybos bendrovė nesumokėjo tam laivui apskaičiuotų uosto rinkliavų ir baudų, laivas sužalojo ar sunaikino uosto infrastruktūrą ir (ar) suprastruktūrą, laivybos bendrovė nepadengė išlaidų, kurias Uosto direkcija patyrė organizuodama laivo ar krovinio gelbėjimo darbus ir taršos iš laivų prevencijos ar likvidavimo darbus, arba nepateikė prievolių įvykdymo užtikrinimo Lietuvos Respublikos įstatymų nustatytais būdais. Kai laivybos bendrovė sumoka uosto rinkliavas, baudas ir padengia uostą valdančios įmonės išlaidas arba pateikia prievolių įvykdymo užtikrinimą Lietuvos Respublikos įstatymų nustatytais būdais, uosto kapitonas leidžia laivui išplaukti iš uosto.
 
@@ -1093,6 +1089,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
 
 Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 2, 7, 10, 14, 17, 18, 21, 33 straipsnių pakeitimo, Įstatymo papildymo 31-2 straipsniu, priedu ir 13, 15, 20 straipsnių pripažinimo netekusiais galios įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-759, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18811
+
+Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 12-1 straipsnio pakeitimo įstatymas
 
 311 straipsnis. Uosto ir uosto infrastruktūros ir suprastruktūros įrenginio (terminalo) apsaugos vertinimas
 
