@@ -4,7 +4,7 @@ identifier: "TAR.0F9036415DBD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-05-21"
-last_updated: "2017-08-01"
+last_updated: "2017-12-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-08-01 iki 2017-12-13
+Suvestinė redakcija nuo 2017-12-14 iki 2017-12-28
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
 
@@ -98,7 +98,7 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 4) nedarbo socialinis draudimas;
 
-5) nelaimingų atsitikimų darbe ir profesinių ligų socialinis draudimas.
+5) nelaimingų atsitikimų darbe ir profesinių ligų socialinis draudimas;
 
 2. Pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo rūšys reglamentuojamos šiuo ir atskirų socialinio draudimo rūšių įstatymais.
 
@@ -332,7 +332,7 @@ Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
 
 24) apskaičiuotos pardavimo pridėtinės vertės mokesčio sumos už patiektas prekes ir suteiktas paslaugas;
 
-25) pagal pasirinkimo sandorius gaunamų akcijų, jeigu teisė į akcijas darbuotojams suteikiama ne anksčiau kaip po 3 metų.
+25) pagal pasirinkimo sandorius gaunamų akcijų, jeigu teisė į akcijas darbuotojams suteikiama ne anksčiau kaip po 3 metų;
 
 2. Asmenys, kurie verčiasi individualia veikla turėdami verslo liudijimą, ūkininkai ir jų partneriai socialinio draudimo įmokų gali nemokėti (tas laikotarpis neįskaitomas į socialinio draudimo stažą ir tuo laikotarpiu jie nėra laikomi apdraustais socialiniu draudimu), jeigu šie asmenys:
 
@@ -806,7 +806,11 @@ Fondo valdybos teritoriniai skyriai:
 
 35 straipsnis. Socialinio draudimo rezervinis fondas
 
-1. Socialinio draudimo rezervinis fondas privalomai sudaromas kiekvienais biudžetiniais metais pervedant į jį atitinkamos socialinio draudimo rūšies įplaukų dalį, viršijančią atitinkamos socialinio draudimo rūšies išlaidų sumą. Socialinio draudimo rezervinį fondą sudaro rezervinio fondo dalis, skirta pensijoms, ir rezervinio fondo dalis, skirta kitoms socialinio draudimo išmokoms.
+1. Socialinio draudimo rezervinis fondas privalomai sudaromas kiekvienais biudžetiniais metais pervedant į jį Fondo įplaukų dalį, viršijančią Fondo įprastinės ir investicinės veiklos išlaidas ir metų pabaigoje negrąžintų paskolų sumą bei įvertinus kasos apyvartos lėšų pokytį. Pasiekus Socialinio draudimo rezervinio fondo dydį, lygų paskutinių praėjusių metų Fondo įprastinės ir investicinės veiklos metinei išlaidų sumai, įplaukų dalis, viršijanti šias išlaidas ir metų pabaigoje negrąžintų paskolų sumą, naudojama socialinio draudimo reikmėms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 2. Socialinio draudimo rezervinio fondo veiklą reglamentuoja Vyriausybės tvirtinami Valstybinio socialinio draudimo rezervinio fondo sudarymo ir valdymo nuostatai, kuriuose nustatomi Socialinio draudimo rezervinio fondo sudarymo šaltiniai, dydis, panaudojimo, audito tvarka, veikla ir atskaitomybė.
 
