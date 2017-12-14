@@ -4,7 +4,7 @@ identifier: "TAR.A7D82E8EDC6B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-12"
-last_updated: "2017-05-07"
+last_updated: "2017-12-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,17 +15,21 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2017-05-07 iki 2017-12-13
+Suvestinė redakcija nuo 2017-12-14 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis įstatymas nustato Kelių priežiūros ir plėtros programos (toliau – Programa) finansavimo lėšų šaltinius ir panaudojimo tvarką.
+1. Šis įstatymas nustato kelių naudojimo apmokestinimo ir Kelių priežiūros ir plėtros programos (toliau – Programa) finansavimo tvarką.
 
-2. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo 5 priede.
+2. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo 5 priede.
 
 3. Šio įstatymo tikslas – kaupti ir naudoti lėšas automobilių kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-812, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20006
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -114,12 +118,6 @@ KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2315, 2016-04-14, paskelbta TAR 2016-04-18, i. k. 2016-09858
-
-8) darbo reikalais vykstančių miškų urėdijos, kuriai perduotas valdyti Kuršių nerijoje esantis valstybinės miško žemės sklypas, darbuotojų ir jos transporto priemonių.
-
-Papildyta straipsnio punktu:
-
-Nr. XII-2571, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20663
 
 6. Programos finansavimo lėšos pagal Vyriausybės nustatytą tvarką naudojamos gyventojų ir jų lengvųjų automobilių neatlygintino perkėlimo užlietu krašto kelio Šilutė–Rusnė ruožu sąnaudoms kompensuoti.
 
