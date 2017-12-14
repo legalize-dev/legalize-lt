@@ -4,7 +4,7 @@ identifier: "TAR.F960F4CF3005"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2016-12-24"
+last_updated: "2017-12-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas
 
-Suvestinė redakcija nuo 2016-12-24 iki 2017-12-13
+Suvestinė redakcija nuo 2017-12-14 iki 2018-12-20
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1743, i. k. 0971010ISTAVIII-385
 
@@ -105,7 +105,11 @@ TAR pastaba. Trečiojo skirsnio nuostatos taikomos rengiant Lietuvos Respublikos
 
 3) Seimo, Vyriausybės patvirtintoms programoms ar priimtiems sprendimams vykdyti.
 
-3. Valstybės biudžeto bendrosios dotacijos kompensacijos (BDK) savivaldybių biudžetams skiriamos dėl Seimo ar Vyriausybės priimtų sprendimų atsirandantiems savivaldybių biudžetų pajamų ir išlaidų pokyčiams kompensuoti.
+3. Netenka galios 2017-12-14.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-808, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20002
 
 6 straipsnis. Prognozuojamos lėšos savivaldybių gyventojų pajamų mokesčiui ir išlaidų struktūrų skirtumams išlyginti
 
@@ -211,17 +215,35 @@ Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
 
 10 straipsnis. Finansiniai rodikliai ir pervedimai
 
-1. Vyriausybė, su Lietuvos savivaldybių asociacija apsvarsčiusi, kasmet teikia Seimui tvirtinti šiuos metų rodiklius:
+1. Vyriausybė, apsvarsčiusi su Lietuvos savivaldybių asociacija, kiekvienais metais teikia Seimui tvirtinti šiuos metų rodiklius:
 
-1) gyventojų pajamų mokesčio dalį (procentais), tenkančią visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, išskyrus fiksuoto dydžio gyventojų pajamų mokestį, mokamą už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą. Ateinančių metų gyventojų pajamų mokesčio dalis (procentais) apskaičiuojama einamųjų metų gyventojų pajamų mokesčio dalį (procentais) koreguojant atsižvelgus į einamųjų ar ateinančių biudžetinių metų Seimo ir Vyriausybės sprendimų nulemtus savivaldybių išlaidų ar pajamų pokyčius;
+1) pastoviąją gyventojų pajamų mokesčio dalį (procentais), tenkančią visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, išskyrus fiksuoto dydžio gyventojų pajamų mokestį, mokamą už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą. Ateinančių metų pastovioji gyventojų pajamų mokesčio dalis (procentais) apskaičiuojama einamųjų metų pastoviąją gyventojų pajamų mokesčio dalį (procentais) koreguojant atsižvelgus į einamųjų ar ateinančių biudžetinių metų Seimo ir (ar) Vyriausybės sprendimų nulemtus savivaldybių pajamų pokyčius. Dėl Seimo ir (ar) Vyriausybės sprendimų nulemtų savivaldybių pajamų pokyčių, kurie mažintų savivaldybių biudžetų prognozuojamas pajamas, pastovioji gyventojų pajamų mokesčio dalis (procentais) koreguojama taip:
 
-2) valstybės biudžeto bendrosios dotacijos (jeigu ji numatoma) dalį, skiriamą kiekvienai savivaldybei gyventojų pajamų mokesčiui išlyginti;
+a) jeigu mažėja savivaldybių iš gyventojų pajamų mokesčio gaunamos savivaldybių biudžetų prognozuojamos pajamos, naudojama suma apskaičiuojama pagal formulę:
 
-3) valstybės biudžeto bendrosios dotacijos (jeigu ji numatoma) dalį, skiriamą kiekvienai savivaldybei išlaidų struktūrų skirtumams išlyginti;
+PSBGPM = GPMKVSBNS · GPM%(pt) – 0,5 · GPMKVSBNS, čia:
 
-4) valstybės biudžeto specialias tikslines dotacijas savivaldybių biudžetams;
+PSBGPM – savivaldybių biudžetų gyventojų pajamų mokesčio prognozuojama suma gyventojų pajamų mokesčio daliai (procentais) koreguoti;
 
-5) valstybės biudžeto bendrosios dotacijos (jeigu ji numatoma) kompensacijų sumas, skiriamas kiekvienai savivaldybei;
+GPMKVSBNS – konsoliduota valstybės biudžeto ir savivaldybių biudžetų gyventojų pajamų mokesčio prognozuojama netekti suma;
+
+GPM%(pt) – einamųjų biudžetinių metų savivaldybių biudžetams patvirtinta pastovioji gyventojų pajamų mokesčio dalis (procentais), tenkanti visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus;
+
+b) jeigu mažėja kitos savivaldybių biudžetų gaunamos prognozuojamos pajamos, naudojama visa savivaldybių biudžetų kitų prognozuojamų netekti pajamų suma;
+
+2) kintamąją gyventojų pajamų mokesčio dalį (procentais), tenkančią visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, išskyrus fiksuoto dydžio gyventojų pajamų mokestį, mokamą už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą, kuri gali būti skiriama bent vienam iš šių tikslų:
+
+a) savivaldybių finansiniams ištekliams papildyti. Kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos, patvirtintos Lietuvos Respublikos 2017 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo 7 priede „2017 metų valstybės biudžeto bendrosios dotacijos kompensacijos savivaldybių biudžetams“, neįskaitant sumų pagal teisės aktus savivaldybėms perduotoms įstaigoms išlaikyti ir sumų valstybės tarnautojams 15 procentų apskaičiuoto grąžintino neišmokėto darbo užmokesčio daliai sumokėti;
+
+b) Seimo ir (ar) Vyriausybės sprendimų nulemtų savivaldybių išlaidų pokyčiams kompensuoti. Kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos, kurios savivaldybėms apskaičiuojamos konkretiems Seimo ir (ar) Vyriausybės sprendimams įgyvendinti;
+
+c) savivaldybių biudžetų prognozuojamų pajamų mažėjimui kompensuoti. Kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos apskaičiuojamos 90 procentų ateinančių biudžetinių metų savivaldybių prognozuojamų pajamų mažėjimui, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis savivaldybių prognozuojamomis pajamomis, kompensuoti. Tokios kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos neskaičiuojamos, kai iš esmės pablogėja valstybės ekonominė ir finansinė būklė (ekonomikos sunkmečiu). Tokiu atveju kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos apskaičiuojamos ateinančių biudžetinių metų savivaldybių prognozuojamų pajamų mažėjimui, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis savivaldybių prognozuojamomis pajamomis, kompensuoti iš dalies (atsižvelgiant į valstybės biudžeto finansines galimybes). Ateinančių biudžetinių metų ir einamųjų biudžetinių metų savivaldybių prognozuojamos pajamos palyginamos neįskaitant sumų, kurios naudojamos kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti;
+
+3) valstybės biudžeto bendrosios dotacijos (jeigu ji numatoma) dalį, skiriamą kiekvienai savivaldybei gyventojų pajamų mokesčiui išlyginti;
+
+4) valstybės biudžeto bendrosios dotacijos (jeigu ji numatoma) dalį, skiriamą kiekvienai savivaldybei išlaidų struktūrų skirtumams išlyginti;
+
+5) valstybės biudžeto specialias tikslines dotacijas savivaldybių biudžetams;
 
 6) savivaldybės gyventojų pajamų mokesčio dalį (procentais), reikalingą prognozuojamoms pajamoms iš gyventojų pajamų mokesčio kiekvienos savivaldybės biudžetui apskaičiuoti. Savivaldybės gyventojų pajamų mokesčio dalis (procentais) nustatoma palyginus prognozuojamas savivaldybės ateinančių metų pajamas iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui (pip) su vidutinėmis visų savivaldybių prognozuojamomis ateinančių metų pajamomis iš gyventojų pajamų mokesčio vienam gyventojui (pp):
 
@@ -229,27 +251,21 @@ a) jeigu prognozuojamos savivaldybės pajamos iš gyventojų pajamų mokesčio v
 
 GPMi% – savivaldybės gyventojų pajamų mokesčio dalis (procentais);
 
-pp – vidutinės visų savivaldybių prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam gyventojui (apskaičiuojamos pagal formulę pp = yp / åGi , čia yp – visų savivaldybių prognozuojamos pajamos iš gyventojų pajamų mokesčio, apskaičiuojamos pagal šio straipsnio 1 dalies 1 punkte nustatomą rodiklį – gyventojų pajamų mokesčio dalį (procentais), tenkančią visų savivaldybių biudžetams);
+pp – vidutinės visų savivaldybių prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam gyventojui (apskaičiuojamos pagal formulę pp = yp / åGi, čia yp – visų savivaldybių prognozuojamos pajamos iš gyventojų pajamų mokesčio, apskaičiuojamos pagal šio straipsnio 1 dalies 1 punkte nustatomą rodiklį – gyventojų pajamų mokesčio dalį (procentais), tenkančią visų savivaldybių biudžetams);
 
-pip – i-osios savivaldybės prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam gyventojui (apskaičiuojamos pagal formulę pip = yip / Gi , čia yip – savivaldybės prognozuojamos pajamos iš gyventojų pajamų mokesčio (yp = å yip);
+pip – i-osios savivaldybės prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam gyventojui (apskaičiuojamos pagal formulę pip = yip / Gi, čia yip – savivaldybės prognozuojamos pajamos iš gyventojų pajamų mokesčio (yp = åyip);
 
 b) jeigu savivaldybės prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui (pip) yra mažesnės negu vidutinės visų savivaldybių prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam gyventojui (pp), savivaldybės gyventojų pajamų mokesčio dalis (procentais) yra 100 procentų;
 
 c) savivaldybės ateinančių metų pajamos iš gyventojų pajamų mokesčio prognozuojamos pagal nuolatinę gyvenamąją vietą ar gyvenamąją vietą Lietuvoje, apie kurią gyventojas informavo Gyventojų pajamų mokesčio įstatymo 35 straipsnio 3 dalyje nustatyta tvarka;
 
-TAR pastaba. 6 punkto nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+7) savivaldybės biudžetui skiriamą gyventojų pajamų mokesčio dalį (procentais), kuri apskaičiuojama kaip savivaldybei prognozuojamų pajamų iš gyventojų pajamų mokesčio, apskaičiuotų pagal šios dalies 2 ir 6 punktus, šio Įstatymo 7 ir 8 straipsnius, santykis su visoms savivaldybėms prognozuojamomis pajamomis iš gyventojų pajamų mokesčio, apskaičiuotomis pagal šios dalies 1 ir 2 punktus, išreikštas procentais.
 
-Straipsnio punkto pakeitimai:
+TAR pastaba. 1 dalies nuostatos taikomos rengiant 2018 metų ir vėlesnių metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
 
-Nr. XIII-84, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29272
+Straipsnio dalies pakeitimai:
 
-7) savivaldybės biudžetui skiriamą gyventojų pajamų mokesčio dalį (procentais), kuri apskaičiuojama kaip savivaldybei prognozuojamų pajamų iš gyventojų pajamų mokesčio, apskaičiuotų pagal šio straipsnio 1 dalies 6 punktą, šio Įstatymo 7 ir 8 straipsnius, santykis su visoms savivaldybėms prognozuojamomis pajamomis iš gyventojų pajamų mokesčio, apskaičiuotomis pagal šio straipsnio 1 dalies 1 punktą, išreikštas procentais.
-
-TAR pastaba. 7 punkto nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
-
-Papildyta straipsnio punktu:
-
-Nr. XIII-84, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29272
+Nr. XIII-808, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20002
 
 2. Atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme gali būti numatomas finansinis rodiklis – savivaldybių prognozuojamos pajamos. Skaičiuojant šį rodiklį, neįskaitomos savivaldybių biudžetinių įstaigų pajamos, vietinės rinkliavos, pajamos, priskirtos pagal Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymą, įmokos už ilgalaikio materialiojo ir nematerialiojo turto realizavimą.
 
@@ -273,13 +289,17 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-84, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29272
 
-5. Jeigu Seimas ar Vyriausybė biudžetiniais metais priima ar ateinančiais biudžetiniais metais numato priimti sprendimus, dėl kurių keičiasi savivaldybių biudžetų pajamos ir išlaidos, pajamų ir išlaidų pokyčiai, išskyrus pokyčius, kuriais savivaldybių biudžetai sumažėja dėl žemės nuomos mokesčio už valstybinę žemę laisvosios ekonominės zonos teritorijoje, panaudoto šioje teritorijoje esančiai žemei išpirkti iš žemės savininkų, kompensuojami. Biudžetiniais metais turi būti skiriama reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacija (BDK), susijusi su savivaldybių pajamų ir išlaidų pasikeitimu, arba iš savivaldybių biudžetų paimamos reikiamos sumos, o ateinančiais biudžetiniais metais koreguojama gyventojų pajamų mokesčio dalis (procentais), tenkanti visų savivaldybių biudžetams.
+5. Neteko galios nuo 2017-12-14
 
-6. Valstybės biudžeto bendrosios dotacijos kompensacija, taip pat iš savivaldybių biudžetų paimamos sumos, susijusios su savivaldybių pajamų ir išlaidų pasikeitimu, apskaičiuojamos:
+Straipsnio dalies naikinimas:
 
-1) jeigu Seimo ar Vyriausybės sprendimai turi vienodą įtaką visoms savivaldybėms, – pagal formulę , čia BDKi – i-ajai savivaldybei skiriama arba paimama valstybės biudžeto bendrosios dotacijos kompensacijos suma;
+Nr. XIII-808, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20002
 
-2) jeigu Seimo ar Vyriausybės sprendimai turi įtakos tik kai kurioms savivaldybėms, su savivaldybių pajamų ir išlaidų pokyčiais susijusios sumos apskaičiuojamos taikant konkrečius valstybės institucijų, įstaigų ir savivaldybių suderintus dydžius.
+6. Neteko galios nuo 2017-12-14
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-808, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20002
 
 7. Kai Seimas priima įstatymus arba Vyriausybė, vykdydama įstatymus, priima nutarimus, dėl kurių keičiasi valstybės ir savivaldybių biudžetų einamųjų metų įsipareigojimai, valstybės institucijos ir įstaigos bei savivaldybių vykdomosios institucijos patikslina valstybės biudžeto ir savivaldybių biudžetų tarpusavio atsiskaitymus.
 
@@ -303,33 +323,15 @@ Nr. XII-660, 2013-12-12, Žin., 2013, Nr. 140-7045 (2013-12-30)
 
 Nr. XII-1384, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19668
 
-Pastaba. Šio įstatymo (Nr. XII-1384) nuostatos taikomos rengiant 2015 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
-
 11 straipsnis. Finansinių rodiklių derinimas
 
 Vyriausybė ir Lietuvos savivaldybių asociacija 10 straipsnio 1 dalyje nurodytus rodiklius bei savivaldybių demografinių, socialinių ir kitų rodiklių pirminius statistinius duomenis svarsto pagal Vyriausybės patvirtintą šių rodiklių derinimo tvarką.
 
-12 straipsnis. Valstybės biudžeto bendrosios dotacijos kompensacijos savivaldybių biudžetams
+12 straipsnis. Neteko galios nuo 2017-12-14
 
-Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektuose savivaldybių biudžetams numatomos reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacijos, skirtos 100 procentų kompensuoti ateinantiems biudžetiniams metams prognozuojamų palyginamaisiais dydžiais ir sąlygomis pajamų mažėjimą, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis pajamomis.
+Straipsnio naikinimas:
 
-TAR pastaba. 12 straipsnio nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
-
-Straipsnio pakeitimai:
-
-Nr. IX-1857, 2003-12-15, Žin., 2003, Nr. 117-5320 (2003-12-17)
-
-Nr. X-434, 2005-12-08, Žin., 2005, Nr. 150-5463 (2005-12-24)
-
-Nr. X-1359, 2007-12-06, Žin., 2007, Nr. 132-5361 (2007-12-15)
-
-Nr. XI-117, 2008-12-23, Žin., 2008, Nr. 149-6037 (2008-12-30)
-
-Nr. XI-509, 2009-12-02, Žin., 2009, Nr. 147-6552 (2009-12-12)
-
-Nr. XI-1739, 2011-11-29, Žin., 2011, Nr. 150-7046 (2011-12-08)
-
-Nr. XII-660, 2013-12-12, Žin., 2013, Nr. 140-7045 (2013-12-30)
+Nr. XIII-808, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20002
 
 Straipsnio pakeitimai:
 
@@ -353,7 +355,7 @@ SAVIVALDYBIŲ BIUDŽETŲ NEGAUTŲ PAJAMŲ KOMPENSAVIMAS
 
 5. Jei šio straipsnio 2 dalyje nurodytų lėšų nepakanka visoms savivaldybių negautoms pajamoms padengti, jos savivaldybių biudžetams paskirstomos iki vienodo negautų pajamų lygio.
 
-6. Neteko galios nuo 2013-12-30.
+6. Netenka galios 2013-12-30.
 
 Skirsnio pakeitimai
 
