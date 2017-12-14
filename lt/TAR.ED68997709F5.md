@@ -4,7 +4,7 @@ identifier: "TAR.ED68997709F5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2017-09-27"
+last_updated: "2017-12-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ entry_into_force_conditions: "1. Įstatymo 19 straipsnio 3 dalies 2 punktas įsi
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2017-09-27 iki 2017-12-13
+Suvestinė redakcija nuo 2017-12-14
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
 
@@ -2244,7 +2244,11 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 
 2) šio Įstatymo 9 straipsnio 4 dalyje nustatyto prekių tiekimo atveju apskaičiuotą PVM už perduodamą pastato (statinio) esminį pagerinimą, t. y. PVM mokėtojas – pagerinto pastato (statinio) daikto savininkas;
 
-3) PVM, apskaičiuotą už šio Įstatymo 7 straipsnio 4 punkte numatytus statybos darbus, kaip jie apibrėžti Lietuvos Respublikos statybos įstatymo 2 straipsnio 15 dalyje, t. y. apmokestinamasis asmuo PVM mokėtojas, kurio užsakymu atliekami statybos darbai;
+3) PVM, apskaičiuotą už šio Įstatymo 7 straipsnio 4 punkte numatytus statybos darbus, kaip jie apibrėžti Lietuvos Respublikos statybos įstatymo 2 straipsnio 90 dalyje, t. y. apmokestinamasis asmuo PVM mokėtojas, kurio užsakymu atliekami statybos darbai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-817, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20011
 
 4) kitais Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais apskaičiuotą PVM, kai PVM už tiekiamas prekes ir (arba) teikiamas paslaugas išskaito ir sumoka į biudžetą šių prekių ir (arba) paslaugų pirkėjas (klientas), jeigu jis yra PVM mokėtojas.
 
