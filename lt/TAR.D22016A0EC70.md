@@ -4,7 +4,7 @@ identifier: "TAR.D22016A0EC70"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-06-27"
-last_updated: "2017-12-01"
+last_updated: "2017-12-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2017-12-01 iki 2017-12-13
+Suvestinė redakcija nuo 2017-12-14 iki 2019-09-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
 
@@ -1226,53 +1226,17 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
 3. Valstybės pagalbos ir Europos Sąjungos paramos žuvininkystei priemonių prioritetus nustato Vyriausybė arba jos įgaliota institucija.
 
-4. Žuvininkystės srities priemonėms ir programoms vykdyti ir kontrolei stiprinti Žemės ūkio ministerija naudoja tikslinės paskirties pajamas, kurias sudaro:
+4. Neteko galios nuo 2017-12-14
 
-1) lėšos, nustatyta tvarka išieškotos už žuvų ištekliams padarytą žalą, pažeidus verslinę žvejybą jūrų vandenyse reglamentuojančius įstatymus ar kitus teisės aktus, taip pat konfiskuotos pajamos, kurios buvo gautos padarius sunkų pažeidimą, ir pajamos už konfiskuotus realizuotus žvejybos produktus ir žvejybos įrankius;
+Straipsnio dalies naikinimas:
 
-2) Europos Sąjungos valstybių narių, užsienio valstybių, organizacijų ir piliečių, tarptautinių organizacijų lėšos, skirtos žuvų ištekliams atkurti ir išsaugoti;
+Nr. XIII-813, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20007
 
-3) asmenų, kurių ūkinė veikla daro neigiamą poveikį žvejybai jūrų vandenyse, lėšos, skirtos šiam poveikiui kompensuoti;
+5. Neteko galios nuo 2017-12-14
 
-4) lėšos, gautos pardavus mokslinių tyrimų tikslais jūrų vandenyse sužvejotas žuvis ir iš jų pagamintus žvejybos produktus;
+Straipsnio dalies naikinimas:
 
-5) savanoriškos asmenų įmokos;
-
-6) lėšos už aukciono būdu paskirstytas individualias žvejybos galimybes;
-
-Papildyta straipsnio punktu:
-
-Nr. XII-1523, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21157
-
-7) lėšos žuvų ištekliams atkurti ir saugoti;
-
-Papildyta straipsnio punktu:
-
-Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
-
-8) kitos teisėtai gautos lėšos.
-
-Straipsnio punkto numeracijos pakeitimas:
-
-Nr. XII-1523, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21157
-
-Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
-
-5. Šio straipsnio 4 dalyje numatytos tikslinės paskirties pajamų lėšos naudojamos:
-
-1) priemonėms, kuriomis kompensuojama žuvininkystei padaryta žala, su žuvininkyste susijusiems objektams projektuoti, statyti, rekonstruoti, remontuoti, žuvų ištekliams atkurti, gausinti ir išsaugoti;
-
-2) žuvų išteklių naudojimo ir jų gausinimo programoms, žuvininkystės srities įstatymų ir kitų teisės aktų projektams rengti;
-
-3) mokslo darbams, susijusiems su žuvininkystės sritimi, žuvų išteklių stebėsenai ir poveikiui žuvų ištekliams įvertinti;
-
-4) žuvininkystės kontrolę atliekančioms valstybės įstaigoms aprūpinti prietaisais, įrenginiais, medžiagomis ir kitomis materialinėmis priemonėmis, reikalingais kontrolei atlikti, taip pat žuvininkystės duomenų valstybės informacinėms sistemoms kurti, tvarkyti ir prižiūrėti;
-
-5) švietimui, mokymui žuvininkystės kontrolės srityje, specialistų kvalifikacijai tobulinti, leidybai, informacijai apie žuvininkystės kontrolę skleisti, renginiams ir konkursams organizuoti, žvejybos tradicijoms puoselėti, tarptautinių projektų ir sutarčių žuvininkystės kontrolės srityje įgyvendinimo išlaidoms apmokėti.
-
-DEŠIMTASIS SKIRSNIS
-
-ŽUVININKYSTĖS KONTROLĖ
+Nr. XIII-813, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20007
 
 32 straipsnis. Žuvininkystės kontrolės organizavimas
 
@@ -2438,6 +2402,14 @@ Nr. XIII-765, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18818
 
 Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 12 straipsnio pakeitimo įstatymas
 
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-813, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20007
+
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 31 straipsnio pakeitimo ir Įstatymo papildymo 31-1 straipsniu įstatymas
+
 141 straipsnis. Teisės į žvejybos kvotą suteikimas
 
 1. Teisė į žvejybos kvotą suteikiama aukciono ir ne aukciono būdu ne trumpiau kaip 5 ir ne ilgiau kaip 10 kalendorinių metų laikotarpiui.
@@ -2889,4 +2861,30 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 Papildyta straipsniu:
 
 Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
+
+311 straipsnis. Lietuvos Respublikos valstybės biudžeto pajamos iš žuvininkystės sektoriaus
+
+Į Lietuvos Respublikos valstybės biudžetą pervedamos:
+
+1) lėšos, nustatyta tvarka išieškotos už žuvų ištekliams padarytą žalą, pažeidus verslinę žvejybą jūrų vandenyse reglamentuojančius įstatymus ar kitus teisės aktus, taip pat konfiskuotos pajamos, kurios buvo gautos padarius sunkų pažeidimą, ir pajamos už konfiskuotus realizuotus žvejybos produktus ir žvejybos įrankius;
+
+2) Europos Sąjungos valstybių narių, užsienio valstybių, organizacijų ir piliečių, tarptautinių organizacijų lėšos, skirtos žuvų ištekliams atkurti ir išsaugoti;
+
+3) asmenų, kurių ūkinė veikla daro neigiamą poveikį žvejybai jūrų vandenyse, lėšos, skirtos šiam poveikiui kompensuoti;
+
+4) lėšos, gautos pardavus mokslinių tyrimų tikslais jūrų vandenyse sužvejotas žuvis ir iš jų pagamintus žvejybos produktus;
+
+5) lėšos už aukciono būdu paskirstytas individualias žvejybos galimybes;
+
+6) lėšos žuvų ištekliams atkurti ir saugoti, jeigu vykdoma verslinė žvejyba vidaus vandenyse.
+
+TAR pastaba. 311 straipsnio nuostatos taikomas rengiant 2018 metų ir vėlesnių metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+
+Papildyta straipsniu:
+
+Nr. XIII-813, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20007
+
+DEŠIMTASIS SKIRSNIS
+
+ŽUVININKYSTĖS KONTROLĖ
 
