@@ -4,7 +4,7 @@ identifier: "TAR.D570962773F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-03"
-last_updated: "2016-12-10"
+last_updated: "2017-12-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D570962773F8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos atmintinų dienų įstatymas
 
-Suvestinė redakcija nuo 2016-12-10 iki 2017-12-13
+Suvestinė redakcija nuo 2017-12-14 iki 2018-07-11
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1672, i. k. 0971010ISTAVIII-397
 
@@ -63,65 +63,203 @@ ATMINTINŲ DIENŲ
 
 15) balandžio 27-oji – Medicinos darbuotojų diena;
 
-16) balandžio paskutinis sekmadienis – Pasaulinė gyvybės diena, Geologų diena;
+16) balandžio 28-oji – Pasaulinė darbuotojų saugos ir sveikatos diena;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+17) balandžio paskutinis sekmadienis – Pasaulinė gyvybės diena, Geologų diena;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2405, 2016-06-02, paskelbta TAR 2016-06-10, i. k. 2016-16077
 
-17) gegužės 1-oji – Lietuvos įstojimo į Europos Sąjungą diena;
+Straipsnio punkto numeracijos pakeitimas:
 
-18) gegužės 3-ioji – 1791 m. pirmosios rašytinės Konstitucijos Europoje diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
 
-19) gegužės 4-oji – Ugniagesių globėjo šv. Florijono diena;
+18) gegužės 1-oji – Lietuvos įstojimo į Europos Sąjungą diena;
 
-20) gegužės 7-oji – Spaudos atgavimo, kalbos ir knygos diena;
+Straipsnio punkto numeracijos pakeitimas:
 
-21) gegužės 8-oji – Antrojo pasaulinio karo aukų atminimo diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
 
-22) gegužės 9-oji – Europos diena;
+19) gegužės 3-ioji – 1791 m. pirmosios rašytinės Konstitucijos Europoje diena;
 
-23) gegužės 14-oji – Pilietinio pasipriešinimo diena;
+Straipsnio punkto numeracijos pakeitimas:
 
-24) gegužės 15-oji – Steigiamojo Seimo susirinkimo diena, Tarptautinė šeimos diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
 
-25) gegužės 17-oji – Pasaulinė informacinės visuomenės diena;
+20) gegužės 4-oji – Ugniagesių globėjo šv. Florijono diena;
 
-26) gegužės 21-oji – Lietuvos tautinių bendrijų diena;
+Straipsnio punkto numeracijos pakeitimas:
 
-27) gegužės trečiasis sekmadienis – Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
 
-28) gegužės 25-oji – Tarptautinė dingusių vaikų diena;
+21) gegužės 7-oji – Spaudos atgavimo, kalbos ir knygos diena;
 
-29) birželio 1-oji – Tarptautinė vaikų gynimo diena;
+Straipsnio punkto numeracijos pakeitimas:
 
-30) birželio 3-ioji – Sąjūdžio diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
 
-31) birželio 14-oji – Gedulo ir vilties diena;
+22) gegužės 8-oji – Antrojo pasaulinio karo aukų atminimo diena;
 
-32) birželio 15-oji – Okupacijos ir genocido diena;
+Straipsnio punkto numeracijos pakeitimas:
 
-33) birželio 23-ioji – Birželio sukilimo diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
 
-34) liepos 13-oji – Durbės mūšio diena;
+23) gegužės 9-oji – Europos diena;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+24) gegužės 11-oji – Pagarbos mokesčių mokėtojams diena;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+25) gegužės 14-oji – Pilietinio pasipriešinimo diena;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+26) gegužės 15-oji – Steigiamojo Seimo susirinkimo diena, Tarptautinė šeimos diena;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+27) gegužės 17-oji – Pasaulinė informacinės visuomenės diena;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+28) gegužės 21-oji – Lietuvos tautinių bendrijų diena;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+29) gegužės trečiasis sekmadienis – Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+30) gegužės 25-oji – Tarptautinė dingusių vaikų diena;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+31) birželio 1-oji – Tarptautinė vaikų gynimo diena;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+32) birželio 3-ioji – Sąjūdžio diena;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+33) birželio 14-oji – Gedulo ir vilties diena;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+34) birželio 15-oji – Okupacijos ir genocido diena;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+35) birželio 23-ioji – Birželio sukilimo diena;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+36) liepos pirmasis sekmadienis – Globėjų diena;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+37) liepos 13-oji – Durbės mūšio diena;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
-35) liepos 15-oji – Žalgirio mūšio diena;
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+38) liepos 15-oji – Žalgirio mūšio diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
-36) liepos 16-oji – Agronomų diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+39) liepos 16-oji – Agronomų diena;
 
 Papildyta straipsnio punktu:
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-37) liepos 17-oji – Pasaulio lietuvių vienybės diena;
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+40) liepos 17-oji – Pasaulio lietuvių vienybės diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -129,7 +267,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-38) liepos paskutinis sekmadienis – Jūros diena ir Žvejų diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+41) liepos paskutinis sekmadienis – Jūros diena ir Žvejų diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -137,7 +281,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-39) rugpjūčio 12-oji – Tarptautinė jaunimo diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+42) rugpjūčio 12-oji – Tarptautinė jaunimo diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -145,7 +295,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-40) rugpjūčio 23-ioji – Europos diena stalinizmo ir nacizmo aukoms atminti ir Baltijos kelio diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+43) rugpjūčio 23-ioji – Europos diena stalinizmo ir nacizmo aukoms atminti ir Baltijos kelio diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -153,7 +309,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-41) rugpjūčio 31-oji – Laisvės diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+44) rugpjūčio 31-oji – Laisvės diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -161,7 +323,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-42) rugsėjo 1-oji – Mokslo ir žinių diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+45) rugsėjo 1-oji – Mokslo ir žinių diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -169,7 +337,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-43) rugsėjo 8-oji – Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+46) rugsėjo 8-oji – Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -177,7 +351,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-44) rugsėjo antrasis šeštadienis – Statybininkų diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+47) rugsėjo antrasis šeštadienis – Statybininkų diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -185,7 +365,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-45) rugsėjo 22-oji – Baltų vienybės diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+48) rugsėjo 22-oji – Baltų vienybės diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -193,7 +379,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-46) rugsėjo 23-ioji – Lietuvos žydų genocido atminimo diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+49) rugsėjo 23-ioji – Lietuvos žydų genocido atminimo diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -201,7 +393,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-47) rugsėjo 27-oji – Lietuvos socialinių darbuotojų diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+50) rugsėjo 27-oji – Lietuvos socialinių darbuotojų diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -209,7 +407,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-48) rugsėjo 28-oji – Tuskulėnų aukų atminimo diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+51) rugsėjo 28-oji – Tuskulėnų aukų atminimo diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -217,7 +421,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-49) spalio 1-oji – Tarptautinė pagyvenusių žmonių diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+52) spalio 1-oji – Tarptautinė pagyvenusių žmonių diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -225,7 +435,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-50) spalio pirmasis šeštadienis – Kūno kultūros ir sporto diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+53) spalio pirmasis šeštadienis – Kūno kultūros ir sporto diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -233,7 +449,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-51) spalio 5-oji – Tarptautinė mokytojų diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+54) spalio 5-oji – Tarptautinė mokytojų diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -241,7 +463,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-52) spalio 10-oji – Vietos savivaldos diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+55) spalio 10-oji – Vietos savivaldos diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -249,7 +477,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-53) spalio antrasis šeštadienis – Derliaus diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+56) spalio antrasis šeštadienis – Derliaus diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -257,7 +491,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-54) spalio 16-oji – Mažosios Lietuvos gyventojų genocido diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+57) spalio 16-oji – Mažosios Lietuvos gyventojų genocido diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -265,7 +505,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-55) spalio 20-oji – 1791 m. Abiejų Tautų (Lietuvos ir Lenkijos) tarpusavio įžado paskelbimo diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+58) spalio 20-oji – 1791 m. Abiejų Tautų (Lietuvos ir Lenkijos) tarpusavio įžado paskelbimo diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -273,7 +519,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-56) spalio 25-oji – Konstitucijos diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+59) spalio 25-oji – Konstitucijos diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -281,7 +533,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-57) lapkričio 2-oji – Mirusiųjų atminimo (Vėlinių) diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+60) lapkričio 2-oji – Mirusiųjų atminimo (Vėlinių) diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -289,7 +547,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-58) lapkričio 16-oji – Tarptautinė tolerancijos diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+61) lapkričio 16-oji – Tarptautinė tolerancijos diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -297,7 +561,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-59) lapkričio 23-ioji – Lietuvos kariuomenės diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+62) lapkričio 23-ioji – Lietuvos kariuomenės diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -305,7 +575,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-60) lapkričio 30-oji – Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+63) lapkričio 30-oji – Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -313,7 +589,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-61) gruodžio 3-ioji – Lietuvos advokatūros diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+64) gruodžio 3-ioji – Lietuvos advokatūros diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -321,7 +603,13 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-62) gruodžio 10-oji – Tarptautinė žmogaus teisių diena;
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+65) gruodžio 10-oji – Tarptautinė žmogaus teisių diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -329,11 +617,25 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
 
-63) gruodžio 15-oji – Lietuvos teismų diena.
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+66) gruodžio 15-oji – Lietuvos teismų diena.
 
 Papildyta straipsnio punktu:
 
 Nr. XIII-81, 2016-12-08, paskelbta TAR 2016-12-09, i. k. 2016-28618
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 
 Straipsnio pakeitimai:
 
@@ -586,6 +888,30 @@ Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIII-81, 2016-12-08, paskelbta TAR 2016-12-09, i. k. 2016-28618
+
+Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
+
+Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
+
+Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 
 Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
 
