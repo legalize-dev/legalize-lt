@@ -4,7 +4,7 @@ identifier: "TAR.1FD5C3A4D10A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-10-14"
-last_updated: "2017-07-01"
+last_updated: "2017-12-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-12-18
+Suvestinė redakcija nuo 2017-12-19 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 102-4585, i. k. 1031010ISTA0IX-1768
 
@@ -183,7 +183,11 @@ Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
 
 19) analizuoja darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų taikymo praktiką, teikia siūlymus pakeisti galiojančius įstatymus ar kitus norminius teisės aktus;
 
-20) konsultuoja darbuotojus, darbuotojų atstovus, darbdaviams atstovaujančius asmenis, darbdavių įgaliotus asmenis, darbuotojų saugos ir sveikatos reikalavimų, darbo įstatymų vykdymo, kolektyvinių sutarčių sudarymo ir kitais klausimais;
+20) konsultuoja darbuotojus, darbuotojų atstovus, darbdaviams atstovaujančius asmenis, darbdavių įgaliotus asmenis darbuotojų saugos ir sveikatos reikalavimų, darbo įstatymų vykdymo, kolektyvinių sutarčių sudarymo, profesinių sąjungų steigimo ir kitais klausimais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-855, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20337
 
 21) nustatyta tvarka dalyvauja nustatant darboviečių, jų padalinių ar naujų darbo vietų tinkamumą naudoti;
 
@@ -499,7 +503,7 @@ Valstybinė darbo inspekcija, atlikdama jai pavestas funkcijas, bendradarbiauja 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                         ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                         ROLANDAS PAKSAS
 
 Lietuvos Respublikos
 
