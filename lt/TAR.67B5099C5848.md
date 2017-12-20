@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2017-11-17"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr. –––––
 
-Suvestinė redakcija nuo 2017-11-17 iki 2017-12-19
+Suvestinė redakcija nuo 2017-12-20 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
 
@@ -1069,7 +1069,11 @@ PROCESINIŲ VEIKSMŲ ATLIKIMO TERMINAI
 
 1. Skundas (prašymas, pareiškimas) paduodamas tam administraciniam teismui, kurio veikimo teritorijoje yra atsakovo buveinė (gyvenamoji vieta), o jeigu atsakovas yra valstybė arba savivaldybė, – tam administraciniam teismui, kurio teritorijoje yra atsakovui atstovaujančios institucijos buveinė. Jeigu viešojo administravimo subjekto, jo teritorinio padalinio, teritorinio viešojo administravimo subjekto arba pareigūno, veikiančio Lietuvos Respublikos teritorijos dalyje, administracinio akto ar veiksmo (neveikimo) teisėtumas buvo patikrintas (nagrinėjamas) aukštesniojo pagal pavaldumą viešojo administravimo subjekto ir (arba) kitos išankstinio ginčų nagrinėjimo ne teismo tvarka institucijos, skundas (prašymas, pareiškimas) administraciniam teismui paduodamas pagal to viešojo administravimo subjekto, jo teritorinio padalinio, teritorinio viešojo administravimo subjekto arba pareigūno, kurio administracinio akto ar veiksmo (neveikimo) teisėtumas buvo tikrinamas (nagrinėjamas), buveinės vietą.
 
-2. Bylose dėl žalos, atsiradusios dėl viešojo administravimo subjektų neteisėtų veiksmų, atlyginimo, bylose dėl pensijų skyrimo ar atsisakymo jas skirti, taip pat bylose dėl neįgaliųjų teisių gynimo, pareiškėjo pasirinkimu skundas (prašymas) administraciniam teismui gali būti paduodamas pagal šio straipsnio 1 dalyje nustatytas taisykles arba pagal pareiškėjo gyvenamąją (buveinės) vietą. Tarnybiniuose ginčuose pareiškėjo pasirinkimu skundas (prašymas) gali būti paduodamas pagal šio straipsnio 1 dalyje nustatytas taisykles arba pagal vietą, kurioje tarnyba yra atliekama, buvo atliekama ar turėjo būti atliekama.
+2. Bylose dėl žalos, atsiradusios dėl viešojo administravimo subjektų neteisėtų veiksmų, atlyginimo, bylose dėl pensijų skyrimo ar atsisakymo jas skirti, taip pat bylose dėl neįgaliųjų teisių gynimo, pareiškėjo pasirinkimu skundas (prašymas) administraciniam teismui gali būti paduodamas pagal šio straipsnio 1 dalyje nustatytas taisykles arba pagal pareiškėjo gyvenamąją (buveinės) vietą. Tarnybiniuose ginčuose, taip pat ginčuose, kylančiuose dėl materialinės atsakomybės ir regreso (atgręžtinio reikalavimo) teisės įgyvendinimo pagal Valstybės tarnybos įstatymą, pareiškėjo pasirinkimu skundas (prašymas) gali būti paduodamas pagal šio straipsnio 1 dalyje nustatytas taisykles arba pagal vietą, kurioje tarnyba yra atliekama, buvo atliekama ar turėjo būti atliekama.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-876, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20430
 
 3. Kai byloje yra keli tarpusavyje susiję reikalavimai, iš kurių vieni pagal šio įstatymo 20 straipsnio 4 dalį priskirtini Vilniaus apygardos administraciniam teismui, o kiti – kitų apygardų administraciniams teismams, skundas (prašymas, pareiškimas) turi būti paduodamas Vilniaus apygardos administraciniam teismui. Kitais atvejais, kai yra keli tarpusavyje susiję reikalavimai, kurie gali būti nagrinėjami skirtingų apygardų administraciniuose teismuose, skundas (prašymas, pareiškimas) administraciniam teismui paduodamas pareiškėjo pasirinkimu.
 
@@ -2419,7 +2423,11 @@ PRAŠYMŲ DĖL PROCESO ATNAUJINIMO NAGRINĖJIMAS
 
 4) mokesčių, kitų privalomų mokėjimų, rinkliavų sumokėjimo, grąžinimo ar išieškojimo, finansinių sankcijų taikymo, taip pat dėl mokestinių ginčų;
 
-5) tarnybinių ginčų, kai viena ginčo šalis yra valstybės tarnautojas ar pareigūnas;
+5) tarnybinių ginčų, kai viena ginčo šalis yra valstybės tarnautojas ar pareigūnas, taip pat ginčų, kylančių dėl materialinės atsakomybės ir regreso (atgręžtinio reikalavimo) teisės įgyvendinimo pagal Lietuvos Respublikos valstybės tarnybos įstatymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-876, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20430
 
 6) Vyriausiosios tarnybinės etikos komisijos sprendimų ir šios komisijos kreipimųsi dėl tarnybos santykių su valstybės tarnautojais nutraukimo;
 
