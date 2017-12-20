@@ -4,7 +4,7 @@ identifier: "TAR.06C50B65B6B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-21"
-last_updated: "2017-06-15"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.06C50B65B6B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymas
 
-Suvestinė redakcija nuo 2017-06-15 iki 2017-12-19
+Suvestinė redakcija nuo 2017-12-20 iki 2018-07-16
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2228, i. k. 1021010ISTA00IX-895
 
@@ -210,11 +210,15 @@ Nr. XII-1257, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14861
 
 5 straipsnis. Valstybės regreso (atgręžtinio reikalavimo) teisė į žalą padariusį asmenį
 
-1. Valstybė, atlyginusi dėl ikiteisminio tyrimo pareigūno, prokuratūros ar teismo pareigūno, teisėjo tyčinių veiksmų (aktų), o kitų valdžios institucijų pareigūnų, valstybės tarnautojų ar kitų darbuotojų kaltų veiksmų (aktų) atsiradusią žalą, įgyja regreso (atgręžtinio reikalavimo) teisę teismo tvarka išieškoti iš šių asmenų tiek, kiek ji sumokėjo, bet ne daugiau kaip 9 vidutinius jų darbo užmokesčius, jeigu kiti įstatymai nenustato kitaip.
+1. Valstybė, atlyginusi dėl ikiteisminio tyrimo pareigūno, prokuratūros ar teismo pareigūno, teisėjo tyčinių veiksmų (aktų) atsiradusią žalą, įgyja regreso (atgręžtinio reikalavimo) teisę teismo tvarka išieškoti iš šių asmenų tiek, kiek ji sumokėjo žalos atlyginimo. Valstybė, atlyginusi dėl kitų valdžios institucijų pareigūnų, valstybės tarnautojų ar kitų darbuotojų kaltų veiksmų (aktų) atsiradusią žalą, įgyja regreso (atgręžtinio reikalavimo) teisę teismo tvarka išieškoti iš šių asmenų tiek, kiek ji sumokėjo, bet ne daugiau kaip 9 vidutinius jų darbo užmokesčius, o jei žala padaryta tyčia, – tiek, kiek ji sumokėjo žalos atlyginimo. Šioje dalyje nustatytos taisyklės taikomos, jeigu kiti įstatymai, reglamentuojantys šioje dalyje nurodytų asmenų veiklą, nenustato kitaip.
+
+TAR pastaba. 1 dalies nuostatos taikomos, kai regreso (atgręžtinio reikalavimo) teisė įgyvendinama dėl žalos, atsiradusios dėl veikos, kuri padaryta po įstatymo Nr. XIII-875 įsigaliojimo (2017-12-20).
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
+
+Nr. XIII-875, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20429
 
 2. Valstybė, atlyginusi žalą, įgyja regreso (atgręžtinio reikalavimo) teisę į asmenį, melagingai pranešusį apie nusikalstamą veiką, melagingai asmenį įskundusį, kad šis padarė nusikalstamą veiką ar administracinį nusižengimą, arba asmenį, davusį melagingus parodymus, melagingą eksperto ar revizoriaus išvadą, melagingą specialisto paaiškinimą ar išvadą arba pateikusio žinomai neteisingą vertimą, jeigu šiais veiksmais toks asmuo padarė nusikalstamą veiką, kuri nustatyta įsiteisėjusiu teismo nuosprendžiu.
 
@@ -337,6 +341,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-400, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09784
 
 Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo Nr. IX-895 5-2 straipsnio ir priedo pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-875, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20429
+
+Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo Nr. IX-895 5 straipsnio pakeitimo įstatymas
 
 51 straipsnis. Atstovavimas valstybei ir Lietuvos Respublikos Vyriausybei
 
