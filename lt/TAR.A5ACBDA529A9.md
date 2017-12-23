@@ -4,7 +4,7 @@ identifier: "TAR.A5ACBDA529A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-12-20"
-last_updated: "2017-06-10"
+last_updated: "2017-12-23"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 department: "Lietuvos Respublikos Seimas"
@@ -19,17 +19,9 @@ entry_into_force_conditions: "Įstatymo 2 straipsnio 16 dalies 5 punkto, 40 stra
 ---
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2017-06-10 iki 2017-12-22
+Suvestinė redakcija nuo 2017-12-23 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
-
-TAR pastaba. Įstatymo (Nr. VIII-405) nuostatos taikomos apskaičiuojant 2017 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną. Laivybos vienetas, Lietuvos Respublikos pelno mokesčio įstatymo nustatyta tvarka pasirinkęs 2017 metais prasidėjusiu mokestiniu laikotarpiu apmokestinimo fiksuotu pelno mokesčiu tvarkos taikymą, apie pasirinkimą taikyti apmokestinimo fiksuotu pelno mokesčiu tvarką centrinio mokesčių administratoriaus nustatyta tvarka informuoja vietos mokesčių administratorių iki 2017 metų prasidėjusio mokestinio laikotarpio antrojo ketvirčio paskutinės dienos. Laivybos vieneto, Lietuvos Respublikos pelno mokesčio įstatymo nustatyta tvarka pasirinkusio 2017 metais prasidėjusiu mokestiniu laikotarpiu apmokestinimo fiksuotu pelno mokesčiu tvarkos taikymą, sumokėtas 2017 metais prasidėjusio mokestinio laikotarpio avansinis pelno mokestis grąžinamas (įskaitomas) Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
-
-Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2, 4, 11, 31, 38-1 ir 38-2 straipsnių pakeitimo įstatymas
 
 LIETUVOS RESPUBLIKOS
 
@@ -375,11 +367,15 @@ TAR pastaba. 1 dalies 2 punkto nuostatos taikomos ir žemės ūkio veiklą vykda
 
 4) gauta parama, panaudota ne pagal Lietuvos Respublikos labdaros ir paramos įstatyme nustatytą paramos paskirtį, taip pat iš vieno paramos teikėjo per mokestinį laikotarpį grynais pinigais gautos paramos dalis, viršijanti 250 MGL dydžio sumą, apmokestinama be atskaitymų, taikant 15 procentų mokesčio tarifą.
 
-2. Vienetų (išskyrus pelno nesiekiančius), kuriuose vidutinis sąrašuose esančių darbuotojų skaičius neviršija 10 žmonių ir mokestinio laikotarpio pajamos neviršija 300 000 eurų, apmokestinamasis pelnas apmokestinamas taikant 5 procentų mokesčio tarifą, išskyrus atvejus, nustatytus šio straipsnio 3 dalyje.
+2. Vienetų (išskyrus pelno nesiekiančius), kuriuose vidutinis sąrašuose esančių darbuotojų skaičius neviršija 10 žmonių ir mokestinio laikotarpio pajamos neviršija 300 000 eurų, pirmojo mokestinio laikotarpio apmokestinamasis pelnas apmokestinamas taikant 0 procentų mokesčio tarifą, kitų mokestinių laikotarpių apmokestinamasis pelnas – taikant 5 procentų mokesčio tarifą, išskyrus šio straipsnio 3 dalyje nustatytus atvejus. Šioje dalyje nustatytas 0 procentų mokesčio tarifas taikomas tik tokiam vienetui, kurio dalyvis (dalyviai) yra fizinis asmuo (fiziniai asmenys), ir tik tuo atveju, kai per tris vienas po kito einančius mokestinius laikotarpius, įskaitant pirmąjį mokestinį laikotarpį: vieneto veikla nėra sustabdoma, vienetas nėra likviduojamas, reorganizuojamas ir vieneto akcijos (dalys, pajai) nėra perleidžiamos naujiems dalyviams.
+
+TAR pastaba. 2 dalie nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
+
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 3. Šio straipsnio 2 dalies nuostatos netaikomos:
 
@@ -397,15 +393,43 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
 
-5. Vienetų apmokestinamasis pelnas apmokestinamas taikant 0 procentų mokesčio tarifą, jeigu:
+5. Neteko galios nuo 2017-12-23
 
-1) per mokestinį laikotarpį vieneto darbuotojų, priklausančių Lietuvos Respublikos socialinių įmonių įstatymo 4 straipsnyje nurodytoms tikslinėms asmenų grupėms, skaičius sudaro ne mažiau kaip 40 procentų metinio vidutinio sąrašuose esančių darbuotojų skaičiaus, ir
+Straipsnio dalies naikinimas:
 
-2) per mokestinį laikotarpį vienetas nevykdo veiklos, įtrauktos į socialinių įmonių neremtinų veiklos rūšių sąrašą, tvirtinamą Lietuvos Respublikos Vyriausybės, arba per mokestinį laikotarpį iš tokios veiklos gautos pajamos sudaro ne daugiau kaip 20 procentų visų vieneto pajamų, ir
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
-3) mokestinio laikotarpio paskutinę dieną vienetai turi socialinės įmonės statusą.
+6. Kooperatinių bendrovių (kooperatyvų), kurių per mokestinį laikotarpį daugiau kaip 50 procentų pajamų sudaro pajamos iš žemės ūkio veiklos, įskaitant kooperatinių bendrovių (kooperatyvų) pajamas už parduotus įsigytus iš savo narių šių narių pagamintus žemės ūkio produktus, apmokestinamasis pelnas apmokestinamas taikant 5 procentų mokesčio tarifą.
 
-6. Vienetų, kurių per mokestinį laikotarpį daugiau kaip 50 procentų pajamų sudaro pajamos iš žemės ūkio veiklos, įskaitant kooperatinių bendrovių (kooperatyvų) pajamas už parduotus įsigytus iš savo narių šių narių pagamintus žemės ūkio produktus, apmokestinamasis pelnas apmokestinamas taikant 5 procentų mokesčio tarifą.
+TAR pastaba. 6 dalie nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+
+7. Lietuvos vieneto, nuolatinių buveinių pagal šioje dalyje nustatytą formulę apskaičiuota apmokestinamojo pelno iš turto naudojimo, pardavimo ar kitokio perleidimo nuosavybėn, kaip tai apibrėžta šioje dalyje, dalis apmokestinama taikant 5 procentų mokesčio tarifą, jeigu:
+
+1) pajamas iš minėto turto naudojimo, pardavimo ar kitokio perleidimo nuosavybėn gauna tik jį sukūręs Lietuvos vienetas ar nuolatinė buveinė ir tik jie dėl minėtų pajamų uždirbimo patiria visas išlaidas ir
+
+2) turtas yra pagal autorių teisę saugoma kompiuterio programa ar patentabilumo kriterijus (naujumas, išradimo lygis, pramoninis pritaikomumas) atitinkantis išradimas, apsaugotas Europos patentų tarnybos, Europos ekonominės erdvės valstybėje arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, išduotais patentais ar papildomos apsaugos liudijimais.
+
+Šios dalies nuostatos taikomos ir tuo atveju, kai Lietuvos vieneto arba nuolatinės buveinės sukurtas turtas yra jų naudojamas pagal išimtinę licenciją. Lengvata pradedama taikyti, kai jau yra atsiradusios autorių teisės, paduota patento paraiška, jau esant išduotam patentui, įsigaliojus papildomos apsaugos liudijimui ar kai yra suteikta išimtinė licencija.
+
+Formulė:
+
+Tinkamos išlaidos – sąnaudos, patirtos mokslinių tyrimų ir eksperimentinės plėtros veikloje sukuriant turtą, priskirtinos mokslinių tyrimų ir eksperimentinės plėtros darbų sąnaudoms, kurios tris kartus gali būti atskaitomos iš pajamų. Šios sąnaudos negali būti patirtos dėl susijusių asmenų veiklos. Į formulę įtraukiama apskaičiuota tinkamų išlaidų suma padidinama 30 procentų, tačiau tokia padidinta suma
+
+negali būti didesnė už apskaičiuotą visų išlaidų sumą.
+
+Visos išlaidos – visos sąnaudos, priskirtinos leidžiamiems atskaitymams ar ribojamų dydžių leidžiamiems atskaitymams, patirtos mokslinių tyrimų ir eksperimentinės plėtros veikloje sukuriant turtą, išskyrus palūkanas ir pastatų nusidėvėjimo sąnaudas.
+
+Pelnas iš turto naudojimo – apmokestinamasis pelnas, apskaičiuotas iš paties mokesčio mokėtojo vykdomoje mokslinių tyrimų ir eksperimentinės plėtros veikloje sukurto turto naudojimo, pardavimo ar kitokio perleidimo nuosavybėn gautų pajamų (įskaitant honorarus ir kompensacijas už pažeistas intelektinės nuosavybės teises) atskaičius šioms pajamoms tenkančius leidžiamus atskaitymus ir ribojamų dydžių leidžiamus atskaitymus.
+
+TAR pastaba. 7 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 Straipsnio pakeitimai:
 
@@ -1321,11 +1345,23 @@ Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 
 2. Reprezentacinės sąnaudos – vieneto lėšos, kurias jis skiria naujiems verslo ryšiams su kitais vienetais arba fiziniais asmenimis, išskyrus vieneto darbuotojus, akcininkus, savininkus bei kontroliuojamuosius ar kontroliuojančius vienetus ar kontroliuojančius nuolatinius gyventojus, užmegzti arba esamiems pagerinti. Reprezentacinės sąnaudos patiriamos konkrečių asmenų naudai.
 
-3. Iš pajamų atskaitoma ne daugiau kaip 75 procentai reprezentacinių sąnaudų.
+3. Iš pajamų atskaitoma ne daugiau kaip 50 procentų reprezentacinių sąnaudų ir tokių atskaitomų sąnaudų suma negali viršyti 2 procentų vieneto pajamų per mokestinį laikotarpį.
+
+TAR pastaba. 3 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 4. Reprezentacinėms sąnaudoms nepriskiriamos per vieneto akcininkus, pajininkus patirtos išlaidos, išskyrus atvejus, kai šie asmenys yra vieneto darbuotojai.
 
-5. Reprezentacinėms sąnaudoms nepriskiriamos medžioklės, žvejybos, plaukiojimo jachtomis, golfo, azartinių lošimų, stovyklavimo išlaidos.
+5. Reprezentacinėms sąnaudoms nepriskiriamos azartinių lošimų išlaidos.
+
+TAR pastaba. 5 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 12 straipsnis. Neapmokestinamosios pajamos
 
@@ -1339,7 +1375,13 @@ Mokesčiu neapmokestinamos šios Lietuvos vieneto bei užsienio vieneto per nuol
 
 4) draudimo įmonės organizacinio fondo likutis Lietuvos Respublikos draudimo įstatymo nustatyta tvarka;
 
-5) pagal Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą veikiančių investicinių kintamojo kapitalo bendrovių ir uždaro tipo investicinių bendrovių ir pagal Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymą veikiančių investicinių bendrovių investicinės pajamos, išskyrus dividendus ir kitą paskirstytąjį pelną;
+5) kolektyvinio investavimo subjektų, rizikos ir privataus kapitalo subjektų pajamos, įskaitant dividendus ir kitą paskirstytąjį pelną, išskyrus iš užsienio vienetų, įregistruotų ar kitaip organizuotų tikslinėse teritorijose, ar iš tų teritorijų gyventojų gautas bet kokias pajamas ir su investicijomis į tikslines teritorijas susijusias pajamas;
+
+TAR pastaba. 5 punkto nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 6) sveikatos priežiūros įstaigų pajamos už paslaugas, kurios finansuojamos iš Privalomojo sveikatos draudimo fondo lėšų;
 
@@ -1347,9 +1389,19 @@ Mokesčiu neapmokestinamos šios Lietuvos vieneto bei užsienio vieneto per nuol
 
 8) netesybos, išskyrus netesybas, gautas iš užsienio vienetų, įregistruotų ar kitaip organizuotų tikslinėse teritorijose, ar tų teritorijų gyventojų;
 
-9) iš neribotos civilinės atsakomybės juridinių asmenų pelno mokesčio mokėtojų, kurių pajamos apmokestintos pelno mokesčiu pagal šį Įstatymą arba analogišku mokesčiu pagal užsienio valstybių atitinkamus teisės aktus, gautas pelnas ar jo dalis, išskyrus šio Įstatymo 39 straipsnyje nustatytus atvejus;
+9) iš neribotos civilinės atsakomybės juridinių asmenų pelno mokesčio mokėtojų, kurių pajamos apmokestinamos pelno mokesčiu pagal šį Įstatymą arba analogišku mokesčiu pagal užsienio valstybių atitinkamus teisės aktus, gautas pelnas ar jo dalis, išskyrus šio Įstatymo 39 straipsnyje nustatytus atvejus; iš neribotos civilinės atsakomybės juridinių asmenų pelno mokesčio mokėtojų ne tikslinėse teritorijose įregistruotų rizikos ir privataus kapitalo subjektų gautas pelnas ar jo dalis, išskyrus šio Įstatymo 39 straipsnyje nustatytus atvejus;
 
-10) jūrų uostų, oro navigacinių paslaugų rinkliavos ir už jūrų uosto žemės nuomą surinktos lėšos;
+TAR pastaba. 9 punkto nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+
+10) neteko galios 2017-12-23;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 11) praėjusių mokestinių laikotarpių klaidų ir netikslumų taisymai pagal Lietuvos Respublikos buhalterinės apskaitos įstatymo 18 straipsnį;
 
@@ -1359,11 +1411,25 @@ Mokesčiu neapmokestinamos šios Lietuvos vieneto bei užsienio vieneto per nuol
 
 14) kompensacijos, gautos pagal Europos Sąjungos finansinės paramos Lietuvos Respublikos programas už žvejybos laivų atidavimą į metalo laužą;
 
-15) turto vertės padidėjimo pajamos už vieneto, kuris įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, ir kuris yra pelno mokesčio arba jam tapataus mokesčio mokėtojas, akcijų perleidimą kitam vienetui arba fiziniam asmeniui, jei akcijas perleidžiantis vienetas ne trumpiau kaip 2 metus be pertraukų turėjo daugiau kaip 25 procentus balsus suteikiančių šio vieneto akcijų arba jei akcijos buvo perleistos šio Įstatymo 41 straipsnio 2 dalyje nurodytais reorganizavimo ar perleidimo atvejais, ne trumpiau kaip 3 metus be pertraukų turėjo daugiau kaip 25 procentus balsus suteikiančių šio vieneto akcijų. Ši lengvata netaikoma tuo atveju, kai akcijas perleidžiantis vienetas jas perleidžia šias akcijas išleidusiam vienetui. Į šiame punkte nustatytus terminus dėl akcijų turėjimo neatsižvelgiama tais atvejais, kai akcijos perleidžiamos dėl teisės aktų reikalavimų;
+15) turto vertės padidėjimo pajamos už vieneto, kuris įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, ir kuris yra pelno mokesčio arba jam tapataus mokesčio mokėtojas, akcijų perleidimą kitam vienetui arba fiziniam asmeniui, jei akcijas perleidžiantis vienetas ne trumpiau kaip 2 metus be pertraukų turėjo daugiau kaip 10 procentų balsus suteikiančių šio vieneto akcijų arba jei akcijos buvo perleistos šio Įstatymo 41 straipsnio 2 dalyje nurodytais reorganizavimo ar perleidimo atvejais, ne trumpiau kaip 3 metus be pertraukų turėjo daugiau kaip 10 procentų balsus suteikiančių šio vieneto akcijų. Ši lengvata netaikoma tuo atveju, kai akcijas perleidžiantis vienetas jas perleidžia šias akcijas išleidusiam vienetui. Į šiame punkte nustatytus terminus dėl akcijų turėjimo neatsižvelgiama tais atvejais, kai akcijos perleidžiamos dėl teisės aktų reikalavimų. Šiame punkte vartojama sąvoka „akcija“ apima ir turimas teises į rizikos ir privataus kapitalo subjektų paskirstytinojo pelno dalį;
+
+TAR pastaba. 15 punkto nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 16) draudimo įmonių gyvybės draudimo įmokos, jei draudimo sutarties terminas ne trumpesnis kaip 10 metų arba jei draudimo išmoka išmokama apdraustajam sulaukus pensinio amžiaus pagal Profesinių pensijų kaupimo įstatymo nuostatas, draudimo įmonių gyvybės draudimo investicinės pajamos, išskyrus dividendus ir kitą paskirstytąjį pelną, bei draudimo įmonių draudimo investicinės pajamos pagal profesinių pensijų gyvybės draudimo sutartis, sudarytas pagal Profesinių pensijų kaupimo įstatymo nuostatas;
 
-17) Lietuvos Respublikos įstatymuose arba kituose teisės aktuose nustatyto dydžio tiesioginės ir kitos kompensacinės išmokos pajamų lygiui palaikyti, kurias gauna žemės ūkio veiklą vykdantys vienetai.
+17) Lietuvos Respublikos įstatymuose arba kituose teisės aktuose nustatyto dydžio tiesioginės ir kitos kompensacinės išmokos pajamų lygiui palaikyti, kurias gauna žemės ūkio veiklą vykdantys vienetai;
+
+18) pajamos, įskaitant turto vertės padidėjimo pajamas, dividendus ir kitą paskirstytąjį pelną, gautos iš kolektyvinio investavimo subjektų, kurie nėra įregistruoti ar kitaip organizuoti tikslinėse teritorijose, investicinių vienetų, akcijų ar įnašų turėjimo. Šio punkto nuostatos dėl turto vertės padidėjimo pajamų neapmokestinimo taikomos tik tuo atveju, jei tokios pajamos gaunamos ne iš užsienio vienetų, įregistruotų ar kitaip organizuotų tikslinėse teritorijose, ar iš tų teritorijų gyventojų.
+
+TAR pastaba. 18 punkto nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 Straipsnio pakeitimai:
 
@@ -1437,7 +1503,13 @@ Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
 
 3. Jeigu vienetas paskirsto pelną išmokėdamas dividendus pinigais Lietuvos Respublikos akcinių bendrovių įstatymo, Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo ir Lietuvos Respublikos žemės ūkio bendrovių įstatymo nustatyta tvarka, išskaityto pelno mokesčio suma yra užskaitoma ir sumažina dividendus gaunančio Lietuvos vieneto mokėtino pelno mokesčio sumą tą mokestinį laikotarpį, kurį buvo išskaitytas mokestis iš jam išmokėtų dividendų. Jei dividendus gaunančio Lietuvos vieneto užskaitomo išskaityto mokesčio suma viršija to vieneto mokėtino pelno mokesčio sumą tuo mokestiniu laikotarpiu, kada buvo iš išmokamų dividendų išskaitytas mokestis, šis skirtumas dividendus gaunančiam vienetui grąžinamas (įskaitomas) taikant Lietuvos Respublikos mokesčių administravimo įstatyme nustatytą mokesčių permokos grąžinimo (įskaitymo) tvarką.
 
-4. Jeigu Lietuvos vienetas gauna dividendus Lietuvos Respublikos akcinių bendrovių įstatymo, Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo ir Lietuvos Respublikos žemės ūkio bendrovių įstatymo nustatyta tvarka, šis vienetas į pajamas iš kito Lietuvos vieneto gautų dividendų neįtraukia.
+4. Jeigu Lietuvos vienetas gauna dividendus Lietuvos Respublikos akcinių bendrovių įstatymo, Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo ir Lietuvos Respublikos žemės ūkio bendrovių įstatymo nustatyta tvarka, šis vienetas į pajamas iš kito Lietuvos vieneto gautų dividendų neįtraukia.
+
+TAR pastaba. 4 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 Straipsnio pakeitimai:
 
@@ -1769,15 +1841,31 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
 
-2. Apmokestinamasis pelnas gali būti sumažintas ne daugiau kaip 50 procentų. Jei šio straipsnio 1 dalyje nurodytų išlaidų suma yra didesnė nei 50 procentų už mokestinį laikotarpį apskaičiuoto apmokestinamojo pelno sumos, šią sumą viršijančios išlaidos gali būti perkeliamos už vėlesnius keturis vienas po kito einančius mokestinius laikotarpius apskaičiuotoms apmokestinamojo pelno sumoms sumažinti, atitinkamai mažinant perkeliamą tokių išlaidų sumą. Tačiau už kiekvieną mokestinį laikotarpį apskaičiuotas apmokestinamasis pelnas negali būti sumažintas daugiau kaip 50 procentų.
+2. Apmokestinamasis pelnas gali būti sumažintas iki 100 procentų. Jei šio straipsnio 1 dalyje nurodytų išlaidų suma yra didesnė negu už mokestinį laikotarpį apskaičiuota apmokestinamojo pelno suma, šią sumą viršijančios išlaidos gali būti perkeliamos už vėlesnius keturis vienas po kito einančius mokestinius laikotarpius apskaičiuotoms apmokestinamojo pelno sumoms sumažinti, atitinkamai mažinant perkeliamą tokių išlaidų sumą. Už kiekvieną mokestinį laikotarpį apskaičiuotas apmokestinamasis pelnas gali būti sumažintas iki 100 procentų.
+
+TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 3. Šio straipsnio 1 dalyje nurodytas faktiškai patirtų išlaidų dydis turi būti sumažintas tam tikslui panaudotų nacionalinio biudžeto, Valstybinio socialinio draudimo fondo biudžeto, Privalomojo sveikatos draudimo fondo biudžeto, kitų valstybės pinigų fondų, savivaldybių fondų, Europos Sąjungos ir kitos finansinės paramos lėšų suma, jeigu tokios lėšos ar tokia parama buvo gauta.
 
-4. Šiame straipsnyje nustatyta tvarka apmokestinamasis pelnas gali būti sumažintas tik per 2009–2018 metų mokestinius laikotarpius patirtomis išlaidomis.
+4. Šiame straipsnyje nustatyta tvarka apmokestinamasis pelnas gali būti sumažintas tik per 2009–2023 metų mokestinius laikotarpius patirtomis išlaidomis.
+
+TAR pastaba. 4 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 5. Ilgalaikis turtas, dėl kurio įsigijimo šiame straipsnyje nustatyta tvarka buvo sumažintas apmokestinamasis pelnas, vieneto veikloje turi būti naudojamas ne trumpiau negu 3 metus. Jeigu toks ilgalaikis turtas naudojamas vieneto veikloje trumpiau, išskyrus vieneto pabaigą ir atvejus, kai turtas nebenaudojamas ar perleidžiamas dėl teisės aktų reikalavimų, prarandamas dėl nenugalimos jėgos (force majeure) ar nusikalstamos trečiųjų asmenų veiklos, dėl sumažinto apmokestinamojo pelno neapskaičiuotas pelno mokestis turi būti sumokėtas į valstybės biudžetą perskaičiuojant ir apmokestinant praėjusių mokestinių laikotarpių apmokestinamuosius pelnus. Toks perskaičiavimas neatliekamas, kai ilgalaikis turtas naudojamas vieneto veikloje trumpiau negu 3 metus dėl to, kad reorganizavimo ar perleidimo atvejais pereina įsigyjančiajam vienetui, tačiau tik tuo atveju, jeigu įsigyjantysis vienetas perimtą turtą naudoja iki tol, kol sueis 3 metai nuo ilgalaikio turto naudojimo jį perleidusiame vienete pradžios. Įsigyjantysis vienetas, perėmęs ilgalaikį turtą reorganizavimo ar perleidimo atvejais ar dėl teisės aktų reikalavimų, gali tęsti apmokestinamojo pelno sumažinimą, kaip tai būtų daręs ilgalaikį turtą perleidęs ir galimybių dėl tokio ilgalaikio turto įsigijimo sumažinti apmokestinamąjį pelną netekęs vienetas.
 
-6. Vienetas, ketinantis sumažinti apmokestinamąjį pelną dėl vykdomo investicinio projekto, pradėjęs vykdyti investicinį projektą, apie tai centrinio mokesčių administratoriaus nustatyta tvarka ir terminais turi informuoti vietos mokesčių administratorių.
+6. Neteko galios 2017-12-23.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 Įstatymas papildytas skyriumi:
 
@@ -2013,7 +2101,13 @@ Nr. XI-1698, 2011-11-17, Žin., 2011, Nr. 146-6844 (2011-12-01)
 
 1. Jeigu mokestiniais metais iš pajamų atėmus neapmokestinamąsias pajamas ir atskaičius leidžiamus atskaitymus bei ribojamų dydžių leidžiamus atskaitymus gaunami mokestinio laikotarpio nuostoliai, šių nuostolių suma perkeliama į kitus mokestinius metus, išskyrus nuostolius, patirtus dėl vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo.
 
-2. Nuostoliai dėl vertybinių popierių arba išvestinių finansinių priemonių perleidimo perkeliami į kitus mokestinius metus, tačiau dengiami tik vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo veiklos pajamomis. Nuostoliai dėl vieneto, kuris įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, ir kuris yra pelno mokesčio arba jam tapataus mokesčio mokėtojas, akcijų perleidimo, jei akcijas perleidžiantis vienetas šiame vienete ne trumpiau kaip 2 metus be pertraukų turėjo daugiau kaip 25 procentus balsus suteikiančių akcijų, atskaitomi iš mokestinio laikotarpio apmokestinamųjų vertybinių popierių perleidimo pajamų, tačiau taip atskaitomų nuostolių suma negali būti didesnė už to mokestinio laikotarpio apmokestinamųjų vertybinių popierių turto vertės padidėjimo pajamų sumą, o neatskaityta tokio nuostolio suma į kitus mokestinius metus neperkeliama.
+2. Nuostoliai dėl vertybinių popierių arba išvestinių finansinių priemonių perleidimo perkeliami į kitus mokestinius metus, tačiau dengiami tik vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo veiklos pajamomis. Nuostoliai dėl vieneto, kuris įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, ir kuris yra pelno mokesčio arba jam tapataus mokesčio mokėtojas, akcijų perleidimo, jei akcijas perleidžiantis vienetas šiame vienete ne trumpiau kaip 2 metus be pertraukų turėjo daugiau kaip 10 procentų balsus suteikiančių akcijų, atskaitomi iš mokestinio laikotarpio apmokestinamųjų vertybinių popierių perleidimo pajamų, tačiau taip atskaitomų nuostolių suma negali būti didesnė už to mokestinio laikotarpio apmokestinamųjų vertybinių popierių turto vertės padidėjimo pajamų sumą, o neatskaityta tokio nuostolio suma į kitus mokestinius metus neperkeliama.
+
+TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 3. Jeigu mokesčio mokėtojas gauna mokestinius nuostolius ilgiau negu vienerius mokestinius metus, pirmiausia perkeliami ankstesnių metų mokestinio laikotarpio nuostoliai. Vėliau patirti nuostoliai perkeliami tik padengus ankstesnių mokestinių laikotarpių nuostolius.
 
