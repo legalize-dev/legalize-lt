@@ -4,7 +4,7 @@ identifier: "TAR.0F9036415DBD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-05-21"
-last_updated: "2017-12-14"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-12-14 iki 2017-12-28
+Suvestinė redakcija nuo 2017-12-29 iki 2017-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
 
@@ -694,7 +694,11 @@ Fondo taryba:
 
 13) užtikrina įstatymų ir kitų teisės aktų nustatytų išmokų iš valstybės biudžeto teisingą ir laiku vykdomą skyrimą ir (ar) mokėjimą;
 
-14) nagrinėja apdraustųjų asmenų, draudėjų, socialinio draudimo išmokų gavėjų, asmens sveikatos priežiūros įstaigų, kitų suinteresuotų asmenų skundus dėl Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų veiksmų ir sprendimų;
+14) nagrinėja apdraustųjų asmenų, draudėjų, socialinio draudimo ir kitų išmokų, kurių skyrimas ir (ar) mokėjimas pavestas Fondo administravimo įstaigoms, gavėjų, asmens sveikatos priežiūros įstaigų, kitų suinteresuotų asmenų skundus dėl Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų veiksmų ir sprendimų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-883, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21484
 
 15) organizuoja ir vykdo laikinojo nedarbingumo, ilgalaikio ir pastovaus darbingumo netekimo (invalidumo) nustatymo pagrįstumo, teisėtumo ir teisingumo tikrinimus, tais klausimais teikia metodinę ir praktinę pagalbą Fondo valdybos teritoriniams skyriams;
 
@@ -916,7 +920,11 @@ FONDO ADMINISTRAVIMO ĮSTAIGŲ TEISĖS, SPRENDIMŲ IR VEIKSMŲ APSKUNDIMAS
 
 1. Draudėjai, apdraustieji asmenys ir kiti suinteresuoti asmenys (toliau šiame straipsnyje – suinteresuoti asmenys) turi teisę apskųsti Fondo valdybos teritorinių skyrių sprendimus ir veiksmus (neveikimą) Fondo valdybai. Fondo valdyba yra privaloma išankstinio ginčų nagrinėjimo ne teismo tvarka institucija.
 
-2. Skundai Fondo valdybai dėl Fondo valdybos teritorinių skyrių sprendimų ir veiksmų (neveikimo) nagrinėjami, jeigu jie pateikti per 20 darbo dienų nuo tos dienos, kurią suinteresuotas asmuo sužinojo arba turėjo sužinoti apie skundžiamo veiksmo atlikimą (neatlikimą) ar sprendimo priėmimą, o skundai dėl nepriimto sprendimo – per 20 darbo dienų nuo tos dienos, kurią baigėsi sprendimui priimti nustatytas terminas. Skundai dėl sprendimų pensijų, rentų ir kompensacinių išmokų teatrų ir koncertinių įstaigų kūrybiniams darbuotojams skyrimo ir (ar) mokėjimo klausimais nagrinėjami, jeigu jie pateikti per 6 mėnesius nuo tos dienos, kurią suinteresuotas asmuo sužinojo arba turėjo sužinoti apie skundžiamo sprendimo priėmimą, o skundai dėl nepriimto sprendimo – per 20 darbo dienų nuo tos dienos, kurią baigėsi sprendimui priimti nustatytas terminas. Skundui paduoti nustatytas terminas, praleistas dėl svarbių priežasčių, kurias asmuo pagrindžia atitinkamais dokumentais, Fondo valdybos direktoriaus ar jo pavaduotojo sprendimu gali būti atnaujinamas. Skundų nagrinėjimo tvarką Fondo valdyboje nustato Fondo valdybos direktorius.
+2. Skundai Fondo valdybai dėl Fondo valdybos teritorinių skyrių sprendimų ir veiksmų (neveikimo) nagrinėjami, jeigu jie pateikti per 20 darbo dienų nuo tos dienos, kurią suinteresuotas asmuo sužinojo arba turėjo sužinoti apie skundžiamo veiksmo atlikimą (neatlikimą) ar sprendimo priėmimą, o skundai dėl nepriimto sprendimo – per 20 darbo dienų nuo tos dienos, kurią baigėsi sprendimui priimti nustatytas terminas. Skundai dėl sprendimų pensijų, rentų ir pagal Lietuvos Respublikos profesionaliojo scenos meno įstatymą mokamų kompensacinių išmokų kūrybiniams darbuotojams skyrimo ir (ar) mokėjimo klausimais nagrinėjami, jeigu jie pateikti per 6 mėnesius nuo tos dienos, kurią suinteresuotas asmuo sužinojo arba turėjo sužinoti apie skundžiamo sprendimo priėmimą, o skundai dėl nepriimto sprendimo – per 20 darbo dienų nuo tos dienos, kurią baigėsi sprendimui priimti nustatytas terminas. Skundui paduoti nustatytas terminas, praleistas dėl svarbių priežasčių, kurias asmuo pagrindžia atitinkamais dokumentais, Fondo valdybos direktoriaus ar jo pavaduotojo sprendimu gali būti atnaujinamas. Skundų nagrinėjimo tvarką Fondo valdyboje nustato Fondo valdybos direktorius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-883, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21484
 
 3. Šio straipsnio 2 dalyje nustatytais terminais pateiktas skundas Fondo valdyboje turi būti išnagrinėtas ir sprendimas dėl jo turi būti priimtas ne vėliau kaip per 20 darbo dienų nuo skundo gavimo dienos. Šis terminas gali būti pratęstas dar iki 20 darbo dienų, jeigu skundui nagrinėti reikia papildomo tyrimo. Apie tai turi būti raštu pranešta suinteresuotam asmeniui.
 
