@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2017-08-01"
+last_updated: "2017-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2017-08-01 iki 2017-12-29
+Suvestinė redakcija nuo 2017-12-30 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -690,6 +690,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-625, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12341
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 75 ir 83 straipsnių pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-968, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21725
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 29 straipsnio pakeitimo įstatymas
 
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
@@ -1419,7 +1427,15 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 4. Taryba skelbia viešą konkursą rektoriaus (direktoriaus) pareigoms eiti. Rektorius (direktorius) laikomas išrinktu, jeigu už jį balsuoja ne mažiau kaip trys penktadaliai visų tarybos narių.
 
-5. Rektoriumi (direktoriumi) gali būti nepriekaištingos reputacijos, pedagoginės ir vadybinės patirties turintis asmuo, kuris turi mokslo arba meno daktaro laipsnį, arba yra pripažintas menininkas. Rektoriui (direktoriui) keliami kvalifikaciniai reikalavimai, ne žemesni kaip šiame straipsnyje nurodyti, nustatomi aukštosios mokyklos statute.
+5. Rektorius turi būti nepriekaištingos reputacijos, pedagoginės ir vadybinės patirties turintis asmuo, kuris turi mokslo arba meno daktaro laipsnį, arba yra pripažintas menininkas. Direktorius turi būti nepriekaištingos reputacijos, pedagoginės ir vadybinės patirties turintis asmuo. Rektoriui (direktoriui) keliami kvalifikaciniai reikalavimai, ne žemesni kaip šiame straipsnyje nurodyti, nustatomi aukštosios mokyklos statute.
+
+5 dalies redakcija nuo 2022-01-01:
+
+5. Rektorius (direktorius) turi būti nepriekaištingos reputacijos, pedagoginės ir vadybinės patirties turintis asmuo, kuris turi mokslo arba meno daktaro laipsnį, arba yra pripažintas menininkas. Rektoriui (direktoriui) keliami kvalifikaciniai reikalavimai, ne žemesni kaip šiame straipsnyje nurodyti, nustatomi aukštosios mokyklos statute.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-968, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21725
 
 6. Su išrinktu rektoriumi (direktoriumi) jo kadencijos laikotarpiui darbo sutartį aukštosios mokyklos vardu pasirašo tarybos pirmininkas arba kitas tarybos įgaliotas asmuo.
 
