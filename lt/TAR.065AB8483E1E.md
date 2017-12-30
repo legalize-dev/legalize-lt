@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2017-11-01"
+last_updated: "2017-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2017-11-01 iki 2017-12-29
+Suvestinė redakcija nuo 2017-12-30 iki 2017-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
 
@@ -1658,11 +1658,13 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 17. Komisija kiekvienais metais rengia detalią metinę planuojamų pajamų ir išlaidų sąmatą. Komisijos buhalterinė apskaita organizuojama ir tvarkoma, finansinių ataskaitų rinkiniai sudaromi ir teikiami Buhalterinės apskaitos įstatyme ir Viešojo sektoriaus atskaitomybės įstatyme ir kituose teisės aktuose bei viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartuose nustatyta tvarka. Komisijos praėjusių metų finansinių ataskaitų rinkinį patikrina Komisijos parinktas auditorius ar audito įmonė ne vėliau kaip iki balandžio 1 dienos. Auditorius ar audito įmonė parenkami Viešųjų pirkimų įstatyme nustatyta tvarka. Atlikus auditą, Komisijai pateikiama nepriklausomo auditoriaus išvada ir audito ataskaita, kurias Komisija paskelbia viešai savo interneto svetainėje. Komisijos valstybinį auditą atlieka Lietuvos Respublikos valstybės kontrolė.
 
-18. Kiekvienais metais iki balandžio 1 dienos Komisija pateikia Seimui praėjusių metų Komisijos veiklos ataskaitą ir finansinių ataskaitų rinkinį kartu su nepriklausomo auditoriaus išvada ir audito ataskaita. Šias ataskaitas svarsto Seimo Audito komitetas ir Kultūros komitetas. Jeigu komitetai nepritaria Komisijos veiklos ataskaitai ar finansinių ataskaitų rinkiniui, jie svarstomi Seimo posėdyje ne vėliau kaip per 30 dienų nuo komitetų pateiktos neigiamos išvados. Jeigu Seimo posėdyje Komisijos veiklos ataskaita ar finansinių ataskaitų rinkinys nepatvirtinami, Seimas kreipiasi į Komisijos narius skyrusias institucijas ar organizacijas, kad jos priimtų sprendimus dėl savo paskirtų Komisijos narių veiklos tęstinumo. Jeigu daugiau kaip pusė Komisijos narių nėra patvirtinami toliau tęsti veiklą Komisijoje, Komisijos narius skyrusios institucijos ar organizacijos privalo paskirti kitus Komisijos narius ir pradedama skaičiuoti nauja Komisijos kadencija.
+18. Kiekvienais metais iki balandžio 1 dienos Komisija pateikia Seimui praėjusių metų Komisijos veiklos ataskaitą ir finansinių ataskaitų rinkinį kartu su nepriklausomo auditoriaus išvada ir audito ataskaita. Šias ataskaitas išklauso Seimo Kultūros komitetas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
+
+Nr. XIII-966, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21724
 
 19. Komisijos nariams ir administracijai draudžiama platinti informaciją, kuri yra radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų, informacinės visuomenės informavimo priemonių valdytojų komercinė paslaptis.
 
