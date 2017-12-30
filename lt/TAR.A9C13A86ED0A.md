@@ -4,7 +4,7 @@ identifier: "TAR.A9C13A86ED0A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2015-07-08"
+last_updated: "2017-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A9C13A86ED0A"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2015-07-08 iki 2017-12-29
+Suvestinė redakcija nuo 2017-12-30 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 58-1133, i. k. 0941010ISTA000I-555
 
@@ -76,7 +76,11 @@ I SKYRIUS BENDROSIOS NUOSTATOS
 
 5. Tarptautinės karinės pratybos (toliau – pratybos) – pasirengimo tarptautinėms operacijoms ir kitos kovinio parengimo pratybos, kuriose Lietuvos Respublikos kariniai vienetai dalyvauja kartu su kitų valstybių kariniais vienetais arba užsienio valstybių kariniai vienetai naudojasi Lietuvos Respublikos krašto apsaugos sistemos reikmėms skirtais infrastruktūros objektais ir karinio mokymo teritorijomis.
 
-6. Kiti karinio bendradarbiavimo renginiai (toliau – kiti renginiai) – tarptautinei operacijai ir pratyboms nepriskiriami karinio bendradarbiavimo su kitomis valstybėmis ar (ir) tarptautinėmis institucijomis renginiai.
+6. Kiti karinio bendradarbiavimo renginiai (toliau – kiti renginiai) – prie tarptautinių operacijų ir tarptautinių pratybų nepriskiriami Lietuvos Respublikos karinės ar gynybos institucijos bendradarbiavimo su tarptautinėmis organizacijomis ar institucijomis, kitų valstybių karinėmis, gynybos ar kitomis institucijomis, įmonėmis, įstaigomis ir organizacijomis renginiai ir kitų valstybių karinių ar gynybos institucijų bendradarbiavimo su Lietuvos Respublikos karinėmis, gynybos ar kitomis institucijomis, įmonėmis, įstaigomis ir organizacijomis renginiai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-924, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21596
 
 7. Karinis vienetas – kiekvienas bet kokio dydžio Lietuvos ar kitos valstybės kariuomenės (ginkluotųjų pajėgų) vienetas, vadovaujamas vado ir turintis bendrą užduotį dalyvauti tarptautinėse operacijose, pratybose ar kituose renginiuose.
 
