@@ -4,7 +4,7 @@ identifier: "TAR.70F4FFCAE536"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-25"
-last_updated: "2017-06-30"
+last_updated: "2017-12-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.70F4FFCAE536"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymas
 
-Suvestinė redakcija nuo 2017-06-30 iki 2017-12-29
+Suvestinė redakcija nuo 2017-12-30 iki 2019-05-13
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 50-1432, i. k. 1001010ISTAIII-1708
 
@@ -119,7 +119,11 @@ Vaiko teisių apsaugos kontrolieriaus pareigos nesuderinamos su jokiomis kitomis
 
 1. Vaiko teisių apsaugos kontrolierius kasmet ne vėliau kaip iki balandžio 1 dienos raštu pateikia Seimui vaiko teisių apsaugos kontrolieriaus praėjusių kalendorinių metų veiklos ataskaitą.
 
-2. Sprendimą dėl vaiko teisių apsaugos kontrolieriaus ataskaitos ir šios institucijos veiklos Seimo statuto nustatyta tvarka priima Seimas.
+2. Netenka galios 2017-12-30.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-965, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21719
 
 3. Vaiko teisių apsaugos kontrolieriaus veiklos ataskaita turi būti paskelbta Vaiko teisių apsaugos kontrolieriaus įstaigos interneto tinklalapyje, o esant galimybei – ir per kitas visuomenės informavimo priemones.
 
@@ -466,6 +470,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-456, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11070
 
 Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-1708 14 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-965, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21719
+
+Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-1708 10 straipsnio pakeitimo įstatymas
 
 29 straipsnis. Fiziniai ir juridiniai asmenys, įmonės, neturinčios juridinių asmenų teisių, su kuriais vaiko teisių apsaugos kontrolierius bendradarbiauja įgyvendindamas šį įstatymą
 
