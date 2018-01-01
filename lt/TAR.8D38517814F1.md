@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2017-07-12"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2017-07-12 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-01-23
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -893,11 +893,19 @@ Nr. XII-289, 2013-05-09, Žin., 2013, Nr. 55-2729 (2013-05-28)
 
 1. Atliekų apskaitą tvarko ir ataskaitas apie atliekų susidarymą ir tvarkymą Aplinkos ministerijos įgaliotai institucijai Aplinkos ministerijos nustatyta tvarka teikia:
 
-1) atliekas surenkančios, vežančios ar apdorojančios įmonės, prekiautojai pavojingosiomis atliekomis ir tarpininkai;
+1) atliekas surenkančios, vežančios ar apdorojančios įmonės, prekiautojai atliekomis ir tarpininkai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-290, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06968
 
 2) įmonės, atliekų susidarymo vietoje pavojingąsias atliekas laikančios ilgiau kaip šešis mėnesius, o nepavojingąsias – ilgiau kaip vienus metus;
 
-3) atliekų darytojai, atsižvelgiant į susidarančių atliekų kiekį ir rūšį, vykdomą veiklą ir įmonės dydį, Aplinkos ministerijos nustatytais atvejais.
+3) atliekų darytojai, atsižvelgiant į susidarančių atliekų kiekį ir (ar) rūšį, ir (ar) vykdomą veiklą, ir (ar) įmonės dydį, Aplinkos ministerijos nustatytais atvejais.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-290, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06968
 
 2. Atliekų apskaitos duomenys naudojami atliekų susidarymo ir tvarkymo būklės analizei, atliekų tvarkymo tikslų ir užduočių vykdymo priežiūrai, visuomenės informavimui ir kitiems tikslams.
 
