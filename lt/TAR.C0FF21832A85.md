@@ -4,7 +4,7 @@ identifier: "TAR.C0FF21832A85"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-04"
-last_updated: "2017-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
 
@@ -209,11 +209,13 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
 2) juridiniai asmenys – jų įstatuose ar nuostatuose arba religinių bendruomenių, bendrijų ir centrų kanonuose, statutuose ir kitose normose numatytiems šio įstatymo 3 straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams, labdarai (jeigu jie pagal šį įstatymą turi teisę teikti labdarą).
 
-2. Pagal šį įstatymą kaip parama gauti šio įstatymo 4 straipsnio 1 ir 2 dalyse nurodyti labdaros ir paramos dalykai negali būti naudojami politinėms partijoms, valstybės politikams ar politinėms kampanijoms finansuoti ir politinių kampanijų dalyvių politinių kampanijų laikotarpiu atsiradusiems ar su politinėmis kampanijomis susijusiems skolos įsipareigojimams padengti.
+2. Pagal šį įstatymą kaip parama gauti šio įstatymo 4 straipsnio 1 ir 2 dalyse nurodyti labdaros ir paramos dalykai negali būti naudojami politinėms partijoms, valstybės politikams, politinei reklamai ar politinėms kampanijoms finansuoti ir politinių kampanijų dalyvių politinių kampanijų laikotarpiu atsiradusiems ar su politinėmis kampanijomis susijusiems skolos įsipareigojimams padengti.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
+
+Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
 
 3. Pagal šį įstatymą kaip parama gautos lėšos ir kitas turtas negali būti perduodami kaip įnašas juridiniam asmeniui, kurio dalyvis yra paramos gavėjas.
 
@@ -279,13 +281,25 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
 5) asmuo nesumokėjo mokestinės nepriemokos ir mokesčių administratorius Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka įgijo teisę priverstinai ją išieškoti. Ši nuostata netaikoma tais atvejais, kai Mokesčių administravimo įstatymo 110 straipsnyje nustatyta tvarka mokestinės nepriemokos priverstinis išieškojimas yra sustabdytas arba nepradėtas;
 
-6) asmuo per 3 metus nuo šio įstatymo nustatyta tvarka gautos paramos gavimo paramos nepanaudoja arba ją netinkamai panaudoja, pažeisdamas šio įstatymo nuostatas dėl paramos paskirties.
+6) asmuo per 3 metus nuo šio įstatymo nustatyta tvarka gautos paramos gavimo paramos nepanaudoja arba ją netinkamai panaudoja, pažeisdamas šio įstatymo nuostatas dėl paramos paskirties ar kitų įstatymų nuostatas, reglamentuojančias paramos gavėjų veiklos, susijusios su gautos paramos naudojimu, ribojimus.
 
-6. Juridinių asmenų registro tvarkytojas savo iniciatyva panaikina Juridinių asmenų registre įregistruoto paramos gavėjo statusą, kai šį statusą turinčiam juridiniam asmeniui įregistruojamas Juridinių asmenų registro tvarkytojo inicijuotas likvidavimas arba įregistruojamas jo kaip likviduojamo, bankrutuojančio ar bankrutavusio juridinio asmens statusas, taip pat kai pasibaigia juridinio asmens pertvarkymo procedūros.
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
+
+6. Juridinių asmenų registro tvarkytojas savo iniciatyva panaikina Juridinių asmenų registre įregistruoto paramos gavėjo statusą:
+
+1) kai paramos gavėjas per Lietuvos Respublikos civilinio kodekso 2.66 straipsnio 4 dalyje nurodytą terminą, jei įstatymuose nenumatytas kitas terminas, Juridinių asmenų registro tvarkytojui nepateikė metinių finansinių ataskaitų rinkinio ir metinio pranešimo ar veiklos ataskaitos per 2 mėnesius po to, kai buvo įspėtas apie šį pažeidimą;
+
+2) kai šį statusą turinčiam juridiniam asmeniui įregistruojamas Juridinių asmenų registro tvarkytojo inicijuotas likvidavimas arba įregistruojamas jo kaip likviduojamo, bankrutuojančio ar bankrutavusio juridinio asmens statusas, taip pat kai pasibaigia juridinio asmens pertvarkymo procedūros.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
 
 7. Juridinis ar fizinis asmuo, kuriam už šio straipsnio 5 dalyje nurodytą bent vieną pažeidimą buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į Juridinių asmenų registro tvarkytoją arba Kultūros ministeriją ne anksčiau kaip po vienų metų, kurie pradedami skaičiuoti nuo paramos gavėjo statuso panaikinimo dienos. Paramos gavėjo statusas pakartotinai suteikiamas, jeigu juridinis ar fizinis asmuo yra sumokėjęs visus mokėtinus mokesčius, baudas ir delspinigius, neturi teistumo už šio straipsnio 5 dalies 1 punkte nurodytus nusikaltimus, per paskutinius vienus metus nėra padaręs šio straipsnio 5 dalies 1 punkte nurodytų baudžiamųjų nusižengimų ir per vienų metų laikotarpį nebuvo nustatyta Pinigų plovimo prevencijos įstatymo pažeidimų.
 
@@ -452,6 +466,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
 
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 pakeitimo įstatymo Nr. XII-2202 1 ir 2 straipsnių pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
+
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 10 ir 13 straipsnių pakeitimo įstatymas
 
 15 straipsnis. Paramos gavėjo statusas
 
