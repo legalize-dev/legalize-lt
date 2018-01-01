@@ -4,7 +4,7 @@ identifier: "TAR.FAFBBF47946B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2002-05-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FAFBBF47946B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos administracinių teismų įsteigimo įstatymas
 
-Suvestinė redakcija nuo 2002-05-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2023-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-309, i. k. 0991010ISTAIII-1030
 
@@ -42,37 +42,27 @@ Nr. VIII-1138, 1999-04-13, Žin., 1999, Nr. 36-1068 (1999-04-23), i. k. 0991010I
 
 1) Vilniaus apygardos administracinis teismas;
 
-2) Kauno apygardos administracinis teismas;
+2) Regionų apygardos administracinis teismas. Šį teismą sudaro Regionų apygardos administracinio teismo Kauno rūmai, Regionų apygardos administracinio teismo Klaipėdos rūmai, Regionų apygardos administracinio teismo Panevėžio rūmai ir Regionų apygardos administracinio teismo Šiaulių rūmai; šio teismo buveinė yra Regionų apygardos administracinio teismo Kauno rūmuose;
 
-3) Klaipėdos apygardos administracinis teismas;
+3) Lietuvos vyriausiasis administracinis teismas.
 
-4) Panevėžio apygardos administracinis teismas;
+2. Vilniaus apygardos administracinio teismo veiklos teritorija sutampa su Vilniaus apygardos teismo veiklos teritorija.
 
-5) Šiaulių apygardos administracinis teismas;
+3. Regionų apygardos administracinio teismo veiklos teritorija apima Kauno apygardos teismo, Klaipėdos apygardos teismo, Panevėžio apygardos teismo ir Šiaulių apygardos teismo veiklos teritorijas. Regionų apygardos administracinio teismo konkrečių rūmų veiklos teritorija sutampa su atitinkamo bendrosios kompetencijos apygardos teismo veiklos teritorija.
 
-6) Lietuvos vyriausiasis administracinis teismas.
-
-2. Konkrečios apygardos administracinio teismo veiklos teritorija sutampa su atitinkamo bendrosios kompetencijos apygardos teismo veiklos teritorija.
-
-3. Lietuvos vyriausiasis administracinis teismas veikia visoje valstybės teritorijoje.
+4. Lietuvos vyriausiasis administracinis teismas veikia visoje valstybės teritorijoje.
 
 Straipsnio pakeitimai:
 
 Nr. VIII-1928, 2000-09-19, Žin., 2000, Nr. 85-2567 (2000-10-11), i. k. 1001010ISTAIII-1928
 
-3 straipsnis. Administracinių teismų sudėtis
+Nr. XII-2478, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17975
 
-1. Administracinį teismą sudaro teismo pirmininkas ir kiti teisėjai. Administraciniame teisme, kuriame yra ne mažiau kaip dešimt teisėjų, gali būti skiriamas teismo pirmininko pavaduotojas. Administraciniame teisme, kuriame yra daugiau kaip dvidešimt teisėjų, gali būti skiriami du pirmininko pavaduotojai.
+3 straipsnis. Neteko galios nuo 2018-01-01
 
-Straipsnio dalies pakeitimai:
+Straipsnio naikinimas:
 
-Nr. IX-776, 2002-03-12, Žin., 2002, Nr. 31-1124 (2002-03-27), i. k. 1021010ISTA00IX-776
-
-2. Lietuvos vyriausiąjį administracinį teismą sudaro teismo pirmininkas, pirmininko pavaduotojas ir kiti teisėjai.
-
-Straipsnio dalies pakeitimai:
-
-Nr. VIII-1928, 2000-09-19, Žin., 2000, Nr. 85-2567 (2000-10-11), i. k. 1001010ISTAIII-1928
+Nr. XII-2478, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17975
 
 4 straipsnis. Administracinių teismų teisėjų darbo apmokėjimas
 
@@ -104,7 +94,7 @@ Nr. VIII-1928, 2000-09-19, Žin., 2000, Nr. 85-2567 (2000-10-11), i. k. 1001010I
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -131,4 +121,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-776, 2002-03-12, Žin., 2002, Nr. 31-1124 (2002-03-27), i. k. 1021010ISTA00IX-776
 
 Lietuvos Respublikos administracinių teismų įsteigimo įstatymo 3, 4 straipsnių pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2478, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17975
+
+Lietuvos Respublikos administracinių teismų įsteigimo įstatymo Nr. VIII-1030 2 straipsnio pakeitimo ir 3 straipsnio pripažinimo netekusiu galios įstatymas
 
