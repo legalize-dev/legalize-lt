@@ -4,7 +4,7 @@ identifier: "TAR.EAA93A47BAA1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-28"
-last_updated: "2017-10-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2017-10-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-10-10
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
 
@@ -377,11 +377,25 @@ Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
 
-15) kiti asmenys Lietuvos Respublikos tarptautinėse sutartyse numatytais atvejais.
+15) vaiko tėvai, dėl kurių valdžios apribojimo ar jo panaikinimo sprendžia teismas;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
+
+16) įvaikintojas (įvaikintojai) ar vaiko globėjas (rūpintojas), kompetentingai valstybės institucijai pateikęs prašymą dėl įvaikinimo ar nuolatinės globos (rūpybos) ir turintis šios institucijos patvirtinimą dėl tinkamumo tapti įtėviu (įtėviais) ar vaiko globėju (rūpintoju), arba įvaikintojas (įvaikintojai) ar vaiko globėjas (rūpintojas), kurio prašymą dėl įvaikinimo ar nuolatinės globos (rūpybos) nagrinėja teismas;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
+
+17) kiti asmenys Lietuvos Respublikos tarptautinėse sutartyse numatytais atvejais.
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
+
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
 
 13 straipsnis. Asmens teisę gauti antrinę teisinę pagalbą įrodantys dokumentai
 
@@ -431,13 +445,33 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
 
-15. Šio įstatymo 12 straipsnio 15 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentai, nurodyti Lietuvos Respublikos tarptautinėse sutartyse.
+15. Šio įstatymo 12 straipsnio 15 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentai, patvirtinantys pradėtą bylos procesą dėl tėvų valdžios apribojimo ar jo panaikinimo, arba šio įstatymo 22 straipsnio 3 dalyje nurodytas teismo pranešimas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
+
+16. Šio įstatymo 12 straipsnio 16 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo kompetentingos valstybės institucijos patvirtinimas dėl tinkamumo įvaikinti ar būti nuolatiniu globėju (rūpintoju), teismo, nagrinėjančio bylą dėl įvaikinimo ar bylą dėl vaiko nuolatinės globos (rūpybos), pranešimas apie pradėtą bylos procesą ir (ar) kiti dokumentai, patvirtinantys pradėtą procesą dėl vaiko įvaikinimo ar vaiko nuolatinės globos (rūpybos).
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
+
+17. Šio įstatymo 12 straipsnio 15 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentai, nurodyti Lietuvos Respublikos tarptautinėse sutartyse.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
 
-16. Šio straipsnio 1, 4 ir 7 dalyse nurodytus dokumentus antrinę teisinę pagalbą norintis gauti asmuo privalo pateikti tarnybai tik tais atvejais, kai šiuose dokumentuose pateiktos informacijos, įrodančios asmens teisę gauti antrinę teisinę pagalbą, tarnyba negali gauti naudodamasi valstybės registrais ir kitomis valstybės ir savivaldybių informacinėmis sistemomis.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
+
+18. Šio straipsnio 1, 4 ir 7 dalyse nurodytus dokumentus antrinę teisinę pagalbą norintis gauti asmuo privalo pateikti tarnybai tik tais atvejais, kai šiuose dokumentuose pateiktos informacijos, įrodančios asmens teisę gauti antrinę teisinę pagalbą, tarnyba negali gauti naudodamasi valstybės registrais ir kitomis valstybės ir savivaldybių informacinėmis sistemomis.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
 
 14 straipsnis. Valstybės garantuojamos teisinės pagalbos išlaidos
 
@@ -642,6 +676,12 @@ Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
 1. Sveikatos priežiūros įstaiga, kreipdamasi dėl antrinės teisinės pagalbos suteikimo Psichikos sveikatos priežiūros įstatymo arba Žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo nurodytais atvejais, pateikia tarnybai teisingumo ministro nustatytos formos pranešimą dėl antrinės teisinės pagalbos teikimo. Tarnyba sprendimą dėl antrinės teisinės pagalbos teikimo priima šio pranešimo gavimo dieną arba artimiausią darbo dieną, jeigu pranešimas gautas ne darbo laiku, ir nedelsdama apie priimtą sprendimą raštu praneša sveikatos priežiūros įstaigai. Sveikatos priežiūros įstaiga privalo su tarnybos sprendimu dėl antrinės teisinės pagalbos teikimo supažindinti šio įstatymo 12 straipsnio 7 punkte nurodytą asmenį ir sudaryti tinkamas sąlygas jo ir advokato bendravimui.
 
 2. Kai dėl antrinės teisinės pagalbos suteikimo Civilinio proceso kodekso nustatytais atvejais, nagrinėjant bylas dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje ir jo globos, dėl teismo sprendimo, kuriuo asmuo pripažintas neveiksniu tam tikroje srityje, peržiūrėjimo, dėl neveiksniu tam tikroje srityje pripažinto asmens pripažinimo veiksniu ar ribotai veiksniu tam tikroje srityje, kreipiasi teismas, tarnyba sprendimą dėl antrinės teisinės pagalbos teikimo priima ne vėliau kaip per 3 darbo dienas nuo teismo pranešimo gavimo dienos ir apie priimtą sprendimą nedelsdama raštu praneša teismo pranešime nurodytam asmeniui ir teismui.
+
+3. Kai dėl antrinės teisinės pagalbos suteikimo Civilinio proceso kodekso nustatytais atvejais, nagrinėjant bylas dėl tėvų valdžios apribojimo ar jo panaikinimo, kreipiasi teismas, tarnyba sprendimą dėl antrinės teisinės pagalbos teikimo priima ne vėliau kaip per 3 darbo dienas nuo teismo pranešimo gavimo dienos ir apie priimtą sprendimą nedelsdama raštu praneša teismo pranešime nurodytam asmeniui ir teismui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
 
 Straipsnio pakeitimai:
 
