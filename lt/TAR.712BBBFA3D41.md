@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2017-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-07-03
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
 
@@ -152,9 +152,17 @@ Nr. XII-1379, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19663
 
 1) Lietuvos Respublikos Prezidento kanceliarija, Seimo kanceliarija, Vyriausybės kanceliarija, ministerija, Vyriausybės įstaiga;
 
-2) įstaiga, kuri yra atskaitinga Lietuvos Respublikos Prezidentui, Seimui, Vyriausybei arba kurios vadovą (arba kolegialų valdymo organą) skiria Lietuvos Respublikos Prezidentas, Seimas, Vyriausybė;
+2) įstaiga, kuri yra atskaitinga Lietuvos Respublikos Prezidentui, Seimui arba kurios vadovą (arba kolegialų valdymo organą) skiria Lietuvos Respublikos Prezidentas, Seimas;
 
-3) Lietuvos Respublikos Konstitucinis Teismas, teismai, Nacionalinė teismų administracija, Lietuvos Respublikos generalinė prokuratūra;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
+
+3) Lietuvos Respublikos Konstitucinis Teismas, teismai, Nacionalinė teismų administracija, Lietuvos Respublikos generalinė prokuratūra, Lietuvos administracinių ginčų komisija, Mokestinių ginčų komisija prie Lietuvos Respublikos Vyriausybės;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
 4) valstybinis universitetas, valstybinis mokslinių tyrimų institutas arba kunigų seminarija;
 
@@ -228,13 +236,21 @@ Nr. XI-1209, 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 
 Biudžeto asignavimų valdytojas turi teisę:
 
-1) biudžetiniais metais, ne vėliau kaip likus 10 dienų iki atitinkamo ketvirčio pabaigos, keisti patvirtintų jo vadovaujamos įstaigos, jam pavaldžių biudžetinių įstaigų ir kitų subjektų vykdomoms programoms patvirtintų biudžetų lėšų pagal ekonominę klasifikaciją paskirtį (valstybės biudžeto asignavimų valdytojas Vyriausybės nustatyta tvarka praneša apie tai Finansų ministerijai, o savivaldybės biudžeto asignavimų valdytojas – savivaldybės administracijai jos nustatyta tvarka), neviršydamas patvirtintų tam tikrai programai bendrųjų asignavimų išlaidoms, iš jų – darbo užmokesčiui, sumų. Asignavimų sumos išlaidoms, iš jų – darbo užmokesčiui, yra maksimalios ir jų ekonomija, jeigu nėra įsiskolinimų, gali būti naudojama turtui įsigyti ir investicijų projektams, kuriems numatyta skirti lėšų atitinkamų metų valstybės investicijų programoje arba savivaldybių biudžetuose, papildomai finansuoti;
+1) biudžetiniais metais, ne vėliau kaip likus 10 dienų iki atitinkamo ketvirčio pabaigos, keisti patvirtintų jo vadovaujamos įstaigos, jam pavaldžių biudžetinių įstaigų ir kitų subjektų vykdomoms programoms patvirtintų biudžetų lėšų pagal ekonominę klasifikaciją paskirtį (valstybės biudžeto asignavimų valdytojas Vyriausybės nustatyta tvarka praneša apie tai Finansų ministerijai, o savivaldybės biudžeto asignavimų valdytojas – savivaldybės administracijai jos nustatyta tvarka), neviršydamas patvirtintų tam tikrai programai bendrųjų asignavimų išlaidoms, iš jų – darbo užmokesčiui, sumų. Asignavimų sumos išlaidoms, iš jų – darbo užmokesčiui, yra maksimalios ir jų ekonomija, jeigu nėra įsiskolinimų, gali būti naudojama turtui įsigyti ir investicijų projektams, kuriems numatyta skirti lėšų atitinkamų metų valstybės investicijų programoje arba savivaldybių biudžetuose, papildomai finansuoti, išskyrus kituose įstatymuose, reglamentuojančiuose savivaldybių biudžetų lėšų naudojimą, nustatytus atvejus. Asignavimų sumos turtui įsigyti ekonomija, jeigu nėra įsiskolinimų, gali būti naudojama investicijų projektams, kuriems numatyta skirti lėšų atitinkamų metų valstybės investicijų programoje arba savivaldybių biudžetuose, papildomai finansuoti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
 2) biudžetiniais metais vieną kartą per ketvirtį keisti bendros asignavimų sumos ketvirtinį paskirstymą programai vykdyti, suderinęs su Finansų ministerija (valstybės biudžeto asignavimų valdytojas) arba su savivaldybės administracija (savivaldybės biudžeto asignavimų valdytojas);
 
 3) sudarydamas programų ir programų sąmatų projektus, teikti programų bei jų sąmatų alternatyvas (valstybės biudžeto asignavimų valdytojas – Finansų ministerijai, o savivaldybės biudžeto asignavimų valdytojas – atitinkamai savivaldybės administracijai);
 
-4) įsiskolinimams padengti skirti lėšas iš bendros patvirtintų asignavimų išlaidoms ekonomijos (išskyrus Europos Sąjungos finansinės paramos ir kitos gaunamos finansinės paramos bei bendrojo finansavimo lėšas), nekeisdamas patvirtintų sąmatų nepriklausomai nuo asignavimų paskirstymo pagal funkcijas ir programas;
+4) įsiskolinimams padengti skirti lėšas iš bendros patvirtintų asignavimų išlaidoms ekonomijos (išskyrus Europos Sąjungos finansinės paramos ir kitos gaunamos finansinės paramos bei bendrojo finansavimo lėšas, nepanaudotas savivaldybių biudžetų lėšas, kurių naudojimą nustato kiti įstatymai, reglamentuojantys nepanaudotų savivaldybių biudžetų lėšų naudojimą), nekeisdamas patvirtintų sąmatų nepriklausomai nuo asignavimų paskirstymo pagal funkcijas ir programas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
 5) nustatyti ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdytojo programas ir turinčių pavaldžių biudžetinių įstaigų, vadovams šio straipsnio 1–4 punktuose nustatytas teises ir apie tai pranešti Finansų ministerijai.
 
@@ -286,17 +302,21 @@ Biudžeto pajamų ir asignavimų ekonominę ir funkcinę klasifikaciją nustato 
 
 10 straipsnis. Savivaldybių skolinimasis
 
-1. Savivaldybės, laikydamosi Seimo patvirtintų skolinimosi limitų, Vyriausybės nustatyta tvarka gali:
+1. Savivaldybės, laikydamosi Seimo patvirtintų skolos, skolinimosi ir garantijų limitų, Vyriausybės nustatyta tvarka gali:
 
-1) imti iš vidaus kreditorių arba užsienio kreditorių ilgalaikes (kurių trukmė ilgesnė kaip vieni metai ir grąžinimo terminas ne tais pačiais biudžetiniais metais) paskolas arba teikti garantijas dėl paskolų, naudojamų tik investicijų projektams finansuoti;
+1) imti iš vidaus kreditorių arba užsienio kreditorių ilgalaikes (kurių trukmė ilgesnė kaip vieni metai ir grąžinimo terminas ne tais pačiais biudžetiniais metais) paskolas investicijų projektams finansuoti ir ankstesniems skoliniams įsipareigojimams vykdyti;
 
-2) imti iš vidaus kreditorių arba užsienio kreditorių trumpalaikes (kurių grąžinimo terminas tais pačiais biudžetiniais metais) paskolas biudžetiniais metais laikinam pajamų trūkumui padengti, kai nepakanka šiam tikslui savivaldybės biudžeto apyvartinių lėšų.
+2) imti iš vidaus kreditorių arba užsienio kreditorių trumpalaikes (kurių grąžinimo terminas tais pačiais biudžetiniais metais) paskolas biudžetiniais metais laikinam pajamų trūkumui padengti, kai nepakanka šiam tikslui savivaldybės biudžeto apyvartinių lėšų;
+
+3) prisiimti įsipareigojimus pagal finansinės nuomos (lizingo) sutartis;
+
+4) prisiimti įsipareigojimus pagal kitus įsipareigojamuosius skolos dokumentus;
+
+5) teikti garantijas dėl savivaldybės kontroliuojamų įmonių prisiimamų įsipareigojimų pagal paskolų sutartis, finansinės nuomos (lizingo) sutartis ir kitų įsipareigojamųjų dokumentų sutartis.
 
 2. Vyriausybės nustatyta tvarka iš valstybės biudžeto apyvartinių lėšų savivaldybėms gali būti teikiamos trumpalaikės paskolos, kai susidarius laikinam pajamų trūkumui išnaudojamos savivaldybės biudžeto apyvartinės lėšos.
 
 3. Vyriausybės nustatyta tvarka iš valstybės biudžeto apyvartinių lėšų savivaldybėms gali būti teikiamos trumpalaikės arba ilgalaikės paskolos, kai dėl kredito įstaigų veiklos apribojimo ir (arba) jų licencijų atšaukimo savivaldybės negali disponuoti savo lėšomis ir dėl to trūksta apyvartinių lėšų.
-
-4. Biudžetinės įstaigos savo vardu negali skolintis lėšų, prisiimti jokių skolinių įsipareigojimų.
 
 Straipsnio pakeitimai:
 
@@ -305,6 +325,10 @@ Nr. XI-1209, 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 Nr. XI-1825, 2011-12-20, Žin., 2011, Nr. 161-7619 (2011-12-29)
 
 Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
 11 straipsnis. Informacijos apie biudžetus viešumas
 
@@ -376,11 +400,11 @@ Nr. XII-796, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04028
 
 2. Nepanaudotos šio Įstatymo 2 straipsnio 16 dalies 1 punkte nurodytos įmokos į atitinkamą biudžetą, skirtos programoms finansuoti, perkeliamos į kitus biudžetinius metus ir paliekamos asignavimų valdytojams ir jiems pavaldžioms biudžetinėms įstaigoms bei gali būti naudojamos viršijant Seimo patvirtintas bendras asignavimų sumas.
 
-3. Į kitus biudžetinius metus asignavimų valdytojams ir jiems pavaldžioms biudžetinėms įstaigoms gali būti perkeliama ir naudojama programoms finansuoti viršijant Seimo patvirtintas bendras asignavimų sumas nepanaudota įmokėtų šio Įstatymo 2 straipsnio 16 dalies 2 punkte nurodytų valstybės biudžeto lėšų dalis:
+3. Į kitus biudžetinius metus asignavimų valdytojams ir jiems pavaldžioms biudžetinėms įstaigoms gali būti perkeliama ir naudojama programoms finansuoti viršijant Seimo patvirtintas bendras asignavimų sumas nepanaudota įmokėtų šio Įstatymo 2 straipsnio 16 dalies 2 punkte nurodytų valstybės biudžeto lėšų dalis.
 
-1) kuri yra ne didesnė negu 1/4 biudžetinės įstaigos įmokėtos metinės sumos;
+Straipsnio dalies pakeitimai:
 
-2) visa ši suma, jeigu visos asignavimų valdytojo ir (ar) jam pavaldžių biudžetinių įstaigų programos yra finansuojamos tik iš šio Įstatymo 2 straipsnio 16 dalies 2 punkte nurodytų valstybės biudžeto lėšų.
+Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
 4. Šio Įstatymo 2 straipsnio 16 dalies 1 ir 2 punktuose nurodytų pajamų viršplaninės įmokos į valstybės biudžetą arba savivaldybės biudžetą einamaisiais biudžetiniais metais paliekamos asignavimų valdytojams ir jiems pavaldžioms biudžetinėms įstaigoms ir gali būti naudojamos programoms finansuoti viršijant Seimo patvirtintas bendras asignavimų sumas.
 
@@ -412,7 +436,17 @@ Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
 
 4) žymių Lietuvos visuomenės veikėjų laidotuvių išlaidoms padengti;
 
-5) humanitarinei pagalbai teikti.
+5) Vyriausybės nustatyto dydžio savivaldybių apmokėtoms Lietuvos Nepriklausomybės Akto signataro antkapio pastatymo, kapavietės sutvarkymo, antkapio atributikos pagaminimo ir įmontavimo išlaidoms kompensuoti;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
+
+6) humanitarinei pagalbai teikti.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
 3. Vyriausybės rezervo lėšų skyrimo ir naudojimo tvarką nustato Vyriausybė.
 
@@ -470,9 +504,17 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 5) biudžetiniais metais pasirašomų valstybės garantijų limitas;
 
-6) savivaldybių biudžetams skiriamų dotacijų sumos, bendrosios dotacijos kompensacijų sumos;
+6) savivaldybių biudžetams skiriamų dotacijų sumos;
 
-7) savivaldybių skolinimosi limitai;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
+
+7) savivaldybių skolos, skolinimosi ir garantijų limitai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
 8) gyventojų pajamų mokesčio dalis (procentais), tenkanti visų savivaldybių biudžetams nuo įplaukų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, išskyrus fiksuoto dydžio gyventojų pajamų mokestį, mokamą už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą;
 
@@ -574,10 +616,6 @@ SAVIVALDYBIŲ BIUDŽETAI
 
 2. Kiekviena savivaldybė turi savarankišką biudžetą.
 
-3. Savivaldybių biudžeto balanso rodiklis valdomas taip, kaip nustatyta Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 4 dalyje. Savivaldybės biudžeto einamųjų metų pajamos koreguojamos pridedant nepanaudotą pajamų dalį – praėjusių metų biudžeto pajamų dalį, kuri viršija praėjusių metų panaudotus asignavimus (toliau – nepanaudota pajamų dalis). Einamųjų metų savivaldybės biudžete turi būti numatyti asignavimai visiems trumpalaikiams įsipareigojimams, išskyrus skolinius įsipareigojimus (toliau – trumpalaikiai įsipareigojimai), buvusiems praėjusių metų gruodžio 31 dieną, padengti, nebent trumpalaikiai įsipareigojimai viršija nepanaudotų pajamų dalį – tada numatomų padengti trumpalaikių įsipareigojimų suma turi būti ne mažesnė negu nepanaudota pajamų dalis.
-
-3 dalies redakcija nuo 2018-01-01:
-
 3. Savivaldybių biudžeto balanso rodiklis valdomas taip, kaip nustatyta Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 2 ir 4 dalyse. Savivaldybės biudžeto einamųjų metų pajamos koreguojamos pridedant nepanaudotą pajamų dalį – praėjusių metų biudžeto pajamų dalį, kuri viršija praėjusių metų panaudotus asignavimus (toliau – nepanaudota pajamų dalis). Einamųjų metų savivaldybės biudžete turi būti numatyti asignavimai visiems trumpalaikiams įsipareigojimams, išskyrus skolinius įsipareigojimus (toliau – trumpalaikiai įsipareigojimai), buvusiems praėjusių metų gruodžio 31 dieną, padengti, nebent trumpalaikiai įsipareigojimai viršija nepanaudotų pajamų dalį – tada numatomų padengti trumpalaikių įsipareigojimų suma turi būti ne mažesnė negu nepanaudota pajamų dalis.
 
 Straipsnio dalies pakeitimai:
@@ -588,9 +626,7 @@ Nr. XII-2313, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10424
 
 Nr. XII-2314, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10425
 
-4. Kiekvienos savivaldybės, kurios biudžeto išlaidos pagal pinigų srautus viršija 0,3 procento praėjusių metų BVP to meto kainomis, biudžetas vykdomas taip, kad biudžetinių metų išlaidos pagal įsipareigojimus neviršytų nominalių pajamų pagal įsipareigojimus, išskyrus išlaidas investicijų projektams finansuoti.
-
-TAR pastaba. 4 dalis netenka galios 2018-01-01.
+4. Neteko galios 2018-01-01.
 
 Papildyta straipsnio dalimi:
 
@@ -782,6 +818,16 @@ Straipsnio dalies naikinimas:
 
 Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
 
+6. Biudžeto asignavimų valdytojai ir jiems pavaldžios biudžetinės įstaigos, ministrų valdymo sričių įstaigoms, vykdančioms atitinkamo asignavimų valdytojo programas, pavaldžios biudžetinės įstaigos ir kiti subjektai į pridėtinės vertės mokesčio (toliau – PVM) atskaitą įtrauktas iš valstybės biudžeto ir (arba) savivaldybių biudžetų apmokėtas pirkimo (importo) PVM sumas privalo grąžinti:
+
+1) valstybės biudžeto lėšas pervesdami į valstybės iždo sąskaitą;
+
+2) savivaldybės biudžeto lėšas pervesdami į savivaldybės iždo sąskaitą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
+
 Straipsnio pakeitimai:
 
 Nr. X-1354, 2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
@@ -810,7 +856,11 @@ Nr. XII-616, 2013-11-26, Žin., 2013, Nr. 128-6515 (2013-12-14)
 
 6) nustatyti maksimalias lėšų sumas, kurioms einamaisiais biudžetiniais metais asignavimų valdytojai turi teisę prisiimti įsipareigojimus, sudarydami sutartis dėl projektų, remiamų iš Europos Sąjungos finansinės paramos ir bendrojo finansavimo lėšų, įgyvendinimo;
 
-7) prireikus nustatyti palūkanų normą už trumpalaikes paskolas, teikiamas savivaldybėms iš valstybės biudžeto;
+7) prireikus nustatyti palūkanų normą už trumpalaikes ir ilgalaikes paskolas, numatytas šio Įstatymo 10 straipsnio 2 ir 3 dalyse, teikiamas savivaldybėms iš valstybės biudžeto;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
 8) nustatyti asignavimų darbo užmokesčiui dydį įsipareigojimams, susijusiems su dalyvavimu nenumatytose tarptautinėse operacijose.
 
@@ -1317,4 +1367,12 @@ Nr. XII-1884, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10782
 Straipsnio pakeitimai:
 
 Nr. XI-2069, 2012-06-14, Žin., 2012, Nr. 76-3923 (2012-06-30)
+
+101 straipsnis. Biudžetinių įstaigų skolinimasis
+
+Biudžetinės įstaigos savo vardu negali prisiimti jokių skolinių įsipareigojimų pagal įsipareigojamuosius skolos dokumentus, įskaitant paskolos, finansinės nuomos (lizingo) sutartis, bet jomis neapsiribojant.
+
+Papildyta straipsniu:
+
+Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
