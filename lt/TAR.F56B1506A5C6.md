@@ -4,7 +4,7 @@ identifier: "TAR.F56B1506A5C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-18"
-last_updated: "2003-06-13"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F56B1506A5C6"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės apdovanojimų įstatymas
 
-Suvestinė redakcija nuo 2003-06-13 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2020-10-26
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 68-2762, i. k. 1021010ISTA00IX-957
 
@@ -790,11 +790,13 @@ ORDINO „UŽ NUOPELNUS LIETUVAI“ STATUTAS
 
 37 straipsnis. Ordino „Už nuopelnus Lietuvai“ medalis
 
-1. Ordino „Už nuopelnus Lietuvai“ medaliu apdovanojami asmenys už nuopelnus garsinant Lietuvos vardą kultūros, mokslo, švietimo, verslo, gamybos, sveikatos, socialinės apsaugos, karybos, sporto, ūkio bei kitose srityse, už humanitarinę pagalbą Lietuvai, taip pat motinos, pagimdžiusios ir užauginusios bei gerai išauklėjusios 7 ir daugiau vaikų.
+1. Ordino „Už nuopelnus Lietuvai“ medaliu apdovanojami asmenys už nuopelnus garsinant Lietuvos vardą kultūros, mokslo, švietimo, verslo, gamybos, sveikatos, socialinės apsaugos, karybos, sporto, ūkio bei kitose srityse, už humanitarinę pagalbą Lietuvai, taip pat motinos, pagimdžiusios ir užauginusios bei gerai išauklėjusios 5 ir daugiau vaikų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. IX-1587, 2003-05-27, Žin., 2003, Nr. 57-2535 (2003-06-13), i. k. 1031010ISTA0IX-1587
+
+Nr. XIII-55, 2016-11-29, paskelbta TAR 2016-12-06, i. k. 2016-28321
 
 2. Ordino „Už nuopelnus Lietuvai“ medalis – sidabrinis, 36 mm skersmens. Priekinėje medalio pusėje – ordino „Už nuopelnus Lietuvai“ ženklas, kitoje – vainikas, įrašas „Pro Lituania“ ir medalio įsteigimo data „2002“. Medalis tvirtinamas prie Ordino „Už nuopelnus Lietuvai“ 32 mm pločio kaspinėlio.
 
@@ -887,4 +889,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1587, 2003-05-27, Žin., 2003, Nr. 57-2535 (2003-06-13), i. k. 1031010ISTA0IX-1587
 
 Lietuvos Respublikos valstybės apdovanojimų įstatymo 37 straipsnio papildymo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-55, 2016-11-29, paskelbta TAR 2016-12-06, i. k. 2016-28321
+
+Lietuvos Respublikos valstybės apdovanojimų įstatymo Nr. IX-957 37 straipsnio pakeitimo įstatymas
 
