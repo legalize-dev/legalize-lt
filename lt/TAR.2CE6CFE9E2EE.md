@@ -4,7 +4,7 @@ identifier: "TAR.2CE6CFE9E2EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-29"
-last_updated: "2017-10-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,17 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2017-10-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
+
+TAR pastaba. Šalpos išmokų gavėjams, kurie iki 2017 m. gruodžio 31 d. buvo įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą, šalpos išmokų mokėjimas nutraukiamas nuo 2018 m. vasario 1 d., jeigu jie iki 2018 m. sausio 31 d. nedeklaravo savo gyvenamosios vietos arba nebuvo įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
+
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 4, 7, 15, 16, 24 straipsnių pakeitimo ir 17, 18 straipsnių pripažinimo netekusiais galios įstatymas
 
 Nauja redakcija nuo 2005-07-01:
 
@@ -44,7 +52,7 @@ BENDROSIOS NUOSTATOS
 
 2. Šis įstatymas nustato šalpos pensijų rūšis, šių pensijų finansavimo šaltinį, teisę į šalpos pensijas turinčius asmenis, šių pensijų skyrimo ir mokėjimo sąlygas bei tvarką. Šio įstatymo nustatyta tvarka taip pat skiriamos ir mokamos šio įstatymo 12 straipsnyje nurodytos šalpos kompensacijos bei mokamos šalpos pensijos už invalidų slaugą namuose, paskirtos iki 2004 m. balandžio 1 d., ir socialinės pensijos, paskirtos iki 1995 m. sausio 1 d.
 
-3. Šis įstatymas taikomas asmenims, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje (neturintiems gyvenamosios vietos – apie savivaldybę, kurios teritorijoje gyvena) yra įrašyti į Lietuvos Respublikos gyventojų registrą:
+3. Šis įstatymas taikomas deklaravusiems gyvenamąją vietą arba įtrauktiems į gyvenamosios vietos nedeklaravusių asmenų apskaitą Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka:
 
 1) Lietuvos Respublikos piliečiams;
 
@@ -53,6 +61,10 @@ BENDROSIOS NUOSTATOS
 3) užsieniečiams, turintiems Lietuvos Respublikos ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje;
 
 4) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
 
 4. Šis įstatymas taip pat taikomas asmenims, kuriems taikomi Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentai.
 
@@ -432,7 +444,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
 
 Lietuvos Respublikos
 
@@ -573,6 +585,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-449, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10813
 
 Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 4 ir 7 straipsnių pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
+
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 4, 7, 15, 16, 24 straipsnių pakeitimo ir 17, 18 straipsnių pripažinimo netekusiais galios įstatymas
 
 25 straipsnis. Sukakusių 18 metų asmenų įgytų teisių išsaugojimas
 
