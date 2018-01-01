@@ -4,7 +4,7 @@ identifier: "TAR.94F5702CA0F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-09"
-last_updated: "2017-07-13"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2017-07-13 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-11-20
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
 
@@ -385,7 +385,11 @@ Teisingumo ministro leidimu antstoliui paskirtoje veiklos teritorijoje gali būt
 
 20 straipsnis. Antstolio (antstolių) kontoros adresas ir iškaba
 
-1. Apie kontoros adreso ar kitų rekvizitų pasikeitimą antstolis privalo pranešti Teisingumo ministerijai ir paskelbti šalies dienraštyje bei vietos laikraštyje, taip pat pranešti apylinkės teismui, kurio veiklos teritorijoje antstolis veikia.
+1. Apie kontoros adreso ar kitų rekvizitų pasikeitimą antstolis privalo pranešti Teisingumo ministerijai ir paskelbti šalies dienraštyje bei vietos laikraštyje, taip pat pranešti apylinkės teismui, kurio veiklos teritorijoje yra antstolio kontoros buveinė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2481, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17979
 
 2. Teisingumo ministras nustato visoms antstolio (antstolių) kontoroms bendrą iškabų formą.
 
@@ -511,7 +515,11 @@ Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010IST
 
 26 straipsnis. Antstolio veiklos teritorija
 
-1. Antstolio veiklos teritorija sutampa su vienos ar kelių apylinkių teismų veiklos teritorija. Antstolio veiklos teritoriją nustato teisingumo ministras. Vienoje veiklos teritorijoje gali dirbti keli antstoliai.
+1. Antstolio veiklos teritoriją nustato teisingumo ministras. Vienoje veiklos teritorijoje gali dirbti keli antstoliai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2481, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17979
 
 2. Antstolis negali atsisakyti priimti vykdyti vykdomuosius dokumentus ar atlikti kitas šio Įstatymo 21 straipsnyje nustatytas funkcijas, vykdytinas jo veiklos teritorijoje, išskyrus įstatymų nustatytus atvejus.
 
@@ -996,6 +1004,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-572, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12072
 
 Lietuvos Respublikos antstolių įstatymo Nr. IX-876 11 ir 12 straipsnių pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2481, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17979
+
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 20 ir 26 straipsnių pakeitimo įstatymas
 
 431 straipsnis. Elektroninės vykdomosios bylos, informacinių ir elektroninių ryšių technologijų naudojimas antstolių veikloje
 
