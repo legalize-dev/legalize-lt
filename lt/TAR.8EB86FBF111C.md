@@ -4,7 +4,7 @@ identifier: "TAR.8EB86FBF111C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-17"
-last_updated: "2015-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8EB86FBF111C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1927; Žin. 2000, Nr.86-0; Žin. 2002, Nr.103-0, i. k. 1001010ISTAIII-1856
 
@@ -65,11 +65,13 @@ Nr. XII-1287, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15002
 
 5. Pilietinis pasipriešinimas – Lietuvos Respublikos piliečių ir jų savaveiksmių darinių veikla priešinantis agresijai ir okupacijai.
 
-6. Valstybės gynybos civilinė ir karinė vadovybė – pagal Lietuvos Respublikos Konstituciją ir įstatymus išrinkti arba paskirti civiliai bei kariniai pareigūnai, turintys įgaliojimus vadovauti ginkluotųjų pajėgų karinėms operacijoms ir kitiems gynybos veiksmams: Respublikos Prezidentas, krašto apsaugos ministras, ginkluotųjų pajėgų (kariuomenės) vadas, Jungtinio štabo viršininkas, kariuomenės pajėgų rūšių vadai ir krašto apsaugos savanorių pajėgų vadas.
+6. Valstybės gynybos civilinė ir karinė vadovybė – pagal Lietuvos Respublikos Konstituciją ir įstatymus išrinkti arba paskirti civiliai bei kariniai pareigūnai, turintys įgaliojimus vadovauti ginkluotųjų pajėgų karinėms operacijoms ir kitiems gynybos veiksmams: Respublikos Prezidentas, krašto apsaugos ministras, ginkluotųjų pajėgų (kariuomenės) vadas, Gynybos štabo viršininkas, kariuomenės pajėgų rūšių vadai ir krašto apsaugos savanorių pajėgų vadas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-823, 2010-05-18, Žin., 2010, Nr. 63-3100 (2010-05-31), i. k. 1101010ISTA00XI-823
+
+Nr. XIII-541, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11938
 
 7. Tautos pasipriešinimo vadovybė – dėl agresijos ar okupacijos negalint veikti pagal Lietuvos Respublikos Konstituciją sudarytoms valstybės valdžios institucijoms ir valstybės gynybos civilinei ir karinei vadovybei bei jos paskirtiems pareigūnams, besipriešinančios Tautos atstovų sudaryta institucija (institucijos), įgaliota vadovauti Tautos pasipriešinimui, remiantis Lietuvos Respublikos Konstitucijos ir įstatymų nuostatomis, taip pat šios institucijos (institucijų) įgaliota ginkluotųjų pajėgų vadovybė.
 
@@ -220,4 +222,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1442, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20782
 
 Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo Nr. VIII-1856 5 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-541, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11938
+
+Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo Nr. VIII-1856 2 straipsnio pakeitimo įstatymas
 
