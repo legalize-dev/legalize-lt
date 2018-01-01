@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2017-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
 
@@ -299,7 +299,11 @@ Nr. XII-1286, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15003
 
 3) Generolo Jono Žemaičio Lietuvos karo akademija;
 
-4) žvalgybos institucija (Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos), karo prievolės ir mobilizacijos bei kitos krašto apsaugos ministrui pavaldžios institucijos;
+4) žvalgybos institucija (Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos), karo prievolės ir mobilizacijos, gynybai reikalingos ginkluotės ir kitų prekių, paslaugų ir darbų įsigijimo ir valdymo bei kitos krašto apsaugos ministrui pavaldžios institucijos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 5) krašto apsaugos reikmėms skirtos karinės teritorijos ir kiti infrastruktūros objektai;
 
@@ -321,9 +325,27 @@ Nr. XII-1286, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15003
 
 7) įgyvendinamos kitos narystės NATO ir dalyvavimo Europos Sąjungos bendrojoje gynybos politikoje priemonės, taip pat įstatymų nustatyta tvarka užtikrinamas narystės NATO ir dalyvavimo Europos Sąjungos bendrojoje gynybos politikoje priemonių įgyvendinimas.
 
-3. Krašto apsaugos sistemos institucijos teisės aktų nustatyta tvarka valdo ir (ar) naudoja karines teritorijas savo funkcijoms ir uždaviniams vykdyti. Krašto apsaugos sistemos institucijų bei kariuomenės vienetų vadai (viršininkai) ir kiti pareigūnai atsako už įstatymų ir kitų teisės aktų laikymąsi jų valdomose ar naudojamose karinėse teritorijose. Karinėse teritorijose civilinių institucijų pareigūnai savo funkcijas gali atlikti tik Vyriausybės nustatytais atvejais ir tik kartu dalyvaujant atitinkamoje karinėje teritorijoje kontrolės teises turintiems krašto apsaugos sistemos pareigūnams. Karinių teritorijų kontrolės režimą ir vidaus tvarką pagal savo kompetenciją nustato krašto apsaugos ministras, kariuomenės vadas arba tam deleguotus įgaliojimus turintys dalinių, kitų karinių vienetų, tarnybų ar kitų krašto apsaugos institucijų vadai (viršininkai).
+3. Gynybai reikalingos ginkluotės ir kitų prekių, paslaugų ir darbų įsigijimo ir valdymo institucijos pagrindiniai uždaviniai:
 
-4. Krašto apsaugos sistemoje yra karo kapelionai. Jų veiklos sąlygas ir tvarką pagal savo kompetenciją reglamentuoja krašto apsaugos ministras, derindamas tai su atitinkamų valstybės pripažintų tradicinių Lietuvoje bažnyčių, kurios skiria kapelionus, vadovybe.
+1) dalyvauti formuojant pasirengimo valstybės gynimui ir kariuomenės mobilizacijai politiką, karybos srities standartizacijos politiką;
+
+2) krašto apsaugos ministro nustatytomis sąlygomis ir tvarka vykdyti krašto apsaugos sistemos perkančiųjų organizacijų funkcijas aprūpinant perkančiąsias organizacijas prekėmis, paslaugomis ir darbais.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
+
+4. Krašto apsaugos sistemos institucijos valdo ir (ar) naudoja karines teritorijas savo funkcijoms ir uždaviniams vykdyti. Krašto apsaugos sistemos institucijų bei kariuomenės vienetų vadai (viršininkai) ir kiti pareigūnai atsako už įstatymų ir kitų teisės aktų laikymąsi jų valdomose ar naudojamose karinėse teritorijose. Karinėse teritorijose civilinių institucijų pareigūnai savo funkcijas gali atlikti tik Vyriausybės nustatytais atvejais ir tik kartu dalyvaujant atitinkamoje karinėje teritorijoje kontrolės teises turintiems krašto apsaugos sistemos pareigūnams. Karinių teritorijų kontrolės režimą ir vidaus tvarką pagal savo kompetenciją nustato krašto apsaugos ministras, kariuomenės vadas arba tam deleguotus įgaliojimus turintys dalinių, kitų karinių vienetų, tarnybų ar kitų krašto apsaugos institucijų vadai (viršininkai).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
+
+5. Krašto apsaugos sistemoje yra karo kapelionai. Jų veiklos sąlygas ir tvarką reglamentuoja krašto apsaugos ministras, derindamas tai su atitinkamų valstybės pripažintų tradicinių Lietuvoje bažnyčių, kurios skiria kapelionus, vadovybe.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 Straipsnio pakeitimai:
 
@@ -381,7 +403,11 @@ Nr. XI-188, 2009-03-10, Žin., 2009, Nr. 29-1142 (2009-03-17)
 
 1. Tiek, kiek Krašto apsaugos ministerijos valdymo ypatumų nenustato šis straipsnis, jos valdymą ir valdymo struktūrą reglamentuoja Vyriausybės įstatymas ir Viešojo administravimo įstatymas.
 
-2. Krašto apsaugos ministerijai vadovauja ministras. Vadovaudamasis Vyriausybės įstatymu, šiuo įstatymu ir kitais teisės aktais, ministras nustato viceministrų, ministerijos kanclerio ir pajėgumų ir ginkluotės generalinio direktoriaus kompetenciją bei funkcijas.
+2. Krašto apsaugos ministerijai vadovauja ministras. Ministras nustato viceministrų ir ministerijos kanclerio kompetenciją ir funkcijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 3. Krašto apsaugos ministerijos pagrindiniai uždaviniai:
 
@@ -397,7 +423,11 @@ Nr. XI-188, 2009-03-10, Žin., 2009, Nr. 29-1142 (2009-03-17)
 
 6) administruoti viešosios informacijos apie krašto apsaugos sistemą teikimą, kariuomenės bendradarbiavimą su civilinėmis institucijomis, Lietuvos šaulių sąjunga ir kitomis asociacijomis bei viešosiomis įstaigomis, tiesiogiai prisidedančiomis prie krašto apsaugos sistemos stiprinimo ir visuomenės parengimo gynybai;
 
-7) teisės aktų nustatyta tvarka administruoti karybos srities standartizaciją;
+7) formuoti karybos srities standartizacijos politiką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 8) vykdyti šio ir kitų įstatymų, Vyriausybės nutarimų krašto apsaugos ministrui nustatytas funkcijas.
 
@@ -419,7 +449,11 @@ Nr. XI-188, 2009-03-10, Žin., 2009, Nr. 29-1142 (2009-03-17)
 
 8) gauti užsienio paramą krašto apsaugos sistemai ir įvežti ją per valstybės sieną;
 
-9) įsigyti ir įvežti per valstybės sieną krašto apsaugos sistemai reikalingus ginklus, šaudmenis, sprogmenis, specialiąsias priemones, karinę techniką ir kitas su ginkluote susijusias prekes.
+9) įsigyti ir įvežti per valstybės sieną krašto apsaugos sistemai reikalingus ginklus, šaudmenis, sprogmenis, specialiąsias priemones, karinę techniką ir kitas su ginkluote susijusias prekes arba įgalioti šiuos veiksmus atlikti kitą krašto apsaugos sistemos instituciją.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 5. Administruodama krašto apsaugos sistemos personalą, Krašto apsaugos ministerija gali siųsti kandidatus mokytis užsienio karo ir kitose mokymo įstaigose. Kandidatų atrankos sąlygas ir tvarką nustato krašto apsaugos ministras. Krašto apsaugos ministerija taip pat turi teisę:
 
@@ -427,21 +461,23 @@ Nr. XI-188, 2009-03-10, Žin., 2009, Nr. 29-1142 (2009-03-17)
 
 2) Vyriausybės nustatytais atvejais, sąlygomis ir tvarka teikti paramą asmenims, aukštosiose mokyklose finansuojamose studijų vietose studijuojantiems pagal krašto apsaugos sistemai reikalingų specialybių studijų programas, pasirašiusi su šiais asmenimis susitarimus.
 
-6. Krašto apsaugos ministerijoje dirba pajėgumų ir ginkluotės generalinis direktorius, atsakingas už karinių pajėgumų ir ginkluotės strateginį planavimą, taip pat už šiuo įstatymu ir kitais teisės aktais nustatytų bei krašto apsaugos ministro ir Lietuvos kariuomenės vado jam pavestų funkcijų vykdymą. Pajėgumų ir ginkluotės generalinis direktorius padeda krašto apsaugos ministrui rengti ministrui pavestų valdymo sričių strateginį veiklos planą, kitus krašto apsaugos sistemos plėtros strateginius dokumentus ir valstybės karinę strategiją, o Lietuvos kariuomenės vadui – vykdyti strateginį kariuomenės planavimą.
+6. Neteko galios nuo 2018-01-01
 
-7. Pajėgumų ir ginkluotės generalinis direktorius yra pavaldus krašto apsaugos ministrui ir atskaitingas Lietuvos kariuomenės vadui. Pajėgumų ir ginkluotės generaliniu direktoriumi gali būti skiriamas ne žemesnio kaip pulkininko (jūrų kapitono) laipsnio karininkas.
+Straipsnio dalies naikinimas:
 
-8. Pajėgumų ir ginkluotės generalinis direktorius jam krašto apsaugos ministro nustatytose veiklos srityse:
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
-1) planuoja ilgalaikę karinių pajėgumų ir ginkluotės, karinės technikos ir įrangos plėtrą, organizuoja, koordinuoja ir kontroliuoja jų plėtros strateginių dokumentų rengimą, derinimą ir įgyvendinimą;
+7. Neteko galios nuo 2018-01-01
 
-2) koordinuoja ir kontroliuoja krašto apsaugos ministro jam pavestų Krašto apsaugos ministerijos administracijos padalinių veiklą;
+Straipsnio dalies naikinimas:
 
-3) organizuoja Krašto apsaugos ministerijos strateginius tikslus ir Vyriausybės programos nuostatas atitinkančių strateginių veiklos planų ir teisės aktų projektų rengimą ir derinimą;
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
-4) organizuoja ir kontroliuoja, kaip vykdomi Ministro Pirmininko ir Vyriausybės, krašto apsaugos ministro ir Lietuvos kariuomenės vado pavedimai;
+8. Neteko galios nuo 2018-01-01
 
-5) atlieka kitas krašto apsaugos ministro ar Lietuvos kariuomenės vado pavestas funkcijas.
+Straipsnio dalies naikinimas:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 Straipsnio pakeitimai:
 
@@ -511,7 +547,11 @@ Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
 
-11) teikia Valstybės gynimo tarybai svarstyti ir, gavęs jos pritarimą, Vyriausybės įgaliotas kiekvienais metais, atsižvelgdamas į šio įstatymo 10¹ straipsnį, teikia Seimui pavasario sesijoje tvirtinti kitų metų principinę kariuomenės struktūrą, karių ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinius skaičius, taip pat principinės kariuomenės struktūros 6 metų planavimo gaires, karių ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinius skaičius;
+11) teikia Valstybės gynimo tarybai svarstyti ir, gavęs jos pritarimą, Vyriausybės įgaliotas kiekvienais metais, atsižvelgdamas į šio įstatymo 101 straipsnį, teikia Seimui pavasario sesijoje tvirtinti kitų metų principinę kariuomenės struktūrą, karių, civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ir kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ribinius skaičius, taip pat principinės kariuomenės struktūros 6 metų planavimo gaires, karių, civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ir kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ribinius skaičius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-620, 2017-07-11, paskelbta TAR 2017-07-20, i. k. 2017-12471
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -547,7 +587,11 @@ Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
 
-17) skiria į pareigas ir iš jų atleidžia krašto apsaugos generalinį inspektorių ir Generolo Jono Žemaičio Lietuvos karo akademijos viršininką, kariuomenės vado teikimu skiria į pareigas ir iš jų atleidžia pajėgumų ir ginkluotės generalinį direktorių, Jungtinio štabo viršininką, kariuomenės pajėgų rūšių vadus, krašto apsaugos savanorių pajėgų vadą, teisės aktų nustatyta tvarka skiria į pareigas ir iš jų atleidžia karinius atstovus ir specialiuosius atašė bei jų pavaduotojus ir padėjėjus, taip pat tvirtina šiame punkte nurodytų pareigybių nuostatus (aprašus);
+17) skiria į pareigas ir iš jų atleidžia krašto apsaugos generalinį inspektorių ir Generolo Jono Žemaičio Lietuvos karo akademijos viršininką, kariuomenės vado teikimu skiria į pareigas ir iš jų atleidžia Gynybos štabo viršininką, kariuomenės pajėgų rūšių vadus, krašto apsaugos savanorių pajėgų vadą, teisės aktų nustatyta tvarka skiria į pareigas ir iš jų atleidžia karinius atstovus ir specialiuosius atašė bei jų pavaduotojus ir padėjėjus, taip pat tvirtina šiame punkte nurodytų pareigybių nuostatus (aprašus).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -643,7 +687,11 @@ Nr. XII-2429, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17526
 
 7. Detalią kariuomenės struktūrą nustato, kariuomenės junginius bei dalinius steigia, reorganizuoja ar likviduoja krašto apsaugos ministras, vadovaudamasis Seimo patvirtinta principine kariuomenės struktūra.
 
-8. Karinėms operacijoms vykdyti sudaromos operacinės pajėgos. Jas sudaro kariuomenės pajėgų rūšių ir kitokie kariniai vienetai, kariuomenės vado paskirti Jungtinio štabo viršininko operaciniam vadovavimui.
+8. Karinėms operacijoms vykdyti sudaromos operacinės pajėgos. Operacines pajėgas sudaro kariuomenės pajėgų rūšių ir kitokie kariniai vienetai, kariuomenės vado paskirti Gynybos štabo viršininko operaciniam vadovavimui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 9. Specialiosioms karinėms funkcijoms ir užduotims vykdyti gali būti sudaromi nuolatiniai junginiai ir kiti specializuoti kariuomenės vienetai.
 
@@ -905,11 +953,13 @@ Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
 9. Paskelbus karo padėtį, Respublikos Prezidento dekretu kariuomenės vadas skiriamas visų valstybės ginkluotųjų pajėgų vadu, pavaldžiu gynybos veiksmų civilinei vadovybei.
 
-10. Kai kariuomenės vado nėra arba jis laikinai negali vykdyti pareigų, jį pavaduoja Jungtinio štabo viršininkas arba krašto apsaugos ministro įsakymu kitas karininkas, turintis generolo (admirolo) laipsnį.
+10. Kai kariuomenės vado nėra arba jis laikinai negali eiti pareigų, jį pavaduoja Gynybos štabo viršininkas arba krašto apsaugos ministro įsakymu paskirtas kitas karininkas, turintis generolo (admirolo) laipsnį.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 Straipsnio pakeitimai:
 
@@ -933,7 +983,11 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 2. Strateginiu lygmeniu Respublikos Prezidentas, Valstybės gynimo taryba, krašto apsaugos ministras ir kariuomenės vadas priima strateginius sprendimus dėl valstybės karinės apsaugos, ginkluotos gynybos ir karinių operacijų bei duoda užduotis ginkluotosioms pajėgoms atlikti gynybos ir kitas karines operacijas.
 
-3. Operaciniu lygmeniu Jungtinio štabo viršininkas planuoja karines operacijas ir joms vadovauja. Tarptautinėms operacijoms vykdyti Lietuvos kariuomenės (ginkluotųjų pajėgų) vienetai įstatymų nustatyta tvarka gali būti perduodami kitų valstybių arba Jungtinių Tautų, NATO ar Europos Sąjungos institucijų operaciniam vadovavimui ir valdymui.
+3. Operaciniu lygmeniu Gynybos štabo viršininkas planuoja karines operacijas ir joms vadovauja. Tarptautinėms operacijoms vykdyti Lietuvos kariuomenės (ginkluotųjų pajėgų) vienetai gali būti perduodami kitų valstybių arba Jungtinių Tautų, NATO ar Europos Sąjungos institucijų operaciniam vadovavimui ir valdymui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 4. Taktiniu lygmeniu veikia kariniai vienetai, planuojamos ir vykdomos kovinės užduotys, karinių vienetų vadai atlieka taktinį vadovavimą.
 
@@ -943,17 +997,41 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 7. Krašto apsaugos ministras savo išvykoms į užsienį privalo iš anksto gauti Respublikos Prezidento sutikimą raštu. Kai Respublikos Prezidentas iš šalies išvyksta, krašto apsaugos ministras  turi būti Lietuvoje, išskyrus atvejus taikos metu, kai ministras vyksta į užsienio valstybę iš anksto suderinto oficialaus ar darbo vizito arba į tarptautinius renginius saugumo ir gynybos klausimais. Respublikos Prezidentui ir krašto apsaugos ministrui vienu metu esant užsienyje ir dėl to laikinai negalint vykdyti savo pareigų operacinio vadovavimo kariuomenei grandinėje, juos pavaduoja atitinkamai Seimo Pirmininkas ir krašto apsaugos ministrą laikinai pavaduoti paskirtas kitas Vyriausybės narys.
 
-8. Jungtinio štabo viršininkas yra atsakingas už operacinį vadovavimą jam pavestoms pajėgoms ir efektyvų karinių operacijų įvykdymą. Jis taip pat organizuoja valstybės ginkluotos gynybos planų rengimą ir teikia šiuos planus kariuomenės vadui.
+8. Vadovauti valstybės karinės apsaugos, ginkluotos gynybos ir kitoms karinėms operacijoms, vykdyti strateginio kariuomenės planavimo, strateginio vadovavimo kariuomenei ir kitas krašto apsaugos ministro pavestas funkcijas atlikti kariuomenės vadui padeda jam tiesiogiai pavaldus Gynybos štabas, kurio struktūrą ir nuostatus tvirtina krašto apsaugos ministras.
 
-9. Jungtinio štabo viršininkas nustato konkrečias visų jo operaciniam vadovavimui pavestų junginių ir dalinių kovines užduotis, leidžia įsakymus jo operaciniam vadovavimui pavestiems kariniams vienetams.
+Straipsnio dalies pakeitimai:
 
-10. Taikos metu Jungtinio štabo viršininkas pagal kariuomenės vado nustatytas direktyvas rengia kariuomenės pratybų ir karinių operacijų planus ir vadovauja pratyboms.
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
-11. Jungtinio štabo viršininką skiria krašto apsaugos ministras kariuomenės vado teikimu.
+9. Neteko galios nuo 2018-01-01
 
-12. Detalias Jungtinio štabo viršininko funkcijas, teises ir atsakomybę nustato kariuomenės vadas, suderinęs su krašto apsaugos ministru.
+Straipsnio dalies naikinimas:
 
-13. Jungtinio štabo viršininko funkcijas vykdyti padeda jam tiesiogiai pavaldus Jungtinis štabas, kurio struktūrą nustato krašto apsaugos ministras.
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
+
+10. Neteko galios nuo 2018-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
+
+11. Neteko galios nuo 2018-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
+
+12. Neteko galios nuo 2018-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
+
+13. Neteko galios nuo 2018-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 14. Krašto apsaugos generalinis inspektorius kontroliuoja kariuomenės vienetų bendrą ir kovinį pasirengimą, Valstybės sienos apsaugos tarnybos, Vadovybės apsaugos departamento, Viešojo saugumo tarnybos ir Lietuvos šaulių sąjungos pasirengimą bendriems su kariuomene gynybos veiksmams, taip pat atlieka kitas teisės aktų nustatytas funkcijas.
 
@@ -1997,11 +2075,13 @@ Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 7. Generolo majoro (kontradmirolo) laipsnis gali būti suteikiamas brigados generolui (flotilės admirolui), ištarnavusiam brigados generolu (flotilės admirolu) ne mažiau kaip 2 metus ir paskirtam į generolo majoro (kontradmirolo) laipsnį atitinkančias pareigas.
 
-8. Atsižvelgiant į Seimo patvirtintą generolų bei admirolų skaičių ir laikantis šio straipsnio 4 dalyje nustatytų sąlygų, brigados generolo (flotilės admirolo) laipsnis gali būti suteikiamas karininkui, ištarnavusiam pulkininku (jūrų kapitonu) ne mažiau kaip 4 metus ir atitinkančiam šio straipsnio 5 dalyje nustatytą reikalavimą, paskyrus jį pajėgumų ir ginkluotės generaliniu direktoriumi, Jungtinio štabo viršininku, kariuomenės pajėgų rūšies vadu arba į kitas generolo (admirolo) laipsnį atitinkančias pareigas.
+8. Atsižvelgiant į Seimo patvirtintą generolų bei admirolų skaičių ir laikantis šio straipsnio 4 dalyje nustatytų sąlygų, brigados generolo (flotilės admirolo) laipsnis gali būti suteikiamas karininkui, ištarnavusiam pulkininku (jūrų kapitonu) ne mažiau kaip 4 metus ir atitinkančiam šio straipsnio 5 dalyje nustatytą reikalavimą, paskyrus jį Gynybos štabo viršininku, kariuomenės pajėgų rūšies vadu arba į kitas generolo (admirolo) laipsnį atitinkančias pareigas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 9. Kariuomenės vadui, kai jis yra ištarnavęs generolu majoru (kontradmirolu) ne mažiau kaip 2 metus, gali būti suteikiamas generolo leitenanto (viceadmirolo) laipsnis.
 
@@ -3333,7 +3413,11 @@ Nr. XII-450, 2013-07-02, Žin., 2013, Nr. 79-3980 (2013-07-23)
 
 57 straipsnis. Karininkų ir generolų (admirolų) pareigų ėjimo terminai ir rotacija
 
-1. Pajėgumų ir ginkluotės generalinis direktorius, Jungtinio štabo viršininkas, kariuomenės pajėgų rūšių vadai ir savanorių pajėgų vadas eina pareigas ne ilgiau kaip 5 metus.
+1. Gynybos štabo viršininkas, kariuomenės pajėgų rūšių vadai ir savanorių pajėgų vadas pareigas eina ne ilgiau kaip 5 metus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 2. Kiti vadai, štabų vadovaujantys karininkai, taip pat departamentų, tarnybų ir skyrių vadovai kariai, kiti kariniai pareigūnai eina pareigas paprastai ne ilgiau kaip 3 metus nuo paskyrimo. Šiam terminui pasibaigus, rotacijos būdu jie perkeliami į kitas pareigas, išskyrus atvejus, kai krašto apsaugos ministras pripažįsta, jog dėl kario išskirtinės specialybės, tarnybos būtinumo ar sąlygų toks perkėlimas negalimas ar netikslingas.
 
