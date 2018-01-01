@@ -4,7 +4,7 @@ identifier: "TAR.9F4371AB03A3"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-18"
-last_updated: "2017-07-13"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos advokatūros įstatymas
 
-Suvestinė redakcija nuo 2017-07-13 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-05-24
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 50-1632, i. k. 1041010ISTA0IX-2066
 
@@ -116,7 +116,13 @@ Fizinis asmuo (toliau – pareiškėjas) pripažįstamas advokatu, jeigu jis:
 
 5) moka valstybinę kalbą;
 
-6) išlaikė advokatų kvalifikacinį egzaminą, o asmuo, kuris turi ne mažesnį kaip septynerių metų teisėjo darbo stažą, dešimties metų prokuroro darbo stažą, yra teisės krypties socialinių mokslų daktaras ar habilituotas daktaras arba kuris buvo išbrauktas iš praktikuojančių advokatų sąrašo Advokatūros įstatymo Nr. VIII-811 24 straipsnio 1, 5 ar 6 punkte nurodytais pagrindais, – jeigu išlaikė advokatų veiklos organizavimo egzaminą;
+6) išlaikė advokatų kvalifikacinį egzaminą, o asmuo, kuris turi nepertraukiamą ne mažesnį kaip penkerių metų advokato veiklos stažą ir dėl kurio pripažinimo advokatu sprendimas buvo panaikintas šio Įstatymo 13 straipsnio 1 dalies 2 ir 4 punktuose numatytais pagrindais, taip pat kuris turi nepertraukiamą ne mažesnį kaip penkerių metų teisėjo darbo stažą, nepertraukiamą ne mažesnį kaip septynerių metų prokuroro darbo stažą, yra teisės krypties socialinių mokslų daktaras, išskyrus asmenis, teistus už sunkų ar labai sunkų nusikaltimą arba kitą tyčinį nusikaltimą (šio Įstatymo 8 straipsnio 1 ir 2 punktai), – jeigu išlaikė advokatų veiklos organizavimo egzaminą;
+
+TAR pastaba. 6 punkto nuostatos netaikomos asmenims, iki įstatymo Nr. XIII-879 įsigaliojimo (2018-01-01) pateikusiems prašymus laikyti advokatų egzaminus, prašymus pripažinti juos advokatais, prašymus įrašyti juos į advokatų padėjėjų sąrašą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 7) neturi sveikatos sutrikimų, dėl kurių negalėtų atlikti advokato pareigų. Pareiškėjų ir advokatų sveikatos reikalavimus bei sveikatos tikrinimo tvarką nustato Lietuvos Respublikos sveikatos apsaugos ministerija ir Lietuvos Respublikos teisingumo ministerija.
 
@@ -134,9 +140,33 @@ Pareiškėjas nelaikomas esąs nepriekaištingos reputacijos ir negali būti pri
 
 2) yra teistas už kitą, negu nurodyta šio straipsnio 1 punkte, tyčinį nusikaltimą, –kol teistumas neišnykęs arba nepanaikintas ir ne mažiau kaip trejus metus nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos;
 
-3) yra atleistas iš darbo, pareigų ar netekęs teisės verstis tam tikra veikla dėl to, kad neatitinka įstatymuose keliamo nepriekaištingos reputacijos reikalavimo, arba yra atleistas iš teisėjo, prokuroro, advokato, advokato padėjėjo, notaro, kandidato į notarus (asesoriaus), notaro atstovo, antstolio, antstolio atstovo, antstolio padėjėjo pareigų už profesinės ar tarnybinės veiklos pažeidimus, arba yra atleistas iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą, arba yra pripažintas padaręs tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, arba yra atleistas iš darbo už šiurkštų darbo pareigų pažeidimą ir nuo atleidimo iš darbo, pareigų ar teisės verstis tam tikra veikla netekimo arba pripažinimo padarius tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, nepraėjo dveji metai;
+3) yra pripažintas kaltu dėl tyčinio nusikaltimo padarymo, bet nuo baudžiamosios atsakomybės atleistas, ir nuo nuosprendžio įsiteisėjimo dienos nepraėjo dveji metai;
 
-4) piktnaudžiauja alkoholiu, psichotropinėmis, narkotinėmis ar kitomis psichiką veikiančiomis medžiagomis.
+TAR pastaba. 3 punkto nuostatos taikomos tik tais atvejais, kai tuose punktuose nurodytos aplinkybės atsirado po įstatymo Nr. XIII-879  įsigaliojimo (2018-01-01).
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+4) yra atleistas iš darbo, pareigų ar netekęs teisės verstis tam tikra veikla dėl to, kad neatitinka įstatymuose keliamo nepriekaištingos reputacijos reikalavimo, arba yra atleistas iš teisėjo, prokuroro, advokato, advokato padėjėjo, notaro, kandidato į notarus (asesoriaus), notaro atstovo, antstolio, antstolio atstovo, antstolio padėjėjo pareigų už profesinės ar tarnybinės veiklos pažeidimus, arba yra atleistas iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą, arba yra pripažintas padaręs tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, arba yra atleistas iš darbo už šiurkštų darbo pareigų pažeidimą ir nuo atleidimo iš darbo, pareigų ar teisės verstis tam tikra veikla netekimo arba pripažinimo padarius tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, nepraėjo dveji metai;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+5) piktnaudžiauja alkoholiu, psichotropinėmis, narkotinėmis ar kitomis psichiką veikiančiomis medžiagomis;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+6) neatitinka asmeniui, kuris verčiasi advokato veikla, taikomų elgesio ir veiklos reikalavimų, nustatytų Lietuvos advokatų etikos kodekse.
+
+TAR pastaba. 6 punkto nuostatos taikomos tik tais atvejais, kai tuose punktuose nurodytos aplinkybės atsirado po įstatymo Nr. XIII-879  įsigaliojimo (2018-01-01).
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 Straipsnio pakeitimai:
 
@@ -190,6 +220,12 @@ Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 
 4. Neišlaikęs advokatų egzaminų asmuo gali juos perlaikyti ne anksčiau kaip po pusės metų. Perlaikomų advokatų egzaminų skaičius tam pačiam asmeniui neribojamas.
 
+5. Advokatų egzaminų rezultatai galioja dvejus metus nuo jų išlaikymo dienos. Advokatų egzaminų išlaikymo data laikoma šių egzaminų rezultatų patvirtinimo šio straipsnio 1 dalyje nurodyta tvarka diena. Jeigu per dvejus metus nuo advokatų egzaminų išlaikymo asmuo pripažįstamas advokatu, jo išlaikytų advokatų egzaminų rezultatai galioja visą sprendimo pripažinti asmenį advokatu galiojimą laiką.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
 Straipsnio pakeitimai:
 
 Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
@@ -222,7 +258,11 @@ Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
 3) jis yra pasirengęs verstis advokato veikla viena iš jos formų, nurodytų šio Įstatymo 21 straipsnyje;
 
-4) nuo sprendimo pripažinti asmenį advokatu priėmimo dienos iki prašymo įrašyti į Lietuvos praktikuojančių advokatų sąrašą pateikimo Lietuvos advokatūrai dienos nepraėjo penkeri metai. Ši nuostata netaikoma šio Įstatymo 23 straipsnio 1 dalies 1 ir 4 punktuose nustatytais pagrindais iš Lietuvos praktikuojančių advokatų sąrašo išbrauktiems asmenims, pakartotinai įrašomiems į šį sąrašą.
+4) netenka galios 2018-01-01.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 3. Lietuvos advokatūra ne vėliau kaip per dešimt darbo dienų nuo sprendimo įrašyti advokatą į Lietuvos praktikuojančių advokatų sąrašą priėmimo dienos advokatui išduoda advokato pažymėjimą. Jeigu Lietuvos advokatūra nesilaiko šioje dalyje nustatyto termino, advokatas turi teisę per trisdešimt dienų kreiptis į Vilniaus apygardos teismą su prašymu įpareigoti Lietuvos advokatūrą išduoti advokato pažymėjimą.
 
@@ -230,7 +270,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
-4. Užsienio valstybių advokatai verstis advokato veikla Lietuvoje gali tik pagal Lietuvos Respublikos tarptautines sutartis dėl teisinės pagalbos, išskyrus šio Įstatymo dvyliktajame ir tryliktajame skirsniuose numatytus atvejus.
+4. Užsienio valstybių advokatai verstis advokato veikla Lietuvoje gali tik pagal Lietuvos Respublikos tarptautines sutartis, išskyrus šio Įstatymo dvyliktajame ir tryliktajame skirsniuose nurodytus atvejus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 Straipsnio pakeitimai:
 
@@ -325,6 +369,18 @@ Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-571, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12071
+
+3. Advokatų garbės teismas, nustatęs, kad yra objektyvių duomenų apie advokato padarytą šio Įstatymo ir Lietuvos advokatų etikos kodekso ar advokato veiklos pažeidimą, už kurį gali būti skiriama šio Įstatymo 53 straipsnio 4 punkte nurodyta drausminė nuobauda, pateikia Lietuvos advokatūrai siūlymą laikinai išbraukti šį advokatą iš Lietuvos praktikuojančių advokatų sąrašo. Teikdamas šį siūlymą, Advokatų garbės teismas turi įvertinti advokato padaryto pažeidimo pobūdį, pažeidimo padarymo aplinkybes, pažeidimo padarinius ir kitas reikšmingas aplinkybes. Advokatas šioje dalyje nurodytu pagrindu Lietuvos advokatūros sprendimu gali būti laikinai išbrauktas iš Lietuvos praktikuojančių advokatų sąrašo, kol išnyks šio išbraukimo pagrindą sudariusios aplinkybės arba kol įsiteisės Advokatų garbės teismo sprendimas šio advokato drausmės byloje. Šis sprendimas per trisdešimt dienų nuo sprendimo įteikimo advokatui dienos gali būti skundžiamas Vilniaus apygardos teismui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+4. Lietuvos advokatūra ne vėliau kaip kitą darbo dieną po šio straipsnio 2 ir 3 dalyse nurodyto sprendimo laikinai išbraukti advokatą iš Lietuvos praktikuojančių advokatų sąrašo priėmimo savo interneto svetainėje paskelbia apie šį sprendimą, nurodydama šio advokato vardą, pavardę, darbo vietą ir jos adresą. Šioje dalyje nurodyta informacija skelbiama, kol išnyks advokato laikino išbraukimo pagrindą sudariusios aplinkybės arba kol įsiteisės Advokatų garbės teismo sprendimas advokato drausmės byloje. Skundo dėl Lietuvos advokatūros sprendimo laikinai išbraukti advokatą iš Lietuvos praktikuojančių advokatų sąrašo pateikimas nesustabdo šio straipsnio 2 ir 3 dalyse nurodyto sprendimo vykdymo, jeigu teismas nenustato kitaip.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 Straipsnio pakeitimai:
 
@@ -452,7 +508,11 @@ ADVOKATO PADĖJĖJAS
 
 1. Advokato padėjėjas yra fizinis asmuo, kuris šio Įstatymo nustatyta tvarka yra įrašytas į Lietuvos advokatų padėjėjų sąrašą ir rengiasi advokato veiklai.
 
-2. Advokato padėjėjas turi visas šiame Įstatyme numatytas advokato teises ir pareigas, išskyrus narystę Lietuvos advokatūroje bei proceso įstatymuose nustatytus apribojimus. Advokato padėjėjas turi teisę atstovauti kliento interesams teismuose tik tuo atveju, kai yra rašytinis advokato (praktikos vadovo) leidimas atstovauti konkrečioje byloje, o kitose institucijose – rašytiniu advokato (praktikos vadovo) sutikimu. Advokato padėjėjas gali atstovauti tik pirmosios instancijos teismuose ir ne anksčiau kaip po vienerių metų nuo advokato padėjėjo praktikos pradžios.
+2. Advokato padėjėjas turi visas šiame Įstatyme nustatytas advokato teises ir pareigas, išskyrus narystę Lietuvos advokatūroje bei proceso įstatymuose nustatytus apribojimus. Advokato padėjėjas turi teisę atstovauti kliento interesams teismuose tik tuo atveju, kai yra rašytinis advokato (praktikos vadovo) leidimas atstovauti konkrečioje byloje, o atstovauti kitose institucijose – rašytiniu advokato (praktikos vadovo) sutikimu. Advokato padėjėjas gali atstovauti tik pirmosios instancijos teismuose ir tik po to, kai Lietuvos advokatūra patvirtina jo vienų metų praktikos atlikimo ataskaitą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 35 straipsnis. Lietuvos advokatų padėjėjų sąrašas
 
@@ -464,9 +524,17 @@ ADVOKATO PADĖJĖJAS
 
 3) yra nepriekaištingos reputacijos pagal šio Įstatymo 8 straipsnį;
 
-4) yra susitaręs su advokatu, įrašytu į Lietuvos praktikuojančių advokatų sąrašą, atlikti advokato padėjėjo praktiką arba jeigu jo praktikos vadovu advokatas yra paskirtas šio Įstatymo 37 straipsnio 1 dalies nustatyta tvarka;
+4) yra susitaręs su advokatu, įrašytu į Lietuvos praktikuojančių advokatų sąrašą, atlikti advokato padėjėjo praktiką;
 
-5) neturi sveikatos sutrikimų, dėl kurių negalėtų atlikti advokato padėjėjo pareigų. Advokatų padėjėjai tikrinasi sveikatą, kaip nustatyta šio Įstatymo 7 straipsnio 6 punkte.
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+5) neturi sveikatos sutrikimų, dėl kurių negalėtų atlikti advokato padėjėjo pareigų. Advokatų padėjėjai tikrinasi sveikatą, kaip nustatyta šio Įstatymo 7 straipsnio 7 punkte.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 2. Norintis būti įrašytas į Lietuvos advokatų padėjėjų sąrašą asmuo Lietuvos advokatūrai pateikia:
 
@@ -480,6 +548,12 @@ ADVOKATO PADĖJĖJAS
 
 4. Jeigu Lietuvos advokatūra priima sprendimą atsisakyti įrašyti asmenį į Lietuvos advokatų padėjėjų sąrašą, atsisakymo motyvai turi būti išdėstyti pačiame sprendime. Šis sprendimas per trisdešimt dienų nuo jo įteikimo dienos gali būti skundžiamas Vilniaus apygardos teismui.
 
+5. Lietuvos advokatų padėjėjų sąrašą Lietuvos advokatūros interneto svetainėje skelbia Lietuvos advokatūra. Šiame sąraše nurodomai informacijai mutatis mutandis taikomos šio Įstatymo 24 straipsnio nuostatos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
 Straipsnio pakeitimai:
 
 Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
@@ -490,35 +564,35 @@ Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 
 1) jis padavė rašytinį prašymą nutraukti advokato padėjėjo praktiką;
 
-2) jis per vienerius metus nuo praktikos pabaigos neatvyko laikyti advokatų kvalifikacinio egzamino;
+2) priimtas Advokatų garbės teismo sprendimas, kad asmuo pažeidė šio Įstatymo arba Lietuvos advokatų etikos kodekso reikalavimus;
 
-3) priimtas Advokatų garbės teismo sprendimas, kad asmuo pažeidė šio Įstatymo arba Lietuvos advokatų etikos kodekso reikalavimus;
+3) jis pradėjo dirbti ar eiti kitas mokamas pareigas, išskyrus šio Įstatymo 43 straipsnio 1 dalyje nurodytus atvejus;
 
-4) jis pradėjo dirbti ar eiti kitas mokamas pareigas, išskyrus šio Įstatymo 43 straipsnio 1 dalyje nurodytus atvejus;
+4) paaiškėja, kad asmuo prieš įrašant jį į Lietuvos advokatų padėjėjų sąrašą pagal šio Įstatymo 35 straipsnio 1 ar 2 dalį pateikė neteisingus duomenis;
 
-5) paaiškėja, kad asmuo prieš įrašant jį į Lietuvos advokatų padėjėjų sąrašą pagal šio Įstatymo 35 straipsnio 1 ar 2 dalį pateikė neteisingus duomenis;
+5) jis, mirus jo praktikos vadovui, atšaukus advokatą iš jo praktikos vadovo pareigų ar išbraukus (laikinai išbraukus) jo praktikos vadovą iš Lietuvos praktikuojančių advokatų sąrašo, pagal šio Įstatymo 38 straipsnio 2 dalyje nurodytos tvarkos nuostatas nepateikia Lietuvos advokatūrai dokumentų, būtinų kitam praktikos vadovui paskirti;
 
 6) jis mirė;
 
 7) jeigu Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo nustatyta tvarka jam pritaikyta Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė – leidimo vykdyti veiklą panaikinimas.
 
-Papildyta straipsnio punktu:
-
-Nr. XIII-571, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12071
-
-2. Lietuvos advokatūros sprendimą išbraukti asmenį iš Lietuvos advokatų padėjėjų sąrašo, priimtą šio straipsnio 1 dalies 3, 4, 5 ir 7 punktuose nurodytais pagrindais, išbrauktasis asmuo turi teisę per trisdešimt dienų nuo sprendimo priėmimo apskųsti Vilniaus apygardos teismui.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-571, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12071
+2. Lietuvos advokatūros sprendimą išbraukti asmenį iš Lietuvos advokatų padėjėjų sąrašo, priimtą šio straipsnio 1 dalies 2, 3, 4, 5 ir 7 punktuose nurodytais pagrindais, išbrauktasis asmuo turi teisę per trisdešimt dienų nuo sprendimo priėmimo apskųsti Vilniaus apygardos teismui.
 
 Straipsnio pakeitimai:
 
 Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 
+Straipsnio pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
 37 straipsnis. Vadovavimas advokato padėjėjo praktikai
 
-1. Advokato padėjėjo praktika atliekama pas advokatą, kuris yra įrašytas į Lietuvos praktikuojančių advokatų sąrašą, turi ne mažesnį kaip penkerių metų praktikuojančio advokato veiklos stažą, neturi galiojančių drausminių nuobaudų ir raštu sutinka vadovauti advokato padėjėjo praktikai bei turi galimybę užtikrinti advokato padėjėjui darbo vietą. Advokato padėjėjo praktikos vadovo skyrimą ir atleidimą, privalomą paskyrimą vadovauti advokato padėjėjo praktikai nustato šio Įstatymo 38 straipsnio 2 dalyje nurodyta tvarka.
+1. Advokato padėjėjo praktika atliekama pas advokatą, kuris yra įrašytas į Lietuvos praktikuojančių advokatų sąrašą, turi ne mažesnį kaip penkerių metų praktikuojančio advokato veiklos stažą, neturi galiojančių drausminių nuobaudų ir raštu sutinka vadovauti advokato padėjėjo praktikai bei turi galimybę užtikrinti advokato padėjėjui darbo vietą. Advokato padėjėjo praktikos vadovas skiriamas ir atleidžiamas šio Įstatymo 38 straipsnio 2 dalyje nurodyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 2. Advokato darbo vietos sąlygos turi užtikrinti tinkamą advokato padėjėjo praktikos atlikimą.
 
@@ -526,7 +600,11 @@ Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 
 38 straipsnis. Advokato padėjėjo praktikos atlikimo tvarka
 
-1. Advokato padėjėjo praktikos laikas – dveji metai. Į šį terminą neįskaitomas laikas (išskyrus įprastą poilsio laiką), kurį advokato padėjėjas realiai neatliko praktikos arba kuriuo advokato padėjėjo praktika yra sustabdyta. Advokato padėjėjo praktikos laiką patvirtina praktikos vadovas praktikos įvertinime.
+1. Advokato padėjėjo praktikos laikas yra ne trumpesnis negu dveji metai. Į šį terminą neįskaitomas laikas (išskyrus įprastą poilsio laiką), kurį advokato padėjėjas realiai neatliko praktikos arba kuriuo advokato padėjėjo praktika yra sustabdyta. Advokato padėjėjo praktikos laiką patvirtina praktikos vadovas praktikos įvertinime.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 2. Advokato padėjėjo praktikos atlikimo tvarką, laiko skaičiavimą nustato Lietuvos advokatūra, suderinusi su Lietuvos Respublikos teisingumo ministerija. Neigiamą praktikos įvertinimą advokato padėjėjas turi teisę per trisdešimt dienų apskųsti Lietuvos advokatūrai, o šios sprendimą per trisdešimt dienų nuo jo įteikimo – Vilniaus apygardos teismui.
 
@@ -552,7 +630,19 @@ ADVOKATŲ VEIKLOS GARANTIJOS
 
 5) nuolat tobulinti profesinę kvalifikaciją. Advokatų profesinės kvalifikacijos tobulinimą organizuoja Lietuvos advokatūra šios nustatyta tvarka;
 
-6) Lietuvos Respublikos dokumentų ir archyvų įstatymo nustatyta tvarka saugoti advokato veiklos dokumentus.
+6) Lietuvos Respublikos dokumentų ir archyvų įstatymo nustatyta tvarka saugoti advokato veiklos dokumentus;
+
+7) pakeitęs savo vardą, pavardę, darbo vietą, darbo vietos adresą, telefono ryšio numerį, elektroninio pašto adresą, nedelsdamas, bet ne vėliau kaip per 5 darbo dienas nuo šių duomenų pakeitimo, pateikti Lietuvos advokatūrai atitinkamai atnaujintus duomenis;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+8) nedelsdamas pranešti Lietuvos advokatūrai apie bet kurios iš šio Įstatymo 7 straipsnyje nurodytų sąlygų išnykimą arba pasikeitimą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 2. Advokatas privalo kas penkeri metai Lietuvos Respublikos sveikatos apsaugos ministerijos ir Lietuvos Respublikos teisingumo ministerijos nustatyta tvarka pasitikrinti sveikatą.
 
@@ -594,7 +684,15 @@ Nr. XI-2235, 2012-10-02, Žin., 2012, Nr. 122-6094 (2012-10-20)
 
 Advokatas, vykdydamas advokato veiklą, turi teisę:
 
-1) gauti iš valstybės ir savivaldybių institucijų veiksmingoms teisinėms paslaugoms teikti reikalingą valstybės ir savivaldybių institucijų turimą ar kontroliuojamą informaciją, dokumentus, jų nuorašus arba motyvuotą atsisakymą juos pateikti. Advokato kreipimesi turi būti pateikti duomenys, įrodantys prašomų pateikti dokumentų ar jų nuorašų ryšį su teisinių paslaugų teikimu;
+1) gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų jų turimą ar tvarkomą teisinėms paslaugoms teikti reikalingą informaciją, duomenis (įskaitant asmens ir ypatingus asmens duomenis), dokumentus, jų nuorašus. Advokato kreipimesi turi būti pateikti duomenys, įrodantys prašomų pateikti dokumentų ar jų nuorašų ryšį su teisinių paslaugų teikimu. Advokatui, kuris nepagrindžia, kad prašoma informacija, duomenys, dokumentai ar jų nuorašai yra reikalingi teisinėms paslaugoms teikti, motyvuotai atsisakoma juos pateikti;
+
+1 punkto redakcija nuo 2018-05-25:
+
+1) gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų jų turimą ar tvarkomą ir teisinėms paslaugoms teikti reikalingą informaciją, duomenis (įskaitant specialių kategorijų asmens duomenis), dokumentus, jų nuorašus. Advokato kreipimesi turi būti pateikti duomenys, įrodantys prašomų pateikti dokumentų ar jų nuorašų ryšį su teisinių paslaugų teikimu. Advokatui, kuris nepagrindžia, kad prašoma informacija, duomenys, dokumentai ar jų nuorašai yra reikalingi teisinėms paslaugoms teikti, motyvuotai atsisakoma juos pateikti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 2) savarankiškai rinkti teisinėms paslaugoms teikti reikalingus duomenis, kuriuos advokatas gali gauti nesinaudodamas procesinėmis prievartos priemonėmis, t. y. gauti iš asmenų reikalingus dokumentus ar jų nuorašus, ar kitokią teisinėms paslaugoms teikti reikalingą informaciją. Advokato kreipimesi turi būti pateikti duomenys, įrodantys prašomų pateikti dokumentų ar jų nuorašų ryšį su teisinių paslaugų teikimu. Asmenys, pateikę advokatui reikalingus duomenis, turi teisę į būtinų tokios informacijos pateikimo sąnaudų kompensavimą, išskyrus įstatymų nustatytus atvejus;
 
@@ -602,7 +700,11 @@ Advokatas, vykdydamas advokato veiklą, turi teisę:
 
 4) daryti bylos, kurioje jis yra atstovas ar gynėjas, dokumentų kopijas, išskyrus bylas, kurios nagrinėtinos uždarame teismo posėdyje;
 
-5) tvirtinti bylai nagrinėti teisme reikalingų rašytinių įrodymų nuorašus. Nuorašų tvirtinimo ir registravimo tvarką nustato Lietuvos advokatūra, suderinusi su Lietuvos Respublikos teisingumo ministerija;
+5) tvirtinti su teisinių paslaugų teikimu susijusių dokumentų nuorašus. Nuorašų tvirtinimo ir registravimo tvarką nustato Lietuvos advokatūra, suderinusi su Lietuvos Respublikos teisingumo ministerija;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 6) naudotis kitomis įstatymų numatytomis teisėmis, susijusiomis su advokato veikla.
 
@@ -730,15 +832,23 @@ ADVOKATŲ SAVIVALDA
 
 56 straipsnis. Lietuvos advokatūra
 
-1. Advokatų savivaldą įgyvendina Lietuvos advokatūra.
+1. Advokatų savivaldą įgyvendina Lietuvos advokatūra. Lietuvos advokatūra yra viešasis juridinis asmuo. Lietuvos advokatūros buveinė yra Vilniuje.
 
-2. Lietuvos Respublikos advokatai vienijasi į juridinį asmenį, vadinamą Lietuvos advokatūra. Jos buveinė yra Vilniuje.
+2. Lietuvos advokatūros veiklą reglamentuoja šis Įstatymas, Lietuvos Respublikos asociacijų įstatymas, kiek tai nustatyta šiame Įstatyme, ir Lietuvos advokatūros įstatai.
 
-3. Kiekvienas advokatas yra Lietuvos advokatūros narys. Advokato, išbraukto iš Lietuvos praktikuojančių advokatų sąrašo, narystė gali būti sustabdyta Lietuvos advokatūros įstatų nustatyta tvarka.
+3. Lietuvos advokatūrai taikomos Lietuvos Respublikos asociacijų įstatymo nuostatos dėl asociacijos teisių, veiklos garantijų, metinių finansinių ataskaitų rinkinio pateikimo Juridinių asmenų registrui, pertvarkymo ir pabaigos.
 
-4. Lietuvos advokatūra yra viešasis juridinis asmuo. Lietuvos advokatūros veiklą reglamentuoja Lietuvos Respublikos asociacijų įstatymas, kiek šis Įstatymas nenustato kitaip, bei Lietuvos advokatūros įstatai.
+4. Kiekvienas advokatas yra Lietuvos advokatūros narys. Advokato, išbraukto iš Lietuvos praktikuojančių advokatų sąrašo, narystė gali būti sustabdyta Lietuvos advokatūros įstatuose nustatyta tvarka.
 
 5. Lietuvos advokatūros veikla finansuojama iš advokatų mokamų įmokų ir kitų šaltinių.
+
+6. Lietuvos advokatūra, atlikdama šio Įstatymo 57 straipsnyje nustatytas funkcijas, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant advokatų, advokatų padėjėjų, Europos Sąjungos valstybių narių teisininkų, asmenų, siekiančių būti pripažintais advokatais, siekiančių būti įrašytais į Lietuvos advokatų padėjėjų sąrašą ar Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą, asmens duomenis ir duomenis apie asmens sveikatą ar teistumą), dokumentus ar dokumentų nuorašus.
+
+7. Lietuvos advokatūra, atlikdama šiame Įstatyme nustatytas funkcijas, susijusias su drausmės bylos iškėlimu advokatui ar advokato padėjėjui, be šio straipsnio 6 dalyje nurodytų teisių, turi teisę gauti šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant pareiškėjų asmens duomenis ir duomenis apie asmens sveikatą ar teistumą), dokumentus ar dokumentų nuorašus ir iš fizinių ar juridinių asmenų.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 57 straipsnis. Lietuvos advokatūros funkcijos
 
@@ -756,7 +866,23 @@ ADVOKATŲ SAVIVALDA
 
 6) neteko galios 2009-01-01;
 
-7) kitos šiame Įstatyme nustatytos funkcijos.
+7) tvarkyti advokatų, advokatų padėjėjų ir Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, asmens duomenis ir duomenis apie asmens sveikatą ar teistumą teisės aktų nustatyta tvarka;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+8) teikti išvadas dėl teisės aktų projektų, susijusių su asmens teisės į teisingą teismą įgyvendinimu;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+9) kitos šiame Įstatyme nustatytos funkcijos.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 2. Lietuvos advokatūra gali atlikti ir kitas Lietuvos advokatūros įstatuose nustatytas funkcijas.
 
@@ -776,7 +902,11 @@ Nr. X-1494, 2008-04-15, Žin., 2008, Nr. 50-1843 (2008-04-30)
 
 4) revizijos komisija.
 
-2. Tas pats asmuo vienu metu gali būti tik vieno Lietuvos advokatūros organo, išskyrus visuotinį advokatų susirinkimą, narys. Šis apribojimas neužkerta kelio tam pačiam asmeniui vienu metu kandidatuoti į kelis Lietuvos advokatūros organus, tačiau iki rinkimų rezultatų tvirtinimo jis turi pasirinkti, kokio Lietuvos advokatūros organo nariu pageidauja būti.
+2. Tas pats asmuo vienu metu gali būti tik vieno Lietuvos advokatūros organo, išskyrus visuotinį advokatų susirinkimą, narys.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 3. Visi Lietuvos advokatūros organų sprendimai, kuriems šis Įstatymas nenustato specialios skundimo tvarkos, skundžiami teismui per vieną mėnesį nuo sprendimo priėmimo dienos.
 
@@ -822,7 +952,11 @@ Nr. XI-2316, 2012-11-06, Žin., 2012, Nr. 132-6644 (2012-11-15)
 
 60 straipsnis. Advokatų taryba
 
-1. Advokatų taryba yra Lietuvos advokatūros valdymo organas. Advokatų taryba renkama iš advokatų ketveriems metams. Advokatų tarybos nariais gali būti advokatai, turintys ne mažesnį kaip dešimties metų advokato veiklos stažą. Advokatų tarybai vadovauja advokatų tarybos pirmininkas. Advokatų tarybos pirmininką renka visuotinis advokatų susirinkimas Lietuvos advokatūros įstatuose nustatyta tvarka ketveriems metams.
+1. Advokatų taryba yra Lietuvos advokatūros valdymo organas. Advokatų taryba renkama iš advokatų ketveriems metams. Advokatų tarybos nariais gali būti advokatai, turintys ne mažesnį kaip dešimties metų advokato veiklos stažą. Advokatų tarybai vadovauja advokatų tarybos pirmininkas. Advokatų taryba turi teisę įgalioti advokatų tarybos pirmininką atlikti dalį teisės aktuose numatytų advokatų tarybos funkcijų, išskyrus šio straipsnio 2 dalies 1, 3, 5, 6, 7, 9, 10, 12, 13, 15, 17, 18, 19, 20, 21, 22 punktuose nustatytas funkcijas, o 8 punkte nustatytąją – tik tiek, kiek tai susiję su advokatų padėjėjų įrašymu į Lietuvos advokatų padėjėjų sąrašą. Advokatų tarybos pirmininką renka visuotinis advokatų susirinkimas Lietuvos advokatūros įstatuose nustatyta tvarka ketveriems metams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 2. Advokatų taryba, be Civiliniame kodekse valdymo organams priskirtų funkcijų:
 
@@ -918,13 +1052,39 @@ Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-2234, 2015-12-22, paskelbta TAR 2016-01-04, i. k. 2016-00047
 
-21) atlieka kitas Lietuvos advokatūros įstatuose numatytas funkcijas.
+21) įgalioja advokatų tarybos pirmininką pasirašyti pakeistus Lietuvos advokatūros steigimo dokumentus, jeigu visuotinis advokatų susirinkimas nenusprendžia kitaip;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+22) tvirtina asmens duomenų, advokato gautų vykdant kliento pavedimą, tvarkymo taisykles;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+23) atlieka kitas Lietuvos advokatūros įstatuose numatytas funkcijas.
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
 Nr. XII-2234, 2015-12-22, paskelbta TAR 2016-01-04, i. k. 2016-00047
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+3. Advokatų taryba, atlikdama šio straipsnio 2 dalyje nustatytas funkcijas, turi teisę gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant advokatų, advokatų padėjėjų, Europos Sąjungos valstybių narių teisininkų, asmenų, siekiančių būti pripažintais advokatais, siekiančių būti įrašytais į Lietuvos advokatų padėjėjų sąrašą ar Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą, asmens duomenis ir duomenis apie asmens sveikatą ar teistumą), dokumentus ar dokumentų nuorašus.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+
+4. Advokatų taryba, atlikdama šiame Įstatyme nustatytas funkcijas, susijusias su drausmės bylos iškėlimu advokatui ar advokato padėjėjui, be šio straipsnio 3 dalyje nurodytų teisių, turi teisę gauti šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant asmens duomenis ir duomenis apie asmens sveikatą ir teistumą), dokumentus ar dokumentų nuorašus ir iš fizinių ar juridinių asmenų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 Straipsnio pakeitimai:
 
@@ -938,7 +1098,11 @@ Nr. XII-931, 2014-06-10, paskelbta TAR 2014-06-13, i. k. 2014-07627
 
 61 straipsnis. Advokatų garbės teismas
 
-1. Advokatų garbės teismas Lietuvos advokatūros nustatyta tvarka nagrinėja advokatų drausmės bylas. Advokatų garbės teismas susideda iš penkių narių.
+1. Advokatų garbės teismas Lietuvos advokatūros nustatyta tvarka nagrinėja advokatų drausmės bylas ir advokatų tarybos teikimu aiškina Lietuvos advokatų etikos kodekso nuostatas. Advokatų garbės teismas susideda iš penkių narių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 2. Advokatų garbės teismo nariu gali būti advokatas, turintis ne mažesnį kaip dešimties metų advokato veiklos stažą. Advokatų garbės teismas sudaromas šia tvarka:
 
@@ -984,7 +1148,11 @@ EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISININKŲ TEISĖ LAIKINAI TEIKTI PASLAUGAS
 
 5) pritaikius drausminę nuobaudą – panaikinti sprendimą pripažinti asmenį advokatu;
 
-6) jeigu asmuo per penkerius metus nuo sprendimo pripažinti jį advokatu priėmimo dienos nepateikė prašymo įrašyti į Lietuvos praktikuojančių advokatų sąrašą;
+6) netenka galios 2018-01-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 7) jeigu Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo nustatyta tvarka Lietuvos advokatūra pritaiko Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatytą poveikio priemonę – leidimo vykdyti veiklą panaikinimą.
 
@@ -1062,9 +1230,13 @@ Straipsnio pakeitimai:
 
 Nr. XI-1688, 2011-11-17, Žin., 2011, Nr. 146-6834 (2011-12-01)
 
-24 straipsnis. Lietuvos praktikuojančių advokatų sąrašo ir jo pakeitimų skelbimas
+24 straipsnis. Lietuvos praktikuojančių advokatų sąrašo skelbimas
 
-Lietuvos praktikuojančių advokatų sąrašą bei jo pakeitimus Lietuvos advokatūros tinklalapyje internete skelbia Lietuvos advokatūra.
+Lietuvos praktikuojančių advokatų sąrašą Lietuvos advokatūros interneto svetainėje skelbia Lietuvos advokatūra. Lietuvos praktikuojančių advokatų sąraše nurodoma į šį sąrašą įrašyto advokato vardas, pavardė, darbo vieta, darbo vietos adresas, telefono ryšio numeris, elektroninio pašto adresas ir kita advokato nurodyta, su jo profesine veikla susijusi reikšminga informacija.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 27 straipsnis. Advokatų, veikiančių partnerystės pagrindais, neįsteigiant juridinio asmens, veiklos sąlygos
 
@@ -1142,7 +1314,11 @@ EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISININKŲ TEISĖ TEIKTI NUOLATINES TEISINE
 
 4. Šio straipsnio 3 dalyje nurodytas prašymas, surašytas pareiškėjo, pateikiamas lietuvių kalba. Europos Sąjungos valstybėse narėse išduoti dokumentai, pateikiami Lietuvos advokatūrai, neturi būti legalizuoti ir jiems netaikomi tolygūs formalumai. Lietuvos advokatūra, turėdama pagrįstų abejonių, gali reikalauti iš Europos Sąjungos valstybės narės kompetentingos institucijos patvirtinti toje valstybėje narėje išduotų dokumentų autentiškumą. Jeigu teisės aktai nenustato kitaip, dokumentai pateikiami išversti į lietuvių kalbą, o vertimas turi būti patvirtintas vertimą atlikusio asmens parašu.
 
-5. Teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje Europos Sąjungos valstybės narės teisininkas įgyja nuo įregistravimo į Lietuvos advokatūros tvarkomą Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą. Šį sąrašą bei jo pakeitimus skelbia Lietuvos advokatūra Lietuvos advokatūros tinklalapyje internete. Lietuvos advokatūra apie Europos Sąjungos valstybės narės teisininko įregistravimą į Lietuvos advokatūros tvarkomą Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą taip pat praneša šio teisininko valstybės kompetentingai institucijai.
+5. Teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje Europos Sąjungos valstybės narės teisininkas įgyja nuo įregistravimo į Lietuvos advokatūros tvarkomą Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą. Šį sąrašą skelbia Lietuvos advokatūra Lietuvos advokatūros interneto svetainėje. Šiame sąraše nurodomai informacijai mutatis mutandis taikomos šio Įstatymo 24 straipsnio nuostatos. Lietuvos advokatūra apie Europos Sąjungos valstybės narės teisininko įregistravimą į Lietuvos advokatūros tvarkomą Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą taip pat praneša šio teisininko valstybės kompetentingai institucijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 6. Europos Sąjungos valstybės narės teisininkas išregistruojamas iš Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines paslaugas Lietuvos Respublikoje, sąrašo, jeigu jis pažeidžia šiame Įstatyme nustatytus advokato profesinės veiklos ar etikos reikalavimus arba praranda Europos Sąjungos valstybės narės kompetentingos institucijos jam suteiktą teisininko profesinį vardą.
 
