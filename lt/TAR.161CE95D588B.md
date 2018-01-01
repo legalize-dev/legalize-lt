@@ -4,7 +4,7 @@ identifier: "TAR.161CE95D588B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-03-13"
-last_updated: "2017-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.161CE95D588B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS KĖDAINIŲ LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 33-1543, i. k. 1121010ISTA0XI-1923
 
@@ -39,7 +39,11 @@ Vilnius
 
 2 straipsnis. Zonos veiklos terminas
 
-Zona steigiama 49 metams.
+Zona steigiama 49 metams. Zonos veiklos terminas gali būti pratęstas įstatymu.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-913, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21505
 
 3 straipsnis. Zonos veiklos rūšys
 
@@ -49,11 +53,13 @@ Zonoje plėtojama prekybos, gamybos ir paslaugų teikimo veikla, išskyrus Lietu
 
 1. Zonos teritorija užima 130,55 ha.
 
-2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka.
+2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka. Zonos teritorijoje esantys žemės sklypai be aukciono išnuomojami zonos valdymo bendrovei 99 metams.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-942, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07830
+
+Nr. XIII-913, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21505
 
 5 straipsnis. Zonos teritorijos ribos
 
@@ -218,4 +224,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-523, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11232
 
 Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymo Nr. XI-1923 8 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-913, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21505
+
+Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymo Nr. XI-1923 2 ir 4 straipsnių pakeitimo įstatymas
 
