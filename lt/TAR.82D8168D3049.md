@@ -4,7 +4,7 @@ identifier: "TAR.82D8168D3049"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2017-10-26"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2017-10-26 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-10-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
 
@@ -154,7 +154,11 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 8) užtikrinti, kad operatoriai ir elektroninių ryšių paslaugų teikėjai vykdytų įpareigojimus, kurie gali būti nustatyti valstybės gynybos, nacionalinio saugumo ir viešosios tvarkos palaikymo interesais, taip pat ypatingų aplinkybių atvejais;
 
-9) užtikrinti, kad viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjai įgyvendintų tinkamas technines ir organizacines priemones savo teikiamų viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų saugumui ir vientisumui užtikrinti.
+9) užtikrinti, kad viešųjų ryšių tinklų teikėjai įgyvendintų tinkamas technines ir organizacines priemones savo teikiamų viešųjų ryšių tinklų vientisumui užtikrinti.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-921, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21593
 
 Straipsnio pakeitimai:
 
@@ -174,7 +178,11 @@ Nr. XIII-698, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16807
 
 3) rengia ir tvirtina Nacionalinę radijo dažnių paskirstymo lentelę, kartu su Lietuvos radijo ir televizijos komisija rengia ir tvirtina radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti planą;
 
-4) bendradarbiauja su užsienio valstybių elektroninių ryšių veiklos reguliavimo institucijomis, pagal kompetenciją dalyvauja tarptautinių organizacijų ir Europos Sąjungos institucijų, komitetų bei grupių, kurių veikla susijusi su elektroniniais ryšiais (telekomunikacijomis), radijo ryšio įrenginiais ir galiniais įrenginiais, elektromagnetiniu suderinamumu ir (arba) radijo spektro valdymu, viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų saugumu, veikloje, taip pat Europos elektroninių ryšių reguliuotojų institucijos veikloje, reikiamais atvejais skiria ekspertus, kurie dalyvautų atitinkamuose komitetuose ir grupėse, atlieka tarptautinį radijo dažnių (kanalų) ir orbitinių išteklių koordinavimą bei tarptautinę radijo ryšio stočių (radijo dažnių) ir orbitinių išteklių apsaugą. Lietuvos Respublikos vardu prisiimti įpareigojimus Ryšių reguliavimo tarnyba gali tik teisės aktų nustatyta tvarka gavusi įgaliojimus, išskyrus atvejus, kai Lietuvos Respublikos tarptautinė sutartis ar Europos Sąjungos teisė atitinkamas funkcijas, kurios patenka į Ryšių reguliavimo tarnybos kompetenciją, vykdyti paveda Lietuvos Respublikos telekomunikacijų (elektroninių ryšių) administracijai ar nacionalinei telekomunikacijų (elektroninių ryšių) reguliavimo institucijai. Šiuo atveju Ryšių reguliavimo tarnyba atitinkamas funkcijas atlieka ir su jomis susijusius įsipareigojimus prisiima taikydama atitinkamos tarptautinės sutarties ar Europos Sąjungos teisės nuostatas ir neturi papildomai gauti įgaliojimų ir atlikti kitų procedūrų pagal atitinkamas Tarptautinių sutarčių įstatymo normas;
+4) bendradarbiauja su užsienio valstybių elektroninių ryšių veiklos reguliavimo institucijomis, pagal kompetenciją dalyvauja tarptautinių organizacijų ir Europos Sąjungos institucijų, komitetų bei grupių, kurių veikla susijusi su elektroniniais ryšiais (telekomunikacijomis), radijo ryšio įrenginiais ir galiniais įrenginiais, elektromagnetiniu suderinamumu ir (arba) radijo spektro valdymu, veikloje, taip pat Europos elektroninių ryšių reguliuotojų institucijos veikloje, reikiamais atvejais skiria ekspertus, kurie dalyvautų atitinkamuose komitetuose ir grupėse, atlieka tarptautinį radijo dažnių (kanalų) ir orbitinių išteklių koordinavimą bei tarptautinę radijo ryšio stočių (radijo dažnių) ir orbitinių išteklių apsaugą. Lietuvos Respublikos vardu prisiimti įpareigojimus Ryšių reguliavimo tarnyba gali tik gavusi įgaliojimus, išskyrus atvejus, kai pagal Lietuvos Respublikos tarptautinę sutartį ar Europos Sąjungos teisę atitinkamos funkcijos, kurios patenka į Ryšių reguliavimo tarnybos kompetenciją, pavestos atlikti Lietuvos Respublikos telekomunikacijų (elektroninių ryšių) administracijai ar nacionalinei telekomunikacijų (elektroninių ryšių) reguliavimo institucijai. Šiuo atveju Ryšių reguliavimo tarnyba atitinkamas funkcijas atlieka ir su jomis susijusius įsipareigojimus prisiima taikydama atitinkamos tarptautinės sutarties ar Europos Sąjungos teisės nuostatas ir neturi papildomai gauti įgaliojimų ir atlikti kitų procedūrų pagal atitinkamas Tarptautinių sutarčių įstatymo normas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-921, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21593
 
 5) rengia ir teikia Vyriausybei ar jos įgaliotai institucijai pasiūlymus dėl elektroninių ryšių veiklos politikos;
 
@@ -184,7 +192,11 @@ Nr. XIII-698, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16807
 
 8) Vyriausybės nustatyta tvarka kaupia ir saugo informaciją apie tai, kokius techninių įvykių duomenis apie elektroninius ryšius fiksuoja ir saugo ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas;
 
-9) vykdo nacionalinio elektroninių ryšių tinklų ir informacijos saugumo incidentų tyrimo padalinio veiklą;
+9) neteko galios 2018-01-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-921, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21593
 
 10) yra atsakinga už tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių šio Įstatymo reguliavimo dalyką, nuostatų vykdymo priežiūrą, išskyrus atvejus, kai pagal šio Įstatymo 12 straipsnio 5 dalį tai yra Valstybinės duomenų apsaugos inspekcijos kompetencija;
 
@@ -1174,10 +1186,6 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 1. Gavęs abonento ar registruoto elektroninių ryšių paslaugų naudotojo išankstinį sutikimą, viešojo ryšių tinklo ir (ar) viešųjų elektroninių ryšių paslaugų teikėjas srauto duomenis gali naudoti elektroninių ryšių paslaugų rinkodaros ar pridėtinės vertės paslaugų teikimo tikslams arba perduoti trečiajai šaliai, kai ji yra faktinė pridėtinės vertės paslaugų šiam abonentui ar registruotam elektroninių ryšių paslaugų naudotojui teikėja. Tokį sutikimą pareiškusiam abonentui ar registruotam elektroninių ryšių paslaugų naudotojui turi būti užtikrintos lengvai įgyvendinamos ir nemokamos priemonės bet kada jį pakeisti, sustabdyti ar atšaukti.
 
-2. Viešųjų ryšių tinklų teikėjai ir viešųjų elektroninių ryšių paslaugų teikėjai kiekvieno pagalbos skambučio atveju neatlygintinai teikia vietos nustatymo duomenis (įskaitant ir srauto duomenis) be abonento ar faktinio elektroninių ryšių paslaugų naudotojo sutikimo Bendrajam pagalbos centrui. Vietos nustatymo duomenys kiekvieno pagalbos skambučio atveju neatlygintinai Bendrajam pagalbos centrui pateikiami iš karto, kai tik Bendrasis pagalbos centras atsako į tą pagalbos skambutį. Bendrasis pagalbos centras teikia pasiūlymus Ryšių reguliavimo tarnybai dėl informacijos apie skambinančio asmens vietą tikslumo ir patikimumo kriterijų. Ryšių reguliavimo tarnyba, atsižvelgdama į Bendrojo pagalbos centro pasiūlymus, nustato informacijos apie skambinančio asmens vietą tikslumo ir patikimumo kriterijus. Įrangos (ir susijusios programinės įrangos), nebūtinos teikėjo ūkinei veiklai užtikrinti, bet reikalingos vietos nustatymo duomenims (įskaitant ir srauto duomenis) teikti Bendrajam pagalbos centrui, įsigijimo išlaidos viešųjų ryšių tinklų teikėjams ir viešųjų elektroninių ryšių paslaugų teikėjams kompensuojamos valstybės biudžeto lėšomis Vyriausybės nustatyta tvarka tik pakeitus informacijos apie skambinančio asmens vietą tikslumo ir patikimumo kriterijus. Kitos šios dalies nuostatos įgyvendinamos šio Įstatymo 34 straipsnio 10 dalyje nurodyta tvarka ir sąlygomis.
-
-Redakcija nuo 2017-01-01:
-
 2. Viešųjų ryšių tinklų teikėjai ir viešųjų elektroninių ryšių paslaugų teikėjai kiekvieno pagalbos skambučio atveju neatlygintinai teikia vietos nustatymo duomenis (įskaitant ir srauto duomenis) be abonento ar faktinio elektroninių ryšių paslaugų naudotojo sutikimo Bendrajam pagalbos centrui. Vietos nustatymo duomenys kiekvieno pagalbos skambučio atveju neatlygintinai Bendrajam pagalbos centrui pateikiami iš karto, kai tik Bendrasis pagalbos centras atsako į tą pagalbos skambutį. Bendrasis pagalbos centras teikia pasiūlymus Ryšių reguliavimo tarnybai dėl informacijos apie skambinančio asmens vietą tikslumo ir patikimumo kriterijų. Ryšių reguliavimo tarnyba, atsižvelgdama į Bendrojo pagalbos centro pasiūlymus, nustato informacijos apie skambinančio asmens vietą tikslumo ir patikimumo kriterijus.
 
 3. Kompetentingos institucijos, laikydamosi teisės aktų nustatytų sąlygų ir tvarkos, turi teisę gauti informaciją apie elektroninių ryšių paslaugų abonentus ar registruotus elektroninių ryšių paslaugų naudotojus ir su jais susijusius srauto duomenis, kai to reikia ginčams tarp elektroninių ryšių paslaugų teikėjų ir paslaugų gavėjų spręsti.
@@ -1244,7 +1252,11 @@ INFORMACIJOS GAVIMAS IR ŠIO ĮSTATYMO LAIKYMOSI PRIEŽIŪRA
 
 8) galimybės bendrai naudoti elektroninių ryšių infrastruktūrą įvertinimu, elektroninių ryšių infrastruktūros pobūdžio, prieinamumo ir geografinės buvimo vietos išsamaus sąrašo sudarymu;
 
-9) viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų saugumo ir (arba) vientisumo įvertinimu;
+9) viešųjų ryšių tinklų vientisumo ir (arba) šiais tinklais teikiamų viešųjų elektroninių ryšių paslaugų nepertraukiamo teikimo įvertinimu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-921, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21593
 
 10) efektyvaus radijo dažnių (kanalų) naudojimu ir veiksmingo radijo dažnių (kanalų) valdymo užtikrinimu.
 
@@ -1768,6 +1780,14 @@ Nr. XIII-698, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16807
 
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 9 ir 45 straipsnių pakeitimo įstatymas
 
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-921, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21593
+
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 8, 9, 42-1 ir 71 straipsnių pakeitimo įstatymas
+
 3 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 1. Abonentas – asmuo, kuris yra viešųjų elektroninių ryšių paslaugų teikimo sutarties su šių paslaugų teikėju šalis.
@@ -1928,7 +1948,11 @@ Nr. XIII-698, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16807
 
 52. Sąsaja – tinklo galinis taškas ir (arba) belaidė sąsaja, apibrėžianti radijo ryšį tarp radijo ryšio įrenginių ir jų technines specifikacijas.
 
-53. Saugumo incidentas – įvykis, veiksmas ar neveikimas, kuris sukelia ar gali sukelti neteisėtą prisijungimą ar sudaryti sąlygas neteisėtai prisijungti prie informacinės sistemos ar elektroninių ryšių tinklo, sutrikdyti ar pakeisti, įskaitant valdymo perėmimą, informacinės sistemos ar elektroninių ryšių tinklo veikimą, sunaikinti, sugadinti, ištrinti ar pakeisti elektroninius duomenis, panaikinti ar apriboti galimybę naudotis elektroniniais duomenimis, taip pat sudaryti sąlygas pasisavinti ar kitaip panaudoti neviešus elektroninius duomenis tokios teisės neturintiems asmenims.
+53. Netenka galios 2018-01-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-921, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21593
 
 54. Siuntėjas – ūkio subjektas, išskyrus transliuotojus ir (arba) retransliuotojus, turinčius Lietuvos radijo ir televizijos komisijos išduotas licencijas, suteikiančias teisę steigti ir eksploatuoti savo elektroninių ryšių tinklus, elektroninių ryšių tinklu perduodantis radijo ir (arba) televizijos programų signalus visuomenei ir turintis teisę naudoti šiam perdavimui būtinus radijo dažnius (kanalus), skirtus radijo ir (arba) televizijos programoms transliuoti (retransliuoti).
 
@@ -1969,6 +1993,12 @@ Nr. XIII-698, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16807
 70. Veiksminga konkurencija – situacija atitinkamoje rinkoje, kai nėra didelę įtaką toje rinkoje turinčių ūkio subjektų.
 
 71. Vertikaliai integruotas ūkio subjektas – ūkio subjektas, kuris verčiasi dviejų ar daugiau rūšių veikla, priklausančia tai pačiai vertės kūrimo grandinei.
+
+711. Vientisumo pažeidimas – viešojo ryšių tinklo ar jo dalies pažeidimas, nesusijęs su įvykiais ar veika kibernetinėje erdvėje, sutrikdantis šiuo tinklu teikiamų viešųjų elektroninių ryšių paslaugų nepertraukiamą teikimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-921, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21593
 
 72. Viešasis fiksuotojo ryšio tinklas – viešasis ryšių tinklas, kurio galiniai taškai yra fiksuoti.
 
@@ -2148,23 +2178,25 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
-421 straipsnis. Viešųjų ryšių tinklų ir viešųjų elektroninių ryšių paslaugų saugumas ir vientisumas
+421 straipsnis. Viešųjų ryšių tinklų vientisumas
 
-1. Viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjai privalo įgyvendinti tinkamas technines ir organizacines priemones savo teikiamų tinklų ir (arba) paslaugų saugumui užtikrinti. Šios priemonės turi užtikrinti saugumo lygį, atitinkantį iškilusią grėsmę, ir užkirsti kelią saugumo incidentams arba sumažinti jų poveikį viešųjų ryšių tinklams ir viešųjų elektroninių ryšių paslaugų gavėjams.
+1. Viešųjų ryšių tinklų teikėjai privalo įgyvendinti tinkamas technines ir organizacines priemones savo teikiamų tinklų vientisumui užtikrinti, tokiu būdu užtikrindami šiais tinklais teikiamų viešųjų elektroninių ryšių paslaugų nepertraukiamą teikimą.
 
-2. Viešųjų ryšių tinklų teikėjai privalo įgyvendinti tinkamas technines ir organizacines priemones savo teikiamų tinklų vientisumui užtikrinti, tokiu būdu užtikrinant šiais tinklais teikiamų viešųjų elektroninių ryšių paslaugų nepertraukiamą teikimą.
+2. Ryšių reguliavimo tarnyba gali nustatyti techninius ir organizacinius reikalavimus viešųjų ryšių tinklų vientisumui užtikrinti.
 
-3. Ryšių reguliavimo tarnyba gali nustatyti techninius ir organizacinius reikalavimus viešųjų ryšių tinklų ir viešųjų elektroninių ryšių paslaugų saugumui ir vientisumui užtikrinti.
+3. Ryšių reguliavimo tarnyba, siekdama užtikrinti viešųjų ryšių tinklų vientisumą, turi teisę duoti privalomus nurodymus ir nustatyti nurodymų įvykdymo terminą viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams. Ryšių reguliavimo tarnybos nurodymai turi būti motyvuoti, pagrįsti ir proporcingi tikslui pasiekti.
 
-4. Ryšių reguliavimo tarnyba, siekdama užtikrinti viešųjų ryšių tinklų ir viešųjų elektroninių ryšių paslaugų saugumą ir vientisumą, užkirsti kelią saugumo incidentams plisti, mažinti viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų ir (arba) viešųjų elektroninių ryšių paslaugų gavėjų dėl saugumo incidentų patiriamos žalos atsiradimo riziką, turi teisę duoti privalomus nurodymus ir nustatyti nurodymų įvykdymo terminą viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams, įskaitant teisę reikalauti viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų lėšomis atlikti nepriklausomą saugumo auditą ir pateikti šio audito rezultatus. Ryšių reguliavimo tarnybos nurodymai turi būti motyvuoti, pagrįsti ir proporcingi tikslui pasiekti.
+4. Įvykus vientisumo pažeidimui, kuris turėjo didelę įtaką viešojo ryšių tinklo veikimui arba viešųjų elektroninių ryšių paslaugų teikimui, viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjas privalo nedelsdamas apie šį vientisumo pažeidimą informuoti Ryšių reguliavimo tarnybą jos nustatyta tvarka ir sąlygomis. Prireikus apie įvykusį vientisumo pažeidimą Ryšių reguliavimo tarnyba praneša kitų Europos Sąjungos valstybių narių nacionalinėms reguliavimo institucijoms, Europos tinklų ir informacijos apsaugos agentūrai ir visuomenei.
 
-5. Įvykus viešojo ryšių tinklo ar jo dalies, viešųjų elektroninių ryšių paslaugų saugumo ar vientisumo pažeidimams, kurie turėjo didelę įtaką tinklų veikimui arba paslaugų teikimui, viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjas privalo nedelsdamas informuoti Ryšių reguliavimo tarnybą jos nustatyta tvarka ir sąlygomis. Prireikus apie įvykusį viešojo ryšių tinklo ar jo dalies, viešųjų elektroninių ryšių paslaugų saugumo ar vientisumo pažeidimą Ryšių reguliavimo tarnyba praneša kitų Europos Sąjungos valstybių narių nacionalinėms reguliavimo institucijoms, Europos tinklų ir informacijos apsaugos agentūrai ir visuomenei.
-
-6. Ryšių reguliavimo tarnyba kaupia informaciją apie pagal šio straipsnio 5 dalį pateiktus viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų pranešimus ir įvykdytus veiksmus ir kiekvienais metais pateikia apibendrintą informaciją Europos Komisijai ir Europos tinklų ir informacijos apsaugos agentūrai.
+5. Ryšių reguliavimo tarnyba kaupia informaciją apie pagal šio straipsnio 4 dalį pateiktus viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų pranešimus ir įvykdytus veiksmus ir kiekvienais metais pateikia apibendrintą informaciją Europos Komisijai ir Europos tinklų ir informacijos apsaugos agentūrai.
 
 Įstatymas papildytas straipsniu:
 
 Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-921, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21593
 
 SEPTINTASIS SKIRSNIS
 
