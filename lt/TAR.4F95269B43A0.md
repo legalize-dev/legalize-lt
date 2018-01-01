@@ -4,7 +4,7 @@ identifier: "TAR.4F95269B43A0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-02"
-last_updated: "2016-05-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4F95269B43A0"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pajūrio juostos įstatymas
 
-Suvestinė redakcija nuo 2016-05-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3091, i. k. 1021010ISTA0IX-1016
 
@@ -151,13 +151,15 @@ Pajūrio juostos nustatymo tikslai yra:
 
 3) Lietuvos Respublikos teritorinių vandenų Baltijos jūros akvatorija iki 20 m gylio izobatos.
 
-2. Pajūrio juostos ribas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nustato ir keičia Lietuvos Respublikos Vyriausybė Aplinkos ministerijos teikimu. Pajūrio juostos ribų plano (schemos) projektą ir kitus pajūrio juostos riboms tvirtinti reikalingus dokumentus Aplinkos ministerijai pateikia Lietuvos Respublikos Vyriausybės įgaliota institucija, suderinusi juos su saugomų teritorijų direkcijomis, savivaldybėmis, kitomis suinteresuotomis institucijomis ir valstybinės žemės, patenkančios į pajūrio juostą, patikėtiniais.
+2. Pajūrio juostos ribos nustatomos Pajūrio juostos žemyninės dalies tvarkymo plane.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA00XI-825
 
 Nr. XII-417, 2013-06-27, Žin., 2013, Nr. 76-3834 (2013-07-16), i. k. 1131010ISTA0XII-417
+
+Nr. XII-2201, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21058
 
 3. Pajūrio juostos ribos turi būti pažymėtos visuose rengiamuose šios teritorijos planavimo dokumentuose ir kartografinėje medžiagoje.
 
