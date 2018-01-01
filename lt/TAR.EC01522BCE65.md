@@ -4,7 +4,7 @@ identifier: "TAR.EC01522BCE65"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-03"
-last_updated: "2017-06-30"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2017-06-30 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-11
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
 
@@ -49,13 +49,21 @@ BENDROSIOS NUOSTATOS
 
 4. Piktnaudžiavimas – tokie pareigūno veiksmai ar neveikimas, kai jam suteikti įgaliojimai naudojami ne pagal įstatymus bei kitus teisės aktus arba savanaudiškais tikslais ar dėl kitokių asmeninių paskatų (naudojimosi tarnybine padėtimi, keršto, pavydo, karjerizmo, neteisėtų paslaugų teikimo ir t. t.), taip pat tokie pareigūno veiksmai, kai viršijami suteikti įgaliojimai ar savavaliaujama.
 
-3 straipsnis. Seimo kontrolierių veiklos tikslas
+3 straipsnis. Seimo kontrolierių veiklos tikslai
 
-Seimo kontrolierių veiklos tikslas – ginti žmogaus teisę į gerą viešąjį administravimą, užtikrinantį žmogaus teises ir laisves, prižiūrėti, ar valdžios įstaigos vykdo pareigą tinkamai tarnauti žmonėms. Seimo kontrolieriai taip pat vykdo nacionalinę kankinimų prevenciją laisvės apribojimo vietose pagal Konvencijos prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ar baudimą fakultatyvų protokolą.
+Seimo kontrolierių veiklos tikslai:
+
+1) ginti žmogaus teisę į gerą viešąjį administravimą, užtikrinantį žmogaus teises ir laisves, prižiūrėti, ar valdžios įstaigos vykdo pareigą tinkamai tarnauti žmonėms;
+
+2) skatinti pagarbą žmogaus teisėms ir laisvėms, atliekant nacionalinės žmogaus teisių institucijos funkcijas;
+
+3) vykdyti nacionalinę kankinimų prevenciją laisvės apribojimo vietose pagal Konvencijos prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ar baudimą fakultatyvų protokolą.
 
 Straipsnio pakeitimai:
 
 Nr. XII-629, 2013-12-03, Žin., 2013, Nr. 130-6618 (2013-12-19), i. k. 1131010ISTA0XII-629
+
+Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
 
 4 straipsnis. Pagrindiniai Seimo kontrolierių veiklos principai
 
@@ -257,11 +265,13 @@ Skundas turi būti ištirtas ir pareiškėjui atsakyta per 3 mėnesius nuo skund
 
 5) dalyvauti Seimo, Vyriausybės, kitų valstybės bei savivaldybių institucijų ir įstaigų posėdžiuose, kai svarstomi klausimai, susiję su Seimo kontrolierių veikla ar Seimo kontrolieriaus tiriamu dalyku;
 
-6) pasitelkti Vyriausybės įstaigų, taip pat ministerijų, savivaldybių pareigūnus, savivaldybių institucijų ir įstaigų pareigūnus bei ekspertus;
+6) pasitelkti valstybės ir savivaldybių institucijas, įstaigas, valstybės ir savivaldybių įmones, viešąsias įstaigas, kurių dalyvė yra valstybė arba savivaldybė, prašyti jų pateikti išvadas pagal kompetenciją;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XI-741, 2010-04-13, Žin., 2010, Nr. 48-2291 (2010-04-27), i. k. 1101010ISTA00XI-741
+
+Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
 
 7) informuoti Seimą, Vyriausybę bei kitas valstybės institucijas ir įstaigas ar atitinkamos savivaldybės tarybą apie šiurkščius įstatymų pažeidimus arba įstatymų ar kitų teisės aktų trūkumus, prieštaravimus ar spragas;
 
@@ -537,6 +547,14 @@ Nr. XIII-458, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11072
 
 Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 20 straipsnio pakeitimo įstatymas
 
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
+
+Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 3, 19, 19-1 straipsnių pakeitimo ir Įstatymo papildymo 19-2 straipsniu įstatymas
+
 30 straipsnis. Seimo kontrolierių darbo apmokėjimas ir garantijos
 
 1. Seimo kontrolieriui mokamas paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) 5 dydžių atlyginimas. Seimo kontrolierių įstaigos vadovas ar laikinai jį pavaduojantis kontrolierius gauna 10 procentų didesnį atlyginimą negu Seimo kontrolieriaus atlyginimas. Kiti priedai ar premijos Seimo kontrolieriams nemokami. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytą darbo apmokėjimo sistemą, Seimo kontrolieriams taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.
@@ -663,7 +681,13 @@ Lietuvos Respublikos Seimo kontrolierių įstatymo 25 straipsnio pakeitimo įsta
 
 7) teikti atitinkamoms valdžios įstaigoms siūlymus (rekomendacijas), kaip pagerinti elgesį su asmenimis, kurių laisvė apribota, šių asmenų laikymo sąlygas, taip pat kaip užkirsti kelią kankinimui ir kitokiam žiauriam, nežmoniškam ar žeminančiam elgesiui ar baudimui;
 
-8) teikti išvadas dėl galiojančių teisės aktų ir teisės aktų projektų.
+8) teikti išvadas dėl galiojančių teisės aktų ir teisės aktų projektų;
+
+9) pavesti Seimo kontrolierių įstaigos valstybės tarnautojams ir kitiems darbuotojams įgyvendinti šios dalies 1–4 punktuose nurodytas teises.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
 
 5. Jokia valdžios įstaiga ar pareigūnas negali nurodyti taikyti, patys taikyti, leisti taikyti ar toleruoti kokių nors nuobaudų asmeniui ar organizacijai, kuri Seimo kontrolieriams pateikė kokios nors informacijos, susijusios su nacionalinės prevencijos institucijos funkcijų atlikimu.
 
@@ -674,4 +698,26 @@ Lietuvos Respublikos Seimo kontrolierių įstatymo 25 straipsnio pakeitimo įsta
 Papildyta straipsniu:
 
 Nr. XII-629, 2013-12-03, Žin., 2013, Nr. 130-6618 (2013-12-19), i. k. 1131010ISTA0XII-629
+
+192 straipsnis. Nacionalinė žmogaus teisių institucija
+
+1. Seimo kontrolierių įstaiga yra nacionalinė žmogaus teisių institucija.
+
+2. Skatindami pagarbą žmogaus teisėms ir laisvėms bei bendradarbiaudami su valstybės ir savivaldybių institucijomis, įstaigomis, pilietine visuomene, socialiniais partneriais, tarptautinėmis organizacijomis žmogaus teisių ir laisvių klausimais, Seimo kontrolieriai atlieka šias funkcijas:
+
+1) atlieka žmogaus teisių stebėseną Lietuvoje ir rengia žmogaus teisių padėties ataskaitas;
+
+2) vykdo informacijos apie žmogaus teises sklaidą ir visuomenės švietimą žmogaus teisių klausimais;
+
+3) pristato žmogaus teisių padėties Lietuvoje vertinimą tarptautinėse organizacijose ir teikia joms informaciją pagal Lietuvos Respublikos tarptautinėse sutartyse nustatytus įsipareigojimus;
+
+4) teikia siūlymus valstybės ir savivaldybių institucijoms ir įstaigoms žmogaus teisių klausimais;
+
+5) siekia nacionalinių teisės aktų suderinimo su Lietuvos Respublikos tarptautiniais įsipareigojimais žmogaus teisių srityje;
+
+6) inicijuoja tyrimus dėl esminių žmogaus teisių problemų.
+
+Papildyta straipsniu:
+
+Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
 
