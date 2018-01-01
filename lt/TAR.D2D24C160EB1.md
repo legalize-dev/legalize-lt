@@ -4,7 +4,7 @@ identifier: "TAR.D2D24C160EB1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-03-14"
-last_updated: "2015-06-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D2D24C160EB1"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2015-06-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-787, i. k. 0961010ISTA00I-1232
 
@@ -62,7 +62,11 @@ BENDROSIOS NUOSTATOS
 
 8) steigti juridinį asmenį arba būti neribotos atsakomybės juridinio asmens dalyviu;
 
-9) tiesiogiai ar per trečiuosius asmenis dalyvauti politinėje veikloje.
+9) tiesiogiai ar per trečiuosius asmenis dalyvauti politinėje veikloje, skleisti politinę reklamą.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-487, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11074
 
 3. Šio straipsnio 2 dalies 1 punkte nurodytas su fondo dalininku, valdymo ir kolegialių organų nariu ir fonde pagal darbo sutartį dirbančiu asmeniu susijęs asmuo yra:
 
@@ -270,7 +274,11 @@ Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
 
 12 straipsnis. Fondo metinis pranešimas ir metinių finansinių ataskaitų rinkinys
 
-1. Fondo įstatuose nurodytas valdymo organas pasibaigus finansiniams metams turi parengti ir pateikti visuotiniam dalininkų susirinkimui praėjusių finansinių metų fondo metinį pranešimą ir metinių finansinių ataskaitų rinkinį. Šie dokumentai yra vieši. Kiekvieno fizinio ar juridinio asmens reikalavimu fondas turi sudaryti jam sąlygas fondo buveinėje ar kitais būdais su šiais dokumentais susipažinti.
+1. Fondo įstatuose nurodytas valdymo organas pasibaigus finansiniams metams turi parengti ir pateikti visuotiniam dalininkų susirinkimui praėjusių finansinių metų fondo metinį pranešimą ir metinių finansinių ataskaitų rinkinį. Šie dokumentai yra vieši, skelbiami fondo interneto svetainėje (jeigu fondas ją turi), išskyrus fizinių asmenų asmens duomenis, kurie pagal įstatymus viešai neskelbtini. Kiekvieno fizinio ar juridinio asmens reikalavimu fondas turi sudaryti jam sąlygas fondo buveinėje ar kitais būdais su šiais dokumentais susipažinti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-487, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11074
 
 2. Fondo metiniame pranešime turi būti nurodyta:
 
@@ -282,7 +290,11 @@ Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
 
 4) informacija apie patirtas fondo administravimo išlaidas (informacija apie visų fondo valdymo organų narių, dalininkų, darbuotojų atlyginimą ir kitas su darbo teisiniais santykiais susijusias išmokas, taip pat bet kokias kitas iš fondo gautas pajamas);
 
-5) informacija apie gautą paramą ir jos panaudojimą, apie paties fondo suteiktą labdarą ir (ar) paramą;
+5) informacija apie gautą paramą (pateikiant informaciją apie paramos teikėjus juridinius asmenis, turi būti atskirai nurodytas kiekvienas paramą suteikęs juridinis asmuo, jo suteiktos paramos dalykas ir jo vertė) ir jos panaudojimą, apie paties fondo suteiktą labdarą ir (ar) paramą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-487, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11074
 
 6) informacija apie įsigytą ir perleistą fondo veiklai naudojamą ilgalaikį turtą per finansinius metus, planuojamą įsigyti ir perleisti fondo veiklai naudojamą ilgalaikį turtą per kitus finansinius metus.
 
@@ -306,13 +318,13 @@ Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
 
 5. Fondo metiniame pranešime gali būti pateikiama ir kita informacija, kurią nustato įstatymai ar visuotinis dalininkų susirinkimas.
 
-6. Kiekvienais metais fondo metinių finansinių ataskaitų rinkinys, o tais atvejais, kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada ar fondo, valdančio neliečiamąjį kapitalą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada ir metinis pranešimas turi būti pateikti Juridinių asmenų registro tvarkytojui. Fondas, valdantis neliečiamąjį kapitalą, pateikdamas metinį pranešimą, Juridinių asmenų registro tvarkytojui pateikia duomenis ir apie neliečiamojo kapitalo dydį ir sudėtį finansinių metų pabaigoje.
-
-TAR pastaba. 6 dalies nuostatos dėl metinių finansinių ataskaitų rinkinio teikimo Juridinių asmenų registro tvarkytojui taikomos teikiant 2015 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius.
+6. Kiekvienais metais fondo metinis pranešimas, taip pat fondo metinių finansinių ataskaitų rinkinys, o tais atvejais, kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada ar fondo, valdančio neliečiamąjį kapitalą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada turi būti pateikti Juridinių asmenų registro tvarkytojui. Fondas, valdantis neliečiamąjį kapitalą, pateikdamas metinį pranešimą, Juridinių asmenų registro tvarkytojui pateikia duomenis ir apie neliečiamojo kapitalo dydį ir sudėtį finansinių metų pabaigoje. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai skelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
+
+Nr. XIII-487, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11074
 
 KETVIRTASIS SKIRSNIS
 
@@ -665,4 +677,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
 
 Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 8, 9 ir 12 straipsnių pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-487, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11074
+
+Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 12 ir 18 straipsnių pakeitimo įstatymas
 
