@@ -4,7 +4,7 @@ identifier: "TAR.1F58348F79F7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-04"
-last_updated: "2015-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-14
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 75-3472, i. k. 1031010ISTA0IX-1691
 
@@ -37,7 +37,11 @@ BENDROSIOS NUOSTATOS
 
 4 straipsnis. Dalyvavimas pensijų kaupime
 
-1. Teisę tapti pensijų kaupimo dalyviu šio įstatymo ir Pensijų sistemos reformos įstatymo numatytame pensijų kaupime turi asmenys, kurie turi draudžiamųjų pajamų, nuo kurių privalomai skaičiuojamos valstybinio socialinio draudimo įmokos pagrindinei ir papildomai pensijos daliai gauti, taip pat asmenys, pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą (toliau – Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymas) turintys teisę pervesti lėšas iš Europos Sąjungos institucijų pensijų sistemos, išskyrus asmenis, kurie jau yra sukakę Valstybinių socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių (toliau – senatvės pensijos amžius).
+1. Teisę tapti pensijų kaupimo dalyviu šio įstatymo ir Pensijų sistemos reformos įstatymo numatytame pensijų kaupime turi asmenys, kurie turi draudžiamųjų pajamų, nuo kurių privalomai skaičiuojamos pensijų socialinio draudimo įmokos, taip pat asmenys, pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą (toliau – Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymas) turintys teisę pervesti lėšas iš Europos Sąjungos institucijų pensijų sistemos, išskyrus asmenis, kurie jau yra sukakę Socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių (toliau – senatvės pensijos amžius).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2505, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20642
 
 2. Dalyvavimas pensijų kaupime prasideda sudarius pensijų kaupimo sutartį ir ją įregistravus Valstybinio socialinio draudimo fondo (toliau – VSDF) valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – VSDF valdyba) įsteigtame ir tvarkomame pensijų kaupimo sutarčių registre (toliau – Sutarčių registras). Pensijų kaupimo bendrovė per vieną mėnesį nuo pensijų kaupimo sutarties sudarymo informuoja dalyvį apie pensijų kaupimo sutarties įregistravimą.
 
@@ -107,7 +111,11 @@ BENDROSIOS NUOSTATOS
 
 4. Pensijų įmokas iki jų pervedimo pensijų kaupimo bendrovių valdomiems pensijų fondams VSDF valdyba laiko patikėjimo teisės pagrindais banke atskirai nuo kitų lėšų. Pensijų įmokų lėšos gali būti naudojamos tik pervedimui į pensijų fondus kaip pensijų įmokos.
 
-5. Pensijų įmokos už savarankiškai dirbančius asmenis, privalomai draudžiamus valstybiniu socialiniu pensijų draudimu pagrindinei ir papildomai pensijos daliai gauti, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pervedamos šių asmenų pasirinktų pensijų kaupimo bendrovių valdomiems pensijų fondams pagal faktiškai šių asmenų sumokėtas valstybinio socialinio draudimo įmokas.
+5. Pensijų įmokos už savarankiškai dirbančius asmenis, privalomai draudžiamus pensijų socialiniu draudimu, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pervedamos šių asmenų pasirinktų pensijų kaupimo bendrovių valdomiems pensijų fondams pagal faktiškai šių asmenų sumokėtas pensijų socialinio draudimo įmokas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2505, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20642
 
 6. Teisės aktų nustatyta tvarka patikslinus mirusio dalyvio draudžiamąsias pajamas ir valstybinio socialinio draudimo įmokas už praėjusius laikotarpius, pensijų įmokos už praėjusius laikotarpius neperskaičiuojamos.
 
@@ -127,10 +135,6 @@ bendrosios Pensijų kaupimo bendrovių veiklos nuostatos
 
 1. Draudimo įmonė privalo:
 
-1) nuolat vykdyti mokumo atsargos reikalavimus;
-
-Redakcija nuo 2016-01-01:
-
 1) nuolat vykdyti mokumo kapitalo reikalavimus;
 
 2) sudaryti pakankamus pensijų kaupimo techninius atidėjinius, jeigu pagal pensijų fondo taisykles prisiima įsipareigojimus garantuoti dalyviams tam tikrą pajamingumą.
@@ -140,10 +144,6 @@ Redakcija nuo 2016-01-01:
 1) nuolat vykdyti priežiūros institucijos nustatytus kapitalo pakankamumo reikalavimus;
 
 2) sudaryti pakankamą garantijų rezervą dalyviams garantuotam pajamingumui tenkinti, jeigu pagal pensijų fondo taisykles valdymo įmonė prisiima įsipareigojimus dalyviams garantuoti tam tikrą pajamingumą.
-
-3. Draudimo įmonė mokumo atsargą skaičiuoja pagal priežiūros institucijos nustatytą mokumo atsargos skaičiavimo metodiką.
-
-Redakcija nuo 2016-01-01:
 
 3. Draudimo įmonė mokumo kapitalą skaičiuoja priežiūros institucijos nustatyta tvarka.
 
@@ -237,7 +237,11 @@ Nr. XII-721, 2013-12-19, Žin., 2013, Nr. 140-7082 (2013-12-30)
 
 4) turi būti pateikiamas taikomų apskaičiavimo metodų aprašymas;
 
-5) turi būti parodomas valstybinės socialinio draudimo senatvės pensijos sumažėjimas dalyvaujantiems pensijų kaupime, kaip tai numatyta Valstybinių socialinio draudimo pensijų įstatyme;
+5) turi būti parodomas socialinio draudimo senatvės pensijos sumažėjimas dalyvaujantiems pensijų kaupime, kaip tai numatyta Socialinio draudimo pensijų įstatyme;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XII-2505, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20642
 
 6) šalia skaičiavimo rezultatų turi būti įspėjimas, kad pensijų kaupimo bendrovė jų negarantuoja.
 
@@ -333,7 +337,11 @@ PENSIJŲ IŠMOKOS
 
 2. Asmuo, įgijęs teisę į pensijų išmoką, turi teisę nukelti išmokos mokėjimo pradžią. Šio termino nukėlimo laikotarpiu toks asmuo lieka pensijų kaupimo dalyviu. Jeigu dalyvis raštu nesikreipia į pensijų kaupimo bendrovę dėl pensijų išmokos sutarties sudarymo, laikoma, kad dalyvis pasinaudojo teise nukelti išmokos mokėjimo pradžią.
 
-3. Teisę gauti pensijų išmoką iš pensijų fondo šio įstatymo nustatyta tvarka įgyja ir dalyviai, kuriems yra paskirta išankstinė valstybinė socialinio draudimo senatvės pensija pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymą.
+3. Teisę gauti pensijų išmoką iš pensijų fondo šio įstatymo nustatyta tvarka įgyja ir dalyviai, kuriems yra paskirta išankstinė socialinio draudimo senatvės pensija pagal Socialinio draudimo pensijų įstatymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2505, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20642
 
 24 straipsnis. Pensijų išmokos
 
@@ -419,11 +427,23 @@ Nr. XII-1205, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14119
 
 1. Pensijų kaupimo bendrovė kiekvienam dalyviui, įgijusiam teisę gauti pensijų išmoką ir raštu pareiškusiam valią dėl jos išmokėjimo, apskaičiuoja jo bazinio pensijų anuiteto (anuiteto be paveldėjimo, mokamo lygiomis dalimis ir nutraukiamo mokėti po dalyvio mirties) dydį pagal dalyvio sukauptą pensijų turtą dalyvio rašytinio prašymo gavimo pensijų kaupimo bendrovėje dieną. Bazinio pensijų anuiteto skaičiavimo metodiką tvirtina priežiūros institucija.
 
-2. Pensijų anuitetas yra privalomas, kai dalyviui apskaičiuoto bazinio pensijų anuiteto dydis yra ne mažesnis kaip pusė valstybinės socialinio draudimo bazinės pensijos dydžio. Pensijų anuitetas privalo būti nupirktas už visą dalyvio vardu pensijų fonde sukauptą pensijų turtą, išskyrus šiame straipsnyje nurodytas išimtis.
+2. Pensijų anuitetas yra privalomas, kai dalyviui apskaičiuoto bazinio pensijų anuiteto dydis yra ne mažesnis kaip pusė socialinio draudimo bazinės pensijos dydžio. Pensijų anuitetas privalo būti nupirktas už visą dalyvio vardu pensijų fonde sukauptą pensijų turtą, išskyrus šiame straipsnyje nurodytas išimtis.
 
-3. Dalyvis, kuriam apskaičiuotas bazinio pensijų anuiteto dydis yra mažesnis negu pusė valstybinės socialinio draudimo bazinės pensijos dydžio, atleidžiamas nuo prievolės įsigyti pensijų anuitetą. Šis dalyvis turi teisę gauti iš pensijų kaupimo bendrovės periodinę ar vienkartinę pensijų išmoką.
+Straipsnio dalies pakeitimai:
 
-4. Dalyvis, kuriam apskaičiuotas bazinio pensijų anuiteto dydis viršija trigubą valstybinės socialinio draudimo bazinės pensijos dydį, turi teisę sukauptą pensijų turto dalį, viršijančią vienkartinę įmoką trigubos valstybinės socialinio draudimo bazinės pensijos dydžio baziniam pensijų anuitetui įsigyti, gauti iš pensijų kaupimo bendrovės periodinės ar vienkartinės pensijų išmokos būdu.
+Nr. XII-2505, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20642
+
+3. Dalyvis, kuriam apskaičiuotas bazinio pensijų anuiteto dydis yra mažesnis negu pusė socialinio draudimo bazinės pensijos dydžio, atleidžiamas nuo prievolės įsigyti pensijų anuitetą. Šis dalyvis turi teisę gauti iš pensijų kaupimo bendrovės periodinę ar vienkartinę pensijų išmoką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2505, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20642
+
+4. Dalyvis, kuriam apskaičiuotas bazinio pensijų anuiteto dydis viršija trigubą socialinio draudimo bazinės pensijos dydį, turi teisę sukauptą pensijų turto dalį, viršijančią vienkartinę įmoką trigubos socialinio draudimo bazinės pensijos dydžio baziniam pensijų anuitetui įsigyti, gauti iš pensijų kaupimo bendrovės periodinės ar vienkartinės pensijų išmokos būdu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2505, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20642
 
 5. Teisės į periodinę ar vienkartinę pensijų išmoką pagal šio straipsnio 3 dalį įgijimas neužkerta kelio dalyviui vietoj periodinės ar vienkartinės pensijų išmokos įsigyti pensijų anuitetą.
 
@@ -453,13 +473,21 @@ VALSTYBINĖ PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS
 
 6. Pensijų kaupimo bendrovė – pensijų fondų valdymo įmonė ar draudimo įmonė, turinti priežiūros institucijos išduotą licenciją Lietuvos Respublikos teritorijoje užsiimti šio įstatymo nustatyta pensijų kaupimo veikla. Pensijų kaupimo bendrovę gali įsteigti valstybė.
 
-7. Pensijų skaičiuoklė – kompiuterio programa, skirta suskaičiuoti dalyvio būsimosios valstybinės socialinio draudimo pensijos dalies ir anuiteto, numatyto šio įstatymo 24 straipsnyje, dydžius pagal dalyvio pasirenkamus ekonominius rodiklius.
+7. Pensijų skaičiuoklė – kompiuterio programa, skirta suskaičiuoti dalyvio būsimosios socialinio draudimo pensijos dalies ir anuiteto, numatyto šio įstatymo 24 straipsnyje, dydžius pagal dalyvio pasirenkamus ekonominius rodiklius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2505, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20642
 
 8. Priežiūros institucija – Lietuvos bankas, šio ir kitų įstatymų nustatyta tvarka atliekantis valdymo įmonių ir draudimo įmonių veiklos priežiūros funkcijas.
 
 9. Valstybė narė – Europos Sąjungos valstybė narė arba Europos ekonominės erdvės valstybė.
 
-10. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme (toliau – Valstybinio socialinio draudimo įstatymas), Papildomo savanoriško pensijų kaupimo įstatyme, Pensijų sistemos reformos įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatyme (toliau – Valstybinių socialinio draudimo pensijų įstatymas).
+10. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme (toliau – Valstybinio socialinio draudimo įstatymas), Papildomo savanoriško pensijų kaupimo įstatyme, Pensijų sistemos reformos įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos socialinio draudimo pensijų įstatyme (toliau – Socialinio draudimo pensijų įstatymas).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2505, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20642
 
 ANTRASIS SKIRSNIS
 
@@ -551,13 +579,17 @@ DALYVAVIMAS PENSIJŲ KAUPIME
 
 2. Asmenys turi teisę apskųsti priežiūros institucijai pensijų kaupimo bendrovių veiksmus.
 
-27 straipsnis. Valstybinių socialinio draudimo pensijų ir pensijų išmokų santykis
+27 straipsnis. Socialinio draudimo pensijų ir pensijų išmokų santykis
 
-1. Asmenims, dalyvavusiems pensijų kaupime, valstybinių socialinio draudimo senatvės pensijų dydis Valstybinių socialinio draudimo pensijų įstatymo nustatyta tvarka proporcingai mažinamas.
+1. Asmenims, dalyvavusiems pensijų kaupime, individualiosios socialinio draudimo senatvės pensijos dalies dydis Socialinio draudimo pensijų įstatymo nustatyta tvarka proporcingai mažinamas.
 
-2. Už laikotarpį, kai asmenys nedalyvavo pensijų kaupime, valstybinės socialinio draudimo senatvės pensijų dydis nemažinamas.
+2. Už laikotarpį, kai asmenys nedalyvavo pensijų kaupime, individualiosios socialinio draudimo senatvės pensijos dalies dydis nemažinamas.
 
-3. Dalyviams, kuriems paskirta ir mokama valstybinė socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. - invalidumo) pensija, sukakus senatvės pensijos amžių, skiriama valstybinė socialinio draudimo senatvės pensija vadovaujantis šio straipsnio 1 ir 2 dalių nuostatomis.
+3. Dalyviams, kuriems paskirta ir mokama socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensija, sukakus senatvės pensijos amžių, skiriama socialinio draudimo senatvės pensija vadovaujantis šio straipsnio 1 ir 2 dalių nuostatomis.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2505, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20642
 
 32 straipsnis. Atsakomybė įmokų mokėjimo vėlavimo atveju
 
