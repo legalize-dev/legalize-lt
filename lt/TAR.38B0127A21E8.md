@@ -4,7 +4,7 @@ identifier: "TAR.38B0127A21E8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-09-12"
-last_updated: "2017-12-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.38B0127A21E8"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos prekybinės laivybos įstatymas
 
-Suvestinė redakcija nuo 2017-12-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2019-05-06
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 101-2300, i. k. 0961010ISTA00I-1513
 
@@ -134,11 +134,21 @@ Nr. XII-1219, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14529
 
 30. Repatriacija – laivo valdytojo ir valstybės, su kurios vėliava plaukioja laivas, vykdomų finansinių, teisinių ir kitų priemonių, užtikrinančių jūrininko sugrįžimą namo, visuma.
 
-31. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos transporto veiklos pagrindų įstatyme ir Lietuvos Respublikos saugios laivybos įstatyme.
+31. Žvejys – žvejybos laive dirbantis jūrininkas.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
+
+32. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos transporto veiklos pagrindų įstatyme ir Lietuvos Respublikos saugios laivybos įstatyme.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1219, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14529
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
 
 Straipsnio pakeitimai:
 
@@ -272,7 +282,11 @@ Nr. IX-595, 2001-11-13, Žin., 2001, Nr. 99-3527 (2001-11-28)
 
 1. Teisė plaukioti su Lietuvos valstybės vėliava suteikiama laivams, įregistruotiems Lietuvos Respublikos jūrų laivų registre.
 
-2. Laivas, įsigytas užsienyje, turi teisę plaukioti su Lietuvos valstybės vėliava nuo to laiko, kai Lietuvos Respublikos konsulinis pareigūnas išduoda laikinąjį leidimą, kuris patvirtina šią teisę. Laikinasis leidimas galioja iki laivo įregistravimo Lietuvos Respublikos jūrų laivų registre, bet ne ilgiau kaip tris mėnesius.
+2. Laivas, įsigytas užsienyje, turi teisę plaukioti su Lietuvos valstybės vėliava nuo to laiko, kai Lietuvos Respublikos konsulinis pareigūnas išduoda laikinąjį leidimą, kuris patvirtina šią teisę. Laikinasis leidimas galioja tris mėnesius, tačiau, jeigu laivas įregistruojamas Lietuvos Respublikos jūrų laivų registre nepasibaigus minimam trijų mėnesių terminui, laikinojo leidimo galiojimas baigiasi tą pačią dieną, kada laivas yra įregistruojamas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
 
 3. Laivas, įregistruotas Lietuvos Respublikos jūrų laivų registre ir plaukiojantis su Lietuvos valstybės vėliava, negali jos keisti kitos valstybės vėliava laivo reiso ar buvimo uoste metu, išskyrus laivo nuomos be įgulos sutarties (bareboat charter) atveju.
 
@@ -354,9 +368,7 @@ LAIVO ĮGULA
 
 11 straipsnis. Laivo įgulos sudėtis
 
-1. (Neteko galios nuo 2000 m. spalio 1 d.)
-
-2. Laivo įgulą (įskaitant laivo kapitoną ir laivo kapitono vyresnįjį padėjėją) turi sudaryti ne mažiau kaip du trečdaliai Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ar kitų Europos ekonominės erdvės valstybių ir Šveicarijos Konfederacijos (toliau – valstybė narė) piliečių ir kitų fizinių asmenų, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis. Laivo kapitono ir laivo kapitono vyresniojo padėjėjo pareigas gali eiti tik valstybės narės piliečiai. Laivo kapitonas ar bent vienas iš laivo kapitono padėjėjų turi mokėti lietuvių kalbą.
+Laivo įgulą (įskaitant laivo kapitoną) turi sudaryti ne mažiau kaip pusė Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ar kitų Europos ekonominės erdvės valstybių ir Šveicarijos Konfederacijos (toliau – valstybė narė) piliečių ir kitų fizinių asmenų, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis. Laivo kapitono pareigas gali eiti tik valstybės narės piliečiai. Laivo, vežančio keleivius ir (ar) krovinius į (iš) Lietuvos Respublikos uostus (uostų), kapitonas ar bent vienas iš tokio laivo kapitono padėjėjų turi mokėti lietuvių kalbą.
 
 Straipsnio pakeitimai:
 
@@ -371,6 +383,10 @@ Nr. IX-1680, 2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 Nr. X-1628, 2008-06-19, Žin., 2008, Nr. 75-2922 (2008-07-03)
 
 Nr. XI-1352, 2011-04-21, Žin., 2011, Nr. 52-2526 (2011-05-03)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
 
 12 straipsnis. Laivo kapitonas
 
@@ -1002,7 +1018,11 @@ DARBO SANTYKIAI LAIVE IR GARANTIJOS JŪRININKAMS
 
 84 straipsnis. Darbo sutarties su jūrininku sudarymas ir informavimas apie darbo sąlygas
 
-1. Darbo sutartis su jūrininku sudaroma Lietuvos Respublikos įstatymų nustatyta tvarka raštu pagal pavyzdinę formą, kurią tvirtina Lietuvos Respublikos Vyriausybė. Vienas darbo sutarties egzempliorius įteikiamas jūrininkui, kitas lieka laivo valdytojui. Darbo sutarties kopija įteikiama laivo kapitonui. Kiekvienam jūrininkui Susisiekimo ministerijos nustatyta tvarka išduodama jūrininko knygelė.
+1. Darbo sutartis su jūrininku, išskyrus laivo kapitoną, kuris yra laivo valdytojas, sudaroma Lietuvos Respublikos įstatymų nustatyta tvarka raštu pagal pavyzdinę formą, kurią tvirtina Lietuvos Respublikos Vyriausybė. Vienas darbo sutarties egzempliorius įteikiamas jūrininkui (išskyrus žvejį), kitas lieka laivo valdytojui. Darbo sutarties kopija įteikiama laivo kapitonui, tačiau, jeigu darbo sutartis yra sudaroma su žveju, darbo sutarties kopija įteikiama žvejui, o originalas lieka laivo kapitonui ir yra laikomas laive. Kiekvienam jūrininkui susisiekimo ministro nustatyta tvarka išduodama jūrininko knygelė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
 
 2. Laivo valdytojas gali suteikti teisę laivo kapitonui laivo valdytojo vardu pasirašyti darbo sutartis su jūrininkais.
 
@@ -1010,11 +1030,15 @@ DARBO SANTYKIAI LAIVE IR GARANTIJOS JŪRININKAMS
 
 4. Prieš sudarydamas darbo sutartį, laivo valdytojas privalo sudaryti sąlygas jūrininkui susipažinti su jos nuostatomis, supažindinti jūrininką su jo būsimo darbo sąlygomis, teisėmis ir pareigomis (sudarydamas sąlygas su šia informacija, įskaitant ir darbo sutartį, susipažinti ir kompetentingoms institucijoms), skundų dėl darbo jūrų laivyboje reikalavimų, nustatytų Lietuvos Respublikos tarptautinėse sutartyse ir Lietuvos Respublikos teisės aktuose, galimų pažeidimų priėmimo ir nagrinėjimo tvarka.
 
-5. Jeigu laivo valdytojas, sudarydamas darbo sutartis su jūrininkais, naudojasi užsienio valstybėse, kurios nėra ratifikavusios 2006 m. Konvencijos dėl darbo jūrų laivyboje, įsisteigusių įmonių, kurios vykdo jūrininkų įdarbinimo laivuose tarpininkavimo veiklą, paslaugomis, jis turi įsitikinti, kad tokios įmonės atitinka šios konvencijos tokioms įmonėms nustatytus reikalavimus.
+5. Jeigu laivo valdytojas, sudarydamas darbo sutartis su jūrininkais (išskyrus žvejus), naudojasi užsienio valstybėse, kurios nėra ratifikavusios 2006 m. Konvencijos dėl darbo jūrų laivyboje, įsisteigusių įmonių, kurios vykdo jūrininkų įdarbinimo laivuose tarpininkavimo veiklą, paslaugomis, jis turi įsitikinti, kad tokios įmonės atitinka šios konvencijos tokioms įmonėms nustatytus reikalavimus.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1219, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14529
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
 
 Straipsnio pakeitimai:
 
@@ -1062,7 +1086,11 @@ Nr. IX-1680, 2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 2. Jeigu nustatoma, kad jūrininkas serga liga, kuri kelia pavojų kitiems esantiems laive asmenims, laivo kapitonas, jei laive neįmanoma šiam pavojui užkirsti kelio, sergantį jūrininką išlaipina į krantą artimiausiame uoste, į kurį įplaukia laivas.
 
-3. Kai sergantis ar sužalotas jūrininkas paliekamas užsienyje, laivo kapitonas palieka jį Lietuvos Respublikos konsulato priežiūrai, o jeigu toje vietoje Lietuvos Respublikos konsulato nėra, – užtikrina jam tinkamą priežiūrą bei slaugymą ir praneša artimiausiam Lietuvos Respublikos konsulatui. Jūrininko prašymu laivo kapitonas perduoda jūrininko pateiktą informaciją jūrininko nurodytam asmeniui.
+3. Kai sergantis ar sužalotas jūrininkas paliekamas užsienyje, laivo kapitonas užtikrina tinkamą jo priežiūrą, slaugymą ir apie tai praneša artimiausiai Lietuvos Respublikos diplomatinei atstovybei ar konsulinei įstaigai. Jūrininko prašymu laivo kapitonas perduoda jūrininko pateiktą informaciją jūrininko nurodytam asmeniui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
 
 4. Jeigu jūrininko reiso metu jūrininkas susirgo, buvo sužalotas, mirė ar žuvo, laivo valdytojas apmoka visas išlaidas už jūrininko gydymą, priežiūrą, slaugą iki dienos, kurią jūrininkas yra laikomas tinkamai repatrijuotu, ir palaikų pargabenimą.
 
@@ -1070,7 +1098,11 @@ Nr. IX-1680, 2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 6. Jeigu laivo valdytojas nevykdo jūrininkų, kurie turi teisę į repatriaciją, repatriacijos, Užsienio reikalų ministerija vykdo tokių jūrininkų repatriaciją ir dėl to patirtas išlaidas išieško iš laivo valdytojo.
 
-7. Tinkamam jūrininkų repatrijavimui užtikrinti laivo, plaukiojančio su Lietuvos valstybės vėliava, valdytojas privalo turėti galiojančią prievolių įvykdymo užtikrinimo priemonę (draudimą, garantiją ar kitą priemonę), suteiktą draudimo ar savidraudos veiklą vykdančio subjekto, Tarptautinės laivų valdytojų civilinės atsakomybės draudimo klubų konfederacijos narių, banko ar kito subjekto, turinčio teisę vykdyti atitinkamą prievolių įvykdymo užtikrinimo veiklą.
+7. Laivo, plaukiojančio su Lietuvos valstybės vėliava, valdytojas privalo turėti galiojančią prievolių, susijusių su tinkamu jūrininkų repatrijavimu ir kitais laivo valdytojo įpareigojimais dėl reikalavimų, numatytų Lietuvos Respublikos tarptautinėse sutartyse, reglamentuojančiose jūrininkų darbą jūrų laivyboje, įvykdymo užtikrinimo priemonę, suteiktą draudimo ar savidraudos veiklą vykdančio subjekto, Tarptautinės laivų valdytojų civilinės atsakomybės draudimo klubų konfederacijos narių, banko ar kito subjekto, turinčio teisę vykdyti atitinkamą prievolių įvykdymo užtikrinimo veiklą, arba draudimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
 
 8. Terminas, kuriam suėjus jūrininkas įgyja teisę į repatriaciją, negali būti ilgesnis kaip 12 mėnesių nuo jūrininko reiso pradžios. Konkretūs jūrininkų reisų laikotarpiai, po kurių jūrininkai įgyja teisę į repatriaciją, nustatomi darbo ir kolektyvinėse sutartyse.
 
@@ -1568,7 +1600,11 @@ Nr. XI-2008, 2012-05-10, Žin., 2012, Nr. 57-2831 (2012-05-19)
 
 1. Laivo valdytojas turi užtikrinti, kad jūrininkas galėtų pervesti visą savo darbo užmokestį ar jo dalį savo šeimai, išlaikytiniams arba teisėtiems gavėjams banko pavedimu ar panašiomis priemonėmis arba jūrininko reikalavimu dalis ar visas darbo užmokestis būtų pervedamas sutartu laiku tiesiogiai jūrininko nurodytiems asmenims.
 
-2. Bet koks mokestis už šio straipsnio 1 dalyje nurodytą paslaugą turi būti pagrįsto dydžio, o valiutos keitimo kursas, jeigu kitaip nenustatyta šalių susitarimu, turi būti vyraujantis rinkos kursas arba oficialiai skelbiamas kursas. Valiutos keitimo kursas neturi būti nepalankus jūrininkams.
+2. Šio straipsnio 1 dalyje nurodyta paslauga turi būti teikiama neatlygintinai, o valiutos keitimo kursas, jeigu kitaip nenustatyta šalių susitarimu, turi būti vyraujantis rinkos kursas arba oficialiai skelbiamas kursas. Valiutos keitimo kursas neturi būti nepalankus jūrininkams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
 
 Įstatymas papildytas straipsniu:
 
@@ -1659,6 +1695,12 @@ Nr. XII-1959, 2015-10-15, paskelbta TAR 2015-10-23, i. k. 2015-16727
 5. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/20/EB dėl laivų savininkų atsakomybės pagal jūrinius reikalavimus draudimo (OL 2009 L 131, p. 128).
 
 6. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2010 L 334, p. 1).
+
+7. 2016 m. gruodžio 19 d. Tarybos direktyva (ES) 2017/159, kuria įgyvendinamas 2012 m. gegužės 21 d. Europos Sąjungos žemės ūkio kooperatyvų konfederacijos (COGECA), Europos transporto darbuotojų federacijos (ETF) ir Nacionalinių žvejybos įmonių organizacijų Europos Sąjungos asociacijos („Europêche“) sudarytas Susitarimas dėl 2007 m. Tarptautinės darbo organizacijos konvencijos dėl darbo žvejybos sektoriuje įgyvendinimo (OL 2017 L 25, p. 12).
+
+Papildyta punktu:
+
+Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
 
 Įstatymas papildytas priedu:
 
