@@ -4,7 +4,7 @@ identifier: "TAR.E2B2957B9182"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2017-11-24"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2B2957B9182"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-11-24 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
 
@@ -2647,6 +2647,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-737, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18509
 
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 80 straipsnio pakeitimo ir Įstatymo priedo pripažinimo netekusiu galios įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-395, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09775
+
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 38-1 straipsnio pakeitimo įstatymas
 
 ir trečioji dalys, 94, 95 straipsniai, 96 straipsnis, 98  straipsnio antroji ir
 
@@ -6422,9 +6430,21 @@ Nr. XI-1129, 2010-11-16, Žin., 2010, Nr. 139-7112 (2010-11-27)
 
 1) Vyriausybės nustatytas procentas akcizo pajamų, gautų už parduotus alkoholinius gėrimus;
 
-2) kitos teisėtai įgytos lėšos.
+2) Vyriausybės nustatytas procentas akcizo pajamų, gautų už parduotą apdorotą tabaką;
 
-5. Planuojant kiekvienų metų valstybės biudžeto asignavimus, Valstybiniam visuomenės sveikatos stiprinimo fondui numatomas Vyriausybės nustatytas procentas praėjusių metų faktinių įplaukų iš akcizo pajamų, gautų už parduotus alkoholinius gėrimus.
+3) Vyriausybės nustatytas procentas įplaukų nuo lėšų, gautų iš loterijų ir azartinių lošimų mokesčio;
+
+4) kitos teisėtai įgytos lėšos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-395, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09775
+
+5. Planuojant kiekvienų metų valstybės biudžeto asignavimus, Valstybiniam visuomenės sveikatos stiprinimo fondui numatomas Vyriausybės nustatytas procentas praėjusių metų faktinių įplaukų iš akcizo pajamų, gautų už parduotus alkoholinius gėrimus ir apdorotą tabaką, taip pat įplaukų nuo lėšų, gautų iš loterijų ir azartinių lošimų mokesčio.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-395, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09775
 
 6. Sprendimus dėl Valstybinio visuomenės sveikatos stiprinimo fondo lėšų skyrimo Valstybinio visuomenės sveikatos stiprinimo fondo nuostatuose nustatyta tvarka priima Valstybinio visuomenės sveikatos stiprinimo fondo taryba (toliau – Taryba), kurios sudėtį sveikatos apsaugos ministro teikimu 5 metams tvirtina Vyriausybė. Tarybos sudėties reikalavimai ir Tarybos kompetencija nustatomi Valstybinio visuomenės sveikatos stiprinimo fondo nuostatuose.
 
