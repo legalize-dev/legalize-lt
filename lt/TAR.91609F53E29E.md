@@ -4,7 +4,7 @@ identifier: "TAR.91609F53E29E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-01-19"
-last_updated: "2017-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "Įstatymo 36 straipsnis ir 39 straipsnio 2 ir 3 da
 ---
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
 
@@ -50,17 +50,41 @@ BENDROSIOS NUOSTATOS
 
 3) senatvės pensijos amžių sukakęs asmuo su sunkia negalia – sukakęs senatvės pensijos amžių asmuo, kuriam pagal šį įstatymą nustatytas visiško nesavarankiškumo lygis.
 
-2. Likęs be tėvų globos vaikas – vaikas iki 18 metų, kuriam įstatymų nustatyta tvarka yra nustatyta laikinoji ar nuolatinė globa (rūpyba).
+2. Budintis globotojas – fizinis asmuo, atitinkantis Lietuvos Respublikos civiliniame kodekse globėjui (rūpintojui) keliamus reikalavimus, išklausęs globėjų ir įtėvių mokymus ir budinčių globotojų konsultavimo kursus, pagal su globos centru sudarytą tarpusavio bendradarbiavimo ir paslaugų teikimo sutartį prižiūrintis likusius be tėvų globos vaikus, socialinės rizikos vaikus, su kuriais nėra susietas giminystės ryšiais, arba šioje sutartyje nustatytais atvejais teikiantis kitokią pagalbą vaiko tėvams, siekiant grąžinti vaiką į šeimą. Budintis globotojas vykdo veiklą pagal individualios veiklos pažymėjimą.
 
-3. Senyvo amžiaus asmuo – sukakęs senatvės pensijos amžių asmuo, kuris dėl amžiaus iš dalies ar visiškai yra netekęs gebėjimų savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
+Papildyta straipsnio dalimi:
 
-4. Sielovados darbuotojas – pagal darbo sutartį socialinių paslaugų įstaigoje dirbantis asmuo, turintis tradicinės religinės bendruomenės ar bendrijos leidimą arba siuntimą religinės bendruomenės ar bendrijos pavedimu teikti religinius patarnavimus ir sielovados pagalbą.
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
+
+3. Globos centras – socialinių paslaugų įstaiga, kuri, įgyvendindama vaiko globėjo (rūpintojo) teises ir pareigas, pagal tarpusavio bendradarbiavimo ir paslaugų teikimo sutartį perduoda likusį be tėvų globos vaiką, socialinės rizikos vaiką prižiūrėti budinčiam globotojui, teikia ir organizuoja socialines paslaugas bei kitą pagalbą pagal poreikį vaikui ir budinčiam globotojui, taip pat kitokią pagalbą vaiko tėvams, siekiant grąžinti vaiką į šeimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
+
+4. Likęs be tėvų globos vaikas – vaikas iki 18 metų, kuriam įstatymų nustatyta tvarka yra nustatyta laikinoji ar nuolatinė globa (rūpyba).
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
+
+5. Senyvo amžiaus asmuo – sukakęs senatvės pensijos amžių asmuo, kuris dėl amžiaus iš dalies ar visiškai yra netekęs gebėjimų savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
+
+6. Sielovados darbuotojas – pagal darbo sutartį socialinių paslaugų įstaigoje dirbantis asmuo, turintis tradicinės religinės bendruomenės ar bendrijos leidimą arba siuntimą religinės bendruomenės ar bendrijos pavedimu teikti religinius patarnavimus ir sielovados pagalbą.
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
-5. Socialinės globos įstaiga – šio įstatymo nustatyta tvarka turinti teisę teikti socialinę globą socialinių paslaugų įstaiga.
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
+
+7. Socialinės globos įstaiga – šio įstatymo nustatyta tvarka turinti teisę teikti socialinę globą socialinių paslaugų įstaiga.
 
 Straipsnio dalies pakeitimai:
 
@@ -72,31 +96,43 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
-6. Socialinės globos norma – Vyriausybės ar jos įgaliotos institucijos patvirtinti socialinės globos teikimo likusiems be tėvų globos vaikams, vaikams su negalia, socialinės rizikos vaikams, suaugusiems asmenims su negalia, senyvo amžiaus asmenims, socialinės rizikos suaugusiems asmenims principai ir charakteristikos.
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
+
+8. Socialinės globos norma – Vyriausybės ar jos įgaliotos institucijos patvirtinti socialinės globos teikimo likusiems be tėvų globos vaikams, vaikams su negalia, socialinės rizikos vaikams, suaugusiems asmenims su negalia, senyvo amžiaus asmenims, socialinės rizikos suaugusiems asmenims principai ir charakteristikos.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
-7. Socialinės rizikos suaugęs asmuo – darbingo amžiaus asmuo, esantis socialiai atskirtas dėl to, kad elgetauja, valkatauja, piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar toksinėmis medžiagomis, yra priklausomas nuo azartinių lošimų, yra įsitraukęs ar linkęs įsitraukti į nusikalstamą veiklą, yra patyręs ar kuriam kyla pavojus patirti psichologinę, fizinę ar seksualinę prievartą, smurtą šeimoje ir yra iš dalies ar visiškai netekęs gebėjimų savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
+
+9. Socialinės rizikos suaugęs asmuo – darbingo amžiaus asmuo, esantis socialiai atskirtas dėl to, kad elgetauja, valkatauja, piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar toksinėmis medžiagomis, yra priklausomas nuo azartinių lošimų, yra įsitraukęs ar linkęs įsitraukti į nusikalstamą veiklą, yra patyręs ar kuriam kyla pavojus patirti psichologinę, fizinę ar seksualinę prievartą, smurtą šeimoje ir yra iš dalies ar visiškai netekęs gebėjimų savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
-8. Socialinės rizikos šeima – šeima, kurioje auga vaikų iki 18 metų ir kurioje bent vienas iš tėvų piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar toksinėmis medžiagomis, yra priklausomas nuo azartinių lošimų, dėl socialinių įgūdžių stokos nemoka ar negali tinkamai prižiūrėti vaikų, naudoja prieš juos psichologinę, fizinę ar seksualinę prievartą, gaunamą valstybės paramą panaudoja ne šeimos interesams ir todėl iškyla pavojus vaikų fiziniam, protiniam, dvasiniam, doroviniam vystymuisi bei saugumui. Socialinės rizikos šeimai priskiriama ir šeima, kurios vaikui įstatymų nustatyta tvarka yra nustatyta laikinoji globa (rūpyba).
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
+
+10. Socialinės rizikos šeima – šeima, kurioje auga vaikų iki 18 metų ir kurioje bent vienas iš tėvų piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar toksinėmis medžiagomis, yra priklausomas nuo azartinių lošimų, dėl socialinių įgūdžių stokos nemoka ar negali tinkamai prižiūrėti vaikų, naudoja smurtą prieš vaikus, gaunamą valstybės paramą panaudoja ne šeimos interesams ir todėl iškyla pavojus vaikų fiziniam, protiniam, dvasiniam, doroviniam vystymuisi bei saugumui. Socialinės rizikos šeimai priskiriama ir šeima, kurios vaikui įstatymų nustatyta tvarka yra nustatyta globa (rūpyba) arba (ir) apribota tėvų (tėvo ar motinos) valdžia.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
-9. Socialinės rizikos vaikas – vaikas iki 18 metų, kuris valkatauja, elgetauja, nelanko mokyklos ar turi elgesio problemų mokykloje, piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar toksinėmis medžiagomis, yra priklausomas nuo azartinių lošimų, yra įsitraukęs ar linkęs įsitraukti į nusikalstamą veiklą, yra patyręs ar kuriam kyla pavojus patirti psichologinę, fizinę ar seksualinę prievartą, smurtą šeimoje ir dėl šių priežasčių jo galimybės ugdytis ir dalyvauti visuomenės gyvenime yra ribotos.
+11. Socialinės rizikos vaikas – vaikas iki 18 metų, kuris valkatauja, elgetauja, nelanko mokyklos ar turi elgesio problemų mokykloje, piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar toksinėmis medžiagomis, yra priklausomas nuo azartinių lošimų, yra įsitraukęs ar linkęs įsitraukti į nusikalstamą veiklą, yra patyręs ar kuriam kyla pavojus patirti psichologinę, fizinę ar seksualinę prievartą, smurtą šeimoje ir dėl šių priežasčių jo galimybės ugdytis ir dalyvauti visuomenės gyvenime yra ribotos.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
-10. Socialinių paslaugų įstaiga – socialines paslaugas teikiantis Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje arba kitoje Europos ekonominės erdvės valstybėje įsisteigęs juridinis asmuo ar kita organizacija, jų padalinys, atitinkantys šiame įstatyme nustatytus reikalavimus.
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
+
+12. Socialinių paslaugų įstaiga – socialines paslaugas teikiantis Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje arba kitoje Europos ekonominės erdvės valstybėje įsisteigęs juridinis asmuo ar kita organizacija, jų padalinys, atitinkantys šiame įstatyme nustatytus reikalavimus.
 
 Straipsnio dalies pakeitimai:
 
@@ -108,19 +144,29 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
-11. Suaugęs asmuo su negalia – darbingo amžiaus asmuo, kuris dėl neįgalumo yra iš dalies ar visiškai netekęs gebėjimų savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
+
+13. Suaugęs asmuo su negalia – darbingo amžiaus asmuo, kuris dėl neįgalumo yra iš dalies ar visiškai netekęs gebėjimų savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
-12. Vaikas su negalia – vaikas iki 18 metų, kuris dėl neįgalumo yra iš dalies ar visiškai neįgijęs jo amžių atitinkančio savarankiškumo ir kurio galimybės ugdytis bei dalyvauti visuomenės gyvenime yra ribotos.
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
+
+14. Vaikas su negalia – vaikas iki 18 metų, kuris dėl neįgalumo yra iš dalies ar visiškai neįgijęs jo amžių atitinkančio savarankiškumo ir kurio galimybės ugdytis bei dalyvauti visuomenės gyvenime yra ribotos.
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 
-13. Vaikus globojanti šeima – sutuoktiniai (ar vienas gyvenantis vyresnis kaip 21 metų asmuo), įstatymų ir kitų teisės aktų nustatyta tvarka prižiūrintys ar globojantys (besirūpinantys) nesusietus giminystės ryšiais likusius be tėvų globos vaikus, socialinės rizikos vaikus, vaikus su negalia.
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
+
+15. Vaikus globojanti šeima – sutuoktiniai (ar vienas gyvenantis vyresnis kaip 21 metų asmuo), įstatymų ir kitų teisės aktų nustatyta tvarka prižiūrintys ar globojantys (besirūpinantys) likusius be tėvų globos vaikus, socialinės rizikos vaikus, vaikus su negalia.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -204,11 +250,13 @@ SOCIALINIŲ PASLAUGŲ RŪŠYS
 
 9 straipsnis. Pagalbos pinigai
 
-1. Atskirais savivaldybės institucijos nustatytais atvejais, kai vaikus prižiūri ar juos globoja (jais rūpinasi) vaikus globojančios šeimos arba kai bendrąsias socialines paslaugas ir socialinę priežiūrą asmeniui (šeimai) yra veiksmingiau organizuoti pinigais, vaikus globojančiai šeimai arba asmeniui (šeimai) gali būti mokama piniginė išmoka – pagalbos pinigai.
+1. Savivaldybės institucijos nustatytais atvejais, kai vaikus prižiūri ar juos globoja (jais rūpinasi) vaikus globojančios šeimos, budintys globotojai arba kai bendrąsias socialines paslaugas ir socialinę priežiūrą asmeniui (šeimai) yra veiksmingiau organizuoti pinigais, vaikus globojančiai šeimai, budintiems globotojams per globos centrą arba asmeniui (šeimai) gali būti mokama piniginė išmoka – pagalbos pinigai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
 
 2. Pagalbos pinigų mokėjimą reglamentuoja Vyriausybės ar jos įgaliotos institucijos patvirtintas mokėjimo už socialines paslaugas tvarkos aprašas.
 
@@ -396,13 +444,21 @@ SOCIALINIŲ PASLAUGŲ TEIKIMAS
 
 7. Socialinės paslaugos socialinės rizikos suaugusiam asmeniui teikiamos padedant ugdyti socialinius įgūdžius ir stiprinti motyvaciją įveikti iškilusias socialines problemas ir organizuojant pagalbą, suderintą su švietimo ir ugdymo, užimtumo, sveikatos priežiūros priemonėmis, užtikrinančią rūpinimąsi asmeniniu (šeimos) gyvenimu ir dalyvavimą darbo rinkoje.
 
-8. Socialinės paslaugos socialinės rizikos šeimai teikiamos padedant ugdyti suaugusių šeimos narių socialinius įgūdžius ir motyvaciją kurti saugią, sveiką ir darnią aplinką savo namuose, šeimoje, palaikyti socialinius ryšius su visuomene ir užtikrinti šioje šeimoje augančių vaikų visapusį vystymąsi ir ugdymą. Teikiant socialines paslaugas socialinės rizikos šeimai, turi būti užtikrinamas socialinių paslaugų teikimas ir vaikams.
+8. Socialinės paslaugos socialinės rizikos šeimai teikiamos padedant ugdyti suaugusių šeimos narių, įskaitant tuos šeimos narius, kuriems apribota tėvų valdžia, socialinius įgūdžius ir motyvaciją kurti saugią, sveiką ir darnią aplinką savo namuose, šeimoje, palaikyti socialinius ryšius su visuomene ir užtikrinti šioje šeimoje augančių vaikų visapusį vystymąsi ir ugdymą, o jeigu tėvų valdžia apribota, – sudaryti sąlygas tėvų (tėvo ar motinos) elgesio pokyčiams, kurie leistų grąžinti vaiką į šeimą. Teikiant socialines paslaugas socialinės rizikos šeimai, turi būti užtikrinamas socialinių paslaugų teikimas ir vaikams.
 
-9. Vaikus globojančiai šeimai, globėjams (rūpintojams), įtėviams ir šeimynų dalyviams ar besirengiantiems jais tapti asmenims kiekvienoje savivaldybėje nuolat teikiama atestuotų socialinių darbuotojų ir kitų specialistų pagalba, užtikrinanti jų prižiūrimų, globojamų (rūpinamų) ar įvaikintų vaikų visapusį vystymąsi ir ugdymą.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
+
+9. Vaikus globojančiai šeimai, globėjams (rūpintojams), budintiems globotojams, įtėviams ir šeimynų dalyviams ar besirengiantiems jais tapti asmenims kiekvienoje savivaldybėje nuolat teikiama atestuotų socialinių darbuotojų ir kitų specialistų pagalba, užtikrinanti jų prižiūrimų, globojamų (rūpinamų) ar įvaikintų vaikų visapusį vystymąsi ir ugdymą.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2193, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20220
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
 
 19 straipsnis. Socialinių paslaugų teikėjai
 
@@ -410,11 +466,13 @@ Nr. XII-2193, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20220
 
 2. Socialinę globą teikia tos socialinės globos įstaigos, kurių veiklos sritis yra socialinių paslaugų teikimas, o jų teikiama socialinė globa atitinka socialinės globos normas, jos turi licenciją teikti socialinę globą (toliau – licencija).
 
-3. Vaikus globojanti šeima turi atitikti teisės aktų nustatytus reikalavimus ir turėti savivaldybės Vaiko teisių apsaugos tarnybos išvadą apie vaikus globojančios šeimos tinkamumą globoti (rūpintis) vaikus (vaikais).
+3. Vaikus globojanti šeima, budintis globotojas turi atitikti teisės aktų nustatytus reikalavimus ir turėti savivaldybės Vaiko teisių apsaugos skyriaus išvadą apie vaikus globojančios šeimos, budinčio globotojo tinkamumą globoti (rūpintis) vaikus (vaikais).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
 
 4. Socialinių paslaugų įstaigoje dirba socialiniai darbuotojai, socialinių darbuotojų padėjėjai ir kiti socialinių paslaugų srities darbuotojai, kurių pareigybių sąrašą tvirtina socialinės apsaugos ir darbo ministras, taip pat švietimo, sveikatos priežiūros specialistai ir kiti darbuotojai.
 
@@ -708,7 +766,11 @@ Nr. XII-2520, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20654
 
 12) vaiko išlaikymo periodinės išmokos, mokamos pagal Civilinį kodeksą;
 
-13) vaiko išlaikymo lėšos, mokamos pagal Vaikų išlaikymo fondo įstatymą;
+13) išmokos, mokamos pagal Lietuvos Respublikos vaikų išlaikymo išmokų įstatymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-652, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16002
 
 14) turto nuomos pajamos;
 
@@ -830,11 +892,15 @@ SOCIALINIŲ PASLAUGŲ FINANSAVIMAS
 
 5. Socialinė globa likusiems be tėvų globos vaikams finansuojama iš savivaldybės biudžeto lėšų ir iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, skirtų vaikų globos (rūpybos) išmokoms mokėti.
 
-6. Vaikų priežiūra ar globa (rūpyba) vaikus globojančioje šeimoje finansuojama iš savivaldybių biudžetų lėšų ir iš valstybės biudžeto lėšų, skirtų išmokoms vaikams, o kai vaikui nustatyta nuolatinė ar laikinoji globa (rūpyba), – ir vaikų globos (rūpybos) išmokoms pagal Išmokų vaikams įstatymą mokėti.
+6. Vaikų priežiūra ar globa (rūpyba) vaikus globojančioje šeimoje, pas budintį globotoją, taip pat globos centro vykdoma vaikų globa (rūpyba) ir kitos teikiamos socialinės paslaugos finansuojamos iš savivaldybių biudžetų lėšų ir iš valstybės biudžeto lėšų, skirtų išmokoms vaikams, o kai vaikui nustatyta nuolatinė ar laikinoji globa (rūpyba), – ir iš lėšų, skirtų vaikų globos (rūpybos) išmokoms, globos (rūpybos) tiksliniams priedams pagal Išmokų vaikams įstatymą mokėti.
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
 
 7. Valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams panaudojimą socialinėms paslaugoms finansuoti reglamentuoja Vyriausybės ar jos įgaliotos institucijos patvirtinta socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodika.
 
@@ -1032,6 +1098,22 @@ Nr. XIII-175, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29864
 
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 29 ir 30 straipsnių pakeitimo įstatymo Nr. XII-2520 2 straipsnio pakeitimo įstatymas
 
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
+
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 9, 18, 19, 34 straipsnių pakeitimo ir Įstatymo papildymo 19-1 straipsniu įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-652, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16002
+
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 30 straipsnio pakeitimo įstatymas
+
 141 straipsnis. Lietuvos statistikos departamento kompetencija
 
 Lietuvos statistikos departamentas kiekvienais metais pagal suderintą su Socialinės apsaugos ir darbo ministerija statistinių rodiklių sąrašą atlieka statistinį socialinių paslaugų tyrimą, rengia ir skelbia statistinę informaciją apie socialines paslaugas.
@@ -1073,4 +1155,76 @@ SOCIALINIŲ PASLAUGŲ SKYRIMAS
 Papildyta straipsniu:
 
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+
+191 straipsnis. Budinčio globotojo vykdoma likusių be tėvų globos vaikų, socialinės rizikos vaikų priežiūra
+
+1. Budintis globotojas prižiūri likusį be tėvų globos vaiką, socialinės rizikos vaiką (toliau šiame straipsnyje – prižiūrimas vaikas, vaikas) pagal tarpusavio bendradarbiavimo ir paslaugų teikimo sutartį (toliau šiame straipsnyje – sutartis). Šioje sutartyje turi būti sulygta bent dėl šių sąlygų: sutarties šalys; sutarties objektas ir tikslas; vaiko globos (rūpybos) vieta (ji negali sutapti su globos centro registruotos buveinės ar socialinės globos įstaigos licencijoje nurodyta vieta); prižiūrimų vaikų skaičius; lėšų vaikui išlaikyti (vaiko globos (rūpybos) išmokos pagal Išmokų vaikams įstatymą) bei atlygio už vaikų priežiūrą, dydis ir mokėjimų tvarka; prižiūrimo vaiko trumpalaikės socialinės globos (laikino atokvėpio) budinčiam globotojui suteikimo tvarka; sutarties šalių atsakomybė dėl netinkamo sutarties sąlygų vykdymo; kitos budinčio globotojo ir globos centro teisės ir tarpusavio įsipareigojimai; pagalbos teikimo budinčiam globotojui ir vaikui tvarka; sutarties nutraukimo sąlygos ir tvarka.
+
+2. Budinčio globotojo pareigos:
+
+1) priimti prižiūrimą vaiką savo gyvenamojoje vietoje ir užtikrinti vaiko priežiūrą: emocinį bei fizinį vaiko saugumą, visavertį vaiko poreikius atitinkantį ugdymą, auklėjimą ir kasdienę priežiūrą;
+
+2) bendradarbiauti su globos centru ir jo paskirtais darbuotojais ar specialistais (socialiniais darbuotojais, psichologais ir kt.), užtikrinti galimybę vaikui bendrauti su savo tėvais, kitais giminaičiais pagal numatytą ir su globos centru suderintą tvarką;
+
+3) dalyvauti rengiant individualų vaiko vystymosi planą ir užtikrinti jo įgyvendinimą;
+
+4) nedelsiant informuoti globos centro paskirtus darbuotojus apie vaikui kylančius emocinius ir fiziologinius sunkumus, siekiant užtikrinti vaikui reikiamų specialistų pagalbą;
+
+5) atsakingai ir pagal paskirtį naudoti globos centro vaikui išlaikyti skirtą vaiko globos (rūpybos) išmoką, numatytą Išmokų vaikams įstatyme;
+
+6) nedelsiant informuoti globos centrą apie atvejus, kai jis negali laikinai dėl objektyvių priežasčių vykdyti šiame įstatyme ir sutartyje numatytų įsipareigojimų;
+
+7) įgyvendinti kitas teisės aktuose ir sutartyje nustatytas pareigas.
+
+3. Budinčio globotojo teisės:
+
+1) gauti globos centro kas mėnesį mokamą atlygį už teikiamas paslaugas šiame įstatyme ir sutartyje nustatyta tvarka prižiūrint vaiką (vaikus). Šis atlygis yra mokamas sutarties galiojimo metu net ir tais atvejais, kai globos centras neperduoda vaiko (vaikų) budinčiam globotojui. Tais atvejais, kai sutartį sudaro sutuoktiniai, atlygis mokamas tik vienam iš jų;
+
+2) gauti iš globos centro kas mėnesį mokamą prižiūrimo vaiko išlaikymui skirtą vaiko globos (rūpybos) išmoką pagal Išmokų vaikams įstatymą. Ši išmoka vaiko išlaikymui yra mokama tik tą laikotarpį, kol vaikas gyvena pas budintį globotoją;
+
+3) gauti papildomų lėšų vaiko išlaikymui ir priežiūrai, jeigu tai numatyta sutartyje;
+
+4) naudotis prižiūrimam vaikui teikiama trumpalaike socialine globa (laikino atokvėpio paslauga);
+
+5) įgyvendinti kitas teisės aktuose ir sutartyje nustatytas teises.
+
+4. Globos centras yra vaiko atstovas pagal įstatymą ir turi šias pareigas:
+
+1) budinčio globotojo priežiūrai perduoti vaiką (vaikus), kuriam (kuriems) budintis globotojas gali užtikrinti emocinį ir fizinį saugumą bei visavertį poreikius atitinkantį ugdymą ir priežiūrą, teikti ar organizuoti tęstinę pagalbą budinčiam globotojui ir jo prižiūrimiems vaikams;
+
+2) skirti darbuotoją (darbuotojus), atsakingą (atsakingus) už reikiamos pagalbos budinčiam globotojui teikimą, ir užtikrinti, kad ši pagalba būtų teikiama laiku ir kokybiškai; kartu su budinčiu globotoju užtikrinti švietimo pagalbos, sveikatos priežiūros ar kitų paslaugų teikimą budinčių globotojų prižiūrimiems vaikams;
+
+3) socialinių paslaugų ir kitos pagalbos budinčiam globotojui teikimo metu ne rečiau kaip vieną kartą per šešis mėnesius atlikti budinčio globotojo vykdomos vaiko priežiūros kokybės vertinimą;
+
+4) kiekvieną mėnesį skirti vaiko išlaikymui reikalingas pinigines lėšas ir atlygį už vaikų priežiūrą;
+
+5) užtikrinti, kad budintis globotojas nuolat tobulintų savo profesinę kompetenciją;
+
+6) vykdyti budinčių globotojų paiešką, atranką ir parengimą;
+
+7) dirbti su vaiko tėvais, siekiant grąžinti vaiką į šeimą;
+
+8) vykdyti vaiko atstovo pagal įstatymą pareigas, numatytas Civiliniame kodekse;
+
+9) įgyvendinti kitas teisės aktuose ir sutartyje nustatytas pareigas.
+
+5. Globos centro teisės:
+
+1) sudaryti sutartį su budinčiu globotoju ar ją nutraukti;
+
+2) sudaryti socialinių paslaugų teikimo ir finansavimo sutartį su savivaldybe ar ją nutraukti;
+
+3) įgyvendinti vaiko atstovo pagal įstatymą teises, numatytas Civiliniame kodekse;
+
+4) įgyvendinti kitas teisės aktuose ir sutartyse nustatytas teises.
+
+6. Savivaldybė privalo mokėti budintiems globotojams per globos centrą atlygį už vaikų priežiūrą, jeigu šie globotojai yra sudarę tarpusavio bendradarbiavimo ir paslaugų teikimo sutartis su globos centru, kuris Civilinio kodekso ir Civilinio proceso kodekso nustatyta tvarka yra skiriamas vaikų atstovu pagal įstatymą.
+
+7. Globos centrų veiklos kokybės priežiūrą vykdo Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba prie Socialinės apsaugos ir darbo ministerijos bei Socialinių paslaugų priežiūros departamentas prie Socialinės apsaugos ir darbo ministerijos.
+
+8. Vyriausybė ar jos įgaliota institucija tvirtina globos centro veiklos ir vaiko budinčio globotojo vykdomos priežiūros organizavimo ir kokybės priežiūros tvarkos aprašą.
+
+Papildyta straipsniu:
+
+Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
 
