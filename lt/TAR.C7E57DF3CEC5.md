@@ -4,7 +4,7 @@ identifier: "TAR.C7E57DF3CEC5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-07"
-last_updated: "2017-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
 
@@ -627,6 +627,14 @@ Nr. XIII-334, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07557
 
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-1 ir 15-2 straipsnių pakeitimo įstatymas
 
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-444, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10805
+
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-2 straipsnio pakeitimo įstatymas
+
 151 straipsnis. Valdžios ir privataus subjektų partnerystės sutarties samprata
 
 1. Pagal valdžios ir privataus subjektų partnerystės sutartį valdžios subjektas suteikia privačiam subjektui teisę vykdyti šio įstatymo 152 straipsnio 3 dalyje nustatytą veiklą, valdyti ir naudoti šiai veiklai vykdyti reikalingą valstybės arba savivaldybės turtą ir įsipareigoja mokėti privačiam subjektui atlyginimą už jo vykdomą veiklą, o privatus subjektas įsipareigoja vykdyti sutartyje nustatytą veiklą ir užtikrinti investicijas, kurių reikia šiai veiklai vykdyti ir jai vykdyti reikalingam turtui sukurti arba perduoto valdyti ir naudoti turto būklei pagerinti.
@@ -647,7 +655,7 @@ Nr. XIII-334, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07557
 
 1. Valdžios ir privataus subjektų partnerystė taikoma, jeigu ji užtikrina efektyvų valstybės ir savivaldybės funkcijų įgyvendinimą, viešąjį interesą ir visuomenės poreikių tenkinimą.
 
-2. Valdžios subjektas, prieš priimdamas sprendimą taikyti valdžios ir privataus subjektų partnerystę šiame įstatyme nustatytai veiklai vykdyti, privalo atlikti šios veiklos analizę, skaičiavimais pagrįsti šios partnerystės taikymo efektyvumą ir galimus trūkumus. Valdžios subjektas privalo įvertinti:
+2. Valdžios subjektas, prieš priimdamas sprendimą taikyti valdžios ir privataus subjektų partnerystę šiame įstatyme nustatytai veiklai vykdyti, privalo atlikti šios veiklos analizę, skaičiavimais pagrįsti šios partnerystės taikymo efektyvumą ir galimus trūkumus ir gauti šio straipsnio 12 dalyje nurodyto viešojo juridinio asmens išvadą dėl partnerystės projekto socialinės ekonominės naudos. Valdžios subjektas privalo įvertinti:
 
 1) riziką, susijusią su veiklos perdavimu taikant valdžios ir privataus subjektų partnerystę;
 
@@ -656,6 +664,10 @@ Nr. XIII-334, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07557
 3) valdžios ir privataus subjektų partnerystės naudą, palygindamas su nauda, gaunama taikant kitus įmanomus veiklos įgyvendinimo būdus, taip pat galimą žalą ir (arba) grėsmes ir jų įtaką visuomenės interesams;
 
 4) turto, reikiamo valdžios ir privataus subjektų partnerystės sutartyje nustatytai veiklai vykdyti, įskaitant šiam turtui priskirtą žemės sklypą, teisinį statusą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-444, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10805
 
 3. Pagal valdžios ir privataus subjektų partnerystės sutartį privačiam subjektui gali būti suteikta teisė vykdyti veiklą, susijusią su infrastruktūros, taip pat naujo arba jam perduoto valdyti ir naudoti valstybės ar savivaldybės turto projektavimu, statyba, rekonstravimu, remontu, atnaujinimu, valdymu, naudojimu ir priežiūra bei viešųjų paslaugų teikimu šiose srityse: transporto, švietimo, sveikatos ir socialinės apsaugos, kultūros, turizmo, viešosios tvarkos ir visuomenės apsaugos ir kitose įstatymų nustatytose valdžios subjekto veiklą ir funkcijas apimančiose srityse.
 
@@ -669,13 +681,19 @@ Nr. XIII-334, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07557
 
 8. Viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo taisykles tvirtina Lietuvos Respublikos Vyriausybė.
 
-9. Sprendimą dėl valdžios ir privataus subjektų partnerystės, pagal kurią valstybė prisiima didesnius kaip 58 000 000 eurų turtinius įsipareigojimus (įskaitant galimą civilinę atsakomybę, atsirandančią pagal valdžios ir privataus subjektų partnerystės sutartį), priima Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės siūlymu.
+9. Sprendimus dėl valdžios ir privataus subjektų partnerystės projektų įgyvendinimo tikslingumo priima Lietuvos Respublikos Vyriausybė arba savivaldybės taryba, o sprendimą dėl valdžios ir privataus subjektų partnerystės, pagal kurią valstybė prisiima didesnius kaip 58 000 000 eurų turtinius įsipareigojimus (įskaitant galimą civilinę atsakomybę, atsirandančią pagal valdžios ir privataus subjektų partnerystės sutartį), priima Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės siūlymu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1261, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14858
 
-10. Lėšos, reikalingos valdžios ir privataus subjektų partnerystės investicijų projektams įgyvendinti, gavus valstybės arba savivaldybių biudžetų projektus rengiančių institucijų išvadas, planuojamos vadovaujantis valstybės ir savivaldybių biudžetų rengimą, tvirtinimą ir vykdymą reglamentuojančiais teisės aktais.
+Nr. XIII-444, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10805
+
+10. Prieš sudarydami valdžios ir privataus subjektų partnerystės sutartis, valdžios subjektai privalo gauti Lietuvos Respublikos finansų ministerijos išvadą dėl valdžios ir privataus subjektų partnerystės sutarties projekto finansinių sąlygų vertinimo fiskalinės drausmės reikalavimų požiūriu. Lėšos, reikalingos valdžios ir privataus subjektų partnerystės sutartims įgyvendinti, gavus valstybės arba savivaldybių biudžetų projektus rengiančių institucijų išvadas, planuojamos vadovaujantis valstybės ir savivaldybių biudžetų rengimą, tvirtinimą ir vykdymą reglamentuojančiais teisės aktais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-444, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10805
 
 11. Valstybės arba savivaldybės lėšų ir turto, reikalingų valdžios ir privataus subjektų partnerystės sutarčiai įgyvendinti, panaudojimą, taip pat valdžios ir privataus subjektų partnerystės sutarčių sudarymą ir įgyvendinimą teisės aktų nustatyta tvarka tikrina valstybės ir savivaldybės kontrolės institucijos.
 
