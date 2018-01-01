@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2017-12-14"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
 
-Suvestinė redakcija nuo 2017-12-14 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2271, i. k. 1001010ISTAIII-1904
 
@@ -76,11 +76,13 @@ Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
 
 7) žurnalistų etikos inspektoriui;
 
-8) Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus policijos generalinį komisarą) bei pareigūnams;
+8) Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus policijos generalinį komisarą bei specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus) bei pareigūnams;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
+
+Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
 
 9) Seimo, Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams;
 
@@ -88,11 +90,15 @@ Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
 
 11) žvalgybos pareigūnams;
 
-12) Specialiųjų tyrimų tarnybos pareigūnams.
+12) netenka galios 2018-01-01.
 
 Papildyta straipsnio punktu:
 
 Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
 
 Straipsnio pakeitimai:
 
@@ -162,21 +168,17 @@ Nr. XI-2296, 2012-10-17, Žin., 2012, Nr. 129-6470 (2012-11-08)
 
 5. Žvalgybos pareigūnų priedų už tarnybinį rangą ar kario laipsnį ir tarnybos stažą dydžius nustato Lietuvos Respublikos žvalgybos įstatymas.
 
-6. Specialiųjų tyrimų tarnybos pareigūnų darbo užmokestis susideda iš:
+6. Neteko galios nuo 2018-01-01
 
-1) pareiginės algos;
+Straipsnio dalies naikinimas:
 
-2) priedo už tarnybinį rangą;
+Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
 
-3) priedo už ištarnautus Lietuvos valstybei metus;
+7. Neteko galios nuo 2018-01-01
 
-4) vienkartinės priemokos.
+Straipsnio dalies naikinimas:
 
-Papildyta straipsnio dalimi:
-
-Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
-
-7. Specialiųjų tyrimų tarnybos pareigūnų priedo už tarnybinį rangą dydį nustato Lietuvos Respublikos specialiųjų tyrimų tarnybos statutas.
+Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
 
 Papildyta straipsnio dalimi:
 
@@ -668,47 +670,65 @@ Seimo kontrolieriai
 
 3.
 
-(neteko galios)
-
-4.
-
 Lygių galimybių kontrolierius
 
 13
 
-5.
+4.
 
 Vaiko teisių apsaugos kontrolierius
 
 13
 
-6.
+5.
 
 Žurnalistų etikos inspektorius, akademinės etikos ir procedūrų kontrolierius
 
 12
 
-7.
+6.
 
-Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos tarybos, Lietuvos radijo ir televizijos komisijos, Lietuvos kultūros tarybos, Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vyriausiosios rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
+Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos tarybos, Lietuvos radijo ir televizijos komisijos, Lietuvos kultūros tarybos, Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės kainų ir energetikos kontrolės komisijos ir Vyriausiosios tarnybinės etikos komisijos:
 
-7.1.
+6.1.
 
 pirmininkai ar direktoriai
 
 12,3
 
-7.2.
+6.2.
 
 pavaduotojai
 
 11
 
-7.3.
+6.3.
 
 nariai
 
 9,5
+
+7.
+
+Vyriausiosios rinkimų komisijos:
+
+7.1.
+
+pirmininkas
+
+15,5
+
+7.2.
+
+pavaduotojai
+
+14
+
+7.3.
+
+nariai
+
+12,3
 
 8.
 
@@ -750,11 +770,11 @@ pareigūnai
 
 10.
 
-Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės, Vyriausiosios administracinių ginčų komisijos:
+Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės:
 
 10.1.
 
-pirmininkai
+pirmininkas
 
 12
 
@@ -766,7 +786,25 @@ nariai
 
 11.
 
-(neteko galios)
+Lietuvos administracinių ginčų komisijos:
+
+11.1.
+
+pirmininkas
+
+12
+
+11.2.
+
+pirmininko pavaduotojas ir pirmininko pavaduotojai teritoriniuose padaliniuose
+
+10,5
+
+11.3.
+
+nariai ir jos teritorinių padalinių nariai
+
+9,5
 
 12.
 
@@ -836,165 +874,7 @@ Jaunesnysis specialistas
 
 VI. SPECIALIŲJŲ TYRIMŲ TARNYBOS PAREIGŪNŲ PAREIGINĖS ALGOS
 
-(Baziniais dydžiais)
-
-Eil. Nr.
-
-Pareigų pavadinimas
-
-Pareiginės algos koeficientas
-
-I  pakopa
-
-II pakopa
-
-III pakopa
-
-IV pakopa
-
-V pakopa
-
-VI pakopa
-
-1.
-
-Direktorius
-
-15,35
-
-2.
-
-Direktoriaus pavaduotojas
-
-14,61
-
-3.
-
-Valdybos viršininkas
-
-11,42
-
-11,88
-
-12,34
-
-12,80
-
-13,26
-
-13,72
-
-4.
-
-Valdybos viršininko pavaduotojas
-
-10,72
-
-11,15
-
-11,58
-
-12,01
-
-12,44
-
-12,87
-
-5.
-
-Skyriaus viršininkas
-
-10,47
-
-10,87
-
-11,27
-
-11,67
-
-12,07
-
-12,47
-
-6.
-
-Skyriaus viršininko pavaduotojas, poskyrio viršininkas
-
-9,93
-
-10,31
-
-10,69
-
-11,07
-
-11,45
-
-11,83
-
-7.
-
-Vyriausiasis specialistas
-
-9,55
-
-9,89
-
-10,23
-
-10,57
-
-10,93
-
-11,29
-
-8.
-
-Vyresnysis specialistas
-
-8,27
-
-8,56
-
-8,85
-
-9,14
-
-9,43
-
-9,74
-
-9.
-
-Specialistas
-
-7,00
-
-7,25
-
-7,50
-
-7,75
-
-8,00
-
-8,25
-
-10.
-
-Jaunesnysis specialistas
-
-5,30
-
-5,59
-
-5,88
-
-6,17
-
-6,46
-
-6,75
+VI skyrius netenka galios 2018-01-01
 
 Priedėlio pakeitimai:
 
@@ -1097,6 +977,10 @@ Nr. XII-1630, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06452
 Nr. XII-1764, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09300
 
 Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
+
+Nr. XIII-768, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18820
+
+Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
 
 Pakeitimai:
 
