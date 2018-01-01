@@ -4,7 +4,7 @@ identifier: "TAR.4FC026AC03AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2017-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
 
@@ -138,15 +138,13 @@ Pareigūnams nustatomi tokie pareiginės algos priedų už šio statuto 16 strai
 
 7) kapitonui, komisarui inspektoriui – 1,1 bazinio dydžio;
 
-8) majorui, komisarui – 0,7 bazinio dydžio;
+8) majorui, komisarui – 1,2 bazinio dydžio;
 
-9) pulkininkui leitenantui, vyresniajam komisarui – 0,8 bazinio dydžio;
+9) pulkininkui leitenantui, vyresniajam komisarui – 1,3 bazinio dydžio;
 
-10) pulkininkui, vyriausiajam komisarui – 0,9 bazinio dydžio;
+10) pulkininkui, vyriausiajam komisarui – 1,4 bazinio dydžio;
 
-11) generolui, generaliniam komisarui – 1,0 bazinio dydžio.
-
-45 straipsnio redakcija nuo 2018-01-01:
+11) generolui, generaliniam komisarui – 1,5 bazinio dydžio.
 
 48 straipsnis. Apmokėjimas už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą
 
@@ -1546,7 +1544,7 @@ Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vado pavad
 
 3.
 
-Viršininkas (įstaigos vadovas), rinktinės vadas (įstaigos vadovas), vyriausiojo policijos komisariato viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), biuro viršininkas
+Viršininkas (įstaigos vadovas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos pasienio rinktinės vadas, vyriausiojo policijos komisariato viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), biuro viršininkas
 
 15,68
 
@@ -1598,7 +1596,7 @@ Viršininkas (įstaigos vadovas), rinktinės vadas (įstaigos vadovas), vyriausi
 
 4.
 
-Dalinio vadas, štabo viršininkas, viršininko pavaduotojas (įstaigos vadovo pavaduotojas), rinktinės vado pavaduotojas (įstaigos vadovo pavaduotojas), patarėjas (įstaigos
+Dalinio vadas, štabo viršininkas, viršininko pavaduotojas (įstaigos vadovo pavaduotojas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos pasienio rinktinės vado pavaduotojas, patarėjas (įstaigos patarėjas), biuro viršininko pavaduotojas, vyriausiojo policijos komisariato viršininko pavaduotojas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje)
 
 14,34
 
@@ -1629,8 +1627,6 @@ Dalinio vadas, štabo viršininkas, viršininko pavaduotojas (įstaigos vadovo p
 11,02
 
 9,34
-
-patarėjas), biuro viršininko pavaduotojas, vyriausiojo policijos komisariato viršininko pavaduotojas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje)
 
 11,56
 
@@ -2225,6 +2221,10 @@ Postinis, patrulis, pasienietis, ugniagesys gelbėtojas
 3,20
 
 3,20
+
+Priedo pakeitimai:
+
+Nr. XIII-596, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12303
 
 Pakeitimai:
 
