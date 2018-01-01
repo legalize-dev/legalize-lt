@@ -4,7 +4,7 @@ identifier: "TAR.0F9036415DBD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-05-21"
-last_updated: "2017-12-29"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0F9036415DBD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-12-29 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-03-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
 
@@ -76,7 +76,11 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 14. Valstybinis socialinio draudimo fondas (toliau – Fondas) – šio įstatymo nustatyta tvarka valdomi centralizuoti tiksliniai finansiniai ir materialiniai ištekliai, kurie yra įtraukiami į apskaitą nuo valstybės ir savivaldybių biudžetų atskirtame Fondo biudžete ir yra naudojami pensijų, ligos, motinystės, nedarbo bei nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui finansuoti, valdyti ir administruoti.
 
-15. Valstybinis socialinis draudimas (toliau – socialinis draudimas) – valstybinės socialinės apsaugos sistemos dalis, kurios priemonėmis visiškai ar iš dalies kompensuojamos apdraustiesiems asmenims ir įstatymų nustatytais atvejais jų šeimų nariams dėl draudžiamųjų įvykių prarastos darbo pajamos arba apmokamos papildomos išlaidos.
+15. Valstybinis socialinis draudimas (toliau – socialinis draudimas) – valstybinės socialinės apsaugos sistemos dalis, kurios priemonėmis visiškai ar iš dalies kompensuojamos apdraustiesiems asmenims ir įstatymų nustatytais atvejais jų šeimų nariams dėl draudžiamųjų įvykių prarastos darbo pajamos arba įstatymų nustatytais atvejais šioje dalyje nurodytiems asmenims išmokamos įstatymų nustatyto dydžio išmokos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 16. Vidutinis šalies darbo užmokestis (toliau – VDU) – Lietuvos statistikos departamento paskelbtas užpraeitų metų III ir IV ketvirčių ir praėjusių metų I ir II ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkis (įtraukiant ir individualiųjų įmonių darbo užmokesčio duomenis). VDU tvirtinamas atitinkamų metų Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
 
@@ -100,7 +104,17 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 5) nelaimingų atsitikimų darbe ir profesinių ligų socialinis draudimas;
 
-2. Pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo rūšys reglamentuojamos šiuo ir atskirų socialinio draudimo rūšių įstatymais.
+6) privalomasis sveikatos draudimas.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
+
+2. Pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo rūšys reglamentuojamos šiuo ir atskirų socialinio draudimo rūšių įstatymais. Sveikatos draudimas vykdomas Sveikatos draudimo įstatymo nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 4 straipsnis. Asmenų, turinčių darbo santykius arba santykius, savo esme atitinkančius darbo santykius, socialinis draudimas
 
@@ -110,7 +124,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
 
-2. Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos teisėjų atlyginimų įstatyme ir Lietuvos Respublikos valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šio straipsnio 3 ir 4 dalyse), Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), gaunantys darbo užmokestį Lietuvos Respublikos Seimo (toliau – Seimas), Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
+2. Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos teisėjų atlyginimų įstatyme, Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatyme ir Lietuvos Respublikos valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šio straipsnio 3 ir 4 dalyse), Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), gaunantys darbo užmokestį Lietuvos Respublikos Seimo (toliau – Seimas), Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-902, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21498
 
 3. Vidaus tarnybos sistemos pareigūnai, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos bei jam pavaldžių įstaigų pareigūnai draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
 
@@ -138,7 +156,11 @@ Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
 
 2. Šeimos pasirinkimu vienas iš tėvų (įtėvių) arba asmuo, nustatyta tvarka paskirtas vaiko globėju, auginantys vaiką iki 3 metų, draudžiami valstybės lėšomis pensijų ir nedarbo socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis tik tuo atveju, jeigu jie tuo laikotarpiu neturi draudžiamųjų pajamų, socialinio draudimo įmokas skaičiuojant nuo Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) patvirtintos minimaliosios mėnesinės algos, arba jų pajamos mažesnės negu atitinkamą laikotarpį Vyriausybės patvirtintų minimaliųjų mėnesinių algų suma. Šioje dalyje nurodyti asmenys, kurių draudžiamųjų pajamų suma per atitinkamo laikotarpio kalendorinius mėnesius mažesnė už to paties laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumą, draudžiami sumokant valstybės lėšomis trūkstamą iki Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumos socialinio draudimo įmokų sumą.
 
-3. Nesukakęs senatvės pensijos amžiaus vienas iš neįgalaus asmens, kuriam nustatytas specialusis nuolatinės slaugos poreikis, tėvų (įtėvių) arba asmuo, nustatyta tvarka paskirtas šio neįgalaus asmens globėju ar rūpintoju, slaugantys namuose šį neįgalų asmenį, draudžiami valstybės lėšomis pensijų ir nedarbo socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis tik tuo atveju, jeigu jie tuo laikotarpiu neturi draudžiamųjų pajamų, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos, arba jų pajamos mažesnės negu atitinkamą laikotarpį Vyriausybės patvirtintų minimaliųjų mėnesinių algų suma. Šioje dalyje nurodyti asmenys, kurių draudžiamųjų pajamų suma per atitinkamo laikotarpio kalendorinius mėnesius mažesnė už to paties laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumą, draudžiami sumokant valstybės lėšomis trūkstamą iki Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumos socialinio draudimo įmokų sumą. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą, pripažintą tokiu iki 2005 m. liepos 1 d.
+3. Nesukakęs senatvės pensijos amžiaus vienas iš neįgalaus asmens, kuriam nustatytas specialusis nuolatinės slaugos poreikis, tėvų (įtėvių) arba asmuo, nustatyta tvarka paskirtas šio neįgalaus asmens globėju ar rūpintoju, slaugantys namuose šį neįgalų asmenį, draudžiami valstybės lėšomis pensijų ir nedarbo socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis tik tuo atveju, jeigu jie tuo laikotarpiu neturi draudžiamųjų pajamų, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos, arba jų pajamos mažesnės negu atitinkamą laikotarpį Vyriausybės patvirtintų minimaliųjų mėnesinių algų suma. Šioje dalyje nurodyti asmenys, kurių draudžiamųjų pajamų suma per atitinkamo laikotarpio kalendorinius mėnesius mažesnė už to paties laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumą, draudžiami sumokant valstybės lėšomis trūkstamą iki Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumos socialinio draudimo įmokų sumą. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą, pripažintą tokiu iki 2005 m. liepos 1 d. Šioje dalyje nurodyti asmenys draudžiami pensijų socialiniu draudimu valstybės lėšomis tik tuo atveju, jeigu negauna jiems patiems priklausančios valstybinės socialinio draudimo pensijos, išskyrus valstybinę socialinio draudimo našlių (maitintojo netekimo) pensiją, valstybinės pensijos, šalpos pensijos, socialinės pensijos arba šalpos pensijos už invalidų slaugą namuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-929, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21602
 
 4. Lietuvos Respublikos kariuomenės privalomosios pradinės karo tarnybos kariai ir asmenys, atliekantys alternatyviąją krašto apsaugos tarnybą, valstybės lėšomis draudžiami pensijų, motinystės, nedarbo ir nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu, skaičiuojant socialinio draudimo įmokas nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos.
 
@@ -174,11 +196,13 @@ SOCIALINIO DRAUDIMO ĮMOKOS IR IŠMOKOS
 
 1. Socialinio draudimo įmokos, skirtos šio įstatymo 3 straipsnio 1 dalyje nurodytų socialinio draudimo rūšių išmokoms finansuoti, mokamos į Fondo biudžetą.
 
-2. Socialinio draudimo įmokų tarifai, jų dydžiai (jų dalys) atskirų rūšių socialiniam draudimui tvirtinami Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu. Terminuotoms darbo sutartims nedarbo draudimo įmokos tarifas, nustatytas Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu, didinamas du kartus.
+2. Socialinio draudimo įmokų tarifai, jų dydžiai (jų dalys) atskirų rūšių socialiniam draudimui tvirtinami Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu. Lietuvos Respublikos darbo kodekso 66 straipsnio 1 dalies 2 punkte numatytoms terminuotoms darbo sutartims nedarbo draudimo įmokos tarifas, nustatytas Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu, didinamas du kartus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 3. Mokant socialinio draudimo įmokas Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka, taikomas turinio viršenybės prieš formą principas.
 
@@ -208,23 +232,15 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 1. Apdraustųjų asmenų, nurodytų šio įstatymo 4 straipsnyje, socialinio draudimo įmokos skaičiuojamos nuo kiekvienam apdraustajam asmeniui apskaičiuotos darbo užmokesčio sumos, ne mažesnės kaip Vyriausybės patvirtintas minimalusis valandinis atlygis arba Vyriausybės patvirtinta minimalioji mėnesinė alga, perskaičiuota proporcingai dirbtam laikui, arba nuo pajamų, gautų iš sporto veiklos, atlikėjo veiklos, ir (ar) pajamų, gautų pagal autorines sutartis, ar kitokio atlygio, neatsižvelgiant į mokėjimo šaltinius, įskaitant (išskyrus pajamas ir atvejus, nustatytus šio įstatymo 11 straipsnyje):
 
-Straipsnio dalies pakeitimai:
+1) apdraustajam asmeniui apskaičiuotą darbo užmokestį ir visus papildomus uždarbius (konkrečius valandinius tarifinius atlygius; mėnesines algas; padidintus, palyginti su normaliomis sąlygomis, tarifinius atlygius; darbo užmokestį už išsiruošimo į kelionę ir įsikūrimo naujoje vietovėje laiką; kitas darbo apmokėjimo formas; kitas su darbo santykiais susijusias išmokas), nustatytus Darbo kodekse ir kituose teisės aktuose, bet kokiu būdu draudėjo apskaičiuojamus apdraustajam už jo atliktą darbą;
 
-Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
+2) apdraustajam asmeniui apskaičiuotą darbo užmokestį, kurį sudaro pareiginė alga, priedai, priemokos, apmokėjimas už darbą poilsio ir švenčių dienomis, nakties bei viršvalandinį darbą ir budėjimą, už dalyvavimą projektinėje veikloje, nustatyti teisės aktuose, reglamentuojančiuose šių išmokų mokėjimą;
 
-1) apdraustajam asmeniui apskaičiuotą darbo užmokestį ir visus papildomus uždarbius (konkrečius valandinius tarifinius atlygius; mėnesines algas; padidintus, palyginti su normaliomis sąlygomis, tarifinius atlygius; darbo užmokestį už išsiruošimo į kelionę ir įsikūrimo naujoje vietovėje laiką; kitas darbo apmokėjimo formas; kitas su darbo santykiais susijusias išmokas), nustatytus Lietuvos Respublikos darbo kodekse ir kituose teisės aktuose, bet kokiu būdu draudėjo apskaičiuojamus apdraustajam už jo atliktą darbą;
-
-2) apdraustajam asmeniui apskaičiuotą darbo užmokestį, kurį sudaro pareiginė alga, priedai, priemokos, apmokėjimas už darbą poilsio ir švenčių dienomis, nakties bei viršvalandinį darbą ir budėjimą, už dalyvavimą projektinėje veikloje, nustatyti Valstybės tarnybos įstatyme ir kituose teisės aktuose, reglamentuojančiuose šių išmokų mokėjimą;
-
-3) apdraustajam asmeniui apskaičiuotą darbo užmokestį, nustatytą Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir Teisėjų atlyginimų įstatyme;
+3) apdraustajam asmeniui apskaičiuotą darbo užmokestį, nustatytą įstatymuose, reglamentuojančiuose valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų darbo užmokesčio mokėjimą;
 
 4) priedus ir išeitines išmokas, apskaičiuotus šio įstatymo 4 straipsnio 1–4 dalyse nurodytiems asmenims;
 
 5) apskaičiuotas kompensacijas už kasmetines, tikslines atostogas (išskyrus nėštumo ir gimdymo atostogas, tėvystės atostogas, atostogas vaikui prižiūrėti), apskaičiuotas pinigines kompensacijas už nepanaudotas kasmetines atostogas, už kompensacijas, mokamas pagal Darbo kodekso 218 straipsnio 4 dalį, ar už prastovos laiką;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 6) premijas, pašalpas ir kitas išmokas;
 
@@ -236,37 +252,31 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 10) tantjemas;
 
-11) atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete mokamą vietoj tantjemų arba kartu su tantjemomis.
+11) atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis.
 
 2. Meno kūrėjo statusą turinčių darbingo amžiaus asmenų ir šio įstatymo 5 straipsnio 1 dalyje nurodytų asmenų, gaunančių pajamas pagal autorines sutartis, iš sporto ar atlikėjo veiklos, socialinio draudimo įmokos skaičiuojamos nuo apskaičiuoto 50 procentų atlygio pagal sudarytas sutartis.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
-
 3. Šio įstatymo 5 straipsnio 2 dalyje nurodytų asmenų socialinio draudimo įmokos skaičiuojamos taip:
 
-1) individualios įmonės savininko, mažosios bendrijos nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę vienus metus nuo pirmosios veiklos pradžios sudaro individualios įmonės, mažosios bendrijos ar ūkinės bendrijos išsiimama individualios įmonės savininko, mažosios bendrijos nario ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams lėšų suma, kuri deklaruojama Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos (toliau – Valstybinė mokesčių inspekcija) kaip su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos. Individualios įmonės savininko, mažosios bendrijos nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę sudaro individualios įmonės, mažosios bendrijos ar ūkinės bendrijos išsiimama individualios įmonės savininko, mažosios bendrijos nario ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams lėšų suma, kuri deklaruojama Valstybinei mokesčių inspekcijai kaip su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos, jeigu socialinio draudimo įmokas už šiuos asmenis yra sumokėjusi individuali įmonė ar mažoji bendrija, ar tikroji ūkinė bendrija, ar komanditinė ūkinė bendrija arba jie yra sumokėję įmokas kaip asmenys, kurie verčiasi individualia veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme, išskyrus tuos, kurie verčiasi individualia veikla turėdami verslo liudijimą, arba jie yra asmenys, nurodyti šio įstatymo 4 straipsnyje, jie yra laisvės atėmimo vietose ar jiems Lietuvos Respublikos baudžiamojo kodekso nustatyta tvarka teismo nuosprendžiu yra paskirtos priverčiamosios stacionarinio stebėjimo medicinos priemonės ar auklėjamojo poveikio priemonės specializuotose psichikos sveikatos priežiūros įstaigose arba jiems yra paskirtos valstybinės socialinio draudimo senatvės ar netekto darbingumo (invalidumo) pensijos, su socialinio draudimo santykiais susijusios (socialinio draudimo) senatvės ar netekto darbingumo (invalidumo) pensijos kitoje Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje, Šveicarijos Konfederacijoje ar šalyje, su kuria Lietuvos Respublika yra sudariusi tarptautinę sutartį dėl socialinės apsaugos taikymo, arba jeigu individualios įmonės savininkas, mažosios bendrijos narys ar ūkinės bendrijos narys yra ne vyresnis kaip 29 metų (taikoma už laikotarpį iki kalendorinių metų pabaigos, kai asmeniui sukanka 29 metai). Individualios įmonės savininko, mažosios bendrijos nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę sudaro kalendoriniais metais individualios įmonės savininko, mažosios bendrijos nario ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams išsiimama individualios įmonės, mažosios bendrijos ar ūkinės bendrijos lėšų suma, kuri deklaruojama Valstybinei mokesčių inspekcijai kaip su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos ir kuri kalendorinių metų mėnesį negali būti mažesnė kaip Vyriausybės patvirtinta minimalioji mėnesinė alga. Tuo atveju, jeigu asmuo yra individualios įmonės savininkas ir mažosios bendrijos narys, ir (ar) ūkinės bendrijos tikrasis narys arba kelių mažųjų bendrijų ar ūkinių bendrijų tikrasis narys, socialinio draudimo įmokas nuo minimaliosios mėnesinės algos apskaičiuoja draudėjas, kuris yra įregistruotas anksčiausiai. Šios nuostatos netaikomos, jeigu individuali įmonė, mažoji bendrija ar ūkinė bendrija turi bankrutuojančios arba bankrutavusios statusą, veiklos laikinai nevykdo ir yra tai deklaravusi Mokesčių administravimo įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka;
+1) individualios įmonės savininko, mažosios bendrijos nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę sudaro individualios įmonės, mažosios bendrijos ar ūkinės bendrijos išsiimama individualios įmonės savininko, mažosios bendrijos nario ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams 50 procentų lėšų suma, kuri deklaruojama Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos (toliau – Valstybinė mokesčių inspekcija) kaip su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos;
 
-2) asmenų, kurie verčiasi individualia veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme, socialinio draudimo įmokų bazę sudaro 50 procentų individualios veiklos apmokestinamųjų pajamų (neatėmus privalomojo sveikatos draudimo, socialinio draudimo įmokų) suma. Ūkininkų ir jų partnerių socialinio draudimo įmokų bazę sudaro kiekvieno asmens žemės ūkio veiklos apmokestinamųjų pajamų (neatėmus privalomojo sveikatos draudimo, socialinio draudimo įmokų) suma. Ūkininkų ir jų partnerių, kurių pajamos mokestiniu laikotarpiu nėra apmokestinamos gyventojų pajamų mokesčiu pagal Gyventojų pajamų mokesčio įstatymo nuostatas ir šie asmenys nedeklaruoja individualios žemės ūkio veiklos pajamų, socialinio draudimo įmokų baze laikoma 12 Vyriausybės patvirtintų minimaliųjų mėnesinių algų suma. Šeimynos dalyvių socialinio draudimo įmokų bazę sudaro šeimynos dalyvio išlaikymo pajamos, numatytos Šeimynų įstatyme.
+2) asmenų, kurie verčiasi individualia veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme, socialinio draudimo įmokų bazę sudaro 50 procentų individualios veiklos apmokestinamųjų pajamų (neatėmus privalomojo sveikatos draudimo, socialinio draudimo įmokų) suma. Ūkininkų ir jų partnerių socialinio draudimo įmokų bazę sudaro kiekvieno asmens žemės ūkio veiklos 50 procentų apmokestinamųjų pajamų (neatėmus privalomojo sveikatos draudimo, socialinio draudimo įmokų) suma. Ūkininkų ir jų partnerių, kurių pajamos mokestiniu laikotarpiu nėra apmokestinamos gyventojų pajamų mokesčiu pagal Gyventojų pajamų mokesčio įstatymo nuostatas ir šie asmenys nedeklaruoja individualios žemės ūkio veiklos pajamų, socialinio draudimo įmokų baze laikoma 12 Vyriausybės patvirtintų minimaliųjų mėnesinių algų suma. Šeimynos dalyvių socialinio draudimo įmokų bazę sudaro šeimynos dalyvio išlaikymo pajamos, numatytos Šeimynų įstatyme.
 
 4. Šio įstatymo 5 straipsnio 3 dalyje nurodytų asmenų socialinio draudimo įmokos skaičiuojamos nuo minimaliosios mėnesinės algos.
 
-5. Šio įstatymo 5 straipsnio 1 ir 2 dalyse nurodytų asmenų (išskyrus ūkininkus ir jų partnerius, šeimynų dalyvius) socialinio draudimo įmokų bazė, kurią privalo taikyti kiekvienas draudėjas, kalendoriniais metais negali būti didesnė negu praėjusių metų 28 VDU suma. Ūkininkų ir jų partnerių socialinio draudimo įmokų bazė kalendoriniais metais negali būti didesnė negu praėjusių metų 7 VDU suma.
+5. Šio įstatymo 5 straipsnio 1 ir 2 dalyse nurodytų asmenų (išskyrus ūkininkus ir jų partnerius, šeimynų dalyvius) socialinio draudimo įmokų bazė, kurią privalo taikyti kiekvienas draudėjas, kalendoriniais metais negali būti didesnė negu praėjusių metų 28 VDU suma. Ūkininkų ir jų partnerių socialinio draudimo įmokų bazė kalendoriniais metais negali būti didesnė negu praėjusių metų 14 VDU suma.
 
-6. Socialinio draudimo įmokos skaičiuojamos nuo socialinio draudimo įmokų bazės, nustatytos proporcingai veiklos vykdymo laikotarpiui, kai individualios įmonės, mažosios bendrijos, ūkinės bendrijos ar savarankiškai dirbantys asmenys vykdė veiklą ne visus mokestinius metus.
+6. Asmenys, kurie vienu metu dirba pagal darbo sutartį ar savarankiškai Lietuvos Respublikoje, o kitoje Europos Sąjungos valstybėje narėje ar kitoje valstybėje, kurioje taikomi Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentai, dirba savarankiškai, kai negalima nustatyti savarankiškai dirbančio asmens veiklos rūšies, yra priskiriami prie asmenų, vykdančių individualią veiklą, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme, draudžiamų šio įstatymo 5 straipsnio 2 dalyje nustatytu pagrindu. Savarankiškos veiklos rūšis gali būti pakeista, jeigu asmuo įrodo, kad jo savarankiška veikla užsienio valstybėje priskirtina kitai savarankiškai dirbančio asmens veiklos rūšiai.
 
-7. Asmenys, kurie vienu metu dirba pagal darbo sutartį ar savarankiškai Lietuvos Respublikoje, o kitoje Europos Sąjungos valstybėje narėje ar kitoje valstybėje, kurioje taikomi Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentai, dirba savarankiškai, kai negalima nustatyti savarankiškai dirbančio asmens veiklos rūšies, yra priskiriami prie asmenų, vykdančių individualią veiklą, kaip ji apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme, draudžiamų šio įstatymo 5 straipsnio 2 dalies pagrindu. Savarankiškos veiklos rūšis gali būti pakeista, jeigu asmuo įrodo, kad jo savarankiška veikla užsienio valstybėje priskirtina kitai savarankiškai dirbančio asmens veiklos rūšiai.
+7. Draudėjo valstybinio socialinio draudimo įmokos už tarnautojus ar darbuotojus, dirbančius pagal darbo sutartis ne visą darbo laiką, skaičiuojamos ir mokamos nuo nustatyto darbo užmokesčio, bet ne mažesnio kaip minimalioji mėnesinė alga, išskyrus atvejus, kai jie atitinkamą mėnesį:
 
-Straipsnio dalies pakeitimai:
+1) buvo drausti pas kitą draudėją pagal šio įstatymo 4 straipsnio 1, 2, 3 ar 4 dalis;
 
-Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
+2) gavo valstybinę socialinio draudimo senatvės ar netekto darbingumo (invalidumo) pensiją;
 
-8. Savarankiškai dirbančių asmenų, kurių duomenys apie jų savarankiškos veiklos pajamas pasibaigus metinės pajamų mokesčio deklaracijos pateikimo Valstybinei mokesčių inspekcijai terminui nėra pateikti Fondo administravimo įstaigoms, socialinio draudimo įmokų bazę sudaro 12 Vyriausybės patvirtintų minimaliųjų mėnesinių algų suma. Fondo administravimo įstaigoms gavus duomenis apie savarankiškai dirbančių asmenų pajamas, šių asmenų socialinio draudimo įmokų bazė perskaičiuojama atsižvelgiant į šio straipsnio 3, 4, 5 ir 6 dalių nuostatas.
+3) buvo ne vyresni kaip 24 metų (taikoma iki kalendorinio mėnesio, kai asmeniui sukanka 24 metai).
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
+8. Ne visą darbo laiką pagal darbo sutartį dirbančiam darbuotojui ar tarnautojui, nurodytam šio įstatymo 4 straipsnio 1 ar 2 dalyse, kuriam priskaičiuotas darbo užmokestis yra mažesnis kaip Vyriausybės patvirtinta minimalioji mėnesinė alga dėl to, kad jis nedirbo dėl nedraudžiamojo laikotarpio ar gavo ligos, motinystės, tėvystės arba vaiko priežiūros išmoką ar ligos išmoką dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos, socialinio draudimo įmokos skaičiuojamos ir mokamos nuo nustatyto darbo užmokesčio, bet ne mažesnio kaip Vyriausybės patvirtinta minimalioji mėnesinė alga, perskaičiuota proporcingai atitinkamo mėnesio kalendorinių dienų skaičiui, kai asmuo nedirbo dėl nedraudžiamojo laikotarpio ar gavo ligos, motinystės, tėvystės, vaiko priežiūros išmoką ar ligos išmoką dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos.
 
 11 straipsnis. Pajamos ir atvejai, kai socialinio draudimo įmokos neskaičiuojamos
 
@@ -334,7 +344,17 @@ Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
 
 25) pagal pasirinkimo sandorius gaunamų akcijų, jeigu teisė į akcijas darbuotojams suteikiama ne anksčiau kaip po 3 metų;
 
-2. Asmenys, kurie verčiasi individualia veikla turėdami verslo liudijimą, ūkininkai ir jų partneriai socialinio draudimo įmokų gali nemokėti (tas laikotarpis neįskaitomas į socialinio draudimo stažą ir tuo laikotarpiu jie nėra laikomi apdraustais socialiniu draudimu), jeigu šie asmenys:
+26) ilgalaikio darbo išmokų iš biudžetinių įstaigų ir Lietuvos banko atleistiems darbuotojams darbdavio skiriamų ir mokamų mutatis mutandis Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo nustatyta tvarka.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
+
+2. Savarankiškai dirbantys asmenys, išskyrus šeimynų dalyvius ir asmenis, gaunančius pajamas pagal autorines sutartis arba pajamas iš sporto ar atlikėjo veiklos, socialinio draudimo įmokų gali nemokėti (tas laikotarpis neįskaitomas į socialinio draudimo stažą ir tuo laikotarpiu jie nėra laikomi apdraustais socialiniu draudimu), jeigu šie asmenys:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 1) gauna (jiems yra paskirta) socialinio draudimo senatvės ar socialinio draudimo netekto darbingumo (invalidumo) pensiją, paskirtą pagal Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymą;
 
@@ -344,15 +364,21 @@ Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
 
 4) yra laisvės atėmimo vietose arba jiems Baudžiamojo kodekso nustatyta tvarka teismo nuosprendžiu yra paskirtos priverčiamosios stacionarinio stebėjimo medicinos priemonės ar auklėjamojo poveikio priemonės specializuotose psichikos sveikatos priežiūros įstaigose;
 
-5) yra draudžiami socialiniu draudimu pagal Lietuvos Respublikos įstatymus sutampančiomis socialinio draudimo rūšimis nuo sumos, ne mažesnės kaip minimalioji mėnesinė alga;
+5) neteko galios nuo 2018-01-01;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
+
 6) yra sukakę socialinio draudimo senatvės pensijos amžių pagal Valstybinių socialinio draudimo pensijų įstatymą.
 
-3. Ūkininkai ir jų partneriai, kurių pajamos mokestiniu laikotarpiu nėra apmokestinamos gyventojų pajamų mokesčiu pagal Gyventojų pajamų mokesčio įstatymo nuostatas, socialinio draudimo įmokų gali nemokėti (tas laikotarpis neįskaitomas į socialinio draudimo stažą ir tuo laikotarpiu jie nėra laikomi apdraustais socialiniu draudimu), jeigu šie asmenys yra ne vyresni kaip 29 metų (taikoma už laikotarpį iki kalendorinių metų pabaigos, kai asmeniui sukanka 29 metai).
+3. Individualių įmonių savininkai, mažųjų bendrijų nariai, ūkinių bendrijų tikrieji nariai, ūkininkai bei jų partneriai ir asmenys, vykdantys individualią veiklą, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme, vienus metus nuo pirmosios veiklos pradžios socialinio draudimo įmokų gali nemokėti. Pirmosios veiklos pradžia laikoma diena, kurią po 2018 m. sausio 1 d. asmuo pirmą kartą tampa savarankiškai dirbančiu asmeniu. Šios dalies nuostata taikoma ir asmenims, kurie po 2018 m. sausio 1 d. per ne mažesnį kaip dešimties metų laikotarpį nebuvo savarankiškai dirbančiais asmenimis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 12 straipsnis. Socialinio draudimo įmokų mokėjimas
 
@@ -360,11 +386,23 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 2. Priskaičiuotas socialinio draudimo įmokas draudėjas sumoka ne vėliau kaip iki kito mėnesio 15 dienos, išskyrus šiame įstatyme nustatytus atvejus.
 
-3. Žemės ūkio bendrovės, žemės ūkio kooperatyvai ir ūkininkai socialinio draudimo įmokas į Fondą gali sumokėti iš anksto draudėjo ir Fondo valdybos teritorinio skyriaus pasirašytose sutartyse nustatytu laiku, bet ne vėliau kaip iki lapkričio 15 dienos. Kalendoriniais metais gali būti pasirašyta tik atsiskaitymo už einamuosius kalendorinius metus sutartis.
+3. Žemės ūkio bendrovės, žemės ūkio kooperatyvai ir ūkininkai socialinio draudimo įmokas į Fondą gali sumokėti iš anksto draudėjo ir Fondo valdybos teritorinio skyriaus pasirašytose sutartyse nustatytu laiku, bet ne vėliau kaip iki lapkričio 15 dienos. Kalendoriniais metais gali būti pasirašyta tik atsiskaitymo už einamuosius kalendorinius metus sutartis. Kai žemės ūkio bendrovė, žemės ūkio kooperatyvai ir (ar) ūkininkai einamaisiais kalendoriniais metais nevykdo (netinkamai vykdo) su Fondo valdybos teritoriniu skyriumi pasirašytos einamųjų socialinio draudimo įmokų atidėjimo sutarties, ateinančiais kalendoriniais metais socialinio draudimo įmokų atidėjimo sutartis su jais negali būti sudaroma.
 
-4. Šio įstatymo 5 straipsnio 2 ir 3 dalyse nurodytų asmenų socialinio draudimo įmokos mokamos taip: individualios įmonės moka įmokas už šių įmonių savininkus, mažosios bendrijos – už jų narius, tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos – už jų tikruosius narius, šeimynos – už šeimynos dalyvius nuo individualios įmonės, mažosios bendrijos, bendrijos ar šeimynos įregistravimo Juridinių asmenų registre dienos, kiti savarankiškai dirbantys asmenys jiems priklausančias mokėti socialinio draudimo įmokas moka į Fondo lėšų sąskaitą nuo veiklos vykdymo pradžios iki veiklos pabaigos. Verslo liudijimus turintys asmenys socialinio draudimo įmokas sumoka už verslo liudijimo galiojimo laiką.
+Straipsnio dalies pakeitimai:
 
-5. Individualių įmonių savininkų, mažųjų bendrijų narių, ūkinių bendrijų tikrųjų narių, ūkininkų ir jų partnerių bei šeimynos dalyvių socialinio draudimo įmokos mokamos kartą per mėnesį ne vėliau kaip iki einamojo mėnesio paskutinės dienos. Kiti šio įstatymo 5 straipsnio 2 dalyje nurodyti asmenys turi teisę skaičiuoti ir mokėti socialinio draudimo įmokas avansu ir mokėti jas kartą per mėnesį ne vėliau kaip iki einamojo mėnesio paskutinės dienos. Ūkininkų ir jų partnerių mėnesio socialinio draudimo įmokos apskaičiuojamos ir sumokamos nuo jų pačių pasirinktos sumos. Ūkininkų ir jų partnerių, kurių pajamos mokestiniu laikotarpiu nėra apmokestinamos gyventojų pajamų mokesčiu pagal Gyventojų pajamų mokesčio įstatymo nuostatas ir kurie nedeklaruoja individualios žemės ūkio veiklos pajamų, mėnesio socialinio draudimo įmokos apskaičiuojamos ir sumokamos nuo Vyriausybės partvirtintos minimaliosios mėnesinės algos. Socialinio draudimo įmokos (sumokėtų įmokų ir mokėtinų įmokų sumų skirtumas), kai jų bazė priklauso nuo asmens pajamų, gautų praėjusiais metais, turi būti sumokėtos iki metinės pajamų mokesčio deklaracijos pateikimo Valstybinei mokesčių inspekcijai termino paskutinės dienos.
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
+
+4. Šio įstatymo 5 straipsnio 2 ir 3 dalyse nurodytų asmenų socialinio draudimo įmokos mokamos taip: individualios įmonės moka įmokas už šių įmonių savininkus, mažosios bendrijos – už jų narius, tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos – už jų tikruosius narius, šeimynos – už šeimynos dalyvius nuo individualios įmonės, mažosios bendrijos, bendrijos ar šeimynos įregistravimo Juridinių asmenų registre dienos, kiti savarankiškai dirbantys asmenys jiems priklausančias mokėti socialinio draudimo įmokas moka į Fondo lėšų sąskaitą nuo veiklos vykdymo pradžios iki veiklos pabaigos. Verslo liudijimus turintys asmenys socialinio draudimo įmokas sumoka už verslo liudijimo galiojimo laiką, o jeigu asmuo pagal verslo liudijimą dirba ne visą kalendorinį mėnesį, pagal asmens pateiktą prašymą Fondo valdybos teritoriniam skyriui gali būti sumokėtos socialinio draudimo įmokos už visą kalendorinį mėnesį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
+
+5. Individualių įmonių savininkų, mažųjų bendrijų narių, ūkinių bendrijų tikrųjų narių ir šeimynos dalyvių socialinio draudimo įmokos mokamos kartą per mėnesį ne vėliau kaip iki einamojo mėnesio paskutinės dienos. Kiti šio įstatymo 5 straipsnio 2 dalyje nurodyti asmenys turi teisę skaičiuoti ir mokėti socialinio draudimo įmokas avansu ir mokėti jas kartą per mėnesį ne vėliau kaip iki einamojo mėnesio paskutinės dienos. Ūkininkų ir jų partnerių, kurių pajamos mokestiniu laikotarpiu nėra apmokestinamos gyventojų pajamų mokesčiu pagal Gyventojų pajamų mokesčio įstatymo nuostatas ir kurie nedeklaruoja individualios žemės ūkio veiklos pajamų, mėnesio socialinio draudimo įmokos apskaičiuojamos ir sumokamos nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos. Socialinio draudimo įmokos (sumokėtų įmokų ir mokėtinų įmokų sumų skirtumas), kai jų bazė priklauso nuo asmens pajamų, gautų praėjusiais metais, turi būti sumokėtos iki metinės pajamų mokesčio deklaracijos pateikimo Valstybinei mokesčių inspekcijai termino paskutinės dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 6. Asmenys, ketinantys įsigyti verslo liudijimus trumpesniam negu 3 mėnesių laikotarpiui, privalo iš anksto sumokėti socialinio draudimo įmokas už visą verslo liudijimo galiojimo laikotarpį. Asmenys, įsigiję verslo liudijimus 3 mėnesių ar ilgesniam laikotarpiui, socialinio draudimo įmokas moka kartą per ketvirtį ne vėliau kaip iki kito ketvirčio pirmo mėnesio 15 dienos. Tuo atveju, kai sumokėjusiam socialinio draudimo įmokas asmeniui verslo liudijimas neišduodamas arba už išduotą verslo liudijimą grąžinama susidariusi pajamų mokesčio permoka, socialinio draudimo įmokų suma grąžinama asmeniui arba įskaitoma į būsimąjį laikotarpį Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatytais atvejais ir tvarka.
 
@@ -384,7 +422,11 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 2) nesikreipia dėl socialinio draudimo įmokų įsiskolinimo sumokėjimo atidėjimo arba įmokų įsiskolinimo sumokėjimas neatidedamas, ir
 
-3) draudėjas (draudėjo – juridinio asmens valdymo organų nariai) nėra randamas jo nurodytais ar Juridinių asmenų registre nurodytais adresais arba Fondo administravimo įstaigų reikalavimu draudėjas nepateikia veiklą įrodančių dokumentų.
+3) Fondo administravimo įstaigų reikalavimu draudėjas nepateikia veiklą įrodančių dokumentų.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 3. Nustačius, kad draudėjas veiklos nevykdo, pagal šio draudėjo teiktus socialinio draudimo pranešimus duomenys apie apdraustiesiems asmenims apskaičiuotas draudžiamųjų pajamų sumas ir socialinio draudimo įmokas į Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registrą nėra įrašomi nuo draudėjo veiklos nevykdymo pradžios. Šie duomenys gali būti įrašomi nuo to momento, kai išnyko aplinkybės, dėl kurių buvo nustatyta, kad draudėjas veiklos nevykdo. Apdraustieji asmenys yra informuojami apie jiems apskaičiuotų draudžiamųjų pajamų sumų ir socialinio draudimo įmokų neįrašymą į Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registrą. Pagal veiklos nevykdančio draudėjo teiktus socialinio draudimo pranešimus duomenys apie apdraustajam asmeniui apskaičiuotas draudžiamųjų pajamų sumas ir socialinio draudimo įmokas į Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registrą įrašomi, jeigu apdraustasis asmuo įrodo, kad sumos, nuo kurių priskaičiuotos draudžiamosios pajamos, yra jam apskaičiuotos už darbo funkcijų vykdymą. Šie duomenys gali būti įrašomi už laikotarpį, kuriuo apdraustasis asmuo įrodė sumų, nuo kurių priskaičiuotos draudžiamosios pajamos, gavimą už darbo funkcijų vykdymą. Draudėjo veiklos nevykdymo nustatymo tvarką, apdraustojo asmens sumų, nuo kurių priskaičiuotos draudžiamosios pajamos, gavimą už darbo funkcijų vykdymą įrodinėjimo tvarką, socialinio draudimo pranešimų ir kitų dokumentų formas, jų pateikimo, apdraustųjų asmenų informavimo apie jiems apskaičiuotų draudžiamųjų pajamų sumų ir socialinio draudimo įmokų neįrašymą bei duomenų įrašymo į Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registrą terminus ir tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
@@ -438,13 +480,25 @@ Apdraustieji asmenys, socialinio draudimo išmokų ir kitų išmokų, kurių mok
 
 19 straipsnis. Atsakomybė už ne laiku ir neteisingą socialinio draudimo įmokų mokėjimą
 
-1. Už pavėluotai į Fondą pervestas socialinio draudimo įmokas skaičiuojami delspinigiai. Delspinigiai pradedami skaičiuoti nuo kitos dienos po to, kai socialinio draudimo įmokos turėjo būti sumokėtos, ir baigiami skaičiuoti socialinio draudimo įmokų sumokėjimo dieną įskaitytinai. Delspinigiai negali būti skaičiuojami ilgiau kaip 180 dienų nuo teisės priverstinai išieškoti socialinio draudimo įmokas atsiradimo dienos. Delspinigių dydį ir jo apskaičiavimo tvarką nustato Lietuvos Respublikos finansų ministras (toliau – finansų ministras).
+1. Už pavėluotai į Fondą pervestas socialinio draudimo įmokas (išskyrus įmokas už šio įstatymo 5 straipsnio 2 ir 3 dalyse nurodytus asmenis) skaičiuojami delspinigiai. Delspinigiai pradedami skaičiuoti nuo kitos dienos po to, kai socialinio draudimo įmokos turėjo būti sumokėtos, ir baigiami skaičiuoti socialinio draudimo įmokų sumokėjimo dieną įskaitytinai. Delspinigiai negali būti skaičiuojami ilgiau kaip 180 dienų nuo teisės priverstinai išieškoti socialinio draudimo įmokas atsiradimo dienos. Delspinigių dydį ir jo apskaičiavimo tvarką nustato Lietuvos Respublikos finansų ministras (toliau – finansų ministras).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 2. Jeigu patikrinimo metu nustatoma, kad socialinio draudimo įmokos neteisėtai sumažintos, priskaičiuojama trūkstama socialinio draudimo įmokų suma ir skiriama 50 procentų šios sumos dydžio bauda. Šiuo atveju delspinigiai, numatyti šio straipsnio 1 dalyje, neskaičiuojami. Jeigu draudėjas pastebėjo, kad priskaičiavo per mažas socialinio draudimo įmokas, bet iki datos, nurodytos pavedime patikrinti draudėją (jeigu pavedimo nėra, – iki tikrinimo pradžios), klaidas savanoriškai ištaisė, sumokėjo trūkstamą socialinio draudimo įmokų sumą, pateikė patikslintus socialinio draudimo pranešimus ir informavo apie apdraustųjų asmenų draudžiamąsias pajamas, bauda už padarytą pažeidimą neskiriama. Šiuo atveju delspinigiai skaičiuojami šio straipsnio 1 dalyje nustatyta tvarka.
 
-3. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti socialinio draudimo įmokų į Fondą įsiskolinimo mokėjimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą įsiskolinimo grąžinimo grafiką, kuris negali būti ilgesnis negu 4 metai. Pažeidus mokėjimo grafiką, vykdomas socialinio draudimo įmokų įsiskolinimo išieškojimas priverstine tvarka.
+3. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti socialinio draudimo įmokų į Fondą įsiskolinimo mokėjimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą įsiskolinimo grąžinimo grafiką, kuris negali būti ilgesnis negu 4 metai. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma neviršija 1 500 eurų, socialinio draudimo įmokų įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, vykdomas socialinio draudimo įmokų įsiskolinimo išieškojimas priverstine tvarka.
 
-4. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą įsiskolinimo grąžinimo grafiką, kuris negali būti ilgesnis negu 4 metai. Pažeidus mokėjimo grafiką, vykdomas delspinigių išieškojimas priverstine tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
+
+4. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą įsiskolinimo grąžinimo grafiką, kuris negali būti ilgesnis negu 4 metai. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma neviršija 1 500 eurų, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, vykdomas delspinigių išieškojimas priverstine tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 5. Fondo administravimo įstaigos Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atleisti draudėją nuo:
 
@@ -550,11 +604,19 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 3. Fondo valdyba nedarbo socialinio draudimo lėšas Užimtumo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti Vyriausybės ar jos įgaliotos institucijos nustatytais terminais ir tvarka perveda Lietuvos Respublikos socialinės apsaugos ir darbo ministerijai (toliau – Socialinės apsaugos ir darbo ministerija) Užimtumo fondui sudaryti. Nedarbo socialinio draudimo lėšų Užimtumo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti dydis nustatomas Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu.
 
-4. Už įmokų pervedimą ar surinkimą ir pervedimą į fondus pensijų kaupimo bendrovės, Privalomojo sveikatos draudimo fondas ir Užimtumo fondas moka Fondo valdybai Fondo veiklos sąnaudų kompensacijas. Šių kompensacijų apskaičiavimo ir mokėjimo tvarką nustato Fondo valdybos direktorius. Nustatytu laiku nepervedus kompensacijos ar jos dalies, už kiekvieną pradelstą dieną skaičiuojami finansų ministro nustatyto dydžio delspinigiai, taikomi už pavėluotą mokesčių mokėjimą, nuo nepervestos kompensacijos sumos.
+4. Už įmokų pervedimą ar surinkimą ir pervedimą į fondus pensijų kaupimo bendrovės, Privalomojo sveikatos draudimo fondas, Ilgalaikio darbo išmokų fondas, Garantinis fondas ir Užimtumo fondas moka Fondo valdybai Fondo veiklos sąnaudų kompensacijas. Šių kompensacijų apskaičiavimo ir mokėjimo tvarką nustato Fondo valdybos direktorius. Nustatytu laiku nepervedus kompensacijos ar jos dalies, už kiekvieną pradelstą dieną skaičiuojami finansų ministro nustatyto dydžio delspinigiai, taikomi už pavėluotą mokesčių mokėjimą, nuo nepervestos kompensacijos sumos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
+
+5. Nustatytu laiku nepervedus lėšų Fondo administravimo įstaigų mokamoms išmokoms, finansuojamoms iš valstybės biudžeto, Europos Sąjungos struktūrinių ir kitų fondų bei šaltinių, mokėti, už kiekvieną pradelstą dieną skaičiuojami finansų ministro nustatyto dydžio delspinigiai, taikomi už pavėluotą mokesčių mokėjimą, nuo laiku nepervestos sumos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 26 straipsnis. Fondo valdybos mokami delspinigiai
 
@@ -908,7 +970,11 @@ FONDO ADMINISTRAVIMO ĮSTAIGŲ TEISĖS, SPRENDIMŲ IR VEIKSMŲ APSKUNDIMAS
 
 2) kreiptis į įmonių, įstaigų, organizacijų vadovus dėl aplinkybių ir sąlygų, trukdančių Fondo administravimo įstaigų valstybės tarnautojams tinkamai atlikti pareigas. Įmonių, įstaigų, organizacijų vadovai privalo išnagrinėti Fondo administravimo įstaigų valstybės tarnautojų nurodymus ir nedelsdami pranešti Fondo administravimo įstaigai apie priimtas priemones.
 
-6. Fondo valdybos direktorius ir jo pavaduotojai turi teisę atsisakyti socialinio draudimo išmokos arba išmokos, kuri teisės aktų nustatyta tvarka mokėta Fondo administravimo įstaigų iš valstybės biudžeto lėšų, permokos išieškojimo, jeigu išmokos permokos teisės aktų nustatyta tvarka nėra galimybės išieškoti arba jeigu ji yra susidariusi ne dėl išmokos gavėjo kaltės (nesąžiningumo) ir nėra galimybės teisės aktų nustatyta tvarka jos išieškoti iš kaltų asmenų (jų teisių ir pareigų perėmėjų), arba jeigu jos neįmanoma išieškoti dėl objektyvių priežasčių, arba ją išieškoti netikslinga socialiniu ir (ar) ekonominiu požiūriu, kai: nerasta asmens turto arba rastas turtas yra nelikvidus (mažai likvidus); išieškojimo išlaidos didesnės už išmokos permoką; netikslinga išieškoti išmokos permoką, kadangi fizinio asmens ekonominė (socialinė) padėtis yra sunki: fiziniam asmeniui reikia valstybės paramos (asmuo yra pensinio amžiaus, neįgalusis (iki 2005 m. liepos 1 d. – invalidas), asmeniui reikalingas gydymas, medicininė profilaktika ir (ar) reabilitacija, asmuo yra bedarbis, gauna socialinę pašalpą) arba tokia parama jam jau teikiama.
+6. Fondo valdybos direktorius ir jo pavaduotojai turi teisę atsisakyti socialinio draudimo išmokos arba kitos išmokos, kurios mokėjimas pavestas Fondo valdybos teritoriniams skyriams, permokos išieškojimo, jeigu išmokos permokos nėra galimybės išieškoti arba jeigu ji yra susidariusi ne dėl išmokos gavėjo kaltės (nesąžiningumo) ir nėra galimybės jos išieškoti iš kaltų asmenų (jų teisių ir pareigų perėmėjų), arba jeigu jos neįmanoma išieškoti dėl objektyvių priežasčių, arba ją išieškoti netikslinga socialiniu ir (ar) ekonominiu požiūriu, kai: nerasta asmens turto arba rastas turtas yra nelikvidus (mažai likvidus); išieškojimo išlaidos didesnės už išmokos permoką; netikslinga išieškoti išmokos permoką, kadangi fizinio asmens ekonominė (socialinė) padėtis yra sunki: fiziniam asmeniui reikia valstybės paramos (asmuo yra pensinio amžiaus, neįgalusis (iki 2005 m. liepos 1 d. – invalidas), asmeniui reikalingas gydymas, medicininė profilaktika ir (ar) reabilitacija, asmuo yra bedarbis, gauna socialinę pašalpą) arba tokia parama jam jau teikiama.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 7. Šio įstatymo 20 straipsnio 3 dalies 2 punkte numatytais atvejais duomenys apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsiant, ne vėliau kaip per 24 valandas, pateikiami Hipotekos registrui ir priverstinė hipoteka (įkeitimas) įregistruojama Hipotekos registre Hipotekos registro nuostatuose nustatyta tvarka. Sprendimas dėl skolos išieškojimo iš priverstine hipoteka įkeisto turto yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka.
 
