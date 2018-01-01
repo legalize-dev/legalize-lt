@@ -4,7 +4,7 @@ identifier: "TAR.55B9E4E382B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-04-10"
-last_updated: "2015-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.55B9E4E382B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.09)
 
-Suvestinė redakcija nuo 2015-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2019-09-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 18-0; Žin. 1990, Nr.17-439, i. k. 090XX01ISTA000I-130
 
@@ -180,7 +180,11 @@ Nr. XII-1517, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21280
 
 12) Lietuvos banko valdybos pirmininko darbo kabinete;
 
-13) Lietuvos kariuomenės vado, Jungtinio štabo viršininko, kariuomenės pajėgų rūšių ir karinių dalinių vadų darbo kabinetuose;
+13) Lietuvos kariuomenės vado, Gynybos štabo viršininko, kariuomenės pajėgų rūšių ir karinių dalinių vadų darbo kabinetuose;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-542, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11939
 
 14) Lietuvos Respublikos diplomatinių atstovybių ir konsulinių įstaigų bei jų padalinių, specialiųjų misijų, esančių užsienio valstybėse, vadovų darbo kabinetuose.
 
@@ -621,4 +625,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1517, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21280
 
 Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo Nr. I-130 4 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-542, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11939
+
+Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo Nr. I-130 5 straipsnio pakeitimo įstatymas
 
