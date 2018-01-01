@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2017-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
 
@@ -1379,10 +1379,6 @@ c) ėmėsi techninių, organizacinių, personalo valdymo priemonių, skirtų tol
 1. Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal:
 
 1) kainos ar sąnaudų ir kokybės santykį. Vertinant atsižvelgiama į kainą arba sąnaudas ir kriterijus, susijusius su pirkimo objektu, įskaitant kokybinius, aplinkosaugos ir (arba) socialinius kriterijus, pavyzdžiui:
-
-a) techninius pranašumus, estetines ir funkcines charakteristikas, prieinamumą, tinkamumą visiems vartotojams, socialines, aplinkosaugines ir inovatyvias charakteristikas bei sąžiningos prekybos sąlygas (pavyzdžiui, taikant šį kriterijų gali būti vertinama, kiek tiekėjo siūlomas atlyginimas pirkimo sutartį vykdysiantiems darbuotojams viršija jo arba ūkio subjekto, kurio pajėgumais remiamasi, kilmės šalyje nustatytą minimalų darbo užmokestį);
-
-1 punkto a papunkčio  redakcija nuo 2018-01-01:
 
 a) techninius pranašumus, estetines ir funkcines charakteristikas, prieinamumą, tinkamumą visiems vartotojams, socialines, aplinkosaugines ir inovatyvias charakteristikas bei sąžiningos prekybos sąlygas. Darbų pirkimuose privaloma įtraukti šį kriterijų įvertinant, kiek tiekėjo siūlomas atlyginimas pirkimo sutartį vykdysiantiems darbuotojams viršija jo arba ūkio subjekto, kurio pajėgumais remiamasi, kilmės šalyje nustatytą minimalų darbo užmokestį;
 
