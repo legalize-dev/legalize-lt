@@ -4,7 +4,7 @@ identifier: "TAR.3EB34933E485"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-13"
-last_updated: "2017-06-05"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2017-06-05 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-11
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
 
@@ -1722,6 +1722,12 @@ Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodek
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
+
+8. Pagal vykdomuosius dokumentus, kai pagal Civilinio proceso kodeksą vykdymo procese valstybei atstovauja Valstybinė mokesčių inspekcija, laiku nesumokėtų valstybės naudai išieškotinų sumų įskaitymui iki vykdomųjų dokumentų pateikimo vykdyti Civilinio proceso kodekso nustatyta tvarka mutatis mutandis taikoma šio Įstatymo 87 straipsnio 1 dalis.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-374, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09154
 
 Straipsnio pakeitimai:
 
