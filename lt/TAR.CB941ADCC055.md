@@ -4,7 +4,7 @@ identifier: "TAR.CB941ADCC055"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-01"
-last_updated: "2017-12-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2017-12-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
 
@@ -96,7 +96,11 @@ Siekdamos užtikrinti teisėtumą ir teisėtvarką aplinkos apsaugos ir gamtos i
 
 8) esant šiame Įstatyme numatytiems pagrindams, duoda fiziniams ir juridiniams asmenims privalomuosius nurodymus;
 
-9) taiko aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidėjams šiame ir kituose įstatymuose nustatytas teisinio poveikio priemones – nustatyta tvarka skiria administracines nuobaudas (įstatymų nustatytais atvejais perduoda medžiagą teisėsaugos institucijoms spręsti klausimą dėl kaltų asmenų patraukimo baudžiamojon atsakomybėn) ir ekonomines baudas, sustabdo aplinkai kenksmingą veiklą, panaikina taršos integruotos prevencijos ir kontrolės leidimų, taršos leidimų galiojimą, taiko kitas įstatymų nustatytas teisinio poveikio priemones;
+9) taiko aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidėjams šiame ir kituose įstatymuose nustatytas teisinio poveikio priemones – nustatyta tvarka skiria administracines nuobaudas (įstatymų nustatytais atvejais perduoda medžiagą teisėsaugos institucijoms spręsti klausimą dėl kaltų asmenų patraukimo baudžiamojon atsakomybėn) ir ekonomines baudas, sustabdo aplinkai kenksmingą veiklą, taiko kitas įstatymų nustatytas teisinio poveikio priemones;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
 
 10) nustatyta tvarka įvertina aplinkos apsaugos įstatymų ar kitų teisės aktų pažeidimais padarytą žalą aplinkai ir teikia ieškinius dėl jos atlyginimo;
 
@@ -112,7 +116,11 @@ Siekdamos užtikrinti teisėtumą ir teisėtvarką aplinkos apsaugos ir gamtos i
 
 16) vertina teisės aktų nustatyta tvarka gautą informaciją apie ūkio subjektų veiklą.
 
-17) prireikus atlieka patikrinimus prieš išduodami, pakeisdami, atnaujindami taršos integruotos prevencijos ir kontrolės leidimus, taršos leidimus, taip pat prireikus ir jeigu būtina ištirti su aplinkosauga susijusius skundus, ekologinius įvykius, jų priežastis ir pasekmes, teršimo incidentus ir kitus aplinkos apsaugą reglamentuojančių teisės aktų reikalavimų pažeidimus.
+17) prireikus atlieka patikrinimus prieš išduodant ar pakeičiant taršos integruotos prevencijos ir kontrolės leidimus, taršos leidimus, taip pat prireikus ir jeigu būtina ištirti su aplinkosauga susijusius skundus, ekologinius įvykius, jų priežastis ir pasekmes, teršimo incidentus ir kitus aplinkos apsaugą reglamentuojančių teisės aktų reikalavimų pažeidimus.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
 
 Straipsnio pakeitimai:
 
@@ -470,19 +478,11 @@ APLINKAI KENKSMINGOS VEIKLOS SUSTABDYMAS
 
 Kai aplinkai kenksminga veikla sustabdoma šio Įstatymo 25 straipsnio 1 punkte nustatytu atveju, gali būti nustatomas pasirengimo sustabdyti aplinkai kenksmingą veiklą terminas. Aplinkos apsaugos valstybinės kontrolės pareigūnas, atsižvelgdamas į pasekmes, kurias ši veikla gali sukelti jos nesustabdžius nedelsiant, aplinkai kenksmingos veiklos pobūdį, mastą ir kitas aplinkybes bei sąlygas, nustato ne ilgesnį kaip vieno mėnesio terminą pasirengti sustabdyti aplinkai kenksmingą veiklą ir apie tai raštu praneša fiziniam ar juridiniam asmeniui, kurio veikla sustabdoma.
 
-30 straipsnis. Aplinkai kenksmingos veiklos sustabdymas panaikinant taršos integruotos prevencijos ir kontrolės leidimo arba taršos leidimo galiojimą
+30 straipsnis. Neteko galios nuo 2018-01-01
 
-Jeigu aplinkai kenksmingą veiklą vykdo fizinis ar juridinis asmuo, kuriam yra išduotas taršos integruotos prevencijos ir kontrolės leidimas arba taršos leidimas, šią veiklą sustabdyti galima panaikinant taršos integruotos prevencijos ir kontrolės leidimo arba taršos leidimo galiojimą. Taršos integruotos prevencijos ir kontrolės leidimo arba taršos leidimo galiojimą panaikina regionų aplinkos apsaugos departamentai arba regionų aplinkos apsaugos departamentų aplinkos apsaugos valstybinės kontrolės priežiūrą atliekanti institucija Aplinkos ministerijos nustatyta tvarka.
+Straipsnio naikinimas:
 
-Straipsnio pakeitimai:
-
-Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
-
-Nr. X-1510, 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
-
-Nr. XI-1463, 2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
-
-Nr. XII-294, 2013-05-14, Žin., 2013, Nr. 57-2838 (2013-06-01)
+Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
 
 31 straipsnis. Aplinkai kenksmingos veiklos sustabdymas priimant nutarimą
 
@@ -908,6 +908,14 @@ Nr. XIII-755, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18806
 
 Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 39-5 ir 39-6 straipsnių pakeitimo įstatymas
 
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
+
+Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 3, 6, 11, 27, 35, 37, 48 straipsnių pakeitimo ir 30 straipsnio pripažinimo netekusiu galios įstatymas
+
 21 straipsnis. Privalomojo nurodymo įvykdymo terminai
 
 1. Privalomojo nurodymo įvykdymo terminus, ne ilgesnius kaip 2 mėnesiai, nustato privalomąjį nurodymą duodantis aplinkos apsaugos valstybinės kontrolės pareigūnas pagal tai, koks laikotarpis, atsižvelgiant į objektyvias aplinkybes, yra reikalingas privalomajame nurodyme nustatytiems reikalavimams įgyvendinti.
@@ -1077,6 +1085,12 @@ Pasibaigus pasirengimo sustabdyti aplinkai kenksmingą veiklą terminui, priimam
 1. Nutarimą sustabdyti aplinkai kenksmingą veiklą vykdo juridinio asmens, kurio veikla sustabdoma, vadovas arba fizinis asmuo, dėl kurio jis priimtas.
 
 2. Aplinkos apsaugos valstybinės kontrolės pareigūnas, jei reikia užtikrinti nutarimo sustabdyti aplinkai kenksmingą veiklą vykdymą, gali Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka užplombuoti patalpas, įrenginius ir kt.
+
+3. Informaciją apie neįvykdytą nutarimą sustabdyti aplinkai kenksmingą veiklą aplinkos apsaugos valstybinės kontrolės institucija per 3 darbo dienas nuo šio nutarimo įvykdymo termino pabaigos raštu pateikia institucijai, kuri Lietuvos Respublikos aplinkos apsaugos įstatymo nustatyta tvarka turi teisę panaikinti taršos integruotos prevencijos ir kontrolės leidimo, taršos leidimo galiojimą arba išregistruoti įrenginį, kai stabdoma veikla yra vykdoma taršos integruotos prevencijos ir kontrolės leidimo, taršos leidimo pagrindu ar įregistravus įrenginį. Be to, šią informaciją aplinkos apsaugos valstybinės kontrolės institucija raštu pateikia aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančiai institucijai per 3 darbo dienas nuo nutarimo sustabdyti aplinkai kenksmingą veiklą įvykdymo termino pabaigos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
 
 36 straipsnis. Nutarimo sustabdyti aplinkai kenksmingą veiklą panaikinimas
 
