@@ -4,7 +4,7 @@ identifier: "TAR.B3CC2C0B9BD2"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-10-21"
-last_updated: "2016-08-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2016-08-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2019-10-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
 
@@ -381,6 +381,12 @@ Nr. IX-1941, 2003-12-22, Žin., 2004, Nr. 4-44 (2004-01-07), i. k. 1031010ISTA0I
 2. Paviršiniai vandens telkiniai priskiriami rekreaciniams ištekliams Lietuvos Respublikos teritorijos bendrajame plane, apskričių ir savivaldybių teritorijų planavimo dokumentuose.
 
 3. Maudyklų naudojimas ir maudyklų vandens kokybės rodikliai turi atitikti sveikatos apsaugos ministro nustatytų visuomenės sveikatos saugos reglamentų (higienos normų) reikalavimus.
+
+4. Saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisykles tvirtina savivaldybių tarybos. Prireikus savivaldybių tarybos nustato draudžiamas maudytis vietas ir laiką.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-732, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18801
 
 13 straipsnis. Plaukiojimo priemonių naudojimas vandens telkiniuose
 
