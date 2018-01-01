@@ -4,7 +4,7 @@ identifier: "TAR.46EF9E1D52E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-12-29"
-last_updated: "2017-07-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
 
@@ -34,7 +34,11 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis įstatymas nustato Lietuvos Respublikos diplomatinės tarnybos formavimo ir funkcionavimo teisinius pagrindus, diplomatų ir jų šeimos narių teisinę padėtį ir socialines garantijas.
+1. Šis įstatymas nustato diplomatinės tarnybos formavimo ir funkcionavimo teisinius pagrindus, diplomatų ir jų šeimos narių teisinę padėtį ir socialines garantijas, Lietuvos Respublikos diplomatinių atstovybių užsienio valstybėse, Lietuvos Respublikos atstovybių prie tarptautinių organizacijų, konsulinių įstaigų ir specialiųjų misijų darbuotojų, dirbančių pagal darbo sutartis, darbo apmokėjimo dydžius, sąlygas ir socialines garantijas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-715, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18147
 
 2. Lietuvos Respublikos diplomatinės tarnybos teisinį pagrindą sudaro Lietuvos Respublikos Konstitucija, Lietuvos Respublikos valstybės tarnybos įstatymas (toliau – Valstybės tarnybos įstatymas), šis įstatymas, Lietuvos Respublikos konsulinis statutas ir kiti Lietuvos Respublikos įstatymai, Lietuvos Respublikos tarptautinės sutartys, tarp jų 1961 m. Vienos konvencija dėl diplomatinių santykių, kiti teisės aktai. Valstybės tarnybos įstatymas, darbo santykius ir socialines garantijas nustatantys įstatymai bei kiti teisės aktai diplomatams taikomi tiek, kiek jų statuso ir socialinių garantijų nenustato šis įstatymas.
 
@@ -1208,7 +1212,13 @@ personalas
 
 3) aptarnaujantis personalas - asmenys ne diplomatai, kurie aptarnauja Lietuvos Respublikos diplomatinę atstovybę ar konsulinę įstaigą.
 
-2. Su Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos darbuotojais, kurie nėra valstybės tarnautojai ar kariai, Užsienio reikalų ministerija ar jos įgaliotos Lietuvos Respublikos diplomatinės atstovybės užsienio valstybėse, Lietuvos Respublikos atstovybės prie tarptautinių organizacijų, konsulinės įstaigos, specialiosios misijos sudaro terminuotas darbo sutartis.
+2. Su Lietuvos Respublikos diplomatinės atstovybės, konsulinės įstaigos ar specialiosios misijos darbuotojais, kurie nėra valstybės tarnautojai ar kariai, (administratoriais, raštvedžiais, sekretoriais, specialiaisiais kurjeriais, ūkvedžiais, vairuotojais, vyresniaisiais specialiaisiais kurjeriais, valytojais, kiemsargiais) Užsienio reikalų ministerija ar jos įgaliotos Lietuvos Respublikos diplomatinės atstovybės, konsulinės įstaigos, specialiosios misijos sudaro terminuotas darbo sutartis. Užsienio reikalų ministras tvirtina tipines šių pareigybių aprašymų formas, kuriose nurodomi bendri specialieji reikalavimai, taikomi pareigybei, ir bendros (konkrečiam darbui atlikti reikalingos) darbo funkcijos, (toliau – tipinė pareigybės aprašymo forma) ir darbuotojų pareigybių aprašymus, kuriuose gali būti nurodyti ir kiti, negu nurodyta tipinėje pareigybės aprašymo formoje, specialieji reikalavimai, taikomi konkrečiai pareigybei, ir funkcijos.
+
+TAR pastaba. 2 dalyje nurodytiems darbuotojams, kurių darbo užmokestis įsigaliojus įstatymui Nr. XIII-715  yra mažesnis, palyginti su iki šio įstatymo įsigaliojimo (2018-01-01) buvusiu nustatytu darbo užmokesčiu, ne ilgiau kaip iki 2018 m. gruodžio 31 d. mokamas iki 2017 m. gruodžio 31 d. jiems nustatytas darbo užmokestis (pareiginė alga su priedais).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-715, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18147
 
 3. Lietuvos Respublikos specialiųjų atašė, tarp jų ir Lietuvos Respublikos gynybos atašė, skyrimą ir veiklą reglamentuoja Vyriausybės patvirtinti Lietuvos Respublikos specialiųjų atašė nuostatai.
 
@@ -1504,9 +1514,9 @@ Nr. XI-870, 2010-06-03, Žin., 2010, Nr. 71-3548 (2010-06-19)
 
 Nr. XI-1947, 2012-03-29, Žin., 2012, Nr. 44-2141 (2012-04-14)
 
-XI SKYRIUS
+X1 SKYRIUS
 
-BAIGIAMOSIOS NUOSTATOS
+LIETUVOS RESPUBLIKOS DIPLOMATINIŲ ATSTOVYBIŲ, KONSULINIŲ ĮSTAIGŲ IR SPECIALIŲJŲ MISIJŲ DARBUOTOJŲ, DIRBANČIŲ PAGAL DARBO SUTARTIS, DARBO UŽMOKESTIS IR SOCIALINĖS GARANTIJOS
 
 281 straipsnis. Diplomato sutuoktinio diplomato teisė atkurti diplomato statusą
 
@@ -1517,4 +1527,64 @@ BAIGIAMOSIOS NUOSTATOS
 Įstatymas papildytas straipsniu:
 
 Nr. XI-870, 2010-06-03, Žin., 2010, Nr. 71-3548 (2010-06-19)
+
+701 straipsnis. Lietuvos Respublikos diplomatinių atstovybių, konsulinių įstaigų ir specialiųjų misijų darbuotojų, dirbančių pagal darbo sutartis, darbo užmokestis
+
+1. Darbuotojams, nurodytiems šio įstatymo 14 straipsnio 2 dalyje (toliau šiame skyriuje – darbuotojai), mokamas darbo užmokestis susideda iš:
+
+1) pareiginės algos;
+
+2) priemokų už papildomą darbo krūvį, kai yra padidėjęs darbų mastas atliekant pareigybės aprašyme nustatytas funkcijas neviršijant nustatytos darbo laiko trukmės, ar papildomų pareigų ar užduočių, nenustatytų pareigybės aprašyme, vykdymą;
+
+3) mokėjimo už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą ir darbą esant nukrypimų nuo normalių darbo sąlygų;
+
+4) premijų už labai gerą darbą ar atlikus vienkartines užduotis.
+
+2. Darbuotojų darbo apmokėjimo sistemą, atsižvelgdamas į šio skyriaus nuostatas, nustato užsienio reikalų ministras. Darbo apmokėjimo sistemoje nustatomas funkcijų, kurios gali būti įrašytos į konkretų pareigybės aprašymą pagal šio įstatymo 14 straipsnio 2 dalį, sąrašas, taip pat nustatomi pareiginės algos koeficiento didinimo pagal šio straipsnio 5 ir 6 dalis dydžiai, detalizuojami konkretaus dydžio nustatymo kriterijai (veiklos sudėtingumas, darbo krūvis, atsakomybės lygis ir panašiai), priemokų ir premijų mokėjimo tvarka ir sąlygos.
+
+3. Darbuotojo pareiginė alga nustatoma taikant pareiginės algos koeficientą, kurio vienetas yra lygus Seimo patvirtintam pareiginės algos baziniam dydžiui, nustatomam Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo nustatyta tvarka:
+
+1) administratoriaus – 11,50;
+
+2) sekretoriaus, raštvedžio, ūkvedžio, vairuotojo – 7,59;
+
+3) valytojo, kiemsargio – 5,75;
+
+4) vyresniojo specialiojo kurjerio – 4,60;
+
+5) specialiojo kurjerio – 3,84.
+
+4. Pareiginės algos dydis apskaičiuojamas pareiginės algos koeficientą, kuris gali būti padidintas šio straipsnio 5, 6 ir 7 dalyse nustatyta tvarka, dauginant iš pareiginės algos bazinio dydžio ir iš Vyriausybės nustatyto gyvenimo lygio vietos koeficiento.
+
+5. Jeigu darbuotojo pareigybės aprašyme numatytos ir kitos, negu nurodyta tipinėje pareigybės aprašymo formoje, funkcijos, už jų atlikimą darbuotojo pareiginės algos koeficientas didinamas iki 70 procentų darbo apmokėjimo sistemoje, nurodytoje šio straipsnio 2 dalyje, nustatyta tvarka.
+
+6. Pareiginės algos koeficientas gali būti didinamas iki 10 procentų atsižvelgiant į darbuotojo turimą darbo diplomatinėse atstovybėse, konsulinėse įstaigose ar specialiosiose misijose patirtį.
+
+7. Pareiginės algos koeficiento padidinimas šio straipsnio 5 ir 6 dalyse nustatytais pagrindais negali viršyti 70 procentų šio straipsnio 3 dalyje nustatyto pareiginės algos koeficiento dydžio.
+
+8. Darbuotojo pareiginės algos koeficientas, apskaičiuotas šio straipsnio 3–7 dalyse nustatyta tvarka, nurodomas darbo sutartyje. Šis koeficientas nustatomas iš naujo, kai pakeičiamos darbuotojo pareigybės aprašyme nustatytos kitos, negu nurodyta tipiniame pareigybės aprašyme, funkcijos.
+
+9. Priemokos už papildomą darbo krūvį, kai yra padidėjęs darbų mastas atliekant pareigybės aprašyme nustatytas funkcijas neviršijant nustatytos darbo laiko trukmės, ar papildomų pareigų ar užduočių, nenustatytų pareigybės aprašyme, vykdymą gali siekti iki 50 procentų pareiginės algos dydžio.
+
+10. Už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą ir darbą esant nukrypimų nuo normalių darbo sąlygų darbuotojui mokama Lietuvos Respublikos darbo kodekso nustatyta tvarka.
+
+11. Darbuotojui ne daugiau kaip vieną kartą per metus gali būti skiriama premija už labai gerą darbą ar vienkartinių užduočių atlikimą. Premija negali viršyti darbuotojui nustatytos pareiginės algos dydžio. Premijos skiriamos neviršijant Užsienio reikalų ministerijai darbo užmokesčiui skirtų lėšų.
+
+702 straipsnis. Darbuotojų socialinės garantijos
+
+1. Darbuotojui, kurio materialinė būklė tapo sunki dėl jo paties ligos, šeimos narių (sutuoktinio, vaiko (įvaikio), motinos (įmotės), tėvo (įtėvio), brolio (įbrolio), sesers (įseserės), taip pat išlaikytinių, kurių globėju ar rūpintoju yra paskirtas darbuotojas, ligos ar mirties, stichinės nelaimės ar turto netekimo, jeigu yra darbuotojo rašytinis prašymas ir pateikti atitinkamą aplinkybę patvirtinantys dokumentai, gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa.
+
+2. Mirus darbuotojui, jo šeimos nariams gali būti išmokama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa, jeigu yra mirusio darbuotojo šeimos narių rašytinis prašymas ir pateikti mirties faktą patvirtinantys dokumentai.
+
+3. Materialines pašalpas, nurodytas šio straipsnio 1 ir 2 dalyse, skiria užsienio reikalų ministras ar jo įgaliotas asmuo iš Užsienio reikalų ministerijai skirtų asignavimų.
+
+4. Vyriausybės nustatyta tvarka darbuotojas gali būti apdraudžiamas sveikatos draudimu arba jam gali būti kompensuotos sveikatos draudimo išlaidos, jeigu jis nėra apdraustas (apsidraudęs) sveikatos draudimu, galiojančiu toje valstybėje, kurioje yra Lietuvos Respublikos diplomatinė atstovybė, konsulinė įstaiga ar specialioji misija, kurioje yra darbuotojo darbo vieta, jam gali būti skiriamos gyvenamosios patalpos ar išmoka (kompensacija) apsirūpinti gyvenamosiomis patalpomis, taip pat gali būti kompensuojamos persikėlimo į užsienio valstybę, kurioje yra Lietuvos Respublikos diplomatinė atstovybė, konsulinė įstaiga ar specialioji misija, ir iš jos išlaidos. Šioje dalyje nurodytos socialinės garantijos nustatomos darbo sutartyje.
+
+Papildyta skyriumi:
+
+Nr. XIII-715, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18147
+
+XI SKYRIUS
+
+BAIGIAMOSIOS NUOSTATOS
 
