@@ -4,7 +4,7 @@ identifier: "TAR.033D686E8F1B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-30"
-last_updated: "2017-07-25"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos transporto lengvatų įstatymas
 
-Suvestinė redakcija nuo 2017-07-25 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-890, i. k. 1001010ISTAIII-1605
 
@@ -135,7 +135,13 @@ Nr. X-1612, 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
 
 6) žuvusių Lietuvos Respublikos nepriklausomybės gynėjų šeimos nariai, nukentėję nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos;
 
-7) pasipriešinimo 1940–1990 metų okupacijoms dalyviai – kariai savanoriai, sukakę 70 metų ir vyresni.
+7) pasipriešinimo 1940–1990 metų okupacijoms dalyviai – kariai savanoriai, sukakę 70 metų ir vyresni;
+
+8) nuo 1939–1990 metų okupacijų nukentėję asmenys – politiniai kaliniai ir tremtiniai, buvę getų, koncentracijos ar kitokio tipo prievartinių stovyklų kaliniai, sukakę 70 metų ir vyresni.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-853, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20336
 
 2. Teisę įsigyti vienkartinį arba terminuotą vardinį važiavimo tolimojo, vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais bilietą su 50 procentų nuolaida turi:
 
@@ -143,7 +149,11 @@ Nr. X-1612, 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
 
 2) pasipriešinimo 1940–1990 metų okupacijoms dalyviai – kariai savanoriai, jaunesni kaip 70 metų, ir laisvės kovų dalyviai;
 
-3) nuo 1939–1990 metų okupacijų nukentėję asmenys – politiniai kaliniai ir tremtiniai, buvę getų, koncentracijos ar kitokio tipo prievartinių stovyklų kaliniai;
+3) nuo 1939–1990 metų okupacijų nukentėję asmenys – politiniai kaliniai ir tremtiniai, buvę getų, koncentracijos ar kitokio tipo prievartinių stovyklų kaliniai, jaunesni kaip 70 metų;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-853, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20336
 
 4) Lietuvos Respublikos nepriklausomybės gynėjai, nukentėję nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos;
 
