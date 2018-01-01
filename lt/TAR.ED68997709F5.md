@@ -4,7 +4,7 @@ identifier: "TAR.ED68997709F5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2017-12-14"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ entry_into_force_conditions: "1. Įstatymo 19 straipsnio 3 dalies 2 punktas įsi
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2017-12-14
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-10
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
 
@@ -468,9 +468,7 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 3. Lengvatinis 9 procentų PVM tarifas taikomas:
 
-1) iki 2017 m. gruodžio 31 d. šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti;
-
-TAR pastaba. 1 punkto nuostatos taikomos tame punkte nurodytoms prekėms, faktiškai patiektoms nuo 2017 m. spalio 1 d. iki 2017 m. gruodžio 31 d.
+1) šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti;
 
 Straipsnio punkto pakeitimai:
 
@@ -482,19 +480,27 @@ Nr. XIII-154, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29793
 
 Nr. XIII-638, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15114
 
+Nr. XIII-817, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20011
+
 2) knygoms ir neperiodiniams informaciniams leidiniams (įskaitant vadovėlius, pratybų sąsiuvinius, enciklopedijas, žodynus, žinynus, informacines brošiūras, nuotraukų ir reprodukcijų albumus, vaikiškas knygeles su paveikslėliais, piešimo ir spalvinimo knygeles, spausdintas ar rankraštines natas, žemėlapius, schemas ir brėžinius, tačiau išskyrus kalendorius, užrašų knygeles ir kitus panašaus pobūdžio spaudinius);
 
-3) turizmo veiklą reglamentuojančių teisės aktų nustatyta tvarka teikiamoms apgyvendinimo paslaugoms;
+3) iki 2022 m. gruodžio 31 d. turizmo veiklą reglamentuojančių teisės aktų nustatyta tvarka teikiamoms apgyvendinimo paslaugoms;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-817, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20011
 
 4) laikraščiams, žurnalams ir kitiems periodiniams leidiniams, išskyrus erotinio ir (ar) smurtinio pobūdžio arba profesinės etikos nesilaikančius leidinius, kuriuos tokiais pripažino teisės aktų įgaliota institucija, bei spausdintą produkciją, kurioje mokama reklama sudaro daugiau kaip 4/5 viso leidinio ploto;
 
 5) keleivių vežimo Susisiekimo ministerijos ar jos įgaliotos institucijos arba savivaldybių nustatytais reguliaraus susisiekimo maršrutais paslaugoms, taip pat šiame punkte nurodytų keleivių bagažo vežimo paslaugoms.
 
-4. Lengvatinis 5 procentų PVM tarifas taikomas vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka, taip pat nekompensuojamiesiems receptiniams vaistams, kurių išorinės pakuotės apmokestinamoji vertė yra didesnė negu 300 eurų.
+4. Lengvatinis 5 procentų PVM tarifas taikomas vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka, taip pat nekompensuojamiesiems receptiniams vaistams.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2749, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26871
+
+Nr. XIII-817, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20011
 
 5. Lengvatinis 5 procentų PVM tarifas taikomas neįgaliųjų techninės pagalbos priemonėms ir jų remontui.
 
@@ -2592,7 +2598,15 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
 
-2) kitoje valstybėje narėje įsikūrusiems užsienio apmokestinamiesiems asmenims.
+2) kitoje valstybėje narėje įsikūrusiems užsienio apmokestinamiesiems asmenims;
+
+3) Ekonominio bendradarbiavimo ir plėtros organizacijos valstybėje narėje, kurioje nėra PVM (ar jam tapataus mokesčio), įsikūrusiems užsienio apmokestinamiesiems asmenims.
+
+TAR pastaba. 3 punkto nuostatos taikomos grąžinant pridėtinės vertės mokestį už prekes ir (arba) paslaugas, kurios įsigytos arba dėl kurių prievolė Lietuvos Respublikoje apskaičiuoti importo pridėtinės vertės mokestį atsiranda nuo 2018 m. sausio 1 d.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-816, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20010
 
 Straipsnio pakeitimai:
 
