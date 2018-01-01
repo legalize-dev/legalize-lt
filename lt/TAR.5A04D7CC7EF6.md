@@ -4,7 +4,7 @@ identifier: "TAR.5A04D7CC7EF6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-06-06"
-last_updated: "2014-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5A04D7CC7EF6"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos bibliotekų įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1245, i. k. 0951010ISTA000I-920
 
@@ -187,7 +187,11 @@ Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2
 
 3) Lietuvos mokslų akademijos biblioteka;
 
-4) Lietuvos technikos biblioteka;
+4) Neteko galios nuo 2018-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-676, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16706
 
 5) Vilniaus universiteto biblioteka.
 
@@ -417,7 +421,11 @@ LIETUVOS BIBLIOTEKŲ FONDAS IR JO APSAUGA
 
 2. Pagrindiniai fondai yra sudaromi bibliotekos vartotojams aptarnauti ir turi atitikti bibliotekos veiklos tikslą bei vartotojų poreikius.
 
-3. Depozitiniai fondai yra sudaromi iš retai vartotojų naudojamų, bet nepraradusių savo kultūrinės, mokslinės bei istorinės vertės dokumentų, siekiant optimaliai panaudoti bibliotekų saugyklas ir sumažinti saugojimo išlaidas. Depozitinis fondas yra saugomas Nacionalinėje bibliotekoje (universalūs dokumentai), Lietuvos technikos bibliotekoje (specialūs patentiniai ir norminiai dokumentai) ir Lietuvos aklųjų bibliotekoje (dokumentai aklųjų (Brailio) raštu, specialiai silpnaregiams išspausdinti didesniu šriftu, ir garsiniai dokumentai).
+3. Depozitiniai fondai yra sudaromi iš retai vartotojų naudojamų, bet nepraradusių savo kultūrinės, mokslinės ir istorinės vertės dokumentų, siekiant optimaliai panaudoti bibliotekų saugyklas ir sumažinti saugojimo išlaidas. Depozitinis fondas yra saugomas Nacionalinėje bibliotekoje, išskyrus Lietuvos aklųjų bibliotekoje saugomus dokumentus aklųjų (Brailio) raštu, specialiai silpnaregiams išspausdintus didesniu šriftu, ir garsinius dokumentus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-676, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16706
 
 4. Mainų fonduose kaupiami dubletai, neprofiliniai ir specialiai įsigyti keistis su kitomis bibliotekomis bei informacijos įstaigomis dokumentai.
 
@@ -484,6 +492,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
 
 Lietuvos Respublikos bibliotekų įstatymo 2, 3, 4, 6, 7, 8, 9, 10, 11, 12 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 3-1, 6-1 straipsniais ĮSTATYMAS
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-676, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16706
+
+Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 7 ir 17 straipsnių pakeitimo įstatymas
 
 20 straipsnis. Lietuvos bibliotekų fondas
 
