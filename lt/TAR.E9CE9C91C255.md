@@ -4,7 +4,7 @@ identifier: "TAR.E9CE9C91C255"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-22"
-last_updated: "2017-10-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2017-10-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-05
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
 
@@ -120,13 +120,13 @@ Nr. XIII-380, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09161
 
 6) moterys, išskyrus tas, kurios raštu pareiškė norą tapti karo prievolininkėmis ir (ar) yra baigusios aukštojoje mokykloje medicinos, slaugos ar akušerijos studijų programas;
 
-7) valstybės pripažintų tradicinių Lietuvos religinių bendruomenių ir bendrijų dvasininkai.
-
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos karo prievolės įstatymo (2011 m. birželio 23 d. redakcija; Žin., 2011, Nr. 86-4150) 3 straipsnio 7 punktas prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsniui, 139 straipsnio 2 daliai.
+7) netenka galios 2018-01-01.
 
 Straipsnio punkto pakeitimai:
 
 Nr. KT9-N7/2017, 2017-07-04, paskelbta TAR 2017-07-04, i. k. 2017-11471
+
+Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
 
 II SKYRIUS
 
@@ -362,9 +362,19 @@ Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 
 13) teisės aktų nustatyta tvarka paskirtiems vieninteliu neįgalaus asmens globėju ar ribotai veiksnaus asmens rūpintoju;
 
+131) juridinio asmens teises turinčių Lietuvos religinių bendruomenių ar bendrijų nariams, kurie šių religinių bendruomenių ar bendrijų kanonų, statutų ar kitų normų nustatyta tvarka yra išrinkti ar paskirti atlikti pastoracinį darbą tose religinėse bendruomenėse ar bendrijose;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
+
 14) krašto apsaugos ministro nustatyta tvarka – atliekantiems privalomąją pradinę karo tarnybą būtų padaryta neproporcingai didelė žala jo asmeniniams ar visuomeniniams interesams, kurios būtų galima išvengti, jeigu karo prievolininkas privalomąją pradinę karo tarnybą atliktų kitu metu.
 
-2. Šio straipsnio 1 dalies 2, 4, 5, 6, 7, 8, 9, 11 ir 13 punktuose nurodytiems karo prievolininkams privalomoji pradinė karo tarnyba neatidedama, jeigu jie raštu pareiškė norą atlikti privalomąją pradinę karo tarnybą.
+2. Šio straipsnio 1 dalies 2, 4, 5, 6, 7, 8, 9, 11, 13 ir 131 punktuose nurodytiems karo prievolininkams privalomoji pradinė karo tarnyba neatidedama, jeigu jie raštu pareiškė norą atlikti privalomąją pradinę karo tarnybą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
 
 3. Vykdant šaukimą, privalomoji pradinė karo tarnyba atidedama karo prievolininkams:
 
@@ -538,7 +548,11 @@ TARNYBA PASKELBUS MOBILIZACIJĄ
 
 1. Paskelbus visuotinę mobilizaciją, visi Lietuvos kariuomenės personalo rezervo karo prievolininkai yra šaukiami atlikti karo tarnybą. Paskelbus dalinę mobilizaciją, karo prievolininkai yra šaukiami, jeigu Seimo nutarime ar Respublikos Prezidento dekrete dėl mobilizacijos skelbimo yra nurodyta pašaukti kariuomenės personalo rezervo karo prievolininkus atlikti karo tarnybą.
 
-2. Tarnyba paskelbus mobilizaciją atliekama kariniuose vienetuose.
+2. Tarnyba paskelbus mobilizaciją atliekama kariniuose vienetuose. Atlikti karo tarnybą pašaukti juridinio asmens teises turinčių Lietuvos religinių bendruomenių ar bendrijų nariai, kurie šių religinių bendruomenių ar bendrijų kanonų, statutų ar kitų normų nustatyta tvarka yra išrinkti ar paskirti atlikti pastoracinį darbą tose religinėse bendruomenėse ar bendrijose, kariniuose vienetuose skiriami į karo kapeliono pareigas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
 
 3. Paskelbus mobilizaciją, neparengtajame kariuomenės personalo rezerve esantys karo prievolininkai šaukiami į karinius mokymus įgyti pagrindinį karinį parengtumą. Įgiję pagrindinį karinį parengtumą pagal turimą karinę ir (ar) civilinę specialybę karo prievolininkai paskiriami į pareigas kariniame vienete.
 
@@ -1393,6 +1407,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-586, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11956
 
 Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 6 straipsnio pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
+
+Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 3, 15 ir 26 straipsnių pakeitimo įstatymas
 
 411 straipsnis. Nuolatinę privalomąją pradinę karo tarnybą atliekančių Lietuvos Respublikos piliečių skatinimas
 
