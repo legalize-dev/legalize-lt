@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2017-12-05"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2017-12-05 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -289,7 +289,11 @@ Nr. XII-891, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05570
 
 3. Jeigu bylą nagrinėja vienas teisėjas, dėl jam pareikšto nušalinimo nusprendžia jis pats. Jis turi teisę padaryti pareiškimą dėl šio nušalinimo.
 
-4. Teisėjo nusišalinimą turi patvirtinti teismo pirmininkas ar to teismo Baudžiamųjų bylų skyriaus pirmininkas. Jeigu teismo pirmininkas ar Baudžiamųjų bylų skyriaus pirmininkas teisėjo nusišalinimo nepatvirtina, nepagrįstą nusišalinimą pareiškęs teisėjas privalo nagrinėti bylą iš esmės.
+4. Teisėjo nusišalinimą turi patvirtinti teismo pirmininkas, pirmininko pavaduotojas, to teismo Baudžiamųjų bylų skyriaus pirmininkas ar jų paskirtas teisėjas. Jeigu teismo pirmininkas, pirmininko pavaduotojas, Baudžiamųjų bylų skyriaus pirmininkas ar jų paskirtas teisėjas teisėjo nusišalinimo nepatvirtina, nepagrįstą nusišalinimą pareiškęs teisėjas privalo nagrinėti bylą iš esmės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2480, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17978
 
 5. Dėl teisiamojo posėdžio sekretoriaus, vertėjo, eksperto, specialisto ar prokuroro nušalinimo nusprendžia bylą nagrinėjantis teismas.
 
@@ -666,10 +670,6 @@ Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 1. Procesinės prievartos priemonės turi būti taikomos tik tais atvejais, kai be jų negalima pasiekti reikiamų proceso tikslų. Bet kokios procesinės prievartos priemonės taikymas turi būti nedelsiant nutrauktas, kai tai tampa nereikalinga.
 
 2. Taikant procesines prievartos priemones bei atliekant šiame Kodekse numatytus tyrimo veiksmus, draudžiama naudoti smurtą, grasinti, atlikti žmogaus orumą žeminančius bei sveikatai kenkiančius veiksmus. Panaudoti fizinę jėgą leidžiama tik tiek, kiek tai būtina proceso veiksmo atlikimo trukdymams pašalinti.
-
-II skyrius
-
-pagrindinės ŠiO kodeksO sąvokos
 
 37 straipsnis. Svarbios asmens nedalyvavimo baudžiamajame procese priežastys
 
@@ -1139,11 +1139,15 @@ Straipsnio pakeitimai:
 
 Nr. XI-2003, 2012-05-10, Žin., 2012, Nr. 57-2826 (2012-05-19)
 
-124 straipsnis. Suimto asmens pristatymas kitos apylinkės teismo ikiteisminio tyrimo teisėjui
+124 straipsnis. Suimto asmens pristatymas kitos apylinkės teismo ar kitų teismo rūmų ikiteisminio tyrimo teisėjui
 
-1. Suimtas asmuo, kurio per keturiasdešimt aštuonias valandas nuo suėmimo neįmanoma pristatyti suėmimą paskyrusiam ikiteisminio tyrimo teisėjui arba kitam tos pačios apylinkės teismo ikiteisminio tyrimo teisėjui, pristatomas kitos apylinkės teismo ikiteisminio tyrimo teisėjui. Apklausęs suimtą asmenį, teisėjas palieka nutartį skirti suėmimą galioti ir nustato konkretų suėmimo terminą arba priima nutartį pakeisti šią kardomąją priemonę ar ją panaikinti.
+1. Suimtas asmuo, kurio per keturiasdešimt aštuonias valandas nuo suėmimo neįmanoma pristatyti suėmimą paskyrusiam ikiteisminio tyrimo teisėjui arba kitam tos pačios apylinkės teismo, o kai teismas sudarytas iš teismo rūmų, – tų pačių teismo rūmų ikiteisminio tyrimo teisėjui, pristatomas atitinkamai kitos apylinkės teismo arba to teismo kitų teismo rūmų ikiteisminio tyrimo teisėjui. Apklausęs suimtą asmenį, teisėjas palieka nutartį skirti suėmimą galioti ir nustato konkretų suėmimo terminą arba priima nutartį pakeisti šią kardomąją priemonę ar ją panaikinti.
 
-2. Jeigu suimto asmens apklausoje negali dalyvauti gynėjas arba teismui negali būti pateikta visa suėmimo klausimui išspręsti reikalinga medžiaga, o teisėjas nemano, kad reikia šią kardomąją priemonę pakeisti ar ją panaikinti, jis laikinai palieka galioti nutartį skirti suėmimą ir nustato terminą, per kurį suimtasis turi būti pristatytas teisėjui pagal šio Kodekso 123 straipsnio 3 dalį sprendimui dėl tolesnio suėmimo.
+2. Jeigu suimto asmens apklausoje negali dalyvauti gynėjas arba teismui negali būti pateikta visa suėmimo klausimui išspręsti reikalinga medžiaga, o teisėjas nemano, kad reikia šią kardomąją priemonę pakeisti ar ją panaikinti, jis laikinai palieka galioti nutartį skirti suėmimą ir nustato terminą, per kurį suimtasis turi būti pristatytas teisėjui pagal šio Kodekso 123 straipsnio 3 dalį sprendimui dėl tolesnio suėmimo priimti.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2480, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17978
 
 130 straipsnis. Suimtojo arba jo gynėjo teisė apskųsti nutartį paskirti suėmimą arba nutartį pratęsti suėmimo terminą, arba nutartį atsisakyti skirti suėmimą ir skirti kitą kardomąją priemonę
 
@@ -1569,15 +1573,21 @@ Straipsnio pakeitimai:
 
 Nr. XI-1852, 2011-12-22, Žin., 2011, Nr. 164-7797 (2011-12-31)
 
-229 straipsnis. Baudžiamosios bylos perdavimas iš teismo, kuriam ji teisminga, kitam teismui
+229 straipsnis. Baudžiamosios bylos perdavimas iš teismo, kuriam ji teisminga, kitam teismui arba kitiems teismo rūmams
 
-1. Siekiant užtikrinti svarbius valstybės saugumo, viešosios tvarkos ar teisingumo interesus, baudžiamoji byla gali būti perduota iš teismo, kuriam ji teisminga, kitam teismui. Šiuo pagrindu bylą perduoti kitam teismui leidžiama tik tol, kol ji nepradėta nagrinėti teisiamajame posėdyje.
+1. Siekiant užtikrinti svarbius valstybės saugumo, viešosios tvarkos ar teisingumo interesus, baudžiamoji byla gali būti perduota iš teismo, kuriam ji teisminga, kitam teismui arba kitiems teismo rūmams. Šiuo pagrindu bylą perduoti kitam teismui arba kitiems teismo rūmams leidžiama tik tol, kol ji nepradėta nagrinėti teisiamajame posėdyje.
 
-2. Klausimą dėl bylos perdavimo iš vieno teismo kitam teismui išsprendžia:
+2. Klausimą dėl bylos perdavimo iš vieno teismo kitam teismui arba kitiems teismo rūmams išsprendžia:
 
 1) apygardos teismo, kurio veiklos teritorijoje yra šie teismai, pirmininkas ar šio apygardos teismo Baudžiamųjų bylų skyriaus pirmininkas, – kai byla perduodama iš vieno apylinkės teismo kitam apylinkės teismui;
 
-2) Lietuvos apeliacinio teismo pirmininkas ar šio teismo Baudžiamųjų bylų skyriaus pirmininkas, – kai byla perduodama iš vienos apygardos apylinkės teismo kitos apygardos apylinkės teismui arba iš vieno apygardos teismo kitam apygardos teismui.
+2) Lietuvos apeliacinio teismo pirmininkas ar šio teismo Baudžiamųjų bylų skyriaus pirmininkas, – kai byla perduodama iš vienos apygardos apylinkės teismo kitos apygardos apylinkės teismui arba iš vieno apygardos teismo kitam apygardos teismui;
+
+3) apylinkės teismo pirmininkas, – kai byla perduodama kitiems to teismo rūmams.
+
+Straipsnio pakeitimai:
+
+Nr. XII-2480, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17978
 
 234 straipsnis. Bylos perdavimas pagal teismingumą, bylos išskyrimas, bylos nagrinėjimo atidėjimas
 
@@ -3497,7 +3507,11 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 
 221 straipsnis. Teismo sudėtis
 
-1. Apylinkių teismuose baudžiamąsias bylas nagrinėja vienas teisėjas, išskyrus atvejus, kai bylai nagrinėti apylinkės teismo pirmininkas sudaro trijų teisėjų kolegiją.
+1. Apylinkių teismuose baudžiamąsias bylas nagrinėja vienas teisėjas, išskyrus atvejus, kai bylai nagrinėti apylinkės teismo pirmininkas ar jo pavaduotojas sudaro trijų teisėjų kolegiją. Apylinkės teisme, kuris sudarytas iš teismo rūmų, teisėjų kolegija sudaroma iš teisėjų, kurie paskirti į tuos pačius teismo rūmus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2480, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17978
 
 2. Apygardų teismuose baudžiamąsias bylas nagrinėja šio Kodekso 225 straipsnio 2 dalyje numatytos sudėties teismas.
 
@@ -4725,6 +4739,12 @@ Teisėjas yra Lietuvos Aukščiausiojo Teismo pirmininkas, Lietuvos Aukščiausi
 
 2. Teismas yra: apylinkės teismo teisėjas ar apylinkės teismo teisėjų kolegija, apygardos teismo teisėjas ar apygardos teismo Baudžiamųjų bylų skyriaus teisėjų kolegija, Lietuvos apeliacinio teismo teisėjas ar šio teismo Baudžiamųjų bylų skyriaus teisėjų kolegija, apygardos teismo ar Lietuvos apeliacinio teismo mišri Baudžiamųjų bylų skyriaus ir Civilinių bylų skyriaus trijų teisėjų kolegija, Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus trijų ar išplėstinė septynių teisėjų kolegija arba Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus plenarinė sesija, arba mišri Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus ir Civilinių bylų skyriaus trijų ar išplėstinė septynių teisėjų kolegija, arba Lietuvos Aukščiausiojo Teismo plenarinė sesija, nagrinėjantys ir priimantys sprendimus šiame Kodekse numatytais klausimais. Bylos teisėjams paskirstomos ir teisėjų kolegijos sudaromos laikantis nustatytos bylų paskirstymo ir teisėjų kolegijų sudarymo tvarkos.
 
+3. Apylinkės teismas gali būti sudarytas iš teritorinių padalinių – apylinkės teismo rūmų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XII-2480, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17978
+
 Straipsnio pakeitimai:
 
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
@@ -4999,7 +5019,11 @@ Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
 
 4. Dėl ikiteisminio tyrimo pareigūno nušalinimo nusprendžia prokuroras. Dėl prokuroro nušalinimo nusprendžia ikiteisminio tyrimo teisėjas. Ikiteisminio tyrimo pareigūnas ar prokuroras per vieną dieną nuo to momento, kai gautas nušalinimo pareiškimas, perduoda jį atitinkamai prokurorui ar ikiteisminio tyrimo teisėjui. Prokuroras ar ikiteisminio tyrimo teisėjas privalo per dvi dienas išspręsti pareikšto nušalinimo klausimą. Jeigu nušalinimas atmetamas, prokuroras priima nutarimą, o ikiteisminio tyrimo teisėjas – nutartį. Šie dokumentai pareiškėjui paskelbiami pasirašytinai.
 
-5. Dėl ikiteisminio tyrimo teisėjo nušalinimo nusprendžia apylinkės teismo pirmininkas šio straipsnio 4 dalyje nustatyta tvarka.
+5. Dėl ikiteisminio tyrimo teisėjo nušalinimo nusprendžia apylinkės teismo pirmininkas, pirmininko pavaduotojas ar jų paskirtas teisėjas šio straipsnio 4 dalyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2480, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17978
 
 6. Pareiškimo dėl nušalinimo padavimas proceso nesustabdo.
 
@@ -5039,9 +5063,17 @@ Nr. XII-1295, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16788
 
 69 straipsnis. Prašymas užsienio valstybei išduoti asmenį
 
-1. Lietuvos Respublikos tarptautinėse sutartyse numatytais atvejais ir tvarka Lietuvos Respublikos generalinė prokuratūra arba Lietuvos Respublikos teisingumo ministerija kreipiasi į užsienio valstybės įstaigą prašydama išduoti Lietuvos Respublikos pilietį arba kitą asmenį, jeigu pradėtas jo baudžiamasis persekiojimas arba priimtas apkaltinamasis nuosprendis.
+1. Lietuvos Respublikos tarptautinėse sutartyse numatytais atvejais ir tvarka Lietuvos Respublikos generalinė prokuratūra arba Lietuvos Respublikos teisingumo ministerija, gavusi šio straipsnio 3 dalyje nurodytus dokumentus, kreipiasi į užsienio valstybės įstaigą prašydama išduoti Lietuvos Respublikos pilietį arba kitą asmenį, jeigu pradėtas jo baudžiamasis persekiojimas arba priimtas apkaltinamasis nuosprendis.
 
-2. Lietuvos Respublikos prašyme išduoti asmenį nurodoma: įtariamojo (kaltinamojo, nuteistojo) pavardė, vardas, gimimo metai, asmens kodas, pilietybė; padarytos nusikalstamos veikos aplinkybės; Lietuvos Respublikos baudžiamojo kodekso straipsnio, numatančio padarytą nusikalstamą veiką, tekstas; įtariamojo (kaltinamojo, nuteistojo) išorės požymiai. Prie prašymo pridedama prašomo išduoti asmens nuotrauka, į užsienio kalbą išverstas ir reikiamai patvirtintas nuosprendžio nuorašas, taip pat kiti Lietuvos Respublikos tarptautinėse sutartyse numatyti dokumentai.
+2. Lietuvos Respublikos prašyme išduoti asmenį nurodoma: įtariamojo (kaltinamojo, nuteistojo) pavardė, vardas, gimimo metai, asmens kodas, pilietybė; padarytos nusikalstamos veikos aplinkybės; Lietuvos Respublikos baudžiamojo kodekso straipsnio, numatančio padarytą nusikalstamą veiką, tekstas; įtariamojo (kaltinamojo, nuteistojo) išorės požymiai. Prie prašymo pridedama prašomo išduoti asmens nuotrauka, nutarties skirti suėmimą arba nuosprendžio nuorašas, taip pat kiti Lietuvos Respublikos tarptautinėse sutartyse numatyti dokumentai.
+
+3. Įsiteisėjusio apkaltinamojo nuosprendžio, kuriuo buvo paskirta laisvės atėmimo bausmė, nuorašą, o tais atvejais, kai yra priimta ir įsiteisėjusi nutartis panaikinti bausmės vykdymo atidėjimą arba nutartis dėl lygtinai iš pataisos įstaigos paleisto asmens pasiuntimo į pataisos įstaigą atlikti likusios laisvės atėmimo bausmės, ir nutarties nuorašą kartu su šio straipsnio 2 dalyje nurodyta informacija nuosprendį arba nutartį priėmęs teismas, nusprendęs, kad reikalinga kreiptis dėl asmens išdavimo, siunčia Lietuvos Respublikos teisingumo ministerijai.
+
+4. Prašymo išduoti asmenį ir prie jo pridedamų dokumentų vertimą į reikalingą užsienio valstybės kalbą užtikrina institucija, kuri kreipiasi į užsienio valstybės įstaigą dėl asmens išdavimo.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 711 straipsnis. Asmens perdavimas pagal Europos arešto orderį
 
@@ -5451,21 +5483,17 @@ Straipsnio pakeitimai:
 
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
-111 straipsnis. Civilinis atsakovas
+111 straipsnis. Procesinių dokumentų pateikimas
 
-1. Civiliniais atsakovais gali būti tėvai, globėjai, rūpintojai ar kiti asmenys, taip pat įmonės, įstaigos ir organizacijos, kurie pagal įstatymus materialiai atsako už nusikalstama įtariamojo arba kaltinamojo veika padarytą žalą. Asmuo įtraukiamas į bylą kaip civilinis atsakovas ikiteisminio tyrimo pareigūno, prokuroro nutarimu, teisėjo ar teismo nutartimi.
+Iš teismo rūmų sudarytam apylinkės teismui pagal šį Kodeksą teiktini procesiniai dokumentai gali būti pateikiami bet kuriuose to teismo rūmuose, išskyrus bylos nagrinėjimo teisme metu pateikiamus procesinius dokumentus. Bylos nagrinėjimo teisme metu procesiniai dokumentai pateikiami apylinkės teisme, kurio teisėjas ar teisėjai nagrinėja bylą, o kai apylinkės teismas sudarytas iš teismo rūmų, – teismo rūmuose, į kuriuos paskirti teisėjas ar teisėjai nagrinėja bylą.
 
-2. Civilinis atsakovas turi šio Kodekso 110 straipsnio 2 dalyje nustatytas civilinio ieškovo teises.
+Papildyta straipsniu:
 
-3. Civilinis atsakovas privalo:
+Nr. XII-2480, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17978
 
-1) kviečiamas dalyvauti nagrinėjant bylą pirmosios instancijos teisme;
+II skyrius
 
-2) laikytis nustatytos teismo proceso tvarkos.
-
-Straipsnio pakeitimai:
-
-Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
+pagrindinės ŠiO kodeksO sąvokos
 
 112 straipsnis. Civilinio ieškinio pareiškimas
 
@@ -5597,11 +5625,23 @@ Nr. IX-2170, 2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
 
 1. Suėmimas gali būti skiriamas įtariamajam, kuris nėra sulaikytas, ar įtariamajam, kuris yra sulaikytas šio Kodekso 140 straipsnyje nustatyta tvarka.
 
-2. Prokuroras, manydamas, kad įtariamajam, kuris nėra sulaikytas, būtina skirti suėmimą, kreipiasi su pareiškimu į tyrimo atlikimo vietos apylinkės teismo ikiteisminio tyrimo teisėją. Prokuroro pareiškime turi būti nurodyti šio Kodekso 125 straipsnio 2 dalyje nustatyti duomenys. Teisėjas, nusprendęs patenkinti prokuroro pareiškimą, priima nutartį skirti suėmimą, nusprendęs atsisakyti pareiškimą patenkinti, – nutartį atsisakyti skirti suėmimą ar nutartį atsisakyti skirti suėmimą ir skirti kitą kardomąją priemonę.
+2. Prokuroras, manydamas, kad įtariamajam, kuris nėra sulaikytas, būtina skirti suėmimą, kreipiasi su pareiškimu į tyrimo atlikimo vietos apylinkės teismo, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų ikiteisminio tyrimo teisėją. Prokuroro pareiškime turi būti nurodyti šio Kodekso 125 straipsnio 2 dalyje nustatyti duomenys. Teisėjas, nusprendęs patenkinti prokuroro pareiškimą, priima nutartį skirti suėmimą, nusprendęs atsisakyti pareiškimą patenkinti, – nutartį atsisakyti skirti suėmimą ar nutartį atsisakyti skirti suėmimą ir skirti kitą kardomąją priemonę.
 
-3. Remiantis šio straipsnio 2 dalyje nurodyta nutartimi suimtą asmenį ne vėliau kaip per keturiasdešimt aštuonias valandas nuo suėmimo momento prokuroras pristato ikiteisminio tyrimo teisėjui, o jeigu tokių galimybių nėra, – kitam tyrimo atlikimo vietos apylinkės teismo ikiteisminio tyrimo teisėjui. Teisėjas privalo pristatytą asmenį apklausti dėl suėmimo pagrįstumo. Suimto asmens apklausoje dalyvauja gynėjas ir prokuroras. Apklausęs suimtą asmenį, teisėjas priima vieną iš šių sprendimų: nutartį skirti suėmimą palikti galioti (šiuo atveju teisėjas nustato konkretų suėmimo terminą) arba pakeisti šią kardomąją priemonę ar ją panaikinti.
+Straipsnio dalies pakeitimai:
 
-4. Šio Kodekso 140 straipsnyje nustatyta tvarka sulaikytą asmenį, kuriam reikia skirti suėmimą, prokuroras ne vėliau kaip per keturiasdešimt aštuonias valandas nuo sulaikymo momento kartu su pareiškimu dėl suėmimo pristato tyrimo atlikimo vietos apylinkės teismo ikiteisminio tyrimo teisėjui. Teisėjas privalo pristatytą asmenį apklausti dėl suėmimo pagrįstumo. Sulaikyto asmens apklausoje dalyvauja gynėjas ir prokuroras. Apklausęs sulaikytą asmenį, teisėjas patenkina prokuroro pareiškimą ir priima nutartį skirti suėmimą, kurioje nustatomas konkretus suėmimo terminas, arba atsisako patenkinti pareiškimą ir priima nutartį atsisakyti skirti suėmimą ar nutartį atsisakyti skirti suėmimą ir skirti kitą kardomąją priemonę.
+Nr. XII-2480, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17978
+
+3. Remiantis šio straipsnio 2 dalyje nurodyta nutartimi suimtą asmenį ne vėliau kaip per keturiasdešimt aštuonias valandas nuo suėmimo momento prokuroras pristato ikiteisminio tyrimo teisėjui, o jeigu tokių galimybių nėra, – kitam tyrimo atlikimo vietos apylinkės teismo, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų ikiteisminio tyrimo teisėjui. Teisėjas privalo pristatytą asmenį apklausti dėl suėmimo pagrįstumo. Suimto asmens apklausoje dalyvauja gynėjas ir prokuroras. Apklausęs suimtą asmenį, teisėjas priima vieną iš šių sprendimų: nutartį skirti suėmimą palikti galioti (šiuo atveju teisėjas nustato konkretų suėmimo terminą) arba pakeisti šią kardomąją priemonę ar ją panaikinti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2480, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17978
+
+4. Šio Kodekso 140 straipsnyje nustatyta tvarka sulaikytą asmenį, kuriam reikia skirti suėmimą, prokuroras ne vėliau kaip per keturiasdešimt aštuonias valandas nuo sulaikymo momento kartu su pareiškimu dėl suėmimo pristato tyrimo atlikimo vietos apylinkės teismo, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų ikiteisminio tyrimo teisėjui. Teisėjas privalo pristatytą asmenį apklausti dėl suėmimo pagrįstumo. Sulaikyto asmens apklausoje dalyvauja gynėjas ir prokuroras. Apklausęs sulaikytą asmenį, teisėjas patenkina prokuroro pareiškimą ir priima nutartį skirti suėmimą, kurioje nustatomas konkretus suėmimo terminas, arba atsisako patenkinti pareiškimą ir priima nutartį atsisakyti skirti suėmimą ar nutartį atsisakyti skirti suėmimą ir skirti kitą kardomąją priemonę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2480, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17978
 
 5. Teisėjas, priimdamas nutartį skirti suėmimą arba palikdamas šią nutartį galioti, gali pavesti prokurorui per nustatytą terminą surinkti papildomą medžiagą. Gavęs šią medžiagą, teisėjas gali nutartį skirti suėmimą palikti galioti ir nustatyti naują suėmimo terminą arba pakeisti šią kardomąją priemonę ar ją panaikinti.
 
@@ -5615,7 +5655,11 @@ Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 
 127 straipsnis. Suėmimo taikymo trukmė ir jo termino pratęsimas
 
-1. Suėmimas negali būti taikomas ilgiau kaip šešis mėnesius. Konkretų suėmimo terminą nustato ikiteisminio tyrimo teisėjas nutartyje skirti suėmimą, tačiau iš karto suėmimas negali būti paskirtas ilgesnis kaip trys mėnesiai. Nepilnamečiui iš karto suėmimas negali būti paskirtas ilgesnis kaip du mėnesiai. Suėmimo terminą pratęsti, bet ne ilgiau kaip iki šešių mėnesių, o nepilnamečiams – ne ilgiau kaip iki keturių mėnesių gali tas pats arba kitas tos pačios ar kitos apylinkės teismo ikiteisminio tyrimo teisėjas. Suėmimo skyrimo taisyklės, skirtos nepilnamečiams, taip pat taikomos asmeniui, kuris teisėjo sprendimo priėmimo metu yra sulaukęs pilnametystės.
+1. Suėmimas negali būti taikomas ilgiau kaip šešis mėnesius. Konkretų suėmimo terminą nustato ikiteisminio tyrimo teisėjas nutartyje skirti suėmimą, tačiau iš karto suėmimas negali būti paskirtas ilgesnis kaip trys mėnesiai. Nepilnamečiui iš karto suėmimas negali būti paskirtas ilgesnis kaip du mėnesiai. Suėmimo terminą pratęsti, bet ne ilgiau kaip iki šešių mėnesių, o nepilnamečiams – ne ilgiau kaip iki keturių mėnesių gali tas pats arba kitas tos pačios, o kai teismas sudarytas iš teismo rūmų, – tų pačių teismo rūmų ikiteisminio tyrimo teisėjas ar kitos apylinkės teismo arba to teismo kitų teismo rūmų ikiteisminio tyrimo teisėjas. Suėmimo skyrimo taisyklės, skirtos nepilnamečiams, taip pat taikomos asmeniui, kuris teisėjo sprendimo priėmimo metu yra sulaukęs pilnametystės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2480, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17978
 
 2. Dėl ypatingo bylos sudėtingumo ar didelės apimties šio straipsnio 1 dalyje numatytą suėmimo terminą apygardos teismo teisėjas gali pratęsti, bet ne ilgiau kaip iki trijų mėnesių, o nepilnamečiams – ne ilgiau kaip iki dviejų mėnesių. Suėmimo terminas gali būti pratęstas pakartotinai, bet ikiteisminio tyrimo metu terminas negali tęstis ilgiau kaip devynis mėnesius, o nepilnamečių suėmimo terminas – ne ilgiau kaip šešis mėnesius. Bylose dėl sunkių ar labai sunkių nusikaltimų, taip pat bylose, kuriose nusikalstamų veikų padarymu įtariami ar kaltinami bendrininkų grupės, organizuotos grupės ar nusikalstamo susivienijimo nariai, arba kai asmenys suimti užsienio valstybėje, ikiteisminio tyrimo metu suėmimo terminas negali tęstis ilgiau kaip aštuoniolika mėnesių, o nepilnamečių suėmimo terminas – ilgiau kaip dvylika mėnesių.
 
