@@ -4,7 +4,7 @@ identifier: "TAR.3A756D83A99B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2015-06-20"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3A756D83A99B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2015-06-20 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-05-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 104-2322; Žin. 1996, Nr.5-0, i. k. 0951010ISTA00I-1113
 
@@ -63,11 +63,29 @@ BENDROSIOS NUOSTATOS
 
 2. Biudžetinė įstaiga įgyja civilines teises, prisiima civilines pareigas ir jas įgyvendina per biudžetinės įstaigos vadovą. Biudžetinė įstaiga teisės aktų nustatytais atvejais gali įgyti civilines teises ir pareigas per biudžetinės įstaigos savininką ar savininko teises ir pareigas įgyvendinančią instituciją.
 
-3. Biudžetinė įstaiga gali steigti filialus Lietuvos Respublikoje.
+3. Biudžetinė įstaiga savininko teises ir pareigas įgyvendinančios institucijos sprendimu gali įstatymų nustatyta tvarka jungtis į asociacijas, kurių paskirtis – įgyvendinti viešuosius interesus, jeigu toks jungimasis neprieštarauja biudžetinės įstaigos steigimo dokumentams ir veiklos tikslams. Asociacijos steigėjai ar nariai pagal įstatymus ar asociacijos steigimo dokumentus negali perleisti asociacijai biudžetinės įstaigos savininko biudžetinei įstaigai perduoto ar biudžetinės įstaigos įgyto turto.
 
-4. Biudžetinei įstaigai draudžiama:
+Papildyta straipsnio dalimi:
 
-1) būti kitų juridinių asmenų dalyve;
+Nr. XIII-935, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21610
+
+4. Biudžetinė įstaiga gali steigti filialus Lietuvos Respublikoje.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-935, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21610
+
+5. Biudžetinei įstaigai draudžiama:
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-935, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21610
+
+1) būti kitų juridinių asmenų dalyve, išskyrus šio straipsnio 3 dalyje numatytą teisę jungtis į asociacijas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-935, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21610
 
 2) steigti atstovybes;
 
