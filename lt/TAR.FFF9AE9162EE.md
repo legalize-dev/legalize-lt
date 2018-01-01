@@ -4,7 +4,7 @@ identifier: "TAR.FFF9AE9162EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-13"
-last_updated: "2016-01-01"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 47-1469, i. k. 0991010ISTAIII-1183
 
@@ -196,11 +196,15 @@ Nr. XII-288, 2013-05-09, Žin., 2013, Nr. 55-2728 (2013-05-28)
 
 7. Nuo mokesčio už aplinkos teršimą pakuotės atliekomis atleidžiami gamintojai ir importuotojai, per mokestinį laikotarpį Lietuvos Respublikos vidaus rinkai tiekiantys ne daugiau kaip 0,5 tonos pakuočių ir tvarkantys pakuočių ir pakuočių atliekų apskaitą aplinkos ministro nustatyta tvarka.
 
-8. Nuo mokesčio už aplinkos teršimą sąvartyne šalinamomis atliekomis atleidžiami sąvartynų operatoriai už pašalintas fosfogipso atliekas.
+8. Nuo mokesčio už aplinkos teršimą sąvartyne šalinamomis atliekomis atleidžiami sąvartynų operatoriai už pašalintas fosfogipso atliekas ir pavojingųjų atliekų sąvartyne šalinamas po pavojingųjų atliekų deginimo susidariusias pavojingąsias atliekas (dugno ir lakiuosius pelenus).
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-321, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07680
 
 Straipsnio pakeitimai:
 
