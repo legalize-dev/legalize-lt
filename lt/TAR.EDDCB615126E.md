@@ -4,7 +4,7 @@ identifier: "TAR.EDDCB615126E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-13"
-last_updated: "2016-06-20"
+last_updated: "2018-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 @D1=19941213;D2=19960709;D3=19960918
 
-Suvestinė redakcija nuo 2016-06-20 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-03-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1958, i. k. 0941010ISTA000I-693
 
@@ -46,7 +46,11 @@ Vilnius
 
 3) profesinės karo tarnybos kariai;
 
-4) Valstybės saugumo departamento sistemos, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos pareigūnai ir Vyriausybinių ryšių centro prie Krašto apsaugos ministerijos civiliai statutiniai valstybės tarnautojai;
+4) Valstybės saugumo departamento sistemos ir Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos pareigūnai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-923, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21595
 
 5) prokuratūros pareigūnai;
 
@@ -202,21 +206,29 @@ Nr. XI-1516, 2011-06-23, Žin., 2011, Nr. 86-4158 (2011-07-13)
 
 14 straipsnis. Pensijos skyrimas iš naujo
 
-1. Jei pareigūnui arba kariui, kuriam paskirta pareigūnų ir karių valstybinė netekto darbingumo pensija, po pensijos paskyrimo pakeičiami netekto darbingumo procentai, pensija turi būti paskirta iš naujo pagal naujus duomenis nuo jų pasikeitimo dienos, bet ne daugiau kaip už 12 mėnesių iki dokumentų pensijai perskaičiuoti gavimo atitinkamoje institucijoje dienos.
+1. Jeigu pareigūnui arba kariui, kuriam paskirta pareigūnų ir karių valstybinė netekto darbingumo pensija, po pensijos paskyrimo nustatomi nauji netekto darbingumo procentai, išskyrus atvejus, kai nustatomi to paties intervalo (nuo 75 iki 100, nuo 60 iki 70 ar nuo 45 iki 55) netekto darbingumo procentai, pensija turi būti paskirta iš naujo pagal naujus duomenis nuo jų nustatymo dienos, bet ne daugiau kaip už 12 mėnesių iki dokumentų pensijai perskaičiuoti gavimo atitinkamoje institucijoje dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-839, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20327
 
 2. Pareigūnui ar kariui, kuriam paskirta pareigūnų ir karių valstybinė pensija, po jos paskyrimo ištarnavusiam ne mažiau kaip dvejus metus, pareigūnų ir karių valstybinė pensija jo prašymu gali būti paskirta iš naujo pagal naujus duomenis. Jeigu iš naujo paskirta pensija yra mažesnė, mokama anksčiau paskirtoji pensija.
 
 15 straipsnis. Pareigūnų ir karių valstybinės pensijos priedas už tarnybą
 
-1. Valstybinės socialinio draudimo bazinės pensijos dydžio priedas skiriamas pareigūnų ir karių valstybinės pensijos už tarnybą gavėjui nuo teisės gauti šią pensiją atsiradimo dienos, tačiau ne daugiau kaip už 12 mėnesių iki dokumentų pensijai skirti gavimo atitinkamoje institucijoje dienos. Šis priedas mokamas, iki asmuo įgis teisę gauti valstybinę socialinio draudimo pensiją, jeigu jis nėra vienas iš asmenų, išvardytų Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–6, 8 ir 9 punktuose, taip pat nėra ūkininkas ar jo partneris pagal Ūkininko ūkio įstatymą arba kitoje valstybėje negauna su darbo santykiais susijusių pajamų bei nėra savarankiškai dirbantis asmuo.
+1. Socialinio draudimo bazinės pensijos dydžio priedas skiriamas ir mokamas pareigūnų ir karių valstybinės pensijos už tarnybą gavėjui nuo teisės gauti šią pensiją atsiradimo dienos, tačiau ne daugiau kaip už 12 mėnesių iki visų dokumentų pensijai skirti gavimo atitinkamoje institucijoje dienos. Šis priedas mokamas, iki asmuo įgis teisę gauti socialinio draudimo pensiją, jeigu jis nėra draudžiamas pensijų socialiniu draudimu pagal Valstybinio socialinio draudimo įstatymą, išskyrus asmenis, nurodytus Valstybinio socialinio draudimo įstatymo 6 straipsnyje, arba kitoje valstybėje negauna su darbo santykiais susijusių pajamų ir nėra savarankiškai dirbantis asmuo.
 
-2. Priedo mokėjimas sustabdomas nuo tos dienos, kurią jo gavėjas tapo vienu iš asmenų, išvardytų Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1–6, 8 ir 9 punktuose, arba ūkininku ar jo partneriu, neatsižvelgiant į valstybinio socialinio draudimo įmokų mokėjimą, arba kitoje valstybėje pradėjo gauti su darbo santykiais susijusių pajamų ar tapo savarankiškai dirbančiu asmeniu. Priedo mokėjimas atnaujinamas nuo tos dienos, kurią asmuo vėl atitinka šio straipsnio 1 dalyje nurodytas sąlygas priedui gauti.
+2. Priedo mokėjimas sustabdomas nuo tos dienos, kurią jo gavėjas pradėtas drausti pensijų socialiniu draudimu pagal Valstybinio socialinio draudimo įstatymą, išskyrus asmenis, nurodytus Valstybinio socialinio draudimo įstatymo 6 straipsnyje, arba kitoje valstybėje pradėjo gauti su darbo santykiais susijusių pajamų ar tapo savarankiškai dirbančiu asmeniu. Priedo mokėjimas atnaujinamas nuo tos dienos, kurią asmuo vėl atitinka šio straipsnio 1 dalyje nurodytas sąlygas priedui gauti.
 
-3. Mirus priedo gavėjui, priedas išmokamas jį palaidojusiems asmenims už mirties mėnesį, jeigu jis dar nebuvo išmokėtas, ir dar vieno mėnesio priedas.
+3. Mirus priedo gavėjui, pirmajam besikreipusiam jį laidojusiam asmeniui išmokamas asmens negautas praėjusio mėnesio priedas, priedas už tą mėnesį, kurį jo gavėjas mirė, ir dar vieno mėnesio priedas. Asmeniui apskaičiuotos kitos priedo sumos, kurios jam priklausė ir kurių jis negavo dėl mirties, išmokamos mirusiojo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio asmens turtas, pateikusiems paveldėjimo teisės liudijimą, arba (ir) mirusįjį pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą.
 
 Straipsnio pakeitimai:
 
 Nr. XII-996, 2014-07-10, paskelbta TAR 2014-07-15, i. k. 2014-10249 (2014-07-15)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-839, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20327
 
 16 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
@@ -272,11 +284,13 @@ Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-1864, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10600
 
-8) mokymosi aukštosiose, specialiosiose vidurinėse, aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų), saugumo ir karo mokyklose laikas. Mokymosi analogiškose kitų valstybių mokyklose laikas gali būti įskaitytas į tarnybos laiką pensijai skirti Lietuvos Respublikos Vyriausybės nustatyta tvarka. Į tarnybos laiką pensijai skirti taip pat įskaitoma pusė mokymosi kitose aukštosiose, aukštesniosiose ir specialiosiose vidurinėse mokyklose laiko, jeigu tarp mokslo baigimo ir stojimo į tarnybą nepraėję 3 mėnesiai. Į 3 mėnesių terminą neįskaičiuojamas ligos, nėštumo ir gimdymo atostogų (moterims, kurios neturėjo teisės į nėštumo ir gimdymo atostogas, – laikotarpis, apimantis 70 kalendorinių dienų iki gimdymo ir 56 kalendorines dienas po gimdymo (komplikuoto gimdymo atveju arba gimus dviem ar daugiau vaikų – 70 kalendorinių dienų), taip pat iki 1995 m. sausio 1 d. prievolės būdu atliktos tikrosios krašto apsaugos tarnybos ar dalyvavimo kariniuose mokymuose laikas.
+8) mokymosi aukštosiose, specialiosiose vidurinėse, aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų), saugumo ir karo bei analogiškose kitų užsienio valstybių mokyklose laikas. Į tarnybos laiką pensijai skirti taip pat įskaitoma pusė mokymosi kitose aukštosiose, aukštesniosiose ir specialiosiose vidurinėse mokyklose laiko, jeigu tarp mokslo baigimo ir stojimo į tarnybą nepraėję 3 mėnesiai. Į 3 mėnesių terminą neįskaičiuojamas ligos, nėštumo ir gimdymo atostogų (moterims, kurios neturėjo teisės į nėštumo ir gimdymo atostogas, – laikotarpis, apimantis 70 kalendorinių dienų iki gimdymo ir 56 kalendorines dienas po gimdymo (komplikuoto gimdymo atveju arba gimus dviem ar daugiau vaikų – 70 kalendorinių dienų), taip pat iki 1995 m. sausio 1 d. prievolės būdu atliktos tikrosios krašto apsaugos tarnybos ar dalyvavimo kariniuose mokymuose laikas.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1864, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10600
+
+Nr. XIII-839, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20327
 
 4. Į Valstybės saugumo departamento sistemos pareigūnų, paskirtų į pareigas iki 2012 m. gruodžio 31 d., tarnybos laiką pensijai skirti įskaitomi laikotarpiai, iki Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymo įsigaliojimo įskaityti į Valstybės saugumo departamento sistemos pareigūnų tarnybos stažą pagal galiojusio Lietuvos Respublikos valstybės saugumo departamento įstatymo 28 straipsnį.
 
@@ -339,6 +353,12 @@ Nr. XII-1192, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14281
 Papildyta straipsnio dalimi:
 
 Nr. XII-1864, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10600
+
+14. Vyriausybinių ryšių centro prie Krašto apsaugos ministerijos civiliams statutiniams valstybės tarnautojams, teisę į pareigūnų ir karių valstybinę pensiją įgijusiems iki 2017 m. gruodžio 31 d. ar iki 2017 m. gruodžio 31 d. ištarnavusiems 5 ir daugiau metų ir įstatymų nustatytą senatvės pensijos amžių sukakusiems po 2017 m. gruodžio 31 d., ši pensija mokama šio įstatymo nustatytomis sąlygomis ir tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-923, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21595
 
 Straipsnio pakeitimai:
 
@@ -754,6 +774,22 @@ Nr. KT18-N9/2016, 2016-06-20, paskelbta TAR 2016-06-20, i. k. 2016-17256
 
 Dėl Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio 3 dalies 1 punkto (2013 m. gruodžio 3 d., 2015 m. birželio 25 d. redakcijos) atitikties Lietuvos Respublikos Konstitucijai
 
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-839, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20327
+
+Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 12, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-923, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21595
+
+Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 1 ir 16 straipsnių pakeitimo įstatymas
+
 2 straipsnis. Pareigūnų ir karių valstybinių pensijų mokėjimo šaltinis
 
 Pareigūnų ir karių valstybinės pensijos ir šio įstatymo 15 straipsnyje nurodytas priedas mokami iš Lietuvos Respublikos valstybės biudžeto lėšų.
@@ -822,11 +858,13 @@ Nr. XII-996, 2014-07-10, paskelbta TAR 2014-07-15, i. k. 2014-10249 (2014-07-15)
 
 12 straipsnis. Pareigūnų ir karių valstybinių pensijų skyrimas
 
-1. Asmenims, paskiausiai tarnavusiems Lietuvos Respublikos prokuratūroje, Lietuvos Respublikos muitinėje, Kalėjimų departamente ar jam pavaldžiose įstaigose bei valstybės įmonėse, Specialiųjų tyrimų tarnyboje, Valstybės saugumo departamento sistemoje, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria atitinkamai Generalinė prokuratūra, Muitinės departamentas prie Finansų ministerijos, Kalėjimų departamentas prie Teisingumo ministerijos, Specialiųjų tyrimų tarnyba, Valstybės saugumo departamentas, o moka Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Socialinės apsaugos ir darbo ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų. Asmenims, paskiausiai tarnavusiems krašto apsaugos sistemoje, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria Krašto apsaugos ministerija, o moka Valstybinio socialinio draudimo fondo valdybos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Krašto apsaugos ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų. Asmenims, paskiausiai tarnavusiems vidaus reikalų sistemoje, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria ir moka Valstybinio socialinio draudimo fondo valdybos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Socialinės apsaugos ir darbo ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų.
+1. Asmenims, paskiausiai tarnavusiems vidaus reikalų sistemoje, Lietuvos Respublikos prokuratūroje, Lietuvos Respublikos muitinėje, Kalėjimų departamente ar jam pavaldžiose įstaigose bei valstybės įmonėse, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria ir moka Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Socialinės apsaugos ir darbo ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų. Asmenims, paskiausiai tarnavusiems Specialiųjų tyrimų tarnyboje, Valstybės saugumo departamento sistemoje, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria atitinkamai Specialiųjų tyrimų tarnyba ar Valstybės saugumo departamentas, o moka Valstybinio socialinio draudimo fondo valdybos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Socialinės apsaugos ir darbo ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų. Asmenims, paskiausiai tarnavusiems krašto apsaugos sistemoje, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria Krašto apsaugos ministerija, o moka Valstybinio socialinio draudimo fondo valdybos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Krašto apsaugos ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
+
+Nr. XIII-839, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20327
 
 2. Skirdamos ir mokėdamos karių ir pareigūnų valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą, šio straipsnio 1 dalyje nurodytos institucijos ir įstaigos vadovaujasi šiuo įstatymu ir Vyriausybės patvirtintais Pareigūnų ir karių valstybinių pensijų skyrimo ir mokėjimo nuostatais (toliau – Nuostatai).
 
@@ -862,7 +900,11 @@ Nr. XII-996, 2014-07-10, paskelbta TAR 2014-07-15, i. k. 2014-10249 (2014-07-15)
 
 3. Nuteistiems už tyčinių nusikaltimų padarymą asmenims pareigūnų ir karių valstybinė pensija neskiriama. Sprendimas dėl pareigūnų ir karių valstybinės pensijos skyrimo asmeniui, kuris yra įtariamasis arba kaltinamasis baudžiamajame procese, priimamas nutraukus ikiteisminį tyrimą, baudžiamąją bylą arba įsiteisėjus teismo nuosprendžiui. Nutraukus ikiteisminį tyrimą, baudžiamąją bylą arba įsiteisėjus išteisinamajam nuosprendžiui, pareigūnų ir karių valstybinė pensija skiriama už visą laikotarpį nuo teisės į pensiją atsiradimo dienos.
 
-4. Pensininkui mirus, pensija išmokama jį palaidojusiems asmenims už mirties mėnesį, jeigu ji dar nebuvo išmokėta, ir dar paskirtos pensijos už vieną mėnesį dydžio suma.
+4. Pareigūnų ir karių valstybinės pensijos gavėjui mirus, pirmajam besikreipusiam jį laidojusiam asmeniui išmokama asmens negauta praėjusio mėnesio pensija, pensija už tą mėnesį, kurį jos gavėjas mirė, ir dar paskirtos pensijos už vieną mėnesį dydžio suma. Asmeniui apskaičiuotos kitos pareigūnų ir karių valstybinių pensijų sumos, kurios jam priklausė ir kurių jis dėl mirties negavo, išmokamos mirusiojo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio asmens turtas, pateikusiems paveldėjimo teisės liudijimą, ir (arba) mirusįjį pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-839, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20327
 
 Straipsnio pakeitimai:
 
