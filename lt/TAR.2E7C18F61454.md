@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2018-01-01"
+last_updated: "2018-01-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-01-01
+Suvestinė redakcija nuo 2018-01-02 iki 2018-05-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -1721,15 +1721,11 @@ XL SKYRIUS
 
 BENDROSIOS NUOSTATOS
 
-591 straipsnis. Vykdymo veiksmų atlikimas kito antstolio veiklos teritorijoje
+591 straipsnis. Vykdymo veiksmų atlikimas kito antstolio aptarnaujamoje teritorijoje
 
-1. Pradėtus vykdymo veiksmus antstolis gali tęsti kito antstolio veiklos teritorijoje, jeigu tai būtina siekiant sėkmingai įvykdyti sprendimą.
+1. Pradėtus vykdymo veiksmus antstolis gali tęsti kito antstolio aptarnaujamoje teritorijoje, jeigu tai būtina siekiant sėkmingai įvykdyti sprendimą.
 
-2. Šio straipsnio 1 dalyje numatytu atveju antstolis surašo motyvuotą patvarkymą tęsti vykdymo veiksmus kito antstolio veiklos teritorijoje. Šį patvarkymą turi patvirtinti rezoliucija apylinkės teismo, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, kurių veiklos teritorijoje yra antstolio kontoros buveinė, teisėjas.
-
-3. Kai yra realus pavojus, kad išieškomas turtas gali būti paslėptas, antstolis be teisėjo leidimo gali tęsti pradėtus vykdymo veiksmus kito antstolio veiklos teritorijoje – areštuoti turtą ir paskirti jo saugotoją. Šiuo atveju apie atliktus vykdymo veiksmus antstolis ne vėliau kaip kitą darbo dieną po jų atlikimo raštu praneša apylinkės teismo, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, kurių veiklos teritorijoje yra antstolio kontoros buveinė, teisėjui.
-
-4. Visais atvejais apie vykdymo veiksmus, atliktus kito antstolio veiklos teritorijoje, antstolis per tris darbo dienas nuo tų veiksmų atlikimo dienos turi raštu pranešti tam antstoliui, kurio veiklos teritorijoje veiksmai buvo atlikti.
+2. Šio straipsnio 1 dalyje numatytu atveju antstolis surašo motyvuotą patvarkymą tęsti vykdymo veiksmus kito antstolio aptarnaujamoje teritorijoje. Antstolio patvirtintos šio patvarkymo kopijos nustatyta tvarka išsiunčiamos vykdymo proceso šalims, kitiems suinteresuotiems asmenims.
 
 Straipsnio pakeitimai:
 
@@ -1738,6 +1734,8 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 Straipsnio pakeitimai:
 
 Nr. XII-2479, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17983
+
+Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 2. Pareiškimus dėl leidimo įeiti į skolininko būstą (šio Kodekso 615 straipsnis), dėl vykdomosios bylos nutraukimo, kai sudaroma taikos sutartis (šio Kodekso 595 straipsnis), dėl atsakomybės už perduoto saugoti turto praradimą (šio Kodekso 619 straipsnis), dėl baudų skyrimo šio Kodekso VI dalyje numatytais atvejais, taip pat kitais klausimais, kylančiais iš vykdymo proceso, teismas išnagrinėja ne vėliau kaip per septynias dienas nuo jų priėmimo dienos. Antstolis kartu su pareiškimu turi teismui pateikti kitus reikalingus dokumentus.
 
@@ -2025,7 +2023,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 590 straipsnis. Vykdymo vieta
 
-1. Jeigu skolininkas yra fizinis asmuo, vykdomąjį dokumentą antstolis vykdo pagal šio asmens gyvenamąją vietą, jo turto buvimo vietą arba jo darbo vietą.
+1. Jeigu skolininkas yra fizinis asmuo, vykdomąjį dokumentą antstolis vykdo pagal šio asmens gyvenamąją vietą, jo turto buvimo vietą arba jo darbo vietą. Nepiniginio pobūdžio vykdomuosius dokumentus dėl laikinųjų apsaugos priemonių taikymo antstolis išieškotojo prašymu gali vykdyti pagal skolininko arba išieškotojo gyvenamąją vietą ar kitą jo buvimo vietą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 2. Jeigu skolininkas yra juridinis asmuo, vykdomąjį dokumentą antstolis vykdo šio skolininko buveinės arba jo turto buvimo vietoje.
 
