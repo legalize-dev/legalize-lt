@@ -4,7 +4,7 @@ identifier: "TAR.73F76F9D2EF1"
 country: "lt"
 rank: "konstitucinis_istatymas"
 publication_date: "1996-06-20"
-last_updated: "2011-11-12"
+last_updated: "2018-01-19"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.73F76F9D2EF1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinis įstatymas
 
-Suvestinė redakcija nuo 2011-11-12 iki 2018-01-18
+Suvestinė redakcija nuo 2018-01-19
 
 Konstitucinis įstatymas paskelbtas: Žin. 1996, Nr. 64-1503, i. k. 0961010KIST00I-1392
 
@@ -67,11 +67,19 @@ Pagal šį Įstatymą įsigyti nuosavybės teise žemę, vidaus vandenis ir miš
 
 4 straipsnis. Europinės ir transatlantinės integracijos kriterijus atitinkantys užsienio subjektai
 
-1. Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atitinka užsienio juridiniai asmenys, taip pat kitos užsienio organizacijos, įsteigti:
+1. Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atitinka užsienio juridiniai asmenys, taip pat kitos užsienio organizacijos, įsteigti valstybėse, kurios neįeina į buvusios Sovietų Socialistinių Respublikų Sąjungos pagrindu įkurtas politines, karines, ekonomines ar kitokias valstybių sąjungas arba sandraugas ir kurios yra bent vienos iš šių sąjungų, susitarimų ar organizacijų narės:
 
-1) valstybėse Europos Sąjungos narėse arba valstybėse, sudariusiose Europos sutartį (Asociacijos sutartį) su Europos bendrijomis bei jų šalimis narėmis;
+1) Europos Sąjungos;
 
-2) valstybėse Ekonominio bendradarbiavimo ir plėtros organizacijos, Šiaurės Atlanto Sutarties Organizacijos narėse bei valstybėse Europos ekonominės erdvės susitarimo dalyvėse.
+2) Šiaurės Atlanto Sutarties Organizacijos;
+
+3) Europos ekonominės erdvės susitarimo;
+
+4) Ekonominio bendradarbiavimo ir plėtros organizacijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-981, 2018-01-12, paskelbta TAR 2018-01-18, i. k. 2018-00810
 
 2. Lietuvos pasirinktos europinės ir transatlantinės integracijos kriterijus atitinka šio straipsnio 1 dalyje nurodytų valstybių piliečiai ir šių užsienio valstybių nuolatiniai gyventojai, taip pat Lietuvos Respublikos nuolatiniai gyventojai, neturintys Lietuvos Respublikos pilietybės.
 
@@ -197,11 +205,13 @@ BAIGIAMOSIOS NUOSTATOS
 
 16 straipsnis. Šis Įstatymas ir tarptautinės sutartys
 
-1. Šio Įstatymo 4 straipsnyje nustatytus kriterijus atitinkančių užsienio subjektų teisė įsigyti žemės sklypus Lietuvoje yra preferencija, skirta Lietuvos pasirinktai europinei ir transatlantinei integracijai į valstybių sąjungas ir organizacijas bei Europos sutarties, steigiančios Europos bendrijų bei jų šalių narių ir Lietuvos Respublikos asociaciją, nuostatoms įgyvendinti. Ši preferencija taikoma abipusiškumo pagrindais, kai Lietuvos kilmės subjektams užsienio šalyje suteikiamos ne mažesnės teisės.
+1. Negali būti sudaroma Lietuvos Respublikos tarptautinė sutartis, kuri nustatytų teisę įsigyti žemės sklypus nuosavybės teise šio Įstatymo 4 straipsnyje nustatytų kriterijų neatitinkantiems užsienio subjektams.
 
-2. Negali būti sudaroma Lietuvos Respublikos tarptautinė sutartis, kuri nustatytų teisę įsigyti žemės sklypus nuosavybės teise šio Įstatymo 4 straipsnyje nustatytų kriterijų neatitinkantiems užsienio subjektams.
+2. Jokia Lietuvos Respublikos tarptautinė sutartis, sudaryta iki šio Įstatymo įsigaliojimo, negali būti aiškinama kaip suteikianti pagrindą įsigyti nuosavybės teise žemės sklypą šio Įstatymo 4 straipsnyje nustatytų kriterijų neatitinkantiems užsienio subjektams.
 
-3. Jokia Lietuvos Respublikos tarptautinė sutartis, sudaryta iki šio Įstatymo įsigaliojimo, išskyrus šio straipsnio 1 dalyje nurodytąją, negali būti aiškinama kaip suteikianti pagrindą gauti leidimą įsigyti nuosavybės teise žemės sklypą šio Įstatymo 4 straipsnyje nustatytų kriterijų neatitinkantiems užsienio subjektams.
+Straipsnio pakeitimai:
+
+Nr. XIII-981, 2018-01-12, paskelbta TAR 2018-01-18, i. k. 2018-00810
 
 17 straipsnis. Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinio įstatymo galiojimas ir taikymas
 
@@ -236,6 +246,14 @@ Lietuvos Respublikos Seimas, Konstitucinis įstatymas
 Nr. XI-1626, 2011-11-03, Žin., 2011, Nr. 135-6404 (2011-11-12), i. k. 1111010ISTA0XI-1626
 
 Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinio įstatymo 17 straipsnio pakeitimo konstitucinis įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+
+Nr. XIII-981, 2018-01-12, paskelbta TAR 2018-01-18, i. k. 2018-00810
+
+Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinio įstatymo Nr. I-1392 4 ir 16 straipsnių pakeitimo konstitucinis įstatymas
 
 18 straipsnis. Įstatymo galiojimas
 
