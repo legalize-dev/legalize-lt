@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2018-01-01"
+last_updated: "2018-01-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-01-23
+Suvestinė redakcija nuo 2018-01-24 iki 2018-01-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -707,6 +707,22 @@ Nr. XIII-969, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21727
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pakeitimo įstatymas
 
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-891, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21317
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 19 ir 21 straipsnių pakeitimo įstatymas
+
+15.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-989, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01003
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 48 straipsnio pakeitimo įstatymas
+
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
 1. Šio įstatymo 67 straipsnio 2 dalis ir 69 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d.
@@ -1229,7 +1245,7 @@ Nr. XIII-455, 2017-06-20, paskelbta TAR 2017-06-28, i. k. 2017-10912
 
 6) teikia pasiūlymus dėl tarpinstitucinės ir tarpžinybinės veiklos suderinamumo mokslo, studijų ir inovacijų politikos srityse;
 
-7) rengia ir viešai skelbia savo veiklos metines ataskaitas.
+7) rengia ir viešai skelbia savo veiklos metines ataskaitas;
 
 4. Mokslo ir studijų stebėsenos ir analizės centro kolegialus patariamasis organas yra taryba, tarybos tikslas – patarti Mokslo ir studijų stebėsenos ir analizės centro direktoriui. Taryba veikia visuomeniniais pagrindais. Mokslo ir studijų stebėsenos ir analizės centro tarybą sudaro 7 nariai: vieną narį skiria Seimo Švietimo ir mokslo komitetas, 3 narius – Vyriausybė, vieną – Lietuvos pramonininkų konfederacija, vieną – Lietuvos universitetų rektorių konferencija (konferencijos), vieną – Lietuvos kolegijų direktorių konferencija (konferencijos). Taryba sudaroma 5 metams, o tarybos kadencija pradedama skaičiuoti nuo tada, kai savininko teises ir pareigas įgyvendinanti institucija paskelbia tarybos sudėtį.
 
@@ -1667,7 +1683,11 @@ MOKSLO IR (ARBA) MENO IR STUDIJŲ VEIKLA
 
 4. Aukštoji mokykla negali vykdyti neakredituotos studijų krypties studijų. Kai yra pagal tokią studijų kryptį studijuojančių studentų, švietimo ir mokslo ministras nustato tolesnes jų studijų galimybes.
 
-5. Valstybinių aukštųjų mokyklų studijų programos turi būti vertinamos ir akredituojamos atsižvelgus į valstybės ūkinės, socialinės, kultūrinės plėtros poreikius ir ateities raidos perspektyvą. Studijų išorinio vertinimo ir akreditavimo tvarkos aprašą, vertinamąsias sritis ir rodiklius tvirtina švietimo ir mokslo ministras.
+5. Valstybinių aukštųjų mokyklų studijos turi būti vertinamos ir akredituojamos atsižvelgus į valstybės ūkinės, socialinės, kultūrinės plėtros poreikius ir ateities raidos perspektyvą. Studijų išorinio vertinimo ir akreditavimo tvarkos aprašą, vertinamąsias sritis ir rodiklius tvirtina švietimo ir mokslo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-989, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01003
 
 6. Aukštųjų mokyklų studijų programos registruojamos Studijų, mokymo programų ir kvalifikacijų registre Vyriausybės nustatyta tvarka.
 
