@@ -4,7 +4,7 @@ identifier: "TAR.57E0E8B29108"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-10-10"
-last_updated: "2017-06-28"
+last_updated: "2018-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2017-06-28 iki 2018-01-31
+Suvestinė redakcija nuo 2018-02-01 iki 2018-02-28
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
 
@@ -78,7 +78,13 @@ Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 8) savivaldybės įmonė Šiaulių oro uostas;
 
-9) valstybinės reikšmės kelius prižiūrinčios (prižiūrinti) valstybės įmonės (įmonė).
+9) valstybinės reikšmės kelius prižiūrinčios (prižiūrinti) valstybės įmonės (įmonė);
+
+10) valstybės įmonė, patikėjimo teise valdanti valstybinės reikšmės miškus.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-979, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21735
 
 Straipsnio dalies pakeitimai:
 
@@ -409,6 +415,14 @@ Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įm
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIII-473, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10837
+
+Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 3 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-979, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21735
 
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 3 straipsnio pakeitimo įstatymas
 
