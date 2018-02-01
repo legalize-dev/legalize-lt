@@ -4,7 +4,7 @@ identifier: "TAR.9A3AD08EA5D0"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-25"
-last_updated: "2018-01-01"
+last_updated: "2018-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3AD08EA5D0"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-01-31
+Suvestinė redakcija nuo 2018-02-01 iki 2018-07-04
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
 
@@ -366,11 +366,13 @@ Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 2. Priešmokyklinis ugdymas vykdomas pagal vienų metų švietimo ir mokslo ministro patvirtintą priešmokyklinio ugdymo bendrąją programą. Priešmokyklinį ugdymą vykdo ikimokyklinio ugdymo, bendrojo ugdymo mokyklos, laisvasis mokytojas ar kitas švietimo teikėjas, vadovaudamiesi švietimo ir mokslo ministro nustatyta tvarka.
 
-3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais jam sueina 6 metai. Priešmokyklinis ugdymas gali būti teikiamas anksčiau tėvų (globėjų) prašymu, vadovaujantis švietimo ir mokslo ministro patvirtintu Vaiko brandumo mokytis pagal priešmokyklinio ir pradinio ugdymo programas įvertinimo tvarkos aprašu, bet ne anksčiau, negu jam sueina 5 metai.
+3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais jam sueina 6 metai. Priešmokyklinis ugdymas gali būti teikiamas anksčiau tėvų (globėjų) sprendimu, bet ne anksčiau, negu vaikui sueina 5 metai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
+
+Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
 
 4. Pagal priešmokyklinio ugdymo programą ugdomam priešmokyklinio amžiaus vaikui ir jo tėvams (globėjams, rūpintojams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo ir mokslo ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.
 
@@ -384,13 +386,19 @@ Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 2. Pradinis ugdymas vykdomas pagal ketverių metų pradinio ugdymo programas. Jos įgyvendinamos vadovaujantis Pradinio ugdymo programos aprašu, Pradinio ugdymo bendrosiomis programomis, bendraisiais ugdymo planais, kuriuos tvirtina švietimo ir mokslo ministras. Pradinis ugdymas gali būti vykdomas kartu su dailės, muzikiniu, meniniu, sportiniu ar kitu ugdymu.
 
-3. Pagal pradinio ugdymo programą vaikas pradedamas ugdyti, kai jam tais kalendoriniais metais sueina 7 metai. Atskiru atveju vaikas, kuriam tais kalendoriniais metais sueina 7 metai ir kuriam reikalinga nuolatinė kvalifikuotų specialistų pagalba bei sveikatą tausojantis dienos režimas, tėvų (globėjų) prašymu švietimo ir mokslo ministro nustatyta tvarka vienus metus gali būti ugdomas įstaigoje, vykdančioje priešmokyklinio ugdymo programą, ar namuose pagal jo specialiesiems ugdymosi poreikiams pritaikytas programas.
+3. Pagal pradinio ugdymo programą vaikas pradedamas ugdyti, kai jam tais kalendoriniais metais sueina 7 metai. Pradinis ugdymas pradedamas vaikui teikti vienais metais anksčiau, kai vaikas tėvų (globėjų) sprendimu buvo ugdomas pagal priešmokyklinio ugdymo programą metais anksčiau, kaip nurodyta šio įstatymo 8 straipsnio 3 dalyje.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
-4. Tėvų (globėjų) prašymu, vadovaujantis švietimo ir mokslo ministro patvirtintu Vaiko brandumo mokytis pagal priešmokyklinio ir pradinio ugdymo programas įvertinimo tvarkos aprašu, pradinis ugdymas pradedamas teikti vienais metais anksčiau, negu nurodyta šio straipsnio 3 dalyje.
+Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
+
+4. Neteko galios 2018-02-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
 
 5. Pradinio ugdymo programas vykdo bendrojo ugdymo ir kitos mokyklos ar kitas švietimo teikėjas.
 
@@ -444,7 +452,11 @@ Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 3. Pirminis profesinis mokymas yra formalusis, visuotinis ir skirtas įgyti pirmąją kvalifikaciją. Jis teikiamas mokiniams, įgijusiems pagrindinį arba vidurinį išsilavinimą. Mokiniams, įgijusiems pagrindinį išsilavinimą, jis gali būti teikiamas kartu su viduriniu ugdymu. Pirminis profesinis mokymas gali būti teikiamas ir pagrindinio išsilavinimo neįgijusiems ne jaunesniems kaip 14 metų mokiniams. Mokiniui, neįgijusiam pagrindinio išsilavinimo, sudaromos sąlygos tęsti mokymąsi pagal pagrindinio ugdymo programą. Atskirais atvejais, nustatytais švietimo ir mokslo ministro įsakymu patvirtintame Priėmimo į valstybinę ir savivaldybės bendrojo ugdymo, profesinę mokyklą bendrųjų kriterijų sąraše, mokiniams, turintiems specialiųjų ugdymosi poreikių, jis gali būti teikiamas neturint reikiamo išsilavinimo.
 
-4. Tęstinis profesinis mokymas teikiamas asmeniui, turinčiam pirmąją kvalifikaciją. Jis skirtas tobulinti turimą ar įgyti kitą kvalifikaciją arba įgyti kompetenciją, reikalingą atlikti įstatymų reglamentuotą darbą ar funkciją. Tęstinis profesinis mokymas apima asmenų formalųjį ir neformalųjį profesinį mokymą.
+4. Tęstinis profesinis mokymas teikiamas asmeniui, turinčiam pirmąją kvalifikaciją arba aukštojo mokslo kvalifikaciją. Jis skirtas tobulinti turimą pirmąją kvalifikaciją ar įgyti kitą kvalifikaciją arba įgyti profesinį standartą atitinkančias kompetencijas, siekiant įgyti kitą kvalifikaciją (arba jos dalį). Tęstinis profesinis mokymas apima asmenų formalųjį ir neformalųjį profesinį mokymą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 5. Atitinkamo lygio kvalifikacija suteikiama asmeniui, baigusiam profesinio mokymo programą ir (arba) nustatyta tvarka gavusiam jo įgytų kompetencijų įvertinimą.
 
@@ -742,7 +754,11 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 7. Vietovėse, kuriose tradiciškai gausiai gyvena tautinė mažuma, jeigu bendruomenė prašo, savivaldybė laiduoja mokymąsi tautinės mažumos kalba arba tautinės mažumos kalbos.
 
-8. Mokyklų (išskyrus aukštąsias mokyklas), vykdančių formaliojo švietimo programas, tinklas kuriamas vadovaujantis Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis ir mokyklų bendruomenių nutarimais, jeigu šie neprieštarauja nurodytoms taisyklėms. Švietimo ir mokslo ministerija, savivaldybės, vadovaudamosi šiomis taisyklėmis, tvirtina ir įgyvendina mokyklų tinklo pertvarkos bendruosius planus.
+8. Mokyklų (išskyrus aukštąsias mokyklas ir profesinio mokymo įstaigas), vykdančių formaliojo švietimo programas, tinklas kuriamas vadovaujantis Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis ir mokyklų bendruomenių nutarimais, jeigu šie neprieštarauja šioms taisyklėms. Švietimo ir mokslo ministerija, savivaldybės, vadovaudamosi šiomis taisyklėmis, tvirtina ir įgyvendina mokyklų tinklo pertvarkos bendruosius planus. Profesinio mokymo įstaigų tinklas kuriamas švietimo ir mokslo ministro nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 9. Valstybė ir savivaldybės sudaro sąlygas nevalstybinėms mokykloms steigtis ir veikti.
 
@@ -892,11 +908,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
-5. Mokyklos (išskyrus aukštąsias mokyklas) veiklos įsivertinimo sritis, atlikimo metodiką pasirenka mokyklos taryba. Ji analizuoja įsivertinimo rezultatus ir priima sprendimus dėl veiklos tobulinimo, svarsto švietimo įstaigos vadovo metų veiklos ataskaitą.
+5. Mokyklos (išskyrus aukštąsias mokyklas ir profesinio mokymo įstaigas) veiklos įsivertinimo sritis, veiklos kokybės įsivertinimo atlikimo metodiką pasirenka mokyklos taryba. Ji analizuoja įsivertinimo rezultatus ir priima sprendimus dėl veiklos tobulinimo, svarsto švietimo įstaigos vadovo metų veiklos ataskaitą. Profesinio mokymo įstaigos taryba svarsto profesinio mokymo įstaigos vadovo metų veiklos ataskaitą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 6. Mokyklos (išskyrus aukštąsias mokyklas) išorinis vertinimas atliekamas periodiškai, jį inicijuoja mokyklos savininko teises ir pareigas įgyvendinanti institucija (valstybinės mokyklos – biudžetinės įstaigos), savivaldybės vykdomoji institucija (savivaldybės mokyklos – biudžetinės įstaigos), savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) (valstybinės ir savivaldybės mokyklos – viešosios įstaigos), savininkas (dalyvių susirinkimas) (kitų mokyklų). Mokyklų, vykdančių ikimokyklinio, priešmokyklinio, bendrojo ugdymo ir formaliojo profesinio mokymo programas, veiklos išorinio vertinimo organizavimo ir vykdymo tvarką nustato švietimo ir mokslo ministras. Neformaliojo švietimo mokyklų (išskyrus mokyklas, vykdančias ikimokyklinio ir (ar) priešmokyklinio ugdymo programas) veiklos išorinio vertinimo tvarką nustato valstybinės ir savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas).
 
@@ -908,7 +926,11 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 38 straipsnis. Mokymosi pasiekimų vertinimas
 
-1. Mokymosi pasiekimų vertinimo paskirtis – padėti mokiniui pasitikrinti mokymosi pažangą, nustatyti jo pasiekimus ir, palyginus su bendrosiose programose nustatytais pasiekimų lygiais ar (ir) profesiniais arba profesinio rengimo standartais, padėti priimti sprendimus dėl tolesnio mokymosi ar veiklos.
+1. Mokymosi pasiekimų vertinimo paskirtis – padėti mokiniui pasitikrinti mokymosi pažangą, nustatyti jo pasiekimus ir, palyginus su bendrosiose programose nustatytais pasiekimų lygiais ar (ir) profesiniais standartais, padėti priimti sprendimus dėl tolesnio mokymosi ar veiklos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 2. Mokymosi pasiekimus įsivertina mokinys, vertina mokytojas, švietimo teikėjas, mokyklos savininko teises ir pareigas įgyvendinanti institucija (valstybinės mokyklos – biudžetinės įstaigos), savivaldybės vykdomoji institucija ar jos įgaliotas asmuo (savivaldybės mokyklos – biudžetinės įstaigos), savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) (valstybinės ir savivaldybės mokyklos – viešosios įstaigos), savininkas (dalyvių susirinkimas) (kitų mokyklų), Švietimo ir mokslo ministerija ir jos įgaliotos institucijos.
 
@@ -992,7 +1014,11 @@ Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
 
 10. Profesinio mokymo įstaigos į tipus neskirstomos.
 
-11. Profesinio mokymo įstaigos gali vykdyti pradinio, pagrindinio, vidurinio ugdymo programas.
+11. Profesinio mokymo įstaigos gali vykdyti pagrindinio, vidurinio ugdymo programas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 12. Aukštųjų mokyklų tipus nustato Mokslo ir studijų įstatymas.
 
@@ -1018,7 +1044,11 @@ Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
 
 3) Švietimo ir mokslo ministerija – profesinio mokymo įstaigas, prireikus – bendrojo ugdymo mokyklas, kurių teisinė forma – biudžetinė įstaiga, vadovaudamasi Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis ir gavusi finansų ministro rašytinį sutikimą; neformaliojo švietimo mokyklas, pagalbos įstaigas, gavusi finansų ministro rašytinį sutikimą;
 
-4) kitos ministerijos, Vyriausybės įstaigos, įstaigos prie ministerijų – profesinio mokymo įstaigas, kurių teisinė forma – biudžetinė įstaiga, vadovaudamosi Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis ir gavusios švietimo ir mokslo ministro bei finansų ministro rašytinius sutikimus; neformaliojo suaugusiųjų švietimo mokyklas, kurių teisinė forma – biudžetinė įstaiga, gavusios švietimo ir mokslo ministro bei finansų ministro rašytinius sutikimus;
+4) kitos ministerijos, Vyriausybės įstaigos, įstaigos prie ministerijų – neformaliojo suaugusiųjų švietimo mokyklas, kurių teisinė forma – biudžetinė įstaiga, gavusios švietimo ir mokslo ministro bei finansų ministro rašytinius sutikimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 5) savivaldybės taryba – neformaliojo švietimo mokyklas – savarankiškai, pagalbos įstaigas – vadovaudamasi Vyriausybės nustatytais pagalbos įstaigų steigimo, reorganizavimo, likvidavimo ir pertvarkymo kriterijais, bendrojo ugdymo mokyklas, profesinio mokymo įstaigas – vadovaudamasi Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis;
 
@@ -1032,7 +1062,11 @@ Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
 
 43 straipsnis. Mokyklos veikla
 
-1. Valstybinė ir savivaldybės mokykla yra viešasis juridinis asmuo, veikiantis kaip biudžetinė arba viešoji įstaiga. Ji savo veikloje vadovaujasi atitinkamai šiuo ir Lietuvos Respublikos biudžetinių įstaigų įstatymu arba Viešųjų įstaigų įstatymu. Nevalstybinė mokykla yra juridinis asmuo. Jo teisinę formą pasirenka savininkas (dalyvių susirinkimas).
+1. Valstybinė ir savivaldybės mokykla yra viešasis juridinis asmuo, veikiantis kaip biudžetinė arba viešoji įstaiga. Ji savo veikloje vadovaujasi atitinkamai šiuo ir Lietuvos Respublikos biudžetinių įstaigų įstatymu arba Lietuvos Respublikos viešųjų įstaigų įstatymu. Nevalstybinė mokykla yra juridinis asmuo. Jo teisinę formą pasirenka savininkas (dalyvių susirinkimas). Profesinio mokymo įstaigų teisinę formą reglamentuoja Profesinio mokymo įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 2. Mokykla savo veiklą pradeda įregistravus mokyklą Juridinių asmenų registre Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas) ir Juridinių asmenų registro nuostatų nustatyta tvarka.
 
@@ -1046,11 +1080,13 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 5. Aukštosios mokyklos veiklą nustato jos statutas. Statutas rengiamas ir tvirtinamas Mokslo ir studijų įstatymo nustatyta tvarka.
 
-6. Mokslo metų pradžią ir trukmę pagal priešmokyklinio ugdymo programas, bendrojo ugdymo programas, pirminio profesinio mokymo programas nustato švietimo ir mokslo ministras, pagal neformaliojo švietimo programas (išskyrus priešmokyklinio ugdymo ir tęstinio profesinio mokymo programas) – savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), savininkas, pagal tęstinio profesinio mokymo programas – mokykla.
+6. Mokslo metų pradžią ir trukmę pagal priešmokyklinio ugdymo programas, bendrojo ugdymo programas, pirminio ir tęstinio profesinio mokymo programas nustato švietimo ir mokslo ministras, pagal neformaliojo švietimo programas (išskyrus priešmokyklinio ugdymo ir tęstinio profesinio mokymo programas) – savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), savininkas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 7. Mokykloje gali būti vykdomos tik Studijų, mokymo programų ir kvalifikacijų registre įregistruotos formaliojo švietimo programos. Mokykla bendrojo ugdymo programas gali vykdyti, jei atitinka Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytus bendruosius ir specialiuosius kriterijus. Mokykla formaliojo profesinio mokymo programas gali vykdyti tik turėdama švietimo ir mokslo ministro išduotą licenciją, už kurios išdavimą, papildymą ar patikslinimą mokama valstybės rinkliava. Formaliojo profesinio mokymo licencijavimo taisykles tvirtina Vyriausybė.
 
@@ -1196,15 +1232,31 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 5) dalyvauti įvertinant vaiko specialiuosius ugdymosi poreikius ir gauti išsamią informaciją apie įvertinimo rezultatus;
 
-6) 5 metų sulaukusį vaiką, jeigu jis yra pakankamai subrendęs, leisti mokytis pagal priešmokyklinio ugdymo programą, o 6 metų sulaukusį vaiką – pagal pradinio ugdymo programą;
+6) 5 metų sulaukusį vaiką leisti mokytis pagal priešmokyklinio ugdymo programą, o 6 metų sulaukusį vaiką – pagal pradinio ugdymo programą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
-7) reikalauti, kad vaikui būtų teikiamas geros kokybės ugdymas;
+Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
 
-8) naudotis kitų įstatymų nustatytomis teisėmis.
+7) tėvai (globėjai) turi teisę kreiptis į pedagoginę psichologinę tarnybą arba švietimo pagalbos tarnybą, kurios aptarnavimo teritorijoje yra švietimo teikėjas, dėl 5 metų vaiko brandumo ugdytis pagal priešmokyklinio ugdymo programą vertinimo ir ne vėliau kaip per 20 darbo dienų nuo kreipimosi dienos gauti iš šių tarnybų rekomendacijas dėl vaiko pasirengimo mokytis;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
+
+8) reikalauti, kad vaikui būtų teikiamas geros kokybės ugdymas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
+
+9) naudotis kitų įstatymų nustatytomis teisėmis.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
 
 2. Tėvai (globėjai, rūpintojai) privalo:
 
@@ -1478,45 +1530,69 @@ Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
 
 8) Vyriausybės nustatyta tvarka išduoti licencijas formaliojo profesinio mokymo programoms vykdyti;
 
-9) palaikyti ryšius su atitinkamomis užsienio valstybių institucijomis ir tarptautinėmis organizacijomis, skatinti savarankišką šalies mokyklų ir organizacijų bendradarbiavimą su atitinkamomis kitų užsienio valstybių mokyklomis ir organizacijomis, finansuoti ar kitaip skatinti užsienyje gyvenančių lietuvių veiklą švietimo ir studijų srityse, atstovauti Lietuvos Respublikai užsienio valstybėse ar tarptautinėse organizacijose;
+9) organizuoti ir koordinuoti informacijos apie profesinio mokymo įstaigas ir jų vykdomas profesinio mokymo programas sklaidą, siekiant didinti profesinio rengimo ir mokymo patrauklumą;
 
-10) organizuoti mokyklų, kuriose teisės aktų nustatyta tvarka įgyvendina valstybės kaip savininkės ar dalininkės teises ir pareigas, mokytojų, švietimo pagalbos specialistų atestaciją;
+Papildyta straipsnio punktu:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+
+10) palaikyti ryšius su atitinkamomis užsienio valstybių institucijomis ir tarptautinėmis organizacijomis, skatinti savarankišką šalies mokyklų ir organizacijų bendradarbiavimą su atitinkamomis kitų užsienio valstybių mokyklomis ir organizacijomis, finansuoti ar kitaip skatinti užsienyje gyvenančių lietuvių veiklą švietimo ir studijų srityse, atstovauti Lietuvos Respublikai užsienio valstybėse ar tarptautinėse organizacijose;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+
+11) organizuoti mokyklų, kuriose teisės aktų nustatyta tvarka įgyvendina valstybės kaip savininkės ar dalininkės teises ir pareigas, mokytojų, švietimo pagalbos specialistų atestaciją;
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
-11) tvirtinti ikimokyklinio ugdymo programų kriterijus, Priešmokyklinio ugdymo bendrąją programą, formaliojo švietimo bendrąjį ugdymo, mokymo turinį (pradinio, pagrindinio, vidurinio ugdymo programų aprašus, bendrąsias programas, ugdymo, mokymo planus), kurį tvirtina švietimo ir mokslo ministras; Vidurinio ugdymo programų akreditacijos kriterijus ir jos vykdymo tvarkos aprašą; bendruosius iš valstybės ar savivaldybių biudžetų finansuojamų formalųjį švietimą papildančio švietimo (ugdymo) neformaliojo švietimo programų kriterijus, kuriuos tvirtina švietimo ir mokslo ministras;
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+
+12) tvirtinti ikimokyklinio ugdymo programų kriterijus, Priešmokyklinio ugdymo bendrąją programą, formaliojo švietimo bendrąjį ugdymo, mokymo turinį (pradinio, pagrindinio, vidurinio ugdymo programų aprašus, bendrąsias programas, ugdymo, mokymo planus), kurį tvirtina švietimo ir mokslo ministras; Vidurinio ugdymo programų akreditacijos kriterijus ir jos vykdymo tvarkos aprašą; bendruosius iš valstybės ar savivaldybių biudžetų finansuojamų formalųjį švietimą papildančio švietimo (ugdymo) neformaliojo švietimo programų kriterijus, kuriuos tvirtina švietimo ir mokslo ministras;
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
-12) tvirtinti Nuosekliojo mokymosi pagal bendrojo ugdymo programas tvarkos aprašą, Priešmokyklinio ugdymo tvarkos aprašą;
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+
+13) tvirtinti Nuosekliojo mokymosi pagal bendrojo ugdymo programas tvarkos aprašą, Priešmokyklinio ugdymo tvarkos aprašą;
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
-13) tvirtinti valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų kvalifikacijos tobulinimo ir veiklos vertinimo nuostatus, mokytojų, pagalbos mokiniui specialistų kvalifikacijos tobulinimo ir atestacijos nuostatus, pedagogų rengimo reglamentą, vadovų rezervo reglamentą;
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+
+14) tvirtinti valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų kvalifikacijos tobulinimo ir veiklos vertinimo nuostatus, mokytojų, pagalbos mokiniui specialistų kvalifikacijos tobulinimo ir atestacijos nuostatus, pedagogų rengimo reglamentą, vadovų rezervo reglamentą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
-14) rūpintis lietuvių kalbos mokymu ir mokymu lietuvių kalba užsienio valstybėse; analizuoti, ar tinkamai naudojamos švietimui skirtos valstybės biudžeto lėšos, atsiskaityti visuomenei už bendrąją švietimo būklę šalyje ir atlikti kitas įstatymų ir Vyriausybės nustatytas funkcijas;
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+
+15) rūpintis lietuvių kalbos mokymu ir mokymu lietuvių kalba užsienio valstybėse; analizuoti, ar tinkamai naudojamos švietimui skirtos valstybės biudžeto lėšos, atsiskaityti visuomenei už bendrąją švietimo būklę šalyje ir atlikti kitas įstatymų ir Vyriausybės nustatytas funkcijas;
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
-15) konkurso tvarka skirti biudžeto lėšas įstaigoms, įmonėms ir organizacijoms, vykdančioms švietimo, mokslo, kultūros ir sporto programas, projektus;
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+
+16) konkurso tvarka skirti biudžeto lėšas įstaigoms, įmonėms ir organizacijoms, vykdančioms švietimo, mokslo, kultūros ir sporto programas, projektus;
 
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
-16) parengti rekomendacijas dėl smurto prevencijos įgyvendinimo mokyklose.
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+
+17) parengti rekomendacijas dėl smurto prevencijos įgyvendinimo mokyklose.
 
 Papildyta straipsnio punktu:
 
@@ -1525,6 +1601,8 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 58 straipsnis. Savivaldybės institucijų įgaliojimai švietimo valdymo srityje
 
@@ -1680,15 +1758,17 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 Visuomenės dalyvavimą formuojant švietimo politiką ir priimant švietimo sprendimus skatina valstybės švietimo savivaldos institucijos:
 
-1) Lietuvos švietimo taryba atlieka ekspertinį vertinimą ir konsultuoja strateginiais Lietuvos švietimo plėtros klausimais. Lietuvos švietimo tarybos nuostatus tvirtina Seimas;
+1) Lietuvos švietimo taryba atlieka ekspertinį vertinimą ir konsultuoja strateginiais Lietuvos švietimo plėtros klausimais, teikia siūlymus dėl formaliojo ir neformaliojo švietimo ir kitų su švietimu susijusių klausimų. Lietuvos švietimo tarybos nuostatus tvirtina Seimas;
 
 2) Bendrojo ugdymo taryba inicijuoja ir pritaria ikimokyklinio, priešmokyklinio, pradinio, pagrindinio, vidurinio ugdymo programų kaitos, mokytojų kvalifikacijos ir profesinės raidos, mokyklų aprūpinimo projektams. Bendrojo ugdymo tarybos nuostatus tvirtina švietimo ir mokslo ministras;
 
-3) Lietuvos profesinio mokymo taryba pataria sprendžiant strateginius profesinio mokymo klausimus. Lietuvos profesinio mokymo tarybos nuostatus tvirtina Vyriausybė;
+3) Lietuvos neformaliojo suaugusiųjų švietimo taryba svarsto pagrindines Lietuvos neformaliojo švietimo plėtros perspektyvas, atlieka neformaliojo suaugusiųjų švietimo sistemos plėtotės projektų analizę. Lietuvos neformaliojo suaugusiųjų švietimo tarybos nuostatus tvirtina Vyriausybė;
 
-4) Lietuvos neformaliojo suaugusiųjų švietimo taryba svarsto pagrindines Lietuvos neformaliojo švietimo plėtros perspektyvas, atlieka neformaliojo suaugusiųjų švietimo sistemos plėtotės projektų analizę. Lietuvos neformaliojo suaugusiųjų švietimo tarybos nuostatus tvirtina Vyriausybė;
+4) Aukštojo mokslo taryba yra Švietimo ir mokslo ministerijos patariamoji institucija strateginiais aukštojo mokslo plėtros klausimais. Aukštojo mokslo tarybos nuostatus tvirtina Vyriausybė.
 
-5) Aukštojo mokslo taryba yra Švietimo ir mokslo ministerijos patariamoji institucija strateginiais aukštojo mokslo plėtros klausimais. Aukštojo mokslo tarybos nuostatus tvirtina Vyriausybė.
+Straipsnio pakeitimai:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 63 straipsnis. Mokyklos bendruomenės narių dalyvavimas švietimo valdyme
 
@@ -1806,7 +1886,11 @@ Nr. KT26-N15/2015, 2015-09-29, paskelbta TAR 2017-01-02, i. k. 2017-00001
 
 69 straipsnis. Materialinė parama
 
-1. Mokiniui, kuris mokosi pagal profesinio mokymo programas siekdamas įgyti pirmąją kvalifikaciją, taip pat vidaus reikalų profesinio mokymo įstaigos mokiniui Vyriausybės nustatyta tvarka gali būti mokama stipendija, skiriama materialinė parama.
+1. Mokiniui, kuris mokosi pagal profesinio mokymo programas siekdamas įgyti pirmąją kvalifikaciją arba keisti kvalifikaciją pagal Lietuvos Respublikos užimtumo įstatymą arba Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymą, taip pat vidaus reikalų profesinio mokymo įstaigos mokiniui Vyriausybės nustatyta tvarka gali būti mokama stipendija, skiriama materialinė parama.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 2. Paramą aukštosios mokyklos studentui nustato Mokslo ir studijų įstatymas.
 
@@ -2229,6 +2313,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 37, 43, 47, 48, 53, 56, 57, 58, 59, 60, 64, 68 straipsnių pakeitimo ir Įstatymo papildymo 5-1, 56-3 straipsniais įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 12, 18, 28, 37, 38, 41, 42, 43, 44, 56, 56-1, 62, 69 straipsnių pakeitimo ir Įstatymo papildymo 39-1 straipsniu įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
+
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 8, 9 ir 47 straipsnių pakeitimo įstatymas
 
 73 straipsnis.
 
@@ -3156,7 +3256,11 @@ autrap@lrs.lt
 
 1. Studijų, mokymo programų ir kvalifikacijų registras yra valstybės registras.
 
-2. Studijų, mokymo programų ir kvalifikacijų registre registruojamos formaliojo švietimo programos, kvalifikacijos, profesiniai standartai ir profesinio rengimo standartai.
+2. Studijų, mokymo programų ir kvalifikacijų registre registruojamos formaliojo švietimo programos, kvalifikacijos, neformaliojo profesinio mokymo programos ar jų moduliai, profesiniai standartai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 3. Studijų, mokymo programų ir kvalifikacijų registro valdytoja yra Švietimo ir mokslo ministerija.
 
@@ -3263,4 +3367,34 @@ TREČIASIS SKIRSNIS
 Papildyta straipsniu:
 
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
+
+391 straipsnis. Kvalifikacijų sistemos paskirtis ir sandara, kvalifikacijų sudarymas ir tvarkymas, kompetencijų įvertinimas ir kvalifikacijos suteikimas
+
+1. Kvalifikacijų sistemos paskirtis – užtikrinti aukštojo mokslo ir profesinio mokymo kvalifikacijų atitiktį šalies ūkio reikmėms, jų skaidrumą, palyginamumą, mokymosi tęstinumą, asmenų profesinį ir teritorinį judumą. Kvalifikacijų sistema taip pat apima procesų, susijusių su kokybės užtikrinimu, kvalifikacijos vertinimu ir suteikimu, plėtojimą ir įgyvendinimą.
+
+2. Kvalifikacijų sistema yra grindžiama socialinių partnerių, valstybės, aukštųjų mokyklų ir profesinio mokymo įstaigų bendradarbiavimu.
+
+3. Kvalifikacijų sistema apima kvalifikacijų sudarymą ir tvarkymą, asmens įgytų kompetencijų vertinimą, pripažinimą ir kvalifikacijos suteikimą.
+
+4. Kvalifikacijų sistemą tvarko švietimo ir mokslo ministro įgaliota institucija (toliau – kvalifikacijų tvarkymo institucija).
+
+5. Kvalifikacija yra grindžiama kompetencijomis. Kvalifikacijai įgyti reikalingas kompetencijas nustato profesinis standartas.
+
+6. Kvalifikacijas tvarko kvalifikacijų tvarkymo institucija, vadovaudamasi Vyriausybės nustatyta Lietuvos kvalifikacijų sandara ir Lietuvos profesijų klasifikatoriumi.
+
+7. Kvalifikacijų tvarkymo institucija strateginiams kvalifikacijų sistemos formavimo klausimams koordinuoti iš valstybės, savivaldybių institucijų, įstaigų ir socialinių partnerių atstovų sudaro sektorinius profesinius komitetus.
+
+8. Reikalavimus kompetencijų vertinimo ir pripažinimo institucijoms ir jų akreditacijos tvarką nustato švietimo ir mokslo ministras, suderinęs su ūkio ministru.
+
+9. Asmens įgytų kompetencijų įvertinimą ir pripažinimą organizuoja kvalifikacijų tvarkymo institucija, vadovaudamasi švietimo ir mokslo ministro nustatyta ir su ūkio ministru bei socialinės apsaugos ir darbo ministru suderinta asmens įgytų kompetencijų vertinimo tvarka.
+
+10. Kvalifikacija suteikiama asmeniui, įgijusiam visas kvalifikacijai įgyti reikalingas kompetencijas, nustatytas atitinkamo profesinio standarto apraše.
+
+11. Asmeniui kvalifikaciją (ar jos dalį) suteikia profesinio mokymo teikėjas arba aukštoji mokykla, gavę kompetencijų įvertinimo rezultatus.
+
+12. Kvalifikacijų įvertinimo ir suteikimo priežiūrą organizuoja kvalifikacijų tvarkymo institucija švietimo ir mokslo ministro nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
