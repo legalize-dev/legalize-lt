@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2018-01-01"
+last_updated: "2018-02-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-01-31
+Suvestinė redakcija nuo 2018-02-01 iki 2018-02-28
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
 
@@ -1547,7 +1547,11 @@ AKCIZŲ ĮSTATYMO 25, 31 IR 40 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 4) buitiniams gamtinių dujų vartotojams, kaip jie apibrėžti Gamtinių dujų įstatyme, taip pat asmenims, kurie pagal Labdaros ir paramos įstatymą turi paramos gavėjo statusą, tiekiamos gamtinės dujos;
 
-5) gamtinės dujos, naudojamos technologinėms reikmėms gamtinių dujų perdavimo ir skirstymo tinkluose ir gamtinių dujų skystinimo proceso metu;
+5) gamtinės dujos, naudojamos technologinėms reikmėms gamtinių dujų perdavimo ir skirstymo tinkluose ir gamtinių dujų skystinimo bei suskystintų gamtinių dujų pakartotinio dujinimo procesų metu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-711, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18146
 
 6) gamtinės dujos, naudojamos mišriai šilumos ir elektros energijos gamybai.
 
