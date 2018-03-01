@@ -4,7 +4,7 @@ identifier: "TAR.C7E57DF3CEC5"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-07"
-last_updated: "2018-01-01"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2020-07-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
 
@@ -235,11 +235,15 @@ Nr. VIII-1558, 2000-02-17, Žin., 2000, Nr. 20-495 (2000-03-08), i. k. 1001010IS
 
 Nr. IX-1665, 2003-07-01, Žin., 2003, Nr. 73-3345 (2003-07-23), i. k. 1031010ISTA0IX-1665
 
-3. Investicijos į svarbią strateginę reikšmę nacionaliniam saugumui turintį ūkio sektorių arba ypatingą strateginę ar strateginę reikšmę nacionaliniam saugumui turinčių įrenginių nacionaliniam saugumui svarbios apsaugos zonos teritorijoje leidžiamos tik įvertinus potencialaus dalyvio atitiktį nacionalinio saugumo interesams Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo nustatytais atvejais ir tvarka.
+3. Investicijos į nacionaliniam saugumui užtikrinti strategiškai svarbų ūkio sektorių arba nacionaliniam saugumui užtikrinti svarbių įmonių, įrenginių ir turto apsaugos zonos teritorijoje leidžiamos tik įvertinus investuotojo atitiktį nacionalinio saugumo interesams Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatytais atvejais ir tvarka.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1271, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14494
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1001, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01013
 
 4. Investuojant į steigiamą ūkio subjektą, kurio veikla pagal tą veiklos sritį reglamentuojančius įstatymus yra licencijuojama, ūkio subjektas savo veiklai privalo įsigyti licenciją įstatymų ir kitų teisės aktų nustatyta tvarka.
 
@@ -463,7 +467,7 @@ Pripažinti netekusiu galios Lietuvos Respublikos užsienio kapitalo investicij�
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -634,6 +638,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-444, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10805
 
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-2 straipsnio pakeitimo įstatymas
+
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1001, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01013
+
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 8 straipsnio pakeitimo įstatymas
 
 151 straipsnis. Valdžios ir privataus subjektų partnerystės sutarties samprata
 
