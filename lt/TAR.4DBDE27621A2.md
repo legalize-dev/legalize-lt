@@ -4,7 +4,7 @@ identifier: "TAR.4DBDE27621A2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-28"
-last_updated: "2017-01-01"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4DBDE27621A2"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos korupcijos prevencijos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 57-2297, i. k. 1021010ISTA00IX-904
 
@@ -337,7 +337,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XI-2250, 2012-10-02, Žin., 2012, Nr. 122-6109 (2012-10-20), i. k. 1121010ISTA0XI-2250
 
-6. Rašytinio prašymo, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, kurį į pareigas skiria Respublikos Prezidentas, Seimas, Seimo Pirmininkas, Vyriausybė arba Ministras Pirmininkas, taip pat asmenis, kuriuos rengiamasi skirti į viceministrų, ministerijų kanclerių, savivaldybių administracijos direktorių ir jų pavaduotojų, prokurorų, valstybės ar savivaldybių įstaigų vadovų ir jų pavaduotojų, valstybės ar savivaldybių įstaigų padalinių vadovų ir jų pavaduotojų (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), strateginę reikšmę nacionaliniam saugumui turinčių valstybės įmonių ir akcinių bendrovių bei nacionaliniam saugumui užtikrinti svarbių įmonių vadovų ir jų pavaduotojų, valstybės ar savivaldybių įmonių, kuriose valstybei ar savivaldybei priklausančios akcijos suteikia daugiau kaip 50 procentų balsų visuotiniame akcininkų susirinkime, vadovų ir jų pavaduotojų pareigas, pateikimas yra privalomas. Prašymą pateikti informaciją pasirašo į pareigas asmenį skiriantis subjektas ar jo įgaliotas asmuo. Prašymą, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, kurį į pareigas skiria Seimas, pasirašo Seimo Pirmininkas ar jo įgaliotas asmuo, o apie asmenį, kurį į pareigas skiria Vyriausybė, – Ministras Pirmininkas ar jo įgaliotas asmuo.
+6. Rašytinio prašymo, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, kurį į pareigas skiria Respublikos Prezidentas, Seimas, Seimo Pirmininkas, Vyriausybė arba Ministras Pirmininkas, taip pat asmenis, kuriuos rengiamasi skirti į viceministrų, ministerijų kanclerių, savivaldybių administracijos direktorių ir jų pavaduotojų, prokurorų, valstybės ar savivaldybių įstaigų vadovų ir jų pavaduotojų, valstybės ar savivaldybių įstaigų padalinių vadovų ir jų pavaduotojų (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), nacionaliniam saugumui užtikrinti svarbių įmonių vadovų ir jų pavaduotojų, valstybės ar savivaldybės įmonių, taip pat akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių valstybei ar savivaldybei nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, vadovų ir jų pavaduotojų pareigas, pateikimas yra privalomas. Prašymą pateikti informaciją pasirašo į pareigas asmenį skiriantis subjektas ar jo įgaliotas asmuo. Prašymą, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, kurį į pareigas skiria Seimas, pasirašo Seimo Pirmininkas ar jo įgaliotas asmuo, o apie asmenį, kurį į pareigas skiria Vyriausybė, – Ministras Pirmininkas ar jo įgaliotas asmuo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1003, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01016
 
 7. Kriminalinės žvalgybos pagrindinių institucijų, žvalgybos institucijų vadovų ar jų įgaliotų asmenų nurodymu šio straipsnio 2 dalyje nurodyta informacija apie asmenis, kuriuos jie skiria į pareigas, kriminalinės žvalgybos subjektuose, kriminalinės žvalgybos pagrindinėse institucijose ar žvalgybos institucijose, renkama savarankiškai. Šio straipsnio 3 dalyje nurodytos institucijos, įstaigos ir įmonės turimą informaciją ir (ar) duomenis kriminalinės žvalgybos subjektų, kriminalinės žvalgybos pagrindinių institucijų ar žvalgybos institucijų vadovams privalo pateikti ne vėliau kaip per 7 kalendorines dienas nuo rašytinio prašymo pateikti informaciją ir (ar) duomenis apie asmenį gavimo dienos, o jei būtina ir įmanoma, – nedelsdamos.
 
@@ -572,6 +576,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2742, 2016-11-08, paskelbta TAR 2016-11-15, i. k. 2016-26840
 
 Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 6 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1003, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01016
+
+Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 9 straipsnio pakeitimo įstatymas
 
 91 straipsnis. Informacijos apie asmenį, kurį į pareigas Europos Sąjungos ar tarptautinėse institucijose teikia Lietuvos Respublika, pateikimas
 
