@@ -4,7 +4,7 @@ identifier: "TAR.6286F15970B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-14"
-last_updated: "2017-11-01"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2017-11-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
 
@@ -304,7 +304,11 @@ Nr. XIII-287, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07277
 
 1) įstatyme dėl naujos branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus statybos nustatytų reikalavimų įvykdymą;
 
-2) branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus projektuose dalyvaujančių asmenų atitiktį nacionalinio saugumo interesams ir nacionalinio saugumo interesus užtikrinančių specialiųjų saugumo priemonių įvykdymą Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme ir (ar) kituose įstatymuose nustatyta tvarka ir sąlygomis;
+2) branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus projektuose dalyvaujančių asmenų atitiktį nacionalinio saugumo interesams Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-994, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01006
 
 3) gamtinių išteklių naudojimo branduolinės energetikos objekto statybos ir (ar) eksploatavimo reikmėms pagrindines charakteristikas ir poveikį aplinkai;
 
@@ -1315,6 +1319,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-658, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16017
 
 Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 2, 7, 15, 16, 19, 20, 22, 23, 24, 25, 29, 30, 33, 34, 35, 36, 50 straipsnių pakeitimo ir Įstatymo papildymo 50-1 straipsniu įstatymo Nr. XIII-287 7 straipsnio pakeitimo įstatymas
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-994, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01006
+
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 7 straipsnio pakeitimo įstatymas
 
 54 straipsnis. Branduolinės avarijos likvidavimas
 
