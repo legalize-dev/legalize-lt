@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2018-01-01"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-04-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -1246,7 +1246,11 @@ ELEKTROS ENERGIJOS PERDAVIMAS
 
 1) jis yra tinkamai įvykdęs šio įstatymo 24 ir 53 straipsniuose nustatytus nepriklausomumo ir veiklos atskyrimo reikalavimus;
 
-2) jo veikla nekelia grėsmės elektros energetikos sistemos darbo saugumui ir patikimumui, viešiesiems interesams elektros energetikos sektoriuje, vartotojų teisių ir teisėtų interesų apsaugai, visuomenės saugumui ar nacionalinio saugumo interesams. Atitikties nacionalinio saugumo interesams įvertinamas atliekamas Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme nustatyta tvarka ir sąlygomis.
+2) jo veikla nekelia grėsmės elektros energetikos sistemos darbo saugumui ir patikimumui, viešiesiems interesams elektros energetikos sektoriuje, vartotojų teisių ir teisėtų interesų apsaugai, visuomenės saugumui ar nacionalinio saugumo interesams. Atitikties nacionalinio saugumo interesams įvertinimas atliekamas Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatyta tvarka ir sąlygomis.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-996, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01008
 
 5. Komisija, prieš priimdama sprendimą dėl perdavimo sistemos operatoriaus paskyrimo, atsižvelgia į šio straipsnio 4 dalies 2 punkte numatyta tvarka priimtą sprendimą dėl to, ar asmens veikla nekelia grėsmės nacionaliniam saugumui, taip pat įvertina, ar asmens veikla nekelia grėsmės elektros energijos tiekimo Europos Sąjungai ar atskiroms valstybėms narėms saugumui ir patikimumui, atsižvelgiant į:
 
