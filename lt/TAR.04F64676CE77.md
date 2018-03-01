@@ -4,7 +4,7 @@ identifier: "TAR.04F64676CE77"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-06-28"
-last_updated: "2012-06-28"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.04F64676CE77"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas
 
-Suvestinė redakcija nuo 2012-06-28 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 76-3004, i. k. 1071010ISTA00X-1231
 
@@ -134,7 +134,11 @@ Projekto įgyvendinimo bendrovės dalyviais gali būti visi šie asmenys arba be
 
 3) strateginis partneris (strateginiai partneriai) ir (arba) jo (jų) kontroliuojamas asmuo (kontroliuojami asmenys);
 
-4) kiti asmenys, projekto įgyvendinimo bendrovės dalyvių sudarytoje (sudarytose) sutartyje (sutartyse) ir Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo bei kitų įstatymų ir kitų teisės aktų numatyta tvarka įsigiję dalį projekto įgyvendinimo bendrovės įstatiniame kapitale iš kitų projekto įgyvendinimo bendrovės dalyvių ar pasirašę naujai išleidžiamas projekto įgyvendinimo bendrovės akcijas.
+4) kiti asmenys, projekto įgyvendinimo bendrovės dalyvių sudarytoje (sudarytose) sutartyje (sutartyse) ir Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo bei kitų įstatymų ir kitų teisės aktų numatyta tvarka įsigiję projekto įgyvendinimo bendrovės akcijų iš kitų projekto įgyvendinimo bendrovės dalyvių ar pasirašę naujai išleidžiamas projekto įgyvendinimo bendrovės akcijas.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-993, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01005
 
 6 straipsnis. Nacionalinis investuotojas
 
@@ -329,6 +333,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2084, 2012-06-21, Žin., 2012, Nr. 73-3779 (2012-06-28), i. k. 1121010ISTA0XI-2084
 
 Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-993, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01005
+
+Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymo Nr. X-1231 5 straipsnio pakeitimo įstatymas
 
 18 straipsnis. Visuomenės informavimas
 
