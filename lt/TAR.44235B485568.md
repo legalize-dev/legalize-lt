@@ -4,7 +4,7 @@ identifier: "TAR.44235B485568"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2018-01-01"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
 
@@ -1223,7 +1223,11 @@ EKSTREMALIOJI ENERGETIKOS PADĖTIS
 
 6. Ekstremaliosios energetikos padėties metu vartotojai aprūpinami energijos ištekliais naudojant įstatymų nustatyta tvarka sudarytas naftos produktų valstybės atsargas.
 
-7. Paskelbus ekstremaliąją energetikos padėtį, įmonės, gaminančios, perduodančios, skirstančios, transportuojančios, pakraunančios ir iškraunančios naftą ir naftos produktus, gamtines dujas, kurą, elektros energiją ir (ar) šilumos energiją, pirmiausia privalo tenkinti Lietuvos Respublikos vidaus vartotojų poreikius, pirmenybę teikdamos civilinės saugos sistemos pajėgų, taip pat strateginę reikšmę nacionaliniam saugumui turinčių objektų ir kitų nacionaliniam saugumui užtikrinti svarbių objektų poreikiams.
+7. Paskelbus ekstremaliąją energetikos padėtį, įmonės, gaminančios, perduodančios, skirstančios, transportuojančios, pakraunančios ir iškraunančios naftą ir naftos produktus, gamtines dujas, kurą, elektros energiją ir (ar) šilumos energiją, pirmiausia privalo tenkinti Lietuvos Respublikos vidaus vartotojų poreikius, pirmenybę teikdamos civilinės saugos sistemos pajėgų, taip pat nacionaliniam saugumui užtikrinti svarbių objektų poreikiams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-997, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01009
 
 8. Paskelbus ekstremaliąją energetikos padėtį, asmenys privalo vykdyti Vyriausybės, jos įgaliotų valstybės institucijų ir (ar) savivaldybės administracijos direktoriaus nurodymus. Jeigu ekstremaliosios energetikos padėties metu energetikos įmonės nevykdo nurodymų, Vyriausybė ar savivaldybės taryba turi teisę laikotarpiu, kol tęsis ekstremalioji energetikos padėtis, nušalinti šių įmonių valdymo organus ir įmonėms valdyti laikinai paskirti savo atstovus. Vyriausybės ar savivaldybės atstovai, atlikdami energetikos įmonių valdymo organų funkcijas, vadovaujasi Lietuvos Respublikos įstatymais ir kitais teisės aktais. Vyriausybės ar savivaldybės atstovai, veikdami pagal jiems suteiktus įgaliojimus, įgyja teises, pareigas ir atsakomybę, kurias Lietuvos Respublikos įstatymai nustato energetikos įmonių valdymo organams, jeigu šiame įstatyme ar kituose ekstremaliąją energetikos padėtį reglamentuojančiuose teisės aktuose nenustatyta kitaip.
 
@@ -1722,6 +1726,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-788, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18851
 
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 papildymo 30-1 straipsniu įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-997, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01009
+
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 33 straipsnio pakeitimo įstatymas
 
 191 straipsnis. Centralizuotai tiekiamų suskystintų naftos dujų kainos
 
