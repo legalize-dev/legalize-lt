@@ -4,7 +4,7 @@ identifier: "TAR.A0BAB27D768C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-12-19"
-last_updated: "2018-01-01"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
 
@@ -1133,6 +1133,14 @@ Nr. XIII-621, 2017-07-11, paskelbta TAR 2017-07-20, i. k. 2017-12472
 
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1004, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01017
+
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
+
 – Konstitucijos 135 straipsnis, įpareigojantis Lietuvos Respubliką įgyvendinant užsienio politiką vadovautis visuotinai pripažintais tarptautinės teisės principais ir normomis, siekti užtikrinti šalies saugumą ir nepriklausomybę, piliečių gerovę ir pagrindines jų teises bei laisves, prisidėti prie teise ir teisingumu pagrįstos tarptautinės tvarkos kūrimo;
 
 – Konstitucijos 142 straipsnis, įpareigojantis Seimą ir Respublikos Prezidentą priimti sprendimus panaudoti ginkluotąsias pajėgas bei imtis kitų veiksmų, būtinų Tėvynei apginti ar valstybės tarptautiniams įsipareigojimams vykdyti;
@@ -1173,7 +1181,9 @@ Strategiškai svarbūs nacionaliniam saugumui ūkio sektoriai Lietuvoje yra:
 
 – informacinių technologijų ir telekomunikacijų, kitų aukštųjų technologijų;
 
-– finansų ir kredito.
+– finansų ir kredito;
+
+– karinės įrangos.
 
 Siekdama užtikrinti nacionalinio saugumo interesų apsaugą, Vyriausybė, laikydamasi Europos Sąjungos teisės reikalavimų, teikia Seimui įstatymu tvirtinti, kurie nacionaliniam saugumui strategiškai svarbūs objektai privalo būti valstybės nuosavybė, o kuriuose ir kokiomis sąlygomis kapitalo dalį gali sudaryti privatus nacionalinis bei užsienio kapitalas, atitinkantis europinės ir transatlantinės integracijos kriterijus, paliekant sprendžiamąją galią valstybei, taip pat teikia tvirtinti kitus nacionalinio saugumo užtikrinimui svarbius objektus.
 
@@ -1244,6 +1254,10 @@ Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 Nr. X-1598, 2008-06-12, Žin., 2008, Nr. 73-2797 (2008-06-27)
+
+Skyriaus pakeitimai:
+
+Nr. XIII-1004, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01017
 
 5 skyrius
 
