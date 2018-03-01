@@ -4,7 +4,7 @@ identifier: "TAR.951DF53F837F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-20"
-last_updated: "2014-05-09"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.951DF53F837F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2014-05-09 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-08-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1600; Žin. 1999, Nr.68-0; Žin. 2011, Nr.91-4318, i. k. 0991010ISTAIII-1190
 
@@ -345,7 +345,11 @@ RADIOAKTYVIŲJŲ ATLIEKŲ TVARKYTOJAS
 
 2. Radioaktyviųjų atliekų tvarkytoju skiriamas juridinis asmuo, turintis pakankamus technologinius, finansinius ir vadybinius pajėgumus saugiai ir nepertraukiamai vykdyti radioaktyviųjų atliekų tvarkymo veiklą, taip pat užtikrinti kitų teisės aktuose nustatytų įpareigojimų radioaktyviųjų atliekų tvarkytojui tinkamą vykdymą. Reikalavimus radioaktyviųjų atliekų tvarkytojo technologiniams, finansiniams ir vadybiniams pajėgumams ir jų įvertinimo tvarką nustato Vyriausybė.
 
-3. Radioaktyviųjų atliekų tvarkytojas privalo atitikti įstatymų ir kitų teisės aktų nustatytus Lietuvos Respublikos nacionalinio saugumo interesus. Juridinio asmens, ketinančio vykdyti radioaktyviųjų atliekų tvarkytojo veiklą, atitiktis nacionalinio saugumo interesams vertinama Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme nustatyta tvarka ir sąlygomis.
+3. Radioaktyviųjų atliekų tvarkytojas privalo atitikti įstatymų ir kitų teisės aktų nustatytus Lietuvos Respublikos nacionalinio saugumo interesus. Juridinio asmens, ketinančio vykdyti radioaktyviųjų atliekų tvarkytojo veiklą, atitiktis nacionalinio saugumo interesams vertinama Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatyta tvarka ir sąlygomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1007, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01020
 
 4. Radioaktyviųjų atliekų tvarkytojas, gavęs Valstybinės atominės energetikos saugos inspekcijos išduodamą licenciją eksploatuoti branduolinės energetikos objektą, Branduolinės saugos įstatymo nustatyta tvarka ir sąlygomis tampa radioaktyviųjų atliekų saugyklą ir (ar) radioaktyviųjų atliekų atliekyną eksploatuojančia organizacija.
 
@@ -616,6 +620,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 
 Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 1, 2, 3, 4, 5, 7, 10 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1007, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01020
+
+Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 10 straipsnio pakeitimo įstatymas
 
 26 straipsnis. Uždaryto kapinyno priežiūra
 
