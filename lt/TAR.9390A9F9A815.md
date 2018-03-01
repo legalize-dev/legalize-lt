@@ -4,7 +4,7 @@ identifier: "TAR.9390A9F9A815"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-28"
-last_updated: "2018-01-01"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9390A9F9A815"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2024-11-22
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 33-1250, i. k. 1021010ISTA00IX-816
 
@@ -339,7 +339,11 @@ Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
 
 1) atremdamas ginkluotą įsiveržimą į Lietuvos Respublikos teritoriją;
 
-2) atremdamas ginkluotus užsienio valstybių diplomatinių ir tarptautinių organizacijų atstovybių ir jų teritorijų, užsienio valstybių konsulinių įstaigų ir jų teritorijų bei šių institucijų vadovų rezidencijų ir jų teritorijų, Lietuvos Respublikos valstybės ar savivaldybių institucijų ar įstaigų ar jų teritorijų, strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ar jų teritorijų ir ypatingą strateginę reikšmę ar strateginę reikšmę nacionaliniam saugumui turinčių įrenginių ar jų teritorijų užpuolimus;
+2) atremdamas ginkluotus užsienio valstybių diplomatinių ir tarptautinių organizacijų atstovybių ir jų teritorijų, užsienio valstybių konsulinių įstaigų ir jų teritorijų bei šių institucijų vadovų rezidencijų ir jų teritorijų, Lietuvos Respublikos valstybės ar savivaldybių institucijų ar įstaigų ar jų teritorijų, nacionaliniam saugumui užtikrinti svarbių įmonių ar jų teritorijų ir nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto ar jų teritorijų užpuolimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-998, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01010
 
 3) gindamasis ar gindamas kitą asmenį nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei ar sveikatai nusikalstamo kėsinimosi;
 
@@ -447,7 +451,7 @@ Nr. IX-1536, 2003-04-29, Žin. 2003, Nr. 42-1926 (2003-05-01), i. k. 1031010ISTA
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -522,4 +526,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-810, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20004
 
 Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 19 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-998, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01010
+
+Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 17 straipsnio pakeitimo įstatymas
 
