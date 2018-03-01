@@ -4,7 +4,7 @@ identifier: "TAR.74733D7DB1CF"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-06-12"
-last_updated: "2018-01-01"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.74733D7DB1CF"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS SUSKYSTINTŲ GAMTINIŲ DUJŲ TERMINALO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-12-21
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 68-3466, i. k. 1121010ISTA0XI-2053
 
@@ -110,7 +110,11 @@ PROJEKTO ĮGYVENDINIMAS IR FINANSAVIMAS
 
 1. Lietuvos Respublikos teritorijoje turi būti įrengtas SGD terminalas ir jo efektyvų veikimą užtikrinanti gamtinių dujų infrastruktūra. SGD terminalas įrengiamas Klaipėdos valstybinio jūrų uosto teritorijoje.
 
-2. SGD terminalas ir SGD terminalo jungtis pripažįstami strateginę reikšmę nacionaliniam saugumui turinčiais įrenginiais, taip pat SGD terminalo operatorius pripažįstamas strateginę reikšmę nacionaliniam saugumui turinčia įmone, kaip nurodyta Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme.
+2. Neteko galios 2018-03-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1009, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01022
 
 3. Šiuo įstatymu suskystintų gamtinių dujų terminalo projektas (toliau – projektas) pripažįstamas ypatingos valstybinės svarbos ekonominiu projektu, kurio įgyvendinimui taikomas Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas (toliau – Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas), išskyrus pastarojo įstatymo 3 straipsnio 2 dalyje nurodytą reikalavimą pateikti projekto galimybių studiją.
 
@@ -196,7 +200,11 @@ Nr. XII-426, 2013-06-27, Žin. 2013, Nr. 76-3842 (2013-07-16), i. k. 1131010ISTA
 
 1. Siekiant užtikrinti SGD terminalo būtinąją veiklą, kaip nurodyta šio įstatymo 2 straipsnio 3 dalyje, valstybės reguliuojamai elektros energijos ir (ar) šilumos energijos gamybai užtikrinti pirmumo tvarka privalo būti tiekiamos per SGD terminalą įvežtos gamtinės dujos.
 
-2. Šio straipsnio 1 dalyje nustatyto įpareigojimo vykdymą užtikrina paskirtasis tiekėjas, vadovaudamasis šiame įstatyme ir Vyriausybės nustatytais reikalavimais. Paskirtąjį tiekėją Vyriausybės nustatyta tvarka ir sąlygomis konkurso būdu paskiria Energetikos ministerija. Paskirtuoju tiekėju gali būti skiriama įmonė, kurioje valstybei tiesiogiai ar netiesiogiai priklauso ne mažiau kaip 2/3 balsų visuotiniame akcininkų susirinkime suteikiančių akcijų. Paskirtasis tiekėjas negali vykdyti veiklos, susijusios su energijos perdavimu ir (ar) skirstymu, taip pat kita paskirtojo tiekėjo veikla, jo valdymas ir organizacinė struktūra neturi prieštarauti veiklos gamtinių dujų sektoriuje atskyrimo ir nepriklausomumo reikalavimams. Paskirtasis tiekėjas pripažįstamas strateginę reikšmę nacionaliniam saugumui turinčia įmone.
+2. Šio straipsnio 1 dalyje nustatyto įpareigojimo vykdymą užtikrina paskirtasis tiekėjas, vadovaudamasis šiame įstatyme ir Vyriausybės nustatytais reikalavimais. Paskirtąjį tiekėją Vyriausybės nustatyta tvarka ir sąlygomis konkurso būdu paskiria Energetikos ministerija. Paskirtuoju tiekėju gali būti skiriama įmonė, kurioje valstybei tiesiogiai ar netiesiogiai priklauso ne mažiau kaip 2/3 balsų visuotiniame akcininkų susirinkime suteikiančių akcijų. Paskirtasis tiekėjas negali vykdyti veiklos, susijusios su energijos perdavimu ir (ar) skirstymu, taip pat kita paskirtojo tiekėjo veikla, jo valdymas ir organizacinė struktūra neturi prieštarauti veiklos gamtinių dujų sektoriuje atskyrimo ir nepriklausomumo reikalavimams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1009, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01022
 
 3. Elektros energijos ir (ar) šilumos energijos gamintojai, kuriems teisės aktų nustatyta tvarka ir sąlygomis paskirstomos remtinos elektros energijos gamybos apimtys ir (ar) kurių gaminamos energijos kaina yra valstybės reguliuojama (toliau – energijos gamintojai), nuo SGD terminalo eksploatavimo pradžios elektros energijai ir (ar) šilumos energijai gaminti sunaudojamų gamtinių dujų tiekimą privalo užsitikrinti tokia tvarka:
 
@@ -327,4 +335,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-708, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18143
 
 Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 2, 4 ir 11 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1009, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01022
+
+Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 3 ir 11 straipsnių pakeitimo įstatymas
 
