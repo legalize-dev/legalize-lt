@@ -4,7 +4,7 @@ identifier: "TAR.E59A4E24506E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-12-02"
-last_updated: "2014-07-25"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E59A4E24506E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos susirinkimų įstatymas
 
-Suvestinė redakcija nuo 2014-07-25 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2022-04-20
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 69-1291, i. k. 0931010ISTA000I-317
 
@@ -88,13 +88,13 @@ BENDROSIOS NUOSTATOS
 
 1. Susirinkimai ar pavienio asmens akcija gali vykti viešosiose vietose, gyvenamųjų vietovių gatvėse, aikštėse, parkuose, skveruose ir bendrojo naudojimo pastatuose visomis savaitės dienomis nuo 8 iki 22 valandos. Suderinus susirinkimai gali būti organizuojami ir kitu paros metu, tačiau tik tose vietose, kuriose įrengtas stacionarus apšvietimas, ir netrikdant gyventojų poilsio.
 
-Straipsnio dalies pakeitimai:
+2. Neleidžiama organizuoti susirinkimų ar vykdyti pavienio asmens akcijos valstybės valdžios ir valdymo įstaigose, savivaldybių, policijos, areštinių, tardymo izoliatorių, bausmių vykdymo, sveikatos priežiūros, taip pat krašto apsaugos, Lietuvos Respublikos valstybės saugumo departamento sistemos, prokuratūros, teismų patalpose, Lietuvos banke ir kituose Lietuvos Respublikoje veikiančiuose bankuose, nacionaliniam saugumui užtikrinti svarbiose įmonėse, taip pat branduolinės energetikos objektų apsaugos zonose.
 
-Nr. XII-1029, 2014-07-15, paskelbta TAR 2014-07-24, i. k. 2014-10480
+3. Susirinkimai ar pavienio asmens akcija prie Lietuvos Respublikos Seimo, Respublikos Prezidento kanceliarijos, Lietuvos Respublikos Vyriausybės ir teismų pastatų gali būti organizuojami ne arčiau kaip 75 metrai, o prie kitų valstybės valdžios ir valdymo įstaigų, užsienio diplomatinių atstovybių, savivaldybių, Lietuvos Respublikos valstybės saugumo departamento sistemos, policijos, prokuratūros, Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos Respublikos krašto apsaugos ministerijos įstaigų ir kitų krašto apsaugos sistemos objektų, nacionaliniam saugumui užtikrinti svarbių įmonių, branduolinės energetikos objektų apsaugos zonų – ne arčiau kaip 25 metrai iki šių pastatų, objektų ir apsaugos zonų. Visais atvejais užtikrinamas laisvas priėjimas ir privažiavimas prie šių pastatų, objektų ir apsaugos zonų.
 
-2. Neleidžiama organizuoti susirinkimų ar vykdyti pavienio asmens akcijos valstybės valdžios ir valdymo įstaigose, savivaldybių, policijos, areštinių, tardymo izoliatorių, bausmių vykdymo, sveikatos priežiūros, taip pat krašto apsaugos, Lietuvos Respublikos valstybės saugumo departamento sistemos, prokuratūros, teismų patalpose, Lietuvos banke ir kituose Lietuvos Respublikoje veikiančiuose bankuose, atominės energetikos, strateginę reikšmę nacionaliniam saugumui turinčiose įmonėse ir kitose nacionaliniam saugumui užtikrinti svarbiose įmonėse.
+Straipsnio pakeitimai:
 
-3. Susirinkimai ar pavienio asmens akcija prie Lietuvos Respublikos Seimo, Respublikos Prezidento kanceliarijos, Lietuvos Respublikos Vyriausybės ir teismų pastatų gali būti organizuojami ne arčiau kaip 75 metrai, o prie kitų valstybės valdžios ir valdymo įstaigų, užsienio diplomatinių atstovybių, savivaldybių, Lietuvos Respublikos valstybės saugumo departamento sistemos, policijos, prokuratūros, Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos Respublikos krašto apsaugos ministerijos įstaigų ir kitų krašto apsaugos sistemos objektų, strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir kitų nacionaliniam saugumui užtikrinti svarbių įmonių – ne arčiau kaip 25 metrai iki šių pastatų ir objektų. Visais atvejais užtikrinamas laisvas priėjimas ir privažiavimas prie šių pastatų ir objektų.
+Nr. XIII-1008, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01021
 
 5 straipsnis. Susirinkimo metu draudžiami veiksmai
 
@@ -224,7 +224,7 @@ Susirinkimo organizatoriai, jų įgalioti asmenys ir dalyviai ar pavienis asmuo,
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -257,6 +257,14 @@ Lietuvos Respublikos susirinkimų įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XII-1029, 2014-07-15, paskelbta TAR 2014-07-24, i. k. 2014-10480
+
+Lietuvos Respublikos susirinkimų įstatymo Nr. I-317 4 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1008, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01021
 
 Lietuvos Respublikos susirinkimų įstatymo Nr. I-317 4 straipsnio pakeitimo įstatymas
 
