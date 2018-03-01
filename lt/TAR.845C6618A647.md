@@ -4,7 +4,7 @@ identifier: "TAR.845C6618A647"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-06"
-last_updated: "2016-09-01"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2016-09-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2019-08-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
 
@@ -335,7 +335,11 @@ Nepaprastosios padėties metu gali būti taikomos šios nepaprastosios priemonė
 
 1) valstybės rezervo naudojimas įstatymų nustatyta tvarka;
 
-2) strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių, valstybinės reikšmės ir rizikos objektų sustiprinta (ginkluota) apsauga;
+2) nacionaliniam saugumui užtikrinti svarbių įmonių, įrenginių ir turto, taip pat valstybinės reikšmės ir rizikos objektų sustiprinta (ginkluota) apsauga;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1005, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01018
 
 3) valstybės sienos apsaugos sustiprinimas arba valstybės sienos priedanga;
 
@@ -423,7 +427,7 @@ Pasiūlyti Vyriausybei per 6 mėnesius nuo Įstatymo įsigaliojimo peržiūrėti
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -506,4 +510,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2442, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17529
 
 Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2 ir 28 straipsnių pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1005, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01018
+
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 28 straipsnio pakeitimo įstatymas
 
