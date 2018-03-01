@@ -4,7 +4,7 @@ identifier: "TAR.B9E1D301256F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-10-30"
-last_updated: "2018-02-01"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 department: "Lietuvos Respublikos Seimas"
@@ -21,7 +21,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2018-02-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2019-02-28
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
 
@@ -769,7 +769,7 @@ APDOROTAS TABAKAS
 
 2. Cigaretėms taikomas toks akcizų tarifas:
 
-1) specifinis elementas – 56 eurai;
+1) specifinis elementas – 59 eurai;
 
 Straipsnio punkto pakeitimai:
 
@@ -779,9 +779,11 @@ Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 
 Nr. XIII-86, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29274
 
+Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
+
 2) vertybinis elementas – 25 procentai.
 
-3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 90 eurų už 1 000 cigarečių.
+3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 96 eurai už 1 000 cigarečių.
 
 Straipsnio dalies pakeitimai:
 
@@ -790,6 +792,8 @@ Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 
 Nr. XIII-86, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29274
+
+Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
 
 4. Šio įstatymo 3 straipsnio 11 dalyje nurodytus požymius atitinkantis tabako ritinėlis, kuris (be filtro ar kandiklio) yra ilgesnis kaip 8 cm, bet ne ilgesnis kaip 11 cm, šiame įstatyme laikomas dviem cigaretėmis; ritinėlis, kuris ilgesnis kaip 11 cm, bet ne ilgesnis kaip 14 cm, atitinkamai laikomas trimis cigaretėmis ir taip toliau.
 
@@ -811,7 +815,7 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 31 straipsnis. Kitam apdorotam tabakui taikomi akcizų tarifai
 
-1. Cigarams ir cigarilėms taikomas 33 eurų už kilogramą produkto akcizų tarifas.
+1. Cigarams ir cigarilėms taikomas 37 eurų už kilogramą produkto akcizų tarifas.
 
 Straipsnio dalies pakeitimai:
 
@@ -822,6 +826,8 @@ Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 
 Nr. XIII-86, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29274
+
+Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
 
 2. Rūkomajam tabakui taikomas 60,24 euro už kilogramą produkto akcizų tarifas.
 
