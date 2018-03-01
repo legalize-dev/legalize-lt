@@ -4,7 +4,7 @@ identifier: "TAR.D4A66ACB9F97"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2018-01-01"
+last_updated: "2018-03-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D4A66ACB9F97"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-08-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 50-1197, i. k. 0961010ISTA00I-1338
 
@@ -142,8 +142,6 @@ Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
 
 27) asmenys, aukojantys savarankiškam politinės kampanijos dalyviui, ir jų šeimos nariai, išskyrus asmenis, kurių auka (aukų suma) vienam savarankiškam politinės kampanijos dalyviui per politinę kampaniją neviršija 12 eurų;
 
-TAR pastaba. 27 punkto nuostatos taikomos deklaruojant 2015 metų ir vėlesnių metų turtą.
-
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1136, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13465
@@ -174,13 +172,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
 
-33) strateginę reikšmę nacionaliniam saugumui turinčių valstybės įmonių, savivaldybės įmonių ir akcinių bendrovių bei nacionaliniam saugumui užtikrinti svarbių įmonių vadovai ir jų šeimos nariai, vadovų pavaduotojai ir jų šeimos nariai;
-
-TAR pastaba. 33 punkto nuostatos taikomos deklaruojant 2017 metų ir vėlesnių metų turtą.
+33) nacionaliniam saugumui užtikrinti svarbių įmonių vadovai ir jų šeimos nariai, vadovų pavaduotojai ir jų šeimos nariai;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
+
+Nr. XIII-1000, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01012
 
 34) neteko galios 2018-01-01;
 
@@ -193,8 +191,6 @@ Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
 36) kandidatai į pareigas, nurodytas šio straipsnio 1 dalies 5–23 ir 29–35 punktuose;
 
 37) politinės partijos nariai ir jų šeimos nariai, išskyrus asmenis, kurių politinės partijos nario mokestis per kalendorinius metus neviršija 360 eurų.
-
-TAR pastaba. 37 punkto nuostatos taikomos deklaruojant 2015 metų ir vėlesnių metų turtą.
 
 Straipsnio punkto pakeitimai:
 
@@ -319,8 +315,6 @@ Nr. XII-1216, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15179
 3) meno kūrinius, brangakmenius, juvelyrinius dirbinius, tauriuosius metalus, kurių vieneto vertė viršija 1 500 eurų;
 
 4) šio straipsnio 1 dalies 4, 5 ir 7 punktuose nurodytą turtą.
-
-TAR pastaba. 2 dalies nuostatos taikomos deklaruojant 2015 metų ir vėlesnių metų turtą.
 
 Straipsnio dalies pakeitimai:
 
@@ -827,6 +821,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
 
 Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2, 5 ir 10 straipsnių pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1000, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01012
+
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2 straipsnio pakeitimo įstatymas
 
 12 straipsnis. Įstatymo
 
