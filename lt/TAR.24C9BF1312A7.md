@@ -4,7 +4,7 @@ identifier: "TAR.24C9BF1312A7"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-11-11"
-last_updated: "2004-11-26"
+last_updated: "2018-03-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.24C9BF1312A7"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "2004-11-11"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Vyriausybės įstatymo 37 straipsnio pakeitimo ir papildymo, įstatymo papildymo 41(1) straipsniu bei vienuoliktuoju skirsniu įstatymas
+
+Suvestinė redakcija nuo 2018-03-05
+
+Įstatymas paskelbtas: Žin. 2004, Nr. 171-6322, i. k. 1041010ISTA0IX-2576
 
 LIETUVOS RESPUBLIKOS
 
@@ -50,6 +54,12 @@ Papildyti Įstatymą 411 straipsniu:
 „411 straipsnis. Vyriausybės sprendimai ir Vyriausybės rezoliucijos
 
 1. Vyriausybės sprendimai ir Vyriausybės rezoliucijos priimami Vyriausybės pasitarime dalyvaujančių Vyriausybės narių balsų dauguma.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Vyriausybės įstatymo 411 straipsnio 1 dalis (2004 m. lapkričio 11 d. redakcija; Žin., 2004, 171-6322) prieštarauja Lietuvos Respublikos Konstitucijos 95 straipsnio 1 daliai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT3-N2/2018, 2018-03-02, paskelbta TAR 2018-03-05, i. k. 2018-03510
 
 2. Vyriausybės sprendimus ir Vyriausybės rezoliucijas pasirašo Ministras Pirmininkas Vyriausybės darbo reglamento nustatyta tvarka.
 
@@ -116,4 +126,14 @@ Vyriausybė pagal savo kompetenciją yra atsakinga už Europos Sąjungos teisės
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT3-N2/2018, 2018-03-02, paskelbta TAR 2018-03-05, i. k. 2018-03510
+
+Dėl Lietuvos Respublikos Vyriausybės įstatymo 41(1) straipsnio 1 dalies (2004 m. lapkričio 11 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Vyriausybės 2016 m. rugsėjo 28 d. nutarimo Nr. 960 „Dėl J. Miliaus atleidimo iš Valstybinės maisto ir veterinarijos tarnybos direktoriaus pareigų“ atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Vyriausybės įstatymui ir bylos dalies nutraukimo
 
