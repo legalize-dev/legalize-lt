@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2017-12-30"
+last_updated: "2018-03-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-12-30 iki 2018-03-04
+Suvestinė redakcija nuo 2018-03-05 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
 
@@ -906,6 +906,12 @@ Nr. XII-153, 2013-01-17, Žin., 2013, Nr. 11-497 (2013-01-30)
 41(1) straipsnis. Vyriausybės sprendimai ir Vyriausybės rezoliucijos
 
 1. Vyriausybės sprendimai ir Vyriausybės rezoliucijos priimami Vyriausybės pasitarime dalyvaujančių Vyriausybės narių balsų dauguma.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Vyriausybės įstatymo 411 straipsnio 1 dalis (2004 m. lapkričio 11 d. redakcija; Žin., 2004, 171-6322) prieštarauja Lietuvos Respublikos Konstitucijos 95 straipsnio 1 daliai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT3-N2/2018, 2018-03-02, paskelbta TAR 2018-03-05, i. k. 2018-03510
 
 2. Vyriausybės sprendimus ir Vyriausybės rezoliucijas pasirašo Ministras Pirmininkas Vyriausybės darbo reglamento nustatyta tvarka.
 
