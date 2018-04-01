@@ -4,7 +4,7 @@ identifier: "TAR.068516AF734B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-12-21"
-last_updated: "2018-01-01"
+last_updated: "2018-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-03-31
+Suvestinė redakcija nuo 2018-04-01 iki 2018-12-18
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
 
@@ -109,11 +109,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-300, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06977
 
-3. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui) ar globėjui, prižiūrinčiam vaiką, kurio priežiūrai suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos kitam asmeniui (motinai (tėvui), įmotei (įtėviui) ar globėjui), kuris dėl savo ar kito vaiko (globojamo vaiko) iki 3 metų, kurio priežiūrai jam suteiktos vaiko priežiūros atostogos, ligos ar traumos negali šio vaiko prižiūrėti, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko priežiūros dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. Bendras ligos išmokos mokėjimo terminas negali būti ilgesnis kaip 90 kalendorinių dienų per kalendorinius metus.
+3. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui) ar globėjui, ar senelei (seneliui), prižiūrinčiam vaiką, kurio priežiūrai suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos kitam asmeniui (motinai (tėvui), įmotei (įtėviui) ar globėjui, ar senelei (seneliui), kuris dėl savo ar kito vaiko (globojamo vaiko) iki 3 metų, kurio priežiūrai jam suteiktos vaiko priežiūros atostogos, ligos ar traumos negali šio vaiko prižiūrėti, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko priežiūros dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. Bendras ligos išmokos mokėjimo terminas negali būti ilgesnis kaip 90 kalendorinių dienų per kalendorinius metus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-299, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06976
+
+Nr. XIII-987, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00962
 
 4. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui), seneliui (senelei), globėjui ar rūpintojui, slaugančiam stacionare ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje sergantį iki 7 metų vaiką ar vaiką iki 18 metų, sergantį ligomis, dėl kurių nustatytas sunkus neįgalumo lygis, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 120 dienų per kalendorinius metus.
 
@@ -199,7 +201,7 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 22 straipsnis. Teisė gauti vaiko priežiūros išmoką
 
-1. Teisę gauti vaiko priežiūros išmoką turi vienas iš tėvų (įtėvių) ar globėjas, kuris:
+1. Teisę gauti vaiko priežiūros išmoką turi vienas iš tėvų (įtėvių) ar globėjas, ar vienas iš vaiko senelių (jeigu jis atitinka šios dalies sąlygas ir tik tuo atveju, jeigu teisę gauti vaiko priežiūros išmoką tam pačiam vaikui prižiūrėti turi bent vienas iš vaiko tėvų (įtėvių), kuris:
 
 1) yra apdraustas motinystės socialiniu draudimu, išskyrus atvejus, numatytus šio straipsnio 5, 6 ir 7 dalyse;
 
@@ -212,6 +214,8 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-245, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05916
 
 Nr. XIII-832, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20051
+
+Nr. XIII-987, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00962
 
 2. Jeigu apdraustasis asmuo neturi reikiamo motinystės socialinio draudimo stažo, nes šio stažo skaičiavimo laikotarpiu jam buvo suteiktos vaiko priežiūros atostogos, motinystės socialinio draudimo stažas jam skaičiuojamas iš 24 mėnesių laikotarpio, buvusio iki vaikui, kurio priežiūrai apdraustajam asmeniui suteiktos atostogos, suėjo 2 metai.
 
@@ -231,13 +235,21 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-832, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20051
 
-5. Vienam iš tėvų (įtėvių) ar globėjui, gaunančiam vaiko priežiūros išmoką, kuriam pasibaigė darbo sutartis arba kuris buvo atleistas iš tarnybos, vaiko priežiūros išmoka mokama šio įstatymo 23 ir 24 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
+5. Vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, gaunančiam vaiko priežiūros išmoką, kuriam pasibaigė darbo sutartis arba kuris buvo atleistas iš tarnybos, vaiko priežiūros išmoka mokama šio įstatymo 23 ir 24 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-987, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00962
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-832, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20051
 
-6. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam šio straipsnio 1 dalies 3 punkte nurodytą motinystės socialinio draudimo stažą, kuriam pasibaigė darbo sutartis arba kuris buvo atleistas iš tarnybos ir dėl to negavo vaiko priežiūros atostogų, vaiko priežiūros išmoka mokama šio įstatymo 23 ir 24 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
+6. Vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, turinčiam šio straipsnio 1 dalies 3 punkte nurodytą motinystės socialinio draudimo stažą, kuriam pasibaigė darbo sutartis arba kuris buvo atleistas iš tarnybos ir dėl to negavo vaiko priežiūros atostogų, vaiko priežiūros išmoka mokama šio įstatymo 23 ir 24 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-987, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00962
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -1312,4 +1324,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-832, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20051
 
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 5, 20, 22, 23 ir 24 straipsnių pakeitimo įstatymo Nr. XIII-245 3 ir 5 straipsnių pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-987, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00962
+
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 10 ir 22 straipsnių pakeitimo įstatymas
 
