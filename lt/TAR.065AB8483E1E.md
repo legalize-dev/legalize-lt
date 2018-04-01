@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2018-03-01"
+last_updated: "2018-04-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2018-03-01 iki 2018-03-31
+Suvestinė redakcija nuo 2018-04-01 iki 2018-07-15
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
 
@@ -664,7 +664,11 @@ Kiekvienas fizinis asmuo, kurio garbę ir orumą žemina visuomenės informavimo
 
 2. Viešosios informacijos, kuri daro neigiamą poveikį nepilnamečių fiziniam, protiniam ar doroviniam vystymuisi, priskyrimo šiai informacijai kriterijus nustato Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymas.
 
-3. Neskelbtinos informacijos kontrolę ir ribojamos viešosios informacijos platinimo tvarką nustato Vyriausybė.
+3. Neteko galios 2018-04-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 
 18 straipsnis. Neteikiama informacija
 
@@ -682,11 +686,13 @@ Kiekvienas fizinis asmuo, kurio garbę ir orumą žemina visuomenės informavimo
 
 2) skatinama kėsintis į Lietuvos Respublikos suverenitetą, jos teritorijos vientisumą, politinę nepriklausomybę;
 
-3) skleidžiama karo propaganda, kurstomas karas ar neapykanta, tyčiojimasis, niekinimas, kurstoma diskriminuoti, smurtauti, fiziškai susidoroti su žmonių grupe ar jai priklausančiu asmeniu dėl amžiaus, lyties, lytinės orientacijos, etninės priklausomybės, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų, pažiūrų ar religijos pagrindu;
+3) skleidžiama karo propaganda, kurstomas karas ar neapykanta, tyčiojimasis, niekinimas, kurstoma diskriminuoti, smurtauti, fiziškai susidoroti su žmonių grupe ar jai priklausančiu asmeniu dėl amžiaus, lyties, lytinės orientacijos, etninės priklausomybės, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, negalios, tikėjimo, įsitikinimų, pažiūrų ar religijos pagrindu;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+
+Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 
 4) platinama, propaguojama ar reklamuojama pornografija, taip pat propaguojamos ir (ar) reklamuojamos seksualinės paslaugos, lytiniai iškrypimai;
 
@@ -694,9 +700,17 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 2. Draudžiama platinti dezinformaciją ir informaciją, šmeižiančią, įžeidžiančią žmogų, žeminančią jo garbę ir orumą.
 
-3. Draudžiama skleisti informaciją, pažeidžiančią nekaltumo prezumpciją ir kliudančią teisminės valdžios nešališkumui.
+3. Draudžiama skleisti informaciją, pažeidžiančią nekaltumo prezumpciją.
 
-4. Spaudos leidinių, garso, audiovizualinių kūrinių, radijo ir televizijos programų, informacinės visuomenės informavimo priemonėse skleidžiamos ir kitos viešosios informacijos, priskirtos erotinio, pornografinio, smurtinio pobūdžio ar kitai ribojamai viešajai informacijai, platinimo tvarką nustato Vyriausybė.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
+
+4. Neteko galios 2018-04-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 
 5. Asmuo, manydamas, kad viešosios informacijos rengėjas ir (ar) skleidėjas paskelbė ir (ar) paskleidė galimai neskelbtiną informaciją, turi teisę kreiptis į už neskelbtinos informacijos kontrolę atsakingą instituciją su motyvuotu prašymu atlikti tyrimą, priimti sprendimą ir taikyti objektyviai būtinas poveikio priemones neskelbtinos informacijos paskelbimo ir (ar) skleidimo atveju. Už neskelbtinos informacijos kontrolę atsakinga institucija išnagrinėja prašyme nurodytas aplinkybes ir ne vėliau kaip per 10 darbo dienų nuo prašymo gavimo dienos informuoja prašymą pateikusį asmenį apie nagrinėjimo rezultatus. Jeigu prašyme nurodytos aplinkybės pasitvirtina, apie tai informuojamas prašymą pateikęs asmuo, o už neskelbtinos informacijos kontrolę atsakinga institucija per 20 darbo dienų nuo prašymą pateikusio asmens informavimo dienos priima sprendimą, kuriuo patvirtinamas neskelbtinos informacijos paskelbimo ir (ar) paskleidimo faktas ir kuriame nurodomos objektyviai būtinos poveikio priemonės, taikytinos viešosios informacijos rengėjui ir (ar) skleidėjui. Asmuo gali skųsti priimtą sprendimą, o tais atvejais, kai už neskelbtinos informacijos kontrolę atsakinga institucija per 20 darbo dienų nuo jo informavimo apie prašyme nurodytų aplinkybių patvirtinimą dienos nepriima sprendimo, asmuo gali skųsti šios institucijos neveikimą, paduodamas motyvuotą skundą Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
@@ -804,11 +818,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1941, 2015-09-22, paskelbta TAR 2015-09-25, i. k. 2015-14259
 
-9. Šio straipsnio 8 dalyje nurodyti subjektai gali leisti neperiodinius informacinio pobūdžio leidinius, turėti informacinės visuomenės informavimo priemonių, skirtų visuomenei informuoti apie savo veiklą. Valstybės ir savivaldybių mokslo ir studijų institucijos bei švietimo įstaigos turimas informacinės visuomenės informavimo priemones ir jose skleidžiamą viešąją informaciją naudoja tik tiek, kiek tai susiję su mokslo, studijų ir švietimo veikla.
+9. Šio straipsnio 8 dalyje nurodyti subjektai gali leisti neperiodinius informacinio pobūdžio leidinius, turėti informacinės visuomenės informavimo priemonių, skirtų visuomenei informuoti apie savo veiklą. Valstybės ir savivaldybių mokslo ir studijų institucijos bei švietimo įstaigos turimas visuomenės informavimo priemones ir jose skleidžiamą viešąją informaciją naudoja tik tiek, kiek tai susiję su mokslo, studijų ir švietimo veikla.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1941, 2015-09-22, paskelbta TAR 2015-09-25, i. k. 2015-14259
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 
 10. Kiekvienas viešosios informacijos rengėjas ar jo dalyvis turi paskirti asmenį (vyriausiąjį redaktorių, redaktorių, programos vedėją ar kitą asmenį), kuris atsako už visuomenės informavimo priemonės turinį. Kai viešosios informacijos rengėjas ir dalyvis yra tas pats fizinis asmuo, jis atsako už savo visuomenės informavimo priemonės turinį.
 
@@ -1988,7 +2006,11 @@ Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
 
 6) praranda Lietuvos Respublikos pilietybę.
 
-9. Inspektorius, priimdamas sprendimą, gali pasitelkti ekspertų grupes (ekspertus), kurios teikia išvadas dėl spaudos leidinių, audiovizualinių kūrinių, radijo ir televizijos programų ar atskirų programų, interneto svetainių ar kitų visuomenės informavimo priemonių ir (ar) jų turinio priskyrimo erotinio, pornografinio ir (ar) smurtinio pobūdžio informacijos kategorijoms, taip pat išvadas apie tai, ar viešoji informacija skatina nesantaiką dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų. Ekspertų grupių (ekspertų) sudėtį ir skaičių tvirtina inspektorius. Ekspertų grupės (ekspertai) atsako už savo išvados (išvadų) teisingumą įstatymų nustatyta tvarka. Ekspertų grupės (ekspertai) veikia pagal inspektoriaus patvirtintą darbo reglamentą. Visuomenės informavimo priemonių priskyrimo erotinio ir (ar) smurtinio pobūdžio informacijos kategorijoms aprašą ir apmokestinimo už visuomenės informavimo priemonių priskyrimą erotinio, pornografinio ir (ar) smurtinio pobūdžio informacijos kategorijoms tvarką nustato Vyriausybė inspektoriaus teikimu.
+9. Inspektorius, priimdamas sprendimą, gali pasitelkti ekspertų grupes (ekspertus), kurios (kurie) teikia išvadas dėl visuomenės informavimo priemonių ir (ar) jų turinio priskyrimo erotinio, pornografinio ir (ar) smurtinio pobūdžio informacijos kategorijoms, taip pat išvadas apie tai, ar viešoji informacija skatina nesantaiką dėl amžiaus, lyties, lytinės orientacijos, etninės priklausomybės, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, negalios, tikėjimo, įsitikinimų, pažiūrų ar religijos. Ekspertų grupių sudėtį ir ekspertų skaičių tvirtina inspektorius. Ekspertų grupės (ekspertai) atsako už savo išvados (išvadų) teisingumą įstatymų nustatyta tvarka. Ekspertų grupės (ekspertai) veikia pagal inspektoriaus patvirtintą darbo reglamentą. Visuomenės informavimo priemonių priskyrimo erotinio ir (ar) smurtinio pobūdžio informacijos kategorijoms tvarkos aprašą tvirtina Vyriausybės įgaliota institucija inspektoriaus teikimu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 
 10. Inspektoriaus veiklą užtikrina Žurnalistų etikos inspektoriaus tarnyba. Žurnalistų etikos inspektoriaus tarnyba yra valstybės biudžetinė įstaiga, jai vadovauja inspektorius.
 
@@ -2024,9 +2046,17 @@ Nr. XI-2353, 2012-11-06, Žin., 2012, Nr. 132-6681 (2012-11-15)
 
 6) teikia Seimui ir kitoms valstybės institucijoms siūlymus dėl šio ir kitų visuomenės informavimą reglamentuojančių įstatymų bei teisės aktų tobulinimo ir įgyvendinimo;
 
-7) vadovaudamasis ekspertų grupių (ekspertų) išvadomis, priskiria spaudos leidinius, audiovizualinius kūrinius, radijo ir televizijos programas ar atskiras programas, informacinės visuomenės informavimo priemones ar kitas visuomenės informavimo priemones ir (ar) jų turinį erotinio, pornografinio ir (ar) smurtinio pobūdžio informacijos kategorijoms ir informuoja Valstybinę mokesčių inspekciją prie Finansų ministerijos apie erotinio ir (ar) smurtinio pobūdžio spaudos leidinius;
+7) vadovaudamasis ekspertų grupių (ekspertų) išvadomis, priskiria visuomenės informavimo priemones ir (ar) jų turinį erotinio, pornografinio ir (ar) smurtinio pobūdžio informacijos kategorijoms ir informuoja Valstybinę mokesčių inspekciją prie Lietuvos Respublikos finansų ministerijos apie erotinio ir (ar) smurtinio pobūdžio spaudos leidinius;
 
-8) vadovaudamasis ekspertų grupių (ekspertų) išvadomis, nustato, ar visuomenės informavimo priemonėse paskelbta viešoji informacija skatina nesantaiką dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
+
+8) vadovaudamasis ekspertų grupių (ekspertų) išvadomis, nustato, ar visuomenės informavimo priemonėse paskelbta viešoji informacija skatina nesantaiką dėl amžiaus, lyties, lytinės orientacijos, etninės priklausomybės, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, negalios, tikėjimo, įsitikinimų, pažiūrų ar religijos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 
 9) bendradarbiauja su Europos Sąjungos ir kitų šalių analogiškomis institucijomis, pagal savo kompetenciją atstovauja Lietuvos Respublikai tarptautinėse organizacijose;
 
@@ -2036,7 +2066,11 @@ Nr. XI-2353, 2012-11-06, Žin., 2012, Nr. 132-6681 (2012-11-15)
 
 2. Atlikdamas šio straipsnio 1 dalyje nurodytas funkcijas, inspektorius turi teisę:
 
-1) turėdamas informacijos apie pažeidimus, nenurodytus skunduose (pareiškimuose), šio Įstatymo nustatyta tvarka savo iniciatyva pradėti tyrimą arba perduoti surinktą tyrimo medžiagą ištirti kitoms kompetentingoms valstybės institucijoms;
+1) savo iniciatyva pradėti tyrimą arba perduoti surinktą tyrimo medžiagą ištirti kitoms kompetentingoms valstybės institucijoms;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 
 2) šio įstatymo nustatyta tvarka nemokamai gauti iš viešosios informacijos rengėjų, skleidėjų informaciją, įskaitant jų valdomose visuomenės informavimo priemonėse paskelbtą informaciją (transliuotų programų vaizdo ir garso įrašus, leidinių egzempliorius, jų kopijas), būtiną savo funkcijoms atlikti;
 
@@ -2908,7 +2942,11 @@ Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
 
 52 straipsnis. Viešosios informacijos rengėjų ir (ar) skleidėjų veiklos sustabdymas arba nutraukimas
 
-1. Viešosios informacijos rengėjo ir (ar) skleidėjo, išskyrus radijo ir (ar) televizijos programų transliuotojus ir (ar) retransliuotojus, veiklą gali laikinai sustabdyti arba nutraukti teismas, jeigu viešosios informacijos rengėjas ir (ar) skleidėjas pažeidžia šio įstatymo 19 straipsnio 1 ir 2 dalių nuostatas.
+1. Viešosios informacijos rengėjo ir (ar) skleidėjo, išskyrus radijo ir (ar) televizijos programų transliuotojus, retransliuotojus, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikėjus ir (ar) užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjus, veiklą gali laikinai sustabdyti arba nutraukti teismas, jeigu viešosios informacijos rengėjas ir (ar) skleidėjas pažeidžia šio įstatymo 19 straipsnio 1 ir (ar) 2 dalių nuostatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 
 2. Priimdamas sprendimą dėl laikino viešosios informacijos rengėjo ir (ar) skleidėjo veiklos sustabdymo, teismas gali nustatyti ne ilgesnį kaip vieno mėnesio veiklos sustabdymo terminą laikraščių redakcijoms ir ne ilgesnį kaip trijų mėnesių – žurnalų redakcijoms.
 
