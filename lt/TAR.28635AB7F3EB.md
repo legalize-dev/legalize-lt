@@ -4,7 +4,7 @@ identifier: "TAR.28635AB7F3EB"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-06-05"
-last_updated: "2016-01-01"
+last_updated: "2018-04-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.28635AB7F3EB"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,13 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2018-04-27
+Suvestinė redakcija nuo 2018-04-28 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 60-1398, i. k. 0971010ISTAVIII-238
+
+Nauja redakcija nuo 2018-04-28:
+
+Nr. XIII-1108, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06745
 
 LIETUVOS RESPUBLIKOS
 
@@ -26,7 +30,9 @@ LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO
 
 ĮSTATYMAS
 
-1997 m. birželio 5 d. Nr. VIII-238 Vilnius
+1997 m. birželio 5 d. Nr. VIII-238
+
+Vilnius
 
 Lietuvos Respublikos Seimas,
 
@@ -40,23 +46,19 @@ konstatuodamas, kad nuo 1940 m. birželio 15 d. iki 1990 m. kovo 11 d. Lietuva b
 
 konstatuodamas, kad Lietuvos gyventojų fizinis ir dvasinis genocidas bei kiti nusikaltimai žmoniškumui ir karo nusikaltimai buvo vykdomi okupacijų laikotarpiu;
 
-konstatuodamas, kad 1940–1990 m. Lietuvoje įvairiomis formomis (karinėmis ir politinėmis) vyko pasipriešinimas (rezistencija) SSRS ir Vokietijos okupacinėms valdžioms;
+konstatuodamas, kad 1940–1990 m. Lietuvoje įvairiomis formomis (karinėmis ir politinėmis) vyko pasipriešinimas (rezistencija) Sovietų Socialistinių Respublikų Sąjungos (SSRS) ir Vokietijos okupacinėms valdžioms;
 
-pripažindamas, kad didelė Lietuvos gyventojų dalis žuvo laisvės kovose arba tapo genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų aukomis ir turi būti atmenama, deramai pagerbta ir įamžinta;
+konstatuodamas, kad nusikaltimai žmoniškumui ir karo nusikaltimai SSRS buvo vykdomi prieš Lietuvos gyventojus ir po 1990 m. kovo 11 d., atkūrus Lietuvos nepriklausomybę;
+
+konstatuodamas, kad Lietuvos gyventojai įvairiomis formomis priešinosi agresyviems SSRS ekonominiams bei kariniams veiksmams ir atkūrus Lietuvos nepriklausomybę;
+
+pripažindamas, kad daug Lietuvos gyventojų žuvo laisvės kovose arba tapo genocido, holokausto ar kitų nusikaltimų žmoniškumui ir karo nusikaltimų aukomis ir turi būti deramai pagerbti, o jų atminimas – tinkamai įamžintas;
 
 siekdamas sudaryti sąlygas ištirti Lietuvos piliečių pasipriešinimo okupaciniams režimams procesus, juos įvertinti ir patraukti baudžiamojon atsakomybėn genocido organizatorius bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų organizatorius ir vykdytojus;
 
-siekdamas išsaugoti, įamžinti tremties ir rezistencijos laikotarpį reprezentuojančias vietas, skirtas supažindinti su 1944–1953 metų partizaninio karo, neginkluoto pasipriešinimo ir Lietuvos gyventojų tremties istorija, ir užtikrinti aktyvią ir efektyvią istorinės atminties sklaidą ir tinkamą visuomenės, ypač jaunimo, supažindinimą su vertinga istorine medžiaga,
+siekdamas išsaugoti, įamžinti tremties ir rezistencijos laikotarpį reprezentuojančias vietas, skirtas supažindinti su 1944–1953 m. partizaninio karo, neginkluoto pasipriešinimo ir Lietuvos gyventojų tremties istorija, ir užtikrinti aktyvią ir veiksmingą istorinės atminties sklaidą ir tinkamą visuomenės, ypač jaunimo, supažindinimą su vertinga istorine medžiaga,
 
 priima šį įstatymą.
-
-Preambulės pakeitimai:
-
-Nr. IX-1461, 2003-04-03, Žin., 2003, Nr. 38-1706 (2003-04-24)
-
-Preambulės pakeitimai:
-
-Nr. XII-1485, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21228
 
 PIRMASIS SKIRSNIS
 
@@ -68,21 +70,15 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Lietuvos gyventojų genocido ir rezistencijos tyrimo centras
 
-1. Lietuvos gyventojų genocido ir rezistencijos tyrimo centras (toliau – Centras) yra valstybės įstaiga, tirianti visas genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų apraiškas, Lietuvos gyventojų persekiojimą okupacijų metais, taip pat ginkluoto ir neginkluoto pasipriešinimo okupacijoms procesus, inicijuojanti genocido organizatorių ir vykdytojų teisinį įvertinimą. Centras koordinuoja kitų institucijų vykdomus šiuo įstatymu apibrėžtos srities tyrimo darbus.
+1. Lietuvos gyventojų genocido ir rezistencijos tyrimo centras (toliau – Centras) yra valstybės įstaiga, tirianti visas genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų apraiškas, 1920–1939 m. Vilniaus krašte okupacinio režimo vykdytą politiką bei pasipriešinimo jai procesus, Lietuvos gyventojų persekiojimą okupacijų metais, taip pat ginkluoto ir neginkluoto pasipriešinimo okupacijoms procesus, SSRS vykdytą agresiją ir jos padarinius atkūrus Lietuvos nepriklausomybę, inicijuojanti genocido organizatorių ir vykdytojų veiksmų teisinį įvertinimą. Centras koordinuoja kitų institucijų atliekamus šiuo įstatymu apibrėžtos srities tyrimo darbus.
 
-2. Centras turi teisę iš institucijų atstovų sudaryti darbo grupes programoms vykdyti.
+2. Centras turi teisę iš kitų institucijų atstovų sudaryti darbo grupes programoms įgyvendinti.
 
-3. Centras yra juridinis asmuo, turintis atsiskaitomąją sąskaitą Lietuvos banke ir antspaudą su Lietuvos valstybės herbu bei pavadinimu “Lietuvos gyventojų genocido ir rezistencijos tyrimo centras”.
-
-Straipsnio pakeitimai:
-
-Nr. IX-1461, 2003-04-03, Žin., 2003, Nr. 38-1706 (2003-04-24)
-
-Nr. XI-189, 2009-03-12, Žin., 2009, Nr. 32-1240 (2009-03-24)
+3. Centras yra juridinis asmuo, turintis atsiskaitomąją sąskaitą Lietuvos banke ir antspaudą su Lietuvos valstybės herbu bei pavadinimu „Lietuvos gyventojų genocido ir rezistencijos tyrimo centras“.
 
 3 straipsnis. Centro veiklos teisiniai pagrindai
 
-Centras veikia vadovaudamasis Lietuvos Respublikos Konstitucija, įstatymais, kitais Seimo priimtais teisės aktais, Respublikos Prezidento dekretais, Vyriausybės nutarimais bei Centro nuostatais, taip pat šiuo įstatymu.
+Centras veikia vadovaudamasis Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Lietuvos Respublikos Seimo priimtais teisės aktais, Lietuvos Respublikos Prezidento dekretais, Lietuvos Respublikos Vyriausybės nutarimais ir Lietuvos gyventojų genocido ir rezistencijos tyrimo centro nuostatais.
 
 ANTRASIS SKIRSNIS
 
@@ -90,81 +86,65 @@ CENTRO UŽDAVINIAI IR FUNKCIJOS
 
 4 straipsnis. Centro uždaviniai
 
-Centro uždaviniai - istorinės tiesos ir teisingumo atkūrimas, okupacinių režimų 1939-1990 metais vykdyto Lietuvos gyventojų fizinio bei dvasinio genocido ir pasipriešinimo šiems režimams tyrimas, laisvės kovotojų ir genocido aukų atminimo įamžinimas, okupacijos padarinių teisinio įvertinimo inicijavimas. Centras taip pat tiria 1920-1939 m. Vilniaus krašte okupacinio režimo vykdytą politiką bei pasipriešinimo jai procesus.
+Centro uždaviniai – istorinės tiesos ir teisingumo atkūrimas, okupacinių režimų 1939–1990 m. vykdyto Lietuvos gyventojų fizinio bei dvasinio genocido ir pasipriešinimo šiems režimams tyrimas, laisvės kovotojų ir genocido aukų atminimo įamžinimas, okupacijos padarinių teisinio įvertinimo inicijavimas. Centras taip pat tiria 1920–1939 m. Vilniaus krašte okupacinio režimo vykdytą politiką bei pasipriešinimo jai procesus, SSRS vykdytą agresiją ir jos padarinius atkūrus Lietuvos nepriklausomybę.
 
 5 straipsnis. Centro funkcijos
 
-Centras, atlikdamas jam pavestus uždavinius:
+Centras, įgyvendindamas jam pavestus uždavinius, atlieka šias funkcijas:
 
-1) formuoja šiuo įstatymu apibrėžtos srities tyrimų valstybinę politiką: nustato tyrimų kryptis ir metodiką, formuluoja darbo problematiką, sudaro ilgalaikes bei trumpalaikes genocido ir rezistencijos tyrimo programas ir jas realizuoja, koordinuoja visų kitų institucijų vykdomus šios srities tyrimus;
+1) vykdo apibrėžtų sričių ir laikotarpių tyrimus:
 
-2) renka, kaupia, sistemina ir apibendrina medžiagą apie okupacinių režimų įvykdytus nusikaltimus, atskleidžia nusikalstamą totalitarinių režimų esmę, genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų vykdymo sistemą;
+a) formuoja šiuo įstatymu apibrėžtos srities tyrimų valstybinę politiką: nustato tyrimų kryptis ir metodiką, formuluoja darbo problematiką, sudaro ilgalaikes ir trumpalaikes genocido ir rezistencijos tyrimo programas ir jas įgyvendina, koordinuoja visų kitų institucijų vykdomus šios srities tyrimus;
 
-3) renka, analizuoja ir apibendrina medžiagą apie pasipriešinimą okupaciniams režimams, pogrindinių organizacijų veiklą, partizanų judėjimą ir laisvės kovų dalyvius;
+b) renka, kaupia, sistemina ir apibendrina medžiagą apie okupacinių režimų įvykdytus nusikaltimus, taip pat apie SSRS vykdytą agresiją ir jos padarinius atkūrus Lietuvos nepriklausomybę, atskleidžia nusikalstamą totalitarinių režimų esmę, genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų vykdymo sistemą;
 
-4) skelbia mokslinę, informacinę, analitinę medžiagą, leidžia leidinius apie Lietuvos gyventojų genocidą ir pasipriešinimą okupaciniams režimams, rengia mokslines konferencijas, dalyvauja kitų institucijų ir valstybių organizuojamose programose;
+c) renka, analizuoja ir apibendrina medžiagą apie pasipriešinimo okupaciniams režimams procesus ir dalyvius bei pasipriešinimą SSSRS agresijai atkūrus Lietuvos nepriklausomybę;
 
-5) sudaro karių savanorių, laisvės kovų dalyvių ir asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, vardynus;
+d) skelbia mokslinę, informacinę, analitinę medžiagą, leidžia leidinius apie Lietuvos gyventojų genocidą, represijas ir pasipriešinimą okupaciniams režimams, rengia mokslines konferencijas, dalyvauja įgyvendinant kitų institucijų ir valstybių organizuojamas programas;
 
-6) dalyvauja atskirose valstybės programose, susijusiose su okupacijų metu padarytos žalos apskaičiavimu, ir vykdo tokias programas;
+e) sudaro karių savanorių, laisvės kovų dalyvių ir asmenų, nukentėjusių nuo 1939–1990 m. okupacijų, bei karo nusikaltimų vykdytojų skaitmenines duomenų bazes, vardynus;
 
-7) bendradarbiauja su Švietimo ir mokslo, Kultūros, Krašto apsaugos ministerijomis ir mokymo įstaigomis, teikia metodinę pagalbą vykdant jaunimo patriotinio ugdymo ir visuomenės pilietiškumo programas;
+f) tiria archyvinę medžiagą ir teikia informaciją juridiniams ir fiziniams asmenims apie okupacijų laikotarpiu žuvusius, dingusius be žinios, represuotus, persekiotus, nukentėjusius nuo 1939–1990 m. okupacijų ir SSRS vykdytos agresijos atkūrus Lietuvos nepriklausomybę Lietuvos gyventojus, pasipriešinimo okupacijoms dalyvius;
 
-8) (neteko galios nuo 2007 m. birželio 21 d.);
+g) rūpinasi dokumentų, susijusių su genocidu ir rezistencija, paieškomis Lietuvoje ir kitose valstybėse, jų sugrąžinimu ar kopijų įsigijimu, kaupia rašytinę, fotografuotinę, garso, filmuotą medžiagą apie genocidą ir rezistenciją;
 
-9) tiria archyvinę medžiagą ir teikia informaciją juridiniams bei fiziniams asmenims apie okupacijų laikotarpiu žuvusius, dingusius be žinios, represuotus, persekiotus, nukentėjusius nuo 1939–1990 metų okupacijų Lietuvos gyventojus ir karius savanorius bei laisvės kovų dalyvius;
+h) fiksuoja genocido ir Lietuvos gyventojų persekiojimo faktus ir represijų vykdytojus, teikia medžiagą apie konkrečius genocido vykdytojus valstybės teisėsaugos institucijoms; bendradarbiauja su šiomis institucijomis, deleguodamas savo atstovus į darbo grupes, vykdančias tyrimą ir turinčias ikiteisminio tyrimo teisę; gali būti pareiškėju teismuose dėl genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų;
 
-10) inicijuoja, skatina ir remia memorialinių kompleksų, paminklų statybos, atminimo ženklų, kino filmų, monografijų kūrimo projektus ir skelbia viešus konkursus jiems įgyvendinti;
+i) bendradarbiauja su teisėsaugos institucijomis, tiriančiomis kitų valstybių specialiųjų tarnybų ardomąją veiklą Lietuvos Respublikos teritorijoje, teikdamas archyvuose surinktą medžiagą ir nustatytus faktus;
 
-11) dalyvauja steigiant kovų ir kančių memorialą Vilniuje, rūpinasi istorinio paminklinio komplekso - buvusių KGB rūmų - autentiškumo išsaugojimu ir laipsnišku Genocido aukų muziejaus išplėtimu, taip pat tinkamų saugoti sąlygų sudarymu neatsiejamai šio memorialinio komplekso daliai - buvusiems KGB archyvams;
+j) tikrina, analizuoja ir skelbia buvusios SSRS specialiųjų tarnybų dokumentus;
 
-12) koordinuoja valstybės ir savivaldybių institucijų ir įstaigų ar asociacijų iniciatyva vykdomą paminklų statybą, sudaro šių paminklų sąvadus, konsultuoja, teikia rekomendacijas ir metodinę pagalbą įamžinant laisvės kovas (statant paminklus, kuriant kino filmus, suteikiant pasipriešinimo dalyvių vardus miestų aikštėms ir gatvėms, švietimo įstaigoms ar kitiems objektams);
+k) dalyvauja atskirose valstybės programose, susijusiose su okupacijų metu padarytos žalos apskaičiavimu, ir įgyvendina tokias programas;
 
-13) rengia siūlymus dėl valstybės mastu atmintinų su Lietuvos gyventojų genocidu ir laisvės kovomis susijusių datų paminėjimo, konsultuoja valstybės ir savivaldybių institucijas ir įstaigas ar asociacijas, organizuojančias įvairius su pasipriešinimu ir genocidu susijusius renginius;
+2) vykdo laisvės kovotojų ir genocido aukų atminimo įamžinimą:
 
-14) rengia Lietuvos bei kitų šalių ekspedicijas į tremties, žudynių, pasipriešinimo kovų vietas ir šiose ekspedicijose dalyvauja, renka kraštotyros medžiagą, liudytojų parodymus, dalyvauja tarptautiniuose projektuose, kuriais siekiama įamžinti genocido aukų atminimą;
+a) dalyvauja įgyvendinant valstybės politiką tremties ir rezistencijos muziejų srityje: pagal poreikius steigia struktūrinius padalinius muziejinei veiklai vykdyti ir istorinės atminties vietoms įamžinti; konsultuoja ir teikia metodinę pagalbą dėl muziejų ir kitų įstaigų rengiamų ekspozicijų, parodų įrengimo, edukacinių programų organizavimo ir plėtojimo tremties ir rezistencijos tematika;
 
-15) rengia nuolatines ekspozicijas Genocido aukų muziejuje, panaudodamas Centro padalinių tyrimo rezultatus bei sukauptą medžiagą, kaupia muziejaus fondus, juos sistemina, saugo ir tvarko, rengia ir vykdo edukacines programas studentams ir moksleiviams;
+b) bendradarbiauja su Lietuvos Respublikos švietimo ir mokslo ministerija, Lietuvos Respublikos kultūros ministerija, Lietuvos Respublikos krašto apsaugos ministerija ir mokymo įstaigomis, teikia metodinę pagalbą įgyvendinant jaunimo patriotinio ugdymo ir visuomenės pilietiškumo programas;
 
-16) rūpinasi dokumentų, susijusių su genocidu ir rezistencija, paieškomis Lietuvoje ir kitose valstybėse, jų susigrąžinimu ar kopijų įsigijimu, kaupia rašytinę, foto-, fono-, filmuotą medžiagą apie genocidą ir rezistenciją;
+c) inicijuoja, skatina ir remia memorialinių kompleksų, paminklų statybos, atminimo ženklų, kino filmų, monografijų kūrimo projektus ir skelbia viešus konkursus jiems įgyvendinti;
 
-17) inicijuoja visapusišką genocido ir okupacijos padarinių teisinį įvertinimą, taip pat genocidą ir Lietuvos gyventojų persekiojimą vykdžiusių organizacijų bei žinybų pripažinimą nusikalstamomis;
+d) dalyvauja steigiant kovų ir kančių memorialą Vilniuje, rūpinasi istorinio paminklinio komplekso – buvusių KGB rūmų – autentiškumo išsaugojimu ir laipsnišku Okupacijų ir laisvės kovų muziejaus išplėtimu, taip pat tinkamų saugoti sąlygų sudarymu neatsiejamai šio memorialinio komplekso daliai – buvusiems KGB archyvams;
 
-18) fiksuoja genocido ir Lietuvos gyventojų persekiojimo faktus ir teikia medžiagą apie konkrečius genocido vykdytojus valstybės teisėsaugos institucijoms; bendradarbiauja su šiomis institucijomis, deleguodamas savo atstovus į darbo grupes, vykdančias tyrimą ir turinčias ikiteisminio tyrimo teisę; gali būti pareiškėju teismuose dėl genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų;
+e) koordinuoja valstybės ir savivaldybių institucijų ir įstaigų ar asociacijų iniciatyva vykdomą paminklų statybą, sudaro šių paminklų sąvadus, registrą, konsultuoja, teikia rekomendacijas ir metodinę pagalbą įamžinant laisvės kovas (statant paminklus, kuriant kino filmus, suteikiant pasipriešinimo dalyvių vardus miestų aikštėms ir gatvėms, švietimo įstaigoms ar kitiems objektams);
 
-19) bendradarbiauja su teisėsaugos institucijomis, tiriančiomis kitų valstybių specialiųjų tarnybų ardomąją veiklą Lietuvos teritorijoje, teikdamas archyvuose surinktą medžiagą ir išaiškintus faktus;
+f) rengia siūlymus dėl valstybės mastu atmintinų su Lietuvos gyventojų genocidu ir laisvės kovomis susijusių datų paminėjimo, konsultuoja valstybės ir savivaldybių institucijas ir įstaigas ar asociacijas, organizuojančias įvairius su pasipriešinimu ir genocidu susijusius renginius;
 
-20) inicijuoja, rengia ar dalyvauja rengiant įstatymų bei kitų okupacijos padarinių teisinio įvertinimo dokumentų projektus (dėl pasipriešinimo dalyvių (rezistentų), asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso, socialinės rūpybos, atsakomybės už genocidą ir kt. klausimais) bei kontroliuoja jų vykdymą, pripažįsta karių savanorių, laisvės kovų dalyvių ir asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinį statusą; įstatymų nustatyta tvarka išduoda nustatytos formos pažymėjimus ir tvarko jų apskaitą;
+g) rengia siūlymus dėl karių savanorių ir laisvės kovų dalyvių apdovanojimo, taip pat jų turėtų laipsnių ir apdovanojimų atkūrimo;
 
-21) teikia siūlymus dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo, siūlo naujai ištirti šių asmenų bylas;
+h) rengia Lietuvos ir kitų šalių ekspedicijas į tremties, žudynių, pasipriešinimo kovų vietas ir dalyvauja šiose ekspedicijose, renka kraštotyros medžiagą, liudytojų parodymus, dalyvauja tarptautiniuose projektuose, kuriais siekiama įamžinti genocido aukų atminimą;
 
-22) rengia siūlymus dėl karių savanorių ir laisvės kovų dalyvių apdovanojimo, taip pat turėtų laipsnių ir apdovanojimų atkūrimo;
+i) rengia nuolatines ekspozicijas Okupacijų ir laisvės kovų muziejuje, taip pat kilnojamąsias parodas, panaudodamas Centro padalinių tyrimo rezultatus ir sukauptą medžiagą, kaupia muziejaus fondus, juos sistemina, saugo ir tvarko, rengia ir įgyvendina edukacines programas studentams ir moksleiviams;
 
-23) tikrina, analizuoja ir skelbia buvusios SSRS specialiųjų tarnybų dokumentus.
+3) vykdo laisvės kovotojų ir genocido aukų teisinio statuso pripažinimą ir jų rūpybą:
 
-24) dalyvauja įgyvendinant valstybės politiką tremties ir rezistencijos muziejų srityje: pagal poreikius steigia struktūrinius padalinius muziejinei veiklai vykdyti ir istorinės atminties vietoms įamžinti; konsultuoja ir teikia metodinę pagalbą dėl muziejų ir kitų įstaigų rengiamų tremties ir rezistencijos tematikos ekspozicijų, parodų įrengimo, edukacinių programų organizavimo ir plėtojimo.
+a) inicijuoja, rengia ar dalyvauja rengiant įstatymų ir kitų okupacijos padarinių teisinio įvertinimo dokumentų projektus (dėl pasipriešinimo dalyvių (rezistentų), asmenų, nukentėjusių nuo 1939–1990 m. okupacijų, teisinio statuso, socialinės rūpybos, atsakomybės už genocidą ir kitais klausimais) bei kontroliuoja jų vykdymą, pripažįsta karių savanorių, laisvės kovų dalyvių ir asmenų, nukentėjusių nuo 1939–1990 m. okupacijų, teisinį statusą; įstatymų nustatyta tvarka išduoda nustatytos formos pažymėjimus ir tvarko jų apskaitą;
 
-Papildyta straipsnio punktu:
-
-Nr. XII-1485, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21228
-
-Straipsnio pakeitimai:
-
-Nr. IX-1461, 2003-04-03, Žin., 2003, Nr. 38-1706 (2003-04-24)
-
-Nr. X-1166, 2007-06-05, Žin., 2007, Nr. 68-2653 (2007-06-21)
-
-Nr. XI-189, 2009-03-12, Žin., 2009, Nr. 32-1240 (2009-03-24)
-
-Nr. XI-962, 2010-06-30, Žin., 2010, Nr. 86-4520 (2010-07-20)
+b) teikia siūlymus dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo ar pakartotinio bylų tyrimo atsiradus naujų duomenų apie jų veiklą, siūlo iš naujo ištirti šių asmenų bylas.
 
 TREČIASIS SKIRSNIS
 
 CENTRO STRUKTŪRA
-
-Skirsnio pavadinimas keistas:
-
-Nr. XI-189, 2009-03-12, Žin., 2009, Nr. 32-1240 (2009-03-24)
 
 6 straipsnis. Centro struktūra
 
@@ -172,33 +152,25 @@ Nr. XI-189, 2009-03-12, Žin., 2009, Nr. 32-1240 (2009-03-24)
 
 1) Genocido ir rezistencijos tyrimo departamentas;
 
-2) Memorialinis departamentas (su Genocido aukų muziejumi);
+2) Memorialinis departamentas (su Okupacijų ir laisvės kovų muziejumi).
 
-3) Specialiųjų tyrimų skyrius.
-
-2. Centro padaliniai vykdo funkcijas, nurodytas šiame įstatyme, ir glaudžiai bendradarbiauja tarpusavyje, naudodamiesi kituose padaliniuose sukaupta medžiaga.
+2. Centro padaliniai atlieka šiame įstatyme nurodytas funkcijas ir glaudžiai bendradarbiauja tarpusavyje, naudodamiesi kituose padaliniuose sukaupta medžiaga.
 
 3. Centre dirba valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis.
 
-4. Centrui vadovauja generalinis direktorius. Šį Ministro Pirmininko teikimu skiria ir atleidžia Seimas. Centro generalinis direktorius, Centro struktūrinių padalinių vadovai ir jų pavaduotojai sudaro Centro tarybą. Tarybos darbui vadovauja Centro generalinis direktorius.
+4. Centrui vadovauja generalinis direktorius. Jį Lietuvos Respublikos Ministro Pirmininko teikimu skiria ir atleidžia Seimas. Centro generalinis direktorius, Centro struktūrinių padalinių vadovai ir jų pavaduotojai sudaro Centro tarybą. Centro tarybos darbui vadovauja Centro generalinis direktorius.
 
-5. Generalinis direktorius strateginiais Centro veiklos, programų sudarymo ir jų vykdymo klausimais gali sudaryti laikinas konsultacines grupes iš Generalinės prokuratūros, Teisingumo ministerijos, Krašto apsaugos ministerijos, Valstybės saugumo departamento, Lietuvos istorijos instituto, pasipriešinimo dalyvių (rezistentų) ir asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, asociacijų, Pasaulio lietuvių bendruomenės ir kitų valstybės ir savivaldybių institucijų ir įstaigų ar asociacijų atstovų.
+5. Centro generalinis direktorius strateginiais Centro veiklos, programų sudarymo ir jų įgyvendinimo klausimais gali sudaryti laikinas konsultacines grupes iš valstybės ir savivaldybių institucijų ir įstaigų ar asociacijų atstovų.
 
-6. Prie Centro veikia Lietuvos gyventojų genocido ir rezistencijos tyrimo, aukų rėmimo ir įamžinimo fondas, šį steigia ir nuostatus tvirtina Vyriausybė. Lėšos šiam fondui skiriamos iš valstybės biudžeto. Genocido ir rezistencijos aukoms remti išmokama ne mažiau  kaip 80 procentų iš valstybės biudžeto šiam fondui skirtų lėšų.  Nuostatuose nustatyta tvarka lėšos fondui gali būti kaupiamos ir iš kitų  šaltinių.
+6. Už savo veiklą Centras atsiskaito Seimui ir Vyriausybei.
 
-7. Už savo veiklą Centras atsiskaito Seimui ir Vyriausybei.
+7. Centro kompetencija, struktūra ir funkcijos nustatomos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro nuostatuose. Šiuos nuostatus Vyriausybės teikimu tvirtina Seimas.
 
-8. Centro kompetenciją, struktūrą ir funkcijas nustato Centro nuostatai. Šiuos nuostatus Vyriausybės teikimu tvirtina Seimas.
+8. Institucijos prie Centro:
 
-9. Centrui išvadas dėl karių savanorių, laisvės kovų dalyvių ir asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso pripažinimo teikia Pasipriešinimo dalyvių (rezistentų) teisių komisija. Pasipriešinimo dalyvių (rezistentų) teisių komisijos sudėtį ir jos nuostatus Centro generalinio direktoriaus teikimu tvirtina Vyriausybė. Pasipriešinimo dalyvių (rezistentų) teisių komisiją techniškai aptarnauja Centras. Komisijos veikla finansuojama iš valstybės biudžeto lėšų, skiriamų Centrui.
+1) išvadas dėl karių savanorių, laisvės kovų dalyvių ir asmenų, nukentėjusių nuo 1939–1990 m. okupacijų, teisinio statuso pripažinimo Centrui teikia Pasipriešinimo dalyvių (rezistentų) teisių komisija. Pasipriešinimo dalyvių (rezistentų) teisių komisijos sudėtį ir jos nuostatus Centro generalinio direktoriaus teikimu tvirtina Vyriausybė. Pasipriešinimo dalyvių (rezistentų) teisių komisiją techniškai aptarnauja Centras. Komisijos veikla finansuojama iš valstybės biudžeto lėšų, skiriamų Centrui;
 
-Straipsnio pakeitimai:
-
-Nr. VIII-514, 97.11.13, Žin., 1997, Nr.108-2732 (97.11.28)
-
-Nr. VIII-613, 98.01.15, Žin., 1998, Nr.9-199 (98.01.28)
-
-Nr. XI-189, 2009-03-12, Žin., 2009, Nr. 32-1240 (2009-03-24)
+2) prie Centro veikia Lietuvos gyventojų genocido ir rezistencijos tyrimo, aukų rėmimo ir įamžinimo fondas (toliau – Fondas). Fondą steigia ir jo nuostatus tvirtina Vyriausybė. Lėšos Fondui skiriamos iš valstybės biudžeto. Genocido ir rezistencijos aukoms remti išmokama ne mažiau kaip 80 procentų iš valstybės biudžeto Fondui skirtų lėšų. Fondo nuostatuose nustatyta tvarka lėšos Fondui gali būti kaupiamos ir iš kitų šaltinių.
 
 KETVIRTASIS SKIRSNIS
 
@@ -210,21 +182,89 @@ CENTRO FINANSAVIMAS
 
 2. Atskiroms valstybės programoms finansuoti Seimo ar Vyriausybės sprendimu skiriamos papildomos valstybės biudžeto lėšos.
 
-Straipsnio pakeitimai:
-
-Nr. VIII-514, 97.11.13, Žin., 1997, Nr.108-2732 (97.11.28)
-
 PENKTASIS SKIRSNIS
 
 BAIGIAMOSIOS NUOSTATOS
 
-8 straipsnis. Atsakomybė už trukdymą tirti genocidą ir pasipriešinimą okupaciniams
+8 straipsnis. Atsakomybė už trukdymą tirti genocidą ir pasipriešinimą okupaciniams režimams
 
-režimams
+1. Lietuvos gyventojų genocido ir persekiojimo atvejai tiriami renkant ir analizuojant visą Lietuvoje ir už jos ribų esančią archyvų medžiagą bei dokumentus, liudytojų, dalyvių ir aukų parodymus bei prisiminimus. Genocido tyrimas ir istorinės tiesos nustatymas negali būti stabdomi jokia dingstimi.
 
-1. Lietuvos gyventojų genocidas ir persekiojimas tiriamas renkant ir analizuojant visą Lietuvoje ir už jos ribų esančią archyvų medžiagą bei dokumentus, liudytojų, dalyvių ir aukų parodymus bei prisiminimus. Genocido tyrimas ir istorinės tiesos nustatymas negali būti stabdomas jokia dingstimi.
+2. Už Lietuvos gyventojų genocido tyrimo trukdymą, vilkinimą, turimos medžiagos ir informacijos slėpimą, naikinimą, atsisakymą liudyti fiziniai ir juridiniai asmenys atsako pagal Lietuvos Respublikos įstatymus.
 
-2. Už Lietuvos gyventojų genocido tyrimo trukdymą, vilkinimą, turimos medžiagos bei informacijos slėpimą, naikinimą, atsisakymą liudyti fiziniai ir juridiniai asmenys atsako pagal Lietuvos Respublikos įstatymus.
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-514, 97.11.13, Žin., 1997, Nr.108-2732 (97.11.28)
+
+LIETUVOS RESPUBLIKOS LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 6 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-613, 98.01.15, Žin., 1998, Nr.9-199 (98.01.28)
+
+LIETUVOS RESPUBLIKOS LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 6 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1461, 2003-04-03, Žin., 2003, Nr. 38-1706 (2003-04-24)
+
+LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO PREAMBULĖS, 2 IR 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo 2003 m. gegužės 1 d.
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1166, 2007-06-05, Žin., 2007, Nr. 68-2653 (2007-06-21)
+
+LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-189, 2009-03-12, Žin., 2009, Nr. 32-1240 (2009-03-24)
+
+LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 2, 5, 6 STRAIPSNIŲ IR TREČIOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-962, 2010-06-30, Žin., 2010, Nr. 86-4520 (2010-07-20)
+
+LIETUVOS GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 5 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1485, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21228
+
+Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo Nr. VIII-238 preambulės ir 5 straipsnio pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1108, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06745
+
+Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo Nr. VIII-238 pakeitimo įstatymas
 
 9 straipsnis. Netekę galios teisės aktai
 
