@@ -4,7 +4,7 @@ identifier: "TAR.F4CA26A706AF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-25"
-last_updated: "2018-03-01"
+last_updated: "2018-04-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2018-04-27
+Suvestinė redakcija nuo 2018-04-28 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 105-3019, i. k. 0991010ISTAIII-1443
 
@@ -154,7 +154,13 @@ Nr. XIII-1013, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01026
 
 26) informacija, susijusi su prašymo suteikti prieglobstį pateikimu ir nagrinėjimu;
 
-27) tarnybos paslaptį sudarančios informacijos apsaugai naudojami kodinių užraktų ir elektroninių įeigos kontrolės sistemų kodai.
+27) tarnybos paslaptį sudarančios informacijos apsaugai naudojami kodinių užraktų ir elektroninių įeigos kontrolės sistemų kodai;
+
+28) suvestiniai detalūs duomenys apie ypatingos svarbos informacinę infrastruktūrą ir jos valdytojus.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1104, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06742
 
 3. Įslaptinta informacija, išvardyta šio straipsnio 1 dalyje, įslaptintą informaciją rengiančio paslapčių subjekto vadovo ar jo įgalioto asmens sprendimu gali būti įslaptinama kaip tarnybos paslaptis, jeigu pagal savo turinį ir galimos žalos, kurią patirtų valstybė ją neteisėtai atskleidus ar praradus, dydį tokia informacija nereikalauja aukštesnio apsaugos lygio.
 
@@ -1575,4 +1581,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1013, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01026
 
 Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 4 ir 7 straipsnių pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1104, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06742
+
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 7 straipsnio pakeitimo įstatymas
 
