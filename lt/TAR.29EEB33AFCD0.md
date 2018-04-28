@@ -4,7 +4,7 @@ identifier: "TAR.29EEB33AFCD0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-18"
-last_updated: "2017-07-13"
+last_updated: "2018-04-28"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2017-07-13 iki 2018-04-27
+Suvestinė redakcija nuo 2018-04-28 iki 2018-06-14
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
 
@@ -823,7 +823,11 @@ Nr. XIII-101, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29413
 
 7) laikinai sustabdyti (apriboti) centrinės kredito unijos nario balsavimo teisę;
 
-8) laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke ir kitose kredito įstaigose, ir kitu turtu;
+8) laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke ir kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1099, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06740
 
 9) atšaukti išduotą licenciją ar laikinai sustabdyti jos galiojimą tol, kol egzistuoja pagrindas licenciją sustabdyti; išnykus licencijos sustabdymo pagrindui, priežiūros institucija nedelsdama, bet ne vėliau kaip per 5 darbo dienas nuo tada, kai įsitikino, kad pagrindas išnyko, atnaujina licencijos galiojimą;
 
@@ -1431,11 +1435,15 @@ CENTRINĖS KREDITO UNIJOS APSKAITA, FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS
 
 60 straipsnis. Laikinas teisės disponuoti lėšomis ir kitu turtu apribojimas
 
-1. Priežiūros institucijai nusprendus taikyti šio įstatymo 54 straipsnio 1 dalies 8 punkte nurodytą poveikio priemonę, centrinė kredito unija neturi teisės disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke ir kitose kredito įstaigose, ir kitu turtu, kurie nurodyti priežiūros institucijos sprendime.
+1. Priežiūros institucijai nusprendus taikyti šio įstatymo 54 straipsnio 1 dalies 8 punkte nurodytą poveikio priemonę, centrinė kredito unija neturi teisės disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke ir kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu, kurie nurodyti priežiūros institucijos sprendime.
 
-2. Priežiūros institucija turi teisę laikinai apriboti teisę disponuoti visomis lėšomis, esančiomis sąskaitose Lietuvos banke ir kitose kredito įstaigose, ir visu kitu turtu ar lėšų ir kito turto dalimi.
+2. Priežiūros institucija turi teisę laikinai apriboti teisę disponuoti visomis lėšomis, esančiomis sąskaitose Lietuvos banke ir kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir visu kitu turtu ar lėšų ir kito turto dalimi.
 
-3. Priežiūros institucijos sprendimas laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke ir kitose Lietuvos Respublikoje įsteigtose kredito įstaigose, ir kitu Lietuvos Respublikos teritorijoje esančiu turtu laikomas turto arešto aktu ir teisės aktų nustatytais atvejais ir tvarka registruojamas Turto arešto aktų registre. Priežiūros institucijos sprendime turi būti nurodyti duomenys, reikalingi priežiūros institucijos sprendimui įregistruoti Turto arešto aktų registre. Turto arešto aktų registrą reglamentuojančių teisės aktų nustatytais atvejais priežiūros institucijos sprendimas gali būti laikinai įregistruotas Turto arešto aktų registre.
+3. Priežiūros institucijos sprendimas laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke ir kitose Lietuvos Respublikoje įsteigtose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu Lietuvos Respublikos teritorijoje esančiu turtu laikomas turto arešto aktu ir teisės aktų nustatytais atvejais ir tvarka registruojamas Turto arešto aktų registre. Priežiūros institucijos sprendime turi būti nurodyti duomenys, reikalingi priežiūros institucijos sprendimui įregistruoti Turto arešto aktų registre. Turto arešto aktų registrą reglamentuojančių teisės aktų nustatytais atvejais priežiūros institucijos sprendimas gali būti laikinai įregistruotas Turto arešto aktų registre.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1099, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06740
 
 DEŠIMTASIS SKIRSNIS
 
@@ -1776,6 +1784,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-577, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12078
 
 Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 55 straipsnio pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1099, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06740
+
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 40, 54 ir 60 straipsnių pakeitimo įstatymas
 
 71 straipsnis. Kreditorių reikalavimų tenkinimo eilė
 
