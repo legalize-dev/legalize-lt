@@ -4,7 +4,7 @@ identifier: "TAR.07CAE5E6C2B3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-06-26"
-last_updated: "2013-05-01"
+last_updated: "2018-04-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2013-05-01 iki 2018-04-29
+Suvestinė redakcija nuo 2018-04-30 iki 2019-09-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
 
@@ -158,23 +158,27 @@ LIETUVOS VALSTYBĖS VĖLIAVA
 
 3) Lietuvos Respublikos Vyriausybės ir ministerijų;
 
-Straipsnio punkto pakeitimai:
+4) Lietuvos Respublikos Konstitucinio Teismo;
 
-Nr. XI-746, 2010-04-13, Žin., 2010, Nr. 48-2296 (2010-04-27), i. k. 1101010ISTA00XI-746
+5) Lietuvos Respublikos teismų;
 
-4) Lietuvos Respublikos Konstitucinio Teismo ir kitų teismų;
+6) Lietuvos Respublikos generalinės prokuratūros ir teritorinių prokuratūrų;
 
-5) Lietuvos Respublikos generalinės prokuratūros;
+7) Lietuvos banko;
 
-6) Lietuvos banko;
+8) Lietuvos Respublikos vyriausiosios rinkimų komisijos;
 
-7) Lietuvos Respublikos vyriausiosios rinkimų komisijos;
+9) Gedimino pilies bokšte Vilniuje;
 
-8) Gedimino pilies bokšte Vilniuje;
+10) Signatarų namų Vilniuje;
 
-9) savivaldybių tarybų;
+11) kuriuose posėdžiauja savivaldybės taryba;
 
-10) pasienio kontrolės punktuose – tarptautiniuose oro uostuose, atviruose tarptautinei laivybai jūrų ir upių (vidaus vandenų) uostuose, geležinkelio stotyse ar prie automobilių kelių Lietuvos Respublikos Vyriausybės nutarimu įsteigtose vietose, kuriose patikrinimą atlieka Valstybės sienos apsaugos tarnyba, muitinė ir kitos tam įgaliotos valstybės institucijos.
+12) pasienio kontrolės punktuose – tarptautiniuose oro uostuose, atviruose tarptautinei laivybai jūrų ir upių (vidaus vandenų) uostuose, geležinkelio stotyse ar prie automobilių kelių Lietuvos Respublikos Vyriausybės nutarimu įsteigtose vietose, kuriose patikrinimą atlieka Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, muitinė ir kitos įgaliotos valstybės institucijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1020, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00964
 
 2. Valstybės švenčių dienomis Lietuvos valstybės vėliava keliama prie, virš ar ant šių pastatų: prie kitų valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų, nesvarbu, kokia jų nuosavybės forma, taip pat gyvenamųjų namų.
 
@@ -276,35 +280,61 @@ LIETUVOS VALSTYBĖS ISTORINĖ VĖLIAVA
 
 10 straipsnis. Lietuvos valstybės istorinės vėliavos iškėlimo vietos ir progos
 
-1. Lietuvos valstybės istorinė vėliava nuolat iškeliama:
+1. Lietuvos valstybės istorinė vėliava nuolat iškeliama prie, virš ar ant šių pastatų:
 
-1) virš Lietuvos valdovų rūmų Vilniuje;
+1) Lietuvos Respublikos Seimo;
 
-2) Trakų pilyje;
+2) Respublikos Prezidento rezidencijos;
 
-3) Karo muziejaus skverelyje, Kaune.
+3) Lietuvos Respublikos Vyriausybės ir ministerijų;
 
-2. Lietuvos valstybės istorinė vėliava taip pat iškeliama:
+4) Lietuvos Respublikos Konstitucinio Teismo;
 
-1) vasario 16 d. – Lietuvos valstybės atkūrimo dieną – prie (ant ar virš) Signatarų namų pastato, esančio Pilies g., Vilniuje;
+5) Lietuvos Respublikos teismų;
 
-2) kovo 11 d. – Lietuvos nepriklausomybės atkūrimo dieną – prie Lietuvos Respublikos Seimo rūmų;
+6) Lietuvos Respublikos generalinės prokuratūros ir teritorinių prokuratūrų;
 
-3) gegužės 15 d. – Steigiamojo Seimo susirinkimo dieną – prie Lietuvos Respublikos Seimo rūmų;
+7) Lietuvos banko;
 
-4) liepos 6 d. – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) dieną – prie Respublikos Prezidento rezidencijos;
+8) Lietuvos Respublikos vyriausiosios rinkimų komisijos;
 
-5) liepos 15 d. – Žalgirio mūšio dieną – prie Lietuvos Respublikos krašto apsaugos ministerijos;
+9) kuriuose posėdžiauja savivaldybės taryba;
 
-6) spalio 25 d. – Konstitucijos dieną – prie Lietuvos Respublikos Seimo rūmų, Respublikos Prezidento rezidencijos, Lietuvos Respublikos Vyriausybės ir Lietuvos Respublikos Konstitucinio Teismo.
+10) Lietuvos Didžiosios Kunigaikštystės valdovų rūmų Vilniuje;
 
-Straipsnio punkto pakeitimai:
+11) Trakų pilies;
 
-Nr. X-859, 2006-10-17, Žin., 2006, Nr. 113-4299 (2006-10-24), i. k. 1061010ISTA000X-859
+12) Vytauto Didžiojo karo muziejaus skverelyje Kaune.
 
-Straipsnio dalies pakeitimai:
+2. Lietuvos valstybės istorinė vėliava nuolat iškeliama šiose vietose:
 
-Nr. X-197, 2005-05-12, Žin., 2005, Nr. 67-2404 (2005-05-28), i. k. 1051010ISTA000X-197
+1) Kernavėje;
+
+2) Senųjų Trakų piliavietėje.
+
+3. Lietuvos valstybės istorinė vėliava gali būti iškeliama ir prie, virš ar ant kitų pilių ir objektų, susijusių su Lietuvos valstybingumu ir Lietuvos valstybės gynyba.
+
+4. Lietuvos valstybės istorinė vėliava valstybės švenčių dienomis keliama prie, virš ar ant kitų, negu šio straipsnio 1 dalyje nurodyta, valstybės ir savivaldybių institucijų ir įstaigų pastatų.
+
+5. Lietuvos valstybės istorinė vėliava prie, virš ir ant Lietuvos diplomatinių atstovybių, konsulinių įstaigų ir šių atstovybių bei įstaigų padalinių, taip pat specialiųjų misijų, esančių užsienio valstybėse, pastatų keliama užsienio reikalų ministro sprendimu, atsižvelgiant į tarptautinės teisės normas, diplomatinio protokolo reikalavimus ir buvimo valstybės tradicijas.
+
+6. Lietuvos valstybės istorinė vėliava taip pat keliama prie, virš ar ant kitų, negu šio straipsnio 1 dalyje nurodyta, valstybės ir savivaldybių institucijų ir įstaigų pastatų:
+
+1) sausio 13-ąją – Laisvės gynėjų dieną;
+
+2) kovo 29-ąją – Lietuvos įstojimo į NATO dieną;
+
+3) gegužės 1-ąją – Lietuvos įstojimo į Europos Sąjungą dieną;
+
+4) liepos 15-ąją – Žalgirio mūšio dieną;
+
+5) lapkričio 23-iąją – Lietuvos kariuomenės dieną.
+
+7. Lietuvos valstybės istorinė vėliava krašto apsaugos ministro nustatyta tvarka taip pat keliama ir naudojama savarankiškų karinių dalinių teritorijose.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1020, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00964
 
 11 straipsnis. Užsienio valstybių, Europos Sąjungos ir tarptautinių viešųjų organizacijų vėliavų naudojimo principai
 
@@ -416,11 +446,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 2) Respublikos Prezidento institucijoje – Respublikos Prezidento kanceliarijos vadovas (kancleris);
 
-3) Lietuvos Respublikos Vyriausybėje – Vyriausybės kancleris;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XII-159, 2013-01-17, Žin., 2013, Nr. 11-503 (2013-01-30), i. k. 1131010ISTA0XII-159
+3) Lietuvos Respublikos Vyriausybėje – Vyriausybės kancleris;
 
 4) Lietuvos Respublikos Konstituciniame Teisme, Lietuvos Aukščiausiajame Teisme, Lietuvos vyriausiajame administraciniame teisme – teismo kancleris, kituose teismuose – teismo pirmininkas;
 
@@ -428,19 +454,17 @@ Nr. XII-159, 2013-01-17, Žin., 2013, Nr. 11-503 (2013-01-30), i. k. 1131010ISTA
 
 6) savivaldybių institucijose – savivaldybės vadovas.
 
-Straipsnio dalies pakeitimai:
+2. Už Lietuvos valstybės istorinės vėliavos naudojimą taip pat yra atsakingi ir pastatų bei vietų valdytojai arba jų įgalioti asmenys.
 
-Nr. XI-746, 2010-04-13, Žin., 2010, Nr. 48-2296 (2010-04-27), i. k. 1101010ISTA00XI-746
+3. Šio įstatymo įgyvendinimą prižiūri Lietuvos heraldikos komisija, savivaldybių administracijos, krašto apsaugos sistemos kariniuose vienetuose – krašto apsaugos ministras ar jo įgaliotas asmuo, savaeigiuose laivuose – kapitonai, nesavaeigiuose laivuose – škiperiai, Lietuvos Respublikos uostuose ir prieplaukose – jų viršininkai.
 
-2. Šio įstatymo įgyvendinimą prižiūri Lietuvos heraldikos komisija, savivaldybių administracijos, krašto apsaugos sistemos kariniuose vienetuose – krašto apsaugos ministras ar jo įgaliotas asmuo, savaeigiuose laivuose – kapitonai, nesavaeigiuose laivuose – škiperiai, Lietuvos Respublikos uostuose ir prieplaukose – jų viršininkai.
+4. Medžiagas, iš kurių gali būti gaminamos vėliavos, ir prekybos vėliavomis vietas nustato Lietuvos Respublikos Vyriausybė.
 
-3. Medžiagas, iš kurių gali būti gaminamos vėliavos, ir prekybos vėliavomis vietas nustato Lietuvos Respublikos Vyriausybė.
+5. Vėliavų gamybą kontroliuoja Lietuvos Respublikos Vyriausybės įgaliotos institucijos, vadovaudamosi šiuo įstatymu ir kitais teisės aktais.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
-
-4. Vėliavų gamybą kontroliuoja Lietuvos Respublikos Vyriausybės įgaliotos institucijos vadovaudamosi šiuo įstatymu ir kitais norminiais teisės aktais.
+Nr. XIII-1020, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00964
 
 LIETUVOS RESPUBLIKOS
 
@@ -581,6 +605,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-159, 2013-01-17, Žin., 2013, Nr. 11-503 (2013-01-30), i. k. 1131010ISTA0XII-159
 
 Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 18 straipsnio pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1020, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00964
+
+Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo Nr. I-1497 5, 10 ir 18 straipsnių pakeitimo įstatymas
 
 101 straipsnis. Lietuvos valstybės istorinės vėliavos projekto ir etalono tvirtinimas
 
