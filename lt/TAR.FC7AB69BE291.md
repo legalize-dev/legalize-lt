@@ -4,7 +4,7 @@ identifier: "TAR.FC7AB69BE291"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-05-12"
-last_updated: "2017-11-01"
+last_updated: "2018-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2017-11-01 iki 2018-04-30
+Suvestinė redakcija nuo 2018-05-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
 
@@ -901,13 +901,15 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
 
-2. Elektros energijos gamyba iš atsinaujinančių energijos išteklių skatinama Vyriausybės nustatyta viešuosius interesus atitinkančių paslaugų teikimo elektros energetikos sektoriuje tvarka sumokant šiam gamintojui nustatyto fiksuoto tarifo ir šio gamintojo Vyriausybės nustatyta tvarka parduotos elektros energijos kainos, kuri turi būti ne mažesnė kaip einamųjų kalendorinių metų elektros energijos rinkos kaina, apskaičiuojama Valstybinės kainų ir energetikos kontrolės komisijos nustatyta tvarka, skirtumą.
+2. Elektros energijos gamyba iš atsinaujinančių energijos išteklių skatinama Vyriausybės nustatyta viešuosius interesus atitinkančių paslaugų teikimo elektros energetikos sektoriuje tvarka sumokant šiam gamintojui nustatyto fiksuoto tarifo ir šio gamintojo Vyriausybės nustatyta tvarka parduotos elektros energijos kainos, kuri turi būti ne mažesnė kaip einamųjų kalendorinių metų elektros energijos rinkos kaina, apskaičiuojama Valstybinės kainų ir energetikos kontrolės komisijos nustatyta tvarka, skirtumą. Jeigu elektros energijos gamintojas elektros energiją parduoda elektros energijos biržoje, elektros energijos gamyba iš atsinaujinančių energijos išteklių skatinama Vyriausybės nustatyta viešuosius interesus atitinkančių paslaugų elektros energetikos sektoriuje teikimo tvarka sumokant šiam gamintojui nustatyto fiksuoto tarifo ir šio gamintojo elektros energijos biržoje parduotos elektros energijos kainos, kuri negali būti mažesnė negu praėjusio mėnesio kaina, skelbiama elektros energijos biržoje Lietuvos zonoje, skirtumą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
 
 Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
+
+Nr. XIII-1078, 2018-04-12, paskelbta TAR 2018-04-24, i. k. 2018-06508
 
 3. Fiksuoti tarifai nustatomi ir skatinimo kvotos didesnės kaip 10 kW įrengtosios galios elektrinėms, atitinkančioms šio įstatymo 13 straipsnio 3 dalyje nurodytus uždavinius, paskirstomos aukciono būdu. Skatinimo kvotas ir aukcionų regionus, taip pat skatinimo kvotų paskirstymo tvarką ne didesnės kaip 10 kW įrengtosios galios elektrinėms nustato ir tvirtina Vyriausybė. Aukcionai organizuojami elektrinių prijungimo prie elektros tinklų regionuose atskirai kiekvienai statyti ar įrengti elektrines planuojančių asmenų grupei Valstybinės kainų ir energetikos kontrolės komisijos nustatytais terminais, ne vėliau kaip per 180 kalendorinių dienų nuo asmens prašymo organizuoti aukcioną konkrečiai statyti ar įrengti elektrines planuojančių asmenų grupei jo nurodytame regione pateikimo dienos. Aukcionuose turi teisę dalyvauti visi asmenys, pasirašę šio įstatymo 14 straipsnio 11 dalyje nurodytą ketinimų protokolą ir pateikę 14 straipsnio 13 dalyje nurodytą asmens prievolių įvykdymo užtikrinimą. Fiksuoto tarifo didžiausią galimą dydį kas pusę metų nustato Valstybinė kainų ir energetikos kontrolės komisija. Aukciono laimėtoju pripažįstamas dalyvis, nurodęs mažiausią pageidaujamą fiksuotą tarifą, įvertinus tai, kad vienoje aukciono zonoje didžiausia elektrinių parko įrengtoji galia negali sudaryti daugiau kaip 40 procentų didžiausiosios leidžiamos prijungti generuojančių šaltinių galios regione. Jeigu dviejų ar daugiau aukciono dalyvių pateikti pasiūlymai dėl pageidaujamo fiksuoto tarifo dydžio sutampa, laimėtoju pripažįstamas dalyvis, pasiūlęs statyti didesnės galios elektrinių parką. Jeigu sutampa pasiūlymai ir dėl elektrinių parko galios, skatinimo kvota atitinkamame prijungimo taške tokiems aukciono dalyviams paskirstoma proporcingai jų pateiktos galios pasiūlymams. Aukciono laimėtojas ne vėliau kaip per 3 mėnesius nuo aukciono laimėjimo šio įstatymo ir Elektros energetikos įstatymo nustatyta tvarka privalo kreiptis į Valstybinę energetikos inspekciją prie Energetikos ministerijos dėl leidimo plėtoti elektros energijos gamybos pajėgumus išdavimo ir jį gauti. Tuo atveju, jeigu aukciono laimėtojas per nustatytą terminą nesikreipia dėl leidimo plėtoti elektros energijos gamybos pajėgumus išdavimo arba šis leidimas neišduodamas, netenka galios ar jo galiojimas panaikinamas Energetikos įstatyme ir Elektros energetikos įstatyme nustatytais pagrindais, aukciono laimėtojas per vieną mėnesį nuo bent vienos iš nurodytų aplinkybių atsiradimo dienos išbraukiamas iš aukciono laimėtojų sąrašo. Atsiradusi laisva skatinimo kvota paskirstoma organizuojant naują aukcioną, kaip numatyta šioje dalyje.
 
@@ -979,11 +981,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
 
-12. Elektros energiją iš atsinaujinančių energijos išteklių gaminančių vartotojų (toliau – gaminantys vartotojai), kaip jie yra apibrėžti Elektros energetikos įstatymo 2 straipsnio 9 dalyje, fizinių asmenų saulės šviesos, vėjo ir biomasės energijos išteklius naudojančiose elektrinėse, kurių įrengtoji galia yra ne didesnė kaip 10 kW ir neviršija gaminančio vartotojo objektui suteiktos leistinosios naudoti galios dydžio, o juridinių asmenų saulės šviesos, vėjo ir biomasės energijos išteklius naudojančiose elektrinėse, kurių įrengtoji galia yra ne didesnė kaip 100 kW ir neviršija gaminančio vartotojo objektui suteiktos leistinosios naudoti galios dydžio, pagaminto elektros energijos kiekio apskaita tvarkoma pagal elektros energijos apskaitos prietaisų, fiksuojančių suvartotą ir pagamintą elektros energiją, rodmenis. Jų pagrindu nustatoma:
+12. Neteko galios nuo 2018-05-01
 
-1) per kalendorinį mėnesį gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekis ir iš elektros tinklų suvartotos elektros energijos kiekis;
+Straipsnio dalies naikinimas:
 
-2) per laikotarpį nuo einamųjų metų balandžio 1 dienos iki kitų metų kovo 31 dienos (toliau – kaupimo laikotarpis) gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekio ir iš elektros tinklų suvartotos elektros energijos kiekio santykis: jeigu gaminantis vartotojas per einamąjį kalendorinį mėnesį į elektros tinklus patiekia daugiau elektros energijos negu suvartoja, tai tarp patiektos į elektros tinklus ir suvartotos elektros energijos susidaręs elektros energijos skirtumas perkeliamas į kitą kalendorinį mėnesį kaip gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekis, kuris yra kaupiamas kaupimo laikotarpiu; jeigu gaminantis vartotojas per einamąjį kalendorinį mėnesį į elektros tinklus patiekia mažiau elektros energijos negu suvartoja, tai tarp per einamąjį kalendorinį mėnesį patiektos į elektros tinklus ir suvartotos elektros energijos susidaręs elektros energijos skirtumas yra atimamas iš per kaupimo laikotarpį gaminančio vartotojo sukaupto į elektros tinklus patiektos elektros energijos kiekio; jeigu pasibaigus kalendoriniam mėnesiui gaminančio vartotojo suvartotos elektros energijos kiekis yra didesnis negu jo į elektros tinklus patiektos elektros energijos kiekis, už šį skirtumą gaminantis vartotojas moka pagal gaminančio vartotojo ir elektros tiekėjo sudarytoje elektros energijos pirkimo–pardavimo sutartyje nustatytą įkainį; per kaupimo laikotarpį gaminančio vartotojo suvartotą elektros energiją viršijantis į elektros tinklus patiektos elektros energijos kiekis į kitą kaupimo laikotarpį nėra perkeliamas ir už šį kiekį gaminančiam vartotojui nėra mokama.
+Nr. XIII-1078, 2018-04-12, paskelbta TAR 2018-04-24, i. k. 2018-06508
 
 Straipsnio dalies pakeitimai:
 
@@ -991,9 +993,11 @@ Nr. XII-2185, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20142
 
 Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
 
-13. Gaminantis vartotojas už elektros energijos kiekį, kuris kaupimo laikotarpiu buvo patiektas į elektros tinklus ir po to suvartotas savo reikmėms ir ūkio poreikiams, nemoka už viešuosius interesus atitinkančias paslaugas ir už tinklų operatorių suteiktas paslaugas, išskyrus Elektros energetikos įstatymo nustatyta tvarka ir sąlygomis Valstybinės kainų ir energetikos kontrolės komisijos gaminantiems vartotojams nustatytą naudojimosi elektros tinklais kainą.
+13. Neteko galios nuo 2018-05-01
 
-TAR pastaba. Elektros energiją gaminančių vartotojų į elektros tinklus patiektos elektros energijos kiekio, iš elektros tinklų suvartotos elektros energijos kiekio bei šių kiekių santykio 2015 metų apskaičiavimo laikotarpis pratęsiamas iki 2016 m. kovo 31 d.
+Straipsnio dalies naikinimas:
+
+Nr. XIII-1078, 2018-04-12, paskelbta TAR 2018-04-24, i. k. 2018-06508
 
 Papildyta straipsnio dalimi:
 
@@ -1035,7 +1039,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1389, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20428
 
-18. Šio straipsnio 12 dalyje numatytų saulės šviesos, vėjo ir biomasės energijos išteklius naudojančių elektrinių įrengtoji suminė galia neturi viršyti 100 MW, iš kurių 70 MW galia paskirstoma fiziniams asmenims ir 30 MW galia – juridiniams asmenims. Ši galia į šio įstatymo 13 straipsnio 3 dalyje numatytas sumines galias neįskaitoma.
+18. Neteko galios nuo 2018-05-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-1078, 2018-04-12, paskelbta TAR 2018-04-24, i. k. 2018-06508
 
 Papildyta straipsnio dalimi:
 
@@ -2092,4 +2100,38 @@ Valstybinė energetikos inspekcija prie Energetikos ministerijos nustato įrengt
 Papildyta straipsniu:
 
 Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+
+201 straipsnis. Elektros energiją iš atsinaujinančių energijos išteklių gaminančių vartotojų veiklos plėtra ir jos kainodara
+
+1. Elektros energiją iš atsinaujinančių energijos išteklių gaminantys vartotojai (toliau – gaminantys vartotojai) turi teisę įsirengti saulės šviesos, vėjo ir biomasės energijos išteklius naudojančias elektrines, kurių įrengtoji galia neviršija 10 kW, jeigu elektrinę įsirengia fizinis asmuo, išskyrus ūkininkus, kurių ūkiai įregistruoti Ūkininkų ūkių registre ir kurių ūkių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų ir kurių ekonominis dydis praėjusių metų mokestiniu laikotarpiu nuo sausio 1 dienos iki gruodžio 31 dienos pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus yra didesnis negu 14 ekonominio dydžio vienetų, arba 100 kW, jeigu elektrinę įsirengia juridinis asmuo arba ūkininkas, kurio ūkis įregistruotas Ūkininkų ūkių registre ir kurio ūkio metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų ir kurių ekonominis dydis praėjusių metų mokestiniu laikotarpiu nuo sausio 1 dienos iki gruodžio 31 dienos pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus yra didesnis negu 14 ekonominio dydžio vienetų. Gaminančio vartotojo įsirengiamos elektrinės įrengtoji galia negali viršyti gaminančio vartotojo objektui suteiktos leistinosios naudoti galios.
+
+2. Gaminančių vartotojų saulės šviesos, vėjo ir biomasės energijos išteklius naudojančiose elektrinėse pagaminto elektros energijos kiekio apskaita tvarkoma pagal elektros energijos apskaitos prietaisų, fiksuojančių ir suvartotą, ir pagamintą elektros energiją, rodmenis.
+
+3. Elektros energijos apskaitos prietaisai turi fiksuoti:
+
+1) per kalendorinį mėnesį gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekį ir iš elektros tinklų suvartotos elektros energijos kiekį;
+
+2) per laikotarpį nuo einamųjų metų balandžio 1 dienos iki kitų metų kovo 31 dienos (toliau – kaupimo laikotarpis) gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekio ir iš elektros tinklų suvartotos elektros energijos kiekio santykį.
+
+4. Jeigu gaminantis vartotojas per einamąjį kalendorinį mėnesį į elektros tinklus patiekia daugiau elektros energijos, negu suvartoja, tai patiektos į elektros tinklus ir suvartotos elektros energijos susidaręs elektros energijos skirtumas perkeliamas į kitą kalendorinį mėnesį kaip gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekis, kuris yra kaupiamas kaupimo laikotarpiu. Jeigu gaminantis vartotojas per einamąjį kalendorinį mėnesį į elektros tinklus patiekia mažiau elektros energijos, negu suvartoja, tai per einamąjį kalendorinį mėnesį patiektos į elektros tinklus ir suvartotos elektros energijos susidaręs elektros energijos skirtumas yra atimamas iš per kaupimo laikotarpį gaminančio vartotojo sukaupto į elektros tinklus patiektos elektros energijos kiekio. Jeigu pasibaigus kalendoriniam mėnesiui gaminančio vartotojo suvartotos elektros energijos kiekis yra didesnis negu jo į elektros tinklus patiektos elektros energijos kiekis, už šį skirtumą gaminantis vartotojas moka pagal gaminančio vartotojo ir elektros tiekėjo sudarytoje elektros energijos pirkimo–pardavimo sutartyje nustatytą kainą. Per kaupimo laikotarpį gaminančio vartotojo suvartotą elektros energiją viršijantis į elektros tinklus patiektos elektros energijos kiekis į kitą kaupimo laikotarpį nėra perkeliamas ir už šį kiekį gaminančiam vartotojui nėra mokama.
+
+5. Gaminantis vartotojas moka Valstybinės kainų ir energetikos kontrolės komisijos nustatytą naudojimosi elektros tinklais paslaugų kainą.
+
+6. Naudojimosi elektros tinklais paslaugų kaina nustatoma vienų kalendorinių metų laikotarpiui, įvertinus skirstomųjų tinklų operatoriaus ekonomiškai pagrįstus (būtinus) metinius kapitalo, veiklos ir kitus su naudojimosi elektros tinklais paslaugų teikimu susijusius kaštus, gaunamą naudą ir planuojamą atgauti gaminančių vartotojų elektros energijos kiekį ir suminę elektrinių įrengtąją galią, ir ne vėliau kaip prieš mėnesį iki jos taikymo pradžios yra viešai skelbiama Valstybinės kainų ir energetikos kontrolės komisijos interneto svetainėje. Naudojimosi elektros tinklais paslaugų kaina yra diferencijuojama atsižvelgiant į skirstomųjų tinklų, prie kurių prijungtas gaminančio vartotojo objektas, įtampą.
+
+7. Naudojimosi elektros tinklais paslaugų kaina gali būti vienanarė, mokama už 1 kWh iš skirstomųjų tinklų atgauto elektros energijos kiekio arba už 1 kW elektrinės įrengtosios galios, arba dvinarė, mokama už 1 kW elektrinės įrengtosios galios ir už 1 kWh iš skirstomųjų tinklų atgauto elektros energijos kiekio, arba atsiskaitoma elektros energijos kiekiu pagal Valstybinės kainų ir energetikos kontrolės komisijos nustatytą procentą nuo kaupimo laikotarpiu gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekio. Gaminantis vartotojas gali rinktis vienanarę ar dvinarę kainą arba atsiskaityti elektros energijos kiekiu. Gaminantis vartotojas gali keisti atsiskaitymo už naudojimosi elektros tinklais paslaugas būdą ne dažniau kaip vieną kartą per kalendorinius metus.
+
+8. Gaminantis vartotojas nemoka už viešuosius interesus atitinkančias paslaugas elektros energetikos sektoriuje už tą elektros energijos kiekį, kurį kaupimo laikotarpiu gaminantis vartotojas patiekė į elektros tinklus ir po to suvartojo savo reikmėms ir ūkio poreikiams.
+
+9. Šio straipsnio 1 dalyje nurodytų saulės šviesos, vėjo ir biomasės energijos išteklius naudojančių elektrinių įrengtoji suminė galia neturi viršyti 100 MW, iš kurių:
+
+1) 70 MW galia paskirstoma fiziniams asmenims, išskyrus ūkininkus, kurių ūkiai įregistruoti Ūkininkų ūkių registre ir kurių ūkių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų ir kurių ekonominis dydis praėjusių metų mokestiniu laikotarpiu nuo sausio 1 dienos iki gruodžio 31 dienos pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus yra didesnis negu 14 ekonominio dydžio vienetų;
+
+2) 30 MW galia paskirstoma juridiniams asmenims ir ūkininkams, kurių ūkiai įregistruoti Ūkininkų ūkių registre ir kurių ūkių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų ir kurių ekonominis dydis praėjusių metų mokestiniu laikotarpiu nuo sausio 1 dienos iki gruodžio 31 dienos pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus yra didesnis negu 14 ekonominio dydžio vienetų.
+
+10. Šio straipsnio 9 dalyje nurodyta elektrinių įrengtoji suminė galia į šio įstatymo 13 straipsnio 3 dalyje nustatytas sumines galias neįskaitoma.
+
+Papildyta straipsniu:
+
+Nr. XIII-1078, 2018-04-12, paskelbta TAR 2018-04-24, i. k. 2018-06508
 
