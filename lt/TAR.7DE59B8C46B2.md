@@ -4,7 +4,7 @@ identifier: "TAR.7DE59B8C46B2"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-05"
-last_updated: "2015-01-01"
+last_updated: "2018-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7DE59B8C46B2"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2018-04-30
+Suvestinė redakcija nuo 2018-05-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 52-1811, i. k. 1011010ISTA00IX-352
 
@@ -32,7 +32,7 @@ Vilnius
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato mokesčių mokėjimą už pramoninės nuosavybės objektų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, registravimą ir su tuo susijusių dokumentų išdavimą, taip pat už išradimo patento, dizaino, prekių ženklo galiojimo termino pratęsimą, patentinio patikėtinio registravimą Lietuvos Respublikos valstybiniame patentų biure (toliau – Valstybinis patentų biuras).
+Šis įstatymas nustato mokesčių mokėjimą už pramoninės nuosavybės objektų – išradimo patento, dizaino, puslaidininkinio gaminio topografijos, prekių ženklo – registravimą ir su tuo susijusių dokumentų išdavimą, taip pat už išradimo patento, dizaino, prekių ženklo galiojimo termino pratęsimą.
 
 Straipsnio pakeitimai:
 
@@ -40,27 +40,25 @@ Nr. IX-1847, 2003-11-25, Žin., 2003, Nr. 116-5253 (2003-12-12), i. k. 1031010IS
 
 Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
 
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
+Nr. XIII-550, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11947
 
-1. Pramoninės nuosavybės objektas – išradimo patentas, dizainas, puslaidininkinio gaminio topografija, prekių ženklas.
+2 straipsnis. Neteko galios nuo 2018-05-01
 
-Straipsnio dalies pakeitimai:
+Straipsnio naikinimas:
 
-Nr. IX-1847, 2003-11-25, Žin., 2003, Nr. 116-5253 (2003-12-12), i. k. 1031010ISTA0IX-1847
-
-Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
-
-2. Patentinis patikėtinis – fizinis asmuo, Vyriausybės patvirtintų Patentinių patikėtinių nuostatų nustatyta tvarka įrašytas į Lietuvos Respublikos patentinių patikėtinių registrą.
+Nr. XIII-550, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11947
 
 3 straipsnis. Mokesčių mokėtojai
 
-Mokesčius už pramoninės nuosavybės objektų registravimą (toliau – mokesčiai) moka fiziniai ir juridiniai asmenys, išskyrus Lietuvos banką, už pramoninės nuosavybės objektų registravimą ir su tuo susijusių dokumentų išdavimą, taip pat už išradimo patento, dizaino, prekių ženklo galiojimo termino pratęsimą, patentinio patikėtinio registravimą Valstybiniame patentų biure.
+Mokesčius už pramoninės nuosavybės objektų registravimą (toliau – mokesčiai) moka fiziniai ir juridiniai asmenys, išskyrus Lietuvos banką, už pramoninės nuosavybės objektų registravimą ir su tuo susijusių dokumentų išdavimą, taip pat už išradimo patento, dizaino, prekių ženklo galiojimo termino pratęsimą.
 
 Straipsnio pakeitimai:
 
 Nr. IX-2139, 2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27), i. k. 1041010ISTA0IX-2139
 
 Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
+
+Nr. XIII-550, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11947
 
 4 straipsnis. Mokesčių objektai ir dydžiai
 
@@ -84,7 +82,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. IX-1847, 2003-11-25, Žin., 2003, Nr. 116-5253 (2003-12-12), i. k. 1031010ISTA0IX-1847
 
-6) patentinio patikėtinio registravimą (6 priedėlis).
+6) netenka galios 2018-05-01.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-550, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11947
 
 5 straipsnis. Mokesčių lengvatos
 
@@ -128,7 +130,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
 
-4. Už teisingą mokesčių sumokėjimą atsakingas Valstybinis patentų biuras.
+4. Už teisingą mokesčių sumokėjimą atsakingas Lietuvos Respublikos valstybinis patentų biuras (toliau – Valstybinis patentų biuras).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-550, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11947
 
 5. Mokesčiai sumokami į biudžeto pajamų surenkamąją sąskaitą per kredito ar kitą mokėjimus priimančią įstaigą grynaisiais pinigais arba lėšas pervedant. Duomenys apie mokesčių sumokėjimą pateikiami Valstybiniam patentų biurui teisės aktų nustatyta tvarka.
 
@@ -144,11 +150,13 @@ Sumokėti mokesčiai arba jų dalis grąžinama:
 
 2) kai Valstybiniame patentų biure atsisakoma priimti paraišką, nes ji neatitinka teisės aktuose nustatytų reikalavimų;
 
-3) kai sumokėjus mokesčius nesikreipiama dėl pramoninės nuosavybės objektų registravimo ir su tuo susijusių dokumentų išdavimo, taip pat dėl išradimo patento, dizaino, prekių ženklo galiojimo termino pratęsimo, patentinio patikėtinio registravimo.
+3) kai sumokėjus mokesčius nesikreipiama dėl pramoninės nuosavybės objektų registravimo ir su tuo susijusių dokumentų išdavimo, taip pat dėl išradimo patento, dizaino, prekių ženklo galiojimo termino pratęsimo.
 
 Straipsnio punkto pakeitimai:
 
 Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
+
+Nr. XIII-550, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11947
 
 2. Mokesčiai grąžinami, jeigu prašymas juos grąžinti vietos mokesčio administratoriui pateikiamas per Mokesčių administravimo įstatymo nustatytą terminą.
 
@@ -606,7 +614,7 @@ Priedo pakeitimai:
 
 Nr. IX-1847, 2003-11-25, Žin., 2003, Nr. 116-5253 (2003-12-12), i. k. 1031010ISTA0IX-1847
 
-Lietuvos Respublikos
+Lietuvos Respublikos Seimo
 
 2001 m. birželio 5 d.
 
@@ -614,19 +622,13 @@ Lietuvos Respublikos
 
 6 priedėlis
 
-MOKESČIŲ UŽ PATENTINIŲ PATIKĖTINIŲ REGISTRAVIMĄ DYDŽIAI (EURAIS)
-
-1. Už patentinio patikėtinio registravimą
-
-57
-
-2. Už pakeitimus Lietuvos Respublikos patentinių patikėtinių registre
-
-34.
+Netenka galios 2018-05-01
 
 Priedo pakeitimai:
 
 Nr. XII-1248, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14870
+
+Nr. XIII-550, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11947
 
 Pakeitimai:
 
@@ -693,4 +695,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1248, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14870
 
 Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo Nr. IX-352 6 straipsnio ir 1, 2, 3, 4, 6 priedėlių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-550, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11947
+
+Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo Nr. IX-352 1, 3, 4, 6, 7 straipsnių pakeitimo ir 2 straipsnio bei 6 priedėlio pripažinimo netekusiais galios įstatymas
 
