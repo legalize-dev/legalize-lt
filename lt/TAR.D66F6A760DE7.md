@@ -4,7 +4,7 @@ identifier: "TAR.D66F6A760DE7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-16"
-last_updated: "2018-03-01"
+last_updated: "2018-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2018-04-30
+Suvestinė redakcija nuo 2018-05-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 53-1245, i. k. 0961010ISTA00I-1340
 
@@ -1110,6 +1110,14 @@ Nr. XIII-1002, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01015
 
 Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 23 straipsnio pakeitimo įstatymas
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1082, 2018-04-12, paskelbta TAR 2018-04-24, i. k. 2018-06511
+
+Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 31-2 straipsnio pakeitimo įstatymas
+
 311 straipsnis. Uosto ir uosto infrastruktūros ir suprastruktūros įrenginio (terminalo) apsaugos vertinimas
 
 1. Uosto ir uosto infrastruktūros ir suprastruktūros įrenginių (terminalų) apsaugos vertinimo tikslas – patvirtinti, kad uosto ir uosto infrastruktūros ir suprastruktūros įrenginių (terminalų) apsaugos sistema atitinka Tarptautinio laivų ir uosto įrenginių (terminalų) apsaugos kodekso ir Europos Sąjungos teisės aktų reikalavimus.
@@ -1146,9 +1154,17 @@ Nr. XII-2427, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17349
 
 5. Šio straipsnio 4 dalyje nurodytų reikalavimų laikymosi priežiūrą atlieka Uosto direkcija.
 
-6. Uosto direkcija kiekvienais metais atlieka uosto įrenginio (terminalo) apsaugos patikrinimą. Atlikusi patikrinimą, Uosto direkcija pateikia Susisiekimo ministerijai patikrinimo aktą. Jeigu šio patikrinimo akto išvada yra teigiama, susisiekimo ministras ar jo įgaliotas asmuo patvirtina uosto įrenginio (terminalo) atitikties akto galiojimą.
+6. Uosto direkcija kiekvienais metais atlieka uosto įrenginio (terminalo) apsaugos patikrinimą ir surašo patikrinimo aktą, kurio formą patvirtina Uosto direkcijos generalinis direktorius. Jeigu šio patikrinimo akto išvada yra teigiama, Uosto direkcijos generalinis direktorius patvirtina uosto įrenginio (terminalo) atitikties akto galiojimą.
 
-7. Uosto direkcija, patikrinimo metu nustačiusi, kad uosto įrenginio (terminalo) apsauga neatitinka šio uosto įrenginio (terminalo) apsaugos plane nustatytų arba teisės aktų, nurodytų šio straipsnio 5 dalyje, reikalavimų, nedelsdama, bet ne vėliau kaip per 2 darbo dienas (nuo šioje dalyje nurodyto uosto įrenginio (terminalo) apsaugos neatitikties nustatymo momento) įspėja paskirtąjį uosto įrenginio (terminalo) vadovą apie galimą uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymą ir nuo šioje dalyje nurodyto įspėjimo pateikimo nustato ne ilgesnį kaip 12 mėnesių, bet ne trumpesnį kaip 10 darbo dienų terminą, per kurį nustatyti trūkumai turi būti pašalinti. Pasibaigus nustatytam terminui, Uosto direkcija be atskiro pranešimo atlieka pakartotinį patikrinimą. Jeigu pakartotinio patikrinimo metu Uosto direkcija nustato, kad visi uosto įrenginio (terminalo) apsaugos trūkumai pašalinti, ji panaikina įspėjimą apie galimą uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymą ir patikrinimo aktą su teigiama išvada pateikia Susisiekimo ministerijai. Tais atvejais, kai nurodyti trūkumai yra pašalinti, suderinus su paskirtuoju uosto įrenginio (terminalo) vadovu, pakartotinis patikrinimas gali būti atliekamas ir nepasibaigus nustatytam terminui.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1082, 2018-04-12, paskelbta TAR 2018-04-24, i. k. 2018-06511
+
+7. Uosto direkcija, patikrinimo metu nustačiusi, kad uosto įrenginio (terminalo) apsauga neatitinka šio uosto įrenginio (terminalo) apsaugos plane nustatytų arba teisės aktų, nurodytų šio straipsnio 4 dalyje, reikalavimų, nedelsdama, bet ne vėliau kaip per 2 darbo dienas (nuo šioje dalyje nurodyto uosto įrenginio (terminalo) apsaugos neatitikties nustatymo momento) įspėja paskirtąjį uosto įrenginio (terminalo) vadovą apie galimą uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymą ir nuo šioje dalyje nurodyto įspėjimo pateikimo nustato ne ilgesnį kaip 12 mėnesių, bet ne trumpesnį kaip 10 darbo dienų terminą, per kurį nustatyti trūkumai turi būti pašalinti. Pasibaigus nustatytam terminui, Uosto direkcija be atskiro pranešimo atlieka pakartotinį patikrinimą. Jeigu pakartotinio patikrinimo metu Uosto direkcija nustato, kad visi uosto įrenginio (terminalo) apsaugos trūkumai pašalinti, ji panaikina įspėjimą apie galimą uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymą. Tais atvejais, kai nurodyti trūkumai yra pašalinti, suderinus su paskirtuoju uosto įrenginio (terminalo) vadovu, pakartotinis patikrinimas gali būti atliekamas ir nepasibaigus nustatytam terminui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1082, 2018-04-12, paskelbta TAR 2018-04-24, i. k. 2018-06511
 
 8. Uosto direkcija, pakartotinio patikrinimo metu nustačiusi, kad nustatyti trūkumai nepašalinti, kreipiasi į Susisiekimo ministeriją su prašymu sustabdyti išduoto uosto įrenginio (terminalo) atitikties akto galiojimą ir pateikia patikrinimo aktą su neigiama išvada. Susisiekimo ministras per 10 darbo dienų nuo minimo kreipimosi gavimo sustabdo uosto įrenginio (terminalo) atitikties akto galiojimą ir nustato terminą nustatytiems trūkumams pašalinti. Sprendimo kopija per 2 darbo dienas nuo tokio sprendimo priėmimo perduodama Uosto direkcijai, kuri su sprendimu per 2 darbo dienas nuo jo gavimo supažindina paskirtąjį uosto įrenginio (terminalo) vadovą.
 
