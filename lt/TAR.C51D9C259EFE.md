@@ -4,7 +4,7 @@ identifier: "TAR.C51D9C259EFE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-12-20"
-last_updated: "2017-01-01"
+last_updated: "2018-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 34 straipsnis įsigalioja 2007-12-29"
 ---
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-04-30
+Suvestinė redakcija nuo 2018-05-01 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5763, i. k. 1071010ISTA00X-1404
 
@@ -46,7 +46,11 @@ Nr. XI-2377, 2012-11-06, Žin., 2012, Nr. 135-6866 (2012-11-22)
 
 15 straipsnis. Kremuotų palaikų išdavimas, laidojimas (saugojimas)
 
-1. Kremavimo paslaugų įmonė išduoda kremuotus palaikus laidojančiam ar jo įgaliotam paimti kremuotus palaikus asmeniui užpildžius Vyriausybės ar jos įgaliotos institucijos nustatytos formos prašymą. Kremavimo įmonė kremavimo registracijos žurnale nurodo, kuriose kapinėse kremuoti palaikai bus laidojami (saugomi), arba pažymi faktą, kad kremuoti palaikai nebus laidojami (saugomi) kapinių tvarkymo taisyklėse nustatyta tvarka, taip pat išduoda mirusiojo kremavimo faktą patvirtinančią pažymą. Šioje pažymoje nurodomas mirusiojo vardas, pavardė, asmens kodas, kremavimo data, kremavimo įmonės pavadinimas, adresas ir telefono numeris.
+1. Kremavimo paslaugų įmonė išduoda kremuotus palaikus laidojančiam ar jo įgaliotam paimti kremuotus palaikus asmeniui užpildžius Vyriausybės ar jos įgaliotos institucijos nustatytos formos prašymą. Kremavimo įmonė kremavimo registracijos žurnale nurodo, kuriose kapinėse kremuoti palaikai bus laidojami (saugomi), arba pažymi faktą, kad kremuoti palaikai nebus laidojami (saugomi) kapinių tvarkymo taisyklėse nustatyta tvarka, taip pat išduoda mirusiojo kremavimo faktą patvirtinančią pažymą. Šioje pažymoje nurodomas mirusiojo vardas, pavardė, asmens kodas, kremavimo data, kremavimo įmonės pavadinimas, adresas ir telefono numeris. Jeigu kremuotas (kremuoti) žmogaus vaisius (vaisiai) iki 22-os nėštumo savaitės, pažymoje nurodoma moters, kurios vaisius (vaisiai) kremuojamas (kremuojami), vardas ir pavardė, gimimo data, medicinos dokumentų išrašo data, kremavimo data, kremavimo įmonės pavadinimas, adresas ir telefono numeris.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
 
 2. Kremuoti palaikai yra laidojami (saugomi) dedant juos į kapavietę kapinėse arba į nišą kolumbariume, o pelenai išbarstomi kapinių kremuotų palaikų barstymo lauke ar kitaip Vyriausybės ar jos įgaliotos institucijos patvirtintų kapinių tvarkymo taisyklių nustatyta tvarka, tačiau tai turi būti atlikta nepažeidžiant kitų asmenų teisių ir teisėtų interesų bei viešosios tvarkos. Kremuoti žmogaus palaikai urnoje gali būti laikinai saugomi namuose ar kitose saugojimui tinkamose vietose.
 
@@ -116,11 +120,13 @@ Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 
 Kapinių prižiūrėtojai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka kaupia šiuos duomenis:
 
-1) asmens, kurio palaikai palaidoti kapinėse, vardą, pavardę, gimimo ir mirties vietą ir datą, asmens kodą, medicininio mirties liudijimo išdavimo datą ir numerį;
+1) asmens, kurio palaikai palaidoti kapinėse, vardą, pavardę, gimimo ir mirties vietą ir datą, asmens kodą, medicininio mirties liudijimo išdavimo datą ir numerį, o jeigu palaidotas (palaidoti) žmogaus vaisius (vaisiai) iki 22-os nėštumo savaitės, – moters, kurios vaisius (vaisiai) buvo kremuotas (kremuoti) arba nekremuotas (nekremuoti), vardą ir pavardę, gimimo datą, medicinos dokumentų išrašo datą;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2120, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19713
+
+Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
 
 2) žmogaus palaikų palaidojimo datą, vietą (kapinių kvartalas, kapavietės arba kolumbariumo nišos numeris ir matmenys, pelenų barstymo laukas) ir laidojimo gylį;
 
@@ -332,6 +338,14 @@ Nr. XII-2257, 2016-03-17, paskelbta TAR 2016-03-21, i. k. 2016-05451
 
 Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 22 straipsnio pakeitimo įstatymas
 
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
+
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 1, 2, 6, 13, 15, 25 ir 27 straipsnių pakeitimo įstatymas
+
 8 straipsnis. Neteko galios nuo 2011-01-01.
 
 Straipsnio pakeitimai:
@@ -364,7 +378,11 @@ Nr. XII-1671, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07405
 
 1. Kapinėse kapavietės skiriamos neatlygintinai.
 
-2. Laidoti žmogaus palaikus galima ne anksčiau kaip po 24 valandų nuo to momento, kai buvo konstatuota mirtis, jeigu tokiu būdu neignoruojami mirusiojo ar jo artimųjų asmenų religiniai įsitikinimai.
+2. Laidoti žmogaus palaikus, išskyrus žmogaus vaisių (vaisius) iki 22-os nėštumo savaitės, galima ne anksčiau kaip po 24 valandų nuo to momento, kai buvo konstatuota mirtis, jeigu tuo neignoruojami mirusiojo ar jo artimųjų asmenų religiniai įsitikinimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
 
 3. Neatpažintus žmogaus palaikus galima laidoti tik gavus raštišką prokuroro leidimą.
 
@@ -390,11 +408,27 @@ Nr. XII-834, 2014-04-17, paskelbta TAR 2014-04-24, i. k 2014-04698
 
 1. Šis įstatymas reglamentuoja žmonių palaikų laidojimo sąlygas ir tvarką.
 
-2. Žmogaus embrionų ir vaisių iki 22-osios nėštumo savaitės kremavimo ir laidojimo tvarką nustato Visuomenės sveikatos saugos reglamentas (higienos norma).
+2. Žmogaus embrionų ir vaisių iki 22-os nėštumo savaitės, kai nėra išreikšta tėvų (vieno iš tėvų) valia vaisių (vaisius) iki 22-os nėštumo savaitės kremuoti ir (ar) laidoti, kremavimo ir laidojimo tvarką nustato sveikatos apsaugos ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
 
 3. Žmogaus kūno dalių, taip pat susidariusių sveikatos priežiūros įstaigose medicininių atliekų utilizavimo tvarką nustato Visuomenės sveikatos saugos reglamentas (higienos norma).
 
 4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu šio įstatymo priede.
+
+5. Šio įstatymo nuostatos dėl žmogaus palaikų paruošimo šarvoti, žmogaus palaikų pirminio vežimo ir žmogaus palaikų vežimo laidoti netaikomos žmogaus vaisiaus (vaisių) iki 22-os nėštumo savaitės kremavimui ir (ar) laidojimui. Žmogaus vaisiaus (vaisių) iki 22-os nėštumo savaitės pirminio vežimo, šarvojimo, vežimo laidoti ir laidojimo tvarką nustato sveikatos apsaugos ministras.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
+
+6. Žmogaus vaisiaus (vaisių) iki 22-os nėštumo savaitės atidavimo tėvams (vienam iš tėvų) kremuoti ir (ar) laidoti tvarką nustato sveikatos apsaugos ministras.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
 
 Straipsnio pakeitimai:
 
@@ -444,13 +478,21 @@ Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
 
 19. Pelenų barstymo laukas – kapinėse esantis plotas, kuriame kremuoti žmogaus palaikai išbarstomi ant dirvos paviršiaus.
 
-20. Priešlaikinio gimdymo vaisius – gimdymo, įvykusio tarp 22-osios ir 37-osios nėštumo savaitės pabaigos, skaičiuojant nuo pirmosios paskutinių mėnesinių dienos, vaisius, kurio masė ne mažesnė kaip 500 gramų.
+20. Priešlaikinio gimdymo vaisius – gimdymo, įvykusio tarp 22-os ir 37-os nėštumo savaitės pabaigos, skaičiuojant nuo pirmos paskutinių mėnesinių dienos, vaisius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
 
 21. Šarvojimas – atsisveikinimo su mirusiu asmeniu paslaugų teikimas ir (ar) jų teikimo organizavimas šarvojimo salėse iki žmogaus palaikų vežimo laidoti.
 
 22. Urna – dėžutė arba indas su tvirtos medžiagos kapsule kremuotiems žmogaus palaikams laidoti ar laikyti.
 
-23. Žmogaus palaikai – mirusio žmogaus kūnas, jo dalys ar priešlaikinio gimdymo vaisius.
+23. Žmogaus palaikai – mirusio žmogaus kūnas, jo dalys, priešlaikinio gimdymo vaisius, taip pat žmogaus vaisius (vaisiai) iki 22-os nėštumo savaitės, kai sveikatos apsaugos ministro nustatyta tvarka yra išreikšta tėvų (vieno iš tėvų) valia vaisių (vaisius) iki 22-os nėštumo savaitės kremuoti ir (ar) laidoti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
 
 24. Žmogaus palaikų laikymas – žmogaus palaikų laikymas teisės aktų nustatytus visuomenės sveikatos saugos reikalavimus atitinkančiose patalpose ir sąlygomis po patologinės anatomijos tyrimų ar teismo medicinos ekspertizių ir tyrimų leidus žmogaus palaikus laidoti arba, kai patologinės anatomijos tyrimai ar teismo medicinos ekspertizės ir tyrimai nedaromi, atvežus iš mirties fakto nustatymo vietos, jeigu kiti įstatymai nenustato kitaip. Žmogaus palaikų laikymu nelaikomas žmogaus palaikų saugojimas įstatymų ir kitų teisės aktų nustatytą terminą asmens sveikatos priežiūros įstaigose ar Valstybinėje teismo medicinos tarnyboje.
 
@@ -538,11 +580,13 @@ KREMAVIMAS
 
 2. Kartu su prašymu kremuoti žmogaus palaikus laidojantis asmuo kremavimo įmonei arba laidojimo paslaugų teikėjui privalo pateikti šiuos dokumentus:
 
-1) asmens, kurio palaikai kremuojami, medicininį mirties liudijimą, išduotą Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo nustatyta tvarka;
+1) asmens, kurio palaikai kremuojami, medicininį mirties liudijimą, išduotą Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo nustatyta tvarka, o jeigu kremuojami žmogaus vaisius (vaisiai) iki 22-os nėštumo savaitės, – sveikatos apsaugos ministro patvirtintos formos medicinos dokumentų išrašą.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2120, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19713
+
+Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
 
 2) laidojančio asmens arba asmens, turinčio teisę veikti juridinio asmens vardu, kai laidojantis asmuo yra juridinis asmuo, tapatybę patvirtinantį dokumentą (pasą, asmens tapatybės kortelę) arba leidimą nuolat ar laikinai gyventi Lietuvos Respublikoje. Jeigu laidojantis asmuo yra juridinis asmuo arba savivaldybės vykdomosios institucijos įgaliotas asmuo, asmuo, turintis teisę veikti juridinio asmens vardu, arba savivaldybės vykdomosios institucijos įgaliotas asmuo taip pat pateikia įgaliojimus patvirtinantį dokumentą;
 
@@ -706,11 +750,13 @@ Kremavimo įmonė turi užtikrinti, kad žmogaus palaikai būtų tinkamai paruo�
 
 13 straipsnis. Kremavimo procedūros reikalavimai
 
-1. Draudžiama kremuoti žmogaus palaikus jo mirties dieną.
+1. Draudžiama kremuoti žmogaus palaikus jo mirties dieną, išskyrus žmogaus vaisių (vaisius) iki 22-os nėštumo savaitės.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2120, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19713
+
+Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
 
 2. Kremavimo krosnyje vienu metu galima kremuoti ne daugiau kaip vieno žmogaus palaikus.
 
@@ -723,6 +769,12 @@ Nr. XII-2120, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19713
 3) kremavimą atlikusios įmonės kodą ir kremavimo datą;
 
 4) kremavimo registracijos numerį, atitinkantį numerį kremavimo registracijos žurnale.
+
+4. Jeigu kremuojamas (kremuojami) žmogaus vaisius (vaisiai) iki 22-os nėštumo savaitės, vietoj šio straipsnio 3 dalies 1 ir 2 punktuose nurodytų duomenų ant kapsulės turi būti nurodyta moters, kurios vaisius (vaisiai) kremuojamas (kremuojami), vardas ir pavardė, gimimo data, medicinos dokumentų išrašo data.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
 
 16 straipsnis. Balzamavimą atliekantys asmenys
 
