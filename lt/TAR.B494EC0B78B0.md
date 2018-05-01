@@ -4,7 +4,7 @@ identifier: "TAR.B494EC0B78B0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-10"
-last_updated: "2017-07-12"
+last_updated: "2018-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B494EC0B78B0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos prekių ženklų įstatymas
 
-Suvestinė redakcija nuo 2017-07-12 iki 2018-04-30
+Suvestinė redakcija nuo 2018-05-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2844, i. k. 1001010ISTAIII-1981
 
@@ -60,7 +60,11 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 7. Pareiškėjas – asmuo arba asmenų grupė, padavę paraišką įregistruoti ženklą.
 
-8. Patentinis patikėtinis – fizinis asmuo, Lietuvos Respublikos Vyriausybės patvirtintų Patentinių patikėtinių nuostatų nustatyta tvarka įrašytas į Lietuvos Respublikos patentinių patikėtinių registrą.
+8. Neteko galios nuo 2018-05-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-549, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11946
 
 9. Ženklo savininkas – šio įstatymo nustatyta tvarka Lietuvos Respublikoje saugomo ženklo savininkas.
 
@@ -286,7 +290,11 @@ TREČIASIS SKIRSNIS
 
 1. Pareiškėjas, norintis įregistruoti ženklą, turi paduoti Valstybiniam patentų biurui paraišką. Už paraiškos padavimą pareiškėjas privalo sumokėti nustatyto dydžio mokestį.
 
-2. Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Užsienio valstybių fiziniai asmenys, nuolat negyvenantys Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje, ir užsienio valstybių juridiniai asmenys, neturintys Lietuvos Respublikoje įregistruoto filialo arba atstovybės arba kitoje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje savo buveinės, filialo arba atstovybės, paraiškas Valstybiniam patentų biurui paduoda ir visus su ženklo registracija susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Apeliaciniame skyriuje, atlieka per Lietuvos Respublikos patentinį patikėtinį.
+2. Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Užsienio valstybių fiziniai asmenys, nuolat negyvenantys Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje, ir užsienio valstybių juridiniai asmenys, neturintys Lietuvos Respublikoje įregistruoto filialo arba atstovybės arba kitoje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje savo buveinės, filialo arba atstovybės, paraiškas Valstybiniam patentų biurui paduoda ir visus su ženklo registracija susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Apeliaciniame skyriuje, atlieka per patentinį patikėtinį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-549, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11946
 
 3. Vienam ženklui įregistruoti paduodama viena paraiška.
 
