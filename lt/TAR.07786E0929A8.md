@@ -4,7 +4,7 @@ identifier: "TAR.07786E0929A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-01-18"
-last_updated: "2017-07-01"
+last_updated: "2018-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ X skirsnis įsigalioja pradėjus galioti Lietuvos Respublikos Vyriausybės ir Eu
 ---
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2018-04-30
+Suvestinė redakcija nuo 2018-05-01 iki 2020-04-24
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
 
@@ -123,7 +123,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
 
-14. Patentinis patikėtinis – fizinis asmuo, Lietuvos Respublikos Vyriausybės patvirtintų Patentinių patikėtinių nuostatų nustatyta tvarka įrašytas į Lietuvos Respublikos patentinių patikėtinių registrą.
+14. Neteko galios nuo 2018-05-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-548, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11945
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -325,11 +329,15 @@ PATENTŲ IŠDAVIMAS
 
 14 straipsnis. Atstovavimas
 
-1. Patento paraišką pareiškėjas gali paduoti pats arba per atstovą, kuris turi būti įrašytas į Lietuvos Respublikos patentinių patikėtinių sąrašą, išskyrus šio straipsnio 2 dalyje nustatytą atvejį.
+1. Patento paraišką pareiškėjas gali paduoti pats arba per patentinį patikėtinį, išskyrus šio straipsnio 2 dalyje nustatytą atvejį.
 
 2. Pareiškėjui, nuolat gyvenančiam Lietuvos Respublikoje arba turinčiam nuolatinę buveinę, įregistruotą filialą ar atstovybę Lietuvos Respublikoje, kitoje Europos ekonominės erdvės valstybėje ar Europos patentų konvencijos valstybėje narėje, paduodant patento paraišką gali atstovauti teisės aktų nustatyta tvarka įgaliotas darbuotojas.
 
-3. Užsienio valstybių asmenys, nuolat negyvenantys Lietuvos Respublikoje ar neturintys nuolatinės buveinės, įregistruoto filialo ar atstovybės Lietuvos Respublikoje, kitoje Europos ekonominės erdvės valstybėje ar Europos patentų konvencijos valstybėje narėje, su patento išdavimu susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Valstybinio patentų biuro Apeliaciniame skyriuje, atlieka per atstovą, įrašytą į Lietuvos Respublikos patentinių patikėtinių sąrašą. Paduoti patento paraišką pagal šio įstatymo 13 straipsnį, sumokėti mokestį pagal šį įstatymą ir gauti Valstybinio patentų biuro patvirtinimą ar pranešimą, susijusį su šiais veiksmais, gali ir pats šioje dalyje nurodytas asmuo.
+3. Užsienio valstybių asmenys, nuolat negyvenantys Lietuvos Respublikoje ar neturintys nuolatinės buveinės, įregistruoto filialo ar atstovybės Lietuvos Respublikoje, kitoje Europos ekonominės erdvės valstybėje ar Europos patentų konvencijos valstybėje narėje, su patento išdavimu susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Valstybinio patentų biuro Apeliaciniame skyriuje, atlieka per patentinį patikėtinį. Paduoti patento paraišką pagal šio įstatymo 13 straipsnį, sumokėti mokestį pagal šį įstatymą ir gauti Valstybinio patentų biuro patvirtinimą ar pranešimą, susijusį su šiais veiksmais, gali ir pats šioje dalyje nurodytas asmuo.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-548, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11945
 
 15 straipsnis. Patento paraiška. Mokesčio sumokėjimas
 
@@ -1462,4 +1470,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-344, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08029
 
 Lietuvos Respublikos patentų įstatymo Nr. I-372 2, 51, 79 straipsnių ir priedo pakeitimo ir Įstatymo papildymo dvyliktuoju skirsniu įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-548, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11945
+
+Lietuvos Respublikos patentų įstatymo Nr. I-372 2 ir 14 straipsnių pakeitimo įstatymas
 
