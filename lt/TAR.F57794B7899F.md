@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2018-03-01"
+last_updated: "2018-05-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2018-04-30
+Suvestinė redakcija nuo 2018-05-01 iki 2018-08-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -2322,11 +2322,15 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
-13. Komisija, vadovaudamasi Vyriausybės nustatytais principais, reglamentuojančiais elektros energijos gamybą iš atsinaujinančių energijos išteklių, tvirtina Elektros energiją gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainos skaičiavimo metodiką ir nustato gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainą. Naudojimosi elektros tinklais paslaugų kaina turi padengti visas pagrįstas skirstomųjų tinklų operatoriaus sąnaudas, įvertinant skirstomųjų tinklų operatoriaus gaunamą naudą.
+13. Komisija, vadovaudamasi Atsinaujinančių išteklių energetikos įstatymo 201 straipsnio nuostatomis, tvirtina Elektros energiją gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainos skaičiavimo metodiką ir nustato gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainą.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1079, 2018-04-12, paskelbta TAR 2018-04-24, i. k. 2018-06509
 
 Straipsnio dalies numeracijos pakeitimas:
 
