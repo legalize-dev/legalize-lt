@@ -4,7 +4,7 @@ identifier: "TAR.8447F63760E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-09-18"
-last_updated: "2017-03-01"
+last_updated: "2018-05-03"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8447F63760E9"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2017-03-01 iki 2018-05-02
+Suvestinė redakcija nuo 2018-05-03 iki 2018-06-14
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
 
@@ -2550,41 +2550,25 @@ TREČIASIS SKIRSNIS
 
 DRAUDIMO BROKERIAI IR DRAUDIMO BROKERIŲ RŪMAI
 
-165 straipsnis. Draudimo brokeris
+165 straipsnis. Draudimo brokerių kvalifikacinis egzaminas ir kitos draudimo brokerių veiklos sąlygos
 
-1. Draudimo brokeriu gali būti tik nepriekaištingos reputacijos fizinis asmuo, išlaikęs draudimo brokerių kvalifikacinį egzaminą, įrašytas į priežiūros institucijos tvarkomą draudimo brokerių sąrašą ir tapęs Draudimo brokerių rūmų nariu.
+1. Draudimo brokeriu laikomas asmuo, išlaikęs draudimo brokerių kvalifikacinį egzaminą. Draudimo brokerių kvalifikacinius egzaminus rengia Draudimo brokerių rūmai arba jų pasitelktas trečiasis asmuo. Draudimo brokerių kvalifikacinio egzamino tvarka nustatyta šiame įstatyme, priežiūros institucijos ir Draudimo brokerių rūmų teisės aktuose. Draudimo brokerių rūmų sprendimai, pažeidžiantys draudimo brokerių kvalifikacinį egzaminą reglamentuojančius teisės aktus, gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, nepaisant to, kad Draudimo brokerių rūmai kvalifikacinio egzamino vykdymą perdavė trečiajam asmeniui.
 
-2. Draudimo brokerių kvalifikacinius egzaminus rengia priežiūros institucija arba kitas priežiūros institucijos pasitelktas asmuo. Draudimo brokerių kvalifikacinių egzaminų tvarką nustato priežiūros institucija.
+2. Asmenys privalo išlaikyti draudimo brokerių kvalifikacinį egzaminą prieš jiems pradedant vykdyti draudimo produktų platinimo veiklą. Draudimo brokerių rūmai draudimo brokerių kvalifikacinį egzaminą išlaikiusiam asmeniui išduoda tai patvirtinantį pažymėjimą.
 
-3. Draudimo brokerių kvalifikaciniai egzaminai rengiami ne rečiau kaip kartą per 4 mėnesius.
+3. Draudimo brokerių kvalifikacinis egzaminas rengiamas ne rečiau kaip kartą per 4 mėnesius.
 
-4. Priežiūros institucija išlaikiusį draudimo brokerių kvalifikacinį egzaminą asmenį per 5 dienas įrašo į draudimo brokerių sąrašą ir išduoda jam nustatytos formos pažymėjimą. Draudimo brokerių sąrašo duomenys yra viešai skelbiami priežiūros institucijos interneto svetainėje.
+4. Draudimo brokeris, prieš pradėdamas vykdyti draudimo produktų platinimo veiklą, privalo tapti Draudimo brokerių rūmu nariu. Draudimo brokeris turi būti nepriekaištingos reputacijos.
 
-5. Priežiūros institucija turi teisę išbraukti draudimo brokerį iš draudimo brokerių sąrašo:
+5. Rengdami draudimo brokerių kvalifikacinį egzaminą, Draudimo brokerių rūmai ir jų pasitelktas trečiasis asmuo privalo laikytis šiame įstatyme ir priežiūros institucijos teisės aktuose nustatytų reikalavimų ir užtikrinti draudimo brokerių egzaminavimo kokybę ir tęstinumą. Šiuo tikslu Draudimo brokerių rūmai privalo turėti vidinę veiklos kokybės užtikrinimo sistemą, numatyti veikimo būdus ir priemones, užtikrinančius teisės aktų reikalavimų laikymąsi, draudimo brokerių egzaminavimo kokybę ir tęstinumą. Draudimo brokerių rūmai kartą per metus turi pateikti priežiūros institucijai informaciją apie draudimo brokerių egzaminavimo kokybės užtikrinimo reikalavimų laikymąsi. Priežiūros institucijos prašymu ši informacija gali būti teikiama ir dažniau.
 
-1) rašytiniu draudimo brokerio prašymu;
+6. Draudimo brokerių rūmai savo interneto svetainėje skelbia draudimo brokerių kvalifikacinį egzaminą išlaikiusių asmenų skaičių, taip pat ne rečiau kaip kartą per metus – per metus įvykusių draudimo brokerių kvalifikacinių egzaminų skaičių, juose dalyvavusių asmenų skaičių, draudimo brokerių kvalifikacinį egzaminą išlaikiusių asmenų skaičių, informaciją apie gautus skundus ir jų nagrinėjimo rezultatus. Skundą pateikusio asmens duomenys viešai neskelbiami.
 
-2) draudimo brokeriui mirus;
+7. Draudimo brokeris su draudimo ir perdraudimo produktų platinimu susijusias funkcijas gali atlikti tik dirbdamas ar eidamas renkamas pareigas draudimo brokerių įmonėje.
 
-3) jeigu draudimo brokeris per 12 mėnesių nepradėjo profesinės veiklos arba jeigu jis ilgiau kaip 12 mėnesių šios veiklos nebevykdo;
+Straipsnio pakeitimai:
 
-4) jeigu po įrašymo į draudimo brokerių sąrašą paaiškėjo faktų, dėl kurių būtų atsisakyta įrašyti draudimo brokerį į šį sąrašą;
-
-5) jeigu atsiranda aplinkybių, dėl kurių jis negali būti laikomas nepriekaištingos reputacijos;
-
-6) Draudimo brokerių rūmų siūlymu, pateiktu atsižvelgiant į Draudimo brokerių garbės teismo sprendimą;
-
-7) šio straipsnio 8 dalyje nurodytais atvejais.
-
-6. Priežiūros institucija Draudimo brokerių garbės teismo prašymu, numatytu šio įstatymo 177 straipsnio 3 dalyje, turi teisę laikinai sustabdyti draudimo brokerio pažymėjimo galiojimą. Pažymėjimo galiojimo sustabdymo laikotarpiu draudimo brokeris neturi teisės atlikti su draudimo tarpininkavimu susijusių funkcijų draudimo brokerių įmonėje.
-
-7. Išbrauktas iš draudimo brokerių sąrašo buvęs draudimo brokeris privalo grąžinti priežiūros institucijai šio straipsnio 4 dalyje nurodytą dokumentą. Šis reikalavimas netaikomas šio straipsnio 5 dalies 2 punkte nurodytu atveju. Asmuo, išbrauktas iš draudimo brokerių sąrašo šio straipsnio 5 dalies 4–7 punktuose nurodytais atvejais, turi teisę vėl tapti draudimo brokeriu šio įstatymo nustatyta tvarka ne anksčiau kaip praėjus 3 metams po išbraukimo iš draudimo brokerių sąrašo.
-
-8. Priežiūros institucija turi teisę surengti ar pasitelktam asmeniui nurodyti surengti draudimo brokerio peratestavimą, jeigu pasitvirtina skundai dėl draudimo brokerio veiklos ar patikrinimo duomenys kelia abejonių dėl jo kvalifikacijos. Jeigu nustatoma, kad draudimo brokeris prarado kvalifikaciją arba be svarbių priežasčių neatvyko į peratestavimą, jis išbraukiamas iš draudimo brokerių sąrašo.
-
-9. Draudimo brokeris su draudimo ir perdraudimo tarpininkavimu susijusias funkcijas gali atlikti tik dirbdamas ar eidamas renkamas pareigas draudimo brokerių įmonėje.
-
-10. Draudimo brokeris privalo laikytis profesinės etikos kodekso.
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 166 straipsnis. Draudimo brokerių rūmai
 
@@ -2630,7 +2614,11 @@ DRAUDIMO BROKERIAI IR DRAUDIMO BROKERIŲ RŪMAI
 
 169 straipsnis. Draudimo brokerių rūmų nariai
 
-1. Draudimo brokerių rūmų nariais turi teisę būti tik asmenys, išlaikę kvalifikacinius draudimo brokerių egzaminus, įrašyti į priežiūros institucijos tvarkomą draudimo brokerių sąrašą, turintys draudimo brokerio pažymėjimą ir nustatyta tvarka davę draudimo brokerio priesaiką. Draudimo brokerių rūmams draudžiama atsisakyti priimti nariu asmenį, įvykdžiusį visus šiuos reikalavimus.
+1. Draudimo brokerių rūmų nariais turi teisę būti tik asmenys, išlaikę draudimo brokerių kvalifikacinį egzaminą, turintys nepriekaištingą reputaciją ir nustatyta tvarka davę draudimo brokerio priesaiką. Draudimo brokerių rūmams draudžiama atsisakyti priimti nariu asmenį, įvykdžiusį šiuos reikalavimus, išskyrus šio įstatymo 170 straipsnio 2 dalyje nustatytą atvejį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 2. Draudimo brokerių rūmų nariai turi teisę:
 
@@ -2646,33 +2634,43 @@ DRAUDIMO BROKERIAI IR DRAUDIMO BROKERIŲ RŪMAI
 
 170 straipsnis. Draudimo brokerio pašalinimas iš Draudimo brokerių rūmų narių
 
-1. Draudimo brokeris, kurį priežiūros institucija išbraukė iš draudimo brokerių sąrašo, privalo būti pašalintas iš Draudimo brokerių rūmų narių visuotinio Draudimo brokerių rūmų narių susirinkimo nustatyta tvarka.
+1. Draudimo brokeris pašalinamas iš Draudimo brokerių rūmų narių visuotinio Draudimo brokerių rūmų narių susirinkimo nustatyta tvarka:
 
-2. Draudimo brokerių rūmams draudžiama pašalinti iš Draudimo brokerių rūmų narių draudimo brokerį, neišbrauktą iš draudimo brokerių sąrašo.
+1) rašytiniu draudimo brokerio prašymu;
+
+2) draudimo brokeriui mirus;
+
+3) Draudimo brokerių garbės teismo siūlymu;
+
+4) jeigu atsiranda aplinkybių, dėl kurių jis negali būti laikomas nepriekaištingos reputacijos.
+
+2. Asmuo, pašalintas iš Draudimo brokerių rūmų narių šio straipsnio 1 dalies 3 punkte nurodytu atveju, turi teisę vėl tapti Draudimo brokerių rūmų nariu šio įstatymo nustatyta tvarka ne anksčiau kaip praėjus 3 metams po pašalinimo iš Draudimo brokerių rūmų narių.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 171 straipsnis. Draudimo brokerių rūmų funkcijos
 
 Draudimo brokerių rūmai atlieka šias funkcijas:
 
-1) atsižvelgdami į priežiūros institucijos rekomendacijas, parengia ir patvirtina Draudimo brokerių profesinės etikos kodeksą ir kontroliuoja, kaip jo laikomasi;
+1) parengia ir patvirtina Draudimo brokerių profesinės etikos kodeksą ir kontroliuoja, kaip jo laikomasi;
 
 2) rengia Draudimo brokerių rūmų įstatų pakeitimus ir papildymus;
 
 3) rengia Draudimo brokerių garbės teismo nuostatus;
 
-4) organizuoja ir koordinuoja draudimo brokerių stažuotes, kvalifikacijos tobulinimą;
+4) tvirtina draudimo brokerių kvalifikacinio egzamino programą ir vertinimo metodiką, nustato egzamino laikymo ir mokėjimo už jį tvarką, organizuoja draudimo brokerių kvalifikacinį egzaminą ir egzaminuoja draudimo brokerius arba perduoda draudimo brokerių kvalifikacinio egzamino vykdymą trečiajam asmeniui;
 
-5) teikia pasiūlymus priežiūros institucijai dėl jos organizuojamų draudimo brokerių kvalifikacinių egzaminų ir peratestavimo;
+5) sprendžia draudimo brokerių profesinės veiklos gerinimo klausimus;
 
-6) nustato draudimo brokeriams privalomą kasmetinį kvalifikacijos tobulinimo kursų valandų skaičių;
+6) nagrinėja asmenų skundus dėl draudimo brokerių profesinės etikos pažeidimų;
 
-7) sprendžia draudimo brokerių profesinės veiklos gerinimo klausimus;
+7) atlieka kitas Draudimo brokerių rūmų įstatuose nurodytas funkcijas.
 
-8) nagrinėja asmenų skundus dėl draudimo brokerių veiklos ir profesinės etikos pažeidimų;
+Straipsnio pakeitimai:
 
-9) atsižvelgdami į Draudimo brokerių garbės teismo sprendimą, teikia pasiūlymus priežiūros institucijai iki vienų metų sustabdyti draudimo brokerio pažymėjimo galiojimą arba išbraukti draudimo brokerį iš draudimo brokerių sąrašo;
-
-10) atlieka kitas Draudimo brokerių rūmų įstatuose nurodytas funkcijas.
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 172 straipsnis. Draudimo brokerių rūmų valdymas
 
@@ -2730,15 +2728,23 @@ Draudimo brokerių rūmų organai yra visuotinis Draudimo brokerių rūmų nari�
 
 175 straipsnis. Pagrindas iškelti draudimo brokeriui drausmės bylą
 
-1. Draudimo brokerių rūmų prezidiumo ar priežiūros institucijos siūlymu už šio įstatymo, kitų teisės aktų, profesinės veiklos ar Draudimo brokerių profesinės etikos kodekso pažeidimus draudimo brokeriui gali būti iškelta drausmės byla.
+1. Draudimo brokerių rūmų prezidiumo siūlymu už šio įstatymo, kitų teisės aktų, profesinės veiklos ar Draudimo brokerių profesinės etikos kodekso pažeidimus draudimo brokeriui gali būti iškelta drausmės byla.
 
-2. Per 30 dienų nuo Draudimo brokerių rūmų prezidiumo ar priežiūros institucijos siūlymo iškelti draudimo brokeriui drausmės bylą gavimo dienos Draudimo brokerių garbės teismas priima sprendimą, ar kelti draudimo brokeriui drausmės bylą.
+2. Per 30 dienų nuo Draudimo brokerių rūmų prezidiumo siūlymo iškelti draudimo brokeriui drausmės bylą gavimo dienos Draudimo brokerių garbės teismas priima sprendimą, ar kelti draudimo brokeriui drausmės bylą.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 176 straipsnis. Draudimo brokerių garbės teismas
 
 1. Draudimo brokerių garbės teismas sudaromas šia tvarka:
 
-1) tris narius draudimo brokerius, turinčius ne mažesnę kaip 3 metų patirtį draudimo tarpininkavimo srityje, skiria visuotinis Draudimo brokerių rūmų narių susirinkimas;
+1) tris narius draudimo brokerius, turinčius ne mažesnę kaip 3 metų patirtį draudimo produktų platinimo srityje, skiria visuotinis Draudimo brokerių rūmų narių susirinkimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 2) po vieną narį skiria priežiūros institucija ir Valstybinė vartotojų teisių apsaugos tarnyba.
 
@@ -2762,11 +2768,11 @@ Draudimo brokerių rūmų organai yra visuotinis Draudimo brokerių rūmų nari�
 
 2. Už vieną pažeidimą taikoma tik viena drausminė nuobauda. Po drausminės nuobaudos paskyrimo praėjus vieniems metams, draudimo brokeris laikomas nebaustu drausmine nuobauda.
 
-3. Jeigu draudimo brokeris nuobaudos galiojimo laikotarpiu padaro šio įstatymo 175 straipsnio 1 dalyje nurodytus pažeidimus, Draudimo brokerių garbės teismas gali priimti vieną iš šių sprendimų:
+3. Jeigu draudimo brokeris nuobaudos galiojimo laikotarpiu padaro šio įstatymo 175 straipsnio 1 dalyje nurodytus pažeidimus, Draudimo brokerių garbės teismas gali priimti sprendimą kreiptis į Draudimo brokerių rūmus su siūlymu pašalinti draudimo brokerį iš Draudimo brokerių rūmų narių.
 
-1) kreiptis į priežiūros instituciją su prašymu iki vienų metų sustabdyti draudimo brokerio pažymėjimo galiojimą;
+Straipsnio dalies pakeitimai:
 
-2) kreiptis į priežiūros instituciją su prašymu išbraukti draudimo brokerį iš draudimo brokerių sąrašo.
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 4. Draudimo brokerių garbės teismas, priėmęs sprendimą skirti šio straipsnio 1 dalyje numatytą nuobaudą arba šio straipsnio 3 dalyje nurodytą sprendimą, privalo per 14 dienų nuo atitinkamo sprendimo priėmimo dienos sprendimą pateikti Draudimo brokerių rūmams. Apie priimtą sprendimą draudimo brokeriui pranešama raštu per 3 dienas nuo sprendimo priėmimo dienos.
 
@@ -2782,7 +2788,11 @@ Draudimo brokerių rūmų lėšų šaltiniai yra:
 
 1) Draudimo brokerių rūmų įstatuose nustatytas nario mokestis ir kitos tikslinės įmokos;
 
-2) pajamos už suteiktas mokymo paslaugas;
+2) pajamos už draudimo brokerių kvalifikacinį egzaminą ir suteiktas mokymo paslaugas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 3) fizinių ir juridinių asmenų neatlygintinai perduotos lėšos ir turtas;
 
@@ -3088,7 +3098,11 @@ Priežiūros institucija, įgyvendindama šio įstatymo nuostatas, atlieka šias
 
 5) taiko šiame ir kituose įstatymuose nustatytas poveikio priemones;
 
-6) organizuoja, jei šiame įstatyme nustatyta tvarka ši funkcija nėra pavesta pasitelktam asmeniui, draudimo brokerių kvalifikacinius egzaminus ir peratestavimą;
+6) Neteko galios nuo 2018-05-03
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 7) nustato draudimo liudijimų registravimo ir apskaitos tvarką;
 
@@ -3867,6 +3881,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-98, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29410
 
 Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 53 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+
+Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 pakeitimo įstatymas
 
 224 straipsnis. Piniginis vienetas
 
