@@ -4,7 +4,7 @@ identifier: "TAR.8A719A97956F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-05-25"
-last_updated: "2017-01-01"
+last_updated: "2018-05-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A719A97956F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-05-08
+Suvestinė redakcija nuo 2018-05-09 iki 2018-08-31
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 65-2380, i. k. 1061010ISTA000X-614
 
@@ -59,37 +59,61 @@ Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
 1. Elektroninė komercija – informacinės visuomenės paslaugų teikimas ir kita su informacinės visuomenės paslaugų teikimu susijusi veikla.
 
-2. Elektroninė siunta – naudojantis elektroninio pristatymo paslauga sudaryta elektroninių duomenų rinkmena, susidedanti iš elektroninio voko ir vieno ar kelių elektroninių dokumentų arba elektroninių dokumentų išrašų, nuorašų, konvertuotų kopijų, dokumentų skaitmeninių kopijų ar kitų elektroninių duomenų.
+2. Neteko galios nuo 2018-05-09
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
 
-3. Elektroninės siuntos gavėjas (toliau – gavėjas) – fizinis ar juridinis asmuo ar kita organizacija, ar jų padalinys, kuriems yra siunčiama elektroninė siunta.
+3. Neteko galios nuo 2018-05-09
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
 
-4. Elektroninės siuntos siuntėjas (toliau – siuntėjas) – fizinis ar juridinis asmuo ar kita organizacija, ar jų padalinys, kurie siunčia elektroninę siuntą.
+4. Neteko galios nuo 2018-05-09
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
 
-5. Elektroninio pristatymo paslauga – informacinės visuomenės paslauga, kuria suteikiama galimybė elektroninės siuntos siuntėjui sudaryti ir siųsti, o elektroninės siuntos gavėjui – gauti elektronines siuntas.
+5. Neteko galios nuo 2018-05-09
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
 
-6. Elektroninio pristatymo paslaugos teikėjas – fizinis ar juridinis asmuo ar kita organizacija, ar jų padalinys, teikiantys elektroninio pristatymo paslaugą.
+6. Neteko galios nuo 2018-05-09
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
 
-7. Elektroninis vokas – elektroninės siuntos dalis, kurią sudaro informacija apie siuntėją, gavėją, elektroninės siuntos išsiuntimo, pristatymo ir gavimo laiką ir (ar) kiti elektroninės siuntos metaduomenys.
+7. Neteko galios nuo 2018-05-09
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
 
 Papildyta straipsnio dalimi:
 
@@ -183,11 +207,15 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
 
-22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos dokumentų ir archyvų įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos elektroninio parašo įstatyme, Lietuvos Respublikos pašto įstatyme ir kituose teisės aktuose.
+22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos dokumentų ir archyvų įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme ir kituose teisės aktuose.
 
 Papildyta straipsnio dalimi:
 
 Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
 
 3 straipsnis. Reguliavimo principai
 
@@ -351,9 +379,15 @@ SUTARČIŲ SUDARYMAS ELEKTRONINĖMIS PRIEMONĖMIS KOMERCINĖS INFORMACIJOS TEIKI
 
 4. Pasiūlymas sudaryti sutartį (oferta) ir (ar) pateikto pasiūlymo sudaryti sutartį priėmimas (akceptas) laikomi išsiųstais ir (ar) gautais pasiūlymą sudaryti sutartį pateikusios šalies (oferento) ir (ar) pasiūlymą sudaryti sutartį priėmusios šalies (akceptanto) gyvenamojoje arba verslo vietoje.
 
-IV1 SKYRIUS
+41 skyrius. Neteko galios nuo 2018-05-09
 
-ELEKTRONINIO PRISTATYMO PASLAUGA
+Skyriaus naikinimas:
+
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
+
+V SKYRIUS
+
+PASLAUGŲ TEIKĖJŲ ATSAKOMYBĖ
 
 12 straipsnis. Informacijos perdavimas
 
@@ -539,7 +573,7 @@ Paslaugų teikėjai ir kiti asmenys, pažeidę šio įstatymo reikalavimus, atsa
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -578,6 +612,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
 Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 1, 4, 16, 17, 18, 20 straipsnių pakeitimo ir 19 straipsnio pripažinimo netekusiu galios įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
+
+Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 2 straipsnio pakeitimo ir IV-1 skyriaus pripažinimo netekusiu galios įstatymas
 
 111 straipsnis. Elektroninės siuntos išsiuntimas, pristatymas ir gavimas
 
