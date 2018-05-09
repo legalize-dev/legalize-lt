@@ -4,7 +4,7 @@ identifier: "TAR.7A932101FADA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-01-28"
-last_updated: "2018-01-01"
+last_updated: "2018-05-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7A932101FADA"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-05-08
+Suvestinė redakcija nuo 2018-05-09 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 15-600, i. k. 1031010ISTA0IX-1314
 
@@ -66,7 +66,11 @@ Vilnius
 
 4. Asmenims, valdantiems žemės ūkio paskirties žemės plotus ir siekiantiems įgyti teisę valdyti kitą juridinį asmenį ar jo dalį, kuriam nuosavybės teise priklauso daugiau kaip 10 ha žemės ūkio paskirties žemės, taikytini tokie patys duomenų patikrinimo ir sutikimo išdavimo reikalavimai, kokie nurodyti šio straipsnio 1, 2 ir 3 dalyse.
 
-5. Susijusiais asmenimis laikomi sutuoktiniai, taip pat jų tėvai (įtėviai) ir nepilnamečiai jų vaikai (įvaikiai).
+5. Susijusiais asmenimis laikomi sutuoktiniai, taip pat tėvai (įtėviai) ir nepilnamečiai jų vaikai (įvaikiai).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1132, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07484
 
 6. Susijusiais asmenimis laikomi juridiniai asmenys, kurie tiesiogiai ar netiesiogiai (per juridinį asmenį, kuriame valdo ne mažiau kaip 25 procentus akcijų (teisių, pajų), suteikiančių teisę balsuoti juridinio asmens dalyvių susirinkime) valdo daugiau kaip 25 procentus kito juridinio asmens akcijų (teisių, pajų), suteikiančių teisę balsuoti šio juridinio asmens dalyvių susirinkime.
 
