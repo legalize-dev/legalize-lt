@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2018-04-15"
+last_updated: "2018-05-09"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2018-04-15 iki 2018-05-08
+Suvestinė redakcija nuo 2018-05-09 iki 2018-05-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -749,6 +749,14 @@ Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 80 ir 82 straipsnių pakeitimo įstatymas
 
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1133, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07485
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 17 straipsnio pakeitimo įstatymas
+
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
 1. Šio įstatymo 67 straipsnio 2 dalis ir 69 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d.
@@ -1219,13 +1227,27 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 18. Prireikus kontrolierių pavaduoja Seimo valdybos sprendimu paskirtas asmuo, atitinkantis kontrolieriui keliamus reikalavimus.
 
-19. Kontrolierius apie sprendime nustatytus akademinės etikos ir (arba) procedūrų pažeidimus informuoja atitinkamos mokslo ir studijų institucijos steigėją ir juridinio asmens dalyvius.
+19. Šio straipsnio 3 dalies 2, 3, 4, 5 ir 6 punktuose nustatytais atvejais tol, kol į kontrolieriaus vietą paskiriamas naujas kontrolierius, Seimas Švietimo ir mokslo komiteto teikimu ne ilgesniam kaip 90 kalendorinių dienų laikotarpiui gali pavesti laikinai eiti kontrolieriaus pareigas asmeniui, atitinkančiam kontrolieriui keliamus reikalavimus.
 
-20. Mokslo ir studijų institucija privalo pateikti kontrolieriui informaciją, kokių veiksmų bus imamasi, atsižvelgiant į kontrolieriaus sprendimą. Informacija kontrolieriui pateikiama nedelsiant priėmus sprendimus dėl priemonių, kurių bus imamasi, atsižvelgiant į kontrolieriaus sprendimą, bet ne vėliau kaip per 30 dienų nuo sprendimo gavimo dienos.
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1133, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07485
+
+20. Kontrolierius apie sprendime nustatytus akademinės etikos ir (arba) procedūrų pažeidimus informuoja atitinkamos mokslo ir studijų institucijos steigėją ir juridinio asmens dalyvius.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-1133, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07485
+
+21. Mokslo ir studijų institucija privalo pateikti kontrolieriui informaciją, kokių veiksmų bus imamasi, atsižvelgiant į kontrolieriaus sprendimą. Informacija kontrolieriui pateikiama nedelsiant priėmus sprendimus dėl priemonių, kurių bus imamasi, atsižvelgiant į kontrolieriaus sprendimą, bet ne vėliau kaip per 30 dienų nuo sprendimo gavimo dienos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-455, 2017-06-20, paskelbta TAR 2017-06-28, i. k. 2017-10912
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-1133, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07485
 
 18 straipsnis. Mokslo, inovacijų ir technologijų agentūra
 
