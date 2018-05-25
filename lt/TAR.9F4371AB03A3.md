@@ -4,7 +4,7 @@ identifier: "TAR.9F4371AB03A3"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-18"
-last_updated: "2018-01-01"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos advokatūros įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-05-24
+Suvestinė redakcija nuo 2018-05-25 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 50-1632, i. k. 1041010ISTA0IX-2066
 
@@ -683,10 +683,6 @@ Nr. XI-2235, 2012-10-02, Žin., 2012, Nr. 122-6094 (2012-10-20)
 44 straipsnis. Advokato teisės
 
 Advokatas, vykdydamas advokato veiklą, turi teisę:
-
-1) gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų jų turimą ar tvarkomą teisinėms paslaugoms teikti reikalingą informaciją, duomenis (įskaitant asmens ir ypatingus asmens duomenis), dokumentus, jų nuorašus. Advokato kreipimesi turi būti pateikti duomenys, įrodantys prašomų pateikti dokumentų ar jų nuorašų ryšį su teisinių paslaugų teikimu. Advokatui, kuris nepagrindžia, kad prašoma informacija, duomenys, dokumentai ar jų nuorašai yra reikalingi teisinėms paslaugoms teikti, motyvuotai atsisakoma juos pateikti;
-
-1 punkto redakcija nuo 2018-05-25:
 
 1) gauti iš valstybės ir savivaldybių institucijų, taip pat registrų, valstybės informacinių sistemų jų turimą ar tvarkomą ir teisinėms paslaugoms teikti reikalingą informaciją, duomenis (įskaitant specialių kategorijų asmens duomenis), dokumentus, jų nuorašus. Advokato kreipimesi turi būti pateikti duomenys, įrodantys prašomų pateikti dokumentų ar jų nuorašų ryšį su teisinių paslaugų teikimu. Advokatui, kuris nepagrindžia, kad prašoma informacija, duomenys, dokumentai ar jų nuorašai yra reikalingi teisinėms paslaugoms teikti, motyvuotai atsisakoma juos pateikti;
 
