@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2018-01-01"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-05-29
+Suvestinė redakcija nuo 2018-05-30 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
 
@@ -3233,11 +3233,13 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 38 straipsnis. Vaistinės veiklos licencijos išdavimo principai
 
-Vaistinės veiklos licencija išduodama tik nurodytos rūšies veiklai vykdyti ir tik juridinio asmens paraiškoje nurodytose patalpose. Vykdyti veiklą tame pačiame pastate ar tuo pačiu adresu, išskyrus sveikatos priežiūros įstaigas, išduodama tik viena vaistinės veiklos licencija.
+Vaistinės veiklos licencija išduodama tik nurodytos rūšies veiklai vykdyti ir tik juridinio asmens paraiškoje nurodytose patalpose.
 
 Straipsnio pakeitimai:
 
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
+
+Nr. XIII-1193, 2018-05-24, paskelbta TAR 2018-05-29, i. k. 2018-08645
 
 39 straipsnis. Vaistinės veiklos licencijos turėtojo pareigos
 
