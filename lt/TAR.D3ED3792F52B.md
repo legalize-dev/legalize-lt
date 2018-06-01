@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2018-01-01"
+last_updated: "2018-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-05-31
+Suvestinė redakcija nuo 2018-06-01 iki 2018-06-05
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -2164,18 +2164,6 @@ VALSTYBĖS TARNYBOS VALDYMAS
 Straipsnio pakeitimai:
 
 Nr. XI-2041, 2012-06-05, Žin., 2012, Nr. 69-3523 (2012-06-21)
-
-48(1) straipsnis. Personalo valdymas valstybės ir savivaldybių institucijose ir įstaigose
-
-1. Valstybės ir savivaldybių institucijose ir įstaigose personalą valdo šių institucijų ir įstaigų vadovai arba įstatymų nustatytais atvejais valstybės ar savivaldybių institucijų ar įstaigų vadovų įgalioti asmenys.
-
-2. Valstybės ir savivaldybių institucijų ir įstaigų vadovams valdyti personalą padeda valstybės ir savivaldybių institucijų ir įstaigų struktūriniai padaliniai arba valstybės tarnautojai, atliekantys personalo administravimo funkcijas (toliau – personalo administravimo tarnyba).
-
-3. Personalo administravimo tarnybų pavyzdinius nuostatus tvirtina Vyriausybė.
-
-Įstatymas papildytas straipsniu:
-
-Nr. X-1175, 2007-06-07, Žin., 2007, Nr. 69-2723 (2007-06-23)
 
 49 straipsnis. Valstybės tarnybos departamentas
 
@@ -10488,4 +10476,18 @@ Politinio (asmeninio) pasitikėjimo valstybės tarnautojo ar pakaitinio politini
 Įstatymas papildytas straipsniu :
 
 Nr. XII-280, 2013-05-09, Žin., 2013, Nr. 54-2685 (2013-05-25)
+
+481 straipsnis. Centralizuotas personalo administravimo funkcijų atlikimas
+
+1. Valstybės ir savivaldybių institucijų ir įstaigų personalo administravimo funkcijos gali būti atliekamos centralizuotai.
+
+2. Tuo atveju, kai personalo administravimo funkcijos atliekamos centralizuotai, valstybės tarnautoją į pareigas priimančiam asmeniui šiame įstatyme nustatytas personalo administravimo funkcijas Vyriausybės nustatyta tvarka gali atlikti įstaiga, centralizuotai atliekanti personalo administravimo funkcijas.
+
+Įstatymas papildytas straipsniu:
+
+Nr. X-1175, 2007-06-07, Žin., 2007, Nr. 69-2723 (2007-06-23)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-931, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21604
 
