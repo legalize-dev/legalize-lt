@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2018-05-09"
+last_updated: "2018-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2018-05-09 iki 2018-05-31
+Suvestinė redakcija nuo 2018-06-01 iki 2018-06-28
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -757,6 +757,22 @@ Nr. XIII-1133, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07485
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 17 straipsnio pakeitimo įstatymas
 
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1170, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08264
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 2, 4 ir 49 straipsnių pakeitimo įstatymas
+
+19.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1171, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08265
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 52 straipsnio pakeitimo įstatymas
+
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
 1. Šio įstatymo 67 straipsnio 2 dalis ir 69 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d.
@@ -865,6 +881,12 @@ Iki šio įstatymo įsigaliojimo įsteigtos nevalstybinės aukštosios mokyklos 
 
 2. Šio įstatymo nuostatos kunigų seminarijoms taikomos tiek, kiek jos neprieštarauja Lietuvos Respublikos ir Šventojo Sosto sutartims.
 
+3. Lietuvos Respublikos Vyriausybė ir Lietuvos Respublikos švietimo ir mokslo ministras, priimdami šio įstatymo įgyvendinamuosius teisės aktus, gali nustatyti egzilio sąlygomis veikiančių aukštųjų mokyklų studijų krypčių vertinimo ir akreditavimo, aukštųjų mokyklų išorinio vertinimo, realiųjų (materialinių ir žmogiškųjų) išteklių vertinimo, leidimo vykdyti studijas ir su studijomis susijusią veiklą suteikimo ir jo panaikinimo procedūras, kriterijus, rodiklius, vertinamąsias sritis. Lietuvos aukštųjų mokyklų, kurioms šio įstatymo nustatyta tvarka suteikiamas egzilio sąlygomis veikiančios aukštosios mokyklos statusas, veiklos sąlygas nustato Vyriausybė.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1170, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08264
+
 3 straipsnis. Mokslo ir studijų principai
 
 1. Mokslas yra grindžiamas šiais principais:
@@ -934,6 +956,12 @@ Iki šio įstatymo įsigaliojimo įsteigtos nevalstybinės aukštosios mokyklos 
 5. Aukštojo mokslo kvalifikacija – kvalifikacinis laipsnis, mokslo daktaro laipsnis, meno daktaro laipsnis, taip pat kvalifikacija, kurią suteikia aukštoji mokykla, turinti kompetentingos institucijos pritarimą tai kvalifikacijai teikti.
 
 6. Disertacija – originalus mokslinis tiriamasis darbas, kurį parengusiam ir apgynusiam asmeniui suteikiamas mokslo daktaro laipsnis.
+
+61. Egzilio sąlygomis veikianti aukštoji mokykla – Lietuvos aukštoji mokykla, kurios veikla jos kilmės šalyje nutraukta dėl politinių priežasčių. Egzilio sąlygomis veikiančios aukštosios mokyklos statusą suteikia Vyriausybė Lietuvos Respublikos užsienio reikalų ministro teikimu.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1170, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08264
 
 7. Eksperimentinė plėtra – moksliniais tyrimais ir (arba) praktine patirtimi, sukauptu pažinimu grindžiama nuosekli, papildomų žinių teikianti veikla, kurios tikslas – kurti naujus produktus ar procesus arba tobulinti jau sukurtus produktus ar procesus, taip pat kurti arba iš esmės tobulinti moksliniais tyrimais ir (arba) praktine patirtimi sukauptu pažinimu grindžiamus žmogaus, kultūros ir visuomenės problemų sprendinius.
 
@@ -1773,7 +1801,11 @@ Nr. XIII-989, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01003
 
 4) informuoti steigėjus, juridinio asmens dalyvius, akademinę bendruomenę ir visuomenę apie aukštosios mokyklos ir užsienio valstybės aukštosios mokyklos filialo veiklos kokybę.
 
-2. Aukštosios mokyklos ar užsienio valstybės aukštosios mokyklos filialo išorinis vertinimas yra jo veiklos kokybės nustatymas, remiantis aukštosios mokyklos ar užsienio valstybės aukštosios mokyklos filialo atliktos savianalizės ir stebėsenos duomenimis, įtraukiant išorinius ekspertus iš užsienio šalių. Aukštosios mokyklos ar užsienio valstybės aukštosios mokyklos filialo išorinį vertinimą organizuoja Studijų kokybės vertinimo centras. Kunigų seminarijų išorinį vertinimą pagal Europos aukštojo mokslo kokybės užtikrinimo gaires ir nuostatas atlieka Šventojo Sosto bažnytinių universitetų ir fakultetų kokybės vertinimo ir skatinimo agentūra (AVEPRO). Išorinio vertinimo rezultatai skelbiami viešai. Aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas įgyvendina išorinio vertinimo metu pateiktas rekomendacijas. Aukštųjų mokyklų ir užsienio valstybių aukštųjų mokyklų filialų išorinio vertinimo ir akreditavimo tvarkos aprašą, vertinamąsias sritis ir rodiklius tvirtina švietimo ir mokslo ministras.
+2. Aukštosios mokyklos ar užsienio valstybės aukštosios mokyklos filialo išorinis vertinimas yra jo veiklos kokybės nustatymas, remiantis aukštosios mokyklos ar užsienio valstybės aukštosios mokyklos filialo atliktos savianalizės ir stebėsenos duomenimis, įtraukiant išorinius ekspertus iš užsienio šalių. Aukštosios mokyklos ar užsienio valstybės aukštosios mokyklos filialo išorinį vertinimą organizuoja Studijų kokybės vertinimo centras. Egzilio sąlygomis veikiančių aukštųjų mokyklų išorinį vertinimą organizuoja Studijų kokybės vertinimo centras Vyriausybės nustatyta tvarka. Kunigų seminarijų išorinį vertinimą pagal Europos aukštojo mokslo kokybės užtikrinimo gaires ir nuostatas atlieka Šventojo Sosto bažnytinių universitetų ir fakultetų kokybės vertinimo ir skatinimo agentūra (AVEPRO). Išorinio vertinimo rezultatai skelbiami viešai. Aukštoji mokykla ar užsienio valstybės aukštosios mokyklos filialas įgyvendina išorinio vertinimo metu pateiktas rekomendacijas. Aukštųjų mokyklų ir užsienio valstybių aukštųjų mokyklų filialų, išskyrus egzilio sąlygomis veikiančias aukštąsias mokyklas, išorinio vertinimo ir akreditavimo tvarkos aprašą, vertinamąsias sritis ir rodiklius tvirtina švietimo ir mokslo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1170, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08264
 
 3. Aukštųjų mokyklų ir užsienio valstybių aukštųjų mokyklų filialų išorinį vertinimą Švietimo ir mokslo ministerija inicijuoja ne rečiau kaip kas 7 metus. Jeigu nustatomi esminiai kokybės trūkumai pagal Aukštųjų mokyklų ir užsienio valstybių aukštųjų mokyklų filialų išorinio vertinimo ir akreditavimo tvarkos apraše nustatytas vertinamąsias sritis, dėl kurių aukštoji mokykla įvertinama neigiamai, pakartotinis vertinimas atliekamas ne vėliau kaip per 3 metus po ankstesnio vertinimo išvadų paskelbimo.
 
@@ -1813,7 +1845,11 @@ Valstybinių mokslinių tyrimų institutų veiklos išorinį vertinimą organizu
 
 10. Profesinės studijos yra medicinos, odontologijos, veterinarinės medicinos studijų krypčių rezidentūra, taip pat kitų Vyriausybės nustatytų krypčių studijos.
 
-11. Išsilavinimo ir kvalifikacijų, susijusių su aukštuoju mokslu ir įgytų pagal užsienio valstybių ir tarptautinių organizacijų švietimo programas, akademinį pripažinimą Vyriausybės nustatyta tvarka atlieka Studijų kokybės vertinimo centras, Lietuvos mokslo taryba ir švietimo ir mokslo ministro įgaliotosios aukštosios mokyklos. Akademiniu pripažinimu laikomas kompetentingos institucijos sprendimas, kuriuo įvardijama kvalifikacijos (išsilavinimo) vertinimo metu nustatyta tos kvalifikacijos (išsilavinimo) vertė ketinant studijuoti ir (ar) dirbti Lietuvos Respublikoje.
+11. Išsilavinimo ir kvalifikacijų, susijusių su aukštuoju mokslu ir įgytų pagal užsienio valstybių ir tarptautinių organizacijų švietimo programas, akademinį pripažinimą Vyriausybės nustatyta tvarka atlieka Studijų kokybės vertinimo centras, Lietuvos mokslo taryba ir švietimo ir mokslo ministro įgaliotosios aukštosios mokyklos. Akademiniu pripažinimu laikomas kompetentingos institucijos sprendimas, kuriuo įvardijama kvalifikacijos (išsilavinimo) vertinimo metu nustatyta tos kvalifikacijos (išsilavinimo) vertė ketinant studijuoti ir (ar) dirbti Lietuvos Respublikoje. Tarptautinių sutarčių nustatytais atvejais galimas automatinis akademinis pripažinimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1171, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08265
 
 12. Įgytos aukštojo mokslo kvalifikacijos priskyrimą atitinkamai studijų krypčiai, kai studijų kryptis išsilavinimo dokumentuose nenurodyta, atlieka kvalifikaciją suteikusi aukštoji mokykla, jeigu tokios mokyklos nėra arba išsilavinimas įgytas užsienyje, – konsultacijas dėl priskyrimo atitinkamai studijų krypčiai teikia Studijų kokybės vertinimo centras.
 
