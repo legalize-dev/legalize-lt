@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2018-03-01"
+last_updated: "2018-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2018-05-31
+Suvestinė redakcija nuo 2018-06-01 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
 
@@ -387,43 +387,35 @@ Pinigai, kaip civilinių teisių objektai, – tai Lietuvos banko išleidžiami 
 
 2. Akcijos gali būti vardinės arba pareikštinės, paprastos arba privilegijuotos, materialios ir nematerialios.
 
-1.116 straipsnis. Komercinė (gamybinė) ir profesinė paslaptis
+1.116 straipsnis. Komercinė ir profesinė paslaptis
 
-1. Informacija laikoma komercine (gamybine) paslaptimi, jeigu turi tikrą ar potencialią komercinę (gamybinę) vertę dėl to, kad jos nežino tretieji asmenys ir ji negali būti laisvai prieinama dėl šios informacijos savininko ar kito asmens, kuriam savininkas ją yra patikėjęs, protingų pastangų išsaugoti jos slaptumą.
+1. Komercinė paslaptis – informacija, kuri atitinka visus šiuos požymius:
 
-Straipsnio dalies pakeitimai:
+1) yra slapta, tai yra ji, kaip visuma, arba tiksli jos sudėtis ir sudedamųjų dalių konfigūracija apskritai nežinoma arba jos negalima lengvai gauti toje aplinkoje, kurioje paprastai dirbama su tokia informacija;
 
-Nr. XII-1294, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16780
+2) turi tikros ar potencialios komercinės vertės, nes yra slapta;
 
-2. Komercine (gamybine) paslaptimi nelaikoma informacija apie viešuosius interesus atitinkančias paslaugas teikiančių subjektų paslaugų ir prekių kainas bei veiklos sąnaudas. Kitą informaciją, kuri negali būti laikoma komercine (gamybine) paslaptimi, nustato įstatymai.
+3) šią informaciją teisėtai valdantis asmuo imasi protingų veiksmų, atsižvelgdamas į aplinkybes, kad ją išlaikytų slaptą.
 
-Papildyta straipsnio dalimi:
+2. Komercine paslaptimi nelaikoma:
 
-Nr. XII-1294, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16780
+1) informacija, kuri yra konfidenciali, bet neatitinka komercinės paslapties požymių;
 
-3. Informacija, kuri yra komercinė (gamybinė) paslaptis, ginama šio kodekso nustatytais būdais.
+2) informacija, kuri jos turėtojo nurodoma kaip konfidenciali, tačiau yra akivaizdi (plačiai žinoma), viešai paskelbta arba lengvai gaunama toje aplinkoje, kurioje paprastai dirbama su tokia informacija;
 
-Straipsnio dalies numeracijos pakeitimas:
+3) informacija, kuri įprastomis darbo aplinkybėmis tampa darbuotojų sąžiningai įgyta patirtimi, įgūdžiais, gebėjimais ar žiniomis;
 
-Nr. XII-1294, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16780
+4) informacija apie viešuosius interesus atitinkančias paslaugas teikiančių subjektų paslaugų ir prekių kainas bei veiklos sąnaudas;
 
-4. Asmenys, neteisėtais būdais įgiję informaciją, kuri yra komercinė (gamybinė) paslaptis, privalo atlyginti padarytus nuostolius. Pareigą atlyginti padarytus nuostolius taip pat turi darbuotojai, kurie pažeisdami darbo sutartį atskleidė komercinę (gamybinę) paslaptį, ar kitokios sutarties šalis, atskleidusi gautą komercinę paslaptį pažeisdama sutartį. Nuostoliais šiuo atveju laikomos paslapčiai sukurti, tobulinti, naudoti turėtos išlaidos bei negautos pajamos. Pajamos, gautos neteisėtai naudojant komercinę (gamybinę) paslaptį, laikomos nepagrįstu praturtėjimu.
+5) kita įstatymų nustatyta informacija.
 
-Straipsnio dalies numeracijos pakeitimas:
+3. Komercinių paslapčių apsaugą nuo neteisėto gavimo, naudojimo ir atskleidimo nustato įstatymas.
 
-Nr. XII-1294, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16780
+4. Informacija pripažįstama profesine paslaptimi, jei ją pagal įstatymus ar sutartį privalo saugoti tam tikros profesijos asmenys (advokatai, gydytojai, auditoriai ir kt.). Šią informaciją tie asmenys gauna atlikdami jiems įstatymų ar sutarčių numatytas pareigas. Atvejus, kuriais profesines teises ir pareigas atliekant gauta informacija nepripažįstama profesine paslaptimi, nustato įstatymai. Dėl neteisėto profesinės paslapties atskleidimo padaryta žala atlyginama bendrais šio kodekso nustatytais pagrindais.
 
-5. Komercinę (gamybinę) paslaptį atskleidęs asmuo gali būti atleistas nuo atsakomybės, jeigu įrodo, kad paslapties atskleidimas pateisinamas visuomenės saugumo interesais.
+Straipsnio pakeitimai:
 
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-1294, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16780
-
-6. Informacija pripažįstama profesine paslaptimi, jei ją pagal įstatymus ar sutartį privalo saugoti tam tikros profesijos asmenys (advokatai, gydytojai, auditoriai ir kt.). Šią informaciją tie asmenys gauna atlikdami jiems įstatymų ar sutarčių numatytas pareigas. Atvejus, kuriais profesines teises ir pareigas atliekant gauta informacija nepripažįstama profesine paslaptimi, nustato įstatymai. Dėl neteisėto profesinės paslapties atskleidimo padaryta žala atlyginama bendrais šio kodekso nustatytais pagrindais.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-1294, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16780
+Nr. XIII-1127, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07479
 
 IV dalis
 
@@ -513,7 +505,11 @@ Testatoriaus galėjimas sudaryti, pakeisti ar panaikinti testamentą nustatomas 
 
 1.111 straipsnis. Intelektinės veiklos rezultatai
 
-Civilinių teisių objektais laikomi mokslo, literatūros ir meno kūriniai, išradimų patentai, pramoniniai pavyzdžiai bei kiti intelektinės veiklos rezultatai, išreikšti kuria nors objektyvia forma (rankraščiai, brėžiniai, modeliai ir kt.). Išradimų patentai ir kiti intelektinės veiklos rezultatai civilinių teisių objektais tampa nuo to momento, kai jie intelektinės veiklos rezultatais pripažįstami įstatymų nustatyta tvarka.
+Civilinių teisių objektais laikomi mokslo, literatūros ir meno kūriniai, patentai, prekių ženklai, dizainas ir kiti intelektinės veiklos rezultatai, išreikšti kuria nors objektyvia forma. Patentai, prekių ženklai, dizainas ir kiti intelektinės veiklos rezultatai civilinių teisių objektais tampa nuo to momento, kai jie intelektinės veiklos rezultatais pripažįstami įstatymų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1127, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07479
 
 2.145 straipsnis. Perįgaliojimas
 
@@ -10131,6 +10127,12 @@ priedas
 
 6. 2012 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva 2012/17/ES, kuria iš dalies keičiamos Tarybos direktyvos 89/666/EEB ir Europos Parlamento ir Tarybos direktyvų 2005/56/EB ir 2009/101/EB nuostatos dėl centrinių, komercinių ir bendrovių registrų sąveikos (OL 2012 L 156, p. 1).
 
+7. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/943 dėl neatskleistos praktinės patirties ir verslo informacijos (komercinių paslapčių) apsaugos nuo neteisėto jų gavimo, naudojimo ir atskleidimo (OL 2016 L 157, p. 1).
+
+Papildyta punktu:
+
+Nr. XIII-1127, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07479
+
 Kodeksas papildytas priedu:
 
 Nr. XI-1619, 2011-10-13, Žin., 2011, Nr. 129-6108 (2011-10-27)
@@ -10776,6 +10778,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-995, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01007
 
 Lietuvos Respublikos civilinio kodekso 2.33 straipsnio pakeitimo įstatymas
+
+33.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1127, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07479
+
+Lietuvos Respublikos civilinio kodekso 1.111, 1.116 straipsnių ir priedo pakeitimo įstatymas
 
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
