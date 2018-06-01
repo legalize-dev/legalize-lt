@@ -4,7 +4,7 @@ identifier: "TAR.3A756D83A99B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2018-01-01"
+last_updated: "2018-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3A756D83A99B"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-05-31
+Suvestinė redakcija nuo 2018-06-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 104-2322; Žin. 1996, Nr.5-0, i. k. 0951010ISTA00I-1113
 
@@ -222,10 +222,6 @@ Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, Juridinių asmenų r
 6) užtikrinti racionalų ir taupų lėšų bei turto naudojimą, veiksmingą biudžetinės įstaigos vidaus kontrolės sistemos sukūrimą, jos veikimą ir tobulinimą.
 
 3. Biudžetinės įstaigos vadovas gali turėti ir kitų jam biudžetinės įstaigos nuostatuose arba kituose teisės aktuose nustatytų pareigų.
-
-III SKYRIUS
-
-BIUDŽETINĖS ĮSTAIGOS TURTAS. BUHALTERINĖ APSKAITA, FINANSINIŲ IR BIUDŽETO VYKDYMO ATASKAITŲ RINKINIAI. AUDITAS
 
 10 straipsnis. Biudžetinės įstaigos turtas
 
@@ -466,4 +462,26 @@ BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Straipsnio pakeitimai:
 
 Nr. XII-1073, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10458
+
+91 straipsnis. Biudžetinių įstaigų bendrųjų funkcijų centralizuotas atlikimas
+
+1. Dalis biudžetinių įstaigų bendrųjų funkcijų (buhalterinės apskaitos, dokumentų valdymo, personalo administravimo ir kitos pagalbinio pobūdžio funkcijos), kurios padeda įgyvendinti biudžetinei įstaigai teisės aktuose nustatytus uždavinius (toliau – bendrosios funkcijos), gali būti atliekamos centralizuotai.  Biudžetinės įstaigos bendrųjų funkcijų atlikimas gali būti centralizuotas tiek, kad nebūtų ribojama šios įstaigos vadovo galimybė atlikti pareigas, nustatytas šio įstatymo 9 straipsnyje.
+
+2. Vyriausybė turi teisę priimti sprendimą dėl Vyriausybės kanceliarijos, ministerijų, Vyriausybės įstaigų, Vyriausybės atstovų tarnybų, atitinkamo ministro valdymo sritims priskirtų įstaigų prie ministerijos, kitų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė arba jos įgaliota institucija, bendrųjų funkcijų centralizuoto atlikimo ir konkrečių biudžetinių įstaigų, kurių bendrosios funkcijos bus atliekamos centralizuotai. Sprendimą dėl biudžetinės įstaigos (įstaigų), kuri (kurios) centralizuotai atliktų šioje dalyje nurodytas funkcijas, priima Vyriausybė.
+
+3. Savivaldybės taryba turi teisę priimti sprendimą dėl biudžetinių įstaigų, kurių savininkė yra savivaldybė, bendrųjų funkcijų centralizuoto atlikimo ir konkrečių biudžetinių įstaigų, kurių bendrosios funkcijos bus atliekamos centralizuotai. Sprendimą dėl biudžetinės įstaigos (įstaigų), kuri (kurios) centralizuotai atliktų šioje dalyje nurodytas funkcijas, priima savivaldybės taryba.
+
+4. Dėl šio straipsnio 2 ir 3 dalyse nenurodytų biudžetinių įstaigų bendrųjų funkcijų centralizuoto atlikimo ir biudžetinės įstaigos (įstaigų), kuri (kurios) centralizuotai atliktų šioje dalyje nurodytas funkcijas, sprendimą turi teisę priimti šios biudžetinės įstaigos vadovas.
+
+5. Centralizuoto biudžetinių įstaigų bendrųjų funkcijų atlikimo tvarką nustato Vyriausybė.
+
+6. Kai biudžetinės įstaigos bendrosios funkcijos atliekamos centralizuotai, šios biudžetinės įstaigos vadovo ir centralizuotai jos bendrąsias funkcijas atliekančios įstaigos vadovo funkcijos, pareigos ir atsakomybė paskirstomos Vyriausybės nustatyta tvarka, atsižvelgiant į atliekamų funkcijų apimtį.
+
+Papildyta straipsniu:
+
+Nr. XIII-932, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21607
+
+III SKYRIUS
+
+BIUDŽETINĖS ĮSTAIGOS TURTAS. BUHALTERINĖ APSKAITA, FINANSINIŲ IR BIUDŽETO VYKDYMO ATASKAITŲ RINKINIAI. AUDITAS
 
