@@ -4,7 +4,7 @@ identifier: "TAR.9E5C5C16B6E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-18"
-last_updated: "2018-01-01"
+last_updated: "2018-06-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-05-31
+Suvestinė redakcija nuo 2018-06-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
 
@@ -738,7 +738,11 @@ Lietuvos Respublikos Vyriausybės programoje turi būti nustatyti ilgalaikiai al
 
 1. Lietuvos Respublikos Vyriausybės nustatyta tvarka, suderinta su Nacionaline sveikatos taryba, Lietuvos Respublikoje atliekama alkoholio vartojimo, jo daromos ekonominės žalos sveikatai ir ūkiui stebėsena (monitoringas).
 
-2. Alkoholio vartojimo, jo daromos ekonominės žalos sveikatai ir ūkiui atrankinių statistinių tyrimų organizavimo teisinius pagrindus nustato Lietuvos Respublikos statistikos įstatymas.
+2. Alkoholio vartojimo, jo daromos ekonominės žalos sveikatai ir ūkiui atrankinių statistinių tyrimų organizavimo teisinius pagrindus nustato Lietuvos Respublikos oficialiosios statistikos įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1130, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07482
 
 21 straipsnis. Minimalaus gyvenimo lygio nustatymo ypatumai
 
