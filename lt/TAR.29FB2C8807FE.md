@@ -4,7 +4,7 @@ identifier: "TAR.29FB2C8807FE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-21"
-last_updated: "2018-01-01"
+last_updated: "2018-06-02"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-01
+Suvestinė redakcija nuo 2018-06-02 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
 
@@ -740,19 +740,27 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 17 straipsnis. Įmonės auditas
 
-1. Valstybės įmonės metinių finansinių ataskaitų rinkinį turi patikrinti įmonės savininko teises ir pareigas įgyvendinančios institucijos parinktas auditorius ar audito įmonė. Auditorius ar audito įmonė parenkami Lietuvos Respublikos viešųjų pirkimų įstatymo arba Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nustatyta tvarka. Sutartis sudaroma tarp auditoriaus ar audito įmonės, įmonės ir įmonės savininko teises ir pareigas įgyvendinančios institucijos. Audito paslaugas apmoka įmonė.
+1. Valstybės įmonės metinių finansinių ataskaitų rinkinį turi patikrinti auditorius ar audito įmonė pagal Finansinių ataskaitų audito įstatymo reikalavimus. Auditorius ar audito įmonė parenkami Lietuvos Respublikos viešųjų pirkimų įstatymo arba Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nustatyta tvarka. Sutartis sudaroma tarp auditoriaus ar audito įmonės, įmonės ir įmonės savininko teises ir pareigas įgyvendinančios institucijos. Audito paslaugas apmoka įmonė.
+
+TAR pastaba. 17 straipsnio 1 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių įmonių finansinių ataskaitų rinkinių auditams.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-333, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07556
 
-2. Savivaldybės įmonės metinių finansinių ataskaitų rinkinį turi patikrinti savivaldybės kontrolierius (savivaldybės kontrolės ir audito tarnyba). Savivaldybės taryba gali priimti sprendimą atlikti tam tikros veiklos nepriklausomą auditą. Auditorius ar audito įmonė metinių finansinių ataskaitų rinkinio auditui atlikti parenkami Viešųjų pirkimų įstatymo arba Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nustatyta tvarka. Sutartis sudaroma tarp auditoriaus ar audito įmonės, įmonės ir savivaldybės vykdomosios institucijos. Audito paslaugas apmoka įmonė.
+Nr. XIII-1181, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09072
+
+2. Savivaldybės įmonės metinių finansinių ataskaitų rinkinį turi patikrinti auditorius ar audito įmonė pagal Finansinių ataskaitų audito įstatymo reikalavimus. Auditorius ar audito įmonė metinių finansinių ataskaitų rinkinio auditui atlikti parenkami Viešųjų pirkimų įstatymo arba Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nustatyta tvarka. Sutartis sudaroma tarp auditoriaus ar audito įmonės, įmonės ir savivaldybės vykdomosios institucijos. Audito paslaugas apmoka įmonė.
+
+TAR pastaba. 17 straipsnio 2 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių įmonių finansinių ataskaitų rinkinių auditams.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 Nr. XIII-333, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07556
+
+Nr. XIII-1181, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09072
 
 3. Atlikus įmonės metinių finansinių ataskaitų rinkinio auditą, įmonei pateikiama auditoriaus išvada ir audito ataskaita.
 
@@ -1245,4 +1253,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-347, 2017-05-09, paskelbta TAR 2017-05-22, i. k. 2017-08565
 
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 11 straipsnio pakeitimo įstatymas
+
+27.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1181, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09072
+
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 16 ir 17 straipsnių pakeitimo įstatymas
 
