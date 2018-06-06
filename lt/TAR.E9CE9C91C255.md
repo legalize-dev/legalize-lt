@@ -4,7 +4,7 @@ identifier: "TAR.E9CE9C91C255"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-22"
-last_updated: "2018-01-01"
+last_updated: "2018-06-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-05
+Suvestinė redakcija nuo 2018-06-06 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
 
@@ -852,6 +852,12 @@ BAIGIAMOSIOS NUOSTATOS
 
 3) keliems pretendentams, dalyvaujantiems konkurse į valstybės tarnautojo pareigas, pagal nustatytus atrankos kriterijus surinkus vienodus rezultatus, teikiama pirmenybė atlikusiems nuolatinę privalomąją pradinę karo tarnybą;
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio (2016 m. birželio 16 d. redakcija; TAR, 2016-06-23, Nr. 17527) 1 dalies 3 punktas prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsniui, 33 straipsnio 1 dalies nuostatai „Piliečiai turi teisę <...> lygiomis sąlygomis stoti į Lietuvos Respublikos valstybinę tarnybą“.
+
+Straipsnio punkto pakeitimai:
+
+Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
+
 4) asmenims, atitinkantiems teisės aktuose nustatytus reikalavimus, teikiama pirmenybė priimant į statutinių valstybės tarnautojų profesines mokymo įstaigas ar kitas mokymo įstaigas, kurias baigus suteikiama teisė užimti statutinio valstybės tarnautojo pareigas, taip pat priimant į statutines valstybės tarnautojo pareigas, kai priimama be konkurso.
 
 2. Įgyvendinant šio straipsnio 1 dalies 1 punkte nurodytą nuostatą, darbdaviams, įdarbinusiems nuolatinę privalomąją pradinę karo tarnybą atlikusius karo prievolininkus, mokama subsidija darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, ir nuo šio darbo užmokesčio apskaičiuotoms draudėjo privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti (toliau – subsidija darbo užmokesčiui). Jeigu įdarbinto asmens darbo sutartis sudaryta ne visam darbo laikui arba jis dirbo ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą ar darbo sutartyje nustatytą dienos (valandinį) atlygį. Subsidijos darbo užmokesčiui dydis, kai įdarbinami asmenys, nurodyti šio straipsnio 1 dalyje, yra iki 100 procentų apskaičiuotų lėšų nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotos draudėjo privalomojo valstybinio socialinio draudimo įmokos suma. Subsidijos darbo užmokesčiui dydį, neviršijant 1,5 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, ir subsidijos darbo užmokesčiui mokėjimo tvarką nustato Vyriausybė. Darbdaviams, įdarbinusiems nuolatinę privalomąją pradinę karo tarnybą atlikusius karo prievolininkus, subsidija darbo užmokesčiui mokama 6 mėnesius. Ši subsidija taikoma, jeigu karo prievolininkas buvo įdarbintas per 3 mėnesius nuo nuolatinės privalomosios pradinės karo tarnybos atlikimo datos.
@@ -1415,6 +1421,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
 
 Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 3, 15 ir 26 straipsnių pakeitimo įstatymas
+
+11.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
+
+Dėl Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio 1 dalies 3 punkto, Lietuvos Respublikos valstybės tarnybos įstatymo 11 straipsnio 2 dalies ir 13 straipsnio 2 dalies nuostatų atitikties Lietuvos Respublikos Konstitucijai
 
 411 straipsnis. Nuolatinę privalomąją pradinę karo tarnybą atliekančių Lietuvos Respublikos piliečių skatinimas
 
