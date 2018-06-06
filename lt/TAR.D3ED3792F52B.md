@@ -4,7 +4,7 @@ identifier: "TAR.D3ED3792F52B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-07-08"
-last_updated: "2018-06-01"
+last_updated: "2018-06-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2018-06-01 iki 2018-06-05
+Suvestinė redakcija nuo 2018-06-06 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
 
@@ -1083,6 +1083,12 @@ Nr. XII-154, 2013-01-17, Žin., 2013, Nr. 11-498 (2013-01-30)
 
 2. Konkurse gali dalyvauti asmenys, atitinkantys šio Įstatymo 9 straipsnyje nustatytus reikalavimus. Konkurso metu tikrinamas asmens tinkamumas eiti karjeros valstybės tarnautojo pareigas. Jeigu keli konkurse į karjeros valstybės tarnautojo pareigas dalyvavę pretendentai buvo įvertinti vienodai, pirmenybė būti priimtam į tas pareigas teikiama pretendentui, atlikusiam nuolatinę privalomąją pradinę karo tarnybą arba baigusiam bazinius karinius mokymus ar atlikusiam alternatyviąją krašto apsaugos tarnybą. Vyriausybės nustatyta tvarka konkurso metu stebėtojo teisėmis gali dalyvauti valstybės ar savivaldybės institucijoje ar įstaigoje veikiančios profesinės sąjungos arba, jeigu veikia kelios tokios sąjungos, kelių profesinių sąjungų atstovai ir kiti visuomenės atstovai.
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos valstybės tarnybos įstatymo 11 straipsnio 2 dalies (2012 m. birželio 5 d. redakcija, įsigaliojusi 2013 m. birželio 1 d.; Žin., 2012, Nr. 69-3523) nuostata „Jeigu keli konkurse į karjeros valstybės tarnautojo pareigas dalyvavę pretendentai buvo įvertinti vienodai, pirmenybė būti priimtam į tas pareigas teikiama pretendentui, atlikusiam nuolatinę privalomąją pradinę karo tarnybą arba baigusiam bazinius karinius mokymus ar atlikusiam alternatyviąją krašto apsaugos tarnybą“ prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsniui, 33 straipsnio 1 dalies nuostatai „Piliečiai turi teisę <...> lygiomis sąlygomis stoti į Lietuvos Respublikos valstybinę tarnybą“.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
+
 3. Be konkurso į karjeros valstybės tarnautojo pareigas gali būti priimama šio Įstatymo 16 straipsnio 2, 3, 5 ir 6 dalyse bei 43 straipsnio 2, 3 ir 15 dalyse nurodytais atvejais ir tvarka.
 
 Straipsnio pakeitimai:
@@ -1110,6 +1116,12 @@ Nr. IX-1926, 2003-12-18, Žin., 2004, Nr. 4-32 (2004-01-07)
 1. Į įstaigų vadovų pareigas priimama konkurso būdu, be konkurso ar įstatymų nustatytais atvejais politinio (asmeninio) pasitikėjimo pagrindu.
 
 2. Konkurse gali dalyvauti asmenys, atitinkantys šio Įstatymo 9 straipsnyje nustatytus reikalavimus. Konkurso metu tikrinamas asmens tinkamumas eiti įstaigos vadovo pareigas. Jeigu keli konkurse į įstaigos vadovo pareigas dalyvavę pretendentai buvo įvertinti vienodai, pirmenybė būti priimtam į tas pareigas teikiama pretendentui, atlikusiam nuolatinę privalomąją pradinę karo tarnybą arba baigusiam bazinius karinius mokymus ar atlikusiam alternatyviąją krašto apsaugos tarnybą. Vyriausybės nustatyta tvarka konkurso metu stebėtojo teisėmis gali dalyvauti valstybės ar savivaldybės institucijoje ar įstaigoje veikiančios profesinės sąjungos arba, jeigu veikia kelios tokios sąjungos, kelių profesinių sąjungų atstovai ir kiti visuomenės atstovai.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos valstybės tarnybos įstatymo 13 straipsnio 2 dalies (2012 m. birželio 5 d. redakcija, įsigaliojusi 2013 m. birželio 1 d.; Žin., 2012, Nr. 69-3523) nuostata „Jeigu keli konkurse į įstaigos vadovo pareigas dalyvavę pretendentai buvo įvertinti vienodai, pirmenybė būti priimtam į tas pareigas teikiama pretendentui, atlikusiam nuolatinę privalomąją pradinę karo tarnybą arba baigusiam bazinius karinius mokymus ar atlikusiam alternatyviąją krašto apsaugos tarnybą“ prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsniui, 33 straipsnio 1 dalies nuostatai „Piliečiai turi teisę <...> lygiomis sąlygomis stoti į Lietuvos Respublikos valstybinę tarnybą“.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
 
 3. Be konkurso į įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymo nustatytai kadencijai) pareigas gali būti priimama šio Įstatymo 16 straipsnio 2, 3 ir 6 dalyse bei 43 straipsnio 3 dalyje nurodytais atvejais ir tvarka.
 
