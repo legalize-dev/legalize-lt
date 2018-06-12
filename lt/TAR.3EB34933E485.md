@@ -4,7 +4,7 @@ identifier: "TAR.3EB34933E485"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-13"
-last_updated: "2018-01-01"
+last_updated: "2018-06-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-11
+Suvestinė redakcija nuo 2018-06-12 iki 2018-07-11
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
 
@@ -189,11 +189,19 @@ Nr. XII-1382, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19557
 
 19) valstybinio socialinio draudimo įmokos;
 
-20) pertekliaus mokestis cukraus sektoriuje;
+20) neteko galios nuo 2018-06-12;
 
-21) gamybos mokestis cukraus sektoriuje;
+Straipsnio punkto pakeitimai:
 
-22) (neteko galios nuo 2007-04-26);
+Nr. XIII-1216, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09732
+
+21) neteko galios nuo 2018-06-12;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1216, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09732
+
+22) neteko galios nuo 2007-04-26;
 
 23) muitai;
 
@@ -253,17 +261,7 @@ Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 1. Šio Įstatymo 13 straipsnio 6, 7, 8 ir 24 punktuose išvardytus mokesčius administruoja Aplinkos ministerija ar jos įgaliota institucija, tačiau tik tiek, kiek pavesta pagal Mokesčio už valstybinius gamtos išteklius, Mokesčio už aplinkos teršimą, Angliavandenilių išteklių mokesčio ir Miškų įstatymus. Ar šio Įstatymo 13 straipsnio 6 ir 8 punktuose nurodyti mokesčiai teisingai apskaičiuoti, deklaruoti ir sumokėti, patikrina, taip pat konsultacijas šių mokesčių mokėjimo klausimais teikia tik Aplinkos ministerija ar jos įgaliota institucija.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1382, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19557
-
-2. Šio įstatymo 13 straipsnio 20 ir 21 punktuose nurodytus mokesčius administruoja Žemės ūkio ministerija ar jos įgaliota institucija, tačiau tik tiek, kiek nustatyta pagal Gamybos mokesčio cukraus sektoriuje įstatymą ir Pertekliaus mokesčio cukraus sektoriuje įstatymą. Už teisingą mokesčių apskaičiavimą atsakinga, taip pat konsultacijas šių mokesčių mokėjimo klausimais teikia tik Žemės ūkio ministerija ar jos įgaliota institucija. Mokesčių deklaravimą ir sumokėjimą kontroliuoja Valstybinė mokesčių inspekcija.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1668, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07659
-
-3. Dėl šio straipsnio 1 ir 2 dalyse nurodytų įstaigų ir institucijų atliekamų mokesčių apskaičiavimo, deklaravimo ir sumokėjimo teisingumo patikrinimų tvarkos, patikrinimų rezultatų įforminimo bei patvirtinimo, įstaigų ir institucijų bei jų pareigūnų veiksmų apskundimo šio Įstatymo nuostatos netaikomos. Minėtus teisinius santykius reguliuoja šių institucijų veiklą reglamentuojantys teisės aktai bei atitinkami administruojamų mokesčių įstatymai.
+2. Dėl šio straipsnio 1 dalyje nurodytų įstaigų ir institucijų atliekamų mokesčių apskaičiavimo, deklaravimo ir sumokėjimo teisingumo patikrinimų tvarkos, patikrinimų rezultatų įforminimo bei patvirtinimo, įstaigų ir institucijų bei jų pareigūnų veiksmų apskundimo šio Įstatymo nuostatos netaikomos. Minėtus teisinius santykius reguliuoja šių institucijų veiklą reglamentuojantys teisės aktai bei atitinkami administruojamų mokesčių įstatymai.
 
 Straipsnio pakeitimai:
 
@@ -272,6 +270,10 @@ Nr. X-863, 2006-10-19, Žin., 2006, Nr. 119-4542 (2006-11-07)
 Nr. X-1086, 2007-04-12, Žin., 2007, Nr. 46-1720 (2007-04-26)
 
 Nr. X-1318, 2007-11-08, Žin., 2007, Nr. 120-4883 (2007-11-22)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1216, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09732
 
 20 straipsnis. Valstybinės mokesčių inspekcijos prie Finansų ministerijos darbo organizavimas
 
