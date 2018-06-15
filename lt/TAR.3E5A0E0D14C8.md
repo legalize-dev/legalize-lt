@@ -4,7 +4,7 @@ identifier: "TAR.3E5A0E0D14C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "2010-12-23"
-last_updated: "2017-07-01"
+last_updated: "2018-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3E5A0E0D14C8"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2017-07-01 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
 
@@ -735,15 +735,23 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 2. Vartojimo kredito davėjo vadovu, fiziniu arba juridiniu asmeniu arba kartu veikiančiu asmeniu, kuriam tiesiogiai ar netiesiogiai priklausančių balsavimo teisių arba įstatinio kapitalo dalis yra lygi arba viršija 20 procentų arba kuris gali daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį, kaip tai apibrėžta Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme, vartojimo kredito davėjo veiklai, negali būti asmuo, atitinkantis bent vieną iš šių sąlygų:
 
-1) pripažintas kaltu padaręs nusikaltimą ar baudžiamąjį nusižengimą, susijusį su pinigų plovimu ar teroristų finansavimu, sunkų, labai sunkų nusikaltimą arba nusikaltimą ar baudžiamąjį nusižengimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai ar juos atitinkančias nusikalstamas veikas pagal kitų valstybių baudžiamuosius įstatymus, jeigu jo teistumas nėra išnykęs;
+1) fizinis asmuo yra pripažintas kaltu padaręs sunkų, labai sunkų nusikaltimą arba nusikaltimą ar baudžiamąjį nusižengimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar juos atitinkančias nusikalstamas veikas pagal kitų valstybių baudžiamuosius įstatymus, jeigu jo teistumas už pirmiau nurodytus nusikaltimus nėra išnykęs ar panaikintas arba nepraėjo 3 metai nuo teismo nuosprendžio, kuriuo fizinis asmuo yra pripažintas kaltu dėl šiame punkte nurodytų baudžiamųjų nusižengimų padarymo, įsiteisėjimo;
 
-2) tiesiogiai ar netiesiogiai valdo arba valdė kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį arba dalį, leidžiančią daryti lemiamą įtaką juridiniam asmeniui, arba yra ar buvo vadovu juridinio asmens, kuriam buvo panaikinta teisė verstis finansinių paslaugų teikimu, arba tas juridinis asmuo buvo pripažintas kaltu dėl šios dalies 1 punkte nurodyto nusikaltimo arba baudžiamojo nusižengimo.
+2) juridiniam asmeniui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šios dalies 1 punkte nurodytas nusikalstamas veikas ir nepraėjo 3 metai nuo teismo nuosprendžio įsiteisėjimo;
 
-TAR pastaba. Įstatymo Nr. XII-1989 (2015-11-05) įsigaliojimo dieną (2016-02-01) į viešąjį vartojimo kredito davėjų sąrašą įrašyti asmenys privalo per 6 mėnesius nuo įstatymo Nr. XII-1989 (2015-11-05) įsigaliojimo dienos (2016-02-01) pateikti priežiūros institucijai 22 straipsnio 2 dalyje nustatytų reikalavimų laikymosi patvirtinimo dokumentus ir duomenis. Priežiūros institucija išbraukia iš viešojo vartojimo kredito davėjų sąrašo asmenis, per nurodytą terminą neįvykdžiusius šios pareigos.
+3) jam už šiurkštų įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, reikalavimo pažeidimą, Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo pažeidimą pritaikyta administracinė nuobauda arba kita įstatymuose nustatyta poveikio priemonė, jeigu nuo sprendimo taikyti administracinę nuobaudą arba kitą įstatymuose nustatytą poveikio priemonę įsigaliojimo dienos nepraėjo 3 metai;
 
-TAR pastaba. Asmenys, kurie 22 straipsnio 2 dalyje nurodytus dokumentus priežiūros institucijai pateikė iki įstatymo Nr. XII-1989 (2015-11-05) įsigaliojimo dienos (2016-02-01), į viešąjį vartojimo kredito davėjų sąrašą nėra įrašomi, o pateikti dokumentai jiems grąžinami per 5 darbo dienas.
+4) jis tiesiogiai ar netiesiogiai valdo arba valdė kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį arba dalį, leidžiančią daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį juridiniam asmeniui, arba yra ar buvo vadovu juridinio asmens, kuriam buvo panaikinta teisė verstis finansinių paslaugų teikimu arba už šiurkštų įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, reikalavimo pažeidimą buvo pritaikyta kita poveikio priemonė, jeigu nepraėjo 3 metai nuo sprendimo taikyti poveikio priemonę įsigaliojimo dienos, arba tam juridiniam asmeniui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šios dalies 1 punkte nurodytas nusikalstamas veikas ir nepraėjo 3 metai nuo teismo nuosprendžio įsiteisėjimo.
 
-TAR pastaba. Įstatymo XII-1989 (2015-11-05) 41 straipsnio 6 dalies reikalavimas netaikomas į viešąjį vartojimo kredito davėjų sąrašą įrašytiems Lietuvos banko prižiūrimiems finansų rinkos dalyviams, kurių 22 straipsnio 2 dalyje nurodytų asmenų nepriekaištingą reputaciją yra įvertinęs Lietuvos bankas.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+
+21. Taikant šio straipsnio 2 dalies nuostatas, šiurkščiu įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, reikalavimo pažeidimu laikomi veiksmai, kuriais pažeidžiamos įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, nuostatos ir dėl kurių už pažeidimą atsakingas asmuo savo ar kitų asmenų naudai išvengė didelės turtinės žalos arba gavo didelės turtinės naudos, arba padarė didelės turtinės žalos kitiems asmenims, arba kilo grėsmė finansų rinkos stabilumui ir patikimumui. Turtinė žala yra didelė ir turtinė nauda yra didelė, kai jų vertė viršija 250 bazinių bausmių ir nuobaudų dydžių sumą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 3. Šio straipsnio 2 dalyje nurodytais kartu veikiančiais asmenimis laikomi du arba daugiau asmenų, kurie, remdamiesi aiškiai sudarytu ar numanomu žodiniu arba rašytiniu susitarimu, įgyvendina arba siekia įgyvendinti savo teises, turimas pagal šioje dalyje nurodytą vartojimo kredito davėjo įstatinio kapitalo ir (arba) balsavimo teisių dalį.
 
@@ -761,9 +769,11 @@ TAR pastaba. Įstatymo XII-1989 (2015-11-05) 41 straipsnio 6 dalies reikalavimas
 
 4) vartojimo kredito gavėjų kreditingumo vertinimo taisykles;
 
-5) informaciją apie registrus ir informacines sistemas, kuriuose tikrinamas vartojimo kredito gavėjų kreditingumas;
+5) informaciją apie registrus ir informacines sistemas, kuriuose tikrinamas vartojimo kredito gavėjų kreditingumas.
 
-6) vartojimo kredito davėjo vardu veikiančių vartojimo kredito tarpininkų sąrašą, jeigu asmuo naudojasi vartojimo kredito tarpininkų paslaugomis.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 7. Priežiūros institucija, išnagrinėjusi asmens prašymą ir pateiktus dokumentus, duomenis ir informaciją, ne vėliau kaip per 30 darbo dienų nuo prašymo gavimo dienos priima sprendimą įrašyti arba atsisakyti įrašyti asmenį į viešąjį vartojimo kredito davėjų sąrašą ir apie tai raštu praneša pareiškėjui. Jeigu priežiūros institucija paprašo papildomų dokumentų, duomenų ir (arba) informacijos, reikalingų sprendimui priimti, arba juos savo iniciatyva pateikia prašymą dėl įrašymo į viešąjį vartojimo kredito davėjų sąrašą pateikęs asmuo ir (arba) priežiūros institucija dėl dokumentų, duomenų ir (arba) informacijos pateikimo kreipiasi į šio įstatymo 222 straipsnyje nurodytus asmenis, sprendimą įrašyti arba atsisakyti įrašyti asmenį į viešąjį vartojimo kredito davėjų sąrašą priežiūros institucija priima ne vėliau kaip per 30 darbo dienų nuo papildomų dokumentų, duomenų ir (arba) informacijos gavimo dienos.
 
@@ -785,15 +795,27 @@ Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
 
 3) informaciją apie teisių ir pareigų pagal galiojančias vartojimo kredito sutartis, jeigu tokių yra, perleidimą kitam vartojimo kredito davėjui.
 
-12. Šio straipsnio 11 dalyje nurodytais pagrindais priežiūros institucija vartojimo kredito davėjo prašymu išbraukia vartojimo kredito davėją iš viešojo vartojimo kredito davėjų sąrašo, jeigu vartojimo kredito davėjas neturi galiojančių vartojimo kredito sutarčių arba teisės ir pareigos pagal galiojančias vartojimo kredito sutartis yra perleistos kitam vartojimo kredito davėjui.
+12. Priežiūros institucija išbraukia vartojimo kredito davėją, nebevykdantį vartojimo kreditų teikimo veiklos arba nepradėjusį jos vykdyti per 6 mėnesius nuo jo įrašymo į viešąjį vartojimo kredito davėjų sąrašą dienos, iš viešojo vartojimo kredito davėjų sąrašo, jeigu vartojimo kredito davėjas neturi galiojančių vartojimo kredito sutarčių arba teisės ir pareigos pagal galiojančias vartojimo kredito sutartis yra perleistos kitam vartojimo kredito davėjui.
 
-13. Priežiūros institucija turi teisę motyvuotu sprendimu išbraukti vartojimo kredito davėją iš viešojo vartojimo kredito davėjų sąrašo, kitais, negu šio straipsnio 11 dalyje nurodytais, pagrindais, jeigu:
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+
+13. Priežiūros institucija turi teisę motyvuotu sprendimu išbraukti vartojimo kredito davėją iš viešojo vartojimo kredito davėjų sąrašo kitais negu šio straipsnio 12 dalyje nurodytais pagrindais, jeigu:
 
 1) vartojimo kredito davėjui yra iškelta bankroto byla, jis likviduojamas ar pasibaigia kitais įstatymų nustatytais pagrindais;
 
 2) kitais šiame įstatyme nurodytais pagrindais.
 
-14. Vartojimo kredito davėjas, priežiūros institucijos sprendimu išbrauktas iš viešojo vartojimo kredito davėjų sąrašo šio straipsnio 11 dalyje nurodytais pagrindais, gali būti vėl įrašytas į viešąjį vartojimo kredito davėjų sąrašą šiame įstatyme nustatyta tvarka. Vartojimo kredito davėjas, išbrauktas iš viešojo vartojimo kredito davėjų sąrašo kitais šiame įstatyme nurodytais pagrindais, gali būti vėl įrašytas į viešąjį vartojimo kredito davėjų sąrašą ne anksčiau kaip po vienų metų nuo sprendimo išbraukti jį iš viešojo vartojimo kredito davėjų sąrašo priėmimo dienos. Vartotojų ginčai su išbrauktu iš viešojo vartojimo kredito davėjų sąrašo asmeniu toliau nagrinėjami Lietuvos Respublikos Lietuvos banko įstatyme nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+
+14. Vartojimo kredito davėjas, priežiūros institucijos sprendimu išbrauktas iš viešojo vartojimo kredito davėjų sąrašo šio straipsnio 12 dalyje nurodytais pagrindais, gali būti vėl įrašytas į viešąjį vartojimo kredito davėjų sąrašą ne anksčiau kaip po vienų metų nuo sprendimo išbraukti jį iš viešojo vartojimo kredito davėjų sąrašo priėmimo dienos. Vartojimo kredito davėjas, išbrauktas iš viešojo vartojimo kredito davėjų sąrašo kitais šiame įstatyme nurodytais pagrindais, gali būti vėl įrašytas į viešąjį vartojimo kredito davėjų sąrašą ne anksčiau kaip po 3 metų nuo sprendimo išbraukti jį iš viešojo vartojimo kredito davėjų sąrašo priėmimo dienos. Vartotojų ginčai su išbrauktu iš viešojo vartojimo kredito davėjų sąrašo asmeniu toliau nagrinėjami Lietuvos Respublikos Lietuvos banko įstatyme nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 15. Priežiūros institucija viešąjį vartojimo kredito davėjų sąrašą skelbia priežiūros institucijos interneto svetainėje. Viešasis vartojimo kredito davėjų sąrašas tvarkomas priežiūros institucijos teisės aktuose nustatyta tvarka.
 
@@ -841,179 +863,85 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 3. Vartojimo kredito tarpininkas apie vartojimo kredito gavėjo mokamą atlygį už jo paslaugas praneša vartojimo kredito davėjui, kad šis atlygį įtrauktų į bendros vartojimo kredito kainos metinę normą.
 
-26 straipsnis. Atsakomybė už šio įstatymo pažeidimus
+26 straipsnis. Neteko galios nuo 2018-06-15
 
-1. Asmenys, pažeidę šio įstatymo reikalavimus, atsako šio ir kitų Lietuvos Respublikos įstatymų nustatyta tvarka.
+Straipsnio naikinimas:
 
-2. Šio įstatymo pažeidimų nagrinėjimo tvarką nustato šis įstatymas ir priežiūros institucijos patvirtintos taisyklės.
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
-27 straipsnis. Šio įstatymo pažeidimus nagrinėjanti institucija
+27 straipsnis. Neteko galios nuo 2018-06-15
 
-1. Šio įstatymo pažeidimus nagrinėja ir poveikio priemones už šio įstatymo pažeidimus taiko priežiūros institucija.
+Straipsnio naikinimas:
 
-Straipsnio dalies pakeitimai:
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
-Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
+28 straipsnis. Priežiūros institucijos funkcijos, teisės ir pareigos
 
-2. Jeigu priežiūros institucija nustato pakankamai duomenų apie galimą šio įstatymo pažeidimą, ji privalo motyvuotu sprendimu pradėti šio įstatymo pažeidimo nagrinėjimo procedūrą savo iniciatyva.
+1. Priežiūros institucija atlieka vartojimo kredito teikimo veiklos, vartojimo kredito tarpininko veiklos ir tarpusavio skolinimo platformos operatoriaus veiklos priežiūrą. Ši priežiūra neapima kitos į viešąjį vartojimo kredito davėjų, viešąjį nepriklausomų vartojimo kredito tarpininkų, viešąjį vartojimo kredito davėjo vardu veikiančių tarpininkų arba viešąjį tarpusavio skolinimo platformos operatorių sąrašą įrašytų asmenų vykdomos veiklos, kurios nereglamentuoja šis įstatymas.
 
-28 straipsnis. Priežiūros institucijos teisės ir pareigos
+2. Priežiūros institucija, vykdydama šio straipsnio 1 dalyje nurodytą priežiūrą, atlieka šias funkcijas:
 
-Priežiūros institucija:
+1) įrašo asmenis į viešąjį vartojimo kredito davėjų sąrašą ir iš jo išbraukia;
 
-1) prižiūri, ar vartojimo kredito davėjai, vartojimo kredito tarpininkai ir tarpusavio skolinimo platformos operatoriai tinkamai laikosi šiame įstatyme ir jo pagrindu priimtuose teisės aktuose nustatytų reikalavimų;
+2) įrašo asmenis į viešąjį nepriklausomų vartojimo kredito tarpininkų sąrašą ir iš jo išbraukia;
 
-Straipsnio punkto pakeitimai:
+3) įrašo asmenis į viešąjį tarpusavio skolinimo platformos operatorių sąrašą ir iš jo išbraukia;
 
-Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
+4) stebi, analizuoja, tikrina ir kitaip prižiūri vartojimo kredito davėjų, vartojimo kredito tarpininkų ir tarpusavio skolinimo platformos operatorių veiklą;
 
-2) savo iniciatyva nagrinėja galimus šio įstatymo ir jo pagrindu priimtų teisės aktų pažeidimus;
+5) tvarko Asmenų, dėl kurių yra pateikti prašymai neleisti jiems sudaryti vartojimo kredito sutarčių, sąrašą;
 
-Straipsnio punkto pakeitimai:
+6) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas.
 
-Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
+3. Priežiūros institucija, nustačiusi ar turėdama pagrindą įtarti teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, pažeidimus, vartojimo kredito davėjo, jo tarpininko arba tarpusavio skolinimo platformos operatoriaus veiklos trūkumus, taip pat jei kyla grėsmė visuomenės ir (arba) vartojimo kredito gavėjų interesams, Lietuvos banko įstatymo nustatyta tvarka vartojimo kredito davėjui, vartojimo kredito tarpininkui arba tarpusavio skolinimo platformos operatoriui duoda šiuos privalomus nurodymus:
 
-3) nagrinėja prašymus dėl galimo šio įstatymo pažeidimo;
+1) per priežiūros institucijos nustatytą terminą pašalinti teisės aktų pažeidimus arba veiklos trūkumus;
 
-4) atlieka asmenų veiklos patikrinimus, jeigu įtaria, kad jie pažeidžia šį įstatymą ir jo pagrindu priimtus teisės aktus;
+2) atkurti iki teisės aktų pažeidimo buvusią padėtį;
 
-Papildyta straipsnio punktu:
+3) laikinai uždrausti vartojimo kredito davėjui, vartojimo kredito tarpininkui arba tarpusavio skolinimo platformos operatoriui sudaryti vartojimo kredito sutartis;
 
-Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
+4) priežiūros institucijai pateikti papildomą informaciją arba teikti dažniau, negu nustatyta teisės aktuose, informaciją, reikalingą priežiūros funkcijoms atlikti;
 
-5) gauna priežiūrai atlikti reikalingą informaciją, duomenis, dokumentus, jų kopijas, kitą informaciją, duomenis, dokumentus ir jų kopijas iš valstybės ir savivaldybių institucijų bei įstaigų, registrų ar informacinių sistemų, vartojimo kredito davėjų, vartojimo kredito tarpininkų ir tarpusavio skolinimo platformos operatorių, kitų fizinių ir juridinių asmenų, kitų organizacijų ir jų padalinių;
+5) viešai atskleisti papildomą informaciją;
 
-Papildyta straipsnio punktu:
+6) atlikti kitus veiksmus arba neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai arba veiklos trūkumai.
 
-Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
+4. Vartojimo kredito davėjai, vartojimo kredito tarpininkai ir tarpusavio skolinimo platformos operatoriai privalo vykdyti šio straipsnio 3 dalyje nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdami, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai.
 
-6) tvarko Asmenų, dėl kurių yra pateikti prašymai neleisti jiems sudaryti vartojimo kredito sutarčių, sąrašą;
+Straipsnio pakeitimai:
 
-Papildyta straipsnio punktu:
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
-Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
+29 straipsnis. Neteko galios nuo 2018-06-15
 
-7) taiko šiame įstatyme nustatytas poveikio priemones vartojimo kredito davėjams, vartojimo kredito tarpininkams ir tarpusavio skolinimo platformos operatoriams, taip pat kitiems asmenims, pažeidusiems šį įstatymą ar jo pagrindu priimtus teisės aktus;
+Straipsnio naikinimas:
 
-Straipsnio punkto pakeitimai:
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
-Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
+30 straipsnis. Neteko galios nuo 2018-06-15
 
-8) bendradarbiauja su valstybių narių ir užsienio valstybių atitinkamomis institucijomis;
+Straipsnio naikinimas:
 
-Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
-Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
+31 straipsnis. Neteko galios nuo 2018-06-15
 
-9) atlieka kitas šiame įstatyme nustatytas funkcijas.
+Straipsnio naikinimas:
 
-Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
-Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
+32 straipsnis. Neteko galios nuo 2018-06-15
 
-29 straipsnis. Prašymo ištirti galimą šio įstatymo pažeidimą pateikimas priežiūros institucijai
+Straipsnio naikinimas:
 
-1. Kreiptis į priežiūros instituciją dėl galimo šio įstatymo pažeidimo turi teisę vartojimo kredito gavėjai, valstybės ir savivaldybių institucijos ir įstaigos, vartotojų asociacijos (toliau – pareiškėjai), pateikdami priežiūros institucijai prašymą raštu.
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
-2. Šio straipsnio 1 dalyje nurodytame prašyme turi būti:
+33 straipsnis. Neteko galios nuo 2018-06-15
 
-1) pareiškėjo vardas, pavardė, adresas (jeigu kreipiasi fizinis asmuo) arba pavadinimas, kodas, buveinės adresas (jeigu kreipiasi juridinis asmuo) ir duomenys ryšiui palaikyti;
+Straipsnio naikinimas:
 
-2) pareiškėjui žinomos galimo šio įstatymo pažeidimo faktinės aplinkybės. Prie šio straipsnio 1 dalyje nustatyto prašymo pridedami jas patvirtinantys pareiškėjo turimi dokumentai.
-
-3. Pradėti šio straipsnio 1 dalyje nurodyto prašymo nagrinėjimo procedūrą atsisakoma, jeigu:
-
-1) prašyme nurodyto pažeidimo nagrinėjimas nepriskirtas priežiūros institucijos kompetencijai;
-
-2) prašyme nurodyti faktiniai duomenys jau buvo patikrinti ir dėl jų priimtas priežiūros institucijos nutarimas (sprendimas);
-
-Straipsnio punkto pakeitimai:
-
-Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
-
-3) nėra faktinių duomenų, kurie leistų pagrįstai įtarti šio įstatymo pažeidimą, arba pareiškėjas be pateisinamos priežasties per nustatytą terminą nepateikia jo prašymą pagrindžiančių dokumentų;
-
-4) nuo galimo šio įstatymo pažeidimo iki prašymo pateikimo priežiūros institucijai dienos yra praėję daugiau kaip treji metai.
-
-4. Priežiūros institucija per 30 kalendorinių dienų nuo prašymo, atitinkančio šiame straipsnyje nustatytus reikalavimus, gavimo dienos praneša pareiškėjui priežastis, dėl kurių atsisakoma pradėti šio įstatymo pažeidimo nagrinėjimo procedūrą.
-
-30 straipsnis. Šio įstatymo pažeidimo nagrinėjimo procedūros dalyviai ir kiti asmenys
-
-1. Šio įstatymo pažeidimo nagrinėjimo procedūros metu dalyvauja:
-
-1) asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra;
-
-2) vartojimo kredito gavėjas, kai šio įstatymo pažeidimo nagrinėjimo procedūra pradėta remiantis vartojimo kredito gavėjo prašymu;
-
-3) vartotojų asociacijos arba valstybės ir savivaldybių institucijos ir įstaigos atstovas, kai šio įstatymo pažeidimo nagrinėjimo procedūra pradėta remiantis vartotojų asociacijos arba valstybės ir savivaldybių institucijos ir įstaigos prašymu;
-
-4) ekspertai, specialistai ir kiti asmenys – priežiūros institucijos sprendimu.
-
-2. Šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodyti asmenys toliau šiame įstatyme vadinami šio įstatymo pažeidimo nagrinėjimo procedūros dalyviais.
-
-3. Šio įstatymo pažeidimo nagrinėjimo procedūros dalyviams gali atstovauti jų atstovai.
-
-31 straipsnis. Šio įstatymo pažeidimo nagrinėjimo tvarka ir terminai
-
-1. Priežiūros institucija, pradėjusi šio įstatymo pažeidimo nagrinėjimo procedūrą, raštu kreipiasi į asmenį, dėl kurio veiksmų ši procedūra pradėta, ir paprašo per priežiūros institucijos nurodytą terminą pateikti motyvuotą paaiškinimą ir jį pagrindžiančius įrodymus apie aplinkybes, dėl kurių pradėta šio įstatymo pažeidimo nagrinėjimo procedūra.
-
-2. Šio įstatymo pažeidimo nagrinėjimo procedūros dalyviams ne vėliau kaip prieš 14 kalendorinių dienų iki šio įstatymo pažeidimų nagrinėjimo priežiūros institucijoje dienos registruotu laišku pranešama apie galimus šio įstatymo pažeidimus, šių pažeidimų nagrinėjimo vietą ir laiką, taip pat pasiūloma susipažinti su gautais dokumentais ir kita informacija, raštu pateikti paaiškinimus.
-
-3. Jeigu šio įstatymo pažeidimo procedūros dalyviai nedalyvauja galimų šio įstatymo pažeidimų nagrinėjimo metu, šio įstatymo pažeidimai gali būti nagrinėjami tik tuo atveju, kai yra duomenų, kad jiems tinkamai ir laiku buvo pranešta apie šio įstatymo pažeidimų nagrinėjimo vietą ir laiką.
-
-4. Šio įstatymo pažeidimų nagrinėjimo metu šios procedūros dalyviai turi teisę susipažinti su gautais dokumentais ir kita informacija, duoti žodinius ar rašytinius paaiškinimus, teikti prašymus, pateikti papildomą informaciją ir kitus dokumentus.
-
-5. Priežiūros institucija galimus šio įstatymo pažeidimus išnagrinėja ir poveikio priemones taiko ne vėliau kaip per keturis mėnesius nuo šio įstatymo 29 straipsnyje nurodyto prašymo priežiūros institucijai pateikimo dienos ar šio įstatymo 27 straipsnio 2 dalyje nurodyto sprendimo priėmimo dienos.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
-
-32 straipsnis. Pareiga teikti informaciją
-
-Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, privalo priežiūros institucijai pateikti informaciją ir dokumentus galimiems šio įstatymo pažeidimams tirti.
-
-33 straipsnis. Nutarimas (sprendimas) atlikus šio įstatymo pažeidimo nagrinėjimo procedūrą
-
-1. Priežiūros institucija, atlikusi šio įstatymo pažeidimo nagrinėjimo procedūrą, priima nutarimą (sprendimą), kuriame turi būti nurodyta:
-
-1) nutarimą (sprendimą) priėmusios institucijos pavadinimas;
-
-2) nutarimo (sprendimo) priėmimo data ir vieta;
-
-3) nutarimą (sprendimą) priėmusio asmens (kolegialaus organo) duomenys, posėdžio sekretorius, šio įstatymo pažeidimo nagrinėjimo procedūros dalyviai ir kiti dalyvavę suinteresuoti asmenys;
-
-4) asmens, dėl kurio veiksmų (neveikimo) buvo priimtas nutarimas (sprendimas), duomenys;
-
-5) šio įstatymo 29 straipsnyje nurodyto prašymo turinys;
-
-6) nustatytos šio įstatymo nuostatų pažeidimo faktinės aplinkybės;
-
-7) pažeidimo faktą patvirtinantys įrodymai, kuriais grindžiamas nutarimas (sprendimas);
-
-8) šio įstatymo straipsnis, nustatantis atsakomybę už pažeidimą;
-
-9) asmens, dėl kurio veiksmų (neveikimo) buvo priimtas nutarimas (sprendimas), paaiškinimai ir jų įvertinimas;
-
-10) priimtas sprendimas;
-
-11) nutarimo (sprendimo) įvykdymo tvarka ir terminas, per kurį nutarimą (sprendimą) būtina įvykdyti;
-
-12) nutarimo (sprendimo) apskundimo terminai ir tvarka.
-
-2. Priežiūros institucija, atlikusi šio įstatymo pažeidimo nagrinėjimo procedūrą, turi teisę priimti šiuos sprendimus:
-
-1) įpareigoti asmenį, pažeidusį šio įstatymo reikalavimus, nutraukti neteisėtus veiksmus;
-
-2) taikyti šio įstatymo nustatytas poveikio priemones;
-
-3) laikinai uždrausti vartojimo kredito davėjui ar tarpusavio skolinimo platformos operatoriui sudaryti vartojimo kredito sutartis;
-
-4) išbraukti asmenį iš viešojo vartojimo kredito davėjų sąrašo arba viešojo tarpusavio skolinimo platformos operatorių sąrašo;
-
-5) netaikyti poveikio priemonių, kai nenustatomas šio įstatymo nuostatų pažeidimas.
-
-3. Šiame straipsnyje nurodytas priežiūros institucijos nutarimas (sprendimas) per 3 darbo dienas nuo jo priėmimo registruotu laišku išsiunčiamas pareiškėjui ir asmeniui, dėl kurio šis nutarimas (sprendimas) priimtas.
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 Straipsnio pakeitimai:
 
@@ -1021,63 +949,53 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 34 straipsnis. Baudos
 
-1. Priežiūros institucija turi teisę asmenims skirti šias baudas:
+1. Priežiūros institucija skiria baudas:
 
-1) už priežiūros institucijos reikalavimo pateikti informaciją ir dokumentus, reikalingus šio įstatymo pažeidimui tirti, nevykdymą ar netinkamą vykdymą, jeigu prieš tai asmuo buvo įspėtas dėl šio reikalavimo nevykdymo, – iki 2 896 eurų;
+1) juridiniams asmenims - iki 5 procentų bendrųjų metinių pajamų;
 
-2) už priežiūros institucijos pagal šį įstatymą duotų nurodymų nevykdymą ar netinkamą vykdymą – iki 1 procento praėjusių metų bendrųjų metinių veiklos pajamų arba iki 1 448 eurų už kiekvieną nurodymo nevykdymo ar netinkamo vykdymo dieną;
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims - iki 25 000 eurų.
 
-3) už kitus šio įstatymo ir jo pagrindu priimtų teisės aktų pažeidimus – vartojimo kredito davėjui ar tarpusavio skolinimo platformos operatoriui iki 0,1 procento praėjusių metų bendrųjų metinių veiklos pajamų, kitiems asmenims iki 2 896 eurų, taip pat kitas šiame įstatyme nustatytas poveikio priemones.
+2. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose.
 
-2. Pakartotinai per vienus metus padarius pažeidimą, už kurį jau buvo pritaikyta šio įstatymo nustatyta poveikio priemonė, gali būti skiriama bauda iki 10 procentų praėjusių metų bendrųjų metinių veiklos pajamų.
+3. Jeigu dėl šio įstatymo 332 straipsnio 1 dalyje išvardytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir šių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 arba 4 dalyje nurodytus baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
 
-3. Jeigu juridinis asmuo priklauso patronuojančiajai finansinės grupės finansų įstaigai, praėjusių metų bendrosios metinės veiklos pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios finansinės grupės finansų įstaigos praėjusių metų konsoliduotoje finansinėje ataskaitoje.
+4. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba kai juridinio asmens bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, priežiūros institucija vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos juridiniam asmeniui skiria iki 100 000 eurų baudą.
 
-4. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens praėjusių metų bendrųjų metinių veiklos pajamų, priežiūros institucija turi teisę vietoj šio straipsnio 1 dalies 2 ar 3 punkte arba šio straipsnio 2 dalyje nurodytos baudos skirti juridiniam asmeniui baudą iki 80 000 eurų.
+5. Šio įstatymo 332 straipsnio 1 dalies 4 punkte nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki vieno procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
-
-5. Asmenims, kurie verčiasi vartojimo kredito teikimo, tarpininkavimo ar tarpusavio skolinimo platformos operatoriaus veikla, tačiau nėra įrašyti į viešąjį vartojimo kredito davėjų sąrašą, viešąjį nepriklausomų vartojimo kredito tarpininkų sąrašą ar viešąjį tarpusavio skolinimo platformos operatorių sąrašą, priežiūros institucija turi teisę skirti iki 57 924 eurų baudą.
-
-6. Jeigu pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems vartojimo kredito gavėjų interesams, priežiūros institucija, vadovaudamasi teisingumo ir protingumo kriterijais, gali skirti įspėjimą.
-
-7. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio 8 ir 9 dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Skiriamos baudos dydis nustatomas pagal baudos dydžio minimumo ir maksimumo vidurkį, atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidutinio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidutinio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas priežiūros institucijos nutarime (sprendime).
-
-8. Atsakomybę lengvinančiomis aplinkybėmis laikomos aplinkybės, kai padaręs pažeidimą asmuo savo noru užkirto kelią žalingoms pažeidimo pasekmėms atsirasti, nutraukė pažeidimą, bendradarbiavo su priežiūros institucija tyrimo metu, atlygino nuostolius ir (arba) pašalino padarytą žalą. Priežiūros institucija gali pripažinti atsakomybę lengvinančiomis aplinkybėmis ir kitas šioje dalyje nenurodytas aplinkybes.
-
-9. Atsakomybę sunkinančiomis aplinkybėmis laikomos aplinkybės, kai padaręs pažeidimą asmuo kliudė atlikti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą, nepaisydamas įpareigojimo nutraukti neteisėtus veiksmus.
-
-10. Skundą dėl priežiūros institucijos nutarimo (sprendimo) skirti baudą nagrinėjantis teismas, atsižvelgdamas į atsakomybę lengvinančias ir kitas aplinkybes (dėl kurių bauda asmeniui, kuris pažeidė šį įstatymą, būtų akivaizdžiai per didelė, nes neproporcinga padarytam teisės pažeidimui ir dėl to neteisinga) ir vadovaudamasis teisingumo, protingumo kriterijais, turi teisę skirti mažesnę baudą, negu šiame straipsnyje nustatyta minimali bauda, arba nustatęs, kad pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems vartojimo kredito gavėjų interesams, vadovaudamasis teisingumo, protingumo kriterijais, teismas turi teisę taikyti įspėjimą.
+6. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
 Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
-35 straipsnis. Viešas skelbimas
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
-Priežiūros institucija, šio įstatymo 33 straipsnyje nurodytame nutarime (sprendime) konstatavusi, kad asmuo pažeidė šio įstatymo reikalavimus, apie tai skelbia viešai savo interneto svetainėje praėjus 30 kalendorinių dienų nuo nutarimo (sprendimo) priėmimo. Jeigu per 30 kalendorinių dienų nuo nutarimo (sprendimo) priėmimo asmuo, dėl kurio veiksmų nutarimas (sprendimas) priimtas, apskundžia jį teismui, priežiūros institucija apie šio įstatymo nuostatų pažeidimą viešai savo interneto svetainėje skelbia pasibaigus teismo procesui.
+35 straipsnis. Neteko galios nuo 2018-06-15
 
-Straipsnio pakeitimai:
+Straipsnio naikinimas:
 
-Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
-
-36 straipsnis. Priežiūros institucijos nutarimo (sprendimo) vykdymas
-
-1. Priežiūros institucijos nutarimas (sprendimas) turi būti įvykdytas ne vėliau kaip per 30 kalendorinių dienų nuo dienos, kurią šio įstatymo reikalavimus pažeidusiam asmeniui jis buvo įteiktas. Apskundus priežiūros institucijos nutarimą (sprendimą) dėl baudos skyrimo, bauda turi būti sumokėta ne vėliau kaip per 30 kalendorinių dienų nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos.
-
-2. Priežiūros institucijos nutarimas (sprendimas) yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Priežiūros institucijos nutarimas (sprendimas) gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo jo priėmimo dienos.
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 Straipsnio pakeitimai:
 
 Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
-37 straipsnis. Priežiūros institucijos nutarimo (sprendimo) apskundimas
+36 straipsnis. Neteko galios nuo 2018-06-15
 
-1. Asmuo, nesutinkantis su priežiūros institucijos nutarimu (sprendimu), turi teisę per 30 kalendorinių dienų nuo nutarimo (sprendimo) priėmimo dienos apskųsti jį teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio naikinimas:
 
-2. Kreipimasis į teismą sustabdo priežiūros institucijos nutarimo (sprendimo) dėl baudos skyrimo vykdymą.
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+
+Straipsnio pakeitimai:
+
+Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
+
+37 straipsnis. Neteko galios nuo 2018-06-15
+
+Straipsnio naikinimas:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 Straipsnio pakeitimai:
 
@@ -1089,11 +1007,13 @@ SEPTINTASIS SKIRSNIS BAIGIAMOSIOS NUOSTATOS
 
 1. Šiame įstatyme vartojimo kredito gavėjams suteiktų teisių atsisakymas negalioja.
 
-2. Vartotojų ginčai su vartojimo kredito davėju, vartojimo kredito tarpininku ir tarpusavio skolinimo platformos operatoriumi nagrinėjami Lietuvos Respublikos Lietuvos banko įstatyme nustatyta tvarka.
+2. Vartotojų ginčai su vartojimo kredito davėju, vartojimo kredito tarpininku ir tarpusavio skolinimo platformos operatoriumi nagrinėjami Lietuvos banko įstatyme nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 39 straipsnis. Užsienio valstybės teisės taikymas vartojimo kredito sutartims
 
@@ -1470,6 +1390,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
 
 Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 3, 5, 11-1, 22, 25-2, 34 straipsnių ir 3 priedo pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 22, 22-1, 25-1, 25-2, 25-3, 28, 34, 38 straipsnių pakeitimo, Įstatymo papildymo 21-2, 28-1, 28-2, 33-1, 33-2 straipsniais ir 22-2, 26, 27, 29, 30, 31, 32, 33, 35, 36, 37 straipsnių pripažinimo netekusiais galios įstatymas
 
 43 straipsnis. Viešas skelbimas
 
@@ -1895,23 +1823,33 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 221 straipsnis. Teisių ir pareigų pagal vartojimo kredito sutartis perleidimas
 
-1. Vartojimo kredito davėjas turi teisę perleisti teises ir pareigas pagal vartojimo kredito sutartis tik į viešąjį vartojimo kredito davėjų sąrašą įrašytam asmeniui.
+1. Vartojimo kredito davėjas turi teisę perleisti teises ir pareigas pagal galiojančias vartojimo kredito sutartis tik į viešąjį vartojimo kredito davėjų sąrašą įrašytam asmeniui.
 
-2. Teisių ir pareigų pagal vartojimo kredito sutartis perleidimo tvarką nustato priežiūros institucija.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+
+2. Priežiūros institucija, priimdama sprendimą išbraukti vartojimo kredito davėją iš viešojo vartojimo kredito davėjų sąrašo vadovaudamasi šio įstatymo 331 straipsnio 5 punktu, įpareigoja vartojimo kredito davėją perleisti teises ir pareigas pagal galiojančias vartojimo kredito sutartis kitam į viešąjį vartojimo kredito davėjų sąrašą įrašytam asmeniui.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+
+3. Teisių ir pareigų pagal vartojimo kredito sutartis perleidimo tvarką nustato priežiūros institucija.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 Papildyta straipsniu:
 
 Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
-222 straipsnis. Priežiūros institucijos teisė į informaciją
+222 straipsnis. Neteko galios nuo 2018-06-15
 
-1. Valstybės ir savivaldybių institucijos ir įstaigos, kiti fiziniai ir juridiniai asmenys, kitos organizacijos ar jų padaliniai priežiūros institucijos prašymu privalo pateikti jai informaciją, taip pat ir konfidencialią, duomenis, dokumentus, jų kopijas, reikalingą jos funkcijoms atlikti ir teisėms įgyvendinti.
+Straipsnio naikinimas:
 
-2. Priežiūros institucija turi teisę kreiptis į kitų valstybių narių ar užsienio valstybių kompetentingas institucijas, finansų ir kapitalo rinkos priežiūros institucijas, už vartotojų teisių apsaugą atsakingas institucijas ar kitas institucijas, fizinius ir juridinius asmenis, kitas organizacijas ir jų padalinius su prašymu pateikti informaciją, reikalingą priežiūros funkcijoms atlikti ir teisėms įgyvendinti.
-
-Papildyta straipsniu:
-
-Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 231 straipsnis. Vartojimo kredito davėjo finansinių ataskaitų rinkiniai
 
@@ -1927,13 +1865,11 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 1. Teisę verstis tarpusavio skolinimo platformos operatoriaus veikla asmuo turi tik tada, kai priežiūros institucija įrašo jį į viešąjį tarpusavio skolinimo platformos operatorių sąrašą. Teisės verstis tarpusavio skolinimo platformos operatoriaus veikla neturi fiziniai asmenys ir pelno nesiekiantys asmenys.
 
-2. Tarpusavio skolinimo platformos operatoriaus vadovu, fiziniu arba juridiniu asmeniu arba kartu veikiančiu asmeniu, kuriam tiesiogiai ar netiesiogiai priklausančių balsavimo teisių arba įstatinio kapitalo dalis yra lygi arba viršija 20 procentų arba kuris gali daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį, kaip tai apibrėžta Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme, tarpusavio skolinimo platformos operatoriaus veiklai, negali būti asmuo, atitinkantis bent vieną iš šių sąlygų:
+2. Tarpusavio skolinimo platformos operatoriaus vadovu, fiziniu arba juridiniu asmeniu arba kartu veikiančiu asmeniu, kuriam tiesiogiai ar netiesiogiai priklausančių balsavimo teisių arba įstatinio kapitalo dalis yra lygi arba viršija 20 procentų arba kuris gali daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį, kaip tai apibrėžta Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme, tarpusavio skolinimo platformos operatoriaus veiklai, negali būti asmuo, atitinkantis bent vieną iš šio įstatymo 22 straipsnio 2 dalyje nustatytų sąlygų.
 
-1) pripažintas kaltu padaręs nusikaltimą ar baudžiamąjį nusižengimą, susijusį su pinigų plovimu ar teroristų finansavimu, sunkų, labai sunkų nusikaltimą arba nusikaltimą ar baudžiamąjį nusižengimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai ar juos atitinkančias nusikalstamas veikas pagal kitų valstybių baudžiamuosius įstatymus, jeigu jo teistumas nėra išnykęs;
+Straipsnio dalies pakeitimai:
 
-2) kuriam daugiau kaip kartą per vienus metus taikyta administracinė sankcija arba kita įstatymuose nustatyta poveikio priemonė, kai ši sankcija arba poveikio priemonė buvo pritaikyta už įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, reikalavimų pažeidimą;
-
-3) tiesiogiai ar netiesiogiai valdo arba valdė kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį arba dalį, leidžiančią daryti lemiamą įtaką juridiniam asmeniui, arba yra ar buvo vadovu juridinio asmens, kuriam buvo pritaikyta poveikio priemonė už šiurkštų įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, reikalavimų pažeidimą arba už tokį pažeidimą buvo panaikinta teisė verstis finansinių paslaugų teikimu, arba tas juridinis asmuo buvo pripažintas kaltu dėl šios dalies 1 punkte nurodyto nusikaltimo arba baudžiamojo nusižengimo.
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 3. Šio straipsnio 2 dalyje nurodytais kartu veikiančiais asmenimis laikomi du arba daugiau asmenų, kurie, remdamiesi aiškiai sudarytu ar numanomu žodiniu arba rašytiniu susitarimu, įgyvendina arba siekia įgyvendinti savo teises, turimas pagal šioje dalyje nurodytą tarpusavio skolinimo platformos operatoriaus įstatinio kapitalo ir (arba) balsavimo teisių dalį.
 
@@ -1969,7 +1905,11 @@ TARPUSAVIO SKOLINIMAS
 
 252 straipsnis. Reikalavimai tarpusavio skolinimui
 
-1. Paskolos davėjas vienam vartojimo kredito gavėjui gali suteikti ne didesnį kaip 500 eurų vartojimo kreditą per dvylikos mėnesių laikotarpį nuo pirmo kredito suteikimo dienos vienoje tarpusavio skolinimo platformoje.
+1. Paskolos davėjo vienam vartojimo kredito gavėjui vienoje tarpusavio skolinimo platformoje suteiktų ir negrąžintų vartojimo kreditų bendra suma negali viršyti 500 eurų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 2. Šio straipsnio 1 dalyje nustatyto reikalavimo laikymąsi tarpusavio skolinimo platformoje privalo užtikrinti tos platformos operatorius.
 
@@ -1979,7 +1919,11 @@ Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
 
 253 straipsnis. Reikalavimai tarpusavio skolinimo platformos operatoriui
 
-1. Tarpusavio skolinimo platformos operatoriui mutatis mutandis taikomos visos šiame įstatyme ir jo įgyvendinamuosiuose priežiūros institucijos teisės aktuose vartojimo kredito davėjui taikomos nuostatos, išskyrus šio įstatymo 22 straipsnio 1–6 dalių nuostatas.
+1. Tarpusavio skolinimo platformos operatoriui mutatis mutandis taikomos visos šiame įstatyme ir jo įgyvendinamuosiuose priežiūros institucijos teisės aktuose vartojimo kredito davėjui taikomos nuostatos, išskyrus šio įstatymo 22 straipsnio 1, 3, 4, 5 ir 6 dalių nuostatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 2. Tarpusavio skolinimo platformos operatoriui kiti įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, jeigu tarpusavio skolinimo platformos operatorius yra finansų įstaiga, taip pat atitinkamos teisinės formos, kurios pagrindu tarpusavio skolinimo platformos operatorius veikia, asmeniui taikomi tiek, kiek šis įstatymas nenustato kitaip.
 
@@ -2001,11 +1945,27 @@ TAR pastaba. 253 straipsnio 3 dalyje nurodyto įstatinio kapitalo reikalavimui n
 
 5) įgyvendinti ir taikyti veiksmingas organizacines ir administracines priemones, skirtas užkirsti kelią interesų konfliktams, kurie galėtų neigiamai paveikti paskolos davėjų ir vartojimo kredito gavėjų interesus;
 
-6) užtikrinti, kad informacija, duomenys ir dokumentai apie paskolos davėją, taip pat ikisutartinė, sutartinė ir tarpusavio skolinimo platformos operatoriaus susirašinėjimo su paskolos davėju ir vartojimo kredito gavėju informacija, duomenys ir dokumentai (gautus paskolos davėjo ir vartojimo kredito gavėjo sutikimus, patvirtinimus ir kitų šio įstatymo reikalavimų įgyvendinimą ar svarbią su vartojimo kredito suteikimu susijusią informaciją patvirtinantys duomenys, dokumentai ir informacija) būtų saugomi ne trumpiau kaip 10 metų nuo vartojimo kredito sutarties sudarymo dienos, jeigu kiti teisės aktai nenustato ilgesnio dokumentų saugojimo termino;
+6) vykdyti priežiūros institucijos nurodymus.
 
-7) vykdyti priežiūros institucijos nurodymus.
+Straipsnio dalies pakeitimai:
 
-6. Tarpusavio skolinimo platformos operatoriui paskolos davėjo ir (arba) vartojimo kredito gavėjo mokamas atlygis gali būti skaičiuojamas tik nuo paskolos davėjui vartojimo kredito gavėjo grąžintų įmokų.
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+
+6. Ne mažiau kaip 50 procentų tarpusavio skolinimo platformos operatoriui paskolos davėjo ir (arba) vartojimo kredito gavėjo mokamo atlygio turi būti skaičiuojama proporcingai nuo paskolos davėjui vartojimo kredito gavėjo grąžintų įmokų. Šios dalies nuostatos netaikomos šio straipsnio 61 dalyje nurodytu atveju.
+
+6 dalies redakcija nuo 2023-01-01:
+
+6. Ne mažiau kaip 75 procentai tarpusavio skolinimo platformos operatoriui paskolos davėjo ir (arba) vartojimo kredito gavėjo mokamo atlygio turi būti skaičiuojama proporcingai nuo paskolos davėjui vartojimo kredito gavėjo grąžintų įmokų. Šios dalies nuostatos netaikomos šio straipsnio 61 dalyje nurodytu atveju.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+
+61. Šio straipsnio 6 dalyje nustatyti reikalavimai netaikomi tuo atveju, kai tarpusavio skolinimo platformos operatorius kiekvienam vartojimo kredito gavėjui suteikia ne mažiau kaip 12 procentų bendros vartojimo kredito sumos ir užtikrina, kad visu vartojimo kredito sutarties galiojimo laikotarpiu tarpusavio skolinimo platformos operatoriaus pagal konkrečią vartojimo kredito sutartį vartojimo kredito gavėjui suteikta bendros vartojimo kredito sumos dalis sudarytų ne mažiau kaip 12 procentų negrąžintos bendros vartojimo kredito sumos. Vartojimo kredito gavėjo bankroto atveju tarpusavio skolinimo platformos operatoriaus, kaip kreditoriaus, reikalavimai vartojimo kredito gavėjui tenkinami po to, kai visiškai patenkinami paskolos davėjų reikalavimai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
 7. Tarpusavio skolinimo platformos operatorius savo interneto svetainėje privalo skelbti šią informaciją:
 
@@ -2067,9 +2027,79 @@ Papildyta straipsniu:
 
 Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
+212 straipsnis. Skundų nagrinėjimas
+
+1. Vartojimo kredito davėjai privalo priežiūros institucijos nustatyta tvarka nagrinėti vartojimo kredito gavėjų skundus (prašymus), susijusius su vartojimo kredito davėjų teikiamomis paslaugomis (toliau – skundai).
+
+2. Vartojimo kredito davėjas privalo išnagrinėti rašytinį vartojimo kredito gavėjo skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodamas kitą patvariąją laikmeną, jeigu dėl to susitarė vartojimo kredito gavėjas ir vartojimo kredito davėjas. Išskirtiniais atvejais, kai dėl priežasčių, kurių vartojimo kredito davėjas negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, jis turi išsiųsti negalutinį atsakymą aiškiai nurodęs atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio vartojimo kredito gavėjas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Vartojimo kredito davėjas vartojimo kredito gavėjų skundus nagrinėja neatlygintinai.
+
+Papildyta straipsniu:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+
 PENKTASIS SKIRSNIS  VARTOJIMO KREDITO DAVĖJŲ, VARTOJIMO KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIMO PLATFORMOS OPERATORIŲ VEIKLOS PRIEŽIŪRA
 
 Pakeistas skirsnio pavadinimas:
 
 Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
+
+281 straipsnis. Priežiūros tikslu gautos informacijos apsauga
+
+Informacijos, kurią priežiūros institucija gauna priežiūros tikslu, apsaugai taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos.
+
+Papildyta straipsniu:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+
+282 straipsnis. Priežiūros institucijos atliekami patikrinimai
+
+1. Priežiūros institucija organizuoja ir atlieka patikrinimus, kad nustatytų, ar laikomasi šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai.
+
+2. Reikalavimai priežiūros institucijos rengiamiems patikrinimams yra numatyti Lietuvos banko įstatymo 421 straipsnyje. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme ir šiame įstatyme nustatytas teises.
+
+Papildyta straipsniu:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+
+331 straipsnis. Priežiūros institucijos taikomos poveikio priemonės
+
+Priežiūros institucija taiko asmenims šias poveikio priemones:
+
+1) viešai paskelbia šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimą ir jį padariusį asmenį;
+
+2) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo ir nurodo per nustatytą terminą nutraukti teisės akto pažeidimą;
+
+3) skiria šio įstatymo nustatytas pinigines baudas;
+
+4) įpareigoja vartojimo kredito davėją arba tarpusavio skolinimo platformos operatorių pakeisti vadovą;
+
+5) išbraukia asmenį iš viešojo vartojimo kredito davėjų, viešojo nepriklausomų vartojimo kredito tarpininkų arba viešojo tarpusavio skolinimo platformos operatorių sąrašo.
+
+Papildyta straipsniu:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+
+332 straipsnis. Poveikio priemonių taikymo pagrindai ir tvarka
+
+1. Šiame įstatyme nustatytos poveikio priemonės taikomos, kai yra bent vienas iš šių pagrindų:
+
+1) vartojimo kredito teikimo veikla vykdoma asmens, neįrašyto į viešąjį vartojimo kredito davėjų, viešąjį nepriklausomų vartojimo kredito tarpininkų, viešąjį vartojimo kredito davėjo vardu veikiančių tarpininkų arba viešąjį tarpusavio skolinimo platformos operatorių sąrašą, arba atliekami kiti veiksmai ar veikla, kuriuos draudžia šis įstatymas;
+
+2) vartojimo kredito davėjas, vartojimo kredito tarpininkas arba tarpusavio skolinimo platformos operatorius į viešąjį vartojimo kredito davėjų, viešąjį nepriklausomų vartojimo kredito tarpininkų arba viešąjį tarpusavio skolinimo platformos operatorių sąrašą buvo įrašytas priežiūros institucijai pateikus klaidingą informaciją arba pasinaudojus kitomis neteisėtomis priemonėmis;
+
+3) nustatytais terminais nepateikiama šio įstatymo, kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neišsami, neteisinga arba netiksli informacija;
+
+4) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 28 straipsnį duoti privalomi nurodymai;
+
+5) nebetenkinamos sąlygos, kuriomis remiantis asmuo buvo įrašytas į viešąjį vartojimo kredito davėjų, viešąjį nepriklausomų vartojimo kredito tarpininkų arba viešąjį tarpusavio skolinimo platformos operatorių sąrašą;
+
+6) trukdoma priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus;
+
+7) padaromi kiti šio įstatymo arba kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai.
+
+2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas.
+
+Papildyta straipsniu:
+
+Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 
