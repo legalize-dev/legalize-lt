@@ -4,7 +4,7 @@ identifier: "TAR.DDA1BD559D9B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-06-03"
-last_updated: "2017-01-01"
+last_updated: "2018-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2019-01-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 55-1765, i. k. 0991010ISTAIII-1212
 
@@ -40,21 +40,17 @@ PIRMASIS SKIRSNIS
 
 BENDROSIOS NUOSTATOS
 
-17 straipsnis. Laikinasis atstovas veiklai prižiūrėti
+17 straipsnis. Neteko galios nuo 2018-06-15
 
-1. Neatidėliotinais atvejais, siekdama išvengti pensijų turto nuvertėjimo ar kitokio jo netekimo, priežiūros institucija turi teisę paskirti savo laikinąjį atstovą valdymo įmonės veiklai prižiūrėti.
+Straipsnio naikinimas:
 
-2. Valdymo įmonės vadovai, prieš imdamiesi priežiūros institucijos sprendime dėl laikinojo atstovo veiklai prižiūrėti paskyrimo išvardytų veiksmų, turi gauti laikinojo atstovo veiklai prižiūrėti sutikimą.
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
-3. Laikinasis atstovas veiklai prižiūrėti atšaukiamas, kai:
+8 straipsnis. Priežiūros institucijos teisė priimti šio įstatymo įgyvendinamuosius teisės aktus
 
-1) nustatoma, kad valdymo įmonė gali patikimai veikti;
+Pakeistas straipsnio pavadinimas:
 
-2) valdymo įmonei iškeliama bankroto byla;
-
-3) panaikinamas valdymo įmonės licencijos galiojimas.
-
-8 straipsnis. Priežiūros institucijos teisės
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 Priežiūros institucija turi teisę nustatyti:
 
@@ -222,41 +218,27 @@ Nr. XIII-90, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29282
 
 1. Valdymo įmonių ir depozitoriumų veiklą prižiūri priežiūros institucija.
 
-2. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi šiuo įstatymu, Finansinių priemonių rinkų įstatymu, Kolektyvinio investavimo subjektų įstatymu ir turi šio ir kitų įstatymų nustatytas teises ir pareigas.
+2. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi Lietuvos banko įstatymu, Kolektyvinio investavimo subjektų įstatymu, šiuo įstatymu ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai.
 
-3. Priežiūros institucijos veiksmai ar neveikimas skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio pakeitimai:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 57 straipsnis. Priežiūros institucijos funkcijos prižiūrint valdymo įmonių ir depozitoriumų veiklą
 
-1. Priežiūros institucija atlieka šias funkcijas:
+Priežiūros institucija atlieka šias funkcijas:
 
-1) rengia, tvirtina, keičia ir pripažįsta netekusiais galios šiame įstatyme nurodytus teisės aktus;
+1) išduoda valdymo įmonėms licencijas ir panaikina ar sustabdo jų galiojimą;
 
-2) taiko valdymo įmonėms ir kitiems asmenims poveikio priemones;
+2) tvirtina pensijų fondų taisykles ir jų pakeitimus, pripažįsta pensijų fondų taisykles netekusiomis galios;
 
-3) Neteko galios 2017-01-01.
+3) stebi, analizuoja, tikrina ir kitaip prižiūri valdymo įmonių ir depozitoriumų veiklą;
 
-Straipsnio punkto pakeitimai:
+4) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas.
 
-Nr. XII-2455, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17722
+Straipsnio pakeitimai:
 
-4) teikia oficialius išaiškinimus ir rekomendacijas valdymo įmonių veiklos klausimais, taip pat konsultacijas ir kitą metodinę pagalbą jos kompetencijos klausimais;
-
-5) išduoda valdymo įmonėms licencijas ir panaikina jų galiojimą;
-
-6) tvirtina pensijų fondų taisykles ir jų pakeitimus;
-
-7) stebi, analizuoja, tikrina ir kitaip prižiūri valdymo įmonių ir depozitoriumų veiklą;
-
-8) duoda valdymo įmonėms ir depozitoriumams privalomuosius nurodymus dėl teisės aktų pažeidimų šalinimo;
-
-9) turi teisę įstatymų nustatyta tvarka gauti duomenis apie asmenis, kurie pagal šį įstatymą privalo būti nepriekaištingos reputacijos;
-
-10) bendradarbiauja su užsienio priežiūros institucijomis ir keičiasi su jomis priežiūrai reikalinga informacija;
-
-11) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas.
-
-2. Priežiūros institucija, atstovaudama pensijų fondo dalyvių interesams, turi teisę kreiptis į teismą dėl viešojo intereso gynimo.
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -264,7 +246,11 @@ Nr. XII-2455, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17722
 
 2. Dukterinė įmonė – kaip ši sąvoka apibrėžta Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme (toliau – Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymas).
 
-3. Finansinės priemonės – Lietuvos Respublikos finansinių priemonių rinkų įstatymo (toliau – Finansinių priemonių rinkų įstatymas) 3 straipsnio 4 dalies 1, 2, 3 ir 4 punktuose nustatytos finansinės priemonės, taip pat indėliai.
+3. Finansinės priemonės – Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies 1, 2, 3 ir 4 punktuose nustatytos finansinės priemonės, taip pat indėliai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 4. Finansinių priemonių portfelis – kaip ši sąvoka apibrėžta Finansinių priemonių rinkų įstatyme.
 
@@ -272,7 +258,11 @@ Nr. XII-2455, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17722
 
 6. Grynieji aktyvai – atitinkamo pensijų fondo pensijų turto vertės ir ilgalaikių bei trumpalaikių finansinių įsipareigojimų (išskyrus įsipareigojimus pensijų fondo dalyviams) skirtumas.
 
-7. Išvestinės finansinės priemonės – Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies 1, 2, 3 ir 4 punktuose nurodytos finansinės priemonės, kurių vertė keičiasi priklausomai nuo palūkanų normos, perleidžiamųjų vertybinių popierių kainos, valiutos keitimo kurso arba finansinio indekso.
+7. Išvestinės finansinės priemonės – Finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies 1, 2, 3 ir 4 punktuose nurodytos finansinės priemonės, kurių vertė keičiasi priklausomai nuo palūkanų normos, perleidžiamųjų vertybinių popierių kainos, valiutos keitimo kurso arba finansinio indekso.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 8. Kontrolė – tiesioginis ir (arba) netiesioginis lemiamas poveikis įmonei, kaip tai apibrėžta Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme.
 
@@ -317,6 +307,12 @@ Nr. XII-2455, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17722
 25. Užsienio priežiūros institucija – institucija, kuri užsienio valstybėje valdymo įmonių licencijavimo ir veiklos priežiūros srityje atlieka panašias funkcijas kaip priežiūros institucija.
 
 26. Valstybė narė – Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė.
+
+27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Kolektyvinio investavimo subjektų įstatyme ir Lietuvos Respublikos pensijų sistemos reformos įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 ANTRASIS SKIRSNIS
 
@@ -400,23 +396,11 @@ Valdymo įmonės akcijų paketo įsigijimui ir perleidimui mutatis mutandis taik
 
 5. Jeigu dalyvis pereina į kitą tos pačios valdymo įmonės valdomą pensijų fondą, jam priklausančios lėšos pervedamos į tą pensijų fondą, į kurį jis pereina šio straipsnio 2 dalyje nustatyta tvarka. Jeigu dalyvis pereina į kitą tos pačios valdymo įmonės valdomą pensijų fondą, sudaroma nauja pensijų kaupimo sutartis. Lėšos, pervestos į pensijų fondą, į kurį pereina dalyvis, turi būti konvertuojamos šio įstatymo 34 straipsnyje nustatyta tvarka.
 
-16 straipsnis. Poveikio priemonių taikymo pagrindai
+16 straipsnis. Neteko galios nuo 2018-06-15
 
-1. Šiame įstatyme nustatytos poveikio priemonės gali būti taikomos, kai yra bent vienas iš šių pagrindų:
+Straipsnio naikinimas:
 
-1) valdymo įmonė priežiūros institucijai pateikė neteisingą informaciją;
-
-2) priežiūros institucijai nepateikta priežiūrai atlikti būtina informacija ir (ar) dokumentai;
-
-3) nebetenkinamos sąlygos, kuriomis remiantis buvo išduota licencija;
-
-4) pažeisti Lietuvos Respublikos įstatymai ar kiti teisės aktai;
-
-5) valdymo įmonė nesugeba įvykdyti savo įsipareigojimų dalyviams arba yra duomenų, kad nesugebės to padaryti ateityje.
-
-2. Priežiūros institucija taiko poveikio priemones Finansinių priemonių rinkų įstatymo nustatyta tvarka.
-
-3. Sprendimas taikyti poveikio priemones gali būti priimtas, jeigu praėjo ne daugiau kaip 2 metai nuo pažeidimo padarymo dienos, o jeigu tęstinis ar trunkamasis pažeidimas, – nuo paskutinių tęstinio pažeidimo veiksmų atlikimo dienos ar trunkamojo pažeidimo paaiškėjimo dienos.
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 43 straipsnis. Valdymo įmonės atskyrimas nuo depozitoriumo
 
@@ -432,45 +416,61 @@ Nr. XIII-90, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29282
 
 58 straipsnis. Priežiūros institucijos teisės nagrinėjant pensijų kaupimo veiklą reglamentuojančių teisės aktų pažeidimus
 
-1. Priežiūros institucija, siekdama nustatyti, kaip laikomasi šio įstatymo ir jo pagrindu priimtų teisės aktų, turi teisę organizuoti ir atlikti patikrinimus.
+1. Priežiūros institucija organizuoja ir atlieka patikrinimus, kad nustatytų, ar laikomasi šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai.
 
-2. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Finansinių priemonių rinkų įstatymo 81 straipsnio 2 dalyje nustatytas teises. Šioms teisėms įgyvendinti priežiūros institucija gali pasitelkti policijos pareigūnų.
+2. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme, Finansinių priemonių rinkų įstatyme ir šiame įstatyme nustatytas teises.
 
-3. Priežiūros institucija, turėdama pagrindą įtarti, kad valdymo įmonės, depozitoriumo ar kitų asmenų atliekami veiksmai pažeidžia šio įstatymo ar jo pagrindu priimtų priežiūros institucijos teisės aktų nuostatas, ir siekdama išvengti esminės žalos ar nepataisomų padarinių pensijų kaupimo dalyviams, turi teisę įpareigoti nutraukti tokią veiklą, iki bus atliktas tyrimas ir priimtas priežiūros institucijos sprendimas dėl įtariamo pažeidimo. Priežiūros institucijos sprendimas įpareigoti nutraukti veiklą gali būti priimtas tik gavus Vilniaus apygardos administracinio teismo leidimą.
+3. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, pažeidimus arba valdymo įmonės veiklos trūkumus, taip pat jeigu kyla grėsmė valdymo įmonės veiklos stabilumui ir patikimumui arba visuomenės, investuotojų ir (arba) pensijų kaupimo dalyvių interesams, Lietuvos banko įstatymo nustatyta tvarka valdymo įmonei duoda šiuos privalomus nurodymus:
 
-4. Priežiūros institucijos sprendimas įpareigoti nutraukti veiklą gali būti skundžiamas Vilniaus apygardos administraciniam teismui per vieną mėnesį nuo sprendimo priėmimo dienos. Skundo padavimas sprendimo vykdymo nesustabdo.
+1) apriboti teisę pensijų fondo sąskaita sudaryti sandorius dėl finansinių priemonių įsigijimo;
+
+2) per priežiūros institucijos nustatytą terminą pašalinti teisės aktų pažeidimus arba veiklos trūkumus;
+
+3) atkurti iki teisės aktų pažeidimo buvusią padėtį;
+
+4) nutraukti Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei jo teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą;
+
+5) įpareigoti valdymo įmonę teises ir pareigas, atsirandančias iš pensijų kaupimo sutarčių, perduoti kitai valdymo įmonei;
+
+6) priežiūros institucijai pateikti papildomą informaciją arba teikti dažniau, negu nustatyta teisės aktuose, informaciją, reikalingą priežiūros funkcijoms atlikti;
+
+7) viešai atskleisti papildomą informaciją;
+
+8) atlikti kitus veiksmus arba neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai ar veiklos trūkumai.
+
+4. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus, valdymo įmonės veiklos trūkumus, taip pat jei kyla grėsmė valdymo įmonės veiklos stabilumui ir patikimumui arba visuomenės, investuotojų ir (arba) pensijų kaupimo dalyvių interesams, turi teisę prašyti teismo nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja Vilniaus apygardos administracinis teismas.
 
 5. Jeigu priežiūros institucija nustato teisės aktų, reglamentuojančių riziką ribojančius reikalavimus, pažeidimus arba jeigu valdymo įmonės veikla kelia grėsmę įmonės veiklos stabilumui ir patikimumui, priežiūros institucija turi teisę valdymo įmonei nustatyti individualius veiklos riziką ribojančių normatyvų dydžius ar papildomus reikalavimus dėl veiklos rizikos ribojimo.
 
-6. Priežiūros institucija turi teisę iš valstybės ir savivaldybių institucijų ir įstaigų, kitų asmenų gauti duomenis (tarp jų ir asmens duomenis), dokumentus arba jų nuorašus, reikalingus valdymo įmonių veiklos priežiūrai.
+6. Valdymo įmonės privalo vykdyti šio straipsnio 3 ir 5 dalyse nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai.
 
-59 straipsnis. Piniginės baudos už šio įstatymo pažeidimą
+Straipsnio pakeitimai:
 
-1. Priežiūros institucija, vadovaudamasi Finansinių priemonių rinkų įstatyme nustatyta tvarka, turi teisę skirti baudas:
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
-1) juridiniams asmenims, veikiantiems kaip valdymo įmonės, bet neturintiems šiame įstatyme nustatytos licencijos, – iki 57 924 eurų;
+59 straipsnis. Baudos
 
-2) juridiniams asmenims, pažeidusiems pensijų fondo turto investavimo tvarką, – iki 86 886 eurų;
+1. Priežiūros institucija skiria baudas:
 
-3) juridiniams asmenims, pažeidusiems šio įstatymo ketvirtajame skirsnyje nustatytus reikalavimus, – iki 57 924 eurų;
+1) juridiniams asmenims - iki 10 procentų bendrųjų metinių pajamų;
 
-4) juridiniams asmenims, nevykdantiems arba netinkamai vykdantiems šio įstatymo 6 straipsnyje nustatytas pareigas, – iki 57 924 eurų;
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims - iki 50 000 eurų.
 
-5) juridiniams asmenims, kurie sudaro pensijų kaupimo sutartis neturėdami patvirtintų pensijų fondo taisyklių, – iki 28 962 eurų;
+2. Už Reglamento (ES) Nr. 1286/2014 pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, kaip nurodyta Reglamento (ES) Nr. 1286/2014 24 straipsnyje.
 
-6) juridiniams asmenims, pažeidusiems teisės aktų reikalavimus, nustatytus paslaugų siūlymui ir reklamai, – iki 28 962 eurų;
+3. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose.
 
-7) juridiniams asmenims, nevykdantiems priežiūros institucijos nurodymų, neteikiantiems priežiūros institucijai šiame ir kituose įstatymuose nurodytos informacijos arba trukdantiems priežiūros institucijai ar jos įgaliotiems asmenims atlikti tyrimus ar patikrinimus, – iki 28 962 eurų;
+4. Jeigu dėl šio įstatymo 582 straipsnio 1 dalyje išvardytų pažeidimų padarymo buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1, 2 arba 5 dalyje nurodytų baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
 
-8) juridiniams asmenims, pažeidusiems kitus šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytus reikalavimus, – iki 28 962 eurų.
+5. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba kai juridinio asmens bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, priežiūros institucija vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos juridiniam asmeniui skiria iki 100 000 eurų baudą.
 
-Straipsnio dalies pakeitimai:
+6. Šio įstatymo 582 straipsnio 1 dalies 6 punkte nurodytais atvejais priežiūros institucija skiria baudą iki vieno procento bendrųjų metinių pajamų arba iki 1 500 eurų už kiekvieną privalomo nurodymo nevykdymo arba netinkamo vykdymo dieną.
 
-Nr. XII-1113, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13422
+7. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka.
 
-2. Jeigu dėl šio straipsnio 1 dalies 1–6 punktuose išvardytų pažeidimų padarymo buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis viršijo minėtuose punktuose nurodytų baudų dydžius, priežiūros institucija turi teisę skirti baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
+Straipsnio pakeitimai:
 
-3. Šio straipsnio 1 dalyje nustatytų sankcijų taikymas juridiniams asmenims neatleidžia jų vadovų ar darbuotojų nuo įstatymų nustatytos civilinės, administracinės ir baudžiamosios atsakomybės, taip pat neužkerta kelio priežiūros institucijai svarstyti klausimą dėl jos išduotų licencijų galiojimo sustabdymo ar panaikinimo.
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 1 straipsnis. Įstatymo paskirtis ir taikymo sritis
 
@@ -481,6 +481,12 @@ Nr. XII-1113, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13422
 3. Šis įstatymas nereglamentuoja draudimo veiklos pagrindu atsirandančių su pensiniu gyventojų aprūpinimu susijusių santykių, išskyrus šio įstatymo 37 straipsnyje nustatytus santykius.
 
 4. Valdymo įmonėms Lietuvos Respublikos akcinių bendrovių įstatymo (toliau – Akcinių bendrovių įstatymas) ir Lietuvos Respublikos įmonių bankroto įstatymo nuostatos taikomos tiek, kiek šis įstatymas nenustato kitaip.
+
+5. Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 48 straipsnis. Draudimas įgyti esminį poveikį vertybinius popierius ar pinigų rinkos priemones išleidžiančiam asmeniui
 
@@ -506,33 +512,11 @@ Nr. XII-1113, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13422
 
 2. Priežiūros institucija turi teisę panaikinti ar sustabdyti valdymo įmonei išduotos licencijos galiojimą Kolektyvinio investavimo subjektų įstatyme nustatytais atvejais ir tvarka, taip pat jeigu šio įstatymo nustatyta tvarka pritaikoma tokia poveikio priemonė.
 
-15 straipsnis. Valdymo įmonėms taikomos poveikio priemonės
+15 straipsnis. Neteko galios nuo 2018-06-15
 
-1. Priežiūros institucija turi teisę taikyti valdymo įmonėms šias poveikio priemones:
+Straipsnio naikinimas:
 
-1) įspėti dėl veiklos trūkumų bei pažeidimų ir nustatyti jų pašalinimo terminus;
-
-2) skirti šiame įstatyme nustatytas baudas;
-
-3) apriboti teisę pensijų fondo sąskaita sudaryti sandorius dėl finansinių priemonių įsigijimo;
-
-4) paskirti laikinąjį priežiūros institucijos atstovą veiklai prižiūrėti;
-
-5) įpareigoti pakeisti valdymo įmonės vadovą;
-
-6) įpareigoti valdymo įmonę teises ir pareigas, atsirandančias iš pensijų kaupimo sutarčių, perduoti kitai valdymo įmonei;
-
-7) sustabdyti licencijos teikti vieną, kelias ar visas paslaugas galiojimą tol, kol egzistuoja pagrindas licencijai sustabdyti; išnykus licencijos sustabdymo pagrindui, priežiūros institucija nedelsdama, bet ne vėliau kaip per 5 darbo dienas nuo tada, kai įsitikino, kad pagrindas išnyko, atnaujina licencijos teikti vieną, kelias ar visas paslaugas galiojimą;
-
-8) panaikinti licencijos teikti vieną, kelias ar visas paslaugas galiojimą.
-
-2. Neteko galios nuo 2017-01-01.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-2455, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17722
-
-3. Priežiūros institucija turi teisę taikyti depozitoriumui šio straipsnio 1 dalies 1 ir 2 punktuose nurodytas poveikio priemones.
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 22 straipsnis. Pensijų fondo investavimo strategija
 
@@ -568,9 +552,17 @@ Pensijų turtas privalo būti saugomas viename depozitoriume.
 
 3) išleistos ar garantuotos subjekto, kurio veiklos rizika yra prižiūrima pagal Europos Sąjungos teisės reikalavimus ar tokius reikalavimus, kurie yra ne mažiau griežti už nustatytus Europos Sąjungoje, arba
 
-4) išleistos priežiūros institucijos patvirtintus kriterijus atitinkančios įmonės, kurios kapitalas ir rezervai sudaro mažiausiai 10 000 000 eurų, kuri rengia konsoliduotąsias finansines ataskaitas ir atlieka įmonių grupės finansavimo funkciją, kai bent vienos iš jos grupei priklausančių įmonių perleidžiamieji vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje, ar kuri naudojama banko paskolomis finansuojamiems vertybiniams popieriams išleisti, o investicijos į tokias pinigų rinkos priemones apsaugotos ne mažiau, kaip nurodyta šios dalies 1, 2, 3 punktuose.
+4) išleistos priežiūros institucijos patvirtintus kriterijus atitinkančios įmonės, kurios kapitalas ir rezervai sudaro mažiausiai 10 000 000 eurų ir kuri rengia ir skelbia konsoliduotąsias finansines ataskaitas ir atlieka įmonių grupės finansavimo funkciją, kai bent vienos iš jos grupei priklausančių įmonių perleidžiamieji vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje, ar kuri naudojama banko paskolomis finansuojamiems vertybiniams popieriams išleisti, o investicijos į tokias pinigų rinkos priemones apsaugotos ne mažiau, kaip nurodyta šios dalies 1, 2 ir 3 punktuose.
 
-3. Pensijų turtas negali būti investuotas į tauriuosius metalus arba į suteikiančius į juos teises perleidžiamuosius vertybinius popierius ir nekilnojamąjį turtą.
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
+
+3. Pensijų turtas negali būti investuotas į tauriuosius metalus arba į suteikiančius į juos teises vertybinius popierius ir nekilnojamąjį turtą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 4. Pensijų turtas gali būti investuotas į išvestines finansines priemones tik rizikai valdyti. Valdymo įmonė išvestines finansines priemones turi teisę naudoti tik tuo atveju, kai pensijų fondo taisyklėse yra nurodyta, kokiomis išvestinėmis finansinėmis priemonėmis ir kokiais tikslais valdymo įmonė ketina naudotis. Kiekviena išvestinė finansinė priemonė turi būti pagrįsta konkrečiu investiciniu sandoriu (investicine pozicija). Toks sandoris ir jo rizikos valdymui naudojama išvestinė finansinė priemonė turi būti nurodyti valdymo įmonės periodinėse ataskaitose.
 
@@ -618,7 +610,13 @@ Pensijų turtas privalo būti saugomas viename depozitoriume.
 
 9) turėti tokią organizacinę struktūrą, kad būtų išvengta interesų konfliktų tarp valdymo įmonės ir dalyvių, dalyvių tarpusavio interesų konflikto;
 
-10) užtikrinti, kad sprendimus dėl turto valdymo priimantys asmenys turėtų priežiūros institucijos nustatytą kvalifikaciją ir darbo patirtį, būtų nepriekaištingos reputacijos;
+10) užtikrinti, kad sprendimus dėl turto valdymo priimantys asmenys turėtų tinkamą kvalifikaciją, darbo patirtį ir būtų nepriekaištingos reputacijos. Sprendimus priimančių asmenų kvalifikacija ir darbo patirtis vertinama atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir darbo patirčiai;
+
+TAR pastaba. Jeigu valdymo įmonė, rengdama pagrindinės informacijos investuotojams dokumentą, vietoj Reglamento (ES) Nr. 1286/2014 nustatytų reikalavimų pasirenka vadovautis Lietuvos Respublikos kolektyvinio investavimo įstatyme ir jo įgyvendinamuosiuose teisės aktuose pagrindinės informacijos investuotojams dokumento rengimui ir teikimui nustatytais reikalavimais, 6 straipsnio 1 dalies 10 punkte  nustatytas reikalavimas ir kiti Reglamente (ES) Nr. 1286/2014 nustatyti reikalavimai joms taikomi nuo 2020 m. sausio 1 d. Tokiu atveju valdymo įmonė iki 2019 m. gruodžio 31 d. privalo vadovautis Lietuvos Respublikos kolektyvinio investavimo įstatyme ir Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio 2, 3 ir 4 punktuose nustatytais reikalavimais dėl priemonių, leidžiančių jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo (Nr. XIII-1237) ir kitų kolektyvinio investavimo subjektų veiklą reglamentuojančių teisės aktų pažeidimą. Valdymo įmonė apie tokį savo pasirinkimą informuoja priežiūros instituciją nedelsdama po šio įstatymo (Nr. XIII-1237) įsigaliojimo (2018-06-15).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 11) laikytis įstatymuose ir priežiūros institucijos nustatytų kapitalo, riziką ribojančių ir kitų reikalavimų veiklai;
 
@@ -1036,10 +1034,6 @@ Nr. XII-1113, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13422
 
 2. Slapta informacija gali būti atskleista tik pačiam dalyviui, jo įgaliotam asmeniui ir valstybės institucijoms, kurioms ji reikalinga funkcijoms atlikti ir kurių veiklą reglamentuojantys įstatymai numato teisę tokią informaciją gauti.
 
-KETVIRTASIS SKIRSNIS
-
-DepozitoriumaS
-
 44 straipsnis. Depozitoriumo pakeitimas
 
 1. Valdymo įmonė depozitoriumą gali pakeisti tik tuo atveju, jeigu priežiūros institucija išdavė leidimą.
@@ -1068,7 +1062,11 @@ INVESTAVIMO TAISYKLĖS
 
 8. Šio straipsnio 5 ir 6 dalyse numatyti perleidžiamieji vertybiniai popieriai ir pinigų rinkos priemonės nėra įskaitomi skaičiuojant investicijas, kurioms pagal šio straipsnio 2 dalį taikoma maksimali leistina 40 procentų riba. Šio straipsnio 1–7 dalyse numatytos ribos negali būti sudedamos, todėl investicijų į vieno asmens išleistus perleidžiamuosius vertybinius popierius, pinigų rinkos priemones, indėlius suma negali būti didesnė kaip 35 procentai pensijų turtą sudarančių grynųjų aktyvų.
 
-9. Į įmonių, priklausančių grupei, kuri turi sudaryti konsoliduotąsias finansines ataskaitas, finansines priemones ir indėlius gali būti investuota ne daugiau kaip 20 procentų grynųjų aktyvų.
+9. Į įmonių, priklausančių grupei, kuri turi sudaryti konsoliduotąsias finansines ataskaitas, išleistus perleidžiamuosius vertybinius popierius ir pinigų rinkos priemones gali būti investuota ne daugiau kaip 20 procentų grynųjų aktyvų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 10. Rizikos kapitalo rinkose per šio įstatymo 45 straipsnio 6 dalyje numatytus subjektus gali būti investuota ne daugiau kaip 30 procentų pensijų fondo grynųjų aktyvų. Subjektai, per kuriuos pensijų turtas investuojamas į rizikos kapitalo rinkas ir kurie nėra laikomi kolektyvinio investavimo subjektais, laikytini emitentais finansinių priemonių portfelio diversifikavimui taikomų reikalavimų prasme.
 
@@ -1176,15 +1174,31 @@ SEPTINTASIS SKIRSNIS
 
 VALDYMO ĮMONIŲ IR DEPOZITORIUMŲ VEIKLOS VALSTYBINĖ PRIEŽIŪRA
 
-60 straipsnis. Priežiūros institucijos sprendimų vykdymo tvarka
+60 straipsnis. Neteko galios nuo 2018-06-15
 
-1. Piniginės baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kurią asmuo gavo priežiūros institucijos sprendimą skirti baudą.
+Straipsnio naikinimas:
 
-2. Savanoriškai neįvykdytas priežiūros institucijos sprendimas vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+
+Lietuvos Respublikos
+
+papildomo savanoriško
+
+pensijų kaupimo įstatymo
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+1. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1).
+
+Papildyta priedu:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 Pakeitimai:
 
@@ -1319,4 +1333,122 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-90, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29282
 
 Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 41, 43 ir 55 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
+
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 1, 2, 6, 8, 45, 47, 56, 57, 58, 59 straipsnių pakeitimo, Įstatymo papildymo 6-1, 39-1, 57-1, 58-1, 58-2, 58-3 straipsniais ir priedu ir 15, 16, 17, 60 straipsnių pripažinimo netekusiais galios įstatymas
+
+61 straipsnis. Pranešimas apie pažeidimus valdymo įmonėje
+
+Valdymo įmonė turi užtikrinti, kad būtų įdiegtos priemonės, leidžiančios jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo, Reglamento (ES) Nr. 1286/2014 ir kitų pensijų kaupimo veiklą reglamentuojančių teisės aktų pažeidimą. Šioms priemonėms įdiegti valdymo įmonė gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio 2, 3 ir 4 punktuose nustatyti reikalavimai.
+
+Papildyta straipsniu:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
+
+391 straipsnis. Skundų nagrinėjimas
+
+1. Valdymo įmonė privalo priežiūros institucijos nustatyta tvarka nagrinėti pensijų fondų dalyvių skundus (prašymus), susijusius su dalyvavimu pensijų kaupimo veikloje (toliau – skundai).
+
+2. Valdymo įmonė privalo išnagrinėti rašytinį pensijų fondo dalyvio skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė pensijų fondo dalyvis ir valdymo įmonė. Išskirtiniais atvejais, kai dėl priežasčių, kurių valdymo įmonė negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio pensijų fondo dalyvis gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Valdymo įmonė pensijų fondo dalyvio skundus nagrinėja neatlygintinai.
+
+Papildyta straipsniu:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
+
+KETVIRTASIS SKIRSNIS
+
+DepozitoriumaS
+
+571 straipsnis. Priežiūros tikslu gautos informacijos apsauga
+
+Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugoti taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos.
+
+Papildyta straipsniu:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
+
+581 straipsnis. Poveikio priemonės
+
+1. Priežiūros institucija taiko asmenims šias poveikio priemones:
+
+1) viešai paskelbia šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimą ir jį padariusį asmenį;
+
+2) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo ir nurodo per nustatytą terminą nutraukti teisės akto pažeidimą;
+
+3) skiria šiame įstatyme nustatytas pinigines baudas;
+
+4) laikinai, kol yra pagrindas, sustabdo (apriboja) valdymo įmonės akcininko balsavimo teisę;
+
+5) paskiria laikinąjį priežiūros institucijos atstovą veiklai prižiūrėti;
+
+6) įpareigoja pakeisti valdymo įmonės vadovą ir (arba) sprendimus dėl turto valdymo priimantį asmenį;
+
+7) sustabdo licencijos teikti vieną, kelias arba visas paslaugas galiojimą, kol yra pagrindas sustabdyti licenciją; išnykus licencijos sustabdymo pagrindui, priežiūros institucija nedelsdama, bet ne vėliau kaip per 5 darbo dienas nuo tada, kai įsitikino, kad pagrindas išnyko, atnaujina licencijos teikti vieną, kelias arba visas paslaugas galiojimą;
+
+8) panaikina licencijos teikti vieną, kelias arba visas paslaugas galiojimą.
+
+2. Priežiūros institucija turi teisę taikyti depozitoriumui šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytas poveikio priemones.
+
+Papildyta straipsniu:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
+
+582 straipsnis. Poveikio priemonių taikymo pagrindai ir tvarka
+
+1. Poveikio priemonės taikomos, kai yra bent vienas iš šių pagrindų:
+
+1) verčiamasi pensijų kaupimo veikla, jeigu neturima tam šio įstatymo nustatyta tvarka suteiktos teisės ar ši teisė apribota pagal šį įstatymą, arba atliekami kiti veiksmai ar veikla, kuriuos draudžia šis įstatymas;
+
+2) šio įstatymo nustatyta licencija arba leidimas gautas pateikus priežiūros institucijai klaidingą informaciją arba pasinaudojus kitomis neteisėtomis priemonėmis;
+
+3) nustatytais terminais nepateikiama šio įstatymo, kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neišsami, neteisinga arba netiksli informacija;
+
+4) nebetenkinamos sąlygos, kuriomis remiantis buvo išduota licencija;
+
+5) valdymo įmonė nesugeba įvykdyti savo įsipareigojimų dalyviams arba yra duomenų, kad nesugebės to padaryti ateityje;
+
+6) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 58 straipsnį duoti privalomi nurodymai;
+
+7) pažeidžiami Reglamente (ES) Nr. 1286/2014 nustatyti reikalavimai;
+
+8) valdymo įmonės vadovais paskiriami arba vadovų pareigas eina vienas ar keli asmenys, neatitinkantys Kolektyvinio investavimo subjektų įstatyme nustatytų reputacijos, kvalifikacijos ir darbo patirties reikalavimų;
+
+9) trukdoma priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus;
+
+10) padaromi kiti šio įstatymo arba kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai.
+
+2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas.
+
+Papildyta straipsniu:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
+
+583 straipsnis. Laikinasis atstovas veiklos priežiūrai
+
+1. Neatidėliotinais atvejais, kai yra duomenų apie grėsmę saugiai ir patikimai valdymo įmonės veiklai, siekdama išvengti pensijų turto nuvertėjimo arba kitokio jo netekimo, priežiūros institucija turi teisę paskirti savo laikinąjį atstovą valdymo įmonės veiklai prižiūrėti (toliau – atstovas veiklos priežiūrai).
+
+2. Atstovu veiklos priežiūrai gali būti paskirtas juridinis ar fizinis asmuo. Atstovu veiklos priežiūrai skiriamam fiziniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi Kolektyvinio investavimo subjektų įstatymo 9 straipsnio 4 dalyje nustatyti nepriekaištingos reputacijos, kvalifikacijos ir darbo patirties reikalavimai. Jeigu atstovu veiklos priežiūrai skiriamas fizinis asmuo, gali būti paskirtas atstovo veiklos priežiūrai padėjėjas. Atlyginimus atstovui veiklos priežiūrai ir jo padėjėjui, atsižvelgdama į jų veiklos mastą, kvalifikaciją, veiklos terminus, nustato priežiūros institucija. Atlyginimai išmokami iš valdymo įmonės lėšų. Atstovu veiklos priežiūrai ir jo padėjėju negali būti paskirtas priežiūros institucijos darbuotojas.
+
+3. Valdymo įmonės vadovai turi gauti atstovo veiklos priežiūrai sutikimą dėl kiekvieno su valdymo įmonės veikla susijusio sprendimo. Visi be atstovo veiklos priežiūrai sutikimo valdymo įmonės ar investicinės bendrovės sprendimai, priimti po sprendimo paskirti atstovą veiklos priežiūrai įsigaliojimo dienos, yra negaliojantys.
+
+4. Atstovas veiklos priežiūrai nesutinka su valdymo įmonės vadovų sprendimais, jeigu jie, jo nuomone, prieštarauja saugią ir patikimą valdymo įmonės ar investicinės bendrovės veiklą reglamentuojantiems teisės aktams ar dėl kitų priežasčių kelia grėsmę valdymo įmonės veiklos stabilumui ir patikimumui. Atstovui veiklos priežiūrai, atliekančiam savo funkcijas, mutatis mutandis taikomos Lietuvos banko įstatymo 421 straipsnio 5 dalies 1, 3, 11 ir 12 punktų nuostatos. Atstovas veiklos priežiūrai privalo teikti priežiūros institucijai jos nustatytą informaciją.
+
+5. Apie priimtą sprendimą paskirti atstovą veiklos priežiūrai ar jį atšaukti ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos pranešama valdymo įmonei ar investicinei bendrovei ir Juridinių asmenų registrui, taip pat paskelbiama priežiūros institucijos interneto svetainėje.
+
+6. Atstovas veiklos priežiūrai atšaukiamas, kai:
+
+1) nustatoma, kad valdymo įmonė gali stabiliai ir patikimai veikti;
+
+2) valdymo įmonei iškeliama bankroto byla;
+
+3) panaikinamas valdymo įmonės licencijos galiojimas.
+
+Papildyta straipsniu:
+
+Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
