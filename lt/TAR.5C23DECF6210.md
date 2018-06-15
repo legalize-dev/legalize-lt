@@ -4,7 +4,7 @@ identifier: "TAR.5C23DECF6210"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-22"
-last_updated: "2016-12-30"
+last_updated: "2018-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5C23DECF6210"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2016-12-30 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2019-01-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 86-2045, i. k. 0961010ISTA00I-1508
 
@@ -52,7 +52,11 @@ Vilnius
 
 5. Grynasis skolinių įsipareigojimų pokytis – per tam tikrą laikotarpį Vyriausybės valstybės vardu skolinantis prisiimtų ir įvykdytų įsipareigojimų sumų skirtumas.
 
-6. Išvestinės finansinės priemonės – Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies 4–10 punktuose nurodytos finansinės priemonės.
+6. Išvestinės finansinės priemonės – Finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies 4–10 punktuose nurodytos finansinės priemonės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1255, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09923
 
 7. Kiti įsipareigojamieji skolos dokumentai – dokumentai, kuriais patvirtinamas skolinantis prisiimtas įsipareigojimas (neapimantis įsipareigojimų, prisiimamų išplatinant Vyriausybės vertybinius popierius, pasirašant paskolų sutartis, finansinės nuomos (lizingo) sutartis, suteikiant valstybės garantijas) grąžinti dokumentuose nurodytą pinigų sumą šiuose dokumentuose sutartomis (nustatytomis) sąlygomis (komerciniai popieriai, paprastieji ir įsakomieji vekseliai, depozitų sertifikatai ir pan.).
 
@@ -609,4 +613,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-181, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29869
 
 Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 4, 8 ir 12 straipsnių pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1255, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09923
+
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2 straipsnio pakeitimo įstatymas
 
