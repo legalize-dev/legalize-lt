@@ -4,7 +4,7 @@ identifier: "TAR.103565D95E60"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-07-04"
-last_updated: "2018-05-21"
+last_updated: "2018-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.103565D95E60"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos profesinių pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2018-05-21 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2019-01-12
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3248, i. k. 1061010ISTA000X-745
 
@@ -137,6 +137,12 @@ Nr. XIII-985, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00960
 
 33. Perleidžiamieji vertybiniai popieriai – kaip ši sąvoka apibrėžta Papildomo savanoriško pensijų kaupimo įstatyme.
 
+34. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Papildomo savanoriško pensijų kaupimo įstatyme, Kolektyvinio investavimo subjektų įstatyme, Pensijų kaupimo įstatyme, Pensijų sistemos reformos įstatyme.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1240, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09851
+
 Straipsnio pakeitimai:
 
 Nr. XI-1887, 2011-12-22, Žin., 2011, Nr. 163-7776 (2011-12-31)
@@ -211,7 +217,11 @@ Nr. XI-2125, 2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
 
 5 straipsnis. Pensijų asociacijų sąrašas
 
-1. Pensijų asociacijų sąrašą tvarko priežiūros institucija. Duomenis apie pensijų asociacijas, kurios yra įtrauktos į Pensijų asociacijų sąrašą ar iš šio sąrašo išbrauktos, priežiūros institucija skelbia leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“.
+1. Pensijų asociacijų sąrašą tvarko priežiūros institucija. Duomenis apie pensijų asociacijas, kurios yra įtrauktos į Pensijų asociacijų sąrašą ar iš šio sąrašo išbrauktos, priežiūros institucija skelbia savo interneto svetainėje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1240, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09851
 
 2. Pensijų asociacijų sąraše kaupiami šie duomenys:
 
@@ -319,7 +329,17 @@ Nr. XI-2125, 2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
 
 8) atliktų operacijų dokumentus saugoti ne trumpiau kaip 10 metų nuo jų įvykdymo dienos, jeigu kituose teisės aktuose nenustatytas ilgesnis terminas;
 
-9) užtikrinti, kad sprendimus priimantys asmenys būtų nepriekaištingos reputacijos, turėtų priežiūros institucijos nustatytą kvalifikaciją ir darbo patirtį.
+9) užtikrinti, kad sprendimus priimantys asmenys būtų nepriekaištingos reputacijos, turėtų tinkamą kvalifikaciją ir darbo patirtį. Sprendimus priimančių asmenų kvalifikacija ir darbo patirtis vertinama atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir darbo patirčiai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1240, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09851
+
+10) Papildomo savanoriško pensijų kaupimo įstatymo nustatyta tvarka nagrinėti pensijų fondo dalyvių skundus.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1240, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09851
 
 9 straipsnis. Pensijų asociacijos bankroto proceso ypatumai
 
@@ -1109,49 +1129,27 @@ PENSIJŲ ASOCIACIJŲ VEIKLOS PRIEŽIŪRA
 
 1. Lietuvos Respublikos teritorijoje įsteigtų pensijų asociacijų ir pensijų fondo valdytojų veiklą prižiūri ir už šio įstatymo 57 straipsnyje numatytą tarpvalstybinę veiklą yra atsakinga priežiūros institucija.
 
-2. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi šiuo įstatymu, Finansinių priemonių rinkų įstatymu ir turi šio bei kitų įstatymų nustatytas teises ir pareigas.
+2. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi Lietuvos Respublikos Lietuvos banko įstatymu, šiuo įstatymu ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai.
 
-3. Priežiūros institucijos veiksmai ar neveikimas skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+3. Priežiūros institucija atlieka šias funkcijas:
 
-4. Priežiūros institucija atlieka šias funkcijas:
+1) įtraukia pensijų asociacijas į Pensijų asociacijų sąrašą ir išbraukia jas iš šio sąrašo;
 
-1) rengia, tvirtina, keičia ir pripažįsta netekusiais galios šiame įstatyme numatytus teisės aktus;
+2) išduoda šiame įstatyme nustatytus leidimus (pritarimus), juos atšaukia ar panaikina jų galiojimą;
 
-2) teikia oficialius išaiškinimus ir rekomendacijas pensijų asociacijų veiklos klausimais;
+3) stebi, analizuoja, tikrina ir kitaip prižiūri pensijų asociacijų veiklą;
 
-3) įtraukia pensijų asociacijas į Pensijų asociacijų sąrašą ir išbraukia jas iš šio sąrašo;
+4) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas.
 
-4) stebi, analizuoja, tikrina ir kitaip prižiūri pensijų asociacijų veiklą;
+4. Be kitų Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatytų pareigų ir teisių, priežiūros institucija, atlikdama pensijų asociacijų veiklos priežiūrą, turi teisę:
 
-5) duoda privalomus nurodymus dėl teisės aktų pažeidimų šalinimo, taiko šiame ir kituose įstatymuose nustatytas poveikio priemones;
+1) prižiūrėti pensijų asociacijos ir kitų asmenų tarpusavio ryšius, kai tam tikros pensijų asociacijos funkcijos yra perduotos šiems asmenims, jeigu tai turi įtakos pensijų asociacijos finansinei būklei arba iš esmės yra susiję su veiksminga priežiūra;
 
-6) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas.
+2) periodiškai gauti iš pensijų asociacijos ir pensijų fondo valdytojo informaciją apie pensijų fondo investavimo politikos principus, metinę finansinę ataskaitą ir metines veiklos ataskaitas bei visus kitus priežiūrai būtinus dokumentus ir ataskaitas.
 
-5. Priežiūros institucija, atstovaudama pensijų asociacijos narių interesams, turi teisę kreiptis į teismą dėl viešojo intereso gynimo.
+5. Priežiūros institucija, atlikdama šio įstatymo 57 straipsnyje nustatytas funkcijas ir teikdama informaciją apie Lietuvos Respublikoje galiojančius socialinės apsaugos ir darbo teisės aktus, taikomus profesinių pensijų srityje, bendradarbiauja su Lietuvos Respublikos socialinės apsaugos ir darbo ministerija. Socialinės apsaugos ir darbo ministerija teikia informaciją apie socialinės apsaugos ir darbo teisės reikalavimus, kurių laikymasis yra privalomas kitose valstybėse narėse veikiantiems analogiškiems subjektams, priimantiems įmokas iš Lietuvos Respublikoje esančių finansuojančių subjektų, ir apie tai praneša priežiūros institucijai. Socialinės apsaugos ir darbo ministerija taip pat turi informuoti priežiūros instituciją apie visus reikšmingus socialinės apsaugos ir darbo teisės nuostatų pasikeitimus profesinių pensijų srityje.
 
-6. Priežiūros institucija, atlikdama pensijų asociacijų veiklos priežiūrą, turi šias teises:
-
-1) iš visų fizinių ar juridinių asmenų gauti informaciją ir paaiškinimus, reikalingus priežiūros funkcijoms atlikti;
-
-2) iš pensijų asociacijos, asmenų, įgaliotų veikti pensijų asociacijos vardu ar sąskaita, gauti bet kurią informaciją visais pensijų asociacijos veiklos klausimais;
-
-3) prižiūrėti pensijų asociacijos ir kitų asmenų tarpusavio ryšius, kai tam tikros pensijų asociacijos funkcijos yra perduotos šiems asmenims, jeigu tai turi įtakos pensijų asociacijos finansinei būklei arba iš esmės yra susiję su veiksminga priežiūra;
-
-4) periodiškai gauti iš pensijų asociacijos ir pensijų fondo valdytojo informaciją apie pensijų fondo investavimo politikos principus, metinę finansinę ataskaitą ir metines veiklos ataskaitas bei visus kitus priežiūrai būtinus dokumentus ir ataskaitas;
-
-5) atlikti patikrinimus vietoje pensijų asociacijos patalpose, taip pat perduotų funkcijų patikrinimus vietoje, siekdama nustatyti, ar veikla vykdoma laikantis teisės aktų reikalavimų;
-
-6) savo funkcijoms atlikti pasitelkti kompetentingus asmenis ir suteikti jiems reikiamus įgaliojimus;
-
-7) už pensijų asociacijos valdymą atsakingiems asmenims taikyti poveikio priemones, tarp jų finansinio pobūdžio priemones, kurios yra tinkamos ir būtinos užkertant kelią pažeidimams, kenkiantiems dalyvių ir išmokų gavėjų interesams, arba jau atsiradusiems pažeidimams ištaisyti.
-
-Straipsnio punkto pakeitimai:
-
-Nr. XII-2448, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17716
-
-7. Priežiūros institucija, atlikdama šio įstatymo 57 straipsnyje nustatytas funkcijas ir teikdama informaciją apie Lietuvos Respublikoje galiojančius socialinės apsaugos ir darbo teisės aktus, taikomus profesinių pensijų srityje, bendradarbiauja su Lietuvos Respublikos socialinės apsaugos ir darbo ministerija (toliau – Socialinės apsaugos ir darbo ministerija). Socialinės apsaugos ir darbo ministerija teikia informaciją apie socialinės apsaugos ir darbo teisės reikalavimus, kurių laikymasis yra privalomas kitose valstybėse narėse veikiantiems analogiškiems subjektams, priimantiems įmokas iš Lietuvos Respublikoje esančių finansuojančių subjektų, ir apie tai praneša priežiūros institucijai. Socialinės apsaugos ir darbo ministerija taip pat turi informuoti priežiūros instituciją apie visus reikšmingus socialinės apsaugos ir darbo teisės nuostatų pasikeitimus profesinių pensijų srityje.
-
-8. Priežiūros institucija, vykdydama šiame įstatyme nustatytas funkcijas, pagal Reglamentą (ES) Nr. 1094/2010 bendradarbiauja su Europos draudimo ir profesinių pensijų institucija ir teikia jai visą jos užduotims vykdyti būtiną informaciją.
+6. Priežiūros institucija, vykdydama šiame įstatyme nustatytas funkcijas, pagal Reglamentą (ES) Nr. 1094/2010 bendradarbiauja su Europos draudimo ir profesinių pensijų institucija ir teikia jai visą jos užduotims vykdyti būtiną informaciją.
 
 Straipsnio pakeitimai:
 
@@ -1159,93 +1157,107 @@ Nr. XI-1887, 2011-12-22, Žin., 2011, Nr. 163-7776 (2011-12-31)
 
 Nr. XI-2125, 2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
 
-53 straipsnis. Priežiūros institucijos teisė atlikti patikrinimus
+Straipsnio pakeitimai:
 
-1. Priežiūros institucija, siekdama nustatyti, kaip pensijų asociacijos ir kiti asmenys laikosi šio įstatymo ir jo pagrindu priimtų teisės aktų, turi teisę organizuoti ir atlikti patikrinimus.
+Nr. XIII-1240, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09851
 
-2. Atlikdami patikrinimą priežiūros institucijos tarnautojai turi teisę:
+53 straipsnis. Priežiūros institucijos teisės nagrinėjant pensijų asociacijų veiklą reglamentuojančių teisės aktų pažeidimus
 
-1) gauti žodžiu ar raštu asmenų, susijusių su tiriamais pažeidimais, paaiškinimus, reikalauti, kad šie asmenys atvyktų duoti paaiškinimų į patikrinimą atliekančio darbuotojo tarnybines patalpas;
+1. Priežiūros institucija, siekdama nustatyti, kaip pensijų asociacijos ir kiti asmenys laikosi šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, organizuoja ir atlieka patikrinimus.
 
-2) pateikę tarnybinį pažymėjimą ir priežiūros institucijos ar jos įgalioto tarnautojo motyvuotą sprendimą atlikti patikrinimą (reviziją), laisvai įeiti į pensijų asociacijos, pensijų fondo valdytojo, pensijų turto saugotojo, kitų juridinių asmenų, susijusių su galimais pažeidimais, patalpas, tikrinti dokumentus, apskaitos registrus ir kitus patikrinimui reikalingus informacijos šaltinius ir pagal tikrinimo medžiagą iš ekspertizės įstaigų gauti išvadas;
+2. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme ir šiame įstatyme nustatytas teises.
 
-3) reikalauti padaryti apskaitos dokumentų, sutarčių, įsakymų ir kitų dokumentų, kuriuos priežiūros institucija laiko svarbiais tyrimui, kopijas;
+3. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimus arba pensijų asociacijos veiklos trūkumus, taip pat jei kyla grėsmė pensijų asociacijos veiklos stabilumui ir patikimumui arba visuomenės, pensijų fondo dalyvių ir (arba) išmokų gavėjų interesams, Lietuvos banko įstatymo nustatyta tvarka pensijų asociacijai duoda šiuos privalomus nurodymus:
 
-4) laikinai paimti tikrinamų pensijų asociacijų, pensijų fondo valdytojų, pensijų turto saugotojų dokumentus, kurie gali būti panaudojami kaip pažeidimo įrodymai, palikdami motyvuotą sprendimą dėl dokumentų paėmimo ir paimtų dokumentų apyrašą;
+1) per priežiūros institucijos nustatytą terminą pašalinti teisės aktų pažeidimus arba veiklos trūkumus;
 
-5) pateikę priežiūros institucijos motyvuotą sprendimą, gauti iš banko įstaigų duomenis, pažymas ir finansinių operacijų, susijusių su tikrinamu objektu, dokumentų kopijas.
+2) atkurti prieš pažeidžiant teisės aktus buvusią padėtį;
 
-3. Šio straipsnio 2 dalyje nustatytoms teisėms įgyvendinti priežiūros institucija turi teisę pasitelkti policijos pareigūnus.
+3) priežiūros institucijai pateikti papildomą informaciją arba teikti dažniau, negu nustatyta teisės aktuose, informaciją, reikalingą priežiūros funkcijoms atlikti;
+
+4) viešai atskleisti papildomą informaciją;
+
+5) atlikti kitus veiksmus arba neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai arba veiklos trūkumai.
+
+4. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus arba pensijų asociacijos veiklos trūkumus, taip pat jei kyla grėsmė pensijų asociacijos veiklos stabilumui ir patikimumui arba visuomenės, pensijų fondo dalyvių ir (arba) išmokų gavėjų interesams, mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421 straipsnyje nustatyta tvarka, taikoma teismo leidimams, turi teisę prašyti teismo nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja Vilniaus apygardos administracinis teismas.
+
+5. Pensijų asociacija privalo vykdyti šio straipsnio 3 dalyje nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdama, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai.
 
 Straipsnio pakeitimai:
 
 Nr. XI-2125, 2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
 
-54 straipsnis. Pensijų asociacijoms taikomos poveikio priemonės
+Straipsnio pakeitimai:
 
-Priežiūros institucija turi teisę pensijų asociacijoms taikyti šias poveikio priemones:
+Nr. XIII-1240, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09851
 
-1) įspėti dėl veiklos trūkumų bei pažeidimų ir nustatyti jų pašalinimo terminus;
+54 straipsnis. Poveikio priemonės
 
-2) Neteko galios nuo 2017-01-01.
+Priežiūros institucija taiko šias poveikio priemones:
 
-Straipsnio punkto pakeitimai:
+1) viešai paskelbia šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimą ir jį padariusį asmenį;
 
-Nr. XII-2448, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17716
+2) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo ir nurodo per nustatytą terminą nutraukti teisės akto pažeidimą;
 
-3) skirti šio įstatymo numatytas pinigines baudas;
+3) skiria šio įstatymo numatytas pinigines baudas;
 
-4) apriboti pensijų asociacijos veiklą;
+4) apriboja pensijų asociacijos veiklą;
 
-5) uždrausti pensijų asociacijos veiklą ir išbraukti ją iš Pensijų asociacijų sąrašo;
+5) uždraudžia pensijų asociacijos veiklą ir išbraukia ją iš Pensijų asociacijų sąrašo;
 
-6) apriboti ar uždrausti disponavimą pensijų turtu;
+6) apriboja ar uždraudžia disponavimą pensijų turtu;
 
-7) įpareigoti pakeisti pensijų fondo valdytoją ir (ar) pensijų turto saugotoją;
+7) įpareigoja pakeisti pensijų fondo valdytoją ir (ar) pensijų turto saugotoją;
 
-8) siekdama apsaugoti pensijų fondų dalyvių ir išmokų gavėjų interesus, apriboti pensijų asociaciją valdančių asmenų visus arba dalį įgaliojimų, kuriuos jie turi pagal šį įstatymą, pavesti šiuos įgaliojimus vykdyti turinčiam teisę specialiam atstovui.
+8) siekdama apsaugoti pensijų fondų dalyvių ir išmokų gavėjų interesus, apriboja pensijų asociaciją valdančių asmenų visus arba dalį įgaliojimų, kuriuos jie turi pagal šį įstatymą, paveda šiuos įgaliojimus vykdyti turinčiam teisę specialiam atstovui.
 
 Straipsnio pakeitimai:
 
 Nr. XI-2125, 2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
 
-55 straipsnis. Poveikio priemonių taikymo pagrindas
+Straipsnio pakeitimai:
 
-1. Šiame įstatyme nustatytos poveikio priemonės gali būti taikomos, kai yra bent vienas iš šių pagrindų:
+Nr. XIII-1240, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09851
 
-1) pensijų asociacija priežiūros institucijai pateikė neteisingą informaciją;
+55 straipsnis. Poveikio priemonių taikymo pagrindai ir tvarka
 
-2) priežiūros institucijai nepateikta priežiūrai atlikti būtina informacija ar dokumentai;
+1. Poveikio priemonės taikomos, kai yra bent vienas iš šių pagrindų:
 
-3) nebetenkinamos sąlygos, kuriomis remiantis buvo suteiktas leidimas veikti;
+1) verčiamasi profesinių pensijų kaupimo veikla, jei nėra tam šio įstatymo nustatyta tvarka suteiktos teisės ar ši teisė apribota pagal šį įstatymą, arba atliekami kiti veiksmai ar veikla, kuriuos draudžia šis įstatymas;
 
-4) pažeisti Lietuvos Respublikos įstatymai ar kiti teisės aktai;
+2) šiame įstatyme nurodytas leidimas (pritarimas) gautas pateikus priežiūros institucijai klaidingą informaciją arba pasinaudojus kitomis neteisėtomis priemonėmis;
 
-5) pensijų asociacija nesugeba tinkamai apsaugoti pensijų fondų dalyvių ir išmokų gavėjų interesų;
+3) nustatytais terminais nepateikiama šio įstatymo, kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neišsami, neteisinga arba netiksli informacija;
 
-6) nesilaikoma pensijų asociacijos veiklos sąlygų;
+4) nebetenkinamos sąlygos, kuriomis remiantis buvo suteiktas leidimas veikti;
 
-7) pensijų asociacija šiurkščiai pažeidžia savo pareigas;
+5) padaromi kiti šio įstatymo ar kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai;
 
-8) tarpvalstybinės veiklos atveju, kai pensijų asociacija nesilaiko priimančiosios valstybės narės socialinės apsaugos ir darbo teisės reikalavimų, taikomų profesinių pensijų srityje;
+6) pensijų asociacija nesugeba tinkamai apsaugoti pensijų fondų dalyvių ir išmokų gavėjų interesų;
 
-9) pažeisti Reglamente (EB) Nr. 1060/2009 nustatyti reikalavimai.
+7) nesilaikoma pensijų asociacijos veiklos sąlygų;
 
-Papildyta straipsnio punktu:
+8) pensijų asociacija šiurkščiai pažeidžia savo pareigas;
 
-Nr. XII-1469, 2014-12-18, paskelbta TAR 2014-12-30, i. k. 2014-21096
+9) tarpvalstybinės veiklos atveju, kai pensijų asociacija nesilaiko priimančiosios valstybės narės socialinės apsaugos ir darbo teisės reikalavimų, taikomų profesinių pensijų srityje;
 
-2. Poveikio priemonė parenkama atsižvelgiant į pažeidimo, kurio pagrindu ji taikoma, turinį ir pažeidimo bei poveikio priemonės taikymo padarinius pensijų asociacijai, dalyvių bei išmokų gavėjų interesams ir finansų sistemos saugumui. Poveikio priemonių taikymo klausimas svarstomas iš anksto apie tai pranešus pensijų asociacijai ir sudarius jai galimybes pasiaiškinti. pensijų asociacijos atstovo neatvykimas į klausimo svarstymą ar paaiškinimų nepateikimas nėra kliūtis priimti sprendimą taikyti poveikio priemones.
+10) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 53 straipsnį duoti privalomi nurodymai;
 
-3. Bet kuris sprendimas taikyti poveikio priemones pagrindžiamas aiškiais motyvais ir apie jį pranešama pensijų asociacijai.
+11) pažeisti Reglamente (EB) Nr. 1060/2009 nustatyti reikalavimai;
 
-4. Sprendimas taikyti poveikio priemones gali būti priimtas, jeigu nuo pažeidimo įvykdymo dienos yra praėję ne daugiau kaip 2 metai, o kai yra tęstinis pažeidimas, – ne daugiau kaip 2 metai nuo pažeidimo paaiškėjimo dienos.
+12) trukdoma priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus.
 
-5. Jeigu pritaikoma poveikio priemonė uždrausti pensijų asociacijos veiklą ir išbraukti ją iš Pensijų asociacijų sąrašo, priežiūros institucija apie tai informuoja Europos draudimo ir profesinių pensijų instituciją.
+2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas. Poveikio priemonė parenkama atsižvelgiant į pažeidimo, kurio pagrindu ji taikoma, turinį ir pažeidimo bei poveikio priemonės taikymo padarinius pensijų asociacijai, dalyvių bei išmokų gavėjų interesams, finansų sistemos saugumui bei kitus Lietuvos banko įstatyme nustatytus kriterijus.
+
+3. Jeigu pritaikoma poveikio priemonė uždrausti pensijų asociacijos veiklą ir išbraukti ją iš Pensijų asociacijų sąrašo, priežiūros institucija apie tai informuoja Europos draudimo ir profesinių pensijų instituciją.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1887, 2011-12-22, Žin., 2011, Nr. 163-7776 (2011-12-31)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1240, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09851
 
 57 straipsnis. Tarpvalstybinė veikla
 
@@ -1287,47 +1299,31 @@ Straipsnio pakeitimai:
 
 Nr. XI-1887, 2011-12-22, Žin., 2011, Nr. 163-7776 (2011-12-31)
 
-56 straipsnis. Piniginės baudos
+56 straipsnis. Baudos
 
-Pakeistas straipsnio pavadinimas:
+1. Priežiūros institucija skiria baudas:
 
-Nr. XII-1469, 2014-12-18, paskelbta TAR 2014-12-30, i. k. 2014-21096
+1) juridiniams asmenims - iki 10 procentų bendrųjų metinių pajamų;
 
-1. Priežiūros institucija, vadovaudamasi Finansinių priemonių rinkų įstatymo 94 straipsnyje nustatyta tvarka, turi teisę skirti baudas:
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims - iki 50 000 eurų.
 
-1) juridiniams asmenims, neįtrauktiems į Pensijų asociacijų sąrašą ar iš jo išbrauktiems, jeigu jie vykdo veiklą kaip pensijų asociacijos, – iki 28 962 eurų;
+2. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose.
 
-2) juridiniams asmenims, jeigu jie vykdo veiklą kaip pensijų fondo valdytojai be priežiūros institucijos leidimo, – iki 28 962 eurų;
+3. Jeigu dėl šio įstatymo 55 straipsnio 1 dalyje išvardytų pažeidimų padarymo buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių arba padaryta žalos ir šių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 arba 4 dalyje nurodytų baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
 
-3) juridiniams asmenims, nesilaikantiems Reglamente (EB) Nr. 1060/2009 nustatytų reikalavimų, – iki 57 924 eurų;
+4. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba kai juridinio asmens bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, priežiūros institucija vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos skiria juridiniam asmeniui iki 100 000 eurų baudą.
 
-Papildyta straipsnio punktu:
+5. Šio įstatymo 55 straipsnio 1 dalies 10 punkte nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki vieno procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų.
 
-Nr. XII-1469, 2014-12-18, paskelbta TAR 2014-12-30, i. k. 2014-21096
-
-4) fiziniams asmenims (valdymo organų nariams, likvidatoriui, aktuarui, auditoriui), pažeidusiems šį įstatymą, – iki 5 792 eurų;
-
-Straipsnio punkto numeracijos pakeitimas:
-
-Nr. XII-1469, 2014-12-18, paskelbta TAR 2014-12-30, i. k. 2014-21096
-
-5) asmenims, kurie nevykdo teisėtų priežiūros institucijos nurodymų, – iki 8 688 eurų.
-
-Straipsnio punkto numeracijos pakeitimas:
-
-Nr. XII-1469, 2014-12-18, paskelbta TAR 2014-12-30, i. k. 2014-21096
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1206, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14118
-
-2. Piniginės baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kurią asmuo gavo priežiūros institucijos sprendimą skirti baudą.
-
-3. Savanoriškai neįvykdytas priežiūros institucijos sprendimas vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+6. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
 Nr. XI-2125, 2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1240, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09851
 
 DVYLIKTASIS SKIRSNIS
 
@@ -1578,4 +1574,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-985, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00960
 
 Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 2, 18, 30 straipsnių ir priedo pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1240, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09851
+
+Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 2, 5, 7, 52, 53, 54, 55, 56 straipsnių pakeitimo ir Įstatymo papildymo 52-1 straipsniu įstatymas
+
+521 straipsnis. Priežiūros tikslu gautos informacijos apsauga
+
+Informacijos, kurią priežiūros institucija gauna priežiūros tikslu, apsaugai taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos.
+
+Papildyta straipsniu:
+
+Nr. XIII-1240, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09851
 
