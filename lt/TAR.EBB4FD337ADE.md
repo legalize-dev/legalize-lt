@@ -4,7 +4,7 @@ identifier: "TAR.EBB4FD337ADE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-07-22"
-last_updated: "2016-01-01"
+last_updated: "2018-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EBB4FD337ADE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS FINANSINIO TVARUMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2016-01-01 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2019-04-03
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 93-3985, i. k. 1091010ISTA00XI-393
 
@@ -46,7 +46,11 @@ BENDROSIOS NUOSTATOS
 
 2) Centrinei kredito unijai;
 
-3) Lietuvos Respublikoje įsteigtoms finansų maklerio įmonėms, kurioms taikomas Lietuvos Respublikos finansinių priemonių rinkų įstatymo 121 straipsnio 2 dalyje nustatytas reikalavimas;
+3) Lietuvos Respublikoje įsteigtoms finansų maklerio įmonėms, kurioms taikomas Lietuvos Respublikos finansinių priemonių rinkų įstatymo 14 straipsnio 2 dalyje nustatytas reikalavimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 4) Lietuvos Respublikoje įsteigtoms finansų kontroliuojančiosioms bendrovėms, mišrios veiklos finansų kontroliuojančiosioms bendrovėms ir mišrios veiklos kontroliuojančiosioms bendrovėms;
 
@@ -64,7 +68,11 @@ BENDROSIOS NUOSTATOS
 
 1. Akcininkai – akcininkai, kaip tai apibrėžta Lietuvos Respublikos vertybinių popierių įstatyme, arba kitų nuosavybės priemonių savininkai.
 
-2. Ankstyvosios intervencijos priemonės – Lietuvos Respublikos bankų įstatymo 67 straipsnio 3 dalyje, Lietuvos Respublikos centrinės kredito unijos įstatymo 53 straipsnio 3 dalyje, Finansinių priemonių rinkų įstatymo 81 straipsnio 10 dalyje nurodyti priežiūros institucijos veiksmai.
+2. Ankstyvosios intervencijos priemonės – Lietuvos Respublikos bankų įstatymo 67 straipsnio 4 dalyje, Lietuvos Respublikos centrinių kredito unijų įstatymo 49 straipsnio 5 dalyje, Finansinių priemonių rinkų įstatymo 102 straipsnio 7 dalyje nurodyti priežiūros institucijos veiksmai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 3. Europos Sąjungos patronuojančioji įmonė (toliau – ES patronuojančioji įmonė) – Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 29, 31 arba 33 punkte nurodytas subjektas.
 
@@ -114,7 +122,7 @@ SUPAPRASTINTI REIKALAVIMAI
 
 3 straipsnis. Supaprastinti reikalavimai tam tikroms įstaigoms
 
-1. Priežiūros ir pertvarkymo institucijos vertina, ar įstaigos – banko, Centrinės kredito unijos ar finansų maklerio įmonės, kuriai taikomas Finansinių priemonių rinkų įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas (toliau bet kuris iš jų atskirai ar visi kartu – įstaiga), – žlugimas ar bankrotas sukeltų (nesukeltų) sunkių pasekmių finansų rinkoms, kitoms įstaigoms, finansavimo sąlygoms ir ekonomikai, atsižvelgdamos į įstaigos:
+1. Priežiūros ir pertvarkymo institucijos vertina, ar įstaigos – banko, centrinės kredito unijos ar finansų maklerio įmonės, kuriai taikomas Finansinių priemonių rinkų įstatymo 14 straipsnio 2 dalyje nurodytas reikalavimas (toliau bet kuris iš jų atskirai ar visi kartu – įstaiga), – žlugimas ar bankrotas sukeltų (nesukeltų) sunkių pasekmių finansų rinkoms, kitoms įstaigoms, finansavimo sąlygoms ir ekonomikai, atsižvelgdamos į įstaigos:
 
 1) veiklos pobūdį;
 
@@ -133,6 +141,10 @@ SUPAPRASTINTI REIKALAVIMAI
 8) teikiamas investicines paslaugas ar vykdomą investicinę veiklą;
 
 9) priklausymą institucinei užtikrinimo sistemai, atitinkančiai Reglamento (ES) Nr. 575/2013 113 straipsnio 7 dalyje nustatytus reikalavimus (toliau – institucinė užtikrinimo sistema), ar kitai analogiškai sistemai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 2. Priežiūros ir pertvarkymo institucijos, įvertinusios, kad įstaigos žlugimas ar bankrotas nesukeltų sunkių pasekmių finansų rinkoms, kitoms įstaigoms, finansavimo sąlygoms ir ekonomikai, turi teisę tokiai įstaigai nustatyti supaprastintus reikalavimus dėl:
 
@@ -200,7 +212,11 @@ TAR pastaba. 4 straipsnyje nurodytos įstaigos gaivinimo planus turi parengti ir
 
 3) įvertintos priemonės, kurias reikėtų įgyvendinti susidarius nepalankioms makroekonominėms sąlygoms ir finansiškai nepalankiems scenarijams, įskaitant finansų sistemos masto įvykius ir susidariusias nepalankias sąlygas atskiriems juridiniams asmenims, kitoms organizacijoms ar jų padaliniams (toliau kartu – juridiniai asmenys) ir jų grupėms;
 
-4) nurodyta, kokias priemones ir kokiu būdu įstaiga ketina įgyvendinti, kai bus tenkinamos Bankų įstatymo 67 straipsnio 3 dalyje, Centrinės kredito unijos įstatymo 53 straipsnio 3 dalyje arba Finansinių priemonių rinkų įstatymo 81 straipsnio 10 dalyje nurodytos sąlygos (toliau – ankstyvosios intervencijos sąlygos).
+4) nurodyta, kokias priemones ir kokiu būdu įstaiga ketina įgyvendinti, kai bus tenkinamos Bankų įstatymo 67 straipsnio 4 dalyje, Centrinių kredito unijų įstatymo 49 straipsnio 5 dalyje arba Finansinių priemonių rinkų įstatymo 102 straipsnio 7 dalyje nurodytos sąlygos (toliau – ankstyvosios intervencijos sąlygos).
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 3. Gaivinimo plane neturi būti numatoma galimybė pasinaudoti valstybės pagalba, kaip ji apibrėžta Sutarties dėl Europos Sąjungos veikimo 107 straipsnio 1 dalyje, arba bet kokia kita aukštesnio negu valstybinio lygmens viešąja finansine parama, kuri, jeigu būtų teikiama nacionaliniu lygmeniu, būtų laikoma valstybės pagalba (toliau kartu – valstybės pagalba).
 
@@ -254,7 +270,11 @@ TAR pastaba. 4 straipsnyje nurodytos įstaigos gaivinimo planus turi parengti ir
 
 6) vykdyti kituose teisės aktuose, reglamentuojančiuose finansų rinką, nustatytus privalomus nurodymus.
 
-8. Šio straipsnio 7 dalyje nurodytas priežiūros institucijos sprendimas dėl konkrečių privalomų vykdyti nurodymų davimo turi būti pagrįstas ir proporcingas, įvertinus nustatytų trūkumų sunkumą ir pasirinktų privalomų vykdyti nurodymų įtaką įstaigos veiklai.
+8. Šio straipsnio 7 dalyje nustatytų privalomų nurodymų taikymo tvarką nustato Lietuvos banko įstatymas. Šio straipsnio 7 dalyje nurodytas priežiūros institucijos sprendimas dėl konkrečių privalomų vykdyti nurodymų davimo turi būti pagrįstas ir proporcingas, įvertinus nustatytų trūkumų sunkumą ir pasirinktų privalomų vykdyti nurodymų įtaką įstaigos veiklai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 9. Priežiūros institucija, vertindama gaivinimo planą, taip pat turi vadovautis taikytinais ES teisės aktais.
 
@@ -2128,7 +2148,11 @@ PROCEDŪRINĖS PAREIGOS IR INFORMACIJOS APSAUGA
 
 1. Paaiškėjus bent vienai šio įstatymo 42 straipsnio 3 dalyje nurodytai aplinkybei, įstaigos arba šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodyto subjekto vadovas nedelsdamas privalo apie tai pranešti priežiūros institucijai.
 
-2. Priežiūros institucija, gavusi šio straipsnio 1 dalyje nurodytą pranešimą, privalo apie tai pranešti pertvarkymo institucijai ir nurodyti, kokių krizių prevencijos priemonių buvo pareikalauta imtis arba kokie Bankų įstatymo 67 straipsnyje, Finansinių priemonių rinkų įstatymo 81 straipsnyje ar Centrinės kredito unijos įstatymo 53 straipsnyje nurodyti privalomi nurodymai buvo duoti įstaigai ar šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodytam subjektui.
+2. Priežiūros institucija, gavusi šio straipsnio 1 dalyje nurodytą pranešimą, privalo apie tai pranešti pertvarkymo institucijai ir nurodyti, kokių krizių prevencijos priemonių buvo pareikalauta imtis arba kokie Bankų įstatymo 67 straipsnyje, Finansinių priemonių rinkų įstatymo 102 straipsnyje ar Centrinių kredito unijų įstatymo 49 straipsnyje nurodyti privalomi nurodymai buvo duoti įstaigai ar šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodytam subjektui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 3. Pertvarkymo institucija, gavusi šio straipsnio 2 dalyje nurodytą pranešimą, kad įstaiga arba šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodytas subjektas atitinka šio įstatymo 42 straipsnio 2 dalies 1 ir 2 punktuose nustatytas sąlygas, arba savo iniciatyva nustačiusi, kad minėta įstaiga atitinka šio įstatymo 42 straipsnio 2 dalies 1 ir 2 punktuose nustatytas sąlygas, nedelsdama apie tai turi pranešti šioms institucijoms, jeigu jos nesutampa:
 
@@ -2262,7 +2286,11 @@ PROCEDŪRINĖS PAREIGOS IR INFORMACIJOS APSAUGA
 
 7. Šio straipsnio 6 dalyje nurodytu atveju tretieji asmenys gali tik reikalauti, kad pertvarkymo institucija, priėmusi neteisėtu pripažintą sprendimą, atlygintų patirtus nuostolius, atsiradusius dėl tokio sprendimo priėmimo.
 
-8. Priežiūros institucijos veiksmų ar neveikimo apskundimui mutatis mutandis taikomos Bankų įstatymo 68 straipsnio nuostatos.
+8. Priežiūros institucijos veiksmų ar neveikimo apskundimui mutatis mutandis taikomos Lietuvos banko įstatymo 435 straipsnio nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 102 straipsnis. Bankroto bylos iškėlimas
 
@@ -2610,23 +2638,17 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 5. Tirdamos šio įstatymo pažeidimus ir taikydamos poveikio priemones, priežiūros ir pertvarkymo institucijos glaudžiai bendradarbiauja tarpusavyje.
 
-117 straipsnis. Teisė reikalauti pateikti informaciją ir teisė atlikti tyrimus
+117 straipsnis. Teisė reikalauti pateikti informaciją ir teisė atlikti patikrinimus
 
 1. Priežiūros ir pertvarkymo institucijos turi teisę reikalauti, kad įstaigos ir šio įstatymo 1 straipsnio 2 dalies 4 ir 5 punktuose nurodyti subjektai joms teiktų visą informaciją, reikalingą šio įstatymo pažeidimams tirti.
 
 2. Šio straipsnio 1 dalyje nurodyti asmenys privalo teikti priežiūros ir pertvarkymo institucijų reikalaujamą informaciją net ir tuo atveju, jeigu tokia informacija sudaro banko, komercinę paslaptį arba yra konfidenciali dėl kitų priežasčių.
 
-3. Priežiūros ir pertvarkymo institucijos turi teisę atlikti šio įstatymo pažeidimams tirti reikalingus su šio straipsnio 1 dalyje nurodytais asmenimis susijusius tyrimus, įskaitant teisę:
+3. Priežiūros ir pertvarkymo institucijos turi teisę atlikti šio įstatymo pažeidimams tirti reikalingus su šio straipsnio 1 dalyje nurodytais asmenimis susijusius patikrinimus. Patikrinimų atlikimą reglamentuoja Lietuvos banko įstatymas.
 
-1) reikalauti pateikti dokumentus;
+Straipsnio pakeitimai:
 
-2) tikrinti šio straipsnio 1 dalyje nurodytų asmenų buhalterinės apskaitos registrus, dokumentus, kompiuteriuose ir kitose laikmenose esančią informaciją, kitus patikrinimui reikalingus informacijos šaltinius, gauti jų kopijas arba išrašus;
-
-3) gauti bet kurio šio straipsnio 1 dalyje nurodyto asmens arba jų atstovų ar darbuotojų paaiškinimus raštu arba žodžiu;
-
-4) apklausti visus kitus šios dalies 3 punkte nenurodytus asmenis, kurie sutinka būti apklausti, siekiant gauti su tyrimo dalyku susijusios informacijos;
-
-5) laisvai įeiti į šio straipsnio 1 dalyje nurodytų asmenų patalpas darbo metu ir ten naudotis šios dalies 1, 2, 3 ir 4 punktuose nustatytomis teisėmis.
+Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 118 straipsnis. Poveikio priemonės, jų taikymo pagrindai ir tvarka
 
@@ -2650,67 +2672,47 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 4) nepateikiama šio įstatymo 15 straipsnio 1 dalies 2 punkte nurodyta informacija, būtina pertvarkymo planui parengti ir atnaujinti;
 
-5) pažeidžiamos kitos šio įstatymo ar jo įgyvendinamojo teisės akto nuostatos.
+5) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 7 straipsnio 7 dalį duoti privalomi nurodymai;
 
-3. Prieš spręsdamos poveikio priemonių taikymo klausimą, priežiūros ir pertvarkymo institucijos nustato ne trumpesnį kaip 14 dienų terminą, skaičiuojamą nuo pranešimo išsiuntimo dienos, paaiškinimams pateikti ir apie tai raštu praneša asmeniui, kuriam ketinama taikyti poveikio priemonę, ir pateikia jam informaciją apie galimai pažeistas teisės akto nuostatas, nustatytus faktinius duomenis, kurie sudaro poveikio priemonės taikymo pagrindus. Paaiškinimų per nurodytą laiką nepateikimas netrukdo spręsti klausimo dėl poveikio priemonės taikymo.
+6) pažeidžiamos kitos šio įstatymo ar jo įgyvendinamojo teisės akto nuostatos.
 
-4. Apie poveikio priemonės taikymo klausimo svarstymo vietą, datą ir laiką pranešama raštu asmeniui, kuriam ketinama taikyti poveikio priemonę, ne vėliau kaip likus 10 darbo dienų iki poveikio priemonės taikymo klausimo svarstymo dienos. Asmuo, kuriam ketinama taikyti poveikio priemonę, jo atstovai turi teisę dalyvauti priežiūros ir pertvarkymo institucijoms nagrinėjant šį klausimą, tačiau asmens, kuriam ketinama taikyti poveikio priemonę, ar jo atstovo neatvykimas netrukdo svarstyti poveikio priemonės taikymo klausimo, jeigu asmeniui apie svarstymą buvo tinkamai pranešta ir jis nepateikė įrodymų, kad negali atvykti dėl svarbių priežasčių.
+3. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas.
 
-5. Neatidėliotinais atvejais, kai reikia reaguoti operatyviai dėl būtinybės apsaugoti finansų sistemos stabilumą ar kitus viešuosius interesus, priežiūros ir pertvarkymo institucijos turi teisę spręsti klausimą dėl poveikio priemonės taikymo, neatsižvelgdamos į šio straipsnio 3 ir 4 dalių nuostatas. Asmuo, kuriam, neatsižvelgiant į šio straipsnio 3 ir 4 dalių nuostatas, pritaikyta poveikio priemonė, turi teisę per 14 dienų nuo sprendimo dėl poveikio priemonės gavimo dienos raštu pateikti argumentuotus paaiškinimus, kad nebuvo pagrindo taikyti poveikio priemonės. Priežiūros institucija ir pertvarkymo institucija per 30 dienų nuo paaiškinimų gavimo dienos priima sprendimą dėl paskirtos poveikio priemonės atšaukimo (neatšaukimo).
+4. Priežiūros ar pertvarkymo institucija informaciją apie pritaikytas poveikio priemones, apie dėl pritaikytų poveikio priemonių pateiktus skundus ir jų nagrinėjimo rezultatus pateikia Europos bankininkystės institucijai.
 
-6. Asmuo turi teisę susipažinti su priežiūros ir pertvarkymo institucijų turima medžiaga, kuria grindžiamas poveikio priemonės taikymas (išskyrus informaciją, kuri sudaro valstybės, tarnybos, komercinę arba kitą įstatymų saugomą paslaptį), duoti paaiškinimus, pateikti įrodymus, turėti atstovą. Jeigu svarstant poveikio priemonės taikymo klausimą apklausiami liudytojai, asmuo, kuriam taikoma poveikio priemonė, turi teisę juos apklausti, taip pat siūlyti savo liudytojus.
+Straipsnio pakeitimai:
 
-7. Priežiūros ir pertvarkymo institucijos, priimdamos sprendimą dėl poveikio priemonės taikymo, parinkdamos konkrečią poveikio priemonę (priemones) ir jos (jų) dydį, atsižvelgia į:
-
-1) nustatytų pažeidimų sunkumą ir trukmę;
-
-2) dėl pažeidimų asmens gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydį, jeigu jį įmanoma nustatyti;
-
-3) asmens, kuriam taikoma poveikio priemonė, kaltę ir finansinį pajėgumą;
-
-4) asmens, kuriam taikoma poveikio priemonė, padarytus ankstesnius teisės aktų, reguliuojančių finansų rinką, pažeidimus ir jam taikytas poveikio priemones, taip pat bendradarbiavimą su priežiūros ar pertvarkymo institucija;
-
-5) atsakomybę lengvinančias aplinkybes, kaip jos apibrėžtos šio straipsnio 8 dalyje, ir šio straipsnio 9 dalyje nurodytas atsakomybę sunkinančias aplinkybes;
-
-6) nustatytų pažeidimų ir numatomos taikyti poveikio priemonės (priemonių) pasekmes finansų rinkos stabilumui ir patikimumui.
-
-8. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad įtariamas asmuo savo noru užkerta kelią neigiamoms pažeidimo pasekmėms, atlygina nuostolius ar ištaiso padarytą žalą. Priežiūros ir pertvarkymo institucijos gali nutarti atsakomybę lengvinančiomis aplinkybėmis laikyti ir kitas šioje dalyje nenurodytas aplinkybes.
-
-9. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad įtariamas asmuo pažeidimą padaro tyčia, nebendradarbiauja su priežiūros ar pertvarkymo institucija, kliudo atlikti tyrimą, slepia padarytą pažeidimą, tęsia pažeidimą nepaisydamas to, kad priežiūros ar pertvarkymo institucija buvo atkreipusi dėmesį į pažeidimus ar veiklos trūkumus, arba pakartotinai padaro tokį patį pažeidimą, už kurį jau buvo pritaikyta finansų rinką reglamentuojančiuose įstatymuose nustatyta poveikio priemonė.
-
-10. Priežiūros ir pertvarkymo institucijų sprendimas dėl poveikio priemonės (priemonių) taikymo turi būti motyvuotas. Priežiūros ir pertvarkymo institucijų sprendime turi būti nurodytas jo priėmimo teisinis pagrindas, pažeidimo faktinės aplinkybės, asmens, kuriam taikoma poveikio priemonė, paaiškinimai (jeigu jie pateikti) ir jų vertinimas.
-
-11. Priežiūros ar pertvarkymo institucija, atsižvelgdama į padaryto pažeidimo pobūdį, mastą, atsakomybę lengvinančias aplinkybes, dėl kurių šiame įstatyme numatyta ar paskirta poveikio priemonė asmeniui yra akivaizdžiai per didelė ir neproporcinga padarytam teisės pažeidimui ir dėl to neteisinga, ir vadovaudamasi teisingumo ir protingumo principais, turi teisę skirti švelnesnę poveikio priemonę, negu numatyta šiame straipsnyje, arba jos neskirti.
-
-12. Priežiūros ir pertvarkymo institucijų sprendimas taikyti asmeniui poveikio priemonę (priemones) įsigalioja kitą dieną nuo jo priėmimo dienos, jeigu sprendime nenustatyta kitaip.
-
-13. Poveikio priemonė, kuri taikoma laikinai, galioja iki priežiūros ir pertvarkymo institucijų sprendime dėl poveikio priemonės taikymo nurodyto termino, kuris gali būti nurodytas kaip konkreti data, laiko tarpas ar susietas su tam tikrų sąlygų atsiradimu (aplinkybių išnykimu), nebent priežiūros ar pertvarkymo institucija priima sprendimą ją atšaukti nepasibaigus nustatytam terminui.
-
-14. Priežiūros ar pertvarkymo institucija gali taikyti vieną ar kelias poveikio priemones. Poveikio priemonės pritaikymas neatleidžia asmens nuo pareigos, už kurios nevykdymą pritaikyta poveikio priemonė, atlikimo. Poveikio priemonės taikymas juridiniams asmenims neatleidžia jų vadovų ir darbuotojų nuo įstatymų nustatytos civilinės, administracinės ar baudžiamosios atsakomybės.
-
-15. Priežiūros ir pertvarkymo institucijų sprendimas dėl poveikio priemonių taikymo gali būti priimtas, jeigu praėjo ne daugiau kaip dveji metai nuo pažeidimo padarymo dienos, o jeigu pažeidimas yra tęstinis, – nuo paskutinių tęstinio pažeidimo veiksmų atlikimo dienos.
+Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 119 straipsnis. Baudos
 
-1. Priežiūros ir pertvarkymo institucijos turi teisę skirti:
+1. Priežiūros ir pertvarkymo institucijos skiria baudas:
 
-1) juridiniams asmenims – iki 10 procentų praėjusių metų bendrųjų metinių pajamų baudą;
+1) juridiniams asmenims – iki 10 procentų bendrųjų metinių pajamų;
 
-2) fiziniams asmenims – iki 5 000 000 eurų baudą.
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims – iki 5 milijonų eurų.
 
-2. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra metinės pajamos, nurodytos pagrindinės patronuojančiosios įmonės praėjusių metų konsoliduotųjų finansinių ataskaitų rinkinyje.
+2. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose.
 
-3. Jeigu dėl šio įstatymo 118 straipsnyje nurodytų pažeidimų buvo gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir jų dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 dalyje nurodytą baudos dydį, priežiūros ir pertvarkymo institucijos gali skirti baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
+3. Jeigu dėl šio įstatymo 118 straipsnyje nurodytų pažeidimų padarymo buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1, 4 arba 5 dalyje nurodytą baudos dydį, priežiūros ir pertvarkymo institucijos gali skirti baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
 
-4. Baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kurią asmuo gavo priežiūros ar pertvarkymo institucijos sprendimą skirti baudą. Jeigu bauda per nurodytus terminus, o sprendimą apskundus teismui – per 10 dienų nuo teismo sprendimo įsiteisėjimo dienos nesumokama, ji priežiūros ar pertvarkymo institucijos sprendimu išieškoma ne ginčo tvarka (be asmens nurodymo nurašyti lėšas) iš asmens, kuriam paskirta bauda, piniginių lėšų, esančių jo sąskaitose Lietuvos banke, kredito ar mokėjimo įstaigose arba, kai išieškojimo ne ginčo tvarka negalima atlikti, priežiūros ar pertvarkymo institucijos sprendimas vykdomas Civilinio proceso kodekso nustatyta tvarka.
+4. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų, priežiūros institucija turi teisę vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos skirti juridiniam asmeniui baudą iki 5 milijonų eurų.
 
-120 straipsnis. Informavimas apie pritaikytas poveikio priemones
+5. Kai juridinio asmens bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, priežiūros institucija vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos skiria juridiniam asmeniui iki 100 000 eurų baudą.
 
-1. Sprendimas taikyti poveikio priemonę ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos pateikiamas asmeniui, kuriam ši priemonė taikoma.
+6. Šio įstatymo 118 straipsnio 2 dalies 5 punkte nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki vieno procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų.
 
-2. Informacija apie pritaikytas poveikio priemones, įskaitant informaciją apie padaryto teisės akto pažeidimo esmę ir jį padariusio asmens tapatybę, skelbiama priežiūros ar pertvarkymo institucijos interneto svetainėje nedelsiant po to, kai apie sprendimą taikyti poveikio priemonę informuojamas asmuo, kuriam ji pritaikyta. Jeigu sprendimas taikyti poveikio priemonę yra apskundžiamas, priežiūros ar pertvarkymo institucijos interneto svetainėje taip pat pateikiama informacija apie dėl pritaikytų poveikio priemonių pateiktus skundus ir jų nagrinėjimo rezultatus. Jeigu informacijos apie pritaikytas poveikio priemones paskelbimas padarytų neigiamą įtaką finansų rinkos stabilumui, atliekamam ikiteisminiam tyrimui ar padarytų neproporcingos žalos fiziniams ar juridiniams asmenims, tokios informacijos skelbimas atidedamas arba ji skelbiama neatskleidžiant informacijos apie pažeidimą padariusį asmenį. Priežiūros ar pertvarkymo institucija užtikrina, kad paskelbta informacija būtų prieinama penkerius metus nuo jos paskelbimo dienos. Į paskelbtą informaciją įtraukti asmens duomenys priežiūros ar pertvarkymo institucijos oficialioje interneto svetainėje paliekami tik tokį laikotarpį, kuris būtinas pagal asmens duomenų apsaugos taisykles.
+7. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka.
 
-3. Priežiūros ar pertvarkymo institucija informaciją apie pritaikytas poveikio priemones, apie dėl pritaikytų poveikio priemonių pateiktus skundus ir jų nagrinėjimo rezultatus pateikia Europos bankininkystės institucijai.
+Straipsnio pakeitimai:
+
+Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
+
+120 straipsnis. Neteko galios nuo 2018-06-15
+
+Straipsnio naikinimas:
+
+Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 VII SKYRIUS
 
@@ -2857,4 +2859,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2053, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19163
 
 Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
+
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 1, 2, 3, 5, 7, 96, 101, 117, 118 ir 119 straipsnių pakeitimo ir 120 straipsnio pripažinimo netekusiu galios įstatymas
 
