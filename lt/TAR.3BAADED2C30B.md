@@ -4,7 +4,7 @@ identifier: "TAR.3BAADED2C30B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-20"
-last_updated: "2016-01-01"
+last_updated: "2018-06-15"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3BAADED2C30B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2019-01-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2635, i. k. 1021010ISTA00IX-975
 
@@ -849,7 +849,11 @@ INFORMAVIMAS APIE DRAUDIMĄ IR DRAUDIMO NUTRAUKIMAS
 
 33 straipsnis. Įmokos į Pertvarkymo fondą
 
-1. Pertvarkymo fonde ne vėliau kaip 2024 m. gruodžio 31 d. turi būti sukaupta suma, lygi daliai, kurią šio straipsnio 2 dalyje nurodyti subjektai turėtų sumokėti, jeigu reikėtų sukaupti sumą, lygią vienam procentui visų įstaigų – bankų, Centrinės kredito unijos ir finansų maklerio įmonių, kuriems taikomas Lietuvos Respublikos finansinių priemonių rinkų įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas (toliau šiame straipsnyje – įstaigos), licencijuotų Lietuvos Respublikoje, pagrindinių apdraustųjų indėlių, o įmokas mokėtų visos Lietuvos Respublikos licencijuotos įstaigos ir trečiosiose valstybėse licencijuotų įstaigų Lietuvos Respublikoje įsteigti filialai (toliau – Pertvarkymo fondo tikslinis lygis).
+1. Pertvarkymo fonde ne vėliau kaip 2024 m. gruodžio 31 d. turi būti sukaupta suma, lygi daliai, kurią šio straipsnio 2 dalyje nurodyti subjektai turėtų sumokėti, jeigu reikėtų sukaupti sumą, lygią vienam procentui visų įstaigų – bankų, centrinių kredito unijų ir finansų maklerio įmonių, kuriems taikomas Lietuvos Respublikos finansinių priemonių rinkų įstatymo 14 straipsnio 2 dalyje nurodytas reikalavimas (toliau šiame straipsnyje – įstaigos), licencijuotų Lietuvos Respublikoje, pagrindinių apdraustųjų indėlių, o įmokas mokėtų visos Lietuvos Respublikos licencijuotos įstaigos ir trečiosiose valstybėse licencijuotų įstaigų Lietuvos Respublikoje įsteigti filialai (toliau – Pertvarkymo fondo tikslinis lygis).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1254, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09922
 
 2. Pertvarkymo fondas finansuojamas Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalies 3 punkte nurodytų subjektų, kurie nepatenka į 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010 (OL 2014 L 225, p. 1), 2 straipsnyje nurodytą to reglamento taikymo apimtį, ir trečiose valstybėse licencijuotų kredito įstaigų ir finansų maklerio įmonių filialų, įsteigtų Lietuvos Respublikoje, lėšomis (toliau – Pertvarkymo fondo dalyviai). Kiti Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje išvardyti subjektai moka įmokas į Bendrą pertvarkymo fondą Reglamento (ES) Nr. 806/2014 ir jo įgyvendinamųjų teisės aktų nustatyta tvarka.
 
@@ -1344,4 +1348,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2054, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19164
 
 Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1254, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09922
+
+Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 33 straipsnio pakeitimo įstatymas
 
