@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2018-06-01"
+last_updated: "2018-06-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2018-06-01 iki 2018-06-28
+Suvestinė redakcija nuo 2018-06-29 iki 2018-06-30
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -773,6 +773,14 @@ Nr. XIII-1171, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08265
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 52 straipsnio pakeitimo įstatymas
 
+20.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT15-N10/2018, 2018-06-29, paskelbta TAR 2018-06-29, i. k. 2018-10929
+
+Dėl Lietuvos Respublikos mokslo ir studijų įstatymo 27 straipsnio 2 dalies 9 punkto, 38 straipsnio 1 dalies, 39 straipsnio 1 dalies atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Seimo 2018 m. sausio 12 d. nutarimo Nr. XIII-1021 „Dėl pritarimo Lietuvos sporto universiteto reorganizavimui prijungimo prie Lietuvos sveikatos mokslų universiteto būdu“ atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos mokslo ir studijų įstatymui
+
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
 1. Šio įstatymo 67 straipsnio 2 dalis ir 69 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d.
@@ -1427,6 +1435,12 @@ AUKŠTOSIOS MOKYKLOS VALDYMAS
 
 9) suderinusi su senatu (akademine taryba), tvirtina aukštosios mokyklos reorganizavimo arba likvidavimo planus ir teikia juos Seimui (Vyriausybei);
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos mokslo ir studijų įstatymo (2016 m. birželio 29 d. redakcija; TAR, 2016-07-14, Nr. 20555) 27 straipsnio 2 dalies 9 punktas tiek, kiek jame nustatyta, kad valstybinės aukštosios mokyklos taryba aukštosios mokyklos reorganizavimo arba likvidavimo planus teikia Seimui, prieštarauja Lietuvos Respublikos Konstitucijos 68 straipsniui, konstituciniam teisinės valstybės principui.
+
+Straipsnio punkto pakeitimai:
+
+Nr. KT15-N10/2018, 2018-06-29, paskelbta TAR 2018-06-29, i. k. 2018-10929
+
 10) rengia metinę savo veiklos ataskaitą ir ją skelbia viešai aukštosios mokyklos interneto svetainėje, taip pat kiekvienais metais iki balandžio 1 dienos ją pristato aukštosios mokyklos bendruomenei;
 
 11) atlieka kitas funkcijas, nustatytas aukštosios mokyklos statute ir kituose teisės aktuose.
@@ -1611,6 +1625,12 @@ MOKSLINIŲ TYRIMŲ INSTITUTO VALDYMAS
 
 1. Sprendimą dėl valstybinio universiteto reorganizavimo priima Seimas universiteto tarybos teikimu arba Vyriausybės teikimu, įvertinęs universiteto tarybos nuomonę. Sprendimą dėl valstybinės kolegijos reorganizavimo priima Vyriausybė kolegijos tarybos teikimu arba Švietimo ir mokslo ministerijos teikimu, įvertinusi kolegijos tarybos nuomonę.
 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos mokslo ir studijų įstatymo (2016 m. birželio 29 d. redakcija; TAR, 2016-07-14, Nr. 20555) 38 straipsnio 1 dalis tiek, kiek joje nustatyta, kad sprendimą dėl valstybinio universiteto reorganizavimo Seimas priima universiteto tarybos teikimu, prieštarauja Lietuvos Respublikos Konstitucijos 68 straipsniui, konstituciniam teisinės valstybės principui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT15-N10/2018, 2018-06-29, paskelbta TAR 2018-06-29, i. k. 2018-10929
+
 2. Reorganizuojant valstybinę aukštąją mokyklą skaidymo būdu, bent vienas iš juridinių asmenų, kuriems pereina reorganizuotos valstybinės aukštosios mokyklos teisės ir pareigos, turi būti valstybinė aukštoji mokykla, o kitų juridinių asmenų savininkė arba viena iš dalininkių – valstybė. Reorganizuojant valstybinę aukštąją mokyklą jungimo būdu, juridinis asmuo, kuriam pereina reorganizuotos valstybinės aukštosios mokyklos teisės ir pareigos, turi būti valstybinė aukštoji mokykla.
 
 3. Jeigu reorganizuojant aukštąją mokyklą padalijimo būdu įsteigiama nauja aukštoji mokykla, ji šio įstatymo nustatyta tvarka turi gauti leidimą vykdyti studijas ir (arba) kitą su studijomis susijusią veiklą.
@@ -1618,6 +1638,12 @@ MOKSLINIŲ TYRIMŲ INSTITUTO VALDYMAS
 39 straipsnis. Valstybinės aukštosios mokyklos likvidavimas
 
 1. Sprendimą dėl valstybinio universiteto likvidavimo priima Seimas universiteto tarybos teikimu arba Vyriausybės teikimu, įvertinęs universiteto tarybos nuomonę, arba universitetui praradus leidimą vykdyti studijas ir su studijomis susijusią veiklą. Sprendimą dėl valstybinės kolegijos likvidavimo priima Vyriausybė kolegijos tarybos teikimu arba Švietimo ir mokslo ministerijos teikimu, įvertinusi kolegijos tarybos nuomonę arba kolegijai praradus leidimą vykdyti studijas ir su studijomis susijusią veiklą.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos mokslo ir studijų įstatymo (2016 m. birželio 29 d. redakcija; TAR, 2016-07-14, Nr. 20555) 39 straipsnio 1 dalis tiek, kiek joje nustatyta, kad sprendimą dėl valstybinio universiteto likvidavimo Seimas priima universiteto tarybos teikimu, prieštarauja Lietuvos Respublikos Konstitucijos 68 straipsniui, konstituciniam teisinės valstybės principui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT15-N10/2018, 2018-06-29, paskelbta TAR 2018-06-29, i. k. 2018-10929
 
 2. Kai yra priimtas sprendimas likviduoti valstybinę aukštąją mokyklą, švietimo ir mokslo ministras, įvertinęs aukštosios mokyklos tarybos nuomonę, paskiria likvidatorių, kuris pagal Švietimo ir mokslo ministerijos patvirtintą likvidavimo projektą ir grafiką likviduoja valstybinę aukštąją mokyklą. Likvidavimo projekte turi būti išdėstyti siūlymai dėl galimybių studentams tęsti studijas kitose aukštosiose mokyklose užtikrinimo, taip pat siūlymai dėl valstybinės aukštosios mokyklos turto naudojimo.
 
