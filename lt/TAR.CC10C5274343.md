@@ -4,7 +4,7 @@ identifier: "TAR.CC10C5274343"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-04-26"
-last_updated: "2018-05-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CC10C5274343"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997.07.11)
 
-Suvestinė redakcija nuo 2018-05-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
 
@@ -215,9 +215,9 @@ Nr. X-982, 2006-12-14, Žin., 2006, Nr. 138-5268 (2006-12-19)
 
 1) Nacionalinė žemės tarnyba – visos Lietuvos Respublikos valstybinės žemės, išskyrus žemę, kuri šio ir kitų įstatymų nustatyta tvarka patikėjimo teise perduota kitiems subjektams;
 
-2) savivaldybės – valstybinės žemės sklypų, perduotų savivaldybėms patikėjimo teise Vyriausybės nustatyta tvarka šio straipsnio 2 dalyje nurodytoms reikmėms, taip pat valstybinės miško žemės sklypų, perduotų savivaldybėms patikėjimo teise Vyriausybės nutarimais šio straipsnio 3, 5 ir 6 dalyse nustatyta tvarka ir sąlygomis;
+2) savivaldybės – valstybinės žemės sklypų, perduotų savivaldybėms patikėjimo teise Vyriausybės nustatyta tvarka šio straipsnio 2 dalies 1 punkte nurodytoms reikmėms ar kitų įstatymų nustatytais atvejais ir sąlygomis šio straipsnio 2 dalies 2 punkte nurodytoms reikmėms, taip pat valstybinės miško žemės sklypų, perduotų savivaldybėms patikėjimo teise Vyriausybės nutarimais šio straipsnio 3, 5 ir 6 dalyse nustatyta tvarka ir sąlygomis;
 
-3) centralizuotai valdomo valstybės turto valdytojas – kai valstybinė žemė yra priskirta centralizuotai valdomo valstybės turto valdytojo patikėjimo teise valdomam valstybės nekilnojamajam turtui, kai valstybinė žemė priskirta įstatymų nustatyta tvarka parduodamam valstybei arba savivaldybei nuosavybės teise priklausančiam nekilnojamajam turtui arba kai valstybinė žemė yra reikalinga įgyvendinti valstybei svarbiems ekonominiams projektams, kurių valstybinę svarbą savo sprendimu pripažino Lietuvos Respublikos Seimas (toliau – Seimas) arba Vyriausybė ir kurių valdymą Seimas arba Vyriausybė pavedė centralizuotai valdomo valstybės turto valdytojui;
+3) centralizuotai valdomo valstybės turto valdytojas – kai valstybinė žemė yra priskirta centralizuotai valdomo valstybės turto valdytojo patikėjimo teise valdomam valstybės nekilnojamajam turtui, kai valstybinė žemė priskirta įstatymų nustatyta tvarka parduodamam valstybei arba savivaldybei nuosavybės teise priklausančiam nekilnojamajam turtui arba kai valstybinė žemė yra reikalinga įgyvendinti valstybei svarbiems ekonominiams projektams, kurių valstybinę svarbą savo sprendimu pripažino Lietuvos Respublikos Seimas arba Vyriausybė ir kurių valdymą Seimas arba Vyriausybė pavedė centralizuotai valdomo valstybės turto valdytojui;
 
 4) valstybės įmonė Valstybės žemės fondas (toliau – Valstybės žemės fondas) – valstybinės žemės sklypų, šio Įstatymo nustatyta tvarka priskirtų žemės konsolidacijos projekto teritorijai, išskyrus šiai teritorijai priskirtus valstybinės žemės sklypus, perduotus kitiems valstybinės žemės patikėtiniams, taip pat įstatymų nustatyta tvarka iš privačių asmenų įsigytų valstybės nuosavybėn žemės sklypų, reikalingų Valstybės žemės fondo administruojamoms valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms priemonėms, gerinančioms žemės valdų struktūras ir mažinančioms apleistos žemės plotus, įgyvendinti;
 
@@ -225,33 +225,33 @@ Nr. X-982, 2006-12-14, Žin., 2006, Nr. 138-5268 (2006-12-19)
 
 6) kiti įstatymų nustatyti subjektai.
 
-2. Valstybinės žemės sklypai perduodami savivaldybėms patikėjimo teise Vyriausybės nustatyta tvarka Nacionalinės žemės tarnybos vadovo sprendimu, suderintu su Lietuvos Respublikos žemės ūkio ministerija (toliau – Žemės ūkio ministerija), šioms reikmėms:
+2. Valstybinės žemės sklypai perduodami savivaldybėms patikėjimo teise:
 
-1) viešosios paskirties rekreacijai ir poilsiui;
+1) Vyriausybės nustatyta tvarka Nacionalinės žemės tarnybos vadovo sprendimu, suderintu su Lietuvos Respublikos žemės ūkio ministerija, šioms reikmėms:
 
-2) viešojo naudojimo poilsio objektams;
+a) viešosios paskirties rekreacijai ir poilsiui;
 
-3) gatvėms ir vietiniams keliams;
+b) viešojo naudojimo poilsio objektams;
 
-4) komunaliniams inžineriniams tinklams tiesti ir (ar) eksploatuoti;
+c) gatvėms ir vietiniams keliams;
 
-5) gyvenamiesiems namams statyti ir (ar) eksploatuoti;
+d) komunaliniams inžineriniams tinklams tiesti ir (ar) eksploatuoti;
 
-6) ūkinei komercinei veiklai.
+e) gyvenamiesiems namams statyti ir (ar) eksploatuoti;
 
-TAR pastaba. Jeigu iki šio įstatymo (Nr. XIII-971) įsigaliojimo (2018-05-01) Vyriausybės nutarimo projektas dėl valstybinės žemės sklypo perdavimo savivaldybei patikėjimo teise Lietuvos Respublikos žemės įstatymo 7 straipsnio 2 dalyje nurodytoms reikmėms pateiktas Vyriausybei, šis valstybinės žemės sklypas perduodamas savivaldybei patikėjimo teise vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis nuostatomis.
+f) ūkinei komercinei veiklai;
 
-Jeigu savivaldybė nebenaudoja iki šio įstatymo įsigaliojimo Vyriausybės nutarimu jai patikėjimo teise perduoto Žemės įstatymo 7 straipsnio 2 dalyje nurodytoms reikmėms valstybinės žemės sklypo, Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas priima sprendimą, suderintą su Lietuvos Respublikos žemės ūkio ministerija, dėl šios savivaldybės patikėjimo teisės pasibaigimo pagal šio įstatymo nuostatas.
+2) Vyriausybės nutarimu kitoms reikmėms, nenumatytoms šio straipsnio 2 dalies 1 punkte ir įtvirtintoms įstatymuose.
 
 3. Vyriausybės nutarimais valstybinės miško žemės sklypai gali būti perduodami patikėjimo teise Miškų įstatymo nustatytiems subjektams valstybinėms funkcijoms atlikti. Valstybinės žemės sklypai Vyriausybės nutarimais gali būti perduodami patikėjimo teise ir kitiems Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme nurodytiems subjektams, kai įstatymais jiems priskiriamos valstybinės funkcijos.
 
-4. Nacionalinė žemės tarnyba privalo prižiūrėti, kad Nacionalinės žemės tarnybos vadovo sprendimas ar Vyriausybės nutarimas perduoti valstybinės žemės sklypą patikėjimo teise šio straipsnio 2 ir 3 dalyse nurodytiems subjektams būtų tinkamai vykdomas. Jeigu savivaldybė nebenaudoja Nacionalinės žemės tarnybos vadovo sprendime nurodytoms reikmėms jai patikėjimo teise perduoto valstybinės žemės sklypo, Nacionalinės žemės tarnybos vadovas priima sprendimą, suderintą su Žemės ūkio ministerija, dėl šios savivaldybės patikėjimo teisės pasibaigimo. Jeigu šio straipsnio 3 dalyje nurodyti subjektai nebeatlieka Vyriausybės nutarime nurodytų funkcijų, kurioms įgyvendinti jiems patikėjimo teise buvo perduoti valstybinės žemės sklypai, Nacionalinė žemės tarnyba raštu apie tai informuoja Žemės ūkio ministeriją, kuri teikė Vyriausybei Vyriausybės nutarimo projektą dėl valstybinės žemės sklypo perdavimo šiam subjektui patikėjimo teise. Žemės ūkio ministerija teikia Vyriausybei Vyriausybės nutarimo dėl patikėjimo teisės pasibaigimo projektą. Nuo atitinkamai Nacionalinės žemės tarnybos vadovo sprendimo ar Vyriausybės nutarimo įsigaliojimo šių valstybinės žemės sklypų patikėtiniu laikoma Nacionalinė žemės tarnyba.
+4. Nacionalinė žemės tarnyba privalo prižiūrėti, kad Nacionalinės žemės tarnybos vadovo sprendimas ar Vyriausybės nutarimas perduoti valstybinės žemės sklypą patikėjimo teise šio straipsnio 2 ir 3 dalyse nurodytiems subjektams būtų tinkamai vykdomas. Jeigu savivaldybė nebenaudoja Nacionalinės žemės tarnybos vadovo sprendime nurodytoms reikmėms jai patikėjimo teise perduoto valstybinės žemės sklypo, Nacionalinės žemės tarnybos vadovas priima sprendimą, suderintą su Žemės ūkio ministerija, dėl šios savivaldybės patikėjimo teisės pasibaigimo. Jeigu savivaldybė nebenaudoja Vyriausybės nutarimu jai patikėjimo teise perduoto valstybinės žemės sklypo šio straipsnio 2 dalies 2 punkte nurodytoms reikmėms ar šio straipsnio 3 dalyje nurodyti subjektai nebeatlieka Vyriausybės nutarime nurodytų funkcijų, kurioms įgyvendinti jiems patikėjimo teise buvo perduoti valstybinės žemės sklypai, Nacionalinė žemės tarnyba raštu apie tai informuoja ministeriją, kuri teikė Vyriausybei Vyriausybės nutarimo dėl valstybinės žemės sklypo perdavimo šiam subjektui patikėjimo teise projektą. Ši ministerija teikia Vyriausybei Vyriausybės nutarimo dėl patikėjimo teisės pasibaigimo projektą. Nuo atitinkamai Nacionalinės žemės tarnybos vadovo sprendimo ar Vyriausybės nutarimo įsigaliojimo šių valstybinės žemės sklypų patikėtiniu laikoma Nacionalinė žemės tarnyba.
 
 5. Šio straipsnio 3 dalyje nurodyti patikėtiniai negali perduotų miško žemės sklypų ar kitų valstybinės žemės sklypų parduoti ar kitaip perleisti, išnuomoti, perduoti panaudos pagrindais ar perduoti jų naudotis kitu būdu, jų įkeisti ar kitaip suvaržyti daiktinių teisių į juos, jais garantuoti, laiduoti ar kitu būdu užtikrinti savo ir kitų asmenų prievolių įvykdymo. Vyriausybės nutarime gali būti nustatyta ir kitų apribojimų valdyti bei naudoti perduotus miško žemės sklypus ar kitus žemės sklypus.
 
-6. Valstybinės žemės sklypo, perduodamo patikėjimo teise šio straipsnio 2 ir 3 dalyse nurodytiems subjektams, perdavimo–priėmimo aktą pasirašo Nacionalinės žemės tarnybos vadovas arba jo įgaliotas teritorinio padalinio vadovas, kai žemės sklypas šio straipsnio 2 dalyje nurodytoms reikmėms perduodamas savivaldybei, ar Vyriausybės įgaliotas asmuo, kai žemės sklypas perduodamas šio straipsnio 3 dalyje nurodytiems subjektams. Jeigu valstybinės žemės patikėtinis per 3 mėnesius nuo perdavimo–priėmimo akto pasirašymo neįregistruoja patikėjimo teisės Nekilnojamojo turto registre, atitinkamai Nacionalinės žemės tarnybos vadovas priima sprendimą, suderintą su Žemės ūkio ministerija, o Vyriausybė – nutarimą dėl šio patikėtinio patikėjimo teisės pasibaigimo ir nuo šio Nacionalinės žemės tarnybos vadovo sprendimo ar Vyriausybės nutarimo įsigaliojimo žemės sklypo patikėtiniu laikoma Nacionalinė žemės tarnyba.
+6. Valstybinės žemės sklypo, perduodamo patikėjimo teise šio straipsnio 2 ir 3 dalyse nurodytiems subjektams, perdavimo–priėmimo aktą pasirašo Nacionalinės žemės tarnybos vadovas arba jo įgaliotas teritorinio padalinio vadovas, kai žemės sklypas šio straipsnio 2 dalies 1 punkte nurodytoms reikmėms perduodamas savivaldybei, ar Vyriausybės įgaliotas asmuo, kai žemės sklypas perduodamas šio straipsnio 3 dalyje nurodytiems subjektams arba šio straipsnio 2 dalies 2 punkte nurodytoms reikmėms perduodamas savivaldybei. Jeigu valstybinės žemės patikėtinis per 3 mėnesius nuo perdavimo–priėmimo akto pasirašymo neįregistruoja patikėjimo teisės Nekilnojamojo turto registre, atitinkamai Nacionalinės žemės tarnybos vadovas priima sprendimą, suderintą su Žemės ūkio ministerija, o Vyriausybė – nutarimą dėl šio patikėtinio patikėjimo teisės pasibaigimo ir nuo šio Nacionalinės žemės tarnybos vadovo sprendimo ar Vyriausybės nutarimo įsigaliojimo žemės sklypo patikėtiniu laikoma Nacionalinė žemės tarnyba.
 
-7. Žemės ūkio ministerija gali atsisakyti derinti Nacionalinės žemės tarnybos vadovo sprendimą perduoti savivaldybei patikėjimo teise valstybinės žemės sklypą, kai toks perdavimas neatitiktų šio straipsnio 2 dalyje nustatytų reikalavimų.
+7. Žemės ūkio ministerija gali atsisakyti derinti Nacionalinės žemės tarnybos vadovo sprendimą perduoti savivaldybei patikėjimo teise valstybinės žemės sklypą, kai toks perdavimas neatitiktų šio straipsnio 2 dalies 1 punkte nustatytų reikalavimų.
 
 8. Žemės ūkio ministerija gali atsisakyti derinti Nacionalinės žemės tarnybos vadovo sprendimą dėl savivaldybės patikėjimo teisės pasibaigimo, jeigu toks patikėjimo teisės pasibaigimas neatitiktų šio straipsnio 4 ir 6 dalyse nustatytų reikalavimų.
 
@@ -264,6 +264,8 @@ Jeigu savivaldybė nebenaudoja iki šio įstatymo įsigaliojimo Vyriausybės nut
 Straipsnio pakeitimai:
 
 Nr. XIII-971, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21730
+
+Nr. XIII-1266, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10508
 
 8 straipsnis. Valstybinės žemės perdavimas neatlygintinai ja naudotis (panauda)
 
@@ -2088,6 +2090,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-971, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21730
 
 Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 8, 9 ir 32 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1266, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10508
+
+Lietuvos Respublikos žemės įstatymo Nr. I-446 7 straipsnio pakeitimo įstatymas
 
 55 straipsnis. Žemės ginčų
 
