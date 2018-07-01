@@ -4,7 +4,7 @@ identifier: "TAR.C51D9C259EFE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-12-20"
-last_updated: "2018-05-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ entry_into_force_conditions: "Įstatymo 34 straipsnis įsigalioja 2007-12-29"
 ---
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymas
 
-Suvestinė redakcija nuo 2018-05-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5763, i. k. 1071010ISTA00X-1404
 
@@ -346,6 +346,14 @@ Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
 
 Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 1, 2, 6, 13, 15, 25 ir 27 straipsnių pakeitimo įstatymas
 
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-780, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18835
+
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 30 straipsnio pakeitimo įstatymas
+
 8 straipsnis. Neteko galios nuo 2011-01-01.
 
 Straipsnio pakeitimai:
@@ -360,7 +368,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
 
-2. Aplinkos ministerijos regionų aplinkos apsaugos departamentai ir kitos valstybinės priežiūros institucijos pagal kompetenciją prižiūri kremavimo įmonių, balzamavimo, laidojimo paslaugų teikėjų ir kapinių prižiūrėtojų veiklą ir kontroliuoja, kaip jie vykdo aplinkos apsaugos, asmens duomenų tvarkymo ir apsaugos reikalavimus, nustatytus šiame įstatyme ir kituose teisės aktuose.
+2. Aplinkos apsaugos departamentas ir kitos valstybinės priežiūros institucijos pagal kompetenciją prižiūri kremavimo įmonių, balzamavimo, laidojimo paslaugų teikėjų ir kapinių prižiūrėtojų veiklą ir kontroliuoja, kaip jie vykdo aplinkos apsaugos, asmens duomenų tvarkymo ir apsaugos reikalavimus, nustatytus šiame įstatyme ir kituose teisės aktuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-780, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18835
 
 3. Šio straipsnio 1 ir 2 dalyse nurodytos institucijos, nustačiusios šiame įstatyme ir kituose teisės aktuose nustatytų kremavimo veiklai taikomų reikalavimų pažeidimus, gali teikti pasiūlymus kremavimo veiklos licencijas išduodančiai institucijai dėl licencijos galiojimo sustabdymo.
 
