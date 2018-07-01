@@ -4,7 +4,7 @@ identifier: "TAR.8A39C83848CB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-18"
-last_updated: "2018-06-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 department: "Lietuvos Respublikos Seimas"
@@ -17,9 +17,17 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2018-06-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-07-16
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
+
+TAR pastaba. Įstatymo Nr. XIII-1290 nuostatos taikomos pasirengimo vaiko globai (rūpybai), vaiko globos (rūpybos) nustatymo ir įvaikinimo procedūroms, pradėtoms po šio įstatymo įsigaliojimo (2018-07-01).
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
+
+Lietuvos Respublikos civilinio kodekso 3.3, 3.153, 3.212, 3.217, 3.219, 3.224, 3.253, 3.254, 3.259, 3.260, 3.261, 3.269 straipsnių pakeitimo, 3.220 straipsnio pripažinimo netekusiu galios ir Kodekso papildymo 3.254-1 straipsniu įstatymo Nr. XIII-645 pakeitimo įstatymas
 
 Pastaba. Nuo 2003 m. vasario 25 d., įsigaliojus įstatymui Nr. IX-1327, visus savivaldybės valdybai bei merui kitų įstatymų priskirtus vykdomuosius įgaliojimus iki tų įstatymų pakeitimo įgyvendina savivaldybės administracijos direktorius.
 
@@ -599,7 +607,11 @@ kitokioms prievolėms taikytina Teisė
 
 3.262 straipsnis. Vaiko laikinosios globos (rūpybos) nustatymas
 
-1. Vaiko laikinoji globa (rūpyba) nustatoma nuo prašymo įregistravimo rajono (miesto) savivaldybės administracijoje dienos savivaldybės administracijos direktoriaus sprendimu pagal valstybinės vaiko teisių apsaugos institucijos teikimą. Vaiko laikinoji globa (rūpyba) vaikų globos institucijoje nustatoma tik tais atvejais, kai globa (rūpyba) šeimoje, šeimynoje ar globos centre negalima arba tai prieštarautų vaiko interesams.
+1. Vaiko laikinoji globa (rūpyba) nustatoma nuo šio kodekso 3.250 straipsnio 3 dalyje nurodyto valstybinės vaiko teisių apsaugos institucijos nurodymo įregistravimo savivaldybės administracijoje dienos savivaldybės administracijos direktoriaus sprendimu. Savivaldybės administracijos direktoriaus sprendimas dėl vaiko laikinosios globos (rūpybos) nustatymo priimamas per tris darbo dienas nuo valstybinės vaiko teisių apsaugos institucijos nurodymo įregistravimo dienos. Vaiko laikinoji globa (rūpyba) vaikų globos institucijoje nustatoma tik tais atvejais, kai globa (rūpyba) šeimoje, globos centre ar šeimynoje negalima arba tai prieštarautų vaiko interesams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 2. Vaikų laikinoji globa (rūpyba) organizuojama pagal vaikų laikinosios globos (rūpybos) nuostatus, kuriuos tvirtina Vyriausybė ar jos įgaliota valstybės institucija.
 
@@ -673,23 +685,33 @@ CIVILINIŲ TEISIŲ OBJEKTŲ SAMPRATA IR RŪŠYS
 
 3.217 straipsnis. Pasirengimo įvaikinti patikrinimas
 
-1. Valstybinės įvaikinimo institucijos atestuoti asmenys išsiaiškina, ar būsimiems įtėviams nėra šio kodekso trečiojoje knygoje numatytų kliūčių įvaikinti, ištiria jų gyvenimo sąlygas, būdą, surenka informaciją apie sveikatos būklę ir pateikia išvadą dėl būsimųjų įvaikintojų pasirengimo įvaikinti.
+1. Valstybinės vaiko teisių apsaugos institucijos atestuoti asmenys išsiaiškina, ar būsimiems įtėviams nėra šio kodekso trečiojoje knygoje numatytų kliūčių įvaikinti, ištiria jų gyvenimo sąlygas, būdą, surenka informaciją apie sveikatos būklę ir pateikia išvadą dėl būsimųjų įvaikintojų pasirengimo įvaikinti.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
-2. Jei būsimieji įtėviai nesutinka su atestuoto socialinio darbuotojo išvada dėl jų pasirengimo įvaikinti, jie gali šią išvadą apskųsti teismui.
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
+
+2. Jei būsimieji įtėviai nesutinka su valstybinės vaiko teisių apsaugos institucijos atestuotų asmenų išvada dėl jų pasirengimo įvaikinti, jie gali šią išvadą apskųsti teismui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 3. Ar įtėviai turi tinkamas sąlygas ir deramai pasirengę įvaikinimui, nusprendžia teismas, nagrinėjantis prašymą dėl įvaikinimo.
 
 4. Būsimiesiems įtėviams, ketinantiems įvaikinti vaiką užsienyje, išvadą, ar nėra įstatymų numatytų kliūčių įvaikinti ir ar būsimieji įtėviai tinkamai pasirengę įvaikinti, nutartimi patvirtina Vilniaus apygardos teismas.
 
-3.218 straipsnis. Duomenų apie įvaikinamą vaiką pateikimas
+3.218 straipsnis. Duomenų apie įvaikinamą vaiką pateikimas
 
-1. Valstybinė įvaikinimo institucija pateikia teismui duomenis apie įvaikinamo vaiko kilmę, vystymąsi, sveikatos būklę ir šeimą.
+1. Valstybinė vaiko teisių apsaugos institucija pateikia teismui duomenis apie įvaikinamo vaiko kilmę, vystymąsi, sveikatos būklę ir šeimą.
 
-2. Duomenis apie galimus įvaikinti vaikus iki prašymo įvaikinti padavimo teismui valstybinė įvaikinimo institucija privalo pateikti visiems asmenims, įrašytiems į norinčių įvaikinti eilę.
+2. Duomenis apie galimus įvaikinti vaikus iki prašymo įvaikinti padavimo teismui valstybinė vaiko teisių apsaugos institucija privalo pateikti visiems asmenims, įrašytiems į norinčiųjų įvaikinti eilę.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 3.226 straipsnis. Vaikų, užsienio valstybės piliečių, įvaikinimas
 
@@ -755,7 +777,7 @@ Ieškinio senatis – tai įstatymų nustatytas laiko tarpas (terminas), per kur
 
 1. Įvaikinimui būtinas vaiko tėvų rašytinis sutikimas, patvirtintas teismo.
 
-2. Jei įvaikinamo vaiko tėvai yra nepilnamečiai ar neveiksnūs šioje srityje, būtinas jų tėvų arba globėjų (rūpintojų) rašytinis sutikimas, patvirtintas teismo. Jei įvaikinamo vaiko tėvai yra ribotai veiksnūs šioje srityje, būtinas jų ir jų rūpintojų rašytinis sutikimas, patvirtintas teismo. Jeigu rūpintojas sutikimo neduoda, ribotai veiksnaus šioje srityje asmens prašymu jo rašytinį sutikimą įvaikinti gali patvirtinti teismas. Šiuo atveju papildomo teismo patvirtinimo nereikalaujama. Visais šioje dalyje nurodytais atvejais teismas, nagrinėdamas bylą, privalo išklausyti įvaikinamo vaiko tėvų nuomonę, jei asmuo gali ją išreikšti ir suvokti įvaikinimo procesą, tikslus ir pasekmes. Jei įvaikinamas vaikas turi įstatymų nustatyta tvarka paskirtą nuolatinį globėją (rūpintoją) ir šiam vaikui nustatyta globa (rūpyba) šeimoje, būtinas globėjo (rūpintojo) rašytinis sutikimas, patvirtintas teismo. Atsisakymas duoti sutikimą įvaikinti turi būti motyvuotas.
+2. Jei įvaikinamo vaiko tėvai yra nepilnamečiai ar neveiksnūs šioje srityje, būtinas jų tėvų arba globėjų (rūpintojų) rašytinis sutikimas, patvirtintas teismo. Jei įvaikinamo vaiko tėvai yra ribotai veiksnūs šioje srityje, būtinas jų ir jų rūpintojų rašytinis sutikimas, patvirtintas teismo. Jei rūpintojas sutikimo neduoda, ribotai veiksnaus šioje srityje asmens prašymu jo rašytinį sutikimą įvaikinti gali patvirtinti teismas. Šiuo atveju papildomo teismo patvirtinimo nereikalaujama. Visais šioje dalyje nurodytais atvejais teismas, nagrinėdamas bylą, privalo išklausyti įvaikinamo vaiko tėvų nuomonę, jei asmuo gali ją išreikšti ir suvokti įvaikinimo procesą, tikslus ir pasekmes. Jei įvaikinamas vaikas turi įstatymų nustatyta tvarka paskirtą nuolatinį globėją (rūpintoją) ir šiam vaikui nustatyta globa (rūpyba) šeimoje, būtinas globėjo (rūpintojo) rašytinis sutikimas, patvirtintas teismo. Atsisakymo duoti sutikimą įvaikinti motyvai turi būti pagrįsti. Teismas, nustatęs, kad atsisakymo duoti sutikimą įvaikinti motyvai yra nepagrįsti, gali priimti sprendimą įvaikinti be globėjo (rūpintojo) sutikimo.
 
 Straipsnio dalies pakeitimai:
 
@@ -763,11 +785,17 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
+
 3. Tėvai sutikimą įvaikinti vaiką konkrečiam įvaikintojui gali duoti tik tuo atveju, jei jis yra giminaitis.
 
 4. Patvirtinęs tėvų (globėjų, rūpintojų) rašytinį sutikimą, teismas nutartimi tėvams (globėjams, rūpintojams) išaiškina šio kodekso 3.227 straipsnyje nustatytas įvaikinimo pasekmes ir tėvų teisę atšaukti savo duotą sutikimą.
 
-5. Nutarties, patvirtinančios sutikimą įvaikinti, įsiteisėjusį nuorašą teismas per tris darbo dienas išsiunčia valstybinei įvaikinimo institucijai.
+5. Nutarties, patvirtinančios sutikimą įvaikinti, įsiteisėjusį nuorašą teismas per tris darbo dienas išsiunčia valstybinei vaiko teisių apsaugos institucijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 6.295 straipsnis. Atsakomybės sąlygos
 
@@ -875,15 +903,13 @@ Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
 3.219 straipsnis. Įvaikinimo apskaita
 
-1. Asmenų, norinčių įvaikinti vaikus, ir vaikų, galimų įvaikinti, apskaitą tvarko valstybinė įvaikinimo institucija, kurios nuostatus tvirtina Vyriausybė.
+1. Asmenų, norinčių įvaikinti vaikus, ir galimų įvaikinti vaikų apskaitą Vyriausybės nustatyta tvarka tvarko valstybinė vaiko teisių apsaugos institucija. Šios institucijos nuostatus tvirtina Vyriausybė.
 
-2. Teismas, priėmęs sprendimą neterminuotai apriboti tėvų valdžią ar nutartimi patvirtinęs tėvų rašytinį sutikimą įvaikinti tų tėvų vaiką, įsiteisėjusį teismo sprendimą ar nutartį per tris darbo dienas išsiunčia valstybinei įvaikinimo institucijai.
+2. Teismas, priėmęs sprendimą neterminuotai apriboti tėvų valdžią ar nutartimi patvirtinęs tėvų rašytinį sutikimą įvaikinti tų tėvų vaiką, įsiteisėjusį teismo sprendimą ar nutartį per tris darbo dienas išsiunčia valstybinei vaiko teisių apsaugos institucijai.
 
-3. Neteko galios nuo 2018-01-01
+Straipsnio pakeitimai:
 
-Straipsnio dalies naikinimas:
-
-Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 6.675 straipsnis. Darbų atlikimas iš rangovo medžiagos
 
@@ -2431,9 +2457,17 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 1. Švietimo, auklėjimo, sveikatos priežiūros, socialinių paslaugų, policijos ir kitokių institucijų darbuotojai, taip pat kiti asmenys, turintys duomenų apie nepilnamečius, likusius be tėvų globos, ar duomenų apie būtinumą ginti nepilnamečių teises ir interesus (piktnaudžiavimas tėvų valdžia, smurtas prieš vaiką, tėvų liga, mirtis, išvykimas ar dingimas, tėvų atsisakymas atsiimti vaikus iš švietimo, auklėjimo ar gydymo įstaigų ir t. t.), privalo apie tai nedelsdami informuoti valstybinę vaiko teisių apsaugos instituciją pagal vaiko ar savo gyvenamąją vietą.
 
-2. Valstybinė vaiko teisių apsaugos institucija, gavusi informacijos apie galimus vaiko teisių pažeidimus, įvertina šios informacijos pagrįstumą ir nedelsdama imasi vaiko teisių apsaugos priemonių (perkelti vaiką į saugią aplinką).
+2. Valstybinė vaiko teisių apsaugos institucija, gavusi informacijos apie galimus vaiko teisių pažeidimus, įvertina šios informacijos pagrįstumą ir imasi Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme nurodytų veiksmų.
 
-3. Vaikus, kuriems reikalinga globa (rūpyba), nustato, tokių vaikų apskaitą tvarko ir užtikrina valstybinė vaiko teisių apsaugos institucija. Ši institucija, gavusi informaciją apie vaiką, kuriam reikalinga globa (rūpyba), privalo užtikrinti laikinosios globos (rūpybos) jam paskyrimą per tris dienas.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
+
+3. Vaikus, kuriems reikalinga globa (rūpyba), nustato, šių vaikų apskaitą tvarko ir užtikrina valstybinė vaiko teisių apsaugos institucija. Ši institucija, nustačiusi vaiką, kuriam reikalinga globa (rūpyba), privalo per tris darbo dienas nuo teismo leidimo paimti vaiką iš jo atstovų pagal įstatymą išdavimo dienos pateikti savivaldybės administracijai nurodymą nustatyti vaikui laikinąją globą (rūpybą) ir paskirti konkretų laikinąjį globėją (rūpintoją).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 4. Valstybinė vaiko teisių apsaugos institucija yra vaiko, įstatymų nustatytais pagrindais paimto iš tėvų ar kitų teisėtų atstovų, atstovas pagal įstatymus tol, kol šiam vaikui paskiriamas globėjas ar rūpintojas.
 
@@ -2443,25 +2477,27 @@ Straipsnio pakeitimai:
 
 Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
-3.261 straipsnis. Vaiko globa (rūpyba) valstybinėse ir nevyriausybinėse globos institucijose
+3.261 straipsnis. Vaiko globa (rūpyba) vaikų globos institucijoje
 
-1. Likęs be tėvų globos vaikas apgyvendinamas valstybinėje arba nevyriausybinėje vaikų globos institucijoje tik išimtiniais atvejais, kai nėra galimybės jo globoti šeimoje arba šeimynoje.
+1. Likęs be tėvų globos vaikas apgyvendinamas vaikų globos institucijoje tik išimtiniais atvejais, kai nėra galimybės jo globoti (juo rūpintis) šeimoje, globos centre arba šeimynoje.
 
-2. Vaiko iki trejų metų globa vaikų globos institucijoje įstatymų nustatyta tvarka gali būti nustatyta tik išimtiniais atvejais ir gali trukti ne ilgiau kaip tris mėnesius, išskyrus atvejus, kai Vyriausybės įgaliota institucija pritaria, kad vaiko globa vaikų globos institucijoje tęstųsi ilgiau dėl šių objektyvių priežasčių:
+2. Vaiko iki trejų metų globa vaikų globos institucijoje įstatymų nustatyta tvarka gali būti nustatyta tik išimtiniais atvejais tam pritarus valstybinei vaiko teisių apsaugos institucijai. Valstybinė vaiko teisių apsaugos institucija pritaria vaiko iki trejų metų globai vaikų globos institucijoje tik išimtiniais atvejais, nustačiusi bent vieną iš šių priežasčių:
 
-1) vaikui reikalingos specializuotos sveikatos priežiūros ir (ar) slaugos paslaugos, kurių teikimas negali būti užtikrinamas vaikui nustatant globą šeimoje ar šeimynoje arba
+1) vaikui reikalingos specializuotos sveikatos priežiūros ir (ar) slaugos paslaugos, kurių teikimas negali būti užtikrinamas vaikui nustatant globą šeimoje, globos centre ar šeimynoje;
 
-2) vaiko išskyrimas su broliais, seserimis pažeistų geriausius jo interesus, arba
+2) vaiko išskyrimas su broliais, seserimis pažeistų jo geriausius interesus;
 
-3) kai globa nustatoma dėl skubaus vaiko paėmimo iš šeimos ir nėra galimybių vaikui nustatyti globą šeimoje arba šeimynoje.
+3) globa nustatoma dėl skubaus vaiko paėmimo iš jo atstovų pagal įstatymą ir nėra galimybių vaikui nustatyti globą šeimoje, globos centre arba šeimynoje.
 
-3. Vaiko globą (rūpybą) institucijose nustato įstatymai ir kiti teisės aktai.
+3. Vaiko iki trejų metų globa vaikų globos institucijoje šio straipsnio 2 dalies 3 punkte nurodytu pagrindu gali tęstis ne ilgiau kaip tris mėnesius. Išnykus šio straipsnio 2 dalies 1 ir (ar) 2 punktuose nurodytoms priežastims, vaiko iki trejų metų globa vaikų globos institucijoje gali tęstis ne ilgiau kaip tris mėnesius nuo šių aplinkybių išnykimo momento.
 
-TAR pastaba. 3.261 straipsnio nuostatos dėl apribojimo nustatant vaiko iki trejų metų globą vaikų globos institucijoje netaikomos iki įstatymo Nr. XII-1879 įsigaliojimo (2017-01-01) nustatytai vaiko globai.
+4. Vaiko globą (rūpybą) vaikų globos institucijoje nustato įstatymai ir kiti teisės aktai.
 
 Straipsnio pakeitimai:
 
 Nr. XII-1879, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11177
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 6.280 straipsnis. Regreso teisė į žalos padariusį asmenį
 
@@ -2733,7 +2769,11 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
-5. Asmenys, norintys įsivaikinti vaiką (išskyrus vaiko motinos (tėvo) sutuoktinį ir giminaičius), turi būti įtraukti į asmenų, norinčių įsivaikinti vaiką, apskaitą, kurią tvarko valstybinė įvaikinimo institucija.
+5. Asmenys, norintys įsivaikinti vaiką (išskyrus vaiko motinos (tėvo) sutuoktinį ir giminaičius), turi būti įtraukti į asmenų, norinčių įsivaikinti vaiką, apskaitą, kurią tvarko valstybinė vaiko teisių apsaugos institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 6. Neteko galios nuo 2018-01-01
 
@@ -2751,7 +2791,11 @@ Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
 1. Tėvai savo duotą sutikimą įvaikinti gali atšaukti, jei dėl įvaikinimo nėra priimtas teismo sprendimas. Atšaukti tėvų, kurie yra neveiksnūs šioje srityje, sutikimą įvaikinti gali globėjai. Tėvai, pripažinti ribotai veiksniais šioje srityje, savo sutikimą įvaikinti gali atšaukti tik kartu su rūpintojais. Jeigu rūpintojai nesutinka atšaukti sutikimą įvaikinti, ribotai veiksnių šioje srityje asmenų prašymu jų sutikimo įvaikinti atšaukimą gali patvirtinti teismas. Šiuo atveju papildomo teismo patvirtinimo nereikalaujama.
 
-2. Pareiškimą dėl sutikimo įvaikinti vaiką atšaukimo tėvai (neveiksnių šioje srityje tėvų globėjai ar ribotai veiksnūs šioje srityje tėvai kartu su rūpintojais) turi įteikti valstybinei įvaikinimo institucijai. Jei vaikas įvaikintas, valstybinė įvaikinimo institucija apie tai praneša tėvams, neatskleisdama įvaikintojų. Prašymą įteikus iki dienos, kurią turi būti nagrinėjamas teisme prašymas dėl įvaikinimo, valstybinė įvaikinimo institucija praneša teismui, nagrinėjančiam šį prašymą, apie sutikimo atšaukimą ir pasiunčia sutikimo atšaukimo pareiškimą nagrinėti tą sutikimą patvirtinusiam teismui. Prašymo dėl įvaikinimo nagrinėjimas sustabdomas, kol bus išspręstas sutikimo atšaukimo klausimas.
+2. Pareiškimą dėl sutikimo įvaikinti vaiką atšaukimo tėvai (neveiksnių šioje srityje tėvų globėjai ar ribotai veiksnūs šioje srityje tėvai kartu su rūpintojais) turi įteikti valstybinei vaiko teisių apsaugos institucijai. Jei vaikas įvaikintas, valstybinė vaiko teisių apsaugos institucija apie tai praneša tėvams, neatskleisdama įvaikintojų. Prašymą įteikus iki dienos, kurią turi būti teisme nagrinėjamas prašymas dėl įvaikinimo, valstybinė vaiko teisių apsaugos institucija praneša teismui, nagrinėjančiam šį prašymą, apie sutikimo atšaukimą ir pasiunčia sutikimo atšaukimo pareiškimą nagrinėti tą sutikimą patvirtinusiam teismui. Prašymo dėl įvaikinimo nagrinėjimas sustabdomas tol, kol bus išspręstas sutikimo atšaukimo klausimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 3. Teismas nepatvirtina sutikimo įvaikinti atšaukimo, jei nuo tėvų valdžios apribojimo yra praėję vieneri metai ir tėvų valdžios apribojimas nepanaikintas arba jeigu nustato, kad tėvai (neveiksnių šioje srityje tėvų globėjai ar ribotai veiksnūs šioje srityje tėvai kartu su rūpintojais) duotą sutikimą atšaukia tik siekdami materialinės naudos.
 
@@ -2783,17 +2827,11 @@ Straipsnio pakeitimai:
 
 Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
-3.220 straipsnis. Prašymų įvaikinti nagrinėjimas
+3.220 straipsnis. Neteko galios nuo 2018-07-01
 
-1. Lietuvos Respublikos piliečių prašymus įvaikinti nagrinėja apylinkės teismai pagal pareiškėjo arba įvaikinamo vaiko gyvenamąją vietą, dalyvaujant pareiškėjams ir valstybinės įvaikinimo institucijos atstovui.
+Straipsnio naikinimas:
 
-2. Užsienio valstybių piliečių prašymus įvaikinti Lietuvos Respublikos pilietį, gyvenantį Lietuvos Respublikoje arba užsienio valstybėje, nagrinėja Vilniaus apygardos teismas.
-
-3. Prašymas įvaikinti nagrinėjamas ypatingosios teisenos tvarka. Įsiteisėjusį teismo sprendimą įvaikinti teismas ne vėliau kaip kitą darbo dieną po šio sprendimo įsiteisėjimo dienos privalo elektroninių ryšių priemonėmis išsiųsti vaiko gimimą įregistravusiai civilinės metrikacijos įstaigai.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 3.221 straipsnis. Įvaikinimo konfidencialumas
 
@@ -2805,11 +2843,13 @@ Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
 
 3.222 straipsnis. Vaiko perkėlimas į šeimą iki įvaikinimo
 
-1. Būsimiems įtėviams jų ar valstybinės įvaikinimo institucijos prašymu arba savo iniciatyva teismas iki įvaikinimo gali nustatyti nuo šešių iki dvylikos mėnesių bandomąjį laiką ir perkelti vaiką gyventi, auklėti ir išlaikyti į būsimųjų įtėvių šeimą. Jei priimama nutartis perkelti vaiką į šeimą, įvaikinimo bylos nagrinėjimas sustabdomas.
+1. Būsimiems įtėviams jų ar valstybinės vaiko teisių apsaugos institucijos prašymu arba savo iniciatyva teismas iki įvaikinimo gali nustatyti nuo šešių iki dvylikos mėnesių bandomąjį laiką ir perkelti vaiką gyventi, auklėti ir išlaikyti į būsimų įtėvių šeimą. Jei priimama nutartis perkelti vaiką į šeimą, įvaikinimo bylos nagrinėjimas sustabdomas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 2. Bandomasis laikas gali būti skiriamas atsižvelgiant į būsimų įtėvių ir vaiko psichologinį pasirengimą įvaikinti, būsimų įtėvių ir įvaikio bendravimo trukmę iki prašymo įvaikinti ir kitas aplinkybes, dėl kurių gali kilti abejonių, ar vaikas pritaps įvaikintojų šeimoje.
 
@@ -2841,31 +2881,27 @@ Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
 2. Jei įvaikinti vaiką pareiškia norą keli tos pačios eilės asmenys, įsivaikina tas, kuris pirmas įtrauktas į apskaitą įvaikinti.
 
-3.224 straipsnis. Įvaikinimas užsienio valstybės piliečiui
+3.224 straipsnis. Įvaikinimas asmenims, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, užsienio valstybės piliečiams ir asmenims be pilietybės, kurių nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje
 
-1. Užsienio valstybės piliečiui, įvaikinančiam vaiką, taikomos šio kodekso 3.209–3.221 straipsniuose nustatytos taisyklės.
+1. Asmenims, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, užsienio valstybės piliečiams ir asmenims be pilietybės, kurių nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje, įvaikinantiems vaiką, taikomos šio kodekso 3.209–3.223 straipsniuose nustatytos taisyklės.
 
-2. Be šio kodekso 3.209–3.222 straipsniuose nustatytų taisyklių, įvaikinimas užsienio valstybės piliečiams galimas, jeigu:
+2. Be šio kodekso 3.209–3.223 straipsniuose nustatytų taisyklių, įvaikinimas šio straipsnio 1 dalyje nurodytiems asmenims galimas, kai yra visos šios sąlygos:
 
-1) per šešis mėnesius nuo vaiko įrašymo į galimų įvaikinti vaikų sąrašą nėra Lietuvos Respublikos piliečių prašymų įvaikinti ar globoti vaiką;
+1) per šešis mėnesius nuo vaiko įrašymo į galimų įvaikinti vaikų sąrašą nėra Lietuvos Respublikos piliečių, kurių nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje, prašymų įvaikinti ar globoti vaiką (rūpintis vaiku);
 
-2) vaiko, auklėjamo ir išlaikomo šeimoje, šeimos tėvai duoda teismui rašytinį sutikimą įvaikinti;
+2) vaiko, kuriam paskirtas nuolatinis globėjas (rūpintojas) ir nustatyta globa (rūpyba) šeimoje, globėjas (rūpintojas) duoda teismui rašytinį sutikimą įvaikinti. Atsisakymas duoti sutikimą įvaikinti turi būti motyvuotas;
 
-3) vaiko, kuriam paskirtas nuolatinis globėjas (rūpintojas) ir nustatyta globa (rūpyba) šeimoje, globėjas (rūpintojas) duoda teismui rašytinį sutikimą įvaikinti. Atsisakymas duoti sutikimą įvaikinti turi būti motyvuotas.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
+3) atsisakymo duoti šios dalies 2 punkte nurodytą rašytinį sutikimą įvaikinti motyvai yra pagrįsti.
 
 3. Teismas turi teisę vaiko interesais priimti sprendimą įvaikinti be globėjo (rūpintojo) sutikimo.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
-
 4. Kai vaikas įvaikinamas kitoje valstybėje, turi būti imamasi visų reikiamų priemonių, kad vaiko įkurdinimas kitoje valstybėje neleistų su tuo susijusiems asmenims gauti nepateisinamos materialinės naudos.
 
-5. Sprendžiant klausimą dėl vaiko įvaikinimo užsienio valstybės piliečiui, privalo būti atsižvelgta į vaiko auklėjimo paveldimumą, etninę kilmę, religinę ir kultūrinę priklausomybę ir gimtąją kalbą, taip pat ar valstybės, į kurią vaikas įvaikinamas, teisė atitinka 1993 m. gegužės 29 d. Hagos konvencijos dėl vaikų apsaugos ir bendradarbiavimo tarptautinio įvaikinimo srityje, reikalavimus.
+5. Sprendžiant klausimą dėl vaiko įvaikinimo šio straipsnio 1 dalyje nurodytam asmeniui, privalo būti atsižvelgta į vaiko auklėjimo paveldimumą, etninę kilmę, religinę ir kultūrinę priklausomybę ir gimtąją kalbą, taip pat ar valstybės, į kurią vaikas įvaikinamas, teisė atitinka 1993 m. gegužės 29 d. Hagos konvencijos dėl vaikų apsaugos ir bendradarbiavimo tarptautinio įvaikinimo srityje reikalavimus.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 3.225 straipsnis. Įvaikinimo, atlikto užsienyje, pripažinimas
 
@@ -3117,9 +3153,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
-2. Vaiko laikinoji globa (rūpyba) trunka ne ilgiau kaip dvylika mėnesių. Valstybinė vaiko teisių apsaugos institucija Vyriausybės nustatyta tvarka ir terminais informuoja Vyriausybės įgaliotą instituciją apie atvejus, kai vaiko laikinoji globa (rūpyba) trunka ilgiau kaip dvylika mėnesių. Vyriausybės įgaliota institucija per mėnesį nuo šios informacijos gavimo dienos Vyriausybės nustatyta tvarka įvertina šeimai teiktų socialinių paslaugų efektyvumą ir galimybes grąžinti vaiką į šeimą ir įpareigoja valstybinę vaiko teisių apsaugos instituciją priimti sprendimą grąžinti vaiką į šeimą arba sprendimą tęsti vaiko laikinąją globą ir paslaugų teikimą šeimai, arba kreiptis į teismą dėl vaiko nuolatinės globos (rūpybos) nustatymo.
+2. Vaiko laikinoji globa (rūpyba) trunka ne ilgiau kaip dvylika mėnesių. Nustačiusi, kad tėvai (tėvas ar motina), kuriems teikiamos socialinės paslaugos ir kita kompleksinė pagalba, deda pastangas pakeisti savo elgesį arba yra kitų priežasčių, kurios leidžia pagrįstai manyti, kad egzistuoja reali galimybė grąžinti vaiką į šeimą, valstybinė vaiko teisių apsaugos institucija gali priimti sprendimą tęsti laikinąją globą (rūpybą), tačiau ne ilgiau negu šešis mėnesius. Bendra laikinosios globos (rūpybos) trukmė su pratęsimu negali viršyti aštuoniolikos mėnesių termino.
 
-TAR pastaba. Iki įstatymo Nr. XII-1879 įsigaliojimo (2017-01-01) nustatytai vaiko laikinajai globai (rūpybai) 3.253 straipsnio 2 dalyje nustatytas dvylikos mėnesių terminas pradedamas skaičiuoti nuo šio įstatymo įsigaliojimo dienos.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 Straipsnio pakeitimai:
 
@@ -3133,11 +3171,13 @@ Vaiko laikinoji globa (rūpyba) nustatoma, kai vaiko:
 
 2) tėvai arba turimas vienintelis iš tėvų laikinai negali rūpintis vaiku dėl abiejų tėvų ar vieno iš jų ligos, suėmimo, bausmės atlikimo ar kitų svarbių priežasčių;
 
-3) tėvai arba turimas vienintelis iš tėvų nesirūpina, nesidomi vaiku, netinkamai auklėja, naudoja smurtą prieš vaiką arba kitaip piktnaudžiauja tėvų valdžia ir dėl to kyla pavojus vaiko fiziniam, protiniam, dvasiniam, doroviniam vystymuisi ir saugumui.
+3) tėvai arba turimas vienintelis iš tėvų nesirūpina, nesidomi vaiku, netinkamai auklėja, naudoja smurtą arba kitaip piktnaudžiauja tėvų valdžia ir dėl to kyla pavojus vaiko fiziniam, protiniam, dvasiniam, doroviniam vystymuisi ir saugumui.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 3.255 straipsnis. Vaiko laikinosios globos (rūpybos) pabaiga
 
@@ -3203,15 +3243,31 @@ Vaiko nuolatinė globa (rūpyba) baigiasi, kai vaikas:
 
 3.259 straipsnis. Vaiko globa (rūpyba) šeimoje
 
-1. Vaiko globa (rūpyba) šeimoje – ne daugiau kaip penkių vaikų globa (bendras vaikų skaičius šeimoje su savais vaikais – ne daugiau kaip penki vaikai) natūralioje šeimos aplinkoje.
+1. Vaiko globa (rūpyba) šeimoje – ne daugiau kaip trijų vaikų globa (bendras vaikų skaičius šeimoje su savais vaikais – ne daugiau kaip šeši vaikai) natūralioje šeimos aplinkoje.
 
-2. Bendras vaikų skaičius gali būti didesnis, nei nurodyta šio straipsnio 1 dalyje, kai neišskiriami broliai ir seserys.
+2. Bendras vaikų skaičius gali būti didesnis, negu nurodyta šio straipsnio 1 dalyje, kai neišskiriami broliai ir seserys.
 
-3. Skiriant vaiko globėją, pirmumas teikiamas vaiko artimiesiems giminaičiams, jeigu šie turi tinkamas buities sąlygas ir nėra asmenys ar asmenų grupė, išvardyti šio kodekso 3.269 straipsnyje.
+3. Skiriant vaiko globėją, pirmumas teikiamas vaiko giminaičiams, jeigu šie turi tinkamas buities ir gyvenimo sąlygas ir nėra asmenys ar asmenų grupė, išvardyti šio kodekso 3.269 straipsnyje.
+
+4. Nustatant vaiko globą (rūpybą) šeimoje, globėju (rūpintoju) gali būti skiriamas vienas asmuo arba sutuoktiniai.
+
+5. Kai vaiko globėjais (rūpintojais) paskirti sutuoktiniai, visus klausimus dėl globojamo (rūpinamo) vaiko jie turi siekti spręsti bendru sutarimu.
+
+TAR pastaba. 3.259 straipsnio nuostatos ir 3.260 straipsnio 1 dalies nuostatos dėl maksimalaus vaikų skaičiaus netaikomos iki įstatymo Nr. XIII-1290 įsigaliojimo (2018-07-01) įsteigtoms šeimynoms ir šeimoms, kuriose globojami (rūpinami) vaikai, kol globojamų (rūpinamų) vaikų skaičius dėl jų pilnametystės, grąžinimo tėvams, emancipacijos, santuokos, įvaikinimo ar mirties sumažės iki Civilinio kodekso 3.259 straipsnio 1 dalyje ir 3.260 straipsnio 1 ir 2 dalyse nustatyto vaikų skaičiaus.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 3.260 straipsnis. Vaiko globa (rūpyba) šeimynoje
 
-1. Vaiko globa (rūpyba) šeimynoje – globos forma, kai juridinis asmuo (šeimyna) globoja šešis ir daugiau vaikų (bendras vaikų skaičius šeimynoje su savais vaikais – ne daugiau kaip dvylika vaikų) šeimos aplinkoje.
+1. Vaiko globa (rūpyba) šeimynoje – globos forma, kai juridinis asmuo (šeimyna) globoja keturis ir daugiau vaikų (bendras vaikų skaičius šeimynoje su savais vaikais – ne daugiau kaip aštuoni vaikai) šeimos aplinkoje.
+
+TAR pastaba. 3.259 straipsnio nuostatos ir 3.260 straipsnio 1 dalies nuostatos dėl maksimalaus vaikų skaičiaus netaikomos iki įstatymo Nr. XIII-1290 įsigaliojimo (2018-07-01) įsteigtoms šeimynoms ir šeimoms, kuriose globojami (rūpinami) vaikai, kol globojamų (rūpinamų) vaikų skaičius dėl jų pilnametystės, grąžinimo tėvams, emancipacijos, santuokos, įvaikinimo ar mirties sumažės iki Civilinio kodekso 3.259 straipsnio 1 dalyje ir 3.260 straipsnio 1 ir 2 dalyse nustatyto vaikų skaičiaus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 2. Bendras vaikų skaičius gali būti didesnis, nei nurodyta šio straipsnio 1 dalyje, kai neišskiriami broliai ir seserys, arba mažesnis, jeigu yra globojamas neįgalus vaikas.
 
@@ -3221,15 +3277,19 @@ Vaiko nuolatinė globa (rūpyba) baigiasi, kai vaikas:
 
 3.263 straipsnis. Vaiko nuolatinės globos (rūpybos) nustatymas
 
-Vaiko nuolatinė globa (rūpyba) nustatoma teismo nutartimi pagal rajono (miesto) valstybinės vaiko teisių apsaugos institucijos arba prokuroro pareiškimą.
+Vaiko nuolatinė globa (rūpyba) nustatoma teismo nutartimi pagal valstybinės vaiko teisių apsaugos institucijos arba prokuroro pareiškimą.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 3.264 straipsnis. Vaiko globėjo (rūpintojo) skyrimas
 
-1. Jeigu nustatoma vaiko laikinoji globa (rūpyba), vaiko globėjas (rūpintojas) skiriamas rajono (miesto) savivaldybės administracijos direktoriaus sprendimu pagal to rajono (miesto) valstybinės vaiko teisių apsaugos institucijos teikimą. Rekomendacijas dėl globėjo (rūpintojo) skyrimo valstybinei vaiko teisių apsaugos institucijai gali pateikti valstybinės ir nevalstybinės organizacijos, susijusios su vaiko teisių apsauga.
+1. Jeigu nustatoma vaiko laikinoji globa (rūpyba), vaiko globėjas (rūpintojas) skiriamas savivaldybės administracijos direktoriaus sprendimu. Rekomendacijas dėl globėjo (rūpintojo) skyrimo savivaldybės administracijos direktoriui gali pateikti globos centras, valstybinė vaiko teisių apsaugos institucija, kitos valstybinės institucijos ir įstaigos, nevyriausybinės organizacijos, dirbančios vaiko teisių apsaugos srityje.
 
-2. Rajono (miesto) savivaldybės administracijos direktoriaus sprendime dėl vaiko globėjo (rūpintojo) skyrimo nurodoma: institucijos, priėmusios sprendimą, pavadinimas, sprendimo priėmimo data, vaiko globos (rūpybos) rūšis, vaiko globėjas (rūpintojas), globojamas (rūpinamas) vaikas, vaiko globos (rūpybos) vieta, institucija, atsakinga už globojamam (rūpinamam) vaikui nuosavybės teise priklausančio turto apsaugą, kitos svarbios aplinkybės, turinčios reikšmės vaiko globai (rūpybai) ir jos nustatymui. Kai tai būtina siekiant apsaugoti geriausius vaiko interesus, nustatant vaiko laikinąją globą (rūpybą), globėju ar rūpintoju skiriamo fizinio asmens duomenys šio asmens rašytiniu prašymu ir (ar) vaiko laikinąją globą (rūpybą) nustatančio subjekto sprendimu gali būti neatskleidžiami vaiko tėvams (tėvui arba motinai), kurių globos vaikas neteko. Tokiais atvejais globėjas (rūpintojas) šio kodekso 3.271 straipsnio 5 ir 6 punktuose nustatytas pareigas įgyvendina tarpininkaujant valstybinei vaiko teisių apsaugos institucijai.
+2. Savivaldybės administracijos direktoriaus sprendime dėl vaiko globėjo (rūpintojo) skyrimo nurodoma: institucijos, priėmusios sprendimą, pavadinimas, sprendimo priėmimo data, vaiko globos (rūpybos) rūšis, vaiko globėjas (rūpintojas), budintis globotojas, kai vaiko globa (rūpyba) nustatoma globos centre, globojamas (rūpinamas) vaikas, vaiko globos (rūpybos) vieta, institucija, atsakinga už globojamam (rūpinamam) vaikui nuosavybės teise priklausančio turto apsaugą, kitos svarbios aplinkybės, turinčios reikšmės vaiko globai (rūpybai) ir jos nustatymui. Jei tai būtina siekiant apsaugoti geriausius vaiko interesus, nustatant vaiko laikinąją globą (rūpybą), globėju ar rūpintoju arba budinčiu globotoju skiriamo fizinio asmens duomenys šio asmens rašytiniu prašymu ir (ar) vaiko laikinąją globą (rūpybą) nustatančio subjekto sprendimu gali būti neatskleidžiami vaiko tėvams (tėvui arba motinai), kurių globos vaikas neteko. Tokiais atvejais globėjas (rūpintojas) šio kodekso 3.271 straipsnio 5 ir 6 punktuose nustatytas pareigas įgyvendina tarpininkaujant valstybinei vaiko teisių apsaugos institucijai.
 
-3. Jeigu nustatoma vaiko nuolatinė globa (rūpyba), vaiko globėjas (rūpintojas) skiriamas teismo nutartimi pagal rajono (miesto) valstybinės vaiko teisių apsaugos institucijos pareiškimą.
+3. Jeigu nustatoma vaiko nuolatinė globa (rūpyba), vaiko globėjas (rūpintojas) skiriamas teismo nutartimi pagal valstybinės vaiko teisių apsaugos institucijos pareiškimą.
 
 4. Kai steigiama vaiko globa (rūpyba), atsižvelgiama į mirusių vaiko tėvų (įtėvių) testamente pareikštą valią dėl vaiko globėjo (rūpintojo) skyrimo, jei tai neprieštarauja šio kodekso 3.269 straipsniui.
 
@@ -3253,6 +3313,8 @@ Straipsnio pakeitimai:
 
 Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
+
 3.265 straipsnis. Vaiko globos (rūpybos) vieta
 
 Vaiko globos (rūpybos) vieta gali būti:
@@ -3271,43 +3333,43 @@ Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
 3.266 straipsnis. Vaiko globos (rūpybos) organizavimas
 
-1. Vaiko globą (rūpybą) savo teritorijoje organizuoja rajono (miesto) savivaldybės vaiko teisių apsaugos institucija.
+1. Vaiko globą (rūpybą) pagal šiame kodekse ir įstatymuose nustatytą kompetenciją organizuoja valstybinė vaiko teisių apsaugos institucija ir savivaldybių administracijos.
 
-2. Organizuodama vaiko globą (rūpybą), rajono (miesto) valstybinė vaiko teisių apsaugos institucija bendradarbiauja su kitomis vietos savivaldos ir nevyriausybinėmis institucijomis bei organizacijomis, susijusiomis su vaiko teisių apsauga.
+2. Organizuojant vaiko globą (rūpybą), savivaldybės administracija ir valstybinė vaiko teisių apsaugos institucija bendradarbiauja tarpusavyje ir su globos centru, taip pat kitomis tos savivaldybės institucijomis, nevyriausybinėmis ir kitomis organizacijomis, susijusiomis su vaiko teisių apsauga.
 
-3. Šio straipsnio 1 dalyje nurodyta institucija Vyriausybės nustatyta tvarka bendradarbiauja su kitų rajonų (miestų) vaiko teisių apsaugos institucijomis, keičiasi informacija apie vaikų globos institucijose gyvenančius vaikus, kuriems globa (rūpyba) nustatyta jų teikimu, informuoja kitų rajonų (miestų) vaiko teisių apsaugos institucijas apie asmenis, pareiškusius norą globoti (rūpinti) vaiką ar vaikus, taip pat globoti (rūpinti) vaikus norintiems asmenims teikia informaciją apie savo ir kitų rajonų (miestų) vaiko teisių apsaugos institucijose globojamus (rūpinamus) vaikus.
-
-Papildyta straipsnio dalimi:
-
-Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
+3. Savivaldybių administracijos Vyriausybės nustatyta tvarka bendradarbiauja tarpusavyje, keičiasi informacija apie vaikų globos institucijose gyvenančius vaikus, kuriems globa (rūpyba) nustatyta savivaldybės administracijos direktoriaus sprendimais, praneša viena kitai apie asmenis, pareiškusius norą globoti (rūpinti) vaiką ar vaikus, taip pat globoti (rūpinti) vaikus norintiems asmenims teikia informaciją apie savo ir kitose savivaldybėse globojamus (rūpinamus) vaikus.
 
 4. Vaiko globos (rūpybos) organizavimo tvarką šios knygos pagrindu nustato Vyriausybės patvirtinti Vaiko globos organizavimo nuostatai.
 
-Straipsnio dalies numeracijos pakeitimas:
+Straipsnio pakeitimai:
 
-Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
-3.267 straipsnis. Vaiko globos (rūpybos) priežiūra
+3.267 straipsnis. Vaiko globos (rūpybos) priežiūra
 
-1. Vaiko globą (rūpybą) šeimoje, šeimynoje, globos centre, vaikų globos (rūpybos) institucijoje prižiūri rajono (miesto) valstybinė vaiko teisių apsaugos institucija.
+1. Vaiko globą (rūpybą) šeimoje, šeimynoje, globos centre, vaikų globos institucijoje prižiūri valstybinė vaiko teisių apsaugos institucija.
 
-Straipsnio dalies pakeitimai:
+2. Vykdydama vaiko globos (rūpybos) priežiūrą, valstybinė vaiko teisių apsaugos institucija bendradarbiauja su savivaldybės administracija, globos centru, kitomis valstybės ir savivaldybių institucijomis ir įstaigomis, nevyriausybinėmis organizacijomis, dirbančiomis vaiko teisių apsaugos srityje.
 
-Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
+Straipsnio pakeitimai:
 
-2. Vykdydama vaiko globos (rūpybos) priežiūrą, rajono (miesto) valstybinė vaiko teisių apsaugos institucija bendradarbiauja su kitomis institucijomis, susijusiomis su vaiko teisių apsauga.
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 3.268 straipsnis. Vaiko globėjo (rūpintojo) parinkimo tvarka
 
 1. Vaiko globėjas (rūpintojas) parenkamas atsižvelgiant į jo asmenines savybes, sveikatos būklę, sugebėjimą būti globėju (rūpintoju), jo santykius su netekusiu tėvų globos vaiku bei vaiko interesus.
 
-2. Asmuo, norintis tapti vaiko globėju (rūpintoju), rajono (miesto) valstybinei vaiko teisių apsaugos institucijai pateikia tokius dokumentus:
+2. Asmuo, norintis tapti vaiko globėju (rūpintoju), savivaldybės administracijai pateikia šiuos dokumentus:
 
 1) prašymą, kuriame nurodoma pageidaujamų globoti ir auklėti vaikų skaičius, jų amžius, globos rūšis;
 
 2) Vyriausybės įgaliotos institucijos nustatytos formos sveikatos pažymėjimą;
 
 3) kartu gyvenančių vyresnių kaip šešiolikos metų asmenų rašytinį sutikimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 3.269 straipsnis. Asmuo, kuris negali būti skiriamas vaiko globėju (rūpintoju)
 
@@ -3333,7 +3395,11 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
-5) jeigu anksčiau jo, kaip vaiko globėjo (rūpintojo), įgaliojimai buvo nutraukti šio kodekso 3.246 straipsnyje numatytais pagrindais;
+5) jeigu anksčiau jo, kaip vaiko globėjo (rūpintojo), įgaliojimai buvo nutraukti šio kodekso 3.246 straipsnio 3 dalyje nustatytais pagrindais;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 6) nuteistas už tyčinį nusikaltimą žmoniškumui, žmogaus gyvybei, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai, visuomenės saugumui, dorovei, nusikaltimą, pavojingą žmogaus gyvybei ir sveikatai, sunkų sveikatos sutrikdymą, taip pat nusikaltimą, susijusį su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis, neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas įstatymų nustatyta tvarka. Dėl asmens, nuteisto už kitas nusikalstamas veikas, teisės būti vaiko globėju (rūpintoju) sprendžiama, įvertinus padarytos nusikalstamos (nusikalstamų) veikos (veikų) pobūdį ir pavojingumą bei atsižvelgus į vaiko interesus.
 
@@ -3359,7 +3425,11 @@ Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
 
 3.270 straipsnis. Pasirengimas vaiko globai (rūpybai)
 
-Vaiko globėjo (rūpintojo) pasirengimą globoti (rūpintis) organizuoja ir koordinuoja rajonų (miestų) valstybinės vaiko teisių apsaugos institucijos, kitos šio darbo patirtį turinčios organizacijos ir institucijos.
+Vaiko globėjo (rūpintojo) pasirengimą globoti (rūpintis) organizuoja savivaldybių administracijos, globos centrai, kitos šio darbo patirties turinčios organizacijos ir institucijos.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 3.271 straipsnis. Vaiko globėjo (rūpintojo) pareigos
 
@@ -3371,7 +3441,11 @@ Vaiko globėjo (rūpintojo) pasirengimą globoti (rūpintis) organizuoja ir koor
 
 3) auklėti vaiką;
 
-4) spręsdamas klausimus, susijusius su vaiko interesais, bendradarbiauti su suinteresuotomis valstybės ir savivaldybių institucijomis;
+4) spręsdamas klausimus, susijusius su vaiko interesais, bendradarbiauti su savivaldybės administracija, globos centru, valstybine vaiko teisių apsaugos institucija ir kitomis suinteresuotomis valstybės ir savivaldybių institucijomis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 5) netrukdyti vaikui bendrauti su tėvais, jei tai nekenkia vaiko interesams;
 
@@ -8029,7 +8103,11 @@ Jeigu asmens sveikatos priežiūros paslaugos yra teikiamos vadovaujantis bendra
 
 2. Šio straipsnio 1 dalyje nustatyta taisyklė taip pat taikoma, kai nepilnametis, nors ir yra sukakęs šešiolika metų, tačiau negali būti laikomas sugebančiu protingai įvertinti savo interesus, išskyrus atvejus, kai pacientas, dėl kurio gebėjimo protingai vertinti abejojama, yra pasiekęs pilnametystę ir jam yra nustatyta globa (rūpyba) arba paskirtas globėjas (rūpintojas). Tokiu atveju pareigos yra vykdomos rūpintojui ar globėjui.
 
-3. Jeigu pilnametis pacientas negali būti laikomas sugebančiu protingai vertinti savo interesus ir jeigu jam nenustatyta nei rūpyba, nei globa, visos asmens priežiūros paslaugų teikėjo pareigos pacientui vykdomos asmeniui, kurį pacientas yra raštu įgaliojęs veikti savo vardu. Jeigu tokio įgalioto asmens nėra arba jeigu įgaliotas asmuo nesiėmė būtinų veiksmų, pareigos turi būti vykdomos paciento sutuoktiniui ar sugyventiniui (partneriui), išskyrus atvejus, kai jie to atsisako, o jei sutuoktinio ar sugyventinio (partnerio) nėra, pareigos vykdomos paciento tėvui arba vaikui, išskyrus atvejus, kai šie atsisako.
+3. Jeigu pilnametis pacientas negali būti laikomas sugebančiu protingai vertinti savo interesus ir jeigu jam nenustatyta nei rūpyba, nei globa, visos asmens sveikatos priežiūros paslaugų teikėjo pareigos pacientui vykdomos asmeniui, kurį pacientas yra raštu įgaliojęs veikti savo vardu. Jeigu tokio įgalioto asmens nėra arba jeigu įgaliotas asmuo nesiėmė būtinų veiksmų, pareigos turi būti vykdomos paciento sutuoktiniui ar sugyventiniui (partneriui), išskyrus atvejus, kai jie to atsisako, o jei sutuoktinio ar sugyventinio (partnerio) nėra, pareigos vykdomos paciento tėvui (motinai) arba vienam iš pilnamečių vaikų, arba vienam iš pilnamečių brolių (seserų), arba vienam iš pilnamečių vaikaičių, arba vienam iš senelių, išskyrus atvejus, kai šie atsisako. Į pilnamečio paciento, kuris negali būti laikomas sugebančiu protingai vertinti savo interesus, artimuosius dėl sutikimo, kad jam būtų vykdomos asmens sveikatos priežiūros paslaugų teikėjo pareigos pacientui, kreipiamasi tokiu eiliškumu: į sutuoktinį, sugyventinį (partnerį), tėvus (įtėvius), pilnamečius vaikus, pilnamečius brolius (seseris), pilnamečius vaikaičius, senelius. Gavus šioje dalyje nustatyta pirmumo tvarka vieno iš šių asmenų sutikimą, kad jam būtų vykdomos asmens sveikatos priežiūros paslaugų teikėjo pareigos pacientui, kitų asmenų sutikimas nereikalingas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1081, 2018-04-12, paskelbta TAR 2018-04-23, i. k. 2018-06425
 
 4. Asmens sveikatos priežiūros paslaugų teikėjas vykdo savo pareigas paciento atstovams pagal įstatymą, kaip tai numatyta šio straipsnio 1 ir 2 dalyse, taip pat asmenims, numatytiems 3 dalyje, su sąlyga, kad toks pareigų vykdymas atitiktų atsargumo laipsnį, kurio yra tikimasi iš asmens sveikatos priežiūros paslaugų sąžiningo teikėjo.
 
@@ -10787,6 +10865,30 @@ Nr. XIII-1127, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07479
 
 Lietuvos Respublikos civilinio kodekso 1.111, 1.116 straipsnių ir priedo pakeitimo įstatymas
 
+34.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-645, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16080
+
+Lietuvos Respublikos civilinio kodekso 3.3, 3.153, 3.182, 3.210, 3.212, 3.213, 3.217, 3.218, 3.219, 3.222, 3.224, 3.250, 3.253, 3.254, 3.259, 3.260, 3.261, 3.262, 3.263, 3.264, 3.266, 3.267, 3.268, 3.269, 3.270, 3.271 ir 3.2761 straipsnių pakeitimo, 3.220 straipsnio pripažinimo netekusiu galios ir kodekso papildymo 3.254-1 straipsniu įstatymas
+
+35.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1081, 2018-04-12, paskelbta TAR 2018-04-23, i. k. 2018-06425
+
+Lietuvos Respublikos civilinio kodekso 6.744 straipsnio pakeitimo įstatymas
+
+36.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
+
+Lietuvos Respublikos civilinio kodekso 3.3, 3.153, 3.212, 3.217, 3.219, 3.224, 3.253, 3.254, 3.259, 3.260, 3.261, 3.269 straipsnių pakeitimo, 3.220 straipsnio pripažinimo netekusiu galios ir Kodekso papildymo 3.254-1 straipsniu įstatymo Nr. XIII-645 pakeitimo įstatymas
+
 6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
 
 Motorinės transporto priemonės pirkimo–pardavimo sutartyje privalo būti nurodyti duomenys apie motorinę transporto priemonę, kurią pardavėjas privalo pagal sutartį perduoti pirkėjui. Pardavėjas pirkimo–pardavimo sutartyje privalo pirkėjui nurodyti (deklaruoti) ridos duomenis, visus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta per laikotarpį, kurį pardavėjas yra motorinės transporto priemonės savininkas, taip pat visus jam žinomus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta. Privalomų pirkimo–pardavimo sutartyje nurodyti duomenų apie motorinę transporto priemonę ir jos trūkumus sąrašą tvirtina Vyriausybė arba jos įgaliota institucija.
@@ -10911,13 +11013,23 @@ Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
 
 3.2761 straipsnis. Vaikų globos (rūpybos) apskaita
 
-Vaikų, kuriems nustatyta globa (rūpyba), ir globėjų (rūpintojų) centralizuotą apskaitą tvarko Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka.
+Vaikų, kuriems nustatyta globa (rūpyba), globėjų (rūpintojų), asmenų, pasirengusių globoti (rūpinti) vaiką, ir globėjų (rūpintojų), nušalintų nuo vaiko globėjo (rūpintojo) pareigų, centralizuotą apskaitą tvarko Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka.
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 
-Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
 XIX skyrius
 
 PILNAMEČIŲ ASMENŲ GLOBA IR RŪPYBA
+
+3.2541 straipsnis. Vaiko paėmimas iš jo atstovų pagal įstatymą
+
+1. Kai yra šio kodekso 3.254 straipsnyje nustatyti pagrindai, valstybinė vaiko teisių apsaugos institucija Vaiko teisių apsaugos pagrindų įstatymo nustatyta tvarka gali paimti vaiką iš jo atstovų pagal įstatymą.
+
+2. Valstybinė vaiko teisių apsaugos institucija, paėmusi vaiką šio straipsnio 1 dalyje nurodytu atveju, privalo per tris darbo dienas kreiptis į teismą dėl leidimo paimti vaiką iš jo atstovų pagal įstatymą. Prašymas išduoti leidimą paimti vaiką iš jo atstovų pagal įstatymą nagrinėjamas Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591
 
