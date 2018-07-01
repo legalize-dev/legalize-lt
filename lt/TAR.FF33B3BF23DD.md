@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2018-05-30"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2018-05-30 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-07-31
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
 
@@ -2411,11 +2411,13 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 3) organizuoja ir (ar) dalyvauja susitikimuose, pasitarimuose ar kituose renginiuose su pacientų ir vartotojų organizacijomis bei kitomis suinteresuotomis institucijomis, kuriuose informuoja apie veiksmus ir priemones, kurių imamasi siekiant užkirsti kelią vaistinių preparatų falsifikavimui.
 
-16. Sveikatos apsaugos ministerija, išskyrus šio straipsnio 161 dalyje nurodytą atvejį, gali laikinai leisti tiekti Lietuvos Respublikos rinkai registruotus vaistinius preparatus pakuotėmis užsienio kalba ir su pakuotės lapeliais, parengtais užsienio kalba, jeigu vaistinio preparato gamintojas dėl objektyvių priežasčių, susijusių su vaistinio preparato gamybos, tiekimo sutrikimais arba padidėjusiu vaistinio preparato poreikiu, negali užtikrinti tinkamo ir reikiamo dažnumo vaistinio preparato lietuviškomis pakuotėmis tiekimo, atitinkančio pacientų poreikį, ir nėra galimybės šio vaistinio preparato pakeisti kitais registruotais vaistiniais preparatais lietuviškomis pakuotėmis, kurių yra pakankamai rinkoje. Leidimas išduodamas per 10 darbo dienų ir tik įsitikinus, kad vaistinis preparatas atitinka vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį, ir nustačius būtinas visuomenės sveikatai apsaugoti priemones, kad vaistinis preparatas būtų teisingai identifikuojamas ir tinkamai skiriamas bei vartojamas. Leidimas galioja tol, kol tęsiasi priežastys, dėl kurių jis buvo išduotas, bet ne ilgiau kaip vienus metus nuo leidimo išdavimo datos. Leidimo galiojimo terminas gali būti vieną kartą pratęstas, bet ne ilgiau kaip 6 mėnesiams. Sveikatos apsaugos ministras tvirtina šioje dalyje nurodytų leidimų išdavimo ir pratęsimo tvarkos aprašą, priežasčių objektyvumo vertinimo kriterijus ir būtinų visuomenės sveikatai apsaugoti priemonių sąrašą bei jų taikymo sąlygas.
+16. Valstybinė vaistų kontrolės tarnyba, išskyrus šio straipsnio 161 dalyje nurodytą atvejį, gali laikinai leisti tiekti Lietuvos Respublikos rinkai registruotus vaistinius preparatus pakuotėmis užsienio kalba ir su pakuotės lapeliais, parengtais užsienio kalba, jeigu vaistinio preparato gamintojas, o lygiagrečiai importuojamo vaistinio preparato atveju – jo perpakavimą vykdantis gamintojas dėl objektyvių priežasčių, susijusių su vaistinio preparato gamybos, tiekimo sutrikimais arba padidėjusiu vaistinio preparato poreikiu, negali užtikrinti tinkamo ir reikiamo dažnumo vaistinio preparato lietuviškomis pakuotėmis tiekimo, atitinkančio pacientų poreikį, ir, jeigu vaistinis preparatas nėra kompensuojamasis, nėra galimybės jo pakeisti kitais registruotais nekompensuojamaisiais vaistiniais preparatais lietuviškomis pakuotėmis, kurių yra pakankamai rinkoje. Leidimas išduodamas per 7 darbo dienas ir tik įsitikinus, kad vaistinis preparatas atitinka vaistinio preparato arba lygiagrečiai importuojamo vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį, ir nustačius būtinas visuomenės sveikatai apsaugoti priemones, kad vaistinis preparatas būtų teisingai identifikuojamas ir tinkamai skiriamas bei vartojamas. Leidimas galioja tol, kol tęsiasi priežastys, dėl kurių jis buvo išduotas, bet ne ilgiau kaip vienus metus nuo leidimo išdavimo datos. Jeigu vaistinis preparatas yra kompensuojamasis, leidimas galioja ne ilgiau kaip iki įsigalios sveikatos apsaugos ministro įsakymas dėl naujo Kompensuojamųjų vaistinių preparatų kainyno patvirtinimo ir vaistinį preparatą išduoti (parduoti) gyventojams kaip kompensuojamąjį vaistinį preparatą galima tik leidimo galiojimo metu. Leidimo, jeigu jis išduotas tiekti nekompensuojamąjį vaistinį preparatą, galiojimo terminas gali būti vieną kartą pratęstas, bet ne ilgiau kaip 6 mėnesiams. Sveikatos apsaugos ministras tvirtina šioje dalyje nurodytų leidimų išdavimo ir pratęsimo tvarkos aprašą, priežasčių objektyvumo vertinimo kriterijus ir būtinų visuomenės sveikatai apsaugoti priemonių sąrašą bei jų taikymo sąlygas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
+
+Nr. XIII-1192, 2018-05-24, paskelbta TAR 2018-05-29, i. k. 2018-08644
 
 161. Registruoti vaistiniai preparatai pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, gali būti tiekiami asmens sveikatos priežiūros įstaigoms taikant sveikatos apsaugos ministro nustatytas būtinas visuomenės sveikatai apsaugoti priemones, kad vaistinis preparatas būtų teisingai identifikuojamas ir tinkamai skiriamas bei vartojamas. Tiekiami vaistiniai preparatai turi atitikti vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį, bei gali būti vartojami tik toje asmens sveikatos priežiūros įstaigoje teikiamoms asmens sveikatos priežiūros paslaugoms suteikti.
 
