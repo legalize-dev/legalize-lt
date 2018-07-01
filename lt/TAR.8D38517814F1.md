@@ -4,7 +4,7 @@ identifier: "TAR.8D38517814F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-06-16"
-last_updated: "2018-01-24"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2018-01-24 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-12-21
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
 
@@ -711,7 +711,11 @@ Nr. XI-1981, 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
 
 7. Už patvirtintų savivaldybių atliekų tvarkymo planų priemonių įgyvendinimą, už savivaldybės teritorijoje esančių komunalinių atliekų ir atliekų, kurių turėtojo nustatyti neįmanoma arba kuris neegzistuoja, sutvarkymo organizavimą atsakinga savivaldybės vykdomoji institucija.
 
-8. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka savivaldybė teikia atitinkamam Aplinkos ministerijos regiono aplinkos apsaugos departamentui informaciją apie įstatymuose ir kituose teisės aktuose savivaldybėms nustatytų reikalavimų ir valstybiniame strateginiame atliekų tvarkymo plane nustatytų užduočių vykdymą atliekų tvarkymo srityje.
+8. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka savivaldybė teikia Aplinkos apsaugos departamentui informaciją apie įstatymuose ir kituose teisės aktuose savivaldybėms nustatytų reikalavimų ir valstybiniame strateginiame atliekų tvarkymo plane nustatytų užduočių vykdymą atliekų tvarkymo srityje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-773, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18827
 
 Straipsnio pakeitimai:
 
