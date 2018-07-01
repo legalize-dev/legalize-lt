@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2018-01-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-11-23
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
 
@@ -29,7 +29,11 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato krašto apsaugos sistemos organizavimo, valdymo ir kontrolės pagrindus, karo tarnybos atlikimo ir karių aprūpinimo tvarką, taip pat civilių tarnybos krašto apsaugos sistemoje ypatumus.
+Šis įstatymas nustato krašto apsaugos sistemos organizavimo, valdymo ir kontrolės pagrindus, karo tarnybos atlikimo, karių tarnybos apmokėjimo ir aprūpinimo tvarką, taip pat civilių tarnybos krašto apsaugos sistemoje ypatumus.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -335,11 +339,13 @@ Papildyta straipsnio dalimi:
 
 Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
-4. Krašto apsaugos sistemos institucijos valdo ir (ar) naudoja karines teritorijas savo funkcijoms ir uždaviniams vykdyti. Krašto apsaugos sistemos institucijų bei kariuomenės vienetų vadai (viršininkai) ir kiti pareigūnai atsako už įstatymų ir kitų teisės aktų laikymąsi jų valdomose ar naudojamose karinėse teritorijose. Karinėse teritorijose civilinių institucijų pareigūnai savo funkcijas gali atlikti tik Vyriausybės nustatytais atvejais ir tik kartu dalyvaujant atitinkamoje karinėje teritorijoje kontrolės teises turintiems krašto apsaugos sistemos pareigūnams. Karinių teritorijų kontrolės režimą ir vidaus tvarką pagal savo kompetenciją nustato krašto apsaugos ministras, kariuomenės vadas arba tam deleguotus įgaliojimus turintys dalinių, kitų karinių vienetų, tarnybų ar kitų krašto apsaugos institucijų vadai (viršininkai).
+4. Krašto apsaugos sistemos institucijos valdo ir (ar) naudoja karines teritorijas savo funkcijoms ir uždaviniams vykdyti. Krašto apsaugos sistemos institucijų bei kariuomenės vienetų vadai (viršininkai) ir kiti pareigūnai atsako už įstatymų ir kitų teisės aktų laikymąsi jų valdomose ar naudojamose karinėse teritorijose. Karinėse teritorijose civilinių institucijų pareigūnai savo funkcijas gali atlikti tik Vyriausybės nustatytais atvejais ir tik kartu dalyvaujant atitinkamoje karinėje teritorijoje kontrolės teises turintiems krašto apsaugos sistemos pareigūnams. Karinių teritorijų kontrolės režimą ir vidaus tvarką pagal savo kompetenciją nustato krašto apsaugos ministras, kariuomenės vadas arba įgaliojimus turintys dalinių, kitų karinių vienetų, tarnybų ar kitų krašto apsaugos sistemos institucijų vadai (viršininkai). Karines teritorijas, kurių sąrašus nustato krašto apsaugos ministras, filmuoti, fotografuoti ar kitu būdu vizualizuoti, taip pat vykdyti bepiločių orlaivių skrydžius virš šių karinių teritorijų ir krašto apsaugos ministro nustatytu ne didesniu negu 2 km spinduliu aplink šias teritorijas yra draudžiama, išskyrus įstatymų ar tarptautinių sutarčių numatytus atvejus arba turint krašto apsaugos ministro nustatyta tvarka išduotą leidimą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
+
+Nr. XIII-1208, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09722
 
 5. Krašto apsaugos sistemoje yra karo kapelionai. Jų veiklos sąlygas ir tvarką reglamentuoja krašto apsaugos ministras, derindamas tai su atitinkamų valstybės pripažintų tradicinių Lietuvoje bažnyčių, kurios skiria kapelionus, vadovybe.
 
@@ -509,7 +515,11 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 
 1) vadovauja gynybos politikos įgyvendinimui, krašto apsaugos sistemos ir jos pajėgumų plėtrai, tarptautiniam gynybos bei kariniam bendradarbiavimui, taip pat pagal įstatymų ir kitų teisės aktų nustatytą kompetenciją atstovauja Lietuvos Respublikai NATO, Europos Sąjungos ir kitose tarptautinėse gynybos institucijose;
 
-2) tvirtina krašto apsaugos sistemos institucijų nuostatus (išskyrus teisės aktų nustatytus atvejus) ir karinių specialybių sąrašą, taip pat nustato krašto apsaugos sistemos institucijų ir jų padalinių struktūrą bei pareigybių sąrašus;
+2) tvirtina krašto apsaugos sistemos institucijų (išskyrus Krašto apsaugos ministeriją ir Generolo Jono Žemaičio Lietuvos karo akademiją) nuostatus ir karinių specialybių sąrašą, kartu nustatydamas, kurios iš specialybių laikomos ypatingomis karinėmis specialybėmis, taip pat nustato krašto apsaugos sistemos institucijų administracijų struktūrą ir pareigybių sąrašus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 3) tvirtina Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos didžiausią leistiną žvalgybos pareigūnų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių;
 
@@ -1925,7 +1935,7 @@ vyresnysis eilinis                               �
 
 2) puskarininkių
 
-grandinis                                                                               grandinis
+grandinis                                                                               grandinis
 
 seržantas, seržantas specialistas                       seržantas, seržantas specialistas
 
@@ -2179,13 +2189,19 @@ Straipsnio pakeitimai:
 
 Nr. XII-2102, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19622
 
-58 straipsnis. Karių kvalifikacinės kategorijos
+58 straipsnis. Ypatingų karinių specialybių kvalifikacinės kategorijos
 
-1. Ypatingų karinių specialybių, kurias nustato krašto apsaugos ministras, karių kvalifikacijai žymėti gali būti įsteigtos kvalifikacinės kategorijos.
+Karių kvalifikacijai žymėti nustatomos trys ypatingų karinių specialybių kvalifikacinės kategorijos. Aukščiausia yra pirma kvalifikacinė kategorija, žemiausia – trečia kvalifikacinė kategorija. Prie ypatingų karinių specialybių priskiriamos specialybės, kurioms reikia specialaus pasirengimo ir tam tikrų mokslo žinių bei praktinių įgūdžių dirbti vienoje srityje ir išlaikyti reikiamą kvalifikaciją. Ypatingų karinių specialybių kvalifikacinių kategorijų suteikimo tvarką nustato krašto apsaugos ministras.
 
-2. Karių kvalifikacines kategorijas įsteigia, jų suteikimo sąlygas ir kvalifikacinius reikalavimus nustato krašto apsaugos ministras.
+Straipsnio pakeitimai:
 
-59 straipsnis. Karių atostogos
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
+
+59 straipsnis. Karių atostogos ir kitos lengvatos
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 1. Darbo įstatymų nustatyta tvarka profesinės karo tarnybos kariams suteikiamos 30 kalendorinių dienų kasmetinės atostogos. Kasmetinių atostogų suteikimo eilė sudaroma krašto apsaugos ministro nustatyta tvarka. Kasmetinių atostogų metu profesinės karo tarnybos kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas. Profesinės karo tarnybos kario prašymu arba tiesioginio jo vado (viršininko) sprendimu atsižvelgiant į karinio vieneto parengties reikalavimus, kasmetinės atostogos gali būti suteikiamos dalimis, tačiau viena iš dalių negali būti trumpesnė kaip 14 kalendorinių dienų.
 
@@ -2211,13 +2227,21 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
-4. Nėštumo ir gimdymo atostogos profesinės karo tarnybos kariams suteikiamos darbo įstatymų nustatyta tvarka.
+4. Šio straipsnio 3 dalyje nurodytos atostogos suteikiamos darbo įstatymų nustatyta tvarka, išskyrus šiame straipsnyje nustatytas išimtis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 5. Darbo įstatymų nustatytos trukmės tėvystės atostogos vyrams profesinės karo tarnybos kariams suteikiamos jų prašymu tiesioginio vado (viršininko) sprendimu. Jeigu tarptautinių operacijų kariniame vienete tarnaujantiems profesinės karo tarnybos kariams, atsižvelgiant į karinio vieneto buvimo vietą ir jo parengties reikalavimus, tėvystės atostogų suteikti negalima, jiems išmokama vienkartinė Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų atlyginimo dydžio išmoka.
 
 6. Atostogos vaikui prižiūrėti profesinės karo tarnybos kariams darbo įstatymų nustatyta tvarka suteikiamos jų prašymu tiesioginio vado (viršininko) sprendimu. Atostogos vaikui prižiūrėti profesinės karo tarnybos kariams suteikiamos darbo įstatymuose nustatytam terminui, bet ne ilgiau, negu pasibaigs kario, kuriam suteikiamos atostogos, profesinės karo tarnybos sutarties terminas. Tarptautinių operacijų kariniuose vienetuose tarnaujantiems profesinės karo tarnybos kariams, atsižvelgiant į karinio vieneto buvimo vietą ir jo parengties reikalavimus, atostogos vaikui prižiūrėti suteikiamos ne vėliau kaip per 6 mėnesius po prašymo pateikimo dienos. Suteikus vaiko priežiūros atostogas, karys atleidžiamas iš pareigų ir perkeliamas į laikinąjį profesinės karo tarnybos personalo rezervą. Nesibaigus atostogoms karys gali grįžti į tarnybą, ne vėliau kaip prieš 14 dienų raštu apie tai įspėjęs krašto apsaugos ministrą ar jo įgaliotą vadą (viršininką). Grįžęs į tarnybą karys skiriamas į jo laipsnį atitinkančias pareigas.
 
-7. Mokymosi atostogos profesinės karo tarnybos kariams suteikiamos darbo įstatymų nustatyta tvarka, atsižvelgiant į karinio vieneto parengties reikalavimus. Mokymosi atostogos apmokamos krašto apsaugos ministro nustatytais atvejais ir tvarka.
+7. Neteko galios nuo 2018-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 8. Profesinės karo tarnybos kariams dėl paskyrimo į šio įstatymo 42 straipsnio 3 dalyje nustatytas pareigas ar tarnybą, pasibaigus šių pareigų ar tarnybos terminui ir grįžtantiems į pareigas ar tarnybą Lietuvos Respublikoje, taip pat pasibaigus tarptautinės operacijos ar ilgalaikio plaukiojimo terminui ir grįžtantiems į pareigas ar tarnybą Lietuvos Respublikoje, suteikiamos iki 5 kalendorinių dienų persikėlimo atostogos. Šių atostogų metu profesinės karo tarnybos kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas.
 
@@ -2251,11 +2275,13 @@ Nr. XII-2429, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17526
 
 14. Karo prievolininkams, nepertraukiamai dalyvaujantiems jaunesniųjų karininkų vadų mokymuose 2 mėnesius, suteikiamos 3 kalendorinių dienų atostogos, įskaitant kelionės dienas, o už kiekvienus 2 paskesnius nepertraukiamo dalyvavimo šiuose mokymuose mėnesius papildomai suteikiamos 3 kalendorinės dienos atostogų, įskaitant kelionės dienas, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 9 kalendorinės dienos.
 
-15. Privalomosios pradinės karo tarnybos kariui krašto apsaugos ministro nustatyta tvarka suteikiamos nuo 3 iki 7 kalendorinių dienų atostogos dėl šeiminių aplinkybių. Atostogų dienomis privalomosios pradinės karo tarnybos kariai maistu neaprūpinami, už šias dienas jiems mokami Vyriausybės nustatyto dydžio dienpinigiai.
+15. Kai privalomosios pradinės karo tarnybos kariui gimsta vaikas, kario prašymu karinio vieneto, kuriame jis tarnauja, vado sprendimu jam suteikiamos tėvystės atostogos, kuriomis galima pasinaudoti darbo įstatymų nustatyta tvarka, taip pat krašto apsaugos ministro nustatyta tvarka suteikiamos nuo 3 iki 7 kalendorinių dienų atostogos dėl kitų šeiminių aplinkybių. Atostogų dienomis privalomosios pradinės karo tarnybos kariai maistu neaprūpinami, už šias dienas jiems mokami Vyriausybės nustatyto dydžio dienpinigiai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 16. Kariūnų atostogų trukmę mutatis mutandis reglamentuoja Mokslo ir studijų įstatymas.
 
@@ -2268,6 +2294,18 @@ Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 18. Esant tarnybiniam būtinumui, krašto apsaugos ministro nustatyta tvarka atostogas suteikęs vadas (viršininkas) gali atšaukti karį iš atostogų. Karys negali būti atšauktas iš nėštumo ir gimdymo atostogų.
 
 19. Paskelbus karo ar nepaprastąją padėtį arba mobilizaciją, atostogaujantys kariai, išskyrus tuos, kuriems suteiktos nėštumo ir gimdymo atostogos, privalo nedelsdami grįžti į savo tarnybos vietą.
+
+20. Profesinės karo tarnybos kariams, auginantiems neįgalų vaiką iki aštuoniolikos metų arba du vaikus iki dvylikos metų, suteikiama viena papildoma poilsio diena per mėnesį (arba sutrumpinamas darbo laikas dviem valandomis per savaitę), o auginantiems tris ir daugiau vaikų iki dvylikos metų, – dvi dienos per mėnesį (arba sutrumpinamas darbo laikas keturiomis valandomis per savaitę), mokant kariui jo vidutinį tarnybinį atlyginimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
+
+21. Teisės į šio straipsnio 20 dalyje nustatytas papildomas poilsio dienas neturintiems profesinės karo tarnybos kariams, auginantiems vaiką iki keturiolikos metų, kuris mokosi pagal priešmokyklinio ugdymo, pradinio ugdymo ar pagrindinio ugdymo programas, suteikiama ne mažiau kaip pusė darbo dienos laisvo nuo darbo laiko per metus pirmąją mokslo metų dieną, mokant kariui jo vidutinį tarnybinį atlyginimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 Straipsnio pakeitimai:
 
@@ -2285,35 +2323,37 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 
 ŠEŠTASIS SKIRSNIS
 
-KARIŲ APRŪPINIMAS
+KARIŲ TARNYBOS APMOKĖJIMAS IR APRŪPINIMAS
 
-60 straipsnis. Karių tarnybiniai atlyginimai, priedai ir išmokos
+Pakeistas skirsnio pavadinimas:
 
-1. Privalomosios pradinės karo tarnybos kariams krašto apsaugos ministro nustatyta tvarka kiekvieną mėnesį mokama Vyriausybės nustatyto dydžio išmoka buitinėms išlaidoms. Jiems taip pat gali būti mokamos Vyriausybės nustatyto dydžio premijos už pavyzdingą tarnybą. Premijų mokėjimo sąlygas ir premijavimo tvarką nustato krašto apsaugos ministras.
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
-2. Profesinės karo tarnybos kariams tarnybos apmokėjimo tvarką nustato šis įstatymas. Civilių valstybės tarnautojų darbo apmokėjimo sąlygos jiems netaikomos.
+60 straipsnis. Karių tarnybos apmokėjimas
 
-3. Profesinės karo tarnybos kario tarnybinio atlyginimo dydis priklauso nuo kario laipsnio ir pagal šį laipsnį ištarnautų metų. Profesinės karo tarnybos karių, tarnaujančių Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos, tarnybinių atlyginimų dydžius nustato Žvalgybos įstatymas.
+1. Privalomosios pradinės karo tarnybos kariams krašto apsaugos ministro nustatyta tvarka kiekvieną mėnesį mokama 3,7 bazinės socialinės išmokos dydžio išmoka buitinėms išlaidoms. Jiems taip pat gali būti mokamos 3,7 bazinės socialinės išmokos dydžio premijos už pavyzdingą tarnybą. Šios premijos skiriamos ištarnavus visą Lietuvos Respublikos karo prievolės įstatyme nustatytą privalomosios pradinės karo tarnybos laikotarpį.
 
-4. Tam tikroms profesinės karo tarnybos karių pareigoms, susijusioms su didesne vadų (ne žemesne kaip bataliono vado) ar juos pavaduojančių asmenų atsakomybe ar ypatinga pareigų specifika, nustatomi pareiginiai tarnybinio atlyginimo priedai. Priedai mokami tol, kol karys eina šias pareigas.
+2. Profesinės karo tarnybos karių tarnybos apmokėjimo tvarką nustato šis įstatymas. Civilių valstybės tarnautojų darbo apmokėjimo sąlygos jiems netaikomos. Šis straipsnis netaikomas profesinės karo tarnybos kariams, turintiems žvalgybos pareigūno statusą. Šių karių tarnybos apmokėjimą, kitas išmokas ir skatinimą nustato Žvalgybos įstatymas.
 
-Straipsnio dalies pakeitimai:
+3. Profesinės karo tarnybos karių tarnybos apmokėjimą sudaro tarnybinis atlyginimas ir šio straipsnio 4 dalyje nustatyti priedai. Tarnybinio atlyginimo dydis apskaičiuojamas šio įstatymo 1 priede nustatytą tarnybinio atlyginimo koeficientą, kuris priklauso nuo kario laipsnio ir pagal šį laipsnį ištarnautų metų, padauginus iš Lietuvos Respublikos Seimo patvirtinto atitinkamų metų pareiginės algos (atlyginimo) bazinio dydžio, kuris taikomas apskaičiuojant valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų ir valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareigines algas (atlyginimus) (toliau – bazinis dydis).
 
-Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
+4. Profesinės karo tarnybos kariams skiriami:
 
-5. Profesinės karo tarnybos karių tarnybinių atlyginimų dydžius, taip pat pareigų, kurias einant mokamas pareiginis priedas, sąrašą ir šias pareigas atitinkančių priedų dydžius nustato Vyriausybė. Vyriausybė taip pat gali nustatyti priedus kariams, kurie turi ypatingų karinių specialybių kvalifikacines kategorijas.
+1) priedas už atsakomybę. Kariuomenės vadui už atsakomybę mokamas 3,5 bazinio dydžio priedas per mėnesį, Gynybos štabo viršininkui – 3 bazinių dydžių per mėnesį, pajėgų vadams – 2,5 bazinio dydžio per mėnesį, principinėje kariuomenės struktūroje nurodytų nuolatinių kariuomenės junginių vadams – 2 bazinių dydžių per mėnesį, dalinių ir jiems prilygintų karinių vienetų vadams (viršininkams) – 1,5 bazinio dydžio per mėnesį. Šis priedas mokamas ir profesinės karo tarnybos kariams, laikinai einantiems šiame punkte nurodytas pareigas. Jeigu profesinės karo tarnybos karys, kuriam yra skirtas priedas už atsakomybę, laikinai eina kitas šiame punkte nurodytas pareigas, už kurias jam skiriamas didesnis priedas už atsakomybę, šiuo laikotarpiu jam mokamas didesnis priedas;
 
-6. Profesinės karo tarnybos kariams, nepriekaištingai atliekantiems tarnybines pareigas, gali būti du kartus per metus (Kalėdų ir Velykų proga) išmokamos iki vieno mėnesinio tarnybinio atlyginimo (be pareiginio priedo) dydžio šventinės premijos ir ne daugiau kaip kartą per metus – iki vieno mėnesinio tarnybinio atlyginimo (be pareiginio priedo) dydžio premijos už pavyzdingą tarnybą, jeigu kario tarnyba vertinama labai gerai ar gerai. Premijų dydį, mokėjimo sąlygas ir premijavimo tvarką nustato krašto apsaugos ministras.
+2) priedas už ypatingą pareigų specifiką. Profesinės karo tarnybos karių tiesiogiai vykdomos pareigos, susijusios su ypatinga pareigų specifika, šias pareigas atitinkančių priedų dydžiai nustatyti šio įstatymo 2 priede. Už profesinės karo tarnybos karių tiesiogiai vykdomas pareigas, susijusias su ypatinga pareigų specifika, mokamas tik vienas šio įstatymo 2 priede nustatyto dydžio priedas. Profesinės karo tarnybos kariams, vykdantiems kelias su ypatinga pareigų specifika susijusias pareigas, už kurias nustatyti skirtingo dydžio priedai, mokamas didesnis priedas. Priedas profesinės karo tarnybos kariams, vykdantiems skrydžius kartu su orlaivio įgula ir krašto apsaugos ministro ar jo įgalioto asmens pasiųstiems atlikti tarnybinės užduoties tarptautinės operacijos vietovėje, didinamas 0,17 bazinio dydžio už kiekvieną tarnybos dieną, kai siunčiama iki 90 kalendorinių dienų laikotarpiui. Priedas profesinės karo tarnybos kariams, vykdantiems pratybas ar kovinį budėjimą kartu su laivo įgula bei atliekantiems tarnybą karinių jūrų pajėgų karo laive, plaukiojančiame Lietuvos Respublikos teritorinėje jūroje ar išskirtinėje ekonominėje zonoje, taip pat kitų valstybių teritorinėje jūroje ar išskirtinėje ekonominėje zonoje arba atviroje jūroje, didinamas 0,2 bazinio dydžio už kiekvieną plaukiojimo dieną (išskyrus dienas, kai įplaukiama į kitų valstybių uostus), kai išplaukiama ne trumpiau kaip vienai kalendorinei dienai. Priedas profesinės karo tarnybos kariams, atliekantiems užduotis, kurioms atlikti reikia ypatingos psichologinės ir fizinės ištvermės, apskaičiuojamas proporcingai nustatytam koeficientui, mėnesio kalendorinių dienų skaičiui ir dienų skaičiui, kai Lietuvos Respublikos teritorijoje tiesiogiai buvo vykdomos užduotys, kurioms atlikti reikia ypatingos psichologinės ir fizinės ištvermės;
 
-Straipsnio dalies pakeitimai:
+3) priedas už ypatingų karinių specialybių kvalifikacines kategorijas – 2 bazinių dydžių per mėnesį už pirmą kvalifikacinę kategoriją, 1,4 bazinio dydžio per mėnesį už antrą kvalifikacinę kategoriją ir vieno bazinio dydžio per mėnesį už trečią kvalifikacinę kategoriją. Profesinės karo tarnybos kariams, kuriems suteiktos kelios kvalifikacinės kategorijos, už kurias nustatyti skirtingo dydžio priedai, mokamas didesnis priedas. Šio priedo skyrimo tvarką nustato krašto apsaugos ministras.
 
-Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
+5. Profesinės karo tarnybos kariams, nepriekaištingai atliekantiems tarnybines pareigas ir ne mažiau kaip 6 mėnesius ištarnavusiems krašto apsaugos sistemoje, gali būti du kartus per metus (Kalėdų ir Velykų proga) išmokamos iki vieno tarnybinio atlyginimo dydžio šventinės premijos. Šventinės premijos Kalėdų ir Velykų progomis nemokamos, jeigu profesinės karo tarnybos karys yra perkeltas į laikinąjį profesinės karo tarnybos personalo rezervą ir jam nemokamas tarnybinis atlyginimas.
 
-7. Kariams savanoriams ir kitiems aktyviojo rezervo kariams, taip pat parengtojo rezervo kariams, pašauktiems į pratybas, mokymus ar vykdyti tarnybos užduočių, iš Krašto apsaugos ministerijos biudžete šiems tikslams skirtų asignavimų už tarnybos dienas mokamas atlyginimas. Tarnybą rezerve atliekančių karių atlyginimo dydžius nustato Vyriausybė.
+6. Profesinės karo tarnybos kariams gali būti skiriamos premijos už pavyzdingą tarnybą, jeigu kario tarnyba vertinama labai gerai – vieno tarnybinio atlyginimo dydžio, gerai – 0,5 tarnybinio atlyginimo dydžio.
 
-8. Krašto apsaugos ministras už ypatingą pasižymėjimą tarnyboje gali apdovanoti karius piniginėmis premijomis ar vardinėmis dovanomis.
+7. Karių savanorių ir kitų aktyviojo rezervo karių, taip pat parengtojo rezervo karių, pašauktų į pratybas, mokymus ar vykdyti tarnybos užduočių, tarnybinį atlyginimą, mokamą už tarnybos dienas, sudaro šio įstatymo 1 priede atitinkamam profesinės karo tarnybos kario laipsniui pirmaisiais tarnybos metais taikomas tarnybinio atlyginimo koeficientas, padaugintas iš bazinio dydžio. Jeigu kario savanorio ar kito aktyviojo rezervo kario, taip pat parengtojo rezervo kario, pašaukto į pratybas, mokymus ar vykdyti tarnybos užduočių, gaunamas vidutinis darbo užmokestis yra didesnis nei kariams savanoriams ir kitiems aktyviojo rezervo kariams, taip pat parengtojo rezervo kariams apskaičiuotas tarnybinis atlyginimas, jam išmokamas jo vidutinio darbo užmokesčio dydžio atlyginimas, neviršijantis dviejų Lietuvos statistikos departamento paskutinį kartą paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dydžių.
 
-9. Profesinės karo tarnybos kariams už pirmus 4 nepertraukiamos profesinės karo tarnybos metus, išskyrus šio straipsnio 10 dalyje nurodytus karius, mokama vienkartinė piniginė išmoka, išskyrus atvejus, kai jų tarnyba įvertinta nepatenkinamai. Į 4 metų nepertraukiamos tarnybos laikotarpį neįskaitomi laikotarpiai, kai karys buvo perkeltas į laikinąjį profesinės karo tarnybos personalo rezervą šio įstatymo 42 straipsnio 2 dalyje numatytais atvejais. Išmokos dydis apskaičiuojamas pagal Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinį dydį, nustatytą tiems metams, kuriais profesinės karo tarnybos karys įgyja teisę gauti šią išmoką, ir priklauso nuo profesinės karo tarnybos kario tarnybos vertinimo rezultatų:
+8. Krašto apsaugos ministras už ypatingą pasižymėjimą tarnyboje gali apdovanoti karius iki vieno tarnybinio atlyginimo dydžio piniginėmis premijomis ar vardinėmis dovanomis.
+
+9. Profesinės karo tarnybos kariams, išskyrus šio straipsnio 10 dalyje nurodytus karius, už pirmus ketverius nepertraukiamos profesinės karo tarnybos metus mokama vienkartinė piniginė išmoka, išskyrus atvejus, kai jų tarnyba įvertinta nepatenkinamai. Į ketverių nepertraukiamos profesinės karo tarnybos metų laikotarpį neįskaitomi laikotarpiai, kai karys buvo perkeltas į laikinąjį profesinės karo tarnybos personalo rezervą šio įstatymo 42 straipsnio 2 dalyje numatytais atvejais. Išmokos dydis apskaičiuojamas pagal bazinį dydį, nustatytą tiems metams, kuriais profesinės karo tarnybos karys įgyja teisę gauti šią išmoką, ir priklauso nuo profesinės karo tarnybos kario žinių ir įgūdžių, reikalingų tarnybai atlikti, įvertinimo rezultatų:
 
 1) 45 bazinių dydžių – profesinės karo tarnybos kariams, kurių tarnyba įvertinta labai gerai;
 
@@ -2321,13 +2361,7 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 
 3) 20 bazinių dydžių – profesinės karo tarnybos kariams, kurių tarnyba įvertinta patenkinamai.
 
-TAR pastaba. 60 straipsnio 9 dalyje nustatytos vienkartinės piniginės išmokos skiriamos profesinės karo tarnybos kariams, kariams savanoriams ir kitiems aktyviojo rezervo kariams, profesinės karo tarnybos, kario savanorio ar aktyviojo rezervo kario tarnybos sutartis sudariusiems po įstatymo Nr. XII-2489 įsigaliojimo dienos (2016-07-01).
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
-
-10. Pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams, baigusiems karo mokymo įstaigą ar Lietuvos aukštąją mokyklą ir karinio rengimo programą Akademijoje, mokama vienkartinė piniginė išmoka, išskyrus atvejus, kai jie įvertinti nepatenkinamai. Išmokos dydis priklauso nuo kariūno vertinimo, kurio tvarką ir kriterijus nustato krašto apsaugos ministras, rezultatų:
+10. Pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams, baigusiems karo mokymo įstaigą ar Lietuvos aukštąją mokyklą ir karinio rengimo programą Akademijoje, mokama vienkartinė piniginė išmoka, išskyrus atvejus, kai jie įvertinti nepatenkinamai. Išmokos dydis priklauso nuo kariūno vertinimo, kurio tvarką ir kriterijus, vertindamas kariūno mokymosi rezultatus ir gebėjimą tinkamai eiti vadovaujamas pareigas, nustato krašto apsaugos ministras, rezultatų:
 
 1) 7,3 bazinio dydžio – įvertinus labai gerai;
 
@@ -2335,11 +2369,7 @@ Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
 3) 3,3 bazinio dydžio – įvertinus patenkinamai.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
-
-11. Kariams savanoriams ir kitiems aktyviojo rezervo kariams už pirmus 4 nepertraukiamos tarnybos metus pagal kario savanorio ar aktyviojo rezervo kario sutartį mokama vienkartinė piniginė išmoka, išskyrus atvejus, kai jų tarnyba įvertinta nepatenkinamai. Išmoka skiriama, kai per pirmų 4 nepertraukiamos tarnybos metų laikotarpį karys savanoris ar kitas aktyviojo rezervo karys kiekvienais metais ištarnauja ne mažiau kaip atitinkamais metais kariuomenės vado nustatytą aktyviojo rezervo karių pratybų ir mokymų trukmę, išskyrus ligos, nėštumo ir gimdymo atostogų laikotarpius. Išmokos dydis apskaičiuojamas pagal Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinį dydį, nustatytą tiems metams, kuriais karys savanoris ir kitas aktyviojo rezervo karys įgyja teisę gauti šią išmoką, ir priklauso nuo kario savanorio ir kito aktyviojo rezervo kario tarnybos vertinimo rezultatų:
+11. Kariams savanoriams ir kitiems aktyviojo rezervo kariams už pirmus ketverius nepertraukiamos tarnybos metus pagal kario savanorio ar aktyviojo rezervo kario sutartį mokama vienkartinė piniginė išmoka, išskyrus atvejus, kai jų tarnyba įvertinta nepatenkinamai. Išmoka skiriama, kai per pirmų ketverių nepertraukiamos tarnybos metų laikotarpį karys savanoris ar kitas aktyviojo rezervo karys kiekvienais metais ištarnauja ne mažiau kaip atitinkamais metais kariuomenės vado nustatytą aktyviojo rezervo karių pratybų ir mokymų laiką, išskyrus ligos, nėštumo ir gimdymo atostogų laikotarpius. Išmokos dydis apskaičiuojamas pagal bazinį dydį, nustatytą tiems metams, kuriais karys savanoris ar kitas aktyviojo rezervo karys įgyja teisę gauti šią išmoką, ir priklauso nuo kario savanorio ar kito aktyviojo rezervo kario žinių ir įgūdžių, reikalingų tarnybai atlikti, įvertinimo rezultatų:
 
 1) 9 bazinių dydžių – kariams savanoriams ir kitiems aktyviojo rezervo kariams, kurių tarnyba įvertinta labai gerai;
 
@@ -2347,23 +2377,9 @@ Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 3) 4 bazinių dydžių – kariams savanoriams ir kitiems aktyviojo rezervo kariams, kurių tarnyba įvertinta patenkinamai.
 
-TAR pastaba. 60 straipsnio 11 dalyje nustatytos vienkartinės piniginės išmokos skiriamos profesinės karo tarnybos kariams, kariams savanoriams ir kitiems aktyviojo rezervo kariams, profesinės karo tarnybos, kario savanorio ar aktyviojo rezervo kario tarnybos sutartis sudariusiems po įstatymo Nr. XII-2489 įsigaliojimo dienos (2016-07-01).
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
-
-12. Išmokos ir premijos, numatytos šio straipsnio 1, 6, 8, 9, 10 ir 11 dalyse, mokamos ar dovanos perkamos iš Krašto apsaugos ministerijai skirtų asignavimų. Premijos mokamos iš Krašto apsaugos ministerijos sutaupytų darbo užmokesčio lėšų.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+12. Išmokos ir premijos, numatytos šio straipsnio 1, 5, 6, 8, 9, 10 ir 11 dalyse, mokamos ar dovanos perkamos iš Krašto apsaugos ministerijai skirtų asignavimų. Premijos mokamos krašto apsaugos ministro nustatyta tvarka iš Krašto apsaugos ministerijos sutaupytų darbo užmokesčio lėšų.
 
 13. Išmokos, numatytos šio straipsnio 9, 10 ir 11 dalyse, išmokamos per 30 kalendorinių dienų po profesinės karo tarnybos kario, kariūno, kario savanorio ir kito aktyviojo rezervo kario tarnybos vertinimo.
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
 Straipsnio pakeitimai:
 
@@ -2378,6 +2394,10 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 Nr. XI-2292, 2012-10-17, Žin., 2012, Nr. 129-6466 (2012-11-08)
 
 Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 61 straipsnis. Karių tarnybos užsienyje ar tarptautinių operacijų metu sąlygos
 
@@ -2509,13 +2529,23 @@ Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
 6) ne krašto apsaugos sistemoje tarnaujantiems (dirbantiems) asmenims karinių operacijų užsienyje metu ir tais atvejais, kai kariuomenė teikia pagalbą kitoms valstybės ir savivaldybių institucijoms;
 
-7) žvalgybos pareigūnams.
+7) žvalgybos pareigūnams;
+
+8) atsargos ir dimisijos kariams, sužeistiems dėl priežasčių, susijusių su karo tarnyba ar kario statusu.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 2. Pirminės asmens sveikatos priežiūros paslaugos, finansuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, kariuomenės padaliniuose teikiamos tik tiems šio straipsnio 1 dalyje nurodytiems asmenims, kurie apdrausti privalomuoju sveikatos draudimu. Šios paslaugos kariuomenės padaliniuose taip pat teikiamos kitiems privalomuoju sveikatos draudimu apdraustiems asmenims. Pirminių asmens sveikatos priežiūros paslaugų, finansuojamų iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, teikimo kariuomenės padaliniuose sąlygas ir tvarką nustato sveikatos apsaugos ministras, suderinęs su krašto apsaugos ministru.
 
 3. Šio straipsnio 1 ir 5 dalyse nurodytų karių ir kitų asmenų sveikatinimo veiklą Lietuvoje organizuoja ir vykdo kariuomenės padaliniai, taip pat naudojamasi kitų nacionalinės sveikatos sistemos asmens ar visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis ir patarnavimais, už kuriuos atsiskaitoma Vyriausybės nustatyta tvarka. Užsienyje tarptautinėse operacijose ar specialiosiose misijose dalyvaujančių karių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, sveikatinimo veiklą organizuoja ir vykdo Lietuvos kariuomenės padaliniai arba užsienio šalių ar tarptautinių organizacijų sveikatinimo veiklą vykdančios institucijos.
 
-4. Tikrosios karo tarnybos, atsargos ir dimisijos kariams, sužeistiems dėl priežasčių, susijusių su karo tarnyba ar kario statusu, iš Krašto apsaugos ministerijai skirtų asignavimų apmokamos užsienio valstybėje kariui suteiktos sveikatos priežiūros paslaugos, kelionės į gydymo įstaigą ir atgal išlaidos, kartu su kariu vykstančio asmens kelionės ir gyvenamojo ploto nuomos, taip pat protezų ir ortopedijos technikos įsigijimo ir priežiūros išlaidos. Šių išlaidų apmokėjimo sąlygas ir tvarką nustato Vyriausybė arba jos įgaliota institucija.
+4. Tikrosios karo tarnybos, atsargos ir dimisijos kariams, sužeistiems dėl priežasčių, susijusių su karo tarnyba ar kario statusu, iš Krašto apsaugos ministerijai skirtų asignavimų apmokamos užsienio valstybėje kariui suteiktos sveikatos priežiūros paslaugos, kelionės į gydymo įstaigą ir atgal išlaidos, kartu su kariu vykstančio asmens kelionės ir gyvenamojo ploto nuomos, taip pat protezų ir ortopedijos technikos įsigijimo, pritaikymo kario poreikiams ir priežiūros išlaidos. Šių išlaidų apmokėjimo sąlygas ir tvarką nustato Vyriausybė arba jos įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 5. Tikrosios karo tarnybos karių, civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų, žvalgybos pareigūnų, asmenų, stojančių ar šaukiamų į tikrąją karo tarnybą, civilinę krašto apsaugos tarnybą, tarnybą žvalgybos institucijoje ar Lietuvos šaulių sąjungos kovinius būrius, karių savanorių, kitų aktyviojo ir parengtojo rezervo karių sveikatos tikrinimo nustatant tinkamumą tarnybai, atrankos pagal sveikatos būklę tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
@@ -2555,41 +2585,45 @@ Nr. XII-2510, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20647
 
 67 straipsnis. Vienkartinės kompensacijos kario žūties (mirties) ar sveikatos sutrikimo atveju
 
-1. Kariui žuvus (mirus) ar sutrikus jo sveikatai dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, arba kai karys nužudytas ar jo sveikata sutrikdyta dėl priežasčių, susijusių su kario statusu, iš Krašto apsaugos ministerijai skirtų asignavimų išmokama šio straipsnio nustatytomis sąlygomis ir tvarka šio straipsnio 6, 7, 8, 9, 10, 11, 12 ir 13 dalyse nustatyto dydžio vienkartinė kompensacija. Šio straipsnio 6, 7, 8, 9, 10, 11 ir 12 dalyse nustatyta vienkartinė kompensacija mažinama priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu. Šio straipsnio 13 dalyje nustatyta vienkartinė kompensacija mažinama priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu.
+1. Kariui žuvus (mirus) ar sutrikus jo sveikatai dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, arba kai karys nužudytas ar jo sveikata sutrikdyta dėl priežasčių, susijusių su kario statusu, iš Krašto apsaugos ministerijai skirtų asignavimų išmokama šio straipsnio nustatytomis sąlygomis ir tvarka šio straipsnio 6, 7, 8, 9, 10, 11, 12, 13 ir 14 dalyse nustatyto dydžio vienkartinė kompensacija. Šio straipsnio 6, 7, 8, 9, 10, 11 ir 12 dalyse nustatyta vienkartinė kompensacija mažinama priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu ir pagal šio straipsnio 13 dalį išmokėtos kompensacijos dydžiu. Šio straipsnio 14 dalyje nustatyta vienkartinė kompensacija mažinama priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu.
 
-2. Kariui žuvus (mirus) dėl priežasčių, susijusių su kario statusu, išskyrus šio straipsnio 1 dalyje numatytus atvejus, iš Krašto apsaugos ministerijai skirtų asignavimų išmokama šio straipsnio nustatytomis sąlygomis ir tvarka šio straipsnio 14 dalyje nustatyto dydžio vienkartinė kompensacija, kuri mažinama priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu.
+2. Kariui žuvus (mirus) dėl priežasčių, susijusių su kario statusu, išskyrus šio straipsnio 1 dalyje numatytus atvejus, iš Krašto apsaugos ministerijai skirtų asignavimų išmokama šio straipsnio nustatytomis sąlygomis ir tvarka šio straipsnio 15 dalyje nustatyto dydžio vienkartinė kompensacija, kuri mažinama priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu.
 
-3. Šiame straipsnyje nustatytos vienkartinės kompensacijos nemokamos, jeigu karys žuvo (mirė) ar jo sveikata sutriko darant nusikalstamą veiką, nevykdant teisėto įsakymo, nesilaikant saugumo technikos ar pareigybės nuostatų reikalavimų, eismo įvykio metu, jeigu šis karys vairavo transporto priemonę neturėdamas teisės ją vairuoti arba perdavė transporto priemonę vairuoti asmeniui, apsvaigusiam nuo alkoholio, narkotikų, psichotropinių ar psichiką veikiančių medžiagų arba neturinčiam teisės ją vairuoti, taip pat jeigu kario žūties (mirties) ar sveikatos sutrikimo priežastis buvo apsvaigimas nuo alkoholio, narkotinių, psichotropinių ar psichiką veikiančių medžiagų, jeigu karys nusižudė, kėsinosi nusižudyti ar tyčia susižalojo.
+3. Šiame straipsnyje nustatytos vienkartinės kompensacijos nemokamos, jeigu karys žuvo (mirė) ar jo sveikata sutriko darant nusikalstamą veiką, nevykdant teisėto įsakymo, nesilaikant saugumo technikos ar pareigybės nuostatų reikalavimų, eismo įvykio metu, jeigu šis karys vairavo transporto priemonę neturėdamas teisės ją vairuoti arba perdavė transporto priemonę vairuoti asmeniui, apsvaigusiam nuo alkoholio, narkotinių, psichotropinių ar psichiką veikiančių medžiagų arba neturinčiam teisės ją vairuoti, taip pat jeigu kario žūties (mirties) ar sveikatos sutrikimo priežastis buvo apsvaigimas nuo alkoholio, narkotinių, psichotropinių ar psichiką veikiančių medžiagų, jeigu karys nusižudė, kėsinosi nusižudyti ar tyčia susižalojo.
 
-4. Kario sveikatos sutrikimo sunkumo laipsnį nustato Lietuvos kariuomenės Karinės medicinos ekspertizės komisija, sudaroma ir veikianti Vyriausybės nustatyta tvarka. Kario žūties (mirties) ar sveikatos sutrikimo priežastinį ryšį su tarnybinių pareigų vykdymu ar kario statusu nustato krašto apsaugos ministro sudaryta tarnybinio tyrimo komisija. Tarnybinio tyrimo komisijos darbo tvarką ir kario žūties (mirties) ar sveikatos sutrikimo priežastinio ryšio su tarnybinių pareigų vykdymu ar kario statusu nustatymo kriterijus nustato krašto apsaugos ministras.
+4. Kario sveikatos sutrikimo sunkumo laipsnį nustato Lietuvos kariuomenės Karinės medicinos ekspertizės komisija, sudaroma ir veikianti Vyriausybės nustatyta tvarka. Kario žūties (mirties) ar sveikatos sutrikimo priežastinį ryšį su tarnybinių pareigų vykdymu ar kario statusu nustato krašto apsaugos ministro sudaryta tarnybinio tyrimo komisija, išskyrus šio straipsnio 13 dalyje nustatytus atvejus. Tarnybinio tyrimo komisijos darbo tvarką ir kario žūties (mirties) ar sveikatos sutrikimo priežastinio ryšio su tarnybinių pareigų vykdymu ar kario statusu nustatymo kriterijus nustato krašto apsaugos ministras.
 
 5. Kario žūties (mirties) ar sveikatos sutrikimo priežastinis ryšys su tarnybinių pareigų vykdymu ar kario statusu nustatomas, jeigu nuo kario mirties fakto ar sveikatos sutrikimo nustatymo nepraėjo daugiau kaip 3 metai. Tarnybinio tyrimo ir Lietuvos kariuomenės Karinės medicinos ekspertizės komisijų sprendimai gali būti skundžiami teismui per 10 dienų nuo jų įteikimo kariui arba kitiems šio straipsnio 15 dalyje nurodytiems asmenims ar jų atstovams.
 
-6. Dėl sveikatos sutrikimo netekusiam 75–100 procentų darbingumo kariui mokama 60 atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Kariūnui mokama 60 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 30 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos.
+6. Dėl sveikatos sutrikimo netekusiam 75–100 procentų darbingumo kariui mokama 60 atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Kariūnui mokama 60 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos.
 
-7. Dėl sveikatos sutrikimo netekusiam 60–70 procentų darbingumo kariui mokama 48 atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Kariūnui mokama 48 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 24 mėnesius nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos.
+7. Dėl sveikatos sutrikimo netekusiam 60–70 procentų darbingumo kariui mokama 48 atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Kariūnui mokama 48 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos.
 
-8. Dėl sveikatos sutrikimo netekusiam 45–55 procentų darbingumo kariui mokama 36 atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Kariūnui mokama 36 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 18 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos.
+8. Dėl sveikatos sutrikimo netekusiam 45–55 procentų darbingumo kariui mokama 36 atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Kariūnui mokama 36 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos.
 
-9. Dėl sveikatos sutrikimo netekusiam iki 40 procentų darbingumo kariui mokama 30 atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Kariūnui mokama 30 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos.
+9. Dėl sveikatos sutrikimo netekusiam iki 40 procentų darbingumo kariui mokama 30 atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Kariūnui mokama 30 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos.
 
-10. Jeigu sunkaus sveikatos sutrikimo atveju karys po gydymo (pasibaigus laikinojo nedarbingumo terminui) netapo neįgalus, tačiau liko liekamųjų reiškinių (sutriko motorinės ir (ar) sensorinės, ir (ar) psichinės funkcijos) ir dėl to sumažėjo kario tinkamumas tarnybai pagal sveikatos būklę, kuris nustatomas praėjus 12 mėnesių nuo laikinojo nedarbingumo termino pabaigos, jam mokama 24 atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Jeigu sunkaus sveikatos sutrikimo atveju kariūnas po gydymo netapo neįgalus, tačiau liko liekamųjų reiškinių (sutriko motorinės ir (ar) sensorinės, ir (ar) psichinės funkcijos) ir dėl to sumažėjo kariūno tinkamumas tarnybai pagal sveikatos būklę, kuris nustatomas praėjus 12 mėnesių nuo laikinojo nedarbingumo termino pabaigos, jam mokama 24 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos. Šioje dalyje numatyta vienkartinė kompensacija nemokama, jeigu vienkartinė kompensacija kariui išmokėta šio straipsnio 8 ar 9 dalyje numatytais atvejais.
+10. Jeigu sunkaus sveikatos sutrikimo atveju karys po gydymo (pasibaigus laikinojo nedarbingumo terminui) netapo neįgalus, tačiau liko liekamųjų reiškinių (sutriko motorinės ir (ar) sensorinės, ir (ar) psichinės funkcijos) ir dėl to sumažėjo kario tinkamumas tarnybai pagal sveikatos būklę, kuris nustatomas praėjus 12 mėnesių nuo laikinojo nedarbingumo termino pabaigos, jam mokama 24 atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Jeigu sunkaus sveikatos sutrikimo atveju kariūnas po gydymo netapo neįgalus, tačiau liko liekamųjų reiškinių (sutriko motorinės ir (ar) sensorinės, ir (ar) psichinės funkcijos) ir dėl to sumažėjo kariūno tinkamumas tarnybai pagal sveikatos būklę, kuris nustatomas praėjus 12 mėnesių nuo laikinojo nedarbingumo termino pabaigos, jam mokama 24 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos. Šioje dalyje numatyta vienkartinė kompensacija nemokama, jeigu vienkartinė kompensacija kariui išmokėta šio straipsnio 8 ar 9 dalyje numatytais atvejais.
 
-11. Jeigu apysunkio sveikatos sutrikimo atveju karys po gydymo (pasibaigus laikinojo nedarbingumo terminui) netapo neįgalus, tačiau liko liekamųjų reiškinių (sutriko motorinės ir (ar) sensorinės, ir (ar) psichinės funkcijos) ir dėl to sumažėjo kario tinkamumas tarnybai pagal sveikatos būklę, kuris nustatomas praėjus 6 mėnesiams nuo laikinojo nedarbingumo termino pabaigos, jam mokama 18 atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Jeigu apysunkio sveikatos sutrikimo atveju kariūnas po gydymo (pasibaigus laikinojo nedarbingumo terminui) netapo neįgalus, tačiau liko liekamųjų reiškinių (sutriko motorinės ir (ar) sensorinės, ir (ar) psichinės funkcijos) ir dėl to sumažėjo kariūno tinkamumas tarnybai pagal sveikatos būklę, kuris nustatomas praėjus 6 mėnesiams nuo laikinojo nedarbingumo termino pabaigos, jam mokama 18 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos. Šioje dalyje numatyta vienkartinė kompensacija nemokama, jeigu vienkartinė kompensacija kariui išmokėta šio straipsnio 8 ar 9 dalyje numatytais atvejais.
+11. Jeigu apysunkio sveikatos sutrikimo atveju karys po gydymo (pasibaigus laikinojo nedarbingumo terminui) netapo neįgalus, tačiau liko liekamųjų reiškinių (sutriko motorinės ir (ar) sensorinės, ir (ar) psichinės funkcijos) ir dėl to sumažėjo kario tinkamumas tarnybai pagal sveikatos būklę, kuris nustatomas praėjus 6 mėnesiams nuo laikinojo nedarbingumo termino pabaigos, jam mokama 18 atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Jeigu apysunkio sveikatos sutrikimo atveju kariūnas po gydymo (pasibaigus laikinojo nedarbingumo terminui) netapo neįgalus, tačiau liko liekamųjų reiškinių (sutriko motorinės ir (ar) sensorinės, ir (ar) psichinės funkcijos) ir dėl to sumažėjo kariūno tinkamumas tarnybai pagal sveikatos būklę, kuris nustatomas praėjus 6 mėnesiams nuo laikinojo nedarbingumo termino pabaigos, jam mokama 18 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos. Šioje dalyje numatyta vienkartinė kompensacija nemokama, jeigu vienkartinė kompensacija kariui išmokėta šio straipsnio 8 ar 9 dalyje numatytais atvejais.
 
-12. Jeigu lengvo sveikatos sutrikimo atveju karys po gydymo netapo neįgalus, tačiau liko liekamųjų reiškinių (sutriko motorinės ir (ar) sensorinės, ir (ar) psichinės funkcijos) ir dėl to sumažėjo kario tinkamumas tarnybai pagal sveikatos būklę, kuris nustatomas praėjus 3 mėnesiams nuo laikinojo nedarbingumo termino pabaigos, kariui mokama 12 atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Jeigu lengvo sveikatos sutrikimo atveju kariūnas netapo neįgalus, tačiau liko liekamųjų reiškinių (sutriko motorinės ir (ar) sensorinės, ir (ar) psichinės funkcijos) ir dėl to sumažėjo kariūno tinkamumas tarnybai pagal sveikatos būklę, kuris nustatomas praėjus 3 mėnesiams nuo laikinojo nedarbingumo termino pabaigos, jam mokama 12 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos. Šioje dalyje numatyta vienkartinė kompensacija nemokama, jeigu vienkartinė kompensacija kariui išmokėta šio straipsnio 8 ar 9 dalyje numatytais atvejais.
+12. Jeigu lengvo sveikatos sutrikimo atveju karys po gydymo netapo neįgalus, tačiau liko liekamųjų reiškinių (sutriko motorinės ir (ar) sensorinės, ir (ar) psichinės funkcijos) ir dėl to sumažėjo kario tinkamumas tarnybai pagal sveikatos būklę, kuris nustatomas praėjus 3 mėnesiams nuo laikinojo nedarbingumo termino pabaigos, kariui mokama 12 atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Jeigu lengvo sveikatos sutrikimo atveju kariūnas netapo neįgalus, tačiau liko liekamųjų reiškinių (sutriko motorinės ir (ar) sensorinės, ir (ar) psichinės funkcijos) ir dėl to sumažėjo kariūno tinkamumas tarnybai pagal sveikatos būklę, kuris nustatomas praėjus 3 mėnesiams nuo laikinojo nedarbingumo termino pabaigos, jam mokama 12 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos. Šioje dalyje numatyta vienkartinė kompensacija nemokama, jeigu vienkartinė kompensacija kariui išmokėta šio straipsnio 8 ar 9 dalyje numatytais atvejais.
 
-13. Kariui žuvus (mirus) dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, ar kai karys nužudytas dėl priežasčių, susijusių su kario statusu, mokama 120 atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija, bet ne mažiau kaip po 100 Vyriausybės nustatytų minimaliųjų mėnesinių algų kiekvienam kario išlaikytiniui. Kariūnui žuvus (mirus) dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, ar kai kariūnas nužudytas dėl priežasčių, susijusių su kario statusu, mokama 120 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija, bet ne mažiau kaip po 100 Vyriausybės nustatytų minimaliųjų mėnesinių algų kiekvienam kariūno išlaikytiniui. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 36 mėnesius nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos.
+13. Jeigu sunkaus, apysunkio ar lengvo sveikatos sutrikimo atveju kariui po gydymo ir laikinojo nedarbingumo termino pabaigos neliko liekamųjų reiškinių (nėra motorinių ir (ar) sensorinių, ir (ar) psichinių funkcijų sutrikimų) arba liko liekamųjų reiškinių, tačiau nesumažėjo kario tinkamumas tarnybai pagal sveikatos būklę ir įvykis, sukėlęs sveikatos sutrikimą, įvyko tarnybos metu, įskaitant vykimą į tarnybos vietą ir grįžimą iš jos, ir nelaimingo atsitikimo tyrimo išvadoje nurodyta, kad įvykis susijęs su tarnyba, kariui mokama atitinkamai 2,4, 1,4 arba 0,4 atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio tarnybinio atlyginimo vienkartinė kompensacija, neviršijanti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme numatyto maksimalaus vienkartinės netekto darbingumo kompensacijos, mokamos terminuotai netekus iki 20 procentų darbingumo, dydžio. Kariūnui mokama atitinkamai 2,4, 1,4 arba 0,4 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio tarnybinio atlyginimo vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu išmokama ne ilgiau kaip per 5 darbo dienas nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos. Kompensacija nemokama, jeigu karys įgijo teisę į kompensaciją pagal Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą.
 
-14. Kariui žuvus (mirus) dėl priežasčių, susijusių su kario statusu, išskyrus šio straipsnio 1 dalyje numatytus atvejus, mokama 12 atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Kariūnui žuvus (mirus) dėl priežasčių, susijusių su kario statusu, išskyrus šio straipsnio 1 dalyje numatytus atvejus, mokama 12 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos.
+TAR pastaba. 67 straipsnio 13 dalies nuostata taikoma kariams, kurių sveikata sutriko po įstatymo Nr. XIII-1312 įsigaliojimo (2018-07-01)
 
-15. Pagal šio straipsnio 13 ir 14 dalis vienkartinė kompensacija lygiomis dalimis išmokama žuvusiojo (mirusiojo) sutuoktiniui, tėvui, motinai ir kiekvienam kario išlaikytiniui. Išlaikytiniai yra nedarbingi asmenys, kurie buvo žuvusiojo (mirusiojo) išlaikomi arba jo žūties (mirties) dieną turėjo teisę gauti iš jo išlaikymą; taip pat žuvusiojo (mirusiojo) vaikai, gimę po jo žūties (mirties); vaikai, iki jiems sukaks 18 metų, o vaikai, kurie mokosi bendrojo ugdymo mokyklose, profesinio mokymo įstaigose, aukštosiose mokyklose pagal nuolatinės ar ištęstinės studijų formų programas, – iki jiems sukaks 24 metai, taip pat neįgalūs asmenys.
+14. Kariui žuvus (mirus) dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, ar kai karys nužudytas dėl priežasčių, susijusių su kario statusu, mokama 120 atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija, bet ne mažiau kaip po 100 Vyriausybės nustatytų minimaliųjų mėnesinių algų kiekvienam kario išlaikytiniui. Kariūnui žuvus (mirus) dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, ar kai kariūnas nužudytas dėl priežasčių, susijusių su kario statusu, mokama 120 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija, bet ne mažiau kaip po 100 Vyriausybės nustatytų minimaliųjų mėnesinių algų kiekvienam kariūno išlaikytiniui. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos.
 
-16. Krašto apsaugos ministerija gali drausti savo civilinę atsakomybę kario žūties (mirties) ir sveikatos sutrikimo atvejais.
+15. Kariui žuvus (mirus) dėl priežasčių, susijusių su kario statusu, išskyrus šio straipsnio 1 dalyje numatytus atvejus, mokama 12 atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Kariūnui žuvus (mirus) dėl priežasčių, susijusių su kario statusu, išskyrus šio straipsnio 1 dalyje numatytus atvejus, mokama 12 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos.
 
-17. Šiame straipsnyje nurodytų vienkartinių kompensacijų išmokėjimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+16. Pagal šio straipsnio 14 ir 15 dalis vienkartinė kompensacija lygiomis dalimis išmokama žuvusiojo (mirusiojo) sutuoktiniui, tėvui, motinai ir kiekvienam kario išlaikytiniui. Išlaikytiniai yra nedarbingi asmenys, kurie buvo žuvusiojo (mirusiojo) išlaikomi arba jo žūties (mirties) dieną turėjo teisę gauti iš jo išlaikymą; taip pat žuvusiojo (mirusiojo) vaikai, gimę po jo žūties (mirties); vaikai, iki jiems sukaks 18 metų, o vaikai, kurie mokosi bendrojo ugdymo mokyklose, profesinio mokymo įstaigose, aukštosiose mokyklose pagal nuolatinės ar ištęstinės studijų formų programas, – iki jiems sukaks 24 metai, taip pat neįgalūs asmenys.
 
-18. Šiame straipsnyje nustatytos vienkartinių kompensacijų išmokėjimo sąlygos ginkluotos gynybos nuo agresijos (karo) metu negalioja.
+17. Krašto apsaugos ministerija gali drausti savo civilinę atsakomybę kario žūties (mirties) ir sveikatos sutrikimo atvejais.
+
+18. Šiame straipsnyje nurodytų vienkartinių kompensacijų išmokėjimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+
+19. Šiame straipsnyje nustatytos vienkartinių kompensacijų išmokėjimo sąlygos ginkluotos gynybos nuo agresijos (karo) metu negalioja.
 
 Straipsnio pakeitimai:
 
@@ -2607,6 +2641,8 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
+
 68 straipsnis. Socialinės ir kitos su karo tarnyba susijusios garantijos
 
 1. Iš Krašto apsaugos ministerijai skiriamų biudžeto asignavimų kariams taikomos šio ir kitų įstatymų nustatytos su karo tarnyba susijusios socialinės ir kitokios garantijos bei jų suteikimo tvarka. Šiuo atveju netaikomi įstatymai, nustatantys socialines garantijas valstybės tarnautojams ir kitiems civiliams darbuotojams. Garantijos kariui taikomos pagal kitus įstatymus, jeigu šis įstatymas nenustato kitaip.
@@ -2615,17 +2651,37 @@ Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
 3. Karo prievolininkams, nurodytiems šio įstatymo 65 straipsnio 1 dalies 2 punkte, tapusiems laikinai nedarbingais (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo darbe (tarnyboje) pratybų, mokymų arba kitų tarnybos užduočių vykdymo metu ir neįgijusiems teisės į ligos išmoką pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymą, laikinojo nedarbingumo laikotarpiu, tačiau ne ilgiau kaip 4 mėnesius, iš Krašto apsaugos ministerijai skirtų lėšų mokama Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatyme nustatyto dydžio ligos išmoka, taikant šiame įstatyme nustatytą maksimalaus kompensuojamojo uždarbio dydį. Karo prievolininkams, atlikusiems nuolatinę privalomąją karo tarnybą arba paleistiems iš šios tarnybos, ši išmoka mokama nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos.
 
-4. Tikrosios karo tarnybos metu su tarnyba susijusiomis aplinkybėmis žuvę (mirę) kariai laidojami valstybės lėšomis. Valstybės finansuojamų laidojimo išlaidų aprašą tvirtina Vyriausybė arba jos įgaliota institucija. Tikrosios karo tarnybos metu kariui žuvus (mirus) kitomis aplinkybėmis arba jam mirus dėl ligos, karį laidojančiam asmeniui skiriama pusės Vyriausybės nustatyto laidojimo išlaidų dydžio parama laidojimo išlaidoms iš dalies padengti.
+4. Tikrosios karo tarnybos metu su tarnyba susijusiomis aplinkybėmis žuvę (mirę) kariai laidojami valstybės lėšomis. Valstybės finansuojamų laidojimo išlaidų dydžius ir išlaidų apmokėjimo tvarkos aprašą tvirtina Vyriausybė arba jos įgaliota institucija.
 
-5. Kario, kuris žuvo (mirė) užsienyje su tarnyba susijusiomis aplinkybėmis, taip pat užsienyje žuvusių (mirusių) kartu su kariu užsienyje gyvenusių asmenų, nurodytų šio įstatymo 61 straipsnio 3 dalyje, palaikų parvežimo į Lietuvos Respubliką išlaidas apmoka valstybė Vyriausybės nustatytomis sąlygomis ir tvarka. Karių, žuvusių (mirusių) tarnybos tarptautinės operacijos kariniame vienete, tarptautinėje operacijoje ar pasirengimo tarptautinei operacijai už Lietuvos Respublikos teritorijos ribų metu, palaikų parvežimo sąlygas ir tvarką nustato krašto apsaugos ministras.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
+
+5. Kario, kuris žuvo (mirė) užsienyje su tarnyba susijusiomis aplinkybėmis, taip pat užsienyje žuvusių (mirusių) kartu su kariu užsienyje gyvenusių asmenų, nurodytų šio įstatymo 61 straipsnio 5 dalyje, palaikų parvežimo į Lietuvos Respubliką išlaidas apmoka valstybė Vyriausybės nustatytomis sąlygomis ir tvarka. Karių, žuvusių (mirusių) tarnybos tarptautinės operacijos kariniame vienete, tarptautinėje operacijoje ar pasirengimo tarptautinei operacijai už Lietuvos Respublikos teritorijos ribų metu, palaikų parvežimo sąlygas ir tvarką nustato krašto apsaugos ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 6. Tikrosios karo tarnybos metu dėl susijusių su tarnyba priežasčių žuvusiam arba tikrosios karo tarnybos metu dėl ligos mirusiam kariui, jeigu jo šeima (artimieji) sutinka, Krašto apsaugos ministerijos lėšomis pastatomas krašto apsaugos ministro patvirtinto pavyzdžio antkapinis paminklas. Jeigu kario artimieji palaidoja žuvusį ar mirusį karį šeimos kape ir stato kitokį nei kario paminklą, Krašto apsaugos ministerija apmoka paminklo išlaidų dalį, neviršijančią kario antkapinio paminklo vertės.
 
-7. Profesinės karo tarnybos kariams ir kariūnams, kurių materialinė būklė sunki dėl jų pačių ligos, sutuoktinio, sugyventinio, jeigu jis nurodytas profesinės karo tarnybos kario privačių interesų deklaracijoje, tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių), taip pat išlaikytinių, kurių globėju ar rūpintoju yra paskirtas profesinės karo tarnybos karys ar kariūnas, ligos ar mirties, stichinės nelaimės ar turto netekimo, jų rašytiniu prašymu gali būti skiriama iki 5 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių pašalpa. Pašalpa skiriama iš Krašto apsaugos ministerijai skirtų asignavimų krašto apsaugos ministro nustatyta tvarka.
+7. Profesinės karo tarnybos kariams, kariūnams, kariams savanoriams ir kitiems aktyviojo rezervo kariams, privalomosios pradinės karo tarnybos kariams ir asmenims, atliekantiems alternatyviąją krašto apsaugos tarnybą, kurių materialinė būklė sunki dėl jų pačių ligos, sutuoktinio, sugyventinio, tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių), taip pat išlaikytinių, kurių globėju ar rūpintoju yra paskirtas profesinės karo tarnybos karys, kariūnas, karys savanoris ar kitas aktyviojo rezervo karys, privalomosios pradinės karo tarnybos karys ar asmuo, atliekantis alternatyviąją krašto apsaugos tarnybą, ligos ar mirties, stichinės nelaimės ar turto netekimo, jų rašytiniu prašymu gali būti skiriama iki 5 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių pašalpa. Pašalpa skiriama iš Krašto apsaugos ministerijai skirtų asignavimų krašto apsaugos ministro nustatyta tvarka. Pašalpa kariui savanoriui, kitam aktyviojo rezervo kariui ar asmeniui, atliekančiam alternatyviąją krašto apsaugos tarnybą, nemokama, jeigu jis turi teisę gauti tos pačios paskirties pašalpą iš kitos biudžetinės įstaigos.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
+
+8. Mirus profesinės karo tarnybos kariui, kariūnui, kariui savanoriui ar kitam aktyviojo rezervo kariui, privalomosios pradinės karo tarnybos kariui ar asmeniui, atliekančiam alternatyviąją krašto apsaugos tarnybą, jo šeimos nariui skiriama 5 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių pašalpa. Pašalpa šeimos nariui nemokama, jeigu kario mirties atveju jis turi teisę gauti šio įstatymo 67 straipsnyje nustatytą kompensaciją ar tos pačios paskirties pašalpą iš kitos biudžetinės įstaigos.
+
+TAR pastaba. 68 straipsnio 8 dalies nuostata taikoma karių mirties, įvykusios po įstatymo Nr. XIII-1312 įsigaliojimo (2018-07-01), atvejais. Kariams, mirusiems iki šio įstatymo įsigaliojimo dienos, taikoma iki šio įstatymo įsigaliojimo galiojusio Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio 4 dalies nuostata dėl paramos skyrimo.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 Straipsnio pakeitimai:
 
@@ -2667,9 +2723,13 @@ Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
 2. Išleidžiamas į atsargą karys savanoris ar kitas aktyviojo rezervo karys, kuris pavyzdingai tarnavo ne mažiau kaip 5 metus ir sukako nustatytą ribinį tarnybos aktyviajame rezerve amžių, premijuojamas už pavyzdingą tarnybą. Premijos dydį nustato vadas, atsižvelgdamas į kario tarnybą ir neviršydamas šių maksimalių dydžių:
 
-1) kariui savanoriui ar kitam aktyviojo rezervo kariui, ištarnavusiam nuo 5 iki 10 metų, – iki 2 Vyriausybės nustatytų tarnybą rezerve atliekančio kario mėnesinių tarnybinių atlyginimų dydžio;
+1) kariui savanoriui ar kitam aktyviojo rezervo kariui, ištarnavusiam nuo 5 iki 10 metų, – iki 2 tarnybą rezerve atliekančio kario tarnybinių atlyginimų dydžio;
 
-2) kariui savanoriui ar kitam aktyviojo rezervo kariui, ištarnavusiam daugiau kaip 10 metų, – iki 3 Vyriausybės nustatytų tarnybą rezerve atliekančio kario mėnesinių tarnybinių atlyginimų dydžio.
+2) kariui savanoriui ar kitam aktyviojo rezervo kariui, ištarnavusiam daugiau kaip 10 metų, – iki 3 tarnybą rezerve atliekančio kario tarnybinių atlyginimų dydžio.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 3. Pratęsus kario savanorio ar kito aktyviojo rezervo kario sutartį papildomam 4 metų terminui, kariui savanoriui ar kitam aktyviojo rezervo kariui Vyriausybės ar jos įgaliotos institucijos nustatytomis sąlygomis ir tvarka gali būti teikiama parama studijų kainos daliai padengti.
 
@@ -2697,7 +2757,11 @@ Nr. XII-1158, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13595
 
 3. Pensijų skyrimo ir mokėjimo kariams sąlygas bei tvarką nustato pensijų skyrimo ir mokėjimo tvarką reglamentuojantys įstatymai.
 
-4. Atsargos karių, pagal darbo sutartis dirbančių valstybės tarnautojais, valstybinės kario pensijos ir atlyginimo bendro dydžio apribojimus nustato kiti įstatymai.
+4. Neteko galios nuo 2018-07-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 SEPTINTASIS SKIRSNIS
 
@@ -2737,11 +2801,13 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 
 4) taikomos šio įstatymo 76 straipsnyje nustatytos aprūpinimo tarnybine uniforma sąlygos.
 
-2. Tarnautojams, su kuriais sudaroma civilinės krašto apsaugos tarnybos sutartis, Vyriausybės nustatyta tvarka taikomos aprūpinimo sąlygos ir socialinės garantijos, numatytos profesinės karo tarnybos kariams šio įstatymo 68 straipsnio 4 dalyje. Jiems taip pat gali būti taikomos 63 straipsnio 4 dalies nuostatos, išskyrus nuomos mokestį, kurio dydį ir mokėjimo tvarką nustato Vyriausybė.
+2. Tarnautojams, su kuriais sudaroma civilinės krašto apsaugos tarnybos sutartis, Vyriausybės nustatyta tvarka taikomos aprūpinimo sąlygos ir socialinės garantijos, numatytos profesinės karo tarnybos kariams šio įstatymo 68 straipsnio 4 ir 8 dalyse. Jiems taip pat gali būti taikomos 63 straipsnio 4 dalies nuostatos, išskyrus nuomos mokestį, kurio dydį ir mokėjimo tvarką nustato Vyriausybė.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 3. Civilinę krašto apsaugos tarnybą atliekantys statutiniai valstybės tarnautojai, vykdantys žmonių paieškos ir gelbėjimo darbus paieškos ir gelbėjimo rajone, teršimo incidentų likvidavimo darbus bei mokymus ir pratybas jūros rajone, kai šie darbai ar pratybos trunka ilgiau kaip 4 valandas, aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas.
 
@@ -2868,6 +2934,282 @@ Atskirų šio įstatymo normų įgyvendinimo tvarką nustato Krašto apsaugos si
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                     VALDAS ADAMKUS
+
+Lietuvos Respublikos
+
+krašto apsaugos sistemos
+
+organizavimo ir karo tarnybos
+
+įstatymo
+
+1 priedas
+
+profesinės karo tarnybos karių TARNYBINIO ATLYGINIMO KOEFICIENTAI
+
+(baziniais dydžiais)
+
+Karių laipsniai
+
+Koeficientas
+
+tarnybos metai pagal laipsnį
+
+1-ieji
+
+2-ieji
+
+3-ieji
+
+4-ieji
+
+5-ieji ir tolesni
+
+Generolas leitenantas, viceadmirolas
+
+24,4
+
+24,4
+
+24,4
+
+24,4
+
+24,4
+
+Generolas majoras, kontradmirolas
+
+22,1
+
+22,4
+
+22,4
+
+22,4
+
+22,4
+
+Brigados generolas, flotilės admirolas
+
+20
+
+20,3
+
+20,3
+
+20,3
+
+20,3
+
+Pulkininkas, jūrų kapitonas
+
+17,3
+
+17,6
+
+17,9
+
+18,2
+
+18,2
+
+Pulkininkas leitenantas, komandoras
+
+14,7
+
+15
+
+15,3
+
+15,6
+
+15,9
+
+Majoras, komandoras leitenantas
+
+12,8
+
+13,1
+
+13,4
+
+13,7
+
+14
+
+Kapitonas, kapitonas leitenantas
+
+11,1
+
+11,3
+
+11,5
+
+11,7
+
+11,7
+
+Vyresnysis leitenantas
+
+9,9
+
+10,1
+
+10,3
+
+10,3
+
+10,3
+
+Leitenantas
+
+8,4
+
+8,6
+
+8,6
+
+8,6
+
+8,6
+
+Seržantas majoras, vyresnysis laivūnas
+
+12,2
+
+12,5
+
+12,8
+
+12,8
+
+12,8
+
+Viršila, laivūnas
+
+10,5
+
+10,7
+
+10,9
+
+10,9
+
+10,9
+
+Štabo seržantas, štabo laivūnas, štabo seržantas specialistas, štabo laivūnas specialistas
+
+9,4
+
+9,6
+
+9,8
+
+9,8
+
+9,8
+
+Vyresnysis seržantas, vyresnysis seržantas specialistas
+
+8,6
+
+8,8
+
+9
+
+9
+
+9
+
+Seržantas, seržantas specialistas
+
+7,7
+
+7,9
+
+7,9
+
+7,9
+
+7,9
+
+Grandinis
+
+7,2
+
+7,4
+
+7,4
+
+7,4
+
+7,4
+
+Vyresnysis eilinis, vyresnysis jūreivis
+
+6,7
+
+6,7
+
+6,7
+
+6,7
+
+6,7
+
+Eilinis, jūreivis
+
+6
+
+6
+
+6
+
+6
+
+6
+
+Jaunesnysis eilinis, jaunesnysis jūreivis
+
+5,9
+
+5,9
+
+5,9
+
+5,9
+
+5,9
+
+Papildyta priedu:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
+
+Lietuvos Respublikos
+
+krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo
+
+2 priedas
+
+profesinės karo tarnybos karių tiesiogiai vykdomos Pareigos, susijusios su ypatinga specifika, ir šias pareigas atitinkančių priedų dydžiai
+
+(baziniais dydžiais)
+
+Profesinės karo tarnybos karių tiesiogiai vykdomos pareigos, susijusios su ypatinga specifika
+
+Koeficientas
+
+Skrydžiai kartu su orlaivio įgula Pratybos ir kovinis budėjimas kartu su laivo įgula Nardymo ir kiti darbai po vandeniu Išminavimo ir sprogdinimo darbai Šuoliai parašiutu Bazinis karinis rengimas mokomuosiuose batalionuose (instruktoriai) Specialiosios intervencijos (šturmo) operacijos ir kovinis rengimas (rengimasis) joms Specialiosios žvalgybos ir (ar) specialiosios jūrinės operacijos ir kovinis rengimas (rengimasis) joms Kitos specialiosios operacijos ir kovinis rengimas (rengimasis) joms
+
+1           2   1,5   1
+
+Užduotys, kurioms atlikti reikia ypatingos psichologinės ir fizinės ištvermės: lauko pratybos kareivinių režimu tarnyba kareivinių režimu aukštesniu nei įprastiniu budrumo lygiu
+
+3 2,5
+
+Papildyta priedu:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 Pakeitimai:
 
@@ -3373,7 +3715,11 @@ Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
 8) šio įstatymo 59 straipsnio 6 dalyje nustatytu atveju – atostogų vaikui prižiūrėti laikotarpiui;
 
-9) kario, paskirto į šio straipsnio 3 dalyje nurodytas pareigas (tarnybą), arba valstybės tarnautojo, perkelto į kitas pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, taip pat į pareigas tarptautinėse ar užsienio valstybių institucijose, Europos Sąjungos institucijose ar įstaigose, sutuoktiniui vykstant kartu į sutuoktinio tarnybos vietą – krašto apsaugos ministro nustatytam laikotarpiui, netaikant šio įstatymo nustatytų profesinės karo tarnybos atlikimo tvarkos bei karių aprūpinimo sąlygų.
+9) kario, paskirto į šio straipsnio 3 dalyje nurodytas pareigas (tarnybą), arba valstybės tarnautojo, perkelto į kitas pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, taip pat į pareigas tarptautinėse ar užsienio valstybių institucijose, Europos Sąjungos institucijose ar įstaigose, kario, pasiųsto ilgiau negu 6 mėnesiams į užsienio valstybę profesiniam parengimui, kvalifikacijos tobulinimui ar mokytis, sutuoktiniui vykstant kartu į sutuoktinio tarnybos, profesinio parengimo, kvalifikacijos tobulinimo ar mokymosi vietą, jeigu pagal kursų, mokymo programą numatyta galimybė atvykti su sutuoktiniu, krašto apsaugos ministro nustatytam laikotarpiui, netaikant šio įstatymo nustatytos profesinės karo tarnybos atlikimo tvarkos bei karių aprūpinimo sąlygų.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 3. Karys krašto apsaugos ministro įsakymu Vyriausybės nustatyta tvarka paprastai ne ilgiau kaip 3 metams gali būti paskirtas atlikti karo tarnybą kariniu atstovu, jo pavaduotoju ar padėjėju Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos ar specialiuoju atašė, jo pavaduotoju ar padėjėju Lietuvos Respublikos diplomatinėje atstovybėje arba karo tarnybą užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje. Į pareigas Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos ar Lietuvos Respublikos diplomatinėje atstovybėje karys gali būti skiriamas tik užsienio reikalų ministro pritarimu. Į karinio atstovo Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos ar specialiojo atašė Lietuvos Respublikos diplomatinėje atstovybėje pareigas karys skiriamas tik Seimo Nacionalinio saugumo ir gynybos komiteto pritarimu. Karys krašto apsaugos ministro teikimu karo tarnybą gali atlikti Lietuvos Respublikos specialiojoje misijoje. Karys į Lietuvos Respublikos specialiąją misiją skiriamas Lietuvos Respublikos diplomatinės tarnybos įstatymo nustatyta tvarka.
 
@@ -3459,11 +3805,13 @@ Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
 7. Privalomosios pradinės karo tarnybos kariai aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas. Tais atvejais, kai privalomosios pradinės karo tarnybos kariai dalinio vado sprendimu atleidžiami nuo tarnybos su teise išvykti iš dalinio ilgiau negu vienai parai, už laisvas nuo tarnybos dienas jiems mokama profesinės karo tarnybos kariams nustatyto dydžio maitinimosi išlaidų piniginė kompensacija. Ši kompensacija taip pat mokama, kai nėra galimybės privalomosios pradinės karo tarnybos karių aprūpinti maistu.
 
-8. Profesinės karo tarnybos kariai, išskyrus karius, išsiųstus į mokymo įstaigas ar tarnybos vietą užsienyje, kur jie visiškai išlaikomi, turinčius žvalgybos pareigūno statusą, gynybos atašė biuruose, štabuose ar kitose institucijose užsienyje ir ne krašto apsaugos sistemos institucijose Lietuvoje tarnaujančius karius, aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems mokama maitinimosi išlaidų piniginė kompensacija. Maitinimosi išlaidų piniginės kompensacijos mokėjimo tvarką ir dydžius nustato Vyriausybė.
+8. Profesinės karo tarnybos kariai aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems mokama maitinimosi išlaidų piniginė kompensacija. Maitinimosi išlaidų piniginės kompensacijos mokėjimo tvarką ir dydžius nustato Vyriausybė. Maitinimosi išlaidų piniginė kompensacija nemokama kariams, turintiems žvalgybos pareigūno statusą, kariams, išsiųstiems į mokymo įstaigas ar tarnybos vietą užsienyje, kur jie visiškai išlaikomi, kariams, tarnaujantiems ne krašto apsaugos sistemos institucijose Lietuvoje, kariams, išleistiems vaiko priežiūros ar nemokamų atostogų, taip pat kariams, atliekantiems tarnybą šio įstatymo 42 straipsnio 3 dalyje nustatytais atvejais, išskyrus karius, kurių faktinė tarnybos atlikimo (rezidavimo) vieta yra Lietuvos Respublikoje.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 9. Kariai savanoriai ir kiti aktyviojo rezervo kariai, taip pat parengtojo rezervo kariai pratybų, mokymų ar tarnybos užduočių vykdymo laikotarpiu aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems išmokama maitinimosi išlaidų piniginė kompensacija. Maitinimosi išlaidų piniginės kompensacijos mokėjimo tvarką ir dydžius nustato Vyriausybė.
 
@@ -3513,19 +3861,23 @@ Nr. X-1558, 2008-05-22, Žin., 2008, Nr. 65-2457 (2008-06-07)
 
 651 straipsnis. Socialinės integracijos priemonės
 
-1. Kariams, į tarptautines operacijas ar specialiąsias misijas siunčiamiems, jose dalyvaujantiems ir dalyvavusiems valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, į tarptautines operacijas ar specialiąsias misijas siunčiamų, jose dalyvaujančių ir dalyvavusių karių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, taip pat karių, atliekančių tarnybą – ilgalaikį plaukiojimą ar grįžusių iš ilgalaikio plaukiojimo, sutuoktiniams, vaikams (įvaikiams), tėvams (įtėviams), asmenims, kurių globėjais ar rūpintojais jie paskirti, karių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, sutuoktinių vaikams (įvaikiams), asmenims, kurių globėjais ar rūpintojais jie paskirti, su siunčiamais į tarptautines operacijas ar specialiąsias misijas, jose dalyvaujančiais ir dalyvavusiais kariais, valstybės tarnautojais ir darbuotojais, dirbančiais pagal darbo sutartis, su siunčiamais į tarnybą – ilgalaikį plaukiojimą ar grįžusiais iš jo kariais, bendrai gyvenantiems asmenims, nurodytiems Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, taip pat šio įstatymo 65 straipsnio 1 dalies 4 punkte nurodytiems asmenims teikiamos iš Krašto apsaugos ministerijai skirtų asignavimų finansuojamos psichologų paslaugos, kurių mastą ir tvarką nustato krašto apsaugos ministras.
+1. Kariams, į tarptautines operacijas ar specialiąsias misijas siunčiamiems, jose dalyvaujantiems ir dalyvavusiems valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, į tarptautines operacijas ar specialiąsias misijas siunčiamų, jose dalyvaujančių ir dalyvavusių karių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, taip pat karių, atliekančių tarnybą – ilgalaikį plaukiojimą ar grįžusių iš ilgalaikio plaukiojimo, sutuoktiniams, vaikams (įvaikiams), tėvams (įtėviams), asmenims, kurių globėjais ar rūpintojais jie paskirti, karių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, sutuoktinių vaikams (įvaikiams), asmenims, kurių globėjais ar rūpintojais jie paskirti, su siunčiamais į tarptautines operacijas ar specialiąsias misijas, jose dalyvaujančiais ir dalyvavusiais kariais, valstybės tarnautojais ir darbuotojais, dirbančiais pagal darbo sutartis, su siunčiamais į tarnybą – ilgalaikį plaukiojimą ar grįžusiais iš jo kariais bendrai gyvenantiems asmenims, nurodytiems Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, taip pat šio įstatymo 65 straipsnio 1 dalies 4 ir 8 punktuose nurodytiems asmenims teikiamos iš Krašto apsaugos ministerijai skirtų asignavimų finansuojamos psichologų paslaugos, kurių mastą ir tvarką nustato krašto apsaugos ministras.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 2. Reintegracija taikoma grįžusiems iš tarptautinės operacijos, specialiosios misijos ar ilgalaikio plaukiojimo kariams, valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, taip pat jų sutuoktiniui, vaikams (įvaikiams), tėvams (įtėviams), asmenims, kurių globėju ar rūpintoju jie paskirti, kario, valstybės tarnautojo ir darbuotojo sutuoktinio vaikams (įvaikiams), asmenims, kurių globėju ar rūpintoju jie paskirti, su kariu bendrai gyvenantiems asmenims, nurodytiems Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme. Reintegracijos tvarką ir priemones nustato krašto apsaugos ministras. Šios paslaugos finansuojamos iš Krašto apsaugos ministerijai skirtų asignavimų.
 
-3. Tikrosios karo tarnybos, atsargos ir dimisijos kariams, kurių sveikata sutriko dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, arba kai jų sveikata sutrikdyta dėl priežasčių, susijusių su kario statusu, tapusiems neįgaliems arba likus liekamųjų reiškinių (sutriko motorinės ir (ar) sensorinės, ir (ar) psichinės funkcijos), trikdančių tarnybinių funkcijų vykdymą, iš Krašto apsaugos ministerijai skirtų asignavimų kompensuojamos neįgaliesiems skirtų techninių pagalbos priemonių įsigijimo, jų priežiūros ir remonto išlaidos. Šių išlaidų kompensavimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+3. Tikrosios karo tarnybos, atsargos ir dimisijos kariams, kurių sveikata sutriko dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, arba kai jų sveikata sutrikdyta dėl priežasčių, susijusių su kario statusu, tapusiems neįgaliems arba likus liekamųjų reiškinių (sutriko motorinės ir (ar) sensorinės, ir (ar) psichinės funkcijos), trikdančių tarnybinių funkcijų atlikimą, iš Krašto apsaugos ministerijai skirtų asignavimų kompensuojamos neįgaliesiems skirtų techninių pagalbos priemonių įsigijimo, jų pritaikymo kario poreikiams, priežiūros ir remonto išlaidos. Šių išlaidų kompensavimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 Įstatymas papildytas straipsniu:
 
@@ -3559,7 +3911,7 @@ Nr. XI-2292, 2012-10-17, Žin., 2012, Nr. 129-6466 (2012-11-08)
 
 772 straipsnis. Civilių statutinių valstybės tarnautojų, atliekančių civilinę krašto apsaugos tarnybą tarptautinių operacijų kariniuose vienetuose, papildomos socialinės garantijos
 
-Civiliams statutiniams valstybės tarnautojams, atliekantiems civilinę krašto apsaugos tarnybą tarptautinių operacijų kariniuose vienetuose, šio įstatymo 67 straipsnio nustatytomis sąlygomis ir tvarka taikomos šio įstatymo 67 straipsnio 6, 7, 8, 9, 10, 11, 12 ir 13 dalyse nustatytos garantijos, vienkartines kompensacijas apskaičiuojant pagal vidutinį žuvusio (mirusio) tarnautojo ar tarnautojo, kurio sveikata buvo sutrikdyta, darbo užmokestį. Šio įstatymo 67 straipsnio 6, 7, 8, 9, 10, 11 ir 12 dalyse nustatyta vienkartinė kompensacija mažinama priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu. Šio įstatymo 67 straipsnio 13 dalyje nustatyta vienkartinė kompensacija mažinama priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu.
+Civiliams statutiniams valstybės tarnautojams, atliekantiems civilinę krašto apsaugos tarnybą tarptautinių operacijų kariniuose vienetuose, šio įstatymo 67 straipsnyje nustatytomis sąlygomis ir tvarka taikomos šio įstatymo 67 straipsnio 6, 7, 8, 9, 10, 11, 12, 13 ir 14 dalyse nustatytos garantijos, vienkartines kompensacijas apskaičiuojant pagal vidutinį žuvusio (mirusio) tarnautojo ar tarnautojo, kurio sveikata buvo sutrikdyta, darbo užmokestį. Šio įstatymo 67 straipsnio 6, 7, 8, 9, 10, 11 ir 12 dalyse nustatyta vienkartinė kompensacija mažinama priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu. Šio įstatymo 67 straipsnio 14 dalyje nustatyta vienkartinė kompensacija mažinama priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu.
 
 Įstatymas papildytas straipsniu:
 
@@ -3574,6 +3926,8 @@ Straipsnio pakeitimai:
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 AŠTUNTASIS SKIRSNIS
 
@@ -3672,4 +4026,28 @@ Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 Papildyta straipsniu:
 
 Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+
+611 straipsnis. Karių tarnybos tarptautinių operacijų ir rengimosi joms metu apmokėjimas
+
+1. Šis straipsnis taikomas kariams, už Lietuvos Respublikos teritorijos ir išskirtinės ekonominės zonos ribų dalyvaujantiems tarptautinėje operacijoje, besirengiantiems tarptautinei operacijai, vykdantiems tarnybinę užduotį tarptautinės operacijos vietovėje.
+
+2. Profesinės karo tarnybos kariams mokamas tarnybinis atlyginimas ir priedas už ypatingų karinių specialybių kvalifikacines kategorijas.
+
+3. Jeigu pasirengimas tarptautinei operacijai trunka ne ilgiau kaip 90 dienų, kariams mokami Vyriausybės nustatyto dydžio dienpinigiai. Tarptautinių operacijų kariniams vienetams priskiriamų karinių jūrų pajėgų laivų įgulų nariams dienpinigiai mokami tik už buvimo kitų valstybių uostuose laiką.
+
+4. Jeigu pasirengimas tarptautinei operacijai trunka ilgiau kaip 90 dienų, kariams kas mėnesį mokama kompensacija už tarnybos užsienyje specifiką nuo 1,5 iki 3,5 bazinio dydžio. Kompensacijos dydžius, atsižvelgdamas į tarnybos vietą, rengimosi dalyvauti tarptautinėje operacijoje trukmę, tarnybos sudėtingumą ir sąlygas, nustato krašto apsaugos ministras.
+
+5. Kariams, dalyvaujantiems tarptautinėje operacijoje, už tarnybos užsienyje specifiką kas mėnesį mokama nuo 10 iki 20 bazinių dydžių kompensacija. Kompensacijų dydžius, atsižvelgdamas į tarptautinės operacijos vietovę, pobūdį, sudėtingumą ir karinio vieneto atliekamas funkcijas, nustato krašto apsaugos ministras.
+
+6. Jeigu kariai siunčiami vykdyti tarnybinės užduoties tarptautinės operacijos vietovėje ne ilgiau kaip 30 kalendorinių dienų laikotarpiui, jiems taikomos šio straipsnio 3 dalies nuostatos. Kariams, siunčiamiems vykdyti tarnybinės užduoties tarptautinės operacijos vietovėje ilgiau kaip 30 kalendorinių dienų, bet ne ilgiau kaip 90 kalendorinių dienų, taikomos šio straipsnio 5 dalies nuostatos.
+
+7. Kariams, dalyvaujantiems tarptautinėje operacijoje, kas mėnesį mokama 0,2 bazinio dydžio kompensacija ryšio išlaidoms padengti. Kariams, dalyvaujantiems tarptautinėje operacijoje, besirengiantiems tarptautinei operacijai, vykdantiems tarnybinę užduotį tarptautinės operacijos vietovėje, tarnybos vietoje suteikiama gyvenamoji patalpa, jie aprūpinami maistu, o neaprūpintiesiems maistu išmokama ne didesnė negu Vyriausybės nustatyto karių buvimo vietos valstybei patvirtintos dienpinigių dydžio maitinimosi išlaidų piniginė kompensacija.
+
+8. Kariams savanoriams ir kitiems aktyviojo rezervo kariams, dalyvaujantiems tarptautinėje operacijoje, taip pat rengimosi tarptautinei operacijai metu mokamas atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio tarnybinis atlyginimas ir taikomos šio straipsnio atitinkamai 3, 4 ar 5 dalies, taip pat 7 ir 9 dalių nuostatos.
+
+9. Karių kelionės, nakvynės, dokumentų tvarkymo ir kitas tiesiogiai su karių nuvykimu į tarnybos vietą ir baigus šią tarnybą grįžimu atgal į Lietuvos Respubliką ar užsienio valstybėje esančią tarnybos vietą, iš kurios išvykta į tarnybą, taip pat nuvykimu į tarnybos vietą ir grįžimu atgal į Lietuvos Respubliką ar užsienio valstybėje esančią tarnybos vietą, iš kurios išvykta į tarnybą, karinio vieneto perdislokavimo ir atostogų suteikimo atvejais susijusias išlaidas ir jų apmokėjimo tvarką nustato krašto apsaugos ministras.
+
+Papildyta straipsniu:
+
+Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
