@@ -4,7 +4,7 @@ identifier: "TAR.E2780B68DE62"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-21"
-last_updated: "2018-04-28"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E2780B68DE62"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-04-28 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2020-02-07
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
 
@@ -2739,11 +2739,21 @@ Papildyta punktu:
 
 Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
 
-10. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1).
+10. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/802 dėl sieros kiekio sumažinimo tam tikrose skystojo kuro rūšyse (OL 2016 L 132, p. 58).
+
+Papildyta punktu:
+
+Nr. XIII-1211, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09501
+
+11. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1).
 
 Papildyta punktu:
 
 Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
+
+Punkto numeracijos pakeitimas:
+
+Nr. XIII-1211, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09501
 
 Įstatymas papildytas priedu:
 
@@ -2951,6 +2961,14 @@ Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
 
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 37, 109 straipsnių ir priedo pakeitimo, Įstatymo papildymo 109-1 straipsniu įstatymas
 
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1211, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09501
+
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 priedo pakeitimo ir Įstatymo papildymo 70-1 straipsniu įstatymas
+
 193 straipsnis. Įrenginių registravimas
 
 Organinius tirpiklius naudojantis įrenginys (toliau – įrenginys) šiame straipsnyje suprantamas kaip stacionarus technikos objektas, kuriame vykdant aplinkos ministro patvirtintose Lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikrų veiklos rūšių įrenginiuose, išmetimo ribojimo ir įrenginių registravimo taisyklėse (toliau – LOJ taisyklės) nurodytą vienos arba kelių rūšių veiklą, taip pat kitą toje pačioje vietoje vykdomą tiesiogiai techniškai susijusią veiklą, kurios metu išmetami lakieji organiniai junginiai, suvartojamas organinio tirpiklio kiekis atitinka LOJ taisyklėse nurodytąjį. Šios taisyklės nustato įrenginių įregistravimo, registracijos duomenų teikimo, tikslinimo ir įrenginių išregistravimo tvarką.
@@ -3012,4 +3030,62 @@ Reglamente (ES) 2017/852 nustatyto reikalavimo odontologinės priežiūros (paga
 Papildyta straipsniu:
 
 Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
+
+701 straipsnis. Juridinių asmenų atsakomybė už MARPOL 73/78 VI priede nustatytų reikalavimų dėl sieros kiekio laivuose naudojamame jūriniame kure pažeidimą
+
+Laivo variklių galia (toliau – variklių galia) šiame straipsnyje suprantama kaip didžiausioji bendra ilgalaikė visų pagrindinių laivo eigos variklių galia, išreikšta kilovatais ir nurodyta laivo registracijos liudijime ar kitame oficialiame dokumente.
+
+Neteisėtas reikalavimo laivams nenaudoti jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, nevykdymas šiame straipsnyje suprantamas kaip jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, naudojimas laive, neatitinkantis Lietuvos Respublikos energetikos ministro, aplinkos ministro ir susisiekimo ministro patvirtintuose Lietuvos Respublikoje vartojamų naftos produktų, biodegalų ir skystojo kuro privalomuosiuose kokybės rodikliuose nustatytų sąlygų, kuriomis leidžiama laivams naudoti jūrinį kurą, kuriame sieros kiekis viršija nustatytas normas.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, nevykdymas, kai laive, kurio variklių galia mažesnė kaip 1 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra daugiau kaip 0,1 procento masės, bet mažiau kaip 0,15 procento masės, užtraukia baudą nuo devynių šimtų iki vieno tūkstančio vieno šimto eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, pakartotinis nevykdymas, kai laive, kurio variklių galia mažesnė kaip 1 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra daugiau kaip 0,1 procento masės, bet mažiau kaip 0,15 procento masės, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki vieno tūkstančio keturių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, nevykdymas, kai laive, kurio variklių galia mažesnė kaip 1 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra 0,15 procento masės ar daugiau, užtraukia baudą nuo penkių tūkstančių keturių šimtų iki šešių tūkstančių šešių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, pakartotinis nevykdymas, kai laive, kurio variklių galia mažesnė kaip 1 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra 0,15 procento masės ar daugiau, užtraukia baudą nuo septynių tūkstančių iki aštuonių tūkstančių šešių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, nevykdymas, kai laive, kurio variklių galia 1 000 kilovatų ar didesnė, bet mažesnė kaip 2 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra daugiau kaip 0,1 procento masės, bet mažiau kaip 0,15 procento masės, užtraukia baudą nuo vieno tūkstančio septynių šimtų iki dviejų tūkstančių vieno šimto eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, pakartotinis nevykdymas, kai laive, kurio variklių galia 1 000 kilovatų ar didesnė, bet mažesnė kaip 2 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra daugiau kaip 0,1 procento masės, bet mažiau kaip 0,15 procento masės, užtraukia baudą nuo dviejų tūkstančių dviejų šimtų iki dviejų tūkstančių septynių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, nevykdymas, kai laive, kurio variklių galia 1 000 kilovatų ar didesnė, bet mažesnė kaip 2 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra 0,15 procento masės ar daugiau, užtraukia baudą nuo dešimt tūkstančių keturių šimtų iki dvylikos tūkstančių aštuonių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, pakartotinis nevykdymas, kai laive, kurio variklių galia 1 000 kilovatų ar didesnė, bet mažesnė kaip 2 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra 0,15 procento masės ar daugiau, užtraukia baudą nuo trylikos tūkstančių šešių šimtų iki šešiolikos tūkstančių šešių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, nevykdymas, kai laive, kurio variklių galia 2 000 kilovatų ar didesnė, bet mažesnė kaip 5 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra daugiau kaip 0,1 procento masės, bet mažiau kaip 0,15 procento masės, užtraukia baudą nuo keturių tūkstančių vieno šimto iki penkių tūkstančių vieno šimto eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, pakartotinis nevykdymas, kai laive, kurio variklių galia 2 000 kilovatų ar didesnė, bet mažesnė kaip 5 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra daugiau kaip 0,1 procento masės, bet mažiau kaip 0,15 procento masės, užtraukia baudą nuo penkių tūkstančių keturių šimtų iki šešių tūkstančių šešių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, nevykdymas, kai laive, kurio variklių galia 2 000 kilovatų ar didesnė, bet mažesnė kaip 5 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra 0,15 procento masės ar daugiau, užtraukia baudą nuo dvidešimt keturių tūkstančių devynių šimtų iki trisdešimt tūkstančių penkių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, pakartotinis nevykdymas, kai laive, kurio variklių galia 2 000 kilovatų ar didesnė, bet mažesnė kaip 5 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra 0,15 procento masės ar daugiau, užtraukia baudą nuo trisdešimt dviejų tūkstančių keturių šimtų iki trisdešimt devynių tūkstančių šešių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, nevykdymas, kai laive, kurio variklių galia 5 000 kilovatų ar didesnė, bet mažesnė kaip 10 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra daugiau kaip 0,1 procento masės, bet mažiau kaip 0,15 procento masės, užtraukia baudą nuo aštuonių tūkstančių iki devynių tūkstančių aštuonių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, pakartotinis nevykdymas, kai laive, kurio variklių galia 5 000 kilovatų ar didesnė, bet mažesnė kaip 10 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra daugiau kaip 0,1 procento masės, bet mažiau kaip 0,15 procento masės, užtraukia baudą nuo dešimt tūkstančių keturių šimtų iki dvylikos tūkstančių septynių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, nevykdymas, kai laive, kurio variklių galia 5 000 kilovatų ar didesnė, bet mažesnė kaip 10 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra 0,15 procento masės ar daugiau, užtraukia baudą nuo keturiasdešimt aštuonių tūkstančių trijų šimtų iki penkiasdešimt devynių tūkstančių vieno šimto eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, pakartotinis nevykdymas, kai laive, kurio variklių galia 5 000 kilovatų ar didesnė, bet mažesnė kaip 10 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra 0,15 procento masės ar daugiau, užtraukia baudą nuo šešiasdešimt dviejų tūkstančių aštuonių šimtų iki septyniasdešimt šešių tūkstančių aštuonių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, nevykdymas, kai laive, kurio variklių galia 10 000 kilovatų ar didesnė, bet mažesnė kaip 20 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra daugiau kaip 0,1 procento masės, bet mažiau kaip 0,15 procento masės, užtraukia baudą nuo penkiolikos tūkstančių septynių šimtų iki devyniolikos tūkstančių vieno šimto eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, pakartotinis nevykdymas, kai laive, kurio variklių galia 10 000 kilovatų ar didesnė, bet mažesnė kaip 20 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra daugiau kaip 0,1 procento masės, bet mažiau kaip 0,15 procento masės, užtraukia baudą nuo dvidešimt tūkstančių keturių šimtų iki dvidešimt keturių tūkstančių devynių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, nevykdymas, kai laive, kurio variklių galia 10 000 kilovatų ar didesnė, bet mažesnė kaip 20 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra 0,15 procento masės ar daugiau, užtraukia baudą nuo devyniasdešimt trijų tūkstančių aštuonių šimtų iki vieno šimto keturiolikos tūkstančių šešių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, pakartotinis nevykdymas, kai laive, kurio variklių galia 10 000 kilovatų ar didesnė, bet mažesnė kaip 20 000 kilovatų, naudojamas jūrinis kuras, kuriame sieros yra 0,15 procento masės ar daugiau, užtraukia baudą nuo vieno šimto dvidešimt dviejų tūkstančių iki vieno šimto keturiasdešimt devynių tūkstančių eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, nevykdymas, kai laive, kurio variklių galia 20 000 kilovatų ar didesnė, naudojamas jūrinis kuras, kuriame sieros yra daugiau kaip 0,1 procento masės, bet mažiau kaip 0,15 procento masės, užtraukia baudą nuo dvidešimt trijų tūkstančių keturių šimtų iki dvidešimt aštuonių tūkstančių šešių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, pakartotinis nevykdymas, kai laive, kurio variklių galia 20 000 kilovatų ar didesnė, naudojamas jūrinis kuras, kuriame sieros yra daugiau kaip 0,1 procento masės, bet mažiau kaip 0,15 procento masės, užtraukia baudą nuo trisdešimt tūkstančių keturių šimtų iki trisdešimt septynių tūkstančių dviejų šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, nevykdymas, kai laive, kurio variklių galia 20 000 kilovatų ar didesnė, naudojamas jūrinis kuras, kuriame sieros yra 0,15 procento masės ar daugiau, užtraukia baudą nuo vieno šimto keturiasdešimt tūkstančių dviejų šimtų iki vieno šimto septyniasdešimt vieno tūkstančio keturių šimtų eurų.
+
+Neteisėtas reikalavimo laivams, plaukiojantiems su bet kurios valstybės vėliava, įskaitant laivus, kurių kelionė prasidėjo už Europos Sąjungos ribų, nenaudoti Lietuvos Respublikos teritorinėje jūroje, išskirtinėje ekonominėje zonoje ir jūros rajono vidaus vandenyse jūrinio kuro, kuriame sieros kiekis viršija nustatytas normas, kaip tai numatyta MARPOL 73/78 VI priede, pakartotinis nevykdymas, kai laive, kurio variklių galia 20 000 kilovatų ar didesnė, naudojamas jūrinis kuras, kuriame sieros yra 0,15 procento masės ar daugiau, užtraukia baudą nuo vieno šimto aštuoniasdešimt dviejų tūkstančių trijų šimtų iki dviejų šimtų dvidešimt dviejų tūkstančių aštuonių šimtų eurų.
+
+Papildyta straipsniu:
+
+Nr. XIII-1211, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09501
 
