@@ -4,7 +4,7 @@ identifier: "TAR.7E60B29052C0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2018-01-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-07-05
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2271, i. k. 1001010ISTAIII-1904
 
@@ -62,7 +62,11 @@ Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
 
 3. Šio įstatymo nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos taip pat taikomi tiems valstybės pareigūnams, kuriems netaikomas Lietuvos Respublikos valstybės tarnybos įstatymas (toliau – valstybės pareigūnai):
 
-1) prokurorams;
+1) netenka galios 2018-07-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-899, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21496
 
 2) valstybės kontrolieriui ir jo pavaduotojams;
 
@@ -142,7 +146,7 @@ Nr. XI-2296, 2012-10-17, Žin., 2012, Nr. 129-6470 (2012-11-08)
 
 2) priedo už ištarnautus Lietuvos valstybei metus.
 
-2. Valstybės pareigūnų (išskyrus prokurorų) darbo užmokestis susideda iš:
+2. Valstybės pareigūnų darbo užmokestis susideda iš:
 
 1) pareiginės algos;
 
@@ -150,13 +154,15 @@ Nr. XI-2296, 2012-10-17, Žin., 2012, Nr. 129-6470 (2012-11-08)
 
 3) vienkartinės priemokos.
 
-3. Prokurorų darbo užmokestis susideda iš:
+Straipsnio dalies pakeitimai:
 
-1) pareiginės algos;
+Nr. XIII-899, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21496
 
-2) priedo už ištarnautus Lietuvos valstybei metus;
+3. Neteko galios nuo 2018-07-01
 
-3) priedo už kvalifikacinį rangą.
+Straipsnio dalies naikinimas:
+
+Nr. XIII-899, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21496
 
 4. Žvalgybos pareigūnų darbo užmokestis susideda iš:
 
@@ -164,9 +170,19 @@ Nr. XI-2296, 2012-10-17, Žin., 2012, Nr. 129-6470 (2012-11-08)
 
 2) priedo už tarnybinį rangą ar kario laipsnį;
 
-3) priedo už tarnybos stažą.
+3) priedo už tarnybos stažą;
 
-5. Žvalgybos pareigūnų priedų už tarnybinį rangą ar kario laipsnį ir tarnybos stažą dydžius nustato Lietuvos Respublikos žvalgybos įstatymas.
+4)  priemokos už su ypatinga specifika susijusių funkcijų atlikimą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1103, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06970
+
+5. Žvalgybos pareigūnų priedų už tarnybinį rangą ar kario laipsnį, priedo už tarnybos stažą ir priemokos už su ypatinga specifika susijusių funkcijų atlikimą dydžius nustato Lietuvos Respublikos žvalgybos įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1103, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06970
 
 6. Neteko galios nuo 2018-01-01
 
@@ -222,7 +238,11 @@ Nr. XI-2296, 2012-10-17, Žin., 2012, Nr. 129-6470 (2012-11-08)
 
 1. Valstybės politikų ir valstybės pareigūnų pareiginės algos skaičiuojamos taikant pareiginės algos bazinį dydį (toliau – bazinis dydis), kurį Vyriausybės teikimu, įvertinus valstybės politikams ir valstybės pareigūnams atstovaujančių organizacijų pasiūlymus, praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai iš esmės pablogėja valstybės ekonominė ir finansinė būklė.
 
-2. Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą, nustatytą šio įstatymo priedėlyje, padauginus iš bazinio dydžio. Pareiginė alga apvalinama vadovaujantis bendromis skaičių apvalinimo taisyklėmis taip, kad paskutinis skaitmuo būtų 0 arba 5.
+2. Pareiginė alga apskaičiuojama šio įstatymo priedėlyje nustatytą atitinkamą pareiginės algos koeficientą ar iš koeficientų intervalo įstatymų nustatyta tvarka pareigūnui nustatytą koeficientą padauginus iš bazinio dydžio. Pareiginė alga apvalinama vadovaujantis bendromis skaičių apvalinimo taisyklėmis taip, kad paskutinis skaitmuo būtų 0 arba 5.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1103, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06970
 
 3. Savivaldybių tarybų narių pagrindinėje darbovietėje negautas atlyginimas už laiką, praleistą tarybos, komitetų, komisijų, kolegijos posėdžiuose, taip pat už laiką, praleistą vykdant kitas savivaldybės tarybos nario pareigas, mokamas Vietos savivaldos įstatymo nustatytais pagrindais.
 
@@ -251,30 +271,6 @@ Nr. VIII-2057, 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
 Nr. X-1254, 2007-07-03, Žin., 2007, Nr. 81-3318 (2007-07-21)
 
 Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
-
-5(1) straipsnis. Priedas už kvalifikacinį rangą
-
-Prokurorams priedai už kvalifikacinį rangą skaičiuojami nuo pareiginės algos:
-
-1) jaunesniajam justicijos patarėjui – 10 procentų dydžio;
-
-2) justicijos patarėjui – 15 procentų dydžio;
-
-3) vyresniajam justicijos patarėjui – 20 procentų dydžio;
-
-4) vyriausiajam justicijos patarėjui – 25 procentų dydžio;
-
-5) valstybiniam justicijos patarėjui – 30 procentų dydžio;
-
-6) vyriausiajam valstybiniam justicijos patarėjui – 40 procentų dydžio.
-
-Įstatymas papildytas straipsniu:
-
-Nr. IX-1520, 2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
-
-Straipsnio pakeitimai:
-
-Nr. X-1254, 2007-07-03, Žin., 2007, Nr. 81-3318 (2007-07-21)
 
 6 straipsnis. Vienkartinė priemoka
 
@@ -490,141 +486,7 @@ Pastaba. Savivaldybės mero ir mero pavaduotojo pareiginėms algoms taikytini ko
 
 III. Prokurorų pareiginės algos
 
-(Baziniais dydžiais)
-
-Eil. Nr.
-
-Pareigų pavadinimas
-
-Pareiginės algos koeficientas
-
-1.
-
-Generalinė prokuratūra
-
-1.1.
-
-Generalinis prokuroras
-
-16,7
-
-1.2.
-
-Generalinio prokuroro pavaduotojas
-
-15,2
-
-1.3.
-
-Departamento vyriausiasis prokuroras, Lietuvos nacionalinis narys Eurojuste
-
-14,7
-
-1.4.
-
-Skyriaus vyriausiasis prokuroras
-
-14,5
-
-1.5.
-
-Departamento vyriausiojo prokuroro pavaduotojas, departamento skyriaus vyriausiasis prokuroras, Lietuvos nacionalinio nario Eurojuste pavaduotojas, kurio darbo vieta yra Eurojusto buveinės vietoje
-
-14,3
-
-1.6.
-
-Skyriaus vyriausiojo prokuroro pavaduotojas
-
-14,1
-
-1.7.
-
-Departamento skyriaus vyriausiojo prokuroro pavaduotojas
-
-14,0
-
-1.8.
-
-ONKT prokuroras
-
-13,8
-
-1.9.
-
-Departamento prokuroras, departamento skyriaus prokuroras, skyriaus prokuroras, prokuroras, Lietuvos nacionalinio nario Eurojuste padėjėjas, kurio darbo vieta yra Eurojusto buveinės vietoje
-
-13,1
-
-2.
-
-Apygardų prokuratūros
-
-2.1.
-
-Vyriausiasis prokuroras
-
-14,7
-
-2.2.
-
-Vyriausiojo prokuroro pavaduotojas
-
-14,3
-
-2.3.
-
-Specializuoto skyriaus vyriausiasis prokuroras
-
-10,4
-
-2.4.
-
-Specializuoto skyriaus vyriausiojo prokuroro pavaduotojas
-
-10,1
-
-2.5.
-
-Specializuoto skyriaus prokuroras
-
-10,0
-
-3.
-
-Apygardų prokuratūrų apylinkių prokuratūros
-
-3.1.
-
-Vyriausiasis prokuroras
-
-11,97
-
-3.2.
-
-Vyriausiojo prokuroro pavaduotojas
-
-11,64
-
-3.3.
-
-Skyriaus vyriausiasis prokuroras
-
-9,72
-
-3.4.
-
-Skyriaus vyriausiojo prokuroro pavaduotojas
-
-9,62
-
-3.5.
-
-Prokuroras
-
-9,5
-
-Pastaba. ONKT – Organizuotų nusikaltimų ir korupcijos tyrimas.
+III skyrius netenka galios 2018-07-01
 
 IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
 
@@ -820,6 +682,8 @@ Vyriausybės įstaigų vadovai
 
 Pastaba. Komisijų ir tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis apskaičiuojamas proporcingai dirbtam laikui.
 
+V skyriaus redakcija iki 2019-06-30:
+
 V. ŽVALGYBOS PAREIGŪNŲ PAREIGINĖS ALGOS
 
 (Baziniais dydžiais)
@@ -830,47 +694,101 @@ Pareiginės algos koeficientas
 
 Direktorius
 
-15
+17
 
 Direktoriaus pavaduotojas
 
-14
+16
 
 Valdybos viršininkas
 
-12,5
+15
 
 Valdybos viršininko pavaduotojas
 
-12
+14
 
 Skyriaus viršininkas
 
-11
+11,5–13,5
 
 Skyriaus viršininko pavaduotojas
 
-10
+11–12,5
 
 Poskyrio viršininkas
 
-9,5
+10,5–12,5
 
 Vyriausiasis specialistas
 
-9
+10–12
 
 Vyresnysis specialistas
 
-8
+9–11
 
 Specialistas
 
-6,5
+8–9,5
 
 Jaunesnysis specialistas
 
-5
+6,5–8,5
+
+V skyriaus redakcija nuo 2019-07-01:
+
+V. ŽVALGYBOS PAREIGŪNŲ PAREIGINĖS ALGOS
+
+(Baziniais dydžiais)
+
+Pareigų pavadinimas
+
+Pareiginės algos koeficientas
+
+Direktorius
+
+19
+
+Direktoriaus pavaduotojas
+
+18
+
+Valdybos viršininkas
+
+17
+
+Valdybos viršininko pavaduotojas
+
+16
+
+Skyriaus viršininkas
+
+13,5–15,5
+
+Skyriaus viršininko pavaduotojas
+
+13–14,5
+
+Poskyrio viršininkas
+
+12,5–14,5
+
+Vyriausiasis specialistas
+
+12–14
+
+Vyresnysis specialistas
+
+11–13
+
+Specialistas
+
+10–11,5
+
+Jaunesnysis specialistas
+
+8–10
 
 VI. SPECIALIŲJŲ TYRIMŲ TARNYBOS PAREIGŪNŲ PAREIGINĖS ALGOS
 
@@ -981,6 +899,10 @@ Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
 Nr. XIII-768, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18820
 
 Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
+
+Nr. XIII-899, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21496
+
+Nr. XIII-1103, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06970
 
 Pakeitimai:
 
@@ -1181,4 +1103,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
 
 VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PAVADINIMO, 1, 2, 3, 4, 5, 7 STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+
+51 straipsnis. Neteko galios nuo 2018-07-01
+
+Straipsnio naikinimas:
+
+Nr. XIII-899, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21496
 
