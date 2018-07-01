@@ -4,7 +4,7 @@ identifier: "TAR.C0FF21832A85"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-04"
-last_updated: "2018-01-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
 
@@ -251,6 +251,14 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
+7. Valstybinė mokesčių inspekcija Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais savo interneto svetainėje skelbia paramos dalyko, nurodyto šio įstatymo 4 straipsnio 2 dalies 2 punkte, gavėjus ir jiems kiekvienais metais pervestų piniginių lėšų sumas, taip pat paskutiniais praėjusiais metais pervestų piniginių lėšų patikslintus duomenis.
+
+TAR pastaba. 7 dalies nuostatos taikomos viešinant informaciją apie paramos gavėjus ir jų 2017 metais ir vėlesniais metais gautą paramą piniginėmis lėšomis, sudarančiomis pajamų mokesčio dalį iki 2 procentų gyventojo pajamų mokesčio sumos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1309, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10962
+
 12 straipsnis. Labdaros ir paramos kontrolė
 
 1. Valstybinė mokesčių inspekcija kontroliuoja labdaros ir paramos teikimą, gavimą ir naudojimą.
@@ -319,7 +327,7 @@ Ginčai dėl labdaros ir paramos nagrinėjami Lietuvos Respublikos įstatymų nu
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -474,6 +482,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
 
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 10 ir 13 straipsnių pakeitimo įstatymas
+
+20.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1309, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10962
+
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 11 straipsnio pakeitimo įstatymas
 
 15 straipsnis. Paramos gavėjo statusas
 
