@@ -4,7 +4,7 @@ identifier: "TAR.3BB20C9F088C"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-06-28"
-last_updated: "2011-07-19"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3BB20C9F088C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,6 +17,10 @@ eu_legal_act: "true"
 # Lietuvos Respublikos anglies dioksido geologinio saugojimo įstatymas
 
 LIETUVOS RESPUBLIKOS ANGLIES DIOKSIDO GEOLOGINIO SAUGOJIMO ĮSTATYMAS
+
+Suvestinė redakcija nuo 2018-07-01
+
+Įstatymas paskelbtas: Žin. 2011, Nr. 91-4325, i. k. 1111010ISTA0XI-1550
 
 LIETUVOS RESPUBLIKOS
 
@@ -360,7 +364,11 @@ Penktasis skirsnis
 
 11 straipsnis. Priemonės, kurių imamasi nuotėkio arba didelių pažeidimų atveju
 
-1. Nuotėkio arba didelių pažeidimų atveju veiklos vykdytojas privalo nedelsdamas pranešti Lietuvos geologijos tarnybai ir Aplinkos ministerijos atitinkamo regiono aplinkos apsaugos departamentui ir imtis visų pažeidimų šalinimo priemonių, numatytų Pažeidimų šalinimo priemonių plane, įskaitant su žmonių sveikatos apsauga susijusias priemones. Pažeidimų šalinimo priemonių planą Vyriausybės nustatyta tvarka rengia veiklos vykdytojas, tvirtina Lietuvos geologijos tarnyba.
+1. Nuotėkio arba didelių pažeidimų atveju veiklos vykdytojas privalo nedelsdamas pranešti Lietuvos geologijos tarnybai ir Aplinkos apsaugos departamentui ir imtis visų pažeidimų šalinimo priemonių, numatytų Pažeidimų šalinimo priemonių plane, įskaitant su žmonių sveikatos apsauga susijusias priemones. Pažeidimų šalinimo priemonių planą Vyriausybės nustatyta tvarka rengia veiklos vykdytojas, tvirtina Lietuvos geologijos tarnyba.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-782, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18844
 
 2. Lietuvos geologijos tarnyba bet kuriuo metu turi teisę pareikalauti, kad veiklos vykdytojas imtųsi visų būtinų pažeidimų šalinimo priemonių, taip pat su žmonių sveikatos apsauga susijusių priemonių. Lietuvos geologijos tarnyba turi teisę nustatyti papildomų arba kitokių pažeidimų šalinimo priemonių, negu nustatyta Pažeidimų šalinimo priemonių plane.
 
@@ -511,4 +519,14 @@ priedas
 1. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB dėl anglies dioksido geologinio saugojimo, iš dalies keičianti Tarybos direktyvą 85/337/EEB, direktyvas 2000/60/EB, 2001/80/EB, 2004/35/EB, 2006/12/EB, 2008/1/EB ir Reglamentą (EB) Nr. 1013/2006 (OL 2009 L 140, p. 114).
 
 _________________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-782, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18844
+
+Lietuvos Respublikos anglies dioksido geologinio saugojimo įstatymo Nr. XI-1550 11 straipsnio pakeitimo įstatymas
 
