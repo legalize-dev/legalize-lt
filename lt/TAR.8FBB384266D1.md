@@ -4,7 +4,7 @@ identifier: "TAR.8FBB384266D1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2017-12-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8FBB384266D1"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugios laivybos įstatymas
 
-Suvestinė redakcija nuo 2017-12-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2264, i. k. 1001010ISTAIII-1897
 
@@ -1006,7 +1006,11 @@ JURIDINIAI ASMENYS, KITOS ORGANIZACIJOS IR JŲ PADALINIAI, VYKDANTYS SU SAUGIA L
 
 3) įmonė pažeidžia uosto laivybos, uosto naudojimo, laivų įgulų darbo režimo ir poilsio reikalavimus – uostą valdančios įmonės motyvuotu teikimu;
 
-4) atestuotos įmonės veikla gali padaryti žalos Lietuvos Respublikos gamtai, kelti grėsmę žmonių gyvybei ir sveikatai – Lietuvos Respublikos aplinkos ministerijos Klaipėdos regiono aplinkos apsaugos departamento ir Klaipėdos visuomenės sveikatos centro motyvuotu teikimu;
+4) atestuotos įmonės veikla gali padaryti žalos Lietuvos Respublikos gamtai, kelti grėsmę žmonių gyvybei ir sveikatai – Aplinkos apsaugos departamento ir Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos motyvuotu teikimu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-783, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18846
 
 5) įmonė pateikia prašymą Administracijai sustabdyti atestuotą veiklą ar jos dalį.
 
@@ -1295,6 +1299,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-762, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18814
 
 Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 2, 3 ir 4 straipsnių pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-783, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18846
+
+Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 40 straipsnio pakeitimo įstatymas
 
 281 straipsnis. Laivų ir jų įgulų atitikties tarptautiniams reikalavimams dėl darbo jūrų laivyboje vertinimo tikslas ir įgaliojimų suteikimas
 
