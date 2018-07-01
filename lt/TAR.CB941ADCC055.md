@@ -4,7 +4,7 @@ identifier: "TAR.CB941ADCC055"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-07-01"
-last_updated: "2018-01-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2018-01-01
+Suvestinė redakcija nuo 2018-07-01 iki 2018-07-04
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
 
@@ -232,9 +232,17 @@ Aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdo Aplinkos min
 
 1. Vyriausiojo valstybinio aplinkos apsaugos inspektoriaus, vyresniojo valstybinio aplinkos apsaugos inspektoriaus, valstybinio aplinkos apsaugos inspektoriaus galios suteikiamos aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančios institucijos ir aplinkos apsaugos valstybinę kontrolę vykdančių institucijų valstybės tarnautojams priimant juos į šias pareigas arba aplinkos ministro įsakymu.
 
-2. Kitiems Aplinkos ministerijos sistemos valstybės tarnautojams ir valstybiniams miškų pareigūnams aplinkos apsaugos valstybinės kontrolės pareigūnų galios suteikiamos aplinkos ministro įsakymu.
+2. Neteko galios nuo 2018-07-01.
 
-3. Aplinkos ministras šio straipsnio 2 dalyje nustatytu atveju negali suteikti didesnių negu vyresniojo valstybinio aplinkos apsaugos inspektoriaus galių.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
+
+3. Neteko galios nuo 2018-07-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
 
 4. Aplinkos apsaugos valstybinės kontrolės pareigūnų galių sustabdymo ir atėmimo atvejus bei tvarką nustato aplinkos ministras.
 
@@ -1006,15 +1014,19 @@ Nr. XII-884, 2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
 
 27 straipsnis. Atvejai, kai aplinkai kenksminga veikla sustabdoma nedelsiant
 
-Šio Įstatymo 25 straipsnio 2 ir 3 punktuose nustatytais atvejais aplinkos apsaugos valstybinės kontrolės pareigūnas aplinkai kenksmingą veiklą sustabdo nedelsdamas (nenustatomas pasirengimo sustabdyti aplinkai kenksmingą veiklą terminas) ir apie tai praneša regiono aplinkos apsaugos departamentui, kurio teritorijoje sustabdoma aplinkai kenksminga veikla, ir institucijos, kurios pareigūnas sustabdė aplinkai kenksmingą veiklą, aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančiai institucijai.
+Šio Įstatymo 25 straipsnio 2 ir 3 punktuose nustatytais atvejais aplinkos apsaugos valstybinės kontrolės pareigūnas aplinkai kenksmingą veiklą sustabdo nedelsdamas (nenustatomas pasirengimo sustabdyti aplinkai kenksmingą veiklą terminas) ir apie tai praneša Aplinkos apsaugos departamento vadovui ar jo įgaliotam pareigūnui ir aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančiai institucijai.
 
 Straipsnio pakeitimai:
 
 Nr. X-1510, 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
 
+Straipsnio pakeitimai:
+
+Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
+
 6 straipsnis. Aplinkos apsaugos valstybinės kontrolės vykdymas
 
-Aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdo regionų aplinkos apsaugos departamentai, Aplinkos apsaugos agentūra, Valstybinė miškų tarnyba, Valstybinei saugomų teritorijų tarnybai prie Aplinkos ministerijos pavaldžios parkų ir rezervatų direkcijos, Lietuvos geologijos tarnyba prie Aplinkos ministerijos (toliau – aplinkos apsaugos valstybinę kontrolę vykdančios institucijos).
+Aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdo biudžetinės įstaigos Aplinkos apsaugos departamentas, Aplinkos apsaugos agentūra, Valstybinė miškų tarnyba, Valstybinei saugomų teritorijų tarnybai prie Aplinkos ministerijos pavaldžios parkų ir rezervatų direkcijos, Lietuvos geologijos tarnyba prie Aplinkos ministerijos (toliau – aplinkos apsaugos valstybinę kontrolę vykdančios institucijos).
 
 Straipsnio pakeitimai:
 
@@ -1027,6 +1039,8 @@ Nr. XII-884, 2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
 Straipsnio pakeitimai:
 
 Nr. XII-1952, 2015-10-01, paskelbta TAR 2015-10-08, i. k. 2015-14939
+
+Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
 
 121 straipsnis. Teismo leidimų įeiti į fizinių asmenų gyvenamąsias patalpas išdavimo tvarka
 
@@ -1104,7 +1118,11 @@ Nr. X-1510, 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
 
 37 straipsnis. Nutarimo sustabdyti aplinkai kenksmingą veiklą apskundimas
 
-1. Regiono aplinkos apsaugos departamento aplinkos apsaugos valstybinės kontrolės pareigūno priimtas nutarimas sustabdyti aplinkai kenksmingą veiklą skundžiamas per 10 dienų nuo jo priėmimo dienos regiono aplinkos apsaugos departamento aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančiai institucijai.
+1. Aplinkos apsaugos valstybinės kontrolės pareigūno priimtas nutarimas sustabdyti aplinkai kenksmingą veiklą per 10 dienų nuo jo priėmimo gali būti skundžiamas aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančiai institucijai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
 
 2. Skundo padavimas nesustabdo nutarimo sustabdyti aplinkai kenksmingą veiklą vykdymo.
 
@@ -1188,9 +1206,17 @@ Pagrindinis neetatinių aplinkos apsaugos inspektorių uždavinys – teikti vis
 
 2. Neetatiniams aplinkos apsaugos inspektoriams išduodami jų galias patvirtinantys aplinkos ministro nustatyto pavyzdžio pažymėjimai.
 
-3. Pažymėjimus išduoda Aplinkos ministerija arba jos įgaliota institucija ir regionų aplinkos apsaugos departamentai.
+3. Pažymėjimus neetatiniams aplinkos apsaugos inspektoriams išduoda Aplinkos apsaugos departamentas.
 
-4. Aplinkos ministerija arba jos įgaliota institucija suteikia galias neetatiniams aplinkos apsaugos inspektoriams veikti visoje Lietuvos Respublikos teritorijoje. Regionų aplinkos apsaugos departamentai suteikia galias veikti jų kontroliuojamoje teritorijoje.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
+
+4. Aplinkos apsaugos departamentas suteikia galias neetatiniams aplinkos apsaugos inspektoriams veikti visoje Lietuvos Respublikos teritorijoje ar jos dalyje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
 
 Straipsnio pakeitimai:
 
