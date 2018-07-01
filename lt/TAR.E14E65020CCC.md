@@ -4,7 +4,7 @@ identifier: "TAR.E14E65020CCC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-05-26"
-last_updated: "2017-01-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E14E65020CCC"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "15 straipsnis įsigalioja 2011 m. birželio 14 d."
 
 LIETUVOS RESPUBLIKOS APSAUGOS NUO SMURTO ARTIMOJE APLINKOJE ĮSTATYMAS
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 72-3475, i. k. 1111010ISTA0XI-1425
 
@@ -202,7 +202,11 @@ Nr. XII-2680, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25274
 
 4. Kai taikomas įpareigojimas smurtautojui laikinai išsikelti iš gyvenamosios vietos, jeigu jis gyvena kartu su smurtą patyrusiu asmeniu, policijos pareigūnai nedelsdami užtikrina smurtautojo išsikėlimą. Smurtautojo iškeldinimo tvarką nustato Vyriausybės įgaliota institucija.
 
-5. Tais atvejais, kai, taikant įpareigojimą smurtautojui išsikelti, be priežiūros lieka vaikas, policijos pareigūnai apie tai praneša savivaldybės vaiko teisių apsaugos skyriui.
+5. Tais atvejais, kai, taikant įpareigojimą smurtautojui išsikelti, be priežiūros lieka vaikas, policijos pareigūnai apie tai praneša Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1295, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10618
 
 6. Tais atvejais, kai, taikant įpareigojimą smurtautojui išsikelti, be priežiūros lieka globos ar slaugos reikalingas negalią turintis asmuo, policijos pareigūnai apie tai informuoja galintį šiuo asmeniu pasirūpinti giminaitį, kai jo nėra, – socialinių paslaugų įstaigą ir sveikatos priežiūros įstaigą, kurios yra savivaldybės administracijos direktoriaus patvirtintame sąraše ir gali suteikti pagalbą bet kuriuo paros metu.
 
@@ -252,17 +256,23 @@ Nr. XII-2680, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25274
 
 2. Specializuotos pagalbos centras, gavęs pranešimą iš policijos pareigūnų, nedelsdamas susisiekia su smurtą patyrusiu asmeniu ir jam pasiūlo specializuotą kompleksinę pagalbą.
 
-3. Policijos pareigūnai nedelsdami, bet ne vėliau kaip kitą darbo dieną, praneša savivaldybės vaiko teisių apsaugos skyriui apie gautą pranešimą dėl smurto artimoje aplinkoje, jeigu smurtą patyręs asmuo yra vaikas (vaikas, prieš kurį panaudotas smurtas, vaikas, gyvenantis ar buvęs įvykio metu aplinkoje, kurioje buvo smurtauta) arba smurtautojas yra nepilnametis.
+3. Policijos pareigūnai nedelsdami, bet ne vėliau kaip kitą darbo dieną, praneša Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai apie gautą pranešimą dėl smurto artimoje aplinkoje, jeigu smurtą patyręs asmuo yra vaikas (vaikas, prieš kurį panaudotas smurtas, vaikas, gyvenantis ar buvęs įvykio metu aplinkoje, kurioje buvo smurtauta) arba smurtautojas yra nepilnametis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2680, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25274
 
-4. Savivaldybės vaiko teisių apsaugos skyrius, gavęs informaciją apie smurtą artimoje aplinkoje, nedelsdamas susisiekia su vaiku ir vaiko atstovu pagal įstatymą ir, įvertinęs poreikį, imasi priemonių, reikalingų geriausiems vaiko interesams užtikrinti.
+Nr. XIII-1295, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10618
+
+4. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba, gavusi informaciją apie smurtą artimoje aplinkoje, per Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme nustatytą terminą susisiekia su vaiku ir vaiko atstovu pagal įstatymą ir, Vaiko teisių apsaugos pagrindų įstatymo nustatyta tvarka nustačiusi grėsmės vaikui lygį, imasi priemonių, reikalingų geriausiems vaiko interesams užtikrinti.
 
 Papildyta straipsnio dalimi:
 
 Nr. XII-2680, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25274
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1295, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10618
 
 KETVIRTASIS SKIRSNIS
 
@@ -405,4 +415,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2680, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25274
 
 Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 1, 2, 4, 5, 7, 8, 9 straipsnių pakeitimo ir 6 straipsnio pripažinimo netekusiu galios įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1295, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10618
+
+Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 7 ir 9 straipsnių pakeitimo įstatymas
 
