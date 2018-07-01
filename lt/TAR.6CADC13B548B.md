@@ -4,7 +4,7 @@ identifier: "TAR.6CADC13B548B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-04-13"
-last_updated: "2017-01-01"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6CADC13B548B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2021-08-11
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 35-974, i. k. 1001010ISTAIII-1621
 
@@ -156,7 +156,13 @@ Karinė jėga Statuto nustatytais atvejais ir tvarka gali būti naudojama įgyve
 
 6) prieš gyvūnus, keliančius pavojų žmonių gyvybei ar sveikatai;
 
-7) prieš transporto priemones, jeigu jų vairuotojai sudaro akivaizdų pavojų žmonių gyvybei ar sveikatai, arba sulaikant nusikalstamą veiką padariusį asmenį, kai jis bando pabėgti transporto priemone.
+7) prieš transporto priemones, jeigu jų vairuotojai sudaro akivaizdų pavojų žmonių gyvybei ar sveikatai, arba sulaikant nusikalstamą veiką padariusį asmenį, kai jis bando pabėgti transporto priemone;
+
+8) prieš bepiločius orlaivius, jeigu jų skrydžiai vykdomi nesilaikant bepiločių orlaivių skrydžiams nustatytų sąlygų, apribojimų ar tvarkos.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1209, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09723
 
 2. Kariai, nekeldami grėsmės įstatymų saugomoms vertybėms, turi teisę iššauti iš individualiojo ginklo ar panaudoti specialiąsias priemones, kai būtina duoti pavojaus signalą, išsikviesti pagalbą arba įspėti apie galimą individualiojo ginklo panaudojimą.
 
@@ -208,7 +214,11 @@ Karinė jėga Statuto nustatytais atvejais ir tvarka gali būti naudojama įgyve
 
 1) duoti privalomus nurodymus fiziniams ir juridiniams asmenims, kitoms organizacijoms ir jų padaliniams, kai būtina užtikrinti karinių teritorijų, jose esančio ar už karinių teritorijų vežamo svarbaus karinio turto apsaugą;
 
-2) persekioti ir sulaikyti asmenis, nevykdančius karių privalomų nurodymų arba mėginančius į karinę teritoriją patekti neteisėtai;
+2) persekioti ir sulaikyti asmenis, nevykdančius karių privalomų nurodymų, mėginančius į karinę teritoriją patekti neteisėtai arba neteisėtai filmuojančius, fotografuojančius ar kitais būdais vizualizuojančius karines teritorijas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1209, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09723
 
 3) persekioti ir sulaikyti asmenis, karinėje teritorijoje darančius nusikalstamą veiką ar kitą teisės pažeidimą;
 
@@ -339,6 +349,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2531, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20289
 
 Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymu Nr. VIII-1621 patvirtinto karinės jėgos naudojimo statuto 2 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1209, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09723
+
+Lietuvos Respublikos karinės jėgos naudojimo statuto 8 ir 12 straipsnių pakeitimo įstatymas
 
 18 straipsnis. Neteko galios nuo 2013-01-01
 
