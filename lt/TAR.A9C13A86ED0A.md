@@ -4,7 +4,7 @@ identifier: "TAR.A9C13A86ED0A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2017-12-30"
+last_updated: "2018-07-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A9C13A86ED0A"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-12-30 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-11-12
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 58-1133, i. k. 0941010ISTA000I-555
 
@@ -128,7 +128,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1931, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11104
 
-7. Lietuvos karių ir civilių krašto apsaugos sistemos tarnautojų tarnybos tarptautinių operacijų kariniuose vienetuose sąlygas nustato Lietuvos Respublikos Vyriausybė.
+7. Civilių krašto apsaugos sistemos tarnautojų tarnybos tarptautinių operacijų kariniuose vienetuose sąlygas nustato Lietuvos Respublikos Vyriausybė. Karių, dalyvaujančių tarptautinėje operacijoje, besirengiančių tarptautinei operacijai, tarptautinės operacijos vietovėje vykdančių tarnybinę užduotį, tarnybos apmokėjimą nustato Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1313, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10966
 
 Straipsnio dalies numeracijos pakeitimas:
 
