@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2018-01-01"
+last_updated: "2018-07-04"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-07-03
+Suvestinė redakcija nuo 2018-07-04 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
 
@@ -196,7 +196,11 @@ biudžetinių įstaigų, vadovų pareigos
 
 2) organizuoti iš biudžeto finansuojamų programų rengimą ir vykdymą;
 
-3) nustatyti ir tvirtinti vadovaujamos biudžetinės įstaigos ir (ar) pavaldžių biudžetinių įstaigų bei kitų subjektų programų sąmatas pagal ekonominės klasifikacijos straipsnius, neviršydami šioms programoms patvirtintų bendrųjų asignavimų, tarp jų – išlaidoms, iš jų – darbo užmokesčiui, ir turtui įsigyti, sumų;
+3) nustatyti ir tvirtinti vadovaujamos biudžetinės įstaigos ir (ar) pavaldžių biudžetinių įstaigų bei kitų subjektų programų sąmatas pagal ekonominės klasifikacijos straipsnius, neviršydami šioms programoms patvirtintų bendrųjų asignavimų, tarp jų – išlaidoms, iš jų – darbo užmokesčiui, ir turtui įsigyti, sumų. Asignavimų valdytojai, kurių vadovaujamose biudžetinėse įstaigose yra kolegialus valdymo organas, programų sąmatas tvirtina gavę kolegialaus valdymo organo pritarimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
 
 4) Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka ir terminais teikti ataskaitų rinkinius;
 
@@ -480,6 +484,12 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2313, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10424
 
+5. Taikant Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstitucinio įstatymo (toliau – Fiskalinės sutarties įgyvendinimo konstitucinis įstatymas) 3 straipsnio 3 dalyje nustatytą valdžios sektoriaus išlaidų augimo ribojimo taisyklę (toliau – išlaidų augimo ribojimo taisyklė), valdžios sektoriui priskiriamų biudžetų, kurių kiekvieno atskirai planuojami asignavimai viršija 3 procentus BVP to meto kainomis, asignavimų (išskyrus Europos Sąjungos finansinės paramos lėšas) visuma koreguojama tiems biudžetams priskiriamomis palūkanomis už skolą, diskrecinėmis pajamų priemonėmis, vienkartinėmis išlaidų priemonėmis, ciklinėmis nedarbo išmokomis ir investicijomis, kaip nustatyta Stabilumo ir augimo pakto reglamente.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
+
 Straipsnio pakeitimai:
 
 Nr. X-1317, 2007-11-08, Žin., 2007, Nr. 120-4882 (2007-11-22)
@@ -557,6 +567,18 @@ f) vidutiniu laikotarpiu numatomos fiskalinės rizikos sąrašas ir jos įvertin
 g) valstybės biudžeto ir savivaldybių biudžetų rodiklių perklasifikavimų, kurie atsirastų valdžios sektoriaus balanso rodiklį skaičiuojant pagal Europos sąskaitų sistemą (ESS’2010) ir kurių vertė viršija 0,1 procento BVP to meto kainomis, sąrašas;
 
 h) duomenys apie valdžios sektoriaus ilgalaikio tvarumo perspektyvų pokytį, kuris įvertinamas pagal mokesčių didinimo rizikos rodiklį ir jo pokytį, remiantis Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto rengimo metu Europos Komisijos paskelbtais naujausiais duomenimis;
+
+i) naujausių Europos Komisijos parengtų Lietuvos makroekonominių ir fiskalinių rodiklių prognozių ir Finansų ministerijos parengto ekonominės raidos scenarijaus bei vidutinio laikotarpio fiskalinių rodiklių projekcijų palyginimas, paaiškinant šių projekcijų ir Europos Komisijos parengtų Lietuvos makroekonominių ir fiskalinių rodiklių prognozių skirtumų, jei jų yra, priežastis;
+
+Papildyta papunkčiu:
+
+Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
+
+j) informacija apie Finansų ministerijos parengtų vidutinio laikotarpio fiskalinių rodiklių projekcijų pasikeitimą įvertinus prielaidą, kad BVP ir skolinimosi palūkanų norma nukrypsta nuo Finansų ministerijos parengto ekonominės raidos scenarijaus ir vidutinio laikotarpio fiskalinių rodiklių projekcijų.
+
+Papildyta papunkčiu:
+
+Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
 
 2) Vyriausybės tvirtinamo valstybės biudžeto asignavimų paskirstymo pagal programas projektą;
 
@@ -946,7 +968,11 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 4. Biudžeto asignavimų valdytojų ir jiems pavaldžių biudžetinių įstaigų ir kitų subjektų programų vykdymą vertina vidaus audito tarnybos, vadovaudamosi Vidaus kontrolės ir vidaus audito įstatymu (Žin., 2002, Nr. 123-5540) ir kitais vidaus auditą reglamentuojančiais teisės aktais.
 
-5. Ekonominės raidos scenarijaus ir biudžeto pajamų planų modeliavimą, remdamasi objektyviais kriterijais, įskaitant baigiamąjį vertinimą, vertina Finansų ministerija. Šio vertinimo rezultatai skelbiami viešai ir į juos atsižvelgiama rengiant kitus ekonominės raidos scenarijus ir biudžeto pajamų planus. Jeigu vertinimo metu nustatomas didelis šališkumas, kuris suprantamas kaip mažiausiai ketverius metus iš eilės pasikartojančios paklaidos, darančios įtaką ekonominės raidos scenarijui ir susidarančios ne dėl prielaidų pasikeitimų ar modeliavimo metodų, Finansų ministerija imasi veiksmų šališkumui panaikinti ir apie juos viešai paskelbia.
+5. Ekonominės raidos scenarijaus, biudžeto pajamų ir išlaidų planų modeliavimą, remdamasi objektyviais kriterijais, įskaitant baigiamąjį vertinimą, vertina Finansų ministerija. Šio vertinimo rezultatai skelbiami viešai ir į juos atsižvelgiama rengiant kitus ekonominės raidos scenarijus, biudžeto pajamų ir išlaidų planus. Jeigu vertinimo metu nustatomas didelis šališkumas, kuris suprantamas kaip mažiausiai ketverius metus iš eilės pasikartojančios paklaidos, darančios įtaką ekonominės raidos scenarijui ir susidarančios ne dėl prielaidų pasikeitimo ar modeliavimo metodų, Finansų ministerija imasi veiksmų šališkumui panaikinti ir apie juos viešai paskelbia.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
 
 6. Vyriausybės nustatyta tvarka savivaldybės kiekvienam metų ketvirčiui pasibaigus teikia Finansų ministerijai biudžeto vykdymo prognozes likusiems metų ketvirčiams.
 
@@ -972,19 +998,21 @@ BIUDŽETINĖS DRAUSMĖS PAŽEIDIMŲ PROCEDŪROS, JŲ PAAIŠKINIMAS, PATEISINIMAS
 
 Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
-38 straipsnis. Procedūros dėl nepagrįsto tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties neįvykdymo
+38 straipsnis. Procedūros dėl nepagrįsto tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties neįvykdymo arba išlaidų augimo ribojimo taisyklės nesilaikymo
 
-1. Vyriausybė, pasibaigus biudžetiniams metams, Viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka teikdama Seimui nacionalinį finansinių ataskaitų rinkinį, kartu teikia Finansų ministerijos Vyriausybės nustatyta tvarka parengtą tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties įvykdymo ataskaitą. Užduotis laikoma neįvykdyta, jeigu valdžios sektoriaus balanso rodiklis arba valdžios sektoriaus balanso rodiklio postūmis nukrypsta nuo užduoties daugiau negu 0,2 procento BVP to meto kainomis.
+1. Kiekvienais metais Vyriausybė ar jos įgaliota institucija kartu su Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 3 straipsnio 2 dalyje nurodyta ataskaita Seimui pateikia informaciją apie tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties vykdymą ir apie tai, ar pasibaigusiais biudžetiniais metais buvo laikomasi išlaidų augimo ribojimo taisyklės. Laikoma, kad užduotis neįvykdyta arba išlaidų augimo ribojimo taisyklės buvo nesilaikyta, jeigu valdžios sektoriaus balanso rodiklis arba valdžios sektoriaus balanso rodiklio postūmis nukrypsta nuo užduoties arba išlaidų dydis viršija nustatytąjį daugiau negu 0,2 procento BVP to meto kainomis.
 
-2. Jeigu valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties įvykdymo ataskaitoje nurodoma, kad buvo neįvykdyta valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduotis, Ministras Pirmininkas turi Seime žodžiu pateikti neįvykdymo pateisinimo priežastis. Jeigu nėra šio Įstatymo 39 straipsnyje nurodytų pateisinamų priežasčių, Ministras Pirmininkas pateikia kitokius paaiškinimus, kodėl nebuvo įvykdyta valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduotis, ir pasiūlo priemones, kurių galėtų būti imamasi siekiant išvengti užduočių neįvykdymo dėl tokių pačių priežasčių ateityje.
+2. Jeigu kartu su Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 3 straipsnio 2 dalyje nurodyta ataskaita Seimui pateiktoje informacijoje nurodoma, kad buvo neįvykdyta valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduotis arba buvo nesilaikoma išlaidų augimo ribojimo taisyklės, Ministras Pirmininkas turi Seime žodžiu pateikti šios užduoties neįvykdymo arba išlaidų augimo ribojimo taisyklės nesilaikymo pateisinimo priežastis. Jeigu nėra šio Įstatymo 39 straipsnyje nurodytų pateisinamų priežasčių, Ministras Pirmininkas pateikia kitokius paaiškinimus, kodėl nebuvo įvykdyta valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduotis arba nebuvo laikomasi išlaidų augimo ribojimo taisyklės, ir pasiūlo priemones, kurių galėtų būti imamasi siekiant išvengti užduočių neįvykdymo arba išlaidų augimo ribojimo taisyklės nesilaikymo dėl tokių pačių priežasčių ateityje.
 
 Straipsnio pakeitimai:
 
 Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
 
-39 straipsnis. Tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties neįvykdymo pateisinimo priežastys
+Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
 
-Pateisinamomis priežastimis, kai neįvykdoma tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduotis, laikoma:
+39 straipsnis. Tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties neįvykdymo arba išlaidų augimo ribojimo taisyklės nesilaikymo pateisinimo priežastys
+
+Tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties neįvykdymo arba išlaidų augimo ribojimo taisyklės nesilaikymo pateisinamos priežastys yra:
 
 1) rengiant Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą naudoti Lietuvos statistikos departamento arba Europos Komisijos prognozuoti duomenys, kurie vėliau buvo pakeisti;
 
@@ -997,6 +1025,8 @@ Pateisinamomis priežastimis, kai neįvykdoma tam tikrų metų valdžios sektori
 Straipsnio pakeitimai:
 
 Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
+
+Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
 
 LIETUVOS RESPUBLIKOS
 
