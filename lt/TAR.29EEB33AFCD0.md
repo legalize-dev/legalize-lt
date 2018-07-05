@@ -4,7 +4,7 @@ identifier: "TAR.29EEB33AFCD0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-18"
-last_updated: "2018-06-15"
+last_updated: "2018-07-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2018-06-15 iki 2018-07-04
+Suvestinė redakcija nuo 2018-07-05 iki 2018-07-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
 
@@ -831,7 +831,11 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 7) laikinai, kol yra pagrindas, sustabdo (apriboja) centrinės kredito unijos nario balsavimo teisę;
 
-8) laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito įstaigose, ir kitu turtu;
+8) laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke ir kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1306, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11311
 
 9) atšaukia išduotą licenciją ar laikinai sustabdo jos galiojimą tol, kol egzistuoja pagrindas licenciją sustabdyti; išnykus licencijos sustabdymo pagrindui, priežiūros institucija nedelsdama, bet ne vėliau kaip per 5 darbo dienas nuo tada, kai įsitikino, kad pagrindas išnyko, atnaujina licencijos galiojimą;
 
@@ -1816,6 +1820,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 22, 43, 45, 46, 49, 52, 54, 55, 56 straipsnių pakeitimo ir 48, 50 straipsnių pripažinimo netekusiais galios įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1306, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11311
+
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 40, 54 ir 60 straipsnių pakeitimo įstatymo Nr. XIII-1099 1 ir 2 straipsnių pakeitimo įstatymas
 
 71 straipsnis. Kreditorių reikalavimų tenkinimo eilė
 
