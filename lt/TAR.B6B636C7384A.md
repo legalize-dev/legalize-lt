@@ -4,7 +4,7 @@ identifier: "TAR.B6B636C7384A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-30"
-last_updated: "2018-06-15"
+last_updated: "2018-07-05"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2018-06-15 iki 2018-07-04
+Suvestinė redakcija nuo 2018-07-05 iki 2018-07-15
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
 
@@ -1555,6 +1555,10 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 
 10) laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu;
 
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1305, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11310
+
 11) atšaukia išduotą licenciją ar laikinai sustabdo jos galiojimą tol, kol tam yra pagrindas. Išnykus licencijos galiojimo sustabdymo pagrindui, priežiūros institucija nedelsdama, bet ne vėliau kaip per 5 darbo dienas nuo tada, kai įsitikino, kad pagrindas išnyko, atnaujina licencijos galiojimą.
 
 2. Priežiūros institucija užsienio banko atstovybei taiko šias poveikio priemones:
@@ -1568,6 +1572,10 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 1) įspėja dėl šio Įstatymo ir kitų teisės aktų, reglamentuojančių finansų rinką, pažeidimo;
 
 2) užsienio banko filialui laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1305, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11310
 
 3) laikinai ar visam laikui uždraudžia teikti finansines paslaugas Lietuvos Respublikoje;
 
@@ -2448,6 +2456,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 9, 15, 34, 35, 59, 62, 64, 65, 67, 69, 70-1, 72, 73, 74, 75-1 straipsnių, priedo pakeitimo ir 65-1, 66, 68, 68-1 straipsnių pripažinimo netekusiais galios įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1305, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11310
+
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 56, 72 ir 77 straipsnių pakeitimo įstatymo Nr. XIII-1098 1 ir 2 straipsnių pakeitimo įstatymas
 
 1 straipsnis. Įstatymo paskirtis
 
