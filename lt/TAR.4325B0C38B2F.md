@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2018-01-01"
+last_updated: "2018-07-06"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-07-05
+Suvestinė redakcija nuo 2018-07-06 iki 2018-09-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
 
@@ -121,7 +121,11 @@ Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius arba Karinių
 
 2) mirusiojo sutuoktiniui ar tėvui (motinai), įtėviui (įmotei), nepaisant amžiaus ir darbingumo, jeigu jis (ji) nedirba ir prižiūri mirusiojo vaikus (įvaikius), vaikaičius, brolius ar seseris, kol šiems sukaks 8 metai;
 
-3) mirusiojo sutuoktiniui, sukakusiam Valstybinių socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių, – iki gyvos galvos;
+3) mirusiojo sutuoktiniui, sukakusiam Socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių, – iki gyvos galvos;.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
 
 4) mirusiojo sutuoktiniui, kuris pripažintas nedarbingu ar iš dalies darbingu (iki 2005 m. liepos 1 d. – invalidu), ir mirusiojo vaikams (įvaikiams), vyresniems kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, – kol jie yra nedarbingi ar iš dalies darbingi (invalidai);
 
@@ -171,9 +175,17 @@ Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius arba Karinių
 
 6. Draudėjas – darbdavys, kaip nustatyta Lietuvos Respublikos darbo kodekse, taip pat valstybės ar savivaldybės institucija, įstaiga ar įmonė (toliau – įmonė), mokantys arba pagal įstatymus privalantys mokėti valstybinio socialinio draudimo įmokas nelaimingų atsitikimų darbe socialiniam draudimui.
 
-7. Kompensavimo koeficientas (k) lėtinės profesinės ligos atveju – metinių asmens socialinio draudimo pensijų apskaitos vienetų, apskaičiuotų Lietuvos Respublikos socialinio draudimo pensijų įstatymo nustatyta tvarka, vidurkis per visą įskaitytiną to asmens draudimo laikotarpį (stažą).
+7. Kompensavimo koeficientas (k) lėtinės profesinės ligos atveju – asmens socialinio draudimo pensijų apskaitos vienetų, apskaičiuotų Lietuvos Respublikos socialinio draudimo pensijų įstatymo nustatyta tvarka, vidurkis per visą įskaitytiną to asmens draudimo laikotarpį (stažą).
 
-8. Kompensavimo koeficientas (k) nelaimingo atsitikimo darbe (tarnyboje), pakeliui į darbą (tarnybą) ar iš darbo (tarnybos) arba ūmios profesinės ligos atveju – asmens vidutinių mėnesinių draudžiamųjų pajamų per paskutinius paeiliui einančius 12 mėnesių, skaičiuojant atgal nuo pabaigos užpraeito kalendorinio mėnesio, buvusio prieš nelaimingo atsitikimo darbe (tarnyboje), pakeliui į darbą (tarnybą) ar iš darbo (tarnybos) arba ūmios profesinės ligos nustatymo mėnesį, santykis su nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba susirgimo ūmia profesine liga nustatymo metu galiojančiu užpraeito ketvirčio šalies vidutiniu mėnesiniu darbo užmokesčiu. Šis koeficientas taip pat taikomas skaičiuojant netekto darbingumo periodinę kompensaciją, kai asmuo, kuriam nustatyta lėtinė profesinė liga, pagal Valstybinių socialinio draudimo pensijų įstatymą neturi teisės gauti valstybinės socialinio draudimo netekto darbingumo (invalidumo) arba valstybinės socialinio draudimo senatvės pensijos.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
+
+8. Kompensavimo koeficientas (k) nelaimingo atsitikimo darbe (tarnyboje), pakeliui į darbą (tarnybą) ar iš darbo (tarnybos) arba ūmios profesinės ligos atveju – asmens vidutinių mėnesinių draudžiamųjų pajamų per paskutinius paeiliui einančius 12 mėnesių, skaičiuojant atgal nuo pabaigos užpraeito kalendorinio mėnesio, buvusio prieš nelaimingo atsitikimo darbe (tarnyboje), pakeliui į darbą (tarnybą) ar iš darbo (tarnybos) arba ūmios profesinės ligos nustatymo mėnesį, santykis su nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba susirgimo ūmia profesine liga nustatymo metu galiojančiu užpraeito ketvirčio šalies vidutiniu mėnesiniu darbo užmokesčiu. Šis koeficientas taip pat taikomas skaičiuojant netekto darbingumo periodinę kompensaciją, kai asmuo, kuriam nustatyta lėtinė profesinė liga, pagal Socialinio draudimo pensijų įstatymą neturi teisės gauti socialinio draudimo netekto darbingumo (invalidumo) arba socialinio draudimo senatvės pensijos arba kai šis koeficientas yra didesnis negu apskaičiuotasis šio straipsnio 7 dalyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
 
 9. Kompensavimo koeficiento (k) ribos – šio įstatymo nustatytoms išmokoms apskaičiuoti taikomas kompensavimo koeficientas, ne mažesnis kaip 0,25 ir ne didesnis kaip 3.
 
