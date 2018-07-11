@@ -4,7 +4,7 @@ identifier: "TAR.C595FF45F869"
 country: "lt"
 rank: "istatymas"
 publication_date: "2009-04-30"
-last_updated: "2018-07-01"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Šio įstatymo 8 straipsnio 1 dalis ta apimtimi, k
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-07-10
+Suvestinė redakcija nuo 2018-07-11 iki 2018-11-28
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -789,6 +789,14 @@ Nr. XIII-1186, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09077
 
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 85 straipsnio pakeitimo įstatymas
 
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 17 straipsnio pakeitimo įstatymas
+
 94 straipsnis. Įstatymo VII skyriaus nuostatų įsigaliojimas ir taikymas
 
 1. Šio įstatymo 67 straipsnio 2 dalis ir 69 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d.
@@ -1199,7 +1207,11 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 17 straipsnis. Akademinės etikos ir procedūrų kontrolierius
 
-1. Akademinės etikos ir procedūrų kontrolierius (toliau – kontrolierius) yra valstybės pareigūnas, nagrinėjantis skundus, pranešimus ir savo iniciatyva atliekantis tyrimus dėl galimų akademinės etikos ir procedūrų, įtvirtintų mokslo ir studijų institucijų akademinės etikos kodeksuose, pažeidimų (toliau šiame straipsnyje – tyrimas).
+1. Akademinės etikos ir procedūrų kontrolierius (toliau – kontrolierius) yra valstybės pareigūnas, nagrinėjantis skundus, pranešimus ir savo iniciatyva atliekantis tyrimus dėl galimų akademinės etikos ir procedūrų pažeidimų (toliau šiame straipsnyje – tyrimas).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
 
 2. Kontrolierių 5 metų kadencijai skiria Seimas Lietuvos mokslo tarybos teikimu. Tas pats asmuo kontrolieriumi negali būti skiriamas daugiau kaip dvi kadencijas iš eilės.
 
@@ -1239,23 +1251,59 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 11. Išnagrinėjęs skundą (pranešimą) arba atlikęs tyrimą, kontrolierius priima sprendimą:
 
-1) informuoti pareiškėją, mokslo ir studijų institucijas ir Švietimo ir mokslo ministeriją apie asmenis, padariusius akademinės etikos ir procedūrų pažeidimus;
+1) informuoti pareiškėją, mokslo ir studijų institucijas ir Švietimo ir mokslo ministeriją apie asmenis, padariusius akademinės etikos ir (arba) procedūrų pažeidimus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
 
 2) įpareigoti aukštojo mokslo kvalifikaciją suteikusią ir (arba) konkursą pareigoms eiti vykdžiusią instituciją atšaukti sprendimą dėl aukštojo mokslo kvalifikacijos suteikimo ir (arba) konkurso laimėtojo;
 
-3) rekomenduoti mokslo ir studijų institucijoms atšaukti sprendimą, priimtą remiantis akademinę etiką ir procedūras reglamentuojančiais dokumentais;
+3) įpareigoti mokslo ir studijų institucijas pakeisti ar panaikinti sprendimus, prieštaraujančius akademinei etikai ir procedūroms;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
 
 4) rekomenduoti darbuotojui atsisakyti dalyvauti vykdomame mokslinių tyrimų ir eksperimentinės plėtros projekte;
 
 5) informuoti už atitinkamą valdymo sritį atsakingą instituciją apie nukentėjusius nuo akademinės etikos ir (arba) procedūrų pažeidimų asmenis (autorius);
 
-6) informuoti teisėsaugos institucijas, jeigu nustatoma nusikalstamos veikos požymių;
+6) rekomenduoti mokslo ir studijų institucijoms imtis priemonių, kad būtų pašalinti akademinės etikos ir procedūrų pažeidimai ir jų priežastys;
 
-7) kreiptis į teismą, jeigu nevykdomas šios dalies 2 punkte nurodytas kontrolieriaus įpareigojimas;
+Papildyta straipsnio punktu:
 
-8) pripažinti skundą (pranešimą) nepagrįstu;
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
 
-9) skundo (pranešimo) nagrinėjimą ar tyrimą nutraukti.
+7) įpareigoti mokslo (meno) darbų autorius pateikti kontrolieriui leidėjo patvirtinimą dėl mokslo (meno) darbų pašalinimo iš prekybos vietų ir techninių klaidų ištaisymo duomenų bazėse, kuriose teikiamos nuorodos į mokslo (meno) darbus;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+
+8) informuoti teisėsaugos institucijas, jeigu nustatoma nusikalstamos veikos požymių;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+
+9) kreiptis į teismą, jeigu nevykdomas šios dalies 2 punkte nurodytas kontrolieriaus įpareigojimas;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+
+10) pripažinti skundą (pranešimą) nepagrįstu;
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+
+11) skundo (pranešimo) nagrinėjimą ar tyrimą nutraukti.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
 
 12. Kontrolieriaus veiklą užtikrina Akademinės etikos ir procedūrų kontrolieriaus tarnyba (toliau – Tarnyba). Tarnyba yra biudžetinė įstaiga. Tarnybos vadovas yra kontrolierius. Tarnybos nuostatus tvirtina Seimas.
 
@@ -1271,11 +1319,15 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 18. Prireikus kontrolierių pavaduoja Seimo valdybos sprendimu paskirtas asmuo, atitinkantis kontrolieriui keliamus reikalavimus.
 
-19. Šio straipsnio 3 dalies 2, 3, 4, 5 ir 6 punktuose nustatytais atvejais tol, kol į kontrolieriaus vietą paskiriamas naujas kontrolierius, Seimas Švietimo ir mokslo komiteto teikimu ne ilgesniam kaip 90 kalendorinių dienų laikotarpiui gali pavesti laikinai eiti kontrolieriaus pareigas asmeniui, atitinkančiam kontrolieriui keliamus reikalavimus.
+19. Šio straipsnio 3 dalies 2, 3, 4, 5 ir 6 punktuose nustatytais atvejais tol, kol į kontrolieriaus vietą paskiriamas naujas kontrolierius, Seimas Švietimo ir mokslo komiteto teikimu gali pavesti laikinai eiti kontrolieriaus pareigas asmeniui, atitinkančiam kontrolieriui keliamus reikalavimus.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1133, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07485
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
 
 20. Kontrolierius apie sprendime nustatytus akademinės etikos ir (arba) procedūrų pažeidimus informuoja atitinkamos mokslo ir studijų institucijos steigėją ir juridinio asmens dalyvius.
 
