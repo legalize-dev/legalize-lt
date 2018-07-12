@@ -4,7 +4,7 @@ identifier: "TAR.D570962773F8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-03"
-last_updated: "2017-12-14"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D570962773F8"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos atmintinų dienų įstatymas
 
-Suvestinė redakcija nuo 2017-12-14 iki 2018-07-11
+Suvestinė redakcija nuo 2018-07-12 iki 2019-01-21
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1672, i. k. 0971010ISTAVIII-397
 
@@ -539,7 +539,13 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 
-60) lapkričio 2-oji – Mirusiųjų atminimo (Vėlinių) diena;
+60) spalio 31-oji – Reformacijos diena;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
+
+61) lapkričio 2-oji – Mirusiųjų atminimo (Vėlinių) diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -553,7 +559,9 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 
-61) lapkričio 16-oji – Tarptautinė tolerancijos diena;
+Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
+
+62) lapkričio 16-oji – Tarptautinė tolerancijos diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -567,7 +575,9 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 
-62) lapkričio 23-ioji – Lietuvos kariuomenės diena;
+Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
+
+63) lapkričio 23-ioji – Lietuvos kariuomenės diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -581,7 +591,9 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 
-63) lapkričio 30-oji – Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena;
+Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
+
+64) lapkričio 30-oji – Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -595,7 +607,9 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 
-64) gruodžio 3-ioji – Lietuvos advokatūros diena;
+Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
+
+65) gruodžio 3-ioji – Lietuvos advokatūros diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -609,7 +623,9 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 
-65) gruodžio 10-oji – Tarptautinė žmogaus teisių diena;
+Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
+
+66) gruodžio 10-oji – Tarptautinė žmogaus teisių diena;
 
 Straipsnio punkto numeracijos pakeitimas:
 
@@ -623,7 +639,9 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 
-66) gruodžio 15-oji – Lietuvos teismų diena.
+Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
+
+67) gruodžio 15-oji – Lietuvos teismų diena.
 
 Papildyta straipsnio punktu:
 
@@ -636,6 +654,8 @@ Nr. XIII-859, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20058
 Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
 
 Straipsnio pakeitimai:
 
@@ -912,6 +932,14 @@ Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
+
+Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
 
 Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
 
