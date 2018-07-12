@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2018-07-01"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-07-11
+Suvestinė redakcija nuo 2018-07-12 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -267,7 +267,11 @@ Nr. XII-1080, 2014-07-17, paskelbta TAR 2014-07-22, i. k. 2014-10422
 
 3. Kai asmuo slapstosi ar jo buvimo vieta nežinoma, įtariamuoju jis pripažįstamas prokuroro nutarimu ar ikiteisminio tyrimo teisėjo nutartimi, o neatidėliotinais atvejais – ikiteisminio tyrimo pareigūno nutarimu.
 
-4. Įtariamasis turi teisę: žinoti, kuo jis įtariamas; nuo sulaikymo ar pirmosios apklausos momento turėti gynėją; gauti vertimą žodžiu ir raštu; informuoti konsulines įstaigas ir vieną asmenį; gauti skubią medicinos pagalbą; žinoti maksimalų terminą, kiek valandų (dienų) gali būti ribojama jo laisvė iki bylos nagrinėjimo teisminėje institucijoje pradžios; duoti parodymus ar tylėti; pateikti tyrimui reikšmingus dokumentus ir daiktus; pateikti prašymus; pareikšti nušalinimus; susipažinti su ikiteisminio tyrimo medžiaga; apskųsti ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo veiksmus bei sprendimus.
+4. Įtariamasis turi teisę: žinoti, kuo jis įtariamas; nuo sulaikymo ar pirmosios apklausos momento turėti gynėją; gauti vertimą žodžiu ir raštu; informuoti konsulines įstaigas ir vieną asmenį; gauti skubią medicinos pagalbą; žinoti maksimalų terminą, kiek valandų (dienų) gali būti ribojama jo laisvė iki bylos nagrinėjimo teisminėje institucijoje pradžios; duoti parodymus; tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką; pateikti tyrimui reikšmingus dokumentus ir daiktus; pateikti prašymus; pareikšti nušalinimus; susipažinti su ikiteisminio tyrimo medžiaga; apskųsti ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo veiksmus bei sprendimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
 
 Straipsnio pakeitimai:
 
@@ -509,7 +513,11 @@ Nr. XII-1848, 2015-06-23, paskelbta TAR 2015-07-09, i. k. 2015-11213
 
 272 straipsnis. Kaltinamojo apklausa
 
-1. Po kaltinamojo atsakymų dėl kaltinimo teisiamojo posėdžio pirmininkas išaiškina jam teisę duoti paaiškinimus, atsakyti į klausimus ar atsisakyti tai daryti. Be to, pirmininkas paaiškina, kad kaltinamasis posėdyje turi teisę užduoti klausimų apklausiamiems asmenims ir duoti paaiškinimus dėl tiriamų įrodymų.
+1. Po kaltinamojo atsakymų dėl kaltinimo teisiamojo posėdžio pirmininkas išaiškina jam teisę duoti paaiškinimus, atsakyti į klausimus  arba tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką. Be to, teisiamojo posėdžio pirmininkas paaiškina, kad kaltinamasis posėdyje turi teisę užduoti klausimų apklausiamiems asmenims, pareikšti savo nuomonę dėl kitų nagrinėjimo teisme dalyvių pareikštų prašymų ir duoti paaiškinimus dėl tiriamų įrodymų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
 
 2. Jeigu nagrinėjant bylą teisme dalyvauja keli kaltinamieji ir jie pageidauja duoti parodymus, parodymų davimo eilę nustato teismas, atsiklausęs kaltinamųjų ir jų gynėjų nuomonės.
 
@@ -725,7 +733,11 @@ Nr. XII-775, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03406
 
 5. Kiekvienas nusikalstamos veikos padarymu kaltinamas asmuo turi teisę, kad jo bylą per kuo trumpiausią laiką lygybės ir viešumo sąlygomis teisingai išnagrinėtų nepriklausomas ir nešališkas teismas.
 
-6. Kiekvienas nusikalstamos veikos padarymu įtariamas ar kaltinamas asmuo laikomas nekaltu, kol jo kaltumas neįrodytas šio Kodekso nustatyta tvarka ir nepripažintas įsiteisėjusiu teismo nuosprendžiu.
+6. Kiekvienas nusikalstamos veikos padarymu įtariamas ar kaltinamas asmuo laikomas nekaltu tol, kol jo kaltumas neįrodytas šio Kodekso nustatyta tvarka ir nepripažintas įsiteisėjusiu teismo nuosprendžiu. Visos abejonės ir (ar) neaiškumai dėl nusikalstamos veikos padarymu kaltinamo asmens kaltės ar kitų aplinkybių, turinčių reikšmės bylai išspręsti teisingai, kurių, išnaudojus visas proceso veiksmų galimybes, neįmanoma pašalinti baudžiamojo proceso metu, vertinami nusikalstamos veikos padarymu kaltinamo asmens naudai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
 
 7. Kiekvienas nusikalstamos veikos padarymu įtariamas ar kaltinamas asmuo turi teisę, kad jam suprantama kalba būtų skubiai ir nuodugniai pranešta apie jam pareikšto kaltinimo pobūdį bei pagrindą, turėti pakankamai laiko bei galimybių pasirengti gynybai, pats apklausti liudytojus arba prašyti, kad liudytojai būtų apklausti, nemokamai naudotis vertėjo paslaugomis, jeigu nesupranta ar nekalba lietuviškai.
 
@@ -2373,13 +2385,15 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 3. Kasacinės bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu.
 
-3 dalies redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos:
+3 dalies redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01):
 
 3. Kasacinės bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu, arba jei prireikia prašyti Europos žmogaus teisių teismo konsultacinės išvados dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1773, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09616
+
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
 
 Straipsnio pakeitimai:
 
@@ -3064,6 +3078,12 @@ Nr. XII-2781, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26877
 Punkto numeracijos pakeitimas:
 
 Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+
+20. 2016 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/343 dėl tam tikrų nekaltumo prezumpcijos ir teisės dalyvauti nagrinėjant baudžiamąją bylą teisme aspektų užtikrinimo (OL 2016 L 65, p. 1).
+
+Papildyta punktu:
+
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
 
 Kodeksas papildytas priedu:
 
@@ -4689,7 +4709,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
 
-3. Kaltinamasis turi teisę: žinoti, kuo jis kaltinamas, ir gauti kaltinamojo akto nuorašą; susipažinti teisme su byla; nustatyta tvarka pasidaryti reikiamų dokumentų išrašus arba nuorašus; turėti gynėją; gauti vertimą žodžiu ir raštu; informuoti konsulines įstaigas ir vieną asmenį; gauti skubią medicinos pagalbą; pateikti prašymus; pareikšti nušalinimus; teikti įrodymus ir dalyvauti juos tiriant; nagrinėjimo teisme metu užduoti klausimus; duoti paaiškinimus apie teismo tiriamas bylos aplinkybes ir pareikšti savo nuomonę dėl kitų nagrinėjimo teisme dalyvių pareikštų prašymų; dalyvauti baigiamosiose kalbose, kai nėra gynėjo; kreiptis į teismą paskutiniu žodžiu; apskųsti teismo nuosprendį ir nutartis.
+3. Kaltinamasis turi teisę: žinoti, kuo jis kaltinamas, ir gauti kaltinamojo akto nuorašą; susipažinti teisme su byla; nustatyta tvarka pasidaryti reikiamų dokumentų išrašus arba nuorašus; turėti gynėją; gauti vertimą žodžiu ir raštu; informuoti konsulines įstaigas ir vieną asmenį; gauti skubią medicinos pagalbą; pateikti prašymus; pareikšti nušalinimus; teikti įrodymus ir dalyvauti juos tiriant; nagrinėjimo teisme metu duoti parodymus ir užduoti klausimus; duoti paaiškinimus apie teismo tiriamas bylos aplinkybes ir pareikšti savo nuomonę dėl kitų nagrinėjimo teisme dalyvių pareikštų prašymų; tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką; dalyvauti baigiamosiose kalbose, kai nėra gynėjo; kreiptis į teismą paskutiniu žodžiu; apskųsti teismo nuosprendį ir nutartis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
 
 4. Kaltinamasis, dėl kurio yra priimtas apkaltinamasis nuosprendis, tampa nuteistuoju, o kaltinamasis, dėl kurio priimtas išteisinamasis nuosprendis, tampa išteisintuoju.
 
@@ -6291,9 +6315,17 @@ Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
 
 2. Įtariamasis visada apklausiamas prieš jam skiriant kardomąją priemonę.
 
-3. Apklausos pradžioje įtariamojo paklausiama, ar jis prisipažįsta padaręs nusikalstamą veiką, kurios padarymu įtariamas. Po to pasiūloma duoti parodymus apie įtarimo esmę. Vėliau įtariamajam gali būti užduodami klausimai.
+3. Prieš pradėdamas įtariamojo apklausą, ikiteisminio tyrimo pareigūnas, prokuroras ar šio Kodekso nurodytais atvejais ikiteisminio tyrimo teisėjas išaiškina įtariamajam jo teisę tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką. Apklausos pradžioje įtariamojo paklausiama, ar jis prisipažįsta padaręs nusikalstamą veiką, kurios padarymu įtariamas. Po to pasiūloma duoti parodymus apie įtarimo esmę. Vėliau įtariamajam gali būti užduodami klausimai.
 
-4. Įtariamojo apklausos protokolas surašomas laikantis šio Kodekso 179 straipsnyje nustatytų reikalavimų. Įtariamojo parodymai protokole užrašomi pirmuoju asmeniu ir kiek galima pažodžiui. Jeigu reikia, nurodomi įtariamajam užduoti klausimai ir jo atsakymai.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
+
+4. Įtariamojo apklausos protokolas surašomas laikantis šio Kodekso 179 straipsnyje nustatytų reikalavimų. Įtariamojo parodymai apklausos protokole užrašomi pirmuoju asmeniu ir kiek galima pažodžiui. Jeigu reikia, nurodomi įtariamajam užduoti klausimai ir jo atsakymai. Jeigu apklausos metu įtariamasis pasinaudojo savo teise tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką, tai pažymima įtariamojo apklausos protokole.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
 
 5. Proceso dalyvių prašymu arba ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo iniciatyva į nepilnamečio įtariamojo apklausą kviečiamas psichologas, kuris padeda apklausti nepilnametį, atsižvelgdamas į jo socialinę ir psichologinę brandą, ir (ar) valstybinės vaiko teisių apsaugos institucijos atstovas, kuris stebi, ar apklausos metu nepažeidžiamos nepilnamečio įtariamojo teisės. Valstybinės vaiko teisių apsaugos institucijos atstovas gali užduoti apklausiamam asmeniui klausimų ir reikšti prašymus dėl apklausos.
 
@@ -6327,7 +6359,11 @@ Nr. XI-1269, 2010-12-23, Žin., 2010, Nr. 157-7981 (2010-12-31)
 
 3. Prokuroro iniciatyva įtariamąjį apklausia ikiteisminio tyrimo teisėjas tuo atveju, kai manoma, kad bylos nagrinėjimo teisme metu kaltinamasis gali pakeisti savo parodymus arba pasinaudoti teise atsisakyti duoti parodymus.
 
-4. Prokuroro iniciatyva atliekamos įtariamojo apklausos metu taikomos šio Kodekso 188 straipsnio 4 dalies nuostatos.
+4. Prokuroro iniciatyva atliekamos įtariamojo apklausos metu taikomos šio Kodekso 188 straipsnio 3 ir 4 dalių nuostatos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
 
 5. Įtariamojo prašymu atliekamos apklausos metu turi dalyvauti jo gynėjas. Įtariamojo apklausa pradedama pasiūlymu įtariamajam papasakoti apie aplinkybes, dėl kurių jis norėjo būti apklaustas teisėjo. Po to įtariamajam klausimus gali užduoti gynėjas bei prokuroras.
 
