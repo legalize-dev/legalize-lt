@@ -4,7 +4,7 @@ identifier: "TAR.3EB34933E485"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-13"
-last_updated: "2018-06-12"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2018-06-12 iki 2018-07-11
+Suvestinė redakcija nuo 2018-07-12 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
 
@@ -608,12 +608,6 @@ Straipsnio dalies pakeitimai:
 Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
 
 2. Šio Įstatymo nustatyta tvarka mokesčių administratoriui atliekant pakartotinį mokesčių mokėtojo patikrinimą, šio straipsnio 1 dalies nuostatos netaikomos, tačiau mokesčių administratorius tokio patikrinimo metu negali apskaičiuoti mokesčio už ilgesnį laikotarpį negu pirminio patikrinimo metu.
-
-3. Jeigu mokesčių mokėtojas pateikia mokesčio deklaraciją arba patikslintą mokesčio deklaraciją likus mažiau kaip 90 dienų iki šio straipsnio 1 dalyje numatyto mokesčio apskaičiavimo (perskaičiavimo) termino pabaigos, mokesčių administratorius gali patikrinti šioje deklaracijoje deklaruoto mokesčio apskaičiavimo teisingumą ir jį perskaičiuoti neatsižvelgdamas į šio straipsnio 1 dalies nuostatas, jeigu mokesčių administratorius patikrinimą pradeda ne vėliau kaip per 90 dienų nuo šios deklaracijos pateikimo dienos.
-
-Papildyta straipsnio dalimi:
-
-Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
 
 4. Apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu 1 dalyje numatytas terminas galima tik tuo atveju, jei baudžiamojoje byloje būtina nustatyti padarytą žalą valstybei ir nėra pasibaigę Baudžiamajame kodekse numatyti apkaltinamojo nuosprendžio priėmimo senaties terminai.
 
@@ -2019,7 +2013,11 @@ Mokesčių administratorius, siekdamas efektyviau atlikti savo funkcijas, su asm
 
 Mokesčių administratorius (jo pareigūnas), atlikdamas jam pavestas funkcijas, turi teisę:
 
-1) gauti iš asmenų, tarp jų iš kredito, mokėjimo ir elektroninių pinigų įstaigų, funkcijoms atlikti reikiamus duomenis ir dokumentų nuorašus, kompiuterinių laikmenų duomenis (kopijas) apie to arba kito asmens turtą, pajamas, išlaidas ir veiklą, naudotis savo ir kitų juridinių asmenų valdomų ar tvarkomų registrų, duomenų bazių informacija;
+1) gauti iš asmenų, tarp jų iš kredito, mokėjimo ir elektroninių pinigų įstaigų, funkcijoms atlikti reikiamus duomenis ir dokumentų nuorašus, kompiuterinių laikmenų duomenis (kopijas) apie to arba kito asmens, įskaitant naudos gavėją, kaip ši sąvoka apibrėžta Lietuvos Respublikos pinigų plovimo ir terorizmo finansavimo prevencijos įstatyme, turtą, pajamas, išlaidas ir veiklą, naudotis savo ir kitų juridinių asmenų valdomų ar tvarkomų registrų, duomenų bazių informacija;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1441, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11753
 
 2) šio Įstatymo nustatyta tvarka patekti į mokesčių mokėtojo teritoriją, pastatus ir patalpas;
 
@@ -2835,17 +2833,15 @@ priedas
 
 1. 2008 m. gegužės 26 d. Tarybos direktyva 2008/55/EB dėl tarpusavio pagalbos vykdant reikalavimus, susijusius su tam tikromis rinkliavomis, muitais, mokesčiais ir kitomis priemonėmis (OL 2008 L 150, p. 28).
 
-2. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB (OL 2011 L 64, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. gegužės 25 d. Tarybos direktyva (ES) 2016/881 (OL 2016 L 146, p. 8).
+2. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB (OL 2011 L 64, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 6 d. Tarybos direktyva (ES) 2016/2258 (OL 2016 L 324, p. 1).
 
-Priedo pakeitimai:
-
-Nr. X-247, 2005-06-16, Žin., 2005, Nr. 81-2939 (2005-06-30)
-
-Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
+3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ir teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlameno ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB (OL 2015 L 141, p. 73).
 
 Priedo pakeitimai:
 
 Nr. XIII-374, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09154
+
+Nr. XIII-1441, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11753
 
 Pakeitimai:
 
