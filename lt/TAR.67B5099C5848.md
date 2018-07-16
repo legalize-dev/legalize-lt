@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2018-07-01"
+last_updated: "2018-07-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr. –––––
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-07-15
+Suvestinė redakcija nuo 2018-07-16 iki 2018-12-28
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
 
@@ -79,7 +79,7 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 4. Lietuvos vyriausiasis administracinis teismas, kai tai susiję su jo nagrinėjama byla, gali kreiptis į Europos Žmogaus Teisių Teismą su prašymu pateikti konsultacinę išvadą dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu.
 
-TAR pastaba. 4 straipsnio 4 dalis įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną.
+TAR pastaba. 4 straipsnio 4 dalis įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną (2018-08-01).
 
 5. Administracinių bylų procesas vyksta pagal administracinio proceso įstatymus, galiojančius bylos nagrinėjimo, atskirų procesinių veiksmų atlikimo arba teismo sprendimo vykdymo metu.
 
@@ -427,7 +427,11 @@ ADMINISTRACINIŲ TEISMŲ KOMPETENCIJA
 
 20 straipsnis. Apygardos administracinio teismo kompetencija
 
-1. Apygardos administracinis teismas yra pirmoji instancija administracinėms byloms, nurodytoms šio įstatymo 17 straipsnyje, išskyrus bylas, nurodytas šio įstatymo 17 straipsnio 1 dalies 11 ir 13 punktuose.
+1. Apygardos administracinis teismas yra pirmoji instancija administracinėms byloms, nurodytoms šio įstatymo 17 straipsnyje, išskyrus bylas, nurodytas šio įstatymo 17 straipsnio 1 dalies 11, 13 ir 14 punktuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1434, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11744
 
 2. Netaikant išankstinio nagrinėjimo ne teismo tvarka procedūros, apygardos administracinis teismas, kaip pirmosios instancijos teismas, nagrinėja šias bylas:
 
@@ -451,7 +455,11 @@ ADMINISTRACINIŲ TEISMŲ KOMPETENCIJA
 
 2. Lietuvos vyriausiasis administracinis teismas nagrinėja prašymus dėl proceso atnaujinimo administracinėse bylose, kurios užbaigtos įsiteisėjusiu teismo sprendimu ar nutartimi.
 
-3. Lietuvos vyriausiasis administracinis teismas nagrinėja šio įstatymo 17 straipsnio 1 dalies 13 punkte nurodytas bylas.
+3. Lietuvos vyriausiasis administracinis teismas nagrinėja šio įstatymo 17 straipsnio 1 dalies 13 ir 14 punktuose nurodytas bylas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1434, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11744
 
 4. Lietuvos vyriausiasis administracinis teismas atlieka ir kitas jo kompetencijai įstatymų priskirtas funkcijas.
 
@@ -571,7 +579,11 @@ PAGRINDINĖS SKUNDŲ (PRAŠYMŲ, PAREIŠKIMŲ) PADAVIMO ADMINISTRACINIAM TEISMUI
 
 2. Jeigu viešojo administravimo subjektas nevykdo savo pareigų arba vilkina klausimo nagrinėjimą ir nustatytu laiku jo neišsprendžia, toks neveikimas (vilkinimas atlikti veiksmus) gali būti apskųstas per du mėnesius nuo dienos, kai baigiasi įstatymo ar kito teisės akto nustatytas klausimo išsprendimo laikas.
 
-3. Terminai pareiškimams (prašymams), kuriuose prašoma ištirti norminių administracinių teisės aktų teisėtumą, administraciniam teismui paduoti nenustatomi.
+3. Pareiškimų (prašymų), kuriuose prašoma ištirti norminių administracinių teisės aktų teisėtumą, taip pat Valstybinės duomenų apsaugos inspekcijos prašymų kreiptis į kompetentingą Europos Sąjungos teisminę instituciją dėl Europos Komisijos sprendimo padavimo administraciniam teismui terminai nenustatomi.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1434, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11744
 
 30 straipsnis. Praleisto termino atnaujinimas
 
@@ -1673,7 +1685,7 @@ Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
 
 2. Lietuvos vyriausiasis administracinis teismas sustabdo bylą, kai kreipiasi į Europos Žmogaus Teisių Teismą su prašymu pateikti konsultacinę išvadą dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu.
 
-TAR pastaba. 100 straipsnio 2 dalis įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną.
+TAR pastaba. 100 straipsnio 2 dalis įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną (2018-08-01).
 
 3. Dėl teismo nutarties sustabdyti bylos nagrinėjimą, išskyrus nutartį sustabdyti bylos nagrinėjimą dėl kreipimosi į Konstitucinį Teismą (šio straipsnio 1 dalies 4 ar 5 punkte nurodytu atveju), administracinį teismą ar kompetentingą Europos Sąjungos teisminę instituciją arba nutartį pradėti norminio administracinio teisės akto teisėtumo tyrimą, gali būti duodamas atskirasis skundas.
 
@@ -1693,7 +1705,7 @@ Bylos nagrinėjimas sustabdomas:
 
 6) šio įstatymo 100 straipsnio 2 dalyje nurodytu atveju – iki bus gauta Europos Žmogaus Teisių Teismo konsultacinė išvada;
 
-TAR pastaba. 101 straipsnio 6 punktas įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną.
+TAR pastaba. 101 straipsnio 6 punktas įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną (2018-08-01).
 
 7) šio įstatymo 100 straipsnio 1 dalies 11 punkte nurodytu atveju – iki bus išnagrinėtas atskirasis skundas;
 
