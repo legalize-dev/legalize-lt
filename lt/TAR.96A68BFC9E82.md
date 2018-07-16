@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2018-07-01"
+last_updated: "2018-07-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-07-15
+Suvestinė redakcija nuo 2018-07-16 iki 2018-07-16
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
 
@@ -375,11 +375,13 @@ Vyriausybė:
 
 8) steigia, reorganizuoja, pertvarko ir likviduoja Vyriausybės įstaigas, steigia įstaigas prie ministerijų ir paveda ministerijoms įgyvendinti įstaigų prie ministerijų savininko teises ir pareigas (išskyrus sprendimų dėl tokių įstaigų reorganizavimo ir likvidavimo priėmimą);
 
-9) tvirtina ministerijų, Vyriausybės kanceliarijos, Vyriausybės įstaigų, įstaigų prie ministerijų, Vyriausybės atstovo tarnybos nuostatus, Vyriausybės įstaigų administracijos struktūrą arba paveda ją tvirtinti Vyriausybės įstaigos vadovui; tvirtinti įstaigų prie ministerijų nuostatus ir jų administracijos struktūrą Vyriausybė gali pavesti atitinkamos valdymo srities ministrui, jei kiti įstatymai nenustato kitos jų tvirtinimo tvarkos;
+9) tvirtina ministerijų, Vyriausybės kanceliarijos, Vyriausybės įstaigų, įstaigų prie ministerijų, Vyriausybės atstovo tarnybos nuostatus, Vyriausybės įstaigų administracijos struktūrą arba paveda ją tvirtinti Vyriausybės įstaigos vadovui, jei kiti įstatymai nenustato kitos jos tvirtinimo tvarkos; tvirtinti įstaigų prie ministerijų nuostatus ir jų administracijos struktūrą Vyriausybė gali pavesti atitinkamos valdymo srities ministrui, jei kiti įstatymai nenustato kitos jų tvirtinimo tvarkos;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1862, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10824
+
+Nr. XIII-1431, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11739
 
 10) kartu su Respublikos Prezidentu vykdo užsienio politiką; užmezga diplomatinius santykius ir palaiko ryšius su užsienio valstybėmis bei tarptautinėmis organizacijomis; atsižvelgdama į Seimo Užsienio reikalų komiteto rekomendacijas, teikia Respublikos Prezidentui siūlymus dėl Lietuvos Respublikos diplomatinių atstovų užsienio valstybėse ir prie tarptautinių organizacijų skyrimo bei atšaukimo;
 
@@ -1469,9 +1471,13 @@ Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
 
 7. Vyriausybės įstaiga veikia pagal Vyriausybės nustatyta tvarka parengtus strateginį ir metinį veiklos planus. Vyriausybės įstaigos strateginį veiklos planą tvirtina atitinkamos valdymo srities ministras ar atitinkamų valdymo sričių ministrai bendru įsakymu, o metinį veiklos planą – Vyriausybės įstaigos vadovas, suderinęs su atitinkamos valdymo srities ministru ar atitinkamų valdymo sričių ministrais.
 
-8. Vyriausybės įstaigai vadovauja jos vadovas – valstybės pareigūnas. Vyriausybės įstaigos vadovą Vyriausybės paskirto atitinkamos valdymo srities ministro teikimu ketveriems metams priima į pareigas ir atleidžia iš jų Vyriausybė, jeigu įstatymai nenustato kitaip. Asmuo, priimamas į Vyriausybės įstaigos vadovo pareigas, turi atitikti bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, ir specialiuosius reikalavimus, kuriuos gali nustatyti Vyriausybės veiklą reglamentuojantis įstatymas. Vyriausybės įstaigos vadovas gali būti skiriamas eiti šias pareigas ne daugiau kaip dvi kadencijas iš eilės. Jeigu įstatymai nenustato kitaip, Vyriausybės įstaigos vadovas yra atsakingas Vyriausybei ir atitinkamos valdymo srities ministrui ir atskaitingas Vyriausybei ir ministrams, kuriems pavestos valdymo  sritys yra susijusios su Vyriausybės įstaigos veikla.
+8. Vyriausybės įstaigai vadovauja jos vadovas – valstybės pareigūnas. Vyriausybės įstaigos vadovą Vyriausybės paskirto atitinkamos valdymo srities ministro teikimu ketveriems metams priima į pareigas ir atleidžia iš jų Vyriausybė, jeigu įstatymai nenustato kitaip. Asmuo, priimamas į Vyriausybės įstaigos vadovo pareigas, turi atitikti bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, ir specialiuosius reikalavimus, kuriuos gali nustatyti Vyriausybės įstaigos veiklą reglamentuojantis įstatymas ar tiesiogiai taikomas Europos Sąjungos teisės aktas. Vyriausybės įstaigos vadovas gali būti skiriamas eiti šias pareigas ne daugiau kaip dvi kadencijas iš eilės. Jeigu įstatymai nenustato kitaip, Vyriausybės įstaigos vadovas yra atsakingas Vyriausybei ir atitinkamos valdymo srities ministrui ir atskaitingas Vyriausybei ir ministrams, kuriems pavestos valdymo sritys yra susijusios su Vyriausybės įstaigos veikla.
 
-9. Vyriausybės įstaigos vadovas atleidžiamas iš pareigų:
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1431, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11739
+
+9. Vyriausybės įstaigos vadovas, išskyrus atvejus, kai jo atleidimo pagrindus nustato Vyriausybės įstaigos veiklą reglamentuojantis įstatymas ar tiesiogiai taikomas Europos Sąjungos teisės aktas, atleidžiamas iš pareigų:
 
 1) savo noru;
 
@@ -1487,7 +1493,15 @@ Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
 
 7) kai Vyriausybė nepritaria jo veiklos ataskaitai.
 
-10. Vyriausybės įstaigos vadovas, dėl laikinojo nedarbingumo nedirbantis ilgiau kaip 120 kalendorinių dienų iš eilės arba ilgiau kaip 140 dienų per paskutinius 12 mėnesių, gali būti atleistas iš pareigų. Į šiuos laikotarpius neįskaitomas laikas, per kurį Vyriausybės įstaigos vadovas gavo ligos socialinio draudimo pašalpą sergantiems šeimos nariams slaugyti bei ligos pašalpą dėl užkrečiamųjų ligų protrūkių arba epidemijų nušalintiems nuo darbo.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1431, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11739
+
+10. Neteko galios nuo 2018-07-16.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1431, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11739
 
 11. Vyriausybės nustatyta tvarka Vyriausybės įstaigos vadovas atsiskaito už įstaigos veiklą, Vyriausybės ar atsakingo už pavestą valdymo sritį ministro reikalavimu atsiskaito už savo veiklą.
 
