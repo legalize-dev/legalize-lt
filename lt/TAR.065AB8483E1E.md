@@ -4,7 +4,7 @@ identifier: "TAR.065AB8483E1E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-07-02"
-last_updated: "2018-04-01"
+last_updated: "2018-07-16"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.065AB8483E1E"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2018-04-01 iki 2018-07-15
+Suvestinė redakcija nuo 2018-07-16 iki 2018-09-19
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
 
@@ -1978,11 +1978,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
 
-3. Inspektoriumi skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį išsilavinimą ir pareigoms atlikti būtiną kompetenciją.
+3. Inspektoriumi skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį išsilavinimą ir pareigoms atlikti būtiną kompetenciją bei atitinkantis Reglamento (ES) 2016/679 53 straipsnio 2 dalies reikalavimus. Nepriekaištingos reputacijos reikalavimai taikomi tokie, kokie valstybės tarnautojams nustatyti Valstybės tarnybos įstatyme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
+
+Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
 
 4. Inspektoriumi negali būti Seimo, Vyriausybės nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai. Inspektorius ir jo šeimos nariai negali būti susiję darbo santykiais su viešosios informacijos rengėjais ir (ar) skleidėjais, negali turėti viešosios informacijos rengėjų ir (ar) skleidėjų akcijų. Savo kadencijos laikotarpiu inspektorius negali dalyvauti politinėje veikloje.
 
@@ -1994,17 +1996,17 @@ Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
 
 8. Inspektorius atleidžiamas iš pareigų, kai:
 
-1) pasibaigia jo įgaliojimų laikas ir jis neskiriamas kitai kadencijai;
+1) pasibaigia jo įgaliojimų laikas;
 
 2) jis atsistatydina;
 
-3) nedirba dėl laikinojo nedarbingumo ilgiau kaip 120 kalendorinių dienų iš eilės arba ilgiau kaip 140 dienų per paskutinius 12 mėnesių, jei įstatymų nenustatyta, kad dėl tam tikros ligos pareigos paliekamos ilgesnį laiką, arba inspektorius pagal Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos išvadą negali eiti šių pareigų;
+3) kai nustatoma, kad jis padarė sunkų nusižengimą;
 
-4) jam įsiteisėja apkaltinamasis teismo nuosprendis;
+4) nebeatitinka šio straipsnio 3 ir 4 dalyse jam keliamų reikalavimų.
 
-5) daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo;
+Straipsnio dalies pakeitimai:
 
-6) praranda Lietuvos Respublikos pilietybę.
+Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
 
 9. Inspektorius, priimdamas sprendimą, gali pasitelkti ekspertų grupes (ekspertus), kurios (kurie) teikia išvadas dėl visuomenės informavimo priemonių ir (ar) jų turinio priskyrimo erotinio, pornografinio ir (ar) smurtinio pobūdžio informacijos kategorijoms, taip pat išvadas apie tai, ar viešoji informacija skatina nesantaiką dėl amžiaus, lyties, lytinės orientacijos, etninės priklausomybės, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, negalios, tikėjimo, įsitikinimų, pažiūrų ar religijos. Ekspertų grupių sudėtį ir ekspertų skaičių tvirtina inspektorius. Ekspertų grupės (ekspertai) atsako už savo išvados (išvadų) teisingumą įstatymų nustatyta tvarka. Ekspertų grupės (ekspertai) veikia pagal inspektoriaus patvirtintą darbo reglamentą. Visuomenės informavimo priemonių priskyrimo erotinio ir (ar) smurtinio pobūdžio informacijos kategorijoms tvarkos aprašą tvirtina Vyriausybės įgaliota institucija inspektoriaus teikimu.
 
@@ -2012,13 +2014,21 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 
-10. Inspektoriaus veiklą užtikrina Žurnalistų etikos inspektoriaus tarnyba. Žurnalistų etikos inspektoriaus tarnyba yra valstybės biudžetinė įstaiga, jai vadovauja inspektorius.
+10. Inspektoriaus veiklą užtikrina Žurnalistų etikos inspektoriaus tarnyba. Žurnalistų etikos inspektoriaus tarnyba yra biudžetinė įstaiga, kuriai vadovauja ir tarnybos struktūrą tvirtina inspektorius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
 
 11. Žurnalistų etikos inspektoriaus tarnyba yra viešasis juridinis asmuo ir turi antspaudą su Lietuvos valstybės herbu ir pavadinimu „Žurnalistų etikos inspektoriaus tarnyba“. Už antspaudo naudojimą ir saugojimą atsako inspektorius. Žurnalistų etikos inspektoriaus tarnybos buveinė yra Vilniuje. Patalpas jai suteikia Vyriausybė.
 
 12. Inspektoriaus, Žurnalistų etikos inspektoriaus tarnybos ir prie jos veikiančių ekspertų grupių (ekspertų) veikla finansuojama iš valstybės biudžeto. Biudžete šiai veiklai skirtos lėšos nurodomos atskira eilute.
 
-13. Žurnalistų etikos inspektoriaus tarnybos uždavinius, funkcijas, teises ir pareigas, struktūrą, darbo organizavimą ir finansavimą nustato Seimo patvirtinti Žurnalistų etikos inspektoriaus tarnybos nuostatai.
+13. Žurnalistų etikos inspektoriaus tarnybos uždaviniai, funkcijos, teisės ir pareigos, darbo organizavimo tvarka nustatomi Seimo patvirtintuose Žurnalistų etikos inspektoriaus tarnybos nuostatuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
 
 14. Inspektorius kartą per metus atsiskaito Seimui už savo ir Žurnalistų etikos inspektoriaus tarnybos veiklą ir iki kiekvienų metų balandžio 1 dienos pateikia metinę veiklos ataskaitą. Ji viešai skelbiama Žurnalistų etikos inspektoriaus tarnybos interneto svetainėje.
 
@@ -2038,7 +2048,11 @@ Nr. XI-2353, 2012-11-06, Žin., 2012, Nr. 132-6681 (2012-11-15)
 
 2) nagrinėja suinteresuotų asmenų skundus (pareiškimus) dėl jų teisės į privataus gyvenimo apsaugą pažeidimo visuomenės informavimo priemonėse;
 
-3) nagrinėja suinteresuotų asmenų skundus (pareiškimus) dėl jų asmens duomenų tvarkymo pažeidimo visuomenės informavimo priemonėse;
+3) nagrinėja duomenų subjektų pagal Reglamento (ES) 2016/679 77 straipsnio 1 dalį pateiktus skundus Asmens duomenų teisinės apsaugos įstatymo nustatyta tvarka. Nagrinėjant šiuos skundus, šio straipsnio 3, 4, 5 ir 9–18 dalys netaikomos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
 
 4) pagal savo kompetenciją prižiūri, kaip įgyvendinamos Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo nuostatos;
 
@@ -2132,7 +2146,11 @@ Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
 
 5. Skundas (pareiškimas), kuriame nėra bent vieno iš reikalavimų, numatytų šio straipsnio 4 dalyje, nenagrinėjamas, jei inspektorius nenusprendžia kitaip. Tuo atveju, kai inspektorius atsisako nagrinėti skundą (pareiškimą) dėl jo turinio reikalavimų trūkumų, asmuo (pareiškėjas) apie tai informuojamas per 5 darbo dienas, nurodant šiuos trūkumus. Pašalinus trūkumus asmens (pareiškėjo) skundas (pareiškimas) yra priimamas nagrinėti, o jo pateikimo data laikoma ta diena, kai buvo gautas skundas (pareiškimas), atitinkantis jam keliamus reikalavimus.
 
-6. Šio straipsnio 1 dalies 1–3 punktuose nustatytais atvejais inspektorius nagrinėja tik tų asmenų, kurių teisės visuomenės informavimo priemonėse yra pažeistos, arba jų atstovų pagal įstatymą, taip pat šių asmenų atstovų pagal pavedimą skundus (pareiškimus). Šiais atvejais anoniminiai skundai (pareiškimai) netiriami.
+6. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytais atvejais inspektorius nagrinėja tik tų asmenų, kurių teisės visuomenės informavimo priemonėse yra pažeistos, arba jų atstovų pagal įstatymą, taip pat šių asmenų atstovų pagal pavedimą skundus (pareiškimus). Šiais atvejais anoniminiai skundai (pareiškimai) netiriami.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
 
 7. Šio straipsnio 1 dalies 4 punkte nustatytu atveju inspektorius nagrinėja ne tik tų asmenų, kurių teisės buvo pažeistos visuomenės informavimo priemonėse, arba jų atstovų pagal įstatymą skundus (pareiškimus), bet ir kitų asmenų (pareiškėjų) pateiktus, taip pat anoniminius skundus (pareiškimus). Šiuo atveju tyrimą inspektorius gali pradėti savo iniciatyva.
 
@@ -2239,6 +2257,12 @@ priedas
 3. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 L 364, p. 1).
 
 4. 2010 m. kovo 10 d. Europos Parlamento ir Tarybos direktyva 2010/13/ES dėl valstybių narių įstatymuose ir kituose teisės aktuose išdėstytų tam tikrų nuostatų, susijusių su audiovizualinės žiniasklaidos paslaugų teikimu, derinimo (Audiovizualinės žiniasklaidos paslaugų direktyva) (kodifikuota redakcija) (OL 2010 L 263, p. 15).
+
+5. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1).
+
+Papildyta punktu:
+
+Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
 
 Priedo pakeitimai:
 
