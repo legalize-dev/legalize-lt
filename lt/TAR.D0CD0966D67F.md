@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2018-07-01"
+last_updated: "2018-07-17"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-07-16
+Suvestinė redakcija nuo 2018-07-17 iki 2018-11-20
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -787,7 +787,11 @@ Nr. XII-1621, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06522
 
 1) reglamento tvirtinimas. Reglamente, be kitų klausimų, turi būti numatytos pagrindinės bendravimo su gyventojais formos ir būdai, užtikrinantys vietos savivaldos principų ir teisės įgyvendinimą bendruomenės interesais;
 
-2) mero atleidimas iš pareigų prieš terminą, mero darbo užmokesčio nustatymas;
+2) mero atleidimas iš pareigų prieš terminą, mero darbo užmokesčio nustatymas, mero pareigas laikinai einančio mero pavaduotojo ar savivaldybės tarybos nario darbo užmokesčio nustatymas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1445, 2018-06-30, paskelbta TAR 2018-07-16, i. k. 2018-12067
 
 3) mero pavaduotojų skaičiaus nustatymas, mero pavaduotojo (pavaduotojų) skyrimas mero teikimu ir atleidimas iš pareigų prieš terminą, mero pavaduotojo (pavaduotojų) darbo užmokesčio nustatymas įstatymų nustatyta tvarka;
 
@@ -1061,7 +1065,11 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 10. Po savo kadencijos pabaigos meras ir mero pavaduotojas, jeigu neišrenkamas meru ar nepaskiriamas mero pavaduotoju arba prieš terminą netenka savo įgaliojimų (išskyrus atvejus, kai meras, mero pavaduotojas savo įgaliojimų netenka šio straipsnio 2 dalies 1 ir 3 punktuose nustatyta tvarka arba netenka savivaldybės tarybos nario įgaliojimų savivaldybės tarybos sprendimu pagal šio įstatymo 251 straipsnį), turi teisę Vyriausybės nustatyta tvarka grįžti į iki išrinkimo savivaldybės tarybos nariais eitas pareigas, o kai tokios galimybės nėra, – į kitas tos pačios ar žemesnės kategorijos pareigas, jeigu eitos pareigos pagal teisės aktus priskiriamos valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms. Be to, šioje dalyje nustatytu atveju meras ir mero pavaduotojas turi teisę grįžti į iki išrinkimo savivaldybės tarybos nariais eitas pareigas, jeigu jie ėjo šias pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, o kai tokios galimybės nėra, – į kitas pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje. Jeigu šie asmenys iki išrinkimo savivaldybės tarybos nariais tokių pareigų nėjo arba atsisakė pasiūlytų kitų žemesnės kategorijos pareigų, pagal teisės aktus priskiriamų valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms, arba kitų pareigų savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, jiems išmokama 3 mėnesių jų vidutinio darbo užmokesčio dydžio išmoka. Ji išmokama per 3 mėnesius lygiomis dalimis kas mėnesį. Jeigu asmuo pradeda eiti pareigas valstybės tarnyboje anksčiau negu po 3 mėnesių, likusi neišmokėta išmokos dalis nemokama. Jeigu šie asmenys mero ir mero pavaduotojo pareigas ėjo mažiau kaip vienus metus iki kadencijos pabaigos, jiems išmokama vieno mėnesio jų vidutinio darbo užmokesčio dydžio išmoka. Nutrūkus mero, mero pavaduotojo įgaliojimams prieš terminą šio straipsnio 3 dalyje nustatyta tvarka, jiems išmokama 2 mėnesių jų vidutinio darbo užmokesčio dydžio išmoka.
 
-11. Mero ir mero pavaduotojo darbo užmokestį pagal įstatymų nustatytus koeficientus tvirtina savivaldybės taryba.
+11. Mero, mero pavaduotojo, mero pareigas laikinai einančio savivaldybės tarybos nario darbo užmokestį pagal įstatymų nustatytus koeficientus tvirtina savivaldybės taryba. Merui darbo užmokestis nemokamas, kai jam yra taikomos kardomosios priemonės, dėl kurių meras negali vykdyti mero įgaliojimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1445, 2018-06-30, paskelbta TAR 2018-07-16, i. k. 2018-12067
 
 12. Meras ir mero pavaduotojas negali dirbti kitose institucijose, įstaigose, įmonėse ir organizacijose ir gauti kito atlyginimo, išskyrus atlyginimą už mokslinę, pedagoginę ar kūrybinę veiklą. Ši nuostata netaikoma, jeigu mero pavaduotojas pareigas atlieka visuomeniniais pagrindais.
 
@@ -1135,17 +1143,21 @@ Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
 
 15) tvirtina gyvenamųjų vietovių ar jų dalių suskirstymą (sugrupavimą) į seniūnaitijas savivaldybės administracijos direktoriaus teikimu;
 
-16) priima į pareigas ir atleidžia iš jų biudžetinių įstaigų, išskyrus švietimo įstaigas ir seniūnijas – biudžetines įstaigas, vadovus; kitas funkcijas, susijusias su visų biudžetinių įstaigų vadovų darbo santykiais, Darbo kodekso ir kitų teisės aktų nustatyta tvarka įgyvendina pats arba šio įstatymo nustatytais atvejais mero pareigas laikinai einantis savivaldybės tarybos narys;
+16) priima į pareigas ir atleidžia iš jų biudžetinių įstaigų, išskyrus švietimo įstaigas ir seniūnijas – biudžetines įstaigas, vadovus; įgyvendina kitas funkcijas, susijusias su visų biudžetinių įstaigų vadovų darbo santykiais, Darbo kodekso ir kitų teisės aktų nustatyta tvarka; šio įstatymo nustatytais atvejais, kai meras negali eiti pareigų, šias funkcijas įgyvendina mero pavaduotojas ar mero pareigas laikinai einantis savivaldybės tarybos narys;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
-17) priima į pareigas ir atleidžia iš jų viešųjų įstaigų (kurių savininkė yra savivaldybė), išskyrus švietimo įstaigas, vadovus; kitas funkcijas, susijusias su visų viešųjų įstaigų (kurių savininkė yra savivaldybė) vadovų darbo santykiais, Darbo kodekso ir kitų teisės aktų nustatyta tvarka įgyvendina pats arba šio įstatymo nustatytais atvejais mero pareigas laikinai einantis savivaldybės tarybos narys;
+Nr. XIII-1445, 2018-06-30, paskelbta TAR 2018-07-16, i. k. 2018-12067
+
+17) priima į pareigas ir atleidžia iš jų viešųjų įstaigų (kurių savininkė yra savivaldybė), išskyrus švietimo įstaigas, vadovus; įgyvendina kitas funkcijas, susijusias su visų viešųjų įstaigų (kurių savininkė yra savivaldybė) vadovų darbo santykiais, Darbo kodekso ir kitų teisės aktų nustatyta tvarka; šio įstatymo nustatytais atvejais, kai meras negali eiti pareigų, šias funkcijas įgyvendina mero pavaduotojas ar mero pareigas laikinai einantis savivaldybės tarybos narys;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
+
+Nr. XIII-1445, 2018-06-30, paskelbta TAR 2018-07-16, i. k. 2018-12067
 
 18) atkuria savivaldybės valdomo išlikusio nekilnojamojo turto nuosavybės teises religinėms bendrijoms ir bendruomenėms;
 
@@ -1185,11 +1197,13 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 7. Meras reglamento nustatyta tvarka ne rečiau kaip kartą per metus atsiskaito savivaldybės tarybai ir bendruomenei už savo veiklą, taip pat rengia ir pateikia rinkėjams ir savivaldybės bendruomenei savivaldybės veiklos ataskaitą.
 
-8. Mero pavaduotojas atlieka mero nustatytas funkcijas ir pavedimus. Meras mero pavaduotojo funkcijas nustato mero pavaduotojo kadencijos laikotarpiui ir gali jas keisti. Kai meras negali eiti pareigų, mero pavaduotojas ar laikinai mero pareigas einantis savivaldybės tarybos narys atlieka visas mero pareigas, išskyrus šio straipsnio 2 dalies 4–8 ir 15–22 punktuose nustatytus įgaliojimus. Tokiu atveju šio straipsnio 2 dalies 15–22 punktuose nustatytus mero įgaliojimus atlieka savivaldybės taryba, išskyrus funkcijas, kurias šio įstatymo nustatytais atvejais atlieka mero pareigas laikinai einantis savivaldybės tarybos narys. Mero veikla ir jo pavadavimo procedūra nustatyta reglamente.
+8. Mero pavaduotojas atlieka mero nustatytas funkcijas ir pavedimus. Meras mero pavaduotojo funkcijas nustato mero pavaduotojo kadencijos laikotarpiui ir gali jas keisti. Kai meras negali eiti pareigų, mero pavaduotojas ar laikinai mero pareigas einantis savivaldybės tarybos narys atlieka visas mero pareigas, išskyrus šio straipsnio 2 dalies 4–8, 15, 18, 19 ir 22 punktuose nustatytus įgaliojimus. Tokiu atveju šio straipsnio 2 dalies 15, 18, 19 ir 22 punktuose nustatytus mero įgaliojimus atlieka savivaldybės taryba. Mero veikla ir jo pavadavimo procedūra nustatyta reglamente.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
+
+Nr. XIII-1445, 2018-06-30, paskelbta TAR 2018-07-16, i. k. 2018-12067
 
 9. Jeigu įstatymų nustatyta tvarka meras neišrinktas arba išrinktas meras laikinai nušalintas nuo pareigų šio ir kitų įstatymų nustatyta tvarka, mero pareigas laikinai einančiam savivaldybės tarybos nariui mokamas mero darbo užmokestis.T
 
