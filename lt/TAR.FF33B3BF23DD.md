@@ -4,7 +4,7 @@ identifier: "TAR.FF33B3BF23DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-06-22"
-last_updated: "2018-07-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-07-31
+Suvestinė redakcija nuo 2018-08-01 iki 2018-10-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
 
@@ -113,7 +113,7 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
 
-14. Farmacinė veikla – juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, apimanti:
+14. Farmacinė veikla – sveikatinimo veikla, apimanti:
 
 1) vaistinių preparatų, tiriamųjų vaistinių preparatų, veikliųjų medžiagų gamybą, importą iš trečiųjų šalių, kokybės kontrolę;
 
@@ -127,13 +127,13 @@ Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
 
 6) farmacinę rūpybą;
 
-7) ekstemporalių vaistinių preparatų gamybą, kokybės kontrolę;
+7) ekstemporaliųjų vaistinių preparatų gamybą, kokybės kontrolę;
 
 8) farmacinės informacijos apie vaistinius preparatus teikimą.
 
 Straipsnio dalies pakeitimai:
 
-Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 15. Farmacinės atliekos – naikintini vaistiniai preparatai ir naikintini veterinariniai vaistai (nekokybiški, pasibaigusio tinkamumo laiko, konfiskuoti, surinkti iš gyventojų, falsifikuoti).
 
@@ -155,13 +155,33 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 201. Inspektorius – asmuo, Europos ekonominės erdvės valstybės kompetentingos institucijos įgaliotas atlikti veiklą su farmacijos produktais vykdančių subjektų tikrinimą, t. y. vertinti vykdomos veiklos atitiktį gerai gamybos, platinimo, klinikinei, farmakologinio budrumo ar vaistinių praktikai. Inspektoriai, atsižvelgiant į jiems suteiktus įgaliojimus, vadinami geros gamybos praktikos, geros platinimo praktikos, geros klinikinės praktikos, geros farmakologinio budrumo ar geros vaistinių praktikos inspektoriais.
 
+TAR pastaba: 201 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+201. Inspektorius – asmuo, Europos ekonominės erdvės valstybės kompetentingos institucijos įgaliotas atlikti veiklą su farmacijos produktais vykdančių subjektų tikrinimą, tai yra vertinti vykdomos veiklos atitiktį gerai gamybos, platinimo, farmakologinio budrumo ar vaistinių praktikai. Inspektoriai, atsižvelgiant į jiems suteiktus įgaliojimus, vadinami geros gamybos praktikos, geros platinimo praktikos, geros farmakologinio budrumo ar geros vaistinių praktikos inspektoriais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 21. Išorinė pakuotė – pakuotė, į kurią įdėta vidinė pakuotė.
 
 22. Klinikinis vaistinio preparato tyrimas – bet koks su žmonėmis atliekamas biomedicininis tyrimas, skirtas nustatyti, patikrinti ir patvirtinti vieno arba kelių tiriamųjų vaistinių preparatų klinikinį, farmakologinį ir (ar) kitokį farmakodinaminį poveikį ir (ar) nustatyti nepageidaujamas reakcijas į vieną ar kelis tiriamuosius vaistinius preparatus, ir (ar) ištirti vieno ar kelių tiriamųjų preparatų rezorbciją, pasiskirstymą, metabolizmą ir išskyrimą, siekiant nustatyti tiriamojo vaistinio preparato saugumą ir (ar) veiksmingumą.
 
+TAR pastaba: 22 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+22. Neteko galios.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 23. Kompensuojamieji vaistiniai preparatai – vaistiniai preparatai, kurie įrašyti į Kompensuojamųjų vaistinių preparatų kainyną ir kurių įsigijimo išlaidos ar jų dalis privalomuoju sveikatos draudimu apdraustiems asmenims yra kompensuojama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų.
 
-24. Kraujo vaistinis preparatas (toliau – kraujo preparatas) – vaistinis preparatas iš žmogaus kraujo ar plazmos, pagamintas pramoniniu būdu tokią teisę turinčių juridinių asmenų.
+24. Kraujo vaistinis preparatas (toliau – kraujo preparatas) – vaistinis preparatas iš žmogaus kraujo ar plazmos, gaminamas pramoniniu būdu tokią teisę turinčių asmenų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 241. Lietuvai taikoma vaistinio preparato ar medicinos pagalbos priemonės kaina – vaistinio preparato ar medicinos pagalbos priemonės kaina, kuria jie siūlomi parduoti Lietuvos Respublikos rinkoje.
 
@@ -185,6 +205,14 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 29. Nepageidaujamas reiškinys – bet kuris nepalankus sveikatai reiškinys, kuris pasireiškia, kai tyrime dalyvaujantis pacientas ar tiriamasis asmuo vartoja tiriamąjį vaistinį preparatą, ir kuris nebūtinai turi priežastinį ryšį su jo vartojimu.
 
+TAR pastaba: 29 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+29. Neteko galios.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 291. Nesupakuotas produktas – produktas, gaunamas atlikus visas vaistinio preparato gamybos operacijas, išskyrus pakavimą į vartotojams skirtas galutines pakuotes.
 
 Papildyta straipsnio dalimi:
@@ -192,6 +220,14 @@ Papildyta straipsnio dalimi:
 Nr. XII-1438, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20557
 
 30. Netikėta nepageidaujama reakcija – nepageidaujama reakcija, kurios pobūdis, padariniai arba jų sunkumas neatitinka nurodytų to vaistinio preparato informacijoje (pvz., registruoto vaistinio preparato charakteristikų santraukoje arba neregistruoto tiriamojo vaistinio preparato tyrėjo brošiūroje).
+
+TAR pastaba: 30 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+30. Netikėta nepageidaujama reakcija – nepageidaujama reakcija, kurios pobūdis, padariniai arba jų sunkumas neatitinka nurodytų to vaistinio preparato charakteristikų santraukoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 301. Paciento priemoka – Kompensuojamųjų vaistinių preparatų kainyne ar Kompensuojamųjų medicinos pagalbos priemonių kainyne nustatyta suma, kurią turi sumokėti pacientas, įsigydamas kompensuojamąjį vaistinį preparatą ar kompensuojamąją medicinos pagalbos priemonę.
 
@@ -204,6 +240,14 @@ Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
+
+303. Pagalbinis vaistinis preparatas – ši sąvoka atitinka sąvoką „pagalbinis vaistas“ ir vartojama ta pačia reikšme, kaip ji apibrėžta 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1) (toliau – Reglamentas (ES) Nr. 536/2014), 2 straipsnio 2 dalies 8 punkte.
+
+TAR pastaba: papildoma nauja 302 dalimi, buvusi 302 dalis pakeičiama ir laikoma 303 dalimi po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 303. Pagrindinė farmakologinio budrumo sistemos byla – išsamus vaistinio preparato registruotojo naudojamos farmakologinio budrumo sistemos, skirtos vienam ar keliems registruotiems vaistiniams preparatams, aprašas.
 
@@ -275,6 +319,14 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 45. Sunkus nepageidaujamas reiškinys – vartojant bet kokią tiriamojo vaistinio preparato dozę pasireiškiantis nepageidaujamas reiškinys, dėl kurio ištinka mirtis, kyla pavojus gyvybei, tenka hospitalizuoti arba pailginti gydymo stacionare trukmę, atsiranda ilgalaikis ar reikšmingas neįgalumas arba apsigimimas.
 
+TAR pastaba: 45 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+45. Neteko galios.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 451. Šiurkšti farmacijos praktikos klaida – vaistininko arba vaistininko padėjėjo (farmakotechniko) neteisėta veika, kai dėl jo kaltės pacientą ištinka mirtis ar nustatomas neįgalumas ar daugiau kaip 30 procentų sumažėjęs darbingumo lygis.
 
 Papildyta straipsnio dalimi:
@@ -293,25 +345,49 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 46. Tyrėjas – gydytojas ar kitas asmuo, kurio išsilavinimas ir pacientų priežiūros patirtis atitinka Lietuvos Respublikos sveikatos apsaugos ministro (toliau – sveikatos apsaugos ministras) nustatytus klinikinių vaistinių preparatų tyrimų reikalavimus. Tyrėjas atsako už klinikinį tyrimą, atliekamą tyrimo vietoje. Jei tyrimą tyrėjas atlieka vienas arba tyrimo atlikimo vietoje vadovauja jį atliekančių asmenų grupei ir yra atsakingas už šios grupės veiklą, tyrėjas vadinamas pagrindiniu tyrėju.
 
+TAR pastaba: 46 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+46. Neteko galios.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 47. Tiriamasis vaistinis preparatas – veikliosios medžiagos farmacinė forma arba placebas, kuris klinikinio tyrimo metu yra tiriamas arba vartojamas kaip palyginamasis preparatas, įskaitant ir preparatus, kurie įregistruoti, bet vartojami arba gaminami (farmacinė forma arba pakuotė) kitaip nei registruoti, arba kuris tiriamas norint nustatyti nepatvirtintą indikaciją ar gauti išsamesnių duomenų apie jau registruotą vaistinį preparatą.
+
+TAR pastaba: 47 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+47. Tiriamasis vaistinis preparatas – ši sąvoka atitinka sąvoką „tiriamasis vaistas“ ir vartojama ta pačia reikšme, kaip ji apibrėžta Reglamento (ES) Nr. 536/2014 2 straipsnio 2 dalies 5 punkte.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 48. Tiriamojo vaistinio preparato gamyba – pramoninė tiriamojo vaistinio preparato gamyba arba jo gamyba taikant pramoninį gamybos procesą apimantį metodą.
+
+TAR pastaba: 48 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+48. Neteko galios.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 49. Tradicinis augalinis vaistinis preparatas (toliau – tradicinis augalinis preparatas) – augalinis vaistinis preparatas, kuris atitinka sveikatos apsaugos ministro nustatytus kriterijus ir jam gali būti taikoma supaprastinta tradicinių augalinių vaistinių preparatų registravimo procedūra.
 
 50. Vaistas (vaistinis preparatas) – vaistinė medžiaga arba jų derinys, pagaminti ir teikiami vartoti, kadangi atitinka bent vieną šių kriterijų: 1) pasižymi savybėmis, dėl kurių tinka žmogaus ligoms gydyti arba jų profilaktikai; 2) dėl farmakologinio, imuninio ar metabolinio poveikio gali būti vartojamas ar skiriamas atkurti, koreguoti ar modifikuoti žmogaus fiziologines funkcijas arba diagnozuoti žmogaus ligas.
 
-51. Vaistinė – juridinis asmuo, konkrečioje veiklos vietoje vykdantis farmacinę veiklą, apimančią vaistinių preparatų įsigijimą, laikymą, pardavimą (išdavimą) galutiniam vartotojui, farmacinių paslaugų teikimą ir (ar) ekstemporaliųjų vaistinių preparatų gamybą, jų kokybės kontrolę, farmacinę rūpybą. Šiame įstatyme sąvoka „vaistinė“ neapima veterinarijos vaistinių.
+51. Vaistinė – Lietuvos Respublikoje įsteigtas juridinis asmuo ar jo padalinys, užsienio valstybės juridinio asmens ar kitos organizacijos padalinys, įsteigtas Lietuvos Respublikoje (toliau – juridinis asmuo), konkrečioje veiklos vietoje vykdantis farmacinę veiklą, apimančią vaistinių preparatų įsigijimą, laikymą, pardavimą (išdavimą) galutiniam vartotojui, farmacinių paslaugų teikimą ir (ar) ekstemporaliųjų vaistinių preparatų gamybą, jų kokybės kontrolę, farmacinę rūpybą. Šiame įstatyme sąvoka „vaistinė“ neapima veterinarijos vaistinių.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
 
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 52. Vaistinė medžiaga – bet kuri medžiaga, kurios kilmė gali būti: 1) žmogaus, pvz.: žmogaus kraujas ir žmogaus kraujo produktai; 2) gyvūninė, pvz.: mikroorganizmai, gyvūnai, organų dalys, gyvūnų išskyros, toksinai, ištraukos, kraujo produktai; 3) augalinė, pvz.: mikroorganizmai, augalai, jų dalys, augalų išskyros, ištraukos; 4) cheminė, pvz.: elementai, natūralios cheminės medžiagos ir cheminiai produktai, gauti cheminės sandaros keitimo ar sintezės būdu.
 
@@ -395,11 +471,13 @@ Straipsnio dalies naikinimas:
 
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
-66. Vaistinio preparato registruotojas – juridinis asmuo, kurio vardu pagal teisės aktų nustatytus reikalavimus įregistruotas vaistinis preparatas.
+66. Vaistinio preparato registruotojas – asmuo, kurio vardu pagal teisės aktų nustatytus reikalavimus įregistruotas vaistinis preparatas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 67. Vaistinio preparato registruotojo atstovas – vaistinio preparato registruotojo paskirtas atstovas EEE valstybėje.
 
@@ -471,9 +549,17 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 83. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokslo ir studijų įstatyme bei Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme.
 
+TAR pastaba: 83 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+83. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos biomedicininių tyrimų etikos įstatyme ir Reglamente (ES) Nr. 536/2014.
+
 Papildyta straipsnio dalimi:
 
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 Straipsnio pakeitimai:
 
@@ -811,9 +897,33 @@ Kvalifikacijos ir patirties reikalavimus kvalifikuotam asmeniui, atsakingam už 
 
 3) kiekviena tiriamojo vaistinio preparato serija būtų pagaminta ir patikrinta pagal gerą gamybos praktiką, preparato specifikacijos bylą ir užsakovo dokumentus, pateiktus prašant leidimo vykdyti klinikinį tyrimą;
 
+TAR pastaba: 3 punkto redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+3) tiriamųjų vaistinių preparatų atveju būtų vykdomos Reglamento (ES) Nr. 536/2014 62 straipsnio pirmojoje dalyje numatytos pareigos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 4) kiekviena tiriamojo vaistinio preparato, importuojamo iš trečiosios šalies, serija būtų pagaminta ir patikrinta pagal geros gamybos praktikos standartus, atitinkančius bent Europos Sąjungos nustatytuosius, preparato specifikacijos bylą ir kad kiekviena preparato serija būtų patikrinta pagal dokumentus, pateiktus prašant leidimo vykdyti klinikinį tyrimą;
 
+TAR pastaba: 4 punkto redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+4) neteko galios;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 5) jeigu tiriamasis vaistinis preparatas yra registruotas palyginamasis preparatas iš trečiosios šalies, tačiau nėra galimybės gauti dokumentų, patvirtinančių, kad kiekviena šio preparato serija pagaminta pagal geros gamybos praktikos standartus, atitinkančius bent Europos Sąjungos nustatytuosius, būtų atliktos analizės, visi kiti tyrimai ir patikrinimai, būtini šio preparato serijos kokybei užtikrinti pagal dokumentus, pateiktus prašant leidimo vykdyti klinikinį tyrimą;
+
+TAR pastaba: 5 punkto redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+5) neteko galios;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 6) vaistinių preparatų, kurie atitinka šio įstatymo 8 straipsnio 81 dalies nuostatas ir yra skirti Europos Sąjungos rinkai, pakuotės būtų su apsaugos priemonėmis.
 
@@ -826,6 +936,14 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 3. Jei vaistiniai preparatai importuojami iš šalies, su kuria Europos Bendrija yra pasirašiusi abipusio pripažinimo sutartį, užtikrinančią, kad gamintojas taiko geros gamybos praktikos standartus, lygiaverčius Bendrijos nustatytiesiems, ir kad šio straipsnio 1 dalies 2 punkte nurodyti tyrimai yra atlikti eksportuojančioje šalyje, kvalifikuotas asmuo, atsakingas už gamybą ir (ar) importą, gali šių tyrimų neatlikti.
 
 4. Visais atvejais kvalifikuotas asmuo, atsakingas už gamybą ir (ar) importą, vaistinių, tiriamųjų vaistinių preparatų serijų registravimo žurnale ar tam skirtame atitinkamame dokumente turi parašu patvirtinti, kad kiekviena pagaminta serija atitinka šiame įstatyme ir kituose teisės aktuose nustatytus reikalavimus. Šis žurnalas ar jį atitinkantis dokumentas turi būti nuolat pildomas atsižvelgiant į gamybą ir (ar) importą iš trečiųjų šalių ir pateikiamas Valstybinės vaistų kontrolės tarnybos reikalavimu. Užpildytas vaistinių preparatų serijų registravimo žurnalas ar jį atitinkantis dokumentas turi būti saugomas 5 metus.
+
+TAR pastaba: 4 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+4. Visais atvejais kvalifikuotas asmuo, atsakingas už gamybą ir (ar) importą, vaistinių preparatų serijų registravimo žurnale ar tam skirtame atitinkamame dokumente turi parašu patvirtinti, kad kiekviena pagaminta serija atitinka šiame įstatyme ir kituose teisės aktuose nustatytus reikalavimus. Šis žurnalas ar jį atitinkantis dokumentas turi būti nuolat pildomas atsižvelgiant į gamybą ir (ar) importą iš trečiųjų šalių ir pateikiamas Valstybinės vaistų kontrolės tarnybos reikalavimu. Užpildytas vaistinių preparatų serijų registravimo žurnalas ar jį atitinkantis dokumentas turi būti saugomas 5 metus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 Straipsnio pakeitimai:
 
@@ -1167,9 +1285,21 @@ Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
 
 2. Veiklos su farmacijos produktais valstybinė priežiūra turi būti vykdoma vadovaujantis šiuo įstatymu, jo įgyvendinamaisiais teisės aktais ir Europos Sąjungos teisės aktais taip, kad būtų laikomasi Europos Sąjungos farmacijos produktų srityje taikomų suderintų priežiūros principų ir patikrinimų rezultatai būtų pripažįstami kitose EEE valstybėse.
 
+TAR pastaba: 2 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+2. Veiklos su farmacijos produktais valstybinė priežiūra turi būti vykdoma vadovaujantis šiuo įstatymu, jo įgyvendinamaisiais teisės aktais, Reglamentu (ES) Nr. 536/2014 ir kitais Europos Sąjungos teisės aktais taip, kad būtų laikomasi Europos Sąjungos farmacijos produktų srityje taikomų suderintų priežiūros principų ir patikrinimų rezultatai būtų pripažįstami kitose EEE valstybėse.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 3. Lietuvos Respublikos viešojo administravimo įstatymo ir kitų teisės aktų nuostatos farmacinės veiklos ir farmacijos produktų priežiūrai taikomos tiek, kiek to nereglamentuoja šis įstatymas ir atitinkami Europos Sąjungos teisės aktai.
 
 4. Gamybos ir didmeninio platinimo licencijų turėtojų, veikliųjų medžiagų gamintojų, importuotojų ir platintojų, vaistinių preparatų prekybos tarpininkų, vaistinių preparatų registruotojų bei subjektų, atliekančių ar atlikusių klinikinius vaistinių preparatų tyrimus, patikrinimai, nurodyti šio įstatymo 62 straipsnio 2 dalyje, atliekami vadovaujantis sveikatos apsaugos ministro nustatyta tvarka ir atitinkamai Bendrijos inspektavimo ir pasikeitimo informacija procedūrų sąvadu, Europos Komisijos paskelbtų Taisyklių dėl vaistinių preparatų reglamentavimo Europos Sąjungoje 9A tomo ir 10 tomo nuostatomis, kitais Europos Sąjungos dokumentais. Vaistinės veiklos licenciją turinčių subjektų ir kiti patikrinimai atliekami šio įstatymo, Lietuvos Respublikos viešojo administravimo įstatymo ir Valstybinės vaistų kontrolės tarnybos nustatyta tvarka.
+
+TAR pastaba: 4 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+4. Gamybos ir didmeninio platinimo licencijų turėtojų, veikliųjų medžiagų gamintojų, importuotojų ir platintojų, vaistinių preparatų prekybos tarpininkų, vaistinių preparatų registruotojų patikrinimai, nurodyti šio įstatymo 62 straipsnio 2 dalyje, atliekami vadovaujantis sveikatos apsaugos ministro nustatyta tvarka ir atitinkamai Bendrijos inspektavimo ir pasikeitimo informacija procedūrų sąvadu, Europos Komisijos paskelbtų Taisyklių dėl vaistinių preparatų reglamentavimo Europos Sąjungoje 9A tomo nuostatomis, kitais Europos Sąjungos dokumentais. Vaistinės veiklos licenciją turinčių subjektų ir kiti patikrinimai atliekami šio įstatymo, Lietuvos Respublikos viešojo administravimo įstatymo ir Valstybinės vaistų kontrolės tarnybos nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
@@ -1177,11 +1307,19 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 5. Subjektų, vykdančių veiklą su farmacijos produktais, patikrinimus, kurių metu vertinama vykdomos veiklos atitiktis gerai gamybos, platinimo, klinikinei, farmakologinio budrumo ar vaistinės praktikai, atlieka atitinkamai geros gamybos praktikos, geros platinimo praktikos, geros farmakologinio budrumo praktikos, geros klinikinės praktikos ar geros vaistinių praktikos inspektoriai, išskyrus vaistinių preparatų kontrolinius pirkimus, kuriuos taip pat turi teisę atlikti kiti Valstybinės vaistų kontrolės tarnybos darbuotojai, įgalioti vykdyti priežiūrą. Patikrinimus, kurių metu vertinama vykdomos veiklos atitiktis kitiems šio įstatymo reikalavimams, gali atlikti inspektoriai ir (ar) kiti Valstybinės vaistų kontrolės tarnybos darbuotojai, įgalioti vykdyti priežiūrą.
+
+TAR pastaba: 5 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+5. Subjektų, vykdančių veiklą su farmacijos produktais, patikrinimus, kurių metu vertinama vykdomos veiklos atitiktis gerai gamybos, platinimo, farmakologinio budrumo ar vaistinės praktikai, atlieka atitinkamai geros gamybos praktikos, geros platinimo praktikos, geros farmakologinio budrumo praktikos ar geros vaistinių praktikos inspektoriai. Patikrinimus, kurių metu vertinama vykdomos veiklos atitiktis kitiems šio įstatymo reikalavimams, gali atlikti inspektoriai ir (ar) kiti Valstybinės vaistų kontrolės tarnybos darbuotojai, įgalioti vykdyti priežiūrą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-393, 2017-06-01, paskelbta TAR 2017-06-07, i. k. 2017-09672
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 6. Valstybinė vaistų kontrolės tarnyba turi užtikrinti, kad patikrinimus atliekantys inspektoriai būtų sistemingai mokomi, kad turėtų reikiamų žinių ir praktinio darbo patirties numatytiems patikrinimams tinkamai atlikti. Jiems turi būti sudarytos sąlygos reguliariai kelti savo kvalifikaciją, atsižvelgiant į pavestą tikrinti veiklos su farmacijos produktais sritį.
 
@@ -1189,15 +1327,29 @@ Nr. XIII-393, 2017-06-01, paskelbta TAR 2017-06-07, i. k. 2017-09672
 
 8. Jeigu Valstybinė vaistų kontrolės tarnyba neturi reikiamos kvalifikacijos geros gamybos praktikos, geros platinimo praktikos, geros klinikinės praktikos ar geros farmakologinio budrumo praktikos inspektorių atitinkamiems patikrinimams atlikti, gali būti pasitelkiami atitinkami kitų EEE valstybių žmonėms skirtų vaistų priežiūros institucijų inspektoriai pagal sutartis su tomis institucijomis.
 
+TAR pastaba: 8 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+8. Jeigu Valstybinė vaistų kontrolės tarnyba neturi reikiamos kvalifikacijos geros gamybos praktikos, geros platinimo praktikos ar geros farmakologinio budrumo praktikos inspektorių atitinkamiems patikrinimams atlikti, gali būti pasitelkiami atitinkami kitų EEE valstybių žmonėms skirtų vaistų priežiūros institucijų inspektoriai pagal sutartis su tomis institucijomis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 62 straipsnis. Pagrindiniai valstybinės veiklos su farmacijos produktais priežiūros principai
 
 1. Valstybinė vaistų kontrolės tarnyba, vykdydama veiklos su farmacijos produktais priežiūrą, turi užtikrinti, kad veikla su farmacijos produktais atitiktų šio įstatymo, jo įgyvendinamųjų teisės aktų ir atitinkamų Europos Sąjungos teisės aktų nustatytus reikalavimus.
 
 2. Valstybinė vaistų kontrolės tarnyba, įgyvendindama jai numatytus uždavinius, atlieka subjektų, vykdančių veiklą su farmacijos produktais, suplanuotus periodinius bei neplaninius patikrinimus ir, jeigu reikia, bandinių tyrimus. Atlikdama vaistinių preparatų, tiriamųjų vaistinių preparatų ir veikliųjų medžiagų gamintojų, didmeninių vaistinių preparatų platintojų, veikliųjų medžiagų importuotojų ir platintojų, vaistinių preparatų prekybos tarpininkų, vaistinių preparatų registruotojų ir klinikinius vaistinių preparatų tyrimus vykdančių asmenų patikrinimus, Valstybinė vaistų kontrolės tarnyba turi bendradarbiauti su Europos vaistų agentūra ir keistis su ja informacija apie planuojamus bei atliktus patikrinimus, taip pat derinti trečiosiose šalyse atliekamus patikrinimus.
 
+TAR pastaba: 2 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+2. Valstybinė vaistų kontrolės tarnyba, įgyvendindama jai numatytus uždavinius, atlieka subjektų, vykdančių veiklą su farmacijos produktais, suplanuotus periodinius bei neplaninius patikrinimus ir, jeigu reikia, bandinių tyrimus. Atlikdama vaistinių preparatų, tiriamųjų vaistinių preparatų ir veikliųjų medžiagų gamintojų, didmeninių vaistinių preparatų platintojų, veikliųjų medžiagų importuotojų ir platintojų, vaistinių preparatų prekybos tarpininkų, vaistinių preparatų registruotojų patikrinimus, Valstybinė vaistų kontrolės tarnyba turi bendradarbiauti su Europos vaistų agentūra ir keistis su ja informacija apie planuojamus bei atliktus patikrinimus, taip pat derinti trečiosiose šalyse atliekamus patikrinimus.
+
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 3. Valstybinė vaistų kontrolės tarnyba turi tikrinti ir vertinti:
 
@@ -1216,6 +1368,14 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 7) ar tinkamai atlikta kraujo preparatų gamybos ir gryninimo procesų validacija, ar užtikrintas serijų vienodumas ir ar užtikrinta, kiek tai leidžia technologijos, kad kraujo preparatuose nėra specifinių virusinių užkratų;
 
 8) kaip Lietuvoje atliekami ar atlikti vaistinių preparatų klinikiniai tyrimai;
+
+TAR pastaba: 8 punkto redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+8) ar Reglamento (ES) Nr. 536/2014 61 straipsnio 5 dalyje nurodytos operacijos ir procesai atliekami vadovaujantis sveikatos apsaugos ministro nustatyta tvarka, nurodyta šio įstatymo 24 straipsnio 11 dalyje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 9) vaistinio preparato registruotojo ar kito juridinio asmens, kuris vykdo farmakologinio budrumo veiklą pagal sutartį su vaistinio preparato registruotoju, patalpas, pranešimus, pagrindinę farmakologinio budrumo sistemos bylą ir kitus dokumentus, susijusius su farmakologinio budrumo vykdymu;
 
@@ -1479,7 +1639,7 @@ Lietuvos Respublikos Vyriausybė ir kitos Įstatyme nurodytos valstybės institu
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
 
 Lietuvos Respublikos
 
@@ -1494,6 +1654,14 @@ priedas
 1. 1988 m. gruodžio 21 d. Tarybos direktyva 89/105/EEB dėl priemonių, reglamentuojančių žmonėms skirtų vaistų kainų nustatymą ir šių vaistų įtraukimą į nacionalinių sveikatos draudimo sistemų sritį, skaidrumo (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 345).
 
 2. 2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/20/EB dėl valstybių narių įstatymų ir kitų teisės aktų, susijusių su geros klinikinės praktikos įgyvendinimu atliekant žmonėms skirtų vaistų klinikinius tyrimus, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 26 tomas, p. 299).
+
+TAR pastaba: 2 punkto redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+2. Neteko galios.
+
+Punkto pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 3. 2001 m. lapkričio 6 d. Europos Parlamento ir Tarybos direktyva 2001/83/EB dėl Bendrijos kodekso, reglamentuojančio žmonėms skirtus vaistus (OL 2004 m. specialusis leidimas, 13 skyrius, 27 tomas, p. 69), su paskutiniais pakeitimais, padarytais 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/26/ES (tekstas svarbus EEE) (OL 2012 L 299, p. 1).
 
@@ -1515,6 +1683,14 @@ Papildyta punktu:
 
 Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
 
+11. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr.  536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1).
+
+TAR pastaba: papildoma 11 punktu po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos.
+
+Papildyta punktu:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 Priedo pakeitimai:
 
 Nr. XI-1383, 2011-05-19, Žin., 2011, Nr. 69-3291 (2011-06-07)
@@ -1524,6 +1700,8 @@ Nr. XI-2376, 2012-11-06, Žin., 2012, Nr. 135-6865 (2012-11-22)
 Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
+
+part_d51b9062fcd5410bab9f20647a9fd45a_end
 
 Pakeitimai:
 
@@ -1835,11 +2013,25 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 1. Kiekvieno patikrinimo, kurio metu vertinama veiklos atitiktis gerai gamybos, platinimo, klinikinei, farmakologinio budrumo ar vaistinės praktikai, rezultatai ir išvados įrašomi į patikrinimo pažymą, už kurios turinio teisingumą ir išvadų pagrįstumą atsako patikrinimą atlikęs (atlikę) inspektorius (inspektoriai).
 
+TAR pastaba: 1 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+1. Kiekvieno patikrinimo, kurio metu vertinama veiklos atitiktis gerai gamybos, platinimo, farmakologinio budrumo ar vaistinės praktikai, rezultatai ir išvados įrašomi į patikrinimo pažymą, už kurios turinio teisingumą ir išvadų pagrįstumą atsako patikrinimą atlikęs (atlikę) inspektorius (inspektoriai).
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 2. Surašant patikrinimo pažymą vaistinių preparatų, tiriamųjų vaistinių preparatų ir veikliųjų medžiagų gamintojams, didmeniniams vaistinių preparatų platintojams, veikliųjų medžiagų importuotojams ir platintojams, vaistinių preparatų prekybos tarpininkams ir vaistinėms, atitinkamai nurodoma, ar patikrintoje veiklos vietoje vykdoma veikla atitinka gerą gamybos praktiką, gerą platinimo praktiką ar geros vaistinių praktikos nuostatus. Surašant patikrinimo pažymą vaistinio preparato registruotojui dėl farmakologinio budrumo, nurodoma, ar jo taikoma farmakologinio budrumo sistema atitinka aprašytąją pagrindinėje farmakologinio budrumo sistemos byloje ir ar jo vykdoma farmakologinio budrumo veikla atitinka šio įstatymo reikalavimus. Surašant patikrinimo pažymą dėl klinikinio vaistinio preparato tyrimo, nurodoma, ar vaistinio preparato klinikinis tyrimas atitinka gerą klinikinę praktiką. Per 30 dienų po patikrinimo veiklos vietoje atlikimo, išskyrus atvejus, kai reikia imtis šio įstatymo 63 straipsnio 3 dalyje nurodytų veiksmų, apie patikrinimo metu nustatytus faktus ir rezultatus turi būti pranešta patikrintam subjektui, klinikinių tyrimų atveju – ir tyrimo užsakovui. Patikrintas subjektas ir klinikinio tyrimo užsakovas turi teisę sveikatos apsaugos ministro nustatytais terminais pateikti savo pastabas ir paaiškinimus, apie kuriuos pažymima pažymoje. Surašant pažymą patikrintam juridiniam asmeniui, pateikusiam paraišką gauti gamybos ar didmeninio platinimo licenciją, nurodoma, ar jis pasirengęs vykdyti veiklą atitinkamai pagal šio įstatymo šeštojo ar septintojo skirsnio reikalavimus. Ši pažyma pateikiama patikrintam subjektui.
+
+TAR pastaba: 2 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+2. Surašant patikrinimo pažymą vaistinių preparatų, tiriamųjų vaistinių preparatų ir veikliųjų medžiagų gamintojams, didmeniniams vaistinių preparatų platintojams, veikliųjų medžiagų importuotojams ir platintojams, vaistinių preparatų prekybos tarpininkams ir vaistinėms, atitinkamai nurodoma, ar patikrintoje veiklos vietoje vykdoma veikla atitinka gerą gamybos praktiką, gerą platinimo praktiką ar geros vaistinių praktikos nuostatus. Surašant patikrinimo pažymą vaistinio preparato registruotojui dėl farmakologinio budrumo, nurodoma, ar jo taikoma farmakologinio budrumo sistema atitinka aprašytąją pagrindinėje farmakologinio budrumo sistemos byloje ir ar jo vykdoma farmakologinio budrumo veikla atitinka šio įstatymo reikalavimus. Per 30 dienų po patikrinimo veiklos vietoje atlikimo, išskyrus atvejus, kai reikia imtis šio įstatymo 63 straipsnio 3 dalyje nurodytų veiksmų, apie patikrinimo metu nustatytus faktus ir rezultatus turi būti pranešta patikrintam subjektui. Patikrintas subjektas turi teisę sveikatos apsaugos ministro nustatytais terminais pateikti savo pastabas ir paaiškinimus, apie kuriuos pažymima pažymoje. Surašant pažymą patikrintam juridiniam asmeniui, pateikusiam paraišką gauti gamybos ar didmeninio platinimo licenciją, nurodoma, ar jis pasirengęs vykdyti veiklą atitinkamai pagal šio įstatymo šeštajame ar septintajame skirsnyje nustatytus reikalavimus. Ši pažyma pateikiama patikrintam subjektui.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 3. Jeigu atlikus patikrinimą nustatoma, kad vaistinių preparatų, tiriamųjų vaistinių preparatų ir veikliųjų medžiagų gamintojo, didmeninio vaistinių preparatų platintojo, veikliųjų medžiagų importuotojo ir platintojo vykdoma veikla atitinka geros gamybos ar platinimo praktikos reikalavimus, per 90 dienų po patikrinimo arba šio įstatymo 29 straipsnio 3 dalyje nurodytoje sutartyje nustatytais terminais jam turi būti išduotas geros gamybos praktikos arba geros platinimo praktikos pažymėjimas. Sveikatos apsaugos ministras nustato geros gamybos praktikos ir geros platinimo praktikos pažymėjimų išdavimo, pakeitimo, tikslinimo ir panaikinimo tvarką ir tvirtina pažymėjimų formas, vadovaudamasis Bendrijos inspektavimo ir pasikeitimo informacija procedūrų sąvade paskelbtomis pažymėjimų formomis.
 
@@ -2337,9 +2529,15 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 4. Įvežti iš kitos EEE valstybės neregistruotus vaistinius preparatus arba importuoti iš trečiosios šalies vardinius vaistinius preparatus ir šio straipsnio 18 dalyje nurodytus neregistruotus vaistinius preparatus į Lietuvos Respubliką gali tik juridiniai asmenys, šio įstatymo nustatyta tvarka gavę didmeninio platinimo licenciją.
 
+TAR pastaba: 4 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+4. Įvežti iš kitos EEE valstybės neregistruotus vaistinius preparatus arba importuoti iš trečiosios šalies vardinius vaistinius preparatus ir šio straipsnio 18 ir 21 dalyse nurodytus neregistruotus vaistinius preparatus bei pagalbinius vaistinius preparatus į Lietuvos Respubliką gali tik juridiniai asmenys, šio įstatymo nustatyta tvarka gavę didmeninio platinimo licenciją.
+
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 5. Sveikatos apsaugos ministras gali laikinai leisti tiekti Lietuvos Respublikos rinkai neregistruotus vaistinius preparatus, būtinus vartoti, kai įtariama ar nustatoma sveikatai pavojingų patogeninių ar cheminių veiksnių, toksinų arba jonizuojančioji radiacija, taip pat įvykus gaivalinei nelaimei.
 
@@ -2448,6 +2646,14 @@ Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
 Papildyta straipsnio dalimi:
 
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+
+21. Klinikiniams vaistinių preparatų tyrimams reikalingi pagalbiniai vaistiniai preparatai, kurie nėra registruoti, kaip numatyta Reglamento (ES) Nr. 536/2014 2 straipsnio 2 dalies 10 punkte (toliau – neregistruoti pagalbiniai vaistiniai preparatai), gali būti įvežami iš kitos EEE valstybės ar importuojami iš trečiosios šalies kiekiais, reikalingais klinikiniam tyrimui atlikti, ir tiekiami tik šiuos klinikinius tyrimus atliekantiems klinikinio tyrimo centrams.
+
+TAR pastaba: papildoma 21 dalimi po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 Straipsnio pakeitimai:
 
@@ -2595,10 +2801,6 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 1. Klinikinius vaistinio preparato tyrimus reglamentuoja Lietuvos Respublikos teisės aktai. Kaip jų laikomasi, prižiūri Valstybinė vaistų kontrolės tarnyba ir kitos įstatymų įgaliotos institucijos.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
-
 2. Pagrindinio tyrėjo kvalifikacija turi atitikti sveikatos apsaugos ministro nustatytus kvalifikacinius reikalavimus.
 
 3. Visi klinikiniai vaistinių preparatų tyrimai turi būti planuojami, atliekami, registruojami ir ataskaitos apie juos teikiamos laikantis sveikatos apsaugos ministro patvirtintų Geros klinikinės praktikos taisyklių reikalavimų.
@@ -2610,10 +2812,6 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 6. Klinikinio tyrimo užsakovas ar jo atstovas ir (ar) pagrindinis tyrėjas, norėdami gauti pritarimo liudijimą ar leidimą klinikiniams vaistinių preparatų tyrimams atlikti, turi pateikti dokumentus, kurių sąrašą tvirtina sveikatos apsaugos ministras. Už dokumentų, kurie pateikiami norint gauti Lietuvos bioetikos komiteto pritarimo liudijimą ir Valstybinės vaistų kontrolės leidimą, ekspertizę ir pritarimo liudijimų bei leidimų išdavimą mokamos nustatyto dydžio valstybės rinkliavos.
 
 7. Lietuvos bioetikos komitetas atlieka pateiktų dokumentų ekspertizę ir pritarimą arba nepritarimą klinikiniam tyrimui atlikti pareiškia ne vėliau kaip per 60 dienų nuo paraiškos priėmimo dienos. Valstybinė vaistų kontrolės tarnyba atlieka pateiktų dokumentų ekspertizę ir leidimą atlikti klinikinį tyrimą išduoda arba motyvuotą atsisakymą jį išduoti pateikia ne vėliau kaip per 60 dienų nuo paraiškos priėmimo dienos. Ji gali išduoti leidimą klinikiniam tyrimui atlikti tik kai yra Lietuvos bioetikos komiteto pritarimas.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 8. Šio straipsnio 7 dalyje nurodytas terminas gali būti pratęsiamas 30 dienų tais atvejais, kai prašoma leidimo tyrimams, kurių metu naudojami šie tiriamieji vaistiniai preparatai:
 
@@ -2633,10 +2831,6 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 13. Valstybinė vaistų kontrolės tarnyba prižiūri, kad duomenys apie įtariamas sunkius padarinius sukėlusias nepageidaujamas reakcijas, susijusias su tiriamuoju vaistiniu preparatu, pastebėtas Lietuvoje klinikinių tyrimų metu, sveikatos apsaugos ministro nustatytais terminais būtų įtraukti į Europos vaistų agentūros tvarkomos EEE farmakologinio budrumo duomenų bazės ir duomenų apdorojimo tinklo (toliau – „Eudravigilance“ duomenų bazė) klinikinių tyrimų modulį.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
-
 14. Valstybinė vaistų kontrolės tarnyba gali priimti sprendimą sustabdyti arba nutraukti klinikinį vaistinio preparato tyrimą šalyje, kai jis jau atliekamas, jeigu turi svarių priežasčių nuspręsti, kad nevykdomos leidime nurodytos sąlygos, arba abejoja dėl klinikinio tyrimo saugumo ar mokslinio pagrįstumo, ir nurodyti šio sprendimo priežastis. Užsakovas ir tyrėjas turi nedelsdami išnagrinėti sustabdymo ar nutraukimo priežastis ir per vieną savaitę pateikti ataskaitą, kurioje būtų nagrinėjami iškelti klausimai ir visos išskirtinės aplinkybės, prieštaraujančios tolesniam klinikinio vaistinio preparato tyrimo vykdymui. Gavusi ataskaitą, Valstybinė vaistų kontrolės tarnyba priima sprendimą dėl tyrimo sustabdymo, sustabdymo panaikinimo ar tyrimo nutraukimo.
 
 15. Lietuvos bioetikos komitetui nutarus sustabdyti ar nutraukti pritarimo liudijimo galiojimą, Valstybinė vaistų kontrolės tarnyba ne vėliau kaip per 7 dienas priima sprendimą tyrimą sustabdyti arba nutraukti.
@@ -2644,6 +2838,12 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 Straipsnio pakeitimai:
 
 Nr. XI-2376, 2012-11-06, Žin., 2012, Nr. 135-6865 (2012-11-22)
+
+TAR pastaba: 4 skirsnis netenka galios po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos.
+
+Skirsnio pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 PENKTASIS skIRSNIS
 
@@ -2653,13 +2853,31 @@ FARMACINĖS VEIKLOS licencijavimas
 
 1. Vaistinių, tiriamųjų vaistinių preparatų gamyba, importas iš trečiųjų šalių, plazmos, naudojamos kaip pradinė medžiaga kraujo preparatams gaminti, ruošimas, didmeninis vaistinių preparatų platinimas, vaistinės veikla yra licencijuojama farmacinė veikla.
 
-2. Lietuvos Respublikoje įsteigtiems juridiniams asmenims ir jų padaliniams, užsienio valstybių juridinių asmenų ir kitų organizacijų padaliniams, įsteigtiems Lietuvos Respublikoje, (toliau – juridinis asmuo) išduodamos šių rūšių licencijos:
+2. Juridiniams asmenims išduodamos šių rūšių licencijos:
 
 1) gamybos licencija;
 
 2) didmeninio platinimo licencija;
 
 3) vaistinės veiklos licencija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
+21. Gamybos licenciją reikia gauti norint:
+
+1) gaminti vaistinius preparatus ir (ar) juos importuoti iš trečiųjų šalių;
+
+2) gaminti tiriamuosius vaistinius preparatus ir (ar) juos importuoti iš trečiųjų šalių;
+
+3) ruošti plazmą, naudojamą kaip pradinė medžiaga kraujo preparatams gaminti.
+
+TAR pastaba: papildoma 21 dalimi po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 3. Gamybos, didmeninio platinimo ir vaistinės veiklos licencijas (toliau – licencija) išduoda, patikslina, papildo, pakeičia, stabdo jų galiojimą, panaikina jų galiojimą ar panaikina galiojimo sustabdymą, pakeičia informaciją ir (ar) duomenis dokumentuose, pateiktuose licencijai gauti, (toliau – licencijos informacija ir duomenys) Valstybinė vaistų kontrolės tarnyba. Farmacinės veiklos licencijavimo taisykles ir licencijų rekvizitus tvirtina Vyriausybė. Gamybos ir didmeninio platinimo licencijų rekvizitai tvirtinami vadovaujantis Bendrijos inspektavimo ir pasikeitimo informacija procedūrų sąvade, kuris Europos Komisijos skelbiamas remiantis 2003 m. spalio 8 d. Komisijos direktyvos 2003/94/EB, nustatančios žmonėms skirtų vaistų ir tiriamųjų vaistų geros gamybos praktikos principus ir rekomendacijas (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 424), 3 straipsniu (toliau – Bendrijos inspektavimo ir pasikeitimo informacija procedūrų sąvadas), paskelbtomis licencijų formomis.
 
@@ -2713,6 +2931,14 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 1. Juridinis asmuo gali verstis vaistinių, tiriamųjų vaistinių preparatų gamyba ir (ar) importu iš trečiųjų šalių tik gavęs šio įstatymo nustatyta tvarka išduotą gamybos licenciją.
 
+TAR pastaba: 1 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+1. Juridinis asmuo gali verstis vaistinių, tiriamųjų vaistinių preparatų gamyba ir (ar) importu iš trečiųjų šalių tik gavęs gamybos licenciją. Gamybos licencija, suteikianti teisę gaminti ir (ar) importuoti vaistinius preparatus, išduodama šio įstatymo nustatyta tvarka. Gamybos licencija, suteikianti teisę gaminti ir (ar) importuoti tiriamuosius vaistinius preparatus, išduodama vadovaujantis šio įstatymo 20, 26 straipsniuose ir Reglamento (ES) Nr. 536/2014 61 straipsnyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 2. Juridinis asmuo gali verstis vaistinių preparatų, tiriamųjų vaistinių preparatų visa ir daline gamyba ir (ar) vykdyti operacijas, susijusias su fasavimu, pakavimu, ženklinimu, pateiktimi, tik turėdamas gamybos licenciją. Šią licenciją jis taip pat turi turėti, kai vaistinius preparatus, tiriamuosius vaistinius preparatus gamina ir (ar) importuoja iš trečiųjų šalių tik eksportui. Gamybos licencija suteikia teisę platinti šios licencijos turėtojo pagamintus vaistinius preparatus.
 
 3. Gamybos licencijos nereikalaujama:
@@ -2735,15 +2961,27 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 5) vardinių vaistinių preparatų ir šio įstatymo 8 straipsnio 18 dalyje nurodytų vaistinių preparatų importui iš trečiųjų šalių.
 
+TAR pastaba: 5 punkto redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+5) vardinių vaistinių preparatų, šio įstatymo 8 straipsnio 18 ir 21 dalyse nurodytų vaistinių preparatų ir pagalbinių vaistinių preparatų importui iš trečiųjų šalių.
+
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
 
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 4. Vaistiniai, tiriamieji vaistiniai preparatai gaminami ir (ar) importuojami iš trečiųjų šalių laikantis sveikatos apsaugos ministro patvirtintų vaistinių preparatų ir tiriamųjų vaistinių preparatų geros gamybos praktikos nuostatų, Europos Komisijos ir Europos vaistų agentūros nurodymų (toliau – gera gamybos praktika).
+
+TAR pastaba: 4 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+4. Vaistiniai preparatai gaminami ir (ar) importuojami iš trečiųjų šalių laikantis sveikatos apsaugos ministro patvirtintų vaistinių preparatų geros gamybos praktikos nuostatų, Europos Komisijos ir Europos vaistų agentūros nurodymų, tiriamieji vaistiniai preparatai – Reglamento (ES) Nr. 536/2014 63 straipsnio 1 dalyje nurodytų reikalavimų, Europos Komisijos ir Europos vaistų agentūros nurodymų (toliau – gera gamybos praktika).
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 5. Iš trečiųjų šalių importuojami vaistiniai, tiriamieji vaistiniai preparatai turi būti pagaminti įmonėse, kurioms tos šalies įgaliotos institucijos leista verstis vaistinių, tiriamųjų vaistinių preparatų gamyba ir kurių geros gamybos praktikos standartai atitinka bent Europos Sąjungos nustatytuosius.
 
@@ -2761,6 +2999,14 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1438, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20557
 
+11. Reglamento (ES) Nr. 536/2014 61 straipsnio 5 dalyje nurodytos operacijos ir procesai atliekami sveikatos apsaugos ministro nustatyta tvarka.
+
+TAR pastaba: papildoma 11 dalimi po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos .
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+
 Straipsnio pakeitimai:
 
 Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
@@ -2768,6 +3014,14 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 26 straipsnis. Gamybos licencijos išdavimo principai
 
 1. Gamybos licencija išduodama veiklai vykdyti tik paraiškoje nurodytose patalpose ir su toje pačioje paraiškoje nurodytais preparatais ar jų grupėmis ir farmacinėmis formomis. Kvalifikuoto asmens, atsakingo už gamybą ir (ar) importą, pareigas gali vykdyti tik į gamybos licenciją įrašytas (įrašyti) asmuo (asmenys), išskyrus šio įstatymo 27 straipsnio 1 dalies 4 punkte nustatytą atvejį.
+
+TAR pastaba: 1 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+1. Gamybos licencija išduodama tik paraiškoje nurodytoms gamybos, importo operacijoms su nurodytais preparatais ar jų grupėmis ir farmacinėmis formomis vykdyti toje pačioje paraiškoje nurodytose Lietuvos Respublikos teritorijoje esančiose patalpose, dėl kurių priimtas teigiamas sprendimas pagal šio įstatymo 20 straipsnio 6 dalį. Kvalifikuoto asmens, atsakingo už gamybą ir (ar) importą, pareigas gali vykdyti tik į gamybos licenciją įrašytas (įrašyti) asmuo (asmenys), išskyrus šio įstatymo 27 straipsnio 1 dalies 4 punkte nustatytą atvejį.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 2. Gamybos licencija išduodama arba priimamas motyvuotas sprendimas atsisakyti ją išduoti ne vėliau kaip per 90 dienų nuo paraiškos ir visų tinkamai įformintų Farmacinės veiklos licencijavimo taisyklėse nurodytų dokumentų, reikalingų gamybos licencijai išduoti, gavimo dienos. Jeigu reikia, Valstybinė vaistų kontrolės tarnyba turi teisę prašyti pareiškėjo pateikti su priimamu sprendimu, taip pat su šio įstatymo 29 straipsnyje nustatytoms pareigoms vykdyti numatytu asmeniu, kurio kvalifikacijos ir patirties reikalavimus nustato Vyriausybė, vadovaudamasi šio įstatymo 28 straipsniu, arba kurio kvalifikacijos reikalavimus nustato sveikatos apsaugos ministras, vadovaudamasis šio įstatymo 293 straipsnio 1 dalies 3 punktu, susijusią išsamesnę informaciją. Pareiškėjas informaciją turi pateikti ne vėliau kaip per 30 dienų nuo Valstybinės vaistų kontrolės tarnybos prašymo gavimo dienos. Terminas, per kurį pareiškėjas pateikia šią informaciją, neįskaitomas į sprendimo priėmimo laikotarpį.
 
@@ -2995,9 +3249,15 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 8) tiekti Lietuvos Respublikos rinkai registruotus vaistinius preparatus ir šio įstatymo 8 straipsnio 3, 5 ir 18 dalyse nustatytais atvejais neregistruotus vaistinius preparatus;
 
+TAR pastaba: 8 punkto redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+8) tiekti Lietuvos Respublikos rinkai registruotus vaistinius preparatus ir šio įstatymo 8 straipsnio 3, 5, 18 ir 21 dalyse nustatytais atvejais neregistruotus vaistinius preparatus ir neregistruotus pagalbinius vaistinius preparatus;
+
 Straipsnio punkto pakeitimai:
 
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 9) tiekti vaistinius preparatus tik asmenims, kurie turi didmeninio platinimo, vaistinės veiklos ir (ar) asmens sveikatos priežiūros veiklos licencijas, ikiklinikinius tyrimus atliekantiems asmenims arba kitos EEE valstybės asmenims pagal tos valstybės teisės aktus;
 
@@ -3065,9 +3325,15 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 3. Jeigu didmeninio platinimo licencijos turėtojas vaistinius preparatus, skirtus tik eksportuoti, gauna tiesiogiai iš trečiosios šalies, tačiau jų neimportuoja arba importuoja vardinius ar pagal šio įstatymo 8 straipsnio 5 ir 18 dalis leistus neregistruotus vaistinius preparatus, šio straipsnio 1 dalies 5 ir 6 punktų nuostatos netaikomos. Šiuo atveju didmeninio platinimo licencijos turėtojas turi užtikrinti, kad vaistinius preparatus gauna iš asmenų, kurie turi teisę tiekti vaistinius preparatus pagal tos šalies teisės aktus. Eksportuojant vaistinius preparatus į trečiąją šalį, netaikomos šio įstatymo 17 straipsnio 11 dalies ir šio straipsnio 1 dalies 9 ir 20 punktų nuostatos, tačiau didmeninio platinimo licencijos turėtojas turi užtikrinti, kad vaistiniai preparatai būtų tiekiami asmenims, kurie turi teisę gauti vaistinius preparatus didmeninio platinimo tikslu arba juos išduoti (parduoti) gyventojams pagal tos šalies teisės aktus. Jeigu vaistiniai preparatai tiekiami trečiosios šalies asmeniui, kuris turi teisę pagal tos šalies teisės aktus išduoti (parduoti) vaistinius preparatus gyventojams, šio straipsnio 1 dalies 14 punkte nurodyta pareiga turi būti vykdoma.
 
+TAR pastaba: 3 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+3. Jeigu didmeninio platinimo licencijos turėtojas vaistinius preparatus, skirtus tik eksportuoti, gauna tiesiogiai iš trečiosios šalies, tačiau jų neimportuoja arba importuoja vardinius ar pagal šio įstatymo 8 straipsnio 5, 18 ir 21 dalis leistus neregistruotus vaistinius preparatus ir neregistruotus pagalbinius vaistinius preparatus, šio straipsnio 1 dalies 5 ir 6 punktų nuostatos netaikomos. Šiuo atveju didmeninio platinimo licencijos turėtojas turi užtikrinti, kad vaistinius preparatus gauna iš asmenų, kurie turi teisę tiekti vaistinius preparatus pagal tos šalies teisės aktus. Eksportuojant vaistinius preparatus į trečiąją šalį, netaikomos šio įstatymo 17 straipsnio 11 dalies ir šio straipsnio 1 dalies 9 ir 20 punktų nuostatos, tačiau didmeninio platinimo licencijos turėtojas turi užtikrinti, kad vaistiniai preparatai būtų tiekiami asmenims, kurie turi teisę gauti vaistinius preparatus didmeninio platinimo tikslu arba juos išduoti (parduoti) gyventojams pagal tos šalies teisės aktus. Jeigu vaistiniai preparatai tiekiami trečiosios šalies asmeniui, kuris turi teisę pagal tos šalies teisės aktus išduoti (parduoti) vaistinius preparatus gyventojams, šio straipsnio 1 dalies 14 punkte nurodyta pareiga turi būti vykdoma.
+
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 4. Didmeninio platinimo licencijos turėtojas šio įstatymo 35 straipsnio 8 dalyje nustatytu atveju turi teisę tiekti asmenims, turintiems vaistinės veiklos licenciją, neregistruotus vaistinius preparatus, kurie registruoti kitoje EEE valstybėje.
 
@@ -3417,7 +3683,7 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 12) nurodyti, kad vaistinis preparatas yra saugus ar efektyvus todėl, kad natūralus;
 
-13) veikti gyventojus įkyriai siūlant vaistinius preparatus, nurodant kainoraščiuose, kainų etiketėse, vaistinių patalpose, kitose vietose kainų sumažinimą, kitais gerai moralei ir viešajai tvarkai prieštaraujančiais būdais ir priemonėmis.
+13) veikti gyventojus įkyriai siūlant vaistinius preparatus, nurodant kainoraščiuose, kainų etiketėse, vaistinių patalpose, kitose vietose kainų sumažinimą, kitais gerai moralei ir viešajai tvarkai prieštaraujančiais būdais ir priemonėmis;
 
 5. Draudžiama tiesiogiai pateikti vaistinius preparatus gyventojams reklamos tikslais.
 
@@ -3546,6 +3812,14 @@ Nr. XI-664, 2010-01-20, Žin., 2010, Nr. 13-624 (2010-02-02)
 65 straipsnis. Kitų EEE valstybių atliktų patikrinimų galiojimas
 
 1. Lietuvos Respublikoje galioja kitų EEE valstybių įgaliotų institucijų patikrinimų išvados, priimtos dėl gamybos, importo iš trečiųjų šalių, klinikinių tyrimų, didmeninio vaistinių preparatų platinimo, vaistinių preparatų prekybos tarpininkavimo, farmakologinio budrumo, taip pat šio įstatymo 29 straipsnio 3 dalyje nurodytų šalių įgaliotų institucijų patikrinimo išvados dėl sutartyse numatytos veiklos patikrinimų.
+
+TAR pastaba: 1 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
+
+1. Lietuvos Respublikoje galioja kitų EEE valstybių įgaliotų institucijų patikrinimų išvados, priimtos dėl gamybos, importo iš trečiųjų šalių, didmeninio vaistinių preparatų platinimo, vaistinių preparatų prekybos tarpininkavimo, farmakologinio budrumo, taip pat šio įstatymo 29 straipsnio 3 dalyje nurodytų šalių įgaliotų institucijų patikrinimo išvados dėl sutartyse numatytos veiklos patikrinimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 2. Išimtiniais atvejais, jeigu Valstybinė vaistų kontrolės tarnyba dėl priežasčių, susijusių su visuomenės sveikata, negali sutikti su šio straipsnio 1 dalyje nurodytomis išvadomis, ji apie tai praneša Europos Komisijai ir Europos vaistų agentūrai.
 
