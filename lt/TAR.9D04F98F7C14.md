@@ -4,7 +4,7 @@ identifier: "TAR.9D04F98F7C14"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-04-07"
-last_updated: "2017-11-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D04F98F7C14"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2017-11-01 iki 2018-07-31
+Suvestinė redakcija nuo 2018-08-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 79-0; Žin. 1992, Nr.14-378, i. k. 0921010ISTA00I-2455
 
@@ -69,6 +69,12 @@ VALSTYBĖS PARAMA DAUGIABUČIAMS NAMAMS ATNAUJINTI
 2. Šio straipsnio 1 dalyje nurodyto sprendimo dėl daugiabučio namo atnaujinimo įgyvendinimą, vadovaudamasis butų ir kitų patalpų savininkų patvirtintu investicijų planu, organizuoja projekto administratorius, atlikdamas Statybos įstatyme nurodytas statytojo (užsakovo) pareigas. Kai butų ir kitų patalpų savininkų sprendimu statytojo (užsakovo) ir kitos su projekto įgyvendinimu susijusios pareigos pavedamos asmeniui, teikiančiam projekto įgyvendinimo administravimo paslaugas, arba savivaldybės programos įgyvendinimo administratoriui, sudaroma pavedimo sutartis. Pavedimo sutartį pagal butų ir kitų patalpų savininkų sprendime nustatytas sąlygas sudaro ir jos vykdymą kontroliuoja bendrojo naudojimo objektų valdytojas. Pavedimo sutarties pavyzdinę formą nustato Vyriausybės įgaliota institucija.
 
 3. Dėl būsto šildymo išlaidų kompensavimo nepasiturintiems gyventojams pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą bendrojo naudojimo objektų valdytojas arba savivaldybės programos įgyvendinimo administratorius teikia savivaldybės administracijai butų ir kitų patalpų savininkų sprendimo dėl daugiabučio namo atnaujinimo protokolo išrašą.
+
+4. Daugiabučio namo butų ir kitų patalpų savininkų asmens duomenys atnaujinimo projekto parengimo, įgyvendinimo ir valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) teikimo tikslais tvarkomi Vyriausybės nustatyta tvarka.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1464, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11779
 
 6 straipsnis. Butų ir kitų patalpų savininkų, įgyvendinančių daugiabučio namo atnaujinimo projektus, interesų apsauga
 
@@ -417,6 +423,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-498, 2017-06-22, paskelbta TAR 2017-06-27, i. k. 2017-10841
 
 Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1464, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11779
+
+Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 5 straipsnio pakeitimo įstatymas
 
 įstatymo 11 straipsnis įsigalioja 2009 m. sausio 1 d.
 
