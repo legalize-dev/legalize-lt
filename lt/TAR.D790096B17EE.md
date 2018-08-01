@@ -4,7 +4,7 @@ identifier: "TAR.D790096B17EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-10"
-last_updated: "2017-11-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D790096B17EE"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2017-11-01 iki 2018-07-31
+Suvestinė redakcija nuo 2018-08-01 iki 2018-12-02
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
 
@@ -52,11 +52,13 @@ BENDROSIOS NUOSTATOS
 
 3. Šis įstatymas netaikomas švietimo ir socialinėms paslaugoms, finansuojamoms iš valstybės ir savivaldybių biudžetų lėšų, asmens ir visuomenės sveikatos priežiūros paslaugoms, kurių išlaidos pagal įstatymus yra apmokamos (kompensuojamos) iš Privalomojo sveikatos draudimo fondo biudžeto, valstybės ar savivaldybių biudžetų lėšų, aprūpinimui vaistais, taip pat vykdant teismų sprendimus.
 
-4. Tais atvejais, kai taikomas Mokėjimų įstatymas, vietoj šio įstatymo 36 straipsnio 5–9 dalyse nustatytų informacijos reikalavimų, išskyrus šio įstatymo 36 straipsnio 7 dalies 3–8 punktus, 8 dalies 1, 4 ir 5 punktus ir 9 dalies 2 punktą, taikomos Mokėjimų įstatymo 11 ir 18 straipsnių nuostatos.
+4. Tais atvejais, kai taikomas Mokėjimų įstatymas, vietoj šio įstatymo 36 straipsnio 5–9 dalyse nustatytų informacijos reikalavimų, išskyrus šio įstatymo 36 straipsnio 7 dalies 3–8 punktus, 8 dalies 1, 4 ir 5 punktus ir 9 dalies 2 punktą, taikomos Mokėjimų įstatymo 13 ir 20 straipsnių nuostatos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2564, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20318
+
+Nr. XIII-1096, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06735
 
 Straipsnio pakeitimas:
 
@@ -1142,39 +1144,27 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 1998 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 98/27/EB dėl draudimų ginant vartotojų interesus (OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 223) su paskutiniais pakeitimais, padarytais 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva 2002/65/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 321).
+1. 1998 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 98/27/EB dėl draudimų ginant vartotojų interesus (OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 43) su paskutiniais pakeitimais, padarytais 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva 2002/65/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 321).
 
 2. 1999 m. gegužės 25 d. Europos Parlamento ir Tarybos direktyva 1999/44/EB dėl vartojimo prekių pardavimo ir susijusių garantijų tam tikrų aspektų (OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 223).
 
-3. 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva 2002/65/EB dėl nuotolinės prekybos vartotojams skirtomis finansinėmis paslaugomis ir iš dalies keičianti Tarybos direktyvą 90/619/EB ir direktyvas 97/7/EB ir 98/27/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 321).
+3. 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva 2002/65/EB dėl nuotolinės prekybos vartotojams skirtomis finansinėmis paslaugomis ir iš dalies keičianti Tarybos direktyvą 90/619/EEB ir direktyvas 97/7/EB ir 98/27/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 321).
 
 4. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 L 364, p.1).
 
-5. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
+5. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais (OL 2009 L 33, p. 10).
 
-6. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais (OL 2009 L 33, p. 10).
+6. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB (OL 2011 L 304, p. 64).
 
-7. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB (OL 2011 L 304, p. 64).
+7. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2013/11/ES dėl alternatyvaus vartotojų ginčų sprendimo, kuria iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB (OL 2013 L 165, p. 63).
 
-8. Europos Parlamento ir Tarybos 2013 m. gegužės 21 d. direktyva 2013/11/ES dėl alternatyvaus vartotojų ginčų sprendimo, kuria iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB (OL 2013 L 165, p. 63).
+8. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 524/2013 dėl elektroninio vartotojų ginčų sprendimo, kuriuo iš dalies keičiami Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB (OL 2013 L 165, p. 1).
 
-Papildyta punktu:
-
-Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
-
-9. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 524/2013 dėl elektroninio vartotojų ginčų sprendimo, kuriuo iš dalies keičiami Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB (OL 2013 L 165, p. 1).
-
-Papildyta punktu:
-
-Nr. XII-2757, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26961
+9. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB (OL 2015 L 337, p. 35).
 
 Priedo pakeitimai:
 
-Nr. XI-562, 2009-12-10, Žin., 2009, Nr. 153-6900 (2009-12-28)
-
-Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
-
-Nr. XII-701, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
+Nr. XIII-1096, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06735
 
 Pakeitimai:
 
