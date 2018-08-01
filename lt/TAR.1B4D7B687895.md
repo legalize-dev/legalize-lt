@@ -4,7 +4,7 @@ identifier: "TAR.1B4D7B687895"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-01"
-last_updated: "2018-06-15"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1B4D7B687895"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Neoficialus ?statymo tekstas
 
-Suvestinė redakcija nuo 2018-06-15 iki 2018-07-31
+Suvestinė redakcija nuo 2018-08-01 iki 2019-01-12
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
 
@@ -1022,7 +1022,13 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 3. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo teises ar teisėtus interesus, atsirandančius iš sutarčių ar su jais susijusių santykių, turi teisę kreiptis į teismą arba į vartojimo ginčus ne teismo tvarka nagrinėjančią instituciją – Lietuvos banką. Vartotojo kreipimasis į Lietuvos banką neatima vartotojo teisės kreiptis į teismą.
 
-4. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo teises ar teisėtus interesus, atsirandančius iš sutarčių ar su jais susijusių santykių, ir ketinantis dėl kilusio ginčo nagrinėjimo kreiptis į Lietuvos banką, prieš kreipdamasis į Lietuvos banką privalo raštu kreiptis į finansų rinkos dalyvį, nurodydamas ginčo aplinkybes ir savo reikalavimą. Finansų rinkos dalyviai vartotojų kreipimusis nagrinėja neatlygintinai.
+4. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo teises ar teisėtus interesus, atsirandančius iš sutarčių ar su jomis susijusių santykių, ir ketinantis dėl kilusio ginčo nagrinėjimo kreiptis į Lietuvos banką, prieš kreipdamasis į Lietuvos banką privalo raštu kreiptis į finansų rinkos dalyvį, nurodydamas ginčo aplinkybes ir savo reikalavimą. Finansų rinkos dalyvis privalo išnagrinėti rašytinį vartotojo kreipimąsi ir ne vėliau kaip per 15 darbo dienų nuo kreipimosi gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodamas kitą patvariąją laikmeną, jeigu dėl to susitarė vartotojas ir finansų rinkos dalyvis. Išskirtiniais atvejais, kai dėl priežasčių, kurių finansų rinkos dalyvis negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, jis turi išsiųsti negalutinį atsakymą, aiškiai nurodęs atsakymo į vartotojo kreipimąsi vėlavimo priežastis ir terminą, iki kurio vartotojas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Finansų rinkos dalyvis vartotojų kreipimusis nagrinėja neatlygintinai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1095, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06731
+
+Nr. XIII-1304, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11309
 
 5. Lietuvos banko sprendimas dėl ginčo esmės yra rekomendacinio pobūdžio ir teismui neskundžiamas. Lietuvos bankas savo interneto svetainėje skelbia informaciją apie finansų rinkos dalyvius, nevykdančius Lietuvos banko sprendimų.
 
@@ -2035,6 +2041,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 2, 6, 8, 11, 21-1, 42, 43, 47 straipsnių, 1 ir 3 priedų pakeitimo ir Įstatymo papildymo 17-1, 42-1, 43-1, 43-2, 43-3, 43-4, 43-5, 43-6, 43-7 straipsniais ir septintuoju-3 skirsniu įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1095, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06731
+
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 47 straipsnio ir 1 priedo pakeitimo įstatymas
+
+17.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1304, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11309
+
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 47 straipsnio ir 1 priedo pakeitimo įstatymo Nr. XIII-1095 1 straipsnio pakeitimo ir 2 straipsnio pripažinimo netekusiu galios įstatymas
 
 211 straipsnis. Finansų rinkos priežiūros ir finansų sektoriaus subjektų pertvarkymo institucijos veiklos finansavimas
 
