@@ -4,7 +4,7 @@ identifier: "TAR.29EEB33AFCD0"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-05-18"
-last_updated: "2018-07-05"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2018-07-05 iki 2018-07-31
+Suvestinė redakcija nuo 2018-08-01 iki 2019-04-03
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
 
@@ -1434,6 +1434,16 @@ Centrinė kredito unija neturi teisės skolinti įsigyjamo savo pajaus pajiniam 
 2. Prieš sudarydama sutartį dėl finansinių paslaugų teikimo, centrinė kredito unija privalo suteikti klientui išsamią informaciją apie finansinių paslaugų teikimo sąlygas, paslaugų kainą, paslaugų teikimo terminus, galimas pasekmes ir kitą informaciją, turinčią įtakos kliento apsisprendimui sudaryti sutartį.
 
 3. Kiekvienam esamam ar galimam klientui, jeigu jis prašo, centrinė kredito unija privalo pateikti metinių finansinių ataskaitų rinkinius ir auditoriaus išvadą, kurią pagal teisės aktus centrinė kredito unija turi pateikti visuomenei.
+
+4. Centrinė kredito unija privalo priežiūros institucijos nustatyta tvarka nagrinėti klientų skundus (prašymus), susijusius su centrinės kredito unijos teikiamomis finansinėmis paslaugomis (toliau – skundas). Centrinė kredito unija privalo išnagrinėti rašytinį kliento skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė klientas ir centrinė kredito unija. Išskirtiniais atvejais, kai dėl priežasčių, kurių centrinė kredito unija negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio klientas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Centrinė kredito unija klientų skundus nagrinėja neatlygintinai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1099, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06740
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1306, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11311
 
 AŠTUNTASIS SKIRSNIS
 
