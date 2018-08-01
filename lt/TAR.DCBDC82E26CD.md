@@ -4,7 +4,7 @@ identifier: "TAR.DCBDC82E26CD"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-01-23"
-last_updated: "2017-01-01"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DCBDC82E26CD"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos gyventojų registro įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-07-31
+Suvestinė redakcija nuo 2018-08-01 iki 2020-11-20
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 21-0; Žin. 1992, Nr.5-78, i. k. 0921010ISTA00I-2237
 
@@ -164,7 +164,11 @@ Nr. XII-2116, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19704
 
 4. Gyventojų registro duomenys teikiami už atlyginimą, išskyrus Valstybės informacinių išteklių valdymo įstatyme nustatytus atvejus. Atlyginimo dydį ir mokėjimo tvarką nustato Vyriausybė.
 
-5. Veido atvaizdas, pirštų atspaudai ir parašas gali būti teikiami teisėtvarkos, žvalgybos ir asmens tapatybę patvirtinančius dokumentus išduodančioms institucijoms. Veido atvaizdas ir parašas gali būti teikiami valstybės institucijoms juridinę galią turinčių dokumentų gamybai tik tuo atveju, jeigu yra asmens sutikimas. Veido atvaizdas gali būti teikiamas finansų įstaigoms tik tų asmenų, kuriems ketinama suteikti finansines paslaugas, susijusias su rizikos prisiėmimu. Veido atvaizdas teikiamas sveikatos priežiūros įstaigoms nenustatytos asmens tapatybės pacientų asmens tapatybei patvirtinti ir (ar) nustatyti, taip pat notarams ir antstoliams – teisės aktuose nustatytoms funkcijoms atlikti, kai to reikia kaip papildomos asmens identifikavimo priemonės asmens tapatybei nustatyti.
+5. Veido atvaizdas, pirštų atspaudai ir parašas gali būti teikiami teisėtvarkos, žvalgybos ir asmens tapatybę patvirtinančius dokumentus išduodančioms institucijoms. Veido atvaizdas ir parašas gali būti teikiami valstybės institucijoms juridinę galią turinčių dokumentų gamybai tik tuo atveju, jeigu yra asmens sutikimas. Veido atvaizdas gali būti teikiamas finansų įstaigoms tik tų asmenų, kuriems ketinama suteikti finansines paslaugas, susijusias su rizikos prisiėmimu. Veido atvaizdas teikiamas sveikatos priežiūros įstaigoms nenustatytos asmens tapatybės pacientų asmens tapatybei patvirtinti ir (ar) nustatyti, notarams ir antstoliams – teisės aktuose nustatytoms funkcijoms atlikti, kai to reikia kaip papildomos asmens identifikavimo priemonės asmens tapatybei nustatyti, o institucijoms, atliekančioms nelegalaus darbo, nedeklaruoto darbo ir nedeklaruotos savarankiškos veiklos kontrolę, – tiek, kiek tai būtina asmens tapatybei nustatyti atliekant šią kontrolę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1405, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11466
 
 6. Informacija apie giminystės ir svainystės ryšius gali būti teikiama teisėtvarkos, žvalgybos subjektams, mokesčių administravimo institucijoms teisės aktuose nustatytoms funkcijoms atlikti; Lietuvos Respublikos Seimo komisijoms – įstatymų, Lietuvos Respublikos Seimo nutarimų nustatyta tvarka pavestiems uždaviniams įgyvendinti. Informacija apie giminystės ryšius gali būti teikiama Vyriausiajai tarnybinės etikos komisijai teisės aktuose jai nustatytoms funkcijoms atlikti; notarams – paveldėjimo byloms tvarkyti ir nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti sandorius su artimaisiais giminaičiais; asmenims, kuriems įstatymų nustatyta teisė spręsti Lietuvos Respublikos pilietybės klausimus, – sprendimams šiais klausimais priimti; konsuliniams pareigūnams – kai to reikia konsulinei veiklai atlikti, taip pat nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti santuoką ir sandorius su artimaisiais giminaičiais; Nekilnojamojo turto registro tvarkytojui – kai įregistruojami nekilnojamieji daiktai, įgyti nuosavybėn įgyjamąja senatimi; Įmonių bankroto valdymo departamentui prie Ūkio ministerijos – bankroto administratoriaus giminystės ir svainystės apribojimams nustatyti.
 
@@ -295,6 +299,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2116, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19704
 
 Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 2 ir 5 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1405, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11466
+
+Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 11 straipsnio pakeitimo įstatymas
 
 18 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
