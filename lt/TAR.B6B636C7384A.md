@@ -4,7 +4,7 @@ identifier: "TAR.B6B636C7384A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-03-30"
-last_updated: "2018-07-16"
+last_updated: "2018-08-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2018-07-16 iki 2018-07-31
+Suvestinė redakcija nuo 2018-08-01 iki 2019-04-03
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
 
@@ -1135,7 +1135,13 @@ Nr. XII-1899, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10790
 
 3. Kiekvienam esamam ar galimam klientui, jeigu jis prašo, bankas privalo pateikti metinių finansinių ataskaitų rinkinius ir auditoriaus išvadą, kuriuos pagal teisės aktus bankas turi pateikti visuomenei.
 
-4. Klientų prašymus (skundus) dėl su banku sudarytų kreditavimo sutarčių vykdymo ar banko veiksmų, kuriais bankas galėjo pažeisti sutarties su klientu ar teisės aktų reikalavimus, nagrinėja bankas. Bankas privalo išnagrinėti rašytinius kliento prašymus (skundus) ir raštu jam atsakyti ne vėliau kaip per 30 kalendorinių dienų nuo jų gavimo dienos. Esant sudėtingam atvejui, bankas privalo leisti klientui dalyvauti svarstyme, raštu informuoti klientą apie ilgesnį nagrinėjimo  terminą, tačiau šis terminas negali viršyti 45 kalendorinių dienų nuo prašymo (skundo) gavimo dienos. Jeigu kliento prašymas (skundas) nesusijęs su kliento kreditavimo sutartimi, bankas privalo atsakyti klientui ne vėliau kaip per 30 kalendorinių dienų nuo prašymo (skundo) gavimo dienos, jeigu įstatymai nenustato kitaip. Bankas klientų prašymus (skundus) nagrinėja neatlygintinai.
+4. Bankas privalo priežiūros institucijos nustatyta tvarka nagrinėti klientų skundus (prašymus), susijusius su banko teikiamomis finansinėmis paslaugomis (toliau – skundas). Bankas privalo išnagrinėti rašytinį kliento skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodamas kitą patvariąją laikmeną, jeigu dėl to susitarė klientas ir bankas. Išskirtiniais atvejais, kai dėl priežasčių, kurių bankas negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, jis turi išsiųsti negalutinį atsakymą aiškiai nurodęs atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio klientas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Bankas klientų skundus nagrinėja neatlygintinai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1098, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06739
+
+Nr. XIII-1305, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11310
 
 Straipsnio pakeitimai:
 
