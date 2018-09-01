@@ -4,7 +4,7 @@ identifier: "TAR.8A719A97956F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-05-25"
-last_updated: "2018-05-09"
+last_updated: "2018-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8A719A97956F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas
 
-Suvestinė redakcija nuo 2018-05-09 iki 2018-08-31
+Suvestinė redakcija nuo 2018-09-01 iki 2020-01-16
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 65-2380, i. k. 1061010ISTA000X-614
 
@@ -253,7 +253,7 @@ Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
 
 1) tokios priemonės yra būtinos viešojo intereso (ypač tai susiję su nusikaltimų prevencija, tyrimu, atskleidimu ir asmenų baudžiamuoju persekiojimu, įskaitant nepilnamečių apsaugą ir kovą su rasinės, lytinės, religinės ar tautinės neapykantos kurstymu bei asmenų žmogiškojo orumo pažeidimu), visuomenės sveikatos apsaugai, visuomenės saugumo, įskaitant nacionalinį saugumą ir gynybą, interesų, vartotojų, tarp jų ir investuotojų, apsaugai. Šios priemonės taikomos tai informacinės visuomenės paslaugai, kuri pažeidžia šiuos interesus arba kelia grėsmę, kad jie bus pažeisti. Taikomos priemonės turi atitikti siekiamus tikslus;
 
-2) Informacinės visuomenės plėtros komitetas prie Susisiekimo ministerijos (toliau – Informacinės visuomenės plėtros komitetas), gavęs kompetentingos institucijos prašymą (jeigu tokia institucija nėra pats Informacinės visuomenės plėtros komitetas), prieš kompetentingai institucijai kreipiantis į teismą su prašymu imtis tokių priemonių arba įstatymų nustatytais atvejais prieš kompetentingai institucijai pačiai imantis tokių priemonių, kreipiasi į Europos Sąjungos valstybę narę, kurioje paslaugų teikėjas yra įsisteigęs, su prašymu imtis priemonių, jeigu ši tokių priemonių nesiėmė arba jos priemonės, kompetentingos institucijos nuomone, yra nepakankamos, taip pat kai Informacinės visuomenės plėtros komitetas pranešė Europos Komisijai ir Europos Sąjungos valstybei narei, kurioje paslaugų teikėjas yra įsisteigęs, apie kompetentingos institucijos ketinimą kreiptis į teismą su prašymu imtis priemonių arba ketinimą imtis priemonių.
+2) Lietuvos Respublikos ūkio ministro įgaliota institucija, gavusi kompetentingos institucijos prašymą (jeigu tokia institucija nėra pati ūkio ministro įgaliota institucija), prieš kompetentingai institucijai kreipiantis į teismą su prašymu imtis tokių priemonių arba įstatymų nustatytais atvejais prieš kompetentingai institucijai pačiai imantis tokių priemonių, kreipiasi į Europos Sąjungos valstybę narę, kurioje paslaugų teikėjas yra įsisteigęs, su prašymu imtis priemonių, jeigu ši tokių priemonių nesiėmė arba jos priemonės, kompetentingos institucijos nuomone, yra nepakankamos, taip pat kai ūkio ministro įgaliota institucija pranešė Europos Komisijai ir Europos Sąjungos valstybei narei, kurioje paslaugų teikėjas yra įsisteigęs, apie kompetentingos institucijos ketinimą kreiptis į teismą su prašymu imtis priemonių arba ketinimą imtis priemonių.
 
 Straipsnio punkto pakeitimai:
 
@@ -261,11 +261,15 @@ Nr. XI-800, 2010-05-11, Žin., 2010, Nr. 60-2959 (2010-05-25), i. k. 1101010ISTA
 
 Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
-4. Skubiu atveju, taip pat kai imamasi priemonių pagal teisės normas, reglamentuojančias teismo procesą ir (ar) kitas teisės pažeidimų tyrimo, ginčų sprendimo ir (ar) kitas panašias procedūras, šio straipsnio 3 dalies 2 punktas netaikomas. Tokiu atveju apie kreipimąsi į teismą su prašymu imtis tokių priemonių arba tokių priemonių ėmimąsi kompetentinga institucija nedelsdama praneša Informacinės visuomenės plėtros komitetui, o Informacinės visuomenės plėtros komitetas praneša Europos Komisijai ir Europos Sąjungos valstybei narei, kurioje paslaugų teikėjas yra įsisteigęs, nurodydama priežastis, kodėl tai yra skubus atvejis.
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
+
+4. Skubiu atveju, taip pat kai imamasi priemonių pagal teisės normas, reglamentuojančias teismo procesą ir (ar) kitas teisės pažeidimų tyrimo, ginčų sprendimo ir (ar) kitas panašias procedūras, šio straipsnio 3 dalies 2 punktas netaikomas. Tokiu atveju apie kreipimąsi į teismą su prašymu imtis tokių priemonių arba tokių priemonių ėmimąsi kompetentinga institucija nedelsdama praneša ūkio ministro įgaliotai institucijai, o ūkio ministro įgaliota institucija praneša Europos Komisijai ir Europos Sąjungos valstybei narei, kurioje paslaugų teikėjas yra įsisteigęs, nurodydama priežastis, kodėl tai yra skubus atvejis.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
+
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
 
 5. Jeigu Europos Komisija, nustačiusi, kad priemonė nesuderinama su Europos Sąjungos teise, paprašė nesiimti priemonės arba tuoj pat nustoti ją taikyti, kompetentinga institucija turi įvertinti Europos Komisijos prašymą prieš nuspręsdama kreiptis į teismą su prašymu imtis priemonių ar pati imdamasi tokių priemonių. Jeigu į teismą su prašymu imtis priemonių jau kreiptasi ar tokių priemonių jau imtasi, kompetentinga institucija turi nuspręsti, ar priemonės gali būti toliau taikomos. Nusprendusi, kad priemonės, dėl kurių ketinama kreiptis ar kreiptasi į teismą arba kurių jau imtasi, atsižvelgiant į Europos Komisijos prašymą, neturėtų būti taikomos, kompetentinga institucija nesikreipia į teismą, o jeigu tai jau buvo padaryta, skubiai kreipiasi į teismą prašydama panaikinti šias priemones ir (arba) pati panaikina pačios kompetentingos institucijos priimtas priemones.
 
@@ -429,9 +433,17 @@ Paslaugos teikėjas, perduodantis paslaugos gavėjo pateiktą informaciją elekt
 
 15 straipsnis. Informavimas apie įtariamą neteisėtą paslaugos gavėjo veiklą
 
-1. Paslaugų teikėjai Informacinės visuomenės plėtros komiteto nustatyta tvarka privalo nedelsdami informuoti Informacinės visuomenės plėtros komitetą apie įtariamą neteisėtą paslaugos gavėjo veiklą arba tai, kad paslaugos gavėjo pateikta informacija gali būti įgyta, sukurta ar pakeista neteisėtu būdu.
+1. Paslaugų teikėjai ūkio ministro įgaliotos institucijos nustatyta tvarka privalo nedelsdami informuoti ūkio ministro įgaliotą instituciją apie įtariamą neteisėtą paslaugos gavėjo veiklą arba tai, kad paslaugos gavėjo pateikta informacija gali būti įgyta, sukurta ar pakeista neteisėtu būdu.
 
-2. Paslaugų teikėjai Informacinės visuomenės plėtros komiteto reikalavimu privalo pateikti jai informaciją, leidžiančią nustatyti paslaugų gavėjus, su kuriais atitinkami paslaugų teikėjai yra susitarę dėl informacijos saugojimo.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
+
+2. Paslaugų teikėjai ūkio ministro įgaliotos institucijos reikalavimu privalo pateikti jai informaciją, leidžiančią nustatyti paslaugų gavėjus, su kuriais atitinkami paslaugų teikėjai yra susitarę dėl informacijos saugojimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
 
 3. Asmenys, kurių teises pažeidžia paslaugų teikėjo perduodama ir (ar) saugoma informacija ar su ja susijusi veikla, turi teisę kreiptis į teismą su prašymu įpareigoti paslaugos teikėją imtis veiksmų, kad būtų nutrauktas pažeidimas, vykdomas naudojant informacinės visuomenės paslaugas, numatytas šio įstatymo 12-14 straipsniuose, ar užkirstas jam kelias, nepaisant to, kad už tokį pažeidimą pagal šio įstatymo 12-14 straipsnius paslaugos teikėjas neatsako.
 
@@ -447,21 +459,33 @@ ELGESIO (ETIKOS) KODEKSAI
 
 3. Paslaugų teikėjams atstovaujančios verslo ir profesinės asociacijos privalo viešai skelbti informaciją apie šio straipsnio 1 dalyje nurodytų elgesio (etikos) kodeksų rengimą ir įgyvendinimą ir sudaryti galimybes vartotojų asociacijoms pateikti savo pastabas ir pasiūlymus šiems kodeksams bei jų taikymui. Kai rengiami elgesio (etikos) kodeksai gali turėti įtakos asmenims, turintiems regėjimo sutrikimų ar kitą negalią, elgesio (etikos) kodeksų rengėjai privalo konsultuotis su vartotojų asociacijomis ir kitais juridiniais asmenimis, atstovaujančiais asmenims, turintiems regėjimo sutrikimų ar kitą negalią, kad būtų nustatyti šių asmenų specifiniai poreikiai.
 
-4. Šio straipsnio 1 dalyje nurodytos asociacijos privalo elektroninėmis priemonėmis Informacinės visuomenės plėtros komitetui pateikti jų parengtus elgesio (etikos) kodeksus. Elgesio (etikos) kodeksai turėtų būti pateikiami lietuvių, anglų ir dar bent viena Europos Sąjungos oficialia kalba. Informacinės visuomenės plėtros komitetas šiuos etikos (elgesio) kodeksus skelbia savo interneto svetainėje.
+4. Šio straipsnio 1 dalyje nurodytos asociacijos privalo elektroninėmis priemonėmis ūkio ministro įgaliotai institucijai pateikti jų parengtus elgesio (etikos) kodeksus. Elgesio (etikos) kodeksai turėtų būti pateikiami lietuvių, anglų ir dar bent viena Europos Sąjungos oficialia kalba. Ūkio ministro įgaliota institucija šiuos etikos (elgesio) kodeksus skelbia savo interneto svetainėje.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
-5. Informacinės visuomenės plėtros komitetas skatina rengti elgesio kodeksus dėl nepilnamečių ir žmogiškojo orumo apsaugos.
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
 
-6. Informacinės visuomenės plėtros komiteto iniciatyva šio straipsnio 1 dalyje nurodytos asociacijos teikia elgesio (etikos) kodeksų projektus, elgesio (etikos) kodeksų taikymo ir jų įtakos praktikai, susijusiai su elektronine komercija, įvertinimus Europos Komisijai ir Informacinės visuomenės plėtros komitetui.
+5. Ūkio ministro įgaliota institucija skatina rengti elgesio kodeksus dėl nepilnamečių ir žmogiškojo orumo apsaugos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
+
+6. Ūkio ministro įgaliotos institucijos iniciatyva šio straipsnio 1 dalyje nurodytos asociacijos teikia elgesio (etikos) kodeksų projektus, elgesio (etikos) kodeksų taikymo ir jų įtakos praktikai, susijusiai su elektronine komercija, įvertinimus Europos Komisijai ir ūkio ministro įgaliotai institucijai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
-7. Informacinės visuomenės plėtros komitetas turi teisę kreiptis į teismą su reikalavimu, kad verslo, profesinės ir vartotojų asociacijos, atstovaujančios paslaugų teikėjams ar paslaugų gavėjams, pakeistųjų parengtus paslaugų teikėjų veiklą reglamentuojančius elgesio (etikos) kodeksus, jei jie neatitinka suderintos srities.
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
+
+7. Ūkio ministro įgaliota institucija turi teisę kreiptis į teismą su reikalavimu, kad verslo, profesinės ir vartotojų asociacijos, atstovaujančios paslaugų teikėjams ar paslaugų gavėjams, pakeistų jų parengtus paslaugų teikėjų veiklą reglamentuojančius elgesio (etikos) kodeksus, jei jie neatitinka suderintos srities.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
 
 VII SKYRIUS
 
@@ -471,23 +495,33 @@ GINČŲ SPRENDIMAS
 
 1. Paslaugų teikėjai ir paslaugų gavėjai turi teisę bendru sutarimu spręsti savo ginčus, susijusius su informacinės visuomenės paslaugų teikimu, ne teismo tvarka, įskaitant ir ginčų sprendimą naudojant elektronines priemones. Ginčus, susijusius su informacinės visuomenės paslaugų teikimu, ne teismo tvarka nagrinėjančios institucijos sprendimas yra rekomendacinio pobūdžio. Ginčo, susijusio su informacinės visuomenės paslaugų teikimu, sprendimas ne teismo tvarka bendru paslaugos teikėjo ir paslaugos gavėjo sutarimu neužkerta kelio jiems naudotis kitais teisės aktuose numatytais ginčų sprendimo ne teismo tvarka būdais. Ginčo, susijusio su informacinės visuomenės paslaugų teikimu, šalys turi teisę kreiptis į bendrosios kompetencijos teismą, kad šis nagrinėtų ginčą iš esmės tiek ginčo, susijusio su informacinės visuomenės paslaugų teikimu, nagrinėjimo ne teismo tvarka metu, tiek ginčą, susijusį su informacinės visuomenės paslaugų teikimu, ne teismo tvarka nagrinėjusiai institucijai priėmus sprendimą. Ginčus, susijusius su informacinės visuomenės paslaugų teikimu, ne teismo tvarka nagrinėjančios institucijos turi nustatyti šių ginčų nagrinėjimo taisykles. Jose nustatomi prašymų išspręsti ginčą formos, turinio ir pateikimo, įrodymų rinkimo ir pateikimo reikalavimai, taip pat šalių taikinimo procedūra ir ginčų nagrinėjimo procedūra, kitos ginčų nagrinėjimo taisyklės.
 
-2. Teismai ir ginčus, susijusius su informacinės visuomenės paslaugų teikimu, ne teismo tvarka sprendžiančios institucijos turi teisę informuoti Europos Komisiją ir Informacinės visuomenės plėtros komitetą apie jų reikšmingus sprendimus, susijusius su informacinės visuomenės paslaugomis, ir perduoti šioms institucijoms informaciją, kaip sprendžiami ginčai, susiję su elektronine komercija.
+2. Teismai ir ginčus, susijusius su informacinės visuomenės paslaugų teikimu, ne teismo tvarka sprendžiančios institucijos turi teisę informuoti Europos Komisiją ir ūkio ministro įgaliotą instituciją apie jų reikšmingus sprendimus, susijusius su informacinės visuomenės paslaugomis, ir perduoti šioms institucijoms informaciją, kaip sprendžiami ginčai, susiję su elektronine komercija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
+
 VIII SKYRIUS
 
 INFORMACINĖS VISUOMENĖS PASLAUGŲ REGLAMENTAVIMAS IR PRIEŽIŪRA
 
-18 straipsnis. Susisiekimo ministerijos funkcijos
+18 straipsnis. Lietuvos Respublikos ūkio ministerijos funkcijos
 
-Susisiekimo ministerija:
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
+
+Lietuvos Respublikos ūkio ministerija:
 
 1) formuoja valstybės informacinės visuomenės plėtros politiką;
 
 2) pagal kompetenciją atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas, susijusias su valstybės informacinės visuomenės plėtra.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
 
 Straipsnio pakeitimai:
 
@@ -505,9 +539,13 @@ Straipsnio pakeitimai:
 
 Nr. XI-800, 2010-05-11, Žin., 2010, Nr. 60-2959 (2010-05-25), i. k. 1101010ISTA00XI-800
 
-20 straipsnis. Informacinės visuomenės plėtros komiteto funkcijos
+20 straipsnis. Ūkio ministro įgaliotos institucijos funkcijos
 
-Informacinės visuomenės plėtros komitetas:
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
+
+Ūkio ministro įgaliota institucija:
 
 1) įgyvendina valstybės informacinės visuomenės plėtros politiką;
 
@@ -519,31 +557,43 @@ Informacinės visuomenės plėtros komitetas:
 
 5) informuoja Europos Komisiją apie sutarčių, kurių negalima sudaryti elektroninėmis priemonėmis, rūšis; kartą per 5 metus parengia ataskaitą dėl teisės sudaryti sutartis elektroninėmis priemonėmis išimčių, kurioje nurodoma, kodėl šios išimtys būtinos; minėtą ataskaitą, ją patvirtinus Vyriausybei, pateikia Europos Komisijai;
 
-6) elektroninėmis priemonėmis (taip pat turi teisę naudoti ir kitus būdus) teikia bendrą informaciją (tačiau ne teisines konsultacijas) apie paslaugos teikėjų ir paslaugos gavėjų teises ir pareigas, susijusias su elektroninėmis priemonėmis sudaromomis sutartimis, galimus paslaugos teikėjų ir paslaugos gavėjų ginčų sprendimo ir žalos atlyginimo būdus bei jų naudojimo praktinius aspektus, valstybės ir savivaldybių institucijas ar įstaigas, kurios gali suteikti papildomos informacijos ir (ar) praktinę pagalbą; savo interneto svetainėje skelbia apie būdus susisiekti su Informacinės visuomenės plėtros komitetu elektroninėmis priemonėmis;
+6) elektroninėmis priemonėmis (taip pat turi teisę naudoti ir kitus būdus) teikia bendrą informaciją (tačiau ne teisines konsultacijas) apie paslaugos teikėjų ir paslaugos gavėjų teises ir pareigas, susijusias su elektroninėmis priemonėmis sudaromomis sutartimis, galimus paslaugos teikėjų ir paslaugos gavėjų ginčų sprendimo ir žalos atlyginimo būdus bei jų naudojimo praktinius aspektus, valstybės ir savivaldybių institucijas ar įstaigas, kurios gali suteikti papildomos informacijos ir (ar) praktinę pagalbą; savo interneto svetainėje skelbia apie būdus susisiekti su ūkio ministro įgaliota institucija elektroninėmis priemonėmis;
 
 7) įgyvendina 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo, kiek tai susiję su šio įstatymo reguliavimo dalyku;
 
 8) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
 
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
+
 Straipsnio pakeitimai:
 
 Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
-21 straipsnis. Informacinės visuomenės plėtros komiteto teisės
+21 straipsnis. Ūkio ministro įgaliotos institucijos teisės
 
-1. Informacinės visuomenės plėtros komitetas turi teisę savo iniciatyva arba asmenų, kurių teises pažeidžia paslaugų teikėjo perduodama ir (ar) saugoma informacija ar su ja susijusi veikla, prašymu įpareigoti paslaugos teikėją imtis veiksmų, kad būtų nutrauktas pažeidimas, daromas naudojant informacinės visuomenės paslaugas, numatytas šio įstatymo 12-14 straipsniuose, ar užkirstas jam kelias, nepaisant to, kad už tokį pažeidimą pagal šio įstatymo 12-14 straipsnius paslaugos teikėjas neatsako.
+1. Ūkio ministro įgaliota institucija turi teisę savo iniciatyva arba asmenų, kurių teises pažeidžia paslaugų teikėjo perduodama ir (ar) saugoma informacija ar su ja susijusi veikla, prašymu įpareigoti paslaugos teikėją imtis veiksmų, kad būtų nutrauktas pažeidimas, daromas naudojant informacinės visuomenės paslaugas, numatytas šio įstatymo 12, 13, 14 straipsniuose, ar užkirstas jam kelias, nepaisant to, kad už tokį pažeidimą pagal šio įstatymo 12, 13, 14 straipsnius paslaugos teikėjas neatsako.
 
-2. Informacinės visuomenės plėtros komiteto nustatytais terminais, kurie negali būti trumpesni kaip 10 darbo dienų, o skubos atveju, esant motyvuotam Informacinės visuomenės plėtros komiteto prašymui, – 3 darbo dienos, paslaugų teikėjai ir kiti asmenys, taip pat valstybės ir savivaldybių institucijos ir įstaigos privalo teikti Informacinės visuomenės plėtros komitetui informaciją, reikalingą jos funkcijoms atlikti. Informacinės visuomenės plėtros komitetas teisės aktų nustatyta tvarka ir sąlygomis saugo konfidencialią informaciją.
+2. Ūkio ministro įgaliotos institucijos nustatytais terminais, kurie negali būti trumpesni kaip 10 darbo dienų, o skubos atveju, esant motyvuotam ūkio ministro įgaliotos institucijos prašymui, – 3 darbo dienos, paslaugų teikėjai ir kiti asmenys, taip pat valstybės ir savivaldybių institucijos ir įstaigos privalo teikti ūkio ministro įgaliotai institucijai informaciją, reikalingą jos funkcijoms atlikti. Ūkio ministro įgaliota institucija teisės aktų nustatyta tvarka ir sąlygomis saugo konfidencialią informaciją.
 
-3. Informacinės visuomenės plėtros komitetas turi teisę imtis tikslingų, skaidrių, proporcingų ir nediskriminacinių veiksmų ir (ar) priemonių, kad būtų įgyvendintos šio įstatymo ir jį įgyvendinančių teisės aktų nuostatos.
+3. Ūkio ministro įgaliota institucija turi teisę imtis tikslingų, skaidrių, proporcingų ir nediskriminacinių veiksmų ir (ar) priemonių, kad būtų įgyvendintos šio įstatymo ir jį įgyvendinančių teisės aktų nuostatos.
 
-22 straipsnis. Informacinės visuomenės plėtros komiteto pareigūnų teisės
+Straipsnio pakeitimai:
 
-Informacinės visuomenės plėtros komiteto įgalioti pareigūnai, prižiūrėdami, kaip vykdomas šis įstatymas, turi šias teises:
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
+
+22 straipsnis. Ūkio ministro įgaliotos institucijos pareigūnų teisės
+
+Pakeistas straipsnio pavadinimas:
+
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
+
+Ūkio ministro įgaliotos institucijos įgalioti pareigūnai, prižiūrėdami, kaip vykdomas šis įstatymas, turi šias teises:
 
 1) pagal šio ir kitų įstatymų bei kitų teisės aktų nustatytas sąlygas ir procedūras iš paslaugų teikėjų gauti jiems reikalingą informaciją;
 
-2) pateikę tarnybinį pažymėjimą ir Informacinės visuomenės plėtros komiteto išduotą dokumentą, patvirtinantį jų įgaliojimus ir atliekamas funkcijas, įeiti ir atlikti patikrinimą paslaugų teikėjo naudojamose patalpose, teritorijoje ir transporto priemonėse, peržiūrėti tyrimui reikalingus paslaugų teikėjo dokumentus, gauti jų kopijas ir išrašus, kompiuteriuose ir magnetinėse laikmenose esančią informaciją;
+2) pateikę tarnybinį pažymėjimą ir ūkio ministro įgaliotos institucijos išduotą dokumentą, patvirtinantį jų įgaliojimus ir atliekamas funkcijas, įeiti ir atlikti patikrinimą paslaugų teikėjo naudojamose patalpose, teritorijoje ir transporto priemonėse, peržiūrėti tyrimui reikalingus paslaugų teikėjo dokumentus, gauti jų kopijas ir išrašus, kompiuteriuose ir magnetinėse laikmenose esančią informaciją;
 
 3) gauti žodinius ir rašytinius paaiškinimus iš asmenų, susijusių su tikrinamų paslaugų teikėjų veikla, reikalauti, kad jie atvyktų į tyrimą atliekančio pareigūno tarnybines patalpas duoti paaiškinimų;
 
@@ -552,6 +602,10 @@ Informacinės visuomenės plėtros komiteto įgalioti pareigūnai, prižiūrėda
 5) laikinai – iki 30 dienų – paimti dokumentus ir daiktus, kurie būtini ar turi įrodomąją reikšmę tiriant pažeidimą. Šiuo atveju paliekamas motyvuotas sprendimas dėl dokumentų ir (ar) daiktų paėmimo ir paimtų dokumentų ir (ar) daiktų aprašas; išreikalauti padaryti nurodytų dokumentų, kurie būtini ar turi įrodomąją reikšmę tiriant pažeidimą, kopijas;
 
 6) tyrimui pasitelkti specialistų ir ekspertų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
 
 IX SKYRIUS
 
@@ -620,6 +674,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
 
 Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 2 straipsnio pakeitimo ir IV-1 skyriaus pripažinimo netekusiu galios įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
+
+Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 4, 15, 16, 17, 18, 20, 21 ir 22 straipsnių pakeitimo įstatymas
 
 111 straipsnis. Elektroninės siuntos išsiuntimas, pristatymas ir gavimas
 
