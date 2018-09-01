@@ -4,7 +4,7 @@ identifier: "TAR.FA13E28615F6"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-01-11"
-last_updated: "2017-04-01"
+last_updated: "2018-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,9 +17,27 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2017-04-01 iki 2018-08-31
+Suvestinė redakcija nuo 2018-09-01 iki 2018-11-22
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
+
+Nauja redakcija nuo 2017-04-01:
+
+Nr. XII-2666, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25262
+
+LIETUVOS RESPUBLIKOS
+
+TEISĖS GAUTI INFORMACIJĄ IŠ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ
+
+ĮSTATYMAS
+
+2000 m. sausio 11 d. Nr. VIII-1524
+
+Vilnius
+
+I SKYRIUS
+
+BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo tikslas ir paskirtis
 
@@ -139,7 +157,11 @@ Institucija, teikdama dokumentus, vadovaujasi šiais principais:
 
 1. Vyriausybė nustato pakartotinio naudojimo plėtros kryptis, siektinus rezultatus ir jų pasiekimo būdus.
 
-2. Lietuvos Respublikos susisiekimo ministerija (toliau – Susisiekimo ministerija) formuoja valstybės politiką pakartotinio naudojimo srityje ir pagal kompetenciją:
+2. Lietuvos Respublikos ūkio ministerija formuoja valstybės politiką pakartotinio naudojimo srityje ir pagal kompetenciją:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
 
 1) teikia Vyriausybei pasiūlymus dėl pakartotinio naudojimo plėtros krypčių, siektinų rezultatų ir jų pasiekimo būdų;
 
@@ -151,13 +173,21 @@ Institucija, teikdama dokumentus, vadovaujasi šiais principais:
 
 5) atlieka kitas pavestas funkcijas, susijusias su pakartotiniu naudojimu.
 
-3. Lietuvos Respublikos susisiekimo ministro (toliau – susisiekimo ministras) įgaliota institucija atlieka pakartotinio naudojimo stebėseną ir:
+3. Lietuvos Respublikos ūkio ministro įgaliota institucija atlieka pakartotinio naudojimo stebėseną ir:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
 
 1) teikia institucijoms metodinę pagalbą dėl dokumentų rinkinių ir metaduomenų sudarymo;
 
 2) teikia dokumentų rinkinių metaduomenis į Europos atvirų duomenų portalą, užtikrina jų integralumą ir sklaidą Europos Sąjungos mastu;
 
-3) atlieka dokumentų rinkinių sudarymo stebėseną, apibendrintą informaciją teikia Susisiekimo ministerijai;
+3) atlieka dokumentų rinkinių sudarymo stebėseną, apibendrintą informaciją teikia Ūkio ministerijai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
 
 4) konsultuoja institucijas ir pareiškėjus dokumentų rinkinių rengimo, gavimo, pakartotinio naudojimo sąlygų klausimais;
 
@@ -321,7 +351,11 @@ DOKUMENTŲ TEIKIMAS
 
 18 straipsnis. Dokumentų parengimo ir pateikimo reikalavimai
 
-1. Dokumentai pareiškėjui teikiami tokio turinio ir tokiu formatu, kurie naudojami institucijoje ir kurie nereikalauja papildomo dokumentų adaptavimo, apdorojimo ar kitokio perdirbimo. Jeigu parengtinis dokumentų ar dokumentų rinkinių turinys ar formatas nebeatitinka pareiškėjų, kurie nuolat kreipiasi tų pačių dokumentų, poreikių, institucija pritaiko turinį ir (arba) formatą pagal pareiškėjų poreikius. Rekomenduojamus formatus ir standartus nustato susisiekimo ministro įgaliota institucija.
+1. Dokumentai pareiškėjui teikiami tokio turinio ir tokiu formatu, kurie naudojami institucijoje ir kurie nereikalauja papildomo dokumentų adaptavimo, apdorojimo ar kitokio perdirbimo. Jeigu parengtinis dokumentų ar dokumentų rinkinių turinys ar formatas nebeatitinka pareiškėjų, kurie nuolat kreipiasi tų pačių dokumentų, poreikių, institucija pritaiko turinį ir (arba) formatą pagal pareiškėjų poreikius. Rekomenduojamus formatus ir standartus nustato ūkio ministro įgaliota institucija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
 
 2. Iš institucijos negali būti reikalaujama tvarkyti dokumentų vien dėl to, kad pareiškėjas galėtų juos pakartotinai naudoti.
 
@@ -345,31 +379,29 @@ DOKUMENTŲ RINKINIAI IR JŲ TVARKYMAS
 
 3. Dokumentų rinkinio pavadinimą, jo sudarymo ir duomenų atnaujinimo datą, atsakingo asmens kontaktinius duomenis, kitus metaduomenis ir prieigą prie dokumentų rinkinių institucija teikia Dokumentų rinkinių portalui (toliau – portalas).
 
-TAR pastaba. Šio įstatymo 20 straipsnio 5 dalis ir 21 straipsnis įsigalioja 2018 m. sausio 1 d.
+21 straipsnis. Portalo paslaugos
 
-Lietuvos Respublikos Seimas, Įstatymas
+1. Portale neatlygintinai teikiamos šios paslaugos:
 
-Nr. XII-2666, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25262
+1) paieškos paslauga – ieškoti dokumentų rinkinių pagal tam tikrų metaduomenų turinį ir parodyti tokių metaduomenų turinį;
 
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 pakeitimo įstatymas
+2) peržiūros paslauga – parodyti, naršyti dokumentų rinkinius, pateikti atitinkamą metaduomenų turinį;
 
-Nauja redakcija nuo 2017-04-01:
+3) parsisiuntimo paslauga – parsisiųsti dokumentų rinkinių kopijas arba jų dalis į pareiškėjo galinį įrenginį;
 
-Nr. XII-2666, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25262
+4) konvertavimo paslauga – pakeisti dokumentų rinkinių uždarus formatus į atvirus formatus;
 
-LIETUVOS RESPUBLIKOS
+5) pritaikymo paslauga – nuasmeninti dokumentų rinkinius sudarančius duomenis ir pašalinti kitus konfidencialius duomenis;
 
-TEISĖS GAUTI INFORMACIJĄ IŠ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ
+6) susiejimo paslauga – jungti skirtingus dokumentų rinkinius ar jų dalis.
 
-ĮSTATYMAS
+2. Teikiant šio straipsnio 1 dalies 2–6 punktuose nurodytas paslaugas, gauti dokumentai portale nekaupiami.
 
-2000 m. sausio 11 d. Nr. VIII-1524
+3. Teikiant registro duomenis, registro informaciją, registrui pateiktus dokumentus ir (arba) jų kopijas, naudojantis šio straipsnio 1 dalies 2 ir 3 punktuose nurodytomis paslaugomis, atlyginimas imamas šio įstatymo 10 straipsnyje nustatyta tvarka.
 
-Vilnius
+VI SKYRIUS
 
-I SKYRIUS
-
-BENDROSIOS NUOSTATOS
+SKUNDŲ AR PRANEŠIMŲ PATEIKIMO IR NAGRINĖJIMO TVARKA
 
 20 straipsnis. Portalas
 
@@ -377,7 +409,11 @@ BENDROSIOS NUOSTATOS
 
 2. Prieiga prie institucijų, įskaitant registrų ir valstybės informacinių sistemų tvarkytojus, sudarytų dokumentų rinkinių ir jų metaduomenų pareiškėjams per portalą yra vieša. Dokumentai, išskyrus registro duomenis, registro informaciją, registrui pateiktus dokumentus ir (arba) jų kopijas, per šio portalo prieigą yra teikiami neatlygintinai.
 
-3. Portalą valdo Susisiekimo ministerija.
+3. Portalą valdo Ūkio ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
 
 4. Portalas yra sudedamoji Europos Sąjungos atvirų duomenų portalo dalis.
 
@@ -492,4 +528,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2666, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25262
 
 Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 pakeitimo įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
+
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 7, 18 ir 20 straipsnių pakeitimo įstatymas
 
