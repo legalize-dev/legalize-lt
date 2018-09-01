@@ -4,7 +4,7 @@ identifier: "TAR.85C510BA700A"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-15"
-last_updated: "2018-01-01"
+last_updated: "2018-09-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.85C510BA700A"
 department: "Lietuvos Respublikos Seimas"
@@ -20,7 +20,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-08-31
+Suvestinė redakcija nuo 2018-09-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
 
@@ -82,7 +82,11 @@ Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Elektroninė valdžia – viešojo administravimo dalis, skirta viešojo administravimo procesams tobulinti taikant informacines ir ryšių technologijas.
+1. Neteko galios nuo 2018-09-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
 
 2. Informacijos, duomenų, dokumentų ir (arba) jų kopijų tvarkymas – bet kurie su informacija, duomenimis, dokumentais ir (arba) jų kopijomis atliekami veiksmai: rinkimas, įrašymas, kaupimas, laikymas, saugojimas, klasifikavimas, grupavimas, jungimas, keitimas (pildymas ar taisymas), teikimas, skelbimas, loginės ir kitos operacijos, paieška, naikinimas ir (arba) kiti veiksmai.
 
@@ -174,13 +178,15 @@ Vyriausybė:
 
 5 straipsnis. Valstybės informacinių išteklių politikos formavimas
 
-1. Valstybės informacinių išteklių politiką pagal kompetenciją formuoja Lietuvos Respublikos susisiekimo ministerija (toliau – Susisiekimo ministerija), Lietuvos Respublikos teisingumo ministerija (toliau – Teisingumo ministerija), Lietuvos Respublikos krašto apsaugos ministerija (toliau – Krašto apsaugos ministerija) ir Lietuvos Respublikos vidaus reikalų ministerija (toliau – Vidaus reikalų ministerija).
+1. Valstybės informacinių išteklių politiką pagal kompetenciją formuoja Lietuvos Respublikos ūkio ministerija, Lietuvos Respublikos teisingumo ministerija ir Lietuvos Respublikos krašto apsaugos ministerija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
 
-2. Susisiekimo ministerija formuoja valstybės informacinių išteklių plėtros politiką ir pagal kompetenciją:
+Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
+
+2. Ūkio ministerija formuoja valstybės informacinių išteklių politiką ir pagal kompetenciją:
 
 1) rengia ir teikia siūlymus Vyriausybei dėl valstybės informacinių išteklių veiklos prioritetų, plėtros krypčių, siektinų rezultatų ir jų pasiekimo būdų, taikomų informacinių ir ryšių technologijų tobulinimo ir plėtros krypčių, rekomenduojamų taikyti techninių reikalavimų (standartų);
 
@@ -190,29 +196,25 @@ Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
 
 4) koordinuoja valstybės informacinių išteklių sąveikumą ir pakartotinį naudojimą užtikrinančių technologinių priemonių kūrimą ir funkcionavimą;
 
-5) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas;
+5) derina registrų ir valstybės informacinių sistemų nuostatų projektus;
 
-6) neteko galios nuo 2018-01-01.
+6) konsultuoja registrų ir valstybės informacinių sistemų valdytojus ir tvarkytojus, prireikus - ir kitas institucijas registrų ir valstybės informacinių sistemų veiklos klausimais;
 
-Straipsnio punkto pakeitimai:
+7) teikia pasiūlymus dėl registrų ir valstybės informacinių sistemų steigimo ir likvidavimo tikslingumo;
 
-Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
+8) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2668, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25264
 
-3. Teisingumo ministerija atsako už registrų politikos formavimą ir pagal kompetenciją:
+Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
 
-1) derina registrų steigimo teisinius pagrindus nustatančių Lietuvos Respublikos įstatymų ir kitų teisės aktų projektus;
+3. Teisingumo ministerija formuoja politiką registrų teisinio reguliavimo srityje ir pagal kompetenciją derina registrų veiklą reguliuojančių įstatymų projektus.
 
-2) derina registrų nuostatų projektų nuostatas, susijusias su registro objektu, registro objekto registravimu, registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų tvarkymu;
+Straipsnio dalies pakeitimai:
 
-3) konsultuoja registrų valdytojus, registrų tvarkytojus ir kitas institucijas registrų steigimo klausimais;
-
-4) teikia pasiūlymus dėl registrų steigimo tikslingumo;
-
-5) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
 
 4. Krašto apsaugos ministerija formuoja politiką valstybės informacinių išteklių saugos srityje ir pagal kompetenciją:
 
@@ -230,7 +232,11 @@ Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
 
 Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
 
-5. Vidaus reikalų ministerija formuoja politiką elektroninės valdžios srityje.
+5. Neteko galios nuo 2018-09-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
 
 Papildyta straipsnio dalimi:
 
@@ -238,13 +244,19 @@ Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
 
 6 straipsnis. Valstybės informacinių išteklių politikos įgyvendinimas
 
-1. Valstybės informacinių išteklių politiką įgyvendina susisiekimo ministro įgaliota institucija, krašto apsaugos ministro įgaliota institucija ir Valstybinė duomenų apsaugos inspekcija.
+1. Valstybės informacinių išteklių politiką įgyvendina ūkio ministro įgaliota institucija, krašto apsaugos ministro įgaliota institucija ir Valstybinė duomenų apsaugos inspekcija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
 
-2. Susisiekimo ministro įgaliota institucija atsako už valstybės informacinių išteklių funkcinį suderinamumą, kūrimą, tvarkymą ir plėtrą ir pagal kompetenciją:
+Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
+
+2. Ūkio ministro įgaliota institucija atsako už valstybės informacinių išteklių funkcinį suderinamumą, kūrimą, tvarkymą ir plėtrą ir pagal kompetenciją:
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
 
 1) derina registrų sukūrimo kalendorinius darbų grafikus, valstybės informacinių sistemų ir registrų techninių aprašymų (specifikacijų) atitiktį nuostatams;
 
@@ -596,7 +608,11 @@ Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
 
 3. Registro duomenys tvarkomi Registrų ir valstybės informacinių sistemų registro nuostatuose nustatyta tvarka.
 
-4. Registrų ir valstybės informacinių sistemų registro valdytojas yra Susisiekimo ministerija. Registrų ir valstybės informacinių sistemų registro tvarkytoją skiria Vyriausybė.
+4. Registrų ir valstybės informacinių sistemų registro valdytoja yra Ūkio ministerija. Registrų ir valstybės informacinių sistemų registro tvarkytoją skiria Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
 
 23 straipsnis. Registro valdytojo ir registro tvarkytojo skyrimas
 
@@ -976,11 +992,13 @@ VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ SĄVEIKUMO PLATFORMA IR VALSTYBĖS INFORMACI
 
 39 straipsnis. Valstybės informacinių išteklių sąveikumo platforma
 
-1. Valstybės informacinių išteklių sąveikumo platforma yra valstybės informacinė sistema, kurios paskirtis – užtikrinti galimybę asmenims vieno langelio principu gauti institucijų teikiamas viešąsias ir administracines elektronines paslaugas ir institucijoms teikti šio įstatymo 40 straipsnio 1 dalyje nurodytas paslaugas. Valstybės informacinių išteklių sąveikumo platformą steigia, valdo ir jos tvarkytoją skiria Susisiekimo ministerija.
+1. Valstybės informacinių išteklių sąveikumo platforma yra valstybės informacinė sistema, kurios paskirtis – užtikrinti galimybę asmenims vieno langelio principu gauti institucijų teikiamas viešąsias ir administracines elektronines paslaugas ir institucijoms teikti šio įstatymo 40 straipsnio 1 dalyje nurodytas paslaugas. Valstybės informacinių išteklių sąveikumo platformą steigia, valdo ir jos tvarkytoją skiria Ūkio ministerija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
+
+Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
 
 2. Prieiga prie valstybės informacinių išteklių sąveikumo platformos teikiamų paslaugų institucijoms ir asmenims suteikiama per vieną prieigos tašką – valstybės informacinių išteklių sąveikumo platformos paslaugų portalą (toliau – portalas).
 
