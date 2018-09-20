@@ -4,7 +4,7 @@ identifier: "TAR.336A4B109EBC"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2018-06-27"
+last_updated: "2018-09-20"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2018-06-27 iki 2018-09-19
+Suvestinė redakcija nuo 2018-09-20 iki 2018-11-09
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
 
@@ -528,11 +528,7 @@ KANDIDATŲ KĖLIMAS
 
 34 straipsnis. Kandidatų į savivaldybės tarybos narius ir kandidatų į savivaldybės tarybos narius – merus kėlimas
 
-1. Kandidatus į savivaldybės tarybos narius gali kelti partijos, įregistruotos pagal Lietuvos Respublikos politinių partijų įstatymą (toliau – Politinių partijų įstatymas) ne vėliau kaip likus 185 dienoms iki rinkimų ir atitinkančios Politinių partijų įstatymo nustatytus reikalavimus dėl partijos narių skaičiaus, ir rinkimų komitetai.
-
-Redakcija nuo 2015-05-01:
-
-1. Kandidatus į savivaldybės tarybos narius gali kelti partijos, įregistruotos pagal  Lietuvos Respublikos politinių partijų įstatymą (toliau – Politinių partijų įstatymas) ne vėliau kaip likus 185 dienoms iki rinkimų, atitinkančios Politinių partijų įstatymo nustatytus reikalavimus dėl partijos narių skaičiaus ir neturinčios partijos, kuriai inicijuojamas likvidavimas, ar likviduojamos partijos teisinio statuso, ir rinkimų komitetai.
+1. Kandidatus į savivaldybės tarybos narius gali kelti partijos, įregistruotos pagal  Lietuvos Respublikos politinių partijų įstatymą (toliau – Politinių partijų įstatymas) ne vėliau kaip likus 185 dienoms iki rinkimų, atitinkančios Politinių partijų įstatymo nustatytus reikalavimus dėl partijos narių skaičiaus ir neturinčios partijos, kuriai inicijuojamas likvidavimas, ar likviduojamos partijos teisinio statuso, ir rinkimų komitetai.
 
 2. Asmuo į savivaldybės tarybos narius – merus gali išsikelti pats arba gali būti iškeltas partijos ar rinkimų komiteto. Kandidatu į savivaldybės tarybos narius – merus išsikėlusiam asmeniui yra taikomi tokie patys šiame įstatyme nustatyti reikalavimai, kurie yra taikomi ir kandidatui, į savivaldybės tarybos narius – merus keliamam partijos ar rinkimų komiteto.
 
@@ -678,10 +674,6 @@ Parašas, data“
 
 37 straipsnis. Kandidatų registravimas
 
-1. Prasidėjus pareiškinių dokumentų pateikimo Vyriausiajai rinkimų komisijai terminui, Lietuvos Respublikos teisingumo ministerija (toliau – Teisingumo ministerija) per vieną dieną Vyriausiosios rinkimų komisijos reikalavimu raštu praneša, kokios partijos yra įregistruotos, kokių partijų narių skaičius atitinka Politinių partijų įstatymo reikalavimus, kokių partijų veikla yra sustabdyta ar nutraukta.
-
-Redakcija nuo 2015-05-01:
-
 1. Prasidėjus pareiškinių dokumentų pateikimo Vyriausiajai rinkimų komisijai terminui, Lietuvos Respublikos teisingumo ministerija (toliau –Teisingumo ministerija) per vieną dieną Vyriausiosios rinkimų komisijos reikalavimu raštu praneša, kokios partijos yra įregistruotos, kokių partijų narių skaičius atitinka Politinių partijų įstatymo reikalavimus ir kurios iš jų turi partijos, kuriai inicijuojamas likvidavimas, ar likviduojamos partijos teisinį statusą.
 
 2. Vyriausioji rinkimų komisija, gavusi partijos pareiškinius dokumentus, turi ne vėliau kaip kitą darbo dieną kreiptis į Teisingumo ministeriją dėl partijos registracijos fakto patvirtinimo. Teisingumo ministerija per 2 dienas turi raštu atsakyti Vyriausiajai rinkimų komisijai. Patikrinusi partijos pateiktus pareiškinius dokumentus ir nustačiusi, kad jie atitinka šio įstatymo reikalavimus, Vyriausioji rinkimų komisija per 7 dienas po pareiškinių dokumentų gavimo kandidatų sąrašus keliančios partijos atstovui rinkimams išduoda pažymą apie kandidatų sąrašus keliančios partijos įregistravimą dalyvauti rinkimuose.
@@ -718,11 +710,13 @@ Nr. XII-1070, 2014-07-17, paskelbta TAR 2014-07-24, i. k. 2014-10474
 
 2. Rinkimų užstatas pakeisti vieno kandidato vietą kandidatų sąraše, įrašyti į kandidatų sąrašą naują kandidatą – 0,5 VMDU dydžio, sujungti partijos iškeltus kandidatų sąrašus – po 0,3 VMDU dydžio už kiekvieną sujungiamą sąrašą.
 
-3. Jeigu partijos ar rinkimų komiteto keliamame kandidatų sąraše yra įrašyti kandidatai, einantys pareigas, nesuderinamas su savivaldybės tarybos nario pareigomis, rinkimų užstatas už kiekvieną tokį kandidatą – dviejų VMDU dydžio. Šis užstatas (už kiekvieną kandidatą nustatant atskirai) grąžinamas jį sumokėjusiai partijai, rinkimų komitetui ar kandidatui, jeigu rinkimų užstatas tampa grąžintinu pagal šio straipsnio 5 dalyje nustatytus reikalavimus, bet kandidatas nebuvo išrinktas, taip pat jeigu kandidatas buvo išrinktas arba buvo pripažintas išrinktu ir atsisakė pareigų, nesuderinamų su savivaldybės tarybos nario pareigomis, šio įstatymo 91 straipsnio 2 dalyje nustatyta tvarka.
+3. Jeigu partijos ar rinkimų komiteto keliamame kandidatų sąraše yra įrašyti kandidatai, einantys pareigas, nesuderinamas su savivaldybės tarybos nario pareigomis, rinkimų užstatas už kiekvieną tokį kandidatą – dešimt VMDU dydžio. Šis užstatas (už kiekvieną kandidatą nustatant atskirai) grąžinamas jį sumokėjusiai partijai, rinkimų komitetui ar kandidatui, jeigu rinkimų užstatas tampa grąžintinu pagal šio straipsnio 5 dalyje nustatytus reikalavimus, bet kandidatas nebuvo išrinktas, taip pat jeigu kandidatas buvo išrinktas arba buvo pripažintas išrinktu ir atsisakė pareigų, nesuderinamų su savivaldybės tarybos nario pareigomis, šio įstatymo 91 straipsnio 2 dalyje nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1385, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19669
+
+Nr. XIII-1473, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14701
 
 4. Rinkimų užstatai įregistruoti kandidatų sąrašą nustatomi du kartus didesni tai partijai, kuri per paskutinius Seimo rinkimus arba savivaldybių tarybų rinkimus, arba per rinkimus į Europos Parlamentą buvo iškėlusi kandidatus arba kandidatų sąrašą (sąrašus) ir nepateikė įstatymų nustatyta tvarka paskelbti spaudoje lėšų šaltinių ir jų panaudojimo rinkimų agitacijai ataskaitos.
 
@@ -1929,4 +1923,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1274, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10516
 
 Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 2 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1473, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14701
+
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 39 straipsnio pakeitimo įstatymas
 
