@@ -4,7 +4,7 @@ identifier: "TAR.4325B0C38B2F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-12-23"
-last_updated: "2018-07-06"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2018-07-06 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
 
@@ -229,7 +229,11 @@ Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
 
 4) bausmių vykdymo institucijos ir įstaigos;
 
-5) įmonės ar įstaigos, kuriose mokiniai, studentai ir darbo biržos siųsti mokytis ar reabilituotis asmenys atlieka profesinės veiklos praktiką;
+5) įmonės ar įstaigos, kuriose mokiniai, studentai ir Užimtumo tarnybos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos siųsti mokytis ar reabilituotis asmenys atlieka profesinės veiklos praktiką;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-948, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21640
 
 6) pataisos pareigūnų švietimo įstaigos, kuriose asmenys mokosi pagal profesinio mokymo programas (kursantai), vidaus reikalų profesinio mokymo įstaigos, kuriose arba kurių įvadinio mokymo kursuose mokosi asmenys, kurie yra pasirašę stojimo į vidaus tarnybą sutartį (kursantai), karo mokymo įstaigos, kuriose studijuodami asmenys atlieka karo tarnybą (kariūnai);
 
