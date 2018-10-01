@@ -4,7 +4,7 @@ identifier: "TAR.2B866DFF7D43"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-09-26"
-last_updated: "2018-07-12"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2018-07-12 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-12-11
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
 
@@ -2622,7 +2622,11 @@ Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
 
 2) atlyginti nusikalstama veika padarytą turtinę žalą ar jos dalį arba tokią žalą pašalinti savo darbu;
 
-3) pradėti dirbti arba užsiregistruoti darbo biržoje, mokytis;
+3) pradėti dirbti arba užsiregistruoti Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos, mokytis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-960, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21692
 
 4) gydytis nuo alkoholizmo, narkomanijos, toksikomanijos ar venerinės ligos, kai nuteistasis sutinka;
 
@@ -5945,6 +5949,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1462, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11777
 
 Lietuvos Respublikos baudžiamojo kodekso 172 straipsnio pakeitimo įstatymas
+
+27.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-960, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21692
+
+Lietuvos Respublikos baudžiamojo kodekso 48 straipsnio pakeitimo įstatymas
 
 2771 straipsnis. Sąvokų išaiškinimas
 
