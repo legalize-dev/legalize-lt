@@ -4,7 +4,7 @@ identifier: "TAR.4334D941D3DC"
 country: "lt"
 rank: "istatymas"
 publication_date: "2013-05-23"
-last_updated: "2017-01-01"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.4334D941D3DC"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS PLUOŠTINIŲ KANAPIŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2013, Nr. 61-3025, i. k. 1131010ISTA0XII-336
 
@@ -63,7 +63,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
 
-7. Pluoštinių kanapių importo licencija (toliau – licencija) – Nacionalinės mokėjimo agentūros prie Žemės ūkio ministerijos (toliau – Agentūra) išduodamas dokumentas, kuriuo suteikiama teisė įvežti į Lietuvos Respubliką iš trečiųjų šalių pluoštinių kanapių produktus, nurodytus 2007 m. spalio 22 d. Tarybos reglamento (EB) Nr. 1234/2007, nustatančio bendrą žemės ūkio rinkų organizavimą ir konkrečias tam tikriems žemės ūkio produktams taikomas nuostatas (Bendras bendro žemės ūkio rinkų organizavimo reglamentas) (toliau – Reglamentas (EB) Nr. 1234/2007) (OL 2007 L 299, p. 1), 157 straipsnio 1 dalies a, b ir c punktuose ir atitinkančius šiame straipsnyje nurodytus reikalavimus.
+7. Pluoštinių kanapių importo licencija (toliau – licencija) – Kaimo verslo ir rinkų plėtros agentūros (toliau – Agentūra) išduodamas dokumentas, kuriuo suteikiama teisė įvežti į Lietuvos Respubliką iš trečiųjų šalių pluoštinių kanapių produktus, nurodytus 2007 m. spalio 22 d. Tarybos reglamento (EB) Nr. 1234/2007, nustatančio bendrą žemės ūkio rinkų organizavimą ir konkrečias tam tikriems žemės ūkio produktams taikomas nuostatas (Bendras bendro žemės ūkio rinkų organizavimo reglamentas) (toliau – Reglamentas (EB) Nr. 1234/2007) (OL 2007 L 299, p. 1), 157 straipsnio 1 dalies a, b ir c punktuose ir atitinkančius šiame straipsnyje nurodytus reikalavimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1220, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09736
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -436,4 +440,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2285, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06437
 
 Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 3, 4, 6, 9 ir 10 straipsnių pakeitimo įstatymo Nr. XII-2130 7 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1220, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09736
+
+Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2 straipsnio pakeitimo įstatymas
 
