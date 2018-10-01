@@ -4,7 +4,7 @@ identifier: "TAR.F62AD965997D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-05-20"
-last_updated: "2018-05-01"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2018-05-01
+Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
 
@@ -704,7 +704,11 @@ ANTRASIS SKIRSNIS
 
 32 straipsnis. Šilumos kainodara
 
-1. Šilumos kainos yra vienanarės arba dvinarės. Šilumos vartotojas moka už suvartotą šilumos energiją pagal šio straipsnio 5, 6 ir 7 dalyse nurodyta tvarka nustatytą vienanarę arba dvinarę kainą pasirinktinai.
+1. Šilumos kainos yra vienanarės arba dvinarės. Šilumos vartotojas moka už suvartotą šilumos energiją pagal šio straipsnio 5, 6 ir 7 dalyse nurodyta tvarka nustatytą vienanarę arba dvinarę kainą pasirinktinai. Jeigu pastato šildymo ir (ar) karšto vandens sistema yra mišri (kombinuota), naudojanti centralizuotai pagamintą šilumą ir alternatyvią energiją ar kuro rūšį, vartotojai už šilumos perdavimo tinklu jiems tiekiamą šilumos energiją privalo atsiskaityti pagal dvinarę šilumos kainą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
 
 2. Šilumos ir (ar) karšto vandens kainos grindžiamos tiekėjo būtinomis (valstybės normuojamomis) šilumos ar karšto vandens ruošimo (pirkimo), perdavimo, įvadinių atsiskaitomųjų šilumos ir (ar) karšto vandens apskaitos prietaisų įrengimo, priežiūros ir patikros, sąskaitų (mokėjimo pranešimų) už šilumą ir (ar) karštą vandenį parengimo ir pateikimo vartotojams bei apskaitos sąnaudomis. Turto nuomos mokesčiai ir kitos sąnaudos, nesusiję su šilumos ir (ar) karšto vandens tiekimo veikla, negali būti įtraukiami į šilumos ar karšto vandens kainas. Į šilumos ar karšto vandens kainas negali būti įtraukiamos jokios sąnaudos, susijusios su pastatų vidaus šildymo (įskaitant ir šilumos punktus) ir karšto vandens sistemomis. Apyvartinių taršos leidimų prekybos pajamos ar sąnaudos įvertinamos skaičiuojant šilumos kainas Šilumos kainų nustatymo metodikoje nustatyta tvarka.
 
