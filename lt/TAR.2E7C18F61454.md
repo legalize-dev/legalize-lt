@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2018-07-01"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-11-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -2189,17 +2189,17 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 3. Antstolis, pakeitęs turto arešto aktą ar panaikinęs turto areštą, taip pat šio Kodekso nustatyta tvarka realizavęs areštuotą turtą, nedelsdamas apie tai praneša turto arešto aktų registrui ir pateikia tai patvirtinančius dokumentus.
 
-688 straipsnis. Išieškojimo nukreipimas į skolininko pinigų sumas ir kitokį turtą, esantį pas kitus asmenis ar priklausantį skolininkui iš kitų asmenų
+688 straipsnis. Išieškojimo nukreipimas į skolininko pinigų sumas ir kitokį turtą, esančius pas kitus asmenis
 
-1. Išieškojimas gali būti nukreipiamas į skolininko pinigų sumas ir kitokį turtą, esančius pas kitus asmenis, taip pat į pinigų sumas ir kitokį turtą, priklausančius skolininkui iš kitų asmenų.
+1. Išieškojimas gali būti nukreipiamas į skolininko pinigų sumas ir kitokį turtą, esančius pas kitus asmenis.
 
-2. Šio straipsnio 1 dalyje nurodyti asmenys antstolio reikalavimu privalo per jo nustatytą terminą pranešti, ar pas juos yra skolininko pinigų bei kitokio turto, taip pat ar jie privalo išmokėti skolininkui pinigų sumas arba duoti kitokį turtą; jeigu privalo, tai kokiu pagrindu ir per kokį terminą.
+2. Šio straipsnio 1 dalyje nurodyti asmenys antstolio reikalavimu privalo per jo nustatytą terminą pranešti, ar pas juos yra skolininko pinigų ir kitokio turto.
 
-3. Nustatęs, kad pas kitus asmenis yra skolininko turto arba kad kiti asmenys privalo išmokėti skolininkui priklausančias sumas ar duoti kitą turtą, antstolis jį aprašo ar surašo to turto arešto aktą. Tuo atveju, kai yra areštuojamos kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose esančios lėšos ir leidžiama su jomis atlikti tam tikras operacijas, antstolis nurodo konkrečią lėšų sumą, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti.
+3. Nustatęs, kad pas kitus asmenis yra skolininko pinigų ir kitokio turto, antstolis juos aprašo ar surašo turto arešto aktą. Tuo atveju, kai yra areštuojamos kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose esančios lėšos ir leidžiama su jomis atlikti tam tikras operacijas, antstolis nurodo konkrečią lėšų sumą, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti.
 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 
-Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
+Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 689 straipsnis. Disponavimo piniginėmis lėšomis, esančiomis kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje atidarytoje skolininko sąskaitoje (sąskaitose), apribojimas ir išieškojimas iš tokioje sąskaitoje (sąskaitose) laikomų piniginių lėšų
 
@@ -2663,7 +2663,11 @@ Nr. XI-1843, 2011-12-22, Žin., 2012, Nr. 6-179 (2012-01-10)
 
 2. Išsiuntęs ar įteikęs raginimą įvykdyti hipoteka ar įkeitimu užtikrintą įsipareigojimą, antstolis areštuoja įkaito davėjo turtą šio Kodekso XLVIII skyriaus nustatyta tvarka.
 
-3. Jeigu skolininkas, gavęs antstolio raginimą įvykdyti hipoteka ar įkeitimu užtikrintą įsipareigojimą, per raginime nurodytą terminą neįvykdo hipoteka ar įkeitimu užtikrinto skolinio įsipareigojimo, antstolis nustato įkeisto turto administravimą arba įkeistą turtą realizuoja priverstine tvarka. Hipotekos kreditoriaus prašymu priverstinai realizavęs hipoteka įkeistą daiktą ir surašęs turto pardavimo iš varžytynių aktą, antstolis nedelsdamas apie tai praneša Hipotekos registrui ir pateikia tai patvirtinančius dokumentus.
+3. Jeigu skolininkas, gavęs antstolio raginimą įvykdyti hipoteka ar įkeitimu užtikrintą įsipareigojimą, per raginime nurodytą terminą neįvykdo hipoteka ar įkeitimu užtikrinto skolinio įsipareigojimo, antstolis nustato įkeisto turto administravimą arba įkeistą turtą realizuoja priverstine tvarka. Hipotekos ar įkeitimo kreditoriaus prašymu skolininko pasiūlytam pirkėjui ar varžytynėse pardavęs įkeistą daiktą ir surašęs turto pardavimo skolininko pasiūlytam pirkėjui ar turto pardavimo iš varžytynių aktą, antstolis nedelsdamas apie tai praneša Hipotekos registrui ir pateikia tai patvirtinančius dokumentus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 4. Kai išieškoma pagal įmonės hipotekos sandorį, vykdomąjį įrašą priėmęs vykdyti antstolis šio Kodekso 677 straipsnyje nustatyta tvarka sudaro hipotekos objektu esančios įmonės turto aprašą ir priima patvarkymą paskirti hipotekos kreditorių arba kreditoriaus sutikimu kitą asmenį įmonės turto administratoriumi. Šiuo atveju įkeistos įmonės valdymo organai iš administruojamo įmonės turto gaunamas pajamas perveda į antstolio depozitinę sąskaitą, iš kurios lėšos paskirstomos hipotekos kreditoriams atsižvelgiant į jų reikalavimų tenkinimo eilę.
 
@@ -2707,7 +2711,11 @@ IŠIEŠKOJIMAS IŠ TURTINIŲ TEISIŲ
 
 2. Reikalavimų teisių, susijusių su piniginėmis išmokomis, areštas taikomas ir būsimoms išmokoms.
 
-3. Šio straipsnio 1 dalyje numatytame patvarkyme, be šio Kodekso 613 straipsnyje nurodytų reikalavimų, antstolis nurodo skolininkui, jog šis neturi teisės priimti jokio reikalavimo įvykdymo arba valdyti ar disponuoti turtine teise, o prievolės skolininkui nurodo prievolę įvykdyti antstoliui arba pervesti pinigus į antstolio depozitinę sąskaitą.
+3. Šio straipsnio 1 dalyje numatytame patvarkyme, be šio Kodekso 613 straipsnyje nurodytų reikalavimų, antstolis nurodo skolininkui, kad šis neturi teisės priimti jokio reikalavimo įvykdymo arba valdyti ar disponuoti turtine teise, o prievolės skolininkui nurodo prievolę įvykdyti antstoliui. Jeigu reikalavimų teisės yra susijusios su piniginėmis išmokomis, iš šių išmokų išieškoma Sprendimų vykdymo instrukcijoje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 4. Antstolis turi teisę įpareigoti prievolės skolininką per nustatytą terminą pranešti, kokiu pagrindu ir kokio dydžio turtinė teisė priklauso skolininkui, iš kurio vykdomas išieškojimas ar į kurio turtines teises kiti asmenys reiškia pretenzijas, ar teisme vyksta bylų nagrinėjimas dėl turtinių teisių, ar yra išieškoma iš turtinių teisių.
 
@@ -10037,7 +10045,11 @@ Nr. XI-1843, 2011-12-22, Žin., 2012, Nr. 6-179 (2012-01-10)
 
 570 straipsnis. Pareiškimo padavimas
 
-1. Prarastą teismo ar vykdomąją bylą teismas gali atkurti pagal dalyvavusių byloje asmenų ar vykdžiusio vykdomąją bylą teismo antstolio pareiškimą, taip pat savo iniciatyva.
+1. Prarastą teismo ar vykdomąją bylą teismas gali atkurti pagal dalyvavusių byloje asmenų ar vykdžiusio vykdomąją bylą antstolio pareiškimą, taip pat savo iniciatyva.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 2. Jeigu byla prarasta dėl stichinės nelaimės, teismas gali ją atkurti tik pagal pareiškimą.
 
@@ -10483,7 +10495,11 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 1) išieškotojo prašymu;
 
-2) jeigu skolininkas neturi turto ar pajamų, iš kurių gali būti išieškoma;
+2) jeigu skolininkas neturi turto ar pajamų, iš kurių gali būti išieškoma, išskyrus šio Kodekso 629 straipsnio 1 dalies 11 punkte nurodytą atvejį;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 3) jeigu išieškotojas atsisakė paimti skolininko turtą, neparduotą vykdant sprendimą;
 
@@ -10491,11 +10507,13 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 5) jeigu išieškotojas savo veiksmais sprendimo įvykdymą padaro neįmanomą;
 
-6) jeigu skolininkas neturi kito turto, išskyrus būstą, kuriame gyvena, ir išieškoma suma neviršija dviejų tūkstančių trisdešimt eurų (šio Kodekso 663 straipsnio 3 dalis);
+6) jeigu skolininkas neturi kito turto, išskyrus paskutinį būstą, kuriame gyvena, ir išieškoti iš šio būsto draudžiama pagal šio Kodekso 663 straipsnio 3 dalies nuostatas;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
+
+Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 7) jeigu antstolis nusišalino ar buvo nušalintas ir nebuvo gautas išieškotojo pageidavimas perduoti vykdomąjį dokumentą kitam antstoliui;
 
@@ -10807,25 +10825,25 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 663 straipsnis. Apribojimai, taikomi išieškant iš fizinio asmens turto
 
-1. Pinigų išieškojimas negali būti nukreipiamas į skolininko turtą, jeigu skolininkas pateikia antstoliui įrodymus, kad išieškomą pinigų sumą galima išieškoti per šešis mėnesius darant šio Kodekso 736 straipsnyje nurodyto dydžio išskaitymus iš skolininko darbo užmokesčio, pensijos, stipendijos ar kitų pajamų. Šiuo atveju išieškotojo prašymu antstolis gali areštuoti pradedamą realizuoti skolininko turtą, jei paaiškėja, jog darant išskaitas iš skolininko darbo užmokesčio, pensijos, stipendijos ar kitų pajamų sprendimas nebus įvykdytas.
+1. Pinigų išieškojimas negali būti nukreipiamas į skolininko turtą, jeigu skolininkas pateikia antstoliui įrodymus, kad išieškotiną sumą ir vykdymo išlaidas galima išieškoti per šešis mėnesius, o išieškant iš skolininkui priklausančio paskutinio būsto, kuriame jis gyvena, – per aštuoniolika mėnesių, darant šio Kodekso 736 straipsnyje nurodyto dydžio išskaitas iš skolininko darbo užmokesčio, pensijos, stipendijos ar kitų pajamų. Šiuo atveju antstolis gali realizuoti skolininko turtą, jei paaiškėja, kad darant išskaitas iš skolininko darbo užmokesčio, pensijos, stipendijos ar kitų pajamų išieškotina suma ir vykdymo išlaidos per šioje dalyje nustatytą terminą nebus išieškotos.
 
 2. Tiesiogiai iš skolininko darbo užmokesčio, pensijos, stipendijos ar kitų pajamų taip pat išieškomos periodinės išmokos, jeigu jas galima išieškoti darant šio Kodekso 736 straipsnyje nurodyto dydžio išskaitas.
 
-3. Išieškoti iš skolininkui priklausančio būsto, kuriame jis gyvena, galima tik tuo atveju, jeigu išieškoma suma viršija du tūkstančius trisdešimt eurų.
+3. Jeigu skolininkas nepateikia antstoliui šio straipsnio 1 dalyje nurodytų įrodymų arba paaiškėja, kad išieškotina suma ir vykdymo išlaidos nebus išieškotos per šio straipsnio 1 dalyje nustatytą terminą, išieškoti iš skolininkui priklausančio paskutinio būsto, kuriame jis gyvena, galima tik tuo atveju, kai išieškotina suma ir vykdymo išlaidos viršija keturis tūkstančius eurų. Šioje dalyje nustatytas apribojimas netaikomas, jeigu skolininkui priklausančio paskutinio būsto, kuriame jis gyvena, vertė yra mažesnė negu išieškotina suma ir vykdymo išlaidos.
 
-Straipsnio dalies pakeitimai:
+4. Teismas skolininko ar jo šeimos narių prašymu po to, kai skolininkui priklausantis paskutinis būstas, kuriame jis gyvena, išieškant sumas, nesumokėtas už sunaudotus energijos išteklius, komunalines ir kitokias paslaugas, yra areštuotas, gali nustatyti, kad iš šio būsto nebūtų išieškoma. Tai teismas gali nustatyti atsižvelgdamas į vaikų, neįgaliųjų ir socialiai remtinų asmenų materialinę padėtį, interesus ir būtinumą gyventi šiame būste. Prašymas dėl to paduodamas ir nagrinėjamas apylinkės teisme šio Kodekso 593 straipsnyje nustatyta tvarka.
 
-Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
-
-4. Teismas skolininko ar jo šeimos narių prašymu po to, kai butas ar gyvenamasis namas išieškant sumas, nesumokėtas už sunaudotus energijos išteklius, komunalines ir kitokias paslaugas, yra areštuotas, gali nustatyti, kad nebūtų išieškoma iš paskutinio buto, gyvenamojo namo ar jų dalies, būtinų šiems asmenims gyventi. Tai teismas gali nustatyti atsižvelgdamas į vaikų, neįgaliųjų ir socialiai remtinų asmenų materialinę padėtį ir interesus. Prašymas dėl to paduodamas ir nagrinėjamas apylinkės teisme šio Kodekso 593 straipsnyje nustatyta tvarka.
-
-5. Šiame straipsnyje nustatyti apribojimai netaikomi išieškant iš įkeisto turto.
+5. Šio straipsnio 3 dalyje nustatyti apribojimai netaikomi išieškant iš įkeisto turto.
 
 Straipsnio pakeitimai:
 
 Nr. X-729, 2006-06-22, Žin., 2006, Nr. 77-2973 (2006-07-14)
 
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 664 straipsnis. Išieškojimo iš skolininko fizinio asmens turto eilė
 
@@ -11213,7 +11231,17 @@ Negalima išieškoti iš sumų, kurios priklauso skolininkui kaip:
 
 7) valstybinė socialinio draudimo našlaičių pensija, mokama pagal Lietuvos Respublikos valstybinio socialinio draudimo pensijų įstatymą, valstybinė našlaičių pensija, mokama pagal Lietuvos Respublikos valstybinių pensijų įstatymą, pareigūnų ir karių valstybinė našlaičių pensija, mokama pagal Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymą, valstybinė signataro našlaičių renta, Respublikos Prezidento našlaičių valstybinė renta;
 
-8) išeitinės išmokos.
+8) išeitinės išmokos, išskyrus atvejus, kai vykdomi šio Kodekso 736 straipsnio 1 dalies 1 punkte nurodyti išieškojimai. Jeigu skolininkui išmokama didesnė negu vieno mėnesio jo vidutinio darbo užmokesčio išeitinė išmoka, vykdant šio Kodekso 736 straipsnio 1 dalies 1 punkte nurodytus išieškojimus, šio Kodekso 736 straipsnyje nustatyto dydžio išskaitos daromos atskirai iš kiekvieno mėnesio vidutinio darbo užmokesčio išeitinės išmokos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
+
+9) laisvės atėmimo vietos įstaigoje atidarytoje nuteistojo asmeninėje sąskaitoje esančios piniginės lėšos, neviršijančios pusės Lietuvos Respublikos bausmių vykdymo kodekso 92 straipsnio 2 dalyje nustatytų dydžių.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 Straipsnio pakeitimai:
 
