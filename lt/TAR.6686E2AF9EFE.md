@@ -4,7 +4,7 @@ identifier: "TAR.6686E2AF9EFE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-04-29"
-last_updated: "2018-07-06"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.6686E2AF9EFE"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymas
 
-Suvestinė redakcija nuo 2018-07-06 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 48-2106, i. k. 1031010ISTA0IX-1541
 
@@ -83,13 +83,15 @@ Atleidžiamų ir atleistų iš darbo darbuotojų bei jų šeimos narių užimtum
 
 1. Atleidžiamam ar atleistam iš darbo darbuotojui sudaromas individualus planas, kuriame numatomos jo užimtumo priemonės ir socialinės garantijos. Individualių planų sudarymo tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
-2. Atleisti iš darbo darbuotojai, įsiregistravę teritorinėje darbo biržoje ne vėliau kaip per 6 mėnesius nuo atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Jų užimtumui remti aktyvios darbo rinkos politikos priemonių taikymą nustato Užimtumo įstatymas.
+2. Atleisti iš darbo darbuotojai, įsiregistravę Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) ne vėliau kaip per 6 mėnesius nuo atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Aktyvios darbo rinkos politikos priemonių taikymą jų užimtumui remti nustato Užimtumo įstatymas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. X-1373, 2007-12-13, Žin., 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
 
 Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
+
+Nr. XIII-944, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21632
 
 3. Neteko galios nuo 2007-12-29
 
@@ -109,7 +111,7 @@ Nr. X-1373, 2007-12-13, Žin. 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA
 
 5 straipsnis. Nedirbančių šeimos narių užimtumo garantijos
 
-1. Atleidžiamų ar atleistų iš darbo darbuotojų nedirbantys darbingi darbingo amžiaus šeimos nariai, įsiregistravę teritorinėje darbo biržoje ne vėliau kaip per 6 mėnesius nuo atleistų iš darbo darbuotojų atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Jų užimtumui remti aktyvios darbo rinkos politikos priemonių taikymą nustato Užimtumo įstatymas. Teritorinėje darbo biržoje įsiregistravusiems atleidžiamų ar atleistų iš darbo darbuotojų nedirbantiems darbingiems darbingo amžiaus šeimos nariams, kurie neturi nustatyto valstybinio socialinio draudimo stažo nedarbo socialinio draudimo išmokai gauti, valstybės remiamų pajamų dydžio nedarbo socialinio draudimo išmoka skiriama Nedarbo socialinio draudimo įstatymo 6 straipsnio 1 dalyje nustatyta tvarka, o išmokama – 7 straipsnyje nustatyta tvarka.
+1. Atleidžiamų ar atleistų iš darbo darbuotojų nedirbantys darbingi darbingo amžiaus šeimos nariai, įsiregistravę Užimtumo tarnyboje ne vėliau kaip per 6 mėnesius nuo atleistų iš darbo darbuotojų atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Aktyvios darbo rinkos politikos priemonių taikymą jų užimtumui remti nustato Užimtumo įstatymas. Užimtumo tarnyboje įsiregistravusiems atleidžiamų ar atleistų iš darbo darbuotojų nedirbantiems darbingiems darbingo amžiaus šeimos nariams, kurie neturi nustatyto valstybinio socialinio draudimo stažo nedarbo socialinio draudimo išmokai gauti, valstybės remiamų pajamų dydžio nedarbo socialinio draudimo išmoka skiriama Nedarbo socialinio draudimo įstatymo 6 straipsnio 1 dalyje nustatyta tvarka, o išmokama 7 straipsnyje nustatyta tvarka.
 
 Straipsnio dalies pakeitimai:
 
@@ -118,6 +120,8 @@ Nr. X-254, 2005-06-16, Žin., 2005, Nr. 79-2847 (2005-06-28), i. k. 1051010ISTA0
 Nr. X-1373, 2007-12-13, Žin., 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
 
 Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
+
+Nr. XIII-944, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21632
 
 2. Atleidžiamų ir atleistų iš darbo darbuotojų sutuoktiniams ir vaikams (įvaikiams) iki 24 metų, kurie mokosi aukštosiose mokyklose, kad įgytų profesijas, reikalingas saugiam Ignalinos AE eksploatavimui ir eksploatavimo nutraukimo darbams vykdyti, Ignalinos AE administracijos sprendimu, suderinus su steigėju, skiriama ir mokama stipendija. Tokių profesijų sąrašą, suderinusi su steigėju, tvirtina Ignalinos AE administracija.
 
