@@ -4,7 +4,7 @@ identifier: "TAR.7E8386C5AA76"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2017-10-01"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos regioninės plėtros įstatymas
 
-Suvestinė redakcija nuo 2017-10-01 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2020-08-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1987, i. k. 1001010ISTAIII-1889
 
@@ -372,7 +372,11 @@ Nr. XIII-583, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11951
 
 8. Regiono plėtros taryba sprendimus priima visų tarybos narių balsų dauguma savo darbo reglamente nustatyta tvarka.
 
-9. Regiono plėtros taryba sprendimus dėl regiono plėtros plano, jo įgyvendinimo, tikslinių teritorijų išskyrimo kriterijų nustatymo ir tikslinių teritorijų išskyrimo, regioninės svarbos projektų, taip pat kitus sprendimus, galinčius turėti esminę įtaką to regiono socialinei ir ekonominei plėtrai, priima pasikonsultavusi su socialiniais ir ekonominiais partneriais ir teritorinių darbo biržų atstovais. Šiam tikslui regiono plėtros taryba gali sudaryti konsultacinę darbo grupę, kuri pateikia išvadas dėl numatomo priimti sprendimo. Priimdama sprendimą, regiono plėtros taryba įvertina konsultacinės darbo grupės išvadas.
+9. Regiono plėtros taryba sprendimus dėl regiono plėtros plano, jo įgyvendinimo, tikslinių teritorijų išskyrimo kriterijų nustatymo ir tikslinių teritorijų išskyrimo, regioninės svarbos projektų, taip pat kitus sprendimus, galinčius turėti esminę įtaką to regiono socialinei ir ekonominei plėtrai, priima pasikonsultavusi su socialiniais ir ekonominiais partneriais bei Užimtumo tarnybos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos atstovais. Šiam tikslui regiono plėtros taryba gali sudaryti konsultacinę darbo grupę, kuri pateikia išvadas dėl numatomo priimti sprendimo. Priimdama sprendimą, regiono plėtros taryba įvertina konsultacinės darbo grupės išvadas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-958, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21689
 
 10. Regiono plėtros tarybos pirmininkui ir jo pavaduotojui, išskyrus atvejus, kai šias pareigas atlieka savivaldybių merai ar jų pavaduotojai, už laiką, praleistą regiono plėtros tarybos posėdžiuose, taip pat atliekant kitas regiono plėtros tarybos pirmininko ar jo pavaduotojo pareigas, nustatytas regiono plėtros tarybos nuostatuose ir (arba) darbo reglamente, mokamas atlyginimas. Atlyginimas apskaičiuojamas pagal regiono savivaldybių merų pareiginės algos vidurkį ir faktiškai dirbtą laiką atliekant regiono plėtros tarybos pirmininko ar jo pavaduotojo pareigas.
 
@@ -503,6 +507,14 @@ Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XIII-583, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11951
+
+Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 15 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-958, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21689
 
 Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 15 straipsnio pakeitimo įstatymas
 
