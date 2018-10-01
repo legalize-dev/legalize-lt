@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2018-01-01"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-10-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -136,11 +136,13 @@ Privalomojo sveikatos draudimo draudiminiai įvykiai yra gydytojo diagnozuoti pr
 
 1) Lietuvos Respublikos piliečiai ir užsieniečiai, nuolat gyvenantys Lietuvos Respublikoje;
 
-2) leidimą laikinai gyventi Lietuvos Respublikoje turintys užsieniečiai (išskyrus šios dalies 5 punkte nurodytus asmenis), kurie dirba Lietuvos Respublikoje arba kurie dirbo Lietuvos Respublikoje ne trumpiau kaip 6 mėnesius ir yra įsiregistravę Lietuvos Respublikos teritorinėse darbo biržose kaip bedarbiai, bei nepilnamečiai jų šeimos nariai;
+2) leidimą laikinai gyventi Lietuvos Respublikoje turintys užsieniečiai (išskyrus šios dalies 5 punkte nurodytus asmenis), kurie dirba Lietuvos Respublikoje arba kurie dirbo Lietuvos Respublikoje ne trumpiau kaip 6 mėnesius ir yra įsiregistravę Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) kaip bedarbiai, bei nepilnamečiai jų šeimos nariai;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1602, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05896
+
+Nr. XIII-953, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21664
 
 3) nelydimi nepilnamečiai užsieniečiai;
 
@@ -164,7 +166,11 @@ Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 
 1) asmenys, gaunantys Lietuvos Respublikos įstatymų nustatytą bet kurios rūšies pensiją ar šalpos kompensaciją;
 
-2) teritorinėse darbo biržose užsiregistravę bedarbiai ir asmenys, dalyvaujantys teritorinių darbo biržų organizuojamose profesinio mokymo priemonėse, jeigu su jais nesudaromos darbo sutartys;
+2) Užimtumo tarnyboje įsiregistravę bedarbiai ir asmenys, dalyvaujantys Užimtumo tarnybos organizuojamose profesinio mokymo priemonėse, jeigu su jais nesudaromos darbo sutartys;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-953, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21664
 
 3) nedirbantys darbingo amžiaus asmenys, turintys įstatymų nustatytą būtinąjį valstybinio socialinio pensijų draudimo stažą valstybinei socialinio draudimo senatvės pensijai gauti arba turintys iki 2017 m. gruodžio 31 d. įgytą ne mažesnį kaip 30 metų pensijų socialinio draudimo stažą socialinio draudimo senatvės pensijai gauti;
 
