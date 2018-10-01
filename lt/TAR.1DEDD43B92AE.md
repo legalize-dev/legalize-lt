@@ -4,7 +4,7 @@ identifier: "TAR.1DEDD43B92AE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-03"
-last_updated: "2018-01-01"
+last_updated: "2018-10-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1DEDD43B92AE"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
 
@@ -121,7 +121,11 @@ Nustatomos šios išmokų rūšys:
 
 4) užsieniečiams, kuriems leidimas laikinai gyventi Lietuvos Respublikoje (toliau – leidimas laikinai gyventi) išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą;
 
-5) užsieniečiams, kuriems išduotas leidimas laikinai gyventi ir leista dirbti Lietuvos Respublikoje ir kurie dirba Lietuvos Respublikoje arba dirbo ne trumpesnį kaip 6 mėnesių laikotarpį ir yra įsiregistravę teritorinėje darbo biržoje kaip bedarbiai, išskyrus užsieniečius, kuriems leista atvykti studijuoti;
+5) užsieniečiams, kuriems išduotas leidimas laikinai gyventi ir leista dirbti Lietuvos Respublikoje ir kurie dirba Lietuvos Respublikoje arba dirbo ne trumpesnį kaip 6 mėnesių laikotarpį ir yra įsiregistravę Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos kaip bedarbiai, išskyrus užsieniečius, kuriems leista atvykti studijuoti;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-951, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21662
 
 6) asmenims, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis įstatymas;
 
