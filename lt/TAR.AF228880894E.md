@@ -4,7 +4,7 @@ identifier: "TAR.AF228880894E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-20"
-last_updated: "2018-07-16"
+last_updated: "2018-10-05"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.AF228880894E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymas
 
-Suvestinė redakcija nuo 2018-07-16 iki 2018-10-04
+Suvestinė redakcija nuo 2018-10-05 iki 2019-09-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 68-2774, i. k. 1021010ISTA00IX-985
 
@@ -270,7 +270,11 @@ Nr. XII-587, 2013-11-12, Žin., 2013, Nr. 121-6115 (2013-11-26)
 
 4) Respublikos Prezidento pasiūlytų dviejų aukštąjį išsilavinimą turinčių asmenų, kuriuos Seimas skiria slaptu balsavimu;
 
-5) partijų, gavusių Seimo narių mandatų daugiamandatėje rinkimų apygardoje, pasiūlytų asmenų, turinčių aukštąjį universitetinį išsilavinimą ir darbo rinkimų komisijose patirties.
+5) partijų, gavusių Seimo narių mandatų daugiamandatėje rinkimų apygardoje, pasiūlytų asmenų, turinčių aukštąjį universitetinį išsilavinimą ir darbo rinkimų ir referendumų komisijose, organizuojančiose ir vykdančiose Seimo, Respublikos Prezidento, savivaldybių tarybų rinkimus, rinkimus į Europos Parlamentą, referendumą, patirties.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1494, 2018-09-25, paskelbta TAR 2018-10-04, i. k. 2018-15799
 
 4. Partijos (koalicijos), gavusios Seimo narių mandatų daugiamandatėje rinkimų apygardoje, nuo vieno šio daugiamandatėje rinkimų apygardoje iškeltų kandidatų sąrašo (jungtinio sąrašo) turi teisę iki Vyriausiosios rinkimų komisijos sudarymo pasiūlyti į ją po vieną atstovą.
 
@@ -284,7 +288,11 @@ Nr. XII-587, 2013-11-12, Žin., 2013, Nr. 121-6115 (2013-11-26)
 
 9. Vyriausioji rinkimų komisija jos pirmininko teikimu ir pirmininko pavaduotojų sutikimu nustato, ar jie pagal pareigas dirba vien Vyriausiojoje rinkimų komisijoje. Nustačius, kad Vyriausiosios rinkimų komisijos pirmininko pavaduotojai pagal pareigas dirba vien Vyriausiojoje rinkimų komisijoje, jiems taikomi tokie patys kaip Vyriausiosios rinkimų komisijos pirmininkui nustatyti darbo ir darbo užmokesčio apribojimai.
 
-10. Vyriausiosios rinkimų komisijos pirmininko ir narių pareigos nesuderinamos su pareigomis kitose rinkimų ar referendumo komisijose, taip pat su kandidato į Seimo narius, kandidato į Respublikos Prezidentus ir jo patikėtinio, kandidatų į savivaldybės tarybos narius ir jų atstovų, rinkimų ar referendumo stebėtojų statusu, taip pat su Lietuvos Respublikos piliečių iniciatyvinės grupės referendumui surengti nario statusu.
+10. Vyriausiosios rinkimų komisijos pirmininko ir narių pareigos nesuderinamos su pareigomis kitose rinkimų ar referendumo komisijose, taip pat su kandidato į Seimo narius, kandidato į Respublikos Prezidentus ir jo patikėtinio, kandidatų į savivaldybės tarybos narius ir jų atstovų, rinkimų ar referendumo stebėtojų statusu, taip pat su Lietuvos Respublikos piliečių iniciatyvinės grupės referendumui surengti nario, savivaldybės tarybos nario statusu.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1494, 2018-09-25, paskelbta TAR 2018-10-04, i. k. 2018-15799
 
 11. Vyriausiosios rinkimų komisijos pirmininkas ar narys, ketinantys būti kandidatu į Seimo narius, Respublikos Prezidentus ar jo patikėtinius, savivaldybės tarybos narius arba kitos rinkimų ar referendumo komisijos pirmininku ar nariu, Lietuvos Respublikos piliečių iniciatyvinės grupės referendumui surengti nariu, rinkimų ar referendumo stebėtoju, atstovu rinkimams ar referendumui, prieš duodami reikiamą sutikimą ar pradėdami rinkti piliečių parašus, privalo ne vėliau kaip prieš 30 dienų įteikti Seimui rašytinį atsistatydinimo iš Vyriausiosios rinkimų komisijos pirmininko ar nario pareigų pareiškimą. Vyriausiosios rinkimų komisijos pirmininkas ar narys, kurie šio reikalavimo neįvykdė, Seimo nutarimu atleidžiami iš Vyriausiosios rinkimų komisijos pirmininko ar nario pareigų ir neregistruojami kandidatu į Seimo narius, Respublikos Prezidentus ar jo patikėtinius, savivaldybių tarybų narius arba šis registravimas panaikinamas.
 
@@ -685,4 +693,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1433, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11743
 
 Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 3 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1494, 2018-09-25, paskelbta TAR 2018-10-04, i. k. 2018-15799
+
+Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 7 straipsnio pakeitimo įstatymas
 
