@@ -4,7 +4,7 @@ identifier: "TAR.EAA93A47BAA1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-28"
-last_updated: "2018-01-01"
+last_updated: "2018-10-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-10-10
+Suvestinė redakcija nuo 2018-10-11 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
 
@@ -300,6 +300,12 @@ VALSTYBĖS GARANTUOJAMOS TEISINĖS PAGALBOS TEIKIMO SĄLYGOS
 10) iš esmės išnagrinėjus reikalavimą, nustatoma, kad antrinės teisinės pagalbos galimos išlaidos viršytų pareiškėjo turtinių reikalavimų (turtinių interesų) dydį;
 
 11) pareiškėjui buvo suteikta antrinė teisinė pagalba kitoje byloje, tačiau jis iki nurodyto termino neapmokėjo nustatytų antrinės teisinės pagalbos išlaidų arba jų dalies;
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo (2013 m. gegužės 9 d. redakcija; Žin., 2013, Nr. 54-2675) 11 straipsnio 7 dalies 11 punktas tiek, kiek pagal jame nustatytą teisinį reguliavimą antrinė teisinė pagalba neteikiama, jeigu pareiškėjui tokia pagalba buvo suteikta kitoje byloje, tačiau jis iki nurodyto termino neapmokėjo nustatytų tos pagalbos išlaidų arba jų dalies, tais atvejais, kai asmeniui tokia pagalba yra itin sunkiai prieinama dėl finansinių priežasčių ir ją užtikrinti baudžiamojoje byloje būtina teisingumo interesais, prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, 31 straipsnio 2, 6 dalims, konstituciniam teisinės valstybės principui.
+
+Straipsnio punkto pakeitimai:
+
+Nr. KT20-N11/2018, 2018-10-11, paskelbta TAR 2018-10-11, i. k. 2018-16105
 
 12) nustatoma, kad pareiškėjas savarankiškai, be advokato pagalbos, gali įgyvendinti arba apginti savo teises ar įstatymų saugomus interesus;
 
