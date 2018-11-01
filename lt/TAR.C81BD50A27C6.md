@@ -4,7 +4,7 @@ identifier: "TAR.C81BD50A27C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-06"
-last_updated: "2018-01-01"
+last_updated: "2018-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-10-31
+Suvestinė redakcija nuo 2018-11-01 iki 2018-12-19
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
 
@@ -235,13 +235,31 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 
 1) asmens sveikatos priežiūros įstaigos prašomam terminui, tačiau ne ilgesniam kaip vieneri metai, kai asmens sveikatos priežiūros įstaiga prašo sustabdyti licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimą;
 
-2) ne ilgiau kaip trims mėnesiams, kai paaiškėja, kad asmens sveikatos priežiūros įstaiga pažeidžia šio straipsnio 4 dalyje nurodytus reikalavimus (išskyrus atvejus, kai paslaugų teikimas stabdomas šio įstatymo 54 straipsnyje nustatyta tvarka) ir per Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos nustatytą licencijuojamos veiklos pažeidimų pašalinimo terminą, kuris negali būti ilgesnis kaip 30 dienų nuo licencijos asmens sveikatos priežiūros veiklai turėtojo informavimo apie pažeidimo padarymą dienos, Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nustatyta tvarka nepašalina licencijuojamos veiklos pažeidimų.
+2) ne ilgiau kaip trims mėnesiams, kai paaiškėja, kad asmens sveikatos priežiūros įstaiga pažeidžia šio straipsnio 4 dalyje nurodytus reikalavimus (išskyrus atvejus, kai paslaugų teikimas stabdomas šio įstatymo 54 straipsnyje nustatyta tvarka), ir yra bent viena iš šių sąlygų:
+
+a) yra realus pavojus pacientų sveikatai ar gyvybei;
+
+b) per Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos nustatytą licencijuojamos veiklos pažeidimų pašalinimo terminą, kuris negali būti ilgesnis kaip 30 dienų nuo licencijos asmens sveikatos priežiūros veiklai turėtojo informavimo apie pažeidimo padarymą dienos, asmens sveikatos priežiūros įstaiga Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nustatyta tvarka nepašalina licencijuojamos veiklos pažeidimų.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
+
+111. Licencijos asmens sveikatos priežiūros veiklai ar jos dalies galiojimas stabdomas tik toms asmens sveikatos priežiūros paslaugoms, kurias teikiant nustatyti pažeidimai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
 
 12. Sprendimas sustabdyti licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimą priimamas:
 
 1) šio straipsnio 11 dalies 1 punkte nurodytu atveju – ne vėliau kaip per penkias darbo dienas nuo asmens sveikatos priežiūros įstaigos prašymo sustabdyti licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimą gavimo dienos;
 
-2) šio straipsnio 11 dalies 2 punkte nurodytu atveju – ne vėliau kaip per tris darbo dienas nuo šio straipsnio 11 dalies 2 punkte nurodyto termino, per kurį asmens sveikatos priežiūros įstaiga turėjo pašalinti licencijuojamos veiklos pažeidimus, bet jų nepašalino, pabaigos.
+2) šio straipsnio 11 dalies 2 punkto a papunktyje nurodytu atveju – nedelsiant po pažeidimo nustatymo, o šio straipsnio 11 dalies 2 punkto b papunktyje nurodytu atveju – ne vėliau kaip per tris darbo dienas nuo šiame papunktyje nurodyto termino, per kurį asmens sveikatos priežiūros įstaiga turėjo pašalinti licencijuojamos veiklos pažeidimus, bet jų nepašalino, pabaigos.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
 
 13. Asmens sveikatos priežiūros įstaiga, kurios licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimas sustabdytas šio straipsnio 11 dalies 1 punkte nurodytu atveju, gali kreiptis į Valstybinę akreditavimo sveikatos priežiūros veiklai tarnybą dėl licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimo sustabdymo panaikinimo per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai pateikdama paraišką, o šio straipsnio 11 dalies 2 punkte nurodytu atveju – paraišką ir pažeidimų, dėl kurių buvo sustabdytas licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimas, pašalinimą įrodančius dokumentus. Sprendimas panaikinti sustabdytą licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimą šio straipsnio 11 dalies 1 punkte nurodytu atveju priimamas ne vėliau kaip per penkias darbo dienas nuo šioje dalyje nurodytos paraiškos gavimo dienos. Sprendimas panaikinti sustabdytą licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimą šio straipsnio 11 dalies 2 punkte nurodytu atveju priimamas įsitikinus, kad yra pašalinti pažeidimai, dėl kurių buvo sustabdytas licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimas, bet ne vėliau kaip per dešimt darbo dienų nuo šioje dalyje nurodytų paraiškos ir dokumentų gavimo dienos.
 
@@ -1341,11 +1359,19 @@ Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
 
 2. Klausimas dėl kontrolės priemonės taikymo įstaigai svarstomas dalyvaujant jos atstovams. Jeigu įstaigos atstovai neatvyksta į klausimo svarstymą, sprendimas taikyti kontrolės priemonę priimamas be jų.
 
-3. Sprendimas dėl įstaigų kontrolės priemonių taikymo, išskyrus šio įstatymo 58 straipsnio 1 dalies 2 punkte nurodytą priemonę, privalo būti priimtas per tris mėnesius nuo pažeidimo nustatymo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip treji metai, kontrolės priemonės negali būti taikomos.
+21. Sprendimas dėl kontrolės priemonės taikymo įstaigai šio įstatymo 54 straipsnio 1 dalies 2 punkte nurodytu pagrindu priimamas nedelsiant, netaikant šio straipsnio 2 dalyje nustatytos procedūros.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
+
+3. Sprendimas dėl įstaigų kontrolės priemonių taikymo, išskyrus šio įstatymo 54 straipsnio 1 dalies 2 punkte ir 58 straipsnio 1 dalies 2 punkte nurodytus atvejus, privalo būti priimtas per tris mėnesius nuo pažeidimo nustatymo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip treji metai, kontrolės priemonės negali būti taikomos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+
+Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
 
 60 straipsnis. Neteko galios nuo 2016-05-01
 
@@ -1660,6 +1686,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-903, 2017-12-19, paskelbta TAR 2017-12-27, i. k. 2017-21326
 
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais įstatymo Nr. XII-2538 2, 3 ir 5 straipsnių pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
+
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5 ir 59 straipsnių pakeitimo įstatymas
 
 62 straipsnis. Įstaigos laikinojo
 
