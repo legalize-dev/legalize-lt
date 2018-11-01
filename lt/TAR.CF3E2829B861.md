@@ -4,7 +4,7 @@ identifier: "TAR.CF3E2829B861"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-01-08"
-last_updated: "2017-01-01"
+last_updated: "2018-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.CF3E2829B861"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-10-31
+Suvestinė redakcija nuo 2018-11-01 iki 2018-11-27
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 8-161, i. k. 0981010ISTAVIII-602
 
@@ -34,11 +34,11 @@ PIRMASIS SKIRSNIS
 
 BENDROSIOS NUOSTATOS
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis
 
-1. Šis įstatymas nustato narkotinių ir psichotropinių medžiagų klasifikavimo pagrindus, šių medžiagų, kai jos vartojamos sveikatos priežiūros, veterinarijos bei mokslo tikslams, teisėtą apyvartą ir apyvartos kontrolę pagal tarptautinių susitarimų reikalavimus.
+1. Šis įstatymas nustato narkotinių ir psichotropinių medžiagų klasifikavimo pagrindus, šių medžiagų teisėtos apyvartos reikalavimus ir apyvartos kontrolę pagal tarptautinių susitarimų reikalavimus bei laikinųjų apribojimo priemonių taikymo naujoms psichoaktyviosioms medžiagoms tvarką.
 
-2. Šis įstatymas netaikomas Lietuvos Respublikos pluoštinių kanapių įstatymu reglamentuojamoms pluoštinėms kanapėms.
+2. Šis įstatymas netaikomas Lietuvos Respublikos pluoštinių kanapių įstatymu reglamentuojamoms pluoštinėms kanapėms ir šiuo įstatymu reglamentuojamų narkotinių ir psichotropinių medžiagų ketvirtojo sąrašo (toliau – IV sąrašas) gaminiams.
 
 3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
@@ -47,6 +47,8 @@ Straipsnio pakeitimai:
 Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
 
 Nr. XII-335, 2013-05-23, Žin., 2013, Nr. 61-3024 (2013-06-08), i. k. 1131010ISTA0XII-335
+
+Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -58,7 +60,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
 
-3. Teisėta apyvarta - narkotinių ar psichotropinių medžiagų gaminimas, perdirbimas, įsigijimas, didmeninė ar mažmeninė prekyba, laikymas, gabenimas valstybės viduje, importas ar eksportas norint jas panaudoti sveikatos priežiūros, veterinarijos, teisėsaugos, mokslo bei mokymo tikslams, nepažeidžiant įstatymų, kitų teisės aktų reikalavimų.
+3. Teisėta apyvarta – narkotinių ar psichotropinių medžiagų gaminimas, perdirbimas, įsigijimas, didmeninė ar mažmeninė prekyba, laikymas, gabenimas valstybės viduje, importas ar eksportas nepažeidžiant šio įstatymo ir kitų teisės aktų reikalavimų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
 
 4. Neteko galios nuo 2015-01-01
 
@@ -96,13 +102,29 @@ Papildyta straipsnio dalimi:
 
 Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
 
+12. Gaminys su narkotinių ir psichotropinių medžiagų IV sąrašo medžiagomis – gaminys, turintis į IV sąrašą įrašytų narkotinių ir psichotropinių medžiagų, kurių negalima išgauti greitai pritaikomomis arba ekonomiškai naudingomis priemonėmis arba lengvai panaudoti.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
+
+13. Nauja psichoaktyvioji medžiaga – gryna arba negryna medžiaga, kuriai netaikoma nei 1961 m. Jungtinių Tautų bendroji narkotinių medžiagų konvencija su pakeitimais, padarytais 1972 m. protokolu, nei 1971 m. Jungtinių Tautų psichotropinių medžiagų konvencija, tačiau kuri gali kelti riziką sveikatai arba socialinę riziką, panašią į medžiagų, kurioms taikomos tos konvencijos, keliamą riziką.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
+
 3 straipsnis. Narkotinių ir psichotropinių medžiagų įrašymas į kontroliuojamų medžiagų sąrašus
 
 1. Narkotinės ir psichotropinės medžiagos į kontroliuojamų medžiagų sąrašus įrašomos nurodant konkrečių medžiagų ar jų darinių grupės pavadinimus.
 
 2. Jeigu į kontroliuojamų medžiagų sąrašus įrašomos konkrečios narkotinės ir psichotropinės medžiagos, nurodomi jų tarptautiniai pavadinimai, jeigu tarptautinių pavadinimų nėra, – cheminiai pavadinimai. Kartu su šiais pavadinimais gali būti nurodomas ir kitoks, vartotojams labiau žinomas, pavadinimas.
 
-3. Jeigu į kontroliuojamų medžiagų sąrašus įrašoma narkotinės ar psichotropinės medžiagos darinių grupė, jos pavadinimas sudaromas remiantis medžiagos, iš kurios jis gautas, pavadinimu, nurodant konkrečius cheminės struktūros keitimus. Tokiu atveju suprantama, kad visiems dariniams, priskirtiniems šiai grupei, automatiškai taikomas tas pats kontrolės režimas, kaip ir pagrindiniam junginiui.
+3. Jeigu į kontroliuojamų medžiagų sąrašus įrašoma narkotinės ar psichotropinės medžiagos darinių grupė, jos pavadinimas sudaromas remiantis medžiagos, iš kurios jis gautas, pavadinimu, nurodant konkrečios cheminės struktūros keitimą. Tokiu atveju suprantama, kad visiems dariniams, priskirtiniems šiai grupei, automatiškai taikomas tas pats kontrolės režimas, kaip ir pagrindiniam junginiui.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
 
 Straipsnio pakeitimai:
 
@@ -110,15 +132,21 @@ Nr. XI-1073, 2010-10-26, Žin., 2010, Nr. 132-6718 (2010-11-11), i. k. 1101010IS
 
 4 straipsnis. Narkotinių ir psichotropinių medžiagų klasifikavimo pagrindai
 
-1. Narkotinės ir psichotropinės medžiagos klasifikuojamos pagal jų žalingą poveikį žmogaus sveikatai, kai jomis piktnaudžiaujama, ir pagal tai, ar jos gali būti vartojamos sveikatos priežiūros tikslams. Narkotines ir psichotropines medžiagas pagal joms taikomą kontrolės režimą, remiantis Lietuvos Respublikos tarptautinėmis sutartimis, klasifikuoja ir į sąrašus įrašo Sveikatos apsaugos ministerija.
+1. Narkotinės ir psichotropinės medžiagos klasifikuojamos pagal jų žalingą poveikį žmogaus sveikatai, kai jomis piktnaudžiaujama, ir pagal tai, ar jos gali būti vartojamos sveikatos priežiūros tikslams, ar naudojamos su farmacijos produktais nesusijusios pramonės tikslams. Narkotines ir psichotropines medžiagas pagal joms taikomą kontrolės režimą, remiantis Lietuvos Respublikos tarptautinėmis sutartimis, klasifikuoja ir į sąrašus įrašo Sveikatos apsaugos ministerija.
 
-2. Sudaromi trys narkotinių ir psichotropinių medžiagų sąrašai:
+2. Sudaromi keturi narkotinių ir psichotropinių medžiagų sąrašai:
 
-1) pirmąjį sąrašą sudaro augalai, narkotinės ir psichotropinės medžiagos, uždrausti vartoti sveikatos priežiūros tikslams dėl žalingų padarinių žmogaus sveikatai, kai jais piktnaudžiaujama (toliau - I sąrašas );
+1) pirmąjį sąrašą sudaro augalai, narkotinės ir psichotropinės medžiagos, uždrausti vartoti sveikatos priežiūros tikslams dėl žalingų padarinių, kai jais piktnaudžiaujama, žmogaus sveikatai (toliau – I sąrašas );
 
-2) antrąjį sąrašą sudaro augalai, narkotinės ir psichotropinės medžiagos, vartojami sveikatos priežiūros tikslams, dėl žalingų padarinių, kai šiomis medžiagomis piktnaudžiaujama, labai pavojingi žmogaus sveikatai (toliau - II sąrašas);
+2) antrąjį sąrašą sudaro augalai, narkotinės ir psichotropinės medžiagos, vartojami sveikatos priežiūros tikslams, dėl žalingų padarinių, kai šiomis medžiagomis piktnaudžiaujama, labai pavojingi žmogaus sveikatai (toliau – II sąrašas);
 
-3) trečiąjį sąrašą sudaro augalai ir psichotropinės medžiagos, vartojami sveikatos priežiūros tikslams, dėl žalingų padarinių, kai šiomis medžiagomis piktnaudžiaujama, pavojingi žmogaus sveikatai (toliau - III sąrašas).
+3) trečiąjį sąrašą sudaro augalai ir psichotropinės medžiagos, vartojami sveikatos priežiūros tikslams, dėl žalingų padarinių, kai šiomis medžiagomis piktnaudžiaujama, pavojingi žmogaus sveikatai (toliau – III sąrašas);
+
+4) ketvirtąjį sąrašą sudaro narkotinės ir psichotropinės medžiagos, kurios gali būti vartojamos sveikatos priežiūros tikslams ir (ar) naudojamos su farmacijos produktais nesusijusios pramonės tikslams, tačiau dėl žalingų padarinių, kai šiomis medžiagomis piktnaudžiaujama, pavojingos žmogaus sveikatai.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
 
 5 straipsnis. Preparatų klasifikavimas
 
@@ -129,10 +157,6 @@ Preparatai klasifikuojami pagal jų sudėtyje esančias narkotines ir psichotrop
 1. Narkotinių ir psichotropinių medžiagų reklama draudžiama.
 
 2. Informacija apie vaistus, kurie yra narkotinės ir psichotropinės medžiagos, sveikatos priežiūros, farmacijos, veterinarijos specialistams bei vartotojams teikiama Sveikatos apsaugos ministerijos nustatyta tvarka.
-
-ANTRASIS SKIRSNIS
-
-SU MEDŽIAGOMIS, ĮTRAUKTOMIS Į I SĄRAŠĄ, SUSIJUSIOS VEIKLOS REIKALAVIMAI
 
 7 straipsnis. Draudžiami augalai
 
@@ -270,11 +294,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
 
-10. Į II ir III sąrašus įtrauktas medžiagas draudžiama parduoti asmenims, neturintiems licencijos, išskyrus juridinius asmenis, turinčius asmens sveikatos priežiūros veiklos licenciją.
+10. Į II ir III sąrašus įtrauktas medžiagas draudžiama parduoti asmenims, neturintiems licencijos, išskyrus juridinius asmenis, turinčius Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo nustatyta tvarka išduotą licenciją asmens sveikatos priežiūros veiklai ir (ar) Lietuvos Respublikos odontologų rūmų įstatymo nustatyta tvarka išduotą odontologinės priežiūros (pagalbos) įstaigos licenciją. Juridiniams asmenims, turintiems tik odontologinės priežiūros (pagalbos) įstaigos licenciją, gali būti parduodamos tik į III sąrašą įtrauktos medžiagos.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
+
+Nr. XIII-1560, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17475
 
 13 straipsnis. Licencijų duomenų ir teisėtos apyvartos duomenų tvarkymas
 
@@ -416,13 +442,9 @@ Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
 
 4. Asmenys, laikantys į II ir III sąrašus įtrauktų medžiagų, privalo jas apsaugoti nuo bet kokio poveikio, galinčio pakeisti jų savybes. Turi būti užtikrintas šių medžiagų saugumas, negali būti pažeistas jų įpakavimas.
 
-PENKTASIS SKIRSNIS
+KETVIRTASIS1 SKIRSNIS
 
-VEIKLOS, SUSIJUSIOS SU NARKOTINĖMIS IR PSICHOTROPINĖMIS MEDŽIAGOMIS, KONTROLĖ IR ŠIŲ MEDŽIAGŲ APYVARTOS APSKAITA
-
-Pakeistas skirsnio pavadinimas:
-
-Nr. XI-1073, 2010-10-26, Žin., 2010, Nr. 132-6718 (2010-11-11), i. k. 1101010ISTA0XI-1073
+VEIKLOS, SUSIJUSIOS SU MEDŽIAGOMIS, ĮTRAUKTOMIS Į IV SĄRAŠĄ, REIKALAVIMAI, SĄLYGOS, LEIDIMŲ IŠDAVIMO TVARKA, ATSISAKYMAS IŠDUOTI LEIDIMĄ
 
 22 straipsnis. Narkotinių ir psichotropinių medžiagų apskaitos tvarkymo ir kontrolės vykdymo subjektai
 
@@ -556,6 +578,22 @@ Nr. XIII-161, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29855
 
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 10-3 straipsnio pakeitimo įstatymas
 
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
+
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 1, 2, 3, 4, 10-3 straipsnių pakeitimo, 21-1 straipsnio pernumeravimo ir pakeitimo bei Įstatymo papildymo 6-1 straipsniu ir ketvirtuoju-1 skirsniu įstatymas
+
+10.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1560, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17475
+
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 12 straipsnio pakeitimo įstatymas
+
 81 straipsnis. Į I sąrašą įtrauktų medžiagų siuntimas
 
 Į I sąrašą įtrauktas medžiagas siųsti paštu draudžiama, išskyrus Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka diplomatiniu ar registruotu (greituoju) paštu Europos Sąjungos valstybių narių ir pagal tarptautinius susitarimus diplomatiniu ar registruotu (greituoju) paštu trečiųjų šalių kompetentingoms institucijoms siunčiamus arba iš jų gaunamus šių medžiagų pavyzdžius, siekiant atskleisti ir tirti nusikalstamas veikas, vykdyti baudžiamąjį persekiojimą, atlikti ekspertizes ar objektų tyrimus.
@@ -568,15 +606,15 @@ TREČIASIS SKIRSNIS
 
 SU MEDŽIAGOMIS, ĮTRAUKTOMIS Į II IR III SĄRAŠUS, SUSIJUSIOS VEIKLOS REIKALAVIMAI
 
-211 straipsnis. Veiklos, susijusios su narkotinėmis ir psichotropinėmis medžiagomis, kontrolė
+211 straipsnis. Į IV sąrašą įtrauktų medžiagų teisėtos apyvartos bendrieji reikalavimai
 
-1. Narkotinių ir psichotropinių medžiagų kontrolę pagal kompetenciją vykdo Valstybinė vaistų kontrolės tarnyba, policijos ir muitinės įstaigos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, vadovaudamosi šiuo įstatymu ir (ar) kitais jų veiklą reglamentuojančiais teisės aktais.
+1. Veiklai, susijusiai su medžiagomis, įtrauktomis į IV sąrašą, taikomi ir kiti cheminių medžiagų ir jų mišinių teisėtos apyvartos reikalavimai, jeigu šis įstatymas nenustato kitaip.
 
-2. Valstybinė vaistų kontrolės tarnyba kontroliuoja licencijuojamą veiklą, atlikdama tikrinimus sveikatos apsaugos ministro nustatyta tvarka. Juridiniai asmenys, turintys licenciją, turi būti tikrinami ne rečiau kaip kas penkeri metai.
+2. Į IV sąrašą įtrauktas medžiagas gaminti, perdirbti, naudoti, laikyti, saugoti, importuoti, eksportuoti, verstis jų didmenine prekyba turi teisę Lietuvos Respublikoje įsteigti juridiniai asmenys ir užsienio valstybių juridinių asmenų ir kitų organizacijų filialai, įsteigti Lietuvoje (toliau šiame skirsnyje – juridiniai asmenys), turintys šio įstatymo nustatyta tvarka išduotą leidimą verstis veikla su į IV sąrašą įtrauktomis medžiagomis (toliau šiame skirsnyje – leidimas).
 
-Straipsnio pakeitimai:
+3. Šio skirsnio nuostatos netaikomos sveikatos priežiūros ir farmacinę veiklą, veterinarinę farmaciją, mokslinius tyrimus vykdantiems juridiniams asmenims, taip pat policijos ir muitinės įstaigoms, valstybės institucijoms, vykdančioms veiklos su į IV sąrašą įtrauktomis medžiagomis kontrolę, įgaliotoms laboratorijoms ir Lietuvos kariuomenei.
 
-Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
+4. Mažmeninė prekyba į IV sąrašą įtrauktomis medžiagomis, kurios naudojamos su farmacijos produktais nesusijusios pramonės tikslams, yra draudžiama.
 
 101 straipsnis. Licencijų ir licencijų dublikatų išdavimas, atsisakymas išduoti licenciją, licencijos galiojimo sustabdymas, licencijos galiojimo sustabdymo ir licencijos galiojimo panaikinimas
 
@@ -684,15 +722,19 @@ Juridinis asmuo nelaikomas nepriekaištingos reputacijos, jeigu:
 
 2) dėl juridinio asmens per pastaruosius penkerius metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už kitą šio straipsnio 1 punkte nenurodytą tyčinį nusikaltimą, numatytą Lietuvos Respublikos baudžiamajame kodekse ar kitų valstybių baudžiamuosiuose įstatymuose;
 
-3) juridinio asmens valdymo organų nariai teisti už tyčinį nusikaltimą, numatytą Lietuvos Respublikos baudžiamajame kodekse ar kitų valstybių baudžiamuosiuose įstatymuose, – jeigu teistumas neišnykęs ar nepanaikintas;
+3) juridinio asmens valdymo organų nariai ar jo vadovas teisti už tyčinį nusikaltimą, numatytą Lietuvos Respublikos baudžiamajame kodekse ar kitų valstybių baudžiamuosiuose įstatymuose, – jeigu teistumas neišnykęs ar nepanaikintas;
 
-4) juridinio asmens valdymo organų nariai per pastaruosius vienus metus padarė administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 62, 65, 66, 71, 339 ir 340 straipsniuose, ir jiems buvo paskirta administracinė nuobauda ar jie buvo patraukti atsakomybėn už analogiškas veikas, numatytas kitų valstybių įstatymuose.
+Straipsnio punkto pakeitimai:
 
-TAR pastaba. Administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekso 44, 441, 442, 443, 1071 ir 1072 straipsniuose, padariusiems asmenims, kuriems administracinė nuobauda paskirta iki 2017 m. sausio 1 d., taikoma iki įstatymo Nr. XIII-161 įsigaliojimo (2017-01-01) galiojusi Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo 103 straipsnio 4 punkto nuostata.
+Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
+
+4) juridinio asmens valdymo organų nariai ar jo vadovas per pastaruosius vienus metus padarė administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 62, 65, 66, 71, 339 ir 340 straipsniuose, ir jiems buvo paskirta administracinė nuobauda ar jie buvo patraukti atsakomybėn už analogiškas veikas, numatytas kitų valstybių įstatymuose.
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-161, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29855
+
+Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
 
 Papildyta straipsniu:
 
@@ -735,4 +777,170 @@ Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
 Papildyta straipsniu:
 
 Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
+
+61 straipsnis. Laikinųjų apribojimo priemonių taikymo naujoms psichoaktyviosioms medžiagoms tvarka
+
+1. Naujoms psichoaktyviosioms medžiagoms nustatomas laikinas draudimas gaminti, įsigyti, verstis didmenine ar mažmenine prekyba, laikyti, gabenti, įvežti, importuoti, išvežti, eksportuoti, pervežti, vežti tranzitu, jas naudoti ar vartoti (toliau – laikinoji apribojimo priemonė), kai gaunamas pranešimas per Europos narkotikų ir narkomanijos informacinio tinklo ankstyvojo perspėjimo sistemą arba iš Lietuvos Respublikos kompetentingų institucijų, kad:
+
+1) nuo atitinkamos naujos psichoaktyviosios medžiagos bent vieną asmenį ištiko mirtis arba
+
+2) nustatyti daugiau kaip trys apsinuodijimo šia medžiaga atvejai.
+
+2. Sprendimą dėl laikinųjų apribojimo priemonių taikymo priima Narkotikų, tabako ir alkoholio kontrolės departamento direktorius per 2 darbo dienas nuo šio straipsnio 1 dalyje numatyto pranešimo Narkotikų, tabako ir alkoholio kontrolės departamente gavimo dienos.
+
+3. Laikinoji apribojimo priemonė naujai psichoaktyviajai medžiagai taikoma tol, kol bus priimtas sprendimas įtraukti naują psichoaktyviąją medžiagą ar neįtraukti jos į kontroliuojamų medžiagų sąrašus, bet ne ilgiau kaip 12 mėnesių nuo šio straipsnio 2 dalyje nurodyto sprendimo priėmimo dienos. Nustačius, kad nauja psichoaktyvioji medžiaga kelia riziką žmogaus sveikatai, nurodytą šio įstatymo 2 straipsnio 1 dalyje, ji įrašoma į kontroliuojamų medžiagų sąrašus.
+
+4. Gaminti, įsigyti, verstis didmenine ar mažmenine prekyba, laikyti, gabenti, įvežti, importuoti, išvežti, eksportuoti, pervežti, vežti tranzitu, naudoti ar vartoti naujas psichoaktyviąsias medžiagas, kurioms pritaikytos laikinosios apribojimo priemonės, laikinųjų apribojimo priemonių taikymo laikotarpiu yra draudžiama.
+
+Papildyta straipsniu:
+
+Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
+
+ANTRASIS SKIRSNIS
+
+SU MEDŽIAGOMIS, ĮTRAUKTOMIS Į I SĄRAŠĄ, SUSIJUSIOS VEIKLOS REIKALAVIMAI
+
+212 straipsnis. Reikalavimai pareiškėjui
+
+Juridinis asmuo, norintis gauti leidimą, turi atitikti šiuos reikalavimus:
+
+1) turėti Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus nustatytus reikalavimus atitinkančias patalpas, kuriose numatoma vykdyti veiklą, susijusią su į IV sąrašą įtrauktomis medžiagomis;
+
+2) paskirti asmenį, atsakingą už į IV sąrašą įtrauktų medžiagų laikymą ir teisėtos apyvartos apskaitą, bei pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui jo kontaktinius duomenis;
+
+3) būti nepriekaištingos reputacijos;
+
+4) neturėti mokestinės nepriemokos Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (išskyrus atvejus, kai juridiniam asmeniui mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), nebūti skolingam Valstybinio socialinio draudimo fondo biudžetui ir vykdyti įsipareigojimus muitinei;
+
+5) būti pasirengusiam vykdyti veiklą pagal nustatytus reikalavimus.
+
+213 straipsnis. Leidimų išdavimas, patikslinimas, atsisakymas išduoti leidimą, įspėjimas apie galimą leidimo galiojimo sustabdymą, leidimo galiojimo sustabdymas, leidimo galiojimo sustabdymo ir leidimo galiojimo panaikinimas
+
+1. Leidimus išduoda, juos patikslina, įspėja apie galimą leidimų galiojimo sustabdymą, sustabdo leidimų galiojimą, panaikina leidimų galiojimo sustabdymą ir jų galiojimą Narkotikų, tabako ir alkoholio kontrolės departamentas, vadovaudamasis Leidimų verstis veikla su į narkotinių ir psichotropinių medžiagų IV sąrašą įrašytomis medžiagomis išdavimo, pranešimų apie importą, eksportą pateikimo taisyklėmis (toliau – Leidimų išdavimo taisyklės) ir naudodamasis teisės aktų nustatyta tvarka sukurta Licencijų informacine sistema. Leidimų išdavimo taisykles tvirtina Lietuvos Respublikos Vyriausybė.
+
+2. Juridinis asmuo, norintis gauti leidimą ar jį patikslinti, turi pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui paraišką ir dokumentus, nurodytus Leidimų išdavimo taisyklėse. Paraiškos formą tvirtina Narkotikų, tabako ir alkoholio kontrolės departamento direktorius.
+
+3. Jeigu juridinis asmuo vykdo veiklą keliose veiklos vietose, registruotose skirtingais adresais, išduodamas vienas leidimas, kuriame nurodomi visi veiklos vietų adresai.
+
+4. Sprendimas dėl leidimo išdavimo, patikslinimo, atsisakymo jį išduoti ar patikslinti priimamas ne vėliau kaip per 30 dienų nuo paraiškos ir Leidimų išdavimo taisyklėse nurodytų dokumentų gavimo Narkotikų, tabako ir alkoholio kontrolės departamente dienos. Jeigu pateikti ne visi, nevisiškai užpildyti dokumentai arba jie neatitinka dokumentams keliamų reikalavimų, arba pateikti neteisingi duomenys, terminas skaičiuojamas nuo visų arba papildytų (patikslintų) dokumentų gavimo dienos. Prieš priimant sprendimą išduoti ar neišduoti leidimą, Narkotikų, tabako ir alkoholio kontrolės departamento valstybės tarnautojai turi nuvykti į juridinio asmens veiklos vietą ir patikrinti, ar juridinio asmens patalpos, kuriose bus vykdoma veikla, susijusi su į IV sąrašą įtrauktomis medžiagomis, atitinka Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus įsakymu patvirtintame Medžiagų, įrašytų į narkotinių ir psichotropinių medžiagų IV sąrašą, laikymo ir saugojimo sąlygų apraše nustatytus reikalavimus.
+
+5. Leidimas galioja neterminuotai.
+
+6. Leidimas patikslinamas, jeigu keičiasi veiklos vieta (vietos) adresas (adresai) ir (arba) veiklos rūšis, ir (arba) kita leidime nurodyta informacija.
+
+7. Narkotikų, tabako ir alkoholio kontrolės departamentas raštu gali prašyti juridinio asmens pateikti trūkstamus ar patikslintus dokumentus, būtinus leidimui išduoti ar patikslinti. Juridinis asmuo turi pateikti dokumentus ne vėliau kaip per 10 darbo dienų nuo prašymo pateikti trūkstamus ar patikslintus dokumentus, būtinus leidimui išduoti ar patikslinti, gavimo. Laikas, per kurį pateikiami prašomi dokumentai, į paraiškos nagrinėjimo laiką neįskaitomas.
+
+8. Leidimas neišduodamas ar nepatikslinamas, jeigu:
+
+1) pateikti ne visi Leidimų išdavimo taisyklėse nurodyti dokumentai ir (arba) pateikti dokumentai neatitinka Leidimų išdavimo taisyklėse nustatytų reikalavimų ir per 10 darbo dienų nuo prašymo pateikti trūkstamus ar patikslintus dokumentus, būtinus leidimui išduoti ar patikslinti, gavimo tokie dokumentai nebuvo pateikti;
+
+2) juridinis asmuo neatitinka šio įstatymo 212 straipsnio 1, 2 ir 5 punktuose nustatytų reikalavimų;
+
+3) juridinis asmuo turi mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (išskyrus atvejus, kai juridiniam asmeniui mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), yra skolingas Valstybinio socialinio draudimo fondo biudžetui ar nevykdo įsipareigojimų muitinei;
+
+4) nustatoma, kad juridinis asmuo nėra laikomas nepriekaištingos reputacijos.
+
+9. Juridiniai asmenys, kurie verčiasi veikla su į IV sąrašą įrašytomis medžiagomis, įspėjami apie galimą leidimo galiojimo sustabdymą, jeigu jie nesilaiko šio įstatymo 214 straipsnio 1 dalies 8, 9 punktuose nustatytų reikalavimų. Narkotikų, tabako ir alkoholio kontrolės departamentas įspėja apie galimą leidimo galiojimo sustabdymą per 3 darbo dienas nuo šioje dalyje nurodytų aplinkybių paaiškėjimo dienos.
+
+10. Narkotikų, tabako ir alkoholio kontrolės departamentas leidimo galiojimą sustabdo, jeigu:
+
+1) juridinis asmuo neatitinka šio įstatymo 212 straipsnio 1, 2 ir 5 punktuose nustatytų reikalavimų – ne ilgiau kaip 6 mėnesiams;
+
+2) juridinis asmuo pateikia prašymą sustabdyti leidimo galiojimą – juridinio asmens prašyme nurodytam laikotarpiui.
+
+11. Narkotikų, tabako ir alkoholio kontrolės departamentas sprendimą sustabdyti leidimo galiojimą, nurodydamas terminą trūkumams pašalinti, priima per 3 darbo dienas nuo aplinkybių, nurodytų šio straipsnio 10 dalies 1 punkte, nustatymo, o šio straipsnio 10 dalies 2 punkte nustatytu atveju – per 3 darbo dienas nuo juridinio asmens pateikto prašymo sustabdyti leidimo galiojimą gavimo dienos.
+
+12. Leidimo sustabdymas panaikinamas per 3 darbo dienas įvertinus, ar pašalinti neatitikimai, dėl kurių buvo sustabdytas leidimo galiojimas, gavus pranešimą apie neatitikimų pašalinimą, o šio straipsnio 10 dalies 2 punkte nurodytu atveju – per 3 darbo dienas nuo juridinio asmens pateikto prašymo panaikinti leidimo galiojimo sustabdymą gavimo dienos.
+
+13. Narkotikų, tabako ir alkoholio kontrolės departamentas leidimo galiojimą panaikina, jeigu:
+
+1) juridinis asmuo pateikia prašymą panaikinti leidimo galiojimą;
+
+2) juridinis asmuo per nustatytą terminą nepašalina neatitikimų, dėl kurių sustabdytas leidimo galiojimas;
+
+3) juridinis asmuo, kurio leidimo galiojimas sustabdytas, toliau vykdo leidime nurodytą veiklą;
+
+4) juridinis asmuo, kuriam išduotas leidimas, išregistruotas iš Juridinių asmenų registro;
+
+5) nustatoma, kad juridinis asmuo nėra laikomas nepriekaištingos reputacijos;
+
+6) paaiškėja, kad leidimui gauti juridinis asmuo pateikė neteisingus duomenis.
+
+14. Narkotikų, tabako ir alkoholio kontrolės departamentas sprendimą dėl leidimo galiojimo panaikinimo priima per 3 darbo dienas nuo šio straipsnio 13 dalies 2–6 punktuose nurodytų aplinkybių paaiškėjimo, o šio straipsnio 13 dalies 1 punkte nurodytu atveju – per 3 darbo dienas nuo juridinio asmens pateikto prašymo panaikinti leidimo galiojimą gavimo dienos.
+
+15. Kai leidimo galiojimas panaikinamas dėl šio straipsnio 13 dalies 2–6 punktuose nurodytų aplinkybių, juridinio asmens turimų į narkotinių ir psichotropinių medžiagų IV sąrašą įrašytų medžiagų likučiai turi būti sunaikinti teisės aktų nustatyta tvarka ir apie tai informuojamas Narkotikų, tabako ir alkoholio kontrolės departamentas. Kai leidimo galiojimas panaikinamas juridinio asmens prašymu, leidimo galiojimo panaikinimo data nustatoma atsižvelgiant į juridinio asmens pateiktą informaciją apie turimą medžiagų kiekį.
+
+16. Narkotikų, tabako ir alkoholio kontrolės departamentas apie sprendimą išduoti, patikslinti leidimą, neišduoti, nepatikslinti leidimo, sustabdyti, panaikinti leidimo galiojimą, panaikinti leidimo galiojimo sustabdymą ir sprendimo priėmimo priežastis per 3 darbo dienas nuo sprendimo priėmimo informuoja juridinį asmenį.
+
+214 straipsnis. Veiklos su į IV sąrašą įtrauktomis medžiagomis sąlygos
+
+1. Leidimo turėtojas privalo:
+
+1) verstis leidime nurodyta veikla tik leidime įrašytu veiklos vietos adresu ir tik tose patalpose, kurios nurodytos dokumentuose leidimui gauti;
+
+2) užtikrinti teisės aktų reikalavimus atitinkantį į IV sąrašą įtrauktų medžiagų laikymą, saugojimą ir apskaitą;
+
+3) sudaryti sąlygas kontroliuojančiųjų valstybės institucijų darbuotojams tikrinti juridinio asmens patalpas ir veiklą, kuriai išduotas leidimas;
+
+4) leisti tarnybinį pažymėjimą ir Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus pavedimą atlikti patikrinimą pateikusiems Narkotikų, tabako ir alkoholio kontrolės departamento valstybės tarnautojams nekliudomai visą patikrinimo laikotarpį leidimo turėtojo darbo valandomis, o kitu laiku – įstatymų nustatyta tvarka pasitelkus kompetentingų teisėsaugos institucijų pareigūnus įeiti į visas patalpas, esančias leidime nurodytoje veiklos vietoje, siekiant patikrinti, ar laikomasi šio įstatymo ir kitų norminių teisės aktų reikalavimų; pateikti duomenis ir dokumentus (jų nuorašus, išrašus), daiktus, reikalingus Narkotikų, tabako ir alkoholio kontrolės departamento funkcijoms atlikti;
+
+5) vykdyti teisėtus kontroliuojančiųjų valstybės institucijų reikalavimus;
+
+6) sustabdyti veiklą, kuriai išduotas leidimas, kitą dieną po pranešimo apie leidimo sustabdymą gavimo dienos;
+
+7) nutraukti veiklą, kuriai išduotas leidimas, kitą dieną po pranešimo apie leidimo galiojimo panaikinimą gavimo dienos;
+
+8) per 10 darbo dienų pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui informaciją dėl atsakingo asmens pasikeitimo Leidimų išdavimo taisyklėse nustatyta tvarka;
+
+9) pranešti Narkotikų, tabako ir alkoholio kontrolės departamentui apie pasikeitusį veiklos vietų adresą, pasikeitusius juridinio asmens rekvizitus ar apie pasikeitusią kitą leidime nurodytą informaciją per 10 darbo dienų nuo informacijos pasikeitimo Leidimų išdavimo taisyklėse nustatyta tvarka;
+
+10) užtikrinti, kad visi sandoriai, dėl kurių į IV sąrašą įtrauktos medžiagos pateikiamos į rinką, būtų dokumentuojami laikantis teisės aktų nustatytų reikalavimų;
+
+11) teikti informaciją Narkotikų, tabako ir alkoholio kontrolės departamentui apie veiklą su į IV sąrašą įrašytomis medžiagomis kas ketvirtį Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus nustatyta tvarka;
+
+12) vykdyti kitus teisės aktų, reglamentuojančių veiklą, susijusią su medžiagomis, įtrauktomis į IV sąrašą, reikalavimus.
+
+2. Juridiniam asmeniui, kurio leidimo galiojimas sustabdytas, draudžiama toliau vykdyti leidime nurodytą veiklą.
+
+3. Leidimo turėtojui draudžiama įgalioti kitą asmenį verstis leidime nurodyta veikla, pavesti ar kitaip perleisti šią teisę kitam asmeniui.
+
+4. Leidimą turintis juridinis asmuo į IV sąrašą įtrauktas medžiagas gali parduoti tik juridiniams asmenims, kurie turi leidimą veiklai su į IV sąrašą įrašytomis medžiagomis.
+
+5. Į IV sąrašą įtrauktas medžiagas siųsti paštu draudžiama, išskyrus Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka diplomatiniu ar registruotu (greituoju) paštu Europos Sąjungos valstybių narių ir pagal tarptautinius susitarimus diplomatiniu ar registruotu (greituoju) paštu trečiųjų šalių kompetentingoms institucijoms siunčiamus arba iš jų gaunamus šių medžiagų pavyzdžius, siekiant atskleisti ir tirti nusikalstamas veikas, vykdyti baudžiamąjį persekiojimą, atlikti ekspertizes ar objektų tyrimus.
+
+215 straipsnis. Į IV sąrašą įtrauktų medžiagų importo ir eksporto reikalavimai
+
+1. Leidimo turėtojas, norėdamas importuoti ar eksportuoti į IV sąrašą įtrauktas medžiagas, privalo pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui pranešimą prieš 15 darbo dienų Leidimų išdavimo taisyklėse nustatyta tvarka.
+
+2. Dėl kiekvieno atskiro į IV sąrašą įtrauktų medžiagų importo ir eksporto atvejo reikalingas atskiras pranešimas.
+
+216 straipsnis. Į IV sąrašą įtrauktų medžiagų gabenimas Lietuvos Respublikos teritorijoje
+
+Asmenys, gabenantys į IV sąrašą įtrauktas medžiagas Lietuvos Respublikos teritorijoje, turi turėti lydimuosius teisinę galią turinčius krovinio dokumentus ir užtikrinti šių medžiagų saugumą. Jeigu kyla įtarimų dėl galimos neteisėtos į IV sąrašą įtrauktų medžiagų apyvartos, krovinį gabenantis asmuo privalo nedelsdamas apie tai informuoti teisėsaugos institucijas.
+
+Papildyta skirsniu:
+
+Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
+
+PENKTASIS SKIRSNIS
+
+VEIKLOS, SUSIJUSIOS SU NARKOTINĖMIS IR PSICHOTROPINĖMIS MEDŽIAGOMIS, KONTROLĖ IR ŠIŲ MEDŽIAGŲ APYVARTOS APSKAITA
+
+Pakeistas skirsnio pavadinimas:
+
+Nr. XI-1073, 2010-10-26, Žin., 2010, Nr. 132-6718 (2010-11-11), i. k. 1101010ISTA0XI-1073
+
+217 straipsnis. Veiklos, susijusios su narkotinėmis ir psichotropinėmis medžiagomis, kontrolė
+
+1. Narkotinių ir psichotropinių medžiagų kontrolę pagal kompetenciją vykdo Valstybinė vaistų kontrolės tarnyba, Narkotikų, tabako ir alkoholio kontrolės departamentas, policijos ir muitinės įstaigos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, vadovaudamosi šiuo įstatymu ir (ar) kitais jų veiklą reglamentuojančiais teisės aktais.
+
+2. Valstybinė vaistų kontrolės tarnyba kontroliuoja licencijuotą veiklą su į II ir III sąrašus įtrauktomis medžiagomis, atlikdama tikrinimus sveikatos apsaugos ministro nustatyta tvarka. Juridiniai asmenys, turintys licenciją, turi būti tikrinami ne rečiau kaip kas penkeri metai.
+
+3. Narkotikų, tabako ir alkoholio kontrolės departamentas kontroliuoja veiklą su į IV sąrašą įtrauktomis medžiagomis, atlikdamas tikrinimus Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus nustatyta tvarka. Turintys leidimą juridiniai asmenys turi būti tikrinami ne rečiau kaip kas treji metai.
+
+Straipsnio pakeitimai:
+
+Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
+
+Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
 
