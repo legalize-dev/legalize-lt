@@ -4,7 +4,7 @@ identifier: "TAR.FF1083B528B7"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-11-09"
-last_updated: "2017-07-18"
+last_updated: "2018-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF1083B528B7"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redaguota : 1995 07 21
 
-Suvestinė redakcija nuo 2017-07-18 iki 2018-10-31
+Suvestinė redakcija nuo 2018-11-01
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
 
@@ -168,11 +168,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
 
-37. Saugomų teritorijų nuostatai – teisės aktai, apibrėžiantys atskirų saugomų teritorijų išskirtinę vertę ir nustatantys jų apsaugos ypatumus arba nustatantys saugomų teritorijų tipų bendrus apsaugos ir tvarkymo reikalavimus, valdymo bei apsaugos ir tvarkymo organizavimo principus.
+37. Saugomų teritorijų nuostatai – teisės aktas, kuriuo nustatomi atskiros saugomos teritorijos valdymo, apsaugos ir tvarkymo organizavimo ypatumai, saugomos teritorijos steigimo tikslas, išskirtinė vertė, taip pat etnografinio regiono architektūros ir sodybų planavimo tradicijomis pagrįsti reikalavimai arba kuriuo nustatomi saugomų teritorijų tipų bendri valdymo, apsaugos ir tvarkymo organizavimo principai ir etnografinio regiono architektūros ir sodybų planavimo tradicijomis pagrįsti reikalavimai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
+
+Nr. XIII-1503, 2018-09-27, paskelbta TAR 2018-10-09, i. k. 2018-15982
 
 38. Saugomų teritorijų planavimo dokumentai – saugomų teritorijų specialiojo teritorijų planavimo dokumentai, nustatantys saugomų teritorijų sistemą arba jos dalis, saugomų teritorijų ribas, funkcinio prioriteto ir (ar) kraštovaizdžio tvarkymo zonas, patikslinantys apribojimus bei nustatantys priemones gamtos ir (ar) kultūros paveldo teritoriniams kompleksams ir objektams (vertybėms) išsaugoti, atkurti ir racionaliai naudoti, rekreacijai, ypač pažintiniam turizmui, organizuoti, gamtos paveldo objektų schemos, taip pat strateginio planavimo dokumentai, nustatantys veiksmus bei tvarkymo priemones, jų įgyvendinimo eiliškumą, lėšų poreikį ir atsakingas institucijas.
 
@@ -642,7 +644,11 @@ Nr. XII-413, 2013-06-27, Žin., 2013, Nr. 76-3830 (2013-07-16)
 
 7) draudžiama statyti naujus pastatus statesniuose kaip 15 laipsnių natūraliuose šlaituose, taip pat arčiau kaip 50 metrų nuo šių šlaitų viršutinės ir apatinės briaunos, išskyrus šios dalies 3 ir 4 punktuose nurodytus atvejus arba kai naujų pastatų statybos vieta yra įsiterpusi tarp sodybų, namų valdų, kurių pastatai mažesniais atstumais yra pastatyti iki 1993 m. lapkričio 24 d. Statesniuose kaip 15 laipsnių natūraliuose šlaituose, taip pat arčiau kaip 50 metrų nuo šių šlaitų viršutinės ir apatinės briaunos draudžiama didinti esamų pastatų tūrius, išskyrus atvejus, kai pastatai rekonstruojami taikant etnografiniam regionui būdingus tūrius, formas, kai statomi nauji gyvenamosios paskirties pastato (namo) priklausiniai sukuriant būdingą sodybos planinę struktūrą arba kai valstybinio parko planavimo schemoje (ribų ir tvarkymo planuose) numatyta galimybė padidinti pastatų tūrius;
 
-8) sodybų pastatai statomi laikantis etnografinio regiono architektūros ir sodybų planavimo tradicijų pagal valstybinių parkų planavimo schemose (ribų ir tvarkymo planuose) nustatytus reikalavimus ir rekomendacijas, išskyrus atvejus, kai atkuriami kultūros paveldo objektai pagal Nekilnojamojo kultūros paveldo apsaugos įstatymą ar šios dalies 4 punkte nurodytu atveju atstatomi identiški buvusių sodybų pastatai;
+8) sodybų pastatai statomi laikantis valstybinio parko nuostatuose nustatytų etnografinio regiono architektūros ir sodybų planavimo tradicijomis pagrįstų reikalavimų, išskyrus atvejus, kai atkuriami kultūros paveldo objektai pagal Nekilnojamojo kultūros paveldo apsaugos įstatymą ar šios dalies 4 punkte nurodytu atveju atstatomi identiški buvusių sodybų pastatai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1503, 2018-09-27, paskelbta TAR 2018-10-09, i. k. 2018-15982
 
 9) buvusios sodybos atstatymo teisė šioje dalyje nustatyta tvarka įgyvendinama taip, kad vietoj vienos buvusios sodybos gali būti atstatoma tik viena sodyba. Sprendimų dėl buvusių sodybų atstatymo priėmimo tvarką nustato Vyriausybė;
 
@@ -650,9 +656,13 @@ Nr. XII-413, 2013-06-27, Žin., 2013, Nr. 76-3830 (2013-07-16)
 
 11) draudžiama statyti kitus naujus ūkinės veiklos objektus su įrenginiais, kuriems reikalingi taršos integruotos prevencijos ir kontrolės leidimai ar taršos leidimai (išskyrus valstybinio parko planavimo schemoje (ribų ir tvarkymo plane) ar savivaldybės ar jos dalies bendrajame plane numatytus miestų ir miestelių nuotekų valyklas, poilsio paskirties pastatus, kitus visuomeninės paskirties objektus, kurie nurodytus leidimus turėti privalo tik dėl to, kad per parą į aplinką išleis daugiau kaip 5 kubinius metrus buities nuotekų), aerodromus, oro uostų infrastruktūros statinius ir įrenginius, vėjo elektrines (išskyrus šio straipsnio 5 dalies 2 punkte nurodytus atvejus);
 
-12) leidžiama įrengti saulės šviesos energijos elektrines, saulės šilumos energijos kolektorius tik ant pastatų stogų ir (ar) pastatų fasadų, kurie nėra matomi nuo gamtos ir kultūros paveldo objektų (kompleksų), gatvės, kelio ar apžvalgos vietų (regyklų), turizmo trasų. Gyvenamojo prioriteto funkcinėse zonose jų įrengimas reglamentuojamas valstybinio parko nuostatuose. Pastatuose ar sodybose, kurie yra kultūros paveldo objektai, šių inžinerinių statinių (įrenginių) statyba draudžiama.
+12) leidžiama įrengti saulės šviesos energijos elektrines, saulės šilumos energijos kolektorius tik ant pastatų stogų ir (ar) pastatų fasadų, kurie nėra matomi nuo gamtos ir kultūros paveldo objektų (kompleksų), gatvės, kelio ar apžvalgos vietų (regyklų), turizmo trasų. Gyvenamojo prioriteto funkcinėse zonose jų įrengimas reglamentuojamas valstybinio parko nuostatuose. Pastatuose ar sodybose, kurie yra kultūros paveldo objektai, šių inžinerinių statinių (įrenginių) statyba draudžiama;
 
-4. Atsižvelgiant į etnografinio regiono architektūros tradicijas, valstybinio parko miestelių ir kaimų architektūros, kraštovaizdžio ypatumus, paveldo objektų, kraštovaizdžio, gamtos ir nekilnojamųjų kultūros vertybių apsaugos poreikius, valstybinio parko nuostatuose apibrėžiama valstybinio parko išskirtinė vertė ir detalizuojami šio straipsnio 2 dalyje nustatyti apsaugos reikalavimai ir etnografinio regiono architektūros ir sodybų planavimo reikalavimai, o valstybinio parko nuostatuose – šio straipsnio 3 dalyje nustatyti statybos reikalavimai.
+4. Atsižvelgiant į etnografinio regiono architektūros tradicijas, valstybinio parko miestelių ir kaimų architektūros, kraštovaizdžio ypatumus, paveldo objektų, kraštovaizdžio, gamtos ir nekilnojamųjų kultūros vertybių apsaugos poreikius, valstybinio parko nuostatuose apibrėžiami valstybinio parko steigimo tikslai, jo išskirtinė vertė, detalizuojami šio straipsnio 2 dalyje nustatyti apsaugos reikalavimai, nustatomi etnografinio regiono architektūros ir sodybų planavimo tradicijomis pagrįsti reikalavimai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1503, 2018-09-27, paskelbta TAR 2018-10-09, i. k. 2018-15982
 
 5. Šioje dalyje nurodytą veiklą vykdyti valstybinio parko ekologinės apsaugos, rekreacinio, gyvenamojo, ūkinio (žemės, miškų ar vandens ūkio) ar kito funkcinio prioriteto zonoje leidžiama, jeigu, atlikus vertinimą Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka arba Vyriausybės įgaliotos institucijos nustatyta tvarka (kai veiklos poveikio aplinkai vertinimas neatliekamas pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 3 straipsnio 2 dalį), yra priimtas sprendimas, kad planuojama veikla nepakenks valstybinio parko kraštovaizdžiui, gamtos ir nekilnojamosioms kultūros vertybėms. Visais atvejais sprendimas turi būti priimtas gamtos ir nekilnojamųjų kultūros vertybių tyrimo ir planuojamos įgyvendinti veiklos techninių, technologinių, vietos ir kitų sprendinių analizės pagrindu. Veikla, dėl kurios leistinumo sprendžiama atlikus vertinimą, yra:
 
@@ -876,7 +886,7 @@ Nr. XII-413, 2013-06-27, Žin., 2013, Nr. 76-3830 (2013-07-16)
 
 2) jeigu žemės juosta, nurodyta šios dalies 1 punkte, yra užpelkėjusi arba yra stačiame šlaite (skardyje), užtvėrimų draudimas taikomas taip, kad bent vieno metro pločio žemės juosta turi būti tinkama eiti asmenims vandens telkinio pakrante;
 
-3) šios dalies 1 ir 2 punktuose nurodytose pakrantės dalyse gali būti aptverti statiniai ar įrenginiai dėl jų eksploatavimo saugumo (kai tai numatyta normatyviniuose dokumentuose), paveldo objektai, parkai ir kiti atskirieji želdynai, botanikos, zoologijos sodai, dendrologinės kolekcijos, vaikų poilsiui skirtos teritorijos, teritorijos, kuriose įgyvendinamos gamtotvarkos priemonės (kai tai numatyta saugomos teritorijos gamtotvarkos plane).
+3) šios dalies 1 ir 2 punktuose nurodytose pakrantės dalyse gali būti aptverti statiniai ar įrenginiai dėl jų eksploatavimo saugumo (kai tai numatyta normatyviniuose dokumentuose), paveldo objektai, parkai ir kiti atskirieji želdynai, botanikos, zoologijos sodai, dendrologinės kolekcijos, vaikų poilsiui skirtos teritorijos, teritorijos, kuriose įgyvendinamos gamtotvarkos priemonės (kai tai numatyta saugomos teritorijos gamtotvarkos plane);
 
 9. Jeigu dėl įvykusios kranto erozijos (vandens telkinio kranto linijos pasislinkimo) nebeužtikrinamas šio straipsnio 8 dalyje nurodytas reikalavimas dėl užtvėrimų nebuvimo, žemės savininkas ar valdytojas gali imtis priemonių atkurti erozijos pažeistą pakrantę. Jeigu pakrantės atkūrimo priemonės nevykdomos, užvėrimai iš šio straipsnio 8 dalies 1 ir 2 punkte nurodyto pločio pakrantės dalies turi būti pašalinti per vienerius metus nuo kranto erozijos fakto paaiškėjimo. Kranto erozijos fakto paaiškėjimo momentu laikomas valstybinio aplinkos apsaugos inspektoriaus ar valstybinio saugomų teritorijų pareigūno surašytas aktas, kuriuo, įvertinus kranto būklę ir erozijos tendencijas, konstatuojama, kad reikalavimas dėl užtvėrimų pakrantėje nebuvimo neįvykdomas dėl įvykusios kranto erozijos.
 
@@ -1938,7 +1948,11 @@ _
 
 2) leidžiama statyti naujus statinius draustinių tvarkymo planuose ir (ar) savivaldybių ar jų dalių bendruosiuose planuose numatytose vietose, taip pat rekonstruoti esamus statinius laikantis draustinio tvarkymo plane ir (ar) savivaldybės ar jos dalies bendrajame plane nustatytų sprendinių, jeigu nurodyti planai numato specifines sąlygas jų rekonstrukcijai;
 
-3) leidžiama statyti naujus sodybos pastatus ir inžinerinius statinius sodybose. Sodyboje gali būti tik vienas gyvenamosios paskirties pastatas (namas), kuris gali būti vieno ar dviejų butų. Sodybos ar atstatomi buvusios sodybos pastatai ir jos inžineriniai statiniai išdėstomi viename iki 2 hektarų ploto žemės sklype arba didesnio sklypo dalyje, nesuformuotoje atskiru sklypu ir apimančioje iki 2 hektarų plotą, išskyrus atvejus, kai atstatomi istorinės dvaro sodybos statiniai, kurie (registruoti Kultūros vertybių registre kaip nekilnojamosios kultūros vertybės) buvo išdėstyti didesniame kaip 2 hektarų plote. Jeigu atliekant kadastrinius matavimus vienos sodybos pastatų ir inžinerinių statinių užimama žemė priskiriama keliems gretimiems žemės sklypams dėl to, kad sodybą padalija viešasis kelias ar upė, laikoma, kad sodyba yra išsidėsčiusi keliuose žemės sklypuose (žemės valdoje), ir šiame straipsnyje nustatyta pastatų ir inžinerinių statinių statybos sodybose teisė juose taikoma tol, kol šie žemės sklypai ir juose esantys statiniai priklauso tam pačiam žemės savininkui (bendraturčiams);
+3) leidžiama statyti naujus, rekonstruoti esamus sodybos pastatus ir inžinerinius statinius sodybose, laikantis etnografinio regiono architektūros ir sodybų planavimo tradicijomis pagrįstų reikalavimų. Sodyboje gali būti tik vienas gyvenamosios paskirties pastatas (namas), kuris gali būti vieno ar dviejų butų. Sodybos ar atstatomi buvusios sodybos pastatai ir jos inžineriniai statiniai išdėstomi viename iki 2 hektarų ploto žemės sklype arba didesnio sklypo dalyje, nesuformuotoje atskiru sklypu ir apimančioje iki 2 hektarų plotą, išskyrus atvejus, kai atstatomi istorinės dvaro sodybos statiniai, kurie (registruoti Kultūros vertybių registre kaip nekilnojamosios kultūros vertybės) buvo išdėstyti didesniame kaip 2 hektarų plote. Jeigu atliekant kadastrinius matavimus vienos sodybos pastatų ir inžinerinių statinių užimama žemė priskiriama keliems gretimiems žemės sklypams dėl to, kad sodybą padalija viešasis kelias ar upė, laikoma, kad sodyba yra išsidėsčiusi keliuose žemės sklypuose (žemės valdoje), ir šiame straipsnyje nustatyta pastatų ir inžinerinių statinių statybos sodybose teisė juose taikoma tol, kol šie žemės sklypai ir juose esantys statiniai priklauso tam pačiam žemės savininkui (bendraturčiams);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1503, 2018-09-27, paskelbta TAR 2018-10-09, i. k. 2018-15982
 
 4) leidžiama atkurti kultūros paveldo objektus pagal Nekilnojamojo kultūros paveldo apsaugos įstatymą;
 
@@ -1954,7 +1968,7 @@ _
 
 10) draudžiama statyti naujus ūkinės veiklos objektus su įrenginiais, kuriems reikalingi taršos integruotos prevencijos ir kontrolės leidimai arba taršos leidimai (išskyrus atvejus, kai sodybos ar buvusios sodybos pertvarkomos į kaimo turizmo sodybas, kurios taršos leidimus turėti privalo tik dėl to, kad planuoja per parą į aplinką išleisti daugiau kaip 5 kubinius metrus buitinių nuotekų), aerodromus, oro uostų infrastruktūros statinius ir įrenginius, vėjo elektrines (išskyrus šio straipsnio 5 dalies 2 punkte nurodytus atvejus), statyti vizualinę taršą sukeliančius statinius;
 
-11) leidžiama įrengti saulės šviesos energijos elektrines, saulės šilumos energijos kolektorius tik ant pastatų stogų ir (ar) pastatų fasadų, kurie nėra matomi nuo gamtos ir kultūros paveldo objektų (kompleksų), gatvės, kelio ar apžvalgos vietų (regyklų), turizmo trasų. Pastatuose ar sodybose, kurie yra kultūros paveldo objektai, šių inžinerinių statinių (įrenginių) statyba draudžiama.
+11) leidžiama įrengti saulės šviesos energijos elektrines, saulės šilumos energijos kolektorius tik ant pastatų stogų ir (ar) pastatų fasadų, kurie nėra matomi nuo gamtos ir kultūros paveldo objektų (kompleksų), gatvės, kelio ar apžvalgos vietų (regyklų), turizmo trasų. Pastatuose ar sodybose, kurie yra kultūros paveldo objektai, šių inžinerinių statinių (įrenginių) statyba draudžiama;
 
 4. Kultūriniuose draustiniuose draudžiama:
 
@@ -1974,7 +1988,11 @@ _
 
 6. Draustiniuose skatinama veikla, išsauganti, palaikanti ir išryškinanti kraštovaizdį, gamtos ir nekilnojamąsias kultūros vertybes, atkurianti tradicinius gamtinės ar kultūrinės aplinkos elementus, išsauganti etnografinio regiono architektūros ir sodybų planavimo tradicijas, taip pat tradiciniai verslai, pažintinis turizmas, invazinių rūšių gausos reguliavimas, saugomų rūšių apsaugos priemonių įgyvendinimas.
 
-7. Valstybiniams ir savivaldybių draustiniams, taip pat valstybiniuose parkuose ir biosferos stebėsenos (monitoringo) teritorijose esantiems draustiniams taikomas šiame straipsnyje nustatytas veiklos reglamentavimas. Šio straipsnio 2 dalyje nustatyti apsaugos reikalavimai ir etnografinio regiono architektūros ir sodybų planavimo reikalavimai detalizuojami draustinio nuostatuose (kai draustinis yra valstybiniame parke ar biosferos rezervate, – valstybinio parko ar biosferos rezervato nuostatuose), atsižvelgiant į jo kraštovaizdžio, gamtos ir nekilnojamųjų kultūros vertybių ypatumus ir apibrėžtą draustinio išskirtinę vertę, o draustinio, kuriam nėra patvirtintų individualių jo nuostatų, – bendruose gamtinių ir kompleksinių draustinių nuostatuose, kuriuose reikalavimai detalizuojami atsižvelgiant į šio Įstatymo 8 straipsnyje nurodytas gamtinių ir kompleksinių draustinių rūšis ir jų steigimo tikslus. Šio straipsnio 3 dalyje nustatyti statybų reikalavimai detalizuojami draustinių tvarkymo planuose (kai draustiniai yra valstybiniuose parkuose ir biosferos rezervatuose, – valstybinių parkų ir biosferos rezervatų planavimo schemose (ribų ir tvarkymo planuose).
+7. Valstybiniams ir savivaldybių draustiniams, taip pat valstybiniuose parkuose ir biosferos stebėsenos (monitoringo) teritorijose esantiems draustiniams taikomas šiame straipsnyje nustatytas veiklos reglamentavimas. Atsižvelgiant į šio Įstatymo 8 straipsnyje nurodytų gamtinių ir kompleksinių draustinių rūšis ir jų steigimo tikslus, taip pat į kraštovaizdžio, gamtos ir nekilnojamųjų kultūros vertybių ypatumus ir draustinio išskirtinę vertę, apsaugos ir tvarkymo reikalavimai bei etnografinio regiono architektūros ir sodybų planavimo tradicijomis pagrįsti reikalavimai nustatomi draustinio nuostatuose (kai draustinis yra valstybiniame parke ar biosferos rezervate, – valstybinio parko ar biosferos rezervato nuostatuose). Draustiniams, kuriems nėra patvirtinti individualūs nuostatai, apsaugos ir tvarkymo reikalavimai bei etnografinio regiono architektūros ir sodybų planavimo tradicijomis pagrįsti reikalavimai nustatomi bendruose gamtinių ir kompleksinių draustinių nuostatuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1503, 2018-09-27, paskelbta TAR 2018-10-09, i. k. 2018-15982
 
 Straipsnio pakeitimai:
 
