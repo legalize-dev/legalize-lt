@@ -4,7 +4,7 @@ identifier: "TAR.5F9F5C944DB1"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-16"
-last_updated: "2017-07-01"
+last_updated: "2018-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5F9F5C944DB1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2018-10-31
+Suvestinė redakcija nuo 2018-11-01 iki 2021-10-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 102-2921, i. k. 0991010ISTAIII-1422
 
@@ -32,8 +32,6 @@ ATSISKAITYMO UŽ ŽEMĖS ŪKIO PRODUKCIJĄ
 1999 m. lapkričio 16 d. Nr. VIII-1422
 
 Vilnius
-
-TAR pastaba. Šio įstatymo (2013-03-28, Nr. XII-207) nuostatos taikomos žemės ūkio produkcijos pirkimo–pardavimo sutartims, sudarytoms įsigaliojus šiam įstatymui.
 
 PIRMASIS SKIRSNIS
 
@@ -305,13 +303,15 @@ ATSISKAITYMO UŽ ŽEMĖS ŪKIO PRODUKCIJĄ KONTROLĖ IR INFORMACIJOS TEIKIMAS
 
 2. Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka informaciją apie atsiskaitymo už žemės ūkio produkciją būklę teritorinėms valstybinėms mokesčių inspekcijoms kas mėnesį privalo teikti žemės ūkio produkcijos, kuriai Vyriausybė nustato atsiskaitymo terminus, pirkėjai:
 
-1) prekybos įmonės, kurių pajamos per paskutinius ataskaitinius metus yra 2,9 milijono eurų arba daugiau;
+1) prekybos įmonės, kurių pajamos per paskutinius ataskaitinius metus yra 1,5 milijono eurų arba daugiau;
 
-2) žemės ūkio produktų perdirbimo įmonės, kiti ūkio ir viešieji subjektai, superkantys žemės ūkio produktus apdoroti, apdirbti, perdirbti, naudoti savo ūkio reikmėms ar maitinimo poreikiams tenkinti ir (arba) parduoti ir kurių pajamos per paskutinius ataskaitinius metus yra 0,87 milijono eurų arba daugiau.
+2) žemės ūkio produktų perdirbimo įmonės, kiti ūkio ir viešieji subjektai, superkantys žemės ūkio produktus apdoroti, apdirbti, perdirbti, naudoti savo ūkio reikmėms ar maitinimo poreikiams tenkinti ir (arba) parduoti ir kurių pajamos per paskutinius ataskaitinius metus yra 0,3 milijono eurų arba daugiau.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
+
+Nr. XIII-1270, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10515
 
 3. Savivaldybės vykdomosios institucijos arba jų įgalioti asmenys turi teisę tikrinti, ar žemės ūkio produkcijos pirkėjai, laikydamiesi įstatymų ir kitų teisės aktų reikalavimų, sudaro rašytines žemės ūkio produkcijos pirkimo–pardavimo sutartis, apskaičiuoja pavėluoto mokėjimo palūkanas ir atsiskaito su žemės ūkio produkcijos pardavėjais, taip pat teikti siūlymus Vyriausybei dėl priemonių atsiskaitymo už žemės ūkio produkciją būklei gerinti.
 
@@ -334,8 +334,6 @@ Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
-______________
 
 Lietuvos Respublikos  atsiskaitymo už žemės ūkio produkciją įstatymo
 
@@ -420,4 +418,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-259, 2017-03-30, paskelbta TAR 2017-04-19, i. k. 2017-06597
 
 Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 2 straipsnio pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1270, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10515
+
+Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 14 straipsnio pakeitimo įstatymas
 
