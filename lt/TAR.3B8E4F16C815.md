@@ -4,7 +4,7 @@ identifier: "TAR.3B8E4F16C815"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-10-02"
-last_updated: "2017-01-01"
+last_updated: "2018-11-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3B8E4F16C815"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "25 straipsnio 2 dalis įsigalioja 2012-10-20"
 
 LIETUVOS RESPUBLIKOS KRIMINALINĖS ŽVALGYBOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-10-31
+Suvestinė redakcija nuo 2018-11-01 iki 2018-12-28
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 122-6093, i. k. 1121010ISTA0XI-2234
 
@@ -150,11 +150,13 @@ Kriminalinės žvalgybos uždaviniai yra šie:
 
 8. Jeigu įgyvendinant kriminalinės žvalgybos kontrolę nustatoma, kad kriminalinės žvalgybos metu buvo pažeistos žmogaus teisės ir laisvės, apie tai informuojamas kriminalinės žvalgybos pagrindinės institucijos vadovas. Kriminalinės žvalgybos pagrindinės institucijos vadovas privalo informuoti asmenį apie jo atžvilgiu kriminalinės žvalgybos metu padarytus pažeidimus, išskyrus atvejus, kai pateikus tokią informaciją gali būti padaryta žala nebaigtiems kriminalinės žvalgybos tyrimams ar atskleista kriminalinės žvalgybos slaptųjų dalyvių tapatybė. Jeigu tuo metu pateikta tokia informacija gali padaryti žalos nebaigtiems kriminalinės žvalgybos tyrimams, ji tuoj pat turi būti pateikta baigus kriminalinės žvalgybos tyrimą.
 
-9. Asmuo, manantis, kad kriminalinės žvalgybos subjektų veiksmai pažeidė jo teises ir laisves, gali apskųsti šiuos veiksmus kriminalinės žvalgybos pagrindinės institucijos vadovui arba prokurorui. Šis skundas turi būti išnagrinėtas ne vėliau kaip per 20 darbo dienų nuo jo gavimo dienos. Asmuo, nesutinkantis su kriminalinės žvalgybos pagrindinės institucijos vadovo ar prokuroro sprendimu, gali per 20 darbo dienų nuo jo gavimo dienos paduoti skundą apygardos teismo pirmininkui ar jo įgaliotam teisėjui. Galutinis sprendimas priimamas ne vėliau kaip per 20 darbo dienų nuo skundo gavimo dienos.
+9. Asmuo, manantis, kad kriminalinės žvalgybos subjektų veiksmai pažeidė jo teises ir laisves, gali apskųsti šiuos veiksmus kriminalinės žvalgybos pagrindinės institucijos vadovui, o šio įstatymo 22 straipsnio 1 dalyje numatytais atvejais – prokurorui. Asmuo, nesutinkantis su kriminalinės žvalgybos pagrindinės institucijos vadovo arba prokuroro sprendimu, gali per 20 darbo dienų nuo sprendimo gavimo dienos paduoti skundą apygardos teismo pirmininkui ar jo įgaliotam teisėjui. Šie skundai turi būti išnagrinėti ne vėliau kaip per 20 darbo dienų nuo skundo gavimo dienos. Apygardos teismo pirmininko ar jo įgalioto teisėjo sprendimas yra galutinis ir neskundžiamas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-729, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00067
+
+Nr. XIII-1502, 2018-09-27, paskelbta TAR 2018-10-04, i. k. 2018-15801
 
 ANTRASIS SKIRSNIS
 
@@ -576,7 +578,11 @@ Nr. XII-729, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00067
 
 22 straipsnis. Kriminalinės žvalgybos koordinavimas ir teisėtumo kontrolė
 
-1. Kriminalinės žvalgybos subjektų veiklą koordinuoja ir jų teisėtumą kontroliuoja prokurorai, rengdami motyvuotus teikimus, numatytus šio įstatymo 10, 11 ir 12 straipsniuose, sankcionuodami ar atsisakydami sankcionuoti veiksmus, nustatytus šio įstatymo 13, 14 ir 15 straipsniuose, ir gaudami informaciją apie veiksmų, nustatytų šio įstatymo 10, 11, 12, 13, 14 ir 15 straipsniuose, atlikimo eigą ir rezultatus. Generalinis prokuroras nustato šio įstatymo 10, 11, 12, 13, 14 ir 15 straipsniuose nustatytų veiksmų koordinavimo ir teisėtumo kontrolės tvarką.
+1. Kriminalinės žvalgybos subjektų veiklą koordinuoja ir jų veiklos teisėtumą kontroliuoja prokurorai, rengdami motyvuotus teikimus, numatytus šio įstatymo 10, 11 ir 12 straipsniuose, sankcionuodami ar atsisakydami sankcionuoti veiksmus, nustatytus šio įstatymo 13, 14 ir 15 straipsniuose, ir gaudami informaciją apie veiksmų, nustatytų šio įstatymo 10, 11, 12, 13, 14 ir 15  straipsniuose, atlikimo eigą ir rezultatus, nagrinėdami asmenų skundus dėl galimai pažeistų žmogaus teisių ir laisvių atliekant šio įstatymo 10, 11, 12, 13, 14 ir 15 straipsniuose nustatytus veiksmus. Generalinis prokuroras nustato šio įstatymo 10, 11, 12, 13, 14 ir 15 straipsniuose nustatytų veiksmų koordinavimo ir teisėtumo kontrolės tvarką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1502, 2018-09-27, paskelbta TAR 2018-10-04, i. k. 2018-15801
 
 2. Tirdamas asmenų skundus ir kai yra pagrindas dėl kriminalinės žvalgybos subjektų galbūt atliktų neteisėtų veiksmų, prokuroras gali reikalauti kriminalinės žvalgybos subjekto pateikti visą informaciją, susijusią su nagrinėjamu skundu, išskyrus duomenis, galinčius atskleisti kriminalinės žvalgybos slaptųjų dalyvių asmens tapatybę. Šie duomenys gali būti pateikti kriminalinės žvalgybos pagrindinės institucijos vadovo sprendimu generaliniam prokurorui arba jo įgaliotam prokurorui jų motyvuotu prašymu.
 
@@ -717,4 +723,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2590, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20304
 
 Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1502, 2018-09-27, paskelbta TAR 2018-10-04, i. k. 2018-15801
+
+Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 5 ir 22 straipsnių pakeitimo įstatymas
 
