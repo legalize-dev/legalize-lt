@@ -4,7 +4,7 @@ identifier: "TAR.FF00B0EA2F0E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-01-22"
-last_updated: "2018-01-01"
+last_updated: "2018-11-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FF00B0EA2F0E"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asociacijų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-11-12
+Suvestinė redakcija nuo 2018-11-13 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 25-745, i. k. 1041010ISTA0IX-1969
 
@@ -162,17 +162,19 @@ Nr. XII-1653, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06557
 
 6) priima sprendimą dėl asociacijos pertvarkymo ar pabaigos (reorganizavimo ar likvidavimo);
 
-7) priima sprendimą dėl kitų juridinių asmenų steigimo ar dėl tapimo kitų juridinių asmenų dalyviu, jeigu asociacijos įstatai nenustato kitaip.
+7) priima sprendimą dėl kitų juridinių asmenų steigimo ar dėl tapimo kitų juridinių asmenų dalyviu, jeigu asociacijos įstatai nenustato kitaip;
 
 2. Visuotinis narių susirinkimas sprendžia ir kitus šiame Įstatyme ir asociacijos įstatuose visuotinio narių susirinkimo kompetencijai priskirtus klausimus, jei pagal šį Įstatymą tai nepriskirta kitų asociacijos organų kompetencijai ir jei pagal esmę tai nėra valdymo organo funkcijos.
 
 3. Visuotinis narių susirinkimas neturi teisės pavesti kitiems asociacijos organams spręsti visuotinio narių susirinkimo kompetencijai priklausančių klausimų, išskyrus šio straipsnio 1 dalies 2, 3 ir 7 punktuose numatytus atvejus.
 
-4. Visuotiniame narių susirinkime sprendžiamojo balso teisę turi visi asociacijos nariai. Vienas narys visuotiniame narių susirinkime turi vieną balsą. Jeigu asociacijos įstatuose numatytas kitas visas ar dalį visuotinio narių susirinkimo teisių turintis organas (konferencija, suvažiavimas, kongresas, asamblėja ar kt.), kai šis organas priima sprendimus, kiekvienas asociacijos nariams atstovaujantis asmuo turi tiek balsų, keliems asociacijos nariams jis atstovauja. Visas ar dalį visuotinio narių susirinkimo teisių turinčiame organe narys dalyvauja asmeniškai pats (fizinis asmuo arba vienasmenis valdymo organas, o įstatymuose ir steigimo dokumentuose nustatytais atvejais – kitų organų nariai bei dalyviai – fiziniai asmenys, veikiantys pagal įstatymuose ir steigimo dokumentuose (įstatuose, nuostatuose) jiems suteiktas teises ir pareigas), išskyrus įstatymų nustatytas išimtis, arba įstatymų nustatyta tvarka įgalioja kitą asmenį, arba su juo sudaro balsavimo teisės perleidimo sutartį. Asociacijos narys – juridinis asmuo gali būti atstovaujamas visuotiniame narių susirinkime tik to juridinio asmens darbuotojų, dalyvių ar valdymo organo narių.
+4. Visuotiniame narių susirinkime sprendžiamojo balso teisę turi visi asociacijos nariai. Vienas narys visuotiniame narių susirinkime turi vieną balsą. Jeigu asociacijos įstatuose numatytas kitas visas ar dalį visuotinio narių susirinkimo teisių turintis organas (konferencija, suvažiavimas, kongresas, asamblėja ar kt.), kai šis organas priima sprendimus, kiekvienas asociacijos nariams atstovaujantis asmuo turi tiek balsų, keliems asociacijos nariams jis atstovauja, jeigu asociacijos įstatuose nenustatyta kitaip. Visas ar dalį visuotinio narių susirinkimo teisių turinčiame organe narys dalyvauja asmeniškai pats (fizinis asmuo arba vienasmenis valdymo organas, o įstatymuose ir steigimo dokumentuose nustatytais atvejais – kitų organų nariai bei dalyviai – fiziniai asmenys, veikiantys pagal įstatymuose ir steigimo dokumentuose (įstatuose, nuostatuose) jiems suteiktas teises ir pareigas), išskyrus įstatymų nustatytas išimtis, arba įstatymų nustatyta tvarka įgalioja kitą asmenį, arba su juo sudaro balsavimo teisės perleidimo sutartį. Asociacijos narys – juridinis asmuo gali būti atstovaujamas visuotiniame narių susirinkime tik to juridinio asmens darbuotojų, dalyvių ar valdymo organo narių.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1222, 2010-12-14, Žin., 2010, Nr. 153-7790 (2010-12-28), i. k. 1101010ISTA0XI-1222
+
+Nr. XIII-1595, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18209
 
 5. Asociacijos valdymo organų ir kitų kolegialių organų nariai, jeigu jie nėra asociacijos nariai, gali dalyvauti visuotiniame narių susirinkime be balso teisės.
 
@@ -467,4 +469,20 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-488, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11075
 
 Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 10 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
+
+Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 8, 9, 10, 16 ir 17 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1595, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18209
+
+Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 8 straipsnio pakeitimo įstatymas
 
