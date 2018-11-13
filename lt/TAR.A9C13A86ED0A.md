@@ -4,7 +4,7 @@ identifier: "TAR.A9C13A86ED0A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2018-07-01"
+last_updated: "2018-11-13"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A9C13A86ED0A"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-11-12
+Suvestinė redakcija nuo 2018-11-13 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 58-1133, i. k. 0941010ISTA000I-555
 
@@ -72,7 +72,11 @@ I SKYRIUS BENDROSIOS NUOSTATOS
 
 3. Kolektyvinės gynybos operacija – bendros gynybos operacija, vykdoma pagal kolektyvinės gynybos sutartį vienos ar kelių sutarties šalių ginkluoto užpuolimo atveju, taip pat pasirengimas šiai operacijai.
 
-4. Kita karinė operacija (toliau – kita operacija) – bet kuri kita, nei kolektyvinės gynybos, tarptautinė operacija (taip pat pasirengimas šiai operacijai), atitinkanti Jungtinių Tautų tikslus ir principus, įskaitant šio straipsnio 3 dalyje nenurodytas kolektyvinės savigynos operacijas įgyvendinant Jungtinių Tautų Įstatų 51 straipsnyje pripažintą kiekvienos valstybės neatimamą teisę į individualią ir kolektyvinę savigyną.
+4. Kita karinė operacija (toliau – kita operacija) – bet kuri kita, nei kolektyvinės gynybos, tarptautinė operacija (taip pat pasirengimas šiai operacijai), atitinkanti Jungtinių Tautų tikslus ir principus, įskaitant šio straipsnio 3 dalyje nenurodytas kolektyvinės savigynos operacijas įgyvendinant Jungtinių Tautų Įstatų 51 straipsnyje pripažintą kiekvienos valstybės neatimamą teisę į individualią ir kolektyvinę savigyną. Kitai karinei operacijai prilyginami atvejai, kai įgyvendinant tarptautinės organizacijos sprendimą ir (arba) užsienio valstybės pagalbos prašymą daugiau kaip 10 Lietuvos Respublikos karių siunčiami į užsienio valstybę ilgesniam kaip 90 dienų terminui vykdyti mokymo užduočių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1599, 2018-11-06, paskelbta TAR 2018-11-12, i. k. 2018-18210
 
 5. Tarptautinės karinės pratybos (toliau – pratybos) – pasirengimo tarptautinėms operacijoms ir kitos kovinio parengimo pratybos, kuriose Lietuvos Respublikos kariniai vienetai dalyvauja kartu su kitų valstybių kariniais vienetais arba užsienio valstybių kariniai vienetai naudojasi Lietuvos Respublikos krašto apsaugos sistemos reikmėms skirtais infrastruktūros objektais ir karinio mokymo teritorijomis.
 
@@ -92,9 +96,13 @@ Straipsnio pakeitimai:
 
 Nr. X-182, 2005-05-12, Žin., 2005, Nr. 66-2351 (2005-05-26)
 
-3 straipsnis. Lietuvos Respublikos karinių vienetų, karių ir civilių krašto apsaugos sistemos tarnautojų dalyvavimo tarptautinėse operacijose, pratybose ir kituose renginiuose, taip pat užsienio valstybių karinių vienetų, karių ir karinėms pajėgoms priskirtų civilių tarnautojų dalyvavimo tarptautinėse operacijose, pratybose ir kituose renginiuose Lietuvos Respublikos teritorijoje teisiniai pagrindai
+3 straipsnis. Lietuvos Respublikos karinių vienetų, karių ir civilių krašto apsaugos sistemos tarnautojų dalyvavimo tarptautinėse operacijose, pratybose ir kituose renginiuose, taip pat užsienio valstybių karinių vienetų, karių ir karinėms pajėgoms priskirtų civilių tarnautojų dalyvavimo tarptautinėse operacijose, pratybose ir kituose renginiuose Lietuvos Respublikos teritorijoje pagrindai
 
-Šio Įstatymo nustatytais atvejais ir tvarka Lietuvos Respublikos kariniai vienetai, kariai ir civiliai krašto apsaugos sistemos tarnautojai gali dalyvauti tarptautinėse operacijose, pratybose ir kituose renginiuose, taip pat užsienio valstybių kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai gali dalyvauti tarptautinėse operacijose, pratybose ir kituose renginiuose Lietuvos Respublikos teritorijoje tik tada, kai dėl to priimamas kompetentingos Lietuvos valstybės institucijos ar kompetentingo pareigūno sprendimas, grindžiamas Lietuvos Respublikos Konstitucijos, tarptautinių sutarčių ar susitarimų ir šio Įstatymo nuostatomis.
+Šio Įstatymo nustatytais atvejais ir tvarka Lietuvos Respublikos kariniai vienetai, kariai ir civiliai krašto apsaugos sistemos tarnautojai gali dalyvauti tarptautinėse operacijose, pratybose ir kituose renginiuose, taip pat užsienio valstybių kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai gali dalyvauti tarptautinėse operacijose, pratybose ir kituose renginiuose Lietuvos Respublikos teritorijoje tik tada, kai dėl to priimamas kompetentingos Lietuvos valstybės institucijos ar kompetentingo pareigūno sprendimas, atitinkantis Lietuvos Respublikos Konstituciją ir Lietuvos Respublikos tarptautines sutartis ar kitas tarptautinės teisės normas ar principus.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1599, 2018-11-06, paskelbta TAR 2018-11-12, i. k. 2018-18210
 
 II SKYRIUS TARPTAUTINĖS OPERACIJOS
 
