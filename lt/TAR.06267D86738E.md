@@ -4,7 +4,7 @@ identifier: "TAR.06267D86738E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-07-09"
-last_updated: "2018-11-10"
+last_updated: "2018-11-13"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2018-11-10 iki 2018-11-12
+Suvestinė redakcija nuo 2018-11-13 iki 2018-12-21
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
 
@@ -902,7 +902,11 @@ Nr. XII-2052, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18860
 
 6) įgaliojimą atstovui rinkimams atstovauti Vyriausiojoje rinkimų komisijoje, taip pat turi teisę pateikti įgaliojimus atstovauti jai ir jos keliamiems kandidatams apygardų rinkimų komisijose;
 
-7) dokumentą, patvirtinantį, kad partija ar asmuo, keliamas kandidatu vienmandatėje rinkimų apygardoje, sumokėjo rinkimų užstatą, ir pranešimą, kuriame nurodoma Lietuvos Respublikoje registruotoje kredito įstaigoje arba kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje registruotos kredito įstaigos padalinyje, veikiančiame Lietuvos Respublikoje, atidaryta sąskaita, į kurią bus grąžinamas rinkimų užstatas pagal šio įstatymo 41 straipsnio 5 dalį;
+7) dokumentą, patvirtinantį, kad partija ar asmuo, keliamas kandidatu vienmandatėje rinkimų apygardoje, sumokėjo rinkimų užstatą, ir pranešimą, kuriame nurodoma Lietuvos Respublikoje registruotoje kredito įstaigoje arba kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje registruotos kredito įstaigos padalinyje, veikiančiame Lietuvos Respublikoje, atidaryta sąskaita, į kurią bus grąžinamas rinkimų užstatas pagal šio įstatymo 41 straipsnio 5 ar 6 dalį;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1581, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18195
 
 8) jeigu partija paskutiniuose Seimo, Europos Parlamento arba savivaldybių tarybų rinkimuose buvo iškėlusi kandidatus arba kandidatų sąrašus, ji turi teisę pateikti atitinkamos politinės kampanijos finansavimo ataskaitos kopiją;
 
@@ -914,7 +918,11 @@ Nr. XII-2052, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18860
 
 2) paties pasirašytą įsipareigojimą, jeigu jis bus išrinktas, nutraukti darbo ar kitokią veiklą, nesuderinamą su Seimo nario statusu, paties užpildytą kandidato į Seimo narius anketą ir gyventojų pajamų mokesčio bei gyventojo turto deklaracijų, pateiktų valstybinei mokesčių inspekcijai, pagrindinių duomenų išrašus, patvirtintus tos mokesčių inspekcijos, kuriai deklaracijos buvo pateiktos, taip pat privačių interesų deklaraciją ir Vyriausiosios rinkimų komisijos nustatytos formos pasižadėjimą laikytis draudimo papirkti rinkėjus. Asmuo turi pateikti savo fotonuotraukas, autobiografiją;
 
-3) dokumentą, patvirtinantį, kad asmuo, nusprendęs išsikelti kandidatu į Seimo narius, sumokėjo rinkimų užstatą, ir pranešimą, kuriame nurodoma Lietuvos Respublikoje registruotoje kredito įstaigoje arba kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje registruotos kredito įstaigos padalinyje, veikiančios Lietuvos Respublikoje, atidaryta sąskaita, į kurią bus grąžinamas rinkimų užstatas pagal šio įstatymo 41 straipsnio 5 dalį. Taip pat gali būti pateiktas kandidato įgaliojimas jam atstovauti Vyriausiojoje rinkimų komisijoje ir tos apygardos rinkimų komisijoje.
+3) dokumentą, patvirtinantį, kad asmuo, nusprendęs išsikelti kandidatu į Seimo narius, sumokėjo rinkimų užstatą, ir pranešimą, kuriame nurodoma Lietuvos Respublikoje registruotoje kredito įstaigoje arba kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje registruotos kredito įstaigos padalinyje, veikiančiame Lietuvos Respublikoje, atidaryta sąskaita, į kurią bus grąžinamas rinkimų užstatas pagal šio įstatymo 41 straipsnio 5 ar 6 dalį. Be to, gali būti pateiktas kandidato įgaliojimas atstovauti jam Vyriausiojoje rinkimų komisijoje ir tos apygardos rinkimų komisijoje.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1581, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18195
 
 3. Kandidato į Seimo narius anketoje pilietis, išsikėlęs arba keliamas kandidatu į Seimo narius, pats turi įrašyti: pavardę, vardą, paso arba asmens tapatybės kortelės numerį, asmens kodą, gimimo datą, nuolatinės gyvenamosios vietos adresą, ar neturi nebaigtos atlikti teismo nuosprendžiu paskirtos bausmės, ar jis nėra asmuo, atliekantis tikrąją karo arba alternatyviąją krašto apsaugos tarnybą, neišėjęs į atsargą krašto apsaugos sistemos, policijos ir vidaus tarnybos karininkas, puskarininkis ar liktinis, kitos sukarintos ar saugumo tarnybos apmokamas pareigūnas. Kandidato į Seimo narius anketoje taip pat gali būti pateikiama ir kitų Vyriausiosios rinkimų komisijos nustatytų klausimų, į kuriuos asmuo gali ir neatsakyti. Kandidatas į Seimo narius taip pat privalo raštu pranešti Vyriausiajai rinkimų komisijai, ar jis yra, ar buvo ir kada buvo kitos valstybės (kitų valstybių) pilietis, ir, jeigu tokių aplinkybių yra, pateikti kitos valstybės (kitų valstybių) pilietybę patvirtinantį dokumentą, o Vyriausiosios rinkimų komisijos reikalavimu – Lietuvos Respublikos, kitos valstybės (kitų valstybių) kompetentingų institucijų išduotą dokumentą apie kitos valstybės (kitų valstybių) pilietybės atsisakymą ar jos netekimą, taip pat atitinkamos formos ir turinio rašytinį sutikimą, kad Vyriausioji rinkimų komisija galėtų gauti duomenis iš Lietuvos Respublikos, kitos valstybės (kitų valstybių) kompetentingų institucijų apie kandidato į Seimo narius turimą ar turėtą kitos valstybės (kitų valstybių) pilietybę, jos atsisakymą ar netekimą.
 
@@ -1032,7 +1040,17 @@ Straipsnio dalies pakeitimai:
 
 Nr. XII-2052, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18860
 
-6. Negrąžintini užstatai pervedami į valstybės biudžetą.
+6. Vyriausioji rinkimų komisija ne vėliau kaip per 60 dienų po rinkimų galutinių rezultatų oficialaus paskelbimo grąžina rinkimų užstatą jį sumokėjusiai partijai arba asmeniui, jeigu politinės kampanijos dalyvis Vyriausiajai rinkimų komisijai politinės kampanijos finansavimo ataskaitą, jos priedus bei išlaidas ir pajamas pagrindžiančius dokumentus pateikia ne vėliau kaip per 10 dienų nuo rinkimų galutinių rezultatų oficialaus paskelbimo dienos ir jeigu yra šio straipsnio 5 dalies 2 ir 3 punktuose nustatytos sąlygos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1581, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18195
+
+7. Negrąžintini užstatai pervedami į valstybės biudžetą.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-1581, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18195
 
 Straipsnio pakeitimai:
 
@@ -2317,6 +2335,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1575, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18180
 
 Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 61 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1581, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18195
+
+Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 38 ir 41 straipsnių pakeitimo įstatymas
 
 671 straipsnis. Balsavimas namuose ir balsavimas iš anksto
 
