@@ -4,7 +4,7 @@ identifier: "TAR.94F5702CA0F1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-09"
-last_updated: "2018-01-01"
+last_updated: "2018-11-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-11-20
+Suvestinė redakcija nuo 2018-11-21 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
 
@@ -439,11 +439,13 @@ Straipsnio dalies pakeitimai:
 
 Nr. XI-1978, 2012-04-19, Žin., 2012, Nr. 50-2443 (2012-04-28), i. k. 1121010ISTA0XI-1978
 
-6. Vykdymo išlaidų dydį, apskaičiavimo ir apmokėjimo tvarką nustato Teisingumo ministerija, suderinusi su Finansų ministerija ir Lietuvos antstolių rūmais.
+6. Vykdymo išlaidų dydį, apskaičiavimo ir apmokėjimo tvarką nustato Teisingumo ministerija, suderinusi su Finansų ministerija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XI-1978, 2012-04-19, Žin., 2012, Nr. 50-2443 (2012-04-28), i. k. 1121010ISTA0XI-1978
+
+Nr. XIII-1606, 2018-11-08, paskelbta TAR 2018-11-20, i. k. 2018-18679
 
 7. Antstolis privalo Vyriausybei arba jos įgaliotai institucijai jų nustatyta tvarka teikti gautų pajamų ir patirtų išlaidų atliekant antstolio funkcijas ir teikiant paslaugas ataskaitas.
 
@@ -1012,6 +1014,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2481, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17979
 
 Lietuvos Respublikos antstolių įstatymo Nr. IX-876 20 ir 26 straipsnių pakeitimo įstatymas
+
+16.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1606, 2018-11-08, paskelbta TAR 2018-11-20, i. k. 2018-18679
+
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 21 straipsnio pakeitimo įstatymas
 
 431 straipsnis. Elektroninės vykdomosios bylos, informacinių ir elektroninių ryšių technologijų naudojimas antstolių veikloje
 
