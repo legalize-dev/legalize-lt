@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2018-07-17"
+last_updated: "2018-11-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2018-07-17 iki 2018-11-20
+Suvestinė redakcija nuo 2018-11-21 iki 2018-11-28
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -227,7 +227,11 @@ Nr. XIII-602, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12175
 
 14) sąlygų savivaldybės teritorijoje gyvenančių neįgaliųjų socialiniam integravimui į bendruomenę sudarymas;
 
-15) savivaldybės socialinio būsto fondo sudarymas ir jo remontas, socialinio būsto nuoma;
+15) paramos būstui įsigyti ar išsinuomoti teikimas Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo nustatyta tvarka;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1639, 2018-11-15, paskelbta TAR 2018-11-20, i. k. 2018-18680
 
 16) dalyvavimas sprendžiant gyventojų užimtumo, kvalifikacijos įgijimo ir perkvalifikavimo klausimus, viešųjų ir sezoninių darbų organizavimas;
 
@@ -869,7 +873,11 @@ Nr. XIII-443, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10804
 
 30) sprendimų dėl socialinės ir gamybinės infrastruktūros objektų projektavimo ir statybos, dėl pavedimo savivaldybės administracijai ir kitiems subjektams atlikti šių darbų užsakovo funkcijas priėmimas;
 
-31) sprendimų dėl socialinio būsto fondo sudarymo (statybos, pirkimo ir t. t.) tvarkos, būsto suteikimo tvarkos ir dėl savivaldybės gyvenamųjų patalpų nuomos mokesčio dydžio priėmimas;
+31) sprendimų dėl savivaldybės būsto ir socialinio būsto fondo sudarymo (statybos, pirkimo ir t. t.) tvarkos, būsto suteikimo tvarkos ir nuomos mokesčio dydžio priėmimas, kitų sprendimų, numatytų Paramos būstui įsigyti ar išsinuomoti įstatyme, priėmimas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1639, 2018-11-15, paskelbta TAR 2018-11-20, i. k. 2018-18680
 
 32) savivaldybės bendrojo plano ar savivaldybės dalių bendrųjų planų tvirtinimas įstatymų nustatyta tvarka;
 
