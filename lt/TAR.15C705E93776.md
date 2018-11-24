@@ -4,7 +4,7 @@ identifier: "TAR.15C705E93776"
 country: "lt"
 rank: "istatymas"
 publication_date: "1998-05-05"
-last_updated: "2018-07-01"
+last_updated: "2018-11-24"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-11-23
+Suvestinė redakcija nuo 2018-11-24 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
 
@@ -3824,6 +3824,12 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+
+11. Asmenys, kurie karo tarnybą krašto apsaugos sistemoje pradėjo iki 1991 m. rugpjūčio 23 d. ir su kuriais tarnybinių gyvenamųjų patalpų nuomos sutartys buvo sudarytos iki 2001 m. liepos 1 d., gali būti iškeldinti iš tarnybinių gyvenamųjų patalpų tik suteikus kitas gyvenamąsias patalpas, atitinkančias techninius ir higienos reikalavimus, toje pačioje apskrityje.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1645, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18931
 
 Straipsnio pakeitimai:
 
