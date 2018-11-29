@@ -4,7 +4,7 @@ identifier: "TAR.D0CD0966D67F"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-07"
-last_updated: "2018-11-21"
+last_updated: "2018-11-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.D0CD0966D67F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2018-11-21 iki 2018-11-28
+Suvestinė redakcija nuo 2018-11-29 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
 
@@ -519,11 +519,13 @@ PLANAVIMAS IR PLANAI SAVIVALDYBĖJE
 
 5. Tarybos narys visas valstybės politiko ir savivaldybės bendruomenės atstovo teises įgyja tik po to, kai prisiekia šio įstatymo nustatyta tvarka.
 
-6. Per du mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos arba nuo tiesiogiai išrinkto mero priesaikos priėmimo dienos turi būti paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryti savivaldybės tarybos komitetai ir paskirti šių komitetų pirmininkai, sudarytos šiame įstatyme nustatytos komisijos ir paskirti šių komisijų pirmininkai, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti. Jeigu mero pavaduotojo (pavaduotojų) įgaliojimai nutrūksta ir (ar) savivaldybės administracijos direktorius atleidžiamas iš pareigų prieš terminą, per du mėnesius nuo jo įgaliojimų nutrūkimo ar atleidimo iš pareigų dienos savivaldybės taryba turi paskirti mero pavaduotoją (pavaduotojus) ir (ar) savivaldybės administracijos direktorių.
+6. Per du mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos arba nuo tiesiogiai išrinkto mero priesaikos priėmimo dienos turi būti paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryti savivaldybės tarybos komitetai ir paskirti šių komitetų pirmininkai, sudarytos šiame įstatyme nustatytos komisijos ir paskirti šių komisijų pirmininkai, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti. Jeigu mero pavaduotojo (pavaduotojų) ir (ar) Kontrolės komiteto pirmininko, ir (ar) šiame įstatyme nustatytų komisijų pirmininkų įgaliojimai nutrūksta ir (ar) savivaldybės administracijos direktorius atleidžiamas iš pareigų prieš terminą, per du mėnesius nuo jų įgaliojimų nutrūkimo ar atleidimo iš pareigų dienos savivaldybės taryba turi paskirti mero pavaduotoją (pavaduotojus) ir (ar) savivaldybės administracijos direktorių, ir (ar) Kontrolės komiteto pirmininką, ir (ar) šiame įstatyme nustatytų komisijų pirmininkus.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
+
+Nr. XIII-1655, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19165
 
 7. Šio straipsnio 6 dalies nuostata (išskyrus tarybos komitetų bei įstatyme nustatytų komisijų sudarymą) netaikoma, jeigu išrinktas meras kitų įstatymų nustatyta tvarka laikinai nušalintas nuo pareigų. Pasibaigus išrinkto mero laikino nušalinimo laikotarpiui ne vėliau kaip per 5 kalendorines dienas turi būti sušauktas savivaldybės tarybos posėdis, kuriame išrinktas meras prisiekia (jeigu jis nebuvo prisiekęs). Nuo šio posėdžio dienos per du mėnesius turi būti paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti.
 
@@ -1571,7 +1573,11 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 16) organizuoja savivaldybės strateginio planavimo procesą, atsako už patvirtintų savivaldybės planavimo dokumentų ir jų įgyvendinimo ataskaitų viešinimą.
 
-9. Kai savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas, savivaldybės administracijos direktorius ir jo pavaduotojas (pavaduotojai) yra pavaldūs ir atskaitingi Vyriausybės įgaliotiniui.
+9. Kai savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas, savivaldybės administracijos direktoriaus ir jo pavaduotojo (pavaduotojų) įgaliojimų klausimas sprendžiamas Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatyme nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1655, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19165
 
 Straipsnio pakeitimai:
 
