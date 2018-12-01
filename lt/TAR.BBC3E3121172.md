@@ -4,7 +4,7 @@ identifier: "TAR.BBC3E3121172"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-04-18"
-last_updated: "2017-12-01"
+last_updated: "2018-12-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.BBC3E3121172"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,15 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2017-12-01 iki 2018-11-30
+Įstatymas netenka galios 2019-01-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1385, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12053
+
+Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto patvirtinimo įstatymo Nr. VIII-1631 pripažinimo netekusiu galios įstatymas
+
+Suvestinė redakcija nuo 2018-12-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 39-1088, i. k. 1001010ISTAIII-1631
 
