@@ -4,7 +4,7 @@ identifier: "TAR.C40F7F89A7C3"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-02"
-last_updated: "2018-07-01"
+last_updated: "2018-12-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C40F7F89A7C3"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-11-30
+Suvestinė redakcija nuo 2018-12-01 iki 2020-04-30
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 46-1116, i. k. 0961010ISTA00I-1324
 
@@ -32,13 +32,15 @@ Vilnius
 
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
-1. Šis įstatymas nustato naudojamų potencialiai pavojingų įrenginių, kurių grupės nurodytos šio įstatymo 3 straipsnyje, priežiūros ir jos atlikimo kontrolės bendruosius principus, siekiant užtikrinti saugų įrenginių darbą ir žmonių gyvybės, sveikatos ir aplinkos apsaugą nuo galimo žalingo šių įrenginių poveikio. Šis įstatymas taip pat taikomas branduolinės energetikos objektuose esantiems potencialiai pavojingiems įrenginiams, kurie branduolinės energetikos objekto projekte priskiriami prie neturinčių įtakos branduolinei saugai, ir įrenginių, sumontuotų ir naudojamų geležinkelių ar automobilių transporto priemonėse, priežiūrai. Pavojingų medžiagų talpykloms, gabenamoms geležinkeliu, šis įstatymas taikomas tik atliekant jų techninės būklės tikrinimą.
+1. Šis įstatymas nustato naudojamų potencialiai pavojingų įrenginių, kurių grupės nurodytos šio įstatymo 3 straipsnyje, priežiūros ir jos atlikimo kontrolės bendruosius principus, siekiant užtikrinti saugų įrenginių darbą ir žmonių gyvybės, sveikatos ir aplinkos apsaugą nuo galimo žalingo šių įrenginių poveikio. Šis įstatymas taip pat taikomas įrenginių, sumontuotų ir naudojamų geležinkelių ar automobilių transporto priemonėse, priežiūrai. Pavojingų medžiagų talpykloms, gabenamoms geležinkeliu, šis įstatymas taikomas tik atliekant jų techninės būklės tikrinimą.
 
-2. Šis įstatymas netaikomas įrenginiams, kurie projektuojami, įrengiami ir eksploatuojami pagal Branduolinės energijos įstatymo, Branduolinės saugos įstatymo, Radioaktyviųjų atliekų tvarkymo įstatymo, Radiacinės saugos įstatymo nuostatas ir kitų branduolinę ir radiacinę saugą reglamentuojančių teisės aktų reikalavimus, taip pat įrenginiams, naudojamiems išimtinai gynybos tikslams.
+2. Šis įstatymas netaikomas įrenginiams, kurių priežiūra yra vykdoma vadovaujantis Lietuvos Respublikos branduolinės saugos įstatymu, Lietuvos Respublikos branduolinės energijos įstatymu, Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymu ir Lietuvos Respublikos radiacinės saugos įstatymu, išskyrus branduolinės energetikos objektuose esančius šio įstatymo 3 straipsnio 1 dalies 8 punkte nurodytos grupės įrenginius, taip pat įrenginiams, naudojamiems išimtinai gynybos tikslams.
 
 Straipsnio pakeitimai:
 
 Nr. XI-1543, 2011-06-28, Žin., 2011, Nr. 91-4320 (2011-07-19), i. k. 1111010ISTA0XI-1543
+
+Nr. XIII-1642, 2018-11-15, paskelbta TAR 2018-11-20, i. k. 2018-18681
 
 2 straipsnis. Pagrindinės sąvokos
 
@@ -385,6 +387,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1159, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08531
 
 Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo Nr. I-1324 5-1 ir 10-1 straipsnių pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1642, 2018-11-15, paskelbta TAR 2018-11-20, i. k. 2018-18681
+
+Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo Nr. I-1324 1 straipsnio pakeitimo įstatymas
 
 12 straipsnis. Įrenginių projektuotojų, gamintojų pareigos
 
