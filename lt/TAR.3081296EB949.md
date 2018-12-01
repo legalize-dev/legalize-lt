@@ -4,7 +4,7 @@ identifier: "TAR.3081296EB949"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-10-10"
-last_updated: "2014-01-01"
+last_updated: "2018-12-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3081296EB949"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,15 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2018-11-30
+Įstatymas netenka galios 2019-01-01:
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1389, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12058
+
+Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymo Nr. VIII-1986 pripažinimo netekusiu galios įstatymas
+
+Suvestinė redakcija nuo 2018-12-01 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2917; Žin. 2003, Nr.64-2881, i. k. 1001010ISTAIII-1986
 
@@ -1260,6 +1268,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2345, 2012-11-06, Žin., 2012, Nr. 132-6673 (2012-11-15), i. k. 1121010ISTA0XI-2345
 
 Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymo 11 straipsnio pakeitimo įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1383, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12051
+
+Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto 2 straipsnio pakeitimo įstatymas
 
 57 straipsnis. Prievartos ir šaunamojo ginklo naudojimo sąlygos
 
