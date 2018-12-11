@@ -4,7 +4,7 @@ identifier: "TAR.ED68997709F5"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-05"
-last_updated: "2018-01-01"
+last_updated: "2018-12-11"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 department: "Lietuvos Respublikos Seimas"
@@ -20,9 +20,17 @@ entry_into_force_conditions: "1. Įstatymo 19 straipsnio 3 dalies 2 punktas įsi
 ---
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-10
+Suvestinė redakcija nuo 2018-12-11 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
+
+TAR pastaba. Iki įstatymo Nr. XIII-1681 įsigaliojimo (2019-01-01) įsigytų (importuotų) pramogoms ir reprezentacijai skirtų prekių ir paslaugų, kurių įsigijimo išlaidų pagal pelno (pajamų) apmokestinimą reglamentuojančius teisės aktus neleidžiama atimti iš gautų pajamų apskaičiuojant apmokestinamąjį pelną (pajamas), pirkimo (importo) PVM atskaitai nurodytuose teisės aktuose nustatytas 2 procentų pajamų kriterijus netaikomas nuo 2019 m. sausio 1 d.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 13, 15, 24, 62, 64, 78-1, 115-1 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 9-1 ir 26-1 straipsniais įstatymas
 
 LIETUVOS RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMAS
 
@@ -1436,7 +1444,11 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 1. Pirkimo PVM gali būti įtraukiamas į PVM atskaitą tik tuo atveju, jeigu PVM mokėtojas turi atitinkamą PVM sąskaitą faktūrą. Turimoje PVM sąskaitoje faktūroje ši PVM suma turi būti išskirta, o PVM mokėtojas nurodytas kaip prekių ir (arba) paslaugų pirkėjas, jeigu šiame straipsnyje nenustatyta kitaip. Turima PVM sąskaita faktūra privalo atitikti visus šio Įstatymo ir kitų jį įgyvendinančių teisės aktų reikalavimus (išskyrus reikalavimus dėl rekvizitų: PVM sąskaitoje faktūroje, kurioje nurodytas PVM traukiamas į PVM atskaitą, privalo būti šio Įstatymo 80 straipsnio 1 dalyje nurodyti rekvizitai). Jeigu PVM mokėtojas buvo į PVM atskaitą įtraukęs pirkimo PVM nuo prekių tiekėjui arba paslaugų teikėjui sumokėtų avansų, tokia (tokiomis) pirkimo PVM suma (sumomis) atitinkamai mažinama pagal galutinę PVM sąskaitą faktūrą į PVM atskaitą įtrauktina pirkimo PVM suma.
 
-2. Jeigu šiame straipsnyje nenustatyta kitaip, kai šio straipsnio 1 dalyje nurodytą PVM sąskaitą-faktūrą sudaro keli egzemplioriai, į PVM atskaitą pirkimo PVM suma gali būti įtraukiama tik tada, kai PVM mokėtojas turi šio dokumento pirmąjį egzempliorių, o jeigu pirmasis egzempliorius yra prarastas, – sandorio šalių arba teisės aktų nustatyta tvarka patvirtintą kopiją.
+2. Jeigu šiame straipsnyje nenustatyta kitaip, į PVM atskaitą pirkimo PVM suma gali būti įtraukiama tik tada, kai PVM mokėtojas turi PVM sąskaitą faktūrą, o jeigu PVM sąskaita faktūra, kuri yra rašytinė, yra prarasta, – sandorio šalių arba teisės aktų nustatyta tvarka patvirtintą kopiją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
 
 3. Pirkimo PVM, šio Įstatymo nustatyta tvarka apskaičiuotas už iš kitos valstybės narės įsigyjamas prekes, į PVM atskaitą gali būti įtrauktas tik tuo atveju, kai įsigytų prekių apmokestinamoji vertė ir pardavimo PVM, apskaičiuotas už šias prekes, yra deklaruoti šio Įstatymo nustatyta tvarka teikiamoje PVM deklaracijoje, o PVM mokėtojas turi PVM sąskaitą faktūrą, kuria įformintas prekių tiekimas ir kuri atitinka reikalavimus, keliamus PVM sąskaitai faktūrai, kuria įforminamas prekių tiekimas kitoje valstybėje narėje registruotam PVM mokėtojui. Jeigu PVM sąskaita faktūra nėra gauta, tačiau prievolė apskaičiuoti pardavimo PVM pagal šio Įstatymo 14 straipsnį atsirado, pirkimo PVM gali būti atskaitytas, jeigu tenkinami kiti šioje dalyje nustatyti reikalavimai. Ta pačia tvarka atskaitomos ir pirkimo PVM sumos už prekes ir paslaugas, kai pagal šio Įstatymo nuostatas prievolė apskaičiuoti pardavimo PVM už tiekiamas prekes ir teikiamas paslaugas tenka jų pirkėjui.“
 
