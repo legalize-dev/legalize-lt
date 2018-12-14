@@ -4,7 +4,7 @@ identifier: "TAR.2E7C18F61454"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-02-28"
-last_updated: "2018-12-01"
+last_updated: "2018-12-14"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. sausio 1 d."
 ---
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2018-12-01 iki 2018-12-13
+Suvestinė redakcija nuo 2018-12-14 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
 
@@ -5284,6 +5284,12 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 5. Jeigu apeliacinės instancijos teismas ar kasacinis teismas, neperduodamas bylos iš naujo nagrinėti, pakeičia teismo sprendimą arba priima naują sprendimą, jis atitinkamai pakeičia bylinėjimosi išlaidų paskirstymą. Jeigu apeliacinės instancijos teismas ar kasacinis teismas bylinėjimosi išlaidų nepaskirsto, šį klausimą išspendžia pirmosios instancijos teismas.
 
 6. Bylinėjimosi išlaidos, susidariusios dėl teismo kreipimosi į Konstitucinį Teismą ar kompetentingą Europos Sąjungos teisminę instituciją, taip pat dėl kreipimosi į administracinį teismą dėl norminio teisės akto teisėtumo, proceso dalyviams nepaskirstomos.
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos civilinio proceso kodekso 93 straipsnio 6 dalis (2011 m. birželio 21 d. redakcija; Žin., 2011, Nr. 85-4126) prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, 109 straipsnio 1 daliai, konstituciniams teisinės valstybės, teisingumo principams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. KT22-N12/2018, 2018-12-14, paskelbta TAR 2018-12-14, i. k. 2018-20548
 
 Straipsnio pakeitimai:
 
