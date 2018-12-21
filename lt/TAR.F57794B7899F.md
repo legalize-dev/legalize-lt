@@ -4,7 +4,7 @@ identifier: "TAR.F57794B7899F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-07-20"
-last_updated: "2018-11-01"
+last_updated: "2018-12-21"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2018-11-01 iki 2018-12-20
+Suvestinė redakcija nuo 2018-12-21 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
 
@@ -941,6 +941,12 @@ Nr. XIII-614, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12337
 6. Išduotų leidimų plėtoti elektros energijos gamybos pajėgumus ir tiesti tiesioginę liniją galiojimo terminas pratęsiamas ne daugiau kaip du kartus:
 
 1) vieną kartą ne ilgesniam kaip 12 mėnesių, o plėtojant elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių – 6 mėnesių laikotarpiui, jeigu asmuo, kreipdamasis dėl leidimo galiojimo termino pratęsimo, pateikia įrodymus, pagrindžiančius, kad atlikti suplanuotus darbus vėluojama dėl valstybės, trečiųjų asmenų veiksmų ar nenugalimos jėgos aplinkybių;
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos elektros energetikos įstatymo 16 straipsnio (2015 m. gegužės 7 d. redakcija; TAR, 2015-05-20, Nr. 07656) 6 dalies 1 punkte nustatytas teisinis reguliavimas tiek, kiek pagal jį leidimo plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių galiojimo terminas pratęsiamas vieną kartą 6 mėnesių laikotarpiui, jeigu asmuo, kreipdamasis dėl leidimo galiojimo termino pratęsimo, pateikia įrodymus, pagrindžiančius, kad atlikti suplanuotus darbus vėluojama dėl valstybės, trečiųjų asmenų veiksmų ar nenugalimos jėgos aplinkybių, neatsižvelgiant į tai, kiek trunka šios aplinkybės, prieštarauja Lietuvos Respublikos Konstitucijos 46 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+
+Straipsnio punkto pakeitimai:
+
+Nr. KT24-N14/2018, 2018-12-21, paskelbta TAR 2018-12-21, i. k. 2018-21226
 
 2) vieną kartą ne ilgesniam kaip 6 mėnesių laikotarpiui, jeigu asmuo, kreipdamasis dėl leidimo galiojimo termino pratęsimo, pateikia statybą leidžiantį dokumentą, išskyrus teisės aktų nustatytus atvejus, kai statybą leidžiantis dokumentas neprivalomas, ir dokumentus, įrodančius, kad atlikta ne mažiau kaip 50 procentų projekto įgyvendinimo darbų.
 
