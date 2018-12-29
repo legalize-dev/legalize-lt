@@ -4,7 +4,7 @@ identifier: "TAR.67B5099C5848"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-01-14"
-last_updated: "2018-07-16"
+last_updated: "2018-12-29"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.67B5099C5848"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr. –––––
 
-Suvestinė redakcija nuo 2018-07-16 iki 2018-12-28
+Suvestinė redakcija nuo 2018-12-29 iki 2018-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
 
@@ -539,7 +539,11 @@ BENDROSIOS NUOSTATOS DĖL SKUNDŲ (PRAŠYMŲ, PAREIŠKIMŲ)
 
 2. Išskyrus šio įstatymo 36 straipsnyje nustatytus atvejus, prie skundo (prašymo, pareiškimo) turi būti pridedamas žyminio mokesčio kvitas arba motyvuotas prašymas atleisti nuo žyminio mokesčio.
 
-3. Skundo (prašymo, pareiškimo) su priedais egzempliorių (kopijų) turi būti tiek, kad juos būtų galima įteikti kiekvienai proceso šaliai ir dar liktų egzempliorius teisme, išskyrus atvejus, kai skundas (prašymas, pareiškimas) paduodamas elektroninių ryšių priemonėmis.
+3. Skundo (prašymo, pareiškimo) su priedais egzempliorių (kopijų) turi būti tiek, kad juos būtų galima įteikti kiekvienai proceso šaliai ir dar liktų egzempliorius teisme, išskyrus atvejus, kai skundas (prašymas, pareiškimas) paduodamas elektroninių ryšių priemonėmis arba kai dėl didelės apimties teismas leidžia nepateikti skundo (prašymo, pareiškimo) priedų proceso šalims. Tuo atveju, kai skundo (prašymo, pareiškimo) priedų egzempliorių (kopijų) pateikiama mažiau, negu yra proceso šalių, siunčiant skundo (prašymo, pareiškimo) kopiją proceso šalims, joms pranešama, kaip galima susipažinti su skundo (prašymo, pareiškimo) priedais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 IV SKYRIUS
 
@@ -741,17 +745,27 @@ Administracinis teismas, atsižvelgdamas į turtinę fizinio asmens ar fizinių 
 
 41 straipsnis. Sprendimo dėl išlaidų atlyginimo priėmimas
 
-1. Dėl išlaidų atlyginimo suinteresuota proceso šalis teismui pateikia prašymą raštu su išlaidų apskaičiavimu ir pagrindimu. Prašymai dėl išlaidų atlyginimo, nepaduoti teismui iki bylos nagrinėjimo iš esmės pabaigos, turi būti paduoti teismui ne vėliau kaip per keturiolika kalendorinių dienų nuo sprendimo įsiteisėjimo dienos.
+1. Dėl išlaidų atlyginimo suinteresuota proceso šalis iki bylos nagrinėjimo iš esmės pabaigos teismui pateikia prašymą raštu su išlaidų apskaičiavimu ir pagrindimu. Prašymus dėl išlaidų atlyginimo teismas išnagrinėja priimdamas sprendimą dėl administracinės bylos.
 
-2. Iki bylos nagrinėjimo iš esmės pabaigos administraciniame teisme pateiktus prašymus dėl išlaidų atlyginimo teismas išnagrinėja priimdamas sprendimą dėl administracinės bylos. Kitais atvejais prašymą dėl išlaidų atlyginimo teismas išnagrinėja paprastai rašytinio proceso tvarka priimdamas nutartį.
+2. Jeigu pareiškėjas atsisako skundo (prašymo, pareiškimo) dėl to, kad atsakovas geruoju patenkina jo reikalavimą, teismas bylinėjimosi išlaidų atlyginimo klausimą išsprendžia nutartimi.
 
-3. Pirmosios instancijos teismo nutartis dėl išlaidų atlyginimo per septynias kalendorines dienas nuo paskelbimo gali būti skundžiama Lietuvos vyriausiajam administraciniam teismui.
+3. Jeigu Lietuvos vyriausiasis administracinis teismas, neperduodamas bylos iš naujo nagrinėti, pakeičia pirmosios instancijos teismo sprendimą arba priima naują sprendimą, jis atitinkamai pakeičia bylinėjimosi išlaidų paskirstymą. Jeigu Lietuvos vyriausiasis administracinis teismas bylinėjimosi išlaidų nepaskirsto, šį klausimą išsprendžia pirmosios instancijos teismas paprastai rašytinio proceso tvarka priimdamas nutartį.
+
+4. Pirmosios instancijos teismo nutartis dėl išlaidų atlyginimo per septynias kalendorines dienas nuo paskelbimo gali būti skundžiama Lietuvos vyriausiajam administraciniam teismui.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 42 straipsnis. Valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo valstybei tvarka
 
 1. Jeigu proceso šaliai, kurios naudai priimtas sprendimas, buvo paskirta valstybės garantuojama teisinė pagalba, teismas savo iniciatyva, gavęs iš valstybės garantuojamos teisinės pagalbos teikimą organizuojančios institucijos duomenis apie apskaičiuotas teisinės pagalbos išlaidas, išsprendžia valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo valstybei klausimą, mutatis mutandis taikydamas šio įstatymo 40 ir 41 straipsnių nuostatas, reglamentuojančias išlaidų atlyginimą.
 
-2. Jeigu valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo klausimas nebuvo išspręstas priimant sprendimą išnagrinėjus bylą iš esmės, valstybės garantuojamos teisinės pagalbos teikimą organizuojanti institucija turi teisę ne vėliau kaip per keturiolika kalendorinių dienų nuo šio sprendimo įsiteisėjimo pateikti teismui prašymą dėl valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo valstybei. Šį prašymą teismas išnagrinėja šio įstatymo 41 straipsnio 2 dalyje nurodyta tvarka.
+2. Jeigu valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo klausimas nebuvo išspręstas priimant sprendimą išnagrinėjus bylą iš esmės, valstybės garantuojamos teisinės pagalbos teikimą organizuojanti institucija turi teisę ne vėliau kaip per keturiolika kalendorinių dienų nuo šio sprendimo įsiteisėjimo pateikti teismui prašymą dėl valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo valstybei. Šiuo atveju teismas išsprendžia valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo valstybei klausimą priimdamas papildomą sprendimą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 VII SKYRIUS
 
@@ -1123,7 +1137,11 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 2. Teisė atlikti procesinius veiksmus išnyksta pasibaigus įstatymo nustatytam ar teismo paskirtam jiems atlikti terminui. Skundai (prašymai, pareiškimai) ir dokumentai, paduoti pasibaigus tam terminui, grąžinami juos padavusiems asmenims.
 
-3. Teismas turi teisę atnaujinti praleistą terminą savo iniciatyva, kai iš turimos medžiagos matyti, kad terminas praleistas dėl svarbių priežasčių.
+3. Asmenims, praleidusiems procesinių veiksmų atlikimo terminus dėl priežasčių, kurias teismas pripažįsta svarbiomis, praleistas terminas gali būti atnaujinamas. Prašymas dėl praleisto termino atnaujinimo paduodamas teismui, kuriame reikėjo atlikti procesinį veiksmą, ir nagrinėjamas rašytinio proceso tvarka. Paduodant prašymą dėl termino atnaujinimo, kartu turi būti atliekamas procesinis veiksmas (paduodami procesiniai ar kiti dokumentai ar atliekami kiti veiksmai), kuriam atlikti praleistas terminas. Teismas turi teisę atnaujinti praleistą terminą ir savo iniciatyva, kai iš turimos medžiagos matyti, kad terminas praleistas dėl svarbių priežasčių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 II DALIS
 
@@ -1235,11 +1253,25 @@ Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
 
 4. Prašymą dėl reikalavimo užtikrinimo teisėjas arba teismas išnagrinėja ne vėliau kaip per tris darbo dienas po jo gavimo, atsakovui ir kitiems proceso dalyviams apie tai nepranešama. Jeigu toks prašymas paduodamas kartu su skundu (prašymu, pareiškimu), jis išnagrinėjamas ne vėliau kaip per tris darbo dienas po skundo (prašymo, pareiškimo) priėmimo. Kai teismas arba teisėjas mano, kad dėl prašymo taikyti reikalavimo užtikrinimo priemones yra būtina gauti atsakovo ir (ar) kitų proceso dalyvių nuomonę, toks prašymas turi būti išnagrinėtas per dešimt darbo dienų nuo jo gavimo ar skundo (prašymo, pareiškimo) priėmimo. Šiuo atveju apie prašymo dėl reikalavimo užtikrinimo priemonių taikymo nagrinėjimą pranešama atsakovui ir (ar) kitiems proceso dalyviams ir nurodomas terminas, per kurį atsakovas ir (ar) kiti proceso dalyviai turi pateikti nuomonę. Dėl reikalavimo užtikrinimo teismas arba teisėjas priima nutartį, kurioje nurodo jos įvykdymo tvarką ir būdą.
 
-5. Dėl teismo nutarčių reikalavimo užtikrinimo klausimais gali būti duodamas atskirasis skundas. Atskirojo skundo dėl nutarties užtikrinti reikalavimą padavimas nesustabdo nutarties vykdymo ir bylos nagrinėjimo.
+5. Apie nutarties dėl reikalavimo užtikrinimo priemonių taikymo priėmimą pranešama asmeniui, kuriam taikomos reikalavimo užtikrinimo priemonės, ir jam išaiškinama atsakomybė už nustatytų apribojimų pažeidimą.
 
-6. Teismo nutartis užtikrinti reikalavimą skubiai vykdoma. Nutartis pakeisti vieną reikalavimo užtikrinimo priemonę kita arba panaikinti reikalavimo užtikrinimą vykdoma pasibaigus terminui toms nutartims apskųsti, o jeigu atskirasis skundas paduotas, – priėmus nutartį atmesti atskirąjį skundą. Šiame straipsnyje nurodytos nutartys vykdomos teismo sprendimams vykdyti nustatyta tvarka.
+6. Reikalavimo užtikrinimo priemonės gali būti pakeistos arba panaikinamos teismo, nagrinėjančio bylą iš esmės, iniciatyva arba proceso dalyvių šiam teismui pateiktu pagrįstu prašymu. Kai teismo taikytos reikalavimo užtikrinimo priemonės apriboja, pažeidžia ar suvaržo byloje nedalyvaujančių asmenų teises, šie asmenys turi teisę bylą iš esmės nagrinėjančiam teismui pateikti prašymus pakeisti arba panaikinti jiems taikytas reikalavimo užtikrinimo priemones. Reikalavimo užtikrinimo priemonės pakeičiamos arba panaikinamos teismo, nagrinėjančio bylą iš esmės, nutartimi.
 
-7. Jeigu pažeidžiami draudimai, nurodyti šio straipsnio 3 dalyje, kaltiems asmenims teismo nutartimi skiriama iki 300 eurų bauda. Dėl teismo nutarties skirti baudą gali būti duodamas atskirasis skundas.
+7. Dėl teismo nutarčių reikalavimo užtikrinimo klausimais gali būti duodamas atskirasis skundas. Atskirojo skundo dėl nutarties užtikrinti reikalavimą padavimas nesustabdo nutarties vykdymo ir bylos nagrinėjimo.
+
+8. Teismo nutartis užtikrinti reikalavimą skubiai vykdoma. Nutartis pakeisti vieną reikalavimo užtikrinimo priemonę kita arba panaikinti reikalavimo užtikrinimą vykdoma pasibaigus terminui toms nutartims apskųsti, o jeigu atskirasis skundas paduotas, – priėmus nutartį atmesti atskirąjį skundą. Šiame straipsnyje nurodytos nutartys vykdomos teismo sprendimams vykdyti nustatyta tvarka.
+
+9. Teismui atmetus skundą (prašymą, pareiškimą), reikalavimo užtikrinimo priemonės, kurios buvo taikytos, paliekamos iki teismo sprendimo įsiteisėjimo. Teismas reikalavimo užtikrinimo priemonių panaikinimo klausimą turi išspręsti sprendimu.
+
+10. Jeigu skundas (prašymas, pareiškimas) patenkinamas, taikytos reikalavimo užtikrinimo priemonės galioja iki teismo sprendimo įvykdymo.
+
+11. Jeigu skundas (prašymas, pareiškimas) patenkinamas iš dalies, taikytų reikalavimo užtikrinimo priemonių galiojimo klausimą išsprendžia teismas, priimdamas sprendimą.
+
+12. Jeigu pažeidžiami draudimai, nurodyti šio straipsnio 3 dalyje, kaltiems asmenims teismo nutartimi skiriama iki 300 eurų bauda. Dėl teismo nutarties skirti baudą gali būti duodamas atskirasis skundas.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 71 straipsnis. Atsiliepimo į skundą (prašymą, pareiškimą) reikalavimas
 
@@ -1461,11 +1493,13 @@ Nr. XIII-609, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12430
 
 4. Kai atsakovas pareiškėjo reikalavimus pripažįsta visiškai, teismas sprendime gali surašyti sutrumpintus motyvus, nurodydamas: teismo nustatytas aplinkybes, įrodymus, kuriais grindžiamos teismo išvados, įstatymus, kuriais teismas vadovavosi.
 
-5. Teismas, išnagrinėjęs bylą, gali atidėti teismo sprendimo priėmimą ir paskelbimą ne ilgiau kaip keturiolikai darbo dienų, o išnagrinėjęs bylą dėl norminio administracinio akto teisėtumo, – ne ilgiau kaip vienam mėnesiui. Dėl svarbių priežasčių administracinę bylą nagrinėjančio teisėjo ar administracinę bylą nagrinėjančios teisėjų kolegijos nario (narių) motyvuotu prašymu teismo pirmininkas ar jo paskirtas teisėjas motyvuota nutartimi gali pratęsti šiuos terminus ne ilgiau kaip keturiolikai darbo dienų. Kai suserga ar dėl kitų objektyvių priežasčių procese negali dalyvauti bylą nagrinėjantis teisėjas ar bylą nagrinėjančios teisėjų kolegijos narys (nariai), teismo pirmininkas ar jo paskirtas teisėjas nutartimi gali pratęsti šį terminą iki objektyvių priežasčių išnykimo. Jeigu objektyvios priežastys, dėl kurių buvo pratęstas teismo sprendimo priėmimo ir paskelbimo terminas, neišnyksta per protingą laiką, teismo pirmininkas ar jo paskirtas teisėjas paskiria naujos sudėties bylą nagrinėjantį teismą ir nustato bylos nagrinėjimo datą. Apie teismo sprendimo paskelbimo laiką ir vietą pranešama proceso šalims. Kol rengiamas teismo sprendimas, kolegijos teisėjai gali nagrinėti kitas bylas. Teismo sprendimą, kurio priėmimas ir paskelbimas buvo atidėtas, gali paskelbti vienas iš bylą nagrinėjusių teisėjų, kitiems kolegijos teisėjams nedalyvaujant.
+5. Teismas, išnagrinėjęs bylą, gali atidėti teismo sprendimo priėmimą ir paskelbimą ne ilgiau kaip dvidešimčiai darbo dienų, o išnagrinėjęs bylą dėl norminio administracinio akto teisėtumo, – ne ilgiau kaip vienam mėnesiui. Dėl svarbių priežasčių administracinę bylą nagrinėjančio teisėjo ar administracinę bylą nagrinėjančios teisėjų kolegijos nario (narių) motyvuotu prašymu teismo pirmininkas ar jo paskirtas teisėjas motyvuota nutartimi gali pratęsti šiuos terminus ne ilgiau kaip dešimčiai darbo dienų. Kai suserga ar dėl kitų objektyvių priežasčių procese negali dalyvauti bylą nagrinėjantis teisėjas ar visi bylą nagrinėjančios teisėjų kolegijos nariai, teismo pirmininkas ar jo paskirtas teisėjas arba kai suserga ar dėl kitų objektyvių priežasčių procese negali dalyvauti vienas ar keli bylą nagrinėjančios teisėjų kolegijos nariai, likę (dalyvaujantys) teisėjų kolegijos nariai (likęs (dalyvaujantis) teisėjų kolegijos narys) nutartimi gali pratęsti šį terminą iki objektyvių priežasčių išnykimo. Jeigu objektyvios priežastys, dėl kurių buvo pratęstas teismo sprendimo priėmimo ir paskelbimo terminas, neišnyksta per protingą laiką, teismo pirmininkas ar jo paskirtas teisėjas paskiria naujos sudėties bylą nagrinėjantį teismą ir nustato bylos nagrinėjimo datą. Apie teismo sprendimo paskelbimo laiką ir vietą pranešama proceso šalims. Kol rengiamas teismo sprendimas, kolegijos teisėjai gali nagrinėti kitas bylas. Teismo sprendimą, kurio priėmimas ir paskelbimas buvo atidėtas, gali paskelbti vienas iš bylą nagrinėjusių teisėjų, kitiems kolegijos teisėjams nedalyvaujant.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+
+Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 6. Kai teismo sprendimo priėmimas ir paskelbimas buvo atidėtas šio straipsnio 5 dalyje nustatyta tvarka ir nė vienas iš proceso dalyvių neatvyko į teismo sprendimo paskelbimą, sprendimo paskelbimui yra prilyginamas bylą išnagrinėjusio teisėjo (teisėjų kolegijos narių) pasirašyto teismo sprendimo pateikimas teismo, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, į kuriuos paskirti teisėjai ar teisėjas išnagrinėjo bylą, raštinei teismo nurodytą teismo sprendimo paskelbimo dieną.
 
@@ -2015,13 +2049,13 @@ GRUPĖS SKUNDAS
 
 127 straipsnis. Individualiosios vienarūšės bylos
 
-1. Teisės ir faktų požiūriu vienarūšės individualiosios administracinės bylos (toliau – individualiosios vienarūšės bylos), kurios kyla dėl norminio teisės akto pripažinimo prieštaraujančiu Konstitucijai ar įstatymams pasekmių, gali būti nagrinėjamos šiame skirsnyje nustatyta modelinio teismo proceso tvarka. Šiame skirsnyje neaptartais atvejais taikomos kitos šio įstatymo nuostatos.
+1. Jeigu yra duomenų, kad viename ar keliuose apygardų administraciniuose teismuose yra nagrinėjama daugiau kaip dvidešimt teisės ir faktų požiūriu vienarūšių individualių administracinių bylų (toliau – individualiosios vienarūšės bylos), šios bylos gali būti nagrinėjamos šiame skirsnyje nustatyta modelinio teismo proceso tvarka. Šiame skirsnyje neaptartais atvejais taikomos kitos šio įstatymo nuostatos.
 
-Straipsnio dalies pakeitimai:
+2. Viena ar daugiau iš šio straipsnio 1 dalyje nurodytų administracinių bylų gali būti nagrinėjama šio įstatymo 129 straipsnyje nustatyta tvarka ir vadinama modeline byla (modelinėmis bylomis).
 
-Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+Straipsnio pakeitimai:
 
-2. Jeigu yra duomenų, kad viename ar keliuose apygardų administraciniuose teismuose yra nagrinėjama daugiau kaip 20 individualiųjų vienarūšių bylų, viena ar daugiau iš anksčiau nurodytų administracinių bylų gali būti nagrinėjama šio įstatymo 129 straipsnyje nustatyta tvarka ir vadinama modeline byla (modelinėmis bylomis).
+Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 129 straipsnis. Modelinės bylos nagrinėjimo ypatumai
 
@@ -2053,13 +2087,29 @@ PAREIŠKIMAS DĖL TEISMO ĮSAKYMO IŠDAVIMO
 
 132 straipsnis. Apygardų administracinių teismų sprendimų apskundimas
 
-1. Apygardų administracinių teismų sprendimai, priimti nagrinėjant bylas pirmąja instancija, apeliacine tvarka per vieną mėnesį nuo sprendimo paskelbimo gali būti skundžiami Lietuvos vyriausiajam administraciniam teismui.
+1. Apygardų administracinių teismų sprendimai, priimti nagrinėjant bylas pirmąja instancija, apeliacine tvarka per trisdešimt kalendorinių dienų nuo sprendimo paskelbimo gali būti skundžiami Lietuvos vyriausiajam administraciniam teismui.
 
-2. Praleidus terminą apeliaciniam skundui paduoti, apelianto prašymu apeliacinis arba pirmosios instancijos teismas, jeigu per jį paduodamas apeliacinis skundas, apeliacinio skundo padavimo terminą gali atnaujinti, jeigu bus pripažinta, kad terminas praleistas dėl svarbios priežasties. Dėl pirmosios instancijos teismo nutarties, kuria atsisakoma atnaujinti terminą apeliaciniam skundui paduoti, gali būti duodamas atskirasis skundas.
+2. Praleidus terminą apeliaciniam skundui paduoti, apelianto prašymu pirmosios instancijos teismas, per kurį paduodamas apeliacinis skundas, apeliacinio skundo padavimo terminą gali atnaujinti, jeigu bus pripažinta, kad terminas praleistas dėl svarbios priežasties. Dėl pirmosios instancijos teismo nutarties, kuria atsisakoma atnaujinti terminą apeliaciniam skundui paduoti, gali būti duodamas atskirasis skundas. Jeigu Lietuvos vyriausiasis administracinis teismas tokį atskirąjį skundą patenkina ir praleistą apeliacinio skundo padavimo terminą atnaujina, teismas ta pačia nutartimi išsprendžia apeliacinio skundo priėmimo klausimą.
+
+3. Tuo atveju, kai Lietuvos vyriausiasis administracinis teismas nustato, kad pirmosios instancijos teismas apeliacinį skundą priėmė praleidus apeliacinio skundo padavimo terminą, jis gali:
+
+1) savo iniciatyva atnaujinti apeliacinio skundo padavimo terminą, jeigu iš turimos medžiagos aiškiai matyti, kad šis terminas praleistas dėl svarbių priežasčių;
+
+2) nutartimi pasiūlyti apeliantui per teismo nustatytą terminą pateikti prašymą dėl apeliacinio skundo padavimo termino atnaujinimo.
+
+4. Prašymas atnaujinti praleistą apeliacinio skundo padavimo terminą negali būti paduotas, jeigu praėjo daugiau kaip trys mėnesiai nuo teismo sprendimo paskelbimo dienos.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 133 straipsnis. Apeliacinių skundų padavimo tvarka
 
-Apeliaciniai skundai raštu arba teisingumo ministro nustatyta tvarka elektronine forma elektroninių ryšių priemonėmis paduodami arba tiesiogiai apeliacinės instancijos teismui, arba per teismą, kurio sprendimas yra skundžiamas. Gavęs apeliacinį skundą, apeliacinės instancijos teismas išreikalauja administracinę bylą ir sprendžia apeliacinio skundo priėmimo klausimą. Prireikus apeliacinio skundo priėmimo klausimą apeliacinės instancijos teismas gali perduoti spręsti tam pirmosios instancijos teismui, kurio sprendimas yra skundžiamas.
+Apeliaciniai skundai raštu arba teisingumo ministro nustatyta tvarka elektronine forma elektroninių ryšių priemonėmis paduodami per teismą, kurio sprendimas yra skundžiamas.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 134 straipsnis. Apeliacinis skundas
 
@@ -2123,7 +2173,11 @@ Apeliacinis procesas vyksta pagal tas pačias taisykles kaip ir procesas pirmosi
 
 138 straipsnis. Apeliacinio skundo priėmimas
 
-1. Apeliacinio skundo priėmimo klausimą sprendžia teismo pirmininkas ar teisėjas ne vėliau kaip per tris darbo dienas nuo jo pateikimo pirmosios instancijos teismui, o kai apeliacinis skundas paduodamas apeliacinės instancijos teismui, – per tris darbo dienas, kai išreikalaujama administracinė byla.
+1. Apeliacinio skundo priėmimo klausimą sprendžia teismo pirmininkas ar teisėjas ne vėliau kaip per tris darbo dienas nuo jo pateikimo pirmosios instancijos teismui. Jeigu byla, kurioje yra gautas apeliacinis skundas, yra išsiųsta į Lietuvos vyriausiąjį administracinį teismą, apeliacinio skundo priėmimo klausimą sprendžia pirmosios instancijos teismo pirmininkas ar teisėjas ne vėliau kaip per tris darbo dienas nuo bylos pateikimo pirmosios instancijos teismui dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 2. Jeigu apeliacinis skundas neatitinka šio įstatymo 134 straipsnyje nustatytų reikalavimų, nutartimi nustatomas terminas trūkumams pašalinti. Kai per teismo nustatytą terminą trūkumai nepašalinami, apeliacinis skundas laikomas nepaduotu ir teisėjo nutartimi grąžinamas apeliantui. Dėl pirmosios instancijos teismo nutarties grąžinti apeliacinį skundą apeliantui gali būti paduodamas atskirasis skundas.
 
@@ -2141,7 +2195,11 @@ Apeliacinis procesas vyksta pagal tas pačias taisykles kaip ir procesas pirmosi
 
 6. Apeliacinės instancijos teismas, nustatęs, kad teismas, spręsdamas apeliacinio skundo priėmimo klausimą, privalėjo apeliantui paskirti terminą apeliacinio skundo trūkumams pašalinti, priima nutartį ir nustato terminą apeliacinio skundo trūkumams pašalinti. Jeigu trūkumai nepašalinami, apeliacinis procesas nutraukiamas.
 
-7. Kai apeliacinis skundas paduodamas apeliacinės instancijos teismui, motyvuotą nutartį atsisakyti priimti apeliacinį skundą priima apeliacinio teismo trijų teisėjų kolegija.
+7. Neteko galios 2018-12-29.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 8. Jeigu šio straipsnio 3 dalyje nurodyti trūkumai paaiškėja nagrinėjant bylą apeliacine tvarka, apeliacinis procesas nutraukiamas.
 
@@ -2167,11 +2225,13 @@ Apeliacinis procesas vyksta pagal tas pačias taisykles kaip ir procesas pirmosi
 
 3. Visas teismo sprendimas ar nutartis išdėstomi raštu ir visų teisėjų pasirašomi.
 
-4. Teismas, išnagrinėjęs bylą, gali atidėti teismo sprendimo priėmimą ir paskelbimą ne ilgiau kaip keturiolikai darbo dienų, o išnagrinėjęs bylą dėl norminio administracinio akto teisėtumo, – ne ilgiau kaip vienam mėnesiui. Dėl svarbių priežasčių administracinę bylą nagrinėjančios teisėjų kolegijos nario (narių) motyvuotu prašymu teismo pirmininkas motyvuota nutartimi gali pratęsti šiuos terminus ne ilgiau kaip keturiolikai darbo dienų. Kai suserga ar dėl kitų objektyvių priežasčių procese negali dalyvauti bylą nagrinėjantis teisėjas ar bylą nagrinėjančios teisėjų kolegijos narys (nariai), teismo pirmininkas nutartimi gali pratęsti šį terminą iki objektyvių priežasčių išnykimo. Apie teismo sprendimo paskelbimo laiką ir vietą pranešama proceso šalims. Kol rengiamas sprendimas, kolegijos teisėjai gali nagrinėti kitas bylas. Jeigu objektyvios priežastys, dėl kurių buvo pratęstas teismo sprendimo priėmimo ir paskelbimo terminas, neišnyksta per protingą laiką, teismo pirmininkas paskiria naujos sudėties bylą nagrinėjantį teismą ir nustato bylos nagrinėjimo datą.
+4. Teismas, išnagrinėjęs bylą, gali atidėti teismo sprendimo priėmimą ir paskelbimą ne ilgiau kaip dvidešimčiai darbo dienų, o išnagrinėjęs bylą dėl norminio administracinio akto teisėtumo, – ne ilgiau kaip vienam mėnesiui. Dėl svarbių priežasčių administracinę bylą nagrinėjančios teisėjų kolegijos nario (narių) motyvuotu prašymu teismo pirmininkas motyvuota nutartimi gali pratęsti šiuos terminus ne ilgiau kaip dešimčiai darbo dienų. Kai suserga ar dėl kitų objektyvių priežasčių procese negali dalyvauti visi bylą nagrinėjančios teisėjų kolegijos nariai, teismo pirmininkas arba kai suserga ar dėl kitų objektyvių priežasčių procese negali dalyvauti vienas ar keli bylą nagrinėjančios teisėjų kolegijos nariai, likę (dalyvaujantys) teisėjų kolegijos nariai (likęs (dalyvaujantis) teisėjų kolegijos narys) nutartimi gali pratęsti šį terminą iki objektyvių priežasčių išnykimo. Apie teismo sprendimo paskelbimo laiką ir vietą pranešama proceso šalims. Kol rengiamas sprendimas, kolegijos teisėjai gali nagrinėti kitas bylas. Jeigu objektyvios priežastys, dėl kurių buvo pratęstas teismo sprendimo priėmimo ir paskelbimo terminas, neišnyksta per protingą laiką, teismo pirmininkas paskiria naujos sudėties bylą nagrinėjantį teismą ir nustato bylos nagrinėjimo datą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+
+Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 5. Sprendimą ar nutartį, kurios priėmimas ir paskelbimas buvo atidėtas, gali paskelbti vienas iš bylą nagrinėjusių teisėjų, kitiems kolegijos teisėjams nedalyvaujant.
 
@@ -2379,7 +2439,11 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 2. Priėmęs prašymą atnaujinti procesą, teismas ne vėliau kaip per 5 darbo dienas jo kopijas išsiunčia proceso šalims. Proceso šalys turi teisę pateikti atsiliepimą į prašymą dėl proceso atnaujinimo per keturiolika kalendorinių dienų nuo prašymo atnaujinti procesą kopijos gavimo. Šio įstatymo 74 straipsnio 7 dalyje nustatytais atvejais teismas prašymo atnaujinti procesą skaitmenines kopijas siunčia elektroninių ryšių priemonėmis.
 
-3. Priimtą nagrinėti prašymą dėl proceso atnaujinimo teismas nagrinėja.
+3. Priimtą nagrinėti prašymą dėl proceso atnaujinimo teismas nagrinėja rašytinio proceso tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 4. Nagrinėdamas prašymą dėl proceso atnaujinimo, teismas patikrina, ar jis pagrįstas įstatymų nustatytais proceso atnaujinimo pagrindais. Prireikus teismas turi teisę pareikalauti iš prašymą padavusio asmens papildomų įrodymų minėtais klausimais.
 
