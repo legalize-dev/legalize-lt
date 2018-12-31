@@ -4,7 +4,7 @@ identifier: "TAR.9A844F180551"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-04"
-last_updated: "2017-07-01"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9A844F180551"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos aplinkos oro apsaugos įstatymas
 
-Suvestinė redakcija nuo 2017-07-01
+Suvestinė redakcija nuo 2018-12-31 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 98-2813, i. k. 0991010ISTAIII-1392
 
@@ -225,7 +225,11 @@ APLINKOS ORO TARŠOS VALDYMAS
 
 10 straipsnis. Aplinkos oro taršos reguliavimo priemonės
 
-1. Aplinkos ministerija nustato leistiną bendrą iš stacionarių taršos šaltinių išmetamų teršalų kiekį visoje Lietuvos Respublikos teritorijoje ir kiekvienoje apskrityje.
+1. Lietuvos Respublikos Seimas Nacionalinėje aplinkos apsaugos strategijoje nustato nacionalinius tarptautiniais ir Europos Sąjungos teisės aktais reguliuojamų oro teršalų išmetamo kiekio mažinimo tikslus ir esmines politikos kryptis šiems tikslams pasiekti. Lietuvos Respublikos Vyriausybė, siekdama įgyvendinti Nacionalinėje aplinkos apsaugos strategijoje nustatytus nacionalinius oro teršalų išmetamo kiekio mažinimo tikslus, tvirtina nacionalinį oro taršos mažinimo planą. Šiame plane oro taršos mažinimo (valdymo) priemonės numatomos atsižvelgiant į šio įstatymo 3 straipsnyje nustatytus aplinkos oro apsaugos prioritetus. Nacionaliniame oro taršos mažinimo plane gali būti nustatytos savivaldybių, ypač tų, kuriose yra šio įstatymo 2 straipsnio 16 dalyje apibrėžtų aglomeracijų, teritorijose taikytinos aplinkos oro taršos ribojimo ir jos neigiamo poveikio aplinkai ir žmonių sveikatai mažinimo priemonės ir iš stacionarių taršos šaltinių į aplinkos orą išmetamą teršalų kiekio mažinimo (valdymo) priemonės.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-428, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10029
 
 2. Siekdama apsaugoti žmonių sveikatą ir aplinką, kai susidaro nepalankios teršalų išsisklaidymo sąlygos arba kai viršijamos ribinės užterštumo vertės ar pavojaus slenksčiai, savivaldybės vykdomoji institucija turi teisę priimti sprendimą dėl transporto priemonių eismo laikino apribojimo arba uždraudimo tam tikroje savivaldybės teritorijoje.
 
