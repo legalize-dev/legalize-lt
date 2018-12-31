@@ -4,7 +4,7 @@ identifier: "TAR.9D1ADB9E1518"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-09-25"
-last_updated: "2018-01-24"
+last_updated: "2018-12-31"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2018-01-24 iki 2018-12-30
+Suvestinė redakcija nuo 2018-12-31 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
 
@@ -812,4 +812,12 @@ TAR pastaba. 2017 metų ataskaitos, nurodytos 131 straipsnio 1 dalyje, teikiamo
 Papildyta straipsniu:
 
 Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
+
+82 straipsnis. Draudimas dalyti lengvuosius plastikinius pirkinių maišelius prekių ar produktų pardavimo vietose
+
+Pakuočių pardavėjams ir platintojams draudžiama prekių ar produktų pardavimo vietose neatlygintinai dalyti lengvuosius plastikinius pirkinių maišelius, išskyrus labai lengvus plastikinius pirkinių maišelius.
+
+Papildyta straipsniu:
+
+Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
 
