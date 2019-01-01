@@ -4,7 +4,7 @@ identifier: "TAR.94F6B680E8B8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-05-21"
-last_updated: "2018-11-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.94F6B680E8B8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
-Suvestinė redakcija nuo 2018-11-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-21
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -178,11 +178,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-953, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21664
 
-3) nedirbantys darbingo amžiaus asmenys, turintys įstatymų nustatytą būtinąjį valstybinio socialinio pensijų draudimo stažą valstybinei socialinio draudimo senatvės pensijai gauti arba turintys iki 2017 m. gruodžio 31 d. įgytą ne mažesnį kaip 30 metų pensijų socialinio draudimo stažą socialinio draudimo senatvės pensijai gauti;
+3) nedirbantys darbingo amžiaus asmenys, turintys įstatymų nustatytą būtinąjį pensijų socialinio draudimo stažą socialinio draudimo senatvės pensijai gauti arba turintys iki 2017 m. gruodžio 31 d. įgytą ne mažesnį kaip 30 metų pensijų socialinio draudimo stažą socialinio draudimo senatvės pensijai gauti;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-953, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21664
+
+Nr. XIII-1341, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10979
 
 4) moterys, kurioms įstatymų nustatyta tvarka suteiktos nėštumo ir gimdymo atostogos, ir nedirbančios moterys nėštumo laikotarpiu 70 dienų (suėjus 28 nėštumo savaitėms ir daugiau) iki gimdymo ir 56 dienas po gimdymo;
 
@@ -618,11 +620,13 @@ biudžetą
 
 1. Seimas, kiekvienais metais tvirtindamas valstybės biudžetą, Vyriausybės teikimu tvirtina į Privalomojo sveikatos draudimo fondo biudžetą pervedamos  įmokos vienam apdraustajam, draudžiamam valstybės lėšomis, dydį.
 
-2. Šio straipsnio 1 dalyje nustatytos įmokos dydis vienam apdraustajam, draudžiamam valstybės lėšomis, nuo 2009 metų yra 32 procentai, 2010 metais – 33 procentai, 2011 metais – 34 procentai, 2012 metais – 35 procentai, 2013 metais – 36 procentai, 2014, 2015 ir 2016 metais – 37 procentai Lietuvos statistikos departamento paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkio, o nuo 2017 metų šios įmokos dydis kiekvienais metais didinamas 2 procentiniais punktais, kol sudarys ne mažiau kaip 9 procentus užpraeitų metų 12 minimaliųjų mėnesinių algų dydžio.
+2. Šio straipsnio 1 dalyje nustatytos įmokos dydis vienam apdraustajam, draudžiamam valstybės lėšomis, 2018 metais sudaro 41 procentą,  2019 metais – 44 procentus, 2020 metais – 47 procentus Lietuvos statistikos departamento paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) vidurkio, o nuo 2021 metų - 6,98  procento užpraeitų metų 12 minimaliųjų mėnesinių algų dydžio.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-2187, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20891
+
+Nr. XIII-1341, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10979
 
 3. Valstybės biudžeto bendros pinigų sumos į Privalomojo sveikatos draudimo fondo biudžetą už apdraustuosius valstybės lėšomis pervedamos teisės aktų nustatyta tvarka.
 
@@ -640,35 +644,33 @@ Nr. XI-1961, 2012-04-12, Žin., 2012, Nr. 48-2330 (2012-04-24)
 
 17 straipsnis. Privalomojo sveikatos draudimo įmokos
 
-1. Draudėjai moka 3 procentų dydžio privalomojo sveikatos draudimo įmokas nuo Valstybinio socialinio draudimo įstatymo nustatyta tvarka apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos, už asmenis, nurodytus Valstybinio socialinio draudimo įstatymo 4 straipsnio 1–5 dalyse.
+1. Asmenų, nurodytų šio straipsnio 2 dalyje, privalomojo sveikatos draudimo įmokas apskaičiuoja ir sumoka draudėjai Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
 
-2. Asmenys, nurodyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 1–5 dalyse, moka 6 procentų dydžio privalomojo sveikatos draudimo įmokas nuo Valstybinio socialinio draudimo įstatymo nustatyta tvarka asmeniui apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos.
+2. Asmenys, nurodyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 1–5 dalyse, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo Valstybinio socialinio draudimo įstatymo nustatyta tvarka asmeniui apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos.
 
-3. Asmenys, gaunantys pajamas pagal autorinę sutartį, pajamas iš sporto ar atlikėjo veiklos, išskyrus asmenis, kurie verčiasi atitinkama individualia veikla, taip pat asmenys, gaunantys tantjemas arba atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, moka 6 procentų dydžio privalomojo sveikatos draudimo įmokas, o draudėjai – 3 procentų dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. Už meno kūrėjo statusą turinčius asmenis, negaunančius pajamų pagal autorinę sutartį ir nepriklausančius asmenims, nurodytiems šio Įstatymo 6 straipsnio 4 dalyje, šio straipsnio 2 ir 4–10 dalyse, privalomojo sveikatos draudimo įmokas sumoka Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytas draudėjas (valstybės biudžeto asignavimų valdytojas) iš Meno kūrėjų socialinės apsaugos programos lėšų Vyriausybės nustatyta tvarka. Šios įmokos dydis – 9 procentai minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną.
+3. Asmenys, gaunantys pajamas pagal autorinę sutartį, pajamas iš sporto ar atlikėjo veiklos, išskyrus asmenis, kurie verčiasi atitinkama individualia veikla, taip pat asmenys, gaunantys tantjemas arba atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. Už meno kūrėjo statusą turinčius asmenis, negaunančius pajamų pagal autorinę sutartį ir nepriklausančius asmenims, nurodytiems šio Įstatymo 6 straipsnio 4 dalyje, šio straipsnio 2 ir 4–10 dalyse, privalomojo sveikatos draudimo įmokas sumoka Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytas draudėjas (valstybės biudžeto asignavimų valdytojas) iš Meno kūrėjų socialinės apsaugos programos lėšų Vyriausybės nustatyta tvarka. Šios įmokos dydis – 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną.
 
-4. 9 procentų dydžio privalomojo sveikatos draudimo įmokas nuo sumos, nuo kurios skaičiuojamos socialinio draudimo įmokos, moka asmenys, kurie verčiasi:
+4. 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo sumos, nuo kurios skaičiuojamos socialinio draudimo įmokos, moka asmenys, kurie verčiasi:
 
 1) individualia ne žemės ūkio veikla (išskyrus šio straipsnio 5 dalyje nurodytus asmenis);
 
 2) individualia žemės ūkio veikla ir yra pridėtinės vertės mokesčio mokėtojai (išskyrus šio straipsnio 8 dalyje nurodytus asmenis).
 
-5. Asmenys, kurie, vykdydami individualią veiklą, gyventojų pajamų mokestį nuo individualios veiklos pajamų sumoka įsigydami verslo liudijimus, kas mėnesį moka 9 procentų minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. Asmenų, nurodytų šio Įstatymo 6 straipsnio 4 dalyje, šio straipsnio 2 dalyje, įmokos apskaičiuojamos proporcingai išduoto verslo liudijimo galiojimo laikotarpiui.
+5. Asmenys, kurie, vykdydami individualią veiklą, gyventojų pajamų mokestį nuo individualios veiklos pajamų sumoka įsigydami verslo liudijimus, kas mėnesį moka 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. Asmenų, nurodytų šio Įstatymo 6 straipsnio 4 dalyje, šio straipsnio 2 dalyje, įmokos apskaičiuojamos proporcingai išduoto verslo liudijimo galiojimo laikotarpiui.
 
-6. Draudėjai (individualios įmonės, ūkinės bendrijos ir mažosios bendrijos) už individualių įmonių savininkus, ūkinių bendrijų tikruosius narius ir mažųjų bendrijų narius moka 9 procentų dydžio privalomojo sveikatos draudimo įmokas nuo sumos, nuo kurios skaičiuojamos jų socialinio draudimo įmokos. Tais atvejais, kai draudėjai laikinai nevykdo veiklos ir apie tai yra informavę Valstybinę mokesčių inspekciją prie Lietuvos Respublikos finansų ministerijos jos nustatyta tvarka arba turintys likviduojamos ar bankrutuojančios įmonės statusą, individualių įmonių savininkai, ūkinių bendrijų tikrieji nariai ir mažųjų bendrijų nariai, jeigu jie nepriskiriami asmenims, išvardytiems šio straipsnio 2–5 ir 7–10 dalyse bei šio Įstatymo 6 straipsnio 4 dalyje, kas mėnesį sumoka už save 9 procentų minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas.
+6. Draudėjai (individualios įmonės, ūkinės bendrijos ir mažosios bendrijos) už individualių įmonių savininkus, ūkinių bendrijų tikruosius narius ir mažųjų bendrijų narius moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo sumos, nuo kurios skaičiuojamos jų socialinio draudimo įmokos. Tais atvejais, kai draudėjai laikinai nevykdo veiklos ir apie tai yra informavę Valstybinę mokesčių inspekciją prie Lietuvos Respublikos finansų ministerijos jos nustatyta tvarka arba turintys likviduojamos ar bankrutuojančios įmonės statusą, individualių įmonių savininkai, ūkinių bendrijų tikrieji nariai ir mažųjų bendrijų nariai, jeigu jie nepriskiriami asmenims, išvardytiems šio straipsnio 2–5 ir 7–10 dalyse bei šio Įstatymo 6 straipsnio 4 dalyje, kas mėnesį moka už save 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas.
 
-7. Mažųjų bendrijų vadovai, kurie pagal Mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, moka 6 procentų dydžio privalomojo sveikatos draudimo įmokas, o draudėjai (mažosios bendrijos) – 3 procentų dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos.
+7. Mažųjų bendrijų vadovai, kurie pagal Mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos.
 
-TAR pastaba. Asmenys, nurodyti Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio 7 dalyje, moka privalomojo sveikatos draudimo įmokas nuo įstatymo Nr. XIII-612 įsigaliojimo dienos (2018-01-01), o 2019 metais pagal Lietuvos Respublikos sveikatos draudimo įstatymo 18 straipsnio 4 dalies nuostatas perskaičiuoja nuo įstatymo Nr. XIII-612 įsigaliojimo dienos (2018-01-01) 2018 metais sumokėtas privalomojo sveikatos draudimo įmokas.
-
-8. Asmenys, kurie nepriskiriami šio straipsnio 2, 3 dalyse, 4 dalies 1 punkte ir 5, 6, 7, 9 ir 10 dalyse bei šio Įstatymo 6 straipsnio 4 dalyje išvardytiems asmenims ir kurių žemės ūkio valdos ar ūkio ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų laikotarpį nuo sausio 1 dienos iki gruodžio 31 dienos yra ne didesnis kaip 2 ekonominio dydžio vienetai, kas mėnesį moka už save 3 procentų minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas.
+8. Asmenys, kurie nepriskiriami šio straipsnio 2, 3 dalyse, 4 dalies 1 punkte ir 5, 6, 7, 9 ir 10 dalyse bei šio Įstatymo 6 straipsnio 4 dalyje išvardytiems asmenims ir kurių žemės ūkio valdos ar ūkio ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų laikotarpį nuo sausio 1 dienos iki gruodžio 31 dienos yra ne didesnis kaip 2 ekonominio dydžio vienetai, kas mėnesį moka už save 2,33 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas.
 
 9. Asmenys, gaunantys Valstybinio socialinio draudimo fondo lėšomis pagal Ligos ir motinystės socialinio draudimo įstatymą mokamas išmokas, iš kurių Gyventojų pajamų mokesčio įstatymo nustatyta tvarka turi būti išskaitomas gyventojų pajamų mokestis, nuo šių pajamų moka 6 procentų dydžio privalomojo sveikatos draudimo įmokas.
 
-10. Draudėjai (paslaugų gavėjai), gaunantys pagal paslaugų kvitą teikiamas žemės ūkio ir miškininkystės paslaugas, kurių teikimą nustato Žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas, sumoka už paslaugų teikėjus 9 procentų dydžio privalomojo sveikatos draudimo įmokas nuo atlygio sumos, priskaičiuotos paslaugų teikėjui už suteiktas paslaugas.
+10. Draudėjai (paslaugų gavėjai), gaunantys pagal paslaugų kvitą teikiamas žemės ūkio ir miškininkystės paslaugas, kurių teikimą nustato Žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas, sumoka už paslaugų teikėjus 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo atlygio sumos, priskaičiuotos paslaugų teikėjui už suteiktas paslaugas.
 
-11. Asmenys, nepriskiriami šio straipsnio 2–10 dalyse ir šio Įstatymo 6 straipsnio 4 dalyje išvardytiems asmenims, kas mėnesį moka už save 9 procentų minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas.
+11. Asmenys, nepriskiriami šio straipsnio 2–10 dalyse ir šio Įstatymo 6 straipsnio 4 dalyje išvardytiems asmenims, kas mėnesį moka už save 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas.
 
-12. Asmenų, išskyrus asmenis, išvardytus šio straipsnio 1, 2 ir 8 dalyse bei šio Įstatymo 6 straipsnio 4 dalyje, metinė privalomojo sveikatos draudimo įmoka negali būti mažesnė kaip 9 procentai 12 minimaliųjų mėnesinių algų, galiojančių tų metų kiekvieno atitinkamo mėnesio paskutinę dieną, dydžio. Asmenų, išvardytų šio straipsnio 8 dalyje, metinė privalomojo sveikatos draudimo įmoka negali būti mažesnė kaip 3 procentai 12 minimaliųjų mėnesinių algų, galiojančių tų metų kiekvieno atitinkamo mėnesio paskutinę dieną, dydžio.
+12. Asmenų, išskyrus asmenis, išvardytus šio straipsnio 2 ir 8 dalyse bei šio Įstatymo 6 straipsnio 4 dalyje, metinė privalomojo sveikatos draudimo įmoka negali būti mažesnė kaip 6,98 procento 12 minimaliųjų mėnesinių algų, galiojančių tų metų kiekvieno atitinkamo mėnesio paskutinę dieną, dydžio. Asmenų, išvardytų šio straipsnio 8 dalyje, metinė privalomojo sveikatos draudimo įmoka negali būti mažesnė kaip 2,33 procento 12 minimaliųjų mėnesinių algų, galiojančių tų metų kiekvieno atitinkamo mėnesio paskutinę dieną, dydžio.
 
 13. Asmenų, nurodytų šio straipsnio 4 dalyje, metinė privalomojo sveikatos draudimo įmoka skaičiuojama nuo individualios veiklos pajamų sumos, ne didesnės negu numatyta Valstybinio socialinio draudimo įstatymo 10 straipsnio 5 dalyje.
 
@@ -702,13 +704,21 @@ Straipsnio pakeitimai:
 
 Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 
+Nr. XIII-1341, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10979
+
+Nr. XIII-1724, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20978
+
 18 straipsnis. Privalomojo sveikatos draudimo įmokų administravimo ir mokėjimo tvarka
 
 1. Šio Įstatymo 17 straipsnyje nurodytas privalomojo sveikatos draudimo įmokas administruoja, o šio Įstatymo 17 straipsnio 9 dalyje nurodytu atveju – jas išskaito Valstybinio socialinio draudimo fondo administravimo įstaigos Valstybinio socialinio draudimo įstatymo nustatyta tvarka. Surinktos (išskaitytos) įmokos ir su jomis susijusios šio Įstatymo 19 straipsnio 1 dalyje nurodytos sumos per tris dienas nuo jų surinkimo (išskaitymo) dienos pervedamos į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą. Valstybinio socialinio draudimo fondo administravimo įstaigos turi teikti Valstybinei ligonių kasai ir teritorinėms ligonių kasoms reikiamą informaciją apie atskirų juridinių ir fizinių asmenų sumokėtas šio Įstatymo 17 straipsnyje nurodytas privalomojo sveikatos draudimo įmokas. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos atsiskaitymus su Privalomojo sveikatos draudimo fondo biudžetu gali vykdyti šio Įstatymo 17 straipsnyje nurodytų įmokų ir Privalomojo sveikatos draudimo fondo biudžeto lėšomis finansuojamų sveikatos priežiūros įstaigų socialinio draudimo įmokų tarpusavio įskaitymais. Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktorius nustato privalomojo sveikatos draudimo įmokų deklaravimo atvejus ir tvarką.
 
 2. Šio Įstatymo 17 straipsnyje nurodytos įmokos mokamos Valstybinio socialinio draudimo įstatymo nustatyta tvarka tiek, kiek ši tvarka tiesiogiai nereglamentuota šiame Įstatyme.
 
-3. Asmenys, nurodyti šio Įstatymo 17 straipsnio 4 dalyje, kas mėnesį moka 9 procentų minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. Įmoka už atitinkamą mėnesį sumokama iki to mėnesio paskutinės dienos. Asmenys, nurodyti šio Įstatymo 17 straipsnio 4 dalyje, gali įmokų kas mėnesį nemokėti, jeigu jie moka ir (arba) už juos yra mokamos šio Įstatymo 17 straipsnio 1, 2, 3, 5, 6, 7, 9 ir 10 dalyse nurodytos privalomojo sveikatos draudimo įmokos arba jeigu jie yra asmenys, išvardyti šio Įstatymo 6 straipsnio 4 dalyje, – tokie asmenys įmokas sumoka šio straipsnio 4 dalyje nustatyta tvarka.
+3. Asmenys, nurodyti šio Įstatymo 17 straipsnio 4 dalyje, kas mėnesį moka 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. Įmoka už atitinkamą mėnesį sumokama iki to mėnesio paskutinės dienos. Asmenys, nurodyti šio Įstatymo 17 straipsnio 4 dalyje, gali įmokų kas mėnesį nemokėti, jeigu jie moka ir (arba) už juos yra mokamos šio Įstatymo 17 straipsnio 2, 3, 5, 6, 7, 9 ir 10 dalyse nurodytos privalomojo sveikatos draudimo įmokos arba jeigu jie yra asmenys, išvardyti šio Įstatymo 6 straipsnio 4 dalyje, – tokie asmenys įmokas sumoka šio straipsnio 4 dalyje nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1341, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10979
 
 4. Pasibaigus kalendoriniams metams, asmenys, nurodyti šio Įstatymo 17 straipsnio 3, 4 ir 7 dalyse, taip pat paslaugų teikėjai, teikiantys žemės ūkio ar miškininkystės paslaugas pagal paslaugų kvitą, nurodyti šio Įstatymo 17 straipsnio 10 dalyje, turi perskaičiuoti už praėjusius kalendorinius metus mokėtinas privalomojo sveikatos draudimo įmokas, atsižvelgdami į šio Įstatymo 17 straipsnio 3, 4, 7, 10, 11, 12 ir 13 dalių nuostatas, ir ne vėliau kaip iki gegužės 1 dienos sumokėti per praėjusius kalendorinius metus sumokėtos ir mokėtinos privalomojo sveikatos draudimo įmokų sumos skirtumą.
 
