@@ -4,7 +4,7 @@ identifier: "TAR.2036A3216825"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-02-13"
-last_updated: "1996-02-28"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.2036A3216825"
 department: "Lietuvos Respublikos Seimas"
@@ -14,6 +14,10 @@ published_in_tar: "1996-02-13"
 document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Europos sutarties dėl teisinės pagalbos prašymų perdavimo ratifikavimo įstatymas
+
+Suvestinė redakcija nuo 2019-01-01
+
+Įstatymas paskelbtas: Žin. 1996, Nr. 18-459, i. k. 0961010ISTA00I-1201
 
 LIETUVOS RESPUBLIKOS
 
@@ -31,7 +35,11 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 2 straipsnis. Lietuvos Respublikos pareiškimas
 
-Lietuvos Respublikos Seimas pareiškia, kad pagal Sutarties 2 straipsnį Lietuvos Respublikos teisingumo ministerija ir Užsienio reikalų ministerija yra teisinės pagalbos prašymus perduodančios institucijos, o Teisingumo ministerija yra centrinė teisinės pagalbos prašymus priimanti institucija.
+Lietuvos Respublikos Seimas pareiškia, kad pagal Sutarties 2 straipsnį Valstybės garantuojamos teisinės pagalbos tarnyba yra centrinė teisinės pagalbos prašymus perduodanti ir priimanti institucija.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1439, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11751
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -168,4 +176,14 @@ Tai patvirtindami, atitinkamai įgalioti, žemiau pasirašiusieji, pasirašė š
 Sudaryta 1977 metų sausio 27 dieną Strasbūre prancūzų ir anglų kalbomis. Abu tekstai autentiški ir sudaro vieną egzempliorių, kuris turi būti saugomas Europos Tarybos archyvuose. Europos Tarybos Generalinis Sekretorius turi pasiųsti kiekvienai signatarei bei prisijungusiai valstybei patvirtintus nuorašus.
 
 ______________
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1439, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11751
+
+Lietuvos Respublikos Europos sutarties dėl teisinės pagalbos prašymų perdavimo ratifikavimo įstatymo Nr. I-1201 2 straipsnio pakeitimo įstatymas
 
