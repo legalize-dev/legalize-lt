@@ -4,7 +4,7 @@ identifier: "TAR.06267D86738E"
 country: "lt"
 rank: "istatymas"
 publication_date: "1992-07-09"
-last_updated: "2018-12-22"
+last_updated: "2019-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2018-12-22 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
 
