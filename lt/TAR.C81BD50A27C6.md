@@ -4,7 +4,7 @@ identifier: "TAR.C81BD50A27C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-06-06"
-last_updated: "2018-12-20"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C81BD50A27C6"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2018-12-20 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-01
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
 
@@ -1042,6 +1042,12 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 Papildyta straipsnio punktu:
 
 Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+
+17) pasiūlyti pacientui artimiausią objektyviai įmanomą asmens sveikatos priežiūros paslaugos suteikimo datą ir laiką ir registruoti visus pacientus jų kreipimosi į asmens sveikatos priežiūros įstaigą momentu, neribojant registravimosi terminų, sveikatos apsaugos ministro nustatyta tvarka.
+
+Papildyta straipsnio punktu:
+
+Nr. XII-2538, 2016-06-29, paskelbta TAR 2016-07-14, i. k. 2016-20556
 
 46 straipsnis. Asmens sveikatos priežiūros įstaigų vidaus tvarkos taisyklės
 
@@ -2104,6 +2110,8 @@ Nr. XIII-903, 2017-12-19, paskelbta TAR 2017-12-27, i. k. 2017-21326
 9. Tais atvejais, kai šiame straipsnyje nustatyta tvarka užregistruotas pacientas paskirtu laiku neatvyksta gauti asmens sveikatos priežiūros paslaugos, šio straipsnio 2 dalies 1–5 punktuose nurodyti terminai pradedami skaičiuoti iš naujo nuo paciento pakartotinio kreipimosi į asmens sveikatos priežiūros paslaugas teikiančią LNSS įstaigą momento.
 
 Straipsnio pakeitimai:
+
+Nr. XIII-903, 2017-12-19, paskelbta TAR 2017-12-27, i. k. 2017-21326
 
 Nr. XIII-1763, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20876
 
