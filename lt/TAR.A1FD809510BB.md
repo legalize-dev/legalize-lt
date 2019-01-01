@@ -4,7 +4,7 @@ identifier: "TAR.A1FD809510BB"
 country: "lt"
 rank: "istatymas"
 publication_date: "2012-06-29"
-last_updated: "2016-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A1FD809510BB"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ entry_into_force_conditions: "32 straipsnis įsigalioja 2012-07-14"
 
 LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
-Suvestinė redakcija nuo 2016-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-11-18
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
 
@@ -761,6 +761,14 @@ Nr. XII-1700, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08122
 
 Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1 ir 7 straipsnių pakeitimo įstatymas
 
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-851, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20334
+
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1 straipsnio pakeitimo įstatymas
+
 61 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
 
 1. Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiami šie duomenys apie mažosios bendrijos narius:
@@ -795,7 +803,11 @@ Nr. XII-1700, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08122
 
 2) perduodama susijusiems registrams, valstybės informacinėms sistemoms;
 
-3) teikiama mokesčių administravimo, teisėtvarkos institucijoms ir teismams teisės aktuose nustatytoms funkcijoms atlikti.
+3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-851, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20334
 
 5. Atlyginimo už informacijos teikimą dydis neturi viršyti Juridinių asmenų dalyvių informacinės sistemos administravimo išlaidų kartu su pagrįsta investicijų grąža.
 
