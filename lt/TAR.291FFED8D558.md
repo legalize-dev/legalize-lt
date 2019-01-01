@@ -4,7 +4,7 @@ identifier: "TAR.291FFED8D558"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-15"
-last_updated: "2015-12-03"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.291FFED8D558"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymas
 
-Suvestinė redakcija nuo 2015-12-03 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2021-12-31
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 61-2183, i. k. 1041010ISTA0IX-2127
 
@@ -180,7 +180,11 @@ FINANSINIO UŽTIKRINIMO SUSITARIMAI
 
 5. Kilus ginčui, finansinio užstato pateikimas turi būti įrodomas rašytiniais įrodymais. Rašytiniai įrodymai turi identifikuoti finansinį užstatą. Rašytiniams įrodymams šiame įstatyme yra prilyginamas finansinių priemonių, pateiktų kaip finansinis užstatas, įrašymas į nematerialiųjų vertybinių popierių sąskaitą ar registrą arba pinigų, pateiktų kaip finansinis užstatas, pervedimas į nurodytą sąskaitą (arba tokio užstato buvimas sąskaitoje). Kai kredito reikalavimai įtraukiami į užstato gavėjui raštu ar kitu Lietuvos Respublikos teisės aktuose nustatytu tolygiu būdu pateikiamą reikalavimų sąrašą, to pakanka nustatyti kredito reikalavimams ir įrodyti jų, kaip finansinio užstato, pateikimą tarp šalių.
 
-6. Kai kredito reikalavimai pateikiami kaip finansinis užstatas, tokio finansinio užstato tinkamumas, pirmenybė, įvykdomumas ar leistinumas skolininko ir (arba) trečiųjų asmenų atžvilgiu nustatomi vadovaujantis pranešimu, Civilinio kodekso 1.65 straipsnyje numatytu viešu skelbimu, arba kai kredito reikalavimas pateikiamas kaip finansinis užstatas Lietuvos bankui arba kitų valstybių narių centriniams bankams, – viešu skelbimu Lietuvos banko interneto svetainėje. Šiame pranešime ar skelbime turi būti pateikta informacija, pagal kurią skolininkas galėtų identifikuoti kaip finansinis užstatas pateikiamą kredito reikalavimą, finansinio užstato davėją ir finansinio užstato gavėją.
+6. Kai kredito reikalavimai pateikiami kaip finansinis užstatas, tokio finansinio užstato tinkamumas, pirmenybė, įvykdomumas ar leistinumas skolininko ir (arba) trečiųjų asmenų atžvilgiu nustatomi vadovaujantis pranešimu, Civilinio kodekso 1.65 straipsnyje numatytu viešu skelbimu. Šiame pranešime ar skelbime turi būti pateikta informacija, pagal kurią skolininkas galėtų identifikuoti kaip finansinis užstatas pateikiamą kredito reikalavimą, finansinio užstato davėją ir finansinio užstato gavėją. Tačiau kai kredito reikalavimai kaip finansinis užstatas yra pateikiami Lietuvos bankui, kitų Europos Sąjungos valstybių narių centriniams bankams, Europos Centriniam Bankui, Lietuvos Respublikoje įsteigtiems bankams, užsienio bankų filialams, centrinėms kredito unijoms arba kredito unijoms arba kai šį finansinį užstatą pateikia Lietuvos bankas, kitų Europos Sąjungos valstybių narių centriniai bankai, Europos Centrinis Bankas, Lietuvos Respublikoje įsteigti bankai, užsienio bankų filialai, centrinės kredito unijos arba kredito unijos, tokio finansinio užstato tinkamumas, pirmenybė, įvykdomumas ar leistinumas skolininko ir (arba) trečiųjų asmenų atžvilgiu nustatomi vadovaujantis fakto, kad šis kredito reikalavimas pateiktas kaip finansinis užstatas, registravimu Lietuvos banko tvarkomoje Paskolų rizikos duomenų bazėje, nurodant informaciją, pagal kurią galima identifikuoti kaip finansinis užstatas pateikiamą kredito reikalavimą, jo pateikimo laiką, finansinio užstato davėją ir finansinio užstato gavėją, taip pat kitą Lietuvos banko tvarkomos Paskolų rizikos duomenų bazės veiklą reglamentuojančiuose teisės aktuose nurodytą informaciją. Informacija apie Lietuvos banko tvarkomoje Paskolų rizikos duomenų bazėje registruotus kredito reikalavimų kaip finansinio užstato pateikimo faktus Lietuvos banko nustatyta tvarka gali būti teikiama šio įstatymo 3 straipsnio 2 dalyje nurodytiems subjektams, skolininkams, taip pat valstybės institucijoms, kai ši teisė numatyta jų veiklą reglamentuojančiuose teisės aktuose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1252, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09920
 
 7. Sutarties šalys gali susitarti dėl finansinių priemonių ir kredito reikalavimų įvertinimo tvarkos. Jeigu finansinio užtikrinimo susitarimo šalys nesusitarė kitaip, finansinių priemonių, kuriomis prekiaujama reguliuojamose rinkose, vertė nustatoma pagal finansinių priemonių paskutinę rinkos vertę toje reguliuojamoje rinkoje.
 
@@ -326,7 +330,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 LAIKINAI EINANTIS
 
-RESPUBLIKOS PREZIDENTO PAREIGAS                                      ARTŪRAS PAULAUSKAS
+RESPUBLIKOS PREZIDENTO PAREIGAS                                    ARTŪRAS PAULAUSKAS
 
 Lietuvos Respublikos
 
@@ -377,6 +381,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2061, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19172
 
 Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo Nr. IX-2127 3 straipsnio ir priedo pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1252, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09920
+
+Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo Nr. IX-2127 5 straipsnio pakeitimo įstatymas
 
 16 straipsnis. Įstatymo įsigaliojimas
 
