@@ -4,7 +4,7 @@ identifier: "TAR.033D686E8F1B"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-03-30"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos transporto lengvatų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-21
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-890, i. k. 1001010ISTAIII-1605
 
@@ -125,13 +125,21 @@ Nr. X-1612, 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
 
 1) asmenys, kuriems nustatytas neįgalumo lygis, arba asmenys, iki 2005 m. liepos 1 d. pripažinti vaikais invalidais, ir juos lydintys asmenys (vienam asmeniui – vienas lydintysis);
 
-2) asmenys, pripažinti nedarbingais, asmenys, sukakę senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, asmenys, iki 2005 m. liepos 1 d. pripažinti I grupės invalidais, ir juos lydintys asmenys (vienam asmeniui – vienas lydintysis);
+2) asmenys, kuriems nustatytas 0–25 procentų darbingumo lygis, asmenys, kuriems nustatytas didelių specialiųjų poreikių lygis, asmenys, iki 2005 m. birželio 30 d. pripažinti I grupės invalidais, ir juos lydintys asmenys (vienam asmeniui – vienas lydintysis);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1262, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10488
 
 3) į Sveikatos apsaugos ministerijos nustatytą sąrašą įrašytomis ligomis sergantys asmenys, kuriems gydyti nuolat reikalinga hemodializė, ir juos lydintys asmenys (vienam asmeniui – vienas lydintysis);
 
 4) 80 metų ir vyresni asmenys;
 
-5) Lietuvos Respublikos nepriklausomybės gynėjai, pripažinti iš dalies darbingais ar sukakę senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių specialiųjų poreikių lygis (iki 2005 m. liepos 1 d. pripažinti II ar III grupės invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos;
+5) Lietuvos Respublikos nepriklausomybės gynėjai, kuriems nustatytas 30–55 procentų darbingumo lygis arba kuriems nustatytas vidutinių specialiųjų poreikių lygis (iki 2005 m. birželio 30 d. pripažinti II ar III grupės invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1262, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10488
 
 6) žuvusių Lietuvos Respublikos nepriklausomybės gynėjų šeimos nariai, nukentėję nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos;
 
@@ -145,7 +153,11 @@ Nr. XIII-853, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20336
 
 2. Teisę įsigyti vienkartinį arba terminuotą vardinį važiavimo tolimojo, vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais bilietą su 50 procentų nuolaida turi:
 
-1) asmenys, pripažinti iš dalies darbingais, arba asmenys, sukakę senatvės pensijos amžių, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių specialiųjų poreikių lygis (iki 2005 m. liepos 1 d. pripažinti II grupės invalidais);
+1) asmenys, kuriems nustatytas 30–55 procentų darbingumo lygis, arba asmenys, kuriems nustatytas vidutinių specialiųjų poreikių lygis (iki 2005 m. birželio 30 d. pripažinti II grupės invalidais);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1262, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10488
 
 2) pasipriešinimo 1940–1990 metų okupacijoms dalyviai – kariai savanoriai, jaunesni kaip 70 metų, ir laisvės kovų dalyviai;
 
@@ -205,21 +217,17 @@ Straipsnio pakeitimai:
 
 Nr. XII-1505, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21264
 
-7 straipsnis. Teisė į transporto išlaidų kompensaciją
+7 straipsnis. Teisė į lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensaciją
 
-1. Neįgalieji, turintys sutrikusią judėjimo funkciją, turi teisę:
+1. Asmenys, kuriems nustatytas specialusis lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikis, turi teisę vieną kartą per 6 metus gauti iki 32 bazinių socialinių išmokų (toliau – BSI) dydžio lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensaciją pagal faktines išlaidas pagrindžiančius dokumentus, jei šie asmenys turi vairuotojo pažymėjimu patvirtintą teisę vairuoti lengvąjį automobilį.
 
-1) kiekvieną mėnesį gauti 0,25 minimalaus gyvenimo lygio (MGL) dydžio transporto išlaidų kompensaciją;
+2. Laikotarpis, kai asmenys, kuriems nustatytas specialusis lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikis, atlieka laisvės atėmimo bausmę, neįskaitomas į šio straipsnio 1 dalyje nustatytą 6 metų laikotarpį.
 
-2) vieną kartą per 6 metus gauti iki 32 MGL dydžio lengvųjų automobilių įsigijimo ir jų techninio pritaikymo išlaidų kompensaciją, jeigu šie asmenys gali patys vairuoti šiuos lengvuosius automobilius.
+3. Šeimos (artimieji giminaičiai, įtėviai, vaiko, kuriam nustatyta nuolatinė globa (rūpyba), globėjai (rūpintojai), neįregistravę santuokos ir bendrą ūkį tvarkantys asmenys), auginančios neįgalų vaiką (įvaikį, globotinį, rūpintinį) iki 18 metų, kuriam nustatytas specialusis nuolatinės slaugos poreikis, arba neįgalų vaiką (įvaikį, globotinį, rūpintinį) iki 18 metų, kuriam iki 2005 m. birželio 30 d. buvo pripažinta visiška negalia, vieną kartą per 6 metus turi teisę gauti iki 32 BSI dydžio lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensaciją pagal faktines išlaidas pagrindžiančius dokumentus, jei bent vienas iš šeimos narių turi vairuotojo pažymėjimu patvirtintą teisę vairuoti lengvąjį automobilį. Teisę gauti šią kompensaciją šeimos (artimieji giminaičiai, įtėviai, vaiko, kuriam nustatyta nuolatinė globa (rūpyba), globėjai (rūpintojai), neįregistravę santuokos ir bendrą ūkį tvarkantys asmenys) turi ir tuo atveju, kai neįgaliam vaikui (įvaikiui, globotiniui, rūpintiniui), kuriam sukako 18 metų, nepertraukiamai yra nustatytas specialusis nuolatinės slaugos poreikis.
 
-2. Laikotarpiu, kai neįgalusis, turintis teisę gauti transporto išlaidų kompensaciją, atlieka bausmę laisvės atėmimo vietoje, ši kompensacija nemokama. Šis laikotarpis taip pat neįskaitomas lengvųjų automobilių įsigijimo ir jų techninio pritaikymo išlaidų kompensacijai gauti.
+4. Lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacija mokama iš valstybės biudžeto lėšų.
 
-3. Šeimos, auginančios neįgalų vaiką (įvaikį) iki 18 metų, kuriam nustatytas specialusis nuolatinės slaugos poreikis, arba neįgalų vaiką (įvaikį), kuriam iki 2005 m. liepos 1 d. buvo pripažinta visiška negalia, vieną kartą per 6 metus turi teisę gauti iki 32 MGL dydžio lengvųjų automobilių įsigijimo ir jų techninio pritaikymo išlaidų kompensaciją.
-
-4. Kompensacijos, nustatytos šio straipsnio 1 ir 3 dalyse, mokamos iš valstybės biudžeto.
-
-5. Transporto išlaidų kompensacijų mokėjimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+5. Lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos mokėjimo tvarką nustato socialinės apsaugos ir darbo ministras.
 
 Straipsnio pakeitimai:
 
@@ -229,13 +237,9 @@ Nr. X-189, 2005-05-12, Žin., 2005, Nr. 67-2401 (2005-05-28)
 
 Nr. X-1612, 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
 
-TREČIASIS SKIRSNIS
+Straipsnio pakeitimai:
 
-VEŽĖJŲ IŠLAIDŲ KOMPENSAVIMO (NEGAUTŲ PAJAMŲ ATLYGINIMO) TVARKA IR ŠALTINIAI
-
-Skirsnio pavadinimas keistas:
-
-Nr. IX-1192, 2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
+Nr. XIII-1262, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10488
 
 8 straipsnis. Vežėjų išlaidų kompensavimo (negautų pajamų atlyginimo) tvarka ir šaltiniai
 
@@ -414,4 +418,22 @@ Nr. X-1612, 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
 Nr. XI-241, 2009-04-28, Žin., 2009, Nr. 54-2139 (2009-05-12)
 
 Nr. XII-512, 2013-07-02, Žin., 2013, Nr. 75-3782 (2013-07-13)
+
+71 straipsnis. Teisės gauti transporto išlaidų kompensaciją išsaugojimas
+
+1. Asmenys, kuriems yra nustatytas specialusis transporto išlaidų kompensacijos poreikis, turi teisę kiekvieną mėnesį gauti 0,25 BSI dydžio transporto išlaidų kompensaciją iki nustatyto specialiojo transporto išlaidų kompensacijos poreikio termino pabaigos.
+
+2. Laikotarpiu, kai asmenys, kuriems nustatytas specialusis transporto išlaidų kompensacijos poreikis, atlieka laisvės atėmimo bausmę, transporto išlaidų kompensacija nemokama.
+
+Papildyta straipsniu:
+
+Nr. XIII-1262, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10488
+
+TREČIASIS SKIRSNIS
+
+VEŽĖJŲ IŠLAIDŲ KOMPENSAVIMO (NEGAUTŲ PAJAMŲ ATLYGINIMO) TVARKA IR ŠALTINIAI
+
+Skirsnio pavadinimas keistas:
+
+Nr. IX-1192, 2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
 
