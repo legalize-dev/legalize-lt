@@ -4,7 +4,7 @@ identifier: "TAR.1559303036A8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-10-08"
-last_updated: "2016-12-29"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1559303036A8"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2016-12-29 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2319; Žin. 1996, Nr.103-0, i. k. 0961010ISTA00I-1571
 
@@ -80,7 +80,11 @@ Nr. XI-1047, 2010-09-30, Žin., 2010, Nr. 123-6261 (2010-10-18)
 
 1. LRT radijo ir televizijos programose turi būti užtikrinta temų ir žanrų įvairovė, programos turi būti skirtos įvairiems visuomenės sluoksniams, įvairaus amžiaus, įvairių tautybių ir įvairių įsitikinimų žmonėms. LRT radijo ir televizijos programose neleidžiama įsivyrauti vienašališkoms politinėms pažiūroms; LRT informacinėse programose, komentaruose pateikiama informacija turi būti pagrįsta, atspindėti įvairias politines pažiūras, o nuomonės ir faktinės žinios – autorizuotos, patikrintos ir išsamios.
 
-2. LRT radijo ir televizijos programose pirmenybė teikiama nacionalinei kultūrai, taip pat informacinėms, pasaulio kultūros, publicistikos, analizės, pažintinėms, šviečiamosioms, meno programoms. Masinė kultūra atspindima apžvalginėse, pažintinėse, analitinėse programose.
+2. LRT radijo ir televizijos programose pirmenybė teikiama nacionalinei kultūrai, taip pat informacinėms, pasaulio kultūros, publicistikos, analizės, pažintinėms, šviečiamosioms, meno ir sporto programoms. Masinė kultūra atspindima apžvalginėse, pažintinėse, analitinėse programose.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1549, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17457
 
 3. Europos audiovizualinių kūrinių ir nepriklausomų kūrėjų sukurtų audiovizualinių kūrinių LRT televizijos programose mastus nustato Visuomenės informavimo įstatymas. Europos audiovizualinių kūrinių rodymas turi atitikti kryptingą Europos kultūros sklaidos politiką. LRT turi transliuoti programas, atveriančias Europos tautų istorijos ir dabarties įvairovę.
 
@@ -100,7 +104,7 @@ Nr. XI-1047, 2010-09-30, Žin., 2010, Nr. 123-6261 (2010-10-18)
 
 4. LRT turi teisę rengti konkursus, festivalius, konferencijas, seminarus, įkurti meno kolektyvus, nustatyti tiesioginius ryšius su užsienio organizacijomis ir kompanijomis, dalyvauti tarptautinių organizacijų veikloje, organizuoti radijo ir televizijos programas ar atskiras programas užsieniui, susitarimų pagrindu retransliuoti užsienio radijo ir televizijos programas ar atskiras programas, steigti filialus, korespondentų punktus, leisti informacinius leidinius apie savo veiklą.
 
-5. LRT turi teisę radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais antžeminiais analoginiais radijo dažniais (kanalais) transliuoti  2 televizijos ir 4 radijo programas. LRT parengtų televizijos programų transliavimui užtikrinti LRT taip pat turi būti skirti radijo dažniai (kanalai), reikalingi vienam nacionalinės aprėpties antžeminiam skaitmeninės televizijos tinklui. LRT parengtų televizijos programų transliavimui užtikrinti LRT taip pat turi būti skirti radijo dažniai (kanalai), reikalingi vienam nacionalinės aprėpties antžeminiam skaitmeninės televizijos tinklui. Per šį tinklą turi būti transliuojamos tik LRT parengtos radijo ir televizijos programos ir šį tinklą draudžiama naudoti kitai ūkinei komercinei veiklai ar retransliuoti kitas radijo ir televizijos  programas. Jeigu programoms transliuoti ir (ar) retransliuoti nenaudojami radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatyti elektroninių ryšių ištekliai, LRT transliuojamų ir (ar) retransliuojamų radijo ir televizijos programų skaičius neribojamas. LRT turi teisę radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais antžeminiais skaitmeniniais radijo dažniais (kanalais) transliuoti radijo ir televizijos programas, kurių skaičių nustato Lietuvos radijo ir televizijos komisija, gavusi Tarybos siūlymą, priimtą atsižvelgus į Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme LRT skirtas lėšas. Šioms nuostatoms įgyvendinti reikalingas teises pirmumo tvarka LRT suteikia Lietuvos radijo ir televizijos komisija ir Lietuvos Respublikos ryšių reguliavimo tarnyba Visuomenės informavimo įstatymo ir Elektroninių ryšių įstatymo nustatyta tvarka.
+5. LRT turi teisę radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais antžeminiais analoginiais radijo dažniais (kanalais) transliuoti 2 televizijos ir 4 radijo programas. LRT parengtų televizijos programų transliavimui užtikrinti LRT taip pat turi būti skirti radijo dažniai (kanalai), reikalingi vienam nacionalinės aprėpties antžeminiam skaitmeninės televizijos tinklui. LRT parengtų televizijos programų transliavimui užtikrinti LRT taip pat turi būti skirti radijo dažniai (kanalai), reikalingi vienam nacionalinės aprėpties antžeminiam skaitmeninės televizijos tinklui. Per šį tinklą turi būti transliuojamos tik LRT parengtos radijo ir televizijos programos ir šį tinklą draudžiama naudoti kitai ūkinei komercinei veiklai ar retransliuoti kitas radijo ir televizijos  programas. Jeigu programoms transliuoti ir (ar) retransliuoti nenaudojami radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatyti elektroninių ryšių ištekliai, LRT transliuojamų ir (ar) retransliuojamų radijo ir televizijos programų skaičius neribojamas. LRT turi teisę radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais antžeminiais skaitmeniniais radijo dažniais (kanalais) transliuoti radijo ir televizijos programas, kurių skaičių nustato Lietuvos radijo ir televizijos komisija, gavusi Tarybos siūlymą, priimtą atsižvelgus į Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme LRT skirtas lėšas. Šioms nuostatoms įgyvendinti reikalingas teises pirmumo tvarka LRT suteikia Lietuvos radijo ir televizijos komisija ir Lietuvos Respublikos ryšių reguliavimo tarnyba Visuomenės informavimo įstatymo ir Elektroninių ryšių įstatymo nustatyta tvarka.
 
 6. LRT suteikia laiką Respublikos Prezidentui kalbėti šalies vidaus ir užsienio politikos klausimais Prezidento įstatymo nustatyta tvarka. Seimo, Vyriausybės ar Seimo opozicijos lyderio prašymu LRT pagal galimybes kuo greičiau suteikia laiką oficialiems Seimo, Vyriausybės ar opozicijos pranešimams.
 
@@ -581,4 +585,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-113, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29763
 
 Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 9 straipsnio pakeitimo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1549, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17457
+
+Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 4 straipsnio pakeitimo įstatymas
 
