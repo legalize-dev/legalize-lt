@@ -4,7 +4,7 @@ identifier: "TAR.1FEF229DA7C6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-05"
-last_updated: "2017-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
 
@@ -348,7 +348,11 @@ Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
 
 7) tvirtina Lietuvos vyriausiojo archyvaro tarnybos nuostatus, teisės aktų nustatyta tvarka nustato didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių;
 
-8) Vyriausybės įstatymo nustatyta tvarka skiria ir atleidžia Lietuvos vyriausiąjį archyvarą;
+8) Valstybės tarnybos įstatymo nustatyta tvarka priima į pareigas ir iš pareigų atleidžia Lietuvos vyriausiąjį archyvarą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1373, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12041
 
 9) Lietuvos vyriausiojo archyvaro teikimu steigia valstybės archyvus ir paveda Kultūros ministerijai įgyvendinti dalį šių įstaigų savininko teisių ir pareigų;
 
@@ -438,7 +442,11 @@ Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr.
 
 1. Lietuvos vyriausiojo archyvaro tarnyba yra Vyriausybės įstaiga, padedanti Lietuvos vyriausiajam archyvarui įgyvendinti archyvų ir dokumentų srities valstybinį administravimą.
 
-2. Lietuvos vyriausiojo archyvaro tarnybai vadovauja Lietuvos vyriausiasis archyvaras. Jį skiria ir atleidžia Vyriausybė įstatymų nustatyta tvarka.
+2. Lietuvos vyriausiojo archyvaro tarnybai vadovauja Lietuvos vyriausiasis archyvaras. Jį Valstybės tarnybos įstatymo nustatyta tvarka priima į pareigas ir iš pareigų atleidžia Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1373, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12041
 
 3. Lietuvos vyriausiojo archyvaro tarnyba yra viešasis juridinis asmuo, turintis sąskaitų bankuose ir antspaudą su Lietuvos valstybės herbu ir savo pavadinimu.
 
@@ -919,4 +927,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2241, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00370
 
 Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 4 ir 16 straipsnių pakeitimo įstatymas
+
+9.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1373, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12041
+
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 5 ir 6 straipsnių pakeitimo įstatymas
 
