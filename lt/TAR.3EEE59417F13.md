@@ -4,7 +4,7 @@ identifier: "TAR.3EEE59417F13"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-07-01"
-last_updated: "2018-10-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
 
@@ -52,6 +52,10 @@ BENDROSIOS NUOSTATOS
 
 4. Seimui priėmus įstatymus arba Vyriausybei priėmus nutarimus vykdant įstatymus, dėl kurių keičiasi valstybės biudžeto ir (ar) savivaldybių biudžetų einamųjų biudžetinių metų įsipareigojimai dėl piniginės socialinės paramos teikimo, taip pat ekonomikos krizės šalyje atveju ar kai yra regioniniai socialinės ekonominės raidos pokyčiai savivaldybėse ir (ar) padidėja energijos ir (ar) kuro (žaliavos), naudojamų būstui šildyti ar karštam vandeniui ruošti, kainos rinkoje, savivaldybių vykdomosios institucijos teisės aktų nustatyta tvarka patikslina lėšų poreikį piniginei socialinei paramai finansuoti. Jeigu nepakanka pagal šio straipsnio 3 dalį skirtų lėšų piniginei socialinei paramai teikti, papildoma lėšų suma piniginei socialinei paramai finansuoti savivaldybėms skiriama iš valstybės biudžeto.
 
+5. Nepanaudotos savivaldybių biudžetų lėšos piniginei socialinei paramai skaičiuoti ir mokėti savivaldybės tarybos nustatyta tvarka naudojamos šioms socialinės apsaugos sritims ir šios dalies 12 punkte nurodytai sričiai finansuoti:
+
+Pirmosios pastraipos redakcija nuo 2020-01-01:
+
 5. Nepanaudotos savivaldybių biudžetų lėšos piniginei socialinei paramai skaičiuoti ir mokėti savivaldybės tarybos nustatyta tvarka naudojamos šioms socialinės apsaugos sritims finansuoti:
 
 1) socialinę riziką patiriančių asmenų (šeimų) socialinės reabilitacijos ir integracijos priemonėms įgyvendinti;
@@ -74,7 +78,25 @@ BENDROSIOS NUOSTATOS
 
 10) socialinių paslaugų srities darbuotojų darbo sąlygoms gerinti ir darbo užmokesčiui didinti;
 
-11) savivaldybės administracijoje dirbančių socialinių išmokų specialistų darbo užmokesčiui didinti.
+11) savivaldybės administracijoje dirbančių socialinių išmokų specialistų darbo užmokesčiui didinti;
+
+12) socialinių pedagogų, psichologų, specialiąją pedagoginę ir specialiąją pagalbą teikiančių specialistų darbo užmokesčiui mokėti.
+
+TAR pastaba. 12 punktas netenka galios 2020-01-01.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1831, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21851
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1831, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21851
+
+6. Nepanaudotos savivaldybių biudžetų lėšos piniginei socialinei paramai skaičiuoti ir mokėti pirmiausia naudojamos šio straipsnio 5 dalies 10 ir 11 punktuose nurodytoms sritims finansuoti skiriant ne mažiau kaip 20 procentų šių lėšų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1732, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20702
 
 Straipsnio pakeitimai:
 
@@ -116,7 +138,7 @@ Nr. XII-329, 2013-05-16, Žin., 2013, Nr. 57-2861 (2013-06-01)
 
 10 straipsnis. Socialinės pašalpos papildomo skyrimo ir socialinės pašalpos mažinimo pagrindai
 
-1. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui papildomai skiriama socialinė pašalpa, kurios dydis lygus 50 procentų socialinės pašalpos, mokėtos per praėjusius 6 mėnesius iki įsidarbinimo, vidutinio dydžio, už kiekvieną pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu dirbtą mėnesį, bet ne ilgiau kaip 6 mėnesius, jeigu vienas gyvenantis asmuo arba bendrai gyvenantys asmenys atitinka visas šias sąlygas:
+1. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui papildomai skiriama socialinė pašalpa, kurios dydis lygus 50 procentų socialinės pašalpos, mokėtos per praėjusius 6 mėnesius iki įsidarbinimo, vidutinio dydžio, už kiekvieną pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu dirbtą mėnesį, bet ne ilgiau kaip 12 mėnesių, jeigu vienas gyvenantis asmuo arba bendrai gyvenantys asmenys atitinka visas šias sąlygas:
 
 1) vienas gyvenantis asmuo arba bent vienas iš bendrai gyvenančių asmenų įsidarbina ir dirba (dirbo) šio įstatymo 8 straipsnio 1 dalies 1 punkte nustatytą darbo laiko trukmę ir jam darbo užmokesčio apskaičiuojama ne mažiau už minimaliąją mėnesinę algą arba minimalųjį valandinį atlygį proporcingai dirbtam laikui arba atliktam darbui, bet ne daugiau už dvi minimaliąsias mėnesines algas ar du minimaliuosius valandinius atlygius proporcingai dirbtam laikui arba atliktam darbui;
 
@@ -126,7 +148,7 @@ Nr. XII-329, 2013-05-16, Žin., 2013, Nr. 57-2861 (2013-06-01)
 
 4) vienas gyvenantis asmuo ar kiekvienas vyresnis kaip 18 metų bendrai gyvenantis asmuo arba vaikas (įvaikis) nuo 16 iki 18 metų atitinka bent vieną iš šio įstatymo 8 straipsnyje nurodytų sąlygų, kurioms esant bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į piniginę socialinę paramą;
 
-5) prašymas-paraiška skirti papildomą socialinės pašalpos dalį įsidarbinus pateiktas ne vėliau kaip per 6 mėnesius nuo įsidarbinimo.
+5) prašymas-paraiška skirti papildomą socialinės pašalpos dalį įsidarbinus pateiktas ne vėliau kaip per 12 mėnesių nuo įsidarbinimo.
 
 2. Darbingo amžiaus darbingiems, bet nedirbantiems (taip pat savarankiškai nedirbantiems) asmenims (išskyrus šio straipsnio 3 dalyje nurodytus atvejus) socialinės pašalpos, apskaičiuotos pagal šio įstatymo 9 straipsnį, dydis yra mažinamas:
 
@@ -140,7 +162,7 @@ Nr. XII-329, 2013-05-16, Žin., 2013, Nr. 57-2861 (2013-06-01)
 
 5) gavusiems socialinę pašalpą ilgiau kaip 60 mėnesių šios dalies 4 punkte nustatyto dydžio socialinė pašalpa skiriama nepinigine forma tol, kol šioje dalyje nurodyti asmenys nedirbs (taip pat savarankiškai nedirbs) arba nedalyvaus savivaldybės administracijos organizuojamoje visuomenei naudingoje veikloje 12 mėnesių per paskutinius 24 mėnesius.
 
-3. Darbingo amžiaus darbingiems, bet nedirbantiems (taip pat savarankiškai nedirbantiems) asmenims socialinės pašalpos dydis nemažinamas, jeigu yra bent vienas iš šių atvejų, kai jie:
+3. Darbingo amžiaus darbingiems, bet nedirbantiems (taip pat savarankiškai nedirbantiems) asmenims socialinės pašalpos dydis nemažinimas, jeigu yra bent vienas iš šių atvejų, kai jie:
 
 1) nedirba dėl priežasčių, nurodytų šio įstatymo 8 straipsnio 1 dalies 2, 3, 5, 6, 7, 8, 9, 10 ir 11 punktuose;
 
@@ -436,7 +458,7 @@ Nr. XIII-145, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29779
 
 2) autorinis atlyginimas, pajamos, gautos iš sporto veiklos, atlikėjo veiklos;
 
-3) pensijos ir (ar) pensijų išmokos (išskyrus senatvės ir netekto darbingumo (invalidumo) pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės ir netekto darbingumo (invalidumo) pensijų kompensavimo įstatymą, taip pat senatvės ir valstybinių pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų ir valstybinių pensijų, sumažintų dėl draudžiamųjų pajamų turėjimo, kompensavimo įstatymą), šalpos išmokos;
+3) pensijos, socialinio draudimo senatvės arba netekto darbingumo (invalidumo) pensijų priemokos (toliau – pensijos priemoka) ir (ar) pensijų išmokos (išskyrus senatvės ir netekto darbingumo (invalidumo) pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės ir netekto darbingumo (invalidumo) pensijų kompensavimo įstatymą, taip pat senatvės ir valstybinių pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų ir valstybinių pensijų, sumažintų dėl draudžiamųjų pajamų turėjimo, kompensavimo įstatymą), šalpos išmokos;
 
 Straipsnio punkto pakeitimai:
 
@@ -444,13 +466,19 @@ Nr. XII-1853, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10599
 
 Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
 
+Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
+
 4) dividendai;
 
 5) palūkanos;
 
 6) individualios įmonės savininko pajamos, gautos iš šios įmonės apmokestinto pelno, ir (ar) mažosios bendrijos narių, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos tikrųjų narių pajamos ir iš šių įmonių asmeniniams poreikiams gautos lėšų sumos;
 
-7) individualios veiklos pajamos, įskaitant pajamas, gautas verčiantis veikla pagal verslo liudijimą ir individualios veiklos vykdymo pažymą;
+7) individualios veiklos pajamos, įskaitant pajamas, gautas verčiantis veikla pagal verslo liudijimą ir individualios veiklos vykdymo pažymą (išskyrus asmenų iki 18 metų pajamas);
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1733, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20995
 
 8) pajamos iš žemės ūkio veiklos (išskyrus pajamas iš žemės ūkio naudmenų, kurių bendras plotas neviršija 3 hektarų) ir pajamų dalis, gauta teikiant žemės ūkio ir miškininkystės paslaugas pagal žemės ūkio ir miškininkystės paslaugų kvitą, kai šių paslaugų teikimą nustato Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas (toliau – Žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas), viršijanti 1 750 eurų per einamuosius kalendorinius metus;
 
@@ -514,7 +542,7 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 
-2. Apskaičiuojant šio straipsnio 1 dalyje nurodytas vidutines mėnesio pajamas, į bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamas neįskaitoma šio straipsnio 1 dalies 1 punkte nurodytų pajamų dalis:
+2. Apskaičiuojant šio straipsnio 1 dalyje nurodytas vidutines mėnesio pajamas, į bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamas neįskaitoma šio straipsnio 1 dalies 1 ir 7 punktuose nurodytų pajamų dalis:
 
 1) 15 procentų – bendrai gyvenantiems asmenims, neauginantiems vaikų (įvaikių), arba vienam gyvenančiam asmeniui;
 
@@ -526,15 +554,19 @@ Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 
 5) 35 procentai – asmenims, vieniems auginantiems tris ar daugiau vaikų (įvaikių).
 
-Papildyta straipsnio dalimi:
+Straipsnio dalies pakeitimai:
 
-Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
+Nr. XIII-1733, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20995
 
-3. Nustatant šio straipsnio 1 dalies 1 punkte nurodytų neįskaitomų pajamų dalį, vyresni kaip 18 metų pilnamečiai vaikai (įvaikiai) įskaitomi į bendrai gyvenančių asmenų sudėtį pagal šio įstatymo 2 straipsnio 2 dalį.
+3. Nustatant šio straipsnio 1 dalies 1 ir 7 punktuose nurodytų neįskaitomų pajamų dalį, vyresni kaip 18 metų vaikai (įvaikiai) įskaitomi į bendrai gyvenančių asmenų sudėtį pagal šio įstatymo 2 straipsnio 2 dalį.
 
 Papildyta straipsnio dalimi:
 
 Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1733, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20995
 
 4. Jeigu iš šio straipsnio 1 dalyje nurodytų pajamų yra išskaičiuojamas gyventojų pajamų mokestis, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokos, šios pajamos įskaitomos išskaičiavus gyventojų pajamų mokestį, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokas.
 
@@ -568,7 +600,7 @@ Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 
 Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 
-8. Darbo užmokestis, užmokestis už prastovas ne dėl darbuotojo kaltės, užmokestis už kasmetines atostogas, pensijos, pensijų išmokos, šalpos išmokos, kas mėnesį gaunamos išmokos ir (ar) pašalpos, ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokos, statutiniams valstybės tarnautojams (pareigūnams) ir krašto apsaugos sistemos kariams laikinojo nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ar atostogų vaikui prižiūrėti laikotarpiais išmokėtos išmokos, taip pat kitos kas mėnesį gaunamos pajamos įskaitomos į pajamas tų mėnesių, už kuriuos jos paskirtos, išskyrus šio straipsnio 9 dalyje numatytą atvejį.
+8. Darbo užmokestis, užmokestis už prastovas ne dėl darbuotojo kaltės, užmokestis už kasmetines atostogas, pensijos, pensijos priemokos, pensijų išmokos, šalpos išmokos, kas mėnesį gaunamos išmokos ir (ar) pašalpos, ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokos, statutiniams valstybės tarnautojams (pareigūnams) ir krašto apsaugos sistemos kariams laikinojo nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ar atostogų vaikui prižiūrėti laikotarpiais išmokėtos išmokos, taip pat kitos kas mėnesį gaunamos pajamos įskaitomos į pajamas tų mėnesių, už kuriuos jos paskirtos, išskyrus šio straipsnio 9 dalyje numatytą atvejį.
 
 Straipsnio dalies pakeitimai:
 
@@ -580,7 +612,7 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 
-9. Darbo užmokestis, užmokestis už prastovas ne dėl darbuotojo kaltės, užmokestis už kasmetines atostogas, pensijos, pensijų išmokos, šalpos išmokos, kas mėnesį gaunamos išmokos ir (ar) pašalpos, ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokos, statutiniams valstybės tarnautojams (pareigūnams) ir krašto apsaugos sistemos kariams laikinojo nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ar atostogų vaikui prižiūrėti laikotarpiais išmokėtos išmokos, taip pat kitos kas mėnesį gaunamos pajamos, kurios buvo išmokėtos ne mažiau kaip vieną mėnesį pavėluotai, taip pat vienkartinės bei už du ar daugiau mėnesių iš karto išmokėtos kas mėnesį gaunamos pajamos ir piniginės lėšos, gautos vaikui (įvaikiui) išlaikyti (alimentai), išmokos, mokamos pagal Lietuvos Respublikos vaikų išlaikymo išmokų įstatymą, įskaitomos į pajamas tų mėnesių, kuriais jos buvo išmokėtos.
+9. Darbo užmokestis, užmokestis už prastovas ne dėl darbuotojo kaltės, užmokestis už kasmetines atostogas, pensijos, pensijos priemokos, pensijų išmokos, šalpos išmokos, kas mėnesį gaunamos išmokos ir (ar) pašalpos, ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokos, statutiniams valstybės tarnautojams (pareigūnams) ir krašto apsaugos sistemos kariams laikinojo nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ar atostogų vaikui prižiūrėti laikotarpiais išmokėtos išmokos, taip pat kitos kas mėnesį gaunamos pajamos, kurios buvo išmokėtos ne mažiau kaip vieną mėnesį pavėluotai, taip pat vienkartinės bei už du ar daugiau mėnesių iš karto išmokėtos kas mėnesį gaunamos pajamos ir piniginės lėšos, gautos vaikui (įvaikiui) išlaikyti (alimentai), išmokos, mokamos pagal Lietuvos Respublikos vaikų išlaikymo išmokų įstatymą, įskaitomos į pajamas tų mėnesių, kuriais jos buvo išmokėtos.
 
 Straipsnio dalies pakeitimai:
 
@@ -589,6 +621,8 @@ Nr. XII-1366, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19552
 Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
 
 Nr. XIII-651, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16001
+
+Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 
 Straipsnio dalies numeracijos pakeitimas:
 
