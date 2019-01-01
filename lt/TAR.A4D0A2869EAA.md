@@ -4,7 +4,7 @@ identifier: "TAR.A4D0A2869EAA"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-06-04"
-last_updated: "2015-12-31"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A4D0A2869EAA"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymas
 
-Suvestinė redakcija nuo 2015-12-31 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 62-2496, i. k. 1021010ISTA00IX-931
 
@@ -431,7 +431,11 @@ PRIEMONIŲ APYVARTOS REIKALAVIMAI
 
 4) užtikrinti civilinių pirotechnikos priemonių gamybai naudojamų žaliavų, nebaigtų gaminti ir pagamintų civilinių pirotechnikos priemonių saugos sąlygas, šalinančias ar iki minimumo sumažinančias civilinių pirotechnikos priemonių, pirotechninių mišinių ir žaliavų savaiminio užsidegimo ar sprogimo galimybę;
 
-5) parengti ir turėti objekto, kuriame laikomi ir gaminami civilinės pirotechnikos priemonės, pirotechniniai mišiniai, žaliavos, galimų avarijų prevencijos ir padarinių likvidavimo planus, suderintus su Priešgaisrinės apsaugos ir gelbėjimo departamentu ar jam pavaldžiomis įstaigomis;
+5) parengti ir turėti objekto, kuriame laikomi ir gaminami civilinės pirotechnikos priemonės, pirotechniniai mišiniai, žaliavos, galimų avarijų prevencijos ir padarinių likvidavimo planus, suderintus su Priešgaisrinės apsaugos ir gelbėjimo departamentu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
 
 6) gamindami civilines pirotechnikos priemones, įvertinti ir užtikrinti fizinį ir cheminį medžiagų stabilumą įvairiomis aplinkos sąlygomis;
 
@@ -447,9 +451,17 @@ PRIEMONIŲ APYVARTOS REIKALAVIMAI
 
 1) užtikrinti saugų civilinių pirotechnikos priemonių naudojimą;
 
-2) suderinti su savivaldybės administracijos direktoriumi ir Priešgaisrinės apsaugos ir gelbėjimo departamentu ar jam pavaldžiomis įstaigomis vietą, kurioje bus naudojami F4 kategorijos fejerverkai, T2 ar P2 kategorijų civilinės pirotechnikos priemonės, ir civilinių pirotechnikos priemonių naudojimo laiką;
+2) suderinti su savivaldybės administracijos direktoriumi ir Priešgaisrinės apsaugos ir gelbėjimo departamentu vietą, kurioje bus naudojami F4 kategorijos fejerverkai, T2 ar P2 kategorijų civilinės pirotechnikos priemonės, ir civilinių pirotechnikos priemonių naudojimo laiką;
 
-3) parengti ir turėti vietos, kurioje planuoja naudoti F4 kategorijos fejerverkus, T2 ar P2 kategorijų civilines pirotechnikos priemones, galimos avarijos prevencijos ir padarinių likvidavimo planą, suderintą su Priešgaisrinės apsaugos ir gelbėjimo departamentu ar jam pavaldžiomis įstaigomis.
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
+
+3) parengti ir turėti vietos, kurioje planuoja naudoti F4 kategorijos fejerverkus, T2 ar P2 kategorijų civilines pirotechnikos priemones, galimos avarijos prevencijos ir padarinių likvidavimo planą, suderintą su Priešgaisrinės apsaugos ir gelbėjimo departamentu.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
 
 5. Importuotojas arba platintojas, jeigu jis civilines pirotechnikos priemones rinkai pateikia savo vardu ar naudodamas savo prekės ženklą arba taip pakeičia pateiktas civilines pirotechnikos priemones, kad gali pasikeisti jų atitiktis nustatytiems reikalavimams, laikomas gamintoju ir įgyja visas šio straipsnio 3 dalyje nustatytas gamintojo pareigas.
 
@@ -485,7 +497,11 @@ PRIEMONIŲ APYVARTOS REIKALAVIMAI
 
 2) jeigu leidimą turintis subjektas per nustatytą terminą nepašalino trūkumų, dėl kurių leidimo galiojimas buvo sustabdytas;
 
-3) Priešgaisrinės apsaugos ir gelbėjimo departamentas ar jam pavaldi įstaiga, ar teritorinė policijos įstaiga per vienus metus antrą kartą praneša apie nustatytus pagal kompetenciją Lietuvos Respublikos teisės aktų, reglamentuojančių civilinių pirotechnikos priemonių apyvartą, pažeidimus, padarytus asmens, turinčio leidimą platinti F2 kategorijos fejerverkus;
+3) Priešgaisrinės apsaugos ir gelbėjimo departamentas ar teritorinė policijos įstaiga per vienus metus antrą kartą praneša apie nustatytus pagal kompetenciją Lietuvos Respublikos teisės aktų, reglamentuojančių civilinių pirotechnikos priemonių apyvartą, pažeidimus, padarytus asmens, turinčio leidimą platinti F2 kategorijos fejerverkus;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
 
 4) nustatoma, kad civilinės pirotechnikos priemonės buvo platinamos asmeniui, neturinčiam teisės jų įsigyti;
 
@@ -599,7 +615,11 @@ CIVILINIŲ PIROTECHNIKOS PRIEMONIŲ APYVARTOS KONTROLĖ
 
 22 straipsnis. Civilinių pirotechnikos priemonių apyvartos kontrolė, šią kontrolę atliekančių valstybės institucijų teisės ir pareigos
 
-1. Civilinių pirotechnikos priemonių apyvartą Lietuvos Respublikos teritorijoje pagal kompetenciją kontroliuoja Policijos departamentas ir jam pavaldžios įstaigos, Priešgaisrinės apsaugos ir gelbėjimo departamentas ir jam pavaldžios įstaigos, savivaldybės administracijos direktorius.
+1. Civilinių pirotechnikos priemonių apyvartą Lietuvos Respublikos teritorijoje pagal kompetenciją kontroliuoja Policijos departamentas ir jam pavaldžios įstaigos, Priešgaisrinės apsaugos ir gelbėjimo departamentas, savivaldybės administracijos direktorius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
 
 2. Lietuvos Respublikos Vyriausybės įgaliota institucija turi teisę riboti ar uždrausti laikyti, platinti ar naudoti F2 ir F3 kategorijų fejerverkus, teatrines ir kitas pirotechnikos priemones fiziniams, juridiniams asmenims, kitoms organizacijoms ar jų padaliniams (išskyrus licencijų turėtojus ir pirotechnikus), jeigu šių civilinių pirotechnikos priemonių laikymas, platinimas ir naudojimas kelia grėsmę žmonių gyvybei, sveikatai, aplinkai, visuomenės saugumui ir viešajai tvarkai.
 
@@ -726,4 +746,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2006, 2015-11-12, paskelbta TAR 2015-11-23, i. k. 2015-18574
 
 Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
+
+Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 15, 16 ir 22 straipsnių pakeitimo įstatymas
 
