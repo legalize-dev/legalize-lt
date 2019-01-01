@@ -4,7 +4,7 @@ identifier: "TAR.8447F63760E9"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-09-18"
-last_updated: "2018-10-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8447F63760E9"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-02
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
 
@@ -2320,7 +2320,17 @@ Draudimo sutartyje galima nustatyti atvejus ir tvarką, kai su kapitalo kaupimu 
 
 2. Jeigu gyvybės draudimo sutartį pripažinus negaliojančia draudėjo naudai taikoma restitucija, draudikas privalo grąžinti draudėjui išperkamąją sumą, jeigu ji yra didesnė už draudėjo sumokėtas draudimo įmokas.
 
-3. Išperkamosios sumos apskaičiavimo ir mokėjimo tvarka ir apytikriai išperkamosios sumos dydžiai turi būti nurodyti gyvybės draudimo sutartyje.
+3. Apskaičiuojant išperkamąją sumą, sukauptas draudėjo kapitalas negali būti mažinamas kitais mokesčiais ar draudiko nepadengtomis sąnaudomis, išskyrus draudimo sutarties nutraukimo mokestį, kurio dydis turi atitikti tik su draudimo sutarties nutraukimu susijusias tiesiogines išlaidas arba turi būti lygus 2 procentams sukaupto kapitalo vertės ir negali būti didesnis negu 50 eurų.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+
+4. Išperkamosios sumos apskaičiavimo ir mokėjimo tvarka ir apytikriai išperkamosios sumos dydžiai turi būti nurodyti gyvybės draudimo sutartyje.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 127 straipsnis. Iš draudimo sutarties atsirandančių turtinių teisių perleidimas
 
@@ -6675,6 +6685,32 @@ Priežiūros institucija nustato priemones, kurios skatintų jai pranešti apie 
 3) asmens duomenys tvarkomi asmens duomenų apsaugą reglamentuojančių teisės aktų nustatyta tvarka;
 
 4) užtikrinama tinkama darbuotojų, kurie praneša apie pažeidimus, apsauga nuo keršto, diskriminacijos ar kito neteisėto ar nesąžiningo elgesio.
+
+Papildyta straipsniu:
+
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+
+904 straipsnis. Pareiga valdyti investavimo kryptis geriausiomis sąlygomis
+
+1. Draudikas, įgyvendindamas investavimo krypties valdymo funkciją, turi efektyviai valdyti investavimo kryptis, kad būtų pasiektas geriausias rezultatas draudėjui, apdraustajam arba naudos gavėjui. Draudikas neturi teisės imti mokesčio už investavimo krypties valdymą, jeigu ši paslauga nėra teikiama.
+
+2. Draudikas, vykdydamas šio straipsnio 1 dalyje nurodytą pareigą, turi nustatyti ir įgyvendinti investavimo krypčių valdymo politiką, pagal kurią draudėjų pasirinktos investavimo kryptys būtų valdomos draudėjams, apdraustiesiems arba naudos gavėjams geriausiomis sąlygomis.
+
+3. Draudikas privalo užtikrinti, kad nustatyta investavimo krypčių valdymo politika ir visi esminiai jos pakeitimai būtų viešai paskelbti draudiko interneto svetainėje ar draudėjai apie juos būtų informuoti individualiai.
+
+4. Draudikas privalo nuolat stebėti ir analizuoti, ar investavimo krypčių valdymo politika veiksminga, o nustatęs jos trūkumų – nedelsdamas juos ištaisyti. Draudikas privalo peržiūrėti investavimo krypčių valdymo politiką ne rečiau kaip kartą per metus ir kiekvieną kartą, kai įvyksta pasikeitimas, galintis paveikti draudiko gebėjimą pasiekti draudėjui, apdraustajam arba naudos gavėjui geriausią rezultatą.
+
+5. Draudikas privalo veikti taip, kad bet kuriuo metu galėtų įrodyti, kad draudėjo pasirinkta investavimo kryptis buvo valdoma laikantis investavimo krypčių valdymo politikos.
+
+Papildyta straipsniu:
+
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+
+1151 straipsnis. Draudimo sutarties mokesčių, skirtų draudiko patiriamoms įsigijimo ir kitoms sąnaudoms, susijusioms su draudimo sutarčių sudarymu, padengti, išskaičiavimas
+
+1. Draudimo sutarties, susijusios su kapitalo kaupimu, mokesčius, skirtus draudiko patiriamoms įsigijimo ir kitoms sąnaudoms, susijusioms su draudimo sutarties sudarymu, padengti, draudikas privalo lygiomis dalimis išdėstyti ir išskaičiuoti iš mokamų draudimo įmokų per ne trumpesnį negu 3 metų laikotarpį nuo draudimo sutarties sudarymo arba per visą draudimo sutarties galiojimo laikotarpį, jei draudimo sutarties galiojimo laikotarpis trumpesnis negu 3 metai.
+
+2. Šio straipsnio 1 dalis taikoma draudimo sutartims, pagal kurias draudimo įmokos mokamos periodiškai, ir netaikoma, kai draudėjo mokamos įmokos yra vienkartinės.
 
 Papildyta straipsniu:
 
