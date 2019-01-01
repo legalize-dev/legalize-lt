@@ -4,7 +4,7 @@ identifier: "TAR.9E5C5C16B6E6"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-04-18"
-last_updated: "2018-06-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.9E5C5C16B6E6"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-06-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
 
@@ -606,11 +606,13 @@ Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
 
 8) mažmeninės prekybos vietose, kurios nėra visiškai izoliuotos nuo gyvenamųjų ar kitų patalpų, nesusijusių su prekių pardavimo organizavimu ar jų sandėliavimu;
 
-9) sporto varžybų metu. Šis draudimas netaikomas alkoholiniams gėrimams, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento;
+9) sporto renginių metu. Šis draudimas netaikomas alkoholiniams gėrimams, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
+
+Nr. XIII-1545, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17453
 
 10) kiekvienų metų rugsėjo 1 dieną. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems viešojo maitinimo vietose, tarptautinio susisiekimo traukiniuose, laivuose, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, viešbučių kambariuose įrengtuose minibaruose, taip pat neapmuitinamose parduotuvėse ir specialiosiose prekybos vietose;
 
@@ -1912,11 +1914,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
 
-5) sporto varžybų metu salėse, kuriose jos vyksta;
+5) sporto renginių metu salėse, kuriose jie vyksta;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
+
+Nr. XIII-1545, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17453
 
 6) švenčių, parodų, koncertų, teatro spektaklių, cirko ir kitų masinių renginių, dėl kurių yra priimtas savivaldybės tarybos sprendimas, numatytas šio įstatymo 18 straipsnio 8 dalyje, metu šių renginių vietose;
 
