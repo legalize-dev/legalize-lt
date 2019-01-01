@@ -4,7 +4,7 @@ identifier: "TAR.3CD1008B88A9"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-11-19"
-last_updated: "2015-03-28"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
 
-Suvestinė redakcija nuo 2015-03-28 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-12-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
 
@@ -86,7 +86,11 @@ BENDROSIOS NUOSTATOS
 
 14. Mobilizacijos sistema – mobilizacijos sistemos subjektų visuma ir ryšiai tarp jų.
 
-15. Mobilizacijos sistemos subjektai – Vyriausybė, Krašto apsaugos ministerija, Mobilizacijos departamentas prie Krašto apsaugos ministerijos (toliau – Mobilizacijos departamentas), Lietuvos kariuomenė, civilinės mobilizacijos institucijos ir ūkio mobilizacijos subjektai.
+15. Mobilizacijos sistemos subjektai – Vyriausybė, Krašto apsaugos ministerija, Mobilizacijos ir pilietinio pasipriešinimo departamentas prie Krašto apsaugos ministerijos (toliau – Mobilizacijos departamentas), Lietuvos kariuomenė, civilinės mobilizacijos institucijos ir ūkio mobilizacijos subjektai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1766, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20877
 
 16. Mobilizacinis mokymas – visuma paskaitų, seminarų ir pratybų, skirtų mokyti į civilinį mobilizacinio personalo rezervą įrašytus asmenis veikti ir atlikti jiems paskirtas užduotis paskelbus mobilizaciją.
 
@@ -242,7 +246,17 @@ Vyriausybė:
 
 14) pagal kompetenciją atlieka civilinių mobilizacijos institucijų ir ūkio subjektų pasirengimo mobilizacijai ir priimančiosios šalies paramai teikti patikrinimus, dalyvauja civilinėms mobilizacijos institucijoms atliekant ūkio mobilizacijos subjektų pasirengimo vykdyti sutartinius įsipareigojimus patikrinimus;
 
-15) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas mobilizacijos, demobilizacijos ir priimančiosios šalies paramos funkcijas.
+15) dalyvauja konkurso / atrankos komisijoje priimant į pareigas civilinių mobilizacijos institucijų valstybės tarnautojus / pakaitinius valstybės tarnautojus, kurie pagal institucijos kompetenciją organizuotų, koordinuotų, kontroliuotų šio įstatymo 10 straipsnio 1 dalyje nustatytų funkcijų atlikimą;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1766, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20877
+
+16) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas mobilizacijos, demobilizacijos ir priimančiosios šalies paramos funkcijas.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-1766, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20877
 
 3. Mobilizacijos departamentas turi teisę:
 
@@ -340,11 +354,23 @@ Vyriausybė:
 
 2) suderinęs su Mobilizacijos departamentu, tvirtina institucijos mobilizacijos planą;
 
-3) skiria iš civilinio mobilizacinio personalo rezervo asmenis, kurie pagal institucijos kompetenciją organizuotų, koordinuotų, kontroliuotų šio straipsnio 1 dalyje nustatytų funkcijų atlikimą;
+3) priima į pareigas valstybės tarnautojus, atitinkančius šio straipsnio 4 dalyje nustatytus specialiuosius reikalavimus, kurie pagal institucijos kompetenciją organizuotų, koordinuotų, kontroliuotų šio straipsnio 1 dalyje nustatytų funkcijų atlikimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1766, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20877
 
 4) užtikrina institucijos ir jai pavaldžių įstaigų civilinio mobilizacinio personalo rezervo naudojimą mobilizacijai vykdyti ar priimančiosios šalies paramai teikti;
 
 5) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas mobilizacijos, demobilizacijos ir priimančiosios šalies paramos funkcijas.
+
+4. Asmenys, priimami į pareigas šio straipsnio 1 dalyje nustatytoms funkcijoms atlikti, turi atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, žymima ne žemesne slaptumo žyma negu „Slaptai“, ir dėl jų turi būti gauta kompetentingos institucijos išvada, kad jiems gali būti išduotas leidimas dirbti ar susipažinti su įslaptinta informacija, ir mokėti anglų kalbą ne žemesniu kaip B2 lygiu, kuris nustatomas vadovaujantis 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos sprendimu (ES) 2018/646 dėl bendros geresnių paslaugų, susijusių su įgūdžiais ir kvalifikacijomis, teikimo sistemos („Europass“), kuriuo panaikinamas sprendimas Nr. 2241/2004/EB (OL 2018 L 112, p. 42).
+
+TAR pastaba. Valstybės tarnautojai, neatitinkantys 10 straipsnio 4 dalyje numatytų specialiųjų reikalavimų, privalo iki 2024 m. sausio 1 d. įgyti reikiamą kvalifikaciją, žinias ir įgūdžius.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1766, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20877
 
 11 straipsnis. Ūkio mobilizacijos subjektas
 
@@ -424,9 +450,17 @@ Mobilizacinio rezervo rengimą sudaro:
 
 3) darbovietė ir einamos pareigos;
 
-4) kontaktinis telefono numeris;
+4) Neteko galios nuo 2019-01-01
 
-5) gyvenamosios vietos adresas.
+Straipsnio punkto naikinimas:
+
+Nr. XIII-1766, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20877
+
+5) Neteko galios nuo 2019-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-1766, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20877
 
 6. Į civilinį mobilizacinio personalo rezervą įrašytų Lietuvos Respublikos piliečių duomenų apskaitą Vyriausybės nustatyta tvarka tvarko ir informaciją apie šių duomenų pasikeitimą Mobilizacijos departamentui teikia visi mobilizacijos sistemos subjektai.
 
@@ -741,4 +775,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1543, 2015-03-19, paskelbta TAR 2015-03-27, i. k. 2015-04362
 
 Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 20 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1766, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20877
+
+Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 2, 8, 10 ir 15 straipsnių pakeitimo įstatymas
 
