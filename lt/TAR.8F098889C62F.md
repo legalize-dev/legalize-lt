@@ -4,7 +4,7 @@ identifier: "TAR.8F098889C62F"
 country: "lt"
 rank: "istatymas"
 publication_date: "2007-07-04"
-last_updated: "2018-07-12"
+last_updated: "2019-01-01"
 status: "repealed"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8F098889C62F"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Įstatymo 11 straipsnio 5 dalies nuostatos įsigal
 ---
 # Lietuvos Respublikos kultūros rėmimo fondo įstatymas
 
-Suvestinė redakcija nuo 2018-07-12 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-11-03
 
 Įstatymas paskelbtas: Žin. 2007, Nr. 81-3320, i. k. 1071010ISTA00X-1260
 
@@ -35,13 +35,21 @@ KULTŪROS RĖMIMO FONDO
 
 Vilnius
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas reglamentuoja Kultūros rėmimo fondo (toliau – Fondas), kurio lėšos skiriamos kultūrai ir menui remti, administravimą ir likvidavimą, lėšų šaltinius ir lėšų naudojimą.
+Šis įstatymas reglamentuoja Kultūros rėmimo fondo (toliau – Fondas), kurio lėšos skiriamos kultūrai ir menui remti, statusą, lėšų šaltinius, lėšų naudojimo pagrindus, Fondo veiklos garantijas ir Fondo likvidavimą.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1458, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11771
 
 2 straipsnis. Kultūros rėmimo fondo statusas
 
-1. Fondo nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+1. Neteko galios nuo 2019-01-01.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1458, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11771
 
 2. Fondas nėra juridinis asmuo.
 
@@ -77,7 +85,11 @@ Nr. XIII-1458, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11771
 
 2. Lietuvos kultūros taryba kultūros ministro nustatyta tvarka priima sprendimus dėl Fondo lėšų skyrimo.
 
-3. Kultūros ministras tvirtina Fondo lėšomis finansuojamų projektų teikimo gaires. Šiose gairėse nustatoma Fondo rėmimo sritys ir jų prioritetai, rėmimo ir vertinimo kriterijai, paraiškos forma, projektų teikimo, lėšų skyrimo ir atsiskaitymo už panaudotas lėšas tvarka.
+3. Kultūros ministras tvirtina Fondo lėšomis finansuojamų projektų teikimo gaires. Šiose gairėse nustatoma Fondo rėmimo sritys ir jų prioritetai, rėmimo ir vertinimo kriterijai, projektų teikimo, lėšų skyrimo ir atsiskaitymo už panaudotas lėšas tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1458, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11771
 
 5 straipsnis. Fondo veiklos garantijos
 
