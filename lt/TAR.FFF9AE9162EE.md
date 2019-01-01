@@ -4,7 +4,7 @@ identifier: "TAR.FFF9AE9162EE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-05-13"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 47-1469, i. k. 0991010ISTAIII-1183
 
@@ -728,9 +728,9 @@ Kombinuota pakuotė
 
 579
 
-Metalinė pakuotė
+Metalinė pakuotė TAR pastaba. Šios nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių mokestį už aplinkos teršimą
 
-753
+186
 
 Popierinė ir kartoninė pakuotė
 
@@ -749,6 +749,8 @@ Nr. X-516, 2006-03-16, Žin., 2006, Nr. 32-1111 (2006-03-23)
 Priedo pakeitimai:
 
 Nr. XII-1195, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14128
+
+Nr. XIII-1792, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21120
 
 Lietuvos Respublikos
 
@@ -912,9 +914,7 @@ mokesčio už aplinkos teršimą
 
 7 priedėlis
 
-MOKESČIO UŽ APLINKOS TERŠIMĄ SĄVARTYNE ŠALINAMOMIS
-
-ATLIEKOMIS TARIFAI
+MOKESČIO UŽ APLINKOS TERŠIMĄ SĄVARTYNE ŠALINAMOMIS ATLIEKOMIS TARIFAI
 
 Sąvartyne šalinamų atliekų rūšis
 
@@ -938,7 +938,7 @@ nuo 2020 m.
 
 5
 
-21,72
+5
 
 27,51
 
@@ -973,6 +973,8 @@ Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 Priedo pakeitimai:
 
 Nr. XII-2244, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21031
+
+Nr. XIII-1793, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21122
 
 Lietuvos Respublikos
 
