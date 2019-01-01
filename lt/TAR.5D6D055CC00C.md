@@ -4,7 +4,7 @@ identifier: "TAR.5D6D055CC00C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-11-22"
-last_updated: "2018-11-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.5D6D055CC00C"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1996
 
-Suvestinė redakcija nuo 2018-11-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-08-31
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
 
@@ -706,11 +706,13 @@ Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 
 7. Kai miško žemę planuojama paversti kitomis naudmenomis, pirmenybė teikiama tai miško žemei, kuri neapaugusi mišku (kirtavietės, žuvę medynai, miško aikštės) ir kurioje auga mažo skalsumo stichinių veiksnių sudarkyti ar kitaip išretėję medynai. Visais atvejais turi būti atsižvelgiama į miškų aplinkosaugos reikšmę.
 
-8. Asmenys, inicijuojantys valstybinės miško žemės pavertimą kitomis naudmenomis, privalo į valstybės biudžetą sumokėti piniginę kompensaciją, kurią sudaro kitomis naudmenomis paverčiamos miško žemės sklypo vertė rinkos kainomis, jame augančio medyno įveisimo ir išauginimo iki amžiaus, kurį šis medynas pasiekė pavertimo kitomis naudmenomis metu, išlaidos ir prarasto medienos prieaugio, kurį šis medynas sukauptų iki nustatyto pagrindinių kirtimų amžiaus, vertė nenukirsto miško kainomis. Miško žemę paverčiant kitomis naudmenomis III grupės miškuose, mokama dvigubo dydžio piniginė kompensacija, II grupės miškuose – trigubo dydžio piniginė kompensacija. Reikalavimas sumokėti piniginę kompensaciją netaikomas už tą kitomis naudmenomis paverčiamos miško žemės dalį, kurioje formuojami atskirieji želdynai ir (ar) įrengiamos kapinės, taip pat kurioje įgyvendinami ypatingos valstybinės svarbos krašto apsaugos srities projektai.
+8. Asmenys, inicijuojantys valstybinės miško žemės pavertimą kitomis naudmenomis, privalo į valstybės biudžetą sumokėti piniginę kompensaciją, kurią sudaro kitomis naudmenomis paverčiamos miško žemės sklypo vertė rinkos kainomis, jame augančio medyno įveisimo ir išauginimo iki amžiaus, kurį šis medynas pasiekė pavertimo kitomis naudmenomis metu, išlaidos ir prarasto medienos prieaugio, kurį šis medynas sukauptų iki nustatyto pagrindinių kirtimų amžiaus, vertė nenukirsto miško kainomis. Miško žemę paverčiant kitomis naudmenomis, išskyrus šio straipsnio 1 dalies 8 punkte numatytą atvejį, III grupės miškuose, mokama dvigubo dydžio piniginė kompensacija, II grupės miškuose – trigubo dydžio piniginė kompensacija. Reikalavimas sumokėti piniginę kompensaciją netaikomas už tą kitomis naudmenomis paverčiamos miško žemės dalį, kurioje formuojami atskirieji želdynai ir (ar) įrengiamos kapinės, taip pat kurioje įgyvendinami ypatingos valstybinės svarbos krašto apsaugos srities projektai.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
+
+Nr. XIII-1644, 2018-11-15, paskelbta TAR 2018-11-27, i. k. 2018-19126
 
 9. Privačios miško žemės savininkai, organizuojantys privačios miško žemės pavertimą kitomis naudmenomis, privalo Vyriausybės nustatyta tvarka nuosavybės teise priklausančioje žemėje įveisti mišką ne mažesniame plote negu kitomis naudmenomis paverčiamos miško žemės plotas arba sumokėti į valstybės biudžetą šio straipsnio 8 dalyje nurodytą piniginę kompensaciją. Privačią miško žemę paverčiant kitomis naudmenomis III grupės miškuose, įveisiamo miško plotas turi būti ne mažesnis negu dvigubo dydžio kitomis naudmenomis paverčiamos miško žemės sklypo plotas, II grupės miškuose – ne mažesnis negu trigubo dydžio kitomis naudmenomis paverčiamos miško žemės sklypo plotas. Privačios miško žemės naudotojai, įskaitant servituto turėtojus, organizuojantys privačios miško žemės pavertimą kitomis naudmenomis, privalo sumokėti į valstybės biudžetą šio straipsnio 8 dalyje nurodytą piniginę kompensaciją.
 
@@ -952,7 +954,7 @@ Jeigu Lietuvos Respublikos tarptautinės sutartys nustato kitokius miško naudoj
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                            ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
