@@ -4,7 +4,7 @@ identifier: "TAR.8FBB384266D1"
 country: "lt"
 rank: "istatymas"
 publication_date: "2000-08-29"
-last_updated: "2018-07-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.8FBB384266D1"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos saugios laivybos įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-04-30
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2264, i. k. 1001010ISTAIII-1897
 
@@ -860,29 +860,21 @@ JURIDINIAI ASMENYS, KITOS ORGANIZACIJOS IR JŲ PADALINIAI, VYKDANTYS SU SAUGIA L
 
 1) gelbėjimosi priemonių remontas, tikrinimas ir bandymas;
 
-2) laivų pagrindinių ir pagalbinių mechanizmų, įrenginių ir susijusių sistemų, jų dalių remontas, tikrinimas ir bandymas;
+2) laivų priešgaisrinių priemonių remontas, tikrinimas ir bandymas;
 
-3) laivų priešgaisrinių priemonių remontas, tikrinimas ir bandymas;
+3) navigacinių ir radionavigacinių prietaisų remontas, tikrinimas ir bandymas;
 
-4) navigacinių ir radionavigacinių prietaisų remontas, tikrinimas ir bandymas;
+4) locmanų veikla;
 
-5) jūrlapių, įskaitant elektroninius jūrlapius, koregavimas;
+5) jūrų krovinių, išskyrus pavojinguosius ar aplinką teršiančius krovinius, krova;
 
-6) locmanų veikla;
+6) pavojingųjų ar aplinką teršiančių jūrų krovinių krova;
 
-7) laivų vilkimas (buksyravimas);
+7) jūrininkų įdarbinimo tarpininkavimo arba jūrininkų įdarbinimo laivuose veikla.
 
-8) povandeniniai techniniai darbai jūrų uostuose ir jūroje;
+Straipsnio dalies pakeitimai:
 
-9) gylių matavimas jūrų uostuose ir jūroje;
-
-10) jūrų krovinių, išskyrus pavojinguosius ar aplinką teršiančius krovinius, krova;
-
-11) pavojingųjų ar aplinką teršiančių jūrų krovinių krova;
-
-12) laivų švartavimas;
-
-13) jūrininkų įdarbinimo tarpininkavimo arba jūrininkų įdarbinimo laivuose veikla.
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
 
 3. Įmonės atestuojamos įmonių atestavimo taisyklėse, kurias tvirtina susisiekimo ministras, nustatyta tvarka.
 
@@ -908,13 +900,11 @@ JURIDINIAI ASMENYS, KITOS ORGANIZACIJOS IR JŲ PADALINIAI, VYKDANTYS SU SAUGIA L
 
 2) turėti gamintojo išduotus sertifikatus, leidžiančius atlikti atitinkamos gelbėjimosi priemonių įrangos patikrą ir remontą.
 
-2. Papildomi reikalavimai įmonėms, siekiančioms vykdyti ar vykdančioms laivų pagrindinių ir pagalbinių mechanizmų, įrenginių ir susijusių sistemų, jų dalių remonto, tikrinimo ir bandymo veiklą:
+2. Neteko galios nuo 2019-01-01
 
-1) turėti gamintojo patvirtintus techninius reikalavimus, kuriuos turi atitikti suremontuoti ir patikrinti laivų pagrindiniai ir pagalbiniai mechanizmai, įrenginiai ir susijusios sistemos;
+Straipsnio dalies naikinimas:
 
-2) turėti patvirtintą darbų kokybės kontrolės aprašą (procedūrą);
-
-3) turėti Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo (toliau – Mokesčio už aplinkos teršimą įstatymas) nustatyta tvarka išduotą taršos integruotos prevencijos ir kontrolės leidimą arba kitą dokumentą, įrodantį mokesčio už aplinkos teršimą sumokėjimą.
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
 
 3. Papildomi reikalavimai įmonėms, siekiančioms vykdyti ar vykdančioms laivų priešgaisrinių priemonių remonto, tikrinimo ir bandymo veiklą:
 
@@ -924,11 +914,11 @@ JURIDINIAI ASMENYS, KITOS ORGANIZACIJOS IR JŲ PADALINIAI, VYKDANTYS SU SAUGIA L
 
 4. Papildomas reikalavimas įmonėms, siekiančioms vykdyti ar vykdančioms navigacinių ir radionavigacinių prietaisų remonto, tikrinimo ir bandymo veiklą, – turėti gamintojo išduotą leidimą ar sertifikatą diegti jo įrangą.
 
-5. Papildomi reikalavimai įmonėms, siekiančioms vykdyti ar vykdančioms jūrlapių, įskaitant elektroninius jūrlapius, koregavimo veiklą:
+5. Neteko galios nuo 2019-01-01
 
-1) turėti su jūrlapių ir navigacinės informacijos teikėjais sudarytas sutartis, kuriose būtų nurodyti sutartyse numatytos informacijos pateikimo terminai;
+Straipsnio dalies naikinimas:
 
-2) turėti aparatūrą, leidžiančią priimti operatyvinę informaciją apie navigacinius pasikeitimus, arba sutartį su šiuos duomenis teikiančia organizacija.
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
 
 6. Papildomi reikalavimai įmonėms, siekiančioms vykdyti ar vykdančioms locmanų veiklą:
 
@@ -940,13 +930,11 @@ JURIDINIAI ASMENYS, KITOS ORGANIZACIJOS IR JŲ PADALINIAI, VYKDANTYS SU SAUGIA L
 
 4) turėti su uostų direkcijomis sudarytas sutartis dėl uosto laivų eismo reguliavimo sistemų naudojimo.
 
-7. Papildomi reikalavimai įmonėms, siekiančioms vykdyti ar vykdančioms laivų vilkimo (buksyravimo) veiklą:
+7. Neteko galios nuo 2019-01-01
 
-1) turėti laivų vilkimo tvarkos aprašus (procedūras), patvirtintus įmonės vadovo;
+Straipsnio dalies naikinimas:
 
-2) turėti galiojantį Lietuvos Respublikos ryšių reguliavimo tarnybos leidimą naudoti laivo radijo stotį;
-
-3) turėti ultratrumpųjų bangų ryšio radijo stotį, kurios galingumas būtų ne mažesnis kaip 25 W.
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
 
 8. Papildomi reikalavimai įmonėms, siekiančioms vykdyti ar vykdančioms jūrų krovinių, išskyrus pavojinguosius ar aplinką teršiančius krovinius, krovos veiklą:
 
@@ -968,11 +956,11 @@ JURIDINIAI ASMENYS, KITOS ORGANIZACIJOS IR JŲ PADALINIAI, VYKDANTYS SU SAUGIA L
 
 3) turėti techninių priemonių arba įrenginių, skirtų atliekoms, susidariusioms perkraunant pavojinguosius ar aplinką teršiančius jūrų krovinius, pašalinti arba sudarytą sutartį dėl tokių atliekų pašalinimo.
 
-10. Papildomi reikalavimai įmonėms, siekiančioms vykdyti ar vykdančioms laivų švartavimo veiklą:
+10. Neteko galios nuo 2019-01-01
 
-1) turėti jūrų uosto laivybos taisyklėse nustatytą švartuotojų skaičių;
+Straipsnio dalies naikinimas:
 
-2) turėti švartavimo operacijų žurnalą.
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
 
 11. Papildomi reikalavimai įmonėms, siekiančioms vykdyti ar vykdančioms jūrininkų įdarbinimo tarpininkavimo arba jūrininkų įdarbinimo laivuose veiklą:
 
@@ -984,11 +972,19 @@ JURIDINIAI ASMENYS, KITOS ORGANIZACIJOS IR JŲ PADALINIAI, VYKDANTYS SU SAUGIA L
 
 4) įmonės vadovas arba atsakingas už jūrininkų atranką asmuo turi turėti aukštąjį universitetinį technologijos mokslų studijų srities jūrų inžinerijos ar jūrų technologijos krypčių išsilavinimą arba turėti ne trumpesnę kaip vienų metų darbo patirtį įmonėje, kuri verčiasi jūrininkų įdarbinimu, ar laivybos bendrovės personalo tarnyboje.
 
-12. Papildomas reikalavimas įmonėms, siekiančioms vykdyti povandeninius techninius darbus jūrų uostuose ir jūroje, – turėti įmonės vadovo patvirtintas narų darbų saugos taisykles.
+12. Neteko galios nuo 2019-01-01
+
+Straipsnio dalies naikinimas:
+
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
 
 40 straipsnis. Įmonės, siekiančios būti atestuota, atestavimas, atsisakymas įmonę atestuoti, veiklos ar jos dalies atestacijos galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir galiojimo panaikinimas
 
-1. Įmonė, siekianti būti atestuota, Administracijai įmonių atestavimo taisyklėse nustatyta tvarka tiesiogiai, registruotu laišku arba elektroninėmis priemonėmis (kreipdamasi tiesiogiai į Administraciją ar per Paslaugų ir gaminių kontaktinį centrą) pateikia prašymą, kurio formą tvirtina Administracija, ir kitus įmonių atestavimo taisyklėse nurodytus dokumentus.
+1. Įmonė, siekianti būti atestuota, Administracijai įmonių atestavimo taisyklėse nustatyta tvarka tiesiogiai, registruotu laišku arba elektroninėmis priemonėmis (kreipdamasi tiesiogiai į Administraciją ar per Paslaugų ir gaminių kontaktinį centrą) pateikia prašymą, kurio formą tvirtina Administracija, ir kitus įmonių atestavimo taisyklėse nurodytus dokumentus. Sprendimas atestuoti įmonę ir ją įrašyti į atestuotų įmonių sąrašą ar rašytinis motyvuotas atsisakymas atestuoti įmonę pateikiamas įmonei per 20 darbo dienų nuo visų dokumentų, kurių reikia įmonei atestuoti, gavimo dienos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
 
 2. Įmonė neatestuojama, jeigu:
 
@@ -1016,6 +1012,12 @@ Nr. XIII-783, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18846
 
 4. Sustabdžiusi atestuotą veiklą ar jos dalį, Administracija raštu nustato terminą, per kurį įmonė privalo ištaisyti šio straipsnio 3 dalies 1, 2, 3 ir 4 punktuose nurodytus atestuotos veiklos sąlygų pažeidimus. Pašalinusi pažeidimus, įmonė raštu apie tai praneša Administracijai, kuri patikrina informaciją ir per 10 darbo dienų priima sprendimą panaikinti atestuotos veiklos sustabdymą arba panaikinti atestacijos galiojimą, jeigu pažeidimai per nustatytą terminą nepašalinti.
 
+41. Administracija, atsisakiusi atestuoti įmonę, panaikinusi įmonės veiklos ar jos dalies atestacijos galiojimą, sustabdžiusi įmonės veiklos ar jos dalies atestacijos galiojimą, panaikinusi įmonės veiklos ar jos dalies atestacijos galiojimo sustabdymą, apie tai nedelsdama, bet ne vėliau kaip per 2 darbo dienas nuo sprendimo priėmimo, raštu informuoja įmonę.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
+
 5. Įmonės veiklos ar jos dalies atestacijos galiojimas panaikinamas, jeigu:
 
 1) įmonė pateikia prašymą Administracijai panaikinti veiklos ar jos dalies atestacijos galiojimą;
@@ -1026,15 +1028,19 @@ Nr. XIII-783, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18846
 
 4) įmonė po atestuotos veiklos sustabdymo tęsia atestuotą veiklą.
 
-6. Įmonė, gali būti atestuota vykdyti vieną ar kelias šio įstatymo 37 straipsnio 2 dalyje nurodytas veiklas, taip pat ir tik tam tikrą veiklą, kuri apima tik dalį šio įstatymo 37 straipsnio 2 dalies 1–13 punktuose nustatytų veiklų.
+6. Įmonė gali būti atestuota vykdyti vieną ar kelias šio įstatymo 37 straipsnio 2 dalyje nurodytas veiklas, taip pat tam tikrą veiklą, kuri apima tik dalį šio įstatymo 37 straipsnio 2 dalyje nustatytų veiklų.
 
-7. Įmonė atestuota vykdyti šio įstatymo 37 straipsnio 2 dalies 11 punkte nurodytą veiklą, taip pat gali vykdyti ir šio įstatymo 37 straipsnio 2 dalies 10 punkte nurodytą veiklą be atskiros atestacijos.
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
+
+7. Įmonė, atestuota vykdyti šio įstatymo 37 straipsnio 2 dalies 6 punkte nurodytą veiklą, taip pat gali vykdyti šio įstatymo 37 straipsnio 2 dalies 5 punkte nurodytą veiklą be atskiros atestacijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
 
 8. Įmonių veiklos, susijusios su šio įstatymo 37 straipsnio 2 dalyje nustatytomis paslaugomis, valstybinę priežiūrą atlieka Administracija Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka. Administracija turi teisę atsisakyti atestuoti įmonę, sustabdyti atestuotą veiklą ar jos dalį ar panaikinti atestacijos galiojimą. Šie veiksmai įforminami Administracijos direktoriaus įsakymu.
-
-PENKIOLIKTASIS SKIRSNIS
-
-LAIVO ĮRENGINIAI
 
 41 straipsnis. Laivo įrenginiai
 
@@ -1308,6 +1314,14 @@ Nr. XIII-783, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18846
 
 Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 40 straipsnio pakeitimo įstatymas
 
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
+
+Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 20-1, 37, 39, 40 straipsnių pakeitimo ir Įstatymo papildymo 40-1 straipsniu įstatymas
+
 281 straipsnis. Laivų ir jų įgulų atitikties tarptautiniams reikalavimams dėl darbo jūrų laivyboje vertinimo tikslas ir įgaliojimų suteikimas
 
 1. Laivų ir jų įgulų atitikties tarptautiniams reikalavimams dėl darbo jūrų laivyboje vertinimo tikslas – nustatyti, ar laivuose yra įgyvendinti Lietuvos Respublikos tarptautinių sutarčių ir Lietuvos Respublikos teisės aktų, reglamentuojančių jūrininkų darbą jūrų laivyboje, reikalavimai.
@@ -1340,15 +1354,31 @@ LAIVO VALDYTOJO IR LAIVO KAPITONO TEISĖS IR PAREIGOS SAUGIOS LAIVYBOS UŽTIKRIN
 
 7) laivai iki 200 metrų ilgio, kurie yra remontuojami laivų remonto įmonių akvatorijose ir kuriuose locmano funkcijas atlieka laivų remonto įmonių kapitonai, turintys Administracijos išduotus locmano liudijimus;
 
-8) linijiniai laivai ir (ar) laivai, kurie veža vienarūšius krovinius ir kurių kapitonai šio įstatymo nustatyta tvarka yra gavę uosto kapitono neterminuotą leidimą plaukioti Lietuvos Respublikos jūrų uosto akvatorijoje be locmano (toliau šiame straipsnyje – leidimas).
+8) linijiniai laivai, kurių kapitonai šio įstatymo nustatyta tvarka yra gavę uosto kapitono neterminuotą leidimą plaukioti Lietuvos Respublikos jūrų uosto akvatorijoje be locmano (toliau šiame straipsnyje – leidimas).
 
-2. Leidimų išdavimo, atsisakymo juos išduoti, leidimų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, leidimų galiojimo panaikinimo, linijinio laivo ir (ar) laivo, kuris veža vienarūšius krovinius, kapitono (toliau šiame straipsnyje – laivo kapitonas) veiklos priežiūros, egzaminų komisijos sudarymo ir egzaminų organizavimo tvarką nustato susisiekimo ministras.
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
+
+2. Leidimų išdavimo, atsisakymo juos išduoti, leidimų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, leidimų galiojimo panaikinimo, linijinio laivo kapitono (toliau šiame straipsnyje – laivo kapitonas) veiklos priežiūros, egzaminų komisijos sudarymo ir egzaminų organizavimo tvarką nustato susisiekimo ministras.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
 
 3. Laivo kapitonas, norintis gauti leidimą, turi atitikti šiuos reikalavimus:
 
-1) jo vadovaujamas linijinis laivas privalo būti įplaukęs (išplaukęs) į (iš) uostą (uosto) su locmanu pagal su uostą valdančia įmone suderintą tvarkaraštį ne mažiau kaip 3 kartus per mėnesį;
+1) jo vadovaujamas linijinis laivas privalo būti įplaukęs (išplaukęs) į (iš) uostą (uosto) su locmanu pagal su uostą valdančia įmone suderintą tvarkaraštį ne mažiau kaip 6 kartus per 3 mėnesius;
 
-2) jo vadovaujamas laivas, kuris veža vienarūšius krovinius, privalo būti įplaukęs (išplaukęs) į (iš) uostą (uosto) su locmanu ne mažiau kaip 6 kartus, o nuo paskutinio įplaukimo į uostą iki prašymo gauti leidimą pateikimo turi būti praėję ne daugiau kaip 12 mėnesių;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
+
+2) neteko galios 2019-01-01;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
 
 3) turėti laivo vairinėje laivavedį, mokantį valstybinę kalbą;
 
@@ -1362,7 +1392,11 @@ LAIVO VALDYTOJO IR LAIVO KAPITONO TEISĖS IR PAREIGOS SAUGIOS LAIVYBOS UŽTIKRIN
 
 7. Uosto kapitonas per 15 darbo dienų nuo laivo kapitono prašymo ir laivo kapitono pateiktų visų reikiamų dokumentų gavimo dienos egzaminuoja laivo kapitoną ir išduoda leidimą arba motyvuotai atsisako tai padaryti (kai nustatoma, kad laivo kapitonas neatitinka bent vieno iš šio straipsnio 3 dalyje nustatytų reikalavimų) ir apie tai per 2 darbo dienas informuoja laivo kapitoną.
 
-8. Linijinio laivo kapitonas, kuris turi leidimą, privalo įplaukti (išplaukti) į (iš) uostą (uosto) pagal su uostą valdančia įmone suderintą tvarkaraštį ne mažiau kaip 3 kartus per mėnesį. Laivo, kuris veža vienarūšius krovinius, kapitonas, kuris turi leidimą, privalo įplaukti (išplaukti) į (iš) uostą (uosto) ne mažiau kaip 6 kartus per 12 mėnesių laikotarpį.
+8. Laivo kapitonas, kuris turi leidimą, privalo įplaukti (išplaukti) į (iš) uostą (uosto) pagal su uostą valdančia įmone suderintą tvarkaraštį ne mažiau kaip 6 kartus per 3 mėnesius.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
 
 9. Uosto kapitonas, nustatęs, kad laivo kapitonas pažeidžia bent vieną iš šio straipsnio 8 dalyje ir (ar) šio įstatymo 13 straipsnio 3 dalyje nustatytų reikalavimų, įspėja laivo kapitoną apie galimą leidimo galiojimo sustabdymą ir nustato nuo įspėjimo apie galimą leidimo galiojimo sustabdymą gavimo ne trumpesnį kaip 10 darbo dienų ir ne ilgesnį kaip 20 darbo dienų terminą, per kurį nustatyti pažeidimai turi būti pašalinti. Laivo kapitonas, per nustatytą terminą pašalinęs visus pažeidimus, privalo per 2 darbo dienas apie tai pranešti uosto kapitonui ir pateikti tai patvirtinančią informaciją.
 
@@ -1389,4 +1423,24 @@ LAIVO VALDYTOJO IR LAIVO KAPITONO TEISĖS IR PAREIGOS SAUGIOS LAIVYBOS UŽTIKRIN
 Papildyta straipsniu:
 
 Nr. XII-2129, 2015-12-03, paskelbta TAR 2015-12-10, i. k. 2015-19623
+
+401 straipsnis. Reikalavimai įmonėms, siekiančioms vykdyti povandeninius techninius darbus jūrų uostuose ir jūroje
+
+1. Įmonė, vykdanti povandeninius techninius darbus jūrų uostuose ir jūroje, turi turėti:
+
+1) įmonės vadovo pagal Tarptautinės rangovų, dirbančių jūroje, asociacijos (IMCA) priimtas Nardymo gaires (D 014) patvirtintas narų darbų saugos taisykles, kuriose turi būti nustatyta narų darbų planavimo, vykdymo ir vadovavimo jiems tvarka, įrangos techninės priežiūros kontrolės, saugos ir sveikatos reikalavimų užtikrinimo, darbuotojų instruktavimo ir žinių tikrinimo tvarka, veiksmų nenumatytomis, avarinėmis situacijomis ir pagalbos suteikimo tvarka;
+
+2) narų komandą (komandas) arba narų stotį (stotis), aprūpintas reikalinga įranga narų darbams saugiai atlikti, o narų povandeninių techninių darbų kvalifikacija turi būti įgyta bet kurioje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje.
+
+2. Povandeninius techninius darbus jūrų uostuose ir jūroje draudžiama atlikti narams mėgėjams.
+
+3. Įmonių, vykdančių povandeninius techninius darbus jūrų uostuose ir jūroje, atitiktį nustatytiems teisės aktų reikalavimams atlieka Administracija susisiekimo ministro nustatyta tvarka.
+
+Papildyta straipsniu:
+
+Nr. XIII-1662, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19159
+
+PENKIOLIKTASIS SKIRSNIS
+
+LAIVO ĮRENGINIAI
 
