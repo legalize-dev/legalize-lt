@@ -4,7 +4,7 @@ identifier: "TAR.F8D00907FFBE"
 country: "lt"
 rank: "istatymas"
 publication_date: "1999-11-23"
-last_updated: "2015-07-04"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.F8D00907FFBE"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2015-07-04 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-06-11
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 104-2976, i. k. 0991010ISTAIII-1436
 
@@ -231,7 +231,11 @@ Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA
 
 2) eiti prokurorų, valstybės kontrolės pareigūnų, statutinių valstybės tarnautojų pareigų;
 
-3) eiti valstybės tarnautojo ar civilio statutinio valstybės tarnautojo pareigų krašto apsaugos sistemoje, atlikti tikrosios karo tarnybos;
+3) eiti valstybės tarnautojo pareigų krašto apsaugos sistemoje, atlikti tikrosios karo tarnybos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1816, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21836
 
 4) eiti valstybės tarnautojo pareigų Valstybės saugumo departamente;
 
@@ -281,7 +285,7 @@ Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
 Pakeitimai:
 
@@ -316,4 +320,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1911, 2015-06-30, paskelbta TAR 2015-07-03, i. k. 2015-10826
 
 Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo Nr. VIII-1436 8 straipsnio pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1816, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21836
+
+Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo Nr. VIII-1436 9 straipsnio pakeitimo įstatymas
 
