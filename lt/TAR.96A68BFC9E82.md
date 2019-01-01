@@ -4,7 +4,7 @@ identifier: "TAR.96A68BFC9E82"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-19"
-last_updated: "2018-07-17"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-07-17 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-07-01
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
 
@@ -91,7 +91,11 @@ VYRIAUSYBĖS SUDARYMAS
 
 3. Vyriausybė gauna įgaliojimus veikti, kai Seimas posėdyje dalyvaujančių narių balsų dauguma pritaria jos programai.
 
-4. Kai Seimas pritaria Vyriausybės programai, Vyriausybė privalo per 3 mėnesius patvirtinti šios programos nuostatų įgyvendinimo prioritetines priemones.
+4. Kai Seimas pritaria Vyriausybės programai, Vyriausybė privalo per 3 mėnesius patvirtinti Vyriausybės programos nuostatų įgyvendinimo planą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
 Straipsnio pakeitimai:
 
@@ -319,7 +323,11 @@ Ministras Pirmininkas ir ministrai turi teisę Seimo statuto nustatyta tvarka da
 
 18 straipsnis. Vyriausybės narių atsakymų į Seimo narių paklausimus tvarka
 
-1. Ministras Pirmininkas arba ministras, kuriam Seimo sesijoje yra pateiktas Seimo nario paklausimas dėl Vyriausybės, ministerijų ar kitų Vyriausybės įstaigų veiklos, privalo atsakyti žodžiu ar raštu Seimo statuto nustatyta tvarka.
+1. Ministras Pirmininkas arba ministras, kuriam Seimo sesijoje yra pateiktas Seimo nario paklausimas dėl Vyriausybės, ministerijų, Vyriausybės įstaigų, įstaigų prie ministerijų bei kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė arba ministerija, veiklos, privalo atsakyti žodžiu ar raštu Seimo statuto nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
 2. Ministras Pirmininkas ir ministrai Seimo sesijos metu Seimo statuto nustatyta tvarka atsako į Seimo narių klausimus.
 
@@ -365,7 +373,11 @@ Vyriausybė:
 
 2) vykdo įstatymus ir Seimo nutarimus dėl įstatymų įgyvendinimo, taip pat Respublikos Prezidento dekretus, tvirtina norminių teisės aktų koncepcijas, rengia Valstybės pažangos strategiją ir teikia ją tvirtinti Seimui;
 
-3) įgyvendina Vyriausybės programą, tvirtina kasmetinius savo veiklos prioritetus ir planuojamus pasiekti rezultatus ministrams pavestose valdymo srityse, koordinuoja ministerijų ir Vyriausybės įstaigų veiklą;
+3) įgyvendina Vyriausybės programą, tvirtina Vyriausybės programos nuostatų įgyvendinimo planą ir prioritetinių darbų sąrašą, koordinuoja ministerijų ir Vyriausybės įstaigų, kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė, veiklą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
 4) rengia ir teikia Seimui valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą; organizuoja valstybės biudžeto vykdymą, teikia Seimui valstybės biudžeto įvykdymo apyskaitą; taip pat teikia Seimui Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų rodiklių patvirtinimo įstatymų projektus bei Valstybinio socialinio draudimo fondo biudžeto ir Privalomojo sveikatos draudimo fondo vykdymo ataskaitas;
 
@@ -375,15 +387,21 @@ Vyriausybė:
 
 7) teikia Seimui siūlymus dėl ministerijų steigimo ir panaikinimo;
 
-8) steigia, reorganizuoja, pertvarko ir likviduoja Vyriausybės įstaigas, steigia įstaigas prie ministerijų ir paveda ministerijoms įgyvendinti įstaigų prie ministerijų savininko teises ir pareigas (išskyrus sprendimų dėl tokių įstaigų reorganizavimo ir likvidavimo priėmimą);
+8) steigia, reorganizuoja ir likviduoja Vyriausybės įstaigas, steigia įstaigas prie ministerijų ir paveda ministerijoms įgyvendinti įstaigų prie ministerijų savininko teises ir pareigas (išskyrus sutikimų dėl tokių įstaigų reorganizavimo ir likvidavimo priėmimą), steigia, reorganizuoja ir likviduoja kitas biudžetines įstaigas, kurių savininko teises ir pareigas įgyvendina Vyriausybė ar Vyriausybės įgaliota valstybės valdymo institucija;
 
-9) tvirtina ministerijų, Vyriausybės kanceliarijos, Vyriausybės įstaigų, įstaigų prie ministerijų, Vyriausybės atstovo tarnybos nuostatus, Vyriausybės įstaigų administracijos struktūrą arba paveda ją tvirtinti Vyriausybės įstaigos vadovui, jei kiti įstatymai nenustato kitos jos tvirtinimo tvarkos; tvirtinti įstaigų prie ministerijų nuostatus ir jų administracijos struktūrą Vyriausybė gali pavesti atitinkamos valdymo srities ministrui, jei kiti įstatymai nenustato kitos jų tvirtinimo tvarkos;
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+
+9) tvirtina ministerijų, Vyriausybės kanceliarijos, Vyriausybės įstaigų, įstaigų prie ministerijų, Vyriausybės atstovo tarnybos, kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė arba ministerijos, nuostatus, Vyriausybės įstaigų bei kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė, administracijos struktūrą arba paveda ją tvirtinti Vyriausybės įstaigos arba kitos Vyriausybės įsteigtos biudžetinės įstaigos vadovui, jei kiti įstatymai nenustato kitos jos tvirtinimo tvarkos; tvirtinti įstaigų prie ministerijų nuostatus ir jų administracijos struktūrą Vyriausybė gali pavesti atitinkamos valdymo srities ministrui, jei kiti įstatymai nenustato kitos jų tvirtinimo tvarkos;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1862, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10824
 
 Nr. XIII-1431, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11739
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
 10) kartu su Respublikos Prezidentu vykdo užsienio politiką; užmezga diplomatinius santykius ir palaiko ryšius su užsienio valstybėmis bei tarptautinėmis organizacijomis; atsižvelgdama į Seimo Užsienio reikalų komiteto rekomendacijas, teikia Respublikos Prezidentui siūlymus dėl Lietuvos Respublikos diplomatinių atstovų užsienio valstybėse ir prie tarptautinių organizacijų skyrimo bei atšaukimo;
 
@@ -393,7 +411,7 @@ Nr. XIII-1431, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11739
 
 13) turi teisę kreiptis į Konstitucinį Teismą su prašymu ištirti, ar Lietuvos Respublikos įstatymai ar kiti Seimo priimti teisės aktai neprieštarauja Lietuvos Respublikos Konstitucijai;
 
-14) priima į pareigas ir atleidžia iš jų Vyriausybės atstovus, Vyriausybės įgaliotinį ir jo pavaduotoją, Vyriausybės įstaigų vadovus, kitus įstatymų nustatytus valstybės tarnautojus ir pareigūnus, juos skatina; atitinkamos valdymo srities ministro teikimu Vyriausybės priimtiems valstybės tarnautojams ir pareigūnams skiria tarnybines nuobaudas.
+14) priima į pareigas ir atleidžia iš jų Vyriausybės atstovus, Vyriausybės įgaliotinį ir jo pavaduotoją, Vyriausybės įstaigų vadovus, kitus įstatymų nustatytus valstybės tarnautojus ir pareigūnus, juos skatina; atitinkamos valdymo srities ministro teikimu Vyriausybės priimtiems valstybės tarnautojams ir pareigūnams skiria tarnybines nuobaudas;
 
 Straipsnio punkto pakeitimai:
 
@@ -509,11 +527,19 @@ Nr. X-1182, 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
 
 1. Ministrai yra atsakingi už jiems pavestas valdymo sritis, kurias nustato šis ir kiti įstatymai.
 
-2. Ministrą laikinai pavaduoti gali tik Ministro Pirmininko paskirtas kitas Vyriausybės narys. Pavaduojantis ministras neatlieka šio straipsnio 3 dalies 6, 9, 13, 14, 15, 16 ir 17 punktuose nurodytų funkcijų.
+2. Ministrą laikinai pavaduoti gali tik Ministro Pirmininko paskirtas kitas Vyriausybės narys. Pavaduojantis ministras neatlieka šio straipsnio 3 dalies 6, 9, 16 ir 17 punktuose nurodytų funkcijų, išskyrus atvejus, kai pavaduojamas ministras negali atlikti savo funkcijų ilgiau negu 30 dienų.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
 3. Ministras:
 
-1) vadovauja ministerijai, sprendžia ministerijos kompetencijai priklausančius klausimus ir yra tiesiogiai atsakingas už Vyriausybės programos ir kasmetinių Vyriausybės veiklos prioritetų bei planuojamų pasiekti rezultatų jam pavestose valdymo srityse įgyvendinimą;
+1) vadovauja ministerijai, sprendžia ministerijos kompetencijai priklausančius klausimus ir yra tiesiogiai atsakingas už Vyriausybės programos bei Vyriausybės programos nuostatų įgyvendinimo plano ir prioritetinių darbų jam pavestose valdymo srityse įgyvendinimą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
 2) užtikrina įstatymų, Lietuvos Respublikos tarptautinių sutarčių, Respublikos Prezidento dekretų, Vyriausybės nutarimų, Vyriausybės sprendimų, Vyriausybės rezoliucijų, Ministro Pirmininko potvarkių ir kitų teisės aktų įgyvendinimą;
 
@@ -641,31 +667,35 @@ Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
 
 1) Aplinkos ministerija;
 
-2) Energetikos ministerija;
+2) Ekonomikos ir inovacijų ministerija;
 
-3) Finansų ministerija;
+3) Energetikos ministerija;
 
-4) Krašto apsaugos ministerija;
+4) Finansų ministerija;
 
-5) Kultūros ministerija;
+5) Krašto apsaugos ministerija;
 
-6) Socialinės apsaugos ir darbo ministerija;
+6) Kultūros ministerija;
 
-7) Susisiekimo ministerija;
+7) Socialinės apsaugos ir darbo ministerija;
 
-8) Sveikatos apsaugos ministerija;
+8) Susisiekimo ministerija;
 
-9) Švietimo ir mokslo ministerija;
+9) Sveikatos apsaugos ministerija;
 
-10) Teisingumo ministerija;
+10) Švietimo, mokslo ir sporto ministerija;
 
-11) Ūkio ministerija;
+11) Teisingumo ministerija;
 
 12) Užsienio reikalų ministerija;
 
 13) Vidaus reikalų ministerija;
 
 14) Žemės ūkio ministerija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1544, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17328
 
 3. Ministerijas Vyriausybės siūlymu steigia ir panaikina Seimas, priimdamas įstatymą.
 
@@ -715,7 +745,17 @@ Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
 
 4. Įstaiga prie ministerijos veikia pagal Vyriausybės nustatyta tvarka parengtą ir atitinkamos valdymo srities ministro patvirtintą metinį veiklos planą.
 
-5. Įstaigos prie ministerijos vadovą ketverių metų kadencijai Valstybės tarnybos įstatymo nustatyta tvarka (ne politinio (asmeninio) pasitikėjimo pagrindu) priima į pareigas ir atleidžia iš jų atitinkamos valdymo srities ministras. Įstaigos prie ministerijos vadovas gali būti skiriamas eiti tos pačios įstaigos vadovo pareigas ne daugiau kaip dvi kadencijas iš eilės. Įstaigos prie ministerijos vadovas yra tiesiogiai pavaldus ir atskaitingas atitinkamos valdymo srities ministrui. Įstatymai gali nustatyti kitokį įstaigų prie ministerijų vadovų priėmimą, kadencijos trukmę, pavaldumą ir atskaitomybę.
+5. Įstaigos prie ministerijos vadovą Valstybės tarnybos įstatymo nustatyta tvarka priima į pareigas ir atleidžia iš jų atitinkamos valdymo srities ministras. Įstaigos prie ministerijos vadovas yra tiesiogiai pavaldus ir atskaitingas atitinkamos valdymo srities ministrui. Įstatymai gali nustatyti kitokį įstaigų prie ministerijų vadovų priėmimą, kadencijos trukmę, pavaldumą ir atskaitomybę.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+
+6. Įstaiga prie ministerijos gali turėti kolegiją. Šios kolegijos sudarymo tvarką ir kompetenciją nustato Vyriausybė.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
 Straipsnio pakeitimai:
 
@@ -731,7 +771,11 @@ Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
 
 31 straipsnis. Ministro politinio (asmeninio) pasitikėjimo valstybės tarnautojai ir visuomeniniai konsultantai
 
-1. Ministro politinio (asmeninio) pasitikėjimo valstybės tarnautojai – viceministrai, ministro patarėjas (patarėjai), ministro atstovas spaudai ir kiti ministro politinio (asmeninio) pasitikėjimo valstybės tarnautojai – padeda ministrui suformuoti politines nuostatas ir prioritetus, priimti sprendimus ir juos įgyvendinti.
+1. Ministro politinio (asmeninio) pasitikėjimo valstybės tarnautojai – viceministrai, ministerijos kancleris, ministro patarėjas (patarėjai), ministro atstovas spaudai ir kiti ministro politinio (asmeninio) pasitikėjimo valstybės tarnautojai – padeda ministrui suformuoti politines nuostatas ir prioritetus, priimti sprendimus ir juos įgyvendinti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1804, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21812
 
 2. Viceministrų skaičių ministro teikimu tvirtina Vyriausybė. Ministerijoje negali būti daugiau negu keturi viceministrai.
 
@@ -955,13 +999,19 @@ Straipsnio pakeitimai:
 
 Nr. X-500, 2006-01-19, Žin., 2006, Nr. 17-596 (2006-02-11)
 
-42 straipsnis. Vyriausybės posėdžių protokolai
+42 straipsnis. Vyriausybės posėdžių ir pasitarimų viešumas
 
-Vyriausybės posėdžiai yra protokoluojami ir daromas jų garso įrašas, kuris perkeliamas į kompiuterines laikmenas. Protokolą pasirašo Ministras Pirmininkas. Kokie duomenys įrašomi į protokolą, nustato Vyriausybės darbo reglamentas. Posėdžių garso įrašų kompiuterinės laikmenos saugomos Dokumentų ir archyvų įstatymo nustatyta tvarka.
+1. Vyriausybės posėdžiai ir pasitarimai tiesiogiai transliuojami internetu, išskyrus tuos posėdžių ir pasitarimų klausimus, kuriuose svarstoma valstybės, tarnybos, komercinę paslaptį sudaranti, su asmens duomenimis, kurių viešinimas neatitiktų 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) (toliau – Reglamentas (ES) 2016/679) reikalavimų, susijusi informacija ir (ar) teisės aktų, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusios informacijos, projektai.
+
+2. Vyriausybės posėdžiai ir pasitarimai yra protokoluojami ir daromas jų garso įrašas. Svarstant valstybės, tarnybos, komercinę paslaptį sudarančią, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusią informaciją ir (ar) teisės aktų, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusios informacijos, projektus, garso įrašai nedaromi. Vyriausybės posėdžio ir pasitarimo protokolus pasirašo Ministras Pirmininkas. Kokie duomenys įrašomi į protokolą, nustato Vyriausybės darbo reglamentas. Vyriausybės posėdžių ir pasitarimų garso įrašai ir protokolai yra vieši ir saugomi Reglamento (ES) 2016/679 ir Dokumentų ir archyvų įstatymo nustatyta tvarka.
 
 Straipsnio pakeitimai:
 
 Nr. X-1182, 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1773, 2018-12-13, paskelbta TAR 2018-12-20, i. k. 2018-21098
 
 43 straipsnis. Ministro Pirmininko potvarkiai ir rezoliucijos
 
@@ -1015,29 +1065,27 @@ Nr. XII-153, 2013-01-17, Žin., 2013, Nr. 11-497 (2013-01-30)
 
 2. Vyriausybės kancleris:
 
-1) kartu su Vyriausybės kanclerio pirmuoju pavaduotoju, Ministro Pirmininko patarėjais ir kitais Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojais padeda Ministrui Pirmininkui įgyvendinti Vyriausybės programos nuostatas, dalyvauja formuojant ir įgyvendinant Ministro Pirmininko politines nuostatas ir prioritetus, sprendimus;
+1) kartu su Ministro Pirmininko patarėjais ir kitais Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojais padeda Ministrui Pirmininkui įgyvendinti Vyriausybės programos nuostatas, dalyvauja formuojant ir įgyvendinant Ministro Pirmininko politines nuostatas ir prioritetus, sprendimus;
 
 2) organizuoja Vyriausybei ir Ministrui Pirmininkui pateiktų teisės aktų projektų analizę, Vyriausybės darbo reglamento nustatyta tvarka prireikus organizuoja Vyriausybei ir Ministrui Pirmininkui teikiamų teisės aktų projektų, kurių rengėjams nepavyko suderinti su suinteresuotomis institucijomis, derinimą;
 
 3) padeda Vyriausybei ir Ministrui Pirmininkui koordinuoti ir įgyvendinti bendruosius valstybės valdymo efektyvumo didinimo klausimus;
 
-4) kartu su Vyriausybės kanclerio pirmuoju pavaduotoju padeda Ministrui Pirmininkui koordinuoti strateginių Europos Sąjungos politikos klausimų įgyvendinimą;
+4) padeda Ministrui Pirmininkui koordinuoti strateginių Europos Sąjungos politikos klausimų įgyvendinimą;
 
-5) vadovaudamasis Vyriausybės patvirtinta Strateginio planavimo metodika rengia ir suderinęs su Ministru Pirmininku tvirtina Vyriausybės kanceliarijos strateginį veiklos planą, padeda Vyriausybei koordinuoti ministerijų ir kitų valstybės institucijų veiklą įgyvendinant strateginio planavimo dokumentus, Vyriausybės programą ir sprendžiant kitus krašto reikalus;
+5) vadovaudamasis Vyriausybės patvirtinta Strateginio planavimo metodika, rengia ir, suderinęs su Ministru Pirmininku, tvirtina Vyriausybės kanceliarijos strateginį veiklos planą, padeda Vyriausybei koordinuoti ministerijų ir kitų valstybės institucijų veiklą įgyvendinant strateginio planavimo dokumentus, Vyriausybės programą ir sprendžiant kitus krašto reikalus;
 
-6) kartu su Vyriausybės kanclerio pavaduotoju organizuoja Vyriausybės posėdžių rengimą, dalyvauja juose ir užtikrina, kad būtų rašomi posėdžių protokolai, priimami ir įstatymų nustatyta tvarka skelbiami Vyriausybės nutarimai, Ministro Pirmininko potvarkiai, Vyriausybės sprendimai ir Vyriausybės rezoliucijos;
+6) organizuoja Vyriausybės posėdžių rengimą, dalyvauja juose ir užtikrina, kad būtų rašomi posėdžių protokolai, priimami ir įstatymų nustatyta tvarka skelbiami Vyriausybės nutarimai, Ministro Pirmininko potvarkiai, Vyriausybės sprendimai ir Vyriausybės rezoliucijos;
 
-7) užtikrina Europos Sąjungos dokumentų (taip pat ir siunčiamų elektroniniu paštu) gavimą, registravimą, kaupimą ir paskirstymą atitinkamoms valstybės institucijoms ir įstaigoms;
+7) pritarus Ministrui Pirmininkui, tvirtina Vyriausybės kanceliarijos struktūrą ir Vyriausybės kanceliarijos padalinių nuostatus, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių sąrašą, neviršydamas darbo užmokesčiui nustatytų lėšų ir Vyriausybės kanceliarijai Vyriausybės patvirtinto didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičiaus;
 
-8) pritarus Ministrui Pirmininkui tvirtina Vyriausybės kanceliarijos struktūrą ir Vyriausybės kanceliarijos padalinių nuostatus, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių sąrašą, neviršydamas darbo užmokesčiui nustatytų lėšų ir Vyriausybės kanceliarijai Vyriausybės patvirtinto didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičiaus;
+8) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų Vyriausybės kanceliarijos karjeros valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, juos skatina, skiria jiems pašalpas, skiria valstybės tarnautojams tarnybines nuobaudas ar priima sprendimus dėl darbo pareigų pažeidimo, tvirtina jų pareigybių aprašymus; Ministro Pirmininko pavedimu priima į pareigas ir atleidžia iš jų Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus, juos skatina, skiria jiems tarnybines nuobaudas ir pašalpas, tvirtina jų pareigybių aprašymus, suteikia jiems atostogas ir siunčia į komandiruotes;
 
-9) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų Vyriausybės kanceliarijos karjeros valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, juos skatina, skiria jiems tarnybines ar drausmines nuobaudas ir pašalpas, tvirtina jų pareigybių aprašymus; Ministro Pirmininko pavedimu priima į pareigas ir atleidžia iš jų Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus, juos skatina, skiria jiems tarnybines ar drausmines nuobaudas ir pašalpas, tvirtina jų pareigybių aprašymus, suteikia jiems atostogas ir siunčia juos į komandiruotes;
+9) saugo Vyriausybės antspaudą ir atsako už antspaudo naudojimą;
 
-10) saugo Vyriausybės antspaudą ir atsako už antspaudo naudojimą;
+10) Vyriausybės darbo reglamento nustatyta tvarka gali organizuoti ministerijų atstovų (viceministrų, ministerijų kanclerių) pasitarimus;
 
-11) Vyriausybės darbo reglamento nustatyta tvarka gali organizuoti ministerijų atstovų (viceministrų, ministerijų kanclerių) pasitarimus;
-
-12) atlieka kitas įstatymų, Vyriausybės nutarimų ir Ministro Pirmininko pavestas funkcijas.
+11) atlieka kitas įstatymų, Vyriausybės nutarimų ir Ministro Pirmininko pavestas funkcijas.
 
 Straipsnio pakeitimai:
 
@@ -1063,9 +1111,17 @@ Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
 
 Nr. XII-153, 2013-01-17, Žin., 2013, Nr. 11-497 (2013-01-30)
 
+Straipsnio pakeitimai:
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+
 46 straipsnis. Vyriausybės dokumentų saugojimo tvarka
 
-1. Vyriausybės kanceliarijoje saugomi Vyriausybės nutarimų, Vyriausybės sprendimų, Vyriausybės rezoliucijų ir Ministro Pirmininko potvarkių projektai ir pasirašyti Vyriausybės nutarimai, Vyriausybės sprendimai, Vyriausybės rezoliucijos ir Ministro Pirmininko potvarkiai, taip pat Vyriausybės posėdžių ir Vyriausybės pasitarimų protokolai.
+1. Vyriausybės kanceliarijoje saugomi pasirašyti Vyriausybės nutarimai, Vyriausybės sprendimai, Vyriausybės rezoliucijos ir Ministro Pirmininko potvarkiai, taip pat Vyriausybės posėdžių ir Vyriausybės pasitarimų protokolai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
 2. Vyriausybės nutarimų, Vyriausybės sprendimų, Vyriausybės rezoliucijų ir Ministro Pirmininko potvarkių vertimas į užsienio kalbas ir vertimo autentiškumas užtikrinamas Vyriausybės nustatyta tvarka.
 
@@ -1445,7 +1501,13 @@ Nr. XII-153, 2013-01-17, Žin., 2013, Nr. 11-497 (2013-01-30)
 
 311 straipsnis. Ministerijos kancleris
 
-1. Ministerijos kancleris yra karjeros valstybės tarnautojas, ministerijos administracijos vadovas, pavaldus ministrui. Užsienio reikalų ministerijos kancleriu gali būti ir diplomatas.
+1. Ministerijos kancleris yra politinio (asmeninio) pasitikėjimo valstybės tarnautojas, ministerijos administracijos vadovas, kurį priima į pareigas ir atleidžia iš jų ministras. Užsienio reikalų ministerijos kancleris gali būti ir diplomatas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+
+Nr. XIII-1804, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21812
 
 2. Ministerijos kancleris:
 
@@ -1489,7 +1551,7 @@ Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
 
 1. Vyriausybės įstaiga steigiama dalyvauti formuojant politiką ministrui pavestose valdymo srityse ir ją įgyvendinti.
 
-2. Vyriausybės įstaiga yra viešasis juridinis asmuo, turintis sąskaitą banke ir antspaudą su valstybės herbu bei savo pavadinimu.
+2. Vyriausybės įstaiga yra viešasis juridinis asmuo, turintis sąskaitą banke ir antspaudą su valstybės herbu ir savo pavadinimu.
 
 3. Vyriausybės įstaiga yra iš valstybės biudžeto ir kitų valstybės pinigų fondų išlaikoma biudžetinė įstaiga, kuriai lėšos skiriamos ir administruojamos Biudžeto sandaros įstatymo nustatyta tvarka.
 
@@ -1497,51 +1559,21 @@ Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
 
 5. Specialus Vyriausybės įstaigos veiklą reglamentuojantis įstatymas Vyriausybės įstaigai gali suteikti specialias teises, užtikrinančias jai pavestų funkcijų atlikimo nepriklausomumą.
 
-6. Vyriausybės įstaiga, kurios veikla susijusi su keliems ministrams pavestomis atitinkamomis valdymo sritimis, Vyriausybės sprendimu gali turėti kolegiją. Šios kolegijos sudarymo tvarką ir kompetenciją nustato Vyriausybė.
+6. Vyriausybės įstaiga Vyriausybės sprendimu gali turėti kolegiją. Šios kolegijos sudarymo tvarką ir kompetenciją nustato Vyriausybė.
 
 7. Vyriausybės įstaiga veikia pagal Vyriausybės nustatyta tvarka parengtus strateginį ir metinį veiklos planus. Vyriausybės įstaigos strateginį veiklos planą tvirtina atitinkamos valdymo srities ministras ar atitinkamų valdymo sričių ministrai bendru įsakymu, o metinį veiklos planą – Vyriausybės įstaigos vadovas, suderinęs su atitinkamos valdymo srities ministru ar atitinkamų valdymo sričių ministrais.
 
-8. Vyriausybės įstaigai vadovauja jos vadovas – valstybės pareigūnas. Vyriausybės įstaigos vadovą Vyriausybės paskirto atitinkamos valdymo srities ministro teikimu ketveriems metams priima į pareigas ir atleidžia iš jų Vyriausybė, jeigu įstatymai nenustato kitaip. Asmuo, priimamas į Vyriausybės įstaigos vadovo pareigas, turi atitikti bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, ir specialiuosius reikalavimus, kuriuos gali nustatyti Vyriausybės įstaigos veiklą reglamentuojantis įstatymas ar tiesiogiai taikomas Europos Sąjungos teisės aktas. Vyriausybės įstaigos vadovas gali būti skiriamas eiti šias pareigas ne daugiau kaip dvi kadencijas iš eilės. Jeigu įstatymai nenustato kitaip, Vyriausybės įstaigos vadovas yra atsakingas Vyriausybei ir atitinkamos valdymo srities ministrui ir atskaitingas Vyriausybei ir ministrams, kuriems pavestos valdymo sritys yra susijusios su Vyriausybės įstaigos veikla.
+8. Vyriausybės įstaigai vadovauja jos vadovas, priimamas į pareigas ir atleidžiamas iš jų Valstybės tarnybos įstatymo nustatyta tvarka.
 
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1431, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11739
-
-9. Vyriausybės įstaigos vadovas, išskyrus atvejus, kai jo atleidimo pagrindus nustato Vyriausybės įstaigos veiklą reglamentuojantis įstatymas ar tiesiogiai taikomas Europos Sąjungos teisės aktas, atleidžiamas iš pareigų:
-
-1) savo noru;
-
-2) kai praranda Lietuvos Respublikos pilietybę;
-
-3) pasibaigus kadencijai;
-
-4) išrinkus arba paskyrus į kitas pareigas;
-
-5) kai įsiteisėja teismo nuosprendis, kuriuo jam paskirta bausmė už sunkų ar labai sunkų nusikaltimą, nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamą veiką, nusikalstamą veiką nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai ar finansų sistemai arba bausmė, dėl kurios jis negali eiti savo pareigų;
-
-6) kai jis šiurkščiai pažeidžia savo pareigas;
-
-7) kai Vyriausybė nepritaria jo veiklos ataskaitai.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1431, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11739
-
-10. Neteko galios nuo 2018-07-16.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XIII-1431, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11739
-
-11. Vyriausybės nustatyta tvarka Vyriausybės įstaigos vadovas atsiskaito už įstaigos veiklą, Vyriausybės ar atsakingo už pavestą valdymo sritį ministro reikalavimu atsiskaito už savo veiklą.
-
-12. Vyriausybės priimamų Vyriausybės įstaigų pareigūnų (išskyrus šių Vyriausybės įstaigų vadovus) priėmimą į pareigas ir atleidimą iš jų nustato jų veiklą reglamentuojantys įstatymai.
-
-13. Vyriausybės įstaigos vadovui ir kitiems Vyriausybės įstaigų pareigūnams darbo užmokestis mokamas pagal Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymą. Vyriausybės įstaigos vadovui ir Vyriausybės įstaigų pareigūnams taikomos Valstybės tarnybos įstatymo nuostatos, reglamentuojančios su valstybės tarnautojo pareigomis nesuderinamą veiklą, materialinę atsakomybę ir kasmetines atostogas. Kitus jų darbo (tarnybos) santykius ir socialines garantijas nustato Darbo kodeksas ir kiti įstatymai.
+9. Vyriausybės nustatyta tvarka Vyriausybės įstaigos vadovas atsiskaito už įstaigos veiklą, Vyriausybės ar atsakingo už pavestą valdymo sritį ministro reikalavimu atsiskaito už savo veiklą.
 
 Įstatymas papildytas straipsniu:
 
 Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19), atitaisymas skelbtas: Žin., 2010, Nr. 87
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
 301 straipsnis. Vyriausybės įsteigtos kitos biudžetinės įstaigos
 
