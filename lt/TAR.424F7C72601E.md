@@ -4,7 +4,7 @@ identifier: "TAR.424F7C72601E"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-06-28"
-last_updated: "2017-11-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.424F7C72601E"
 department: "Lietuvos Respublikos Seimas"
@@ -19,17 +19,9 @@ eu_legal_act: "true"
 
 LIETUVOS RESPUBLIKOS BRANDUOLINĖS SAUGOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2017-11-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-10-26
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 91-4316; Žin. 2011, Nr.109-0; Žin. 2011, Nr.118-0, i. k. 1111010ISTA0XI-1539
-
-TAR pastaba. Įstatyme Nr. XIII-655 išdėstytos Branduolinės saugos įstatymo 25 straipsnio 19 dalies, 26 straipsnio 7 ir 13 dalių ir 391 straipsnio nuostatos taikomos tik po 2017 m. spalio 31 d. pradėtiems branduolinės energetikos objekto statybos vietos (aikštelės) vertinimo suderinimo, Branduolinės saugos įstatymo 22 straipsnio 1 dalies 1–5 punktuose nurodytų licencijų išdavimo, leidimų, nurodytų Branduolinės saugos įstatymo 22 straipsnio 2 dalies 1 punkte, išdavimo Branduolinės saugos įstatymo 22 straipsnio 1 dalies 3 punkte nurodytų licencijų turėtojams ir leidimų, nurodytų Branduolinės saugos įstatymo 22 straipsnio 2 dalies 2 punkte, išdavimo Branduolinės saugos įstatymo 22 straipsnio 1 dalies 3 punkte nurodytų licencijų turėtojams procesams.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
-
-Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 2, 3, 9, 11, 14, 17, 22, 25, 26, 27, 28, 30, 32, 35, 36, 38, 39, 41, 42, 50 straipsnių, septintojo skyriaus pavadinimo ir 2 priedo pakeitimo ir Įstatymo papildymo 34-1 ir 39-1 straipsniais įstatymas
 
 LIETUVOS RESPUBLIKOS  BRANDUOLINĖS SAUGOS  ĮSTATYMAS
 
@@ -939,7 +931,11 @@ Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
 
 32 straipsnis. Branduolinės energetikos objekto veiklos ir kitos su branduolinėmis ir (arba) branduolinio kuro ciklo medžiagomis susijusios veiklos saugos analizės ir pagrindimo dokumentai
 
-1. Prieš pradedant rengti branduolinės energetikos objekto projektą, pritaikytą konkrečiai statybos vietai (aikštelei), turi būti atlikta branduolinės energetikos objekto statybos vietos (aikštelės) saugos analizė ir pagrindimas. Šios analizės ir pagrindimo rezultatai pateikiami branduolinės energetikos objekto statybos vietos (aikštelės) vertinimo ataskaitoje, kuri turi būti suderinta su Valstybine atominės energetikos saugos inspekcija. Šios analizės ir pagrindimo metu turi būti nustatyti visi su statybos vieta (aikštele) ar jos aplinka susiję veiksniai, galintys turėti įtakos branduolinės energetikos objekto branduolinei saugai, įskaitant fizinę saugą ir avarinės parengties planavimą, ir pasiūlytos branduolinės (atominės) elektrinės statybos vietos (aikštelės) trūkumus kompensuojančios priemonės, jeigu tokių trūkumų būtų nustatyta. Valstybinė atominės energetikos saugos inspekcija suderina statybos vietos (aikštelės) vertinimo ataskaitą tik įsitikinusi, kad statybos vietos (aikštelės) analizės ir pagrindimo rezultatai atitinka teisės aktų reikalavimus, ir gavusi teigiamas išvadas dėl branduolinės energetikos objekto statybos vietos (aikštelės) vertinimo ataskaitos iš Lietuvos hidrometeorologijos tarnybos prie Aplinkos ministerijos, Sveikatos apsaugos ministerijos, Civilinės aviacijos administracijos, Lietuvos geologijos tarnybos prie Aplinkos ministerijos ir Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos. Branduolinės energetikos objekto statybos vietos (aikštelės) vertinimo ataskaitos peržiūros tvarką nustato Vyriausybė.
+1. Prieš pradedant rengti branduolinės energetikos objekto projektą, pritaikytą konkrečiai statybos vietai (aikštelei), turi būti atlikta branduolinės energetikos objekto statybos vietos (aikštelės) saugos analizė ir pagrindimas. Šios analizės ir pagrindimo rezultatai pateikiami branduolinės energetikos objekto statybos vietos (aikštelės) vertinimo ataskaitoje, kuri turi būti suderinta su Valstybine atominės energetikos saugos inspekcija. Šios analizės ir pagrindimo metu turi būti nustatyti visi su statybos vieta (aikštele) ar jos aplinka susiję veiksniai, galintys turėti įtakos branduolinės energetikos objekto branduolinei saugai, įskaitant fizinę saugą ir avarinės parengties planavimą, ir pasiūlytos branduolinės (atominės) elektrinės statybos vietos (aikštelės) trūkumus kompensuojančios priemonės, jeigu tokių trūkumų būtų nustatyta. Valstybinė atominės energetikos saugos inspekcija suderina statybos vietos (aikštelės) vertinimo ataskaitą tik įsitikinusi, kad statybos vietos (aikštelės) analizės ir pagrindimo rezultatai atitinka teisės aktų reikalavimus, ir gavusi teigiamas išvadas dėl branduolinės energetikos objekto statybos vietos (aikštelės) vertinimo ataskaitos iš Lietuvos hidrometeorologijos tarnybos prie Aplinkos ministerijos, Sveikatos apsaugos ministerijos, Lietuvos transporto saugos administracijos, Lietuvos geologijos tarnybos prie Aplinkos ministerijos ir Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos. Branduolinės energetikos objekto statybos vietos (aikštelės) vertinimo ataskaitos peržiūros tvarką nustato Vyriausybė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1565, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17485
 
 2. Pareiškėjas kartu su kitais paraiškos gauti šio įstatymo 22 straipsnio 1 dalies 1 ir 3 punktuose nurodytas licencijas dokumentais teikia pirminę saugos analizės ataskaitą Valstybinei atominės energetikos saugos inspekcijai. Kiekvienam branduolinės (atominės) elektrinės energijos blokui parengiama atskira pirminė saugos analizės ataskaita. Saugos analizės ataskaitos rengimo reikalavimus nustato Valstybinės atominės energetikos saugos inspekcijos viršininkas.
 
@@ -1492,6 +1488,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 2, 3, 9, 11, 14, 17, 22, 25, 26, 27, 28, 30, 32, 35, 36, 38, 39, 41, 42, 50 straipsnių, septintojo skyriaus pavadinimo ir 2 priedo pakeitimo ir Įstatymo papildymo 34-1 ir 39-1 straipsniais įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1565, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17485
+
+Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 32 straipsnio pakeitimo įstatymas
 
 341 straipsnis. Branduolinių ir radiologinių avarijų padarinių apribojimas
 
