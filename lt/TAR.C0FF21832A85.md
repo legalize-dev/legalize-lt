@@ -4,7 +4,7 @@ identifier: "TAR.C0FF21832A85"
 country: "lt"
 rank: "istatymas"
 publication_date: "1993-06-04"
-last_updated: "2018-07-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-29
 
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
 
@@ -65,7 +65,17 @@ Vilnius
 
 1) piniginės lėšos;
 
-2) piniginės lėšos, sudarančios pajamų mokesčio dalį iki 2 procentų gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos;
+2) piniginės lėšos, sudarančios pajamų mokesčio dalį iki 2 procentų (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 1 procento) gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 1 procento) mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos;
+
+Redakcija nuo 2020-01-01:
+
+2) piniginės lėšos, sudarančios pajamų mokesčio dalį iki 1,2 procento (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 0,6 procento) gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 1,2 procento (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 0,6 procento) mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1326, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10971
+
+Nr. XIII-1706, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20946
 
 3) bet koks kitas turtas, įskaitant pagamintas ar įsigytas prekes;
 
@@ -181,7 +191,17 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
 1) neatlygintinai perduodant pinigines lėšas ar bet kokį kitą turtą (įskaitant pagamintas arba įsigytas prekes), suteikiant paslaugas;
 
-2) skiriant iki 2 procentų gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos;
+2) skiriant iki 2 procentų (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 1 procento) gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 1 procento) mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos.
+
+Redakcija nuo 2020-01-01:
+
+2) skiriant iki 1,2 procento (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 0,6 procento) gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 1,2 procento (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 0,6 procento) mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1326, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10971
+
+Nr. XIII-1706, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20946
 
 3) suteikiant turtą naudotis panaudos teise;
 
@@ -269,7 +289,15 @@ Nr. XIII-1309, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10962
 
 13 straipsnis. Paramos gavėjo statusas
 
-1. Šio įstatymo 7 straipsnio 1 dalyje nurodyti asmenys gali kreiptis į Juridinių asmenų registro tvarkytoją dėl paramos gavėjo statuso suteikimo. Paramos gavėjo statusas privalo būti suteiktas, jeigu šių asmenų įstatuose (nuostatuose) yra numatyta vykdyti šio įstatymo 3 straipsnio 3 dalyje nurodytą visuomenei naudingą veiklą.
+1. Šio įstatymo 7 straipsnio 1 dalyje nurodyti asmenys gali kreiptis į Juridinių asmenų registro tvarkytoją dėl paramos gavėjo statuso suteikimo. Paramos gavėjo statusas privalo būti suteiktas, jeigu:
+
+1) šių asmenų įstatuose (nuostatuose) yra numatyta vykdyti šio įstatymo 3 straipsnio 3 dalyje nurodytą visuomenei naudingą veiklą ir
+
+2) nėra šio straipsnio 5 ir 6 dalyse nurodytų aplinkybių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1331, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10974
 
 2. Paramos gavėjo statuso suteikimo juridiniams asmenims, įskaitant pakartotinį šio statuso suteikimą, ir panaikinimo tvarka nustatoma Juridinių asmenų registro nuostatuose, kuriuos tvirtina Vyriausybė.
 
@@ -281,7 +309,11 @@ Nr. XIII-1309, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10962
 
 1) asmeniui yra įsiteisėjęs teismo nuosprendis už Lietuvos Respublikos baudžiamajame kodekse numatytą nusikaltimą ar baudžiamąjį nusižengimą ekonomikai ir verslo tvarkai ar finansų sistemai;
 
-2) asmuo pažeidė Lietuvos Respublikos pinigų plovimo prevencijos įstatymą;
+2) asmuo pažeidė Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymą;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1331, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10974
 
 3) asmuo Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka neparengė šio įstatymo 11 straipsnio 2 dalyje nurodytos ataskaitos per 2 mėnesius po to, kai buvo įspėtas apie šį pažeidimą;
 
@@ -289,11 +321,17 @@ Nr. XIII-1309, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10962
 
 5) asmuo nesumokėjo mokestinės nepriemokos ir mokesčių administratorius Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka įgijo teisę priverstinai ją išieškoti. Ši nuostata netaikoma tais atvejais, kai Mokesčių administravimo įstatymo 110 straipsnyje nustatyta tvarka mokestinės nepriemokos priverstinis išieškojimas yra sustabdytas arba nepradėtas;
 
-6) asmuo per 3 metus nuo šio įstatymo nustatyta tvarka gautos paramos gavimo paramos nepanaudoja arba ją netinkamai panaudoja, pažeisdamas šio įstatymo nuostatas dėl paramos paskirties ar kitų įstatymų nuostatas, reglamentuojančias paramos gavėjų veiklos, susijusios su gautos paramos naudojimu, ribojimus.
+6) asmuo per 3 metus nuo šio įstatymo nustatyta tvarka gautos paramos gavimo paramos nepanaudoja arba ją netinkamai panaudoja, pažeisdamas šio įstatymo nuostatas dėl paramos paskirties ar kitų įstatymų nuostatas, reglamentuojančias paramos gavėjų veiklos, susijusios su gautos paramos naudojimu, ribojimus;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
+
+7) asmuo neatitinka minimalių patikimo mokesčių mokėtojo kriterijų.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1331, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10974
 
 6. Juridinių asmenų registro tvarkytojas savo iniciatyva panaikina Juridinių asmenų registre įregistruoto paramos gavėjo statusą:
 
@@ -309,7 +347,11 @@ Straipsnio dalies pakeitimai:
 
 Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
 
-7. Juridinis ar fizinis asmuo, kuriam už šio straipsnio 5 dalyje nurodytą bent vieną pažeidimą buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į Juridinių asmenų registro tvarkytoją arba Kultūros ministeriją ne anksčiau kaip po vienų metų, kurie pradedami skaičiuoti nuo paramos gavėjo statuso panaikinimo dienos. Paramos gavėjo statusas pakartotinai suteikiamas, jeigu juridinis ar fizinis asmuo yra sumokėjęs visus mokėtinus mokesčius, baudas ir delspinigius, neturi teistumo už šio straipsnio 5 dalies 1 punkte nurodytus nusikaltimus, per paskutinius vienus metus nėra padaręs šio straipsnio 5 dalies 1 punkte nurodytų baudžiamųjų nusižengimų ir per vienų metų laikotarpį nebuvo nustatyta Pinigų plovimo prevencijos įstatymo pažeidimų.
+7. Juridinis ar fizinis asmuo, kuriam už šio straipsnio 5 ir 6 dalyse nurodytą bent vieną pažeidimą arba dėl to, kad jis neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į Juridinių asmenų registro tvarkytoją arba Kultūros ministeriją ne anksčiau kaip po vienų metų, kurie pradedami skaičiuoti nuo paramos gavėjo statuso panaikinimo dienos. Paramos gavėjo statusas pakartotinai suteikiamas, jeigu juridinis ar fizinis asmuo yra sumokėjęs visus mokėtinus mokesčius, baudas ir delspinigius, neturi teistumo už šio straipsnio 5 dalies 1 punkte nurodytus nusikaltimus, per paskutinius vienus metus nėra padaręs šio straipsnio 5 dalies 1 punkte nurodytų baudžiamųjų nusižengimų, per vienų metų laikotarpį nebuvo nustatyta Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo pažeidimų, jis atitinka minimalius patikimo mokesčių mokėtojo kriterijus ir nėra šio straipsnio 6 dalyje nurodytų aplinkybių.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1331, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10974
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -490,6 +532,30 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1309, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10962
 
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 11 straipsnio pakeitimo įstatymas
+
+21.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1326, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10971
+
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4 ir 9 straipsnių pakeitimo įstatymas
+
+22.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1331, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10974
+
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 13 straipsnio pakeitimo įstatymas
+
+23.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1706, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20946
+
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4 ir 9 straipsnių pakeitimo įstatymo Nr. XIII-1326 pakeitimo įstatymas
 
 15 straipsnis. Paramos gavėjo statusas
 
