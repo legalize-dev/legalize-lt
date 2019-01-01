@@ -4,7 +4,7 @@ identifier: "TAR.369CF9E97755"
 country: "lt"
 rank: "istatymas"
 publication_date: "2001-06-28"
-last_updated: "2016-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.369CF9E97755"
 department: "Lietuvos Respublikos Seimas"
@@ -19,7 +19,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2224, i. k. 1011010ISTA00IX-413
 
@@ -45,7 +45,11 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato bendrosios praktikos slaugytojų ir akušerių profesinės kvalifikacijos įgijimą, praktikos sąlygas, teises, pareigas ir atsakomybę.
+Šis įstatymas nustato bendrosios praktikos slaugytojų, išplėstinės praktikos slaugytojų ir akušerių profesinės kvalifikacijos įgijimą, praktikos sąlygas, teises, pareigas ir atsakomybę, slaugos praktikos ir akušerijos praktikos valdymą.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
@@ -89,7 +93,11 @@ Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 
 10. Specialioji slaugos praktika – šio įstatymo ir kitų teisės aktų reglamentuotos bendrosios praktikos slaugytojo, turinčio galiojančią bendrosios slaugos praktikos licenciją, arba akušerio, turinčio galiojančią akušerijos praktikos licenciją, ir turinčių įgytą atitinkamą slaugos specializaciją patvirtinantį dokumentą, teikiamos asmens sveikatos priežiūros paslaugos.
 
-11. Slaugos specializacija – papildoma sveikatos apsaugos ministro nustatytos specializuotos slaugos srities bendrosios praktikos slaugytojo arba akušerio kompetencija.
+11. Slaugos specializacija – papildomos sveikatos apsaugos ministro nustatytos specializuotos slaugos srities bendrosios praktikos slaugytojo arba išplėstinės praktikos slaugytojo, arba akušerio kompetencijos turėjimas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
 
 12. Valstybė narė – Europos Sąjungos valstybė narė, Europos ekonominės erdvės valstybė arba Šveicarijos Konfederacija.
 
@@ -99,19 +107,17 @@ ANTRASIS SKIRSNIS
 
 SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 
-3 straipsnis. Bendrosios praktikos slaugytojų, išplėstinės praktikos slaugytojų ir akušerių profesinės kvalifikacijos ir slaugos specializacijos įgijimas
-
-Pakeistas straipsnio pavadinimas:
-
-Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
+3 straipsnis. Bendrosios praktikos slaugytojų, išplėstinės praktikos slaugytojų ir akušerių profesinės kvalifikacijos ir slaugos specializacijos įgijimas ir kompetencijos nustatymas
 
 1. Bendrosios praktikos slaugytojo ar akušerio profesinė kvalifikacija įgyjama aukštojoje mokykloje baigus slaugos ar akušerijos studijų programas. Išplėstinės praktikos slaugytojo profesinė kvalifikacija įgyjama baigus medicinos gydytojus rengiančiame universitete slaugos magistrantūros studijų programą ir išlaikius kvalifikacinį egzaminą.
 
-Straipsnio dalies pakeitimai:
+2. Slaugos specializaciją aukštojoje mokykloje įgyja bendrosios praktikos slaugytojai arba išplėstinės praktikos slaugytojai, arba akušeriai, baigę pasirinktos specializuotos slaugos srities neformaliojo švietimo programą. Specializuotų slaugos sričių sąrašą ir specializuotų slaugos sričių neformaliojo švietimo programų reikalavimus nustato sveikatos apsaugos ministras.
 
-Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
+3. Bendrosios praktikos slaugytojų, išplėstinės praktikos slaugytojų ir akušerių kompetencijos reikalavimus nustato sveikatos apsaugos ministras.
 
-2. Slaugos specializaciją aukštojoje mokykloje įgyja bendrosios praktikos slaugytojai arba akušeriai, baigę pasirinktos specializuotos slaugos srities neformaliojo švietimo programą. Specializuotų slaugos sričių sąrašą ir specializuotų slaugos sričių neformaliojo švietimo programų reikalavimus nustato sveikatos apsaugos ministras.
+Straipsnio pakeitimai:
+
+Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
 
 5 straipsnis. Bendrosios slaugos praktikos ir akušerijos praktikos licencijavimo tvarka
 
@@ -337,11 +343,17 @@ Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 
 4) dalyvauti slaugos moksliniuose tyrimuose;
 
-5) skirti ir išrašyti medicinos pagalbos priemones sveikatos apsaugos ministro nustatyta tvarka.
+5) skirti ir išrašyti medicinos pagalbos priemones sveikatos apsaugos ministro nustatyta tvarka;
 
 Papildyta straipsnio punktu:
 
 Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA00XI-343
+
+6) pagal kompetenciją teikti medikamentinę pagalbą būtinosios medicinos pagalbos atvejais.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
 
 2. Bendrosios praktikos slaugytojas turi ir kitų teisių, nustatytų kituose Lietuvos Respublikos teisės aktuose.
 
@@ -357,11 +369,21 @@ Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA
 
 4) dalyvauti akušerijos moksliniuose tyrimuose;
 
-5) skirti ir išrašyti medicinos pagalbos priemones sveikatos apsaugos ministro nustatyta tvarka.
+5) skirti ir išrašyti medicinos pagalbos priemones sveikatos apsaugos ministro nustatyta tvarka, vaistus (vaistinius preparatus), kurių sąrašą ir šių vaistų (vaistinių preparatų) skyrimo sąlygas nustato sveikatos apsaugos ministras;
 
 Papildyta straipsnio punktu:
 
 Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA00XI-343
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
+
+6) sveikatos apsaugos ministro nustatyta tvarka teikti gimdyvei gimdymo priežiūros paslaugas namuose, kai nėra didelės rizikos nėštumo veiksnių, kurių sąrašą nustato sveikatos apsaugos ministras.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
 
 2. Akušeris turi ir kitų teisių, nustatytų kituose Lietuvos Respublikos teisės aktuose.
 
@@ -509,11 +531,27 @@ Straipsnio punkto numeracijos pakeitimas:
 
 Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
 
-15 straipsnis. Bendrosios praktikos slaugytojo ir akušerio profesinės kompetencijos vertinimas ir atsakomybė
+15 straipsnis. Bendrosios praktikos slaugytojo, išplėstinės praktikos slaugytojo ir akušerio profesinės kompetencijos vertinimas ir atsakomybė
 
-1. Bendrosios praktikos slaugytojo ar akušerio profesinę kompetenciją vertina ir slaugos ar akušerijos praktikos klaidas nustato Profesinės kompetencijos vertinimo komisija, vadovaudamasi sveikatos apsaugos ministro patvirtintu Sveikatos priežiūros specialistų profesinės kompetencijos patikrinimo tvarkos aprašu.
+1. Bendrosios praktikos slaugytojo, išplėstinės praktikos slaugytojo ar akušerio profesinę kompetenciją vertina ir slaugos ar akušerijos praktikos klaidas nustato Profesinės kompetencijos vertinimo komisija, vadovaudamasi sveikatos apsaugos ministro patvirtintu Sveikatos priežiūros specialistų profesinės kompetencijos patikrinimo tvarkos aprašu.
 
-2. Bendrosios praktikos slaugytojas ar akušeris už profesinių pareigų nevykdymą arba netinkamą vykdymą atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+2. Bendrosios praktikos slaugytojas, išplėstinės praktikos slaugytojas ar akušeris už profesinių pareigų nevykdymą arba netinkamą vykdymą atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
+
+16 straipsnis. Slaugos praktikos ir akušerijos praktikos valdymas asmens sveikatos priežiūros įstaigoje
+
+1. Asmens sveikatos priežiūros įstaigoje, teikiančioje slaugos ir (ar) akušerijos paslaugas, privalo būti slaugos administratorius, atliekantis slaugos praktikos ir (ar) akušerijos praktikos valdymo funkcijas.
+
+2. Slaugos administratoriumi gali būti asmuo, šio įstatymo nustatyta tvarka įgijęs bendrosios praktikos slaugytojo arba išplėstinės praktikos slaugytojo ar akušerio profesinę kvalifikaciją ir turintis galiojančią bendrosios slaugos praktikos ar akušerijos praktikos licenciją.
+
+3. Slaugos administratoriaus atliekamas slaugos praktikos ir (ar) akušerijos praktikos valdymo funkcijas nustato sveikatos apsaugos ministras, o jų įgyvendinimo asmens sveikatos priežiūros įstaigoje tvarką nustato sveikatos priežiūros įstaigos vadovas.
+
+Papildyta straipsniu:
+
+Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -561,19 +599,23 @@ Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
 
 Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 5, 6, 7, 8, 13 ir 14 straipsnių pakeitimo įstatymas
 
-16 straipsnis. Pasiūlymai Vyriausybei ar jos įgaliotai institucijai
+6.
 
-Pasiūlyti Vyriausybei ar jos įgaliotai institucijai iki 2001 m. spalio 1 d. parengti ir patvirtinti šį įstatymą įgyvendinančius teisės aktus.
+Lietuvos Respublikos Seimas, Įstatymas
 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
 
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 1, 2, 3, 11, 11-1, 12, 15 straipsnių pakeitimo ir Įstatymo papildymo 16 straipsniu įstatymas
 
 111 straipsnis. Išplėstinės praktikos slaugytojo teisės
 
 1. Išplėstinės praktikos slaugytojas turi šias teises:
 
-1) išrašyti receptus sveikatos apsaugos ministro nustatyta tvarka;
+1) skirti ir išrašyti medicinos pagalbos priemones sveikatos apsaugos ministro nustatyta tvarka, vaistus (vaistinius preparatus), kurių sąrašą ir šių vaistų (vaistinių preparatų) skyrimo sąlygas nustato sveikatos apsaugos ministras;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
 
 2) išduoti asmens sveikatos pažymėjimus (pažymas) sveikatos apsaugos ministro nustatyta tvarka;
 
