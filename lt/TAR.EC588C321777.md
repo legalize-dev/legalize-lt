@@ -4,7 +4,7 @@ identifier: "TAR.EC588C321777"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-03-14"
-last_updated: "2018-07-12"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ Kodeksas įsigalioja 2003 m. gegužės 1 d."
 ---
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2018-07-12 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-03-31
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
 
@@ -3085,6 +3085,12 @@ Papildyta punktu:
 
 Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
 
+21. 2016 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/1919 dėl teisinės pagalbos įtariamiesiems ir kaltinamiesiems vykstant baudžiamajam procesui ir prašomiems perduoti asmenims vykstant Europos arešto orderio vykdymo procedūroms (OL 2016 L 297, p. 1).
+
+Papildyta punktu:
+
+Nr. XIII-1438, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11749
+
 Kodeksas papildytas priedu:
 
 Nr. IX-2170, 2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
@@ -3719,7 +3725,17 @@ Ikiteisminis tyrimas nutraukiamas:
 
 7) kai įtariamasis Lietuvos Respublikos baudžiamojo kodekso 39(1) straipsnyje nurodytomis sąlygomis padeda atskleisti organizuotos grupės ar nusikalstamo susivienijimo padarytas nusikalstamas veikas;
 
-8) kai yra Lietuvos Respublikos baudžiamojo kodekso 93 straipsnyje, 114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 5 dalyje, 259 straipsnio 3 dalyje, 291 straipsnio 2 ir 3 dalyse numatyti atleidimo nuo baudžiamosios atsakomybės sąlygos ir pagrindai;
+71) kai įtariamasis Lietuvos Respublikos baudžiamojo kodekso 392 straipsnyje nurodytomis sąlygomis padeda atskleisti kito asmens padarytą veiką;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1845, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21875
+
+8) kai yra Lietuvos Respublikos baudžiamojo kodekso 93 straipsnyje, 114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje, 291 straipsnio 2 ir 3 dalyse numatyti atleidimo nuo baudžiamosios atsakomybės sąlygos ir pagrindai;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1845, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21875
 
 9) dėl atskirų veikų, kelių nusikalstamų veikų padarymo, kai yra šio Kodekso 213 straipsnyje numatytos sąlygos;
 
@@ -4347,7 +4363,17 @@ Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
 
 6. Jeigu įtariamasis, dėl kurio padarytos veikos ikiteisminis tyrimas buvo nutrauktas šio Kodekso 212 straipsnio 7 punkte numatytu atveju, tolesnio proceso metu vengia duoti parodymus, prokuroras gali priimti nutarimą atnaujinti nutrauktą ikiteisminį tyrimą.
 
-7. Apie ikiteisminio tyrimo atnaujinimą pranešama įtariamajam, jo atstovui, gynėjui, nukentėjusiajam, civiliniam ieškovui, civiliniam atsakovui ir jų atstovams. Šie asmenys turi teisę apskųsti sprendimą dėl nutraukto ikiteisminio tyrimo atnaujinimo. Apie atsisakymą atnaujinti nutrauktą ikiteisminį tyrimą pranešama skundą padavusiam proceso dalyviui, kuris tokį sprendimą gali apskųsti. Skundai paduodami ir nagrinėjami šio Kodekso 63, 64 ir 65 straipsniuose nustatyta tvarka.
+7. Jeigu įtariamasis, dėl kurio padarytos nusikalstamos veikos ikiteisminis tyrimas buvo nutrauktas šio Kodekso 212 straipsnio 71 punkte numatytu atveju, per vienerius metus nuo ikiteisminio tyrimo nutraukimo padaro naują nusikalstamą veiką, prokuroras Lietuvos Respublikos baudžiamojo kodekso 392 straipsnio 3 dalyje nurodytomis sąlygomis gali, o to paties straipsnio 4 dalyje nurodytomis sąlygomis privalo priimti nutarimą atnaujinti nutrauktą ikiteisminį tyrimą.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1845, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21875
+
+8. Apie ikiteisminio tyrimo atnaujinimą pranešama įtariamajam, jo atstovui, gynėjui, nukentėjusiajam, civiliniam ieškovui, civiliniam atsakovui ir jų atstovams. Šie asmenys turi teisę apskųsti sprendimą dėl nutraukto ikiteisminio tyrimo atnaujinimo. Apie atsisakymą atnaujinti nutrauktą ikiteisminį tyrimą pranešama skundą padavusiam proceso dalyviui, kuris tokį sprendimą gali apskųsti. Skundai paduodami ir nagrinėjami šio Kodekso 63, 64 ir 65 straipsniuose nustatyta tvarka.
+
+Straipsnio dalies numeracijos pakeitimas:
+
+Nr. XIII-1845, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21875
 
 Straipsnio pakeitimai:
 
@@ -4927,21 +4953,37 @@ Nr. XII-275, 2013-05-09, Žin., 2013, Nr. 54-2680 (2013-05-25)
 
 6) šio Kodekso XXXII skyriuje nustatyta tvarka nagrinėjant bylą kaltinamajam nedalyvaujant;
 
-7) tiriant ir nagrinėjant bylas, kai įtariamasis ar kaltinamasis yra suimtas;
+7) sprendžiant suėmimo skyrimo įtariamajam ar kaltinamajam klausimą, taip pat tiriant ir nagrinėjant bylas, kai įtariamasis ar kaltinamasis yra suimtas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1438, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11749
 
 8) kai sprendžiama dėl asmens išdavimo (ekstradicijos) arba perdavimo Tarptautiniam baudžiamajam teismui ar pagal Europos arešto orderį;
 
 9) nagrinėjant bylą teisme pagreitinto proceso tvarka;
 
-10) kitais šio Kodekso numatytais atvejais.
+10) kai asmuo yra laikinai sulaikytas šio Kodekso 140 straipsnyje nustatyta tvarka;
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1438, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11749
+
+11) kitais šio Kodekso numatytais atvejais.
+
+Straipsnio punkto numeracijos pakeitimas:
+
+Nr. XIII-1438, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11749
 
 2. Ikiteisminio tyrimo pareigūnas, prokuroras motyvuotu nutarimu ar teismas motyvuota nutartimi turi teisę pripažinti, kad gynėjo dalyvavimas būtinas ir kitais atvejais, jeigu, jų nuomone, be gynėjo pagalbos įtariamojo ar kaltinamojo teisės ir teisėti interesai nebūtų reikiamai ginami.
 
-3. Šiame straipsnyje nurodytais atvejais, taip pat šio Kodekso 50 straipsnio 4 dalyje nurodytais atvejais, jeigu gynėjo nėra pasikvietęs pats įtariamasis, kaltinamasis ar nuteistasis arba jų pavedimu ar sutikimu nėra pakvietę kiti asmenys, ikiteisminio tyrimo pareigūnas, prokuroras ar teismas privalo pranešti valstybės garantuojamos teisinės pagalbos teikimą organizuojančiai institucijai ar jos nurodytam koordinatoriui apie tai, kad įtariamajam, kaltinamajam ar nuteistajam būtinas gynėjas, ir paskirti šios institucijos parinktą gynėją. Gynėją poilsio ir švenčių dienomis bei valstybės garantuojamos teisinės pagalbos teikimą organizuojančios institucijos ne darbo valandomis ikiteisminio tyrimo pareigūnas, prokuroras ar teismas paskiria remdamasis šios institucijos sudarytais advokatų, teikiančių valstybės garantuojamą teisinę pagalbą baudžiamosiose bylose, budėjimo sąrašais.
+3. Šiame straipsnyje nurodytais atvejais, taip pat šio Kodekso 50 straipsnio 4 dalyje nurodytais atvejais, jeigu gynėjo nėra pasikvietęs pats įtariamasis, kaltinamasis ar nuteistasis arba jų pavedimu ar sutikimu nėra pakvietę kiti asmenys, ikiteisminio tyrimo pareigūnas, prokuroras ar teismas privalo pranešti valstybės garantuojamos teisinės pagalbos teikimą organizuojančiai institucijai ar jos nurodytam koordinatoriui apie tai, kad įtariamajam, kaltinamajam ar nuteistajam būtinas gynėjas, ir paskirti šios institucijos parinktą gynėją. Gynėją poilsio ir švenčių dienomis bei valstybės garantuojamos teisinės pagalbos teikimą organizuojančios institucijos ne darbo valandomis ikiteisminio tyrimo pareigūnas, prokuroras ar teismas paskiria remdamasis šios institucijos sudarytais advokatų, teikiančių valstybės garantuojamą teisinę pagalbą baudžiamosiose bylose, budėjimo sąrašais. Įtariamajam, kaltinamajam ar nuteistajam apie paskirtą gynėją pranešama nedelsiant įteikiant ar išsiunčiant nutarties ar nutarimo paskirti gynėją nuorašą.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-165, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29859
+
+Nr. XIII-1438, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11749
 
 4. Išnykus šio Kodekso 50 straipsnio 4 dalyje ir šio  straipsnio 1 arba 2 dalyje nurodytoms aplinkybėms, dėl kurių įtariamajam, kaltinamajam ar nuteistajam buvo paskirta valstybės garantuojama teisinė pagalba, ikiteisminio tyrimo pareigūnas, prokuroras nutarimu ar teismas nutartimi nutraukia valstybės garantuojamos teisinės pagalbos teikimą.
 
