@@ -4,7 +4,7 @@ identifier: "TAR.389CB90C666D"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-01-15"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "1. Įstatymo 51 straipsnis įsigalioja 2002 m. vas
 ---
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
 
@@ -393,11 +393,19 @@ Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 
 6. Užsienio valstybių teisėsaugos, saugumo ir gynybos institucijų pareigūnai tarnybinėms užduotims atlikti jiems priklausančius B, C kategorijų ginklus, šaudmenis gali įvežti į Lietuvos Respubliką, išvežti iš jos, gavę atitinkamai Policijos departamento, Valstybės saugumo departamento ar Krašto apsaugos ministerijos išduotą leidimą. Leidimai išduodami šių institucijų nustatyta tvarka.
 
-7. Įvežamų į Lietuvos Respubliką, išvežamų iš jos, gabenamų tranzitu per Lietuvos Respubliką pavienių ginklų skaičius negali viršyti 3 vienetų vienam asmeniui, 500 vienetų šaudmenų vienam įvežamam ar turimam to paties kalibro ginklui. Sportui (varžyboms, treniruotėms) įvežamų į Lietuvos Respubliką, išvežamų iš jos, gabenamų tranzitu per Lietuvos Respubliką ginklų, jų dalių, jų šaudmenų skaičius neribojamas. Laikinai (ne ilgiau kaip 24 mėnesiams) išvežamų iš Lietuvos Respublikos pavienių ginklų, jų dalių, taip pat įvežamų į Lietuvos Respubliką pavienių ginklų, jų dalių, jeigu šie buvo laikinai (ne ilgiau kaip 24 mėnesiams) išvežti iš jos medžioklei ar sportui, skaičius neribojamas, šaudmenų skaičius negali viršyti 800 šovinių medžiotojams ir 1 200 šovinių sportinio šaudymo atstovams.
+7. Įvežamų į Lietuvos Respubliką, išvežamų iš jos, gabenamų tranzitu per Lietuvos Respubliką pavienių ginklų skaičius negali viršyti 3 vienetų vienam asmeniui, 500 vienetų šaudmenų vienam įvežamam ar turimam to paties kalibro ginklui. Aukšto meistriškumo sporto varžyboms, aukšto meistriškumo sporto pratyboms, fizinio aktyvumo pratyboms ir sporto renginiams įvežamų į Lietuvos Respubliką, išvežamų iš jos, gabenamų tranzitu per Lietuvos Respubliką ginklų, jų dalių, jų šaudmenų skaičius neribojamas. Laikinai (ne ilgiau kaip 24 mėnesiams) išvežamų iš Lietuvos Respublikos pavienių ginklų, jų dalių, taip pat įvežamų į Lietuvos Respubliką pavienių ginklų, jų dalių, jeigu šie buvo laikinai (ne ilgiau kaip 24 mėnesiams) išvežti iš jos medžioklei ar sportui, skaičius neribojamas, šaudmenų skaičius negali viršyti 800 šovinių medžiotojams ir 1 200 šovinių sportinio šaudymo atstovams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1548, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17456
 
 8. Kai ginklai, šaudmenys įvežami, išvežami parodoms organizuoti, jų skaičius neribojamas, tačiau ginklai, šaudmenys turi būti įvežti, išvežti po parodos. Už ginklų, šaudmenų įvežimą ir išvežimą atsako parodos organizatoriai.
 
-9. Juridiniai asmenys, turėdami Policijos departamento išduotą leidimą, gali laikinai įvežti į Lietuvos Respubliką, išvežti iš jos ginklus, šaudmenis tik sportui (varžyboms, treniruotėms).
+9. Juridiniai asmenys, turėdami Policijos departamento išduotą leidimą, gali laikinai įvežti į Lietuvos Respubliką, išvežti iš jos ginklus, šaudmenis tik aukšto meistriškumo sporto varžyboms, aukšto meistriškumo sporto pratyboms, fizinio aktyvumo pratyboms ir sporto renginiams.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1548, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17456
 
 10. Asmenys pavienius ginklus Lietuvos Respublikoje iš vienos vietos į kitą gali gabenti be leidimo laikydamiesi ginklų gabenimo reikalavimų.
 
@@ -997,7 +1005,11 @@ Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 
 1) medžioklės metu;
 
-2) sportinių varžybų ir pratybų metu;
+2) aukšto meistriškumo sporto varžybų, aukšto meistriškumo sporto pratybų, fizinio aktyvumo pratybų ir sporto renginių metu;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1548, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17456
 
 3) mokymų metu.
 
