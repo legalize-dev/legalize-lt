@@ -4,7 +4,7 @@ identifier: "TAR.793560F67ADF"
 country: "lt"
 rank: "istatymas"
 publication_date: "1991-03-21"
-last_updated: "2016-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.793560F67ADF"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.11-274, i. k. 0911010ISTA00I-1163
 
@@ -288,19 +288,11 @@ m3
 
 13.
 
-Kitas smėlis
+Kitas smėlis, žvyras
 
 m3
 
-0,38
-
-14.
-
-Žvyras
-
-m3
-
-0,44
+0,42
 
 Priedo pakeitimai:
 
@@ -311,6 +303,8 @@ Nr. XI-1818, 2011-12-20, Žin., 2011, Nr. 161-7617 (2011-12-29), i. k. 1111010IS
 Nr. XII-1196, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14127
 
 Nr. XII-2148, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19625
+
+Nr. XIII-1711, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20969
 
 Lietuvos Respublikos
 
@@ -430,9 +424,9 @@ gamtos išteklius įstatymo
 
 MOKESČIO UŽ MEDŽIOJAMUOSIUS GYVŪNUS TARIFAI PAGAL MEDŽIOKLĖS PLOTŲ KATEGORIJAS
 
-Medžioklės plotų kategorijos pagal tinkamumą medžiojamiesiems gyvūnams gyventi bei veistis
+Medžioklės plotų kategorijos pagal tinkamumą medžiojamiesiems gyvūnams gyventi ir veistis
 
-Metinis mokesčio tarifas (Eur/ha)
+Metinis mokesčio tarifas, Eur/ha
 
 Kategorija
 
@@ -442,47 +436,49 @@ I
 
 Lapuočių ir mišrūs lapuočių su spygliuočiais medynai (spygliuočių – iki 50 procentų)
 
-0,52
+1,04
 
 II
 
 Mišrūs spygliuočių su lapuočiais medynai (lapuočių – nuo 25 iki 50 procentų)
 
-0,35
+0,7
 
 III
 
 Mišrūs spygliuočių su nedidele lapuočių priemaiša medynai (lapuočių – nuo 11 iki 24 procentų)
 
-0,26
+0,52
 
 IV
 
 Gryni pušynai su ne didesne kaip 10 procentų kitų medžių rūšių priemaiša
 
-0,13
+0,26
 
 V
 
 Laukai (žemės ūkio naudmenos ir krūmynai) Marijampolės apskrityje
 
-0,08
+0,16
 
 VI
 
 Laukai (žemės ūkio naudmenos ir krūmynai) kitoje Lietuvos Respublikos dalyje
 
-0,07
+0,14
 
 VII
 
 Vandens telkiniai
 
-0,03
+0,06
 
 Priedo pakeitimai:
 
 Nr. XII-1196, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14127
+
+Nr. XIII-1711, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20969
 
 Lietuvos Respublikos mokesčio už
 
@@ -601,4 +597,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2155, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19851
 
 Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. I-1163 7 straipsnio pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1711, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20969
+
+Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. I-1163 11 straipsnio ir 1, 3 priedų pakeitimo įstatymas
 
