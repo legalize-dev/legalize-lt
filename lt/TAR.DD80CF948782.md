@@ -4,7 +4,7 @@ identifier: "TAR.DD80CF948782"
 country: "lt"
 rank: "istatymas"
 publication_date: "2002-05-16"
-last_updated: "2017-05-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782"
 department: "Lietuvos Respublikos Seimas"
@@ -15,7 +15,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2017-05-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2225, i. k. 1021010ISTA00IX-886
 
@@ -139,7 +139,11 @@ Nr. XII-1958, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16899
 
 4. Savivaldybių vykdoma visuomenės sveikatos priežiūra finansuojama iš valstybės biudžeto, savivaldybės biudžeto, savivaldybės visuomenės sveikatos rėmimo specialiosios programos, Privalomojo sveikatos draudimo fondo bei kitų teisėtai įgytų lėšų.
 
-5. Vyriausybės nustatyta tvarka savivaldybės kasmet Sveikatos apsaugos ministerijai teikia ataskaitą, o prireikus ir papildomą informaciją apie savivaldybės vykdomas visuomenės sveikatos priežiūros funkcijas.
+5. Savivaldybės už valstybinių (valstybės perduotų savivaldybėms) visuomenės sveikatos priežiūros funkcijų vykdymą atsiskaito kasmet sveikatos apsaugos ministro nustatyta tvarka.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1692, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20190
 
 Straipsnio pakeitimai:
 
@@ -553,7 +557,11 @@ Nr. XII-1958, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16899
 
 2. Valstybės ir savivaldybių visuomenės sveikatos priežiūros įstaigos organizuoja savivaldybių bendruomenių narių, suinteresuotų visuomeninių organizacijų narių mokymą, kaip spręsti visuomenės sveikatos problemas.
 
-3. Valstybės ir savivaldybių institucijos visuomenės sveikatos stiprinimo mokymą įtraukia į sveikatos priežiūros specialistų, socialinių darbuotojų, pedagogų, vaikų ugdymo bei kūno kultūros specialistų rengimo, kvalifikacijos kėlimo ir perkvalifikavimo programas.
+3. Valstybės ir savivaldybių institucijos visuomenės sveikatos stiprinimo mokymą įtraukia į sveikatos priežiūros specialistų, socialinių darbuotojų, pedagogų, vaikų ugdymo bei fizinio aktyvumo ir aukšto meistriškumo sporto specialistų, fizinio aktyvumo ir aukšto meistriškumo sporto instruktorių rengimo, kvalifikacijos kėlimo ir perkvalifikavimo programas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1556, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17472
 
 4. Asmenys, kurie dirba pagal profesijas, įrašytas į Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą, privalo įgyti žinių sveikatos klausimais pagal sveikatos apsaugos ministro nustatytus reikalavimus. Šių asmenų privalomąjį sveikatos mokymą vykdo šiam darbui licencijuoti fiziniai, juridiniai asmenys ar filialai.
 
@@ -866,6 +874,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2728, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26838
 
 Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 15 straipsnio pakeitimo įstatymas
+
+6.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1556, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17472
+
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 34 straipsnio pakeitimo įstatymas
+
+7.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1692, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20190
+
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 6 straipsnio pakeitimo įstatymas
 
 5 straipsnis. Visuomenės sveikatos priežiūros įstaigų sistemos struktūra
 
