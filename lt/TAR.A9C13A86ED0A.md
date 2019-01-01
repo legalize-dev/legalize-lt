@@ -4,7 +4,7 @@ identifier: "TAR.A9C13A86ED0A"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-07-19"
-last_updated: "2018-11-13"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.A9C13A86ED0A"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-11-13 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 58-1133, i. k. 0941010ISTA000I-555
 
@@ -60,7 +60,11 @@ I SKYRIUS BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis Įstatymas reglamentuoja Lietuvos Respublikos karinių vienetų, karių ir civilių krašto apsaugos sistemos tarnautojų dalyvavimą tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose, taip pat užsienio valstybių karinių vienetų, karių ir karinėms pajėgoms priskirtų civilių tarnautojų dalyvavimą tarptautinėse operacijose, pratybose ir kituose tarptautiniuose karinio bendradarbiavimo renginiuose Lietuvos Respublikos teritorijoje.
+1. Šis įstatymas reglamentuoja Lietuvos Respublikos karinių vienetų, karių ir krašto apsaugos sistemos valstybės tarnautojų, žvalgybos pareigūnų, tarnaujančių pagal žvalgybos pareigūno tarnybos sutartis, ir darbuotojų, dirbančių pagal darbo sutartis (toliau – civiliai krašto apsaugos sistemos tarnautojai), dalyvavimą tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose, taip pat užsienio valstybių karinių vienetų, karių ir karinėms pajėgoms priskirtų civilių tarnautojų dalyvavimą tarptautinėse operacijose, pratybose ir kituose tarptautiniuose karinio bendradarbiavimo renginiuose Lietuvos Respublikos teritorijoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1813, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21829
 
 2. Įstatymas nereglamentuoja ginkluotosioms pajėgoms nepriskirtų Lietuvos policijos ir kitų sukarintų valstybės institucijų pajėgų bei jų pareigūnų dalyvavimo tarptautinėse operacijose, pratybose bei kituose tarptautinio bendradarbiavimo renginiuose.
 
@@ -130,17 +134,23 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1931, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11104
 
-6. Atlikti tarnybą tarptautinių operacijų kariniame vienete įstatymų ir kitų teisės aktų nustatyta tvarka skiriami profesinės karo tarnybos kariai, kariai savanoriai ir kiti aktyviojo rezervo kariai, taip pat asmenys, atliekantys civilinę krašto apsaugos tarnybą. Pagrindinį karinį parengtumą įgiję privalomosios karo tarnybos kariai tarptautinių operacijų kariniam vienetui gali būti priskirti jų mokymo ir rengimo tarptautinėms operacijoms tikslais.
+6. Atlikti tarnybą tarptautinių operacijų kariniame vienete įstatymų ir kitų teisės aktų nustatyta tvarka skiriami profesinės karo tarnybos kariai, kariai savanoriai ir kiti aktyviojo rezervo kariai, taip pat civiliai krašto apsaugos sistemos tarnautojai. Pagrindinį karinį parengtumą įgiję privalomosios karo tarnybos kariai tarptautinių operacijų kariniam vienetui gali būti priskirti jų mokymo ir rengimo tarptautinėms operacijoms tikslais.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1813, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21829
 
 Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1931, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11104
 
-7. Civilių krašto apsaugos sistemos tarnautojų tarnybos tarptautinių operacijų kariniuose vienetuose sąlygas nustato Lietuvos Respublikos Vyriausybė. Karių, dalyvaujančių tarptautinėje operacijoje, besirengiančių tarptautinei operacijai, tarptautinės operacijos vietovėje vykdančių tarnybinę užduotį, tarnybos apmokėjimą nustato Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas.
+7. Civilių krašto apsaugos sistemos tarnautojų tarnybos tarptautinių operacijų kariniuose vienetuose ir rengimosi šiai tarnybai sąlygas nustato krašto apsaugos ministras. Karių, krašto apsaugos sistemos valstybės tarnautojų, žvalgybos pareigūnų ir darbuotojų, dirbančių pagal darbo sutartis, dalyvaujančių tarptautinėje operacijoje, besirengiančių tarptautinei operacijai, tarptautinės operacijos vietovėje vykdančių tarnybinę užduotį, tarnybos apmokėjimą nustato Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-1313, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10966
+
+Nr. XIII-1813, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21829
 
 Straipsnio dalies numeracijos pakeitimas:
 
@@ -158,7 +168,11 @@ Straipsnio dalies numeracijos pakeitimas:
 
 Nr. XII-1931, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11104
 
-10. Lietuvos Respublikos karinių vienetų, dalyvaujančių tarptautinėse operacijose užsienyje, užduotims atlikti gali būti pasitelkti kalbos, religijos ar socialinio gyvenimo žinovai. Tokių asmenų paslaugų teikimo, atlyginimo už jas, jų aprūpinimo ir sutarties su jais sąlygas nustato Lietuvos Respublikos Vyriausybė. Vyriausybės nustatyta tvarka tokiems asmenims gali būti taikomos su užduočių padedant Lietuvos Respublikos kariniams vienetams atlikimu susijusios socialinės garantijos, kurios negali būti didesnės negu nurodytos Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 77² straipsnyje.
+10. Lietuvos Respublikos karinių vienetų, dalyvaujančių tarptautinėse operacijose užsienyje, užduotims atlikti gali būti pasitelkti kalbos, religijos ar socialinio gyvenimo žinovai. Tokių asmenų paslaugų teikimo, atlyginimo už jas, jų aprūpinimo ir sutarties su jais sąlygas nustato Lietuvos Respublikos Vyriausybė. Vyriausybės nustatyta tvarka tokiems asmenims gali būti taikomos su užduočių padedant Lietuvos Respublikos kariniams vienetams atlikimu susijusios socialinės garantijos, kurios negali būti didesnės negu Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 77² straipsnyje, 67 straipsnio 6, 7, 8, 9, 10, 11, 12, 13 ir 14 dalyse nustatytos mutatis mutandis taikytinos garantijos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1813, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21829
 
 Straipsnio dalies numeracijos pakeitimas:
 
