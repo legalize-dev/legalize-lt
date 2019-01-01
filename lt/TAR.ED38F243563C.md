@@ -4,7 +4,7 @@ identifier: "TAR.ED38F243563C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-12-22"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.ED38F243563C"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ document_status: "registruotas TA registre"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
 
@@ -157,11 +157,13 @@ Teisę gauti pirmojo laipsnio valstybinę pensiją turi šie Lietuvos Respubliko
 
 1) ginkluoto pasipriešinimo (rezistencijos) dalyviai – kariai savanoriai;
 
-2) olimpinių žaidynių čempionai, parolimpinių žaidynių čempionai, kurčiųjų žaidynių čempionai (aukso medalio laimėtojai);
+2) olimpinių žaidynių čempionai, paralimpinių žaidynių čempionai, kurčiųjų žaidynių čempionai (aukso medalio laimėtojai);
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-429, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10030
+
+Nr. XIII-1555, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17471
 
 3) asmenys, kuriems teisės aktų nustatyta tvarka paskirta Lietuvos nacionalinė kultūros ir meno premija.
 
@@ -175,11 +177,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-789, 2017-11-21, paskelbta TAR 2017-11-23, i. k. 2017-18514
 
-2) olimpinių žaidynių prizininkai, parolimpinių žaidynių prizininkai, kurčiųjų žaidynių prizininkai (sidabro, bronzos medalių laimėtojai), olimpinių sporto šakų pasaulio čempionai, į parolimpinių ar kurčiųjų žaidynių programą įtrauktos sporto šakos rungties pasaulio čempionai (aukso medalio laimėtojai);
+2) olimpinių žaidynių prizininkai, paralimpinių žaidynių prizininkai, kurčiųjų žaidynių prizininkai (sidabro, bronzos medalių laimėtojai), olimpinių sporto šakų pasaulio čempionai, į paralimpinių ar kurčiųjų žaidynių programą įtrauktos sporto šakos rungties pasaulio čempionai (aukso medalio laimėtojai);
 
 Straipsnio punkto pakeitimai:
 
 Nr. XIII-429, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10030
+
+Nr. XIII-1555, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17471
 
 3) asmenys, kuriems teisės aktų nustatyta tvarka suteiktas garbės donoro vardas.
 
