@@ -4,7 +4,7 @@ identifier: "TAR.58398896D322"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-12-22"
-last_updated: "2018-10-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.58398896D322"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ entry_into_force_conditions: "34 str. 1 dalis įsigalioja 2012-01-06"
 
 LIETUVOS RESPUBLIKOS PROBACIJOS ĮSTATYMAS
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 2012, Nr. 4-108, i. k. 1111010ISTA0XI-1860
 
@@ -62,7 +62,11 @@ BENDROSIOS NUOSTATOS
 
 10. Probuojamojo resocializacija – priemonių, kuriomis skatinami probuojamojo gebėjimai gyventi nenusikalstant ir jo socialinė integracija, visuma.
 
-11. Probuotojas – asmuo, priimtas į probacijos tarnybą Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto nustatyta tvarka ir vykdantis probaciją.
+11. Probuotojas – pataisos pareigūnas, vykdantis probaciją.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1388, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12056
 
 3 straipsnis. Probacijos vykdymą reglamentuojančių įstatymų taikymas
 
@@ -595,4 +599,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
 
 Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 6, 14 ir 19 straipsnių pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1388, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12056
+
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 2 straipsnio pakeitimo įstatymas
 
