@@ -4,7 +4,7 @@ identifier: "TAR.7055451E838B"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-11-04"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2022-10-31
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
 
@@ -48,7 +48,11 @@ BENDROSIOS NUOSTATOS
 
 2. Potencialus pirkėjas – Lietuvos ar užsienio fiziniai ir juridiniai asmenys, pagal šį įstatymą įsigyjantys privatizavimo objektą. Potencialiu pirkėju negali būti Lietuvos valstybės ir savivaldybių įmonės, akcinės ir uždarosios akcinės bendrovės, bankai ir draudimo įstaigos, kuriuose daugiau kaip 1/2 akcijų, suteikiančių balso teisę visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, taip pat iš Lietuvos ar užsienio valstybių ir savivaldybių biudžetų išlaikomos įstaigos ir organizacijos.
 
-3. Privatizavimas – valstybei ar savivaldybei priklausančių įmonių akcijų perdavimas potencialių pirkėjų nuosavybėn pagal šiame įstatyme nustatyta tvarka sudarytus privatizavimo sandorius, taip pat valstybės ar savivaldybės kontrolės perdavimas valstybės ar savivaldybės kontroliuojamose įmonėse, kai iš papildomų įnašų išplatinama nauja akcijų emisija.
+3. Privatizavimas – valstybei ar savivaldybei priklausančių įmonių akcijų perdavimas potencialių pirkėjų nuosavybėn pagal šiame įstatyme nustatyta tvarka sudarytus privatizavimo sandorius, taip pat valstybės ar savivaldybės kontrolės perdavimas valstybės ar savivaldybės valdomose įmonėse, kai iš papildomų įnašų išplatinama nauja akcijų emisija.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1169, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08642
 
 4. Privatizavimo objektas – akcijos, nuosavybės teise priklausančios valstybei ar savivaldybei, įtrauktos į Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) patvirtintą privatizavimo objektų sąrašą.
 
@@ -60,7 +64,11 @@ BENDROSIOS NUOSTATOS
 
 8. Valstybės ar savivaldybės akcijų paketas (toliau – akcijų paketas) – valstybei ar savivaldybei nuosavybės teise priklausančių akcijų visuma, kuri privatizuojama nedalomai.
 
-9. Valstybės (savivaldybės) kontroliuojama įmonė – įmonė, kurioje daugiau kaip 1/2 akcijų, suteikiančių balso teisę visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei.
+9. Valstybės ar savivaldybės valdoma įmonė – akcinė bendrovė, uždaroji akcinė bendrovė, kurių valstybei nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, taip pat akcinė bendrovė, uždaroji akcinė bendrovė, kurių vienai ar kelioms savivaldybėms nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1169, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08642
 
 10. Sąvokos „reguliuojama rinka“ ir „reguliuojamos rinkos operatorius“ suprantamos taip, kaip šios sąvokos apibrėžtos Lietuvos Respublikos finansinių priemonių rinkų įstatyme.
 
@@ -78,7 +86,11 @@ PRIVATIZAVIMO INSTITUCIJOS
 
 2) savivaldybių tarybų įsteigti savivaldybių administracijų padaliniai savivaldybėms priklausančioms akcijoms privatizuoti (toliau – savivaldybių privatizavimo fondai) arba kiti savivaldybių administracijų padaliniai. Savivaldybės taryba gali įgalioti savivaldybės administracijos direktorių sudaryti sutartį su centralizuotai valdomo valstybės turto valdytoju dėl savivaldybei nuosavybės teise priklausančių akcijų privatizavimo. Savivaldybės privatizavimo fondas, o kai jis nesteigiamas, – kitas savivaldybės administracijos padalinys atlieka savivaldybės lygiu šiame įstatyme centralizuotai valdomo valstybės turto valdytojui nustatytas funkcijas.
 
-2. Privatizavimo institucijų sprendimai privatizavimo klausimais, priimti pagal jų kompetenciją, vadovaujantis šiuo ir kitais įstatymais, yra privalomi valstybės (savivaldybių) kontroliuojamoms įmonėms.
+2. Privatizavimo institucijų sprendimai privatizavimo klausimais, priimti pagal jų kompetenciją, vadovaujantis šiuo ir kitais įstatymais, yra privalomi valstybės ar savivaldybės valdomoms įmonėms.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1169, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08642
 
 4 straipsnis. Centralizuotai valdomo valstybės turto valdytojo kompetencija privatizavimo srityje
 
@@ -92,7 +104,11 @@ PRIVATIZAVIMO INSTITUCIJOS
 
 3) viešuosius pirkimus reglamentuojančių teisės aktų nustatyta tvarka sudaro viešojo pirkimo–pardavimo sutartis privatizavimo užduotims atlikti (įskaitant privatizavimo objektų vertinimą);
 
-4) šio įstatymo 12 straipsnyje nustatytais atvejais duoda leidimą valstybės kontroliuojamos įmonės sudaromiems sandoriams arba jiems nepritaria;
+4) šio įstatymo 12 straipsnyje nustatytais atvejais duoda leidimą valstybės valdomos įmonės sudaromiems sandoriams arba jiems nepritaria;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1169, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08642
 
 5) leidžia informacinį biuletenį, kuriame turi būti skelbiama šio įstatymo 11 straipsnyje nustatyta informacija apie privatizavimo objektą, rengia kitus reklaminius dokumentus ir organizuoja privatizavimo objekto reklamą Lietuvoje ar užsienyje;
 
@@ -110,7 +126,11 @@ PRIVATIZAVIMO INSTITUCIJOS
 
 12) atstovauja valstybei teisme dėl valstybės turto privatizavimo;
 
-13) kreipiasi į teismą dėl valstybės kontroliuojamos įmonės sudarytų sandorių, pažeidžiančių šį ir kitus įstatymus, pripažinimo negaliojančiais ir dėl nuostolių atlyginimo.
+13) kreipiasi į teismą dėl valstybės valdomos įmonės sudarytų sandorių, pažeidžiančių šį ir kitus įstatymus, pripažinimo negaliojančiais ir dėl nuostolių atlyginimo.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1169, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08642
 
 5 straipsnis. Privatizavimo komisija
 
@@ -214,19 +234,27 @@ PRIVATIZAVIMO OBJEKTŲ PARENGIMAS PRIVATIZUOTI
 
 1) akcinės bendrovės ar uždarosios akcinės bendrovės, kurios akcijos privatizuojamos, pavadinimas ir privatizavimo būdas;
 
-2) trumpa akcinės bendrovės ar uždarosios akcinės bendrovės, kurios akcijos privatizuojamos, charakteristika (įstatinis kapitalas, valstybei (savivaldybei) tenkančių akcijų nominalioji vertė, numatomų privatizuoti akcijų dalis, įmonės veiklos finansiniai rodikliai, gamybos mastas ar metinė apyvarta, darbuotojų skaičius, pagrindinės veiklos pobūdis, geografinė padėtis, informacija apie valstybės (savivaldybės) kontroliuojamos įmonės produkcijos ar paslaugų dalį rinkoje ir trečiųjų asmenų teises į tokią įmonę);
+2) trumpa akcinės bendrovės ar uždarosios akcinės bendrovės, kurios akcijos privatizuojamos, charakteristika (įstatinis kapitalas, valstybei (savivaldybei) tenkančių akcijų nominalioji vertė, numatomų privatizuoti akcijų dalis, įmonės veiklos finansiniai rodikliai, gamybos mastas ar metinė apyvarta, darbuotojų skaičius, pagrindinės veiklos pobūdis, geografinė padėtis, informacija apie valstybės ar savivaldybės valdomos įmonės produkcijos ar paslaugų dalį rinkoje ir trečiųjų asmenų teises į tokią įmonę);
 
-3) privatizavimo terminai, privatizavimo objekto pradinė pardavimo kaina, išskyrus atvejus, kai, privatizuojant valstybės kontroliuojamos įmonės arba įmonės, kuri yra svarbus infrastruktūros arba dominuojantis ūkio šakos objektas, akcijas, Vyriausybė nusprendžia jos neskelbti arba kai akcijos privatizuojamos šio įstatymo 19 straipsnyje nurodytu būdu ir tvarka, ir kitos privatizavimo sąlygos.
+3) privatizavimo terminai, privatizavimo objekto pradinė pardavimo kaina, išskyrus atvejus, kai, privatizuojant valstybės valdomos įmonės arba įmonės, kuri yra svarbus infrastruktūros arba dominuojantis ūkio šakos objektas, akcijas, Vyriausybė nusprendžia jos neskelbti arba kai akcijos privatizuojamos šio įstatymo 19 straipsnyje nurodytu būdu ir tvarka, ir kitos privatizavimo sąlygos.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1169, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08642
 
 5. Vyriausybė turi teisę nustatyti ir kitų, negu nustatyta šio straipsnio 4 dalyje, privatizavimo objekto privatizavimo programų sudarymo reikalavimų (įskaitant teisę nustatyti privalomas privatizavimo objektų privatizavimo programų sąlygas ir privatizavimo būdus), taip pat teisę pritarti ar nepritarti privatizavimo programų ir privatizavimo sandorių projektams. Jeigu Vyriausybė nepritarė tokio objekto privatizavimo programos ar privatizavimo sandorio projektui, gali būti rengiama ir skelbiama nauja privatizavimo programa arba privatizavimo objektas gali būti išbrauktas iš Vyriausybės patvirtinto privatizavimo objektų sąrašo.
 
 6. Iki potencialaus pirkėjo, su kuriuo numatoma pasirašyti privatizavimo sandorį, pripažinimo ir paskelbimo laimėtoju Vyriausybė, nurodžiusi priežastį, turi teisę sustabdyti ar nutraukti privatizavimo objekto privatizavimo programos įgyvendinimą.
 
-7. Valstybės (savivaldybės) kontroliuojamos įmonės per centralizuotai valdomo valstybės turto valdytojo nustatytus terminus turi parengti privatizavimo objekto privatizavimo programos projektui reikalingus duomenis:
+7. Valstybės ar savivaldybės valdomos įmonės per centralizuotai valdomo valstybės turto valdytojo nustatytus terminus turi parengti privatizavimo objekto privatizavimo programos projektui reikalingus duomenis:
 
-1) valstybinio žemės sklypo, kuris nustatyta tvarka yra priskirtas valstybės (savivaldybės) kontroliuojamoms įmonėms, naudotojas privalo perduoti valstybės (savivaldybės) kontroliuojamai įmonei to žemės sklypo nuomos ar panaudos sutartis, o kai tokios sutartys nesudarytos, – kitus Vyriausybės nustatytus žemės sklypo suteikimo naudotis dokumentus. Valstybės (savivaldybės) kontroliuojama įmonė, kurios akcijos yra įtrauktos į privatizavimo objektų sąrašą, privalo raštu kreiptis į žemės sklypo naudotoją, kad šis parengtų šiame punkte nurodytus dokumentus;
+1) valstybinio žemės sklypo, kuris nustatyta tvarka yra priskirtas valstybės ar savivaldybės valdomoms įmonėms, naudotojas privalo perduoti valstybės ar savivaldybės valdomai įmonei to žemės sklypo nuomos ar panaudos sutartis, o kai tokios sutartys nesudarytos, – kitus Vyriausybės nustatytus žemės sklypo suteikimo naudotis dokumentus. Valstybės ar savivaldybės valdoma įmonė, kurios akcijos yra įtrauktos į privatizavimo objektų sąrašą, privalo raštu kreiptis į žemės sklypo naudotoją, kad šis parengtų šiame punkte nurodytus dokumentus;
 
-2) valstybės institucijos (Valstybinė mokesčių inspekcija, Valstybinio socialinio draudimo fondo valdyba ir kitos), kontroliuojančios valstybės (savivaldybės) kontroliuojamų įmonių prievolių valstybei ir (ar) savivaldybei įvykdymą, duomenis apie visus tokios įmonės įsiskolinimus (įskaitant baudas ir delspinigius) valstybei (savivaldybei) Vyriausybės nustatyta tvarka privalo pateikti valstybės (savivaldybės) kontroliuojamai įmonei. Valstybės (savivaldybės) kontroliuojama įmonė, kurios akcijos yra įtrauktos į privatizavimo objektų sąrašą, privalo raštu kreiptis į atitinkamas valstybės institucijas, kad šios parengtų šiame punkte nurodytus dokumentus.
+2) valstybės institucijos (Valstybinė mokesčių inspekcija, Valstybinio socialinio draudimo fondo valdyba ir kitos), kontroliuojančios valstybės ar savivaldybės valdomų įmonių prievolių valstybei ir (ar) savivaldybei įvykdymą, duomenis apie visus tokios įmonės įsiskolinimus (įskaitant baudas ir delspinigius) valstybei (savivaldybei) Vyriausybės nustatyta tvarka privalo pateikti valstybės ar savivaldybės valdomai įmonei. Valstybės ar savivaldybės valdoma įmonė, kurios akcijos yra įtrauktos į privatizavimo objektų sąrašą, privalo raštu kreiptis į atitinkamas valstybės institucijas, kad šios parengtų šiame punkte nurodytus dokumentus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1169, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08642
 
 8. Savivaldybės vykdomoji institucija privalo per Vyriausybės nustatytą laiką perduoti centralizuotai valdomo valstybės turto valdytojui privatizavimo objektų sąrašo ir privatizavimo objektų privatizavimo programų duomenis, kad šie duomenys būtų paskelbti informaciniame biuletenyje.
 
@@ -242,7 +270,11 @@ PRIVATIZAVIMO OBJEKTŲ PARENGIMAS PRIVATIZUOTI
 
 2) centralizuotai valdomo valstybės turto valdytojo darbuotojo, atsakingo už privatizavimo objekto privatizavimo programos vykdymą, pavardė, vardas, pareigos, adresas, telefonas, elektroninio pašto adresas ir faksas;
 
-3) valstybės (savivaldybės) kontroliuojamos įmonės, kurios akcijos yra parduodamos, apžiūros laikas;
+3) valstybės ar savivaldybės valdomos įmonės, kurios akcijos yra parduodamos, apžiūros laikas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1169, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08642
 
 4) privatizavimo dokumentų įsigijimo ir atsiskaitymo už juos tvarka;
 
@@ -254,23 +286,27 @@ PRIVATIZAVIMO OBJEKTŲ PARENGIMAS PRIVATIZUOTI
 
 3. Šio straipsnio 1 dalyje nurodyta informacija apie privatizavimo objektą informaciniame biuletenyje turi būti paskelbta ne vėliau kaip prieš 30 dienų iki paraiškų ar kitų privatizavimo dokumentų dėl dalyvavimo privatizavime priėmimo pradžios, o kai informacija apie privatizavimo objektą skelbiama ne pirmą kartą, – ne vėliau kaip prieš 10 dienų. Kai akcijos parduodamos reguliuojamoje rinkoje, informacija apie privatizavimo objektą yra skelbiama informaciniame biuletenyje ir reguliuojamos rinkos operatoriaus informacijos šaltiniuose pagal reguliuojamos rinkos operatoriaus nustatytas taisykles. Centralizuotai valdomo valstybės turto valdytojas gali informaciją apie privatizavimo objektą skelbti užsienyje.
 
-12 straipsnis. Valstybės (savivaldybės) kontroliuojamos įmonės veiklos apribojimai
+12 straipsnis. Valstybės ar savivaldybės valdomos įmonės veiklos apribojimai
 
-1. Valstybės (savivaldybės) kontroliuojamos įmonės neturi teisės be centralizuotai valdomo valstybės turto valdytojo (savivaldybių privatizavimo fondų) rašytinio sutikimo nuo privatizavimo objekto privatizavimo programų paskelbimo dienos iki privatizavimo sandorių sudarymo dienos arba iki šių objektų privatizavimo programų sustabdymo ar (ir) pripažinimo pasibaigusiomis dienos sudaryti šių sandorių:
+1. Valstybės ar savivaldybės valdomos įmonės neturi teisės be centralizuotai valdomo valstybės turto valdytojo (savivaldybių privatizavimo fondų) rašytinio sutikimo nuo privatizavimo objekto privatizavimo programų paskelbimo dienos iki privatizavimo sandorių sudarymo dienos arba iki šių objektų privatizavimo programų sustabdymo ar (ir) pripažinimo pasibaigusiomis dienos sudaryti šių sandorių:
 
-1) paskolos, įkeitimo, laidavimo, garantijos, nuomos, ilgalaikio materialiojo turto pirkimo, pardavimo ir bet kokio perdavimo, pirkti kitos įmonės vertybinių popierių, leisti obligacijų, didinti ar mažinti įmonės įstatinį kapitalą, jeigu sandorio ar kelių sandorių vertė (turto, dėl kurio sudaromas sandoris, bendra vertė per kalendorinius metus) yra didesnė kaip 5 procentai įmonės įstatinio kapitalo;
+1) paskolos, įkeitimo, laidavimo, garantijos, nuomos, ilgalaikio materialiojo turto pirkimo, pardavimo ir bet kokio perdavimo, pirkti kitos įmonės vertybinių popierių, leisti obligacijų, didinti ar mažinti įmonės įstatinį kapitalą, jeigu sandorio ar kelių sandorių vertė (turto, dėl kurio sudaromas sandoris, bendra vertė per kalendorinius metus) yra didesnė kaip 5 procentai įmonės įstatinio kapitalo;
 
 2) medžiagų ir žaliavų pirkimo bei pardavimo arba bet kokio jų perdavimo, jeigu sandorio ar kelių sandorių vertė (turto, dėl kurio sudaromas sandoris, bendra vertė per kalendorinius metus) yra didesnė kaip 10 procentų įmonės įstatinio kapitalo.
 
-2. Valstybės (savivaldybės) kontroliuojamos įmonės, kurių akcijos privatizuojamos, negali be centralizuotai valdomo valstybės turto valdytojo (savivaldybių privatizavimo fondų) rašytinio sutikimo nuo Vyriausybės nutarimo, kuriuo į privatizavimo objektų sąrašą įtrauktos šių įmonių akcijos, įsigaliojimo dienos iki privatizavimo sandorių sudarymo dienos arba iki šių objektų privatizavimo programų sustabdymo ar (ir) pripažinimo pasibaigusiomis dienos būti pertvarkomos arba reorganizuojamos.
+2. Valstybės ar savivaldybės valdomos įmonės, kurių akcijos privatizuojamos, negali be centralizuotai valdomo valstybės turto valdytojo (savivaldybių privatizavimo fondų) rašytinio sutikimo nuo Vyriausybės nutarimo, kuriuo į privatizavimo objektų sąrašą įtrauktos šių įmonių akcijos, įsigaliojimo dienos iki privatizavimo sandorių sudarymo dienos arba iki šių objektų privatizavimo programų sustabdymo ar (ir) pripažinimo pasibaigusiomis dienos būti pertvarkomos arba reorganizuojamos.
 
 3. Jeigu šio straipsnio 1 ir (ar) 2 dalyse nurodyti sandoriai yra sudaromi be centralizuotai valdomo valstybės turto valdytojo (savivaldybių privatizavimo fondų) leidimo, jie yra niekiniai, išskyrus sandorius, sudarytus su asmenimis, kurie nežinojo ir negalėjo žinoti apie pagal šį straipsnį įmonei taikomus apribojimus. Jeigu su centralizuotai valdomo valstybės turto valdytojo (savivaldybių privatizavimo fondų) leidimu tokie sandoriai sudaromi, centralizuotai valdomo valstybės turto valdytojas (savivaldybių privatizavimo fondai) privalo apie tai nedelsdamas (nedelsdami) informuoti potencialius pirkėjus:
 
-1) paskelbdamas pasikeitusią informaciją informaciniame biuletenyje ir (ar)
+1) paskelbdamas (paskelbdami) pasikeitusią informaciją informaciniame biuletenyje ir (ar)
 
-2) informuodamas kiekvieną potencialų pirkėją, kuris raštu kreipėsi dėl informacijos apie privatizuojamas valstybės (savivaldybės) kontroliuojamos įmonės akcijas.
+2) informuodamas (informuodami) kiekvieną potencialų pirkėją, kuris raštu kreipėsi dėl informacijos apie privatizuojamas valstybės ar savivaldybės valdomos įmonės akcijas.
 
 4. Nuo privatizavimo objekto privatizavimo programų paskelbimo dienos iki privatizavimo sandorių sudarymo dienos arba iki šių objektų privatizavimo programų sustabdymo ir (ar) pripažinimo pasibaigusiomis dienos akcininkui – valstybei arba savivaldybei atstovaujantis asmuo bendrovėje, kurioje valstybė ar savivaldybė turi mažiau kaip 1/2 akcijų, suteikiančių balso teisę visuotiniame akcininkų susirinkime, tokiame susirinkime privalo balsuoti prieš, jeigu šios bendrovės visuotiniame akcininkų susirinkime būtų svarstomi šio straipsnio 1 ir 2 dalyse nustatyti klausimai ir jeigu centralizuotai valdomo valstybės turto valdytojas (savivaldybių privatizavimo fondai) akcininkui – valstybei arba savivaldybei atstovaujančiam asmeniui nenurodo balsuoti kitaip.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1169, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08642
 
 KETVIRTASIS SKIRSNIS
 
@@ -288,7 +324,11 @@ PRIVATIZAVIMO BŪDAI IR PRIVATIZAVIMO OBJEKTO ĮSIGIJIMAS
 
 4) tiesioginės derybos;
 
-5) valstybės ar savivaldybės kontrolės perdavimas valstybės (savivaldybės) kontroliuojamoje įmonėje;
+5) valstybės ar savivaldybės kontrolės perdavimas valstybės ar savivaldybės valdomoje įmonėje;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1169, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08642
 
 6) akcijų pardavimas uždarosios akcinės bendrovės akcininkams.
 
@@ -336,13 +376,17 @@ PRIVATIZAVIMO BŪDAI IR PRIVATIZAVIMO OBJEKTO ĮSIGIJIMAS
 
 4. Privatizavimo objekto valdytojas per 45 dienas nuo potencialaus pirkėjo rašytinio pasiūlymo ir dokumentų, kuriais patvirtinama, kad tenkinamos šiame straipsnyje nustatytos sąlygos, gavimo dienos privalo priimti sprendimą vesti tiesiogines derybas arba motyvuotai atsakyti, kodėl pagal pateiktus dokumentus šis turtas negali būti privatizuojamas tiesioginių derybų būdu.
 
-18 straipsnis.  Valstybės (savivaldybės) kontrolės perdavimas valstybės (savivaldybės) kontroliuojamoje įmonėje
+18 straipsnis. Valstybės ar savivaldybės kontrolės perdavimas valstybės ar savivaldybės valdomoje įmonėje
 
-1. Kontrolės perdavimas valstybės (savivaldybės) kontroliuojamoje įmonėje – naujų akcijų emisija iš papildomų įnašų, dėl kurios valstybės (savivaldybės) dalis įmonės įstatiniame kapitale sumažėja ar gali sumažėti atitinkamai peržengdama 2/3, 1/2 akcijų, suteikiančių balso teisę visuotiniame akcininkų susirinkime, ribą.
+1. Kontrolės perdavimas valstybės ar savivaldybės valdomoje įmonėje – naujų akcijų emisija iš papildomų įnašų, dėl kurios valstybės (savivaldybės) dalis įmonės įstatiniame kapitale sumažėja ar gali sumažėti atitinkamai peržengdama 2/3, 1/2 akcijų, suteikiančių balso teisę visuotiniame akcininkų susirinkime, ribą.
 
-2. Kontrolės perdavimo būdu valstybės (savivaldybės) kontroliuojama įmonė gali būti privatizuojama tik tada, kai šios įmonės valstybei (savivaldybei) priklausančių akcijų privatizavimo programa bent tris kartus šio įstatymo nustatyta tvarka buvo paskelbta, tačiau per šiose programose nustatytą laiką akcijos nebuvo parduotos.
+2. Kontrolės perdavimo būdu valstybės ar savivaldybės valdoma įmonė gali būti privatizuojama tik tada, kai šios įmonės valstybei (savivaldybei) priklausančių akcijų privatizavimo programa bent tris kartus šio įstatymo nustatyta tvarka buvo paskelbta, tačiau per šiose programose nustatytą laiką akcijos nebuvo parduotos.
 
 3. Vykdant šį privatizavimo būdą, gali dalyvauti ne tik įmonės akcininkai, akcininkams pirmenybės teisė netaikoma. Privatizuojant kontrolės perdavimo būdu, valstybės ar savivaldybės teisė pasirašyti naujos emisijos akcijas perleidžiama taikant šio įstatymo nustatytas viešo aukciono procedūras.
+
+Straipsnio pakeitimai:
+
+Nr. XIII-1169, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08642
 
 19 straipsnis. Akcijų pardavimas uždarosios akcinės bendrovės akcininkams
 
@@ -368,17 +412,25 @@ Nr. XIII-559, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12062
 
 21 straipsnis. Pirkėjo įsipareigojimai privatizavimo sandoryje ir nuosavybės teisės į privatizavimo objektą atsiradimas
 
-1. Privatizavimo sandoryje, kuris sudaromas privatizavus bendrovių akcijas viešo konkurso ar tiesioginių derybų būdu, gali būti nustatomi pirkėjo (pirkėjų) įsipareigojimai išsaugoti darbo vietas, investuoti į valstybės (savivaldybės) kontroliuojamą įmonę, kurios akcijos parduodamos, ar į kitas Lietuvos ūkio sritis.
+1. Privatizavimo sandoryje, kuris sudaromas privatizavus bendrovių akcijas viešo konkurso ar tiesioginių derybų būdu, gali būti nustatomi pirkėjo (pirkėjų) įsipareigojimai išsaugoti darbo vietas, investuoti į valstybės ar savivaldybės valdomą įmonę, kurios akcijos parduodamos, ar į kitas Lietuvos ūkio sritis.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1169, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08642
 
 2. Centralizuotai valdomo valstybės turto valdytojas turi reikalauti įrašyti į privatizavimo sandorį:
 
-1) sąlygą apriboti pirkėjo teises disponuoti įsigytomis valstybės (savivaldybės) kontroliuojamos įmonės akcijomis tol, kol šis pirkėjas įvykdys privatizavimo sandoryje nustatytas sąlygas;
+1) sąlygą apriboti pirkėjo teises disponuoti įsigytomis valstybės ar savivaldybės valdomos įmonės akcijomis tol, kol šis pirkėjas įvykdys privatizavimo sandoryje nustatytas sąlygas;
 
-2) sąlygą, draudžiančią sustabdyti ar nutraukti valstybės (savivaldybės) kontroliuojamos įmonės veiklą;
+2) sąlygą, draudžiančią sustabdyti ar nutraukti valstybės ar savivaldybės valdomos įmonės veiklą;
 
 3) pirkėjo įsipareigojimą įmonėje, kurios akcijos buvo privatizuotos, išsaugoti darbo vietas, jeigu apie tai buvo paskelbta privatizavimo objekto privatizavimo programoje;
 
 4) kitus pirkėjo įsipareigojimus.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1169, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08642
 
 3. Jeigu pagal privatizavimo sandorį pirkėjas pradeda valdyti ir naudoti privatizavimo objektą anksčiau, negu pirkėjas įgyja nuosavybės teisę į jį, privatizavimo sandoriuose turi būti nurodytos sąlygos, užtikrinančios galimybę centralizuotai valdomo valstybės turto valdytojui (savivaldybių privatizavimo fondams) kontroliuoti privatizuoto objekto veiklą.
 
@@ -396,7 +448,7 @@ Ginčai sprendžiami Lietuvos Respublikos įstatymuose, Lietuvos Respublikos tar
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 Pakeitimai:
 
@@ -535,6 +587,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-559, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12062
 
 Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymo Nr. VIII-480 20 straipsnio pakeitimo įstatymas
+
+18.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1169, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08642
+
+Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymo Nr. VIII-480 2, 3, 4, 10, 11, 12, 13, 18 ir 21 straipsnių pakeitimo įstatymas
 
 23 straipsnis. Ginčų sprendimo tvarka
 
