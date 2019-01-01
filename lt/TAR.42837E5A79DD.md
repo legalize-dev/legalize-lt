@@ -4,7 +4,7 @@ identifier: "TAR.42837E5A79DD"
 country: "lt"
 rank: "istatymas"
 publication_date: "2004-04-29"
-last_updated: "2018-10-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-02-28
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
 
@@ -370,11 +370,13 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
 
-3) yra sportininkas profesionalas arba treneris, kaip jie apibrėžiami Lietuvos Respublikos kūno kultūros ir sporto įstatyme, atvykstantys į Lietuvos Respubliką užsiimti sporto veikla;
+3) yra sportininkas, dalyvaujantis aukšto meistriškumo sporte, arba treneris, kaip jie apibrėžiami Lietuvos Respublikos sporto įstatyme, atvykstantys į Lietuvos Respubliką užsiimti sporto veikla;
 
 Straipsnio punkto pakeitimai:
 
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
+
+Nr. XIII-1557, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17473
 
 4) yra atlikėjas, kaip jis apibrėžiamas Lietuvos Respublikos autorių ir gretutinių teisių įstatyme, atvykstantis į Lietuvos Respubliką užsiimti atlikėjo veikla;
 
@@ -5151,6 +5153,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
 
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
+
+12.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1557, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17473
+
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 45 straipsnio pakeitimo įstatymas
 
 341 straipsnis. Leidimo gyventi išdavimas, keitimas skubos tvarka
 
