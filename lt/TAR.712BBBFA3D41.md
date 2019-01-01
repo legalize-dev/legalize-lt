@@ -4,7 +4,7 @@ identifier: "TAR.712BBBFA3D41"
 country: "lt"
 rank: "istatymas"
 publication_date: "1990-07-30"
-last_updated: "2018-07-04"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.712BBBFA3D41"
 department: "LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-07-04 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-01
 
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
 
@@ -202,11 +202,19 @@ Straipsnio punkto pakeitimai:
 
 Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
 
-4) Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka ir terminais teikti ataskaitų rinkinius;
+4) Neteko galios nuo 2019-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-1182, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09073
 
 5) kontroliuoti ir vykdyti savo vadovaujamų biudžetinių įstaigų įsipareigojimus, atlikti pavaldžių biudžetinių įstaigų ir kitų subjektų pagal Viešojo sektoriaus atskaitomybės įstatymą teikiamų ataskaitų rinkinių analizę;
 
-6) užtikrinti pagal Viešojo sektoriaus atskaitomybės įstatymą teikiamų ataskaitų rinkinių ir statistinių ataskaitų teisingumą ir pateikimą laiku;
+6) Neteko galios nuo 2019-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-1182, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09073
 
 7) užtikrinti programų vykdymo ir paskirtų asignavimų naudojimo teisėtumą, ekonomiškumą, efektyvumą ir rezultatyvumą.
 
@@ -218,11 +226,19 @@ Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
 
 3) nustatyti ir tvirtinti pavaldžių biudžetinių įstaigų programų sąmatas pagal ekonominės klasifikacijos straipsnius, neviršydami šioms programoms asignavimų valdytojo skirtų bendrųjų asignavimų, tarp jų – išlaidoms, iš jų – darbo užmokesčiui, ir turtui įsigyti, sumų;
 
-4) Viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka ir terminais teikti ataskaitų rinkinius asignavimų valdytojui;
+4) Neteko galios nuo 2019-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-1182, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09073
 
 5) kontroliuoti ir vykdyti savo vadovaujamos įstaigos įsipareigojimus, atlikti pavaldžių biudžetinių įstaigų pagal Viešojo sektoriaus atskaitomybės įstatymą teikiamų ataskaitų rinkinių analizę;
 
-6) užtikrinti pagal Viešojo sektoriaus atskaitomybės įstatymą teikiamų ataskaitų rinkinių ir statistinių ataskaitų teisingumą ir pateikimą laiku asignavimų valdytojui;
+6) Neteko galios nuo 2019-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-1182, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09073
 
 7) užtikrinti programų vykdymo ir programoms vykdyti skirtų lėšų naudojimo teisėtumą, ekonomiškumą, efektyvumą ir rezultatyvumą.
 
@@ -270,7 +286,11 @@ Biudžeto asignavimų valdytojai ir jiems pavaldžių biudžetinių įstaigų, m
 
 2) atsiskaitymus su darbuotojais, mokesčių administravimo įstaigomis, visų rūšių energijos ir kitų darbų, paslaugų bei prekių tiekėjais, išskyrus atvejus, kai laiku neapmokamos mokėjimo paraiškos, pateiktos Valstybės iždui ir savivaldybių administracijoms asignavimams gauti;
 
-3) buhalterinės apskaitos organizavimą, ataskaitų rinkinių pagal Viešojo sektoriaus atskaitomybės įstatymą ir kitų teisės aktų reikalavimus rengimą ir pateikimą.
+3) Neteko galios nuo 2019-01-01
+
+Straipsnio punkto naikinimas:
+
+Nr. XIII-1182, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09073
 
 Straipsnio pakeitimai:
 
