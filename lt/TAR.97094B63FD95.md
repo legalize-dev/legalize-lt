@@ -4,7 +4,7 @@ identifier: "TAR.97094B63FD95"
 country: "lt"
 rank: "istatymas"
 publication_date: "2003-11-06"
-last_updated: "2017-06-10"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.97094B63FD95"
 department: "Lietuvos Respublikos Seimas"
@@ -16,17 +16,9 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 2017-06-10 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-31
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 112-4990, i. k. 1031010ISTA0IX-1804
-
-TAR pastaba. Nuo šio įstatymo įsigaliojimo dienos iki 2018 m. gruodžio 31 d. komanditinių ūkinių bendrijų komanditoriai ir jų duomenys (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta ar adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė) registruojami Juridinių asmenų registre Lietuvos Respublikos civiliniame kodekse ir Juridinių asmenų registro nuostatuose nustatyta tvarka.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XIII-410, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09794
-
-Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 pakeitimo įstatymas
 
 Nauja redakcija nuo 2017-06-10:
 
@@ -150,15 +142,49 @@ Vilnius
 
 9. Bendrijos veiklos sutartis, taip pat bendrijos veiklos sutarties pakeitimai įsigalioja nuo jų įregistravimo Juridinių asmenų registre, išskyrus su bendrijos steigimo tvarka ir įnašų įnešimu bendrijos steigimo metu susijusias bendrijos veiklos sutarties nuostatas, kurios įsigalioja nuo bendrijos veiklos sutarties sudarymo.
 
-5 straipsnis. Juridinių asmenų registro duomenys
+5 straipsnis. Juridinių asmenų registro ir Juridinių asmenų dalyvių informacinės sistemos duomenys
 
-Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, Juridinių asmenų registre nurodomi šie duomenys:
+1. Be Civilinio kodekso 2.66 straipsnio 1 dalyje išvardytų duomenų, Juridinių asmenų registre nurodomi šie duomenys:
 
-1) likvidatorius (vardas, pavardė, asmens kodas, gyvenamoji vieta), jo paskyrimo ir įgaliojimų pabaigos datos, likvidatoriaus įgaliojimai, išskyrus įstatymuose nustatytus įgaliojimus;
+1) šio įstatymo 4 straipsnio 3 dalies 4 punkte nurodyti duomenys apie bendrijos tikruosius narius, nurodant, kurie iš jų yra paskirti vykdyti valdymo organų pareigas, kaip nustatyta šio įstatymo 10 straipsnio 6 dalyje, ir jų paskyrimo datą;
 
-2) veiklos laikotarpis, jeigu jis yra ribotas.
+TAR pastaba. Tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos, įsteigtos iki 2018 m. gruodžio 31 d., 5 straipsnio 1 dalies 1 punkte nurodytus duomenis apie tai, kurie tikrieji nariai yra paskirti vykdyti valdymo organų pareigas, ir jų paskyrimo datą Juridinių asmenų registro tvarkytojui turi pateikti iki 2019 m. sausio 5 d.
 
-5 straipsnio redakcija nuo 2019-01-01:
+2) likvidatorius (vardas, pavardė, asmens kodas, gyvenamoji vieta), jo paskyrimo ir įgaliojimų pabaigos datos, likvidatoriaus įgaliojimai, išskyrus įstatymuose nustatytus įgaliojimus;
+
+3) veiklos laikotarpis, jeigu jis yra ribotas.
+
+TAR pastaba. Tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos, įsteigtos iki 2018 m. gruodžio 31 d., 5 straipsnio 3 dalyje nurodytus duomenis, jeigu jie nesikeitė nuo 2018 m. gruodžio 31 d. iki 2019 m. birželio 30 d., Juridinių asmenų dalyvių informacinės sistemos tvarkytojui turi pateikti iki 2019 m. rugpjūčio 31 d.
+
+2. Šio įstatymo 4 straipsnio 3 dalies 4 punkte nurodyti duomenys apie bendrijos tikruosius narius, kurie paskirti vykdyti valdymo organų pareigas, kaip nustatyta šio įstatymo 10 straipsnio 6 dalyje, pateikiami tiesiogiai Juridinių asmenų registro tvarkytojui kartu su kitais Civiliniame kodekse ir šiame įstatyme nustatytais bendrijai įregistruoti Juridinių asmenų registre reikalingais duomenimis ir dokumentais. Juridinių asmenų registro tvarkytojui taip pat tiesiogiai pateikiami duomenų apie tai, kurie Juridinių asmenų registre įregistruoti tikrieji nariai yra paskirti vykdyti valdymo organų pareigas, pasikeitimai.
+
+3. Šio įstatymo 4 straipsnio 3 dalies 4 punkte ir 4 dalies 1, 2 ir 3 punktuose nurodyti duomenys apie bendrijos dalyvius, jų įnašų dydžius (kai įnašas piniginis) ir (ar) vertes (kai įnašas nepiniginis), taip pat asmens tapimo bendrijos dalyviu ir narystės pabaigos datos pateikiami Juridinių asmenų dalyvių informacinės sistemos tvarkytojui šios informacinės sistemos nuostatuose nustatyta tvarka ne vėliau kaip per 5 dienas nuo bendrijos įregistravimo Juridinių asmenų registre dienos, o pasikeitus bendrijos dalyviams, šio įstatymo 4 straipsnio 3 dalies 4 punkte ir 4 dalies 1, 2 ir 3 punktuose nurodytiems duomenims – ne vėliau kaip per 5 dienas nuo šių pasikeitimų dienos. Teikiant duomenis apie bendrijos dalyvį – užsienio valstybės fizinį asmenį, papildomai nurodoma to asmens gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir valstybės, kuri išdavė asmens dokumentus, pavadinimas, o teikiant duomenis apie bendrijos dalyvį – užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje tas juridinis asmuo įregistruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data.
+
+4. Teikiant Juridinių asmenų dalyvių informacinės sistemos tvarkytojui šio įstatymo 4 straipsnio 3 dalies 4 punkte nurodytus duomenis apie bendrijos tikruosius narius ir šių duomenų pasikeitimus, kartu Juridinių asmenų dalyvių informacinės sistemos nuostatuose nustatyta tvarka pateikiamas prašymas šiuos duomenis įregistruoti Juridinių asmenų registre, išskyrus atvejį, kai tikrųjų narių duomenys jau yra įregistruoti Juridinių asmenų registre, kaip nustatyta šio straipsnio 2 dalyje. Juridinių asmenų dalyvių informacinės sistemos tvarkytojas šiuos duomenis perduoda Juridinių asmenų registro tvarkytojui per vieną darbo dieną nuo duomenų ir dokumentų pateikimo Juridinių asmenų dalyvių informacinės sistemos tvarkytojui dienos.
+
+5. Už šio straipsnio 3 dalyje nurodytų duomenų pateikimą Juridinių asmenų dalyvių informacinės sistemos tvarkytojui atsako bendrijos tikrieji nariai, paskirti vykdyti valdymo organų pareigas, kaip nustatyta šio įstatymo 10 straipsnio 6 dalyje.
+
+6. Juridinių asmenų dalyvių informacinėje sistemoje sukauptų duomenų apie bendrijos tikruosius narius pagrindu parengta informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, kai ji teikiama:
+
+1) bendrijos tikriesiems nariams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus;
+
+2) susijusiems registrams, valstybės informacinėms sistemoms;
+
+3) valstybės ir savivaldybės institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis.
+
+7. Juridinių asmenų dalyvių informacinėje sistemoje sukauptų duomenų apie komanditinės ūkinės bendrijos komanditorius pagrindu parengtą informaciją turi teisę gauti:
+
+1) komanditinė ūkinė bendrija ir jos dalyviai – tos komanditinės ūkinės bendrijos komanditorių duomenų pagrindu parengtą informaciją;
+
+2) susiję registrai, valstybės informacinės sistemos;
+
+3) valstybės ir savivaldybės institucijos ir įstaigos teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis;
+
+4) kiti fiziniai ir juridiniai asmenys įstatymuose nustatytais atvejais – komanditinės ūkinės bendrijos komanditorių, kurių įnašo į komanditinę ūkinę bendriją dydis ir (ar) vertė sudaro daugiau negu 25 procentus visų dalyvių įnašų į komanditinę ūkinę bendriją dydžio ir (ar) vertės, duomenų pagrindu parengtą informaciją.
+
+8. Juridinių asmenų dalyvių informacinėje sistemoje sukauptų duomenų apie komanditinės ūkinės bendrijos komanditorius pagrindu parengta informacija teikiama už atlyginimą, išskyrus atvejus, kai ji teikiama komanditinės ūkinės bendrijos komanditoriams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus, taip pat šio straipsnio 7 dalies 2 ir 3 punktuose nurodytiems subjektams.
+
+9. Atlyginimo už Juridinių asmenų dalyvių informacinėje sistemoje sukauptų duomenų pagrindu parengtos informacijos teikimą dydis neturi viršyti Juridinių asmenų dalyvių informacinės sistemos administravimo išlaidų kartu su pagrįsta investicijų grąža.
 
 6 straipsnis. Bendrijos dalyviai
 
