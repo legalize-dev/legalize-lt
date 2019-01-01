@@ -4,7 +4,7 @@ identifier: "TAR.0AE0464E0EDE"
 country: "lt"
 rank: "istatymas"
 publication_date: "2006-07-13"
-last_updated: "2018-03-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.0AE0464E0EDE"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ entry_into_force_conditions: "Geriamojo vandens tiekimo ir nuotekų tvarkymo įs
 ---
 # Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3260, i. k. 1061010ISTA000X-764
 
@@ -103,7 +103,11 @@ BENDROSIOS NUOSTATOS
 
 27. Paviršinių nuotekų tvarkymo paslaugų bazinė kaina – trejų metų reguliavimo laikotarpiui abonentams nustatyta paviršinių nuotekų tvarkymo paslaugų kaina, apskaičiuota pagal Valstybinės kainų ir energetikos kontrolės komisijos patvirtintą Paviršinių nuotekų tvarkymo paslaugų kainų nustatymo metodiką, antraisiais ir trečiaisiais jos galiojimo metais taikoma perskaičiuojant paviršinių nuotekų tvarkymo paslaugų kainą.
 
-28. Paviršinių nuotekų tvarkytojas – savivaldybės kontroliuojama įmonė, šio įstatymo nustatyta tvarka įgijusi teisę ir pareigą tvarkyti paviršines nuotekas savivaldybės teritorijoje.
+28. Paviršinių nuotekų tvarkytojas – savivaldybės valdoma įmonė, šio įstatymo nustatyta tvarka įgijusi teisę ir pareigą tvarkyti paviršines nuotekas savivaldybės teritorijoje.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1164, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08638
 
 29. Regioninis viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas (toliau – regioninis viešasis geriamojo vandens tiekėjas) – viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas, teikiantis paslaugas daugiau kaip vienos viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo regione esančios savivaldybės viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo teritorijoje.
 
@@ -113,7 +117,11 @@ BENDROSIOS NUOSTATOS
 
 32. Vartotojas – fizinis asmuo, perkantis geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugas ne verslo, bet asmeninėms, šeimos ar namų ūkio reikmėms ir sudaręs geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo viešąją sutartį arba, jeigu sutartis nesudaryta, teisės aktų nustatyta tvarka prijungęs nuosavybės teise ar bendrosios dalinės nuosavybės teise priklausančias ar kitaip valdomas ir (arba) naudojamas geriamojo vandens tiekimo ir (ar) nuotekų išleidimo komunikacijas, geriamojo vandens naudojimo ir (arba) nuotekų tvarkymo įrenginius prie geriamojo vandens tiekėjui ir (arba) nuotekų tvarkytojui nuosavybės teise priklausančios ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros.
 
-33. Viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas – valstybės ar savivaldybės (savivaldybių) kontroliuojama įmonė.
+33. Viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas – valstybės ar savivaldybės valdoma įmonė.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1164, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08638
 
 34. Viešasis geriamojo vandens tiekimas ir (arba) nuotekų tvarkymas – geriamojo vandens tiekimas ir (arba) nuotekų tvarkymo paslaugų teikimas viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo teritorijoje ir (arba) viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo regione.
 
@@ -121,11 +129,13 @@ BENDROSIOS NUOSTATOS
 
 36. Viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo teritorija (toliau – viešojo geriamojo vandens tiekimo teritorija) – šio įstatymo 12 straipsnyje nustatyta tvarka paskirtas plotas, kuriame savivaldybės institucijos privalo organizuoti ir užtikrinti viešąjį geriamojo vandens tiekimą ir nuotekų tvarkymą.
 
-37. Kitos šio įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme (toliau – Atliekų tvarkymo įstatymas), Lietuvos Respublikos geriamojo vandens įstatyme (toliau – Geriamojo vandens įstatymas), Lietuvos Respublikos paslaugų įstatyme (toliau – Paslaugų įstatymas), Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos statybos įstatyme (toliau – Statybos įstatymas), Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme (toliau – Teritorijų planavimo įstatymas), Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme (toliau – Turto ir verslo vertinimo pagrindų įstatymas), Lietuvos Respublikos vandens įstatyme (toliau – Vandens įstatymas), Lietuvos Respublikos viešųjų pirkimų įstatyme (toliau – Viešųjų pirkimų įstatymas).
+37. Kitos šio įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme (toliau – Atliekų tvarkymo įstatymas), Lietuvos Respublikos geriamojo vandens įstatyme (toliau – Geriamojo vandens įstatymas), Lietuvos Respublikos paslaugų įstatyme (toliau – Paslaugų įstatymas), Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos statybos įstatyme (toliau – Statybos įstatymas), Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme (toliau – Teritorijų planavimo įstatymas), Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme (toliau – Turto ir verslo vertinimo pagrindų įstatymas), Lietuvos Respublikos vandens įstatyme (toliau – Vandens įstatymas), Lietuvos Respublikos viešųjų pirkimų įstatyme (toliau – Viešųjų pirkimų įstatymas), Lietuvos Respublikos vietos savivaldos įstatyme.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XIII-999, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01011
+
+Nr. XIII-1164, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08638
 
 ANTRASIS SKIRSNIS
 
@@ -297,7 +307,11 @@ Savivaldybių:
 
 9) tarybos ar jų įgaliotos institucijos, vadovaudamosi šiuo įstatymu ir kitais teisės aktais, organizuoja geriamojo vandens tiekimą, paviršinių nuotekų tvarkymą, geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimą savivaldybės teritorijoje;
 
-10) administracijų direktoriai vykdo viešajam geriamojo vandens tiekimui skirtos geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros savininko arba savivaldybės (savivaldybių) kontroliuojamų įmonių, kurioms priklauso ši infrastruktūra, dalyvio teises ir pareigas;
+10) administracijų direktoriai vykdo viešajam geriamojo vandens tiekimui skirtos geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros savininko arba savivaldybės valdomų įmonių, kurioms priklauso ši infrastruktūra, dalyvio teises ir pareigas;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1164, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08638
 
 11) administracijų direktoriai ar jų įgalioti asmenys prižiūri viešųjų geriamojo vandens tiekėjų ir nuotekų tvarkytojų, paviršinių nuotekų tvarkytojų veiklos ir plėtros planų vykdymą;
 
@@ -339,7 +353,11 @@ GERIAMOJO VANDENS TIEKIMO IR NUOTEKŲ TVARKYMO PLANAVIMAS IR ORGANIZAVIMAS
 
 1) geriamuoju vandeniu aprūpinama ne mažiau kaip 50 asmenų, deklaravusių gyvenamąją vietą šioje vietovėje;
 
-2) yra savivaldybei arba savivaldybės (savivaldybių) kontroliuojamai įmonei priklausanti naudoti tinkama geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūra;
+2) yra savivaldybei arba savivaldybės valdomai įmonei priklausanti naudoti tinkama geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūra;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1164, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08638
 
 3) gyventojai dėl geriamojo vandens išteklių trūkumo, aplinkosaugos reikalavimų, ekonominių ar kitų priežasčių negali individualiai išgauti saugos ir kokybės reikalavimus atitinkančio geriamojo vandens ir individualiai tvarkyti nuotekų.
 
@@ -353,11 +371,15 @@ Nr. XII-2292, 2016-04-07, paskelbta TAR 2016-04-12, i. k. 2016-08688
 
 2. Savivaldybės viešojo geriamojo vandens tiekimo teritorijoje, nustatytoje pagal šio įstatymo 12 straipsnio nuostatas, viešąjį geriamojo vandens tiekimą ir (arba) nuotekų (išskyrus paviršines nuotekas) tvarkymą vykdo viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas. Savivaldybės viešojo geriamojo vandens tiekimo teritorijoje kitas (ne viešasis) geriamojo vandens tiekėjas ir (arba) nuotekų tvarkytojas gali tiekti geriamąjį vandenį ir (arba) teikti nuotekų tvarkymo paslaugas šio straipsnio 4 dalyje numatytais atvejais. Kai viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui dėl šio įstatymo 29 ir 30 straipsniuose nurodytų priežasčių sustabdomas ar panaikinamas licencijos galiojimas ir šis viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas negali vykdyti viešojo geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, šio įstatymo 14 straipsnyje nustatyta tvarka paskiriamas kitas viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas.
 
-3. Savivaldybės teritorijoje paviršines nuotekas savivaldybės tarybos sprendimu tvarko viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas arba kita savivaldybės kontroliuojama įmonė. Paviršinės nuotekos tvarkomos vadovaujantis Paviršinių nuotekų tvarkymo reglamentu. Paviršinių nuotekų tvarkytojai turi atitikti šiuos reikalavimus:
+3. Savivaldybės teritorijoje paviršines nuotekas savivaldybės tarybos sprendimu tvarko viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas arba kita savivaldybės valdoma įmonė. Paviršinės nuotekos tvarkomos vadovaujantis Paviršinių nuotekų tvarkymo reglamentu. Paviršinių nuotekų tvarkytojai turi atitikti šiuos reikalavimus:
 
 1) teisės aktų nustatyta tvarka turėti leidimą tvarkyti paviršines nuotekas;
 
 2) nuosavybės teise ar kitaip teisėtai valdyti ir (arba) naudoti paviršinių nuotekų tvarkymui reikalingą infrastruktūrą toje savivaldybės teritorijoje, kurioje planuoja teikti paviršinių nuotekų tvarkymo paslaugas.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1164, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08638
 
 4. Savivaldybės viešojo geriamojo vandens tiekimo teritorijoje kitas (ne viešasis) geriamojo vandens tiekėjas ir (arba) nuotekų tvarkytojas gali tiekti geriamąjį vandenį ir (arba) teikti nuotekų tvarkymo paslaugas tik tuo atveju, jeigu tiekė geriamąjį vandenį ir (arba) teikė nuotekų tvarkymo (išskyrus paviršines nuotekas) paslaugas iki viešojo geriamojo vandens tiekimo teritorijos nustatymo, jo tiekiamas geriamasis vanduo ir (arba) teikiamos nuotekų tvarkymo paslaugos atitinka teisės aktų reikalavimus ir jis turi geriamojo vandens tiekimo ir nuotekų tvarkymo licenciją, išduotą pagal šio įstatymo 27 straipsnio reikalavimus.
 
@@ -365,11 +387,15 @@ Nr. XII-2292, 2016-04-07, paskelbta TAR 2016-04-12, i. k. 2016-08688
 
 6. Viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas ar šio straipsnio 2 dalyje nurodytu atveju paskirtas kitas viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas turi tiekti geriamąjį vandenį, teikti nuotekų tvarkymo paslaugas savivaldybės viešojo geriamojo vandens tiekimo teritorijoje, išskyrus jos dalis, kuriose pagal šio straipsnio 10 dalį teikiamos nuotekų tvarkymo paslaugos ar vykdomas teisės aktų reikalavimus atitinkantis individualusis geriamojo vandens išgavimas, naudojimas ir (ar) individualusis nuotekų tvarkymas.
 
-7. Savivaldybės institucija gali inicijuoti savivaldybės kontroliuojamo geriamojo vandens tiekėjo ir nuotekų tvarkytojo sujungimą reorganizavimo būdu su kitos tame pačiame viešojo geriamojo vandens tiekimo regione esančios savivaldybės kontroliuojamu geriamojo vandens tiekėju ir nuotekų tvarkytoju, kai:
+7. Savivaldybės institucija gali inicijuoti savivaldybės valdomo geriamojo vandens tiekėjo ir nuotekų tvarkytojo sujungimą reorganizavimo būdu su kitos tame pačiame viešojo geriamojo vandens tiekimo regione esančios savivaldybės valdomu geriamojo vandens tiekėju ir nuotekų tvarkytoju, kai:
 
 1) geriamojo vandens tiekėjo ir nuotekų tvarkytojo veikla neatitinka Valstybinės kainų ir energetikos kontrolės komisijos patvirtintame Geriamojo vandens tiekėjų ir nuotekų tvarkytojų technologinio, finansinio ir vadybinio pajėgumų vertinimo tvarkos apraše nustatytų kriterijų;
 
 2) vartotojų per kalendorinius metus kiekvieną mėnesį mokama suma už geriamojo vandens tiekėjo ir (arba) nuotekų tvarkytojo suteiktas geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugas viršija 4 procentus vidutinių mėnesio šeimos pajamų. Toks vertinimas atliekamas atsižvelgiant į savivaldybės teritorijoje gyvenančių asmenų vidutines mėnesio šeimos pajamas ir vartotojų per mėnesį mokamų lėšų už geriamojo vandens tiekėjo ir (arba) nuotekų tvarkytojo suteiktas geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugas sumą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1164, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08638
 
 8. Savivaldybių institucijos gali inicijuoti jų geriamojo vandens tiekėjų ir nuotekų tvarkytojų sujungimą, jeigu yra kitų aplinkybių, susijusių su geriamojo vandens tiekimo ir nuotekų tvarkymo efektyvumo didinimu, savivaldybių tarybų sprendimu, vadovaudamosi šio įstatymo 14 straipsnio 1 dalyje nustatyta tvarka.
 
@@ -379,7 +405,11 @@ Nr. XII-2292, 2016-04-07, paskelbta TAR 2016-04-12, i. k. 2016-08688
 
 14 straipsnis. Viešųjų geriamojo vandens tiekėjų ir nuotekų tvarkytojų paskyrimas
 
-1. Savivaldybės taryba savo sprendimu paskiria viešąjį geriamojo vandens tiekėją ir nuotekų tvarkytoją savivaldybės viešojo geriamojo vandens tiekimo teritorijoje ir jam paveda vykdyti viešąjį geriamojo vandens tiekimą ir nuotekų tvarkymą arba su kita (kitomis) viename viešojo geriamojo vandens tiekimo regione esančios (esančių) savivaldybės (savivaldybių) taryba (tarybomis) savivaldybės kontroliuojamas geriamojo vandens tiekimo ir nuotekų tvarkymo įmones sujungia reorganizavimo būdu į regioninį viešąjį geriamojo vandens tiekėją ir jam paveda šių savivaldybių viešojo geriamojo vandens tiekimo teritorijose vykdyti viešąjį geriamojo vandens tiekimą ir (arba) nuotekų tvarkymą. Reorganizavimo būdu įsteigtas regioninis viešasis geriamojo vandens tiekėjas gali būti paskirtas regioniniu viešuoju geriamojo vandens tiekėju.
+1. Savivaldybės taryba savo sprendimu paskiria viešąjį geriamojo vandens tiekėją ir nuotekų tvarkytoją savivaldybės viešojo geriamojo vandens tiekimo teritorijoje ir jam paveda vykdyti viešąjį geriamojo vandens tiekimą ir nuotekų tvarkymą arba su kita (kitomis) viename viešojo geriamojo vandens tiekimo regione esančios (esančių) savivaldybės (savivaldybių) taryba (tarybomis) savivaldybės valdomas geriamojo vandens tiekimo ir nuotekų tvarkymo įmones sujungia reorganizavimo būdu į regioninį viešąjį geriamojo vandens tiekėją ir jam paveda šių savivaldybių viešojo geriamojo vandens tiekimo teritorijose vykdyti viešąjį geriamojo vandens tiekimą ir (arba) nuotekų tvarkymą. Reorganizavimo būdu įsteigtas regioninis viešasis geriamojo vandens tiekėjas gali būti paskirtas regioniniu viešuoju geriamojo vandens tiekėju.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1164, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08638
 
 2. Savivaldybės taryba, priimdama sprendimą paskirti viešąjį geriamojo vandens tiekėją ir nuotekų tvarkytoją, turi atsižvelgti į tai, ar geriamojo vandens tiekėjas ir nuotekų tvarkytojas turi geriamojo vandens tiekimo ir nuotekų tvarkymo licenciją.
 
@@ -1074,4 +1104,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-999, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01011
 
 Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 3 straipsnio pakeitimo įstatymas
+
+8.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1164, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08638
+
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 3, 10, 12, 13 ir 14 straipsnių pakeitimo įstatymas
 
