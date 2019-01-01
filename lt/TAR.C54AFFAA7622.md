@@ -4,7 +4,7 @@ identifier: "TAR.C54AFFAA7622"
 country: "lt"
 rank: "istatymas"
 publication_date: "1996-08-13"
-last_updated: "2018-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 department: "Lietuvos Respublikos Seimas"
@@ -16,9 +16,17 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-10
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
+
+TAR pastaba. Iki įstatymo Nr. XIII-1330 įsigaliojimo (2019-01-01) pradėtos viešųjų pirkimų procedūros tęsiamos, sudarytų preliminariųjų sutarčių pagrindu atnaujintas tiekėjų varžymasis vyksta, pagal sukurtą dinaminę pirkimo sistemą pirkimai atliekami pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
+
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 46, 92 ir 95 straipsnių pakeitimo įstatymas
 
 Nauja redakcija nuo 2017-07-01:
 
@@ -1158,7 +1166,13 @@ TIEKĖJO IR JO PATEIKTOS PARAIŠKOS IR PASIŪLYMO VERTINIMAS
 
 6) tiekėjas yra neįvykdęs pirkimo sutarties, pirkimo sutarties su perkančiuoju subjektu ar koncesijos sutarties ar netinkamai ją įvykdęs ir tai buvo esminis pirkimo sutarties pažeidimas, kaip nustatyta Civiliniame kodekse (toliau – esminis pirkimo sutarties pažeidimas), dėl kurio per pastaruosius 3 metus buvo nutraukta pirkimo sutartis arba per pastaruosius 3 metus buvo priimtas ir įsiteisėjęs teismo sprendimas, kuriuo tenkinamas perkančiosios organizacijos, perkančiojo subjekto ar suteikiančiosios institucijos reikalavimas atlyginti nuostolius, patirtus dėl to, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais. Šiuo pagrindu tiekėjas taip pat pašalinamas iš pirkimo procedūros, kai, vadovaujantis kitų valstybių teisės aktais, per pastaruosius 3 metus nustatyta, kad jis, vykdydamas ankstesnę pirkimo sutartį, ankstesnę pirkimo sutartį su perkančiuoju subjektu arba ankstesnę koncesijos sutartį, pirkimo sutartyje nustatytą esminį reikalavimą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to ta ankstesnė pirkimo sutartis buvo nutraukta anksčiau, negu toje pirkimo sutartyje nustatytas jos galiojimo terminas, buvo pareikalauta atlyginti žalą ar taikomos kitos panašios sankcijos. Perkančioji organizacija iš pirkimo procedūros pašalina tiekėją ir tuo atveju, kai ji turi įtikinamų duomenų, kad tiekėjas yra įsteigtas, siekiant išvengti šio pašalinimo pagrindo taikymo;
 
-7) tiekėjas yra padaręs profesinį pažeidimą, kai už finansinės atskaitomybės ir audito teisės aktų pažeidimus tiekėjui ar jo vadovui paskirta administracinė nuobauda ar ekonominė sankcija, nustatytos Lietuvos Respublikos įstatymuose ar kitų valstybių teisės aktuose, ir nuo sprendimo, kuriuo buvo paskirta ši sankcija, įsiteisėjimo dienos arba nuo dienos, kai asmuo įvykdė administracinį nurodymą, praėjo mažiau kaip vieni metai.
+7) tiekėjas yra padaręs profesinį pažeidimą, kai už finansinės atskaitomybės ir audito teisės aktų pažeidimus tiekėjui ar jo vadovui paskirta administracinė nuobauda ar ekonominė sankcija, nustatytos Lietuvos Respublikos įstatymuose ar kitų valstybių teisės aktuose, ir nuo sprendimo, kuriuo buvo paskirta ši sankcija, įsiteisėjimo dienos arba nuo dienos, kai asmuo įvykdė administracinį nurodymą, praėjo mažiau kaip vieni metai;
+
+8) tiekėjas neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, nustatytų Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje ir dėl to laikomas padariusiu šiurkštų profesinį pažeidimą.
+
+Papildyta straipsnio punktu:
+
+Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
 
 5. Perkančioji organizacija šio straipsnio 1 dalyje, 3 dalies 1 ir 2 punktuose, 4 dalyje nustatytais pagrindais gali nepašalinti tiekėjo iš pirkimo procedūros tik išimtiniais atvejais, kai būtina užtikrinti viešojo intereso apsaugą, įskaitant visuomenės sveikatos ir aplinkos apsaugą.
 
@@ -1178,7 +1192,11 @@ c) draudimo sudaryti draudžiamus susitarimus, įtvirtinto Lietuvos Respublikos 
 
 d) tiekėjas, kuris yra fizinis asmuo, arba tiekėjo, kuris yra juridinis asmuo, kita organizacija ar jos padalinys, vadovas, kitas valdymo ar priežiūros organo narys ar kitas asmuo, turintis (turintys) teisę atstovauti tiekėjui ar jį kontroliuoti, jo vardu priimti sprendimą, sudaryti sandorį, arba dalyvis, turintis balsų daugumą juridinio asmens dalyvių susirinkime, yra pripažintas kaltu dėl tyčinio bankroto, kaip jis apibrėžtas Lietuvos Respublikos įmonių bankroto įstatyme ar panašaus pobūdžio kitų valstybių teisės aktuose, kai nuo teismo sprendimo įsiteisėjimo dienos praėjo mažiau kaip 3 metai;
 
-4) yra baustas už leidimą dirbti nelegaliai trečiųjų šalių piliečiams, kai už tai tiekėjui paskirta administracinė nuobauda ar ekonominė sankcija, nustatytos Lietuvos Respublikos įstatymuose ar kitų valstybių teisės aktuose, ir nuo sprendimo, kuriuo buvo paskirta ši sankcija, įsiteisėjimo dienos praėjo mažiau kaip vieni metai.
+4) neteko galios 2019-01-01.
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
 
 7. Perkančioji organizacija tiekėją pašalina iš pirkimo procedūros bet kuriame pirkimo procedūros etape, jeigu paaiškėja, kad dėl savo veiksmų ar neveikimo prieš pirkimo procedūrą ar jos metu jis atitinka bent vieną iš pirkimo dokumentuose nustatytų tiekėjo pašalinimo pagrindų.
 
@@ -2404,6 +2422,12 @@ TAR pastaba. 9 dalis įsigalioja 2020-07-01.
 
 10. Duomenis apie pirkimo sutarčių ir vidaus sandorių vykdymą iš informacinės sistemos „E. sąskaita“ į Centrinę viešųjų pirkimų informacinę sistemą teikia valstybės įmonė Registrų centras. Informaciją, kuri turi būti teikiama pagal šį reikalavimą, nustato Viešųjų pirkimų tarnyba.
 
+11. Informaciją apie subjektus, neatitinkančius minimalių patikimo mokesčių mokėtojo kriterijų, kaip tai numatyta šio įstatymo 46 straipsnio 4 dalies 8 punkte, Viešųjų pirkimų tarnybai teikia Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
+
 93 straipsnis. Viešųjų pirkimų tarnyba
 
 1. Viešųjų pirkimų tarnyba – valstybės biudžetinė įstaiga, veikianti pagal šį ir kitus Lietuvos Respublikos įstatymus, tarptautinius įsipareigojimus, savo nuostatus ir finansuojama iš valstybės biudžeto.
@@ -2476,7 +2500,11 @@ TAR pastaba. 9 dalis įsigalioja 2020-07-01.
 
 10) administruoja Centrinę viešųjų pirkimų informacinę sistemą;
 
-11) administruoja perkančiųjų organizacijų pagal šio įstatymo 91 straipsnio 1 dalį paskelbtą informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus ir pagal šio įstatymo 52 straipsnio 2 dalį paskelbtą informaciją apie tiekėjus, kurie pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šio įstatymo 46 ir 47 straipsniuose nustatytiems reikalavimams, arba apie tiekėjus, kurie dėl pateiktos melagingos informacijos nepateikė patvirtinančių dokumentų, reikalaujamų pagal šio įstatymo 50 straipsnį;
+11) administruoja perkančiųjų organizacijų pagal šio įstatymo 91 straipsnio 1 dalį paskelbtą informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus ir pagal šio įstatymo 52 straipsnio 2 dalį paskelbtą informaciją apie tiekėjus, kurie pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šio įstatymo 46 ir 47 straipsniuose nustatytiems reikalavimams, arba apie tiekėjus, kurie dėl pateiktos melagingos informacijos nepateikė patvirtinančių dokumentų, reikalaujamų pagal šio įstatymo 50 straipsnį, taip pat savo interneto svetainėje skelbia Valstybinės mokesčių inspekcijos pateiktą informaciją apie subjektus, neatitinkančius minimalių patikimo mokesčių mokėtojo kriterijų, kaip tai numatyta šio įstatymo 46 straipsnio 4 dalies 8 punkte;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
 
 12) kiekvienais metais rengia ir Lietuvos Respublikos Vyriausybei teikia šio įstatymo 23 straipsnio 2 dalyje nurodytų pirkimų ataskaitą;
 
