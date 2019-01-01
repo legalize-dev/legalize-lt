@@ -4,7 +4,7 @@ identifier: "TAR.FC7AB69BE291"
 country: "lt"
 rank: "istatymas"
 publication_date: "2011-05-12"
-last_updated: "2018-05-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 department: "Lietuvos Respublikos Seimas"
@@ -17,7 +17,7 @@ eu_legal_act: "true"
 ---
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2018-05-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
 
@@ -1119,7 +1119,7 @@ Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
 
 22 straipsnis. Atsinaujinančių energijos išteklių naudojimas elektros energijos gamybai Lietuvos Respublikos teritorinėje jūroje ir (ar) Lietuvos Respublikos išskirtinėje ekonominėje zonoje Baltijos jūroje
 
-1. Vyriausybės įgaliota institucija, atsižvelgdama į šio įstatymo 5 straipsnio 2 dalies 17 punkte nurodytą tvarkos aprašą, atlieka Lietuvos Respublikos teritorinės jūros, Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje tyrimus ir kitus veiksmus, kurie reikalingi Vyriausybės nutarimui dėl Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalių, kuriose tikslinga organizuoti konkursą (konkursus) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai, ir šių elektrinių įrengtųjų galių nustatymo priimti:
+1. Viešoji įstaiga Lietuvos energetikos agentūra, atsižvelgdama į šio įstatymo 5 straipsnio 2 dalies 17 punkte nurodytą tvarkos aprašą, atlieka Lietuvos Respublikos teritorinės jūros, Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje tyrimus ir kitus veiksmus, kurie reikalingi Vyriausybės nutarimui dėl Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalių, kuriose tikslinga organizuoti konkursą (konkursus) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai, ir dėl šių elektrinių įrengtųjų galių nustatymo priimti:
 
 1) parengia specialųjį planą;
 
@@ -1135,11 +1135,25 @@ Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
 
 7) atlieka kitus veiksmus, būtinus elektros energijos gamybos iš atsinaujinančių energijos išteklių leistinumui ir galimybėms įvertinti.
 
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1451, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11763
+
+11. Viešoji įstaiga Lietuvos energetikos agentūra, atlikusi šio straipsnio 1 dalyje nurodytus tyrimus ir kitus veiksmus, pateikia šių tyrimų ir kitų veiksmų duomenis Vyriausybės įgaliotai institucijai.
+
+Papildyta straipsnio dalimi:
+
+Nr. XIII-1451, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11763
+
 2. Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalis (dalys) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai naudojama (naudojamos) tik turint Vyriausybės įgaliotos institucijos išduotą leidimą. Šis leidimas išduodamas 35 metams be pratęsimo galimybės.
 
 3. Leidimai naudoti Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalį (dalis) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai (toliau – leidimas plėtrai ir eksploatacijai) išduodami konkurso būdu.
 
-4. Vyriausybės nutarimas dėl Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalių, kuriose tikslinga organizuoti konkursą (konkursus) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai ir šių elektrinių įrengtųjų galių nustatymo, rengiamas atsižvelgiant į šio įstatymo 13 straipsnio 2 dalies nuostatas bei Nacionalinėje energetikos strategijoje įtvirtintus atsinaujinančių energijos išteklių plėtros tikslus. Išankstinės prijungimo sąlygos išduodamos, konkursas (konkursai) organizuojamas (organizuojami) ir leidimas (leidimai) plėtrai ir eksploatacijai šioje dalyje numatytais atvejais išduodami ne anksčiau, negu yra priimtas Vyriausybės nutarimas dėl Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalių, kuriose tikslinga organizuoti konkursą (konkursus) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai, ir šių elektrinių įrengtųjų galių nustatymo. Konkursą gali inicijuoti bet kuris asmuo, atitinkantis šio straipsnio 11 dalies 2 ir 3 punktuose nustatytus reikalavimus, pateikdamas paraišką Vyriausybės įgaliotai institucijai. Konkursą privalo organizuoti Vyriausybės įgaliota institucija per 6 mėnesius nuo paraiškos organizuoti konkursą gavimo dienos šio įstatymo 5 straipsnio 1 dalies 9 punkte numatytame Vyriausybės nutarime nustatytoms dalims ir įrengtosioms galioms.
+4. Vyriausybės nutarimas dėl Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalių, kuriose tikslinga organizuoti konkursą (konkursus) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai, ir dėl šių elektrinių įrengtųjų galių nustatymo rengiamas atsižvelgiant į viešosios įstaigos Lietuvos energetikos agentūros įgyvendinant šio įstatymo 22 straipsnio 11 dalį Vyriausybės įgaliotai institucijai pateiktus duomenis, šio įstatymo 13 straipsnio 2 dalies nuostatas bei Nacionalinėje energetikos strategijoje įtvirtintus atsinaujinančių energijos išteklių plėtros tikslus. Išankstinės prijungimo sąlygos išduodamos, konkursas (konkursai) organizuojamas (organizuojami) ir leidimas (leidimai) plėtrai ir eksploatacijai šioje dalyje numatytais atvejais išduodamas (išduodami) ne anksčiau, negu yra priimtas Vyriausybės nutarimas dėl Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalių, kuriose tikslinga organizuoti konkursą (konkursus) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai, ir dėl šių elektrinių įrengtųjų galių nustatymo. Konkursą gali inicijuoti bet kuris asmuo, atitinkantis šio straipsnio 11 dalies 2 ir 3 punktuose nustatytus reikalavimus, pateikdamas paraišką Vyriausybės įgaliotai institucijai. Konkursą privalo organizuoti Vyriausybės įgaliota institucija per 6 mėnesius nuo paraiškos organizuoti konkursą gavimo dienos šio įstatymo 5 straipsnio 1 dalies 9 punkte numatytame Vyriausybės nutarime nustatytoms dalims ir įrengtosioms galioms nustatyti.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1451, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11763
 
 5. Konkurso laimėtojas nustatomas Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka, vadovaujantis objektyviais, skaidriais ir nediskriminaciniais principais.
 
@@ -1157,7 +1171,11 @@ Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
 
 9. Pagal šio straipsnio 7 dalyje numatytą prievolių įvykdymo užtikrinimą elektros tinklų operatoriaus gautos lėšos gali būti naudojamos tik elektros tinklų plėtrai, reikalingai atsinaujinančių išteklių energijos gamybos įrenginiams prijungti.
 
-10. Pasiekus šio įstatymo 5 straipsnio 1 dalies 9 punkte nurodytame Vyriausybės nutarime nustatytas elektrinių įrengtąsias galias ir (ar) atsiradus papildomų elektros energijos gamybos pajėgumų plėtros poreikiui, Vyriausybės įgaliota institucija įvertina jų įrengimo tikslingumą ir prireikus peržiūri ar atnaujina šio straipsnio 1 dalyje numatytų tyrimų ir kitų veiksmų rezultatus ir pateikia pasiūlymus dėl 5 straipsnio 1 dalies 9 punkte nurodyto Vyriausybės nutarimo pakeitimo.
+10. Pasiekus šio įstatymo 5 straipsnio 1 dalies 9 punkte nurodytame Vyriausybės nutarime nustatytas elektrinių įrengtąsias galias ir (ar) atsiradus papildomų elektros energijos gamybos pajėgumų plėtros poreikiui, Vyriausybės įgaliota institucija įvertina jų įrengimo tikslingumą. Vyriausybės įgaliota institucija, nustačiusi, kad yra papildomų elektros energijos gamybos pajėgumų plėtros poreikis, apie tai informuoja viešąją įstaigą Lietuvos energetikos agentūrą, kuri prireikus peržiūri ar atnaujina šio straipsnio 1 dalyje numatytų tyrimų ir kitų veiksmų rezultatus ir pateikia pasiūlymus Vyriausybės įgaliotai institucijai dėl šio įstatymo 5 straipsnio 1 dalies 9 punkte nurodyto Vyriausybės nutarimo pakeitimo.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1451, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11763
 
 11. Leidimai plėtrai ir eksploatacijai šio įstatymo nustatyta tvarka ir sąlygomis išduodami fiziniams asmenims, turintiems teisę gyventi Lietuvos Respublikoje, arba Lietuvos Respublikoje įsteigtiems juridiniams asmenims, kitų valstybių narių juridinių asmenų ar kitų organizacijų padaliniams, įsteigtiems Lietuvos Respublikoje:
 
@@ -1703,13 +1721,21 @@ Informavimas, ŠVIETIMAS, MOKSLINIAI TYRIMAI IR MOKYMAI
 
 2. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės pagal kompetenciją rengia, teikia ir viešai skelbia informaciją apie paramos schemas, taikomas atsinaujinančių energijos išteklių naudojimui ir gamybai.
 
-3. Aplinkos ministerija, Energetikos ministerija, Susisiekimo ministerija, Švietimo ir mokslo ministerija, Žemės ūkio ministerija, valstybės įmonė Energetikos agentūra ir savivaldybių institucijos, koordinuodamos veiksmus, pagal kompetenciją rengia ir įgyvendina tinkamas visuomenės informavimo ir sąmoningumo ugdymo priemones, teikia konsultacijas ir rengia švietimo programas apie atsinaujinančių energijos išteklių plėtros ir naudojimo praktines galimybes ir naudą, tarp jų ir apie skirtingų transporto sektoriuje naudojamų atsinaujinančių energijos išteklių prieinamumą ir naudą aplinkai.
+3. Aplinkos ministerija, Energetikos ministerija, Susisiekimo ministerija, Švietimo ir mokslo ministerija, Žemės ūkio ministerija, viešoji įstaiga Lietuvos energetikos agentūra ir savivaldybių institucijos, koordinuodamos veiksmus, pagal kompetenciją rengia ir įgyvendina tinkamas visuomenės informavimo ir sąmoningumo ugdymo priemones, teikia konsultacijas ir rengia švietimo programas apie atsinaujinančių energijos išteklių plėtros ir naudojimo praktines galimybes ir naudą, tarp jų ir apie skirtingų transporto sektoriuje naudojamų atsinaujinančių energijos išteklių prieinamumą ir naudą aplinkai.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1451, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11763
 
 4. Energetikos ministerija organizuoja keitimąsi patirtimi atsinaujinančių energijos išteklių naudojimo srityje tarp valstybės ir savivaldybių institucijų, įstaigų, įmonių, organizacijų, privačių subjektų ir viešai skelbia gerosios praktikos pavyzdžius.
 
 5. Lietuvos kariuomenė Vyriausybės nustatyta tvarka teikia informaciją apie teritorijas, kuriose, atsižvelgiant į nacionalinio saugumo reikalavimus, taikomi apribojimai vėjo elektrinėms projektuoti ir statyti.
 
-6. Valstybės įmonė Energetikos agentūra rengia, teikia ir viešai skelbia informaciją apie sistemas ir įrenginius, naudojančius atsinaujinančius energijos išteklius, jų teikiamą naudą, sąnaudas ir šių išteklių vartojimo efektyvumą.
+6. Viešoji įstaiga Lietuvos energetikos agentūra rengia, teikia ir viešai skelbia informaciją apie sistemas ir įrenginius, naudojančius atsinaujinančius energijos išteklius, jų teikiamą naudą, sąnaudas ir šių išteklių vartojimo efektyvumą.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1451, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11763
 
 7. Valstybės institucijos ir įstaigos joms pavestoms funkcijoms atlikti turi teisę gauti iš savivaldybių, įstaigų ir įmonių reikiamą informaciją apie atsinaujinančių išteklių energijos gamybos įrenginių statybai planuojamas skirti teritorijas ir atsinaujinančių energijos išteklių naudojimą. Įmonės teikia informaciją apie atsinaujinančių energijos išteklių naudojimą valstybės, savivaldybių institucijoms ir įstaigoms joms pavestoms funkcijoms atlikti. Informacija teikiama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
