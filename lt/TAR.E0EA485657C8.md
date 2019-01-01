@@ -4,7 +4,7 @@ identifier: "TAR.E0EA485657C8"
 country: "lt"
 rank: "istatymas"
 publication_date: "1997-07-02"
-last_updated: "2017-07-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 department: "Lietuvos Respublikos Seimas"
@@ -16,7 +16,7 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-06-30
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
 
@@ -194,7 +194,11 @@ Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010IST
 
 5) šio įstatymo nustatytais atvejais ir tvarka teikia pagalbą kariuomenei, policijai, Valstybės sienos apsaugos tarnybai prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), civilinės saugos ir gelbėjimo sistemos pajėgoms ir švietimo įstaigoms;
 
-6) bendradarbiauja su valstybės ir savivaldybių institucijomis bei įstaigomis, sporto organizacijomis ir klubais, kultūros centrais, asociacijomis ir viešosiomis įstaigomis;
+6) bendradarbiauja su valstybės ir savivaldybių institucijomis bei įstaigomis, sporto organizacijomis ir sporto klubais, kultūros centrais, asociacijomis ir viešosiomis įstaigomis;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1550, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17459
 
 7) saugo LŠS priklausančius ar jos naudojamus objektus ir teritorijas, taip pat krašto apsaugos ministro įsakymais ar sutarčių pagrindu LŠS priskirtus objektus ir teritorijas.
 
@@ -232,7 +236,11 @@ LŠS veikla organizuojama ir vykdoma remiantis LŠS veiklos strategija ir jos pa
 
 10) skleisti informaciją apie savo veiklą, krašto apsaugą ir karo tarnybą;
 
-11) organizuoti ir rengti LŠS tikslus ir uždavinius atitinkančius susirinkimus, sporto varžybas ir renginius, kultūros renginius;
+11) organizuoti ir rengti LŠS tikslus ir uždavinius atitinkančius susirinkimus, sporto ir kultūros renginius;
+
+Straipsnio punkto pakeitimai:
+
+Nr. XIII-1550, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17459
 
 12) įsigyti, turėti ir naudoti šaunamuosius ginklus ir šaudmenis bei specialiąsias priemones, taip pat gauti iš kariuomenės ir kitų valstybės institucijų bei įstaigų šaunamuosius ginklus ir šaudmenis, specialiąsias ir technines priemones. LŠS šaunamieji ginklai ir šaudmenys registruojami, saugomi, išduodami šauliams ir jų apskaita tvarkoma teisės aktų nustatyta tvarka;
 
@@ -790,41 +798,51 @@ Nr. XII-2525, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20283
 
 34 straipsnis. Kompensacijos ir vienkartinės pašalpos šaulio žūties ar sveikatos sutrikdymo atvejais
 
-1. Jeigu šaulys žuvo atlikdamas šaulio tarnybą, susijusią su padidėjusiu pavojumi ar padidėjusia rizika jo gyvybei ar sveikatai, taip pat tais atvejais, kai šaulys buvo nužudytas dėl šaulio tarnybos atlikimo ar šaulio statuso, neatsižvelgiant į draudimo išmokas jo šeimai, šio straipsnio 2 dalyje nurodytiems asmenims išmokama 120 Vyriausybės nustatytų minimaliųjų mėnesinių algų, bet ne mažesnė negu po 50 Vyriausybės nustatytų minimaliųjų mėnesinių algų kiekvienam šaulio išlaikytiniui ir ne didesnė negu 101 370 eurų dydžio kompensacija. Kitais atvejais šauliui žuvus dėl priežasčių, susijusių su šaulio tarnyba, šio straipsnio 2 dalyje nurodytiems asmenims išmokama 60 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio kompensacija.
+1. Jeigu šaulys žuvo atlikdamas šaulio tarnybą, susijusią su padidėjusiu pavojumi ar padidėjusia rizika jo gyvybei ar sveikatai, taip pat tais atvejais, kai šaulys buvo nužudytas dėl šaulio tarnybos atlikimo ar šaulio statuso, neatsižvelgiant į draudimo išmokas jo šeimai, šio straipsnio 2 dalyje nurodytiems asmenims išmokama 93,1 Vyriausybės nustatytų minimaliųjų mėnesinių algų, bet ne mažesnė negu po 38,79 Vyriausybės nustatytų minimaliųjų mėnesinių algų, kiekvienam šaulio išlaikytiniui ir ne didesnė negu 101 370 eurų dydžio kompensacija. Kitais atvejais šauliui žuvus dėl priežasčių, susijusių su šaulio tarnyba, šio straipsnio 2 dalyje nurodytiems asmenims išmokama 46,55 Vyriausybės nustatytų minimaliųjų mėnesinių algų, dydžio kompensacija.
 
 Straipsnio dalies pakeitimai:
 
 Nr. XII-1169, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13581
 
+Nr. XIII-1809, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21822
+
 2. Šio straipsnio 1 dalyje nustatyta kompensacija lygiomis dalimis išmokama žuvusiojo sutuoktiniui (sugyventiniui), tėvui, motinai ir kiekvienam iš žuvusio šaulio išlaikytinių. Išlaikytiniai yra nedarbingi asmenys, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti iš jo išlaikymą, taip pat žuvusiojo vaikai, gimę po jo mirties, nepilnamečiai vaikai (įvaikiai), kol jiems sukaks 18 metų, o vaikai, kurie mokosi pagal dienines ir nuolatines mokymo formas, – kol jiems sukaks 24 metai.
 
 3. Šauliui, kuris buvo sužalotas, susižalojo ar jo sveikata buvo kitaip sutrikdyta atliekant šaulio tarnybą, susijusią su padidėjusiu pavojumi ar padidėjusia rizika šaulio gyvybei ar sveikatai, taip pat šauliui, kuris buvo sužalotas ar jo sveikata kitaip sutrikdyta dėl šaulio tarnybos atlikimo ar šaulio statuso, atsižvelgiant į netekto darbingumo ir sveikatos sutrikdymo laipsnį, išmokama ši kompensacija:
 
-1) netekusiam 75–100 procentų darbingumo šauliui – 60 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+1) netekusiam 75–100 procentų darbingumo šauliui – 46,55 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
 
-2) netekusiam 60–70 procentų darbingumo šauliui – 48 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+2) netekusiam 60–70 procentų darbingumo šauliui – 37,24 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
 
-3) netekusiam 45–55 procentų darbingumo šauliui – 36 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+3) netekusiam 45–55 procentų darbingumo šauliui – 27,93 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
 
-4) sunkaus sveikatos sutrikdymo atveju – 24 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+4) sunkaus sveikatos sutrikdymo atveju – 18,62 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
 
-5) apysunkio sveikatos sutrikdymo atveju – 18 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+5) apysunkio sveikatos sutrikdymo atveju – 13,97 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
 
-6) lengvo sveikatos sutrikdymo atveju – 12 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio.
+6) lengvo sveikatos sutrikdymo atveju – 9,31 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1809, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21822
 
 4. Šauliui, kuris buvo sužalotas, susižalojo ar jo sveikata buvo kitaip sutrikdyta atliekant šaulio tarnybą kitais, negu nurodyta šio straipsnio 3 dalyje, atvejais, atsižvelgiant į netekto darbingumo ir sveikatos sutrikdymo laipsnį, išmokama ši kompensacija:
 
-1) netekusiam 75–100 procentų darbingumo šauliui – 30 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+1) netekusiam 75–100 procentų darbingumo šauliui – 23,28 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
 
-2) netekusiam 60–70 procentų darbingumo šauliui – 24 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+2) netekusiam 60–70 procentų darbingumo šauliui – 18,62 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
 
-3) netekusiam 45–55 procentų darbingumo šauliui – 18 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+3) netekusiam 45–55 procentų darbingumo šauliui – 13,97 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
 
-4) sunkaus sveikatos sutrikdymo atveju – 12 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+4) sunkaus sveikatos sutrikdymo atveju – 9,31 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
 
-5) apysunkio sveikatos sutrikdymo atveju – 9 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+5) apysunkio sveikatos sutrikdymo atveju – 6,99 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
 
-6) lengvo sveikatos sutrikdymo atveju – 6 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio.
+6) lengvo sveikatos sutrikdymo atveju – 4,66 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1809, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21822
 
 5. Šio straipsnio 1, 3 ir 4 dalyse nurodytos kompensacijos nemokamos šiais atvejais:
 
@@ -1113,6 +1131,22 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-438, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10254
 
 Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 papildymo 36-1 straipsniu įstatymas
+
+13.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1550, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17459
+
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 9 ir 11 straipsnių pakeitimo įstatymas
+
+14.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1809, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21822
+
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 34 straipsnio pakeitimo įstatymas
 
 361 straipsnis. Šaulių teisė susipažinti su įslaptinta informacija ir ją naudoti
 
