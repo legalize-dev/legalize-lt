@@ -4,7 +4,7 @@ identifier: "TAR.791BF9249C9C"
 country: "lt"
 rank: "istatymas"
 publication_date: "1995-12-20"
-last_updated: "2017-01-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 department: "Lietuvos Respublikos Seimas"
@@ -16,17 +16,17 @@ document_status: "registruotas TA registre"
 ---
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-27
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
 
-Nauja redakcija nuo 2008-04-24:
+Nauja redakcija nuo 2019-01-01:
 
-Nr. X-1501, 2008-04-17, Žin. 2008, Nr. 47-1752 (2008-04-24), i. k. 1081010ISTA00X-1501
+Nr. XIII-1540, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17451
 
 LIETUVOS RESPUBLIKOS
 
-KŪNO KULTŪROS IR SPORTO
+SPORTO
 
 ĮSTATYMAS
 
@@ -36,213 +36,97 @@ Vilnius
 
 I SKYRIUS
 
-BENDROSIOS NUOSTATOS
+Bendrosios nuostatos
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis ir taikymas
 
-Šis įstatymas nustato kūno kultūros ir sporto principus, reglamentuoja valstybės ir savivaldybių institucijų kompetenciją kūno kultūros ir sporto srityje, reglamentuoja kūno kultūros ir sporto organizavimą bei pratybas švietimo ir mokslo įstaigose, nevyriausybinių kūno kultūros ir sporto organizacijų kompetenciją plėtojant kūno kultūrą ir sportą, rengiant sportininkus, plėtojant varžybų sistemą, reglamentuoja kūno kultūros ir sporto specialistų veiklą, profesionalaus sporto plėtros pagrindus, sporto varžybų ir renginių organizavimo principus, nustato sporto statinių reikalavimus.
+1. Šis įstatymas nustato sporto principus, sporto sistemą ir jos valdymą, reglamentuoja valstybės ir savivaldybių institucijų ir įstaigų kompetenciją sporto srityje, reikalavimus fizinio aktyvumo ar aukšto meistriškumo sporto specialistams ir fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriams, sporto organizavimą, asmenų sveikatos tikrinimą, sporto renginių saugumo reikalavimus, sporto finansavimą, antidopingo ir kovos su manipuliavimu aukšto meistriškumo sporto varžybomis politikos įgyvendinimą, valstybės skatinimą už pasiektus aukšto meistriškumo sporto laimėjimus.
+
+2. Šis įstatymas netaikomas karių sporto veiklai, susijusiai su profesinei veiklai reikalingų fizinių ypatybių ugdymu.
+
+3. Šis įstatymas statutinių valstybės tarnautojų profesinei veiklai ir šaulio tarnybai reikalingų fizinių ir psichinių ypatybių ugdymui, jų tobulinimui fiziniais pratimais (specialiajam fiziniam rengimui) taikomas tiek, kiek to nereglamentuoja kiti įstatymai.
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Didelis sportinis meistriškumas – sportininko ugdymo sudarant specialias sąlygas rezultatas – gebėjimas pakelti tokius pratybų ir varžybų krūvius, kurie leistų įgyti fizinį, techninį, taktinį ir psichologinį parengtumą, reikalingą siekiant pačių geriausių sporto rezultatų.
+1. Antidopingo taisyklių pažeidimas – kaip ši sąvoka apibrėžta 2005 m. spalio 19 d. Tarptautinėje konvencijoje prieš dopingo vartojimą sporte, ratifikuotoje Lietuvos Respublikos 2006 m. gegužės 2 d. įstatymu Nr. X-591 „Dėl Tarptautinės konvencijos prieš dopingo vartojimą sporte ratifikavimo“ (toliau – Tarptautinė konvencija prieš dopingo vartojimą sporte).
 
-2. Dopingas – sportininko organizmo fizinę ir psichinę veiklą skatinantys arba slopinantys, pavojų jo sveikatai keliantys preparatai ir metodai, vartojami pajėgumui laikinai padidinti ir sudarantys sąlygas nesąžiningai varžytis. Dopingo ir jo metodų sąrašą nustato tarptautinės antidopingo organizacijos.
+2. Aukšto meistriškumo sportas – asmens fizinės veiklos forma, kai pagal tam tikras taisykles varžantis su kitais asmenimis (individualiai arba komandoje) aukšto meistriškumo sporto varžybose (prireikus pasitelkiant gyvūnus ir (ar) technines priemones) siekiama nugalėti varžovus ir tobulinti savo fizines ir psichines savybes bei įgūdžius, taip pat veikla, kuria tobulinamos asmens fizinės ir psichinės savybės bei įgūdžiai, siekiant tinkamai pasirengti aukšto meistriškumo sporto varžyboms. Aukšto meistriškumo sportu taip pat laikoma asmens veikla, kuri, nors ir neatitinka nurodytų kriterijų, tačiau dėl susiklosčiusių tradicijų ar kitų aplinkybių visuotinai pripažįstama aukšto meistriškumo sportu.
 
-3. Kūno kultūra – svarbi asmens ir visuomenės bendrosios kultūros dalis – žmogaus fizinė ir dvasinė raida (pratybos) ir jos rezultatas (fizinė ir psichinė darna, grožis, fizinis pajėgumas ir aktyvumas, sveikata).
+3. Aukšto meistriškumo sporto pratybos (toliau – sporto pratybos) – aukšto meistriškumo sporto specialisto vadovaujama arba savarankiška veikla, kurios tikslas – pasirengti aukšto meistriškumo sporto varžyboms.
 
-4. Kūno kultūros arba sporto specialistas – sporto krypties aukštąjį išsilavinimą arba kūno kultūros ir sporto veiklos leidimą turintis asmuo.
+4. Aukšto meistriškumo sporto programa – vienų kalendorinių metų trukmės aukšto meistriškumo sporto planavimo dokumentas, kuriame nurodomi juridinio asmens veiklos, nustatytos įstatuose (nuostatuose, statute ar kitame steigimo dokumente), tikslai, uždaviniai ir priemonės jiems įgyvendinti, priemonių terminai, lėšų poreikis šio dokumento įgyvendinimo laikotarpiu ir planuojami šių lėšų šaltiniai, priemonių įgyvendinimo vertinimo kriterijai, jų reikšmės.
 
-5. Kūno kultūros ir sporto klubas – teisės aktų nustatyta tvarka įsteigta juridinio asmens teises turinti organizacija ir Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėje narėje ir kitoje Europos ekonominės erdvės valstybėje įsisteigusios įmonės filialai arba švietimo ir mokslo įstaigos padalinys, vienijantis kurios nors vienos arba kelių šakų sportininkus, sportuotojus, rėmėjus, plėtojantis sporto šaką ar kelias sporto šakas, ugdantis sportininkus ar komandas, siekiantis gerų sporto rezultatų, plėtojantis sveikos gyvensenos idėjas, turintis atributiką, tradicijas; gali turėti savo sporto bazę.
+5. Aukšto meistriškumo sporto specialistas (toliau – sporto specialistas) – asmuo, vadovaujantis sportininko aukšto meistriškumo sporto pratyboms.
 
-6. Kūno kultūros ir sporto organizacija – teisės aktų nustatyta tvarka įsteigtas juridinis asmuo ir Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėje narėje ir kitoje Europos ekonominės erdvės valstybėje įsisteigusios įmonės filialai arba švietimo ir mokslo įstaigos padalinys, vienijantis kurios nors vienos arba kelių šakų sportininkus, sportuotojus, sportininkus, sportininkus profesionalus ir jiems padedančius specialistus, taip pat rėmėjų bendrija, plėtojanti kūno kultūrą, sportą (sporto šaką), rengianti varžybas, sporto seminarus, konferencijas ir kitus renginius.
+6. Aukšto meistriškumo sporto treniruočių stovykla – aukšto meistriškumo sporto pratybų proceso dalis, kai vykdomas tikslingas ir apibrėžtos trukmės sportininko rengimas, siekiant įvertinti sportininko pasiektą parengtumo lygį ir šį lygį pakelti prieš konkrečias aukšto meistriškumo sporto varžybas.
 
-7. Kūno kultūros ir sporto veiklos leidimas – dokumentas, kuriuo asmenims, neturintiems sporto krypties aukštojo išsilavinimo, suteikiama teisė ribotą laiką dirbti sporto teorinį ir praktinį darbą.
+7. Aukšto meistriškumo sporto varžybos (toliau – sporto varžybos) – nacionalinių ar tarptautinių subjektų organizuojamas tam tikros šakos renginių sistemai priklausantis sporto renginys, kuriame pagal iš anksto paskelbtus nuostatus ir tarptautinės nevyriausybinės sporto organizacijos ar nacionalinės sporto šakos federacijos patvirtintas sporto šakos (šakų) taisykles (tiek, kiek tai neprieštarauja tarptautinės sporto šakos federacijos patvirtintoms taisyklėms) sportininkai varžosi tarpusavyje (individualiai ar komandomis), o šio renginio laimėtoją (laimėtojus) ir rezultatą lemia besivaržančiųjų fizinės ir psichinės savybės ir (ar) įgūdžiai.
 
-8. Kūno kultūros pamoka – pamoka, per kurią mokoma sveikos elgsenos, ugdomas mokinių fizinis aktyvumas skatinti jų motyvaciją, sudarant fizinius įgūdžius, įpročius, ypatybes, lavinant kompleksinius gebėjimus, siekiant fizinės ir dvasinės darnos.
+8. Fizinio aktyvumo ar aukšto meistriškumo sporto instruktorius (toliau – instruktorius) – asmuo, talkinantis fizinio aktyvumo ar aukšto meistriškumo sporto specialistui.
 
-9. Kūno kultūros pratybos – fizinio, intelektinio ir moralinio ugdymo pratybos, per kurias teorinės žinios pritaikomos praktinėje veikloje, mankštinantis, lavinant kūną ir stiprinant dvasią.
+9. Fizinio aktyvumo ar aukšto meistriškumo sporto specialistų arba instruktorių mokymai (toliau – mokymai) – teorinio ir praktinio mokymosi turinio elementų, laiduojančių fizinio aktyvumo ir aukšto meistriškumo sporto kompetencijų įgijimą, visuma.
 
-10. Lietuvos parolimpinis komitetas – teisės aktų nustatyta tvarka įsteigta asociacija, kurios tikslas – koordinuoti parolimpinį judėjimą Lietuvoje.
+10. Fizinio aktyvumo pratybos – fizinio aktyvumo specialisto vadovaujama aktyvi fizinė asmens veikla, kurios tikslas nėra pasirengti aukšto meistriškumo sporto varžyboms ir (ar) dalyvauti jose.
 
-11. Lietuvos tautinis olimpinis komitetas – teisės aktų nustatyta tvarka įsteigta asociacija, kurios tikslas – vadovaujantis Olimpine chartija, plėtoti ir ginti olimpinį judėjimą Lietuvos Respublikoje.
+11. Fizinio aktyvumo specialistas – specialistas, vadovaujantis asmens fizinio aktyvumo veiklai ir (arba) šviečiantis visuomenę sporto, fizinio aktyvumo ir taip pasiekiamo sveikatos stiprinimo klausimais.
 
-12. Manipuliavimas sporto varžybomis – tyčinis susitarimas, veikimas arba neveikimas, kuriuo bandoma pakeisti sporto varžybų eigą ar rezultatą siekiant visiškai arba iš dalies panaikinti šių sporto varžybų nenuspėjamumą ir taip sau ar kitiems suteikti nepelnytą pranašumą.
+12. Fizinis aktyvumas – asmens fizinė veikla, kuria siekiama stiprinti sveikatą, tobulinti fizines ir psichines savybes bei įgūdžius neturint tikslo pasirengti aukšto meistriškumo sporto varžyboms ir (ar) dalyvauti jose, taip pat veikla šviečiant visuomenę sporto, fizinio aktyvumo ir jais pasiekiamo sveikatos stiprinimo klausimais.
 
-Papildyta straipsnio dalimi:
+13. Manipuliavimas aukšto meistriškumo sporto varžybomis – tyčinis susitarimas, veikimas arba neveikimas, kuriuo bandoma paveikti aukšto meistriškumo sporto varžybų eigą ar rezultatą, siekiant visiškai arba iš dalies panaikinti šių sporto varžybų nenuspėjamumą ir taip sau ar kitiems suteikti nepelnytą pranašumą.
 
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+14. Sportas – visos asmens fizinės veiklos formos, kuriomis siekiama ugdyti ir tobulinti fizines ir psichines jo savybes bei įgūdžius ar stiprinti sveikatą.
 
-13. Neįgaliųjų sportas – organizuota laikinos arba visiškos kūno ir (ar) proto negalios žmonių sportinė veikla, kurios tikslas – stiprinti sveikatą, siekti geriausių sporto rezultatų.
+15. Sportininkas – asmuo, kuris varžosi su kitais asmenimis aukšto meistriškumo sporto varžybose ir (ar) treniruojasi aukšto meistriškumo sporto pratybose, aukšto meistriškumo sporto treniruočių stovyklose, kurių tikslas – pasirengti aukšto meistriškumo sporto varžyboms.
 
-Straipsnio dalies numeracijos pakeitimas:
+16. Sporto klubas – juridinis asmuo ar jo padalinys, kurio tikslas – vienyti asmenis fiziniam aktyvumui, sveikai gyvensenai, siekti kokybinių ir kiekybinių sporto rezultatų.
 
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+17. Sporto projektas – dokumentas, kuriame aprašoma laikina juridinio asmens veikla, siekiant unikalių ir konkrečių, su sportu susijusių kiekybinių ir (ar) kokybinių rezultatų, nurodomi šios veiklos tikslai, uždaviniai ir priemonės, jų įgyvendinimo terminai, laukiami rezultatai ir jiems pasiekti reikalingos lėšos ir jų šaltiniai.
 
-14. Olimpinė pamaina – tikslingai sudaroma sportininkų grupė, galinti ar galėsianti pakeisti šalies olimpinių rinktinių didelio meistriškumo sportininkus.
+18. Sporto renginio dalyvis (toliau – dalyvis) – sporto renginyje dalyvaujantis asmuo, išskyrus žiūrovus.
 
-Straipsnio dalies numeracijos pakeitimas:
+19. Sporto renginio žiūrovas (toliau – žiūrovas) – asmuo, stebintis sporto renginį.
 
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+20. Sporto renginys – viešas renginys, kuriame populiarinamas sportas ir (arba) varžomasi.
 
-15. Rinktinė – geriausių vienos ar kelių šakų sportininkų grupė, sporto varžybose atstovaujanti sporto organizacijai, miestui, savivaldybei, apskričiai, šaliai.
+21. Sporto šaka – aukšto meistriškumo sporto sritis, besiskirianti nuo kitų savitomis taisyklėmis, sportinės kovos metodais, technikos ir taktikos veiksmais, inventoriumi bei erdve, kurioje sportuojama. Aukšto meistriškumo sporto sritis taip pat laikoma sporto šaka ne dėl atitikties nurodytiems kriterijams, o dėl istoriškai susiklosčiusių aplinkybių ir (ar) visuotinio šios srities pripažinimo savarankiška sporto šaka. Sporto šakos skirstymą į disciplinas ir rungtis nustato tarptautinė (pasaulio) sporto šakos federacija.
 
-Straipsnio dalies numeracijos pakeitimas:
+22. Sporto šakos federacija – narystės pagrindu įsteigta nevyriausybinė organizacija, kuri tam tikroje teritorijoje (valstybės teritorijos administraciniame vienete ar visoje valstybės teritorijoje) yra atsakinga už tam tikrą sporto šaką: plėtoja tą sporto šaką, atstovauja jos atstovų interesams, nustato jai būdingus reikalavimus ir (ar) užtikrina jų laikymąsi, rengia ir įgyvendina įvairias tos sporto šakos populiarinimo priemones.
 
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+23. Strateginė sporto šaka – Lietuvos Respublikos Vyriausybės nustatytus kriterijus atitinkanti sporto šaka, kurios plėtojimui remti valstybė teikia prioritetą.
 
-16. Sportas – visos fizinės veiklos formos, kuriomis organizuotai ar individualiai siekiama tobulinti fizinę ištvermę ir psichinę sveikatą (gerovę), formuoti socialinius santykius ar siekti rezultatų įvairaus lygio varžybose.
+24. Tarptautinė sporto šakos federacija – nevyriausybinė organizacija, pasaulio mastu nustatanti pagrindines sporto šakos taisykles ir narystės pagrindu vienijanti keliose valstybėse įsteigtas ir tose valstybėse veiklą vykdančias šios sporto šakos federacijas.
 
-Straipsnio dalies numeracijos pakeitimas:
+25. Treneris – aukšto meistriškumo sporto specialistas, rengiantis sportininką (sportininkus) aukšto meistriškumo sporto varžyboms ir (ar) jam (jiems) vadovaujantis šiose varžybose.
 
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+3 straipsnis. Sporto principai
 
-17. Sportas visiems – sportinė veikla, palaikanti būtiną sportuotojų fizinį aktyvumą, sudaranti sąlygas varžytis, pagal išgales siekti sporto rezultatų.
+Sporto veikla grindžiama šiais principais:
 
-Straipsnio dalies numeracijos pakeitimas:
+1) lygiateisiškumo; šis principas reiškia, kad visi asmenys, nepaisant jų lyties, rasės, tautybės, kalbos, kilmės, amžiaus, negalios, religijos ar tikėjimo, seksualinės orientacijos ir socialinės ar ekonominės padėties, turi lygias teises sportuoti; lygiateisiškumo principo pažeidimu nelaikoma atskiros sporto varžybos vyrams, moterims, neįgaliesiems, sporto varžybos pagal amžiaus grupes, dalyvių skaičiaus sporto varžybose ribojimas;
 
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+2) sporto renginių saugumo; šis principas reiškia, kad turi būti imamasi visų reikiamų priemonių, jog vykdant sporto renginį būtų išvengta neigiamų padarinių asmens gyvybei, sveikatai, turtui ir nebūtų pažeidžiami teisės aktų nustatyti reikalavimai, o jeigu neigiamų padarinių atsiranda ar teisės aktų nustatyti reikalavimai pažeidžiami, – būtų užtikrinta, kad šie padariniai bus pašalinti (teisės aktų nustatyta tvarka bus atkurta) per įmanomai trumpiausią laiką, patiriant įmanomai mažiausią žalą;
 
-18. Sportinės veiklos sutartis – sportininko profesionalo, sportininko ar trenerio ir sporto organizacijos susitarimas, kuriuo sportininkas profesionalas, sportininkas ar treneris įsipareigoja rengtis sporto varžyboms arba rengti sportininkus, dalyvauti varžybose laikantis nustatytos sporto organizacijos vidaus tvarkos, o sporto organizacija įsipareigoja mokėti atlygį už sportinę ar treniravimo veiklą ir užtikrina pasirengimo ir dalyvavimo varžyboms sąlygas ir jose dalyvauti, taip pat įsipareigoja vykdyti kitas sutartyje numatytas sąlygas.
+3) antidopingo; šis principas reiškia, kad, siekiant apsaugoti sportininkų ir kitų asmenų, savo sveikatą stiprinančių fiziniu aktyvumu, sveikatą bei užtikrinti sąžiningą varžymąsi sporte, valstybės, savivaldybių institucijos ir įstaigos bei sporto srityje veikiančios nevyriausybinės organizacijos imasi kovos su antidopingo taisyklių pažeidimais, įtvirtintais Tarptautinėje konvencijoje prieš dopingo vartojimą sporte, priemonių;
 
-Straipsnio dalies numeracijos pakeitimas:
+4) manipuliavimo sporto varžybomis draudimo; šis principas reiškia, kad asmenims draudžiama manipuliuoti sporto varžybomis ir turi būti apsaugota visuomenės teisė į sąžiningas sporto varžybas bei užtikrintas sąžiningas sportininkų varžymasis sporto varžybose;
 
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+5) sporto veiklos nepertraukiamumo; šis principas reiškia, kad valstybės ir savivaldybių institucijos ir įstaigos, sporto srityje veikiančios nevyriausybinės organizacijos, vykdydamos savo veiklą, privalo kurti tokias sąlygas, kad asmenys galėtų sportuoti ir taip stiprinti savo sveikatą;
 
-19. Sportininkas – žmogus, sistemingai besitreniruojantis, dalyvaujantis sporto varžybose, siekiantis kuo geresnių sporto rezultatų, nuosekliai didinantis savo sportinį meistriškumą.
+6) asmenų laisvo apsisprendimo ir pasirinkimo; šis principas reiškia, kad asmenys turi teisę laisvai pasirinkti fizinės veiklos formas ir sporto šakas, jungtis į asociacijas, vienijančias savo narius sporto pagrindu, užsiimti sporto veikla, kurios nedraudžia įstatymai;
 
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-20. Sportininkas profesionalas – sportininkas, už rengimąsi varžyboms ir dalyvavimą jose gaunantis atlygį iš sporto organizacijos, su kuria jis yra sudaręs sportinės veiklos sutartį.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-21. Sportininkų ugdymo centras – sporto mokymo įstaiga, sporto centras, specializuota vienos ar kelių sporto šakų įstaiga, kuri gali vykdyti neformalųjį vaikų bei suaugusiųjų švietimą, rengia tam tikros kvalifikacijos sportininkus ir sportuotojus, taip pat atlieka kitas steigėjų jiems priskirtas funkcijas.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-22. Sporto bazė – statinys, skirtas vienos ar įvairių sporto šakų pratyboms ir varžyboms rengti, sportininkų reabilitacijai, sporto specialistų kvalifikacijai kelti.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-23. Sporto pratybos – savarankiška sportininko arba bendra sportininkų ir trenerio veikla, planingas treniravimasis.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-24. Sporto renginys – kūno kultūros, sporto propagavimo, žmonių ugdymo, jų gebėjimų rodymo priemonė: sporto rungtynės, varžybos, žaidynės, šventė, konferencija, konkursas, vakaras, paroda, susitikimas.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-25. Sporto rezultatas – kiekybinis sportinės veiklos rodiklis, reiškiamas pagal sporto šakų specifiką laiko, erdvės ar masės matavimo vienetais, balais, arba kokybinis rodiklis, reiškiamas pergale rungtynėse ar varžybose.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-26. Sporto stovykla – tikslingas trumpalaikis sportininkų arba komandos rengimas(is) varžyboms sporto bazėje.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-27. Sporto (šakos) federacija – nevyriausybinė sporto organizacija, kuri rūpinasi sporto šakos plėtra tam tikroje teritorijoje (mieste, šalyje, žemyne, pasaulyje) arba veikla, susijusia su sportu (sporto medicina, sporto žurnalistika ir kita).
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-28. Sporto varžybos – dviejų ar daugiau sportininkų, komandų, sporto klubų varžymasis pagal iš anksto paskelbtus nuostatus, laikantis tarptautinės sporto šakos federacijos nustatytų taisyklių, turint tikslą nustatyti nugalėtojus, prizininkus.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-29. Sportuotojas – žmogus, kuris reguliariai mankštinasi, lanko pamėgtos sporto šakos pratybas, dalyvauja varžybose, fiziniais pratimais stiprina ir palaiko savo sveikatą, fizines ir dvasines galias.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-30. Strateginės sporto šakos – Kūno kultūros ir sporto departamento prie Lietuvos Respublikos Vyriausybės (toliau – Kūno kultūros ir sporto departamentas) į prioritetinių valstybės sporto šakų sąrašą įtrauktos sporto šakos.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-31. Tarptautinis kompleksinis renginys – sporto renginys, kuriame dalyvauja įvairių šalių ir įvairių sporto šakų atstovai (universiada, žaidynės, festivalis).
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-32. Teisėjo veiklos sutartis – teisėjo ir sporto organizacijos susitarimas, kuriuo teisėjas įsipareigoja, laikydamasis atitinkamos sporto šakos taisyklių ir (ar) varžybų nuostatų, objektyviai prižiūrėti varžybų eigą ir rezultatus, o sporto organizaciją – sudaryti sąlygas teisėjui objektyviai atlikti savo pareigas ir atlyginti už suteiktas pasaugas.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-33. Treneris – asmuo, sporto (šakos) federacijos (nacionalinės arba tarptautinės) nustatyta tvarka įgijęs kvalifikaciją ar kvalifikacinę kategoriją, kurios nors sporto šakos specialistas, turintis teisę rengti ir rengiantis sportininkus arba komandą varžyboms.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-34. Universiada – pasaulinės studentų vasaros arba žiemos sporto šakų kompleksinės žaidynės.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-35. Varžybų nuostatai – varžybų organizatoriaus parengtas ir patvirtintas dokumentas, kuriame nurodomas varžybų tikslas ir uždaviniai, vykdymo vieta, laikas, programa, sistema, reikalavimai varžybų dalyviams ir komandoms, nugalėtojų nustatymo būdai ir kita.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-36. Žiūrovas – asmuo, stebintis sporto renginį. Žiūrovai turi laikytis nustatytų saugumo reikalavimų.
-
-Straipsnio dalies numeracijos pakeitimas:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-3 straipsnis. Kūno kultūros ir sporto principai
-
-Kūno kultūros ir sporto veikla grindžiama šiais principais:
-
-1) lygiateisiškumo – siekti sudaryti sąlygas sportuoti visiems norintiems, nepaisant jų lyties, amžiaus, negalios, religijos ar tikėjimo, seksualinės orientacijos ir socialinės ar ekonominės padėties. Lygiateisiškumo principo pažeidimu nelaikoma atskiros varžybos vyrams, moterims, neįgaliesiems, varžybos pagal amžiaus grupes, dalyvių skaičiaus varžybose ribojimas;
-
-2) žiūrovų ir sporto renginių dalyvių saugumo – vengti incidentų aikštelėse ir už jų ribų, skatinti smurto mažinimą tarp žiūrovų; skatinti tinkamą sporto sirgalių klubų veiklos organizavimą ir jų narių gerą elgesį;
-
-3) dopingo draudimo – apsaugoti pagrindinę sportininkų teisę dalyvauti sporte be dopingo;
-
-4) kilnaus elgesio – moralinės savybės, apibūdinančios taurių motyvų padiktuotus žmonių poelgius, labai vertintinus sportinėse kovose;
-
-5) manipuliavimo sporto varžybomis draudimo – apsaugoti visuomenės teisę į sąžiningas sporto varžybas ir užtikrinti sąžiningą sportininkų varžymąsi sporto varžybų metu;
-
-Straipsnio punkto pakeitimai:
-
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-
-6) tęstinumo – valstybės, savivaldybių ir nevyriausybinės sporto organizacijos sudaro tinkamas sąlygas talentingiems sportui asmenims nepertraukiamai užsiimti sporto veikla.
-
-4 straipsnis. Lietuvos Respublikos gyventojų teisės sporto srityje
-
-Lietuvos Respublikos gyventojai turi teisę laisvai pasirinkti fizinės veiklos formas ir sporto šakas, vienytis į sporto organizacijas, dalyvauti sporto valdyme, užsiimti profesionalia sporto veikla, kita sporto veikla, kurios nedraudžia įstatymai.
+7) visuomenės skatinimo dalyvauti fizinio aktyvumo veiklose; šis principas reiškia, kad valstybės ir savivaldybių institucijos ir įstaigos skatina žmones kiek įmanoma platesniu mastu užsiimti sporto veikla.
 
 II SKYRIUS
 
-KŪNO KULTŪROS IR SPORTO SISTEMA IR JOS VALDYMAS
+SPORTO SISTEMA IR JOS VALDYMAS
+
+4 straipsnis. Sporto sistema
+
+Sporto sistema apima šias sritis:
+
+1) fizinį aktyvumą;
+
+2) aukšto meistriškumo sportą.
 
 33 straipsnis. Sportininkų ugdymo centrų kompetencija
 
@@ -252,319 +136,543 @@ KŪNO KULTŪROS IR SPORTO SISTEMA IR JOS VALDYMAS
 
 3. Sportininkų ugdymo centrai, kurie su sportininkais buvo sudarę sportinės veiklos sutartis šio įstatymo nustatyta tvarka, sportininkui pereinant į kitą sporto organizaciją, gali reikalauti iš sporto organizacijos, į kurią pereina sportininkas, piniginės kompensacijos už sportininko ugdymą. Kompensacijų išmokėjimo sąlygos ir tvarka turi būti numatytos sportinės veiklos sutartyse, taip pat sutartyse tarp sportininkų ugdymo centro ir sporto organizacijos į kurią sportininkas pereina.
 
-5 straipsnis. Kūno kultūros ir sporto sistemos veiklos sritys ir subjektai
+5 straipsnis. Sporto stebėsena
 
-1. Kūno kultūros ir sporto sistema – fizinių ir juridinių asmenų, ugdančių žmogų visomis kūno kultūros priemonėmis, visuma, nuoseklus ir nuolatinis fizinių ir dvasinių žmogaus galimybių plėtojimas bei sveikatos stiprinimas.
+Valstybės sporto stebėseną, vadovaudamosi Lietuvos Respublikos švietimo, mokslo ir sporto ministro patvirtintais sporto stebėsenos rodikliais ir jo nustatyta tvarka, vykdo Lietuvos Respublikos švietimo, mokslo ir sporto ministerija ir (ar) švietimo, mokslo ir sporto ministro įgaliotos įstaigos, taip pat savivaldybių administracijos; stebėseną turi teisę vykdyti ir sporto šakų federacijos.
 
-2. Kūno kultūros ir sporto sistema apima šias veiklos sritis:
+6 straipsnis. Lietuvos Respublikos Seimo, Vyriausybės ir kitų valstybės institucijų ir įstaigų kompetencija sporto srityje
 
-1) vaikų ir jaunimo ugdymą kūno kultūros ir sporto srityje;
+1. Seimas Vyriausybės teikimu tvirtina valstybinę sporto strategiją, kurioje nustatomi sporto prioritetai, ilgalaikiai tikslai, turinio kaitos kryptys.
 
-2) suaugusiųjų ir neįgalių žmonių kūno kultūros plėtojimą;
+2. Švietimo, mokslo ir sporto ministerija formuoja valstybės sporto politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą.
 
-3) sporto šakų plėtojimą;
+3. Kitos valstybės institucijos ir įstaigos atlieka šiuo įstatymu, kitais įstatymais ir Vyriausybės nutarimais joms pavestas funkcijas sporto srityje ir sudaro sąlygas plėtoti sportą.
 
-4) didelio meistriškumo sportininkų rengimą.
+7 straipsnis. Nacionalinė sporto taryba ir jos kompetencija
 
-3. Kūno kultūros ir sporto sistemos subjektai yra:
+1. Nacionalinė sporto taryba yra kolegiali, valstybės politikos sporto srityje formavimo ir įgyvendinimo klausimais Seimui, Vyriausybei ir Švietimo, mokslo ir sporto ministerijai patarianti institucija.
 
-1) sportininkai, sportuotojai, sportininkai profesionalai;
+2. Nacionalinė sporto taryba svarsto valstybinę sporto strategiją, sporto prioritetus, sporto šakų pripažinimo strateginėmis sporto šakomis kriterijus, kitus sporto sričių plėtros klausimus.
 
-2) kūno kultūros ir sporto klubai;
+3. Nacionalinę sporto tarybą sudaro ir jos nuostatus tvirtina Vyriausybė arba jos įgaliota institucija. Į Nacionalinę sporto tarybą švietimo, mokslo ir sporto ministro teikimu įtraukiami valstybės ir savivaldybių institucijų ir įstaigų ir nacionalinių skėtinių nevyriausybinių organizacijų (toliau – skėtinė organizacija), veikiančių sporto politikos srityje, atstovai.
 
-3) savivaldybės ar jų įgaliotos institucijos, apskrities ar šalies sporto (šakos) federacijos;
+4. Nacionalinės sporto tarybos nariai turi būti nepriekaištingos reputacijos. Nacionalinės sporto tarybos nariams taikomi tokie patys kaip ir valstybės tarnautojams Lietuvos Respublikos valstybės tarnybos įstatyme nustatyti kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos.
 
-4) sportininkų ugdymo centrai;
+8 straipsnis. Savivaldybių institucijų kompetencija sporto srityje
 
-5) Neteko galios nuo 2010-07-01
+1. Savivaldybės taryba:
 
-Straipsnio punkto naikinimas:
+1) atsižvelgdama į valstybinę sporto strategiją, sporto prioritetus, švietimo, mokslo ir sporto ministro patvirtintą strateginių sporto šakų sąrašą, vietos bendruomenės poreikius, nustato savivaldybės ilgalaikius sporto plėtros tikslus, savivaldybės biudžeto lėšomis finansuotinas sporto sritis, skatina viešą ir privačią partnerystę sporto srityje;
 
-Nr. XI-850, 2010-05-25, Žin. 2010, Nr. 67-3348 (2010-06-10), i. k. 1101010ISTA00XI-850
+2) nustato sporto srityje veikiančių fizinių ir juridinių asmenų veiklos finansavimo iš savivaldybės biudžeto kriterijus ir tvarką;
 
-6) valstybės institucijos ir jų reguliavimo sričiai priskirtos įstaigos, kurių veikla susijusi su kūno kultūros ir sporto plėtra;
+3) programų ar projektų pagrindu finansuoja ir kitaip prisideda prie savivaldybės teritorijoje veiklą vykdančių sporto srityje veikiančių fizinių ir juridinių asmenų veiklos.
 
-7) sveikos gyvensenos mokyklos ir sporto centrai, kitos organizacijos, plėtojančios kūno kultūrą ir sportą.
+2. Savivaldybės vykdomoji institucija:
 
-PIRMASIS SKIRSNIS
+1) analizuoja sporto būklę savivaldybėje, užtikrina valstybės nustatytos politikos sporto srityje įgyvendinimą vietos lygiu bei ilgalaikių savivaldybės sporto plėtros tikslų ir priemonių jiems pasiekti įgyvendinimą;
 
-VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ KOMPETENCIJA
+2) vykdo sporto objektų plėtrą, užtikrina jų teikiamų paslaugų prieinamumą gyventojams;
 
-6 straipsnis. Lietuvos Respublikos Seimo kompetencija sporto srityje
+3) vykdo šviečiamąją veiklą, formuoja savivaldybės teritorijoje gyvenančių žmonių pozityvų požiūrį į sporto reikšmę sveikatai;
 
-Lietuvos Respublikos Seimas:
+4) rengia ir įgyvendina kitas fizinio aktyvumo ir aukšto meistriškumo sporto plėtojimo savivaldybėje priemones.
 
-1) nustato strategines sporto politikos kryptis;
+9 straipsnis. Organizacijos, plėtojančios fizinį aktyvumą ir aukšto meistriškumo sportą
 
-2) tvirtina valstybinę sporto strategiją;
+1. Fizinio aktyvumo ir aukšto meistriškumo sporto organizacijos plėtoja Lietuvos Respublikoje olimpinį, paralimpinį, kurčiųjų sporto, specialiosios olimpiados ir sporto visiems judėjimus, fizinį aktyvumą, įvairias sporto šakas, sporto šakų grupes.
 
-3) tvirtina valstybės biudžeto asignavimus sporto priemonėms finansuoti;
+2. Gali būti steigiami sporto klubai, kurių tikslas – tenkinti interesus sporto srityje, vienyti asmenis fiziniam aktyvumui, sveikai gyvensenai, sporto plėtrai, siekti kokybinių ir kiekybinių sporto rezultatų.
 
-4) ratifikuoja ir denonsuoja svarbiausias Lietuvos Respublikos sporto tarptautines sutartis;
+10 straipsnis. Sportininkų, trenerių ir teisėjų veikla
 
-5) vykdo kitas įstatymų nustatytas funkcijas.
+1. Sportininkui, treneriui ar teisėjui atlygis už jų vykdomą veiklą gali būti mokamas pagal darbo arba sporto veiklos sutartis.
 
-7 straipsnis. Lietuvos Respublikos Vyriausybės kompetencija kūno kultūros ir sporto srityje
+2. Sporto veiklos sutartis turi būti rašytinė. Sporto veiklos sutartyje turi būti aptartos sutarties šalių teisės ir pareigos, atlygis, sutarties šalių atsakomybė už sporto veiklos sutartyje nurodytų įsipareigojimų nevykdymą, sutarties galiojimo terminas. Sporto veiklos sutartyje gali būti ir kitų sutarties šalių sutartų sąlygų.
 
-Lietuvos Respublikos Vyriausybė:
+III SKYRIUS
 
-1) tvirtina prioritetines kūno kultūros ir sporto plėtros kryptis ir programas;
+FIZINIO AKTYVUMO IR SPORTO SPECIALISTAI, INSTRUKTORIAI
 
-2) sudaro Nacionalinę kūno kultūros ir sporto tarybą ir tvirtina jos reglamentą;
+11 straipsnis. Teisė dirbti fizinio aktyvumo ar sporto specialistu ar instruktoriumi, ar teikti fizinio aktyvumo ar sporto specialisto paslaugas
 
-3) nustato rentų buvusiems sportininkams mokėjimo sąlygas ir tvarką;
+1. Fizinio aktyvumo ir sporto pratybas gali vykdyti fizinio aktyvumo ar sporto specialistai ir instruktoriai, vadovaujami fizinio aktyvumo ar sporto specialistų.
 
-4) nustato premijų didelio meistriškumo sportininkams ir kitiems rinktinių nariams dydžius.
+2. Teisę dirbti fizinio aktyvumo ar sporto specialistu arba teikti fizinio aktyvumo ar sporto specialisto paslaugas turi:
 
-Straipsnio punkto pakeitimai:
+1) asmuo, įgijęs sporto studijų krypties arba krypčių grupės kvalifikacinį laipsnį arba baigęs fizinio aktyvumo mokytojų rengimo studijų programą ir įgijęs atitinkamą kvalifikaciją arba jai lygiavertę aukštojo mokslo kvalifikaciją;
+
+2) asmuo, turintis aukštąjį išsilavinimą ir švietimo, mokslo ir sporto ministro nustatyta tvarka baigęs mokymus aukštojoje mokykloje.
+
+3. Teisę dirbti instruktoriumi turi:
+
+1) asmuo, atitinkantis šio straipsnio 2 dalyje nustatytus reikalavimus;
+
+2) asmuo, įgijęs vidurinį išsilavinimą ir švietimo, mokslo ir sporto ministro nustatyta tvarka baigęs mokymus aukštojoje mokykloje;
+
+3) asmuo, studijuojantis pagal sporto krypties arba krypčių grupės ar fizinio aktyvumo mokytojų rengimo studijų programą arba pagal studijų programą, apimančią fizinio aktyvumo srities mokymų turinio kompetencijas.
+
+4. Dirbti fizinio aktyvumo ar sporto specialistu, instruktoriumi ar teikti fizinio aktyvumo ar sporto specialisto paslaugų negali asmuo, teismo sprendimu pripažintas neveiksniu fizinio aktyvumo ar sporto srityje, – iki jo pripažinimo veiksniu fizinio aktyvumo ar sporto srityje.
+
+5. Draudžiama priimti į darbą teisės dirbti fizinio aktyvumo ar sporto specialistu arba instruktoriumi ar teikti fizinio aktyvumo ar sporto specialisto paslaugas neturintį asmenį arba sudaryti paslaugų sutartį su asmeniu, neturinčiu teisės teikti fizinio aktyvumo ar sporto specialisto paslaugas.
+
+6. Fizinio aktyvumo ar sporto specialistai ir instruktoriai švietimo, mokslo ir sporto ministro nustatyta tvarka privalo tobulinti įgytas kompetencijas.
+
+7. Trenerių, dirbančių valstybės ar savivaldybių biudžetinėse įstaigose, kvalifikacinių kategorijų suteikimo tvarką nustato švietimo, mokslo ir sporto ministras.
+
+IV SKYRIUS
+
+SPORTAS ŠVIETIMO SISTEMOJE
+
+12 straipsnis. Sporto organizavimas švietimo sistemoje
+
+1. Įgyvendinant ikimokyklinio ir priešmokyklinio ugdymo programas, vaikams užtikrinama aktyvi fizinė veikla visą ugdymosi laikotarpį ne mažiau kaip po dvi valandas per dieną.
+
+2. Įgyvendinant pradinio, pagrindinio ir vidurinio ugdymo programas ir vykdant pirminį profesinį mokymą mokykline profesinio mokymo organizavimo forma, yra privalomos ne mažiau kaip trys fizinio ugdymo pamokos per savaitę. Įgyvendinant pradinio, pagrindinio ir vidurinio ugdymo programas, turi būti sudaryta galimybė mokiniui pasirinkti neformaliojo švietimo programą, skirtą fizinio aktyvumo veikloms vykdyti. Pradinis, pagrindinis ir vidurinis ugdymas gali būti vykdomas kartu su sportiniu ugdymu, skirtu išskirtinių sportinių gabumų turintiems mokiniams.
+
+3. Sporto neformaliojo vaikų švietimo programos rengiamos ir įgyvendinamos Lietuvos Respublikos švietimo įstatymo nustatyta tvarka.
+
+4. Aukštosios mokyklos nustatyta tvarka visose pirmosios pakopos ir vientisųjų studijų programose turi būti sudaryta galimybė pasirinkti dalyką, skirtą studijuojančių asmenų aktyviai fizinei veiklai.
+
+5. Mokinių, besimokančių pagal pradinio, pagrindinio ir vidurinio ugdymo programas, fizinio pajėgumo nustatymas vykdomas Lietuvos Respublikos sveikatos apsaugos ministro nustatyta tvarka, suderinta su švietimo, mokslo ir sporto ministru.
+
+V SKYRIUS
+
+SPORTO PRATYBOSE, SPORTO VARŽYBOSE, FIZINIO AKTYVUMO PRATYBOSE AR KITUOSE SPORTO RENGINIUOSE DALYVAUJANČIŲ ASMENŲ SVEIKATA IR SAUGUMAS
+
+13 straipsnis. Asmenų sveikatos tikrinimas
+
+1. Prieš nepilnamečiam asmeniui pradedant lankyti atitinkamas sporto pratybas, šio asmens atstovai pagal įstatymą privalo užtikrinti, kad nepilnametis asmuo pasitikrintų sveikatą asmens sveikatos priežiūros įstaigose.
+
+2. Sporto pratybas lankantys ir (ar) sporto varžybose dalyvaujantys nepilnamečiai sportininkai privalo periodiškai tikrintis sveikatą asmens sveikatos priežiūros įstaigose. Sveikatos tikrinimo reikalavimus sportininkams, periodiškumą ir tvarką nustato sveikatos apsaugos ministras.
+
+3. Sportininkų, kurie per paskutinius 2 metus iki kreipimosi dėl sveikatos tikrinimo išvados į asmens sveikatos priežiūros įstaigas dalyvavo kultivuojamos sporto šakos nacionaliniame čempionate ar tarptautinėse sporto varžybose, kurios yra tos sporto šakos sporto varžybų sistemos sudedamoji dalis, ir šiame straipsnyje nurodytų nepilnamečių asmenų sveikatos tikrinimas asmens sveikatos priežiūros įstaigose apmokamas valstybės biudžeto lėšomis, jeigu kultivuojamos (ketinamos kultivuoti) sporto šakos tarptautinė federacija yra pripažinusi Pasaulinį antidopingo kodeksą.
+
+14 straipsnis. Sporto pratybų, sporto varžybų, fizinio aktyvumo pratybų ir kitų sporto renginių organizavimo reikalavimai
+
+1. Sporto pratybų, sporto varžybų, fizinio aktyvumo pratybų ir kitų sporto renginių organizatoriai, informuodami apie renginį (pratybas), kartu privalo nurodyti galimas rizikas asmens gyvybei ir (ar) sveikatai, kurios gali kilti dalyviui renginio (pratybų) metu, ir rekomenduoti prieš dalyvavimą renginyje (pratybose) pasitikrinti sveikatą asmens sveikatos priežiūros įstaigose. Nepilnamečiams asmenims, kurie nepasitikrino sveikatos asmens sveikatos priežiūros įstaigose ar kurie pagal gautą išvadą negali dalyvauti pasirinktose sporto pratybose, sporto varžybose, sporto pratybų, sporto varžybų organizatoriai neleidžia dalyvauti sporto pratybose, sporto varžybose.
+
+2. Asmeniui leidžiama dalyvauti sporto pratybose, sporto varžybose, fizinio aktyvumo pratybose ir kitame sporto renginyje tik tuo atveju, kai jis arba jo atstovai pagal įstatymą raštu (įskaitant elektroninį būdą) deklaruoja, kad buvo supažindintas (supažindinti) su šio straipsnio 1 dalyje nurodyta informacija ir prisiima atsakomybę už sveikatos būklę dalyvaujant tokiame renginyje, išskyrus nepilnamečius asmenis, kuriems sveikatos tikrinimas yra privalomas.
+
+15 straipsnis. Sporto pratybų, sporto varžybų, fizinio aktyvumo pratybų ir kitų sporto renginių saugumo užtikrinimas
+
+1. Sporto pratybų, sporto varžybų, fizinio aktyvumo pratybų ir kitų sporto renginių organizatoriai atsako už šių renginių dalyvių ir žiūrovų saugumą jų metu. Organizuodamas sporto renginį, jų organizatorius privalo patvirtinti organizuojamo renginio nuostatus ir saugumo taisykles bei savivaldybės tarybos nustatyta tvarka ir atvejais gauti savivaldybės tarybos nustatytos savivaldybės institucijos pritarimą organizuoti sporto renginį. Sporto renginio organizatorius, prieš vykdydamas technikos sporto šakų (pvz., automobilių, motociklų, laivų, lėktuvų ir kt.) sporto renginį privačiose ar viešose vietose, privalo apie tai informuoti nacionalinę ir (ar) tarptautinę tos technikos sporto šakos federaciją ir pranešti savivaldybės tarybos nustatytai savivaldybės institucijai, teikiančiai pritarimą organizuoti sporto renginį.
+
+2. Sporto renginio nuostatuose nurodomas renginio tikslas (tikslai), vykdymo vieta ir laikas, programa, dalyviai, prireikus – reikalavimai dalyviams, laimėtojų nustatymo būdai ir kita tik tam renginiui aktuali informacija. Sporto renginio organizatorius taip pat tvirtina sporto renginio saugumo taisykles, kuriose nurodomos dalyvių ir žiūrovų saugumo renginio metu užtikrinimo priemonės.
+
+3. Sporto renginio saugumo taisyklėse turi būti aptartos žiūrovų ir dalyvių patekimo į renginio vietą ir išvykimo iš renginio vietos sąlygos, žiūrovų zona (zonos), nurodytos vietos ir objektai, į kuriuos draudžiama patekti žiūrovams ir (ar) dalyviams, evakavimosi iš renginio vietos keliai, saugaus elgesio renginio metu sąlygos, konkrečios priemonės, skirtos tvarkai renginio teritorijoje užtikrinti, jeigu renginio metu planuojama pasitelkti medicinos, valstybinės priešgaisrinės gelbėjimo tarnybos specialistus, – jų dislokacijos vieta renginio teritorijoje, kita su organizuojamo renginio specifika susijusi informacija.
+
+4. Apie organizuojamus didesnės rizikos sporto renginius renginio organizatorius privalo ne vėliau kaip prieš 20 darbo dienų iki numatyto renginio pradžios raštu informuoti atitinkamą policijos įstaigą, įsteigtą teritoriniu principu (toliau – teritorinė policijos įstaiga), ir pateikti jai sporto renginio saugumo taisykles. Kriterijus, pagal kuriuos nustatoma, ar sporto renginys yra didesnės rizikos, nustato Lietuvos Respublikos vidaus reikalų ministras. Teritorinė policijos įstaiga ne vėliau kaip per 4 darbo dienas nuo pranešimo ir sporto renginio saugumo taisyklių gavimo dienos teikia renginio organizatoriui rekomendacijas dėl tinkamų saugumo sporto renginio metu užtikrinimo priemonių. Apie teritorinės policijos įstaigos rekomendacijų įgyvendinimą sporto renginio organizatorius turi informuoti atitinkamą teritorinę policijos įstaigą ne vėliau kaip likus 5 darbo dienoms iki sporto renginio pradžios.
+
+5. Policijos pareigūnai gali laikinai sustabdyti arba nutraukti sporto pratybas, sporto varžybas, fizinio aktyvumo pratybas ir kitą sporto renginį, kai kyla reali grėsmė (pvz., riaušės, teroro aktas ir kt.) visuomenės saugumui ir būtina nedelsiant imtis priemonių užkirsti kelią žalai atsirasti. Jeigu sporto renginio organizatoriaus taikomos saugumo sporto renginyje užtikrinimo priemonės neatitinka teritorinės policijos įstaigos pateiktų rekomendacijų ir dėl to kyla pagrįsta grėsmė dalyvių ir (arba) žiūrovų gyvybei arba sveikatai, sporto renginys turi būti sustabdytas, iki jo organizatorius ar organizatoriaus atstovai nesiims būtinų priemonių užkirsti kelią grėsmei žmonių saugumui.
+
+6. Prieš sporto renginį dalyviams ir žiūrovams turi būti sudaryta galimybė susipažinti su tokių renginių saugumo taisyklėmis. Organizatorius dalyvius ir žiūrovus informuoti apie saugaus elgesio sporto renginio metu reikalavimus gali viena ar keliomis informavimo formomis: spausdintinėje medžiagoje, internetinėje erdvėje, įvairiais įspėjamaisiais ženklais sporto renginio vietoje. Organizatorius gali taikyti papildomas dalyvių ir žiūrovų informavimo formas.
+
+7. Dalyviai ir žiūrovai turi laikytis organizatoriaus nustatytų saugumo reikalavimų, nurodytų sporto renginio saugumo taisyklėse.
+
+8. Sporto pratybų, sporto varžybų, fizinio aktyvumo pratybų ir kitų sporto renginių, vykstančių vandenyje, metu turi būti asmuo (asmenys), atsakingas (atsakingi) už žmonių saugumą vandenyje.
+
+VI SKYRIUS
+
+SPORTO FINANSAVIMAS
+
+16 straipsnis. Sporto finansavimo šaltiniai
+
+1. Sporto finansavimą sudaro:
+
+1) valstybės biudžeto lėšos;
+
+2) savivaldybių biudžetų lėšos;
+
+3) kitos lėšos.
+
+2. Planuojant kiekvienų metų valstybės biudžeto asignavimus, sporto projektams įgyvendinti skiriama:
+
+1) 2019 metais – 2 procentai praėjusių metų faktinių įplaukų iš akcizo už alkoholinius gėrimus ir apdorotą tabaką;
+
+2) 2020 metais – 2,5 procento praėjusių metų faktinių įplaukų iš akcizo už alkoholinius gėrimus ir apdorotą tabaką;
+
+3) 2021 metais ir vėlesniais metais – 3 procentai praėjusių metų faktinių įplaukų iš akcizo už alkoholinius gėrimus ir apdorotą tabaką;
+
+4) kiekvienais metais – 10 procentų praėjusių metų faktinių įplaukų iš loterijų ir azartinių lošimų mokesčio.
+
+3. Šio straipsnio 2 dalyje nurodyti valstybės biudžeto asignavimai sudaro dalį kiekvienais metais numatomų fiziniam aktyvumui ir aukšto meistriškumo sportui finansuoti šio straipsnio 1 dalies 1 punkte nurodytų valstybės biudžeto asignavimų.
+
+17 straipsnis. Sporto projektų finansavimas
+
+1. Šio įstatymo 16 straipsnio 2 dalyje nurodytos valstybės biudžeto lėšos skirstomos per Sporto rėmimo fondą ir skiriamos įgyvendinti sporto projektams, susijusiems su:
+
+1) sporto inventoriaus ir įrangos įsigijimu;
+
+2) sporto renginių organizavimu;
+
+3) kvalifikacijos tobulinimu;
+
+4) fizinio aktyvumo veiklomis, skatinančiomis fizinio aktyvumo plėtrą;
+
+5) esamų sporto bazių plėtra, priežiūra ir remontu.
+
+2. Sporto rėmimo fondo lėšomis finansuojamų sporto projektų finansavimo tvarką, Sporto rėmimo fondo lėšų paskirstymo proporcijas ir Sporto rėmimo fondo administravimui skirtų lėšų dalį nustato Vyriausybė. Sporto rėmimo fondo administravimui skirtos lėšos negali viršyti 4 procentų metinio Sporto rėmimo fondo biudžeto. Sporto rėmimo fondo lėšos negali būti perduodamos į valstybės biudžetą arba naudojamos kitoms valstybės reikmėms finansuoti, per metus nepanaudotos lėšos naudojamos kitais metais numatytiems sporto projektams finansuoti. Vyriausybė Sporto rėmimo fondo lėšomis finansuojamiems sporto projektams gali nustatyti bendrojo finansavimo dydį iš kitų šaltinių.
+
+3. Planuojant kiekvienų metų valstybės biudžeto asignavimus sporto projektams įgyvendinti, Švietimo, mokslo ir sporto ministerijai ar švietimo, mokslo ir sporto ministro įgaliotai institucijai ir viešajai įstaigai Centrinei projektų valdymo agentūrai skiriamos šio įstatymo 16 straipsnio 2 dalyje nurodyto dydžio lėšos. Ne mažiau kaip 10 procentų šio įstatymo 16 straipsnio 2 dalyje nurodytų lėšų skiriama neįgaliųjų sporto plėtrą skatinantiems projektams įgyvendinti.
+
+4. Švietimo, mokslo ir sporto ministerija ar švietimo, mokslo ir sporto ministro įgaliota institucija, viešoji įstaiga Centrinė projektų valdymo agentūra ir savivaldybės savo interneto svetainėse skelbia su sporto projektais susijusią informaciją: projektus pateikusių subjektų sąrašus, projektų pavadinimus, nustatytus reikalavimus atitinkančių projektų turinio santraukas, prašomų skirti lėšų sumas, projektų turinio vertinimus, sprendimus dėl lėšų skyrimo (neskyrimo) ir šių sprendimų motyvus, informaciją apie projektų įgyvendinimo rezultatus, valstybės ar savivaldybių biudžetų lėšų mokėjimo sustabdymą ar nutraukimą.
+
+5. Švietimo, mokslo ir sporto ministerija ar švietimo, mokslo ir sporto ministro įgaliota institucija, vadovaudamosi Sporto rėmimo fondo lėšomis finansuojamų sporto projektų finansavimo tvarkos aprašu, atlieka šio straipsnio 1 dalies 1–4 punktuose nurodytų sporto projektų, finansuojamų Sporto rėmimo fondo lėšomis, atranką ir teikia išvadas sporto projektų komisijai dėl jų tinkamumo finansuoti vertinimo, įgyvendina kitas šiame įstatyme ir Sporto rėmimo fondo lėšomis finansuojamų sporto projektų finansavimo tvarkos apraše nustatytas funkcijas.
+
+6. Viešoji įstaiga Centrinė projektų valdymo agentūra, vadovaudamasi Sporto rėmimo fondo lėšomis finansuojamų sporto projektų finansavimo tvarkos aprašu, atlieka šio straipsnio 1 dalies 5 punkte nurodytų sporto projektų, finansuojamų Sporto rėmimo fondo lėšomis, atranką ir teikia išvadas sporto projektų komisijai dėl jų tinkamumo finansuoti vertinimo, vykdo atrinktų sporto projektų įgyvendinimo priežiūrą, įgyvendina kitas šiame įstatyme ir Sporto rėmimo fondo lėšomis finansuojamų sporto projektų finansavimo tvarkos apraše nustatytas funkcijas.
+
+7. Sporto projektų komisija įvertina jai Švietimo, mokslo ir sporto ministerijos ar švietimo, mokslo ir sporto ministro įgaliotos institucijos ir viešosios įstaigos Centrinės projektų valdymo agentūros pateiktus tinkamus finansuoti Sporto rėmimo fondo lėšomis sporto projektus ir teikia siūlymus Švietimo, mokslo ir sporto ministerijai ar švietimo, mokslo ir sporto ministro įgaliotai institucijai dėl konkrečių sporto projektų finansavimo.
+
+8. Sporto projektų komisijos institucinę sudėtį nustato ir jos nuostatus tvirtina Vyriausybė. Į sporto projektų komisiją įtraukiami valstybės institucijų ir įstaigų, Lietuvos savivaldybių asociacijos ir sporto organizacijų atstovai. Po vieną atstovą į sporto projektų komisijos narius turi teisę deleguoti:
+
+1) olimpiniam sąjūdžiui Lietuvoje vadovaujanti nevyriausybinė organizacija;
+
+2) neįgaliųjų sporto judėjimams Lietuvoje vadovaujančios nevyriausybinės organizacijos;
+
+3) fizinį aktyvumą plėtojančios skėtinės organizacijos, vienijančios ne mažiau kaip 20 nevyriausybinių organizacijų;
+
+4) sporto visiems judėjimui Lietuvoje vadovaujančios nevyriausybinės organizacijos;
+
+5) šio įstatymo 19 straipsnyje nurodytus kriterijus atitinkančios sporto šakų federacijos.
+
+9. Sporto projektų komisijos nariai turi būti nepriekaištingos reputacijos. Sporto projektų komisijos nariams taikomi tokie patys kaip ir valstybės tarnautojams Valstybės tarnybos įstatyme nustatyti kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos.
+
+10. Sprendimą dėl sporto projektų finansavimo Sporto rėmimo fondo lėšomis priima švietimo, mokslo ir sporto ministras ar švietimo, mokslo ir sporto ministro įgaliotos institucijos vadovas.
+
+11. Savivaldybės vykdomoji institucija ar jos įgaliotos įstaigos, vadovaudamosi savivaldybių tarybų nustatytos savivaldybių biudžetų lėšomis finansuojamų sporto projektų finansavimo tvarkos aprašu, vykdo savivaldybei pateiktų sporto projektų atranką ir priima sprendimus dėl jų bendrojo finansavimo.
+
+18 straipsnis. Aukšto meistriškumo sporto finansavimas valstybės ir savivaldybių biudžetų lėšomis
+
+1. Aukšto meistriškumo sportas finansuojamas valstybės, savivaldybių biudžetų lėšomis Vyriausybės nustatyta tvarka, skiriant lėšų šio straipsnio 3 dalyje nurodytų subjektų pateiktoms aukšto meistriškumo sporto programoms įgyvendinti, ir įstaigoms, rengiančioms ir sudarančioms sąlygas sportininkams rengti, išlaikyti.
+
+2. Vyriausybė valstybės ar savivaldybių biudžetų lėšomis finansuojamoms aukšto meistriškumo sporto programoms gali nustatyti bendrojo finansavimo dydį (nuo skirtų valstybės ar savivaldybės biudžeto lėšų sumos) iš nuosavų ar kitų šaltinių.
+
+3. Valstybės, savivaldybių biudžetų lėšomis finansuojamos olimpiniam, paralimpiniam, regos, klausos ar judėjimo negalią turinčių asmenų sporto judėjimams Lietuvoje vadovaujančių nevyriausybinių organizacijų, sporto šakų federacijų ir nacionalinės antidopingo organizacijos atliekamos funkcijos, susijusios su sportininkų rengimu ir jų dalyvavimu tarptautinėse sporto varžybose, sporto pratybų, aukšto meistriškumo sporto treniruočių stovyklų ir sporto renginių organizavimu, Pasaulinio antidopingo kodekso įgyvendinimo, brutalaus žiūrovų elgesio prevencijos, kovos su manipuliavimu sporto varžybomis, vykdymu. Tuo tikslu olimpiniam, paralimpiniam, regos, klausos ar judėjimo negalią turinčių asmenų sporto judėjimams Lietuvoje vadovaujančios nevyriausybinės organizacijos, sporto šakų federacijos, nacionalinė antidopingo organizacija privalo parengti aukšto meistriškumo sporto programas, numatydamos priemones, susijusias su šioje dalyje nurodytų funkcijų atlikimu, ir atitikti šio įstatymo 19 straipsnyje nustatytus kriterijus.
+
+4. Švietimo, mokslo ir sporto ministerija ar švietimo, mokslo ir sporto ministro įgaliota institucija ir savivaldybės savo interneto svetainėse skelbia su aukšto meistriškumo sporto programomis susijusią informaciją: programas pateikusių subjektų sąrašus, programų pavadinimus, nustatytus reikalavimus atitinkančių programų turinio santraukas, prašomų skirti lėšų sumas, programų turinio vertinimus, sprendimus dėl lėšų skyrimo (neskyrimo) ir šių sprendimų motyvus, informaciją apie programų įgyvendinimo rezultatus, valstybės ar savivaldybių biudžetų lėšų mokėjimo sustabdymą ar nutraukimą.
+
+19 straipsnis. Kriterijai, kuriuos atitinkantis juridinis asmuo turi teisę gauti valstybės ir (ar) savivaldybių biudžetų lėšų aukšto meistriškumo sporto programai įgyvendinti
+
+1. Sporto šakos federacija, siekianti gauti valstybės ir (ar) savivaldybių biudžetų lėšų šio įstatymo 18 straipsnio 2 dalyje nurodytai aukšto meistriškumo sporto programai įgyvendinti, turi atitikti šiuos kriterijus:
+
+1) atitikti Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatyme nevyriausybinėms organizacijoms keliamus reikalavimus ir Lietuvos Respublikos asociacijų įstatyme asociacijoms keliamus reikalavimus;
+
+2) būti atsakinga už visų Lietuvos Respublikoje kultivuojamų atstovaujamos sporto šakos disciplinų plėtrą (tuo atveju, kai tarptautinė tos sporto šakos federacija atstovavimą leidžia ir sporto šakos disciplinų principu, valstybės ir (ar) savivaldybių biudžetų lėšų sporto programoms įgyvendinti gali gauti kelios tos sporto šakos federacijos, kurios yra atsakingos tik už vienos ar kelių tos sporto šakos disciplinų plėtrą);
+
+3) per paskutinius 4 metus iki kreipimosi į Švietimo, mokslo ir sporto ministeriją ar švietimo, mokslo ir sporto ministro įgaliotą instituciją arba atitinkamą savivaldybės instituciją ar įstaigą dėl aukšto meistriškumo sporto programos finansavimo dienos ne mažiau kaip vienas federacijos atstovaujamos sporto šakos (sporto šakos disciplinos) sportininkas atstovavo Lietuvos Respublikai olimpinėse žaidynėse, pasaulio ir (ar) Europos suaugusiųjų čempionatuose (atitinkamai pasaulio, Europos taurės finalinėse varžybose ir (ar) Europos žaidynėse, jeigu tos sporto šakos pasaulio ir (ar) Europos suaugusiųjų čempionatai nevykdomi, o vietoj jų rengiamos atitinkamai tos sporto šakos pasaulio, Europos taurės finalinės varžybos ir (ar) Europos žaidynės) ar patekti į šias sporto varžybas organizuojamose atrankos varžybose;
+
+4) yra narė atstovaujamos sporto šakos tarptautinės federacijos (arba, kai yra tarptautinės sporto šakos federacijos leidimas, narė tarptautinės federacijos, kuruojančios tik konkrečią sporto šakos discipliną ir kartu esančios nare tos sporto šakos tarptautinės federacijos), kuri:
+
+a) turi ne mažiau kaip 55 valstybėse iš ne mažiau kaip 4 žemynų veikiančius narius;
+
+b) yra pripažinusi Pasaulinį antidopingo kodeksą;
+
+c) per paskutinius 4 metus iki sporto šakos federacijos kreipimosi į Švietimo, mokslo ir sporto ministeriją ar švietimo, mokslo ir sporto ministro įgaliotą instituciją arba savivaldybės instituciją ar įstaigą dėl programos finansavimo dienos surengė tos sporto šakos pasaulio suaugusiųjų čempionatą (arba tos sporto šakos pasaulio taurės finalines varžybas, jeigu tos sporto šakos pasaulio čempionatai nevykdomi, o vietoj jų rengiamos tos sporto šakos pasaulio taurės finalinės varžybos), kuriame kartu su atrankos į jį varžybomis dalyvavo ne mažiau kaip 3 žemynų ne mažiau kaip 16 valstybių atstovai;
+
+d) yra pripažinusi šią federaciją vienintele tos sporto šakos (tos sporto šakos (disciplinos) atstove Lietuvos Respublikoje, palaikančia santykius su tarptautine sporto šakos (sporto šakos (disciplinos) federacija;
+
+5) turi savo įstatų nustatyta tvarka patvirtintas plėtojamos sporto šakos sporto varžybų saugumo taisykles;
+
+6) savo įstatų nustatyta tvarka turi patvirtintą etikos kodeksą ir veiklos dokumentuose yra įtvirtinusi atsakomybę už etikos ir Pasaulinio antidopingo kodekso pažeidimus, manipuliavimą sporto varžybomis, brutalų elgesį sporto varžybų metu bei vykdydama veiklą laikosi šio įstatymo 3 straipsnyje nurodytų principų;
+
+7) turi savo įstatų nustatyta tvarka patvirtintą strateginį veiklos planą, kuriame numatyti sporto šakos federacijos tikslai ir planuojami rezultatai per artimiausių 4 metų laikotarpį ir su kuriuo turi derėti sporto šakos federacijos teikiama aukšto meistriškumo sporto programa;
+
+8) turi sporto šakos federacijos interneto svetainėje skelbti (išskyrus duomenis, kuriuos įstatymai draudžia viešinti): federacijos priimamus sprendimus, susijusius su visų amžiaus grupių nacionalinių rinktinių sudarymu (tarp jų ir šių rinktinių sudarymo kriterijus), federacijos metinio biudžeto sąmatą (išskiriant federacijos veiklai administruoti numatytas išlaidas), etikos kodeksą, strateginį veiklos planą, aukšto meistriškumo sporto programą, kuriai įgyvendinti prašoma valstybės ar savivaldybių biudžetų lėšų, aukšto meistriškumo sporto programų, kurioms įgyvendinti buvo skirta valstybės ar savivaldybių biudžetų lėšų, įgyvendinimo ataskaitas;
+
+9) turi įsipareigoti skirti ne mažesnio kaip Vyriausybės nustatyto dydžio (nuo skirtų valstybės ar savivaldybės biudžeto lėšų sumos) nuosavų ar kitų šaltinių lėšų bendrąjį finansavimą aukšto meistriškumo sporto programoms įgyvendinti;
+
+10) sporto šakos federacijos steigimo ar kituose dokumentuose yra įtvirtinta sporto šakos federacijos valdymo organų narių rotacija, numatant maksimalų galimą iš eilės einančių kadencijų skaičių tam pačiam asmeniui.
+
+TAR pastaba. 19 straipsnio 1 dalies 10 punktas įsigalioja 2019 m. liepos 1 d.
+
+2. Olimpiniam, paralimpiniam, regos, klausos ar judėjimo negalias turinčių asmenų sporto judėjimams Lietuvoje vadovaujančioms nevyriausybinėms organizacijoms, siekiančioms gauti valstybės ir (ar) savivaldybių biudžetų lėšų šio įstatymo 18 straipsnio 2 dalyje nurodytoms aukšto meistriškumo sporto programoms įgyvendinti, mutatis mutandis taikomi šio straipsnio 1 dalies 6–10 punktuose nustatyti kriterijai, be to, tarptautinės nevyriausybinės organizacijos, kurių narėmis yra olimpiniam, paralimpiniam, regos, klausos ar judėjimo negalią turinčių asmenų sporto judėjimams Lietuvoje vadovaujančios nevyriausybinės organizacijos, turi būti pripažinusios Pasaulinį antidopingo kodeksą.
+
+3. Nacionalinė antidopingo organizacija, siekianti gauti valstybės ir (ar) savivaldybių biudžeto lėšų šio įstatymo 20 straipsnio 2 dalyje nurodytoms aukšto meistriškumo sporto programoms įgyvendinti, privalo atitikti nacionalinės antidopingo organizacijos statusą, kaip jis suprantamas Pasauliniame antidopingo kodekse, ir jai mutatis mutandis taikomi šio straipsnio 1 dalies 7–10 punktuose nustatyti kriterijai.
+
+20 straipsnis. Finansavimo valstybės ir savivaldybių biudžetų lėšomis neskyrimo pagrindai ir išmokėtų lėšų grąžinimas
+
+1. Valstybės ar savivaldybių biudžetų lėšos sporto projektams ar aukšto meistriškumo sporto programoms įgyvendinti negali būti skiriamos, jeigu:
+
+1) juridinio ar kito asmens veikla sustabdyta ar apribota įstatymų nustatytais pagrindais;
+
+2) juridinis ar kitas asmuo nėra įvykdęs įsipareigojimų, susijusių su mokesčių mokėjimu (išskyrus atvejus, kai mokesčių administratoriaus sprendimu mokestinės nepriemokos mokėjimas yra atidėtas ir (arba) išdėstytas per tam tikrą laikotarpį ir šio sprendimo pagrindu sudaryta nevyriausybinės organizacijos ar kito asmens ir mokesčių administratoriaus mokestinės paskolos sutartis);
+
+3) juridiniam ar kitam asmeniui taikomas turto areštas ir išieškojimas galėtų būti nukreiptas į sporto projektui ar aukšto meistriškumo sporto programai įgyvendinti skirtas valstybės, savivaldybių biudžeto lėšas, juridinis asmuo yra likviduojamas arba dėl juridinio ar kito asmens pradėtos bankroto procedūros ir išieškojimas galėtų būti nukreiptas į sporto projektui ar aukšto meistriškumo sporto programai įgyvendinti skirtas valstybės, savivaldybių biudžetų lėšas;
+
+4) juridinis ar kitas asmuo, prašydamas valstybės ir (ar) savivaldybių biudžetų lėšų, pateikė tikrovės neatitinkančius duomenis arba suklastotus dokumentus;
+
+5) juridinis ar kitas asmuo, naudodamas valstybės ir (ar) savivaldybės biudžetų lėšas buvo neįvykdęs valstybės ir (ar) savivaldybių biudžetų lėšų naudojimo sutarties su ta pačia valstybės ir (ar) savivaldybės institucija, priimančia sprendimą dėl valstybės ir (ar) savivaldybės biudžetų lėšų skyrimo sporto projektams ar aukšto meistriškumo sporto programoms, ar netinkamai ją įvykdęs ir tai buvo esminis valstybės ir (ar) savivaldybių biudžetų lėšų naudojimo sutarties pažeidimas arba valstybės ir (ar) savivaldybės institucija yra gavusi informaciją apie kitų valstybės ir (ar) savivaldybių biudžetų lėšų naudojimo sutarčių su kitomis valstybės ir (ar) savivaldybių institucijomis neįvykdymą ar netinkamą jų įvykdymą ir tai buvo esminis valstybės ir (ar) savivaldybių biudžetų lėšų naudojimo sutarčių pažeidimas, ir nuo šių pažeidimų paaiškėjimo dienos yra praėję mažiau kaip 3 metai; šis punktas netaikomas, jeigu nuo esminių valstybės ir (ar) savivaldybių biudžetų lėšų naudojimo sutarties sąlygų pažeidimo padarymo dienos iki jo paaiškėjimo dienos yra praėję daugiau kaip 5 metai;
+
+6) juridinis ar kitas asmuo prašo skirti valstybės ir (ar) savivaldybių biudžetų lėšų aukšto meistriškumo sporto programai įgyvendinti, tačiau šios programos priemonės nedera su Pasauliniu antidopingo kodeksu arba tos sporto šakos tarptautinė federacija nepripažįsta Pasaulinio antidopingo kodekso arba neįgyvendina nacionalinių antidopingo taisyklių;
+
+7) fizinis asmuo arba juridinio asmens vadovas, kolegialaus valdymo organo vadovas, asmuo, turintis teisę juridinio asmens vardu sudaryti sandorį, buhalteris (buhalteriai) ar kitas (kiti) asmuo (asmenys), tvarkantis (tvarkantys) juridinio asmens apskaitą, turi neišnykusį ar nepanaikintą teistumą už sunkius ar labai sunkius nusikaltimus arba tyčinius nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai arba už korupcinio pobūdžio nusikalstamas veiklas;
+
+8) juridinis asmuo buvo patrauktas baudžiamojon atsakomybėn ir nepraėjo 10 metų nuo nuosprendžio įsigaliojimo dienos.
+
+2. Jeigu šio straipsnio 1 dalyje nurodytos aplinkybės atsiranda po sprendimo skirti valstybės ir (ar) savivaldybių biudžetų lėšų sporto projektui ar aukšto meistriškumo sporto programai įgyvendinti priėmimo, valstybės ir (ar) savivaldybių biudžetų lėšų mokėjimas sustabdomas, o šioms aplinkybėms esant išmokėtos valstybės ir (ar) savivaldybių biudžetų lėšos atitinkamai finansavimą skyrusių institucijų ar įstaigų nustatyta tvarka ir per nustatytus terminus turi būti grąžintos į valstybės biudžeto lėšų naudojimo sutartyje nurodytą valstybės iždo sąskaitą ar atitinkamos savivaldybės biudžeto lėšų naudojimo sutartyje nurodytą savivaldybės sąskaitą; jų negrąžinus, išmokėtos lėšos išieškomos. Jeigu aplinkybės išnyksta nepasibaigus sporto projekto ar aukšto meistriškumo sporto programos įgyvendinimo terminui, valstybės ir (ar) savivaldybės biudžetų lėšų mokėjimas atnaujinamas sporto projektams ar toms aukšto meistriškumo sporto programos priemonėms, kurių vykdymo terminai nėra pasibaigę, įgyvendinti; priešingu atveju priimamas sprendimas nutraukti valstybės ir (ar) savivaldybės biudžetų lėšų mokėjimą sporto projektui ar aukšto meistriškumo sporto programai įgyvendinti.
+
+21 straipsnis. Valstybės ir savivaldybių dalyvavimas rengiant sportininkus
+
+1. Valstybė steigia įstaigą, kuri sudarytų sąlygas sportininkams rengti.
+
+2. Savivaldybės gali steigti įstaigas, kurios rengtų sportininkus ar sudarytų sąlygas jiems rengti.
+
+VII SKYRIUS
+
+VALSTYBĖS SKATINIMAS UŽ PASIEKTUS AUKŠTO MEISTRIŠKUMO SPORTO LAIMĖJIMUS
+
+22 straipsnis. Valstybės skatinimas už pasiektus sporto laimėjimus
+
+Valstybė užtikrina lygiateisiškumo principo įgyvendinimą ir skatina sportininkus už pasiektus sporto laimėjimus, atsižvelgdama į skirtingą atrankos varžybų, kvotų šalims sistemą, varžybų rangą, šalių ir dalyvių skaičių sporto varžybose.
+
+23 straipsnis. Valstybės premijos už pasiektus aukšto meistriškumo sporto laimėjimus
+
+1. Vyriausybė ar jos įgaliota institucija sportininkams ir jų treneriams už šio straipsnio 2 dalyje nurodytus aukšto meistriškumo sporto laimėjimus (toliau – laimėjimai) skiria valstybės premijas ir nustato valstybės premijų dydžius.
+
+2. Asmuo turi teisę gauti valstybės premiją, jeigu jis, pagal atitinkamos sporto šakos tarptautinės federacijos ar kitų tarptautinių sporto organizacijų nustatytas taisykles atstovaudamas Lietuvos Respublikai, tapo:
+
+1) olimpinių žaidynių 1–8 vietos laimėtoju;
+
+2) atitinkamos sporto šakos pasaulio ar Europos čempionatų (atitinkamai pasaulio, Europos taurės finalinių varžybų ar Europos žaidynių, jeigu tos sporto šakos pasaulio ir (ar) Europos suaugusiųjų čempionatai nevykdomi, o vietoj jų rengiamos atitinkamai tos sporto šakos pasaulio, Europos taurės finalinės varžybos ar Europos žaidynės) 1–3 vietos laimėtoju;
+
+3) į paralimpinių ar kurčiųjų žaidynių programą įtrauktos rungties pasaulio ar Europos neįgaliųjų čempionatų 1–3 vietos laimėtoju;
+
+4) paralimpinių ar kurčiųjų žaidynių 1–4 vietos laimėtoju;
+
+5) specialiosios olimpiados žaidynių 1–3 vietos laimėtoju;
+
+6) universiados 1–3 vietos laimėtoju.
+
+3. Valstybės premija skiriama tik tuo atveju, jeigu šio straipsnio 2 dalyje nurodytų sporto varžybų sporto rungtyje, kurioje buvo pasiektas laimėjimas, varžėsi ne mažiau kaip 16 valstybių atstovai (ši sąlyga netaikoma į olimpinių, paralimpinių ar kurčiųjų arba specialiosios olimpiados žaidynių programas įtrauktoms rungtims) ir laimėjimas buvo pasiektas nurungiant ne mažiau kaip 1/3 varžovų.
+
+4. Sportininkui ar (ir) treneriui už šio straipsnio 2 dalyje nurodytus laimėjimus valstybės premija neskiriama, o paskirtoji nemokama, jeigu:
+
+1) sprendimo dėl valstybės premijos skyrimo priėmimo metu jis įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl tyčinio nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą;
+
+2) laimėjimai, nurodyti šio straipsnio 2 dalyje, buvo anuliuoti dėl manipuliavimo sporto varžybomis, dopingo preparatų vartojimo ar dopingo metodų taikymo.
+
+5. Jeigu šio straipsnio 4 dalyje nurodytos aplinkybės paaiškėja po sportininkui ar treneriui skirtos valstybės premijos išmokėjimo, valstybės premiją gavęs asmuo privalo ją grąžinti Vyriausybės įgaliotai institucijai.
+
+6. Valstybės premijos mokamos iš valstybės biudžeto lėšų, skirtų Vyriausybės įgaliotai institucijai.
+
+7. Valstybės premijų skyrimo ir mokėjimo tvarką nustato Vyriausybė.
+
+8. Informacija apie asmenims skirtas valstybės premijas skelbiama Vyriausybės įgaliotos institucijos interneto svetainėje.
+
+24 straipsnis. Valstybės stipendijos mokėjimo sąlygos ir tvarka
+
+1. Sportininkas turi teisę šiame straipsnyje nurodytomis sąlygomis gauti kas mėnesį mokamą valstybės stipendiją, jeigu jis, turėdamas Lietuvos Respublikos pilietybę ir atstovaudamas Lietuvos Respublikai, tapo:
+
+1) olimpinių žaidynių ar į olimpinių žaidynių programą įtrauktos rungties pasaulio čempionatų (arba užėmė atitinkamą vietą tos sporto šakos sportininkų reitinge, jeigu tos sporto šakos pasaulio čempionatai nevykdomi, o geriausias tos rungties sportininkas nustatomas pagal tarptautinės sporto šakos federacijos sudaromą sportininkų reitingą) (toliau – pasaulio čempionatas) 1–16 vietos laimėtoju;
+
+2) į olimpinių žaidynių programą įtrauktos rungties Europos čempionatų (toliau – Europos čempionatas) ar Europos žaidynių (jeigu atitinkamoje sporto šakoje neorganizuojami Europos čempionatai), pasaulio jaunimo čempionatų (arba užėmė atitinkamą vietą tos sporto šakos sportininkų (jaunimo) reitinge, jeigu tos sporto šakos pasaulio jaunimo čempionatai nevykdomi, o geriausias tos rungties sportininkas nustatomas pagal tarptautinės sporto šakos federacijos sudaromą sportininkų (jaunimo) reitingą) (toliau – pasaulio jaunimo čempionatas), jaunimo olimpinių žaidynių, paralimpinių ar kurčiųjų žaidynių 1–6 vietos laimėtoju;
+
+3) į paralimpinių ar kurčiųjų žaidynių programą įtrauktos rungties pasaulio (arba užėmė atitinkamą vietą tos sporto šakos sportininkų reitinge, jeigu tos sporto šakos pasaulio neįgaliųjų čempionatai nevykdomi, o geriausias tos rungties sportininkas nustatomas pagal tarptautinės sporto šakos federacijos sudaromą sportininkų reitingą) (toliau – pasaulio neįgaliųjų čempionatas), Europos neįgaliųjų ar į olimpinių žaidynių programą įtrauktos rungties Europos jaunimo čempionatų (toliau – Europos jaunimo čempionatas) 1–3 vietos laimėtoju;
+
+4) į paralimpinių ar kurčiųjų žaidynių programą įtrauktos rungties pasaulio jaunimo (arba užėmė atitinkamą vietą tos sporto šakos sportininkų (jaunimo neįgaliųjų) reitinge, jeigu tos sporto šakos pasaulio jaunimo neįgaliųjų čempionatai nevykdomi, o geriausias tos rungties sportininkas nustatomas pagal tarptautinės sporto šakos federacijos sudaromą sportininkų (jaunimo neįgaliųjų) reitingą) (toliau – pasaulio jaunimo neįgaliųjų čempionatas) ar Europos jaunimo neįgaliųjų čempionatų (toliau – Europos jaunimo neįgaliųjų čempionatas) 1 vietos laimėtoju.
+
+2. Valstybės stipendiją turi teisę gauti sportininkai:
+
+1) olimpinių žaidynių 1 vietos laimėtojai – 27 bazinių socialinių išmokų dydžio;
+
+2) olimpinių žaidynių 2, 3 vietos, pasaulio čempionatų, paralimpinių ar kurčiųjų žaidynių 1 vietos laimėtojai – 23 bazinių socialinių išmokų dydžio;
+
+3) olimpinių žaidynių 4–8 vietos, pasaulio čempionatų 2, 3 vietos, Europos čempionatų, Europos žaidynių (jeigu atitinkamoje sporto šakoje neorganizuojami Europos čempionatai) 1 vietos, paralimpinių ar kurčiųjų žaidynių 2, 3 vietos laimėtojai – 21 bazinės socialinės išmokos dydžio;
+
+4) olimpinių žaidynių 9–12 vietos, pasaulio čempionatų 4–8 vietos, Europos čempionatų, Europos žaidynių (jeigu atitinkamoje sporto šakoje neorganizuojami Europos čempionatai), pasaulio neįgaliųjų čempionatų 1 vietos laimėtojai – 17 bazinių socialinių išmokų dydžio;
+
+5) olimpinių žaidynių 13–16 vietos, pasaulio čempionatų 9–12 vietos, paralimpinių ar kurčiųjų žaidynių 4–6 vietos, pasaulio neįgaliųjų čempionatų 2, 3 vietos, Europos neįgaliųjų čempionatų 1 vietos laimėtojai – 15 bazinių socialinių išmokų dydžio;
+
+6) pasaulio čempionatų 13–16, Europos čempionatų, Europos žaidynių (jeigu atitinkamoje sporto šakoje neorganizuojami Europos čempionatai), Europos neįgaliųjų čempionatų 2, 3 vietos laimėtojai – 13 bazinių socialinių išmokų dydžio;
+
+7) pasaulio jaunimo čempionatų, jaunimo olimpinių žaidynių 1 vietos laimėtojai – 9 bazinių socialinių išmokų dydžio;
+
+8) pasaulio jaunimo čempionatų, jaunimo olimpinių žaidynių 2, 3 vietos ar Europos jaunimo čempionatų 1 vietos laimėtojai – 5 bazinių socialinių išmokų dydžio;
+
+9) pasaulio jaunimo čempionatų, jaunimo olimpinių žaidynių 4–6 vietos, Europos jaunimo čempionatų 2, 3 vietos, pasaulio jaunimo neįgaliųjų čempionatų ar Europos jaunimo neįgaliųjų čempionatų 1 vietos laimėtojai – 3 bazinių socialinių išmokų dydžio valstybės stipendiją.
+
+3. Jeigu yra kelios šio straipsnio 1 dalyje nurodytos sąlygos, sportininkas turi teisę vienu metu gauti tik vieną valstybės stipendiją jo pasirinkimu.
+
+4. Sportininkas, tapęs olimpinių žaidynių 1–3 vietos, pasaulio čempionatų, Europos čempionatų, Europos žaidynių (jeigu atitinkamoje sporto šakoje neorganizuojami Europos čempionatai), paralimpinių ar kurčiųjų žaidynių 1 vietos laimėtoju, turi teisę valstybės stipendiją gauti nuo atitinkamo laimėjimo pasiekimo dienos, jeigu dėl valstybės stipendijos skyrimo į Vyriausybės įgaliotą instituciją kreipėsi ne vėliau kaip per 3 mėnesius nuo atitinkamo laimėjimo pasiekimo dienos. Jeigu sportininkas dėl valstybės stipendijos skyrimo į Vyriausybės įgaliotą instituciją kreipėsi vėliau kaip per 3 mėnesius nuo atitinkamo laimėjimo pasiekimo dienos, jam valstybės stipendija skiriama tik nuo šio kreipimosi dienos.
+
+5. Sportininkas, tapęs olimpinių žaidynių 4–16 vietos, paralimpinių, kurčiųjų žaidynių ar pasaulio čempionatų 2–6 vietos, Europos čempionatų, Europos žaidynių (jeigu atitinkamoje sporto šakoje neorganizuojami Europos čempionatai) 2, 3 vietos, pasaulio neįgaliųjų čempionatų 1 vietos laimėtoju, turi teisę valstybės stipendiją gauti 4 metus nuo atitinkamo laimėjimo pasiekimo dienos, jeigu dėl valstybės stipendijos skyrimo į Vyriausybės įgaliotą instituciją kreipėsi ne vėliau kaip per 3 mėnesius nuo atitinkamo laimėjimo pasiekimo dienos. Jeigu sportininkas dėl valstybės stipendijos skyrimo į Vyriausybės įgaliotą instituciją kreipėsi vėliau kaip per 3 mėnesius nuo atitinkamo laimėjimo pasiekimo dienos, jam valstybės stipendija skiriama tik nuo šio kreipimosi dienos iki tos dienos, kol sueis 4 metų terminas skaičiuojant nuo atitinkamo laimėjimo pasiekimo dienos.
+
+6. Sportininkas, tapęs pasaulio čempionatų 7–16 vietos, Europos čempionatų, Europos žaidynių (jeigu atitinkamoje sporto šakoje neorganizuojami Europos čempionatai), paralimpinių ar kurčiųjų žaidynių 4–6 vietos, pasaulio neįgaliųjų čempionatų 2, 3 vietos, Europos neįgaliųjų čempionatų 1–3 vietos, pasaulio jaunimo čempionatų, jaunimo olimpinių žaidynių 1–6 vietos, Europos jaunimo čempionatų 1–3 vietos, pasaulio jaunimo neįgaliųjų ar Europos jaunimo neįgaliųjų čempionatų 1 vietos laimėtoju, turi teisę valstybės stipendiją gauti iki kito tos pačios kategorijos sporto renginio, kuris vyksta po to sporto renginio, kuriame buvo pasiektas atitinkamas laimėjimas, paskutinės dienos, bet ne ilgiau kaip 2 metus, jeigu dėl valstybės stipendijos skyrimo į Vyriausybės įgaliotą instituciją kreipėsi ne vėliau kaip per 3 mėnesius nuo atitinkamo laimėjimo pasiekimo dienos. Jeigu sportininkas dėl valstybės stipendijos skyrimo į Vyriausybės įgaliotą instituciją kreipėsi vėliau kaip per 3 mėnesius nuo atitinkamo laimėjimo pasiekimo dienos, jam valstybės stipendija skiriama tik nuo šio kreipimosi dienos iki kito tos pačios kategorijos sporto renginio, kuris vyksta po to sporto renginio, kuriame buvo pasiektas atitinkamas laimėjimas, paskutinės dienos, bet ne ilgiau kaip 2 metams (skaičiuojant nuo atitinkamo laimėjimo pasiekimo dienos).
+
+7. Sportininkui šio straipsnio 1 dalyje nurodyta valstybės stipendija neskiriama, o paskirtoji nemokama, kai atsiranda bent viena iš šių aplinkybių:
+
+1) jis neteko Lietuvos Respublikos pilietybės;
+
+2) jis įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl tyčinio nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą;
+
+3) valstybės stipendijos gavimo metu sportininkas manipuliuoja sporto varžybomis, pažeidžia antidopingo taisykles ir už šiuos pažeidimus jam buvo pritaikytos atitinkamos nevyriausybinės organizacijos, veikiančios aukšto meistriškumo sporto srityje, sankcijos arba šios sankcijos buvo taikytos kartu su baudžiamąja atsakomybe (jeigu už pažeidimą sportininkui buvo pritaikytos tik atitinkamos nevyriausybinės organizacijos, veikiančios aukšto meistriškumo sporto srityje, sankcijos, valstybės stipendija nemokama nuo šių sankcijų paskyrimo iki jų galiojimo termino pabaigos. Jeigu už pažeidimą sportininkui buvo pritaikyta tiek baudžiamoji atsakomybė, tiek ir atitinkamos nevyriausybinės organizacijos, veikiančios aukšto meistriškumo sporto srityje, sankcijos, valstybės stipendijos mokėjimas nutraukiamas atsižvelgiant į tai, kas įsiteisėjo anksčiau – teismo nuosprendis ar nevyriausybinės organizacijos, veikiančios aukšto meistriškumo sporto srityje, sankcijos, ir valstybės stipendija nemokama iki teistumo išnykimo ar panaikinimo arba atitinkamos nevyriausybinės organizacijos, veikiančios aukšto meistriškumo sporto srityje, sankcijų galiojimo termino pabaigos (atsižvelgiant į tai, kas iš jų baigia galioti vėliau);
+
+4) jis gauna valstybinę pensiją (nuo sprendimo skirti valstybinę pensiją dienos);
+
+5) jeigu laimėjimas, kurio pagrindu buvo skirta valstybės stipendija, buvo anuliuotas dėl manipuliavimo sporto varžybomis, antidopingo taisyklių pažeidimo;
+
+6) valstybės stipendijos gavimo metu nustatoma, kad sportininkas pažeidė antidopingo taisykles ir už tai jam buvo pritaikytos atitinkamos nevyriausybinės organizacijos, veikiančios aukšto meistriškumo sporto srityje, sankcijos. Valstybės stipendija nemokama nuo atitinkamos nevyriausybinės organizacijos, veikiančios aukšto meistriškumo sporto srityje, sankcijos už šį pažeidimą paskyrimo iki jos galiojimo termino pabaigos;
+
+7) jis, pasiekdamas šio straipsnio 1 dalyje nurodytą laimėjimą, nurungė mažiau varžovų, negu nurodyta šio įstatymo 23 straipsnio 3 dalyje;
+
+8) jis baigia sportininko karjerą;
+
+9) jis sporto varžybose atstovauja (ar sporto pratybose rengdamasis toms sporto varžyboms ketina atstovauti) kitai valstybei.
+
+8. Vyriausybės nustatyta tvarka šio straipsnio 1 dalyje nurodytas valstybės stipendijas iš valstybės biudžeto lėšų skiria ir moka Vyriausybės įgaliota institucija.
+
+9. Sportininkas privalo pranešti šio straipsnio 1 dalyje nurodytą valstybės stipendiją mokančiai Vyriausybės įgaliotai institucijai apie šio straipsnio 7 dalyje nurodytas aplinkybes per 5 darbo dienas nuo jų atsiradimo. Jeigu apie šias aplinkybes laiku nepranešama ir dėl to valstybės stipendija permokama, permokėtos valstybės stipendijos sumą sportininkas privalo grąžinti Vyriausybės įgaliotai institucijai, o jos negrąžinus, permokėtos valstybės stipendijos suma išieškoma iš valstybės stipendijos gavėjo įstatymų nustatyta tvarka.
+
+10. Šio straipsnio 7 dalies 5 punkte nurodytu atveju sportininkas privalo grąžinti visą anuliuotų laimėjimų pagrindu jam išmokėtos valstybės stipendijos sumą, o jos negrąžinus, išmokėtos valstybės stipendijos suma išieškoma iš valstybės stipendijos gavėjo įstatymų nustatyta tvarka.
+
+11. Sportininkas apie baigiamą karjerą informuoja Švietimo, mokslo ir sporto ministeriją jos nustatyta tvarka.
+
+12. Informacija apie sportininkams skirtas valstybės stipendijas skelbiama Vyriausybės įgaliotos institucijos interneto svetainėje.
+
+25 straipsnis. Rentos buvusiems sportininkams mokėjimo sąlygos ir tvarka
+
+1. Lietuvos Respublikos pilietis, baigęs sportininko karjerą, turi teisę šiame straipsnyje nurodytomis sąlygomis gauti rentą, jeigu jis turėdamas Lietuvos Respublikos pilietybę ir atstovaudamas Lietuvos Respublikai arba iki 2009 m. sausio 1 d. įgijęs Lietuvos Respublikos pilietybę ir iki pilietybės įgijimo yra tapęs:
+
+1) olimpinių žaidynių 1–3 vietos laimėtoju;
+
+2) į olimpinių žaidinių programą įtrauktos rungties pasaulio čempionatų 1 vietos laimėtoju;
+
+3) paralimpinių, kurčiųjų žaidynių, kai yra vykdomos atrankos varžybos ir yra kvotų šalims sistema, 1, 2 vietos laimėtoju arba, kai nėra vykdomos atrankos varžybos arba nėra taikoma kvotų šalims sistema, 1 vietos laimėtoju.
+
+2. Sportininkas, pasiekęs šio straipsnio 1 dalyje nurodytą laimėjimą, turi teisę gauti 27 bazinių socialinių išmokų dydžio rentą per mėnesį.
+
+3. Baigusiam sportininko karjerą asmeniui renta neskiriama, o paskirtoji nemokama, kai atsiranda bent viena iš šių aplinkybių:
+
+1) jis neteko Lietuvos Respublikos pilietybės;
+
+2) jis įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl tyčinio nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą;
+
+3) jis rentos gavimo metu manipuliuoja sporto varžybomis ir už šį pažeidimą jam buvo pritaikytos atitinkamos nevyriausybinės organizacijos, veikiančios aukšto meistriškumo sporto srityje, sankcijos arba šios sankcijos buvo taikytos kartu su baudžiamąja atsakomybe (jeigu už pažeidimą sportininkui buvo pritaikytos tik atitinkamos nevyriausybinės organizacijos, veikiančios aukšto meistriškumo sporto srityje, sankcijos, renta nemokama nuo šių sankcijų paskyrimo iki jų galiojimo termino pabaigos. Jeigu už pažeidimą sportininkui buvo pritaikyta tiek baudžiamoji atsakomybė, tiek ir atitinkamos nevyriausybinės organizacijos, veikiančios aukšto meistriškumo sporto srityje, sankcijos, rentos mokėjimas nutraukiamas atsižvelgiant į tai, kas įsiteisėjo anksčiau – teismo nuosprendis ar nevyriausybinės organizacijos, veikiančios aukšto meistriškumo sporto srityje, sankcijos, ir renta nemokama iki teistumo išnykimo ar panaikinimo arba atitinkamos nevyriausybinės organizacijos, veikiančios aukšto meistriškumo sporto srityje, sankcijų galiojimo termino pabaigos (atsižvelgiant į tai, kas iš jų baigia galioti vėliau);
+
+4) jis gauna valstybinę pensiją (nuo sprendimo skirti valstybinę pensiją dienos);
+
+5) jeigu laimėjimas, kurio pagrindu skirta renta, buvo anuliuotas dėl manipuliavimo sporto varžybomis, antidopingo taisyklių pažeidimo;
+
+6) rentos gavimo metu asmeniui buvo pritaikytos atitinkamos nevyriausybinės organizacijos, veikiančios aukšto meistriškumo sporto srityje, sankcijos už antidopingo taisyklių pažeidimus. Renta nemokama nuo atitinkamos nevyriausybinės organizacijos, veikiančios aukšto meistriškumo sporto srityje, sankcijos už šį pažeidimą paskyrimo iki jos galiojimo termino pabaigos;
+
+7) jis, pasiekdamas šio straipsnio 1 dalyje nurodytą laimėjimą, nurungė mažiau varžovų, negu nurodyta šio įstatymo 23 straipsnio 3 dalyje;
+
+8) jis atnaujina sportininko karjerą, apie tai informuodamas Švietimo, mokslo ir sporto ministeriją jos nustatyta tvarka.
+
+4. Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka rentas skiria Švietimo, mokslo ir sporto ministerija, moka Valstybinio socialinio draudimo fondo valdybos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos (toliau – Valstybinio socialinio draudimo fondo administravimo įstaigos) iš valstybės biudžeto lėšų.
+
+5. Rentos gavėjas privalo pranešti šio straipsnio 1 dalyje nurodytą rentą mokančiai Valstybinio socialinio draudimo fondo administravimo įstaigai apie šio straipsnio 3 dalyje nurodytas aplinkybes per 5 darbo dienas nuo jų atsiradimo.
+
+6. Rentos gavėjas privalo atitinkamai Valstybinio socialinio draudimo fondo administravimo įstaigai grąžinti rentos sumą, kuri jam buvo išmokėta esant šio straipsnio 3 dalyje nurodytoms aplinkybėms.
+
+7. Informacija apie asmenims skirtas rentas skelbiama Švietimo, mokslo ir sporto ministerijos interneto svetainėje.
+
+26 straipsnis. Valstybės ir savivaldybių institucijų ir įstaigų apdovanojimai už nuopelnus sporto srityje
+
+Valstybės ir savivaldybių institucijos ir įstaigos turi teisę steigti apdovanojimus už asmenų nuopelnus sportui iš reprezentacinių valstybės ar savivaldybių institucijų ar įstaigų lėšų. Kokie asmenys turi teisę gauti šiuos apdovanojimus, sprendžia ir apdovanojimų tvarką nustato apdovanojimus įsteigusios valstybės ir savivaldybių institucijos ir įstaigos.“
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+
+Pakeitimai:
+
+1.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-324, 1997-06-26, Žin., 1997, Nr. 65-1549 (1997-07-09), i. k. 0971010ISTAVIII-324
+
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 9, 12, 13 straipsnių pakeitimo įstatymas
+
+2.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-1478, 1999-12-14, Žin., 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010ISTAIII-1478
+
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 11, 27, 49, 50 straipsnių pakeitimo ir papildymo įstatymas
+
+3.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-238, 2005-06-09, Žin., 2005, Nr. 76-2745 (2005-06-18), i. k. 1051010ISTA000X-238
+
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo įstatymas
+
+4.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1501, 2008-04-17, Žin., 2008, Nr. 47-1752 (2008-04-24), i. k. 1081010ISTA00X-1501
+
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo pakeitimo įstatymas
+
+5.
+
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XI-493, 2009-11-19, Žin., 2009, Nr. 144-6346 (2009-12-05), i. k. 1091010ISTA00XI-493
 
-8 straipsnis. Nacionalinė kūno kultūros ir sporto taryba ir jos kompetencija
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 7, 12, 15, 41 ir 44 straipsnių pakeitimo įstatymas
 
-1. Vyriausybė, siekdama skatinti visų valstybės valdymo institucijų ir nevyriausybinių organizacijų domėjimąsi kūno kultūra ir sportu bei jų bendradarbiavimą, sudaro Nacionalinę kūno kultūros ir sporto tarybą ir tvirtina jos reglamentą.
+6.
 
-2. Nacionalinė kūno kultūros ir sporto taryba:
-
-1) propaguoja kūno kultūrą ir sportą;
-
-2) siekia, kad kūno kultūros ir sporto plėtra neprieštarautų tarptautiniams kūno kultūrą ir sportą reglamentuojantiems aktams.
-
-3. Į Nacionalinę kūno kultūros ir sporto tarybą atstovus deleguoja Seimo Jaunimo ir sporto reikalų komisija, Vyriausybės kanceliarija, Finansų, Krašto apsaugos, Socialinės apsaugos ir darbo, Švietimo ir mokslo, Sveikatos apsaugos, Užsienio reikalų ir Vidaus reikalų ministerijos, Kūno kultūros ir sporto departamentas, nevyriausybinės sporto organizacijos. Atstovų skaičius, jų kadencijos trukmė ir pirmininko rinkimo tvarka nustatoma Nacionalinės kūno kultūros ir sporto tarybos reglamente.
-
-9 straipsnis. Kūno kultūros ir sporto departamentas ir jo kompetencija
-
-Kūno kultūros ir sporto departamentas, plėtodamas kūno kultūrą ir sportą Lietuvoje:
-
-1) dalyvauja formuojant Lietuvos Respublikos politiką kūno kultūros ir sporto srityje ir ją vykdo;
-
-2) rengia kūno kultūros ir sporto ilgalaikę strategiją ir plėtros programas, institucijos strateginius veiklos planus, kontroliuoja, kaip jie vykdomi;
-
-3) tvirtina strateginių sporto šakų sąrašą;
-
-4) disponuoja valstybės biudžeto asignavimais, Lietuvos Respublikos kūno kultūros ir sporto rėmimo fondo lėšomis ir kitomis teisėtai gautomis lėšomis, kontroliuoja, kaip jos naudojamos;
-
-5) koordinuoja kūno kultūros ir sporto sistemos subjektų veiklą kūno kultūros ir sporto srityje;
-
-6) bendradarbiauja kūno kultūros ir sporto srityje su lietuvių bendruomenėmis užsienyje;
-
-7) nustato kūno kultūros ir sporto įstaigų vadovų, trenerių bei specialistų kvalifikacinius reikalavimus, jų atestavimo, kategorijų suteikimo, kūno kultūros ir sporto veiklos leidimų išdavimo tvarką;
-
-8) skatina kūno kultūros ir sporto informacinės sistemos ir sporto mokslo plėtrą;
-
-9) kaupia ir analizuoja kūno kultūros ir sporto statistinę informaciją;
-
-10) vadovaudamasis Vyriausybės nutarimais, nustato biudžetinių kūno kultūros ir sporto įstaigų ir organizacijų darbuotojų darbo apmokėjimo tvarką;
-
-11) Vyriausybei įgaliojus įgyvendina sporto ir medicinos centrų ir kitų iš valstybės biudžeto ar valstybės pinigų fondų išlaikomų biudžetinių įstaigų savininko teises ir pareigas ar viešųjų įstaigų dalininko (savininko) turtines ir neturtines teises;
-
-Papildyta straipsnio punktu:
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XI-850, 2010-05-25, Žin., 2010, Nr. 67-3348 (2010-06-10), i. k. 1101010ISTA00XI-850
 
-12) atlieka kitas šiame ir kituose teisės aktuose nustatytas funkcijas.
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 5, 9 straipsnių pakeitimo ir papildymo ir 11 straipsnio pripažinimo netekusiu galios įstatymas
 
-Straipsnio punkto numeracijos pakeitimas:
+7.
 
-Nr. XI-850, 2010-05-25, Žin., 2010, Nr. 67-3348 (2010-06-10), i. k. 1101010ISTA00XI-850
+Lietuvos Respublikos Seimas, Įstatymas
 
-10 straipsnis. Ministerijų ir kitų valstybės institucijų kompetencija kūno kultūros ir sporto srityje
+Nr. XII-84, 2012-12-20, Žin., 2012, Nr. 155-7982 (2012-12-31), i. k. 1121010ISTA00XII-84
 
-1. Krašto apsaugos ministerija ir kitos krašto apsaugos sistemos institucijos pagal savo kompetenciją organizuoja ir užtikrina karių fizinį parengtumą, sudaro sąlygas kariams sportuoti ir dalyvauti sporto varžybose.
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo ir papildymo įstatymas
 
-2. Socialinės apsaugos ir darbo ministerija plėtoja neįgaliųjų kūno kultūrą ir sportą kaip integravimosi į visuomenę priemonę, remia šeimos ir bendruomenės fizinio aktyvumo iniciatyvas bei programas.
+8.
 
-3. Susisiekimo ministerija reglamentuoja aviacijos sportininkų ir specialistų kvalifikacijos, skrydžių saugos, orlaivių techninės būklės kontrolės, skrydžių, motorlaivių, automobilių ir motociklų sporto organizavimo ir valdymo klausimus.
+Lietuvos Respublikos Seimas, Įstatymas
 
-4. Sveikatos apsaugos ministerija plėtoja sveikos gyvensenos principus, rengia ir koordinuoja fizinio aktyvumo skatinimo programas, rengia teisės aktų, susijusių su fizinio aktyvumo didinimu, projektus, dalyvauja sprendžiant kovos su dopingo vartojimu sporte klausimus, nustato sportininkų ir sportuotojų sveikatos tikrinimo reikalavimus.
+Nr. XII-699, 2013-12-19, Žin., 2013, Nr. 140-7072 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00380
 
-5. Švietimo ir mokslo ministerija pagal savo kompetenciją formuoja ir vykdo kūno kultūros ir sporto politiką formaliojo ir neformaliojo švietimo programas vykdančiose įstaigose.
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo ĮSTATYMAS
 
-6. Vidaus reikalų ministerija rūpinasi vidaus tarnybos sistemos pareigūnų fiziniu parengtumu, sudaro sąlygas šiems asmenims sportuoti ir dalyvauti sporto varžybose.
+9.
 
-7. Kitos ministerijos ir valstybės institucijos pagal savo kompetenciją dalyvauja formuojant kūno kultūros ir sporto politiką, įgyvendina ją ir sudaro sąlygas plėtoti kūno kultūrą ir sportą.
-
-11 straipsnis. Neteko galios nuo 2010-07-01
-
-Straipsnio naikinimas:
-
-Nr. XI-850, 2010-05-25, Žin. 2010, Nr. 67-3348 (2010-06-10), i. k. 1101010ISTA00XI-850
-
-12 straipsnis. Savivaldybių kompetencija
-
-1. Kūno kultūros ir sporto politiką savivaldybėje formuoja savivaldybės taryba.
-
-2. Savivaldybių tarybos steigia ir likviduoja kūno kultūros ir sporto įstaigas, savo nustatyta tvarka gali finansuoti sportininkų ugdymo centrų, sporto klubų ir kitų nevyriausybinių teritorijoje veikiančių sporto organizacijų, neatliekančių viešojo administravimo funkcijų, veiklą.
-
-3. Savivaldybių tarybos gali nustatyti stipendijų, kurios būtų mokamos iš savivaldybių biudžetų, skyrimo sportininkams kriterijus ir tvarką, taip pat premijų, kurios būtų mokamos iš savivaldybių biudžetų, skyrimo savivaldybių rinktinių nariams kriterijus ir tvarką.
-
-4. Savivaldybės administracijos direktorius arba jo įgaliotas kitas savivaldybės administracijos padalinys ar savivaldybės įstaiga, įgyvendindami kūno kultūros ir sporto politiką savivaldybės teritorijoje:
-
-1) įgyvendina kūno kultūros ir sporto plėtojimo savivaldybėje priemones, numatytas savivaldybės tarybos patvirtintuose savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose;
-
-Straipsnio punkto pakeitimai:
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XII-476, 2013-07-02, Žin., 2013, Nr. 79-3997 (2013-07-23), i. k. 1131010ISTA0XII-476
 
-2) įgyvendina sporto bazių plėtros strategiją savivaldybėje, užtikrina jų prieinamumą gyventojams;
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 12 straipsnio pakeitimo įstatymas
 
-3) savivaldybių tarybų nustatyta tvarka finansuoja rinktinių dalyvavimą šalies ir tarptautinėse varžybose;
+10.
 
-4) vykdo šviečiamąją veiklą, formuoja jų teritorijoje gyvenančių žmonių pozityvų požiūrį į kūno kultūros ir sporto reikšmę sveikatai;
+Lietuvos Respublikos Seimas, Įstatymas
 
-5) tvirtina miestų ir (ar) savivaldybių sporto šakų rinktines.
+Nr. XII-1722, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08065
 
-Straipsnio dalies pakeitimai:
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 41 straipsnio pakeitimo įstatymas
 
-Nr. XI-493, 2009-11-19, Žin., 2009, Nr. 144-6346 (2009-12-05), i. k. 1091010ISTA00XI-493
+11.
 
-ANTRASIS SKIRSNIS
-
-NEVYRIAUSYBINIŲ ORGANIZACIJŲ KOMPETENCIJA PLĖTOJANT KŪNO KULTŪRĄ IR SPORTĄ
-
-13 straipsnis. Kūno kultūros ir sporto plėtra
-
-1. Teisės aktų nustatyta tvarka įregistruotos nevyriausybinės kūno kultūros ir sporto organizacijos plėtoja šalyje olimpinį, parolimpinį, kurčiųjų ir specialiosios olimpiados, sporto visiems sąjūdžius, įvairias sporto šakas, sporto šakų grupes ar sportą visiems. Kūno kultūros ir sporto organizacijos įstatymų nustatyta tvarka ir tikslais turi teisę jungtis į asociacijas.
-
-2. Šios organizacijos savo veikloje vadovaujasi Lietuvos Respublikos teisės aktais, tarptautinių kūno kultūros ir sporto organizacijų nuostatais ir kitais tarptautiniais dokumentais.
-
-14 straipsnis. Kūno kultūros ir sporto klubų veikla
-
-1. Pagrindinė sporto institucija yra sporto klubas. Gali būti sporto mėgėjų ir profesionaliojo sporto klubai.
-
-2. Sporto mėgėjų klubai yra Lietuvos Respublikos viešieji juridiniai asmenys ir Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėje narėje ir kitoje Europos ekonominės erdvės valstybėje įsisteigusios įmonės filialai, kurių tikslas – tenkinti viešuosius interesus kūno kultūros ir sporto srityje, vienyti sportuotojus ir sportininkus fiziniam aktyvumui, sveikai gyvensenai, kūno kultūros ir sporto plėtrai, siekti kokybinių ir kiekybinių kūno kultūros ir sporto rezultatų. Sporto mėgėjų klubu taip pat laikomas švietimo ir mokslo įstaigos padalinys, vienijantis kurios nors vienos arba kelių šakų sportininkus, sportuotojus, rėmėjus.
-
-3. Profesionaliojo sporto klubai yra Lietuvos Respublikos privatūs juridiniai asmenys ir Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėje narėse ir kitoje Europos ekonominės erdvės valstybėje įsisteigusios įmonės filialai, kurių tikslas – plėtoti profesionalųjį sportą kaip ekonominę veiklą, siekti kokybinių ir kiekybinių sporto rezultatų.
-
-15 straipsnis. Sporto (šakų) federacijų veikla
-
-1. Gali būti steigiamos nacionalinė arba regioninės sporto (šakų) federacijos.
-
-2. Kūno kultūros ir sporto departamentas pripažįsta tik vieną teisės aktų nustatyta tvarka Juridinių asmenų registre įregistruotą nacionalinę sporto (šakos) federaciją, kurios pavadinime vartojamas Lietuvos vardas ir kuri jungia ne mažiau kaip trijose skirtingose Lietuvos apskrityse veikiančias to sporto (tos šakos) kūno kultūros ir sporto organizacijas. Nacionalinių sporto (šakų) federacijų pripažinimo tvarką ir kitus kriterijus nustato Kūno kultūros ir sporto departamentas.
-
-Straipsnio dalies pakeitimai:
-
-Nr. XI-493, 2009-11-19, Žin., 2009, Nr. 144-6346 (2009-12-05), i. k. 1091010ISTA00XI-493
-
-3. Kūno kultūros ir sporto departamentas tik su pripažinta nacionaline sporto (šakos) federacija pasirašo biudžeto lėšų naudojimo sutartį. Sutarties sudarymo tvarką ir formą nustato Kūno kultūros ir sporto departamentas.
-
-4. Tik Kūno kultūros ir sporto departamento pripažinta nacionalinė sporto (šakos) federacija:
-
-1) organizuoja oficialų nacionalinį čempionatą;
-
-2) sudaro sporto šakų Lietuvos rinktines ir atstovauja Lietuvai tarptautinėse varžybose;
-
-3) užtikrina Lietuvos rinktinių pasirengimą ir dalyvavimą varžybose;
-
-4) gavusi Kūno kultūros ir sporto departamento leidimą, organizuoja Lietuvoje tarptautinius sporto renginius, tarptautines, kompleksines sporto varžybas;
-
-5) pagal tarptautines antidopingo kontrolės taisykles taiko sankcijas už dopingo vartojimą, organizuoja dopingo kontrolę varžybų metu, vykdo šviečiamąją veiklą dėl dopingo kontrolės;
-
-6) taiko sankcijas už dalyvavimą manipuliuojant sporto varžybomis, vykdo manipuliavimo sporto varžybomis prevenciją ir šviečiamąją veiklą šioje srityje;
-
-Papildyta straipsnio punktu:
+Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
 
-7) atlieka kitas Lietuvos sporto (šakos) federacijos įstatuose nurodytas funkcijas.
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 2, 3, 15, 30, 41 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
 
-Straipsnio punkto numeracijos pakeitimas:
+12.
 
-Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+Lietuvos Respublikos Seimas, Įstatymas
 
-5. Kūno kultūros ir sporto departamento nustatyta tvarka Lietuvos sporto (šakos) federacijos plėtojama sporto šaka, įvertinant pasiektus sporto rezultatus per paskutinį olimpinį ciklą, gali būti pripažinta strategine sporto šaka ir įtraukta į strateginių sporto šakų sąrašą.
+Nr. XIII-1540, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17451
 
-TREČIASIS SKIRSNIS
-
-KŪNO KULTŪRA IR SPORTAS ŠVIETIMO ĮSTAIGOSE
-
-16 straipsnis. Kūno kultūros ir sporto pratybų organizavimo švietimo įstaigose principai
-
-1. Švietimo įstaigų vadovai atsako už kūno kultūros mokytojų kvalifikaciją, sporto bazių būklę, aprūpinimą mokymo priemonėmis, saugią ir sveiką sportavimo aplinką per pamokas, po pamokų ir mokinių atostogų metu.
-
-2. Visose formaliojo švietimo programas vykdančiose įstaigose kiekvienais mokslo metais mokinių fizinis parengtumas testuojamas, pasiekimai pažymiais nevertinami.
-
-17 straipsnis. Kūno kultūros ir sporto pratybos formaliojo švietimo programas vykdančiose įstaigose
-
-1. Kūno kultūros pamokos formaliojo švietimo programas vykdančiose įstaigose, išskyrus aukštąsias mokyklas, yra privalomos ne mažiau kaip 3 valandas per savaitę ir organizuojamos vadovaujantis Lietuvos bendrojo lavinimo mokyklų bendrosiomis programomis, išsilavinimo standartais ir bendraisiais sveikatos saugos reikalavimais.
-
-2. Įgyvendinant aukštojo mokslo studijų programas, pirmame ir antrame kursuose kūno kultūros ir sporto pratybų turi būti ne mažiau kaip 2 valandos per savaitę, o kituose kursuose – pasirinktinai.
-
-3. Įgyvendinant specialiojo ugdymo programas, kūno kultūros ir sporto pratybos organizuojamos pagal ugdymo planus ir programas.
-
-18 straipsnis. Kūno kultūros ir sporto pratybos neformaliojo švietimo programas vykdančiose švietimo įstaigose
-
-1. Ikimokyklinio ir priešmokyklinio ugdymo programų vaikams aktyvi veikla yra privaloma visą ugdymosi laikotarpį skiriant ne mažiau kaip po vieną valandą per dieną.
-
-2. Kitose neformaliojo švietimo programas vykdančiose švietimo įstaigose kūno kultūros pratybos vykdomos pagal patvirtintus mokymo planus ir (ar) programas.
-
-3. Kvalifikacinius reikalavimus mokytojams dirbti šio įstatymo 16 ir 17 straipsniuose nurodytose švietimo įstaigose nustato Švietimo įstatymas, o dėstytojams aukštosiose mokyklose – Aukštojo mokslo įstatymas.
-
-KETVIRTASIS SKIRSNIS
-
-KŪNO KULTŪROS IR SPORTO FINANSAVIMAS
-
-19 straipsnis. Kūno kultūros ir sporto finansavimo šaltiniai
-
-Kūno kultūros ir sporto finansavimo šaltiniai:
-
-1) valstybės biudžeto ir savivaldybių biudžetų asignavimai;
-
-2) lėšos, gautos iš loterijų organizavimo;
-
-3) kitos teisėtai gautos lėšos.
-
-20 straipsnis. Investicijos į kūno kultūros ir sporto plėtrą
-
-1. Valstybė ir savivaldybės skiria investicijas kūno kultūros ir sporto plėtrai (statyboms, turtui įsigyti, žmogiškiesiems ištekliams ir kita) valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo nustatyta tvarka. Savivaldybės investicijas kūno kultūros ir sporto plėtrai skiria savivaldybių tarybų patvirtintų savivaldybių biudžetų nustatyta tvarka.
-
-2. Investicinius projektus kūno kultūros ir sporto srityje rengia ministerijos, Kūno kultūros ir sporto departamentas, savivaldybės, vadovaudamiesi Vyriausybės programa, strateginio planavimo dokumentais ir savivaldybių strateginiais planais.
-
-21 straipsnis. Valstybės ir savivaldybių biudžetų lėšų skyrimas kūno kultūros ir sporto plėtrai
-
-1. Nevyriausybinės kūno kultūros ir sporto organizacijos gali gauti valstybės ir savivaldybių biudžetų lėšų kūno kultūros ir sporto programoms ir projektams įgyvendinti. Su šiomis organizacijomis lėšas skirianti valstybės institucija ar savivaldybės administracija pasirašo biudžeto lėšų naudojimo sutartis.
-
-2. Valstybės ir savivaldybių institucijos, skyrusios lėšų šio straipsnio 1 dalyje nurodytiems tikslams, turi teisę tikrinti, kaip šios lėšos naudojamos. Organizacijos, gavusios lėšų iš valstybės ir savivaldybės biudžetų, privalo pateikti šių lėšų naudojimo ataskaitą lėšas skyrusioms institucijoms.
-
-3. Jeigu organizacijos, gavusios lėšų iš valstybės ir savivaldybių biudžetų, nepateikia biudžeto lėšų panaudojimo ataskaitų arba nesudaro sąlygų patikrinti biudžeto lėšas, biudžeto asignavimų valdytojas turi teisę sustabdyti, sumažinti arba nutraukti biudžeto lėšų skyrimą programoms vykdyti.
-
-4. Organizacijos, gavusios lėšų iš valstybės ir savivaldybių biudžetų, už lėšų panaudojimą atsako teisės aktų nustatyta tvarka.
-
-22 straipsnis. Sportininkų stipendijos
-
-1. Olimpinių ir parolimpinių sporto šakų didelio meistriškumo sportininkams, kurie rengiasi tarptautinėms varžyboms ir atstovauja jose Lietuvai, gali būti mokamos Vyriausybės nustatyto dydžio valstybės stipendijos.
-
-2. Vyriausybės nustatyto dydžio stipendijas Lietuvos tautinio olimpinio komiteto, Lietuvos parolimpinio komiteto ir atitinkamų sporto (šakų) federacijų teikimu skiria ir stipendijų mokėjimo tvarką nustato Kūno kultūros ir sporto departamentas.
-
-3. Šio įstatymo 12 straipsnio 3 dalyje nustatyta tvarka stipendijas sportininkams gali mokėti savivaldybės administracija ar jos įgaliota institucija.
-
-4. Skiriant stipendiją, sportininkas ir stipendiją išmokanti organizacija sudaro sutartį, kurioje numatomos šalių teisės ir pareigos.
-
-23 straipsnis. Didelio meistriškumo rinktinių skatinimas
-
-1. Didelio meistriškumo sportininkams ir kitiems rinktinių nariams už sporto laimėjimus gali būti skiriamos Vyriausybės nustatyto dydžio premijos.
-
-2. Premijos mokamos iš valstybės biudžeto lėšų, skirtų Kūno kultūros ir sporto departamentui.
-
-3. Premijų mokėjimo tvarką nustato Kūno kultūros ir sporto departamentas.
-
-24 straipsnis. Valstybės parama sportui
-
-Valstybė finansinėmis ir ekonominėmis priemonėmis remia gyventojų sportavimą, sveikatos stiprinimą įvairiomis fizinės veiklos formomis įstatymų nustatyta tvarka.
-
-PENKTASIS SKIRSNIS
-
-KŪNO KULTŪROS IR SPORTO SPECIALISTAI
-
-25 straipsnis. Kūno kultūros ir sporto pratybos
-
-1. Kūno kultūros ir sporto pratybas gali vykdyti tik kūno kultūros ir sporto specialistai.
-
-2. Darbdavys, priimdamas į darbą kūno kultūros ir sporto specialistą, privalo įsitikinti, ar asmuo turi reikiamą išsilavinimą arba galiojantį kūno kultūros ir sporto veiklos leidimą. Darbdavys, pažeidęs šio straipsnio nuostatas, atsako Administracinių teisės pažeidimų kodekso nustatyta tvarka.
-
-26 straipsnis. Kūno kultūros ir sporto veiklos leidimas
-
-Kūno kultūros ir sporto departamentas nustato kūno kultūros ir sporto veiklos leidimų išdavimo tvarką, leidimų galiojimo terminus, asmenų, siekiančių tapti kūno kultūros ir sporto specialistais ir gauti leidimą, kvalifikacijos reikalavimus.
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas
 
 27 straipsnis. Kūno kultūros ir sporto specialistų veiklos reglamentavimas
 
