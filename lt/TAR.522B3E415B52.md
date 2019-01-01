@@ -4,7 +4,7 @@ identifier: "TAR.522B3E415B52"
 country: "lt"
 rank: "istatymas"
 publication_date: "1994-05-31"
-last_updated: "2018-07-01"
+last_updated: "2019-01-01"
 status: "in_force"
 source: "https://e-tar.lt/portal/lt/legalAct/TAR.522B3E415B52"
 department: "Lietuvos Respublikos Seimas"
@@ -18,7 +18,7 @@ eu_legal_act: "true"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
 
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
 
@@ -1734,21 +1734,29 @@ Nr. IX-1014, 2002-07-02, Žin., 2002, Nr. 73-3090 (2002-07-19)
 
 3. Teisėjui, perkeltam į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus šio Įstatymo 63 straipsnio 6 dalyje numatytu atveju, Vyriausybės nustatyta tvarka kompensuojamos su perkėlimu susijusios išlaidos.
 
-4. Teisėjo, kuris buvo tyčia nužudytas dėl teisėjo pareigų atlikimo, šeimai, tai yra jo vaikams (įvaikiams) iki 18 metų, vaikams (įvaikiams) iki 24 metų, kurie yra nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokiniai arba nuolatinių ar ištęstinių studijų programų studentai, taip pat gimusiems po teisėjo mirties jo vaikams, sutuoktiniui, tėvui ar motinai, nedarbingiems asmenims, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, – lygiomis dalimis per trejus metus nuo teisėjo mirties valstybė sumoka 120 mėnesių jo mėnesinio atlyginimo (toliau – MA) dydžio išmoką.
+4. Teisėjo, kuris buvo tyčia nužudytas dėl teisėjo pareigų atlikimo, šeimai, tai yra jo vaikams (įvaikiams) iki 18 metų, vaikams (įvaikiams) iki 24 metų, kurie yra nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokiniai arba nuolatinių ar ištęstinių studijų programų studentai, taip pat gimusiems po teisėjo mirties jo vaikams, sutuoktiniui, tėvui ar motinai, nedarbingiems asmenims, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, – lygiomis dalimis per trejus metus nuo teisėjo mirties valstybė sumoka 93,10 mėnesio jo mėnesinio atlyginimo (toliau – MA) dydžio išmoką.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1736, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20704
 
 5. Teisėjas, tyčia nužudytas dėl teisėjo pareigų atlikimo, laidojamas valstybės lėšomis, kurios negali viršyti 40 bazinių socialinių išmokų dydžio. Valstybės apmokamų laidojimo išlaidų aprašą tvirtina Vyriausybė ar jos įgaliota institucija.
 
 6. Teisėjui, kuriam buvo tyčia sutrikdyta sveikata dėl teisėjo pareigų atlikimo, valstybė sumoka kompensaciją pagal netekto darbingumo lygį ar sveikatos sutrikdymo sunkumą:
 
-1) dėl sveikatos sutrikdymo netekusiam 75–100 procentų darbingumo, – 60 MA dydžio;
+1) dėl sveikatos sutrikdymo netekusiam 75–100 procentų darbingumo – 46,55 MA dydžio;
 
-2) dėl sveikatos sutrikdymo netekusiam 60–70 procentų darbingumo, – 48 MA dydžio;
+2) dėl sveikatos sutrikdymo netekusiam 60–70 procentų darbingumo – 37,24 MA dydžio;
 
-3) dėl sveikatos sutrikdymo netekusiam 45–55 procentų darbingumo, – 36 MA dydžio;
+3) dėl sveikatos sutrikdymo netekusiam 45–55 procentų darbingumo – 27,93 MA dydžio;
 
-4) dėl sunkaus sveikatos sutrikdymo – 24 MA dydžio;
+4) dėl sunkaus sveikatos sutrikdymo – 18,62 MA dydžio;
 
-5) dėl nesunkaus sveikatos sutrikdymo – iki 12 MA dydžio.
+5) dėl nesunkaus sveikatos sutrikdymo – iki 9,31 MA dydžio.
+
+Straipsnio dalies pakeitimai:
+
+Nr. XIII-1736, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20704
 
 7. Teisėjo tyčinio nužudymo ar tyčinio sveikatos sutrikdymo dėl teisėjo pareigų atlikimo faktinės aplinkybės nustatomos teismo sprendimu.
 
